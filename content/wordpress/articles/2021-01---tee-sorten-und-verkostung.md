@@ -1,36 +1,34 @@
 ---
 date: 2021-01-26T13:24:30.000+00:00
 slug: tee-sorten-verkostung
-path: "/2021/01/tee-sorten-verkostung/"
+path: '/2021/01/tee-sorten-verkostung/'
 type: Artikel
 typeName: Produkttest
 title: Tee – Sorten und Verkostung
 seoTitle: Tee – Sorten und Verkostung – von Silbernadel bis Jasmine Pearls
 ogTitle: Tee – Sorten und Verkostung – von Silbernadel bis Jasmine Pearls
-description: Was gibt es Schöneres, als gemütlich eine Tasse Tee zu genießen? Ich
-  nutze die Gelegenheit und erzähle etwas über Teesorten.
-excerpt: Was gibt es Schöneres, als gemütlich eine Tasse Tee zu genießen? Ich nutze
-  die Gelegenheit und erzähle Euch etwas über Teesorten – inklusive persönlicher Anekdoten.
+description: Was gibt es Schöneres, als gemütlich eine Tasse Tee zu genießen? Ich nutze die Gelegenheit und erzähle etwas über Teesorten.
+excerpt: Was gibt es Schöneres, als gemütlich eine Tasse Tee zu genießen? Ich nutze die Gelegenheit und erzähle Euch etwas über Teesorten – inklusive persönlicher Anekdoten.
 fileName: 2021-01---tee-sorten-und-verkostung.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_2021-01-25-roberts-teehaus-46__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_2021-01-25-roberts-teehaus-46__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAj/xAAsEAACAQIFAwMCBwAAAAAAAAABAgMEEQAFBhIhBxNBIjFRQqEUMmGBgrHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBAgX/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADERJB8AQhMWHB/9oADAMBAAIRAxEAPwCb9LNKQ1Jq66aJXNPHaNTxdttyb+PpH8ji0dMMjpM2krqeqeiqgyKzxBtq2uV29s32WtwQfvhA6bzinhlhCPIr8tFGbPJGyFXC2+tRtYD39Jxn07pnUK5/DFlSzczCaXNNrqu29yS5sS3sdvPPGF7VItFhbCjbnPjFZDVmsDud44aw0KKTTtU/ZU09LW7IpiRcsSVK/NtoW/6qMR3UOm1SJn2AecdIZrTQ1IrIKqulmMjiQiKMDtuS20t+59ja9hiPaqJpzLDOVO0XDD8rA+R/vGCVdRXadKwT0ugyYk6az0IqetlItYg2sfkH5xT8h6k1uXyFKyT8dTsQT3GO8ceCOSPvgwYtdUtq6XEip2RsrHdc+yivy01+Rkd/kyosgMoJHC3Jtt839vPvfEV6gZ7FXxPIiduZWIIB3Bja+4H+x5sDgwYzqznHqNMND4Hgz//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_tee-fb.png__l.jpg
 labels:
-- Cream Tea
-- Ernährung & Gesundheit
-- Grüner Tee
-- High Tea
-- Jasmin-Tee
-- Oolong
-- Oolong-Tee
-- Ostfriesentee
-- Rooibos
-- Schwarzer Tee
-- Teatime
-- Tee
-- Teeverkostung
-- Weißer Tee
+  - Cream Tea
+  - Ernährung & Gesundheit
+  - Grüner Tee
+  - High Tea
+  - Jasmin-Tee
+  - Oolong
+  - Oolong-Tee
+  - Ostfriesentee
+  - Rooibos
+  - Schwarzer Tee
+  - Teatime
+  - Tee
+  - Teeverkostung
+  - Weißer Tee
 focusKeyword: Tee
 status: publish
 isWerbung: false
@@ -40,8 +38,8 @@ errors: {}
 subTitle: Von Silbernadel bis Jasmine Pearls
 advertisement: true
 affiliate: true
-
 ---
+
 **Was gibt es Schöneres, als hinter der angefrorenen Fensterscheibe zu sitzen und gemütlich, eine Tasse heißen Tee zu genießen? Winterzeit ist Teezeit. Tee wärmt nicht nur das Herz und kann wunderbar anregend wirken, er hebt auch die Laune. Bei uns ist kürzlich eine neue Tee-Lieferung eingetroffen. Ich möchte die Gelegenheit nutzen und Euch ein bisschen was über Teesorten erzählen.**
 
 Insgesamt haben wir dieses Mal 15 komplett unterschiedliche Sorten ausprobiert – von grünem Tee bis Earl Grey. Der Tee kommt von Roberts Teehaus – das hat sich in der Vergangeheit schon bewehrt. Doch dazu später mehr. Wir kommen zu den getesteten Sorten, auf die ich ihm Anschluss weiter eingehen werde:

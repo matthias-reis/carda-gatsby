@@ -1,32 +1,29 @@
 ---
 date: 2021-04-11T11:05:06.000+00:00
 slug: gumbies-slingbacks-cairns
-path: "/2021/04/gumbies-slingbacks-cairns/"
+path: '/2021/04/gumbies-slingbacks-cairns/'
 type: Artikel
 typeName: Produkttest
 title: Die neuen Gumbies sind da
 seoTitle: Die neuen Gumbies sind da – der Sandalen-Sommer kann kommen
 ogTitle: Die neuen Gumbies sind da – der Sandalen-Sommer kann kommen
-description: Von Gumbies gibt es jetzt zwei komplett neue Modelle, die Matze und ich
-  getestet und für gut befunden haben. Beide sind komplett vegan.
-excerpt: Der Sommer steht kurz bevor – unsere Sandalen haben wir schon. Von Gumbies
-  gibt es jetzt zwei komplett neue Modelle, die Matze und ich getestet und für gut
-  befunden haben. Beide sind natürlich wieder komplett vegan.
+description: Von Gumbies gibt es jetzt zwei komplett neue Modelle, die Matze und ich getestet und für gut befunden haben. Beide sind komplett vegan.
+excerpt: Der Sommer steht kurz bevor – unsere Sandalen haben wir schon. Von Gumbies gibt es jetzt zwei komplett neue Modelle, die Matze und ich getestet und für gut befunden haben. Beide sind natürlich wieder komplett vegan.
 fileName: 2021-04---die-neuen-gumbies-sind-da.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_2021-03-28-gumbies-69__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_2021-03-28-gumbies-69__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEESEABRIGEzEUQVFhB3EVQoH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/8QAIREAAQMEAQUAAAAAAAAAAAAAAgABAxESIVHwEzFhcdH/2gAMAwEAAhEDEQA/ALR1Du0u19TxwzTTyUu6QAU5U+JEOAPAuc597jWEm+9vf0nqSIKmEvHEsknbDqRk2vxYgkXBvY5GuLqWOqm7sCqxqQp7aqwHaxhmb+oBthc6Ut/qpP46m3SuipJTSSXSJpyJp5AQLBRYNe5tfPz76ITFgID3Vue00kRSmLxtTGfvNLOq+tN1krFX1jrKTwJBBvxJXBz8E/snTdS7xW1n4/gFLBUS7l6tGkEYKlhGRHfkSL3VfY/Wo/OSm5UwgkMfcEsiXZSVUsSF+yLgXGq70G1Q/Tm3yypbkrsjcMgGRvItkaOsYlcPeqV4hMbSTtvNHHO0UEV4klZQSMnJ8/5pJr+mtsfeRUJTRrJCojRioLWtnPyfnRo1nNaI1kbB+KqWqr5DJucvpqeSWPgIRzZUkZLc74vxvgapnT+3U8Eu4UUKKlNTyIYUAwiyRq/EfQPK370aNVbal4X/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_gumbies-fb.png__l.jpg
 labels:
-- Fair Fashion & Beauty
-- Flip-Flops
-- Gumbies
-- Sandalen
-- Upcycling
-- vegane Flip-Flops
-- vegane Schuhe
-- veganes Leder
-- Zehentrenner
+  - Fair Fashion & Beauty
+  - Flip-Flops
+  - Gumbies
+  - Sandalen
+  - Upcycling
+  - vegane Flip-Flops
+  - vegane Schuhe
+  - veganes Leder
+  - Zehentrenner
 focusKeyword: Gumbies
 status: publish
 isWerbung: false
@@ -35,8 +32,8 @@ language: de
 errors: {}
 subTitle: Der Sandalen-Sommer kann kommen
 advertisement: true
-
 ---
+
 **Der Sommer steht kurz bevor – unsere Sandalen haben wir schon. Von Gumbies gibt es jetzt zwei komplett neue Modelle, die Matze und ich getestet und für gut befunden haben. Beide sind natürlich wieder komplett vegan.**
 
 Als mich Cadrik von Gumbies mit den Bildern von den neuen Sandalen anschrieb, konnten wir uns kaum entscheiden. Die Auswahl an schönen Designs ist wirklich groß. Da sitzt man schon eine Weile da, bis man seine Favoriten ausgewählt hat.
@@ -83,4 +80,3 @@ Wenn Ihr mehr über Gumbies erfahren möchtet, empfehle ich Euch die folgenden A
 [Im Onlineshop von Gumbies könnt Ihr gleich mal ein bisschen stöbern](https://www.gumbies.de/).
 
 <Gallery name="gumbies-cairns-slingbacks-2" />
-

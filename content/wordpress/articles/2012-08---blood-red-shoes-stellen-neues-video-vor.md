@@ -56,8 +56,6 @@ Heute schreiben sie auf Ihrer Facebook-Seite, dass es sich um bisheriges Lieblin
 
 Natürlich gibt es noch weitere Gründe, gute Laune zu haben. Es ist Freitag. Freitag und es regnet. Und ich werde heute ins Kino gehen. Und tanzen. Und morgen ist das Wetter wieder schön. Außerdem trage ich heute meine Glücksschuhe. Ich habe sie  vor ein paar Jahren auf einem Bazar in der Türkei erstanden. Sie sind nicht die Bequemsten, muss ich gestehen, aber dafür sehen sie toll aus und sie bringen Glück. Außerdem sind rubinrote Steine dran. Und ich mag Rubinrot. Bloodred.
 
-Naja, nun genug vom Smalltalk, ich möchte Euch ja nicht unnötig lange auf die Folter spannen. Hier sind für Euch die Blood Red Shoes mit 'In Time To Voices' aus dem gleichnamigen, brillanten, im März 2012 erschienen Album.
-
 ## Blood Red Shoes – "In Time To Voices"
 
 <YouTube id="3N69hRav3WI" />

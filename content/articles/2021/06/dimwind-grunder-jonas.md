@@ -1,17 +1,17 @@
 ---
 date: 2021-06-09T17:26:42.000+02:00
 labels:
-- Bands
-- Dimwind
-- Post-Metal
-- Post-Rock
-- English & German
-- Experimental
-- Instrumental
-- Interview
-- Interviews
-- Schweden
-- Sizm
+  - Bands
+  - Dimwind
+  - Post-Metal
+  - Post-Rock
+  - English & German
+  - Experimental
+  - Instrumental
+  - Interview
+  - Interviews
+  - Schweden
+  - Sizm
 language: de
 slug: dimwind-interview
 typeName: Interview
@@ -19,21 +19,17 @@ title: Dimwind Gründer Jonas
 subTitle: '"Wir müssen uns um diesen Planeten kümmern"'
 seoTitle: Dimwind Gründer Jonas im Interview – Schwedischer Post-Metal
 ogTitle: ''
-description: Dimwind Gründer Jonas hat mir im Interview einiges über den Entstehungsprozess
-  des Debüt-Albums "Slow Wave Violence" verraten.
-excerpt: Dimwind haben vor Kurzem ihr grandioses Debüt-Album "Slow Wave Violence"
-  veröffentlicht. Weil mich die Platte so begeistert hat, habe ich mich kurzerhand
-  mit Gründer Jonas zum Interview verabredet. Wir haben uns über das Album, das Klima
-  und die Verbindung zwischen harter Musik und Veganismus unterhalten.
-image: "/img/dimwind.jpg"
+description: Dimwind Gründer Jonas hat mir im Interview einiges über den Entstehungsprozess des Debüt-Albums "Slow Wave Violence" verraten.
+excerpt: Dimwind haben vor Kurzem ihr grandioses Debüt-Album "Slow Wave Violence" veröffentlicht. Weil mich die Platte so begeistert hat, habe ich mich kurzerhand mit Gründer Jonas zum Interview verabredet. Wir haben uns über das Album, das Klima und die Verbindung zwischen harter Musik und Veganismus unterhalten.
+image: '/img/dimwind.jpg'
 copyright: Dimwind
-ogImage: "/img/dimwind-fb-1.jpg"
+ogImage: '/img/dimwind-fb-1.jpg'
 focusKeyword: Dimwind
 advertisement: false
 affiliate: false
-languageLink: "/2021/06/dimwind-interview-en"
-
+languageLink: '/2021/06/dimwind-interview-en'
 ---
+
 **Dimwind haben vor Kurzem ihr grandioses Debüt-Album "Slow Wave Violence" veröffentlicht. Weil ich so von der Platte begeistert bin, habe ich mich kurzerhand mit Gründer Jonas zum Interview verabredet. Wir haben uns über das Album, das Klima und die Verbindung zwischen harter Musik und Veganismus unterhalten.**
 
 **Anne:** Hi Jonas, danke dass Du Dir die Zeit für das Interview nimmst! Gratulation zu Eurem fantastischen Debüt-Album "Slow Wave Violence"! Gefällt es Dir?
@@ -42,7 +38,7 @@ languageLink: "/2021/06/dimwind-interview-en"
 
 ## "Das Album aufzunehmen war eine erfüllende Erfahrung für uns"
 
-![Jonas und Andreas aka Dimwind. Bild/picture: Dimwind](/img/dimwind-2.jpg "Jonas und Andreas aka Dimwind. Bild/picture: Dimwind")
+![Jonas und Andreas aka Dimwind. Bild/picture: Dimwind](/img/dimwind-2.jpg 'Jonas und Andreas aka Dimwind. Bild/picture: Dimwind')
 
 **Anne:** Wie lang habt Ihr gebraucht, um es aufzunehmen? Musstet Ihr durch die Pandemie-Situation auch Remote arbeiten?
 
@@ -82,7 +78,7 @@ Und zur Hölle, ja! Wir hören uns Musik aus den unterschiedlichsten Genres an. 
 
 ## "Unser Schreibprozess beginnt immer mit Jammen"
 
-![Jonas und Andreas aka Dimwind. Bild/picture: Dimwind](/img/dimwind-2.jpeg "Jonas und Andreas aka Dimwind. Bild/picture: Dimwind")
+![Jonas und Andreas aka Dimwind. Bild/picture: Dimwind](/img/dimwind-2.jpeg 'Jonas und Andreas aka Dimwind. Bild/picture: Dimwind')
 
 **Jonas:** Ich würde nicht behaupten, dass uns die negativen Gefühle zum Schreiben bringen, aber vielleicht ist die Musik eine Art Ventil für uns. Ich denke, das trifft auf viele Musiker⋆innen wie uns zu. Abgesehen von der Stimmung, fangen wir meistens einfach an zu jammen und schauen, was passiert. Und wenn wir uns plötzlich ziemlich glücklich angriffen, wissen wir, dass wir auf dem richtigen Weg sind.
 

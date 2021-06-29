@@ -36,7 +36,7 @@ advertisement: true
 
 Die besondere Attraktion: Veganes Hyaluron! Das musst ich mir natürlich mal genauer ansehen. Vor kurzem habe ich Josy einfach mal angeschrieben. Wir fanden heraus, dass unser Musikgeschmack sehr ähnlich ist und waren uns direkt sympathisch. Als ich einen Produkttest in meinem Blog vorschlug, war Josy direkt Feuer und Flamme.
 
-Vor ein paar Tagen traf ihr Paket bei mir in Altona ein und ich staunte nicht schlecht. Die Verpackung war äußerst liebevoll und stach sofort ins Auge. Besonders hübsch fand ich das Logo auf dem Karton. Das prägte sich gleich bei mir ein. Außerdem machen die kleinen Botschaften, die Josy mit eingepackt hat einfach glücklich. Besonders toll finde ich das Motto "Beauty begins the moment you decide to be yourself". Das ist so wahr. Wahrscheinlich sollten wir uns das alle ein Bisschen mehr verinnerlichen. Bevor ich jetzt weiter auf das Paket und seinen Inhalt eingehe, gibt es erstmal noch ein paar Infos über **Lovely Day Botanicals** und die Philosophie hinter der jungen Beauty Marke.
+Vor ein paar Tagen traf ihr Paket bei mir in Altona ein und ich staunte nicht schlecht. Die Verpackung war äußerst liebevoll und stach sofort ins Auge. Besonders hübsch fand ich das Logo auf dem Karton. Das prägte sich gleich bei mir ein. Außerdem machen die kleinen Botschaften, die Josy mit eingepackt hat einfach glücklich. Besonders toll finde ich das Motto "Beauty begins the moment you decide to be yourself". Das ist so wahr. Wahrscheinlich sollten wir uns das alle ein bisschen mehr verinnerlichen. Bevor ich jetzt weiter auf das Paket und seinen Inhalt eingehe, gibt es erstmal noch ein paar Infos über **Lovely Day Botanicals** und die Philosophie hinter der jungen Beauty Marke.
 
 ## Lovely Day Botanicals - Die Philosophie
 

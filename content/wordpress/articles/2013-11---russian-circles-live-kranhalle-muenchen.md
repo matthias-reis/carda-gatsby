@@ -46,8 +46,6 @@ Die Band war in toller Stimmung, das Publikum war toll, die Stimmung war noch be
 
 <Gallery name="flickr/wamuc" />
 
-**Hier sind für Euch Russian Circles mit Carpe**
+## Russian Circles – "Carpe"
 
 <YouTube id="mzYW1pY3hFA&amp;w=420&amp;h=315" />
-
-_Für Vale_

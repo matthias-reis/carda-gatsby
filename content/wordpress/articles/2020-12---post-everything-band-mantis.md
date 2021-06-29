@@ -1,8 +1,6 @@
 ---
 ogTitle: Post-Everything Band Mantis – "Wir lieben DUNK!records!"
-excerpt: Mantis bezeichnen sich selbst als "Post-Everything" Band. Das
-  beschreibt ihre Musik ziemlich perfekt. Ich habe sie zu ihrem aktuellen Album
-  "Glint" befragt.
+excerpt: Mantis bezeichnen sich selbst als "Post-Everything" Band. Das beschreibt ihre Musik ziemlich perfekt. Ich habe sie zu ihrem aktuellen Album "Glint" befragt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_mantis-fb.png__l.jpg
 isAffiliate: false
 path: /2020/12/mantis-interview/
@@ -21,9 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12
 title: Post-Everything Band Mantis
 subTitle: '"Wir lieben das Dunk!team"'
 seoTitle: Post-Everything Band Mantis – "Wir lieben DUNK!records!"
-description: Mantis bezeichnen sich selbst als "Post-Everything" Band. Das
-  beschreibt ihre Musik ziemlich perfekt. Ich habe sie zu ihrem aktuellen Album
-  "Glint" befragt.
+description: Mantis bezeichnen sich selbst als "Post-Everything" Band. Das beschreibt ihre Musik ziemlich perfekt. Ich habe sie zu ihrem aktuellen Album "Glint" befragt.
 language: de
 type: Artikel
 labels:
@@ -44,6 +40,7 @@ labels:
   - Post-Punk
   - Post-Rock
 ---
+
 **Mantis bezeichnen sich selbst als "Post-Everything" Band. Ich finde, das beschreibt ihre Musik ziemlich perfekt. Am 27. November haben sie ihr neues Album "Glint" veröffentlicht. Ich hatte jetzt die Gelegenheit, mich mit der Band darüber auszutauschen.**
 
 Das Projekt aus Belgien hat bei Dunk!records unterschrieben. 2016 veröffentlichten sie zu dritt zwei EPs. 2017 kam dann ein neues Bandmitglied dazu.

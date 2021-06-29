@@ -1,8 +1,6 @@
 ---
 ogTitle: Heavybird im Interview – "Instrumente sind wie Familienmitglieder"
-excerpt: Kennt Ihr Heavybird? Hinter dem Namen steckt Evan Glenn Adams.  Der
-  Multiinstrumentalist arbeitet gerade an seinem neuen Album. Ich habe ihn
-  interviewt.
+excerpt: Kennt Ihr Heavybird? Hinter dem Namen steckt Evan Glenn Adams.  Der Multiinstrumentalist arbeitet gerade an seinem neuen Album. Ich habe ihn interviewt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_heavybird-evan-glenn-adams-fb.png__l.jpg
 isAffiliate: false
 path: /2020/10/heavybird-interview/
@@ -21,9 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10
 title: Heavybird Gründer Evan Glenn Adams
 subTitle: '"Instrumente sind wie Familienmitglieder"'
 seoTitle: Heavybird im Interview – "Instrumente sind wie Familienmitglieder"
-description: Kennt Ihr Heavybird? Hinter dem Namen steckt Evan Glenn Adams.  Der
-  Multiinstrumentalist arbeitet gerade an seinem neuen Album. Ich habe ihn
-  interviewt.
+description: Kennt Ihr Heavybird? Hinter dem Namen steckt Evan Glenn Adams.  Der Multiinstrumentalist arbeitet gerade an seinem neuen Album. Ich habe ihn interviewt.
 language: de
 type: Artikel
 labels:
@@ -54,6 +50,7 @@ labels:
   - Studio
   - Woodstock
 ---
+
 **Kennt Ihr Heavybird? Hinter dem Namen steckt Evan Glenn Adams.  Er ist das Bilderbuchbeispiel eines Multiinstrumentalisten. Der kreative Musiker aus Woodstock, New York beherscht zahlreiche Instrumente – auf virtuose Art und Weise. Außerdem arbeitet er als Toningenieur und ist in die verschiedensten Musik-Projekte involviert.**
 
 Heavybird ist Evans aktuellstes Solo-Projekt. Im Moment steckt er sein Herzblut in das zweite Heavybird Album, das er im Frühjahr 2021 releasen möchte. Ich hatte die große Ehre, die Songs, die auf die Platte kommen, schon zu hören und habe mich anschließend mit dem Künstler zum Interview verabredet.

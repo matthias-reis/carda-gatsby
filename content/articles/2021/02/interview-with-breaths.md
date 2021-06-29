@@ -5,9 +5,7 @@ typeName: Interview
 title: Interview With Breaths
 subTitle: '"Heavy Music Has A Lot In Common With Veganism"'
 seoTitle: Interview With Breaths – "Heavy Music Has A Lot In Common With Veganism"
-description: The debut album of Breaths will be released in March. I had the
-  chance to talk to founder Jason now. We talked about his music and his vegan
-  life.
+description: The debut album of Breaths will be released in March. I had the chance to talk to founder Jason now. We talked about his music and his vegan life.
 image: /img/2021_02_breaths-interview__l.jpeg
 copyrigt: Breaths
 ogImage: /img/2021_02_breaths-lined-in-silver.png__l.jpg
@@ -33,6 +31,7 @@ affiliate: false
 language: en
 languageLink: /2021/02/breaths-interview
 ---
+
 **The debut album of Breaths will be released in March. I had the chance to talk to founder Jason now. We talked about his music and his vegan life.**
 
 I have already listened to Jason's debut LP "Lined in Silver" - for me it is already one of the year's discoveries. You can get a little taste of the record below. If you are a fan of post-metal, blackgaze and post-rock, you definitely need to give Breaths a try.

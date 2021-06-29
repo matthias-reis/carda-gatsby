@@ -139,10 +139,6 @@ Das Backblech in den Ofen schieben und den Kürbis ca. 35 - 40 Minuten backen. D
 
 Kurz vor Ablauf der Backzeit mit einer Gabel prüfen, ob der Kürbis schön weich geworden ist und diese, sollte dies nicht der Fall sein, um ein paar Minuten verlängern. Den Kürbis zusammen mit der Beilage auf den Tellern anrichten und servieren. Dies kann im Ganzen geschehen, wie bei uns auf den Bildern zu sehen oder auch in mundgerechten Stückchen, die man übrigens auch gut abkühlen lassen und zu einem Salat oder Chutney weiterverarbeiten kann.
 
-Guten Appetit!
-
-Kussi Anne &lt;3
-
 <Gallery
   images={[
     {

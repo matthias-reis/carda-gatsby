@@ -37,5 +37,3 @@ Am Samstag haben wir dabei fleißig mitgemischt und sind an die Elbe runter. Dor
 Auf den Fotos, die ich Euch mitgebracht habe, sind keine Menschen zu sehen. Dafür lassen sich einige Gegensätze darauf erkennen und auch die ganzen wunderbaren Farbtöne zwischen dem Schwarz und dem Weiß.
 
 <Gallery name="2019-03-30-elbe-altona" />
-
-&nbsp;

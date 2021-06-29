@@ -44,7 +44,7 @@ subTitle: Kirschblüten und Elbstrand
 
 ## Frischer Spargel aus dem Alten Land
 
-Zum Schluss wurden dann noch Äpfel getestet und frischer Spargel geshoppt. Eins ist sicher: Der Ausflug hat sich gelohnt und wir werden auf jeden Fall ganz bald wieder ins Alte Land fahren. Spätestens, wenn die Äpfel im Herbst reif an den Bäumen hängen. :-)
+Zum Schluss wurden dann noch Äpfel getestet und frischer Spargel geshoppt. Eins ist sicher: Der Ausflug hat sich gelohnt und wir werden auf jeden Fall ganz bald wieder ins Alte Land fahren. Spätestens, wenn die Äpfel im Herbst reif an den Bäumen hängen.
 
 Meine Eindrücke aus dem Alten Land habe ich natürlich fotografisch festgehalten. Im Beitragsbild ganz oben ist übrigens eine Apfelblüte zu sehen.
 

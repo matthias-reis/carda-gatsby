@@ -45,7 +45,3 @@ Zuerst spielte die Augsburger Legende General Seckler mit GEN N, danach die GUMB
 Als Headliner des Abends spielte CJ Ramone mit seiner Band, bestehend aus Brant Björk und Daniel Rey. CJ Ramone (bürgerlicher Name Christopher Joseph Ward) wurde als letzter Bassist der legendären Punkband RAMONES bekannt.
 
 Die Stimmung war gigantisch an diesem Abend, die Luft brannte, als CJ Ramone und seine Mannen alte RAMONES-Songs wie "Sheena Is A Punk-Rocker", "Blitzkrieg Bob" und "I Wanna Be Sedated" zum besten gaben
-
-&nbsp;
-
----

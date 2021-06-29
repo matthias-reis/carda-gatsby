@@ -1,49 +1,46 @@
 ---
 date: 2018-09-13T13:14:35.000+00:00
 slug: voelkel-naturkostsafterei
-path: "/2018/09/voelkel-naturkostsafterei/"
+path: '/2018/09/voelkel-naturkostsafterei/'
 type: Artikel
 typeName: Produkttest
 title: Herbstfrische
 seoTitle: Herbstfrische - Neue Bio-Getränke aus der Naturkostsafterei Voelkel
 ogTitle: Herbstfrische - Neue Bio-Getränke aus der Naturkostsafterei Voelkel
-description: 'Vor Kurzem kündigte sich ein neuer Produkttest bei mir an, auf den ich
-  mich besonders gefreut habe: Das neuen Bio-Getränkesortiment von Voelkel.'
-excerpt: 'Vor Kurzem kündigte sich ein neuer Produkttest bei mir an, auf den ich mich
-  besonders gefreut habe: Das neuen Bio-Getränkesortiment von Voelkel wollte probiert
-  werden.'
+description: 'Vor Kurzem kündigte sich ein neuer Produkttest bei mir an, auf den ich mich besonders gefreut habe: Das neuen Bio-Getränkesortiment von Voelkel.'
+excerpt: 'Vor Kurzem kündigte sich ein neuer Produkttest bei mir an, auf den ich mich besonders gefreut habe: Das neuen Bio-Getränkesortiment von Voelkel wollte probiert werden.'
 fileName: 2018-09---herbstfrische.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44604727352_395fe0405d_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_44604727352_395fe0405d_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAgT/xAAtEAACAQIFAgQFBQAAAAAAAAABAgMEEQAFBhIhEzEHFCJBI1FhcZFCUoGCof/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQP/xAAnEQABAwIEBQUAAAAAAAAAAAABAgMRACEEBRJRExQxQWGBobHR8f/aAAwDAQACEQMRAD8A3/CGup5xQDMKaGDp0MtPJIt1Zw+3aZL344Fif3YoktYmTVktLS5dFMkkskpEtWInhLpGdvII555JH0xKtLyx1NK01GEiDKI6lN9wjBSSvHdbm4v+km3Y4eaXhWt0VXyyQLStX9RiEtf0qFDfe63xBYzF1tamHBe8ePB3nf8AKzSFhRTFxXdMyZvH5esNBNF0YaeSKmlKmKJHJCuQxu1wRcW9+2Jl4hRT5XXvQ1EkM2WmIeXO8bomKgFbHm5C3DH3He+DvhbqKOHVlYtRIqtPFKd/zbcDzb+35xqeMCrWmirROqQrCFeRm9LDebcHuefbnnCuJcxb2YDDqB4cSDHQx2NveT6VWzHKUsJMLkyPj7ojpGtOXUZqcnklCjbB5JlAMsYVnc3JtdRa1x/uE+Ta3q10rUxUb1Rkp0kYjddWVtzbrgnsOLccjBnw69NfU7ePg0/b6qb/AJwAzQmOtkMZKkSMBt4tzi9ybbkLUL70k24UQevaqfPqWFZcukghEkTyiaV4oTdm2N3sO3Pv9MeXUOZQVuXzTtKtQDGKXpyRqVjBfqcH58AH7/xidGaWRZVkkd1I5DMSD6cKZKeF9B07vDGz9Z/UVBPthrQNeo0XHFLTpr//2Q==
-ogImage: 
+ogImage:
 labels:
-- Apfel
-- Ernährung & Gesundheit
-- Gemüsesaft
-- Getränke
-- Gurke
-- Himbeere
-- Infused Water
-- Ingwer
-- Juiced Water
-- Maracuja
-- Mineralwasser
-- Minze
-- Naturkost
-- Naturkostsaft
-- Naturkostsafterei Voelkel
-- Obst
-- Obstsaft
-- Orange
-- Rosmarin
-- Schwarze Johannisbeere
-- Spinning
-- Sportgetränke
-- Switchel
-- Traube
-- Voelkel
-- Zitrone
+  - Apfel
+  - Ernährung & Gesundheit
+  - Gemüsesaft
+  - Getränke
+  - Gurke
+  - Himbeere
+  - Infused Water
+  - Ingwer
+  - Juiced Water
+  - Maracuja
+  - Mineralwasser
+  - Minze
+  - Naturkost
+  - Naturkostsaft
+  - Naturkostsafterei Voelkel
+  - Obst
+  - Obstsaft
+  - Orange
+  - Rosmarin
+  - Schwarze Johannisbeere
+  - Spinning
+  - Sportgetränke
+  - Switchel
+  - Traube
+  - Voelkel
+  - Zitrone
 focusKeyword: Voelkel
 status: publish
 isWerbung: false
@@ -52,8 +49,8 @@ language: de
 errors: {}
 subTitle: Neue Bio-Getränke aus der Naturkostsafterei Voelkel
 advertisement: true
-
 ---
+
 **Vor Kurzem kündigte sich ein neuer Produkttest bei mir an, auf den ich mich besonders gefreut habe: Das neuen Bio-Getränkesortiment von Voelkel, bestehend aus "Switchel", "Infused Water" und "Juiced Water", wollte probiert werden.**
 
 Bei so etwas lasse ich mich natürlich nicht zweimal bitten. Ein paar Tage nach dem Eingang der Pressemeldung standen sie bei uns zu Hause im Kühlschrank. Das heißt: Vorher noch zum Fotografieren im Blumenkasten. Die Sonne schien einfach zu schön. Ein strahlender Herbsttag ist wie geschaffen für [Blogger\*innen, die nicht schon wieder die selben langweiligen Produktfotos machen möchten](/2018/05/bloggen-und-ich/). Findet Ihr nicht auch?
@@ -74,7 +71,7 @@ Als Erstes habe ich die Switchel getestet. Dabei handelt es sich um fruchtig-sch
 
 Ich selbst habe die für mich neuen, klassischen Switchel in den Sorten "Original" und "Himbeer-Minze" getestet. Dabei bin ich zu folgendem Fazit gelangt:
 
-Getränke mit Essig kannte ich tatsächlich schon. Ich hatte sie allerdings weniger erfrischend in Erinnerung. Irgendwie mit so einem leichten "Medizin-Geschmack". Wisst Ihr, was ich meine? Für mich war diese Drink-Sparte jedenfalls bis jetzt nicht durchwegs positiv belegt. Die beiden Fläschchen öffnete ich dementsprechend mit leichter Skepsis, die allerdings schnell verflogen war. Die Switchel erinnern mich kein Bisschen an die Apfelessig-Mischungen, die mir eine frühere Kollegin ab und an zum Frühstück kredenzte. Ganz im Gegenteil: Sie schmecken sogar ziemlich interessant.
+Getränke mit Essig kannte ich tatsächlich schon. Ich hatte sie allerdings weniger erfrischend in Erinnerung. Irgendwie mit so einem leichten "Medizin-Geschmack". Wisst Ihr, was ich meine? Für mich war diese Drink-Sparte jedenfalls bis jetzt nicht durchwegs positiv belegt. Die beiden Fläschchen öffnete ich dementsprechend mit leichter Skepsis, die allerdings schnell verflogen war. Die Switchel erinnern mich kein bisschen an die Apfelessig-Mischungen, die mir eine frühere Kollegin ab und an zum Frühstück kredenzte. Ganz im Gegenteil: Sie schmecken sogar ziemlich interessant.
 
 <RemoteImage
   alt={`Voelkel`}

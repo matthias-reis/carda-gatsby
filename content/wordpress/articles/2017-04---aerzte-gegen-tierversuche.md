@@ -86,9 +86,3 @@ Wer jetzt noch juristische und wissenschaftliche Argumente benötigt, findet die
 
 Bilder: [Ärzte gegen Tierversuche](https://www.aerzte-gegen-tierversuche.de/de/)
 
-&nbsp;
-
-<div class="text_exposed_show"></div>
-&nbsp;
-
-</div>

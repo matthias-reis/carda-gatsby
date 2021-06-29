@@ -47,7 +47,7 @@ Höchste Zeit, Euch endlich meine Schnappschüsse vom diesjährigen Southside-Fe
 
 Ein kleines Highlight für Hoochi und mich: Wie wir es uns gewünscht hatten gab es passend zur neuen Southside-Hompage in diesem Jahr lila Bändchen mit Eulenaugen drauf. Leider musste ich meines auf Grund meiner Augenentzündung schon abnehmen.
 
-Meine Favoriten waren dieses Jahr übrigens: Archive, Steven Wilson, Vaccines und Karnivool. Nicht zu vergessen natürlich Boysetsfire, The Hives und Billy Talent. Falls Ihr Euch auf den Bildern entdeckt: Gebt einfach Bescheid! :-) Und jetzt Vorhang auf!
+Meine Favoriten waren dieses Jahr übrigens: Archive, Steven Wilson, Vaccines und Karnivool. Nicht zu vergessen natürlich Boysetsfire, The Hives und Billy Talent. Falls Ihr Euch auf den Bildern entdeckt: Gebt einfach Bescheid!
 
 <Gallery
   images={[

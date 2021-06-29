@@ -191,5 +191,3 @@ Unser Treffen fand im Übungsraum der Band in der der alten Reese-Kaserne in Aug
 ---
 
 **Nachtrag:** Der Artikel ist veraltet, die Mitglieder der Band haben sich inzwischen anderen musikalischen Projekten zugewandt.
-
-&nbsp;

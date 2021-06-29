@@ -155,5 +155,3 @@ Der staatliche indische, weltweit größte Kohlekonzern _Coal India_ vertreibt n
 Im zweiten Teil meines Artikels werde ich in Kürze ein paar Alternativ-Banken vorstellen.
 
 Die Broschüren "Was macht eigentlich mein Geld" und "Wie radioaktiv ist meine Bank" können [auf der Homepage](http://www.urgewald.de) von _urgewald_  bestellt werden.
-
-&nbsp;

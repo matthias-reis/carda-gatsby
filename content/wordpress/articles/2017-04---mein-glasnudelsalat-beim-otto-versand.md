@@ -40,7 +40,7 @@ Ich erzähle Euch kurz, was passiert ist. Vor ein paar Tagen schrieb mich eine n
 
 ## Der Otto Versand hat mein Rezept veröffentlicht
 
-Klasse finde ich übrigens, dass auch im Bloggerbereich eines großen Modeversandhauses  **vegan** offenbar kein Geheimnis mehr ist. Und wenn es darum geht, den veganen Gedanken noch ein kleines Bisschen weiter zu verbreiten, bin ich doch gerne immer dabei. Für Euch habe ich ein paar Screenshots gemacht. Seht mal:
+Klasse finde ich übrigens, dass auch im Bloggerbereich eines großen Modeversandhauses  **vegan** offenbar kein Geheimnis mehr ist. Und wenn es darum geht, den veganen Gedanken noch ein kleines bisschen weiter zu verbreiten, bin ich doch gerne immer dabei. Für Euch habe ich ein paar Screenshots gemacht. Seht mal:
 
 <RemoteImage
   alt={`Otto Versand`}
@@ -52,6 +52,6 @@ Klasse finde ich übrigens, dass auch im Bloggerbereich eines großen Modeversan
 
 Beim Otto Versand findet Ihr das Rezept [hier](http://www.ottoversand.at/magazin/fruehlingsleichte-rezepte/#vegan). Viel Spaß beim Kochen!
 
-[Hier entlang](/2016/01/seitan-a-la-herzmann/) geht es zu einem weiteren tollen Rezept, zu dem perfekt Glasnudeln als Beilage passen. Es ist natürlich vegan. :-)
+[Hier entlang](/2016/01/seitan-grundrezept/) geht es zu einem weiteren tollen Rezept, zu dem perfekt Glasnudeln als Beilage passen. Es ist natürlich vegan.
 
 Weitere Veröffentlichungen von mir auf anderen Seiten [findet Ihr hier](/andere-blogs/).

@@ -1,33 +1,29 @@
 ---
 date: 2021-04-08T12:15:54.000+00:00
 slug: thot-interview
-path: "/2021/04/thot-interview/"
+path: '/2021/04/thot-interview/'
 type: Artikel
 typeName: Interview
 title: Grégoire von Thot im Interview
 seoTitle: Grégoire von Thot im Interview – 10 Jahre "Obscured By The Wind"
 ogTitle: Grégoire von Thot im Interview – 10 Jahre "Obscured By The Wind"
-description: Thot haben zum 10jährigen Jubiläum ihres Debüt-Albums "Obscured By The
-  Wind" einiges geplant. Zeit für ein Interview mit der Post-Rock Band.
-excerpt: English & German – Thot sollten den meisten, die sich mit Post-Rock beschäftigen,
-  ein Begriff sein. Zum 10jährigen Jubiläum ihres Debüt-Albums "Obscured By The Wind"
-  hat die Band aus Belgien so einige Highlights für uns geplant. Zeit für ein Interview
-  mit der Post-Rock Band.
+description: Thot haben zum 10jährigen Jubiläum ihres Debüt-Albums "Obscured By The Wind" einiges geplant. Zeit für ein Interview mit der Post-Rock Band.
+excerpt: English & German – Thot sollten den meisten, die sich mit Post-Rock beschäftigen, ein Begriff sein. Zum 10jährigen Jubiläum ihres Debüt-Albums "Obscured By The Wind" hat die Band aus Belgien so einige Highlights für uns geplant. Zeit für ein Interview mit der Post-Rock Band.
 fileName: 2021-04---gregoire-von-thot-im-interview.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_thot-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_thot-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAABQABAwQGCP/EACkQAAIBAgMIAgMBAAAAAAAAAAECAwAEERIhBQYTIjFBUWEycRQVI4H/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHBEAAgMAAwEAAAAAAAAAAAAAAAECERIDITFx/9oADAMBAAIRAxEAPwDyyaY3Y2fbX17Ib65hgt4Yy/8AVsvFfoqA+STifQJrhLbIY4mMys0gzcOMZmUY4c3YfWtMbrXa2v7OBeE00kaG3SQ5SZRIvRtADkLjrr09UpJ56NONLa14BX0IhuGVfPbpWjCltrWNxaxs9yjo4bhkOpDA98R2ognEY0/gckcyqqF/yoo7CBljC3uDLny/ND0b0QQw09VmKwEWzZby65eLiEQD6IB8Y6f5r3FVVBEpN0hXeOS92nZxXO0r4ytZxJBw2QK4wUYYkfLl0zHwB2rrM6oFQKec64eBgNPvrVVUw8HNtvs//9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_thot-fb.png__l.jpg
 labels:
-- Bands
-- DUNK!festival
-- DUNK!records
-- English & German
-- Industrial
-- Interviews
-- Post-Rock
-- Thot
-- Vegetal Noise
+  - Bands
+  - DUNK!festival
+  - DUNK!records
+  - English & German
+  - Industrial
+  - Interviews
+  - Post-Rock
+  - Thot
+  - Vegetal Noise
 focusKeyword: Thot
 status: publish
 isWerbung: false
@@ -35,9 +31,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: 10 Jahre "Obscured By The Wind"
-languageLink: "/2021/04/thot-interview-en"
-
+languageLink: '/2021/04/thot-interview-en'
 ---
+
 **Thot sollten den meisten, die sich mit Post-Rock beschäftigen, ein Begriff sein. Zum zehnjährigen Jubiläum von Thots Debüt-Album "Obscured By The Wind" hat die Band aus Belgien so einige Highlights für uns geplant. Zeit für ein Interview.**
 
 Wobei, ehrlich gesagt war das ja komplett umgekehrt. Ich glaube es zwar selbst noch nicht, aber eines Morgens bin ich tatsächlich aufgewacht und hatte eine Nachricht von Thot im Posteingang! Eines ist schon mal ziemlich klar: Wenn sich eine Band wie Thot bei Dir meldet und Dir schreibt, dass Dein Blog toll ist und ob ein Interview drin wäre, sagst Du zu. Ich meine, wie klasse ist das, oder? Natürlich habe ich Zeit für ein Interview. Ich habe die Fragen quasi schon fertig im Schrank liegen. Moment, lass sie mich kurz rausholen, dann kann es auch schon losgehen. Ich habe mich mit Gründer Grégoire unterhalten.
@@ -56,7 +52,7 @@ Wobei, ehrlich gesagt war das ja komplett umgekehrt. Ich glaube es zwar selbst n
 
 **Anne:** Genug über mich. Lass uns über Thot reden! Ihr habt einige spannende Neuigkeiten. Ihr feiert den zehnten Geburtstag Eures beeindruckenden Albums "Obscured By The Wind". Es wird unter anderem einen Re-Release mit streng limitierten Colour Vinyl Editionen geben (Ich habe meine natürlich schon bestellt). Möchtest Du mir ein bisschen mehr darüber erzählen, was Ihr plant? Du hast mir erzählt, wir werde ein paar neue Interpretationen von "Obscured by The Wind" Songs veröffentlichen? Du hast mir ja erzählt, dass Ihr sie während dem ersten Vollmond im Frühling am 28. März gefilmt habt. Danke an dieser Stelle übrigens für die tollen Bilder! Sie sind wirklich toll geworden. Ich wünschte, ich wäre dabei gewesen.
 
-![Grégoire. Bild/Picture: Thot](/img/thot-2.jpeg "Grégoire. Bild/Picture: Thot")
+![Grégoire. Bild/Picture: Thot](/img/thot-2.jpeg 'Grégoire. Bild/Picture: Thot')
 
 **Grégoire:** Ja, wir wollen diesen Meilenstein gebührend feiern. Damals gab es das Album nur auf CD und in der digitalen Version. Das zehnjährige Jubiläum ist also ein guter Anlass für einen Vinyl-Neuveröffentlichung mit einigen der Designs, die wir bis jetzt nicht genutzt haben. Außerdem gibt es diese 10th Anniversary Live Performance in einer sehr intimen Version. Zu diesem einzigartigen Anlass bestand unser Line-up aus mir am Piano, an der Gitarre und den Lead Vocals, unseren langjährigen Freundinnen und Kooperationspartnerinnen Lucie Lefauconnier an Gitarre und Gesang und Catherine Graindorge an Violine und Soundscape. Wir haben das Konzert gerade letzten Sonntag während dem ersten Frühlings-Vollmond aufgenommen. Die Performance wird schon bald online verfügbar sein. Jede⋆r der⋆die es miterleben möchte, kann auf unserer Bandcamp-Seite ein Ticket erwerben.
 
@@ -66,7 +62,7 @@ Wobei, ehrlich gesagt war das ja komplett umgekehrt. Ich glaube es zwar selbst n
 
 **Grégoire:** Das Line-up verändert sich seitdem ständig. Auf eine Art habe ich keine andere Wahl, wenn ich möchte, dass das Projekt am Leben bleibt. Ich musste es sich weiterentwickeln lassen. Im Hinblick auf Lebensentscheidungen, unterschiedliche musikalische Interessen und leider auch menschliche Konflikte. Ich bin froh, dass ich nicht aufgegeben habe und das Projekt heute sehr lebendig und energiegeladen zu erleben. Die aktuellen Musiker⋆innen machen es möglich. Natürlich vermisse ich auch einige der ehemaligen Bandmitglieder. Menschlich und musikalisch. 2011 haben wir kurz nach der Veröffentlichung des Albums auf dem DUNK!festival gespielt. Für uns war das ein hilfreicher erster Schritt in die Post-Rock Szene, die seit dem ziemlich groß geworden ist – eine große Gemeinschaft aus Musikliebhaber⋆innen und Freund⋆innen.
 
-![Cat. Bild/Picture: Thot](/img/thot-7-cat.jpeg "Cat. Bild/Picture: Thot")
+![Cat. Bild/Picture: Thot](/img/thot-7-cat.jpeg 'Cat. Bild/Picture: Thot')
 
 **Anne:** Welche Thot Platte magst Du am liebsten und warum?
 
@@ -80,7 +76,7 @@ Wobei, ehrlich gesagt war das ja komplett umgekehrt. Ich glaube es zwar selbst n
 
 **Anne:** Wie geht Ihr mit dieser schrecklichen COVID-Krise um? Lenkt Ihr Euch mit Songs schreiben ab?
 
-![Lucie. Bild/Picture: Thot](/img/thot-8-lucie.jpeg "Lucie. Bild/Picture: Thot")
+![Lucie. Bild/Picture: Thot](/img/thot-8-lucie.jpeg 'Lucie. Bild/Picture: Thot')
 
 **Grégoire:** Ich habe die Möglichkeit genutzt, mir Gedanken darüber zu machen, was ich mir für das Projekt wünsche, während ich an einem neuen Album schreibe. Zur selben Zeit habe ich wieder angefangen mit ernsthaft mit Klavier üben zu beschäftigen, habe Lyrics auf Französisch geschrieben und ziemlich viele Effekt-Pedale gekauft und verkauft.
 
@@ -112,7 +108,7 @@ Wobei, ehrlich gesagt war das ja komplett umgekehrt. Ich glaube es zwar selbst n
 
 **Grégoire:** Danke! Schön, dass Dir der Auftritt gefallen hat. Wie ich es vorhin schon erwähnt habe, ist die Post-Rock Szene fantastisch. Das DUNK!festival ist ein gutes Beispiel für die lebhafte Szene in Belgien.
 
-![Cat. Bild/Picture: Thot](/img/thot-9-cat.jpeg "Cat. Bild/Picture: Thot")
+![Cat. Bild/Picture: Thot](/img/thot-9-cat.jpeg 'Cat. Bild/Picture: Thot')
 
 **Anne:** Sollten mehr Menschen Post-Rock hören?
 

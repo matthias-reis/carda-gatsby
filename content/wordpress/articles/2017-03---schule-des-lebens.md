@@ -94,5 +94,3 @@ Interviews mit vielen tollen Persönlichkeiten [findet Ihr hier.](/tag/rock-n-ro
 Zum Artikel gibt es hier noch eine kleine Erinnerung. Viel Spaß damit.
 
 <YouTube id="55smhOwYlLA" />
-
-&nbsp;

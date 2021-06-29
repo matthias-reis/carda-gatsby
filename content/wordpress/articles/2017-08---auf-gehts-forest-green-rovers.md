@@ -58,15 +58,3 @@ Gegründet wurde der _Nailsworth &amp; Forest Green FC_ im Jahr 1890. Seither sp
 Forest Green Rovers [Link](http://Fotos: Forest Green Rovers,)
 
 Im Titelbild ist zu sehen, wie _Forest Green Rovers_ Spieler Christian Doidge am 5. August das erste Tor überhaupt in der League Two gegen Barnet schießt und mit seinen Kollegen das 1:0 feiert. Das Foto hat [Shane Healey](https://www.flickr.com/people/62443160@N07/) gemacht.
-
-&nbsp;
-
-Merken
-
-Merken
-
-Merken
-
-Merken
-
-Merken

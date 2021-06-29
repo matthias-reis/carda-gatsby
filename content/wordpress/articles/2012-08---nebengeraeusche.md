@@ -50,5 +50,3 @@ Als Song des Tages habe ich heute mal wieder eines meiner Lieblingsstücke ausge
 ## Song des Tages: Long Distance Calling – "Fire In The Mountain"
 
 <YouTube id="cDZXHjxmpXQ" />
-
-&nbsp;

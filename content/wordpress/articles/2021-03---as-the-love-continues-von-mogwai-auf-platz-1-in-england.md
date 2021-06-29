@@ -1,8 +1,6 @@
 ---
 ogTitle: '"As The Love Continues" von Mogwai auf Platz 1 in England'
-excerpt: Mit "As The Love Continues" sind Mogwai als erste Post-Rock Band auf
-  Platz 1 der britischen Charts gelandet. Die Platte spiegelt den Zeitgeist
-  wider.
+excerpt: Mit "As The Love Continues" sind Mogwai als erste Post-Rock Band auf Platz 1 der britischen Charts gelandet. Die Platte spiegelt den Zeitgeist wider.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_as-the-love-continues-fb.png__l.jpg
 isAffiliate: false
 path: /2021/03/as-the-love-continues-mogwai/
@@ -21,8 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03
 title: '"As The Love Continues" von Mogwai auf Platz 1 in England'
 subTitle: Die Musik der Introvertierten in den Charts
 seoTitle: '"As The Love Continues" von Mogwai auf Platz 1 in England'
-description: Mit "As The Love Continues" sind Mogwai als erste Post-Rock Band
-  auf Platz 1 der britischen Charts gelandet.
+description: Mit "As The Love Continues" sind Mogwai als erste Post-Rock Band auf Platz 1 der britischen Charts gelandet.
 language: de
 type: Artikel
 labels:
@@ -34,6 +31,7 @@ labels:
   - Post-Rock
   - Zeitgeist
 ---
+
 **Mogwai ist mit ihrem neuen Album "As The Love Continues" etwas gelungen, das keine Post-Rock Band zuvor geschafft hat: Sie sind mit der Platte auf Platz 1 der britischen Charts gelandet.**
 
 Letzten Freitag gab es für die Post-Rock Pioniere eine schöne Überraschung. Nachdem sich schon tags zuvor abgezeichnet hatte, dass es passieren könnte, wurde "As The Love Continues" zum Nummer-1-Album gekürt".
@@ -87,4 +85,3 @@ In der Vergangenheit haben es alle paar Jahre alternative Bands in die Charts ge
 All diese Musiker⋆innen vereint eins: Mit ihren Songs haben sie es geschafft, den jeweiligen Zeitgeist exakt widerzuspiegeln. Und das ist Mogwai mit "As The Love Continues" im Jahr 2021 wieder gelungen – und das ganz ohne Worte.
 
 Ihr wollt wissen, wie das Album ist? Für mich ist es ganz klar eines der besten, die Mogwai bisher veröffentlicht haben. Ich kann Euch nur raten, es zu hören. Ihr verpasst sonst vielleicht die Platte des Jahres.
-

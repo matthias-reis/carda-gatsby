@@ -1,41 +1,39 @@
 ---
 date: 2017-09-01T08:18:25.000+00:00
 slug: fopo-rettet-aussortierte-fruechte
-path: "/2017/09/fopo-rettet-aussortierte-fruechte/"
+path: '/2017/09/fopo-rettet-aussortierte-fruechte/'
 type: Artikel
 typeName: Produkttest
 title: FoPo aus Bremen
 seoTitle: FoPo aus Bremen rettet aussortierte Früchte - Ich habe getestet
 ogTitle: FoPo aus Bremen rettet aussortierte Früchte - Ich habe getestet
-description: Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen stellen sie
-  leckere Produkte her. Ich habe sie getestet und habe auch für Euch welche!
-excerpt: Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen stellen sie leckere
-  Produkte her. Ich habe sie getestet und habe auch für Euch welche!
+description: Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen stellen sie leckere Produkte her. Ich habe sie getestet und habe auch für Euch welche!
+excerpt: Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen stellen sie leckere Produkte her. Ich habe sie getestet und habe auch für Euch welche!
 fileName: 2017-09---fopo-aus-bremen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36120796434_a5e06c5c5e_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36120796434_a5e06c5c5e_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGA//EACkQAAIBAwMCBQUBAAAAAAAAAAECAwAEEQUSIQYxEzJBUXEVI2GRsdH/xAAYAQACAwAAAAAAAAAAAAAAAAADBgIEBf/EACMRAAECBgICAwAAAAAAAAAAAAECAwAEERIhQTFhBXEiUcH/2gAMAwEAAhEDEQA/AK3Q7Tlbq1RScbGjlGQAff8A2qKVpLSHx5obOXaA7oEzhfU598dvikvTuogR7Y4IvuALhiW/tZ6/rF1aloIrgeCc4EQ2gjtjPf8AWKDNPlkX63+RKXbDhpuNuptNa5txbWjGKd5hIkxOVxnPBHYVO6vERcrIcM4bPI9aoelNXnlTbPJvjRSkaMM4AX80pmkC3izPgRxMH5PB9hVSRbtveuJvNc66HUEfQAoJApTHvuIbReu9gmI0xAwiYqRN5T2z5acLq31GFGuITtVCwCvg/GcUUUOfeWHEo0ecCGHw8iw9LLdWn5A4NT9e4x0jqgW2swwR2QEaSOuBKeeCPUUt1nXp3ZZJFzGp4jVscZ+KKK1GUiziF9/Cqdx//9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36146929993_21f53f63dc_z__l.jpg
 labels:
-- Ananas
-- Apfel
-- Avocado
-- Erasmus
-- Essen retten
-- fopo
-- Klima- & Umweltschutz
-- klimaneutral
-- Klimawandel
-- loveuglyfood
-- Mango
-- myfopo
-- ökologischer Fussabdruck
-- Oliven
-- resteessen
-- save food
-- Stevia
-- Thought For Food
-- Wasser sparen
+  - Ananas
+  - Apfel
+  - Avocado
+  - Erasmus
+  - Essen retten
+  - fopo
+  - Klima- & Umweltschutz
+  - klimaneutral
+  - Klimawandel
+  - loveuglyfood
+  - Mango
+  - myfopo
+  - ökologischer Fussabdruck
+  - Oliven
+  - resteessen
+  - save food
+  - Stevia
+  - Thought For Food
+  - Wasser sparen
 focusKeyword: FoPo
 status: publish
 isWerbung: false
@@ -44,8 +42,8 @@ language: de
 errors: {}
 subTitle: Trockenfrüchte fürs Klima
 advertisement: true
-
 ---
+
 **Die Gründer von _FoPo_ haben es sich zur Aufgabe gemacht, aussortierte Früchte zu retten. Aus ihnen stellen sie leckeres Fruchtpulver und Trockenobst her, das man zum Beispiel zur Herstellung von Smoothies verwenden kann. Ich habe die _FoPo_ Produkte jetzt mal getestet.**
 
 Kurz nach meiner Bestellung, landete bei mir ein liebevoll verpacktes Paket. Heraus purzelten jede Menge kleine Papiertüten mit Fruchtpulver und eine Packung Apfelstücke. Alle Produkte sind gefriergetrocknet. Dabei bleiben rund 90 Prozent der natürlichen Vitamine erhalten. Auf Zusatzstoffe wird bewusst verzichtet. Gesüßt wird mit Stevia.
@@ -88,7 +86,7 @@ Die Produktidee an sich finde ich sehr gut. Die Verpackungen sind umweltfreundli
 
 Als nächstes habe ich mir einen Smoothie gemacht. Dafür habe ich einfach eine Handvoll Apfelschnitze, zwei Esslöffel Mangopulver und kaltes Wasser in den Mixer gepackt. Das Ergebnis war wirklich saulecker. kann ich nur empfehlen. Auch mein Mango-Lassi mit etwas Sojajoghurt und Reisdrink hat mir gut geschmeckt. Was ich klasse finde ist, dass auf jedem Päckchen genau draufsteht, wo die Früchte gerettet wurden.
 
-Im mitgelieferten Rezeptheft gibt es außerdem noch einen Olivendip, Energiebällchen und sogar einen Mojito-Käsekuchen. Mir fehlt im Moment ein Bisschen die Zeit das alles auszuprobieren, aber ich kann es mir gut vorstellen. Der Phantasie sind auf jeden Fall schon mal keine Grenzen gesetzt und es ist für jede Lieblings-Geschmacksrichtung was dabei.
+Im mitgelieferten Rezeptheft gibt es außerdem noch einen Olivendip, Energiebällchen und sogar einen Mojito-Käsekuchen. Mir fehlt im Moment ein bisschen die Zeit das alles auszuprobieren, aber ich kann es mir gut vorstellen. Der Phantasie sind auf jeden Fall schon mal keine Grenzen gesetzt und es ist für jede Lieblings-Geschmacksrichtung was dabei.
 
 ## FoPo für Euch
 

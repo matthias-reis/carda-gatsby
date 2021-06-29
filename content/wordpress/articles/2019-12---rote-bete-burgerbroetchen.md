@@ -73,7 +73,7 @@ Nach dem Gehvorgang könnt Ihr schon mal den Ofen auf 180 Grad vorheizen. Legt e
 
 Stellt eine feuerfeste Schüssel mit Wasser in den Ofen und schiebt auch das Backblech mit euren Rundstücken mit rein. Der aufsteigende Wasserdampf sorgt dafür, dass sie schön gleichmäßig ausbacken. Nach 12 - 14 Minuten sind sie fertig und ihr könnt sie auf einem Rost auskühlen lassen, bevor Ihr sie durchschneidet.
 
-Belegen könnt Ihr Eure Rote Bete Burgerbrötchen ganz nach Gusto. Wir verwenden am liebsten unseren [selbst hergestellten Seitan](/2016/01/seitan-a-la-herzmann/). Sie eignen sich aber auch hervorragend als Sandwich-Basis und lassen sich perfekt mit Gurken, Salat, diversen Aufstrichen und Saucen kombinieren.
+Belegen könnt Ihr Eure Rote Bete Burgerbrötchen ganz nach Gusto. Wir verwenden am liebsten unseren [selbst hergestellten Seitan](/2016/01/seitan-grundrezept/). Sie eignen sich aber auch hervorragend als Sandwich-Basis und lassen sich perfekt mit Gurken, Salat, diversen Aufstrichen und Saucen kombinieren.
 
 Hat Euch dieser Beitrag gefallen? Wie schön! Wenn Ihr in Zukunfts nichts mehr auf meiner Seite verpassen wollt, [abonniert gerne meinen Newsletter](#newsletter). Ich freue mich auf Euch!
 

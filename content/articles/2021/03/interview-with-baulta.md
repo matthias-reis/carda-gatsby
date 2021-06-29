@@ -160,7 +160,7 @@ It's like you said, being in a parallel universe. Post-rock isn't such a promine
 
 **Janne:** Amazing community. I love it!
 
-**Esa:** Yes, very much. &lt;3
+**Esa:** Yes, very much.
 
 **Anne:** Finland has a long tradition of dark and heavy music. I can imagine this a pretty creative environment. Just like a melting pot – everyone seems to have something to do with the music scene. It also felt like this the last time I visited Finland. How was it like growing up there? As individuals and as a band?
 

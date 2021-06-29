@@ -1,7 +1,6 @@
 ---
 ogTitle: Matze bloggt über den G20 Gipfel - So haben wir den G20 Gipfel erlebt
-excerpt: Matze hat für den Volksverpetzer einen Artikel über den G20 Gipfel hier
-  in Hamburg verfasst. Darin schildert er nicht nur unsere Erlebnisse.
+excerpt: Matze hat für den Volksverpetzer einen Artikel über den G20 Gipfel hier in Hamburg verfasst. Darin schildert er nicht nur unsere Erlebnisse.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_07_19942836_1912374132335861_9174963676286235512_o__l.jpg
 isAffiliate: false
 path: /2017/07/g20-gipfel/
@@ -18,8 +17,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07
 title: Matze bloggt über den G20 Gipfel
 subTitle: So erlebten wir Hamburger die Krawalle
 seoTitle: Matze bloggt über den G20 Gipfel - So haben wir den G20 Gipfel erlebt
-description: Matze hat für den Volksverpetzer einen Artikel über den G20 Gipfel
-  hier in Hamburg verfasst. Darin schildert er nicht nur unsere Erlebnisse.
+description: Matze hat für den Volksverpetzer einen Artikel über den G20 Gipfel hier in Hamburg verfasst. Darin schildert er nicht nur unsere Erlebnisse.
 labels:
   - Antifaschismus & Feminismus
 language: de
@@ -50,9 +48,3 @@ Nun ist es natürlich etwas Anderes, wenn ich meine emotionsgeladenen Worte hier
 [](http://www.mimikama.at/volksverpetzer/hamburg/)
 
 [Weiterlesen -&gt;](http://www.mimikama.at/volksverpetzer/hamburg/)
-
-Merken
-
-Merken
-
-Merken

@@ -55,7 +55,7 @@ Allerdings ist das ja in den letzten Jahren schon öfter mal der Fall gewesen, w
 
 Welche Ebene das ist und wie sie klingt, werden wir wohl erst erfahren, wenn das neue Album auf unseren Plattentellern liegt. Es soll schon sehr bald erscheinen, was bedeutet, wenn ich Trent im August auf der Bühne sehe, wird es wahrscheinlich bereits mein Plattenregal zieren! Was für eine Freude! Ganz der mysteriöse Musikmagier hält Trent das genaue Veröffentlichungsdatum jedoch noch streng geheim. Der Vertrag mit Columbia steht jedoch, es kann also jeden Tag soweit sein!
 
-Ich kann mich noch sehr gut an das Konzert am 29.06.2009 in Düsseldorf auf ihrer _Wave Goodbye Tour_ erinnern. Wie schön es war. Ich habe meine Kamera in der Halle kein einziges Mal ausgepackt, weil mich die Musik der Band derart in ihren Bann zog. Trotzdem habe ich jede Minute des Konzerts mit nach Hause genommen und die Stimmung dort für immer eingefangen. Mein Bruder und ich waren traurig, als wir nach Hause fuhren, da die Tour als endgültige Abschiedstour angekündigt worden war.  Allerdings haben wir es beide seit dem immer irgendwie ein Bisschen geahnt, dass es irgendwann weitergehen würde.
+Ich kann mich noch sehr gut an das Konzert am 29.06.2009 in Düsseldorf auf ihrer _Wave Goodbye Tour_ erinnern. Wie schön es war. Ich habe meine Kamera in der Halle kein einziges Mal ausgepackt, weil mich die Musik der Band derart in ihren Bann zog. Trotzdem habe ich jede Minute des Konzerts mit nach Hause genommen und die Stimmung dort für immer eingefangen. Mein Bruder und ich waren traurig, als wir nach Hause fuhren, da die Tour als endgültige Abschiedstour angekündigt worden war.  Allerdings haben wir es beide seit dem immer irgendwie ein bisschen geahnt, dass es irgendwann weitergehen würde.
 
 Natürlich musste ich die gute Nachricht heute gleich mal über alle Kanäle teilen. Hier eine kleine Bildergeschichte für Euch:
 
@@ -158,13 +158,11 @@ Eine von diesen kleinen schönen Vinylwundern ist übrigens schon wieder (zusamm
 
 Sensation No. 3: Morgen ist Feiertag. Das bedeutet, ich kann ausschlafen! Außerdem gibt es (Sensation No. 4) heute Abend jede Menge Sushi! So fühlt sich Glückseligkeit an! Ich weiß es!
 
-_Ich herze Euch und wünsche Euch morgen einen tollen Tag! Und heute einen schönen Abend! Viel Spaß beim Musik hören!_
-
-**Hier sind für Euch NINE INCH NAILS mit CLOSER live vom Woodstock 1994. Ein sehr prägendes Konzert für mich:**
+## Nine Inch Nails – "Closer" (Woodstock 1994)
 
 <YouTube id="bEdqqyxoWuA" />
 
-**Und hier noch ein sehr schöner Konzertausschnitt von Ihrem Konzert in Osaka 2007. Ich habe es erst vor Kurzem entdeckt. Kuckt es Euch unbedingt bis zum Ende an:**
+## Nine Inch Nails Osaka 2007
 
 <Vimeo id="/66919663" />
 

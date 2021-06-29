@@ -66,6 +66,6 @@ Irgendwie erschreckend, wie Wetter und Stimmung immer zusammenpassen. Wobei das 
 
 Als Song des Tages habe ich heute was ganz Besonderes für Euch ausgesucht. Die Band habe ich während meines Türkei-Aufenthalts 2008 lieben gelernt.
 
-## Hier sind für Euch Seksendört mit "Kara Gözlüm"
+## Seksendört – "Kara Gözlüm"
 
 <YouTube id="UGTOcif8Y7o" />

@@ -75,11 +75,11 @@ Außerdem habe ich das Wetter ja auch [vorgestern erst offiziell zur Nebensache 
 
 Momentan überwiegt einfach die Vorfreude auf die gute Musik, die schon auf dem Postweg zu mir unterwegs ist, den Urlaub und das Neue, was mich schon sehr bald erwartet.
 
-Meine Postkartenaktion läuft wunderbar an. Eine ganze Menge Twitterer haben mir schon Ansichtskarten zukommen lassen. Heute habe ich schon die ersten zurückgeschrieben. Ein paar Tage werde ich wohl noch warten, dann werde ich die Bildergalerie hier im Blog einstellen. Wer schon mal ein paar Karten sehen möchte, kann das in meinem Instagram tun. Außerdem werde ich schon sehr bald an dieser Stelle über ein tolles Filmprojekt berichten, der Text ist bereits fertig, nur am Grafischen muss noch ein Bisschen gefeilt werden.
+Meine Postkartenaktion läuft wunderbar an. Eine ganze Menge Twitterer haben mir schon Ansichtskarten zukommen lassen. Heute habe ich schon die ersten zurückgeschrieben. Ein paar Tage werde ich wohl noch warten, dann werde ich die Bildergalerie hier im Blog einstellen. Wer schon mal ein paar Karten sehen möchte, kann das in meinem Instagram tun. Außerdem werde ich schon sehr bald an dieser Stelle über ein tolles Filmprojekt berichten, der Text ist bereits fertig, nur am Grafischen muss noch ein bisschen gefeilt werden.
 
 Jetzt fragt Ihr Euch sicherlich "Was schwallt sie denn heute wieder? Hat sie denn gar nichts zu erzählen?" - Doch! Das habe ich! Oder besser: Josh Homme, Trent Reznor und Dave Grohl haben Euch was zu erzählen. Hier ist ein wundervolles Video mit einem Stück, das die drei für den Film SOUND CITY aufgenommen haben. Ihr müsst es Euch einfach anhören/ansehen, es ist zu genial.
 
-_ **Hier sind für Euch Josh Homme, Dave Grohl und Trent Reznor mit MANTRA** _
+## Josh Homme, Dave Grohl & Trent Reznor – "Mantra"
 
 [ <YouTube id="L2kGNdE0b5Q&amp;w=560&amp;h=315]" /> (https://www.youtube.com/watch?v=L2kGNdE0b5Q&amp;feature=player_detailpage)
 

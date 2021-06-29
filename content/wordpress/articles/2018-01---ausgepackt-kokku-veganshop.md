@@ -67,7 +67,7 @@ Schon kurze Zeit nach meiner Bestellung traf das Paket bei mir ein. Der Versand 
 
 Aus dem Paket purzelten Protein-Schokolade von Pumpin Panda, Powerriegel von Go 4 Raw, eine tolle Lippenpflege, eine Flasche Glühwein, Instant Cappuccino Caramell, ein kleines Rezeptheft, ein dicker Nougat-Barren sowie eine Tafel Schokolade von From Bean To Bar, ein nu+cao Riegel in der Geschmacksrichtung "Berberitzen-Beere", Jackfrucht in der Dose sowie eine handgemachte Nougat-Creme in der Geschmacksrichtung "Weiße Mandel".
 
-Besonders gefreut habe ich mich über die Nougat-Creme. Ich kaufe mir sowas normalerweise nicht. Die fluffig-leckere Aufstrichmasse ist aber tatsächlich eine geniale Abwechslung fürs Frühstücksbrot. Mich erinnert sie ein Bisschen an das Innere der weißen Kokos-Pralinen, die ich früher immer so gerne gegessen habe. Die kennt Ihr sicher auch. Regelmäßig würde ich mir so eine Sünde wahrscheinlich nicht erlauben, aber wenn man nach etwas wirklich Besonderem sucht, ist sie genau das Richtige.
+Besonders gefreut habe ich mich über die Nougat-Creme. Ich kaufe mir sowas normalerweise nicht. Die fluffig-leckere Aufstrichmasse ist aber tatsächlich eine geniale Abwechslung fürs Frühstücksbrot. Mich erinnert sie ein bisschen an das Innere der weißen Kokos-Pralinen, die ich früher immer so gerne gegessen habe. Die kennt Ihr sicher auch. Regelmäßig würde ich mir so eine Sünde wahrscheinlich nicht erlauben, aber wenn man nach etwas wirklich Besonderem sucht, ist sie genau das Richtige.
 
 ## Protein Choc von Pumpin Panda
 

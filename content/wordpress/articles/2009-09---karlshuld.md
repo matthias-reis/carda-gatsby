@@ -59,5 +59,3 @@ Zwischen 1970 und 1985 wurden die Ortsteile Grasheim, Kochheim, Nazibühl und Ne
 Karl Seitle wurde 2008 mit 97,27 Prozent der Stimmen zum Bürgermeister gewählt.
 
 Die Gemeinde liegt 375 Meter über dem Meeresspiegel. Sie hat 5154, das sind 177 pro Quadratkilometer.
-
-&nbsp;

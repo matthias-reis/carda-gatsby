@@ -120,7 +120,7 @@ Den selbstgemachten "Gratinierkäse" gleichmäßig über dem Auflauf verteilen u
 
 Fertig ist ein winterliches Gericht mit vielen leckeren Zutaten, gesunden Nährstoffen und vielen Vitaminen. Dazu passt sehr gut ein schönes Glas Zitronenwasser, ein guter Minztee oder auch ein Schöppchen Weißwein.
 
-Servieren und genießen. &lt;3
+Servieren und genießen.
 
 Täglich aktuelle Gerichte von mir findet Ihr auch immer in meinem [Instagram-Kanal](http://instagram.com/anne_reko).
 

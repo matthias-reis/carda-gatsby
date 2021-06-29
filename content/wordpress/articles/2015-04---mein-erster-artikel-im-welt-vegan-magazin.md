@@ -47,6 +47,6 @@ Zusätzlich zum Sonderteil ist noch einiges mehr an interessanten Themen geboten
 
 ## Interview mit Dir im Welt Vegan Magazin
 
-Ich bin schon sehr gespannt, was Ihr zu der neuen Ausgabe sagt, ich finde sie ist sehr gelungen. :-)
+Ich bin schon sehr gespannt, was Ihr zu der neuen Ausgabe sagt, ich finde sie ist sehr gelungen.
 
 Für die nächste Ausgabe suche ich übrigens noch einen Interview-Partner zum Thema Tierschutz. Wer sich also angesprochen fühlt, kann sich gerne jederzeit [per Mail](mailto:info@cardamonchai.com) mit mir in Verbindung setzen. Ich freue mich auf Eure Zuschriften!

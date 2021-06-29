@@ -1,8 +1,6 @@
 ---
 ogTitle: Liebster Blog Award - Ich wurde interviewt - Hamburg und mein Blog
-excerpt: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir die
-  Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg
-  unterhalten.
+excerpt: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir die Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg unterhalten.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_01_facebook-1-von-1__l.jpg
 isAffiliate: false
 path: /2017/01/liebster-blog-award-2017-01/
@@ -19,9 +17,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01
 title: Liebster Blog Award
 subTitle: Hamburg und mein Blog
 seoTitle: Liebster Blog Award - Ich wurde interviewt - Hamburg und mein Blog
-description: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir
-  die Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg
-  unterhalten.
+description: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir die Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg unterhalten.
 labels:
   - Interview
   - Interviews
@@ -48,7 +44,7 @@ Wie es bei Blogawards so üblich ist, hat Nicole, die genau wie ich stolze Wahl-
 
 **Elbgängerin:** Wie kam es zu dem Namen cardamonchai?
 
-**Anne:** Das ist ganz spontan passiert. Ich bin mit meinem Blog auf Wordpress umgezogen und wollte endlich mal einen richtigen Namen dafür haben. Weil ich Chai(ey) liebe, am liebsten mit (K)Cardamon(n), war der schnell gefunden. Ich hatte schon Phasen, wo ich diese Entscheidung nicht mehr so gut fand, inzwischen finde ich ihn wieder schön. Ich finde, es klingt ein Bisschen mystisch, außerdem passt es gut zur veganen Rubrik, die es auf Anne bloggt cardamonchai gibt. Leider ist er ein Bisschen lang, aber dadurch fragen auch viele nach der Bedeutung. Das ist ja auch gut, dann kommt man gleich ins Gespräch, wenn man eigentlich nur nach der E-Mail-Adresse fragt. :-)
+**Anne:** Das ist ganz spontan passiert. Ich bin mit meinem Blog auf Wordpress umgezogen und wollte endlich mal einen richtigen Namen dafür haben. Weil ich Chai(ey) liebe, am liebsten mit (K)Cardamon(n), war der schnell gefunden. Ich hatte schon Phasen, wo ich diese Entscheidung nicht mehr so gut fand, inzwischen finde ich ihn wieder schön. Ich finde, es klingt ein bisschen mystisch, außerdem passt es gut zur veganen Rubrik, die es auf Anne bloggt cardamonchai gibt. Leider ist er ein bisschen lang, aber dadurch fragen auch viele nach der Bedeutung. Das ist ja auch gut, dann kommt man gleich ins Gespräch, wenn man eigentlich nur nach der E-Mail-Adresse fragt.
 
 ## Vegan seit 2014
 
@@ -80,7 +76,7 @@ In der Zeit habe ich dann auch angefangen für [Vegan News](/?s=vegan+news) und 
 
 **Elbgängerin:** Wie hoch ist Deine Toleranzgrenze für Fleischfresser?
 
-**Anne:** Ich mag es nicht, wenn ich persönlich angegriffen werde, weil ich Pflanzen esse. Das passiert leider gelegentlich beim Essen. Obwohl ich nur in Ruhe meinen Eintopf essen möchte. Manchmal werde ich da einfach unsachlich, weil ich mich überrumpelt fühle und antworte nicht ruhig und sachlich genug. Daran muss ich auf jeden Fall noch ein Bisschen arbeiten. Grundsätzlich denke ich mir, dass jeder selbst entscheiden muss. Besser für die Umwelt und die Tiere ist es natürlich, wenn man anfängt, sich mit der Thematik auseinanderzusetzen. Für Fragen bin ich da immer offen.
+**Anne:** Ich mag es nicht, wenn ich persönlich angegriffen werde, weil ich Pflanzen esse. Das passiert leider gelegentlich beim Essen. Obwohl ich nur in Ruhe meinen Eintopf essen möchte. Manchmal werde ich da einfach unsachlich, weil ich mich überrumpelt fühle und antworte nicht ruhig und sachlich genug. Daran muss ich auf jeden Fall noch ein bisschen arbeiten. Grundsätzlich denke ich mir, dass jeder selbst entscheiden muss. Besser für die Umwelt und die Tiere ist es natürlich, wenn man anfängt, sich mit der Thematik auseinanderzusetzen. Für Fragen bin ich da immer offen.
 
 **Elbgängerin:** Es gibt ja Menschen, die denken, dass Veganer Spaßbremsen sind (ich weiß, ein überstrapaziertes Klischee) – was erwiderst Du?
 
@@ -114,7 +110,7 @@ In der Zeit habe ich dann auch angefangen für [Vegan News](/?s=vegan+news) und 
 
 **Elbgängerin:** Welche Musik spielst Du derzeit hoch und runter?
 
-**Anne:** Alles von Russian Circles, Mogwai, Explosions In The Sky, [Nine Inch Nails](/2018/09/nine-inch-nails-zitadelle-spandau/) und Mono. Die elektronische Ecke füllt derzeit Dominic Eulberg aus Hamburg ein Bisschen aus. Moth &amp; Flame von &amp; aus der Serie Mister Robot ist wunderschön, außerdem mag ich gerne gute Folk-Musik. Aktuell ist bei mir auch die Musik von Chevelle wieder häufiger auf dem Plattenteller zu finden. The Fat White Family macht auch grade richtig Spaß. Ein Bisschen Postpunk muss eben auch ab und zu sein. Den Twin Peaks Soundtrack ziehe ich mir grade auch wieder häufiger rein. Ich freue mich so sehr auf die neuen Folgen! Ich höre jetzt mal auf, denn da hast Du ein Bisschen einen Nerv bei mir getroffen. Das läuft sonst ins Endlose. Hier im Blog findest Du eine kleine [Musikliste](/ein-blick-hinter-die-kulissen-von-anne-bloggt-cardamonchai/musik-buecher-und-filme/), wenn Du mehr wissen willst. :-D
+**Anne:** Alles von Russian Circles, Mogwai, Explosions In The Sky, [Nine Inch Nails](/2018/09/nine-inch-nails-zitadelle-spandau/) und Mono. Die elektronische Ecke füllt derzeit Dominic Eulberg aus Hamburg ein bisschen aus. Moth &amp; Flame von &amp; aus der Serie Mister Robot ist wunderschön, außerdem mag ich gerne gute Folk-Musik. Aktuell ist bei mir auch die Musik von Chevelle wieder häufiger auf dem Plattenteller zu finden. The Fat White Family macht auch grade richtig Spaß. Ein bisschen Postpunk muss eben auch ab und zu sein. Den Twin Peaks Soundtrack ziehe ich mir grade auch wieder häufiger rein. Ich freue mich so sehr auf die neuen Folgen! Ich höre jetzt mal auf, denn da hast Du ein bisschen einen Nerv bei mir getroffen. Das läuft sonst ins Endlose. Hier im Blog findest Du eine kleine [Musikliste](/ein-blick-hinter-die-kulissen-von-anne-bloggt-cardamonchai/musik-buecher-und-filme/), wenn Du mehr wissen willst. :-D
 
 **Elbgängerin:** Du bist kürzlich nach Altona gezogen – wie fühlt sich der Stadtteil für Dich inzwischen an?
 
@@ -132,7 +128,7 @@ In der Zeit habe ich dann auch angefangen für [Vegan News](/?s=vegan+news) und 
 
 **Elbgängerin:** Elbe oder Alster?
 
-**Anne:** Ganz klar Elbe. Sie ist rau, wild, schnell, laut und sie führt in die Nordsee. Die Tatsache, dass sie in 10 Minuten zu Fuß zu erreichen ist, ist für mich das größte Geschenk, das es zur neuen Wohnung dazu gab. Ich kann mein Glück immer noch kaum fassen und muss ständig da runter und alles fotografieren. Manchmal kommt es mir beim Bearbeiten der Bilder dann so vor, als müsste ich jeden einzelnen Zentimeter festhalten. Das Tolle ist ja auch, dass die Elbe jeden Tag ein Bisschen anders ist. Immer sieht man andere Schiffe, das Wetter ist sowieso alle fünf Minuten anders, mal rauscht es wie am Nordseestrand und mal kannst Du in ihr waten, wie im Indischen Ozean.
+**Anne:** Ganz klar Elbe. Sie ist rau, wild, schnell, laut und sie führt in die Nordsee. Die Tatsache, dass sie in 10 Minuten zu Fuß zu erreichen ist, ist für mich das größte Geschenk, das es zur neuen Wohnung dazu gab. Ich kann mein Glück immer noch kaum fassen und muss ständig da runter und alles fotografieren. Manchmal kommt es mir beim Bearbeiten der Bilder dann so vor, als müsste ich jeden einzelnen Zentimeter festhalten. Das Tolle ist ja auch, dass die Elbe jeden Tag ein bisschen anders ist. Immer sieht man andere Schiffe, das Wetter ist sowieso alle fünf Minuten anders, mal rauscht es wie am Nordseestrand und mal kannst Du in ihr waten, wie im Indischen Ozean.
 
 **Elbgängerin:** Was darf man in Hamburg Deiner Meinung nach auf keinen Fall verpassen?
 
@@ -156,4 +152,4 @@ Hier meine 11 Fragen an Patricia:
 1.  Welches Stilmittel liebst Du besonders?
 1.  Wenn Du Deine heutige Stimmung mit einem Song beschreiben müsstest, welcher wäre es?
 
-Danke schon mal im Voraus für das Interview, liebe Patricia! Viel Spaß mit Deinem Award! 
+Danke schon mal im Voraus für das Interview, liebe Patricia! Viel Spaß mit Deinem Award!

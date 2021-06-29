@@ -138,7 +138,7 @@ Die _Triodos Bank_ hat ihren Sitz in der Bankenstadt Frankfurt. Auch sie versteh
 
 _urgewald_ zitiert hier Ludger Kotulla, Technischer Redakteur und Feuerwehrmann
 
-> Auf die _Triodos Bank_ bin ich aufmerksam geworden, als ich eine Rechnung angewiesen habe. Eigentlich freue ich mich immer, wenn ich dort anrufen "muss". Es ist ein Bisschen wie in einer Familie. Mich begeistert der "Service aus einer Hand".
+> Auf die _Triodos Bank_ bin ich aufmerksam geworden, als ich eine Rechnung angewiesen habe. Eigentlich freue ich mich immer, wenn ich dort anrufen "muss". Es ist ein bisschen wie in einer Familie. Mich begeistert der "Service aus einer Hand".
 
 ### Vorteile
 

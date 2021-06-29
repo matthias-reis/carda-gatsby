@@ -1,58 +1,56 @@
 ---
 date: 2018-05-23T06:13:37.000+00:00
 slug: newpharma-eine-neue-onlineapotheke-im-vegan-test
-path: "/2018/05/newpharma-eine-neue-onlineapotheke-im-vegan-test/"
+path: '/2018/05/newpharma-eine-neue-onlineapotheke-im-vegan-test/'
 type: Artikel
 typeName: Produkttest
 title: Newpharma im Vegan-Test
 seoTitle: Newpharma - Eine neue Onlineapotheke aus Belgien im Vegan-Test
 ogTitle: Newpharma - Eine neue Onlineapotheke im Vegan-Test - Post aus Belgien
-description: Ich habe jetzt die Belgische Onlineapotheke Newpharma dem Vegan-Test
-  unterzogen. Kann man dort vegan und cruelty free bestellen?
-excerpt: Ich habe jetzt die Belgische Onlineapotheke Newpharma dem Vegan-Test unterzogen.
-  Kann man dort vegan und cruelty free bestellen?
+description: Ich habe jetzt die Belgische Onlineapotheke Newpharma dem Vegan-Test unterzogen. Kann man dort vegan und cruelty free bestellen?
+excerpt: Ich habe jetzt die Belgische Onlineapotheke Newpharma dem Vegan-Test unterzogen. Kann man dort vegan und cruelty free bestellen?
 fileName: 2018-05---newpharma-im-vegan-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_42239376191_919712c1da_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_42239376191_919712c1da_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwL/xAApEAACAQMEAAUEAwAAAAAAAAABAgMEBREABhIhExQxQXEHUYGhIjKR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAIREAAQQCAgIDAAAAAAAAAAAAAQACAxEEMRIhQZHR4fD/2gAMAwEAAhEDEQA/AMAtsMPixNOpeMMCyqcEjPYB+NaZXWbb1DSQVL7fuyxTYEbPMwDk9gKSMHr7aSbds9hl221ZWVVx86FyqRBBGCf65J7wPf8AWrq4X5qnadgWaKJ/L1NRTqWPWFwoYD26Pto5Uga2wT19K8eNI2nOG9er+Ejo9oUlZZDdYrNFHRASFvErirjgcHPZ77H+6Sb92vFtygJqLbBDNI7RRmOrMpUrgk4+2D+9WFTc3o9lXakijUwE8jx9MNxyTjoemlP1SuUF12/SVE9SrVcUoUQ+6owBLfkgayQSiVwon2qTwOYCXD94UXtbctLbrBJQVMHiNLyBdFHIAjGDlTnHqMa6sG5hAwp7lCXR5mxKW/iitjrs9dgZOjRrfxBNntGLKkYRSpn3lQ0KrSiN5oOL8o4GHA8l44YZ+cZzjOoW9XhK20pT+HwnCojEHK4Uk5+TkD8aNGgY2kg1pXzcqSQ8DodL/9k=
-ogImage: 
+ogImage:
 labels:
-- beauty
-- Belgien
-- Bodylotion
-- Copaïba
-- Copaïba vegan
-- Cruelty Free
-- Duschöl
-- Europa
-- Fair Fashion & Beauty
-- Karethic
-- Karethic vegan
-- Kundenbewertungen
-- Lady Green
-- Lavera
-- Lavera vegan
-- Lifestyle
-- Lüttich
-- New Pharma
-- New Pharma vegan
-- Newpharma
-- Newpharma Bewertung
-- Newpharma Erfahrungen
-- Newpharma vegan
-- Nuxe
-- Omun
-- Omun vegan
-- Onlineshop
-- Parfum
-- shopsafe
-- Tee
-- Trockenöl
-- vegan
-- vegan beauty
-- Weleda
-- Weleda vegan
-- Yogi Tea
+  - beauty
+  - Belgien
+  - Bodylotion
+  - Copaïba
+  - Copaïba vegan
+  - Cruelty Free
+  - Duschöl
+  - Europa
+  - Fair Fashion & Beauty
+  - Karethic
+  - Karethic vegan
+  - Kundenbewertungen
+  - Lady Green
+  - Lavera
+  - Lavera vegan
+  - Lifestyle
+  - Lüttich
+  - New Pharma
+  - New Pharma vegan
+  - Newpharma
+  - Newpharma Bewertung
+  - Newpharma Erfahrungen
+  - Newpharma vegan
+  - Nuxe
+  - Omun
+  - Omun vegan
+  - Onlineshop
+  - Parfum
+  - shopsafe
+  - Tee
+  - Trockenöl
+  - vegan
+  - vegan beauty
+  - Weleda
+  - Weleda vegan
+  - Yogi Tea
 focusKeyword: Newpharma
 status: publish
 isWerbung: false
@@ -61,8 +59,8 @@ language: de
 errors: {}
 subTitle: Onlineapotheke ausprobiert
 advertisement: true
-
 ---
+
 **Wie viele von Euch mitbekommen haben, habe ich eine Schwäche für Belgien. Seit ich das erste Mal dort war, bin ich fasziniert und auch [aufs Festival](/?s=dunk%21) zieht es mich dort immer wieder. Ich mag die Filme, das Bier, die Schokolade, die Menschen und die Kultur. Jetzt habe ich die Belgische Versandapotheke Newpharma, die jetzt auch bei uns Fuß fassen möchte, dem Vegan-Test unterzogen.**
 
 Als Allererstes möchte ich den freundlichen persönlichen Kontakt erwähnen, der mir bei der Auswahl meiner Produkte sehr geholfen hat. Derzeit ist im Shop noch nicht alles beschriftet, die Inhaltsstoff-Listen fehlen zum Teil noch und es ist noch nicht alles gekennzeichnet, was vegan und crueltyfree ist. Mitarbeiterin Julie hat mir sehr geholfen, trotzdem fündig zu werden. Vielen Dank an dieser Stelle!

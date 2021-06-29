@@ -1,16 +1,16 @@
 ---
 date: 2021-05-02T17:21:42.000+00:00
 labels:
-- The Ocean Collective
-- The Ocean
-- Robin Staps
-- Pelagic
-- Pelagic Records
-- Interview
-- Phanerozoic
-- Interviews
-- Phanerozoic I
-- Phanerozoic II
+  - The Ocean Collective
+  - The Ocean
+  - Robin Staps
+  - Pelagic
+  - Pelagic Records
+  - Interview
+  - Phanerozoic
+  - Interviews
+  - Phanerozoic I
+  - Phanerozoic II
 language: en
 slug: the-ocean-robin-staps-interview-en
 typeName: Interview
@@ -18,23 +18,17 @@ title: The Ocean Collective Founder Robin Staps
 subTitle: '"Our new album is a journey"'
 seoTitle: The Ocean Founder Robin Staps – "Our new album is a journey"
 ogTitle: ''
-description: On 25 September, the second part of The Ocean's acclaimed album "Phanerozoic"
-  will be released. We have all been eagerly awaiting this moment. I now had the honour
-  to talk to The Ocean founder Robin Staps about making "Phanerozoic" and the band's
-  Berlin-based post-rock label Pelagic.
-excerpt: On 25 September, the second part of The Ocean's acclaimed album "Phanerozoic"
-  will be released. We have all been eagerly awaiting this moment. I now had the honour
-  to talk to The Ocean founder Robin Staps about making "Phanerozoic" and the band's
-  Berlin-based post-rock label Pelagic.
-image: "/img/the-ocean-collective.jpeg"
+description: On 25 September, the second part of The Ocean's acclaimed album "Phanerozoic" will be released. We have all been eagerly awaiting this moment. I now had the honour to talk to The Ocean founder Robin Staps about making "Phanerozoic" and the band's Berlin-based post-rock label Pelagic.
+excerpt: On 25 September, the second part of The Ocean's acclaimed album "Phanerozoic" will be released. We have all been eagerly awaiting this moment. I now had the honour to talk to The Ocean founder Robin Staps about making "Phanerozoic" and the band's Berlin-based post-rock label Pelagic.
+image: '/img/the-ocean-collective.jpeg'
 copyright: The Ocean Collective
-ogImage: "/img/robin-staps-the-ocean.png"
+ogImage: '/img/robin-staps-the-ocean.png'
 focusKeyword: The Ocean
 advertisement: false
 affiliate: false
-languageLink: "/2020/09/the-ocean-robin-staps-interview"
-
+languageLink: '/2020/09/the-ocean-robin-staps-interview'
 ---
+
 **On 25 September, the second part of The Ocean's acclaimed album "Phanerozoic" will be released. We have all been eagerly awaiting this moment. I now had the honour to talk to The Ocean founder Robin Staps about making "Phanerozoic" and the band's Berlin-based post-rock label Pelagic.**
 
 **Anne:** Hello Robin! Thanks for taking the time! I feel very honoured to meet you! How are you doing?
@@ -69,7 +63,7 @@ For example, we have our monthly vinyl subscriptions, where 250 subscribers get 
 
 I would say that in terms of time, art is on an equal footing with the production of music. Of course, the music has to be written and recorded first. But then another chapter begins, which is usually no less time-consuming.
 
-**Anne:** Who had the idea to add fossils to the box set of your last album "Phanerozoic&nbsp;I"?
+**Anne:** Who had the idea to add fossils to the box set of your last album "Phanerozoic II"?
 
 ## Fossils as an add-on to the album
 
@@ -77,7 +71,7 @@ I would say that in terms of time, art is on an equal footing with the productio
 
 We started researching right away and found a very nice lady at the Geology Institute of Munich who was also pretty interested in our project. She helped us to get these fossils in this quite large quantities. After all, there were 1.000 boxes! You can imagine that this was not an easy job. You can't just make these things - they need to be found! The difficulty was that they all had to have a similar size, weight class, and price range. But together and in stages we made it. There were 150 trilobites from the Euritium and when they were used up, there were 200 Orthoceras and so on. She collected them for us at various trade fairs and from different online providers.
 
-**Anne:** That is very elaborate and beautiful. It's something when you put a trilobite on the shelf together with an album. The second part of the album "Phanerozoic&nbsp;II" will be released on September 25th. You can already hear a few songs and I have to say that they make you want to hear more! Are you satisfied with the outcome of your work?
+**Anne:** That is very elaborate and beautiful. It's something when you put a trilobite on the shelf together with an album. The second part of the album "Phanerozoic II" will be released on September 25th. You can already hear a few songs and I have to say that they make you want to hear more! Are you satisfied with the outcome of your work?
 
 ## "Going with the flow felt overwhelming at first"
 
@@ -107,7 +101,7 @@ All in all, it is very diverse and broad - even more than on the first part of t
 
 **Robin:** The songs were all written more or less at the same time. That was 2016 and 2017. There is always a certain latency between writing and releasing. Especially when it comes to double albums. At the beginning of 2018, we started recording the drums for both albums. Most parts of the songs had already been there at that time - they were just differently elaborated. The ones for the first part were already pretty much finished and the ones for the second part were partly still in a raw state. After recording the drum parts, we finished the first part. In 2019 we were on tour with it all year long.
 
-At the same time, we finalized the second fragment. I recorded some of the bass parts together with Matthias on our tour with Leprous, which we did in November. For the vocals, I did three sessions with Loïc in the summer. That was sort of between the festivals and our tour. You can say, the album was finished on the road - embedded in our tour and the production of "Phanerozoic&nbsp;I"
+At the same time, we finalized the second fragment. I recorded some of the bass parts together with Matthias on our tour with Leprous, which we did in November. For the vocals, I did three sessions with Loïc in the summer. That was sort of between the festivals and our tour. You can say, the album was finished on the road - embedded in our tour and the production of "Phanerozoic I"
 
 ## "I studied geography"
 
@@ -115,13 +109,13 @@ At the same time, we finalized the second fragment. I recorded some of the bass 
 
 **Anne:** All in all you are pretty much into concept albums. Sometimes it's about scales, sometimes about depth zones of waters, and sometimes about geological ages.
 
-With your new album "Phanerozoic&nbsp;II" you continue the concept that started in 2018 with the first part "Phanerozoic&nbsp;I". How did you get the idea to dedicate an album to the Phanerozoic? Or even before that to the Precambrian[^1]?
+With your new album "Phanerozoic II" you continue the concept that started in 2018 with the first part "Phanerozoic I". How did you get the idea to dedicate an album to the Phanerozoic? Or even before that to the Precambrian[^1]?
 
 **Robin:** The idea is already relatively old. We published "Precambrian" in 2007. At that time I was very much involved with geological ages. The connection with the album is that I studied geography at that time. I tried to visualize the music of "Precambrian". In front of my inner eye, I saw prehistoric scenes and landscapes. Somehow it was all very fitting. The theme complements the archaic and monumental music well. After "Precambrian" we did quite different things. But somehow I had the feeling that there was still a gap somewhere that we had to fill. From a conceptual and from a musical point of view. I figured out what was missing was the Phanerozoic. The time in which we still live today, but which already began 550 million years ago.
 
 ## "The idea for the collaboration with Katatonia was born in 2009"
 
-Between the albums "Precambrian" and "Heliocentric", which were groundbreaking for us in different ways, something was also missing musically. With "Precambrian" we found our sound back then. On The other hand, "Heliocentric" was a completely new beginning with Loïc's vocals, which may have initially offended some people. I wanted to close this gap with "Phanerozoic&nbsp;I" and "Phanerozoic&nbsp;II". I think that worked out pretty well. The two records are not only a journey into the past but also show where we stand as a band in 2020.
+Between the albums "Precambrian" and "Heliocentric", which were groundbreaking for us in different ways, something was also missing musically. With "Precambrian" we found our sound back then. On The other hand, "Heliocentric" was a completely new beginning with Loïc's vocals, which may have initially offended some people. I wanted to close this gap with "Phanerozoic I" and "Phanerozoic II". I think that worked out pretty well. The two records are not only a journey into the past but also show where we stand as a band in 2020.
 
 **Anne:** You worked together with Katatonia for one song on each of both parts. How did the collaboration with Jonas Renzke develop? Did you record both songs in one session?
 
@@ -189,7 +183,7 @@ But we had enough of this now. I just talked to Paul today that we want to go on
 
 **Robin:** Thanks for your time!
 
-Here is a teaser for the upcoming The Ocean Album "Phanerozoic&nbsp;II" for you.
+Here is a teaser for the upcoming The Ocean Album "Phanerozoic II" for you.
 
 ## The Ocean Collective - "Oligocene"
 

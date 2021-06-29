@@ -78,12 +78,8 @@ Packt Eure fertige DIY Lippenpflege zum Festwerden für ca. eine Stunde in den K
 
 Tragt das Peeling großzügig auf und massiert es mit den Fingern oder einer Zahnbürste vorsichtig ein. Anschließend könnt Ihr es mit einem weichen Kosmetiktuch abnehmen oder einfach ablecken.
 
-Küssen nicht vergessen! :-)
+Küssen nicht vergessen!
 
 <Gallery name="flickr/annelippenpflege" />
 
 Warum vegan richtig großen Spaß macht, [erfahrt Ihr hier](/2015/09/ich-bleib-dabei-vegan-macht-spass/).
-
-&nbsp;
-
-&nbsp;

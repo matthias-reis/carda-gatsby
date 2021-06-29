@@ -45,7 +45,7 @@ month: '11'
 
 **Raben kreisen um die Zinnen der alten Gemäuer. Ein kühles Lüftchen zieht durch die Nischen und Ecken. Der Rock Of Cashel ist ein mystischer Ort, von dem eine gewaltige Kraft auszugehen scheint. Längst vergangene Zeiten, Macht und Ohnmacht spiegeln sich in ihm wieder.**
 
-Bei unserer Tour durch Irland diesen Herbst haben wir auch diesem sagenumwobenen Ort einen Besuch abgestattet. Dabei haben wir die Aussicht genossen, einiges über die Festung gelernt und uns auch ein kleines Bisschen gegruselt.
+Bei unserer Tour durch Irland diesen Herbst haben wir auch diesem sagenumwobenen Ort einen Besuch abgestattet. Dabei haben wir die Aussicht genossen, einiges über die Festung gelernt und uns auch ein kleines bisschen gegruselt.
 
 ## Die Gespenster rasseln mit den Ketten
 
@@ -81,7 +81,7 @@ Der Legende nach soll der Rock einst vom Teufel persönlich auf die Erde gespuck
 
 Übrigens sind auf meinen Bildern nicht nur die Gebäude auf dem Rock Of Cashel zu sehen, sondern auch einige Häuser in der Umgebung sowie das nahegelegene Dominic's Abbey.
 
-Mich hat der Blick vom Dorf Cashel über die Hausdächer in Richtung Rock Of Cashel ein Bisschen an einen Film erinnert, den ich schon längst mal wieder sehen wollte: Edward mit den Scherenhänden. Schaut mal genau hin, ich habe es fotografiert. Fällt es Euch auch auf?
+Mich hat der Blick vom Dorf Cashel über die Hausdächer in Richtung Rock Of Cashel ein bisschen an einen Film erinnert, den ich schon längst mal wieder sehen wollte: Edward mit den Scherenhänden. Schaut mal genau hin, ich habe es fotografiert. Fällt es Euch auch auf?
 
 Und noch ein weiterer Hinweis auf ein Märchen, welches mit Johnny Depp in der Hauptrolle verfilmt wurde, befindet sich unter den Fotos. Na, wer findet ihn?
 

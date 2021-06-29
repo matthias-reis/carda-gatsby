@@ -1,7 +1,6 @@
 ---
 ogTitle: Carlos Ferreira im Interview - Musikpostkarten aus Porto Alegre
-excerpt: Carlos Ferreira veröffentlicht im November sein neues Album. Wir haben
-  über seine Musik und seine Entscheidung, vegan zu leben gesprochen.
+excerpt: Carlos Ferreira veröffentlicht im November sein neues Album. Wir haben über seine Musik und seine Entscheidung, vegan zu leben gesprochen.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-fb.png__l.jpg
 isAffiliate: false
 path: /2020/10/carlos-ferreira-interview/
@@ -20,8 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10
 title: Carlos Ferreira im Interview
 subTitle: Musikpostkarten aus Porto Alegre
 seoTitle: Carlos Ferreira im Interview - Musikpostkarten aus Porto Alegre
-description: Carlos Ferreira veröffentlicht im November sein neues Album. Wir
-  haben über seine Musik und seine Entscheidung, vegan zu leben gesprochen.
+description: Carlos Ferreira veröffentlicht im November sein neues Album. Wir haben über seine Musik und seine Entscheidung, vegan zu leben gesprochen.
 language: de
 type: Artikel
 labels:
@@ -38,6 +36,7 @@ labels:
   - Post-Rock
   - Recording
 ---
+
 **Carlos Ferreira wird im November sein neues Album bei Past Inside The Present veröffentlichen. Es ist ein Tape mit dem Namen "Six Postcards &amp; Other Stories". Ich habe mich mit ihm über seine Musik und seine Entscheidung für ein veganes Leben unterhalten.**
 
 Der Ambient/Drone Musiker Carlos Ferreira aus dem brasilianischen Porto Alegre erschafft mit seinen Gitarren-basierten Texturen Klanglandschaften. Er blickt bereits auf Veröffentlichungen mit Labels wie Assembly Field (UK), Past Inside The Present/Healing Sound Propagandist (USA), ARCHIVES (Spain), und Aural Canyon (USA) zurück.

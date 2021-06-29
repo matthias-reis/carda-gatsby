@@ -36,5 +36,3 @@ subTitle: 'Januar 2010: 4 Tage Istanbul'
 <Gallery name="flickr/istanbul2010anne" />
 
 Fotos: Istanbul, Türkei 2010
-
-&nbsp;

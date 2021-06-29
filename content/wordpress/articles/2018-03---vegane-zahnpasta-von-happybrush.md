@@ -83,7 +83,7 @@ Ich habe alle drei Sorten getestet und bin zu folgendem Fazit gekommen: Die Zäh
 
 Ich verwende die Pasten derzeit im Wechsel, wenn es viel Kurkuma zum Abendessen gegeben hat, putze ich mit der "Superblack" oder "Superwhite" und morgens nach dem Aufstehen gerne mit der "Supermint".
 
-Ich persönlich verwende schon seit langer Zeit vegane Biozahnpasta unterschiedlicher Hersteller. Dabei fiel mir auf, dass die meisten davon ein Bisschen salzig im Geschmack sind. Das trifft auf die Pasten von Happybrush nicht zu. Mich stört das Salz in den Sorten anderer Hersteller nicht, aber sollte das jemandem, der sich eine vegane Zahnpasta wünscht, unangenehm sein, würde ich vielleicht mal die Happybrush Sorten ausprobieren.
+Ich persönlich verwende schon seit langer Zeit vegane Biozahnpasta unterschiedlicher Hersteller. Dabei fiel mir auf, dass die meisten davon ein bisschen salzig im Geschmack sind. Das trifft auf die Pasten von Happybrush nicht zu. Mich stört das Salz in den Sorten anderer Hersteller nicht, aber sollte das jemandem, der sich eine vegane Zahnpasta wünscht, unangenehm sein, würde ich vielleicht mal die Happybrush Sorten ausprobieren.
 
 <RemoteImage
   alt={`Vegane Zahnpasta von Happybrush`}
@@ -109,7 +109,7 @@ Alle Zahnpasten werden in Deutschland hergestellt, sind vegan und, was Allergike
 
 Das neueste Projekt bei Happybrush: Brush For Water. Dabei handelt es sich um eine Kooperation mit **Viva Con Agua St. Pauli** . Mit dem Kauf einer Zahnbürste aus der Agua Blue Edition unterstützt man automatisch den Bau eines Brunnens in Äthiopien.
 
-Auf den Bildern seht Ihr übrigens einen kleinen **Less Waste Life Hack** von mir: Ich bringe eine Aktenklammer am oberen Rand der Zahnpastatube an. Wenn die Zahnpasta zur Neige geht, kann ich sie einrollen und auf diese Art bis auf das letzte Bisschen Zahnpasta leer machen. Nicht schlecht, oder?
+Auf den Bildern seht Ihr übrigens einen kleinen **Less Waste Life Hack** von mir: Ich bringe eine Aktenklammer am oberen Rand der Zahnpastatube an. Wenn die Zahnpasta zur Neige geht, kann ich sie einrollen und auf diese Art bis auf das letzte bisschen Zahnpasta leer machen. Nicht schlecht, oder?
 
 [Hier findet Ihr meinen Testbericht zur Schallzahnbürste von Happybrush](/2017/08/happybrush-der-ultimative-produkttest/).
 

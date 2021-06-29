@@ -68,7 +68,7 @@ Bis jetzt hat die Combo einige Songs aufgenommen, die es im Youtube Kanal von Ka
 
 Aufgenommen haben Kalle Kuul den Song in Davids Wohnzimmer. Das Video hat Lukas Kumpel Julian Lührs gefilmt und geschnitten. Die heimliche Hauptrolle hat seine vierjährige Hündin Otti. In zwei bis drei Wochen soll "Die Prinzessin von Osnabrück" auch bei iTunes und Spotify Premiere feiern.
 
-Hier sind für Euch Kalle Kuul mit "Die Prinzessin von Osnabrück".
+## Kalle Kuul – "Die Prinzessin von Osnabrück"
 
 <YouTube id="9bhzuqbPVC4" />
 

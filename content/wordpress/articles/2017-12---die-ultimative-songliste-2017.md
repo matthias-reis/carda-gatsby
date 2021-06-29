@@ -161,7 +161,7 @@ Es sagt einfach alles aus und kommt mit einer ungezügelten Kraft um die Ecke, d
 
 ### 12. Barst - The Western Lands
 
-Die Platte wurde zwar bereits im Jahr 2016 veröffentlicht, findet hier aber dennoch Erwähnung. Barst gehört ganz klar zu meinen Neuentdeckungen 2017. Nicht nur, weil die Band meinen Begriff "Wahnsinnsmusik", den ich in einem Artikel über das [Dunk Festival 2017](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) für Ihre Musik gewählt habe, nun dauerhaft festes Genre anerkannt hat und stets als Beschreibung und Hashtag unter Fotos in den sozialen Netzwerke verwendet. Das Waldkonzert auf dem Belgischen Musikevent diesen Sommer hat tatsächlich mein Weltbild ein kleines Bisschen verschoben. Auf eine sehr positive Art. Den Begriff Wahnsinnsmusik hat die Band mit ihren verrückten Opern definitiv verdient. Die Geschichte mit der Wahnsinnsmusik werde ich an dieser Stelle in Kürze noch einmal vertiefen. So viel sei schon mal gesagt: Barst ist grenzenlos. Einschränkungen gibt es nicht. Das gilt auch für Songenden.
+Die Platte wurde zwar bereits im Jahr 2016 veröffentlicht, findet hier aber dennoch Erwähnung. Barst gehört ganz klar zu meinen Neuentdeckungen 2017. Nicht nur, weil die Band meinen Begriff "Wahnsinnsmusik", den ich in einem Artikel über das [Dunk Festival 2017](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) für Ihre Musik gewählt habe, nun dauerhaft festes Genre anerkannt hat und stets als Beschreibung und Hashtag unter Fotos in den sozialen Netzwerke verwendet. Das Waldkonzert auf dem Belgischen Musikevent diesen Sommer hat tatsächlich mein Weltbild ein kleines bisschen verschoben. Auf eine sehr positive Art. Den Begriff Wahnsinnsmusik hat die Band mit ihren verrückten Opern definitiv verdient. Die Geschichte mit der Wahnsinnsmusik werde ich an dieser Stelle in Kürze noch einmal vertiefen. So viel sei schon mal gesagt: Barst ist grenzenlos. Einschränkungen gibt es nicht. Das gilt auch für Songenden.
 
 <YouTube id="Hk5xTN8YePs" />
 
@@ -233,7 +233,7 @@ Noch ein Livestück. Der Song ist nicht neu, die Perspektive anders. Dieser Lieb
 
 ### 24. Mark Lanegan - "Beehive" vom Album Gargoyle
 
-Mit diesem Song habe ich mit Absicht mal einen ausgesucht, der eher untypisch ist, anders als der Rest des Albums, in das er gekleidet ist. Er stimmt mich nachdenklich und erinnert mich ein Bisschen an Pink Floyds Meisterwerk Ummagumma. Aber vielleicht höre das auch nur ich raus.
+Mit diesem Song habe ich mit Absicht mal einen ausgesucht, der eher untypisch ist, anders als der Rest des Albums, in das er gekleidet ist. Er stimmt mich nachdenklich und erinnert mich ein bisschen an Pink Floyds Meisterwerk Ummagumma. Aber vielleicht höre das auch nur ich raus.
 
 <YouTube id="I7JCndWHBRg" />
 
@@ -249,7 +249,7 @@ Immer noch dabei. Immer noch die Band der Stunde. Genauso böse. Der Song haut a
 
 ### 27. Dominic Eulberg "Bienenfresser" vom Set Bienenfresser und Blauracke
 
-Ein gutes Stück Techno durfte in meiner Liste selbstverständlich nicht fehlen. Dieses hier ist sogar ein ganz besonderes. Der nette Hamburger Hobby-Ornithologe mit Sinn für Sampling, Klänge und Bass hat mit seinem Set Bienenfresser und Blauracke bei mir mal wieder einen Nerv getroffen. Treibend und verspielt zugleich. Klingt in Teilen wie aus Hells Küche. Und lauscht mal genau: Man kann den Sommer schon ein Bisschen hören!
+Ein gutes Stück Techno durfte in meiner Liste selbstverständlich nicht fehlen. Dieses hier ist sogar ein ganz besonderes. Der nette Hamburger Hobby-Ornithologe mit Sinn für Sampling, Klänge und Bass hat mit seinem Set Bienenfresser und Blauracke bei mir mal wieder einen Nerv getroffen. Treibend und verspielt zugleich. Klingt in Teilen wie aus Hells Küche. Und lauscht mal genau: Man kann den Sommer schon ein bisschen hören!
 
 <YouTube id="hNKM5paghWE" />
 

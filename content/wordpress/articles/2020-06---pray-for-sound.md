@@ -1,42 +1,40 @@
 ---
 date: 2020-06-05T08:41:25+02:00
 slug: pray-for-sound-interview
-path: "/2020/06/pray-for-sound/"
+path: '/2020/06/pray-for-sound/'
 type: Artikel
 typeName: Interview
 title: Pray for Sound
 seoTitle: Pray for Sound im Interview - "Diese Songs sind wie Therapie"
 ogTitle: Pray for Sound im Interview - "Diese Songs sind wie Therapie"
-description: Pray for Sound aus Boston haben sich meinem Interview gestellt. Es war
-  sehr spannend, eine meiner liebsten Post-Rock Bands persönlich kennenzulernen.
-excerpt: Pray for Sound aus Boston haben sich meinem Interview gestellt. Es war sehr
-  spannend, eine meiner liebsten Post-Rock Bands persönlich kennenzulernen.
+description: Pray for Sound aus Boston haben sich meinem Interview gestellt. Es war sehr spannend, eine meiner liebsten Post-Rock Bands persönlich kennenzulernen.
+excerpt: Pray for Sound aus Boston haben sich meinem Interview gestellt. Es war sehr spannend, eine meiner liebsten Post-Rock Bands persönlich kennenzulernen.
 fileName: 2020-06---pray-for-sound.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAApEAACAQMEAQQBBQEAAAAAAAABAgMEBREAEiExQQYHEyJRFBZSYqGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABwRAAICAwEBAAAAAAAAAAAAAAABAhEDEkETMv/aAAwDAQACEQMRAD8ArrXQIZBEADIMArg8ZGf4/jnTKzz0tdK0cCuuFDqzphXTO3cpCnyOjg9cc6xeP3OgjuRq47U6D5vkVWqFCt9du5iFzu8bRx50yb3JqYLXMtNRClq5VcyTrMHCSscq0aFeh/bPf4A0NJWVhj3i3E120ypcoDIlK8Az9RIUJZSTg/UHGcdHkZGRpPb73Zr3U1lNa6tJqikJWaMxMjLg7Tw0YyM8ax72+9e3GlguazyQSM8J2IoCF5mDYbOfB8DAx411+lLvSWGogvdwgnq7vPT/AKe6VIdFhiVmQoFVfszKqrnjo9+dHzkiScZXXCI9ATRCpvEkzLuhslYU3AEbiqr0e+z/AN089u54v3HTpPKYkakq4w4xkE00g7PXfejRppdNOD4ICyJI9PJMrKscHxRuQ3lshSMc9g9aaXWrkl+SZZSzmZyu6UPt2+Rn/dGjTp2ZWqR//9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-fb.png__l.jpg
 labels:
-- A Thousand Arms
-- Bands
-- Boston
-- Dunk Festival
-- Dunk Records
-- DUNK!festival
-- DUNK!records
-- English & German
-- Interview
-- Interviews
-- Post-Rock
-- Pray for Sound
-- remote recording
-- Schallplatten
-- Sound
-- Sub Phatty
-- Synthesizer
-- Vinyl
-- Voyager
-- Post.Recordings
+  - A Thousand Arms
+  - Bands
+  - Boston
+  - Dunk Festival
+  - Dunk Records
+  - DUNK!festival
+  - DUNK!records
+  - English & German
+  - Interview
+  - Interviews
+  - Post-Rock
+  - Pray for Sound
+  - remote recording
+  - Schallplatten
+  - Sound
+  - Sub Phatty
+  - Synthesizer
+  - Vinyl
+  - Voyager
+  - Post.Recordings
 focusKeyword: Pray For Sound
 status: publish
 isWerbung: false
@@ -44,9 +42,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Diese Songs sind wie Therapie"'
-languageLink: "/2020/06/pray-for-sound-interview-en"
-
+languageLink: '/2020/06/pray-for-sound-interview-en'
 ---
+
 **Heute habe ich ein ganz besonders Interview für Euch vorbereitet. Niemand Geringeres, als die wunderbare Post-Rock Band Pray For Sound hat sich meinen Fragen gestellt.**
 
 Pray For Sound habe ich auf dem [DUNK! Festival 2017](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) das erste Mal live auf der Bühne gesehen. Spätestens seit dieser denkwürdigen Stunde schlägt mein Herz für die Post-Rock Band aus Boston. Vor Kurzem haben sie ihr neues Album "Waves" veröffentlicht. Jetzt hatte ich die Gelegenheit, mich mit Gitarristen Bruce Malley, Drums und Synthesizer Beauftragten Steve Aliperta und dem Gitarristen Nick Stewart zu unterhalten.
@@ -86,12 +84,12 @@ Pray For Sound habe ich auf dem [DUNK! Festival 2017](/2017/06/dunk-festival-201
 **Steve:** Ja, am Anfang war ich so gar nicht aufs Schreiben fokussiert. Irgendwie fühlte ich mich vom Zustand der Welt eingenommen und musste erstmal herausfinden, wie ich mich über Wasser halten kann. Aber die Zeit, die ich bis jetzt ihn Quarantäne verbracht habe, hat mir geholfen, meine Prioritäten auf eine gesündere Weise zu bewerten. Das war auf jeden Fall gut für die Kreativität und jetzt ist Zeit dafür.
 
 <RemoteImage
-alt={`Pray for Sound`}
-size="medium"
-title={`Von links nach rechts/from left to right: Joe, Nick, Steve, Bruce. Foto/picture: Chris LaRoque`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves-2__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves-2__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgf/xAAmEAABBAEEAgICAwAAAAAAAAABAgMEEQUABhIhMUETFBVxIlFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAHREAAgICAwEAAAAAAAAAAAAAAAECMQMRISIyQf/aAAwDAQACEQMRAD8AiYGRvjcmObnYZ5LMBYPBzlHZ5AEg9rHm0nx4rUbN5zemO3BMxeRyLjLrbpSlbfAoviFBCSAAogHujrMbbECcmDDQDCcSytCnpD/wNPrNCwpXRVZJA9g9608TMfT2fk0DIY96bByCfrqkPB55x2/5ON+j1Z5eKFaN5XSsSOC38FcTks7LkTfzbmQXEZaS4XebgabBWAFqUgik+b79H+tQd9xZUBP3Ie4GH0vv/H9ZpZV8IIJ8kmx1V/7pxW8ZKXnlZnIL4qikoDcVDhdN9N30E99EkHomu+9WdsZhreC8xCegFr5IfbTagltPEKpRqrom7IPrV33ybgoSWlZzyJFcy72IxzSlpDzvxtlxJKGbVZP66JOl4rgUlKvNDyPejRplejGOhjd2JGMm4YIlpltzce1O5JQUhPIqtHk3XHs6nqcSpPIE2RRo1Y9j9aNGqD2g8no//9k="
+  alt={`Pray for Sound`}
+  size="medium"
+  title={`Von links nach rechts/from left to right: Joe, Nick, Steve, Bruce. Foto/picture: Chris LaRoque`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves-2__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgf/xAAmEAABBAEEAgICAwAAAAAAAAABAgMEEQUABhIhMUETFBVxIlFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAHREAAgICAwEAAAAAAAAAAAAAAAECMQMRISIyQf/aAAwDAQACEQMRAD8AiYGRvjcmObnYZ5LMBYPBzlHZ5AEg9rHm0nx4rUbN5zemO3BMxeRyLjLrbpSlbfAoviFBCSAAogHujrMbbECcmDDQDCcSytCnpD/wNPrNCwpXRVZJA9g9608TMfT2fk0DIY96bByCfrqkPB55x2/5ON+j1Z5eKFaN5XSsSOC38FcTks7LkTfzbmQXEZaS4XebgabBWAFqUgik+b79H+tQd9xZUBP3Ie4GH0vv/H9ZpZV8IIJ8kmx1V/7pxW8ZKXnlZnIL4qikoDcVDhdN9N30E99EkHomu+9WdsZhreC8xCegFr5IfbTagltPEKpRqrom7IPrV33ybgoSWlZzyJFcy72IxzSlpDzvxtlxJKGbVZP66JOl4rgUlKvNDyPejRplejGOhjd2JGMm4YIlpltzce1O5JQUhPIqtHk3XHs6nqcSpPIE2RRo1Y9j9aNGqD2g8no//9k="
 />
 
 **Anne:** Euer viertes Album "Waves" ist einfach wundervoll. Was ist seine Geschichte? Warum trägt es den Namen "Waves"?

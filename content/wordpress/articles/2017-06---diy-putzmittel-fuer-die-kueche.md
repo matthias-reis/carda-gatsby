@@ -100,10 +100,4 @@ Keine Angst vor Putzstreifen: Sollte das Natron mal leichte, weiße Schlieren au
   ]}
 />
 
-Merken
-
-Merken
-
-Merken
-
 _\*Hinweis: Die  Produkte, die in diesem Artikel gezeigt werden, wurden mir NICHT zur Verfügung gestellt. Es handelt sich weder um ein Sponsoring, noch um bezahlte Werbung._ _Der Inhalt und meine Meinung wurden nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _

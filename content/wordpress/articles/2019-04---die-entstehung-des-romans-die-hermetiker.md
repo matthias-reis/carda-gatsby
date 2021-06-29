@@ -173,7 +173,7 @@ In meiner Zeichnung griff ich dann schließlich noch die für die Region typisch
 
 Es dauerte zwei Wochen, bis unser Buch physikalisch verfügbar war. Als ich das Paket von der Poststelle abholte, war die Aufregung groß. Die Enttäuschung leider auch, denn ich merkte sofort, dass unser Autorenname "A.M. Reis" nur sehr schlecht lesbar war. Alles andere war von brillianter Qualität. Die Coverzeichnung kam toll heraus, der Textsatz war gestochen scharf. Doch ausgerechnet unser Name war viel zu blass.
 
-Wir mussten also dem Hersteller erneut 20 Euro zahlen und mit einer zweiten Coverauflage nachlegen. Das bedeutete weitere zwei Wochen Wartezeit für uns - aber macht nichts. Dafür haben wir jetzt fünf Fehldrucke zu Hause liegen. Die sind irgendwann sicher Millionen wert :-).
+Wir mussten also dem Hersteller erneut 20 Euro zahlen und mit einer zweiten Coverauflage nachlegen. Das bedeutete weitere zwei Wochen Wartezeit für uns - aber macht nichts. Dafür haben wir jetzt fünf Fehldrucke zu Hause liegen. Die sind irgendwann sicher Millionen wert.
 
 ## Schritt 8: Die Vermarktung - "Die Hermetiker" im Buchhandel
 
@@ -187,7 +187,7 @@ Wir mussten also dem Hersteller erneut 20 Euro zahlen und mit einer zweiten Cove
 
 [](https://amreis.de/ha128) Das letzte Kapitel des Buches, nein nicht des Buches selbst, sondern seiner Entstehungsgeschichte, ist das für uns unsicherste. Ich als Softwareentwickler habe keinerlei Ahnung davon, wie man etwas verkauft und auch nicht gerade eine große Anhängerschaft in den sozialen Medien. Anne hat ihren Blog, ist gut vernetzt und verfügt über Fachwissen im Online-Marketing. Es ist jedoch ein klarer Unterschied, ob man etablierte Marken vermarktet und sich in seinem gewohnten Mikrokosmos bewegt, oder das Buch zweier Nobodys an eine uns weitgehend unbekannte Zielgruppe bringen möchte.
 
-Inzwischen haben wir schon einige Ausgaben verkauft. Wir sind gespannt, wie es weitergeht. Solltet Ihr das Buch noch nicht kennen, ich empfehle es Euch hiermit wärmstens. Das kann ich mit gutem Gewissen tun, denn ich habe es sogar mehrfach gelesen. :-)
+Inzwischen haben wir schon einige Ausgaben verkauft. Wir sind gespannt, wie es weitergeht. Solltet Ihr das Buch noch nicht kennen, ich empfehle es Euch hiermit wärmstens. Das kann ich mit gutem Gewissen tun, denn ich habe es sogar mehrfach gelesen.
 
 Wir freuen uns auf Eure Rezensionen bei Amazon und Goodreads und wünschen Euch viel Spaß beim Lesen. [Hier könnt Ihr "Die Hermetiker" als Taschenbuch oder E-Book bestellen](https://amreis.de/hermetiker/?h=ha128).
 

@@ -92,7 +92,3 @@ Thomas D
 1.  3/2016 "Schmuggel bedrohter Arten"
 1.  [1/2017 "Los Veganeros 2"](/2017/03/los-veganeros-welt-vegan-magazin-1-2017/)
 1.  [2/2017 "Anne Menden und Sea Shepherd"](/2017/06/welt-vegan-magazin-2-2017-anne-menden/)
-
-&nbsp;
-
-Merken

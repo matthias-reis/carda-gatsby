@@ -35,7 +35,7 @@ subTitle: Rückblick und Bestandsaufnahme
 
 In den 10 Jahren hat sich in der Bloggerszene einiges getan und verändert. Zum Guten und zum Negativen. Zu Anfang waren die persönlichen "Tagebuchblogs" das Größte, später kam Foto- und Reiseblogs dazu. Inzwischen sind die Influencerblogs ganz groß, jeden Tag poppen neue Seiten von Mädchen und Jungs auf die "vorher auf Instagram ganz große Nummern waren" und jetzt vor dem neuen Algorithmus flüchten, weil dieser die "organische Reichweite versaut".
 
-Überall schießen neue Ratgeberblogs aus dem digitalen Boden: "Wie Du in drei Schritten einen Blog aufbaust", "Vergiss Instagram, bloggen ist der heiße Scheiß" und "Mit einem Blog Geld verdienen von Anfang an". Wo diese neue Szene herkommt und wer diesen Hype ausgelöst hat? Ich weiß es nicht. Irgendwie hoffe ich auch ein Bisschen darauf, dass er genauso wieder verschwindet, wie die Plastik-Schnullis in den 90ern und die Bubble Tea Läden vor ein paar Jahren.
+Überall schießen neue Ratgeberblogs aus dem digitalen Boden: "Wie Du in drei Schritten einen Blog aufbaust", "Vergiss Instagram, bloggen ist der heiße Scheiß" und "Mit einem Blog Geld verdienen von Anfang an". Wo diese neue Szene herkommt und wer diesen Hype ausgelöst hat? Ich weiß es nicht. Irgendwie hoffe ich auch ein bisschen darauf, dass er genauso wieder verschwindet, wie die Plastik-Schnullis in den 90ern und die Bubble Tea Läden vor ein paar Jahren.
 
 ## Self Made Menschen, Ruhm und Geld
 
@@ -51,7 +51,7 @@ So sehr ich diesen Self Made Menschen und "Entrepreneurs", wie sie sich gerne se
 
 Seit ein paar Jahren stelle ich selbst jetzt in meinem Blog immer wieder Firmen vor, die ich selbst toll und unterstützenswert finde. Dabei geht es mir aber in erster Linie darum, zu zeigen, dass es eben auch anders geht. [Ohne Tierversuche](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/). Ohne viel [Verpackung](/2017/04/interview-mit-zero-waste-aktivistin-vio/). [Selbst gemacht](/tag/lifestyle/diy/) und mit Sinn für Nachhaltigkeit. Keine Frage: Auch ich bin glücklich darüber, dass auf diesem Wege auch mal der ein oder andere Euro reinkommt. Aber ganz klar von Tag eins an zu sagen: Ich mache das Ding nur, wenn der Rubel rollt: Das ist etwas, was ich mir beim Bloggen nicht vorstellen kann.
 
-Für mich ist mein Blog meine Leidenschaft. Mein Baby. In meiner Seite steckt mein Herzblut, meine Kreativität, meine Freizeit, meine Liebe, meine Seele und meine Persönlichkeit. Sie hat sich mit mir entwickelt und ich mich mit ihr. Sie hat genau wie ich die einen Trends erlebt und mitgemacht und die anderen ausgelassen. Und auch, wenn die Ausrichtung heute vielleicht ein kleines Bisschen anders ist, als noch 2008, ist sie eines immer geblieben: Sich selbst treu.
+Für mich ist mein Blog meine Leidenschaft. Mein Baby. In meiner Seite steckt mein Herzblut, meine Kreativität, meine Freizeit, meine Liebe, meine Seele und meine Persönlichkeit. Sie hat sich mit mir entwickelt und ich mich mit ihr. Sie hat genau wie ich die einen Trends erlebt und mitgemacht und die anderen ausgelassen. Und auch, wenn die Ausrichtung heute vielleicht ein kleines bisschen anders ist, als noch 2008, ist sie eines immer geblieben: Sich selbst treu.
 
 ## Ich werde immer schreiben!
 
@@ -79,7 +79,7 @@ Ich selbst begrüße diese Entwicklung sehr. Von Yahoo und myspace über Lokalis
 
 Auf dem man seinen Blog promoten und Werbung machen darf, man aber selbst keine Werbung sieht. Auf dem man alles von jedem mitbekommt, man aber selbst mit Diskretion behandelt wird. Das die Fotos nicht runter rechnet, aber in Sekundenschnelle lädt. Auf dem man nur 140 Zeichen verwenden darf, aber Romane veröffentlichen kann. Die eierlegende Social Media Wollmilchsau.
 
-Mein Blog hat in den 10 Jahren einige Phasen durchlaufen. Zu Beginn habe ich mich noch ein Bisschen ausprobiert und beispielsweise über verschiedene Orte berichtet. Was von Anfang an dabei war, sind meine Interviews, die ich immer wieder mit interessanten Persönlichkeiten, die mir über den Weg laufen führen.
+Mein Blog hat in den 10 Jahren einige Phasen durchlaufen. Zu Beginn habe ich mich noch ein bisschen ausprobiert und beispielsweise über verschiedene Orte berichtet. Was von Anfang an dabei war, sind meine Interviews, die ich immer wieder mit interessanten Persönlichkeiten, die mir über den Weg laufen führen.
 
 ## Jubiläum - Auf die nächsten 10 Jahre!
 

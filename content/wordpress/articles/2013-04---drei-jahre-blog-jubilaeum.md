@@ -56,7 +56,7 @@ subTitle: Es gibt was zu feiern
   loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAOCAIAAADBvonlAAAACXBIWXMAAA7DAAAOwwHHb6hkAAADE0lEQVQ4jaVTS08TURjt3h/ixkTjQhdGXfgD3Bg3PqLxlYiyURKiUTG+EzExoIKACLpQFIUAJljBOlpKgU6nM9My02lR+hyUVph2OjN37r2f6QMp4it6dveR75zvfOdzAAC2bVgCxhhWgcK/wwFABc4/7Hw3PDTo4wI+H+t1uz3usXHvhNfjYRg343Jh8ocqNiYmQibCJkJAVuhxAC2eDdPIaZppWcXftk0wJoQghEzTKhQK5c5WAwAIIfM5QyeQ1ixJ1TImWTBpVjeXCWip4u8F0l8AADSbLtpQ1zXUOz6ds6Gxj7n/ZtIE0O1KHw4ASKWSkhhS03PslM83yUrTIZ4XwuFoiA/lC0ZZ5o+UpQsdw8We0QtPnBuOX4klkwDQ6xpfe+TS1eej7SP+ZQJKSFnO4sLX6iqEkJV+lrtZ8p2QHMChpmeOrYe9wbAymzjX1Q8Era+57thyoNMV0OkSwUw0EuB4URAETpSksBJW0mpKFIREIp5KJeRpeWp8MpFIBoP8lHdS0wrfW7g/Gjje2r+x9mZdRz/YaM2uej2fv/HMuenU7RPtg8NirEKAqmZQYl0hG9mV4BZ0HVflCQO0ucR1tY1DE+KO860AsP1sSw/DxtXP9Z0Dm+uaXcpchSA5G2OnWI7loh9nFFmJyFGeE/lAMBKJ8BwvTYeTsfiXTCYRTwR8rKIoSjiiqmkMwKb1vc19zz+w9V2vOpzerpGJnde6Z5JzNS0vG1545IxVISjaTVftFyUI25RQgollWci2KaWmUTAMQ9d10yoGcURW9zT1nX70uuHpyMkHQwCw+9bTM49fH7jXX9v9RpnXy3tAQkJoJvoxooQDfkGW5FBQ4Hx+1ufnA2LsU7wc05+OOmtiJqbtuzuw4/Kjo60DPe+5/c19284/PNPr9n82UMnPYgcYE2zbOU2zLFQKFM1pC9nsVz2vm2ZRaSmmJfcJAVJK11JwJXXxDiM3M9LB9uGa7rfHOp3tY9E2t5LRUXmYFYv+BwYGz+zCaDTLzC46I/OCmq9+rSJYtU1/g2XvKLWqMvb9/htiUcCDAzbVFAAAAABJRU5ErkJggg=="
 />
 
-Ich bin damals mit meinen älteren Beiträgen umgezogen, weil ich unabhängiger werden wollte und meine komplett eigene Seite aufbauen wollte. Daher sind meine Beiträge auch zurückdatiert bis [November 2008](//2008/11/). Interessant, was ich damals so geschrieben habe. Ich habe mir heute mal die Zeit genommen ein Bisschen im Archiv zu stöbern.
+Ich bin damals mit meinen älteren Beiträgen umgezogen, weil ich unabhängiger werden wollte und meine komplett eigene Seite aufbauen wollte. Daher sind meine Beiträge auch zurückdatiert bis [November 2008](//2008/11/). Interessant, was ich damals so geschrieben habe. Ich habe mir heute mal die Zeit genommen ein bisschen im Archiv zu stöbern.
 
 <RemoteImage
   alt={`Jubiläums-Duckface`}
@@ -82,7 +82,7 @@ Die meisten Artikel in meinem Blog drehen sich natürlich um mein Lieblingsthema
 
 Ganz sicher werde ich aber auch im nächsten Jahr wieder meine berühmte, [ultimative Festivalliste](/2013/03/die-ultimative-festivalliste-2013/) präsentieren. Ich bin jetzt schon gespannt, was ich 2014 hinzufügen werde!
 
-Wenn man mich nach meiner Lieblings-Blogrubrik fragen würde, würde ich auf alle Fälle antworten: Geschichten, die das Leben schreibt. Es macht jedes Mal so viel Spaß, diese Beiträge zu schreiben und später Eure Kommentare dazu zu lesen. Besonders gerne mag ich es auch, wenn ich Monate später mal wieder durch mein Blog stöbere, diese 'Tagebucheinträge' lese und dabei gelegentlich schon mal Tränen lachen muss, weil ich mir nicht mehr vorstellen kann, wie ich denn nur auf so einen Unsinn gekommen bin. :-)
+Wenn man mich nach meiner Lieblings-Blogrubrik fragen würde, würde ich auf alle Fälle antworten: Geschichten, die das Leben schreibt. Es macht jedes Mal so viel Spaß, diese Beiträge zu schreiben und später Eure Kommentare dazu zu lesen. Besonders gerne mag ich es auch, wenn ich Monate später mal wieder durch mein Blog stöbere, diese 'Tagebucheinträge' lese und dabei gelegentlich schon mal Tränen lachen muss, weil ich mir nicht mehr vorstellen kann, wie ich denn nur auf so einen Unsinn gekommen bin.
 
 <RemoteImage
   alt={`Jubiläums-Sonnenuntergang`}

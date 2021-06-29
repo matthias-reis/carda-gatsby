@@ -219,5 +219,3 @@ Vio ist eine dieser Aktivistinnen. Was mich bei ihr besonders beeindruckt hat: V
 **Vio:** Vielen Dank, dass du dir die Zeit genommen hast. Ich freue mich, wenn mich Deine Leser hin und wieder bei Twitter und Instagram besuchen!
 
 Ihr findet Vio bei Twitter ( [@thefeminist91](https://twitter.com/search?q=@VeggieGirl91&src=typd) ). Die Fotos habe ich im Eden Project in England gemacht. Auch dort dreht sich alles um Klimaschutz und Zero Waste. Ich habe es bisher zweimal besucht. Meine Artikel dazu findet Ihr [hier](/2009/05/eden-project/) und [hier](/2012/08/eden-project-2/).
-
-Merken

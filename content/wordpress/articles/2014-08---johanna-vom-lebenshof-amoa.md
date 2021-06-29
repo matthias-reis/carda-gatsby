@@ -248,7 +248,7 @@ Wir fanden einen Freund fürs Leben, schwul, wie wir, der sich sehr wünschte, V
 
 Ich war 42 Jahre alt, als sie geboren wurde, seitdem sind 7 Jahre vergangen und ich bin die stolzeste Mutter der Welt. Britta sagt oft, wie unglaublich dankbar sie dafür ist, dass sie unsere Tochter bekommen durfte.
 
-**Anne:** Das ist eine wirklich schöne Liebesgeschichte. Ich muss gestehen, dass ich gerade wirklich ein Bisschen weiche Knie bekommen habe. Möchtest Du vielleicht noch erzählen, wie alles begann? Wo seid Ihr Euch das erste Mal über den Weg gelaufen?
+**Anne:** Das ist eine wirklich schöne Liebesgeschichte. Ich muss gestehen, dass ich gerade wirklich ein bisschen weiche Knie bekommen habe. Möchtest Du vielleicht noch erzählen, wie alles begann? Wo seid Ihr Euch das erste Mal über den Weg gelaufen?
 
 **Johanna:** In Frankfurt auf einem Singletreff im Victoria. Es wurde irgendwann geschlossen, ich weiß gar nicht, ob da heute überhaupt noch eine Bar drin ist.
 
@@ -333,7 +333,7 @@ Am Tag verfüttern wir 11 Dosen Katzenfutter, außerdem abends noch Trockenfutte
 
 Ich weiß nicht, wer diese Mythologie mit in die Tierhalterwelt brachte. Auf jeden Fall bedeutet sie einen kleinen Hoffnungsschimmer in der Trauer um ein Tier, das wir verlieren. Für mich persönlich bedeutet diese kleine Brücke ein immerwährendes (Will)Kommen und Gehen (Abschiednehmen).
 
-**Anne:** Vielen Dank für dieses Interview, liebe Johanna! Ich wünsche Euch allen das Beste für die Zukunft! Nachdem wir das Interview mit einem Deiner Lieblingszitate begonnen haben, lass uns eines meiner Lieblingszitate an das Ende setzen: "Sei Du selbst die Veränderung, die Du Dir wünschst für diese Welt." (Mahatma Gandhi) - In diesem Sinne: Namasté &lt;3
+**Anne:** Vielen Dank für dieses Interview, liebe Johanna! Ich wünsche Euch allen das Beste für die Zukunft! Nachdem wir das Interview mit einem Deiner Lieblingszitate begonnen haben, lass uns eines meiner Lieblingszitate an das Ende setzen: "Sei Du selbst die Veränderung, die Du Dir wünschst für diese Welt." (Mahatma Gandhi) - In diesem Sinne: Namasté.
 
 **Johanna:** ( _lacht_ ) Das ist auch eines MEINER Lieblingszitate! ( _faltet die Hände in Brusthöhe, beugt den Kopf leicht, führt die gefalteten Hände mit den Fingerspitzen zur Stirn, um sie anschließend wieder zurückzuführen\*_ ) Namasté! Ich danke Dir, liebe Anne!
 

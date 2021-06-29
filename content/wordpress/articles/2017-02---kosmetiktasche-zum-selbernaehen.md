@@ -82,7 +82,7 @@ Die Nähanleitung ist mit dem Prädikat "Für Anfänger" ausgezeichnet, aber ich
 
 Die Wendeöffnung habe ich mit der Hand zugenäht, irgendwie erschien mir das leichter, als mit der Nähmaschine, aber das kann auch sein, dass das in der Anleitung so gedacht ist.
 
-Natürlich könnt Ihr die Tasche auch in jeder beliebigen anderen Größe nähen, wenn Ihr das Schnittmuster verkleinert/vergrößert, dann könnt Ihr für alles ein kleines Täschchen schneidern, Kameraequipment, Kabel, Stifte, externe Festplatten, Schmuck, Nähsachen und Murmelsammlungen haben es nämlich auch gerne weich und gepolstert. :-)
+Natürlich könnt Ihr die Tasche auch in jeder beliebigen anderen Größe nähen, wenn Ihr das Schnittmuster verkleinert/vergrößert, dann könnt Ihr für alles ein kleines Täschchen schneidern, Kameraequipment, Kabel, Stifte, externe Festplatten, Schmuck, Nähsachen und Murmelsammlungen haben es nämlich auch gerne weich und gepolstert.
 
 Viel Spaß beim Nähen!
 

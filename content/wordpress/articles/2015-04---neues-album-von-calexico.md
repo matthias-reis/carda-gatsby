@@ -51,7 +51,7 @@ subTitle: '"Edge Of The Sun" ist da!'
 
 **Da Calexico für mich zu den absoluten Favoriten zählen, musste es bei der neuen Platte etwas ganz besonderes sein: Die Limited Deluxe Edition als Doppel-LP in Türkis und Babyblau mit 6 Bonus-Tracks, mp3-Album und T-Shirt.**
 
-Weil ich das Ganze auch noch direkt bei Calexico bestellt habe, was viel romantischer ist, als das Ding irgendwo vorzubestellen und direkt am Erscheinungstag auszupacken, musste meine Review eben ein Bisschen warten.
+Weil ich das Ganze auch noch direkt bei Calexico bestellt habe, was viel romantischer ist, als das Ding irgendwo vorzubestellen und direkt am Erscheinungstag auszupacken, musste meine Review eben ein bisschen warten.
 
 Die Platte kam am Samstag an, als wir gerade unterwegs waren, gestern, als ich sie dann in der Postfiliale abholen wollte, war sie noch im Fahrzeug unterwegs, aber heute hatte ich dann endlich Glück. Ein echter Thriller. Wann kommt sie an? Wie klingt sie?
 
@@ -99,7 +99,7 @@ Erster Song: "Falling From The Sky" - Erster Gedanke: Watteweich. Nach progress
 
 "Woodshed Waltz" - Wie ich sie liebe: Calexicos Walzer. Und so auch diesen. Ich möchte tanzen. In langen Gewändern. Im Sand. Barfuss. Zu diesem Song.
 
-"Moon Never Rises" - Sanft trippelt dieser Song ins Ohr. Wie ein Klangspiel. Joey wird wieder unterstützt von einer Frauenstimme. Ein spannendes Duett. Gefällt. Macht Lust auf mehr. Ein Bisschen verrückt. Genau richtig. Nicht zu viel. Mehr verrate ich Euch nicht.
+"Moon Never Rises" - Sanft trippelt dieser Song ins Ohr. Wie ein Klangspiel. Joey wird wieder unterstützt von einer Frauenstimme. Ein spannendes Duett. Gefällt. Macht Lust auf mehr. Ein bisschen verrückt. Genau richtig. Nicht zu viel. Mehr verrate ich Euch nicht.
 
 "World Undone" kommt ohne viel Schnickschnack aus. Metallophon. Gläserne Klänge. Elfenhaft. Sanft umspielend wie ein schönes Kleid.
 
@@ -118,7 +118,7 @@ Erster Song: "Falling From The Sky" - Erster Gedanke: Watteweich. Nach progress
 
 Über die Bonus-Tracks verrate ich nichts, ihr müsst sie Euch selbst anhören. Es sei nur so viel gesagt: Es lohnt sich! Es wird funky und es wird eine Geschichte erzählt.
 
-Überrascht sein werdet Ihr außerdem, wer bei der Aufnahme der Platte alles mitgewirkt hat, u. a. sind Sam Beam (Iron &amp; Wine) und Neko Case (The New Pornographers, The Corn Sisters) mit von der Partie. An welchen Stellen genau, wird noch nicht verraten. ;-)
+Überrascht sein werdet Ihr außerdem, wer bei der Aufnahme der Platte alles mitgewirkt hat, u. a. sind Sam Beam (Iron &amp; Wine) und Neko Case (The New Pornographers, The Corn Sisters) mit von der Partie. An welchen Stellen genau, wird noch nicht verraten.
 
 ## Fazit
 

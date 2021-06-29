@@ -47,7 +47,7 @@ Wo genau es hingeht, erfahrt Ihr schon bald. Vielleicht klickt Ihr ja mal auf In
 
 Bis ich wieder hier bin, könnt Ihr Euch ja [die Zeit mit den Stories vom letzten Roadtrip vertreiben](/tag/irland2018/). Oder [Ihr plant schon mal fürs nächste Festival](/2015/03/die-ultimative-vegane-festivalliste/).
 
-Vielleicht hat Ihr auch Lust auf [ein Rezept](/tag/vegan/vegane-rezepte/) ? Natürlich könnt Ihr auch einfach mal rausgehen und das Wetter genießen. :-)
+Vielleicht hat Ihr auch Lust auf [ein Rezept](/tag/vegan/vegane-rezepte/) ? Natürlich könnt Ihr auch einfach mal rausgehen und das Wetter genießen.
 
 Bis bald!
 

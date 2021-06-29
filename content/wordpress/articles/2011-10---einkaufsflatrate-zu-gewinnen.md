@@ -63,7 +63,7 @@ Hier noch ein paar persönliche Spartipps:
 - _Eistee selber machen: Teebeutel sind sehr günstig und in den verschiedensten Geschmacksrichtungen zu haben. Abgeschmeckt mit etwas Zitronensaft und Zucker ein leckerer Limonadenersatz._
 - _Einkaufszettel schreiben:  So läuft man nicht Gefahr, alles mögliche zu kaufen, was man gar nicht vorhatte._
 - _Haushaltsbuch führen: Notiert man sich jede Ausgabe, wird einem viel eher bewusst, wie viel Geld man eigentlich sinnlos ausgibt_
-- _Das Rauchen aufgeben: Rechnet Euch mal zusammen, wie viel Geld ihr jeden Monat für Zigaretten ausgebt. Wer so wie ich schwach ist, und nicht ganz darauf verzichten möchte, kann auf Drehtabak umsteigen. Ich spare damit gut 20,- Euro pro Woche. Ein Päckchen Drehtabak ist für rund 5,- Euro zu haben und reicht für ca.  2 Wochen, wenn man zumindest ein kleines Bisschen auf die Gesundheit achtet und sehr sparsam damit umgeht._
+- _Das Rauchen aufgeben: Rechnet Euch mal zusammen, wie viel Geld ihr jeden Monat für Zigaretten ausgebt. Wer so wie ich schwach ist, und nicht ganz darauf verzichten möchte, kann auf Drehtabak umsteigen. Ich spare damit gut 20,- Euro pro Woche. Ein Päckchen Drehtabak ist für rund 5,- Euro zu haben und reicht für ca.  2 Wochen, wenn man zumindest ein kleines bisschen auf die Gesundheit achtet und sehr sparsam damit umgeht._
 
 Hier geht es zu den [Spartipps](http://www.kaufda.de/Einkaufstipps/Weltspartag-Spartippsammlung/) von [kaufDA](http://www.kaufda.de).
 

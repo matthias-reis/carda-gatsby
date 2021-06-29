@@ -103,8 +103,6 @@ Ich liebe Kleeblüten, Gänseblümchen, Johannisbeeren, Stachelbeeren, Hasel- un
 
 Alle Zutaten in den Mixer geben und auf höchster Stufe tanzen lassen. Sollte es zu fest werden einfach zwischendurch noch vorsichtig etwas Wasser reinträufeln. Das fertige Pesto über den angerichteten Wildkräutersalat geben und genießen.
 
-Guten Appetit! &lt;3
-
 <Gallery
   images={[
     {
@@ -121,7 +119,3 @@ Guten Appetit! &lt;3
     },
   ]}
 />
-
-&nbsp;
-
-Merken

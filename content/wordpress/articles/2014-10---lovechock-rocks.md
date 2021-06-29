@@ -1,31 +1,29 @@
 ---
 date: 2014-10-05T12:58:17.000+00:00
 slug: lovechock-rocks
-path: "/2014/10/lovechock-rocks/"
+path: '/2014/10/lovechock-rocks/'
 type: Artikel
 typeName: Produkttest
 title: Lovechock Rocks
 seoTitle: Lovechock Rocks im Test - richtig gute Schokolade
 ogTitle: Lovechock Rocks im Test - richtig gute Schokolade
-description: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in Bioqualität
-  hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
-excerpt: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in Bioqualität
-  hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
+description: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
+excerpt: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
 fileName: 2014-10---lovechock-rocks.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQASIQYTMQciQRVxsSMyUWGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAX/xAAdEQADAAEFAQAAAAAAAAAAAAAAAQIhAwQREmEx/9oADAMBAAIRAxEAPwBqwuVKJOWLWRRj2pkpMlmSllEhZSgVXbURt3Ajk8iiPnTN6ddMx8fHRKiSmy6ttIV2CoJW4r3blpu+Eke0gAWKGomiWiIllb8tuM81SVIQS9aT4IA55G4fB4/vVp6RyUWJgIzEQqjuPgrIccSpbhNDd5NGqFeQAONUnuH9o1tXa9Y7S8sU+u24jWcchFpt5Tm1zc8faSN3F3Yqh5/nU6zmVj4yKxsit0HO22ErJAJNq+fzqtdW9KTs1JTNTkYf6bYQEPtluhd2VCwTyOSOdQf1EgS8fm/p0ksJcipQtzYvcncvkcj5oA6VLVV4DiVp+mvEYXFfTLZdHdfabWApAKULACtwH31vJ6wkpyCiiO0YTqjujundRsEbVcVVmrB/zRo0qW6jJJN8jvEya5+JhubVJjyCm2HF7wOa88fjUMzkk5bM5aXICg7ImOj93CUoUUAV9gNGjQh4YLP/2Q==
-ogImage: 
+ogImage:
 labels:
-- Ernährung & Gesundheit
-- faire Schokolade
-- fairtrade
-- Lovechock
-- Lovechock Rocks
-- Schokolade
-- Superfood
-- vegan
-- vegane Schokolade
+  - Ernährung & Gesundheit
+  - faire Schokolade
+  - fairtrade
+  - Lovechock
+  - Lovechock Rocks
+  - Schokolade
+  - Superfood
+  - vegan
+  - vegane Schokolade
 focusKeyword: Lovechock
 status: publish
 isWerbung: false
@@ -34,8 +32,8 @@ language: de
 errors: {}
 subTitle: Rohe Schokolade mit dem gewissen Etwas
 advertisement: true
-
 ---
+
 **Seit April sind die kleinen "Lovechock Rocks" aus roher Schokolade in ausgewählten Bioläden zu haben. Der Anspruch: Superfood in Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".**
 
 Vor zwei Tagen traf ein kleines Paket bei uns zu Hause ein, auf das ich mich schon besonders gefreut hatte. Schokolade zum testen! Ich öffnete den Karton und mir fiel sofort die liebevolle Umverpackung der "Lovechock Rocks” ins Auge. Da ich nicht alles alleine wegnaschen wollte, durfte mein Mann mit mir gemeinsam testen. Sein Statement dazu: "Cooles Design! Die Schachteln und Beutelchen kann man wunderbar aufheben und kleine Sachen darin sammeln!"
@@ -54,7 +52,7 @@ Im Paket enthalten waren zwei Päckchen "Lovechock Rocks Raw Chocolate" in der S
 
 Die Rocks beinhalten nicht nur Hanfsaat und Maulbeeren, sondern auch einen Hauch von Reishi. [Bei Wikipedia wird der Reishi als "Derber Pilz" beschrieben](https://de.wikipedia.org/wiki/Gl%C3%A4nzender_Lackporling), normalerweise kann mein Mann Pilze nicht ausstehen, doch der Reishi in den Rocks hat ihn nicht gestört. Ich selbst habe nur ein leichtes Aroma herausgeschmeckt, das sich harmonisch mit der Maulbeere verbindet. Die Hanfsaat macht die Rocks leicht knusprig, was das Nascherlebnis noch intensiviert.
 
-Die Maulbeeren an sich kamen uns beiden leicht "rosinig" vor, wir mögen beide gerne Trockenfrüchte und auch Rohriegel, an diese hat uns der Geschmack ein Bisschen erinnert.
+Die Maulbeeren an sich kamen uns beiden leicht "rosinig" vor, wir mögen beide gerne Trockenfrüchte und auch Rohriegel, an diese hat uns der Geschmack ein bisschen erinnert.
 
 ## "Der Pilz der Unsterblichkeit"
 
@@ -68,7 +66,7 @@ Die Maulbeeren an sich kamen uns beiden leicht "rosinig" vor, wir mögen beide g
 
 Der Reishi-Pilz soll das Immunsystem stärken, gut für die Leber sein und den Stoffwechsel anregen, in China wird er "Pilz der Unsterblichkeit" genannt und steht auf einer Stufe mit dem Ginseng.
 
-Insgesamt schmecken die Rocks ein Bisschen wie schokolierte Rosinen, nur nicht ganz so süß, zudem leicht erdig und nicht superfein, sondern genau so, wie man sich rohe Schokolade vorstellt und das ist gut so.
+Insgesamt schmecken die Rocks ein bisschen wie schokolierte Rosinen, nur nicht ganz so süß, zudem leicht erdig und nicht superfein, sondern genau so, wie man sich rohe Schokolade vorstellt und das ist gut so.
 
 Die Schokoladenbohnen haben wir zunächst pur probiert und sie als leicht bitter empfunden, ich bilde mir ein, dass sie sehr gut gegen mittägliche Müdigkeit helfen. Wir werden den Rest mit in die Kaffeemühle geben und zusammen mit Kaffee aufbrühen, sicher geben sie ein interessantes Aroma ab.
 

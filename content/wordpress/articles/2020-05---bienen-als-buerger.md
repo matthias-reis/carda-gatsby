@@ -74,8 +74,6 @@ sagte Edgar Mora weiter. Nachdem er aus einem Bericht erfahren hatte, dass Städ
 
 ## Wir müssen unser Verhalten ändern
 
-&nbsp;
-
 Wenn es nach Mora geht, würden wir alle dieses Verhalten so schnell wie möglich ändern. Wenn seine Ideen Schule machen, könnte sich schon bald so einiges zum Positiven wenden.
 
 Insekten und andere bestäubende Arten sind durch den Einsatz von Pestiziden weltweit stark bedroht. Sie zu schützen, ist eine der wichtigsten Aufgaben für die Menschheit. Es ist wichtig, dass wir sie als solche erkennen.

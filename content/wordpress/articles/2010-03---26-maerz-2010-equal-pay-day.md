@@ -60,5 +60,3 @@ Wer mehr zum Thema erfahren möchte, geht auf die offizielle [Website des Equal 
 [DGB Frauen](http://www.dgb-frauen.de/themen/entgeltgleichheit/...)
 
 [Equal Pay Day](http://www.equalpayday.de/)
-
-Merken

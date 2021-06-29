@@ -44,7 +44,7 @@ Natürlich habe ich sofort zugesagt, so etwas Spannendes würde ich mir doch nie
 
 Anja hat mir viele wirklich tolle Fragen gestellt, die mich sehr inspiriert haben und sie hat auch das ein oder andere über mein neuestes Projekt aus mir herausgelockt.
 
-So schnell kann es manchmal gehen, da erzählt man jemandem von seinen Plänen, bestärkt einen noch darin, sie in die Tat umzusetzen und prompt wird man von Upyama angeschrieben! Ihr merkt, mir fehlen immer noch ein Bisschen die Worte, ich bin immer noch ganz platt!
+So schnell kann es manchmal gehen, da erzählt man jemandem von seinen Plänen, bestärkt einen noch darin, sie in die Tat umzusetzen und prompt wird man von Upyama angeschrieben! Ihr merkt, mir fehlen immer noch ein bisschen die Worte, ich bin immer noch ganz platt!
 
 ## Upyama hat mir viele interessante Fragen gestellt
 
@@ -52,7 +52,7 @@ Nicht nur das Thema vegan wurde angesprochen, auch Fragen wie "Welche Herausford
 
 Wer mehr über mein Projekt (Es hat etwas mit nähen zu tun, mehr wird an dieser Stelle noch nicht verraten) erfahren möchte, gerne wissen möchte, warum ich einen Panoramaweg einem Klettersteig immer vorziehen würde und wie ich mit Herausforderungen umgehe, findet [das komplette Interview](http://www.upyama.de/anne-reis-cardamonchai/) ab sofort in der Rubrik "Grüne Macher" bei Upyama.
 
-_Herzlichen Dank an dieser Stelle an Anja und Denise! &lt;3_
+Herzlichen Dank an dieser Stelle an Anja und Denise.
 
 ## Auf das Bild klicken um zum Interview bei Upyama zu gelangen
 

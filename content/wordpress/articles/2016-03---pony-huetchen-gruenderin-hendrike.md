@@ -1,32 +1,30 @@
 ---
 date: 2016-03-14T12:13:59.000+00:00
 slug: pony-huetchen-interview-mit-der-gruenderin-hendrike
-path: "/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/"
+path: '/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/'
 type: Artikel
 typeName: Interview
 title: Pony Hütchen Gründerin Hendrike
 seoTitle: Pony Hütchen - Interview mit der Gründerin Hendrike
 ogTitle: Interview mit Hendrike von Pony Hütchen - Vegane Kosmetik
-description: Pony Hütchen steht für vegane, handgemachte Kosmetikprodukte ohne schädliche
-  Inhaltsstoffe. Ich habe mit jetzt mit der Gründerin Hendrike unterhalten.
-excerpt: Pony Hütchen steht für vegane, handgemachte Kosmetikprodukte ohne schädliche
-  Inhaltsstoffe. Ich habe mit jetzt mit der Gründerin Hendrike unterhalten.
+description: Pony Hütchen steht für vegane, handgemachte Kosmetikprodukte ohne schädliche Inhaltsstoffe. Ich habe mit jetzt mit der Gründerin Hendrike unterhalten.
+excerpt: Pony Hütchen steht für vegane, handgemachte Kosmetikprodukte ohne schädliche Inhaltsstoffe. Ich habe mit jetzt mit der Gründerin Hendrike unterhalten.
 fileName: 2016-03---pony-huetchen-gruenderin-hendrike.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Header-Ponyhu%CC%88tchen__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Header-Ponyhu%CC%88tchen__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBAECBgj/xAAlEAABBAEDBAIDAAAAAAAAAAABAgMEEQAFEiETMUFRYZEGFfD/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEE/8QAIBEAAQMEAgMAAAAAAAAAAAAAAAEREgIDE0EhIjGx8P/aAAwDAQACEQMRAD8A9PKISmz2Hc+siafaeSS0reBYNAggjuD68ZiRKjIthx1reoEdMkEkebGIddityoTTaEBbAcLjjbzfU3euLHx9DCqro1GHEibGipC5chDaVGhuNV/e8s0CARyCLvOFlNvLdcfeK3lpaAaaDYFgqHFKKvV1xYv4x/8AjWufsUhqRs66itSQgEUkHyDyKsfeBLnaKl8D25068/ex4EijQSL78d80djtu11Eg12wwypzlGZomnSkFL8ewQUnatSLBFEGiMkgaTB05ZXCjIaWUhBULJoCgLJwwwxR3YeSpovwf/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Header-Ponyhu%CC%88tchen__l.jpg
 labels:
-- crueltyfree
-- Fair Fashion & Beauty
-- Interview
-- Interviews
-- Kosmetik
-- Pony Hütchen
-- vegan
-- vegan beauty
-- vegane Kosmetik
-- Wellness
+  - crueltyfree
+  - Fair Fashion & Beauty
+  - Interview
+  - Interviews
+  - Kosmetik
+  - Pony Hütchen
+  - vegan
+  - vegan beauty
+  - vegane Kosmetik
+  - Wellness
 focusKeyword: Pony Hütchen
 status: publish
 isWerbung: false
@@ -35,8 +33,8 @@ language: de
 errors: {}
 subTitle: Für eine nachhaltige Zukunft müssen wir tun, was uns möglich ist!
 advertisement: true
-
 ---
+
 **Pony Hütchen steht für vegane, handgemachte Kosmetikprodukte ohne schädliche Inhaltsstoffe. Unter Veganern hat sich die Marke längst einen Namen gemacht. Auch ich bin begeistert von der Produktpalette.**
 
 Jetzt hatte ich die großartige Gelegenheit, mich mit Hendrike, der Gründerin von Ponyhütchen über ihre Arbeit, ihr Leben und ihre Pflegelinie zu unterhalten. Gleichzeitig habe ich noch ein paar neue Sachen aus ihrer Manufaktur getestet, himmlischer Duft umgibt mich, mehr wird erst in der auf das Interview folgenden Unboxing-Story verraten.

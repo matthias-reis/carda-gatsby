@@ -1,46 +1,43 @@
 ---
 date: 2018-05-28T07:24:53.000+00:00
 slug: hej-organic-kosmetik-im-test
-path: "/2018/05/hej-organic-kosmetik-im-test/"
+path: '/2018/05/hej-organic-kosmetik-im-test/'
 type: Artikel
 typeName: Produkttest
 title: Hej Organic Kosmetik
 seoTitle: Hej Organic Kosmetik im Test - Pflegeprodukte mit Kaktus und Herz
 ogTitle: Hej Organic Kosmetik im Test - Pflegeprodukte mit Kaktus und Herz
-description: Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej Organic.
-  "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage. Mein Bericht.
-excerpt: Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej Organic.
-  "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage. Alle Inhaltsstoffe
-  sind natürlich, vegan und bio.
+description: Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej Organic. "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage. Mein Bericht.
+excerpt: Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej Organic. "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage. Alle Inhaltsstoffe sind natürlich, vegan und bio.
 fileName: 2018-05---hej-organic-kosmetik.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBAUG/8QAKBAAAgEEAQQCAQUBAAAAAAAAAQIDBAUGEQAHEiFREzEiFDJCYYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABwRAQADAQEAAwAAAAAAAAAAAAEAAhESAwQhMf/aAAwDAQACEQMRAD8AW2KHuA5OKdfHjjS2DEcQhwqOtseLW+5VVVSpU08dcvzMXkRdbd9kKu/r+j75Uv2M4vf8eFujx22Y7dXO4Z4IFaUeTGCezW9kHwSBvXE/KpW3Kfkyv25F3tOMXa8o72i1VlakbdrtBEWCnW9E/QOvPLNT0/yeFS0lkqUAG/yZAf8AndxjekOL0eHWy/ymqTIFqzTmCIR/AiuEZh3Esf3B0/weN81rNNR1tHdal7U9I1JRtUVE5jIWRwjMqfkB2/zPbr6Ke/E+jY6rmQ2bVcirWrqHlFsoKeiorvJDTQRiKNVijOlH0Nld82rX1dyeiU/JPTVjmQyfLUxEvsnetqV8b8j1w4cD50XUnSry6TssY68tRrPHeLRtZXST5KCbt0VUqAyP4Ya1od2hoehrbqurOP12H5FFSVv6OsraaqJpp4XV5HaEoumG1LFj7+gPXDhy4AwgudOs/9k=
-ogImage: 
+ogImage:
 labels:
-- Arganöl
-- Body Splash
-- Creme
-- Fair Fashion & Beauty
-- Gesichtsmasken
-- Gesichtspflege
-- Ghassoul
-- Grapefruit
-- hej
-- Hej Organic
-- Hej Organic Erfahrungen
-- Hej Organic Kosmetik
-- Hej Organic Testbericht
-- Kaktus
-- Kaktusfeige
-- Lavaerde
-- Taurin
-- Toner
-- Tonerde
-- Tonic
-- vegan
-- vegan beauty
-- vegane Pflege
+  - Arganöl
+  - Body Splash
+  - Creme
+  - Fair Fashion & Beauty
+  - Gesichtsmasken
+  - Gesichtspflege
+  - Ghassoul
+  - Grapefruit
+  - hej
+  - Hej Organic
+  - Hej Organic Erfahrungen
+  - Hej Organic Kosmetik
+  - Hej Organic Testbericht
+  - Kaktus
+  - Kaktusfeige
+  - Lavaerde
+  - Taurin
+  - Toner
+  - Tonerde
+  - Tonic
+  - vegan
+  - vegan beauty
+  - vegane Pflege
 focusKeyword: Hej Organic
 status: publish
 isWerbung: false
@@ -49,8 +46,8 @@ language: de
 errors: {}
 subTitle: Pflegeprodukte mit Kaktus und Herz
 advertisement: true
-
 ---
+
 **Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej Organic. "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage. Alle Inhaltsstoffe sind natürlich, vegan und bio. Das klingt doch schon mal gut, oder?**
 
 Das Besondere an der von mir getesteten Serie: Die Produkte enthalten Bio-Kaktusfeigenkernöl und Bio-Kaktusfeigenblütenwasser. Beide Bestandteile sollen eine wertvolle Kombination essentieller Fettsäuren liefern, 85 Prozent davon ungesättigt. Der Kaktus liefert von Natur aus Taurin, welches die Zellregeneration schützt und somit der Hautalterung vorbeugt.
@@ -73,7 +70,7 @@ Getestet habe ich das Reiseset, bestehend aus einem Face Tonic, einem Body Splas
 
 Letztere möchte ich gerne zuerst besprechen. Ich finde sie wirklich spannend. Etwas Derartiges kannte ich bis jetzt noch gar nicht. Was sie von anderen Gesichtsmasken unterscheidet ist: Sie besteht aus drei verschiedenen Komponenten. Eine für die T-Zone (Nase, Stirn und Kinn), wo die Haut von Natur aus ja eher zum Fetten neigt, eine für die empfindliche Augenpartie sowie eine für die Wangen.
 
-Kurz nach dem Auftragen stellt man sofort den Unterschied fest: Die T-Zonen-Maske scheint eher zu trocknen, zieht die Haut ein Bisschen zusammen, während die Wangen-Maske (Cheek-Zone) angenehm kühlt, die Augenpartie (Eye-Zone) entspannt sich.
+Kurz nach dem Auftragen stellt man sofort den Unterschied fest: Die T-Zonen-Maske scheint eher zu trocknen, zieht die Haut ein bisschen zusammen, während die Wangen-Maske (Cheek-Zone) angenehm kühlt, die Augenpartie (Eye-Zone) entspannt sich.
 
 ## Hej Organic - Die Haut entspannt sich
 

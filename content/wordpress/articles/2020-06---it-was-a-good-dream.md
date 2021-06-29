@@ -1,33 +1,31 @@
 ---
 date: 2020-06-19T18:49:47+02:00
 slug: it-was-a-good-dream-interview
-path: "/2020/06/it-was-a-good-dream/"
+path: '/2020/06/it-was-a-good-dream/'
 type: Artikel
 typeName: Interview
 title: It Was A Good Dream
 seoTitle: It Was A Good Dream im Interview - "Wir wollen Melodien schreiben"
 ogTitle: It Was A Good Dream im Interview - "Wir wollen Melodien schreiben"
-description: Ich hatte jetzt die die großartige Chance, mich mit Chris und Alex von
-  It Was A Good Dream über ihre Musik und ihren Schaffensprozess zu unterhalten.
-excerpt: Ich hatte jetzt die die großartige Chance, mich mit Chris und Alex von It
-  Was A Good Dream über ihre Musik und ihren Schaffensprozess zu unterhalten.
+description: Ich hatte jetzt die die großartige Chance, mich mit Chris und Alex von It Was A Good Dream über ihre Musik und ihren Schaffensprozess zu unterhalten.
+excerpt: Ich hatte jetzt die die großartige Chance, mich mit Chris und Alex von It Was A Good Dream über ihre Musik und ihren Schaffensprozess zu unterhalten.
 fileName: 2020-06---it-was-a-good-dream.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFBwj/xAAoEAACAQMEAQMEAwAAAAAAAAABAgMEBREABhIhMQdBYRNRgaEyQsH/xAAYAQACAwAAAAAAAAAAAAAAAAAFBgIDBP/EACcRAAEDAgQFBQAAAAAAAAAAAAEAAgMRMQQSIWEFQVGB8DNxweHx/9oADAMBAAIRAxEAPwD0Bui4VFttTy0YRpwrOob+3Fc8R8nWVs+63mtmmW+rRJiMMq08TrxbOCORJDe3jGhvrbvauszRW+zrTtJGBLOZByyD5T4yPPv37aP7e9S7NDNRGiSr+lIAksMsvIwHodE+e8+/gffWHMxgLyenO334bI1BhZZQGhtwab+fl10/dV5vFNXQ09ieijbw4q4WkDZGeuJyOv8Adam1bhca+jzeI6aKp4hjHCSQp8EZPnsda4Rvf1ap13MsUFsqmghCO0qVAR3OCVwCCAMN2ezjx2NLvRv1Nk3Le6i2XWlhpp5E5U30iSOKj+Jz5OAe9SAz5XNPU9lXLEYwQ5tqe9eaMb+pnrLvdqmqkWGmafgrMwy3ZAI/A0Gg25R5c005M8mShHQXGe/1+9WrQCUGHRhND8lO2ByzsDntFW6DsEWvQU3BiWZmYcXJORkDAx+ANPvQm2rUb3FW00iCkVXRUOMnl1k/b4+dWrRzDekDslniBrI/cr//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-fb.png__l.jpg
 labels:
-- Bands
-- Dunk Festival
-- Dunk Records
-- DUNK!festival
-- DUNK!records
-- English & German
-- Interview
-- Interviews
-- It Was A Good Dream
-- Musik
-- Post-Rock
+  - Bands
+  - Dunk Festival
+  - Dunk Records
+  - DUNK!festival
+  - DUNK!records
+  - English & German
+  - Interview
+  - Interviews
+  - It Was A Good Dream
+  - Musik
+  - Post-Rock
 focusKeyword: It Was A Good Dream
 status: publish
 isWerbung: false
@@ -35,9 +33,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Wir wollen Melodien schreiben"'
-languageLink: "/2020/06/it-was-a-good-dream-interview-en"
-
+languageLink: '/2020/06/it-was-a-good-dream-interview-en'
 ---
+
 **Eine meiner liebsten Post-Rock Platten ist im Moment "Help Me to Recollect" von It Was A Good Dream. Diese besonders gefühlvolle EP begleitet sich seit ihrer Veröffentlichung. Jetzt hatte ich die großartige Chance, mich mit Chris Anthony und Alex Glover von It Was A Good Dream über ihre Musik und ihren Schaffensprozess zu unterhalten.**
 
 Das sympathischen Duo aus Boston hat außerdem von der Zusammenarbeit mit James Bridges (Caspian, American Echoes, Mike Gordon) und die derzeitige Lage der Musikszene berichtet.
@@ -75,11 +73,11 @@ Welche Festivals mögt Ihr neben dem [DUNK!](/2019/05/dunkfestival-2019/) in Bel
 ## "2018 haben wir zum Komponieren genutzt"
 
 <RemoteImage
-alt={`It Was A Good Dream`}
-size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-2.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-2.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAKKUlEQVRIiS2UeVDTB/rG88fO77+tHd3ddg91FR3Xo9X+tNvtz213tWq31Vq7a91qbWurbqv1aNUqyqFIQY5yBogKhCtc4cpFCCQhkAQwIB5IRBEFIUIgBwkEUZTvZ8f6++OZeWaed97nmfeZeUWCVYVg+X+YVQiNiucwFDNdk8e0NocpTTaPdPlM1RbwWJ3FI0UGjyrFPC5L4UlpApQmIpSLESrTEeQpCEXxCLJYhPxzz/nPeiqC4gKC8uJzXhiHkBOJSLjSiHDVgtDRhHDzEsJ1C0KLDhqVCNp8ppQSAmVJjJckMF6WzLg8iTF5Ev7yVMblyQQKY5gqiHq+8JmBRopQkYZQnIBQEPM8QGE8gjwZoerC85lnuiwGITMMkaCWIlSlI6SHIJw5COfP8LQonsfFSTytkfGoIh2f5ASetGN4JMdx5ZzBU56OT3mBUYWE0ZJEJvJ/5OkzQ0kwpHyHII1AKEpAKE1BKEl8DnkSQl0+gqUcwVCEUJ2FUJqASAjeghDxCcKK2Tyd8T9MvD6HidSTTCpzGMuKxBe5C3f4dgZO/Yv+M9sZiNnNUFY4PtVFPKoLjFSI8Zcl408+SOC9F5na8EumP/wtwr7VCNlnQHwMIWQrwr41TB/+gOnQL5mWHEdIOIwQ+y2iZz0IeVHwxUYmvtqGK/wHvJUFPL7WxmhmNL7saMZKUhlMOcZgxkn6Y7+mP2oX3vJU3JqLuLRSHDlnuLn7f3GGf8xozJeMHXuPwDd/4VHwJqYjPoUDa+GDpQh/nIHwCxHTb85HWLcYYdlsREKrHtpMPK2pYtTUiNfezZj9FhP2ToYVpbitBjytjXhbjPhNKsa0MhxJhxnOOo27TkZ/VQbNx96nK+0oQw1ynKYSnHoZTl0uo1GfEwj5JxOSE0wlHWA6ZAfCptcRPl+HELcPYde7iLBUI1jqGTeYcV3uwn39Nu72ThzWduyKOm7VN9BnNeEw6+jXljBsqKS34CfuZUUyXF9OW8YJFP9ZjV0WS1+VmAFNJveV5+mTJzJYEIX35Id4JccZk4YxURzFkwtHmE45jJAdipC4H9FTnZKAoZ4huYZB200cN/q5d82Bva2fxmo7uhIztTlK7PUmmiTxtF6Mo6simxslGfTq5ejP7qbq+81cuhCGJXoPndII+quzuXVuF/elYQye/jfuqC8InN2BPyuUh0kHmYrdw5PEA3D6M0R+i40Rk4275fXcbb1Hb7ePuz0PaWoJoNW5USt6kKWZMCttmHJLaMnNoktTypXSi9xQydCc3os6fDfNmRE0xB+g/UIofTX5dElOcK8olnvpR3BE7MB3+B1GE75hPHYPE7F7mUw+xJPQTxA9aL5Jr9lOl6ED++Uhbt2e5HbPFMqaCSpUASzNDyku6sOgvYOt/iatOhvt6mra5Xl0yKVY0iKoDP8ai+QMV3NjuCL9ke7qHO5osumWJ9FdGEtv7lkGciIYSvgGd34ko3mR+GXRBC6GIOoy2rlt7eZy9Q3qlA6abZN03n6CofExmQU+6s0Pyczzkicbok7Xh0nXhVHRhLlMS2tpMeaMOHK+24kx4QRmcRi6qP20SEKxl6ZwqyINe04kPYVx9Mqi6Y3exYNnv6Q4Fn95Mv68KEQ36rq41XSXuvwOyosGMZonae94gu3yFOIsH8WKceLEHjKyRyks8aKudqIs78Kovoqh0ogpr5TULz+hMnQf+p9OUBv/A+0FyXQps+ksE2NLO0Fn/jns4qPcTj5Ab8ohHLln8VSKcUkjEF1Vd3Gr8R5l57spLHDRdnWKtitPabY9Iq90nIgEL7LyMVS6cRqbJimU+yksGcGgd1Cn7kRf1kLsN2EcemctRcH7ac6Mo7Mqlx59BeaEY1iTj9KS+gNXc6PoKkvllvQMd9KOMFAcj7MkAVHjuXbaK3ux6DyERXhIzQqgqJmk3jxJg/Uxu4+McCzC9XOI1CwvsWIPSm0AXV0AjdZDZdldCiVWtr/9FVtX/pVzH29CHf4ttVGHsEoiacuNxxC5F+3BdzGd2kbL2S/oyvsRu/gI18J3IGpOu05LxRA260POS8eITPAjVz3E0vIImTxAaJSPbXud/PtrJ6ExbkqVY5Srxyiu8FNaOUZ2/jDqajdpMc3s/vBHgrcdpeB4KM1ZYrpq5FyvkNIkOYvu1KcYgrdhLxXTW19OR140baknESkibXyxuZ3U+BGqqgIUycfJKwkQes7P92E+ziWOEZPkJ1Hip65+ErVunNxCF8kZgwSH3Sc53UmtcZz6xgDyovsoiztore/AbrlKh07HtUoZHZW53DEq6b9kxNFqordBRbdJQ5dRg+jTt6Rs+nszX+24S06Gj/REH0e+9/LRThffnfKRkfM8TFLmOCr9w58vkJnrIjzyPsdDesmVOSkodqHRjaE3jaM3emlsGMJq7MWsvUZDlYkOYyO9rS3cv9zEvSYDPdY67Ho1VzUViN5YFMk7bylY9ZqaRQs0rF19mY3v9rBpi4M17w+xZYeLb4PHSMkKkFc+QbrUy/7v+9izv4+kNCfi80Mkpj34uYoiuZsqpReVxoNCOYRW40CrukdDbTc2YydX6lu5ZjRz3WDiSm0dV3S1iN5ecoil804x84UDzJx5jpdeymPBPB2vLGtj2co7LH7NwdKVg6xYPcibax38dcN93v9nH5/vcXAiZJCwsw8Ii3QQ/dMAPyUNkCUdpLh0mLKKEZSqYarVQ9TVPMBsGsDWeJdWUye2usvYai/RpDEjemfJNha9tIGXZ/yDOb87yPx5cSwKymPZIg0rljfz6uu3CVo2wIrVI6z/yMN7Wz1s3enis93D7Ds4TMhpJ9HxwyRJhsnIdlJe6aKiyoWm2oPeMIqlcRSr2UNbqxtbyyCXLL00629iVl/BVNWMaMPijcx/cTGzZ6xkzqz3mfvyHubPPc3C+eksCipmwUI9q97u4aOdY2zc5mfNRg/rNw+zZdswu/aOcDLMS6J4lHz5ONLCUUor3GhqRjEYfVis4zRf8mOx+Giz+WhpcdGg78dSdxd95Q0MFW2I/h60jvkvLORPs5YTNPPPzJu1nnkvb2feHw4zd85Z5s6WsH79DTZscfL631z8ZY2HtRtd/OOjEbZud/LtYQ8RUT7ikkdJznAjvjiMrMSLtnaUepMfa5OfJqsPi8mL1eRGU9ZPbVUvtYpuGlQdiN6YvZoFMxbyyssrWfLrlQTNWsUfZ73F3F9t5Pe/+oS5vw/mb6sb+b+3b7JkVQ+v/PkBb671sO4DD5s+drHrP16OBvs4HuIlNtGL+KKLvGIvFQoPWp0HjcaFQeeiVu2kTuVEXeqgWt5PvfY+Zt0dRH+auZSgF4JY+pvlLPn1ayyYuZw/vLiC385YyW9+uYrfzdrM8sXxvLpUwcJlLcxZ3E7Qq928sWaEdZs9/Gunl11fe/hsr4eQiFFSJG5kci9qjZfqajfKimF0qmEMKieakkH0iiFqFQ+wGp00GR38F7me3yFCg/6sAAAAAElFTkSuQmCC"
+  alt={`It Was A Good Dream`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-2.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,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"
 />
 
 **Chris:** Wir haben einen Großteil des Jahres 2018 damit verbracht, zu schreiben, aufzunehmen und unser Debut-Album "Help Me To Recollect" vorzubereiten. Im Sommer 2018 haben wir uns mit Wout und Luc von DUNK! zusammengetan und mit der Planung der Albumveröffentlichung Anfang 2019 angefangen.
@@ -155,4 +153,3 @@ Euer erstes Album (Nach Eurer geheimnisvollen Teaser Single "Forgetting How To S
 Eine andere Sache ist, dass es meiner Meinung nach wirklich wichtig ist, dem⋆r Zuhörer⋆in Ear Candy mit auf den Weg zu geben. Alle meiner Lieblingsalben beinhalten kleine Details, die ich auch noch bemerke, obwohl ich sie mir schon 100 mal angehört habe. Unkonventionelle Klänge, die die Stimmung der Musik irgendwie schon unbewusst verändern. Selbst, wenn sich die Akkorde und die Melodie im Laufe der Zeit nicht verändern, hoffe ich immer, dass ich eine anhaltende Schwingung um sie herum erzeugen und sehen kann, in welchen verschiedenen Räumen sie wirken können. Ich hoffe, dass wir das weiter auf unsere Art so übersetzen können.
 
 **Anne:** Vielen Dank für dieses großartige Interview! Es hat mir wahnsinnig viel Spaß gemacht! Alles Gute für Euch!
-

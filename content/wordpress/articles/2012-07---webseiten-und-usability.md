@@ -201,7 +201,7 @@ Bei durch den User auszufüllenden Formularen sollte man sich auf jeden Fall auf
 - Die Seite sollte auch alle wichtigen Datenschutzhinweise erhalten. Diese sollten natürlich klar erkennbar sein.
 - Alle Unterseiten sollten mit Hilfe eines deutlich sichtbaren Links auf die Startseite verlinken.
 - Natürlich sollten alle persönlichen Links einen Link zur Startseite enthalten.
-- Standartfunktionen sollten idealerweise auch mit Standartbegriffen benannt sein (Also "Suche" und nicht "cardasearch" als "Suche" ;-)).
+- Standartfunktionen sollten idealerweise auch mit Standartbegriffen benannt sein (Also "Suche" und nicht "cardasearch" als "Suche").
 - Gleiche Symbole und Links sollten auf jeden Fall auf der gesamten Seite immer die gleichen Funktionen auslösen, um den Besucher nicht zu verwirren.
 - Links, die nicht auf Webseiten, sondern auf PDF-Dokumente führen, sollten gekennzeichnet und mit Größenangaben versehen werden. Achtung! Nicht aus Bequemlichkeit immer gleich auf ein PDF verweisen. Immer abwägen, ob es sinnvoll ist, oder ob es doch userfreundlicher wäre, den Inhalt in ein paar Sätzen direkt auf der Homepage darzustellen.
 - Basislinks, wie "Kontakt", "Impressum", "Startseite", etc. sollten auch auf jeder Unterseite gut sichtbar sein.

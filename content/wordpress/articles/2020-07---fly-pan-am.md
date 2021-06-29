@@ -1,7 +1,6 @@
 ---
 ogTitle: Fly Pan Am im Interview - Kreativität gibt der Welt einen Sinn
-excerpt: Fly Pan Am gehören zu den wohl bekanntesten Post-Rock Bands überhaupt.
-  Die Band wurde 1996 in Montréal, Quebec gegründet. Ich habe sie interviewt.
+excerpt: Fly Pan Am gehören zu den wohl bekanntesten Post-Rock Bands überhaupt. Die Band wurde 1996 in Montréal, Quebec gegründet. Ich habe sie interviewt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_fly-pan-am-fb.png__l.jpg
 isAffiliate: false
 path: /2020/07/fly-pan-am-interview/
@@ -20,9 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05
 title: Fly Pan Am
 subTitle: '"Kreativität gibt der Welt einen Sinn"'
 seoTitle: Fly Pan Am im Interview - Kreativität gibt der Welt einen Sinn
-description: Fly Pan Am gehören zu den wohl bekanntesten Post-Rock Bands
-  überhaupt. Die Band wurde 1996 in Montréal, Quebec gegründet. Ich habe sie
-  interviewt.
+description: Fly Pan Am gehören zu den wohl bekanntesten Post-Rock Bands überhaupt. Die Band wurde 1996 in Montréal, Quebec gegründet. Ich habe sie interviewt.
 language: de
 type: Artikel
 labels:
@@ -54,6 +51,7 @@ labels:
   - Sic Sic tapes
   - Tranquility Tapes
 ---
+
 **Heute habe ich eine kleine Sensation für Euch. Fly Pan Am haben sich zu einem Interview bereit erklärt und einiges über ihre Musik und ihre Beziehung zur Post-Rock Gemeinde verraten.**
 
 Fly Pan Am gehören zu den wohl bekanntesten Post-Rock Bands überhaupt. Die Band wurde 1996 in Montréal, Quebec von Jonathan Parant (Gitarre), Roger Tellier-Craig (Gitarre), Felix Morel (Schlagzeug) und Jean-Sebastian Truchy (Bass) gegründet. Im Jahr 2002 schloss sich Eric Gingras (Gitarre, Percussion) der Gruppe an. Innerhalb der Bandszene von Montréal wird ein reger Austausch gepflegt. So besteht zum Beispiel eine Verbindung zu Godspeed You! Black Emperor. Godspeed You Gitarrist Roger Tellier-Graig war bis 2003 in beiden Band Mitglied, trat dann aber bei Godspeed You aus, um sich fortan vollständig Fly Pan Am zu widmen.
@@ -228,4 +226,3 @@ Von diesen Künstler⋆innen kann ich schnell Verzweigungen bilden und finde mas
 **Anne:** Es ist sehr schade, dass das DUNK! Festival 2020 nicht stattfinden konnte. Sehen wir uns dort nächstes Jahr?
 
 **Roger:** Hoffentlich ja! Wir möchten auf jeden Fall Teil davon sein, wenn es möglich ist!
-

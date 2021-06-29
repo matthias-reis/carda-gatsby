@@ -41,6 +41,6 @@ Die "richtigen" Fotos von meiner "dicken" Kamera muss ich erst nach und nach ent
 
 Unser Roadtrip führte uns von Dublin nach Cork, wo wir einen lieben Freund wiedertrafen und von dort aus an die Westküste, wo wir die verschiedensten Ziele bereisten. Details dazu in Kürze. Jetzt ordne ich hier mal meine Aufzeichnungen und dann geht es wieder richtig los!
 
-Schöne Grüße aus Altona! &lt;3
+Schöne Grüße aus Altona!
 
 <Gallery name="flickr/anneirlandinsta2017" />

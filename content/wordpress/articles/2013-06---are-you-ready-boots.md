@@ -21,7 +21,6 @@ labels:
   - gogol bordello
   - Gummistiefel
   - Hoochi
-  - I &lt;3 my Hoochi
   - karnivool
   - Schlamm Festival
   - Southside-Festival

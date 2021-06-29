@@ -1,35 +1,32 @@
 ---
 date: 2020-09-14T10:10:32.000+00:00
 slug: faire-upcycling-taschen-aus-fahrradschlaeuchen
-path: "/2020/09/faire-upcycling-taschen-aus-fahrradschlaeuchen/"
+path: '/2020/09/faire-upcycling-taschen-aus-fahrradschlaeuchen/'
 type: Artikel
 typeName: Produkttest
 title: Faire Upcycling-Taschen aus Fahrradschläuchen
 seoTitle: Faire Taschen aus Fahrradschläuchen - Unterwegs mit Luna und Hedwig
 ogTitle: Faire Taschen aus Fahrradschläuchen - Unterwegs mit Luna und Hedwig
-description: Taschen aus Fahrradschläuchen sind nicht nur robust - sie machen auch
-  optisch richtig was her. Die von Mingalabar sind obendrein auch noch fair produziert.
-excerpt: Werbung & Affiliate Links - Taschen aus Fahrradschläuchen sind nicht nur
-  robust - sie machen auch optisch richtig was her. Die von Mingalabar sind obendrein
-  auch noch fair produziert.
+description: Taschen aus Fahrradschläuchen sind nicht nur robust - sie machen auch optisch richtig was her. Die von Mingalabar sind obendrein auch noch fair produziert.
+excerpt: Werbung & Affiliate Links - Taschen aus Fahrradschläuchen sind nicht nur robust - sie machen auch optisch richtig was her. Die von Mingalabar sind obendrein auch noch fair produziert.
 fileName: 2020-09---faire-upcycling-taschen-aus-fahrradschlaeuchen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_taschen-aus-fahrradschlauch__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_taschen-aus-fahrradschlauch__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKBAAAQMDAwQBBQEAAAAAAAAAAQIDBAUGEQAhQRIiMXEUE1FSYWKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AEyg1SAiW7D+Q8w6EtphOss9QcHO5CunJAGdvei54j4VTEvzDMcLqlFaRjBJbGN+c+dUL4ItVy35Nvuy0Kkx1okpklADgCxhISjwnuI9+tMNfqb1Zh2xUZLv1VSGUqabACW2UBSOwAc9RUSeT60DY9a8uVHmTnYinqW8lTzbi8AI7sY3O44BGfI09WxWKTbltpoFanoZVTVttRHH3Q2qQSo5SAeEqJGN9sawut328u0Y9rKcpbFPjBqK64ylTj7gZdCgVEnCQVIBIA38Z0rrvEzawt6ch2prccWENvFPTlw9xwRgf5oO/fMCRKj0iIiNGM5UlbKAXOuSSUhQC+kkADp8Ac6jqMGoW5BpdNkJMmmOyPmU+eUkZSopS4zn+VAHA/InnRo0GamFLnT5Qix3HAHl92O0d58nTA1a8ymRmZLmBJUvCcHZI588/f8AROjRoP/Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_taschen-aus-fahrradschlaeuchen-fb.png__l.jpg
 labels:
-- Eco Fashion
-- Fair Fashion
-- Fair Fashion & Beauty
-- Fair Trade
-- Forrest Of Peace
-- Handtasche
-- Mingalabar
-- Taschen aus Feuerwehrschläuchen
-- Thailand
-- Upcycling
-- Upcycling-Taschen
-- vegane Handtasche
+  - Eco Fashion
+  - Fair Fashion
+  - Fair Fashion & Beauty
+  - Fair Trade
+  - Forrest Of Peace
+  - Handtasche
+  - Mingalabar
+  - Taschen aus Feuerwehrschläuchen
+  - Thailand
+  - Upcycling
+  - Upcycling-Taschen
+  - vegane Handtasche
 focusKeyword: Taschen aus Fahrradschläuchen
 status: publish
 isWerbung: false
@@ -39,8 +36,8 @@ errors: {}
 subTitle: Unterwegs mit Luna und Hedwig
 advertisement: true
 affiliate: true
-
 ---
+
 **Kennt Ihr Mingalabar? Ich habe den Upcycling-Shop vor Kurzem kennengelernt. Man findet dort wunderschöne Taschen, Rucksäcke und Accessoires aus ausgedienten Fahrradschläuchen. Gute Idee, oder?**
 
 Das Material ist äußerst robust und in Taschenform ein echter Hingucker. Weil nichts durchgeht, wenn es mal regnet, sind die Taschen von Mingalabar tolle Begleiter auf Festivals beim Campen und Wandern. Genau das Richtige für mich also.

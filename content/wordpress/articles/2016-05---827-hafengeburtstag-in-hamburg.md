@@ -32,13 +32,13 @@ Am 5. Mai war es wieder soweit! Pünktlich zum Vatertag wurde in Hamburg der 827
 
 ## 827. Hafengeburtstag bei tollen Wetter
 
-Das wunderschönste Sommerwetter beglückte uns den ganzen Tag, am Abend hatten wir sogar ein Bisschen Sonnenfarbe bekommen. :-)
+Das wunderschönste Sommerwetter beglückte uns den ganzen Tag, am Abend hatten wir sogar ein bisschen Sonnenfarbe bekommen.
 
 <Gallery name="flickr/anne827hafengeburtstag" />
 
 <blockquote>
 
-## Ein Hotdog unten am Hafen (Element of Crime)
+## Element of Crime – "Ein Hotdog unten am Hafen"
 
 Ein Hotdog unten am Hafen Und vor'm Einschlafen schnell noch ein Bier Dem Feind einen Tritt in die Rippen Und ein paar Kippen für hinterher Ein Date mit dem Dalai Lama Und ein Apfelsaft morgens um zwei Und eine halbautomatische Waffe ist immer dabei
 

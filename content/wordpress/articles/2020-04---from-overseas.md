@@ -1,39 +1,36 @@
 ---
 date: 2020-04-05T14:07:09+02:00
 slug: from-overseas-interview
-path: "/2020/04/from-overseas-interview/"
+path: '/2020/04/from-overseas-interview/'
 type: Artikel
 typeName: Interview
 title: From Overseas
 seoTitle: From Overseas im Interview - Post-Rock aus La Réunion
 ogTitle: From Overseas im Interview - Post-Rock aus La Réunion
-description: Der Musiker Kévin Séry kommt aus La Réunion. Mit seiner Gitarre und seinen
-  ausgefeilten Loop-Techniken erzeugt er seinen magischen From Overseas Sound.
-excerpt: English & German - Der Musiker Kévin Séry kommt aus La Réunion. Mit seiner
-  Gitarre und seinen ausgefeilten Loop-Techniken erzeugt er seinen magischen From
-  Overseas Sound.
+description: Der Musiker Kévin Séry kommt aus La Réunion. Mit seiner Gitarre und seinen ausgefeilten Loop-Techniken erzeugt er seinen magischen From Overseas Sound.
+excerpt: English & German - Der Musiker Kévin Séry kommt aus La Réunion. Mit seiner Gitarre und seinen ausgefeilten Loop-Techniken erzeugt er seinen magischen From Overseas Sound.
 fileName: 2020-04---from-overseas.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAAqEAABBAEDAgUEAwAAAAAAAAABAgMEEQUABiESMQcTIjJxFEFRYSORof/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAP/EACERAAEEAQQDAQAAAAAAAAAAAAEAAgMRISIxQWESMlFx/9oADAMBAAIRAxEAPwDmNMYhqipCXSoAtm+r9cf7rT4DCxXMnATlkp+loBxN0FVz34ri/k6Uw2SqSy0w04sqR5xJABUOkn7nsAFf1ppiJ0iaphlEYyFqcAbQhJUpZvhIA5v41J7PPTshOnfG4PaLA+rRbmTj8luU43bWBLUVqKHCqOkNKlDp9alIKuLUQAAbFXRutTiU+w57WlNqoAt1wkjvR78/Gq0Z+KhSJZyZkxsyWRDWyqOoPMr6QfTyCk3x2/GspI8PJeHiR8nu+WiBDkEpQ21/LKec7ltKPsoWLKiALAu+NGixK5psAVXeM/qeGiaNst6jd1xnGOEoy0dxssOKeCgYyQEhtKKSTVemvzq6+DeRwr7UV+JtjHwsi9EWTJaJPSUqCFUDyOq79360aNUk9r7UogCACNwpzvPfM/DbvyogRYLWTWtCXciGreKQhICUE35YAAHHPF3epzNycuctp6VIfekN+1511S1gCqAJNijZ+SdGjSaFkrMOkBf/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-fb-1.png__l.jpg
 labels:
-- Ambient
-- Bandcamp
-- Bands
-- Bantustans
-- Death Valley Ralley
-- English & German
-- Interviews
-- Juno Records
-- La Réunion
-- Long Division
-- Maloya
-- Past Inside The Present
-- Post-Rock
-- Shoegaze
-- Studio Schwebung
-- You're Jovian
+  - Ambient
+  - Bandcamp
+  - Bands
+  - Bantustans
+  - Death Valley Ralley
+  - English & German
+  - Interviews
+  - Juno Records
+  - La Réunion
+  - Long Division
+  - Maloya
+  - Past Inside The Present
+  - Post-Rock
+  - Shoegaze
+  - Studio Schwebung
+  - You're Jovian
 focusKeyword: From Overseas
 status: publish
 isWerbung: false
@@ -41,9 +38,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Post-Rock aus La Réunion
-languageLink: "/2020/04/from-overseas-interview-en"
-
+languageLink: '/2020/04/from-overseas-interview-en'
 ---
+
 **From Overseas - was für ein wunderbarer Name für ein Musikprojekt. Der Musiker Kévin Séry kommt aus dem französischen Übersee-Departement La Réunion. Mit seiner Gitarre und seinen ausgefeilten Loop-Techniken erzeugt er einen magischen Sound.**
 
 Im Moment pendelt Kévin zwischen seiner Heimat und Europa hin und her. Seine Reisen inspirieren ihn immer wieder zu neuen Ideen. 2018 wurde er vom Veer Magazin für seine Debut-EP "Volcan" mit dem Preis für "Best Experimental Act" ausgezeichnet.
@@ -59,11 +56,11 @@ Schon in meiner [Musikliste für den April](/2020/03/12-songs-fuer-den-april/) h
 ## Ambient Musik ist der beste Soundtrack für die Isolation
 
 <RemoteImage
-alt={`from-overseas`}
-size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-3__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-3__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwIDBP/EACkQAAEEAQMEAQMFAAAAAAAAAAECAwQFEQASIQYTMUEiFCNRMmFikaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AapPQsFqeuSxJq2BMCOyyGl/axnISkK2q8qGcDg/tp9g00thFCg2y0xqv7biGVdtLykq4SAOOMbTn1x+dUtX10tTFVCs7RmI43ITKLqHTltIG1SVdwp/UCE8Z9ezp86h67YiyqeEw+9PnSZy0uMwI3dDgUoj4r3EJUjcFc4SQCONBnX03XLPW8qxtLllVCHVNIiPFYTtwdobyeFcA5J86luiunT0dSmvnXX1hdeLm+S6EJQnaAQ2k5JGTnz5OkGHR3tNIkM3lgxdqkO9hoFnctlIJJXhSVDcRj0QMe/OpmAzWdawbKD1ilCU1rwQF9wMFAHI3lIAb4TnaefAzoKZjxEWtHZurJSYzLG7d8+4O4MA/gDn+9bLx6wkQIcszENOQEhlpLDXbTtP5AV/H/To0aDgjCdY3LL67m1EtrYoOmUpXAPgD0OdQ9xZuKM2C0ntRkvFRSDnuKyfks+zo0aD/2Q=="
+  alt={`from-overseas`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-3__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwIDBP/EACkQAAEEAQMEAQMFAAAAAAAAAAECAwQFEQASIQYTMUEiFCNRMmFikaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AapPQsFqeuSxJq2BMCOyyGl/axnISkK2q8qGcDg/tp9g00thFCg2y0xqv7biGVdtLykq4SAOOMbTn1x+dUtX10tTFVCs7RmI43ITKLqHTltIG1SVdwp/UCE8Z9ezp86h67YiyqeEw+9PnSZy0uMwI3dDgUoj4r3EJUjcFc4SQCONBnX03XLPW8qxtLllVCHVNIiPFYTtwdobyeFcA5J86luiunT0dSmvnXX1hdeLm+S6EJQnaAQ2k5JGTnz5OkGHR3tNIkM3lgxdqkO9hoFnctlIJJXhSVDcRj0QMe/OpmAzWdawbKD1ilCU1rwQF9wMFAHI3lIAb4TnaefAzoKZjxEWtHZurJSYzLG7d8+4O4MA/gDn+9bLx6wkQIcszENOQEhlpLDXbTtP5AV/H/To0aDgjCdY3LL67m1EtrYoOmUpXAPgD0OdQ9xZuKM2C0ntRkvFRSDnuKyfks+zo0aD/2Q=="
 />
 
 **Kévin:** Ich arbeite von daheim, also hat sich meine Routine nicht wirklich verändert. Ich arbeite an Musik, ich höre Musik, ich koche und ich kümmere mich um meinen Hund. Aber es stimmt, ich mache im Moment wirklich mehr Musik. Ich habe das Gefühl, dass die Ambient Musik im Moment heilt und sie ist der beste Soundtrack für die Isolation.
@@ -83,11 +80,11 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 ## "'Home' spiegelt meine Reiseerfahrungen wider"
 
 <RemoteImage
-alt={`from-overseas`}
-size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-2__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-2__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAIBQf/xAApEAABAwQBAwMEAwAAAAAAAAABAgMEAAUGERIHITEiUWETFDJBcaGx/8QAFwEBAAMAAAAAAAAAAAAAAAAAAQACA//EAB8RAAICAgEFAAAAAAAAAAAAAAABAgMhMRESIjJhgf/aAAwDAQACEQMRAD8A9ow/CIFtYClMIcWQNLU2QRTZuKhDYSEDQ+Kw3jmZ2m3AtW5fUJ8nRcZaujbaVa9wltR80yhdV1ItT0RrH8uWhw/mq9r5bT+thnt/A71nGprSGVq0zTmUz7Xj1imXe9v/AGtvio5vOlJVoEgAaA2SSQAB70GyDGbRlOPMXa2rDkKWwmQw79LiFIUNg6IBHb9GswdRM2mXS1qh6vDCXFgONTLu7KCkaJ4lCkJHnid/HzRdnIMjZssVlqRd243EoaKZTyG+IPYAA8dDxTKjn0wV31HOsmY5BZF87XdpMdXj0kH/AEU9gdfs0hNKbediStkKSpbRSUH39JG6qqs4RlloibWEH896o3jNrW3Bu7McIbdDyFI5bSrRB8k+Qf6FFnr7LeiMxlK000gNpSCdaA1VVTHs8QkurZ//2Q=="
+  alt={`from-overseas`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-2__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAIBQf/xAApEAABAwQBAwMEAwAAAAAAAAABAgMEAAUGERIHITEiUWETFDJBcaGx/8QAFwEBAAMAAAAAAAAAAAAAAAAAAQACA//EAB8RAAICAgEFAAAAAAAAAAAAAAABAgMhMRESIjJhgf/aAAwDAQACEQMRAD8A9ow/CIFtYClMIcWQNLU2QRTZuKhDYSEDQ+Kw3jmZ2m3AtW5fUJ8nRcZaujbaVa9wltR80yhdV1ItT0RrH8uWhw/mq9r5bT+thnt/A71nGprSGVq0zTmUz7Xj1imXe9v/AGtvio5vOlJVoEgAaA2SSQAB70GyDGbRlOPMXa2rDkKWwmQw79LiFIUNg6IBHb9GswdRM2mXS1qh6vDCXFgONTLu7KCkaJ4lCkJHnid/HzRdnIMjZssVlqRd243EoaKZTyG+IPYAA8dDxTKjn0wV31HOsmY5BZF87XdpMdXj0kH/AEU9gdfs0hNKbediStkKSpbRSUH39JG6qqs4RlloibWEH896o3jNrW3Bu7McIbdDyFI5bSrRB8k+Qf6FFnr7LeiMxlK000gNpSCdaA1VVTHs8QkurZ//2Q=="
 />
 
 **Kévin:** Die Hauptinspiration hinter "Home" sind meine Reisen, die ich unternommen habe, seit ich Réunion Anfang Zwanzig verlassen habe. Dieses Album reflektiert meine persönlichen Reiseerfahrungen und mein Leben in Frankreich, den USA, in Amsterdam und jetzt wieder in den USA. Für mich war es immer eine Frage, was "zu Hause" ist - und jeder damit verknüpfte Aspekt, wie Beziehungen, Familie, Herz, Geist und Erinnerungen. Davon handelt also das Album.
@@ -111,11 +108,11 @@ Es gibt natürlich noch viele weitere Bezüge zu Orten und Menschen auf diesem A
 ## "Ich bin ein Luftfahrt-Ingenieur"
 
 <RemoteImage
-alt={`from-overseas`}
-size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-1__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-1__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIFBAYH/8QAJxAAAQQBAwQBBQEAAAAAAAAAAQIDBBEABRIhBhMxUYEHFCIyQWH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQAC/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQAhAxExAhL/2gAMAwEAAhEDEQA/APEZ3Q2uwIMmY82z2mKvtu7yoGuQAPAv+14zJqugvsNL09a4/wB0w4o72lEpdHFC/fJPxm+D9T+pIiZAD0R4ug8vR0ko4qk1Q+Oeclu9RPvb5DjDipqiVKkEglRPkkVV2fi8LLsD47GwIqZORpehsx+gkT+6h2UZuw7LpCaIKTfk2L+c5Wjlubr2ru6MnSX3KgJX3Q0WkpJUVFW7dVkkk85G2qABUn8feINQkdspSUpWyq0iwLBrkZlgynos6M/GcLTzLiVtrT+yFAggj/bAwwyFzr12JJccffdcecW44okqWslRJv2cRDW5pS91UoJqveGGZoqTrc//2Q=="
+  alt={`from-overseas`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-1__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIFBAYH/8QAJxAAAQQBAwQBBQEAAAAAAAAAAQIDBBEABRIhBhMxUYEHFCIyQWH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQAC/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQAhAxExAhL/2gAMAwEAAhEDEQA/APEZ3Q2uwIMmY82z2mKvtu7yoGuQAPAv+14zJqugvsNL09a4/wB0w4o72lEpdHFC/fJPxm+D9T+pIiZAD0R4ug8vR0ko4qk1Q+Oeclu9RPvb5DjDipqiVKkEglRPkkVV2fi8LLsD47GwIqZORpehsx+gkT+6h2UZuw7LpCaIKTfk2L+c5Wjlubr2ru6MnSX3KgJX3Q0WkpJUVFW7dVkkk85G2qABUn8feINQkdspSUpWyq0iwLBrkZlgynos6M/GcLTzLiVtrT+yFAggj/bAwwyFzr12JJccffdcecW44okqWslRJv2cRDW5pS91UoJqveGGZoqTrc//2Q=="
 />
 
 Davor habe ich in Toulouse für Airbus gearbeitet. Ich bin/war ein Luftfahrt-Ingenieur. Inzwischen arbeite ich nur noch an Musik. Ich beteilige mich hier in Norfolk, Virginia, wo ich lebe, auch an der Musikszene. Unter anderem arbeite ich mit befreundeten Musiker⋆innen und spiele bei Auftritten von Post-Rock Bands wie Long Division und Bantustans mit. Ich habe auch schon in einer Band mit dem Namen Death Valley Rally gespielt und jetzt bin ich Mitglied einer weiteren Shoegaze Band, die You're Jovian heißt. Hör sie Dir an! Sie sind alle gut!
@@ -137,11 +134,11 @@ Im Moment sind ja wegen Corona leider weltweit alle Konzerte abgesagt. Das Virus
 ## Live Stream am Release Tag
 
 <RemoteImage
-alt={`from-overseas`}
-size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-4__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-4__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAYHAgMEBQj/xAAqEAACAQMEAAUEAwEAAAAAAAABAgMEBREABhIhExQxUWEHIkFxMkJigf/EABcBAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAZEQEBAQEBAQAAAAAAAAAAAAAAARECEiH/2gAMAwEAAhEDEQA/AF76ebGiloRcLlwWFU8R3YjCqOyc+2pLsG2rTcaeerqGC0/hvHEyLlUA6IHXffqfyfjGkKz31bv9LGoRe4rdcZeCcEi4rxUKCZDj/JfIIySB6acI93bV23abZQUz00sRp18zJFI44MSOQHJcdEkkZ6H71nXqqzGXW7HoXpkkSOJjnwnVR2B/UkfGcfo/Go33vsFLRRzXCON1pYxmaMLkqCcclH/exp52lvy0G7SQ2qn8KmrLigqJZIFRp2kIUSKC+fux2cYHH51Vc7xLYKHclBumlcU4q6zwX80iiRD3HFn+aqw5HoZA9D2NJeofHONlvFRZ6mOopgpaPkeJZgGypBB4kHHfv6gaZdx7lnuENPDDTw01KIY28LiHywx2SRknHR9/zo0arjhraO/XOnnhFJLBStmNOcMIDcQ2VGSTjBPWMav3vccs92vKvEZvNq9NI9TM0rn7xh8kgBhjrAAHto0aYP/Z"
+  alt={`from-overseas`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-4__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAYHAgMEBQj/xAAqEAACAQMEAAUEAwEAAAAAAAABAgMEBREABhIhExQxUWEHIkFxMkJigf/EABcBAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAZEQEBAQEBAQAAAAAAAAAAAAAAARECEiH/2gAMAwEAAhEDEQA/AF76ebGiloRcLlwWFU8R3YjCqOyc+2pLsG2rTcaeerqGC0/hvHEyLlUA6IHXffqfyfjGkKz31bv9LGoRe4rdcZeCcEi4rxUKCZDj/JfIIySB6acI93bV23abZQUz00sRp18zJFI44MSOQHJcdEkkZ6H71nXqqzGXW7HoXpkkSOJjnwnVR2B/UkfGcfo/Go33vsFLRRzXCON1pYxmaMLkqCcclH/exp52lvy0G7SQ2qn8KmrLigqJZIFRp2kIUSKC+fux2cYHH51Vc7xLYKHclBumlcU4q6zwX80iiRD3HFn+aqw5HoZA9D2NJeofHONlvFRZ6mOopgpaPkeJZgGypBB4kHHfv6gaZdx7lnuENPDDTw01KIY28LiHywx2SRknHR9/zo0arjhraO/XOnnhFJLBStmNOcMIDcQ2VGSTjBPWMav3vccs92vKvEZvNq9NI9TM0rn7xh8kgBhjrAAHto0aYP/Z"
 />
 
 **Kévin:** Ich würde das auch so gerne tun. Ein Festival klingt im Moment wirklich gut. Kannst Du Dich noch an die erinnern (lacht)? Aber im Ernst, diese Situation ist wirklich hart und dieses Virus ist echt also sollten die Leute zu Hause bleiben. Ich sehe hier so viele Menschen, von denen ich glaube, dass sie es nicht ernst nehmen und das macht mich wahnsinnig. Ja, ich hatte am 17. April ein Album Release Konzert geplant und ich wollte im Frühling und Sommer eine Tour durch Virginia und an der Ostküste machen.
@@ -163,4 +160,3 @@ Aber durch das, was gerade vor sich geht, habe ich alles abgesagt. Ich hoffe, da
 [Hier geht es zur From Overseas Homepage](https://www.fromoverseasmusic.com/).
 
 Das From Overseas Album "Home" ist am 25. März beim Ambient Label Past Inside The Present erschienen.
-

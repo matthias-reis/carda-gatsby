@@ -58,7 +58,7 @@ Ich bin so glücklich! Alles ist noch da! Ihr könnt Euch meine Panik in den ers
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwf/xAAnEAACAgECBAcBAQAAAAAAAAABAgMRBAASBQYhURQiMUFhcZET0f/EABcBAQEBAQAAAAAAAAAAAAAAAAEEAAL/xAAZEQEBAQEBAQAAAAAAAAAAAAABAAIREkH/2gAMAwEAAhEDEQA/AHWHBmQEyg+IkvqyEtt+xqpwFlyIYd2K0KJ5WlYbQf8ANTeDzRwvJxw6B9qjzOUqh+1rPJ5tigijjxsHJztgYgl1ABDbbqyaJ+O2qvY0/GocrCgGUkyM2VIvUC/KO+pnmYcRDhIsFniU9P5rdn5bTJOb8OPGx5Z43p5EheMKLiZhYDCx7aXz8x4mQuUHyIRtkIijLBWkFffrd6xvPyXLy5NwpeDY8Yj8OdlVQlcCv3VPjRctlVkGMqyHqSJXsm779wDo0a4JYzYuW9l+HS2cOac2WAqz19dSvEcjhyBkx4I1VWsH1Nj3vvo0aGS//9k="
 />
 
-Es wird wohl ein Bisschen dauern, die Artikel, die ich für Euch geplant habe, zu rekapitulieren. Ich muss Euch also um ein kleines Bisschen Geduld bitten.
+Es wird wohl ein bisschen dauern, die Artikel, die ich für Euch geplant habe, zu rekapitulieren. Ich muss Euch also um ein kleines bisschen Geduld bitten.
 
 In der letzten Zeit ging es hier richtig rund, so langsam kommen wir richtig in **Hamburg** an. Ich habe schon mein Lieblingsklamottengeschäft, mein Lieblingsfrühstückscafé und meine Lieblingseckkneipe gefunden, wir erkunden jedes Wochenende gemeinsam die Umgebung und saugen alles in uns auf.
 

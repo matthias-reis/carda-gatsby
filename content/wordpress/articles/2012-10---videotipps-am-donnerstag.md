@@ -53,7 +53,7 @@ Das erste schickte mir [@Ulle](http://thatgirlthere.wordpress.com/) heute über 
 
 Übrigens möchte ich an dieser Stelle nochmal bemerken, wie wundervoll ich es finde, wie viele musikalisch interessierte Leute man über so ein Weblog und auch über soziale Netzwerke kennen lernen kann. Was alleine durch meine [T-Shirt-Verlosung](/2012/10/t-shirt-idee-die-schonsten-bilder/) für tolle Kontakte entstanden sind ist toll. Nun möchte ich Euch aber das Video nicht mehr länger vorenthalten.
 
-## Hier sind für Euch MUSE mit ihrem BBC Live Lounge Special:
+## Muse – BBC Live Lounge Special
 
 <YouTube id="hpjciAuKBT0" />
 
@@ -61,6 +61,6 @@ Das zweite Video habe ich heute Morgen schon entdeckt. Es handelt sich um das of
 
 Ich habe den Videolink auch an Ulle weitergeleitet. Ihr Kommentar: "Uah! Jetzt springt und shaked die ganze Redaktion. Danke!!!" Herrlich. Natürlich freue ich mich, wenn ich in Euch gleich eine ähnliche Reaktion auslöse.
 
-## Hier ist für Euch JACK WHITE mit 'I'm Shakin'':
+## Jack White – 'I'm Shakin'':
 
 <YouTube id="XkcGuZHPbKk" />

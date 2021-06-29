@@ -45,7 +45,7 @@ subTitle: Ich werde nie aufgeben
 
 **Warum sehen Menschen anderen Menschen beim Scheitern zu? Warum fällt es den meisten so schwer, anderen auch mal unter die Arme zu greifen? Wenn wir sehen, dass es schwierig wird, drehen wir uns weg. Was läuft schief mit uns?**
 
-Ganz oben seht Ihr ein Bild von der [Sonntags-Parade](/2017/06/stamp-festival-altona-2017-parade/) auf dem Stamp Festival in Altona. Ich habe die Gesichter ausgeblurrt, ich finde, so kommt die Stimmung besser rüber. Die Truppe zeigt ja ein Bisschen die Gesellschaft an sich. Wie sich alle abrackern und keiner dem anderen hilft. Alle beobachten andere beim Versuch, etwas hinzukriegen (und auch gerne dabei, wie sie daran scheitern). Es ist, als würde man sie ganz leise sagen hören "Das habe ich mir schon gedacht, dass sie das nicht hinkriegen. Gut, dass ICH es nicht versucht habe".
+Ganz oben seht Ihr ein Bild von der [Sonntags-Parade](/2017/06/stamp-festival-altona-2017-parade/) auf dem Stamp Festival in Altona. Ich habe die Gesichter ausgeblurrt, ich finde, so kommt die Stimmung besser rüber. Die Truppe zeigt ja ein bisschen die Gesellschaft an sich. Wie sich alle abrackern und keiner dem anderen hilft. Alle beobachten andere beim Versuch, etwas hinzukriegen (und auch gerne dabei, wie sie daran scheitern). Es ist, als würde man sie ganz leise sagen hören "Das habe ich mir schon gedacht, dass sie das nicht hinkriegen. Gut, dass ICH es nicht versucht habe".
 
 <RemoteImage
   alt={`Menschen`}
@@ -120,4 +120,4 @@ Man möchte doch im Endeffekt auch gar nicht, dass man nur noch auf diese Weise 
 
 Früher gab man dem Kollegen ein Buch und er las es. Das führte dann auch zu einer gesunden Basis für spätere Gespräche. Man konnte sich über den Inhalt austauschen, darüber lachen und fachsimpeln. Heute springt man nur noch von Anriss zu Anriss. Besonders beliebt sind Plattformen geworden, deren Inhalte sich automatisch nach 24 Stunden löschen. Schrecklich, oder? So bleibt einem nicht mal mehr das "Hast Du gestern auch das Meme mit der [Katze](/2012/08/ode-an-den-kater/) im Pool bekommen? Nicht? Moment, ich zeige es Dir schnell!".
 
-Vielleicht sollten wir uns einfach ein Bisschen zurückbesinnen. Zu Büchern. Oder uns einfach mal wieder in der Weinstube treffen und uns gegenseitig die Dinge vorlesen oder vorsingen, die uns wichtig sind. Damit die anderen sie mit uns fühlen können. Oder vielleicht bin ich auch einfach zu alt für diesen Scheiß.
+Vielleicht sollten wir uns einfach ein bisschen zurückbesinnen. Zu Büchern. Oder uns einfach mal wieder in der Weinstube treffen und uns gegenseitig die Dinge vorlesen oder vorsingen, die uns wichtig sind. Damit die anderen sie mit uns fühlen können. Oder vielleicht bin ich auch einfach zu alt für diesen Scheiß.

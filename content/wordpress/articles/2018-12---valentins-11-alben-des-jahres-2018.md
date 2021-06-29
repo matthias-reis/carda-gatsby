@@ -52,8 +52,6 @@ Das sind wirklich wahre Worte! Ich wünsche Euch viel Spaß beim Anhören - bis 
 
 1.  Nine Inch Nails - Bad Witch <YouTube id="bjBZdEy0WLQ" />
 
-Lieber Valentin, danke für diese wunderbare Liste! Ich freue mich immer über den regen musikalischen Austausch mit Dir. Auf ein spannendes Schallplatten-Jahr 2019! Ich freue mich schon auf Deine Musiktipps und Videolinks! &lt;3
+Lieber Valentin, danke für diese wunderbare Liste! Ich freue mich immer über den regen musikalischen Austausch mit Dir. Auf ein spannendes Schallplatten-Jahr 2019! Ich freue mich schon auf Deine Musiktipps und Videolinks!
 
 Im vierten Teil dieser Serie präsentiere ich Euch [Matzes 30 Songs des Jahres](/2018/12/matzes-songs-2018/).
-
-&nbsp;

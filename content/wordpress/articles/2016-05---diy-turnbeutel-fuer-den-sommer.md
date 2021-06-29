@@ -46,7 +46,7 @@ Turnbeutel benutze ich nicht nur für meine Sportsachen, sondern auch zum Einkau
 
 Erst am Sonntag hatte ich wieder so ein Erlebnis, als wir in St. Pauli frühstücken waren. Auf der anderen Straßenseite stand "im schwarzen Loch" eine Kiste mit Sperrmüll. Darin lag auch ein Bettbezug, genäht aus zwei wunderbaren roten Baumwollstoffen. Natürlich habe ich den Bettbezug sofort in meinen Turnbeutel gepackt, nicht nur, weil mich die karierte Seite sehr an den Stoff erinnert hat, aus dem meine Omi mir früher immer Kissen genäht hat.
 
-Zu Hause angekommen, musste er nur noch gewaschen und gebügelt werden und schon war er wieder wie neu. Er muss gänzlich unbenutzt gewesen sein, er war kein Bisschen verschlissen oder verschmutzt.
+Zu Hause angekommen, musste er nur noch gewaschen und gebügelt werden und schon war er wieder wie neu. Er muss gänzlich unbenutzt gewesen sein, er war kein bisschen verschlissen oder verschmutzt.
 
 Aus meiner Nähkiste habe ich mir noch ein schönes, gepunktetes Schrägband, etwas Multicolor-Garn und einen Bügelbatch in Form von zwei Kirschen ausgesucht und schon war das Nähprojekt geboren. Ihr wollt es mir ja vielleicht nicht glauben, aber schon als ich den Stoff auf der anderen Straßenseite gesehen habe, hatte ich meinen neuen Rucksack im Kopf.
 
@@ -56,7 +56,7 @@ Mit der Nähanleitung von der herzallerliebsten Eliza (Ihr findet sie im Video u
 
 Wer schon einen tollen Jutebeutel besitzt, der aber nur zwei langweilige 0815-Henkel hat, kann ihn auch ganz leicht mit ein paar Handgriffen mit meiner Nähanleitung [DIY Upcyling Jutebeutel-Rucksack](/2015/09/diy-upcycling-turnbeutel/)  umgestalten. Für Einsteiger ist das auch eine schöne Übung!
 
-Auf dem Bild unten seht Ihr übrigens auch meinen derzeitigen Nähplatz mit meiner neuen Toyota Oekeaki Nähmaschine. Ich habe ja vor, mich nach dem Umzug ein Bisschen anders zu organisieren. Ich bin mal gespannt, wie das klappt. Mal sehen, vielleicht wird es davon ja dann auch einen Beitrag geben.
+Auf dem Bild unten seht Ihr übrigens auch meinen derzeitigen Nähplatz mit meiner neuen Toyota Oekeaki Nähmaschine. Ich habe ja vor, mich nach dem Umzug ein bisschen anders zu organisieren. Ich bin mal gespannt, wie das klappt. Mal sehen, vielleicht wird es davon ja dann auch einen Beitrag geben.
 
 Wie gefällt Euch mein neuer Turnbeutel? Schön sommerlich, oder? Habt Ihr auch schon mal was Tolles auf dem Flohmarkt gefunden? Und wenn ja, was! Erzählt mal, ich bin so neugierig!
 

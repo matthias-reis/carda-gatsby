@@ -87,7 +87,7 @@ Nur liebe Menschen, wahnsinnig tolle Musik, ein Gelände wie aus dem Märchen, p
 
 Bei den Bands, die auf dem Dunk!festival auftreten sollten, hatten wir natürlich beide schon im Vorfeld unsere Favoriten, die sich in vielen Teilen auch überschnitten. Als wir sie dann wirklich alle geballt live auf der Bühne sahen, kamen noch ein paar neue Lieblingsmusiker dazu.
 
-Besonders gefreut habe ich mich auf MOONCAKE. Für mich war die Band neben BARST, die mit ihrer Wahnsinnsmusik auf der kleinen Nebenbühne im Wald das Publikum in Ekstase versetzten, auch (trotz einiger kleiner technischer Probleme, die das Konzert ein wenig verzögerten) die beste im Lineup. Wobei ich da aber auch ein Bisschen befangen bin.
+Besonders gefreut habe ich mich auf MOONCAKE. Für mich war die Band neben BARST, die mit ihrer Wahnsinnsmusik auf der kleinen Nebenbühne im Wald das Publikum in Ekstase versetzten, auch (trotz einiger kleiner technischer Probleme, die das Konzert ein wenig verzögerten) die beste im Lineup. Wobei ich da aber auch ein bisschen befangen bin.
 
 ## Von Mooncake bis And So I Watch You From Afar
 

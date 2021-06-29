@@ -1,8 +1,6 @@
 ---
 ogTitle: Vandemonian Frontman Nick im Interview – Post-Rock aus Hamburg
-excerpt: Die Hamburger Post-Rock Band Vandemonian veröffentlichte vor Kurzem ihr
-  großartiges Debüt-Album "Xenophilia". Ich habe mich jetzt mit Frontman Nick
-  zum Interview verabredet.
+excerpt: Die Hamburger Post-Rock Band Vandemonian veröffentlichte vor Kurzem ihr großartiges Debüt-Album "Xenophilia". Ich habe mich jetzt mit Frontman Nick zum Interview verabredet.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_vandemonian-fb-1.png__l.jpg
 isAffiliate: false
 path: /2021/03/vandemonian-frontman-nick/
@@ -21,8 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03
 title: Vandemonian Frontman Nick
 subTitle: '"In der heutigen Zeit kann man nicht schweigen"'
 seoTitle: Vandemonian Frontman Nick im Interview – Post-Rock aus Hamburg
-description: Die Hamburger Post-Rock Band Vandemonian veröffentlichte vor Kurzem
-  ihr großartiges Debüt-Album "Xenophilia". Ich habe Nick interviewt.
+description: Die Hamburger Post-Rock Band Vandemonian veröffentlichte vor Kurzem ihr großartiges Debüt-Album "Xenophilia". Ich habe Nick interviewt.
 language: de
 type: Artikel
 labels:
@@ -33,6 +30,7 @@ labels:
   - Post-Rock
   - Vandemonian
 ---
+
 **Die Hamburger Post-Rock Band Vandemonian veröffentlichte vor Kurzem ihr großartiges Debüt-Album "Xenophilia". Ich habe mich jetzt mit Frontman Nick zum Interview verabredet.**
 
 Im Gegensatz zu vielen anderen Post-Rock Bands verzichten Vandemonian nicht auf Gesang. Das liegt vor allem daran, dass sie eine ganz klare politische Meinung haben, die sie offen vertreten möchten. Und wie könnte das besser gelingen, als in Form von Lyrics? Darüber und über die momentane weltweite Situation habe ich mich mit Nick unterhalten.

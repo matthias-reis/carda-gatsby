@@ -141,6 +141,3 @@ Für einen Singlehaushalt kostet der saubere Strom pro Monat je nach Anbieter un
 
 Natürlich gibt es je nach Region auch noch weitere Anbieter, am besten einfach mal recherchieren oder bei [atomausstiegselbermachen](http://www.atomausstieg-selber-machen.de)  oder [Greenpeace](http://www.greenpeace.de/)  beraten lassen! Auch der Strommix ist bei jedem Anbieter unterschiedlich.
 
-Recht herzlichen Dank für die Aufmerksamkeit! Auf eine sonnige Zukunft!
-
-&nbsp;

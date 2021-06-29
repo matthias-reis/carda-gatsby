@@ -46,6 +46,6 @@ Seit dem ich es aus seinem Versandkarton befreit habe, läuft es bei mir hoch un
 
 ♥♥♥♥♥☆
 
-## Hier sind für Euch [Biffy Clyro](http://www.biffyclyro.com) mit Black Chandelier:
+## Biffy Clyro – "Black Chandelier"
 
 <YouTube id="myc_RViTHhY" />

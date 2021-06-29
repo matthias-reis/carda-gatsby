@@ -1,7 +1,6 @@
 ---
 ogTitle: Johan G. Winther im Interview – "Ich nehme meine Musik im Wald auf"
-excerpt: Johan G. Winther veröffentlicht am 26. März sein Album "The Rupturing
-  Sowle" auf Vinyl. Ich habe mich mit ihm zum Interview verabredet.
+excerpt: Johan G. Winther veröffentlicht am 26. März sein Album "The Rupturing Sowle" auf Vinyl. Ich habe mich mit ihm zum Interview verabredet.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter-fb.png__l.jpg
 isAffiliate: false
 path: /2021/03/johan-g-winther-interview/
@@ -20,8 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03
 title: Johan G. Winther
 subTitle: '"Ich nehme meine Musik im Wald auf"'
 seoTitle: Johan G. Winther im Interview – "Ich nehme meine Musik im Wald auf"
-description: Johan G. Winther veröffentlicht am 26. März sein Album "The
-  Rupturing Sowle" auf Vinyl. Ich habe mich mit ihm zum Interview verabredet.
+description: Johan G. Winther veröffentlicht am 26. März sein Album "The Rupturing Sowle" auf Vinyl. Ich habe mich mit ihm zum Interview verabredet.
 language: de
 type: Artikel
 labels:
@@ -43,6 +41,7 @@ labels:
   - Scraps of Tape
   - Zeon Light Kassett
 ---
+
 **Am 26. März erscheint Johan G. Winthers Album "The Rupturing Sowle" auf Vinyl. Ich habe mich schon jetzt mit ihm zum Interview verabredet, um mit ihm über die Platte zu plaudern.**
 
 Gemeinsam mit seiner Band Scraps of Tape hat der Göteborger bereits sieben großartige Alben aufgenommen. Viele erinnern sich bestimmt auch noch an die Hardcore Gruppe Blessings. Mit dieser spielte er drei Langspieler ein. Im Debüt-Album von Barrens widmete er sich letzten März dem Post-Rock und landete damit in zahlreichen Best-of-Listen. Auch mit seinem Soloalbum überzeugt er mit gefühlvollen und vielfältigen Songs. Der Entstehungsprozess war ein ganz persönlicher.

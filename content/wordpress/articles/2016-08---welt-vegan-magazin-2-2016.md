@@ -58,7 +58,7 @@ Meinen Artikel "Dem Tierleid ein Ende - Animal Rights Watch e. V." findet Ihr au
 
 ## Die neue Ausgabe kommt bald!
 
-Das Gute an meinem VIEL ZU SPÄTEN BLOGARTIKEL: Wenn Ihr Euch das Welt Vegan Magazin 2/2016 heute erst holt, müsst Ihr nicht mehr so lange auf die neue Ausgabe warten! Die erscheint nämlich schon ganz bald! Ich gebe Euch dann auch früher Bescheid, versprochen! :-)
+Das Gute an meinem VIEL ZU SPÄTEN BLOGARTIKEL: Wenn Ihr Euch das Welt Vegan Magazin 2/2016 heute erst holt, müsst Ihr nicht mehr so lange auf die neue Ausgabe warten! Die erscheint nämlich schon ganz bald! Ich gebe Euch dann auch früher Bescheid, versprochen!
 
 <RemoteImage
   alt={`Welt Vegan Magazin 2/2016`}

@@ -55,7 +55,7 @@ Da die kleinen Gläschen nur mit Nummern beschriftet sind, konnte ich mich beim 
 
 ### Apfel - Sorte 410
 
-Die erste Sorte, die ich probierte, haute mich direkt um. Im positiven Sinne. Als echten Apfelfan hatte mich Danny sofort. Der Apfel- _Vonig_ schmeckt einfach nur toll. Kein Bisschen künstlich oder übertrieben, einfach nur schön nach Apfel. Er ist nicht zu süß und schön goldgelb. Von mir gibt es **9/10 Geschmackspunkten** .
+Die erste Sorte, die ich probierte, haute mich direkt um. Im positiven Sinne. Als echten Apfelfan hatte mich Danny sofort. Der Apfel- _Vonig_ schmeckt einfach nur toll. Kein bisschen künstlich oder übertrieben, einfach nur schön nach Apfel. Er ist nicht zu süß und schön goldgelb. Von mir gibt es **9/10 Geschmackspunkten** .
 
 ### Chili - Sorte 414
 
@@ -101,7 +101,7 @@ Purer Honiggenuss - Mild und samtig. Mehr gibt es nicht zu sagen. Für mich der 
 
 ### Vanille - Sorte 251
 
-Schmeckt vanillig fein, jedoch kein Bisschen zu süß oder gar muffig. Ich kann mir diese Sorte besonders gut mit etwas [Sojamilch](/2014/12/diy-sojamilch/)  auf Eis vorstellen. Quasi als "White Honey Vanilla™".  **9/10 Geschmackspunkten**
+Schmeckt vanillig fein, jedoch kein bisschen zu süß oder gar muffig. Ich kann mir diese Sorte besonders gut mit etwas [Sojamilch](/2014/12/diy-sojamilch/)  auf Eis vorstellen. Quasi als "White Honey Vanilla™".  **9/10 Geschmackspunkten**
 
 ## Vegablum stellt sich vor
 

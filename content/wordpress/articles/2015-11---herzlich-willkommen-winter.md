@@ -32,7 +32,7 @@ subTitle: Instagram-Galerie
 
 **Bei einem kleinen Spaziergang im Schneegestöber haben wir gestern die kalte Jahreszeit in Hamburg begrüßt. Natürlich sind dabei auch wieder ein paar Instagram-Bilder entstanden.**
 
-Zum krönenden Abschluss gab es hinterher natürlich Zimtkaffee und Lebkuchen. Das Beste bei dem Wetter sind nämlich die heißen Getränke, die schmecken dann noch viel besser! &lt;3
+Zum krönenden Abschluss gab es hinterher natürlich Zimtkaffee und Lebkuchen. Das Beste bei dem Wetter sind nämlich die heißen Getränke, die schmecken dann noch viel besser!
 
 ## Der Winter in Bildern
 

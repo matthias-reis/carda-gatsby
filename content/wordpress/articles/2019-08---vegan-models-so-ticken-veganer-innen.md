@@ -152,6 +152,8 @@ Ich glaube, man bekommt die Menschen eher mit Geschichten dazu, über ihre Gewoh
 
 **Tobi:** Ich danke dir und hoffe wir bleiben in Kontakt.
 
-Hier ist für Euch Tobis Song "The Wind Cries Mary" von Jimi Hendrix. Ihr könnt den sympathischen Fotografen jederzeit [auf seiner Homepage besuchen](https://tobiashess-photography.com/).
+Ihr könnt Tobias jederzeit [auf seiner Homepage besuchen](https://tobiashess-photography.com/).
+
+## Jimi Hendrix – "The Wind Cries Mary"
 
 <YouTube id="ATDEtzAcTg0" />

@@ -1,44 +1,41 @@
 ---
 date: 2018-11-01T11:00:43.000+00:00
 slug: ein-anderer-kapitalismus-ist-machbar-von-muhammad-yunus
-path: "/2018/11/ein-anderer-kapitalismus-ist-machbar-von-muhammad-yunus/"
+path: '/2018/11/ein-anderer-kapitalismus-ist-machbar-von-muhammad-yunus/'
 type: Artikel
 typeName: Buchtipp
 title: '"Ein anderer Kapitalismus ist machbar"'
 seoTitle: '"Ein anderer Kapitalismus ist machbar" von Muhammad Yunus'
 ogTitle: '"Ein anderer Kapitalismus ist machbar" von Muhammad Yunus'
-description: Friedensnobelpreisträger Muhammad Yunus findet es im Angesicht der Krise
-  wichtiger den je, das Konzept des Kapitalismus zu überdenken. Sein neues Buch.
-excerpt: Friedensnobelpreisträger Muhammad Yunus findet es im Angesicht der Krise
-  wichtiger den je, das Konzept des Kapitalismus zu überdenken. Ich habe sein neues
-  Buch gelesen.
+description: Friedensnobelpreisträger Muhammad Yunus findet es im Angesicht der Krise wichtiger den je, das Konzept des Kapitalismus zu überdenken. Sein neues Buch.
+excerpt: Friedensnobelpreisträger Muhammad Yunus findet es im Angesicht der Krise wichtiger den je, das Konzept des Kapitalismus zu überdenken. Ich habe sein neues Buch gelesen.
 fileName: 2018-11---ein-anderer-kapitalismus-ist-machbar.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_kapitalismus__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_kapitalismus__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYI/8QAJhAAAgEDBAEEAwEAAAAAAAAAAQIDAAQRBRIhMQZBUWFxEyKR4f/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABkRAQEBAQEBAAAAAAAAAAAAAAEAAhEhQf/aAAwDAQACEQMRAD8A6aYMz/Rqjf3BhJAhd8LyeeeM8e/FXg/BOOqX6q9wtvE0UskY2fttU45Hqf8AKkiz+t6rNb235EjZGV4h1kEGRVIPzhquyzmOQFj60t155m8fuGnklcq0TDeuBkSp0T3/ACp523Bkbl1PVOvkFqJGIBHxSHyO80qXTRFqVq16IiJFt1gkky4HGcD774ooqHTkeWcmvGQ6tPYyeMyWejwyRIQNkBt5EZTvDHhh908ktjJKHHWfeiisPQ85Uqqr1v/Z
-ogImage: 
+ogImage:
 labels:
-- Antifaschismus & Feminismus
-- Bangladesh
-- Bücher & Filme
-- Cittadong University
-- Förderung
-- Friedensnobelpreis
-- Grameen-Bank
-- Kapitalismus
-- Klima- & Umweltschutz
-- Krise
-- Menschheit
-- Mikrokredit
-- Muhammad Yunus
-- Nachhaltigkeit
-- Perspektive
-- Social Business
-- Sozialismus
-- Umwelt
-- Volkswirtschaft
-- VWL
-- Yunus
+  - Antifaschismus & Feminismus
+  - Bangladesh
+  - Bücher & Filme
+  - Cittadong University
+  - Förderung
+  - Friedensnobelpreis
+  - Grameen-Bank
+  - Kapitalismus
+  - Klima- & Umweltschutz
+  - Krise
+  - Menschheit
+  - Mikrokredit
+  - Muhammad Yunus
+  - Nachhaltigkeit
+  - Perspektive
+  - Social Business
+  - Sozialismus
+  - Umwelt
+  - Volkswirtschaft
+  - VWL
+  - Yunus
 focusKeyword: Kapitalismus
 status: publish
 isWerbung: false
@@ -48,8 +45,8 @@ errors: {}
 subTitle: Buch von Muhammad Yunus
 advertisement: false
 affiliate: true
-
 ---
+
 **Am 22.10. erschien das neue Werk von Muhammad Yunus. In "Ein neuer Kapitalismus ist möglich" zeigt der Nobelpreisträger positive Perspektiven auf und zeichnet motivierende Vorschläge für eine sozialere und nachhaltiger lebende Gesellschaft.**
 
 Der Untertitel "Wie Social Business Armut beseitig, Arbeitslosigkeit abschafft und Nachhaltigkeit fördert" umreißt das Thema ziemlich genau. Der Autor stellt fest, dass der Kapitalismus in seiner jetzigen Ausprägung zwangsläufig zu immer mehr Ungleichheit sozialer und ökologischer Art führt. Er beschäftigt sich mit den Fragen "Wie kann eine Wirtschaftsordnung jenseits des Kapitalismus aussehen?" und "Welche Schritte müssen gegangen werden, damit diese neue Ordnung Wirklichkeit werden kann?".

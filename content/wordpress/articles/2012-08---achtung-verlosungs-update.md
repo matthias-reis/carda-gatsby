@@ -74,7 +74,7 @@ Nun gibt es etwas Tolles zu Berichten: Gunter vom [Herzberg-Festival-Veranstaltu
 
 Ich freue mich natürlich sehr, wenn Ihr das auch weitersagt, Ihr dürft meinen Artikel gerne rebloggen oder auf Facebook oder Twitter teilen.
 
-**♥lichen Dank für die Aufmerksamkeit und viel Glück! Hier nochmal die Regeln des Gewinnspiels:**
+## Gewinnspiel-Regeln
 
 - Sendet **bis zum 30. September 2012** eine E-Mail mit dem Foto Eures Lieblings-T-Shirts unter dem **Betreff 'T-Shirt-Idee'** an __info@cardamonchai.com__ . Natürlich sind auch Sweater oder Blusen erlaubt.
 - Die Gewinner werden von einer neutralen Person gezogen und per E-Mail über ihren Gewinn benachrichtigt.

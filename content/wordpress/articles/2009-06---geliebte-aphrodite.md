@@ -73,4 +73,3 @@ Was meint Ihr zu dem Thema? Ist sie nicht eigentlich recht hübsch anzuschauen? 
 
 [http://de.wikipedia.org/wiki/Aphrodite](http://de.wikipedia.org/wiki/Aphrodite)
 
-&nbsp;

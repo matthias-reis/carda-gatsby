@@ -45,7 +45,7 @@ Meine Überschrift sollte eigentlich anders lauten, nur hat sich "googeln" für 
 
 ## Ecosia - Eine umweltfreundliche Suchmaschine
 
-Mit jeder Suche über _Ecosia_ werden zwei Quadratmeter Regenwald geschützt. Wie das funktioniert? Genutzt wurde dafür zunächst die Technik von Yahoo, heute die von Bing. Genau wie bei diesen beiden Suchmaschinen, werden auch bei Ecosia gesponserte Links eingeblendet. Yahoo, Bing und natürlich besonders Google verdienen sich damit eine goldene Nase. Bei Ecosia läuft das ein Bisschen anders.
+Mit jeder Suche über _Ecosia_ werden zwei Quadratmeter Regenwald geschützt. Wie das funktioniert? Genutzt wurde dafür zunächst die Technik von Yahoo, heute die von Bing. Genau wie bei diesen beiden Suchmaschinen, werden auch bei Ecosia gesponserte Links eingeblendet. Yahoo, Bing und natürlich besonders Google verdienen sich damit eine goldene Nase. Bei Ecosia läuft das ein bisschen anders.
 
 Versprochen wird, dass mindestens 80 Prozent aller Überschusseinnahmen, die _Ecosia_ mit den gesponserten Links macht, einem Regenwald-Schutzprojekt zugute kommen.
 

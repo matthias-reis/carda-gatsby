@@ -126,7 +126,7 @@ Das klingt doch schon mal ganz gut, oder? Und es kam noch besser. Ich bekam noch
 
 Hallo Frau O,
 
-das sind hervorragende Neuigkeiten für mich! Herzlichen Dank! Geben Sie das ruhig mal weiter, ob das evtl. in ihre FAQ aufgenommen wird, ich denke, dass das sicher einige zum Kauf bringen würde. :-)
+das sind hervorragende Neuigkeiten für mich! Herzlichen Dank! Geben Sie das ruhig mal weiter, ob das evtl. in ihre FAQ aufgenommen wird, ich denke, dass das sicher einige zum Kauf bringen würde.
 
 Da ich unter starken Rosacea-Schüben leide, sind die Produkte interessant für mich. Leider kann ich immer nicht im Voraus sagen, ob ich etwas vertrage. Wäre es denn möglich, sie mal zu testen? Ich berichte zum Beispiel auch gerne in meinem Blog darüber. Hier zwei Beispiele für Sie:
 
@@ -207,7 +207,7 @@ Zwei Tage später finde ich einen Umschlag mit dem Gladskin Logo im Briefkast
 
 Ich befreie gegen 15 Uhr nachmittags mein Gesicht mit lauwarmem Wasser von den eventuellen Rückständen meines aktuellen Pflegeprodukts und trage das Gel zum ersten Mal auf. Erster Eindruck: Es ist angenehm kühl auf der Haut. Es brennt nicht, wie die vom Hautarzt verschriebene  Metrocreme, was ich als sehr angenehm empfinde. Auch schwitze ich nicht darunter, ein Problem, welches ich leider sehr häufig bei Cremes habe. Daher landen die bei mir leider oft ziemlich schnell im Müll. Nach kurzer Einwirkzeit habe ich das Gefühl, dass es die Haut relativ trocken macht, aber da sollte die Creme Abhilfe schaffen.
 
-Wie von Frau O. empfohlen, trage ich sie zehn Minuten später auf die trockenen Hautstellen auf. Sie scheint eine leichte Textur zu haben und ist ein Bisschen ölig. Mal sehen, was meine Haut dazu sagt.
+Wie von Frau O. empfohlen, trage ich sie zehn Minuten später auf die trockenen Hautstellen auf. Sie scheint eine leichte Textur zu haben und ist ein bisschen ölig. Mal sehen, was meine Haut dazu sagt.
 
 Vor dem Zubettgehen trage ich beide Produkte erneut auf und nehme mir vor, das in den nächsten zehn Tagen zu meiner Routine werden zu lassen: Morgens, mittags und abends.
 
@@ -222,7 +222,7 @@ Vor dem Zubettgehen trage ich beide Produkte erneut auf und nehme mir vor, das i
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAGCAX/xAAoEAABAwMDAgYDAAAAAAAAAAABAgMRAAQFBhIxIWEHExQiUaFBUrH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBgABAgP/xAAgEQACAgICAgMAAAAAAAAAAAABAgADEfAhMRITQWGB/9oADAMBAAIRAxEAPwAnxWM3oC1kQDHX+TSb4Y6Rtc3qQt3loLi1Yt1OvpXEFR9qE/YPz0o/xCmyEJG0gCTuiZ+O9dLeGCHLPR2FTbt27YeSXnwokK9y+hAHJgDntS6xLPzGywrVTlRyd38g1rjDYtjUN1aYa3DFpaKLalrWV+Y4AN8TMAcDuDRrlbFITKkFSDJgj7pB1Y40M3llNFsH1j6QkRCYdVEisfmnkqDpSUKbgAKSOnQRz3qUs3nOtta+oE94+9+Z5OPvXWiANp2A8jmRNdP6VvSnF4pvYIQwykcfqntVVRFygHiAsc1rmBOp8i8nKXnUkqu7hfU8HzVVjMhercJSUgAgDn8RNVVbpRe5bOzIM73P/9k="
 />
 
-Am Morgen spannt meine Haut etwas. In der Nacht habe ich kein unangenehmes Brennen gespürt, wie sonst bei einem Schub mit anderen Pflegeprodukten. Die besonders trockenen Stellen rund um die Nase haben sich etwas verbessert. Die Knötchen und die roten Stellen sind nach wie vor da. Insgesamt würde ich sagen, dass es schon ein kleines Bisschen besser geworden ist. An Make-up ist jedoch nach wie vor nicht zu denken
+Am Morgen spannt meine Haut etwas. In der Nacht habe ich kein unangenehmes Brennen gespürt, wie sonst bei einem Schub mit anderen Pflegeprodukten. Die besonders trockenen Stellen rund um die Nase haben sich etwas verbessert. Die Knötchen und die roten Stellen sind nach wie vor da. Insgesamt würde ich sagen, dass es schon ein kleines bisschen besser geworden ist. An Make-up ist jedoch nach wie vor nicht zu denken
 
 Mittags fühlt sich die Haut schon entspannter an. Die Rötungen haben etwas nachgelassen, dafür wirken die Poren an den betroffenen Stellen nun etwas erweitert. Es sieht so aus, als würde sich etwas tun.
 
@@ -270,7 +270,7 @@ Mein Fazit lautet: Gladskin hat mir auf jeden Fall geholfen. Ob es auch auf Daue
 
 Bei mir haben die Symptome schon nach kurzer Zeit nachgelassen und mein Hautbild hat sich verbessert. Für mich ein Zeichen dafür, dass bei mir das Staphylocuccus-aureus-Bakterium an der Rosacea beteiligt ist, denn dieses wird durch die Inhaltsstoffe bekämpft. Leidet man unter einer Rosacea, die andere Ursachen hat, kann es sein, dass das Produkt nicht wirkt. Das kann man durch einen Hauttest durch den Dermatologen vorab kontrollieren lassen.
 
-Grundsätzlich werde ich in Zukunft wohl eher nur das Gel oder die Creme mit dem von Gladskin patentierten Wirkstoff verwenden. Die Creme war für meinen Geschmack auf Dauer ein Bisschen zu schwer und führt auch dazu, dass ich darunter schwitze. Außerdem habe ich den Inhaltsangaben entnommen, dass darin Alkohol enthalten ist, den ich in Pflegeprodukten grundsätzlich versuche zu vermeiden. Doch das sollte jeder für sich selbst entscheiden. Für mich ist der Test auf jeden Fall positiv ausgegangen und ich freue mich sehr, denn gerade jetzt im Sommer kann es schon sehr störend sein, wenn die Haut nicht mitmacht.
+Grundsätzlich werde ich in Zukunft wohl eher nur das Gel oder die Creme mit dem von Gladskin patentierten Wirkstoff verwenden. Die Creme war für meinen Geschmack auf Dauer ein bisschen zu schwer und führt auch dazu, dass ich darunter schwitze. Außerdem habe ich den Inhaltsangaben entnommen, dass darin Alkohol enthalten ist, den ich in Pflegeprodukten grundsätzlich versuche zu vermeiden. Doch das sollte jeder für sich selbst entscheiden. Für mich ist der Test auf jeden Fall positiv ausgegangen und ich freue mich sehr, denn gerade jetzt im Sommer kann es schon sehr störend sein, wenn die Haut nicht mitmacht.
 
 ## Die Inhaltsstoffe
 

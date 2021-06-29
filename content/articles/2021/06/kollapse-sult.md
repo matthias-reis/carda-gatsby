@@ -5,12 +5,8 @@ typeName: Review
 title: Kollapse – "Sult"
 subTitle: Sludge/Post-Metal Sound aus Dänemark
 seoTitle: Kollapse – "Sult" – Sludge/Post-Metal Sound aus Dänemark
-description: Am Freitag veröffentlichen Kollapse ihr zweites Album Platte
-  "Sult". Ich habe schon mal reingehört und meine Eindrücke aufgeschrieben.
-excerpt: Kollapse sind wieder da. Vier Jahre haben sie sich nach ihrem
-  Debüt-Album "Angst" Zeit gelassen – am Freitag veröffentlicht die
-  Sludge/Post-Metal Gruppe aus dem dänischen Aalborg ihre zweite Platte. Sie
-  trägt den Namen "Sult" und ist mehr als nur hörbar.
+description: Am Freitag veröffentlichen Kollapse ihr zweites Album Platte "Sult". Ich habe schon mal reingehört und meine Eindrücke aufgeschrieben.
+excerpt: Kollapse sind wieder da. Vier Jahre haben sie sich nach ihrem Debüt-Album "Angst" Zeit gelassen – am Freitag veröffentlicht die Sludge/Post-Metal Gruppe aus dem dänischen Aalborg ihre zweite Platte. Sie trägt den Namen "Sult" und ist mehr als nur hörbar.
 image: /img/kollapse.jpg
 copyrigt: Kollapse
 ogImage: /img/kollapse-fb.jpg
@@ -32,13 +28,14 @@ affiliate: false
 language: de
 languageLink: /2021/06/kollapse-sult-en
 ---
+
 **Kollapse sind wieder da. Vier Jahre haben sie sich nach ihrem Debüt-Album "Angst" Zeit gelassen – am Freitag veröffentlicht die Sludge/Post-Metal Gruppe aus dem dänischen Aalborg ihre zweite Platte. Sie trägt den Namen "Sult" und ist mehr als nur hörbar.**
 
 Weil ich die Ehre hatte, mir das Album schon mal anzuhören, fasse ich hier mal ein bisschen zusammen, was sie auf mich für einen Eindruck gemacht hat. Ich verrate schon mal soviel: Es könnte sein, dass sich dieser Artikel zu einem Musiktipp entwickelt.
 
 ## Kollapse haben es spannend gemacht
 
-![Kollapse – "Sult"](/img/kollapse.jpeg "Kollapse – \"Sult\"")
+![Kollapse – "Sult"](/img/kollapse.jpeg 'Kollapse – "Sult"')
 
 Erscheinen wird "Sult" in Zusammenarbeit mit Maniyax Records, Dingleberry Records und Virkelighedsfjern auf Fysisk Format.
 
@@ -64,7 +61,7 @@ Der zweite Song "Knæler" wirkt fast noch kraftvoller als sein Vorgänger und au
 
 ## Ein aggressiver Tanz
 
-![Kollapse](/img/kollapse-2-.jpg "Kollapse")
+![Kollapse](/img/kollapse-2-.jpg 'Kollapse')
 
 "Libido" zieht die Hörer⋆innen in einen wirbelnden Sog – das Schlagzeug ist wunderbar präzise, schöne Tempowechseln machen den Song zu einem aggressiven Tanz.
 

@@ -1,41 +1,39 @@
 ---
 date: 2019-08-06T11:40:02.000+00:00
 slug: vegane-wolle-vegarn-interview
-path: "/2019/08/vegane-wolle-vegarn-interview/"
+path: '/2019/08/vegane-wolle-vegarn-interview/'
 type: Artikel
 typeName: Interview
 title: Vegane Wolle
 seoTitle: Vegane Wolle - Interview mit Vegarn - "Keine Angst vor dem Auftrennen"
 ogTitle: Vegane Wolle - Interview mit Vegarn - "Keine Angst vor dem Auftrennen"
-description: 'Vegan lebende Handarbeitsfans bekommen bei Vegarn, was sie sich wünschen:
-  Fair gehandelte, schonend hergestellte vegane Wolle.'
-excerpt: 'Vegan lebende Handarbeitsfans bekommen bei Vegarn, was sie sich wünschen:
-  Fair gehandelte, schonend hergestellte vegane Wolle.'
+description: 'Vegan lebende Handarbeitsfans bekommen bei Vegarn, was sie sich wünschen: Fair gehandelte, schonend hergestellte vegane Wolle.'
+excerpt: 'Vegan lebende Handarbeitsfans bekommen bei Vegarn, was sie sich wünschen: Fair gehandelte, schonend hergestellte vegane Wolle.'
 fileName: 2019-08---vegane-wolle.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_vegarn__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_vegarn__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECB//EACcQAAEDAwMCBwEAAAAAAAAAAAECAxEABAUGEiEHMRMUQVFhcaEi/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEhETMUH/2gAMAwEAAhEDEQA/AOi9XNZZjTwxWK0rZNXWcypcLS3xLbLaI3KjsVc9jxTDpbqTMZtGRxmrbJmy1BjyhxaWRDbzK52OJ5Pqkgxx9dq11/py0yzlnkdtw7kbJCmrcIXtQ0HFAFZ+ZCfyrNpTE2Ns+/fsAeacR5Z1QMg7VlcA/BWagnLZXw0OENNvclwoqG+7csOqIbDrRgJgwQSYis77pTzW5gJbn+iHJjj696uZxT4Kbm2WEpEwop59eYqVirfwbNlJAGxASBHb3/aKKeF0Nnwb0UUUBH//2Q==
-ogImage: 
+ogImage:
 labels:
-- Baumwolle
-- Fair Fashion & Beauty
-- GOTS
-- Hamburg vegan
-- Hanf
-- Interviews
-- Merinowolle Alternative
-- Nessel
-- Oeko-Tex
-- Ramie
-- Sojaseide
-- Stricken
-- Tencel
-- Tencelgarn
-- vegan stricken
-- vegane Handarbeit
-- vegane Wolle
-- Vegarn
-- Wolle aus Sojaprotein
+  - Baumwolle
+  - Fair Fashion & Beauty
+  - GOTS
+  - Hamburg vegan
+  - Hanf
+  - Interviews
+  - Merinowolle Alternative
+  - Nessel
+  - Oeko-Tex
+  - Ramie
+  - Sojaseide
+  - Stricken
+  - Tencel
+  - Tencelgarn
+  - vegan stricken
+  - vegane Handarbeit
+  - vegane Wolle
+  - Vegarn
+  - Wolle aus Sojaprotein
 focusKeyword: vegane Wolle
 status: publish
 isWerbung: false
@@ -44,8 +42,8 @@ language: de
 errors: {}
 subTitle: Interview mit Marlin von Vegarn
 advertisement: true
-
 ---
+
 **Hinweis:** Dieses Interview habe ich bereits am 26. April 2016 veröffentlicht. Ich finde das Projekt, um das es darin geht, nach wie vor sehr interessant. Aus diesem Grund habe ich beschlossen, es nochmal in den Fokus zu rücken und teile es heute erneut mit Euch.
 
 ---
@@ -54,7 +52,7 @@ advertisement: true
 
 Heute ist sie sehr stolz auf ihr Geschäft, in dem sie nur Garne aus rein pflanzlichen Materialien verkauft. Bei allen Produkten achtet sie besonders darauf, dass für die Herstellung keine Tierversuche durchgeführt werden und alles an menschenwürdigen Arbeitsplätzen hergestellt wird.
 
-Großen Wert legt sie außerdem auf CO2- neutralen Versand sowie eine weitgehend papierlose Kommunikation, um Ressourcen zu sparen und die Umwelt zu schonen. Ich habe mich mal ein Bisschen mit der kreativen Umweltschützerin ausgetauscht und sie hat meine Fragen beantwortet.
+Großen Wert legt sie außerdem auf CO2- neutralen Versand sowie eine weitgehend papierlose Kommunikation, um Ressourcen zu sparen und die Umwelt zu schonen. Ich habe mich mal ein bisschen mit der kreativen Umweltschützerin ausgetauscht und sie hat meine Fragen beantwortet.
 
 **Anne:** Hallo Marlin! Danke, dass Du Dir die Zeit nimmst, ein paar Fragen zu beantworten! Ich bastle ja selbst gerne mal so dies und das und bin schon ganz gespannt auf Deine Antworten! Sind stricken und häkeln besondere Hobbys von Dir?
 

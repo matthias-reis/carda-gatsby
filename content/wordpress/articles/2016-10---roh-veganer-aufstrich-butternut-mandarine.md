@@ -51,7 +51,7 @@ Gebt die Kerne vom Butternut so wie sie sind in den Mixer. Ihr müsst sie nicht 
 
 Im Weckglas oder in einer Frischhaltedose im Kühlschrank ist der Aufstrich mindestens eine Woche haltbar. Sollte der Aufstrich beim Pürieren etwas zu flüssig werden, könnt Ihr eine Messerspitze Guarkernmehl mit in den Mixer geben.
 
-Viel Spaß beim Nachmachen und guten Appetit! Entschuldigt die Qualität meiner Bilder, die stammen aus meinem Instagram-Account. Ich hatte Hunger und keine Zeit, die große Kameraausrüstung aufzufahren. Bitte bedenkt, dass unser Mixer einen 2 PS Motor besitzt und Aufstriche daher immer schön cremig werden. Sollte Eurer nicht so stark sein, müsst Ihr gegebenenfalls mit dem Stabmixer nachhelfen. :-) Den Kürbis könnt Ihr zum Beispiel toll mit Couscous Granatapfel Salat essen. Das sieht dann so aus:
+Viel Spaß beim Nachmachen und guten Appetit! Entschuldigt die Qualität meiner Bilder, die stammen aus meinem Instagram-Account. Ich hatte Hunger und keine Zeit, die große Kameraausrüstung aufzufahren. Bitte bedenkt, dass unser Mixer einen 2 PS Motor besitzt und Aufstriche daher immer schön cremig werden. Sollte Eurer nicht so stark sein, müsst Ihr gegebenenfalls mit dem Stabmixer nachhelfen. Den Kürbis könnt Ihr zum Beispiel toll mit Couscous Granatapfel Salat essen. Das sieht dann so aus:
 
 <RemoteImage
   alt={`Butternut`}

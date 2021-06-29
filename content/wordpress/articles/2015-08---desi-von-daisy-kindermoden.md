@@ -171,7 +171,7 @@ Desi war für mich schon immer eine fröhliche Persönlichkeit, bunt, verspielt,
 
 **Desi:** Vielen Dank für Dein Interesse an meinem dritten Baby!
 
-_Wer gerne mehr über Desis Kindermoden erfahren möchte, kann sich jederzeit auf ihrer [Facebook-Seite](https://www.facebook.com/pages/Daisy/844072645684642?fref=ts)  informieren, sie freut sich auf Euch! :-)_
+_Wer gerne mehr über Desis Kindermoden erfahren möchte, kann sich jederzeit auf ihrer [Facebook-Seite](https://www.facebook.com/pages/Daisy/844072645684642?fref=ts)  informieren, sie freut sich auf Euch!_
 
 <Gallery
   images={[

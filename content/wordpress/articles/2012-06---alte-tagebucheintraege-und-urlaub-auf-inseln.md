@@ -106,7 +106,7 @@ Morgen geht es nach England, eine Station wird unter anderen auch Tintagel sein.
 
 ## Packen und Musik hören
 
-Ich werde jetzt noch ein Bisschen packen und aufräumen und dabei Musik hören. Hier eine Neuveröffentlichung, mit der ich heute Morgen aufgestanden bin. CALEXICO veröffentlichen im September ihr neues Album "Algiers", die erste Auskopplung: "Para". Für alle, die es wie ich nicht mehr erwarten können: Das Album kann bereits vorbestellt werden.
+Ich werde jetzt noch ein bisschen packen und aufräumen und dabei Musik hören. Hier eine Neuveröffentlichung, mit der ich heute Morgen aufgestanden bin. CALEXICO veröffentlichen im September ihr neues Album "Algiers", die erste Auskopplung: "Para". Für alle, die es wie ich nicht mehr erwarten können: Das Album kann bereits vorbestellt werden.
 
 <YouTube id="qM_Euc5saPI" />
 

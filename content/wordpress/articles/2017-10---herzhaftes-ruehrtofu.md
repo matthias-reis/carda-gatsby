@@ -62,10 +62,6 @@ Die Petersilie fein hacken und 3/4 davon mit etwas Rapsöl anbraten. Das Seident
 
 Das Rührtofu zusammen mit der restlichen Petersilie auf 2 Teller drapieren. Schmeckt gut mit selbst gebackenem Vollkornbrot und Meerrettich-Aufstrich.
 
-Guten Appetit!
-
-Kussi Anne &lt;3
-
 <Gallery
   images={[
     {

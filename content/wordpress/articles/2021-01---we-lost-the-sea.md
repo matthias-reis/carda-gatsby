@@ -1,7 +1,6 @@
 ---
 ogTitle: We Lost The Sea – "Post-Rock löst Grenzen auf" – Interview mit Mark
-excerpt: We Lost The Sea ist eine der großartigsten Post-Rock Bands. Ihre Musik
-  ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist Mark interviewt.
+excerpt: We Lost The Sea ist eine der großartigsten Post-Rock Bands. Ihre Musik ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist Mark interviewt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_we-lost-the-sea-fb.png__l.jpg
 isAffiliate: false
 path: /2021/01/we-lost-the-sea-interview/
@@ -20,9 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01
 title: We Lost The Sea
 subTitle: '"Post-Rock löst Grenzen auf"'
 seoTitle: We Lost The Sea – "Post-Rock löst Grenzen auf" – Interview mit Mark
-description: We Lost The Sea ist eine der großartigsten Post-Rock Bands. Ihre
-  Musik ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist Mark
-  interviewt.
+description: We Lost The Sea ist eine der großartigsten Post-Rock Bands. Ihre Musik ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist Mark interviewt.
 language: de
 type: Artikel
 labels:
@@ -36,6 +33,7 @@ labels:
   - Sydney
   - WE LOST THE SEA
 ---
+
 **Zum Start in 2021 habe ich eine ganz besondere Sensation vorbereitet. Vor Kurzem habe ich über Social Media Mark Owen von We Lost The Sea kennengelernt. Er fragte mich nach einem Interview und voilá: hier ist es!**
 
 Könnt Ihr Euch vorstellen, einen Eurer absoluten Lieblings-Musiker zu interviewen? Alles was Euch jetzt durch den Kopf schießt: Genau so ist es mir gegangen. Vor lauter Freude, war ich kaum dazu in der Lage meine Fragen möglichst knapp zu halten. Wie Ihr Euch denken könnt, ist dieser Artikel daher durchaus etwas länger geworden. Lesen lohnt sich natürlich ganz besonders. Mark hat nicht nur völlig offen über die Bandgeschichte und die Pläne von We Lost The Sea gesprochen. Er hatte auch noch Musiktipps für mich, die ich heute mit Euch teile.
@@ -198,4 +196,3 @@ Das Gefühl ist das Wichtigste. Wenn sich ein Song nicht gut anfühlt, wird er a
 ## We Lost The Sea beim Dunk!festival 2017
 
 <YouTube id="QyHhEJG9oZE" />
-

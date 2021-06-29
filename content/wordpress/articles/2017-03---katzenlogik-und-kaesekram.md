@@ -107,7 +107,3 @@ Und die Moral von der Geschichte? Wir sollten nie vergessen, wie gut es uns geht
 />
 
 Die Fotos habe ich alle in Hamburg gemacht. Das Schild "That's All Folks" stammt aus der [Ausstellung "Brave New World" der  _Affenfaust Gallerie_](/2015/12/brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg/).
-
-&nbsp;
-
-&nbsp;

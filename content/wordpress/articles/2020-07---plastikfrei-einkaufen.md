@@ -1,7 +1,6 @@
 ---
 ogTitle: Plastikfrei einkaufen - 5 praktische Tipps für den Alltag
-excerpt: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf
-  Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
+excerpt: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_plastikfrei-einkaufen-fb.png__l.jpg
 isAffiliate: false
 path: /2020/07/plastikfrei-einkaufen/
@@ -30,9 +29,9 @@ labels:
   - Zero Waste
 language: de
 type: Artikel
-description: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen
-  fünf Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
+description: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
 ---
+
 **Das Brot kommt in eine Tüte mit Sichtfenster aus Plastik, die Tomaten in einen Plastikbeutel und der Sojajoghurt ist in einem Plastikbecher - einkaufen kann eine ganz schöne Umweltsünde sein. So geht Plastik-frei einkaufen.**
 
 Wenn ich überlege, wie viel Plastik ich früher nach Hause geschleppt und beim Auspacken sofort in die Tonne befördert habe, wird mir angst und bange. Heute achte ich beim Einkaufen sehr darauf, möglichst wenig unnötige Verpackung mitzunehmen.

@@ -133,12 +133,9 @@ Füllt die Asche vorsichtig in das Glas, bindet die Schleife darum und stellt si
   ]}
 />
 
-Ich wünsche Euch viel Spaß beim Nachbasteln! Genießt Euren nächsten Hochzeitstag! &lt;3
+Ich wünsche Euch viel Spaß beim Nachbasteln! Genießt Euren nächsten Hochzeitstag!
 
 [Unser Hochzeitsblog](http://hochzeit.smartr.de/)
 
 [Die Sprache der Blumen](/2009/06/die-sprache-der-blumen/)
 
-&nbsp;
-
-Merken

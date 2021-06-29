@@ -46,7 +46,7 @@ subTitle: Bildergalerie und Fazit
 
 **Wie in den letzten Tagen berichtet, haben wir dieses Jahr mit dem A Summer's Tale Festival in Luhmühlen in der Lüneburger Heide ein neues Festival ausprobiert.**
 
-Auch wenn an einigen Dingen noch ein Bisschen gearbeitet werden darf und es uns persönlich insgesamt ein Bisschen zu gemütlich dort zuging, hat es uns großen Spaß gemacht.
+Auch wenn an einigen Dingen noch ein bisschen gearbeitet werden darf und es uns persönlich insgesamt ein bisschen zu gemütlich dort zuging, hat es uns großen Spaß gemacht.
 
 ## Die Künstler
 
@@ -90,7 +90,7 @@ Ich denke, dass man sich bei der Planung des Festivals sehr auf das Thema Komfor
 
 Zum Thema Komfortcamping: Keine schlechte Idee, das gibt es ja auf anderen europäischen Festivals schon sehr lange. Allerdings gibt es auch hier zwei Punkte: Es war kein Unterschied zwischen dem Komfortcampingplatz und dem normalen Campingplatz erkennbar. Beide waren mit der gleichen Anzahl an Wassertoiletten und Duschen ausgestattet. Einziger Unterschied: Alle Familien mit Kindern waren auf dem Komfortcampingplatz untergebracht, Ihr könnt Euch das Geschrei und Gebrüll ab sechs Uhr morgens vorstellen. Man sollte ihn demnach vielleicht einfach in Familiencampingplatz umbenennen. Oder, wie das in England üblich ist, einfach noch mal in zwei Kategorien unterteilen. Den nicht unerheblichen Aufpreis kann man sich sonst als kinderloser Mensch getrost sparen.
 
-Ich habe gelernt, dass mir Festivals, die sich mehr um die Musik drehen, lieber sind, als solche, bei denen es um das Drumherum geht. Dafür koche ich auch gerne selbst, oder esse die üblichen Wok-Nudeln. Ein wunderschönes Event war es dennoch, wir hatten traumhaftes Wetter und haben tolle Bands vor einer traumhaften Kulisse genossen. Außerdem habe ich wohl noch nie so wenig Müll auf einem Festivalgelände gesehen. Tipp an andere Veranstalter: Einfach mal ein paar Mülltonnen aufstellen, evtl. schmeißen die Leute dann da auch ihren Abfall rein. ;-)
+Ich habe gelernt, dass mir Festivals, die sich mehr um die Musik drehen, lieber sind, als solche, bei denen es um das Drumherum geht. Dafür koche ich auch gerne selbst, oder esse die üblichen Wok-Nudeln. Ein wunderschönes Event war es dennoch, wir hatten traumhaftes Wetter und haben tolle Bands vor einer traumhaften Kulisse genossen. Außerdem habe ich wohl noch nie so wenig Müll auf einem Festivalgelände gesehen. Tipp an andere Veranstalter: Einfach mal ein paar Mülltonnen aufstellen, evtl. schmeißen die Leute dann da auch ihren Abfall rein.
 
 Grundsätzlich würde ich das Festival bei einem umfangreicheren Lineup mit weniger Pausen noch mal besuchen. Allerdings mit Gaskocher und Proviant im Gepäck. Und mit einem Buch für die Pausen.
 

@@ -77,8 +77,6 @@ Heute möchte ich gerne einen wichtigen Nachtrag veröffentlichen. Dieser setzt 
 
 Die Kombination Eurer Songs des Jahres gefällt mir als Gesamtkunstwerk sehr gut. Alle, die hier Ihre Lieder wiederfinden, dürfen sich freuen, alle, die es nicht tun, melden sich bitte bei mir, dann gibt es vielleicht einen weiteren Nachtrag!
 
-Ich wünsche Euch nun viel Spaß beim Hören und Genießen und bin gespannt, wie Euch die so entstandene neue Liste gefällt. Rock on! :-)
-
 ### "The Sky Is A Neighbourhood" von den Foo Fighters
 
 Die zweite Auskopplung vom Foo Fighters Album "Concrete And Gold" führt diese Liste an, da sie es definitiv verdient hat, denn: Sie ist etwas Besonderes. Warum mir das erst jetzt bewusst ist? Nun ja, das ein oder andere Lied schafft es dann doch mal, einen seit seiner Veröffentlichung so nachhaltig permanent zu begleiten und einem in Fleisch und Blut überzugehen, dass es einem fast schon selbstverständlich erscheint. Es ist einfach immer immer da! Das Ding hat also nicht nur einen Grammy gewonnen, sondern auch einen Platz auf meiner Liste verdient!

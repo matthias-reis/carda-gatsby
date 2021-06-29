@@ -37,7 +37,7 @@ subTitle: Veganer Frühstücksaufstrich zum Selbermachen
 
 **Liebt Ihr es auch auch so sehr, am Wochenende ausgedehnt zu frühstücken? Selbstgemachte Brotaufstriche dürfen dabei nicht fehlen. Ich verrate Euch heute mein Rezept für einen leckeren Paranuss-Tomaten-Aufstrich.**
 
-Paranüsse, auch Amazonenmandeln oder Marahonkastanie genannt, sind sehr gesund. Sie stecken voll mit gesunden Fettsäuren, Proteinen und Nährstoffen. Nur Vorsicht, nicht zuviel davon genießen, sonst bleibt kein Platz mehr im Magen für Eure [Bananenwaffeln](/2015/03/bananenwaffeln/) und das [Rührtofu](/2014/09/ruhrtofu/), denn die Dinger sind auch ganz schön fettig. ;-)
+Paranüsse, auch Amazonenmandeln oder Marahonkastanie genannt, sind sehr gesund. Sie stecken voll mit gesunden Fettsäuren, Proteinen und Nährstoffen. Nur Vorsicht, nicht zuviel davon genießen, sonst bleibt kein Platz mehr im Magen für Eure [Bananenwaffeln](/2015/03/bananenwaffeln/) und das [Rührtofu](/2014/09/ruhrtofu/), denn die Dinger sind auch ganz schön fettig.
 
 ## Ihr braucht
 
@@ -56,7 +56,7 @@ Paranüsse, auch Amazonenmandeln oder Marahonkastanie genannt, sind sehr gesund.
 
 ## Zubereitung
 
-Alle Zutaten zusammen in den Blender geben und in kurzen Hüben pürieren, bis sich eine gleichmäßige Masse ergeben hat. Habt Geduld, es kann eine kleine Weile dauern. Achtet darauf, zwischendurch ein paar kleine Pausen einzulegen, damit der Blender nicht überhitzt. Für unser 2 PS Modell stellt das kein Problem dar, für kleinere Mixer ist es evtl. schwieriger und es kann dann auch Sinn machen, die Nüsse vorher schon mal ein Bisschen mit dem Messer zu zerkleinern.
+Alle Zutaten zusammen in den Blender geben und in kurzen Hüben pürieren, bis sich eine gleichmäßige Masse ergeben hat. Habt Geduld, es kann eine kleine Weile dauern. Achtet darauf, zwischendurch ein paar kleine Pausen einzulegen, damit der Blender nicht überhitzt. Für unser 2 PS Modell stellt das kein Problem dar, für kleinere Mixer ist es evtl. schwieriger und es kann dann auch Sinn machen, die Nüsse vorher schon mal ein bisschen mit dem Messer zu zerkleinern.
 
 Mit dem Löffel nehmt ihr im Anschluss die Masse aus dem Mixer und füllt sie feinsäuberlich in das Glas. Nehmt auf jeden Fall einen aus Plastik, um die Messer des Blenders nicht zu beschädigen. Im Kühlschrank ist der Aufstrich rund zwei Wochen haltbar.
 

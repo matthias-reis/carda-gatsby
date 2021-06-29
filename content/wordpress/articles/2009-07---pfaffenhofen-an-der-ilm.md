@@ -61,5 +61,3 @@ Thomas Herker ist mit seinen 30 Jahren einer der jüngsten Bürgermeister Deutsc
 _ [Homepage](http://www.pfaffenhofen.de/) Pfaffenhofen an der Ilm_ _ [Homepage](http://www.spd-paf.de/index.php?mod=content&menu=3...) Bürgermeister Thomas Herker_ _ [Wikipedia](http://de.wikipedia.org/wiki/Pfaffenhofen_an_der_I...) Pfaffenhofen an der Ilm_
 
 <Gallery name="flickr/annepfaffenhofen2009" />
-
-&nbsp;

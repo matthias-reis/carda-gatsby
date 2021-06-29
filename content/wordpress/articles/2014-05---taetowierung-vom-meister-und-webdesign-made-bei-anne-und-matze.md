@@ -1,8 +1,8 @@
 ---
-title: Tätowierung vom Meister und Webdesign made bei Anne & Matze
-seoTitle: Tätowierung vom Meister und Webdesign
-slug: tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne
-path: /2014/05/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/
+title: Tätowierung und Webdesign
+seoTitle: Tätowierung und Webdesign
+slug: taetowierung-und-webdesign
+path: /2014/05/taetowierung-und-webdesign/
 fileName: 2014-05---taetowierung-vom-meister-und-webdesign-made-bei-anne-und-matze.md
 description: Aus einer einer Tätowierung und ein paar hübschen Zutaten wird eine neue Homepage - Begleitet mich auf dem Weg von der Tätowierung bis zum Layout...
 excerpt: Seit nunmehr fast drei Jahren feilen Matze und ich an einer Idee, die jetzt, nachdem das letzte Großprojekt so gut wie abgeschlossen ist immer mehr Form annimmt.
@@ -15,7 +15,6 @@ labels:
   - Design
   - Eine Taube
   - Geschichten & Erlebtes
-  - Herzmann
   - neues Design
   - Ruby Red Tattoo Augsburg
   - Tätowierung
@@ -48,7 +47,7 @@ subTitle: 'Teil I: Die Idee'
 
 Schon sehr lange plane ich eine neue **Tätowierung** stechen zu lassen, Sternchen und Omzeichen fühlen sich schon ganz einsam auf meinem Arm.
 
-Ein Sleeve soll es werden. Eine Ranke, die ein paar ganz besondere Dinge enthalten soll: Eine Taube erinnert an meinen verstorbenen Großvater, der Tauben über alles geliebt hat.
+Ein Sleeve soll es werden. Eine Ranke, die ein paar ganz besondere Dinge enthalten soll: Eine Taube, ein paar weitere Sterne und Rhododendronblüten.
 
 ## Eine Vorlage für den Tätowierer
 
@@ -61,7 +60,7 @@ Ein Sleeve soll es werden. Eine Ranke, die ein paar ganz besondere Dinge enthalt
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAFBgP/xAAoEAABBAEDAgcAAwAAAAAAAAABAgMEESEABRIGMQcTIkFRYXEUMoH/xAAZAQACAwEAAAAAAAAAAAAAAAABBAIDBQb/xAAkEQACAQIFBAMAAAAAAAAAAAABAhEAAwQSITFREyKBkWGh0f/aAAwDAQACEQMRAD8APuntgTNREjREOFCAnkhQ5kWL4hXx9+2k6PtyOj2Gz/JS5IAAQ1gqzmjXfXFdA9QHZ9zmjeHohHDzWn8Uoj08VAY5VVVg5100iVM3ppqaUujzXQkLdaIpOaKff6z86pUIq511P3Xa3M7OuHuAoiiCDOke/Hwa8epW09VxGCpHlSW3A4lxtuuNXkgEA2LGf3R3M2KRtq3FyZRcbAUVcADagCbA7j9vSpOiSQwG2UErCC4UG0ihV4GPcfujnqOU0hTqNzaQGFtFBShVqyMdvvRKrcEsJqL4W1dwzqpkL3RPHPI8VjbdtsmXvEXctxkMIgsoS/5OQAQMJAqv7EC/nSirqdmBsi460tJsKKnFn0t+xydWrTaqFGlDoK83G3Os8mD+VjwPENtaailBiFRYS64SLrPH1UO2f90beIG8iTu6DH8ooQCSEVxKj3yO9YH7erVpe6ZTbesDGXS1sGIzb+pr/9k="
 />
 
-Sterne stellen meinen Vater, den heimlichen Seefahrer ;-) , dar. Für meine **Mutter** steht die Rhododendronblüte, die ich in einem ihrer liebsten botanischen Gärten in England fotografiert habe. Das alles zeichnet der Herzmann gerade ab, damit wir dem Tätowierer zumindest eine grobe Vorlage bieten können. Außerdem gibt es noch ein paar weitere Details, die hier noch nicht verraten werden.
+Das alles zeichnet Matze gerade ab, damit wir dem Tätowierer zumindest eine grobe Vorlage bieten können.
 
 Sobald das Motiv dann steht und tätowierbereit gezeichnet ist, wird es nicht nur auf meine Haut übertragen, sondern auch zusammen mit meinem Foto und einigem anderen hübschen Schnickschnack in Form gegossen und daraus das **Design** meiner neuen Homepage geformt.
 
@@ -78,7 +77,7 @@ An der technischen Umsetzung arbeiten wir derzeit schon mit Hochdruck, damit das
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcI/8QALBAAAQMDAwIFAwUAAAAAAAAAAQIDBAUGEQASIQcxCBMUImFBUXEWMkKhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAA//EABoRAQACAwEAAAAAAAAAAAAAAAABEQISMUH/2gAMAwEAAhEDEQA/AC++ot2Rur1UodLuBVPp7chMdpLjCQ00kIBWexUo/Ofr2Gme5bluW3KeZlJuWZWwhHqpjEuO2C0wCApbam08AEgFKiTjn76yDxBwJ8PqbWJTSlhpb/qmwDgpIAST8ft/zUVp3pCkRZ8CawmHR3YhLdPihavMm4IDhUSVEqzlRUcds5xrbGuSHSMiVcUllxlmpz21ON+1xpCN6QRwpOUEf1pV/X9UR1Lt63EzZLqXJiWJRcKdpBQolBG0EngHPGDqPpdeT9XkimVCrRYj6Gm22mlsBStrJSSsEnu4glJH8Skn40uxqE5R/E3Sn30FyjTpb0uFIJynzHGlHZ+Uq3YH2wdM+xSXfWXpjdl71pTtNhQPSokqcQ+uSlBcaKE4TjaSkhW/PJB40l0Lw9Xaw8pcuNAbaKVJCG5xKskYCs7fpk/nRo1lsV3C6M31b9ai1ChSYcp1lW5z1DvlIeGeUEAqKkEcEKx31p1FtStitwX67EiiBDWiVHKJHmOMuAEBo+0Z27iAoHkdwDo0ad54qf/Z"
 />
 
-Mal sehen, eventuell findet die **Eule** , die sich der Herzmann stechen lassen möchte, ja auch noch einen Platz auf cardamonchai.
+Mal sehen, eventuell findet die **Eule** , die sich Matze stechen lassen möchte, ja auch noch einen Platz auf cardamonchai.
 
 Was haltet Ihr von der Idee? Ich finde sie ziemlich gut und kann es gar nicht mehr erwarten, das Ergebnis zu präsentieren. Bis zur kompletten Umsetzung werden sicher noch ein paar Tage vergehen. Wer nichts verpassen möchte, bleibt einfach dran.
 

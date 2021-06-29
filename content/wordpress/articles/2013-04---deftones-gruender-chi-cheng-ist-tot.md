@@ -60,7 +60,7 @@ Hier der offene Brief an Chis Fangemeinde, den seine Mutter am Samstag auf seine
 
 > Our dearest Family, This is the hardest thing to write to you. Your love and heart and devotion to Chi was unconditional and amazing. I know that you will always remember him as a giant of a man on stage with a heart for every one of you. He was taken to the emegency room and at 3 am today his heart just suddenly stopped. He left this world with me singing songs he liked in his ear. He fought the good fight.You stood by him sending love daily. He knew that he was very loved and never alone. I will write more later. I will be going through the oneloveforchi site and any other information may not be reliable. If you have any stories or messages to share please send them to the onelove site. Please hold Mae and Ming and the siblings and especially Chi’s son, Gabriel in your prayers. It is so hard to let go. With great love and "Much Respect!” Mom J (and Chi)
 
-**RIP Chi. Wir lieben Dich und werden Dich nie vergessen. &lt;3**
+**RIP Chi. Wir lieben Dich und werden Dich nie vergessen.**
 
 ## Chis Erbe
 

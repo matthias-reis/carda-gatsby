@@ -66,4 +66,4 @@ Wer die Konzerte bei Rock am Ring und in Berlin live erleben konnte, durfte Invi
 
 Und Ihr solltet das auch tun. Gönnt Euch eine Auszeit. Schließt Fenster und Türen. Nehmt auf dem Teppich Platz, schließt die Augen und lasst Euch von der Musik davontragen.
 
-Psst: Das Bild von der frisch ausgepackten Special Edition habe ich mir vom [Schallplattenhändler meines Vertrauens ausgeliehen](https://marleenrecords.wordpress.com/). ;-)
+Psst: Das Bild von der frisch ausgepackten Special Edition habe ich mir vom [Schallplattenhändler meines Vertrauens ausgeliehen](https://marleenrecords.wordpress.com/).

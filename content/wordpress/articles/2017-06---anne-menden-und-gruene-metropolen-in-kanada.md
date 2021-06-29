@@ -46,7 +46,7 @@ Nicht nur die zauberhafte Schauspielerin und Sea Shepherd Aktivistin Anne Menden
 
 Auch ich habe neben meiner Redaktionsarbeit wieder einen Artikel beigesteuert. Er befasst sich mit dem Thema CETA und ist auf Seite 112 zu finden.
 
-Ich wünsche Euch viel Spaß beim Lesen und viel Vorfreude auf die neue Ausgabe. Ich glaube, sie wird wieder richtig spannend. ;-)
+Ich wünsche Euch viel Spaß beim Lesen und viel Vorfreude auf die neue Ausgabe. Ich glaube, sie wird wieder richtig spannend.
 
 <Gallery
   images={[

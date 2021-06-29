@@ -56,7 +56,7 @@ Wir besuchten die Fledermäuse im Höhlentempel von Goah Lawah und die weltberü
 
 Vom seltenen Balistar begegnete uns auf unserer Reise leider nur ein einziges Exemplar, das beim Auspacken der Kamera jedoch sofort die Flucht ergriff.
 
-Für mich ein Grund, wieder nach Bali zu reisen. :-) Und ich denke, mir sind dennoch ein paar interessante Schnappschüsse gelungen. Doch seht selbst:
+Für mich ein Grund, wieder nach Bali zu reisen. Und ich denke, mir sind dennoch ein paar interessante Schnappschüsse gelungen. Doch seht selbst:
 
 <Gallery
   images={[

@@ -1,38 +1,36 @@
 ---
 date: 2016-02-03T12:29:39.000+00:00
 slug: unboxing-fooodz-de
-path: "/2016/02/unboxing-fooodz-de/"
+path: '/2016/02/unboxing-fooodz-de/'
 type: Artikel
 typeName: Produkttest
 title: Unboxing Fooodz
 seoTitle: Unboxing Fooodz.de - Vegane Lebensmittel an die Haustür
 ogTitle: Unboxing Fooodz.de - Vegane Lebensmittel an die Haustür
-description: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage und
-  damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier der Bericht.
-excerpt: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage und damit
-  die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier mein Bericht.
+description: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage und damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier der Bericht.
+excerpt: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage und damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier mein Bericht.
 fileName: 2016-02---unboxing-fooodz.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwABAwYF/8QAJhAAAgEDBAEDBQAAAAAAAAAAAQIDAAQRBQYhMRMSIkEyUVJxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwDOxNDEkaSOileO6T7XTI0QAQpR/s6eK6tbdQqMUyeSRjIxnj5Fdxa2kyxqfN6m4B9UjcD+Uhotq1bSIp4WVrdSSDQtv3QRbiQrCQvPRFM+rWiujO3iDc8+44Jxzz+sH70Yb3u1htJY2l8nZBYkmishbldoa3cW6xsg7+M0padue5aBS0YJx+VVVQpeXuLdN0I3CxqPj6qH93a1cTK7Pg9juqqizzf/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-7__l.jpg
 labels:
-- Ernährung & Gesundheit
-- Fooodz
-- fooodz.de
-- Hamburg
-- Münster
-- Online-Shop
-- Produkttest
-- unboxing
-- unboxing story
-- vegan
-- vegane Lebensmittel
-- vegane Lebensmittel bestellen
-- vegane Produkte
-- veganer Online-Shop
-- veganer Shop
-- Veganes Essen
+  - Ernährung & Gesundheit
+  - Fooodz
+  - fooodz.de
+  - Hamburg
+  - Münster
+  - Online-Shop
+  - Produkttest
+  - unboxing
+  - unboxing story
+  - vegan
+  - vegane Lebensmittel
+  - vegane Lebensmittel bestellen
+  - vegane Produkte
+  - veganer Online-Shop
+  - veganer Shop
+  - Veganes Essen
 focusKeyword: Unboxing
 status: publish
 isWerbung: false
@@ -41,8 +39,8 @@ language: de
 errors: {}
 subTitle: Vegane Lebensmittel bestellen
 advertisement: true
-
 ---
+
 **Vor Kurzem bekam ich eine nette Anfrage für ein Unboxing und damit die Möglichkeit, den veganen Online-Shop Fooodz.de aus Münster zu testen.**
 
 Leckeres Essen probieren und dann auch noch darüber berichten? Das sind zwei Dinge, die ich gerne mache, da lasse ich mich natürlich nicht zweimal bitten.
@@ -93,19 +91,19 @@ Die Maultaschen waren sehr leicht zuzubereiten und wirklich lecker gefüllt, ich
 
 Auch die Sommerdinkel Volanti waren sehr schmackhaft. Leckere, bissfeste Dinkelnudeln. Genau so müssen sie sein. Bei uns gab es dazu die Bolognese-Sauce vom Vortag in einer verlängerten Form.
 
-Das Lowcarb-Brot ist gut gelungen, es ist schön aufgegangen und locker-fluffig geworden. Mir fehlten darin allerdings ein Bisschen die Kohlenhydrate, ich bin einfach mehr der High-Carb-Typ, aber das wusste ich eigentlich schon vorher, ich wollte es dennoch mal ausprobieren.
+Das Lowcarb-Brot ist gut gelungen, es ist schön aufgegangen und locker-fluffig geworden. Mir fehlten darin allerdings ein bisschen die Kohlenhydrate, ich bin einfach mehr der High-Carb-Typ, aber das wusste ich eigentlich schon vorher, ich wollte es dennoch mal ausprobieren.
 
-Es besteht fast vollständig aus Weizeneiweiß, sprich Gluten und ist im Geschmack [Seitan](/2016/01/seitan-a-la-herzmann/) nicht unähnlich. Mir fehlt allerdings die sättigende Wirkung und der Teig erinnert mich ein Bisschen mehr an einen [Hefezopf](/2021/01/hefe-ist-vegan/), als an ein Brot. Wer das mag, ist natürlich auf jeden Fall gut bedient.
+Es besteht fast vollständig aus Weizeneiweiß, sprich Gluten und ist im Geschmack [Seitan](/2016/01/seitan-grundrezept/) nicht unähnlich. Mir fehlt allerdings die sättigende Wirkung und der Teig erinnert mich ein bisschen mehr an einen [Hefezopf](/2021/01/hefe-ist-vegan/), als an ein Brot. Wer das mag, ist natürlich auf jeden Fall gut bedient.
 
 ## Gut gewürzte Chips
 
 Die Tortilla Chips haben wir auf einen Schlag aufgefuttert, sie waren wunderbar kross und gut gewürzt. Für meinen Geschmack hätten sie etwas mehr Chili und dafür etwas weniger Knoblauch enthalten können, aber das ist auch wieder mal nur eine Nuance, die anderen evtl. gar nicht aufgefallen wäre.
 
-Der Kokosblütensirup landet derzeit jeden Tag in meinem Tee. Ich finde ihn sehr angenehm, er schmeckt ein Bisschen fruchtig, erinnert mehr an [Kräuterblütensirup](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/), als an Kokos. Eine willkommene Abwechslung zu meiner Apfelsüße.
+Der Kokosblütensirup landet derzeit jeden Tag in meinem Tee. Ich finde ihn sehr angenehm, er schmeckt ein bisschen fruchtig, erinnert mehr an [Kräuterblütensirup](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/), als an Kokos. Eine willkommene Abwechslung zu meiner Apfelsüße.
 
 Interessant fand ich das Fertig-Gyros. Die Sojaschnetzel waren, anders als "normale" Sojaschnetzel, im heißen Wasser schon nach wenigen Minuten weich und konnten weiterverarbeitet werden. Ich habe sie mit Zucchini und grüner Paprika angebraten, dazu habe ich roten Reis serviert. Sie schmecken sicher auch gut mit selbst gemachten Pommes und Tsatsiki.
 
-Was die Schärfe betrifft, habe ich ein Bisschen nachgewürzt, ansonsten war alles prima. Auch wenn ich in Zukunft im Normalfall das Gyros wahrscheinlich wieder selbst zubereiten werde. Beim [Camping](/2015/03/die-ultimative-vegane-festivalliste/) oder wenns zu Hause mal schnell gehen muss, ist die Fertigpackung dennoch auf jeden Fall ein gute, schnelle Alternative.
+Was die Schärfe betrifft, habe ich ein bisschen nachgewürzt, ansonsten war alles prima. Auch wenn ich in Zukunft im Normalfall das Gyros wahrscheinlich wieder selbst zubereiten werde. Beim [Camping](/2015/03/die-ultimative-vegane-festivalliste/) oder wenns zu Hause mal schnell gehen muss, ist die Fertigpackung dennoch auf jeden Fall ein gute, schnelle Alternative.
 
 ## Bin ich süchtig nach Grünkohlchips?
 
@@ -118,4 +116,3 @@ Die Lebensmittel waren alle hervorragend. Bis auf ein paar kleine Geschmackskoll
 Wer jetzt neugierig geworden ist, kann seinen Einkaufskorb auf [Fooodz.de](http://www.fooodz.de/) vollmachen.
 
 <Gallery name="fooodz-unboxing" />
-

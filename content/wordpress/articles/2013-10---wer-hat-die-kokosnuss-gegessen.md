@@ -31,7 +31,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Herbstlicher Zoobesuch am Sonntag
 ---
 
-Um den Eulencontent für Freitag muss ich mir jedenfalls keine Sorgen mehr machen. :-)
+Um den Eulencontent für Freitag muss ich mir jedenfalls keine Sorgen mehr machen.
 
 [Wie ich zu Zoos stehe](/2015/04/wie-ich-zu-zoos-stehe/)
 

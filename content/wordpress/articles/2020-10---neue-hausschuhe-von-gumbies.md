@@ -55,7 +55,7 @@ Wir tragen unsere Brumbies jetzt seit drei Wochen in der Wohnung und sind komple
 
 Wie immer bei Gummis habe ich übrigens eine Nummer größer bestellt, als bei meinen üblichen Straßenschuhen. Sie passen perfekt. Das Material ist sehr angenehm auf der Haut. Es zwickt und kratzt nichts und man gerät auch nicht ins Schwitzen.
 
-Außerdem finden wir beide, dass die Brumbies mit Abstand die schönsten Hausschuhe sind, die wir bis jetzt gesehen haben. Sie sehen kein Bisschen nach "Latschen" aus und passen nicht nur zum "Couch-und-Jogginganzug-Look". Wir können sie jede⋆r der⋆die im Herbst und Winter unter kalten Füßen leidet oder eine zugige Wohnung hat wärmstens empfehlen.
+Außerdem finden wir beide, dass die Brumbies mit Abstand die schönsten Hausschuhe sind, die wir bis jetzt gesehen haben. Sie sehen kein bisschen nach "Latschen" aus und passen nicht nur zum "Couch-und-Jogginganzug-Look". Wir können sie jede⋆r der⋆die im Herbst und Winter unter kalten Füßen leidet oder eine zugige Wohnung hat wärmstens empfehlen.
 
 ## Weitere News von Gumbies
 

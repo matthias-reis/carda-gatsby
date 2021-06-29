@@ -83,7 +83,7 @@ Die Anhänger des Barong treten in Erscheinung. Sie versuchen, die schwarze Hexe
 
 _Begleitet wird das Theaterstück von traditioneller balinesischer Musik. Auch die Musiker spielen sich gerne mal in Trance, was wir an diesem Tag eindrucksvoll bewiesen bekamen._
 
-Verzeiht bitte, dass ich so viele Bilder gemacht habe, ich konnte einfach nicht aufhören, zu knipsen! :-)
+Verzeiht bitte, dass ich so viele Bilder gemacht habe, ich konnte einfach nicht aufhören, zu knipsen!
 
 <Gallery
   images={[

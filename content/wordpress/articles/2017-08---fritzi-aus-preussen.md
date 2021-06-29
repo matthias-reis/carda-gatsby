@@ -210,5 +210,3 @@ Für jede verkaufte Tasche aus der Kollektion spendet _Fritzi aus Preußen_ dahe
 />
 
 [Hier entlang](https://www.fritziauspreussen.de/) geht es zu Fritzi aus Preußen!
-
-Merken

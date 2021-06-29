@@ -40,7 +40,7 @@ subTitle: Vegane Sahnetorte
 
 Salome ist auf dem Gebiet der Speisenzubereitung ein echter Profi, vor Kurzem hat sie in Hamburg sogar eine Ausbildung im Gastronomiebereich begonnen, um ihr Hobby endlich zum Beruf zu machen.
 
-Ich kann mir niemanden besser in diesem Bereich vorstellen, als Salome. Bei den tollen Gerichten, die sie kreiert, bleibt jedem Fleischesser vor Neid der Schinken im Hals stecken. :-)
+Ich kann mir niemanden besser in diesem Bereich vorstellen, als Salome. Bei den tollen Gerichten, die sie kreiert, bleibt jedem Fleischesser vor Neid der Schinken im Hals stecken.
 
 Während wir anderen noch mit Gemüse schneiden beschäftigt waren, zauberte sie mir nichts, dir nichts die tollste Torte, die ich in meinem Leben kosten durfte. Natürlich war Salomes Torte die erste Torte, die an diesem Nachmittag bis auf den letzten Krümel vom Buffet verschwand.
 
@@ -73,7 +73,7 @@ Das Obst in Stückchen schneiden und auf der obersten Schicht hübsch anordnen. 
 
 Zuletzt wird die Torte mit Obst verziert und zum Festwerden ca. eine halbe Stunde bis Stunde in den Froster gegeben, dann lässt sie sich ganz prima schneiden.
 
-**Vielen Dank für dieses tolle Rezept, liebe Salo! &lt;3**
+**Vielen Dank für dieses tolle Rezept, liebe Salo.**
 
 <RemoteImage
   alt={`Vegane Torte`}

@@ -87,7 +87,3 @@ Hackt die Walnüsse fein, verteilt sie auf einem Teller und macht die Konserve m
 Mit dem Stil eines Holzlöffels drückt Ihr nun in jede Teigkugel ein kleines Loch. Gebt je nach Größe ein bis drei Cranberries in in jedes Loch. Wenn Ihr fertig seid stellt Ihr Eure Cookies für 16 Minuten in den vorgeheizten Ofen. Danach lasst Ihr sie auf einem Rost gut auskühlen, wodurch sie ihre endgültige Konsistenz annehmen. Lagern könnt Ihr sie am besten in einer Blechdose. Die einzelnen Lagen solltet Ihr mit Back- oder Butterbrotpapier trennen.
 
 Ich wünsche Euch viel Spaß beim Backen und noch eine möglichst ruhige Adventszeit. Falls Ihr noch auf der Suche nach einem tollen Geschenk seid, [klickt mal hier rein](/2017/11/kartenmacherei/).
-
-&nbsp;
-
-&nbsp;

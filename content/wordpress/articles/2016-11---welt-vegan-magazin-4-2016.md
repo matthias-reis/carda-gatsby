@@ -62,7 +62,7 @@ Außerdem sind auch Tennisprofi Nicola Geuer sowie Parcour- und Freerunnig-Profi
 
 _Natürlich ist das noch längst nicht alles, wer mehr wissen möchte, geht am besten gleich zum Kiosk!_
 
-Die Arbeit hat mir übrigens sehr großen Spaß gemacht, ich habe gemerkt, dass Redigieren echt mein Ding ist. Vor allem lernt man dabei auch, genauer zu sein. Ich habe das Gefühl, meine Konzentration ist schon ein Stückchen besser, als noch vor der Ausgabe. Tut mir den Gefallen und schaut trotzdem nicht so genau nach Fehlern, OK? Ein kleines Bisschen Welpenschutz habe ich doch sicherlich verdient. :-P
+Die Arbeit hat mir übrigens sehr großen Spaß gemacht, ich habe gemerkt, dass Redigieren echt mein Ding ist. Vor allem lernt man dabei auch, genauer zu sein. Ich habe das Gefühl, meine Konzentration ist schon ein Stückchen besser, als noch vor der Ausgabe. Tut mir den Gefallen und schaut trotzdem nicht so genau nach Fehlern, OK? Ein kleines bisschen Welpenschutz habe ich doch sicherlich verdient. :-P
 
 <Gallery
   images={[

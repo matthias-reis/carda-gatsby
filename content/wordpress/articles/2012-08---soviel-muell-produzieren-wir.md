@@ -50,5 +50,3 @@ subTitle: Da sollte man mal drüber nachdenken
 Die 450 Kilogramm Müll pro Einwohner setzen sich aus 197 Kilogramm Haus- und Sperrmüll, 143 Kilogramm Wertstoffen (hauptsächlich Glas, Papier, Verpackungen), 107 Kilogramm Bioabfällen sowie 2 Kilogramm sonstigem Schrott und Abfall zusammen. (Quelle: Statistisches Bundesamt Februar 2012)
 
 Bilder: Installation "Waste", gesehen im Eden Project, St. Austell, England 6/12
-
-&nbsp;

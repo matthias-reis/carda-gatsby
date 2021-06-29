@@ -1,40 +1,38 @@
 ---
 date: 2020-12-20T15:13:56.000+00:00
 slug: crippled-black-phoenix-interview
-path: "/2020/12/crippled-black-phoenix-interview/"
+path: '/2020/12/crippled-black-phoenix-interview/'
 type: Artikel
 typeName: Interview
 title: Crippled Black Phoenix
 seoTitle: Crippled Black Phoenix – Musik als Aktivismus – Interview
 ogTitle: Crippled Black Phoenix – Musik als Aktivismus – Interview
-description: Crippled Black Phoenix beeindrucken mich immer wieder. Jetzt konnte ich
-  mich mit Belinda Kordic und Justin Greaves zum Interview verabreden.
-excerpt: English & German – Crippled Black Phoenix beeindrucken mich immer wieder.
-  Jetzt konnte ich mich mit Belinda Kordic und Justin Greaves zum Interview verabreden.
+description: Crippled Black Phoenix beeindrucken mich immer wieder. Jetzt konnte ich mich mit Belinda Kordic und Justin Greaves zum Interview verabreden.
+excerpt: English & German – Crippled Black Phoenix beeindrucken mich immer wieder. Jetzt konnte ich mich mit Belinda Kordic und Justin Greaves zum Interview verabreden.
 fileName: 2020-12---crippled-black-phoenix.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_crippled-black-phoenix-interview-belinda-justin__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_crippled-black-phoenix-interview-belinda-justin__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAJhAAAQMDBAEFAQEAAAAAAAAAAQIDBAUGEQASITETBxUiQVEUYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBc21Z7Nzx5s6NV6HGbpjRQtqS2R5VuJJyMAfFKiBvUeDz9c0dlznJVzWoiK1Hjyo9RjKDpVgrO9A5P2ePr90wbd9N4E6NKS7NqkR55aoAci48CXFJSUpfPQQon7/P81mrStxyPIfrNEXTqxCoimpdSjutYlQwlRUsDrdjYfkgkaDqe57dot0xYcO6kKkxY0hucGi8lHlUUlIStIJKkjcnPIycHrvD3VZjNnVKG3aVTlvvSVrLNIeYdlqTgZUUPIBU2MEY8gVn90nKz64XTW6q89TG6ew5GWXWX2YacpBITt+WSQQEDnvAzpv8AtVUX6fv3DRKw1CrpbE411yWTDkOKWfKUNjKUqwCgDYoFO3HJOgler09ikXBDi0hTkf3deypqjpByUjKSBjhRxyc9DOODpcX9XaUulMwaSH2wmFJ8rflSpZIa3FakNk7UkBQyex8udGjQYWJbiVUGp+wPuzK3JcacdgfyqCg0DkePBIWjODuB6A4Grn0/sy8qTdtvVe6KZUG6HBkI8TcpeNqdrikbGycjBSVdDHejRoP/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_crippled-black-phoenix-interview-belinda-justin-fb.png__l.jpg
 labels:
-- Alternative
-- Animal Rights
-- Bands
-- Bristol
-- CBP
-- Crippled Black Phoenix
-- English & German
-- Interview
-- Prog
-- Progressive
-- Stockholm
-- Tierrechte
-- Tierrechte
-- vegan celebrities
-- Vegane Musiker
-- Veganer
-- Veganism
-- Veganismus
+  - Alternative
+  - Animal Rights
+  - Bands
+  - Bristol
+  - CBP
+  - Crippled Black Phoenix
+  - English & German
+  - Interview
+  - Prog
+  - Progressive
+  - Stockholm
+  - Tierrechte
+  - Tierrechte
+  - vegan celebrities
+  - Vegane Musiker
+  - Veganer
+  - Veganism
+  - Veganismus
 focusKeyword: Crippled Black Phoenix
 status: publish
 isWerbung: false
@@ -42,9 +40,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Musik als Aktivismus
-languageLink: "/2020/12/crippled-black-phoenix-interview-en"
-
+languageLink: '/2020/12/crippled-black-phoenix-interview-en'
 ---
+
 **Crippled Black Phoenix ist eine der Bands, die mich immer wieder aufs Neue beeindrucken – zuletzt mit ihrem aktuellen Album "Ellengæst". Jetzt konnte ich mich mit Sängerin und Songwriterin Belinda Kordic und Bandleader Justin Greaves zu einem Interview per Videocall verabreden.**
 
 Das Gespräch, an dem auch Justins Katzen rege beteiligt waren, war unglaublich spannend. Ich habe mich mit den beiden über ihre Pläne, Tierrechte, Veganismus, Musik und Aktivismus unterhalten. Und natürlich über ihre Platte.
@@ -61,7 +59,7 @@ Das Gespräch, an dem auch Justins Katzen rege beteiligt waren, war unglaublich 
 
 ## "Es geht um den Verlust der Menschlichkeit"
 
-**![Belinda. Bild/Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-belinda.jpeg "Belinda. Bild/Picture: © Crippled Black Phoenix")Anne:**  Der Song "Lost" von Eurem neuen Album hat Matze und mich nicht mehr losgelassen. Ich habe ihn daher darum gebeten, [einen Gastartikel](/2020/12/crippled-black-phoenix-lost/) darüber zu schreiben. Ich hatte das Gefühl, dass er der Richtige dafür ist, das alles in Worte zu fassen. Und diese Intuition hat sich als richtig erwiesen, denn Ihr habt mir erzählt, dass Ihr es genossen habt, ihn zu lesen! Der Artikel ist ziemlich politisch und bezieht sich nur teilweise auf Euren Song. Ich denke, wir hatten, genau, wie Ihr mit Eurer Musik, den Wunsch, etwas tiefer zu blicken. Warum habt Ihr Euch darauf bezogen?
+**![Belinda. Bild/Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-belinda.jpeg 'Belinda. Bild/Picture: © Crippled Black Phoenix')Anne:**  Der Song "Lost" von Eurem neuen Album hat Matze und mich nicht mehr losgelassen. Ich habe ihn daher darum gebeten, [einen Gastartikel](/2020/12/crippled-black-phoenix-lost/) darüber zu schreiben. Ich hatte das Gefühl, dass er der Richtige dafür ist, das alles in Worte zu fassen. Und diese Intuition hat sich als richtig erwiesen, denn Ihr habt mir erzählt, dass Ihr es genossen habt, ihn zu lesen! Der Artikel ist ziemlich politisch und bezieht sich nur teilweise auf Euren Song. Ich denke, wir hatten, genau, wie Ihr mit Eurer Musik, den Wunsch, etwas tiefer zu blicken. Warum habt Ihr Euch darauf bezogen?
 
 **Belinda:** Er ist toll! Er fasst wirklich alles ziemlich gut zusammen.
 
@@ -103,7 +101,7 @@ Ich spende auch, so viel ich kann, an Tierrechtsorganisationen und kleine Hilfsp
 
 ## "Man darf das Thema Tierrechte nicht zu oft ansprechen"
 
-**![Justin. Bild/Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-justin-1.jpeg "Justin. Bild/Picture: © Crippled Black Phoenix")Belinda:** Ja, sie nennen Dich "militant", wenn Du das Thema zu oft ansprichst.
+**![Justin. Bild/Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-justin-1.jpeg 'Justin. Bild/Picture: © Crippled Black Phoenix')Belinda:** Ja, sie nennen Dich "militant", wenn Du das Thema zu oft ansprichst.
 
 Mit unserem Song "Nebulas" entschuldige ich mich bei den Tieren dafür, dass ich nicht mehr tun kann. Ich möchte damit sagen "Es tut mir leid, dass ich Euch nicht retten kann".
 
@@ -143,7 +141,7 @@ Ich würde nicht sagen, dass es schwerwiegend schlimmer geworden ist, dieses Jah
 
 ## "Wir haben an neuen Aufnahmen gearbeitet"
 
-**![Bild/Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-justin.jpeg "Bild/Picture: © Crippled Black Phoenix")Belinda:** Wir waren letzten Monat im Studio! Einige unserer Gäste haben ihre Parts in ihren Studios in ihren Heimatstädten aufgenommen und einige sind ins Studio gekommen. Manchmal muss man es einfach geschehen lassen!
+**![Bild/Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-justin.jpeg 'Bild/Picture: © Crippled Black Phoenix')Belinda:** Wir waren letzten Monat im Studio! Einige unserer Gäste haben ihre Parts in ihren Studios in ihren Heimatstädten aufgenommen und einige sind ins Studio gekommen. Manchmal muss man es einfach geschehen lassen!
 
 **Anne:** Was haltet Ihr von Remote Recording?
 

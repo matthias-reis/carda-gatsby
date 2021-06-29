@@ -46,10 +46,6 @@ Food-Watch hat nun eine [Mitmach-Aktion](http://foodwatch.de/kampagnen__themen/v
 
 Ich bin eindeutig FÜR eine eindeutige Kennzeichnung und habe mich bei dieser Aktion gleich [eingetragen](http://foodwatch.de/kampagnen__themen/vegetarismus_veganismus/e_mail_aktion/index_ger.html). Es wäre super, wenn der/die ein oder andere von Euch auch [mitmachen](http://foodwatch.de/kampagnen__themen/vegetarismus_veganismus/e_mail_aktion/index_ger.html) würde.
 
-Herzlichen Dank für die Aufmerksamkeit und ein schönes Wochenende.
-
-**So wird das Ganze übrigens in good old England gekennzeichnet, hübsch, oder?**
-
 <Gallery
   images={[
     {

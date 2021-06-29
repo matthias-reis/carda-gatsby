@@ -49,7 +49,3 @@ Männer, die durch ihre defensive Fahrweise positiv auffallen Wolkenbilder und L
 ## Aber ob das auch glücklich macht?
 
 "Das wird vielleicht das letzte sonnige Wochenende!", sagt die ältere Frau, die im Drogeriemarkt an der Kasse sitzt, jede Woche zu mir.
-
-&nbsp;
-
----

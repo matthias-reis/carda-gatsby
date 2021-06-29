@@ -80,5 +80,3 @@ Das NORDEN Festival findet noch bis einschließlich 16. September auf den Schles
 [Wer mehr über das NORDEN Festival erfahren möchte, kann gerne mal hier klicken.](/2018/07/norden-festival/)
 
 <Gallery name="flickr/annenordenfestival2018schleswigbilder" />
-
-&nbsp;

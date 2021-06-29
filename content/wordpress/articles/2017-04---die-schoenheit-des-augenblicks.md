@@ -35,7 +35,7 @@ errors: {}
 subTitle: Vergänglichkeit gehört dazu
 ---
 
-Schicht für Schicht stapelt sich hier das Leben. Genau dort, wo Du heute sitzt, war früher einmal Mr. Spock zuhause. Sein Trikot ist noch ein Bisschen zu sehen. Es verschwindet langsam aber sicher in dem Mosaik aus sich ablösendem Papier. Noch nicht ganz verblasst. Wie Herbstlaub rollen sich die Rückstände vergangener Zeiten.
+Schicht für Schicht stapelt sich hier das Leben. Genau dort, wo Du heute sitzt, war früher einmal Mr. Spock zuhause. Sein Trikot ist noch ein bisschen zu sehen. Es verschwindet langsam aber sicher in dem Mosaik aus sich ablösendem Papier. Noch nicht ganz verblasst. Wie Herbstlaub rollen sich die Rückstände vergangener Zeiten.
 
 Auch Du wirst nicht mehr lange zu sehen sein. Deine Tage sind gezählt. Noch sieht man Dein hübsches Antlitz. Schon morgen kann es dahin sein. Überklebt. Abgerissen. Vom Regen abgewaschen. Ausgebleicht von der Sonne. Das ist der Kreislauf des Lebens. Es gehört dazu. Etwas Neues wird sich aus den Überresten erheben. Im Glanz der Jugend strahlen.
 

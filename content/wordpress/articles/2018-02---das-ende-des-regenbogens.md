@@ -57,6 +57,6 @@ Häufig tauchen sie in Erzählungen auch als gute Hausgeister auf, die mitunter 
 
 Die Irischen Kobolde sind die Schuhmacher der Feen und werden zumeist als kleine, grün gekleidete Männchen mit roten Haaren und Hut dargestellt.
 
-Wir haben in Irland sogar einen doppelten Regenbogen gesehen. Das war sicher ein guter Tag für die Leprechauns. &lt;3
+Wir haben in Irland sogar einen doppelten Regenbogen gesehen. Das war sicher ein guter Tag für die Leprechauns.
 
 <Gallery name="flickr/regenbogenleprechaunsanne2017" />

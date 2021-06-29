@@ -71,7 +71,7 @@ Bei der mysteriösen Platte, von der ich Euch hier die ganze Zeit vorschwärme, 
 
 Der Song rockt, stampft, faucht, Jacks Gitarre schnurrt wie tausend Kätzchen und dann diese Geigen! Es ist ein wahrer Genuss und ich bin immer noch ganz verloren, höre mir "Lazaretto" gerade zum fünften Mal an und suche wie verrückt nach  Buchstaben, die sich irgendwie nicht zu den passenden Worten formen lassen. Daher lasse ich an dieser Stelle einfach die Musik für sich sprechen.
 
-Vorhang auf für die dritte Stufe der Rakete! Hier ist für Euch Jack White mit Lazaretto!
+Vorhang auf für die dritte Stufe der Rakete!
 
 ## Jack White – "Lazaretto"
 

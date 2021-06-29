@@ -1,7 +1,6 @@
 ---
 ogTitle: Dave Pen von BirdPen & Archive im Interview – "All Function One"
-excerpt: Dave Pen habe ich 2004 das erste Mal live auf der Bühne gesehen. Die
-  Musik seiner Projekte Archive und BirdPen fasziniert mich schon lange.
+excerpt: Dave Pen habe ich 2004 das erste Mal live auf der Bühne gesehen. Die Musik seiner Projekte Archive und BirdPen fasziniert mich schon lange.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_dave-pen-fb.png__l.jpg
 isAffiliate: false
 path: /2021/02/dave-pen-birdpen-archive-interview/
@@ -20,8 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02
 title: Dave Pen BirdPen & Archive
 subTitle: '"All Function One"'
 seoTitle: Dave Pen von BirdPen & Archive im Interview – "All Function One"
-description: Dave Pen habe ich 2004 das erste Mal live auf der Bühne gesehen.
-  Die Musik seiner Projekte Archive und BirdPen fasziniert mich schon lange.
+description: Dave Pen habe ich 2004 das erste Mal live auf der Bühne gesehen. Die Musik seiner Projekte Archive und BirdPen fasziniert mich schon lange.
 language: de
 type: Artikel
 labels:
@@ -40,6 +38,7 @@ labels:
   - Musik
   - Trip Hop
 ---
+
 **Dave Pen habe ich 2004 das erste Mal kurz nach seinem Einstieg bei Archive live auf der Bühne gesehen. Die Musik seiner beiden Projekte Archive und BirdPen fasziniert mich jedes Mal aufs Neue. Jede neue Platte holt mich genau da ab, wo ich mich in meinem gerade aktuellen Lebensabschnitt befinde. Beide Bands sind aus meiner Plattensammlung nicht mehr wegzudenken.**
 
 Dave Pen und Mike Bird aka BirdPen haben vor Kurzem die zweite Auskopplung ihres für März anstehenden neuen Albums "All Function One" veröffentlicht (Ihr findet sie in der [Musikliste für den Februar](/2021/01/musikliste-fuer-den-februar-2021/) ). Während die Spannung auf das Gesamtwerk steigt, habe ich mich mit dem Sänger und Gitarristen über die Produktion der insgesamt 12 neuen Songs, seine Erfahrungen mit BirdPen und Archive und das Musiker\*innenleben während der Pandemie unterhalten.

@@ -44,7 +44,7 @@ Ihre Geschichte ist eng mit der der Menschen verwoben, sie begleiten uns schon s
 
 ## Warum sind Stadttauben Stadttauben
 
-Zur Ansiedlung der Tauben in den Städten kam es durch verschiedene Umstände. Dafür macht es Sinn, ein Bisschen auszuholen. Schon in frühen Schriften um ca. 6.000 v. Chr. wurden Tauben namentlich als Haustiere erwähnt.
+Zur Ansiedlung der Tauben in den Städten kam es durch verschiedene Umstände. Dafür macht es Sinn, ein bisschen auszuholen. Schon in frühen Schriften um ca. 6.000 v. Chr. wurden Tauben namentlich als Haustiere erwähnt.
 
 Ab dem Mittelalter wurden sie dann auch geschlachtet und verzehrt. Züchter sorgten dafür, dass sie bis zu sechs Mal im Jahr eine Brut aufziehen können. Der Bestand explodierte regelrecht.
 
@@ -137,5 +137,3 @@ Wer sich gerne informieren möchte, findet alle Infos über den Hamburger Stadtt
 [](http://www.hamburgerstadttauben.de/)
 
 **Banner:** Hamburger Stadttauben
-
-&nbsp;

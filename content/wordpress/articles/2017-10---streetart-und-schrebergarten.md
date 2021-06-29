@@ -83,7 +83,7 @@ Was war das? Charly horchte auf, hielt in seinem Lauf inne. Ein Eichhörnchen. S
 
 "Es war ein schöner Tag", schrieb sie am Abend in ihr Tagebuch. Sie streichelte Charly, der in seinem Körbchen lag über den Kopf.
 
-"Sei schön artig, mein Kleiner. Wenn wir morgen ein Bisschen Zeit haben, gehen wir wieder zusammen in den Park."
+"Sei schön artig, mein Kleiner. Wenn wir morgen ein bisschen Zeit haben, gehen wir wieder zusammen in den Park."
 
 Im Nebenraum hörte sie ihre Mutter schnarchen. Zum Glück war sie endlich eingeschlafen. Es konnte manchmal Stunden dauern, wenn sie einen dieser Schübe hatte. Tagsüber war sie müde. Manchmal schaffte sie es kaum vom Bett aufs Sofa. Und abends hatte sie dann Mühe einzuschlafen.
 

@@ -1,8 +1,6 @@
 ---
 ogTitle: 'God Is An Astronaut – "Ghost Tapes #10" – Review'
-excerpt: 'Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr zehntes
-  Album "Ghost Tapes #10". Ich habe die Platte gehört und spannende Details
-  entdeckt.'
+excerpt: 'Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und spannende Details entdeckt.'
 ogImage: /img/god-is-an-astronaut-ghost-tapes-fb.png
 isAffiliate: false
 path: /2021/02/god-is-an-astronaut-ghost-tapes-10-review/
@@ -21,18 +19,17 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01
 title: 'God Is An Astronaut – "Ghost Tapes #10"'
 subTitle: Düsterer durchdachter Post-Rock
 seoTitle: 'God Is An Astronaut – "Ghost Tapes #10" – Review'
-description: 'Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr
-  zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und spannende
-  Details entdeckt.'
+description: 'Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und spannende Details entdeckt.'
 language: de
 type: Artikel
 labels:
   - Bands
-  - "Ghost Tapes #10"
+  - 'Ghost Tapes #10'
   - God Is An Astronaut
   - Jo Quail
   - Post-Rock
 ---
+
 **Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und dabei einige interessante Details entdeckt.**
 
 Diesen Moment habe ich sehnsüchtig erwartet. Heute steht sie endlich in den Plattenläden: die neue Scheibe von God Is An Astronaut.

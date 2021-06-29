@@ -120,7 +120,7 @@ Ich habe mich jetzt mit Stiftungsgründerin Iris Koczwara und Restaurantfachfrau
 
 **Janina:** Ist es nicht der Traum von uns allen? Ich glaube, dass sich eigentlich jeder liebevolle Mensch danach sehnt, die Generationen wieder zu vereinen. Wir lernen doch auch alle voneinander.
 
-**Anne:** Erzählt mir noch ein Bisschen was über den Hof. Was genau muss man sich darunter vorstellen?
+**Anne:** Erzählt mir noch ein bisschen was über den Hof. Was genau muss man sich darunter vorstellen?
 
 **Iris:** Wir suchen im nahen Umkreis von Dorsten ein Grundstück ohne Bodenbelastung von mindestens 10.000 qm. Gerne auch mit Nutzgebäuden. Wir möchten Tieren eine Heimat geben, die zu alt oder gehandicapt für eine Vermittlung sind oder ein zu schlechtes Leben fristen mussten, um sie unter akzeptablen Umständen vermitteln zu können. Betreut werden die Tiere von einer ehrenamtlichen Fachkraft pro Tierart und unseren Tierschützern.
 
@@ -234,9 +234,3 @@ IBAN DE 1442 6501 5000 9024 6661BIC WELADED1REK Sparkasse Vest Recklinghausen
     },
   ]}
 />
-
-Merken
-
-Merken
-
-Merken

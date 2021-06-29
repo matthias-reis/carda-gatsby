@@ -41,7 +41,7 @@ subTitle: Eine Seite aus dem Tagebuch
 
 Dass ich derzeit [auf Themensuche bin](/2016/11/aufruf-themen-gesucht/), habe ich Euch schon erzählt. Allerdings habe ich auch nicht tatenlos rumgesessen. Unter anderem bin ich seit Kurzem Textchefin beim Welt Vegan Magazin, für das ich auch schon seit einiger Zeit regelmäßig Artikel liefere.
 
-Für die nächste Ausgabe, die in Kürze erscheinen wird, habe ich schon alle Texte überarbeitet. Ich bin sehr gespannt auf das fertige Heft und gebe Euch natürlich sofort Bescheid, wenn es im Handel ist. Stolz wie Bolle bin ich, dass ich nun "richtig dazugehöre", das gebe ich hiermit zu! :-)
+Für die nächste Ausgabe, die in Kürze erscheinen wird, habe ich schon alle Texte überarbeitet. Ich bin sehr gespannt auf das fertige Heft und gebe Euch natürlich sofort Bescheid, wenn es im Handel ist. Stolz wie Bolle bin ich, dass ich nun "richtig dazugehöre", das gebe ich hiermit zu!
 
 Zusätzlich zu meiner freien Tätigkeit habe ich vor Kurzem wieder angefangen, in meinem Ausbildungsberuf zu arbeiten. Nach zwei Monaten an der Kasse eines Drogeriemarktes habe ich den Arbeitgeber gewechselt und bin nun in einem Laden, in dem ich mich sehr wohl fühle. Das Team ist toll, die Produkte sind toll und die Philosophie ist toll. Ich habe Spaß bei der Arbeit und vermisse sie sogar zwischendurch, wenn ich mal länger frei habe. Ein toller Hauptjob.
 
@@ -51,6 +51,4 @@ Da ich im Geschäft derzeit nicht in Vollzeit arbeite, bin ich natürlich nach w
 
 Die Feiertage über werden wir dieses Jahr in Hamburg bleiben. Bestimmt wird dann auch endlich mal wieder Zeit für Fotostrecken sein, die ich mit Euch teilen kann.
 
-Bis dahin wünsche ich Euch eine tolle Zeit, passt auf Euch auf und gebt Euch nicht allzu doll dem vorweihnachtlichen Konsum hin. ;-)
-
-_Ich herze Euch!_
+Bis dahin wünsche ich Euch eine tolle Zeit, passt auf Euch auf und gebt Euch nicht allzu doll dem vorweihnachtlichen Konsum hin.

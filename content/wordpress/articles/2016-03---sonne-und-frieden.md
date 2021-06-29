@@ -49,7 +49,7 @@ month: '03'
 
 Traurig, was sich dieser Tage abspielt. Erschreckend. Furchteinflößend. Wie sich Lager gegenseitig aufstacheln, die sich nicht mal kennen. Menschen verlieren ihr Leben.
 
-Wie ich es neulich schon in Twitter geschrieben habe "Was ist nur los mit dieser Welt". Wir sollten uns langsam mal besinnen. Denn wir haben nur diese eine. Mir fehlen derzeit wirklich die Worte. Die schlauen Texte überlasse ich also gerne anderen und schicke Euch zu Ostern nur ein Bisschen Sonne. Für mehr fehlt die Kraft. Die Bilder zum Gedicht habe ich aus meiner Sammlung ausgesucht. Ich finde, sie passen.
+Wie ich es neulich schon in Twitter geschrieben habe "Was ist nur los mit dieser Welt". Wir sollten uns langsam mal besinnen. Denn wir haben nur diese eine. Mir fehlen derzeit wirklich die Worte. Die schlauen Texte überlasse ich also gerne anderen und schicke Euch zu Ostern nur ein bisschen Sonne. Für mehr fehlt die Kraft. Die Bilder zum Gedicht habe ich aus meiner Sammlung ausgesucht. Ich finde, sie passen.
 
 <blockquote>
 

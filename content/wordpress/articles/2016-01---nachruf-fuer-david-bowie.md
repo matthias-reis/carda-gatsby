@@ -106,6 +106,6 @@ Musiker weltweit nehmen Abschied von David Bowie, der Legende, die ihre Heimat s
 
 > I, I wish you could swim like the dolphins like the dolphins can swim.
 
-## Hier ist für Euch David Bowie mit Ziggy Stardust
+## David Bowie – "Ziggy Stardust"
 
 <YouTube id="XXq5VvYAI1Q" />

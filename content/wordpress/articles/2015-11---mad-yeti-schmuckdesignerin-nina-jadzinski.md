@@ -38,7 +38,7 @@ subTitle: '"Ich möchte Schmuck für Veganer machen!"'
 <RemoteImage
   alt={`Mein Kohlköpfchen`}
   size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_Der-Herzmann-und-ich-320__m.jpg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_Der--und-ich-320__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_Der-Herzmann-und-ich-320__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABwgEBQEDBv/EACoQAAEDAgUEAQQDAAAAAAAAAAECAwQFEQAGEiExBxNBUSIUFXGBMkJh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQBAv/EACMRAAIBAwMEAwAAAAAAAAAAAAECAwAEERITYQUxQXFRgcH/2gAMAwEAAhEDEQA/AFvZQVEYlfTgpseCPOMMJ4wZOlOU6ZVIDb8hsrfeZW4e8boJQTYJtwDcc+R+MS3l2lpHuOM+q5mmEK5Pqh4imxp1BXVaut1lTbnYbcYSCuWQBsQdgQP7efWxxQTJquwYsNpMSIbakIN1u28uL5V+Nk+hhpcy5LoaoRgCAkRbIUnt6my2SLpJ8X1LUALXNz53wuOcKGaFV3YmoLQbqQoHewUUkH9pOI7HqkV27RAEMPB/KxLlXbRjBon5VoGWZlTNaVTWmqNPkppNGiuJKxIcsQqQoK33sTvxYnm2Ob6YdQncnvFpcZmQyQtAbeWUpIN9r8A7nnnEh+soqPWPK9KpwH2ujzmIMZtI+J0LAWbebkEX8gYG01Ta5MhIALZdXYH1qOHSHdGJOCOPj7p50VximJrPWuG813odEXGlttWbfekAhnbcpHA/w2vhea/mB+tVh2S+rWk/FG1rJFzt+yT73xWuMIItrVb0TcY1aUo/jcn3hIbRYnMncmgSPSdROTX/2Q=="
 />

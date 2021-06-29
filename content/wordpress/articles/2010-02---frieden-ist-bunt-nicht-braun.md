@@ -38,5 +38,3 @@ Der Zug führte am Hofgarten vorbei Richtung Dom, von dort aus zum Brechthaus un
 Außerdem war ein breitgefächertes Programm mit **Livemusik** geboten. Zum Glück spielte das Wetter mit, warscheinlich trug auch das dazu bei, daß die Demo gut besucht war. Ziel der Veranstaltung war es ein Zeichen zu setzen, daß Neonazis keine Chance haben in der Friedensstadt Augsburg. Das Motto lautete: Frieden ist bunt, nicht braun!
 
 <Gallery name="flickr/friedenauxanne" />
-
-&nbsp;

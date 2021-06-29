@@ -67,7 +67,7 @@ Aber es gibt ja so viel zu tun. Über den plötzlichen, unvorhersehbaren Wintere
 
 Man sollte darüber auf jeden Fall mal intensiv nachdenken. Einfach mal jemanden vorlassen. Etwas mehr Obst essen. Eine Petition unterschreiben. Den Fernseher ausmachen.
 
-Vielleicht ist es ja dann draußen schon wieder ein kleines Bisschen wärmer.
+Vielleicht ist es ja dann draußen schon wieder ein kleines bisschen wärmer.
 
 ## Song des Tages: PJ Harvey/Tom Yorke – "This Mess We´re In"
 

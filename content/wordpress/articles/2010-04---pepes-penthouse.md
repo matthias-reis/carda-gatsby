@@ -106,7 +106,3 @@ _ [Filmtrailer](http://www.youtube.com/watch?v=sNZie7PqxVc) Speer des Schicksals
     },
   ]}
 />
-
-&nbsp;
-
-&nbsp;

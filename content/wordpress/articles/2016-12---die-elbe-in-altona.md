@@ -48,5 +48,3 @@ Sachen in einem Baum findet man übrigens auch unten an der Waterkant. Der sogen
 Ich wünsche Euch noch eine schöne Vorweihnachtszeit!
 
 <Gallery name="flickr/anneelbeinaltona" />
-
-&nbsp;

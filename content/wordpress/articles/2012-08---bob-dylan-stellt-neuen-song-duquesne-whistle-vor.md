@@ -59,7 +59,7 @@ Wunderbar bluesig kommt sie daher, Dylans neue Nummer "Duquesne Whistle".  Sie 
 
 Die Band bietet ein perfektes Zusammenspiel, bei dem man auch mal ein zusätzliches Instrument erahnen kann. Ziemlich treffend formulierte es npr music mit dem Satz 'The electric guitars sound almost like clarinets! Everybody is swinging!'
 
-Zum Ende des Songs hin geht das Ganze sogar ein Bisschen in Richtung Dixieland.
+Zum Ende des Songs hin geht das Ganze sogar ein bisschen in Richtung Dixieland.
 
 Über allem schwebt die erfahrene, rauchige Stimme des Herrn Dylan. Fast schon ein wenig Waitsesk, man hört, dass man ihm musikalisch nichts mehr vormachen kann. Er klingt angenehm, man lauscht ihm gerne, die Spannung auf das für September angekündigte Album steigt ins Unermessliche.
 

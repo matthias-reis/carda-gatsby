@@ -93,11 +93,3 @@ Mehr erfahrt Ihr auf der Seite des National Observer. Dazu könnt Ihr einfach a
 Quelle und Screenshot: [National Observer](http://www.nationalobserver.com/2017/02/10/news/meet-vegan-saudi-prince-whos-turning-lights-jordan)
 
 Foto: [Wajahat Mahmoot](https://www.flickr.com/photos/26116471@N03/), Flickr Creative Commons "The Sun Is A Painter"
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

@@ -81,7 +81,3 @@ Die Bananen mit dem Stabmixer pürieren und nach und nach die Apfelsüße, das B
 Etwas Kokosöl auf das Waffeleisen geben und erhitzen. Mit dem Löffel den Teig auf das Eisen träufeln und Waffeln ausbacken. Zwischendurch das gefrorene Obst in der Mikrowelle erwärmen.
 
 Die fertigen Bananenwaffeln mit Zimt und Zucker bestäuben und zusammen mit dem Obst servieren.
-
-Guten Appetit! &lt;3
-
-<FestivalList />

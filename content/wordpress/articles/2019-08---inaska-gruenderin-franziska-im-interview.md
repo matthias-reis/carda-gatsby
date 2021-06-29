@@ -148,6 +148,6 @@ Hier könnt Ihr Euch [die Bikinis aus dem Hause INASKA aus der Nähe ansehen](/2
 
 [Zum Onlineshop geht es hier entlang](https://www.inaska-swimwear.com/?gclid=EAIaIQobChMInJzc1_f_4wIVked3Ch0-xQnjEAAYASAAEgIIevD_BwE).
 
-Hier sind für Euch Two Magics mit "Glücklich wie die Kinder"
+## Two Magics – "Glücklich wie die Kinder"
 
 <YouTube id="FsRc42IwLRo" />

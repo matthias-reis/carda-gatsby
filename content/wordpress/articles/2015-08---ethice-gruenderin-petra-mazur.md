@@ -105,7 +105,7 @@ Verkauft werden in Petras Shop u. a. Taschen, Rucksäcke und PKW-Folien mit Tier
 
 ## Die meisten Menschen sind noch fähig Mitgefühl zu empfinden
 
-**Anne:** Erzähl mir ein Bisschen was über Euer Konzept!
+**Anne:** Erzähl mir ein bisschen was über Euer Konzept!
 
 <RemoteImage
   alt={`Schweine auf dem Weg zum Schlachter`}

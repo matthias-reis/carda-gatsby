@@ -45,9 +45,9 @@ Ich hatte zur Sicherheit mal meine kleine Hosentaschenkamera eingepackt, falls m
 
 ## Der Hafen zeigte sich von seiner rauen Seite
 
-Von seiner rauen Seite zeigte sich der Hafen dieses Mal, ganz anders, als bei unserer wunderschönen letzten [Hafenrundfahrt](/2015/07/sommer-im-hamburger-hafen/) im Sommer 2015. Die Elbe war aufgewühlt, wir hatten sogar fast ein Bisschen Seegang. Nur ein paar besonders tapfere Sturmmöwen zogen ihre Kreise, die meisten hatten sich irgendwo versteckt. Für mich natürlich kein Grund, nicht auf das Dach der Barkasse zu klettern und von dort aus wild in der Gegend herum zu knipsen.
+Von seiner rauen Seite zeigte sich der Hafen dieses Mal, ganz anders, als bei unserer wunderschönen letzten [Hafenrundfahrt](/2015/07/sommer-im-hamburger-hafen/) im Sommer 2015. Die Elbe war aufgewühlt, wir hatten sogar fast ein bisschen Seegang. Nur ein paar besonders tapfere Sturmmöwen zogen ihre Kreise, die meisten hatten sich irgendwo versteckt. Für mich natürlich kein Grund, nicht auf das Dach der Barkasse zu klettern und von dort aus wild in der Gegend herum zu knipsen.
 
-In dieser tollen Stadt ist man eben immer ein Bisschen im Urlaub. Auch, wenn man hier wohnt. Danke, Hamburg! &lt;3
+In dieser tollen Stadt ist man eben immer ein bisschen im Urlaub. Auch, wenn man hier wohnt. Danke, Hamburg!
 
 <Gallery name="flickr/annehafenrundfahrt012016" />
 

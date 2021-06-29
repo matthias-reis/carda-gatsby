@@ -6,7 +6,7 @@ title: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
 seoTitle: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
 ogTitle: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
 description: Heute zeige ich Euch meine erste Nähanleitung für ein Minikleid. Ihr könnt es ganz leicht nachnähen. Ich bin gespannt, wie es Euch gefällt.
-excerpt: Ich hatte ein Bisschen Zeit und so kam ich dazu, mir meinen ersten Schnitt für ein Kleid auszudenken. Ich mag es sehr und möchte Euch daher gerne zeigen, wie es entstanden ist.
+excerpt: Ich hatte ein bisschen Zeit und so kam ich dazu, mir meinen ersten Schnitt für ein Kleid auszudenken. Ich mag es sehr und möchte Euch daher gerne zeigen, wie es entstanden ist.
 fileName: 2015-10---diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__l.jpg
@@ -41,7 +41,7 @@ errors: {}
 subTitle: Nähanleitung One Size (34 - 42)
 ---
 
-**Ich hatte ein Bisschen Zeit und so kam ich dazu, mir meinen ersten Schnitt für ein Kleid auszudenken. Ich mag es sehr und möchte Euch daher gerne zeigen, wie es entstanden ist.**
+**Ich hatte ein bisschen Zeit und so kam ich dazu, mir meinen ersten Schnitt für ein Kleid auszudenken. Ich mag es sehr und möchte Euch daher gerne zeigen, wie es entstanden ist.**
 
 ## Vorab ein paar kleine Anmerkungen:
 
@@ -110,7 +110,7 @@ Stellt nun Eure Nähmaschine auf einen größeren Zickzackstich, Profinähmaschi
 
 Im nächsten Schritt werden die Säume umgenäht. Dazu faltet Ihr den Halsausschnitt und die Armlöcher sowie den unteren Saum (siehe Markierungen in der Zeichnung) je zwei mal ca. 0,75 cm nach innen um, steckt sie fest und näht sie anschließend mit je zwei Nähten in einem feinen Steppstich fest.
 
-Theoretisch könnt Ihr das natürlich auch im Zickzack-Stich mit einem kontrastfarbigen Garn machen, wenn Euch das gefällt, der Phantasie sind keine Grenzen gesetzt. Hauptsache, Ihr verriegelt die Nähte, damit später nichts aufgeht! :-) Ich habe zuerst eine füßchenbreite Naht und danach noch eine sehr nah am inneren Rand gesetzt, dann sieht alles schön sauber aus.
+Theoretisch könnt Ihr das natürlich auch im Zickzack-Stich mit einem kontrastfarbigen Garn machen, wenn Euch das gefällt, der Phantasie sind keine Grenzen gesetzt. Hauptsache, Ihr verriegelt die Nähte, damit später nichts aufgeht! Ich habe zuerst eine füßchenbreite Naht und danach noch eine sehr nah am inneren Rand gesetzt, dann sieht alles schön sauber aus.
 
 Beim Feststecken des unteren Saumes fangt Ihr am besten in der Mitte an und arbeitet Euch zu den Seiten vor, dann kommt Ihr mit der Rundung besser klar und es verzieht sich nichts. Richtet Euch ungefähr nach den eingezeichneten Markierungen in meinem Foto, am besten übertragt Ihr Euch die mit der Schneiderkreide auf den Stoff.
 

@@ -137,8 +137,6 @@ Viel weniger lautlos sind die Dampfwalzen und Bagger, die jetzt jeden Morgen ab 
 
 Die beste E-Mail des Tages endete mit den Worten 'Diese Mail hat keine Bedeutung und kann bedenkenlos gelöscht werden.'. Ich finde das zauberhaft. Das muss ich mir auf jeden Fall merken.
 
-Um Ermüdungserscheinungen unter meinen Lesern zu vermeiden, endet dieser Text hier. Recht ♥lichen Dank für die Aufmerksamkeit. Ich werde mich bald mit hoffentlich spannenderen Themen zurückmelden.
-
-_ \_\_\_\_ _ **Zum Aufwachen (und Aufwärmen) sind hier für Euch die DEFTONES mit 'Bored'**
+##  Deftones – "Bored"
 
 <YouTube id="-WdYo3WlETY" />

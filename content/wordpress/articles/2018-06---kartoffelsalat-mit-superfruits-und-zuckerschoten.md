@@ -95,8 +95,6 @@ Presst die Zitrone aus und gebt den Saft und den Abrieb zusammen mit einem groß
 
 Schneidet die Zuckerschoten in Rauten, bratet sie kurz mit Olivenöl in der Pfanne an und lasst sie etwas abkühlen. Gebt die Kartoffeln zu Eurem Salat hinzu und vermischt alles. Anschließend hebt Ihr noch die Zuckerschoten sowie die Superfruits unter und schmeckt den Salat mit Pfeffer und Salz ab.
 
-Guten Appetit! &lt;3
-
 <RemoteImage
   alt={`Kartoffelsalat`}
   size="full"

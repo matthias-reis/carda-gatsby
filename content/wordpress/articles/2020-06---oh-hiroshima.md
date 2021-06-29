@@ -1,39 +1,37 @@
 ---
 date: 2020-06-27T13:54:37+02:00
 slug: oh-hiroshima-interview
-path: "/2020/06/oh-hiroshima-interview/"
+path: '/2020/06/oh-hiroshima-interview/'
 type: Artikel
 typeName: Interview
 title: Oh Hiroshima
 seoTitle: Oh Hiroshima - Interview mit der schwedischen Post-Rock Band
 ogTitle: Oh Hiroshima - Interview mit der schwedischen Post-Rock Band
-description: Wer schwedischen Post-Rock liebt, kommt an Oh Hiroshima nicht vorbei.
-  Ich hatte jetzt das Glück, die Band bei einem Interview besser kennenzulernen.
-excerpt: Wer schwedischen Post-Rock liebt, kommt an Oh Hiroshima nicht vorbei. Ich
-  hatte jetzt das Glück, die Band bei einem Interview besser kennenzulernen.
+description: Wer schwedischen Post-Rock liebt, kommt an Oh Hiroshima nicht vorbei. Ich hatte jetzt das Glück, die Band bei einem Interview besser kennenzulernen.
+excerpt: Wer schwedischen Post-Rock liebt, kommt an Oh Hiroshima nicht vorbei. Ich hatte jetzt das Glück, die Band bei einem Interview besser kennenzulernen.
 fileName: 2020-06---oh-hiroshima.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_OH-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_OH-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAT/xAArEAACAQMDAwMCBwAAAAAAAAABAgMABBEFEiEGMUEiUaETgQcUFlJisfD/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRIWH/2gAMAwEAAhEDEQA/AKfR+qI0/Ji5uSheACOVnydxZSQB96rG6rtLLUb2WbUImga3jZFOeWL4wMA84MfA59Q96zXfdTjT59ONthxbxhf3DH0jkf1Szo3qe9mtNV1G/v5jcwwySQKG2xqVRD2A/iij2796zLFhQpvTSOodTWtziS2lIjKGUsrYG3djBA85x81y/rCxtbZ4o5Bn6ixMGfIViwX/AHes93f4m3l1pRtzDbiNy0m5EOdzD1E5Y4OeTjg4B80t1fWpruaSUyDbMN4wfOBj5BpXQlwnmWUkku/I7n2rlsLpLbS9ZhKuJZwqRkDggN6lPwftRRTV4AtjBYMg84AyccnxT2NSkYUHgDbRRULP/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_oh-hiroshima-fb.png__l.jpg
 labels:
-- Bands
-- Dunk Festival
-- Dunk Records
-- DUNK!festival
-- DUNK!records
-- English & German
-- Interviews
-- Magnus Lindberg
-- Napalm Records
-- Oh Hiroshima
-- Post-Rock
-- Schweden
-- Sverige
-- Sweden
-- Swedish Post-Rock
-- VIVID Festival
-- VIVID Post-Rock
+  - Bands
+  - Dunk Festival
+  - Dunk Records
+  - DUNK!festival
+  - DUNK!records
+  - English & German
+  - Interviews
+  - Magnus Lindberg
+  - Napalm Records
+  - Oh Hiroshima
+  - Post-Rock
+  - Schweden
+  - Sverige
+  - Sweden
+  - Swedish Post-Rock
+  - VIVID Festival
+  - VIVID Post-Rock
 focusKeyword: Oh Hiroshima
 status: publish
 isWerbung: false
@@ -41,9 +39,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Die Drums haben wir in einer Kirche aufgenommen"'
-languageLink: "/2020/06/oh-hiroshima-interview-en"
-
+languageLink: '/2020/06/oh-hiroshima-interview-en'
 ---
+
 **Wer schwedischen Post-Rock liebt, kommt an Oh Hiroshima nicht vorbei. Ich hatte jetzt das Glück, die Band bei einem Interview mit Sänger Jakob besser kennenzulernen.**
 
 Erst im Dezember haben Oh Hiroshima ihr aktuelles Album "Oscillation" fertiggestellt. Darauf verknüpfen die Soundkünstler gekonnt abstraktes Gitarrenspiel mit elektronischen Klängen. Perfektioniert wurde das Werk von Producer und Cult Of Luna Drummer Magnus Lindberg.
@@ -53,11 +51,11 @@ Erst im Dezember haben Oh Hiroshima ihr aktuelles Album "Oscillation" fertiggest
 ## "Die Zeit wird zeigen, ob Schwedens Strategie richtig war"
 
 <RemoteImage
-alt={`Oh Hiroshima`}
-size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_OH-6__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_OH-6__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHAQb/xAApEAABBAAFAwMFAQAAAAAAAAABAgMEEQAFBhIhFDFBBxNRFRYiI0Jh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBHTjWtmc3bdZ1LlrFn9khyOVFqrTYbKf8ACMWNOYQejQw5qWV1FAGSllAWDxdJ9vbV+NuJrCjycv0JryTEWmJIRHZWw6w0EKbKllJIPcGj47GyOcSP69qYsF37tzmwrbfWH4v4xEVLUbutGZjrv3XlUxsCkPqgoSpYCbrYB3AHx4wYx5M+Z6TaPdlvfUZrsySHXZSfcUsAqAs9zwSO/PF3QwYDM9z+Ll+hNXsuJcV1wjRWnE0E7ypSvJ7Uk8jE4amNRmGXZ74hw5AWUPuAlDhQDSQB3O7i/F4a1VpPUmrGpC48JERMaUG2USv1uOIU1a1bt1EJIAsJ/ocmiBycjIs7XmHsxMtZS9GoKWCl9DqtxAWUqKkg0odgB+N1gLllWYRHPSzSfVw3JEVybKSlSHy3zZVuBR+WDCuU5Y9lfpjp/JtqpM6BOdW6EGtqXE2K+eeOLwYD/9k="
+  alt={`Oh Hiroshima`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_OH-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_OH-6__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHAQb/xAApEAABBAAFAwMFAQAAAAAAAAABAgMEEQAFBhIhFDFBBxNRFRYiI0Jh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBHTjWtmc3bdZ1LlrFn9khyOVFqrTYbKf8ACMWNOYQejQw5qWV1FAGSllAWDxdJ9vbV+NuJrCjycv0JryTEWmJIRHZWw6w0EKbKllJIPcGj47GyOcSP69qYsF37tzmwrbfWH4v4xEVLUbutGZjrv3XlUxsCkPqgoSpYCbrYB3AHx4wYx5M+Z6TaPdlvfUZrsySHXZSfcUsAqAs9zwSO/PF3QwYDM9z+Ll+hNXsuJcV1wjRWnE0E7ypSvJ7Uk8jE4amNRmGXZ74hw5AWUPuAlDhQDSQB3O7i/F4a1VpPUmrGpC48JERMaUG2USv1uOIU1a1bt1EJIAsJ/ocmiBycjIs7XmHsxMtZS9GoKWCl9DqtxAWUqKkg0odgB+N1gLllWYRHPSzSfVw3JEVybKSlSHy3zZVuBR+WDCuU5Y9lfpjp/JtqpM6BOdW6EGtqXE2K+eeOLwYD/9k="
 />
 
 **Jakob:** Hej! Danke auch Dir! Uns geht es gut, auch wenn alles im Moment etwas anders ist durch die ganze COVID-Situation. Schweden hat natürlich auch damit zu tun, aber die Regierung fährt eine etwas andere Strategie, als die meisten Länder. Es hat bei uns nie einen Lockdown oder etwas in der Art gegeben. Bei uns gibt es grundsätzlich viel Vertrauen in die Autoritäten. Sie haben das Konzept mit diesem Gedanken im Hinterkopf ausgearbeitet, denke ich. Es gab hier neben umfassenden Empfehlungen und Vertrauen in die soziale Verantwortung jedes Einzelnen nur ein paar kleinere Regulierungen. Ob diese Strategie vorteilhaft ist, wird die Zeit zeigen, denke ich.
@@ -81,11 +79,11 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 ## "Wir haben auf dem ersten VIVID gespielt"
 
 <RemoteImage
-alt={`Oh Hiroshima`}
-size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_OH-7__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_OH-7__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQI/8QALRAAAgEDBAECAgsAAAAAAAAAAQIDBAURAAYSITEHQWGBCBMUFRYiIzJRkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAZEQEBAQADAAAAAAAAAAAAAAABABECEiH/2gAMAwEAAhEDEQA/AHyffdh2LvC/1W4qyRK6qp4f0lXk8nHlxYAZAGDnOce3w1MPT7cVkpxffxBuK4VNA1VDPTw3GpkcOpSdkcEnPJiFDEY8j5J30nq1KjetEtNPFNA1spz9ZE4dWYDiRkddEH551LKq4S1NBR0wMax0yFcABeWWZsn+SOR1nrplcXL3DbV2redhWrce5Xs1wp46RBLcagrwTvtCQeiGPHHnOp9YJdn1V1uccse3LlBK6yUKx0UUbCM5yQP3Fe1H5hkEHOo/Y7Vuuo9NWsEMEdPbK+6wVSST1CRq7MjIMZOSMhSeusKdKFhSai3JRkgK8FSoZgfcHBwfcdedCWg8bv8AUOhoIaylp9u10FytVHTKi1MZVS7FmZiyeQctjwPGlykuT0lIYY4Iyr9sx5Zb/cf1o0aR2ky3afd8cdo+xC0wLJyVhPFIUbrwMDrz3rL++OLFoYCs4OVJbkB8dGjThGpf/9k="
+  alt={`Oh Hiroshima`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_OH-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_OH-7__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQI/8QALRAAAgEDBAECAgsAAAAAAAAAAQIDBAURAAYSITEHQWGBCBMUFRYiIzJRkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAZEQEBAQADAAAAAAAAAAAAAAABABECEiH/2gAMAwEAAhEDEQA/AHyffdh2LvC/1W4qyRK6qp4f0lXk8nHlxYAZAGDnOce3w1MPT7cVkpxffxBuK4VNA1VDPTw3GpkcOpSdkcEnPJiFDEY8j5J30nq1KjetEtNPFNA1spz9ZE4dWYDiRkddEH551LKq4S1NBR0wMax0yFcABeWWZsn+SOR1nrplcXL3DbV2redhWrce5Xs1wp46RBLcagrwTvtCQeiGPHHnOp9YJdn1V1uccse3LlBK6yUKx0UUbCM5yQP3Fe1H5hkEHOo/Y7Vuuo9NWsEMEdPbK+6wVSST1CRq7MjIMZOSMhSeusKdKFhSai3JRkgK8FSoZgfcHBwfcdedCWg8bv8AUOhoIaylp9u10FytVHTKi1MZVS7FmZiyeQctjwPGlykuT0lIYY4Iyr9sx5Zb/cf1o0aR2ky3afd8cdo+xC0wLJyVhPFIUbrwMDrz3rL++OLFoYCs4OVJbkB8dGjThGpf/9k="
 />
 
 **Jakob:** Ich bin nicht so vertraut mit vielen Post-Rock Events aber wir haben vor ein paar Jahren auf dem VIVID in Norwegen gespielt. Es war das erste Jahr des Festivals und es war wirklich großartig. Wir hatten eine gute Zeit dort. Es ist klasse, wenn uns Leute zuhören, die die Musik verstehen und zu schätzen wissen, was man zu tun versucht. Ich glaube, dass diese Art Events für alternativere Musikrichtungen mit einer kleineren Zuhörerschaft besonders wichtig sind.
@@ -115,11 +113,11 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 ## "Mein Schwiegervater hat die Trompete für 'Darkroom Aesthetics' gespielt"
 
 <RemoteImage
-alt={`Oh Hiroshima`}
-size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_OH-4__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_OH-4__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBQIEBgj/xAArEAACAQMCBgECBwAAAAAAAAABAgMEBREAIQYHEhMiQTEUYTJRUnGRscH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AGLbnEleMOC4w7J1eWMYJx+WdS369xWSKBng7s03cZUEnbyqAFtyDv5AAez7GkhPzZsFLxma6CjnqYIzJH9XGgjkZHRQzfHkgZdgxHzsBqo5lcyq688WTLaamEW6hhlpqVlQ5dZY165Cc5zkbehgbaD0eJkrKCOWn8oJlSaOTGMqy5X+QRrl4+IYa+tuNop6WrSSCMsZKlAsbgP0sU9nfHz8g5GlHw/zbuFr5cNSlKOe40E8NBSPJHgCDtseplB8ivRj79QzqsoOal/SalesWCopAojqI28jKeokup2KHc7DI/wFnJaLjT2c3GajnjoO8YRUMuELg7oD7O2puw9HO8LfiUdJYZAONtvto0aDHsMaaWRV2EgUkfqOSP6OtuJleCnAQ+LBmJ/fRo1Ef//Z"
+  alt={`Oh Hiroshima`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_OH-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_05_OH-4__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBQIEBgj/xAArEAACAQMCBgECBwAAAAAAAAABAgMEBREAIQYHEhMiQTEUYTJRUnGRscH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AGLbnEleMOC4w7J1eWMYJx+WdS369xWSKBng7s03cZUEnbyqAFtyDv5AAez7GkhPzZsFLxma6CjnqYIzJH9XGgjkZHRQzfHkgZdgxHzsBqo5lcyq688WTLaamEW6hhlpqVlQ5dZY165Cc5zkbehgbaD0eJkrKCOWn8oJlSaOTGMqy5X+QRrl4+IYa+tuNop6WrSSCMsZKlAsbgP0sU9nfHz8g5GlHw/zbuFr5cNSlKOe40E8NBSPJHgCDtseplB8ivRj79QzqsoOal/SalesWCopAojqI28jKeokup2KHc7DI/wFnJaLjT2c3GajnjoO8YRUMuELg7oD7O2puw9HO8LfiUdJYZAONtvto0aDHsMaaWRV2EgUkfqOSP6OtuJleCnAQ+LBmJ/fRo1Ef//Z"
 />
 
 **Jakob:** Ja, der ist wirklich nett geworden. Er ist tatsächlich aus einer alten Aufnahme in unserem Proberaum entstanden. Sie stammt aus der frühen Schreibphase für "In Silence We Yearn" vor sechs oder sieben Jahren. Ich habe das Stück in unserer Sammlung aus alten Proberaumaufnahmen entdeckt. Ich mochte es wirklich gerne und dachte mir, dass es sicher möglich wäre, es in einen Song für das neue Album zu verwandeln. Wir haben also angefangen, zusammen daran zu arbeiten und es hat wirklich gut funktioniert. Uns gefällt der Gedanke, einen Song auf dem Album zu haben, der etwas kürzer und direkter rüberkommt. Dieser schafft das finde ich gut. Mein Schwiegervater Anders Hemström, der in einem schwedischen Kammerorchester Trompete spielt, hat die Trompete eingespielt. Wir haben bisher noch nie Blasinstrumente für unsere Songs genutzt und es hat wirklich Spaß gemacht.
@@ -165,4 +163,3 @@ Die schwedische Post-Rock Band Oh Hiroshima ist bereits seit 2009 aktiv. Gegrün
 Oh Hiroshima verknüpfen in ihrer Musik gekonnt elektronische Klänge mit abstraktem Gitarrenspiel. Jakobs Gesang rundet das Ganze ab.
 
 Seit ihrer Gründung haben Oh Hiroshima drei Alben und zwei EPs aufgenommen. Das aktuelle Album "Oscillation" wurde am 7. Dezember 2019 veröffentlicht. Heute besteht die Band aus Jakob Hemström (Gitarre und Gesang), Oskar Nilsson (Schlagzeug) und Simon Axelsson (Bass).
-

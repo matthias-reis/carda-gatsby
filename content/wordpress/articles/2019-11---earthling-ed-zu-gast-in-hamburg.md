@@ -1,7 +1,6 @@
 ---
 ogTitle: Earthling Ed in Hamburg - "Es ist OK, ein*e wütende*r Veganer*in zu sein"
-excerpt: Am Samstag hatten Anonymous For the Voiceless den veganen Aktivisten
-  Earthling Ed für einen Vortrag in einen Hamburger Coworking Space eingeladen.
+excerpt: Am Samstag hatten Anonymous For the Voiceless den veganen Aktivisten Earthling Ed für einen Vortrag in einen Hamburger Coworking Space eingeladen.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-2-1.png__l.jpg
 isAffiliate: false
 path: /2019/11/earthling-ed-zu-gast-in-hamburg/
@@ -18,9 +17,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11
 title: Earthling Ed zu Gast in Hamburg
 subTitle: '"Es ist OK, ein*e wütende Veganer*in zu sein!"'
 seoTitle: Earthling Ed in Hamburg - "Es ist OK, ein*e wütende*r Veganer*in zu sein"
-description: Am Samstag hatten Anonymous For the Voiceless den veganen
-  Aktivisten Earthling Ed für einen Vortrag in einen Hamburger Coworking Space
-  eingeladen.
+description: Am Samstag hatten Anonymous For the Voiceless den veganen Aktivisten Earthling Ed für einen Vortrag in einen Hamburger Coworking Space eingeladen.
 labels:
   - Anonymous For The Voiceless
   - AV

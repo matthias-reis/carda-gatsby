@@ -107,8 +107,6 @@ Und schließlich und endlich noch das Partywissen, welches ich mir, zwecks Aneig
 
 _Fulda                    106.000_ _Würzburg            133.000_ _Regensburg        135.520_ _Augsburg            265.000_ _Nürnberg            500.000_ _Stuttgart              600.000_ _Hamburg         1.800.000_ _München         2.600.000_ _Berlin                3.500.000_ _Los Angeles    3.831.868_ _London            7.825.200_ _Istanbul         13.200.000_ _New York      18.900.000_
 
-Das war´s jetzt aber für heute, erst wochenlang nichts und dann so ein Redeschwall. Sicher ist das jetzt ein ziemliches Durcheinander, das sind die Dinge, die ich in den letzten Tagen zusammengetragen habe. Recht herzlichen Dank für die Aufmerksamkeit an alle, die bis hierhin durchgehalten haben. Ich hoffe, wir lesen uns bald wieder, vielleicht ja auch bei Twitter. Als Belohnung für´s Lesen gibt es noch die Musik, die mich in den letzen Tagen beschäftigt hat:
+## Star Anna & The Laughing Dogs live on KEXP
 
 <YouTube id="x-FwFSJW7_k" />
-
-STAR ANNA &amp; THE LAUGHING DOGS live on KEXP

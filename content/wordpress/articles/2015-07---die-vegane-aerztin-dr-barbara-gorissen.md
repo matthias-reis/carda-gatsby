@@ -231,4 +231,3 @@ Wer gerne mehr über Frau Dr. Barbara Gorißen erfahren oder gerne mit Ihr in Ko
 
 **Portrait:** Barbara Gorißen privat **Gemüse/Nahrungsergänzungsmittel:** Selbst fotografiert **Tabletten:** [Taki Steve](http://Tabletten? Oder einfach), Flickr (Creative Commons) **Spritze/Pillen:** [qimono](https://pixabay.com/de/illustrations/spritze-pille-kapsel-morphin-nadel-1884784/), pixabay
 
-Merken

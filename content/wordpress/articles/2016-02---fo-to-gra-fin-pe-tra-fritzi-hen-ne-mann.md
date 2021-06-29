@@ -69,7 +69,7 @@ Bei "Down in Albion" habe ich natürlich an Dich und Matze denken müssen.
 
 **Anne:** Das Motto unserer Hochzeit! Und Du hast uns so toll begleitet! Das war wirklich schön!
 
-Deine Hochzeitsfotos sind etwas ganz Besonderes. Sie zeigen das Brautpaar in einem ganz natürlichen Licht, sie wirken lebendig und kein Bisschen gekünstelt. Das hängt auch mit Deiner ganz reizenden, netten Art zusammen. Du kannst Dich beim Fotografieren unheimlich gut in Deine Modelle hineinversetzen. Ist das besonders wichtig, wenn man als Fotografin arbeiten möchte?
+Deine Hochzeitsfotos sind etwas ganz Besonderes. Sie zeigen das Brautpaar in einem ganz natürlichen Licht, sie wirken lebendig und kein bisschen gekünstelt. Das hängt auch mit Deiner ganz reizenden, netten Art zusammen. Du kannst Dich beim Fotografieren unheimlich gut in Deine Modelle hineinversetzen. Ist das besonders wichtig, wenn man als Fotografin arbeiten möchte?
 
 > ## Sympathie und achtsamer Umgang sind mein Geheimrezept
 
@@ -265,7 +265,7 @@ So bekommen sie schon oft das richtige Gefühl, ob ich zu Ihnen und Ihrer Hochze
 
 Da merkt man dann gleich, wie man sich versteht und ob man den Hochzeitstag miteinander verbringen möchte. Ich finde das ist eine wichtige Grundlage, damit alle am Ende auch mit den Hochzeitsfotos glücklich sind.
 
-**Anne:** Das ist wirklich toll und wir haben es auch als sehr angenehm empfunden. Dann ist man gleich ein Bisschen lockerer, wenn man sich dann an dem aufregenden Tag trifft.
+**Anne:** Das ist wirklich toll und wir haben es auch als sehr angenehm empfunden. Dann ist man gleich ein bisschen lockerer, wenn man sich dann an dem aufregenden Tag trifft.
 
 Kann man Dich denn nach wie vor auch für andere Gelegenheiten buchen?
 
@@ -323,7 +323,7 @@ Ob sie geahnt hat, dass ich noch so viele Agfa SCALAsw-Diafilme im Keller habe, 
 
 **Petra:** (Überlegt) Die Frau Schokolinse habe ich ein wenig "eingeschmolzen" da ich mich ja hauptsächlich auf Hochzeiten konzentrieren wollte. Der Name war mir viel zu lieblich und blumig dafür und besser geeignet für die Familienbilder und Kinderfotos, die ich damals noch unter diesem Namen fotografiert habe.
 
-Meine alte Homepage im Schokolinsen-Stil existiert noch, ich habe sie nur versteckt. Noch konnte ich mich nicht ganz davon trennen. Irgendwo sind immer noch ein paar alte Visitenkarten im Umlauf und die Leute scheinen den Namen echt toll und passend zu finden. Insofern bin ich immer noch ein klitzekleines Bisschen die Frau Schokolinse.
+Meine alte Homepage im Schokolinsen-Stil existiert noch, ich habe sie nur versteckt. Noch konnte ich mich nicht ganz davon trennen. Irgendwo sind immer noch ein paar alte Visitenkarten im Umlauf und die Leute scheinen den Namen echt toll und passend zu finden. Insofern bin ich immer noch ein klitzekleines bisschen die Frau Schokolinse.
 
 **Anne:** Was würdest Du jeder Braut am Tag vor der Hochzeit raten?
 

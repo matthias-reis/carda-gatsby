@@ -1,37 +1,35 @@
 ---
 date: 2019-09-23T14:54:59+02:00
 slug: vinny-peculiar-interview
-path: "/2019/09/vinny-peculiar-interview/"
+path: '/2019/09/vinny-peculiar-interview/'
 type: Artikel
 typeName: Interview
 title: Singer-Songwriter Vinny Peculiar im Interview
 seoTitle: Singer-Songwriter Vinny Peculiar im Interview - "While You Still Can"
 ogTitle: Singer-Songwriter Vinny Peculiar im Interview - "While You Still Can"
-description: Ich habe mich mit Singer Songwriter Vinny Peculiar über sein neues Album
-  While You Still Can" unterhalten, dass bald erscheinen wird.
-excerpt: Ich habe mich mit Singer Songwriter Vinny Peculiar über sein neues Album
-  While You Still Can" unterhalten, das bald erscheinen wird.
+description: Ich habe mich mit Singer Songwriter Vinny Peculiar über sein neues Album While You Still Can" unterhalten, dass bald erscheinen wird.
+excerpt: Ich habe mich mit Singer Songwriter Vinny Peculiar über sein neues Album While You Still Can" unterhalten, das bald erscheinen wird.
 fileName: 2019-09---singer-songwriter-vinny-peculiar-im-interview.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAFa0lEQVRIiX1WSVBUVxT9Pf2e6Impme2GBidmkUFMNBQRQQQFFGKMxDGDoI1EsKMyOEKgkCgIWik1FZOoSVU0g4tUNmGRhbFiZZO4cZGqVKqSqlRWWZ/Uvd2vef1tsjj1p/f+Oefe++57isFggNFohMlkYqiqCrPZDIvFwrBarQybzRaF3W6PC/Gdxov59D8CcRCIj6DX6xmKIBcDZWItWUJCQhQOh+M5iG9CjKqa+d5iCZsQIoQQFqAllx0vRep0OqNwuVwxz+I7kWdlZSI9IwPLfMtQUlyIxMRENitHQokXctmx7FAQynC73VHI7/V6I+amRnBj9gKaGutRXVURiUrYbIwAi+RcS651K8g8Hg9D+0xj6Kro9Dh3KojB4EEEArnIzMqE3++D0+GM1htFQiH38cL+f44FmQCFlpCUlMTwpqZCURQketzo7GhB9642bNlcB4fTBa83NVaARSo4rQCCNsyyAJmUQMWmKDrYbHYYTSr8vhx8dfc6nv74EFcmTsNudyAtLY35yHhUgLbgtO5lcuFWkCc4HLDa7Oy4qHAlGhvqsK56DVasKOB3ne3N+OHbOzj61l4oigEOpxMm1czfuAa0AuSCi5drQZycnAy32wOzxYqJs4O4cXWcwzxz6Rz+/esXhPrfQEF+Ho/1+Xxo2lSHgeAhHA8exK4drcjLXcYiFG3u4xVdvHynpqbApFqw8YUa/PF0AaPvBlGQH8BLL9bgs9vz+Of3nxHqP4xtWxvwyo4WjIR68eDTGUyeG8DYSD8jkOePFUCQK18WQKTagqNw5vl92Nm2BUWFq3D86AFMnh/Aib5DGDh6EJUVZRg60YOHn8/jyzuzuDo1hP7e/Qi+/Tq6Opphs9ufj4Cc/6UqnshTUlKQnp4WDqOioPvVNhbQ2b4Vu7u2w2BSUVy4EgsPb+PerUu4OjWMY7370PvmHoyPvsPp4blyDWibTjjvsQKIOBx+M3R6A3KyMjBx/iRuXZvEge4ubG2s5znlZcUYDR3B13fnMTc9gqkLIZw/3YebcxcwNNjDK4aLUHRBEqHtfG6XC0mSY7oaTeEKLi5ahenx03i88AB///YYfz57hGdPvsP+1zpQt3E9trc0IjfXj4b6Dbg5dxEff/AepsdPYnoshP17OvgfOp0uthNqRVCOjEYVqtkCRW+EojOgpGg1rr9/Fj99/wXOnOrDxZF+TF8M4fL4Kdz7cBrzl0YxNHgYzZvrYLXZmKi2ei2GQ704c/IIhk/0oCA/d3EZqpG9QLRhEXqHw8mON9RWYW15CdpbNuOjaxN4snAfM5PDWFNWjPW1VWio34iy0hLUVK9Fa/MmtLc2YWw4iAPdHbwZ6fUGJvN6vWjZ8jJKSwqjdROzF8grgIipo9VUluH+J1dwrGcfbsyO4frls1ztNDk7O5t7e2JSEnJyshEI5CEzKwvLl+djZ1sT9u7axuNIgIG23QipAIWft2NyT6EncqpwapV+X7hJlJesxq+PvuEqpioXHYzGkkhrpHYMRmNkz7exgYyMdNTWVCAj3Rt1ymQsSM/kzwmwWq0cds69jXq6ArfLyWt2U11tTNjMZguqKyvQd3gfdneFnYpTkNhmXW4X93oiomdByoUXiQDf0yBxPBIT5FCpZitysrNRsaaUQx7ecBTeA0pLi7Fq5XKeqz1oyOTim+w+KsAQGbwowhA9MFCY21qb0NnegnU1lfD7fBwh8XOdbjG38llP3Mti4pGzAEGsnSBcVleVIz/gR16un7sjpUzMET+NrulIjrXvudql4osRoJMe5B+LvNKGQYXl8bg5lFonMfnUEMgC4rmPjFlUr51MbpOTwwcNuicBS42PRywvt6XG/gfP9wYby9YGYAAAAABJRU5ErkJggg==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-interview-fb.png__l.jpg
 labels:
-- Bands
-- England
-- English & German
-- Großbritannien
-- Interviews
-- Liverpool
-- Manchester
-- Midlands
-- Parlour Flames
-- stay
-- Vinny Peculiar
-- While You Still Can
-- Worcester
-- Worcestershire
-- Singer-Songwriter
+  - Bands
+  - England
+  - English & German
+  - Großbritannien
+  - Interviews
+  - Liverpool
+  - Manchester
+  - Midlands
+  - Parlour Flames
+  - stay
+  - Vinny Peculiar
+  - While You Still Can
+  - Worcester
+  - Worcestershire
+  - Singer-Songwriter
 focusKeyword: Vinny Peculiar
 status: publish
 isWerbung: false
@@ -39,14 +37,14 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Die Menschen sind frustriert und wütend"'
-languageLink: "/2019/09/vinny-peculiar-interview-en"
-
+languageLink: '/2019/09/vinny-peculiar-interview-en'
 ---
+
 **Ich habe mich mit Singer-Songwriter Vinny Peculiar über sein neues Album "While You Still Can" unterhalten, das bald erscheinen wird.**
 
-Vor Kurzem habe ich Euch hier im Blog [die beiden neuen Videos von Singer-Songwriter Vinny Peculiar](/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/) vorgestellt. Jetzt habe ich mich mit ihm zum Interview verabredet. Wir haben über sein neues Album, die politische Lage in England und seine Pläne geredet. 
+Vor Kurzem habe ich Euch hier im Blog [die beiden neuen Videos von Singer-Songwriter Vinny Peculiar](/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/) vorgestellt. Jetzt habe ich mich mit ihm zum Interview verabredet. Wir haben über sein neues Album, die politische Lage in England und seine Pläne geredet.
 
-**Anne:** Hallo Vinny! Danke, dass Du Dir die Zeit für das Interview nimmst. Herzlichen Glückwunsch zum neuen Album. Bist Du zufrieden damit? 
+**Anne:** Hallo Vinny! Danke, dass Du Dir die Zeit für das Interview nimmst. Herzlichen Glückwunsch zum neuen Album. Bist Du zufrieden damit?
 
 **Vinny:** Hallo Anne! Schön, Dich zu treffen! Insgesamt bin ich sehr glücklich mit meinem zwölften Album, ja! Es gibt vielleicht die ein oder andere Stelle, an der der Gitarrensound nicht so klingt, wie es geplant war. Ich bin mir aber sicher, das das Ergebnis genau so ist, wie es sein sollte. Wenn man viel Zeit mit dem Feintuning verbringt und die eigene Musik wieder und wieder anhört, neigt man gerne dazu, sie zu sehr zu analysieren. Ich bin mir sicher, dass die Platte in sich selbst hineinwachsen wird.
 
@@ -70,7 +68,7 @@ Vor Kurzem habe ich Euch hier im Blog [die beiden neuen Videos von Singer-Songwr
 
 ## "Heutzutage wird mehr geschrien, als zugehört"
 
-**Anne:** Aus Deinen Songs hört man raus, dass die momentane Weltlage Dich nachdenklich stimmt. Was würdest Du Politikern am liebsten mal sagen? 
+**Anne:** Aus Deinen Songs hört man raus, dass die momentane Weltlage Dich nachdenklich stimmt. Was würdest Du Politikern am liebsten mal sagen?
 
 **Vinny:** Ich bin mir sicher, dass auch Dir bewusst ist, dass in Großbritannien gerade eine kernschmelzenartige Stimmung herrscht. Der Politikzirkus war niemals zuvor so unruhig. Die Menschen sind frustriert und wütend. Familien zerstreiten sich über der Brexit-Frage. Hinzu kommt, dass sich, genau, wie in vielen anderen europäischen Ländern ein böses, rechts-nationales Element breit macht, dass scheinbar schnelle Lösungen anbietet. Es verbreitet Panik vor Emigranten und verkauft ein verzerrtes Gefühl von nationalem Anspruch. Es wird heutzutage leider viel mehr geschrien, als zugehört. Das müssen wir ändern. Wir müssen eine Art Gleichgewicht finden. In England kommt hinzu, dass wir einen Premierminister haben, der nicht davor zurückschrickt, Gesetze zu brechen. Er ist entschlossen, die EU ohne Abkommen zu verlassen. Ich persönlich habe dafür gestimmt, dass wir in der EU bleiben und unterstütze auch ein zweites Referendum.
 
@@ -121,4 +119,3 @@ Das neue Vinny Peculiar Album "While You Still Can" wird am 28. Oktober erschein
 Hat Euch mein Interview gefallen? Wie schön!  [Meldet Euch gerne](mailto:info@cardamonchai.com), wenn Ihr auch ein tolles Projekt habt, über das wir reden sollen. Auf dem Laufenden halte ich Euch über [meinen wöchentlichen Newsletter](#newsletter).
 
 Fotos: [Vinny Peculiar](https://vinnypeculiar.com)
-

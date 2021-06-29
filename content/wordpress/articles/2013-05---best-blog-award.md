@@ -1,7 +1,6 @@
 ---
 ogTitle: Best Blog Award - Wie jetzt, ich habe gewonnen?!
-excerpt: Ich habe einen Blog Award bekommen. Jetzt ist es an der Zeit, dass ich
-  selbst meine Lieblingsblogs nominiere.
+excerpt: Ich habe einen Blog Award bekommen. Jetzt ist es an der Zeit, dass ich selbst meine Lieblingsblogs nominiere.
 ogImage: null
 isAffiliate: false
 path: /2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/
@@ -18,9 +17,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05
 title: Best Blog Award
 subTitle: Bloggründung und Vorbilder
 seoTitle: Best Blog Award - Wie jetzt, ich habe gewonnen?!
-description: Unlängst bekam ich für mein Blog doch tatsächlich einen Blog Award
-  verliehen! Nun ist es an der Zeit, dass ich selbst meine Lieblingsblogs
-  nominiere.
+description: Unlängst bekam ich für mein Blog doch tatsächlich einen Blog Award verliehen! Nun ist es an der Zeit, dass ich selbst meine Lieblingsblogs nominiere.
 labels:
   - Best Blog Award
   - Blog-Award
@@ -28,6 +25,7 @@ labels:
   - Interviews
 language: de
 ---
+
 **Best Blog Award - Wie jetzt? Ich habe was gewonnen? Was für eine Ehre! Vielen Dank, liebe Nerdkönigin!**
 
 Unlängst bekam ich von der lieben queenofnerds den Best Blog Award verliehen. Jetzt wollt Ihr sicher wissen, was es damit auf sich hat und wie man diesen wundervollen Wanderpokal an tolle Blogger⋆innen weitergeben kann, oder? Das geht ganz einfach:
@@ -38,12 +36,12 @@ Unlängst bekam ich von der lieben queenofnerds den Best Blog Award verliehen.
 - Den Wanderpokal an 5-76 weitere Blogs verleihen
 - Den Blogger⋆innen Bescheid geben, dass den Blog Award bekommen haben
 
-Was mich ein Bisschen wunderte: Die Fragen sind immer dieselben und drehen sich größtenteils um das Thema Beauty. Ich blogge zwar grundsätzlich eher über [Festivals](//2013/03/die-ultimative-festivalliste-2013/), Musik und anderen Kram, stelle mich aber hiermit gerne dieser Herausforderung.
+Was mich ein bisschen wunderte: Die Fragen sind immer dieselben und drehen sich größtenteils um das Thema Beauty. Ich blogge zwar grundsätzlich eher über [Festivals](//2013/03/die-ultimative-festivalliste-2013/), Musik und anderen Kram, stelle mich aber hiermit gerne dieser Herausforderung.
 
 <RemoteImage
-  alt={`Der Best Blog Award - verliehen von der lieben queenofnerds - &lt;3lichen Dank!`}
+  alt={`Der Best Blog Award - verliehen von der lieben queenofnerds - herzlichen Dank!`}
   size="thumbnail"
-  title={`Der Best Blog Award - verliehen von der lieben queenofnerds - Danke schön! &lt;3`}
+  title={`Der Best Blog Award - verliehen von der lieben queenofnerds - Danke schön!`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_best-blog__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_best-blog__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAL/xAArEAACAQMDAwMDBQEAAAAAAAABAwIEBREAITEGEkETFFFSYXEVIjNikbH/xAAXAQEBAQEAAAAAAAAAAAAAAAACBAED/8QAIhEAAQMDAwUAAAAAAAAAAAAAAQACMQMRIQRB8BJxgaHB/9oADAMBAAIRAxEAPwDTd0uAogtall9W44UmJx3fJJ8AeTqeXjrenTVyS6tratkJYnG3ALVHnIjM5MiMH4Gx303KQy5Mvj1z7HkTo0Txn08RxkA/2OdQBNMyNVBC4Ta9ZxJfZM+kRIbffjHA4HnWq/TUmG99uelZOmL7C9MYuzXOqjVrh6hRW4bBgzuYyG+Nx8HcabLTc/eSaioUaeuT/IknO3iUT5B1nOxuvVFcRWdPUsJV9vEJQVVQ7ZVMWd8ZdoJiCBGOcg85GRjVqp7tG6WfprqdSyidT6UWrP0s2lH7gHcfgaAe0ktEhGvSAdiDHf7zz3XllMu9UcWsUwM94swn2GUJc/u8YOfkbbjQg1MOoLNdKG5VdMyrqkyUumjTlLDKIZvnuOScEjfYAHnfTteLZ74Lchpp61OSpwHHzEjzE6GzudXTsT+r2Z7WpkZLfSx9WOcEZGNxsSNx50lMR15EqE0dTX3DqSjsF26ZvVwt0KiNJORiyKykCEZyI7MyERIHJlwQTzvbrjR0tGiwdN2tYWhMlCCwSfTQoDknfgAb/bQ2jXWRr1PtdPd3viXykyvhBUJyaYZMj2jaIgABEfnOmex2iVExtXWu9zcXjDG4wIj6IjwP+/4AWtIldXvOCdgv/9k="
@@ -65,7 +63,7 @@ Kim Gordon. Außerdem: Heinrich Böll, Friedrich Nietzsche und natürlich Franz 
 
 _ **3.) Folgst Du vielen Blogs?** _
 
-So vielen, dass ich inzwischen schon so langsam den Überblick verliere und mir gar nicht mehr alles durchlesen kann, was so durch meinen Reader rattert. Ich muss mir irgendwann mal Zeit nehmen und das ein Bisschen ausdünnen.
+So vielen, dass ich inzwischen schon so langsam den Überblick verliere und mir gar nicht mehr alles durchlesen kann, was so durch meinen Reader rattert. Ich muss mir irgendwann mal Zeit nehmen und das ein bisschen ausdünnen.
 
 _ **4.) Seit wann interessierst Du Dich intensiver für das Thema Make-up und Beauty?** _
 

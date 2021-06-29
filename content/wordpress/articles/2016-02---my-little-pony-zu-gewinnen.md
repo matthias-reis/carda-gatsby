@@ -34,7 +34,7 @@ Hinweis: Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle V
 
 ---
 
-**Der Frühling steht in den Starlöchern. Zeit für mich, ein Bisschen Platz in meiner Vitrine zu schaffen.**
+**Der Frühling steht in den Starlöchern. Zeit für mich, ein bisschen Platz in meiner Vitrine zu schaffen.**
 
 Wie einige von Euch wissen, beherberge ich darin unter anderem eine mittelgroße Herde aus My Little Pony Pferdchen. Schweren Herzens trenne ich mich nun von einigen davon und hoffe, dass sie ein schönes, neues Zuhause finden.
 

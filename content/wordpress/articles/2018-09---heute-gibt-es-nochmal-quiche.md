@@ -35,7 +35,7 @@ subTitle: Veganes Rezept für vier Portionen
 
 **Erwähnte ich bereits, dass ich Quiche liebe? Ganz ehrlich: Ich kann einfach nicht genug davon kriegen. Darum möchte ich Euch heute auch Matzes neuestes Rezept präsentieren. Die Kartoffel-Quiche ist so lecker, das kann ich einfach nicht für mich behalten.**
 
-Erst vor Kurzem habe ich Euch im Rahmen meines [Rohvegan Menü Artikels](/2018/08/rohveganes-herbstmenue/) eine rohe Quiche vorgestellt. Letzten Winter gab es [eine aus dem Ofen](/2017/01/vegane-gemuese-quiche-a-la-herzmann/) und auch diese hier ist wieder eine klassische, gebackene Variante. Wer möchte, kann, wie das bei dieser Art Backwerk ganz leicht möglich ist, die Zutaten variieren. Also gerne auch mal Kürbis statt Kartoffeln nehmen und Sellerie statt Möhren. Sicher ist das auch sehr lecker.
+Erst vor Kurzem habe ich Euch im Rahmen meines [Rohvegan Menü Artikels](/2018/08/rohveganes-herbstmenue/) eine rohe Quiche vorgestellt. Letzten Winter gab es [eine aus dem Ofen](/2017/01/vegane-gemuese-quiche/) und auch diese hier ist wieder eine klassische, gebackene Variante. Wer möchte, kann, wie das bei dieser Art Backwerk ganz leicht möglich ist, die Zutaten variieren. Also gerne auch mal Kürbis statt Kartoffeln nehmen und Sellerie statt Möhren. Sicher ist das auch sehr lecker.
 
 Doch nun zum Original. Hier kommt Matzes schmackhafte Kartoffel-Quiche
 
@@ -109,7 +109,3 @@ Stellt Eure Quiche in den Ofen und backt sie für 30 Minuten bei 200 Grad. Im An
 _Guten Appetit!_
 
 <Gallery name="flickr/201809matzequichekartoffelliebe" />
-
-&nbsp;
-
-&nbsp;

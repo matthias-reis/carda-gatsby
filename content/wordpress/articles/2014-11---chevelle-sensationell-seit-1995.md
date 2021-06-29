@@ -87,15 +87,13 @@ Ein schöner Abend alles in allem und eine tolle "neue" Band habe ich auch gleic
   melden) Stellensuche zu tun.
 </small>
 
-Zum Teil aber auch damit, dass ich es ein Bisschen leid geworden bin, ständig meine Textpassagen ohne angegebene Zitate und Fotos ohne Anfrage oder Verlinkung auf anderen (vor allem größeren als meiner) Webseiten zu finden. Aber wie sagt man so schön: Drüber stehen und weitermachen.
+Zum Teil aber auch damit, dass ich es ein bisschen leid geworden bin, ständig meine Textpassagen ohne angegebene Zitate und Fotos ohne Anfrage oder Verlinkung auf anderen (vor allem größeren als meiner) Webseiten zu finden. Aber wie sagt man so schön: Drüber stehen und weitermachen.
 
 Hier noch mal die Bitte: Ich werde gerne zitiert und verleihe auch immer wieder meine Bilder, aber fragt doch einfach vorher nach! Ihr freut Euch doch bestimmt auch über eine Verlinkung. Auf Wunsch schreibe ich übrigens auch gerne mal Gastartikel.
 
 So ganz sein lassen kann ich das Schreiben aber trotzdem nicht, es gehört einfach zu mir und so wird es spätestens mit der ausgereiften Flickr-Implementierung im neuen Blog auch wieder Konzertartikel von mir geben. Seid gespannt, ihr wisst ja, nach dem Gig ist vor dem Gig. :-P
 
-Bis bald Anne &lt;3
-
-## Hier sind für Euch Chevelle mit "The Clincher"
+## Chevelle – "The Clincher"
 
 <YouTube id="OP3Yhs8q7oM" />
 
@@ -133,5 +131,3 @@ Bis bald Anne &lt;3
     },
   ]}
 />
-
-&nbsp;

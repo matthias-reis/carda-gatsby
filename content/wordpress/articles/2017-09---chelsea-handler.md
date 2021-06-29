@@ -90,27 +90,3 @@ Das wirklich unterhaltsame, lustige Video könnt Ihr Euch hier ansehen:
 Mehr von Chelsea findet Ihr auf Netflix und auf ihrer [Homepage](https://www.chelseahandler.com/).
 
 [Die Geschichte der Frauenrechte](/2013/03/die-geschichte-der-frauenrechte/)
-
-Merken
-
-Merken
-
-Merken
-
-Merken
-
-Merken
-
-Merken
-
-Merken
-
-Merken
-
-Merken
-
-Merken
-
-Merken
-
-Merken

@@ -113,6 +113,8 @@ Marc von Six Days Of Calm hat mir im [Interview](/2020/08/six-days-of-calm-inter
 
 Mit diesem Stück möchte ich gerne den Übergang zu den von Valentin selektierten Songs schaffen, die im Anschluss folgen. Die neue Single von Gojira kommt gewohnt eingängig und breitschultrig daher und lässt mich auf mehr aus der Ecke meines veganen Lieblingsmetallers Joe Duplantier hoffen. Möge er die schreiende Ungerechtigkeit weiter in die Welt hinaus brüllen und mich damit ein kleines bisschen glücklicher machen. Hier sind für Euch Gojira mit "Another World". Ich empfehle Euch, das offizielle Video auf jeden Fall bis zum Schluss anzusehen.
 
+## Gojira – "Another World"
+
 <YouTube id="iqrMFNMgVS0" />
 
 ## Schizophrenia - "Structure Of Death" von der EP "Voices"

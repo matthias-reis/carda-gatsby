@@ -97,5 +97,3 @@ Den Ofen auf 200 Grad vorheizen und den Spargel schälen. Den Spargel in eine Ka
 Bedeckt im vorgeheizten Ofen 45 Minuten lang garen lassen. Anschließend mit der vorbereiteten Sauce Hollandaise sowie einigen Salzkartoffeln auf einen Teller geben. Mit Kokos- und Chiliflocken bestreuen und servieren.
 
 Der Spargel gart im Backofen durch, bleibt dabei aber schön bissfest. Dazu passen hervorragend Röstzwiebeln mit etwas Räuchertofu als Garnierung sowie ein guter [veganer Weißwein](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/).
-
-Matze &amp; Anne wünschen guten Appetit! &lt;3

@@ -53,7 +53,7 @@ Wir wurden dort höflichst in Empfang genommen und durften uns den Wunschstellpl
 
 ##  Curraghchase - Ein Besonderer Ort
 
-Wer wandern möchte, kann direkt vom Camper aus losgehen, außerdem sind viele beliebte Ziele im County Limerick vom Platz aus gut zu erreichen. Ich würde Euch jedoch, solltet Ihr etwas Zeit mitbringen, dazu raten, erstmal diesen wunderbar ruhigen Ort zu genießen, die frische Luft in Euch aufzusaugen und den Eulen zu lauschen. Ein Bisschen Twin Peaks Stimmung kommt auf, wenn man die Bilder sieht, oder?
+Wer wandern möchte, kann direkt vom Camper aus losgehen, außerdem sind viele beliebte Ziele im County Limerick vom Platz aus gut zu erreichen. Ich würde Euch jedoch, solltet Ihr etwas Zeit mitbringen, dazu raten, erstmal diesen wunderbar ruhigen Ort zu genießen, die frische Luft in Euch aufzusaugen und den Eulen zu lauschen. Ein bisschen Twin Peaks Stimmung kommt auf, wenn man die Bilder sieht, oder?
 
 Mein Tipp: Wer sich in [Limerick](/2018/02/limerick/) und Umgebung herumtreibt, sollte dort unbedingt übernachten.
 

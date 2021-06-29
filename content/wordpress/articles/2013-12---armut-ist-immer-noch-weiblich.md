@@ -97,7 +97,7 @@ Auch am längst überholten deutsche Bildungssystem mit seiner sozialen Ausgrenz
 
 Man darf auf jeden Fall auf den Verlauf der nächsten vier Jahre gespannt sein, oder um es mit Gysis Worten zu sagen: "Es gibt viele Wege und Möglichkeiten. Und wir sind bereit. Auch jetzt schon." Dr. Gysi scheint auf jeden Fall klare Vorstellungen zu haben, sein Vortrag bat einen strukturieren, verständlichen Einblick in den verstrickten Politikzirkus von heute und das völlig frei von Paragraphenreiterei und Schachtelsatzungetümen.
 
-Im  Anschluss  an den Vortrag gab es dann noch Autogramme, Fotos mit dem Politiker und die Möglichkeit persönliche Fragen zu stellen. Auch ich konnte ein Foto mit ihm machen, das bleibt allerdings in meinem privaten Archiv. :-)
+Im  Anschluss  an den Vortrag gab es dann noch Autogramme, Fotos mit dem Politiker und die Möglichkeit persönliche Fragen zu stellen. Auch ich konnte ein Foto mit ihm machen, das bleibt allerdings in meinem privaten Archiv.
 
 <Gallery
   images={[

@@ -1,8 +1,6 @@
 ---
 ogTitle: Vegan radwandern - Essen und trinken unterwegs
-excerpt: Vegan radwandern - damit würde ich am liebsten den halben Sommer
-  verbringen. Heute zeige ich Euch, was wir auf unseren Fahrradtouren im Gepäck
-  haben.
+excerpt: Vegan radwandern - damit würde ich am liebsten den halben Sommer verbringen. Heute zeige ich Euch, was wir auf unseren Fahrradtouren im Gepäck haben.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegane-radtour.png__l.jpg
 isAffiliate: false
 path: /2020/08/vegan-radwandern/
@@ -32,10 +30,9 @@ labels:
   - veganes Proviant
 language: de
 type: Artikel
-description: Vegan radwandern - damit würde ich am liebsten den halben Sommer
-  verbringen. Heute zeige ich Euch, was wir auf unseren Fahrradtouren im Gepäck
-  haben.
+description: Vegan radwandern - damit würde ich am liebsten den halben Sommer verbringen. Heute zeige ich Euch, was wir auf unseren Fahrradtouren im Gepäck haben.
 ---
+
 **Ich weiß nicht, wie es Euch geht: Wir lieben unsere veganen Ausritte - gemütliche Tagestouren mit dem Fahrrad mit Badezeug und Snacks im Gepäck. Uns einfach mal treiben lassen und den Alltag für ein paar Stunden hinter uns lassen.**
 
 Wenn man plant, am Abend wieder daheim zu sein, braucht man nicht viel mitzunehmen. Das kommt unserem Reisemotto "mit leichtem Gepäck" sehr zu Gute.
@@ -44,17 +41,17 @@ Wenn man plant, am Abend wieder daheim zu sein, braucht man nicht viel mitzunehm
 
 Zu zweit reicht uns für einen Tag eine Packtasche. Darin transportieren wir
 
-* Flickzeug
-* Regenzeug
-* Kleine Verbandtasche
-* Luftpumpe
-* Picknickdecke
-* Proviant
-* Trinkwasser
-* Badesachen
-* Handtücher
-* Sonnencreme
-* Mückenschutz
+- Flickzeug
+- Regenzeug
+- Kleine Verbandtasche
+- Luftpumpe
+- Picknickdecke
+- Proviant
+- Trinkwasser
+- Badesachen
+- Handtücher
+- Sonnencreme
+- Mückenschutz
 
 Besonders auf den Punkt Proviant möchte ich hier ein bisschen eingehen. Sehr gut eignen sich nach unserer Erfahrung belegte Brote, [Power-Riegel](/2020/07/koffein-riegel-wingman/), Obst, Gemüse, Nüsse und Cracker.
 

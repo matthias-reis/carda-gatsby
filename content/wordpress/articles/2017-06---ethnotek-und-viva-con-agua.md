@@ -1,8 +1,6 @@
 ---
-ogTitle: Ethnotek und Viva con Agua - Eine besondere Kooperation - Das steckt in
-  meinem neuen Rucksack drin
-excerpt: Mein neuer Rucksack ist etwas ganz Besonderes. Unterstützt werden durch
-  den Kauf Künstler und Handwerker in Indien sowie der Verein Viva con Agua.
+ogTitle: Ethnotek und Viva con Agua - Eine besondere Kooperation - Das steckt in meinem neuen Rucksack drin
+excerpt: Mein neuer Rucksack ist etwas ganz Besonderes. Unterstützt werden durch den Kauf Künstler und Handwerker in Indien sowie der Verein Viva con Agua.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Etnothek-5__l.jpg
 isAffiliate: false
 path: /2017/06/ethnotek-viva-con-agua/
@@ -19,11 +17,8 @@ remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34723873
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34723873994_e2e2bdfa3c_z__m.jpg
 title: Ethnotek und Viva con Agua
 subTitle: Mein neuer Rucksack ist da
-seoTitle: Ethnotek und Viva con Agua - Eine besondere Kooperation - Das steckt
-  in meinem neuen Rucksack drin
-description: Mein Ethnotek Rucksack ist etwas ganz Besonderes. Unterstützt
-  werden durch den Kauf Künstler und Handwerker in Indien sowie der Verein Viva
-  con Agua.
+seoTitle: Ethnotek und Viva con Agua - Eine besondere Kooperation - Das steckt in meinem neuen Rucksack drin
+description: Mein Ethnotek Rucksack ist etwas ganz Besonderes. Unterstützt werden durch den Kauf Künstler und Handwerker in Indien sowie der Verein Viva con Agua.
 labels:
   - Antifaschismus & Feminismus
   - Charity
@@ -79,7 +74,7 @@ _Ethnotek_ schafft und erhält mit seiner wertvollen Arbeit Arbeitsplätze in de
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBQb/xAAqEAACAQIFAwIHAQAAAAAAAAABAgMEEQAFBhIhFDFBEyIHFTNRYXGBof/EABcBAQADAAAAAAAAAAAAAAAAAAMAAQL/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADESEiceFB/9oADAMBAAIRAxEAPwCe6etklrPUd3lIPDOSeP7ht6DmzKSMS5SjySqu9WiJXafHu/lrXub+cKfQ1DHmGr8poZ43khqZ1RlVtp2883P2tfFFaRraaip2pqgU6VFHI8TRq27lD+rG/fjDGz5DFesidjlFBU1MklbR9SqVMUbuha21/dccH9d8GDRElNSR1Y3P0U2yelDAoVRt3tI73BFucGMFpeJImeZT8ty/J6kVMDyyK8ckSE74mBv7uOL3457DG3pPU8GXNGKqOdlUholiYABjxY37C5vfnt2xtfFpYenhoaKL1KtD1TrEv04gCNx+17/5heZRkmbZv6YoqOZ0LAGQLwAfP5wavldxTo6j7p9UM7M+c1+26gRQhiqxgXvYKfPHJJJt4wY6zQmk8iybJFirGaatdt01VK9mlPgC97KPA/JwYNnsB4gEd+SLWjDLMQevZ//Z"
 />
 
-Nachdem ich zum Geburtstag ein Bisschen Extrageld geschenkt bekommen hatte, war es für mich endlich soweit: Ich bestellte meinen persönlichen Ethnotek Rucksack. Ich habe mich für das 20 Liter Modell "Viva con Agua grey" entschieden. Es ist nicht nur praktisch und perfekt eingeteilt für Alltag und Freizeit, mit dem Kauf bekam ich auch noch die Möglichkeit, tolle Projekte zu unterstützen. Mit der gemeinsamen Kollektion von _Ethnotek_ und _Viva con Agua_ soll die traditionelle Herstellung handgewebter Stoffe rund um das Dorf Bhujodi in Westindien belebt werden. Es wurde damit langfristig Arbeit mit fairer Bezahlung für zwölf Familien in fünf Dörfern in einer der wirtschaftlich schwächsten Regionen Indiens geschaffen.
+Nachdem ich zum Geburtstag ein bisschen Extrageld geschenkt bekommen hatte, war es für mich endlich soweit: Ich bestellte meinen persönlichen Ethnotek Rucksack. Ich habe mich für das 20 Liter Modell "Viva con Agua grey" entschieden. Es ist nicht nur praktisch und perfekt eingeteilt für Alltag und Freizeit, mit dem Kauf bekam ich auch noch die Möglichkeit, tolle Projekte zu unterstützen. Mit der gemeinsamen Kollektion von _Ethnotek_ und _Viva con Agua_ soll die traditionelle Herstellung handgewebter Stoffe rund um das Dorf Bhujodi in Westindien belebt werden. Es wurde damit langfristig Arbeit mit fairer Bezahlung für zwölf Familien in fünf Dörfern in einer der wirtschaftlich schwächsten Regionen Indiens geschaffen.
 
 Der wunderschöne Musterstoff auf meinem Rucksack wurde vom Webmeister Vankar Shamji und den Zwillingen Sanjay und Surresh auf selbstgebauten Webstühlen gewoben. Die natürliche Grundfaser des Stoffes ist Baumwolle. Sie wird vor Ort von besagten zwölf Familien gepflückt, gefärbt und zu Garn gesponnen. Sanjay entschied sich durch die lange Zusammenarbeit mit Ethnotek im Anschluss an sein Studium in Australien dazu, sich wieder der Gemeinschaft seines Heimatdorfes anzuschließen, um dort die Handwerkstraditionen seiner Familie weiterzuführen.
 

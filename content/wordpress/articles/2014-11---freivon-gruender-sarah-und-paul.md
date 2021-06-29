@@ -177,7 +177,7 @@ Sarah und Paul möchten gerne Schwung in die Schuhbranche bringen. Um das notwen
 
 **Paul:** Ich kümmere mich neben FreiVon noch um meine Musik. Mit meiner Band Hans Super sind wir gerade im Studio.
 
-Anne: Eine Sache, die wirklich jeder Mensch tun sollte, um die Welt ein Bisschen fairer und tierfreundlicher zu machen?
+Anne: Eine Sache, die wirklich jeder Mensch tun sollte, um die Welt ein bisschen fairer und tierfreundlicher zu machen?
 
 **Sarah:** Wir mögen keine erhobenen Zeigefinger, jeder sollte für sich selbst wissen, was er tun möchte und was nicht. Ich persönlich halte es für sehr wichtig, nicht mit verschlossenen Augen durchs Leben zu gehen, denn davon wird die Welt mit Sicherheit nicht besser.
 

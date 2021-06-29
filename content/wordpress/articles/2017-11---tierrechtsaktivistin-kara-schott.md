@@ -167,7 +167,7 @@ Weil Pferde Herdentiere sind, ist es für neue Tiere oft sehr schwer, sich anzus
 
 **Anne:** Lässt dann die Leidenschaft, zu diesen Rennen zu gehen nicht von Generation zu Generation nach?
 
-**Kara:** Bei der jüngeren Generation wird es jetzt ein Bisschen besser. Allerdings folgt daraus ein neues Problem. Die Züchter orientieren sich auf andere Länder, wie zum Beispiel Pakistan oder Macao. Die Insel Macao gehört offiziell zu China. In China ist das Wetten verboten. In Macao ist es jedoch erlaubt. Die Irischen Trainer und Züchter versuchen jetzt mit einer sehr starken Intensität ihre Hunde nach Macao zu verkaufen.
+**Kara:** Bei der jüngeren Generation wird es jetzt ein bisschen besser. Allerdings folgt daraus ein neues Problem. Die Züchter orientieren sich auf andere Länder, wie zum Beispiel Pakistan oder Macao. Die Insel Macao gehört offiziell zu China. In China ist das Wetten verboten. In Macao ist es jedoch erlaubt. Die Irischen Trainer und Züchter versuchen jetzt mit einer sehr starken Intensität ihre Hunde nach Macao zu verkaufen.
 
 In China gibt es bis heute keine Tierschutzgesetze, weshalb die Hunde dort unter dem schlimmsten Bedingungen gehalten werden. In Pakistan ergeht es ihnen ähnlich. Die Rennhunde kommen mit den 40 Grad Celsius dort nicht zurecht. Trotzdem werden sie dort über die Rennbahnen gejagt. Greyhounds haben sowieso schon vergrößertet Herzen, damit sie das hohe Laufpensum aushalten können. Auf die Hitze sind sie nicht eingestellt. Sehr viele Tiere sterben an einem Herzinfarkt.
 

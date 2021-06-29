@@ -1,14 +1,14 @@
 ---
 date: 2016-01-25T18:08:57.000Z
-slug: seitan-a-la-herzmann
-path: /2016/01/seitan-a-la-herzmann/
+slug: seitan-grundrezept
+path: /2016/01/seitan-grundrezept/
 type: Artikel
 typeName: Rezept
 title: Seitan Grundrezept
-seoTitle: Seitan à la Herzmann - Vleisch für Braten und mehr
-ogTitle: Seitan à la Herzmann - Vleisch für Braten und mehr
-description: Immer wieder bekomme ich Anfragen, wie wir unseren leckeren Seitan herstellen. Heute lüfte ich das Geheimnis und verrate Euch ein Rezept.
-excerpt: Immer wieder bekomme ich Anfragen, wie wir unsere leckeren Seitan-Variationen herstellen. Heute lüfte ich das Geheimnis und verrate Euch ein Rezept.
+seoTitle: Seitan Grundrezept - Vleisch für Braten und mehr
+ogTitle: Seitan Grundrezept - Vleisch für Braten und mehr
+description: Immer wieder bekomme ich Anfragen, wie wir unseren leckeren Seitan herstellen. Heute lüfte ich das Geheimnis und verrate Euch unser Grundrezept.
+excerpt: Immer wieder bekomme ich Anfragen, wie wir unsere leckeren Seitan-Variationen herstellen. Heute lüfte ich das Geheimnis und verrate Euch unser Grundrezept.
 fileName: 2016-01---seitan-grundrezept.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_16568799048_6c90266715_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_16568799048_6c90266715_z__l.jpg
@@ -97,9 +97,9 @@ Mischt das Gluten, das Lupinenmehl, das Salz und das Rote Bete Pulver mit dem L�
 
 Gebt nun 50 ml von der Sojasauce in den Messbecher, fügt den Schuss Olivenöl hinzu, giesst die Flüssigkeit auf 220 ml auf und anschließend in die Mehlkuhle.
 
-Vermischt den Teig zuerst vorsichtig mit dem Löffel und knetet ihn dann auf dem vorher mit dem Mehl bestreuten Arbeitsbrett. Sollte er etwas zu trocken sein, könnt Ihr vorsichtig noch ein Bisschen Flüssigkeit zugeben. Formt eine gleichmäßige Rolle und legt den Teig auf dem Brett ab. Er sollte jetzt bei Zimmertemperatur mindestens 20 Minuten gehen.
+Vermischt den Teig zuerst vorsichtig mit dem Löffel und knetet ihn dann auf dem vorher mit dem Mehl bestreuten Arbeitsbrett. Sollte er etwas zu trocken sein, könnt Ihr vorsichtig noch ein bisschen Flüssigkeit zugeben. Formt eine gleichmäßige Rolle und legt den Teig auf dem Brett ab. Er sollte jetzt bei Zimmertemperatur mindestens 20 Minuten gehen.
 
-Setzt die Gemüsebrühe auf den Herd und lasst sie aufkochen. Wir vermischen sie immer noch ein Bisschen mit Wasser, der Topf sollte gut halbvoll sein.
+Setzt die Gemüsebrühe auf den Herd und lasst sie aufkochen. Wir vermischen sie immer noch ein bisschen mit Wasser, der Topf sollte gut halbvoll sein.
 
 **Tipp:** Gebt die restlichen 50 ml von der Sojasauce mit ins Kochwasser, dann verliert Euer Seitan beim Kochen nicht die Farbe!
 
@@ -145,7 +145,3 @@ Ich wünsche Euch viel Spaß beim Kochen und guten Appetit!
     },
   ]}
 />
-
-&nbsp;
-
-&nbsp;

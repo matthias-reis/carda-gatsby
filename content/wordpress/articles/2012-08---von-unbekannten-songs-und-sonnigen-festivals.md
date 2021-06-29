@@ -49,7 +49,7 @@ Mittagspausenschnappschuss`}
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAwEAABBAECBAMFCQAAAAAAAAABAgMEBREABgcSITETIoEUQVFhoRYjJDJCUpHw8f/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAMF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxESIaH/2gAMAwEAAhEDEQA/AGDcd1Lrr61mWlzeIi+2vNtNRPHWlCEqwAEtjCQAB3xoZA4xbWU74Tl/dITnHiPNvcoPzIJP00xMyJUXcV3yKXyme+UgL93OTqdcf9uRJlF9ooUNtqxjOpEpxocvisqyOZQHchRT5u+Ce+udVYjvy+zQkgeSyxX3bOvZmVlvIkxXkc7bzElSkqHxBB/zQtpdzG3LVKTaz1MmU2lxtb6lIUgqAUCknB6HXMPDXc8iu3FQQZ9zIg7fZsky30Bag2D0yVAdcHlAOegyTjvrrjyqsoCgUn8Q0QQcggqBGD7xp7qzUw9hU9CIbs3xd13TKXQCJ8hAzj8wWrAx/emlTjjYqj7EEZRWXpspDPb9Iysgfwkevz1st6zcsfe9+oUNu42uyedYeZiqUhballSVBaRg9D6djo+5VTZrkN+btyU6/EdDrK3Yi8tqOMqHTv0+g1HhrtDkaI/OrIDfcOb6j26xcymm1MlsLktJP3kXJwAse/oU5x2Jwe2dXbgvdF/ZO0WZZKnUPCOhR/al4pSPQYHprZexrWVTzoblJYvpkMuNFIiOeYKSR8Pjpb2PQX8Cw2jXIpbVtiHIjl55yMtttICudxSlKAGM8301Q173IAw935AECnRP/9k="
 />
 
-Heute Nacht hat es geregnet, inzwischen ist auf dem Asphalt allerdings jedes kleinste Bisschen Wasser schon wieder verdampft.
+Heute Nacht hat es geregnet, inzwischen ist auf dem Asphalt allerdings jedes kleinste Tröpfchen Wasser schon wieder verdampft.
 
 Morgens das wilde Toben eines Laubsaugers. Wollte damit jemand zum Ausdruck bringen, dass er sich auf den Herbst freut?
 
@@ -75,9 +75,9 @@ Und das Wochenende. Großstadt. Läden abklappern. Flohmarkt. Sonne. Eis im Park
 
 In diesem Sinne: Prost.
 
-Heute gibt es etwas, wobei es sich todsicher um eine Weltpremiere handelt. Ich möchte einen Song vorstellen, den ich selbst noch nicht gehört habe. (Ich lese schon die Schlagzeile: "Bloggerin stellt Song vor, den sie selbst noch nicht gehört hat" :-) Ein Social Network Freund hat ihn empfohlen. Die Band ist derzeit [on Tour](http://www.songkick.com/artists/543774-listener). Laut seiner Beschreibung dürfte es sich um ein kleines Juwel handeln und auch der [Wikipedia-Artikel](<http://en.wikipedia.org/wiki/Listener_(band)>) klingt durchaus interessant. Ich freue mich darauf, ihn sobald ich nach Haus komme anzuhören.
+Heute gibt es etwas, wobei es sich todsicher um eine Weltpremiere handelt. Ich möchte einen Song vorstellen, den ich selbst noch nicht gehört habe. (Ich lese schon die Schlagzeile: "Bloggerin stellt Song vor, den sie selbst noch nicht gehört hat" Ein Social Network Freund hat ihn empfohlen. Die Band ist derzeit [on Tour](http://www.songkick.com/artists/543774-listener). Laut seiner Beschreibung dürfte es sich um ein kleines Juwel handeln und auch der [Wikipedia-Artikel](<http://en.wikipedia.org/wiki/Listener_(band)>) klingt durchaus interessant. Ich freue mich darauf, ihn sobald ich nach Haus komme anzuhören.
 
-## Hier sind für Euch: [Listener](http://listener.bandcamp.com/track/wooden-heart-poem) mit "Wooden Heart"
+## Listener – "Wooden Heart"
 
 <YouTube id="K8k9rD7lx9c" />
 

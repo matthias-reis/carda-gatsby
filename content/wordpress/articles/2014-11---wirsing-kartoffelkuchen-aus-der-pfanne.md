@@ -104,10 +104,6 @@ Wenn alles schön kross gebraten ist, den Kartoffelkuchen mit Wirsing zusammen 
 
 Wir haben gestern Beluga-Linsen und rohe gelbe Paprika mit Selleriesalat-Füllung dazu gegessen, was hervorragend gepasst hat, Ihr könnt natürlich auch gut einen Salat oder einen schönen Seitansbraten dazu servieren.
 
-Guten Appetit!
-
-Kussi Anne &lt;3
-
 <Gallery
   images={[
     {
@@ -148,7 +144,3 @@ Kussi Anne &lt;3
     },
   ]}
 />
-
-&nbsp;
-
-&nbsp;

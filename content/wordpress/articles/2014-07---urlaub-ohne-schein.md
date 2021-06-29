@@ -38,7 +38,7 @@ errors: {}
 subTitle: Eine treulose Tomate meldet sich zurück
 ---
 
-**Jetzt ist es schon ganz schön lange her, seit ich mich das letzte Mal bei Euch gemeldet habe. Das mag daran gelegen haben, dass ich mich in der letzten Zeit ein Bisschen eingeigelt habe.**
+**Jetzt ist es schon ganz schön lange her, seit ich mich das letzte Mal bei Euch gemeldet habe. Das mag daran gelegen haben, dass ich mich in der letzten Zeit ein bisschen eingeigelt habe.**
 
 <RemoteImage
   alt={`Das Ticket`}
@@ -48,13 +48,13 @@ subTitle: Eine treulose Tomate meldet sich zurück
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBQYHBP/EACwQAAEDAwQABAUFAAAAAAAAAAECAwQABREGEiExEyJBUQcUFTKBI0JxobH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAfEQACAgIDAAMAAAAAAAAAAAABAgADBBESIUExwfH/2gAMAwEAAhEDEQA/AJGPHeahqedkPBCBnCCSo8gAADkkkgAe5p/U0fWUV55tLca0W1TW9i4pYXKCDk8Okct5H7tpSP7qQ026JkyIyqGiUkEqCHE7k7kjIJHf5HXBrK9XXRyHdpjDbiWm48h1tIUElON6hzn29PxQYNFbKXfuJmXMrcV6l1t2pFR4MRpc5i9zGlBEkoKGy/uPlLIHAIyAAr7ueQcVaLlCQWSsAjI+1Q2qSfUEHkEdEHo1ijkiVcWXPphcfZZX+r8shCfIelEgZ96vumLi1B0yiM+y8Sy46geK4SpQB75Tnk5NRkYi1DkhJ7919AS6L2c8W10PP2QFs1HcII3xZS47yQQh5oJ3tkjGRkEZ/kUuRq+1xrdbfHscqbeI6N0qehLJD7h7ISVZTzycceY0UUFVhUFPDFtrVxsxuP8AEe7N3Za4sCE1HDySUymGzvQMdBs5BPqSsgYHdcj97PhkJbbRklRCUjGSST/tFFXZYznR+BMrrVBsez//2Q=="
 />
 
-Ich bin nach wie vor auf der Suche nach einer neuen Arbeitsstelle. Das gestaltet sich leider schwieriger, als gedacht. Nur wenige Firmen suchen derzeit nach Online-RedakteurInnen. Bitte drückt mir weiter die Daumen. Es wäre so toll, wenn es bald klappt. So langsam drückt dieser "Urlaub ohne Schein" ein Bisschen auf's Gemüt. Die Menschen beim Amt sind alle unglaublich nett zu mir, trotzdem könnt Ihr Euch sicher vorstellen, dass ich diese "Beziehung" lieber nicht vertiefen möchte. [](https://www.flickr.com/photos/99929697@N07/)
+Ich bin nach wie vor auf der Suche nach einer neuen Arbeitsstelle. Das gestaltet sich leider schwieriger, als gedacht. Nur wenige Firmen suchen derzeit nach Online-RedakteurInnen. Bitte drückt mir weiter die Daumen. Es wäre so toll, wenn es bald klappt. So langsam drückt dieser "Urlaub ohne Schein" ein bisschen auf's Gemüt. Die Menschen beim Amt sind alle unglaublich nett zu mir, trotzdem könnt Ihr Euch sicher vorstellen, dass ich diese "Beziehung" lieber nicht vertiefen möchte. [](https://www.flickr.com/photos/99929697@N07/)
 
 Ich habe mich natürlich trotzdem nicht ausgeruht, ich habe viel mit Fotos rumprobiert. Einige davon werdet Ihr sicher zu sehen bekommen, wenn meine neue Seite endlich online geht. Auch an ihr wird natürlich weiterhin fleißig gebastelt.
 
 ## Termin beim Tätowierer
 
-Im August habe ich den Termin beim Tätowierer, sein Werk wird ja, wie ich Euch schon mal erzählt habe, [mein neues Seitendesign](/2014/05/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/) vervollständigen. Den Entwurf haben wir bereits abgegeben, ich bin schon unglaublich gespannt, was er daraus machen wird.
+Im August habe ich den Termin beim Tätowierer, sein Werk wird ja, wie ich Euch schon mal erzählt habe, [mein neues Seitendesign](/2014/05/taetowierung-und-webdesign/) vervollständigen. Den Entwurf haben wir bereits abgegeben, ich bin schon unglaublich gespannt, was er daraus machen wird.
 
 Hatte ich Euch eigentlich schon von dem tollen Geburtstagsgeschenk erzählt, das mir Matze gemacht hat? Drei Tickets für das große Soundgarden und Black Sabbath Open Air auf dem Münchner Königsplatz am Freitag, dem 13. Juni. Ich kann nur so viel sagen: Es war großartig.
 
@@ -88,7 +88,7 @@ Dieses Jahr geht es für uns wie es jetzt aussieht wohl "nur" auf das [Herzberg 
 
 Sicherlich habt Ihr Verständnis, dass ich aus diesen Gründen dieses Jahr meine [Festivalliste]("/2013/03/die-ultimative-festivalliste/) nicht neu veröffentlicht habe. Es gibt sie aber natürlich nach wie vor und sie ist auch aktuell, Ihr könnt Euch jederzeit danach richten. Sollte noch was Wichtiges fehlen, gebt mir einfach Bescheid, ich trage es nach. Kann ja schließlich sein, dass ich dieses Jahr eine neue seltsame Vorschrift verpasst habe. :-P In meinem neuen Blog wird sie auf jeden Fall einen ganz besonderen Platz kriegen und in noch übersichtlicherer Form noch hübscher für jeden jederzeit erreichbar sein.
 
-Nun aber genug gejammert, ich bastle noch ein Bisschen an meinem neuen Blog und den alten Bildern und werde mich hoffentlich bald wieder bei Euch melden. Versprechen werde ich erstmal nichts mehr.
+Nun aber genug gejammert, ich bastle noch ein bisschen an meinem neuen Blog und den alten Bildern und werde mich hoffentlich bald wieder bei Euch melden. Versprechen werde ich erstmal nichts mehr.
 
 In der Zwischenzeit drückt mir bitte alle Daumen und daumenähnlichen Gegenstände. Danke.
 

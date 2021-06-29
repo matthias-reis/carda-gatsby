@@ -47,7 +47,7 @@ Sollte das nicht der Fall sein, oder solltet Ihr ihn aus unerfindlichen Gründen
 
 ## Newsletter im persönlichen Design
 
-Wer meine neuesten Nachrichten lieber nicht mehr erhalten möchte, findet selbstverständlich in jeder Newsletter-Mail, die Ihr von mir bekommt, einen sauberen, ordentlichen Abmelde-Button, mit dem Ihr die Zusendung jederzeit beenden könnt. Mir wäre es natürlich lieber, wenn Ihr bleibt. :-)
+Wer meine neuesten Nachrichten lieber nicht mehr erhalten möchte, findet selbstverständlich in jeder Newsletter-Mail, die Ihr von mir bekommt, einen sauberen, ordentlichen Abmelde-Button, mit dem Ihr die Zusendung jederzeit beenden könnt. Mir wäre es natürlich lieber, wenn Ihr bleibt.
 
 Solltet Ihr Fragen zum Newsletter haben, meldet Euch gerne jederzeit bei mir, ich bin auch für Anregungen zum Design offen.
 

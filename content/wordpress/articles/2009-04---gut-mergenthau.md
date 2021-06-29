@@ -45,8 +45,6 @@ Der berühmt Räuber "Hiasl" diente den Jesuiten auf **Gut Mergenthau** als Jagd
 
 _ [Homepage](http://www.gut-mergenthau.de/) Gut Mergenthau_
 
-&nbsp;
-
 <Gallery
   images={[
     {

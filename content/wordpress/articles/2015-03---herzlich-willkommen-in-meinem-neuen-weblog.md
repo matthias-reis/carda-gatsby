@@ -21,7 +21,6 @@ labels:
   - cardamonchai
   - Design
   - Geschichten & Erlebtes
-  - Herzmann
   - Layout
   - Liebe
   - Personality Blog
@@ -60,7 +59,7 @@ subTitle: 'Teil V: Der Livegang'
 
 Matze hat sich für mich super ins Zeug gelegt und hat einen komplett neuen **Internetauftritt** für mich entworfen. Und ich bin ihm dabei gehörig auf die Nerven gegangen. Vielen Dank an dieser Stelle! Ich bin stolz, wie Bolle auf das neue Kostüm! Ist wirklich superschön geworden!
 
-Es ist also vollbracht, der erste Umzug ist geschafft, jetzt gibt's ein kleines Päuschen von ca. 5 Minuten und dann geht's weiter mit unserem Umzug in die neuen vier Wände in der schönsten Stadt der Welt. Mit allem was dazu gehört: **Kisten packen** , Möbel zusammenzimmern und Katzen spazieren fahren. Das wird eine Freude! Zwischendurch wird unser WLAN übrigens auch mal für ein paar Tage weg sein, das hat man uns im Voraus schon mitgeteilt. Also bitte nicht erschrecken, wenn Ihr mich nicht erreicht: Ich komme wieder und werde Euch auch weiterhin auf die Nerven gehen. ;-)
+Es ist also vollbracht, der erste Umzug ist geschafft, jetzt gibt's ein kleines Päuschen von ca. 5 Minuten und dann geht's weiter mit unserem Umzug in die neuen vier Wände in der schönsten Stadt der Welt. Mit allem was dazu gehört: **Kisten packen** , Möbel zusammenzimmern und Katzen spazieren fahren. Das wird eine Freude! Zwischendurch wird unser WLAN übrigens auch mal für ein paar Tage weg sein, das hat man uns im Voraus schon mitgeteilt. Also bitte nicht erschrecken, wenn Ihr mich nicht erreicht: Ich komme wieder und werde Euch auch weiterhin auf die Nerven gehen.
 
 Die alte Wordpress-Seite wird ab heute nicht mehr zu erreichen sein, wir haben soeben den Schalter umgelegt. Weil ich gerne mal zur Nostalgie neige, hier ein kleiner Erinnerungs-Screenshot für Euch (und für mich :-P ). Hat sich ganz schön was geändert, ne?
 

@@ -72,5 +72,3 @@ Lasst ihn über Nacht im Kühlschrank ziehen. Am nächsten Tag schneidet Ihr das
 Schmeckt zum Schluss noch mal mit Pfeffer und Salz ab. Je nach Geschmack könnt Ihr als Topping verschiedene Samen oder Nüsse hinzugeben.
 
 Dazu passt zum Beispiel gut ein schönes kaltes [Alsterwasser](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/).
-
-Matze &amp; Anne wünschen guten Appetit! &lt;3

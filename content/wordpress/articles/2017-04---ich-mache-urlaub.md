@@ -42,7 +42,7 @@ Zusammen mit meinem Mann werde ich auf einer Insel weilen und hoffentlich Sonnen
 
 Solltet Ihr in dieser Zeit Fragen haben, könnt Ihr mir natürlich wie gewohnt  [E-Mails](mailto:info@cardamonchai.com) schreiben, ich werde sie allerdings erst nach dem Urlaub beantworten. Für mich gehört nämlich zum Urlaub dieses Mal auch dazu, dass ich die Kommunikation auf ein Mindestmaß runterfahre.
 
-Ich hoffe, Ihr habt Verständnis dafür und auch, dass in dieser Zeit hier im Blog keine aktuellen Artikel erscheinen werden. In den sozialen Medien habe ich dafür ein paar "Evergreens" voreingestellt, die ich nach wie vor für lesenswert halte, Ihr werdet also auch während meiner Abwesenheit ein Bisschen "bespaßt". Rechnet allerdings auch hier damit, dass ich Kommentare erst nach meiner Reise beantworten werde.
+Ich hoffe, Ihr habt Verständnis dafür und auch, dass in dieser Zeit hier im Blog keine aktuellen Artikel erscheinen werden. In den sozialen Medien habe ich dafür ein paar "Evergreens" voreingestellt, die ich nach wie vor für lesenswert halte, Ihr werdet also auch während meiner Abwesenheit ein bisschen "bespaßt". Rechnet allerdings auch hier damit, dass ich Kommentare erst nach meiner Reise beantworten werde.
 
 ## Nach dem Urlaub heißt es "Volle Kraft voraus"
 

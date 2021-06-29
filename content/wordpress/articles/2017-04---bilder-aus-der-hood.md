@@ -48,7 +48,7 @@ subTitle: Kleine Fotorunde Altona und Sankt Pauli
 
 **Jetzt an Ostern habe ich meine kleine Kamera, die ich sonst immer auf [Konzerten](/tag/konzert/) dabei habe, mal draußen getestet. Wir fahren nämlich für ein paar Tage weg und ich möchte gerne mit leichtem Gepäck reisen.**
 
-Wir hatten Zeit, ein Bisschen rumzuspazieren und das Wetter sorgte für interessantes Licht. Die Voraussetzungen waren also schon mal perfekt. Ich meinte auch, mich erinnert zu haben, wie neulich mal jemand sagte "Mach doch mal wieder ein paar Bilder von Deiner Hood!"
+Wir hatten Zeit, ein bisschen rumzuspazieren und das Wetter sorgte für interessantes Licht. Die Voraussetzungen waren also schon mal perfekt. Ich meinte auch, mich erinnert zu haben, wie neulich mal jemand sagte "Mach doch mal wieder ein paar Bilder von Deiner Hood!"
 
 ## Ich zeige Euch meine Hood
 

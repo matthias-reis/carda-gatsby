@@ -66,7 +66,7 @@ Der Hipster, der sich gerade noch gefragt hatte, ob er sich das richtige Program
 
 Was soll man noch mehr sagen. Ein Gitarrist und eine Rhythmusgruppe aus Illinois schafften es gestern Abend im Hamburger Knust nicht nur Generationen, sondern auch Szenen zusammenzubringen und ließen eine Meute glücklicher Menschen zurück, als sie nach einer grandiosen Zugabe das Gebäude in Richtung Aarhus verließen.
 
-Ich freue mich schon sehr drauf, Russian Circles baldmöglichst wieder zu sehen. Ein Bisschen hoffe ich ja noch darauf, dass sie sich beim Dunk Festival blicken
+Ich freue mich schon sehr drauf, Russian Circles baldmöglichst wieder zu sehen. Ein bisschen hoffe ich ja noch darauf, dass sie sich beim Dunk Festival blicken
 
 <Gallery name="flickr/russiancircles2017knustanne" />
 

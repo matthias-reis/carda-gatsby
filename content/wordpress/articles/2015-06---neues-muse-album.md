@@ -1,33 +1,31 @@
 ---
 date: 2015-06-16T15:33:44.000+00:00
 slug: muse-drones-ist-endlich-da
-path: "/2015/06/muse-drones-ist-endlich-da/"
+path: '/2015/06/muse-drones-ist-endlich-da/'
 type: Artikel
 typeName: Review
 title: Neues Muse Album
 seoTitle: Muse - Drones ist endlich da - Rezension
 ogTitle: Muse - "Drones" ist endlich da!
-description: Ich weiß, ich habe Euch lange auf meine Rezension zum neuen Muse-Album
-  "Drones" warten lassen. Sorry dafür - Hier ist sie nun endlich.
-excerpt: Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das Einzige,
-  was das neue Musealbum zu bieten hat.
+description: Ich weiß, ich habe Euch lange auf meine Rezension zum neuen Muse-Album "Drones" warten lassen. Sorry dafür - Hier ist sie nun endlich.
+excerpt: Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das Einzige, was das neue Musealbum zu bieten hat.
 fileName: 2015-06---neues-muse-album.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBBQgE/8QALRAAAgECBAUDAwUBAAAAAAAAAQIDBBEABQYhBxIxQVETIkIUI5FhcYGhsdP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACESET/9oADAMBAAIRAxEAPwBB0jS5tF9O8QMqsPujr1Jtbt2/GCePQrzuy0UFRMFRSBIQrudgQqi5O5Ow7C+LbhHp/wCugqKncXmKK67EWA3B83w+tO6dhpuaseMVWYMxk9WVgHJ/Rvj+3Tzje18cJVKCazPjcLszU8tRQSUhMbSq8xPLYdza5G9h07jA22nGSONnUxgtyMbX5Te1j/O18bHqmjFOqOBFJJ7UVyASfAPT8YRvEzTk1Xk7UlDl7pVidHjgiIKulyGKtsCBcXBsRtt3xHovJTQO5LzgxlVVT6Qy1lakjEymb3Ru7HmYkfIDpbDFlFS6TRwO9S6gD06crTSW7lHJIuPB2PS+Fdp3UtRl+VUlDLQ5lTRwQRxXioZZGNlANyFP9YJqTWOVQFCy5spHc5XVf88Ky7CiB1htRVE1PTwpmMs6wyXRXq4442QgXCPysVubGzCwPSwNsDusmaahknyuFqt6I+p9pls7n2CNWO3zJY9AB5xEfEnJY4Qkz1ZHcPltSv8Ase+OLPtY6ez/ACWtyqjzDlqqyB4IklpZlAYjbqgFrjyMLNibdn//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__l.jpg
 labels:
-- Bands
-- Drones
-- Muse
-- Muse Album
-- Muse Drones
-- Muse Drones Review
-- Muse Platte
-- neues Muse Album
-- Plattenrezension
-- Review
-- Rezension
+  - Bands
+  - Drones
+  - Muse
+  - Muse Album
+  - Muse Drones
+  - Muse Drones Review
+  - Muse Platte
+  - neues Muse Album
+  - Plattenrezension
+  - Review
+  - Rezension
 focusKeyword: MUSE
 status: publish
 isWerbung: false
@@ -35,8 +33,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Drones" ist endlich da'
-
 ---
+
 <RemoteImage
   alt={`&quot;Drones&quot; - Das neue Album von Muse ist da!`}
   size="medium"
@@ -50,7 +48,7 @@ subTitle: '"Drones" ist endlich da'
 
 Rotzig frech, verrockt und roh kommen Matthew Bellamy, Dominic Howard und Christopher Wolsteholme mit "Drones" zurück und lassen dabei nichts aus.
 
-Ich weiß, ich habe Euch dieses Mal lange auf meine Rezension warten lassen, aber drücken wir es einfach so aus: Es gab viel zu tun. Nun ist es endlich soweit, heute beim Joggen habe ich die neue Muse-Platte für Euch auseinandergenommen. Danke an dieser Stellen noch an Vale für das wundertolle Geburtstagsgeschenk! Du bist der Beste! &lt;3
+Ich weiß, ich habe Euch dieses Mal lange auf meine Rezension warten lassen, aber drücken wir es einfach so aus: Es gab viel zu tun. Nun ist es endlich soweit, heute beim Joggen habe ich die neue Muse-Platte für Euch auseinandergenommen. Danke an dieser Stellen noch an Vale für das wundertolle Geburtstagsgeschenk! Du bist der Beste!
 
 Doch nun ans Eingemachte. Altbekanntes hört man nur selten auf "Drones" auch vom wild blinkenden ["The 2nd Law"](/2012/09/muse-the-second-law-ist-da/) ist kaum noch was zu spüren auf dem neuen Werk. Gelegentlich werden wieder queeneske Gesänge ausgepackt, doch diese haben sich inzwischen bewehrt und gehören zum elementaren Baukasten, an dem sich Multiinstrumentalist Matthew und seine Genies bedienen.
 
@@ -88,7 +86,7 @@ Im Anschluss das schon beschriebene "The Handler", das mit harten Passagen aufwa
 
 Das kleine, bedeutungsgeschwängerte Zwischenspiel "JFK" hört Ihr Euch selbst an, es übergibt direkt an das ultramelodiöse "Defector" und hält die Platte zusammen.
 
-"Revolt" schlägt nun die von den Kritikern verteufelten poppigen Klänge an, bietet aber durchaus auch punkige Elemente. Geschunkelt wird auf jeden Fall, aber das wünschen wir uns bei Muse ja auch ein Bisschen, sind wir mal ehrlich, oder?
+"Revolt" schlägt nun die von den Kritikern verteufelten poppigen Klänge an, bietet aber durchaus auch punkige Elemente. Geschunkelt wird auf jeden Fall, aber das wünschen wir uns bei Muse ja auch ein bisschen, sind wir mal ehrlich, oder?
 
 ## Hört es Euch selbst an!
 

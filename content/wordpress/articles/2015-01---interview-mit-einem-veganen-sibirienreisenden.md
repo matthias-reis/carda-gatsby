@@ -93,7 +93,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 **Anne:** Wie hast Du Dich dort fortbewegt? Mit dem Auto? Zu Fuß?
 
-**Sebastian:** in Yakutsk kann man wie überall in Russland günstig Taxi fahren. Für 500 km habe ich circa 30€ gezahlt. Zu Fuß kann man die gigantischen Entfernungen in Sibirien nicht zurücklegen, es sei denn man hat mehrere Monate Urlaub und viel viel Motivation und Kraft ;-)
+**Sebastian:** in Yakutsk kann man wie überall in Russland günstig Taxi fahren. Für 500 km habe ich circa 30€ gezahlt. Zu Fuß kann man die gigantischen Entfernungen in Sibirien nicht zurücklegen, es sei denn man hat mehrere Monate Urlaub und viel viel Motivation und Kraft.
 
 **Anne:** In Deinem Kurzfilm berichtest Du von Temperaturen um -50 Grad Celsius. Dagegen muss einem unser derzeitiges Wetter ja richtig frühlingshaft vorkommen. Wie schützt man sich am besten vor der Kälte?
 
@@ -405,4 +405,3 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
   ]}
 />
 
-Merken

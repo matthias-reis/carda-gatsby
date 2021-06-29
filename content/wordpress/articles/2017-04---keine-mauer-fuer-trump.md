@@ -63,9 +63,3 @@ Andreas Leupold, Mitgründer des Büros bringt sein Erstaunen gegenüber dem Bay
 Das passende Bild stammt übrigens nicht aus Amerika. Ich habe es hier in Hamburg aufgenommen. Es entstand am Rand von [Planten un Blomen](/2016/05/1-mai-bei-planten-un-blomen/).
 
 Quellen: [Augsburger Allgemeine Zeitung](http://www.augsburger-allgemeine.de/wirtschaft/Tiefbau-Unternehmen-Bauer-baut-keine-Mauer-fuer-Trump-id41048816.html), [Bayerischer Rundfunk](http://www.br.de/nachrichten/trump-mauer-bauer-100.html), [Donaukurier](http://www.donaukurier.de/nachrichten/wirtschaft/lokalewirtschaft/DKmobil-Schrobenhausen-Trumps-unertraegliche-Rhetorik;art1735,3344693), [Süddeutsche Zeitung](http://www.sueddeutsche.de/wirtschaft/donald-trump-zwei-deutsche-firmen-interessieren-sich-fuer-den-us-mauerbau-1.3441322)
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

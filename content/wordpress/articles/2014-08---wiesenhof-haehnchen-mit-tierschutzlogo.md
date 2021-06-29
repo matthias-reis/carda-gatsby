@@ -154,7 +154,7 @@ Bereits vorgestern war einem andere Gruppenmitglied in einer Kaisers-Filiale [et
 
 Hier hatten wir noch gerätselt und daran gedacht, dass das evtl. ein böser Fauxpas des Filialleiters sein könnte. Dass es sich dabei um das nächste Große Dinge von Seiten der Fleischlobby handelt und der Schriftzug ein tatsächliches "Gütesiegel" darstellen soll, habe ich zu dem Zeitpunkt noch nicht genauer hinterfragt, mich kurz geärgert und nicht weiter nachrecherchiert.
 
-Erst mit dem heutigen Facebook-Beitrag ist der Groschen bei mir hörbar gefallen. Ich habe mich ein Bisschen schlau gemacht und bin sofort auf ähnliche Aktionen gestoßen, so z. B. ["Tierwohl" von Westfleisch](http://www.aktion-tierwohl.de), bei dem einfach mal ein Logo für SB-Wurstwaren vergeben wird, um Verbraucher anzulocken, ähnliches gilt für Kooperationen, die derzeit vom WWF und dem Verein [Vier Pfoten](http://www.vier-pfoten.de/kampagnen/nutztiere/kaninchen/mastkaninchen/zertifikat/) gefahren werden.
+Erst mit dem heutigen Facebook-Beitrag ist der Groschen bei mir hörbar gefallen. Ich habe mich ein bisschen schlau gemacht und bin sofort auf ähnliche Aktionen gestoßen, so z. B. ["Tierwohl" von Westfleisch](http://www.aktion-tierwohl.de), bei dem einfach mal ein Logo für SB-Wurstwaren vergeben wird, um Verbraucher anzulocken, ähnliches gilt für Kooperationen, die derzeit vom WWF und dem Verein [Vier Pfoten](http://www.vier-pfoten.de/kampagnen/nutztiere/kaninchen/mastkaninchen/zertifikat/) gefahren werden.
 
 <RemoteImage
   alt={`Bild: &quot;WWF-Scheiss&quot; Quelle: Der Artgenosse`}
@@ -311,7 +311,7 @@ Für mich tun sich gerade ganz neue Abgründe auf. Sicher haben das einige auße
 
 ## **NACHTRAG (13. AUGUST)**
 
-Inzwischen sind einige Tage ins Land gezogen und ich habe unglaublich viel Feedback zu diesem Artikel bekommen. Danke noch mal an alle, die das Projekt unterstützt haben und unterstützen! Heute ging dann auch die Kündigungsbestätigung vom Deutschen Tierschutzbund ein und ich fass es nicht, was sie mir als "Entschuldigung" vorlegen. Die Damen und Herren polarisieren also ein Wenig. Bezeichnen gequälte Wiesenhofhühner als Ware. Und bedanken sich bei mir, dass ich in der Vergangenheit was für Tiere getan habe. Irgendwie rechnen sie wohl auch nach wie vor damit, dass ich wieder beitrete. Ich bin grade nicht nur ein Bisschen aus der Haut gefahren, das dürft Ihr mir glauben. Doch lest selbst:
+Inzwischen sind einige Tage ins Land gezogen und ich habe unglaublich viel Feedback zu diesem Artikel bekommen. Danke noch mal an alle, die das Projekt unterstützt haben und unterstützen! Heute ging dann auch die Kündigungsbestätigung vom Deutschen Tierschutzbund ein und ich fass es nicht, was sie mir als "Entschuldigung" vorlegen. Die Damen und Herren polarisieren also ein Wenig. Bezeichnen gequälte Wiesenhofhühner als Ware. Und bedanken sich bei mir, dass ich in der Vergangenheit was für Tiere getan habe. Irgendwie rechnen sie wohl auch nach wie vor damit, dass ich wieder beitrete. Ich bin grade nicht nur ein bisschen aus der Haut gefahren, das dürft Ihr mir glauben. Doch lest selbst:
 
 _Sehr geehrte Frau Reis,_
 
@@ -328,9 +328,3 @@ _Sehr geehrte Frau Reis, vielleicht überdenken Sie Ihre Kündigung vor dem Hint
 _Anderenfalls danken wir Ihnen für die bisherige Unterstützung und Ihr Engagement für die Tiere und verbleiben_
 
 _mit freundlichen Grüßen_
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

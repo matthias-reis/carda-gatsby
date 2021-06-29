@@ -101,7 +101,7 @@ Drei Tage Post-Rock pur stehen uns bevor und ich bin gespannt wie zwei Regenschi
 
 Wie sieht es bei Euch aus? Welche Festivals habt Ihr für 2017 geplant? Wann geht es los? Ich will alles wissen! Wie Ihr perfekt ausgestattet durch die Festivalsaison kommt erfahrt Ihr hier im Blog. Einfach auf [DIE ULTIMATIVE FESTIVALLISTE](/2013/03/die-ultimative-festivalliste/) klicken und losplanen!
 
-Viel Spaß, rock on und bis bald! &lt;3
+Viel Spaß, rock on und bis bald!
 
 <RemoteImage
   alt={`Dunk!festival`}
@@ -116,5 +116,3 @@ Das DUNK!festival findet Ihr [hier](https://www.dunkfestival.be/).
 <FestivalList />
 
 Artwork: [Error! Design](https://error-design.com/)
-
-&nbsp;

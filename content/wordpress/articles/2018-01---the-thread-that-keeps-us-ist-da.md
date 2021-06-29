@@ -53,7 +53,7 @@ subTitle: Die neue Platte von Calexico rockt!
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUBAwYH/8QAKxAAAgEDAwMDAgcAAAAAAAAAAQIDBAURABIhBhMxMkFRIkIUFmFxgZHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQP/xAAfEQACAQQCAwAAAAAAAAAAAAABAgADESExEoEEcfD/2gAMAwEAAhEDEQA/AOtyVsVO1xqbhdbgsS1Tp24XldwTIVRUCn3JAAxolrpZaaeVTdbrUywyLC8UUk0hDtIIwmB924gEe3nQVbbKW7pXU1woWkgkmfdjY4cByeRnPx7Z41TS9H9LnINut7PkntvAiknIPORxyB/Wln3uVSYaYfdy78z9PTEul4vKAbpiAk+FjQMGY5HCgqQT88e+tBaamCrtEdZRz1c6M5CtN3EkRlk2srKxyCCCCD8aSTdP2KiRTP0nSPCpD5ijjYA4IyAR5wSP2J0+tTUENBFR2yjgo6NNqxwxFVCfUDgKOB51iTrMYXhfAihizVDoJHx3H42hgfqPyv8AupqWmigc+oNx6NJJ6GrFZVFqG4spmkOGimZfW3Ixxgj40rp6SukujSmzXOAJ4P4WYLIfBY8c8cDS9SrxJJU29SAXxNF35ZFCSU8BK8g9sZ0wt9ZUd5YpFj292MZSML9486z8tluEsq1C114hk52JEKgIM48gx/p/Gg4bDd2v9tqJpr1IkdTCWClyjASAkvuUcYzn20C+SjECxHUMUyubz//Z"
 />
 
-Doch was heute aus der Zellophan-Hülle hüpfte, stellte alle Wünsche in den Schatten. Erst ein Rascheln, dann ein Seufzen. Die Platte wird aus der Hülle gezogen und auf den Plattenteller gelegt. Es knistert ein Bisschen. Andächtiges Lauschen. Und los geht es.
+Doch was heute aus der Zellophan-Hülle hüpfte, stellte alle Wünsche in den Schatten. Erst ein Rascheln, dann ein Seufzen. Die Platte wird aus der Hülle gezogen und auf den Plattenteller gelegt. Es knistert ein bisschen. Andächtiges Lauschen. Und los geht es.
 
 ## "The Thread That Keeps Us" auf dem Plattenteller
 

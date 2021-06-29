@@ -45,7 +45,7 @@ subTitle: Wanderung am Pfingstmontag
 
 ## Boberger Niederung - Ein Hauch von Finnland
 
-Ich hatte an dem Tag nur meine kleine Klickse dabei, dennoch sind mir ein paar Aufnahmen gelungen. Die Birken erinnern mich ein Bisschen an Finnland, genau wie der stille Boberger See mit seinem waldigen Ufer. Da könnte man glatt Fernweh bekommen. Oder was meint Ihr?
+Ich hatte an dem Tag nur meine kleine Klickse dabei, dennoch sind mir ein paar Aufnahmen gelungen. Die Birken erinnern mich ein bisschen an Finnland, genau wie der stille Boberger See mit seinem waldigen Ufer. Da könnte man glatt Fernweh bekommen. Oder was meint Ihr?
 
 Sogar ein paar wollige Paarhufer sind uns auf unserer Tour begegnet. Das Wetter war mal wieder toll, erst auf dem Rückweg kamen uns ein paar Wolken entgegen. Die haben sich aber schnell wieder verzogen.
 

@@ -79,8 +79,6 @@ subTitle: In stillem Gedenken
 
 Zudem gibt es einen Link des Tages, der uns zu Denken geben sollte.
 
-&nbsp;
-
 ## Link des Tages:
 
 [Norwegen und das Medienmassaker](http://www.wuv.de/nachrichten/medien/norwegen_%20und_das_medien_massaker_ein_taeter_darf_nicht_abgebildet_werden)

@@ -1,7 +1,6 @@
 ---
 ogTitle: Wie Picasso - nur mit Strom
-excerpt: Meine neueste Tattooerrungenschaft soll nicht nur meinen Oberarm,
-  sondern auch meinen Blog zieren.
+excerpt: Meine neueste Tattooerrungenschaft soll nicht nur meinen Oberarm, sondern auch meinen Blog zieren.
 ogImage: null
 isAffiliate: false
 path: /2014/08/wie-picasso-nur-mit-strom/
@@ -18,9 +17,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08
 title: Wie Picasso - nur mit Strom
 subTitle: Teil II - Die Tattoo Session
 seoTitle: Wie Picasso - nur mit Strom
-description: Genau so habe ich mir immer Picasso bei der Arbeit vorgestellt -
-  Voll konzentriert überträgt Mat Reeseman der Tätowierer das Gemälde vom Papier
-  auf die Haut
+description: Genau so habe ich mir immer Picasso bei der Arbeit vorgestellt - Voll konzentriert überträgt Mat Reeseman der Tätowierer das Gemälde vom Papier auf die Haut
 labels:
   - Black Owl Tattoo
   - Brand Ink
@@ -39,7 +36,7 @@ labels:
 language: de
 ---
 
-[_ **Hier gehts zum ersten Teil des Artikels** _](/2014/05/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/) **Vor Kurzem hatte ich hier von meinem Vorhaben erzählt, etwas mehr Farbe unter meine Haut zu lassen und gleichzeitig am Relaunch von [cardamonchai](www.cardamonchai.com) zu arbeiten.**
+[_ **Hier gehts zum ersten Teil des Artikels** _](/2014/05/taetowierung-und-webdesign/) **Vor Kurzem hatte ich hier von meinem Vorhaben erzählt, etwas mehr Farbe unter meine Haut zu lassen und gleichzeitig am Relaunch von [cardamonchai](www.cardamonchai.com) zu arbeiten.**
 
 <RemoteImage
   alt={`Stencil Stuff`}
@@ -75,7 +72,7 @@ Pünktlich um 10 Uhr standen wir im Laden und staunten nicht schlecht, als uns M
 
 Nach einer etwa halbstündigen Vorbereitungszeit (Wir verbrachten Sie mit starke Kaffee im Stehcafé nebenan), in der Mat die Bilder größenmäßig auf unsere Oberarme anpasste und schon mal zum Übertragen fertig machte, begab ich mich als Erste auf die Liege. So gespannt war ich schon seit Jahren nicht mehr.
 
-Innerhalb von 5 Stunden entstand ein Bild, wie ich es mir schöner nicht hätte ausmalen können. Schon während des Stechens hatte ich mir schon ein paar Mal selbst über die Schulter gelunzt, um Matt ein Bisschen bei seiner Arbeit zu beobachten, aber als ich am Schluss in den Spiegel sah, war ich gänzlich von den Socken.
+Innerhalb von 5 Stunden entstand ein Bild, wie ich es mir schöner nicht hätte ausmalen können. Schon während des Stechens hatte ich mir schon ein paar Mal selbst über die Schulter gelunzt, um Matt ein bisschen bei seiner Arbeit zu beobachten, aber als ich am Schluss in den Spiegel sah, war ich gänzlich von den Socken.
 
 <Gallery
   images={[
@@ -184,7 +181,7 @@ Innerhalb von 5 Stunden entstand ein Bild, wie ich es mir schöner nicht hätte 
   ]}
 />
 
-Ich stammelte nur noch etwas von wegen, wie dankbar ich bin, wie schön er mein Bild für mich umgesetzt hatte und dass das absolut ich bin, es also perfekt zu mir passt. Dabei musste ich schon fasst ein Bisschen aufpassen, nicht alles mit meinen Freudentränen zu durchtränken. :-P
+Ich stammelte nur noch etwas von wegen, wie dankbar ich bin, wie schön er mein Bild für mich umgesetzt hatte und dass das absolut ich bin, es also perfekt zu mir passt. Dabei musste ich schon fasst ein bisschen aufpassen, nicht alles mit meinen Freudentränen zu durchtränken. :-P
 
 > "Mat, thank you so much! You've done such great work! The tats are absolutely awesome! We're looking forward to seeing you in January an we're so glad, you're staying here in Augsburg!"
 
@@ -201,7 +198,7 @@ Nach einer einstündigen Pause, war Matze dran und seine Eule wurde auf seinen A
 
 ### Ruhig und gelassen
 
-Ganz ruhig und gelassen, kaum ein Wort kam dabei über seine Lippen, höchstens mal ein Murmeln, wenn man die Position ein Bisschen ändern sollte. Zwischendurch kamen immer wieder Leute ins Geschäft und stellten Fragen doch selbst das brachte ihn trotz des wirklich straffen Zeitplans kein Bisschen aus der Ruhe.
+Ganz ruhig und gelassen, kaum ein Wort kam dabei über seine Lippen, höchstens mal ein Murmeln, wenn man die Position ein bisschen ändern sollte. Zwischendurch kamen immer wieder Leute ins Geschäft und stellten Fragen doch selbst das brachte ihn trotz des wirklich straffen Zeitplans kein bisschen aus der Ruhe.
 
 Genau so habe ich mir immer Picasso bei der Arbeit vorgestellt. Nach außen hin ruhig, konzentriert, in seinem Innern ein Meer aus Farben, Ideen und Formen. Er formte, schattierte, hielt inne, überlegte, passte an, mischte, malte. Wie Picasso - nur mit Strom.
 
@@ -336,7 +333,7 @@ Genau so habe ich mir immer Picasso bei der Arbeit vorgestellt. Nach außen hin 
   ]}
 />
 
-Gegen 19 Uhr wurden wir fertig. Bei meinem Tattoo wird noch eine zweite Session nötig sein, da ich mir einen Hintergrund aus Wolken, noch eine weitere Blume und eine kleine Verlängerung der Ranke vorstelle, außerdem, müssen Mats Meisterwerke wie alle Tattoos nach einer Zeit ein Bisschen aufgefrischt werden und Matze und ich haben beide zwei "alte" Tattoos, die ein Bisschen überarbeitet werden müssen. Also vereinbarten wir einen weiteren Termin für Ende Januar.
+Gegen 19 Uhr wurden wir fertig. Bei meinem Tattoo wird noch eine zweite Session nötig sein, da ich mir einen Hintergrund aus Wolken, noch eine weitere Blume und eine kleine Verlängerung der Ranke vorstelle, außerdem, müssen Mats Meisterwerke wie alle Tattoos nach einer Zeit ein bisschen aufgefrischt werden und Matze und ich haben beide zwei "alte" Tattoos, die ein bisschen überarbeitet werden müssen. Also vereinbarten wir einen weiteren Termin für Ende Januar.
 
 ### "Das ist herausragend schön!"
 
@@ -349,9 +346,9 @@ Gegen 19 Uhr wurden wir fertig. Bei meinem Tattoo wird noch eine zweite Session 
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAgEDAgUEAwAAAAAAAAABAgMEEQAFEgYhEyIxQVEHFDJhFXGh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMAAf/EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMRMSH/2gAMAwEAAhEDEQA/AMu80Luy7RBY2ncY7SvUNkrJQ8IphC/A5JHLscg/Gs3UUe4V+jl6g2ff2v1zxQqduWuQzPxIGcllznze+mXXf1AE+wRWJZ2VGaHG3tEiyoeLLLIT3JEhkbu2O2MZ9o7ZestnXbDtNrqPeqdNVi+3iNSCbwir8uzFV4jPsM/Oe+tYQndM5Whf0ZFlye26A2dxsRyK4WWMwp5O+PgZ+Pb21I79cux2ojWtrIsilOOFzk9vX099VsO4CWK7HLvu2vLbjELPbz4Zi5BlyY+R5eX8lHYnUdNTN61N/Iz14pAjMjukvGRsgeThnJxkgkAagbVPJYVMOzoK3NhvdIbrsztVrbrIpsT2GLcUYOG54/EeoUn174/WpPp2jHt25zWbNtHMcWa71VSyjNyGVdfyUYz3XB0aNG12YYY6kCnyKPqAa69T2RUsV7MHCPhJBGUQ+QZ7HuDn1/ep1IojTnmZmWRXRIwvYEnJOf6A/wB0aNOsYggc6xn/2Q=="
 />
 
-Wir plauderten noch ein Bisschen mit Matt, bedankten uns für seine tolle Arbeit und machten uns auf den Heimweg. An der Ampelkreuzung vor unserem Haus sprach uns eine Frau auf mein Tattoo an. "Darf ihnen was sagen? Das ist herrausragend schön!", meinte sie. "Etwas richtig Besonderes. Das hat wirklich nicht jeder!", Ihr könnt Euch nicht vorstellen, wie stolz klein Bolle in diesem Moment war.
+Wir plauderten noch ein bisschen mit Matt, bedankten uns für seine tolle Arbeit und machten uns auf den Heimweg. An der Ampelkreuzung vor unserem Haus sprach uns eine Frau auf mein Tattoo an. "Darf ihnen was sagen? Das ist herrausragend schön!", meinte sie. "Etwas richtig Besonderes. Das hat wirklich nicht jeder!", Ihr könnt Euch nicht vorstellen, wie stolz klein Bolle in diesem Moment war.
 
-Natürlich bin ich auch gespannt, was Ihr zu sagen habt, im Anschluss noch ein paar Bilder. Das sieht alles noch ein Bisschen blutig aus, aber ich denke man kann es schon recht genau erkennen. Ich werde weiter berichten und in Kürze seht Ihr es auf cardamonchai.com live und in Farbe: Mein neues Design!
+Natürlich bin ich auch gespannt, was Ihr zu sagen habt, im Anschluss noch ein paar Bilder. Das sieht alles noch ein bisschen blutig aus, aber ich denke man kann es schon recht genau erkennen. Ich werde weiter berichten und in Kürze seht Ihr es auf cardamonchai.com live und in Farbe: Mein neues Design!
 
 [_ **Hier gehts zum dritten Teil des Artikels** _](/2015/02/blog-relaunch-und-umzug-nach-hamburg/)
 

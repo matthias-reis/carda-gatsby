@@ -65,11 +65,9 @@ Während der Teig im Ofen geht, weicht Ihr den Römertopf im, mit warmem Wasser
 
 ## Jetzt hat der Römertopf seinen Auftritt
 
-Entnehmt Euren Teig vorsichtig der Schüssel, knetet ihn noch ein letztes Mal und formt ein schönes, kleines Brot, welches Ihr feierlich in den Römertopf gleiten lasst. Achtet darauf, dass das Brot beim Backen noch etwas geht, formt es also lieber in die Länge, als in die Breite. Oben könnt Ihr es mit einem kleinen, scharfen Messer ein Bisschen einschneiden. Den Ofen jetzt auf "volle Kraft voraus", sprich 230 - 250 Grad (Umluft) stellen und den Römertopf auf der mittleren Schiene auf einen Rost stellen. Nach 10 Minuten dreht Ihr den Ofen runter auf 210 Grad und lasst das Brot für weitere 35 Minuten backen.
+Entnehmt Euren Teig vorsichtig der Schüssel, knetet ihn noch ein letztes Mal und formt ein schönes, kleines Brot, welches Ihr feierlich in den Römertopf gleiten lasst. Achtet darauf, dass das Brot beim Backen noch etwas geht, formt es also lieber in die Länge, als in die Breite. Oben könnt Ihr es mit einem kleinen, scharfen Messer ein bisschen einschneiden. Den Ofen jetzt auf "volle Kraft voraus", sprich 230 - 250 Grad (Umluft) stellen und den Römertopf auf der mittleren Schiene auf einen Rost stellen. Nach 10 Minuten dreht Ihr den Ofen runter auf 210 Grad und lasst das Brot für weitere 35 Minuten backen.
 
 Passt beim rausnehmen auf! Römertöpfe können tierisch heiß werden! Lasst das Brot auf einem Rost auskühlen und genießt es beim abendlichen Picknick an der Elbe (oder am Baggersee) mit einem kühlen Bierchen. Dazu passt auch toll ein schöner selbst gemachter [Paranuss-Tomaten-Aufstrich](/2015/09/diy-paranuss-tomaten-brotaufstrich/).
-
-Viel Spaß beim Backen! :-)
 
 <Gallery
   images={[
@@ -87,5 +85,3 @@ Viel Spaß beim Backen! :-)
     },
   ]}
 />
-
-&nbsp;

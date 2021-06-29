@@ -50,7 +50,7 @@ Natürlich hatte es auch ein paar Schwachstellen, wie meine erfolglose Jobsuche,
 - Noch mehr tolle Blogideen
 - Gute Laune
 
-Dann klappt das sicher auch mit dem Weiterkommen, da bin ich mir ziemlich sicher. Außerdem hat mir meine Beste das schon aus ihrem Glückskeks vorgelesen. :-) Natürlich sind da noch eine ganze Menge weitere Wünsche, die eigentlich vor meinen stehen sollten. Sie betreffen die Flüchtlinge, Bedürftige und ausgebeutete Menschen und Tiere.
+Dann klappt das sicher auch mit dem Weiterkommen, da bin ich mir ziemlich sicher. Außerdem hat mir meine Beste das schon aus ihrem Glückskeks vorgelesen. Natürlich sind da noch eine ganze Menge weitere Wünsche, die eigentlich vor meinen stehen sollten. Sie betreffen die Flüchtlinge, Bedürftige und ausgebeutete Menschen und Tiere.
 
 Wir sollten alle mithelfen. Zusammenstehen. Uns unter die Arme greifen und auch mal für Fremde da sein. Das Jahr war für mich persönlich und sicher für viele andere Menschen ein schönes. Vielleicht kein besonders erfolgreiches, aber trotzdem ein zauberhaftes. Viele hatten dieses Glück nicht und ich wünsche mir für sie, dass es ihnen besser ergehen wird. Mir fehlen die Worte. Mal wieder. Deshalb schließe ich diesen Text nun mit denen eines grandiosen Schriftstellers. Ich hoffe, es ist ihm recht, dass ich sie mir an dieser Stelle ausleihe.
 
@@ -112,7 +112,7 @@ Wieder zu Hause angekommen, führte ich ein tolles [Interview](/2015/01/ich-hatt
 
 ### Februar
 
-Im [Februar](/2015/02/) ging schon langsam unsere Vorbereitung für den Umzug nach Hamburg ein Bisschen los. Und wir planten nicht nur den [Relaunch](/2015/02/blog-relaunch-und-umzug-nach-hamburg/) für unsere Wohnung, sondern auch den für mein Blog.
+Im [Februar](/2015/02/) ging schon langsam unsere Vorbereitung für den Umzug nach Hamburg ein bisschen los. Und wir planten nicht nur den [Relaunch](/2015/02/blog-relaunch-und-umzug-nach-hamburg/) für unsere Wohnung, sondern auch den für mein Blog.
 
 <Gallery
   images={[
@@ -185,8 +185,6 @@ Besonders ereignisreich war der [April](/2015/04/) für mich nicht nur durch uns
   ]}
 />
 
-&nbsp;
-
 ### Mai
 
 Im [Mai](/2015/05/) sind wir dann nicht nur mit unseren Kartons [richtig angekommen](/2015/05/hamburg-ist-schoen-und-ich-bin-wieder-da/). Wir haben einen tollen [Ausflug nach Travemünde](/2015/05/ein-sonntag-in-travemuende/) gemacht und mein [zweiter Artikel](/2015/05/das-neue-welt-vegan-magazin-ist-da/) erschien im Welt Vegan Magazin.
@@ -243,7 +241,7 @@ Der [Juni](/2015/06/) hielt unter anderem [ein neues Muse-Album](/2015/06/muse-d
 
 ### Juli
 
-Im [Juli](/2015/07/) reisten wir endlich wieder nach [Sankt Peter Ording](/2015/07/zurueck-nach-st-peter-ording/), um ein Bisschen Energie zu tanken. Ich interviewte [eine vegan lebende Internistin](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/) und wir durften das unglaubliche [Faith No More Konzert](/2015/07/faith-no-more-live-sporthalle-hamburg-23-06-2015/) in der Hamburger Sporthalle miterleben.
+Im [Juli](/2015/07/) reisten wir endlich wieder nach [Sankt Peter Ording](/2015/07/zurueck-nach-st-peter-ording/), um ein bisschen Energie zu tanken. Ich interviewte [eine vegan lebende Internistin](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/) und wir durften das unglaubliche [Faith No More Konzert](/2015/07/faith-no-more-live-sporthalle-hamburg-23-06-2015/) in der Hamburger Sporthalle miterleben.
 
 <Gallery
   images={[
@@ -351,7 +349,7 @@ Im [Oktober](/2015/10) habe ich mein erstes Kleid entworfen, wir haben [Boysetsf
 
 ### November
 
-Im [November](/2015/11/) hatte der Herzmann ein paar Tage Urlaub und wir haben tolle Ausflüge gemacht. Unter anderem waren wir in [Kiel](/2015/11/ein-besuch-in-kiel/), in [Cuxhafen](/2015/11/gruss-aus-cuxhafen/), in [Lübeck](/2015/11/wunderschoenes-luebeck/) und am [Timmendorfer Strand](/2015/11/birdwatching-am-timmendorfer-strand/). Ich habe ein [Interview](/2015/11/schmuck-fuer-veganer-von-mad-yeti-creations/) mit der bezaubernden Schmuckdesignerin Nina Jadzinski von Mad Yeti Creations gemacht und wir durften [Caspian](/2015/11/caspian-live-hafenklang-hamburg/) im Hafenklang in Hamburg live erleben.
+Im [November](/2015/11/) hatte Matze ein paar Tage Urlaub und wir haben tolle Ausflüge gemacht. Unter anderem waren wir in [Kiel](/2015/11/ein-besuch-in-kiel/), in [Cuxhafen](/2015/11/gruss-aus-cuxhafen/), in [Lübeck](/2015/11/wunderschoenes-luebeck/) und am [Timmendorfer Strand](/2015/11/birdwatching-am-timmendorfer-strand/). Ich habe ein [Interview](/2015/11/schmuck-fuer-veganer-von-mad-yeti-creations/) mit der bezaubernden Schmuckdesignerin Nina Jadzinski von Mad Yeti Creations gemacht und wir durften [Caspian](/2015/11/caspian-live-hafenklang-hamburg/) im Hafenklang in Hamburg live erleben.
 
 <Gallery
   images={[
@@ -421,6 +419,6 @@ Der [Dezember](/2015/12/) brachte wieder zwei abgedruckte Artikel im Welt Vegan 
   ]}
 />
 
-PS: Ich habe nicht alle Artikel, die ich dieses Jahr in meinem Blog gepostet habe, hier im Jahresrückblick noch einmal verewigt, das hätte einfach den Rahmen gesprengt. Daher lohnt es sich immer zu stöbern. Denn, wie Ihr das ja von mir kennt, ist wie bei einer tollen Pralinenschachtel oder einem guten Frauenmagazin einfach für jede/n was dabei. ;-) Ich wünsche Euch viel Spaß beim Lesen. Bis bald!
+PS: Ich habe nicht alle Artikel, die ich dieses Jahr in meinem Blog gepostet habe, hier im Jahresrückblick noch einmal verewigt, das hätte einfach den Rahmen gesprengt. Daher lohnt es sich immer zu stöbern. Denn, wie Ihr das ja von mir kennt, ist wie bei einer tollen Pralinenschachtel oder einem guten Frauenmagazin einfach für jede/n was dabei. Ich wünsche Euch viel Spaß beim Lesen. Bis bald!
 
 <FestivalList />

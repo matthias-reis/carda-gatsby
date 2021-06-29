@@ -80,7 +80,7 @@ Natürlich könnt Ihr auch weitergehen und die digitalisierten Fotos später tat
   "Scan1.jpg" - "Scan1298.jpg" Am besten legt Ihr immer gleichzeitig mehrere
   Bilder auf den Scanner, dann erspart Ihr Euch einen Haufen Arbeit. Fotos aus
   den 50ern passen bis zu 8 Stück auf den Scanner, bei Fotos aus den 80ern
-  passen nur noch 2-3 drauf, habe ich festgestellt. ;-)_ 1. _Photoshop öffnen_
+  passen nur noch 2-3 drauf, habe ich festgestellt._ 1. _Photoshop öffnen_
   1. _Datei öffnen - "Scan1-jpg."_ 1. _Foto grob ausschneiden_ 1. _cmd + C
   (kopieren)_ 1. _cmd + N (neues Dokument)_ 1. _cmd + V (einfügen)_ 1. _Menü
   Datei öffenen "Für Web speichern" auswählen, Qualität 90 % - Achtung!

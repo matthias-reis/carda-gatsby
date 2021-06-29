@@ -121,5 +121,3 @@ Wichtig ist vor allem, dass wir bewusst leben, nicht alles als gegeben hinnehmen
 Das geht ganz einfach, indem man den Ressourcen-Rechner verwendet. Er wird unter anderem angeboten von [ressourcen-rechner.de](http://ressourcen-rechner.de/) sowie dem [Global Footprint Network](http://www.footprintcalculator.org/#!/).
 
 _Quellen: [overshootday.org](http://www.overshootday.org/newsroom/infographics/),   [ressourcen-rechner.de](http://ressourcen-rechner.de/),   [Global Footprint Network](http://www.footprintcalculator.org/#!/) _
-
-Merken

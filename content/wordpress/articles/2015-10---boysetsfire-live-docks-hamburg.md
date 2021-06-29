@@ -46,9 +46,9 @@ Mit im Gepäck waren natürlich nicht nur neue Songs, sondern auch die Klassiker
 
 Wieder mal ein starker Auftritt der Lieblingsband. Hoffentlich sehen wir sie bald wieder, dann ist hoffentlich auch mein Hoochiherz wieder dabei.
 
-Dear Nate: Get well soon! Dear Boysetsfire: Come back soon! Thank you for spreading so much love and sharing your music with us! Take care! &lt;3
+Dear Nate: Get well soon! Dear Boysetsfire: Come back soon! Thank you for spreading so much love and sharing your music with us! Take care!
 
-Das hier habe ich heute Morgen bei Twitter entdeckt. Ich bin ganz stolz drauf. :-)
+Das hier habe ich heute Morgen bei Twitter entdeckt. Ich bin ganz stolz drauf.
 
 <RemoteImage
   alt={`Mein Tweet auf dem Profil von Boysetsfire`}
@@ -59,14 +59,14 @@ Das hier habe ich heute Morgen bei Twitter entdeckt. Ich bin ganz stolz drauf. :
   loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAPCAYAAACFgM0XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFAElEQVQ4ja2UWUxVVxSG74sv9smS+IDQiFDHaDSgcXgQ1Dgkgi9W44OJdYg+UDVGbQOKgAokGqgtNqjExjgRk6bBF4dijTjVUCxwmQnC5cK9nDvP59xzuPdrziLQJrVJH7qTlX3O3nut9a9//XtbnONOQqEQ7R3t/NLUxO3btzlw4AD9/f08f/6cPXv2MDQ0RFdXF2fOnOHhw4f4fD7sdjs2m43Kykru3buHOa5du0Z9fT23bt3i6NGjBAIBGhoaKDlXQmFhIa2trQwODkps0/r6+rAoikIkEqGtrY3m5mYeP35MdnY2VVVV1NXVUfhVIaqqyv769et5+/YtDodDALhcLkpKSjhx4gTVNTXc/PEmz359RmNjI/cb7kvcN2/eCMizZ8/S/LKZjo4O2tvbpaCenp6/ALx//56nT59SVFREWloa+fn5XLp0iZ1f7BSk5t7atWs5ePAgr169EudDhw6xa9cuMufNIycnhzt37giDxcXF7Nu3T8CWlpZy5MgRVqxYwbFjxxgeHqazqxOr1SogLIprEkB3d7dQnLdhA4cPHyY3L4/du3ezcuVKcd6yZQvbt29n6dKlbNu2jStXrjB79myWLVsmZxYuXMjixYu5ceMGJ0+elH8T1JIlS9i6dSuLFi2Swsw9s6XTAFxuF7FYTGjZsWOH2MaNG5k1a5YkSE9PZ8GCBZJkCpAZeO/evQJszZo1smYmyC/Ip6WlhdzcXAFjrm/evFnOLF++XMBmZmYKm729vdIOi9lHwzCErlWrVnHq1Cms1k4RYGenlUePHkkVZrC8vDyyc3Ik4OrVq1m3bp20xfw2A9+9e5fjx48LYFMvmzZtoqCgQACZ/qZfRkYGtbW1jI2NTYrQ4XCQSCRErZ+mpLB//5ei6Gg0KrOpkZkzP2FOaipZWZlC47yMDNLmzOGz9HTS09OEqZSUFJqamgRQVlaWnJs7d66Anz//c2EyNTWVGTNmyC0bGBgQ3VmCwSCQ5N27d5w+fVqukdvtxjYyht/roOV1I2XlFygrK6O8vJzzFy5w8WIFJedKKS0rFztfXs7ly5fxeNxUV1dLhRUVFbJWU1PD+YsVoq+qqkqKi4p48OABwUAAp9OJhY+McDiE2+PD5fyArf+FrE0AMf7/YYmocSKqTiiqEoyq+MNR2rt6+MPahbVngGH7KNF4gpiq4fW78YdVxrxBFH8EXTfExxWMEjdMiJNDMyYYHfcQikTxhmIS22xzIByT+KZPWI2LWWJxg0nTUfUJ1LjO8PAIbkWBZBKSCQlqtujnxp9wOMcZsY+ieLz4IiohVScaiYhmzJdvIpHANmKn9Juv8QdD2MbG8YSiGBMTqLpBdDrfpFmimi4f5qyZBzSDZ902HnUM8aJ3hJcDo/T7NVyKiw+DH9A0DY/Hw7iiYHcqjDgU7KNjOJ3j2O2jcqPCkSi/PHkiyQLB0DQzU3mmZtOmGYhoOroxgTdmUN/l5nqbnR9+t/Htbx+43mpHN3QCYQ9jThcen5+oFidpMvSREQgE+e77q7h9ARS3F1WLk0gm/wFAGJgCIAwYCeKaxrs3b7G7dYy4AUy2wKvYGeizoihuXD4/jkAMpzeEz+fH6/XhcntwezzyqDkcTmqv1kmvx70BaVMi8R8AxBOIcK7WXed1n5+onpBKw5pB3DDwBT3E1DiqpqHr+r8q2+QlFNOJG0mSickCTLamaP87gD8Bq0/llinUnWgAAAAASUVORK5CYII="
 />
 
-Das Docks war ziemlich überfüllt und so passierte leider das Unvermeidliche: Nach einer kurzen Pipipause haben wir es nicht mehr in die Frontrow zurückgeschafft. Daher gibt es heute nur ein paar "Weitweg-Handyfotos" vom Balkon aus meinem Instagram. Aber immerhin ein Beweis. :-)
+Das Docks war ziemlich überfüllt und so passierte leider das Unvermeidliche: Nach einer kurzen Pipipause haben wir es nicht mehr in die Frontrow zurückgeschafft. Daher gibt es heute nur ein paar "Weitweg-Handyfotos" vom Balkon aus meinem Instagram. Aber immerhin ein Beweis.
 
-Als Support waren übrigens Great Collapse und Silverstein dabei, Great Collapse könnt Ihr auch auf einem der Bilder sehen. Nur, falls sich jemand fragt, wer der junge Mann mit den Dreadlocks ist. ;-)
+Als Support waren übrigens Great Collapse und Silverstein dabei, Great Collapse könnt Ihr auch auf einem der Bilder sehen. Nur, falls sich jemand fragt, wer der junge Mann mit den Dreadlocks ist.
 
 <Gallery name="flickr/anneboysetsfire2015" />
 
-Dieser Artikel ist für Hoochi, Chris, Lui, Caro und all die anderen lieben Leute, die leider nicht dabei sein konnten! &lt;3
+Dieser Artikel ist für Hoochi, Chris, Lui, Caro und all die anderen lieben Leute, die leider nicht dabei sein konnten!
 
-Hier sind für Euch Boysetsfire mit "Cutting Room Floor" live, in Farbe und ohne Strom
+## Boysetsfire – "Cutting Room Floor"
 
 <YouTube id="JhI2Hh6L7n8" />

@@ -74,7 +74,7 @@ subTitle: Ein ganz normaler Mittwoch
 
 **Heute ist also der 1. August. Noch zehn Monate, dann ist wieder Sommer. Der Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen. Da habe ich mir wirklich lange Zeit was wirklich Gutes entgehen lassen.**
 
-Immer, wenn man denkt, dass sich das Chaos langsam lichtet, geht es erst richtig los. Ich merke das, wenn ich anfange To-Do-Listen über die To-Do-Listen zu schreiben. Heute in aller Frühe schon so geschehen. Organisation ist halt alles (Ich höre jetzt das höhnische "Haa Haa" dieses Jungen, Nelson heißt er, aus der Zeichentrickserie mit den gelben Menschen.). Vor Wochen schon [wurde mein Blog von einem Radiosender zitiert](http://www.egofm.de/default.aspx?ID=6117&showNews=1168552), wie ich entdeckt habe, was mich heute ein kleines Bisschen stolz macht.
+Immer, wenn man denkt, dass sich das Chaos langsam lichtet, geht es erst richtig los. Ich merke das, wenn ich anfange To-Do-Listen über die To-Do-Listen zu schreiben. Heute in aller Frühe schon so geschehen. Organisation ist halt alles (Ich höre jetzt das höhnische "Haa Haa" dieses Jungen, Nelson heißt er, aus der Zeichentrickserie mit den gelben Menschen.). Vor Wochen schon [wurde mein Blog von einem Radiosender zitiert](http://www.egofm.de/default.aspx?ID=6117&showNews=1168552), wie ich entdeckt habe, was mich heute ein kleines bisschen stolz macht.
 
 Bei meiner [Allerbesten](http://tofutante.wordpress.com/)  reißen heute Handwerker ein komplettes Fenster raus, obwohl sie eigentlich nur einen Rolladen austauschen sollten. Zum Glück scheint die Sonne.
 

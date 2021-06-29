@@ -59,11 +59,11 @@ subTitle: Zurück in die Zukunft
 
 **In Ermangelung der Fotos, die die eigentlich geplante Fotostory über Franz und Sissi bebildern sollten, unterhalten sich die beiden Protagonisten nun über das mysteriöse Ereignis, welches zum Verlust eben jener Lichtbilder geführt hat.** **Der gezeigte Dialog trägt den ironischen Untertitel:**
 
-## "Eine tragikomische, realistische Geschichte, in der ich mich nicht nur ein kleines Bisschen wiedererkenne."
+## "Eine tragikomische, realistische Geschichte, in der ich mich nicht nur ein kleines bisschen wiedererkenne."
 
 **Franz:** "Sei gegrüßt! Wie geht es Dir heute Morgen?"
 
-**Sissi:** "Alles prima, Franzl. Ich habe mir gerade einen Kaffee geholt. Denke nur noch ein ganz wenig über den Verlust der Bilder nach... Traurig. Aber ein Grund, neue zu machen... Und deshalb auch ein Bisschen schön… irgendwie."
+**Sissi:** "Alles prima, Franzl. Ich habe mir gerade einen Kaffee geholt. Denke nur noch ein ganz wenig über den Verlust der Bilder nach... Traurig. Aber ein Grund, neue zu machen... Und deshalb auch irgendwie schön."
 
 _Beruhigende Worte von Franz mit dem Vorschlag, die Festplatte noch mal genauer zu untersuchen. Es könnte ja auch sein, dass versehentlich in den falschen Ordner gerutscht sind._
 

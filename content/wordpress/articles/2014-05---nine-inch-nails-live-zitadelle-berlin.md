@@ -82,7 +82,7 @@ Zitat Trent: _"We have a lotta shit for you!"_
 
 Als kleine Wiedergutmachung, da wir ob der etwas klein ausgefallenen Bühne, nicht die komplette Lightshow geboten bekamen, spielten NINE INCH NAILS anstatt 20 Songs, wie auf den meisten anderen Gigs der Tour 23 Stücke.
 
-Ein gelungenes Konzert, durch die kleinere Bühne und den Veranstaltungsort etwas intimer, als z. B. in Düsseldorf in der Philipshalle 2009 oder letztes Jahr bei [Rock'N'Heim](/2013/08/rocknheim-2013/), aber dadurch kein Bisschen ruhiger.
+Ein gelungenes Konzert, durch die kleinere Bühne und den Veranstaltungsort etwas intimer, als z. B. in Düsseldorf in der Philipshalle 2009 oder letztes Jahr bei [Rock'N'Heim](/2013/08/rocknheim-2013/), aber dadurch kein bisschen ruhiger.
 
 Eine lohnende Reise. Nach der langen verregneten Anfahrt im Auto wurden wir, in Berlin angekommen, auch noch mit besten Wetter belohnt. Das hielt auch noch den nächsten Tag über an, was wir für eine schöne Stadterkundung nutzen, doch dazu mehr im nächsten Blogeintrag.
 
@@ -101,17 +101,15 @@ Im Anschluss findet ihr noch die Setlist des Abends. Die Bilder sind leider nich
 
 Das derzeitige Setup der Band (also zum Zeitpunkt des Zitadelle-Gigs) besteht aus Alessandro Cortini (Keyboards, Programming, Gitarre, Bass, Backing Vocals), Robin Finck (Gitarre, Keyboards, Backing Vocals), Ilan Rubin (Drums, Gitarre, Bass, Keyboards, Backing Vocals) und natürlich Trent Reznor (Gesang, Gitarre, Keyboards). Um hier mal alle Gerüchte diverser Musikmagazine aus der Welt zu schaffen. Für weitere Infos empfehle ich Euch [ninwiki](http://www.ninwiki.com).
 
-**Hier sind für Euch NINE INCH NAILS mit "Me, I'm Not"**
+## Nine Inch Nails – "Me, I'm Not"
 
 <YouTube id="WaaaFNYgbGQ" />
 
-**... und hier mit "Closer"**
+## Nine Inch Nails – "Closer"
 
 <YouTube id="Tx1MJNX-v74" />
 
-Kussi _Anne_
-
-## Setlist NINE INCH NAILS Zitadelle Spandau 15. Juli 2014
+## Setlist Nine Inch Nails Zitadelle Spandau 15. Juli 2014
 
 <RemoteImage
   alt={`Das Ticket`}

@@ -39,7 +39,7 @@ Ich bin ja in das Pony Hütchen Design verliebt, seit ich es das erste Mal geseh
 
 ## Vegane Kosmetik vom Feinsten
 
-Als Erstes habe ich das Körperspray mit dem Namen "Organic Bodysplash Blütenzauber" getestet. Wie soll ich es in Worte fassen? Ich bin begeistert! Mit dem Duft hat Hendrike ganz meinen Geschmack getroffen. Jasmin und Lilie mit einer Spur von Rose bilden eine warme, weiche und harmonische Einheit und sind kein Bisschen aufdringlich.
+Als Erstes habe ich das Körperspray mit dem Namen "Organic Bodysplash Blütenzauber" getestet. Wie soll ich es in Worte fassen? Ich bin begeistert! Mit dem Duft hat Hendrike ganz meinen Geschmack getroffen. Jasmin und Lilie mit einer Spur von Rose bilden eine warme, weiche und harmonische Einheit und sind kein bisschen aufdringlich.
 
 Durch das enthaltene Macadamiaöl ist der Bodysplash leicht cremig und hat eine pflegende Wirkung. Beanspruchte Haut atmet auf, besonders nach einem langen Tag am Schreibtisch kann man sich damit wieder ein Wenig Frische zurückholen. Ein leichte Pflegelotion, die man gut in der Handtasche mitnehmen kann.
 
@@ -114,7 +114,7 @@ Auch die "Organic Lip Butter" mit dem klangvollen Namen "Kiss Me Quick" duftet t
 
 ## Vegane Deos ohne Aluminiumsalze
 
-Die Deos von Pony Hütchen nutzen Matze und ich schon länger. Wir finden die Konsistenz toll, sie lassen super auftragen, färben nicht ab und duften den ganzen Tag, außerdem sind sie frei von Aluminiumsalzen.  Dieses Mal hatte ich die Sorte "Keep Calm" im Paket. Der Duft ist zart und zugleich ein Bisschen herb, was mir gut gefällt. Lavendel- und Geranienöl verleihen ihm seinen Charakter. Weitere Inhaltsstoffe sind Bio-Kokosöl und Bio-Sheabutter. Im Extremtest mit einem Ganztages-Shoppingbummel inklusive anschließendem Barbesuch hielt es gut durch und auch am Abend war kein Schweißgeruch zu erkennen.
+Die Deos von Pony Hütchen nutzen Matze und ich schon länger. Wir finden die Konsistenz toll, sie lassen super auftragen, färben nicht ab und duften den ganzen Tag, außerdem sind sie frei von Aluminiumsalzen.  Dieses Mal hatte ich die Sorte "Keep Calm" im Paket. Der Duft ist zart und zugleich ein bisschen herb, was mir gut gefällt. Lavendel- und Geranienöl verleihen ihm seinen Charakter. Weitere Inhaltsstoffe sind Bio-Kokosöl und Bio-Sheabutter. Im Extremtest mit einem Ganztages-Shoppingbummel inklusive anschließendem Barbesuch hielt es gut durch und auch am Abend war kein Schweißgeruch zu erkennen.
 
 <Gallery
   images={[

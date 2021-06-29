@@ -37,7 +37,7 @@ Die Modeschöpferin bezeichnet sich selbst als Tierliebhaberin. Sie wuchs auf ei
 
 ## Roadkill als ethisch unbedenkliches Fleisch
 
-In Amerika gibt es eine Bewegung, die Roadkill als ethisch unbedenkliches Fleisch bezeichnet. Paquin führte das Ganze noch ein Bisschen weiter und begann Mode aus ihrem Fell zu kreieren. Die Geschichte ihrer Modelinie klingt nicht nur ein Bisschen verrückt: Sie lernte einen Tierpräparator kennen, der ihr seine Arbeit zeigte, wie dem toten Tier das Fell abgezogen und es im Anschluss ausgestopft wird. Eines Tages fanden die beiden einen toten Waschbären und "Petit Mort" war geboren.
+In Amerika gibt es eine Bewegung, die Roadkill als ethisch unbedenkliches Fleisch bezeichnet. Paquin führte das Ganze noch ein bisschen weiter und begann Mode aus ihrem Fell zu kreieren. Die Geschichte ihrer Modelinie klingt nicht nur ein bisschen verrückt: Sie lernte einen Tierpräparator kennen, der ihr seine Arbeit zeigte, wie dem toten Tier das Fell abgezogen und es im Anschluss ausgestopft wird. Eines Tages fanden die beiden einen toten Waschbären und "Petit Mort" war geboren.
 
 Von den Körpern der Tiere verabschiedet sich die Tochter amerikanischer Ureinwohner alter Tradition folgend mit einem Dankesgebet. Jedes Tier, das sie zu einem Muff oder Hut verarbeitet hat, hat eine Geschichte, erzählt sie. Dazu zählen unter anderem Wildkatzen, Biber, Otter und Waschbären.
 

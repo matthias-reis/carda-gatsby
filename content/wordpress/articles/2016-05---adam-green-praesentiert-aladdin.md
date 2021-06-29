@@ -38,9 +38,9 @@ Zuerst begrüßte er die Gäste, das Kino war natürlich ausverkauft. Gebannt sc
 
 ## Adam Green stellte sich unseren Fragen
 
-Im Anschluss durften wir Adam mit Fragen löchern. Dabei ist mir sogar ein Schnappschuss von ihm gelungen. &lt;3
+Im Anschluss durften wir Adam mit Fragen löchern. Dabei ist mir sogar ein Schnappschuss von ihm gelungen.
 
-In der IMDB hat Adam Greens Aladdin von mir übrigens die volle Punktzahl bekommen. Ihr solltet ihn also unbedingt anschauen! Es tauchen auch ein paar alte Bekannte darin auf. Mehr wird aber noch nicht verraten! ;-)
+In der IMDB hat Adam Greens Aladdin von mir übrigens die volle Punktzahl bekommen. Ihr solltet ihn also unbedingt anschauen! Es tauchen auch ein paar alte Bekannte darin auf. Mehr wird aber noch nicht verraten!
 
 <RemoteImage
   alt={`Adam Green`}

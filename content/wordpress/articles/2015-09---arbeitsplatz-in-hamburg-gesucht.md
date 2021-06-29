@@ -80,9 +80,7 @@ Es wäre einfach wundervoll, falls einer von Euch jemanden kennt, der jemanden k
 
 ## 100 Bewerbungen
 
-Letzte Woche feierte ich meine 100ste Bewerbung, in der langen Reihe an Bewerbungen, die ich seit Mitte letzen Jahres geschrieben habe. Meine digitale Bewerbungsmappe habe ich seitdem ständig optimiert und verbessert. Sollte Interesse bestehen, verschicke ich sie jederzeit gerne per E-Mail.
-
-Sollte sich niemand melden, bin ich das, was ich sagen wollte immerhin mal losgeworden. Vielen Dank für die Aufmerksamkeit, ich freue mich auf Eure Nachrichten, gerne auch zum Erfahrungsaustausch.
+Letzte Woche feierte ich meine 100ste Bewerbung, in der langen Reihe an Bewerbungen, die ich seit Mitte letzen Jahres geschrieben habe. Meine digitale Bewerbungsmappe habe ich seitdem ständig optimiert und verbessert. Sollte Interesse bestehen, verschicke ich sie jederzeit gerne per E-Mail. Sollte sich niemand melden, bin ich das, was ich sagen wollte immerhin mal losgeworden.
 
 Eine Bitte noch, falls das hier von Personalverantwortlichen gelesen wird: Lest Euch die Lebensläufe der Bewerber am besten genau durch, bevor Ihr jemanden zum Vorstellungsgespräch einladet. Es kann sehr schmerzhaft sein, wenn einem im Termin klar wird, dass man mit einer Ablehnung zu rechnen hat, da man weder Abitur noch Studium vorzuweisen hat. Es sind sicher viele Menschen auf Jobsuche, die mit den gewünschten Qualifikationen ausgestattet sind. Auch sie freuen sich bestimmt über eine Einladung
 

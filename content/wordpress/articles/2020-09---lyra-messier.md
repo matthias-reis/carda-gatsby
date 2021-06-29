@@ -1,8 +1,6 @@
 ---
 ogTitle: lyra messier im Interview - "Tanzmusik für Introvertierte"
-excerpt: Die hochtalentierte Ambient-Künstlerin lyra messier hat vor Kurzem ihr
-  Album veröffentlicht. Im Interview hat sie mir einen Einblick in ihre Musik
-  gegeben.
+excerpt: Die hochtalentierte Ambient-Künstlerin lyra messier hat vor Kurzem ihr Album veröffentlicht. Im Interview hat sie mir einen Einblick in ihre Musik gegeben.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lyra-messier-fb.png__l.jpg
 isAffiliate: false
 path: /2020/09/lyra-messier-interview/
@@ -21,9 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09
 title: lyra messier
 subTitle: '"Tanzmusik für Introvertierte"'
 seoTitle: lyra messier im Interview - "Tanzmusik für Introvertierte"
-description: Die hochtalentierte Ambient-Künstlerin lyra messier hat vor Kurzem
-  ihr Album veröffentlicht. Im Interview hat sie mir einen Einblick in ihre
-  Musik gegeben.
+description: Die hochtalentierte Ambient-Künstlerin lyra messier hat vor Kurzem ihr Album veröffentlicht. Im Interview hat sie mir einen Einblick in ihre Musik gegeben.
 language: de
 type: Artikel
 labels:
@@ -38,6 +34,7 @@ labels:
   - lyra messier
   - Music
 ---
+
 **Ich habe mich mit lyra messier unterhalten. Die hochtalentierte Ambient-Künstlerin hat vor Kurzem ein Album veröffentlicht. Im Interview hat sie mir einen Einblick in ihr Leben und Ihre Musik gegeben. Ich wünsche Euch viel Spaß beim Lesen.**
 
 **Anne:** Hi Lyra! Danke, dass Du Dir die Zeit nimmst! Wie geht es Dir heute?

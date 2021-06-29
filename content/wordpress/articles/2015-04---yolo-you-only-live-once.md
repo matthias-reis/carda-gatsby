@@ -61,7 +61,7 @@ Wo genau das Wort seinen Ursprung hat, lässt sich heute nicht mehr ermitteln. V
 
 #YOLO ist als Aufforderung zu verstehen, Dinge einfach zu tun, auch, wenn sie unter Umständen ein Risiko bedeuten. So was Ähnliches wie "No Risk - No Fun" Anfang der 90er und "Live fast, die young" in den 60ern. Vielleicht in einer etwas abgeschwächteren Variante. Aber das behaupten böse Zungen.
 
-Denn #YOLO bedeutet nicht immer gleich "Komplett ausrasten, bis zum Verlust der Muttersprache". Sondern kann auch einfach heißen "Probier die Ausbildung doch mal aus, Du kannst Dich immer noch für was Anderes entscheiden", "Ruf Ihn doch einfach mal an und verabredet Euch, dann könnt Ihr immer noch reden". Irgendwie ist #YOLO also doch ein kleines Bisschen vernünftig. Aber eben auch nur ein kleines Bisschen. Vernünftiger zu sein, als "Live fast, die young" ist ja auch gar nicht so schlecht. Behaupte ich jetzt einfach mal so.
+Denn #YOLO bedeutet nicht immer gleich "Komplett ausrasten, bis zum Verlust der Muttersprache". Sondern kann auch einfach heißen "Probier die Ausbildung doch mal aus, Du kannst Dich immer noch für was Anderes entscheiden", "Ruf Ihn doch einfach mal an und verabredet Euch, dann könnt Ihr immer noch reden". Irgendwie ist #YOLO also doch ein kleines bisschen vernünftig. Aber eben auch nur ein kleines bisschen. Vernünftiger zu sein, als "Live fast, die young" ist ja auch gar nicht so schlecht. Behaupte ich jetzt einfach mal so.
 
 ## #YOLO ruft zum Freisein auf
 

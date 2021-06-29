@@ -69,8 +69,6 @@ Aufgewacht. Den Wecker auf später gestellt. Dann ging er gar nicht mehr an. Fr�
 
 Ibuprofen, Meeting, Kaffee. Werde [bei Twitter](https://twitter.com/Anne_Reko) entfolgt. Mir egal, mögen die wohl keine Katzen. Heute Abend See mit Milchkaffee. Morgen dann emotional vielleicht wieder weniger am Rande. Vielleicht ein Beitrag mit einem Bild vom See. Oder mit einem Bild von einem Baum. Oder gar kein Beitrag, oder zwei.
 
-Recht herzlichen Dank für die Aufmerksamkeit, allen, die bis hier hin gelesen haben. Und allen Anderen auch.
-
-**Hier kommt das Lied des Tages: NINE INCH NAILS live@ Woodstock 1994 -Terrible Lie**
+## Nine Inch Nails – "Terrible Lie" live (Woodstock 1994)
 
 <YouTube id="G-8VM9WLZmk&amp;list=PL7FCFCC210D46FDFF&amp;index=2&amp;feature=plpp_video" />

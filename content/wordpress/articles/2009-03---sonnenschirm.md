@@ -25,5 +25,3 @@ language: de
 errors: {}
 subTitle: Ausgefallener Sonnenschutz
 ---
-
-&nbsp;

@@ -58,7 +58,7 @@ Es handelt sich um die abgewandelte Form eines klassischen Blumenkohlensalats un
 
 ## Zubereitung
 
-First of all: Ihr könnt das Rezept mit einer Prise oder ganz ohne Salz zubereiten. Am besten probiert Ihr selbst mal aus, wie es Euch am besten schmeckt. Ich muss sagen, dass für meinen Geschmack der Blumenkohl in Kombination mit dem würzigen Porree und dem süßen Senf vollkommen ausgereicht hat. Hinzu kommt ja auch noch das Räuchertofu, das, je nach Sorte, auch schon mal ein Bisschen salzig sein kann.
+First of all: Ihr könnt das Rezept mit einer Prise oder ganz ohne Salz zubereiten. Am besten probiert Ihr selbst mal aus, wie es Euch am besten schmeckt. Ich muss sagen, dass für meinen Geschmack der Blumenkohl in Kombination mit dem würzigen Porree und dem süßen Senf vollkommen ausgereicht hat. Hinzu kommt ja auch noch das Räuchertofu, das, je nach Sorte, auch schon mal ein bisschen salzig sein kann.
 
 Säubert und zerkleinert den Blumenkohl und blanchiert die mundgerechten Stücke für ein paar Minuten im heißen Wasser. Gießt ihn durch ein Sieb ab und lasst ihn in der Salatschüssel abkühlen.
 

@@ -6,7 +6,7 @@ title: Meine neue Handtasche
 seoTitle: Meine neue Handtasche - Selbst genäht an einem Nachmittag
 ogTitle: Meine neue Handtasche - Selbst genäht an einem Nachmittag
 description: Hier kommt meine neue Handtasche! Sieht sie nicht schick aus? Ihr könnt Euch ganz leicht selbst so eine nähen!
-excerpt: Neulich fiel mir die Decke ein Bisschen auf den Kopf und ich begann nach Stoffen und Schnittmustern zu googeln - eine neue Handtasche sollte es sein.
+excerpt: Neulich fiel mir die Decke ein bisschen auf den Kopf und ich begann nach Stoffen und Schnittmustern zu googeln - eine neue Handtasche sollte es sein.
 fileName: 2015-09---meine-neue-handtasche.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Meine-neue-Handtasche-6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Meine-neue-Handtasche-6__l.jpg
@@ -36,9 +36,9 @@ subTitle: Selbstgemacht an nur einem Nachmittag
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQIEB//EACwQAAIBAwMEAAQHAQAAAAAAAAECAwQREgAFIQYTMUEUImFxFSQyQlKBkaH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQABAwb/xAAkEQABAgUDBQEAAAAAAAAAAAABAAIDBBESITFRsUFhkaHB0f/aAAwDAQACEQMRAD8AbOgduki2Pa6VY0EYpIsmvySUFwAPB5PP+acYDtdcKikWsgkmhYRyAPkYm/bf+x/zSPD1aaTafyG3sZeyxjtIFwRVALEni4v4+x+ml3bquphqklo5zNOrQxrPSWSnke2Td39RJIuD7+ZB5JGufnJpwJa0g08JrCaMHddfEo+ASlVMKlSEVsrKQD6Pi3FvtpN67kaPbhXLjFN3lEJ7hBSym9h/E351lQdWQ7hWmgcRQ7kHkpxDmXRgvllZgLeja3F/PGqbr2rE7wUyJEFVlPzyZMLi9j6x+uljpmbMQXupTbTjP3GESIcK0loSnu9VST0mxzx08Q3GqujyOLqrI4Y4i/LNiePBtzYDUxV614o3ndaqWpb4x0kYLCkYGCtY5KSD2rcm7hieANGjRk6A1xI2r6PjQadVjLi8gHqQPY/Tqtb8Rkgm6fYSU0UC7g2NOgv2L5jAMGIKrdgxxU3K+rat9/eqq6qWanpo2UzDF8SFxA9E2GOjRqoMFsWILu/JUvLWY7cBf//Z"
 />
 
-**Neulich fiel mir die Decke ein Bisschen auf den Kopf und ich begann nach Stoffen und Schnittmustern zu googeln. Ziemlich schnell stand fest: Eine neue Handtasche soll es werden.**
+**Neulich fiel mir die Decke ein bisschen auf den Kopf und ich begann nach Stoffen und Schnittmustern zu googeln. Ziemlich schnell stand fest: Eine neue Handtasche soll es werden.**
 
-Jetzt, ein paar Tage später habe ich was zum Angeben für Euch: Sie ist fertig! Ich habe früher schon ein Bisschen genäht und habe es sehr genossen, dieses Hobby mal wieder aus der Versenkung zu holen. Ruck zuck habe ich mir ein paar Stoffe ausgesucht und die Nähmaschine ausgepackt. Ich finde, das Ergebnis kann sich doch echt sehen lassen, oder? :-)
+Jetzt, ein paar Tage später habe ich was zum Angeben für Euch: Sie ist fertig! Ich habe früher schon ein bisschen genäht und habe es sehr genossen, dieses Hobby mal wieder aus der Versenkung zu holen. Ruck zuck habe ich mir ein paar Stoffe ausgesucht und die Nähmaschine ausgepackt. Ich finde, das Ergebnis kann sich doch echt sehen lassen, oder?
 
 <Gallery
   images={[

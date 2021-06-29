@@ -1,8 +1,6 @@
 ---
 ogTitle: Blog-Relaunch und Umzug nach Hamburg
-excerpt: Derzeit herrscht hier Aufbruchstimmung. Wenn ich nicht am Computer
-  sitze und schreibe, sortiere ich unser Hab und Gut aus und packe alles, was
-  nicht abgegeben, weggeschmissen oder gespendet wird, in Kartons.
+excerpt: Derzeit herrscht hier Aufbruchstimmung. Wenn ich nicht am Computer sitze und schreibe, sortiere ich unser Hab und Gut aus und packe alles, was nicht abgegeben, weggeschmissen oder gespendet wird, in Kartons.
 ogImage: null
 isAffiliate: false
 path: /2015/02/blog-relaunch-und-umzug-nach-hamburg/
@@ -19,8 +17,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02
 title: Blog-Relaunch und Umzug nach Hamburg
 subTitle: Teil III: Die Vorfreude
 seoTitle: Blog-Relaunch und Umzug nach Hamburg
-description: Der Umzug meines Blogs ist so gut wie abgeschlossen un auch unser
-  Umzug nach Hamburg steht in den nächsten Tagen an...
+description: Der Umzug meines Blogs ist so gut wie abgeschlossen un auch unser Umzug nach Hamburg steht in den nächsten Tagen an...
 labels:
   - Design
   - die schönste Stadt der Welt
@@ -69,13 +66,13 @@ Und von Woche zu Woche wird der Stapel größer, die **Trennung** wird immer lei
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcEBQj/xAAuEAACAQMCBAQEBwAAAAAAAAABAgMEBREABhITIUEHMVFhFBVCcSIjMpGhsdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAgEQACAgIBBQEAAAAAAAAAAAABAgADERIxISIjQWFx/9oADAMBAAIRAxEAPwCHQWOpjjNdVpHFCx6ESA/t31ooah6BgGMnDj8SpGcY64OdILnX01x5TXGVIYYUAWKJcDOkPh1Y6GeuNdeHHytckRSKczenfoP59NRuNCziOWthhQevyFBUwVtI8Ujq4DDAkfAY9u/nrLNFKbfJJUSnmK3AKfhC8tQOmANV6p2Dtdor3V0AdJh+bTUrIIwqYBxnzYZBxnHToc6L1zrRbYpJ/h6aspJiwYyxhsEYx18wcf1ot1i48Y9xNStnvM4u1bFR3msWrujRiItkQp5H7dsar1Hb7Py+XSQLFIneFRnPudedNu36akZVV+EDv6fbVR29uRTIVMgA4QoGehJOqvRuDxM6rARkcx1frD8Va5lo7hPT1aJxx1EZwVHng+2g+6rfU0u1KS1vJElYxMjOxwkrHuCPXSS37pp1dkeRQSgJyfq/S3+6k/iDuhZLk0dvbhiTGEP0Hvj29tHSt3YKP2atYEGzT//Z"
 />
 
-Natürlich kommen auch unsere beiden Stubentiger mit, die gewöhnen sich gerade schon an einen großen, bequemen Hundekorb, der bei uns im Wohnzimmer zum festen Einrichtungsgegenstand geworden ist, sie gehen dort ein und aus, er ist inzwischen zu ihrem festen **Schlafplatz** geworden. Hoffen wir, dass es ihnen auf der langen Fahrt dort drin auch gut gefällt. Chili schläft immerhin schon mal gerne im Auto, Oskar muss sich da noch ein Bisschen was von seinem Bruder abkucken.
+Natürlich kommen auch unsere beiden Stubentiger mit, die gewöhnen sich gerade schon an einen großen, bequemen Hundekorb, der bei uns im Wohnzimmer zum festen Einrichtungsgegenstand geworden ist, sie gehen dort ein und aus, er ist inzwischen zu ihrem festen **Schlafplatz** geworden. Hoffen wir, dass es ihnen auf der langen Fahrt dort drin auch gut gefällt. Chili schläft immerhin schon mal gerne im Auto, Oskar muss sich da noch ein bisschen was von seinem Bruder abkucken.
 
 Ich werde weiter berichten, bestimmt gibt es im neuen Blog auch die ein oder andere Fotostrecke von unseren Entdeckungstouren durch die **Hansestadt** . Ja, Ihr habt richtig gelesen, die Vorbereitungen für den Umzug meines Blogs liegen auch in den letzten Zügen, noch ein paar Tage, dann erstrahlt cardamonchai in neuem Glanz.
 
 ### Die Tätowierung ist endlich fertig
 
-[Einen kleinen Vorgeschmack](/2014/05/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/) hatte ich Euch ja letztes Jahr schon gegeben, Matze hat mit seinen Programmier- und Designkünsten wahre Wunder bewirkt und eine ganz tolle, neue Seite ist entstanden, schon bald wird sie unter [cardamonchai.com](http://www.cardamonchai.com) zu erreichen sein. Ich bin selbst schon ganz aufgeregt und kann es kaum noch erwarten.
+[Einen kleinen Vorgeschmack](/2014/05/taetowierung-und-webdesign/) hatte ich Euch ja letztes Jahr schon gegeben, Matze hat mit seinen Programmier- und Designkünsten wahre Wunder bewirkt und eine ganz tolle, neue Seite ist entstanden, schon bald wird sie unter [cardamonchai.com](http://www.cardamonchai.com) zu erreichen sein. Ich bin selbst schon ganz aufgeregt und kann es kaum noch erwarten.
 
 <RemoteImage
   alt={`Das Tattoo ist endlich vollständig`}

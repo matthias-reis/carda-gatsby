@@ -59,7 +59,7 @@ Natürlich sind nicht nur Veganer⋆innen unter den Gästen, Neugierige sind jed
 
 **Anne:** Was gab es bei dir denn heute zum Frühstück?
 
-**Christiane:** Heute gab es unser "English Deluxe", ein dem English Breakfast nachempfundenes Frühstück: Scrambled Tofu mit Tomate, gebratenen Soja-Seitan Würstchen und Vollkorntoast. Es ist wegen des hohen Eiweißanteils sehr sättigend und schmeckt dank des Kala Namak Salzes sogar ein Bisschen nach Ei. Dazu ein Soja-Latte mit Espresso vom Hamburger Kaffee Kollektiv Aroma Zapatista.
+**Christiane:** Heute gab es unser "English Deluxe", ein dem English Breakfast nachempfundenes Frühstück: Scrambled Tofu mit Tomate, gebratenen Soja-Seitan Würstchen und Vollkorntoast. Es ist wegen des hohen Eiweißanteils sehr sättigend und schmeckt dank des Kala Namak Salzes sogar ein bisschen nach Ei. Dazu ein Soja-Latte mit Espresso vom Hamburger Kaffee Kollektiv Aroma Zapatista.
 
 ## Veganes Full English Breakfast
 

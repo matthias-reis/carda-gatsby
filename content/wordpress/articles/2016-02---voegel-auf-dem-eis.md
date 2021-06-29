@@ -38,5 +38,3 @@ subTitle: Birdwatching in der Nachbarschaft
 <Gallery name="flickr/annevoegelaufdemeis" />
 
 Fotos von einer ganz besonderen Möwe [findet Ihr hier](/2015/11/die-moewe/).
-
-&nbsp;

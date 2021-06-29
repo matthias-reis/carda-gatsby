@@ -71,11 +71,11 @@ Darüber, dass ich bei meinen Klamotten [im Idealfall](/2018/02/wie-vegan-ist-mo
 
 ## Feel Good Food
 
-Neben Keksen und Tee gibt es noch ein paar Naschereien, die auf dem Sofa für gute Stimmung sorgen. Ein Bisschen frisches Obst mit Nüssen und Soja- oder Kokos-Joghurt zum Beispiel. Ganz besonders toll sind auch selbst gemachte [Kale-Chips](/2016/12/gruenkohlchips-selbst-gemacht/) oder [getrocknete Beeren](/2017/08/doerrautomat/). Oder wie wäre es mit [heißen Maronen](/2017/12/heisse-maronen-selbstgemacht/) ?
+Neben Keksen und Tee gibt es noch ein paar Naschereien, die auf dem Sofa für gute Stimmung sorgen. Ein bisschen frisches Obst mit Nüssen und Soja- oder Kokos-Joghurt zum Beispiel. Ganz besonders toll sind auch selbst gemachte [Kale-Chips](/2016/12/gruenkohlchips-selbst-gemacht/) oder [getrocknete Beeren](/2017/08/doerrautomat/). Oder wie wäre es mit [heißen Maronen](/2017/12/heisse-maronen-selbstgemacht/) ?
 
 Im Anschluss an den Mittagsschlaf und ein paar spannende Lesestunden bearbeite ich dann gerne ein paar Bilder am Laptop oder chatte mit einer lieben Freundin in der Ferne. Unter der Woche komme ich kaum zu diesen schönen Dingen des Lebens und so lege ich sie gerne auf den Sonntag.
 
-Wenn es Richtung Abend geht, steht noch ein Highlight des Tages bevor: Das Abendessen! Am liebsten lasse ich mich ja bekochen, denn er denkt sich die tollsten Gerichte aus. Wie wäre es diesen Sonntag zum Beispiel mal wieder mit [selbst gemachtem Seitan](/2016/01/seitan-a-la-herzmann/), Schatz? Schaatz? Schaaatz!
+Wenn es Richtung Abend geht, steht noch ein Highlight des Tages bevor: Das Abendessen! Am liebsten lasse ich mich ja bekochen, denn er denkt sich die tollsten Gerichte aus. Wie wäre es diesen Sonntag zum Beispiel mal wieder mit [selbst gemachtem Seitan](/2016/01/seitan-grundrezept/)?
 
 Im Anschluss an die gemütliche Dinnerrunde schauen wir uns dann gerne noch gemeinsam vom Sofa aus noch den Tatort an. Ja, ich bekenne mich hiermit auch als "Süchtige". Meine Nörgelei/Lobhudelei (OK, Zweiteres kommt in letzter Zeit seltener vor) könnt Ihr übrigens jeden Sonntagabend in meinem Twitterfeed verfolgen.
 

@@ -37,7 +37,7 @@ image: '/img/moewen-auf-der-bruecke.jpeg'
 
 Diese Aufnahmen sind genau wie die meine [Bildergalerie](/2016/01/bluetenpracht-im-winter/)  "Blütenpracht im Winter" am 24. Dezember beim Spazierengehen durch Planten und Blomen in Hamburg entstanden.
 
-Scrollt nach dem Betrachten der Bilder ruhig noch ein Bisschen weiter nach unten, ich habe da ein kleines Gedicht versteckt, dass mir heute ganz spontan aus der Tastatur gepurzelt ist. Vielleicht gefällt es Euch ja.
+Scrollt nach dem Betrachten der Bilder ruhig noch ein bisschen weiter nach unten, ich habe da ein kleines Gedicht versteckt, dass mir heute ganz spontan aus der Tastatur gepurzelt ist. Vielleicht gefällt es Euch ja.
 
 <Gallery name="flickr/annemoewenplantenunblomen2015" />
 

@@ -46,7 +46,7 @@ subTitle: Kaffee, Ateliers, Film und Kuchen
 
 Die alten Lagerhallen am Rande der Hafencity beherbergen zahlreiche Ateliers, Werkstätten sowie die Hanseatische Materialverwaltung. Hinter diesem Namen verbirgt sich etwas ganz Besonderes: Zwei große Hallen mit Requisiten, die zum Teil aus Filmen oder Theaterstücken stammen. Sie können vor Ort ausgeliehen oder käuflich erworben werden.
 
-Einigen Besuchern ist vielleicht schon aufgefallen, dass viele von uns Hamburgern ein Herz für ausgefallene Stücke aus verschiedenen Epochen haben. Dabei darf es gerne auch mal n' büschen schräg oder kitschig sein. Einige der Besonderheiten, mit denen wir unsere Wohnungen, Cafés und Arbeitsplätze schmücken, stammen aus dieser Quelle. Toll, nech? ;-)
+Einigen Besuchern ist vielleicht schon aufgefallen, dass viele von uns Hamburgern ein Herz für ausgefallene Stücke aus verschiedenen Epochen haben. Dabei darf es gerne auch mal n' büschen schräg oder kitschig sein. Einige der Besonderheiten, mit denen wir unsere Wohnungen, Cafés und Arbeitsplätze schmücken, stammen aus dieser Quelle. Toll, nech?
 
 ## Kreative Köpfe in Hamburgs Oberhafenquartier
 

@@ -1,7 +1,6 @@
 ---
 ogTitle: '"Pine Trees & The Faint Sound Of Buzzing" - neues Heavybird Album'
-excerpt: Heavybird schlägt mit dem tiefgründigen neuen Album "Pine Trees & The
-  Faint Sound Of Buzzing" neue Töne an.
+excerpt: Heavybird schlägt mit dem tiefgründigen neuen Album "Pine Trees & The Faint Sound Of Buzzing" neue Töne an.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_heavybird-1.png__l.jpg
 isAffiliate: false
 path: /2021/01/heavybird-pine-trees-the-faint-sound-of-buzzing/
@@ -20,8 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01
 title: '"Pine Trees & The Faint Sound Of Buzzing"'
 subTitle: Das neue Album von Heavybird
 seoTitle: '"Pine Trees & The Faint Sound Of Buzzing" - neues Heavybird Album'
-description: Heavybird schlägt mit dem tiefgründigen neuen Album "Pine Trees &
-  The Faint Sound Of Buzzing" neue Töne an.
+description: Heavybird schlägt mit dem tiefgründigen neuen Album "Pine Trees & The Faint Sound Of Buzzing" neue Töne an.
 language: de
 type: Artikel
 labels:
@@ -33,6 +31,7 @@ labels:
   - Post-Rock
   - Review
 ---
+
 **Heavybird aka Evan Glenn Adams kennt Ihr spätestens seit meinem Interview mit dem Multiinstrumentalisten im letzten Jahr. Jetzt ist es so weit: Evan hat sein neues Album fertig. Es wird am 19. März erscheinen und ich hatte jetzt schon die Möglichkeit, es anzuhören.**
 
 Nach "it Hurts &amp; it Heals" von 2015 und "The Search" von 2017 schlägt Heavybird mit dem tiefgründigen "Pine Trees &amp; The Faint Sound Of Buzzing" neue Töne an. Evans philosophische Texte spiegeln unsere heutige Zeit dabei sehr grafisch wider. Gleichzeitig lädt die Platte auf angenehme Weise zum Abschalten an, wie man es von Heavybirds musikalischen Werken gewohnt ist.
@@ -100,4 +99,3 @@ erzählte mir [Evan im Interview](/2020/10/heavybird-interview/). Und ich muss i
 [Jetzt Interview mit Heavybird aka Evan Glenn Adams lesen](/2020/10/heavybird-interview/)
 
 [Homepage Heavybird](https://www.heavybirdmusic.com/)
-

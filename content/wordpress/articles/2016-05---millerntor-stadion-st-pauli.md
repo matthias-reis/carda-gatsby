@@ -57,7 +57,7 @@ Bei dem wunderschönen Wetter, das wir am 1. Mai hatten, habe ich endlich mal di
 
 Nachdem das Stadion von 2006-2015 schrittweise umgebaut worden war, finden heute übrigens 29.546 Fans Platz darin. Es gibt 16.940 Stehplätze, 12.606 Sitzplätze, davon 39 Séparées mit 468 Plätzen , 2.491 Business Seats und 96 Plätze für Rollstuhlfahrer. Noch mehr interessante Details erwünscht? 2010 erhielt das Millerntor-Stadion von PETA den Progress Award als tierfreundlichstes Fußballstadion verliehen!
 
-Ich wünsche Euch viel Spaß mit der Galerie! Und drückt uns die Daumen für das nächste Spiel! &lt;3 Auf den Bildern seht Ihr übrigens auch den berühmten Hochbunker, in dem sich das Übel &amp; Gefährlich befindet.
+Ich wünsche Euch viel Spaß mit der Galerie! Und drückt uns die Daumen für das nächste Spiel! Auf den Bildern seht Ihr übrigens auch den berühmten Hochbunker, in dem sich das Übel &amp; Gefährlich befindet.
 
 <Gallery name="flickr/annemillerntorstadion052016" />
 

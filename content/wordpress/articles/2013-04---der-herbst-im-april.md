@@ -72,8 +72,4 @@ Eins dürfte jedem klar sein: So kann und _DARF_ das nicht weitergehen! Wir müs
 
 Weil ich mich, mehr als je zuvor auf den Sommer  freue, habe ich dieses Jahr die Veröffentlichung meiner allseits beliebten [Festivalliste](/2013/03/die-ultimative-festivalliste-2013/) etwas vorgezogen. Ihr findet Sie unter [diesem Link](/2013/03/die-ultimative-festivalliste-2013/). Mattis war so lieb, mir dazu ein kleines HTML-Bannerchen zu bauen, das ich nun ganz einfach überall einbinden kann, um alle auf die [Festivalliste](/2013/03/die-ultimative-festivalliste-2013/) zu leiten. Ich würde mich auch irrsinnig darüber freuen, wenn der/die ein oder andere von Euch diesen kleinen Schnipsel unter dem ein oder anderen Blogartikel veröffentlichen würde. Wenn Ihr mir eine  [E-Mail](mailto:info@cardamonchai.com) zukommen lasst, schicke ich Euch, sobald ich sie gelesen habe den Code und Ihr könnt ihn sofort verwenden. Das wäre großartig! Ihr findet das Banner unter diesem Beitrag.
 
-Herzlichen Dank für die Aufmerksamkeit! Ich wünsche Euch ganz viel Sonne!
-
-Winterliche Grüße
-
 [Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)

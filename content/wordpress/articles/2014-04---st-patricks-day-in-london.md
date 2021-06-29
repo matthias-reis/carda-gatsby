@@ -228,9 +228,9 @@ London ist und bleibt meine Lieblingsstadt und ich werde ihr ganz sicher schon b
 <div style="width: 45%; float: left;">
 
 <RemoteImage
-  alt={`Mit Holly Golightly &lt;3`}
+  alt={`Mit Holly Golightly`}
   size="medium"
-  title={` Mit Holly Golightly &lt;3`}
+  title={` Mit Holly Golightly`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFBP/EACwQAAIBAwMDAgYCAwAAAAAAAAECAwQFEQAGEiExQSJhExQjMnGBQ1FiweH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAB/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECERIhMUH/2gAMAwEAAhEDEQA/AN7Z7/HhreZ4QtDyyPAz/wB1RrYIsJKhDKyuvI5AwQT5/GpXYLxbLRYHa63CCgWohaKKSQ/c+AcAAEk/jSTbMcVrMLzoKZ4admrppGkywKHLOp6Dqc+2hVdlJjUMoJ4DcKmnD04kD8gqv6m+kc4HkjIz7HQrccphjLA9OP8ArWbt6mhqbjbL/DeZKlzUO8sgn5U7oQQxVOPp9IPXxgZznXLc9wUF3sq1lHKWgcMis2AWK/0M9R76UPTlTi0jyW2bcFyplutwlW308DxoyR5KMezdMD7uOfbH5HHsm5Pt/edLPcYqurEdHI1VE2WkVWhLEgE+Bjv4zpPZ7RWUk7kRyTKYl+E4i5RiXP8AIufsH4zphtuzvJOklytlEvNJY6mZ0+rKjdlBwDjt57Z7dNHH4bV6iXWzd8Fs2ldaGniEd0rZWWNA7cIad19XHr07fv8AWklBcYYtpwUlPhYoUAX/ACBHVv2wY6XV+ztufIpbPkiKVJTURgStkt2ILdyPGM6yLvZqWaeblTCKIRLHH8J+PYk9gOnfGqKcBz+H/9k="

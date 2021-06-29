@@ -1,38 +1,36 @@
 ---
 date: 2018-11-12T06:59:04.000+00:00
 slug: haruki-murakami-von-beruf-schriftsteller
-path: "/2018/11/haruki-murakami-von-beruf-schriftsteller/"
+path: '/2018/11/haruki-murakami-von-beruf-schriftsteller/'
 type: Artikel
 typeName: Buchtipp
 title: '"Von Beruf Schriftsteller"'
 seoTitle: Haruki Murakami - Von Beruf Schriftsteller - Aus meinem Bücherregal
 ogTitle: Haruki Murakami - Von Beruf Schriftsteller - Aus meinem Bücherregal
-description: Haruki Murakami ist einer meiner absoluten Lieblings-Autoren. Ich liebe
-  seine Bücher. Besonders "Von Beruf Schrifsteller" hat mich sehr inspiriert.
-excerpt: Haruki Murakami ist einer meiner absoluten Lieblings-Autoren. Ich liebe seine
-  Bücher. Besonders sein Werk "Von Beruf Schrifsteller" hat mich sehr inspiriert.
+description: Haruki Murakami ist einer meiner absoluten Lieblings-Autoren. Ich liebe seine Bücher. Besonders "Von Beruf Schrifsteller" hat mich sehr inspiriert.
+excerpt: Haruki Murakami ist einer meiner absoluten Lieblings-Autoren. Ich liebe seine Bücher. Besonders sein Werk "Von Beruf Schrifsteller" hat mich sehr inspiriert.
 fileName: 2018-11---von-beruf-schriftsteller.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_11_PB060197__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_11_PB060197__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBwX/xAAuEAABAwIEBAUDBQAAAAAAAAABAgMEBREABhIhExQxQQciIzJRFjNhQoGRocH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwUC/8QAJBEAAgEDAwMFAAAAAAAAAAAAAQIDABEhBCJhBXGhEjFBUdH/2gAMAwEAAhEDEQA/AFWlUqHEhtmc+zHZLam/UdClr7n3b/F7fFu2KcixhGo8UR2G3OHFaNlKtq8osBYHtjFcwUOC9laVxaYEOR2yGlpTxQ5oAVpUkjc7n8HSfkY0NGcuWo9PpTCqa/LjxmocxLr6m1tyAhIAFge97jtYYRE7G7X/ACrPUtG8foDm5PbHAwDbv4puahx5MVmQ20EJcAVpsBb8G2JThUgfV+c4zqi4hqryG0x1KOj7ijcp6EWxRtGrNRKY3NSoHLgXUzGcDitIsdttgAoXJPU4m2vVPlPFPOpjBKQ9UFvJUoWNlC/+/wB4BOku0HI96jauEwLeUY4pmptfqtV1xeA00802004FLRpAVcEkqNtxta9/KenTG8Zh9Grpepy6cEhHE9t1KIBChcC36R+/XBgwBFjd0XjyKRDNIzNK7Ek/ea5cbMjDLsoNcmqQNIWp3fZQ1DTcC+38Ym7PzS3PFHMFTkuoQ0++yWSpF0OKLSdjYjSLA79MGDAFCk2repkMibvmv//Z
-ogImage: 
+ogImage:
 labels:
-- Autobiografie
-- Beatles
-- Bücher & Filme
-- Essays
-- Gunzo
-- Haruki Murakami
-- Japan
-- Murakami
-- Originalität
-- Osaka
-- Roman
-- Romane
-- schreiben
-- Schriftsteller
-- Tokio
-- Von Beruf Schrifsteller
+  - Autobiografie
+  - Beatles
+  - Bücher & Filme
+  - Essays
+  - Gunzo
+  - Haruki Murakami
+  - Japan
+  - Murakami
+  - Originalität
+  - Osaka
+  - Roman
+  - Romane
+  - schreiben
+  - Schriftsteller
+  - Tokio
+  - Von Beruf Schrifsteller
 focusKeyword: Haruki Murakami
 status: publish
 isWerbung: false
@@ -42,8 +40,8 @@ errors: {}
 subTitle: Buch von Haruki Murakami
 advertisement: false
 affiliate: true
-
 ---
+
 **Haruki Murakami ist einer meiner absoluten Lieblings-Autoren. Seine Bücher inspirieren mich sehr. Ich liebe seine Geschichten und werde nicht müde, darin zu schmökern.**
 
 Unter dem Titel "Von Beruf Schriftsteller" ist eine Sammlung seiner Essays erschienen. Das Werk erfüllt mich mit Hochachtung. Es ist eigentlich als seine Autobiografie zu betrachten, auch wenn der bescheidene Murakami es nicht so nennen würde. Im Buch gibt er Einblicke in sein Leben, seine Gedankenwelt und seine Ideen zum Thema Literatur.

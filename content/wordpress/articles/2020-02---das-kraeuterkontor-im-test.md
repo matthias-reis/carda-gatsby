@@ -1,40 +1,38 @@
 ---
 date: 2020-02-16T15:21:48.000+00:00
 slug: das-kraeuterkontor-im-test
-path: "/2020/02/das-kraeuterkontor-im-test/"
+path: '/2020/02/das-kraeuterkontor-im-test/'
 type: Artikel
 typeName: Produkttest
 title: Das Kräuterkontor im Test
 seoTitle: Das Kräuterkontor im Test - Tee und Kräuter in Bio-Qualität
 ogTitle: Das Kräuterkontor im Test - Tee und Kräuter in Bio-Qualität
-description: Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel
-  und verschiedene Pflegeprodukte im Angebot. Ich habe das Versandhaus jetzt getestet.
-excerpt: Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel und
-  verschiedene Pflegeprodukte im Angebot. Ich habe das Versandhaus jetzt getestet.
+description: Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel und verschiedene Pflegeprodukte im Angebot. Ich habe das Versandhaus jetzt getestet.
+excerpt: Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel und verschiedene Pflegeprodukte im Angebot. Ich habe das Versandhaus jetzt getestet.
 fileName: 2020-02---das-kraeuterkontor-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2020-02-09-kraeuterkontor-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2020-02-09-kraeuterkontor-4__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgj/xAAtEAABAgQFAwIGAwAAAAAAAAABAgMEBQYRABIhMUEHE2EjURQiMjNCkVJx0f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQEC/8QAIBEAAgEDBAMAAAAAAAAAAAAAAQIAAxIhBBETMTJBYf/aAAwDAQACEQMRAD8Am0BKDnSl1GTOjOkrFsyf5DxvivdNachIiXqd+QOFQQ9dWpF/blOgtbS+H6Sg4CawDcFGQ3eQpKEtIcSMySBYZbbf1+8Pzil5rSkTDxktU496gzOApLakG10nnbg7ca64jCmyG85EqrUSqlpwfsaqinWp12IKFhe8E5syQcpsRa+bg6C2Obq2pt6STB5Lt1NqUe2vLa/gjhQ5GOsKWqaWTeDiWGCpmYMrIdYWmyioe4Oug29xqOcZTqjJoadQ7zoLfxCkXdBISHQBcHwoDUHkb4f4w63oYnyGk1jiTOhq4VT8a0uLhlRcG3dILZ9RkHS4H5AfsecX+U1xKJtJ2zBRDUVDuCxuMwJJ+kjg73HAGDBgWkqHKHqZqkAF47kQ6z1fKpDUMJDU6lSpgiy4hwK+yL3CARrqdbcW03xla66kxEZLW2k3VEPJzOJItcnlf+DQ7+MGDHXi+y+4QAMgJyRP/9k=
-ogImage: 
+ogImage:
 labels:
-- Albert Schweitzer Stiftung
-- Berberitzen
-- Biotee
-- Chia Samen
-- Chiasamen
-- Ernährung & Gesundheit
-- Griechischer Bergtee
-- Handcreme
-- Klettensamen
-- Kräuter
-- Kräuterkontor
-- Lenz Naturkosmetik
-- Minze
-- Paprika edelsüß
-- Pfefferminze
-- Pfefferminztee
-- Ringelblume
-- Tee
+  - Albert Schweitzer Stiftung
+  - Berberitzen
+  - Biotee
+  - Chia Samen
+  - Chiasamen
+  - Ernährung & Gesundheit
+  - Griechischer Bergtee
+  - Handcreme
+  - Klettensamen
+  - Kräuter
+  - Kräuterkontor
+  - Lenz Naturkosmetik
+  - Minze
+  - Paprika edelsüß
+  - Pfefferminze
+  - Pfefferminztee
+  - Ringelblume
+  - Tee
 focusKeyword: Kräuterkontor
 status: publish
 isWerbung: false
@@ -45,8 +43,8 @@ errors:
 subTitle: Tee und Kräuter in Bio-Qualität
 advertisement: true
 affiliate: true
-
 ---
+
 **Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel und verschiedene Pflegeprodukte im Angebot. Ich habe das Berliner Versandhaus jetzt getestet.**
 
 Chiasamen, Paprika Edelsüß, Bio-Pfefferminztee, Griechischer Bergtee, ein Päckchen getrocknete Berberitzenbeeren sowie eine natürliche Handcreme mit Klettensamen und Ringelblume - das alles landete in meinem Warenkorb. Unmittelbar im Anschluss an meine Bestellung war auch schon die Versandbestätigung da und zwei Tage später öffnete ich das sorgsam verpackte Päckchen.
@@ -99,7 +97,7 @@ Weil sie das neunfache ihres Eigengewichts an Feuchtigkeit speichern können, si
   loadingUrl="undefined"
 />
 
-Dass ich mich da ziemlich verschätzt hatte, bewies mir Matze, der damit in der Küche die tollsten Dinge anstellt. Er fügt es so gut wie jedem Gericht hinzu und kann sich Kochen ohne Paprikapulver nicht so wirklich vorstellen. Sein süßlich-herber Geschmack macht seine Currywurst, Pizza, Pastagerichte und [Seitansbraten](/2016/01/seitan-a-la-herzmann/) erst zu dem, was sie sind. Inzwischen stehe ich dem Pülverchen auch wesentlich aufgeschlossener gegenüber. Es kommt in meinen selbst gemachten [veganen Käse](/2014/11/suechtig-nach-kaese-casomorphine/), in die Suppe und sogar in den Pfannkuchenteig. Vielleicht bin ich auch einfach eine Spießerin geworden - im Standardsortiment unserer Küche darf es seit einiger Zeit auf jeden Fall auch für mich nicht mehr fehlen. [](https://www.adcell.de/promotion/click/promoId/209308/slotId/80259)
+Dass ich mich da ziemlich verschätzt hatte, bewies mir Matze, der damit in der Küche die tollsten Dinge anstellt. Er fügt es so gut wie jedem Gericht hinzu und kann sich Kochen ohne Paprikapulver nicht so wirklich vorstellen. Sein süßlich-herber Geschmack macht seine Currywurst, Pizza, Pastagerichte und [Seitansbraten](/2016/01/seitan-grundrezept/) erst zu dem, was sie sind. Inzwischen stehe ich dem Pülverchen auch wesentlich aufgeschlossener gegenüber. Es kommt in meinen selbst gemachten [veganen Käse](/2014/11/suechtig-nach-kaese-casomorphine/), in die Suppe und sogar in den Pfannkuchenteig. Vielleicht bin ich auch einfach eine Spießerin geworden - im Standardsortiment unserer Küche darf es seit einiger Zeit auf jeden Fall auch für mich nicht mehr fehlen. [](https://www.adcell.de/promotion/click/promoId/209308/slotId/80259)
 
 ## Handcreme
 

@@ -97,7 +97,7 @@ Alle, die mitmachen wollen, senden unter dem Betreff "T-Shirt-Idee" bis zum 30. 
 
 > Ich würde mich sehr freuen, wenn möglichst viele mitmachen, damit am Ende auch eine schöne T-Shirt-Galerie entsteht. Bitte sendet Eure Fotos und Texte bis zum 30. September 2012 unter dem Betreff "T-Shirt-Idee" an info@cardamonchai.com. Die Gewinner werden von einer neutralen Person gezogen und per E-Mail über ihren Gewinn benachrichtigt. Die Gewinne werden per Post versendet. Der Rechtsweg ist ausgeschlossen.
 
-Im Anschluss seht Ihr einige meiner Lieblings-T-Shirts. Ich bin gespannt auf Eure Bilder. Natürlich sind auch Bilder von Sweatshirts erlaubt! :-)
+Im Anschluss seht Ihr einige meiner Lieblings-T-Shirts. Ich bin gespannt auf Eure Bilder. Natürlich sind auch Bilder von Sweatshirts erlaubt!
 
 <Gallery
   images={[

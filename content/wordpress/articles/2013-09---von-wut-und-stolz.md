@@ -46,7 +46,7 @@ Was ich seit [letztem Montag um 13:30 Uhr](/2013/09/mein-pakt-mit-dem-schweinehu
 
 Den Rest des Montags verbrachte ich voller Euphorie, weil ich ja gerade aufgehört hatte und vor allem auch, weil ich mich mit meinem Aufhör-Artikel ja selbst ganz schön unter Druck gesetzt hatte. Mir blieb also nicht viel Zeit, die Zigaretten zu vermissen.
 
-Der Dienstag war schon anstrengender, im Büro gab es die ein oder andere Situation, in der ich gerne vor die Tür gegangen wäre, aber irgendwie habe ich es dann doch geschafft. Ein besonderer Moment für mich war, als meine Kollegin mit dem Schlüssel, Feuerzeug und Kippen in der Hand vor mir stand und mich mitnehmen wollte und ich sagte "Ich habe aufgehört". Irgendwie hat mir das im Nachhinein betrachtet, schon ein Bisschen Auftrieb gegeben.
+Der Dienstag war schon anstrengender, im Büro gab es die ein oder andere Situation, in der ich gerne vor die Tür gegangen wäre, aber irgendwie habe ich es dann doch geschafft. Ein besonderer Moment für mich war, als meine Kollegin mit dem Schlüssel, Feuerzeug und Kippen in der Hand vor mir stand und mich mitnehmen wollte und ich sagte "Ich habe aufgehört". Irgendwie hat mir das im Nachhinein betrachtet, schon ein bisschen Auftrieb gegeben.
 
 <RemoteImage
   alt={`Früchtetee statt Nikotinpflaster`}
@@ -74,7 +74,7 @@ Nachdem ich am Mittwoch die Arbeit ganz gut mit Früchtetee statt Kippen verbrac
 
 Wir setzten uns dann im Café an einen Tisch und plauderten über vergangene und aktuelle Zeiten. Jede von uns war sichtlich nervös und glücklich, die anderen wiederzusehen. Irgendwann begannen die Damen, Zigaretten zu drehen und im Anschluss etwas nervös auf ihren Stühlen zu rutschen. Ob ich auch mitkommen würde zum Rauchen? Nein, ich habe am Montag aufgehört. Geht mal ohne mich. Das beschäftigte uns eine weitere halbe Stunde, in der jede über ihre Versuche, das Rauchen sein zu lassen berichtete. Am Ende gingen die beiden sichtlich erleichtert vor die Türe. Ich bestellte mir lieber noch ein Sagrés. Und wartete.
 
-Ein komisches Gefühl. Bisher kenne ich das nur andersrum. Meine Freunde sitzen in der Kneipe, ich stehe draußen und rauche. Nun saß ich drinnen. Dachte nach und checkte in aller Ruhe meine Mails. Ein Bisschen unruhig war ich schon, allerdings gab sich das schnell, als die beiden, ausgekühlt vom ersten Herbsttag, an den Tisch zurückkehrten. Und das erste Mal seit Jahren nahm ich bewusst wahr, wie man riecht, wenn man vom Rauchen zurückkommt. Ich würde sagen: Eher nicht so gut.
+Ein komisches Gefühl. Bisher kenne ich das nur andersrum. Meine Freunde sitzen in der Kneipe, ich stehe draußen und rauche. Nun saß ich drinnen. Dachte nach und checkte in aller Ruhe meine Mails. Ein bisschen unruhig war ich schon, allerdings gab sich das schnell, als die beiden, ausgekühlt vom ersten Herbsttag, an den Tisch zurückkehrten. Und das erste Mal seit Jahren nahm ich bewusst wahr, wie man riecht, wenn man vom Rauchen zurückkommt. Ich würde sagen: Eher nicht so gut.
 
 Was mich zum nächsten Tag bringt. Dem Donnerstag. An dem mir plötzlich alle Gerüche intensiver vorkamen als sonst. Mein eigenes Parfum. Das Mittagessen der Kollegen. Das Wetter. Der Kugelschreiber. Der Kaffee. Die Seife. Plötzlich roch es überall nach Keksen, Cola, Chanel, grüner Farbe, Staub, Herbstlaub, Ingwertee. Und im Aufzug nach Schweiß. Seitdem benutze ich auch die Treppe. Ob das Nikotin meine Geruchsnerven gelähmt hat? Ich bin immer noch damit beschäftigt, an allem zu schnüffeln. Und geht ein Raucher an mir vorbei, steigt meine Motivation.
 
@@ -110,7 +110,7 @@ Freitag halfen wir dann einer Freundin (Nichtraucherin) beim Umzug. Ich dachte z
   ]}
 />
 
-Klar, ich denke noch dran. Sogar ständig. Sonst würde ich auch diesen Artikel hier nicht schreiben. Aber ich versuche es jeden Tag, mich weiter zu motivieren. Die Wut, die schlechte Laune, der Drang lässt langsam schon ein Bisschen nach. Und ich fühle mich gut. Muss nicht mehr so oft an Eisenlungen denken. Bemerke, wie schnell ich aus der Puste bin. Ach ja: Ich habe mich mit dem Matze und Evelyn beim Sport angemeldet. Was ganz Neues.
+Klar, ich denke noch dran. Sogar ständig. Sonst würde ich auch diesen Artikel hier nicht schreiben. Aber ich versuche es jeden Tag, mich weiter zu motivieren. Die Wut, die schlechte Laune, der Drang lässt langsam schon ein bisschen nach. Und ich fühle mich gut. Muss nicht mehr so oft an Eisenlungen denken. Bemerke, wie schnell ich aus der Puste bin. Ach ja: Ich habe mich mit dem Matze und Evelyn beim Sport angemeldet. Was ganz Neues.
 
 Ob ich es für immer schaffe, kann ich nicht sagen. Im Moment fühlt es sich gut an. Manche Situationen kann ich mir auch jetzt noch nicht ohne Zigaretten vorstellen ( [Festival](/2013/07/southside-festival-2013/) : Campingplatz, warten auf die Bands), aber die Bilder im Kopf verlieren auch nach und nach an Glanz.
 

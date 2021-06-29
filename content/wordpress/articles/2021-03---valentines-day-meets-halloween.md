@@ -1,7 +1,6 @@
 ---
 ogTitle: Ryan von The Camel City Blackouts - "Valentines Day meets Halloween"
-excerpt: The Camel City Blackouts gründeten sich 2015. Jetzt haben Ryan und
-  Derek ihre neue EP "13" veröffentlicht. Ich habe Ryan dazu interviewt.
+excerpt: The Camel City Blackouts gründeten sich 2015. Jetzt haben Ryan und Derek ihre neue EP "13" veröffentlicht. Ich habe Ryan dazu interviewt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-camel-city-blackouts-fb.png__l.jpg
 isAffiliate: false
 path: /2021/03/camel-city-blackouts-interview/
@@ -20,8 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03
 title: '"Valentines Day meets Halloween"'
 subTitle: Ryan von The Camel City Blackouts
 seoTitle: Ryan von The Camel City Blackouts - "Valentines Day meets Halloween"
-description: The Camel City Blackouts gründeten sich 2015. Jetzt haben Ryan und
-  Derek ihre neue EP "13" veröffentlicht. Ich habe Ryan dazu interviewt.
+description: The Camel City Blackouts gründeten sich 2015. Jetzt haben Ryan und Derek ihre neue EP "13" veröffentlicht. Ich habe Ryan dazu interviewt.
 language: de
 type: Artikel
 labels:
@@ -31,6 +29,7 @@ labels:
   - Punk
   - The Camel Black Outs
 ---
+
 **The Camel City Blackouts gründeten sich 2015. Die Band aus Winston Salem, NC, besteht noch heute aus den beiden Gründungsmitgliedern Ryan Sizemore und Derek Gilreath.**
 
 2019 veröffentlichten die beiden ihr erstes Album "Possession". 2021 wurde es dann Zeit für neue Musik. Mit ihrer brandneuen EP "13" wollen Ryan und Derek zeigen, wo ihre Einflüsse liegen. Das Ergebnis ist ziemlich brilliant.
@@ -106,4 +105,3 @@ Ich glaube, wir haben mit unserem Album "Possession" geschafft, das auszudrücke
 ## The Camel City Blackouts – "Angels"
 
 <YouTube id="4U-a-NVDUfc" />
-

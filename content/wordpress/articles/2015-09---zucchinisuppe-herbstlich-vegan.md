@@ -94,6 +94,6 @@ Die Schalotten anbraten, nebenbei die Zucchini und die Mohrrüben in grobe Stüc
 
 Im Anschluss an den Püriervorgang die Suppe mit Pfeffer und Muskatnuss abschmecken und noch gut eine halbe Stunde auf kleiner Flamme köcheln lassen. Vor dem Servieren noch mal probieren und gegebenenfalls nachwürzen.
 
-Mit dem Schöpflöffel auf den Tellern anrichten und mit ein paar Tropfen Kürbiskernöl verzieren. Guten Appetit! :-)
+Mit dem Schöpflöffel auf den Tellern anrichten und mit ein paar Tropfen Kürbiskernöl verzieren. Guten Appetit!
 
 Als Beilage gab es mein selbstgemachtes Jederkanns-Brot, [das Rezept findet Ihr hier](/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/).

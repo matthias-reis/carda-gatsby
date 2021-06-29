@@ -66,7 +66,7 @@ Personal Trainer raten ja gerne mal dazu, das Vorhaben, wieder zu laufen, mit Fr
 
 Normalerweise bin ich ja kein Fan von "diesen Motivationskisten" aber irgendwie macht mir das gerade Spaß, also nerve ich Euch damit. Auch, wenn Ihr das genau so doof findet, wie ich normalerweise. Übrigens gab es für mich noch einen weiteren Motivator, der mir am Wochenende einen kleinen Arschtritt gegegeben hat, als ich ihm von meinen Omi-Beschwerden erzählt habe. Lieben Dank dafür an dieser Stelle! Es ist schon sehr viel besser geworden! \*fg\*
 
-Und jetzt sitze ich mit einem Glas Gurkenwasser vor dem Bildschirm grinse weiter vor mich hin. Den Helden meiner Jugend lauschend. Allerdings gibt es jetzt erst mal ein Bisschen Faith No More in den Gehörgang.
+Und jetzt sitze ich mit einem Glas Gurkenwasser vor dem Bildschirm grinse weiter vor mich hin. Den Helden meiner Jugend lauschend. Allerdings gibt es jetzt erst mal ein bisschen Faith No More in den Gehörgang.
 
 Sonnige Grüße aus Hamburg
 

@@ -35,7 +35,7 @@ subTitle: Foodblog? Sollt Ihr haben!
 
 Schon beim Aufschließen der Wohnungstür strömte mir ein wunderbarer Duft entgegen und ich konnte es kaum erwarten, sie zu probieren.
 
-Weil mir beim [Bloggertreffen](/2017/01/hamburger-bloggertreffen-2017-klappe-die-erste/) vor ein paar Tagen ja nachgesagt wurde, ich würde ein Foodblog führen, gebe ich denen jetzt mal Foodblog. Hier kommt Matzes unglaublich leckeres Rezept für vegane Gemüse-Quiche. Ja, er hat es komplett selbst kreiiert. Und nein, es ist keine Milch drin. :-)
+Weil mir beim [Bloggertreffen](/2017/01/hamburger-bloggertreffen-2017-klappe-die-erste/) vor ein paar Tagen ja nachgesagt wurde, ich würde ein Foodblog führen, gebe ich denen jetzt mal Foodblog. Hier kommt Matzes unglaublich leckeres Rezept für vegane Gemüse-Quiche. Ja, er hat es komplett selbst kreiiert. Und nein, es ist keine Milch drin.
 
 ## Zutaten für vier Portionen
 
@@ -84,10 +84,6 @@ In einer Schüssel den Pizzaschmelz, das Mehl und die Petersilie vermischen. Das
 
 Stellt Eure vegane Gemüse-Quiche jetzt in den vorgeheizten Ofen und backt sie für 45 Minuten. Nachdem sie 10 Minuten lang auf einem Rost ausgekühlt ist, könnt Ihr die Springform öffnen und die Quiche in Portionen aufteilen.
 
-Dazu passt hervorragend ein schöner Frankfurter Äppler oder ein trockener Cider. Ihr wollt noch eine Beilage? Wie wäre es mit einem kräftigen [Vollkornbrot](/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/) ?
-
-Buon Appetit! &lt;3
+Dazu passt hervorragend ein schöner Frankfurter Äppler oder ein trockener Cider. Ihr wollt noch eine Beilage? Wie wäre es mit einem kräftigen [Vollkornbrot](/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/)?
 
 <Gallery name="flickr/herzmanngemuesequiche" />
-
-&nbsp;

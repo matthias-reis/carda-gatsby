@@ -78,7 +78,7 @@ Sie starteten mit dem letzten Song der neuen LP 'Echo Street' 'Mary Rose'. Sofor
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUDBgEHCP/EACsQAAIBAwMCAwkBAAAAAAAAAAECAwQFEQASITFBIlGBBhMURHGTocHR8P/EABgBAQADAQAAAAAAAAAAAAAAAAQAAwUH/8QAIBEAAgICAgIDAAAAAAAAAAAAAQMAAgRBETESIiFRYf/aAAwDAQACEQMRAD8A5/tFBTy08LSRRsSoPK9dHijpRwKWn+2NZs6AWyKRGjJSIMQevQamJChHdu4JAIyB9PTXWMVOPVNPUdDQ+phMLDc/MHkpaJjtWjhAzydg/mld5t8UEUjLCE8G5fCBkeerVcaV6BYY6uJ0kqI1nQ+8ym1hnkDvzgjtoK7w0xtlXg/KllG7A3Z/3HfQM0IKrGtR0dCORS/PBMXWOUC3zZ5xTgfkaJpp4xWQSSRrLGHUyJIcKwzyDjoMar1HcDHTCLeoUqAdFQ18Knl19HxqvHzlFQBsOhv8kur2HE2P7a3+nvtPbEzTiWmTmYKQyptXEfGRt64/WNUq/wAq/BOitwIyAueg7Z8z56jpb4lKSaeoaMkYO2bGdK7ncIp4nVSCSMZ3Z0BjVKSV1sOADsbiyfM+R7M//9k="
 />
 
-Doch nicht genug: Sel legte seine Gitarre ab, lies uns daran zupfen (ich konnte ihr sogar einen Kuss aufdrücken!), badetet ein Bisschen in der Menge und gab allen höflich die Hand. Nachdem wir alle drei noch ein Plec ergattern konnten und die Playlist aufgehoben hatten, gingen wir, immer noch vom Rausch der guten Stimmung und der tollen Musik mitgerissen Richtung Vorraum, wo uns Sel entgegen kam! Normalerweise bin ich keine Autogrammjägerin und lasse Künstler lieber in Ruhe, wenn sie verschwitzt und abgekämpft von der Bühne steigen.
+Doch nicht genug: Sel legte seine Gitarre ab, lies uns daran zupfen (ich konnte ihr sogar einen Kuss aufdrücken!), badetet ein bisschen in der Menge und gab allen höflich die Hand. Nachdem wir alle drei noch ein Plec ergattern konnten und die Playlist aufgehoben hatten, gingen wir, immer noch vom Rausch der guten Stimmung und der tollen Musik mitgerissen Richtung Vorraum, wo uns Sel entgegen kam! Normalerweise bin ich keine Autogrammjägerin und lasse Künstler lieber in Ruhe, wenn sie verschwitzt und abgekämpft von der Bühne steigen.
 
 Irgendwie wirkte Sel derart entspannt und freundlich-offen, dass ich geradewegs auf ihn zustiefelte, mich für die gelungene Show bedankte und ihm erzählte, dass ich Amplifier inzwischen 10 Mal auf der Bühne gesehen hätte und mich schon auf das nächste Konzert freuen würde.
 
@@ -93,7 +93,7 @@ Irgendwie wirkte Sel derart entspannt und freundlich-offen, dass ich geradewegs 
 
 Ich drückte ihm meine Eintrittskarte in die Hand und wir begannen beide nach einen Kugelschreiber zu wühlen. Schließlich stellte ich enttäuscht fest, dass ich keinen finden konnte und hatte schon mit dem Kapitel abgeschlossen. Und was tat Sel? 'Kein Problem, ich hol einen!'
 
-Er flitzte rüber zum Promostand, besorgte einen Stift und fragte mich nach meinem Namen. 'Ich schreibe nicht 10 mal, ich schreibe 10 Millionen mal, das klingt viel romantischer', meinte er und signierte das Ticket: 'To Anne - Thanks 10 Million Times &lt;3 Sel.' Anschließend drückte er mich noch, bis mir fast die Luft weg blieb und ich bedankte mich noch mal.
+Er flitzte rüber zum Promostand, besorgte einen Stift und fragte mich nach meinem Namen. 'Ich schreibe nicht 10 mal, ich schreibe 10 Millionen mal, das klingt viel romantischer', meinte er und signierte das Ticket: 'To Anne - Thanks 10 Million Times, Sel.' Anschließend drückte er mich noch, bis mir fast die Luft weg blieb und ich bedankte mich noch mal.
 
 <RemoteImage
   alt={`Das Autogram`}

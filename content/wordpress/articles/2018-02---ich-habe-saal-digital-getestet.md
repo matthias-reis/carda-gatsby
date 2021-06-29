@@ -1,7 +1,6 @@
 ---
 ogTitle: Ich habe Saal Digital getestet - Endlich ein perfektes Wandbild
-excerpt: Ich habe jetzt den Service von Saal Digital getestet und ein Wandbild
-  aus einem meiner Lieblingsfotos erstellen lassen. Hier mein Erfahrungsbericht.
+excerpt: Ich habe jetzt den Service von Saal Digital getestet und ein Wandbild aus einem meiner Lieblingsfotos erstellen lassen. Hier mein Erfahrungsbericht.
 ogImage: null
 isAffiliate: false
 path: /2018/02/saal-digital/
@@ -19,9 +18,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02
 title: Ich habe Saal Digital getestet
 subTitle: Endlich ein perfektes Wandbild
 seoTitle: Ich habe Saal Digital getestet - Endlich ein perfektes Wandbild
-description: Ich habe jetzt den Service von Saal Digital getestet und ein
-  Wandbild aus einem meiner Lieblingsfotos erstellen lassen. Hier mein
-  Erfahrungsbericht.
+description: Ich habe jetzt den Service von Saal Digital getestet und ein Wandbild aus einem meiner Lieblingsfotos erstellen lassen. Hier mein Erfahrungsbericht.
 labels:
   - Beo
   - drucken
@@ -108,6 +105,6 @@ Für Euch habe ich ein paar Fotos auf unserer Staffelei gemacht, so kommt es sch
 
 ## Fazit:
 
-Die Software war zunächst etwas gewöhnungsbedürftig und läuft ein Bisschen ruckelig. Darüber kann man aber gut hinwegsehen, wenn man das Ergebnis bedenkt. Das Bild ist perfekt geworden, der Druck könnte besser nicht sein. Ich kann Saal Digital ganz klar jedem/r Fotografen/in empfehlen, der/die Wert auf perfekt umgesetzten Druck legt. Der schnelle Versand setzt noch eins obendrauf.
+Die Software war zunächst etwas gewöhnungsbedürftig und läuft ein bisschen ruckelig. Darüber kann man aber gut hinwegsehen, wenn man das Ergebnis bedenkt. Das Bild ist perfekt geworden, der Druck könnte besser nicht sein. Ich kann Saal Digital ganz klar jedem/r Fotografen/in empfehlen, der/die Wert auf perfekt umgesetzten Druck legt. Der schnelle Versand setzt noch eins obendrauf.
 
 Zur Homepage von Saal Digital geht es übrigens [hier entlang](https://www.saal-digital.de).

@@ -98,7 +98,7 @@ Die so entstandenen Manschetten legt Ihr nun links auf links und näht die Kante
   ]}
 />
 
-Fertig sind Eure neuen Armstulpen passend zum [winterlichen Loopschal](/2015/11/diy-upcycling-loopschal/). &lt;3
+Fertig sind Eure neuen Armstulpen passend zum [winterlichen Loopschal](/2015/11/diy-upcycling-loopschal/).
 
 <Gallery
   images={[

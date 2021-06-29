@@ -93,14 +93,10 @@ Die Chia-Samen zusammen mit der Pflanzenmilch oder dem Saft in eine verschließb
 
 Die Chia-Samen am besten über Nacht in der Dose lassen und abends vor dem Zubettgehen zwei bis drei Mal umrühren.
 
-Morgens die Dose aus dem Kühlschrank nehmen und die Samen erneut gut umrühren. Ihr könnt jetzt noch ein Bisschen Agavendicksaft oder Apfelsüße mit einrühren, wenn Ihr es besonders süß mögt.
+Morgens die Dose aus dem Kühlschrank nehmen und die Samen erneut gut umrühren. Ihr könnt jetzt noch ein bisschen Agavendicksaft oder Apfelsüße mit einrühren, wenn Ihr es besonders süß mögt.
 
 Die Masse mit einem Löffel vorsichtig in Schälchen anrichten und mit dem Obst, der Schokolade, oder was Ihr sonst gerne als "Deko" verwenden möchtet darüber geben. Ich esse am liebsten Blaubeeren dazu.
 
 Voilà: Fertig ist der Chiapudding! Lasst es Euch schmecken!
-
-Bis bald
-
-Anne &lt;3
 
 _Quellen: [Wikipedia](http://de.wikipedia.org/wiki/Mexikanische_Chia)  , [CHIA SAMEN KAUFEN.de](http://www.chia-samen-kaufen.de/),   [chiasamen.info](http://www.chia-samen.info) _

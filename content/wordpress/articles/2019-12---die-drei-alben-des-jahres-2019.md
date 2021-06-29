@@ -73,5 +73,3 @@ Am Ende war es dann doch klar: "Blood Year" von [**Russian Circles**](/2017/02/r
 <YouTube id="9ANmCp69lD4" />
 
 Hat Euch unsere Auswahl gefallen? Das ist schön. Wir haben vor, Euch auch in Zukunft mit Musiktipps zu versorgen. Bleibt also am besten dran. Wer nichts verpassen möchte, kann [gerne meinen Newsletter abonnieren](#newsletter). Dann halte ich Euch auf dem Laufenden.
-
-&nbsp;

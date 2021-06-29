@@ -90,7 +90,7 @@ Nachdem ich momentan gesundheitlich etwas angeschlagen bin, und am Sonntag ganze
 
 Vielen Dank nochmal für die Karten an dieser Stelle, lieber Vale! Wir haben uns sehr darüber gefreut und fanden den Abend mit Dir mal wieder sehr schön! Wir freuen uns schon auf Russian Circles mit Dir!
 
-Hier noch ein paar Beweisbilder, die ich mit meinem Mobiltelefon aufgenommen habe, bitte nicht auf die Qualität achten. ;-)
+Hier noch ein paar Beweisbilder, die ich mit meinem Mobiltelefon aufgenommen habe, bitte nicht auf die Qualität achten.
 
 ### PS:
 
@@ -129,30 +129,6 @@ Natürlich werde ich Euch auch nicht verraten, was "unser Lied" ist.
   ]}
 />
 
-**Und hier sind für Euch Karnivool mit "All I Know"**
+## Karnivool – "All I Know"
 
 <YouTube id="18SUFbABxNQ&amp;w=560&amp;h=315" />
-
-_This is my sense of reality_ _This is proof of my coming of age_ _This is truth in captivity_ _This is losing a theology, I_ _I'm a soul taker_ _I'm a cruel, witted mind_ _This is my sense of reality_ _This is proof of my coming of age_ _I'm a soul taker_ _I'm a cruel witted mime_
-
-_Are you with me?_ _Are you of like mind?_ _Are you with me?_ _Are you of like mind?_
-
-_We keep falling free of gravity_ _We just severed these umbilical wires_ _This is more than just affinity_ _We're moving further through an endless design_ _I'm a soul taker_ _I'm a cruel witted mime_
-
-_Cold long ago_ _Cold long ago_ _Cold long ago_ _Cold long ago_
-
-_Come again, I feel a breakdown_ _Let's go higher_
-
-_This is the sound of your_ _Reason to wake_ _Have we forgotten now?_ _Can we relate?_
-
-_It's backwards, it makes no sense_ _So real that we can't pretend_ _It's backwards, it makes no sense_ _It's harder to just pretend_
-
-_Say it once more_ _Say it again_ _Hey is this the end_ _Of all I know_
-
-_Say it once more_ _Say it again_ _Hey is this the end_ _Of all I know_
-
-_Are you with me?_ _(Can we relate?)_ _Are you of like mind?_ _Are you with me?_ _(Can we relate?)_ _Are you of like mind?_
-
-_Say it once more_ _Say it again_ _Hey is this the end_ _Of all I know_
-
-_Say it once more_ _Say it again_ _Hey is this the end_ _Of all I know_

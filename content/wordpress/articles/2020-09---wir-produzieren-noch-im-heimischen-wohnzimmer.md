@@ -1,8 +1,6 @@
 ---
 ogTitle: Bijou en Bois - das vegane Schmucklabel aus Hamburg im Interview
-excerpt: Bijou en Bois ist ein veganes Schmucklabel aus Hamburg. Ich habe Mara
-  und Arno jetzt zum Interview eingeladen, um mehr über ihr Start-up zu
-  erfahren.
+excerpt: Bijou en Bois ist ein veganes Schmucklabel aus Hamburg. Ich habe Mara und Arno jetzt zum Interview eingeladen, um mehr über ihr Start-up zu erfahren.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_bijou-en-bois-fb.png__l.jpg
 isAffiliate: false
 path: /2020/09/bijou-en-bois-interview/
@@ -20,9 +18,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09
 title: Wir produzieren noch im heimischen Wohnzimmer
 subTitle: Veganes Schmuckdesign made in Hamburg
 seoTitle: Bijou en Bois - das vegane Schmucklabel aus Hamburg im Interview
-description: Bijou en Bois ist ein veganes Schmucklabel aus Hamburg. Ich habe
-  Mara und Arno jetzt zum Interview eingeladen, um mehr über ihr Start-up zu
-  erfahren.
+description: Bijou en Bois ist ein veganes Schmucklabel aus Hamburg. Ich habe Mara und Arno jetzt zum Interview eingeladen, um mehr über ihr Start-up zu erfahren.
 labels:
   - Bijou en Bois
   - Fair Fashion & Beauty

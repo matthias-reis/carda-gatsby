@@ -61,7 +61,7 @@ Ich war sofort begeistert und dachte mir auf der Stelle eine Variation aus. Als 
 - 1 Paprikaschote
 - 1 Schalotte
 - Olivenöl
-- 200 ml [veganer Weißwein](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)  (+Wein zum Trinken :-) )
+- 200 ml [veganer Weißwein](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)  (+Wein zum Trinken)
 - 1 Liter Gemüsebrühe
 - 50 g [Würzhefe](/2021/01/hefe-ist-vegan/)
 - 1 Handvoll Kressesaat
@@ -86,20 +86,12 @@ Den Kürbis, die Paprika und die Schalotte in kleine Würfelchen schneiden. Fall
 
 Olivenöl in der Pfanne erhitzen und alles kurz anbräunen. Den Reis einstreuen und kurz mit anbraten. Anschließend den Wein hinzugeben, kurz aufkochen und danach den Herd auf mittlere Stufe herunter drehen.
 
-Nach und nach die Brühe hinzugeben und bei kleiner Flamme und ständigem Umrühren ca. 25 Minuten quellen lassen, bis die gewünschte Risotto-Konsistenz erreicht ist. Zwischendurch die Prise Muskatnuss und etwas Safran hinzugeben, falls Ihr welchen habt / mögt. Nein, ich werde das Wort, das an "\*\*tzig" erinnert, nicht verwenden, ich mag es nicht und Ihr wisst, was ich meine. ;-)
+Nach und nach die Brühe hinzugeben und bei kleiner Flamme und ständigem Umrühren ca. 25 Minuten quellen lassen, bis die gewünschte Risotto-Konsistenz erreicht ist. Zwischendurch die Prise Muskatnuss und etwas Safran hinzugeben, falls Ihr welchen habt / mögt.
 
-Während des Kochvorgangs nicht vergessen,  auch in den Koch / die Köchin ab und zu den ein oder anderen ml Wein zu gießen. Bitte vorher entsprechend vorsorgen. :-)
+Während des Kochvorgangs nicht vergessen,  auch in den Koch / die Köchin ab und zu den ein oder anderen ml Wein zu gießen. Bitte vorher entsprechend vorsorgen.
 
 Zum Schluss hebt Ihr noch die [Würzhefe](/2021/01/hefe-ist-vegan/) unter und drapiert das Gericht am besten auf tiefe Teller. Schmeckt das Risotto ab, wenn Eure Brühe gut gewürzt ist, solltet Ihr normalerweise kein weiteres Salz brauchen. Vor dem Servieren wird noch jede Portion mit einem Teelöffel Kürbiskernöl, etwas Kressesaat, Pfeffer und den oben erwähnten Kürbiskernen verziert. Fertig ist Euer veganes Kürbisrisotto!
-
-Dazu bietet Ihr (Na, ahnt Ihr's schon?) am besten Weißwein an.
-
-Guten Appetit!
 
 <Gallery name="flickr/annekuerbisrisotto" />
 
 Salomes Rezept für die tollste und zugleich schnellste Torte der Welt [findet Ihr hier](/2014/09/die-wunderbarste-torte-der-welt/).
-
-&nbsp;
-
-&nbsp;

@@ -48,8 +48,6 @@ Verzichtet bitte auf Böller und Raketen. Für die Tiere und die Menschen. Nicht
 
 Und nicht nur deshalb ist diese Materialschlacht zum Jahreswechsel absolut nicht angebracht. Aus Respekt für die Menschen, die aus ihrer Heimat geflohen sind, sollte komplett darauf verzichtet werden. Wie würdet Ihr Euch fühlen, wenn Euer Haus einer Bombe oder einem Luftangriff zum Opfer gefallen wäre und Eure neuen Nachbarn feiern das neue Jahr mit lauten Böllern und Raketen? Auf Böller verzichten bedeutet also auch mitfühlen und Empathie zeigen.
 
-Denkt mal darüber nach. Lasst uns [friedlich in 2016 ankommen](/2015/12/jahresrueckblick/), uns gegenseitig respektieren, tolerieren und miteinander anstoßen. Und wenn Ihr unbedingt Euer Geld loswerden wollt, spendet es. Der [Lebenshof](/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/) oder das [Flüchtlingsheim](/2015/09/bloggerfuerfluechtlinge/) in Eurer Nähe danken es Euch sicher.
+Denkt mal darüber nach. Lasst uns [friedlich in 2016 ankommen](/2015/12/jahresrueckblick/), uns gegenseitig respektieren, tolerieren und miteinander anstoßen. Und wenn Ihr unbedingt Euer Geld loswerden wollt, spendet es. Der [Lebenshof](/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/) oder das [Heim für Geflüchtete](/2015/09/bloggerfuerfluechtlinge/) in Eurer Nähe danken es Euch sicher.
 
 Danke.
-
-Merken

@@ -61,7 +61,7 @@ Kaum zu Hause angekommen und der Dusche entstiegen, brach auch schon der Hunger 
 
 Pfirsich, Apfel und Banane schälen, in kleine Stückchen schneiden und zusammen mit den Heidelbeeren in einen Mixbecher geben. Den Reisdrink dazu geben und alles vorsichtig mit dem Stabmixer pürieren, bis alles schön fein und schaumig ist.
 
-Strohhalm dazu und genießen. &lt;3
+Strohhalm dazu und genießen.
 
 <Gallery
   images={[

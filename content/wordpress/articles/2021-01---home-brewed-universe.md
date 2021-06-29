@@ -1,7 +1,6 @@
 ---
 ogTitle: Home Brewed Universe im Interview – Fear of an obtuse Earth
-excerpt: Am 25. Januar wird Arka Sengupta aka Home Brewed Universe sein fünftes
-  Album "Fear of an obtuse Earth" veröffentlichen. Zeit für ein Interview.
+excerpt: Am 25. Januar wird Arka Sengupta aka Home Brewed Universe sein fünftes Album "Fear of an obtuse Earth" veröffentlichen. Zeit für ein Interview.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_home-brewed-fb.png__l.jpg
 isAffiliate: false
 path: /2021/01/home-brewed-universe-interview/
@@ -20,9 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12
 title: Home Brewed Universe
 subTitle: '"Fear Of An Obtuse Earth"'
 seoTitle: Home Brewed Universe im Interview – Fear of an obtuse Earth
-description: Am 25. Januar wird Arka Sengupta aka Home Brewed Universe sein
-  fünftes Album "Fear of an obtuse Earth" veröffentlichen. Zeit für ein
-  Interview.
+description: Am 25. Januar wird Arka Sengupta aka Home Brewed Universe sein fünftes Album "Fear of an obtuse Earth" veröffentlichen. Zeit für ein Interview.
 language: de
 type: Artikel
 labels:
@@ -41,6 +38,7 @@ labels:
   - Post-Rock
   - Prog
 ---
+
 **Am 25. Januar wird Arka Sengupta aka Home Brewed Universe sein fünftes Album "Fear of an obtuse Earth" veröffentlichen. Während wir auf unsere Vorbestellungen warten, wird es Zeit für ein Interview mit dem in Indien beheimateten Multi-Instrumentalisten.**
 
 Ich hatte die Möglichkeit, schon in ein paar der Songs vom neuen Album reinzuhören. Anschließend muss ich sagen, dass ich schon sehr gespannt darauf bin, auch den Rest davon kennenzulernen. Ich freue mich schon auf Ende Januar, wenn Arka das gesamte Werk enthüllen wird.

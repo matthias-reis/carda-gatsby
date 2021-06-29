@@ -92,13 +92,3 @@ In der Zwischenzeit kann man bequem das Tabulé fertigmachen. Einfach Rosinen od
 Die Dahl-Linsen noch mal ordentlich umrühren und abschmecken, und neben dem Tabulé auf den Teller drapieren.
 
 Dazu passt sehr gut Seitan oder Tofu, man kann aber beispielsweise auch gut eine Sauce aus Sojajoghurt, Knoblauch und Kräutern dazu servieren. Erlaubt ist, was schmeckt. Wir haben dieses Mal [die gewonnenen √ürstchen](/2014/08/der-wichtigste-grund-fur-meine-vegane-ernahrungsweise/) von den VEGGY FRIENDS und Pide dazu gegessen.
-
-Guten Appetit!
-
-Kussi Anne
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

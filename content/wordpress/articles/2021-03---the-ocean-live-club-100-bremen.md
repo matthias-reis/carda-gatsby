@@ -1,9 +1,6 @@
 ---
 ogTitle: The Ocean live @ Club 100 Bremen – Das erste Live-Konzert 2021
-excerpt: The Ocean haben heute Abend im Bremer Club 100 (Pier 21) das Album
-  "Phanerozoic I" komplett gespielt. Ich war live dabei. Für mich war es nicht
-  nur das erste Live-Konzert des Jahres, sondern auch eines meiner ersten
-  Stream-Konzerte und ich war positiv überrascht.
+excerpt: The Ocean haben heute Abend im Bremer Club 100 (Pier 21) das Album "Phanerozoic I" komplett gespielt. Ich war live dabei. Für mich war es nicht nur das erste Live-Konzert des Jahres, sondern auch eines meiner ersten Stream-Konzerte und ich war positiv überrascht.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean.png__l.jpg
 isAffiliate: false
 path: /2021/03/the-ocean-live-club-100-bremen/
@@ -20,8 +17,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03
 title: The Ocean live @ Club 100 Bremen
 subTitle: Das erste Live-Konzert des Jahres 2021
 seoTitle: The Ocean live @ Club 100 Bremen – Das erste Live-Konzert 2021
-description: The Ocean haben heute Abend im Bremer Club 100 (Pier 21) das Album
-  "Phanerozoic I" komplett gespielt. Ich war live dabei.
+description: The Ocean haben heute Abend im Bremer Club 100 (Pier 21) das Album "Phanerozoic I" komplett gespielt. Ich war live dabei.
 labels:
   - Berlin
   - Bremen

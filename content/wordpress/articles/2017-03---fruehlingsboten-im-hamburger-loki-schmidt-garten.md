@@ -77,6 +77,6 @@ Als kleines Geschenk haben wir zum Schluss unseres Spaziergangs auf dem Dach der
 
 Für alles, was der Winter zurückgelassen hat, habe ich bewusst die monochrome Bildbearbeitung gewählt, der Frühling zeigt sich dagegen in bunten Gewändern. ich finde, so ist ein interessanter Kontrast entstanden. Daran, wie wenige schwarz-weiße Bilder in meiner Galerie enthalten sind, kann man außerdem schön sehen, wie weit der Frühling schon ist. Übrigens finde ich, der dicke Baumstumpf sieht aus wie Cthulhu.
 
-Und nun: Diashow ab. :-)
+Und nun: Diashow ab.
 
 <Gallery name="flickr/annelokischmidtgarten32017" />

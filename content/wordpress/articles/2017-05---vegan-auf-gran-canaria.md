@@ -85,9 +85,9 @@ Im Hotel angekommen, mussten wir uns nicht erneut erkundigen. Die nette Dame am 
 
 > "Wie schön, dass sie hier sind! Ich habe mit unserem Küchenchef gesprochen. Sagen Sie heute Abend am Buffet einfach dem Kellner Bescheid, dann bekommen sie ein eigenes Menü!"
 
-Wir waren so richtig schön geplättet. Zusätzlich zum umfangreichen Buffet, welches zahlreiche vegane  Optionen bat, bekamen wir jeden Abend ein veganes 3-Gänge Menü aufgetafelt. Und das ganz ohne Aufpreis. Ihr könnt sicher ahnen, wie neidisch einige der anderen Gäste (meistens die mit Speck und Steak auf dem Teller) geschaut haben. Hehe. :-)
+Wir waren so richtig schön geplättet. Zusätzlich zum umfangreichen Buffet, welches zahlreiche vegane  Optionen bat, bekamen wir jeden Abend ein veganes 3-Gänge Menü aufgetafelt. Und das ganz ohne Aufpreis. Ihr könnt sicher ahnen, wie neidisch einige der anderen Gäste (meistens die mit Speck und Steak auf dem Teller) geschaut haben.
 
-Das Hotelpersonal war äußerst zuvorkommend, liebevoll und hilfsbereit. Wir hatten das Gefühl, dass es ihnen große Freude bereitete, mal etwas Neues auszuprobieren. Ich vermute ja auch nach wie vor, dass unter ihnen der oder die ein oder andere VeganerIn ist, der/die innerlich jubelte "Endlich mal wieder zwei von uns!" :-P
+Das Hotelpersonal war äußerst zuvorkommend, liebevoll und hilfsbereit. Wir hatten das Gefühl, dass es ihnen große Freude bereitete, mal etwas Neues auszuprobieren. Ich vermute ja auch nach wie vor, dass unter ihnen der oder die ein oder andere VeganerIn ist, der/die innerlich jubelte "Endlich mal wieder zwei von uns!"
 
 ## Vegane Menüs
 
@@ -99,7 +99,7 @@ Das Hotelpersonal war äußerst zuvorkommend, liebevoll und hilfsbereit. Wir hat
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACgQAAIBAwQCAQMFAAAAAAAAAAECAwQFEQAGEiETMQcUQVEicYKh8P/EABcBAQADAAAAAAAAAAAAAAAAAAMAAgT/xAAhEQABBAEEAwEAAAAAAAAAAAABAAIDESEEEzFBEnGRsf/aAAwDAQACEQMRAD8A4C9XO17qs9DbJJ4EnhleokqTHG0cQB5ScySFAPJifZ9AHU5Hva6TSUCSXweSYCp8fPhwj4yNGGJUY/SnkOe8FcjB1lXzgBNvyqoJ2R1pKaGA8D1krzP9sNRvxz8dU276yrNZVS0trokE9XUBuRAJwEUfdjj2fQH7ayaeE7QLsHtKZKJ7WtbquU14lgusyqZWhjVpSFBlQoHjfC9dgsP46NN4bRsXatJVW2nFzpvPwdmefyOSueLBccfuRj8aNNvxjHkEfOU3j2DRXGtrNyb0kqamquczTU9vp38WI+grSMO8lQDxGMZ7Ordsez7eoFvdPaKCtp3mgxUUTztIsyqCcLy7VseiCQSBpzXwverbQV1qkilZI1ZVLYVgQOs+vsDpNNMNl2Sv3JuGeL6hEJSJG6LDPCNPySx/2NE18olEdW2uU5Ywxl15VNqdz/H1Uy1NNuq5yTSBEjhjowShJxyYsuB0ez160apGwbRTXHb9U0FvjuF1+oEbxPFzRE64j2MZJLcs5wDo1SWPTtNGO/qkOndILa4D2QP1f//Z"
 />
 
-Weil ich geschrieben hatte, dass ich besonders gespannt war auf die typischen Avocados, die in Gran Canaria angebaut werden, bekamen wir fast jeden Abend als Vorspeise eine Platte mit Avocados. Jedes Mal ein Bisschen anders angerichtet. Jeden Tag noch liebevoller als an dem zuvor. Außerdem servierte man uns Pizza, Gemüsereis, Gemüseplatten und sogar Sushi. Für das Frühstück hatte man extra veganen Kuchen und Kekse vorbereitet.
+Weil ich geschrieben hatte, dass ich besonders gespannt war auf die typischen Avocados, die in Gran Canaria angebaut werden, bekamen wir fast jeden Abend als Vorspeise eine Platte mit Avocados. Jedes Mal ein bisschen anders angerichtet. Jeden Tag noch liebevoller als an dem zuvor. Außerdem servierte man uns Pizza, Gemüsereis, Gemüseplatten und sogar Sushi. Für das Frühstück hatte man extra veganen Kuchen und Kekse vorbereitet.
 
 Am Buffet fanden wir die berühmten kanarischen Papas arrugadas (runzlige, in Meerwasser gekochte Kartoffeln), die verschiedensten Salate, Kraut, Antipasti, Suppen, Gemüsevariationen, Oliven und zum Frühstück Brötchen, Obstplatten, Müsli, Bohnen, gebratene Auberginen, Zucchini Marmeladen und natürlich unsere geliebten Bananen. Sojamilch gehört zur Standardausstattung des Hotels und war in rauen Mengen verfügbar. Wir waren im Schlaraffenland angekommen und konnten unser Glück kaum glauben.
 

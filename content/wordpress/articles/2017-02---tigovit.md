@@ -1,34 +1,32 @@
 ---
 date: 2017-02-03T17:03:21.000+00:00
 slug: tigovit-gruener-tee-in-hohen-dosen
-path: "/2017/02/tigovit-gruener-tee-in-hohen-dosen/"
+path: '/2017/02/tigovit-gruener-tee-in-hohen-dosen/'
 type: Artikel
 typeName: Produkttest
 title: tigovit
 seoTitle: tigovit - hoch dosierter Grüntee für die Gesundheit
 ogTitle: tigovit - hoch dosierter Grüntee für die Gesundheit
-description: tigovit enthält Stoffe aus Grünem Tee, die für ihre positive Wirkung
-  auf die Gesundheit bekannt sind, in besonders hoher Dosierung. Ich die Kapseln getestet
-excerpt: tigovit enthält Stoffe aus Grünem Tee, die für ihre positive Wirkung auf
-  die Gesundheit bekannt sind, in besonders hoher Dosierung. Ich die Kapseln getestet.
+description: tigovit enthält Stoffe aus Grünem Tee, die für ihre positive Wirkung auf die Gesundheit bekannt sind, in besonders hoher Dosierung. Ich die Kapseln getestet
+excerpt: tigovit enthält Stoffe aus Grünem Tee, die für ihre positive Wirkung auf die Gesundheit bekannt sind, in besonders hoher Dosierung. Ich die Kapseln getestet.
 fileName: 2017-02---tigovit.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit4.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit4.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,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
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit4.png__l.jpg
 labels:
-- Asien
-- EGCG
-- Ernährung
-- Ernährung & Gesundheit
-- freie Radikale
-- Gesundheit
-- Grüner Tee
-- Immunsystem
-- piperin
-- Substitute
-- tigovit
-- vegane Ernährung
+  - Asien
+  - EGCG
+  - Ernährung
+  - Ernährung & Gesundheit
+  - freie Radikale
+  - Gesundheit
+  - Grüner Tee
+  - Immunsystem
+  - piperin
+  - Substitute
+  - tigovit
+  - vegane Ernährung
 focusKeyword: tigovit
 status: publish
 isWerbung: false
@@ -37,8 +35,8 @@ language: de
 errors: {}
 subTitle: Hoch dosierter Grüntee
 advertisement: true
-
 ---
+
 **Wenn es darum geht, etwas für meine Gesundheit zu tun, oder mein Wohlbefinden zu steigern, bin ich immer neugierig auf die neuesten Errungenschaften der Heilkunst.**
 
 <RemoteImage
@@ -49,13 +47,13 @@ advertisement: true
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB8DASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABAUAAgMI/8QAIhAAAgICAgIDAQEAAAAAAAAAAQIDEQAEEkEhMRNRYVLR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREBAQEBAQEAAAAAAAAAAAAAAQARAiFB/9oADAMBAAIRAxEAPwD1HszmKgqFie7oDDQ7MjSrboVJqhidleSCq/b+smbesZXif5XjWEhwieA5Hqz9X13melDw2VnMyZHuzEqSK80VK4+GT5VJ4kEeDealuyhlKn0cHPrlLkMh4qtcej5uzjc57ESzwvHICVYUaNHImkokUe2u5IziKSDiGjAJD8vo9V+5Z0lZdZOfHmfLcfV4YxOZSOEgX+qH+45BSgURQ7yHOfZf/9k="
 />
 
-Das habe ich nicht erst bewiesen, als ich mich [auf dem Weg zur Tiefenentspannung](/2014/11/auf-dem-weg-zur-tiefenentspannung/) in die Hände einer versierten Thai-Masseurin sowie einer TCM-Ärztin begab. Ich bin landläufig sogar schon ein Bisschen als Kräuterhexe bekannt. Was ich schon alles an Tees und Smoothies ausprobiert habe, ich sage es Euch!
+Das habe ich nicht erst bewiesen, als ich mich [auf dem Weg zur Tiefenentspannung](/2014/11/auf-dem-weg-zur-tiefenentspannung/) in die Hände einer versierten Thai-Masseurin sowie einer TCM-Ärztin begab. Ich bin landläufig sogar schon ein bisschen als Kräuterhexe bekannt. Was ich schon alles an Tees und Smoothies ausprobiert habe, ich sage es Euch!
 
 Doch Spaß beiseite. Mein Bruder war es, der mir vor ein paar Wochen eine kleine Schachtel in die Hand drückte. "Probier die mal. Ich glaube, die sind was für Dich!", meinte er.
 
 "Kapseln? Bist Du sicher, dass die auch vegan sind?", war meine erste Frage. Die Grüntee-Kapseln sind nicht nur vegan, sie beinhalten außerdem wertvolles EGCG und Piperin.
 
-Nachdem das klar war und ich mich im Internet ein Bisschen schlau gemacht hatte, war ich bereit, es mal mit einem Test zu versuchen. "Täglich 2 – 3 Kapseln" stand auf der Packung und Tante Google versicherte mir, dass ich keine Nebenwirkungen zu befürchten hatte. Warum also nicht mal testen. Wer nicht wagt, der nicht gewinnt.
+Nachdem das klar war und ich mich im Internet ein bisschen schlau gemacht hatte, war ich bereit, es mal mit einem Test zu versuchen. "Täglich 2 – 3 Kapseln" stand auf der Packung und Tante Google versicherte mir, dass ich keine Nebenwirkungen zu befürchten hatte. Warum also nicht mal testen. Wer nicht wagt, der nicht gewinnt.
 
 ## Hochwirksame Antioxidantien
 
@@ -111,7 +109,7 @@ Die Firma hat ihren Sitz in München Grünwald. Weitere Infos sind außerdem auf
 
 ## Mein Fazit
 
-Ich muss sagen, dass mir das Produkt sehr gut gefällt, auch wenn ich anfangs noch eher zögerlich darauf reagiert habe. Ich habe mich inzwischen ein Bisschen eingelesen, was die verschiedenen Inhaltsstoffe angeht und muss sagen, dass da schon einiges sehr interessant klingt.
+Ich muss sagen, dass mir das Produkt sehr gut gefällt, auch wenn ich anfangs noch eher zögerlich darauf reagiert habe. Ich habe mich inzwischen ein bisschen eingelesen, was die verschiedenen Inhaltsstoffe angeht und muss sagen, dass da schon einiges sehr interessant klingt.
 
 Durch meine Hashimoto Thyreoiditis habe ich mit schubartigen Schmerzen, Fatique und diversen anderen Malessen zu tun und auch meine oben erwähnte Rosacea meldet sich immer mal wieder. Für mich sind daher neue, vor allem natürliche Mittel zur Stärkung des Immunsystems und zur Abwehr freier Radikale immer sehr willkommen. Ich kann mir durchaus vorstellen, tigovit auch mal über einen längeren Zeitraum zu testen. Es würde mir auch nichts ausmachen, 2 –3 Kapseln am Tag zu schlucken. Das ist das Einzige, was man sich meiner Meinung nach überlegen muss, wenn man überlegt, es mal zu probieren. [Hier gehts zum Interview mit Tanja Hohenester, der Gründerin von tigovit](/2017/03/tigovit-interview/).
 

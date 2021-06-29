@@ -83,7 +83,7 @@ Damit ist das Schicksal der Tiere besiegelt. Häufig werden sie mit dem Transpor
 
 Auch auf dem _Puss In Boots_ Hof kommen immer wieder Pferde an. Sie versuchen sich den in der Gegend lebendenen Pferdegruppen anzuschließen. Wobei es auch schon mal zu Keilereien kommen kann. Als Herdentiere haben Pferde eine klare Rangordnung. Neuankömmlinge haben es nicht einfach.
 
-Um den Tieren das Leben wenigstens ein kleines Bisschen leichter zu machen, vergeben die _Puss in Boots_ Heupatenschaften. Ein Heuballen kostet 4 Euro. Das ist wirklich nicht viel Geld und es kann einem Pferd das Leben retten.
+Um den Tieren das Leben wenigstens ein kleines bisschen leichter zu machen, vergeben die _Puss in Boots_ Heupatenschaften. Ein Heuballen kostet 4 Euro. Das ist wirklich nicht viel Geld und es kann einem Pferd das Leben retten.
 
 ## Eure Heuspenden können Leben retten
 

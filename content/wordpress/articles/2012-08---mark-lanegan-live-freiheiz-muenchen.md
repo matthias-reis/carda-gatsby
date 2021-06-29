@@ -70,16 +70,14 @@ Das Konzert war großartig. Im Vorprogramm spielte die belgische Band ' [Creatur
 
 Besonders gut gefiel mir auch das Spiel des Creature With The Atom Brain Gitarristen Aldo Struyf (auch Mitglied der Band 'Millionaire'), der sich später als Multiinstrumentalist entpuppte, als er zusammen mit Mark wieder auf die Bühne kam und abwechselnd Keyboard und Gitarre spielte, manchmal auch beides gleichzeitig.  Hier sind meine Eindrücke des Abends für Euch. Entschuldigt bitte die schlecht Bildqualität, ich hatte nur eine Klickoflex dabei, aber ich wollte unbedingt vom Konzert berichten. Ich werde auch wieder bessere Konzertbilder machen, Indianerehrenwort.
 
-## Hier sind für Euch Creature With the Atom Brain mit "Mind Your Own God" von ihrem 2007er Album "I Am The Golden Gate Bridge"
+## Creature With the Atom Brain – "Mind Your Own God" vom Album "I Am The Golden Gate Bridge" (2007)
 
 <YouTube id="OaMkIEwrxUw" />
 
-## Und selbstverständlich habe ich auch von Mark Lenegan noch einen für Euch auf Lager: "The Gravedigger´s Song"
+## Mark Lanegan – "The Gravedigger's Song"
 
 <YouTube id="mVCNSZPPr9M" />
 
-## Ach und weil es so schön ist und man es einfach hier nicht weglassen kann, hier noch "Hit The City"
+## Mark Lanegan – "Hit The City"
 
 <YouTube id="azH5eEXtllc" />
-
-Das war´s jetzt aber für heute (eigentlich ist ja schon morgen) Gute Nacht und ♥lichen Dank für die Aufmerksamkeit.

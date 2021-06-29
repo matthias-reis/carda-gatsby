@@ -270,7 +270,7 @@ Ich habe mich mit Margit Ricarda Rolf, einer der Gründerinnen unterhalten. Sie 
 
 **Ricarda:** Zur Eröffnung bist du jedenfalls herzlich eingeladen.
 
-**Anne:** Dann halte mich auf jeden Fall auf dem Laufenden! :-)
+**Anne:** Dann halte mich auf jeden Fall auf dem Laufenden!
 
 _Wer sich f_ _ü_ _r das Leben und Arbeiten in der Hamburger SoLaWi interessiert, kann zu den Planungstreffen kommen, sie finden jeden 1. und 3. Dienstag im Monat im_ [_Happenpappen_](http://www.happenpappen.de) _in Hamburg statt,_ [_Anmeldung_](https://www.facebook.com/groups/720133451413309/?fref=ts) _ist erbeten, da die Teilnehmerzahl begrenzt ist._
 

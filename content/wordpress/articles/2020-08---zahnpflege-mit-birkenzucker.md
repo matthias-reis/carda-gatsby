@@ -1,38 +1,36 @@
 ---
 date: 2020-08-27T11:01:09.000+00:00
 slug: zahnpflege-xylit-birkengold
-path: "/2020/08/zahnpflege-xylit-birkengold/"
+path: '/2020/08/zahnpflege-xylit-birkengold/'
 type: Artikel
 typeName: Produkttest
 title: Zahnpflege mit Birkenzucker
 seoTitle: Zahnpflege mit Xylit - Birkengold Zahnpflegeprodukte im Test
 ogTitle: Zahnpflege mit Xylit - Birkengold Zahnpflegeprodukte im Test
-description: Zahnpflege mit Birkenzucker - was zuerst gewöhnungsbedürftig klingt,
-  klappt ziemlich gut. Ich habe jetzt die Zahnpflegeprodukte von Birkengold getestet.
-excerpt: Zahnpflege mit Birkenzucker - was zuerst gewöhnungsbedürftig klingt, klappt
-  ziemlich gut. Ich habe jetzt die Zahnpflegeprodukte von Birkengold getestet.
+description: Zahnpflege mit Birkenzucker - was zuerst gewöhnungsbedürftig klingt, klappt ziemlich gut. Ich habe jetzt die Zahnpflegeprodukte von Birkengold getestet.
+excerpt: Zahnpflege mit Birkenzucker - was zuerst gewöhnungsbedürftig klingt, klappt ziemlich gut. Ich habe jetzt die Zahnpflegeprodukte von Birkengold getestet.
 fileName: 2020-08---zahnpflege-mit-birkenzucker.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-27-birkengold-zahnpflege-15__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-27-birkengold-zahnpflege-15__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAsEAABAgUCBAQHAAAAAAAAAAABAgMABAUREiExBhNBcSIyQoEUI1FSYZHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//EAB0RAAEFAAMBAAAAAAAAAAAAAAIAAQMEERITIWH/2gAMAwEAAhEDEQA/AE9NpqCi9sh23ilTw7NrpjNRaaaSwu4R8wZrsSCQnfcHe20LqWhCJfJasBa+kWtQbm3qRTZ1qQLDTbKW1NHw5YjRaT6SSb673Pu1iV4Q5M2rCpCM8nAnxRb0q06SnHx9L6RPVum8tsoKAog3KhGgSj9MrtZlae/NCRmFpVlMTAsvO2ielwSOv7hBxnR5mg1B6RqSQXQnJtafKtP3CFgsDOOsjZqnWLiS5OD51marEm0+sFrVZSfViLgdv5GzorDKGQSoLWoeUm+n57/SCCDO+Ymqi2OlszRaXWWXLYyr58uKbtnunp7WjLeJ325pfwU5Ui+ZJXJZdCuYgpSblKVm1xqdDt0ggiCWIQHsDx/ivCVzfrP1vq//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_zahnpflege.png__l.jpg
 labels:
-- Birkengold
-- Birkenzucker
-- Fair Fashion & Beauty
-- less waste
-- lesswaste
-- Produkttest
-- Xylit
-- Zähne putzen
-- Zahnkreide
-- Zahnpasta
-- Zahnpflege
-- Zahnpulver
-- Zero Waste
-- zerowaste
-- Zuckerersatz
-- zuckerfrei
+  - Birkengold
+  - Birkenzucker
+  - Fair Fashion & Beauty
+  - less waste
+  - lesswaste
+  - Produkttest
+  - Xylit
+  - Zähne putzen
+  - Zahnkreide
+  - Zahnpasta
+  - Zahnpflege
+  - Zahnpulver
+  - Zero Waste
+  - zerowaste
+  - Zuckerersatz
+  - zuckerfrei
 focusKeyword: Zahnpflege
 status: publish
 isWerbung: false
@@ -42,8 +40,8 @@ errors: {}
 subTitle: Birkengold Zahnpflegeprodukte
 advertisement: true
 affiliate: true
-
 ---
+
 **Zahnpflege mit Birkenzucker - was auf den ersten Blick gewöhnungsbedürftig klingt, klappt ziemlich gut. Ich habe jetzt das Zahnpulver, den Kaugummi und die Zahnpflegebonbons von Birkengold getestet.**
 
 Seit einiger Zeit verzichte ich weitestgehend auf Zucker. Seit ich mich umgestellt habe, entdecke ich immer wieder spannende neue Produkte. So auch die Zahnpflegeprodukte von Birkengold. Was "Zucker" mit Zahnpflege zu tun haben kann, erfahrt Ihr jetzt.

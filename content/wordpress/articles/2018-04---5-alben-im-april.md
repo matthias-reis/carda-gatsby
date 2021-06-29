@@ -82,7 +82,7 @@ Pennywise haben wieder zugelegt an Brachialität, Genialität und Geschwindigkei
 
 Könnt Ihr Euch vorstellen, dass ich zuerst überlegt habe, dieses Album hier aufzunehmen, nur weil ich sauer auf Maynard James Keenan war? Das ist wirklich nicht fair. Inzwischen habe ich mich beruhigt und lasse mich auf seine Andeutungen zu neuen Tool Alben, die vielleicht irgendwann mal kommen könnten, einfach nicht mehr ein. Es ist ja irgendwie auch eine Art von Kunst, wie er seine Fans und die gesamte Musikpresse seit Jahren an der Nase herumführt.
 
-Die Supergroup kommt mit dem neuen Album in einer neuen Ära an. Sie klingt nachdenklicher, als die Vorgänger "Mer de Noms", "Thirteen Step" und "eMOTIVe". Ich bin glücklich, dass nach dem 2013 erschienenen Best Of Album "Three Sixty" nochmal etwas komplett Neues kommt. Ich gebe zu, man muss sich ein Bisschen mit dem Album beschäftigen, aber haben wir uns damals nicht auch erstmal reingehört, bevor wir die Platten in unseren Schreinen zwischen Rosen und Herzen platziert und angebetet haben? Gebt Euch Zeit für dieses Stück Musik, Leute! "Good Luck! You're on your own!"
+Die Supergroup kommt mit dem neuen Album in einer neuen Ära an. Sie klingt nachdenklicher, als die Vorgänger "Mer de Noms", "Thirteen Step" und "eMOTIVe". Ich bin glücklich, dass nach dem 2013 erschienenen Best Of Album "Three Sixty" nochmal etwas komplett Neues kommt. Ich gebe zu, man muss sich ein bisschen mit dem Album beschäftigen, aber haben wir uns damals nicht auch erstmal reingehört, bevor wir die Platten in unseren Schreinen zwischen Rosen und Herzen platziert und angebetet haben? Gebt Euch Zeit für dieses Stück Musik, Leute! "Good Luck! You're on your own!"
 
 So long and thanks for all the fish...
 

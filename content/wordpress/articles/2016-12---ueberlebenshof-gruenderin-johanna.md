@@ -113,7 +113,7 @@ Wir mussten viele unserer Tiere an andere Gnadenhöfe vermitteln und haben dadur
 
 **Johanna:** Wir gehen auch oft essen. Aber nicht so, wie man sich das vorstellt. Dadurch, dass unsere Küche erst im November fertig wurde, haben wir hauptsächlich bei unseren Freunden gegessen und dabei ist es einfach geblieben. Mal kochen wir mal kochen sie. Sie wohnen nur drei Orte weiter.
 
-**Anne:** Ich liebe ja den Norden und komme bei Ausflügen auch schon mal ein Bisschen rum. Kannst Du mir ein Lokal/Café bei Euch in der Gegend empfehlen?
+**Anne:** Ich liebe ja den Norden und komme bei Ausflügen auch schon mal ein bisschen rum. Kannst Du mir ein Lokal/Café bei Euch in der Gegend empfehlen?
 
 **Johanna:** Leider Nein, hier im Cuxland laufen die Uhren etwas langsamer als in Hamburg. Vegan essen zu gehen ist hier so gut wie unmöglich. Leider hat auch unser Bioladen den Kaffee mit Sojamilch wieder abgeschafft, was mich letztens furchtbar geärgert hat. Daher komme ich lieber nach Hamburg und besuche Dich, wenn wir mal einen Kaffee trinken gehen wollen.
 
@@ -217,5 +217,3 @@ Durch meine Erfahrung mit Tieren weiß ich, wie gefährlich die Raketen und die 
 **Johanna:** Ich wünsche auch Dir schöne Feiertage! Herzlichen Dank für Dein Interview. Alles Liebe!
 
 **Wer den Katzenhof AMOA mit einer Futterspende unterstützen möchte, kann dies über die [Facebook-Gruppe](https://www.facebook.com/Katzenhofamoa/?hc_ref=PAGES_TIMELINE) tun. Dort ist Johanna täglich aktiv.**
-
-Merken

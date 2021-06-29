@@ -65,7 +65,7 @@ Wir sind wirklich froh, dass sich alles so zum Guten gewendet hat. Die Ärzte in
 
 Übrigens habe ich [meinen Pakt mit dem Schweinehund](/2013/09/mein-pakt-mit-dem-schweinehund/) bis jetzt nicht gebrochen. Letzten Mittwoch habe ich meine Stiefel bestellt, die ich von ihm zu Belohnung bekomme, dass ich jetzt seit einem Monat nicht mehr rauche. Leider sind sie noch nicht da, aber ich poste gerne eine Foto, sobald sie bei mir eintreffen.
 
-Jetzt, da es wieder ein Bisschen ruhiger wird und ich hoffentlich auch häufiger wieder die Zeit dazu finden werde, gelobe ich Besserung. Ich will auf jeden Fall wieder mehr schreiben und den ein oder anderen Satz davon auch hier für Euch ins Netz stellen.
+Jetzt, da es wieder ein bisschen ruhiger wird und ich hoffentlich auch häufiger wieder die Zeit dazu finden werde, gelobe ich Besserung. Ich will auf jeden Fall wieder mehr schreiben und den ein oder anderen Satz davon auch hier für Euch ins Netz stellen.
 
 Es wartet auch ein kleiner Fotoauftrag auf mich, vielleicht werde ich daraus auch für Euch eine kleine Galerie erstellen. Ich werde Euch auf jeden Fall auf dem Laufenden halten.
 

@@ -62,11 +62,11 @@ Bereits zwei Songs haben die Deftones aus ihrem Coming up Album ausgekoppelt. Ic
 
 Dieser Artikel ist [Chi Cheng](http://oneloveforchi.com/) gewidmet. ❤️
 
-## Hier sind für Euch die Deftones mit "Roller Derby"
+## Deftones – "Roller Derby"
 
 <YouTube id="An1D8BDJ_AA&amp;feature=player_embedded" />
 
-## Und hier sind für Euch nochmal die Deftones mit "Rosemary"
+## Deftones – "Rosemary"
 
 <YouTube id="VyNBc-_Ctbk&amp;feature=player_embedded" />
 

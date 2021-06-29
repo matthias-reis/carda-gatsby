@@ -1,8 +1,6 @@
 ---
 ogTitle: Interview mit Bettina Eichblatt-Koenekoop von Oakleaf Stelzenkunst
-excerpt: Straßenkunst ist eine gute Arte, sich den öffentlichen Raum als
-  Lebensraum zugänglich zu machen, sagt Bettina, Gründerin von Oakleaf
-  Stelzenkunst.
+excerpt: Straßenkunst ist eine gute Arte, sich den öffentlichen Raum als Lebensraum zugänglich zu machen, sagt Bettina, Gründerin von Oakleaf Stelzenkunst.
 ogImage: null
 isAffiliate: false
 path: /2017/07/interview-mit-bettina-eichblatt-koenekoop-gruenderin-der-kuenstlergruppe-oakleaf-stelzenkunst/
@@ -20,9 +18,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07
 title: Bettina von Oakleaf Stelzenkunst
 subTitle: '"Ich denke mir alle Kostüme selbst aus"'
 seoTitle: Interview mit Bettina Eichblatt-Koenekoop von Oakleaf Stelzenkunst
-description: Straßenkunst ist eine gute Arte, sich den öffentlichen Raum als
-  Lebensraum zugänglich zu machen, sagt Bettina, Gründerin von Oakleaf
-  Stelzenkunst.
+description: Straßenkunst ist eine gute Arte, sich den öffentlichen Raum als Lebensraum zugänglich zu machen, sagt Bettina, Gründerin von Oakleaf Stelzenkunst.
 labels:
   - Altona
   - Bettina Eichblatt
@@ -208,4 +204,3 @@ Bettina Eichblatt-Koenekoop OAKLEAF STELZENKUNST [info@oakleaf.eu](mailto:info@o
     },
   ]}
 />
-

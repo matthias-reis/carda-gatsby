@@ -38,7 +38,7 @@ year: '2015'
 month: '07'
 ---
 
-Hier sind meine Bilder aus dem schönen St. Peter-Ording. In Kürze wird es hier noch eine weitere Bildergalerie mit Fotos von unserem Besuch dort im Oktober letzten Jahres geben. Dann könnt Ihr genau vergleichen, welche Euch besser gefallen. :-)
+Hier sind meine Bilder aus dem schönen St. Peter-Ording. In Kürze wird es hier noch eine weitere Bildergalerie mit Fotos von unserem Besuch dort im Oktober letzten Jahres geben. Dann könnt Ihr genau vergleichen, welche Euch besser gefallen.
 
 <Gallery name="flickr/annestpeterording72015" />
 

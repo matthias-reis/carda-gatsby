@@ -7,8 +7,8 @@ typeName: Galerie
 title: Stadtrundgang in Las Palmas de Gran Canaria
 seoTitle: Stadtrundgang in Las Palmas - Jugendstilhäuser und verwinkelte Gassen
 ogTitle: Stadtrundgang in Las Palmas - Jugendstilhäuser und verwinkelte Gassen
-description: In Las Palmas de Gran Canaria gibt es viel zu entdecken. Ihr solltet auf jeden Fall ein Bisschen Zeit mitbringen. Ich berichte Euch von meinen Eindrücken.
-excerpt: In Las Palmas de Gran Canaria gibt es viel zu entdecken. Ihr solltet auf jeden Fall ein Bisschen Zeit mitbringen. Ich berichte Euch von meinen Eindrücken.
+description: In Las Palmas de Gran Canaria gibt es viel zu entdecken. Ihr solltet auf jeden Fall ein bisschen Zeit mitbringen. Ich berichte Euch von meinen Eindrücken.
+excerpt: In Las Palmas de Gran Canaria gibt es viel zu entdecken. Ihr solltet auf jeden Fall ein bisschen Zeit mitbringen. Ich berichte Euch von meinen Eindrücken.
 fileName: 2017-08---stadtrundgang-in-las-palmas-de-gran-canaria.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36104911333_cc8ea5637d_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36104911333_cc8ea5637d_k__l.jpg

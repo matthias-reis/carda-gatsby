@@ -57,7 +57,7 @@ _Hinweis: Für alle Nähte gilt: Bitte sauber verriegeln!_
 
 ## So entsteht Euer angesagter DIY Upcycling Loopschal
 
-Als Erstes schneidet Ihr die Ärmel und den Kragen knapp unter der Achselhöhle von Eurem Cardigan ab. Wenn Eure Jacke tailliert ist und nicht wie meine gerade geschnitten, müsst Ihr mit die Kante mit der Schere ein Bisschen begradigen. Hebt Die abgeschnittenen Reste auf, die könnt Ihr später noch gebrauchen. Anschließend wird das nun rechteckige Teil an einer Seite aufgeschnitten. Legt die so entstandene lange Bahn rechts auf rechts auf Euren Stoff und schneidet ihn rundherum ab, sodass beide Stoffschichten exakt gleich groß sind.
+Als Erstes schneidet Ihr die Ärmel und den Kragen knapp unter der Achselhöhle von Eurem Cardigan ab. Wenn Eure Jacke tailliert ist und nicht wie meine gerade geschnitten, müsst Ihr mit die Kante mit der Schere ein bisschen begradigen. Hebt Die abgeschnittenen Reste auf, die könnt Ihr später noch gebrauchen. Anschließend wird das nun rechteckige Teil an einer Seite aufgeschnitten. Legt die so entstandene lange Bahn rechts auf rechts auf Euren Stoff und schneidet ihn rundherum ab, sodass beide Stoffschichten exakt gleich groß sind.
 
 <Gallery
   images={[
@@ -151,6 +151,6 @@ Wenn Ihr mit dem Nähen fertig seid, zieht Ihr durch die Öffnung die schöne Se
   ]}
 />
 
-Fertig ist Euer neuer Loopschal! &lt;3
+Fertig ist Euer neuer Loopschal!
 
 Das nächste Mal zeige ich Euch, wie Ihr aus den Resten aus diesem Nähprojekt noch ein paar tolle Armstulpen herstellen könnt. Versprochen!

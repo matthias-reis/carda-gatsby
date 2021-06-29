@@ -5,7 +5,7 @@ slug: sonne-im-zoo
 path: /2013/03/sonne-im-zoo/
 fileName: 2013-03---sonne-im-zoo.md
 description: ''
-excerpt: Nachdem sich gestern das erste Mal seit Wochen die Sonne ein Bisschen zeigte, ging es mal wieder in den Zoo.
+excerpt: Nachdem sich gestern das erste Mal seit Wochen die Sonne ein bisschen zeigte, ging es mal wieder in den Zoo.
 focusKeyword: ''
 labels:
   - Affen

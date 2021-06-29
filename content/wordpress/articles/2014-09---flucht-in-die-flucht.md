@@ -122,7 +122,7 @@ Die gewohnten Orgelklänge sind etwas weniger schwurbelig als z. B. auf "Irres 
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBgEHCP/EACgQAAIBAwIFAwUAAAAAAAAAAAECAwAEERIxBQYTIVEUFUEiJGGBsf/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAQP/xAAaEQACAwEBAAAAAAAAAAAAAAAAEQECIgNh/9oADAMBAAIRAxEAPwDliNNRpzDwi6kBCWczsNwkZY7Z+KW2mC6DyR/a2hJzBJNYm1hWO1gkk1zdJy5ZdIADNvp3yB2/VKvobzKyUJOFSuq/azgtsGjINNeVOTZeYeJR20MgUMcEmn/vckVt6ZHPQWQSR4GAvkD50nfB/OMVWbTmK44W7vbN05CxP09sZodWsnTknsqyMUYFSQQexFT+sn0Feq+k7jUaKK0JgXcwUASN28nNQu7OxLHJNFFRH//Z"
 />
 
-Alles in allem kommt die neue Platte wieder etwas punkiger daher, was den immer jünger werdenden (ich muss das jetzt schreiben, ich werde es schließlich auch :-) ) STERNEN sehr gut zu Gesicht steht. Das tut der Bart, der inzwischen auf einigen Bildern Franks Oberlippe ziert, übrigens auch. Also er steht im gut zu Gesicht. Er ist nicht punkiger geworden und er wird auch nicht jünger. Also der Bart, nicht Frank. Ihr versteht, was ich meine.
+Alles in allem kommt die neue Platte wieder etwas punkiger daher, was den immer jünger werdenden (ich muss das jetzt schreiben, ich werde es schließlich auch) STERNEN sehr gut zu Gesicht steht. Das tut der Bart, der inzwischen auf einigen Bildern Franks Oberlippe ziert, übrigens auch. Also er steht im gut zu Gesicht. Er ist nicht punkiger geworden und er wird auch nicht jünger. Also der Bart, nicht Frank. Ihr versteht, was ich meine.
 
 Ich habe die schlechte Angewohnheit, eine Rezension bereits beim ersten Hören einer Platte zu beginnen, inzwischen bin ich beim zweiten Durchgang angekommen und ich muss zugeben, dass es mir ähnlich geht, wie damals, als ich auf dem Flokati den Klängen von "Posen" lauschte.
 
@@ -161,11 +161,9 @@ Inzwischen bin ich beim vierten Hördurchgang angelangt, Durchgang drei verbrach
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKRAAAgECBgIBAwUAAAAAAAAAAQIDBBEABQYhMUESE6EHYcEWJDIzQv/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EAB8RAAICAgEFAAAAAAAAAAAAAAECAAMRIQQiIzFBgf/aAAwDAQACEQMRAD8AReitOx5vN7KxpoqKJl9rwwmVlUnm3xc/OGfHp/T9NTtHS07HxsXrK1ytgAblY1/Jv9sYjSU1N+n1mgl/cK3i6lityCDsO9j3a1jzjdUsKVtEQ0ZdJ4gHV5XB8SCCRt3vvuMHtUsQIivC7kyp0xk3gI5Y4GRgClXSS+xGuARdTYjm3WFfqvSj0sxlWMGJ7lHXhgD0fwcOejaGko4ovAwQxKEULNcbCwG4+2LuiyTLtTZGsNZVSxwR3eV3HisIYgAqT/oEjY7G/WE8agbJmfJuyo8a+TkvKcxegm8k3U/yUnY43eSawpaVfaZ/XLYRiN72te9+LEDi1+74MGJKgyQ5XUv4dd0RkjkkqFZRcNGsdwwPIt3f4IGKrWn1Rqc1yePJcqiFLlyP5uw/smI4LEdDmw7wYMIDlFwJge4er1P/2Q=="
 />
 
-Hört Euch dieses Album an. Hört es Euch richtig an. Nehmt Euch ein Bisschen Zeit. Setzt Euch mit Kopfhörern auf den Teppich, lest die Texte mit und freut Euch.
+Hört Euch dieses Album an. Hört es Euch richtig an. Nehmt Euch ein bisschen Zeit. Setzt Euch mit Kopfhörern auf den Teppich, lest die Texte mit und freut Euch.
 
 Ich werde mich in der Zwischenzeit schon mal der beigelegten 7"-Single "Hat auch nicht geholfen" widmen und mir im Anschluss die Kassette anhören. Denn ja, ich habe meinen Walkman noch. Und den Kassettenrekorder auch. Ist ja auch alles noch gar nicht so lange her. Beruhigt Euch mal wieder.
-
-Anne &lt;3
 
 <small>
   "Hält dich das aus, was dich aufhält, gehörst du dazu und wie hälst du das

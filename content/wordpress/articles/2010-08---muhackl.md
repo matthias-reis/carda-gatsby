@@ -82,5 +82,3 @@ Insgesamt sieben Lieder brannte die Band auf Ihre "boarische EP". Neben dem "Muh
 06.08.2010 München/Theatron 07.08.2010 Ulm/Schlossgarten Dellmensingen 03.09.2010 Augsburg/ Kantine 04.09.2010 Bamberg/Sound-n-Arts Music Club 17.09.2010 Ingolstadt/Paradox 23.09.2010 Dresden/Bärenzwinger 24.09.2010 Lorsch/Musiktheater 25.09.2010 Lindau/Club Vaudeville 10.10.2010 Stuttgart/Keller Club 15.10.2010 Oberhausen/T-Club (Turbinenhalle) 04.11.2010 Regensburg/Alte Mälze 05.11.2010 München/Backstage 06.11.2010 Augsburg/Monsters of Rock 12.11.2010 Ansbach/Kammerspiele
 
 _ [Homepage](http://www.hassliebe.de) Hassliebe_ _Quelle: südpolrecords GmbH_
-
-&nbsp;

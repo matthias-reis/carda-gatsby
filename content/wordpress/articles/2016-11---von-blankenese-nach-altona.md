@@ -44,7 +44,7 @@ subTitle: Winterliche Elbe
 
 Weil das Wetter für diese Jahreszeit herrlich war und 12 Grad geradezu nach Freiluftaktivitäten riefen, nutzte ich die Gunst der Stunde. Ich kaufte mir ein One-Way-Ticket, stattete der Arztpraxis meinen Besuch ab und begab mich danach schnurstracks zum Treppenviertel.
 
-Von dort aus startete ich meinen circa 11,8 Kilometer langen Spaziergang entlang der Elbe bis zurück in unser geliebtes, kleines dänisches Dorf Altona. :-)
+Von dort aus startete ich meinen circa 11,8 Kilometer langen Spaziergang entlang der Elbe bis zurück in unser geliebtes, kleines dänisches Dorf Altona.
 
 Ich wünsche Euch viel Spaß mit den Bildern.
 

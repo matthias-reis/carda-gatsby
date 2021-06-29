@@ -52,5 +52,3 @@ Bei unserem Besuch am 3. Januar war es nicht besonders voll, weshalb wir freie B
 Willkommen, willkommen! Tretet ein in das glitzernde und funkelnde Museum der Originale, das Wunderland der Berühmtheiten!
 
 <Gallery name="flickr/annepanotikum2016" />
-
-&nbsp;

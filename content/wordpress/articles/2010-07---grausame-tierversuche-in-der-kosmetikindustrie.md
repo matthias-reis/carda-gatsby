@@ -65,5 +65,3 @@ Vorsicht ist auf jeden Fall geboten!
 [http://tierschutz-tierrechte.suite101.de/article.c...](http://tierschutz-tierrechte.suite101.de/article.cfm/tierversuchsfreie_kosmetik)
 
 [http://www.peta.de/web/kosmetik.1724.html](http://www.peta.de/web/kosmetik.1724.html)
-
-Merken

@@ -1,33 +1,31 @@
 ---
 date: 2018-11-18T16:29:11.000+00:00
 slug: neue-saefte-von-voelkel
-path: "/2018/11/neue-saefte-von-voelkel/"
+path: '/2018/11/neue-saefte-von-voelkel/'
 type: Galerie
 typeName: Produkttest
 title: Neue Säfte von Voelkel
 seoTitle: Neue Säfte von Voelkel - Vitamine für das Immunsystem
 ogTitle: Neue Säfte von Voelkel - Vitamine für das Immunsystem
-description: Von Voelkel gibt es derzeit neun verschiedene Muttersäfte. Drei davon
-  habe ich getestet. Und noch drei andere Vitaminlieferanten.
-excerpt: Von Voelkel gibt es derzeit neun verschiedene Muttersäfte. Drei davon habe
-  ich getestet. Und noch drei andere Vitaminlieferanten.
+description: Von Voelkel gibt es derzeit neun verschiedene Muttersäfte. Drei davon habe ich getestet. Und noch drei andere Vitaminlieferanten.
+excerpt: Von Voelkel gibt es derzeit neun verschiedene Muttersäfte. Drei davon habe ich getestet. Und noch drei andere Vitaminlieferanten.
 fileName: 2018-11---neue-saefte-von-voelkel.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0003__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0003__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMFBgQH/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAAFEQYSMRMhIgcUQTKB0SNhcZKh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMFAgT/xAAhEQACAgICAQUAAAAAAAAAAAABAgMRAAQxkUESFFGB8P/aAAwDAQACEQMRAD8A8wsMaTGQ86qIpKktnavqN5Qed31cgZ++Kli4zn5Q1G5IYcmpnBJQtlKklW1SxlsjZjA4x81R0pGkXefFt6p8hhqU4mOt4blJbCzt3EZAIGeDV+3emcs3C42JF1iqlK3Sg4WVbMtJWkDkkFQcP9azG0m0C8gBr4Gc8mtrwEAGiSLs+OOsz8O8o9pp1EttK0TJKRIAGAttSghXYfAyoY/FJhMsWu5agjvnptslxlCCkkLG/wAcD47d/vVWT6XXhFiYubNxgOwY0tUYeakKbKPLgjuNyz3zSr1acKdck3i2oWv6v1txOOOKMz+1dT5+8XFpRyqfTwTff7rE6J1G9ZnyWyNjmAVEA7SOFAftWvskCWi4vXaLf1vvvtqb8IQWjC+xyAef4NFFQ9iRohaHnL0SKxsjOmbZr+5pVuyR5GIXuFyHFqjdJThUeMb8Yx2/NY646Pcj5EiYykD56raf8BJoopR355CA7XWFdWJLKrzn/9k=
-ogImage: 
+ogImage:
 labels:
-- Acerola
-- Antioxidantien
-- Eisen
-- Ernährung & Gesundheit
-- Getränke
-- Immunsystem
-- Saft
-- Säfte
-- vegane Säfte
-- Vitamin C
-- Voelkel
+  - Acerola
+  - Antioxidantien
+  - Eisen
+  - Ernährung & Gesundheit
+  - Getränke
+  - Immunsystem
+  - Saft
+  - Säfte
+  - vegane Säfte
+  - Vitamin C
+  - Voelkel
 focusKeyword: Säfte
 status: publish
 isWerbung: false
@@ -36,8 +34,8 @@ language: de
 errors: {}
 subTitle: Vitamine für das Immunsystem
 advertisement: true
-
 ---
+
 **Die neuen Säfte von Voelkel erreichen mich genau im richtigen Moment. Eine Erkältung ist im Anmarsch. Und das nur ein paar Tage, bevor wir in den Urlaub aufbrechen wollen. Matze hat es schon voll erwischt, ich schleiche noch mit Desinfektionsmittel durch die Wohnung und versuche meinen gelegentlichen Nieser nicht zu viel Bedeutung beizumessen.**
 
 Jetzt sind Vitamine gefragt! Also her mit dem prall gefüllten Testpaket. Heraus klettern nach einander je eine Flasche Granatapfel-, Holunder- und Cranberry-Saft sowie eine mit "Eisen naturvital", "Antioxidatien" und "Immunkraft". Bei allen Säften handelt es sich um Muttersäfte mit 100 Prozent Fruchtgehalt in Demeter-Qualität. Jede Flasche reicht für zwei kleine Portionen, also wir natürlich geteilt.

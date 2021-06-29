@@ -46,4 +46,4 @@ Wir lesen uns dann spätestens bei Teil II wieder!
 
 <Gallery name="flickr/annestreetartschanze1" />
 
-Die Fotos meiner Nachbarin [findet Ihr übrigens hier](https://elbgaengerin.wordpress.com/2017/01/18/streetart-tour-durch-die-schanze-1/) ! Vielen Dank für den tollen Tag, liebe Nicole! &lt;3
+Die Fotos meiner Nachbarin [findet Ihr übrigens hier](https://elbgaengerin.wordpress.com/2017/01/18/streetart-tour-durch-die-schanze-1/) ! Vielen Dank für den tollen Tag, liebe Nicole!

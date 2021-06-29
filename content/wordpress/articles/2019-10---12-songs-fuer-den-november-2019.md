@@ -57,8 +57,6 @@ subTitle: Präsentiert von den drei von der Bande
 
 Insgesamt ist wieder ein Knäuel aus verschiedensten Songs aus den unterschiedlichsten Musikrichtungen entstanden. Die Inspiration prasselte von allen Seiten auf Valentin, Matze und mich ein.
 
-&nbsp;
-
 Das Derivat unserer musikalischen Reise habe ich heute hier im Blog für Euch bereitgestellt. Ich wünsche Euch unglaublich viel Spaß beim Hören und Entdecken.
 
 ## Unsere Musiktipps für den November

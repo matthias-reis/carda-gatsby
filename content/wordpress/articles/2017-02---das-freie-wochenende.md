@@ -64,7 +64,7 @@ Wegen meiner ständigen Schnäuzerei setzen sich im Zug nach und nach die Leute 
 
 In Husum angekommen, regnete es zum Glück nicht. Wir packten unsere Rucksäcke in ein Schließfach, nahmen bei "Tante Jenny" einen Friesentee zu uns und machten uns auf den Weg zu unserer Deichwanderung. Inzwischen machten sich dicke Nebelschwaden über unseren Köpfen breit.
 
-Bis zum Deich schaffte ich es noch. Dann war meine Kondition erschöpft und die abwechselnden Anfälle von Schüttelfrost und Schweißbädern machten mir echt ein Bisschen sorgen. Wir holten also unsere Rucksäcke ab und machten uns auf den Weg zum Hotel Rosenburg, das am anderen Ende von Husum liegt. Nach insgesamt nur 17 Kilometern Fußweg (Unsere angefangene Wanderung mit eingeschlossen) war der Tag gelaufen.
+Bis zum Deich schaffte ich es noch. Dann war meine Kondition erschöpft und die abwechselnden Anfälle von Schüttelfrost und Schweißbädern machten mir echt ein bisschen sorgen. Wir holten also unsere Rucksäcke ab und machten uns auf den Weg zum Hotel Rosenburg, das am anderen Ende von Husum liegt. Nach insgesamt nur 17 Kilometern Fußweg (Unsere angefangene Wanderung mit eingeschlossen) war der Tag gelaufen.
 
 ## Tee und Schlaf statt Sauna und Deich
 
@@ -84,7 +84,7 @@ Danach ging es dann nicht etwa wie geplant ins Spa, sondern wieder in mein mit k
 
 Eigentlich wollten wir noch bleiben und es uns in der örtlichen Sauna gemütlich machen. Doch mit Fieber ist an derartige Aktivitäten natürlich nicht zu denken. Daher ließen wir uns ein Taxi schicken, das uns pünktlich an den nächsten Zug in Richtung Altona brachte. Wieder zu Hause, brauchte ich erst mal jede Menge Tee und Schlaf.
 
-Heute geht es mir zum Glück schon wieder ein kleines Bisschen besser. Bis zur Schicht am Wochenende werde ich ganz bestimmt wieder richtig fit sein.
+Heute geht es mir zum Glück schon wieder ein kleines bisschen besser. Bis zur Schicht am Wochenende werde ich ganz bestimmt wieder richtig fit sein.
 
 Das Hotel Rosenburg kann ich Euch wärmstens empfehlen. Wir haben vorher nur kurz per E-Mail angekündigt, dass wir vegan leben. Daraufhin hat man uns einfach königlich bewirtet. Das Hotel ist toll eingerichtet, sauber, gemütlich und das Personal ist einfach umwerfend freundlich. [Ihr findet es übrigens hier](http://www.hotel-rosenburg.de/).
 

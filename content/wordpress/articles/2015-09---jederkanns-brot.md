@@ -80,7 +80,7 @@ subTitle: Einfaches veganes Vollkornbrot
 
 ## Zubereitung
 
-Ofen auf 50 Grad vorheizen und die hitzebeständige Form mit dem Pflanzenöl einfetten. Wasser, Essig und [Hefe](/2021/01/hefe-ist-vegan/) in den Messbecher geben und so lange mit dem Löffel umrühren, bis sich alles vermischt hat. Das Mehl mit den Kernen und dem Salz in die Schüssel geben und vermengen. Die Flüssigkeit dazu geben und den kompletten Teig mit dem Löffel gleichmäßig durchrühren, bis sich eine lockere, zusammenhängende Masse ergeben hat. Der Teig sollte ein Bisschen klebrig bleiben, ist das nicht der Fall, könnt Ihr ruhig noch ein paar Tropfen Wasser hinzugeben.
+Ofen auf 50 Grad vorheizen und die hitzebeständige Form mit dem Pflanzenöl einfetten. Wasser, Essig und [Hefe](/2021/01/hefe-ist-vegan/) in den Messbecher geben und so lange mit dem Löffel umrühren, bis sich alles vermischt hat. Das Mehl mit den Kernen und dem Salz in die Schüssel geben und vermengen. Die Flüssigkeit dazu geben und den kompletten Teig mit dem Löffel gleichmäßig durchrühren, bis sich eine lockere, zusammenhängende Masse ergeben hat. Der Teig sollte ein bisschen klebrig bleiben, ist das nicht der Fall, könnt Ihr ruhig noch ein paar Tropfen Wasser hinzugeben.
 
 <RemoteImage
   alt={`In die Form geben`}
@@ -97,6 +97,4 @@ Wenn die 50 Minuten vergangen sind, mit dem Stäbchen in den Teig stechen. Bleib
 
 Das Vollkornbrot bei geöffneter Ofenklappe auskühlen lassen.
 
-Schmeckt natürlich nicht nur zu [Zucchinisuppe](/2015/09/zucchinisuppe-herbstlich-vegan/) gut. :-)
-
-Guten Appetit!
+Schmeckt natürlich nicht nur zu [Zucchinisuppe](/2015/09/zucchinisuppe-herbstlich-vegan/) gut.

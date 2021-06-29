@@ -67,7 +67,7 @@ Flarf ist eine tolle Möglichkeit, die Kreativität zu stimulieren, die Phantasi
 
 Für das nun folgende Flarf-Gedicht habe ich die Worte "Frühling" und Wasser in die Suchmaschine eingegeben. Um das Ganze bildlich darzustellen, habe ich ein paar thematisch passende Bilder aus meinem Archiv hinzugefügt. Ich bin gespannt, wie es Euch gefällt.
 
-Da ich vorhabe, die Lyrik-Sparte in diesem Blog wieder ein Bisschen aufleben zu lassen, findet Ihr in den nächsten Wochen möglicherweise immer wieder mal ein kleines Flarf-Gedicht aus meiner Feder an dieser Stelle.
+Da ich vorhabe, die Lyrik-Sparte in diesem Blog wieder ein bisschen aufleben zu lassen, findet Ihr in den nächsten Wochen möglicherweise immer wieder mal ein kleines Flarf-Gedicht aus meiner Feder an dieser Stelle.
 
 <blockquote>
 

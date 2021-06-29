@@ -179,7 +179,7 @@ Post-Rock ist in Finnland kein großes Ding. Wenn Du nach Belgien kommst hast Du
 
 **Janne:** Eine tolle Community. Ich liebe es!
 
-**Esa:** Ja, sehr sogar. &lt;3
+**Esa:** Ja, sehr sogar.
 
 ## "Die finnische Natur kann sehr inspirierend sein"
 

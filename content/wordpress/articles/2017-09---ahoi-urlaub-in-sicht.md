@@ -29,7 +29,7 @@ errors: {}
 subTitle: Ich melde mich mal kurz ab...
 ---
 
-**... bin aber bald wieder da. Versprochen! Wir werden die nächsten beiden Wochen auf der Insel weilen und die Seele ein Bisschen baumeln lassen.  Urlaub! Wir haben ihn uns verdient, jawoll! Wir lesen uns dann bald wieder und ich werde sicher jede Menge Fotos und Geschichten für Euch im Gepäck haben.**
+**... bin aber bald wieder da. Versprochen! Wir werden die nächsten beiden Wochen auf der Insel weilen und die Seele ein bisschen baumeln lassen.  Urlaub! Wir haben ihn uns verdient, jawoll! Wir lesen uns dann bald wieder und ich werde sicher jede Menge Fotos und Geschichten für Euch im Gepäck haben.**
 
 Auf Instagram* und Facebook* werde ich hin und wieder etwas posten, doch mein Blog ruht sich so lange aus. Außerdem habe ich gerade eine [TOLLE VERLOSUNG](/2017/09/fopo-rettet-aussortierte-fruechte/) gestartet. [Hier könnt Ihr mitmachen](/2017/09/fopo-rettet-aussortierte-fruechte/) !
 
@@ -82,7 +82,7 @@ Ihr findet hier im Blog zu allen möglichen Themen interessante Artikel, die Ihr
 
 ## Fast schon wie Urlaub
 
-Die Fotos habe ich heute hier in Hamburg an der Alster aufgenommen, wo ich einen wunderschönen Tag mit zauberhaften Menschen verbringen durfte. Ihr dürft Euch angesprochen fühlen. ;-) Die Sonne hat uns nicht im Stich gelassen und die Stimmung war herzlich und ausgelassen. Das war fast schon wie Urlaub. Da bekommt man richtig Lust auf die schönste Stadt, oder?
+Die Fotos habe ich heute hier in Hamburg an der Alster aufgenommen, wo ich einen wunderschönen Tag mit zauberhaften Menschen verbringen durfte. Ihr dürft Euch angesprochen fühlen. Die Sonne hat uns nicht im Stich gelassen und die Stimmung war herzlich und ausgelassen. Das war fast schon wie Urlaub. Da bekommt man richtig Lust auf die schönste Stadt, oder?
 
 _Bis bald dann!_
 

@@ -85,7 +85,7 @@ Nachdem mich dazu entschieden hatte, meine alte Ausrüstung zu verkaufen und geg
 
 Ich mag sie sehr gerne und erfreue mich jeden Tag an den Bildern, die sie auf meinen Bildschirm zaubert. Ich bin schon sehr gespannt, was Ihr dazu sagt, in Zukunft wird es natürlich noch jede Menge weitere Eindrücke geben.
 
-Natürlich müssen mein neues "Schätzchen" und ich uns noch ein bisschen eingrooven, aber wir verstehen uns für die kurze Zeit, die wir bis jetzt miteinander verbracht haben schon erstaunlich gut. :-)
+Natürlich müssen mein neues "Schätzchen" und ich uns noch ein bisschen eingrooven, aber wir verstehen uns für die kurze Zeit, die wir bis jetzt miteinander verbracht haben schon erstaunlich gut.
 
 Beim Text oben handelt es sich um ein Flarf-Gedicht. Wer gerne wissen möchte, was das ist, [findet hier eine genaue Erklärung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/).
 

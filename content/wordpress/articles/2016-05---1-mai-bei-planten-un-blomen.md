@@ -37,15 +37,15 @@ month: '05'
 
 Zwischen duftenden Blumen und singenden Vögeln wanderte der Besucherstrom durch die schöne Parkanlage im Herzen von Hamburg. Der Frühling zeigte sich in seiner ganzen Pracht. Auf der Strecke hatten schon alle Biergärten ihre Pforten geöffnet, es gab kleine Veranstaltungen am Wegesrand und natürlich jede Menge zu fotografieren.
 
-## **1. Mai 2016**
+## 1. Mai 2016
 
-Was habt Ihr am 1. Mai gemacht? Wart Ihr auch im Park? Oder sogar am [Meer](/2015/08/st-peter-ording/) ? Erzählt mal! Ich bin gespannt! :-)
+Was habt Ihr am 1. Mai gemacht? Wart Ihr auch im Park? Oder sogar am [Meer](/2015/08/st-peter-ording/) ? Erzählt mal! Ich bin gespannt!
 
 <Gallery name="flickr/anneplantenunblomen52016" />
 
 <blockquote>
 
-## Sehnsucht nach dem Frühlinge
+## Sehnsucht nach dem Frühling
 
 (Von Mozart vertonte Fassung)
 

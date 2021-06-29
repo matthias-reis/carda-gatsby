@@ -116,7 +116,7 @@ Das klingt auf alle Fälle schon mal sehr vielversprechend und einen Tipp bekom
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYE/8QALRAAAgIBAwIDBgcAAAAAAAAAAQIDBBEABRIGIRMiMTJRYZGhsQcVM0FxctH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwD/xAAeEQACAwEAAgMAAAAAAAAAAAABAgADEQQSFCExcf/aAAwDAQACEQMRAD8AMfw9lp25kjmr3ZJC3ZIvCRcfF5WAHy07dMVNskvx1228RlhxLfnVWQjvn2I1OgHoVFrCrOZtySOQ/q16sLBCBnuS2R8tMWy3UsOCu+b5gMvlezDF2+uoXV2Np+4luitMBOGXfV3T230aLSQpOxxnDTIPuD9tAW4Cxf3G1XrVViSJDI88z5jhQe07lQMgDGAO5JA0ubwKSVSJLe8TMSRg7qCfkqaNLcMMu5Wa0QevFbfwnWS6bDuqshGSVHHPIHj/ABnU+atkPzN7CMCAdIhhss3gttrB5IXj5Rujr5ZAxJyD7+/p8NMXTtmMRxIeUIDK3IsjFmyPQhT2xnsffoi6cs2qFWZKtuSOw2OAY5Ve/fAPbP00g9PdUbgm2yR2564ul2aNuKARqPZVsDBP++/T2sKjxA2Fs5xawO5FTcbMkm3yRV1MwYcSo7AA/wBR8NGE1Ztvl3CW5HJSM0zyQ3JRlGlwvFWYZEaEDAJx5sZA1gm663GrtV+zZ3K1cS1daGFXfywQABsADsGwSM4PoNTO59ZzWnxDYxHw4mKVeXMYAOT+59fro6ef5LJzBNJM/9k="
 />
 
-Da ich sehr langes, pflegebedürftiges Haar habe, gebe ich anstelle von einer Kur 1x pro Woche Kokosöl ins Haar und lasse es über Nacht einwirken. Nach dem Haarewaschen gebe ich dann noch eine Spur davon in die Haarspitzen, um Spliss gleich mal im Keim zu ersticken. Bisher habe ich das Kokosöl aus dem Drogeriemarkt oder Bioladen verwendet, das ich auch zum Kochen verwende, ist ja neutral und kann auch zur Körperpflege verwendet werden (Ein echtes Wunderprodukt, erst gestern wurde mir von einem Social Media Bekannten berichtet, es würde sogar vor Zecken schützen, auch bei Hunden). Im Rahmen meiner Bestellung bei Wolkenseifen gönnte ich mir dann mal die Deluxe-Variante. Es ist ein kleines Bisschen teurer, als die Drogeriemarktvariante, dafür duftet es aber auch verführerisch. Es erinnert mich an die geliebten, veganen Kokosmakronen von meiner Oma und das ist so schön! <3
+Da ich sehr langes, pflegebedürftiges Haar habe, gebe ich anstelle von einer Kur 1x pro Woche Kokosöl ins Haar und lasse es über Nacht einwirken. Nach dem Haarewaschen gebe ich dann noch eine Spur davon in die Haarspitzen, um Spliss gleich mal im Keim zu ersticken. Bisher habe ich das Kokosöl aus dem Drogeriemarkt oder Bioladen verwendet, das ich auch zum Kochen verwende, ist ja neutral und kann auch zur Körperpflege verwendet werden (Ein echtes Wunderprodukt, erst gestern wurde mir von einem Social Media Bekannten berichtet, es würde sogar vor Zecken schützen, auch bei Hunden). Im Rahmen meiner Bestellung bei Wolkenseifen gönnte ich mir dann mal die Deluxe-Variante. Es ist ein kleines bisschen teurer, als die Drogeriemarktvariante, dafür duftet es aber auch verführerisch. Es erinnert mich an die geliebten, veganen Kokosmakronen von meiner Oma und das ist so schön! <3
 
 ## Das steht dazu auf der Produktseite:
 
@@ -246,7 +246,7 @@ Mal was wirklich Innovatives, finde ich, und sie ist hübsch anzuschauen. Für m
   ]}
 />
 
-Ein kleines Bisschen Lavendelluxus durfte für mich natürlich auch nicht fehlen: Ein pulverförmiges Schaumbad in der hübschesten Schaumbaddose, die ich jemals gesehen habe:
+Ein kleines bisschen Lavendelluxus durfte für mich natürlich auch nicht fehlen: Ein pulverförmiges Schaumbad in der hübschesten Schaumbaddose, die ich jemals gesehen habe:
 
 <RemoteImage
   alt={`Wolkenseifen`}

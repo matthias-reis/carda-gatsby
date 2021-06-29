@@ -71,6 +71,4 @@ ca. 20 Minuten
 
 Wenn man will, kann man die Kiste auch noch abschleifen, lasieren oder schön bunt anmalen. Mir hat sie so alt und abgetakelt am besten gefallen.
 
-PS: Meldet Euch mal bei mir, falls Ihr Euch auch so ein Tischchen baut und schickt mir doch ein Foto! Ich poste es dann gerne auch hier! :-)
-
-&nbsp;
+PS: Meldet Euch mal bei mir, falls Ihr Euch auch so ein Tischchen baut und schickt mir doch ein Foto! Ich poste es dann gerne auch hier!
