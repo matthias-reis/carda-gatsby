@@ -6,7 +6,7 @@ import { color, space, fontSize } from '../style';
 import { getPath } from '../gatsby/slugify';
 
 const labelTypes = {
-  category: 'Kategorie',
+  category: 'Thema',
   serie: 'Serie',
   archive: 'Archiv',
 };
