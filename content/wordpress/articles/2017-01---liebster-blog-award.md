@@ -1,17 +1,27 @@
 ---
-date: 2017-01-17T14:53:00.000Z
-slug: liebster-blog-award-2017-01
-path: /2017/01/liebster-blog-award-2017-01/
-title: Liebster Blog Award
-seoTitle: Liebster Blog Award - Ich wurde interviewt - Hamburg und mein Blog
 ogTitle: Liebster Blog Award - Ich wurde interviewt - Hamburg und mein Blog
-description: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir die Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg unterhalten.
-excerpt: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir die Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg unterhalten.
-fileName: 2017-01---liebster-blog-award.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_liebster-award-clean__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_liebster-award-clean__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAJxAAAgEDBAIBBAMAAAAAAAAAAQIDBAURAAYSITFBEyIjUXEygZH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAACA//EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDBCEx/9oADAMBAAIRAxEAPwDsOx6FYfnqaku7zyAxguFCADwgHgHPjOsbvfd9XJdam3bWo5BTwExSVCRNKZGBOePRAUEHB7J4507s7clNHFSK1THEVJKhh2+B1n9HP+aoaJbxajNA9Rb4YFkLo7VMaufqcgnkT19xvXvvS1TXInz2sAHkXtNddUqjPuC2zSUQw0tQ8PEwryCliBjKgkZGP7GoN6vSiOoWiaOelWdoVmXjhyO+hnOMHzjGmphNcI5KKK925HqmCPHFN8hcHyoCoBgnGe/Wot6U70tqip6sPFOZQFjdVJZVGC4JHJV9Yzgn9aFqgkPWtZ0XZU25jHJTkAHmOP1AHjkeR+D3rU21ILrJDS19LTyxiVuzGOX8fzo0aozdB8YiIoaa3yS08EUbOyqQq9EHvHeqHc0rzXGdZGYrG7RoCxPFQTgDPrRo1KfYagGE/9k=
+excerpt: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir die
+  Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg
+  unterhalten.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_01_facebook-1-von-1__l.jpg
+isAffiliate: false
+path: /2017/01/liebster-blog-award-2017-01/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAJxAAAgEDBAIBBAMAAAAAAAAAAQIDBAURAAYSITFBEyIjUXEygZH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAACA//EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDBCEx/9oADAMBAAIRAxEAPwDsOx6FYfnqaku7zyAxguFCADwgHgHPjOsbvfd9XJdam3bWo5BTwExSVCRNKZGBOePRAUEHB7J4507s7clNHFSK1THEVJKhh2+B1n9HP+aoaJbxajNA9Rb4YFkLo7VMaufqcgnkT19xvXvvS1TXInz2sAHkXtNddUqjPuC2zSUQw0tQ8PEwryCliBjKgkZGP7GoN6vSiOoWiaOelWdoVmXjhyO+hnOMHzjGmphNcI5KKK925HqmCPHFN8hcHyoCoBgnGe/Wot6U70tqip6sPFOZQFjdVJZVGC4JHJV9Yzgn9aFqgkPWtZ0XZU25jHJTkAHmOP1AHjkeR+D3rU21ILrJDS19LTyxiVuzGOX8fzo0aozdB8YiIoaa3yS08EUbOyqQq9EHvHeqHc0rzXGdZGYrG7RoCxPFQTgDPrRo1KfYagGE/9k=
+isWerbung: false
+fileName: 2017-01---liebster-blog-award.md
+slug: liebster-blog-award-2017-01
+errors: {}
+date: 2017-01-17T14:53:00.000Z
+focusKeyword: Award
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_liebster-award-clean__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_liebster-award-clean__m.jpg
+title: Liebster Blog Award
+subTitle: Hamburg und mein Blog
+seoTitle: Liebster Blog Award - Ich wurde interviewt - Hamburg und mein Blog
+description: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir
+  die Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg
+  unterhalten.
 labels:
   - Interview
   - Interviews
@@ -19,13 +29,7 @@ labels:
   - Post-Rock
   - Postrock
   - vegan
-focusKeyword: Award
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Hamburg und mein Blog
 ---
 
 **Schon zwei Mal wurde ich nominiert. [Einmal](/2014/11/and-the-nominees-are/) für den Liebster Blog Award und [einmal](/2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/) für den Best Blog Award. Beide Male habe ich mich unheimlich gefreut und hatte Gelegenheit, jede Menge spannende Fragen zu beantworten.**
@@ -82,7 +86,7 @@ In der Zeit habe ich dann auch angefangen für [Vegan News](/?s=vegan+news) und 
 
 ## Ich zitiere gerne
 
-**Anne:** Ich zitiere dann, wie auch in anderen Situationen, die das Leben so mit sich bringt, immer ganz gerne. Zum Beispiel einen meiner Lieblingsblogger, den [Graslutscher](http://graslutscher.de/).
+**Anne:** Ich zitiere dann, wie auch in anderen Situationen, die das Leben so mit sich bringt, immer ganz gerne. Zum Beispiel einen meiner Lieblingsblogger⋆innen, den [Graslutscher](http://graslutscher.de/).
 
 > "Immer, wenn jemand "Pflanzen haben auch Gefühle!" sagt, stelle ich mir vor, wie zwei Petunien eng umschlungen im Kino bei Titanic weinen."
 
@@ -152,12 +156,4 @@ Hier meine 11 Fragen an Patricia:
 1.  Welches Stilmittel liebst Du besonders?
 1.  Wenn Du Deine heutige Stimmung mit einem Song beschreiben müsstest, welcher wäre es?
 
-Danke schon mal im Voraus für das Interview, liebe Patricia! Viel Spaß mit Deinem Award! &lt;3
-
-## Alle Awards, die diesem Blog bisher verliehen wurden
-
-- [Erbeerkuchen mit Grün 2011](/2011/09/erdbeerkuchen-mit-gruen-der-blogaward/)
-- [Best Blog Award 2013](/2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/)
-- [Liebster Blog Award 2014](/2014/11/and-the-nominees-are/)
-- Liebster Blog Award 2017
-- [Mystery Blogger Award 2017](/2017/10/mystery-blogger-award-mein-blog-ist-dabei/)
+Danke schon mal im Voraus für das Interview, liebe Patricia! Viel Spaß mit Deinem Award! 
