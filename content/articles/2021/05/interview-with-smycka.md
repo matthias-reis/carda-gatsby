@@ -40,7 +40,7 @@ Singer Julia, drummer Anton and guitarist and founder of the band Vasily told me
 
 ## "I joined the band after they finished 'Fated'"
 
-**Anne:** You've just released your debut "Fated" ([Read my review here](/2021/03/smycka-fated/)). Congrats on that. I like the album a lot! It's excellent! Are you happy with the outcome of your work?
+**Anne:** You've just released your debut "Fated" ([Read my review here](/2021/03/smycka-fated-en/)). Congrats on that. I like the album a lot! It's excellent! Are you happy with the outcome of your work?
 
 **Anton:** Thank you for this high estimation. I joined the band after they finished the album, too, so I wasn't part of the recording sessions. In my opinion, the primary outcome is that the album is finished, released, and now it shows the world our music and ideas, the atmosphere we create. I think that's a good start!
 
@@ -86,7 +86,7 @@ Making such a kind of music, lyrics, and style is the most honest and straight w
 
 **Vasily:** When I was much younger, I listened to and played another kind of music – more brutal and aggressive, like metalcore, deathcore, death, djent, etc. I did some project with my mate – we wanted to start a progressive death band. It was a long time ago, maybe 2012-2013.
 
-I think I even didn't know there was a genre called post-metal. But once I got to some local gig where Russian doom and sludge bands played. It was my first look at another side of heavy music. The next time I visited one of [The Ocean's](/2020/09/the-ocean-robin-staps-interview/) gigs in Moscow – it was my first time I've heard post-metal live, and the band was excellent, energetic and groovy. I was utterly discouraged by them.
+I think I even didn't know there was a genre called post-metal. But once I got to some local gig where Russian doom and sludge bands played. It was my first look at another side of heavy music. The next time I visited one of [The Ocean's](/2020/09/the-ocean-robin-staps-interview-en/) gigs in Moscow – it was my first time I've heard post-metal live, and the band was excellent, energetic and groovy. I was utterly discouraged by them.
 
 ## "Cult Of Luna blew my mind"
 

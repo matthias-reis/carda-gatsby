@@ -71,7 +71,7 @@ There are some beautiful At The Drive-In moments on the record. But Blessings de
 
 When listening to "Biskopskniven", you get the sense that the band members have a special connection to each other. They all come from the Swedish DIY punk and hardcore scene and have been on the road with projects like Ancho, Fä and Chester Copperpot. So you can't call them "blank slates" by any means.
 
-[Johan G. Winther, who I recently interviewed about his solo album "The Rupturing Sowle"](/2021/03/johan-g-winther-interview/), and who comes from the same background as Blessings, is also part of the project. He comments "Biskopskniven" like this:
+[Johan G. Winther, who I recently interviewed about his solo album "The Rupturing Sowle"](/2021/03/johan-g-winther-interview-en/), and who comes from the same background as Blessings, is also part of the project. He comments "Biskopskniven" like this:
 
 > "The album was pretty much a joint creative effort of all band members. All of us greed that we wouldn't let it get out of hand and into the world until it was exactly the way we wanted it to be. We wanted to create deep sounds with textures that layer on top of each other and the characteristic of revealing new details with every listen. We worked hard to give each song its very own voice. Although this hasn't proved easy at times, we feel that there would have been no other way to let 'Biskopskniven' emerge."
 
