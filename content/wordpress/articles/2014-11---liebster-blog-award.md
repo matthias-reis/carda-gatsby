@@ -1,42 +1,37 @@
 ---
-date: 2014-11-19T11:58:34.000Z
-slug: liebster-blog-award
-path: /2014/11/liebster-blog-award/
-title: Liebster Blog Award
-seoTitle: Liebster Blog Award - die Nominierungen stehen fest
 ogTitle: Liebster Blog Award - die Nominierungen stehen fest
-description: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert. Ich kann es kaum glauben! Was für eine Ehre!
-excerpt: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert. Ich kann es kaum glauben! Was für eine Ehre!
-fileName: 2014-11---liebster-blog-award.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDBAURAAYSITETIkEHFkJRY3GxsvD/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQP/xAAgEQACAgAGAwAAAAAAAAAAAAABAgADBBESITGxMkHw/9oADAMBAAIRAxEAPwBU+m20LLFE9/3klJTJXTFYKeokMVNjGewxBYnsgN114/LaI7Zs6Jlheh24jhUKLJTQgOGUMvAlfd7cH251yLbcZqSxWuvkqrdTyeskVRUVKyiJldWAWMkhiS3AZHkZ+NXbHu66XUUUEEtonkmaKFZYYquRGdiQzMwHGMHi+M57xnryO1nsJP3URsvElT7V2jeEma22TbVQsfHmyUiADIyO+P8AsaWdx7As0Ks8dosMWPgQ4/gadaY3+73eojpmlpKKZpPTastMqegi4GPUYY5ZViD2CGHnvFisohbre8d13DanZfEjrHG2Mfiy3Z8nOs9bqeZNpldgr79X2qSs+4a6DgRxjhjiUDsAd8M/OtFtO3a+50ETV25rzMT5zUyDORn4YaNGnYgBPEe4axzqylyb6bWtEMtVPUVR/Vdm/sTpT3Zt2x2iJDHbUkdlJ5MQMY/YaNGh132FwCY3C0pYwDdmf//Z
+excerpt: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert. Ich
+  kann es kaum glauben! Was für eine Ehre!
 ogImage: null
+isAffiliate: false
+path: /2014/11/liebster-blog-award/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDBAURAAYSITETIkEHFkJRY3GxsvD/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQP/xAAgEQACAgAGAwAAAAAAAAAAAAABAgADBBESITGxMkHw/9oADAMBAAIRAxEAPwBU+m20LLFE9/3klJTJXTFYKeokMVNjGewxBYnsgN114/LaI7Zs6Jlheh24jhUKLJTQgOGUMvAlfd7cH251yLbcZqSxWuvkqrdTyeskVRUVKyiJldWAWMkhiS3AZHkZ+NXbHu66XUUUEEtonkmaKFZYYquRGdiQzMwHGMHi+M57xnryO1nsJP3URsvElT7V2jeEma22TbVQsfHmyUiADIyO+P8AsaWdx7As0Ks8dosMWPgQ4/gadaY3+73eojpmlpKKZpPTastMqegi4GPUYY5ZViD2CGHnvFisohbre8d13DanZfEjrHG2Mfiy3Z8nOs9bqeZNpldgr79X2qSs+4a6DgRxjhjiUDsAd8M/OtFtO3a+50ETV25rzMT5zUyDORn4YaNGnYgBPEe4axzqylyb6bWtEMtVPUVR/Vdm/sTpT3Zt2x2iJDHbUkdlJ5MQMY/YaNGh132FwCY3C0pYwDdmf//Z
+isWerbung: false
+fileName: 2014-11---liebster-blog-award.md
+slug: liebster-blog-award
+errors: {}
+date: 2014-11-19T11:58:34.000Z
+focusKeyword: Liebster Blog Award
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__m.jpg
+title: Liebster Blog Award
+subTitle: And the nominees are...
+seoTitle: Liebster Blog Award - die Nominierungen stehen fest
+description: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert.
+  Ich kann es kaum glauben! Was für eine Ehre!
 labels:
   - Blog-Award
   - Blogawards
   - Blogger
-  - danke schön
-  - Fragen
-  - Ihr seid toll
   - Internet
   - Internetfreunde
   - Interview
   - Interviews
   - Lieblingsschallplatten
   - Links
-  - Lobhudelei
-  - nominees
   - Nominierung
-  - Seelenstriptease
-  - Verlinkung
-focusKeyword: Liebster Blog Award
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: And the nominees are...
 ---
 
 **Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert. Ich kann es kaum glauben! Was für eine Ehre! Danke schön!**
@@ -76,7 +71,7 @@ Mein Lieblingsplüschtier in meiner Kindheit war ein kleiner von meiner Mama sel
 
 **Welche Küche ist Dir die liebste? Mediteran? Asiatisch? Hausmannskost? Alles?**
 
-Grundsätzlich esse ich alles sehr gerne, besonders Indisch und Asiatisch, ich mag auch Fusionküche. Auf jeden Fall sollte es vegan sein und gerne auch sehr scharf. :-)
+Grundsätzlich esse ich alles sehr gerne. Auf jeden Fall sollte es vegan sein und gerne auch sehr scharf.
 
 **Glaubst Du daran, dass institutionalisierte Politik irgendetwas Positives reißen kann, oder hast Du die Hoffnung schon aufgegeben?**
 
@@ -84,7 +79,7 @@ Politik bzw. Demokratie ist für mich eine zwingende Notwendigkeit. Ohne bestimm
 
 **Wann hast Du das letzte Mal Fenster geputzt/putzen lassen?**
 
-Das kann ich Dir ziemlich genau beantworten, Dela, das war vor 3 Jahren in meiner vorletzten Wohnung. Den Putzlappen habe ich selbst geschwungen. ;-)
+Das kann ich Dir ziemlich genau beantworten, Dela, das war vor drei Jahren in meiner vorletzten Wohnung. Den Putzlappen habe ich selbst geschwungen.
 
 <RemoteImage
   alt={`Auf Festivals lernt man improvisieren`}
@@ -97,7 +92,7 @@ Das kann ich Dir ziemlich genau beantworten, Dela, das war vor 3 Jahren in meine
 
 **Welches Deiner Talente wäre in einer Zombieapokalypse fürs Überleben am hilfreichsten? Wärst Du eher dafür, sich in Banden zusammenzuschließen, oder würdest Du es als Einzelkämpferin versuchen?**
 
-Hm, ich kann sehr gut Kleidungsstücke aus Müllbeuteln fertigen, das habe ich mir auf diversen Festivals beigebracht. Zum Teil stammt daher auch mein schier unerschöpfliches Improvisationstalent. Aus Plastikflaschen und Gaffertape lässt sich z. B. wunderbar eine Matratze basteln. Ich bin ganz klar für Banden, weil ich denke, dass ich vermutlich nicht sehr gut mit Anti-Zombiewaffen umgehen könnte. :-P Womit kann man die eigentlich besiegen? Gar nicht, oder? Dafür würde ich für alle Tee machen. Das kann ich auch noch gut.
+Hm, ich kann sehr gut Kleidungsstücke aus Müllbeuteln fertigen, das habe ich mir auf diversen Festivals beigebracht. Zum Teil stammt daher auch mein schier unerschöpfliches Improvisationstalent. Aus Plastikflaschen und Gaffertape lässt sich z. B. wunderbar eine Matratze basteln. Ich bin ganz klar für Banden, weil ich denke, dass ich vermutlich nicht sehr gut mit Anti-Zombiewaffen umgehen könnte. Womit kann man die eigentlich besiegen? Gar nicht, oder? Dafür würde ich für alle Tee machen. Das kann ich auch noch gut.
 
 **Welche Band/welchen Künstler muss man gehört haben, um von Dir ernst genommen zu werden?**
 
@@ -114,11 +109,11 @@ Grundsätzlich nehme ich Leute auch ernst, die keine Musik hören, oder sich ni
 
 Es gibt viele viele Bands, die aus meinem Plattenschrank nicht wegzudenken sind, Trail Of Dead z. B., Boysetsfire, Death Cab, ach, ich kann sie nicht alle aufzählen, das würde den Rahmen sprengen, ich möchte aber auch niemanden außer Acht lassen. Wichtig waren für mich auch immer Sonic Youth und später dann auch alle Combos, in denen die Mitglieder der Band gespielt haben, bzw. deren Soloprojekte. Alles, bei dem Trent Reznor von Nine Inch Nails seine Finger im Spiel hat, alles, bei dem Chino Moreno von den Deftones mit dabei ist.
 
-Beeinflusst haben mich außerdem auch Bob Dylan und das ganze Psychedelic-Zeuch von früher, das die Eltern so gehört haben, Grateful Dead, Iron Butterfly, Pink Floyd. Ich bin mir sicher, dass die Musik, die ich in meiner Kindheit gehört habe, dafür verantwortlich ist, dass ich auch heute Musik in ihrer progressiven Spielweise besonders gerne mag. Naja, aber dann auch wieder nicht nur, ich mag auch gerne eingängige Musik, ehrlichen Blues, ich mag die Sachen von Jack White und von Dan Auerbach und auch richtig verschwurbeltes Zeug wie die Musik von Les Claypool (Primus). Oh je und jetzt habe ich auf jeden Fall ein paar ganz wichtige Eckpfeiler vergessen. :-/
+Beeinflusst haben mich außerdem auch Bob Dylan und das ganze Psychedelic-Zeuch von früher, das die Eltern so gehört haben, Grateful Dead, Iron Butterfly, Pink Floyd. Ich bin mir sicher, dass die Musik, die ich in meiner Kindheit gehört habe, dafür verantwortlich ist, dass ich auch heute Musik in ihrer progressiven Spielweise besonders gerne mag. Naja, aber dann auch wieder nicht nur, ich mag auch gerne eingängige Musik, ehrlichen Blues, ich mag die Sachen von Jack White und von Dan Auerbach und auch richtig verschwurbeltes Zeug wie die Musik von Les Claypool (Primus). Oh je und jetzt habe ich auf jeden Fall ein paar ganz wichtige Eckpfeiler vergessen.
 
 **Bist Du abergläubisch? Wenn ja, eher so auf dem Level "Ich wünsche mir was, wenn eine Sternschnuppe vorbeifliegt." oder doch eher "Ich streue Salz auf die Türschwelle, damit sie mich nicht holen."?**
 
-Als Kind habe ich manchmal dieses Spiel gespielt, bei dem man nur auf die schwarzen Zebrastreifen treten darf, man in jede Pfütze springen und jeden Gullideckel mit den Füßen berühren muss. Was allerdings passiert, wenn man die Regeln nicht befolgt, darüber habe ich weniger nachgedacht. Grundsätzlich bin ich eher Realistin. Ich grusele mich nur ab und zu im Dunklen, wenn ich einen fiesen Film angesehen habe, aber ich denke, das zählt nicht. ;-) Also eher der Sternschnuppen-Typ.
+Was bedeutet abergläubisch? Als Kind habe ich manchmal dieses Spiel gespielt, bei dem man nur auf die schwarzen Zebrastreifen treten darf, man in jede Pfütze springen und jeden Gullideckel mit den Füßen berühren muss. Was allerdings passiert, wenn man die Regeln nicht befolgt, darüber habe ich weniger nachgedacht. Grundsätzlich bin ich eher Realistin. Ich grusele mich nur ab und zu im Dunklen, wenn ich einen fiesen Film angesehen habe, aber ich denke, das zählt nicht. Also eher der Sternschnuppen-Typ.
 
 <RemoteImage
   alt={`Lieblingsschallplatten`}
@@ -139,7 +134,7 @@ Ich habe immer sehr gerne Aufsätze geschrieben. Im Deutsch- und im Englischunte
 
 **Improvisierst Du gerne, nach dem System "Sicheres Auftreten bei völliger Ahnungslosigkeit" oder kann man Dich in den Wahnsinn treiben, wenn man Dich unvorbereitet etwas fragt oder tun lässt?**
 
-Grundsätzlich improvisiere ich sehr gerne, besonders, wenn es darum geht, etwas zu tun, ein Regal aufbauen, obwohl man nicht die richtigen Nägel hat, z. B. oder einen Rosinenkuchen ohne Rezept backen. Wenn ich etwas gefragt werde, was ich nicht weiß, ziehe ich es jedoch vor, Tante Google zu befragen. Oder ich gebe die Frage an jemanden weiter, der sie besser beantworten kann. :-P
+Grundsätzlich improvisiere ich sehr gerne, besonders, wenn es darum geht, etwas zu tun, ein Regal aufbauen, obwohl man nicht die richtigen Nägel hat, z. B. oder einen Rosinenkuchen ohne Rezept backen. Wenn ich etwas gefragt werde, was ich nicht weiß, ziehe ich es jedoch vor, Tante Google zu befragen. Oder ich gebe die Frage an jemanden weiter, der sie besser beantworten kann.
 
 **Wenn Du drei Wahrheiten/Regeln für das Leben benennen müsstest, welche wären das?**
 
@@ -205,7 +200,7 @@ Ich habe einige [Lieblingsrezepte](/tag/vegan/vegane-rezepte/), im Moment mache 
 
 **Fällt Dir etwas Pfiffiges ein, das Dir Deine Oma oder Dein Opa mit auf den Weg gegeben hat?**
 
-Mein Improvisationstalent (siehe Interview oben ;-) ) habe ich ganz klar von meiner Oma. Sie hat mir als Kind schon gezeigt, wie man mit ein paar ganz einfachen Dingen klar kommen kann. Basteln mit altem Geschenkpapier, Socken stopfen, Häkeln aus Garnresten und ich kann mich noch genau an folgende Situation erinnern: Wir waren mit der ganzen Familie auf einem Campingplatz und hatten das Shampoo vergessen. Meine Oma hat mir die Haare mit einem Stück Seife gewaschen und mir erklärt, dass man das früher immer so gemacht hat "Wir haben alles mit Seife gewaschen. Die Haare, die Hände, den Körper, die Wäsche, sogar das Geschirr hat man mit Seife gespült." Das sind schöne Erinnerungen an die Kindheit.Ich wasche noch heute meine Haare ab und zu mit einem Stück Seife. Danach kommen sie mir immer ganz besonders schön sauber vor. :-) Ach, ja mein Opa liebte es zu pfeifen. Er konnte ganze Opernarien pfeifen. Das Pfeifen habe ich von ihm gelernt. Genauso wie das Äpfelschneiden. Er hat das auf diese ganz besondere Art getan. Wenn wir spazieren gegangen sind, hatte er immer ein paar Äpfel und so ein krummes Obstmesser (das liegt heute noch bei meiner Oma in der Küchenschublade, ich benutzte es jedes Mal, wenn ich bei ihr zu Besuch bin) dabei, mit dem er dann kleine Stückchen abgeschnitten hat.
+Mein Improvisationstalent (siehe Interview oben) habe ich ganz klar von meiner Oma. Sie hat mir als Kind schon gezeigt, wie man mit ein paar ganz einfachen Dingen klar kommen kann. Basteln mit altem Geschenkpapier, Socken stopfen, Häkeln aus Garnresten und ich kann mich noch genau an folgende Situation erinnern: Wir waren mit der ganzen Familie auf einem Campingplatz und hatten das Shampoo vergessen. Meine Oma hat mir die Haare mit einem Stück Seife gewaschen und mir erklärt, dass man das früher immer so gemacht hat "Wir haben alles mit Seife gewaschen. Die Haare, die Hände, den Körper, die Wäsche, sogar das Geschirr hat man mit Seife gespült." Das sind schöne Erinnerungen an die Kindheit.Ich wasche noch heute meine Haare ab und zu mit einem Stück Seife. Danach kommen sie mir immer ganz besonders schön sauber vor. Ach, ja mein Opa liebte es zu pfeifen. Er konnte ganze Opernarien pfeifen. Das Pfeifen habe ich von ihm gelernt. Genauso wie das Äpfelschneiden. Er hat das auf diese ganz besondere Art getan. Wenn wir spazieren gegangen sind, hatte er immer ein paar Äpfel und so ein krummes Obstmesser (das liegt heute noch bei meiner Oma in der Küchenschublade, ich benutzte es jedes Mal, wenn ich bei ihr zu Besuch bin) dabei, mit dem er dann kleine Stückchen abgeschnitten hat.
 
 **Du wirst gefragt "Was war früher alles besser?" Was antwortest Du?**
 
@@ -252,13 +247,3 @@ Herzlichen Glückwunsch! Ihr seid nominiert für den "Liebster Blog Award"! Ihr 
 Ich danke hiermit schon mal allen Beteiligten für's Mitmachen, ich bin schon sehr gespannt auf Eure Antworten!
 
 Wir lesen uns!
-
-Kussi Anne &lt;3
-
-## Alle Awards, die diesem Blog bisher verliehen wurden
-
-- [Erbeerkuchen mit Grün 2011](/2011/09/erdbeerkuchen-mit-gruen-der-blogaward/)
-- [Best Blog Award 2013](/2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/)
-- Liebster Blog Award 2014
-- [Liebster Blog Award 2017](/2017/01/liebster-blog-award-2017-01/)
-- [Mystery Blogger Award 2017](/2017/10/mystery-blogger-award-mein-blog-ist-dabei/)
