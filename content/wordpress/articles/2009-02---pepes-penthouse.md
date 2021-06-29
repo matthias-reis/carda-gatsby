@@ -36,16 +36,6 @@ subTitle: '"Wir wollten was ganz Eigenes machen!"'
 
 Unser Treffen fand im Übungsraum der Band in der der alten Reese-Kaserne in Augsburg statt
 
-<RemoteImage
-  alt={`Interview mit der Augsburger Band Pepes Penthouse`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22971__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22971__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwj/xAApEAACAQMDAwQBBQAAAAAAAAABAgMEBREAEiEGE3EiMUFR0WFigZGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOeZbbVXOCyxwFXlkhALSyheXmZVySfHjTbdLU3cv0NLdYqua2iMxGJDsqcnD7T+0nj71AB70xLKox9DgeNXenLktqScTRs4ZhNFtYel1DAN+h5P40Gdt6Vr7nbRWUHZlDVsdAsJfbI0jjKnB4wfOdSLrbKq2V81FcIWgqoTtkib3U4z+P71Rhr7jZ+7T0dbPBDLsdgpGHBXIJ9+QCcfWqfWl6PUdyeqp4BSRSN3FSZg8jkIFZ3mIyzEjJGcDIAA0CXSkFFV01TDUUu+dMuk3dYYXafTtHHvznSdRGlPcKiNFBTeuAfgEA4/3Ro0DUlBA1G0uCsna7mQePn4/jVCkuEl8t9v6celt9LSoTUNUU9PieVlQjLsSckg88aNGg//2Q=="
-/>
-
----
-
 **Anne: Wie und wann habt ihr Euch kennengelernt?**
 
 **Quincy:** 2006 lernte ich Chris in dem Musikgeschäft in Augsburg kennen, in dem er wir heute noch arbeiten. Ich habe ihn zum jammen in den Proberaum meiner damaligen Band LIVING TICKET eingeladen. Er brachte Jochen gleich mit, der uns am Schlagzeug unterstütze. Er machte damals im selben Laden seine Lehre. Es war ziemlich schnell klar, dass wir weiterhin zusammen Musik machen wollten. Ich habe mich damals von LIVING TICKET getrennt und wir haben PEPES PENTHOUSE gegründet. Wir waren längere Zeit auf der Suche nach der optimalen Besetzung für den Bass. Letztes Jahr ist dann David zu uns gestossen. Wir haben ihn über die Band ECHOES OF SERENITY kennengelernt, die ihren Übungsraum 2 Stockwerke unter uns hat. Seit diesem Zeitpunkt sind wir komplett.

@@ -151,7 +151,7 @@ Mich macht das ganz unruhig, ich verspüre den Drang, die Menschen zu unterstüt
 
 "Die Situation in Istanbul ist unglaublich ermüdend und motivierend zugleich. Es ist traurig, auf der einen Seite zu sehen, wie gewaltbereit die Polizei ist und wie wenig Erdogan auf die Proteste in seinem Land reagiert. Auf der anderen Seite ist es unfassbar schön, Menschen von unterschiedlichen religiösen und politischen Richtungen zusammenkommen zu sehen, um für Meinungsfreiheit und Mitspracherecht in der Politik zu demonstrieren. Die Atmosphäre jetzt in Istanbul, auf dem Taksimplatz ist sehr besonders, unreal, positiv. Die Leute wissen, dass sie Geschichte schreiben könnten. Ich hoffe, es bleibt friedlich und das Volk bleibt weiterhin Seite an Seite."
 
-## Hier noch einige Informationen von Marie, wo man am besten unabhängige Nachrichten lesen kann:
+## Unabhängige Nachrichten
 
 [Alyazeera](http://www.aljazeera.com)  
 [BBC](http://www.bbc.co.uk)  
@@ -172,4 +172,3 @@ Für den Moment werde ich es bei diesem kurzen Anhang zu meinem Artikel belassen
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_cover_dvd__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIEBQYH/8QAKhAAAgEDAgUEAQUAAAAAAAAAAQIDAAQRBRIGEyExURQiYdEjMkFCcXP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHREBAAEDBQAAAAAAAAAAAAAAAAEDEWETFCGR8P/aAAwDAQACEQMRAD8As7bjeAanfadLpNty4UZWuXhBeR+awI3M2OwBz3/qqa/4g0+ZJ7e09Ulw49jDO1eoP6s9OgPatnNZajC+tGa49eJruR4IJAAYAZCBtZjjAHYDx5NRo49bPF2nNHEYtEECrNEk0ezfsbdlQckhsdcGmRUm5c0uLMQt1IMcy6uB5/M33TwXchuIdt3M3vXP5W8j5rrtxDujw0gCFs4MQYD47U9nCVkiKOvLBGVEQUMfNb1cJtrn3aTdaBdvdzOHtwDIxHuP7k/FEHD13HIjmS3wO4Bb6oopK1KbR7lxhxAV/wBG+qeLSLhGULyQoI/mfqiigP/Z"
 />
-

@@ -44,13 +44,6 @@ errors: {}
 subTitle: Album "Tempest" im September
 ---
 
-<RemoteImage
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_bobdylan__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_bobdylan__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBwX/xAAsEAACAQMDBAADCQAAAAAAAAABAgMEBREAEjEGBxMhCBRRFiJBUmFxkaHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABsRAAMBAQADAAAAAAAAAAAAAAABAhEDEiEx/9oADAMBAAIRAxEAPwCgLzXXCjvVLHE0LiRsfe3AIpPvg+zj+9Z5P3xi+2yWGnt7CnaoFMK+TJRn3YwFH6+ueRpk7r9U03SMcl1noqitkp4N6RxEKu4sFXc2PXs/4dTFfOqXuVoe7pYaKkhkuRfaBuDyh/JjyHD45Bxjn8NZ1LltSaJ8aW0VvYuqJLndp7eTD54QrSLCCwjBYDazcBjzjkD+SaWuzV+t/UVnoq61wCkjZWR6NQAsDq2GXI594O7kg6NU5tudZLokqxHP7126m6gvEFgnl8U1bR5gcOAY5VkJRgucn2PYA41Kd0qaqKoktFRVitt9LXO4EI2o7biHZMjI3ZPOrnvvT1kud/prjc7Q1XcaRQsFQFfMa5zgEHHJOlCTs30bLI0x6YpPM7mQsVlHsnPHm+udNj0M0sFz4ZrRU2W3Tw1w8U9S5rPljzArYVVY/mwuT9P30a02zdOWmxXIy2OzmmqZAFlbexDJnPvJI596NKrXwFLfZ//Z"
-/>
-
 **Seit mehr als 50 Jahren ist Bob Dylan nun als Musiker unterwegs. Eine lange Zeit, in der er musikalisch die verschiedensten Stile durchlaufen hat, sich selbst blieb er dabei immer treu.**
 
 Einige der poetischsten Texte aller Zeiten stammen aus Dylans Feder. Er hat ganze Generationen von Musikern und Textern mit seiner besonderen Art, die Welt zu beschreiben, beeinflusst. Fans aus aller Herren Länder touren ihm hinterher und scheinen alles aufzusaugen, was aus seiner Mache stammt. So auch ich, die ich mit Bob Dylans Musik und Lyrik aufgewachsen bin. Das es Menschen gibt, die ihn nicht bewundern, ist für mich schlicht unvorstellbar.

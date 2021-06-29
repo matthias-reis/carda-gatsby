@@ -40,5 +40,3 @@ Sänger Aydo Abay, Schlagzeuger Mario Matthias, Gitarrist Kurt Ebelhäuser und B
 ## **Blackmail Alben**
 
 "Tempo Tempo" (2008) Arial View (2006) Friend Or Foe? (2003) Bliss Please (2001) Science Fiction (1999) Blackmail (1997)
-
-undefined

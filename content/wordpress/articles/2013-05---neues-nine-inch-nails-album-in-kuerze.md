@@ -168,4 +168,5 @@ Sensation No. 3: Morgen ist Feiertag. Das bedeutet, ich kann ausschlafen! Außer
 
 _Dieser Artikel ist für Valentin_
 
-[Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
+<FestivalList />
+

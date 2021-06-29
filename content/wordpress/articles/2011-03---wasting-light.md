@@ -33,4 +33,6 @@ subTitle: Neues Album von den Foo Fighters
 
 Das Video wurde im guten alten analogen VHS-Format aufgenommen. Regie führte dabei Dave Grohl persönlich. Wir dürfen gespannt sein auf das neue Album, "White Limo" und "Rope" versprechen einiges. Ich persönlich freue mich natürlich auch auf die Festival-Saison 2011, bei der die Foo Fighters wieder auf zahlreichen Bühnen zu sehen sein werden.
 
-[Videoclip](http://www.foofighters.com/de/videos/rope) Rope [Videoclip](http://www.foofighters.com/de/videos/white-limo) White Limbo [Homepage](http://www.foofighters.com/de/home) Foo Fighters
+## Foo Fighters – "Rope"
+
+<YouTube id="kbpqZT_56Ns" />

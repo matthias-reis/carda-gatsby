@@ -42,15 +42,6 @@ errors: {}
 subTitle: Bastelstunde
 ---
 
-<RemoteImage
-  alt={`Foto: cardamonchai 3/2012`}
-  size="medium"
-  title={`Schmuckaufbewahrung selber basteln`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_04_img_8927.jpeg__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_04_img_8927.jpeg__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwID/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEFAAYhEiIxE0FRBxQjFWGBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQD/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIRAyEEEkFh0f/aAAwDAQACEQMRAD8AoojuEm5WVgVTVwMuVpdjplslpuQnhSfTJrrF88G/i9dMbLzLqno8uI0FeoSlaHErZKaPkHkiz4oHx8agX9jbo3I/PEmQ7Ixb7lxS9OUhuOUr5tqjYrgdPINa1j6Xx52S2ZPw24HkZCTjpTmPL5CqdSG0qR1c2a66580L1iNEnurakZrCzSFQ3n2mSk+i4FqaNdpIHgWKv++dR2G2w+/j2p2CkTWJTcdDpdQpag0VNi1WVUD3H/TXxsETac/bu1M63MzDkvHllAjw7Km49FPWQogK7iT2+KrydKdoj7j6f49XUICoMZKXfTXxKUtkBFkjzYoj2Hg86jQo6WhXn9z5SE0zFguoZQ8S4tfQCvn2B8AfxpWnc03EwY0Vg9H6m+VSls/jLiikpUs+e4hKeRXjRo0m6HmxxU2l4G2FUX8ekj8bZe6ChHHcSbUPYWUk+PeteW1ozcnbEZCU0lxpuw533SLHx+w4rxo0aORvrYePFXXv4f/Z"
-/>
-
 **Heute widme ich mich mal einem ganz neuen Thema: Der Bastelei.**
 
 Vor Kurzem kam ich mit zwei Freundinnen über ein Soziales Netzwerk ins Gespräch über ein Luxusproblem: Wo bringe ich meinen **Modeschmuck** unter? Am besten so, dass ich ihn immer sehen und nicht jedes Mal lange graben muss, oder gar vergesse, dass das ein oder andere Teil existiert, weil es irgendwo ganz unten in einem Kistchen liegt? Hier sind drei Lösungen, mit denen Ihr das Chaos lichten könnt.
@@ -118,7 +109,3 @@ Zuletzt noch zu meiner Variante der Schmuckaufbewahrung: Als ich vor einiger Zei
 />
 
 Was gibt es sonst noch für Aufbewahrungsmöglichkeiten? Habt ihr Tipps? Habt ihr vielleicht noch was viel tolleres gebaut? Ich freue mich auf jeden Fall auf Fotos, die ich gerne nachträglich in diesem Artikel posten werde, genau so natürlich über Kommentare mit "Montageanleitungen".
-
-## Song des Tages: Zaz – "Ton Rêve"
-
-<YouTube id="1S3TyzpzQP8&amp;feature=related" />

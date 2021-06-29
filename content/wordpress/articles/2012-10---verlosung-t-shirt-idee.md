@@ -132,7 +132,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="medium"
+  size="full"
   title={`Annett bemalte dieses T-Shirt für Ihren Sohn für das diesjährige Burg Herzberg Festival. Das selbst entworfene Logo befindet sich auch auf Ihrem Auto.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_annett1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_annett1__l.jpg"
@@ -141,7 +141,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="medium"
+  size="full"
   title={`Franky aus Berlin bekam dieses selbst gestaltete Madonna-T-Shirt von einem Freund für das Madonna-Konzert im Juni geschenkt.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_franky__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_franky__l.jpg"
@@ -150,7 +150,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="medium"
+  size="full"
   title={`Bernd hat dieses Shirt vor Jahren selbst bedruckt. Die Aufschrift "this is not a FUGAZI T-Shirt" trägt es, da es von der Band Fugazi keine Band-Shirts gibt, weil die Jungs auf Kommerz lieber verzichten möchten.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_08102012-010flkl__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_08102012-010flkl__l.jpg"
@@ -159,7 +159,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="medium"
+  size="full"
   title={`Olli setzte alle Hebel in Bewegung, um an dieses Original-T-Shirt aus dem Film 'Hangover' zu kommen. Das gute Stück trägt den Namen 'Human Tree'.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_olli__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_olli__l.jpg"
@@ -177,7 +177,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="medium"
+  size="full"
   title={`[Aithir](http://aithir.de/) schreibt folgendes über sein Lieblings-T-Shirt: 'Es ist inzwischen ungefähr 10 Jahre alt und seitdem trage ich es fast jede Woche - das macht über 500 Waschgänge und ein tolles Grau, wie es Modedesigner bei ihren Vintagestyles gerne hinbekommen würden. Außerdem hat es das coolste Motiv, das ich je auf einem T-Shirt gesehen habe. Und schließlich ist es von den Queens Of The Stoneage.'`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_qotsa.jpeg__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_qotsa.jpeg__l.jpg"
@@ -186,7 +186,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="medium"
+  size="full"
   title={`Mit diesem T-Shirt hat [Susanne Haun](http://susannehaun.wordpress.com/) bereits New York, San Francisco, Boston und viele weitere beeindruckende Orte bereist.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_susanne-haun1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_susanne-haun1__l.jpg"
@@ -195,7 +195,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="medium"
+  size="full"
   title={`Ein weiteres Lieblings-T-Shirt von [Susanne Haun](http://susannehaun.wordpress.com/). Sie hat es von einer lieben Freundin geschenkt bekommen.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_susanne-haun2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_susanne-haun2__l.jpg"
@@ -204,7 +204,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="small"
+  size="full"
   title={`Die Idee zu Dominics T-Shirt stammt aus der Serie 'Die Wilden 70er'.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_dominic__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_dominic__l.jpg"
@@ -213,7 +213,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="small"
+  size="full"
   title={`Tommis Lieblings-T-Shirt entstand, als seine Freundin langsam eine schwere Zunge bekam. Er entwirft sehr gerne T-Shirts mit 'Insider'-Sprüchen zusammen mit seinen Freunden.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_tommi__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_tommi__l.jpg"
@@ -231,7 +231,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="medium"
+  size="full"
   title={`[Ulle](http://thatgirlthere.wordpress.com/), vielen auch bekannt als [@isntfamous](https://twitter.com/isntfamous) besitzt ihr Lieblings-T-Shirt bereits seit rund 10 Jahren. Sie hat es auf einem Thrice-Konzert in Hamburg erstanden.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_ulrike__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_ulrike__l.jpg"
@@ -240,7 +240,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="medium"
+  size="full"
   title={`Flo hat...`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo1__l.jpg"
@@ -249,7 +249,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="medium"
+  size="full"
   title={`...gleich eine ganze Reihe...`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo3__l.jpg"
@@ -258,7 +258,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="medium"
+  size="full"
   title={`tolle Lieblings-T-Shirts eingesendet. Unter anderem dieses Opeth-T-Shirt, das ich ganz besonders schön finde...`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo4__l.jpg"
@@ -267,7 +267,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="medium"
+  size="full"
   title={`... zu diesem T-Shirt gibt es eine besondere Geschichte zu erzählen. Zusammen mit einigen Studienkollegen in Eichstädt, die alle aus dem bayerischen Wald stammten, wurde der Begriff 'Woidcoast' kreiert. Gemeinsam tröstete man sich damit über die Ferne des Waldes ('Woid') hinweg. Bei seinem T-Shirt, das er von eben jenen Studienfreunden geschenkt bekam, handelt es sich um ein Unikat.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo2__l.jpg"
@@ -276,7 +276,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="small"
+  size="full"
   title={`Auch Sandra, aka [Hoochi1107](http://hoochi1107.wordpress.com/). ..`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra1__l.jpg"
@@ -285,7 +285,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="small"
+  size="full"
   title={`... hat...`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra2__l.jpg"
@@ -294,7 +294,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="small"
+  size="full"
   title={`... bunt und farbenfroh, wie sie ist...`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra3__l.jpg"
@@ -303,7 +303,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="small"
+  size="full"
   title={`... gleich eine...`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra4__l.jpg"
@@ -312,7 +312,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="small"
+  size="full"
   title={`... ganze Menge...`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra5__l.jpg"
@@ -321,7 +321,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="small"
+  size="full"
   title={`... wunderbar farbenfrohe,...`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra6__l.jpg"
@@ -330,7 +330,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="small"
+  size="full"
   title={`... fröhliche...`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra7__l.jpg"
@@ -339,7 +339,7 @@ Wahrscheinlich fragt Ihr Euch jetzt: "Warum sagt Sie nicht endlich, wer gewonnen
 
 <RemoteImage
   alt={`Verlosung`}
-  size="small"
+  size="full"
   title={`... Lieblings-T-Shirts eingesendet. Vielen Dank dafür!`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra8__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra8__l.jpg"

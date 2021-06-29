@@ -44,16 +44,16 @@ errors: {}
 subTitle: Ich habe aufgehört zu rauchen...
 ---
 
+**... und das vor ziemlich genau vier Stunden. Um 13:30 habe ich die letzte Kippe in den Sand des Aschenbechers vor dem Bürogebäude gedrückt. Jetzt meint Ihr sicher: Die spinnt doch. Nein, das tue ich nicht. Ich habe mir das ganz genau überlegt...**
+
 <RemoteImage
   alt={`Schweinehund`}
-  size="medium"
+  size="full"
   title={`Hässlichstes Bild in meinem Blog bisher und in Zukunft`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9707307969_f3e68eba49_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9707307969_f3e68eba49_o__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBAf/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEBRESAAYhMUFRBxMiYTKBkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4MiMnd9QrVfqc1TJVILjiAjI2WSQAb9B0HHbTPStq0uHtyn7gFPM6NIkqYSmQo3snL5WsE2OB86D7PipjGQw2oqYqMRxxKXQLlbSuxHFj8rHW3Z8Rx+ZGa9xwNl3HEqJAFz26aA3617SEaj0SowIbUcFYjFlptKLBYyRcJFuuQv5OuMupxVbx/uro3bs81HZyng2JElFISWo6fipx5DYW2QfOQHbUR1uOmJU3o6CSlqyLkWJsBfjQNVenopNcoaAVKRDhpS5zdRzyPP3iU6I7QqoiyWFpVgMgbfV+mt/qP6XV6PUpNQhuM1Jhw3HsjFSEgAAY+AAB17aRSJFPeQ1JQuOu34ujE2/egtumVGNUocOFOqMhAdihKVh8MBKvbFuEWJtx1UfvUQb0juRN01Nh9BQ6h9QWk9lX5H901Peoe6320ojzTFQlAbAjIQ1wAB1SMieOpUdI1VekvzXHJrqnX1cqUo3J78nvoP/2Q=="
 />
-
-**... und das vor ziemlich genau vier Stunden. Um 13:30 habe ich die letzte Kippe in den Sand des Aschenbechers vor dem Bürogebäude gedrückt. Jetzt meint Ihr sicher: Die spinnt doch. Nein, das tue ich nicht. Ich habe mir das ganz genau überlegt...**
 
 Wovor ich am meisten Angst habe? Nicht davor, es nicht zu schaffen und nachher gleich wieder anzufangen, sondern davor, Euch mit einem weiteren "Endlich rauchfrei-Artikel" zu langweilen. Ich kenne die Dinger. Ich habe sie alle gelesen. Ich weiß auch, dass die einem nicht weiterhelfen, obwohl sie das natürlich vorgeben. Ich für meinen Teil habe gar nicht vor, jemandem zu helfen. Hierbei handelt es sich lediglich um einen Selbstversuch. Ihr dürft also gerne weiterlesen. Auch als Nichtraucher, eingefleischte Ichhörniemalsauf-Raucher, Einhörner oder Marathon-Enten.
 
@@ -67,7 +67,7 @@ Diese vage Erinnerung an ein erleichtertes Gefühl beim Aufwachen ist für mich 
 
 <RemoteImage
   alt={`Schweinehund`}
-  size="medium"
+  size="full"
   title={`Der fiese Schweinehund - Ist er am Ende gar nicht böse?`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_foto__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_foto__l.jpg"
@@ -86,7 +86,7 @@ Bei meiner Recherche in den Untiefen des WWW stolperte ich über einen sehr kurz
 
 Mein Schweinehund bekommt von mir viele tolle Sachen gekauft, die ich dann zusammen mit ihm genieße und im Gegenzug hört er damit auf, mir eine stinkende Sucht einzureden. In dem Artikel steht, man soll den Vertrag im Büro oder an der Kühlschranktür aufhängen. Ich gehe noch einen Schritt weiter: Ich stelle ihn ins Netz. Und wenn ich es nicht schaffe, könnt Ihr mich alle öffentlich auslachen.
 
-Es ist hart. Ich weiß. Eure Fanpost könnt Ihr also direkt an das Postfach zwischen Al Pacino und Bruce Willis senden. :-P Hier kommt der Vertrag:
+Es ist hart. Ich weiß. Eure Fanpost könnt Ihr also direkt an das Postfach zwischen Al Pacino und Bruce Willis senden. Hier kommt der Vertrag:
 
 ## Vertrag
 
@@ -109,7 +109,7 @@ Ich werde ab Montag, 09. September 2013 14:00 Uhr nicht mehr rauchen. Hier sind 
 
 <RemoteImage
   alt={`Evelyn`}
-  size="medium"
+  size="full"
   title={`Evelyn`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9680795254_0fc1099280_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9680795254_0fc1099280_o__l.jpg"
@@ -120,7 +120,7 @@ Ich werde ab Montag, 09. September 2013 14:00 Uhr nicht mehr rauchen. Hier sind 
 
 <RemoteImage
   alt={`Der Herzmann`}
-  size="medium"
+  size="full"
   title={`Matze`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_189270_1914558587933_3844410_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_189270_1914558587933_3844410_n__l.jpg"

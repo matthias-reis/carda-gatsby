@@ -45,7 +45,3 @@ Die Band war in toller Stimmung, das Publikum war toll, die Stimmung war noch be
 **Hier noch ein paar Bilder von der Vorband "Waves" aus München.**
 
 <Gallery name="flickr/wamuc" />
-
-## Russian Circles – "Carpe"
-
-<YouTube id="mzYW1pY3hFA&amp;w=420&amp;h=315" />

@@ -53,7 +53,7 @@ Sicher könnt Ihr Euch noch an Chili erinnern. [Chili, den Kater](/2012/08/ode-a
 
 <RemoteImage
   alt={`Chili und Oskar`}
-  size="thumbnail"
+  size="full"
   title={`Chili und Oskar`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461961351_4c595b35d9_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461961351_4c595b35d9_o__l.jpg"
@@ -68,7 +68,7 @@ Chili der Kater kommt beim Springen schief auf, er heult auf und verhält sich a
 
 <RemoteImage
   alt={`Chili will mit zum Sport`}
-  size="thumbnail"
+  size="full"
   title={`Chili will mit zum Sport`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461958087_d86c6344af_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461958087_d86c6344af_o__l.jpg"
@@ -81,7 +81,7 @@ Am Abend heult Chili wieder, Anruf bei der Tierklinik in X., Notaufnahme, Chili 
 
 <RemoteImage
   alt={`Chili in der Tüte`}
-  size="thumbnail"
+  size="full"
   title={`Chili in der Tüte`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9582794617_93964572ed_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9582794617_93964572ed_o__l.jpg"
@@ -94,7 +94,7 @@ Chili wird am Abend vom Chirurgen untersucht, er stellt das Gleiche fest, wie sc
 
 <RemoteImage
   alt={`Chili passt auf meine Schuhe auf`}
-  size="thumbnail"
+  size="full"
   title={`Chili passt auf meine Schuhe auf`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9477925432_2dd15fa91e_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9477925432_2dd15fa91e_o__l.jpg"
@@ -109,7 +109,7 @@ Chili wird am Abend vom Chirurgen untersucht, er stellt das Gleiche fest, wie sc
 
 <RemoteImage
   alt={`Dieser Rock ist jetzt meiner!`}
-  size="small"
+  size="full"
   title={`Dieser Rock ist jetzt meiner!`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9574655457_768d6ed1f6_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9574655457_768d6ed1f6_o__l.jpg"
@@ -124,7 +124,7 @@ Chili wird am Abend vom Chirurgen untersucht, er stellt das Gleiche fest, wie sc
 
 <RemoteImage
   alt={`Chili bei seiner Lieblingsbeschäftigung`}
-  size="thumbnail"
+  size="full"
   title={`Chili bei seiner Lieblingsbeschäftigung`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9462183733_fbb71b1ed7_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9462183733_fbb71b1ed7_o__l.jpg"
@@ -138,7 +138,7 @@ Chili wird am Abend vom Chirurgen untersucht, er stellt das Gleiche fest, wie sc
 **12:00** Rückruf mit der Hiobsbotschaft: Chili ist durch die Narkose blind geworden. Das sei eine normale Reaktion, er müsse auf jeden Fall noch am Tropf bleiben, bis er stabiler sei, ich soll doch in einer Stunde noch mal anrufen.
 
 <RemoteImage
-  size="small"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_76351__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_76351__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAgMEBf/EACkQAAEDAwIFAwUAAAAAAAAAAAECAwQABREGIQcSE0FRMTJhFCJiceH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAEEBf/EABkRAQEBAQEBAAAAAAAAAAAAAAABEQISMf/aAAwDAQACEQMRAD8AosqDIdJTCiSo7h9VyOUJT8jBJJrUYcm2Q0MJQ4lCQfvO5USckk+SaeWGw/hKSMAbmpJxU1RqPRN8a+nAkwpJy2hbJU2fxJ7H+Vzm6RnJCio480V4ui9aL15qEQU2iLb2mWFuyXA6pSjjATyDYbqO+c7CipZgVVLdf48J4iQ8hLSjgrJ2H7pa4yant0zQd3jwL7DZeHTR0ltdRTpyCQnwcdx3HakLV7jsqFKSzupZJAPffOKjk243B2Q6lcp8KyMp7JxsE48Upzpej7wRnt2/WaGXCjmkMLZDixjnV7gkfJxRXXwYiJTIlXGfkjZLAWge7OSsfPoM0VXX0df/2Q=="
@@ -150,7 +150,7 @@ Chili wird am Abend vom Chirurgen untersucht, er stellt das Gleiche fest, wie sc
 
 <RemoteImage
   alt={`Chili passt auf die Kamera auf`}
-  size="thumbnail"
+  size="full"
   title={`Chili passt auf die Kamera auf`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461983325_feb4bae5c5_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461983325_feb4bae5c5_o__l.jpg"
@@ -167,7 +167,7 @@ Chili wird am Abend vom Chirurgen untersucht, er stellt das Gleiche fest, wie sc
 
 <RemoteImage
   alt={`Bringt ihr mir was mit?`}
-  size="thumbnail"
+  size="full"
   title={`Bringt ihr mir was mit?`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9464722296_f129eedb6a_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9464722296_f129eedb6a_o__l.jpg"
@@ -180,7 +180,7 @@ Chili wird am Abend vom Chirurgen untersucht, er stellt das Gleiche fest, wie sc
 
 <RemoteImage
   alt={`Der Käfig vor Chilis Einzug`}
-  size="small"
+  size="full"
   title={`Der Käfig vor Chilis Einzug`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7721__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7721__l.jpg"
@@ -195,7 +195,7 @@ Ich bin selbst krank geworden und muss nun das Bett hüten. Eine echte Krankenst
 
 <RemoteImage
   alt={`Chili nach dem Eingriff`}
-  size="medium"
+  size="full"
   title={`Chili nach dem Eingriff`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7737__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7737__l.jpg"
@@ -206,7 +206,7 @@ Ich bin selbst krank geworden und muss nun das Bett hüten. Eine echte Krankenst
 
 <RemoteImage
   alt={`Chili geht es schlecht`}
-  size="medium"
+  size="full"
   title={`Chili geht es schlecht`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7753__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7753__l.jpg"
@@ -219,7 +219,7 @@ Ich bin selbst krank geworden und muss nun das Bett hüten. Eine echte Krankenst
 
 <RemoteImage
   alt={`Wir haben ihm die Halskrause abgenommen`}
-  size="medium"
+  size="full"
   title={`Wir haben ihm die Halskrause abgenommen`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_77601__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_77601__l.jpg"
@@ -230,7 +230,7 @@ Komisch, man hat uns zwar in der Klinik jede Menge erzählt und uns auch eine g
 
 <RemoteImage
   alt={`Schmusen?`}
-  size="thumbnail"
+  size="full"
   title={`Schmusen?`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461962885_0371c151d7_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461962885_0371c151d7_o__l.jpg"
@@ -241,7 +241,7 @@ Die Wärmeflasche, die er nun in seinem "Käfig" hat scheint auch gut anzukommen
 
 <RemoteImage
   alt={`Seine Majestät Flauscheball`}
-  size="small"
+  size="full"
   title={`Seine Majestät Flauscheball`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461950925_40ba96df19_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461950925_40ba96df19_o__l.jpg"
@@ -252,7 +252,7 @@ Ich bin ja mal gespannt, was da für eine Rechnung auf uns zukommen wird. Ich de
 
 <RemoteImage
   alt={`Chili in der Badewanne`}
-  size="small"
+  size="full"
   title={`Chili in der Badewanne`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461933741_6cf61fdf03_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461933741_6cf61fdf03_o__l.jpg"
@@ -267,7 +267,7 @@ Ich bin ja mal gespannt, was da für eine Rechnung auf uns zukommen wird. Ich de
 
 <RemoteImage
   alt={`Chili auf seinem Thron`}
-  size="small"
+  size="full"
   title={`Chili auf seinem Thron`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img-20120118-wa0000__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img-20120118-wa0000__l.jpg"
@@ -278,7 +278,7 @@ Ich bin ja mal gespannt, was da für eine Rechnung auf uns zukommen wird. Ich de
 
 <RemoteImage
   alt={`Chili mit seinen Enten`}
-  size="small"
+  size="full"
   title={`Chili mit seinen Enten`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img-20120424-wa0000__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img-20120424-wa0000__l.jpg"
@@ -291,7 +291,7 @@ Ich bin ja mal gespannt, was da für eine Rechnung auf uns zukommen wird. Ich de
 
 <RemoteImage
   alt={`Das Dreamteam`}
-  size="small"
+  size="full"
   title={`Das Dreamteam`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img-20111124-wa0006__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img-20111124-wa0006__l.jpg"
@@ -302,7 +302,7 @@ Ich bin ja mal gespannt, was da für eine Rechnung auf uns zukommen wird. Ich de
 
 <RemoteImage
   alt={`Chili als Baby`}
-  size="small"
+  size="full"
   title={`Chili als Baby`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_36642569__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_36642569__l.jpg"
@@ -317,7 +317,7 @@ Ich bin ja mal gespannt, was da für eine Rechnung auf uns zukommen wird. Ich de
 
 <RemoteImage
   alt={`Müde`}
-  size="small"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_0414-kopie__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_0414-kopie__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgQFBgcI/8QALxAAAgIBAwMDAQYHAAAAAAAAAQIDBAUABhESITEHIkETFBVCUWFxFiMyM4Ghsf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQT/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIRIQMSMVH/2gAMAwEAAhEDEQA/AGXp743Z6g7jio7lzFLGQZGaHrhtvFHFGjkCONVIHV0jj/Z1Pbx3Dlti5KnZtWb1vFWEKgm2zsjr8FW7Ht88g+dXQbhoY6DL27Na1Vq1bE/U8tdolkYOeShI93U3gjzzrnr1N3ZZ3RfrNcCrHxzFCD7Ygf8Ap/fUivblvvzcpifNTRj61QSV+pKNt+PJWwFJ1Sl9Us/m9/7W+7rlzH0PvKvDLX+1M4sK8iqwdT2K8Ejjj55/LUdsv05u7lxFjIJka+OgS1HChnX+4pPvYd/w8jt89xpzD7fXBep1DF23humvka/S6Hs38xSrjg+0+Ox1pK0pbI5SDiqIEa9VcxlL97MVmtz2IqeRmRIOhQFQSEf1Lwew/MH99H6bbPo7lNaS4VmaJet0Y8E9RIHP6dvH6aHcOH3BHvrcYbBZV4JchPJHJHUd0dGcsrKwBBBBGi2rV3RtTLGzSweUmrzMDIq05OwH+NJFM1NQ7h1MTU5diwyWI3kqxOtbj6Sd+FA7ghfBPnjUnYxGOguUpniQWEnjIkKAEnqHHJ0r/Gt13aNdvZoMsPXHI1NwpYfg8fOqjuDKbize69u16WCzEUa5KB55WrMsX0w6szFiOAAAfOlYVxFnZ9Z//9k="
@@ -331,7 +331,7 @@ Ich bin ja mal gespannt, was da für eine Rechnung auf uns zukommen wird. Ich de
 
 <RemoteImage
   alt={`Mit dem Wärmebär`}
-  size="small"
+  size="full"
   title={`Mit dem Wärmebär`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_1065__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_1065__l.jpg"
@@ -342,7 +342,7 @@ Ich bin ja mal gespannt, was da für eine Rechnung auf uns zukommen wird. Ich de
 
 <RemoteImage
   alt={`Am Kucken`}
-  size="small"
+  size="full"
   title={`Am Kucken`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_0801__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_0801__l.jpg"
@@ -353,7 +353,7 @@ Ich bin ja mal gespannt, was da für eine Rechnung auf uns zukommen wird. Ich de
 
 <RemoteImage
   alt={`Chili auf dem Balkon`}
-  size="small"
+  size="full"
   title={`Chili auf dem Balkon`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_1551__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_1551__l.jpg"
@@ -364,7 +364,7 @@ Ich bin ja mal gespannt, was da für eine Rechnung auf uns zukommen wird. Ich de
 
 <RemoteImage
   alt={`Chili bewacht den Eingang`}
-  size="small"
+  size="full"
   title={`Chili bewacht den Eingang`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_2184__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_2184__l.jpg"
@@ -375,7 +375,7 @@ Der Doktor in der Tierklinik in Gessertshausen hat sich sehr viel Zeit für uns 
 
 <RemoteImage
   alt={`Leseratte`}
-  size="small"
+  size="full"
   title={`Leseratte`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_2237__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_2237__l.jpg"
@@ -404,7 +404,7 @@ Anne &amp; Matthias R.
 
 <RemoteImage
   alt={`Zwei Brüder`}
-  size="small"
+  size="full"
   title={`Zwei Brüder`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_0078-kopie__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_0078-kopie__l.jpg"

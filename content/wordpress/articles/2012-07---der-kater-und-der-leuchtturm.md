@@ -202,7 +202,3 @@ _ [Teil 1/9](http://wp.me/p533wO-Ry) _  Impressionen aus Mevagissey, Cornwall 6
 />
 
 Hier geht's zu [_Teil 3/9_](/2012/07/glastonbury/)  der Galerie "England 2012"
-
-## Musik zu den Bildern: Neil Young - Mirroball
-
-<YouTube id="i07fRWZrrEY" />

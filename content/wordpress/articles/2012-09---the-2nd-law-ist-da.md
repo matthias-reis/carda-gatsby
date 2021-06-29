@@ -99,15 +99,6 @@ subTitle: Neues Album von Muse
 
 **Der große Tag ist da! Zur Feier des Tages habe ich Überstunden eingelöst und das Büro früher verlassen. Wie der Fürst der Finsternis auf Reifen bin ich zur Packing-Station gefahren und habe mein Fach gelehrt. Die neue Muse-Platte "The 2nd Law" ist da!**
 
-<RemoteImage
-  alt={`Muse - The 2nd Law ist da!`}
-  size="thumbnail"
-  title={`Muse - The 2nd Law ist da!`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_427d6774096811e283fe22000a1d0cf6_7__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_427d6774096811e283fe22000a1d0cf6_7__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAgP/xAApEAABAwMCBgICAwAAAAAAAAABAgMEBQYRACEHEhMiMUFRYRQkMnGB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgQFA//EACURAAEDBAAFBQAAAAAAAAAAAAECAxEABBIhEzFBcZFRYYGx8P/aAAwDAQACEQMRAD8AJcTr8umJxGuWLFuGqx4jNQdjtsty1ISlA3ASPQyDv6G2s6fX7kuVhqm02VWUSG1H8uUqqSHULSQQSpJ7UJ+h/W+lFespmv8AEO53KtUH6fFelyXG2k8q3pDXUJJTntQkkbFW59DG+ltLKrNmPOWzbTldhze6TIdkKSvbwkHkSn2VeCPvUtN4yHglw6602LdeGeJjtrzRyyrchN0+Uqr3FX5ctsdMtszHYrYVsUhJSQCClWO4jBHoHXjWZdWtm+LQj0u766USJzCnqVJmOOhpBdSCFE+juMKznOnN01W28Q5SS6zNUctI6nKFLA5lNqwCnAHlR+sajUdqW9xOYlzVILzNSYkOlxYGE9QEbH4G2NULwIWG7i1UcASCI1J2AZ3yonLhh2UNN4n334Pp8VUOIUS3HL0nu1OQ8HEvOlxiMoqW4rPhSj/H1sMaK3nUWqRT2XKazFjh8gMKXMRJeKCnJWW/LRB7e7340i40WrXqXcc2fS4sx9iY8uQHIsYu8vMckEgEggnUbm25cbrC5rlJqSwXOmSqMsLJxnJTjOPvxqMWJWSRuf3SK2CglAHMd6c0ONKuuA9TBO51rZC2nngVJawcK29ZSpQ/3W7b3COXFuCBJeryFftNqcSmMVdRIWk8uVHzt511watWoUeO/Uqyy8w7ISENNOAgpRnJJHydtVOA8ldVgIzguSEBO+6u4Hb520KVYnEHQph9zjniKEGPqv/Z"
-/>
-
 Jetzt liegt sie im Player und ich genieße dieses geniale Werk in voller Lautstärke. Eines konnte ich sofort nach den ersten drei Songs sagen: Das Album ist großartig. Noch viel mehr, als ich mir versprochen hatte. Teilweise wieder sehr queenesk, stellenweise düster, dann wieder bunt, locker, viel weniger poppig als das letzte Werk. Die fliegende Gitarre in "Madness": Das Schönste, was man aus den 80er-Jahren hervorkramen und völlig unverstaubt vortragen kann. Matthew Ballamys Gesang: Voller und wohlklingender als je zuvor.
 
 "Panic Station" kommt funky daher, Muse zeigen ganz neue Facetten ihrer sowieso schon immer glänzenden Figur. Ein Feuerwerk der verschiedensten Musikrichtungen, alle bis zur Perfektion ausgefüllt von den Artrockern aus Devon.
@@ -136,4 +127,4 @@ Alles in allem kann ich nur sagen: Buy this Album! Für mich hat es  definitiv 
 
 ## Muse – "Madness":
 
-<YouTube id="82qSTzrAJoM" />
+<YouTube id="Ek0SgwWmF9w" />

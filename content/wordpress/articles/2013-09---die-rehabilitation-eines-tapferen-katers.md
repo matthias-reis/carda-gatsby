@@ -62,15 +62,6 @@ Heute Vormittag habe ich wieder mit der Klinik telefoniert, inzwischen geht es d
 
 Auf jeden Fall hat der kleine Fellbär es in der Klinik gut. Er hat viel Platz und Ruhe und wird rund um die Uhr beobachtet. Meine Mutter sagte gestern am Telefon zu mir, dass er es in seiner jetzigen Lage mit Sicherheit nicht besser treffen könnte, weshalb ich mir jetzt auch versuche weniger Vorwürfe zu machen, dass ich im Augenblick nichts für ihn tun kann.
 
-<RemoteImage
-  alt={`Bild: Michael Bührke pixelio.de`}
-  size="small"
-  title={`Bild: Michael Bührke pixelio.de`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_227315_web_r_k_b_by_michael-bc3bchrke_pixelio-de__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_227315_web_r_k_b_by_michael-bc3bchrke_pixelio-de__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwUGCAP/xAAqEAABAwMDAwMEAwAAAAAAAAABAgMEAAURBhIhBzFRFUGBFCJicSOhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECIQMREkH/2gAMAwEAAhEDEQA/AK30XwzLacLYWBMQraexwmlXqxZZMyxHUuiGIhktE/XMPq2hCMH7wMgEggceDRV0ifZjPMuSBllMncsfiE80431CGLO5cLHMJtlwSG1Kb525Ofbzgj5rllLTAzDqebc5khhu9JbTJYQUkNjCTk5JH9D4qBcTtIVgHHOD2rQOtdCevaZ9Xgp/naWtKwBnbg8EeRj/AGgWWy5GdWy+natBwRVRkmqBlg0Vc24qSh1xKSVKPJ/GpjQd1vMqLI09FnIbiOLElKVyQyUFCsnao+2Dkj5ozQo+ak7PIeYfkLYdW2sxX0koODgtkEfoisZZPB6Hy19UbDpkRWG5j1wQWEIlpSncC5jCyD2POeffvRZ1Mv2n73dlyLFGkMNqOcuDb++KohUQMA8CuDhPmoWS6Hyf/9k="
-/>
-
 Momentan fiebere ich den Moment herbei, wenn mich Herr Dr. E. wieder anruft, der nette Arzt, der Chili vorgestern Abend so gut aufgenommen hat. Er hat morgen wieder Dienst, das heißt zwischen 9 und 12 Uhr werde ich mit Sicherheit von ihm hören. Und am Nachmittag werden wir Chili dann besuchen. Ich bin gespannt, ob ich heute Nacht schlafen kann.
 
 Was mich schwer beeindruckt hat: Seit gestern Abend haben sich unglaublich viele Menschen mit mir in Verbindung gesetzt, die zum Teil von ähnlich schaurigen Erlebnissen zu berichten haben. Manche sogar in der gleichen Klinik.

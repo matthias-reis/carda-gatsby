@@ -240,8 +240,4 @@ subTitle: Erinnerungen an den Sommer in England 2012 - Teil 4/9
 
 Hier geht's zu [_Teil 5/9_](/2012/07/schnappschuss/)  der Galerie "England 2012"
 
-## Song zu den Fotos: Pearl Jam - Yellow Ledbetter
-
-<YouTube id="THgFV_kdhH4" />
-
 <FestivalList />

@@ -65,7 +65,7 @@ Sie sind selbst Teil der Proteste rund um den Gezi-Park und den Taksim-Platz gew
 
 <RemoteImage
   alt={`Zelte auf dem Taksim-Platz - Bild: Marie`}
-  size="medium"
+  size="full"
   title={`Zelte auf dem Taksim-Platz - Bild: Marie`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4371__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4371__l.jpg"
@@ -80,7 +80,7 @@ Es ist schon Ausnahmezustand. Da die Proteste aber jetzt schon seit mehr als 10 
 
 <RemoteImage
   alt={`Peace-Bus - Bild: Carolin`}
-  size="medium"
+  size="full"
   title={`Peace-Bus - Bild: Carolin`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_peace-bus__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_peace-bus__l.jpg"
@@ -97,7 +97,7 @@ Es ist schon Ausnahmezustand. Da die Proteste aber jetzt schon seit mehr als 10 
 
 <RemoteImage
   alt={`Es brennt - Bild: Carolin`}
-  size="medium"
+  size="full"
   title={`Es brennt - Bild: Carolin`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_brand__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_brand__l.jpg"
@@ -110,7 +110,7 @@ Es ist schon Ausnahmezustand. Da die Proteste aber jetzt schon seit mehr als 10 
 
 <RemoteImage
   alt={`Die Zitrone`}
-  size="thumbnail"
+  size="full"
   title={`Die Zitrone`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_969752_593296170689248_1481661969_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_969752_593296170689248_1481661969_n__l.jpg"
@@ -123,7 +123,7 @@ Es ist schon Ausnahmezustand. Da die Proteste aber jetzt schon seit mehr als 10 
 
 <RemoteImage
   alt={`NVT - Bild: Carolin`}
-  size="medium"
+  size="full"
   title={`NVT - Bild: Carolin`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_nvt__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_nvt__l.jpg"
@@ -136,7 +136,7 @@ Es ist schon Ausnahmezustand. Da die Proteste aber jetzt schon seit mehr als 10 
 
 <RemoteImage
   alt={`Alle gehen auf die Straße - Bild: Marie`}
-  size="medium"
+  size="full"
   title={`Alle gehen auf die Straße - Bild: Marie`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4460__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4460__l.jpg"
@@ -149,7 +149,7 @@ Es ist schon Ausnahmezustand. Da die Proteste aber jetzt schon seit mehr als 10 
 
 <RemoteImage
   alt={`Taksim - Bild: Carolin`}
-  size="medium"
+  size="full"
   title={`Taksim - Bild: Carolin`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_taksim__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_taksim__l.jpg"
@@ -162,7 +162,7 @@ Es ist schon Ausnahmezustand. Da die Proteste aber jetzt schon seit mehr als 10 
 
 <RemoteImage
   alt={`Graffiti - Bild: Marie`}
-  size="medium"
+  size="full"
   title={`Graffiti - Bild: Marie`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4480__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4480__l.jpg"
@@ -177,7 +177,7 @@ Es ist schon Ausnahmezustand. Da die Proteste aber jetzt schon seit mehr als 10 
 
 <RemoteImage
   alt={`Zitronen und Essig für die Demo - Bild: Carolin`}
-  size="medium"
+  size="full"
   title={`Zitronen und Essig für die Demo - Bild: Carolin`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_zitronen-essig-fc3bcr-demo__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_zitronen-essig-fc3bcr-demo__l.jpg"
@@ -200,7 +200,7 @@ Istanbul ist aber leider nicht die Türkei. Die Menschen dort haben andere Prior
 
 <RemoteImage
   alt={`Hier wird Geschichte geschrieben - Bild: Marie`}
-  size="medium"
+  size="full"
   title={`Hier wird Geschichte geschrieben - Bild: Marie`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43561__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43561__l.jpg"
@@ -215,7 +215,7 @@ Istanbul ist aber leider nicht die Türkei. Die Menschen dort haben andere Prior
 
 <RemoteImage
   alt={`Taksim - Bild: Caro`}
-  size="medium"
+  size="full"
   title={`Taksim - Bild: Carolin`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_taksim2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_taksim2__l.jpg"
@@ -230,7 +230,7 @@ Was türkische Medien anbelangt, sieht die Sache schon anders aus. Man muss wiss
 
 <RemoteImage
   alt={`Protest - Bild: Marie`}
-  size="medium"
+  size="full"
   title={`Protest - Bild: Marie`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43771__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43771__l.jpg"
@@ -251,7 +251,7 @@ Was türkische Medien anbelangt, sieht die Sache schon anders aus. Man muss wiss
 
 <RemoteImage
   alt={`Das Kulturzentrum - Bild: Marie`}
-  size="medium"
+  size="full"
   title={`Das Kulturzentrum - Bild: Marie`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43341__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43341__l.jpg"
@@ -268,7 +268,7 @@ Außerdem ist es natürlich extrem vielfältig, laut, chaotisch, aufregend, voll
 
 <RemoteImage
   alt={`Plakate und Banner - Bild: Marie`}
-  size="medium"
+  size="full"
   title={`Plakate und Banner - Bild: Marie`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43391__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_43391__l.jpg"
@@ -295,7 +295,7 @@ Außerdem ist es natürlich extrem vielfältig, laut, chaotisch, aufregend, voll
 
 <RemoteImage
   alt={`Taksim bei Nacht - Bild: Marie`}
-  size="medium"
+  size="full"
   title={` Taksim bei Nacht - Bild: Marie`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4182__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4182__l.jpg"
@@ -308,7 +308,7 @@ Außerdem ist es natürlich extrem vielfältig, laut, chaotisch, aufregend, voll
 
 <RemoteImage
   alt={`Taksim bei Nacht - Bild: Marie`}
-  size="medium"
+  size="full"
   title={`Taksim bei Nacht - Bild: Marie`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4192__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_img_4192__l.jpg"

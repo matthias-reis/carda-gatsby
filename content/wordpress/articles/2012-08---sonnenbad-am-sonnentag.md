@@ -63,7 +63,3 @@ Morgens war das Wetter noch etwas durchwachsen, aber gegen Mittag hatten sich di
 Morgen ist morgen schon Freitag, also sind es nur noch 2 Tage (laut Milchkaffe 1,5), bis das Wochenende vor der Tür steht. Ein Kinobesuch steht an. Und sicherlich auch noch der ein oder andere Strandbesuch, sollte das Wetter nicht  fälschlicherweise doch noch umschlagen. Aber daran sollte man nicht denken. Es ist schließlich Sommer. Also die 2 Wochen, während denen das Thermometer in unseren Breitengraden über 15 Grad anzeigt. Und wir sind mittendrin.
 
 Sicherlich denkt sich nun der Eine oder die Andere, was das hier für ein Sommersonneblümchengutelaunepost ist. Völlig langweilig und eigentlich ohne Inhalt. Aber ich musste mir das einfach mal von der Seele schreiben. So, nun ist es raus. Das Sommerloch hat also auf meiner Seite Einzug gehalten. Aber ich kann Euch beruhigen: Wir sind am Badesee keinem entflohenen Krokodil begegnet, wir sind auf dem Heimweg nicht in einen Saharasandsturm geraten und während meiner Abwesenheit ist weder eine Vogelspinne in meine Yukkapalme eingezogen, noch hat eine meiner Katzen plötzlich mehr als einen Kopf. Die Nachbarn wurden allerdings leider auch nicht wegen Lärmbelästigung festgenommen und lebenslang auf eine Südseeinsel mit All-inclusive-rund-um-die Uhr-Dauerbespaßung verbannt. Aber das macht nichts, ich habe meine Kopfhörer. Und auf denen läuft gerade dieses Lied, das mir nicht aus dem Kopf geht.
-
-## Dispatch – "Here We Go"
-
-<YouTube id="ZRHpoKvZa20&amp;feature=player_embedded" />

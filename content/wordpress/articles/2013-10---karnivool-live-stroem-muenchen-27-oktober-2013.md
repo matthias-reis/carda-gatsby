@@ -128,7 +128,3 @@ Natürlich werde ich Euch auch nicht verraten, was "unser Lied" ist.
     },
   ]}
 />
-
-## Karnivool – "All I Know"
-
-<YouTube id="18SUFbABxNQ&amp;w=560&amp;h=315" />

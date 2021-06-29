@@ -37,16 +37,6 @@ subTitle: Neue EP von Hassliebe
 
 **2006 wurde von Sänger Daniel Frisch, Schlagzeuger Klaus Müller und Gitarrist Manuel Gläser in Donauwörth die Band HASSLIEBE gegründet. Noch im selben Jahr gewann die Band den Bandkontest "RT 1 Nordschwaben Top Act Festival" und den Wettbewerb "Kulturspektakel" in München.**
 
-<RemoteImage
-  alt={`Hassliebe`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2010_08_hassliebe__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2010_08_hassliebe__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEFBgcICf/EACsQAAIBAwMDAgYDAQAAAAAAAAECAwQFEQAGIQcSMRNRCBQiMkFhJHFy8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCvOoW76Pdu79yXOeqhbFVLFQSsjF4IolAjeNgw7c4JHHLNzrTXw6b9k3z0+pnuMwkvVB/HqyfufH2SH/Q8n3DawFLKXLEZHccsP3qa9L+oN82TeRJZKmKBZ19GVZYRKjAkYJXIJwfHPGT+8h0Z1QHxc3uIdOaKnttXC8st09KQxyAleyGQsv0nhuVGD4z/AFqi6HqpvPbt99C3Xp5lnWV3NUhlQtMQ7uEZiOCvHt9XudQG63admq0mYOamY1cnbEsaeo4IOFHCjB/GPGPbQP1m3ltylskFJXbHt9ZWw0/oGs+YKM5y572XtILfUBnzhRzpg3ReLfdtwQ1lnssFmpgka/KxSGRe4eWyQDzo0aBbg5eqojIS8pDAufJwf+6arg/qyliACFGcfnnRo0H/2Q=="
-/>
-
----
-
 Anfang 2008 sagte der Produzent John Caffery (TOTE HOSEN, EINSTÜRZENDE NEUBAUTEN) zu, das Debutalbum der Band zu produzieren. Die Single "Warum", die im selben Jahr erschien, wurde auf 40 Radiosendern gespielt.
 
 Am 15. August 2008 spielten "Hassliebe" ein Konzert mit den TOTEN HOSEN. Von da an ging es steil bergauf. Es folgten Auftritte auf diversen Festivals, unter anderem auf dem  ["Wiley Open Air 2009"](http://www.myheimat.de/neu-ulm/kultur/wiley-open-air-in-neu-ulm-mit-den-toten-hosen-am-15-august-2009-d122162.html) und auf dem ["Backstage Open 2009".](http://www.myheimat.de/muenchen/kultur/backstage-open-festival-in-muenchen-d110783.html)

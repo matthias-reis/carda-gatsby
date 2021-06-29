@@ -96,4 +96,5 @@ _Viel Spaß damit! Und ein wundertolles Wochenende! Ich tauche jetzt mit der Mus
 
 _Bis bald! Tschüss!_
 
-[Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
+<FestivalList />
+

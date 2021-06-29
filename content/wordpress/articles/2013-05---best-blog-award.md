@@ -116,4 +116,4 @@ Hier sind meine Nominierungen für den Best Blog Award:
 
 **An alle die ich leider nicht nominiert habe: Leider gab es heute nur 5 Pokale zu vergeben. Ihr seid natürlich trotzdem toll!**
 
-[Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
+<FestivalList />

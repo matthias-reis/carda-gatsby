@@ -63,15 +63,6 @@ errors: {}
 subTitle: Ein ganz normaler Mittwoch
 ---
 
-<RemoteImage
-  alt={`Neuer Füllfederhalter Anne Reko 8/2012`}
-  size="medium"
-  title={`Neuer Füllfederhalter`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120801_094736__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120801_094736__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYABAcC/8QAMBAAAgEDAwIDBQkBAAAAAAAAAQIDBAURAAYhEjETIlEHMkFh8BQWIyVScYGh0fH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABsRAAIDAQEBAAAAAAAAAAAAAAABAhESITJB/9oADAMBAAIRAxEAPwA7NW7mq963v85qlpI6+WOOJKp1WONWYBQg47Af3plpprz4hL3JxF6GocsPXVDoiXcl4ZKCoZpKyUSSBD5h1n4+muhX22jlnpammgjlpyPHGeoRxMQFlOeeg5AJ+B4OONTtBywhWy3UK0kV3lWM4Cgyvx3zkg/WNA6CtvsO6bSxvtRNC1ZFFLEJnZCGYBgQSQRg40yI0VRCTHTxvSgDwmBUqw+WOMdtBoYZFvlqMdBTRD7bCWPWM46xzwPlosdFC7XhYb1dqemqmMyVkxd8eWLz+7n1/wB1nm7bjUX+ppqWzl4q38VUq0YqxUriTjt0Hs2cg8DuNTcth3Z9+9yq1gvD2prjNMjU9M7CqV3LKFdQRggjJ+Hbg6dttWi7w0slVNZKiCukVUjiNMypCgzhR5f+nU28dXSkLMPtW6bxsO5GlllmktjMVBic9OP1R5zjGc9J/nI1sW39x2q83+wzW17jVK9bAetnbpBMg94cDj6zoZ7RNs3i/WyXFirZJUCv0R0spDHBzgdPDDSj7PrBvWLfm2Yn23eqegp6+BnlmonijjhVwXJYgDGAe/f99XdTjr6Dy6Z//9k="
-/>
-
 **Heute ist also der 1. August. Noch zehn Monate, dann ist wieder Sommer. Der Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen. Da habe ich mir wirklich lange Zeit was wirklich Gutes entgehen lassen.**
 
 Immer, wenn man denkt, dass sich das Chaos langsam lichtet, geht es erst richtig los. Ich merke das, wenn ich anfange To-Do-Listen über die To-Do-Listen zu schreiben. Heute in aller Frühe schon so geschehen. Organisation ist halt alles (Ich höre jetzt das höhnische "Haa Haa" dieses Jungen, Nelson heißt er, aus der Zeichentrickserie mit den gelben Menschen.). Vor Wochen schon [wurde mein Blog von einem Radiosender zitiert](http://www.egofm.de/default.aspx?ID=6117&showNews=1168552), wie ich entdeckt habe, was mich heute ein kleines bisschen stolz macht.

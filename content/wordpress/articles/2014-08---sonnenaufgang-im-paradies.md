@@ -44,7 +44,7 @@ Ich bin heute nach langer Zeit endlich wieder angelaufen und es ging mir wirklic
 
 Als Belohnung gab es danach einen leckeren Smoothie für mich und Matze. Mein Rezept ist also für zwei Smoothies gedacht. Ich habe sie im Smoothiemaker gemacht, je nach Konsistenz, Inhalt und Menge benutze ich auch manchmal den Stabmixer. Die Besonderheit meines heutigen Smoothies, ich nenne ihn "Sonnenaufgang im Paradies" besteht in den zwei verschiedenen Schichten.
 
-Leider ist mir das Bild dieses Mal nicht so besonders gut gelungen, bei dem winterlichen Wetter im Hochsommer ist es derzeit etwas dunkel in der Wohnung. Aber ich denke, eine ungefähre Vorstellung bekommt man schon, in Wirklichkeit sieht er appetitlicher aus. :-P
+Leider ist mir das Bild dieses Mal nicht so besonders gut gelungen, bei dem winterlichen Wetter im Hochsommer ist es derzeit etwas dunkel in der Wohnung. Aber ich denke, eine ungefähre Vorstellung bekommt man schon, in Wirklichkeit sieht er appetitlicher aus.
 
 ## Smoothie-Rezept
 

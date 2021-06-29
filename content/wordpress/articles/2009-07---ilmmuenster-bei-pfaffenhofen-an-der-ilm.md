@@ -36,7 +36,7 @@ subTitle: Hier ist die Welt noch in Ordnung
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGBf/EACcQAAEEAQQCAgEFAAAAAAAAAAECAwQFEQAGEiEHMRNBFCJRUmGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQP/xAAhEQACAgIBBAMAAAAAAAAAAAABAgMRACESBEFRYYGhwf/aAAwDAQACEQMRAD8AfNz7trNo18aVeOvpQ+otthphTnNYSVceuhkDrJA0T+L/ACBCr77csi6Q/FgWEgyY6g0lfxAciQrgMnORjo9g9/etl5ii2W5trQa6kqZkl5yV8yiUhAaS2g5yVEdkqAA++9BcOpsOdhHTDkCRCQoyG+HFbWB37++xpGIIsWsCQsX1i/5J8vxdt2jESiiNXT/AmVxfU0GD0UpJCSCognI9j796tAG99tRdpy4sZV6fkea+VTTzpQ4gH0SO8Z79/YOrTccULqGUWPnKbmDRxt215SXdWl7XNPypJi2aYkP4m2w4W+KgVklQGAptRJPoKGshtp6AvdG55z8adHmPxZCWH5c9t1MhJ4qUUpT66aBHZwD/AENYmbRP225pFhXmV8IQp11xRcSorSkEkrUMHlggAZ9ZOsbRRYlpcNxqePMjOvNrKebjayQEKJT0kHsDH1rJOlDI/DWhfr79eMYEkaleVnFfzlu2FQ21YlFPS20h9lTjn5bfNbY5fp7B9Hv/AA6tcavpHYERtmdTpuykYQt+OglsfxGVfvq0MIijQIRdd7r9ySNbEjP/2Q=="
 />
 
-\_\_\_\_ Ilmmünster war Teil des Kurfürstentums Bayern. Bis zur Auflösung 1803 bildete es eine geschlossene Hofmark, deren Sitz der Stift war. Durch die Verwaltungsreformen in Bayern mit dem Gemeindeedikt 1818 entstand die heutige Gemeinde.
+Ilmmünster war Teil des Kurfürstentums Bayern. Bis zur Auflösung 1803 bildete es eine geschlossene Hofmark, deren Sitz der Stift war. Durch die Verwaltungsreformen in Bayern mit dem Gemeindeedikt 1818 entstand die heutige Gemeinde.
 
 ## Die Geschichte von Ilmmünster
 

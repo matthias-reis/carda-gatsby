@@ -45,7 +45,7 @@ An dieser Stelle möchte ich mich erst mal ganz herzlich bei allen bedanken, die
 
 <RemoteImage
   alt={`rauchen`}
-  size="medium"
+  size="full"
   title={`Das interessiert mich ab jetzt nicht mehr`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9576025930_4f28f0d3d1_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9576025930_4f28f0d3d1_o__l.jpg"
@@ -58,7 +58,7 @@ Nachdem eine solche Fülle positiven Feedbacks auf mich einströmt, seitdem ich 
 
 <RemoteImage
   alt={`rauchen`}
-  size="medium"
+  size="full"
   title={`Die Ketten sprengen`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_ketten__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_ketten__l.jpg"
@@ -81,7 +81,7 @@ Nachdem eine solche Fülle positiven Feedbacks auf mich einströmt, seitdem ich 
 
 <RemoteImage
   alt={`rauchen`}
-  size="medium"
+  size="full"
   title={`I just toasted some money`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_toaster__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_toaster__l.jpg"
@@ -106,7 +106,7 @@ Nachdem eine solche Fülle positiven Feedbacks auf mich einströmt, seitdem ich 
 
 <RemoteImage
   alt={`rauchen`}
-  size="thumbnail"
+  size="full"
   title={`Geschafft!`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__l.jpg"
@@ -145,7 +145,7 @@ Das sind wirklich eine ganze Menge gute Tipps und Ratschläge. Vor allem finde i
 
 <RemoteImage
   alt={`rauchen`}
-  size="medium"
+  size="full"
   title={`Ihr seid toll, Schnuckis!`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_herz__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_herz__l.jpg"
@@ -155,9 +155,3 @@ Das sind wirklich eine ganze Menge gute Tipps und Ratschläge. Vor allem finde i
 Es ist wirklich toll, wie viele positive Reaktionen ich auf dieses heikle Thema bekomme. Damit hätte ich wirklich nie gerechnet. Ich hätte Euch wohl schon viel früher davon erzählen sollen.
 
 herzlichen Dank nochmal an alle! Ich werde natürlich weiter berichten. Eure Fragen, Antworten, Infos, Tipps, Anregungen, Kommentare und Kritiken könnt Ihr wie immer per  [E-Mail](mailto:info@cardamonchai.com), hier als Kommentar direkt unter dem Artikel, per PN auf  [Facebook](http://www.facebook.com/cardamonchai)  oder per DM auf  [Twitter](https://twitter.com/Anne_Reko)  loswerden!
-
-Frische Grüße _Eure Anne_
-
-<YouTube id="lBz8iXdddqY&amp;w=640&amp;h=360" />
-
----

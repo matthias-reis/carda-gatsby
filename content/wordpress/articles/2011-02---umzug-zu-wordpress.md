@@ -1,10 +1,10 @@
 ---
 date: 2011-02-16T14:19:37.000Z
-slug: umzug-zu-wordpress
-path: /2011/02/umzug-zu-wordpress/
-title: Umzug zu Wordpress
-seoTitle: Mein Blog zieht um zu Wordpress - Tagebucheintrag
-ogTitle: Mein Blog zieht um zu Wordpress - Tagebucheintrag
+slug: blog-umzug
+path: /2011/02/blog-umzug/
+title: Blog-Umzug
+seoTitle: Mein Blog zieht um - Tagebucheintrag
+ogTitle: Mein Blog zieht um - Tagebucheintrag
 description: Ich möchte nicht alles auf meiner Festplatte speichern, und ich würde mich auch freuen würde, wenn Sie ab und an der Ein oder Andere liest. Der Umzug beginnt heute und ich bin gespannt.
 excerpt: Ich möchte nicht alles auf meiner Festplatte speichern, und ich würde mich auch freuen würde, wenn Sie ab und an der Ein oder Andere liest. Der Umzug beginnt heute und ich bin gespannt.
 fileName: 2011-02---umzug-zu-wordpress.md
@@ -28,4 +28,4 @@ subTitle: Alte und neue Beiträge
 
 Ich habe dieses Weblog schon vor einiger Zeit angelegt und werde es nun endlich nutzen. Zuerst möchte ich meine Beiträge, die ich von 2008 bis heute für einen kleinen Verlag geschrieben habe, hier veröffentlichen.
 
-Ich möchte nicht alles auf meiner Festplatte speichern, und ich würde mich auch freuen würde, wenn Sie ab und an der Ein oder Andere liest. Der Umzug beginnt heute und ich bin gespannt, wie viel Zeit er in Anspruch nehmen wird.
+Ich möchte nicht alles auf meiner Festplatte speichern, und ich würde mich auch freuen würde, wenn Sie ab und an gelesen werden. Der Umzug beginnt heute und ich bin gespannt, wie viel Zeit er in Anspruch nehmen wird.

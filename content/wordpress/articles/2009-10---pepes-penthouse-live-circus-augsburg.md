@@ -63,11 +63,3 @@ Mal wieder ein gelungener Abend mit PEPES PENTHOUSE! Wir wollen MEHR und freuen 
 1.  Du bist es mir wert **Zugaben**
 1.  Ich will
 1.  Ein schöner Tag
-
-<RemoteImage
-  alt={`Pepes Penthouse`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9178__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9178__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAwYI/8QAKBAAAgIBAgQFBQAAAAAAAAAAAQIDEQQABRIhMUEGExRRYSIjQlKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAhEQEBAAEDAwUAAAAAAAAAAAABAgADERIhIjFBUWFxwf/aAAwDAQACEQMRAD8A5V03t+35e4ySJhQtM6IZGC9lHXWKbHliFyRsoNdvfnq/4Uz8Db8fOyM2af1ESBsXFiT6ZZhZR3b9UamrvQHS9PSJuwfGDVNSZeB1+c1xlKsVYFWBog9Rpxo8KVPsTGEpjh2GRZ45AeapwjvdjirpV9Ld3aDEy90mm2/ILwSxCe5AQfMKBnj6cyGLC+9alGHhpWNSn8T2Hz86ne3JkcpsyFV65cXdfU5GXJl4sWSZrkJnZ3YWvM8RNk8upP8ANQiR5j8IIWzQJvRo1LTkldspbv3Pu/mUfDuSYMo0XDKGkUqwFFUb3B99TpX82QuQeJiWJJuydGjSJOa4aVgPvP/Z"
-/>

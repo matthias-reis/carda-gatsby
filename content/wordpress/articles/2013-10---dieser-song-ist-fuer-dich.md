@@ -91,7 +91,3 @@ Es wartet auch ein kleiner Fotoauftrag auf mich, vielleicht werde ich daraus auc
 Ich bin schon unglaublich gespannt, Ihr auch? Einen kleinen Teaser hat mir Martin ja schon geschickt, Ihr findet Ihn [hier](http://www.nme.com/news/arcade-fire/73181#2). Ist wirklich sehenswert. Ihr sollt auf jeden Fall [draufklicken](http://www.nme.com/news/arcade-fire/73181#2).
 
 Wie gefällt Euch das neue Pearl Jam Album? Ich finde, es ist eine Wucht, ich werde mich heute Abend auch auf jeden Fall noch etwas eingehender damit beschäftigen. Vorab hier schon mal ein wundervoller Auszug daraus. Der Song heißt Sirens.
-
-Mathis, dieser Song ist für Dich. [Weißt Du noch](/2012/07/isle-of-wight-festival-2012/) ?
-
-<YouTube id="qQXP6TDtW0w&amp;w=560&amp;h=315" />

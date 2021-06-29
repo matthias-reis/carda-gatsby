@@ -35,15 +35,7 @@ subTitle: Stimmungsvolles Unplugged-Set
 
 **Am 1. April 2010 spielte die Augsburger Band PEPES PENTHOUSE live auf der LEERLAUF EP Release Party im "Schwarzen Schaf".**
 
-<RemoteImage
-  alt={`Pepes Penthouse`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1578__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1578__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAcG/8QAKxAAAgEEAQMCBAcAAAAAAAAAAQIDBAURIQASEzEGIgdRYaEUFTJBYnGB/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwIEBQb/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDBBESE3ExkcH/2gAMAwEAAhEDEQA/AMNi9N5tstcadpYYmVGWJOtyW8YUbx9eMW9IUdRRU8NPSVcN0QSSVMcvt9uQEKgfLed+Ty/a/iClNbUpaWjkVoAfxD97tGcB+oKCo6hseQfGR+/Ltp+IMkUlZXVVoiqKpom7UncaEBR7mXqyQzYK7IySBnZ5YqRteCJPa6p0lHkGMFvRWcXKwvSO+SwwfBHE7wlTs/bmnSepZL7cZq+1U9HTPb1e4HuMxaXtFDhded9W/k3y5ynqI1Nxu63Spkjea7s9YHizp2kYFTkaIcH7Hgys0OQchZ1qvWcc1/qj8mAheQTBe0hbCp+o7O9/yx/nGdqscVclRA8jI6jqDgZwFGenB/v7Dhw5Ou46E9oIY2k+FXpqI+nLxTTxSifpUzMjLgOvUFZDs6ZWIP0PE92r6h3gIkZI44jTRRpoJFkkL9dsdnZ4cODE9z4RsjlcYxqw4C//2Q=="
-/>
-
-\_\_\_\_ Der Abend wurde charmant moderiert von den Stars der Ulmer Band BENZIN, die vor kurzem ihr neues Album "Streichholzschachtelmasterplan" veröffentlicht haben.
+Der Abend wurde charmant moderiert von den Stars der Ulmer Band BENZIN, die vor kurzem ihr neues Album "Streichholzschachtelmasterplan" veröffentlicht haben.
 
 Insgesamt traten 4 Bands auf: PEPES PENTHOUSE machten den Anfang, danach kamen noch WHOLE LIVE STAND und ESTRELLA DRIVE auf die Bühne, bevor LEERLAUF ihre neue EP "Kleinstadtpoesie" präsentierten. Die Band LEERLAUF hat dieses Jahr beim Augsburger Band-Kontest "Band des Jahres" den dritten Platz belegt.
 

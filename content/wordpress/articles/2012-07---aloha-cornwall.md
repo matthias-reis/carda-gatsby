@@ -177,7 +177,3 @@ _ [Teil 5/9](/2012/07/schnappschuss/) _ Impressionen aus St. Ives/Cornwall/Engl
 />
 
 Hier geht's zu _ [Teil 7/9](/2012/08/eden-project-2/) _  der Galerie "England 2012"
-
-## Song zu den Bildern: The Kooks - Seaside
-
-<YouTube id="VbnvqCqz7_k" />

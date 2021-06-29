@@ -70,15 +70,6 @@ subTitle: Konzertplanung & Plattenkauf
 
 Aber ich freue mich trotzdem. Dann muss ich eben kurzzeitig mit diesem neumodischen grüngefärbten Player, den sich inzwischen jeder runtergeladen haben sollte, Vorlieb nehmen. Schließlich kann man damit so gut wie jedes Album finden und abspielen. Meines Erachtens ja eigentlich ein weiterer Schritt in Richtung Untergang der MS Musikindustrie, aber in so einem Fall durchaus praktisch. Und: Je länger es dauert, desto länger kann ich mich freuen, die Platten endlich "in meine Arme zu schließen". Und das sind wirklich ein paar Schätzchen:
 
-<RemoteImage
-  size="thumbnail"
-  title={`Calexico live @ Muffathalle
-München 7/2009`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_p7090053-e1587460346204__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_p7090053-e1587460346204__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQcIAv/EACYQAAICAgEEAgIDAQAAAAAAAAECAwQFEQAGEiExExRRYSJScaH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAADBQb/xAAmEQACAQIFAgcAAAAAAAAAAAABAhEAAwQhQWGRUaESEyMxUnGx/9oADAMBAAIRAxEAPwDLI44rQGTvbaaQd5DHWxvzrnCooH5P/OT3SUNtctHkKkMMpx+rkiza+MIrAfyB9jZA0NnkYwJo1EmKsbH43pypjLONkMEF750R7CRszp3KDrZB0AfYAO+73xc90HOpzGZxX0p8RFZYha7naRkAhgCBtRs7160fGuRj5KvmcrBbzn2o7EUUcH28eIwzqo0oddBGIGgCCpI1vZ5aWM6kxeNx9QULsVyjatwV7FWzTaCxEVDHvGmZWQqCp/398pseK1dgZhiZ225rU8ixirHqZMICx7HWTl03rNEMAaZYFRmlMgXYbxv12gf7rzyycD0vbhtWacFqB64rq1loJAUZ+7Xb67vf6143w4cDFOURiNBPcUtg7YZkJ1MdjTDr3A1sZD89K2teOSujtTabvc7bwV8+VPgjfHnTv20pJJaqxyVNLK0vyhdf17m/Hn1++HDiwvMxBPyj8roMBYVQ4UnJJ5nrx9V//9k="
-/>
-
 - "Awakened" von As I Lay Dying ist vorbestellt, erscheint am 21.9.
 - "Mirage Rock" von Band Of Horses ist vorbestellt, erscheint am 14.9.
 - "Hymns For A Dark Horse" von Bowerbirds gibt es schon, wird allerdings auch erst am 14.9. geliefert

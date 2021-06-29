@@ -51,15 +51,6 @@ errors: {}
 subTitle: Tagebucheintrag
 ---
 
-<RemoteImage
-  alt={`Das Corpus Delicti`}
-  size="medium"
-  title={` Das Corpus Delicti`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_095143__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_095143__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQFBgcI/8QALRAAAQMDAwMCBAcAAAAAAAAAAQIEBQMGEQASIRMUMSJRBzRx0kFCc4GCkcL/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhBDESMoH/2gAMAwEAAhEDEQA/AMRuW4J5Vzy4EzKAd7XGA8qADFRXA9WlEzlw44nJfGM8Pav3afkUtRcksp1VSgF+4znzjqq/DSblywRVX0l7s5ACQePr7aIrsb1UweSjsw1KauCoOZ+Y3ePn6v3am7Kmp9N6W6mpNy6kKk2qVBTyqpKgayAQQVYIPtoFhx6bjuuNiKCPU8cIpHaSSlGcqUePASFfTXRV+2natoV4FzCQjCk5dTDNok1wuotO6qn1UypR2qASTpjQ6HD6mbXKOtzlO6N6LomFJOD31fCh+qrSCEnBKlD+Q1Y7shZZM/KpXDyOS9cKwWlQ+aqsc7eeNRbaDf8AVSakPI7c8ntKp/zqurnCsbXP2BqsnuGtadcQFzRkqwFVFRnWTUJoK9RT4UOeOUkj251ochfkzfHxDtJcinto1tLNS3bBWVEmqgb1kcFWP6ycaooZvKYPSi3+fHLSp+/5dT1ox0o4vS3TTjZAhMk1JPaVAE4qoySduAPOp7eU9p3GFKjc/9k="
-/>
-
 **Das Wochenende werde ich heute mal wieder mit etwas einläuten, was ich schon viel zu lange nicht mehr getan habe. Einem Blogeintrag.**
 
 Man kennt das ja. Man schreibt Bewerbungen. Eine hier hin und eine dort hin. Die eine Stellenbeschreibung trifft mehr, die andere etwas weniger auf einen zu. Und dann bekommt man eines Tages einen Tipp von einem Bekannten. Und es stellt sich raus, dass es sich um DIE Stelle handelt. Die Beschreibung ist wie auf Dich zugeschnitten, der Job für Dich gemacht. Man kann es eigentlich gar nicht Job nennen, das klingt irgendwie nachlässig. Ein bisschen nach Wegwerfgesellschaft. Es ist ein Beruf. Es ist genau das, was Du schon immer machen wolltest. Was ich schon immer machen wollte. Also: Ab jetzt heißt es Daumen drücken! Ich habe meine Unterlagen vor ein paar Minuten rausgeschickt.

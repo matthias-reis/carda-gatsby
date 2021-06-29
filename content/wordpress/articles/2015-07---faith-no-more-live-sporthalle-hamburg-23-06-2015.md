@@ -48,7 +48,7 @@ Und es hat sich gelohnt! Das Konzert war der helle Wahnsinn! Auf jeden Fall ein 
 
 ## Faith No More legten einen gekonnten Auftritt hin
 
-Dafür sind die Bilder leider nicht so toll geworden, aber wenn Ihr ganz genau hinkuckt, könnt Ihr sehen, wie Mike mir zulächelt. Ich habe sie auch extra so gelassen, damit die Stimmung besser rüberkommt. :-P Die gelben Männchen in der Galerie sind übrigens die Mitglieder der Vorband Dubioza Kollektiv. Eine verrückte Mischung aus rythmischer Sportgymnastik, Balkan-Sound und krassen Dub-Beats. Ich gebe Ihnen den Namen Trigger Happy Dub Foundation for the Gilted Generation. Ich denke der passt gut.
+Dafür sind die Bilder leider nicht so toll geworden, aber wenn Ihr ganz genau hinkuckt, könnt Ihr sehen, wie Mike mir zulächelt. Ich habe sie auch extra so gelassen, damit die Stimmung besser rüberkommt. Die gelben Männchen in der Galerie sind übrigens die Mitglieder der Vorband Dubioza Kollektiv. Eine verrückte Mischung aus rythmischer Sportgymnastik, Balkan-Sound und krassen Dub-Beats. Ich gebe Ihnen den Namen Trigger Happy Dub Foundation for the Gilted Generation. Ich denke der passt gut.
 
 Das volle Kontrastprogramm zum romantisch verspielten, blumigen, gekonnten, reifen Bühnenauftritt von Faith No More. Es war wirklich einiges geboten, die Show war großartig, die neuen Songs fanden genug Beachtung und auch Fans der ersten Stunde wurden nicht enttäuscht an diesem Abend.
 

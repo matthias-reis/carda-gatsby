@@ -36,15 +36,6 @@ errors: {}
 subTitle: Die Postkartengalerie
 ---
 
-<RemoteImage
-  alt={`Eine Postkarte tritt ihre Reise an`}
-  size="medium"
-  title={` Eine Postkarte tritt ihre Reise an`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_p5180016__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_06_p5180016__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYIAwUH/8QALRAAAQIGAQIFAgcAAAAAAAAAAQIDAAQFERIhMQZBBxMUIlEVFhcjMjNCYXH/xAAXAQADAQAAAAAAAAAAAAAAAAACBQYB/8QAJBEAAgEDBAAHAAAAAAAAAAAAAQIRAAMEBRIhMSIyQWFxseH/2gAMAwEAAhEDEQA/AHrxG6vqFPbaY6efaZLlj61DiF4kHaDl7Uk/38doTGOuOtCm6Oo5fWvcZOEiYmVVGRelJ9ppEksEqeKg4hVlXCri6lXvbi2v8MYmOl6MZTzyxKFkOeWXfSuWCrcft894Trk3LksxI+KptFx7dzF3FFJk+bv0qmPD6vTU90nLTFdn5d+eLzra3c20hQSshP6Tjx3EET3JrlKexKtNzEslgjBlCHQ2pSbnYS4AkDXfftPOoI0aqyeEpMe/5U7mjbkXFUAAE9dd0kUqYTM15iaesqZfSpRcSpABGABGIJ2NA/NiTFEyFBpf4KGsqkEevMlmJhXOXmEXG9G2ommkobYqLK80pKbpGagALg9zq0dIlOs6waD9uJrdO+mBvAy35WWGWW1XJ57wRUW2MieKotMQtiKquBFyTJjiBSXVn6g3WUv00LadaICVpv7hbdxxu5EEbQhp1BxcSt9N/wCZSE71Y42PzzBBrZQqNwpNmqr5NxhzLH7r/9k="
-/>
-
 ## Ihr Lieben,
 
 **in den letzten Wochen hatte ich ständig tolle Post im Briefkasten, wenn ich nach Hause kam. Über Twitter und Facebook habe ich eine kleine Postkartenaktion ins Leben gerufen. Wer mir eine schickt, bekommt auch eine von mir. Dass sich so viele von Euch melden würden, hätte ich nicht gedacht. Heute möchte ich Euch die erste Bildergalerie präsentieren, die aus Euren Karten entstanden ist. Von Euch und für Euch. Denn sie besteht ja schließlich aus Euren tollen Postkarten.**
@@ -462,11 +453,3 @@ _ **Hier noch eine kleine Galerie aus Euren Briefmarken:** _
     },
   ]}
 />
-
-_ **Passend zum Thema gibt es heute mal wieder einen echten Klassiker:** _
-
-<YouTube
-  id="iGDHoCPRbEg] 
-[Die ultimative FestivallisteJetzt runterladen und ausdrucken"
-/>
-(/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)

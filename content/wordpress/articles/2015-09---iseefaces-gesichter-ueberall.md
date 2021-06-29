@@ -44,6 +44,6 @@ Auch ich habe in den letzten Jahren eine ganze Menge #iseefaces-Bilder geschosse
 
 <Gallery name="flickr/anneiseefaces" />
 
-Habt Ihr auch schon #iseefaces-Bilder gemacht? Ich würde mich sehr freuen, wenn Ihr sie mit mir teilt! Ich bin schon sehr gespannt, wo Ihr überall Gesichter seht! :-P
+Habt Ihr auch schon #iseefaces-Bilder gemacht? Ich würde mich sehr freuen, wenn Ihr sie mit mir teilt! Ich bin schon sehr gespannt, wo Ihr überall Gesichter seht!
 
 Einen interessanten Artikel zum Thema #YOLO [findet Ihr hier](/2015/04/yolo-you-only-live-once/). Zu meinem Flickr geht es [hier entlang](https://www.flickr.com/photos/99929697@N07/albums).

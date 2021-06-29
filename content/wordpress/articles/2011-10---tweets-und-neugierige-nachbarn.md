@@ -103,10 +103,6 @@ Den Zettel, auf dem dieser, zugegeben etwas emotionale, Schachtelsatz entstanden
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUDAAf/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMEBREAEjEhQQYTFCJRYXGBoRUykbHw8f/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABkRAQADAQEAAAAAAAAAAAAAAAIAASESEf/aAAwDAQACEQMRAD8APVVd4hqfFl5Vb3dYqVK6RY40nYRxqDgKAOnA40lt0N3kT3Xi5OOOtSSB98/7OspKGKO43Wf1LU7+tfDN71Zi2MFe+eOmr7OWpokiUxzsoaRFGWTvtAP/AHjWQB5rJokur2Rqn9TYMUu1x2A7BmduT3OhtzgvSXyiZ7tXM5qUDh52Klc46/LBxr0WqlKrIpjadkJwcDcV+Xf79dRLhCr1lA29ZEjqUYBmy6jI5+I55/OowebyUJUq2YNVst9ry1E1Si1rpAu5cB8n3E9hg4POft1uU0MVZJLX01SytUDa4c70DZKkKeVPt6gfjOg11pL3TeMboZbHdDCayRqeRYG2Mu7IcHhhg5x+Rq1Bc65p2krrfNUxSnBUUzbW6AZP8ZG7OOzDQo0a2LN+3kT1M1TDHL6gA7GDiUrhevTcMAjA+GT240evEu6Wnkfb5yzRMRIu07sg+0cYP1P11y36aGn8uSmqZYwjRtF5DbRt6gkNk5PQZyfrorc7lXXHxBRrHQ1yAVMLOGi9se0/u3EdMD+tEzzeykrqsn//2Q=="
 />
 
-Und schließlich und endlich noch das Partywissen, welches ich mir, zwecks Aneignung vor ein paar Tagen auf  dem Zettel notiert hatte:
-
-_Fulda                    106.000_ _Würzburg            133.000_ _Regensburg        135.520_ _Augsburg            265.000_ _Nürnberg            500.000_ _Stuttgart              600.000_ _Hamburg         1.800.000_ _München         2.600.000_ _Berlin                3.500.000_ _Los Angeles    3.831.868_ _London            7.825.200_ _Istanbul         13.200.000_ _New York      18.900.000_
-
 ## Star Anna & The Laughing Dogs live on KEXP
 
 <YouTube id="x-FwFSJW7_k" />

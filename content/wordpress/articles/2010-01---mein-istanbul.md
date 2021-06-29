@@ -31,7 +31,7 @@ errors: {}
 subTitle: 'Januar 2010: 4 Tage Istanbul'
 ---
 
-**Auf den Spuren von Fatih Akin an den Drehorten von "Gegen die Wand" und "Auf der anderen Seite". Die Stadt am Bosporus hat die Bezeichnung "Lieblingsstadt" eindeutig verdient.**
+**Auf den Spuren von Fatih Akin an den Drehorten von "Gegen die Wand", "Auf der anderen Seite" und "Mein Istanbul". Die Stadt am Bosporus hat die Bezeichnung "Lieblingsstadt" eindeutig verdient.**
 
 <Gallery name="flickr/istanbul2010anne" />
 

@@ -34,15 +34,6 @@ errors: {}
 subTitle: Sonne, Schlamm und gute Laune
 ---
 
-<RemoteImage
-  alt={`Burg Herzberg Festival 2012`}
-  size="medium"
-  title={`Burg Herzberg Festival 2012`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACYQAAIBAwMFAAIDAAAAAAAAAAECAwAEERIhMQUTQVFhBiKBobH/xAAXAQADAQAAAAAAAAAAAAAAAAACBgcF/8QAKREAAQMEAQIEBwAAAAAAAAAAAQIDEQAEITFBBhIFEyKhFDJRgbHw8f/aAAwDAQACEQMRAD8Aqj6fJdNcPDd9lQ/bRNagM2hmOAfq/PPqpI+jRCRpXvMEsGDGVtIAzwM53xTrm6t4UmtWiLmXGSDwMk/wQNXHIwKykvLJZ3iW07UL7NJjUWHps8jfOKwAhoIQFHgbnOB9PzMcULnxbz7vkzhShg4+bQmPbNbj2jx3CNLKZUKtyf1OCMEfN6Km6Y9qCY7RNBMZ7zYK68tkDBPAwKKXvGUpQ8kCR6dcbOv3dN/TClvWZUrPqOTvQ3v+RWF1i4aLqTBhKBkZCuQsnIzs23mmxXXTmdpntikmy7YPPJG4pzxyXEk8dxbzgGUtFJHFk4zk5Y7AfCfPypl6fP3HQrJ2sk6tILH1vnj3/VUO1etXmGyspJAG4wY9qnl01eMvuBAWnuJOO7IJka3un/jrM9zIvcmeQABWkbUP95xRTrCV7e9gjW0nSJQTI7RHLMR7PjIopG6nf8+97moUAkCRnk81QOlGjbWMPApJUTBkcAa+1f/Z"
-/>
-
 **Vom 19. - 22. Juli fand in Breitenbach am Herzberg das Burg Herzberg Festival statt. Nach vier Stunden Anfahrtszeit und 15 Stunden Anfahrtsstau waren wir auch schon drin und konnten die tollen Bands (unter anderen Amplifier und Tito &amp; Tarantula) genießen.**
 
 Es war ein wirklich gelungenes Festival, die lange Wartezeit hat sich auf jeden Fall gelohnt und wenn wir es nächstes Jahr irgendwie schaffen sollten, werden wir ganz sicher wieder dabei sein. Hier ein paar Eindrücke.

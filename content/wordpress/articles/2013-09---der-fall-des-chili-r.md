@@ -53,7 +53,7 @@ Nun zu einem interessanten, aufschlussreichen Telefonat, das ich gerade geführt
 
 <RemoteImage
   alt={`Ganz entspannt`}
-  size="medium"
+  size="full"
   title={`Ganz entspannt`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_0077-kopie__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_0077-kopie__l.jpg"
@@ -68,7 +68,7 @@ Er bittet mich darum, ihn weiterhin über Chili zu informieren und gibt mir soga
 
 <RemoteImage
   alt={`Chili nach dem Eingriff`}
-  size="medium"
+  size="full"
   title={`Chili nach dem Eingriff`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7737__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7737__l.jpg"

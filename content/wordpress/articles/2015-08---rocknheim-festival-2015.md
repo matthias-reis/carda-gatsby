@@ -62,7 +62,7 @@ Ein tolles Wochenende mit genialem Wetter liegt hinter uns, wir haben jede Menge
 - Farin U.
 - Limp B.
 
-Für uns war das Highlight ganz klar Flogging Molly. Leider dauerte das Festival dieses Mal nur einen Tag, wenn es nach uns gegangen wäre, hätte es gerne wie bei [unserem ersten Besuch 2013](http://Wie schon kurz berichtet, habe ich vor kurzem bei einem Seat-Gewinnspiel Tickets für das Rock'n'Heim 2015 gewonnen.) noch zwei Tage länger gehen können. :-P
+Für uns war das Highlight ganz klar Flogging Molly. Leider dauerte das Festival dieses Mal nur einen Tag, wenn es nach uns gegangen wäre, hätte es gerne wie bei [unserem ersten Besuch 2013](http://Wie schon kurz berichtet, habe ich vor kurzem bei einem Seat-Gewinnspiel Tickets für das Rock'n'Heim 2015 gewonnen.) noch zwei Tage länger gehen können.
 
 ## Meine Eindrücke
 
@@ -181,7 +181,7 @@ Für uns war das Highlight ganz klar Flogging Molly. Leider dauerte das Festival
 
 ## Fahrsicherheitstraining
 
-Hier noch ein paar Bilder, die uns die Seat-Truppe freundlich zur Verfügung gestellt hat. Seht Ihr? Das bin ich hinter dem Lenkrad! Matze ist richtig froh, dass er da wieder rausdurfte, ich habe ihn ganz schön durchgeschüttelt. :-P
+Hier noch ein paar Bilder, die uns die Seat-Truppe freundlich zur Verfügung gestellt hat. Seht Ihr? Das bin ich hinter dem Lenkrad! Matze ist richtig froh, dass er da wieder rausdurfte, ich habe ihn ganz schön durchgeschüttelt.
 
 <Gallery
   images={[

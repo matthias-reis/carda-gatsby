@@ -33,7 +33,7 @@ Aber da hat er sich geirrt! Das Paket stammt vom Schallplattenhändler meines Ve
 
 <RemoteImage
   alt={`the verve`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_the-verve__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_the-verve__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQYEBwgCA//EACkQAAIBAwMEAQMFAAAAAAAAAAECAwQFEQASIQYTMUEiBxRhUXGBkcH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADERIhMUFRocHw/9oADAMBAAIRAxEAPwDO1xomtwgUVlPJUSqD21gHxU+CSRor1BbrhYYaMvXuTKgJWM7Ap84wPWlmWokkqjUvgvuDYPjjGB+3AGj/AFbdZLtXCQSFqfapjz6yM/7qSDqA6RFZGljIdXWS1VLL3J5SH2YjY7xhc85PPkn+9DHjkkYxorMcZAHOeOTpv6ds6V106Zt7SiB7i0sbSMm9djH48ZGeQffvVmWv6I0ADvUXirqJFRtkX2iBWbacA5JwPGoa1K5TVtYQfu/uZ/hmeKRJEOHQ5BxnnXSyHAGTjGNR/eB58a90eJRtkhJYe9xHvW0MCY4DqR4aCwVVLDGtZbHDRsy/EMp8YzyDxnTPZvq11ZU3OGONaGUsSxijpgu5QMnknI4B1W8UsM8EkMNEe8xGxlZjj9fxovYJRbKOaREZ6uqiKdxRntofKr+T4J/jR3VVHGTGKxsZd8DbxP/Z"
@@ -43,7 +43,7 @@ Aber da hat er sich geirrt! Das Paket stammt vom Schallplattenhändler meines Ve
 
 Ich werde mich nun gleich in Musik hüllen und die Wohnung heute nicht mehr verlassen. Leider könnt Ihr ja nicht mithören, aber ich zeige Euch zumindest ein paar Bilder, die ich gemacht habe, als Chili und ich vor ein paar Minuten den Karton mit zitternden Fingern und Pfoten geöffnet haben.
 
-Bitte habt Verständnis dafür, dass sie etwas verwackelt sind, aber es ging nicht anders. :-P Vielen Dank lieber Martin, für die vielen tollen Scheiben, das Einzugsgeschenk und die tollen Plakate!
+Bitte habt Verständnis dafür, dass sie etwas verwackelt sind, aber es ging nicht anders. Vielen Dank lieber Martin, für die vielen tollen Scheiben, das Einzugsgeschenk und die tollen Plakate!
 
 <Gallery
   images={[

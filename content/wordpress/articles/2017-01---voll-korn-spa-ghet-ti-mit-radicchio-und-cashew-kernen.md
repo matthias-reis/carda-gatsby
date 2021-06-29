@@ -38,7 +38,7 @@ subTitle: Post-Spätschicht-Lieblingsessen
 
 Was gibt es da Besseres, als eines meiner liebsten Lieblingsessen, sprich Vollkornspaghetti mit Radicchio und Cashew-Kernen? Nichts, genau. Nachdem das Essen in Minutenschnelle zubereitet war, habe ich es mir nicht nehmen lassen, mein Werk bei Instagram zu teilen. Danach konnte ich mich vor Rezeptanfragen per Kommentar und Mail nicht retten. Danke schon mal dafür! Ich finde es natürlich toll, wenn meine nächtlichen Foodporn-Fotos Anklang finden.
 
-Weil Ihr so toll seid und weil das Gericht wirklich so unglaublich lecker ist, teile ich hiermit mein Rezept mit Euch. Es gehört übrigens zu meinen Standardgerichten, ich koche es schon seit Jahrmillionen immer wieder und es ist einfach jedes Mal wieder schmackhaft. Ganz ehrlich, ich bekomme sogar jetzt beim Aufschreiben schon wieder Appetit drauf. :-P Doch nun zum Rezept.
+Weil Ihr so toll seid und weil das Gericht wirklich so unglaublich lecker ist, teile ich hiermit mein Rezept mit Euch. Es gehört übrigens zu meinen Standardgerichten, ich koche es schon seit Jahrmillionen immer wieder und es ist einfach jedes Mal wieder schmackhaft. Ganz ehrlich, ich bekomme sogar jetzt beim Aufschreiben schon wieder Appetit drauf. Doch nun zum Rezept.
 
 ## Zutaten für eine große Portion
 

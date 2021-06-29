@@ -181,7 +181,7 @@ Innerhalb von 5 Stunden entstand ein Bild, wie ich es mir schöner nicht hätte 
   ]}
 />
 
-Ich stammelte nur noch etwas von wegen, wie dankbar ich bin, wie schön er mein Bild für mich umgesetzt hatte und dass das absolut ich bin, es also perfekt zu mir passt. Dabei musste ich schon fasst ein bisschen aufpassen, nicht alles mit meinen Freudentränen zu durchtränken. :-P
+Ich stammelte nur noch etwas von wegen, wie dankbar ich bin, wie schön er mein Bild für mich umgesetzt hatte und dass das absolut ich bin, es also perfekt zu mir passt. Dabei musste ich schon fasst ein bisschen aufpassen, nicht alles mit meinen Freudentränen zu durchtränken.
 
 > "Mat, thank you so much! You've done such great work! The tats are absolutely awesome! We're looking forward to seeing you in January an we're so glad, you're staying here in Augsburg!"
 

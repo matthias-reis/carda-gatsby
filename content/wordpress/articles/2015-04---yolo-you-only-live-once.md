@@ -77,7 +77,7 @@ Einfach mal frei sein. Das tun und lassen, was in diesem einen Moment Spaß mach
 
 #YOLO ist definitiv etwas Positives. Etwas, das wir alle viel mehr beherzigen sollten. Entstanden aus einem einzelnen, heute nicht mehr nachvollziehbaren Ausbruch aus unserer viel zu vernünftigen, in Planungstabellen lebenden Gesellschaft.
 
-Und auch das ist #YOLO. Die Entstehung der Wortschöpfung lässt sich nicht mehr zurückverfolgen. Einfach etwas herausbrüllen, ins Netz stellen. Für alle verfügbar machen. Ganz im Sinne einer neuen, jungen Generation, die sich Luft machen will. "Ich brauche meinen Namen nicht darunterzuschreiben. Ihr könnt es ruhig alle verwenden. #YOLO gehört uns allen"! Dieser Satz gilt natürlich weder für meine Texte noch für meine Fotos, ich bin und bleibe altmodisch. :-P
+Und auch das ist #YOLO. Die Entstehung der Wortschöpfung lässt sich nicht mehr zurückverfolgen. Einfach etwas herausbrüllen, ins Netz stellen. Für alle verfügbar machen. Ganz im Sinne einer neuen, jungen Generation, die sich Luft machen will. "Ich brauche meinen Namen nicht darunterzuschreiben. Ihr könnt es ruhig alle verwenden. #YOLO gehört uns allen"! Dieser Satz gilt natürlich weder für meine Texte noch für meine Fotos, ich bin und bleibe altmodisch.
 
 > "Life is what happens to you while you are buisy making other plans" - "Das Leben ist das, was passiert, während du drüber nachdenkst!"
 
