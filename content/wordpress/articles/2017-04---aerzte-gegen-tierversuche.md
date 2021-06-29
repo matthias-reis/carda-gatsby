@@ -56,8 +56,8 @@ Im Text der Petition 69.364 heißt es
 
 Mittels eines Gutachtens belegt die Organisation 18 Verstöße des geltenden deutschen Tierschutzrechts gegen die Tierversuchsrichtlinie 2010/63/EU, die in der Petition einzeln aufgeführt werden.
 
-<div class="comment">
 ## Helft bitte mit!
+
 Die Petition findet Ihr, wie bereits oben angemerkt, unter
 
 [http://www.bundestagspetition.aerzte-gegen-tierversuche.de](http://www.bundestagspetition.aerzte-gegen-tierversuche.de/)
@@ -74,15 +74,14 @@ Ich bin der Meinung, dieses Thema geht jeden etwas an. [Tierversuche](/2010/07/g
 
 Wer jetzt noch juristische und wissenschaftliche Argumente benötigt, findet diese mit dem Klick auf folgendes Banner.
 
-<RemoteImage
-  alt={`Ärzte gegen Tierversuche`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EAC4QAAEDBAECBAMJAAAAAAAAAAECAwQABREhBhITIjFRYUGBoQcUFyMyQnGiwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBBESITFh/9oADAMBAAIRAxEAPwDrN1uEuMC3CQHpCjtzHUW97GPWpLPeZFxku2ue3Jjy0pEgSEMlDRSF/oBB2cep3Wy9x6NEWmY4VrU0srBU5hKSfiR86y5PehYrLFkvvtx1OvdoBwqOfApWBhKt4ST5D/Km7Gyxj615EKg2ZZvSHu0Shl3r6jlIxnHrk6qNqSpC0h+O6NaVnufXOBSB+IsdxILk2IpJGcAPe3l+Tsb+lNHHrvLvFpj3Cyw7XIhO9QS994cb6ykkHRQD5jG/5o1sVvIyzCvqHJ10PvUueTJS9BZhuBXRMkNsKUk4KQT1E/1x86reccZZ5PBjRXpDsZLT3dSWwD+xSMb9lmiijKhujJxY1OrEOiIlo+yyMULBvM8qVjxlKSR4ca1j4CmzjjTfFbQzZ21PS0sKcX3nVgKUVKKjnA96KKwVKnaiE+fkZI4Wtse+Cf/Z"
-/>
-
-[](http://www.schwimmen-bis-zur-verzweiflung.de/)
+<a href="http://www.schwimmen-bis-zur-verzweiflung.de/" target="_blank">
+  <RemoteImage
+    alt={`Ärzte gegen Tierversuche`}
+    size="large"
+    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__m.jpg"
+    largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__l.jpg"
+    loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EAC4QAAEDBAECBAMJAAAAAAAAAAECAwQABREhBhITIjFRYUGBoQcUFyMyQnGiwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBBESITFh/9oADAMBAAIRAxEAPwDrN1uEuMC3CQHpCjtzHUW97GPWpLPeZFxku2ue3Jjy0pEgSEMlDRSF/oBB2cep3Wy9x6NEWmY4VrU0srBU5hKSfiR86y5PehYrLFkvvtx1OvdoBwqOfApWBhKt4ST5D/Km7Gyxj615EKg2ZZvSHu0Shl3r6jlIxnHrk6qNqSpC0h+O6NaVnufXOBSB+IsdxILk2IpJGcAPe3l+Tsb+lNHHrvLvFpj3Cyw7XIhO9QS994cb6ykkHRQD5jG/5o1sVvIyzCvqHJ10PvUueTJS9BZhuBXRMkNsKUk4KQT1E/1x86reccZZ5PBjRXpDsZLT3dSWwD+xSMb9lmiijKhujJxY1OrEOiIlo+yyMULBvM8qVjxlKSR4ca1j4CmzjjTfFbQzZ21PS0sKcX3nVgKUVKKjnA96KKwVKnaiE+fkZI4Wtse+Cf/Z"
+  />
+</a>
 
 Bilder: [Ärzte gegen Tierversuche](https://www.aerzte-gegen-tierversuche.de/de/)
-
