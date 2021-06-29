@@ -1,17 +1,25 @@
 ---
-date: 2015-03-04T11:31:39.000Z
-slug: zum-abschied-sag-ich-ganz-laut-tschuess
-path: /2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/
-title: Zum Abschied sag' ich ganz laut tschüss!
-seoTitle: Abschied von Wordpress
 ogTitle: Abschied von Wordpress
-description: Zum Abschied sage ich tschüss, wie man das in Hamburg eben so tut - Doch es ist kein richtiger Abschied...
-excerpt: Nicht nur mein Blog zieht um, sondern auch Matze und ich. Vom Süden geht es in den hohen Norden.
-fileName: 2015-03---zum-abschied-sag-ich-ganz-laut-tschuess.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAtEAACAgEDAgMGBwAAAAAAAAABAgMEEQAFEgYhE0FhFCIxUXGBBxUjJKHB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhEhAxL/2gAMAwEAAhEDEQA/ALr4ASIyFHcL34opYn7DWcer7FmS9c/MEstdFhGlsw5Zqp84lyceY7DGPnrU9ZAAn1Gp10RDWg2bdLu6LFExuT+I8oChMOc5z/est+VY+YM/CbqNOoaVjbpJWlmoIoV7B/cSJk+84yR8hkf7pm3SmEzjS3Hf2ur1psr12gSe7IUXgvFpUIx6dvh/GnbdUBjbTTvQzVMO1pA0YPloH1BQry0LMYrQWo5GLtFIAVZvXSXb3y027bTxkPCfxlKq3uBePJfqRx+PqdHN337hWYV1Usi5AJxkny1GUrxFYR86BCiX+sthprSFZtvh/VlaIKhUYIWMn1AGnPd5OMb8uxxqZeyWrrS+3W+c/YcweXEDvrk6Pv2aaTbbYsvNEhnVQ7ZwVkPw+x1SLyg9Fen/2Q==
+excerpt: Nicht nur mein Blog zieht um, sondern auch Matze und ich. Vom Süden
+  geht es in den hohen Norden.
 ogImage: null
+isAffiliate: false
+path: /2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAtEAACAgEDAgMGBwAAAAAAAAABAgMEEQAFEgYhE0FhFCIxUXGBBxUjJKHB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhEhAxL/2gAMAwEAAhEDEQA/ALr4ASIyFHcL34opYn7DWcer7FmS9c/MEstdFhGlsw5Zqp84lyceY7DGPnrU9ZAAn1Gp10RDWg2bdLu6LFExuT+I8oChMOc5z/est+VY+YM/CbqNOoaVjbpJWlmoIoV7B/cSJk+84yR8hkf7pm3SmEzjS3Hf2ur1psr12gSe7IUXgvFpUIx6dvh/GnbdUBjbTTvQzVMO1pA0YPloH1BQry0LMYrQWo5GLtFIAVZvXSXb3y027bTxkPCfxlKq3uBePJfqRx+PqdHN337hWYV1Usi5AJxkny1GUrxFYR86BCiX+sthprSFZtvh/VlaIKhUYIWMn1AGnPd5OMb8uxxqZeyWrrS+3W+c/YcweXEDvrk6Pv2aaTbbYsvNEhnVQ7ZwVkPw+x1SLyg9Fen/2Q==
+isWerbung: false
+fileName: 2015-03---zum-abschied-sag-ich-ganz-laut-tschuess.md
+slug: zum-abschied-sag-ich-ganz-laut-tschuess
+errors: {}
+date: 2015-03-04T11:31:39.000Z
+focusKeyword: Abschied
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__m.jpg
+title: Zum Abschied sag' ich ganz laut tschüss!
+subTitle: "Teil IV: Der Abschied"
+seoTitle: Abschied von Wordpress
+description: Zum Abschied sage ich tschüss, wie man das in Hamburg eben so tut -
+  Doch es ist kein richtiger Abschied...
 labels:
   - Abschied
   - Abschied von Wordpress
@@ -24,13 +32,7 @@ labels:
   - Umzug
   - vegan
   - verabschieden
-focusKeyword: Abschied
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: 'Teil IV: Der Abschied'
 ---
 
 ## cardamonchai.com schon bald in neuem Gewand
@@ -62,6 +64,5 @@ Natürlich wird es dann auch einen Begrüßungsartikel geben, sobald der Umzug g
 
 Haltet mir die Treue, ich halte sie Euch! Natürlich werde ich auch über [Facebook](www.facebook.com/cardamonchai), [Twitter](https://twitter.com/Anne_Reko) und [E-Mail](mailto:info@cardamonchai.com) weiterhin erreichbar sein und wer ganz lieb ist, schreibt mir ab dem 15. März eine **Postkarte** an [meine neue Adresse](/impressum), der Kühlschrank in Hamburg ist noch ganz kahl und möchte gerne dekoriert werden!
 
-Küsschen Anne
 
 [_ **Hier gehts zum fünften Teil des Artikels** _](/2015/03/herzlich-willkommen-in-meinem-neuen-weblog/)
