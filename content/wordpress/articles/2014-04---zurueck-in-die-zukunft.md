@@ -75,7 +75,6 @@ Natürlich könnt Ihr auch weitergehen und die digitalisierten Fotos später tat
 ## Doch nun zu meiner Bauanleitung - Aus alt mach neu
 
 1. Die gewünschten Bilder von einem handelsüblichen Scanner einlesen lassen. Den Scanner so einstellen, dass er die Scans nummeriert. Als Beispiel "Scan1.jpg" - "Scan1298.jpg" Am besten legt Ihr immer gleichzeitig mehrere Bilder auf den Scanner, dann erspart Ihr Euch einen Haufen Arbeit. Fotos aus den 50ern passen bis zu 8 Stück auf den Scanner, bei Fotos aus den 80ern passen nur noch 2-3 drauf, habe ich festgestellt.
-
 1. Photoshop öffnen
 1. Datei öffnen – "Scan1-jpg."
 1. Foto grob ausschneiden 1. cmd + C (kopieren)
