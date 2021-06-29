@@ -40,6 +40,10 @@ errors: {}
 subTitle: Nach einem traditionellen Rezept aus Andorra
 ---
 
+**Vor Kurzem sah ich im Fernsehen eine Sendung über die Bewohner von Andorra, in der unter Anderem auch gekocht wurde. Ein Rezept für Kartoffelkuchen hat mich besonders inspiriert.**
+
+Leider habe ich mir weder den Namen, noch die genaue Zubereitung notiert, also werde ich Euch heute meine Interpretation des schmackhaften Wintergerichts zeigen, das ich hiermit liebevoll auf den Namen Wirsing-Kartoffelkuchen taufe.
+
 <RemoteImage
   alt={`Kartoffelkuchen`}
   size="medium"
@@ -48,10 +52,6 @@ subTitle: Nach einem traditionellen Rezept aus Andorra
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-16__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUHAwYI/8QAKhAAAQMDAgQGAwEAAAAAAAAAAQIDBAUREgAhBgcxQRMUIjJRYSNCcYH/xAAZAQABBQAAAAAAAAAAAAAAAAAEAgMFBgf/xAAjEQACAQMDBAMAAAAAAAAAAAABAwIABBESITEFE0FhcaHh/9oADAMBAAIRAxEAPwDNy64GYqMRNSlhssq9iFqw2BHqVcdwdhqjyIlOpi2mR4DIKAs5AE4ggG3zuQB/dIUyJdQ4EiwaNEUuYXWm1qbcwVgFXUcrjHoR366R82BU6BRWJ0mJAyeeS2gpZLq0AXOK3CAkJ6BKAN7HWedm7unZBwM1bGtKZGHAH37qi1ulx3IK3IiG20lKcFrRe99j/o321z3x7SW6fSpEqPSlx5rUn8jifS06gJJVZAsBYdwO19anP4vrrr6HhVpwcTZQJeJCcb/r0Ft7D71T501D/Kx2v1xpYqT0Bxol5VycgUpxT+uRI22OpIWdxaNiwkESPHnfx8U2psbiBhInbJzS3lbxTNQx4J9Xl8W8ir3DEkH6Nhb4O1we9UrQj8YUUUutMqXHWptaVNuFKm1+iykn5HiHrfp9nRo0u6PacdG1GIhF1vEsGT+1MHOVVJYUiXKly5cdIz8ushIVZIVZShvbe21v7qd8yOKZVcqjlO8NManQHcG2GzspQHvPQXt0Fvvc6NGi+nTk9hk0508eqF6kuNumIUMajv7r/9k="
 />
-
-**Vor Kurzem sah ich im Fernsehen eine Sendung über die Bewohner von Andorra, in der unter Anderem auch gekocht wurde. Ein Rezept für Kartoffelkuchen hat mich besonders inspiriert.**
-
-Leider habe ich mir weder den Namen, noch die genaue Zubereitung notiert, also werde ich Euch heute meine Interpretation des schmackhaften Wintergerichts zeigen, das ich hiermit liebevoll auf den Namen Wirsing-Kartoffelkuchen taufe.
 
 ## Benötigt wird
 

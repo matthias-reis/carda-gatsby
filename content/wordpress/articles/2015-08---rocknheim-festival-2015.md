@@ -272,6 +272,6 @@ Hier noch ein paar Bilder, die uns die Seat-Truppe freundlich zur Verfügung ges
   ]}
 />
 
-[Hier gehts zum Rock'n'Heim.](https://www.rock-n-heim.com/)
+[Hier geht's zum Rock'n'Heim.](https://www.rock-n-heim.com/)
 
 <FestivalList />

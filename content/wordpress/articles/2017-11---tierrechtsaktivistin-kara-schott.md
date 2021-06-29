@@ -39,7 +39,7 @@ errors: {}
 subTitle: Teil 2/2 - Puss In Boots Animal Rescue & Adoption stellt sich vor
 ---
 
-**( [Hier gehts zu Teil 1/2 des Interviews](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/) ) Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles über die Irische Tier-Auffangstation _Puss In Boots_ , die sie gemeinsam mit ihrer Mutter ins Leben gerufen hat.**
+**( [Hier geht's zu Teil 1/2 des Interviews](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/) ) Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles über die Irische Tier-Auffangstation _Puss In Boots_ , die sie gemeinsam mit ihrer Mutter ins Leben gerufen hat.**
 
 Vor Kurzem habe ich Euch hier im Blog eine echte Powerfrau vorgestellt. Tiere bedeuten Kara alles, weshalb sie sich aufopferungsvoll für sie einsetzt. Sie ist nicht nur die Leiterin der Tiertafel Hamburg e. V., zusammen mit ihrer Mutter gründete sie auch die Irische Tier-Auffangstation _Puss In Boots_ .
 
@@ -280,7 +280,7 @@ Für Sachspenden könnt Ihr [hier mit Kara und ihrer Mutter in Kontakt treten](h
 
 Wer sich über die _Puss in Boots_ informieren möchte: [Z](http://www.irish-pibar.de/) [ur Homepage geht es hier entlang](http://www.irish-pibar.de/).
 
-[**Hier gehts zu Teil 1/1 des Interviews**](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/)
+[Hier geht's zu Teil 1/1 des Interviews](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/)
 
 <Gallery
   images={[

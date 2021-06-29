@@ -42,7 +42,7 @@ month: '11'
 
 ## Die finsteren Machenschaften der Modeindustrie
 
-** [_Hier gehts zu Teil 7 des Artikels_](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) ** **Vegan leben bedeutet natürlich auch, auf das Tragen von Pelz und Leder, sprich das Fell und die Haut von Tieren zu verzichten. Pelzmäntel sieht man heute kaum noch, die Grausamkeit um ihre Herstellung ist von diversen Tierrechtsaktionen in den Köpfen der Menschen eingebrannt.**
+**[Hier geht's zu Teil 7 des Artikels](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) Vegan leben bedeutet natürlich auch, auf das Tragen von Pelz und Leder, sprich das Fell und die Haut von Tieren zu verzichten. Pelzmäntel sieht man heute kaum noch, die Grausamkeit um ihre Herstellung ist von diversen Tierrechtsaktionen in den Köpfen der Menschen eingebrannt.**
 
 Pelz gilt nach wie vor als Luxusware, ganz anders als zum Beispiel Leder und [Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/), Materialien, die die Menschen als alltäglich ansehen, aus dem Alltag sind sie für die meisten von uns nur schwer wegzudenken.
 
@@ -168,20 +168,7 @@ Bitte gebt die Infos weiter, es ist wichtig, dass so viele Menschen wie möglich
 
 In meinem Interview im Rahmen der Demo "Augsburg Pelzfrei" erzählte mir Thomas von der Tierrechtsinitiative Augsburg einiges zum Thema Pelze. [Ihr findet es unter diesem Link](/2014/10/thomas-laschyk-volksverpetzer/).
 
-[_ **Hier gehts zu Teil 9 des Artikels** _](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-
-## Inhaltsverzeichnis "10 Fakten über Veganismus"
-
-1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
-1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
-1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
-1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
-1.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
-1.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
-1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
+[Hier geht's zu Teil 9 des Artikels](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
 
 ## **Quellen**
 

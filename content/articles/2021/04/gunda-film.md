@@ -64,7 +64,7 @@ In ausgewählten Kinos in Los Angeles, New York und San Francisco hat der Film b
 
 <YouTube id="afZ6n7lwx48" />
 
-Hier geht's zur Gunda Webseite.
+[Hier geht's zur Gunda Webseite](https://www.gunda.movie/).
 
 Bilder Pictures: [gunda.com](https://www.gunda.movie/).
 

@@ -61,4 +61,4 @@ _ [Homepage](http://www.staustellbrewery.co.uk/pubs/a-z-of-pubs/80-bucket-of-blo
 
 <Gallery name="flickr/annehayle2009" />
 
-_Hier geht's zu_ [_Teil 9/17_](/2009/05/glendurgan-garden-15-05-2009-2/)
+Hier geht's zu [_Teil 9/17_](/2009/05/glendurgan-garden-15-05-2009-2/)

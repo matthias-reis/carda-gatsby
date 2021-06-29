@@ -37,7 +37,7 @@ year: '2015'
 month: '09'
 ---
 
-\*\* [_Hier gehts zu Teil 9 des Artikels_](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/) Im zehnten und letzten Teil meiner großen Reportage "10 Fakten über Veganismus" möchte ich Euch heute von meinen Erfahrungen und Begegnungen berichten.\*\*
+**[Hier geht's zu Teil 9 des Artikels](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/) Im zehnten und letzten Teil meiner großen Reportage "10 Fakten über Veganismus" möchte ich Euch heute von meinen Erfahrungen und Begegnungen berichten.**
 
 "Das ist doch nur ein Hype. Das verschwindet genau so schnell wieder von der Bildfläche, wie es dort aufgetaucht ist.", "Das ist wieder so ein Modeding, ich habe in den 80ern auch mal so eine Eiweißdiät gemacht." - So und so ähnlich kennen wir sie alle: Die Kommentare Zweifelnder. Ich kann Euch das Eine versichern: So ist es nicht.
 

@@ -335,10 +335,10 @@ Ich weiß nicht, wer diese Mythologie mit in die Tierhalterwelt brachte. Auf jed
 
 **Anne:** Vielen Dank für dieses Interview, liebe Johanna! Ich wünsche Euch allen das Beste für die Zukunft! Nachdem wir das Interview mit einem Deiner Lieblingszitate begonnen haben, lass uns eines meiner Lieblingszitate an das Ende setzen: "Sei Du selbst die Veränderung, die Du Dir wünschst für diese Welt." (Mahatma Gandhi) - In diesem Sinne: Namasté.
 
-**Johanna:** ( _lacht_ ) Das ist auch eines MEINER Lieblingszitate! ( _faltet die Hände in Brusthöhe, beugt den Kopf leicht, führt die gefalteten Hände mit den Fingerspitzen zur Stirn, um sie anschließend wieder zurückzuführen\*_ ) Namasté! Ich danke Dir, liebe Anne!
+**Johanna:** (lacht) Das ist auch eines MEINER Lieblingszitate! (faltet die Hände in Brusthöhe, beugt den Kopf leicht, führt die gefalteten Hände mit den Fingerspitzen zur Stirn, um sie anschließend wieder zurückzuführen\*) Namasté! Ich danke Dir, liebe Anne!
 
 <small>
-  _\*diese Mutra (Geste) nennt man auch Anjali oder Namaskaram. Sie bedeutet,
-  dass man das Gegenüber in Ehrerbietung grüßt oder verabschiedet. Sie ist die
-  höchste Geste unter Buddhisten._
+  *diese Mutra (Geste) nennt man auch Anjali oder Namaskaram. Sie bedeutet, dass
+  man das Gegenüber in Ehrerbietung grüßt oder verabschiedet. Sie ist die
+  höchste Geste unter Buddhist⋆innen.
 </small>

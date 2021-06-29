@@ -42,7 +42,7 @@ Das Konzert war gut. Nach so langer Zeit war man einfach glücklich, die Band wi
 
 <RemoteImage
   alt={`Das Ticket`}
-  size="medium"
+  size="full"
   title={` Das Ticket`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1146__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1146__l.jpg"
@@ -55,7 +55,7 @@ Für mich war das natürlich besonders toll, da dadurch einige meiner Lieblings
 
 <RemoteImage
   alt={`Catch Without Arms`}
-  size="medium"
+  size="full"
   title={` Dredg`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1102__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1102__l.jpg"
@@ -68,7 +68,7 @@ Natürlich ist diese Art zu touren, gerade durch die Kritiken, die von allen Sei
 
 <RemoteImage
   alt={`The Intersphere`}
-  size="medium"
+  size="full"
   title={` The Intersphere`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1071__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1071__l.jpg"

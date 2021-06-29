@@ -35,8 +35,7 @@ labels:
   - Tattoo
 language: de
 ---
-
-[_ **Hier gehts zum ersten Teil des Artikels** _](/2014/05/taetowierung-und-webdesign/) **Vor Kurzem hatte ich hier von meinem Vorhaben erzählt, etwas mehr Farbe unter meine Haut zu lassen und gleichzeitig am Relaunch von [cardamonchai](www.cardamonchai.com) zu arbeiten.**
+**[Hier geht's zum ersten Teil des Artikels](/2014/05/taetowierung-und-webdesign/) **Vor Kurzem hatte ich hier von meinem Vorhaben erzählt, etwas mehr Farbe unter meine Haut zu lassen und gleichzeitig am Relaunch von [cardamonchai](www.cardamonchai.com) zu arbeiten.**
 
 <RemoteImage
   alt={`Stencil Stuff`}
@@ -350,7 +349,7 @@ Wir plauderten noch ein bisschen mit Matt, bedankten uns für seine tolle Arbeit
 
 Natürlich bin ich auch gespannt, was Ihr zu sagen habt, im Anschluss noch ein paar Bilder. Das sieht alles noch ein bisschen blutig aus, aber ich denke man kann es schon recht genau erkennen. Ich werde weiter berichten und in Kürze seht Ihr es auf cardamonchai.com live und in Farbe: Mein neues Design!
 
-[_ **Hier gehts zum dritten Teil des Artikels** _](/2015/02/blog-relaunch-und-umzug-nach-hamburg/)
+[Hier geht's zum dritten Teil des Artikels](/2015/02/blog-relaunch-und-umzug-nach-hamburg/)
 
 <Gallery
   images={[

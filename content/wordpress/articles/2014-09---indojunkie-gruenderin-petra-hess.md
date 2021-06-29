@@ -41,15 +41,6 @@ errors: {}
 subTitle: Sulawesi - On The Road And Inside Indonesia
 ---
 
-<RemoteImage
-  alt={`Petra in Sulawesi`}
-  size="medium"
-  title={`Petra auf Sulawesi`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6766__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6766__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEFABIhBhMxBxRBFVFhIiMycaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAL/xAAkEQEAAQQABAcAAAAAAAAAAAABAgADETEEBQYhEhOBorHB8P/aAAwDAQACEQMRAD8AhgycWMcyiUIiXktpCkuAJULQk/PN6mhN4dUpk+6QkUr9KZCqPz4B/wA0v5hBgYjFJnR2YzrqkuCLvS8+tqwBavyL4HPH21PipS4CVy/o89bEPuLbdRFUbPbOxIVX8iogULq/OjIyYk8bqsnEfBnVNeGzEeW+hiPF7AZcbXs3pc/bcQFpVab8g8g+DpnOSaU0UPIMeOyHFKW6NooDjzrGo8mLBkmF7VbebUwplyOhiu08knag+LWAOT48D8ardHuZ6H0z1f1BGe+owMehDDjU6Q4twbyKX27qgOSODwNbM6axJxhNP77rWPVHpoq6ClyWZTQkRtr6XXYja1pas2ygjbtBIHPJoVpV9Dc08zhJuPlJMpL85tthxa1BUfuN2oj7i0pIHFGz81o0aa8AdqnuyS3JHQvriuN1h0I7hOqV5qJmHFS+4ZW9xi1qVXIUoKG6+bNDk6r5XK5Kdjd7Esx4eUQY82IRbb4ryaKaIrgj+vGjRqNVRaTp+/c4jld3zXOO/ux8V//Z"
-/>
-
 **Petra und Melissa sind zwei Bloggerinnen, die eine große Schwäche für Indonesien vereint. Sie haben das Land bereist, seine Natur, die Leute und die Besonderheiten kennengelernt.**
 
 Die beiden haben das Crowdfunding-Projekt "Sulawesi – On The Road And Inside Indonesia" ins Leben gerufen, um gemeinsam ein Buch mit gleichnamigem Titel schreiben zu können. "Ein ganz besonderes Reisebuch über Sulawesi, das einen besonders genialen, interessanten, viel zu unbekannten Teil Indonesiens zeigt. Ein Buch mit einer Dokumentation." So schreiben es die beiden auf ihrer Seite "Das Buch soll alles andere, als 0-8-15 werden. Es wird , wie die Insel selbst: Abwechslungsreich, verspielt und überraschend."
@@ -149,6 +140,15 @@ Es gibt bis jetzt kaum Literatur über Sulawesi und das möchten wir gerne änd
 **Anne:** Was ist das Besondere an Indonesien?
 
 **Petra:** Indonesien besteht aus 17.000 Inseln. Die Vielfalt ist unglaublich. Von den traumhaften Reisterassen bis zu den Vulkanen, von der phantastischen Unterwasserwelt bis zu den paradiesischen Stränden und Dschungelgebieten - Indonesien hat einfach alles zu bieten. Die Kultur ist ebenso vielseitig, beeinflusst durch die unterschiedlichen Religionen und Traditionen. Auf jeder Insel taucht man in eine völlig andere Kultur ein. Man kann surfen, tauchen, klettern, meditieren, Yoga machen, oder ein Handwerk lernen und man kommt jeden Tag in Kontakt mit Menschen, die zwar wenig haben, aber sehr reich an Lebensfreude sind.
+
+<RemoteImage
+  alt={`Petra in Sulawesi`}
+  size="medium"
+  title={`Petra auf Sulawesi`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6766__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_img_6766__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEFABIhBhMxBxRBFVFhIiMycaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAL/xAAkEQEAAQQABAcAAAAAAAAAAAABAgADETEEBQYhEhOBorHB8P/aAAwDAQACEQMRAD8AhgycWMcyiUIiXktpCkuAJULQk/PN6mhN4dUpk+6QkUr9KZCqPz4B/wA0v5hBgYjFJnR2YzrqkuCLvS8+tqwBavyL4HPH21PipS4CVy/o89bEPuLbdRFUbPbOxIVX8iogULq/OjIyYk8bqsnEfBnVNeGzEeW+hiPF7AZcbXs3pc/bcQFpVab8g8g+DpnOSaU0UPIMeOyHFKW6NooDjzrGo8mLBkmF7VbebUwplyOhiu08knag+LWAOT48D8ardHuZ6H0z1f1BGe+owMehDDjU6Q4twbyKX27qgOSODwNbM6axJxhNP77rWPVHpoq6ClyWZTQkRtr6XXYja1pas2ygjbtBIHPJoVpV9Dc08zhJuPlJMpL85tthxa1BUfuN2oj7i0pIHFGz81o0aa8AdqnuyS3JHQvriuN1h0I7hOqV5qJmHFS+4ZW9xi1qVXIUoKG6+bNDk6r5XK5Kdjd7Esx4eUQY82IRbb4ryaKaIrgj+vGjRqNVRaTp+/c4jld3zXOO/ux8V//Z"
+/>
 
 **Anne:** Was unterscheidet Sulawesi z. B. von Lombok oder Bali?
 

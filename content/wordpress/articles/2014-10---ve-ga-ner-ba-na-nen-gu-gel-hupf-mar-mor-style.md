@@ -192,15 +192,14 @@ Das Rezept ist für einen kleinen Kuchen gedacht, von dem zwei Personen ca. 2 Ta
 1.  Die Schüsseln auskratzen und Löffel und Gabel ordentlich ablecken, der Teig ist LECKER!
 1.  Den Kuchen auf der mittleren Schiene in den Ofen packen und ca. eine Stunde backen.
 1.  Kurz vor Ablauf der Backzeit mit einem Holzstäbchen prüfen, ob der Kuchen schon gar ist.
-1.  Zwischenzeitlich das Schlachtfeld aufräumen und Kaffee aufsetzen, den Kuchen könnt ihr schon nach kurzem Abkühlen genießen.[gallery size="medium" columns="2" link="none" type="rectangular" ids="9119,9120,9121,9122,9123,9124"]
+1.  Zwischenzeitlich das Schlachtfeld aufräumen und Kaffee aufsetzen, den Kuchen könnt ihr schon nach kurzem Abkühlen genießen.
 
 Zum Bananengugelhupf passt übrigens auch hervorragend Kakao oder heißes Ingwerwasser.
 
 <RemoteImage
   alt={`Veganer Bananengugelhupf-7`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-7__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQIEB//EACkQAAIBAwMEAQMFAAAAAAAAAAECAwQFEQASMQYTIUFRFCJhMnGBwdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQYH/8QAIhEAAgIBBAEFAAAAAAAAAAAAAQIAAxESITHwBBNBUXGx/9oADAMBAAIRAxEAPwA6Y6caqIKq24LuKoMkD86u/poYlw8GVBwHx5z8EcjWHSt1giDQpTx1NQ+PuWdogFPAxxgePOfemGshd62EzBoIyO4NzhtuCAD4JPPH7HXP7FJfQ3Pe7zXCzG44nIb5fTHWT2y0W+mvVXBUNBJM85WOHg7WAwWIJKlgwGV96rrrQV9NTiW9WqOggYhfrKCczxRMeO4hZiB+QQfgHjW90Va6ahd7dd6cCtpKgvICxBMoY/dkHyCMH4II+dOl5npnh2OAyygxuvO9WGCuPf8Aurpsqof0lTPyfc9+sQAR7V1lsfkWaBnEm4sHVht2OoZcH+9O9FVsr96Leh3IuS2W9gHPrGPAAwNGjUwkuQWjSoXiVNkehvrCG9W6OoKHME8UjQzQoxJ7Ydf1KPQYHGfGBqXNHbOpaCkt9HgyzdozVEpncAg8Z8D+AD+dGjT/ABXLDDQ1yhTtP//Z"
 />
-

@@ -45,7 +45,7 @@ language: de
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcGCAEDBP/EADAQAAIBAgQEBAMJAAAAAAAAAAECAwQRAAUGEhMUITEHFUFRIjJhCDNiY3GVobHj/8QAFwEBAAMAAAAAAAAAAAAAAAAAAwABAv/EABwRAAICAwEBAAAAAAAAAAAAAAECABEDITEiMv/aAAwDAQACEQMRAD8AtClVG8kaIwYuhcEH2tf+8Aq/UGZRVjwUGRSVaCfgCXmo41J27j7ke3UYzqfLd0UdVS1stC1KrXEZAR1ewIb1t09LYWniBqLUuUTrlWmqDmq2WQ1DTVMnwhDGsffpdgxufXEXu5sJfJPTrZ1y3mpct2OOMGj5kMAY3ZCAwBuCV74C5Xq4asEjVNClByoBG6oD799/wra23+cQWhrJBpmVZTGs8i1BEcTiThtvfcLjvZjbGzw4R5vNBVzcbaIgu4KLfPfsP0wLtuoyY6Wz2NfVNRmEtMaeLlKNKmCVH5hGmdht7KFIUHr6k4q1U5rXSRRrLWVcixsskYctJsYdmFz3HuOuLH59QVGuTSNp/UdXkzUAbi7YC/F4ltt/jA6bD798Q2TwElcknVI/bv8AXFvbfMbC6YgQ53ErQ548FfVCphirY1p40VJiwCXd2JUC1iT1OGJ4V55lk/m/MU0tLt4NjTzOwPz3uCcGh9naTmJpTqz7xVWwy61tt/zfrjhzDw8bw+2g5xLmHmF+op+Fw+H7/E177/p2wbIRsxRmR/IM/9k="
 />
 
-**( [_Hier gehts zum zweiten Teil des Artikels_](/2014/08/wie-picasso-nur-mit-strom/) ) Derzeit herrscht hier Aufbruchstimmung. Wenn ich nicht am Computer sitze und schreibe, sortiere ich unser Hab und Gut aus und packe alles, was nicht abgegeben, weggeschmissen oder gespendet wird, in Kartons.**
+**( [Hier geht's zum zweiten Teil des Artikels](/2014/08/wie-picasso-nur-mit-strom/) ) Derzeit herrscht hier Aufbruchstimmung. Wenn ich nicht am Computer sitze und schreibe, sortiere ich unser Hab und Gut aus und packe alles, was nicht abgegeben, weggeschmissen oder gespendet wird, in Kartons.**
 
 Unser Ziel: Die schönste Stadt der Welt. Wir werden einen Neuanfang in **Hamburg** wagen und freuen uns schon sehr darauf. Am 15. März ist es soweit, drückt uns die Daumen, dass alles gut funktioniert und wir wohlbehalten ankommen, 800 Kilometer liegen zwischen uns und unserem neuen Zuhause.
 
@@ -87,7 +87,7 @@ Inzwischen ist die ursprünglich geplante Designvorlage, mein **Tattoo** auch fe
 
 Manchmal ist es wirklich schön, wenn es anders kommt, als man denkt. Das kann einen auf ganz neue Ideen bringen und lässt die Dinge in einem neuen Licht erscheinen.
 
-[_ **Hier gehts  zum vierten Teil des Artikels** _](/2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/)
+[Hier geht's zum vierten Teil des Artikels](/2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/)
 
 <Gallery
   images={[

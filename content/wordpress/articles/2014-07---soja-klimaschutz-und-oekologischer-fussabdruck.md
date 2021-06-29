@@ -195,20 +195,7 @@ Was wieder einmal beweist, das ein kollektives Umdenken erfolgen muss und das am
 
 Der deutsche Durchschnittsabdruck beträgt übrigens 5,1 Hektar und setzt sich zusammen aus Wohnen und Energie 25  Prozent, Konsum 18  Prozent, Ernährung 35  Prozent und Verkehr 22 Prozent. Wie man sieht, kann man hier mit veganer Ernährung schon ganz schön was erreichen, natürlich sollte man trotzdem daran denken, bei Kurzstrecken auf's Fahrrad umzusatteln, nicht zu häufig zu duschen, Geräte immer komplett auszuschalten, nicht in den "Stand-by"-Modus und auch mal über eine **Fahrgemeinschaft** mit den Arbeitskollegen nachzudenken.
 
-Die Zahlen, die ich für die Berechnung meines Beispiels genommen habe, sind nicht die einer realen Person, ich habe sie frei gewählt.  Wer sich selbst gerne mal testen möchte, kann dies jederzeit auf der Homepage von "Footprint Deutschland" tun. Einfach [hier](http://www.footprint-deutschland.de/inhalt/berechne-deinen-fussabdruck) klicken. [_ **Hier gehts zu Teil 2 des Artikels** _](/2014/08/ich-war-so-muede/)
-
-## Inhaltsverzeichnis "10 Fakten über Veganismus"
-
-1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
-1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
-1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
-1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
-1.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
-1.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
-1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
+Die Zahlen, die ich für die Berechnung meines Beispiels genommen habe, sind nicht die einer realen Person, ich habe sie frei gewählt.  Wer sich selbst gerne mal testen möchte, kann dies jederzeit auf der Homepage von "Footprint Deutschland" tun. Einfach [hier](http://www.footprint-deutschland.de/inhalt/berechne-deinen-fussabdruck) klicken. [Hier geht's zu Teil 2 des Artikels](/2014/08/ich-war-so-muede/)
 
 ## Quellen
 

@@ -43,4 +43,4 @@ Auch die Ruinen des Glastonbury Abbey, und nicht zuletzt das Glastonbury Festiva
 
 <Gallery name="flickr/anneglastonbury2009" />
 
-_Hier geht's zu [Teil 4/17](/2009/05/stonehenge-11-05-2009/) _
+Hier geht's zu [Teil 4/17](/2009/05/stonehenge-11-05-2009/)

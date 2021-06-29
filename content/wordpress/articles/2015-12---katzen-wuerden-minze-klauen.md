@@ -38,6 +38,6 @@ Ich finde die Bilder können sich wirklich sehen lassen, oder?
 
 > Eine schlafende Katze im Zimmer oder im Haus ist ein besserer Genosse, als ein nervöser, ruheloser Mensch, der sich nur um der Bewegung willen unaufhörlich bewegen muß. Prentice Mulford
 
-[Hier gehts zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
+[Hier geht's zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
 
 [^1]: [Sanni bei Instagram](https://www.instagram.com/sannialejo/)

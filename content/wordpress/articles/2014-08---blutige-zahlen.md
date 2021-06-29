@@ -54,7 +54,7 @@ month: '08'
 
 ## Veganer retten Leben
 
-[**Hier gehts zu Teil 2 des Artikels**](2014/08/ich-war-so-muede/)
+[Hier geht's zu Teil 2 des Artikels](2014/08/ich-war-so-muede/)
 
 **In Deutschland leben momentan rund 1,2 Millionen Veganer\*innen (Quelle: [VEBU](https://www.vebu.de/lifestyle/anzahl-der-vegetarierinnen), Stand Juli 2014), bei einer derzeitigen Gesamtbevölkerung von 81.890.000 (Stand heute) bedeutet das, dass 1,465 Prozent der Deutschen vegan leben, die Zahl wächst stetig.**
 
@@ -182,6 +182,6 @@ Setzt man den gegenwärtigen Fleischerzeugungstrend von derzeit 300 Millionen T
 
 > Nichts auf der Welt ist so mächtig wie eine Idee, deren Zeit gekommmen ist. (Victor Hugo,1802-1885)
 
-[_ **Hier gehts zu Teil 4 des Artikels** _](/2014/08/vitamin-b12-mythos-und-wahrheit/)
+[Hier geht's zu Teil 4 des Artikels\*\*](/2014/08/vitamin-b12-mythos-und-wahrheit/)
 
 Quellen: \* [Fleischatlas 2014](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf), \*\* [bund.net](http://www.bund.net/fleischatlas), \*\*\* [Campact Blog](http://blog.campact.de/2014/01/wir-habens-satt-750-mio-tiere-werden-pro-jahr-in-deutschland-geschlachtet/),   [biowahrheit.de](http://www.biowahrheit.de), [Occupy For Animals](http://www.occupyforanimals.org/animal-kill-counter.html)

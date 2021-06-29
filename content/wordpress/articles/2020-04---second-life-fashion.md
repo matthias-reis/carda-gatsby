@@ -69,4 +69,4 @@ Und wenn man gerade mal wieder auf der Suche nach einem Rock oder einem schicken
 
 <Gallery name="secondlifefashion2" />
 
-[Hier gehts zum Second Life Fashion Onlineshop](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2F).
+[Hier geht's zum Second Life Fashion Onlineshop](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2F).

@@ -1,32 +1,30 @@
 ---
 date: 2018-08-08T07:42:53.000+00:00
 slug: fuer-limo-von-voelkel-im-test
-path: "/2018/08/fuer-limo-von-voelkel-im-test/"
+path: '/2018/08/fuer-limo-von-voelkel-im-test/'
 type: Artikel
 typeName: Produkttest
 title: FÜR Limo von Voelkel
 seoTitle: FÜR Limo von Voelkel im Test - Geschmack von Italien und Skandinavien
 ogTitle: FÜR Limo von Voelkel im Test - Der Geschmack von Italien und Skandinavien
-description: Aus dem Hause Voelkel gibt es jetzt ein paar ganz neue Bio-Fairtrade-Limonaden.
-  Ich war neugierig und habe alle drei Sorten probiert. Hier ist mein Fazit.
-excerpt: Aus dem Hause Voelkel gibt es jetzt ein paar ganz neue Bio-Fairtrade-Limonaden.
-  Ich war neugierig und habe alle drei Sorten probiert. Hier ist mein Fazit.
+description: Aus dem Hause Voelkel gibt es jetzt ein paar ganz neue Bio-Fairtrade-Limonaden. Ich war neugierig und habe alle drei Sorten probiert. Hier ist mein Fazit.
+excerpt: Aus dem Hause Voelkel gibt es jetzt ein paar ganz neue Bio-Fairtrade-Limonaden. Ich war neugierig und habe alle drei Sorten probiert. Hier ist mein Fazit.
 fileName: 2018-08---fuer-limo-von-voelkel.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_30031079918_8994a630e7_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_30031079918_8994a630e7_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYABf/EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQAGIRIxQQcTYRQyUrEiQoH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwL/xAAkEQABBAEDAwUAAAAAAAAAAAABAAIDESETUXEEFDFhgZHh8P/aAAwDAQACEQMRAD8AL9ibHqt01FfLTh4IKSMSSM0jRqx5wgbBHIBP+eM6s7bQSCro6FKWWGgp8zOrIQeOEPPfLDPnsdVVgoBt3b9LTRPSNVRRfUVUyZLozHnI7gKMDqGcDwNd/aV1F4tUFwkpUmU1bvSO8RY+0hCIxwRw2CcfJ0KSnC78e6uG9jAHvol3yPpHUfp1JdqmuvbVDUkX1UqUyOnWXJH3FfwJBHcHRtvS0LbalJKyJpZODLhMKw8MpzyD+xp53Vcau3eoVVHSU1O1ujiRzCyDCzdDfzAHAyDg57+MHUX6ibwsdx2/BTWt4pPdjJKKenqc8mTkk54IXJ5HB+URtdpjGN1gxNc01g/tlBybtuUm32pGmMcUsQjmPDM2f6K33Kp85PbjTzsfcNhpNrW1LilNHUCkUnMRblmB+7GRjP61tbRJYgYyAazfPPpnO6PrPnfchtGe9b1BW+oVxST6iegm6I4/YlXodgi9PU3cLkHPPzqJ3HTW9LgY46WOmZxkhHzG5H4+Mjnnv8edbW0iE303CkXEhxtf/9k=
-ogImage: 
+ogImage:
 labels:
-- Bio
-- Biolimonade
-- Ernährung & Gesundheit
-- fairtrade
-- Limo
-- Limonade
-- vegan
-- vegane Getränke
-- vegane Limo
-- Voelkel
+  - Bio
+  - Biolimonade
+  - Ernährung & Gesundheit
+  - fairtrade
+  - Limo
+  - Limonade
+  - vegan
+  - vegane Getränke
+  - vegane Limo
+  - Voelkel
 focusKeyword: Voelkel
 status: publish
 isWerbung: false
@@ -35,8 +33,8 @@ language: de
 errors: {}
 subTitle: Geschmack von Italien und Skandinavien
 advertisement: true
-
 ---
+
 **Sommerzeit ist Limozeit. Von der Naturkostsafterei Voelkel gibt es jetzt ein paar ganz neue Biolimonaden. Ich war neugierig und habe alle drei Sorten ("Zitrone naturtrüb", "Blutorange" und "Himbeer-Cassis") probiert. Ihr bekommt heute mein Fazit zu lesen**
 
 Das Motto, unter dem die Limos vertrieben werden, gefällt schon mal: "Gutes Trinken, Gutes tun". Die neue Marke wurde speziell für den Lebensmitteleinzelhandel geschaffen und steht für Produkte in Bioqualität mit Rohstoffen aus nachhaltiger, fairer Landwirtschaft. So weit, so gut.
@@ -152,4 +150,4 @@ Dann würde das FÜR auch noch für nachhaltige Verpackung stehen. Für mich wä
 
 Und es ist doch sowieso viel schöner, wenn man gleich einen ganzen Kasten Limo mit an den [Baggersee](/2011/06/badetag/) nehmen kann, oder? Der passt perfekt auf einen Fahrrad-Gepäckträger und so hat die ganze Clique was davon. Außerdem klingt es gleich viel schöner, wenn man mit Glasflaschen anstößt. In diesem Sinne: Prost!
 
-Vielen Dank an Voelkel für die freundliche Zurverfügungstellung der Produkte! [Hier gehts zur Homepage](https://voelkeljuice.de/startseite.html) der Naturkostsafterei.
+Vielen Dank an Voelkel für die freundliche Zurverfügungstellung der Produkte! [Hier geht's zur Homepage](https://voelkeljuice.de/startseite.html) der Naturkostsafterei.

@@ -56,7 +56,7 @@ _Es ist also Vorsicht geboten! Ab hier kann mein Text Spoiler enthalten, wer die
 
 <RemoteImage
   alt={`Stufe 1 der Rakete`}
-  size="medium"
+  size="full"
   title={` Stufe 1 der Rakete`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_jack.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_jack.png__l.jpg"
@@ -73,7 +73,7 @@ Ein rundum gelungener, harmonischer Auftakt zum neuen Album, das, wie wir es von
 
 <RemoteImage
   alt={`Stufe 2 der Rakete`}
-  size="medium"
+  size="full"
   title={` Stufe 2 der Rakete`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_jack2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_jack2__l.jpg"

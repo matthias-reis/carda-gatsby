@@ -203,7 +203,7 @@ Ab dem 1. Mai werden wir dann einige neue Produkte und Duftlinien vorstellen und
 
 Wer jetzt neugierig geworden ist, findet alles über Pony Hütchen auf [ponyhütchen.com](http://www.ponyhuetchen.com/).
 
-[Hier gehts zum Unboxing und Produkttest der Pony Hütchen Produkte](/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/).
+[Hier geht's zum Unboxing und Produkttest der Pony Hütchen Produkte](/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/).
 
 <Gallery
   images={[

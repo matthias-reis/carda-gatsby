@@ -34,7 +34,7 @@ errors: {}
 subTitle: Vegane Sahnetorte
 ---
 
-<small>Rezept von Salome Kocakoru</small>
+## Rezept von Salome Kocakoru
 
 **Vor ein paar Wochen stand bei uns mal wieder ein Familientreffen auf dem Programm. Meine liebe Cousine Salome, die auch vegan lebt, und ich hatten uns vorgenommen, zusammen ein paar Speisen vorzubereiten.**
 

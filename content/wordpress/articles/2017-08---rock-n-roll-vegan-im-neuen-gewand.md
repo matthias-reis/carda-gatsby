@@ -55,10 +55,6 @@ Natürlich verblogge ich auch nach wie vor Reiseberichte und Fotostrecken sowie 
 
 Übrigens habe ich inzwischen auch endlich das perfekte Logo für mich gefunden. Es ziert die Seite an verschiedenen Stellen und sagt genau aus, was sie ist und repräsentiert: Rock ´n´ Roll vegan! Erstellt wurde es zusammen mit dem neuen Seitendesign von meinem lieben Mann. Lieber Matze: Ich weiß gar nicht, wie ich Dir dafür danken soll. Die Seite ist genial geworden. Du bist und bleibst der Beste!
 
-In diesem Sinne: Bleibt mir gewogen!
-
-[Hier gehts zur Startseite]()
-
 <RemoteImage
   alt={`Logo`}
   size="large"

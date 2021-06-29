@@ -49,4 +49,4 @@ subTitle: Erinnerungen an den Frühling in England 2009 - Teil 5/17
 
 <Gallery name="flickr/annemortehoe2009" />
 
-_Hier geht's zu_ [_Teil 6/17_](/2009/05/woolacombe-cornwall-13-05-2009/)
+Hier geht's zu [_Teil 6/17_](/2009/05/woolacombe-cornwall-13-05-2009/)

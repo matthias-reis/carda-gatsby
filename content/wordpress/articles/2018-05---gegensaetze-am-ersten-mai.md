@@ -65,7 +65,7 @@ Erster Mai.
 
 Freundliches Wetter, gute Stimmung.
 
-Mit zarter Tremolomusik interpretiert das Orchester zunächst "Nocturno". _ \_\_\_\_ _ Wassertriebe streben voller Hoffnung in Richtung Licht.
+Mit zarter Tremolomusik interpretiert das Orchester zunächst "Nocturno". Wassertriebe streben voller Hoffnung in Richtung Licht.
 
 Wider die Geometrie.
 

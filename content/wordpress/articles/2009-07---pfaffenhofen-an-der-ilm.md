@@ -38,7 +38,7 @@ subTitle: Kreisstadt in der Hallertau
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAJxAAAgIBAwMDBQEAAAAAAAAAAQIDBBEABRITITEGIkEUFVFhgXH/xAAWAQEBAQAAAAAAAAAAAAAAAAAGAQX/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBBESMaEh/9oADAMBAAIRAxEAPwDkFSmxbDDv476fWNtrCkvRIaVSOeQQf5+RprNWjsTV1gigEnTSMrWi4hj48ZOW+P3qe1tv0hswWFmSzBMIJE6JKBj8cx2zntjS9mrrChzrfyFALHLFRsCYSxW4SEd9GtPLsd20S9SnYmQHiWjjLAHscZ/o0ajIoPci2NrqMdv2ff46c0s061I69mKrL1LGGjllKcFKRDIPvX57Z089Pbd9ouWKW82LUzVJ5Pqa1cxnqRBpGfiGHMnCsQc57jGojfFjbL6GaSw8vqeKUhI3fnAjRr1OwPtUDI8j2jzq01ytb9Tbvba0kSS2WlEzMiAEK/BuDNkjJi+D2z+9C2yLHbkzEkRctNajioGpvd79GUN9ipT7Xvcy7X0+VVFVGUIwByCMZz5ycnRpB6fumjtqxy/bachdi0PWJUZOcoAMBTkkf7o1tV5l3AabwTLsxKSx2vpn/9k="
 />
 
-\_\_\_\_ Vier Jahrhunderte später erst, soll Ludwig der Kelheimer am Zusammenfluss von Ilm und Gerolsbach etwas weiter südlich den Markt Pfaffenhofen gegründet haben Pfaffenhofen wurde das 1140 das erste Mal urkundlich erwähnt. Seit 1318 gilt Pfaffenhofen als Stadt, davor war es eine Marktgemeinde.
+Vier Jahrhunderte später erst, soll Ludwig der Kelheimer am Zusammenfluss von Ilm und Gerolsbach etwas weiter südlich den Markt Pfaffenhofen gegründet haben Pfaffenhofen wurde das 1140 das erste Mal urkundlich erwähnt. Seit 1318 gilt Pfaffenhofen als Stadt, davor war es eine Marktgemeinde.
 
 Pfaffenhofen wurde 1388 im Städtekrieg fast auf die Grundmauern niedergebrannt. Nachdem der Wiederaufbau der Stadt 1438 abgeschlossen war, wurde Pfaffenhofen das erste Mal offiziell als Stadt beurkundet.
 
@@ -58,6 +58,6 @@ Sein Vorgänger war Hans Prechter von der CSU, der 18 Jahre im Amt gewesen war.
 
 Thomas Herker ist mit seinen 30 Jahren einer der jüngsten Bürgermeister Deutschlands.
 
-_ [Homepage](http://www.pfaffenhofen.de/) Pfaffenhofen an der Ilm_ _ [Homepage](http://www.spd-paf.de/index.php?mod=content&menu=3...) Bürgermeister Thomas Herker_ _ [Wikipedia](http://de.wikipedia.org/wiki/Pfaffenhofen_an_der_I...) Pfaffenhofen an der Ilm_
+[Homepage Pfaffenhofen an der Ilm](http://www.pfaffenhofen.de/) [Homepage Bürgermeister Thomas Herker](http://www.spd-paf.de/index.php?mod=content&menu=3...) [Wikipedia Pfaffenhofen an der Ilm](http://de.wikipedia.org/wiki/Pfaffenhofen_an_der_I...)
 
 <Gallery name="flickr/annepfaffenhofen2009" />

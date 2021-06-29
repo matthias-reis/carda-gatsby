@@ -194,4 +194,4 @@ Das klingt doch schon mal sehr gut, oder? Ich bleibe auf jeden Fall auch dran un
 
 [Mehr über Naturkosmetik gibt es hier](/2018/03/vegane-kosmetik-und-naturkosmetik/)
 
-Vielen Dank an Bioturm für die freundliche Zurverfügungstellung der Produkte! [Hier gehts zur Homepage](https://www.bioturm.de/).
+Vielen Dank an Bioturm für die freundliche Zurverfügungstellung der Produkte! [Hier geht's zur Homepage](https://www.bioturm.de/).

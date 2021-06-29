@@ -72,6 +72,6 @@ In der Petition heißt es
 
 Kamala ist die erste Woman of Color und die erste indisch-amerikanische Frau, die in den USA für das Vizepräsident⋆innenamt nominiert wurde. Mit ihrer klaren Priorisierung von Themen wie dem Klimawandel und gesunder Ernährung hat sie bereits für Aufmerksamkeit gesorgt. Es wäre ein starkes Zeichen und würde Ihr Engagement in diese Richtung sicher stärken, wenn sie sich der Herausforderung stellt. Ich bin schon sehr gespannt, wie es weitergeht. Die Petition steht kurz vor dem Ziel.
 
-[Hier gehts zur Petion auf Change.org.](https://www.change.org/p/vp-elect-kamala-harris-go-vegan-pivot-towards-a-plant-based-economy-plantpoweredkamala-covid19?redirect=false)
+[Hier geht's zur Petion auf Change.org](https://www.change.org/p/vp-elect-kamala-harris-go-vegan-pivot-towards-a-plant-based-economy-plantpoweredkamala-covid19?redirect=false).
 
 Bild/picture: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Kamala_Harris_(40773627633).jpg>)

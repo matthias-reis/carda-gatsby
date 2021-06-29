@@ -44,7 +44,7 @@ subTitle: Aus T-Shirt mach Tasche Teil 2
 
 **Vor Kurzem habe ich an dieser Stelle mit Euch meine Anleitung für einen höchst eleganten DIY Upcycling Nerdbag geteilt. Wie versprochen habe ich heute Teil 2 für Euch.**
 
-Die Umhängetasche lässt sich noch leichter herstellen, als der [Nerdbag](/2015/09/diy-upcycling-nerdbag/).  Ihr braucht dazu lediglich ein altes T-Shirt und ein paar Kleinigkeiten. \_\_\_\_ Natürlich habe ich auch wieder ein paar Fotos geschossen, um die einzelnen Schritte der Anleitung zu bebildern.
+Die Umhängetasche lässt sich noch leichter herstellen, als der [Nerdbag](/2015/09/diy-upcycling-nerdbag/).  Ihr braucht dazu lediglich ein altes T-Shirt und ein paar Kleinigkeiten. Natürlich habe ich auch wieder ein paar Fotos geschossen, um die einzelnen Schritte der Anleitung zu bebildern.
 
 ## Benötigt wird
 

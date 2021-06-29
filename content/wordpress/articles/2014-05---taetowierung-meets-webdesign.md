@@ -40,7 +40,7 @@ subTitle: 'Teil I: Die Idee'
 
 <RemoteImage
   alt={`Taube in Venedig 2014`}
-  size="medium"
+  size="full"
   title={`Taube in Venedig 2014`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_12601100464_3e25bd7ee9_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_12601100464_3e25bd7ee9_z__l.jpg"
@@ -55,7 +55,7 @@ Ein Sleeve soll es werden. Eine Ranke, die ein paar ganz besondere Dinge enthalt
 
 <RemoteImage
   alt={`Rhododentron in Glendurgan Garden`}
-  size="medium"
+  size="full"
   title={`Rhododentron in Glendurgan Garden`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_11502534573_52a12269b1_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_11502534573_52a12269b1_z__l.jpg"
@@ -70,15 +70,6 @@ Sobald das Motiv dann steht und tätowierbereit gezeichnet ist, wird es nicht nu
 
 An der technischen Umsetzung arbeiten wir derzeit schon mit Hochdruck, damit das Gerüst schon mal steht, wenn das Design fertig ist und wir der Seite am Ende nur noch den fertigen Anzug überstülpen müssen.
 
-<RemoteImage
-  alt={`Anne mit Eule in Glastonbury 2012`}
-  size="medium"
-  title={`Anne mit Eule in Glastonbury 2012`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_11355170514_4a7012511b_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_11355170514_4a7012511b_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcI/8QALBAAAQMDAwIFAwUAAAAAAAAAAQIDBAUGEQASIQcxCBMUImFBUXEWMkKhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAA//EABoRAQACAwEAAAAAAAAAAAAAAAABEQISMUH/2gAMAwEAAhEDEQA/AC++ot2Rur1UodLuBVPp7chMdpLjCQ00kIBWexUo/Ofr2Gme5bluW3KeZlJuWZWwhHqpjEuO2C0wCApbam08AEgFKiTjn76yDxBwJ8PqbWJTSlhpb/qmwDgpIAST8ft/zUVp3pCkRZ8CawmHR3YhLdPihavMm4IDhUSVEqzlRUcds5xrbGuSHSMiVcUllxlmpz21ON+1xpCN6QRwpOUEf1pV/X9UR1Lt63EzZLqXJiWJRcKdpBQolBG0EngHPGDqPpdeT9XkimVCrRYj6Gm22mlsBStrJSSsEnu4glJH8Skn40uxqE5R/E3Sn30FyjTpb0uFIJynzHGlHZ+Uq3YH2wdM+xSXfWXpjdl71pTtNhQPSokqcQ+uSlBcaKE4TjaSkhW/PJB40l0Lw9Xaw8pcuNAbaKVJCG5xKskYCs7fpk/nRo1lsV3C6M31b9ai1ChSYcp1lW5z1DvlIeGeUEAqKkEcEKx31p1FtStitwX67EiiBDWiVHKJHmOMuAEBo+0Z27iAoHkdwDo0ad54qf/Z"
-/>
-
 Mal sehen, eventuell findet die **Eule** , die sich Matze stechen lassen möchte, ja auch noch einen Platz auf cardamonchai.
 
-_ ** [Hier gehts zum zweiten Teil des Artikels](/2014/08/wie-picasso-nur-mit-strom/) ** _
+[Hier geht's zum zweiten Teil des Artikels](/2014/08/wie-picasso-nur-mit-strom/)

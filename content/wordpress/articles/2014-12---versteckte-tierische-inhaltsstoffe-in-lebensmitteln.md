@@ -52,7 +52,7 @@ advertisement: true
 
 ## Von Fischblase im Bier und Schweineborsten im Brot
 
-\*\* [_Hier gehts zu Teil 8 des Artikels_](/2014/11/fakepelz-echtpelz/) "Die kannst Du doch essen! Sind doch nur Kartoffelchips!" Kartoffelchips mit Paprikageschmack. Das darin Wild enthalten ist, hätte ich mir vor ein paar Monaten auch noch nicht träumen lassen. Damals war ich noch Vegetarierin.\*\*
+**[Hier geht's zu Teil 8 des Artikels](/2014/11/fakepelz-echtpelz/) "Die kannst Du doch essen! Sind doch nur Kartoffelchips!" Kartoffelchips mit Paprikageschmack. Das darin Wild enthalten ist, hätte ich mir vor ein paar Monaten auch noch nicht träumen lassen. Damals war ich noch Vegetarierin.**
 
 Ob ich mich heute, hätte ich meine Ernährung zwischenzeitlich nicht umgestellt, noch als Solche bezeichnen würde, da bin ich mir inzwischen nicht mehr so sicher.
 
@@ -178,9 +178,9 @@ Außerdem gilt es natürlich weiterhin, für eine klare Auszeichnungspflicht von
 
 Ob es wirklich möglich ist, komplett vegan zu leben, was es mit **Tierversuchen** auf sich hat und wo sich in unserem Alltag noch überall Tierisches verbirgt, möchte ich in der 10. und letzten Folge meiner Reportage "10 Fakten über Veganismus" genauer beleuchten.
 
-> **Dies ist mein persönlicher Blog. Für Vollständigkeit und Richtigkeit meiner Angaben übernehme ich keine Gewehr. Neue Informationen  **[**nehme ich gerne entgegen**](mailto:info@cardamonchai.com)** und aktualisiere den Artikel entsprechend.**
+**Hinweis:** Dies ist mein persönlicher Blog. Für Vollständigkeit und Richtigkeit meiner Angaben übernehme ich keine Gewehr. Neue Informationen [nehme ich gerne entgegen](mailto:info@cardamonchai.com) und aktualisiere den Artikel entsprechend.
 
-_ \*\* [Hier gehts zu Teil 10 des Artikels](/2015/09/ich-bleib-dabei-vegan-macht-spass/) \*\* _
+[Hier geht's zu Teil 10 des Artikels](/2015/09/ich-bleib-dabei-vegan-macht-spass/)
 
 [^1]: [Versteckte Tierische Inhaltsstoffe kennzeichnen](http://www.foodwatch.org/de/informieren/versteckte-tiere/2-minuten-info/)
 [^2]: [Bentonit Wikipedia](//de.wikipedia.org/wiki/Bentonit)

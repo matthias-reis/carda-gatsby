@@ -81,4 +81,4 @@ Wer seinen Jahresrückblick gerne wie ich bebildern möchte und Lust bekommen ha
 
 Ich wünsche Euch viel Freude beim Basteln Eures Kalenders und alles Gute für das kommende Jahr. Der Artikel zum Dezember Highlight im Kalender wird übrigens schon bald an dieser Stelle erscheinen. Bleibt also am besten dran.
 
-Bei Vistaprint findet Ihr zahlreiche Produkte zum selbst gestalten, bedrucken, verschenken und selbst behalten. [Hier gehts zum Onlineshop](https://www.vistaprint.de/).
+Bei Vistaprint findet Ihr zahlreiche Produkte zum selbst gestalten, bedrucken, verschenken und selbst behalten. [Hier geht's zum Onlineshop](https://www.vistaprint.de/).

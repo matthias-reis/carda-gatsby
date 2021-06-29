@@ -39,7 +39,7 @@ subTitle: Lenbachstadt im Spargelland
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgMI/8QAKRAAAgEDAwMCBwEAAAAAAAAAAQIDAAQRBRIhBgcxE0EVIzJRYXGRkv/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQP/xAAmEQABAgQDCQAAAAAAAAAAAAABAAIDESGBEnHRMTJBUZGhsdLh/9oADAMBAAIRAxEAPwDqM1Pe7vVtz0rZ6d8Pit5Ly4kLqJ1LApGVLqFBHJDAZ9vPPAqg5qU97dLbU7nRxLPJFBiWNAioTvKM2QWBxwg/tTHlhq5asEynG5uoNR6PivrePZHfwRSKGOSBJt4/YDGkfXoVuo57C4iZ7WS2wztJtaVi2FjUDls7WL+AFxn6qy0W8l0/tzHZ2YimuLG4nEauNqkKd4BC+3zF4GM4wMVvitk06wkupISTGJZY4whkdQzF2LeS7k/6IA8CpkctbEDhbPnaidgg4S03y+1VSHIzU37xNtbQc5IE8p4ODxC580UU4agJWHvdfCRek+qJo+tYOmhbq1rch715HbLBzDHtA48DYc/fd7Yok1mbU9Z0DWj6kayQXWLb1Mqhjm9MsDgcspx44wMfkoouhMDwZbQO4foEXRHYZT4+uq//2Q=="
 />
 
-\_\_\_\_ Der Name "Scropinhusen" tauchte während der Amtszeit des Freisinger Bischofs Atto (783-811) das erste Mal in Schenkungsbüchern der Freisinger Marienkirche auf.
+Der Name "Scropinhusen" tauchte während der Amtszeit des Freisinger Bischofs Atto (783-811) das erste Mal in Schenkungsbüchern der Freisinger Marienkirche auf.
 
 Aus späteren Schenkungsurkunden geht hervor, daß es in Schrobenhausen 888 eine kleine Pfarrkirche, sowie ein Herrenhaus und einen Getreidespeicher gab. Im 10. Jahrhundert muß die kleine Ansiedlung dann während der Überfälle der Ungarn komplett verwüstet worden sein, sie wurde über 100 Jahre in keiner Urkunde mehr erwähnt.
 

@@ -102,4 +102,4 @@ Wenn Ihr mehr über die Feuerwear Produkte erfahren wollt, findet Ihr hier im Bl
 - [Mit Rolltop-Rucksack "Eddie" im Park](/2019/11/eddie-mein-neuer-rolltop-rucksack-von-feuerwear/)
 - [Clutch "Charlie", Handtasche "Phil" und Schlüsselanhänger "Sasha"](/2019/09/feuerwear-feminine-kollektion/)
 
-Hier gehts zum [Feuerwear Onlineshop](https://www.feuerwear.de/).
+Hier geht's zum [Feuerwear Onlineshop](https://www.feuerwear.de/).

@@ -1,40 +1,37 @@
 ---
 date: 2019-07-15T14:44:16.000+00:00
 slug: die-gruselserie-ist-wieder-da
-path: "/2019/07/die-gruselserie-ist-wieder-da/"
+path: '/2019/07/die-gruselserie-ist-wieder-da/'
 type: Artikel
 typeName: Rezension & Verlosung
 title: Die Gruselserie ist wieder da!
 seoTitle: Die Gruselserie ist wieder da - handsignierte CDs zu gewinnen!
 ogTitle: Die Gruselserie ist wieder da - handsignierte CDs zu gewinnen!
-description: 'Alle, denen die Gruselserie etwas sagt, dürfen sich jetzt freuen: Die
-  kultige Hörspielreihe ist jetzt wieder da! Ich verlose handsignierte Folgen!'
-excerpt: 'Alle, denen die Gruselserie etwas sagt, dürfen sich jetzt freuen: Die kultige
-  Hörspielreihe aus den 1980er Jahren ist jetzt wieder da! Ich verlose handsignierte
-  Folgen!'
+description: 'Alle, denen die Gruselserie etwas sagt, dürfen sich jetzt freuen: Die kultige Hörspielreihe ist jetzt wieder da! Ich verlose handsignierte Folgen!'
+excerpt: 'Alle, denen die Gruselserie etwas sagt, dürfen sich jetzt freuen: Die kultige Hörspielreihe aus den 1980er Jahren ist jetzt wieder da! Ich verlose handsignierte Folgen!'
 fileName: 2019-07---die-gruselserie-ist-wieder-da.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAQMDAwQBBQAAAAAAAAABAgMEERIABSEGEzEUIkFRYQczcYGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EACURAAEDAwMDBQAAAAAAAAAAAAECAxEABCESMUETUWEycaGx8P/aAAwDAQACEQMRAD8A450z0NW7zske509XTrCzOmBjkdgVYA3xBt5v/Gm8/wCn81IlH6rcqeI1BZQJIXXEr5uDYj/NTe0bvSw9IVW3ztWJW95pKd4v27MFvl7gfg2Fj5v8aw0k2+GX1NKtY6kEZuncBHzbIEf3pbPWDmtxY0ycRvvGZ9qcpgvI0sAlfgTGc1Y0vQ9PVhgm8IhC5AyUzDPzewy/H3pV1F0cu1bHJuB3OCUpIkfZ7eLNl8r7jwPnUzT1tZHuec01WjZh5ApxYkHIfQ886ZdW7om8TmoVJYpmYEq2JUcc2t9m2tuVuqfT0TCOeee/n4qe3ZW2gh9UqntH7mp4SntkDzbT5uoEp3RIp5pQqraRSyc4i/B54PH5to0aNbaV+oVba3z9oSWVRO+x+6W19f62pRlRkjRMVLnlubknWaWW486NGiSkJECkvvruHC64ZJr/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_07_VERLOSUNG1.png__l.jpg
 labels:
-- 80er
-- André Minninger
-- Bücher & Filme
-- CD-Verlosung
-- Die Gruselserie
-- EUROPA Hörspiel
-- Gewinnspiel
-- Grusel
-- Gruselgeschichte
-- Hanni und Nanni
-- Heikedike König
-- Hörbücher
-- Hörkassetten
-- Horror
-- Hörspiele
-- TKKG
-- Verlosung
+  - 80er
+  - André Minninger
+  - Bücher & Filme
+  - CD-Verlosung
+  - Die Gruselserie
+  - EUROPA Hörspiel
+  - Gewinnspiel
+  - Grusel
+  - Gruselgeschichte
+  - Hanni und Nanni
+  - Heikedike König
+  - Hörbücher
+  - Hörkassetten
+  - Horror
+  - Hörspiele
+  - TKKG
+  - Verlosung
 focusKeyword: Die Gruselserie
 status: publish
 isWerbung: false
@@ -43,8 +40,8 @@ language: de
 errors: {}
 subTitle: Endlich wieder Spukgeschichten!
 advertisement: true
-
 ---
+
 **Alle, jenen die Gruselserie etwas sagt, dürfen sich jetzt freuen: Die kultige Hörspielreihe aus den 1980er Jahren ist jetzt wieder da! Ich war bei einem wunderbar gruseligen Presse-Event und habe einiges über die Neuauflage in Erfahrung gebracht.**
 
 **Hinweis:** Die **Verlosung** findet Ihr im Anschluss an den Artikel. Natürlich lohnt es sich dennoch, ihn zu lesen. Ihr könnte darin einige spannende Fakten über die Gruselserie erfahren.
@@ -98,7 +95,7 @@ Für Euch habe ich mir zusammen mit Silke etwas ganz Besonderes ausgedacht: Ich 
 
 **Gewinnen könnt Ihr ganz leicht: Schreibt mir einfach bis einschließlich 05. August 2019 eine E-Mail mit dem Betreff "Gruselserie" an [info@cardamonchai.com](mailto:anne.reis@cardamonchai.com) und erzählt mir, warum Ihr gewinnen wollt. Die beiden Gewinner\*innen kontaktiere ich im Anschluss per E-Mail. Wer gewinnt, entscheidet das Los. Teilnehmen kann jede\*r ab 14 Jahren mit einem Wohnsitz innerhalb Deutschlands.**
 
-[Hier gehts zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
+[Hier geht's zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 
 ---
 

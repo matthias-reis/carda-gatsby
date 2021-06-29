@@ -26,7 +26,7 @@ Musikalisch trennten sich Gwens und meine Wege spätestens nach dem Erscheinen i
 
 ## Gwen Stefani designt vegane Schuhe und Taschen
 
-![High Heels  "Alisa" von Gwen Stefanie](/img/high-heel-alisa-.jpg "High Heels \\"Alisa\\"")
+![High Heels  "Alisa" von Gwen Stefanie | large](/img/high-heel-alisa-.jpg "High Heels \\"Alisa\\"")
 
 Dass Gwen Stefani sich auch für Tierrechte einsetzt, wusste ich. Angenehm überrascht war ich, als mich gestern die Meldung erreichte, dass die Diva seit kurzem auch vegane Schuhe und Taschen designt, die ab dem Frühjahr 2015 auch bei uns in den Verkauf gehen sollen. Auch in der Vergangenheit war sie schon als Designerin tätig, unter anderem für die Labels L.A.M.B und DWP.
 
@@ -38,7 +38,7 @@ Die Taschen und Schuhe sollen im eher niedrigen Preissegment zwischen 70 und 170
 
 ## Endlich vegane High Heels
 
-![High Heels "Abbott" von Gwen Stefanie](/img/high-heel-abbott-.jpg 'High Heels "Abbott"')
+![High Heels "Abbott" von Gwen Stefanie | large](/img/high-heel-abbott-.jpg 'High Heels "Abbott"')
 
 Auf der Suche nach eleganten, veganen Schuhen hat Frau es auch heute noch häufig schwer, zwar bieten Schuhgeschäfte auch mal High Heels aus Textil an, jedoch kann einem auch hier keiner sagen, woraus beispielsweise der Kleber hergestellt wurde.
 

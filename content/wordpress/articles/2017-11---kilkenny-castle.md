@@ -82,4 +82,4 @@ Was ich außerdem jedem an Herz legen möchte ist ein Spaziergang im ans Schloss
 
 <Gallery name="flickr/kilkennycastle2017" />
 
-\*Hier gehts zur [Homepage](http://www.kilkennycastle.ie/VisitorInformation/) von Schloss Kilkenny.
+\*Hier geht's zur [Homepage](http://www.kilkennycastle.ie/VisitorInformation/) von Schloss Kilkenny.

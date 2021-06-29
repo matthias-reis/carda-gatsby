@@ -190,7 +190,7 @@ Falls Ihr Euch das fragt: Ja, es gab tatsächlich einige Leute, die es sehr inte
 
 Für alle, die das Aloe Vera Gel Pur auch mal testen möchten, habe ich eine kleine Verlosung vorbereitet. Zu gewinnen gibt es ein Aloe Vera Gel Pur. Sendet einfach bis zum 30. August eine E-Mail mit dem Betreff "Aloe" an [info@cardamonchai.com](mailto:anne.reis@cardamonchai.com). Wer gewinnt, entscheidet das Los. Teilnehmen kann jede\*r mit einem Wohnsitz innerhalb Deutschlands. Ich drücke Euch die Daumen!
 
-[Hier gehts zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
+[Hier geht's zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 
 ---
 

@@ -58,7 +58,7 @@ Das vegane Start-up ist noch ganz jung – es wurde dieses Jahr gegründet. Ich 
 
 **Anne:** Euer Onlineshop gefällt mir sehr gut. Eure Schmuckstücke sind wirklich sehr kreativ. Wie kommt Ihr auf die schönen Ideen?
 
-**Mara:** Oft sind die Ideen zu den einzelnen Designs spontane Eingebungen, die ich erst mit Stift und Papier skizziere und dann digital erstelle. Ich habe schon immer gerne kreativ gearbeitet, ein anderer Berufszweig wäre für mich auch nie denkbar gewesen. \_\_\_\_ Bei der Umsetzung bin ich ein kleiner Perfektionist. Besonders unsere aktuelle Aktion liegt mir sehr am Herzen, weil wir uns so sehr damit identifizieren können.
+**Mara:** Oft sind die Ideen zu den einzelnen Designs spontane Eingebungen, die ich erst mit Stift und Papier skizziere und dann digital erstelle. Ich habe schon immer gerne kreativ gearbeitet, ein anderer Berufszweig wäre für mich auch nie denkbar gewesen. Bei der Umsetzung bin ich ein kleiner Perfektionist. Besonders unsere aktuelle Aktion liegt mir sehr am Herzen, weil wir uns so sehr damit identifizieren können.
 
 ## "Das positive Feedback überwältigt uns"
 

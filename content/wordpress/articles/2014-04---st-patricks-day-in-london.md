@@ -83,7 +83,7 @@ subTitle: Von Jamie Oliver, Agatha Christie und  Kunst an der Themse
 
 <RemoteImage
   alt={`St. Patrick's Day in London`}
-  size="medium"
+  size="full"
   title={` St. Patrick's Day in London`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13543283163_2c2db63ee6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13543283163_2c2db63ee6__l.jpg"
@@ -98,7 +98,7 @@ Für den zweiten Tag hatte ich Karten für Madame Tussauds besorgt. Bis jetzt ha
 
 <RemoteImage
   alt={`Mit Wolverine`}
-  size="medium"
+  size="full"
   title={` Mit Wolverine`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds-261__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds-261__l.jpg"
@@ -115,7 +115,7 @@ Vom Trafalgar Square aus spazierten wir gemütlich an der Themse entlang und mac
 
 <RemoteImage
   alt={`Fernweh am London Eye`}
-  size="medium"
+  size="full"
   title={` Fernweh am London Eye`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13543507523_7cf0cfa41d__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13543507523_7cf0cfa41d__l.jpg"
@@ -130,7 +130,7 @@ Gegen Mittag ging es dann nochmal zum Shoppen in die Stadt, bis die Schuhsolen g
 
 <RemoteImage
   alt={`Joseph Beuys im Tate Modern `}
-  size="medium"
+  size="full"
   title={` Joseph Beuys im Tate Modern`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13544765734_8cf7d73e17__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13544765734_8cf7d73e17__l.jpg"
@@ -145,7 +145,7 @@ Natürlich hatten wir meiner Mutter vorher nichts verraten. Wir gingen mit ihr q
 
 <RemoteImage
   alt={`Ganesha im British Museum`}
-  size="medium"
+  size="full"
   title={` Ganesha im British Museum`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13545359663_341bdc4734__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13545359663_341bdc4734__l.jpg"
@@ -156,86 +156,56 @@ Fazit der Reise: Unsere Erwartungen wurden voll erfüllt und sogar noch übertro
 
 London ist und bleibt meine Lieblingsstadt und ich werde ihr ganz sicher schon bald wieder einen Besuch abstatten.
 
-<div style="width: 45%; float: left;">
-
 <RemoteImage
   alt={`Mit George Clooney`}
-  size="medium"
+  size="full"
   title={` Mit George Clooney`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds-167__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds-167__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwQF/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDBAURABIhMUEGE2EHUYEUI3Gh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABkRAQEBAQEBAAAAAAAAAAAAAAECEQADEv/aAAwDAQACEQMRAD8AnPpmxpV3iqeuM6U8be6gV/absndwD186ZKCwx1dyraWPbVStsyOXWJSDt3yAYRujj5H5j9DV1dOJFpqllM8Yjk8nHJ7PR57H31Ufopeam4eqJLNUPLUpOP1EzyyFlXYqq2R54wMnzjUtlytb1/nXnYRmPYrnRUVO6iqVJJOVJWcdg4PA4A/j+9GmG8ep7HaLnNbaz3KCanxmGoyoGfKMqtvQgAgnnnRpZpTp6kHOhFIUiZhJIVkQkFTzub7DGmv6e1k9kuUlS37L1J2xTI+1lYZO3PyD15x8aTqeQqcqgzns66dvqYpNwuCJPErbtj9cDsaRNM45Ud579cxtdXpGmhFwkQviRiQQp24HPOODx/ujWrT+r6m/lpq2WnUxgIm0lDt8A4BBx+NGsjhnbqfp3v/Z"
 />
 
-</div>
-
-<div style="width: 45%; float: left;">
-
 <RemoteImage
   alt={`Mit Sha Rukh Khan`}
-  size="medium"
+  size="full"
   title={` Mit Sha Rukh Khan`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds-171__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds-171__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQYD/8QAKRAAAgIBAwMEAAcAAAAAAAAAAQIDBBEABRIGITETIkFhFDJRgZHw8f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAdEQEAAgICAwAAAAAAAAAAAAABABECIRITMUFx/9oADAMBAAIRAxEAPwCh6x3j8JcrU6sE9uxYBMaRk+4DAHEnyfviP1zrG24rG4SyrDUsG0gb1oVTky8fzE4z4x3Or7bLidT9e7PVhCQyu7VIpXIIVn7ZII8ZGMeTkaQ6c6jnpb/u5WJTbsiUrKrEcQhZjjAz3AH141H1oDU1u/FzS/kwsy+tISO+jXNLAfLqWHL3EE5Iz38/vo0dJqJN7jxvGnuq2ILDQWIZhKjKvcsG5Kf5Gmq1ylBuGzzVZbViwVY3I5G9qMxdWVewwCvf58/Ws5vDZtOzKckArnz/AHOo7WOdhxzMfuQ8wfcDy8jPz5070MkL5IR07fx3G5XgOI4WAXkcnBzjv86NWW1KJbW4WrSmP1ZsKuQOy/7o0L5jcMqKn//Z"
 />
 
-</div>
-
-<div style="clear: both;"></div>
-
-<div style="width: 45%; float: left;">
-
 <RemoteImage
   alt={`Mit Oscar Wilde`}
-  size="medium"
+  size="full"
   title={` Mit Oscar Wilde`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds-216__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds-216__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwf/xAAuEAABBAECBAUBCQAAAAAAAAABAgMEEQUAEgYhUWEHEzFBoRQVIiNCcYGRsdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Ae8JwsexBblTrLZoJCEFRUo2aAHO6ST+mrWNj8TmMQ3KgqakRnEkpdA6ciPYggiqPPXETxKzHh4SHvdTkDKEtKAi29gSWzvJ9BRsVfMapvDHjrH4tnL4YNzJMwS3pifw9qVJXtuh+XnzIPXreghPEtbOJznkltxaTdFICv7OjWPFWTGbnGcyhabWtpaRStqkqoi/cd9GgUcUuuR38Jko0hKVqjqaFDmgg3f7hfxpFjc/MxL8pcV1AQ+ghYUgKJVRo32smvQmrHLSniDJqcbx6Co7W21UO5r/NENUKXw4UrR9PObeUpDwTu8wGvuq7dK6aCpQ99o4qA55rjBCVeYtsgqec3HctXx/B9q0amYWRjwIyYy3CSLWTZ9T6125fOjQf/9k="
 />
 
-</div>
-
-<div style="width: 45%; float: left;">
-
 <RemoteImage
   alt={`Mit Jimi Hendrix`}
-  size="medium"
+  size="full"
   title={` Mit Jimi Hendrix`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds-240__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds-240__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAQYI/8QAKBAAAQIFAwQBBQAAAAAAAAAAAQIDAAQFESEGEjETQWGBIiMyUVKh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOd3tUVQDp9YKSP3+X8MVdL6uqCHZuTddbtPy65VbmxKcEcG3IxCNPYlJ2uq66ErQWvqBoABKhbIAx2z7itStLy1R1QyhsTTFNS2XVLQnetZHASLeU+swEysTswxNJbQ71W9gUnN7XH59QRjVbbrFcfYdAKmQlsEW+0DHGO8EA3TJiVkqvTJxDe+ZammSsdW5UkLTcWsLJKTttngxUrlUbpGuHnmG1sKlniWmwfiAsHHe427RciNRpUwpNSk9qXHSp1G1tHKjcdu5hzVtTcqVUefeYLDySlBQQQoWvz54gJuoKw7WKzN1AtpZ669wbSbhAAsBe3iCEH7OOFaMhWT4PeCA//Z"
 />
 
-</div>
-
-<div style="clear: both;"></div>
-
-<div style="width: 45%; float: left;">
-
 <RemoteImage
   alt={`Mit Muhammad Ali`}
-  size="medium"
+  size="full"
   title={` Mit Muhammad Ali`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds-201__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds-201__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAwUH/8QAJxAAAQQBAwQCAgMAAAAAAAAAAQIDBBEFABIhIjFBUQYTMnFCYaH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAUG/8QAJREBAAAFAgUFAAAAAAAAAAAAAQACAxEhQVEEEjGR0RNhcbHw/9oADAMBAAIRAxEAPwBJwisoz86CJUlCIpWEMsbQPsQP5JCqHA5v3ppnYGQp1wPFMWDJdSxtT1bxSto9Ufd+avtq+Pm8X8kcgS3YUVnL49BDjdhsSWdtbkH2CAFDzYI1l5XKY77spi1Q3mlvxkOwG31EuOOE9ISL/IKpIA7iidY9WWamsts2tgvqZPvppHQUzmPUzYdXXZf3WOYfKcPvyKlxG2kNWUktg7Sod6HNeOBo0x5Oe0/lX2itqNMjoS1JBaDg3i+LSaJHYn35NaNMcTUphJt8+IJ4WlVWff3PJEYb5LNcwWVxBbcW1kGUIYcbWCoLQ4FVdVt6eeRQN6woTcnIyJENT69yUocC21bwgVusHzRCQP7vU4uK0iJKXAeK2EDa6HU8L3EAKLY4CaFc3yRetSRlwwuLFissxWVtukpQgBX2dyCR4KaA/XjTtQG2u8AVp2RlJnlepfHbtCnkwcdOcZekfZIISt1dV1qFkf7o1RJyM5arfEZS7PWIzayr9ki9GqhEiFnTBH//2Q=="
 />
 
-</div>
-
-<div style="width: 45%; float: left;">
-
 <RemoteImage
   alt={`Mit Holly Golightly`}
-  size="medium"
+  size="full"
   title={` Mit Holly Golightly`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_tussauds__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFBP/EACwQAAIBAwMDAgYCAwAAAAAAAAECAwQFEQAGEiExQSJhExQjMnGBQ1FiweH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAB/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECERIhMUH/2gAMAwEAAhEDEQA/AN7Z7/HhreZ4QtDyyPAz/wB1RrYIsJKhDKyuvI5AwQT5/GpXYLxbLRYHa63CCgWohaKKSQ/c+AcAAEk/jSTbMcVrMLzoKZ4admrppGkywKHLOp6Dqc+2hVdlJjUMoJ4DcKmnD04kD8gqv6m+kc4HkjIz7HQrccphjLA9OP8ArWbt6mhqbjbL/DeZKlzUO8sgn5U7oQQxVOPp9IPXxgZznXLc9wUF3sq1lHKWgcMis2AWK/0M9R76UPTlTi0jyW2bcFyplutwlW308DxoyR5KMezdMD7uOfbH5HHsm5Pt/edLPcYqurEdHI1VE2WkVWhLEgE+Bjv4zpPZ7RWUk7kRyTKYl+E4i5RiXP8AIufsH4zphtuzvJOklytlEvNJY6mZ0+rKjdlBwDjt57Z7dNHH4bV6iXWzd8Fs2ldaGniEd0rZWWNA7cIad19XHr07fv8AWklBcYYtpwUlPhYoUAX/ACBHVv2wY6XV+ztufIpbPkiKVJTURgStkt2ILdyPGM6yLvZqWaeblTCKIRLHH8J+PYk9gOnfGqKcBz+H/9k="
 />
-
-</div>
-
-<div style="clear: both;"></div>

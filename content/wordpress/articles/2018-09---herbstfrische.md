@@ -133,4 +133,4 @@ Ihr seid selbst Hersteller und möchte, dass ich Euer Getränk teste und ihn mei
 
 Natürlich teste ich längst nicht nur Getränke, sondern auch zahlreiche andere [vegane und nachhaltige Produkte](/tag/vegan-2/produkte/).
 
-Vielen Dank an Voelkel für die freundliche Zurverfügungstellung der Produkte! [Hier gehts zur Homepage](https://voelkeljuice.de/startseite.html) der Naturkostsafterei.
+Vielen Dank an Voelkel für die freundliche Zurverfügungstellung der Produkte! [Hier geht's zur Homepage](https://voelkeljuice.de/startseite.html) der Naturkostsafterei.

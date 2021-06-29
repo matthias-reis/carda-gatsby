@@ -40,7 +40,7 @@ subTitle: Sanglos aber nicht klanglos
 
 **Musik ohne Gesang - unter diesem Motto stand das erste Golden Silence Festival, das am Samstag in Münster stattfand. Auch ich war dabei und habe ein paar Eindrücke mitgebracht.**
 
-Veranstaltet wurde das Event im legendären Skater's Palace von der Münsteraner Band Long Distance Calling. Das besondere Highlight des Abends war ihr Auftritt, mit dem sie die Release ihres "Stummfilms" feierten, den sie im Frühling beim Konzert in der Altonaer Kulturkirche aufgenommen hatten (das habe ich mir natürlich auch nicht entgehen lassen. [Hier gehts zum Bericht](/2019/04/long-distance-calling-kulturkirche-altona/) ).
+Veranstaltet wurde das Event im legendären Skater's Palace von der Münsteraner Band Long Distance Calling. Das besondere Highlight des Abends war ihr Auftritt, mit dem sie die Release ihres "Stummfilms" feierten, den sie im Frühling beim Konzert in der Altonaer Kulturkirche aufgenommen hatten (das habe ich mir natürlich auch nicht entgehen lassen. [Hier geht's zum Bericht](/2019/04/long-distance-calling-kulturkirche-altona/) ).
 
 ## Auftakt mit Curls &amp; Nods
 

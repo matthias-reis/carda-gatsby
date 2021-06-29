@@ -37,7 +37,7 @@ language: de
 
 > Man schreibt nicht so ausführlich, wenn man den Abschied gibt.
 
-**Mit diesem Zitat von Heinrich Heine verabschiede ich mich. Und wie recht er hat: Würde es sich um einen echten Abschied handeln, würde ich nicht so ausführlich darüber schreiben ( _ [Hier gehts zum dritten Teil des Artikels](/2015/02/blog-relaunch-und-umzug-nach-hamburg/) _ ).**
+Mit diesem Zitat von Heinrich Heine verabschiede ich mich. Und wie recht er hat: Würde es sich um einen echten Abschied handeln, würde ich nicht so ausführlich darüber schreiben ( [Hier geht's zum dritten Teil des Artikels](/2015/02/blog-relaunch-und-umzug-nach-hamburg/) ).
 
 Nicht nur mein Blog zieht um, sondern auch Matze und ich. Vom Süden geht es in den hohen Norden. Deshalb verabschiede ich mich auch nicht mit einem leisen Servus, wie es einst Peter Alexander tat, sondern mit einem lauten Tschüss, wie man das eben in **Hamburg** so macht.
 
@@ -53,4 +53,4 @@ Natürlich wird es dann auch einen Begrüßungsartikel geben, sobald der Umzug g
 
 Haltet mir die Treue, ich halte sie Euch! Natürlich werde ich auch über [Facebook](www.facebook.com/cardamonchai), [Twitter](https://twitter.com/Anne_Reko) und [E-Mail](mailto:info@cardamonchai.com) weiterhin erreichbar sein und wer ganz lieb ist, schreibt mir ab dem 15. März eine **Postkarte** an [meine neue Adresse](/impressum), der Kühlschrank in Hamburg ist noch ganz kahl und möchte gerne dekoriert werden!
 
-[_ **Hier gehts zum fünften Teil des Artikels** _](/2015/03/herzlich-willkommen-in-meinem-neuen-weblog/)
+[Hier geht's zum fünften Teil des Artikels](/2015/03/herzlich-willkommen-in-meinem-neuen-weblog/)

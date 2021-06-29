@@ -40,4 +40,4 @@ subTitle: Erinnerungen an den Frühling in England 2009 - Teil 14/17
 
 <Gallery name="flickr/annemevagisseyportmelon2009" />
 
-_Hier geht's zu Teil [15/17](/2009/05/bradstock-19-05-2009/) _
+Hier geht's zu Teil [15/17](/2009/05/bradstock-19-05-2009/)

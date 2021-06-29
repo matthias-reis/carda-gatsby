@@ -80,7 +80,9 @@ Zuerst glaubte ich an einen bösen Scherz, doch es stellte sich ziemlich schnell
 
 ## Wiesenhof wirbt mit dem Tierschutzbund
 
-Wiesenhof wirbt mit dem Deutschen Tierschutzbund? Ich wollte meinen Augen nicht trauen. _"Ganzes Hähnchen frisch, ohne Hals und Innereien 0,49 €/100g Aktionspreis"_ heißt es in der Anzeige.  Und _"Für mehr Tierschutz - Zertifiziert nach den Richtlinien des Deutschen Tierschutzbundes. Das Tierschutzlabel verhilft Millionen von Tieren zu besseren Haltungsbedingungen: Ställe mit Sitzstangen, mehr Platz durch geringeren "Besatz", mehr Zeit zum Heranwachsen und Begrenzung  der Transportdauer auf 4 Stunden"._
+Wiesenhof wirbt mit dem Deutschen Tierschutzbund? Ich wollte meinen Augen nicht trauen.
+
+> "Ganzes Hähnchen frisch, ohne Hals und Innereien 0,49 €/100g Aktionspreis"_ heißt es in der Anzeige.  Und _"Für mehr Tierschutz - Zertifiziert nach den Richtlinien des Deutschen Tierschutzbundes. Das Tierschutzlabel verhilft Millionen von Tieren zu besseren Haltungsbedingungen: Ställe mit Sitzstangen, mehr Platz durch geringeren "Besatz", mehr Zeit zum Heranwachsen und Begrenzung  der Transportdauer auf 4 Stunden".
 
 Nachdem ich den ersten Schock verdaut hatte, begab ich mich zunächst mal auf die Seite des Deutschen Tierschutzbundes und fand folgendes vor:
 
@@ -93,7 +95,7 @@ Nachdem ich den ersten Schock verdaut hatte, begab ich mich zunächst mal auf di
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDAAQRBRIhMRMGImEUQUJRcYGhscH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBQH/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRITH/2gAMAwEAAhEDEQA/AM702CUxM8WxCpCsOEOPgdn9q6FhAskskl4Fa2CkrufYxIBJBIHxUFrKkkg2AgKgIHQNONrE8GmeS9SRoLthsjOMYB5fB45Ptye8HFRb0q1grXemCEgvbvHFJErRqGJAH4hlhnIznuqWtem7uy06G9lhieCZiEKSq+38s7Scf78VoV7q1nq7W9pFptzbyxp4DLIFwS3tGME5xgEnjukjU0ntbaa1llaIbyJIlfAUjOeP14pJ0F6U9KvPHAWMYKhc7dxGfbnk0yCV/pbeV2LnaqDJ6XHQ/uiihLo08JdxWG5dSQYzs775xn+KX/UV1JIJ7iU+RyoJyfuQOaKK2PQs/9k="
 />
 
-_"Mit dem Tierschutzlabel 'Für Mehr Tierschutz' des Deutschen Tierschutzbundes werden Produkte tierischen Ursprungs gekennzeichnet, denen Tierschutzstandards zugrunde liegen, die für die Tiere einen wirklichen Mehrwert an Tierschutz gewährleisten. Die Standards sollen es den Tieren in der Landwirtschaft ermöglichen, ihren artspezifischen Verhaltensweisen und den damit verbundenen Bedürfnissen an ihre Haltungsumgebung nachzukommen. Dies ist durch die gesetzlichen Vorgaben bislang bei Weitem nicht gewährleistet._ ** _Der Deutsche Tierschutzbund steht dafür, jedes einzelne Tier um seiner selbst willen zu schützen. Solange jedoch die Gesellschaft die Zucht, die Haltung und den Tod von Tieren zu Ernährungszwecken als vernünftigen Grund akzeptiert, gilt es, alle Möglichkeiten auszuschöpfen, die Situation der Tiere zu verbessern._ ** _Gestartet wird zunächst mit einem Label für Produkte von Masthühnern und Mastschweinen. Die Kriterien sollen aber langfristig für alle landwirtschaftlich genutzten Tiere erarbeitet werden."_
+> "Mit dem Tierschutzlabel 'Für Mehr Tierschutz' des Deutschen Tierschutzbundes werden Produkte tierischen Ursprungs gekennzeichnet, denen Tierschutzstandards zugrunde liegen, die für die Tiere einen wirklichen Mehrwert an Tierschutz gewährleisten. Die Standards sollen es den Tieren in der Landwirtschaft ermöglichen, ihren artspezifischen Verhaltensweisen und den damit verbundenen Bedürfnissen an ihre Haltungsumgebung nachzukommen. Dies ist durch die gesetzlichen Vorgaben bislang bei Weitem nicht gewährleistet. Der Deutsche Tierschutzbund steht dafür, jedes einzelne Tier um seiner selbst willen zu schützen. Solange jedoch die Gesellschaft die Zucht, die Haltung und den Tod von Tieren zu Ernährungszwecken als vernünftigen Grund akzeptiert, gilt es, alle Möglichkeiten auszuschöpfen, die Situation der Tiere zu verbessern. \_Gestartet wird zunächst mit einem Label für Produkte von Masthühnern und Mastschweinen. Die Kriterien sollen aber langfristig für alle landwirtschaftlich genutzten Tiere erarbeitet werden."
 
 ## Macht der Deutsche Tierschutzbund gemeinsame Sache mit Skandal-Tierfabriken?
 
@@ -125,17 +127,19 @@ Es handelt sich um eine Imagekampagne, mit der man sich von Skandalen aus der Ve
 
 Erst vor kurzem war Wiesenhof das letzte Mal in den Schlagzeilen. Tiere wurden lebendig auf den Müll geworfen. Von Seiten der Tierfabrik kam die Aussage, mehr in Richtung Tierschutz unternehmen zu wollen, doch die Realität sah ganz anders aus, wie dieses Video zeigt, wir erinnern uns:
 
-<YouTube id="z1HgNxk7e0w" />
+**Nachtrag 2021:** Das Video ist leider nicht mehr verfügbar
 
 Auch in den Jahren 2010 - 2012 deckten Tierschützer immer wieder auf, wie die Mitarbeiter in den Wiesenhof-Massentierbetrieben über Leichen gehen:
 
 <YouTube id="Jz00U-yGYtk" />
 
-<YouTube id="HkBqOq9-HDo" />
+Inzwischen hat sich Wiesenhof den Tierschutz einfach kurzerhand mit Hilfe eines Labels "ins Boot"geholt. Die Aussage des Tierschutzbundes hierzu:
 
-Inzwischen hat sich Wiesenhof den Tierschutz einfach kurzerhand mit Hilfe eines Labels "ins Boot"geholt. Die Aussage des Tierschutzbundes hierzu: _"Der Deutsche Tierschutzbund steht dafür, jedes einzelne Tier um seiner selbst willen zu schützen. Solange jedoch die Gesellschaft die Zucht, die Haltung und den Tod von Tieren zu Ernährungszwecken als vernünftigen Grund akzeptiert, gilt es, alle Möglichkeiten auszuschöpfen, die Situation der Tiere zu verbessern."_
+> "Der Deutsche Tierschutzbund steht dafür, jedes einzelne Tier um seiner selbst willen zu schützen. Solange jedoch die Gesellschaft die Zucht, die Haltung und den Tod von Tieren zu Ernährungszwecken als vernünftigen Grund akzeptiert, gilt es, alle Möglichkeiten auszuschöpfen, die Situation der Tiere zu verbessern."
 
-Zudem gibt es sogar Unterstützung von staatlicher Seite: _"Förderung gibt es nur im Rahmen eines vom Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz bewilligten Forschungsprojektes: 'Tierwohllabel - Aufbau eines marktgerechten Tierwohlprogramms in der Schweinefleischkette'. Die Fördermittel werden ausschließlich dafür eingesetzt, um zu erforschen, wie der Einstiegsstandard im Schweinebereich umgesetzt werden kann. Insgesamt ist das Projekt auf 30 Monate ausgelegt. Dem Deutschen Tierschutzbund stehen für die Projektmitarbeit insgesamt 100.000 Euro zur Verfügung."_
+Zudem gibt es sogar Unterstützung von staatlicher Seite:
+
+> "Förderung gibt es nur im Rahmen eines vom Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz bewilligten Forschungsprojektes: 'Tierwohllabel - Aufbau eines marktgerechten Tierwohlprogramms in der Schweinefleischkette'. Die Fördermittel werden ausschließlich dafür eingesetzt, um zu erforschen, wie der Einstiegsstandard im Schweinebereich umgesetzt werden kann. Insgesamt ist das Projekt auf 30 Monate ausgelegt. Dem Deutschen Tierschutzbund stehen für die Projektmitarbeit insgesamt 100.000 Euro zur Verfügung"
 
 Ich weiß nicht, wie ihr das seht, für mich ist es mal wieder ganz klar ein Fall von "Wenn wir ein Etikett drankleben, ist es automatisch weniger schlimm. Oder wie Marcello es heute morgen in seinem Kommentar so treffend ausdrückte _"Es wird alles gut."_
 
@@ -167,87 +171,35 @@ Erst mit dem heutigen Facebook-Beitrag ist der Groschen bei mir hörbar gefallen
 
 Ich habe noch heute Vormittag meine Mitgliedschaft beim Deutschen Tierschutzbund mit den folgenden Worten gekündigt:
 
-_"Hiermit kündige ich meine Mitgliedschaft (Nr. xxxxx) ab sofort, da ich es ethisch nicht vertreten kann, dass Wiesenhof und andere Tierausbeuterbetriebe mit dem Deutschen Tierschutzbund auf ihren Verpackungen werben.  [http://www.tierschutzbund.de/tierschutzlabel.html](http://www.tierschutzbund.de/tierschutzlabel.html)  Für mich war es bisher immer wichtig den Tierschutzbund zu unterstützen, gerade wegen der Shelter etc., doch dies zwingt mich nun zur Kündigung meiner Mitgliedschaft. Meine Spenden werde ich in Zukunft lieber Organisationen zukommen lassen, die sich wirklich um das Wohlergehen von Tieren kümmern und die nicht lobbygetrieben handeln. Ich bitte um eine schriftliche Bestätigung per Mail. Beste Grüße Anne Reis"_
+> "Hiermit kündige ich meine Mitgliedschaft (Nr. xxxxx) ab sofort, da ich es ethisch nicht vertreten kann, dass Wiesenhof und andere Tierausbeuterbetriebe mit dem Deutschen Tierschutzbund auf ihren Verpackungen werben.  [http://www.tierschutzbund.de/tierschutzlabel.html](http://www.tierschutzbund.de/tierschutzlabel.html)  Für mich war es bisher immer wichtig den Tierschutzbund zu unterstützen, gerade wegen der Shelter etc., doch dies zwingt mich nun zur Kündigung meiner Mitgliedschaft. Meine Spenden werde ich in Zukunft lieber Organisationen zukommen lassen, die sich wirklich um das Wohlergehen von Tieren kümmern und die nicht Lobby-getrieben handeln. Ich bitte um eine schriftliche Bestätigung per Mail.
+>
+> Beste Grüße Anne Reis"
 
 Ich denke, dass dem nichts mehr hinzuzufügen ist.
 
 Die liebe Corinna, deren Bekanntschaft ich heute morgen in der Facebook Tofu-Gruppe machen durfte, hat einen Brief aufgesetzt. Ich möchte hiermit jedem ans Herz legen, diesen Brief per E-Mail an den Deutschen Tierschutzbund (kontakt@tierschutzlabel.info) zu schicken und an deren [Facebook-Pinnwand](https://www.facebook.com/tierschutzbund?fref=ts) zu posten, gerne auch in leicht abgewandelter Form und persönlich auf Euch angepasst. Je mehr Briefe und Mails dort eingehen, desto besser. Hier der Brief, Ihr könnt ihn gerne einfach aus meinem Text rauskopieren und weiterverwenden. Bitte gebt ihn weiter und teilt ihn mit so vielen Menschen, wie möglich, damit sie ihn auch an den Tierschutzbund schicken!
 
-<address>Sehr geehrte Damen und Herren,</address>
-
-<address>
-  Dienstags flattert bei mir immer eine Menge Werbung in Haus, aktuell dabei war
-  ein Prospekt von Netto. Üblicherweise überblättere ich den Bereich Fleisch
-  einfach, bin allerdings bei dem Wort Tierschutz, in der Spalte Fleisch, dieses
-  Mal hängen geblieben. Fleisch beim Discounter = Tierschutz? Klingt spannend.
-</address>
-
-<address>
-  Erstaunt stelle ich bei genauerem Hinsehen fest, dass es sich um ein Label
-  handelt, dass ausgerechnet an die Firma Wiesenhof vergeben wurde. Wiesenhof
-  ist nun wirklich nicht für artgerechte Haltung oder besonders guten Umgang mit
-  Tieren bekannt. Der Wiesenhof Skandal, aufgedeckt von SOKO Tierschutz, ging
-  erst vor wenigen Monaten durch die bundesweite Presse und ist somit nicht nur
-  in den einschlägigen Tierschutzkreisen bekannt.
-</address>
-
-<address>
-  Ehrliches Befremden setzte allerdings ein, als ich feststellen musste, dass es
-  sich um ein Label aus Ihrem, wie ich bisher dachte renommierten, Hause
-  handelt. Einen größeren, selbst zugefügten, Imageschaden kann ich mir kaum
-  vorstellen. Falls Sie die oben angesprochenen Bilder noch nicht kennen, sende
-  ich Ihnen gerne Anschauungsmaterial mit:
-  [https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof](https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof)
-</address>
-
-<address>
-  Das es sich bei der Firma Wiesenhof und deren Umgang mit Lebewesen nicht um
-  einen Einzelfall handelt, ist ebenfalls kein Geheimnis.
-</address>
-
-<address>
-  Ich kann selbstverständlich verstehen, dass Tierschutz Geld kostet. Ich kann
-  auch verstehen, dass Sie als große Organisation selbiges dringend benötigen,
-  aber ein Label auf dem "Tierschutz" steht, an Firmen zu verkaufen, die
-  nachweislich und bewusst Tierquälerei betreiben ist wirklich grotesk.
-</address>
-
-<address>
-  In meinen Augen ist es eine Farce auf ein totes Tier "Tierschutz" zu
-  schreiben. Das es grundsätzlich falsch ist Tiere zu töten um diese zu essen,
-  ist ein Grundsatz den ich persönlich vertrete, Ihnen als
-  "Tierschutz"-Organisation jedoch selbstverständlich nicht aufdrängen will.
-  Auch wenn ich dies irgendwie erwartet hätte.
-</address>
-
-<address>
-  Ich weiß nicht genau wie es Ihnen geht, aber wenn ich 4 Stunden am Stück auf
-  engstem Raum stehen muss, ohne was zu trinken und was zu essen, ohne zu wissen
-  warum und was mich erwartet, würde ich mich nicht besonders geschützt fühlen.
-  Und ich behaupte mal das es dem von Ihnen geschütztem Geflügel genauso geht.
-  Von den Schweinen, die übrigens dem Menschen biologisch ähnlicher sind als der
-  Affe und intelligenter als Hunde, spreche ich an dieser Stelle einfach erstmal
-  gar nicht.
-</address>
-
-<address>
-  Entsprechend würde mich eine Stellungnahme Ihrerseits sehr interessieren,
-  wonach das "Tierschutz"-Label vergeben wird. Bekommt dieses jeder der bereit
-  ist die nötige Menge Geld zu bezahlen und interne "Kontrollen" durchführt, ob
-  die Tiere wirklich "nur" 4 Stunden am Stück transportiert werden? Wie werden
-  die Kontrollen durch Sie durchgeführt und durch wen?
-</address>
-
-<address>Mit freundlichen Grüßen</address>
-
-<address>XXX</address>
-
-<address>
-  PS Der Inhalt Ihrer Homepage
-  [http://www.tierschutzlabel.info/](http://www.tierschutzlabel.info/) ist mir
-  bekannt, ich bitte daher um eine persönliche Antwort ohne Standardtext. Vielen
-  Dank.
-</address>
+> Sehr geehrte Damen und Herren,
+>
+> Dienstags flattert bei mir immer eine Menge Werbung in Haus, aktuell dabei war ein Prospekt von Netto. Üblicherweise überblättere ich den Bereich Fleisch einfach, bin allerdings bei dem Wort Tierschutz, in der Spalte Fleisch, dieses Mal hängen geblieben. Fleisch beim Discounter = Tierschutz? Klingt spannend.
+>
+> Erstaunt stelle ich bei genauerem Hinsehen fest, dass es sich um ein Label handelt, dass ausgerechnet an die Firma Wiesenhof vergeben wurde. Wiesenhof ist nun wirklich nicht für artgerechte Haltung oder besonders guten Umgang mit Tieren bekannt. Der Wiesenhof Skandal, aufgedeckt von SOKO Tierschutz, ging erst vor wenigen Monaten durch die bundesweite Presse und ist somit nicht nur in den einschlägigen Tierschutzkreisen bekannt.
+>
+> Ehrliches Befremden setzte allerdings ein, als ich feststellen musste, dass es sich um ein Label aus Ihrem, wie ich bisher dachte renommierten, Hause handelt. Einen größeren, selbst zugefügten, Imageschaden kann ich mir kaum vorstellen. Falls Sie die oben angesprochenen Bilder noch nicht kennen, sende ich [Ihnen gerne Anschauungsmaterial mit](https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof).
+>
+> Das es sich bei der Firma Wiesenhof und deren Umgang mit Lebewesen nicht um einen Einzelfall handelt, ist ebenfalls kein Geheimnis.
+>
+> Ich kann selbstverständlich verstehen, dass Tierschutz Geld kostet. Ich kann auch verstehen, dass Sie als große Organisation selbiges dringend benötigen, aber ein Label auf dem "Tierschutz" steht, an Firmen zu verkaufen, die nachweislich und bewusst Tierquälerei betreiben ist wirklich grotesk.
+>
+> In meinen Augen ist es eine Farce auf ein totes Tier "Tierschutz" zu schreiben. Das es grundsätzlich falsch ist Tiere zu töten um diese zu essen, ist ein Grundsatz den ich persönlich vertrete, Ihnen als "Tierschutz"-Organisation jedoch selbstverständlich nicht aufdrängen will. Auch wenn ich dies irgendwie erwartet hätte.
+>
+> Ich weiß nicht genau wie es Ihnen geht, aber wenn ich 4 Stunden am Stück auf engstem Raum stehen muss, ohne was zu trinken und was zu essen, ohne zu wissen warum und was mich erwartet, würde ich mich nicht besonders geschützt fühlen. Und ich behaupte mal das es dem von Ihnen geschütztem Geflügel genauso geht. Von den Schweinen, die übrigens dem Menschen biologisch ähnlicher sind als der Affe und intelligenter als Hunde, spreche ich an dieser Stelle einfach erstmal gar nicht.
+>
+> Entsprechend würde mich eine Stellungnahme Ihrerseits sehr interessieren, wonach das "Tierschutz"-Label vergeben wird. Bekommt dieses jeder der bereit ist die nötige Menge Geld zu bezahlen und interne "Kontrollen" durchführt, ob die Tiere wirklich "nur" 4 Stunden am Stück transportiert werden? Wie werden die Kontrollen durch Sie durchgeführt und durch wen?
+>
+> Mit freundlichen Grüßen
+>
+> PS: Der Inhalt Ihrer Homepage [http://www.tierschutzlabel.info/](http://www.tierschutzlabel.info/) ist mir bekannt, ich bitte daher um eine persönliche Antwort ohne Standardtext. Vielen Dank.
 
 Vielen Dank für die E-Mail, liebe Corinna!
 
@@ -264,7 +216,9 @@ Matthias S., ebenfalls in der Facebook-Gruppe aktiv, hat vor ein paar Stunden z
 
 Mit PETA habe ich auch Kontakt aufgenommen, ich gebe Euch Bescheid, sobald ich eine Antwort bekomme:
 
-_"Sehr geehrte Damen und Herren, offensichtlich startet Wiesenhof derzeit eine großangelegte Imagekampage zusammen mit dem Tierschutzbund. Hierbei wird Wiesenhof-Quälfleisch (z. B. 49 Cent Hühner) mit dem Logo "Für mehr Tierschutz" gekennzeichnet und so in den Verkauf gegeben. Hierzu gab es auch schon eine Sendung, in der darauf hingewiesen wurde, dass es sich hier um den Betrug von Verbrauchern handelt. Meine Frage wäre nun, ob sich PETA hier schon eingeschaltet, hat, was man machen kann, um diese Misssände aufzudecken und ob es möglich wäre, hier eine Petition etc zu starten? Beste Grüße Anne Reis"_
+> "Sehr geehrte Damen und Herren, offensichtlich startet Wiesenhof derzeit eine großangelegte Image-Kampage zusammen mit dem Tierschutzbund. Hierbei wird Wiesenhof-Quälfleisch (z. B. 49 Cent Hühner) mit dem Logo "Für mehr Tierschutz" gekennzeichnet und so in den Verkauf gegeben. Hierzu gab es auch schon eine Sendung, in der darauf hingewiesen wurde, dass es sich hier um den Betrug von Verbrauchern handelt. Meine Frage wäre nun, ob sich PETA hier schon eingeschaltet, hat, was man machen kann, um diese Misssände aufzudecken und ob es möglich wäre, hier eine Petition etc zu starten?
+>
+> Beste Grüße Anne Reis"
 
 <RemoteImage
   alt={`Wiesenhof`}
@@ -275,7 +229,11 @@ _"Sehr geehrte Damen und Herren, offensichtlich startet Wiesenhof derzeit eine g
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACYQAAICAQQBBAIDAAAAAAAAAAECAwQRAAUSITEGExRRIkEVYYH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACBBExURITFCH/2gAMAwEAAhEDEQA/AKW2+rtqrQ1aUxs1puChYTEQS2O1A/ZznrSN03ura26SaluopQ4y5QIrrgkEuCCVXIIwSvLwCfGkvBcrWasTJUnjhbiomlIV3wG4vhS3WSC2PJP9adb9PQbduFmjDDUngrz/ADGGBKwLhlUfftj7wcZ/3U1cjsllsTpknaZjDatO2+W3iVik8k+YzG464k/kIlKlWXKkdsM51Z/l4btMSC3EY4gSzrKrYH2zLgZ1C+K0m3WbN/Z6kqrCJXIkMptBSwbk2OwoGewcAZ8azr6b245WaPbqlanUjs3o5wUSN2yVb8D0xResgn99aIyBfwgfI62stQzwVUnljrk/JwXVmVgGUFeYJUnlj7JHQ660ncbNaSmrTQ2ZRFyYBrRHLIIKnAGVwSOPjx9aNGkgbmt7a5m+3s1ewErukfx41ULDhwmCFcgqGGR2Qc+RnWGXZY60jTQeynuFSy8GIfhkLzy/54BwM/rH1o0ab4BF+yzyz//Z"
 />
 
-Ich habe natürlich alle wichtigen Links uns Fotos mit angehängt, obwohl ich mir ziemlich sicher bin, dass das Problem dort schon längst auf dem Tisch liegt. Sicher kann ein kleines Licht wie ich nicht viel ausrichten und ein paar Tierschützer, die sich in einer Facebook-Gruppe unterhalten, machen auch nicht viel mehr aus, aber wie hat das Corinna heute so schön gesagt? _"Auch wenn es vielleicht erstmal sinnlos erscheinen mag, finde ich dennoch, dass die merken dürfen, dass es auffällt und Menschen dagegen Sturm laufen!"_ Und dieser Meinung bin ich auch: Selbst wenn wir gegen Windmühlen laufen, immerhin hat jemand mitbekommen, dass wir eine Meinung haben.
+Ich habe natürlich alle wichtigen Links uns Fotos mit angehängt, obwohl ich mir ziemlich sicher bin, dass das Problem dort schon längst auf dem Tisch liegt. Sicher kann ein kleines Licht wie ich nicht viel ausrichten und ein paar Tierschützer, die sich in einer Facebook-Gruppe unterhalten, machen auch nicht viel mehr aus, aber wie hat das Corinna heute so schön gesagt?
+
+> "Auch wenn es vielleicht erstmal sinnlos erscheinen mag, finde ich dennoch, dass die merken dürfen, dass es auffällt und Menschen dagegen Sturm laufen!"
+
+Und dieser Meinung bin ich auch: Selbst wenn wir gegen Windmühlen laufen, immerhin hat jemand mitbekommen, dass wir eine Meinung haben.
 
 Liebe Leute, es ist nicht meine Aufgabe, Euch zu sagen, dass es an der Zeit ist, etwas zu ändern und Zeichen zu setzen, denn jeder muss das für sich entscheiden, aber nach diesen Bildern kann Euch Euch nur eins ans Herz legen:
 
@@ -307,24 +265,26 @@ Hier einige Kommentare, die unter meinem Link zum Artikel auf Facebook aufgetauc
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUAAwIGCP/EAC0QAAICAQMCBQALAAAAAAAAAAECAxEABBIhBTETFEFRcSIkMkNSYWKBobHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAAEH/2gAMAwEAAhEDEQA/AOgtT0vbq38I6aPSud5V5XDGRiSx717V++W6aAEVJBvofdgXXwb/ALwV531TtN5bqenQlojDIoUmmI3cE8GrH5EZYdDDx9W6rR/Uvv8AOaiGcUEZWxoWscW6KCcL+e+J1iTcB5LW8n1SKscURwLAHpkVrHU0h0euaLTp4SSjcam2KSbLXfvhWk6FD9B5SjIygkI5N+veucz6iSvUw5mmjj2KB4ce6zzwL4xjFHvjVhLqkFfZYhSPkVxgDjo2hDWsTA+hEh4w1YkVQoXgCu5/3JHGUu5JXv8AG11/GWYH/9k="
 />
 
-Für mich tun sich gerade ganz neue Abgründe auf. Sicher haben das einige außer mir auch noch nicht gewusst, oder? ODER?!
+Für mich tun sich gerade ganz neue Abgründe auf. Sicher haben das einige außer mir auch noch nicht gewusst, oder?
 
 ## **NACHTRAG (13. AUGUST)**
 
 Inzwischen sind einige Tage ins Land gezogen und ich habe unglaublich viel Feedback zu diesem Artikel bekommen. Danke noch mal an alle, die das Projekt unterstützt haben und unterstützen! Heute ging dann auch die Kündigungsbestätigung vom Deutschen Tierschutzbund ein und ich fass es nicht, was sie mir als "Entschuldigung" vorlegen. Die Damen und Herren polarisieren also ein Wenig. Bezeichnen gequälte Wiesenhofhühner als Ware. Und bedanken sich bei mir, dass ich in der Vergangenheit was für Tiere getan habe. Irgendwie rechnen sie wohl auch nach wie vor damit, dass ich wieder beitrete. Ich bin grade nicht nur ein bisschen aus der Haut gefahren, das dürft Ihr mir glauben. Doch lest selbst:
 
-_Sehr geehrte Frau Reis,_
+> Sehr geehrte Frau Reis,
+>
+> wir bedauern sehr, dass Sie sich vor dem Hintergrund der Vergabe eines Tierschutzlabels durch den Deutschen Tierschutzbund entschlossen haben, unsere Gemeinschaft zu verlassen. Uns ist bewusst, dass dieses Thema sehr stark polarisiert und an grundlegende ethische Fragestellungen über den Umgang mit unseren Mitgeschöpfen rührt. Auch wir haben uns die Entscheidung für das Tierschutzlabel nicht leicht gemacht und daher möchte ich an dieser Stelle nochmals die Hintergründe für diesen Schritt ausführen:
+>
+> Grund für uns überhaupt zu handeln ist, dass die Politik bei dem Mehrheitswunsch der Verbraucher nach Kennzeichnung bisher versagt hat. Wir sehen uns daher vor die Herausforderung gestellt, die Landwirte da abholen zu müssen, wo sie stehen und machbare Lösungen anzubieten. Deshalb haben wir uns auch zu einem  zweistufigen System entschlossen. Das ist sicherlich eine Herausforderung, gerade für den Tierschutz. Aber so lange Fleisch gegessen wird und der Gesetzgeber nicht handelt, müssen wir uns um die Tiere kümmern, die immer noch in tierschutzwidrigen Haltungssystemen leben.
+>
+> Es steht aber außer Zweifel, dass das Tierschutzlabel zu echten Verbesserungen für die Tiere führt. Bereits bei der Einstiegsstufe des zweistufigen Labels liegen die Anforderungen deutlich über den gesetzlichen Regelungen. Entsprechend fordern die Richtlinien des Tierschutzbundes mehr Platz pro Tier, tiergerechtere Stallbeschaffenheit, Beschäftigungs- und Auslaufmöglichkeiten für die Tiere, kürzere Tiertransporte und eine zuverlässige und schnelle Betäubung. Mit tierbezogenen Kriterien wird das Management überprüfbar und Impulse für Verbesserungen gesetzt. Für die großindustrielle Tierhaltung ist das Tierschutzlabel nicht erreichbar, denn es gelten Bestandsobergrenzen und Gentechnik ist langfristig ausgeschlossen. Umfangreiche Zertifizierungs- und unabhängige Kontrollsysteme sichern die Aussagen des Tierschutzlabels ab.
+>
+> Während die Einstiegsstufe einen ersten wichtigen Schritt zu mehr Tierschutz darstellt, entspricht die Premiumstufe den aktuellen Erkenntnissen im Tierschutz und ist damit das Ziel für alle Tiere. Über einen Vertrag und die damit verbundenen Gestaltungsrichtlinien stellen wir sicher, dass das Label nur in Zusammenhang mit tatsächlich geprüften und gelabelten Produkten verwendet wird, das wirkt einem "Green Washing" entgegen. Und wir behalten uns das Recht vor, die üblichen Intensivhaltungen weiterhin zu kritisieren. Weitere Informationen zum Tierschutzlabel finden Sie unter  [http://www.tierschutzlabel.info/home/](http://www.tierschutzlabel.info/home/).
 
-_wir bedauern sehr, dass Sie sich vor dem Hintergrund der Vergabe eines Tierschutzlabels durch den Deutschen Tierschutzbund entschlossen haben, unsere Gemeinschaft zu verlassen. Uns ist bewusst, dass dieses Thema sehr stark polarisiert und an grundlegende ethische Fragestellungen über den Umgang mit unseren Mitgeschöpfen rührt. Auch wir haben uns die Entscheidung für das Tierschutzlabel nicht leicht gemacht und daher möchte ich an dieser Stelle nochmals die Hintergründe für diesen Schritt ausführen:_
-
-_Grund für uns überhaupt zu handeln ist, dass die Politik bei dem Mehrheitswunsch der Verbraucher nach Kennzeichnung bisher versagt hat. Wir sehen uns daher vor die Herausforderung gestellt, die Landwirte da abholen zu müssen, wo sie stehen und machbare Lösungen anzubieten. Deshalb haben wir uns auch zu einem  zweistufigen System entschlossen. Das ist sicherlich eine Herausforderung, gerade für den Tierschutz. Aber so lange Fleisch gegessen wird und der Gesetzgeber nicht handelt, müssen wir uns um die Tiere kümmern, die immer noch in tierschutzwidrigen Haltungssystemen leben._
-
-_Es steht aber außer Zweifel, dass das Tierschutzlabel zu echten Verbesserungen für die Tiere führt. Bereits bei der Einstiegsstufe des zweistufigen Labels liegen die Anforderungen deutlich über den gesetzlichen Regelungen. Entsprechend fordern die Richtlinien des Tierschutzbundes mehr Platz pro Tier, tiergerechtere Stallbeschaffenheit, Beschäftigungs- und Auslaufmöglichkeiten für die Tiere, kürzere Tiertransporte und eine zuverlässige und schnelle Betäubung. Mit tierbezogenen Kriterien wird das Management überprüfbar und Impulse für Verbesserungen gesetzt. Für die großindustrielle Tierhaltung ist das Tierschutzlabel nicht erreichbar, denn es gelten Bestandsobergrenzen und Gentechnik ist langfristig ausgeschlossen. Umfangreiche Zertifizierungs- und unabhängige Kontrollsysteme sichern die Aussagen des Tierschutzlabels ab._
-
-_Während die Einstiegsstufe einen ersten wichtigen Schritt zu mehr Tierschutz darstellt, entspricht die Premiumstufe den aktuellen Erkenntnissen im Tierschutz und ist damit das Ziel für alle Tiere. Über einen Vertrag und die damit verbundenen Gestaltungsrichtlinien stellen wir sicher, dass das Label nur in Zusammenhang mit tatsächlich geprüften und gelabelten Produkten verwendet wird, das wirkt einem "Green Washing" entgegen. Und wir behalten uns das Recht vor, die üblichen Intensivhaltungen weiterhin zu kritisieren. Weitere Informationen zum Tierschutzlabel finden Sie unter  [http://www.tierschutzlabel.info/home/](http://www.tierschutzlabel.info/home/). _
-
-_Sehr geehrte Frau Reis, vielleicht überdenken Sie Ihre Kündigung vor dem Hintergrund der von uns zur Verfügung gestellten Informationen noch einmal. Wir würden uns sehr freuen. Sollten wir nichts mehr von Ihren hören, endet Ihre Mitgliedschaft am 30.09.2014. Aber vielleicht bleiben Sie im Kampf doch an unserer Seite?_
-
-_Anderenfalls danken wir Ihnen für die bisherige Unterstützung und Ihr Engagement für die Tiere und verbleiben_
-
-_mit freundlichen Grüßen_
+> Sehr geehrte Frau Reis,
+>
+> vielleicht überdenken Sie Ihre Kündigung vor dem Hintergrund der von uns zur Verfügung gestellten Informationen noch einmal. Wir würden uns sehr freuen. Sollten wir nichts mehr von Ihren hören, endet Ihre Mitgliedschaft am 30.09.2014. Aber vielleicht bleiben Sie im Kampf doch an unserer Seite?
+>
+> Anderenfalls danken wir Ihnen für die bisherige Unterstützung und Ihr Engagement für die Tiere und verbleiben
+>
+> Mit freundlichen Grüßen

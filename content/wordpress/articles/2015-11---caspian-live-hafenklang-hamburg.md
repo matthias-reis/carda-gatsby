@@ -47,4 +47,4 @@ Da ich gestern bewusst auf die Kameraschlepperei verzichtet habe, um einen mögl
 
 Die komplette Session könnt Ihr Euch übrigens [hier herunterladen](http://audiotree.tv/session/caspian/).
 
-Ihr liebt Mark Lanegan? [Hier gehts zu seinem Konzert im Freiheiz](/2015/03/mark-lanegan-live-freiheiz-muenchen/).
+Ihr liebt Mark Lanegan? [Hier geht's zu seinem Konzert im Freiheiz](/2015/03/mark-lanegan-live-freiheiz-muenchen/).

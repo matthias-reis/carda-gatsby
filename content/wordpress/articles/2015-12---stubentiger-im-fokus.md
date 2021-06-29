@@ -47,4 +47,4 @@ Weil die beiden Stubentiger so toll posiert haben, habe ich[^2] auch gleich ein 
 [^1]: [Sanni bei Instagram](https://www.instagram.com/sannialejo/)
 [^2]: [Ich bei Instagram](https://www.instagram.com/anne_reko/)
 
-[Hier gehts zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
+[Hier geht's zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)

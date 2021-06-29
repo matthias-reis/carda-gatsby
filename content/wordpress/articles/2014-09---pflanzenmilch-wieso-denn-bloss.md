@@ -54,7 +54,7 @@ month: '09'
 
 ## Von besamten Kühen und einsamen Kälbchen
 
-**_ [Hier gehts zu Teil 4 des Artikels](/2014/08/vitamin-b12-mythos-und-wahrheit/) _ Veganer\*innen essen nicht nur kein Fleisch und keine Eier, verzichten auf Echtleder, Wolle und Honig, sie nehmen auch keine Milchprodukte zu sich. Aber warum denn eigentlich?**
+**[Hier geht's zu Teil 4 des Artikels](/2014/08/vitamin-b12-mythos-und-wahrheit/) Veganer\*innen essen nicht nur kein Fleisch und keine Eier, verzichten auf Echtleder, Wolle und Honig, sie nehmen auch keine Milchprodukte zu sich. Aber warum denn eigentlich?**
 
 "Das mit dem Fleisch kann ich ja noch ansatzweise verstehen, aber auf Milch zu verzichten, wär' mir echt zu krass!" - So oder so ähnlich formuliert, hört oder liest man diesen Satz als Veganer\*in ständig.
 
@@ -396,20 +396,7 @@ Die Kälber in den Iglus waren alle für die Mast/den Schlachter vorgesehen, bev
   ]}
 />
 
-[_ **Hier gehts zu Teil 6 des Artikels** _](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-
-## Inhaltsverzeichnis "10 Fakten über Veganismus"
-
-1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
-1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
-1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
-1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
-1.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
-1.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
-1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
+[Hier geht's zu Teil 6 des Artikels](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
 
 ## Links und Quellen
 

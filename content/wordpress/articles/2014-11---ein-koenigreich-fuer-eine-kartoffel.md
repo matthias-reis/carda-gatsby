@@ -40,20 +40,20 @@ errors: {}
 subTitle: Auflauf mit Pastinaken und Kartoffeln
 ---
 
-<RemoteImage
-  alt={`Kartoffel`}
-  size="medium"
-  title={` Auflauf mit Pastinaken und Kartoffeln`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf-12__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf-12__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUHAQT/xAAsEAABBAECBQMCBwAAAAAAAAABAgMEEQUAIQYSEzFRIjJBFHEVQlKBocHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQGBf/EACERAAEEAQQDAQAAAAAAAAAAAAEAAgMREgRBUYEUMfCR/9oADAMBAAIRAxEAPwDSuIsoxw7hUylNB1xbqGGGQeXqLUaAvwNyfto5kMhxPLyTuOitxY0pAtTYfbTQ881kkbHx20QEyRls/Bk5GcS4w4FoCiKQbG4HavjbV/Iu5tD0LqNASjKJbWw2hXVbr2kH1lVE2U0NRbqhIFAne1XNhdI3Nxq/SJ5uHKmOMCQ9Mmz3ASlsJU553G52oXehrrKkOLQv0qSSCkiiD41p2ecVAccyeRVjYqWkdfqrfSFoeSRsUNmxVVyiySe+snk5jiGfJdmOxkpckLLqkg8oBUbIr4760tFK+UHgJLWxRxEVv2k8l6aem+3mTEgbF2I8OZt6j2rvR+Rdagz+KMkMi4nDyTjAV+p9lxS1qT8j1Xt22A+NQUZ5yldXGuyOb8ypHLY8+0nXlelyH3lKZgQ499yt1xf9jf8AbTfiRk5OaPuee0sNVIG4NJr78VGbCgy5bcl1T7zuxcdeXzKdV+o/fVMzU2dzowtrIKbcqdyhFWlhgD+dc/Cpyt/qMlvv7x/ujhoqiUA5E3S//9k="
-/>
-
 **Wie schon [berichtet](/2014/11/and-the-nominees-are/), geht für mich zur Zeit nichts über einen leckeren Kartoffelauflauf. Deshalb kommt der auch in den verschiedensten Variantionen bei uns auf den Tisch. Zuletzt habe ich ein Rezept mit Pastinaken und selbst gemachtem veganem "Gratinierkäse" kreiert.**
 
 ## Die Kartoffel - Eine wunderbare Knolle
 
 Da ich die einzelnen Schritte fotografiert habe und ich es für eine Verschwendung halte, die einfach nur in [Instagram](http://instagram.com/anne_reko) zu teilen, habe ich es aufgeschrieben. Wenn Ihr Euch an die Mengenangaben haltet, reicht der Auflauf gut für 2 Personen, eine Person hat am nächsten Tag noch ein schönes Mittagessen (lässt sich prima aufwärmen). Ich wünsche Euch viel Spaß beim Nachkochen.
+
+<RemoteImage
+  alt={`Kartoffel`}
+  size="full"
+  title={` Auflauf mit Pastinaken und Kartoffeln`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf-12__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf-12__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUHAQT/xAAsEAABBAECBQMCBwAAAAAAAAABAgMEEQUAIQYSEzFRIjJBFHEVQlKBocHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQGBf/EACERAAEEAQQDAQAAAAAAAAAAAAEAAgMREgRBUYEUMfCR/9oADAMBAAIRAxEAPwDSuIsoxw7hUylNB1xbqGGGQeXqLUaAvwNyfto5kMhxPLyTuOitxY0pAtTYfbTQ881kkbHx20QEyRls/Bk5GcS4w4FoCiKQbG4HavjbV/Iu5tD0LqNASjKJbWw2hXVbr2kH1lVE2U0NRbqhIFAne1XNhdI3Nxq/SJ5uHKmOMCQ9Mmz3ASlsJU553G52oXehrrKkOLQv0qSSCkiiD41p2ecVAccyeRVjYqWkdfqrfSFoeSRsUNmxVVyiySe+snk5jiGfJdmOxkpckLLqkg8oBUbIr4760tFK+UHgJLWxRxEVv2k8l6aem+3mTEgbF2I8OZt6j2rvR+Rdagz+KMkMi4nDyTjAV+p9lxS1qT8j1Xt22A+NQUZ5yldXGuyOb8ypHLY8+0nXlelyH3lKZgQ499yt1xf9jf8AbTfiRk5OaPuee0sNVIG4NJr78VGbCgy5bcl1T7zuxcdeXzKdV+o/fVMzU2dzowtrIKbcqdyhFWlhgD+dc/Cpyt/qMlvv7x/ujhoqiUA5E3S//9k="
+/>
 
 ## Benötigt wird
 

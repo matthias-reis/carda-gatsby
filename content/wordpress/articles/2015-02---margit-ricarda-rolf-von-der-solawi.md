@@ -126,7 +126,7 @@ Ich habe mich mit Margit Ricarda Rolf, einer der Gründerinnen unterhalten. Sie 
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwQF/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDBAURAAYSITETFEEiUYEHMmFxsf/EABcBAQEBAQAAAAAAAAAAAAAAAAACAwX/xAAiEQACAQMEAgMAAAAAAAAAAAABAgADBBESEzFBIVGB0eH/2gAMAwEAAhEDEQA/AJ5tII0EwCVErRcKlYPUK+qEbP1H5wAcYx8f1qzWuOGpKNBRQRVuTIQrkEjzwAUgDBAII7yM6Sv0+2hWX316m3zoaSlLBGchvcuv1CNfkDx/HjWQ1U9xm9OnK09UrKUbsYIPg41w7i6dH0Bse/2Y06W4RmMlPtW1Xb3JorhPMrx+69OFV5wl8n6MEAHOej9tJ2/DDt5hZ6WKF5qqhheZImZPbvjK8wc83wSxwVGSDjXS2XZrttzcDV9xqqf2ZRzVVSkRRLFx/dxPk/7+NLm+7fc6jclfdPRDwVLibmr5AVulPeDjrzjGoZwFKEhuPv4MVae3grNXZO9pLFSxUiuYoXyUeFQckntgM+TjvVTtlqtW56EV1vbjeJypWKSpVBPIWGVK/DBeTdddfnRo1NWxobhqlfJ5jWchcxc3JfbhPQUVMKaOGjaIjhCCyysjFSGySTxGMqes9/bSTc6gxmFLHWVVNDMrevSohenVs+EQ5IHjIU/ORo0aWo0OQvA66hiTP//Z"
 />
 
-**Ricarda:** Es werden zwischen \_\_\_\_ 11 und 13 Personen sein.
+**Ricarda:** Es werden zwischen elf und 13 Personen sein.
 
 **Anne:** Hattest du früher schon mit Landwirtschaft zu tun?
 
@@ -272,7 +272,7 @@ Ich habe mich mit Margit Ricarda Rolf, einer der Gründerinnen unterhalten. Sie 
 
 **Anne:** Dann halte mich auf jeden Fall auf dem Laufenden!
 
-_Wer sich f_ _ü_ _r das Leben und Arbeiten in der Hamburger SoLaWi interessiert, kann zu den Planungstreffen kommen, sie finden jeden 1. und 3. Dienstag im Monat im_ [_Happenpappen_](http://www.happenpappen.de) _in Hamburg statt,_ [_Anmeldung_](https://www.facebook.com/groups/720133451413309/?fref=ts) _ist erbeten, da die Teilnehmerzahl begrenzt ist._
+Wer sich für das Leben und Arbeiten in der Hamburger SoLaWi interessiert, kann zu den Planungstreffen kommen, sie finden jeden 1. und 3. Dienstag im Monat im [_Happenpappen_](http://www.happenpappen.de) in Hamburg statt, [_Anmeldung_](https://www.facebook.com/groups/720133451413309/?fref=ts) ist erbeten, da die Teilnehmerzahl begrenzt ist.
 
 **Quellen:**
 

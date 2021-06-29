@@ -58,7 +58,7 @@ year: '2014'
 month: '08'
 ---
 
-** [_Hier gehts zu Teil 3 des Artikels_](/2014/08/blutige-zahlen/) Dass Veganer\*innen einfach gesünder leben, dies aber häufig von Nicht-Veganer\*innen angezweifelt wird, habe ich ja in [Teil 1](/2014/07/10-fakten-uber-vegane-ernahrung/) und [Teil 2](/2014/08/ich-war-so-mude/) meiner 10 Fakten bereits "kurz angerissen". In meinem heutigen Artikel dreht sich alles um ein heiß diskutiertes B-Vitamin, bei dem die Zweifel sogar häufig "aus den eigenen Reihen" kommen. Vitamin B<small>12</small> - Was ist das eigentlich und wozu brauche ich es?**
+**[Hier geht's zu Teil 3 des Artikels](/2014/08/blutige-zahlen/) Dass Veganer\*innen einfach gesünder leben, dies aber häufig von Nicht-Veganer\*innen angezweifelt wird, habe ich ja in [Teil 1](/2014/07/10-fakten-uber-vegane-ernahrung/) und [Teil 2](/2014/08/ich-war-so-mude/) meiner 10 Fakten bereits "kurz angerissen". In meinem heutigen Artikel dreht sich alles um ein heiß diskutiertes B-Vitamin, bei dem die Zweifel sogar häufig "aus den eigenen Reihen" kommen. Vitamin B<small>12</small> - Was ist das eigentlich und wozu brauche ich es?**
 
 ## Alles über Vitamin B<small>12</small>
 
@@ -158,21 +158,9 @@ Welcher Fleischesser kann das von sich sagen? Dass er sich mit jedem lebenswicht
 
 Eine ganz wundervolle Glosse zum Thema Vitamin B<small>12</small>-Zufuhr habe ich übrigens vor Kurzem auf der Seite des [Graslutschers](http://graslutscher.de/unnaturliches-vitamin-b12-from-hell/) entdeckt. Absolute Leseempfehlung meinerseits!
 
-[_ **Hier gehts zu Teil 5 des Artikels** _](/2014/09/pflanzenmilch-wieso-denn-blos/)
+[Hier geht's zu Teil 5 des Artikels](/2014/09/pflanzenmilch-wieso-denn-blos/)
 
 ## Quellen
 
 _ [Deutsche Gesellschaft für Ernährung](http://www.dge.de), [Wikipedia](https://de.wikipedia.org/wiki/Cobalamine), [VEBU](https://vebu.de/gesundheit/naehrstoffe/vitamin-b12), [gesundheit.de](http://www.gesundheit.de/ernaehrung/naehrstoffe/vitamine/vitamin-b12-cobalamin), [nährwertrechner.de](http://www.naehrwertrechner.de), [yoga-vidya.de](http://www.yoga-vidya.de/vegetarisch-leben/vegetarismus/formen-des-vegetarismus.html#c35494) _
 
-## Inhaltsverzeichnis "10 Fakten über Veganismus"
-
-1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
-1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
-1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
-1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
-1.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
-1.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
-1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)

@@ -56,7 +56,7 @@ month: '10'
 
 ## Von gebrochenen Knochen und Lebendrupf
 
-_ ** [Hier gehts zu Teil 5 des Artikels](/2014/09/pflanzenmilch-wieso-denn-blos/) ** _ ** Einige Tage sind vergangen, seit der letzte Teil meiner Serie "10 Fakten über Veganismus" erschienen ist. Hier ist nun Teil 6 für Euch.**
+**[Hier geht's zu Teil 5 des Artikels](/2014/09/pflanzenmilch-wieso-denn-blos/) Einige Tage sind vergangen, seit der letzte Teil meiner Serie "10 Fakten über Veganismus" erschienen ist. Hier ist nun Teil 6 für Euch.**
 
 Vegan ist ein Prozess. Zu Beginn meiner Serie "Zehn Fakten über Veganismus" trug diese noch den Titel "10 Fakten über vegane Ernährung". Natürlich ist das Thema aber viel weitgreifender und betrifft nicht nur die Ernährung.
 
@@ -219,8 +219,6 @@ Häufig kommt es auch zu Tritten und Schlägen mit den Schermaschinen.
 
 Im größten Wollexportland der Welt Australien (75 Millionen Schafe) wird bei der Schafschur besonders kaltblütig vorgegangen. Videos zeigen, wie sich die Scherer auf den Hals der Tiere stellen, ihnen ins Gesicht schlagen und sie stark verletzen.
 
-<YouTube id="OKNGyUG6XB0?rel=0" />
-
 Merinoschafe wurden faltig gezüchtet, um noch mehr Wolle zu gewinnen. Durch die Massen an Wolle sterben diese Tiere in den Sommermonaten oft an Überhitzung.
 
 ### Verstümmelung beim Mulesing
@@ -303,22 +301,9 @@ Ich hoffe sehr, dass hier bald ein Umdenken erfolgt und nach und nach immer weni
 
 Immerhin haben in den letzten Jahren schon mal einige Hersteller zumindest Angora und/oder Mulesing-Wolle aus ihren Kollektionen verbannt. Ein kleiner Wermutstropfen, oder der erste Schritt in eine tierleidfreie Zukunft?
 
-Schwer zu sagen, wenn man derzeit die Kunstfell-Kragen, -Schals und \-Mützenbommel sieht, die leider in den seltensten Fällen auch aus Kunststoff bestehen, doch dazu mehr im achten Teil meiner Serie...
+Schwer zu sagen, wenn man derzeit die Kunstfell-Kragen, -Schals und \-Mützenbommel sieht, die leider in den seltensten Fällen auch aus Kunststoff bestehen, doch dazu mehr im achten Teil meiner Serie.
 
-[_ **Hier gehts zu Teil 7 des Artikels** _](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-
-## Inhaltsverzeichnis "10 Fakten über Veganismus"
-
-1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
-2.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
-3.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
-4.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
-5.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
-6.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-7.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-8.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
-9.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
-10. [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
+[Hier geht's zu Teil 7 des Artikels](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
 
 ## Quellen
 

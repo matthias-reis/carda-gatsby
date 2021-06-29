@@ -224,7 +224,7 @@ Natürlich könnt Ihr überweisen. Sendet Euer Geld bitte an folgendes Konto
 
 Den Amazon-Wunschzettel sowie alle Infos, wie Ihr mit Sachspenden am besten verfahrt und wie Ihr sonst noch helfen könnt, [wird unter diesem Link genau erklärt](http://www.tiertafelhamburg.de/HelfenSieuns).
 
-[**Hier gehts zu Teil 2/2 des Interviews**](/2017/11/puss-in-boots-animal-rescue-and-adoption/)
+[Hier geht's zu Teil 2/2 des Interviews](/2017/11/puss-in-boots-animal-rescue-and-adoption/)
 
 Fotos: Mit freundlicher Genehmigung von Kara Schott
 

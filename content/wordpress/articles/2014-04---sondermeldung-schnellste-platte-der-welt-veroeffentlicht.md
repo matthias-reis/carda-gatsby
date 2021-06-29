@@ -44,18 +44,18 @@ subTitle: Jack White setzt noch eins obendrauf!
 
 > **Nachtrag** zu meinem heutigen Artikel über Jacks neue Single "High Ball Stepper"
 
+**Bereits vor ein paar Stunden [titelte ich mit Jack White](/2014/04/jack-white-stellt-neuen-song-vor/). Und was macht der werte Herr? Das, was er immer tut und was wir alle von ihm gewohnt sind: Er setzt noch eins obendrauf!**
+
+Es ist ihm gelungen, beim Record Store Day einen Rekord aufzustellen und in nur 4 Stunden eine neue Single, die schnellste Platte der Welt, nicht nur aufzunehmen, sondern auch noch pressen zu lassen und auf den Markt zu bringen.
+
 <RemoteImage
   alt={`Bild: Interview Magazine That Eric Alper`}
-  size="medium"
+  size="full"
   title={`Bild: Interview Magazine That Eric Alper`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_jack-white-interview-magazine-02-700x904__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_jack-white-interview-magazine-02-700x904__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABkDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAAyEAABAwIFAgQBDQAAAAAAAAABAgMEBREABhIhMRMUByJRYdEIFSUyQUJSU1WSk6LB/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUCA//EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEERIhYf/aAAwDAQACEQMRAD8ARa5mGLRqEG2qf9IKcumSVAJU2pAGjRfkEE6trAkb7WEN5pzk1Rnaw6wZFCdmjqOyoSXo/caLWuoc2A4I9+cd80Ro02nx25VRRBbajrWm41dy+VeRJJ+pZKtz6J98VHKBYmfJ4fpb9WqaYqqbJkulEZgstuIWbslwpJKlrWhQ31bbEcYp5DP3qBpVOYj5Yr0evxLOQY8eZFI6yo+yXUm2myOAb3uR640dsj8hX7DgF4UqiMUqcQ2hc6deOS6N2WgQdSN9l3sLjix9cG7n8f8Ac/HDcZmZATC3AK5Ak3rC3qxZSS2oLWstNJ4QB9hPrxhwy9WUjw3XCiw0u5gZQ9FaAQojpLuvuVJHl6jYLrYURqTqBBGnCXlqPUK7mun0ejobU/PeDLKXFFKRf7yjuQAASedhi054yDk7JHhtLRWqs3U85us2DcWodMJUpQHlZBBLaRsVKBJseLi013Un30xq1sB8kloj1QyhEj1RblLkMySSIy5SHHgE7XUlCipv21c24w6fOlP/AFCnfyH44jU14KbQyz5WmweBa5JJ/wBtjHY46VZRrGgJmzGFh2TP/9k="
 />
-
-**Bereits vor ein paar Stunden [titelte ich mit Jack White](/2014/04/jack-white-stellt-neuen-song-vor/). Und was macht der werte Herr? Das, was er immer tut und was wir alle von ihm gewohnt sind: Er setzt noch eins obendrauf!**
-
-Es ist ihm gelungen, beim Record Store Day einen Rekord aufzustellen und in nur 4 Stunden eine neue Single, die schnellste Platte der Welt, nicht nur aufzunehmen, sondern auch noch pressen zu lassen und auf den Markt zu bringen.
 
 Das Ganze ging so schnell, dass ich die VÖ sogar vorgestern beim Durchstöbern der [Record Store Day Liste](http://www.recordstoredaygermany.de/exklusive-releases/exklusive-releases-2014/) vor lauter Aufregung komplett übersehen habe. Auch deshalb nun mein Nachtrag.
 

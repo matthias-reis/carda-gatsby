@@ -81,4 +81,4 @@ Und dann tanzen sie zu zwein über Stock und über Stein. Jede Maus im Mauseloch
 
 Das nächste Mal zeigt sich dann auch Kater Oskar wieder...
 
-[Hier gehts zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
+[Hier geht's zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
