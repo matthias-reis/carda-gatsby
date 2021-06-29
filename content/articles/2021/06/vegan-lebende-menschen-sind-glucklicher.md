@@ -1,36 +1,35 @@
 ---
 date: 2021-06-08T13:32:42+02:00
-labels:
-- Achtsamkeit
-- Ernährung & Gesundheit
-- Fröhlichkeit
-- Glück
-- Tracking Happiness
-- Veganer
-- Veganismus
-- Zufriedenheit
-language: de
 slug: vegan-lebende-menschen-gluecklicher
-typeName: ''
+typeName: ""
 title: Vegan lebende Menschen sind glücklicher
 subTitle: US-Studie liefert spannende Fakten
 seoTitle: Vegan lebende Menschen sind glücklicher – US-Studie deckt auf
-ogTitle: ''
-description: Vegan lebende Menschen sind offenbar glücklicher, als Menschen, die regelmäßig
-  Fleisch essen. Das geht aus einer Studie hervor.
-excerpt: 'Eine Studie, für die mehr als 11.000 Amerikaner⋆innen befragt wurden, bringt
-  es jetzt ans Tageslicht: Vegan lebende Menschen sind offenbar glücklicher, als Menschen,
-  die regelmäßig tierische Produkte konsumieren.'
-image: "/img/veganer-anne-reis-rock-n-roll-vegan-1.jpg"
-copyright: ''
-ogImage: "/img/veganer-anne-reis-rock-n-roll-vegan-4.jpg"
-focusKeyword: Vegan lebende Menschen
+ogTitle: ""
+description: Vegan lebende Menschen sind offenbar glücklicher, als Menschen, die
+  regelmäßig Fleisch essen. Das geht aus einer Studie hervor.
+excerpt: "Eine Studie, für die mehr als 11.000 Amerikaner⋆innen befragt wurden,
+  bringt es jetzt ans Tageslicht: Vegan lebende Menschen sind offenbar
+  glücklicher, als Menschen, die regelmäßig tierische Produkte konsumieren."
+image: /img/veganer-anne-reis-rock-n-roll-vegan-1.jpg
+ogImage: /img/veganer-anne-reis-rock-n-roll-vegan-4.jpg
+labels:
+  - Achtsamkeit
+  - Ernährung & Gesundheit
+  - Fröhlichkeit
+  - Glück
+  - Tracking Happiness
+  - Veganer
+  - Veganismus
+  - Zufriedenheit
 advertisement: false
+copyright: ""
+focusKeyword: Vegan lebende Menschen
 affiliate: false
-languageLink: ''
-
+language: de
+languageLink: ""
 ---
-**Eine Studie, für die mehr als 11.000 Amerikaner⋆innen befragt wurden, bringt es jetzt ans Tageslicht: Veganerinnen sind offenbar glücklicher, als Menschen, die regelmäßig tierische Produkte konsumieren. Außerdem ist es bei glücklichen Menschen wahrscheinlicher, dass sie sich für den veganen Lebensstil entscheiden.**
+**Eine Studie, für die mehr als 11.000 Amerikaner⋆innen befragt wurden, bringt es jetzt ans Tageslicht: Veganer⋆innen sind offenbar glücklicher, als Menschen, die regelmäßig tierische Produkte konsumieren. Außerdem ist es bei glücklichen Menschen wahrscheinlicher, dass sie sich für den veganen Lebensstil entscheiden.**
 
 Veganer⋆innen sind offenbar nicht nur glücklicher, als Fleischesser⋆innen, sie sind auch insgesamt beliebter, als viele bisher vermutet haben. Das geht aus der kürzlich von Tracking Happiness veröffentlichten Studie hervor.
 
