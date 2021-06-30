@@ -93,7 +93,6 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
   }
 
   for (const label of Object.values(labels)) {
-    console.log('LABEL:', label.slug, label);
     const path = getPath(label);
 
     // ONE PAGE FOR EACH LABEL
