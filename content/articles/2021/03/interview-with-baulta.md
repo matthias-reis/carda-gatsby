@@ -34,7 +34,7 @@ Of course, we also talked about the current worldwide situation. Esa (drums), Ja
 
 **Janne:** So far, Baulta members have remained healthy, and it is natural for us Finns to be in our own circumstances. Frustration begins to show in infections, and problems with vaccinations cause unnecessary politicking.
 
-**Anne:** You've just released your brand new album, "[Another Second Chance](/2021/03/another-second-chance/)", which for me is one of the albums of the year 2021 so far. So: congratulations! Are you happy with the outcome of your work?
+**Anne:** You've just released your brand new album, "[Another Second Chance](/2021/03/baulta-another-second-chance-en)", which for me is one of the albums of the year 2021 so far. So: congratulations! Are you happy with the outcome of your work?
 
 ## "We are happy with the new album"
 
@@ -55,7 +55,7 @@ We met Xavi Forne, aka Error!design, at DUNK!festival 2019 and thought about col
 
 **Matti:** More than happy!
 
-**Janne:** "[Another Second Chance](/2021/03/another-second-chance/)" was the first album of this line-up (Iiro, Matti, Esa and Janne). The ensemble and the playing chemistry were a complete success, so YES!
+**Janne:** "[Another Second Chance](/2021/03/baulta-another-second-chance-en)" was the first album of this line-up (Iiro, Matti, Esa and Janne). The ensemble and the playing chemistry were a complete success, so YES!
 
 ## Baulta in the studio
 
@@ -87,7 +87,7 @@ We met Xavi Forne, aka Error!design, at DUNK!festival 2019 and thought about col
 
 **Iiro:** We had member changes during the past years, and I think when Esa (drums) and Janne (bass) joined the band, something extraordinary happened. These guys understood what these songs needed rhythmically and what it takes to get these songs better. We played a lot together and turned these songs upside down and not rushed into the studio. One big part was that the drums and bass were the centres of these songs, and we didn't record too many guitar layers. Lesson learned, less is more.
 
-We also recorded synths and pianos for the first time with our mixing engineer Tuomas Kokko. That was a rewarding process that gave this record its distinctive sound. This time the mixing and mastering process was easier because we knew how we wanted "[Another Second Chance](/2021/03/another-second-chance/)" to sound. Last time we struggled, and the red line was thinner.
+We also recorded synths and pianos for the first time with our mixing engineer Tuomas Kokko. That was a rewarding process that gave this record its distinctive sound. This time the mixing and mastering process was easier because we knew how we wanted "[Another Second Chance](/2021/03/baulta-another-second-chance-en)" to sound. Last time we struggled, and the red line was thinner.
 
 ## "The songs got many 'second chances'"
 
@@ -199,7 +199,7 @@ It's like you said, being in a parallel universe. Post-rock isn't such a promine
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIEAwUI/8QAJhAAAgEDAwMEAwAAAAAAAAAAAQIDAAQREiExBUFhExQiUXGhsf/EABgBAQADAQAAAAAAAAAAAAAAAAIAAwQF/8QAIREAAgECBgMAAAAAAAAAAAAAAQIAAxIEESEiMdFBUaH/2gAMAwEAAhEDEQA/APL4XamjXVIq77nG1bWULXc6wx6dTd2OAPJNMLRws0msYhfSWT5LzjIPcZqgsAcjOmlFmAYDTrU/I3UrGSxaD1NBWaP1E0tnbJH9BrnyCruoXFxM1st7lTBCIkGN9GSw/bGopWQn4DA81Kd2W7mDE2Xm3QevM0t5vbTLIpz4+/zVE97G9vPGoZA5VkVTsME8jjvzRRSKAnMwDEuilBx2JLJcB4FV0zKDjX3x9VOSDxRRTAA4mepUZzun/9k="
 />
 
-**Iiro:** I love post-rock, instrumental, progressive music and ambient stuff all around. The first real wakenings with post-type things were when I discovered The Verve and the old stuff for them. Nick McCabe's guitar playing with delayed guitars and lush reverb sounds was the thing. Then came Radiohead, and after that, I discovered Sigur Rós and [Mogwai](/2021/03/as-the-love-continues-mogwai/) in the 90s.
+**Iiro:** I love post-rock, instrumental, progressive music and ambient stuff all around. The first real wakenings with post-type things were when I discovered The Verve and the old stuff for them. Nick McCabe's guitar playing with delayed guitars and lush reverb sounds was the thing. Then came Radiohead, and after that, I discovered Sigur Rós and [Mogwai](/2021/03/as-the-love-continues-mogwai-en/) in the 90s.
 
 In the early years of Baulta, we listened to a lot of Oceansize. I love to listen to and discover great new music and bands in this genre in these recent years. Meniscus, Tangled Thoughts of Leaving, Spoiwo, Bruit, Silent Whale Becomes a Dream, Jakob, 65daysofstatic, Tides of Man, Caspian etc. They have put this genre to a new level with their ability to break the boundaries and create unique sound and melodies with great production.
 
@@ -209,7 +209,7 @@ In the early years of Baulta, we listened to a lot of Oceansize. I love to liste
 
 **Janne:** Huh, there are so many. Most recently, I have been impressed with the Leprous-band.
 
-**Esa:** Wow, that is a tricky question. I listen to a lot of different kinds of music and try to be as genre-neutral as possible. My playlist contains anything from aggressive hardcore and thrash metal to Finnish country ballads of the '60s. I share the love for Leprous with Janne. They have totally been a massive influence when thinking about the more aggressive and complex grooves we've juggled. I find Anderson Paak to be one of the most inspirational artists of our time. And when talking about the post-scene, I did listen to a lot of Astrosaur, Tides of Man and Old Solar when recording "[Another Second Chance](/2021/03/another-second-chance/)". The album "( )" by Sigur Rós is one of my all-time favourites.
+**Esa:** Wow, that is a tricky question. I listen to a lot of different kinds of music and try to be as genre-neutral as possible. My playlist contains anything from aggressive hardcore and thrash metal to Finnish country ballads of the '60s. I share the love for Leprous with Janne. They have totally been a massive influence when thinking about the more aggressive and complex grooves we've juggled. I find Anderson Paak to be one of the most inspirational artists of our time. And when talking about the post-scene, I did listen to a lot of Astrosaur, Tides of Man and Old Solar when recording "[Another Second Chance](2021/03/baulta-another-second-chance-en/)". The album "( )" by Sigur Rós is one of my all-time favourites.
 
 ## "We are working on new songs"
 
@@ -223,7 +223,7 @@ In the early years of Baulta, we listened to a lot of Oceansize. I love to liste
 
 **Esa:** Creating new music, jamming at our rehearsal place and challenging ourselves to do it better than ever. Hopefully, lots of live gig action when it is possible again one day.
 
-[You can read my review on Baulta's current album "Another Second Chance" here](/2021/03/another-second-chance/).
+[You can read my review on Baulta's current album "Another Second Chance" here](2021/03/baulta-another-second-chance-en/).
 
 ## Baulta – "Third"
 

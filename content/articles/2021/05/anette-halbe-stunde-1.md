@@ -81,7 +81,7 @@ languageLink: '/2021/05/magnus-josefsson-anette-halbe-stunde'
 
 The last thing I want is an identity. It excludes you from lots of other things and people. I really believe that identity often becomes people's absolute greatest enemy and problem.
 
-**Anne:** [I've talked to Belinda and Justin from Crippled Black Phoenix about the combination of veganism and music](/2020/12/crippled-black-phoenix-interview/). They told me that they are using their music to transport the message and fight cruelty and exploitation against animals. Can you imagine doing that too? Or have you done it before?
+**Anne:** [I've talked to Belinda and Justin from Crippled Black Phoenix about the combination of veganism and music](/2020/12/crippled-black-phoenix-interview-en/). They told me that they are using their music to transport the message and fight cruelty and exploitation against animals. Can you imagine doing that too? Or have you done it before?
 
 **Magnus:** No, I would not do that. I'm not a political manifesto, and I think it's to diminish oneself and one's music if one pursues topics like that in work. It will be a relatively low level of art – I think. But well, on the other hand, other bands have done that over the years with success and credibility, for example, The Smiths. But I guess it's not for me.
 

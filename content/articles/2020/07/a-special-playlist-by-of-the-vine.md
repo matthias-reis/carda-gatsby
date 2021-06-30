@@ -1,35 +1,35 @@
 ---
 labels:
-- Aaron Turner
-- Ambient
-- Arvo Pärt
-- Bands
-- Baptists
-- Ben Frost
-- Brian Cook
-- DUNK!festival
-- DUNK!records
-- Early Day Minors
-- Emma Ruth Rundle
-- English & German
-- Playlist
-- Explosions In The Sky
-- Isis
-- Merigold Independent
-- Merigold Records
-- Mogwai
-- Nick Yacyshy
-- Of The Vine
-- Phoebe Bridgers
-- Post-Rock
-- Rafael Anton Irisarri
-- Russian Circles
-- Samuel Laubscher
-- Sea Oleena
-- Stars Of The Lid
-- Sumac
-- The Twilight Sad
-- Unwed Sailor
+  - Aaron Turner
+  - Ambient
+  - Arvo Pärt
+  - Bands
+  - Baptists
+  - Ben Frost
+  - Brian Cook
+  - DUNK!festival
+  - DUNK!records
+  - Early Day Minors
+  - Emma Ruth Rundle
+  - English & German
+  - Playlist
+  - Explosions In The Sky
+  - Isis
+  - Merigold Independent
+  - Merigold Records
+  - Mogwai
+  - Nick Yacyshy
+  - Of The Vine
+  - Phoebe Bridgers
+  - Post-Rock
+  - Rafael Anton Irisarri
+  - Russian Circles
+  - Samuel Laubscher
+  - Sea Oleena
+  - Stars Of The Lid
+  - Sumac
+  - The Twilight Sad
+  - Unwed Sailor
 language: en
 date: 2020-07-10T03:17:00.000+02:00
 slug: of-the-vine-playlist-en
@@ -38,21 +38,20 @@ title: A Special Playlist By Of the Vine
 subTitle: '"What Made Us"'
 seoTitle: A Special Playlist By Of the Vine – "What Made Us"
 ogTitle: ''
-description: Non-other than Of the Vine guitarist Samuel Laubscher has compiled a
-  playlist for my blog. It is a great honor for me to present it to you today.
+description: Non-other than Of the Vine guitarist Samuel Laubscher has compiled a playlist for my blog. It is a great honor for me to present it to you today.
 excerpt: ''
-image: "/img/of-the-vine-1-1.jpeg"
+image: '/img/of-the-vine-1-1.jpeg'
 copyright: ''
-ogImage: "/img/of-the-vine-facebook-1.png"
+ogImage: '/img/of-the-vine-facebook-1.png'
 focusKeyword: Of the Vine
 advertisement: false
 affiliate: false
-languageLink: "/2020/07/of-the-vine-playlist"
-
+languageLink: '/2020/07/of-the-vine-playlist'
 ---
+
 **Non-other than Of the Vine guitarist Samuel Laubscher has compiled a playlist for my blog. It is a great honour for me to present it to you today.**
 
-A few weeks ago I did [an interview](/2020/05/of-the-vine/) with Sam. Our conversation and my questions about his musical roots and his favourite bands inspired him to create a list of songs that mean a lot to him.
+A few weeks ago I did [an interview](/2020/05/of-the-vine-interview-en) with Sam. Our conversation and my questions about his musical roots and his favourite bands inspired him to create a list of songs that mean a lot to him.
 
 These artists are highly appreciated by him and Of the Vine. Their art accompanies them every day. Even when he is writing new songs.
 
@@ -84,7 +83,7 @@ For the more logic-driven among us, I highly recommend reading up on this moveme
 
 <YouTube id="mto84jhDyGk" />
 
-In our interview, I talked to Sam about the current Of the Vine Album "East The Water" and the band's development. You can [read it here](/2020/05/of-the-vine/).
+In our interview, I talked to Sam about the current Of the Vine Album "East The Water" and the band's development. You can [read it here](/2020/05/of-the-vine-interview-en).
 
 ## Sam's playlist on Spotify
 

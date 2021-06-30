@@ -5,9 +5,7 @@ typeName: Interview
 title: Unwed Sailor
 subTitle: '"For The Quiet Times And The Loud Times"'
 seoTitle: Interview With Unwed Sailor – "For The Quiet Times And The Loud Times"
-description: It's interview time again! Recently I met Unwed Sailor founder
-  Jonathon Ford online. Today I would like to share our exciting conversation
-  with you guys.
+description: It's interview time again! Recently I met Unwed Sailor founder Jonathon Ford online. Today I would like to share our exciting conversation with you guys.
 image: /img/2020_08_unwed-sailor-1__l.jpeg
 copyrigt: Unwed Sailor
 ogImage: /img/2020_08_unwed-sailor-fb.png__l.jpg
@@ -25,9 +23,10 @@ affiliate: false
 language: en
 languageLink: /2020/08/unwed-sailor-interview/
 ---
+
 **It's interview time again! Recently I met Unwed Sailor founder Jonathon Ford online. Today I would like to share our exciting conversation with you guys.**
 
-Lately Sam from [Of The Vine](/2020/05/of-the-vine/)  told me about his love for Unwed Sailor. There is also an Unwed Sailor piece in the [music list](/2020/07/of-the-vine-playlist/) he put together exclusively for me. Since he had seen the band live at their "The Marionette And The Music Box" tour, they greatly influenced his music. Even today, he still worships the post-rock band around Jonathon Ford. In my interview Jonathon told me a lot about the secrets of his music and his current album "Look Alive".
+Lately Sam from [Of The Vine](/2020/05/of-the-vine-interview-en/)  told me about his love for Unwed Sailor. There is also an Unwed Sailor piece in the [music list](/2020/07/of-the-vine-playlist-en/) he put together exclusively for me. Since he had seen the band live at their "The Marionette And The Music Box" tour, they greatly influenced his music. Even today, he still worships the post-rock band around Jonathon Ford. In my interview Jonathon told me a lot about the secrets of his music and his current album "Look Alive".
 
 **Anne:** Thank you for this interview! How are you doing these days?
 
@@ -133,4 +132,3 @@ My goal is to be consistent with Unwed Sailor, whether it's quiet or not.
 **Anne:** What's up next for Unwed Sailor?
 
 **Jonathon:** We are continuing to let everyone know about our latest record, Look Alive, and we have another record wrapped up for a 2021 release. We are also currently in the studio working on even more music to be released sometime next year. Our main focus is writing and recording until we can get back out on the road. We are hoping for a Europe tour in the fall of 2021. So fingers crossed for that!
-

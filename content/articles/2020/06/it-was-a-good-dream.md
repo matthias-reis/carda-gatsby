@@ -1,16 +1,16 @@
 ---
 labels:
-- It Was A Good Dream
-- Bands
-- Interview
-- Interviews
-- Post-Rock
-- Dunk Festival
-- Dunk Records
-- DUNK!festival
-- DUNK!records
-- English & German
-- Music
+  - It Was A Good Dream
+  - Bands
+  - Interview
+  - Interviews
+  - Post-Rock
+  - Dunk Festival
+  - Dunk Records
+  - DUNK!festival
+  - DUNK!records
+  - English & German
+  - Music
 language: en
 date: 2020-06-19T18:49:00.000+02:00
 slug: it-was-a-good-dream-interview-en
@@ -19,20 +19,17 @@ title: It Was A Good Dream
 subTitle: ''
 seoTitle: It Was A Good Dream – "We Want To Write Melodies"
 ogTitle: ''
-description: One of my favorite post-rock records is "Help Me to Recollect" from It
-  Was A Good Dream. This special and soulful album has accompanied me since its release.
-  Now I had the great chance to talk to Chris Anthony and Alex Glover from It Was
-  A Good Dream about their music and creative process.
+description: One of my favorite post-rock records is "Help Me to Recollect" from It Was A Good Dream. This special and soulful album has accompanied me since its release. Now I had the great chance to talk to Chris Anthony and Alex Glover from It Was A Good Dream about their music and creative process.
 excerpt: ''
-image: "/img/it-was-a-good-dream-1.jpeg"
+image: '/img/it-was-a-good-dream-1.jpeg'
 copyright: It Was A Good Dream
-ogImage: "/img/it-was-a-good-dream-fb-2.png"
+ogImage: '/img/it-was-a-good-dream-fb-2.png'
 focusKeyword: It Was A Good Dream
 advertisement: false
 affiliate: false
-languageLink: "/2020/06/it-was-a-good-dream-interview"
-
+languageLink: '/2020/06/it-was-a-good-dream-interview'
 ---
+
 **One of my favorite post-rock records is "Help Me to Recollect" from It Was A Good Dream. This special and soulful album has accompanied me since its release. Now I had the great chance to talk to Chris Anthony and Alex Glover from It Was A Good Dream about their music and creative process.**
 
 We also talked about their collaboration with James Bridges (Caspian, American Echoes, Mike Gordon) and the current state of the music scene.
@@ -57,7 +54,7 @@ I would have met you at this year's DUNK! Festival, which sadly has been postpon
 
 ## "We will play Bergmal 2021"
 
-**Chris:**  POST. Festival in Indianapolis, IN, USA is run by a great team and always has solid acts coming through. We’re big fans of Bergmal Festival, too, which we’ll be playing in 2021 as well. Others that stand out to us are Hear The Change in Italy,  [ArcTangent](/2019/09/arctangent-festival-2019-2/)  in the UK, VIVID in Norway, and Boston Calling here in Massachusetts, USA
+**Chris:**  POST. Festival in Indianapolis, IN, USA is run by a great team and always has solid acts coming through. We’re big fans of Bergmal Festival, too, which we’ll be playing in 2021 as well. Others that stand out to us are Hear The Change in Italy, [ArcTangent](/2019/09/arctangent-festival-2019-2/) in the UK, VIVID in Norway, and Boston Calling here in Massachusetts, USA
 
 **Alex:**  As far as being on the other side of the stage, I’ve only been to festivals here in the US. I was fortunate enough to attend Bonnaroo and Camp Bisco last year (2019). Camp Bisco features a lot of bass-heavy electronic music, which is a big musical inspiration for me. It doesn’t always show in an obvious way, but a lot of the electronic elements in our music are pulled from guys like Bassnectar, Lane 8, and Tycho. I’m also really into Phish, and a lot of their shows end up feeling like festivals because they do these 3-day residencies in different cities.
 
@@ -66,11 +63,11 @@ I would have met you at this year's DUNK! Festival, which sadly has been postpon
 ## "We spent 2018 writing music"
 
 <RemoteImage
-alt={`It Was A Good Dream`}
-size="medium"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-3.png__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-3.png__l.jpg"
-loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAJOklEQVRIiS2WWWxc1RmAR33sS5eHPhaEUFUqVe0TtBJqoW1EaUtpoSBaKkEr1CqspYEUhVSEQkghCAIJJJCVkMSZOI6X2I49jjPj2e54Vs/m2e8s1zOefewZe9Z7z1fZ7sPROU/nfOf///P9RyeCfvB4wOGCRRe4XOB001v0sbkYoOOP0/PH2XCHWZcCrLmirPtStEMZeqlVBtkyvVyFTqbCplyima2xXu3TqvfprA3oNVWoVqGURysWt9ebK0WKUYVCQEZHNAJ+P22rh7rRjfOCRHzYDjdmYcHM4MI51OsTdINxNqM5NpZSdMJp1EQWkSsiihVEuU6/uMZmuUMnnKA3M8XggzfgyBv0J0eI3vAwejHO4YNexq7E8Vtk1uUVSuEMOuQYsUkPb704z9OPjnP/T2/wwJ0vs/ur3yL7o9vg3q+h/fx2eOExBnM36aQr9GNpRDoP+RKiWt8e/T50I0nU3b9He2oXPPkT+Ot9HL3r+zx0+xP87jcGfvGghft/ZeWpv9jxW5LUEwo6snG8Vz386eFpHv3lCA/smuG+7/yLx7/yTQ5/+y7Wd30XHrwD9eEfwOvP0nctMVAqkFtFlKuIegPR1VAFqPv+jvbQDxmceA98FoKX5nj83gO8+YcDeIxZEr4C1psZjn0UIu7K0JDz6EglKFn83Dprw/yFmY/2G9n/5Be8cN+b7H3kBIZn34EP9qI+8WPE7kfQLp1DzddAKSLKNcRaCwGIo28i7v4Gg78/DA4za64gp9418+5rRpx6O9XMOvlImZpcIeUvUI7l/w8QjZMz+YhPOwlPOHDpJUIf6zm9Z5j3X5xg8j0DwheG44cRe55GHD2EiKWgWEOUqog+iNUS4me3IXbdibr3KTDeIHtxBM/HXyINWQhfmCTmyDI/lSHszOOXVoh7FOrpAro1VwT/mJvwuMTlI2ZG3hph+e2juD6bwnnoC+QTejSHG0xmxPnTiDPH0cIxRKGKyBd3bj8/hbjn62h/vJf+6SOoko3qxYs0Tn1KfXyC5oUzxM0xJseymGbTzE1nWDRlaeaK6BquZaTLi0QnJL5838T4f0dJvHWEjN7AyskhtPHx7Wcq3D7E2AgDo5l+TEZN5xDZPKKtIZQC4u2XUPc9Q+/EYVTLAl2bja7koH1NT9NioxAtk49Xsd3KIi2sUEqUWEsX0XX8EcKTboJjEu5hCe+wldSnlyhcnaFpMG87Qfj9CK8PzWZnEIqjxlKIhIxIZXbCD2g3RukdepXewT2o14fRfB7UW3MMznzE+pUhSpE82UiFiZEUo8MyyaUCzVwJXcsXJjDuwn7RyuKQFd+wFfn4JfJnrrA5Mw9OFyIQREgSwryAthxHk3OIZAaRSiOUPFofBqFleq89Q//RuxEf7kezzKGNXqSrP0/57Gny9iB+Z4nZsQSGyQwus0JrC6ATjGA8LzF9YoEbx+dxX5WIHDxG8p2jbFwZAYeEcLkR0xMIwzRCKe0IKJNDpLM7dbDeRm2p9I+9w+DX30M8dg/i4/1o+pO0J8eJfXKKhVNzjI0WsM7I2I05TIYc69nyDoB3dJHAmIPYuA1Jb8Pw+inc752nOW8Fmx1tcgxx7hO0BSOi2EBsCWgr77k8YrWMqDQQGqhOB9pzDyN23YF49rfw72foH3iJwPMvcPZ9K8/vCfG33W7+8coSs5NZBpUGunZgmeSMl5mTFuY+u8Xpt2c5s1dP9D8f0h0aQpz7HE68jxi/igiEEekVRKm2o+BiGVGuQKOJWGsjRs4hTh1G7H8a9v2Z7sFX6RzahzJpYmKiyDtv+fnnHg+nTyag0aKdr6GrOoK0PEGkixIHnrvOkVfGmD1pIvflCN19L9M7dICBfgjN6UX1hhAeP2zlvlyDUglRLiGKJYTXgfj8IGJ6GFV/EvX0YapjU6zPmWhF8wQtK7iNWUL2HKVEGepNWrkquqLVT926RGXBzc2TRjxDJiLjNiITdmqfn2Vz7Dqq5ESzO2lLPtreZQYrle0NRKWMULKIZByh5BA+J2J+moHJiDo7RX/RSdPhpxtKUArmyXkUypFVqoky3cIaG0oNnTLvQZ52Ik85CIzY8enNhPXzpIfnqF2dojM9Q8dopm3zsBmI00pX6BTWEat1qGylYqsWMoiMvAMR8iPsFoTdtu2PgcNBxx2kGVulGlqhFFBQ/Hl6+SodpYIuMi6xPCaRnnZQNkjUZ0w0ZkzUDWZqC06qVi+VxTAVT5K1ZYWuXERVKgzSq2iZApS22nEZkZYRyRgiryDiUYTLibBZES4JLZ2lLZepxssoSytUUzXUyhr9LRPK163Exs1szfmbbkoWH9V5aXuUtwAsXir2IHVXnHY4wyClbB8sMnl6cnH7Q8JqBZFfRaQSiFgYkUqiRWNooSBaKoUorKIWa2wqVTaUOv1Gh8FaBzVXQBe9ZiR69RbJKYmcMcDqvIfSvIOqyU3d4qVu89GQQrS8cfqRNIN4Dm0LQlZQcyU2onn68ipk8ojMCsLnQbgWEUs+tEBgB0rJoa2W6eRr9MpN+o32DkRuC+DKHHG9geSUg+yMk4JhkeK8m4rZR8O2xJoUoOkM0w7E6C+nGCyn0eIZ+nGFgVxATWZphXNo0TTEZMRyYtuY2+Ff8iEyKUR6q3uW6BeqaGstBus9BtUN1MwKuvilaeIXrpMYNZGZtKLMOinMOSmZvDRsAZpSgE1XkK4/SjeYohOS6S9nGEQUessZ2sEUdY9MJyijBmJoLj/CMIeYu4mwWxGJCEJOQHkrAlW6tRZqfRMtrSDkDLrI2WtEz4yQvDxDenyB9LSEMiOxOu+mavGzZl2iuein7QnT9sVoLSXpBNJ0Qxk2Amkajhgr5igbniRdd4ieeRHt6ghiyoAwzCDCS9vFSSFPTynRLG1ua1wNRdC2AY4PEfvsMsnz48jXbpEaNZKZspG/6aJqXaJu9rJm9dJ0hmi44lRdiW2Ili9F0xWnZfWTNgSpWsJ0FgN0HT76V67Ru3wNMXsTEVpCRIIIOYWWXaFf30DLZFEjSbREGt3yh6eJfnqB5IlLpC5NEr8yR2rCSn7OSXnBS9XkpG520XKFWbFEUawx1r1Jam6ZitHHxpyF7HyA+ISLyqyD2rybkn6G0rEzdPTXwG5B2xJUOIgWT23/ntVwmP5SGDWV5X9wQ0LJVOOlwAAAAABJRU5ErkJggg=="
+  alt={`It Was A Good Dream`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-3.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_06_it-was-a-good-dream-3.png__l.jpg"
+  loadingUrl="data:image/jpeg;base64,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"
 />
 
 **Chris:**  We spent the majority of 2018 writing, recording and preparing our debut album "Help Me to Recollect". We teamed up with Wout and Luc at dunk! in the summer of 2018 and began planning the release of the album for spring/summer of 2019.

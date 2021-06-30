@@ -1,7 +1,7 @@
 ---
 templateKey: article
 date: 2021-04-30T12:41:13.273Z
-slug: mindufulness-exercise-rain
+slug: mindfulness-exercise-rain
 typeName: Beitrag
 title: Being thankful for the rain
 subTitle: Mindfulness experience in spring

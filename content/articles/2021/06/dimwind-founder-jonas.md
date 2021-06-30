@@ -1,17 +1,17 @@
 ---
 date: 2021-06-09T17:26:42+02:00
 labels:
-- Dimwind
-- Bands
-- Sweden
-- Post-Rock
-- Post-Metal
-- Interview
-- Interviews
-- Instrumental
-- Experimental
-- English & German
-- Sizm
+  - Dimwind
+  - Bands
+  - Sweden
+  - Post-Rock
+  - Post-Metal
+  - Interview
+  - Interviews
+  - Instrumental
+  - Experimental
+  - English & German
+  - Sizm
 language: en
 slug: dimwind-interview-en
 typeName: Interview
@@ -19,20 +19,17 @@ title: Dimwind Founder Jonas
 subTitle: '"We''ve Got To Take Care Of This Planet"'
 seoTitle: Interview with Dimwind Founder Jonas – Swedish Post-Metal
 ogTitle: ''
-description: Dimwind recently released their great debut album "Slow Wave Violence".
-  Because I was so enthusiastic about the record, I decided I needed to do an interview
-  with founder Jonas. We talked about the album, climate change and the connection
-  between heavy music and veganism.
+description: Dimwind recently released their great debut album "Slow Wave Violence". Because I was so enthusiastic about the record, I decided I needed to do an interview with founder Jonas. We talked about the album, climate change and the connection between heavy music and veganism.
 excerpt: ''
-image: "/img/dimwind.jpg"
+image: '/img/dimwind.jpg'
 copyright: Dimwind
-ogImage: "/img/dimwind-fb-1.jpg"
+ogImage: '/img/dimwind-fb-1.jpg'
 focusKeyword: Dimwind
 advertisement: false
 affiliate: false
-languageLink: "/2021/06/dimwind-interview"
-
+languageLink: '/2021/06/dimwind-interview'
 ---
+
 **Dimwind recently released their great debut album "Slow Wave Violence". Because I was so enthusiastic about the record, I decided I needed to do an interview with founder Jonas. We talked about the album, climate change and the connection between heavy music and veganism.**
 
 **Anne:** Hi Jonas, thanks very much for taking the time for this interview! Congrats on your excellent debut album "Slow Wave Violence"! Do you like it?
@@ -41,7 +38,7 @@ languageLink: "/2021/06/dimwind-interview"
 
 ## "It was a fulfilling challenge to write the album"
 
-![Jonas and Andreas aka Dimwind. Picture: Dimwind](/img/dimwind-2.jpg "Jonas and Andreas aka Dimwind. Picture: Dimwind")
+![Jonas and Andreas aka Dimwind. Picture: Dimwind](/img/dimwind-2.jpg 'Jonas and Andreas aka Dimwind. Picture: Dimwind')
 
 **Anne:** How long did it take you to record it? Did you do some of the work remotely due to the pandemic situation?
 
@@ -79,7 +76,7 @@ And heck yeah, we listen to a variety of music and genres. Even if we both grew 
 
 ## "Our writing process always starts with jamming"
 
-![Jonas and Andreas aka Dimwind. Picture: Dimwind](/img/dimwind-2.jpeg "Jonas and Andreas aka Dimwind. Picture: Dimwind")
+![Jonas and Andreas aka Dimwind. Picture: Dimwind](/img/dimwind-2.jpeg 'Jonas and Andreas aka Dimwind. Picture: Dimwind')
 
 **Jonas:** Can't say that we are driven to write by negative feelings, but maybe we get an outlet through music. I think that is true for most musicians and artists alike. Regardless of the mood, we always start a writing process by just jamming and see what happens, and when suddenly there is a mutual smile going on, we know we're on the right track.
 
@@ -129,7 +126,7 @@ Yes, I know the big difference is made higher up on a political level, and I rea
 
 **Jonas:** Thank you so much for doing this interview Anne, it was nice talking to you!
 
-[Read my review on Dimwind's debut album "Slow Wave Violence"](http://cardamonchai.com/2021/05/dimwind-slow-wave-violence/).
+[Read my review on Dimwind's debut album "Slow Wave Violence"](http://cardamonchai.com/2021/05/dimwind-slow-wave-violence-en/).
 
 ## Dimwind – "Slow Wave Deceit"
 
