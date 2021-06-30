@@ -1,17 +1,27 @@
 ---
-date: 2015-03-06T13:00:59.000+00:00
-slug: die-ultimative-vegane-festivalliste
-path: '/2015/03/die-ultimative-vegane-festivalliste/'
-title: Die ultimative vegane Festivalliste
-seoTitle: Die ultimative vegane Festivalliste – mit Gratis-Download
 ogTitle: Die ultimative vegane Festivalliste – mit Gratis-Download
-description: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und Lesen!
-excerpt: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und Lesen!
-fileName: 2015-03---die-ultimative-vegane-festivalliste.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_9918184096_a390857d9c_o__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_9918184096_a390857d9c_o__l.jpg
+excerpt: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es
+  ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und
+  Lesen!
+ogImage: null
+isAffiliate: false
+path: /2015/03/die-ultimative-vegane-festivalliste/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQQHCP/EACgQAAIBAwMEAQQDAAAAAAAAAAECAwQFEQASIQYTMUEiB1FhcSNCYv/EABgBAAMBAQAAAAAAAAAAAAAAAAEEBQAD/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAxEhMQTwEoHB/9oADAMBAAIRAxEAPwDnm00ymyTzS0as3dXsVQfBVgDujIz7BBz/AJ496drr0tBdrZdrqahoKO1wRKGJEhnqpfkw9EZyx94A1rO3yduoVjnb/bGryqNRKqYmJjlxIwyB8toHI4HgaUqBg17y9xHRqeVvrvfkefprarFeunLtabnNJC1RsaEjB7dQivyPeGDLxnGQfsCEXqya2rLNDb6Vu48+8zyMS23Ynxx4B3FyT+tMfTHT1WKGetp6wdvb/IsahnideUY+eM4z+CdVv1fs9JZOua6it9VFU06iORZImDD5IGxkexnGhSN3OcTpy0elxxcWPrUS45ShGAOPwDqRqyWRlLlTt8Dbxo0ab8RuQxUYYBk6XarjgeFJiInO5gvG7941jPO8hBdgScDx9tGjWCgaELV6j4Ykz//Z
-ogImage:
+isWerbung: false
+fileName: 2015-03---die-ultimative-vegane-festivalliste.md
+slug: die-ultimative-vegane-festivalliste
+errors: {}
+date: 2015-03-06T13:00:59.000+00:00
+focusKeyword: vegane Festivalliste
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_9918184096_a390857d9c_o__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_9918184096_a390857d9c_o__m.jpg
+title: Die ultimative vegane Festivalliste
+subTitle: Mit Gratis-Download zum Ausdrucken
+seoTitle: Die ultimative vegane Festivalliste – mit Gratis-Download
+description: Einige vegan lebende Musikfans haben mich darauf aufmerksam
+  gemacht, es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim
+  Planen und Lesen!
 labels:
   - Ausstattung Festival
   - die ultimative Festivalliste
@@ -30,13 +40,7 @@ labels:
   - Zelten auf dem Festival
   - vegane Packliste Festival
   - vegane Festival-Packliste
-focusKeyword: vegane Festivalliste
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Mit Gratis-Download zum Ausdrucken
 ---
 
 **Seit Jahren schon findet meine Festivalliste regen Anklang. Jahr für Jahr optimiere ich sie, schraube daran herum, fahre wieder auf Festivals, bemerke, was ich weglassen, was hinzufügen kann und im nächsten Jahr gibt es wieder eine neue Liste.**
@@ -56,7 +60,7 @@ Weil ich schon seit einiger Zeit vegan lebe, ist natürlich auch die Festivallis
 
 Die ultimative vegane Festivalliste könnt Ihr Euch unten ausdrucken. Dann müsst Ihr beim Packen nicht ständig den Bildschirm vom Handy entsperren.
 
-Inzwischen hat fast jedes Festival eine eigene App mit dem Spielplan und anderem praktischen Kram. Leider halten ja die Akkus der modernen Mobiltelefone mit Ach und Krach noch bis zum zweiten Festivaltag durch, die Ladestationen sind dauerüberlastet und kaum wer hat Lust, den ganzen Vormittag in einem Auto (dessen Batterie danach leer ist) zu sitzen und den Handakku aufzuladen.
+Inzwischen hat fast jedes Festival eine eigene App mit dem Spielplan und anderem praktischen Kram. Leider halten ja die Akkus der modernen Mobiltelefone mit Ach und Krach noch bis zum zweiten Festivaltag durch, die Ladestationen sind dauerüberlastet und kaum wer hat Lust, den ganzen Vormittag in einem Auto (dessen Batterie danach leer ist) zu sitzen und den Handyakku aufzuladen.
 
 ## Vom Timetable zur Festivalapp
 
