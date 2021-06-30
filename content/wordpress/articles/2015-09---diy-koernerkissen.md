@@ -273,7 +273,7 @@ Ich wünsche Euch viel Spaß beim Nähen!
 
 <RemoteImage
   alt={`Die Maße`}
-  size="medium"
+  size="full"
   title={` Die Maße`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__l.jpg"

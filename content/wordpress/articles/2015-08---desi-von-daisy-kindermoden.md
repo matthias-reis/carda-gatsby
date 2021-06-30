@@ -38,15 +38,6 @@ subTitle: '"Ich möchte praktische und schicke Kleidung für Kinder machen!"'
 
 **Ich habe mich mit der jungen Modedesignerin Desi zum Interview verabredet. Sie hat mir einige interessante Details aus ihrem Leben verraten.**
 
-<RemoteImage
-  alt={`Modeschöpferin Desi von Daisy Kindermoden`}
-  size="medium"
-  title={`Modeschöpferin Desi von Daisy Kindermoden`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11053116_955034747861012_5276487313995891046_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11053116_955034747861012_5276487313995891046_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBwT/xAAqEAABAwMDAgYCAwAAAAAAAAABAgMEBREhAAYSEzEUIjJBUXFCYSMkgf/EABcBAQADAAAAAAAAAAAAAAAAAAQBAwX/xAAfEQACAQMFAQAAAAAAAAAAAAABAgADERITITJBUTH/2gAMAwEAAhEDEQA/ALCpVGVTqFVaq7JbdYbYJbCEBPA8SE2Vf9jHe+sA2Y0luowKiDU35zchtwGKD/GouBN1LPcnJ+jrVdxT3Zu3I1JpSlO1XiiQX2o6kJmsoJ42B8q88TkG/bUhW4Bpr0OZTETIUFboaqLrMbppaeChlCVlIB9VhYAdr9tXUnHEdxZQ8mm1JqEWOqzXmN/WV81H7JN9ENUFgSsKB+BqJ2xUhU43QdeUZJUS3J42adTfAsMpNrZyD7/OuuZOEGUuNMu0+j1NuJKSfq/f7GNQFUnHuGcuova4jncdOYnNGQoqMO4WoIy7EdP5C3Yn57L7HOofcUmvMMVKLMdMnwTHVjygQUPsgjklX5FXE4GCMg+2rJmWUvyJlJHOWG1vSqctV0vC11dIHBSbG6PY5H6RzWHdybZqLNNsYcpaUSuu1xXBUVAlSRyuocQADfJsFWwdBomzAn5NB91Ih6FAYmbfpjO6KYph9bCVMzYw4OFJF09vKuwP2PfOu6XC3DTIP9R+Luiipx4eUkLcQPgA+YH6P+aT7sfrtLoxUKnHiUNTXTD8OOlxtLqcpLzSklSAUjjdBBBzkY0bYdTfl0qJLelIiTFICvDyFFp0kJBUpBUAlSScgXvb50zUOGZsR5CmkMttj7P/2Q=="
-/>
-
 Desi lernte ich vor ein paar Jahren über meine damalige Clique auf einem Festival kennen. Wir sind uns danach immer wieder auf sommerlichen Freiluft-Musikevents begegnet und haben uns über die sozialen Netzwerke nie aus den Augen verloren.
 
 Inzwischen hat Desi zwei zuckersüße Kinder und ist mit ihrem damaligen Freund Jörg glücklich verheiratet. Da Desi immer auf der Suche nach modischen Hinguckern für Ihre Kleinen ist, fing sie irgendwann selbst an, Kleidungsstücke für sie zu entwerfen. Jedes Mal, wenn ich auf ihrem Facebook-Profil vorbei stöberte, sah ich wieder ein neues schickes Teil.

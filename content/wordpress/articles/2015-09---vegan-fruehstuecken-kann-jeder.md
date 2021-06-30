@@ -1,30 +1,28 @@
 ---
 date: 2015-09-15T14:50:56.000+00:00
 slug: vegan-fruehstuecken-kann-jeder
-path: "/2015/09/vegan-fruehstuecken-kann-jeder/"
+path: '/2015/09/vegan-fruehstuecken-kann-jeder/'
 type: Artikel
 typeName: Buchtipp
 title: '"Vegan frühstücken kann jeder"'
 seoTitle: '"Vegan frühstücken kann jeder" - der neue vegane Bestseller'
 ogTitle: '"Vegan frühstücken kann jeder" - der neue vegane Bestseller'
-description: Das Werk "Vegan frühstücken kann jeder mausert sich nach dem Hit "Vegan
-  kann jeder" zum zweiten Bestseller von Nadine Horn und Jörg Mayer.
-excerpt: Das Werk "Vegan frühstücken kann jeder mausert sich nach dem Hit "Vegan kann
-  jeder" zum zweiten Bestseller von Nadine Horn und Jörg Mayer.
+description: Das Werk "Vegan frühstücken kann jeder mausert sich nach dem Hit "Vegan kann jeder" zum zweiten Bestseller von Nadine Horn und Jörg Mayer.
+excerpt: Das Werk "Vegan frühstücken kann jeder mausert sich nach dem Hit "Vegan kann jeder" zum zweiten Bestseller von Nadine Horn und Jörg Mayer.
 fileName: 2015-09---vegan-fruehstuecken-kann-jeder.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcBBQIEBv/EACwQAAICAQQAAwcFAQAAAAAAAAECAwQRAAUSIRMxQQYUIlFhcYEkMoKRobH/xAAYAQADAQEAAAAAAAAAAAAAAAADBQYBBP/EAB4RAAICAgIDAAAAAAAAAAAAAAERAAIDIQQFIjFR/9oADAMBAAIRAxEAPwC0ahsMV9KlwXrd08eU9izYZstnj8asFUnicAY/5reh3SHa94Ss8888cFRhEssniTNyeM8cntiMdZ7x9tLWp7WyQTu1xFs+KQXaRiHx3+1h5efp8tRum67mYFh2l4ve+LPFNIvN0BIDBfx39cfjU8ASUZY5+syYcZuVr5GjDuMsN61bWhc/UlTKO8fCMAqGbiDxxkjr/dXlO0stcSdqHAbBIJGR9NIyXe22/wBpIr3vMz/GqzZmcrJH5MCp6PRPWP602djs1rNSRaUnNIpCgJXivzwPQ+fnrGw1F9qmp2YibNYQWBG/GQg4Bxj1++ugtUJtk36aNLbStFCGDeGoGCvLABzjy8xo0aLf1OvlczNbwNtGZby80kPi2ZBKeh0vDr+ONWmxbtc2ahPFSlwhnLHmA5yVX1bJ0aNAqSQjFqRc/9k=
-ogImage: 
+ogImage:
 labels:
-- Bücher & Filme
-- Ernährung & Gesundheit
-- Jörg Mayer
-- Nadine Horn
-- vegan frühstücken
-- veganes Frühstück
-- veganes Kochbuch
-- veganes Rezeptbuch
+  - Bücher & Filme
+  - Ernährung & Gesundheit
+  - Jörg Mayer
+  - Nadine Horn
+  - vegan frühstücken
+  - veganes Frühstück
+  - veganes Kochbuch
+  - veganes Rezeptbuch
 focusKeyword: vegan frühstücken
 status: publish
 isWerbung: false
@@ -33,8 +31,8 @@ language: de
 errors: {}
 subTitle: Der neue vegane Bestseller
 affiliate: true
-
 ---
+
 **Das Werk "Vegan frühstücken kann jeder mausert sich nach dem Hit "Vegan kann jeder" zum zweiten Bestseller von Nadine Horn und Jörg Mayer. Ich habe es mir genau angeschaut.**
 
 <RemoteImage
@@ -101,7 +99,7 @@ Eine Komponente, die mir bei Kochbüchern auch immer ziemlich wichtig ist, ist d
 
 Alles in allem ist "[Vegan frühstücken kann jeder](https://amzn.to/2MLMzp8)" eine gelungene Sammlung schmackhafter Frühstücksideen, die nicht nur Vegan-Einsteiger glücklich machen wird. Bei mir gibt es heute übrigens noch das "Full English Breakfast" – zum Abendbrot.
 
-"Vegan kochen kann jeder" ist beim Neun Zehn Verlag erschienen.
+"Vegan frühstücken kann jeder" ist beim Neun Zehn Verlag erschienen.
 
 <iframe
   style="width: 120px; height: 240px;"

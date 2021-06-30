@@ -30,18 +30,18 @@ errors: {}
 subTitle: Bilder von Denise Slapansky
 ---
 
+**Vor Kurzem berichtete ich hier im Blog über eine sehr liebe Dame, die vegane Häkelmützen mit Statement[^1] herstellt und sich für die Rechte der Tiere einsetzt. Denise Slapansky stellte mir jetzt ihr neuestes Projekt vor.**
+
+Die kreative Friedbergerin häkelt nicht nur, sie hat noch viele weitere Talente. Seit frühester Kindheit malt und zeichnet sie, meistens schwarz-weiß mit Kohle, Bleistift oder Kreide. Später kam dann noch die Bildhauerei dazu.
+
 <RemoteImage
   alt={`Denise auf dem Überlebenshof Scottmaring`}
-  size="medium"
+  size="full"
   title={`Denise auf dem Überlebenshof Scottmaring`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11913231_1009917619054983_262499720_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11913231_1009917619054983_262499720_n__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKhAAAgIBAwMCBQUAAAAAAAAAAQIDBBEABRIGITETUQcVQWFxIkJSocH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAcEQACAQUBAAAAAAAAAAAAAAAAAQIDESExQRL/2gAMAwEAAhEDEQA/AOvY+kKtmxE1ndFCWhGYGRwcq/fBJX9OAMEjwSM9tMfWmz7fJX23bakm7V2MZjkjFozV6sBY5lk5DKk+QBjl4GNY9tG4x3djeK04hkiZVj5BeRB78Wyc8fx4zp33jqmj1X8QqrbELEVcVxFakmATksRPuQCGBwM/nUYxck4rY3Shvhn1qnInWCbRarBtvpbhxjsSMQksKL3OT+3JB7fyxo1Y9ew7bc6w26lElNUNeRplqWRKS5YKA7Dty7Z4gke50aeOhdNPRnq7iBiKCvIue45FSCffzq53K5N07uFevalE9qcRGRa6p6YXOeJYEgnH0XAGftqjhgT1lxhfckf7qUlNTbEoACjLINWtZ4MTGvqKf5leW/CVjFaJa6xJ4VSS3IH7knRpf2+27W1ifIWZSnLP18j+xo1Nqw/R/9k="
 />
-
-**Vor Kurzem berichtete ich hier im Blog über eine sehr liebe Dame, die vegane Häkelmützen mit Statement[^1] herstellt und sich für die Rechte der Tiere einsetzt. Denise Slapansky stellte mir jetzt ihr neuestes Projekt vor.**
-
-Die kreative Friedbergerin häkelt nicht nur, sie hat noch viele weitere Talente. Seit frühester Kindheit malt und zeichnet sie, meistens schwarz-weiß mit Kohle, Bleistift oder Kreide. Später kam dann noch die Bildhauerei dazu.
 
 ## Farbe, Licht und Freiheit
 
@@ -50,15 +50,6 @@ Während ihrer Ausbildung zur Kunsttherapeutin entdeckte Denise die Farben für 
 <blockquote>
 
 Mit meinen Bildern setze ich sogenannte "Nutztiere" in ein "Meer aus Farben". So heißt auch ein Song des Berliner Singer/Songwriter-Duos Berge. Er hat mich sehr inspiriert und könnte auch von einigen der Tiere gesungen werden[^2]. So muss das für sie sein, wenn sie befreit werden.
-
-<RemoteImage
-  alt={`Denise beim Zaunbau auf dem Überlebenshof`}
-  size="medium"
-  title={`Denise beim Zaunbau auf dem Überlebenshof`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11910611_1009917545721657_897681080_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11910611_1009917545721657_897681080_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHAv/EACgQAAEEAQIGAgIDAAAAAAAAAAECAwQRBQASBhMhMTJRQWEHgRQiwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EACARAAEEAQQDAAAAAAAAAAAAAAEAAhEhBAMTQfBRgaH/2gAMAwEAAhEDEQA/ANOzuJjtgGdLaix+S4S4XNqQSBQJ7fVH9awDGieni9iY9QchLJKEgItTXj0Hl1AJHz+9WjJZOdlIqcXmcoeY1LXEQovLW3vSCaDlWU/1NLPYiiTWum8BAaW6vEM5F6bFlLckvPuG3CDQCE2bQQSrf80KHfUmXnbh8dhbx8SL4WafkbKLzXG86eXi8gvqBdDQQFqH0Onav9vRp1Jhtryynylox07kOIG0HebPcn381o0I1RFrIbKn4rEyWzAbdjSg+xMRJed5YQwtO4bkkdO5JPQV0HvTvhqHkk/zRDLLUpMmQ7AChZaU2VLUgCgdi12NpNDcemk4NGDlPty2ZWRyDsZ1KUyMggoCbJ8UgkffWyPY1P4WVkkcTIM91ECBCkKIaZSd0hzcaKlE9W6Pcd7sA99TO1DbPdqvTq55UbJ4bxeSx7kzFMtmHmElwDnC2XAdymrPiQoVR0atcZ+Hjs7Ow0xO+NJSH2ypPiCaVRPpVG/Sx60aHdcygUhx2uJnvxf/2Q=="
-/>
 
 Licht, nur durch das Licht entstehende Farben, Luft, Freiheit, Liebe. Das fängt schon beim Futter an: Der Einheitsfraß, den z. B. Schweine bekommen: Ein grauer Brei, der den Kot flüssig halten soll, damit dieser durch die Spalten im Stall abfließt, denn während der sogenannten Mastperiode wird der ja nicht gereinigt.
 
@@ -70,7 +61,7 @@ Ich bin keine Tiermalerin. Es geht mir nicht um das "Genauso wie", dafür gibt e
 
 <RemoteImage
   alt={`Bild aus dem Atelier von Denise`}
-  size="medium"
+  size="full"
   title={`Bild aus dem Atelier von Denise`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11846215_1006376552742423_1526749849_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11846215_1006376552742423_1526749849_n__l.jpg"
@@ -81,13 +72,22 @@ Denise geht es um die Stimmung, den Ausdruck und den Kontext. Sie möchte, dass 
 
 > Der Betrachter soll sich selbst mit Farben, mit Leben und mit positiver Stimmung auftanken.
 
+<RemoteImage
+  alt={`Denise beim Zaunbau auf dem Überlebenshof`}
+  size="full"
+  title={`Denise beim Zaunbau auf dem Überlebenshof`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11910611_1009917545721657_897681080_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11910611_1009917545721657_897681080_n__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHAv/EACgQAAEEAQIGAgIDAAAAAAAAAAECAwQRBQASBhMhMTJRQWEHgRQiwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EACARAAEEAQQDAAAAAAAAAAAAAAEAAhEhBAMTQfBRgaH/2gAMAwEAAhEDEQA/ANOzuJjtgGdLaix+S4S4XNqQSBQJ7fVH9awDGieni9iY9QchLJKEgItTXj0Hl1AJHz+9WjJZOdlIqcXmcoeY1LXEQovLW3vSCaDlWU/1NLPYiiTWum8BAaW6vEM5F6bFlLckvPuG3CDQCE2bQQSrf80KHfUmXnbh8dhbx8SL4WafkbKLzXG86eXi8gvqBdDQQFqH0Onav9vRp1Jhtryynylox07kOIG0HebPcn381o0I1RFrIbKn4rEyWzAbdjSg+xMRJed5YQwtO4bkkdO5JPQV0HvTvhqHkk/zRDLLUpMmQ7AChZaU2VLUgCgdi12NpNDcemk4NGDlPty2ZWRyDsZ1KUyMggoCbJ8UgkffWyPY1P4WVkkcTIM91ECBCkKIaZSd0hzcaKlE9W6Pcd7sA99TO1DbPdqvTq55UbJ4bxeSx7kzFMtmHmElwDnC2XAdymrPiQoVR0atcZ+Hjs7Ow0xO+NJSH2ypPiCaVRPpVG/Sx60aHdcygUhx2uJnvxf/2Q=="
+/>
+
 Die Künstlerin möchte mit ihren Werken nicht nur eine positive und entlastende Stimmung ausstrahlen, sondern letztlich auch klarmachen, dass die Tiere nicht da hingehören, wo sie gehalten werden. Einige der Bilder spendet sie an Überlebenshöfe, die diese versteigern und damit etwas zum Unterhalt ihrer Tiere beitragen können.
 
 ## Sissi und Franz
 
 <RemoteImage
   alt={`Sissi und Franz`}
-  size="medium"
+  size="full"
   title={`Sissi und Franz`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11872662_1009917649054980_786126211_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11872662_1009917649054980_786126211_n__l.jpg"
@@ -100,7 +100,7 @@ Sissis Retterin ist so verliebt in das Schweinekind, dass sie fand, Sissi müsse
 
 <RemoteImage
   alt={`Franz`}
-  size="medium"
+  size="full"
   title={`Franz`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11882296_1007471632632915_4177767694622563308_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11882296_1007471632632915_4177767694622563308_o__l.jpg"

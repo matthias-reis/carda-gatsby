@@ -32,15 +32,6 @@ errors: {}
 subTitle: Ich bin endlich wieder da!
 ---
 
-<RemoteImage
-  alt={`Hamburg ist schön und ich bin wieder da!`}
-  size="medium"
-  title={`Ich bin wieder da!`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQIE/8QAKxAAAQIFAgQFBQAAAAAAAAAAAQIDAAQFESEGEgcTMUEjQlGBkVJhcYKh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AN3hy6iuLbqLTimn0Ha+wEdFYxutY4t1h5kRTJ12aYSuSeUkkOJbf5imj2G2+IiXCsuGkVsMPtyzMxLqQt11tISjw7AhRWLEHuRbGY44cT1UTqKlGVfkmmFO2BaZLiVS5R3NwL3ByIC4zVHkH2EtOy0q+23nwiEq9z2hQqFAakbuSjamZzduS42qyCD5SnNrYHoesb09V59hO5udYWOpvJHI9MrxCLqDUFddJ2VZtkBV7NyKPjJOICNVWusokl0lgupbukvdgpYzb7gf0/iPHoGsTdJ1RTSw5yacicHOQFGwStJSf0NybdAReCCAslS1EkFxBKgPpGR83zCpUKo5N7iwlawPMAdo9+kEEB//2Q=="
-/>
-
 **Sicher haben ein paar von Euch gemerkt, dass mein Blog in den letzten Tagen nicht zu erreichen war. Finstere Mächte hatten sich in den Server gehackt und wollten versuchen, mit seiner Hilfe die Weltherrschaft an sich zu reißen. Die Folge: Der komplette Server wurde abgeschaltet.**
 
 Außer meinem Blog waren noch jede Menge andere Seiten von dem Drama betroffen. Nach dem Neustart des Servers hat Matze Tag und Nacht mit Hochdruck daran gearbeitet, alles wieder zum Laufen zu bringen. Und siehe da: Es geht wieder!
@@ -51,7 +42,7 @@ Ich bin so glücklich! Alles ist noch da! Ihr könnt Euch meine Panik in den ers
 
 <RemoteImage
   alt={`Hamburg Binnenalster`}
-  size="medium"
+  size="full"
   title={`An der Binnenalster`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130873791_7903cc11d5_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130873791_7903cc11d5_z__l.jpg"
@@ -66,16 +57,16 @@ Das größte Highlight: Ich arbeite wieder! Als Redakteurin in einer Agentur, di
 
 ## Offiziell in Hamburg angekommen
 
+Nach einigen Anläufen haben wir es letzte Woche auch geschafft, unser Auto umzumelden, in unseren Pässen steht schon seit ein paar Wochen die neue Adresse. Es fühlt sich gut an, offiziell eine **Hamburgerin** zu sein! Ich liebe diese  Stadt und ich möchte nie nie wieder hier weg.
+
 <RemoteImage
   alt={`Offiziell in Hamburg angekommen`}
-  size="medium"
+  size="full"
   title={`Offiziell in Hamburg angekommen`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17056468917_0fa3c78de7_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17056468917_0fa3c78de7_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgP/xAAsEAACAgEEAQICCwAAAAAAAAABAgMRBAAFEiExE0FRcQYUIiNCYWKBkcHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgQAA//EABwRAAMAAwADAAAAAAAAAAAAAAABAgMRIRIxUf/aAAwDAQACEQMRAD8Af7HLixzSS5WTGfWIYGxYA/CQL/3y1nbIYpIGMskOOZGaXmytytzZBCmge6thYrxqT2mYQ+nEFJ6v7uF3/kqKGqGfMC4UrRWjIl3JA6AXQvsfn41GqdstmFofSbXs/p8VTCfj5ZyrN+5PnUhv21x4uQ+RByiDIaaMkC/l2B7/AD0DOjHJlAkW1BIk5sxahf2geiD3pZuMheFWhLIWUGlNVYv20qnx6GltaD9nwcfInWabEYyEKLExUUB4oHVBuO2YZgMf1FKK0amPw/rUHse+wxKC0oJH6zptlfSTHdOKzDvvp9Cclyvb4dccqnpILnxwihFMixBAnFpAbUe11daS7q4WzwSh8Drlk7tjSxGpuTnugxNaQ7lnq7WrOR5bs61ZW30Tx/D/2Q=="
 />
-
-Nach einigen Anläufen haben wir es letzte Woche auch geschafft, unser Auto umzumelden, in unseren Pässen steht schon seit ein paar Wochen die neue Adresse. Es fühlt sich gut an, offiziell eine **Hamburgerin** zu sein! Ich liebe diese  Stadt und ich möchte nie nie wieder hier weg.
 
 Was wir alles schon gesehen haben? So dies und das, wir haben zwei Radtouren gemacht, die Elbe und die Alster erkundet, wir waren auf dem Flohmarkt, beim Frühstücken, sind zusammen ins alte Land gefahren, haben die Kirschblüte dort bewundert, waren auf dem Hafengeburtstag und sogar schon auf einem [Konzert](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/), die Bilder habe ich ja bereits hier gepostet.
 
@@ -87,7 +78,7 @@ So sind wir auch erst letzten Sonntag endlich dazu gekommen, unsere Bilder an di
 
 <RemoteImage
   alt={`Radtour durch Hamburg`}
-  size="medium"
+  size="full"
   title={`Radtour durch Hamburg`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_16711504734_bbf097b072_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_16711504734_bbf097b072_z__l.jpg"

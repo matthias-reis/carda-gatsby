@@ -22,11 +22,11 @@ Die Jackfrucht wird getrocknet, geschreddert und im Anschluss weiterverarbeitet.
 
 ## Steaks aus Jackfrucht
 
-![Jack Fruit als Fleischersatz](/img/16269362802_5205cb0939_z-380x250.jpg 'Jackfruit auf dem Markt in Sri Lanka')
+![Jack Fruit als Fleischersatz | large](/img/16269362802_5205cb0939_z-380x250.jpg 'Jackfruit auf dem Markt in Sri Lanka')
 
 Jackfruits werden hauptsächlich in Südostasien und Südamerika angebaut und kommen in den verschiedensten Küchen zum Einsatz. Die stacheligen Früchte bringen ein Gewicht von bis zu 35 Kilogramm auf die Waage. Sie gehören zur Gattung der Maulbeergewächse und werden auch als Jakobsfrucht, Jackbaumfrucht oder Jaca bezeichnet.
 
-![Jackfruits](/img/16084046259_2e1a769649_z-380x250.jpg 'Jackfruits')
+![Jackfruits | large](/img/16084046259_2e1a769649_z-380x250.jpg 'Jackfruits')
 
 In einigen Ländern werden beispielsweise auch die vom Geschmack an Kastanien erinnernden Kerne gekocht, getrocknet oder zu Suppe verarbeitet. In Asien gibt es zum Beispiel auch Jackfruit-Chips, das frische Fruchtfleisch wird dort auch gerne zu Süßspeisen verarbeitet oder geschnitten und eingeschweißt aus der Kühltheke verkauft.
 

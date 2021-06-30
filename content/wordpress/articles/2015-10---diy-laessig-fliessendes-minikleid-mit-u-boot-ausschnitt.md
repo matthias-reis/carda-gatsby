@@ -129,7 +129,7 @@ Nun schließt Ihr die Nähte entlang Eurer jetzt noch sichtbaren, eingezeichnet
 
 ## Wenden und anprobieren
 
-![Das "Schnittmuster"](/img/minikleid-nahanleitung-17jpg_22332294726_o.jpg 'Das "Schnittmuster"')
+![Das "Schnittmuster" | large](/img/minikleid-nahanleitung-17jpg_22332294726_o.jpg 'Das "Schnittmuster"')
 
 Jetzt müsst Ihr Euer Meisterwerk nur noch wenden und anprobieren. Das Minikleid passt wunderbar zu Leggings in Lederoptik, Skinny Jeans oder Strumpfhosen und lässt sich auch prima mit einem schönen Gürtel kombinieren. Im Winter könnt Ihr gut einen Langarm-Body darunter tragen, am besten Ton-in-Ton oder je nachdem, welche Farbe Euer Stoff hat, auch in Komplementär-Farben.
 

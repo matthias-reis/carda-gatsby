@@ -35,18 +35,18 @@ errors: {}
 subTitle: '"Drones" ist endlich da'
 ---
 
+**Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das Einzige, was das neue Musealbum zu bieten hat.**
+
+Rotzig frech, verrockt und roh kommen Matthew Bellamy, Dominic Howard und Christopher Wolsteholme mit "Drones" zurück und lassen dabei nichts aus.
+
 <RemoteImage
   alt={`&quot;Drones&quot; - Das neue Album von Muse ist da!`}
-  size="medium"
+  size="full"
   title={`"Drones" - Das neue Album von Muse ist da!`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQcIBv/EAC8QAAIBAwIFAgMJAQAAAAAAAAECAwQFEQAGBxIhMUETURSBsRUiMjNCYXGR8PH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQIE/8QAGxEBAAICAwAAAAAAAAAAAAAAAQACAxESITH/2gAMAwEAAhEDEQA/AEVtPbNfuGtamt8akovPJJI3Ikajyx+g7nW22/s2rjtdvu9fbJ/smarjhcMpjdwxxgA4OD4PbRPZO56Wy2i0wWiki+NqqVZaliTgSgspY/IZxreXDcE26rDHQ0oLSyCOU1kiM0TFWyAvnHT/ALrWTJblonXiw1KbTcGT8P8Ab0VO0MdplqZudlaWWVgEUK+SCH6/hUjp+tc99KLeW2o7VuiS30qyinaGKZfVHXqmW/o5H8gjVCTCult8kVVYIKqJ0dWNLXgEhkjTs6AjpGv+7rbiR6l23HRVQtddQMscqzfElXVmeUyYUr4+8e/v7aKlrVXbLkrWwBFw9HcLFPSUl3t1XQyvGJAlSvIXjPt+2c5HyOqx4U11hr7DBFS26jp1UflpCqdemT086T1Vwz3nvmvpqq53Pb9II09OOOCOQIgZizEKq9yxJJz1Oi21+FHEWzSJNbrvY4EywUSPIwIyRnAHTONNdLAr3DLAtTyUHVJakjKj04xyklmPRR76nnipeLcKhlp5AwVx1U4yM+2tbPsDiRXTSy1W7LHEZAByxU0pCgeB9dCangfuKufF03rAYXOJFhomJI845mxotC9snLXk/9k="
 />
-
-**Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das Einzige, was das neue Musealbum zu bieten hat.**
-
-Rotzig frech, verrockt und roh kommen Matthew Bellamy, Dominic Howard und Christopher Wolsteholme mit "Drones" zurück und lassen dabei nichts aus.
 
 Ich weiß, ich habe Euch dieses Mal lange auf meine Rezension warten lassen, aber drücken wir es einfach so aus: Es gab viel zu tun. Nun ist es endlich soweit, heute beim Joggen habe ich die neue Muse-Platte für Euch auseinandergenommen. Danke an dieser Stellen noch an Vale für das wundertolle Geburtstagsgeschenk! Du bist der Beste!
 
@@ -58,7 +58,7 @@ Hervorgeholt werden stattdessen ganz neue Werkzeuge aus der Toolbox. Und nicht n
 
 <RemoteImage
   alt={`Rotzig frech, roh und verrockt: &quot;Drones&quot;Rotzig frech, roh und verrockt: &quot;Drones&quot;`}
-  size="medium"
+  size="full"
   title={`Rotzig frech, roh und verrockt: "Drones"`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-3__l.jpg"
@@ -75,7 +75,7 @@ Aber ich möchte nicht vorgreifen. Beginnen wir mit dem Opener. "Dead Inside" ko
 
 <RemoteImage
   alt={`Verspielt: &quot;Drones&quot;`}
-  size="medium"
+  size="full"
   title={`Verspielt: "Drones"`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-4__l.jpg"
@@ -92,7 +92,7 @@ Das kleine, bedeutungsgeschwängerte Zwischenspiel "JFK" hört Ihr Euch selbst a
 
 <RemoteImage
   alt={`Elektrisch: &quot;Drones&quot;`}
-  size="medium"
+  size="full"
   title={`Elektrisch: "Drones"`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__l.jpg"

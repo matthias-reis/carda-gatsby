@@ -35,22 +35,11 @@ errors: {}
 subTitle: 'Es ist Zeit, dem Leiden der Tiere ein Gesicht zu geben!'
 ---
 
-<RemoteImage
-  alt={`Petra von ethice mit ihrem Vierbeiner`}
-  size="medium"
-  title={`Petra von ethice mit ihrem Vierbeiner`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_website__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_website__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUD/8QAKhAAAgIABQMCBgMAAAAAAAAAAQIDBAAFERIhMUFxE2EGBxUiUfAUM0L/xAAYAQACAwAAAAAAAAAAAAAAAAABAwIEBf/EAB0RAAICAwEBAQAAAAAAAAAAAAECABEDEiEEMXH/2gAMAwEAAhEDEQA/AEanGk6LtkDAcFlOo8YsZVYbMqVloYVC1ozI+8nfp2A89fxjMtWVhj3RMBIq8Kv2j3PHnzjMyXMs/wDpd3LMnhtW4X5kEMbSNGGIBAI7Hpp05OmMxFJsxvjRWtn/ACMDsHjlWGpPJ/HjaxKRFqUjGhZm/AHcnFL6nUsRhalmNww10WQdT+9MM/yg+IbVfNrWT5lWYz2hopkZgq7SU2SRj+wFn02Eck89sbef/LDJqmk3ptlcPoOjg212151Q+mShH3I4U8hiQR74fj8qkXsbldsWhq7iPUNdL4a8kNlE6xy66E/51APT2x1msNDeazRWKmAoAWk5iAGp66Hnr3wYMJKdIuAOyjUHkjUsSw3kuQSSLbB3u6ux3uNDqdx/ecTz3OM2zYSnMbs8kUiqXjLgBu4JA6nk+MGDAXHR+mRrs//Z"
-/>
+**Über einen netten Interviewpartner wurde mir vor Kurzem Petra Mazur, Gründerin des Labels ethice und kreativer Kopf des ethice Online-Shops vorgestellt.**
 
-<p class="p1">
-  __Über einen netten Interviewpartner wurde mir vor Kurzem Petra Mazur,
-  Gründerin des Labels ethice und kreativer Kopf des ethice Online-Shops
-  vorgestellt.__
-</p>
+> "Mit der Frau müssen Sie ein Interview machen, Sie hat Interessantes zu erzählen!"
 
-"Mit der Frau müssen Sie ein Interview machen, Sie hat Interessantes zu erzählen!" Gesagt getan, ich schrieb Petra an und hatte schon am nächsten Tag eine sehr nette Antwort mit einer Zusage im Postfach **.**
+Gesagt getan, ich schrieb Petra an und hatte schon am nächsten Tag eine sehr nette Antwort mit einer Zusage im Postfach,
 
 ethice ist derzeit noch ein gemeinnütziger Verein, in naher Zukunft soll die Marke als Non-Profit-Unternehmen weitergeführt werden. ethice ist das lateinische Wort für Ethik. Dahinter steckt ein Shop für alle, die sich friedlich gegen Unrecht und Leid auflehnen und dem Leiden ein Gesicht geben möchten.
 

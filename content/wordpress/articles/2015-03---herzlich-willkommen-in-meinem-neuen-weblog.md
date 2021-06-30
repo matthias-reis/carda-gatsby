@@ -42,15 +42,6 @@ subTitle: 'Teil V: Der Livegang'
 
 > Hey, alles glänzt, so schön neu. Hey, wenns dir nicht gefällt, mach neu.
 
-<RemoteImage
-  alt={`Herzlich Willkommen`}
-  size="medium"
-  title={` Herzlich Willkommen`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14931910137_e0e4ceee85_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14931910137_e0e4ceee85_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcEBQgD/8QAKxAAAQQBAwMDAwUBAAAAAAAAAQIDBBEFAAYhEjFBByJxFDJRExUjYYEk/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUB/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAxESITFh/9oADAMBAAIRAxEAPwDP0HEry7H6sEo60oLjrPkAWOuvIv8AHbuPOm96D+nmJ3FhZ8ua20/NjOhooX7gk1YNebBFfB0KbKjNJj5Gdt+Sr69DaYxabbDi4/vAKwkm1I5v/D8aJdj7ri4Lc8rcWNDv7VIQqNlYbCQos8nofQngKAI6q70VDW3aykLEUkAzr6ibNx+Kiy5SUttNNUQAL/rx+D40ls3jHIM1hxtLzaJFlHWnoV80Ca+Na0VjMJJ2zNx0jNLnMTkjIY+c8pKx1G/agpSOODafHnSQm4V7OOKacUlC4YcdbPBLiQADRHB5s8XwCRej0ufDKFtQsq5kZkrdoYwIeRk8NKcediNqcS0yOmQaQfYUj70k9PIvV0leLyYQ7HW3ByzgccdYSQlmYpIAVYNBKjRsGhd9jpeQ1zsW2+tKHbUEJSpKiqh1BRIUnkfaNEDm5mMkkOZeKt14RVJ+sbILvIVaVDsse4V1AH+703DJasBNCbbg5PBenW3ndvOwYkufF+rlQpzBW2VLqqINoNACqI40pfUjI5ePOTKysdDUjrSpK4rf8AIPYED/ACjzR1Knblxk/YuNIT/2wmwwgpQU9DbYqlG7s2kjv2OoG3IOf3dhHn4jyHIrb6mQVP8AvBCAogjuAQfaT3OiBAHJbqOa0117u78n/9k="
-/>
-
 ** [_(Hier geht es zum vierten Teil des Artikels)_](/2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/) Wie recht der Fox Peter doch hat! Man fühlt sich schon viel wohler, mit einer neuen Tapete! Ich begrüße Euch auf meinem brandneuen, hochmodernen Blog! Herzlich Willkommen! Ich hoffe, es gefällt Euch! Ich bin schon gespannt auf Eure Kommentare!**
 
 "Wie jetzt? War doch grade erst Abschied, jetzt schon wieder Begrüßung, oder was?" Ganz genau! [Anne bloggt cardamonchai](http://www.cardamonchai.com) ist in ein neues Online-Haus umgezogen. Und hier bleibt es jetzt auch erst mal, versprochen! Es kann zwar sein, dass in den nächsten Tagen noch ein paar Dinge (die Euch vielleicht auch gar nicht gleich auffallen werden) nachgezogen werden, aber im Großen und Ganzen war's das jetzt erst mal mit dem Umbau.

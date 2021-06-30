@@ -128,13 +128,9 @@ Das sagt Matt über sein Soloprojekt:
 
 Valentin zum neuen Puscifer Track:
 
-<p class="p1">
-  "Richtig spannend fand ich in diesem Monat den neuen Song von Maynard James
-  Keenans Projekt Puscifer, dass sich mit der aktuellen Lage befasst und in den
-  Maynard im passenden Video dazu mal wieder seinen ganz speziellen Humor
-  beweist."
-  <YouTube id="Hj_bTbfAEsc" />
-</p>
+"Richtig spannend fand ich in diesem Monat den neuen Song von Maynard James Keenans Projekt Puscifer, dass sich mit der aktuellen Lage befasst und in den Maynard im passenden Video dazu mal wieder seinen ganz speziellen Humor beweist."
+
+<YouTube id="Hj_bTbfAEsc" />
 
 ## Figure Four - "State Of Mind" vom Album "Suffering The Loss"
 

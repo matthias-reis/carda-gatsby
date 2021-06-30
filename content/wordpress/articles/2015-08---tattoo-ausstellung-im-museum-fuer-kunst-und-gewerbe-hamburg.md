@@ -37,14 +37,6 @@ errors: {}
 subTitle: Erinnerungen und Tätowiernadeln
 ---
 
-<RemoteImage
-  alt={`Tattoo-Zubehör`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20466311329_5f8765f4e7_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20466311329_5f8765f4e7_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwIDBf/EACkQAAEEAQMDAwQDAAAAAAAAAAECAwQFEQAGEgcTITFBYRQVIlEyQnH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHBEBAAICAwEAAAAAAAAAAAAAAQACAxESITGR/9oADAMBAAIRAxEAPwCNG33DqXk07lTMW+wew68UgJSfH5BIBKh5PydVpuihtLKyFxJSmWJijxT2Eh1HHKUpUgeSAgAZIxjHvqxeo+261ihn7nftp0KY4hCWIraR233uIIQOI5BSgORP9RgkjIyh0tLY3G2re4kzAmujuNsJSI7xUXiScHxjwjKiScAEengajltYOo1aimpB2ns+xt7ZSJ8F1MZtkuNoabQhalZACUlWBnBUfyOPGfjVwdC7p2Nt3cFbbO5+2N/VMtuICVdpAWkhOAAoAIT6ZxnSltbpobmosVxrSF3Y6iEreQtKgnGUlKD/AD9PYn9a7dTtFjbhtJlhLfoZL0d6EPuUNwtKDgx4VkkA8QeQ+QcA6lXO11s9jmBXR8jGmbuK5o4lXa9PqmdDjrDrfKxBUF+cr5cweRycn3zpqo7rdVRXJg1nTyDGhjJ7TMxASSfUnz5J9yc50aNbuJJMwYm30WR9RF6ZVbMjn3e6h9pK+X75A51um716h8FJRsmAUnwQ7YIIP+jno0aJUgVn/9k="
-/>
-
 **Nachdem es uns am Sonntag dann doch zu schwül war, uns ins Auto zu setzen und an die Ostsee zu gondeln, entschieden wir spontan mit dem Fahrrad ins Museum für Kunst und Gewerbe zu fahren.**
 
 Dort läuft derzeit eine Ausstellung rund um das Thema Tattoo. Gezeigt wird das Tattoo im Wandel der Zeit, verschiedene Stilrichtungen, es werden Interviews mit tätowierten Menschen abgespielt und ihre Beweggründe beleuchtet. Es sind jede Menge Fotos ausgestellt, dazu Farben, verschiedene Tätowiernadeln und Handwerkszeug von Tattooartists verschiedener Epochen weltweit.

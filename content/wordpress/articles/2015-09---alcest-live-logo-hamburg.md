@@ -42,15 +42,3 @@ Alcest lieferten ein stimmungsgeladenes Set ab, das uns noch lange in Erinnerung
 Als Vorband traten übrigens Lantlôs aus Rheda auf, in der Galerie findet Ihr auch zwei von ihrem Sänger
 
 <Gallery name="flickr/alcestlogoanne092015" />
-
-[Hier lang](http://www.alcest-music.com/) zur Homepage von Alcest
-
-<RemoteImage
-  alt={`Blogger für Flüchtlinge`}
-  size="full"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_BFF_1508_HeaderSW2-300x111__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_BFF_1508_HeaderSW2-300x111__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgQDCP/EACcQAAIABgEDAwUAAAAAAAAAAAECAwQFERIhAAYTQRQxMiIjJFGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOl1+zG38G88M9W1Oo0qcg+giASjL+QFk3jRFBNskYGwYXBCsCCA2xq6OE5uENip8HmYpUMzJBmZ/Egmwm4gAv8ArfAO9HVSsVCaL1GYo3ZVLvDp+cVQzbQd1sfqtsjHVwPPFUMYTLL4PtyWHSoODqI86uByFpqIP7vftylmLQREPzU6PA//2Q=="
-/>
-
-[](http://www.blogger-fuer-fluechtlinge.de/)

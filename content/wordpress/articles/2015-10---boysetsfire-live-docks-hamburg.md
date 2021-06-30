@@ -29,20 +29,20 @@ errors: {}
 subTitle: Ein wundervoller Abend
 ---
 
-<RemoteImage
-  alt={`Boysetsfire live im Docks`}
-  size="medium"
-  title={`Boysetsfire live im Docks`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21161089299_f95f23f9d9_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21161089299_f95f23f9d9_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAAMH/8QALRAAAgEDBAEBBgcBAAAAAAAAAQIDBAURAAYSIUEiBxMjMXGBFUNRYaGxsvD/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAT/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIRAxIhIv/aAAwDAQACEQMRAD8A6ZLb0uE8cj0NPV00SOjSPAJkGeICZI6PqJ6++i6HZdtZjNNt21sOQVI2tigDA7OCp8+frqJtlgtE8dRDVUdHcFX3bPMruod8v5VgMDiAMDx505pNnWSflNVWWOQFiqKKmVsD9vWPprPi84kmNq3wrY9r2JxKI9vWkFDxcfhcagH7oMjUx7WbYrez++NS0kUlTT04MIWIFkPNBhfK9ZHWNbW2HtWRGElhpWVhghnlI/3oL2i2qgk2pXVMlFG01DCZKdzktEfSuV7+fHrTTQlHtCyxTXeWy0Udoi29FDEUx78VBcpxyofgo9XFhnsjs96Z0tTuypwlNUbTpoo8hQtDUyd+cfFxpPtWkeHblrMyxO9RDEwyoYJ8FOiWQ47/AOOqmE08VNGkr0S5JLgOvHOfGOI/jVKVIox6Lhbt1hJhBf7DSGTJZqaxtnP6+qf56zdNvulxsU1Kt7ERaErOTRoyzjgcjH5eT3lex8tHNeqOmaRaq42tR2UCVSg9eDk4B0orNz2ydPdpVwETKUHxUOCRjHR/rR2Ekf/Z"
-/>
-
 **Gestern hatte das lange Warten endlich ein Ende und die Familie traf wieder aufeinander. Boysetsfire spielten zum Auftakt ihrer Tour im Docks in Hamburg und da durften wir natürlich nicht fehlen.**
 
 Die Stimmung auf dem Konzert war mal wieder ganz große Klasse. Leider ist Sänger Nathan derzeit ziemlich erkältet und war stimmlich sehr angeschlagen. Trotzdem zogen Boysetsfire ihr komplettes Programm durch. Nate wurde vom stimmgewaltigen Gesang seiner Fans unterstützt, der Club bebte. Immer wieder bedankte sich die Band für's Kommen und das Verständnis der Fans, voller Rührung und Freude über die Textsicherheit der Fans.
 
 Mit im Gepäck waren natürlich nicht nur neue Songs, sondern auch die Klassiker wie "Release The Dogs", "Empire" und "My Life In The Knife Trade". Auf der Facebook-Seite der Band schreibt Nate heute "Es werden keine Shows abgesagt werden und meiner Stimme geht es schon bald wieder besser!".
+
+<RemoteImage
+  alt={`Boysetsfire live im Docks`}
+  size="full"
+  title={`Boysetsfire live im Docks`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21161089299_f95f23f9d9_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21161089299_f95f23f9d9_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAAMH/8QALRAAAgEDBAEBBgcBAAAAAAAAAQIDBAURAAYSIUEiBxMjMXGBFUNRYaGxsvD/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAT/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIRAxIhIv/aAAwDAQACEQMRAD8A6ZLb0uE8cj0NPV00SOjSPAJkGeICZI6PqJ6++i6HZdtZjNNt21sOQVI2tigDA7OCp8+frqJtlgtE8dRDVUdHcFX3bPMruod8v5VgMDiAMDx505pNnWSflNVWWOQFiqKKmVsD9vWPprPi84kmNq3wrY9r2JxKI9vWkFDxcfhcagH7oMjUx7WbYrez++NS0kUlTT04MIWIFkPNBhfK9ZHWNbW2HtWRGElhpWVhghnlI/3oL2i2qgk2pXVMlFG01DCZKdzktEfSuV7+fHrTTQlHtCyxTXeWy0Udoi29FDEUx78VBcpxyofgo9XFhnsjs96Z0tTuypwlNUbTpoo8hQtDUyd+cfFxpPtWkeHblrMyxO9RDEwyoYJ8FOiWQ47/AOOqmE08VNGkr0S5JLgOvHOfGOI/jVKVIox6Lhbt1hJhBf7DSGTJZqaxtnP6+qf56zdNvulxsU1Kt7ERaErOTRoyzjgcjH5eT3lex8tHNeqOmaRaq42tR2UCVSg9eDk4B0orNz2ydPdpVwETKUHxUOCRjHR/rR2Ekf/Z"
+/>
 
 Wieder mal ein starker Auftritt der Lieblingsband. Hoffentlich sehen wir sie bald wieder, dann ist hoffentlich auch mein Hoochiherz wieder dabei.
 
@@ -52,7 +52,7 @@ Das hier habe ich heute Morgen bei Twitter entdeckt. Ich bin ganz stolz drauf.
 
 <RemoteImage
   alt={`Mein Tweet auf dem Profil von Boysetsfire`}
-  size="large"
+  size="full"
   title={`Mein Tweet auf dem Profil von Boysetsfire`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Bildschirmfoto-2015-10-02-um-08.39.30.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Bildschirmfoto-2015-10-02-um-08.39.30.png__l.jpg"

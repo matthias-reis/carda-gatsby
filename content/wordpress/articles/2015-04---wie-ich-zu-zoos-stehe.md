@@ -35,13 +35,6 @@ errors: {}
 subTitle: Tierquälerei oder Artenerhalt?
 ---
 
-<RemoteImage
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3966__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3966__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMHBQYI/8QALRAAAQMCBQIEBgMAAAAAAAAAAQIDBAARBQYSITETIgdBYXEVMkNRUpGBoeH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQACBP/EABwRAAEEAwEAAAAAAAAAAAAAAAEAAhESAyExUf/aAAwDAQACEQMRAD8ApDWTIUvU78Dgg7APNamC6n0Fz/YqeZpiTMIxmTCbwWJ0WWy4hx6RoWrsukCwsQTcXHFXRMTEVuFRnpSnyQ2yBffzJvUi8Z4bsfMUBRlOulbQsXALqKSdhYcW9qQ2ruE3xi5rKU5kyPI6a406D1FoClIRIKbG243FjY1hMUyviENY0OoQnkaiHAU/wa2Xwqks4hjT0GXHS40ptbhS4PkWLG4/Z/dUCdldttJfw5xUaSo9hTskeh+1WIE6UsRoozdmCThLDbUNKUuO79XkpGknYcX9aieZMexTG5BbclqS5h7LiW3FjXr5HeDzxf3oooDTLoKKxoDZHU7wtek4JMenx3GlONspTpU32lJF1Dm4JI5rpNgamw4fqJC7fjcA2/2iijnqz5fV/9k="
-/>
-
 **Noch bis vor Kurzem war mir in Bezug auf Tierrechte einiges nicht bewusst. Doch durch das Schreiben und Recherchieren für meine Seite und die beiden veganen Magazine, für die ich aktuell schreibe, lerne ich jeden Tag dazu.**
 
 Auf diesem Wege wurden mir auch die Augen geöffnet, was Zoos angeht. Auch ich habe früher den ein oder anderen Zoo besucht und dort die Tiere fotografiert. Genau, wie ich früher [Käse gegessen](/2014/11/suechtig-nach-kaese-casomorphine/) habe.
@@ -49,15 +42,6 @@ Auf diesem Wege wurden mir auch die Augen geöffnet, was Zoos angeht. Auch ich h
 Heute tue ich das nicht mehr. Inzwischen ist mir nämlich so einiges klar geworden. Manchmal liegt das auf den ersten Blick vielleicht nicht klar auf der Hand aber: Tiere gehören nicht in Zoos.
 
 ## Enge Zoos sind kein Ort für Giraffen
-
-<RemoteImage
-  alt={`Zoos sind nicht der richtige Ort für Giraffen`}
-  size="medium"
-  title={`Zoos sind nicht der richtige Ort für Giraffen`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3952__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3952__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgIDBQcE/8QAMBAAAQQBAwIDBAsAAAAAAAAAAQIDBBEFABIhBjE1QbITIlFyFTZSYXFzgYKRorP/xAAYAQADAQEAAAAAAAAAAAAAAAACBAUAA//EAB4RAAEEAgMBAAAAAAAAAAAAAAEAAgMREiExQfAE/9oADAMBAAIRAxEAPwAdNwTIkTRcbaGNiU7t1KttN8A+ZP8AOmPT609NQMZilR48lbi1OS0qbUtKUrcopBCaJAAsntxryT8Y4JORBebYUQAhwOC0kujaf6jSadESl3HRWyhUVvaHV7iC64HABXHPIUT95GpsGiSqX1OtoCLdXuYqR0pDjY5tMWA2+j2YbbKgbS5Z5I5JN970dKIX0kQXXCpyL5JQAQY/za3G3DAh5PG5R7FxkmQ2W3FQjOaQn3gnchVEK4uwTXw1VmE9JB3GM40z5GV2tpVNEdDLTrZQU8Ngg8jtYFa0jA+nEjpHDI5gxo97XVHsCFZNS0NsrUyGnQku1dLJ5v4d/wBNGuo5CY8rE74a2pAXsoPtlabVaSobgPteRNHjSjP+Iv8A5TXpVrk+Z+uf7onpOiMgGqXAx2MiVl42JMf6ffcnlpMhxxokqfR2tdc2fKtSTAAy+EUp+Ik7Y6eHbJ98jigdXwfBnvnY9K9SV4jgvxj/AOp0mH2br1p9vGPuF//Z"
-/>
 
 Eigentlich kann man sich doch denken, dass enge Zoos nicht der richtige Ort für Braunbären, Giraffen und Löwen sind? Klar, ein mulmiges Gefühl hatte ich schon immer dabei, wenn ich die Bären auf ihrem künstlichen Felsen hin und her wandern sah.
 
@@ -75,7 +59,7 @@ Artenerhalt – dieses Wort haben sich die meisten Zoos auf die Fahnen geschrieb
 
 <RemoteImage
   alt={`IMG_3909`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3909__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3909__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAAzEAACAQMDAQQFDQAAAAAAAAABAgMEBREABiESMUFRYQcTFCOBFSIyQlJicYKRk7HR4f/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAECBf/EAB8RAAIBBAIDAAAAAAAAAAAAAAECAAMRIUEToSIxUf/aAAwDAQACEQMRAD8AYaHeVNuJko7zVPQSzKixVMBClH7+TkFT4NjHjpb3lQ7o27UYrVlqaKQ+5rYap2hlH4gDpPkfhnQsUpAUewzkP2AzJg489Aa7eNynvUVhtFXdEtdJMI5KYN64ZB94OnjrUYOB28EaWahVK2LdwqVRodTVJX3GT6SR/md2/ltcfXVx7qf9v/dVa67FhuNI9w2o61HTkz2/skjI7THnkj7p58M9mkZ6co7I6MjqcFWQgg+BGkGpEe4XmcYvG8W6MXCRpHBCoB0njoIJ7/PUe9Hlvgus25aha+qobtDSy18VVEcMkoZiAAOeWH6HVqrbla47FVbgpKuKR4po09gK/NkJYAKXzxwSeARxoxti57ep6VKTbq2+zsygrCsSxsTnJyfrHzyfjroX8c7mSwY41EPYdTXxWG0Xm3SsJaikV5kL8OwyGbPPIK/3qlR70uJjUyWWKWQgdTiZMMe89vfrRXW6CppJAyotT0uqKiqiMXIJLBcZJ558+ToX8mp3yxKfstnI8jx26hAGfspWxYz/2Q=="

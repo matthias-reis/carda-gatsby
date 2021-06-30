@@ -69,7 +69,3 @@ Heute verläuft Planten un Blomen wie ein grüner Fluss um den Westen der Innens
 Am 25. Mai haben Matze und ich eine schöne Fototour durch den Park unternommen. Selbstverständlich habe ich auch eine kleine Bilderserie aus meiner Klickse für Euch vorbereitet. Ich hoffe, sie gefällt Euch!
 
 <Gallery name="flickr/anneplantenunblomen52015" />
-
-## Weite Infos
-
-[Anfahrt und Parken](http://plantenunblomen.hamburg.de/anfahrt-parken/) Planten un Blomen

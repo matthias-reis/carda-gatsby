@@ -34,15 +34,6 @@ errors: {}
 subTitle: Aus T-Shirt mach Tasche Teil 1
 ---
 
-<RemoteImage
-  alt={`Mein DIY Upcycling Nerdbag`}
-  size="medium"
-  title={`Mein DIY Upcycling Nerdbag`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-26__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-26__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QALBAAAQMCBAUDBAMAAAAAAAAAAQIDBAURAAYSIRMiMUFRBzJhIyRC4XGBof/EABcBAAMBAAAAAAAAAAAAAAAAAAECBQP/xAAcEQACAgMBAQAAAAAAAAAAAAABAgADMVHxEUH/2gAMAwEAAhEDEQA/AKBnRlcx+bwQ+qLxrghPKp2wSpNxvt1/vD30nahTn5LbpDS9OiWpxIsSlCtyfxPLf5sfGJeZMroeo0dqRMEhp59Utb0cEn2AWGod1Dx3xE9IFU+kZvrEJc5jStSGI6SoK4iuY2vbTcA2/nYYnVkMpGpVtUoQR9lxkZcoz5bU1UnUtFAUj7a+pJ79emxwYd5jjNy3mtbQukEXQVJv066SPGDBBaZECYbnLMZW4zTYsh5ptLTTLyUqsDYFdvO+q21sc8mT2ZM2jokSm0vmahsREx+UptcLJ9uxtYW6jFOqLRdr1WdS4OHG+sokHe5SAkfN1f5h1kulPOSYlWddabgxntYOrncKOwA6C/c4dkRac+chV3a3fZvzdZTUEblIlNHQ+gdleR8HqP1gxnVPqDSnZUx4cQvL0AnfZP7UcGErQlQTmGxgHIXE/9k="
-/>
-
 **Habt Ihr auch so viele T-Shirts zu Hause rumliegen, die Ihr nicht mehr anzieht, weil sie nicht mehr so schön aussehen? Ihr wollt Euch aber  aufgrund des Aufdrucks und der vielen tollen Erinnerungen nicht davon trennen? Dann geht es Euch so wie mir.**
 
 Wie Ihr aus den Dingern doch noch was machen könnt, möchte ich Euch gerne zeigen. In Teil 1 zeige ich Euch, wie Ihr innerhalb kürzester Zeit Euren ganz persönlichen Nerdbag kreieren könnt.

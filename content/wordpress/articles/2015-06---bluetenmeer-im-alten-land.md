@@ -49,5 +49,3 @@ Zum Schluss wurden dann noch Äpfel getestet und frischer Spargel geshoppt. Eins
 Meine Eindrücke aus dem Alten Land habe ich natürlich fotografisch festgehalten. Im Beitragsbild ganz oben ist übrigens eine Apfelblüte zu sehen.
 
 <Gallery name="flickr/annealtesland052015" />
-
-<FestivalList />

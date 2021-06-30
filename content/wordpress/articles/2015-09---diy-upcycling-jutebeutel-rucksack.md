@@ -35,18 +35,18 @@ errors: {}
 subTitle: Schritt-für-Schritt-Anleitung
 ---
 
+**Was haben Nerds, Hipster, Rocker, Hip Hopper, Althippies, Models, Kaffeetanten, Banker, Sportler und Schulkinder gemeinsam? Ganz genau, sie alle tragen alle einen Jutebeutel-Rucksack. Man könnte sagen, die Dinger sind im Moment richtig en vogue.**
+
+Gehört Ihr auch zu den Leuten, die ihren alten Jutesack leid sind und gerne unterwegs die Hände frei haben? Habt Ihr Euren Turnbeutel während der Schulzeit immer gehasst und jetzt plötzlich Bock drauf, aber das Ding ist weg? Dann habe ich heute was für Euch!
+
 <RemoteImage
   alt={`Jutebeutel-Rucksack`}
-  size="medium"
+  size="full"
   title={`Da war es noch ein Jutesack`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAsEAACAQMCBgAEBwAAAAAAAAABAgMEBREABgcSExQhMRUiQWIWUWGSocPT/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMFAAH/xAAaEQADAQEBAQAAAAAAAAAAAAAAAQIhEQMx/9oADAMBAAIRAxEAPwCE4QWNK/c8PWjjkhgp5p5FlUMuAmPIPj22tAtd0m+J9oJLX2PbGaPnpIunM4AyI08kSfaQMgfrqb4ZydltveFyRSWjt3bx4+rOT4/hdKtvbkr7HXKzKsY6UihWCssj4BXmHMDy86pnJ9Z1HiXfWWPSlLSNWu1XHVSUNvoaGlilq3ZKmOWKBOgqKDzsrDlOSfGMk+ceAdZrxk24lvvNHVwxLFFWU4BVAAA6eCPHj0V9a5L3vrcO5UhavhhhqEnWVVpVUKQqMC5+Y/MCcDxnGn1xuEm5eF1RLWoRcLTWdTlOMiJgD9PtY/t0dQ5XQY9FT4KeGd7SksVXDPRpUxzznqI7DlYBVwCCDq6g3ZbaVRy7aovf05B/Xo0aVS48HTq057hxLpY8n8N0xb3nqJ/nqNvvEzuaeaAWWFIpEZGUTYGCCD6Ufno0a7O/TUklh//Z"
 />
-
-**Was haben Nerds, Hipster, Rocker, Hip Hopper, Althippies, Models, Kaffeetanten, Banker, Sportler und Schulkinder gemeinsam? Ganz genau, sie alle tragen alle einen Jutebeutel-Rucksack. Man könnte sagen, die Dinger sind im Moment richtig en vogue.**
-
-Gehört Ihr auch zu den Leuten, die ihren alten Jutesack leid sind und gerne unterwegs die Hände frei haben? Habt Ihr Euren Turnbeutel während der Schulzeit immer gehasst und jetzt plötzlich Bock drauf, aber das Ding ist weg? Dann habe ich heute was für Euch!
 
 > _Der Jutesack ist tot, es lebe der Turnbeutel!_
 

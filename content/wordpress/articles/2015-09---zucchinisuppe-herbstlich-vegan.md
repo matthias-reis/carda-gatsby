@@ -36,18 +36,18 @@ errors: {}
 subTitle: Rezept für eine große Zucchini
 ---
 
+**Vor drei Tagen brachte Matze die größte Zucchini mit nach Hause, die ich in meinem Leben bis jetzt gesehen habe. Ein Kollege brachte sie ihm mit, natürlich bio und aus dem eigenen Garten.**
+
+Weil ich gestern hier so [lautstark damit angegeben habe](/2015/09/ich-bleib-dabei-vegan-macht-spass/), dass ich vorhätte, was Leckeres zu kochen, zeige ich Euch heute, was ich daraus gemacht habe.
+
 <RemoteImage
   alt={`Ganz schön groß diese Zucchini`}
-  size="medium"
+  size="full"
   title={`Ganz schön groß diese Zucchini`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0788__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0788__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFCP/EACoQAAICAQMDAgUFAAAAAAAAAAECAwQRAAUhBhIxE0EHFBVxkSMyUZKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACESEDEiJBUXH/2gAMAwEAAhEDEQA/AAzZd5m+piOzKs9b0sntQKQRyfwM/ga0t5vx7madCl6g+aKM3cMYU4IX/QTqXqbZufcFipWg4P7ljPg8Hn7Z1WUaE56moQyArLJXWTLeQcHP28Y/GouQyeMawhqWlXpWlWWNopYoHZfUUFO5lT2J4Pb7HnHnWkemNxBI+YP9RrPqxdcruoenUsy1qtt66NAAySSxntYNyTjkjnA00PtEve36ajnwHB1M68fk0Dg6cdbdjfodn6epz1R3GNQXLZVFzrRp7Pv/AFNvW23Nl22uadR0jS21uOIhgwLlu45xznGD7edGGxma1bNZ4ncy5UYJyGzwRpW6T2ozVKUdiB7NiGRZCIIpZMsDwR2LyDqiqF+qzOLNhwR2q0k6eqmstuIVhLJKbVu3GpmaRy7OWJUHJbPA/jU1J8SunFdh9YQ4JGVrzEH7EJzqP+OvSFGr0z091aE+W3RBBVvQtF2tIAMrJgjIZQuDnyMe40X3qEE92xLFLEY5JGZSFUDBORjnRdau8xy9jWJ//9k="
 />
-
-**Vor drei Tagen brachte Matze die größte Zucchini mit nach Hause, die ich in meinem Leben bis jetzt gesehen habe. Ein Kollege brachte sie ihm mit, natürlich bio und aus dem eigenen Garten.**
-
-Weil ich gestern hier so [lautstark damit angegeben habe](/2015/09/ich-bleib-dabei-vegan-macht-spass/), dass ich vorhätte, was Leckeres zu kochen, zeige ich Euch heute, was ich daraus gemacht habe.
 
 ## Ihr braucht
 
@@ -60,7 +60,7 @@ Weil ich gestern hier so [lautstark damit angegeben habe](/2015/09/ich-bleib-dab
 
 <RemoteImage
   alt={`Alles schön anbraten`}
-  size="medium"
+  size="full"
   title={`Alles schön anbraten`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_null__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_null__l.jpg"
@@ -83,7 +83,7 @@ Weil ich gestern hier so [lautstark damit angegeben habe](/2015/09/ich-bleib-dab
 
 <RemoteImage
   alt={`Der Kater staunt - Die Zucchini ist größer als er!`}
-  size="medium"
+  size="full"
   title={`Der Kater staunt - Die Zucchini ist größer als er!`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0775__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0775__l.jpg"

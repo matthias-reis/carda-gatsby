@@ -45,18 +45,18 @@ errors: {}
 subTitle: Grundrezept
 ---
 
+**Ihr seid auf der Suche nach einem leckeren Frühstück, das lange vorhält? Ihr würdet gerne mal wieder einen Nachtisch zubereiten, bei dem Ihr so richtig hemmungslos schlemmen könnt?**
+
+Und dabei noch massenhaft Omega-3, Eisen, Proteine, Antioxidantien, Kalzium, Magnesium, Vitamine und Ballaststoffe zu Euch nehmen? Und was für die Figur tun? Geht nicht? Geht doch! Ich verrate Euch heute mein Grundrezept für Chia-Pudding.
+
 <RemoteImage
   alt={`Chiapudding mit Blaubeeren`}
-  size="medium"
+  size="full"
   title={` Chiapudding mit Blaubeeren`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_img_3668__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_img_3668__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAtEAABAwMDAwMBCQAAAAAAAAABAgMRAAQFEiExBhNhIkFRB2JxgZGhscHR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECIUH/2gAMAwEAAhEDEQA/AH21ys3R7igQ0nSmQPEmiZ61xGOaUi9yFjb6Ud1XceSn0zGrnidqgv1DzdwwHrNtSYdUk+oelQ2JB+eOKleSzN0S4pDyUSAktoRpBg7eD90UqzSrNx4Tq3F5J1bVleWtwsSFJZdBIjnb+a6Gsi1i74oYksuJA0EzB9jNYhw79wm7ZcL5aW4CTCIT9pJ/T/CrZ0ZlXRbW6G1F1KVDUZ0wCTG3x/VGsxUyeCP1onvXzTk9wFsShRhKiDH5j5pRuMbZuK1JQsORwDqTPsfJ8Ua6ryaFXDbBiUjmhbTyNlLkxJEftSLTRWUMY+ztFrZWu2c7gIClNrgEjaIM7be1P2CSE3DaWkIQkEqIT4FT+yu0oIIKR+HFNXS2aZGQS24NlJ0zPE0j02owa6f/2Q=="
 />
-
-**Ihr seid auf der Suche nach einem leckeren Frühstück, das lange vorhält? Ihr würdet gerne mal wieder einen Nachtisch zubereiten, bei dem Ihr so richtig hemmungslos schlemmen könnt?**
-
-Und dabei noch massenhaft Omega-3, Eisen, Proteine, Antioxidantien, Kalzium, Magnesium, Vitamine und Ballaststoffe zu Euch nehmen? Und was für die Figur tun? Geht nicht? Geht doch! Ich verrate Euch heute mein Grundrezept für Chia-Pudding.
 
 Chia-Samen stammen von der Salvia Hispanica, dabei handelt es sich um eine Salbei-Pflanze, die ihren Ursprung in Mexico hat. Inzwischen wird Chia nachhaltig in vielen Ländern Südamerikas und in Australien angebaut. Die weißen und schwarzen Samen galten bei den Azteken als Grundnahrungsmittel, heute kommen sie vor allem auch als Hühnerfutter zum Einsatz, nachdem sie lange in Vergessenheit geraten waren. Zu kaufen gibt es sie in jedem Bioladen, Vegan-Onlinehandel, im Reformhaus und im gut sortierten Supermarkt.
 
@@ -64,7 +64,7 @@ Chia-Samen stammen von der Salvia Hispanica, dabei handelt es sich um eine Salbe
 
 <RemoteImage
   alt={`Chiasamen`}
-  size="medium"
+  size="full"
   title={` Chiasamen`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_img_3673__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_img_3673__l.jpg"
@@ -82,7 +82,7 @@ Wie Ihr seht, sind meine Angaben hier sehr vage, ihr könnt die Zutaten wirklich
 
 <RemoteImage
   alt={`Ein Grundnahrungsmittel der Azteken`}
-  size="medium"
+  size="full"
   title={` Ein Grundnahrungsmittel der Azteken`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_img_3672__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_img_3672__l.jpg"
@@ -96,7 +96,3 @@ Die Chia-Samen am besten über Nacht in der Dose lassen und abends vor dem Zubet
 Morgens die Dose aus dem Kühlschrank nehmen und die Samen erneut gut umrühren. Ihr könnt jetzt noch ein bisschen Agavendicksaft oder Apfelsüße mit einrühren, wenn Ihr es besonders süß mögt.
 
 Die Masse mit einem Löffel vorsichtig in Schälchen anrichten und mit dem Obst, der Schokolade, oder was Ihr sonst gerne als "Deko" verwenden möchtet darüber geben. Ich esse am liebsten Blaubeeren dazu.
-
-Voilà: Fertig ist der Chiapudding! Lasst es Euch schmecken!
-
-_Quellen: [Wikipedia](http://de.wikipedia.org/wiki/Mexikanische_Chia)  , [CHIA SAMEN KAUFEN.de](http://www.chia-samen-kaufen.de/),   [chiasamen.info](http://www.chia-samen.info) _

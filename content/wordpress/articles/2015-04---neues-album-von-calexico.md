@@ -40,15 +40,6 @@ errors: {}
 subTitle: '"Edge Of The Sun" ist da!'
 ---
 
-<RemoteImage
-  alt={`Calexico - Edge Of The Sun ist da!`}
-  size="medium"
-  title={`Calexico - Edge Of The Sun ist da!`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-3__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-3__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAArEAABAwMDAgUEAwAAAAAAAAABAgMEAAURBiFBEjEHExQiYRYjUXEyUpH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAAB/8QAIREAAgICAgEFAAAAAAAAAAAAAQIAEQMxIZEEEiJRgaH/2gAMAwEAAhEDEQA/AF8G5KszD0VqE87KmsLW1ICglqOUgjrVkEnBIPSO+OKj5WlrnJQiWLre7jKKQW3G3A2EbDckq+ew33qv17b7g0NOuJJetclPl+QkFP3erqKVkdwpPb9GqPV0j6qmW30OmmbcGkFttttCCpwnGASABgbAbcn80lgD2iTjBlfJ6nelGgK/TV9VOXSNHWZUYrvCrvDm9GVqkuF3ODgkEAgjP6pKw1P0/dolofleotUlOYygPaQTkEfg52IzzVRe9PzIsh1tyCtDqP5p6RkHJB7fINbPDSw2mfIur93Qt24W1aPIZcX7G0LSfeE8nI78bc0jZgyUyAH5HHcNPDfDkLLlJU7B56Ox93HviFqllizWthDiUodlBRR/UNoJx/qkkUoia5jB5j7iB0oVgg85TRRRIaFS2KNT61W9cHpRkeoLycr6yMg54I+TSnRcmRcdYOz4UlthluMUygs7rQc4GPggHPGKKKxY6nDzP//Z"
-/>
-
 **Da Calexico für mich zu den absoluten Favoriten zählen, musste es bei der neuen Platte etwas ganz besonderes sein: Die Limited Deluxe Edition als Doppel-LP in Türkis und Babyblau mit 6 Bonus-Tracks, mp3-Album und T-Shirt.**
 
 Weil ich das Ganze auch noch direkt bei Calexico bestellt habe, was viel romantischer ist, als das Ding irgendwo vorzubestellen und direkt am Erscheinungstag auszupacken, musste meine Review eben ein bisschen warten.

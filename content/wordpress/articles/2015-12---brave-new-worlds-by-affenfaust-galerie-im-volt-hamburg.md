@@ -30,14 +30,6 @@ errors: {}
 subTitle: Instagram-Galerie
 ---
 
-<RemoteImage
-  alt={`Brave New Worlds`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_24068145535_4a4729d957_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_24068145535_4a4729d957_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAgBBQYC/8QAKBAAAgEDAwIGAwEAAAAAAAAAAQIDAAQRBRIhBjETFCJBUWEHFXGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBAgX/xAAnEQABAwIEBQUAAAAAAAAAAAABAgMRAAQhMUFRBRITccEiYYGx0f/aAAwDAQACEQMRAD8AVUDNTtPxRNnD4oJ+6aU6H+O7LpjSLeXQvMJbwHzCtAiT30jBQMzbt6FWJb08Y4x2FNPW3QYTcO4JV4geRRWWHbgkNJKo2BOfalQIxUUdqUPhux2BPURtGePrnmgai7tV2rpaXnQUmRNaPokp+609WUuxu4gI1UszeteAPf8AlNZ1POlxqWp6bZ6ZdzXthDEzapLlEjjlUDecjPYSDO09s+3KgaZeRWmGbxRKr7laM4I+MH5q4bqXduLS37MwAYmY847e/wBmtno2V5bNh91KVITAwJI9QVooHTKYmCZirW125aPc6UkgyDjmDH5rPauuvhbpr2qx27ZQXbmPOclMnB/0YNZWrG/vYbiNgiSBzjBY5qupHizyXXklC+eEgTvG/vQm0pSCEggaTnHxH1X/2Q=="
-/>
-
 **Endlich gibts mal wieder ein bisschen Kunst hier im Blog. Heute, am letzten Tag der Ausstellung, haben wir es endlich zu "Brave New Worlds" ins Volt (U-Werk Karoline, Messehallen) geschafft.**
 
 Die Galerie aus modernen Werken verschiedener Künstler hat uns sehr beeindruckt. Gezeigt wurden Bilder und Installationen aus dem Science-fiction Genre sowie eine Video-Installation.

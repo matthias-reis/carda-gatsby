@@ -35,27 +35,21 @@ errors: {}
 subTitle: Bildergalerie aus der Hafenstadt an der Ostsee
 ---
 
+**Letzten Sonntag machten wir einen wunderschönen Ausflug. Unser Ziel: Travemünde an der Ostsee. Das Wetter war ein einziger Traum und das Fernweh war vorprogrammiert.**
+
+Spätestens, als die "Nils Holgerson" am Horizont auftauchte, mit der ich einst als Kind auf große Fahrt gegangen war, war es um mich geschehen. Travemünde ist auf jeden Fall immer eine Reise wert. Kaum zu glauben, dass es jetzt nur noch etwas mehr als eine halbe Autostunde entfernt liegt.
+
 <RemoteImage
   alt={`Möwe in Travemünde`}
-  size="medium"
+  size="full"
   title={`Möwe in Travemünde`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_18282606686_1fbc04228f_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_18282606686_1fbc04228f_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAJRAAAgEDBAIBBQAAAAAAAAAAAQIDAAQRBQYSITFRkQcTFCNB/8QAFgEBAQEAAAAAAAAAAAAAAAAABQMC/8QAIBEAAgIBAwUAAAAAAAAAAAAAAAECAwQhgcEREiMxM//aAAwDAQACEQMRAD8Ajbe2+kqK8q9eqb7fSLaNQBEvxUbb8sb2ycSPFXy901Oxtg9VUUtCvn0OKS2Mv436eXDnx65YzjPulHXtASJWeJevVNO5n142Qt9EjQjIdWluGjQOSB2qqeRx/SQMZrnr86JA/PrI9YrNVsurTKW1R7UzP9H1Se3I4HI9E04WetzOoyg+aKKo0n7IVya0Mj+oNzcQ3k0sdzchpriTr7zYUc/A78CqfYWo3LXN6jzSuhhU8XkLAYcjrJoooXDfn3fIxlfHZcH/2Q=="
 />
 
-**Letzten Sonntag machten wir einen wunderschönen Ausflug. Unser Ziel: Travemünde an der Ostsee. Das Wetter war ein einziger Traum und das Fernweh war vorprogrammiert.**
-
-Spätestens, als die "Nils Holgerson" am Horizont auftauchte, mit der ich einst als Kind auf große Fahrt gegangen war, war es um mich geschehen. Travemünde ist auf jeden Fall immer eine Reise wert. Kaum zu glauben, dass es jetzt nur noch etwas mehr als eine halbe Autostunde entfernt liegt.
-
 ## Sonne am Strand von Travemünde
 
 Ich freue mich ja schon total drauf, wenn wir endlich wieder konstant schönes Badewetter haben, im Moment ist es irgendwie wieder ziemlich kalt. Hier kommt meine sonnige Travemünde-Galerie. Na, Lust auf einen Ausflug an den Strand bekommen?
 
-_Schiff Ahoi und Man Tau!_
-
 <Gallery name="flickr/annetravemuende052015" />
-
-_Weitere Bilder wie immer in meinem [Flickr](https://www.flickr.com/photos/99929697@N07/). _
-
-<FestivalList />

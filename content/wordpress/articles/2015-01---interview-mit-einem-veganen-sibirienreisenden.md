@@ -48,33 +48,33 @@ errors: {}
 subTitle: '"Ich hatte noch nie Heimweh!"'
 ---
 
+**Sebastian Frost ist ein Reisender. Als Mitarbeiter des Deutschen Wetterdienstes kommt er sehr viel herum und auch seine Freizeit verbringt er mit Reisen in die entlegensten Gegenden unserer Erde.**
+
+Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das Leben in der kältesten Stadt der Welt berichtet. Von Yakutsk nach Oymyakon im Winter – Eine Reise, die für ihn wohl niemals in Vergessenheit geraten wird.
+
 <RemoteImage
   alt={`Heimweh`}
-  size="medium"
+  size="full"
   title={`Sebastian Frost`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQHAQMF/8QAKhAAAgEDAgQEBwAAAAAAAAAAAQIDAAQRBSEGEjFxFBZhkSMyQVFywdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EABsRAAICAwEAAAAAAAAAAAAAAAABAjEDEyFR/9oADAMBAAIRAxEAPwCnDi2f6tAT2P8Aa0ycVXLHaWEdlqbBuRmImZgdsY6VydT1OayvbC2QyzG7mMXMBsu2f37A1fpirIdkmVaXiS8YHFwg7KKX8x3Y+aWN/wAlqXDW5BqD2jxHlTOZ2kULkDJ26054ySUcwQgDOMPnPtRLFHwFzYytwXG3K2PTpSl1bC6uLaaQgNbuXTYY3GKKKeuiKMPp9pIzPLZ2sjnq5QEmldViiMKQmXw8THHwSE6A7Z+3pRRWlxHVZ//Z"
 />
 
-**Sebastian Frost ist ein Reisender. Als Mitarbeiter des Deutschen Wetterdienstes kommt er sehr viel herum und auch seine Freizeit verbringt er mit Reisen in die entlegensten Gegenden unserer Erde.**
-
-Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das Leben in der kältesten Stadt der Welt berichtet. Von Yakutsk nach Oymyakon im Winter – Eine Reise, die für ihn wohl niemals in Vergessenheit geraten wird.
-
 **Anne:** Hallo Sebastian! Vielen Dank, dass Du Dir die Zeit für dieses Interview nimmst!
 
 **Sebastian:** Hallo Anne, das tu ich doch gerne.
 
+**Anne:** "Sebastian Frost" - Ist das ein Pseudonym oder Künstlername? Wie kam es dazu? Was bedeutet er? Möchtest Du uns Deinen echten Namen verraten?
+
 <RemoteImage
   alt={`Heimweh`}
-  size="medium"
+  size="full"
   title={`Sebastian Frost vor dem -71,2 Grad Denkmal in Omjakon`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-19__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-19__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwYH/8QAKRAAAQMDAgUDBQAAAAAAAAAAAQIDBAAFERIhBjFBUWEHE5EiI4Gh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAAH/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAMRAiEx/9oADAMBAAIRAxEAPwDacSNC3RPde+0grCSskJ09eoxvjH5pGZAOT9OPFZi+ca2ZSWTbmpsY6ynS44XG1EEkbKJ3wAe1Xuep9hbhpcuRfac5K0I1Dlz5jt+6p4tc1JP1Ubmxt+FgnakXInipR+OeHbgwHY8pYB5BTZzy+PFLXbiKLHudujMKZfRKJ1rDgw0BvkkZ6Z2py8PsBoZzm7SSxJUyxAbcU3ss51jPjFX3GLDkWaQsMxglxoo1IzqCiMbZA3/lFFFnkXXY9wzb4qWI7MqMg+1GbWB1O6k4V8Dl3pO+ydE5xq3RoUYMuONglvoClIyc9iDRRXXkwZhdSf/Z"
 />
-
-**Anne:** "Sebastian Frost" - Ist das ein Pseudonym oder Künstlername? Wie kam es dazu? Was bedeutet er? Möchtest Du uns Deinen echten Namen verraten?
 
 **Sebastian:** Sebastian ist natürlich mein realer Vorname, bei "Frost" handelt es sich um einen Fakenamen, da ich nicht so sehr viel von meiner Privatsphäre preisgeben möchte. Da ich jedoch häufiger in Kontakt mit Medien, wie z.B. Wetter- und Fotoseiten stehe, sickert mein realer Nachname doch ab und an mal durch. Mein Nachname ist "Balders", er stammt aus dem norddeutschen Raum. Ich habe "Frost" vor einigen Jahren gewählt, da ich ein Winterkind bin. Nicht umsonst hat es mich vor wenigen Wochen in die Kälte nach Sibirien gezogen.
 
@@ -84,7 +84,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 <RemoteImage
   alt={`Heimweh`}
-  size="medium"
+  size="full"
   title={`Temperaturen bis zu unter -50 Grad Celsius`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-18__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-18__l.jpg"
@@ -101,7 +101,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 <RemoteImage
   alt={`Heimweh`}
-  size="medium"
+  size="full"
   title={`Die gefährlichste Straße der Welt im Werchojansker Gebirge - Weit und breit ist nichts`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-31__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-31__l.jpg"
@@ -118,7 +118,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 <RemoteImage
   alt={`Heimweh`}
-  size="medium"
+  size="full"
   title={`Frau im T-Shirt bei -55 Grad Celsius`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-24__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-24__l.jpg"
@@ -135,7 +135,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 <RemoteImage
   alt={`Heimweh`}
-  size="medium"
+  size="full"
   title={`Gefrorene Wimpern nach 20 min Kälte`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-9__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-9__l.jpg"
@@ -154,7 +154,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 <RemoteImage
   alt={`Heimweh`}
-  size="medium"
+  size="full"
   title={`Eisnebel in Yakutsk`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt__l.jpg"
@@ -169,7 +169,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 <RemoteImage
   alt={`Heimweh`}
-  size="medium"
+  size="full"
   title={`Flug über das Werchojansker Gebirge und zugefrorene Flüsse`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-2__l.jpg"
@@ -186,7 +186,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 <RemoteImage
   alt={`Heimweh`}
-  size="medium"
+  size="full"
   title={`Außentoilette im Schnee`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-4__l.jpg"
@@ -207,7 +207,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 <RemoteImage
   alt={`Heimweh`}
-  size="medium"
+  size="full"
   title={`Denkmal an den Rekord von -71,2 Grad Celsius in Tomtor`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-5__l.jpg"
@@ -224,7 +224,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 <RemoteImage
   alt={`Heimweh`}
-  size="medium"
+  size="full"
   title={`Am kältesten Ort der Welt`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-20__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-20__l.jpg"
@@ -243,7 +243,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 <RemoteImage
   alt={`Heimweh`}
-  size="medium"
+  size="full"
   title={`Im Werchojansker Gebirge`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-22__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-22__l.jpg"
@@ -258,17 +258,7 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
 
 **Anne:** Vielen Dank! Hat mich gefreut, Deine Bekanntschaft zu machen!
 
-<small> _Fotos: Sebastian Frost_ </small>
-
-<div style="border: solid 2px #ff66cc;">
-  <address>
-    Kennt Ihr eine schillernde Persönlichkeit, von der Ihr sagt, mit ihm/ihr
-    sollte auf jeden Fall ein Interview auf meiner Seite erscheinen? Oder habt
-    Ihr selbst ein spannendes Hobby, über das Ihr gerne mit mir plaudern
-    möchtet? Schreibt mir einfach [eine Mail](mailto:info@cardamonchai.com)
-    unter dem Stichwort _"Interview"_ , ich melde mich bei Euch!
-  </address>
-</div>
+Fotos: Sebastian Frost
 
 [^1]: [Homepage Sebastian Frost](http://www.sebi-balders.repage.de)
 [^2]: [Die vegane Reisegruppe auf Facebook](https://www.facebook.com/groups/veganreisen.vegantraveling/)
@@ -404,4 +394,3 @@ Vor kurzem stellte er seinen 36-minütigen Kurzfilm fertig, in dem er über das 
     },
   ]}
 />
-

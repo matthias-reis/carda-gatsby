@@ -33,18 +33,18 @@ errors: {}
 subTitle: Aus T-Shirt mach Tasche Teil 2
 ---
 
+**Vor Kurzem habe ich an dieser Stelle mit Euch meine Anleitung für einen höchst eleganten DIY Upcycling Nerdbag geteilt. Wie versprochen habe ich heute Teil 2 für Euch.**
+
+Die Umhängetasche lässt sich noch leichter herstellen, als der [Nerdbag](/2015/09/diy-upcycling-nerdbag/).  Ihr braucht dazu lediglich ein altes T-Shirt und ein paar Kleinigkeiten. Natürlich habe ich auch wieder ein paar Fotos geschossen, um die einzelnen Schritte der Anleitung zu bebildern.
+
 <RemoteImage
   alt={`Meine DIY Upcycling Umhängetasche`}
-  size="medium"
+  size="full"
   title={`Meine DIY Upcycling Umhängetasche`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Umh%C3%A4ngetasche-23__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Umh%C3%A4ngetasche-23__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAT/xAApEAACAgEDAwMFAAMAAAAAAAABAgMEEQAFEgYhUQcTMSJBYYGRFEKC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgUDBP/EACERAAICAQMFAQAAAAAAAAAAAAECABEDBEHBEhMhMVHw/9oADAMBAAIRAxEAPwC2VQJYNnlSURLWLFwBnkuGUjP2+TrMti2/VvqPuGy77O4isXTBVEyD6XSTIVGx2UoCASe/bzq3dRTWBDXCyTJHXSex7adlk7cERvIy5bHldZy2/Y7y9f7LVfeHvTTW4yp5NmJi4ySpJAwoJ/5Gp4Ic9MpFWxL3Bv8AuZfukdrs0jer2K8zyCTmrYGPbOQq/PyOJ/o0aeFVYppZqze2ZjyYqAeXj5/GjSVABUzdyTcgnql1Jet71LtVaeatDWJDNHPwE4bAHI+Bn4/J1x+iu3SXep5rjgNU2+J+JH+0jjiG8nI5Hvpb9S5J6/XtyLmbAljEw9tMsiHJAx+MHJ8d9UX0RP8AidL2b8o737BZGJyWjQYB/ZLfzQysEwg/eY8Ks+c3tfj5XriP9ffae3M9S7OIFT6oi33U57fo5/o0aRep7sT7iyPkhCeOUPwf1o1xJqHC1UotpUY2TP/Z"
 />
-
-**Vor Kurzem habe ich an dieser Stelle mit Euch meine Anleitung für einen höchst eleganten DIY Upcycling Nerdbag geteilt. Wie versprochen habe ich heute Teil 2 für Euch.**
-
-Die Umhängetasche lässt sich noch leichter herstellen, als der [Nerdbag](/2015/09/diy-upcycling-nerdbag/).  Ihr braucht dazu lediglich ein altes T-Shirt und ein paar Kleinigkeiten. Natürlich habe ich auch wieder ein paar Fotos geschossen, um die einzelnen Schritte der Anleitung zu bebildern.
 
 ## Benötigt wird
 

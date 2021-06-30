@@ -31,7 +31,7 @@ errors: {}
 subTitle: Geschichte einer Hafenstadt
 ---
 
-_"Willst du immer weiter schweifen? Sieh, das Gute liegt so nah!" - Johann Wolfgang von Goethe_
+> "Willst du immer weiter schweifen? Sieh, das Gute liegt so nah!" - Johann Wolfgang von Goethe
 
 <RemoteImage
   alt={`Wunderschönes Lübeck`}
@@ -83,5 +83,3 @@ Im 20 Kilometer von der Innenstadt entfernten Vorort Travemünde sind eine Reihe
 Meine letzte Fotostrecke aus Travemünde [findet Ihr hier](/2015/05/ein-sonntag-in-travemuende/).
 
 Wer gerne mehr über Lübeck erfahren möchte: [Wikipedia](https://de.wikipedia.org/wiki/Lübeck) gibt hier wirklich eine ganze Menge her, auch was Religion, Politik und Sehenswürdigkeiten betrifft. Außerdem kann ich Euch die wirklich liebevoll angelegte [Homepage der Stadt](http://www.luebeck.de/tourismus/sightseeing/geschichte/) wärmstens empfehlen.
-
-_Weitere Bilder wie immer in meinem [Flickr](https://www.flickr.com/photos/99929697@N07/albums). _

@@ -48,18 +48,18 @@ subTitle: Vegane Häkelmützen mit Statement
 
 > "Wear Your Own Bommel - Save lives"
 
+**Denise lernte ich vor ziemlich genau einem Jahr über eine vegane Facebook-Gruppe kennen. Damals unterhielt ich mich mit ihr über ihre Arbeit als Tierrechtsaktivistin. Doch die engagierte Frau aus Friedberg bei Augsburg hat noch jede Menge weitere Interessen und Projekte.**
+
+Ganz aktuell macht sie unter dem Logo WYOB **vegane Häkelmützen** und Accessoires für Jung und Alt. Dabei stehen "Nutztiere" im Mittelpunkt. So findet man auf ihren Mützen u. a. Schafe, Hühner, Puten, Schweine und natürlich den Marderhund, auch Füchslein genannt, der als Logotier für WYOB fungiert.
+
 <RemoteImage
   alt={`Denise in Aktion - Foto: Norbert Zawe`}
-  size="medium"
+  size="full"
   title={`Denise in Aktion - Foto: Norbert Zawe`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDBAURAAYhEkETFDFRcQcVImEygcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQB/8QAIREAAgIBBAIDAAAAAAAAAAAAAQIDEQASEzFxBCFBkdH/2gAMAwEAAhEDEQA/AMXueyL1LuSaJqORBPMViOMiQs2FAx3ORp9fPpPerNSpFcZ6BkjmCVC0s3iPDxnkY9tXTZFzlmvsMtUrzi2xS1HhAFmBX8Fbj15cH5xplv27UwvtPEK2oqH6o0AZEAKSZzwuMgKVHyufXUUXk6SuoXVE9ZVsbiEg1+5lG/rVJU11untdKBSGhiRUBwVxn1+eNGrUNpbnuMdP56yVAEECRK4kChzyScZ/Y0apeVQxCChZrrNRIyoMl6vn2OfrJtp2WusrWbcC1rwivgcmMRArLGzEdHX2/ip4B5xo3NaqJYrheKaOqFyjQPTxx4fxCoxg8ZJA5/rSHem7oaW0bYooF85Db6OOIjrKAyYLtj2AJA9zjTW9114+wUdXT+TWaWOF5qZ43JDOgkXpYHI49+/fSIiSISVo8YjMY2Cg2Mk2/um+2jbluXcNyMkU6Gaj6S0rrG3PSzfrIwMnA47aNd2++qsBG4IEpZ+o9CrCrEjvnsP90aaOJnUM5o94SSojFUFjP//Z"
 />
-
-**Denise lernte ich vor ziemlich genau einem Jahr über eine vegane Facebook-Gruppe kennen. Damals unterhielt ich mich mit ihr über ihre Arbeit als Tierrechtsaktivistin. Doch die engagierte Frau aus Friedberg bei Augsburg hat noch jede Menge weitere Interessen und Projekte.**
-
-Ganz aktuell macht sie unter dem Logo WYOB **vegane Häkelmützen** und Accessoires für Jung und Alt. Dabei stehen "Nutztiere" im Mittelpunkt. So findet man auf ihren Mützen u. a. Schafe, Hühner, Puten, Schweine und natürlich den Marderhund, auch Füchslein genannt, der als Logotier für WYOB fungiert.
 
 Zehn Prozent der Verkaufserlöse für die Mützen werden an Lebenshöfe gespendet, denn die Rechte und die Würde der Tiere liegen der **Veganerin** besonders am Herzen.
 
@@ -69,7 +69,7 @@ Mit WYOB ist für Denise ein Traum in Erfüllung gegangen. Ich habe mich mit ihr
 
 <RemoteImage
   alt={`WYOB - Häkelmütze mit Kuhaufnäher`}
-  size="medium"
+  size="full"
   title={`WYOB - Häkelmütze mit Kuhaufnäher`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11088258_924554010924678_1871320469_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11088258_924554010924678_1871320469_n__l.jpg"
@@ -90,7 +90,7 @@ Mit WYOB ist für Denise ein Traum in Erfüllung gegangen. Ich habe mich mit ihr
 
 <RemoteImage
   alt={`WYOB - Foto: Norbert Zawe`}
-  size="medium"
+  size="full"
   title={`WYOB - Foto: Norbert Zawe`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130325_980268688672783_3126736224858087273_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130325_980268688672783_3126736224858087273_o__l.jpg"
@@ -109,7 +109,7 @@ Mit WYOB ist für Denise ein Traum in Erfüllung gegangen. Ich habe mich mit ihr
 
 <RemoteImage
   alt={`WYOB - Foto: Norbert Zawe`}
-  size="medium"
+  size="full"
   title={`WYOB - Foto: Norbert Zawe`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2508__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2508__l.jpg"
@@ -132,7 +132,7 @@ Mit WYOB ist für Denise ein Traum in Erfüllung gegangen. Ich habe mich mit ihr
 
 <RemoteImage
   alt={`Polarfuchs - Foto: Norbert Zawe`}
-  size="medium"
+  size="full"
   title={`Polarfuchs - Foto: Norbert Zawe`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130489_980262822006703_5414786716132520222_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130489_980262822006703_5414786716132520222_o__l.jpg"
@@ -153,7 +153,7 @@ Ich klebte den Flyer an meinen Kühlschrank, den ich komplett von tierischen Inh
 
 <RemoteImage
   alt={`Gut be(hütet)mützt`}
-  size="medium"
+  size="full"
   title={`Gut be(hütet)mützt`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_10156985_924554094258003_1421355744_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_10156985_924554094258003_1421355744_n__l.jpg"
@@ -176,7 +176,7 @@ Das Labeling der Pelzbesätze ist mangelhaft, obwohl jeder, der es wissen will, 
 
 <RemoteImage
   alt={`WYOB - Foto: Norbert Zawe`}
-  size="medium"
+  size="full"
   title={`WYOB - Foto: Norbert Zawe`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2555__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2555__l.jpg"
@@ -191,7 +191,7 @@ Das Labeling der Pelzbesätze ist mangelhaft, obwohl jeder, der es wissen will, 
 
 <RemoteImage
   alt={`Huhn - Wear Your Own Bommel`}
-  size="medium"
+  size="full"
   title={`Huhn - Wear Your Own Bommel`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11121140_924554274257985_544938426_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11121140_924554274257985_544938426_n__l.jpg"
@@ -214,7 +214,7 @@ Das Labeling der Pelzbesätze ist mangelhaft, obwohl jeder, der es wissen will, 
 
 <RemoteImage
   alt={`Paul - Foto: Thomas Zinnecker`}
-  size="medium"
+  size="full"
   title={`Paul - Foto: Thomas Zinnecker`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_15423985063_8be34150d1_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_15423985063_8be34150d1_k__l.jpg"
@@ -233,7 +233,7 @@ Als wir dort ankamen, zitterten mir die Knie. Ich mussste "da" reingehen, drumhe
 
 <RemoteImage
   alt={`WYOB - Foto: Norbert Zawe`}
-  size="medium"
+  size="full"
   title={`WYOB - Foto: Norbert Zawe`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2579__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2579__l.jpg"
@@ -250,12 +250,8 @@ Als wir dort ankamen, zitterten mir die Knie. Ich mussste "da" reingehen, drumhe
 
 **Denise:** Ich danke dir, das hat sehr viel Spass gemacht!
 
-### Fussnoten
-
 [^1]: [Facebook-Seite von WYOB](https://www.facebook.com/pages/WYOB-save-lives-statement-kleidung/944915775541408?fref=nf)
 [^2]: [Tierrechtsdemo Augsburg bei Vegan News](http://www.vegan-news.de/thomas-laschyk/)
 [^3]: [Tierrechtsinitiative Augsburg](http://www.tierrechte-augsburg.de)
 [^4]: [Peace Food Rocks](https://www.facebook.com/events/351493638369110/)
 [^5]: [Hof Butenland](http://www.stiftung-fuer-tierschutz.de)
-
-<FestivalList />

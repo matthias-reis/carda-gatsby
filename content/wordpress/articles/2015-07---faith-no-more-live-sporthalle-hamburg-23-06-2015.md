@@ -33,15 +33,6 @@ errors: {}
 subTitle: Eine schöne Erinnerung
 ---
 
-<RemoteImage
-  alt={`Unsere Faith No More Karten`}
-  size="medium"
-  title={`Unsere Faith No More Karten`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_17295536976_02149f84df_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_17295536976_02149f84df_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQDBv/EACwQAAEDAwMDAgUFAAAAAAAAAAECAwQFESEABhITMUEUUQciMmGBI0JSkcH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAAMF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxEhkTH/2gAMAwEAAhEDEQA/AOspqNwJVCUip7eLEhsq6iYDptxVxUcuA2Hta+r61Tt5NK5M1Kluw+nzLzMBtsJ73FnHCTi3jzpSnrgU5ukxl1OISlK1OEPJ4nksnORYZHf76E+J+51sUJtraVRgsTzK4vBLjCklopXyJBWcEhOfuNS0EkKB7L6RhksPb+45SkGp1AtxhcOqQWEuNkdxxDXvj6tab7hwnoTTEboRlpWlZcaf6TqgPGb3BPcAZ99RbS3k5zkt7iq1Fjx2ICWgpM5ni68FqUXEoBsLpUAbn9vm+ktxVKE1AYnSJjLEBSQfUKKOFlfSL3zfxa4zrKuqYP8API9W5NKZFpcpikvpotFbkuNKTb0SAlSkrIAtjGOxNtU7lgbchx/X1VmDSlJHSRxcTHaUuxULhPc4P4GhY1VbaMQMrjtMx0cS10wb5Jxk27n31LvCC3u+jIpkmc22wmQiSEpZQogJ5WT4/l/WnXXguATghqa+bGaVAoKg05DeW9L6C5LBExSrtBRbCyASi4Vg9xfR8+Z0mUguTFkKKSr17YsoW+U3Av8Aj/dAbd2+1tieuQxUX32PSqiNxnTZDSVEEgDkQRcE2IsCo6krcz9NtJTHPTupQDYSFmwtgdu3jQ7XUtxtiQpyf//Z"
-/>
-
 **Ich habe Mike Patton getroffen! Natürlich nicht persönlich, aber ich habe es in meinem hohen Alter endlich geschafft, ein Faith No More Konzert zu besuchen! Nachdem die neue Platte angekündigt war und die Tour feststand, haben wir uns gleich Karten organisiert.**
 
 Und es hat sich gelohnt! Das Konzert war der helle Wahnsinn! Auf jeden Fall ein Highlight des Jahres 2015. Wir hatten, was bis jetzt für uns eher untypisch ist, einen dieser Weitweg-Sitzplätze, was sich als wunderbar stressfrei erwiesen hat. Außerdem hat man in den mittleren Sitzrängen der Hamburger Sporthalle den vollen Klanggenuss und ein tolles Sounderlebnis.

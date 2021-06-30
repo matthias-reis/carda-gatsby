@@ -27,6 +27,10 @@ errors: {}
 subTitle: Das war 2015
 ---
 
+**Weil mir das Thema Weihnachten schon zu ausgelutscht war, habe ich mir was Anderes einfallen lassen, das natürlich vor mir noch nie jemand gemacht hat.**
+
+Was könnte zum Jahresende besser passen, als ein Jahresrückblick? Dazu habe ich mir ein paar Bilder herausgesucht, damit das Ganze nicht zu langweilig wird. Ihr findet sie zum größten Teil auch in meinen Artikeln aus diesem Jahr.
+
 <RemoteImage
   alt={`Mein Jahresrückblick 2015`}
   size="medium"
@@ -35,10 +39,6 @@ subTitle: Das war 2015
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_22919389490_7c0fc91f99_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAqEAABBAEDAgUEAwAAAAAAAAABAgMEEQUABjESIQcTQVGhFBUyQmGRwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCLZnDTMdPchzUdKmXC2Cpny+pIJAUAoA0asX761bMw7GU3fimHQpLQjh1VJFqIvnVu8eY0ZeNayOQbaXmpIaDbqUFsobTYWkp6jdkiifbU1wW3fuWBkPMwHH5KYn1RkFSUttNtn8DZHNmyO/HbQVHevgojdrWLXhzHhpjNFLinFlKnCqiO4SbqvnRpW2ouZt1iQiBuTMQmnlJJYj9SkJUB37L459OdGg7XjspczPsRggqS1GBBbULBJujY7cam0bMy2WIOBKkRi55aVtpHWXADZ66PAs/1pm3fPkN56WpMQPpKySUOXVH+dR9zPof3M5lRbISaZASOB3tXvz/mgd91S5iXm04iIhy1uLcMUEgdRBSFE/t00a9ARo0j46c67FT5ryiU38mz86NB/9k="
 />
-
-**Weil mir das Thema Weihnachten schon zu ausgelutscht war, habe ich mir was Anderes einfallen lassen, das natürlich vor mir noch nie jemand gemacht hat.**
-
-Was könnte zum Jahresende besser passen, als ein Jahresrückblick? Dazu habe ich mir ein paar Bilder herausgesucht, damit das Ganze nicht zu langweilig wird. Ihr findet sie zum größten Teil auch in meinen Artikeln aus diesem Jahr.
 
 Für mich war 2016 definitiv ein spannendes Jahr. Es hat auf einer tollen Insel mit einer aufregenden Reise begonnen, wir sind nach Hamburg gezogen und sind seither dabei, den Norden näher zu entdecken und zu erkunden.
 

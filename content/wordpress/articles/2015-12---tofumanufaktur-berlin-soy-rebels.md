@@ -36,7 +36,7 @@ subTitle: '"Tofu ist nicht gleich Tofu"'
 
 **Ich habe mich mit Mateusz Wawrzyniak von der Tofumanufaktur über das Kollektiv unterhalten. Dabei habe ich einiges über Tofu erfahren.**
 
-Auf ihrer Homepage beschreiben sich die Gründer der Tofumanufaktur Berlin mit den Worten "Wir sind ein vierköpfiges Kollektiv, das es sich zur Aufgabe gemacht hat, rein pflanzliche, vegane, frische, handgemachte und nachhaltige Produkte herzustellen und diese CO2-neutral zu vertreiben."\*\*
+Auf ihrer Homepage beschreiben sich die Gründer der Tofumanufaktur Berlin mit den Worten "Wir sind ein vierköpfiges Kollektiv, das es sich zur Aufgabe gemacht hat, rein pflanzliche, vegane, frische, handgemachte und nachhaltige Produkte herzustellen und diese CO2-neutral zu vertreiben."
 
 Besonders wichtig ist es den vieren dabei so Ressourcen-schonend, ethisch und ökologisch wie möglich zu arbeiten. Die Tofumanufaktur hat ihren Sitz in Berlin-Lichtenberg direkt am S-Bahnhof Ostkreuz.
 

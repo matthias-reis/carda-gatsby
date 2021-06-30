@@ -32,18 +32,18 @@ errors: {}
 subTitle: Kreiere Dein romantisches Einzelstück
 ---
 
+**Am Wochenende geht es für uns wieder auf's Festival, denn ich habe Karten für das Rock'n'Heim gewonnen. Natürlich freue ich mich wie verrückt auf das Event und da muss natürlich auch was Besonderes zum Anziehen mit. Was könnte es da geben, als ein tolles Upcycling-Teil** ?
+
+Ich zeige Euch heute, wie ich meinen Lieblings-Festival-Minirock mit wenigen Handgriffen zu einem echten Einzelstück gemacht habe.
+
 <RemoteImage
   alt={`Mein neuer Upcycling Jeansrock`}
-  size="medium"
+  size="full"
   title={`Mein neuer Upcycling Jeansrock`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-12__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-12__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAAvEAABAwIEAwUJAQAAAAAAAAABAgMRAAQFBhIhExQiMUFRYXEHMjOCkaGiwdHw/8QAFwEBAQEBAAAAAAAAAAAAAAAABQMBAv/EAB0RAQACAgIDAAAAAAAAAAAAAAEAAgMRBCEjMVH/2gAMAwEAAhEDEQA/AMHJOEuXLj7otuYhPw5iZMf0VUbfI4VbuOBpNlKNKA0EyBHvEmd586wPZfwWrS4ccVohaUapgbJn91SzjWGptJ5ltSojoIUT9KD46uMde43yXyIPyKWFZVbvbd03Ljjd0OjjAq1CAAYnYSQe7YUqZ2ySUNl1pXEdRJJMlSx4E/7f1qh299dNvPFi0vC2pWpJ4I0gHuMmO3wrDzJmB9xtTb7WHWrihtxLkFR+VIJq+S1U0vUljLDup3JLhOMos3lMixZfcUoaFvqUpKNt+iQDPnTZZ5ixJ1RTzHBRt026Q0PxE/eiihM9kroYziqLtJzjt68mzLilrWsxJWsmZ9T50pqfVzbRG24MDbtoorOKDXc6yqOp/9k="
 />
-
-**Am Wochenende geht es für uns wieder auf's Festival, denn ich habe Karten für das Rock'n'Heim gewonnen. Natürlich freue ich mich wie verrückt auf das Event und da muss natürlich auch was Besonderes zum Anziehen mit. Was könnte es da geben, als ein tolles Upcycling-Teil** ?
-
-Ich zeige Euch heute, wie ich meinen Lieblings-Festival-Minirock mit wenigen Handgriffen zu einem echten Einzelstück gemacht habe.
 
 ## Ihr braucht
 
@@ -66,7 +66,7 @@ Leicht bis mittel
 
 <RemoteImage
   alt={`Sieht gut aus mit schwarzen Leggings`}
-  size="medium"
+  size="full"
   title={`Sieht gut aus mit schwarzen Leggings`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-14__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-14__l.jpg"

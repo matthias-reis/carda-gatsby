@@ -38,15 +38,6 @@ errors: {}
 subTitle: Einfaches veganes Vollkornbrot
 ---
 
-<RemoteImage
-  alt={`Veganes Vollkornbrot aus meinem Ofen`}
-  size="medium"
-  title={`Veganes Vollkornbrot aus meinem Ofen`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0345__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0345__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQBBQYC/8QALRAAAgIBAwIDBgcAAAAAAAAAAQIDBBEABSESQRMxUQYiUmFxgRQVMjRCcqH/xAAYAQADAQEAAAAAAAAAAAAAAAACBAUBA//EAB0RAQACAgIDAAAAAAAAAAAAAAEAAgMREiETQVH/2gAMAwEAAhEDEQA/AKnbqS/mUdy1EsdxlUlYly7Bu/H6mxjA7dWhbLsm2y7tCXaGGWVjFAGQorHHUQUJLcdQyfP6aEYY71SgYYp1depojXmCOhGMFMjBIHPT5Yz30BNxm2Z7YuJHX3BJDZislP3kTAZ6fPkAZ8+3ng6klVOmXVD1NXa9mbQvtNUljuNMArQWIwiylVPU6kcYOQeRk4IJ1QbRtjWbU9Hck3BbUNjqsRtYD1mDKHHfK4yPdHz1qK9+mKUd2O2xMsghEMK4DOfXIOBjn5/LGsR7STW9p3OZLG4ReJZgR47CKcWEU4dWYe8DweMjsc840NatjU1SrO7tR9r3OWF4ixmkLVnc4MeT1eYJwRk8dx58aYSxJaf8LPNWmrzK/RHIpYK44IYfAW7DJH0089upcpHwrda/RCoZozMq2YT2VxwXA+If5oM3sNZnpR39oEslTJZvDk8Qxt6YHP2I01ehv4xLFl4mmB22hWqWoTW3Bq0sDGRKcsqyQxdWMAOw+4YeuNMbtJJvNSxTtwVoLVdms1rERR16sEe8MYKnGOk5OcemqXcdt3JraPJFG0nRktYHQv8AUr9tRDXq7c8s+6XahkkAzFBnLA9+P5DjQ+JXa9zs56h0T//Z"
-/>
-
 **Heute Abend gibt es bei uns Zucchinisuppe. Als Beilage habe ich mir ein kleines Vollkornbrot ausgedacht, das Ihr ganz schnell nachbacken könnt. Ich habe ihm den klangvollen Namen Jederkanns-Brot gegeben.**
 
 ## Ihr braucht
@@ -63,7 +54,7 @@ subTitle: Einfaches veganes Vollkornbrot
 
 <RemoteImage
   alt={`Alles gut vermischen`}
-  size="medium"
+  size="full"
   title={`Alles gut vermischen`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0338__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0338__l.jpg"
@@ -84,7 +75,7 @@ Ofen auf 50 Grad vorheizen und die hitzebeständige Form mit dem Pflanzenöl ein
 
 <RemoteImage
   alt={`In die Form geben`}
-  size="medium"
+  size="full"
   title={`In die Form geben`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0339__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0339__l.jpg"

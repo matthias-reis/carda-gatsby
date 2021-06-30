@@ -29,15 +29,6 @@ errors: {}
 subTitle: Zwei Artikel aus meiner Feder
 ---
 
-<RemoteImage
-  alt={`Der Wohlfühl-Guide aus meiner Feder`}
-  size="medium"
-  title={`Der Wohlfühl-Guide aus meiner Feder`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23541526255_c611b222df_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23541526255_c611b222df_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBgcF/8QALBAAAgEDAgMHBAMAAAAAAAAAAQIDBAURACEGEiIHEzEyUXGBFBZBYSOh0v/EABkBAAIDAQAAAAAAAAAAAAAAAAEDAAIFBv/EABoRAQADAAMAAAAAAAAAAAAAAAEAAhESIbH/2gAMAwEAAhEDEQA/AMatFq51V35cllQZOOpj0j3ODtrtSUNJTHFTMqsvm5Y3YD5A3+M6tnZ9a45+GKm5l2Ssiqg9PhQ46EIJIPoXyP2PfUXiqOlvcLPbpRLWLF/JBP4qceZSOnB9hjWC2bW9nQ1CtY3huhvl74futq4fjrXhDI00DyGn6GJwe7Y4P5Gx/O41Q+ILBU2qtqKOuhMNVA3K6Eg4OAfEbHYjWmdnDVDcRR2marglmntUc61KluaZVPgWxkEKcEHcY8SMaO2q2/T1lvqmkZ2nphDJIwwWeM/5IHxpuoDFGKkz6y3qpgoKRaeWaERRlW5HHWS5Yk5U+uPbTvuJEkdFo2YSAq3PMT5s7gYwDvo0aKAslVQj7Lfqm03ujusMNPJUUsTQx94ZN0KkENh8Hb9DUvjbjWp4jpo6apo6eHun7xXjLZzjBG5Pr/WjRobqbLcSp1P/2Q=="
-/>
-
 **Die neue Ausgabe vom Welt Vegan Magazin ist da! Das Cover ziert dieses Mal Nova Meierhenrich, die derzeit PETA bei der Anti-Pelzkampagne unterstützt. Und auch ich habe wieder zwei Artikel zum Heft beigetragen.**
 
 Am besten macht Ihr Euch gleich auf den Weg zum Zeitschriftenhändler Eures Vertrauens! Spannende Themen wie ein Reisebericht vom Winter in Schweden, eine Reportage über Fairfood, sowie ein veganer Blick auf die schönste Jahreszeit erwarten Euch.

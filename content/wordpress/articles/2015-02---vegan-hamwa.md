@@ -32,15 +32,6 @@ errors: {}
 subTitle: Ökolatsche 2.0
 ---
 
-<RemoteImage
-  alt={`Vegan`}
-  size="medium"
-  title={` Ökolatsche 2.0`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_14928928498_12fe41202f_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_14928928498_12fe41202f_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYFBwgD/8QAKhAAAQQBAgUDBAMAAAAAAAAAAQIDBAURACEGEhMxQQcUIhUyUWEjcZH/xAAZAQACAwEAAAAAAAAAAAAAAAADBQECBAb/xAAkEQABAwMEAQUAAAAAAAAAAAABAgMRAAQxBSFx8BIyQVFh0f/aAAwDAQACEQMRAD8Ap7gNLblrH+psBaA4hsJbjN8xKlAYBxt5OtLVNR7CC+/wpGTDuEx8e8fQ0pptCVD4rxheCNgU5P8AmNZ34bmyC80wGKFHVSt0Kkx0oBU2CofIkZUfA8k40+Oeo78CsrSutrn232AuY6lpQBSocyUhGcDlBGQc5IP60pvrZxxQWMfeDXQWrLlwShkAhIJPZ4q5eHb5VpCs62xnQHJEaSUhFcwnlcSD3z5yc77ZAOuHEsOlkQIaL21r4z8d1Eh8CQhk9MkBSlAnITukZ7b6pyd6qmstJqotHXtIDPOHEBTbjy0pCsrUD2UQfiB5A/srhOzqr2w4h4gvbGEqwfrfbNNLeHSSp1ak/wAXNjIBQgbA/dkkHQ2WXGfK4UJA2AG5mYAxPv8AFZ9TtlMIU0v1Zju3NItJbVddWQJz8lMee04lbDjTLfOhffmHxyMd86PvJ8SVwROWy4666uUHA860Eq5QggjO3ckbY3I0nV1TBitqXY2z4bQk/CONztjGSPPbRFjZRXalxhtwrWlCUfInPbznv53Hf9abvRgir6YtTZUtKoJEc9ij+KYbT1bVS6x9Ut+TDDjidgoKAHMe/wCD531P+mFxCreJJDfSaWlVSkhJPLlwFJJyAcbnPbxnvpHj2kf6NXImRUyIrRHUb8KTn7c9/JxvqJkXYgXrz9WnoRlI6PSQokcn41LYBQU4oepvKed83DMgftf/2Q=="
-/>
-
 **Ich wollte mal wieder einen Kommentar abgeben und das sei hiermit geschehen: Es ist schön, dass sich was tut. Das Umdenken erfolgt Schritt für Schritt.**
 
 Im Fernsehen laufen Berichte[^1] über die vegane Lebensweise (zwar nicht im Vorabendprogramm, da lösen nach wie vor die Zoosendungen die Fleisch- und Sahneköche ab und umgekehrt), aber man muss froh sein, dass sich der Gedanke langsam rumspricht.

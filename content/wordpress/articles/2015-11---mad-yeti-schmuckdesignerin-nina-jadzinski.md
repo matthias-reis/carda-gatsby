@@ -35,14 +35,6 @@ errors: {}
 subTitle: '"Ich möchte Schmuck für Veganer machen!"'
 ---
 
-<RemoteImage
-  alt={`Mein Kohlköpfchen`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_Der--und-ich-320__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_Der-Herzmann-und-ich-320__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABwgEBQEDBv/EACoQAAEDAgUEAQQDAAAAAAAAAAECAwQFEQAGEiExBxNBUSIUFXGBMkJh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQBAv/EACMRAAIBAwMEAwAAAAAAAAAAAAECAwAEERITYQUxQXFRgcH/2gAMAwEAAhEDEQA/AFvZQVEYlfTgpseCPOMMJ4wZOlOU6ZVIDb8hsrfeZW4e8boJQTYJtwDcc+R+MS3l2lpHuOM+q5mmEK5Pqh4imxp1BXVaut1lTbnYbcYSCuWQBsQdgQP7efWxxQTJquwYsNpMSIbakIN1u28uL5V+Nk+hhpcy5LoaoRgCAkRbIUnt6my2SLpJ8X1LUALXNz53wuOcKGaFV3YmoLQbqQoHewUUkH9pOI7HqkV27RAEMPB/KxLlXbRjBon5VoGWZlTNaVTWmqNPkppNGiuJKxIcsQqQoK33sTvxYnm2Ob6YdQncnvFpcZmQyQtAbeWUpIN9r8A7nnnEh+soqPWPK9KpwH2ujzmIMZtI+J0LAWbebkEX8gYG01Ta5MhIALZdXYH1qOHSHdGJOCOPj7p50VximJrPWuG813odEXGlttWbfekAhnbcpHA/w2vhea/mB+tVh2S+rWk/FG1rJFzt+yT73xWuMIItrVb0TcY1aUo/jcn3hIbRYnMncmgSPSdROTX/2Q=="
-/>
-
 **Vor Kurzem lerne ich über die sozialen Netzwerke die junge Schmuckdesignerin Nina Jadzinski kennen. Sie stellt tollen Schmuck her, den sie selbst entwirft. Das Besondere: Die kleinen Anhänger haben die Form von Gemüse.**
 
 Liebevoll formt sie in Handarbeit kleine Avocados, Drachenfrüchte und Rüben. Im Netz erfreuen sich ihre Kunstwerke großer Beliebtheit. Natürlich konnte ich es mir nicht nehmen lassen, mir auch gleich mal eins davon zu bestellen. Meine Wahl fiel auf ein kleines Kohlköpfchen, Ihr seht es rechts auf dem Bild. Ich liebe es und trage es seit es in meinem Besitz ist jeden Tag.
@@ -134,12 +126,7 @@ Durch die leckeren Gerichte von Attila Hildmann habe ich dann gesehen, wie schma
 
 **Nina:** Am besten gefällt mir eine Szenerie, die ich aus dem Film "Sweeney Todd" nachgebaut habe. Dazu ist zu sagen, dass Tim Burton eine meiner größten Inspirationen ist. Ich liebe seine Kunst einfach.
 
-<p class="p1">
-  In besagter Szenerie habe ich zwei von Mrs Lovett’s Meat Pies und einen
-  riesigen Topf mit Fleisch nachgestellt. In diesen "Leckerbissen" liegen
-  überall menschliche Finger und Augen und Ähnliches, es ist also ein bisschen
-  eklig und gruselig, genau wie der Film, aber mir gefällt es total.
-</p>
+In besagter Szenerie habe ich zwei von Mrs Lovett’s Meat Pies und einen riesigen Topf mit Fleisch nachgestellt. In diesen "Leckerbissen" liegen überall menschliche Finger und Augen und Ähnliches, es ist also ein bisschen eklig und gruselig, genau wie der Film, aber mir gefällt es total.
 
 **Anne:** Demnach stellst du nicht nur Anhänger her, sondern auch andere Dinge?
 
@@ -174,12 +161,7 @@ Durch die leckeren Gerichte von Attila Hildmann habe ich dann gesehen, wie schma
 
 **Anne:** Bist du auch auf Schmuck- oder Vegan-Messen unterwegs?
 
-<p class="p1">
-  __Nina:__ Noch nicht mit eigenem Stand. Aber das wird auch eins meiner größten
-  Ziele für 2016 sein. Ich besuche solchen Messen und Conventions aber super
-  gerne und habe eigentlich schon immer vor mich hingeträumt und dort einen
-  Stand mit meinem kleinen Mad Yeti gesehen!
-</p>
+**Nina:** Noch nicht mit eigenem Stand. Aber das wird auch eins meiner größten Ziele für 2016 sein. Ich besuche solchen Messen und Conventions aber super gerne und habe eigentlich schon immer vor mich hingeträumt und dort einen Stand mit meinem kleinen Mad Yeti gesehen!
 
 **Anne:** Du bist Schmuckdesignerin mit Leib und Seele. Was bedeutet Schmuck für dich?
 

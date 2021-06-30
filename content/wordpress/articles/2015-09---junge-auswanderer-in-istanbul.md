@@ -28,18 +28,18 @@ errors: {}
 subTitle: Marie von Maviblau berichtet
 ---
 
+**Sicher können sich einige von Euch noch an Marie erinnern. Vor Kurzem habe ich mich wieder mit Marie unterhalten und sie hatte Interessantes zu berichten.**
+
+Gemeinsam mit Caro drehte sie den Film "Istanbul mit anderen Augen"[^1]. Im Interview[^2] berichteten die beiden jungen Filmemacherinnen von ihrem Leben als Auswanderinnen in ihrer Traumstadt Istanbul, den Protesten rund um den Gezi Park, ihre Erfahrungen und Erlebnisse.
+
 <RemoteImage
   alt={`Marie lebt in ihrer Traumstadt IstanbulMarie lebt in ihrer Traumstadt Istanbul`}
-  size="medium"
+  size="full"
   title={`Marie lebt in ihrer Traumstadt Istanbul`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_10446223_818332548185608_1397833157808390565_o1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_10446223_818332548185608_1397833157808390565_o1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKRAAAgEDBAAFBAMAAAAAAAAAAQIDBBEhAAUGEgcTMVGBFEGhwSIycf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAfEQACAgIBBQAAAAAAAAAAAAAAAQIRITEDEiIyQoH/2gAMAwEAAhEDEQA/ALsee7eGt1k+bD961nK+awVPHK+GhMqzSx9OydewVsEi5te19SabeIY5ZaWUSNEpYsDDhyMG1h6Yt86TNx5pWbfy+ek3Om6bR1KBYkDSMjD+Mlz6n3GPxqJLGDSFWm9F08MeRx7Hx9qGqeplhWW9N5hBYKRlcH07AkW99Nb+IG1qvYt1X7lmA1y/ufMJancNq2/iDSNH5gEhqIwiyXYWFjkWsT2x86c3r0bcOv1SeYsjBSn9Set/S9hj2I/WlBYV7HyV1NrRl1VI9PHWSpOSzkGQkG72wL51MfFulSmNFNEz+bLM5ZmsTYopAwBgWx/ujRqpKpIE+xi5wSnNXy3boJJXVXZspgghSQfxqsybFTQbtH3aSSOUGRk7FfucXGjRofmT6fT/2Q=="
 />
-
-**Sicher können sich einige von Euch noch an Marie erinnern. Vor Kurzem habe ich mich wieder mit Marie unterhalten und sie hatte Interessantes zu berichten.**
-
-Gemeinsam mit Caro drehte sie den Film "Istanbul mit anderen Augen"[^1]. Im Interview[^2] berichteten die beiden jungen Filmemacherinnen von ihrem Leben als Auswanderinnen in ihrer Traumstadt Istanbul, den Protesten rund um den Gezi Park, ihre Erfahrungen und Erlebnisse.
 
 Gezeigt wurde "Istanbul mit anderen Augen" bisher 2013 beim Europe Day der Kadir Has Universität, als Eröffnungsfilm des International Changing Perspectives Short Film Festival und 2015 im Rahmen der Türkei Begegnungen an der Jade Hochschule in Oldenburg.
 

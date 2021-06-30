@@ -36,15 +36,6 @@ errors: {}
 subTitle: Wir haben den Hockenheimring gerockt
 ---
 
-<RemoteImage
-  alt={`Wir haben den Hockenheimring gerockt`}
-  size="medium"
-  title={`Wir haben den Hockenheimring gerockt`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20922701385_03b978826e_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20922701385_03b978826e_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAoEAACAQMDBAEFAQEAAAAAAAABAgMEBREABiESEyIxFAcyQVFhgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2bN2/aNz217neLFSxr2e/O8TsJxMpLYwT5AqFwx9nPGtey7RR32LuXQyQRssbUSExM1PxgK3ic5HSffBGuHt+G7WfYO5LZa3WW4yQxpEJZR1xtyJGZz9wIOU94/nI0ubMtELV1rrrksVFHSyiVoAztPUqp8mDAcjgj8Af06Bzb6cRUl6ms9quVVLB2kqauaZgVyrELGVU/eeoksf0MaNVuR4J6T5FJzFMOpXxguORnOOfXvRoIptRZ5J7ybnHJG1XUvNDlmQ9sOzKrYxjGcEfrS3U1rW/ctxhjgR6YMpUdyRenPn4k4IBLeiCDpzi2vcIqitjqZYo1+R0OwJAMZQ+S/99cY/zUr+RUVs080ziqlmmeRpGPDg5xz+j+NBSKv6j3KClSWaVhhliWEAGPpZxnJPJP8ARj1o0n2zbFZcrLLNTxO4eXpQiYDowQTlT934AwRjRoP/2Q=="
-/>
-
 **Wie schon kurz berichtet, habe ich vor Kurzem bei einem Seat-Gewinnspiel Tickets für das Rock'n'Heim 2015 gewonnen.**
 
 Zusätzlich gab es noch ein Fahrsicherheitstraining am Vortag des Festivals auf dem Hockenheimring in einem Seat Leon Cupra mit 280 PS, 2 Übernachtungen in einem tollen Hotel mit all inclusive und ein Rundum-Sorglos-Paket für das Rock'n'Heim, Getränke und Essen inbegriffen.
@@ -271,7 +262,5 @@ Hier noch ein paar Bilder, die uns die Seat-Truppe freundlich zur Verfügung ges
     },
   ]}
 />
-
-[Hier geht's zum Rock'n'Heim.](https://www.rock-n-heim.com/)
 
 <FestivalList />

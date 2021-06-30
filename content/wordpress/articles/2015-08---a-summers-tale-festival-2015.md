@@ -35,18 +35,18 @@ errors: {}
 subTitle: Bildergalerie und Fazit
 ---
 
+**Wie in den letzten Tagen berichtet, haben wir dieses Jahr mit dem A Summer's Tale Festival in Luhmühlen in der Lüneburger Heide ein neues Festival ausprobiert.**
+
+Auch wenn an einigen Dingen noch ein bisschen gearbeitet werden darf und es uns persönlich insgesamt ein bisschen zu gemütlich dort zuging, hat es uns großen Spaß gemacht.
+
 <RemoteImage
   alt={`Karten für das A Summer's Tale Festival 2015`}
-  size="medium"
+  size="full"
   title={`Karten für das A Summer's Tale Festival 2015`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_17540983524_354fbee986_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_17540983524_354fbee986_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIBP/EACwQAAEDAwQCAAUEAwAAAAAAAAECAwQFESEABhIxB0ETFBUiMghRYXGBkcH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAdEQABBQADAQAAAAAAAAAAAAABAAIDESEEEkJB/9oADAMBAAIRAxEAPwAU2JAbqU2XTSzU5ciU3xjxYBCVOrB7UekpTfkSSE4NzpW2b41RAqbNN3KwzV4dXirKKhCWXEMONoJcZufwVcAhQ/K2PeqnxBSKBK2TCdpIcT8RHGqMLKVSHneWGypOQ0bFQSLXHdzfVxTFON7mcpC0SXI0iF822FBCW2uLnDglKc+wc2696x9gTX1UihBaHO1FFT8eUmO6w5MpUZS3OLYVPrTq1kptZIsADi/vR15XaXS90M02NEaj0mK+gxrEc7/CQVJyes3/AL04Taj9Q3nEp9LQJVIiKLj/AMIpWX3L8QU3IshH33Kbn7b6G/OgpzW9qu242r6ilMZbbhCl8gWkY7sBYG9859+k2/Q1KVoDSQu3xhueFsqmTK2y3JfqKVJZWwltYbfbJSQjkBxByo8jkEC3edSUWVTdxQo1dpbqXoUqIptCrWUAVZSr9lAggj0RrDTM/wCYp3ychyUqOXkuYSm4wPffYH+hpz/TNW5ESPuBhhUpcNIaWWlFPFtai5dQBPtKADbs2xi+iDWLPx5aIjVRJ2smkbkp0tgtsKj3WXClSklABHLGejY27xoa8906VK3kzWoLZeiTIzTYLeXG1tp4kLT2k9EE4IPd76cPJNVbk7aeSJIdS0+26Ejj9o/A5/yNA1YlpXz4lu5/kf8ANXYO2q07vNL/2Q=="
 />
-
-**Wie in den letzten Tagen berichtet, haben wir dieses Jahr mit dem A Summer's Tale Festival in Luhmühlen in der Lüneburger Heide ein neues Festival ausprobiert.**
-
-Auch wenn an einigen Dingen noch ein bisschen gearbeitet werden darf und es uns persönlich insgesamt ein bisschen zu gemütlich dort zuging, hat es uns großen Spaß gemacht.
 
 ## Die Künstler
 
@@ -60,7 +60,7 @@ Anfangs dachten wir uns noch, wie schön, dass es mal andere Einkehrmöglichkeit
 
 <RemoteImage
   alt={`Vincent Vegan rettete uns`}
-  size="medium"
+  size="full"
   title={`Vincent Vegan rettete uns`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20411972525_6eb31688e2_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20411972525_6eb31688e2_z__l.jpg"
@@ -79,7 +79,7 @@ Nach der zweitägigen Pause packten sie kurzerhand alles ein, was an Essbarem in
 
 <RemoteImage
   alt={`Wir auf dem A Summer's Tale `}
-  size="medium"
+  size="full"
   title={`Wir auf dem A Summer's Tale`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Bildschirmfoto-2015-08-18-um-10.18.56.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Bildschirmfoto-2015-08-18-um-10.18.56.png__l.jpg"

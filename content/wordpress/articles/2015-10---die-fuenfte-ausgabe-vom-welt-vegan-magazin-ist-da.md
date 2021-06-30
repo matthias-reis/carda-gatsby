@@ -29,18 +29,18 @@ errors: {}
 subTitle: Zwei Artikel sind von mir
 ---
 
+**Die neue Ausgabe des Welt Vegan Magazins ist da! Dieses Mal habe ich wieder zwei Artikel beigesteuert.**
+
+Im ersten (Seite 112 - Seite 114) dreht sich alles ums Thema TTIP, beim zweiten handelt es sich um ein umfassendes Interview mit Kathrin Mehrer vom BUND Hamburg (Seite 120 - Seite 125).
+
 <RemoteImage
   alt={`Mein Interview mit Frau Mehrer vom BUND Hamburg`}
-  size="medium"
+  size="full"
   title={`Mein Interview mit Frau Mehrer vom BUND Hamburg`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23561697616_a4fe3f4373_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23561697616_a4fe3f4373_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAFBgj/xAArEAACAgEDAwEIAwEAAAAAAAABAgMEBQARIQYSEwcUFTEyQVFxgSJCYaH/xAAZAQACAwEAAAAAAAAAAAAAAAABAwAEBQb/xAAhEQACAgICAQUAAAAAAAAAAAABAgARAwQhMhITUWGB8P/aAAwDAQACEQMRAD8AMulOnfbb+MFhIlrTu4klbclQpUdqqGG5JJ/GmW901g+kcGstnEYu/PPPFBWlYvGV8jFd5d2KoVI+YEAn7fDRT0vbxEmfxwyWRyECU64kjho12md5jK5+hBGy9p3HxDbaaLMcOdFUPhc9LScOZrGVEVOMpuWUBnIfhuRxtuBvxzrmcyZi4Y9a/fJmv6lMyg17TJ6M9zXMf7o6giW9mMjB7ZYuSdrElZCqoH37h2rswA4HP30O9U42r7yuvQZHr+Z1BTkBgdjt/wAP716G9PPT/B2sPcLzXbckNpqhKuE8IruVjRSu5AG2/wA3JJJ1zXqZ6d0MHgLt7Em3vE6yyRSyBx28hiBtuOCD+BqLhdMhyhuDVCHE1v4VxUH8Nl7uPqV5qWQyVMPGqOtSdYu7tL8k9hP9jwDrdwV2pYyEVuarYtWo0YLLduyTHY77gjgEfyOrVo7jsqGpc18KObYXNHq677f5BaWXxyN5nghsSQwM7AAsY1IBJAG5P2/3R/ko4arMK1eGHb6ouxP7+OrVpeixZRZjdlFTqAPqf//Z"
 />
-
-**Die neue Ausgabe des Welt Vegan Magazins ist da! Dieses Mal habe ich wieder zwei Artikel beigesteuert.**
-
-Im ersten (Seite 112 - Seite 114) dreht sich alles ums Thema TTIP, beim zweiten handelt es sich um ein umfassendes Interview mit Kathrin Mehrer vom BUND Hamburg (Seite 120 - Seite 125).
 
 Mit Frau Mehrer habe ich mich über die BUNDjugend und die Naturschutzprojekte für Kinder und Jugendliche beim BUND unterhalten. Natürlich kam dabei auch das Thema Ernährung zur Sprache, außerdem haben wir über ihre Lieblingsprojekte gesprochen. Ein sehr interessantes Gespräch, wie ich finde, doch lest am besten selbst.
 
@@ -48,7 +48,7 @@ Mit Frau Mehrer habe ich mich über die BUNDjugend und die Naturschutzprojekte f
 
 <RemoteImage
   alt={`Mein Artikel zum Thema TTIP`}
-  size="medium"
+  size="full"
   title={`Mein Artikel zum Thema TTIP`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23587734615_889ec5ec80_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23587734615_889ec5ec80_z__l.jpg"

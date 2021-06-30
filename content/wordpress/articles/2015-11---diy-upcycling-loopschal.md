@@ -29,15 +29,6 @@ errors: {}
 subTitle: Kuschelig und angesagt
 ---
 
-<RemoteImage
-  alt={`Mein neuer Loopschal`}
-  size="medium"
-  title={`Mein neuer Loopschal`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22960728786_182ee19892_z-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22960728786_182ee19892_z-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAArEAACAQMDAQgBBQAAAAAAAAABAgMABBEFBiESByIxQWFxgaETFFFScpH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAYCBf/EACQRAAEEAQMDBQAAAAAAAAAAAAEAAgMRBBIhYRMxkUKhscHx/9oADAMBAAIRAxEAPwCf37YQWO40vLm4WKG6tkctIwCllypAz6Bax20YmgWSwhstSUeP4ZAHHxyKn+0vekTbjWOxiilmsoRAXmTrRGySwVTxnnk+npUPNuXUZWmeOVoi3LCMiNcf1UAH5zSWEHDHZqG9LoZTWuyH0aF/q6nP3BmXSL634w2LdZFIPswpNe9SonXbSfpwcK0sQUAc5x3iam9O3XuLT7YSslx+DxD9LIre4I6T/g96aDf5u7do72zSJxwGjVRn44plpvugSwOYRW98EH3+rHK0T7PXUNcv7qa8XreQytiAcEkeHOPqn9rsPToulri5vJAgBAiMcXn+6rn5zRRUpLmTghodsq+LGiDbr5VVpnZ7tu6njElg03IBNzcSyk93P8gPqmup9m+1NPjVm0iCXzAA6R7eZ+6KKB15T6j5Kw+NmsDSPAX/2Q=="
-/>
-
 **Langsam wird es richtig winterlich draußen. Höchste Zeit für einen kuscheligen Loopschal. Dazu braucht Ihr nur ein paar Kleinigkeiten aus Eurem Kleiderschrank.**
 
 Habt Ihr auch noch so ein Strickjäckchen im Schrank hängen, dass Ihr nur noch nicht weggegeben habt, weil Euch die Farbe oder irgend ein anderes Detail so gut gefällt? Ihr zieht es aber nicht mehr an, weil es eigentlich schon aus der Mode gekommen ist oder sich einfach nicht mehr kombinieren lässt? Perfekt.

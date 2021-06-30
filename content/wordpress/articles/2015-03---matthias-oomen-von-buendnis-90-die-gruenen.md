@@ -38,6 +38,12 @@ errors: {}
 subTitle: '"Obdachlose wie Menschen behandeln!"'
 ---
 
+**Matthias Oomen lebt in Berlin-Wilmersdorf zwischen der Pariser Straße und dem Kurfürstendamm. Der aus Ettenheim in Baden-Württemberg stammende Nichtschwabe fühlt sich im Berliner Westen sehr zuhause.**
+
+Ich lernte den Politiker über Twitter kennen, einer seiner Tweets machte dort tagelang die Runde. Mich sprach er besonders an, da er in nicht mal 140 Zeichen genau sagt, wie es ist:
+
+> "In Deutschland hat man kein Geld für fair gehandelten Kaffee zu 20 Euro je kg, deshalb kauft man Kapselkaffee zu 80 Euro je kg."
+
 <RemoteImage
   alt={`Matthias Oomen - Politiker aus Berlin`}
   size="medium"
@@ -46,12 +52,6 @@ subTitle: '"Obdachlose wie Menschen behandeln!"'
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_11012011557__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAqEAACAQIFAwQBBQAAAAAAAAABAgMEEQAFEiExBgcTFCJRYZEVMkFxcv/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECMQMRIXH/2gAMAwEAAhEDEQA/AKqeuqLS7B5dQ4BXnGXT9y1d18lHPHGbapBICF++MINK7QSL6hnMaElAUJBuLG/5wU81FTyjwaVVjYoXsDb5B4wlPhGh5zvuLNT5llH6dVUq0TyD1QnQ6ypYDa5Gna5vvvthlHXuXoBadnc30oFN2xxd483zLOq1DSyyVlQWMkZtsrNtuTawOwPGKX2blmq8tp6Z4dPjqXbynlo1sSP6DbYMvSukLtF1V1H5Y43qPUqSB7ogXP8Ak/P3xhsy+mzKry2StzqsgpaKBbzzeIAAfBPDN9AW3wYMFPoMj0SHrKrpqvPGky+nkpqYRJGgdjrcC/vb7N72/jbFY7AOqZBmEkgJdJjAu/7VKhrflr4MGFKhKj//2Q=="
 />
-
-**Matthias Oomen lebt in Berlin-Wilmersdorf zwischen der Pariser Straße und dem Kurfürstendamm. Der aus Ettenheim in Baden-Württemberg stammende Nichtschwabe fühlt sich im Berliner Westen sehr zuhause.**
-
-Ich lernte den Politiker über Twitter kennen, einer seiner Tweets machte dort tagelang die Runde. Mich sprach er besonders an, da er in nicht mal 140 Zeichen genau sagt, wie es ist:
-
-> "In Deutschland hat man kein Geld für fair gehandelten Kaffee zu 20 Euro je kg, deshalb kauft man Kapselkaffee zu 80 Euro je kg."
 
 Matthias ist aktives Mitglied bei Bündnis 90 / Die Grünen und war lange Zeit Bundespressesprecher des Pro Bahn Verbandes. Daneben war er Chefredakteur der verkehrspolitischen Zeitschrift "Der Fahrgast".
 

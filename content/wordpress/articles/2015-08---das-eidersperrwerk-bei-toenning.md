@@ -25,18 +25,18 @@ errors: {}
 subTitle: Schutz vor der Sturmflut
 ---
 
+**An der Nordseemündung der Eider, ganz in der Nähe des kleinen Örtchens Tönning, befindet sich das Eidersperrwerk. Das Bollwerk schützt die Küstenlandschaft vor Sturmfluten. Es besteht aus zwei stabilen Wänden, die jeweils mit fünf verschließbaren Metalltoren versehen sind. In der Mitte verläuft die Straße.**
+
+Doch nicht nur auf dem Landweg ist das Eidersperrwerk befahrbar. Eine anschließende, 75 Meter lange Schleuse ermöglicht auch den Schiffverkehr. Insgesamt ist das Eidersperrwerk 4,9 Kilometer lang.
+
 <RemoteImage
   alt={`Nistplätze auf dem Eidersperrwerk`}
-  size="medium"
+  size="full"
   title={`Nistplätze auf dem Eidersperrwerk`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20161111072_b86f62ee14_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20161111072_b86f62ee14_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECB//EACsQAAEDAwMDAwMFAAAAAAAAAAECAwQABREGEiExQVETImEUMnGBgpGh8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBxaNGwVx1NqkqcdkDelCFkqUnP3KSSP7yKdTrBJgNLfhOojiO1uAQPUdOM528fwM4qVYUwI0BD01Nshvue9tpjkq74yoFSv2gUg1ZrdwzI1k0w45Mu85YbdQ8D6UdvqoYKQclOQfAyfFBWro85eZLNk0y+7Kujw9STcXySmO0Rkj4JBHP6DnppLagaMty7baGgqTgFyQtQUt1XQk47Dt4q1NLg2C0ratSWEOPKJWtrcNwBICcnJO0cD8Vz+9vB9x1xbzSGhk+8hIAHz+Oc0EvWeontMpPoRIci4KaSr6t5vcoLWTggHOMdh/lJrFcXLNZROKRKm3NKnH3nT7iN5G3PXk8nzRRQYdvciDGWYSlsYWEDY4RgKBOB4+fNU7WGoJT0VMXAS24k7z1JAxwPGe9FFB//2Q=="
 />
-
-**An der Nordseemündung der Eider, ganz in der Nähe des kleinen Örtchens Tönning, befindet sich das Eidersperrwerk. Das Bollwerk schützt die Küstenlandschaft vor Sturmfluten. Es besteht aus zwei stabilen Wänden, die jeweils mit fünf verschließbaren Metalltoren versehen sind. In der Mitte verläuft die Straße.**
-
-Doch nicht nur auf dem Landweg ist das Eidersperrwerk befahrbar. Eine anschließende, 75 Meter lange Schleuse ermöglicht auch den Schiffverkehr. Insgesamt ist das Eidersperrwerk 4,9 Kilometer lang.
 
 Bei normalem Wetter sind alle Tore offen, soll die normale Flut kontrolliert werden und der Meersand am Eindringen in die Eider gehindert werden, werden die Tore auf der Meerseite geschlossen. Kommt es zu einer Sturmflut sind alle Tore geschlossen.
 
@@ -47,7 +47,5 @@ Zahlreiche Seevögel wie z. B. Küstenseeschwalben nisten jedes Jahr im Bereich 
 Wir haben uns im Rahmen unseres [Ausflugs nach Tönning](/2015/07/toenning-an-der-nordsee)  auch das Eidersperrwerk und seine Bewohner besucht. Hier sind meine Bilder:
 
 <Gallery name="flickr/anneeidersperrwerk72015" />
-
-Weitere Bilder findet Ihr wie immer in meinem [Flickr](https://www.flickr.com/photos/99929697@N07/).
 
 <FestivalList />

@@ -35,15 +35,6 @@ errors: {}
 subTitle: Vollwertig, lecker und eiweißreich
 ---
 
-<RemoteImage
-  alt={`Veganer Kaiserschmarrn`}
-  size="medium"
-  title={`Kaiserschmarrn mit frischem Obst`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_21835534795_27006697f2_z-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_21835534795_27006697f2_z-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAmEAACAQMDBAMAAwAAAAAAAAABAgMEESEABRITMUFRImFxMnLB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMF/8QAIREAAgIBBAIDAAAAAAAAAAAAAQIAEQQDEiFhUfAigcH/2gAMAwEAAhEDEQA/AIKheOVIKuGohqoDyIfpBhDYXsSTkZuO2R40tX09TWRVVTR1lSrKSFjiAlilwLBV8efvWbsu+7XR7mWi2OgZiSFmmc8mzbPdb+TZca7e9FQ1mz04NPtixScS5KqVa+LRvGuTe3e3fNtY+qwxWBdqv33ib2mrZKUE3V3OKbpQiOVAli3H5BcAHt28fmjVrvmzbfT1jQQ9KFYyV4RyBLH+r5H+99GluDfJSKPYhVgoAYGx0fyT1BtXKOB4NvQMq9KJTEpRfgfm3tSRe/gjW7tO9rWbdHQQPGk1K3OZEj4KpYWupGCcHNxcX7ano5o6CmV6WtdYpQYxzbqxsH8r6Nh4/NJRzrHFHTUpmMhbqHkQw74c4zj6xa2jrY5Y031K42Wu2xx5js0fCeWqqerSvUNhGlubKLDF8fn2LaNZNNXT1sYaWsV5LBmf+Aa/r2PH1o1UF1FWZNhpudxUG/NT/9k="
-/>
-
 **Heute habe ich mal wieder ein leckeres Frühstücksrezept für's Wochenende für Euch vorbereitet. Auf den Tisch kommt ein echter Klassiker mal ein bisschen anders. Es gibt: Kaiserschmarrn.**
 
 Er ist superleicht zuzubereiten, sehr schmackhaft und gibt Euch die nötige Power für Eure Wochenendaktivitäten.
