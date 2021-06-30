@@ -16,11 +16,15 @@ export const slugify = (s: string) =>
     .replace(/\s+/g, ' ')
     .replace(/ /g, '-');
 
-export const getPath = (label: string) => {
-  if (label.match(/[0-9]{4}\/[0-9]{2}/)) {
+export const getPath = (label: {
+  type: string;
+  title: string;
+  slug: string;
+}) => {
+  if (label.type === 'archive') {
     // it's a date like 2019/04
-    return `/${label}`;
+    return `/${label.slug}`;
   } else {
-    return `/tag/${label}`;
+    return `/tag/${label.slug}`;
   }
 };

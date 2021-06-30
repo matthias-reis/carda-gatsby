@@ -17,7 +17,7 @@ export const LabelList: React.FC<{
   return (
     <StyledList>
       {labels.map((label) => {
-        const destination = getPath(label.slug);
+        const destination = getPath(label);
         return (
           <StyledLabel key={label.slug} to={destination}>
             <small>

@@ -15,6 +15,7 @@ const Section = styled.nav`
 export const ArticleSeries: React.FC<{
   series: Record<string, CompactArticle[]>;
 }> = ({ series }) => {
+  console.log(series);
   if (Object.entries(series).length > 0) {
     return (
       <Section>
