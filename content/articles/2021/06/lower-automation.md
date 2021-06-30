@@ -26,7 +26,7 @@ focusKeyword: Lower Automation
 advertisement: false
 affiliate: false
 language: de
-languageLink: lower-automation-en
+languageLink: /2021/06/lower-automation-en
 ---
 **"Vegan Neuroscientist" und "Locust Bean Gum" (deutsch: "Johannisbrotkernmehl") heißen die Songs auf der neuen Platte von Lower Automation.
 Dass mich das neugierig macht, ist irgendwie klar. Dass mir das selbst betitelte Album, das am 12. Juli erscheint, auch noch gefällt, ist ein genialer Zufall.**
