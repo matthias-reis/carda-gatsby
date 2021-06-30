@@ -31,6 +31,8 @@ query AllPageQuery {
           type
           labels {
             slug
+            type
+            title
           }
         }
         frontmatter {
@@ -82,17 +84,17 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
 
   for (const edge of edges) {
     const { fields } = edge.node;
-    const labelSlugs = (fields.labels || []).map((l) => l.slug);
-    for (const labelSlug of labelSlugs || []) {
-      if (!labels[labelSlug]) {
-        labels[labelSlug] = [];
+    for (const { slug, title, type } of fields.labels || []) {
+      if (!labels[slug]) {
+        labels[slug] = { type, title, slug, articles: [] };
       }
-      labels[labelSlug].push(edge.node);
+      labels[slug].articles.push(edge.node);
     }
   }
 
-  for (const labelSlug in labels) {
-    const path = getPath(labelSlug);
+  for (const label of Object.values(labels)) {
+    console.log('LABEL:', label.slug, label);
+    const path = getPath(label);
 
     // ONE PAGE FOR EACH LABEL
     if (path) {
@@ -101,7 +103,7 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
         '../components',
         `list-controller.tsx`
       );
-      createPage({ path, component, context: { label: labelSlug } });
+      createPage({ path, component, context: { slug: label.slug, label } });
     }
   }
 

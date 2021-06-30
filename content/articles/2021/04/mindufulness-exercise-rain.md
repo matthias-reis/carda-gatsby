@@ -1,16 +1,19 @@
 ---
-templateKey: article
 date: 2021-04-30T12:41:13.273Z
 slug: mindfulness-exercise-rain
 typeName: Beitrag
 title: Being thankful for the rain
 subTitle: Mindfulness experience in spring
 seoTitle: Being thankful for the rain – Mindfulness experience in spring
-ogTitle: ''
-description: Today, I have prepared another mindfulness exercise for you. Since it is about an essential topic from nature, it fits in perfectly with spring. Today you are going to enjoy the rain.
-excerpt: Today, I have prepared another mindfulness exercise for you. Since it is about an essential topic from nature, it fits in perfectly with spring. Today you are going to go for a walk and enjoy the rain.
-image: '/img/basstoelpel.jpg'
-ogImage: '/img/basstoelpel.jpg'
+ogTitle: ""
+description: Today, I have prepared another mindfulness exercise for you. Since
+  it is about an essential topic from nature, it fits in perfectly with spring.
+  Today you are going to enjoy the rain.
+excerpt: Today, I have prepared another mindfulness exercise for you. Since it
+  is about an essential topic from nature, it fits in perfectly with spring.
+  Today you are going to go for a walk and enjoy the rain.
+image: /img/2021-04-30-regen-4.jpg
+ogImage: /img/achtsamkeitsuebung-regen-fb.jpg
 labels:
   - Mindfulness
   - mindful
@@ -22,8 +25,9 @@ labels:
   - meditate
   - rain
   - nature
-focusKeyword: Mindfulness
 advertisement: false
+templateKey: article
+focusKeyword: Mindfulness
 affiliate: false
 language: en
 languageLink: /2021/04/achtsamkeitsuebung-regen

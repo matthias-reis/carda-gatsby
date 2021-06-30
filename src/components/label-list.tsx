@@ -6,7 +6,7 @@ import { color, space, fontSize } from '../style';
 import { getPath } from '../gatsby/slugify';
 
 const labelTypes = {
-  category: 'Kategorie',
+  category: 'Thema',
   serie: 'Serie',
   archive: 'Archiv',
 };
@@ -17,7 +17,7 @@ export const LabelList: React.FC<{
   return (
     <StyledList>
       {labels.map((label) => {
-        const destination = getPath(label.slug);
+        const destination = getPath(label);
         return (
           <StyledLabel key={label.slug} to={destination}>
             <small>

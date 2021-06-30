@@ -77,7 +77,7 @@ const ListPage: React.FC<{
         {childItems && Object.values(childItems).length && (
           <ChildTopics>
             {Object.values(childItems).map((childItem) => (
-              <ChildTopic>
+              <ChildTopic key={childItem.slug}>
                 <Link to={`/tag/${childItem.slug}`}>{childItem.title}</Link>
               </ChildTopic>
             ))}

@@ -1,28 +1,30 @@
 ---
-templateKey: article
 date: 2021-04-30T12:26:01.266+00:00
 slug: achtsamkeitsuebung-regen
 typeName: Beitrag
 title: Dankbar für den Regen sein
 subTitle: Achtsamkeitsübung im Frühling
 seoTitle: Achtsamkeitsübung – Dankbar für den Regen sein
-description: 'Heute habe ich eine Achtsamkeitsübung vorbereitet, die perfekt in den Frühling passt. Es geht um ein essentielles Naturthema: Regen.'
-excerpt: 'Heute habe ich eine Achtsamkeitsübung vorbereitet, die perfekt in den Frühling passt. Es geht um ein essentielles Naturthema: Regen. Wenn Ihr Lust habt, folgt mir auf einen entspannenden Spaziergang der Sinne.'
-image: '/img/2021-04-30-regen-4.jpg'
-ogImage: '/img/achtsamkeitsuebung-regen-fb.jpg'
+description: "Heute habe ich eine Achtsamkeitsübung vorbereitet, die perfekt in
+  den Frühling passt. Es geht um ein essentielles Naturthema: Regen."
+excerpt: "Heute habe ich eine Achtsamkeitsübung vorbereitet, die perfekt in den
+  Frühling passt. Es geht um ein essentielles Naturthema: Regen. Wenn Ihr Lust
+  habt, folgt mir auf einen entspannenden Spaziergang der Sinne."
+image: /img/2021-04-30-regen-4.jpg
+ogImage: /img/achtsamkeitsuebung-regen-fb.jpg
 labels:
   - Achtsamkeit
   - Dankbarkeit
   - Meditation
   - Achtsamkeits-Spaziergang
   - Achtsamkeitsübung
-focusKeyword: Achtsamkeitsübung
 advertisement: false
+templateKey: article
+focusKeyword: Achtsamkeitsübung
 affiliate: false
 language: de
-languageLink: '/2021/04/mindfulness-exercise-rain'
+languageLink: /2021/04/mindfulness-exercise-rain
 ---
-
 **Heute habe ich endlich mal wieder eine kleine Achtsamkeitsübung vorbereitet. Sie passt perfekt zum Frühling. Es geht um ein ganz essenzielles Thema aus der Natur: Regen.**
 
 Für die Übung werde ich die Perspektive wechseln und Dich direkt ansprechen. Ich weiß nicht, wie es Dir geht, aber mir hilft das immer sehr bei solchen Übungen.

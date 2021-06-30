@@ -14,8 +14,10 @@ const getExtract = pick(['title', 'slug']);
 
 const ListController: React.FC<{
   data: ListQuery;
-  pageContext: { label: string };
+  pageContext: { label: { title: string; type: string; slug: string } };
 }> = ({ data, pageContext }) => {
+  console.log(data, pageContext);
+
   const rawArticles: { node: Article }[] = data.allMdx.edges;
 
   const articles: CompactArticle[] = rawArticles
@@ -43,7 +45,7 @@ const ListController: React.FC<{
     }
   }
 
-  const currentCategory = categories[slugify(pageContext.label)];
+  const currentCategory = categories[pageContext.label.slug];
 
   let topic = 'Stichwort ';
 
@@ -61,8 +63,8 @@ const ListController: React.FC<{
           childItems={currentCategory?.children ?? undefined}
           parentItem={currentCategory?.parent ?? undefined}
           articles={articles}
-          title={currentCategory?.title ?? pageContext.label}
-          path={`/tag/${slugify(pageContext.label)}`}
+          title={currentCategory?.title ?? pageContext.label.title}
+          path={`/tag/${pageContext.label.slug}`}
         />
         <FooterNavigation />
       </ErrorBoundary>
@@ -73,12 +75,12 @@ const ListController: React.FC<{
 export default ListController;
 
 export const query = graphql`
-  query ListQuery($label: String!) {
+  query ListQuery($slug: String!) {
     allMdx(
       sort: { fields: frontmatter___date, order: DESC }
       filter: {
         frontmatter: { language: { ne: "en" } }
-        fields: { labels: { elemMatch: { slug: { eq: $label } } } }
+        fields: { labels: { elemMatch: { slug: { eq: $slug } } } }
       }
     ) {
       edges {

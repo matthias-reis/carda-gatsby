@@ -98,7 +98,14 @@ export type Category = {
   parent?: Category;
 };
 
-export type Labels = { [label: string]: Article[] };
+export type Labels = {
+  [label: string]: {
+    type: string;
+    title: string;
+    slug: string;
+    articles: Article[];
+  };
+};
 
 export type Recommendation = {
   vote: number;
