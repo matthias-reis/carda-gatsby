@@ -47,7 +47,7 @@ Mit "Lower Automation" schöpfen die Chicagoer ihr früher schon vermutetes Pote
 
 Hardcore, cool, energiegeladen, fantastisch und angenehm ungeordnet – das alles ist "Lower Automation" und gleichzeitig so geradlinig wie Musik nur sein kann. Meine Empfehlung: Unbedingt hören!
 
-Hier kommt die versprochene Hörprobe. Der Song "Father's Shirt Is A Dress On Me" ist nicht Teil des neuen Albums, ist jedoch ein guter Vorgeschmack darauf. Die Single ist im April 2020 erschienen.
+Hier kommt die versprochene Hörprobe. Der Song "Father's Shirt Is A Dress On Me" ist nicht Teil des neuen Albums, aber dennoch ein guter Vorgeschmack darauf. Die Single ist im April 2020 erschienen.
 
 ## Lower Automation – "Father's Shirt Is A Dress On Me"
 
