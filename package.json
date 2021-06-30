@@ -88,7 +88,8 @@
     "p": "node ./src/wordpress/prettier",
     "tsc": "tsc --project tsconfig-gatsby.json",
     "prefirebase": "cd functions && yarn build",
-    "firebase": "firebase deploy --only functions"
+    "firebase": "firebase deploy --only functions",
+    "compress-images": "node ./compress-images"
   },
   "devDependencies": {
     "@types/mdx-js__react": "^1.5.3",

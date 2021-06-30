@@ -8,6 +8,7 @@ static/admin/*.bundle.*
 .DS_Store
 yarn-error.log
 *.js
+!compress-images.js
 !/src/wordpress/*.js
 .env
 database-debug.log
