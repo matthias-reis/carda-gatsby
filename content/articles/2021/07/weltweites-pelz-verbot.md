@@ -8,7 +8,7 @@ seoTitle: Weltweites Pelz-Verbot – Stella McCartney bekommt prominente Unterst
 description: Die Nachhaltigkeits-Designerin Stella McCartney setzt sich schon
   lange für ein weltweites Pelz-Verbot ein. Jetzt haben sich ihr weitere Stars
   angeschlossen. Mit dabei sind neben vielen anderen Dame Judi Dench, Sir Paul
-  McCartney, Natalie Emmanuel und Leona Lewis
+  McCartney, Natalie Emmanuel und Leona Lewis.
 image: /img/pelzverbot-stella-mccartney.jpg
 copyrigt: Stella McCartney
 ogImage: /img/pelzverbot-stella-mccartney-fb.jpg
