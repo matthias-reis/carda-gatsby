@@ -44,7 +44,7 @@ There is also a completely new song on the EP. The artist played it for the firs
 
 Grégoires music lives from its contrasts, and it's no different with "Live at daFestival". While the first piece, "Vltava", is relatively calm, you can sense Grégoire's passion for industrial sound in the second song "Keepers" quite good. This alternates with his expressive vocals and the harmonious piano playing, giving the piece a fantastic and imaginative colouring.
 
-### "Live at daFestival" gets under your skin
+## "Live at daFestival" gets under your skin
 
 The harmonies get under the skin, the heavy interludes stir up, leaving the narrow boundaries of strict genres far behind.
 
