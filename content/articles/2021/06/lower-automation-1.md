@@ -44,7 +44,7 @@ The band members themselves have the following to say about the record:
 
 > "We wanted to make the weirdest album we could. In late 2019 we started throwing ideas around and ended up with 12 or so demos. Once we were in quarantine, we would have long phone conversations where we would dismantle and reassemble the songs in different ways. This music is a big departure from our last couple EPs. We let ourselves riff a little more off the cuff. In August of 2020, we spent five days recording the album ourselves in a cabin in the middle of nowhere in Michigan. It was hot and claustrophobic, perfect for an album that sounds like a panic attack."
 
-With "Lower Automation", the Chicagoans live up to their previously suspected potential. The three of them are casually combining chaotic-seaming, wild math-rock that we are familiar with from bands like Dillinger Escape Plan and At The Drive-In with crass noise rock that comes with exciting no wave moments. I still have to take a closer look at the vegan hints here and there. I'll let you know as soon as I've found out what it's all about.
+With "Lower Automation", the Chicagoans live up to their previously suspected potential. The three of them are casually combining chaotic-seeming, wild math-rock that we are familiar with from bands like Dillinger Escape Plan and At The Drive-In with crass noise rock that comes with exciting no wave moments. I still have to take a closer look at the vegan hints here and there. I'll let you know as soon as I've found out what it's all about.
 
 "Lower Automation" is hardcore, chilled, energetic, fantastic and pleasantly messy. And at the same time, as straightforward as music can be. So my recommendation for you is: Listen to it as soon as it is available!
 
