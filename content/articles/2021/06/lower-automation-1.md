@@ -5,7 +5,10 @@ typeName: Review
 title: Lower Automation
 subTitle: Highly Explosive Mathcore From Chicago
 seoTitle: Lower Automation – Highly Explosive Mathcore From Chicago
-description: The songs on the new Lower Automation album go by names like "Vegan Neuroscientist" and "Locust Bean Gum". It is somehow clear that this makes me more than curious. It seems to be a brilliant coincidence that I am also into it since the first listening.
+description: The songs on the new Lower Automation album go by names like "Vegan
+  Neuroscientist" and "Locust Bean Gum". It is somehow clear that this makes me
+  more than curious. It seems to be a brilliant coincidence that I am also into
+  it since the first listening.
 image: /img/lower-automation.jpg
 copyrigt: Lower Automation
 ogImage: /img/lower-automation-fb.png
@@ -33,7 +36,7 @@ It's been three years since the noise/math-rock band from Chicago released their
 
 There are ten tracks on the new record – ten tracks that enrich the musical landscape. The innovative mix of mathcore, noise, punk and metal elements emits sparks. It comes to mind that it must have been forged pretty hot, though (Btw: You can find a sample of the band's music at the end of my review).
 
-The three deserve applause and at least to be mentioned here. I can highly recommend the self titles album "Lower Automation" to you. The trio recorded their first full-length album with Zegema Beach Records. If you listen to the result, you can assume an extremely fruitful collaboration.
+The three deserve applause and at least to be mentioned here. I can highly recommend the self-titled album "Lower Automation" to you. The trio recorded their first full-length album with Zegema Beach Records. If you listen to the result, you can assume an extremely fruitful collaboration.
 
 ## "The weirdest possible record"
 
