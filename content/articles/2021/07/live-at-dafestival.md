@@ -1,6 +1,6 @@
 ---
 date: 2021-07-01T23:00:54.079Z
-slug: live-at-dafestival-gregoire-thot-en
+slug: live-at-dafestival-gregoire-thot
 typeName: Review
 title: '"Live at daFestival"'
 subTitle: Grégoire (Thot) releases solo EP
