@@ -5,11 +5,7 @@ typeName: Review
 title: Lower Automation
 subTitle: Hochexplosiver Mathcore aus Chicago
 seoTitle: Lower Automation – Hochexplosiver Mathcore aus Chicago
-description: >-
-  "Vegan Neuroscientist" und "Locust Bean Gum" heißen die Songs auf der neuen
-  Platte der Mathcore/Noise-Rock Band Lower Automation.
-
-  Dass mich das neugierig macht, ist irgendwie klar. Dass mir das selbst betitelte Album, das am 12. Juli erscheint, auch noch gefällt, ist ein genialer Zufall.
+description: \"Vegan Neuroscientist\" und \"Locust Bean Gum\" heißen die Songs auf der neuen Platte der Mathcore/Noise-Rock Band Lower Automation. Dass mich das neugierig macht, ist irgendwie klar. Dass mir das selbst betitelte Album, das am 12. Juli erscheint, auch noch gefällt, ist ein genialer Zufall.
 image: /img/lower-automation.jpg
 copyrigt: Lower Automation
 ogImage: /img/lower-automation-fb.png
@@ -28,8 +24,8 @@ affiliate: false
 language: de
 languageLink: /2021/06/lower-automation-en
 ---
-**"Vegan Neuroscientist" und "Locust Bean Gum" (deutsch: "Johannisbrotkernmehl") heißen die Songs auf der neuen Platte von Lower Automation.
-Dass mich das neugierig macht, ist irgendwie klar. Dass mir das selbst betitelte Album, das am 12. Juli erscheint, auch noch gefällt, ist ein genialer Zufall.**
+
+**"Vegan Neuroscientist" und "Locust Bean Gum" (deutsch: "Johannisbrotkernmehl") heißen die Songs auf der neuen Platte von Lower Automation. Dass mich das neugierig macht, ist irgendwie klar. Dass mir das selbst betitelte Album, das am 12. Juli erscheint, auch noch gefällt, ist ein genialer Zufall.**
 
 Drei Jahre hat sich die Noise/Math-Rock Band aus Chicago seit ihrer von der Kritik hochgelobten EP "Shoebox Companion" Zeit gelassen. Nun ist es endlich so weit und es gibt wieder neue Musik von Lower Automation.
 
@@ -51,8 +47,16 @@ Mit "Lower Automation" schöpfen die Chicagoer ihr früher schon vermutetes Pote
 
 Hardcore, cool, energiegeladen, fantastisch und angenehm ungeordnet – das alles ist "Lower Automation" und gleichzeitig so geradlinig wie Musik nur sein kann. Meine Empfehlung: Unbedingt hören!
 
-Hier kommt die versprochene Hörprobe. Der Song "Father's Shirt Is A Dress On Me" ist nicht Teil des neuen Albums, ist jedoch ein guter Vorgeschmack darauf. Die Single ist im April 2020 erschienen. 
+Hier kommt die versprochene Hörprobe. Der Song "Father's Shirt Is A Dress On Me" ist nicht Teil des neuen Albums, aber dennoch ein guter Vorgeschmack darauf. Die Single ist im April 2020 erschienen.
 
 ## Lower Automation – "Father's Shirt Is A Dress On Me"
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2561664436/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://lowerautomation.bandcamp.com/track/fathers-shirt-is-a-dress-on-me">Father&#39;s Shirt is a Dress on me by Lower Automation</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/track=2561664436/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://lowerautomation.bandcamp.com/track/fathers-shirt-is-a-dress-on-me">
+    Father&#39;s Shirt is a Dress on me by Lower Automation
+  </a>
+</iframe>

@@ -1,19 +1,26 @@
 ---
-date: 2017-11-12T11:51:27.000Z
-slug: puss-in-boots-animal-rescue-and-adoption
-path: /2017/11/puss-in-boots-animal-rescue-and-adoption/
-type: Artikel
-typeName: Interview
-title: Tierrechtsaktivistin Kara Schott
-seoTitle: Puss In Boots Animal Rescue And Adoption stellt sich vor - Interview
 ogTitle: Puss In Boots Animal Rescue And Adoption stellt sich vor - Interview
-description: Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles über die Irische Tier-Auffangstation Puss in Boots Animal Rescue and Adoption.
-excerpt: Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles über die Irische Tier-Auffangstation Puss in Boots Animal Rescue and Adoption.
-fileName: 2017-11---tierrechtsaktivistin-kara-schott.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-Puss-In-Boots__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-Puss-In-Boots__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUHBv/EACoQAAICAQIFBAICAwAAAAAAAAECAwQRAAUGEyEiQQcSMVEjcRQVYXKh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBAgX/xAAiEQACAQIFBQAAAAAAAAAAAAABAgADcQQRITIzEjFRwfD/2gAMAwEAAhEDEQA/AK5/a3NwlrT0dsq8jHfCsbMz4ViQXHah7T95/wCajXGvrTWkW3tNbaoYjNEytMjcxo8jwCVz08+P86Zeo3Hc2w7RsknCqzV7tIzQ3WyQGAUOh+iCWfBPUYI+PmM0eFbfEO72+IHMG3bDKWtvcsDlRr7upCqRlsEkdvTxnQlxLnJuvSQ+Cpg6oM5RNjgi2XZZbEhSzbr1uU0EuBCvM97Fyp8fR8/Omuw15+GuITZ2h4XzRrsP5Cl1cyQo7EgEEdxOB4A/elPFF2ltDpSrzSpPKkPLJwCylWHeT0UfYOkNZ7dSApPZZmlGZ3YgllIwoBAGMKAOnxoTICgZDkTr93tLsxAI8GbB40u7jsda4i2K89r8sUo96yYzj3A9DjxnTTewLO/0YLA5sAtQ4jfuXpKcdD06YGNGjSK8dO8ercj2mD9USW9RIvd1/Anz+pdZTfJHjqKY3ZP9Tjxo0aebetvZmeNxn//Z
+excerpt: Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles über
+  die Irische Tier-Auffangstation Puss in Boots Animal Rescue and Adoption.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-Puss-In-Boots__l.jpg
+isAffiliate: false
+path: /2017/11/puss-in-boots-animal-rescue-and-adoption/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUHBv/EACoQAAICAQIFBAICAwAAAAAAAAECAwQRAAUGEyEiQQcSMVEjcRQVYXKh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBAgX/xAAiEQACAQIFBQAAAAAAAAAAAAABAgADcQQRITIzEjFRwfD/2gAMAwEAAhEDEQA/AK5/a3NwlrT0dsq8jHfCsbMz4ViQXHah7T95/wCajXGvrTWkW3tNbaoYjNEytMjcxo8jwCVz08+P86Zeo3Hc2w7RsknCqzV7tIzQ3WyQGAUOh+iCWfBPUYI+PmM0eFbfEO72+IHMG3bDKWtvcsDlRr7upCqRlsEkdvTxnQlxLnJuvSQ+Cpg6oM5RNjgi2XZZbEhSzbr1uU0EuBCvM97Fyp8fR8/Omuw15+GuITZ2h4XzRrsP5Cl1cyQo7EgEEdxOB4A/elPFF2ltDpSrzSpPKkPLJwCylWHeT0UfYOkNZ7dSApPZZmlGZ3YgllIwoBAGMKAOnxoTICgZDkTr93tLsxAI8GbB40u7jsda4i2K89r8sUo96yYzj3A9DjxnTTewLO/0YLA5sAtQ4jfuXpKcdD06YGNGjSK8dO8ercj2mD9USW9RIvd1/Anz+pdZTfJHjqKY3ZP9Tjxo0aebetvZmeNxn//Z
+typeName: Interview
+isWerbung: false
+fileName: 2017-11---tierrechtsaktivistin-kara-schott.md
+slug: puss-in-boots-animal-rescue-and-adoption
+errors: {}
+date: 2017-11-12T11:51:27.000Z
+focusKeyword: Puss In Boots
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-Puss-In-Boots__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-Puss-In-Boots__m.jpg
+title: Tierrechtsaktivistin Kara Schott
+subTitle: Teil 2/2 - Puss In Boots Animal Rescue & Adoption stellt sich vor
+seoTitle: Puss In Boots Animal Rescue And Adoption stellt sich vor - Interview
+description: Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles
+  über die Irische Tier-Auffangstation Puss in Boots Animal Rescue and Adoption.
 labels:
   - Britische Inseln
   - Hamburg
@@ -30,20 +37,15 @@ labels:
   - Tierrechte
   - Tierrechte
   - Tierschutz
-focusKeyword: Puss In Boots
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Teil 2/2 - Puss In Boots Animal Rescue & Adoption stellt sich vor
+type: Artikel
 ---
 
-**( [Hier geht's zu Teil 1/2 des Interviews](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/) ) Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles über die Irische Tier-Auffangstation _Puss In Boots_ , die sie gemeinsam mit ihrer Mutter ins Leben gerufen hat.**
+**( [Hier geht's zu Teil 1/2 des Interviews](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/) ) Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles über die Irische Tier-Auffangstation Puss In Boots, die sie gemeinsam mit ihrer Mutter ins Leben gerufen hat.**
 
-Vor Kurzem habe ich Euch hier im Blog eine echte Powerfrau vorgestellt. Tiere bedeuten Kara alles, weshalb sie sich aufopferungsvoll für sie einsetzt. Sie ist nicht nur die Leiterin der Tiertafel Hamburg e. V., zusammen mit ihrer Mutter gründete sie auch die Irische Tier-Auffangstation _Puss In Boots_ .
+Vor Kurzem habe ich Euch hier im Blog eine echte Powerfrau vorgestellt. Tiere bedeuten Kara alles, weshalb sie sich aufopferungsvoll für sie einsetzt. Sie ist nicht nur die Leiterin der Tiertafel Hamburg e. V., zusammen mit ihrer Mutter gründete sie auch die Irische Tier-Auffangstation Puss In Boots.
 
-_Puss In Boots Animal Rescue and Adoption_ (kurz Pibar) ist eine Auffangstation für Tiere in Not. Ihre Mutter lebt in Irland und rettet dort Tiere, speziell besonders junge und lebensbedrohlich kranke Hunde und Katzen, die eine Intensivbehandlung benötigen, die sich normale Tierheime und auch Tötungsstationen nicht leisten können.
+Puss In Boots Animal Rescue and Adoption (kurz Pibar) ist eine Auffangstation für Tiere in Not. Ihre Mutter lebt in Irland und rettet dort Tiere, speziell besonders junge und lebensbedrohlich kranke Hunde und Katzen, die eine Intensivbehandlung benötigen, die sich normale Tierheime und auch Tötungsstationen nicht leisten können.
 
 Kara selbst ist in Hamburg dafür zuständig, ein liebevolles Zuhause für die Tiere zu finden. Zudem begleitet sie die Vor- und Nachkontrollen und akquiriert die Spenden. Dafür betreut sie regelmäßig Stände, um auf die oft hoffnungslose Situation vieler Tiere in Irland aufmerksam zu machen.
 
@@ -64,7 +66,7 @@ Kara selbst ist in Hamburg dafür zuständig, ein liebevolles Zuhause für die T
 
 Ich hatte die große Ehre, sehr ländlich aufzuwachsen. Wie Ronja Räuberstocher mitten im Wald. Damals haben wir lange Streifzüge mit unserem Hund unternommen und gedacht, dass wir die Welt retten können. Für mich war das die erste tiefe Freundschaft. Als Teenie fühlt man sich ja doch von Zeit zu Zeit mal missverstanden und da ist es einfach toll, wenn "Waldi" immer für einen da ist.
 
-**Anne:** Du bist sehr aktiv. Neben Deiner Arbeit für die Tiertafel hast Du unter anderem auch mit Deiner Mutter die Auffangstation _Puss In Boots_ \* in Irland gegründet. Wie kam es dazu?
+**Anne:** Du bist sehr aktiv. Neben Deiner Arbeit für die Tiertafel hast Du unter anderem auch mit Deiner Mutter die Auffangstation [Puss in Boots](/2017/11/puss-in-boots-animal-rescue-and-adoption/) in Irland gegründet. Wie kam es dazu?
 
 ## "In Irland gibt es eine sehr aktive Hunderenn-Szene"
 
@@ -81,7 +83,7 @@ Ich hatte die große Ehre, sehr ländlich aufzuwachsen. Wie Ronja Räuberstocher
 
 Vor 13 Jahren ist sie dann schlussendlich ausgewandert. Seitdem machen wir Tierschutz in Irland und es kamen seitdem immer neue Themen dazu. So kümmern wir uns inzwischen auch um Katzen und Pferde. Sobald man anfängt, sich mit dem Tierschutz zu beschäftigen, weitet sich das Thema nach und nach automatisch aus. Man sagt natürlich nicht "Nein, lass uns bei unseren Windhunden bleiben", man schaut auch, ob man noch anderweitig helfen kann.
 
-**Anne:** Lebt Deine Mutter dann ganz alleine mit den Tieren auf der Auffangstation von _Puss In Boots_ in Irland?
+**Anne:** Lebt Deine Mutter dann ganz alleine mit den Tieren auf der Auffangstation von Puss In Boots in Irland?
 
 ## "Meine Mutter kümmert sich bei Puss In Boots in Irland alleine um 50 Tiere"
 
@@ -272,13 +274,14 @@ Wenn man tatsächlich unbedingt einen Hund einer bestimmten Rasse adoptieren mö
 
 In diesem Sinne: Jeder kann was ändern!
 
-Wenn Ihr gerne etwas Gutes tun möchtet, könnt Ihr die _Puss In Boots_ unterstützen. Das geht ganz einfach mit einer Spende an folgendes Konto:
+Wenn Ihr gerne etwas Gutes tun möchtet, könnt Ihr die Puss In Boots unterstützen. [Das geht ganz einfach mit einer Spende](https://irish-farm-of-hope.com/spenden/).
 
-Kristiane Schott Bank of Ireland Scariff IBAN: IE02BOFI90441310777841 BIC: BOFIIE2D
+Für Sachspenden könnt Ihr [hier mit Kara und ihrer Mutter in Kontakt treten](https://irish-farm-of-hope.com/). Unter dem Link findet Ihr auch alle weiteren Infos über das Projekt.
 
-Für Sachspenden könnt Ihr [hier mit Kara und ihrer Mutter in Kontakt treten](http://www.irish-pibar.de/index.php/spenden/).
+**Nachtrag von 2021:** Aus **Puss in Boots – Animal Rescue** ist inzwischen **Irish Farm of Hope - Animal Rescue** geworden. Den Link habe ich entsprechend angepasst. Dazu hier ein Statement:
 
-Wer sich über die _Puss in Boots_ informieren möchte: [Z](http://www.irish-pibar.de/) [ur Homepage geht es hier entlang](http://www.irish-pibar.de/).
+> "Auch wenn sich unser Name ändert, bleibt unser Ziel das selbe: 
+Den von uns geretteten Tieren ein glückliches und neues Zuhause zu suchen."
 
 [Hier geht's zu Teil 1/1 des Interviews](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/)
 

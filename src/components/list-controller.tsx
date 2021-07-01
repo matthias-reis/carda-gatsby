@@ -16,8 +16,6 @@ const ListController: React.FC<{
   data: ListQuery;
   pageContext: { label: { title: string; type: string; slug: string } };
 }> = ({ data, pageContext }) => {
-  console.log(data, pageContext);
-
   const rawArticles: { node: Article }[] = data.allMdx.edges;
 
   const articles: CompactArticle[] = rawArticles

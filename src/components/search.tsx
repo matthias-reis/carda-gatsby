@@ -13,7 +13,6 @@ const fixSoftHyphens = (s?: string) =>
   (s || '').replace(/&shy;/g, String.fromCharCode(173));
 
 const Hit = ({ hit }) => {
-  console.log(hit.image);
   const isAd = hit.advertisement;
   const isAffiliate = hit.affiliate;
   const isAdOrAffiliate = isAd || isAffiliate;
