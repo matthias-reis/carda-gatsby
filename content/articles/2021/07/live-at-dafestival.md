@@ -1,6 +1,6 @@
 ---
 date: 2021-07-01T23:00:48.583Z
-slug: live-at-dafestival-gregoire-thot-en
+slug: live-at-dafestival-gregoire-thot
 typeName: Review
 title: '"Live at daFestival"'
 subTitle: Grégoire von Thot veröffentlicht Solo-EP
