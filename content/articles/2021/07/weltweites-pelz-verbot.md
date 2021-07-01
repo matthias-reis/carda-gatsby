@@ -40,11 +40,11 @@ Stella McCartney ruft ihr Publikum dazu auf, sich an der Seite ihres Vaters Sir 
 
 > "Unsere Zeit ist gekommen. Tiere sind Freunde und keine Mode."
 
-In einem weiteren Video ruft Stella McCartney selbst die Menschen dazu auf, ihre Petition, die sie gemeinsam mit Vater Paul ins Leben gerufen hat, zu unterstützen.
+Mit einem weiteren Video ruft Stella McCartney selbst die Menschen dazu auf, ihre Petition, die sie gemeinsam mit Vater Paul ins Leben gerufen hat, zu unterstützen.
 
 ## Laufsteg-Models mit Tiermasken
 
-In den Videos sieht man die Promis bekleidet mit Stellas bisher nachhaltiger Kollektion sowie Tiermasken. Als Teil der Herbst-Kollektion für 2021 trugen auch die Model auf dem Laufsteg aus Respekt für die Tiere Tiermasken. David Walliams unterstützte die Aktion mit einem Mockumentary Video.
+In den Kurzfilmen sieht man die Promis bekleidet mit Stellas bisher nachhaltiger Kollektion sowie Tiermasken. Als Teil der Herbst-Kollektion für 2021 trugen auch die Model auf dem Laufsteg aus Respekt für die Tiere Tiermasken. David Walliams unterstützte die Aktion mit einem Mockumentary Video.
 
 Zuvor hatte Stella McCartney erfolgreiche Proteste auf dem Londoner Piccadilly Circus und am Duomo die Milano veranstaltet. Die britische Designerin behauptet, durch ihren Aktivismus bereits 60.000 Tiere vor dem Tode bewahrt zu haben. Die Pelz- und [Leder-Industrie](/2020/07/leder-pelz/) ist dennoch nach wie vor omnipräsent.
 
