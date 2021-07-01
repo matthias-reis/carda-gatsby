@@ -1,15 +1,15 @@
 ---
-date: 2021-07-01T23:00:54.079Z
-slug: live-at-dafestival-gregoire-thot
+date: 2021-07-01T23:00:48.583Z
+slug: live-at-dafestival-gregoire-thot-en
 typeName: Review
 title: '"Live at daFestival"'
-subTitle: Grégoire (Thot) releases solo EP
-seoTitle: '"Live at daFestival" – Grégoire (Thot) releases solo EP'
-description: "Thot founder Grégoire Fray has recorded a solo live EP. Today is
-  release day. I had the honour to listen to \"Live at daFestival\" in advance,
-  and I think it's incredible. The recording for \"Live at daFestival 2020\"
-  took place during the first lockdown for a Youtube event of the Belgian zine
-  daMusic. "
+subTitle: Grégoire von Thot veröffentlicht Solo-EP
+seoTitle: '"Live at daFestival" – Grégoire von Thot veröffentlicht Solo-EP'
+description: 'Grégoire Fray von Thot hat eine Solo-Live-EP aufgenommen, die
+  heute veröffentlicht wird. Ich durfte schon vorab in "Live at daFestival"
+  reinhören und bin begeistert. Die Aufnahme für "Live at daFestival 2020" fand
+  während des ersten Lockdowns für ein Youtube Event des Belgischen Zines
+  daMusic statt. '
 image: /img/gregoire-fray.jpg
 copyrigt: Grégoire Fray
 ogImage: /img/gregoire-fray-fb.jpg
@@ -29,43 +29,39 @@ labels:
 focusKeyword: Live at daFestival
 advertisement: false
 affiliate: false
-language: en
-languageLink: /2021/07/live-at-dafestival-gregoire-thot
+language: de
+languageLink: /2021/07/live-at-dafestival-gregoire-thot-en
 ---
-**Thot founder Grégoire Fray has recorded a solo live EP. Today is release day. I had the honour to listen to "Live at daFestival" in advance, and I think it's incredible.**
+**Grégoire Fray von Thot hat eine Solo-Live-EP aufgenommen, die heute veröffentlicht wird. Ich durfte schon vorab in "Live at daFestival" reinhören und bin begeistert.**
 
-The recording for "Live at daFestival 2020" took place during the first lockdown for a Youtube event of the Belgian zine daMusic. 
+Die Aufnahme für "Live at daFestival 2020" fand während des ersten Lockdowns für ein Youtube Event des Belgischen Zines daMusic statt. 
 
-Grégoire's voice sounds emotional, moving and hurtful. The three pieces are a bit different from the music he makes with Thot. The style reminds me of the great singer-songwriters of the 1980s.
+## Ein komplett neuer Song
+
+Grégoires Stimme klingt emotional, schmerzvoll und ergriffen. Die insgesamt drei Stücke sind anders, als die Musik, die er sonst mit Thot macht. Mich erinnert der Stil an die großen Singer-Songwriter der 1980er Jahre. Teil der EP ist auch ein komplett neues Stück, das der Künstler bei der Aufnahme zum ersten Mal vor Publikum spielte.
 
 ![Grégoire Fray – "Live at daFestival" | large](/img/thot_dafestival3.png "Grégoire Fray – \"Live at daFestival\"")
 
-## A completely new song
+Die Musik lebt, wie man es von ihm gewohnt ist, von ihren Gegensätzen. Während das erste Stück "Vltava" eher ruhig ist, lebt Grégoire im zweiten Song "Keepers" seine innige Liebe zum Industrial Sound aus. Dieser steht im Wechsel zu seinem ausdrucksstarken Gesang und dem harmonischen Klavierspiel – was für eine fantastische und fantasievolle Färbung sorgt. Die Harmonien gehen unter die Haut, die harten Zwischensequenzen wühlen auf und lassen enge Grenzen strenger Genres weit hinter sich.
 
-There is also a completely new song on the EP. The artist played it for the first time in front of an audience when he recorded the record.
+### "Live at daFestival" geht unter die Haut
 
-Grégoires music lives from its contrasts, and it's no different with "Live at daFestival". While the first piece, "Vltava", is relatively calm, you can sense Grégoire's passion for industrial sound in the second song "Keepers" quite good. This alternates with his expressive vocals and the harmonious piano playing, giving the piece a fantastic and imaginative colouring.
+Der neue Song ist der dritte und letzte auf der Platte. Er ist mit 6:40 der längste und definitiv mein Favorit. Verzerrter Gitarrensound und eine Stimme, die wie aus einer fernen Welt scheint, trägt mich beim Hören davon und führt mich in ein Wunderland aus spannenden Klanglandschaften.
 
-## "Live at daFestival" gets under your skin
+"Live at daFestival 2020" ist ein Kleinod, das mich sehr berührt. Von der ersten Note bis zum Schlussakkord habe ich Gänsehaut und anschließend sofort das Bedürfnis, die drei Stücke nochmal zu hören. Ist das wirklich wahr, was ich da gerade gehört habe? 
 
-The harmonies get under the skin, the heavy interludes stir up, leaving the narrow boundaries of strict genres far behind.
+## Die Stimmung des letzten Jahres perfekt vertont
 
-The new song is the third and last one on the record. With its 6:40, it is the most extended and definitely my favourite. Its distorted guitar sound and a voice that seems to come from a distant world carry me away while listening and lead me into a wonderland of exciting soundscapes.
-
-"Live at daFestival 2020" is a gem that touches me deeply. It gives me goosebumps from the first note to the final chord, and I immediately feel the urge to listen to it again afterwards.
-
-## Last years mood perfectly set to music
-
-Grégoire has perfectly set last year's overall mood and the uncertainty that prevailed, especially during the first lockdown to music with his three solo pieces. He has also managed to sum up everything I love and appreciate so much about music.
+Grégoire hat mit seinen drei Solostücken nicht nur die Stimmung des letzten Jahres und die Ungewissheit, die besonders während des ersten Lockdowns herrschte, perfekt vertont. Er hat es auch geschafft, alles, was ich an Musik so sehr liebe und schätze, zusammenzufassen.
 
 ![Grégoire Fray – "Live at daFestival" | large](/img/thot_dafestival2.png "Grégoire Fray – \"Live at daFestival\"")
 
-I asked Grégoire for a personal statement about his solo EP:
+Ich habe Grégoire um ein persönliches Statement zu seiner Solo-EP gebeten:
 
-> "It felt strange to do this performance in the middle of the first lockdown. It has been filmed by my good friend Michael who also filmed the "Blue and Green" video. He's Thot's second drummer and he owns Weyrd Son Records who released our latest album "Fleuve". The song "Vltava" is taken out from this album, "Keepers" is taken out "The City That Disappears" (2014), and the song "Sleep Oddity" has never been played before, as it's a new song to be on our next album."
+> "Es hat sich komisch angefühlt, diesen Auftritt während des ersten Lockdowns zu machen. Mein guter Freund, der zweite Thot Drummer Michael, der auch das "Blue and Green" Video aufgenommen hat, hat mich gefilmt. Ihm gehört Weyrd Son Records, die unser aktuelles Album "Fleuve" veröffentlicht haben. Der Song "Vlatava" stammt von diesem Album. "Keepers" ist vom 2014er Album "The City That Disappears und der Song "Sleep Oddity" wurde bisher noch nie gespielt. Es ist ein ganz neuer Song, der auf unser nächstes Album kommen soll."
 
-## Grégoire Fray - "Live at daFestival 2020"
+## Grégoire Fray – "Live at daFestival 2020"
 
 <YouTube id="6ZP-SfbLa6s" />
 
-[Read my interview with Grégoire](/2021/04/thot-interview-en).
+[Hier könnt Ihr mein Interview mit Grégoire lesen](/2021/04/thot-interview/).
