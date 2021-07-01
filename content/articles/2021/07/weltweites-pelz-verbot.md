@@ -50,7 +50,7 @@ Zuvor hatte Stella McCartney erfolgreiche Proteste auf dem Londoner Piccadilly C
 
 ## "Stella McCartneys Aktion ist frisch und innovativ"
 
-Die Geschäftsführerin der britischen Filiale von Humane Society International Claire Bass äußerte ich so zu Stella McCartneys Herbst-Kollektion und zur Anti-Pelz-Aktion:
+Die Geschäftsführerin des britischen Ablegers von Humane Society International Claire Bass äußerte ich so zu Stella McCartneys Herbst-Kollektion und zur Anti-Pelz-Aktion:
 
 > "Diese neue Kampagne und Marke ist alles, was der Pelzhandel nicht ist – sie ist frisch, innovativ, nachhaltig und frei von Grausamkeit.
 
