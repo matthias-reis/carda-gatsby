@@ -34,7 +34,7 @@ languageLink: /2021/07/live-at-dafestival-gregoire-thot
 
 The recording for "Live at daFestival 2020" took place during the first lockdown for a Youtube event of the Belgian zine daMusic. 
 
-Grégoire's voice sounds soulful, moving and hurtful. The three pieces are a bit different from the music he makes with Thot. The style reminds me of the great singer-songwriters of the 1980s.
+Grégoire's voice sounds emotional, moving and hurtful. The three pieces are a bit different from the music he makes with Thot. The style reminds me of the great singer-songwriters of the 1980s.
 
 ![Grégoire Fray – "Live at daFestival" | large](/img/thot_dafestival3.png "Grégoire Fray – \"Live at daFestival\"")
 
