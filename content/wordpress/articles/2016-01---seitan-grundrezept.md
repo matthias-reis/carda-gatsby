@@ -25,7 +25,6 @@ labels:
   - Seiten Grundrezept
   - vegan
   - vegane Rezepte
-
   - Vleisch
 focusKeyword: Seitan
 status: publish
