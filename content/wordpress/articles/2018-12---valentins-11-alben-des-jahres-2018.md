@@ -52,7 +52,7 @@ Das sind wirklich wahre Worte! Ich wünsche Euch viel Spaß beim Anhören - bis 
 
 ### Nine Inch Nails - Bad Witch
 
-<YouTube id="EMKnM5WNfk0" />
+<YouTube id="9koWS9Lcqqg" />
 
 ### A Perfect Circle - Eat the Elephant
 
@@ -88,11 +88,11 @@ Das sind wirklich wahre Worte! Ich wünsche Euch viel Spaß beim Anhören - bis 
 
 ### Long Distance Calling - Boundless
 
-<YouTube id="S8V_Rb5J0HA" />
+<YouTube id="EjBVH6HiIR0" />
 
 ### Ghost - Prequelle
 
-<YouTube id="bjBZdEy0WLQ" />
+<YouTube id="3QAdbnkut0I" />
 
 Lieber Valentin, danke für diese wunderbare Liste! Ich freue mich immer über den regen musikalischen Austausch mit Dir. Auf ein spannendes Schallplatten-Jahr 2019! Ich freue mich schon auf Deine Musiktipps und Videolinks!
 
