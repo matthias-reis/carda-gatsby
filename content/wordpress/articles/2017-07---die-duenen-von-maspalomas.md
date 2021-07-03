@@ -33,14 +33,6 @@ year: '2017'
 month: '07'
 ---
 
-<RemoteImage
-  alt={`Dünen von Maspalomas`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_36128628935_5c3c57ed39_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_36128628935_5c3c57ed39_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQF/8QAKhAAAQMDAwMEAQUAAAAAAAAAAQIDBAAFEQYhMQcSQRQiUWFxExUjgaH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxESMQT/2gAMAwEAAhEDEQA/AGm2MhawFDYV1Zz8S1256dOdS1GZT3rUo42+B8k8AeSa17V7WUdwGOaQuuk6P+222F+u76guKeDKcdhTjHev8HIA+yfFQVr2wWaTvypMz0DqCde518ZuD0d2My4VxlEpDgClE9mBjKUpxvjY+d6KWek2nnpE5N+S8gR4xejqRwsqKE4x8j3HPHAoo7gA+CDSSy6ZVID/AHIAKsZ3/upZ1HiuX7qJDt8MqW4GGGn1Ae1juUo5JP0rNM83UkKztj1rqi6oZSw3usj5I2AH2an2odRNTLrcJNvckMR5TyHsHCXCUtpQAfGxSTsfNN+apy2iBey84ZabZboditaIVsaKIzeSCo5UtR5Uo+SaKWdO6lVfLE2pbgMpv+J/PJUOFH8j/c0VM6lWIb2PQgqCvk//2Q=="
-/>
-
 **Verlässt man die Strandpromenade von Playa del Inglés in Richtung Süden und folgt dem Strand ein Stück, sieht man schon bald die beeindruckenden Dünen von Maspalomas vor sich. Bei unserem Aufenhalt auf Gran Canaria dieses Jahr, haben auch wir einen Streifzug durch die Hügellandschaft gewagt.**
 
 Bei strahlendem Sonnenschein und Temperaturen über 3o Grad ging es los. Im Rucksack hatten wir Sonnenschutz mit Lichtschutzfaktor 50 und unsere Wasserflaschen dabei. Zum Schutz vor der erbarmungslosen Sonne trugen wir trotz der Wärme eine Kopfbedeckung.
@@ -48,6 +40,14 @@ Bei strahlendem Sonnenschein und Temperaturen über 3o Grad ging es los. Im Ruck
 ## Die Dünen von Maspalomas - Wahrzeichen von Gran Canaria
 
 Die Dünen von Maspalomas sind ein Wahrzeichen der Insel, eine Besichtigung gehört einfach dazu. Die Gegend erinnert an Wüstenlandschaften wie die der Sahara. Der Sand ist fein, Pflanzen wachsen nur vereinzelt. In den 60er und 70er Jahren wäre das Gebiet durch die rasante Bebauung mit Hotels fast zerstört worden. Besucher ließen ihren Müll zurück und vertrieben dort heimische Vögel und Kleintiere. Im Jahr 1987 wurden die Dünen von Maspalomas zum Schutzgebiet erklärt, 1994 wurde der Schutz für einen Teil davon sogar noch zum bedeutenden Naturschutzgebiet erweitert.
+
+<RemoteImage
+  alt={`Dünen von Maspalomas`}
+  size="full"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_36128628935_5c3c57ed39_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_36128628935_5c3c57ed39_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQF/8QAKhAAAQMDAwMEAQUAAAAAAAAAAQIDBAAFEQYhMQcSQRQiUWFxExUjgaH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxESMQT/2gAMAwEAAhEDEQA/AGm2MhawFDYV1Zz8S1256dOdS1GZT3rUo42+B8k8AeSa17V7WUdwGOaQuuk6P+222F+u76guKeDKcdhTjHev8HIA+yfFQVr2wWaTvypMz0DqCde518ZuD0d2My4VxlEpDgClE9mBjKUpxvjY+d6KWek2nnpE5N+S8gR4xejqRwsqKE4x8j3HPHAoo7gA+CDSSy6ZVID/AHIAKsZ3/upZ1HiuX7qJDt8MqW4GGGn1Ae1juUo5JP0rNM83UkKztj1rqi6oZSw3usj5I2AH2an2odRNTLrcJNvckMR5TyHsHCXCUtpQAfGxSTsfNN+apy2iBey84ZabZboditaIVsaKIzeSCo5UtR5Uo+SaKWdO6lVfLE2pbgMpv+J/PJUOFH8j/c0VM6lWIb2PQgqCvk//2Q=="
+/>
 
 Der überwiegend helle Dünensand stammt von verschiedenen Orten. Ein Teil davon wurde aus Barranco de Fataga angeschwemmt. Ein Teil besteht, genau wie der angrenzende Strand, aus zerriebenen Muschelschalen, wurde somit also von den Gezeiten erzeugt. Ein weiterer Teil stammt von den Erosionen der Felsenküste. Die Dünen von Maspalomas sind sogenannte [Wanderdünen](/2016/05/naturschutzgebiet-boberger-niederung/). Die Wanderung von Dünen stoppt erst, wenn sie so stark bewachsen sind, dass der Boden befestigt ist, oder sie durch die eigenen Masse zu schwer werden.
 

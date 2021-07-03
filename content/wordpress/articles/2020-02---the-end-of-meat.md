@@ -75,6 +75,4 @@ In "The End Of Meat" zeigt Marc Pierschel besonders einfühlsam, wie unser Leben
 
 [Auf der Homepage des Films](http://www.theendofmeat.com/watch.html) seht Ihr genau, wo Ihr den Film streamen könnt.
 
-Hat Euch mein Filmtipp gefallen? Schön! Wenn Ihr in Zukunft auf meiner Seite nichts mehr verpassen möchtet, [abonniert am besten meinen Newsletter.](#newsletter) Ich informiere Euch dann einmal wöchentlich über neue Beiträge.
-
 Bilder: [The End Of Meat](http://www.theendofmeat.com/presse.html)

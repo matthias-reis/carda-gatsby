@@ -72,6 +72,4 @@ Aufgenommen haben Kalle Kuul den Song in Davids Wohnzimmer. Das Video hat Lukas 
 
 <YouTube id="9bhzuqbPVC4" />
 
-Hat Euch der Beitrag neugierig gemacht? Dann bleibt am besten dran. In Kürze wird hier im Blog ein Interview mit Kalle Kuul erscheinen. Wenn Ihr in Zukunft nichts mehr verpassen wollt, [abonniert gerne meinen Newsletter](#newsletter). Dann halte ich Euch auf dem Laufenden.
-
 **Quelle und Fotos:** [Kalle Kuul](https://kallekuul.com/)

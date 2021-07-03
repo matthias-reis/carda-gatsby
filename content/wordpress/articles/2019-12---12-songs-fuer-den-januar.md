@@ -147,5 +147,3 @@ Post-Rock aus Russland, der es in sich hat - das seit der Gründung im Jahr 2010
   spotify="2s53Sj6xPHpvOg1LBi4onA"
   itunes="2019-12-25-die-drei-von-der-bande/pl.u-W4NaCEkXBXN"
 />
-
-Hat Euch unsere Liste gefallen? Klasse! [Abonniert gerne meinen Newsletter](#newsletter), um in Zukunft auf meiner Seite nichts mehr zu verpassen!

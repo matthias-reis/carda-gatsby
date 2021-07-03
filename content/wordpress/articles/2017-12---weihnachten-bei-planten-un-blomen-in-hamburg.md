@@ -51,3 +51,5 @@ Leider hatte ich dieses Mal meine Kamera nicht im Gepäck, habe aber mit dem Mob
 Neben den allgegenwärtigen Krähen und Möwen begegneten uns dieses Mal auch eine Haselmaus, ein Eichhörnchen sowie ein Kaninchen. Diese sind mir jedoch nicht vor die Linse gelaufen.
 
 Viel Spaß mit den Bildern. Ich wünsche Euch allen schöne Feiertage! Geht es entspannt an und denkt auch [in vollen Zügen an die Achtsamkeit](/2017/12/bahnfahren-am-wochenende-es-weihnachtet-sehr/).
+
+<Gallery name="weihnachten-planten-blomen-2017" />

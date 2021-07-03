@@ -35,5 +35,3 @@ Schon seit gefühlten Ewigkeiten habe ich mir vorgenommen, endlich meinen Jahres
 Hier ist ein Auszug:
 
 > Die Konzerthalle im Sydney Opernhaus fasst 2.700 Personen. Dieses Blog wurde in 2013 etwa **13.000** mal besucht. Wenn es ein Konzert im Sydney Opernhaus wäre, würde es etwa 5 ausverkaufte Aufführungen benötigen um so viele Besucher zu haben, wie dieses Blog.
-
-An dieser Stelle befand sich mal ein Link, leider wurde er stillgelegt, daher habe ich ihn rausgenommen (Nachtrag im Jahr 2016).

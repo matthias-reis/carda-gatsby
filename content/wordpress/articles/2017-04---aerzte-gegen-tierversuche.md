@@ -32,6 +32,10 @@ errors: {}
 subTitle: Bundestagspetition
 ---
 
+**Die  _Ärzte gegen Tierversuche_ benötigen 50.000 Unterschriften. Liegen diese bis zum 11. April vor, dürfen sie ihre Argumente bei einer offiziellen Anhörung im Petitionsausschuss des Bundestages vorbringen.**
+
+Die  _Ärzte gegen Tierversuche_ fordern die Überarbeitung des Tierschutzrechts und damit das Verbot von Tierversuchen mit dem Schweregrad  _schwer_  sowie die Beseitigung von Verstößen gegen die Tierversuchsrichtlinie.
+
 <RemoteImage
   alt={`Ärzte gegen Tierversuche`}
   size="medium"
@@ -39,10 +43,6 @@ subTitle: Bundestagspetition
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_004___l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwcI/8QAKBAAAgEEAgIBAgcAAAAAAAAAAQIDAAQFERIhBjFhE0IiQVFSkcHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwDpkqS7cdDrZP6dVNZS+uLZiSyaH7t7P8A03wGRGQWac7SNWCfi671Uv5h5liMDl1xd1Hc3V20ZldbZOYhH28ydAcu/z318iobWaGN8RksfJptyCP6c/BebLGxOl3r0Rsf5VFhMpBmEWe2+0Mkq++LdaH9ipSWxmGNsprxwbzmZy1qDGiBtERqDs6Gh2eydnreqs8FBHBYKIY1jVmLlVGhs+6U6Ahwl0YsdkOKjSAS6+QR1SLzXK3ePhsXs5mjeSREO9MuhCjDojXtiaKKueyZ28YpxmRv8heCbIXs1wqa4xnSrs/AArbdooS1hVQAAo6FFFCHB/9k="
 />
-
-**Die  _Ärzte gegen Tierversuche_ benötigen 50.000 Unterschriften. Liegen diese bis zum 11. April vor, dürfen sie ihre Argumente bei einer offiziellen Anhörung im Petitionsausschuss des Bundestages vorbringen.**
-
-Die  _Ärzte gegen Tierversuche_ fordern die Überarbeitung des Tierschutzrechts und damit das Verbot von Tierversuchen mit dem Schweregrad  _schwer_  sowie die Beseitigung von Verstößen gegen die Tierversuchsrichtlinie.
 
 ## Das sinnlose Leid der Tiere muss ein Ende haben!
 

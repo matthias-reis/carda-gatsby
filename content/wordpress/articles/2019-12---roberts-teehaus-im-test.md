@@ -1,43 +1,41 @@
 ---
 date: 2019-12-04T18:08:16.000+00:00
 slug: roberts-teehaus-im-test
-path: "/2019/12/roberts-teehaus-im-test/"
+path: '/2019/12/roberts-teehaus-im-test/'
 type: Artikel
 typeName: Produkttest
 title: Roberts Teehaus im Test
 seoTitle: Roberts Teehaus im Test - hochwertiger Tee zum fairen Preis
 ogTitle: Roberts Teehaus im Test - hochwertiger Tee zum fairen Preis
-description: Ich habe die Tees aus Roberts Teehaus getestet und möchte Euch ein paar
-  ausgewählte Sorten empfehlen - von Jasmin Pearls bis Silbernadeltee.
-excerpt: Ich habe die Tees aus Roberts Teehaus getestet und möchte Euch ein paar ausgewählte
-  Sorten empfehlen - von Jasmin Pearls bis Silbernadeltee.
+description: Ich habe die Tees aus Roberts Teehaus getestet und möchte Euch ein paar ausgewählte Sorten empfehlen - von Jasmin Pearls bis Silbernadeltee.
+excerpt: Ich habe die Tees aus Roberts Teehaus getestet und möchte Euch ein paar ausgewählte Sorten empfehlen - von Jasmin Pearls bis Silbernadeltee.
 fileName: 2019-12---roberts-teehaus-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-9__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-9__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDEQAEBQYSIRQxQQcTYXEVoYGR8f/EABgBAAIDAAAAAAAAAAAAAAAAAAIFAQME/8QAIxEAAgEDAwQDAAAAAAAAAAAAAQIDAAQREjFBEyFRkYGx4f/aAAwDAQACEQMRAD8Ax3R+lbi7FtkH1tdMoqUhPJKilUd+ABIPk/VNWZ0s/lWmEY/HW67kqCQ6p8NhKRMiD3/2mz06xuMe0/h2rr30hDQc274K0kboUY8EzXdoa4sMjmc6zdBCukuOmbd7EQhJ/Z3D+KRy211JcpICNJ2/fdMEkgWJlIORvSrj/TY2tm61dXwbQ5zsba9zaYiJkAz3qm1Doxhl161SlxCGUwgGJQI4IPyPB7TW2vvNY7UhZtGmjausJKApYgLBmZPnn9Vm/qPjmrzXLz7V2+22pj31NNklDgCwDyDE8AGpuYWiTqB8MDg0IkVzpC9sA+6Q8F6p3NghhleNQu2b2p2tugEJAggbknv91baA1AvFWF3fNWzTdxe3BdK3XAQo7lR3BHO6I+JoorVfZiQFDg58mqYW1HB+hUOptf5zMXTfQW3TJYdJCwyHSogiOFJgRB+55qsttS5m6B/IuOPupSAHFwmU7t0f2fAoooJVUoQR880RJPNf/9k=
-ogImage: 
+ogImage:
 labels:
-- Cey
-- Chai
-- Ernährung
-- Ernährung & Gesundheit
-- Grüner Tee
-- guter Tee
-- hochwertiger Tee
-- Jasmin Pearls
-- Jasmin-Tee
-- Oolong
-- Oolong-Tee
-- Roberts Teehaus
-- Rooibos
-- Rotbusch
-- Schwarzer Tee
-- Silbernadeltee
-- Tee
-- Teetest
-- Teeverkostung
-- vegane Ernährung
-- Weißer Tee
+  - Cey
+  - Chai
+  - Ernährung
+  - Ernährung & Gesundheit
+  - Grüner Tee
+  - guter Tee
+  - hochwertiger Tee
+  - Jasmin Pearls
+  - Jasmin-Tee
+  - Oolong
+  - Oolong-Tee
+  - Roberts Teehaus
+  - Rooibos
+  - Rotbusch
+  - Schwarzer Tee
+  - Silbernadeltee
+  - Tee
+  - Teetest
+  - Teeverkostung
+  - vegane Ernährung
+  - Weißer Tee
 focusKeyword: Teehaus
 status: publish
 isWerbung: false
@@ -47,8 +45,8 @@ errors: {}
 subTitle: Hochwertige Tees zum fairen Preis
 advertisement: true
 affiliate: true
-
 ---
+
 **Kennt Ihr schon Roberts Teehaus? Im Onlineshop könnt Ihr leckere Teesorten nach Hause bestellen. Ich habe getestet und kann das Teegeschäft aus Mittweida empfehlen.**
 
 Seid Ihr wie ich Teefreund\*innen? Dann solltet Ihr jetzt weiterlesen. Die Kund\*innen haben Roberts Teehaus schon mal mit "sehr gut" bewertet - warum dann also nicht mal testen? Ich habe bestellt und bereits zwei Tage später ein liebevoll verpacktes Päckchen mit vielen tollen Sorten erhalten.
@@ -128,5 +126,3 @@ Die Tees von Roberts Teehaus sind handverlesen und bestechen durch ihr ausgeprä
 Wer jetzt neugierig geworden ist und die Tees von Roberts Teehaus gerne auch mal testen möchte, kann ganz einfach [im Onlineshop](https://t.adcell.com/p/click?promoId=161287&slotId=80259&param0=https%3A%2F%2Fwww.roberts-teehaus.de%2F%3Fstore) seine Bestellung aufgeben.
 
 <Gallery name="robertsteehaus" />
-
-Hat Euch mein Testbericht gefallen? Wenn Ihr in Zukunft nichts auf meinem Blog verpassen möchtet, [abonniert gerne meinen Newsletter](#newsletter), dann halte ich Euch auf dem Laufenden.

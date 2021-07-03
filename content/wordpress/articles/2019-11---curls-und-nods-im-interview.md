@@ -167,8 +167,6 @@ Die letzte Veröffentlichung von Curls &amp; Nods gab es erst vor Kurzem: "SGN R
 
 Das komplette Video-Material von der Rooftop Session in Saigon [findet Ihr hier](https://www.trustinwax.com/curls-nods-sgn-rooftop-session-tiw-6.html?fbclid=IwAR3GepkEIh7XijAYxu6zIVkyc8yg7O1PFCdqUtwcqgTHOkXkuCR52ZZbWEo).
 
-Hat Euch mein Interview gefallen? Wie schön! [Meldet Euch gerne](mailto:info@cardamonchai.com), wenn Ihr auch ein tolles Projekt habt, über das wir reden sollen. Auf dem Laufenden halte ich Euch über [meinen wöchentlichen Newsletter](#newsletter).
-
 ### Links
 
 [Curls &amp; Nods Bandcamp](https://trustinwax.bandcamp.com/album/sgn-rooftop-session)

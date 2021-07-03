@@ -1,7 +1,6 @@
 ---
 ogTitle: Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin
-excerpt: Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel
-  vorzubereiten. Inzwischen ist hier so einiges im Gange - Eine Bestandsaufnahme
+excerpt: Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel vorzubereiten. Inzwischen ist hier so einiges im Gange - Eine Bestandsaufnahme
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-2__l.jpg
 isAffiliate: false
 path: /2017/07/g20/
@@ -18,8 +17,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07
 title: Was G20 mit unserer Stadt macht
 subTitle: Bestandsaufnahme einer Hamburgerin
 seoTitle: Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin
-description: Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel
-  vorzubereiten. Inzwischen ist hier so einiges im Gange - Eine Bestandsaufnahme
+description: Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel vorzubereiten. Inzwischen ist hier so einiges im Gange - Eine Bestandsaufnahme
 labels:
   - Altona
   - Antifaschismus & Feminismus
@@ -37,6 +35,10 @@ labels:
 language: de
 ---
 
+**Lange Zeit habe ich hin und her überlegt, ob ich zu diesem Thema etwas bringen werde. Und ich muss etwas bringen. G20 macht etwas mit unserer Stadt und das muss ich versuchen, in Worte zu packen.**
+
+Schon Wochen vor dem Ereignis, welches sich am Wochenende in Hamburg abspielen wird, waren alle in heller Aufruhr. Polizeimannschaften aus den verschiedensten Städten rückten an, übten Einsätze und waren plötzlich überall präsent. Als ich letzten Freitag meinen Besuch aus dem Ruhrpott zu den Landungsbrücken führte, wurden wir dort von vier Polizisten in Kampfausrüstung bewaffnet mit MPs begrüßt. Am Abend zuvor hatten die beiden in der Schanze mit eigenen Augen gesehen, wie die ersten Demonstranten, die sich dort aufgehalten hatten (Es müssen weniger als 100 gewesen sein) dort von mindestens doppelt so vielen Polizisten eingekreist wurden. Ein Wasserwerfer stand auch bereit.
+
 <RemoteImage
   alt={`G20`}
   size="medium"
@@ -45,10 +47,6 @@ language: de
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-7__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAIH/8QAJRAAAgEDAwQDAQEAAAAAAAAAAQIDBAURABIhBhMxQQciUTKB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EAB0RAQACAgIDAAAAAAAAAAAAAAEAAhESA1EhMWH/2gAMAwEAAhEDEQA/AI6T5IvtHS0pNxoZ90YKwzwNI0f0XlXPs8/o451oNzqevbxWVNkpIzJTUDtKTEoMK90Mm1sDBXgb/PPOkt26Zt8VmS6XK6VczdmNuzSUIwmdufs7r5yfXvxxrmjoo5OkKqooLK0ca0jwvUzy7jKFJJYqFOCcgYBAG3Ojmqdyrt6iS4SVttuUFRWzq7pUq4fIkKshDHJHnyCRqs67e4VnWUVd1HFTU8hhjAClSXiUnD7VZtobcTgnn81KGzND06pnhppO7UTBTgl1KIV4ww4JB4wfGvQrXYLdTWy51lzSpnWOIRZqI2TDopO3kceuNa+EQkiuHLGLhL18RgQxd+taiXc0Kl98kbesAAfwfPrVl8ZWu23j46FkqpFiuCUj09WiHusiSM2GVsbQSG9ZIOjRpWppZ6Y7d2D5HVi6NpKHp6O2XWnpK2mppHemlmhzLEGYs25s8kk/g/3Wi49H017jEFeJBbwoXBc91wMYwx8DA8nnRo1Hjd1WGxqeJ//Z"
 />
-
-**Lange Zeit habe ich hin und her überlegt, ob ich zu diesem Thema etwas bringen werde. Und ich muss etwas bringen. G20 macht etwas mit unserer Stadt und das muss ich versuchen, in Worte zu packen.**
-
-Schon Wochen vor dem Ereignis, welches sich am Wochenende in Hamburg abspielen wird, waren alle in heller Aufruhr. Polizeimannschaften aus den verschiedensten Städten rückten an, übten Einsätze und waren plötzlich überall präsent. Als ich letzten Freitag meinen Besuch aus dem Ruhrpott zu den Landungsbrücken führte, wurden wir dort von vier Polizisten in Kampfausrüstung bewaffnet mit MPs begrüßt. Am Abend zuvor hatten die beiden in der Schanze mit eigenen Augen gesehen, wie die ersten Demonstranten, die sich dort aufgehalten hatten (Es müssen weniger als 100 gewesen sein) dort von mindestens doppelt so vielen Polizisten eingekreist wurden. Ein Wasserwerfer stand auch bereit.
 
 ## Unsere Stadt gehört uns und darum zeigen wir uns
 
@@ -138,4 +136,3 @@ Ich werde die Lage weiter beobachten, die Pressemeldungen stündlich abrufen und
     },
   ]}
 />
-

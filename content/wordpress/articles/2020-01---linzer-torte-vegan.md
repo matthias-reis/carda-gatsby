@@ -80,5 +80,3 @@ Lasst das Fett in einem Topf langsam zergehen und rührt es, bis es schön schau
 Heizt Euren Backofen auf 170 Grad vor. Fettet die Springform und bestäubt sie mit Mehl. Nach Ablauf der Wartezeit rollt ihr den Teig etwa auf Fingerdicke aus und schneidet ihn rund aus. Legt die vorbereitete Form damit aus und drückt einen ungefähr drei Zentimeter hohen Rand hoch. Verstreicht die Marmelade gleichmäßig über den Kuchen. Aus dem restlichen Teig stecht ihr Plätzchen aus und belegt ihn damit.
 
 Bestreicht die Oberseite Eurer Linzer Torte mit dem restlichen Mandeldrink. Schiebt sie in den Ofen und lasst sie für rund 50 Minuten backen, bis sie schön goldbraun ist. Lasst den Kuchen über Nacht ruhen. Am nächsten Tag gibt es dann zum Kaffee eine wunderbare vegane Linzer Torte.
-
-Wenn Euch das Rezept gefällt, [abonniert gerne meinen Newsletter](#newsletter). Dann halte ich Euch über weitere Spezialitäten auf meinem Blog auf dem Laufenden.

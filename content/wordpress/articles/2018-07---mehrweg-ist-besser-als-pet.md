@@ -76,4 +76,4 @@ Mit ihrer aktuellsten Kampagne fordert die Deutsche Umwelthilfe jetzt einen Plan
 
 Bleibt zu hoffen, dass die Initiative Früchte tragen wird und bald ein Umdenken erfolgt. Eine unverändert anhaltende Ressourcenverbrennung durch die Herstellung umweltschädlicher Plastikgegenstände kann sich die Menschheit einfach nicht leisten. Und das nicht nur, weil inzwischen bereits an weit mehr als nur einem Strand im Müll gebadet wird.
 
-**Bilder:** Wiederverschließbare Glasflaschen (Titel): [pixel2013](https://pixabay.com/de/users/pixel2013-2364555/), pixabay; verschiedene Bierflaschen: [alles](https://pixabay.com/de/users/alles-2597842/), pixabay; pixabay; Frau mit Wasserglas: [silviarita](https://pixabay.com/de/users/silviarita-3142410/), pixabay
+**Bilder:** Wiederverschließbare Glasflaschen: [pixel2013](https://pixabay.com/de/users/pixel2013-2364555/), pixabay; verschiedene Bierflaschen: [alles](https://pixabay.com/de/users/alles-2597842/), pixabay; Frau mit Wasserglas: [silviarita](https://pixabay.com/de/users/silviarita-3142410/), pixabay

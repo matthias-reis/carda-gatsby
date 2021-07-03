@@ -1,40 +1,38 @@
 ---
 date: 2015-06-01T07:15:09.000+00:00
 slug: unstumm-film-interview
-path: "/2015/06/unstumm-film-interview/"
+path: '/2015/06/unstumm-film-interview/'
 type: Artikel
 typeName: Interview
 title: '"Gute Argumente, Fleisch zu essen"'
 seoTitle: '"Gute Argumente, Fleisch zu essen" - Interview'
 ogTitle: '"Gute Argumente, Fleisch zu essen" - Interview'
-description: Alice und Hendrik von Unstumm Film machen Aufklärungsfilme zum Thema
-  Tierschutz - ohne dabei ein Blatt vor den Mund zu nehmen.
-excerpt: Alice und Hendrik von Unstumm Film machen Aufklärungsfilme zum Thema Tierschutz
-  - ohne dabei ein Blatt vor den Mund zu nehmen.
+description: Alice und Hendrik von Unstumm Film machen Aufklärungsfilme zum Thema Tierschutz - ohne dabei ein Blatt vor den Mund zu nehmen.
+excerpt: Alice und Hendrik von Unstumm Film machen Aufklärungsfilme zum Thema Tierschutz - ohne dabei ein Blatt vor den Mund zu nehmen.
 fileName: 2015-06---gute-argumente-fleisch-zu-essen.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-3__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACkQAAIBAwIEBQUAAAAAAAAAAAECAwAEBQYREhMhMUFRYXGBByIzQpH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAIE/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxEEIiH/2gAMAwEAAhEDEQA/ALvp7T1u8K8Sr28RU6+GtIQAIwfXbpRaGCyt+aZU4QPOpJM/i5tP3TLLG/IgaeQDfwcL7ePfuKFL2sGgyPzLWcIjMYCB4w5gKof226V0fS8BiJCKR7Uu51fj7bEXc8kjcELLE0rfjXcfaoPmQQdvKqnkPq1iLW1ISbmMB2UVcM5hslazKNLapu8rYRR3swPGvXh6VcobKO2tpVtLho1uIuXKqt0ZSQSD8gH4oooX8Ni/BFT2NaNsliYZraXmzF+LYsu/QkAAbj02H8rGtW38VlkFgUgqh37UUVp5GLE7B6EGif/Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-4.png__l.jpg
 labels:
-- animal equality
-- Bücher & Filme
-- Ernährung & Gesundheit
-- Gute Argumente Fleisch zu essen
-- Halbwegs
-- Interviews
-- Mastanlagen Widerstand
-- Pelzfrei
-- Tierhaltung
-- Tierrechte
-- Tierrechte
-- Tierschutz
-- Unstumm
-- Unstumm Film
-- Was darf der Mensch
-- Widerstand gegen Wiesenhof
-- youtube
-- Zukunft ohne Massentierhaltung
+  - animal equality
+  - Bücher & Filme
+  - Ernährung & Gesundheit
+  - Gute Argumente Fleisch zu essen
+  - Halbwegs
+  - Interviews
+  - Mastanlagen Widerstand
+  - Pelzfrei
+  - Tierhaltung
+  - Tierrechte
+  - Tierrechte
+  - Tierschutz
+  - Unstumm
+  - Unstumm Film
+  - Was darf der Mensch
+  - Widerstand gegen Wiesenhof
+  - youtube
+  - Zukunft ohne Massentierhaltung
 focusKeyword: Unstumm
 status: publish
 isWerbung: false
@@ -42,8 +40,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Interview mit Alice und Hendrik von Unstumm
-
 ---
+
 **Alice und Hendrik von Unstumm machen Aufklärungsfilme zum Thema Tierrechte  - ohne dabei ein Blatt vor den Mund zu nehmen. Die Filme werden auf YouTube veröffentlich. Im Anschluss verbreiten sie sich viral über das Netz. Die Themen sind vielfältig, die beiden Filmemacher sind immer offen für neue Ideen.**
 
 **Hinweis vom 16.07.2020:** Dieses Interview habe ich am 1. Juni 2015 veröffentlich. Das Projekt "Unstumm Film gibt es inzwischen nicht mehr.
@@ -73,12 +71,12 @@ Alice und Hendrik wollen mit ihren Filmen so viele Menschen wie möglich ansprec
 **Anne:** Was sind Eure Hauptthemen? Geht es nur um Tierschutz/Veganismus, oder gibt es auch andere Bereiche, über die Ihr berichtet?
 
 <RemoteImage
-alt={`unstumm`}
-size="full"
-title={`Hendrik von Unstumm Film. Bild: Unstumm Film`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_csDUAC3N-250x250.jpeg__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_csDUAC3N-250x250.jpeg__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHA//EAC4QAAEEAQEGBAUFAAAAAAAAAAECAwQFEQAGBxITITEUIkFRFUJhcaEjM4Gisf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxEhMQQi0f/aAAwDAQACEQMRAD8ABVVOJrq21Ry8p0p/TbISpYOB0z0/n0052mzdVRVJkzkO1chagS7zC42nAwOI9v8ANI1YLFG8Cter2W5LbVe6puMpfCXVkdU/j+p1SlvbTza2tQ5RU6UzOazLZdeUOUkHBwfXyknSJaaCICJOJ8RsSoc+OGfE81JS6g+RxB6dfvoBvgZxLguKZWyFNYVj5lA/kaLVta/TRLiodUJFfFknwbqgQot8ZHD7EYAOR76btodmndp62M3GxzEJ6FZ6AdNW5PUWvX1g/wCNuT65DVZs/YtFlXPacJCSnHUj7EZ1hGt6qO3Iuk2POSpPCmMf3Qs/Lw4zn3IxnSdtPvOsFR1MVEnlqyMuFOARnsB7HtrCr3g0JkiTZUklqTkKV4dSFpKh6+Ygj86iyizg5C1XgaNlBlMyma2KHXG0LLaVLbRGKlJz5sEnv3Iz9NFXbtt2OyAiUwWzxZDeST7dO2pnf7zZFtaxXICXY0CI0WWGnCCohR4lKXjpknGB2AH1OjFNvSZKhGuGWQ0tQHOQPMn6n3GiP41oQFT9id1rHQvU/9k="
+  alt={`unstumm`}
+  size="full"
+  title={`Hendrik von Unstumm Film. Bild: Unstumm Film`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_csDUAC3N-250x250.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_csDUAC3N-250x250.jpeg__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHA//EAC4QAAEEAQEGBAUFAAAAAAAAAAECAwQFEQAGBxITITEUIkFRFUJhcaEjM4Gisf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxEhMQQi0f/aAAwDAQACEQMRAD8ABVVOJrq21Ry8p0p/TbISpYOB0z0/n0052mzdVRVJkzkO1chagS7zC42nAwOI9v8ANI1YLFG8Cter2W5LbVe6puMpfCXVkdU/j+p1SlvbTza2tQ5RU6UzOazLZdeUOUkHBwfXyknSJaaCICJOJ8RsSoc+OGfE81JS6g+RxB6dfvoBvgZxLguKZWyFNYVj5lA/kaLVta/TRLiodUJFfFknwbqgQot8ZHD7EYAOR76btodmndp62M3GxzEJ6FZ6AdNW5PUWvX1g/wCNuT65DVZs/YtFlXPacJCSnHUj7EZ1hGt6qO3Iuk2POSpPCmMf3Qs/Lw4zn3IxnSdtPvOsFR1MVEnlqyMuFOARnsB7HtrCr3g0JkiTZUklqTkKV4dSFpKh6+Ygj86iyizg5C1XgaNlBlMyma2KHXG0LLaVLbRGKlJz5sEnv3Iz9NFXbtt2OyAiUwWzxZDeST7dO2pnf7zZFtaxXICXY0CI0WWGnCCohR4lKXjpknGB2AH1OjFNvSZKhGuGWQ0tQHOQPMn6n3GiP41oQFT9id1rHQvU/9k="
 />
 
 **Hendrik:** Es geht um Veränderung. Das sagt ja auch schon der Name. Unstumm steht für "Gehör verschaffen". Ob sich immer alles um Tierrechte drehen wird, können wir noch nicht sagen, auch wenn uns das Thema natürlich ganz besonders wichtig ist! Ich denke, wir können uns kaum vorstellen, wie sehr die Tiere in Mastanlagen und Schlachthäusern leiden. Gleichzeitig sind wir auch an einem Punkt, an dem immer mehr Menschen verstehen, dass etwas falsch läuft und sich für Veganismus öffnen. Doch es sind weiterhin Geschichten nötig, um die Menschen dazu zu inspirieren, sich für Veränderungen einzusetzen.
@@ -118,12 +116,12 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 ## "'Unstumm' bedeutet Lust auf Veränderung und Widerstand"
 
 <RemoteImage
-alt={`unstumm-film`}
-size="full"
-title={`Alice von Unstumm Film. Bild: Unstumm Film`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10923249_921232874556238_959193218667817530_n-250x250__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10923249_921232874556238_959193218667817530_n-250x250__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQD/xAArEAABAwIGAQIHAQEAAAAAAAABAgMEBREABgcSITETFFEIIiNBYXGBJPD/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMRIQQSMWH/2gAMAwEAAhEDEQA/AEHpdTnqnmphqG35pSSlaGd4T5AFjcATxexPZxW50/yrDy8mpVWYKdIdUpW+R9E77p+Xb3xa1hfs94nT4aHqNF1DTLzBUm4LMdrez5GitLru4BKSbcDkn+DDf1RzjFTmWU3UkvLajuKiMqUgAAI4UsAnkE369scj8ZbLC7b1iAGZtysv5drEX09LqTE+lpb/ANUOM2llatpUoLVwNyAbXsLmwNicTLrBltWW8xR2goqjPxg7HWSCVNhRSDx72vYi+D9WaIsCoofpExLbrCwtLieEj3AP/DHfFi/Hn1PKVTjtoQudTPM4UG4Uor5xVNC1E9dQIwYDaHRFzc/wG2zYpW2uw7UQ4mwH9IP6Bw+9TmG4lfeE1APzF9AIUttSTzc2BI6sf1zhG6FVyhZezPJn5hd8OxhIjLSwXVBzyJ6APtfDi1DzVDqsCOikNWbYStIcebSFL3EHoHgXv2fvhszCzzU1TGIB+jarXqLBp2XILi1bGyQOCSQSL/nGDrl54aMnUaSBvgUZNzzcFbq1bT+k7OPzgxyBm2PluqyJNVgJfakseD6IG5oE3und39rji9v5gC1trFCruYo0+gSX31raKZZfbKF+UKIuR1cgDrjDBY2fJT9euvZ//9k="
+  alt={`unstumm-film`}
+  size="full"
+  title={`Alice von Unstumm Film. Bild: Unstumm Film`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10923249_921232874556238_959193218667817530_n-250x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10923249_921232874556238_959193218667817530_n-250x250__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQD/xAArEAABAwIGAQIHAQEAAAAAAAABAgMEBREABgcSITETFFEIIiNBYXGBJPD/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMRIQQSMWH/2gAMAwEAAhEDEQA/AEHpdTnqnmphqG35pSSlaGd4T5AFjcATxexPZxW50/yrDy8mpVWYKdIdUpW+R9E77p+Xb3xa1hfs94nT4aHqNF1DTLzBUm4LMdrez5GitLru4BKSbcDkn+DDf1RzjFTmWU3UkvLajuKiMqUgAAI4UsAnkE369scj8ZbLC7b1iAGZtysv5drEX09LqTE+lpb/ANUOM2llatpUoLVwNyAbXsLmwNicTLrBltWW8xR2goqjPxg7HWSCVNhRSDx72vYi+D9WaIsCoofpExLbrCwtLieEj3AP/DHfFi/Hn1PKVTjtoQudTPM4UG4Uor5xVNC1E9dQIwYDaHRFzc/wG2zYpW2uw7UQ4mwH9IP6Bw+9TmG4lfeE1APzF9AIUttSTzc2BI6sf1zhG6FVyhZezPJn5hd8OxhIjLSwXVBzyJ6APtfDi1DzVDqsCOikNWbYStIcebSFL3EHoHgXv2fvhszCzzU1TGIB+jarXqLBp2XILi1bGyQOCSQSL/nGDrl54aMnUaSBvgUZNzzcFbq1bT+k7OPzgxyBm2PluqyJNVgJfakseD6IG5oE3und39rji9v5gC1trFCruYo0+gSX31raKZZfbKF+UKIuR1cgDrjDBY2fJT9euvZ//9k="
 />
 
 **Alice:** Hendriks Begeisterung gegenüber meinem Vorschlag, uns "Unstumm Film" zu nennen, hielt sich zu Anfang noch sehr in Grenzen. Der Name ist eben schon recht holprig und klingt zudem sehr "deutsch". Allerdings waren wir auch auf der Suche nach einem Namen, dessen Bedeutung sich von selbst erklärt, zudem wollten wir die unsere zukünftigen Themen nicht zu fest zementieren. Unstumm klingt nach Widerstand und Lust auf Veränderung, das passt zum Tierschutz genau wie auch zu vielen anderen Themen, außerdem ist er wunderbar einprägsam.
@@ -157,12 +155,12 @@ Neben der Aufklärung ist es auch besonders wichtig, zu zeigen, was es bedeutet,
 ## "Ohne Aufklärung kann es keinen Wandel geben"
 
 <RemoteImage
-alt={`unstumm`}
-size="full"
-title={`Unstumm Film. Bild: Unstumm Film`}
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_megaphone_profilbild-248x250__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_megaphone_profilbild-248x250__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQcGBP/EACsQAAEDAgUDAwQDAAAAAAAAAAECAwQFEQAGEhMhIjFBByNRFSQyM2Khsf/EABcBAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAdEQABBAIDAAAAAAAAAAAAAAAAAQIDESFBMVHB/9oADAMBAAIRAxEAPwCwUOA0mKnVfhIHGA84Zrp+XajTmZsdRiyZIjrkqeSnbJIBKUkdQBIvyPNr2ONNCdDcBxxI1KQ3q0/JCSQP6xDc/Pt5tzZRqOHJc6Hsx5EliPHDio6O7ihwSFqIAHa+o44Z5HMVqN34W7LgqAhKilSlBSTY9vnBlUgovtnqKkFQNvg8/wCjE0zp6hOZEk0+HTKiqUkfsp9biLbcQ1puCl5IChzwLg+ebDFOp1Q+s02lVIxXYhmQg/sOm6m9VjYnFIpEkbdUN0JUYJEZDgVypIIwFLzFRqBPqENMARHt3U6I2yjeNr61dST25ub8Y6crVRCqczrvcptpAvfvjkr2XaVWJM56Qakh6apsqUhhslIQ0prSnUDYELJPkkDmwti6JgyvIbEchyPUI115uc88YqKZDYVGR9uT7jir7hJUUkGwSCEc8g3xsZ4tMTdV/aVzf+QxnIeWadGzI3X3H6rIqaSVFxxppKVeztfikAA6LC45sAO2EapU2SpDjYWOgo60W83wqgf/2Q=="
+  alt={`unstumm`}
+  size="full"
+  title={`Unstumm Film. Bild: Unstumm Film`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_megaphone_profilbild-248x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_megaphone_profilbild-248x250__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQcGBP/EACsQAAEDAgUDAwQDAAAAAAAAAAECAwQFEQAGEhMhIjFBByNRFSQyM2Khsf/EABcBAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAdEQABBAIDAAAAAAAAAAAAAAAAAQIDESFBMVHB/9oADAMBAAIRAxEAPwCwUOA0mKnVfhIHGA84Zrp+XajTmZsdRiyZIjrkqeSnbJIBKUkdQBIvyPNr2ONNCdDcBxxI1KQ3q0/JCSQP6xDc/Pt5tzZRqOHJc6Hsx5EliPHDio6O7ihwSFqIAHa+o44Z5HMVqN34W7LgqAhKilSlBSTY9vnBlUgovtnqKkFQNvg8/wCjE0zp6hOZEk0+HTKiqUkfsp9biLbcQ1puCl5IChzwLg+ebDFOp1Q+s02lVIxXYhmQg/sOm6m9VjYnFIpEkbdUN0JUYJEZDgVypIIwFLzFRqBPqENMARHt3U6I2yjeNr61dST25ub8Y6crVRCqczrvcptpAvfvjkr2XaVWJM56Qakh6apsqUhhslIQ0prSnUDYELJPkkDmwti6JgyvIbEchyPUI115uc88YqKZDYVGR9uT7jir7hJUUkGwSCEc8g3xsZ4tMTdV/aVzf+QxnIeWadGzI3X3H6rIqaSVFxxppKVeztfikAA6LC45sAO2EapU2SpDjYWOgo60W83wqgf/2Q=="
 />
 
 **Hendrik:** Absolut! Ohne Aufklärung kann kein gesellschaftlicher Wandel stattfinden. Ich bin davon überzeugt, das sich für die Tiere in den nächsten Jahrzehnten sehr viel ändern wird. Wir stehen tatsächlich am Anfang. Momentan machen wir nur die Vorarbeit für eine weitreichende Veränderung!
@@ -204,7 +202,5 @@ Hier ist der aktuelle Film der Unstumm Crew:
 <YouTube id="p3FMK47tzCA" />
 
 Wer mehr über Unstumm Film erfahren möchte, kann dies [auf Hendriks und Alices Facebook-Seite tun](https://www.facebook.com/unstummfilm).
-
-Wenn Euch das Interview gefallen hat, [abonniert gerne meinen Newsletter](#newsletter). Ich halte Euch über zukünftige Beiträge auf meinem Blog auf dem Laufenden.
 
 **Bilder & Videos:** Unstumm Film

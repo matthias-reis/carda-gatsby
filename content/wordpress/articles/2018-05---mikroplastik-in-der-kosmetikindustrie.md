@@ -131,4 +131,4 @@ Dazu ein Zitat von der Homepage der Initiative Mikroplastik:
 
 Staaten wie Kenia [gehen mit gutem Beispiel voran](/2017/08/kenia-sagt-plastiktueten-nein-danke/), indem sie Plastiktüten verbieten. Wir können nur hoffen, dass das schnell Schule macht.
 
-**Bildquellen** Titelbild &amp; Seifenspender: [congerdesign](https://pixabay.com/de/users/congerdesign-509903/), pixabay Seifenschlieren: [webkinzluva](https://pixabay.com/de/users/webkinzluva1598-6544824/), pixabay Fangnetz: [the3cats](https://pixabay.com/de/users/the3cats-2135817/), pixabay Hand mit Flasche: [422737](https://pixabay.com/de/users/422737-422737/), pixabay
+**Bildquellen:** Titelbild &amp; Seifenspender: [congerdesign](https://pixabay.com/de/users/congerdesign-509903/), pixabay Seifenschlieren: [webkinzluva](https://pixabay.com/de/users/webkinzluva1598-6544824/), pixabay Fangnetz: [the3cats](https://pixabay.com/de/users/the3cats-2135817/), pixabay Hand mit Flasche: [422737](https://pixabay.com/de/users/422737-422737/), pixabay

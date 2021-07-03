@@ -39,7 +39,7 @@ subTitle: Ab jetzt verpasst Ihr nichts mehr!
 
 Ihr findet den Anmelde-Button direkt auf der Startseite (rechts unter meinem Foto). Noch schneller geht es, wenn Ihr hier Eure E-Mail-Adresse eintragt:
 
-[Anmeldung zum Newsletter](https://cardamonchai.us17.list-manage.com/subscribe/post?u=56cabb4dfeee2ca03948f964f&id=3f01062ef5)
+[Anmeldung zum Newsletter](https://mailchi.mp/94bdbb6fded3/cardamonchai)
 
 Solltet Ihr meinen Newsletter bis jetzt bezogen haben, bekommt Ihr auch den neuen automatisch regelmäßig zugesendet.
 
@@ -55,9 +55,6 @@ Im Screenshot findet Ihr schon mal einen kleinen Vorgeschmack auf das, was Euch 
 
 Ich wünsche Euch viel Spaß bei Stöbern und heiße Euch herzlich willkommen.
 
-[Weiterlesen könnt Ihr im Newsletter...](#newsletter)
+[Weiterlesen könnt Ihr im Newsletter.](https://mailchi.mp/94bdbb6fded3/cardamonchai)
 
-<small>
-  Titelbild: [Die Elchin](https://pixabay.com/de/users/DieElchin-712186/)
-  /Pixabay
-</small>
+Titelbild: [Die Elchin](https://pixabay.com/de/users/DieElchin-712186/), Pixabay

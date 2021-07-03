@@ -107,11 +107,4 @@ Fakt ist: Sojamilch enthält genauso wie Kuhmilch 120 mg Kalzium pro 100g. Um 
 
 Quelle: Albert Schweitzer Stiftung [Link](https://albert-schweitzer-stiftung.de/aktuell/kuhmilch-auf-dem-us-markt-immer-unbeliebter?utm_source=nl18-13-14&utm_medium=email&utm_campaign=w-nl)
 
-<small>
-  Titelbild:
-  [Jan-Mallander](https://pixabay.com/de/users/Jan-Mallander-615621/), Pixabay,
-  quadratisches Bild:  [couleur](https://pixabay.com/de/users/Couleur-1195798/),
-  Pixabay, Euter Textmitte: [Hans](https://pixabay.com/de/users/Hans-2/),
-  Pixabay, Euter unten: [stux](https://pixabay.com/de/users/stux-12364/),
-  Pixabay
-</small>
+Titelbild: [Jan-Mallander](https://pixabay.com/de/users/Jan-Mallander-615621/), Pixabay; quadratisches Bild: [couleur](https://pixabay.com/de/users/Couleur-1195798/), Pixabay; Euter Textmitte: [Hans](https://pixabay.com/de/users/Hans-2/), Pixabay; Euter unten: [stux](https://pixabay.com/de/users/stux-12364/), Pixabay

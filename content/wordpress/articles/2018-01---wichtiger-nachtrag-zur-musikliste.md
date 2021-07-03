@@ -87,21 +87,13 @@ Die zweite Auskopplung vom Foo Fighters Album "Concrete And Gold" führt diese L
 
 Wie konnte ich [Bob Dylan](/2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/) vergessen? Danke Bigtwinkurt für den freundlichen Hinweis! Bob Dylan möchte nicht, dass seine Songs auf YouTube veröffentlicht werden, daher findet hier an Stelle eines Video nur einen Screenshot der Platte. Unseren Respekt hat er allemal und das Album habt Ihr hoffentlich alle im Schrank stehen.
 
-<RemoteImage
-  alt={`Musikliste`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_mqdefault__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_mqdefault__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQUI/8QAKRAAAQQBAwIEBwAAAAAAAAAAAQACAwQRNHOxBSEGEiJRMkFxcoGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAACBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAgQREjEy/9oADAMBAAIRAxEAPwDlyjrq+43lOxhkEbZHtMcbvhc8Fod9CRg/hJNHXVtxvKpVHxJ1KjFWihfCY68b4ow+IOw1zi4g9+/qOf17K4mytnV4NQ9vlOC5pOcYB7pMva6zuO5VHu+IOo3a0sFmSIxynL/LEGkn0/MfaP77qcXtdZ3HcpIWfKClra+43lOBPdCEiKvGYylC9rrG47lCEkLPEf/Z"
-/>
-
 ### Das komplette Album von Japandroids "Near To The Wild Heart Of Life"
 
 <YouTube id="pSkrhQiwFcE" />
 
 ### "Walk It Back" vom Album "Sleep Well Beast" von The National
 
-<YouTube id="UrfwMlB9u_w" />
+<YouTube id="xnZA52oTp6M" />
 
 ### "Ether" von Behind The Shadow Drops (Album "Harmonic", 2017)
 

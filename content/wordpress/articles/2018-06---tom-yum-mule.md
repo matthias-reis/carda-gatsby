@@ -34,7 +34,7 @@ errors: {}
 subTitle: Feuriger Highball
 ---
 
-## Zum Wochenende habe ich ein weiteres Cocktail-Rezept für Euch. Es handelt sich dabei um einen Highball. Seinen Namen hat er einer ganz besonderen Zutat zu verdanken: Lemongras.
+**Zum Wochenende habe ich ein weiteres Cocktail-Rezept für Euch. Es handelt sich dabei um einen Highball. Seinen Namen hat er einer ganz besonderen Zutat zu verdanken: Lemongras.**
 
 Fans Asiatischer Gerichte und klassischer Cocktails kommen mit dem Tom Yum Mule gleichermaßen auf ihren Geschmack.
 

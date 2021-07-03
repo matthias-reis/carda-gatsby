@@ -46,14 +46,6 @@ year: '2017'
 month: '03'
 ---
 
-<RemoteImage
-  alt={`Frühlingsboten`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33267695745_52dc39f3f7_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33267695745_52dc39f3f7_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMGBQT/xAAoEAABAwMDAwMFAAAAAAAAAAABAgMEABEhBRIxBhNBB1FhFCIyofH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgD/xAAfEQACAgIBBQAAAAAAAAAAAAABAgARAxJBITFxgaH/2gAMAwEAAhEDEQA/AJrTumNVgRroSFuOYUEE7bfBNVGk9U6xpupQ9DYmxIj/AGCWwWO7J4PG7AFk/sU3SFynmZJTLcdcjsl4pUEjeOLYyDcjNQbutfQ+o4S42HgqWh3cTwXAkpuLXNjtGDbGKDBs5OxrpxLYAKDUqOoNR6mYd786RKkJWSMcnHATYgCitWfOLb8mJKkORXmlBHcQStv8UnKTkc+CaKgPlPP2ZlCmqmAicpgPhLYWlxIbWSgkqQSCRb3xepTUIEVzqWBLQlIYabX3QL5WMIJxk5FseBXWzL7aHG2zcFW4k5Oefj+0xK2DpLjSrB1biXEgeUgEG/tkCrRa7RcbCip8+xGuy1vPSVuL3pWsqBJ9/nnwKKzXHEhNgftHgmxopdVhMSxsz//Z"
-/>
-
 **Die ersten zarten Frühlingsboten zeigen sich. Unermüdlich drängen zarte Pflänzchen in Richtung Erdoberfläche. Der Sonne entgegen.**
 
 Auch im Loki Schmidt Garten zeigen sich die ersten Pastelltöne. Der Winter verabschiedet sich langsam aber sicher.

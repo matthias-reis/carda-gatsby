@@ -37,17 +37,17 @@ language: de
 type: Artikel
 ---
 
+**Viele haben applaudiert, als ich hier im Blog meine Aufnahmen von der Künstlergruppe Oakleaf Stelzenkunst präsentiert habe. Noch mehr haben beim Auftritt der Artisten auf dem [Stamp Festival](/2017/06/stamp-festival-altona-2017-parade/) in Hamburg Altona applaudiert. Dort sind sie mir gleich zwei Mal begegnet.**
+
+Ich habe mich jetzt mit der Gründerin und Chefin der Gruppe Bettina Eichblatt-Koenekoop zum Interview verabredet. Und einige wirklich spannende Dinge erfahren. Unter anderem, dass ich sie nächstes Jahr hier bei uns wieder sehen werde. Doch zuvor wird Bettina noch viele weitere faszinierende Orte besuchen.
+
 <RemoteImage
   alt={`Oakleaf`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34620395124_e9c96586e7_z1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34620395124_e9c96586e7_z1__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwQF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDBAURAAYSITETIkEHYRQVIzJxgaH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgQAA//EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDURIUMTKx/9oADAMBAAIRAxEAPwDJRbVs1/FTL+Cnt0tK5zUwlfT6J9ysrfbJxgj50o3SRdsXmpgN2pKszsXjmjnPObj0UOQyk8jj3AgnwfOqzdXrLLtG51Vst9O1LMzxNU0uVaRSpUzIq5z7j0xPx47Go9tU2+tguNPWUTynA9ZGiJkGQW4DJGSB2D13k41OcYckajoob2i/uOSacIRI00FK/p8Z0VZFK9FCQcEDHkHPejTNUbep73e9u2BrgkKflTGsnWNWeP0ufB2UY88lHfwB/Zo9bJe5ydeJoTdH1Flte1hT2mOOmqpGLT+kGESAdARqWYKSO8D2jXIrLwscrVwmqkqqngZnR/3LjHLr4Az9s/Y6oO2bVYbW7tRWyjhkkVVaUh5HwPADM5wP4xom2NtuSP8ASaug93L2VRPfnywbrPxq44WqqmRwpu/sjtZdbhJIZaJJ0h5qZHiHEDJJALDyev8AcaNUiv2RRRUU1JQ3i4RUsswnencgxswUjJKAHPfnicd9d6NIVyDwIC25/9k="
 />
-
-**Viele haben applaudiert, als ich hier im Blog meine Aufnahmen von der Künstlergruppe Oakleaf Stelzenkunst präsentiert habe. Noch mehr haben beim Auftritt der Artisten auf dem [Stamp Festival](/2017/06/stamp-festival-altona-2017-parade/) in Hamburg Altona applaudiert. Dort sind sie mir gleich zwei Mal begegnet.**
-
-Ich habe mich jetzt mit der Gründerin und Chefin der Gruppe Bettina Eichblatt-Koenekoop zum Interview verabredet. Und einige wirklich spannende Dinge erfahren. Unter anderem, dass ich sie nächstes Jahr hier bei uns wieder sehen werde. Doch zuvor wird Bettina noch viele weitere faszinierende Orte besuchen.
 
 **Anne:** Liebe Bettina, vielen Dank, dass Du Dir zwischen zwei Festivals Zeit für dieses Interview nimmst. Im Sommer seid Ihr gut ausgebucht, oder?
 
@@ -57,15 +57,15 @@ Ich habe mich jetzt mit der Gründerin und Chefin der Gruppe Bettina Eichblatt-K
 
 ## "Ich habe einfach angefangen, Stelzen und ein Kostüm zu bauen"
 
+**Bettina:** Ich fand die Stelzenläufer bei verschiedenen Veranstaltungen immer besonders toll und habe dann einfach irgendwann angefangen, mir selbst ein paar Stelzen und ein Kostüm zu bauen.
+
 <RemoteImage
   alt={`Oakleaf`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34631673053_4ed188c507_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34631673053_4ed188c507_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUH/8QAJxAAAgIBAwIGAwEAAAAAAAAAAQIDBBEABSESMQYTMlFxgSJBYRT/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAwEC/8QAIxEAAgEEAQMFAAAAAAAAAAAAAQIAAwQRIVEFMaESE0HR8P/aAAwDAQACEQMRAD8Ap+HfD1GzVS5buTx1zEJcRxhj2zj6+NYe7X9q3XYrsNWBopas0ZUyMGZ+okBgfgHI/Wqfhnd9327ZoVu2I0MnPlPCUkrjr7Ek8qV5xjsdZlOWB5prYWNWmcnpUBVHPcL7/wA1pSsK/qqtoEEAa7fBHg8ShdHo4QbI/fY5lbc6NWCGua1rz5Hj6pk8pk8ls+nJ9XGDkaNTJJE8skav+WMhW9RHxo08jBlyDmCvpsR38U15Ib0jW6UCyzIoMSurFGB4JVckcY9v7pRsULayiXb1eG3EQ8TmLIDA5GfccaZaTKpA+/nWhJKnR2GgLnqRqvnGOIvbWC29IUwewHjU5T4+knsb7/qmlMdmZQQJfxXpAAAwBx7fejTtv1SvfrtFPGsic4z3U+4P6OjU2ufcJYnZnRpb3P/Z"
 />
-
-**Bettina:** Ich fand die Stelzenläufer bei verschiedenen Veranstaltungen immer besonders toll und habe dann einfach irgendwann angefangen, mir selbst ein paar Stelzen und ein Kostüm zu bauen.
 
 **Anne:** Stelzenkunst gibt es schon seit Jahrhunderten. Sie wirkt eine große Faszination auf viele aus. Warum ist das so? Erzähl mir etwas über ihren Zauber.
 
@@ -83,15 +83,15 @@ Ich habe mich jetzt mit der Gründerin und Chefin der Gruppe Bettina Eichblatt-K
 
 ## "Es war wunderbar, fünf Tage lang auf Stelzen zu tanzen"
 
+**Bettina:** Es war unser erstes großes Musik Festival, es ist im Süden und es war wunderbar, fünf Tage lang auf unseren Stelzen zu tanzen.
+
 <RemoteImage
   alt={`Oakleaf`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35075399910_06e3b12e2f_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35075399910_06e3b12e2f_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAGA//EACgQAAICAQQBBAEFAQAAAAAAAAECAwQRAAUSITEGEyJRcQcWIzJBYf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAQT/xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAxIhQVEx/9oADAMBAAIRAxEAPwDT36vubBubVpo/eaHjFwmVWL8esHPRzo/fKFt/0wp1xWNzcwKzTQmL3mzzAYkL/o/3HjzoBdmhl9P7fJRsWbdlqkc9yCK6YYhnk2SHJwwAxwzn46FpR2LW2ixSn3SOBH5HFtGRCx65L5Bx1nGuh8SoaVr7+VIDIzckVNd68oH9x+m60UZjaaKwEkTOIyF+J4+DjPLv61awt/dPUgVGqbrLPDA38JEylQoJA+Ofs4wfxq1MqeotvYdtNqjUgk2+xYMavCCleRUMrtw+JOcKD5IOmqLVls1EqzywvehC2C6ZERJJGFB5ccdjJ8nB61jK+0Wmsq9kj2zKs0hEeSeKcFUf8wfA66Gl7leb3bcjNIy2VRcJ0QoxlfHjoj8HWoqgkmNmsVU4zMdvFaBGkZKssjLk/wBOHyAI+8HvvVordZbM1iwpcJG7B359ZJAXiD9DHf51ae6+Q1P/2Q=="
 />
-
-**Bettina:** Es war unser erstes großes Musik Festival, es ist im Süden und es war wunderbar, fünf Tage lang auf unseren Stelzen zu tanzen.
 
 **Anne:** Wie viele Festivals bereist Ihr so pro Saison?
 
@@ -123,15 +123,15 @@ Ich habe mich jetzt mit der Gründerin und Chefin der Gruppe Bettina Eichblatt-K
 
 ## "Wir suchen ständig Leute, die sich uns anschließen"
 
+**Bettina:** Jeder, der ein bisschen sportlich und nicht allzu ängstlich ist. Im Übrigen suchen wir ständig neue Performer. Wer also Lust hat, aufzutreten und von sich meint, einen guten Ausdruck zu haben, kann sich gerne bei mir melden.
+
 <RemoteImage
   alt={`Oakleaf`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34599807284_7441d5dea4_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34599807284_7441d5dea4_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAfACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQIEBgcAAwj/xAAqEAABAwMDAwIHAQAAAAAAAAABAgMEBREhAAYSIjFBUWEHExQVMoGRwf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAIxEAAQMDAwUBAAAAAAAAAAAAAQIDEQAEIRIxQQUicYGhYf/aAAwDAQACEQMRAD8AhW4JZ2rvVii1mTBdZW02sTYxsGnCb9YJNgPPtY+dad0ypkqlfeNvRo0iCeJkSkrSsIWpVrcMEXwTftyt76ktf21Dlvza9SqypurORVMtgOJLSgoWHYX97+ovoP8ADqPOoXw53PTZwCROlhhxKClfJISErzY8TnBGe/tprSXwylbpnG/76qKxftepuLTZzg5SQREcwfMfKr2IvcFXZeditfUIb6rpYws3CeCLfkbkHiM6F1lFUiSVx57b0SUACuOpotqSPBsfHuNdIVvcMCO4zStmQWIrVPaQtUicSng2EjASD3IPgYycnVeboed3jLXR/t9PVW1IWpqQX0hlLaFcgQvvcgjp9VZtovQFBCVEnnzXStbJxaFF5GggkDmYjGBgziPtNtxVKUisvmHTmm0uxkqQ6xZNilP4EenL9ZxoFSqtUIDXCoOshC3lurT8zkoqWUXx4sEH+6ypSB83rckcuCQUoIA7d8/5oUUCxU2ye/lQ0XL155tLSldqdhAFaahlwvJHedz7mirNakiqOTXahzcdUSpJQlKEixAAPewFgNMZz/1bE0gOlSoyWwCoAXBGfQnH7zpMdwcOuMnnfCrg6W6p0sqcPZGbDUhWdUnemFRWSonfNf/Z"
 />
-
-**Bettina:** Jeder, der ein bisschen sportlich und nicht allzu ängstlich ist. Im Übrigen suchen wir ständig neue Performer. Wer also Lust hat, aufzutreten und von sich meint, einen guten Ausdruck zu haben, kann sich gerne bei mir melden.
 
 **Anne:** Stelzenlaufen ist kraftaufwändig und man muss bestimmt beim Training auch mal einen Sturz abfedern. Man muss permanent die Balance und Körperspannung halten können. Wie hältst Du Dich fit?
 
@@ -149,15 +149,15 @@ Ich habe mich jetzt mit der Gründerin und Chefin der Gruppe Bettina Eichblatt-K
 
 ## "Ich bin fast immer mit Oakleaf unterwegs"
 
+**Bettina:** Ich bin ein bisschen besessen und deshalb fast immer in Sachen Oakleaf unterwegs, aber ich gehe gerne paddeln. Außerdem lebe ich am Rand Hamburgs auf einem richtigen Bauernhof und ab und zu helfe ich im Stall.
+
 <RemoteImage
   alt={`Oakleaf`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34599803234_74e0383afd_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34599803234_74e0383afd_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYE/8QAKxAAAgICAgEBBwQDAAAAAAAAAQIDBAURABIhBgcTMUFhgZEVIkJRQ8Hh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgQFA//EACQRAAEEAQMDBQAAAAAAAAAAAAEAAgMRBCFBUQUSMRMiYZHB/9oADAMBAAIRAxEAPwBEwCbKZarj8ZWM9iwwWNQfjvfn8Anmm9K4Kvd9UZHEZ14qQoRSu80knWNmVlAXYG9kMDrweS9lmMyUmBtXKGOSy8FkJFa6D3leUqDqJiR+4dQToEAEc7Jq1i1hbTXMbYTI1LUyOOrg6YAhnO/LHYH33xzGmfLIe03W29oA2FpDCfdxf1p8pe2rKy3Hr0arSBC/VifLqGOiftr+uHLv1WsmKysRhx3SZqSkMyKoKyDYJ6+CQBr8g/DhwZH9ri1x1CNsWl0mL7O56Vb05TjoFjHGjGYsdkzEDtv/AF9AOWvqzKH9eda/ZOxjErH/ACMEA3+PHFHhsm+N7GtIU7+HA2FYfUD48tp81PPkXnmkMiuqKFJJC9RoaPy5t0GePDyTJIPNi+L3SePgiKd03m1ocjVoZSjWkyUCSmkxILD+PzU/2p/7w5n7WSfUsVUSD366UyLrq5Xz9t78/Thyh1LOx3Sh7aNjgfqouh9TWiv/2Q=="
 />
-
-**Bettina:** Ich bin ein bisschen besessen und deshalb fast immer in Sachen Oakleaf unterwegs, aber ich gehe gerne paddeln. Außerdem lebe ich am Rand Hamburgs auf einem richtigen Bauernhof und ab und zu helfe ich im Stall.
 
 **Anne:** Wie lange gibt es Oakleaf schon?
 

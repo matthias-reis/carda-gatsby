@@ -98,6 +98,4 @@ Auf der [Homepage](https://gamechangersmovie.com/) findet Ihr neben Infos zur Do
 
 <YouTube id="7JPGRGp4sSI" />
 
-Hat Euch mein Filmtipp gefallen? Das freut mich! Um in Zukunft nichts mehr auf meinem Blog zu verpassen, [abonniert gerne meinen Newsletter](#newsletter). Ich freue mich auf Euch!
-
 Bilder / pictures [The Game Changers](https://gamechangersmovie.com/)

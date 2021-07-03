@@ -82,7 +82,7 @@ Alles über vegane Kosmetik, Biokosmetik und Naturkosmetik habt Ihr im März erf
 
 [](/2018/03/vegane-kosmetik-und-naturkosmetik/)
 
-**April**
+## April
 
 Der April brachte fünf neue Schallplatten, die wir gemeinsam gehört haben.
 
@@ -110,7 +110,7 @@ Der Mai hat Euch unter anderem schmackhafte Spargelrezepte beschert. Dieses hier
 
 [](/2018/06/spargelsalat-mit-erdbeeren/)
 
-**Juni**
+## Juni
 
 Im Juni war ich viel unterwegs. Unter anderem habe ich Euch mit auf die schöne Insel Rügen genommen.
 

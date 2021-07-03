@@ -1,8 +1,6 @@
 ---
-ogTitle: "#NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin"
-excerpt: NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit eine
-  kleine Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner
-  anfühlt.
+ogTitle: '#NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin'
+excerpt: NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit eine kleine Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner anfühlt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__l.jpg
 isAffiliate: false
 path: /2017/07/nog20/
@@ -16,12 +14,10 @@ focusKeyword: nog20
 status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__m.jpg
-title: "#NoG20 - Was hier in Hamburg los ist"
+title: '#NoG20 - Was hier in Hamburg los ist'
 subTitle: Statusmeldung einer Anwohnerin
 seoTitle: NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin
-description: NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit
-  eine kleine Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner
-  anfühlt.
+description: NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit eine kleine Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner anfühlt.
 labels:
   - Altona
   - Antifaschismus & Feminismus
@@ -49,7 +45,7 @@ Eine kleine Statusmeldung muss ich nun doch abgeben. Nur für den Moment. Auch, 
 
 <RemoteImage
   alt={`nog20`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-166__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-166__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUHAQb/xAApEAABAwIEBQUBAQAAAAAAAAABAgMEBREABhIhExQxQWEHIiNCcYEk/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAAH/xAAcEQADAQACAwAAAAAAAAAAAAAAAQIDEUIUITH/2gAMAwEAAhEDEQA/AGLGeIcuBw2QdZHUDf8AuE5gRKiVvS3VAn6qBF8d5AyjlWLFSvkn49k6uLxiAR5vthLmrO+QMvrXDdM2TNbUEhDNrnYEnUdgBf8ApGKtazIgpdfDaPkehvREvSHdBUbBJNrnxfrhsnJeW9IulJNut8TTObL1Sq7czK1caqEF5y8ZAXqLVkg2WDsDckAYIqF6qpUU8Iixtb4cC8lBVix3yBq8RMiqzavPjOpB0rkjgOdCPY0oJNhbv3B84VVGgUBgl0QoL2tVlF9QV50gLlAjt0xP8gT5bVSSiLC5j4SkNKnjUEbbgOJWlIBt9e/UDFHk1qU7FSyKfW46m/cpKUBaCLW2cRLbR53QPzElavn2xx58AoM6LQf9NLVR4C1I0eyOp1QtuTdK1dRbucEXUc9OrU43mOjhCzqSOSI2OJ3m2vtc8sw6gxLfWEIRE4HHc1AWsVpWUjftqJwOP6lNtR2m1xDqQkJNnUjcD8xqvTqdmJ7H/9k="
@@ -75,7 +71,7 @@ Das eigentliche Thema rückt in den Hintergrund. Keiner hat mehr wirklich auf de
 
 <RemoteImage
   alt={`nog20`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-91__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-91__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcC/8QAJxAAAgEDAgYCAwEAAAAAAAAAAQIDBAURACEGEhMiMUFRYTOCofD/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwD/xAAdEQACAQQDAAAAAAAAAAAAAAAAAQIDERNREjFB/9oADAMBAAIRAxEAPwDGLpPWR3ljTPJiRIpAihNy0an2PenbdUXBpJFVq1oGI5irhB8jYYH907VRKl6t8NRFE5angDSRox7h2+T4GPrOp6g4PmudJLKt0okCxr0uWTl6rDY4U4xvjQuKkZp2K3eZqlFlIeoUgntNUTg9T4H+zo11JbmukNW9I6GeliR1VombmUuFbODvjOc76NM5q4xpto0Kibh5brU1HWmaLESQlUKjkweYY+QcYz61Iwy8MwyQOi7xE8nYcAk77Y1J0Vl4fUbW0nJC99RKcbfR0+tnsagA2mMnBP5JTnH76lkhoo6U32VOU8M08cvQUxM4AZo2cEgEHHj60as7WC0VTDpWXmQDJIMnj2d39aNOSL8YYns//9k="

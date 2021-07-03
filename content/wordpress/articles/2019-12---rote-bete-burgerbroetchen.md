@@ -75,6 +75,4 @@ Stellt eine feuerfeste Schüssel mit Wasser in den Ofen und schiebt auch das Bac
 
 Belegen könnt Ihr Eure Rote Bete Burgerbrötchen ganz nach Gusto. Wir verwenden am liebsten unseren [selbst hergestellten Seitan](/2016/01/seitan-grundrezept/). Sie eignen sich aber auch hervorragend als Sandwich-Basis und lassen sich perfekt mit Gurken, Salat, diversen Aufstrichen und Saucen kombinieren.
 
-Hat Euch dieser Beitrag gefallen? Wie schön! Wenn Ihr in Zukunfts nichts mehr auf meiner Seite verpassen wollt, [abonniert gerne meinen Newsletter](#newsletter). Ich freue mich auf Euch!
-
 Rezept: [Kurkuma Kochschule Hamburg](https://www.kurkuma-hamburg.de/)

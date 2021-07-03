@@ -67,14 +67,6 @@ year: '2017'
 month: '06'
 ---
 
-<RemoteImage
-  alt={`Dunk!festival`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984055891_3adae7c598_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984055891_3adae7c598_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EAC0QAAIBAwMCBAQHAAAAAAAAAAECAwQFEQASIQYTIjFBUQcUMqEVIzNSYYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AEGm6mtVqobvb6wVqNW1LtG8aA7Y97Ar9XHix9+dUT4eXSzXSuhi6fnneWlpsVE1VRrEdxkARjs4OFOB68DUKqGiqbXQ1c6y1jIZCxTwhwHBLN6jk+QH+a3+iViqrVUhJKhK+aIQvAjj84GUMJVz+3bgjPv78BY+qIkNnku6UcyXBWkRt8aq06lmRyQucjkfyBnI1MuorfS0dntlZTOTcIpfGN5OEBPhweACMH0zk6w7zQ3S3VApUgrHSOQrNtjLIxDAgg4yAVb7a1K+6CGslgkAho5cMC8ZKTSgEhVbHmBgYzzk6CdUtbWRNsTvqwyFAjPGSDwMe4B/rTt0wnyLS3SClqIq8yx9qnT9Pt8GTOfI5JI9gMaNGgYurblWzN+IW6VqVnHbqDJtjPbxwBwcnz0pM0tzRe44aihOIVIBZCfrxkcZ499GjQf/2Q=="
-/>
-
 **Schon ewig liege ich Euch mit dem [Dunk!festival](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) in den Ohren. Schon Wochen bevor es losging, habe ich Euch Euch mit den ersten Details genervt.**
 
 Jetzt sind wir schon seit einer Woche wieder zu Hause und ich habe es erst jetzt geschafft, meine Bilder in Ordnung zu bringen und ein paar Worte dazu aufzuschreiben.
@@ -88,16 +80,6 @@ Nur liebe Menschen, wahnsinnig tolle Musik, ein Gelände wie aus dem Märchen, p
 Bei den Bands, die auf dem Dunk!festival auftreten sollten, hatten wir natürlich beide schon im Vorfeld unsere Favoriten, die sich in vielen Teilen auch überschnitten. Als wir sie dann wirklich alle geballt live auf der Bühne sahen, kamen noch ein paar neue Lieblingsmusiker dazu.
 
 Besonders gefreut habe ich mich auf MOONCAKE. Für mich war die Band neben BARST, die mit ihrer Wahnsinnsmusik auf der kleinen Nebenbühne im Wald das Publikum in Ekstase versetzten, auch (trotz einiger kleiner technischer Probleme, die das Konzert ein wenig verzögerten) die beste im Lineup. Wobei ich da aber auch ein bisschen befangen bin.
-
-## Von Mooncake bis And So I Watch You From Afar
-
-<RemoteImage
-  alt={`Dunk!festival`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984028381_15860917b1_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984028381_15860917b1_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAwT/xAApEAABAwQBAwIHAQAAAAAAAAABAgMRAAQFIRIGMUFRgRMUFSIycZHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMRMSH/2gAMAwEAAhEDEQA/AN8bjLZ1RL7FsSAPvKNRPrTv6VjWTBt7T4k8YSiSSdwADPassZfDhzbTyIHY6mPE13NOG3QZStStltYHIEKVM67HcH9V1NA0R5rHYti1St5plDU9kGNkToTvRmpD1f08lpxxfy6m1bCk85g/yrldJYs0rUlKlDjtZgkACe/gT4qU9e5MOKcQ2QUndGTUV6HHLg5tsi7bqCvzQVRxJ9/9pqc/cW8tgFQLYUDI1312ooqiMYty2duFtrTuOAmTIM+1S/qC6cccWvQHgem6KKheuDqP/9k="
-/>
 
 Dicht auf den Fersen sind der russischen Band, die sich nach einem chinesischen Gebäck benannt hat, AND SO I WATCH YOU FROM AFAR, ARMS AND SLEEPERS, PG.LOST, LOST IN KIEV, WE LOST THE SEA, PRAY FOR SOUND, THE CASING MONSTER und THE MOTH GATHERER.
 

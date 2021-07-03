@@ -65,8 +65,4 @@ Deliveroo ist in über 500 Städten in 13 Ländern tätig, darunter Australien, 
 
 **Hunger? [Hier könnt Ihr das Angebot checken und veganes Essen bei Deliveroo bestellen](https://go.urtrackinglink.com/SH1TT). **
 
-Wer wissen möchte, warum es Tieren, Umwelt und Gesundheit gut tun, wenn man sich für ein veganes Leben entscheidet, kann gerne ein bisschen in meiner Rubrik "[Veganes Leben](/tag/vegan/veganes-Leben/)" stöbern und wer auch in Zukunft gerne auf dem Laufenden bleiben möchte, darf meinen Newsletter abonnieren. Ich freue mich auf Euch!
-
-[newsletter]
-
-<small>Foto: [Deliveroo](https://go.urtrackinglink.com/SH1TT) </small>
+Foto: [Deliveroo](https://go.urtrackinglink.com/SH1TT)

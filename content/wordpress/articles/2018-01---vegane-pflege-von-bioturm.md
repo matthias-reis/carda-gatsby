@@ -91,7 +91,7 @@ So viel zu meinen neuen Favoriten. Beide tragen übrigens das  _PeTA Cruelty Fr
 
 <RemoteImage
   alt={`Bioturm`}
-  size="full"
+  size="medium"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Peta-cruelty-free-and-vegan.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Peta-cruelty-free-and-vegan.png__l.jpg"
   loadingUrl="data:image/jpeg;base64,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"
@@ -119,11 +119,11 @@ Auf genetisch veränderte Inhaltsstoffe sowie [Versuche an Tieren](/2010/07/grau
 
 <blockquote>
 
-**"Wir haben eine klare Haltung zu Tierversuchen und dem Export unserer Produkte nach China:**
+"Wir haben eine klare Haltung zu Tierversuchen und dem Export unserer Produkte nach China:
 
 Die Firma Bioturm hat sich seit der Gründung neben der Erhöhung des Wohlbefindens des Menschen und der verantwortungsvollen Behandlung der Natur insbesondere ein Thema auf die Fahne geschrieben: Ein klares Bekanntnis gegen die Durchführung von Tierversuchen. Im Rahmen der Recherche der Marktbedingungen in China stießen wir auf die zurzeit in China durchgeführten Tierversuche, welche bei der Zulassung eines Produktes durch die China Food And Drug Administration (CFDA) zwingend vorgeschrieben sind.
 
-**Wir können Tierversuche im Rahmen von kosmetischen Anwendungen nicht tolerieren und haben uns daher bewusst gegen eine Lieferung nach China entschieden."**
+Wir können Tierversuche im Rahmen von kosmetischen Anwendungen nicht tolerieren und haben uns daher bewusst gegen eine Lieferung nach China entschieden."
 
 </blockquote>
 

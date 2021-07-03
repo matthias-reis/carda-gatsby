@@ -35,14 +35,6 @@ errors: {}
 subTitle: Teil 2/2 Diese Banken machen es anders
 ---
 
-<RemoteImage
-  alt={`Alternative Banken`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11156640815_011f38a715_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11156640815_011f38a715_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACsQAAIBAwMDAwIHAAAAAAAAAAECAwQFEQASIQYTMQdBYRVRIzJxgaGxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAMFAQL/xAAeEQEAAgEFAQEAAAAAAAAAAAABABFBAgMSITEEof/aAAwDAQACEQMRAD8Aia71D6hp7i8TU15pAg27aqWPuFlHIIaEjd5+dKX1WrgjQ3CKtqIWGHjemgdWH2P4YH8apvW9t6rtfVl3SOW+1FOKp9lSWZzMufznBPJ86i3uN/iqHFObmU3EL3KcsWHt5XUfhpfKli5rtJ6wq4ZEqau3xxgKqNb+7+w2OoGP099Gs6tVu6nvJk2T3bbEF5aCRPOeBkD7aNcPE6X9m3eJpvUU9Qa+saieNiZyysiq3PGc4Ib2/vUVRxXGXqWgrqkRKqbQ7RysgGGHJDHjAZvP+af1sFPUTsa/6zSTFiX2TrGxJPOdy867UtPbY6ZoTUXOVGbdmYwu2cY4YAHHxoB2wqO/Vuuk0oUVXuJdLZaaevluL1scneSqYBknJV42VXRhycHD4PyNGm9D1GhklMNvrpwQuVjjXCYGPI5Oce5PjRo+sEIDM//Z"
-/>
-
 **Wie gestern in [Teil 1](/2017/04/urgewald/) meines Artikels bereits angekündigt, möchte ich Euch heute ein paar alternative Banken vorstellen. Meine Informationen habe ich aus der gestern vorgestellten Broschüre "Was macht eigentlich mein Geld?" sowie von den Infoseiten der verschiedenen Banken.**
 
 Alternativbanken arbeiten, anders als gängige Banken, nicht mit der Rüstungsindustrie, Kohle-Konzernen oder Pharma-Riesen zusammen. Sie haben klare Ausschlusskriterien und Richtlinien. Entscheidet man sich für eine von ihnen, kann man sicher sein, dass keine Investitionen in Atomindustrie oder Minen getätigt werden.

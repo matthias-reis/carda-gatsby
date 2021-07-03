@@ -99,7 +99,7 @@ Ich bin gespannt auf Eure Zuschriften! Wir lesen uns!
 
 Anne Reis aus Hamburg [info@cardamonchai.com](mailto:info@cardamonchai.com)
 
-Wenn Euch meine Texte gefallen und Ihr ab jetzt nichts mehr verpassen möchtet, würde ich mich sehr freuen, wenn Ihr [meinen Newsletter abonniert](https://cardamonchai.us17.list-manage.com/subscribe?u=56cabb4dfeee2ca03948f964f&id=3f01062ef5).
+Wenn Euch meine Texte gefallen und Ihr ab jetzt nichts mehr verpassen möchtet, würde ich mich sehr freuen, wenn Ihr [meinen Newsletter abonniert](https://mailchi.mp/94bdbb6fded3/cardamonchai).
 
 ## Kaffeekasse
 

@@ -147,10 +147,6 @@ Valentin:
 
 <YouTube id="WIdBQszglwI" />
 
-## Die Playlist des Monats abonnieren
-
-Wenn Ihr in Zukunft keine Playlist mehr verpassen wollte, [meldet Ihr Euch am besten für meinen Newsletter](https://mailchi.mp/94bdbb6fded3/cardamonchai) an. Ihr werdet dann einmal pro Woche über neue Artikel auf meiner Seite informiert und erhaltet einmal im Monat den Link zur frischen Playlist.
-
 ## Die Playlists für den April
 
 <Playlist

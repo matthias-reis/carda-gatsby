@@ -114,4 +114,4 @@ In diesem Sinne: Namasté!
   ]}
 />
 
-Die Fotos habe ich in [Sri Lanka](/2015/09/unterwegs-in-sri-lanka/) gemacht. Wenn Du in Zukunft mehr Texte und Bilder von mir sehen willst, freue ich mich, wenn Du [meinen Newsletter](#newsletter) abonnierst. Bis bald!
+Die Fotos habe ich in [Sri Lanka](/2015/09/unterwegs-in-sri-lanka/) gemacht.

@@ -44,7 +44,7 @@ Da ich ihre Produkte für sehr interessant halte und tolle vegane Ideen generell
 
 <RemoteImage
   alt={`Veganica Biomanufaktur`}
-  size="full"
+  size="medium"
   title={`Andre und Nicole von der Veganica Biomanufaktur`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Andre-und-Nicole-mit-Hunden__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Andre-und-Nicole-mit-Hunden__l.jpg"
@@ -74,7 +74,7 @@ Das Crowdfunding\* läuft seit dem 11.10. Bis zum 15.12. könnt Ihr es noch unte
 
 <RemoteImage
   alt={`Veganica Bio Manufaktur`}
-  size="full"
+  size="medium"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_veganica_und_vegablum__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_veganica_und_vegablum__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABgQHAAECA//EACsQAAICAQMDAgYCAwAAAAAAAAECAwQRAAUhBhIxB0ETFCIjUWEycUKBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EACURAQABAwIEBwAAAAAAAAAAAAECAAMRBHESEzHwISJBUVJh8f/aAAwDAQACEQMRAD8AH71bk2FS+7ULsUYJBdY+4AgA4Pj84/0ddybtVhux1ZBKsskphGVGO4Ak55yPH49xqyOuPVLom7VptJPFZWG/WlkjUiUlFlDN9J88Z15bv110b6gW6PTdOaatau2QPm3rLiNQC5bk8E9gGf3o4X5PWl4I4UoX3xn/ADH/AHW2X7CThkMUgkKkOOfhgF/fjAIP9asy/wCkG1bemB1BaeyRhUMUfJIJHv8ArxrOm979M6FVa9+PpmG1DlZDK0PeWx2knJ4JA5/vGknd+GH378aMAPMP1Rvq3pDoehTrSiSrK63qytCk4kZ0MyBwETlvp7s4GklCv0LW6t2E7TDSG5fOqkYSBgSSr5GccDGfOj9bbKEjK1aUpcjdYVskFAoAJRv48AA4Ygc9o1D6XG4xz2Z9ypR1p0l+xLEFAZcnBGDkH98efGs6xGU0SIG35V+olglxSV73q2mp3pabW95prDNXckNlCHZchWQDJChTgE4PJ40c2za993Cutmt1nFCGJIr2tmgldMEqCG4JGeQfcahWd63OzXMM+4W2iPkGQ6NLtE8Lk7fvu/7eh5+FWu/QD+lZWxqu3p+VHEH1yr1akuXmblDav//Z"

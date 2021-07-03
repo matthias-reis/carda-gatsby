@@ -61,6 +61,4 @@ Joaquin Phoenix selbst nutzt diese Stimme bereits seit Jahren. So ist er unter a
 
 [](https://www.earthlings.de/)
 
-Hat Euch mein Beitrag gefallen? Um in Zukunft nichts mehr auf meinem Blog zu verpassen, [abonniert am besten meinen Newsletter](#newsletter). Ich freue mich auf Euch!
-
 Bild im Header: [plantbasednews.org](https://www.plantbasednews.org/opinion/5-amazing-times-joaquin-phoenix-was-extra-vegan)

@@ -23,19 +23,21 @@ labels:
 language: de
 ---
 
+**Wie ich Euch schon [erzählt habe](/2017/07/nog20/), bat mich der liebe Thomas vom _Volksverpetzer_ um einen Beitrag zum Thema G20 Gipfel. In dem ganzen Trubel fiel es mir zugegebenermaßen schwer, objektiv zu bleiben, was Euch sicher in meinen beiden Artikeln zum Thema aufgefallen ist.**
+
+Nun ist es natürlich etwas Anderes, wenn ich meine emotionsgeladenen Worte hier in meinem persönlichen Blog oder in einem Nachrichtenmagazin veröffentliche. Mein Mann Matze war jetzt so nett, den Text für den Volksverpetzer zu verfassen. Unter dem Link findet Ihr seine ganze Geschichte zum G20 Gipfel
+
 <RemoteImage
   alt={`G20 Gipfel`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_19942836_1912374132335861_9174963676286235512_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_19942836_1912374132335861_9174963676286235512_o__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQEDBAYIAv/EADAQAAICAQIDBQUJAAAAAAAAAAECAxEEABIFITEGBxNBgURhkZPSFCIyM0NRUnGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBf/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMEEyH/2gAMAwEAAhEDEQA/AKvw/EhmhLSpuIcjlu6V05Eadfh2OWIGOGUiwwMnWr/lpeGqz4km2J5BuNbVujQ5/gb3eepTxuSS8JIWm3iE105/o3VWfXWzNemegXk8LhbcsUbQvYqw7UPU1z/zQXOxWxshom3cqILLtJB6GvLVnkiIDEwtvosD4RFqPP8AJ6C+ugfGECZLK0Ekcl3ubkHXoCF2rXT9tSaGCOPPFDjOjRlpNxKtsjIHIdSReo7Zbbr8PGvrXgrXw1ok9yHZk+18Y+en0aZye6Ds5hQlBxDjq2CVAkVlv0j0XrqDwmZ4+3OSPuYrV5GBTeo2VkNMm1kgUXdpEqn4j+9aOg7nezWdEivn8dYqLIMiqAfcTHrs9xHZY+2cZ+en0am9NbG4zP/Z"
 />
 
-**Wie ich Euch schon [erzählt habe](/2017/07/nog20/), bat mich der liebe Thomas vom _Volksverpetzer_ um einen Beitrag zum Thema G20 Gipfel. In dem ganzen Trubel fiel es mir zugegebenermaßen schwer, objektiv zu bleiben, was Euch sicher in meinen beiden Artikeln zum Thema aufgefallen ist.**
-
-Nun ist es natürlich etwas Anderes, wenn ich meine emotionsgeladenen Worte hier in meinem persönlichen Blog oder in einem Nachrichtenmagazin veröffentliche. Mein Mann Matze war jetzt so nett, den Text für den Volksverpetzer zu verfassen. Unter dem Link findet Ihr seine ganze Geschichte zum G20 Gipfel
-
 ## Der G20 Gipfel - Matzes Erlebnisse zusammengefasst
+
+[Weiterlesen -&gt;](http://www.mimikama.at/volksverpetzer/hamburg/)
 
 <RemoteImage
   alt={`G20 Gipfel`}
@@ -46,5 +48,3 @@ Nun ist es natürlich etwas Anderes, wenn ich meine emotionsgeladenen Worte hier
 />
 
 [](http://www.mimikama.at/volksverpetzer/hamburg/)
-
-[Weiterlesen -&gt;](http://www.mimikama.at/volksverpetzer/hamburg/)

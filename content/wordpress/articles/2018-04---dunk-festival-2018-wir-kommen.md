@@ -94,4 +94,4 @@ Nichts für Ballermannfans und Mainstreamfreunde - Post-Rock rund um die Uhr - H
 
 <FestivalList />
 
-## Quelle Titelbild, Artwork und Timetable: [Dunk!festival](https://www.dunkfestival.be/)
+Quelle Titelbild, Artwork und Timetable: [Dunk!festival](https://www.dunkfestival.be/)

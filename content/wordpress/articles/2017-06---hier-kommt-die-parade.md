@@ -1,8 +1,6 @@
 ---
 ogTitle: Stamp Festival Hamburg Altona - Der Sonntag - Fabelwesen im Sonnenlicht
-excerpt: Das Viertel zeigte sich bunt und vielfältig, laut und kreativ. Genau
-  so, wie es ist und wie wir alle unser Altona lieben. Hier kommt Parade Nummer
-  zwei.
+excerpt: Das Viertel zeigte sich bunt und vielfältig, laut und kreativ. Genau so, wie es ist und wie wir alle unser Altona lieben. Hier kommt Parade Nummer zwei.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35075398600_7c99ca6421_k__l.jpg
 isAffiliate: false
 path: /2017/06/stamp-festival-altona-2017-parade/
@@ -20,8 +18,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06
 title: Hier kommt die Parade
 subTitle: Fabelwesen im Sonnenlicht
 seoTitle: Stamp Festival Hamburg Altona - Der Sonntag - Fabelwesen im Sonnenlicht
-description: Stamp Festival - Altona zeigte sich bunt und vielfältig, laut und
-  kreativ. Genau so, wie es ist und wie wir es lieben. Hier kommt die Parade.
+description: Stamp Festival - Altona zeigte sich bunt und vielfältig, laut und kreativ. Genau so, wie es ist und wie wir es lieben. Hier kommt die Parade.
 labels:
   - Altona
   - Altonale
@@ -37,14 +34,6 @@ labels:
 language: de
 type: Galerie
 ---
-
-<RemoteImage
-  alt={`Stamp Festival`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34620395124_e9c96586e7_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34620395124_e9c96586e7_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwQF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDBAURAAYSITETIkEHYRQVIzJxgaH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgQAA//EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDURIUMTKx/9oADAMBAAIRAxEAPwDJRbVs1/FTL+Cnt0tK5zUwlfT6J9ysrfbJxgj50o3SRdsXmpgN2pKszsXjmjnPObj0UOQyk8jj3AgnwfOqzdXrLLtG51Vst9O1LMzxNU0uVaRSpUzIq5z7j0xPx47Go9tU2+tguNPWUTynA9ZGiJkGQW4DJGSB2D13k41OcYckajoob2i/uOSacIRI00FK/p8Z0VZFK9FCQcEDHkHPejTNUbep73e9u2BrgkKflTGsnWNWeP0ufB2UY88lHfwB/Zo9bJe5ydeJoTdH1Flte1hT2mOOmqpGLT+kGESAdARqWYKSO8D2jXIrLwscrVwmqkqqngZnR/3LjHLr4Az9s/Y6oO2bVYbW7tRWyjhkkVVaUh5HwPADM5wP4xom2NtuSP8ASaug93L2VRPfnywbrPxq44WqqmRwpu/sjtZdbhJIZaJJ0h5qZHiHEDJJALDyev8AcaNUiv2RRRUU1JQ3i4RUsswnencgxswUjJKAHPfnicd9d6NIVyDwIC25/9k="
-/>
 
 **_Hamburg Altona_ - Ihr wollt Bilder von bunten Paraden? Die sollt Ihr bekommen! Auch am Sonntag habe ich auf dem Stamp Festival Bilder gemacht - und nicht zu wenig!**
 

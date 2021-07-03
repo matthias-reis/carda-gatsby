@@ -183,6 +183,6 @@ Wer sich die ungeschönte Wahrheit ansehen und den Fleischatlas 2018 gerne mal k
 
 [Fleischatlas jetzt runterladen](https://www.bund.net/fileadmin/user_upload_bund/publikationen/massentierhaltung/massentierhaltung_fleischatlas_2018.pdf)
 
-**Hinweis: Bei den von mir verwendeten Bildern handelt es sich um Screenshots aus dem [Fleischatlas 2018](https://www.boell.de/de/2018/01/10/fleischatlas-2018-rezepte-fuer-eine-bessere-tierhaltung) Bartz/Stockmar, CC BY 4.0. Das Bild im Titel stammt von OpenClipart-Vectors (pixabay)**
+**Hinweis:** Bei den von mir verwendeten Bildern handelt es sich um Screenshots aus dem [Fleischatlas 2018](https://www.boell.de/de/2018/01/10/fleischatlas-2018-rezepte-fuer-eine-bessere-tierhaltung) Bartz/Stockmar, CC BY 4.0. Das Bild im Titel stammt von OpenClipart-Vectors (pixabay)
 
-**Quelle: Fleischatlas 2018**
+Quelle: Fleischatlas 2018

@@ -85,7 +85,7 @@ subTitle: Musikalischer Jahresrückblick
 
 Musikalisch war in diesem Jahr so einiges geboten. Auch wenn man das an den Playlisten der gängigen Radiosender nicht unbedingt zu spüren bekam. Aber das ist ja nicht unbedingt etwas Schlechtes. Der Tiefpunkt der Populärmusik in diesem Jahr bedeutete, wie das gerne mal so ist, gleichzeitig auch ein neues Rekordhoch für die Alternative Ecke. Besonders im Bereich Post-Rock tat sich einiges. Außerdem überraschten ein paar längst als von der Bildfläche verschwunden geglaubte Lieblinge mit Neuveröffentlichungen.
 
-## Von verträumt über verspielt bis wahnsinnig - Meine Songliste
+## Von verträumt über verspielt bis krass - Meine Songliste
 
 ### 1. Amenra - "A Solitary Reign" vom Album Mass IV
 
@@ -97,19 +97,13 @@ Die Church of Ra ist eine sehr musikalische. Bewiesen wird das auf diesem Album.
 
 Als Fan der ersten Stunde bekam ich glänzende Augen, als ich vom neuen Album erfuhr. Schwelgen konnte ich darin ausgiebig auf dem diesjährigen [Dunk Festival](/2017/06/dunk-festival-2017-eindruecke-und-bilder/). Ich genieße es nach wie vor regelmäßig
 
-<RemoteImage
-  alt={`songliste-2017`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_And-So-I-Watch-You-From-Afar_ENDLESS__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_And-So-I-Watch-You-From-Afar_ENDLESS__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcDBAAGCP/EACsQAAICAQIFAwIHAAAAAAAAAAECAxEEAAUGEhMhMQciUUFhFBUXMnGB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAECBf/EAB4RAAIBBAMBAAAAAAAAAAAAAAABAhESEzEEIUED/9oADAMBAAIRAxEAPwBh5kRSy3PV3VnQ3nAvn6oB+/8AmgO8Z+/4nqjjwyZ5GwPKEkgZV6KQshCtzVYk5qNef61Z4m3jF2cl8uaOJGfprb93arpfk6lciNbfRfHmld4S5LKEpBJzEV+49ta/nt76slR8/wA/U6D5HFaS56YkTqk0sgjCyEg2SAO1eLI76iTN3P8AOM/FyopDFiymOQJAG6dELbOGoW3MQKsjTkS2GOT0NTjH0+3LeuJ5c+LMTGxM6aNZoYQWZFVa6jOe1+SFrsTqtxr6dZ3Fm4K2buESLjQt+EKLcq+BTsABbeSVHnt401pGs1fbUTtQ86zNOqZoXOSozm/9It/3fEx9ygzMHbs3HSIY8cpdmLIAbkpfa10fr9xrMnbt0XjLG3DirYcfqZjGDLieX2hgQUyIyPawDfewCew0/GwsWLOmzIYo1yp1VZZQCC4XxfzXz50P3TCxtxhMObDHNGDzBXFi9TL7ujjLtDj7uif/2Q=="
-/>
+<YouTube id="UYBVQSqSkpk" />
 
 ### 3. Amplifier - "Anubis" vom Album Trippin' With Dr. Faustus
 
 Mit Trippin' With Dr. Faustus erschien dieses Jahr ein ganz besonderes [Amplifier](/2013/04/amplifier-live-hansa-39-munchen/) Album. Anubis ist bei weitem nicht der einzige Song darauf, der beim ersten Hören sofort ins Blut übergeht.
 
-<YouTube id="XuO_n8np-js" />
+<YouTube id="1gchQL1neoY" />
 
 ### 4. A Perfect Circle - "The Doomed" (Single)
 
@@ -251,7 +245,7 @@ Immer noch dabei. Immer noch die Band der Stunde. Genauso böse. Der Song haut a
 
 Ein gutes Stück Techno durfte in meiner Liste selbstverständlich nicht fehlen. Dieses hier ist sogar ein ganz besonderes. Der nette Hamburger Hobby-Ornithologe mit Sinn für Sampling, Klänge und Bass hat mit seinem Set Bienenfresser und Blauracke bei mir mal wieder einen Nerv getroffen. Treibend und verspielt zugleich. Klingt in Teilen wie aus Hells Küche. Und lauscht mal genau: Man kann den Sommer schon ein bisschen hören!
 
-<YouTube id="hNKM5paghWE" />
+<YouTube id="TCPvmpCV6uU" />
 
 ---
 

@@ -157,5 +157,3 @@ Am Valentinstag war es endlich soweit: TWINS präsentierten ihr Album "Soon". An
   spotify="5IEj5A2OWAHLcEToYcNP9Q"
   itunes="2020-02-25-die-drei-von-der-bande/pl.u-gEeGS8RXNXl"
 />
-
-Hat Euch unsere Liste gefallen? Ihr findet jeden Monat eine neue hier im Blog. Infos über frische Beiträge gibt es einmal pro Woche [in meinem Newsletter](#newsletter).

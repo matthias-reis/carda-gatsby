@@ -1,8 +1,6 @@
 ---
 ogTitle: Destreet und die Menschen - Ein Ugandischer Künstler in Hamburg
-excerpt: Heute möchte ich Euch Destreet vorstellen. Seine ganz besondere Kunst
-  trage ich jetzt direkt auf der Haut. Bei der Millerntor Gallery habe ich ihn
-  getroffen.
+excerpt: Heute möchte ich Euch Destreet vorstellen. Seine ganz besondere Kunst trage ich jetzt direkt auf der Haut. Bei der Millerntor Gallery habe ich ihn getroffen.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35671637186_668d97c7ec_z__l.jpg
 isAffiliate: false
 path: /2017/07/destreet/
@@ -19,9 +17,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07
 title: Destreet und die Menschen
 subTitle: Kunst auf der Haut
 seoTitle: Destreet und die Menschen - Ein Ugandischer Künstler in Hamburg
-description: Heute möchte ich Euch Destreet vorstellen. Seine ganz besondere
-  Kunst trage ich jetzt direkt auf der Haut. Bei der Millerntor Gallery habe ich
-  ihn getroffen
+description: Heute möchte ich Euch Destreet vorstellen. Seine ganz besondere Kunst trage ich jetzt direkt auf der Haut. Bei der Millerntor Gallery habe ich ihn getroffen
 labels:
   - Antifaschismus & Feminismus
   - Art
@@ -42,14 +38,6 @@ labels:
   - Kunst
 language: de
 ---
-
-<RemoteImage
-  alt={`Destreet`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35580511281_d4d3a253ec_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35580511281_d4d3a253ec_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYH/8QALRAAAgIBAwIEAwkAAAAAAAAAAQIDBBEABRIhMRMiQXEGB6EUI1FhgZGSscH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBwQG/8QAJREAAQMBCAIDAAAAAAAAAAAAAQACAwQFERIhMUGx8BMjUaGi/9oADAMBAAIRAxEAPwCthqQpXMtniEVQSGIAz+elVoYvtUKvGWDqJQ4A4jpyx9RqdbsVZpItsYlpZmERBXIDEZIJ9tQ91tVBaeJ4kaNbAMXBs5VQqAAdslRkenTrppwAzUqgbJK7CQc+NjyqH4pB29ai+bk/MniPb/SdGul7Hs9bfLEr24RlIImCt3BZpM/0NGjamoEchaF11kWQ6qo2TE5m/khYXZgtu01topi6zF8qpZeYBUjpk+oIOPrpcD2DubNDXkcLOfC+54rH5AS3XBY5Jx26nOk7FYsrWm4FDG7srFhyKEdse68dPktS1NruXJPDUwIzoOJGTgDGc+uNbtQChfJgcW3A7DvftdE+XF2MXd6cktEhgqxk9z4ankf5Mw/TRrM/Lay1bbJo3PnDYY/i3JuR/fOjQVY73OPdFQbAjDaCNvxeP0V//9k="
-/>
 
 **Heute möchte ich Euch einen ganz besonderen Künstler vorstellen, den ich am Sonntag kennenlernen durfte. Destreet stammt aus Uganda. Dort zählt er zu den bekanntesten visuellen Künstlern.**
 
@@ -95,4 +83,3 @@ Streetart und mehr aus der Affenfaustgalerie in Hamburg [findet Ihr hier](/2015/
     },
   ]}
 />
-

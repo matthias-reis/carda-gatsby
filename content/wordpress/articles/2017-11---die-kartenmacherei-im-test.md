@@ -1,34 +1,32 @@
 ---
 date: 2017-11-25T10:25:20.000+00:00
 slug: kartenmacherei
-path: "/2017/11/kartenmacherei/"
+path: '/2017/11/kartenmacherei/'
 type: Artikel
 typeName: Produkttest
 title: Die Kartenmacherei im Test
 seoTitle: 'Ich habe die Kartenmacherei getestet - Erstes Weihnachtsgeschenk: Done!'
 ogTitle: 'Ich habe die Kartenmacherei getestet - Erstes Weihnachtsgeschenk: Done!'
-description: Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten schon
-  immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich Kalender.
-excerpt: Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten schon
-  immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich Kalender.
+description: Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten schon immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich Kalender.
+excerpt: Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten schon immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich Kalender.
 fileName: 2017-11---die-kartenmacherei-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-13-von-16__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-13-von-16__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMCBAUGB//EACgQAAIBBAEDAgcBAAAAAAAAAAECAwAEBREhBhIxB0ETFSIyUWJxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAaEQEBAQEAAwAAAAAAAAAAAAABAgARITHw/9oADAMBAAIRAxEAPwDTxdmhVS44qt1BmY7DBJfQWoYSMI2WUrGoBBO9sQPbXn3p+DuUu5ILck6lYRnR0dHg6p7elPTZcMbTISsAVVpbyWTQI0QNnjYpnCfexsB1dj7zHBmdEmR1jZO4EDZ0qqfDcccE12N/aIqv2gcEiqWN9KulYCvdjLojv7yTdTefz581PMZBYHnUt9rsOf6aEuNG8osMjNGVKkj+HR/2o4ScyYm0adriWRk2ztdS7PJ/aiipWCndWFJeOZlHT5dP8MTI/aNOLmXY+oftVrI5Kd+7Z4HgboorSBTzNS1J1+8b/9k=
-ogImage: 
+ogImage:
 labels:
-- basteln
-- Design
-- diy
-- Fotos
-- Geschichten & Erlebtes
-- Kalender gestalten
-- Kalender selber machen
-- Kartenmacherei
-- schenken
-- Wandkalender
-- Weihnachten
-- Weihnachtsgeschenk
+  - basteln
+  - Design
+  - diy
+  - Fotos
+  - Geschichten & Erlebtes
+  - Kalender gestalten
+  - Kalender selber machen
+  - Kartenmacherei
+  - schenken
+  - Wandkalender
+  - Weihnachten
+  - Weihnachtsgeschenk
 focusKeyword: Kartenmacherei
 status: publish
 isWerbung: false
@@ -37,8 +35,8 @@ language: de
 errors: {}
 subTitle: Weihnachtsgeschenk Nummer 1
 advertisement: true
-
 ---
+
 **Weil ich zu Weihnachten gerne selbstgemachte Dinge verschenke, besonders gerne Kalender, habe ich jetzt die Kartenmacherei\*\* getestet. Auf der Homepage der Kartenmacherei kann man seine persönlichen Lieblingsfotos hochladen und daraus einen Kalender gestalten.**
 
 <RemoteImage
@@ -111,15 +109,15 @@ Der Preis stimmt außerdem auch noch. Ich habe wirklich ein sehr hochwertiges Pa
 
 **Mein Fazit:** Kann man auf jeden Fall machen.
 
+Einigen der Fotos im Kalender könnt Ihr auch hier im Blog begegnen. [Schaut zum Beispiel mal hier vorbei](/2017/11/kilkenny-bunte-insel-irland/) oder [hier](/2017/07/gran-canaria-der-sueden/).
+
 <RemoteImage
   alt={`Kartenmacherei`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-16-von-16__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-16-von-16__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEB//EACsQAAEDAwMCBAcBAAAAAAAAAAECAwQABREGEiExcRNRYaEUIiMkQbHR8f/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEAAwEAAwAAAAAAAAAAAAAAAAECERIhMf/aAAwDAQACEQMRAD8A36LgRJNuhF2JHcUWkklbSSTx6imDuhLFdZIkPtSoq9iUFEJ1LKDjOCQEnnnr6Ch2h3NtvjAKIPgDkfjpTuLMW2hP1nFEY6BPPtVZNLGiJdeo02jQWn7VJVIQzImKLZR4c51L7YzjnaU4zx170X1/brVHtc8s2uA0sR3SlSIyEkHYcEYFKnLitTZAdWg9hkUD19LUu2zASpX27nPn8ppSmViQU6fbZB0dKAhRvLwQKrXXWNptEr4SfIeafKAsbGioYPQ5Hauc2W+RozLCHJSEKSgA8kY9qtDU8LJzNZPqRnPtUJ4LVZkiu262tVzlJhwZDzj+wqO5opGAOeTUjVs8LjPpznLSv0ajSNUxdhCZrfZP+UduV6RJSsB8KJSQOv8AKHQzyzKP/9k="
 />
-
-Einigen der Fotos im Kalender könnt Ihr auch hier im Blog begegnen. [Schaut zum Beispiel mal hier vorbei](/2017/11/kilkenny-bunte-insel-irland/) oder [hier](/2017/07/gran-canaria-der-sueden/).
 
 Hinweis: Ich habe die einzelnen Kalenderseiten auf unserer Staffelei fotografiert. Die komplette Galerie findet Ihr unten. Wenn man den Kalender mit erwähnter Holzhalterung aufhängt, sieht das so aus:
 

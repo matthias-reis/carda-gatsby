@@ -102,5 +102,3 @@ Auf der Homepage und Facebook-Seite von _Ecosia_ kann man live mitverfolgen, wie
 Es geht ganz einfach: www.ecosia.org ins Browserfenster eingeben und lossuchen. _Ecosia_ kann direkt als Suchmaschine angesurft werden, oder als Plugin zum Beispiel in Google Crome integriert werden. Besonderes Gimmick: Über dem Browserfenster wird dann ein Zähler angezeigt, in dem man jederzeit genau sehen kann, wie viele Bäume die persönlichen Suchanfragen schon "gepflanzt" haben.
 
 Ecosia [Homepage](https://www.ecosia.org)
-
-<FestivalList />

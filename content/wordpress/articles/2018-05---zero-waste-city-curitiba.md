@@ -63,4 +63,6 @@ Gerade in Anbetracht der aktuellen Müll- und [Plastikdebatte](/2018/05/mikropla
 
 Das World Economic Forum hat ein hochinteressantes White Paper zum Thema öffentlich bereitgestellt. Ihr könnt es [hier ganz einfach runterladen](http://www3.weforum.org/docs/White_paper_Circular_Economy_in_Cities_report_2018.pdf). Ihr findet darin unter anderem verschiedene Fallstudien aus anderen Städten.
 
-**Quelle:** World Economic Forum; Foto im Header: [marcoseduardo](http://Pixabay https://pixabay.com/en/users/marcoseduardo-2073721/), Pixabay; Plastikflaschen: [MatthewGollop, Pixabay](https://pixabay.com/en/users/MatthewGollop-16710/)
+Quelle: World Economic Forum
+
+Foto im Header: [marcoseduardo](https://pixabay.com/en/users/marcoseduardo-2073721/), Pixabay; Plastikflaschen: [MatthewGollop, Pixabay](https://pixabay.com/en/users/MatthewGollop-16710/)

@@ -40,11 +40,3 @@ Schicht für Schicht stapelt sich hier das Leben. Genau dort, wo Du heute sitzt,
 Auch Du wirst nicht mehr lange zu sehen sein. Deine Tage sind gezählt. Noch sieht man Dein hübsches Antlitz. Schon morgen kann es dahin sein. Überklebt. Abgerissen. Vom Regen abgewaschen. Ausgebleicht von der Sonne. Das ist der Kreislauf des Lebens. Es gehört dazu. Etwas Neues wird sich aus den Überresten erheben. Im Glanz der Jugend strahlen.
 
 Richtig tot wirst Du erst sein, wenn man Dich überstreicht, was, so hoffen hier viele, nie passieren wird. Nicht nur Du wirst dann gehen, Deine Nachbarn, Eure Nachfahren und Ahnen. Auch die Seele dieses Ortes wird sich dann für immer verabschieden.
-
-<RemoteImage
-  alt={`Vergänglichkeit`}
-  size="full"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33234406364_95da4daecf_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33234406364_95da4daecf_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKxAAAgIBAwMCBAcAAAAAAAAAAQIDBBEAEiEFBkFRYRMiMTIHFkJxgZGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwEAAv/EAB0RAAICAQUAAAAAAAAAAAAAAAABAhEhAxIiMVH/2gAMAwEAAhEDEQA/AMXk6NZS/L06yEhsvPKHkdhhSPk59OV/fnU1vtm1RV2sxwWI8bSn3eeDkAedad3ZUq3e/eu2o4tsVCnEY468fJbauTjySVxn30s35bdWCKercjswWa7vC+4MC6oGKjBHqeDyMedRx8NuK7o3S4Py+hgiy0ZLTrNwfiqeSQOMD9Pj+Ro1adgGO50K+jNhhISroAeGAbz6EnRruHJWWxgodQqN311aFymbRjEIxnciOuQPb/ONQntGSCJuodUklPUYb7vHEXAjlX4uA2Mckr59tUFGiJe4WsJMVnghZ65+45ZiTxnnAA+umK3bv2oK1qOfqC3967gzhkwMbtpIIAZfrj1P00ih2GmsWJv4fWFq2rMbsqsq5UyDduzuBwB64H9aNcNS9ju2tPCsUcdncrGE5Ukn5gPfOjRacasZSjFZVn//2Q=="
-/>

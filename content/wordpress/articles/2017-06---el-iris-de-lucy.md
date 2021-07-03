@@ -69,19 +69,19 @@ year: '2017'
 month: '06'
 ---
 
-<RemoteImage
-  alt={`El iris de Lucy`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34413328370_62c83da79c_o__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34413328370_62c83da79c_o__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKRAAAQMEAQMDBAMAAAAAAAAAAQIDBAAFBhESITFRIjJBBxMUFXGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFA//EACYRAAIBAgQFBQAAAAAAAAAAAAECAAQhAxExcRITIjJRYcHh8PH/2gAMAwEAAhEDEQA/AOK4XibmQMvONzI8YNLS3p1JJUSkq2NeAK1snwh7HokaQ5NjSkPuFsBpCklPp5bO6nwNq2xsaM24x3pEj8kPRuK+IaWjaAdb9W+o661TNmFyt9ys0SNFU6ZLMhS3kqaKEpPHRA8nex0/mi80lyoFhKT0a4dOuK7dTaDW3n0+2lbBPpTKynHzeG7vaoEYPrY4yyoKKk63rXfvVLLcHbxtyKn9pBuIkBZC4gVxSU8djah19w7U54PnVqx/CHLPNUUPGQ86SiKXF6UEgBKyCEbA92iR8CkvOszTfEWxtv7KGYKHGWWmkuANtnhxBK+pPQ9RWpIIyAguEi5I2+f2K2JqDVhSQNl15RVs+NAD/f7q1GeU2t5vuELUBs/G6KKwXuaVqsZU2Dt7CZ1xeUSTWK86rzRRSFkdp//Z"
-/>
-
 **Bei unserem Aufenthalt in Las Palmas im Mai stand auch Kunst auf dem Programm. Genauer: Die packende Ausstellung _El iris de Lucy_ im Atlántico de Arte Moderno (CAAM).**
 
 ## El iris de Lucy - Zeitgenössische Künstlerinnen Afrikas
 
 _El iris de Lucy_ (Lucys Iris) zeigte in Las Palmas vom 26. Januar bis einschließlich 4. Juni 2017 die Werke von 25 zeitgenössischen Künstlerinnen aus Afrika. Alle Frauen, deren Kunstwerke ausgestellt wurden, bewohnen diesen Kontinent und verarbeiten ihre Erfahrungen in ihrer Kunst.
+
+<RemoteImage
+  alt={`El iris de Lucy`}
+  size="full"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34413328370_62c83da79c_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34413328370_62c83da79c_o__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKRAAAQMEAQMDBAMAAAAAAAAAAQIDBAAFBhESITFRIjJBBxMUFXGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFA//EACYRAAIBAgQFBQAAAAAAAAAAAAECAAQhAxExcRITIjJRYcHh8PH/2gAMAwEAAhEDEQA/AOK4XibmQMvONzI8YNLS3p1JJUSkq2NeAK1snwh7HokaQ5NjSkPuFsBpCklPp5bO6nwNq2xsaM24x3pEj8kPRuK+IaWjaAdb9W+o661TNmFyt9ys0SNFU6ZLMhS3kqaKEpPHRA8nex0/mi80lyoFhKT0a4dOuK7dTaDW3n0+2lbBPpTKynHzeG7vaoEYPrY4yyoKKk63rXfvVLLcHbxtyKn9pBuIkBZC4gVxSU8djah19w7U54PnVqx/CHLPNUUPGQ86SiKXF6UEgBKyCEbA92iR8CkvOszTfEWxtv7KGYKHGWWmkuANtnhxBK+pPQ9RWpIIyAguEi5I2+f2K2JqDVhSQNl15RVs+NAD/f7q1GeU2t5vuELUBs/G6KKwXuaVqsZU2Dt7CZ1xeUSTWK86rzRRSFkdp//Z"
+/>
 
 Beim Namen der Ausstellung hat man sich bewusst für eine Metapher entschieden, die auf die aufgezwungenen Denkmuster der Kolonialzeit anspielt. Damit richtete sie den Fokus auf die Notwendigkeit ihrer Überwindung und auf das Wiedererreichen der Blicke, die niemals hätten abgewendet werden dürfen.
 
@@ -91,7 +91,7 @@ Dabei bezog man sich auf den _Australopithecus afarensis_ , besser bekannt als _
 
 <RemoteImage
   alt={`El iris de Lucy`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34991752072_71f7ed661b_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34991752072_71f7ed661b_k__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBAMGCP/EACgQAAICAQMCBgIDAAAAAAAAAAEDAgQRAAUhEjEGEyIyQVFhkXGh8P/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EAB0RAAIBBAMAAAAAAAAAAAAAAAABEQMSIUECIjH/2gAMAwEAAhEDEQA/AOckMUJAS68nsBHOmVefWJFVO23pGSYwPA/OBxqhtNuzS3BNqmRFy+YH6P8AhrZavibe0suiHSDZEg6Pq7HGR/QOhjY5eislG42KzHU9ltMWoCU2xXIiPOBk4+wRqO0Nsw3DcV2lFblqEPLnnK5BkDyD8jGmNLxdvdHbG0khZrt9+TL1AEkDOe3J/elW2Wm2d33Kxax51iJZLHzIzjnVVss6mU3zvz4Iq7ZpdCa5ETj6gfo6bK3e0tlhkjBk3xkJmcc+7uf50aNGRwZqm+sq1XJNdTAwcGXeJGeR+9UWXJMuOYAY5l1CIPA+caNGpuVDMShyf//Z"
@@ -105,7 +105,7 @@ Kurze Zeit nach ihrer Taufe wurde sie durch die Ätiopier der Region Afar in _Di
 
 <RemoteImage
   alt={`El iris de Lucy`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35156852665_23f5200400_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35156852665_23f5200400_k__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUH/8QALBAAAgECBQMDAgcAAAAAAAAAAQIDBBEABQYSIRMxQRRRYSIyBxVxkaGiwf/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAQP/xAAeEQACAQQDAQAAAAAAAAAAAAAAAQMCERIxITJCcf/aAAwDAQACEQMRAD8AYNPZB1qWn6jXjC7t3dTxwL9/jDXQZdTU608EkaQqgBf6Lg39r9r378jjxfGDprOqf0FOULvGxClIxcgHzh0jzJKijlAjYkoxVXUcEXFiPfscdbhs3sqU2V0y9WSJUlidy0e0g3uLHx8fOEL8Q9M00lFLU9GmmdONsYAsQRfnGvHVVVFqaIU9fWvS+qq0mjcK0UUYRDEVXwb3587mv4xLW+bt+WzrOEgncFVYkAH2a3PGBRXnccseDTOYaYzKamssQAVJLgfz/uHqfVdTRZYJ0iBZZVX7rfcwX2+cGDGrqB81FbMdQvT5vF0qWIGd0EpufqLKTf8AqP2HtjD1PmM1UzGY7l3bNv6g4MGKLbKfz8P/2Q=="

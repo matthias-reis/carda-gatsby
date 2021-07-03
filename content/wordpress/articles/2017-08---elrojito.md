@@ -45,14 +45,6 @@ errors: {}
 subTitle: Solidarischer Kaffee in Hamburg Ottensen
 ---
 
-<RemoteImage
-  alt={`elrojito`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36452318776_7ac0ea3a57_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36452318776_7ac0ea3a57_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBgcCBAj/xAAoEAACAQMEAQMEAwAAAAAAAAABAgMEBREABhIhEyIxQQcIFKFCUWH/xAAYAQACAwAAAAAAAAAAAAAAAAABAwACBP/EAB4RAAIBBQADAAAAAAAAAAAAAAECAAMREiExBCJB/9oADAMBAAIRAxEAPwDnyzQ101RHHTCcuwK5Q5IJGOhkZOrh+3bblfS71uZrKSWJZLc3HyjJYiWM4/06c6zYM21KK3o15qZLzWssSU1BTg9kZ6z6mHY7wNbmxrvfLXuerob3cZYIEikhWZIVYsRIoPjKg8jgHoE+xzpKVPbXJpZQVt9jBuSDybirFWJgsskjuQMY9eBj96NS2aBautulfNHNLBAocOIfGxjTJY46wSM9HRoHyVvrci0GMxtO5Zdo7dWGgqoGqImlkN1qOMitS5wjKwZsHtV4fxOdL/TrdVstUiz0yMomgYUcs2ePJm5OxyemYDIJ76x86o21bkW406UFbPTweJvI6SR+iZ1IPJWx0xI7Dde5HZ1Zmxr9ta6UkNs3My225wMfxqyUskFSpOQrsDhXUkgewIx86uy5jHkSpxOXYnT1O5q/dFTFwuVRSzFzU1DwOqiDvkXOOOOGf1jRqU3G60+1aWKFainmRp1eGqMuIkGMllCnIZcH+wwODo0FoqvYw12bgtP/2Q=="
-/>
-
 **Heute möchte ich Euch eines meiner Lieblingscafés hier in Hamburg vorstellen. Es befindet sich sehr zentral in der Großen Brunnenstraße 68 in Ottensen.**
 
 Serviert wird dort solidarischer Kaffee aus eigener Röstung. Auf Wunsch mit verschiedenen (Pflanzen-)Milchsorten auch als Cappuccino, Latte Macchiato oder Iced Latte.

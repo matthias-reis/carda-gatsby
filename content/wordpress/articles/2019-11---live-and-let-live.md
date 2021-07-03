@@ -70,8 +70,6 @@ Untermauert werden die Berichte von sorgfältig recherchierten und spannend aufb
 
 "Live And Let Live" wurde im Jahr 2014 unter anderem auf dem 19. Milano Film Festival präsentiert. Im selben Jahr wurde er auf dem Comic Cine Film Festival mit dem Comic Angel ausgezeichnet. Ein weiterer wunderbarer Film von Marc Pierschel ist "The End Of Meat". [Meinen Filmtipp dazu findet Ihr hier](/2020/02/the-end-of-meat/).
 
-Hat Euch mein Filmtipp gefallen? Das freut mich sehr! Wenn Ihr in Zukunft nichts mehr auf meinem Blog verpassen wollt, [abonniert gerne meinen Newsletter](#newsletter). Ich freue mich auf Euch!
-
 ## Filmtrailer "Live And Let Live"
 
 <YouTube id="We5zOxfp7S0" />

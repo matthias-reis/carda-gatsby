@@ -39,14 +39,6 @@ errors: {}
 subTitle: Wellness für zu Hause
 ---
 
-<RemoteImage
-  alt={`Wärmelampe`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265715562_3bc6282887_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265715562_3bc6282887_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBgcI/8QAKhAAAgEDAwIEBwEAAAAAAAAAAQIDBAURAAYhEjEHE0FhFSIjMlFxsaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAIDAQEBAAAAAAAAAAAAAAABAhEhAyIy/9oADAMBAAIRAxEAPwDnRYyJro3boiGP30603avg9Ub2sMdy25cVinan8yFZmJEsgHzRlh9jZz7f3SG17Tuc16qqK1y01VVNTx1Ur1H01AY4AAAPOmm3t27m8Op6gSrTzWyVwJoInPD8DrRscNyP2O/tO538PShQpelhl9bTVlsulTR3SFoKyB2imiqEyyODyDn1zqagZJAABVWwOBkqM/7qxb4use49xNd6eWpaecKZnmUKxYHA9TnAwM+2kpQgkuzOx7ljpU21YbVYXK47oO39x1ZalaoFTQwRHpl8sqBhs56TpXubetPfqF6X4U0M80isahqgORhgTwEXvj86NGihyg6nWiz7TVwvCvOxRBj8j+jQznRo0wDP/9k="
-/>
-
 **Heute möchte ich Euch gerne zeigen, wie Ihr Euch ganz leicht mit ein paar Handgriffen eine tolle Wärmelampe für zu Hause bauen könnt.**
 
 In den letzten Wochen habe ich mich aufgrund meiner Rückenprobleme mal wieder zur Physiotherapie begeben. Eingeleitet wurde meine halbstündige Behandlung  jedesmal mit 15 Minuten unter der Wärmelampe.
@@ -58,9 +50,9 @@ Das Ergebnis war ernüchternd. Entweder waren die Lampen winzig, stammten von wi
 <RemoteImage
   alt={`Wärmelampe`}
   size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33293076691_4c267e843d_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33293076691_4c267e843d_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAQMDAwIGAwEAAAAAAAAAAQIDBAAFERIhMQZBExQVIjNRMmGB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAv/EACERAAICAQMFAQAAAAAAAAAAAAECAAMhBBExEkFhcZHh/9oADAMBAAIRAxEAPwCezQW24an3QCltBX2HAz327d9qWSOpBDLbUyYhlwpS5oWmGhRSeD8nB+60sKFK9HkAvxPgcyAok/ga5tYmWEwIcz1W0tyVxw94a2EEpI4Tuv8AyjX66uvbPPj8MdpNH1hi3b3n4ZuIl6g3SUiK2yCXCcHzDC+ATwkknik/UkBDYUpKdvqrtpvzc24wExZLWZaCpephKAfYVYznO2P1UfVHjpZVlTB27Zqi3quGMjdSzNuF2jPpx4hOoIbCdJGkIGOK51eOqmoUlTCLFaVBBxqMdOTj+UUUCtiCYoxLI6hdlCejysZtMwNbJRgNaONI7Z71es9xlORjGeUhxsD2kp3TRRVDkZmODP/Z"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265715562_3bc6282887_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265715562_3bc6282887_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBgcI/8QAKhAAAgEDAwIEBwEAAAAAAAAAAQIDBAURAAYhEjEHE0FhFSIjMlFxsaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAIDAQEBAAAAAAAAAAAAAAABAhEhAyIy/9oADAMBAAIRAxEAPwDnRYyJro3boiGP30603avg9Ub2sMdy25cVinan8yFZmJEsgHzRlh9jZz7f3SG17Tuc16qqK1y01VVNTx1Ur1H01AY4AAAPOmm3t27m8Op6gSrTzWyVwJoInPD8DrRscNyP2O/tO538PShQpelhl9bTVlsulTR3SFoKyB2imiqEyyODyDn1zqagZJAABVWwOBkqM/7qxb4use49xNd6eWpaecKZnmUKxYHA9TnAwM+2kpQgkuzOx7ljpU21YbVYXK47oO39x1ZalaoFTQwRHpl8sqBhs56TpXubetPfqF6X4U0M80isahqgORhgTwEXvj86NGihyg6nWiz7TVwvCvOxRBj8j+jQznRo0wDP/9k="
 />
 
 "Du baust doch sonst auch immer alles selbst", meinte mein Mann. Bastel Dir doch selbst eine. Dass just in diesem Moment auch noch eine Anfrage von RS Components reintrudelte, muss ein Wink des Schicksals gewesen sein.

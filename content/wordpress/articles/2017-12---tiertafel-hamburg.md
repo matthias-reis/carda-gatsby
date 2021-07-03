@@ -36,14 +36,6 @@ subTitle: Weihnachts-Futterausgabe
 
 **Ein Herz für Tiere und Menschen bewiesen alle, die in den letzten Wochen für die Tiertafel Hamburg gespendet haben und damit die Weihnachts-Futterausgabe möglich gemacht haben. Zahlreiche freiwillige HelferInnen packten mit an und verteilten Futter, Spielzeug, Decken, Leckerlis und Streicheleinheiten.**
 
-<RemoteImage
-  alt={`Tiertafel Hamburg`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_25166298298_0666acfa9f_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_25166298298_0666acfa9f_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgMEB//EACsQAAEDAgUDBAEFAAAAAAAAAAECAwQFEQAGEiExE0FhBxRRcSIjMkKRof/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAQL/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDEQQSISIxQXH/2gAMAwEAAhEDEQA/AHlH9uAw3OLSC84llq5/JxahYJtvcH4FsUPJPptDrDbdQZzJJhBmUtL0RuPZbKgqxQFBfxwbbg4dpj0bLSjmmppkR5kd/wB2A4SFm6C2G0gK35Fj845vQ80yabNnVKl1BxgSVLfMZ5lK2tOs2So33UAoceeMHqAOpTgbODSaVvzjkdyDHLTLspFEZVrVGLzK1P21aUpKSDwf5cb8YMbsH1DpNYjpi5kitRHl7JktKJZUfPdH+j6wY4DqSvx5WGiFRs7y51Ryyl4xGY8Rp1K1BDhXr1AgHxa/f58YQVuey/SG43TZaeW6hxro3AQgItptfkm2/jvhg/V0RWlR3FLEdCCjp33dBOw+sRCYhxGWH5DaQF/rhJIPJ/bci+w3/rG7UFTHgvmJLjX30stcpkFil9VhTwWBexdSscX3HI74MOcrNxqxNZqE5Ic9spSWdaRp1pP43HcAEH7A84MCJCzg8q3MyGmSovAX/9k="
-/>
-
 Mit vor Ort in der Kirche "Zum Guten Hirten" in Hamburg Langenfelde waren auch zwei Veterinäre sowie eine Tierfriseurin. Von Morgens bis spät in die Abendstunden wurde ausgepackt, sortiert, ausgegeben, geschuftet und geackert, was das Zeug hält. Bis alle Katzen, Hunde und Kleintiere versorgt und auch die letzte Dose Nassfutter verteilt war.
 
 ## Überwältigt von so vielen tollen Spenden
@@ -59,14 +51,6 @@ Auch die Besucher gingen glücklich nach Hause "Ihr seid so toll!", hieß es imm
 Für die nächsten Wochen sind jetzt alle wieder versorgt. Bis ins neue Jahr müssen die Futterspenden reichen. Die nächste Futterausgabe findet am zehnten Januar wieder am gewohnten Ort an der Ecke Hegholt 85 / Haldesdorfer Straße 161 in 22179 Hamburg statt.
 
 ## Nach der Futterausgabe ist vor der Futterausgabe
-
-<RemoteImage
-  alt={`Tiertafel Hamburg`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_39037505831_64da422659_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_39037505831_64da422659_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGB//EACwQAAEDAwIEBAcBAAAAAAAAAAECAwQABRESIQYTMVEHIkFhFBYyM0KBodH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAAP/xAAhEQEAAgIBAwUAAAAAAAAAAAABAAMCEQQTQZEhMUJR8P/aAAwDAQACEQMRAD8AgvDhmzPWO4X12JLRe48plURbWoOpSMYU1p2P5Z7VoHzZPShxEFy6KWrILpt+rPfOySfXc9zS9guE6XNiRFSmorT6whS246Tpz0OO2cdaZudt4gLzYiXFp1t3ZGvQwrOcDykkkHfoO1Dr5FutY4CeY1ppHeS7f31JS+zeJLgkNvwZL0VJ5i0mEhsqAIJxlzJPXA9z3opS53KS9GJflkkjfW9j+Z2orE5Gb66CaZU19ovcJkIqjok3NMFxhYcQ2HMJKwcgnH1EH3/VU7nirAZllbDVmRpUFBa1OLOo9fKAmsn4ih/EwpE+Kktx2VBDbSlJyCCSoICRjHr/ALU5zFPP8xzYDoKVhVo0LC5WeyhLm4SeD0JcIVGcfUVK+04RknPbHrRWeTDlScdaKjjh8nzLrL2J/9k="
-/>
 
 Die Weihnachts-Futterausgabe ist gut gelaufen und es konnte damit vielen Menschen und ihren tierischen Begleitern ein glückliches Weihnachtsfest ermöglicht werden. "Das bedeutet nicht, dass wir uns jetzt alle zurücklehnen können.", sagt Kara. "Nach der Futterausgabe ist vor der Futterausgabe. Jetzt heißt es wieder Spenden sammeln, damit wir am 10. Januar wieder allen helfen können." Spendet also bitte alle soviel Ihr könnt. Besonders gefragt ist immer Spezialfutter zum Beispiel für Tiere mit Diabetes oder Nierenleiden. Auch getreidefreies Futter wird immer gebraucht.
 

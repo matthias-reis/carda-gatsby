@@ -28,6 +28,10 @@ errors: {}
 subTitle: Teil 1/2 - Fair Trade, Fair Banking? Was macht eigentlich mein Geld?
 ---
 
+**"Was macht eigentlich mein Geld?" - Das hatten sich die Aktivisten von urgewald schon sehr lange gefragt und gründeten deshalb 1992 den Verein. Mit einer umfangreichen Broschüre klären sie jetzt Verbraucher/innen über das Geschäft mit unserem Geld auf.**
+
+Wir fragen uns immer häufiger, wo die Produkte herkommen, die wir konsumieren. Wir leben [vegan](/tag/vegan/), kaufen Bio- und Fair Trade Produkte und treffen unsere Kaufentscheidungen bewusster, als noch vor einigen Jahren.
+
 <RemoteImage
   alt={`urgewald`}
   size="medium"
@@ -36,13 +40,13 @@ subTitle: Teil 1/2 - Fair Trade, Fair Banking? Was macht eigentlich mein Geld?
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBwX/xAAoEAACAQMEAQQBBQAAAAAAAAABAgMEBREABhIhMQcTIkFRFCNhkfD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQB/8QAIREAAgIBAgcAAAAAAAAAAAAAAQIAEQMEgRITITEzQXH/2gAMAwEAAhEDEQA/AMs25tWorbRLc3MMNGje2ryFsu47IVVVifH8adoPTG6y2yCvhijaKZA8XxdGcMRgAOF7OfHnon60z+k112hbtlWx7jXWaK6xSzSP77r7qAueIPxJ8AEffetDG6tkTHnVXiwyxhhIGKJKysAADgxZBx1nOdIXTFxcsL5AaRCdpPE23DDV1FDUmOGqiZVKsr8SxGSA4BTrrJ5Y7HfeuHuCxSW+uqqaRqd3pgpd6edZkHI9DkpIz+R9ZGqdvG6/T+otE1DPfKF4hA8cafpfjEzIVDLiP4nvyNS5W3CkmaFlt9opW5COKGnV46kKMqHdQAjdZzn5d50ZMHL9GHE48i19ELdVTUNmp5yUkVkContgFSSWOTjvP+OnyC1Dc246ETSRwGAqIgsCGNFXDceGAD+O8gD6OjRqHO7K6Ue5i8jGtxF3ftbWbX3Ja4bfUH2jxliUxoFT9zBBUAK2SM5wPOk+ZnutXcblXT1D1Ec7BSr8cdFm7x94x/ejRq1AKBmkk9J//9k="
 />
 
-**"Was macht eigentlich mein Geld?" - Das hatten sich die Aktivisten von urgewald schon sehr lange gefragt und gründeten deshalb 1992 den Verein. Mit einer umfangreichen Broschüre klären sie jetzt Verbraucher/innen über das Geschäft mit unserem Geld auf.**
-
-Wir fragen uns immer häufiger, wo die Produkte herkommen, die wir konsumieren. Wir leben [vegan](/tag/vegan/), kaufen Bio- und Fair Trade Produkte und treffen unsere Kaufentscheidungen bewusster, als noch vor einigen Jahren.
-
 Doch was machen eigentlich unsere Banken? Was passiert mit unserem Geld? Wir möchten für alles genaue Inhaltsangaben haben. Kekse mit Palmöl? Kommen nicht in Frage. Mit [Gelatine geklärter Wein](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/) ? Auf gar keinen Fall. Sollten wir uns denn unsere Bank nicht mindestens genau so wohl überlegt aussuchen?
 
 ## urgewald legt schmutzige Geschäfte offen
+
+Bei _urgewald_ hat man es sich zur Aufgabe gemacht, schmutzige Geschäfte offen zu legen. Bekanntheit erlangte der Verein, als er 2010 die Broschüre "Wie radioaktiv ist meine Bank" veröffentlichte. Nach der Atomkatastrophe von Fukushima wollte einfach jeder wissen, ob auch seine Bank beteiligt war, am Geschäft mit der Atomkraft.
+
+Das Heft "Was macht eigentlich mein Geld" zeigt jetzt, wie wir unsere Geldgeschäfte als wirkungsvollen Hebel gegen Rüstungsgeschäfte und Klimakiller einsetzen können. Aufgeklärt wird dabei auch darüber, was Alternativbanken anders machen, als die herkömmlichen.
 
 <RemoteImage
   alt={`urgewald`}
@@ -52,13 +56,11 @@ Doch was machen eigentlich unsere Banken? Was passiert mit unserem Geld? Wir mö
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAArEAACAAUCBAQHAAAAAAAAAAABAgADBAURBpEHEhMhMTJBsRUiI0JiweH/xAAXAQEBAQEAAAAAAAAAAAAAAAACBAED/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECAxESQTH/2gAMAwEAAhEDEQA/AIppjTtddg5oKObU9PHOJYB5c+GdjGwk6EvToFFkrDnvjp/2G/BhunaK6ahKs89EBUZOFXPu0V+inVDKPqTe34GJ1TustlMrtHhIhczh3fHQD4HW5HqZYGRvCS86Fu9Cizay3T6Wm5lV5zgFUycZOD4R08Zj8uWE9mGfUKuxjH6+YT9OXOSZZUmQzDLA91+Ye0JUY6B3t8JBw4r5tHZJXT++a7HfH6ir2i/VBljKjeCCOsQS9GNRep3J5RvGXvNfNqEdX8pBBGfQwQQjD//Z"
 />
 
-Bei _urgewald_ hat man es sich zur Aufgabe gemacht, schmutzige Geschäfte offen zu legen. Bekanntheit erlangte der Verein, als er 2010 die Broschüre "Wie radioaktiv ist meine Bank" veröffentlichte. Nach der Atomkatastrophe von Fukushima wollte einfach jeder wissen, ob auch seine Bank beteiligt war, am Geschäft mit der Atomkraft.
-
-Das Heft "Was macht eigentlich mein Geld" zeigt jetzt, wie wir unsere Geldgeschäfte als wirkungsvollen Hebel gegen Rüstungsgeschäfte und Klimakiller einsetzen können. Aufgeklärt wird dabei auch darüber, was Alternativbanken anders machen, als die herkömmlichen.
-
 Noch heute haben drei Viertel aller Deutschen ein Konto bei einer der großen bekannten Banken und Kassen. Nur rund ein Prozent aller in Deutschland angelegten Geldanlagen wird in ethische und ökologische Standards investiert. _urgewald_ möchte wissen, was mit unserem Geld passiert, wenn wir keine Fragen stellen und durchleuchtet für uns die dunkle Welt der Finanzgeschäfte.
 
 ## Banken besitzen einen immensen Einfluss auf Rüstungsgeschäfte, Klimawandel und Entwicklung
+
+Liest man die Broschüre und beschäftigt man sich mit dem Thema, wird einem klar, was Banken und auch Versicherungen für einen Einfluss besitzen auf Rüstungsgeschäfte, Klimawandel und die technische sowie ökosoziale Entwicklung.
 
 <RemoteImage
   alt={`urgewald`}
@@ -67,8 +69,6 @@ Noch heute haben drei Viertel aller Deutschen ein Konto bei einer der großen be
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33604807880_11fd30ff9c_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAtEAABBAEEAAQDCQAAAAAAAAABAgMEEQUABhIhBxMUMSIyUSNBQmGBgpGhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCm46B6zCzW30D42FpAqrBSdTvK7j2wjCc8jl0xZjDSUNxYLa1PU4AoXyASoGhZqhfWqrt6Uh5lCb+Ycf51z5t6RIxu+25kqU4/DQ2B5r4pDNFSQ1y7oJ40P6F6BoazOW24wxKU8pyLINuGTS2HbSCkpUEgXQvkD7DsaUN7ebmA3k3SypbnJt1TKOKFrRVKr7uSCg19b1QtmbuiRMXNddlPPtvqDjTYUl4lJsd2b9/r+ulPeeTgTZ84Rvs2lxEy0pLQbotEhYodfKsn9n5aBw2nnn1OJTxrjX4tZ+1thw8w/KyeSnT1Nrlvj0rLnBsgOKoKBsGvewBo0aBsb8PdqxY7jbEGalDg+JPrV0eyf9J1gZbw92yUFTEJ9l1DTraFCQogBaCkgg9Ed6NGg//Z"
 />
-
-Liest man die Broschüre und beschäftigt man sich mit dem Thema, wird einem klar, was Banken und auch Versicherungen für einen Einfluss besitzen auf Rüstungsgeschäfte, Klimawandel und die technische sowie ökosoziale Entwicklung.
 
 > "Follow The Money"
 

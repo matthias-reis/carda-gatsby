@@ -119,4 +119,4 @@ Das junge Berliner Unternehmen [Kräuterkontor](https://www.adcell.de/promotion/
 
 Und auch sonst wird der Natur Respekt entgegen gebracht. Alle Verpackungen bestehen aus nachwachsenden Rohstoffen. Der Strom kommt von Greenpeace Energy und als Geschäftsbank hat man sich für die faire Ökobank GLS entschiden. Der Versand erfolgt über "Go-Green". Das DHL-Projekt arbeitet mittels Ausgleichszahlungen am Ausgleich von Klimaschäden.
 
-Hat Euch mein Testbericht gefallen? Falls Ihr neugierig geworden seid, könnt Ihr gerne auch mal auf der [Homepage des Kräuterkontors](https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2F) vorbeischauen. Wenn Ihr in Zukunft nichts mehr auf meiner Seite verpassen möchtet, [abonniert am besten meinen Newsletter](#newsletter). Ich informiere Euch dann einmal pro Woche über meine aktuellsten Beiträge.
+Hat Euch mein Testbericht gefallen? Falls Ihr neugierig geworden seid, könnt Ihr gerne auch mal auf der [Homepage des Kräuterkontors](https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2F) vorbeischauen.

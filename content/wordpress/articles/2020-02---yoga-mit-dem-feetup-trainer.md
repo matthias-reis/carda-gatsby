@@ -103,5 +103,3 @@ Es gibt den Feetup Trainer in verschiedenen Farben. Neben der klassischen, weiß
 Wenn Ihr neugierig geworden seid und gerne mehr erfahren möchtet, schaut Ihr am besten auf der [Feetup Homepage](https://de.feetup.eu/) vorbei. Dort findet Ihr jede Menge weitere interessante Tipps und Infos.
 
 **Leser⋆innen meines Blogs erhalten bis Ende März 2020 beim Kauf eines Feetup Trainers 10 Euro Rabatt. Gebt dazu einfach den folgenden Rabattcode an: feetup8393.**
-
-Hat Euch mein Testbericht gefallen? Das freut mich sehr! Wenn Ihr gerne weiter mitfiebern wollt, [abonniert am besten meinen Newsletter](#newsletter). Ich halte Euch über neue Beiträge auf dem Laufenden!

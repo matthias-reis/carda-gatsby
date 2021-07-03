@@ -73,5 +73,3 @@ Presst die Limette aus und gebt den Saft zusammen mit dem Fruchtfleisch der Aube
 **Tipp für den Granatapfel:** Füllt eine große Schüssel, in der Eure Hände und der Granatapfel bequem zusammen Platz finden, mit Wasser. Gebt den Granatapfel hinein und schneidet ihn unter Wasser in zwei Hälften. Anschließend pult ihr mit den Fingern die Kerne heraus. Gießt anschließen alles durch ein feines Sieb und sortiert die Reste aus. So spritzt Ihr Euch nicht mit dem roten Saft ein. Der lässt sich bekanntlich nur sehr schlecht aus der Kleidung (und den neuen weißen Küchengardinen) entfernen.
 
 <Gallery name="babaghanoush" />
-
-Gefällt Euch das Rezept? Dann wünsche ich Euch viel Spaß beim Kochen! Wenn Ihr in Zukunft nichts mehr auf dieser Seite verpassen wollt, [abonniert am besten meinen Newsletter](#newsletter). Ich freue mich auf Euch!

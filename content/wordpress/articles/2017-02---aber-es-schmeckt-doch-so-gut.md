@@ -30,15 +30,6 @@ errors: {}
 subTitle: Klimaschutz und vegane Ernährung
 ---
 
-<RemoteImage
-  alt={`Klimaschutz`}
-  size="medium"
-  title={`Biolandhof`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_biogemc3bcseanbau-640x480__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_biogemc3bcseanbau-640x480__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAoEAACAgEDAwQBBQAAAAAAAAABAgMEEQAFIRIxQQYiUXETBxQVMpH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQG/8QAIBEAAgICAAcAAAAAAAAAAAAAAQIAEQMEBRIUIUGRwf/aAAwDAQACEQMRAD8A7RtybXaRW/e1o8kALK4RjnA/qee5Gm9ra6lNSbE0KAfJyf8AANcZG17FW3OtMbzwQxEtJGG6/pQccZONV8/qPb7EEQ/nZkeUsY4lsqrMRyMqB3486F+IFWKk+orHqArZEpJU21yqiUZfAX25zn651it7PG6F4el07ZXnGovdN/aCAXpN3s0FSs8hhsWAZA5wY2IwAOxHSecnSfdP1NrbRuG32I7TPPJKYpo5LH5I39gPQwUccEfR05N9we4uA+pjYXI6v6g/GpmryV3qrMTMWBCxsBlWYY4GOz9uD5B1S098uHYRQr0K5aMkrIyI8PyCACGPnnI7edGjWazt09FRdjzfypQzGL796pLK8u8U2kNZJOt5WLGQtjBVAT0Dnz8axyy0KYjTbdvrx9eXyKw9hJ5yxGcnnRo1PldmXmuJaf/Z"
-/>
-
 **"Klimaschutz und vegan? Wieso hängt das zusammen? Warum genau ist es eigentlich gut für die Umwelt, wenn ich vegan lebe?"**
 
 Ich werde das sehr häufig gefragt. Daher habe ich mich entschieden, mal ein paar Fakten zum Thema zusammenzutragen.
@@ -88,6 +79,15 @@ Aus den Resten, die bei der Sojaölgewinnung entstehen, kann man perfekt Sojasch
 In einer [Studie](https://www.vebu.de/aktuelles/pressemitteilungen/1310--aktuelle-studie-der-universitaet-wien-zeigt-rindfleisch-ist-25-mal-klimaschaedlicher-als-bisher-angenommen-) hat man an der Universität Wien herausgefunden, dass die "Produktion" eines Kilogramms Rindfleisch soviel Treibhausgas erzeugt, wie eine Fahrt mit einem durchschnittlichen Europäischen Kleinwagen auf der Autobahn über 1.600 Kilometer Entfernung. Geleitet haben die Studie Kurt Schmidinger und Elke Stehfest von der PBL Netherlands Environmental Assessment Agency. Die Rede ist in der Studie von in Brasilien "erzeugtem" Rindfleisch.
 
 Der zusätzlich anfallende CO<sub>2</sub>-Ausstoß, würde man das Fleisch anschließend nach Deutschland transportieren, ist in den errechneten 335 Kilogramm CO<sub>2</sub> (Kohlendioxid) noch gar nicht enthalten.
+
+<RemoteImage
+  alt={`Klimaschutz`}
+  size="medium"
+  title={`Biolandhof`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_biogemc3bcseanbau-640x480__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_biogemc3bcseanbau-640x480__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAoEAACAgEDAwQBBQAAAAAAAAABAgMEEQAFIRIxQQYiUXETBxQVMpH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQG/8QAIBEAAgICAAcAAAAAAAAAAAAAAQIAEQMEBRIUIUGRwf/aAAwDAQACEQMRAD8A7RtybXaRW/e1o8kALK4RjnA/qee5Gm9ra6lNSbE0KAfJyf8AANcZG17FW3OtMbzwQxEtJGG6/pQccZONV8/qPb7EEQ/nZkeUsY4lsqrMRyMqB3486F+IFWKk+orHqArZEpJU21yqiUZfAX25zn651it7PG6F4el07ZXnGovdN/aCAXpN3s0FSs8hhsWAZA5wY2IwAOxHSecnSfdP1NrbRuG32I7TPPJKYpo5LH5I39gPQwUccEfR05N9we4uA+pjYXI6v6g/GpmryV3qrMTMWBCxsBlWYY4GOz9uD5B1S098uHYRQr0K5aMkrIyI8PyCACGPnnI7edGjWazt09FRdjzfypQzGL796pLK8u8U2kNZJOt5WLGQtjBVAT0Dnz8axyy0KYjTbdvrx9eXyKw9hJ5yxGcnnRo1PldmXmuJaf/Z"
+/>
 
 Die Bilanz von in Brasilien "produziertem" Rindfleisch fällt besonders schlecht aus, weil sich die Weideflächen dort auf ehemaligem Regenwaldgebiet befinden. Wie die Vereinten Nationen berichten, gehen rund 70 Prozent der abgeholzten Regenwaldflächen auf das Konto derartiger Weideflächen. Der Rest fällt, bis auf einen sehr kleinen Teil, dem Anbau von Futtermitteln zu.
 

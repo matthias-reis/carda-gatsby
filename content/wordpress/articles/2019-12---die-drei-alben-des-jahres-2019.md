@@ -70,5 +70,3 @@ Ich habe wirklich lange hin und her überlegt, welches Album für mich die Platt
 Am Ende war es dann doch klar: "Blood Year" von [**Russian Circles**](/2017/02/russian-circles-knust-hamburg-2017/) hat das Rennen gemacht ( [Hier im Blog zu finden in der Playlist für den September 2019](/2019/08/12-songs-fuer-den-september/) ). Nicht nur ihr Auftritt beim diesjährigen [**Arctangent Festival**](/2019/09/arctangent-festival-2019-2/)  hat mich erneut darin bestätigt, dass es sich bei der Post-Metalband um einen meiner erklärten Favoriten handelt. Das Album hat für mich unbedingt eine Auszeichnung verdient und sollte in dieser Liste nicht fehlen.
 
 <YouTube id="9ANmCp69lD4" />
-
-Hat Euch unsere Auswahl gefallen? Das ist schön. Wir haben vor, Euch auch in Zukunft mit Musiktipps zu versorgen. Bleibt also am besten dran. Wer nichts verpassen möchte, kann [gerne meinen Newsletter abonnieren](#newsletter). Dann halte ich Euch auf dem Laufenden.

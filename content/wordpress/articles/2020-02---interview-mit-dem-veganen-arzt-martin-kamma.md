@@ -245,6 +245,4 @@ Mit meinem Blog versuche ich hier eine Brücke zu schlagen, um aktuelle wissensc
 
 [Martin Kammas Blog heißt "Vegan auf Rezept"](https://vegan-auf-rezept.blogspot.com/) - dort bloggt der Mediziner regelmäßig zu veganen Themen.
 
-Hat Euch mein Interview gefallen? [Abonniert gerne meinen Newsletter](#newsletter), um in Zukunft nichts mehr auf meiner Seite zu verpassen.
-
 Fotos im Text: Martin Kamma privat

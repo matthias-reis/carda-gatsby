@@ -30,14 +30,6 @@ errors: {}
 subTitle: Schöne Erinnerungen in Asche konserviert
 ---
 
-<RemoteImage
-  alt={`Brautstrauß`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-9-von-9__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-9-von-9__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUBBgcDBP/EAC8QAAEDAwIDAw0AAAAAAAAAAAECAwQABREGIRITQQdRoRQWIjEyUmFxkaKxsvD/xAAZAQACAwEAAAAAAAAAAAAAAAABBQACAwT/xAAhEQACAwAABgMAAAAAAAAAAAABAgADEQQFEiExQaGxwf/aAAwDAQACEQMRAD8Ax63xw04A8AjHeat8FllSR7JzVh7M0sQtbXR9bDbjTUJS0tuoCwCdtvpSK63VAkNNLGGXJbjj7yGRzEowPhsBjxorYCwUeYTW2dXqTrKzlmyWS4ApVGlILZSBulXMCj9v6mvH2lxmvNu3yG0YV5UklWffYbUfE5qbxc5E7QLRWXREj3xhmOF7EI5C+MED1Di33765aukIf7PIiiQVpejde9kA/hNL+aArbTnpvsZN+FO/P5NI05pxi1Tpcl+W1IMiMY5ScgDJyDtg7b9etLJGi4XLTx3JKV8SitbaQCsEY4TnIx8sUUU3WtVOgTiNjZmxfqLS0eTpyJabbcUMJRPM2Q6tO7p4cAejj+xSC46SW401DcvbjjCUpKmk5KQEjCc5JGdzjrRRVLK1YgGRHI7z/9k="
-/>
-
 **Vor genau vier Jahren, am 5. Juli 2013, gaben Matze und ich uns [das Ja-Wort](http://hochzeit.smartr.de/). Wundervoll romantisch in einem großen Garten. Den wundervollen Brautstrauß stiftete meine Mutter.**
 
 Den Strauß habe ich nicht geworfen, sondern seitdem in einer Schachtel aufbewahrt. Weil er inzwischen nicht mehr besonders schön aussieht und die große Schachtel ehrlich gesagt auch nur Platz wegnimmt und immer mehr Staub fängt, habe ich mir zur Feier unseres heutigen Hochzeitstages etwas Besonderes ausgedacht.
@@ -138,4 +130,3 @@ Ich wünsche Euch viel Spaß beim Nachbasteln! Genießt Euren nächsten Hochzeit
 [Unser Hochzeitsblog](http://hochzeit.smartr.de/)
 
 [Die Sprache der Blumen](/2009/06/die-sprache-der-blumen/)
-

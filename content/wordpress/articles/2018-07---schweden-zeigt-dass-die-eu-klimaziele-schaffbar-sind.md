@@ -85,9 +85,10 @@ Bereits im Jahr 2012 hatte Schweden gemeinsam mit Norwegen ein Abkommen zur Stro
 
 "Nachdem die Entscheidung über die Steigerung der Ambitionen getroffen wurde, entschied man sich für einige Investitionen. Zahlreiche Windturbinen werden in den kommenden Jahren fertiggestellt", sagte Markus Selin, Analyst bei der schwedischen Energieagentur, gegenüber dem World Economic Forum.
 
-<pre>
-  [HIER FINDET IHR ALLE INFOS ZUM EARTH OVERSHOOT DAY
-  2018](/2018/07/earth-overshoot-day-2018/)
-</pre>
+[HIER FINDET IHR ALLE INFOS ZUM EARTH OVERSHOOT DAY 2018](/2018/07/earth-overshoot-day-2018/)
 
-**\*Interessierte finden hier [die Analyse der CAN als praktisches PDF](http://www.caneurope.org/docman/climate-energy-targets/3357-off-target-ranking-of-eu-countries-ambition-and-progress-in-fighting-climate-change/file). Quellen:** weforum.org, bento.de, energimyndigheten.se, ec.europa.euF **Titelbild:** [Oimheidi](https://pixabay.com/de/users/Oimheidi-1660138/), pixabay
+\*Interessierte finden hier [die Analyse der CAN als praktisches PDF](http://www.caneurope.org/docman/climate-energy-targets/3357-off-target-ranking-of-eu-countries-ambition-and-progress-in-fighting-climate-change/file).
+
+Quellen: weforum.org, bento.de, energimyndigheten.se, ec.europa.euF
+
+Titelbild: [Oimheidi](https://pixabay.com/de/users/Oimheidi-1660138/), pixabay

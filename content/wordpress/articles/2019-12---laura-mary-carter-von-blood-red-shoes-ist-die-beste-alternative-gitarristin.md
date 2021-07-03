@@ -59,6 +59,4 @@ Die **Blood Red Shoes** gründeten sich 2005 in London. Das Projekt besteht aus 
 
 Nachdem sie im Jahr 2007 bereits unglaubliche 300 Konzerte zusammen gespielt hatten, wurde das Label V2 auf die beiden Talente aufmerksam und nahm sie unter Vertrag. Am 14. April 2008 erschien dann die Debutplatte "Box Of Secrets" - dicht gefolgt von "Fire Like This" (2010), "In Time To Voices" (2012), "Blood Red Shoes" (2014) und "Tied At The Wrist: Early Recordings" (2015). Zwischen 2015 und 2019 gab es dann eine kleine Auszeit, die die beiden nutzten, um alleine Musik zu machen. Im April diesen Jahres erschien dann mit "Get Tragic" der nächste gemeinsame Meilenstein (Hier im Blog zu finden in der [Musikliste für den Mai 2019](/2019/04/12-songs-fuer-den-mai/) ).
 
-Hat Euch mein Artikel gefallen? Das freut mich! Um in Zukunft nichts mehr zu verpassen, [abonniert gerne meinen Newsletter](#newsletter). Ich freue mich auf Euch.
-
 Quelle / source: [MusicRadar](https://www.musicradar.com/news/the-10-best-alternative-guitarists-in-the-world-today?utm_content=buffere69bc&utm_medium=social&utm_source=facebook&utm_campaign=buffer-musicradarfb) Bilder / pictures: [Sonic PR](http://sonicpr.co.uk/artists/blood-red-shoes/)

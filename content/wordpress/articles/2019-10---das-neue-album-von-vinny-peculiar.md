@@ -87,4 +87,3 @@ Insgesamt ist "While You Still Can" eine schöne Platte, die es sich auf jeden F
 
 "While You Still Can" erscheint am 28. Oktober. Online könnt Ihr Vinny Peculiar jederzeit [auf seiner Homepage besuchen](https://vinnypeculiar.com/). Dort hält er seine Fans permanent auf dem Laufenden. Psst: Ihr findet dort auch kostenlose Downloads.
 
-Hat Euch meine Rezension gefallen? Das freut mich! Wenn Ihr in Zukunft nichts mehr verpassen möchtet, [abonniert gerne meinen Newsletter](#newsletter). Dann werdet Ihr regelmäßig über neue Artikel informiert. Solltet Ihr selbst auch Musiker\*innen sein,  [nehmt für ein Interview oder/und eine Review gerne Kontakt mit mir auf](mailto:info@cardamonchai.com). Ich freue mich auf Euch!

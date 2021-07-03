@@ -36,14 +36,6 @@ errors: {}
 subTitle: Kräftigender Smoothie
 ---
 
-<RemoteImage
-  alt={`Hanf`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_35362415875_303a38ecae_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_35362415875_303a38ecae_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYH/8QAKxAAAgEDAgMHBQEAAAAAAAAAAQIDAAQRBRIGITETIkFRcYGRFDJhgqGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQb/xAAeEQACAgEFAQAAAAAAAAAAAAAAAQIDEQQSEyExQf/aAAwDAQACEQMRAD8As6xdNfS/RafINjnvMp+7xIH4H9p0uiLJpySuJXVYwoZm648Caxtg0OiXk9kzSzbChWRsZ6D4pjPxnGoMItZM4296UgD2FBOyLeGV06G3apR8Lk+joHxhh+xoqb6dpeyMe9G2987Op+TRSN0fgvtdMyOrXAbXZmVg2Y0OQc+ApbIQ7lRgAmq3EEwsb2OUg9nswSkRwD6D250ri1ZbmUpaCSWQHmEjbl6+VFOLyzRo1NfCsvxHfZru2a3tWSEOGiU74F3BuQ5nyPKisxBxQscEFveWjqsMKLGRKQD1zjAx1/2iqkc5K1ZP/9k="
-/>
-
 **Kennt Ihr das? Man kommt einfach nicht dazu, Dinge zu erledigen und plötzlich hat sich ein riesiger Berg Arbeit angehäuft, der erledigt werden will. Da bleibt oft kaum Zeit für eine Pause. Zwischendurch mal schnell "was brutzeln" klappt einfach nicht.**
 
 Auf dem Schreibtisch stapeln sich die Akten. Das E-Mail-Postfach ist voll und fünf Chat-Fenster poppen schon seit gefühlten Stunden vor Euch auf. Der Magen sagt Euch, dass die Mittagspause längt überfällig ist. Aber bloß nicht zu lange, sonst klappt das heute Abend nicht mehr mit der Reinigung und dem Einkaufen und der Steuererklärung.

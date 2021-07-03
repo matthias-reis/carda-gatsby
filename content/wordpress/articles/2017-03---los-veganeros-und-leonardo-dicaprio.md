@@ -42,14 +42,6 @@ errors: {}
 subTitle: Das neue Welt Vegan Magazin ist da!
 ---
 
-<RemoteImage
-  alt={`Los Veganeros`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072363362_5d21a8c88a_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072363362_5d21a8c88a_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAApEAACAQMEAQIGAwAAAAAAAAABAgMEBREABhIhMQcTFBVBUWGBcdHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAERIhAyIx8P/aAAwDAQACEQMRAD8Ak7hV01go7bJVR0tXO4fnA07QRuwxnmCOZ+nQ/nOmFPvtobtRW28bYtMtrnZBCaanall5sQBiRyesthsjrP5GuTdEMaNtuSOjtyVtXTsWcgyRxZlCAxKxAHLDE9frV5t2w2zcm794W67JHW/KpaA00sTCGSF+RVgJEHLsKvRzj6Y0VXruJjuK4N42ia3VMsGxZjB8UaOT3LwTiTBz0VIAAySR4Hel93ko2t9Zcq+SC3ZllpxQtM07Q8DgKpGC3LAOcdgjWrUvpNsqnUmOz1Yy/IcblOeTEEZIz5x1n86yX1r2bQWS82/5JQtS0MlK7TDm0jqysQTliT2Cn+OqVsVEhtqPkzht73+KWmSlmt8bUcQihdrdDKyKoyApZSR/feq23eq2+KOaD4q7UddDKQxjmt8S9jiQcpxJ7b76NGiSc6mvGikGxGd89U9zVdTJC1UkcAJjMMKCJGwfJK4c+PHLHeoO510tTKHdY4lrJJKiSOnHtrz4gdD7YUdfvRo1qBuQqMq+9n//2Q=="
-/>
-
 **Der Frühling ist endlich da. Und bald auch der zweite Teil von  _Los Veganeros._  Wir haben deshalb in der neuen Ausgabe ein exklusives Interview mit dem Macher des Films Lars Oppermann für Euch! Außerdem haben wir uns unter anderem mit den Gründern des In-Modelabels  _Delikate Rayne_ unterhalten!**
 
 Die Arbeit am Welt Vegan Magazin 1/2017 hat wieder unglaublich viel Spaß gemacht und wir durften dabei viele tolle Menschen kennenlernen. Ein ganz besonderes Highlight ist für mich das umfangreiche Yoga-Special ab Seite 90. Ihr findet darin ein paar tolle Übungen, die ihr ganz leicht zu Hause nachmachen könnt.
@@ -83,7 +75,7 @@ So, mehr wird nicht verraten! Jetzt auf zum Kiosk, sichert Euch Eure Ausgabe! Un
 <RemoteImage
   alt={`Los Veganeros`}
   size="full"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGAgUH/8QAJxAAAgIBBAICAgIDAAAAAAAAAQIDBBEABRIhBjFBURNhIjJxkcH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHhEAAwEAAgIDAAAAAAAAAAAAAQIRAAMSIjGR8PH/2gAMAwEAAhEDEQA/AF9m8ZgWqz0zYa0Y2WIyqnGMsDx7b0M9dfeTrO+x79tlXbIa8dR5bEbSRV9sp17HJVYAuea4VcnHR9560hs3l9q5vm01okWKFrMSSmQjkVV+TsT6QYHyf+6q/LN+qWrFG/tqvI1KMwS2KrGdYg7BlyY/vDD0cdfrUArcaFiKdoAD8ioxgzfhrR7n4RvJ3V413aqXVI2qpDPBiLkq8UXiMkEqe+veMEai983zaa+3lNqF2xYdRiPqLi598mPo/wCM++tXPg9g1rm/NXpWlsWGro1JAjWFh/GWV5RLIpUMZCq+z0cgZGvI9y2+bM7zMTEIuDsvRWQddn9EH7+dMB3VSRDj4ozLaB9/fnSvi+4hL8ks8bSw83MqBwrycgy/3wcYznofGrnxrf4NqKLDVtSVq1hbaxSWgSyqpVYi3DJUZz/r60aNVViTLgeNYDNmxvAi8otb4i2WsyB1MUkqNGisQcIPx/xxhfR+O9cq7ZkvbhY/JJIFm5zgBv65JPH94zo0aa33poo7Tf/Z"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072363362_5d21a8c88a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072363362_5d21a8c88a_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAApEAACAQMEAQIGAwAAAAAAAAABAgMEBREABhIhMQcTFBVBUWGBcdHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAERIhAyIx8P/aAAwDAQACEQMRAD8Ak7hV01go7bJVR0tXO4fnA07QRuwxnmCOZ+nQ/nOmFPvtobtRW28bYtMtrnZBCaanall5sQBiRyesthsjrP5GuTdEMaNtuSOjtyVtXTsWcgyRxZlCAxKxAHLDE9frV5t2w2zcm794W67JHW/KpaA00sTCGSF+RVgJEHLsKvRzj6Y0VXruJjuK4N42ia3VMsGxZjB8UaOT3LwTiTBz0VIAAySR4Hel93ko2t9Zcq+SC3ZllpxQtM07Q8DgKpGC3LAOcdgjWrUvpNsqnUmOz1Yy/IcblOeTEEZIz5x1n86yX1r2bQWS82/5JQtS0MlK7TDm0jqysQTliT2Cn+OqVsVEhtqPkzht73+KWmSlmt8bUcQihdrdDKyKoyApZSR/feq23eq2+KOaD4q7UddDKQxjmt8S9jiQcpxJ7b76NGiSc6mvGikGxGd89U9zVdTJC1UkcAJjMMKCJGwfJK4c+PHLHeoO510tTKHdY4lrJJKiSOnHtrz4gdD7YUdfvRo1qBuQqMq+9n//2Q=="
 />

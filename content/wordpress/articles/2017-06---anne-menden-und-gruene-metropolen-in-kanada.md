@@ -28,17 +28,17 @@ errors: {}
 subTitle: Das aktuelle Welt Vegan Magazin
 ---
 
+**Nicht nur der Vollständigkeit halber, poste ich nun endlich meinen Beitrag zum aktuellen Welt Vegan Magazin. Auch, wenn es schon eine Weile in den Ladenregalen steht. Ich komme leider erst jetzt dazu.**
+
+Wer es noch nicht erworben hat, kann dies natürlich auch jetzt noch tun, auch wenn die neue Ausgabe schon wieder in der Mache ist. Ich bin sehr stolz, als Textchefin für das Heft fungieren zu dürfen und kann Euch auch dieses Mal wieder einige Artikel ans Herz legen.
+
 <RemoteImage
   alt={`Anne Menden`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34605728674_f80099782f_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34605728674_f80099782f_k__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAwj/xAArEAACAQMDAwIGAwEAAAAAAAABAgMEBREABhIHITETYSJBUXGBkRQkQqH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEAv/EABwRAAIDAQADAAAAAAAAAAAAAAECAAMRIUHh8P/aAAwDAQACEQMRAD8AWrbs7a6UyotkgbHblJI7MfznUpddv2ttzSUNrZqWSmgE4p2y6kHK5DE5GMHz+9I1BL/VRV5gDJ7sWP8A3RF1YnWKK5tHcHirKn0aaCnipw7E/FmR38qiqzH7gY76i+lWXMyXVcytpMzqDbFJfYRNRXijgZyFhiqI2DPzj9VCCpI+JQ2B5yrDyNTFwsU1JtdLz6sJpnqWoVi+ISCRASxIxjHn5679EqW/VV+lVrZOLatDHTTt/HwHUSF0c8iBzHIkN9O2rLqTbBa9m0lMYKeENdalgkOOHHieJwPYn37e2iPUqqYhLi7DDEy3zxJRq7yJx+obHy+2hnclStV1Q3DSpKxpqi30dNKEk/y8uGOe3fDYz76UrFUc7eGhqonjIzyjcMp/I7a8+b83NWW7qjfntkVJVCoipqdaqaTMULR8XyeOc4IIxp1p5CIoPMjd0+phblroyvExqiPJyJVn78iM+AMd/c6lur1VystrDqB6lRJKpDZJUqQM/o6haSpo9xyR0e794FYGMsk1RRB4YJWKpxj4lAWUDODjyG1r9VLzY6qjtcVhuVDXcJHaZqeLgRhFVS31OB59tBYAVn7zFV1qjgIOep//2Q=="
 />
-
-**Nicht nur der Vollständigkeit halber, poste ich nun endlich meinen Beitrag zum aktuellen Welt Vegan Magazin. Auch, wenn es schon eine Weile in den Ladenregalen steht. Ich komme leider erst jetzt dazu.**
-
-Wer es noch nicht erworben hat, kann dies natürlich auch jetzt noch tun, auch wenn die neue Ausgabe schon wieder in der Mache ist. Ich bin sehr stolz, als Textchefin für das Heft fungieren zu dürfen und kann Euch auch dieses Mal wieder einige Artikel ans Herz legen.
 
 ## Anne Menden berichtet von Ihrem Engagement als Sea Shepherd Aktivistin
 

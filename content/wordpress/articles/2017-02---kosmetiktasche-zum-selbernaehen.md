@@ -33,19 +33,17 @@ errors: {}
 subTitle: Nähanleitung
 ---
 
+**Heute möchte ich Euch gerne zeigen, wie meine Kosmetiktasche entstanden ist. Die Anleitung ist wirklich einfach und das Ergebnis gefällt mir.**
+
+Im Rahmen meiner kleinen Nähserie sind bereits ein [Körnerkissen](/2015/09/diy-koernerkissen-naehanleitung/), eine [Handtasche](/2015/09/kleine-handtasche-zum-selbermachen/) und eine [Handytasche](/2015/10/diy-handytasche-mit-zugmechanismus/) entstanden. Für meine Kosmetiktasche habe ich mich der Anleitung von Dot's Designs[^1] bedient, sie ist klasse bebildert und verständlich beschrieben, daher kam sie mir gerade recht.
+
 <RemoteImage
   alt={`Kosmetiktasche`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32105962403_6f2b2d3d03_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32105962403_6f2b2d3d03_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAAmEAACAgEDBAEFAQAAAAAAAAABAgMEEQAFIQYSMUEiExVhcYGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABsRAQADAQEBAQAAAAAAAAAAAAEAAhESIRNB/9oADAMBAAIRAxEAPwDOu1bVuExWWGralkUgr2RM5B9Hgau/S+wb5bWOaXpSSjWWB2msXrARcdhz8CM+SOP1pX6OurWerHFOewBSxOSwAwOP3nH91p3a70f2+OKzZMwmKo8UoBXHacL+Bn+8ajnYWWWblbfOpMrbt0bue5Ob7XNrETZmBFwM7BifkQB5Jz40vT9KCCVDenVFbJyE849ZPvVh64hq3d2S7XNqpfRRGzRzcKMfIFcEY4x26Rt02q1NtwnvWFxMCyjGSwzgMefiPOOP80XK+sbrzCT9dxsUNwikryOrBQVw2ACGyDj3yBxqm2utbv2HarTxK0v1xImGICsFYg/nnRo0oGEOq4xR3TrK9ZggWyvePirsjlGcA+CR58+/GuGnUF1oZIkKKpxyy9xGPQOjRo4J7N05n5P/2Q=="
 />
-
----
-
-**Heute möchte ich Euch gerne zeigen, wie meine Kosmetiktasche entstanden ist. Die Anleitung ist wirklich einfach und das Ergebnis gefällt mir.**
-
-Im Rahmen meiner kleinen Nähserie sind bereits ein [Körnerkissen](/2015/09/diy-koernerkissen-naehanleitung/), eine [Handtasche](/2015/09/kleine-handtasche-zum-selbermachen/) und eine [Handytasche](/2015/10/diy-handytasche-mit-zugmechanismus/) entstanden. Für meine Kosmetiktasche habe ich mich der Anleitung von Dot's Designs[^1] bedient, sie ist klasse bebildert und verständlich beschrieben, daher kam sie mir gerade recht.
 
 ## Das braucht Ihr für Eure Kosmetiktasche
 

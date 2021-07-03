@@ -116,6 +116,4 @@ Das neue Vinny Peculiar Album "While You Still Can" wird am 28. Oktober erschein
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcDBgECBP/EACsQAAIBAwIEBQQDAAAAAAAAAAECAwQFEQASBiExYRMUIlGBFTJx8EFiof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBh/TYB9yHPYDWPIQDorY/A+NCL/wAaJbK6KPybzQyPtRlH3fJOBg6jq+NoIqoQfS6xXdxFGXK7GcnABYE40BpqCnOQFY/kD99taG304B2qc/xkDGhNx4uktvgLV2k+LOdsapUbuffCctDL1xzcbTRvUz2CHwkYKzedBPPoMY66ARxKKm819HUUMkEVLEhzEsYJckgnPPn0GuSsor7VvbsVbLS0kqztTtHtVnBycbffVctd9jSNAXmVv67cf7o9DxCgX1tIV7bfnQTXiuukEssyTJChiKhVAAB9/UpOlTfOMLrMi0pr5NqsSyrj1Ny5nI69dMG532nljxIJAcc8BcH956ol4loplJaLM3Lqq4799B//2Q=="
 />
 
-Hat Euch mein Interview gefallen? Wie schön!  [Meldet Euch gerne](mailto:info@cardamonchai.com), wenn Ihr auch ein tolles Projekt habt, über das wir reden sollen. Auf dem Laufenden halte ich Euch über [meinen wöchentlichen Newsletter](#newsletter).
-
 Fotos: [Vinny Peculiar](https://vinnypeculiar.com)

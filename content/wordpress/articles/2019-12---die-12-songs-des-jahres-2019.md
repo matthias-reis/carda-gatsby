@@ -160,8 +160,6 @@ Im nächsten Musikartikel auf meiner Seite lüften wir dann das nächste Geheimn
   itunes="2019-songs-des-jahres-die-drei-von-der-bande/pl.u-85R6uXeGBGJ?l=en"
 />
 
-Hat Euch unsere Jahresliste gefallen? Dann bleibt am besten dran. Wir haben vor, Euch auch im nächsten Jahr wieder mit Musiklisten zu beglücken. Wer nichts verpassen möchte, kann gerne [meinen Newsletter abonnieren](#newsletter). Ich freue mich auf Euch.
-
 Natürlich macht Musik hören, schreiben, Grafiken und Playlisten bauen müde und durstig. Kaffee ist da genau das Richtige. Wer mir gerne einen spendieren möchte, kann das über meinen Paypal Me Link tun:
 
 [paypal.me/cardamonchai](/2019/10/12-songs-fuer-den-november/paypal.me/cardamonchai)

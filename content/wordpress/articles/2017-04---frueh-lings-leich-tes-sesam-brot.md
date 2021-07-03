@@ -44,14 +44,6 @@ errors: {}
 subTitle: Mit Kichererbsenmehl
 ---
 
-<RemoteImage
-  alt={`Kichererbsenmehl`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34075362886_82e69c5ff9_k__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34075362886_82e69c5ff9_k__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACkQAAIBAwQBAwMFAAAAAAAAAAECAwQFEQAGEjEhBxMUQVGBUnGRscH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQL/xAAmEQABAgUCBgMAAAAAAAAAAAABAhEAAwQhgRIiBRMUMWGhkbHw/9oADAMBAAIRAxEAPwCAtRTUhxDHLVcU5EQsCc/sQP71qKC4UMMEMlWTTCUcl9wdj7k48fnU7YcaXeARWKn+TIgHIQqWKZ/USAF/J1tX2LdvhiR0pqd+a5Vy8zYJwTxjVs99Z/jURFXWqXsSSPIt8xRWmnA3MMwrLW22OUQSTxiUjJHYAxnJPQ1AudwpJJTCElAOAsjLhST9M/7rRUPp7baeeaOLdNKjnkwjkjCCNgRlSCVZcnGB9ge9J3PaT0SI9RedtSpJLGjrJNzQhmC5ZT2v078Z0wz61SwyQ37zBR02myob9O4qezU072ivrqqOBxTzT1yji78gBEkZxhxnzjwM+Sehc3Nv5rRYqS9u6T0LXBaJqamZQ06FTzZXznxgkAY6wdGjSEzlqWXNtIVkk+rezgpAAy0L3C62TeNyp6Cz22eQZLGeUGBUC4LFQQSCMqckFST0c51gL7Z6umra+kt1HJWpSgST/GiHuU5JBCujEqWIy2IyQR5IHWjRo9PSy+ISubPG5zcW7feXjEwmUpkFo//Z"
-/>
-
 Die erste Grillsession des Jahres steht an und Ihr habt Lust auf ein schmackhaftes sommerliches Brot? Vegan soll es sein? Lecker soll es sein und leicht obendrein? Ich habe mir da mal was für Euch ausgedacht. Es geht ganz leicht und schmeckt richtig gut.
 
 ## Zutaten
@@ -75,5 +67,3 @@ Fertig ist das Brot, wenn es beim "Klopftest" innen hohl klingt.
 Guten Appetit!
 
 <Gallery name="flickr/annesesambrot" />
-
-<FestivalList />
