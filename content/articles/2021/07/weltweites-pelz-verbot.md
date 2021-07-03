@@ -8,7 +8,7 @@ seoTitle: Weltweites Pelz-Verbot – Stella McCartney bekommt prominente Unterst
 description: Die Nachhaltigkeits-Designerin Stella McCartney setzt sich schon
   lange für ein weltweites Pelz-Verbot ein. Jetzt haben sich ihr weitere Stars
   angeschlossen. Mit dabei sind neben vielen anderen Dame Judi Dench, Sir Paul
-  McCartney, Natalie Emmanuel und Leona Lewis
+  McCartney, Natalie Emmanuel und Leona Lewis.
 image: /img/pelzverbot-stella-mccartney.jpg
 copyrigt: Stella McCartney
 ogImage: /img/pelzverbot-stella-mccartney-fb.jpg
@@ -40,17 +40,17 @@ Stella McCartney ruft ihr Publikum dazu auf, sich an der Seite ihres Vaters Sir 
 
 > "Unsere Zeit ist gekommen. Tiere sind Freunde und keine Mode."
 
-In einem weiteren Video ruft Stella McCartney selbst die Menschen dazu auf, ihre Petition, die sie gemeinsam mit Vater Paul ins Leben gerufen hat, zu unterstützen.
+Mit einem weiteren Video ruft Stella McCartney selbst die Menschen dazu auf, ihre Petition, die sie gemeinsam mit Vater Paul ins Leben gerufen hat, zu unterstützen.
 
 ## Laufsteg-Models mit Tiermasken
 
-In den Videos sieht man die Promis bekleidet mit Stellas bisher nachhaltiger Kollektion sowie Tiermasken. Als Teil der Herbst-Kollektion für 2021 trugen auch die Model auf dem Laufsteg aus Respekt für die Tiere Tiermasken. David Walliams unterstützte die Aktion mit einem Mockumentary Video.
+In den Kurzfilmen sieht man die Promis bekleidet mit Stellas bisher nachhaltiger Kollektion sowie Tiermasken. Als Teil der Herbst-Kollektion für 2021 trugen auch die Model auf dem Laufsteg aus Respekt für die Tiere Tiermasken. David Walliams unterstützte die Aktion mit einem Mockumentary Video.
 
 Zuvor hatte Stella McCartney erfolgreiche Proteste auf dem Londoner Piccadilly Circus und am Duomo die Milano veranstaltet. Die britische Designerin behauptet, durch ihren Aktivismus bereits 60.000 Tiere vor dem Tode bewahrt zu haben. Die Pelz- und [Leder-Industrie](/2020/07/leder-pelz/) ist dennoch nach wie vor omnipräsent.
 
 ## "Stella McCartneys Aktion ist frisch und innovativ"
 
-Die Geschäftsführerin der britischen Filiale von Humane Society International Claire Bass äußerte ich so zu Stella McCartneys Herbst-Kollektion und zur Anti-Pelz-Aktion:
+Die Geschäftsführerin des britischen Ablegers von Humane Society International Claire Bass äußerte ich so zu Stella McCartneys Herbst-Kollektion und zur Anti-Pelz-Aktion:
 
 > "Diese neue Kampagne und Marke ist alles, was der Pelzhandel nicht ist – sie ist frisch, innovativ, nachhaltig und frei von Grausamkeit.
 
