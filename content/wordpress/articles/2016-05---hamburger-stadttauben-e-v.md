@@ -126,14 +126,14 @@ IBAN DE44200505501244131619 BIC HASPDEHHXXX
 
 Wer sich gerne informieren möchte, findet alle Infos über den Hamburger Stadttauben e. V. unter [hamburgerstadttauben.de](http://www.hamburgerstadttauben.de/). Dort gibt es außerdem auch jede Menge Wissenswertes über Tauben zu lesen. Auf der [Facebook-Seite](https://www.facebook.com/hamburgerstadttauben) wird regelmäßig über Aktionen und natürlich auch über die geretteten Tauben berichtet. Auch in anderen Städten gibt es ähnliche Vereine, Infos findet Ihr bei Eurer Stadtverwaltung oder im Internet.
 
-<RemoteImage
-  alt={`Stadttauben`}
-  size="full"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Hamburger-Stadttauben.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Hamburger-Stadttauben.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAIAAACMdijuAAAACXBIWXMAAAsTAAALEwEAmpwYAAACoElEQVQ4jbWRa0hTYRjHj5jOVmJlmknZQqWpqX0wah+iPoiIphGJlSJSMRdFRRQU2oIQCy9FRQWRkGGQEZkIGtWozLVlNufc1XPWOdvcu9s5uzo3L2d742gYSgUL+n98L8/v+fFH4H8OAiGk/AH5hE1rpcYAaaA8qN1FUB7M7lIBcsRkIyiP0kwqAWXxThKkx+KehBCGIgL4AtNS3DJMWMWYWWa0vtMYMLsLtbveaAjJdyAlLGI9+IIDvd2jAA6r92+A0HyWA4Kzc3af3+j0uaeCBOnVWp06q1NhdrgDQTWgCNID3H6dzUmQ3sDMnH9m9k9zw+Hw7w0cvqlnw1oJbhkDjl6FvluOEk5v55DmEzbR/nlMpDOItEax3qy2kK9V+Cs5CiGk59ekaXrZXJd3srHxbn/fN8rLPAiF5gE0HdLZnC/laM+ofmDc1CFVqQHVq9BLcPARM/WMYv1KXEKAtxqDFAfvdUbm59Jl/b4Z0SADVillvF3F1YKrAuH1Xwb/luD0dGdHT3Pb0xvPu2sutKRt4jW1PTKbreVl5/MOHV/PTVsCCIWY3hbaWWyJOWHy83bBFUJoMhla29qz0nfHc3as2pbF5uVGr43P4KTXCy+X7q0UlDd3PdbUn7sFYfgfDa4IG/l11/KSC7g792zcnByLMEHR8a6mh4fzS1r2C1+cfYIpnbfvt8tlIxEAaJqGEIIJQ2V1Hf+UMDNxa2pCCpu1AkEQFitG9OEr/0DtxRrBmSMnj9VdGlAAmQofkqkjBugxtIC3Lzs7PyUpMTUpmc1iBKIQpLn1TmnpwaMVVZVV/KKSitoTp2/ee9AnEkcAWOwmMyM9NhrZsG5NwuqV8ey46CiEHRcjFg8Wl5QVFRZuz8nlcLbk5HBz87kNDQ0/AATkr0wVRJb8AAAAAElFTkSuQmCC"
-/>
-
-[](http://www.hamburgerstadttauben.de/)
+<a target="_blank" href="http://www.hamburgerstadttauben.de/">
+  <RemoteImage
+    alt={`Stadttauben`}
+    size="full"
+    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Hamburger-Stadttauben.png__m.jpg"
+    largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Hamburger-Stadttauben.png__l.jpg"
+    loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAIAAACMdijuAAAACXBIWXMAAAsTAAALEwEAmpwYAAACoElEQVQ4jbWRa0hTYRjHj5jOVmJlmknZQqWpqX0wah+iPoiIphGJlSJSMRdFRRQU2oIQCy9FRQWRkGGQEZkIGtWozLVlNufc1XPWOdvcu9s5uzo3L2d742gYSgUL+n98L8/v+fFH4H8OAiGk/AH5hE1rpcYAaaA8qN1FUB7M7lIBcsRkIyiP0kwqAWXxThKkx+KehBCGIgL4AtNS3DJMWMWYWWa0vtMYMLsLtbveaAjJdyAlLGI9+IIDvd2jAA6r92+A0HyWA4Kzc3af3+j0uaeCBOnVWp06q1NhdrgDQTWgCNID3H6dzUmQ3sDMnH9m9k9zw+Hw7w0cvqlnw1oJbhkDjl6FvluOEk5v55DmEzbR/nlMpDOItEax3qy2kK9V+Cs5CiGk59ekaXrZXJd3srHxbn/fN8rLPAiF5gE0HdLZnC/laM+ofmDc1CFVqQHVq9BLcPARM/WMYv1KXEKAtxqDFAfvdUbm59Jl/b4Z0SADVillvF3F1YKrAuH1Xwb/luD0dGdHT3Pb0xvPu2sutKRt4jW1PTKbreVl5/MOHV/PTVsCCIWY3hbaWWyJOWHy83bBFUJoMhla29qz0nfHc3as2pbF5uVGr43P4KTXCy+X7q0UlDd3PdbUn7sFYfgfDa4IG/l11/KSC7g792zcnByLMEHR8a6mh4fzS1r2C1+cfYIpnbfvt8tlIxEAaJqGEIIJQ2V1Hf+UMDNxa2pCCpu1AkEQFitG9OEr/0DtxRrBmSMnj9VdGlAAmQofkqkjBugxtIC3Lzs7PyUpMTUpmc1iBKIQpLn1TmnpwaMVVZVV/KKSitoTp2/ee9AnEkcAWOwmMyM9NhrZsG5NwuqV8ey46CiEHRcjFg8Wl5QVFRZuz8nlcLbk5HBz87kNDQ0/AATkr0wVRJb8AAAAAElFTkSuQmCC"
+  />
+</a>
 
 **Banner:** Hamburger Stadttauben

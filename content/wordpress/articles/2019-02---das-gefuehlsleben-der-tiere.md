@@ -83,15 +83,20 @@ Marc Bekoff wurde am 6. September 1945 geboren. Er ist Professor an der Universi
 
 ## Tiere haben Emotionen
 
-<RemoteImage
-  alt={`das-gefuehlsleben-der-tiere`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwECBf/EACoQAAIBBAAFAwMFAAAAAAAAAAECAwAEBRESEyExQQYiUQcUcTNCYZGx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwABAgX/xAAhEQACAgIBBAMAAAAAAAAAAAABAgARAwSBBRIxUSFB8P/aAAwDAQACEQMRAD8AnxTGWSIYtA1uUB5rRN7t9dgHWh+aSjdZDJTZe8iyHJxmOuTNLHLNpdqwPCB3IY6IHbxSOMxeS3MYF1ddXUEGdz5H80/xYdDecmC7DvtuFFtXJOu+tn/KEbLlrY8R+pabaPYuJQ139geK9+bubWn1AyDqxjMD8OuMNbjodb8VPxnrSLL862uYYWuFBcIntZk310PkfFGG+3XHSrq2u1WXYdrceQOnuBPisZOC3lxl/wAi2gina2k4HjiVWBCkjqBvuKI77XS/uJWLUGRFLgC+a5lI4m7U5KyDMAvPj4jvQA4h/VXDBf21qblsddwhXLyRkyLLJCx937t9OLt8/iiitEV8zobTnIw7vUr71Tmbm0yKriMnJDA8QkkW1cxq0hZtkqOza1uuK3qXLqCDlr3eiP1mPeiioVBMbBS4VIE//9k="
-/>
+<a
+  target="_blank"
+  href="https://www.amazon.de/gp/product/3936188424/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3936188424&linkCode=as2&tag=cardamonchai-21&linkId=693dee8b95b0762d280dfdb4912ce23e"
+>
+  <RemoteImage
+    alt={`das-gefuehlsleben-der-tiere`}
+    size="medium"
+    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff__m.jpg"
+    largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff__l.jpg"
+    loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwECBf/EACoQAAIBBAAFAwMFAAAAAAAAAAECAwAEBRESEyExQQYiUQcUcTNCYZGx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwABAgX/xAAhEQACAgIBBAMAAAAAAAAAAAABAgARAwSBBRIxUSFB8P/aAAwDAQACEQMRAD8AnxTGWSIYtA1uUB5rRN7t9dgHWh+aSjdZDJTZe8iyHJxmOuTNLHLNpdqwPCB3IY6IHbxSOMxeS3MYF1ddXUEGdz5H80/xYdDecmC7DvtuFFtXJOu+tn/KEbLlrY8R+pabaPYuJQ139geK9+bubWn1AyDqxjMD8OuMNbjodb8VPxnrSLL862uYYWuFBcIntZk310PkfFGG+3XHSrq2u1WXYdrceQOnuBPisZOC3lxl/wAi2gina2k4HjiVWBCkjqBvuKI77XS/uJWLUGRFLgC+a5lI4m7U5KyDMAvPj4jvQA4h/VXDBf21qblsddwhXLyRkyLLJCx937t9OLt8/iiitEV8zobTnIw7vUr71Tmbm0yKriMnJDA8QkkW1cxq0hZtkqOza1uuK3qXLqCDlr3eiP1mPeiioVBMbBS4VIE//9k="
+  />
+</a>
 
-[](https://www.amazon.de/gp/product/3936188424/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3936188424&linkCode=as2&tag=cardamonchai-21&linkId=693dee8b95b0762d280dfdb4912ce23e) Er erforscht seit mehr als 30 Jahren das Gefühlsleben der Tiere. Dies tut er aus seiner Leidenschaft und dem Wunsch, sich in sie hineinzuversetzen heraus. Sich selbst sieht er aus diesem Grund als glücklichen Menschen.
+Er erforscht seit mehr als 30 Jahren das Gefühlsleben der Tiere. Dies tut er aus seiner Leidenschaft und dem Wunsch, sich in sie hineinzuversetzen heraus. Sich selbst sieht er aus diesem Grund als glücklichen Menschen.
 
 Zunächst von seinen Kolleg\*innen für seine Ideen belächelt, kann er heute ganz klar sagen "Gegen die Existenz tierischer Emotionen zu argumentieren, ist schlechte Biologie. Die wissenschaftliche Forschung in evolutionärer Biologie, kognitiver Ethnologie und in den sozialen Neurowissenschaften unterstützt die Ansicht, dass zahlreiche unterschiedliche Arten ein reiches und tief empfundenes Gefühlsleben haben. " _(Seite 14)_
 
@@ -121,15 +126,20 @@ Er findet, dass uns genau aus diesem Grund die Gefühle von Tieren besonders wic
 
 ## Freundschaften zwischen verschiedenen Spezies
 
-<RemoteImage
-  alt={`Marc Bekoff - Foto: Marc Bekoff Autorenseite Amazon`}
-  size="full"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_marc-bekoff__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_marc-bekoff__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAArEAABBAEDAwIFBQAAAAAAAAABAgMEBREAEiEGEzEiQRRCUWFxBxWhosH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgQDBf/EACARAAICAgICAwAAAAAAAAAAAAECABEDEiEyBBMxQZH/2gAMAwEAAhEDEQA/AE92InCil2KQPOE8D+2g/iqKNKiiwlLW2+4EbIrQCsk4HKjjGT51j1ki+k1/frIU1de81uQ42ydhVnCgSPoQRzjXE6x6ZSxbRm3JT20Ms7mXUbVFfbSpYSR8u4n24GNP1XZ/kxuxpBwJfK1qpoL2LT0Ud1bo3LlSV/NhJBJ59PIASCBnBwMc6a2ZyfilYc3KSSlSMgDHjGP91Jv09oYVfUxrJh2YbJ5xcZTyXOXUgZBVuyCMrwDjwj6nVINU9AhMWTk6PJWoYWlKQkFJzxuz6vYe2uf5eN8ijKAKH7N8WiMViz1FZU0Hp1iBXHtRlyQFehStil4HqBPp55P8aWurraFX/u0SUFWImFlpM2IhKlYRgPAKPKSQlPH301XFdW3TBXaVkSQ4rbuUQpJVg8ZIIzj76EsTHoOjrV2sr4DXYjrlpSWEkFxLZIJzqqywG3IEnVlsheLg1h1bRSq9hFQJEV2OpHYZcYIIRwMceOMEfjWvUnXVRNp2GY0B2NLS6UqIVltshXPA8pJz+POo/wBMdUW1vKZVZSg82t0AtBtLaMZ9ggDHnVS6hpYKq5stshnAGO3x5z9fxoaVj9f1AMgDXP/Z"
-/>
+<a
+  target="_blank"
+  href="https://www.amazon.de/gp/product/3936188424/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3936188424&linkCode=as2&tag=cardamonchai-21&linkId=693dee8b95b0762d280dfdb4912ce23e"
+>
+  <RemoteImage
+    alt={`Marc Bekoff - Foto: Marc Bekoff Autorenseite Amazon`}
+    size="full"
+    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_marc-bekoff__m.jpg"
+    largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_marc-bekoff__l.jpg"
+    loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAArEAABBAEDAwIFBQAAAAAAAAABAgMEBREAEiEGEzEiQRRCUWFxBxWhosH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgQDBf/EACARAAICAgICAwAAAAAAAAAAAAECABEDEiEyBBMxQZH/2gAMAwEAAhEDEQA/AE92InCil2KQPOE8D+2g/iqKNKiiwlLW2+4EbIrQCsk4HKjjGT51j1ki+k1/frIU1de81uQ42ydhVnCgSPoQRzjXE6x6ZSxbRm3JT20Ms7mXUbVFfbSpYSR8u4n24GNP1XZ/kxuxpBwJfK1qpoL2LT0Ud1bo3LlSV/NhJBJ59PIASCBnBwMc6a2ZyfilYc3KSSlSMgDHjGP91Jv09oYVfUxrJh2YbJ5xcZTyXOXUgZBVuyCMrwDjwj6nVINU9AhMWTk6PJWoYWlKQkFJzxuz6vYe2uf5eN8ijKAKH7N8WiMViz1FZU0Hp1iBXHtRlyQFehStil4HqBPp55P8aWurraFX/u0SUFWImFlpM2IhKlYRgPAKPKSQlPH301XFdW3TBXaVkSQ4rbuUQpJVg8ZIIzj76EsTHoOjrV2sr4DXYjrlpSWEkFxLZIJzqqywG3IEnVlsheLg1h1bRSq9hFQJEV2OpHYZcYIIRwMceOMEfjWvUnXVRNp2GY0B2NLS6UqIVltshXPA8pJz+POo/wBMdUW1vKZVZSg82t0AtBtLaMZ9ggDHnVS6hpYKq5stshnAGO3x5z9fxoaVj9f1AMgDXP/Z"
+  />
+</a>
 
-[](https://www.amazon.de/gp/product/3936188424/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3936188424&linkCode=as2&tag=cardamonchai-21&linkId=693dee8b95b0762d280dfdb4912ce23e) Und Tiere gehen laut seiner Forschungen nicht nur Beziehungen zu Menschen ein. Auf Seite 38 erzählt er beispielsweise von einer Löwin, die in fünf verschiedenen Fällen Oryxantilopenbabys adoptierte und sogar von der Freundschaft zwischen einem Koi und einem Golden Retriever weiß er zu berichten.
+Und Tiere gehen laut seiner Forschungen nicht nur Beziehungen zu Menschen ein. Auf Seite 38 erzählt er beispielsweise von einer Löwin, die in fünf verschiedenen Fällen Oryxantilopenbabys adoptierte und sogar von der Freundschaft zwischen einem Koi und einem Golden Retriever weiß er zu berichten.
 
 Fast zu Tränen rührt einen beim Lesen des Buchs Bekoffs Hund Jethro, der einem Vogel und einem jungen Kaninchen das Leben gerettet hat Auch die Geschichte des Walweibchens, dass sich bei den Tauchern bedankt, die es aus einem Netz gerettet haben, ist ergreifend. Auf 195 Seiten plus Anhang hat er zahlreiche derartige Beispiele zusammengetragen. Wer vor der Lektüre von " **Das Gefühlsleben der Tiere** " noch Zweifel hatte, sollte anschließend überzeugt sein: Ja, Tiere haben Gefühle!
 
@@ -149,14 +159,7 @@ Pablo wurde im Labor der New Yorker Uni gefangen gehalten. Damals war sein Name 
 
 Während seiner Zeit im Labor wurde Pablo 220 mal mit Pfeilen beschossen. Einmal versehentlich in die Lippe. Außerdem wurden 28 Leber-, zwei Knochenmark- und zwei Lymphdrüsen-Biopsien an ihm durchgeführt. Ihm wurden vier zu testende Impfstoffe injiziert. Einer davon infizierte ihn mit Hepatitis. 1993 spritzte man ihm die 10.000-fach tödliche Dosis des HI-Virus. Er erholte sich wie durch ein Wunder von Hepatitis und HIP und starb an einer Infektion, die sich durch die jahrelange Folter mit Pfeilen, Spritzen und Nadeln gebildet hatte.
 
-<RemoteImage
-  size="medium"
-  mediumUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3936188424&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=\_SL250_&amp;tag=cardamonchai-21"
-  largeUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3936188424&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=\_SL250_&amp;tag=cardamonchai-21"
-  loadingUrl="undefined"
-/>
-
-## Das Gefühlsleben der Tiere - Marc Bekoff sagt seine Meinung [](https://www.amazon.de/gp/product/3936188424/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3936188424&linkCode=as2&tag=cardamonchai-21&linkId=693dee8b95b0762d280dfdb4912ce23e)
+## Das Gefühlsleben der Tiere - Marc Bekoff sagt seine Meinung
 
 Marc Bekoff sagt seine Meinung und er hat damit Erfolg. Nachdem er im Jahr 2000 sein Buch " **The Smile Of A Dolphin: Remarkable Accounts of Animal Emotions** " veröffentlicht hatte, sorgte das für eine regelrechte Comingout-Party, bei der 50 seiner Kolleg\*innen ihre Geschichten über das Gefühlsleben der Tiere zum Besten gaben. Was zunächst nicht besonders revolutionär klingt, ist für Wissenschaftler\*innen ein großer Schritt nach vorne. Inzwischen wird in immer mehr Forschungseinrichtungen nicht mehr in der dritten Person gesprochen, in den Berichten ist von Individuen die Rede und statt Nummern werden Namen vergeben. Trotzdem ist es noch ein weiter Weg bis zu einer tierleidfreien Welt. Noch täglich finden Tierversuche statt, Tiere werden eingesperrt und in Massenbetrieben ausgebeutet.
 

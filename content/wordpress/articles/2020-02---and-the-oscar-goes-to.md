@@ -51,14 +51,14 @@ sagte Phoenix weiter. Während seiner bewegenden Rede hatte nicht nur er Tränen
 
 Joaquin Phoenix selbst nutzt diese Stimme bereits seit Jahren. So ist er unter anderem der Sprecher im wohl berühmtesten Tierrechtsfilm der Welt [Earthlings](/2020/07/earthlings/).
 
-<RemoteImage
-  alt={`watch-earthlings`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10430898_866199213402209_1317136732098446538_n__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10430898_866199213402209_1317136732098446538_n__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QAJRAAAgEDBAEEAwAAAAAAAAAAAQIDBAURABIhMQYHQWHBIzKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAMCERIx/9oADAMBAAIRAxEAPwDNtAqsGAGDjvGdVr04tlgqlnnudCZAmBGKitKoTtyQQsf9yeOMc6ksX45EC9c/ekVhu9XbppHpmX9eVZdynHIyDq+vkdMksX0iTy6G0422+21tMrKXWV590RORkICoJXnvPv8AGptXqUkb660l8gv1wvUomr5gz4CAIoVVUewA40creh840zTI0RWIz//Z"
-/>
-
-[](https://www.earthlings.de/)
+<a target="_blank" href="https://www.earthlings.de/">
+  <RemoteImage
+    alt={`watch-earthlings`}
+    size="medium"
+    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10430898_866199213402209_1317136732098446538_n__m.jpg"
+    largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10430898_866199213402209_1317136732098446538_n__l.jpg"
+    loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QAJRAAAgEDBAEEAwAAAAAAAAAAAQIDBAURABIhMQYHQWHBIzKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAMCERIx/9oADAMBAAIRAxEAPwDNtAqsGAGDjvGdVr04tlgqlnnudCZAmBGKitKoTtyQQsf9yeOMc6ksX45EC9c/ekVhu9XbppHpmX9eVZdynHIyDq+vkdMksX0iTy6G0422+21tMrKXWV590RORkICoJXnvPv8AGptXqUkb660l8gv1wvUomr5gz4CAIoVVUewA40creh840zTI0RWIz//Z"
+  />
+</a>
 
 Bild im Header: [plantbasednews.org](https://www.plantbasednews.org/opinion/5-amazing-times-joaquin-phoenix-was-extra-vegan)

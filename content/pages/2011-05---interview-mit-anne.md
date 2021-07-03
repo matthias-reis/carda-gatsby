@@ -45,7 +45,7 @@ Weil mir das Wort besser gefällt.
 
 ## Kann man Dich mal besuchen?
 
-Auf meiner [Facebook-Seite](www.facebook.com/cardamonchai). [](http://www.facebook.com/pages/cardamonchai/163792830347189)
+Auf meiner [Facebook-Seite](www.facebook.com/cardamonchai).
 
 ## Was hast Du als Kind gesammelt?
 

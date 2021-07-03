@@ -104,10 +104,12 @@ Neben "Gelassenheit - Zeit für ein gutes Leben" sind in der "School of Life" Re
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen Bestandteil meines Blogs etablieren. Meine Lesewut hat sich [seit ich gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/), sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto mehr möchte ich darüber berichten.
 
-<RemoteImage
-  alt={`gelassenheit`}
-  size="full"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_vincent-van-gogh-89422_1280__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_vincent-van-gogh-89422_1280__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgL/xAAwEAACAgAFAQUFCQAAAAAAAAABAgMRAAQSITEFE0FhcbEGMjRRcjU2c3SBssHw8f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAJBEAAQQABAcBAAAAAAAAAAAAAQACAxEEEiExIjJBUWFxwfD/2gAMAwEAAhEDEQA/AMN0rrUsORiacERO2lSw98AG7rx+eNN7P5WLqJllknMKMukBFaQEmwCSOAKJvnbEfKpKuRLhiCXVSWNitN84s9Ez69OWRWVFdtPANMKINn57jGOMXExx4avdIsidIQHnTypcjgujNlmeInU7DfSNZuv09ccTzxt0OadVCzC43G5oajVnyHOD5ho4I6gjQPWx0atVf5gaZvMvFJ2QDELQUooFb3gTscJW8tfvStHh8h1KP0mKSSIyTRSMHUEx69KggEEg8Vte+23lhLMyqZYlyisaILMTY7tj3+Phig/3dy35IfziNkfi5vqHrhCIZiXnoa+I0j9mgJnMdqziEFLYaVtq0eN/3nCmZmaLL1GS7XRIU7835jfnFLM934Z9RhV/s6X6F/bgjANBXZQLzWCv/9k="
-/>
+<a target="_blank" href="https://amzn.to/2VbMYR4">
+  <RemoteImage
+    alt={`gelassenheit`}
+    size="full"
+    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_vincent-van-gogh-89422_1280__m.jpg"
+    largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_vincent-van-gogh-89422_1280__l.jpg"
+    loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgL/xAAwEAACAgAFAQUFCQAAAAAAAAABAgMRAAQSITEFE0FhcbEGMjRRcjU2c3SBssHw8f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAJBEAAQQABAcBAAAAAAAAAAAAAQACAxEEEiExIjJBUWFxwfD/2gAMAwEAAhEDEQA/AMN0rrUsORiacERO2lSw98AG7rx+eNN7P5WLqJllknMKMukBFaQEmwCSOAKJvnbEfKpKuRLhiCXVSWNitN84s9Ez69OWRWVFdtPANMKINn57jGOMXExx4avdIsidIQHnTypcjgujNlmeInU7DfSNZuv09ccTzxt0OadVCzC43G5oajVnyHOD5ho4I6gjQPWx0atVf5gaZvMvFJ2QDELQUooFb3gTscJW8tfvStHh8h1KP0mKSSIyTRSMHUEx69KggEEg8Vte+23lhLMyqZYlyisaILMTY7tj3+Phig/3dy35IfziNkfi5vqHrhCIZiXnoa+I0j9mgJnMdqziEFLYaVtq0eN/3nCmZmaLL1GS7XRIU7835jfnFLM934Z9RhV/s6X6F/bgjANBXZQLzWCv/9k="
+  />
+</a>

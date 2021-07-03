@@ -92,8 +92,6 @@ subTitle: 26.03.2011 München
 
 Inzwischen hat sich die Lage in Japan massiv verschlechtert. Messungen am Reaktor 2 in Fukoshima zeigen eine 10 millionenfach erhöhte Radioaktivität an, das Meer ist verseucht, Lebensmittel und Trinkwasser können nicht mehr zu sich genommen werden. Radioaktiv verseuchtes Wasser hat die Arbeiter in Fukoshima verstrahlt. Experten rechnen damit, dass sie schon bald mit dem Stahlentod rechnen müssen. Andere wurden mit Verbrennungen in eine Spezialklinik eingeliefert.
 
-[](/wp-content/uploads/2011/03/p7270040.jpg)
-
 ## Es ist mit dem Schlimmsten zu rechnen
 
 Es ist mit dem Schlimmsten zu rechnen und Notunterkünfte nehmen nach wie vor nur Anwohner der 20-Kilometer-Zone um das AKW auf. Die Betreiberfirma des AKW hat inzwischen zugegeben, die Lage nicht mehr unter Kontrolle zu haben.

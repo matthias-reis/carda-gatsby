@@ -406,7 +406,7 @@ Die Kälber in den Iglus waren alle für die Mast/den Schlachter vorgesehen, bev
 1.  [One Green Planet](http://www.onegreenplanet.org)
 1.  [Milchkonsum und Multiple Sklerose Studie](http://www.ncbi.nlm.nih.gov/pubmed/1291895)
 1.  [Autismus und Schizophrenie Studie](http://www.ncbi.nlm.nih.gov/pubmed/17666771)
-1.  [Milchkonsum und Diabetes Studie](http://ajcn.nutrition.org/content/71/6/1525.full) [](http://ajcn.nutrition.org/content/71/6/1525.full)
+1.  [Milchkonsum und Diabetes Studie](http://ajcn.nutrition.org/content/71/6/1525.full)
 1.  [Harvard-Studie zum Zusammenhang von Milchkonsum und Osteoporose](http://jn.nutrition.org/content/116/11/2316.full.pdf)
 1.  [Lactose intolerance](http://en.wikipedia.org/wiki/Lactose_intolerance)
 1.  [Die Biowahrheit](http://www.biowahrheit.de)

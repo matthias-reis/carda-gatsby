@@ -37,14 +37,14 @@ Nun ist es natürlich etwas Anderes, wenn ich meine emotionsgeladenen Worte hier
 
 ## Der G20 Gipfel - Matzes Erlebnisse zusammengefasst
 
+<a target="_blank" href="http://www.mimikama.at/volksverpetzer/hamburg/">
+  <RemoteImage
+    alt={`G20 Gipfel`}
+    size="full"
+    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.18.23.png__m.jpg"
+    largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.18.23.png__l.jpg"
+    loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAGCAYAAACij5zfAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB8UlEQVQokb2S2XKaABSGff+X6JLM9KZpjAtqFNlESEhUVIhbFAUtmiooaq+SrxNy075A/5kz/5mzzz8n87JZMxgMmc2mtNttXHeA3bFpPVps4wNdu8NgOOJ5MqHX66c8Hk9YrlaMhkNGo3Ha7zgum02I4zh4Mw+n36PvOAyeXIIgwPd9JpMxlvXI/nDgHW9vb2Qm4xG1moiu60iKgqZqFAsFTKOJbtyjKgod26ZWq6FqDaq3FQRB4KHVxrq7wzBMRFFCkmQs6w7TNCmXBCqVMqqmURdrWNYDrdYjdVGkVK7ya7tLD3h9fSUT/gy5yeXRNYWptyAI5jiui+8vyWezzDwPuS6mC7z5IlWg0dAQJYXp84iZN0eVZOZzH1mWcd0+0+kEx32i22lz/9DCtnvMFgsURSZch/yNzDLwKQulNKkbJrdlgcvLb5iGgaIoXGevyRUENK2B3bX5cX1DsVhAliUq5Vu+fPpMIZdF1ZuoikpdrFIqCYi1KprepFIqURclisUiV9+vyOcKXHy9oFjIE+8PZFZBgCQpVCtlpjOP1TJgvXnh9/lMHO+J45jDISGKIo7HI9vtjv0+JkkSzqcTYbjmdDqSJO+WEEfRB8cfNdFux/l8JoqjNPY+ZzwepX76A8djgmne0+922e6if+T5H/gDTLeqnr6cij8AAAAASUVORK5CYII="
+  />
+</a>
+
 [Weiterlesen -&gt;](http://www.mimikama.at/volksverpetzer/hamburg/)
-
-<RemoteImage
-  alt={`G20 Gipfel`}
-  size="full"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.18.23.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.18.23.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAGCAYAAACij5zfAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB8UlEQVQokb2S2XKaABSGff+X6JLM9KZpjAtqFNlESEhUVIhbFAUtmiooaq+SrxNy075A/5kz/5mzzz8n87JZMxgMmc2mtNttXHeA3bFpPVps4wNdu8NgOOJ5MqHX66c8Hk9YrlaMhkNGo3Ha7zgum02I4zh4Mw+n36PvOAyeXIIgwPd9JpMxlvXI/nDgHW9vb2Qm4xG1moiu60iKgqZqFAsFTKOJbtyjKgod26ZWq6FqDaq3FQRB4KHVxrq7wzBMRFFCkmQs6w7TNCmXBCqVMqqmURdrWNYDrdYjdVGkVK7ya7tLD3h9fSUT/gy5yeXRNYWptyAI5jiui+8vyWezzDwPuS6mC7z5IlWg0dAQJYXp84iZN0eVZOZzH1mWcd0+0+kEx32i22lz/9DCtnvMFgsURSZch/yNzDLwKQulNKkbJrdlgcvLb5iGgaIoXGevyRUENK2B3bX5cX1DsVhAliUq5Vu+fPpMIZdF1ZuoikpdrFIqCYi1KprepFIqURclisUiV9+vyOcKXHy9oFjIE+8PZFZBgCQpVCtlpjOP1TJgvXnh9/lMHO+J45jDISGKIo7HI9vtjv0+JkkSzqcTYbjmdDqSJO+WEEfRB8cfNdFux/l8JoqjNPY+ZzwepX76A8djgmne0+922e6if+T5H/gDTLeqnr6cij8AAAAASUVORK5CYII="
-/>
-
-[](http://www.mimikama.at/volksverpetzer/hamburg/)

@@ -31,7 +31,7 @@ errors: {}
 subTitle: Printpremiere für Anne bloggt cardamonchai
 ---
 
-** [](/wp-content/uploads/2015/04/Welt-Vegan-Magazin-8.jpg) Es gibt eine Premiere zu feiern! Letzte Woche erschien mein erster Artikel in der zweiten Ausgabe des Welt Vegan Magazins! Mein erster Printartikel überhaupt für ein grosses, überregionales Magazin! Ich freue mich sehr!**
+**Es gibt eine Premiere zu feiern! Letzte Woche erschien mein erster Artikel in der zweiten Ausgabe des Welt Vegan Magazins! Mein erster Printartikel überhaupt für ein grosses, überregionales Magazin! Ich freue mich sehr!**
 
 Verraten wird nur so viel: Es handelt sich um einen mehrseitigen Sonderteil zum Thema **Superfoods** . Neugierig geworden? Dann holt Euch auf jeden Fall Eure Ausgabe 2/15 beim Zeitschriftenhändler Eures Vertrauens.
 
