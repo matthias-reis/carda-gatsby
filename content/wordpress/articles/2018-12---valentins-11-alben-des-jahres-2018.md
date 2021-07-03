@@ -50,7 +50,49 @@ Das sind wirklich wahre Worte! Ich wünsche Euch viel Spaß beim Anhören - bis 
 
 ## 11 Alben des Jahres - Valentins Best-of 2018
 
-1.  Nine Inch Nails - Bad Witch <YouTube id="bjBZdEy0WLQ" />
+### Nine Inch Nails - Bad Witch
+
+<YouTube id="EMKnM5WNfk0" />
+
+### A Perfect Circle - Eat the Elephant
+
+<YouTube id="7IpKcDvAHow" />
+
+### Calexico - The Thread That Keeps Us
+
+<YouTube id="TU1lFU__2fI" />
+
+### Muse - Simulation Theory
+
+<YouTube id="X8f5RgwY8CI" />
+
+### The Ocean - Phanerozoic I: Palaeozoic
+
+<YouTube id="aur4RKAgbqE" />
+
+### Sumac - Love in Shadow
+
+<YouTube id="6QbZ8vbBR8o" />
+
+### Pennywise - Never Gonna Die
+
+<YouTube id="4N234UWW3Mk" />
+
+### Everlast - Whitey Ford's House of Pain
+
+<YouTube id="CMtyDKCJ7Gg" />
+
+### Twenty One Pilots - Trench
+
+<YouTube id="UOUBW8bkjQ4" />
+
+### Long Distance Calling - Boundless
+
+<YouTube id="S8V_Rb5J0HA" />
+
+### Ghost - Prequelle
+
+<YouTube id="bjBZdEy0WLQ" />
 
 Lieber Valentin, danke für diese wunderbare Liste! Ich freue mich immer über den regen musikalischen Austausch mit Dir. Auf ein spannendes Schallplatten-Jahr 2019! Ich freue mich schon auf Deine Musiktipps und Videolinks!
 
