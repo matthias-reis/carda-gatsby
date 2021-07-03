@@ -125,7 +125,7 @@ Das [Vegan Travel Handbook](http://tidd.ly/b1b6af2a) von Lonely Planet hat insge
 <!-- START ADVERTISER: Lonely Planet Publications from awin.com -->
 
 <RemoteImage
-  size="medium"
+  size="full"
   mediumUrl="https://www.awin1.com/cshow.php?s=2459095&amp;v=1238&amp;q=369704&amp;r=632580"
   largeUrl="https://www.awin1.com/cshow.php?s=2459095&amp;v=1238&amp;q=369704&amp;r=632580"
   loadingUrl="undefined"
