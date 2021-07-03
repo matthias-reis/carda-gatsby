@@ -50,8 +50,6 @@ Das sind wirklich wahre Worte! Ich wünsche Euch viel Spaß beim Anhören - bis 
 
 ## 11 Alben des Jahres - Valentins Best-of 2018
 
-## 11 Alben des Jahres - Valentins Best-of 2018
-
 ### Nine Inch Nails - Bad Witch
 
 <YouTube id="EMKnM5WNfk0" />
