@@ -52,10 +52,47 @@ Matzes Kommentar zu seiner Liste
 
 Meine Favoriten von Matzes Liste sind (außer den beiden bereits genannten)
 
-1.  "Why Walk A Dog" - Jack White vom Album "Boarding House Reach"
-    <YouTube id="K5rtIRHnRSI" />
+### "Why Walk A Dog" - Jack White vom Album "Boarding House Reach"
 
-### Hier geht's zu den Playlists:
+<YouTube id="B3cAy41B2ec" />
+
+### "Silurian: Age Of Sea Scorpions" - The Ocean vom Album "Phanerozoic I: Palaeozoic"
+
+<YouTube id="XWwEZnRBWCM" />
+
+### "Momentum" - Nils Frahm vom Album "All Melody"
+
+<YouTube id="HOQ0kGBsiwk" />
+
+### "Under The Fragmented Sky" - Lunatic Soul vom Album "Under The Fragmented Sky"
+
+<YouTube id="X3dg0jYlX0I" />
+
+### "Hoehlenlichter" - Recondite vom Album "Daemmerlicht"
+
+<YouTube id="Frew2Nwo-t4" />
+
+### "Part Eleven" - Paul Kalkbrenner vom Album "Parts Of Life"
+
+<YouTube id="V0QJLDM7Nak" />
+
+### "Luminary" - TesseracT vom Album "Sonder"
+
+<YouTube id="jJKsmaGtrjo" />
+
+### "Condemned To The Gallows" - Between The Buried And Me von der EP "Automata I"
+
+<YouTube id="Tq8u0uDK61E" />
+
+### "Syncage" - This Will Destroy You" vom Album "New Others Part One"
+
+<YouTube id="PB_VMHlMg08" />
+
+### "We're Not Done" - Mogwai vom Album "KIN"
+
+<YouTube id="K5rtIRHnRSI" />
+
+## Hier geht's zu den Playlists:
 
 <Playlist
   itunes="w2018-matze-top-30/pl.u-gpp7t8RXNXl"
