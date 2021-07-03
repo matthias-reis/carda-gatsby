@@ -69,6 +69,8 @@ Endlich bekommen wir nach und nach die Alben komplett zu hören, von denen wir i
 
 Matze und ich würden am liebsten jeden Monat einen Song von 65daysofstatic in die Liste aufnehmen. Inzwischen gehört sie nicht mehr nur zu meinen Lieblingsbands. Auch Matze ist die Band aus Sheffield mehr als nur ans Herz gewachsen. Das Album "replicr" erscheint in Kürze und wird sicher hier im Blog auch mehr Beachtung finden. Letzten Monat hatten wir die erste Auskopplung "Trackeplatz" in der Liste. Weil Matze am liebsten "Popular Beats" mit drauf gepackt hätte und es inzwischen mit "Five Waves" noch eine dritte gibt, kommt Ihr heute wieder in den Genuss, Post-Rock für die Seele mit uns zu genießen. Matze rechnet übrigens mit einem Kopf-an-Kopf-an-Kopf-Rennen um das Album des Jahres zwischen Tool, Cult Of Luna und 65daysofstatic - es ist eben ein hochkarätiges Jahr, was Musikveröffentlichungen angeht. Wir bleiben dran.
 
+<YouTube id="dH9tZ5z4dFg&list=RDdH9tZ5z4dFg&start_radio=1" />
+
 ## .gif from god - "Possible Futures In the Minds Of Children" vom Album "Approximation Of A Human"
 
 .gif from god machen harte Musik, die ins Herz geht. Darum spielen sie in meiner Musiksammlung inzwischen schon fast sowas, wie eine tragende Rolle. Das neue Album "Approximation Of A Human" solltet Ihr auf jeden Fall mal komplett anhören. Neben irren Sounds macht die Band aus Richmond, Virginia im Web übrigens auch mit irren Bildern auf sich aufmerksam. Schaut mal nach.
@@ -121,7 +123,7 @@ So, wie die Musik klingt, muss ich mir diesen Film ansehen. Matze hat sich in le
 
 Das Album, von dem dieser Song stammt, hat mir der Schallplattenhändler meines Vertrauens ans Herz gelegt und was soll ich sagen? Sie ist mir an selbiges gewachsen und ich höre sie seitdem immer wieder. "That Bird" ist, finde ich, ein schöner Einstieg in den Blues der 2008  gegründeten Tesky Brothers aus Melbourne.
 
-<YouTube id="azE_CKdS_JE" />
+<YouTube id="pcw8WTHBeVs" />
 
 ## Tool - "7empest" vom Album "Fear Inoculum"
 

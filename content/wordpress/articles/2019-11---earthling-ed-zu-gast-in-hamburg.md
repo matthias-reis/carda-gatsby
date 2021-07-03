@@ -103,6 +103,4 @@ Da es sich um ein kostenloses Event handelte, an dem keiner was verdient, wurden
 
 Vielen Dank an [Earthling Ed](https://earthlinged.org/), [Anonymous For The Voiceless](https://www.anonymousforthevoiceless.org/) Hamburg, Inbar, Liza Marie und alle anderen, die das Event möglich gemacht haben! Ihr seid großartig!
 
-Hat Euch mein Beitrag neugierig gemacht? Das freut mich sehr! Hier ein Video zum Thema "wütende Veganer\*innen", das Ed vor einiger Zeit aufgenommen hat.
-
-<YouTube id="OMIsFajOCYk" />
+<YouTube id="byTxzzztRBU" />

@@ -70,6 +70,6 @@ Ihr könnt "While You Still Can" als CD, Digitalversion oder als 12" Vinyl vorbe
 
 In Kürze findet Ihr hier im Blog mein Interview mit Vinny Peculiar sowie die Rezension zum Album "While You Still Can". Bleibt also am besten dran, es bleibt spannend!
 
-- [Vinny Peculiar Bandcamp](https://vinnypeculiar.bandcamp.com/)
+[Vinny Peculiar Bandcamp](https://vinnypeculiar.bandcamp.com/)
 
 **Picture &amp; artwork:** [Vinny Peculiar](https://vinnypeculiar.com/?fbclid=IwAR1F-yhtN3DoZkDLO8P4xjMD3chrQA4sOLjYYIG4a4uEJSxe7QOaY5f_b4k)

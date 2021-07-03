@@ -176,12 +176,6 @@ Friedrich Mülln von der SOKO Tierschutz kommentiert den Fall:
 
 Die Großdemo für die Schließung des Hamburger Tierversuchslabor LPT startet um 14 Uhr am Neugrabener Markt und ist bis 17 Uhr angesetzt. Die Mahnwache vor dem LPT in der Oldendorfer Straße 41 in Neuwulmsdorf soll von 19 bis 21 Uhr gehen. Auf Facebook findet Ihr eine Veranstaltung unter dem Namen "Großdemo gegen das Todeslabor LPT", der ihr zusagen könnt, wenn Ihr teilnehmen möchtet.
 
-**TRIGGERWARNUNG - VORSICHT! DAS FOLGENDE VIDEO ZEIGT VERSTÖRENDE BILDER!**
-
-## Hier die Bilder aus der verdeckten Ermittlung
-
-<YouTube id="qFjF0Dy3Uh0" />
-
 Dr. Zietek, Wissenschaftskoordinatorin bei den Ärzten gegen Tierversuche findet klare Worte:
 
 > "Die verdeckten Ermittlungen müssen unbedingt rechtliche Konsequenzen haben",

@@ -124,7 +124,7 @@ Die Arbeiter greifen sich die Küken nach und nach vom Band und nehmen sie in Au
 [^1]: [Pressemitteilung der Albert Schweitzer Stiftung vom 13.06.2019](https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz)
 [^2]: [Pressemitteilung vom Bundesverwaltungsgericht zum Urteil BVerwG 3 C 28.16 und 3 C 29.6 am 13.06.2019](https://www.bverwg.de/pm/2019/47)
 [^3]: [WDR](https://www1.wdr.de/nachrichten/rheinland/nutztierhaltung-nrw-100.html)
-[^4]: [Norma](https://www.presseportal.de/pm/62097/4363476 target=)
+[^4]: [Norma](https://www.presseportal.de/pm/62097/4363476)
 [^5]: [Albert Schweitzer Stifung](https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz)
 [^6]: [PETA](https://www.peta.de/eier)
 [^7]: [Foodwatch](https://www.foodwatch.org/de/newsletter/2019/das-ist-der-blanke-hohn/?L=0)

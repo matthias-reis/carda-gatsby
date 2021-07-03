@@ -208,7 +208,7 @@ Wer kann sich nicht an den Moment erinnern, in dem zum ersten Mal die gegrillte 
 
 Für mich als leidenschaftlichen [Nine Inch Nails](/tag/nine-inch-nails/) Fan darf "The Downward Spiral" in diesem Artikel selbstverständlich auf keinen Fall fehlen. Bei der Platte, die auch als "Halo 8" bekannt ist, handelt es sich um die achte Veröffentlichung der Band um Trent Reznor. Trigger-Warnung: Das Konzeptalbum handelt von einem Menschen mit Depressionen und Selbstmordgedanken.
 
-<YouTube id="2gsW4AgXzEg" />
+<YouTube id="UePiNA--ook&list=OLAK5uy_mGt_MdLai3rmm3yCONSz1AtDi1tbJwUic" />
 
 #### Pink Floyd - "The Division Bell"
 
@@ -382,7 +382,7 @@ Nochmal Trip-Hop aus Bristol. Ohne Massive Attack hatte es Trip-Hop vielleicht n
 
 Über das Leben und Sterben des Hardcore-Rappers Notorious B.I.G. kann man sagen, was man möchte: Man kommt um seine Musik auf keinen Fall herum. Seine Verkaufszahlen sind noch heute rekordverdächtig. Seine Musik hat den heutigen Hip-Hop nachhaltig geprägt.
 
-<YouTube id="_lb0HImG_MU" />
+<YouTube id="FpaqWcgllHY&list=PL16769FFF0C9516D5" />
 
 ### Oktober
 
@@ -416,7 +416,7 @@ Nochmal die Melvins! Was soll man machen, wenn die zwei Alben in einem Jahr ver�
 
 Die Aufnahmen zu "Unplugged In New York" entstanden fünf Monate vor Kurt Cobains Tod am 18. November 1993. Das Konzert wurde am Tag der Aufzeichnung weltweit im Fernsehen übertragen und danach noch oft gezeigt. Neben eigenen Kompositionen spielten Nirvana auch Lieder von [David Bowie](/2016/01/rip-david-bowie-abschied-von-einer-ikone/), den Meat Puppets sowie Leadbelly und den Vaselines. Curt und Chris Kirkwood von den Meat Puppets sorgten beim Auftritt für musikalische Unterstützung (Background-Vocals, Bass und Gitarre). Für mich persönlich war "Unplugged In New York" eines der wichtigsten Alben überhaupt. Nicht nur, weil ich damit von Kurt Cobain Abschied nehmen konnte, sondern auch, weil es mich dazu brachte, mich mit vielen weiteren Bands zu beschäftigen und tiefer in die Geschichte von Nirvana einzutauchen.
 
-<YouTube id="ZDY1bl9EWxo" />
+<YouTube id="hEMm7gxBYSc" />
 
 #### Meshuggah - "None"
 
@@ -447,8 +447,6 @@ Das Debütalbum der Londoner Band Bush wird gerne mal dem Grunge zugeordnet. Sp�
 #### Pearl Jam - "Vitalogy"
 
 "Vitalogy" war nach "Ten" und "Vs." das dritte Album von Pearl Jam. Die Ursprünge der Band liegen in der Heimat des Grunge: Seattle. Als einzige Band aus der Grungezeit lebt sie ohne Unterbrechungen weiter und begeistert die Fans mit jedem Konzert und jeder Aufnahme erneut. Eddie Vedder ist definitiv einer der besten Sänger der Welt - wäre das hier eine "Hitliste des Jahres 1994" würde Pearl Jam an erster Stelle stehen.
-
-<YouTube id="hbpUfWz-rlc" />
 
 #### Porcupine Tree - "Staircase Infinities"
 

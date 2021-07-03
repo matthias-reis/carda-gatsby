@@ -45,7 +45,7 @@ Jedes Jahr nehmen wir der Erde mehr weg. Das Global Footprint Network rechnet ü
 
 <RemoteImage
   alt={`earth-overshoot-day-2019`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_How_many_Earths_2019_German_update-medium-768x1261__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_How_many_Earths_2019_German_update-medium-768x1261__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABMDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwYI/8QAKhAAAgEDAgQFBQEAAAAAAAAAAQIDAAQREiEFMUFhBiIyUeETFCMzgaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIRISJB/9oADAMBAAIRAxEAPwDpYFJpphruFIdlwHYDI/lJTxsC7MAhumYSGMD7jniQp7ds06ihzNcMGJwzsSByz03PxWc4BEp8TuwLEq05/UigfkfqGJ/yt3gKdp0jY2xc28RkjMblQWQtqKnG4z1x70VbRWBRVB5ri4PlOl5Onp+aS+GFEvH751kdhGZMjOwJlk7djTmE3Iv5w9m8cWpsStMGBB6hQDv2OKjgcDwG5+pbvE7yswZ5NesFmIOBsvq5VeBvaSY3ooHLeioIf//Z"
@@ -53,15 +53,15 @@ Jedes Jahr nehmen wir der Erde mehr weg. Das Global Footprint Network rechnet ü
 
 Weltweit finden am morgigen Earth Overshoot Day 2019 Veranstaltungen statt, um auf das Problem aufmerksam zu machen. So auch bei uns in Hamburg:
 
+Informiert Euch am besten direkt beim Global Footprint Network, was in Eurer Stadt los ist und schließt Euch den Demos und Vorträgen an. Je mehr Menschen darauf aufmerksam machen, wie es um unsere Erde bestellt ist, umso besser. Die Organisation spricht von "Raubbau" und trifft dabei die einzig richtige Wortwahl. Wir gefährden die Regenerationsmöglichkeit der Natur in Gefahr und damit auch unsere und die Zukunft unserer Nachfahren.
+
 <RemoteImage
   alt={`earth-overshoot-day-2019`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-44__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-44__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAwQF/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDBAURABIhEzEGByJBYRUyFCRCUXGRsf/EABkBAAIDAQAAAAAAAAAAAAAAAAACAQMEBf/EAB0RAQACAQUBAAAAAAAAAAAAAAEABAIDESEicTL/2gAMAwEAAhEDEQA/AKri6x2+pd0MirGSVBxkalfCqXazfiLVJArSx5iLNIzA+5OARxg6LgkclDUJO5jiaMh3ABKj3OD31ptlVT1Vtd6Sot9DBEp6FHGqH0oWJdyRx6snBJHIOs2LOdU+WJppauleaorbHWxW9ThZZgUxlsBjn4xxpwWOOFVjgGIQo2DOfSQCP90rVZj2RV9yhL0xcSAdNBHK4yTFjbu/Tz/Pzpq6hmxIVhTcAdsH2LwOF4HA7dtKu7C29SV1EFFUwyQXWsaht8ilaiqUZMKHuw+dY/FNL5W3aq6ts8W1VimTABpKeeSOQrja5jKBQTgk7SATzjRo1dpHEekb4Psqscfl7Q3Ge6Xrx5U36YO8y0U9vlip5XZdpLJtP7ngY7Z104vpvTX6EWa04/KlixPT9vu9X986NGo1ADiF0DA9n//Z"
 />
-
-Informiert Euch am besten direkt beim Global Footprint Network, was in Eurer Stadt los ist und schließt Euch den Demos und Vorträgen an. Je mehr Menschen darauf aufmerksam machen, wie es um unsere Erde bestellt ist, umso besser. Die Organisation spricht von "Raubbau" und trifft dabei die einzig richtige Wortwahl. Wir gefährden die Regenerationsmöglichkeit der Natur in Gefahr und damit auch unsere und die Zukunft unserer Nachfahren.
 
 ## "Wir können die Erde nicht ewig übernutzen!"
 
