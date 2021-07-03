@@ -30,8 +30,6 @@ subTitle: Das war 2013
 
 Schon seit gefühlten Ewigkeiten habe ich mir vorgenommen, endlich meinen Jahresrückblick zu veröffentlichen und heute ist es soweit! Die Statistik-Elfen haben ihn für mich erstellt und ich finde ihn sehr interessant, daher möchte ich ihn Euch natürlich ungern vorenthalten.
 
-[](//2013/annual-report/)
-
 Hier ist ein Auszug:
 
 > Die Konzerthalle im Sydney Opernhaus fasst 2.700 Personen. Dieses Blog wurde in 2013 etwa **13.000** mal besucht. Wenn es ein Konzert im Sydney Opernhaus wäre, würde es etwa 5 ausverkaufte Aufführungen benötigen um so viele Besucher zu haben, wie dieses Blog.

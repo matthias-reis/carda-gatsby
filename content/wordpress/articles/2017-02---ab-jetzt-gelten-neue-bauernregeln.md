@@ -54,12 +54,16 @@ Das Deutsche Tierschutzbüro setzt sich für die Rechte der Tiere ein. Jüngst s
 
 Wer mehr erfahren möchte, findet das Deutsche Tierschutzbüro [hier auf Facebook](https://www.facebook.com/Tierschutzbuero/?fref=ts)  und  [hier geht es zur Homepage](https://www.tierschutzbuero.de/).
 
-<RemoteImage
-  alt={`Neue Bauernregeln`}
-  size="full"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAIEAwUGB//EACcQAAIBBAECBgMBAAAAAAAAAAECAwAEESESMVEFExQiQWEGMnHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAQUG/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAEDESEjgTH/2gAMAwEAAhEDEQA/APWYEaRyFDKoOPdgZP1RPaSmVJUupgijaKgIb7OtVjKK0V2stu9wpkDYVc8idg4B+NfI6VIkQCIBbMrKAoxYvgA55LjnsHJoC8NVK8l0dnMryStPNIrDAjZQoU9xrr/tPIhR0A5MpOCePQ9jWt8lVQNDalJlUe0WrEj3EE4542B067zV0UcY9GtvE0UYkZ8OuCpxvIJzvP3VMjVZH/MvDnvTbeX4j4hZYRwfSS+Xn9dnXUV2PBRripx3Aoop+daY+nOwvbJwgfnzfEjAZOBga3/Ka35F2VnLDiTgqO38oopOgqbs/9k="
-/>
+Wenn Ihr die Aktion  _Neue Bauernregeln_ unterstützen wollt, klickt am besten einfach hier auf das Banner.
+
+<a target="_blank" href="http://neue-bauernregeln.com/">
+  <RemoteImage
+    alt={`Neue Bauernregeln`}
+    size="full"
+    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__m.jpg"
+    largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__l.jpg"
+    loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAIEAwUGB//EACcQAAIBBAECBgMBAAAAAAAAAAECAwAEESESMVEFExQiQWEGMnHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAQUG/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAEDESEjgTH/2gAMAwEAAhEDEQA/APWYEaRyFDKoOPdgZP1RPaSmVJUupgijaKgIb7OtVjKK0V2stu9wpkDYVc8idg4B+NfI6VIkQCIBbMrKAoxYvgA55LjnsHJoC8NVK8l0dnMryStPNIrDAjZQoU9xrr/tPIhR0A5MpOCePQ9jWt8lVQNDalJlUe0WrEj3EE4542B067zV0UcY9GtvE0UYkZ8OuCpxvIJzvP3VMjVZH/MvDnvTbeX4j4hZYRwfSS+Xn9dnXUV2PBRripx3Aoop+daY+nOwvbJwgfnzfEjAZOBga3/Ka35F2VnLDiTgqO38oopOgqbs/9k="
+  />
+</a>
 
 **Bilder:** Deutsches Tierschutzbüro

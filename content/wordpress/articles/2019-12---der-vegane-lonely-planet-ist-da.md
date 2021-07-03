@@ -121,14 +121,3 @@ Ein Roadtrip durch Deutschland und Österreich? Klingt eigentlich gar nicht so d
 Das [Vegan Travel Handbook](http://tidd.ly/b1b6af2a) von Lonely Planet hat insgesamt 169 Seiten. Die Erstausgabe ist im Dezember 2019 erschienen und als E-Book und Printversion erhältlich. Wer jetzt Lust bekommen hat, sich den veganen Lonely Planet mal genauer anzuschauen, kann das einfach [auf der Homepage des Verlages](http://tidd.ly/b1b6af2a) tun.
 
 **Bilder / pictures:** [Lonely Planet](http://tidd.ly/23a505b6)
-
-<!-- START ADVERTISER: Lonely Planet Publications from awin.com -->
-
-<RemoteImage
-  size="medium"
-  mediumUrl="https://www.awin1.com/cshow.php?s=2459095&amp;v=1238&amp;q=369704&amp;r=632580"
-  largeUrl="https://www.awin1.com/cshow.php?s=2459095&amp;v=1238&amp;q=369704&amp;r=632580"
-  loadingUrl="undefined"
-/>
-
-[](https://www.awin1.com/cread.php?s=2459095&v=1238&q=369704&r=632580)

@@ -97,7 +97,7 @@ Weil sie das neunfache ihres Eigengewichts an Feuchtigkeit speichern können, si
   loadingUrl="undefined"
 />
 
-Dass ich mich da ziemlich verschätzt hatte, bewies mir Matze, der damit in der Küche die tollsten Dinge anstellt. Er fügt es so gut wie jedem Gericht hinzu und kann sich Kochen ohne Paprikapulver nicht so wirklich vorstellen. Sein süßlich-herber Geschmack macht seine Currywurst, Pizza, Pastagerichte und [Seitansbraten](/2016/01/seitan-grundrezept/) erst zu dem, was sie sind. Inzwischen stehe ich dem Pülverchen auch wesentlich aufgeschlossener gegenüber. Es kommt in meinen selbst gemachten [veganen Käse](/2014/11/suechtig-nach-kaese-casomorphine/), in die Suppe und sogar in den Pfannkuchenteig. Vielleicht bin ich auch einfach eine Spießerin geworden - im Standardsortiment unserer Küche darf es seit einiger Zeit auf jeden Fall auch für mich nicht mehr fehlen. [](https://www.adcell.de/promotion/click/promoId/209308/slotId/80259)
+Dass ich mich da ziemlich verschätzt hatte, bewies mir Matze, der damit in der Küche die tollsten Dinge anstellt. Er fügt es so gut wie jedem Gericht hinzu und kann sich Kochen ohne Paprikapulver nicht so wirklich vorstellen. Sein süßlich-herber Geschmack macht seine Currywurst, Pizza, Pastagerichte und [Seitansbraten](/2016/01/seitan-grundrezept/) erst zu dem, was sie sind. Inzwischen stehe ich dem Pülverchen auch wesentlich aufgeschlossener gegenüber. Es kommt in meinen selbst gemachten [veganen Käse](/2014/11/suechtig-nach-kaese-casomorphine/), in die Suppe und sogar in den Pfannkuchenteig. Vielleicht bin ich auch einfach eine Spießerin geworden - im Standardsortiment unserer Küche darf es seit einiger Zeit auf jeden Fall auch für mich nicht mehr fehlen.
 
 ## Handcreme
 
