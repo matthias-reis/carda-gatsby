@@ -41,17 +41,17 @@ year: '2016'
 month: '03'
 ---
 
+**Seit ich denken kann, lege ich zu verschiedenen Themen Fotoordner an. Unter Anderem habe ich in den letzten Jahren Fotos von Straßenlaternen gesammelt.**
+
+Sie sind in Hamburg, Fulda und Venedig beheimatet, im Süden und im Norden. Sie stammen aus London, Ulm, Berlin und Istanbul. Einige davon befinden sich vielleicht sogar direkt in Eurer Nachbarschaft.
+
 <RemoteImage
   alt={`Straßenlaternen`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_17181970449_87b4bc5eac_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_17181970449_87b4bc5eac_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURAAYSEyExIkFRByOBkTJCcf/EABYBAQEBAAAAAAAAAAAAAAAAAAQABf/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEESExQf/aAAwDAQACEQMRAD8AWLLtqWsRTIQqE4UFA3b+3nt8frU28baorW71lVV1FJCARSTQxdQqwVmPPiMgenGT86cNvqggXJAUDufgarNxbso4aS3iimo6q5NPyWGJg4ClXAyD57FfSfJ7a186pAp2e/Jm4djEggcijFdoLnuewVNJmaRi0ctNKgV45XVU5hsYI8ePbOtPG34xEpkHUKnOCDxB/wAPn8654uN7qLNeGgpWVWomZSP5FGz6se2Qcg49/HYDWy7a3TVyWCkulLBLXWxzJHwz91XUAsuO57Agj2wToNGRokNF208BWVFnvk0tNInTCAyGIlTg8cHP57edJ7WtLHRR3KmmlmqpXSmU1GJemjNj08gcEYGDo0asqxmbZMqEVRpRFr6g1vO4zUXRiWSkc/fVQrSejkcgDTl9M9wSPs2pAgVBQVMUkXBiME9j+8aNGhsT7FLP/9k="
 />
-
-**Seit ich denken kann, lege ich zu verschiedenen Themen Fotoordner an. Unter Anderem habe ich in den letzten Jahren Fotos von Straßenlaternen gesammelt.**
-
-Sie sind in Hamburg, Fulda und Venedig beheimatet, im Süden und im Norden. Sie stammen aus London, Ulm, Berlin und Istanbul. Einige davon befinden sich vielleicht sogar direkt in Eurer Nachbarschaft.
 
 ## Ich zeige Euch meine Straßenlaternen.
 

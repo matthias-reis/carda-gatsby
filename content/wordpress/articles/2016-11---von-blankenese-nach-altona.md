@@ -29,15 +29,6 @@ errors: {}
 subTitle: Winterliche Elbe
 ---
 
-<RemoteImage
-  alt={`Blankenese`}
-  size="medium"
-  title={`"Unten am Fluss, die Füße im Sand und den Blick auf die gewaltigen Tiere..."`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31047545891_118f076322_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31047545891_118f076322_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAgYHAQME/8QAKhAAAgECBgAFBAMAAAAAAAAAAQIDBBEABQYSITEHFFFhcSIjQZEygYL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AeoISfqcnHQIrcqMb1jtxhE1pntdl+c1ENLUtBHS0S1OwAESsSeCfTgC3zgHZUO0ccdYzLSssJlBsfwD1hX8J5p6+OVqmeSXdTxTOzuW+492IHoOT/VsOs9RTyO0LMpFwiqwsCewPc4AljD223N8RHxAp5M81o9PSVDmORlohc3Ni1mZR0QCTYd4p2rdQDJMjYo+yuqW8vTextdn/AMjn5tie6QjKeJun0Rg0aOXJv1tRmN/1gA8MKh8kzhsvrKkbqxfLSb1sEkUkLzf2K/rFXgy52gZq2FGnBPJO4D0IP44xGq6CGHXWoaRqgPCtbKFeEhrAnd31xut8jFd0tni5vlZjlINbSkRzWP8AMEfTIPkA39wcB//Z"
-/>
-
 **"Was macht Anne in Blankenese? Ist sie jetzt unter die Reichen und Schönen gegangen?" - Ihr müsst mich jetzt nicht stalken, ich gehöre nach wie vor zum Pöbel. Nach Blankenese führte mich am Montag lediglich ein Arzttermin.**
 
 ## Blankenese - Los gehts im Treppenviertel

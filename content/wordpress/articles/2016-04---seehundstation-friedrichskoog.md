@@ -33,14 +33,6 @@ errors: {}
 subTitle: Die Tierretter von der Nordseeküste
 ---
 
-<RemoteImage
-  alt={`Seehundstation Friedrichskoog`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_04_25701626344_844c634ac9_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_04_25701626344_844c634ac9_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAcG/8QAKRAAAgEEAgEDAgcAAAAAAAAAAQIDAAQFERIxIQYHExRhMkFCcYGRsf/EABgBAAIDAAAAAAAAAAAAAAAAAAACAQME/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAECAxESITFB/9oADAMBAAIRAxEAPwDXsTZWjIh0GPewPP8Aeqlzt3jcBj2u7uD5Edwixjkeb6J8DR14B3+Xiq2Hu0W1VyToDoDZP2FcN71ZmSb0/DCr3lkFuQOcMvBlYDY2RsEHWtVlpUlPcuIlzfhoOCyeN9Q4gXuPRDCZGTWwdMvfkfx1SfPWgjSR0VdsPIbZA/YdUp9n50XBXHFOEFwVmiBcMzaHFnbQGiTrx9qfZuUSRukMZkc/pUboqRUHZBdljB+nvhiVjezN43+ECrk3pPGXYP1ZuZl5B+JkAGwdg9diiiroLHgthha4fG2QPwWzE6A3JIz/AO0XMUYHFUAXXQ6ooporJ7DiP//Z"
-/>
-
 **Am Ostermontag haben wir neben [Büsum](/2016/04/buesum-zeigt-sich-sonnig-und-stuermisch/) auch die Seehundstation in Friedrichkoog besucht. Ich hatte meine Kamera dabei und habe ein paar Aufnahmen gemacht.**
 
 Mit dem Teleobjektiv sind mir sogar ein paar Bilder von den Heulern gelungen, die zu ihrem Schutz in den hinteren Becken untergebracht sind. Die komplette Galerie findet Ihr wie immer unter dem Artikel.
@@ -160,9 +152,17 @@ Unter einem Heuler versteht man ein dauerhaft von der Mutter getrenntes Seehund-
 
 Werden Jungtiere in der Station aufgenommen, kommen sie zunächst in Quarantäne, um sicherzugehen, dass sie keine Krankheiten haben. Erst wenn es ausgeschlossen ist, dass sie andere Tiere anstecken, werden sie in kleine Gruppen integriert.
 
-**Wann kommen die Tiere wieder ins Meer?**
+### Wann kommen die Tiere wieder ins Meer?
 
 Wenn die Seehunde und Robben keine schwerwiegenden Probleme haben, die ein Überleben "draußen" für sie unmöglich machen, kommen sie mit dem Erreichen des Mindestgewichts von 25 Kilo und einer Untersuchung durch einen Tierarzt wieder in die Freiheit.
+
+<RemoteImage
+  alt={`Seehundstation Friedrichskoog`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_04_25701626344_844c634ac9_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_04_25701626344_844c634ac9_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAcG/8QAKRAAAgEEAgEDAgcAAAAAAAAAAQIDAAQFERIxIQYHExRhMkFCcYGRsf/EABgBAAIDAAAAAAAAAAAAAAAAAAACAQME/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAECAxESITFB/9oADAMBAAIRAxEAPwDXsTZWjIh0GPewPP8Aeqlzt3jcBj2u7uD5Edwixjkeb6J8DR14B3+Xiq2Hu0W1VyToDoDZP2FcN71ZmSb0/DCr3lkFuQOcMvBlYDY2RsEHWtVlpUlPcuIlzfhoOCyeN9Q4gXuPRDCZGTWwdMvfkfx1SfPWgjSR0VdsPIbZA/YdUp9n50XBXHFOEFwVmiBcMzaHFnbQGiTrx9qfZuUSRukMZkc/pUboqRUHZBdljB+nvhiVjezN43+ECrk3pPGXYP1ZuZl5B+JkAGwdg9diiiroLHgthha4fG2QPwWzE6A3JIz/AO0XMUYHFUAXXQ6ooporJ7DiP//Z"
+/>
 
 ### \*Was ist ein "Seehundjäger"?
 

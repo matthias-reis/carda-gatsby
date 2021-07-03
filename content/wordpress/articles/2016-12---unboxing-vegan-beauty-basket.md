@@ -122,7 +122,7 @@ Beim Öffnen purzeln mir 4 Badepralinen entgegen. Zwei davon fülle ich sofort i
 
 Last but not least finde ich im Päckchen noch ein zauberhaft verpacktes Reiseset von SHANTI. Dazu gehören ein Gesichtsöl aus Traubenkern,- Aprikosenkern-, Jojoba, Weizenkeim und Ringelblumenöl, ein Anti Aging Fluid und ein kleines Zuckerpeeling. Das Säckchen wandert gleich in meinen Kulturbeutel und kommt mit auf die nächste Reise. Ich freue mich schon sehr drauf, es zu testen.
 
-Das Schönste am Basket ist wiedermal die wundervolle selbstgemachte Postkarte von Ina, die jetzt neben der aus der letzten Box hier über meinem Schreibtisch hängt. <3
+Das Schönste am Basket ist wiedermal die wundervolle selbstgemachte Postkarte von Ina, die jetzt neben der aus der letzten Box hier über meinem Schreibtisch hängt.
 
 Wollt Ihr den Vegan Beauty Basket auch mal ausprobieren? Wer möchte, kann sich jetzt schon die [Januar-Ausgabe reservieren](https://www.veganbeautybasket.com/index.php/de/vegan-beauty-basket-einzeln-ausprobieren).
 

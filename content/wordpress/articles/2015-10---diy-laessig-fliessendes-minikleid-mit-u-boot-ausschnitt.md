@@ -136,6 +136,6 @@ Jetzt müsst Ihr Euer Meisterwerk nur noch wenden und anprobieren. Das Minikleid
 Ich wünsche Euch viel Spaß beim Nähen und beim Tragen Eures neuen Minikleides! Schickt mal ein Bild, wenn es fertig ist, ich bin gepannt!
 
 [^1]: Der Schnittbogen
-[^2]: Die  [Buttinette](https://basteln-de.buttinette.com/shop/start) Ich wünsche Euch viel Spaß beim Nähen und beim Tragen Eures neuen Minikleides! Schickt mal ein Bild, wenn es fertig ist, ich bin gepannt! <3
+[^2]: Die  [Buttinette](https://basteln-de.buttinette.com/shop/start) Ich wünsche Euch viel Spaß beim Nähen und beim Tragen Eures neuen Minikleides! Schickt mal ein Bild, wenn es fertig ist, ich bin gepannt!
 
 Meine Schritt-für-Schritt-Anleitung für ein wärmendes Körnerkissen [findet Ihr hier](/2015/09/diy-koernerkissen-naehanleitung/).

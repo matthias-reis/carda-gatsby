@@ -28,17 +28,17 @@ errors: {}
 subTitle: Gedanken zum Fest
 ---
 
+**Kurz vor Jahresende. Menschen haben Muße zu schreiben. Briefe, Postkarten, Grüße und sogar Reden. Entstehen, werden verschickt, gelesen, vorgetragen, gehört.**
+
+Weihnachten klopft an die Tür. Sind schon alle Geschenke verpackt? Was gibt es am zweiten Weihnachtsfeiertag zu essen? Ist noch Tomatenpüree da? Vor dem Fenster der ewige Lärm der Bauarbeiter. Sie sägen, fräsen, frieren, schwitzen, fluchen, rauchen, wollen nach Hause zu ihren Lieben. Nach Barmbek, Eimsbüttel, Buxtehude, Pinneberg. Zehlendorf? Ravensburg? Izmir? Trinidad?
+
 <RemoteImage
   alt={`Weihnachten`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31276685365_778c95b603_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31276685365_778c95b603_o__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwj/xAAsEAACAgEEAQIDCQEAAAAAAAABAgMRBAAFEiExBlETQXEHFRYiYYGRscHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQMCBP/EACERAAICAAUFAAAAAAAAAAAAAAECABEDBBMhQRIiMVFh/9oADAMBAAIRAxEAPwBdu227tse+GIbJLlwwxGFZsdwqMB0DRa/18aWfiLeI8d4WwsqNFQBEWDlVX2T89UMv2lfCgghzth3DJ4VymGeJL8gErxU0Ax97oartq24T5+PIk3GGWIlOCLbi78sOvb+RpTL9tEHb2YYmYIYeN/k58z9wyBmSnJOSnKRmMZHALZBrtf8Ar0FHE+5Y4nXKxIEjBtcjMKvQPXQQ+2tX9f8Ap+GJcqGOeCTJjktkHTCvIuj4H9ayfMxJoJfhxFx8vNX/AJqmmF4mdRm5lLkTSSLXxm6HZBoaHgz87bGZsHMljF3StQvzdaWZGQQgZDfvZ0ONyKoQ48+TeuhjIASkb1Y87v8AekZynkVozJyo8W6IK9X1+9aBzNzxJPyxRqi3wVUSuC/TqvppC0qSjkpGhpyCPC2O+utCtQqLL1G5/9k="
 />
-
-**Kurz vor Jahresende. Menschen haben Muße zu schreiben. Briefe, Postkarten, Grüße und sogar Reden. Entstehen, werden verschickt, gelesen, vorgetragen, gehört.**
-
-Weihnachten klopft an die Tür. Sind schon alle Geschenke verpackt? Was gibt es am zweiten Weihnachtsfeiertag zu essen? Ist noch Tomatenpüree da? Vor dem Fenster der ewige Lärm der Bauarbeiter. Sie sägen, fräsen, frieren, schwitzen, fluchen, rauchen, wollen nach Hause zu ihren Lieben. Nach Barmbek, Eimsbüttel, Buxtehude, Pinneberg. Zehlendorf? Ravensburg? Izmir? Trinidad?
 
 ## Wo ist zu Hause?
 

@@ -29,19 +29,19 @@ errors: {}
 subTitle: Eine Seite aus dem Tagebuch
 ---
 
-<RemoteImage
-  alt={`Tagebuch`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29611318381_0d404d3b27_z-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29611318381_0d404d3b27_z-1__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAcD/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURABIhBhMVIjFBUXEyUmFigf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAhEQACAgEDBQEAAAAAAAAAAAABAgAR8AMhMRITIkFRYf/aAAwDAQACEQMRAD8Aym83CottzenmLHs/r7DHr8fHOtN6Ivtun6T8Su1QaeOaV4Ie4jM0yIV3lAoJYDgZxxjGk/USUN2iQeFwVc0cohi4xuyfMT/XHt9adrT1K2qzS3KHFFT1fYSjiO1URxhQ20ZPnxwAfUcaTo7T3JgBx+x307dKW9V0yWunrXwkjs8qNCNpK7ioYZYjk4+CNPJ2EfbkUhkypwoAJB8xzx9ahJ3npp4KOdqRYZEaFq1RFEgf14zlsKduPo41UnZ6GhjineGqUMCk8QfaUL8KNxycbvX341bxdQQKrLiNptptRNg5UQWqlho6anSJBlUDbz+RLevP0MaudVsF6MqjsUsq7wSMjcrBgcH+QDo0awbm4es+xJYOpbhfsiiFNQCnp2IlaETzELIBgM2FGc/p7DXS4Sz0NXBUyVVVWVMrhDNUzF2A7kZ8o/Ff8A0aNKp3lG5rOJ//2Q=="
-/>
-
 **Euch ist vielleicht aufgefallen, dass ich lange Zeit nicht besonders viel gebloggt habe.**
 
 Dass ich derzeit [auf Themensuche bin](/2016/11/aufruf-themen-gesucht/), habe ich Euch schon erzählt. Allerdings habe ich auch nicht tatenlos rumgesessen. Unter anderem bin ich seit Kurzem Textchefin beim Welt Vegan Magazin, für das ich auch schon seit einiger Zeit regelmäßig Artikel liefere.
 
 Für die nächste Ausgabe, die in Kürze erscheinen wird, habe ich schon alle Texte überarbeitet. Ich bin sehr gespannt auf das fertige Heft und gebe Euch natürlich sofort Bescheid, wenn es im Handel ist. Stolz wie Bolle bin ich, dass ich nun "richtig dazugehöre", das gebe ich hiermit zu!
+
+<RemoteImage
+  alt={`Tagebuch`}
+  size="full"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29611318381_0d404d3b27_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29611318381_0d404d3b27_z-1__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAcD/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURABIhBhMVIjFBUXEyUmFigf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAhEQACAgEDBQEAAAAAAAAAAAABAgAR8AMhMRITIkFRYf/aAAwDAQACEQMRAD8Aym83CottzenmLHs/r7DHr8fHOtN6Ivtun6T8Su1QaeOaV4Ie4jM0yIV3lAoJYDgZxxjGk/USUN2iQeFwVc0cohi4xuyfMT/XHt9adrT1K2qzS3KHFFT1fYSjiO1URxhQ20ZPnxwAfUcaTo7T3JgBx+x307dKW9V0yWunrXwkjs8qNCNpK7ioYZYjk4+CNPJ2EfbkUhkypwoAJB8xzx9ahJ3npp4KOdqRYZEaFq1RFEgf14zlsKduPo41UnZ6GhjineGqUMCk8QfaUL8KNxycbvX341bxdQQKrLiNptptRNg5UQWqlho6anSJBlUDbz+RLevP0MaudVsF6MqjsUsq7wSMjcrBgcH+QDo0awbm4es+xJYOpbhfsiiFNQCnp2IlaETzELIBgM2FGc/p7DXS4Sz0NXBUyVVVWVMrhDNUzF2A7kZ8o/Ff8A0aNKp3lG5rOJ//2Q=="
+/>
 
 Zusätzlich zu meiner freien Tätigkeit habe ich vor Kurzem wieder angefangen, in meinem Ausbildungsberuf zu arbeiten. Nach zwei Monaten an der Kasse eines Drogeriemarktes habe ich den Arbeitgeber gewechselt und bin nun in einem Laden, in dem ich mich sehr wohl fühle. Das Team ist toll, die Produkte sind toll und die Philosophie ist toll. Ich habe Spaß bei der Arbeit und vermisse sie sogar zwischendurch, wenn ich mal länger frei habe. Ein toller Hauptjob.
 

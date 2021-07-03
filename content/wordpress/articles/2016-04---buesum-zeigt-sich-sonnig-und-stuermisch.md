@@ -36,18 +36,4 @@ Wir haben an diesem schönen Ostermontag noch etwas ganz Besonderes gesehen. Meh
 
 <Gallery name="flickr/annebüsum032016" />
 
-<blockquote>
-
-Es gibt nichts zu verbessern.
-
-Nichts, was noch besser wär',
-
-außer Dir im Jetzt und Hier
-
-und dem Tag am Meer.
-
-(F 4)
-
-</blockquote>
-
 Interessiert Ihr Euch auch für meine Bilder aus St. Peter Ording? [Dann klickt doch mal hier](/2015/07/zurueck-nach-st-peter-ording/).

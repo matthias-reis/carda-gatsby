@@ -31,18 +31,18 @@ errors: {}
 subTitle: Zwei Artikel sind von mir
 ---
 
+**Die neue Ausgabe vom Welt Vegan Magazin liegt in den Regalen! Höchste Zeit für Euch, zum Kiosk zu gehen! Auch dieses Mal sind wieder einige wirklich tolle Artikel dabei!**
+
+Vom Beitrag über vegane [Hochzeitskleider](/2016/02/hochzeitsfotografin-petra-fritzi-hennemann-im-interview/) über Berichte zum Thema Sport bis hin zu schmackhaften veganen Rezepten ist einiges geboten. Aus meiner Feder findet Ihr dieses Mal wieder zwei Artikel im Heft.
+
 <RemoteImage
   alt={`Das Welt Vegan Magazin 1/2016`}
-  size="medium"
+  size="full"
   title={`Das Welt Vegan Magazin 1/2016`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319062412_a3755328fb_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319062412_a3755328fb_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQFEQASIRMxURRBgQYyYQcVImOR/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgABAwT/xAAbEQADAQEAAwAAAAAAAAAAAAABAhEAAxJBof/aAAwDAQACEQMRAD8Ak7Xbrfb1hWvLK8vKKsZbOMZ7D86YHhtaxlXEyr/ZTSLj5K8fOuL65u37GLcsD29ZGjaZPUF92QyYxtP4749zqUsV3FVbLZLU1okeeIPIvrWeFlMQYYTGcDjOScEeTphQJfe5n6dAW8QIJ9yNd7LDJUBqfDxnkHRqwJoIKmTrRhemypt25x9oPGeffRpbdTQDkX9WHhmpbc81VLGopXCxxqrdQllG0+/fx51CVlshtFHZKp7pcDDIHFBDCuCP5AtHwVILeP8ACdWHQSU0lu6FfT080T8mKSJXABxgYPbsD8azdKey1NJGtTbaGVIQAimJSE5JGBjyToI0g1ulB2unuMVHSwxhjt2jhpS5Ht9xJJ7edGle43CNZ9sUcKoBhV2AYHxo09EWKAd//9k="
 />
-
-**Die neue Ausgabe vom Welt Vegan Magazin liegt in den Regalen! Höchste Zeit für Euch, zum Kiosk zu gehen! Auch dieses Mal sind wieder einige wirklich tolle Artikel dabei!**
-
-Vom Beitrag über vegane [Hochzeitskleider](/2016/02/hochzeitsfotografin-petra-fritzi-hennemann-im-interview/) über Berichte zum Thema Sport bis hin zu schmackhaften veganen Rezepten ist einiges geboten. Aus meiner Feder findet Ihr dieses Mal wieder zwei Artikel im Heft.
 
 ## Welt Vegan Magazin - Gesundheit und Lifestyle
 
@@ -54,7 +54,7 @@ Wenn Ihr was Tolles zum Thema vegan zu erzählen habt: Scheut Euch nicht, mich [
 
 <RemoteImage
   alt={`Welt Vegan Magazin`}
-  size="medium"
+  size="full"
   title={`Text: Anne Reis`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319089342_265805d22b_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319089342_265805d22b_z__l.jpg"

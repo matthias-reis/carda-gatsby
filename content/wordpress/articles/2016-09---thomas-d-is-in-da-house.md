@@ -29,14 +29,6 @@ errors: {}
 subTitle: Das neue Welt Vegan Magazin ist da!
 ---
 
-<RemoteImage
-  alt={`Thomas D`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29692324905_60c6228021_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29692324905_60c6228021_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQYD/8QAJRAAAgIBAwMFAQEAAAAAAAAAAQIDBBEABSESEzEGIlFhkTJx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQMC/8QAIhEAAgEDBAIDAAAAAAAAAAAAAQIAESHwAxIxYRNBUZHR/9oADAMBAAIRAxEAPwDvt9QVajqmAIndgXBJHSjHH6uslse2eprsdOzU3Ld6jTIvSbJQqzHJAXgY/o8fZ1upppI9v3PEhDpXmY+BkdLfH0dKbTG9ujscDUmsFs5sRTQsY16FJ6gqJ0nIVQSCfcdDMVFhXBM6aB2uafUsdq2ncKm2IdxuSS3o7YrmLICsmBj2ZPz5zqM9IpSmYIwxnBHg44/c6Vnrb5RmjeXb+1Qksd2No50LKpQj3oQG6iQPBK+PjTbWJkW4hx2j1s2D49xP+jnVWbdtI+BWQVPGWX1U8muZaVIZrFa4oPR3YZI/nHUh5+/OsTW9byzCCjNtteYVz7Xmlkk5x55b854ydGjWH4zqV0+Zb7J6tmv26FKHbqFSCUpI3aDk4KngFmPOBjOnaNqaY2xLI7Fo/JPzjRo0biReBUAE9fs//9k="
-/>
-
 **"Tja, Thomas, da ham' wir beide viel gemeinsam!" Thomas D ist Veganer aus Überzeugung. In der brandaktuellen Ausgabe des Welt Vegan Magazins könnt Ihr jede Menge über ihn erfahren** .
 
 ## Thomas D - Veganes Hip Hop-Urgestein

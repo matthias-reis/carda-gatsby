@@ -30,14 +30,6 @@ errors: {}
 subTitle: Ein Verein mit Herz für Tauben
 ---
 
-<RemoteImage
-  alt={`Stadttauben`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_17160873227_6048e2ba21_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_17160873227_6048e2ba21_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQf/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREABiESMVEHE0FhgZEUFUL/xAAXAQADAQAAAAAAAAAAAAAAAAAABAUD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhBBMiQlH/2gAMAwEAAhEDEQA/AF1Stm2tQ/2dynlQACISSyPNIxPZVBJ74PbHbR25esu3aaAikp6uebHCuntjPknnTKvoLbeqaOiuiCalEqyGNh0hmUHAbHxznjHI/Ghe4fR+x3KZ5rPVPb5Tz7ZX3YQfoZ6h+zoqNQGHEGDk6Oor2TvhaqzLcLw9DQQynEWHCOx8cZY6w729RaCTa94ipHkm6oJAqywGVCcd2D/54x+c6D0uzLjtanEVUaGpPU3S9PJlyo5JKsAQAPvXNlSK92+WM1H8S2GRYqmdhh2B56AmQcN2LfAzpxr+ONpMFptI8ou2TumorY7tE8ZC0MqohMpJZSo4Ofsa2XvcNxhtNZWrOI4Il9v2YkUFu3JYg+fGrVqIpPelXqRHW0rGeMXncdfcZZnqHBVukqgHC/P7z4xrkUtVM8c0ZdhHKCHUEjqGc4/BwR4xq1atJUgGAIiXb7P/2Q=="
-/>
-
 **Wie einige von Euch schon wissen, liegen mir aus verschiedenen Gründen Tauben sehr am Herzen. Besonders die Stadttauben, die immer um uns herumfliegen, aber trotzdem von kaum einem wahrgenommen werden.**
 
 Ihre Geschichte ist eng mit der der Menschen verwoben, sie begleiten uns schon seit langer Zeit. Umso widersprüchlicher ist es, dass sie heutzutage so wenig geliebt sind.
@@ -46,13 +38,21 @@ Ihre Geschichte ist eng mit der der Menschen verwoben, sie begleiten uns schon s
 
 Zur Ansiedlung der Tauben in den Städten kam es durch verschiedene Umstände. Dafür macht es Sinn, ein bisschen auszuholen. Schon in frühen Schriften um ca. 6.000 v. Chr. wurden Tauben namentlich als Haustiere erwähnt.
 
+<RemoteImage
+  alt={`Stadttauben`}
+  size="full"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_17160873227_6048e2ba21_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_17160873227_6048e2ba21_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQf/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREABiESMVEHE0FhgZEUFUL/xAAXAQADAQAAAAAAAAAAAAAAAAAABAUD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhBBMiQlH/2gAMAwEAAhEDEQA/AF1Stm2tQ/2dynlQACISSyPNIxPZVBJ74PbHbR25esu3aaAikp6uebHCuntjPknnTKvoLbeqaOiuiCalEqyGNh0hmUHAbHxznjHI/Ghe4fR+x3KZ5rPVPb5Tz7ZX3YQfoZ6h+zoqNQGHEGDk6Oor2TvhaqzLcLw9DQQynEWHCOx8cZY6w729RaCTa94ipHkm6oJAqywGVCcd2D/54x+c6D0uzLjtanEVUaGpPU3S9PJlyo5JKsAQAPvXNlSK92+WM1H8S2GRYqmdhh2B56AmQcN2LfAzpxr+ONpMFptI8ou2TumorY7tE8ZC0MqohMpJZSo4Ofsa2XvcNxhtNZWrOI4Il9v2YkUFu3JYg+fGrVqIpPelXqRHW0rGeMXncdfcZZnqHBVukqgHC/P7z4xrkUtVM8c0ZdhHKCHUEjqGc4/BwR4xq1atJUgGAIiXb7P/2Q=="
+/>
+
 Ab dem Mittelalter wurden sie dann auch geschlachtet und verzehrt. Züchter sorgten dafür, dass sie bis zu sechs Mal im Jahr eine Brut aufziehen können. Der Bestand explodierte regelrecht.
 
 Auch heute kommen immer wieder Brieftauben in den Städten an, die den Weg nach Hause nicht mehr finden oder schlicht erschöpft sind. Sie schließen sich den Stadttauben an und verpaaren sich sogar mit ihnen. Zu unterscheiden sind sie durch ihre Gefiederzeichnungen. Oft stehen sie das harte Straßenleben nicht lange durch und finden ein trauriges Ende.
 
 <RemoteImage
   alt={`Stadttauben`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_21447371659_0f24700ac2_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_21447371659_0f24700ac2_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAQT/xAAqEAACAQMDAgYBBQAAAAAAAAABAgMEBREABiESMQcTIkFRYTIUFSSB0f/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAHBEAAgIDAQEAAAAAAAAAAAAAAgMAAQQRIRIi/9oADAMBAAIRAxEAPwCaUNo8yYeWgU9OfT1R++jtq2nfKumuNdHWQ0tuoQWlnrHHlqB9kZ+v7Gs3FJcKSvpBHUVtukhb0pD3kzz6vYjA4zxzpptW513Btuv29JV0dGlZKkzu+ElYo4YAZYIQSORwfjUk47Gj6GF+StV+SizTWrcBtUNzSgWpt8q9SzorICOfnt2OuX92aE4mhli4zn8h/urJuSiW9eHVFtG03u0W6OBo2LwymQz9OW6GVfwy+GPPcY0uWCxQWC708tZElyoooGhk/UQnDsVOeDn35B07cdixsirkRWUsy8jfZMvEhGS3TVbCUTiZIxI0uSAwGR399ID1FQFKpI5i54LadPEaXqsZCRSj+UpJLdQAGfs/Gp8JWKMFUng9tTSd0PLnU1db7UMQOVqIlieRiwyU8wqGPxkHsdP2z66d9s1CGUEw1LArLIWK8DgZPYamMDzCpikEUh6RngaP2GqeKjr1cOitN1LkYz30WFd1rcwK19an/9k="
@@ -72,7 +72,7 @@ Der Verein wurde 2013 gegründet, um gemeinsam für die gute Sache zu kämpfen u
 
 <RemoteImage
   alt={`Stadttauben`}
-  size="medium"
+  size="full"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26755742482_b080212427_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26755742482_b080212427_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGAwIH/8QAKhAAAgEDAgUDBAMAAAAAAAAAAQIDBAURACEGEhMxQRQiURUygZFCYXH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAEQMSEyEUMUH/2gAMAwEAAhEDEQA/AMbdSdO8U0s0AKrEykIeZhnsRuP1p+emo6y90MNS9R690kljYID1FTAZTjddiCCcjxnVTaOD7vK8UzwwwqF5SssgBA/GdK3rg+7WDi6y8T0ua+Ghp5YpUp0Y9NmYsGZc5ZN9/wCxvqHBiZ2pxQlGRgose5KU1iAWBGQ9ATsyFidz3GNz3+NT9zs8UZiIHKQzgBTk4I3Gx+fGvYqfiLhWuqaeertr0sJiMoLRyIjHP3qq+3Gcj5OCcds1VkqLHXWmKusUdGaaTPLJDGhOc4IJGd9vnWvFcHsw5VroRBFvUsiBLrBCh/ilGDj8ljrWusFfWIRVcR3IIPFOEiP7A0aNV7mJC/YtPQLbLRyfUr5NBEmBH67kGB49qjXENxqJkCRsscSr2I5mP+nbJ89tGjSd2OTUnqoxQKuf/9k="

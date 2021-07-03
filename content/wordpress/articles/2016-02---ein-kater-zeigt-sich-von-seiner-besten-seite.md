@@ -30,15 +30,6 @@ errors: {}
 subTitle: Chili posiert im Lampenlicht
 ---
 
-<RemoteImage
-  alt={`Kater Chili im Licht`}
-  size="medium"
-  title={`Kater Chili im Licht`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24601796815_b2a80497df_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24601796815_b2a80497df_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBwgF/8QAKxAAAQMDAwEHBQEAAAAAAAAAAQIDBAAFEQYSISIHEzFBUWGhcYGRsbLR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAgX/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIREgMhEzFB/9oADAMBAAIRAxEAPwB9t+m410TLVdW+5TNSyhbaV9XUlaSlJ8zg/Fdjs80nYtNxXkWJarhIfVl15aw5tSOAkbQEj91Dotwos8OG4+w7IjxhHZW2CMbiQoj0O3Az44zTZHDOmtPNxUOlfcoAUpWB/lKVsNckatsOsXe1NiZF0dPk2pkKlspDq9qRuSgEEnHnwPxms3XjVt9dioXPcUhtxOVBsYO3HBO2rX7ZdUx0aPTDXMWLg89lLsd7AbAPJVg8+ONvoPKs66gnJacW208ZEdzqDh5JB+5GefWrcbubSWNOpemmNSTberMdQGfYZH0OM01SL4/OguNvFZS4OrqBz8UUVnNrBgY8VHtIm322wVspLrK1gK3eKeT75SaS73YrZNKS6y6NucbXAn+QKKKHXmvn2wnio/J//9k="
-/>
-
 **Nach meiner [letzten Bildegalerie](/2015/12/stubentiger/) von meinen beiden Katern Oskar und Chili vor ein paar Wochen, habe ich gleich ein paar Nachrichten von Euch bekommen.**
 
 Dem Wunsch, ich soll doch häufiger mal ein paar Bilder von den beiden zeigen, komme ich jetzt nach.

@@ -37,18 +37,18 @@ year: '2016'
 month: '03'
 ---
 
+**Flarf - Kennt Ihr das? Nein, das ist kein Wort, das ich mir eben ausgedacht habe und es stammt auch nicht aus der Villa Kunterbunt.**
+
+Unter einem Flarf-Gedicht versteht man ein Gedicht, welches aus den Suchergebnissen einer Suchmaschine entstanden ist. Flarf spricht alle Sinne an. Ein Flarf-Poet gibt ein paar Wörter in den Suchschlitz ein und aus den ersten Sätzen in der Liste der Suchergebnisse kreiert er dann sein Gedicht.
+
 <RemoteImage
   alt={`Flarf`}
-  size="medium"
+  size="full"
   title={`Flarf regt die Phantasie an`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_16277877741_01b8d8a4b5_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_16277877741_01b8d8a4b5_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAEBQb/xAAoEAABBAECBAYDAAAAAAAAAAABAgMEEQUAIQYSEzEHMkFRUmEicYH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAMEBf/EABgRAQEBAQEAAAAAAAAAAAAAAAECABEx/9oADAMBAAIRAxEAPwAfjOrdUpTigEK2cUd7v30t8C4mG9gnltw3sqplT3RbHIhDQDIWoJ591kg3W9UPfRBFYktECqqlJT9aUfDOY1FyzrraktrLDgWX3OVsD8VLofMpSQK7mgbGuXHZrjgB3m9pm8A3k8JGiTok1bjTKZTcpxgq6nMLS300HzJuhVAmrq60SeIWFf4adbpRchyE2y4FCyQLUmib2tJuq3ruDpuyOUxsuDOcfnmZgoJjuRxGfBJbCAUqdsEmgkjY3fpe4O/EiJFjYDEORCl9t1an3VBlQa6q0gq5Fq72KJH6/uipHNg9xTj2XsjN5FSCjptKcBKb8ouu41pzGRei44Fve6RR7WfU++rVqpiVFxk3Q4Wzc7GJWuM4jnCVAqKAfMmiRewNE0e4vbWHIZWTlpKFSV7FBCU/FIJofdXsT6UOw1atGF5ob//Z"
 />
-
-**Flarf - Kennt Ihr das? Nein, das ist kein Wort, das ich mir eben ausgedacht habe und es stammt auch nicht aus der Villa Kunterbunt.**
-
-Unter einem Flarf-Gedicht versteht man ein Gedicht, welches aus den Suchergebnissen einer Suchmaschine entstanden ist. Flarf spricht alle Sinne an. Ein Flarf-Poet gibt ein paar Wörter in den Suchschlitz ein und aus den ersten Sätzen in der Liste der Suchergebnisse kreiert er dann sein Gedicht.
 
 Das geht ganz einfach, macht eine Menge Spaß und führt zu erstaunlichen, wildschönen Texten. Jeder, der schreibt, kennt das ja: Es liegen ein paar Aufträge auf dem Tisch, man möchte schon seit ewigen Zeiten einen neuen Artikel oder ein neues Kapitel verfassen und was lässt leider mal wieder zu wünschen übrig? Die Kreativität.
 
@@ -56,7 +56,7 @@ Das geht ganz einfach, macht eine Menge Spaß und führt zu erstaunlichen, wilds
 
 <RemoteImage
   alt={`Flarf`}
-  size="medium"
+  size="full"
   title={`Ein Gedicht über Wasser und Frühling`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11153925974_fe91f672d3_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11153925974_fe91f672d3_z__l.jpg"

@@ -30,14 +30,6 @@ errors: {}
 subTitle: Ein Lagerhaus zum Anfassen
 ---
 
-<RemoteImage
-  alt={`Speicherstadtmuseum`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24494461322_6ea951b9d2_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24494461322_6ea951b9d2_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEAwf/xAArEAACAQMDAgUDBQAAAAAAAAABAgMEBREAEiETMQYHIkFRFBVhMkKBkeH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/xAAeEQACAgEFAQAAAAAAAAAAAAABAgADEQQSEyEiUf/aAAwDAQACEQMRAD8AN+DPCVQY5p7bUVNEI0yr7jukc57kY4AHAPHJ0prLzd6O2UyVNZHIwj6YZsBRJvXkgd+B30so6aC3WOGQkoxPBBwMAc50LuF2oRUSuscjq3AZE3A9+VIBGDj3/GpqOSsNiLrt47PRnCqv0lfb3o566uYptKbII0IG7tuxnj20P80IZT9qknE7T9J1aSeUO7AEYBwMcZOl7XGlmqI9/VVIiSrOhVCcfOAPxxrJ5hW97zZUmpgzvb2Z5lQZbptgFgPfBA0Gzw4z1HV2K7ZiLxbXVa2WGaJCaKNTHIYfUw3dyRg+njGdecSXOmaLb9coUD9Pq5/nGe4GrVpemc7NvyZ9qgNmZ5K2ndgEnkmkJI9EZZm/3vptYaappo3q7h1KdmTbHASC+Pl8cDI/b/fxq1ahquyAZWmf/9k="
-/>
-
 **Klein aber fein ist das Speicherstadtmuseum, das mitten zwischen Kaispeichern, Restaurants und weiteren Museen eingebettet am Hamburger Sandtorkai 36 zu finden ist. Zu entdecken gibt es dort allerlei Wissenswertes über die wohl berühmtesten Backsteinbauten der Hansestadt.**
 
 In gemütlicher Atmosphäre durchläuft man darin eine ausgewählte Ausstellung aus Maschinen, Kaffeesäcken und Fässern. Alles darf angefasst und beschnuppert werden. So bekommt man einen genauen Eindruck vom Arbeitsplatz einer Kaffeesortiererin, lernt, wie Kakao und Kork im unbearbeiteten Zustand aussehen und was eine Zuckerklatsche ist.

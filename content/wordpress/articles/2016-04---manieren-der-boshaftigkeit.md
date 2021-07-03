@@ -40,14 +40,6 @@ month: '04'
 
 Je länger eine Operation dauert, umso risikoreicher ist sie. Niemand redet gerne über Risiken.
 
-<RemoteImage
-  alt={`Manieren`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_04_11631221176_b1b054c800_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_04_11631221176_b1b054c800_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACsQAAEEAQMDAgUFAAAAAAAAAAECAwQRBQAGIRITMQdBFCJRgaFCQ1Jhkv/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAwX/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwC8temmy8M2l/IxGVj2XPeLgP2Jr8ak42S2nAATjmWfZAEOHVn6WAPzpL1eWI6Ma4tuSttCHlkRklS+ACoBI8kgUNU5U6n2mjtadGh/BpmpmyFFISojq7az+lfPI51ysbNegttTYbMlgAtOp6k3o012EqS5s7GLf6O8pCirihytRFV7UdGmSJX/AFekvRBAkRnFpeDbgR0mhdizftQNk341iW35Gaejrx2bkRFyH3y50xJQfUWx/KlKHk15v5jfjXTudwcLOsIYn98tJu0tuFHUD5BryONRmC2LtvAurdxmIitOH9xYLi/9Kuvtp5uVJTbMdUXAQGVN9hSWgS2atN80f750afkn6aNOF//Z"
-/>
-
 Wo sind meine Manieren? Aber meine Augen können Deine Schönheit nicht erkennen.
 
 Unmittelbar hinter uns steht eine grellgelbe Schönheit. Gute Manieren als entbehrlicher Kleinbauer.
@@ -65,6 +57,14 @@ Die Jugend von heute lebt den Luxus und hat schlechte Manieren. Nur die Wenigste
 Ideale Körpermaße.
 
 </blockquote>
+
+<RemoteImage
+  alt={`Manieren`}
+  size="full"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_04_11631221176_b1b054c800_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_04_11631221176_b1b054c800_z__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACsQAAEEAQMDAgUFAAAAAAAAAAECAwQRBQAGIRITMQdBFCJRgaFCQ1Jhkv/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAwX/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwC8temmy8M2l/IxGVj2XPeLgP2Jr8ak42S2nAATjmWfZAEOHVn6WAPzpL1eWI6Ma4tuSttCHlkRklS+ACoBI8kgUNU5U6n2mjtadGh/BpmpmyFFISojq7az+lfPI51ysbNegttTYbMlgAtOp6k3o012EqS5s7GLf6O8pCirihytRFV7UdGmSJX/AFekvRBAkRnFpeDbgR0mhdizftQNk341iW35Gaejrx2bkRFyH3y50xJQfUWx/KlKHk15v5jfjXTudwcLOsIYn98tJu0tuFHUD5BryONRmC2LtvAurdxmIitOH9xYLi/9Kuvtp5uVJTbMdUXAQGVN9hSWgS2atN80f750afkn6aNOF//Z"
+/>
 
 Geschrieben habe ich dieses Flarf-Gedicht mit Hilfe der Suchergebnisse unter den Begriffen "Risiko", "Schönheit" und "Manieren". Mal wieder kam ein Text heraus, der in eine ganz andere Richtung geht, als ich ursprünglich vermutet hatte.
 

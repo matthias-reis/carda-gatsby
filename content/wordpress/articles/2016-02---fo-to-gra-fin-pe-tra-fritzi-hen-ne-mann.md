@@ -37,18 +37,18 @@ errors: {}
 subTitle: '"Aufregung ist etwas ganz Normales"'
 ---
 
+**Petra Fritzi Hennemann hat sich als Fotografin längst einen Namen gemacht. Das Braut &amp; Bräutigam Magazin, Wedding Style, Hochzeitsgezwitscher, Frieda Therés und Hochzeitswahn berichten regelmäßig über die talentierte Münchenerin und ihre Kunden loben sie in den höchsten Tönen.**
+
+Auch wir hatten das Glück, an unserem Hochzeitstag von der lieben Petra fotografiert zu werden und werden dank ihrer Fotos immer tolle Erinnerungen an unseren schönsten Tag haben. Aus einer Kundenbeziehung ist längst eine Freundschaft mit der herzlichen Fotografin geworden, wir tauschen uns regelmäßig aus und sie hat uns auch schon in unserer Heimat Hamburg besucht.
+
 <RemoteImage
   alt={`Hochzeitsfotografin`}
-  size="medium"
+  size="full"
   title={`Petra - Hochzeitsfotografin aus Leidenschaft`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_Petra__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_Petra__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABYDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQGBwgF/8QAKhAAAgEDAgUDBAMAAAAAAAAAAQIDBAURAAYSEyExUQdBYSIycYEIFDP/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8As/1p3JW2S2UVJa6hoqmtMrtwn6uXGBnHgZcZ+Bj3Os/XLclcLMaN7hPG/GAC0rB8DoMtntnz01orf9ipdx1VNV0kkLXCghqKdlnZkheCZcSBnA+lhgMrefIOqsj9DDDcCLzuCCaj4A0ihTHM5x3Qk9Ac9R1Hf4wFi/x+3ZWXvZEkd6lL1Ntn/q85z/onCGX9jqD+tGlPSXbsO2HuNsErVFCzc6NgX5xPbqftAAAGB1z199GgnF3loqC0yxwqrQzBuZkcXMB7g57jBOobeVhqY3Skj4a1kUiV4ywTIxxeCcDGmt02+qNquFHSTRtXKHmo0Y/cM5CN+csufbIOlrZKaukp3kDxvw4ML5BU9MqR8aDp7YMsCiKR2hVEwCDlicjOTo0vRVqCuKSUkTARnGAzDGR+QCdGg//Z"
 />
-
-**Petra Fritzi Hennemann hat sich als Fotografin längst einen Namen gemacht. Das Braut &amp; Bräutigam Magazin, Wedding Style, Hochzeitsgezwitscher, Frieda Therés und Hochzeitswahn berichten regelmäßig über die talentierte Münchenerin und ihre Kunden loben sie in den höchsten Tönen.**
-
-Auch wir hatten das Glück, an unserem Hochzeitstag von der lieben Petra fotografiert zu werden und werden dank ihrer Fotos immer tolle Erinnerungen an unseren schönsten Tag haben. Aus einer Kundenbeziehung ist längst eine Freundschaft mit der herzlichen Fotografin geworden, wir tauschen uns regelmäßig aus und sie hat uns auch schon in unserer Heimat Hamburg besucht.
 
 Jetzt hat sich Petra die Zeit genommen, sich meinem Interview zu stellen. So viel sei schon mal verraten: Petra hat einiges zu erzählen und noch mehr mit mir gemeinsam, als ich dachte.
 

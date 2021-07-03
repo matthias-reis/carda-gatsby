@@ -36,20 +36,20 @@ year: '2016'
 month: '03'
 ---
 
-<RemoteImage
-  alt={`Sonne`}
-  size="medium"
-  title={`Sonne und Frieden`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-1-von-4__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-1-von-4__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACkQAAIBAwIEBQUAAAAAAAAAAAECAwQFEQASBhMhMSJBUZGxBxQjYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AgaL6l2iaOO11xkdgCgCu6ENnIG9Bhsk5ycdjkHUTPebRNQOBFWNTmdYqq5VDyNDEclljGCQpYA4PxqpcGcILcuIad6+Xl0LwvWbVxmWMKS20jtg9O3fVVVJpJjRSNLCJZlVo5CVAJOAWX1AOg6foIFknmYAYEcLAlumdin4xql3iqitthq6yXlgCtYePdtJwQAcAnz9NOuF5Lnb6aCmrubzIaBEcyKQDKrBdoY9/CB28gNI3ekV7MlKzuzyVLT/jxndkYAyOvfQO7aKW3RqtDRxQpHkqqk4GT1x76xnitAvGFyKhVX7/AAFUYABKnp/NGjQbVxDJJdacwlzBypDIrRjqCD+9QNvmqHv9uR5t0YlIYbR4sg+3l7aNGg//2Q=="
-/>
-
 **Sonne und Frieden. Das sind die beiden Wörter, die ich dieses Mal als Gerüst für mein Gedicht verwendet habe. Dabei ist ein sehr nachdenklicher Text entstanden, der die heutige Zeit ziemlich genau widerspiegelt, wie ich finde.**
 
 Traurig, was sich dieser Tage abspielt. Erschreckend. Furchteinflößend. Wie sich Lager gegenseitig aufstacheln, die sich nicht mal kennen. Menschen verlieren ihr Leben.
 
 Wie ich es neulich schon in Twitter geschrieben habe "Was ist nur los mit dieser Welt". Wir sollten uns langsam mal besinnen. Denn wir haben nur diese eine. Mir fehlen derzeit wirklich die Worte. Die schlauen Texte überlasse ich also gerne anderen und schicke Euch zu Ostern nur ein bisschen Sonne. Für mehr fehlt die Kraft. Die Bilder zum Gedicht habe ich aus meiner Sammlung ausgesucht. Ich finde, sie passen.
+
+<RemoteImage
+  alt={`Sonne`}
+  size="full"
+  title={`Sonne und Frieden`}
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-1-von-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-1-von-4__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACkQAAIBAwIEBQUAAAAAAAAAAAECAwQFEQASBhMhMSJBUZGxBxQjYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AgaL6l2iaOO11xkdgCgCu6ENnIG9Bhsk5ycdjkHUTPebRNQOBFWNTmdYqq5VDyNDEclljGCQpYA4PxqpcGcILcuIad6+Xl0LwvWbVxmWMKS20jtg9O3fVVVJpJjRSNLCJZlVo5CVAJOAWX1AOg6foIFknmYAYEcLAlumdin4xql3iqitthq6yXlgCtYePdtJwQAcAnz9NOuF5Lnb6aCmrubzIaBEcyKQDKrBdoY9/CB28gNI3ekV7MlKzuzyVLT/jxndkYAyOvfQO7aKW3RqtDRxQpHkqqk4GT1x76xnitAvGFyKhVX7/AAFUYABKnp/NGjQbVxDJJdacwlzBypDIrRjqCD+9QNvmqHv9uR5t0YlIYbR4sg+3l7aNGg//2Q=="
+/>
 
 <blockquote>
 

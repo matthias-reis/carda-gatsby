@@ -268,7 +268,7 @@ Honig lässt sich im Übrigen auch ganz leicht selbst und ohne den Umweg über d
 
 #### Zubereitung
 
-Das Wasser zusammen mit den Blumen aufkochen und im Anschluss für ca. 3-4 Stunden ziehen lassen. Den Sud durch ein Sieb drücken und mit dem Zitronensaft und dem Zucker einkochen, bis er dickflüssig wird. In ein großes oder zwei kleine Marmeladengläser abfüllen und fertig ist der Gänseblümchenhonig. <3
+Das Wasser zusammen mit den Blumen aufkochen und im Anschluss für ca. 3-4 Stunden ziehen lassen. Den Sud durch ein Sieb drücken und mit dem Zitronensaft und dem Zucker einkochen, bis er dickflüssig wird. In ein großes oder zwei kleine Marmeladengläser abfüllen und fertig ist der Gänseblümchenhonig.
 
 [Hier geht's zu Teil 8 des Artikels](/2014/11/fakepelz-echtpelz/)
 

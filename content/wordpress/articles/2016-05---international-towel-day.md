@@ -29,18 +29,18 @@ errors: {}
 subTitle: Es ist wieder soweit
 ---
 
+**Viele haben schon mal davon gehört: Der International Towel Day. Jedes Jahr am 25. Mai wird er gefeiert. Doch was steckt eigentlich dahinter?**
+
+Das Fest findet zu Ehren des Schriftstellers Douglas Adams (\* 11. März 1952 in Cambridge; † 11. Mai 2001 in Santa Barbara, Kalifornien) statt. Der Protagonist seines Buchs "Per Anhalter durch die Galaxis" Arthur Dent führte auf seinen Reisen durch die Galaxien stets ein Handtuch mit sich. Begleitet von dem Spruch "Don't Panic" (keine Panik). So lange man immer ein Handtuch dabei hat, wird alles gut.
+
 <RemoteImage
   alt={`Towel Day`}
-  size="medium"
+  size="full"
   title={`Das Handtuch ist gehisst!`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5386__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5386__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBQYIB//EAC4QAAEDAwMCBAQHAAAAAAAAAAECAxEABBIFITEGEwciMlEUFRYzQVNxcoGRof/EABgBAAIDAAAAAAAAAAAAAAAAAAIGAQMF/8QAHxEAAQQDAQADAAAAAAAAAAAAAQACAxEEBSESMVFS/9oADAMBAAIRAxEAPwC8aj4hP/WqUWl2oWq8NirBO6BPqgATPNTWoeI7tlcNBC2nWlpJzEFKoMbGTNcMu9Snqy1ubu5UlIQ2tTikBwiAYkEGeAODHttTnUGs/G3jTrd23cJCcQtKFJIE7BQUAJ53SBP41DcmxZT7Bp4p2xkt557xaR6T63t9auFMu9tpQRlllAO4FFZ10TWXWtRvSh2IHqEfmCigdkNv4S/sdY2KctZwKrWmoLPUdo4ACop7eIGfIUIiDPPEUrqB160cZRcO26zgSOyyGwnfgwkAn9JqssOn51bfaUmUnzbJMTv/AJ/dP9RXGZtsSpXkUMnI7p3HqjaPb+aqDKbSYsPP8BlfmlI2GpgXl6sKKguIJ9swZoqA00qycKthiDv+4UUBjJ6sfZTeprP0v//Z"
 />
-
-**Viele haben schon mal davon gehört: Der International Towel Day. Jedes Jahr am 25. Mai wird er gefeiert. Doch was steckt eigentlich dahinter?**
-
-Das Fest findet zu Ehren des Schriftstellers Douglas Adams (\* 11. März 1952 in Cambridge; † 11. Mai 2001 in Santa Barbara, Kalifornien) statt. Der Protagonist seines Buchs "Per Anhalter durch die Galaxis" Arthur Dent führte auf seinen Reisen durch die Galaxien stets ein Handtuch mit sich. Begleitet von dem Spruch "Don't Panic" (keine Panik). So lange man immer ein Handtuch dabei hat, wird alles gut.
 
 Auch eingefleischte Fans von Douglas Adams haben immer ein Handtuch dabei. Und jedes Jahr am 25. Mai wird es dann feierlich gehisst.
 
@@ -48,7 +48,7 @@ Auch eingefleischte Fans von Douglas Adams haben immer ein Handtuch dabei. Und 
 
 <RemoteImage
   alt={`Towel Day`}
-  size="medium"
+  size="full"
   title={`Douglas Adams - der Mann mit der Antwort`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_douglas-adams__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_douglas-adams__l.jpg"
@@ -63,7 +63,7 @@ Auch heute wehen wieder weltweit die Handtücher. Auch meines habe ich aufgehän
 
 <RemoteImage
   alt={`Towel Day`}
-  size="medium"
+  size="full"
   title={`Festival-Handtuch`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4203__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4203__l.jpg"

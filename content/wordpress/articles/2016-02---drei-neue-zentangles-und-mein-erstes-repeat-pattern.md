@@ -42,7 +42,7 @@ Bei einem habe ich mit einem Hintergrund aus Aquarellfarben experimentiert. Ihr 
 
 <RemoteImage
   alt={`Repeat Pattern`}
-  size="medium"
+  size="full"
   title={`Doodle mit "Teppichmuster"`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25079081991_48665cac29_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25079081991_48665cac29_z__l.jpg"

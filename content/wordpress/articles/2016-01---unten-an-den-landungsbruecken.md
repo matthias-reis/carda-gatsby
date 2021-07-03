@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Hach Hamburg ♥
+subTitle: Hach Hamburg
 ---
 
 <Gallery name="flickr/annelandungsbruecken122015" />

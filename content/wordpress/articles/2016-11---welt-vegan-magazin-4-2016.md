@@ -32,14 +32,6 @@ errors: {}
 subTitle: Ratet mal, wer die neue Textchefin ist...
 ---
 
-<RemoteImage
-  alt={`Textchefin`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31133773622_280b12ace6_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31133773622_280b12ace6_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAQIDBP/EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQASIQYTYRQxQQcVIlFSobH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQA/8QAIBEAAgEEAQUAAAAAAAAAAAAAAQIAAxExYRIhMjNDwf/aAAwDAQACEQMRAD8AX2PpKaoqO1IuyE5Hd4wONMrlS0PS5aorg8yzbVUMrS7yzYCqP5HjjTy0TwNR9yGRGEmEwCCRg/lzqU+oVvu16u1vehgknpRVxlV7mUUKrZZkYDAIJ5zjgaXVp8h0hIwuAZtPJR3u0uaGGOAwylJEaAxOjKMEMPf5Bx51471aVXewHHv/AFrra7ZW2ehvFXe0Nv8AV1rNDsAICABQcc53Bc5850xv06KsgyDjjP70qgpV2vqZu42kt03dJKqp3xhoomhiPZ35RX7YLED4BOTjzqqvfVNVY7b6umjV5HBjbcx5BH+eNGjVlr5gYxI6k6wu9wiqvuMqSxhlVY0UqF4Y8ZJOsXmvmdpNxzydGjU/vcaEYvjB2fk//9k="
-/>
-
 **Das neue Welt Vegan Magazin ist da! Die Ausgabe 4/2016 liegt ab sofort in den Regalen der Zeitschriftenläden.**
 
 Als frisch gebackene Textchefin durfte ich sämtliche Artikel schon vor allen anderen lesen und ich verrate Euch schon mal so viel: Es ist jede Menge Spannendes geboten!
@@ -47,14 +39,6 @@ Als frisch gebackene Textchefin durfte ich sämtliche Artikel schon vor allen an
 Natürlich habe auch ich wieder einen Artikel beigetragen, Ihr findet ihn ab Seite 122. Darin dreht sich alles um Wildtiere in Zoos. Ein wichtiges Thema, das nicht in Vergessenheit geraten sollte. Als besonderes Highlight findet Ihr in der vierten Ausgabe dieses Jahres außerdem ein großes Interview mit Emma Heming Willis, der Frau von Bruce Willis. Markus hat mit ihr über ihre neue vegane Kosmetiklinie CocoBaba gesprochen und sie hat auch sonst einiges über ihr Leben verraten.
 
 ## Als Textchefin habe ich alles schon gelesen
-
-<RemoteImage
-  alt={`Textchefin`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_30456585984_191f2b0128_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_30456585984_191f2b0128_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgT/xAApEAABBAEDAgQHAAAAAAAAAAABAgMEEQAFEiETMSJBUWEyQmNxcoHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGBEBAQADAAAAAAAAAAAAAAAAAAECETH/2gAMAwEAAhEDEQA/AJvRIEeLBbcI2JUE2SonxV7nj7YzjwzPgOylhSYyBQUaF1RuvSvPF+l6MgLflS7kIUAUM9QhJXxSiOKqh2PvWa0GK444wpxUiM2esyltD+5G1qh8N2FVvBUe93m0x7o/SWyvp6zFWQR4RMCwkWfp18pH6zl1phT0GchXTcSyUlLgWlSyCrjcEihxdZWRY8ppte96CE9gEackcellfOIdclNJg6igusrcAG4ojpaqvK0k7v5eBlSqXi803HUKDriDuHdJTdEZUbWY7UmQ3HbElaCFvUN6+ebPvQwwywYTZnTaUrp2fyyE1yahDElbMdCXHO6lHd3IBwwyVY9f/9k="
-/>
 
 Besonders beeindruckt hat mich auch der Text der vegan lebenden Ernährungsberaterin Carmen Hercegfi. Sie berichtet über ihre Schwangerschaft und die Fragen, denen sie sich als vegan lebende Mutter im Alltag stellen muss. Sie teilt ihr Wissen über vegane Familienernährung und gibt wertvolle Tipps, wie man kritische Kommentaren Zweifelnder souverän begegnen kann.
 
