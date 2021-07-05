@@ -35,7 +35,7 @@ languageLink: /2021/07/augustine-proserpine
 ---
 **Augustine, aka Sara Baggini, already released her new album in April. Although it's been some days since then, I didn't want to miss writing a review on "Proserpine". Her second long-player has a lot going for it and is definitely worth to be mentioned on this blog.**
 
-What generally goes under the labels "dream gaze" and "singer-Songwriter" comes in many shapes – This applies to quality and the style of the music we use to put into these boxes.
+What generally goes under the labels "dream gaze" and "singer-songwriter" comes in many shapes – This applies to quality and the style of the music we use to put into these boxes.
 
 ![Picture: Sara Baggini](/img/augustine-sara-baggini.jpg "Augustine – "Proserpine"*. Picture: Sara Baggini")
 
