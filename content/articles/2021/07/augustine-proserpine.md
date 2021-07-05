@@ -36,7 +36,7 @@ languageLink: /2021/07/augustine-proserpine-en
 ---
 **Das neue Album von Augustine aka Sara Baggini ist bereits im April erschienen. Höchste Zeit für eine Review zu "Proserpine". Der zweite Langspieler der Multi-Instrumentalistin und Producerin hat es nämlich in sich.**
 
-Was allgemein unter den Labels "Dream Gaze" und "Singer-Songwriter" läuft, ist sehr unterschiedlich. Das betrifft nicht nur die Qualität, sondern auch den Stil der Musik, die allgemein in diese Schubladen eingeordnet wird.
+Was allgemein unter den Labels "Dream Pop" und "Singer-Songwriter" läuft, ist sehr unterschiedlich. Das betrifft nicht nur die Qualität, sondern auch den Stil der Musik, die allgemein in diese Schubladen eingeordnet wird.
 
 ![Bild/picture: Sara Baggini](/img/augustine-sara-baggini.jpg "Augustine – "Proserpine"*. Bild/picture: Sara Baggini")
 
