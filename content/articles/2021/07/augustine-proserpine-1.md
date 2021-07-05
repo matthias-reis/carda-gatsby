@@ -47,7 +47,7 @@ She wrote all the songs herself and produced them together with Fabio Ripanucci 
 
 Sara Baggini has an incredible feeling for when to use which instrument to create the desired mood. She did this successfully again on "Proserpine" with the guitar, the bass, the Rhodes piano, the keyboards and synthesizer, the percussion, the stompbox and the drum machine.
 
-Fabio Ripanucci (additional guitars, Rhodes piano, keyboards, Moog, percussion and drum machine), Massimo "Marga" Margaritelli (bass for "Fanny, They Killed Me" and "Moments of Pleasure Joy"), Daniele Rotella (bass for "Tower Stones" and percussion in "Pomegranate"), Francesco Federici (toms for "Pomegranate") and Niccolò Franchi (snare for "Pagan", drums in "Moments of Pleasure and Joy", "How To Cut Your. ." and "Adonis") contributed a few more little details to the record.
+Fabio Ripanucci (additional guitars, Rhodes piano, keyboards, Moog, percussion and drum machine), Massimo "Marga" Margaritelli (bass for "Fanny, They Killed Me" and "Moments of Pleasure Joy"), Daniele Rotella (bass for "Tower Stones" and percussion in "Pomegranate"), Francesco Federici (toms for "Pomegranate") and Niccolò Franchi (snare for "Pagan", drums in "Moments of Pleasure and Joy", "How To Cut Your..." and "Adonis") contributed a few more little details to the record.
 
 ## A perfectly orchestrated jam session.
 
