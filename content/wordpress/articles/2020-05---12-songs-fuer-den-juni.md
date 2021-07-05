@@ -72,7 +72,15 @@ Mich begeistert diese Platte, seit ich sie das erste Mal gehört habe. Ich höre
 
 Etwas härtere Töne schlagen Violet Cold an. Sie haben ihr Album "Noir Kid" bereits Anfang Mai veröffentlicht. Ihrem atmosphärischen Black Metal sind sie seit dem letzten Werk "Kosmik" von Januar 2019 treu geblieben.
 
-<YouTube id="R-lBT2GJ9yE" />
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=2480202485/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=1960714396/transparent=true/"
+  seamless
+>
+  <a href="https://violetcold.bandcamp.com/album/noir-kid">
+    Noir Kid by Violet Cold
+  </a>
+</iframe>
 
 ## The Used - "Paradise Lost, A Poem By John Milton" vom Album "Heartwork"
 
@@ -86,7 +94,15 @@ Matze liebt diesen Song und hört ihn gerade täglich. In Verbindung mit dem Res
 
 "This Will Destroy You haben ein Album mit B-Seiten, Roh- oder Vorgängerversionen bekannter Stücke und Special Editions herausgebracht. Das eigentlich Außergewöhnliche an der an sich schon tollen Post-Rock Scheibe ist, dass sie homogener ist, als ihr Titel erahnen lässt. Fast schon wie ein in sich stimmiger Filmsoundtrack. Ich hab den Eröffnungstitel für Euch ausgewählt - wie so oft bei Post-Rock gilt auch hier: bitte das ganze Album anhören."
 
-<YouTube id="iV910PooWFE" />
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=1370049913/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2361112587/transparent=true/"
+  seamless
+>
+  <a href="https://thiswilldestroyyou.bandcamp.com/album/variations-rarities-2004-2019-vol-i">
+    Variations &amp; Rarities: 2004-2019 Vol. I by This Will Destroy You
+  </a>
+</iframe>
 
 ## Einstürzende Neubauten - "Alles in Allem" vom Album "Alles in Allem"
 
@@ -148,7 +164,7 @@ Das sagt Valentin über diesen Song:
 
 Hinweis der Redaktion: Der Song stammt ursprünglich von der Clinton Johnson Band. The Offspring haben ihn aufgenommen, um ihren Fans eine Freude zu bereiten. Auf iTunes und Spotify ist er derzeit in ihrer Version noch nicht zu finden. Daher haben wir dort in unserer aktuellen Playlist einen anderen schönen Song von den Herrschaften für Euch bereitgestellt.
 
-<YouTube id="mYa02QAcAkA" />
+**Nachtrag 7/2021:** The Offspring haben das offizielle Video von Youtube entfernt.
 
 ## Unsere Playlists
 

@@ -32,8 +32,6 @@ affiliate: false
 languageLink: ''
 ---
 
-## Neues vom Bienenbalkon
-
 **Die Wildbienen sind wieder da! Beziehungsweise: Sie sind aufgewacht. Nach und nach krabbeln die unterschiedlichsten Arten aus unseren Insektenhotels und erkunden ihre Umgebung.**
 
 Dass wir im Winter in eine andere Wohnung gezogen sind, scheint sie nicht zu stören. Ganz im Gegenteil. Sie fühlen sich sichtlich wohl. Was kein Wunder ist: Nicht nur unser neuer Balkon bietet ihnen jede Menge willkommenes Futter. Hier in der Gegend gibt es statt einer Fußgängerzone und einer breiten Straße jede Menge blühende Obstbäume und Blumenbeete. Die Bienen sind also in ihrem Element.

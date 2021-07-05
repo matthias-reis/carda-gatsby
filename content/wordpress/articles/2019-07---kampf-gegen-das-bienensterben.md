@@ -8,9 +8,6 @@ ogTitle: Kampf gegen das Bienensterben - Milben, Pflanzenschutzmittel, Honig
 description: 'Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit drängt.'
 excerpt: 'Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit drängt.'
 fileName: 2019-07---kampf-gegen-das-bienensterben.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2020-04-10-bienenbalkon-44__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2020-04-10-bienenbalkon-44__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcCBQMEBgj/xAAqEAABAwIFBAIBBQAAAAAAAAABAgMEBREABhIhMQcTIkEVYSMUMlFx0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAeEQACAgICAwAAAAAAAAAAAAABAgMRACESMUHh8P/aAAwDAQACEQMRAD8AwHLdNomTTMlhhtxyQYj095YHZc7erQgKSUi9rAn2f4xQVLqQqh5aYhsU4uSHIvxyVuBTbAjIR4uNkHdxSnFEi508cHCvruZqpXXFfIzX1xy4p4R+4e22Vc6U8X+8POlZDocjpXRm2Xpc+oz46J6FOPj9OzqGlxIFjp0gW2FyfeCR+K8wAut40utMbF6zSptRzKmnwsyS4ll1aEiHDmS2w6oIHjpKQb+W51q55xLIE+PTqPLprdWW1Aiy20vRn2g2pTCytW3v9yiCQdggehjtWdedaXBiVmfS4S4raQ2FR/yFtpJuSpSiLKsonbhBO1sK1Uim0ynSW0VaC69Ot5KSVBjSSqyDYa0E2Fx9ejjMkxiAdDYPX3frJWuypFYjVveP9m/+Y9H9Faa3AzFTaFKqzi4Koj06S2lCWQhaShW67a1JN7WvgwYqjhR425C+sSVzYypzTLWxUpKKa42kOy1LbdkNBDyGlqU4VIPOm22k77Yl07dpys0JlViQiJGbjyXy042kNyh2z+MXFkjYkH6IGDBjio5WcL4BwSxY2Tn/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_07_bienen-fb-1.png__l.jpg
 labels:
   - Bienen

@@ -50,6 +50,6 @@ Erst letztes Jahr hatte das britische 2-Sterne-Restaurant (das ansonsten eine se
 
 Ich freue mich sehr über diese Nachricht und wünsche Claire alles Gute. Hoffentlich kann sie ihr Restaurant bald wieder öffnen und mit ihren schmackhaften Gerichten viele Menschen für die vegane Idee begeistern.
 
-Seid Ihr neugierig geworden? Hier findet Ihr die [Speisekarte des Origine Non Animale](https://www.clairevallee.com/le-menu).
+Seid Ihr neugierig geworden? Hier findet Ihr die [Origine Non Animale Speisekarte](https://www.clairevallee.com/le-menu).
 
 Bild/picture: [Origine Non Animale](https://www.clairevallee.com/)

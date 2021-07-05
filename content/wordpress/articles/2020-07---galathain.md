@@ -1,8 +1,6 @@
 ---
 ogTitle: Galathain - "And The Rain Tasted Like Blood" - Interview
-excerpt: Galathain mischt Doom-Elemente mit Ambient. Ich habe Klaus im Interview
-  gefragt, wie es zu seinem Projekt kam, und wo seine musikalischen Wurzeln
-  liegen.
+excerpt: Galathain mischt Doom-Elemente mit Ambient. Ich habe Klaus im Interview gefragt, wie es zu seinem Projekt kam, und wo seine musikalischen Wurzeln liegen.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-fb.png__l.jpg
 isAffiliate: false
 path: /2020/07/galathain-interview/
@@ -21,9 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07
 title: Galathain
 subTitle: '"And The Rain Tasted Like Blood"'
 seoTitle: Galathain - "And The Rain Tasted Like Blood" - Interview
-description: Galathain mischt Doom-Elemente mit Ambient. Ich habe Klaus im
-  Interview gefragt, wie es zu seinem Projekt kam, und wo seine musikalischen
-  Wurzeln liegen.
+description: Galathain mischt Doom-Elemente mit Ambient. Ich habe Klaus im Interview gefragt, wie es zu seinem Projekt kam, und wo seine musikalischen Wurzeln liegen.
 language: de
 type: Artikel
 labels:
@@ -41,6 +37,7 @@ labels:
   - Post-Rock
   - Shoegaze
 ---
+
 **Wer Galathain noch nicht kennt, sollte das auf jeden Fall nachholen. Der Post-Rocker aus Venezuela mischt Doom-Elemente mit Ambient. Ich habe Klaus im Interview gefragt, wie es zu dem Projekt kam, und wo seine musikalischen Wurzeln liegen.**
 
 Galathain hat vor Kurzem den ersten Teaser seiner bald erscheinenden EP "And The Rain Tasted Like Blood" veröffentlicht. Ihr könnt das Stück in meiner [Musikliste für den August](/2020/07/12-songs-fuer-den-august/) hören.
@@ -114,19 +111,3 @@ Im Moment liegt mein Fokus mehr darauf, mehr über den Schreibprozess und das So
 **Anne:**  Danke, dass Du Dir die Zeit genommen hast! Lass uns auf alle Fälle in Kontakt bleiben!
 
 **Klaus:** Danke für diese Möglichkeit!
-
-## "And The Rain Tasted Like Blood" von Galathain bei Spotify hören
-
-<YouTube id="album/3OrJOmvpPdzB7YBoDFZT9V" />
-
-## "And The Rain Tasted Like Blood" von Galathain bei iTunes hören
-
-<iframe
-  allow="autoplay *; encrypted-media *;"
-  frameborder="0"
-  height="450"
-  style="width:100%;max-width:660px;overflow:hidden;background:transparent;"
-  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-  src="https://embed.music.apple.com/de/album/and-the-rain-tasted-like-blood-single/1518440267"
-></iframe>
-

@@ -33,8 +33,6 @@ language: en
 languageLink: /2021/04/blessings-biskopskniven
 ---
 
-## "Biskopskniven" by Blessings – Post-Hardcore at its best
-
 **Blessings are planning to release a new highlight from the post-music corner on May 21st. The Ocean label Pelagic Records is responsible for the new album "Biskopskniven". I have already had the chance to listen to it.**
 
 The first track is called "The Hound". It really gets under your skin – this is post-hardcore the way we love it. The vocals are building up to be cut by howling sounds shortly afterwards. A wild and exciting game begins – short and concise. The statement is crystal clear. The bright and hard guitar sounds mix with the ear-catching singing – from both directions and wonderfully accentuated in an exciting way. At some point, the tempo slows down to the minimum and finally suffocates in the decent chaos of the breakdown of the second song on the record "Strings Of Read".

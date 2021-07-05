@@ -106,18 +106,3 @@ Besides Music: What inspires you most?
 **Anne:**  Thank you very much for your time! All the best to you! Let's keep in touch!
 
 **Klaus:** Thanks to you Anne! I'm very grateful for this opportunity!
-
-## Listen to "And The Rain Tasted Like Blood" by Galathain on Spotify
-
-<YouTube id="album/3OrJOmvpPdzB7YBoDFZT9V" />
-
-## Listen to "And The Rain Tasted Like Blood" by Galathain on iTunes
-
-<iframe
-  allow="autoplay *; encrypted-media *;"
-  frameborder="0"
-  height="450"
-  style="width:100%;max-width:660px;overflow:hidden;background:transparent;"
-  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-  src="https://embed.music.apple.com/de/album/and-the-rain-tasted-like-blood-single/1518440267"
-></iframe>

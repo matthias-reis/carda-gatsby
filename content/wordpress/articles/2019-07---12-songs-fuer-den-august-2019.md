@@ -60,7 +60,7 @@ Zu jedem Song haben wir einen kleinen Kommentar für Euch vorbereitet, damit Ihr
 
 Bei diesem Song handelt es sich um die erste Auskopplung vom neuen Opeth Album. Matzes Kommentar dazu: "Ein cooler Metal Song, vielleicht (und hoffentlich nicht) der beste auf der neuen Platte. Aber er rockt schon mal ganz gut, besonders im ersten Teil! Für mich ist er diesen Monat auf  jeden Fall die Nummer eins."
 
-<YouTube id="yAh7XQ0whvg" />
+<YouTube id="EqO5QPTBdc8" />
 
 ## David Bowie - "Space Oddity" vom Album "Space Oddity"
 

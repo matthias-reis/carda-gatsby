@@ -77,8 +77,6 @@ Weil ich mit drängeligen Situationen, Menschenmassen und aufdringlichen Mensche
 
 Musik begleitet mich seit ich im Bauch meiner Mutter die ersten Dehnübungen unternommen habe. Ich hatte das große Glück in einer sehr musikinteressierten Familie großzuwerden. Mein Vater hat damals Jimi Hendrixs live auf Fehmarn und Jethro Tull, Small Faces und Joe Cocker im legendären Marquee Club erlebt. Er verbrachte einen großen Teil seiner Jugend in [Großbritannien](/tag/slow-travel/britische-inseln/) und war damit sozusagen live dabei bei der Entstehung des Rock 'n' Roll. Ich sage das ohne zu übertreiben oder anzugeben. Mich als seine Tochter hat das von Anfang an geprägt - mein Interesse für Musik wurde mir sozusagen in die Wiege gelegt.
 
-<YouTube id="nXiQtD5gcHU" />
-
 ## Musik in der Kindheit
 
 Der Plattenspieler war der Mittelpunkt unseres Wohnzimmers. Rundherum standen schränkeweise Schallplatten, Tonbänder und Kassetten mit Aufnahmen der verschiedensten Künstler von Greatfull Dead und Ten Years After über John Lee Hooker und Joni Mitchel, Canned Heat, Led Zeppelin, Woody Guthrie, Crosbie, Stills, Nash & Young, BB King und natürlich [Bob Dylan](/2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/). Neben dieser Vielfalt gab es noch ein stattliche Sammlung aus der Jazz-Ecke sowie einige klassische Sahnestücke.

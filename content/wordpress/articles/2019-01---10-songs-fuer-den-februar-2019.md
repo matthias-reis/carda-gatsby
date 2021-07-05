@@ -81,7 +81,15 @@ Was haben wir diesen Song hoch und runtergehört, mitgesungen, dazu geweint, get
 
 In Kürze werden La Dispute ihr langersehntes neues Album "Panorama" veröffentlichen. Matze hat die Vorauskopplung "Fulton Street" zu unserer Liste hinzugefügt und jetzt wollen wir alle drei nicht mehr warten, bis wir endlich alle Songs hören können.
 
-<YouTube id="bhgqj1SP750" />
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=376581510/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=213443323/transparent=true/"
+  seamless
+>
+  <a href="https://ladispute.bandcamp.com/album/panorama">
+    Panorama by La Dispute
+  </a>
+</iframe>
 
 **Trent Reznor &amp; Atticus Ross - "Undercurrents"**
 

@@ -152,7 +152,15 @@ Auch diese Combo kommt aus Deutschland. Das Post-Black Metal Projekt sorgt für 
 
 Habt Ihr Euch das aktuelle Bersarin Quartett Album "Methoden und Maschinen schon angehört? Falls nicht, solltet Ihr das dringend nachholen. Die Berliner erzählen mit ihrer Musik Geschichten. Geschichten aus der Zukunft. Nach dreizehn Jahren Bandgeschichte gelingt es ihnen nach wie vor perfekt, Minimalismus und Pomp miteinander zu verbinden. Blitzende Spitzlichter treffen auf weiche Soundbeete.
 
-<YouTube id="wk4J9XWSihU" />
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=2779398732/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2593052149/transparent=true/"
+  seamless
+>
+  <a href="https://bersarinquartett.bandcamp.com/album/methoden-und-maschinen">
+    Methoden und Maschinen by Bersarin Quartett
+  </a>
+</iframe>
 
 ## And So I Watch You From Afar - "These Secret Kings I Know" vom Album "Heirs"
 

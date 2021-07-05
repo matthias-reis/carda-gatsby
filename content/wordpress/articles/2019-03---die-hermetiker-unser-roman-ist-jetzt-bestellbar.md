@@ -56,12 +56,3 @@ Das klingt doch schon mal sehr gut, oder? Das finden wir auch und wir freuen uns
 Schon seit Matze und ich uns vor acht Jahren kennengelernt haben, stürzen wir uns von einem kreativen Projekt ins nächste. Es war von Anfang an klar, dass wir irgendwann gemeinsam etwas veröffentlichen würde, das unsere Ideen vereint. " **Die Hermetiker** " ist innerhalb der letzten drei Jahre entstanden. Matze ist für das Thema, die Handlungsstränge und den roten Faden verantwortlich und ich habe die Charaktere ausgearbeitet und die Texte gestaltet.
 
 "[Die Hermetiker](https://amzn.to/2IbmJIE)" ist eine spannende Urban Fantasy Story mit Thriller-Elementen. Besonderheiten sind die verschiedenen Zeiten, in denen sie spielt, sowie die zwischen den verschiedenen Figuren wechselnde Perspektive. Matzes Enthusiasmus für Wissenschaft und Technik sowie meine Begeisterung für Reisen und Abenteuer könnt Ihr möglicherweise an der einen oder anderen Stelle herauslesen. Doch ich möchte noch nicht zu viel verraten. Wir wünschen Euch viel Spaß beim Lesen! Wer mehr über uns und unseren Roman erfahren möchte, kann uns jederzeit auf unserer [Autorenseite](https://amreis.de/ha121) besuchen. wir freuen uns auf Euch!
-
-<iframe
-  style="width: 120px; height: 240px;"
-  src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3748126522&amp;asins=3748126522&amp;linkId=0725512b84f13a5f2ca14219ec7087cf&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff"
-  frameborder="0"
-  marginwidth="0"
-  marginheight="0"
-  scrolling="no"
-></iframe>

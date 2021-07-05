@@ -71,7 +71,7 @@ Valentin und ich haben vieles gemeinsam. Dazu gehört, [dass wir die Deftones li
 
 "Das Smashing Pumpkins Konzert bei Rock am Ring hat mich sehr positiv überrascht. Die Stimmung war einfach grandios und Billy Corgan richtig gut drauf. Ein bisschen schade fand ich nur, dass sie "Window Paine" nicht gespielt haben", meint Matze. Wir holen das jetzt einfach nach.
 
-<YouTube id="Zu2N6aOW2W0" />
+<YouTube id="HVAlUmlRdRU" />
 
 ## Feine Sahne Fischfilet "Komplett im Arsch" vom Album "Scheitern und Verstehen" (2012)
 
@@ -113,7 +113,7 @@ Bei diesem Projekt handelt es sich um eine Neuentdeckung von Matze. Wir werden Z
 
 Dass Tool diesen Monat nicht fehlen dürfen ist klar. Sie haben es nicht nur geschafft, bei Rock am Ring alle an die Wand zu spielen - sie haben sogar neue Musik vorgestellt! Das komplette Album bekommen wir dann im August zu hören. Wir sind gespannt wie drei Flitzebogen!
 
-<YouTube id="Mq1Qb2rGQEs" />
+<YouTube id="h_TUP2vuaDs" />
 
 ## Sigur Rós - "Ágætis byrjun" (Jubiläumsedition 2019)
 
@@ -125,6 +125,13 @@ Sigur Rós feiern diesen Monat das 20-jährige Jubiläum der Platte "Ágætis by
 
 Was für ein unglaublich kreatives Album! Plastic Mermaids sind eine waschechte [Isle Of Wight](/2012/07/isle-of-wight-festival-2012/) Band - Beatles Gefühl inklusive. [Ihre Webseite](https://www.plasticmermaids.com) ist auch einen Besuch wert. So wunderbar bunt!
 
+### Unsere Songs als Playlists bei Spotify und iTunes
+
 <YouTube id="H8upWdou25c" />
 
 Das wars für diesen Monat. Wir hoffen, dass wir Euch ein bisschen inspirieren konnten. Wir hören uns dann im Juli wieder.
+
+<Playlist
+  spotify="2Qvce9RCZTDnfW3eAwTK48?si=28a122862c7e4a82"
+  itunes="2019-06-25-die-drei-von-der-bande/pl.u-kMPmuv3dBdD"
+/>

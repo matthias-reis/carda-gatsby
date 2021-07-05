@@ -69,7 +69,7 @@ Endlich bekommen wir nach und nach die Alben komplett zu hören, von denen wir i
 
 Matze und ich würden am liebsten jeden Monat einen Song von 65daysofstatic in die Liste aufnehmen. Inzwischen gehört sie nicht mehr nur zu meinen Lieblingsbands. Auch Matze ist die Band aus Sheffield mehr als nur ans Herz gewachsen. Das Album "replicr" erscheint in Kürze und wird sicher hier im Blog auch mehr Beachtung finden. Letzten Monat hatten wir die erste Auskopplung "Trackeplatz" in der Liste. Weil Matze am liebsten "Popular Beats" mit drauf gepackt hätte und es inzwischen mit "Five Waves" noch eine dritte gibt, kommt Ihr heute wieder in den Genuss, Post-Rock für die Seele mit uns zu genießen. Matze rechnet übrigens mit einem Kopf-an-Kopf-an-Kopf-Rennen um das Album des Jahres zwischen Tool, Cult Of Luna und 65daysofstatic - es ist eben ein hochkarätiges Jahr, was Musikveröffentlichungen angeht. Wir bleiben dran.
 
-<YouTube id="dH9tZ5z4dFg&list=RDdH9tZ5z4dFg&start_radio=1" />
+<YouTube id="dH9tZ5z4dFg" />
 
 ## .gif from god - "Possible Futures In the Minds Of Children" vom Album "Approximation Of A Human"
 

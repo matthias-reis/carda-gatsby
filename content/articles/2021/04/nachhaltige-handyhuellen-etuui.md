@@ -28,8 +28,6 @@ affiliate: true
 language: de
 ---
 
-## Schick, praktisch und kompostierbar
-
 **Eine nachhaltige Handyhülle wäre schön, oder? Heutzutage verzichtet schließlich kaum noch jemand aufs Smartphone. Hübsch verpackt macht das Teil natürlich noch viel mehr Spaß. Aber klappt das auch ohne Umweltsünden? Die gute Nachricht ist: Ja, das geht. Ich habe mir jetzt die Hüllen von Etuui mal genauer angeschaut.**
 
 Als Bloggerin bin ich natürlich darauf angewiesen, auch unterwegs mal schnell etwas verfassen zu können oder auch Nachrichten zu beantworten. Oder einfach nur mitzubekommen, was gerade in der Welt los ist. Darum nutze ich schon seit Jahren gebrauchte Mobiltelefone. So können sie noch ein zweites Leben führen und werden nicht so schnell ausgemustert.

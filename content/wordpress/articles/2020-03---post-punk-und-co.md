@@ -195,7 +195,7 @@ Ein paar Funky Vibes dürfen in dieser Liste selbstverständnlich auch nicht feh
 
 Das Lebenswerk des Musikers, Schauspielers, Dichters, Schriftstellers, Schauspielers und Drehbuchautors ist schier unüberschaubar. Den Bad Seeds ist Nick Cave bis heute treu. Das neue Album "Ghosteen" ist erst vor Kurzem erschienen. Bei "From Her To Eternity" handelt es sich um das Debut von Nick Cave &amp; The Bad Seeds aus dem Jahr 1984.
 
-<YouTube id="Kep9YdtKMrc" />
+<YouTube id="QSia5QE3rZ0" />
 
 ## Meat Puppets - "Lake of Fire" vom Album "Meat Puppets II"
 

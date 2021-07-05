@@ -49,8 +49,6 @@ affiliate: false
 languageLink: '/2021/05/magnus-josefsson-anette-halbe-stunde'
 ---
 
-## "Anette Halbe Stunde" – Interview With (Sound) Architect Magnus Josefsson
-
 **When I asked Magnus Josefsson what topics he would like to discuss in our interview, he brought up the Bullerby Syndrome. Not only was I curious about his connection to Astrid Lindgren, but I also wanted to know a bit more about the vegan (sound) architect from Sweden who has worked with so many exceptional artists and lived in Weimar once.**
 
 **Anne:** Hi Magnus! How are you doing today? I've heard the situation with the pandemic is not so rough anymore in Sweden? Is it? Over here, everything seems to last a bit longer. Everyone is patiently waiting for the vaccines to flood the country finally.

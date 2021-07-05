@@ -49,7 +49,7 @@ Wenn Ihr zu Hause Kosmetik herstellen wollt, solltet Ihr ein paar Grundlagen unb
 - Haltet Euch genau an die Mengenangaben. Benutzt dazu am besten eine Briefwaage.
 - Sorgt dafür, dass die Umgebung, in der Ihr Eure Kosmetik anrührt möglichst staubfrei ist. Am besten verwendet Ihr die Arbeitsfläche Eurer Küche oder einen sauberen Tisch, an dem Ihr ungestört hantieren könnt.
 
-`<Gallery name="`diy-kosmetik-edel-naturwaren-2`" />`
+<Gallery name="diy-kosmetik-edel-naturwaren-2" />
 
 ## Meine Lieblingsprodukte für trockene Haut
 
@@ -96,6 +96,6 @@ Gebt die Shea-Butter in ein hitzefestes Gefäß und lasst sie in einem Wasserbad
 
 Wenn Ihr die Shea-Butter geschmolzen habt, nehmt Ihr den Topf von der Herdplatte und gebt die ätherischen Öle und die Basis-Öle hinzu. Füllt Eure Creme in die vorbereitete Dose, rührt sie nochmal um und stellt sie am besten über Nacht in den Kühlschrank. Fertig ist Eure duftige Handcreme! Sie ist ungerührt rund acht bis 12 Wochen haltbar, im Kühlschrank noch etwas länger. Mit der Kühlung verstärkt Ihr außerdem den Erfrischungseffekt des ätherischen Rosmarin-Öls.
 
-`<Gallery name="`diy-kosmetik-edel-naturwaren-1`" />`
+<Gallery name="diy-kosmetik-edel-naturwaren-1" />
 
 Wenn ihr mehr über Aromatherapie und Ätherische Öle erfahren wollt, [empfehle ich Euch diesen Artikel](/2021/03/aromatherapie/). Alles über die Unterschiede und Gemeinsamkeiten von Veganer Kosmetik, Biokosmetik und Naturkosmetik [erfahrt Ihr hier](/2018/03/vegane-kosmetik-und-naturkosmetik/).

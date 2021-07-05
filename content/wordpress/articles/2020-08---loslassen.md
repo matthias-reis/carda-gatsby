@@ -101,7 +101,7 @@ Namasté
 <RemoteImage
   alt={`loslassen-pin`}
   size="large"
-  title={`[Jetzt auf Pinterest pinnen](https://www.pinterest.de/cardamonchai)`}
+  title={`Dieses Bild könnt Ihr auf Pinterest pinnen.`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_08_3__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYAA//EACMQAAIBBAIBBQEAAAAAAAAAAAECEQADBCEFEnETIjFBYVH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUG/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECAwQTMZERQlH/2gAMAwEAAhEDEQA/AJBMX8FdGwyACVidifuqnjsFWYrdcKoUkS0bkfhpEcdjMUHqAKBEG8dbJ17P2tApxSJDbIEYa/YrVVXMGY7CT4Fagco+Qk2HYWfnhQH5Gzb3ACWux8mWEUgvJ5RtN35UuJ0tu2snz7jUhjFnA7mE/lILkemsAwo+ABWetzHxEtVYkeZCdzkLvY97uQxnRDhdeIrURcypb5itSOyx+z7Y3qr+Lo//2Q=="

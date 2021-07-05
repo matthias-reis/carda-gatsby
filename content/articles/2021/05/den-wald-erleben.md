@@ -25,8 +25,6 @@ affiliate: false
 languageLink: ''
 ---
 
-## Das passiert an einem Tag in der Natur
-
 **Den Wald erleben – mit allen Sinnen vom Morgen bis in die Dämmerung. All seine Bewohner, die Pflanzen, die frische Luft, den Tau auf den Blättern, das plätschernde Wasser in seinen Bachläufen genießen und das alles für möglichst lange Zeit abspeichern. Ein Tag in der Natur ist etwas Wertvolles und seine Wirkung sollte man niemals unterschätzen.**
 
 Wandern und Spazieren macht glücklich. Den Wald erleben wir auf ganz andere Art, als unsere alltägliche Umgebung. All das Grün, die kleinen Geräusche und die Begegnungen mit vorbei huschenden Vögeln und anderen Tieren können einen tiefen Eindruck bei uns hinterlassen und uns unsere Sorgen zumindest für einen Moment vergessen lassen.
