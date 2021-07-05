@@ -171,5 +171,5 @@ Diese Band, die sich einst nach dem avantgardistischen russischen Komponisten un
 
 <Playlist
   spotify="6UkNIHbWgGMn6VY71odXBd"
-  itunes="/2020-12-25-rock-n-roll-vegan/pl.u-NNyGTlxZ2Zy"
+  itunes="2020-12-25-rock-n-roll-vegan/pl.u-NNyGTlxZ2Zy"
 />

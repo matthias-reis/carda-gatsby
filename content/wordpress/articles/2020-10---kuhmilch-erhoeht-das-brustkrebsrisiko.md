@@ -112,6 +112,7 @@ Insgesamt kann man klar sagen, dass der regelmäßige Genuss von Kuhmilch-Produk
 [^1]: [Studie zu Milch und Brustkrebs](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyaa007/5743492?redirectedFrom=fulltext)
 [^2]: [Adventist Health Study](https://adventisthealthstudy.org/studies/AHS-2)
 [^3]: [BLV-Studie](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134304)
-[^4]: [Umfrage des US Landwirtschaftsministeriums](https://www.aphis.usda.gov/animal_health/nahms/dairy/downloads/dairy07/Dairy07_is_BLV.pdf) [^5] [Committee for Responsible Medicine (PCRM)](https://www.pcrm.org/)
+[^4]: [Umfrage des US Landwirtschaftsministeriums](https://www.aphis.usda.gov/animal_health/nahms/dairy/downloads/dairy07/Dairy07_is_BLV.pdf)
+[^5]: [Committee for Responsible Medicine (PCRM)](https://www.pcrm.org/)
 [^6]: [Bürgerpetition zur Kennzeichnung von Käse](https://p.widencdn.net/9unq1q/2019-10-03-Physicians-Committee-for-Responsible-Medicine-FDA-Petition-Breast-Cancer-and-Cheese-FINA)
 [^7]: [Kampagne "Let's Beat Breast Cancer"](https://www.pcrm.org/letsbeatbreastcancer?utm_source=web&utm_medium=van_dom&utm_campaign=LBBC)
