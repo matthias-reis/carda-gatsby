@@ -40,7 +40,7 @@ Was allgemein unter den Labels "Dream Gaze" und "Singer-Songwriter" läuft, ist 
 
 ![Bild/picture: Sara Baggini](/img/augustine-sara-baggini.jpg "Augustine – "Proserpine"*. Bild/picture: Sara Baggini")
 
-Die des Ausnahmetalents Augustine ist etwas ganz Besonderes, soviel steht schon mal fest. Ihr zweites Album nach dem gefeierten Debut "Grief and Desire" von 2018 hat die Sängerin und Musikerin aus Leidenschaft via I Dischi del Minollo veröffenlicht.
+Die des Ausnahmetalents Augustine ist etwas ganz Besonderes, soviel steht schon mal fest. Ihr zweites Album nach dem gefeierten Debut "Grief and Desire" von 2018 hat die Sängerin und Musikerin aus Leidenschaft über I Dischi del Minollo veröffenlicht.
 
 ## Augustine besitzt ein unglaubliches Gespür für den richtigen Moment
 
