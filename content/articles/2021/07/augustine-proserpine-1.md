@@ -47,8 +47,6 @@ She wrote all the songs herself and produced them together with Fabio Ripanucci 
 
 Sara Baggini has an incredible feeling for when to use which instrument to create the desired mood. She did this successfully again on "Proserpine" with the guitar, the bass, the Rhodes piano, the keyboards and synthesizer, the percussion, the stompbox and the drum machine.
 
-![Picture: Sara Baggini | large](/img/augustine-2.jpg "Picture: Sara Baggini")
-
 Fabio Ripanucci (additional guitars, Rhodes piano, keyboards, Moog, percussion and drum machine), Massimo "Marga" Margaritelli (bass for "Fanny, They Killed Me" and "Moments of Pleasure Joy"), Daniele Rotella (bass for "Tower Stones" and percussion in "Pomegranate"), Francesco Federici (toms for "Pomegranate") and Niccolò Franchi (snare for "Pagan", drums in "Moments of Pleasure and Joy", "How To Cut Your. ." and "Adonis") contributed a few more little details to the record.
 
 ## A perfectly orchestrated jam session.
@@ -65,7 +63,7 @@ Her introspective journey is a symbolic plunge into the underworld. The rebirth 
 
 The mysticism of her story reflects in every song line. Being kidnapped by Pluto, sentenced to spend six months in Hades for tasting a pomegranate seed, loved by Adonis and then reborn in spring.
 
-![Picture: Sara Baggini | large](/img/augustine-3.jpg "Picture: Sara Baggini")
+![Picture: Sara Baggini | large](/img/augustine-2.jpg "Picture: Sara Baggini")
 
 Augustine expresses the highs and lows of the heroine's journey with the help of light and sunny parts and dark, eerie sequences. The interplay between beauty and restlessness, tranquillity and disruption are perfectly balanced. The changes between both worlds always happen at the right moment.
 
@@ -76,6 +74,8 @@ With her latest record, the sound artist from Italy captures the pulse of today'
 With density and gloom, she moves away from Dream Pop towards Dark Folk. Her harmonic vocals hover pleasantly dreamy over everything and catch the songs one by one when they are about to drift away into space.
 
 Sara Baggini has been composing since her childhood. At age 19, she went to the Academy of Fine Arts in Perugia, where she mainly studied visual arts and graduated in painting.
+
+![Picture: Sara Baggini | large](/img/augustine-3.jpg "Picture: Sara Baggini")
  
 The artist adopted her pseudonym Agustine after her recordings with One Thin Line (2010) and various collaborations with electronic projects. It comes from Georges Didi-Huberman's essay "Invention of Hysteria".
 
