@@ -83,7 +83,7 @@ The artist adopted her pseudonym Agustine after her recordings with One Thin Lin
 
 For her video for the song "Augustine", she was awarded the second prize for the best self-produced music video at the 2019 VIC (Videoclip Italia Contest). Her first official album "Grief and Desire" is conceived as an autobiographical musical novel. She likes to draw her ideas from literature (e.g. Sylvia Plath and Virginia Woolf) and painting.
 
-She sees her influences primarily in the British post-punk, dream pop and darkwave of the 1980s. You can hear her admiration for giants like Cocteau Twins, Siouxsie And The Banshees, Sinead O'Connor, PJ Harvey, Agnes Obel, Dead Can Dance, and Björk in her style. Please listen to her current album " Proserpine " if you can relate to these bands and musicians, please listen to her recent album "Proserpine". I highly recommend it to you.
+She sees her influences primarily in the British post-punk, dream pop and darkwave of the 1980s. You can hear her admiration for giants like Cocteau Twins, Siouxsie And The Banshees, Sinead O'Connor, PJ Harvey, Agnes Obel, Dead Can Dance, and Björk in her style. Please listen to her current album " Proserpine " if you can relate to these bands and musicians. I highly recommend it to you.
 
 ## Augustine – "Anemones"
 
