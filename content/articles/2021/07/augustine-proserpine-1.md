@@ -35,7 +35,7 @@ languageLink: /2021/07/augustine-proserpine
 ---
 **Augustine, aka Sara Baggini, already released her new album in April. Although it's been some days since then, I didn't want to miss writing a review on "Proserpine". Her second long-player has a lot going for it and is definitely worth to be mentioned on this blog.**
 
-What generally goes under the labels "dream gaze" and "singer-Songwriter" comes in many shapes – This applies to quality and the style of the music we use to put into these boxes.
+What generally goes under the labels "dream pop" and "singer-songwriter" comes in many shapes – This applies to the quality and style of the music we use to put into these boxes.
 
 ![Picture: Sara Baggini](/img/augustine-sara-baggini.jpg "Augustine – "Proserpine"*. Picture: Sara Baggini")
 
@@ -47,7 +47,7 @@ She wrote all the songs herself and produced them together with Fabio Ripanucci 
 
 Sara Baggini has an incredible feeling for when to use which instrument to create the desired mood. She did this successfully again on "Proserpine" with the guitar, the bass, the Rhodes piano, the keyboards and synthesizer, the percussion, the stompbox and the drum machine.
 
-Fabio Ripanucci (additional guitars, Rhodes piano, keyboards, Moog, percussion and drum machine), Massimo "Marga" Margaritelli (bass for "Fanny, They Killed Me" and "Moments of Pleasure Joy"), Daniele Rotella (bass for "Tower Stones" and percussion in "Pomegranate"), Francesco Federici (toms for "Pomegranate") and Niccolò Franchi (snare for "Pagan", drums in "Moments of Pleasure and Joy", "How To Cut Your. ." and "Adonis") contributed a few more little details to the record.
+Fabio Ripanucci (additional guitars, Rhodes piano, keyboards, Moog, percussion and drum machine), Massimo "Marga" Margaritelli (bass for "Fanny, They Killed Me" and "Moments of Pleasure Joy"), Daniele Rotella (bass for "Tower Stones" and percussion in "Pomegranate"), Francesco Federici (toms for "Pomegranate") and Niccolò Franchi (snare for "Pagan", drums in "Moments of Pleasure and Joy", "How To Cut Your..." and "Adonis") contributed a few more little details to the record.
 
 ## A perfectly orchestrated jam session.
 
@@ -83,7 +83,7 @@ The artist adopted her pseudonym Agustine after her recordings with One Thin Lin
 
 For her video for the song "Augustine", she was awarded the second prize for the best self-produced music video at the 2019 VIC (Videoclip Italia Contest). Her first official album "Grief and Desire" is conceived as an autobiographical musical novel. She likes to draw her ideas from literature (e.g. Sylvia Plath and Virginia Woolf) and painting.
 
-She sees her influences primarily in the British post-punk, dream pop and darkwave of the 1980s. You can hear her admiration for giants like Cocteau Twins, Siouxsie And The Banshees, Sinead O'Connor, PJ Harvey, Agnes Obel, Dead Can Dance, and Björk in her style. Please listen to her current album " Proserpine " if you can relate to these bands and musicians, please listen to her recent album "Proserpine". I highly recommend it to you.
+She sees her influences primarily in the British post-punk, dream pop and darkwave of the 1980s. You can hear her admiration for giants like Cocteau Twins, Siouxsie And The Banshees, Sinead O'Connor, PJ Harvey, Agnes Obel, Dead Can Dance, and Björk in her style. Please listen to her current album " Proserpine " if you can relate to these bands and musicians. I highly recommend it to you.
 
 ## Augustine – "Anemones"
 

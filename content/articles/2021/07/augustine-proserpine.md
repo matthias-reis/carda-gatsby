@@ -36,7 +36,7 @@ languageLink: /2021/07/augustine-proserpine-en
 ---
 **Das neue Album von Augustine aka Sara Baggini ist bereits im April erschienen. Höchste Zeit für eine Review zu "Proserpine". Der zweite Langspieler der Multi-Instrumentalistin und Producerin hat es nämlich in sich.**
 
-Was allgemein unter den Labels "Dream Gaze" und "Singer-Songwriter" läuft, ist sehr unterschiedlich. Das betrifft nicht nur die Qualität, sondern auch den Stil der Musik, die allgemein in diese Schubladen eingeordnet wird.
+Was allgemein unter den Labels "Dream Pop" und "Singer-Songwriter" läuft, ist sehr unterschiedlich. Das betrifft nicht nur die Qualität, sondern auch den Stil der Musik, die allgemein in diese Schubladen eingeordnet wird.
 
 ![Bild/picture: Sara Baggini](/img/augustine-sara-baggini.jpg "Augustine – "Proserpine"*. Bild/picture: Sara Baggini")
 
@@ -47,8 +47,6 @@ Die des Ausnahmetalents Augustine ist etwas ganz Besonderes, soviel steht schon 
 Sie selbst hat alle Songs geschrieben und gemeinsam mit Fabio Ripanucci und Daniele Rotella produziert. Die Aufnahme, das Mixing und Mastering fanden im italienischen Perugia statt.
 
 Sara Baggini besitzt ein unglaubliches Gespür dafür, wann sie welches Instrument einsetzen muss, um die gewünschte Stimmung zu erzeugen. Das hat sie auf "Proserpine" wieder erfolgreich mit der Gitarre, dem Bass, dem Rhodes Piano, den Keyboards und Synthesizer, der Percussion, der Stomp-Box und der Drum Machine gemacht.
-
-![Bild/picture: Sara Baggini | large](/img/augustine-2.jpg "Bild/picture: Sara Baggini")
 
 Ein paar weitere kleine Details haben Fabio Ripanucci (zusätzliche Gitarren, Rhodes Piano, Keyboards, Moog, Percussion und Drum Machine), Massimo "Marga" Margaritelli (Bass für "Fanny, They Killed Me" und "Moments of Pleasure Joy"), Daniele Rotella (Bass für "Tower Stones" und Percussion in "Pomegranate"), Francesco Federici (Toms für "Pomegranate") und Niccolò Franchi (Snare für "Pagan", Drums in "Moments of Pleasure and Joy", "How To Cut Your..." und "Adonis") zur Platte beigetragen.
 
@@ -66,7 +64,7 @@ Ihre introspektive Reise ist ein symbolischer Sturz in die Unterwelt. Mit dem Zi
 
 Die Mystik ihrer Geschichte spiegelt sich in jeder Songzeile wider. Von der Entführung durch Pluto und das Urteil, ein halbes Jahr im Hades verbringen zu müssen, weil sie von einem Granatapfelsamen gekostet hat, bis hin zur Liebe des Adonis und ihre Wiedergeburt im Frühjahr.
 
-![Bild/picture: Sara Baggini | large](/img/augustine-3.jpg "Bild/picture: Sara Baggini")
+![Bild/picture: Sara Baggini | large](/img/augustine-2.jpg "Bild/picture: Sara Baggini")
 
 Die Höhen und Tiefen der Heldinnenreise drückt Augustine mithilfe lockerer und sonnigen Parts und düsterer, unheimlicher Strecken haben. Das Zusammenspiel zwischen Schönheit und Unruhe, Ruhe und Zerrissenheit ist perfekt ausgeglichen. Die Wechsel zwischen beiden Welten passieren stets im richtigen Moment.
 
@@ -77,6 +75,8 @@ Die Sound-Bastlerin aus Italien trifft mit ihrer aktuellen Platte den Puls unser
 Mit der Dichte und Düsternis bewegt sie sich von Dream Pop weg in Richtung Dark Folk. Ihr harmonischer Gesang schwebt angenehm verträumt über allem und fängt die Songs einen nach dem anderen wieder ein, wenn sie kurz vor dem Davondriften in den Raum stehen.
 
 Sara Baggini komponiert bereits seit ihrer Kindheit. Mit 19 ging sie in Perugia auf die Akademie der schönen Künste, wo sie sich vor allem mit visueller Kunst beschäftige und ihren Abschluss in Malerei machte.
+
+![Bild/picture: Sara Baggini | large](/img/augustine-3.jpg "Bild/picture: Sara Baggini")
 
 Ihr Pseudonym Agustine nahm die Künstlerin nach ihren Aufnahmen mit One Thin Line (2010) und verschiedenen Zusammenarbeiten mit elektronischen Projekten an. Es stammt aus Georges Didi-Hubermans Essay "Invention of Hysteria".
 
