@@ -7,8 +7,8 @@ subTitle: Das neue Album der Multi-Instrumentalistin
 seoTitle: Augustine – "Proserpine" – Das neue Album der Multi-Instrumentalistin
 description: Das neue Album von Augustine aka Sara Baggini ist bereits im April
   erschienen. Höchste Zeit für eine Review zu "Proserpine". Die zweite LP der
-  Dream Pop/Dark Folk LP Multi-Instrumentalistin und Producerin hat es nämlich
-  in sich – ich lege sie Euch hiermit ans Herz.
+  Dream Pop/Dark Folk Multi-Instrumentalistin und Musik-Producerin hat es
+  nämlich in sich – ich lege sie Euch hiermit ans Herz.
 excerpt: ""
 image: /img/augustine-1.jpg
 copyrigt: Sara Baggini
