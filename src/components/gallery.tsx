@@ -34,17 +34,19 @@ export const Gallery: React.FC<GalleryProps> = ({ images = [], name }) => {
   }));
 
   const [usedImages, setUsedImages] = React.useState(refinedImages);
+  const [isLoaded, setIsLoaded] = React.useState(images.length > 0 && !name);
 
   React.useEffect(() => {
-    if (name) {
+    if (!isLoaded) {
       (async function loadImageMetaFromGoogleStorage() {
         const url = `https://storage.googleapis.com/cardamonchai-galleries/${name}/index.json`;
         const res = await fetch(url);
         let { images } = await res.json();
         setUsedImages(images.map(mapUrls(name)));
+        setIsLoaded(true);
       })();
     }
-  }, [usedImages, setUsedImages, name]);
+  }, [usedImages, setUsedImages, name, isLoaded, setIsLoaded]);
   return <InternalGallery images={usedImages} />;
 };
 
