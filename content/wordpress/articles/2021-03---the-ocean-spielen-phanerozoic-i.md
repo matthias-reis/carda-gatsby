@@ -55,7 +55,7 @@ Das klingt doch wahnsinnig vielversprechend, oder? Ich freue mich darauf, diese 
 
 ## Jetzt anmelden und "Phanerozoic I" live erleben
 
-[Meldet Euch doch auch an](https://www.club100-bremen.de/the-ocean) ! Ich freue mich auf Euch!
+[Meldet Euch doch auch an](https://www.club100-bremen.de/the-ocean)! Ich freue mich auf Euch!
 
 Mit dem Kauf eines Tickets habt Ihr auch die Möglichkeit, das Konzert 48 Stunden lang on demand zu sehen. Im Moment planen The Ocean nicht, es länger verfügbar zu machen, also verpasst es nicht. Wenn alles gut läuft, hat die Band übrigens versprochen, das Ganze später im Jahr mit "Phanerozoic II" zu wiederholen. Es wird also um zahlreiches Erscheinen gebeten!
 

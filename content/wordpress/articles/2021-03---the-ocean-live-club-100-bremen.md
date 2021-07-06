@@ -46,6 +46,6 @@ Auch wenn Loïc im Interview vor dem Konzert noch erzählt hatte, dass es nach e
 
 Verspricht der Club 100 auf seiner Webseite. Das Schöne: Das klappt wirklich! Ein cooles Konzert voller Energie und schöner Momente. Schön dieses wunderbare Album in seiner Gesamtheit live genossen und The Ocean endlich mal wieder live erlebt zu haben. Das Einschalten hat sich auf jeden Fall gelohnt. Für mich ein gelungener Abend.
 
-<Gallery name="the-ocean-club-100" />
+<Gallery name="the-ocean-club-100-final" />
 
 [Mein Interview mit Robin Staps von The Ocean könnt Ihr hier lesen](/2020/09/the-ocean-robin-staps-interview/).
