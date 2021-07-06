@@ -27,7 +27,9 @@ language: de
 **Micaraa hat eine neue Pflege-Serie auf den Markt gebracht. Sie heißt "Calm" und ist besonders für empfindliche und allergische Haut gedacht. Weil das komplett nach mir klingt, war sofort klar, dass ich sie testen musste, als ich davon erfuhr.**
 
 ---
+
 **Hinweis:** Weiter unten findet Ihr einen Gutschein für Eure nächste Bestellung bei Micaraa.
+
 ---
 
 Ausprobiert habe ich die [Gesichtscreme](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fproducts%2Fcalming-face-cream), das [Gesichtsserum mit Nachtkerzenöl](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fproducts%2Fcalming-face-serum) und das [Vitamin C Augenserum mit Hyaluronsäure](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fgesicht%2Fproducts%2Fvitamin-c-augenserum). Weil die letzten Wochen ganz schön anstrengend waren, habe ich ziemliche Augenringe bekommen. Daher war ich auf das Augenserum besonders gespannt. Doch auch das Serum mit Nachtkerzenöl machte mich sehr neugierig. Bisher habe ich mit Produkten, die Nachtkerzenöl enthalten, immer sehr gute Erfahrungen gemacht, daher freute ich mich sehr auf den Test.
