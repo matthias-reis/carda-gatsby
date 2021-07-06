@@ -26,15 +26,7 @@ export type Frontmatter = {
   remoteImage?: string;
   remoteLoadingImage?: string;
   remoteThumbnailImage?: string;
-  ogImage?: {
-    childImageSharp: {
-      original: {
-        src: string;
-        width: number;
-        height: number;
-      };
-    };
-  };
+  ogImage?: string;
   language?: 'en' | 'de';
   languageLink?: string;
   advertisement?: boolean;

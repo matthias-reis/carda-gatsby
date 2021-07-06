@@ -1,3 +1,10 @@
 {
-  "extends": ["plugin:mdx/recommended"]
+  "extends": ["plugin:mdx/recommended"],
+  "plugins": ["@emotion"],
+  "rules": {
+    "@emotion/pkg-renaming": "error",
+    "@emotion/no-vanilla": "error",
+    "@emotion/import-from-emotion": "error",
+    "@emotion/styled-import": "error"
+  }
 }

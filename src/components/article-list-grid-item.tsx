@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import { Link } from 'gatsby';
-import { GatsbyImage } from "gatsby-plugin-image";
+import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 import moment from 'moment';
 import 'moment/locale/de';
 
@@ -35,6 +35,8 @@ export const ArticleListGridItem: React.FC<{
 
   const hasEnglishVersion = article.language !== 'en' && !!article.languageLink;
 
+  const imageData = article.image && getImage(article.image);
+
   return (
     <Item key={article.path}>
       <ItemLink
@@ -47,12 +49,8 @@ export const ArticleListGridItem: React.FC<{
         <Type>{article.typeName || 'Beitrag'}</Type>
         <ImageContainer>
           <InnerImageContainer>
-            {article.image?.childImageSharp && (
-              <Image
-                Tag="div"
-                alt={article.title}
-                fluid={article.image!.childImageSharp.gatsbyImageData}
-              />
+            {article.image && (
+              <Image image={article.image} as="div" alt={article.title} />
             )}
             {(article.remoteLoadingImage ?? null) && (
               <CardaImage

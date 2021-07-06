@@ -54,7 +54,7 @@ export default {
                 }</p>
 <p><img src="${
                   site.siteMetadata.siteUrl +
-                  edge.node?.frontmatter?.image?.childImageSharp?.gatsbyImageData?.src
+                  edge.node?.frontmatter?.image?.childImageSharp?.fluid?.src
                 }" alt="${edge.node?.frontmatter?.title}" /><p>
 <p style="font-size: 1.25em;  color: #f0ecee">${
                   edge.node.frontmatter?.excerpt ||
@@ -159,27 +159,24 @@ ${
         name: 'uploads',
       },
     },
-    {
-      resolve: `gatsby-plugin-mdx`,
-      options: {
-        extensions: ['.mdx', '.md'],
-        gatsbyRemarkPlugins: [
-          { resolve: 'gatsby-remark-numbered-footnotes' },
-          {
-            resolve: `gatsby-remark-relative-images`,
-            options: {
-              exclude: ['ogImage'],
-            },
-          },
-        ],
-      },
-    },
     'gatsby-plugin-image',
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-transformer-sharp',
       options: {
         checkSupportedExtensions: false,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        extensions: ['.mdx', '.md'],
+        plugins: [
+          {
+            resolve: `gatsby-plugin-netlify-cms-paths`,
+          },
+        ],
+        gatsbyRemarkPlugins: [{ resolve: 'gatsby-remark-numbered-footnotes' }],
       },
     },
     `gatsby-plugin-emotion`,

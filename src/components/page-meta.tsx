@@ -4,11 +4,13 @@ import { pageView } from './analytics';
 import type { Article } from '../types';
 
 const SERVER = `https://cardamonchai.com`;
-
 export const PageMeta: React.FC<{
   meta: Article;
   path: string;
 }> = ({ meta, path }) => {
+  const ogImage =
+    meta.frontmatter.ogImage?.replace(/\.\.\//g, '').replace('static', '') ||
+    '/img/opengraph.png';
   React.useEffect(() => {
     pageView(meta.frontmatter.title, path);
   }, [meta, path]);
@@ -18,10 +20,7 @@ export const PageMeta: React.FC<{
         {meta.frontmatter.seoTitle || meta.frontmatter.title} | cardamonchai.com
       </title>
       <meta name="description" content={meta.frontmatter.description} />
-      <link
-        rel="canonical"
-        href={`https://cardamonchai.com${meta.fields.path}`}
-      />
+      <link rel="canonical" href={`${SERVER}${meta.fields.path}`} />
       <meta
         property="og:locale"
         content={meta.frontmatter.language === 'en' ? 'en_GB' : 'de_DE'}
@@ -54,34 +53,10 @@ export const PageMeta: React.FC<{
         property="article:published_time"
         content={meta.frontmatter.date.toString()}
       />
-      <meta
-        property="og:image"
-        content={`${SERVER}${
-          meta.frontmatter.ogImage?.childImageSharp.original.src ||
-          '/img/opengraph.png'
-        }`}
-      />
-      <meta
-        property="twitter:image"
-        content={`${SERVER}${
-          meta.frontmatter.ogImage?.childImageSharp.original.src ||
-          '/img/opengraph.png'
-        }`}
-      />
-      <meta
-        property="og:image:width"
-        content={
-          meta.frontmatter.ogImage?.childImageSharp.original.width.toString() ??
-          '1200'
-        }
-      />
-      <meta
-        property="og:image:height"
-        content={
-          meta.frontmatter.ogImage?.childImageSharp.original.height.toString() ??
-          '630'
-        }
-      />
+      <meta property="og:image" content={`${SERVER}${ogImage}`} />
+      <meta property="twitter:image" content={`${SERVER}${ogImage}`} />
+      <meta property="og:image:width" content={'1200'} />
+      <meta property="og:image:height" content={'630'} />
     </Helmet>
   );
 };

@@ -15,7 +15,7 @@ export const CardaImage: React.FC<CardaImageProps> = ({
   const source = src.replace(/%/g, '%25').replace('__m', '__s');
   loading = (loading || '').replace(/'/g, '');
   const [s, setSrc] = React.useState(loading || source);
-  loading &&
+  !!loading &&
     React.useEffect(() => {
       const i = new Image();
       i.src = source;

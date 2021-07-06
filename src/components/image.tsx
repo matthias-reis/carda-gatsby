@@ -1,23 +1,24 @@
 import * as React from 'react';
 import styled from '@emotion/styled';
 import { useStaticQuery, graphql } from 'gatsby';
-import { GatsbyImage } from "gatsby-plugin-image";
+import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 
 import { Caption } from './caption';
 import { space, width, breakpoints } from '../style';
 
-const ALL_IMAGE_QUERY = graphql`query AllImageQuery {
-  allFile {
-    edges {
-      node {
-        absolutePath
-        childImageSharp {
-          gatsbyImageData(layout: FULL_WIDTH)
+const ALL_IMAGE_QUERY = graphql`
+  query AllImageQuery {
+    allFile {
+      edges {
+        node {
+          absolutePath
+          childImageSharp {
+            gatsbyImageData(layout: FULL_WIDTH)
+          }
         }
       }
     }
   }
-}
 `;
 
 const Image: React.FC<ImageProps> = ({ alt, src, title }) => {
@@ -34,13 +35,12 @@ const Image: React.FC<ImageProps> = ({ alt, src, title }) => {
     (item: ImageQueryNode) => item.node.absolutePath.indexOf(src) > -1
   );
 
+  const imageData = getImage(image.node);
+
   if (!!image) {
     return (
       <Container>
-        <GatsbyImage
-          image={image.node.childImageSharp.gatsbyImageData}
-          Tag="span"
-          alt={altText} />
+        <GatsbyImage image={imageData} as="span" alt={altText} />
         {title && <Caption>{title.replace(/\\/g, '')}</Caption>}
       </Container>
     );
