@@ -74,83 +74,78 @@ const ArticleController: React.FC<{
 
 export default ArticleController;
 
-export const query = graphql`
-  query ArticleQuery($id: String!, $recommendations: [String]) {
-    mdx(id: { eq: $id }) {
-      body
-      fileAbsolutePath
-      fields {
-        labels {
-          slug
-          title
-          type
+export const query = graphql`query ArticleQuery($id: String!, $recommendations: [String]) {
+  mdx(id: {eq: $id}) {
+    body
+    fileAbsolutePath
+    fields {
+      labels {
+        slug
+        title
+        type
+      }
+      path
+    }
+    frontmatter {
+      title
+      subTitle
+      seoTitle
+      date
+      type
+      typeName
+      description
+      excerpt
+      focusKeyword
+      remoteImage
+      remoteLoadingImage
+      language
+      languageLink
+      advertisement
+      affiliate
+      ogImage {
+        childImageSharp {
+          original {
+            src
+            height
+            width
+          }
         }
+      }
+      image {
+        childImageSharp {
+          gatsbyImageData(width: 900, quality: 70, layout: CONSTRAINED)
+        }
+      }
+    }
+    id
+    timeToRead
+  }
+  allMdx(filter: {id: {in: $recommendations}}) {
+    nodes {
+      fields {
         path
       }
       frontmatter {
         title
         subTitle
-        seoTitle
+        ogTitle
+        description
         date
         type
         typeName
-        description
-        excerpt
-        focusKeyword
-        remoteImage
+        remoteThumbnailImage
         remoteLoadingImage
         language
         languageLink
-        advertisement
-        affiliate
-        ogImage {
-          childImageSharp {
-            original {
-              src
-              height
-              width
-            }
-          }
-        }
         image {
           childImageSharp {
-            fluid(maxWidth: 900, quality: 70) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-      }
-      id
-      timeToRead
-    }
-    allMdx(filter: { id: { in: $recommendations } }) {
-      nodes {
-        fields {
-          path
-        }
-        frontmatter {
-          title
-          subTitle
-          ogTitle
-          description
-          date
-          type
-          typeName
-          remoteThumbnailImage
-          remoteLoadingImage
-          language
-          languageLink
-          image {
-            childImageSharp {
-              fluid(maxWidth: 900, quality: 70) {
-                ...GatsbyImageSharpFluid
-              }
-            }
+            gatsbyImageData(width: 900, quality: 70, layout: CONSTRAINED)
           }
         }
       }
     }
   }
+}
 `;
 
 type ArticleQuery = {

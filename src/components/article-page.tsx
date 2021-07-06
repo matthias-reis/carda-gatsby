@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from '@emotion/styled';
-import Image from 'gatsby-image';
+import { GatsbyImage } from "gatsby-plugin-image";
 import { Link as GatsbyLink } from 'gatsby';
 
 import { Link } from './link';
@@ -117,7 +117,7 @@ export const ArticlePage: React.FC<ArticleProps> = ({
         </MetaArea>
         <ImageContainer>
           {meta.frontmatter.image && (
-            <Image fluid={meta.frontmatter.image.childImageSharp.fluid} />
+            <GatsbyImage image={meta.frontmatter.image.childImageSharp.gatsbyImageData} />
           )}
           {meta.frontmatter.remoteImage && (
             <CardaImage

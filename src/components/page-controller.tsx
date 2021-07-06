@@ -63,38 +63,35 @@ const PageController: React.FC<{ data: ArticleQuery; path: string }> = ({
 
 export default PageController;
 
-export const query = graphql`
-  query PageQuery($id: String!) {
-    mdx(id: { eq: $id }) {
-      body
-      fields {
-        labels {
-          slug
-          title
-          type
-        }
-        path
-      }
-      frontmatter {
+export const query = graphql`query PageQuery($id: String!) {
+  mdx(id: {eq: $id}) {
+    body
+    fields {
+      labels {
+        slug
         title
-        subTitle
-        date
         type
-        typeName
-        description
-        remoteImage
-        remoteLoadingImage
-        image {
-          childImageSharp {
-            fluid(maxWidth: 900, quality: 70) {
-              ...GatsbyImageSharpFluid
-            }
-          }
+      }
+      path
+    }
+    frontmatter {
+      title
+      subTitle
+      date
+      type
+      typeName
+      description
+      remoteImage
+      remoteLoadingImage
+      image {
+        childImageSharp {
+          gatsbyImageData(width: 900, quality: 70, layout: CONSTRAINED)
         }
       }
-      id
     }
+    id
   }
+}
 `;
 
 type ArticleQuery = {

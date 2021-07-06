@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from '@emotion/styled';
-import Image from 'gatsby-image';
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import { Title, Subtitle } from './typo';
 import { Container } from './container';
@@ -28,7 +28,7 @@ export const StaticPage: React.FC<StaticPageProps> = ({
         )}
         <ImageContainer>
           {meta.frontmatter.image && (
-            <Image fluid={meta.frontmatter.image.childImageSharp.fluid} />
+            <GatsbyImage image={meta.frontmatter.image.childImageSharp.gatsbyImageData} />
           )}
           {meta.frontmatter.remoteImage && (
             <CardaImage

@@ -28,44 +28,38 @@ const HomePageController: React.FC<{ data: ListQuery }> = ({ data }) => {
 
 export default HomePageController;
 
-export const query = graphql`
-  query HomeQuery {
-    allMdx(
-      limit: 23
-      sort: { fields: frontmatter___date, order: DESC }
-      filter: {
-        frontmatter: { language: { ne: "en" } }
-        fields: { type: { in: ["article", "wordpress"] } }
-      }
-    ) {
-      edges {
-        node {
-          fields {
-            path
-          }
-          frontmatter {
-            title
-            subTitle
-            description
-            excerpt
-            type
-            typeName
-            date
-            remoteLoadingImage
-            remoteThumbnailImage
-            languageLink
-            advertisement
-            affiliate
-            image {
-              childImageSharp {
-                fluid(maxWidth: 400, quality: 70) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
+export const query = graphql`query HomeQuery {
+  allMdx(
+    limit: 23
+    sort: {fields: frontmatter___date, order: DESC}
+    filter: {frontmatter: {language: {ne: "en"}}, fields: {type: {in: ["article", "wordpress"]}}}
+  ) {
+    edges {
+      node {
+        fields {
+          path
+        }
+        frontmatter {
+          title
+          subTitle
+          description
+          excerpt
+          type
+          typeName
+          date
+          remoteLoadingImage
+          remoteThumbnailImage
+          languageLink
+          advertisement
+          affiliate
+          image {
+            childImageSharp {
+              gatsbyImageData(width: 400, quality: 70, layout: CONSTRAINED)
             }
           }
         }
       }
     }
   }
+}
 `;

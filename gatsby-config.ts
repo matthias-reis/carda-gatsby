@@ -8,10 +8,7 @@ export default {
     // siteUrl: `https://cardamonchai.amreis.de`,
     siteUrl: `https://cardamonchai.com`,
   },
-  flags: {
-    DEV_SSR: false,
-    FAST_REFRESH: true,
-  },
+  flags: { FAST_DEV: true, PARALLEL_SOURCING: true },
   plugins: [
     {
       resolve: `gatsby-plugin-typescript`,
@@ -57,7 +54,7 @@ export default {
                 }</p>
 <p><img src="${
                   site.siteMetadata.siteUrl +
-                  edge.node?.frontmatter?.image?.childImageSharp?.fluid?.src
+                  edge.node?.frontmatter?.image?.childImageSharp?.gatsbyImageData?.src
                 }" alt="${edge.node?.frontmatter?.title}" /><p>
 <p style="font-size: 1.25em;  color: #f0ecee">${
                   edge.node.frontmatter?.excerpt ||
@@ -168,15 +165,16 @@ ${
         extensions: ['.mdx', '.md'],
         gatsbyRemarkPlugins: [
           { resolve: 'gatsby-remark-numbered-footnotes' },
-          // {
-          //   resolve: `gatsby-remark-relative-images`,
-          //   options: {
-          //     exclude: ['ogImage'],
-          //   },
-          // },
+          {
+            resolve: `gatsby-remark-relative-images`,
+            options: {
+              exclude: ['ogImage'],
+            },
+          },
         ],
       },
     },
+    'gatsby-plugin-image',
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-transformer-sharp',

@@ -1,8 +1,6 @@
 import * as React from 'react';
 import styled from '@emotion/styled';
-import { Link } from 'gatsby';
-
-import { useStaticQuery, graphql } from 'gatsby';
+import { useStaticQuery, graphql, Link } from 'gatsby';
 
 import { color, space, font, fontSize, width } from '../style';
 

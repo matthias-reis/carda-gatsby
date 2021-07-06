@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import { Link } from 'gatsby';
-import UnstyledImage from 'gatsby-image';
+import { GatsbyImage } from "gatsby-plugin-image";
 import moment from 'moment';
 import 'moment/locale/de';
 
@@ -51,7 +51,7 @@ export const ArticleListGridItem: React.FC<{
               <Image
                 Tag="div"
                 alt={article.title}
-                fluid={article.image!.childImageSharp.fluid}
+                fluid={article.image!.childImageSharp.gatsbyImageData}
               />
             )}
             {(article.remoteLoadingImage ?? null) && (
@@ -140,7 +140,7 @@ const Date = styled.div`
   font-size: ${fontSize[1]};
 `;
 
-const Image = styled(UnstyledImage)`
+const Image = styled(GatsbyImage)`
   height: 100%;
   width: 100%;
   object-fit: cover;

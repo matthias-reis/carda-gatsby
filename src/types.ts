@@ -1,7 +1,7 @@
-import { FluidObject } from 'gatsby-image';
+import { GatsbyImageProps } from 'gatsby-plugin-image';
 
 export type ArticleImage = {
-  childImageSharp: { fluid: FluidObject };
+  childImageSharp: { gatsbyImageData: GatsbyImageProps };
 };
 
 export type Fields = {

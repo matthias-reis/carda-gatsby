@@ -72,54 +72,48 @@ const ListController: React.FC<{
 
 export default ListController;
 
-export const query = graphql`
-  query ListQuery($slug: String!) {
-    allMdx(
-      sort: { fields: frontmatter___date, order: DESC }
-      filter: {
-        frontmatter: { language: { ne: "en" } }
-        fields: { labels: { elemMatch: { slug: { eq: $slug } } } }
-      }
-    ) {
-      edges {
-        node {
-          fields {
-            path
-          }
-          frontmatter {
-            title
-            subTitle
-            type
-            typeName
-            description
-            excerpt
-            date
-            remoteLoadingImage
-            remoteThumbnailImage
-            advertisement
-            affiliate
-            languageLink
-            image {
-              childImageSharp {
-                fluid(maxWidth: 400, quality: 70) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
+export const query = graphql`query ListQuery($slug: String!) {
+  allMdx(
+    sort: {fields: frontmatter___date, order: DESC}
+    filter: {frontmatter: {language: {ne: "en"}}, fields: {labels: {elemMatch: {slug: {eq: $slug}}}}}
+  ) {
+    edges {
+      node {
+        fields {
+          path
+        }
+        frontmatter {
+          title
+          subTitle
+          type
+          typeName
+          description
+          excerpt
+          date
+          remoteLoadingImage
+          remoteThumbnailImage
+          advertisement
+          affiliate
+          languageLink
+          image {
+            childImageSharp {
+              gatsbyImageData(width: 400, quality: 70, layout: CONSTRAINED)
             }
           }
         }
       }
     }
-    allCategoriesYaml {
-      edges {
-        node {
-          slug
-          title
-          description
-          parentId
-          id
-        }
+  }
+  allCategoriesYaml {
+    edges {
+      node {
+        slug
+        title
+        description
+        parentId
+        id
       }
     }
   }
+}
 `;
