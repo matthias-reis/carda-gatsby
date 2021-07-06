@@ -3,7 +3,7 @@ date: 2021-07-06T14:02:42.072Z
 slug: micaraa-calm
 typeName: Beitrag
 title: Die neue Micaraa Calm Serie
-subTitle: Beruhigende vegane Pflege für empfindliche Haut
+subTitle: Vegane Pflege für empfindliche Haut
 seoTitle: Micaraa Calm – Beruhigende vegane Pflege für empfindliche Haut
 description: Micaraa hat eine neue Pflege-Serie auf den Markt gebracht. Sie
   heißt "Calm" und für besonders empfindliche und allergische Haut geeignet.
