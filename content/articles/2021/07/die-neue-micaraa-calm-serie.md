@@ -48,6 +48,8 @@ Alle drei Produkte haben eine schöne Konsistenz und lassen sich super verteilen
 
 Die Creme wird genau wie das Serum und die Augenpflege klimaneutral hergestellt. Ihr könnt sie als Tages- und Nachtpflege anwenden. Verteilt dafür einfach einen kleinen Klecks auf dem Gesicht und massiert sie ganz leicht ein. Ich nutze sie am liebsten abends, dann kann sie über Nacht schön wirken.
 
+<Gallery name="micaraa-calm-1" />
+
 ## Pflegende Gesichtscreme mit Aloe Vera
 
 [Der Hauptbestandteil der Creme ist Aloe Vera Gel](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fproducts%2Fcalming-face-cream). Es wird aus Aloe Vera Blättern gewonnen und wirkt reizmildernd, entzündungshemmend und spendet Feuchtigkeit. Das könnte einer der Gründe dafür sein, dass meine Rötungen schon nach den ersten paar Anwendungen zurückgegangen sind. Weil ich unter Cremes gerne mal schwitze und dadurch meine Röte dann gerne im ersten Moment erstmal noch mehr hervortritt, bin ich anfangs immer ziemlich vorsichtig. Doch die Micaraa Calm Gesichtscreme ist wunderbar leicht und zart – sie beruhigt meine Haut, sobald ich sie auftrage.
@@ -73,3 +75,5 @@ Die von mir getesteten Produkte könnt Ihr im Set oder einzeln kaufen. Mit dem [
 Der Leitsatz von Micaraa lautet "Give yourself a moment", also "Gönne Dir einen Moment für Dich selbst". Ich finde, die Calm Serie passt wunderbar zu diesem Credo. Der Haut jeden Tag etwas Gutes zu tun kann für mich genauso entspannend sein, wie ein Achtsamkeit-Spaziergang oder eine Runde Yoga.
 
 Wenn Ihr neugierig geworden seid und die Micaraa Produkte auch mal testen wollt, bekommt Ihr mit meinem persönlichen Gutschein **satte zehn Prozent Rabatt**. Gebt dafür bei Eurer Bestellung einfach den Gutscheincode **anne10** ein.
+
+<Gallery name="micaraa-calm-2" />
