@@ -45,11 +45,17 @@ Illustriert hat sie ihre Texte mit Fotos aus der letzten Zeit. Teilweise sind es
 Die Bilder zeigen die exzentrische The Dresden Dolls Gründerin verändert – natürlich und zur Ruhe gekommen und im selben Moment rastlos, müde und mitgenommen vom Leben, das zuletzt so viele Hürden und Biegungen für sie auf Lager hatte. Von der inneren Zerrissenheit und der Unsicherheit.
 
 > "Ich habe Angst, nach Hause zu gehen.
+>
 > Und ich habe überhaupt keine Angst, nach Hause zu gehen.
-> Ich mache mir Sorgen über die Druckveränderung; die Kurven, die Seebeine.
-> Ich mache mir Sorgen, wenn ich von diesem Land hier unten, mit unserem totalen Mangel an COVID-Kultur, in das Land dort oben reise, mit den Masken, der Verleugnung des Traumas und der sozialen Architektur, die komplett geknickt und verändert ist.
+>
+> Ich mache mir Sorgen über die Druckveränderung; die Kurven, die Seebeine
+>
+> Ich mache mir Sorgen, wenn ich von diesem Land hier unten, mit unserem totalen Mangel an COVID-Kultur, in das Land dort oben reise, mit den Masken, der Verleugnung des Traumas und der sozialen Architektur, die komplett geknickt und verändert ist
+>
 > Ich vermisse die Gemeinschaft und mein altes Leben. Alles, das mir bekannter ist, als ich es jemals gedacht hatte.
+>
 > Ich bin noch nicht bereit. Ich möchte irgendwo hinziehen, wo es keine Blitze und Donner und Vulkane gibt.
+>
 > Würde ich nach Hause gehen, hätte ich das Gefühl, morgens meistens mit dem Gefühl aufzuwachen, das Michael im Wal hatte. Ich würde aus dem Fenster schauen und mich fragen, ob das alles wirklich passiert ist",
 
 schreibt sie. Bei alledem ist "Getting Strangled..." Keineswegs der Ruf nach Bemittleidung. Die Sängerin betrachtet ihr Leben und unsere Gesellschaft mit den Veränderungen der letzten Zeit von außen.
