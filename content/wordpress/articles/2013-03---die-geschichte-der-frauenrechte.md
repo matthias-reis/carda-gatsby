@@ -42,6 +42,8 @@ subTitle: Ist der Internationale Frauentag in Vergessenheit geraten?
 
 **Heute sollen die Rechte aller Frauen im Mittelpunkt stehen. Weltweit wird der Internationale Frauentag gefeiert. Zeit für einen kleinen Ausflug in die Geschichte und eine Bestandsaufnahme.**
 
+Bevor es losgeht, noch ein Satz: Frauen sind alle, die sich als Frauen definieren! Der Kampf für die Rechte von Transfrauen gehört also genauso zum Weltfrauentag.
+
 > Dieser Artikel ist am 8. März 2013 erschienen. Zu diesem Zeitpunkt gingen gerade die #aufschrei-Tweets durch die Presse. An Brisanz hat das Thema Frauenrechte bis heute nicht verloren Besonders auch der Kampf für die Rechte von Transfrauen sollte niemals vergessen werden, wenn es um das Thema geht.
 
 **8. März 2013** – Als ich mir heute Morgen noch einige aktuelle Infos über den Weltfrauentag besorgen wollte, fiel mir auf, dass man über die Suchmaschine leider sehr wenig zu diesem besonderen Tag finden kann. Auf Veranstaltungen wird, falls überhaupt, nur äußerst dezent hingewiesen. Ich finde das sehr schade. Gerade in unserer der Vernetzung sollte da doch mehr geboten sein. Schließlich geht es doch um die Frauenrechte.
