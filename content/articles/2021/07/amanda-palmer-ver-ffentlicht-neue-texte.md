@@ -36,9 +36,7 @@ Das Werk, das sich ein bisschen liest, wie ein Tagebuch, hat sie auf Patreon und
 
 ![Amanda Palmer. Foto/picture: © Amanda Palmer/Duncan Innes](/img/amanda-palmer-2.jpg "Amanda Palmer. Foto/picture: © Amanda Palmer/Duncan Innes")
 
-Genau, wie es vielen von uns ergangen ist oder durch die Veränderung der äußeren Umstände innerhalb unseres Lebens ein paar Mal ergeht. "Getting Strangled..." handelt von Brüchen, Veränderung, Trauer und Liebe. Vom Loslassen der persönlichen Gewohnheiten, von Abschied und Neuanfang. Vom Tod und Geburt – von Ideen und von Menschen.
-
-Amanda schreibt, sie habe sich während des letzten Jahres gefühlt, wie im dunklen Bauch eines Wales – weit weg von der Gemeinschaft und abgeschnitten von ihrem früheren Alltag.
+"Getting Strangled..." handelt von Brüchen, Veränderung, Trauer und Liebe. Vom Loslassen der persönlichen Gewohnheiten, von Abschied und Neuanfang. Vom Tod und Geburt – von Ideen und von Menschen. Amanda schreibt, sie habe sich während des letzten Jahres gefühlt, wie im dunklen Bauch eines Wales – weit weg von der Gemeinschaft und abgeschnitten von ihrem früheren Alltag.
 
 ## Zart und stark
 
