@@ -14,14 +14,9 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: null
 labels:
   - Anne Wizorek
+  - Queer-Feminismus
   - Antifaschismus & Feminismus
   - Aufschrei
-  - Clara Zetkin
-  - Deutschland
-  - die Farbe Lila
-  - die Linke
-  - Die Linke Berlin
-  - Emma
   - Frauenbild
   - Frauenkonferenz
   - Frauenrechte
@@ -29,7 +24,6 @@ labels:
   - Geschichte
   - Gewerkschaft
   - Internationaler Frauen Tag
-  - KPD
   - May Wood-Simons
   - Menschenrechte
   - Mitbestimmung
@@ -37,10 +31,6 @@ labels:
   - Pinakothek der Moderne Frauen
   - Pinakothek der Moderne München
   - Sexismus
-  - Sexismus-Debatte
-  - Sozialismus
-  - SPD
-  - Vereinte Nationen
 focusKeyword: Frauenrechte
 status: publish
 isWerbung: false
@@ -50,11 +40,11 @@ errors: {}
 subTitle: Ist der Internationale Frauentag in Vergessenheit geraten?
 ---
 
-**Die Frauenrechte sollten heute im Fokus stehen. Weltweit wird der Internationale Frauentag gefeiert. Zeit für einen kleinen Ausflug in die Geschichte.**
+**Heute sollen die Rechte aller Frauen im Mittelpunkt stehen. Weltweit wird der Internationale Frauentag gefeiert. Zeit für einen kleinen Ausflug in die Geschichte und eine Bestandsaufnahme.**
 
-> Dieser Artikel ist am 8. März 2013 erschienen. Zu diesem Zeitpunkt gingen gerade die #aufschrei-Tweets durch die Presse. An Brisanz hat das Thema Frauenrechte bis heute nicht verloren.
+> Dieser Artikel ist am 8. März 2013 erschienen. Zu diesem Zeitpunkt gingen gerade die #aufschrei-Tweets durch die Presse. An Brisanz hat das Thema Frauenrechte bis heute nicht verloren Besonders auch der Kampf für die Rechte von Transfrauen sollte niemals vergessen werden, wenn es um das Thema geht.
 
-Als ich mir heute Morgen noch einige aktuelle Infos über den Weltfrauentag besorgen wollte, fiel mir auf, dass man über die Suchmaschine leider sehr wenig zu diesem besonderen Tag finden kann. Auf Veranstaltungen wird, falls überhaupt, nur äußerst dezent hingewiesen. Ich finde das sehr schade. Gerade in unserer der Vernetzung sollte da doch mehr geboten sein. Schließlich geht es doch um die Frauenrechte.
+**8. März 2013** – Als ich mir heute Morgen noch einige aktuelle Infos über den Weltfrauentag besorgen wollte, fiel mir auf, dass man über die Suchmaschine leider sehr wenig zu diesem besonderen Tag finden kann. Auf Veranstaltungen wird, falls überhaupt, nur äußerst dezent hingewiesen. Ich finde das sehr schade. Gerade in unserer der Vernetzung sollte da doch mehr geboten sein. Schließlich geht es doch um die Frauenrechte.
 
 ## Weltfrauentag - Vergiss mein nicht
 
@@ -67,13 +57,13 @@ Als ich mir heute Morgen noch einige aktuelle Infos über den Weltfrauentag beso
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAGB//EACwQAAICAQMDAgMJAAAAAAAAAAECAwQRAAUSBiExBxMiQWEUFVJiZHFygcH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EACERAAMAAQIHAQAAAAAAAAAAAAECAwAEIQUREjFBUdFh/9oADAMBAAIRAxEAPwDa771Vtu2zNBelZJAASFjZuxHbwNZh/UDp8OeduUE/p3/waE6trruvVm5pNZWrBVoi3LIULYVQoOAP5A/0dA9V7Bt1DaffhW5VtqiSrFbZC0qM/EEcewPnKnuuPrqdhwmNJq7E8yB6+Y9XiVYuyKBsf37nTqNyruVKG5UPuRTZcOVK8u+PBGfIOrWX6BvIvSVGORlyhkUch+dtWhL6booyjwTjsLl5qx8gHCLdCxvXqj92VrEVf3oVE0k7HgIvb+IEAjl8sLnucaa9aa9W1ssVupYNxqLxR+6LEZ4pjg2UA/Fw+IE9zggaDm2mQdd199e0pqIyCWsrMkksYXi6Bh4yNJb/ALr9rEkW3QrWrivJWjjmb3gEc5wwPkZ+WdVUNTJZqpbcAe8mL6Sz0ZguxJ9Zlum7DjZo1RhhXcd/31atqqybbSFbmsmHLcuOPOPr9NWjrcmozL2JxjT9SSVW7gZ//9k="
 />
 
-Ich möchte versuchen, mit meinem Artikel zumindest einen kleinen Teil dazu beizutragen, dass etwas mehr über den Weltfrauentag und die Geschichte der Frauenrechte berichtet wird. Blättert man sich durch die sozialen Netzwerke und Online-Zeitungen kann es einem schnell so vorkommen, als sie der Internationale Frauentag ziemlich in Vergessenheit geraten.
+Mit meinem Artikel möchte ich die Geschichte des Weltfrauentages und der Frauenrechte betrachten. Blättert man sich durch die sozialen Netzwerke und Online-Zeitungen kann es einem schnell so vorkommen, als sie der Internationale Frauentag ziemlich in Vergessenheit geraten.
 
 ## Frauenrechte im Fokus
 
-Der Fokus meiner Recherche lag ganz klar auf der Entwicklung der Frauenrechte. Der Text wird begleitet von einer Galerie aus Bildern, die ich 2012 bei der Sonderausstellung  [Frauen](http://www.pinakothek.de/kalender/2012-03-30/20674/frauen)  in der Pinakothek der Moderne in München aufgenommen habe. Sie zeigen unbekannte Frauen aus den verschiedensten Ländern, die in unterschiedlichen Jahren für verschiedene Fotografen Modell gestanden haben.
+Der Fokus meiner Recherche lag ganz klar auf der Entwicklung der Frauenrechte. Der Text wird begleitet von einer Galerie aus Bildern, die ich 2012 bei der Sonderausstellung [Frauen](http://www.pinakothek.de/kalender/2012-03-30/20674/frauen) in der Pinakothek der Moderne in München aufgenommen habe. Sie zeigen unbekannte Frauen aus den verschiedensten Ländern, die in unterschiedlichen Jahren für verschiedene Fotografen Modell gestanden haben.
 
-Und schon geht es los mit den trockenen Fakten. Der Weltfrauentag wurde von den vereinten Nationen ins Leben gerufen. Entstanden ist er im Kampf um das Wahlrecht der Frauen in der Zeit um den Ersten Weltkrieg.
+Und schon geht es los mit den Fakten. Der Weltfrauentag wurde von den vereinten Nationen ins Leben gerufen. Entstanden ist er im Kampf um das Wahlrecht der Frauen in der Zeit um den Ersten Weltkrieg.
 
 ## Clara Zetin übernahm die Idee aus Amerika
 
@@ -179,136 +169,13 @@ In vielen Ländern ist der Internationale Frauentag auch heute noch ein offiziel
 
 In Berlin vergibt die Frauensenatorin Dilek Kolat (SPD) im Ludwig Ehrhard-Haus den offiziellen Berliner Frauenpreis 2013 Preisträgerin ist Katja von der Bey, ihres Zeichens Geschäftsführerin der Frauengenossenschaft [Weiberwirtschaft](http://www.weiberwirtschaft.de/). Die Berliner Linke verleiht im Pfefferwerk den Clara-Zetkin-Preis mit dem herausragende Frauen gewürdigt werden.  Viele Parteien verteilen außerdem  traditionell auf der Straße Blumen, um an die Frauenrechte zu erinnern.
 
-<Gallery
-  images={[
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4087__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4087__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4095__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4095__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4094__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4094__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4093__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4093__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4091__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4091__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4090__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4090__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4089__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4089__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4088__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4088__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4069__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4069__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4070__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4070__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4075__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4075__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4074__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4074__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4073__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4073__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4071__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4071__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4076__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4076__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4078__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4078__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4079__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4079__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4084__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4084__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4085__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4085__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4092__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4092__l.jpg',
-    },
-    {
-      mediumUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4097__m.jpg',
-      largeUrl:
-        'https://storage.googleapis.com/cardamonchai-images/2013_03_img_4097__l.jpg',
-    },
-  ]}
-/>
+## Kampf für die Rechte von Transfrauen
+
+Ein Thema, das auf keinen Fall zu kurz kommen sollte sind LQBTQ* Rights und Transfrauen im Speziellen. Noch heute sehen sie sich immer wieder Angriffen ausgesetzt. Gerade Feminist*innen sollten sich dem entgegenstellen und für die Rechte aller Frauen kämpfen.
+
+In den sozialen Netzwerken nimmt die Transmisogynie sogar zu. Der Hass gegenüber Transgender-Personen und Transsexuellen ist vielschichtig und traurigerweise sogar ein feministischen Kreisen verbreitet. TERFs (Trans-Exclusionary Radical Feminsts) organisieren sich in Gruppen und fordern den Ausschluss von Transpersonen.
+
+Die Ansichten der TERFs, denen sich übrigens auch Schriftsteller\*innen wie Joanne K. Rowling und Emma-Gründerin Alice Schwarzer zugehörig fühlen, sind menschenverachtend und rückwärtsgerichtet. Mit ihren Ansichten schüren sie Vorurteile, die längst Geschihte sein sollten. Dabei sollte der Welt-Frauentag doch ein Tag für alle Frauen sein.
 
 ## Hier noch was zur aktuellen Debatte:
 
@@ -338,24 +205,6 @@ In Berlin vergibt die Frauensenatorin Dilek Kolat (SPD) im Ludwig Ehrhard-Haus d
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_aufschrei2.png__l.jpg"
   loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAgCAIAAABGu2XDAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAD3ElEQVQ4jX2SS4gcRQCG6y54F0W8efGgHvQiIoiexIsXD4p4UggExIsLxqDgIR7EmxeJBA1mDTEGE+KDjavu7uyuu5mdnVd3V/Wzqrq6qrqqunv6MT2T3ZFJJCgGP/7jf/kfoC2L/vqvWT6ZHy+a6awsm3Z2a/EfwLnT75x9+bHOT2uRLLuHjhewopwuFoujf7EA7h/Xr5w+Sbxg8X8cg+PFopwe1c2squssy8tJWRaTelIWeWFMVk2qoiiaZgoIjqCDohCHfkAxxRG2bRh4IY0ogm4URi5yfTcAggvP9RhlJCIJ4yxmOMLYxwQTSqjSihLKEw54zKOIQBuGXgAdOOgPPeSFXogc5HuBC5ELXYwJMKnS0iihRCKMNvdMMZu1QAiRKmWyTCmltZFS6jyTaVrWpTGZ1kpnZplXCk4IjiLs+4GQMmYswhghlHDOpUDI9YNwPp+De3S1WNJOj47/uYfnIx/tc93AIAmpxkzrrCrKWpmyatqmvVNtCz58f+Xdk6/1HLWxa3Vuupt7sDuMhhYZ2MRxme2MbTdJRA6ms0VqGkyNFwovFI6XDB06sPHApn2HOHZfZ5UyJSjrtqpmIxivdeD6Ntwb4J1eeDimW13/5y1oBaaYtCavQZ4v7YRJC4aOixOhpMyE1IlIGZdcKMokiQXIi6UPk9hykOVAG3ojy+mPxhFN4kSSWFK2FCjrWaqnJJaYChILxnXMMzdUhGc+UTjJYpHrvAbz+a26zGGgeqPocBQNbUJZSmIZxyllKSaCS6NNCT46tXLqvdfHrjgY+iFVKJKuH0MXex4JMQsCloh8mReF9LfNPxNVBAGmTDKeRjSFfoJjTXiR5ZU2t339y+fWP/kA0upg4N8chTYMRmOv14cQYQ8bz/c1D3Tegu2tG6tfnaWiGliuDSMLERuGNsSUCsZSlqg4VlIVQMjkx63fx8HECvMB1IdQDmEyGEd7Pbi5M97t2rtd28cCtPXc5M36jY2tjc3tzvbefq+7u+OH3KcZSTSMpBtIGmvQzBeUqVeeeuSt5x5cXXn1m89WTrz48A+XLnWGsnPTXevYdiDqpgX19JY25Zk3XzjzxjPm8qdffHziifvBha+/vb6Nv/+le22tv3ptf28QgaY9okw9++SjLz390OdvP//4A+A+AK5evBhnx67PLDfZ7Qdc3f4LV5MLqxevX71y+btLF86fP3f2S2dsjR1o2fZwbFuOjfwQ5JPa5M3du99BZ1X3YGhDbzCybIjiRIN80oi04DL7W0JLlXNuHBQgL4TIc/3o9q8mtVSFMuVdZUVDmdo/6CEUxsmyZJ1VfwE8BT4wHk1G9QAAAABJRU5ErkJggg=="
 />
-
-### Quellen
-
-[Emma](http://www.emma.de/),   [Wikipedia](http://de.wikipedia.org/wiki/Internationaler_Frauentag)
-
-### Lesetipps
-
-[Emma](http://www.emma.de/)
-
-[Anne Wizorek](http://flavors.me/annewizorek)
-
-[Frauenmediaturm](http://www.frauenmediaturm.de/home/)
-
-"Die Farbe Lila"  **ISBN-10:**  340492133X
-
-"Der Tod des Märchenprinzen" von Svende Merian  **ISBN-10:**  3499151499
-
-"Die Terroristin" von Doris Lessing  **ISBN-10:**  359629259X
 
 ### Fotos
 
