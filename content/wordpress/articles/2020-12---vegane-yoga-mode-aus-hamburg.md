@@ -1,7 +1,6 @@
 ---
 ogTitle: Vegane Yoga-Mode aus Hamburg – Chakrana Crowdfunding gestartet
-excerpt: Darja und Sven machen zeitgemäße vegane Yogamode für alle – unabhängig
-  von Figur, Geschlecht und Größe. Das Crowdfunding ist gerade gestartet.
+excerpt: Darja und Sven machen zeitgemäße vegane Yogamode für alle – unabhängig von Figur, Geschlecht und Größe. Das Crowdfunding ist gerade gestartet.
 ogImage: null
 isAffiliate: false
 path: /2020/12/vegane-yoga-mode-aus-hamburg/
@@ -18,9 +17,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12
 title: Vegane Yoga-Mode aus Hamburg
 subTitle: Chakrana Crowdfunding gestartet
 seoTitle: Vegane Yoga-Mode aus Hamburg – Chakrana Crowdfunding gestartet
-description: Darja und Sven machen zeitgemäße vegane Yogamode für alle –
-  unabhängig von Figur, Geschlecht und Größe. Das Crowdfunding ist gerade
-  gestartet.
+description: Darja und Sven machen zeitgemäße vegane Yogamode für alle – unabhängig von Figur, Geschlecht und Größe. Das Crowdfunding ist gerade gestartet.
 labels:
   - Achtsamkeit
   - Chakrana
@@ -36,7 +33,7 @@ Egal, welche Größe, welches Alter und welches Geschlecht: In den Yogaklamotten
 
 Die gemütlichen Teile sollen auch Menschen den Zugang zu Yoga ermöglichen, die die Matte bis jetzt aus modischen Gründen gemieden haben. Neben neuen Wellness-Standards wollen die beiden Gründer⋆innen auch die Wertschöpfungskette komplett neu denken.
 
-Ohne Rücksicht auf Einbußen bei den Margen ist bei ihnen alles "Made in Germany". Tops, Hosen und Co. werden in einem Traditionsunternehmen in Sachsen hergestellt. Dabei kommen ausschließliche vegane und öko-zertifizierte Stoffe zum Einsatz. In der Logistik und im Versand verzichtet man bei Chakrana komplett auf Plastik.
+Ohne Rücksicht auf mögliche Einbußen bei den Margen ist bei ihnen alles "Made in Germany". Tops, Hosen und Co. werden in einem Traditionsunternehmen in Sachsen hergestellt. Dabei kommen ausschließliche vegane und öko-zertifizierte Stoffe zum Einsatz. In der Logistik und im Versand verzichtet man bei Chakrana komplett auf Plastik.
 
 ## Geboren aus der Leidenschaft für Yoga
 
