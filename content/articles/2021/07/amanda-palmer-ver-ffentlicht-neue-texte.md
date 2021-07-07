@@ -74,4 +74,4 @@ Ich kann ihre Überlegungen gut nachvollziehen. Lest mal rein, es lohnt sich!
 
 [Amanda Palmer bei Medium](https://amandapalmer.medium.com/getting-strangled-as-gracefully-as-possible-or-a-year-in-the-belly-of-the-whale-370caabcaa9f)
 
-[Amanda Palmer bei Patreon](https://www.patreon.com/amandapalmerf)
+[Amanda Palmer bei Patreon](https://www.patreon.com/amandapalmer)
