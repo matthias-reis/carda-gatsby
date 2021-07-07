@@ -175,9 +175,9 @@ In Berlin vergibt die Frauensenatorin Dilek Kolat (SPD) im Ludwig Ehrhard-Haus d
 
 ## Kampf für die Rechte von Transfrauen
 
-Die Rechte von Transfrauen sollten auf keinen Fall vergessen werden. Moderner, echter Feminismus bedeutet auch der Kampf für LQBTQ⋆ Rights. Noch heute sehen sich Transgender-Personen und Transsexuelle immer wieder Angriffen ausgesetzt. Gerade Feminist⋆innen sollten sich dem entgegenstellen und für die Rechte **aller** Frauen kämpfen.
+Die Rechte von Transfrauen sollten auf keinen Fall vergessen werden. Moderner, echter Feminismus bedeutet auch der Kampf für LQBTQ⋆ Rights. Noch heute sehen sich Trans⋆Personen immer wieder Angriffen ausgesetzt. Gerade Feminist⋆innen sollten sich dem entgegenstellen und für die Rechte **aller** Frauen kämpfen.
 
-In den sozialen Netzwerken nimmt die Transmisogynie sogar zu. Der Hass gegenüber Transgender-Personen und Transsexuellen ist vielschichtig und traurigerweise sogar ein feministischen Kreisen verbreitet. TERFs (Trans-Exclusionary Radical Feminsts) organisieren sich in Gruppen und fordern den Ausschluss von Transpersonen.
+In den sozialen Netzwerken nimmt die Transmisogynie sogar zu. Der Hass gegenüber Trans⋆Personen ist vielschichtig und traurigerweise sogar ein feministischen Kreisen verbreitet. TERFs (Trans-Exclusionary Radical Feminsts) organisieren sich in Gruppen und fordern den Ausschluss von Transpersonen.
 
 Die Ansichten der TERFs, denen sich übrigens auch Schriftsteller⋆innen wie Joanne K. Rowling und Emma-Gründerin Alice Schwarzer zugehörig fühlen, sind menschenverachtend und rückwärtsgewandt. Mit ihren Ansichten schüren sie Vorurteile, die längst Geschichte sein sollten. Dabei sollte der Welt-Frauentag doch ein Tag für alle Frauen sein.
 
