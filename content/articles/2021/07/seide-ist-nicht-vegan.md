@@ -6,10 +6,9 @@ title: Seide ist nicht vegan
 subTitle: Das steckt hinter der Seidenindustrie
 seoTitle: Seide ist nicht vegan – das steckt hinter der Seidenindustrie
 description: Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen
-  gewonnen und der Prozess ist alles andere als tierfreundlich und nachhaltig.
-  Doch was genau steckt hinter der Seidenindustrie? Was wird bei der
-  Seidengewinnung gemacht? Ich habe mal ein paar Fakten für Euch
-  zusammengetragen.
+  gewonnen und der Prozess ist alles andere als tierfreundlich. Doch was genau
+  steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung gemacht?
+  Ich habe mal ein paar Fakten für Euch zusammengetragen.
 excerpt: ""
 image: /img/seidenraupen-zucht.jpg
 copyrigt: LoggaWiggler, pixabay
@@ -35,7 +34,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen gewonnen und der Prozess ist alles andere als tierfreundlich und nachhaltig. Doch was genau steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung gemacht? Ich habe mal ein paar Fakten für Euch zusammengetragen.**
+**Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen gewonnen und der Prozess ist alles andere als tierfreundlich. Doch was genau steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung gemacht? Ich habe mal ein paar Fakten für Euch zusammengetragen.**
 
 Laut Online-Enzyklopädie versteht man unter Seite einen Faserstoff tierischer Herkunft. Der Name Seite stammt vom mittellateinischen Wort "seta". Der Stoff wird aus den Seidenraupen-Kokons, also Seidenspinner-Larven gewonnen. Seide gilt als die einzige in der Natur bekannte vorkommende textile Endlos-Faser. Daher ist sie seit Generationen besonders in der hochklassigen Mode sehr beliebt. Im Moment erlebt der Stoff, der auch immer wieder Basis für Geschichten ist, ein ziemliches Revival – besonders auch unter Freund⋆innen nachhaltiger Kleidung. Genau aus diesem Grund halte ich es für besonders wichtig, mal ein paar Punkte festzuhalten.
 
