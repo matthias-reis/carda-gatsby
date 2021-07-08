@@ -44,7 +44,7 @@ Seide ist also eine Faser, die Menschen aus den Larven von Seidenraupen gewinnen
 
 Blusen, Hemden, Kleider, Schals, Tücher, Bettwäsche und zuletzt auch Atemschutzmasken werden aus Seide hergestellt. Die Fashion Industrie denkt sich immer wieder neue Möglichkeiten aus, um den fließenden Stoff in Szene zu setzen.
 
-Dass vegan zu leben nicht "nur" bedeutet, sich von pflanzlichen Lebensmitteln zu ernähren, sollte den meisten inzwischen bewusst sein. Dass Veganer⋆innen keinen Pelz tragen, ist offensichtlich. Einen kleinen Exkurs in Wolle habe ich Euch hier im Blog ja schon gegeben und auch zu Leder findet Ihr einen Artikel. Doch auch Seide kommt nicht infrage, wenn man keine tierischen Produkte in seinen Alltag einbeziehen möchte.
+Dass vegan zu leben nicht "nur" bedeutet, sich von pflanzlichen Lebensmitteln zu ernähren, sollte den meisten inzwischen bewusst sein. Dass Veganer⋆innen keinen [Pelz](/2014/11/fakepelz-echtpelz/) tragen, ist offensichtlich. Einen kleinen Exkurs in [Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) habe ich Euch hier im Blog ja schon gegeben und auch zu [Leder](/2020/07/leder-pelz/) findet Ihr einen Artikel. Doch auch Seide kommt nicht infrage, wenn man keine tierischen Produkte in seinen Alltag einbeziehen möchte.
 
 ## Die Seidenraupen können ihre natürliche Metamorphose nicht erleben
 
