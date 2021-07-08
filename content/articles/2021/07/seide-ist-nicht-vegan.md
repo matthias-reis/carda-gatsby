@@ -63,7 +63,7 @@ In der Natur würden die Raupen nach 16 Tagen aus ihren Kokons ausschlüpfen und
 
 Die verpuppten Seidenspinner werden in kochendes Wasser geschüttet und gekocht. Bei diesem Vorgang platzen die Puppen auf und aus jeder von ihnen wird ein langer Seidenfaden, der im Anschluss zu Stoff gesponnen wird.
 
-Neben der Kochmethode gibt es auch andere Seidengewinnungs-Optionen. Alle von ihnen enden für die Raupen tödlich. Sie werden gebacken, mit heißem Dampf besprüht, gefroren oder vergast, um die Seidenfasern freizusetzen.
+Neben der Kochmethode gibt es auch andere klassische Seidengewinnungs-Optionen. Alle von ihnen enden für die Raupen tödlich. Sie werden gebacken, mit heißem Dampf besprüht, gefroren oder vergast, um die Seidenfasern freizusetzen.
 
 Um etwa 500 Gramm Seide zu gewinnen, sind um die 3.000 Seidenspinner-Kokons nötig. Man kann sich damit ungefähr ausrechnen, wie viele von ihnen für ein Abendkleid nötig sind. Man schätzt, dass in der Seidenindustrie ungefähr 1,2 Billionen Raupen jährlich getötet werden.
 
