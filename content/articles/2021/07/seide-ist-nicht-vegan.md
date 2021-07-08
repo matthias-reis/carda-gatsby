@@ -53,7 +53,7 @@ Zwar wissen viele, dass Seide nicht vegan ist, wie sie aber genau gewonnen wird,
 
 Auf Seidenfarmen werden die Raupen gezüchtet und in ihren Kokons steckend in riesigen Mengen bei lebendigem Leib gekocht und getötet. Dieses Verfahren ist Teil des üblichen Seidengewinnung-Prozesses.
 
-Wenn die Seidenraupen ein Alter von 35 Tagen erreicht haben, beginnen sie, ihre Kokons zu spinnen, die die Form winziger Eier haben. In diesem Stadium ihrer Verwandlung zur Motte, sondern sie aus zwei Drüsen an ihrem Kopf eine Flüssigkeit ab. Dabei handelt es sich um flüssige Seide.
+Wenn die Seidenraupen ein Alter von 35 Tagen erreicht haben, beginnen sie, ihre Kokons zu spinnen, die die Form von Eiern haben. In diesem Stadium ihrer Verwandlung zur Motte, sondern sie aus zwei Drüsen an ihrem Kopf eine Flüssigkeit ab. Dabei handelt es sich um flüssige Seide.
 
 ## Die Seidenspinner-Kokons werden gekocht
 
