@@ -8,7 +8,7 @@ seoTitle: Seide ist nicht vegan – das steckt hinter der Seidenindustrie
 description: Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen
   gewonnen und der Prozess ist alles andere als tierfreundlich und nachhaltig.
   Doch was genau steckt hinter der Seidenindustrie? Was wird bei der
-  Seidengewinnung genau gemacht? Ich habe mal ein paar Fakten für Euch
+  Seidengewinnung gemacht? Ich habe mal ein paar Fakten für Euch
   zusammengetragen.
 excerpt: ""
 image: /img/seidenraupen-zucht.jpg
@@ -35,7 +35,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen gewonnen und der Prozess ist alles andere als tierfreundlich und nachhaltig. Doch was genau steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung genau gemacht? Ich habe mal ein paar Fakten für Euch zusammengetragen.**
+**Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen gewonnen und der Prozess ist alles andere als tierfreundlich und nachhaltig. Doch was genau steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung gemacht? Ich habe mal ein paar Fakten für Euch zusammengetragen.**
 
 Laut Online-Enzyklopädie versteht man unter Seite einen Faserstoff tierischer Herkunft. Der Name Seite stammt vom mittellateinischen Wort "seta". Der Stoff wird aus den Seidenraupen-Kokons, also Seidenspinner-Larven gewonnen. Seide gilt als die einzige in der Natur bekannte vorkommende textile Endlos-Faser. Daher ist sie seit Generationen besonders in der hochklassigen Mode sehr beliebt. Im Moment erlebt der Stoff, der auch immer wieder Basis für Geschichten ist, ein ziemliches Revival – besonders auch unter Freund⋆innen nachhaltiger Kleidung. Genau aus diesem Grund halte ich es für besonders wichtig, mal ein paar Punkte festzuhalten.
 
@@ -49,7 +49,7 @@ Dass vegan zu leben nicht "nur" bedeutet, sich von pflanzlichen Lebensmitteln zu
 
 ## Die Seidenraupen können ihre natürliche Metamorphose nicht erleben
 
-Zwar wissen viele, dass Seide nicht vegan ist, wie sie aber genau gewonnen wird, allerdings wird eher selten darüber berichtet, wie sie genau gewonnen wird. Seidenraupen sind die Raupen einer bestimmten Mottenart. Die Chance, ihre von der Natur vorgesehene Metamorphose zu durchleben, wird ihnen jedoch in der Seidenherstellung von den Menschen genommen.
+Zwar wissen viele, dass Seide nicht vegan ist, allerdings wird eher selten darüber berichtet, wie sie genau gewonnen wird. Seidenraupen sind die Raupen einer bestimmten Mottenart. Die Chance, ihre von der Natur vorgesehene Metamorphose zu durchleben, wird ihnen jedoch in der Seidenherstellung von den Menschen genommen.
 
 Auf Seidenfarmen werden die Raupen gezüchtet und in ihren Kokons steckend in riesigen Mengen bei lebendigem Leib gekocht und getötet. Dieses Verfahren ist Teil des üblichen Seidengewinnung-Prozesses.
 
