@@ -51,7 +51,7 @@ Dass vegan zu leben nicht "nur" bedeutet, sich von pflanzlichen Lebensmitteln zu
 
 Zwar wissen viele, dass Seide nicht vegan ist, allerdings wird eher selten darüber berichtet, wie sie genau gewonnen wird. Seidenraupen sind die Raupen einer bestimmten Mottenart. Die Chance, ihre von der Natur vorgesehene Metamorphose zu durchleben, wird ihnen jedoch in der Seidenherstellung von den Menschen genommen.
 
-Auf Seidenfarmen werden die Raupen gezüchtet und in ihren Kokons steckend in riesigen Mengen bei lebendigem Leib gekocht und getötet. Dieses Verfahren ist Teil des üblichen Seidengewinnung-Prozesses.
+Auf Seidenfarmen werden die Raupen gezüchtet und in ihren Kokons steckend in riesigen Mengen bei lebendigem Leib gekocht und getötet. Dieses Verfahren ist Teil des üblichen Seidengewinnungs-Prozesses.
 
 Wenn die Seidenraupen ein Alter von 35 Tagen erreicht haben, beginnen sie, ihre Kokons zu spinnen, die die Form von Eiern haben. In diesem Stadium ihrer Verwandlung zur Motte, sondern sie aus zwei Drüsen an ihrem Kopf eine Flüssigkeit ab. Dabei handelt es sich um flüssige Seide.
 
@@ -63,7 +63,7 @@ In der Natur würden die Raupen nach 16 Tagen aus ihren Kokons ausschlüpfen und
 
 Die verpuppten Seidenspinner werden in kochendes Wasser geschüttet und gekocht. Bei diesem Vorgang platzen die Puppen auf und aus jeder von ihnen wird ein langer Seidenfaden, der im Anschluss zu Stoff gesponnen wird.
 
-Neben der Kochmethode gibt es auch andere Seidengewinnung-Optionen. Alle von ihnen enden für die Raupen tödlich. Sie werden gebacken, mit heißem Dampf besprüht, gefroren oder vergast, um die Seidenfasern freizusetzen.
+Neben der Kochmethode gibt es auch andere Seidengewinnungs-Optionen. Alle von ihnen enden für die Raupen tödlich. Sie werden gebacken, mit heißem Dampf besprüht, gefroren oder vergast, um die Seidenfasern freizusetzen.
 
 Um etwa 500 Gramm Seide zu gewinnen, sind um die 3.000 Seidenspinner-Kokons nötig. Man kann sich damit ungefähr ausrechnen, wie viele von ihnen für ein Abendkleid nötig sind. Man schätzt, dass in der Seidenindustrie ungefähr 1,2 Billionen Raupen jährlich getötet werden.
 
