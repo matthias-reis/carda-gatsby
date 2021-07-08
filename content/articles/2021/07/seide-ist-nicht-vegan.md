@@ -83,4 +83,10 @@ Fakt ist: Seide ist eine tierische Faser. Die Seidenspinner werden noch vor ihre
 
 Abgesehen von den Schmerzen, welche die Seidenraupen möglicherweise erleiden, bleibt natürlich immer noch die Tatsache, dass sie für die Seidengewinnung gezüchtet und von ihrem schützenden Kokon getrennt, sprich, getötet werden. Im Hinblick auf die Tierethik ist und bleibt das fragwürdig. Auch, wenn die Tiere möglicherweise keine Schmerzen haben, sind sie immer noch Lebewesen, die es verdienen, ihr Leben vom Anfang bis zum Ende zu erleben. Für mich steht auf jeden Fall fest, dass ich auch weiterhin gut ohne Seide leben kann.
 
+## Ist Seide nachhaltig?
+
+Immer häufiger findet man heute auch im Fair Fashion Bereich Kleidung mit den Labels "aus kontrolliert biologischer Seide", "aus kontrolliert biologischem Anbau" oder "aus nachhaltiger Seide". Das ist meistens höchstens ein Hinweis darauf, dass die Maulbeerbäume, von deren Blättern sich die Seidenraupen ernähren, biologisch angebaut werden. Den weiteren Verarbeitungsprozess, wie zum Beispiel den Färbungsvorgang, sollte man sich, wie bei allen anderen Textilien auch, genau anschauen. 
+
+Entgegen der Behauptung einiger Beführworter⋆innen einer neuen und angeblich "aus Tiersicht vertretbaren" Seidengewinnungs-Variante, bei der die Motten kurz vor dem Schlupf aus ihren Kokons geschnitten werden, gibt es keine Tierleid-freie Seide. Auch bei diesem Vorgehen werden Tiere verletzt und getötet. Außerdem handelt es sich auch hier natürlich (ich wiederhole mich) um ein tierisches Produkt. Das wäre auch dann der Fall, würde man die Puppen der Falter nach dem Ausschlüpfen vom Boden aufsammeln und verarbeiten. Die Tiere müssten auch hierfür gezüchtet werden, was einen menschlichen Eingriff in die Natur bedeutet.
+
 Quellen: [Surge Activism](https://www.surgeactivism.org/articles/why-isnt-silk-vegan-the-cruel-reality-of-the-industry?fbclid=IwAR3kbZMwBV94CFe4MhAkBa-EiExKXN8fDe5on3gYEyP4h2d3uCe24hNGEw8), [Science Advances](https://advances.sciencemag.org/content/5/7/eaaw4099), [Wikipedia](https://de.wikipedia.org/wiki/Seide)
