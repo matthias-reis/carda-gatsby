@@ -30,11 +30,11 @@ languageLink: /2021/07/cementation-anxiety-liminal-instability
 
 When Cementation Anxiety Found Kyle contacted me about the new EP "Limitation Instability", I was curious about what would await me. Of course, I had to listen to it right away, and after listening to it a few times, I have to say: I'm pretty flashed!
 
-![Cementation Anxiety – "Liminal Instability"](/img/cover.jpg "Cementation Anxiety – \"Liminal Instability\")
-
 # Cementation Anxiety has created a marvellous fantasy world.
 
 The record is exceptional. The total of five pieces hit a nerve with me and, above all, exactly my taste. The work is listed under Dark Ambient and Drone, and somehow there is so much more than that.
+
+![Cementation Anxiety – "Liminal Instability"](/img/cover.jpg "Cementation Anxiety – \"Liminal Instability\")
 
 You should definitely listen to the songs one after the other – they form a sound concept that should not be separated. The music is hard to describe, and in any case, impossible to categorise or analyse.
 
