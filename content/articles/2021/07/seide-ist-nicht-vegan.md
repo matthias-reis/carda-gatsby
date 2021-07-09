@@ -40,7 +40,7 @@ Laut Online-Enzyklopädie versteht man unter Seide einen Faserstoff tierischer H
 
 ## Seide ist nicht vegan – eine Faser tierischer Herkunft
 
-Seide ist also eine Faser, die Menschen aus den Larven von Seidenraupen gewinnen. Vegan kann sie also schon mal nicht sein. So weit, so gut. Die Faser besteht zum größten Teil aus Protein. Ursprünglich wurde sie in China produziert und über die Seidenstraße nach Europa transportiert. Auch heute kommt der größte Teil der weltweit verarbeiteten Seide nach wie vor aus China und auch in Indien und Japan wird "Seidenbau" betrieben.
+Seide ist also eine Faser, die Menschen aus den Larven von Seidenraupen gewinnen. Vegan kann sie also schon mal nicht sein. So weit, so gut. Die Faser besteht zum größten Teil aus Protein. Ursprünglich wurde sie in China produziert und über die Seidenstraße nach Europa transportiert. Auch heute kommt der größte Teil der weltweit verarbeiteten Seide nach wie vor aus China und auch in Indien und Japan wird Seidenbau betrieben.
 
 Blusen, Hemden, Kleider, Schals, Tücher, Bettwäsche und zuletzt auch Atemschutzmasken werden aus Seide hergestellt. Die Fashion Industrie denkt sich immer wieder neue Möglichkeiten aus, um den fließenden Stoff in Szene zu setzen.
 
