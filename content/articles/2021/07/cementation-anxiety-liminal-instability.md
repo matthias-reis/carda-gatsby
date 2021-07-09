@@ -30,7 +30,7 @@ languageLink: /2021/07/cementation-anxiety-liminal-instability
 
 When Cementation Anxiety Found Kyle contacted me about his new EP "Limitation Instability", I was curious about what would await me. So, of course, I had to listen to it right away, and after a few spins, I have to say: I'm pretty flashed!
 
-## Cementation Anxiety has created a marvellous fantasy world.
+## Cementation Anxiety has created a marvellous fantasy world
 
 The record is exceptional. The total of five pieces hit a nerve with me and, above all, exactly my taste. The work is listed under Dark Ambient and Drone, and somehow there is so much more than that.
 
