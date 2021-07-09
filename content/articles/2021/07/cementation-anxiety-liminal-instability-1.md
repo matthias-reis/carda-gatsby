@@ -31,7 +31,7 @@ languageLink: /2021/07/cementation-anxiety-liminal-instability-en
 
 Cementation Anxiety Gründer Kyle selbst schrieb mich an, um mir von der neuen EP  "Liminal Instability" zu erzählen. Natürlich musste ich sofort reinhören und nach den ersten paar Hördurchgängen muss ich sagen: Ich bin ziemlich geflasht.
 
-# Cementation Anxiety hat eine grandiose Fantasiewelt erschaffen
+## Cementation Anxiety hat eine grandiose Fantasiewelt erschaffen
 
 Die Platte ist wirklich großartig. Die insgesamt fünf Stücke treffen bei mir einen Nerv und vor allem genau meinen Geschmack. Gelistet ist das Werk unter Dark Ambient und Drone und irgendwie ist da noch so viel mehr als das.
 
