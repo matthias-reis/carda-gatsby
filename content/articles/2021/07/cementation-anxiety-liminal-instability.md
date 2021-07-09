@@ -54,7 +54,7 @@ With the first notes of "The Light On Your Fingertips", I enter a blooming meado
 
 With "Your Shaking Hands", I have finally arrived in the icy and chilly world that I had only guessed about until now. The fear of a cemented planet – is it manifesting itself at this very moment? To tell a story of uncertainty and brokenness, of hope, tenderness and brutality so incredibly vividly without using words is a talent of inestimable value. The piece carries me away, and I'm eager for the grand finale: "The Thicker The Air". Sudden silence – a feeling like drifting away during the last phase of a deep meditation sets in – liminal instability.
 
-The last song is, just as suspected, the highlight of the record and a great final act for an opera without arias. The drone gets louder. It seems to float over everything else now and takes possession of the scenery. I get an incredible desire to experience the EP live. Preferably under the open sky with only the stars above the people, who are speechlessly gazing towards the stage just like they were under a spellbound.
+The last song is, just as suspected, the highlight of the record and a great final act for an opera without arias. The droning gets louder. It seems to float over everything else now and takes possession of the scenery. I get an incredible desire to experience the EP live. Preferably under the open sky with only the stars above the people, who are speechlessly gazing towards the stage just like they were under a spellbound.
 
 The sound increases to a brutal spectacle, heavy and full of fear. The sudden silence at the end of the song leaves me sitting speechless for a moment. The music of Cementation Anxiety reverberates in my mind for a long time.
 
