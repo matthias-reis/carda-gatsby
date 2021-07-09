@@ -70,7 +70,7 @@ Um etwa 500 Gramm Seide zu gewinnen, sind um die 3.000 Seidenspinner-Kokons nöt
 
 Der Gedanke, lebendig gekocht oder eingefroren zu werden ist schrecklich. Dennoch gibt es vielleicht Menschen, die denken, Seidenraupen würden keinen Schmerz empfinden.
 
-Es stimmt zwar, dass Seidenraupen ein anderes Nervensystem besitzen, als Menschen, Schweine oder Affen. Das bedeutet jedoch nicht, dass sie keine Schmerzen fühlen können.
+Es stimmt zwar, dass Seidenraupen ein anderes Nervensystem besitzen, als [Menschen, Schweine oder Affen](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/). Das bedeutet jedoch nicht, dass sie keine Schmerzen fühlen können.
 
 Darüber, ob wirbellose Tiere wie Motten dazu in der Lage sind, Dinge wie wir zu empfinden, kann man diskutieren. Allerdings kann auch niemand sicher sagen, dass es nicht so ist. Zahlreiche Wissenschaftler⋆innen sind sich heute darüber einig, dass es möglich ist, dass Insekten die Fähigkeit besitzen, zumindest etwas Ähnliches wie Schmerz bei Säugetieren zu fühlen.
 
