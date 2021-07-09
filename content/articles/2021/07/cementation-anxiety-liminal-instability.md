@@ -5,10 +5,10 @@ typeName: Review
 title: Cementation Anxiety – "Liminal Instability"
 subTitle: An Opera Without Arias
 seoTitle: Cementation Anxiety – "Liminal Instability" – An Opera Without Arias
-description: In Cementation Anxiety's Bandcamp profile, you will find the words
+description: On Cementation Anxiety's Bandcamp profile, you will find the words
   "The patterns merely mutate". Even if I think that's a shy and modest
   description of the project's impressive soundscapes, it describes this
-  particular kind of music quite good.
+  particular kind of music quite perfect.
 image: /img/cementation-anxiety-1.jpg
 copyrigt: Cementation Anxiety
 ogImage: /img/cementation-anxiety-fb.jpg
@@ -26,7 +26,7 @@ affiliate: false
 language: en
 languageLink: /2021/07/cementation-anxiety-liminal-instability
 ---
-**In Cementation Anxiety's Bandcamp profile, you will find the words "The patterns merely mutate". Even if I think that's a shy and modest description of the project's impressive soundscapes, it describes this particular kind of music quite good.**
+**On Cementation Anxiety's Bandcamp profile, you will find the words "The patterns merely mutate". Even if I think that's a shy and modest description of the project's impressive soundscapes, it describes this particular kind of music quite perfect.**
 
 When Cementation Anxiety Found Kyle contacted me about the new EP "Limitation Instability", I was curious about what would await me. Of course, I had to listen to it right away, and after listening to it a few times, I have to say: I'm pretty flashed!
 
