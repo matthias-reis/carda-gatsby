@@ -51,7 +51,7 @@ Bei den ersten Noten von "The Light On Your Fingertips" betrete ich eine bunte W
 
 ![Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety | large](/img/cementation-anxiety-2.jpg "Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety")
 
-## Hauchzart und hart
+## Hauchzart und düster
 
 Mit "Your Shaking Hands" bin ich endgültig in der eisigen und kühlen Welt angekommen, die ich bis jetzt nur erahnt habe. Die Angst vor einem zementierten Planeten – manifestiert sie sich genau in diesem Moment? Eine Geschichte von Unsicherheit und Zerrissenheit, von Hoffnung, Zartheit und Brutalität so unglaublich plastisch zu erzählen, ohne dabei Worte zu gebrauchen, ist ganz klar ein Talent von unschätzbarem Wert. Ich bin mitgerissen und gespannt auf das große Finale: "The Thicker The Air". Plötzliche Stille – ein Gefühl, wie das Davondriften während der letzten Phase einer tiefen Meditation stellt sich ein – grenzwertige Instabilität
 
