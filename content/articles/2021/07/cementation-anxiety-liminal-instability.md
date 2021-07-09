@@ -58,7 +58,7 @@ The last song is, just as suspected, the highlight of the record and a great fin
 
 The sound increases to a brutal spectacle, heavy and full of fear. The sudden silence at the end of the song leaves me sitting speechless for a moment. The music of Cementation Anxiety reverberates in my mind for a long time.
 
-"Liminal Instability" is the second record by the drone project from New Jersey. You can listen to it on Bandcamp and all streaming platforms.
+"Liminal Instability" is the second record by the New Jersey-based drone project. You can listen to it on Bandcamp and all streaming platforms.
 
 ## Cementation Anxiety - "Your Shaking Hands"
 
