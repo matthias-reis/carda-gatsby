@@ -36,7 +36,7 @@ language: de
 ---
 **Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen gewonnen und der Prozess ist alles andere als tierfreundlich. Doch was genau steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung gemacht? Ich habe mal ein paar Fakten für Euch zusammengetragen.**
 
-Laut Online-Enzyklopädie versteht man unter Seide einen Faserstoff tierischer Herkunft. Der Name Seide stammt vom mittellateinischen Wort "seta". Der Stoff wird aus den Kokons von Seidenraupen, also Seidenspinner-Larven gewonnen. Seide gilt als die einzige in der Natur bekannte vorkommende textile Endlos-Faser. Daher ist sie seit Generationen besonders in der hochklassigen Mode sehr beliebt. Im Moment erlebt der Stoff, der auch immer wieder Basis für Geschichten ist, ein ziemliches Revival – besonders auch unter Freund⋆innen nachhaltiger Kleidung. Genau aus diesem Grund halte ich es für besonders wichtig, mal ein paar Punkte festzuhalten.
+Laut Online-Enzyklopädie versteht man unter Seide einen Faserstoff tierischer Herkunft. Der Name Seide stammt vom mittellateinischen Wort "seta". Der Stoff wird aus den Kokons von Seidenraupen, also Seidenspinner-Larven gewonnen. Seide gilt als die einzige bekannte, in der Natur vorkommende textile Endlos-Faser. Daher ist sie seit Generationen besonders in der hochklassigen Mode sehr beliebt. Im Moment erlebt der Stoff, der auch immer wieder Basis für Geschichten ist, ein ziemliches Revival – besonders auch unter Freund⋆innen nachhaltiger Kleidung. Genau aus diesem Grund halte ich es für besonders wichtig, mal ein paar Punkte festzuhalten.
 
 ## Seide ist nicht vegan – eine Faser tierischer Herkunft
 
