@@ -3,8 +3,8 @@ date: 2021-07-09T11:47:55.413Z
 slug: cementation-anxiety-liminal-instability
 typeName: Review
 title: Cementation Anxiety – "Liminal Instability"
-subTitle: Cementation Anxiety – "Liminal Instability" – Eine Oper ohne Arien
-seoTitle: Eine Oper ohne Arien
+subTitle: Eine Oper ohne Arien
+seoTitle: Cementation Anxiety – "Liminal Instability" – Eine Oper ohne Arien
 description: '"The patterns merely mutate" – so steht es auf der Bandcamp Seite
   von Cementation Anxiety. Ich glaube, das ist eine ziemlich schüchterne und
   bescheidende Beschreibung der beeindruckenden Klanglandschaften des Projekts –
