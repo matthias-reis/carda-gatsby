@@ -3,7 +3,7 @@ date: 2021-07-09T11:48:24.998Z
 slug: cementation-anxiety-liminal-instability-en
 typeName: Review
 title: Cementation Anxiety – "Liminal Instability"
-subTitle: An opera without arias
+subTitle: An Opera Without Arias
 seoTitle: Cementation Anxiety – "Liminal Instability" – An Opera Without Arias
 description: In Cementation Anxiety's Bandcamp profile, you will find the words
   "The patterns merely mutate". Even if I think that's a shy and modest
