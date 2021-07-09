@@ -45,7 +45,7 @@ Was mir besonders gut gefällt an "Liminal Instability" ist die Natürlichkeit u
 
 Der erste Song "Precipice" ist der Auftakt zu einer Reise in die Fantasie. Eine atmosphärische Welt baut sich auf, die zunächst noch entfernt wirkenden Drone-Effekte kündigen an, was es in den nächsten vier Stücken noch zu erwarten gibt. Die Spannung steigt. Mit 5:48 ist das überaus packende Intro das längste Stück auf der Platte und zugleich die Überleitung in ein Märchen zwischen Raum und Zeit.
 
-Öffnet sich da eine Tür in eine Parallelwelt? Man kann es nur vermuten. Der zweite Song "Breathless" raubt einem beim Hören auf jeden Fall den Atem. Mit unaufhaltbarer Geschwindigkeit gleitet man beim Hören durch den Raum und vergisst für einen Moment seine Umgebung voll und ganz.
+Öffnet sich da eine Tür in eine Parallelwelt? Man kann es nur vermuten. Der zweite Song "Breathless" raubt einem auf jeden Fall den Atem. Mit unaufhaltbarer Geschwindigkeit gleitet man beim Hören durch den Raum und vergisst für einen Moment seine Umgebung voll und ganz.
 
 Bei den ersten Noten von "The Light On Your Fingertips" betrete ich eine bunte Wiese. Jede Blume hat eine andere Farbe. Ich gehe weiter und beim genaueren Hinsehen merke ich, dass es gar keine Blumen sind. Es sind Töne, die in Schichten übereinander liegen und ein wunderbares Ornament ergeben, das schöner nicht sein könnte und irgendetwas ist da noch. Etwas Furcht-einflößendes und unheimliches. Ein Riss tut sich auf und Schnee rieselt auf das Blumenmeer.
 
