@@ -28,7 +28,7 @@ languageLink: /2021/07/cementation-anxiety-liminal-instability
 ---
 **On Cementation Anxiety's Bandcamp profile, you will find the words "The patterns merely mutate". Even if I think that's a shy and modest description of the project's impressive soundscapes, it describes this particular kind of music quite perfect.**
 
-When Cementation Anxiety Found Kyle contacted me about his new EP "Limitation Instability", I was curious about what would await me. Of course, I had to listen to it right away, and after listening to it a few times, I have to say: I'm pretty flashed!
+When Cementation Anxiety Found Kyle contacted me about his new EP "Limitation Instability", I was curious about what would await me. Of course, I had to listen to it right away, and after a few spins, I have to say: I'm pretty flashed!
 
 ## Cementation Anxiety has created a marvellous fantasy world.
 
