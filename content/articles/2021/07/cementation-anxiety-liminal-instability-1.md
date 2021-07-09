@@ -37,7 +37,7 @@ Die Platte ist wirklich großartig. Die insgesamt fünf Stücke treffen bei mir 
 
 ![Cementation Anxiety – "Liminal Instability"](/img/cover.jpg "Cementation Anxiety – \"Liminal Instability\") 
 
-Hören sollte man die Songs auf jeden Fall hintereinander – sie bilden insgesamt ein Klangkonzept, das nicht getrennt werden sollte. Beschreiben lässt sich das, was man da hört nur schwer – auf keinen Fall zumindest kategorisieren oder erklären. 
+Hören sollte man die Songs auf jeden Fall hintereinander – sie bilden insgesamt ein Klangkonzept, das nicht getrennt werden sollte. Beschreiben lässt sich das, was man da hört, nur schwer – auf keinen Fall zumindest kategorisieren oder erklären. 
 
 Was mir besonders gut gefällt an "Liminal Instability" ist die Natürlichkeit und Unberechenbarkeit, die die Platte in jedem Moment ausströmt, obwohl sie so genau durchdacht und präzise komponiert ist.
 
