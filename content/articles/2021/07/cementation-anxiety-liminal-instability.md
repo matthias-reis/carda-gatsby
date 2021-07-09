@@ -48,7 +48,7 @@ Is there a door opening into a parallel world? I can only assume so. The second 
 
 With the first notes of "The Light On Your Fingertips", I enter a blooming meadow. Each flower has a different colour. As I walk on and take a closer look, I realise that they are not flowers at all. Instead, its tones – layered on top of each other, creating a wonderful ornament that couldn't be more beautiful, and there is still something there. Something terrifying and eerie. A crack opens up, and snow trickles onto the sea of flowers.
 
-![Cementation Anxiety founder Kyle. Picture: Cementation Anxiety | large](/img/cementation-anxiety-2.jpg "Cementation Anxiety Gründer Kyle. Picture: Cementation Anxiety")
+![Cementation Anxiety founder Kyle. Picture: Cementation Anxiety](/img/cementation-anxiety-2.jpg "Cementation Anxiety Gründer Kyle. Picture: Cementation Anxiety")
 
 ## Soft and heavy
 
