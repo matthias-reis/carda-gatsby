@@ -49,7 +49,7 @@ Der erste Song "Precipice" ist der Auftakt zu einer Reise in die Fantasie. Eine 
 
 Bei den ersten Noten von "The Light On Your Fingertips" betrete ich eine bunte Wiese. Jede Blume hat eine andere Farbe. Ich gehe weiter und beim genaueren Hinsehen merke ich, dass es gar keine Blumen sind. Es sind Töne, die in Schichten übereinander liegen und ein wunderbares Ornament ergeben, das schöner nicht sein könnte und irgendetwas ist da noch. Etwas Furcht-einflößendes und unheimliches. Ein Riss tut sich auf und Schnee rieselt auf das Blumenmeer.
 
-![Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety | large](/img/cementation-anxiety-2.jpg "Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety")
+![Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety](/img/cementation-anxiety-2.jpg "Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety")
 
 ## Hauchzart und düster
 
