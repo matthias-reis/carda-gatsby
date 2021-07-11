@@ -183,7 +183,7 @@ Ob es wirklich möglich ist, komplett vegan zu leben, was es mit **Tierversuchen
 [Hier geht's zu Teil 10 des Artikels](/2015/09/ich-bleib-dabei-vegan-macht-spass/)
 
 [^1]: [Versteckte Tierische Inhaltsstoffe kennzeichnen](http://www.foodwatch.org/de/informieren/versteckte-tiere/2-minuten-info/)
-[^2]: [Bentonit Wikipedia](//de.wikipedia.org/wiki/Bentonit)
+[^2]: [Bentonit Wikipedia](https://de.wikipedia.org/wiki/Bentonit)
 [^3]: [Vegan4Love](http://www.vegan4love.info)
 [^4]: [Veganer Einkaufsguide bei PETA2](http://www.peta2.de/web/einkaufsguide.401.html)
 [^5]: [Barnivore](http://www.barnivore.com/mobile)

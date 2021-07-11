@@ -51,7 +51,7 @@ languageLink: '/2020/07/of-the-vine-playlist'
 
 **Non-other than Of the Vine guitarist Samuel Laubscher has compiled a playlist for my blog. It is a great honour for me to present it to you today.**
 
-A few weeks ago I did [an interview](/2020/05/of-the-vine-interview-en) with Sam. Our conversation and my questions about his musical roots and his favourite bands inspired him to create a list of songs that mean a lot to him.
+A few weeks ago I did [an interview](/2020/05/of-the-vine-interview-en/) with Sam. Our conversation and my questions about his musical roots and his favourite bands inspired him to create a list of songs that mean a lot to him.
 
 These artists are highly appreciated by him and Of the Vine. Their art accompanies them every day. Even when he is writing new songs.
 
@@ -83,7 +83,7 @@ For the more logic-driven among us, I highly recommend reading up on this moveme
 
 <YouTube id="mto84jhDyGk" />
 
-In our interview, I talked to Sam about the current Of the Vine Album "East The Water" and the band's development. You can [read it here](/2020/05/of-the-vine-interview-en).
+In our interview, I talked to Sam about the current Of the Vine Album "East The Water" and the band's development. You can [read it here](/2020/05/of-the-vine-interview-en/).
 
 ## Sam's playlist on Spotify
 

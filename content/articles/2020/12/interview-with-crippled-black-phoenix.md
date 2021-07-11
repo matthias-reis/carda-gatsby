@@ -53,7 +53,7 @@ The conversation, in which Justin's cats were also actively involved, was incred
 
 ## "It's about the things that we feel strongly about."
 
-**Anne:**  The song "Lost" from your new album, didn't let go of me and Matze, who I asked to write [a guest article](/2021/02/crippled-black-phoenix-lost-en) on my blog about it. I had the feeling that he would be the right person to put it all into words. And it seems this intuition was right because you told me that you enjoyed reading it! The article is quite political and refers only partly to your song. I think, as well as you did, with your music, we felt the urge to look a bit deeper. What made you relate to it?
+**Anne:**  The song "Lost" from your new album, didn't let go of me and Matze, who I asked to write [a guest article](/2021/02/crippled-black-phoenix-lost-en/) on my blog about it. I had the feeling that he would be the right person to put it all into words. And it seems this intuition was right because you told me that you enjoyed reading it! The article is quite political and refers only partly to your song. I think, as well as you did, with your music, we felt the urge to look a bit deeper. What made you relate to it?
 
 ![Belinda. Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-belinda.jpeg 'Belinda. Picture: © Crippled Black Phoenix')
 

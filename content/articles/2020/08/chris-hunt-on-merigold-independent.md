@@ -36,7 +36,7 @@ affiliate: false
 languageLink: '/2020/08/chris-hunt-torrent-merigold-independent'
 ---
 
-**At the moment one musical sensation is following after the next. Yesterday Sam from** [**Of The Vine**](/2020/05/of-the-vine-interview-en) **contacted me. "I've just launched my record label Merigold Independent. Would you like to introduce the new Chris Hunt album? It will be released tomorrow!"**
+**At the moment one musical sensation is following after the next. Yesterday Sam from** [**Of The Vine**](/2020/05/of-the-vine-interview-en/) **contacted me. "I've just launched my record label Merigold Independent. Would you like to introduce the new Chris Hunt album? It will be released tomorrow!"**
 
 For me, this was an offer I couldn't refuse under any circumstances! Especially because the music immediately captivated me after the first listening. "Torrent" brings ethereal ambient sounds that won't let you go again.
 
@@ -77,7 +77,7 @@ Stay tuned! I will present to you the next project of Merigold Independent soon.
 
 ## Read more
 
-- [Interview with Of The Vine](/2020/05/of-the-vine-interview-en)
+- [Interview with Of The Vine](/2020/05/of-the-vine-interview-en/)
 - [Post-Rock playlist exclusively compiled by Samuel Laubscher](/2020/07/of-the-vine-playlist-en/)
 
 You can order Chris Hunt's album "Torrent" [on his Bandcamp page](https://chrishunt.bandcamp.com/album/torrent).

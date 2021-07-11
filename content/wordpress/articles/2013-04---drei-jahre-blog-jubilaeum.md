@@ -69,7 +69,7 @@ Ich bin damals mit meinen älteren Beiträgen umgezogen, weil ich unabhängiger 
 
 Besonders lustig: [Das Interview mit der Spargelkönigin](/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/), das ich 2010 für meinen damaligen Arbeitgeber gemacht habe. Davon gibt es sogar noch eine Audiodatei, vielleicht werde ich Euch die ja eines Tages mal zeigen. Muss ich mir aber noch gut überlegen.
 
-Die meisten Artikel in meinem Blog drehen sich natürlich um mein Lieblingsthema. [Die Musik](/?s=musik). Und das soll auch in Zukunft so bleiben. Vielleicht werde ich ja auch mal wieder eine [Verlosung](/?s=Verlosung) starten, oder eine kleine [Mixtape-Tauschaktion](//?s=mixtape) ? Wer Lust hat, mich dabei zu unterstützen, kann mir natürlich jederzeit eine [E-Mail](mailto:info@cardamonchai.com)  zukommen lassen.
+Die meisten Artikel in meinem Blog drehen sich natürlich um mein Lieblingsthema. [Die Musik](/tag/musik/). Und das soll auch in Zukunft so bleiben. Vielleicht werde ich ja auch mal wieder eine [Verlosung](/tag/verlosung/) starten, oder eine kleine [Mixtape-Tauschaktion](/tag/mixtape/) ? Wer Lust hat, mich dabei zu unterstützen, kann mir natürlich jederzeit eine [E-Mail](mailto:info@cardamonchai.com)  zukommen lassen.
 
 <RemoteImage
   alt={`Jubiläums-Luftsprung`}

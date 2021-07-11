@@ -343,7 +343,7 @@ Leider war es dieses Mal etwas voller - das hat vermutlich an der Wettervorhersa
   ]}
 />
 
-2009 habe ich schon mal das Eden Project besucht und diesen [Artikel](//?s=eden+project) dazu geschrieben. Wer mehr über das Projekt erfahren möchte, klicke bitte auf den [Link](//?s=eden+project).
+2009 habe ich schon mal das Eden Project besucht und diesen [Artikel](/2009/05/eden-project/) dazu geschrieben. Wer mehr über das Projekt erfahren möchte, klicke bitte auf den [Link](/2009/05/eden-project/).
 
 Hier geht's zu [_Teil 8/9_](/2012/08/fabelwesen/)  der Galerie "England 2012"
 

@@ -48,7 +48,7 @@ Wie der inzwischen heiß diskutierte Artikel der New York Times ans Licht bracht
 
 ## PETA fordert ein Verbot der Tierversuche in der Autoindustrie
 
-Die Tierrechts-Organisation PETA fordert nun ein dauerhaftes Verbot von [Tierversuchen](/?s=tierversuche) durch Autohersteller.
+Die Tierrechts-Organisation PETA fordert nun ein dauerhaftes Verbot von [Tierversuchen](/tag/tierversuche/) durch Autohersteller.
 
 Die Versuche mit den Affen waren von VW in Auftrag gegeben worden, nachdem die Weltgesundheitsorganisation bereits bekannt gegeben hatte, dass Dieselabgase als karzinogen einzustufen sind.
 
@@ -82,4 +82,4 @@ Heute gibt sich VW schuldbewusst. Die Frage ist nur: Warum musste es erst zu die
 
 Das Schlimme ist: Die Versuche in Albuquerque sind nur die Spitze des Eisbergs. Täglich finden weltweit weiterhin Tierversuche von unvorstellbarer Grausamkeit statt. Auch in Deutschland steigt die Zahl der Versuche laut aktuellen Berichten weiterhin an.
 
-Die Fotos zeigen in Freiheit lebende Affen, die ich in Sri Lanka fotografiert habe. Sie sollen ein Mahnmal sein und die Menschen wachrütteln, damit sie gemeinsam gegen [Tierversuche](/?s=tierversuche) vorgehen und für die [Rechte der Tiere](/tag/vegan/tierrechte/) kämpfen.
+Die Fotos zeigen in Freiheit lebende Affen, die ich in Sri Lanka fotografiert habe. Sie sollen ein Mahnmal sein und die Menschen wachrütteln, damit sie gemeinsam gegen [Tierversuche](/tag/tierversuche/) vorgehen und für die [Rechte der Tiere](/tag/tierrechte/) kämpfen.

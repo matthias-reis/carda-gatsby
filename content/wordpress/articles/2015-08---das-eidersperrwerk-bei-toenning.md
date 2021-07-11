@@ -44,7 +44,7 @@ Bei normalem Wetter sind alle Tore offen, soll die normale Flut kontrolliert wer
 
 Zahlreiche Seevögel wie z. B. Küstenseeschwalben nisten jedes Jahr im Bereich des Eidersperrwerks und machen es zu einem beliebten Ziel für Naturliebhaber, für die auch das angrenzende Naturschutzgebiet mit seinen Salzwiesen eine Attraktion ist.
 
-Wir haben uns im Rahmen unseres [Ausflugs nach Tönning](/2015/07/toenning-an-der-nordsee)  auch das Eidersperrwerk und seine Bewohner besucht. Hier sind meine Bilder:
+Wir haben uns im Rahmen unseres [Ausflugs nach Tönning](/2015/07/toenning-an-der-nordsee/)  auch das Eidersperrwerk und seine Bewohner besucht. Hier sind meine Bilder:
 
 <Gallery name="flickr/anneeidersperrwerk72015" />
 

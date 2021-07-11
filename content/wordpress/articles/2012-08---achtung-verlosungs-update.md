@@ -51,13 +51,13 @@ subTitle: Offizielles Burg Herzberg Festival T-Shirt zu gewinnen!
 
 ---
 
-Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine [Verlosung](//?s=verlosung), bei der es tolle Sachen zu Gewinnen gibt.
+Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine Verlosung, bei der es tolle Sachen zu Gewinnen gibt.
 
 1.  **Vinyl**
 1.  **CD**
 1.  **T-Shirt**
 
-Alle Gewinne werden von [Marleen](https://www.facebook.com/marleen.schallplatten), dem Plattenladen meines Vertrauens zur Verfügung gestellt. Es handelt sich dabei um wirklich heiße, ausgewählte Teile. Das komplette [Gewinnspiel](//?s=verlosung) findet Ihr [&gt;HIER UNTER DIESEM LINK&lt;](//?s=verlosung).
+Alle Gewinne werden von [Marleen](https://www.facebook.com/marleen.schallplatten), dem Plattenladen meines Vertrauens zur Verfügung gestellt. Es handelt sich dabei um wirklich heiße, ausgewählte Teile.
 
 <RemoteImage
   size="full"
@@ -80,5 +80,3 @@ Ich freue mich natürlich sehr, wenn Ihr das auch weitersagt, Ihr dürft meinen 
 - Die Gewinner werden von einer neutralen Person gezogen und per E-Mail über ihren Gewinn benachrichtigt.
 - Die Gewinne werden per Post versendet.
 - Der Rechtsweg ist ausgeschlossen.
-
-Das komplette Gewinnspiel findet Ihr [HIER UNTER DIESEM LINK](//?s=verlosung)

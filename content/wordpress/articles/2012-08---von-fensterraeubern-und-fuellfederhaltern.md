@@ -71,7 +71,7 @@ Bei meiner [Allerbesten](http://tofutante.wordpress.com/)  reißen heute Handwe
 
 Mal sehen, was der Tag noch so bringt. Auf jeden Fall eine Menge Besprechungen und bestimmt auch den ein oder anderen Kaffee. Außerdem werde ich meine Kollegen mal wieder mit Fragen löchern.
 
-Und der Abend? Ein Bad im [Baggersee](//?s=baggersee) vielleicht? Oder doch lieber einen schönen Wong Kar Wai Film? Oder vielleicht beides? Eigentlich hatte ich mir ja auch irgendwann vorgenommen, heute mal früher schlafen zu gehen. Doch irgendwie denkt man da meistens nur beim Aufstehen dran.
+Und der Abend? Ein Bad im Baggersee vielleicht? Oder doch lieber einen schönen Wong Kar Wai Film? Oder vielleicht beides? Eigentlich hatte ich mir ja auch irgendwann vorgenommen, heute mal früher schlafen zu gehen. Doch irgendwie denkt man da meistens nur beim Aufstehen dran.
 
 Ich zitiere an dieser Stelle [Tocotronic](http://musichq.de/images/artist_event/tocotronic/tocotronic.jpg) (Mir fällt ständig zu allem ein [Tocotronic](http://musichq.de/images/artist_event/tocotronic/tocotronic.jpg) -Zitat ein.): 'Manchmal weiß ich schon beim Aufstehen, heut´geht alles schief, abends muss ich dann einsehn´, selbst das klappt meistens nie.' - Ein wahrer Satz.
 

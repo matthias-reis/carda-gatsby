@@ -137,7 +137,7 @@ Regelmäßig werden wir von Mogwai mit Musik versorgt. Nie werden wir enttäusch
 
 ### 9. Nine Inch Nails - "Less Than" von der EP Add Violence
 
-Die für mich größte Überraschung des Jahres ist diese Veröffentlichung. Die Freude ist groß auf das nächste Jahr, wenn es mit Trent Reznor und seinen [Nine Inch Nails](/?s=nine+inch+nails) weitergeht. Eine Tour steht an!
+Die für mich größte Überraschung des Jahres ist diese Veröffentlichung. Die Freude ist groß auf das nächste Jahr, wenn es mit Trent Reznor und seinen [Nine Inch Nails](/tag/nine-inch-nails/) weitergeht. Eine Tour steht an!
 
 <YouTube id="gDV-dOvqKzQ" />
 

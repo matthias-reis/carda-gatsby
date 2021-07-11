@@ -1,7 +1,6 @@
 ---
 ogTitle: Liebster Blog Award - die Nominierungen stehen fest
-excerpt: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert. Ich
-  kann es kaum glauben! Was für eine Ehre!
+excerpt: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert. Ich kann es kaum glauben! Was für eine Ehre!
 ogImage: null
 isAffiliate: false
 path: /2014/11/liebster-blog-award/
@@ -18,8 +17,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11
 title: Liebster Blog Award
 subTitle: And the nominees are...
 seoTitle: Liebster Blog Award - die Nominierungen stehen fest
-description: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert.
-  Ich kann es kaum glauben! Was für eine Ehre!
+description: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert. Ich kann es kaum glauben! Was für eine Ehre!
 labels:
   - Blog-Award
   - Blogawards
@@ -96,7 +94,7 @@ Hm, ich kann sehr gut Kleidungsstücke aus Müllbeuteln fertigen, das habe ich m
 
 **Welche Band/welchen Künstler muss man gehört haben, um von Dir ernst genommen zu werden?**
 
-Grundsätzlich nehme ich Leute auch ernst, die keine Musik hören, oder sich nicht damit auskennen. Sie dürfen nur keinen Mist hören, das geht überhaupt nicht. Oder was am schlimmsten ist: "Ich höre alles". Zack, Gespräch beendet.Spaß beiseite, es gibt einige Bands/Künstler, die mir sehr wichtig sind und die mich zum Teil schon jahrelang begleiten. Calexico z. B. haben bei mir eine eigene Blogrubrik. Ich nehme einfach jedes Konzert von denen mit, das in meiner Nähe ist. Die [Deftones](/?s=deftones) sind außerdem ganz besonders wichtig für mich und [Nine Inch Nails](/?s=Nine+inch+nails).
+Grundsätzlich nehme ich Leute auch ernst, die keine Musik hören, oder sich nicht damit auskennen. Sie dürfen nur keinen Mist hören, das geht überhaupt nicht. Oder was am schlimmsten ist: "Ich höre alles". Zack, Gespräch beendet.Spaß beiseite, es gibt einige Bands/Künstler, die mir sehr wichtig sind und die mich zum Teil schon jahrelang begleiten. Calexico z. B. haben bei mir eine eigene Blogrubrik. Ich nehme einfach jedes Konzert von denen mit, das in meiner Nähe ist. Die [Deftones](/tag/deftones/) sind außerdem ganz besonders wichtig für mich und [Nine Inch Nails](/tag/nine-inch-nails/).
 
 <RemoteImage
   alt={`Chino Moreno von den Deftones auf dem letztjährigen Rock'n'Heim Festival`}

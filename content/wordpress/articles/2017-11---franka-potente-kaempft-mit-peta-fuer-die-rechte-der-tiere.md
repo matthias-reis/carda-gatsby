@@ -50,7 +50,7 @@ subTitle: Arme Sau - So leiden die Schweine
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBQYHBP/EACgQAAICAQMDAwUBAQAAAAAAAAECAwQRAAUhBhITBzFhFCJBUYEykf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EAB0RAAMAAgIDAAAAAAAAAAAAAAABAhIhAxEiMUH/2gAMAwEAAhEDEQA/AMY6R2GPdpWSVZmaQTRoIlJIcRd6Y45yc8foHXV0HstfdeoXo7pNPUhiryzStHGS6lACQR2nGOc5HGNXj0eZZ9yrQRQ+WGtA8ryNkgSMG4/mR/c6j+rrS7T6ybvY+jhuJZrpK8EkrJG/mrxlu4oDkZJ4/J5yCAdQzfnWXoprpSmM632qj01ZpRbbYuTxTRyeR7UfYVkR+1kA7R7aNQHqL1fZ6lt0vqatavPB5WcQNJ9zSMrElXH2/wCcgZPuedGtOJraMzyaH+nO57gLO47UniiTcYu2SSVyvjQAhiMfBJz8atPV+wdLifrG5ZnuNu9aWWaOvXlyiIrhQhULyAgB78gZOB7E6h9puVNviheGpWd2JBw5DcqV4wPfn88YHzpKtuOv1Vdt0migrzp9OK88hAMQZSyliDy65X+6F03Ta0IksdmXtOTOxAK4PAJJx/3RqxX9khaq8i2KSuH7VSGbukH7AX8j5zo1XlP0DFn/2Q=="
 />
 
-Das berichtet Franka Potente in Ausgabe 3/2017 der _PETAs Animal Times_ . Die Heldin meiner Jugend hat also auch den Schritt gewagt und sich für ein [veganes Leben](/vegan2) entschieden. Die Tiere stehen auch für sie an erster Stelle.
+Das berichtet Franka Potente in Ausgabe 3/2017 der _PETAs Animal Times_ . Die Heldin meiner Jugend hat also auch den Schritt gewagt und sich für ein [veganes Leben](/tag/vegan/) entschieden. Die Tiere stehen auch für sie an erster Stelle.
 
 ## Franka Potente geht es besser
 

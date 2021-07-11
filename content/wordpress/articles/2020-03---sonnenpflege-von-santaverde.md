@@ -40,7 +40,7 @@ Für diesen Sommer habe ich mir auf jeden Fall eines sehr feste vorgenommen: So 
 
 ## Endlich Sonnenpflege von Santaverde
 
-Bis jetzt war ich immer ein bisschen traurig, dass es so etwas von [meiner Lieblingsmarke Santaverde](/?s=santaverde) noch nicht gibt. Doch vor ein paar Wochen war tatsächlich so weit: Santaverde verkündete den Launch der neuen Sonnenpflegelinie. Bislang konnte ich sie nur zu Hause testen und war noch nicht wirklich damit in der Sonne, aber wo Sonnenschutzfaktor drauf steht, ist auch Sonnenschutzfaktor drin. Die wunderbar sonnigen Fotos habe ich auf unserem Balkon gemacht.
+Bis jetzt war ich immer ein bisschen traurig, dass es so etwas von [meiner Lieblingsmarke Santaverde](/tag/santaverde/) noch nicht gibt. Doch vor ein paar Wochen war tatsächlich so weit: Santaverde verkündete den Launch der neuen Sonnenpflegelinie. Bislang konnte ich sie nur zu Hause testen und war noch nicht wirklich damit in der Sonne, aber wo Sonnenschutzfaktor drauf steht, ist auch Sonnenschutzfaktor drin. Die wunderbar sonnigen Fotos habe ich auf unserem Balkon gemacht.
 
 Eins kann ich auf jeden Fall sagen: Ich mag die Produkte und werde sie auf jeden Fall fest in meine [sommerliche Pflegeroutine](/2018/07/make-up-fasten/) aufnehmen. Getestet habe ich alle drei Produkte: Die Sun Protect Cream für das Gesicht mit Lichtschutzfaktor 20, Die Sun Protect Lotion mit Lichtschutzfaktor 15 und Die After Sun Recovery Lotion.
 

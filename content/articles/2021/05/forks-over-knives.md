@@ -26,7 +26,7 @@ affiliate: false
 languageLink: ''
 ---
 
-**"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr mich nach [meinen Lieblings-Dokus](/tag/buecher-und-filme) rund ums Thema Veganismus fragen würdet. Der Film gehört zu den wenigen, die ich mir immer wieder ansehe und das nicht ohne Grund.**
+**"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr mich nach [meinen Lieblings-Dokus](/tag/buecher-und-filme/) rund ums Thema Veganismus fragen würdet. Der Film gehört zu den wenigen, die ich mir immer wieder ansehe und das nicht ohne Grund.**
 
 Ich stelle Euch heute also mal wieder einen Film vor. Obwohl "Forks Over Knives" eigentlich so viel mehr ist als das, doch dazu später mehr.
 

@@ -49,6 +49,6 @@ Beim Entwickeln der sehr zahlreichen Bilder, die ich an diesem heiligen Tag aufg
 
 Was für ein wahrer Spruch, oder? Seit ich ihn im zarten Alter von circa drei Jahren das erste Mal bewusst gehört habe, glaube ich fest an dieses Credo F. W. Bernsteins. Auch er ist Karikaturist, Grafiker und Lyriker.
 
-Besteht da ein Zusammenhang? Wohl kaum. Elche machen dennoch glücklich. Die sanften Riesen sind die wunderbarsten Tiere, denen ich bisher in meinem Leben begegnet bin und ich hege den festen Plan, ihnen weiter durch den Forst zu folgen. Sobald es uns das nächste Mal in Richtung [Finnland](/tag/finnland/), [Schweden](/?s=schweden), Norwegen oder Polen zieht, werde ich mich wieder mit meiner Kamera auf die Lauer legen. Weich gebettet auf Moosen und Heidelbeersträuchern lässt es sich entspannt warten.
+Besteht da ein Zusammenhang? Wohl kaum. Elche machen d ennoch glücklich. Die sanften Riesen sind die wunderbarsten Tiere, denen ich bisher in meinem Leben begegnet bin und ich hege den festen Plan, ihnen weiter durch den Forst zu folgen. Sobald es uns das nächste Mal in Richtung [Finnland](/tag/finnland/), [Schweden](/tag/schweden/), Norwegen oder Polen zieht, werde ich mich wieder mit meiner Kamera auf die Lauer legen. Weich gebettet auf Moosen und Heidelbeersträuchern lässt es sich entspannt warten.
 
 <Gallery name="skullaryd-aelgpark" />

@@ -61,7 +61,7 @@ subTitle: Onlineapotheke ausprobiert
 advertisement: true
 ---
 
-**Wie viele von Euch mitbekommen haben, habe ich eine Schwäche für Belgien. Seit ich das erste Mal dort war, bin ich fasziniert und auch [aufs Festival](/?s=dunk%21) zieht es mich dort immer wieder. Ich mag die Filme, das Bier, die Schokolade, die Menschen und die Kultur. Jetzt habe ich die Belgische Versandapotheke Newpharma, die jetzt auch bei uns Fuß fassen möchte, dem Vegan-Test unterzogen.**
+**Wie viele von Euch mitbekommen haben, habe ich eine Schwäche für Belgien. Seit ich das erste Mal dort war, bin ich fasziniert und auch [aufs Festival](/tag/dunk/) zieht es mich dort immer wieder. Ich mag die Filme, das Bier, die Schokolade, die Menschen und die Kultur. Jetzt habe ich die Belgische Versandapotheke Newpharma, die jetzt auch bei uns Fuß fassen möchte, dem Vegan-Test unterzogen.**
 
 Als Allererstes möchte ich den freundlichen persönlichen Kontakt erwähnen, der mir bei der Auswahl meiner Produkte sehr geholfen hat. Derzeit ist im Shop noch nicht alles beschriftet, die Inhaltsstoff-Listen fehlen zum Teil noch und es ist noch nicht alles gekennzeichnet, was vegan und crueltyfree ist. Mitarbeiterin Julie hat mir sehr geholfen, trotzdem fündig zu werden. Vielen Dank an dieser Stelle!
 
@@ -161,6 +161,6 @@ Auch das Duschöl und die Bodylotion duften sehr fein. Erst ein bisschen gewöhn
 
 Insgesamt kann ich nach meiner Bestellung bei Newpharma ein positives Fazit ziehen. Die persönliche Beratung hat mir sehr zugesagt und auch die Möglichkeit, ohne Versandkosten zu bestellen, ist toll. Die Lieferzeit ist völlig in Ordnung und hier sind ja auch immer die Paketdienste ein bisschen mitverantwortlich. Der Versand erfolgt bei Newpharma mit DPD. Verschickt wurde direkt aus dem Belgischen Lüttich und die Sachen waren nach zwei Tagen da, da kann man überhaupt nichts sagen.
 
-Als Bezahlungsmöglichkeiten sind Paypal sowie alle Kreditkartentypen, Sofortüberweisung und Giropay angegeben. Das ist ganz bestimmt für einige auch interessant. Neben Belgien und Deutschland wird auch Österreich, Frankreich und [Holland](/?s=amsterdam) von Newpharma beliefert. Der Shop trägt mehrere Siegel und wurde unter anderem von SafeShops.be zertifiziert. Aktiv ist er in Belgien seit 2008. Bis heute sind über 300.000 Kundenbewertungen online gegangen. Vielleicht kommen ja auch bald ein paar aus Deutschland dazu.
+Als Bezahlungsmöglichkeiten sind Paypal sowie alle Kreditkartentypen, Sofortüberweisung und Giropay angegeben. Das ist ganz bestimmt für einige auch interessant. Neben Belgien und Deutschland wird auch Österreich, Frankreich und [Holland](/tag/amsterdam/) von Newpharma beliefert. Der Shop trägt mehrere Siegel und wurde unter anderem von SafeShops.be zertifiziert. Aktiv ist er in Belgien seit 2008. Bis heute sind über 300.000 Kundenbewertungen online gegangen. Vielleicht kommen ja auch bald ein paar aus Deutschland dazu.
 
 Ob ich wieder bestellen würde? Klar, auf jeden Fall! Wer jetzt auch neugierig geworden ist, [findet den Onlineshop von Newpharma hier](https://www.newpharma.de/) ! Viel Spaß beim Stöbern!

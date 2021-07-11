@@ -91,7 +91,7 @@ subTitle: Exklusives Vinyl, CD und T-Shirt zu gewinnen
 
 ---
 
-**Mein wundervolles, neues [Marc Lanegan T-Shirt](//#jp-carousel-3918) hat mich auf die Idee gebracht, mal wieder eine Mitmach-Aktion auf cardamonchai.com zu veranstalten. Dieses Mal soll es nicht nur eine [einfache Verlosung](//2011/05/cardamonchai-auf-facebook/) sein, oder ein [Mixtape-Tausch](//cardamixtape-2/der-mixtape-tausch-teil-1-die-bastelei/), nein, es wird spannender. Und es gibt wirklich tolle Preise zu gewinnen.**
+**Mein wundervolles, neues Marc Lanegan T-Shirt hat mich auf die Idee gebracht, mal wieder eine Mitmach-Aktion auf cardamonchai.com zu veranstalten. Dieses Mal soll es nicht nur eine [einfache Verlosung](/2011/05/cardamonchai-auf-facebook/) sein, oder ein [Mixtape-Tausch](/cardamixtape-2/der-mixtape-tausch-teil-1-die-bastelei/), nein, es wird spannender. Und es gibt wirklich tolle Preise zu gewinnen.**
 
 Alle, die mitmachen wollen, senden unter dem Betreff "T-Shirt-Idee" bis zum 30. September ein Foto  von ihrem Lieblings-T-Shirt, im Idealfall sogar mit einer kleinen Geschichte dazu (2-10 Sätze reichen schon) an info@cardamonchai.com. Aus den Bildern entsteht dann hier im Blog eine schöne T-Shirt-Galerie. Es werden drei Gewinner ausgelost, die einen eigenen Blogeintrag zu Ihrem T-Shirt bekommen. Natürlich ist das aber noch längst nicht alles. Der erste Preis ist eine exklusive Vinyl, der zweite Preis eine tolle CD und der dritte Preis (na, drei Mal dürft Ihr raten) ein T-Shirt. Die Gewinne stellen meine Freunde von "[Marleen Schallplatten](https://www.facebook.com/marleen.schallplatten)" , dem Plattenladen meines Vertrauens in Fulda zur Verfügung. Vielen Dank an dieser Stelle, Ihr wart maßgeblich an meiner 'musikalischen Früherziehung' beteiligt!
 

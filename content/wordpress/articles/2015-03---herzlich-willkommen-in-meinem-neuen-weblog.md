@@ -44,7 +44,7 @@ subTitle: 'Teil V: Der Livegang'
 
 ** [_(Hier geht es zum vierten Teil des Artikels)_](/2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/) Wie recht der Fox Peter doch hat! Man fühlt sich schon viel wohler, mit einer neuen Tapete! Ich begrüße Euch auf meinem brandneuen, hochmodernen Blog! Herzlich Willkommen! Ich hoffe, es gefällt Euch! Ich bin schon gespannt auf Eure Kommentare!**
 
-"Wie jetzt? War doch grade erst Abschied, jetzt schon wieder Begrüßung, oder was?" Ganz genau! [Anne bloggt cardamonchai](http://www.cardamonchai.com) ist in ein neues Online-Haus umgezogen. Und hier bleibt es jetzt auch erst mal, versprochen! Es kann zwar sein, dass in den nächsten Tagen noch ein paar Dinge (die Euch vielleicht auch gar nicht gleich auffallen werden) nachgezogen werden, aber im Großen und Ganzen war's das jetzt erst mal mit dem Umbau.
+"Wie jetzt? War doch grade erst Abschied, jetzt schon wieder Begrüßung, oder was?" Ganz genau! [Anne bloggt cardamonchai](/) ist in ein neues Online-Haus umgezogen. Und hier bleibt es jetzt auch erst mal, versprochen! Es kann zwar sein, dass in den nächsten Tagen noch ein paar Dinge (die Euch vielleicht auch gar nicht gleich auffallen werden) nachgezogen werden, aber im Großen und Ganzen war's das jetzt erst mal mit dem Umbau.
 
 ### Stolz, wie Bolle
 

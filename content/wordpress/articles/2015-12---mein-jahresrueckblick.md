@@ -295,7 +295,7 @@ Im [August](/2015/08/) habe ich Karten für das [Rock'n'Heim Festival](/2015/08/
 
 ### September
 
-Im [September](/2015/09) habe ich bei [#BloggerfuerFluechtlinge](/2015/09/bloggerfuerfluechtlinge/) mitgemacht, mein beliebter [#iseefaces-Artikel](/2015/09/iseefaces-gesichter-ueberall/) ist entstanden und ich habe eine [wunderschöne Handtasche](/2015/09/kleine-handtasche-zum-selbermachen/) genäht.
+Im [September](/2015/09/) habe ich bei [#BloggerfuerFluechtlinge](/2015/09/bloggerfuerfluechtlinge/) mitgemacht, mein beliebter [#iseefaces-Artikel](/2015/09/iseefaces-gesichter-ueberall/) ist entstanden und ich habe eine [wunderschöne Handtasche](/2015/09/kleine-handtasche-zum-selbermachen/) genäht.
 
 <Gallery
   images={[
@@ -322,7 +322,7 @@ Im [September](/2015/09) habe ich bei [#BloggerfuerFluechtlinge](/2015/09/blogge
 
 ### Oktober
 
-Im [Oktober](/2015/10) habe ich mein erstes Kleid entworfen, wir haben [Boysetsfire](/2015/10/boysetsfire-live-docks-hamburg/) live im Docks in Hamburg gesehen und im [Welt Vegan Magazin](/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/) sind gleich zwei Artikel aus meiner Feder erschienen.
+Im [Oktober](/2015/10/) habe ich mein erstes Kleid entworfen, wir haben [Boysetsfire](/2015/10/boysetsfire-live-docks-hamburg/) live im Docks in Hamburg gesehen und im [Welt Vegan Magazin](/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/) sind gleich zwei Artikel aus meiner Feder erschienen.
 
 <Gallery
   images={[

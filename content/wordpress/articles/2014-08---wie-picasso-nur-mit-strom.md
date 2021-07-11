@@ -35,7 +35,7 @@ labels:
   - Tattoo
 language: de
 ---
-**[Hier geht's zum ersten Teil des Artikels](/2014/05/taetowierung-und-webdesign/) **Vor Kurzem hatte ich hier von meinem Vorhaben erzählt, etwas mehr Farbe unter meine Haut zu lassen und gleichzeitig am Relaunch von [cardamonchai](www.cardamonchai.com) zu arbeiten.**
+**[Hier geht's zum ersten Teil des Artikels](/2014/05/taetowierung-und-webdesign/) **Vor Kurzem hatte ich hier von meinem Vorhaben erzählt, etwas mehr Farbe unter meine Haut zu lassen und gleichzeitig am Relaunch von [cardamonchai](/) zu arbeiten.**
 
 <RemoteImage
   alt={`Stencil Stuff`}
@@ -46,7 +46,7 @@ language: de
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQj/xAApEAACAQMDBAEDBQAAAAAAAAABAgMEBREABiEHEhMxQSJRcTJhYoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEA//EACQRAAICAgAEBwAAAAAAAAAAAAECAAMRMQQSEyIhUXGhscHR/9oADAMBAAIRAxEAPwCIbf2/Q1GyLhcpInevVlML5IEeJApGBwcgn3qpbI35ZLBbaamo6So8EERiUlY0Z5cjLkFs4znk6WNvxU46N1TI0c8iyZXD9jKRMPq7fZx6x++laxWpaw3CZqmoFNTTIoMKd3DBmOcA4GQOcHH20hRHU58/oTTiLxwyB214e5x8zofcHUyz3vYl4orjSzM0dM00biIMVdQDGcqxH6vvj3pJ6a3nbl7mu1oqrJRrNDb5aujrTGVnYRp9ayDuIDe2BHGB60PtO13Dbm8LQaFp5J62GolhSVFBDRswUcDBGADweck8caoFypq+7bwqLncBIyW3bFSk07weM+acmNVPzggOwB5A/Op2KL2rr1hTb1kDro/uJztJcRQbSkjpu0JU9ncuPuwYjn1yNH2axXiz1oElFe7VOVw08ETnyDOeHXj+wT+dJENR5KdaaQnxuAMn4x61S9s9Xd0WtIqZHpa4IAiiVHD8cYyh5/zVrB8dozGdEuHK+pRdnm41m76CsmobvKlMkjvXVFOyR8x9iIWf5JJ4HJPOhure97jJW3m0092raWGmgpy8EUiCOQuOcjt7sg4z9Ws7cl66l9QLLDRvt6vah8qyLFT0EiIzDOGaSQ84+PQ1gwdH941K1L1sdutxnZMioqlZgF/jGG+TqcVqHFlhAwNQQCscqz//2Q=="
 />
 
-Meine neueste Tattooerrungenschaft soll nicht nur meinen Oberarm, sondern auch meinen Blog zieren. Das Kunstwerk ist die Grundlage für alles, was [cardamonchai](www.cardamonchai.com) in Zukunft optisch ausmachen wird.
+Meine neueste Tattooerrungenschaft soll nicht nur meinen Oberarm, sondern auch meinen Blog zieren. Das Kunstwerk ist die Grundlage für alles, was [cardamonchai](/) in Zukunft optisch ausmachen wird.
 
 ## cardamonchai schon bald in neuem Gewand
 

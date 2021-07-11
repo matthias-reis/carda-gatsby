@@ -64,7 +64,7 @@ Einiges ist uns wie Schuppen von den Augen gefallen. Filme wie [Earthlings](/202
 
 ## Ich habe viel recherchiert
 
-In der Zeit habe ich dann auch angefangen für [Vegan News](/?s=vegan+news) und für das [Welt Vegan Magazin](/?s=welt+vegan+magazin) zu schreiben. Mehr und mehr Tatsachen und Fakten kamen hinzu und ich war mir von Tag zu Tag klarer darüber, dass ich nicht wieder zurück möchte. Außerdem schmeckt es halt auch einfach so wahnsinnig gut. Essen ist seit der Ernährungsumstellung etwas unheimlich Tolles für mich geworden. Früher war es mehr so eine Art Notwendigkeit. Ich genieße jeden Bissen, Matze und ich kochen zusammen, probieren neue Rezepte und Zutaten aus und kreieren sogar selbst Gerichte.
+In der Zeit habe ich dann auch angefangen für [Vegan News](/tag/vegan-news/) und für das [Welt Vegan Magazin](/tag/welt-vegan-magazin/) zu schreiben. Mehr und mehr Tatsachen und Fakten kamen hinzu und ich war mir von Tag zu Tag klarer darüber, dass ich nicht wieder zurück möchte. Außerdem schmeckt es halt auch einfach so wahnsinnig gut. Essen ist seit der Ernährungsumstellung etwas unheimlich Tolles für mich geworden. Früher war es mehr so eine Art Notwendigkeit. Ich genieße jeden Bissen, Matze und ich kochen zusammen, probieren neue Rezepte und Zutaten aus und kreieren sogar selbst Gerichte.
 
 <RemoteImage
   alt={`Award`}

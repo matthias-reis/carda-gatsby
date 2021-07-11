@@ -35,7 +35,7 @@ year: '2017'
 month: '01'
 ---
 
-**Mir ist aufgefallen, dass ich Euch schon länger nicht mehr mit einem** [**Flarfgedicht**](/?s=Flarf)** beglückt habe. Zum neuen Jahr habe ich mal wieder eins.**
+**Mir ist aufgefallen, dass ich Euch schon länger nicht mehr mit einem** [**Flarfgedicht**](/tag/flarf/)** beglückt habe. Zum neuen Jahr habe ich mal wieder eins.**
 
 Weil die Bildergalerie, die ich mit angefügt habe, schwarz-weiß und bunt gemischt ist, passen die Begriffe, aus denen es entstanden ist, besonders gut: _Elbe_ , _schwarz-weiß_ und _bunt_ . Die Bilder habe ich an Weihnachten an der Elbe aufgenommen, als ich dort einen Genesungsspaziergang gemacht habe. Stimmungsvoll im Nebel.
 

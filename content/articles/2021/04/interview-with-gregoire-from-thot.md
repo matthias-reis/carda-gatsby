@@ -43,7 +43,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Anne:** I have to admit that I am far beyond curious. How did you find my page? Also: It's about post-rock and veganism (mostly) – Are you interested in both topics?
 
-**Grégoire:** The magic of Instagram. You did an [interview with our friends in Lost in Kiev](/2020/07/lost-in-kiev-interview-en). Besides that, yeah, veganism and post-rock are obviously topics that interest me!
+**Grégoire:** The magic of Instagram. You did an [interview with our friends in Lost in Kiev](/2020/07/lost-in-kiev-interview-en/). Besides that, yeah, veganism and post-rock are obviously topics that interest me!
 
 ![Grégoire. Picture: Thot](/img/thot-2.jpeg "Grégoire. Picture: Thot")
 

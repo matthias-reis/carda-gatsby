@@ -83,7 +83,7 @@ Mein Blog hat in den 10 Jahren einige Phasen durchlaufen. Zu Beginn habe ich mic
 
 ## Jubiläum - Auf die nächsten 10 Jahre!
 
-Anfangs noch von mehr Tagebuchseiten und anderen persönlichen Geschichten durchwirkt, bewegte sich die Ausrichtung meiner Seite nach und nach immer mehr in eine feste Richtung. Ein Nischenblog ist cardamonchai dennoch auch heute nicht. Der Fokus liegt inzwischen auf den Schwerpunkten "[vegan](/tag/vegan-2/)" , "[Musik](/tag/rock-n-roll)" , "[Nachhaltigkeit](/tag/vegan/klima-umweltschutz/)" und "[Slow Travel](/tag/slow-travel/)" . Trotzdem scheue ich mich nicht davor, auch mal ein komplett anderes Thema dazwischen zu schieben, wenn es mir wichtig erscheint.
+Anfangs noch von mehr Tagebuchseiten und anderen persönlichen Geschichten durchwirkt, bewegte sich die Ausrichtung meiner Seite nach und nach immer mehr in eine feste Richtung. Ein Nischenblog ist cardamonchai dennoch auch heute nicht. Der Fokus liegt inzwischen auf den Schwerpunkten "[vegan](/tag/vegan/)" , "[Musik](/tag/rock-n-roll/)" , "[Nachhaltigkeit](/tag/vegan/klima-umweltschutz/)" und "[Slow Travel](/tag/slow-travel/)" . Trotzdem scheue ich mich nicht davor, auch mal ein komplett anderes Thema dazwischen zu schieben, wenn es mir wichtig erscheint.
 
 Genau das ist es für mich auch, was das Bloggen ausmacht: Du bist Dein Blog und Dein Blog bist Du. Sich auf ein Thema allein festzulegen, das wäre einfach nicht ich. Ich interessiere mich für viele Bereiche und das bringe ich auf meiner Seite zum Ausdruck. Von Interviews über Brotrezepte bis hin zu Reiseberichten werdet Ihr also auch in Zukunft so ziemlich alles hier finden.
 

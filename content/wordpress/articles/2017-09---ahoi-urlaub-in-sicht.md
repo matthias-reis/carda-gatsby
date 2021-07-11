@@ -69,16 +69,16 @@ Ihr findet hier im Blog zu allen möglichen Themen interessante Artikel, die Ihr
 
 ### Gesellschaft
 
-- [Klima- &amp; Umweltschutz](/tag/vegan/klima-umweltschutz/)
-- [Tierschutz](/tag/vegan/tierrechte/)
-- [Antifaschismus &amp; Feminismus](/tag/lifestyle/antifaschismus-feminismus)
+- [Klima- &amp; Umweltschutz](/tag/klima-umweltschutz/)
+- [Tierschutz](/tag/tierrechte/)
+- [Antifaschismus &amp; Feminismus](/tag/antifaschismus-feminismus/)
 
 ### Unterwegs
 
-- [Hamburg](/tag/slow-travel/hamburg/)
-- [Fernweh](/tag/slow-travel/fernweh/)
-- [Ausflug](/tag/slow-travel/ausflug/)
-- [Großbritannien](/tag/slow-travel/britische-inseln/)
+- [Hamburg](/tag/hamburg/)
+- [Fernweh](/tag/fernweh/)
+- [Ausflug](/tag/ausflug/)
+- [Großbritannien](/tag/britische-inseln/)
 
 ## Fast schon wie Urlaub
 

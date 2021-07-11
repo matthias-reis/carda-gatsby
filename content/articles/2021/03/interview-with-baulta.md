@@ -34,7 +34,7 @@ Of course, we also talked about the current worldwide situation. Esa (drums), Ja
 
 **Janne:** So far, Baulta members have remained healthy, and it is natural for us Finns to be in our own circumstances. Frustration begins to show in infections, and problems with vaccinations cause unnecessary politicking.
 
-**Anne:** You've just released your brand new album, "[Another Second Chance](/2021/03/baulta-another-second-chance-en)", which for me is one of the albums of the year 2021 so far. So: congratulations! Are you happy with the outcome of your work?
+**Anne:** You've just released your brand new album, "[Another Second Chance](/2021/03/baulta-another-second-chance-en/)", which for me is one of the albums of the year 2021 so far. So: congratulations! Are you happy with the outcome of your work?
 
 ## "We are happy with the new album"
 
@@ -55,7 +55,7 @@ We met Xavi Forne, aka Error!design, at DUNK!festival 2019 and thought about col
 
 **Matti:** More than happy!
 
-**Janne:** "[Another Second Chance](/2021/03/baulta-another-second-chance-en)" was the first album of this line-up (Iiro, Matti, Esa and Janne). The ensemble and the playing chemistry were a complete success, so YES!
+**Janne:** "[Another Second Chance](/2021/03/baulta-another-second-chance-en/)" was the first album of this line-up (Iiro, Matti, Esa and Janne). The ensemble and the playing chemistry were a complete success, so YES!
 
 ## Baulta in the studio
 
@@ -87,7 +87,7 @@ We met Xavi Forne, aka Error!design, at DUNK!festival 2019 and thought about col
 
 **Iiro:** We had member changes during the past years, and I think when Esa (drums) and Janne (bass) joined the band, something extraordinary happened. These guys understood what these songs needed rhythmically and what it takes to get these songs better. We played a lot together and turned these songs upside down and not rushed into the studio. One big part was that the drums and bass were the centres of these songs, and we didn't record too many guitar layers. Lesson learned, less is more.
 
-We also recorded synths and pianos for the first time with our mixing engineer Tuomas Kokko. That was a rewarding process that gave this record its distinctive sound. This time the mixing and mastering process was easier because we knew how we wanted "[Another Second Chance](/2021/03/baulta-another-second-chance-en)" to sound. Last time we struggled, and the red line was thinner.
+We also recorded synths and pianos for the first time with our mixing engineer Tuomas Kokko. That was a rewarding process that gave this record its distinctive sound. This time the mixing and mastering process was easier because we knew how we wanted "[Another Second Chance](/2021/03/baulta-another-second-chance-en/)" to sound. Last time we struggled, and the red line was thinner.
 
 ## "The songs got many 'second chances'"
 

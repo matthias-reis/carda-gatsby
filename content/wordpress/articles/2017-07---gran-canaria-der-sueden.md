@@ -46,7 +46,7 @@ Wir fuhren wir mit dem Bus von Playa del Inglés nach Arguineguín. Im dortigen 
 
 Im Anschluss schlenderten wir noch etwas durch die wunderschöne Umgebung, die einem Meer aus blühenden Bäumen und bunten Blumen glich. Von der Natur ging es zurück in den _Puerto Base_ , der nicht nur Boote beherbergt, sondern auch einige Bars und Kneipen.
 
-Besonders gut gefiel uns als [Finnland-Fans](/tag/finnland) natürlich die _Ravintola Ulvova Myllari_ , leider öffnet die jedoch erst abends die Tür, weshalb wir weiterzogen und uns ein weiteres Mal freuen durften. Die unglaublich freundlichen Wirte des original Irischen Pubs _McCools_ hielten einen eigens für uns aus der Heimat importierten _Magner's_ Cider für uns bereit. Der Tag war nicht nur gerettet, er war perfektioniert worden.
+Besonders gut gefiel uns als [Finnland-Fans](/tag/finnland/) natürlich die _Ravintola Ulvova Myllari_ , leider öffnet die jedoch erst abends die Tür, weshalb wir weiterzogen und uns ein weiteres Mal freuen durften. Die unglaublich freundlichen Wirte des original Irischen Pubs _McCools_ hielten einen eigens für uns aus der Heimat importierten _Magner's_ Cider für uns bereit. Der Tag war nicht nur gerettet, er war perfektioniert worden.
 
 Nur schweren Herzens packten wir unsere Kameras wieder in den Rucksack, um unsere Tour fortzusetzen. Am Kai wartete schon die nächste Fähre auf uns, die uns nach Puerto de Mogan brachte. Das eindeutig Niederländisch angehauchte Örtchen wird auch gerne mal liebevoll "Klein Venedig" genannt. Rund um den gemütlichen Hafen schlendert man über Brücken und durch Gässchen.
 

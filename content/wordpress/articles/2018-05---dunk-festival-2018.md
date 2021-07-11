@@ -71,7 +71,7 @@ Im Titel seht Ihr schon mal mein Lieblingsbild. Es ist am Donnerstag beim Auftri
 
 ## Ef und worriedaboutsatan
 
-Meine Favoriten waren Ef aus Schweden, Besides, aswekeepsearching aus Indien, Soup aus Norwegen, die Chellistin Jo Quail und das Elektronik-Duo worriedaboutsatan aus [Großbritannien](/tag/slow-travel/britische-inseln), The Ills aus der Slowakei, Grails aus den USA, La Bestia De Gevaudan und Tortuganonima aus Chile, The Ocean aus Deutschland und der Schweiz und natürlich Caspian und <a>Russian Circles</a> aus den USA.
+Meine Favoriten waren Ef aus Schweden, Besides, aswekeepsearching aus Indien, Soup aus Norwegen, die Chellistin Jo Quail und das Elektronik-Duo worriedaboutsatan aus [Großbritannien](/tag/britische-inseln/), The Ills aus der Slowakei, Grails aus den USA, La Bestia De Gevaudan und Tortuganonima aus Chile, The Ocean aus Deutschland und der Schweiz und natürlich Caspian und <a>Russian Circles</a> aus den USA.
 
 Insgesamt war das Event auch in diesem Jahr wieder ein internationales. Bands und Zuschauer reisten aus den verschiedensten Winkeln der Erde von Japan bis Kanada an. Ein bunter Haufen glücklicher Menschen mit einer gemeinsamen Liebe also: Post-Rock.
 

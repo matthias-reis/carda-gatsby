@@ -42,7 +42,7 @@ subTitle: Nudeln statt Plastik
 
 **Das Thema Umweltverschmutzung durch Kunststoff ist im Moment ganz groß in der Presse. Was sehr gut ist. Besonders für Aufmerksamkeit gesorgt haben in letzter Zeit Strohalme aus Plastik. Sie werden nur einmal benutzt und landen dann oft in der Natur.**
 
-Viele Bars und Geschäfte setzen daher seit einiger Zeit auf Strohhalme aus Papier statt aus [Plastik](/?s=Plastik). Auch Maisstärke ist ganz groß im Kommen. Bäckermeister Hans-Martin Rolf aus Bielefeld bietet seinen Kunden, die seinen Milchkaffee gerne durch einen Strohhalm trinken, jetzt einen ganz besonderen Ersatz an: Makkaroni!
+Viele Bars und Geschäfte setzen daher seit einiger Zeit auf Strohhalme aus Papier statt aus [Plastik](/tag/plastik/). Auch Maisstärke ist ganz groß im Kommen. Bäckermeister Hans-Martin Rolf aus Bielefeld bietet seinen Kunden, die seinen Milchkaffee gerne durch einen Strohhalm trinken, jetzt einen ganz besonderen Ersatz an: Makkaroni!
 
 Nachdem einer Mitarbeiterin die Idee gekommen war, startete man einen Test und siehe da: Es funktionierte! Bei heißem Kaffee halten die Nudeln rund 20 Minuten durch, bevor sie anfangen weich zu werden. Genug Zeit, um einen Latte Macchiato zu genießen. Für Cola oder Wasser kann man sich sogar noch mehr Zeit lassen.
 

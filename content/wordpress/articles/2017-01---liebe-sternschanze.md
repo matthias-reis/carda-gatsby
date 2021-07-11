@@ -36,7 +36,7 @@ year: '2017'
 month: '01'
 ---
 
-**Meine** [\*\*Flarf-Gedichte\_\_](/?s=Flarf)** kennt Ihr nun ja schon. Auch um Hamburg ging es darin schon, das letzte habe ich der Elbe gewidmet. Heute ist es an der Zeit, mal etwas über die Schanze zu schreiben.**
+**Meine [Flarf-Gedichte](/tag/flarf/)** kennt Ihr nun ja schon. Auch um Hamburg ging es darin schon, das letzte habe ich der Elbe gewidmet. Heute ist es an der Zeit, mal etwas über die Schanze zu schreiben.\*\*
 
 ## Liebe Sternschanze
 

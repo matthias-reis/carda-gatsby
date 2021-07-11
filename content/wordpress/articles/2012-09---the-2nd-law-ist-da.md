@@ -119,7 +119,7 @@ Bei "Save Me" holen einen die Jungs wieder zurück auf den Teppich, um einen mit
 
 "Liquid State" kommt dann wieder brachialer daher, Gitarren über Bass-Amps, die durchaus ein bisschen in Richtung Stoner-Rock gehen, der sich jedoch gleich wieder metamorph in andere Verwinkelungen der Musikstile entwickelt. Glamourös. Schwer zu beschreiben, die Musikkritiker an der Nase herumführend und dabei triumphierend.
 
-"Unsustainable" klingt, [wie schon beschrieben](//?s=muse) dramatisch. Eine roboterhafte Stimme mischt sich immer wieder in eine Mischung aus Chören und Geigen. Durchaus tanzbar und gleichzeitig das wohl progressivste Stück auf der ganzen Platte.
+"Unsustainable" klingt, [wie schon beschrieben](/2012/08/muse-stellen-neue-single-madness-vor/) dramatisch. Eine roboterhafte Stimme mischt sich immer wieder in eine Mischung aus Chören und Geigen. Durchaus tanzbar und gleichzeitig das wohl progressivste Stück auf der ganzen Platte.
 
 Abgerundet wird dieses perfekt ausgefeilte Konzeptalbum von "Isolated Systems", getragen von Synthesizer-Klängen und elektronischen Bässen.
 
