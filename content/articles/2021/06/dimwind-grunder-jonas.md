@@ -128,7 +128,7 @@ Ja, ich weiß, dass der große Unterschied auf höherer politischer Ebene gemach
 
 **Jonas:** Vielen Dank für dieses Interview, Anne, es hat Spaß gemacht, sich mit Dir zu unterhalten!
 
-[Hier findet Ihr meine Review zum Dimwind Debüt-Album "Slow Wave Violence"](http://cardamonchai.com/2021/05/dimwind-slow-wave-violence/).
+[Hier findet Ihr meine Review zum Dimwind Debüt-Album "Slow Wave Violence"](/2021/05/dimwind-slow-wave-violence/).
 
 ## Dimwind – "Slow Wave Deceit"
 

@@ -35,7 +35,7 @@ Als Kind bekam ich jedes Jahr von meinem Vater einen Katzenkalender geschenkt. D
 
 ## Katzen in allen Lebenslagen
 
-Meine Bilder sind von unterschiedlicher Qualität, für einige konnte ich mir viel Zeit nehmen, bei anderen habe ich mit der Mobilfunkgerät-Klickse einfach draufgehalten. Die **Fotos** habe ich unter anderem in der Türkei, in England, auf Bali auf Sri Lanka und bei uns aufgenommen, es sind Straßenkatzen dabei, Wildkatzen, Hauskatzen und Tierheimkatzen, ja sogar ein Luwak, eine sogenannte Kaffeekatze und [Chili und Oskar](http://cardamonchai.aithir.de/2012/08/ode-an-den-kater/) durften in der Galerie natürlich auch nicht fehlen.
+Meine Bilder sind von unterschiedlicher Qualität, für einige konnte ich mir viel Zeit nehmen, bei anderen habe ich mit der Mobilfunkgerät-Klickse einfach draufgehalten. Die **Fotos** habe ich unter anderem in der Türkei, in England, auf Bali auf Sri Lanka und bei uns aufgenommen, es sind Straßenkatzen dabei, Wildkatzen, Hauskatzen und Tierheimkatzen, ja sogar ein Luwak, eine sogenannte Kaffeekatze und [Chili und Oskar](/2012/08/ode-an-den-kater/) durften in der Galerie natürlich auch nicht fehlen.
 
 Es lohnt sich übrigens, immer mal wieder reinzuschauen, die **Galerie** wird ständig erweitert, sobald mir Katzen begegnen, werden sie natürlich auch weiterhin abgelichtet.
 

@@ -126,7 +126,7 @@ Yes, I know the big difference is made higher up on a political level, and I rea
 
 **Jonas:** Thank you so much for doing this interview Anne, it was nice talking to you!
 
-[Read my review on Dimwind's debut album "Slow Wave Violence"](http://cardamonchai.com/2021/05/dimwind-slow-wave-violence-en/).
+[Read my review on Dimwind's debut album "Slow Wave Violence"](/2021/05/dimwind-slow-wave-violence-en/).
 
 ## Dimwind – "Slow Wave Deceit"
 

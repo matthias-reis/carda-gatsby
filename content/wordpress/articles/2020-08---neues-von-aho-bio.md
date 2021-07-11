@@ -49,7 +49,7 @@ Die Gründer⋆innen von Aho Bio nehmen ihre Verantwortung wichtig und wollen da
 
 Ganz neu auf dem Markt ist jetzt ein ganz besonderes Aho Produkt: [Heimische Hanfsamen](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2Fproducts%2Fdeutsche-hanfsamen%3F_pos%3D2%26_sid%3D9e4dc19c3%26_ss%3Dr). Die geschälten Samen sind gesund und lecker. Mir schmecken sie besonders als Topping auf Salaten und Bowls. Der nussige Geschmack ist sehr angenehm.
 
-Falls Ihr Euch das jetzt fragt: Das vegane Superfood macht nicht high. Die Samen sind dafür wahre Nährstoffbömbchen. In 100 Gramm Hanfsamen stecken 31 Gramm Eisen sowie Magnesium, Zink und Vitamin B und E. Hinzu kommen wertvolle [Omega-6 und Omega-3 Fettsäuren](http://cardamonchai.com/2020/04/fischratgeber-hinterfragt/) (Verhältnis 3:1)
+Falls Ihr Euch das jetzt fragt: Das vegane Superfood macht nicht high. Die Samen sind dafür wahre Nährstoffbömbchen. In 100 Gramm Hanfsamen stecken 31 Gramm Eisen sowie Magnesium, Zink und Vitamin B und E. Hinzu kommen wertvolle [Omega-6 und Omega-3 Fettsäuren](/2020/04/fischratgeber-hinterfragt/) (Verhältnis 3:1)
 
 <RemoteImage
   alt={`Hanfsamen`}
@@ -61,6 +61,6 @@ Falls Ihr Euch das jetzt fragt: Das vegane Superfood macht nicht high. Die Samen
 
 Der Verkauf ging vor ein paar Wochen los. [Ihr findet die heimischen Hanfsamen](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2Fproducts%2Fdeutsche-hanfsamen%3F_pos%3D2%26_sid%3D9e4dc19c3%26_ss%3Dr) zusammen mit den anderen Produkten im [Aho Bio Shop](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2F).
 
-Und noch eine weitere Neuigkeit gibt es aus den Reihen von Aho Bio: Die Verpackungen wurde neu designt. Mir gefallen sie jetzt noch besser als vorher. [Meine Lieblingscracke](http://cardamonchai.com/2020/04/rohe-vegane-cracker-von-aho/)r schmecken nach wie vor genauso lecker. Am Geschmack hat sich nichts verändert.
+Und noch eine weitere Neuigkeit gibt es aus den Reihen von Aho Bio: Die Verpackungen wurde neu designt. Mir gefallen sie jetzt noch besser als vorher. [Meine Lieblingscracke](/2020/04/rohe-vegane-cracker-von-aho/)r schmecken nach wie vor genauso lecker. Am Geschmack hat sich nichts verändert.
 
-Vor Kurzem habe ich Jannis von Aho Bio kennengelernt. Er hat mir alles über seine Idee, rohe vegane Cracker anzubieten und das Bio-Startup erzählt. [Den Artikel findet Ihr hier](http://cardamonchai.com/2020/04/rohe-vegane-cracker-von-aho/). Psst: Darin steckt auch ein 5 Prozent Gutschein, den Ihr im [Aho Bio Onlineshop](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2F) einlösen könnt!
+Vor Kurzem habe ich Jannis von Aho Bio kennengelernt. Er hat mir alles über seine Idee, rohe vegane Cracker anzubieten und das Bio-Startup erzählt. [Den Artikel findet Ihr hier](/2020/04/rohe-vegane-cracker-von-aho/). Psst: Darin steckt auch ein 5 Prozent Gutschein, den Ihr im [Aho Bio Onlineshop](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2F) einlösen könnt!

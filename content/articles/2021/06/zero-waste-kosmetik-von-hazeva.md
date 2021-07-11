@@ -5,13 +5,9 @@ typeName: Produkttest
 title: Zero Waste Kosmetik von Hazeva
 subTitle: Natürlich und ohne Plastik
 seoTitle: Zero Waste Kosmetik von Hazeva – Natürlich pflegen ohne Plastik
-ogTitle: ""
-description: Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero
-  Waste Kosmetik an. Ich habe einige der Produkte getestet.
-excerpt: Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero
-  Waste Kosmetik an. Ich habe einige der Produkte getestet und möchte sie Euch
-  heute gerne vorstellen. Neben einem Körperöl und einem festen Conditioner habe
-  ich auch die Zahnpflegeprodukte ausprobiert.
+ogTitle: ''
+description: Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero Waste Kosmetik an. Ich habe einige der Produkte getestet.
+excerpt: Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero Waste Kosmetik an. Ich habe einige der Produkte getestet und möchte sie Euch heute gerne vorstellen. Neben einem Körperöl und einem festen Conditioner habe ich auch die Zahnpflegeprodukte ausprobiert.
 image: /img/2021-06-04-hazeva-4final.jpg
 ogImage: /img/zero-waste-kosmetik-hazeva-fb.jpg
 labels:
@@ -26,11 +22,11 @@ labels:
   - vegane Kosmetik
   - Zero Waste Kosmetik
 advertisement: true
-copyright: ""
+copyright: ''
 focusKeyword: Zero Waste Kosmetik
 affiliate: true
 language: de
-languageLink: ""
+languageLink: ''
 ---
 
 **Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero Waste Kosmetik an. Ich habe einige der Produkte getestet und möchte sie Euch heute gerne vorstellen. Neben einem Körperöl und einem festen Conditioner habe ich auch die Zahnpflegeprodukte ausprobiert.**
@@ -59,7 +55,7 @@ Das Conditioner-Stück ist zu 100 Prozent natürlich und vegan. Die enthaltenen 
 
 ## Trockenshampoo für blondes Haar
 
-Das Trockenshampoo für blondes Haar wird auf jeden Fall zum festen Bestandteil meiner [Festival-Packliste](http://cardamonchai.com/2015/03/die-ultimative-vegane-festivalliste/). Im Gegensatz zu herkömmlichem Trockenshampoo oder Babypuder kommt es ohne umweltschädliche Sprühdose oder Plastikverpackung aus. Die Dose besteht komplett aus Recycling-Karton und kann sogar kompostiert werden! Und nicht nur die Verpackung hat mich überzeugt. Ich kann es mindestens so präzise anwenden, wie mein altes Sprüh-Trockenshampoo. Es lässt sich ganz leicht verteilen und meine Haare fühlen sich danach weder kratzig noch beschwert an, sondern einfach nur frisch. Außerdem duftet es schön dezent. Wenn Euch auch ab und zu einfach die Zeit zum Haarewaschen fehlt, kann ich es Euch auf alle Fälle empfehlen. Neben dem für blonde Haare gibt es auch eines für schwarze und eines für braune Haare.
+Das Trockenshampoo für blondes Haar wird auf jeden Fall zum festen Bestandteil meiner [Festival-Packliste](/2015/03/die-ultimative-vegane-festivalliste/). Im Gegensatz zu herkömmlichem Trockenshampoo oder Babypuder kommt es ohne umweltschädliche Sprühdose oder Plastikverpackung aus. Die Dose besteht komplett aus Recycling-Karton und kann sogar kompostiert werden! Und nicht nur die Verpackung hat mich überzeugt. Ich kann es mindestens so präzise anwenden, wie mein altes Sprüh-Trockenshampoo. Es lässt sich ganz leicht verteilen und meine Haare fühlen sich danach weder kratzig noch beschwert an, sondern einfach nur frisch. Außerdem duftet es schön dezent. Wenn Euch auch ab und zu einfach die Zeit zum Haarewaschen fehlt, kann ich es Euch auf alle Fälle empfehlen. Neben dem für blonde Haare gibt es auch eines für schwarze und eines für braune Haare.
 
 ## Zahnpflegeset
 

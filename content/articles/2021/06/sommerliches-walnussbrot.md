@@ -5,12 +5,8 @@ typeName: Beitrag
 title: Sommerliches Walnussbrot
 subTitle: Saftiger Sauerteig-Genuss
 seoTitle: Sommerliches Walnussbrot – Saftiger Sauerteig-Genuss
-description: Walnussbrot gehört für mich zum Sommer dazu. Am besten schmeckt es
-  in Kombination mit einem richtig schönen knackigen Salat.
-excerpt: Walnussbrot gehört für mich zum Sommer dazu. Am besten schmeckt es in
-  Kombination mit einem richtig schönen knackigen Salat. Vorzugsweise bei einem
-  Picknick im Grünen. Heute verrate ich Euch mein Rezept – es lässt sich nämlich
-  ganz leicht zubereiten.
+description: Walnussbrot gehört für mich zum Sommer dazu. Am besten schmeckt es in Kombination mit einem richtig schönen knackigen Salat.
+excerpt: Walnussbrot gehört für mich zum Sommer dazu. Am besten schmeckt es in Kombination mit einem richtig schönen knackigen Salat. Vorzugsweise bei einem Picknick im Grünen. Heute verrate ich Euch mein Rezept – es lässt sich nämlich ganz leicht zubereiten.
 image: /img/walnussbrot.jpg
 ogImage: /img/walnussbrot-fb.jpg
 labels:
@@ -28,22 +24,23 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Walnussbrot, auch "Wurzelbrot" genannt, gehört für mich zum Sommer dazu. Am besten schmeckt es in Kombination mit einem richtig schönen knackigen Salat. Vorzugsweise bei einem Picknick im Grünen.**
 
 Weil Walnussbrot leider gar nicht so einfach zu bekommen ist und weil ich einfach gerne Brot backe, habe ich inzwischen mein eigenes Rezept. Weil ich gerne teile, schreibe ich es heute für Euch auf. Ihr braucht dafür nur ein paar Zutaten und etwas Zeit.
 
 ## Zutaten für das sommerliche Walnussbrot
 
-* 400 g Dinkel-Vollkornmehl
-* 600 g Roggen-Vollkornmehl
-* 2 Handvoll Walnüsse (Ich verwende [Walnüsse aus bio-veganem Anbau](http://cardamonchai.com/2019/09/hof-windkind-walnuss-baum-adoptieren/) verwendet und muss sagen: Es lohnt sich sehr)
-* 1,5 TL Salz
-* 1 Pkg. Roggen-Sauerteig
-* 2 Pkg. Hefe á 7 g
+- 400 g Dinkel-Vollkornmehl
+- 600 g Roggen-Vollkornmehl
+- 2 Handvoll Walnüsse (Ich verwende [Walnüsse aus bio-veganem Anbau](/2019/09/hof-windkind-walnuss-baum-adoptieren/) verwendet und muss sagen: Es lohnt sich sehr)
+- 1,5 TL Salz
+- 1 Pkg. Roggen-Sauerteig
+- 2 Pkg. Hefe á 7 g
 
 ## Zubereitung
 
-Ihr könnt für das Walnussbrot [selbst gemachten Sauerteig](http://cardamonchai.com/2021/04/sauerteig-grundrezept/) verwenden oder wie hier im Rezept angegeben welchen aus der Packung verwenden. Das Brot gelingt damit genau so gut. Ihr findet ihn in jedem Drogeriemarkt oder Reformhaus.
+Ihr könnt für das Walnussbrot [selbst gemachten Sauerteig](/2021/04/sauerteig-grundrezept/) verwenden oder wie hier im Rezept angegeben welchen aus der Packung verwenden. Das Brot gelingt damit genau so gut. Ihr findet ihn in jedem Drogeriemarkt oder Reformhaus.
 
 Gebt alle Zutaten zusammen in eine Rührschüssel und knetet sie zu einem schönen Teig. Diesen lasst Ihr anschließen für eine gute Stunde an einem warmen Ort abgedeckt gehen.
 
