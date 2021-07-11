@@ -21,7 +21,7 @@ export const Subtitle = styled(BaseTitle)`
   margin: 0 0 ${space[3]} 0;
 `.withComponent('p');
 
-export const CompactTitle = styled(BaseTitle)`
+export const CompactTitle = styled(BaseTitle.withComponent('h3'))`
   font-size: ${fontSize[5]};
   color: ${color.text10};
   font-weight: 300;
