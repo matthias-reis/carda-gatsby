@@ -140,7 +140,7 @@ export const ArticlePage: React.FC<ArticleProps> = ({
               )}
               Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst.
               Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-              meiner <Link href="/werbung">Transparenz-Seite</Link>.
+              meiner <Link href="/transparenz">Transparenz-Seite</Link>.
             </AdAndAffiliateDisclaimer>
           </>
         )}
