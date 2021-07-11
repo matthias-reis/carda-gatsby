@@ -123,7 +123,7 @@ Neben den finsteren Kapiteln, beleuchtet der BUND auch wieder positive Entwicklu
 
 Das Leid der Tiere und die schlechten Arbeitsverhältnisse in deutschen Schlachthöfen bearbeiten die Autor⋆innen ab Seite 38. Der Ruf nach strengeren Kontrollen wird ja spätestens seit der Corona-Krise immer lauter. Im letzten Kapitel geht es um die Vorschläge und neue Ansätze für Klima- und Umwelt-verträglichere Tierhaltung und Alternativen zum Fleischkonsum.
 
-[Der BUND hat den Fleischatlas hier zum Download bereitgestellt](https://www.bund.net/fileadmin/user_upload_bund/publikationen/massentierhaltung/massentierhaltung_fleischatlas_2021.pdf). Ihr könnt beim BUND auch [eine gedruckte Ausgabe anfordern](https://www.bund.net/service/publikationen/detail/publication/fleischatlas-2021/). Wenn Ihr Euch tiefer mit dem Thema auseinandersetzen möchtet, kann ich Euch den [Fleischatlas Podcast empfehlen](boell.de/fl).
+[Der BUND hat den Fleischatlas hier zum Download bereitgestellt](https://www.bund.net/fileadmin/user_upload_bund/publikationen/massentierhaltung/massentierhaltung_fleischatlas_2021.pdf). Ihr könnt beim BUND auch [eine gedruckte Ausgabe anfordern](https://www.bund.net/service/publikationen/detail/publication/fleischatlas-2021/).
 
 **Hinweis zum Urheberrecht: Bei den von mir verwendeten Bildern handelt es sich um Screenshots [aus dem Fleischatlas 2021](https://www.bund.net/service/publikationen/detail/publication/fleischatlas-2021/), Bartz/Stockmar, CC BY 4.0. Das Titelbild habe ich 2012 in England fotografiert.**
 
