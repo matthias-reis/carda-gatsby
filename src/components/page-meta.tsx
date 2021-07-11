@@ -14,9 +14,7 @@ export const PageMeta: React.FC<{
   }, [meta, path]);
   return (
     <Helmet>
-      <title>
-        {meta.frontmatter.seoTitle || meta.frontmatter.title} | cardamonchai.com
-      </title>
+      <title>{meta.frontmatter.seoTitle || meta.frontmatter.title}</title>
       <meta name="description" content={meta.frontmatter.description} />
       <link
         rel="canonical"
