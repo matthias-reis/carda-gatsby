@@ -17,12 +17,6 @@ export const FooterNavigation: React.FC = () => (
           Über mich
         </Item>
         <Item
-          to="/publikationen"
-          onClick={() => event('link/click', 'link', 'footer/publications')}
-        >
-          Publikationen
-        </Item>
-        <Item
           to="/mein-mediakit"
           onClick={() => event('link/click', 'link', 'footer/mediakit')}
         >
