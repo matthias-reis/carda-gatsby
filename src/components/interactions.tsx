@@ -34,6 +34,6 @@ const InteractionsContainer = styled.nav`
 
   @media (max-width: 959px) {
     top: auto;
-    bottom: ${space[3]};
+    bottom: ${space[4]};
   }
 `;
