@@ -13,7 +13,7 @@ export const Header: React.FC = () => (
   <Wrapper>
     <HomeLink to="/" onClick={() => event('link/click', 'link', 'header/home')}>
       <Logo />
-      <h1>cardamonchai.com</h1>
+      <p>cardamonchai.com</p>
     </HomeLink>
     <RightSide>
       <MainNav />
@@ -38,7 +38,7 @@ const HomeLink = styled(Link)`
   display: flex;
   align-items: center;
   justify-content: center;
-  h1 {
+  p {
     display: none;
     margin: 0;
   }
