@@ -49,9 +49,9 @@ Wenn man einmal mitbekommen hat, was passieren kann, [wenn Mikroplastik ins Trin
 
 Immer mehr Firmen bringen Zero Waste Produkte auf den Markt – Kosmetik ohne überflüssige Umverpackungen aus Plastik. Während es vor ein paar Jahren festes Shampoo und Duschgel oder Deo mit Papierverpackung ausschließlich bei sehr kleinen unbekannten Firmen gabt, gibt es sie heute auch von den Drogeriemarkt-Marken. Die Umwelt freut das natürlich.
 
-## Fazit: Vegane und nachhaltige Kosmetik ist im Kommen
-
 Inzwischen ist es auch längst nicht mehr so schwierig, herauszufinden, ob ein Produkt vegan ist. Während man vor fünf oder sechs Jahren oft noch eine langwierige Produktanfrage an ein Unternehmen schicken musste und dieses dann häufig sogar gar keine Antwort parat hatte, wirkt der "vegan"-Aufdruck auf Beauty-Produkten heute wie Werbung. Was genau drin steckt und wie das jeweilige Produkt verpackt ist, sollte man natürlich auch weiterhin hinterfragen.
+
+## Fazit: Vegane und nachhaltige Kosmetik ist im Kommen
 
 Denn natürlich haben auch die kritischen Stimmen ihre Berechtigung, die vor Green Washing und dem Ausnutzen solcher Logos für Werbung warnen. Der Trend, der sich im Hinblick auf die Kosmetik-Industrie insgesamt abzeichnet, ist dennoch mehr als positiv. Je mehr nachhaltige und vegane Beauty-Produkte gekauft werden, desto mehr davon wird es auch geben. Die Nachfrage bestimmt wie immer den Markt. Auf Dauer wird der nicht unaufhaltbare Trend also auch dazu führen, dass immer mehr Produkte, die den neuen Anforderungen der Menschen nicht entsprechen können, aus den Regalen verschwinden.
 
