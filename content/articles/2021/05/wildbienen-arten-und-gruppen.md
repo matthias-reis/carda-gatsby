@@ -74,4 +74,4 @@ Wenn sich zum Beispiel in einem Insektenhotel oder einer anderen "Bienenunterkun
 
 Wenn Ihr bei Euch daheim ein bisschen Platz habt, neugierig seid und gerne etwas für den Bienenschutz tun möchtet, kann ich Euch nur dazu raten, es mal mit einem Insektenhotel zu versuchen. Bienen sind wirklich dankbare Gartenbewohner. Ihr braucht eigentlich nur dafür zu sorgen, dass sich [immer genug bienenfreundliche Pflanzen](/2019/05/insektenhotel-bienen-auf-dem-balkon/) in ihrer Umgebung befinden und das Insektenhaus vor Regen geschützt bleibt. Mehr brauchen sie nicht. Außerdem sorgen sie natürlich dafür, dass das Ökosystem nicht aus dem Gleichgewicht gerät und bei Euch alles schön wächst und gedeiht.
 
-    <Gallery name="wildbienen-gruppen-2" />
+<Gallery name="wildbienen-gruppen-2" />
