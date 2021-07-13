@@ -10,7 +10,7 @@ description: Vegane und nachhaltige Schönheitsprodukte sind im Trend. Immer meh
   auf Nachhaltigkeit zu achten und Tierleid-freie Produkte zu kaufen, sondern
   auch bei Kosmetik.
 image: /img/douglas-clean-beauty.jpg
-copyrigt: Douglas / Clean Beauty
+copyrigt: Douglas/Clean Beauty
 ogImage: /img/douglas-clean-beauty-fb.jpg
 labels:
   - Nachhaltige Schönheit
@@ -37,7 +37,7 @@ Das Gute daran ist: Auch Menschen, die früher nicht darauf geachtet haben, ob e
 
 ## Wir beschäftigen uns heute mehr damit, was in unserer Kosmetik steckt
 
-![Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas / Clean Beauty](/img/douglas-clean-beauty-1-.jpg "Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas / Clean Beauty")
+![Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas/Clean Beauty](/img/douglas-clean-beauty-1-.jpg "Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas/Clean Beauty")
 
 Denn man ganz ehrlich: Wer möchte schon, dass ein Tier dafür leidet, dass ich eine Bodylotion oder eine Mascara verwenden kann? Niemand. Viele Menschen hatten die Problematik jedoch lange Jahre nicht auf dem Schirm. Wenn man sich nicht damit beschäftigt, kommt man natürlich auch erstmal nicht auf die Idee, die Dinge zu hinterfragen. Wenn man allerdings durch Hinweise wie "Cruelty Free", "Nicht an Tieren getestet" oder "Reine Naturkosmetik" angesprochen wird, ist die Wahrscheinlichkeit groß, dass man sich weiter informiert und in Zukunft mehr darauf achtet, was man in seinen Warenkorb packt.
 
@@ -56,3 +56,5 @@ Inzwischen ist es auch längst nicht mehr so schwierig, herauszufinden, ob ein P
 Denn natürlich haben auch die kritischen Stimmen ihre Berechtigung, die vor Green Washing und dem Ausnutzen solcher Logos für Werbung warnen. Der Trend, der sich im Hinblick auf die Kosmetik-Industrie insgesamt abzeichnet, ist dennoch mehr als positiv. Je mehr nachhaltige und vegane Beauty-Produkte gekauft werden, desto mehr davon wird es auch geben. Die Nachfrage bestimmt wie immer den Markt. Auf Dauer wird der nicht unaufhaltbare Trend also auch dazu führen, dass immer mehr Produkte, die den neuen Anforderungen der Menschen nicht entsprechen können, aus den Regalen verschwinden.
 
 Längst nicht "nur" Veganer⋆innen achten darauf, auch Gesundheitsbewussten ist es wichtig, kein Tier in Puder und Lippenstiften zu finden. Kein Wunder: in vielen Fällen ist das gar nicht nötig. Oft dienen Dinge wie Milchpulver oder tierische Fette nur als Füllmaterial. Sie werden bei vielen Produkten schlichtweg eingesetzt, um Geld zu sparen. Klar: hochwertige pflanzliche Öle sind nicht ganz billig. Doch die Haut dankt es uns, wenn wir darauf achten, womit wir sie da einreiben. Und wenn man dafür auf unnötige Verpackung verzichtet, ist das Produkt in Summe auch gar nicht teurer als das, was man früher benutzt hat.
+
+Bilder: © Douglas/Clean Beauty
