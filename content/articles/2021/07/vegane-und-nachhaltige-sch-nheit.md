@@ -37,7 +37,7 @@ Das Gute daran ist: Auch Menschen, die früher nicht darauf geachtet haben, ob e
 
 ## Wir beschäftigen uns heute mehr damit, was in unserer Kosmetik steckt
 
-![Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas / Clean Beauty]( "Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas / Clean Beauty")
+![Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas / Clean Beauty](/img/douglas-clean-beauty-1-.jpg "Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas / Clean Beauty")
 
 Denn man ganz ehrlich: Wer möchte schon, dass ein Tier dafür leidet, dass ich eine Bodylotion oder eine Mascara verwenden kann? Niemand. Viele Menschen hatten die Problematik jedoch lange Jahre nicht auf dem Schirm. Wenn man sich nicht damit beschäftigt, kommt man natürlich auch erstmal nicht auf die Idee, die Dinge zu hinterfragen. Wenn man allerdings durch Hinweise wie "Cruelty Free", "Nicht an Tieren getestet" oder "Reine Naturkosmetik" angesprochen wird, ist die Wahrscheinlichkeit groß, dass man sich weiter informiert und in Zukunft mehr darauf achtet, was man in seinen Warenkorb packt.
 
