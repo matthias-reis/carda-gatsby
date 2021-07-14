@@ -159,7 +159,7 @@ Wir haben schon angefangen, für das nächste Album zu schreiben und haben sogar
 
 **Peter D:** Danke!
 
-**Thomas:** Danke, dass Sie Interesse zeigen! 
+**Thomas:** Danke für Dein Interesse!
 
 **Peter L:** Danke!
 
