@@ -86,6 +86,8 @@ But I think the mood on the album reflects the moods of many people around the w
 
 **Anne:** Gina Skowz painted a fantastic horror artwork for "Sult". It is so cool! I can't imagine a better artwork for this album. Is she a friend of yours?
 
+![Kollapse – "Sult" Artwork: Gina Skowz](/img/kollapse-1-.jpg "Kollapse – \"Sult\" Artwork: Gina Skowz")
+
 **Thomas:** I grew up on noise rock in the early nineties. Through the Amphetamine Reptile label in the US, I found out about Gina, as she is somewhat associated with these noise rock creeps (laughs). She is a fantastic artist.
 
 ## "We knew there was something we needed to change"
