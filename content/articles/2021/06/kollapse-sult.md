@@ -38,7 +38,7 @@ Weil ich die Ehre hatte, mir das Album schon mal anzuhören, fasse ich hier mal 
 
 ## Kollapse haben es spannend gemacht
 
-![Kollapse – "Sult" Artwork: Gina Skowz](/img/kollapse.jpeg 'Kollapse – "Sult"' "Kollapse – \"Sult\" Artwork: Gina Skowz")
+![Kollapse – "Sult" Artwork: Gina Skowz](/img/kollapse-1-.jpg "Kollapse – \"Sult\" Artwork: Gina Skowz")
 
 Erscheinen wird "Sult" in Zusammenarbeit mit Maniyax Records, Dingleberry Records und Virkelighedsfjern auf Fysisk Format.
 
