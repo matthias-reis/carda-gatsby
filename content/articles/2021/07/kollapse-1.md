@@ -45,7 +45,7 @@ languageLink: /2021/07/kollapse-interview-en/
 
 **Peter L:** Ich bin sehr zufrieden damit. Es war ein wirklich langer Prozess. Nachdem mich die Jungs gefragt hatten, ob ich Teil der neuen Bandkonstellation sein möchte, habe ich viel Zeit damit verbracht, sie kennenzulernen – sowohl musikalisch als auch persönlich. Das Album ist so etwas wie der Höhepunkt von ein paar Jahren Arbeit, in denen wir versucht haben, eine gemeinsame Basis und eine musikalische Grundlage zu finden – und ich denke, wir sind in diesem Prozess sehr weit gekommen.
 
-![Kollapse | large](/img/kollapse-4-.jpg "Kollapse") 
+![Kollapse | large](/img/kollapse-4-.jpg "Kollapse")
 
 Selbst nachdem wir beschlossen hatten, "jetzt sind wir eine Band" und "jetzt sind wir zu dritt" und tatsächlich mit der Planung der Aufnahmen anfingen, gab es noch Stolpersteine auf dem Weg. Der ganze Weg bis zu diesem Moment war ein bisschen chaotisch – aber es könnte mit dieser Band wahrscheinlich gar nicht anders sein. Ich bin glücklich damit. Ich freue mich, dass wir "Sult" endlich veröffentlicht haben, dass die Platte den Leuten gefällt und dass wir sie zusammen gemacht haben!
 
@@ -86,8 +86,10 @@ Einige Kritiker⋆innen haben davon gesprochen, dass die Platte viel von dem erz
 Ich denke aber, die Stimmung auf dem Album spiegelt die Stimmung vieler Menschen auf der Welt im Moment wider – Verzweiflung, Angst, Furcht, Einsamkeit und so weiter. Und das ist vielleicht auch einer der Gründe, warum es bei den Leuten Resonanz findet. 
 
 **Thomas:** Ich liebe es, dass Du das Gefühl einer dunklen Atmosphäre als "vertraut" beschreibst. Ich denke, tief im Inneren teilen wir als Menschen viele Kernängste und Befürchtungen. Mir persönlich ist es sehr wichtig, mir selbst treu zu bleiben, egal wie schwerfällig oder prätentiös das auf andere Menschen wirken mag. Wenn sich jemand wirklich mit dem Album verbindet (und ich weiß, dass es nicht für jeden etwas ist), ist das das größte Kompliment, das wir bekommen können. Ich denke, dass wir uns als Band langsam auf etwas zubewegen, das einzigartig für Kollapse ist, und in Zukunft wird sich das noch weiter ausprägen.
- 
+
 **Anne:** Gina Skowz hat ein fantastisches Horror-Artwork für "Sult" gemalt. Es ist so cool! Ich kann mir kein besseres Artwork für dieses Album vorstellen. Seid Ihr mit Ihr befreundet?
+
+![Kollapse – "Sult" Artwork: Gina Skowz](/img/kollapse-1-.jpg "Kollapse – \"Sult\" Artwork: Gina Skowz")
 
 **Thomas:** Ich bin in den frühen Neunzigern mit Noise-Rock aufgewachsen. Durch das amerikanische Label Amphetamine Reptile Label bin ich auf Gina aufmerksam geworden, da sie irgendwie mit diesen Noise-Rock Fieslingen in Verbindung gebracht wird (lacht). Sie ist eine fantastische Künstlerin.
 
@@ -168,5 +170,3 @@ Wir haben schon angefangen, für das nächste Album zu schreiben und haben sogar
 ## Kollapse – "Drift"
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3177854524/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2965997501/transparent=true/" seamless><a href="https://kollapse.bandcamp.com/album/sult">SULT by kollapse</a></iframe>
-
-
