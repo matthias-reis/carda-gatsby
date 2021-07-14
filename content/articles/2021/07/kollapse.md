@@ -25,7 +25,7 @@ labels:
 focusKeyword: Kollapse
 advertisement: false
 affiliate: false
-language: de
+language: en
 languageLink: /2021/07/kollapse-interview/
 ---
 **Some days ago I reviewed the new Kollapse Album "Sult". Now I had the chance to talk to the post-hardcore trio from Danmark. In our interview, we also talked about the band's tour plans.**
