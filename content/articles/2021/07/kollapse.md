@@ -158,6 +158,8 @@ We already started writing for the next album and paid upfront for studio time. 
 
 **Peter L.** Thank you!
 
+[Please enjoy my review on the new Kollapse Album "Sult"](/2021/06/kollapse-sult-en/).
+
 ## Kollapse – "Drift"
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3177854524/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2965997501/transparent=true/" seamless><a href="https://kollapse.bandcamp.com/album/sult">SULT by kollapse</a></iframe>
