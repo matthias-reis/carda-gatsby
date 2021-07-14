@@ -107,7 +107,7 @@ Wir hatten so viele widersprüchliche Vorstellungen von der Ästhetik und davon,
 
 **Anne:** Die neue Konstellation ist dann also perfekt?
 
-**Peter D:** Auf jeden Fall! Ich wollte schon immer mit Peter spielen! Sogar in meiner alten Band haben wir darüber gesprochen, ihn zu fragen, ob er der Band beitreten möchte, aber wir haben es nie getan. Deshalb bin ich froh, dass ich Thomas davon überzeugen konnte, dass Peter der Richtige ist.
+**Peter D:** Auf jeden Fall! Ich wollte schon immer mit Peter L spielen! Sogar in meiner alten Band haben wir darüber gesprochen, ihn zu fragen, ob er der Band beitreten möchte, aber wir haben es nie getan. Deshalb bin ich froh, dass ich Thomas davon überzeugen konnte, dass Peter L der Richtige ist.
 
 ## Bei Kollapse fühle ich mich zu Hause"
 
