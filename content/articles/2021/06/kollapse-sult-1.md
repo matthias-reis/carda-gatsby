@@ -40,7 +40,7 @@ Because I had the honour to listen to the album already, I'll try to summarise m
 
 ## Kollapse is now a trio
 
-![Kollapse – "Sult"](/img/kollapse-1-.jpg "Kollapse – \\"Sult\\"")
+![Kollapse – "Sult" Artwork: Gina Skowz](/img/kollapse-1-.jpg "Kollapse – \"Sult\" Artwork: Gina Skowz")
 
 "Sult" will be released on Fysisk Format in collaboration with Maniyax Records, Dingleberry Records and Virkelighedsfjern.
 
