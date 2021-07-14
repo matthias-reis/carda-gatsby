@@ -7,8 +7,8 @@ subTitle: '"Bei Musik geht es um Emotionen"'
 seoTitle: Kollapse im Interview – "Bei Musik geht es um Emotionen"
 description: Vor ein paar Tagen habe ich Euch das neue Kollapse Album "Sult"
   empfohlen. Jetzt hatte ich die Gelegenheit, mich mit dem Post-Hardcore Trio
-  aus Dänemark zu unterhalten. Im Interview haben wir auch über die Tourpläne
-  der Band gesprochen.
+  aus Dänemark zu unterhalten. Im Interview haben wir auch über die aktuellen
+  Tourpläne der Band gesprochen.
 image: /img/kollapse-3-.jpg
 copyrigt: Kollapse
 ogImage: /img/kollapse-fb-1-.jpg
@@ -162,6 +162,8 @@ Wir haben schon angefangen, für das nächste Album zu schreiben und haben sogar
 **Thomas:** Danke, dass Sie Interesse zeigen! 
 
 **Peter L.** Danke!
+
+[Meine Review zum Kollapse Album "Sult" findet Ihr hier](/2021/06/kollapse-sult/).
 
 ## Kollapse – "Drift"
 
