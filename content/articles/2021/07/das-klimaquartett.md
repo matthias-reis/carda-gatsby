@@ -54,7 +54,7 @@ Beim Klimaquartett gibt es keine belehrenden Zeigefinger. Man erfährt eher ganz
 
 Statt düsterer Zukunftsszenarios hat Carmen Gloger farbenfrohe Bilder geschaffen, die zeigen, wie wir es in Zukunft besser machen können.
 
-Ihr könnt das Klimaschutz-Quartett nach klassischen Quartett-Regeln oder wie es Euch am besten gefällt spielen. Beim klassischen Quartett könnt Ihr zum Beispiel ein Hobby (zum Beispiel Radfahren) gegen einen Urlaub auf einer Insel im Indischen Ozean antreten lassen.
+Ihr könnt das Klimaschutz-Quartett nach klassischen Quartett-Regeln oder wie es Euch am besten gefällt, spielen. Beim klassischen Quartett könnt Ihr zum Beispiel ein Hobby (zum Beispiel Radfahren) gegen einen Urlaub auf einer Insel im Indischen Ozean antreten lassen.
 
 Auf den Sonder- und Extrakarten findet Ihr Phänomene unserer Zeit wie etwa Einschmelze, Dürre, die Mülllawine und Leugner⋆innen des Klimawandels. Diese unvorhersehbaren Ereignisse sorgen dafür, dass die Karten immer wieder neu gemischt werden – genau, wie es im echte Leben auch passiert.
 
