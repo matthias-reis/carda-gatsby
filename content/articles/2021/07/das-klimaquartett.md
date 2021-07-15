@@ -64,7 +64,7 @@ Die Zahlen und Werte, die im Klimaquartett stehen, haben Dr. Susanne Kühl und D
 
 Anschließend wurden sie mithilfe eines Logarithmus in eine Scala von 0 bis 6 umgewandelt. Diese wurde dann in Form von Symbolen illustriert. Wenn Ihr mehr zu den einzelnen Punkten erfahren wollt, findet Ihr unter [klimaquartett.com](https://www.klimaquartett.com) ein umfangreiches Booklet zum Spiel.
 
-Die meisten Zahlen im Spiel beziehen sich auf den (Jahres-)verbrauch einer vierköpfigen Familie. Auf der Klimaquartett Webseite findet Ihr dazu alle Infos.
+Die meisten Zahlen im Spiel beziehen sich auf den (Jahres-)verbrauch einer vierköpfigen Familie. Auf der Klimaquartett Webseite gibt es alle Infos dazu.
 
 ## Das Klimaquartett wird nachhaltig produziert
 
