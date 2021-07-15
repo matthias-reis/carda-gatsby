@@ -36,7 +36,7 @@ language: de
 
 Ziel des Kartenspiels ist es, Menschen für den Klimaschutz zu sensibilisieren. Es soll ein Gesellschaftsspiel im wahrsten Sinne des Wortes sein. Das Tolle an den Karten ist: Sie enthalten nicht "nur" interessante Fakten und Details, man kann sie auch für viele Kartenspiele und sogar beim Pokern benutzen. Man informiert sich also gleichzeitig über Nachhaltigkeit und kann sein Spiel genießen – lernen nebenbei also.
 
-Das Klimaschutz-Deck besteht aus insgesamt 38 Spielkarten, die in sieben Kategorien unterteilt sind. Außerdem gibt es 10 Sonder- und Extrakarten. Alle Karten sind wunderschön illustriert. Die Bilder sollen ganz nebenbei ein Bewusstsein für Klimaschutz im Alltag schaffen.
+Das Klimaschutz-Deck besteht aus insgesamt 38 Spielkarten, die in sieben Kategorien unterteilt sind. Außerdem gibt es zehn Sonder- und Extrakarten. Alle Karten sind wunderschön illustriert. Die Bilder sollen ganz nebenbei ein Bewusstsein für Klimaschutz im Alltag schaffen.
 
 ## Das Klimaquartett zeigt Daten und Fakten
 
