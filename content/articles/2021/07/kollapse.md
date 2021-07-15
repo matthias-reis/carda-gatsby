@@ -5,7 +5,7 @@ typeName: Interview
 title: Kollapse
 subTitle: '"Music Is All About Emotions"'
 seoTitle: Interview with Kollapse – "Music Is All About Emotions"
-description: Some days ago I reviewed the new Kollapse Album "Sult". Now I had
+description: Some days ago I reviewed the new Kollapse album "Sult". Now I had
   the chance to talk to the post-hardcore trio from Danmark. In our interview,
   we also talked about the band's tour plans.
 image: /img/kollapse-3-.jpg
@@ -28,7 +28,7 @@ affiliate: false
 language: en
 languageLink: /2021/07/kollapse-interview/
 ---
-**Some days ago I reviewed the new Kollapse Album "Sult". Now I had the chance to talk to the post-hardcore trio from Danmark. In our interview, we also talked about the band's tour plans.**
+**Some days ago I reviewed the new Kollapse album "Sult". Now I had the chance to talk to the post-hardcore trio from Danmark. In our interview, we also talked about the band's tour plans.**
 
 **Anne:** Hi! Thanks very much for agreeing to this interview! I am very excited about getting to know you guys. How are you doing today?
 
@@ -86,7 +86,7 @@ But I think the mood on the album reflects the moods of many people around the w
 
 **Anne:** Gina Skowz painted a fantastic horror artwork for "Sult". It is so cool! I can't imagine a better artwork for this album. Is she a friend of yours?
 
-![Kollapse – "Sult" Artwork: Gina Skowz](/img/kollapse-1-.jpg "Kollapse – \"Sult\" Artwork: Gina Skowz")
+![Kollapse – "Sult" Artwork: Gina Skowz](/img/kollapse-1-.jpg "Kollapse – \\"Sult\\" Artwork: Gina Skowz")
 
 **Thomas:** I grew up on noise rock in the early nineties. Through the Amphetamine Reptile label in the US, I found out about Gina, as she is somewhat associated with these noise rock creeps (laughs). She is a fantastic artist.
 
