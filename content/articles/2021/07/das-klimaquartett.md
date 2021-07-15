@@ -62,7 +62,7 @@ Auf den Sonder- und Extrakarten findet Ihr Phänomene unserer Zeit wie etwa Eins
 
 Die Zahlen und Werte, die Klimaquartett stehen, haben Dr. Susanne Kühl und Dr. Prof. Michael Kühl von der Universität Ulm ergänzt und auf Plausibilität geprüft. Sie wurden in einer aufwändigen Recherche zusammengetragen.
 
-Anschließend wurden sie mithilfe eines Logarithmus in eine Scala von 0 bis 6 umgewandelt. Diese wurde dann in Form von Symbolen illustriert. Wenn Ihr mehr zu den einzelnen Punkten erfahren wollt, findet Ihr unter [klimaquartett](https://www.klimaquartett.com).com ein umfangreiches Booklet zum Spiel.
+Anschließend wurden sie mithilfe eines Logarithmus in eine Scala von 0 bis 6 umgewandelt. Diese wurde dann in Form von Symbolen illustriert. Wenn Ihr mehr zu den einzelnen Punkten erfahren wollt, findet Ihr unter [klimaquartett.com](https://www.klimaquartett.com) ein umfangreiches Booklet zum Spiel.
 
 Die meisten Zahlen, die Ihr im Spiel findet, beziehen sich auf den (Jahres-)verbrauch einer vierköpfigen Familie. Auf der Klimaquartett Webseite findet Ihr dazu alle Infos.
 
