@@ -80,7 +80,7 @@ Erfinderin Carmen Gloger und ihr Team möchten mit ihrem Klimaquartett einen ges
 
 > "Wir wollen zeigen, dass es unzählige Möglichkeiten ist, selbst aktiv zu sein und zwar jeden Tag aufs Neue. Die Bereich Wohnen, Ernährung, Transport, Urlaub, Hobby, Strom und Konsum betreffen uns alle und hier müssen wir ansetzen."
 
-Wenn durch das Spiel einige Menschen sensibler werden und ein paar Leute mehr verstehen, dass es durchaus sinnvoll sein kann, seine Ernährung umzustellen und auf Fernreisen und dicke Autos zu verzichten, ist schon einiges gewonnen. Das ein Teil des Verkaufserlöses auch noch in Klimaschutz-Projekte fließt, ist ein schöner zusätzlicher Pluspunkt. Die Karten sind wirklich schön gestaltet und eine schöne Alternative zum eingestaubten Flugzeug-Quartett, das einige vielleicht noch in der Schublade haben.
+Wenn durch das Spiel einige Menschen sensibler werden und ein paar Leute mehr verstehen, dass es durchaus sinnvoll sein kann, seine Ernährung umzustellen und auf Fernreisen und dicke Autos zu verzichten, ist schon einiges gewonnen. Das ein Teil des Verkaufserlöses auch noch in Klimaschutz-Projekte fließt, ist ein schöner zusätzlicher Pluspunkt. Die Karten sind wirklich toll gestaltet und eine gute Alternative zum eingestaubten Flugzeug-Quartett, das einige vielleicht noch in der Schublade haben.
 
 <Gallery name="klimaquartett-2" />
 
