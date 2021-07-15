@@ -40,7 +40,7 @@ Das Klimaschutz-Deck besteht aus insgesamt 38 Spielkarten, die in sieben Kategor
 
 ## Das Klimaquartett zeigt Daten und Fakten
 
-Beim Spielen lernt man zum Beispiel, wie groß der CO<sub>2</sub>-Ausstoß für eine Zugfahrt nach Sylt im Vergleich zu dem bei einer Kreuzfahrt ist. Außerdem erfährt man, [wie man seinen ökologischen Fußabdruck berechnet](LINK) und wie es mit dem Verbrauch von Ressourcen aussieht, wenn man Waren in Übersee bestellt.
+Beim Spielen lernt man zum Beispiel, wie groß der CO<sub>2</sub>-Ausstoß für eine Zugfahrt nach Sylt im Vergleich zu dem bei einer Kreuzfahrt ist. Außerdem erfährt man, [wie man seinen ökologischen Fußabdruck berechnet](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) und wie es mit dem Verbrauch von Ressourcen aussieht, wenn man Waren in Übersee bestellt.
 
 Die sieben Kategorien heißen "Wohnen", "Ernährung", "Transport", "Urlaub", "Hobby", "Strom", und "Konsum". Genau, wie man sein Girokonto in Kategorien unterteilen würde, teilt man beim Spielen die verschiedenen Lebensbereiche auf und bekommt dabei ganz neue Eindrücke geboten.
 
@@ -68,7 +68,7 @@ Die meisten Zahlen, die Ihr im Spiel findet, beziehen sich auf den (Jahres-)verb
 
 ## Das Klimaquartett wird nachhaltig produziert
 
-Natürlich wurde das Klimaquartett auch nachhaltig produziert. Bei der Herstellung wurde besonderer Wert auf das umweltschonende Design gelegt. Die Herstellung und der Versand laufen regional und klimaneutral ab. Der bei der Herstellung verwendete Strom stammt [aus nachhaltigen Energiequellen](LINK). Die Spielkarten werden auf 100 Prozent recyceltem Papier gedruckt. Die Verpackung kommt ohne Plastik aus. Dank der besonderen Falttechnik kann sogar auf Kleber verzichtet werden.
+Natürlich wurde das Klimaquartett auch nachhaltig produziert. Bei der Herstellung wurde besonderer Wert auf das umweltschonende Design gelegt. Die Herstellung und der Versand laufen regional und klimaneutral ab. Der bei der Herstellung verwendete Strom stammt [aus nachhaltigen Energiequellen](/2020/11/oekostrom-biogas-vegan/). Die Spielkarten werden auf 100 Prozent recyceltem Papier gedruckt. Die Verpackung kommt ohne Plastik aus. Dank der besonderen Falttechnik kann sogar auf Kleber verzichtet werden.
 
 Mit dem Kauf eines Klimaquartetts unterstützt Ihr ausgewählte Klimaprojekte. Welchen Schwerpunkt Ihr dabei gerne fördern möchtet, entscheidet Ihr selbst.
 
