@@ -9,7 +9,7 @@ description: Willebrant has a new EP out! "The Pilgrim" is about the journey of
   someone setting out on an adventure. The five songs which are inspired by the
   Camino de Santiago already made it to my list of the favourite ambient records
   of the year. A deep sound bath full of surprises awaits you.
-image: /img/willebrant-the-pilgrim.jpg
+image: /img/willebrant-the-pilgrim-1-.jpg
 copyrigt: Willebrant
 ogImage: /img/willebrant-the-pilgrim-fb.jpg
 labels:
@@ -42,6 +42,8 @@ To me, this sounds not only mystical but also pretty exciting. After a year or s
 ## Willebrant's trail is harmonious
 
 I put on my headphones and start my adventure with a dive. I let myself slide down into the cool water and, at the same time, tune into the sound of the deep, which gradually reveals its face before my inner eye.
+
+![Willebrant – "The Pilgrim"](/img/willebrant-the-pilgrim.jpg "Willebrant – \"The Pilgrim\"")
 
 The sounds, which pass unnoticed into the second track, "Trail", are harmonious, ethereal and fragile. I keep on sinking into the ocean. The world that surrounds me becomes a little stonier and steeper now. A bell accompanies me and guides me through the unknown terrain.
 
