@@ -48,7 +48,7 @@ Meditativ fühlt sich das an – entspannt und zugleich kraftvoll. Die Glocke we
 
 ## Minimalistisch und friedlich
 
-Ich schwimme an Korallen vorbei und sehe bunte Fische vor mir davonschwimmen. Das Licht über meinem Kopf wird immer heller – bis ich schließlich durch die Wasseroberfläche stoße. Ein Schwarm Vögel begrüßt mich.
+Ich schwimme an Korallen vorbei und sehe bunte Fische vor mir davonhuschen. Das Licht über meinem Kopf wird immer heller – bis ich schließlich durch die Wasseroberfläche stoße. Ein Schwarm Vögel begrüßt mich.
 
 Der dritte Song geht fließend in den vierten ("The Pilgrim") über. Ich lege meine Ausrüstung ab und gehe durch das lange Gras in Richtung Wald. Die Luft ist warm und voller Düfte. Der Weg schlängelt sich einen Hang hinauf.
 
