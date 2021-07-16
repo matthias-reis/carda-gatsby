@@ -7,8 +7,8 @@ subTitle: Diving Into An Ocean Of Sound
 seoTitle: Willebrant – "The Pilgrim" – Diving Into An Ocean Of Sound
 description: Willebrant has a new EP out! "The Pilgrim" is about the journey of
   someone setting out on an adventure. The five songs which are inspired by the
-  El Camino de Santiago already made it to my list of the favourite ambient
-  records of the year. A deep sound bath full of surprises awaits you.
+  Camino de Santiago already made it to my list of the favourite ambient records
+  of the year. A deep sound bath full of surprises awaits you.
 image: /img/willebrant-the-pilgrim.jpg
 copyrigt: Willebrant
 ogImage: /img/willebrant-the-pilgrim-fb.jpg
@@ -31,7 +31,7 @@ affiliate: false
 language: en
 languageLink: /2021/07/willebrant-the-pilgrim/
 ---
-**Willebrant has a new EP out! "The Pilgrim" is about the journey of someone setting out on an adventure. The record is inspired by "El Camino de Santiago". A deep sound bath full of surprises awaits you.**
+**Willebrant has a new EP out! "The Pilgrim" is about the journey of someone setting out on an adventure. The record is inspired by the Camino de Santiago. A deep sound bath full of surprises awaits you.**
 
 The Australian sound artist himself describes his new record like this:
 
