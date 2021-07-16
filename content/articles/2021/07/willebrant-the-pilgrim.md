@@ -45,11 +45,11 @@ I put on my headphones and start my adventure with a dive. I let myself slide do
 
 The sounds, which pass unnoticed into the second track, "Trail", are harmonious, ethereal and fragile. I keep on sinking into the ocean. The world that surrounds me becomes a little stonier and steeper now. A bell accompanies me and guides me through the unknown terrain.
 
-It feels meditative – relaxed, and powerful at the same time. Then, finally, the bell wakes me up, and I start swimming back up - very slowly, without any hurry. "Ascending" accompanies me on my way up, and I realise how deep I have dived into this reef of diverse sounds.
+It feels meditative – relaxed, and powerful at the same time. Then, finally, the bell wakes me, and I start swimming back up - very slowly, without any hurry. "Ascending" accompanies me on my way up, and I realise how deep I have dived into this reef of diverse sounds.
 
 ## Minimalist and peaceful
 
-I swim past corals and see colourful fish swimming away from me. The light above my head gets brighter and brighter – until brake the surface with my head. A flock of birds awaits me.
+I swim past corals and see colourful fish scurrying away from me. The light above my head gets brighter and brighter – until brake the surface with my head. A flock of birds awaits me.
 
 The third song flows smoothly into the fourth one ("The Pilgrim"). I put down my equipment and stride through the long grass towards the forest. The air is warm and full of scents. I choose a path that winds its way up a hill.
 
