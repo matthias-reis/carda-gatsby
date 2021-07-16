@@ -43,7 +43,7 @@ To me, this sounds not only mystical but also pretty exciting. After a year or s
 
 I put on my headphones and start my adventure with a dive. I let myself slide down into the cool water and, at the same time, tune into the sound of the deep, which gradually reveals its face before my inner eye.
 
-![Willebrant – "The Pilgrim"](/img/willebrant-the-pilgrim.jpg "Willebrant – \"The Pilgrim\"")
+![Willebrant – "The Pilgrim"](/img/willebrant-the-pilgrim-2-.jpg "Willebrant – \\"The Pilgrim\\"")
 
 The sounds, which pass unnoticed into the second track, "Trail", are harmonious, ethereal and fragile. I keep on sinking into the ocean. The world that surrounds me becomes a little stonier and steeper now. A bell accompanies me and guides me through the unknown terrain.
 
