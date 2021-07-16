@@ -44,7 +44,7 @@ Ich setze meine Kopfhörer auf und es geht los – mit einem Tauchgang. Ich lass
 
 Harmonisch, ätherisch und fragil sind diese Klänge, die unbemerkt in das zweite Stück "Trail" übergehen. Ich sinke weiter. Die Umgebung wird etwas steiniger und steiler. Eine Glocke begleitet mich und führt mich durch das unbekannte Terrain.
 
-Meditativ fühlt sich das an – entspannt und zugleich kraftvoll. Die Glocke weckt mich auf und ich steige wieder auf. Ganz langsam, ohne Eile. "Ascending" begleitet mich den ganzen Weg hinauf und ich merke, wie tief ich abgetaucht bin in dieses Riff aus vielfältigen Klängen.
+Meditativ fühlt sich das an – entspannt und zugleich kraftvoll. Die Glocke weckt mich und ich steige wieder auf. Ganz langsam, ohne Eile. "Ascending" begleitet mich den ganzen Weg hinauf und ich merke, wie tief ich abgetaucht bin in dieses Riff aus vielfältigen Klängen.
 
 ## Minimalistisch und friedlich
 
@@ -52,7 +52,9 @@ Ich schwimme an Korallen vorbei und sehe bunte Fische vor mir davonschwimmen. Da
 
 Das vierte Stück "The Pilgrim" beginnt auch wieder unbemerkt. Ich lege meine Ausrüstung ab und gehe durch das lange Gras in Richtung Wald. Die Luft ist warm und voller Düfte. Der Weg schlängelt sich einen Hang hinauf.
 
-Die Musik umspielt mich – minimalistisch, fein und friedlich. Das Finale heißt "Plateau (Into The Valley)". Ich sitze auf einem von der Sonne aufgewärmten Stein und lasse meinen Blick schweifen. Von hier aus kann ich das ganze Tal und die Bucht, in der ich getaucht habe, sehen. Die Vögel, die über dem Strand kreisen, das satte Grün des unberührten Waldes und sogar einige der Fische im Wasser, das von hier oben ganz türkisfarben wirkt. 
+Die Musik umspielt mich – minimalistisch, fein und friedlich. Das Finale heißt "Plateau (Into The Valley)". Ich sitze auf einem von der Sonne aufgewärmten Stein und lasse meinen Blick schweifen. Von hier aus kann ich das ganze Tal und die Bucht, in der ich getaucht habe, sehen. Die Vögel, die über dem Strand kreisen, das satte Grün des unberührten Waldes und sogar einige der Fische im Wasser, das von hier oben ganz türkisfarben wirkt.
+
+## Wunderschöner Ambient-Sound
 
 Ich breche wieder auf, um weiterzugehen. Über eine Wiese und hinein in einen lichtdurchfluteten Hain. Die Blätter wehen im Wind...
 
