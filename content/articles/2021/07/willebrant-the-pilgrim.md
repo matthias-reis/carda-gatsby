@@ -55,6 +55,8 @@ The fourth piece, "The Pilgrim", also begins unnoticed. I put down my equipment 
 
 The music surrounds me – minimalist, subtle and peaceful. The finale is called "Plateau (Into The Valley)". I sit on a stone that is warmed by the sun and let my gaze wander. From here, I can see the whole valley and the bay where I have been diving; the birds who are still circling above the beach, the lush green of the untouched forest, and even some of the fish in the ocean that looks quite turquoise from up here. 
 
+## Beautiful ambient sound
+
 I set off again to continue walking across a meadow into a light-flooded grove. I can sense some white noise now. It must be the leaves that are fluttering in the wind.
 
 Willebrant's new EP already made it to my list of "most beautiful ambient records of the year". So if you also would love to go on a sound journey, I can highly recommend it to you.
