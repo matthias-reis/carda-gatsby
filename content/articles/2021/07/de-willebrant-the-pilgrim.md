@@ -50,7 +50,7 @@ Meditativ fühlt sich das an – entspannt und zugleich kraftvoll. Die Glocke we
 
 Ich schwimme an Korallen vorbei und sehe bunte Fische vor mir davonschwimmen. Das Licht über meinem Kopf wird immer heller – bis ich schließlich durch die Wasseroberfläche stoße. Ein Schwarm Vögel begrüßt mich.
 
-Das vierte Stück "The Pilgrim" beginnt auch wieder unbemerkt. Ich lege meine Ausrüstung ab und gehe durch das lange Gras in Richtung Wald. Die Luft ist warm und voller Düfte. Der Weg schlängelt sich einen Hang hinauf.
+Der dritte Song geht fließend in den vierten ("The Pilgrim") über. Ich lege meine Ausrüstung ab und gehe durch das lange Gras in Richtung Wald. Die Luft ist warm und voller Düfte. Der Weg schlängelt sich einen Hang hinauf.
 
 Die Musik umspielt mich – minimalistisch, fein und friedlich. Das Finale heißt "Plateau (Into The Valley)". Ich sitze auf einem von der Sonne aufgewärmten Stein und lasse meinen Blick schweifen. Von hier aus kann ich das ganze Tal und die Bucht, in der ich getaucht habe, sehen. Die Vögel, die über dem Strand kreisen, das satte Grün des unberührten Waldes und sogar einige der Fische im Wasser, das von hier oben ganz türkisfarben wirkt.
 
