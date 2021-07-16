@@ -3,8 +3,8 @@ date: 2021-07-16T10:59:06.207Z
 slug: willebrant-the-pilgrim-en
 typeName: Review
 title: Willebrant – "The Pilgrim"
-subTitle: A Dive Into The Sound Ocean
-seoTitle: Willebrant – "The Pilgrim" – A Dive Into The Sound Ocean
+subTitle: Diving Into An Ocean Of Sound
+seoTitle: Willebrant – "The Pilgrim" – Diving Into An Ocean Of Sound
 description: Willebrant has a new EP out! "The Pilgrim" is about the journey of
   someone setting out on an adventure. The five songs which are inspired by the
   El Camino de Santiago already made it to my list of the favourite ambient
@@ -39,11 +39,15 @@ The Australian sound artist himself describes his new record like this:
 
 To me, this sounds not only mystical but also pretty exciting. After a year or so without the open, clear view of the horizon, I would love a proper journey.
 
+## Willebrant's trail is harmonious
+
 I put on my headphones and start my adventure with a dive. I let myself slide down into the cool water and, at the same time, tune into the sound of the deep, which gradually reveals its face before my inner eye.
 
 The sounds, which pass unnoticed into the second track, "Trail", are harmonious, ethereal and fragile. I keep on sinking into the ocean. The world that surrounds me becomes a little stonier and steeper now. A bell accompanies me and guides me through the unknown terrain.
 
 It feels meditative – relaxed, and powerful at the same time. Then, finally, the bell wakes me up, and I start swimming back up - very slowly, without any hurry. "Ascending" accompanies me on my way up, and I realise how deep I have dived into this reef of diverse sounds.
+
+## Minimalist and peaceful
 
 I swim past corals and see colourful fish swimming away from me. The light above my head gets brighter and brighter – until brake the surface with my head. A flock of birds awaits me.
 
