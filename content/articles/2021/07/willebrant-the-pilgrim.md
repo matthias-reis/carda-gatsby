@@ -4,7 +4,7 @@ slug: willebrant-the-pilgrim-en
 typeName: Review
 title: Willebrant – "The Pilgrim"
 subTitle: A Dive Into The Sound Ocean
-seoTitle: Willebrant – "The Pilgrim" – A Musical Hike With A Dive
+seoTitle: Willebrant – "The Pilgrim" – A Dive Into The Sound Ocean
 description: Willebrant has a new EP out! "The Pilgrim" is about the journey of
   someone setting out on an adventure. The five songs which are inspired by the
   El Camino de Santiago already made it to my list of the favourite ambient
