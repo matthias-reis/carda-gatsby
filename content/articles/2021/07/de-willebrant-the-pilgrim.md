@@ -3,8 +3,8 @@ date: 2021-07-16T11:50:03.772Z
 slug: willebrant-the-pilgrim
 typeName: Review
 title: '"Willebrant – The Pilgrim"'
-subTitle: Eine musikalische Wanderung mit Tauchgang
-seoTitle: '"Willebrant – The Pilgrim" – Eine musikalische Wanderung mit Tauchgang'
+subTitle: Eine musikalisches Tauch-Abenteuer
+seoTitle: '"Willebrant – The Pilgrim" – Eine musikalisches Tauch-Abenteuer'
 description: Die neue Willebrant EP "The Pilgrim" handelt vom Weg eines
   Menschen, der zu einem Abenteuer aufbricht – Die fünf vom El Camino de
   Santiago inspirierten Songs haben es bei mir jetzt schon auf die Liste der
