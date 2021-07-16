@@ -38,11 +38,15 @@ Der australische Sound-Künstler beschreibt seine neue Platte selbst so:
 
 Für mich klingt das nicht nur mystisch, sondern mehr als spannend. Nach einem Jahr ohne den offenen, unverbauten Blick auf den Horizont kann ich eine Reise gut gebrauchen.
 
+## Der Tauchgang mit Willebrand beginnt
+
 Ich setze meine Kopfhörer auf und es geht los – mit einem Tauchgang. Ich lasse mich in das kühle Nass hinab gleiten und gleichzeitig auf den Sound der Tiefe ein, die ihr Gesicht nach und nach vor meinem inneren Auge enthüllt.
 
 Harmonisch, ätherisch und fragil sind diese Klänge, die unbemerkt in das zweite Stück "Trail" übergehen. Ich sinke weiter. Die Umgebung wird etwas steiniger und steiler. Eine Glocke begleitet mich und führt mich durch das unbekannte Terrain.
 
 Meditativ fühlt sich das an – entspannt und zugleich kraftvoll. Die Glocke weckt mich auf und ich steige wieder auf. Ganz langsam, ohne Eile. "Ascending" begleitet mich den ganzen Weg hinauf und ich merke, wie tief ich abgetaucht bin in dieses Riff aus vielfältigen Klängen.
+
+## Minimalistisch und friedlich
 
 Ich schwimme an Korallen vorbei und sehe bunte Fische vor mir davonschwimmen. Das Licht über meinem Kopf wird immer heller – bis ich schließlich durch die Wasseroberfläche stoße. Ein Schwarm Vögel begrüßt mich.
 
