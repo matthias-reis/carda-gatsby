@@ -44,7 +44,7 @@ Beim Spielen lernt man zum Beispiel, wie groß der CO<sub>2</sub>-Ausstoß für 
 
 Die sieben Kategorien heißen "Wohnen", "Ernährung", "Transport", "Urlaub", "Hobby", "Strom", und "Konsum". Genau, wie man sein Girokonto in Kategorien unterteilen würde, teilt man beim Spielen die verschiedenen Lebensbereiche auf und bekommt dabei ganz neue Eindrücke geboten.
 
-<Gallery name="klimaquartett-1" />
+<Gallery name="klimaquartett-oben" />
 
 Beim Klimaquartett gibt es keine belehrenden Zeigefinger. Man erfährt eher ganz beiläufig, wie man selbst in seinem täglichen Handeln Verantwortung für das Klima übernehmen kann. Die Spieldesigner und Entwicklerin des Klimaquartetts  findet:
 
@@ -82,6 +82,6 @@ Erfinderin Carmen Gloger und ihr Team möchten mit ihrem Klimaquartett einen ges
 
 Wenn durch das Spiel einige Menschen sensibler werden und ein paar Leute mehr verstehen, dass es durchaus sinnvoll sein kann, seine Ernährung umzustellen und auf Fernreisen und dicke Autos zu verzichten, ist schon einiges gewonnen. Das ein Teil des Verkaufserlöses auch noch in Klimaschutz-Projekte fließt, ist ein schöner zusätzlicher Pluspunkt. Die Karten sind wirklich toll gestaltet und eine gute Alternative zum eingestaubten Flugzeug-Quartett, das einige vielleicht noch in der Schublade haben.
 
-<Gallery name="klimaquartett-3" />
+<Gallery name="klimaquartett-unten" />
 
 Bilder: Ann Christin Müller
