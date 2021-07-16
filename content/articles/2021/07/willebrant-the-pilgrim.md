@@ -6,9 +6,9 @@ title: Willebrant – "The Pilgrim"
 subTitle: A Musical Hike With A Dive
 seoTitle: Willebrant – "The Pilgrim" – A Musical Hike With A Dive
 description: Willebrant has a new EP out! "The Pilgrim" is about the journey of
-  someone setting out on an adventure. The record which is inspired by El Camino
-  de Santiago already made it to my list of the favourite ambient records of the
-  year. A deep sound bath full of surprises awaits you.
+  someone setting out on an adventure. The five songs which are inspired by the
+  El Camino de Santiago already made it to my list of the favourite ambient
+  records of the year. A deep sound bath full of surprises awaits you.
 image: /img/willebrant-the-pilgrim.jpg
 copyrigt: Willebrant
 ogImage: /img/willebrant-the-pilgrim-fb.jpg
