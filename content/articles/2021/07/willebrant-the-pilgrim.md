@@ -51,7 +51,7 @@ It feels meditative – relaxed, and powerful at the same time. Then, finally, t
 
 I swim past corals and see colourful fish swimming away from me. The light above my head gets brighter and brighter – until brake the surface with my head. A flock of birds awaits me.
 
-The fourth piece, "The Pilgrim", also begins unnoticed. I put down my equipment and stride through the long grass towards the forest. The air is warm and full of scents. I choose a path that winds its way up a hill.
+The third song flows smoothly into the fourth one ("The Pilgrim"). I put down my equipment and stride through the long grass towards the forest. The air is warm and full of scents. I choose a path that winds its way up a hill.
 
 The music surrounds me – minimalist, subtle and peaceful. The finale is called "Plateau (Into The Valley)". I sit on a stone that is warmed by the sun and let my gaze wander. From here, I can see the whole valley and the bay where I have been diving; the birds who are still circling above the beach, the lush green of the untouched forest, and even some of the fish in the ocean that looks quite turquoise from up here. 
 
