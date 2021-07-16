@@ -2,7 +2,7 @@
 date: 2021-07-16T11:50:03.772Z
 slug: willebrant-the-pilgrim
 typeName: Review
-title: DE "Willebrant – The Pilgrim"
+title: '"Willebrant – The Pilgrim"'
 subTitle: Eine musikalische Wanderung mit Tauchgang
 seoTitle: '"Willebrant – The Pilgrim" – Eine musikalische Wanderung mit Tauchgang'
 description: Die neue Willebrant EP "The Pilgrim" handelt vom Weg eines
