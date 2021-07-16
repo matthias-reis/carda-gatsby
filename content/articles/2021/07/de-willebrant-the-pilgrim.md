@@ -10,7 +10,7 @@ description: Die neue Willebrant EP "The Pilgrim" handelt vom Weg eines
   Santiago inspirierten Songs haben es bei mir jetzt schon auf die Liste der
   schönsten Ambient-Platten des Jahres geschafft. Ein Klangbad mit Tiefgang
   erwartet Euch.
-image: /img/willebrant-the-pilgrim-1-.jpg
+image: /img/willebrant-the-pilgrim-2-.jpg
 copyrigt: Willebrant
 ogImage: /img/willebrant-the-pilgrim-fb.jpg
 labels:
