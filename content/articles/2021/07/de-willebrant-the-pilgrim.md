@@ -10,7 +10,7 @@ description: Die neue Willebrant EP "The Pilgrim" handelt vom Weg eines
   Santiago inspirierten Songs haben es bei mir jetzt schon auf die Liste der
   schönsten Ambient-Platten des Jahres geschafft. Ein Klangbad mit Tiefgang
   erwartet Euch.
-image: /img/willebrant-the-pilgrim.jpg
+image: /img/willebrant-the-pilgrim-1-.jpg
 copyrigt: Willebrant
 ogImage: /img/willebrant-the-pilgrim-fb.jpg
 labels:
@@ -41,6 +41,8 @@ Für mich klingt das nicht nur mystisch, sondern mehr als spannend. Nach einem J
 ## Der Tauchgang mit Willebrand beginnt
 
 Ich setze meine Kopfhörer auf und es geht los – mit einem Tauchgang. Ich lasse mich in das kühle Nass hinab gleiten und gleichzeitig auf den Sound der Tiefe ein, die ihr Gesicht nach und nach vor meinem inneren Auge enthüllt.
+
+![Willebrant – "The Pilgrim"](/img/willebrant-the-pilgrim.jpg "Willebrant – \"The Pilgrim\"")
 
 Harmonisch, ätherisch und fragil sind diese Klänge, die unbemerkt in das zweite Stück "Trail" übergehen. Ich sinke weiter. Die Umgebung wird etwas steiniger und steiler. Eine Glocke begleitet mich und führt mich durch das unbekannte Terrain.
 
