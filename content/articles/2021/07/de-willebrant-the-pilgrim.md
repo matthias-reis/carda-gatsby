@@ -58,6 +58,8 @@ Ich breche wieder auf, um weiterzugehen. Über eine Wiese und hinein in einen li
 
 Willebrants neue EP hat es bei mir ohne Umwege in die Kategorie "schönste Ambient-Platten des Jahres" geschafft. Wenn Ihr wie ich gerne mal wieder auf eine Sound-Reise gehen wollt, kann ich sie Euch sehr empfehlen.
 
+[Meine Review zu "Coastal___" von Willebrant findet Ihr hier](/2021/02/willebrant-coastal-en).
+
 ## Willebrant – "The Pilgrim"
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2921636955/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://willebrant.bandcamp.com/album/the-pilgrim">The Pilgrim by Willebrant</a></iframe>
