@@ -9,7 +9,7 @@ description: Willebrant has a new EP out! "The Pilgrim" is about the journey of
   someone setting out on an adventure. The five songs which are inspired by the
   Camino de Santiago already made it to my list of the favourite ambient records
   of the year. A deep sound bath full of surprises awaits you.
-image: /img/willebrant-the-pilgrim-1-.jpg
+image: /img/willebrant-the-pilgrim-2-.jpg
 copyrigt: Willebrant
 ogImage: /img/willebrant-the-pilgrim-fb.jpg
 labels:
