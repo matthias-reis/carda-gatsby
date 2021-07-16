@@ -1,19 +1,19 @@
 ---
-date: 2021-07-16T10:58:58.016Z
-slug: willebrant-the-pilgrim
+date: 2021-07-16T10:59:06.207Z
+slug: willebrant-the-pilgrim-en
 typeName: Review
 title: Willebrant – "The Pilgrim"
-subTitle: Eine musikalische Wanderung mit Tauchgang
-seoTitle: Willebrant – "The Pilgrim" – Eine musikalische Wanderung mit Tauchgang
-description: Die neue Willebrant EP "The Pilgrim" hat es bei mir ohne Umweg
-  unter die schönsten Ambient-Platten des Jahres geschafft. Die fünf Stücke
-  handeln vom Weg eines Menschen, der zu einem Abenteuer aufbricht – inspiriert
-  vom Camino de Santiago. Ein Klangbad mit Tiefgang erwartet Euch.
+subTitle: A Musical Hike With A Dive
+seoTitle: Willebrant – "The Pilgrim" – A Musical Hike With A Dive
+description: Willebrant has a new EP out! "The Pilgrim" is about the journey of
+  someone setting out on an adventure. The record which is inspired by El Camino
+  de Santiago already made it to my list of the favourite ambient records of the
+  year. A deep sound bath full of surprises awaits you.
 image: /img/willebrant-the-pilgrim.jpg
 copyrigt: Willebrant
 ogImage: /img/willebrant-the-pilgrim-fb.jpg
 labels:
-  - Klangbad
+  - Soundbath
   - Ambient
   - Post-Music
   - Review
@@ -21,7 +21,6 @@ labels:
   - Willebrant
   - Drone
   - Minimal Drone
-  - Soundbath
   - Meditation
   - Australian Post-Rock
   - Experimental
@@ -29,36 +28,35 @@ labels:
 focusKeyword: Willebrant
 advertisement: false
 affiliate: false
-language: de
-languageLink: /2021/07/willebrant-the-pilgrim-en/
+language: en
+languageLink: /2021/07/willebrant-the-pilgrim/
 ---
-**Es gibt eine neue EP von Willebrant! "The Pilgrim" handelt vom Weg eines Menschen, der zu einem Abenteuer aufbricht. Inspiriert ist die Platte vom Camino de Santiago. Ein Klangbad mit Tiefgang erwartet Euch.**
+**Willebrant has a new EP out! "The Pilgrim" is about the journey of someone setting out on an adventure. The record is inspired by "El Camino de Santiago". A deep sound bath full of surprises awaits you.**
 
-Der australische Sound-Künstler beschreibt seine neue Platte selbst so:
+The Australian sound artist himself describes his new record like this:
 
-> "Ein Sound-Tunnel zur Seele der Pilgerei. Man sagt, dass der El Camino Dich ruft. Vielleicht ist das der Beginn Deines Weges."
+> "A sound tunnel to the soul of pilgrimage. They say that el Camino calls you; perhaps this is the beginning of the trail."
 
-Für mich klingt das nicht nur mystisch, sondern mehr als spannend. Nach einem Jahr ohne den offenen, unverbauten Blick auf den Horizont kann ich eine Reise gut gebrauchen.
+To me, this sounds not only mystical but also pretty exciting. After a year or so without the open, clear view of the horizon, I would love a proper journey.
 
-Ich setze meine Kopfhörer auf und es geht los – mit einem Tauchgang. Ich lasse mich in das kühle Nass hinab gleiten und gleichzeitig auf den Sound der Tiefe ein, die ihr Gesicht nach und nach vor meinem inneren Auge enthüllt.
+I put on my headphones and start with a scuba dive. I let myself slide down into the cool water and, at the same time, tune into the sound of the deep, which gradually reveals its face before my inner eye.
 
-Harmonisch, ätherisch und fragil sind diese Klänge, die unbemerkt in das zweite Stück "Trail" übergehen. Ich sinke weiter. Die Umgebung wird etwas steiniger und steiler. Eine Glocke begleitet mich und führt mich durch das unbekannte Terrain.
+The sounds, which pass unnoticed into the second track, "Trail", are harmonious, ethereal and fragile. I keep on sinking into the ocean. The world that surrounds me becomes a little stonier and steeper now. A bell accompanies me and guides me through the unknown terrain.
 
-Meditativ fühlt sich das an – entspannt und zugleich kraftvoll. Die Glocke weckt mich auf und ich steige wieder auf. Ganz langsam, ohne Eile. "Ascending" begleitet mich den ganzen Weg hinauf und ich merke, wie tief ich abgetaucht bin in dieses Riff aus vielfältigen Klängen.
+It feels meditative – relaxed, and powerful at the same time. Then, finally, the bell wakes me up, and I start swimming back up - very slowly, without any hurry. "Ascending" accompanies me on my way up, and I realise how deep I have dived into this reef of diverse sounds.
 
-Ich schwimme an Korallen vorbei und sehe bunte Fische vor mir davonschwimmen. Das Licht über meinem Kopf wird immer heller – bis ich schließlich durch die Wasseroberfläche stoße. Ein Schwarm Vögel begrüßt mich.
+I swim past corals and see colourful fish swimming away from me. The light above my head gets brighter and brighter – until brake the surface with my head. A flock of birds awaits me.
 
-Das vierte Stück "The Pilgrim" beginnt auch wieder unbemerkt. Ich lege meine Ausrüstung ab und gehe durch das lange Gras in Richtung Wald. Die Luft ist warm und voller Düfte. Der Weg schlängelt sich einen Hang hinauf.
+The fourth piece, "The Pilgrim", also begins unnoticed. I put down my equipment and stride through the long grass towards the forest. The air is warm and full of scents. I choose a path that winds its way up a hill.
 
-Die Musik umspielt mich – minimalistisch, fein und friedlich. Das Finale heißt "Plateau (Into The Valley)". Ich sitze auf einem von der Sonne aufgewärmten Stein und lasse meinen Blick schweifen. Von hier aus kann ich das ganze Tal und die Bucht, in der ich getaucht habe, sehen. Die Vögel, die über dem Strand kreisen, das satte Grün des unberührten Waldes und sogar einige der Fische im Wasser, das von hier oben ganz türkisfarben wirkt. 
+The music surrounds me – minimalist, subtle and peaceful. The finale is called "Plateau (Into The Valley)". I sit on a stone that is warmed by the sun and let my gaze wander. From here, I can see the whole valley and the bay where I have been diving; the birds who are still circling above the beach, the lush green of the untouched forest, and even some of the fish in the ocean that looks quite turquoise from up here. 
 
-Ich breche wieder auf, um weiterzugehen. Über eine Wiese und hinein in einen lichtdurchfluteten Hain. Die Blätter wehen im Wind...
+I set off again to continue walking across a meadow into a light-flooded grove. I can sense some white noise now. It must be the leaves that are fluttering in the wind.
 
-Willebrants neue EP hat es bei mir ohne Umwege in die Kategorie "schönste Ambient-Platten des Jahres" geschafft. Wenn Ihr wie ich gerne mal wieder auf eine Sound-Reise gehen wollt, kann ich sie Euch sehr empfehlen.
+Willebrant's new EP already made it to my list of "most beautiful ambient records of the year". So if you also would love to go on a sound journey, I can highly recommend it to you.
 
-[Meine Review zu "Coastal___" von Willebrant findet Ihr hier](/2021/02/willebrant-coastal-en).
+[Please enjoy my review on Willebrant's EP "Coastal___"](/2021/02/willebrant-coastal-en).
 
-## Willebrant – "The Pilgrim"
+## Willebrant - "The Pilgrim"
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2921636955/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://willebrant.bandcamp.com/album/the-pilgrim">The Pilgrim by Willebrant</a></iframe>
-
