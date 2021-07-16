@@ -49,7 +49,7 @@ It feels meditative – relaxed, and powerful at the same time. Then, finally, t
 
 ## Minimalist and peaceful
 
-I swim past corals and see colourful fish scurrying away from me. The light above my head gets brighter and brighter – until brake the surface with my head. A flock of birds awaits me.
+I swim past corals and see colourful fish scurrying away from me. The light above my head gets brighter and brighter – until I brake the surface with my head. A flock of birds awaits me.
 
 The third song flows smoothly into the fourth one ("The Pilgrim"). I put down my equipment and stride through the long grass towards the forest. The air is warm and full of scents. I choose a path that winds its way up a hill.
 
