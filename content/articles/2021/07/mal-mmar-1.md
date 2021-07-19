@@ -6,7 +6,7 @@ title: Malämmar
 subTitle: '"Wir wollen getragen und düster klingen"'
 seoTitle: Interview mit Malämmar – "Wir wollen getragen und düster klingen"
 description: 'Heute habe ich eine große Post-Music Sensation für Euch: Nach der
-  Erwähnung ihres aktuellen Albums "Mazza", das ich zutiefst verehre und
+  Erwähnung ihres aktuellen Albums "Mazza", das ich zutiefst bewundere und
   permanent höre, hat sich die Post-Rock-Band aus Barcelona zu einem Interview
   bereit erklärt! Ich habe mich mit Gründer Xavi Forné (auch bekannt durch
   Error! Design) unterhalten. '
@@ -39,7 +39,7 @@ affiliate: false
 language: de
 languageLink: /2021/07/malaemmar-interview-en/
 ---
-**Heute habe ich eine große Post-Music Sensation für Euch: Nach der Erwähnung ihres aktuellen Albums "Mazza", das ich zutiefst verehre und permanent höre, hat sich die Post-Rock-Band aus Barcelona zu einem Interview bereit erklärt!**
+**Heute habe ich eine große Post-Music Sensation für Euch: Nach der Erwähnung ihres aktuellen Albums "Mazza", das ich zutiefst bewundere und permanent höre, hat sich die Post-Rock-Band aus Barcelona zu einem Interview bereit erklärt!**
 
 Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Menschen hinter Error! Design) über ihre Musik, die aktuelle Situation und Malämmars Zukunftspläne unterhalten. 
 
@@ -115,7 +115,7 @@ Ich habe die allererste Show des AMFestes in einer kleinen Location mit meiner a
 
 **Xavi:** Das ist eine Wortschöpfung aus zwei katalanischen (funktioniert auch im Spanischen) Wörtern: "Mala" (schlecht) und "Mar" (Meer).  Es ist das Gefühl, das wir mit unserer Musik transportieren wollen: Wenn man in einem Boot mitten auf dem Ozean sitzt und von vielen Wellen umgeben ist.
 
-![Malämmer auf der Waldbühne – DUNK!festival 2019. Bild/picture: Mats](/img/malaemmar-3.jpg "Malämmer auf der Waldbühne – DUNK!festival 2019. Bild/picture: Mats")
+![Malämmer auf der Waldbühne – DUNK!festival 2019. Bild/picture: Mats | large](/img/malaemmar-3.jpg "Malämmer auf der Waldbühne – DUNK!festival 2019. Bild/picture: Mats")
 
 ## "Wir wollen 2022 durch Europa touren"
 
@@ -123,4 +123,4 @@ Ich habe die allererste Show des AMFestes in einer kleinen Location mit meiner a
 
 **Xavi:** Seit wir "Mazza" am 30. April veröffentlicht haben, können wir nur daran denken, diese Songs endlich live zu spielen. Es ist komisch, vor einem sitzenden Publikum zu aufzutreten. Aber es scheint die einzige Möglichkeit zu sein, bald wieder vor Leuten Musik zu machen. Wir planen unsere erste Show nach dem Lockdown im September oder Oktober. Und wir hoffen, dass wir 2022 durch Europa touren können. Eine neue Platte ist im Moment noch nicht in Sicht, aber wir haben die Absicht, so etwas wie eine einzelne 7" aufzunehmen, wie wir es nach "Vendetta" gemacht haben. Wir werden sehen, wann diese Pandemie es uns erlaubt, zu spielen und zur Normalität zurückzukehren.
 
-![Malämmar – "Mazza". Artwork: Error! Design | large](/img/malaemmmar-1.jpg "Malämmar – \"Mazza\". Artwork: Error! Design")
+![Malämmar – "Mazza". Artwork: Error! Design | large](/img/malaemmmar-1.jpg "Malämmar – \\"Mazza\\". Artwork: Error! Design")
