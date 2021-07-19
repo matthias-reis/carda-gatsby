@@ -5,7 +5,7 @@ typeName: Interview
 title: Malämmar
 subTitle: '"We Want To Play Slow, Doom And Dark"'
 seoTitle: Interview With Malämmar – "We Want To Play Slow, Doom And Dark"
-description: 'Today, I have a tremendous post-rock sensation for you: After
+description: 'Today, I have a huge post-music sensation for you: After
   mentioning their current album "Mazza", which I deeply adore and keep on
   listening to from day one on, the post-rock band from Barcelona agreed to an
   interview! I talked to founder Xavi Forné (you may also know him as the person
@@ -39,7 +39,7 @@ affiliate: false
 language: en
 languageLink: /2021/07/malaemmar-interview/
 ---
-**Today, I have a tremendous post-rock sensation for you: After mentioning their current album "Mazza", which I deeply adore and keep on listening to from day one on, the post-rock band from Barcelona agreed to an interview!**
+**Today, I have a huge post-music sensation for you: After mentioning their current album "Mazza", which I deeply adore and keep on listening to from day one on, the post-rock band from Barcelona agreed to an interview!**
 
 I talked to founder Xavi Forné (you may also know him as the person behind Error! Design) about their music, the current situation and Malämmar's plans for the future. 
 
