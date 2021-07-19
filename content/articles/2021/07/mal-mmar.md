@@ -115,10 +115,10 @@ I played the very first show of AMFest in a small venue with my old band. And I 
 
 **Xavi:** Malämmar is a made-up word build from two Catalan (works for Spanish too) words: "Mala" (bad) and "Mar" (sea).  It is the feeling we want to transport with our music: When you're in a boat in the middle of the ocean with lots of waves.
 
-![Malämmer at the forest stage – DUNK!festival 2019. Picture: Mats | large](/img/malaemmar-3.jpg "Malämmer at the forest stage – DUNK!festival 2019. Picture: Mats | large")
+![Malämmer at the forest stage – DUNK!festival 2019. Picture: Mats | large](/img/malaemmar-3.jpg "Malämmer at the forest stage – DUNK!festival 2019. Picture: Mats")
 
 **Anne:** What's up next for Malämmar? Are you already planning any gigs or going back to the studio as soon as "Mazza" is out?
 
 **Xavi:** We released "Mazza" released on April 30th, and now we can only think about playing the songs live. It's weird to play in front of a seated crowd. But it seems it's the only way to play now. We're planning our first show after lockdown this September/October. And we hope we can tour Europe in 2022. A new record is so far away from our minds, but we have the intention to record something like a single 7", as we did after "Vendetta". We will see when this pandemic will permit us to play and to go back to normal.
 
-![Malämmar – "Mazza". Artwork: Error! Design | large](/img/malaemmmar-1.jpg "Malämmar – \"Mazza\". Artwork: Error! Design")
+![Malämmar – "Mazza". Artwork: Error! Design | large](/img/malaemmmar-1.jpg "Malämmar – \\"Mazza\\". Artwork: Error! Design")
