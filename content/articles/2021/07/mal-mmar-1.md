@@ -83,23 +83,23 @@ Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Me
 
 **Anne:** Wolltet Ihr schon immer Post-Rock machen? Oder liegen Eure Wurzeln woanders?
 
+![Malämmar](/img/5.jpg "Malämmar")
+
 **Xavi:** Es scheint, dass man es als "Post-Rock" bezeichnen muss, wenn man Instrumentalmusik macht. Wir haben die Band mit einer festen Absicht gegründet: getragen und düsteren Sound zu machen. Aber wir bringen eine Menge Einflüsse mit. Auch aus den Bands, bei denen wir früher gespielt haben. Ich habe in Syberia (Instrumental) und Carontte (Post-Metal) gespielt. Victor spielte und spielt noch mit Gambardella (Instrumentaler Jazz) und Rebuig (Sludge). Und Guillem spielt mit  Santacreu (Post-Metal) und The Eyes (Heavy). Ich glaube, wenn wir das alles mischen würden, würde es wie Malämmar klingen. Wir haben im Übrigen auch alle einen anderen Musikgeschmack. Ich liebe zum Beispiel Hardcore-Punk, Neo-Folk, Black Metal und Soundtracks. Beim Rest von uns ist es genauso. Wir hören alle viele verschiedene Musikrichtungen, aber wir spielen gerne unseren eigenen Stil.
 
 ## "Wir fangen meistens mit einem Gitarren-Riff an"
 
 **Anne:** Was treibt Euch an, wenn Ihr neue Musik machst? Gibt es irgendetwas Bestimmtes, von dem Du sagen würdest, dass es Euch die Motivation und Ausdauer gibt, die Dinge in Gang zu bringen?
 
-![Malämmar](/img/5.jpg "Malämmar")
-
 **Xavi:** Normalerweise habe ich ein paar Ideen in Form Gitarren-Riffs. Anschließend bauen wir dann im Proberaum einen Song drum herum. Wir arbeiten gerne mit einem einfachen Riff und arbeiten auf dieser Basis so lange weiter, bis sich etwas daraus ergibt.
 
 **Anne:** Ihr habt 2019 einen ziemlich großartigen Gig auf der DUNK!festival Waldbühne gespielt. Die Stimmung dort war einfach magisch. Hast Du das auch schon bei anderen Gigs, die Du gespielt hast, erlebt?
 
+![Malämmar](/img/6.jpg "Malämmar")
+
 ## "Die Musikszene in Barcelona ist gigantisch"
 
 **Xavi:** Nein, das war wirklich total fantastisch und wir werden es nie vergessen. Ich habe 2014 mit meiner alten Band auf der Hauptbühne gespielt, und ich muss sagen, dass die Waldbühne ein anderes Level ist. Du spielst nah an der Menge, und das ist für uns das Wichtigste. Wir erinnern uns, dass wir vor Beginn der Show Bierdosen ins Publikum geworfen haben. Es war der Wahnsinn! Jetzt, wo das DUNK!fest in eine große Halle verlegt wird, wird es ziemlich anders sein, aber ich bin mir sicher, dass es auch großartig sein wird.
-
-![Malämmar](/img/6.jpg "Malämmar")
 
 **Anne:** Du kommst aus Barcelona. Genießt Du es, dort als Musiker zu leben? Wie würdest Du die Musikszene dort insgesamt beschreiben? Ihr habt auch ein großartiges Post-Music Festival namens AMFest, das ich unbedingt besuchen muss, sobald die Pandemie vorbei ist. Was hoffentlich bald der Fall sein wird! Bis Du regelmäßig dort?
 
