@@ -77,7 +77,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Anne:** What makes this record label so unique? Everyone is so kind and open and sympathetic. Is it the incredible music that lives through it?
 
-**Xavi:** I think the most important thing with that label (or festival) is all crew are family or friends. I believe this is the secret, how you can run something so unique and beautiful. Also, they're all lovely people. And have a wonderful and amazing place. Another thing is the people who go to the festival. It's insane that all of them are lovely and peaceful people. I experienced lots of respect at the festival. I can't explain it with words, but DUNK!fest is different from others festivals: All people love and respect each other. And this is also what the DUNK!crew keeps sharing with everyone.
+**Xavi:** I think the most important thing with that label (or festival) is all crew are family and friends. I believe this is the secret, how you can run something so unique and beautiful. Also, they're all lovely people. And have a wonderful and amazing place. Another thing is the people who go to the festival. It's insane that all of them are lovely and peaceful people. I experienced lots of respect at the festival. I can't explain it with words, but DUNK!fest is different from others festivals: All people love and respect each other. And this is also what the DUNK!crew keeps sharing with everyone.
 
 ## "We have a lot of influences"
 
