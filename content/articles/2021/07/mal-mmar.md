@@ -121,4 +121,4 @@ I played the very first show of AMFest in a small venue with my old band. And I 
 
 **Xavi:** We released "Mazza" released on April 30th, and now we can only think about playing the songs live. It's weird to play in front of a seated crowd. But it seems it's the only way to play now. We're planning our first show after lockdown this September/October. And we hope we can tour Europe in 2022. A new record is so far away from our minds, but we have the intention to record something like a single 7", as we did after "Vendetta". We will see when this pandemic will permit us to play and to go back to normal.
 
-![Malämmar – "Mazza". Artwork: Error! Design | large](/img/malaemmmar-1.jpg "Malämmar – \\"Mazza\\". Artwork: Error! Design")
+![Malämmar – "Mazza". Artwork: Error! Design | large](/img/malaemmmar-1.jpg "Malämmar – \"Mazza\". Artwork: Error! Design")
