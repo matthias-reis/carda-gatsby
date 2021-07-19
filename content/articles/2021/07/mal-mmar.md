@@ -67,7 +67,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Xavi:** On this record, we follow the steps from our first album, "Vendetta", but clearly, you can see we're playing more music influences. We have total freedom to play whatever we want. This album is faster and more energetic, but we can't forget how we love doom and Black Sabbath. Each song has something new, and we end the record with "Màgia Roja", totally different from the rest of the album.
 
-**Anne:** As a massive fan of DUNK!records, DUNK!festival, and everything surrounding it, I am pretty curious about your cooperation with them. How is it like working together with the DUNK!family? Do you enjoy it?
+**Anne:** As a big fan of DUNK!records, DUNK!festival, and everything surrounding it, I am pretty curious about your cooperation with them. How is it like working together with the DUNK!family? Do you enjoy it?
 
 ## "We love DUNK!fest"
 
