@@ -49,7 +49,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Xavi:** Hi Anne! Thank you very much for supporting us; this means a lot! It seems things are better than 2020, and it looks like tours and shows are planning again (for all bands). We have our fingers crossed cause we need to play and enjoy live gigs.
 
-![Malämmer at the forest stage – DUNK!festival 2019. Picture: Mind Magazine | large](/img/captura-de-pantalla-2017-07-18-a-las-10.19.31.png "Malämmer at the forest stage – DUNK!festival 2019. Picture: Mind Magazine")
+![Malämmer at the forest stage – DUNK!festival 2019. Picture: M.I.N.D Magazine | large](/img/captura-de-pantalla-2017-07-18-a-las-10.19.31.png "Malämmer at the forest stage – DUNK!festival 2019. Picture: M.I.N.D Magazine")
 
 **Anne:** You just released your album "Mazza" some weeks ago. Congrats on that! I can't stop listening to it! Are you happy with the outcome of your work? 
 
