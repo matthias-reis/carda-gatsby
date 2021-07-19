@@ -47,7 +47,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 ## "We need to play gigs again"
 
-**Xavi:** Hi Anne! Thank you very much for supporting us; this means a lot! It seems things are better than 2020, and it looks like tours and shows are planning again (for all bands). We have our fingers crossed cause we need to play or enjoy live gigs.
+**Xavi:** Hi Anne! Thank you very much for supporting us; this means a lot! It seems things are better than 2020, and it looks like tours and shows are planning again (for all bands). We have our fingers crossed cause we need to play and enjoy live gigs.
 
 ![Malämmer at the forest stage – DUNK!festival 2019.](/img/2.jpg "Malämmer at the forest stage – DUNK!festival 2019.")
 
