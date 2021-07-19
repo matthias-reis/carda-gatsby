@@ -47,7 +47,7 @@ Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Me
 
 ## "Wir wollen endlich wieder live spielen"
 
-**Xavi:** Hallo Anne! Vielen Dank, dass Du uns unterstützt. Das bedeutet uns sehr viel! Es scheint, dass die Dinge besser laufen, als 2020. Es sieht danach aus, als würde es bald wieder Touren und Shows geben – für alle Bands. Wir drücken die Daumen, denn wir wollen unbedingt spielen und wieder unsere Live-Gigs genießen!
+**Xavi:** Hallo Anne! Vielen Dank, dass Du uns unterstützt. Das bedeutet uns sehr viel! Es scheint, dass die Dinge besser laufen, als 2020. Es sieht danach aus, als würde es bald wieder Touren und Shows geben – für alle Bands. Wir drücken uns die Daumen, denn wir wollen unbedingt spielen und wieder unsere Live-Gigs genießen!
 
 ![Malämmer at the forest stage – DUNK!festival 2019. Picture: M.I.N.D Magazine | large](/img/captura-de-pantalla-2017-07-18-a-las-10.19.31.png "Malämmer at the forest stage – DUNK!festival 2019. Picture: M.I.N.D Magazine")
 
