@@ -49,7 +49,7 @@ Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Me
 
 **Xavi:** Hallo Anne! Vielen Dank, dass Du uns unterstützt. Das bedeutet uns sehr viel! Es scheint, dass die Dinge besser laufen, als 2020. Es sieht danach aus, als würde es bald wieder Touren und Shows geben – für alle Bands. Wir drücken die Daumen, denn wir wollen unbedingt spielen und wieder unsere Live-Gigs genießen!
 
-![Malämmer auf der Waldbühne – DUNK!festival 2019. | large](/img/2.jpg "Malämmer auf der Waldbühne – DUNK!festival 2019.")
+![Malämmer at the forest stage – DUNK!festival 2019. Picture: Mind Magazine | large](/img/captura-de-pantalla-2017-07-18-a-las-10.19.31.png "Malämmer at the forest stage – DUNK!festival 2019. Picture: Mind Magazine")
 
 **Anne:** Ihr habt ja vor ein paar Wochen Euer Album "Mazza" veröffentlicht. Herzlichen Glückwunsch dazu! Ich kann nicht aufhören, es mir anzuhören, es ist einfach großartig. Seid Ihr mit dem Ergebnis Eurer Arbeit zufrieden? 
 
