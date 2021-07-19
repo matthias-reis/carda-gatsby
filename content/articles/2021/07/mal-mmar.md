@@ -49,7 +49,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Xavi:** Hi Anne! Thank you very much for supporting us; this means a lot! It seems things are better than 2020, and it looks like tours and shows are planning again (for all bands). We have our fingers crossed cause we need to play and enjoy live gigs.
 
-![Malämmer at the forest stage – DUNK!festival 2019.](/img/2.jpg "Malämmer at the forest stage – DUNK!festival 2019.")
+![Malämmer at the forest stage – DUNK!festival 2019. | large](/img/2.jpg "Malämmer at the forest stage – DUNK!festival 2019.")
 
 **Anne:** You just released your album "Mazza" some weeks ago. Congrats on that! I can't stop listening to it! Are you happy with the outcome of your work? 
 
@@ -59,7 +59,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Anne:** What story is the album about? Did you follow a concept when you were recording it?
 
-![Malämmar](/img/3.jpg "Malämmar")
+![Malämmar | large](/img/3.jpg "Malämmar")
 
 **Xavi:** "Mazza" is about a party and an afterparty. Yes, simple like that (laughs)!
 
@@ -73,7 +73,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Xavi:** I'm working at DUNK!fest since 2015, designing all posters and album artworks from their lives. When we recorded our first album as Malämmar, DUNK!records were the first option for us – and they like it and help us instantly. We love DUNK!records, and we love DUNK!fest. We played twice at the forest stage and for us is the bests shows we ever did.
 
-![Malämmar](/img/4.jpg "Malämmar")
+![Malämmar | large](/img/4.jpg "Malämmar")
 
 **Anne:** What makes this record label so unique? Everyone is so kind and open and sympathetic. Is it the incredible music that lives through it?
 
@@ -85,7 +85,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Xavi:** It seems that you must tag it as "post-rock" when you're making instrumental music. We started the band with a fixed intention: play slow, doom and dark. But we have a lot of influences or past bands. I played in Syberia (instrumental) and Carontte (post-metal). Victor plays/ed in Gambardella (instrumental Jazz) and Rebuig (sludge). And Guillem plays/ed in Santacreu (post-metal) and The Eyes (Heavy). So when we mix all of them, it sounds like Malämmar, I think. By the way: We all have different tastes in music. I, for example, love hardcore punk music, neo-folk, black metal, and soundtracks. It's the same with the rest of us. We all listen to a lot of music types, but we enjoy playing our own style.
 
-![Malämmar](/img/5.jpg "Malämmar")
+![Malämmar | large](/img/5.jpg "Malämmar")
 
 **Anne:** What drives you on when you are making new music? Is there anything in particular that you would say gives you the motivation and endurance to get things going?
 
@@ -97,7 +97,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Xavi:** Nope, this was totally amazing, and we'll never forget. I played at the main stage in 2014 with my old band, and I must say that the forest stage is another level. You're playing close to the crowd, and for us, that is the most important. We remember ourselves throwing beer cans to the audience before the show started. It was insane! Now that DUNK!fest changes the location to a big venue, it will be pretty different, but I am sure it will also be fantastic.
 
-![Malämmar](/img/6.jpg "Malämmar")
+![Malämmar | large](/img/6.jpg "Malämmar")
 
 ## "Barcelona's music scene is fantastic"
 
