@@ -65,7 +65,7 @@ Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Me
 
 **Anne:** Wie unterscheidet sich "Mazza" von den Platten, die ihr vorher gemacht habt?
 
-**Xavi:** Auf dieser Platte folgen wir den Schritten von unserem ersten Album, "Vendetta". Wir haben aber mehr musikalische Einflüsse einfließen lassen und das hört man auch. Wir haben uns die Freiheit genommen, genau zu spielen, was wir wollen. Dieses Album ist schneller und energiegeladener, aber wir können dennoch nicht vergessen, wie sehr wir Doom und Black Sabbath lieben. Jeder Song hat etwas Neues und das Finale "Màgia Roja" hebt sich komplett vom Rest der Platte ab.
+**Xavi:** Auf dieser Platte folgen wir den Schritten von unserem ersten Album, "Vendetta". Wir haben aber mehr musikalische Einflüsse einfließen lassen und das hört man auch. Wir haben uns die Freiheit genommen, genau das zu spielen, was wir spielen wollten. Dieses Album ist schneller und energiegeladener, aber wir können dennoch nicht vergessen, wie sehr wir Doom und Black Sabbath lieben. Jeder Song hat etwas Neues und das Finale "Màgia Roja" hebt sich komplett vom Rest der Platte ab.
 
 ## "Die Shows auf der Waldbühne beim DUNK!festival sind unvergesslich"
 
