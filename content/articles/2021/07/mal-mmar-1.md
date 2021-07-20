@@ -11,7 +11,7 @@ description: 'Heute habe ich eine große Post-Music Sensation für Euch: Nach de
   habe mich mit Gründer Xavi Forné (auch bekannt durch Error! Design)
   unterhalten. '
 image: /img/1.jpg
-copyrigt: Marlämmar
+copyrigt: Sergio Albert
 ogImage: /img/mala-mmar-fb.jpg
 labels:
   - Malämmar
@@ -59,7 +59,7 @@ Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Me
 
 **Anne:** Worum dreht sich das Album? Habt Ihr ein Konzept verfolgt, als Ihr es aufgenommen habt?
 
-![Malämmar | large](/img/3.jpg "Malämmar")
+![Malämmar. Bild/picture: © Sergi Vila | large](/img/3.jpg "Malämmar. Bild/picture: © Sergi Vila")
 
 **Xavi:** "Mazza" handelt von einer Party und einer Afterparty. Ja, so einfach ist das (lacht)!
 
@@ -73,7 +73,7 @@ Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Me
 
 **Xavi:** Ich arbeite seit 2015 mit dem DUNK!team und entwerfe alle Poster und Album-Artworks für ihre Welt. Als wir als Malämmar unser erstes Album aufgenommen haben, waren DUNK!records natürlich unsere erste Wahl – und sie waren auch sofort begeistert und für uns da. Wir lieben DUNK!records, und wir lieben das DUNK!festival. Wir haben zweimal auf der Waldbühne gespielt und für uns sind das die besten Shows, die wir je gemacht haben.
 
-![Malämmar | large](/img/4.jpg "Malämmar")
+![Malämmar. Bild/picture: © Sergi Vila | large](/img/4.jpg "Malämmar. Bild/picture: © Sergi Vila")
 
 **Anne:** Was macht dieses Plattenlabel so einzigartig? Alle sind so freundlich, offen und sympathisch. Ist es die unglaubliche Musik, die es zu etwas ganz Besonderem macht?
 
@@ -83,7 +83,7 @@ Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Me
 
 **Anne:** Wolltet Ihr schon immer Post-Rock machen? Oder liegen Eure Wurzeln woanders?
 
-![Malämmar | large](/img/5.jpg "Malämmar")
+![Malämmar. Bild/picture: © Sergi Vila | large](/img/5.jpg "Malämmar. Bild/picture: © Sergi Vila")
 
 **Xavi:** Es scheint, dass man es als "Post-Rock" bezeichnen muss, wenn man Instrumentalmusik macht. Wir haben die Band mit einer festen Absicht gegründet: getragen und düsteren Sound zu machen. Aber wir bringen eine Menge Einflüsse mit. Auch aus den Bands, bei denen wir früher gespielt haben. Ich habe in Syberia (Instrumental) und Carontte (Post-Metal) gespielt. Victor spielte und spielt noch mit Gambardella (Instrumentaler Jazz) und Rebuig (Sludge). Und Guillem spielt mit  Santacreu (Post-Metal) und The Eyes (Heavy). Ich glaube, wenn wir das alles mischen würden, würde es wie Malämmar klingen. Wir haben im Übrigen auch alle einen anderen Musikgeschmack. Ich liebe zum Beispiel Hardcore-Punk, Neo-Folk, Black Metal und Soundtracks. Beim Rest von uns ist es genauso. Wir hören alle viele verschiedene Musikrichtungen, aber wir spielen gerne unseren eigenen Stil.
 
@@ -95,7 +95,7 @@ Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Me
 
 **Anne:** Ihr habt 2019 einen ziemlich großartigen Gig auf der DUNK!festival Waldbühne gespielt. Die Stimmung dort war einfach magisch. Hast Du das auch schon bei anderen Gigs, die Du gespielt hast, erlebt?
 
-![Malämmar | large](/img/6.jpg "Malämmar")
+![Malämmar. Bild/picture: © Sergi Vila | large](/img/6.jpg "Malämmar. Bild/picture: © Sergi Vila")
 
 ## "Die Musikszene in Barcelona ist gigantisch"
 
@@ -123,4 +123,7 @@ Ich habe die allererste Show des AMFestes in einer kleinen Location mit meiner a
 
 **Xavi:** Seit wir "Mazza" am 30. April veröffentlicht haben, können wir nur daran denken, diese Songs endlich live zu spielen. Es ist komisch, vor einem sitzenden Publikum zu aufzutreten. Aber es scheint die einzige Möglichkeit zu sein, bald wieder vor Leuten Musik zu machen. Wir planen unsere erste Show nach dem Lockdown im September oder Oktober. Und wir hoffen, dass wir 2022 durch Europa touren können. Eine neue Platte ist im Moment noch nicht in Sicht, aber wir haben die Absicht, so etwas wie eine einzelne 7" aufzunehmen, wie wir es nach "Vendetta" gemacht haben. Wir werden sehen, wann diese Pandemie es uns erlaubt, zu spielen und zur Normalität zurückzukehren.
 
-![Malämmar – "Mazza". Artwork: Error! Design | large](/img/malaemmmar-1.jpg "Malämmar – \\\\"Mazza\\\\". Artwork: Error! Design")
+![Malämmar – "Mazza". Artwork: Error! Design | large](/img/malaemmmar-1.jpg "Malämmar – \\\\\"Mazza\\\\\". Artwork: Error! Design")
+
+Live Bilder/pictures: © Sergi Vila
+Promo Bilder/pictures: © Sergio Albert
