@@ -39,7 +39,7 @@ affiliate: false
 language: de
 languageLink: /2021/07/malaemmar-interview-en/
 ---
-**Heute habe ich eine große Post-Music Sensation für Euch: Nach der Erwähnung ihres aktuellen Albums "Mazza", das ich zutiefst bewundere und permanent höre, hat sich Malämmar zu einem Interview bereit erklärt!**
+**Heute habe ich eine große Post-Music Sensation für Euch: Nach der Erwähnung ihres aktuellen Albums "Mazza", das ich zutiefst bewundere und permanent höre, haben sich Malämmar zu einem Interview bereit erklärt!**
 
 Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Menschen hinter Error! Design) über die Musik der Post-Metal Band aus Barcelona, die aktuelle Situation und Malämmars Zukunftspläne unterhalten. 
 
