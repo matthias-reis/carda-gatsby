@@ -7,9 +7,9 @@ subTitle: '"Wir wollen getragen und düster klingen"'
 seoTitle: Interview mit Malämmar – "Wir wollen getragen und düster klingen"
 description: 'Heute habe ich eine große Post-Music Sensation für Euch: Nach der
   Erwähnung ihres aktuellen Albums "Mazza", das ich zutiefst bewundere und
-  permanent höre, hat sich die Post-Rock-Band aus Barcelona zu einem Interview
-  bereit erklärt! Ich habe mich mit Gründer Xavi Forné (auch bekannt durch
-  Error! Design) unterhalten. '
+  permanent höre, haben sich Malämmar zu einem Interview bereit erklärt! Ich
+  habe mich mit Gründer Xavi Forné (auch bekannt durch Error! Design)
+  unterhalten. '
 image: /img/1.jpg
 copyrigt: Marlämmar
 ogImage: /img/mala-mmar-fb.jpg
@@ -39,9 +39,9 @@ affiliate: false
 language: de
 languageLink: /2021/07/malaemmar-interview-en/
 ---
-**Heute habe ich eine große Post-Music Sensation für Euch: Nach der Erwähnung ihres aktuellen Albums "Mazza", das ich zutiefst bewundere und permanent höre, hat sich die Post-Rock-Band aus Barcelona zu einem Interview bereit erklärt!**
+**Heute habe ich eine große Post-Music Sensation für Euch: Nach der Erwähnung ihres aktuellen Albums "Mazza", das ich zutiefst bewundere und permanent höre, hat sich Malämmar zu einem Interview bereit erklärt!**
 
-Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Menschen hinter Error! Design) über ihre Musik, die aktuelle Situation und Malämmars Zukunftspläne unterhalten. 
+Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Menschen hinter Error! Design) über die Musik der Post-Metal Band aus Barcelona, die aktuelle Situation und Malämmars Zukunftspläne unterhalten. 
 
 **Anne:** Hallo! Vielen Dank, dass Du Dich zu diesem Interview bereit erklärt hast! Ich bin sehr gespannt darauf, Malämmar kennenzulernen. Wie geht es Euch heute? Wie laufen die Dinge in diesen schweren Zeiten?
 
