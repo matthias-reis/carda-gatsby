@@ -7,9 +7,9 @@ subTitle: '"We Want To Play Slow, Doom And Dark"'
 seoTitle: Interview With Malämmar – "We Want To Play Slow, Doom And Dark"
 description: 'Today, I have a huge post-music sensation for you: After
   mentioning their current album "Mazza", which I deeply adore and keep on
-  listening to from day one on, the post-rock band from Barcelona agreed to an
-  interview! I talked to founder Xavi Forné (you may also know him as the person
-  behind Error! Design).'
+  listening to from day one on, Malämmar agreed to an interview! I talked to
+  founder Xavi Forné (you may also know him as the person behind Error!
+  Design).'
 image: /img/1.jpg
 copyrigt: Malämmar
 ogImage: /img/mala-mmar-fb.jpg
@@ -39,7 +39,7 @@ affiliate: false
 language: en
 languageLink: /2021/07/malaemmar-interview/
 ---
-**Today, I have a huge post-music sensation for you: After mentioning their current album "Mazza", which I deeply adore and keep on listening to from day one on, the post-rock band from Barcelona agreed to an interview!**
+**Today, I have a huge post-music sensation for you: After mentioning their current album "Mazza", which I deeply adore and keep on listening to from day one on, Malämmar agreed to an interview!**
 
 I talked to founder Xavi Forné (you may also know him as the person behind Error! Design) about their music, the current situation and Malämmar's plans for the future. 
 
@@ -121,4 +121,4 @@ I played the very first show of AMFest in a small venue with my old band. And I 
 
 **Xavi:** We released "Mazza" released on April 30th, and now we can only think about playing the songs live. It's weird to play in front of a seated crowd. But it seems it's the only way to play now. We're planning our first show after lockdown this September/October. And we hope we can tour Europe in 2022. A new record is so far away from our minds, but we have the intention to record something like a single 7", as we did after "Vendetta". We will see when this pandemic will permit us to play and to go back to normal.
 
-![Malämmar – "Mazza". Artwork: Error! Design | large](/img/malaemmmar-1.jpg "Malämmar – \\"Mazza\\". Artwork: Error! Design")
+![Malämmar – "Mazza". Artwork: Error! Design | large](/img/malaemmmar-1.jpg "Malämmar – \\\"Mazza\\\". Artwork: Error! Design")
