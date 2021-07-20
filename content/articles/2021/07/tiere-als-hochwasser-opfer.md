@@ -5,10 +5,10 @@ typeName: Beitrag
 title: Tiere als Hochwasser-Opfer
 subTitle: Hier könnt Ihr spenden
 seoTitle: Tiere als Hochwasseropfer – hier könnt Ihr spenden
-description: Tiere als Hochwasseropfer leiden besonders. Wer während der
+description: "Sie leiden besonders: Tiere als Hochwasseropfer. Wer während der
   aktuellen Lage rund um das verheerende Hochwasser in Europa werden sie leider
-  viel zu selten erwähnt. Viele von ihnen sind unbemerkt ertrunken. So könnt Ihr
-  denen, die überlebt haben, helfen.
+  dennoch viel zu selten erwähnt. Viele von ihnen sind unbemerkt ertrunken. So
+  könnt Ihr denen, die überlebt haben, helfen."
 image: /img/feuerwehr-essen.jpg
 copyrigt: Feuerwehr Essen
 ogImage: /img/tierrettung-essen.png
@@ -26,7 +26,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Tiere als Hochwasseropfer leiden besonders. Wer während der aktuellen Lage rund um das verheerende Hochwasser in Europa werden sie leider viel zu selten erwähnt. Viele von ihnen sind unbemerkt ertrunken. So könnt Ihr denen, die überlebt haben, helfen.**
+**Sie leiden besonders: Tiere als Hochwasseropfer. Wer während der aktuellen Lage rund um das verheerende Hochwasser in Europa werden sie leider dennoch viel zu selten erwähnt. Viele von ihnen sind unbemerkt ertrunken. So könnt Ihr denen, die überlebt haben, helfen.**
 
 Allein bei einem Geflügel-Mastbetrieb in Trasadingen im Schweizer Kanton Schaffhausen sollen 17.000 Hühner gestorben sein. Als das Wasser kam, hatten sie keine Chance. Aus einem Bericht der Polizei vor Ort ging hervor, dass 11.500 der Hühner direkt im Maststall ertranken. Weitere 5.500 Tiere wurden später eingeschläfert. 
 
