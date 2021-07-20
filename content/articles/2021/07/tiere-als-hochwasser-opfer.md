@@ -40,7 +40,7 @@ Es gingen unzählige Suchmeldungen bei der Polizei und dem Tierschutz ein. Sogar
 
 ## Auch Wildtiere sind in Not
 
-Die Tierrettung war auch eine der ersten, die einen Aufruf mit der Bitte, in den betroffenen Gebieten verbliebene Tiere zu melden, an alle Tierhalter⋆innen sendete. So konnten unter anderem zwei Ponys in Sicherheit gebracht werden.
+Die Tierrettung Essen war auch eine der ersten, die einen Aufruf mit der Bitte, in den betroffenen Gebieten verbliebene Tiere zu melden, an alle Tierhalter⋆innen sendete. So konnten unter anderem zwei Ponys in Sicherheit gebracht werden.
 
 Bei guten Nachrichten wie dieser handelt es sich jedoch um Einzelfälle. Auch, wenn sie momentan in den Medien präsenter sind, als die Fälle, in denen es nicht gut ausgegangen ist. Das Ausmaß der Katastrophe ist schrecklich. Bisher lässt sich nur grob schätzen, wie viele Tiere in den Fluten umgekommen sind. Teilweise wurden ganze Ställe einfach davon gerissen und auch viele Wildtiere befinden sich in einer ausweglosen Situation. Auf dem Foto oben seht Ihr ein Rehkitz, das die Feuerwehr Essen aus dem Wasser retten konnte. 
 
