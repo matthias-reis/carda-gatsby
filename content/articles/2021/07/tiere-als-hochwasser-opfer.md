@@ -32,7 +32,7 @@ Allein bei einem Geflügel-Mastbetrieb in Trasadingen im Schweizer Kanton Schaff
 
 ## 17.000 Hühner im Hochwasser gestorben
 
-Im Landkreis Trier konnten Helfer⋆innen rund 60 Tiere aus dem Hochwasser retten. Darunter waren nicht nur Hunde, Katzen und Kleintiere, die Menschen bei ihrer Flucht aus den volllaufenden Häusern zurücklassen mussten, sondern auch Ponys und Wildtiere wie Rehe. 
+Im Landkreis Trier konnten Helfer⋆innen rund 60 Tiere aus dem Hochwasser retten. Darunter waren nicht nur Hunde, Katzen und Kleintiere, die Menschen bei ihrer Flucht aus den volllaufenden Häusern zurücklassen mussten, sondern auch Pferde und Wildtiere wie Rehe. 
 
 ![Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.](/img/tierrettung-essen.jpg "Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.")
 
