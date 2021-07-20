@@ -36,7 +36,7 @@ Im Landkreis Trier konnten Helfer⋆innen rund 60 Tiere aus dem Hochwasser rette
 
 ![Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.](/img/tierrettung-essen.jpg "Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.")
 
-Es gingen unzählige Suchmeldungen bei der Polizei und dem Tierschutz ein. Sogar eine komplette Schafherde wurde vermisst. Die Lage bleibt nach wie vor unübersichtlich. Bilder wie das von dem Hund, der sich im Wasser verzweifelt an einer Leitplanke festklammert, das die Tierrettung Essen auf Facebook teilte, machen traurig. Sie zeigen nur einen kleinen Teil des Dramas, das sich nach wie vor abspielt.
+Es gingen unzählige Suchmeldungen bei der Polizei und dem Tierschutz ein. Sogar eine komplette Schafherde wurde vermisst. Die Lage bleibt nach wie vor unübersichtlich. Bilder wie das von dem Hund, der sich im Wasser verzweifelt an einer Leitplanke festklammert, das die Tierrettung Essen auf Facebook teilte, machen traurig. Sie zeigen nur einen kleinen Teil des Dramas, das nach wie vor anhält.
 
 ## Auch Wildtiere sind in Not
 
