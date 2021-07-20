@@ -50,11 +50,11 @@ Nach der Rettung ist es besonders wichtig, die Tiere zu beobachten und gut zu be
 
 Im Moment arbeiten Tierheime, die nicht vom Hochwasser betroffen sind, daran, Tiere aus überschwemmten Heimen aufzunehmen. Unter anderem musste das Tierheim Solingen komplett evakuiert werden. In Köln wurde der Erlebnisbauernhof Gertrudenhof am Mittwoch vom Wasser überrascht.
 
-Anwohner⋆innen und Spaziergänger⋆innen werden immer wieder dazu aufgerufen, sich mit ihren Hunden vom Wasser fernzuhalten. Ein Spaziergang auf einem Damm oder an der Wasserkante kann nicht nur für den eigenen Hund gefährlich werden. Immer wieder ertrinken Wildtiere, weil sie durch Menschen in ihrem durch das Wasser extrem eingeschränkten Lebensraum in Panik versetzt werden.
+Anwohner⋆innen und Spaziergänger⋆innen werden immer wieder dazu aufgerufen, sich mit ihren Hunden vom Wasser fernzuhalten. Ein Spaziergang auf einem Damm oder an der Wasserkante kann nicht nur für den eigenen Hund gefährlich werden. Immer wieder ertrinken Wildtiere, weil sie durch Menschen und Hunde in ihrem durch das Wasser extrem eingeschränkten Lebensraum in Panik versetzt werden.
 
 ## Hinterlassene Tiere melden
 
-Wer sich innerhalb eines Hochwassergebietes befindet, sollte außerdem aufmerksam darauf achten, ob sie noch irgendwo Tiere sehen. Um Unfälle zu vermeiden und das eigene Leben nicht zu gefährden, sollte man in diesem Fall am besten im ersten Schritt den örtlichen Tierschutz kontaktieren. Dieser leitet die weiteren Schritte ein und arbeitet, falls notwendig, eng mit der Feuerwehr oder Rettungsteams vor Ort zusammen. Die Telefonnummern, die man im Falle einer Sichtung anrufen kann, findet man auch auf den Webseiten der Rettungszentralen.
+Wer sich innerhalb eines Hochwassergebietes befindet, sollte außerdem aufmerksam darauf achten, ob noch noch irgendwo Tiere sind. Um Unfälle zu vermeiden und das eigene Leben nicht zu gefährden, sollte man in diesem Fall am besten im ersten Schritt den örtlichen Tierschutz kontaktieren. Dieser leitet die weiteren Schritte ein und arbeitet, falls notwendig, eng mit der Feuerwehr oder Rettungsteams vor Ort zusammen. Die Telefonnummern, die man im Falle einer Sichtung anrufen kann, findet man auch auf den Webseiten der Rettungszentralen.
 
 Für die Rettung von Tieren im Katastrophenfall gibt es in Deutschland keine einheitliche Regelung. Die Bundesländer können die Vorgaben zur Tierrettung in ihren Landesfeuerwehr- und Brandschutzgesetzen jeweils selbst bestimmen. Das gilt bei Unfällen im Alltag übrigens ebenso. Die Einsatzkräfte vor Ort entscheiden dann individuell, was gemacht wird.
 
