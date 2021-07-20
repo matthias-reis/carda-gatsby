@@ -54,7 +54,7 @@ Anwohner⋆innen und Spaziergänger⋆innen werden immer wieder dazu aufgerufen,
 
 ## Hinterlassene Tiere melden
 
-Wer sich innerhalb eines Hochwassergebietes befindet, sollte außerdem aufmerksam darauf achten, ob noch noch irgendwo Tiere sind. Um Unfälle zu vermeiden und das eigene Leben nicht zu gefährden, sollte man in diesem Fall am besten im ersten Schritt den örtlichen Tierschutz kontaktieren. Dieser leitet die weiteren Schritte ein und arbeitet, falls notwendig, eng mit der Feuerwehr oder Rettungsteams vor Ort zusammen. Die Telefonnummern, die man im Falle einer Sichtung anrufen kann, findet man auch auf den Webseiten der Rettungszentralen.
+Wer sich innerhalb eines Hochwassergebietes befindet, sollte außerdem aufmerksam darauf achten, ob noch irgendwo Tiere sind. Um Unfälle zu vermeiden und das eigene Leben nicht zu gefährden, sollte man in diesem Fall am besten im ersten Schritt den örtlichen Tierschutz kontaktieren. Dieser leitet die weiteren Schritte ein und arbeitet, falls notwendig, eng mit der Feuerwehr oder Rettungsteams vor Ort zusammen. Die Telefonnummern, die man im Falle einer Sichtung anrufen kann, findet man auch auf den Webseiten der Rettungszentralen.
 
 Für die Rettung von Tieren im Katastrophenfall gibt es in Deutschland keine einheitliche Regelung. Die Bundesländer können die Vorgaben zur Tierrettung in ihren Landesfeuerwehr- und Brandschutzgesetzen jeweils selbst bestimmen. Das gilt bei Unfällen im Alltag übrigens ebenso. Die Einsatzkräfte vor Ort entscheiden dann individuell, was gemacht wird.
 
@@ -62,16 +62,11 @@ Für die Rettung von Tieren im Katastrophenfall gibt es in Deutschland keine ein
 
 Eine Spendenaktion für die Tiere im Hochwasser hat unter anderem Fressnapf ins Leben gerufen. Dort können durch das Hochwasser zu Schaden gekommene auch unkompliziert Sachspenden für Tiere anfordern. Auf Facebook haben verschiedene Organisationen zusammen mit der Tierschutzpartei die Gruppe "Hilfe für vom Hochwasser betroffene Tierhalter" ins Leben gerufen. In den sozialen Netzwerken gibt es außerdem verschiedene lokale Gruppen dieser Art. Wenn Ihr direkt spenden möchtet, kontaktiert am besten die Gnadenhöfe und Tierheime vor Ort und macht Euch vorher auf jeden Fall schlau. Die von den verschiedenen Hilfsorganisationen gesammelten Sachspenden für die Hochwasseropfer sind auf jeden Fall angekommen. Allerdings rufen die Vereine bereits über die öffentlich rechtlichen Sender dazu auf, mit Sachspenden langsam zu machen. Diese häufen sich immer mehr an und die aufwändige Verteilung erschwert die Hilfe.  Spenden könnt Ihr hier:
 
-- [Aktion Deutschland hilft](https://www.aktion-deutschland-hilft.de/de/lp-hochwasser-deutschland/)
-
-- [Zentrale Anlaufstelle für Hilfesuchende und Helfende](https://hochwasserhilfe-navi.de/)
-
-- [Schnelle Hochwasserhilfe für Tiere in Not, Fressnapf](https://www.betterplace.org/de/fundraising-events/38319-schnelle-hochwasserhilfe-fuer-tierheime-in-not)
-
-- [Tierrettung Essen](http://www.tierrettung-essen.de/4773.html)
-
-- [Flutopfer-Hilfe für Tiere in Not](https://www.betterplace.org/de/projects/97695-flutopfer-hilfe-fuer-tiere-in-not)
-
-- [Durch das Hochwasser in Not geratene Tiere, Tierschutzverein Wachtberg](https://www.betterplace.org/de/projects/85702-spendenaufruf-hochwasser-in-not-geratene-tiere-tierschutzverein-wachtberg)
+* [Aktion Deutschland hilft](https://www.aktion-deutschland-hilft.de/de/lp-hochwasser-deutschland/)
+* [Zentrale Anlaufstelle für Hilfesuchende und Helfende](https://hochwasserhilfe-navi.de/)
+* [Schnelle Hochwasserhilfe für Tiere in Not, Fressnapf](https://www.betterplace.org/de/fundraising-events/38319-schnelle-hochwasserhilfe-fuer-tierheime-in-not)
+* [Tierrettung Essen](http://www.tierrettung-essen.de/4773.html)
+* [Flutopfer-Hilfe für Tiere in Not](https://www.betterplace.org/de/projects/97695-flutopfer-hilfe-fuer-tiere-in-not)
+* [Durch das Hochwasser in Not geratene Tiere, Tierschutzverein Wachtberg](https://www.betterplace.org/de/projects/85702-spendenaufruf-hochwasser-in-not-geratene-tiere-tierschutzverein-wachtberg)
 
 Titelbild: [Feuerwehr Essen](https://www.feuerwehr-essen.com/), Bild im Text: [Tierrettung Essen](http://www.tierrettung-essen.de/4773.html)
