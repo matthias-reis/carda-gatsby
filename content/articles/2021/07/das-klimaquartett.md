@@ -84,4 +84,4 @@ Wenn durch das Spiel einige Menschen sensibler werden und ein paar Leute mehr ve
 
 <Gallery name="klimaquartett-unten" />
 
-Bilder: Ann Christin Müller
+ Illustrationen: Ann Christin Müller
