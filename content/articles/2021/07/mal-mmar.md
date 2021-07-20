@@ -11,7 +11,7 @@ description: 'Today, I have a huge post-music sensation for you: After
   founder Xavi Forné (you may also know him as the person behind Error!
   Design).'
 image: /img/1.jpg
-copyrigt: Malämmar
+copyrigt: Sergio Albert
 ogImage: /img/mala-mmar-fb.jpg
 labels:
   - Malämmar
@@ -59,7 +59,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Anne:** What story is the album about? Did you follow a concept when you were recording it?
 
-![Malämmar | large](/img/3.jpg "Malämmar")
+![Malämmar.  Picture: © Sergi Vila  | large](/img/3.jpg "Malämmar.  Picture: © Sergi Vila ")
 
 **Xavi:** "Mazza" is about a party and an afterparty. Yes, simple like that (laughs)!
 
@@ -73,7 +73,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Xavi:** I'm working at DUNK!fest since 2015, designing all posters and album artworks from their lives. When we recorded our first album as Malämmar, DUNK!records were the first option for us – and they like it and help us instantly. We love DUNK!records, and we love DUNK!fest. We played twice at the forest stage and for us is the bests shows we ever did.
 
-![Malämmar | large](/img/4.jpg "Malämmar")
+![Malämmar.  Picture: © Sergi Vila  | large](/img/4.jpg "Malämmar.  Picture: © Sergi Vila ")
 
 **Anne:** What makes this record label so unique? Everyone is so kind and open and sympathetic. Is it the incredible music that lives through it?
 
@@ -85,7 +85,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Xavi:** It seems that you must tag it as "post-rock" when you're making instrumental music. We started the band with a fixed intention: play slow, doom and dark. But we have a lot of influences or past bands. I played in Syberia (instrumental) and Carontte (post-metal). Victor plays/ed in Gambardella (instrumental Jazz) and Rebuig (sludge). And Guillem plays/ed in Santacreu (post-metal) and The Eyes (Heavy). So when we mix all of them, it sounds like Malämmar, I think. By the way: We all have different tastes in music. I, for example, love hardcore punk music, neo-folk, black metal, and soundtracks. It's the same with the rest of us. We all listen to a lot of music types, but we enjoy playing our own style.
 
-![Malämmar | large](/img/5.jpg "Malämmar")
+![Malämmar.  Picture: © Sergi Vila  | large](/img/5.jpg "Malämmar.  Picture: © Sergi Vila ")
 
 **Anne:** What drives you on when you are making new music? Is there anything in particular that you would say gives you the motivation and endurance to get things going?
 
@@ -97,7 +97,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Xavi:** Nope, this was totally amazing, and we'll never forget. I played at the main stage in 2014 with my old band, and I must say that the forest stage is another level. You're playing close to the crowd, and for us, that is the most important. We remember ourselves throwing beer cans to the audience before the show started. It was insane! Now that DUNK!fest changes the location to a big venue, it will be pretty different, but I am sure it will also be fantastic.
 
-![Malämmar | large](/img/6.jpg "Malämmar")
+![Malämmar.  Picture: © Sergi Vila | large](/img/6.jpg "Malämmar.  Picture: © Sergi Vila ")
 
 ## "Barcelona's music scene is fantastic"
 
@@ -121,4 +121,7 @@ I played the very first show of AMFest in a small venue with my old band. And I 
 
 **Xavi:** We released "Mazza" released on April 30th, and now we can only think about playing the songs live. It's weird to play in front of a seated crowd. But it seems it's the only way to play now. We're planning our first show after lockdown this September/October. And we hope we can tour Europe in 2022. A new record is so far away from our minds, but we have the intention to record something like a single 7", as we did after "Vendetta". We will see when this pandemic will permit us to play and to go back to normal.
 
-![Malämmar – "Mazza". Artwork: Error! Design | large](/img/malaemmmar-1.jpg "Malämmar – \\\"Mazza\\\". Artwork: Error! Design")
+![Malämmar – "Mazza". Artwork: Error! Design | large](/img/malaemmmar-1.jpg "Malämmar – \\\\"Mazza\\\\". Artwork: Error! Design")
+
+Live pictures: © Sergi Vila
+Promo pictures: © Sergio Albert
