@@ -48,7 +48,7 @@ Nach der Rettung ist es besonders wichtig, die Tiere zu beobachten und gut zu be
 
 ## Tierheime unter Wasser
 
-Im Moment arbeiten Tierheime, die nicht vom Hochwasser betroffen sind, daran, Tiere aus überschwemmten Heimen aufzunehmen. Unter anderem musste das Tierheim Solingen komplett evakuiert werden. In Köln war der Erlebnisbauernhof Gertrudenhof in Köln am Mittwoch vom Wasser überrascht.
+Im Moment arbeiten Tierheime, die nicht vom Hochwasser betroffen sind, daran, Tiere aus überschwemmten Heimen aufzunehmen. Unter anderem musste das Tierheim Solingen komplett evakuiert werden. In Köln war der Erlebnisbauernhof Gertrudenhof am Mittwoch vom Wasser überrascht.
 
 Anwohner und Spaziergänger⋆innen werden immer wieder dazu aufgerufen, sich mit ihren Hunden vom Wasser fernzuhalten. Ein Spaziergang auf einem Damm oder an der Wasserkante kann nicht nur für den eigenen Hund gefährlich werden. Immer wieder ertrinken Wildtiere, weil sie durch Menschen in ihrem durch das Wasser extrem eingeschränkten Lebensraum in Panik versetzt werden.
 
