@@ -49,7 +49,7 @@ Beim aufmerksamen Erkunden der Songs fallen einem viele liebevolle kleine Detail
 
 ## Eine vielseitige Platte mit spannenden Details
 
-Zement haben ihr drittes Album mit Florian Helleken bei Hersbrooklyn Recordings aufgenommen.   Das Ergebnis ist keineswegs rohes Material, sondern ziemlich ausgefeilt. Dinge wie kleine eingebaute Gitarren- und Saxofon-Soli blühen genau an den richtigen Stellen auf, um dann rechtzeitig wieder im Hintergrund dieser gewaltigen Sound-Wand abzutauchen.
+Zement haben ihr drittes Album mit Florian Helleken bei Hersbrooklyn Recordings aufgenommen.   Das Ergebnis ist keineswegs rohes Material, sondern ziemlich ausgefeilt. Dinge wie kleine eingebaute Gitarren- und Saxofon-Einlagen blühen genau an den richtigen Stellen auf, um dann rechtzeitig wieder im Hintergrund dieser gewaltigen Sound-Wand abzutauchen.
 
 Was mir besonders gut gefällt, ist die Vielseitigkeit und Geschwindigkeit der Platte. Anders, als man es vielleicht bei psychedelisch angehauchten Bands erwarten würde, ufern die Stücke weder aus noch gehen sie ohne merkbare Übergänge ineinander über. Alle acht Songs stehen komplett für sich und bilden zusammen dennoch eine runde und spannende Einheit. Hört rein, es lohnt sich!
 
