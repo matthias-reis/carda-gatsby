@@ -49,7 +49,7 @@ When exploring the songs attentively, you will notice many lovely little details
 
 ## A versatile record with exciting details
 
-Zement recorded their third album with Florian Helleken at Hersbrooklyn Recordings.   The result is by no means raw material but quite polished. Things like little built-in guitar and sax solos blossom and disappear right back into the background of this massive wall of sound in just the right moments.
+Zement recorded their third album with Florian Helleken at Hersbrooklyn Recordings.   The result is by no means raw material but quite polished. Things like little built-in guitar and sax interludes blossom and disappear right back into the background of this massive wall of sound in just the right moments.
 
 What I particularly like about "Rohstoff" is the versatility and speed of the record. Unlike what you might expect from psychedelic bands, the pieces neither get out of hand nor do they merge into each other without noticeable transitions. Instead, all eight songs are standing entirely for themselves and, nonetheless, are building precious completeness when you listen to them in a row. So: Go check it out! It's worth it!
 
