@@ -43,7 +43,11 @@ Nevertheless, Christian Büdel (drums, percussion) and Philipp Hager (guitar, sy
 
 Listening to it triggers a bit more than just nodding your head in time. Zement get you off the couch, and they do it with a good drive.
 
-The project has been around since 2014, and since then, the two sound crafters have clearly found their common wavelength musically. Zement don't level their building material. Instead, they shape imaginative sculptures out of it that send a strong statement into the music world. When exploring the songs attentively, you will notice many lovingly little details – every time you listen to it, there are some more. The mix of raw sounds, solid rhythms and almost hypnotic synth parts works out perfectly.
+The project has been around since 2014, and since then, the two sound crafters have clearly found their common wavelength musically. 
+
+**Zement don't level their building material. Instead, they shape imaginative sculptures out of it that send a strong statement into the music world.**
+
+When exploring the songs attentively, you will notice many lovingly little details – every time you listen to it, there are some more. The mix of raw sounds, solid rhythms and almost hypnotic synth parts works out perfectly.
 
 ## A versatile record with exciting details
 
