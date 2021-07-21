@@ -29,7 +29,7 @@ focusKeyword: Zement
 advertisement: false
 affiliate: false
 language: de
-languageLink: /zement-rohstoff-en/
+languageLink: /2021/07/zement-rohstoff-en/
 ---
 **Zement liefern mit ihrer dritten LP Neo-Krautrock/Psychedelic vom Feinsten ab – perfekt komponiert mit schönen Anleihen aus der technoiden Welt. "Rohstoff" ist eine durchaus tanzbare Platte, die gut in unsere Zeit passt.**
 
