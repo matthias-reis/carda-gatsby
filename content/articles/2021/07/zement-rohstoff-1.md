@@ -33,7 +33,7 @@ languageLink: /2021/07/zement-rohstoff/
 ---
 **With their third LP, Zement deliver neo-krautrock/psychedelic at its best – perfectly composed with beautiful techno borrowings. "Rohstoff" is a thoroughly danceable record that fits well into our times**.
 
-The new album is anything but overproduced. On the contrary, I would say it's quite the opposite: You can find lots of spontaneous moments on "Rohstoff" (Engl.: "raw material"). Moreover, you can see possible influences not only in the DIY punk genre, from which the Würzburg based duo originates, but also in industrial, electro-pop and even warehouse techno. These mutual worlds have certainly not passed them without a trace.
+The new album is anything but overproduced. I would even say it's quite the opposite: You can find lots of spontaneous moments on "Rohstoff" (Engl.: "raw material"). Moreover, you can see possible influences not only in the DIY punk genre, from which the Würzburg based duo originates, but also in industrial, electro-pop and even warehouse techno. These mutual worlds have certainly not passed them without a trace.
 
 ## Zement get you off the couch
 
