@@ -51,7 +51,7 @@ Zement haben ihr drittes Album mit Florian Helleken bei Hersbrooklyn Recordings 
 
 Was mir besonders gut gefällt, ist die Vielseitigkeit und Geschwindigkeit der Platte. Anders, als man es vielleicht bei psychedelisch angehauchten Bands erwarten würde, ufern die Stücke weder aus noch gehen sie ohne merkbare Übergänge ineinander über. Alle acht Songs stehen komplett für sich und bilden zusammen dennoch eine runde und spannende Einheit. Hört rein, es lohnt sich!
 
-"Rohstoff" ist am 9. Juli erschienen. Ihr findet das Album bei allen bekannten Streaming-Diensten und könnt sie auch auf Vinyl erwerben.
+"Rohstoff" ist am 9. Juli erschienen. Ihr findet das Album bei allen bekannten Streaming-Diensten und könnt es auch auf Vinyl erwerben.
 
 ## Zement – "Entzücken"
 
