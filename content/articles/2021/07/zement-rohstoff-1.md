@@ -28,7 +28,7 @@ labels:
 focusKeyword: Zement
 advertisement: false
 affiliate: false
-language: de
+language: en
 languageLink: /2021/07/zement-rohstoff/
 ---
 **With their third LP, Zement deliver neo-krautrock/psychedelic at its best – perfectly composed with beautiful techno borrowings. "Rohstoff" is a thoroughly danceable record that fits well into our times**.
@@ -46,8 +46,6 @@ Listening to it triggers a bit more than just nodding your head in time. Zement 
 The project has been around since 2014, and since then, the two sound crafters have clearly found their common wavelength musically. Zement don't level their building material. Instead, they shape imaginative sculptures out of it that send a strong statement into the music world. When exploring the songs attentively, you will notice many lovingly little details – every time you listen to it, there are some more. The mix of raw sounds, solid rhythms and almost hypnotic synth parts works out perfectly.
 
 ## A versatile record with exciting details
-
-![Zement](/img/zement-rohstoff-2.jpeg "Zement")
 
 Zement recorded their third album with Florian Helleken at Hersbrooklyn Recordings.   The result is by no means raw material but quite polished. Things like little built-in guitar and sax solos blossom and disappear right back into the background of this massive wall of sound in just the right moments.
 
