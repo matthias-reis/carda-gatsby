@@ -39,7 +39,7 @@ Das neue Album ist alles andere als überproduziert. Ganz im Gegenteil – man e
 
 ![Zement – "Rohstoff"](/img/zement-rohstoff-3.jpeg "Zement – \\\"Rohstoff\\\"")
 
-Dennoch schwelgen Christian Büdel (Drums, Percussion) und Philipp Hager (Gitarre, Synths, Drum-Machines, Effekte, Flöten) nicht in Erinnerungen. Sie haben ihren komplett eigenen Stil gefunden und der ist ziemlich cool.
+Dennoch halten sich Christian Büdel (Drums, Percussion) und Philipp Hager (Gitarre, Synths, Drum-Machines, Effekte, Flöten) nicht damit auf, in Erinnerungen zu schwelgen. Sie haben ihren komplett eigenen Stil gefunden und der ist ziemlich cool.
 
 Das Hören löst mehr aus, als nur ein bisschen im Takt mit dem Kopf nicken. Zement holen einen von der Couch runter und das mit einem ordentlichen Drive.
 
