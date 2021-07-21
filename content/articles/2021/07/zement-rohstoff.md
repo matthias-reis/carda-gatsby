@@ -33,7 +33,7 @@ languageLink: /2021/07/zement-rohstoff-en/
 ---
 **Zement liefern mit ihrer dritten LP Neo-Krautrock/Psychedelic vom Feinsten ab – perfekt komponiert mit schönen Anleihen aus der technoiden Welt. "Rohstoff" ist eine durchaus tanzbare Platte, die gut in unsere Zeit passt.**
 
-Das neue Album ist alles andere als überproduziert. Ganz im Gegenteil – man findet jede Menge spontane Momente auf "Rohstoff". Mögliche Einflüsse finde ich hier nicht nur im DIY-Punk Genre, dem das Würzburger Duo entstammt. Industrial, Electro Pop und Warehouse-Techno sind ganz sicher nicht spurlos an den beiden vorbeigezogen.
+Das neue Album ist alles andere als überproduziert. Ganz im Gegenteil – man entdeckt jede Menge spontane Momente auf "Rohstoff". Mögliche Einflüsse finde ich hier nicht nur im DIY-Punk Genre, dem das Würzburger Duo entstammt. Industrial, Electro Pop und Warehouse-Techno sind ganz sicher nicht spurlos an den beiden vorbeigezogen.
 
 ## Zement holen einen von der Couch runter
 
