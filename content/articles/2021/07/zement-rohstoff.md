@@ -37,7 +37,7 @@ Das neue Album ist alles andere als überproduziert. Ganz im Gegenteil – man f
 
 ## Zement holen einen von der Couch runter
 
-![Zement – "Rohstoff"](/img/zement-rohstoff-3.jpeg "Zement – \"Rohstoff\"")
+![Zement – "Rohstoff"](/img/zement-rohstoff-3.jpeg "Zement – \\"Rohstoff\\"")
 
 Dennoch schwelgen Christian Büdel (Drums, Percussion) und Philipp Hager (Gitarre, Synths, Drum-Machines, Effekte, Flöten) nicht in Erinnerungen. Sie haben ihren komplett eigenen Stil gefunden und der ist ziemlich cool.
 
@@ -46,8 +46,6 @@ Das Hören löst ein bisschen mehr aus, als nur ein bisschen im Takt mit dem Kop
 Das Projekt gibt es bereits seit 2014. Seitdem haben die beiden Sound-Bastler musikalisch ganz klar ihre gemeinsame Wellenlänge gefunden. Zement planieren ihren Baustoff nicht, sie formen  fantasievolle Skulpturen daraus, die ein starkes Statement in die Musikwelt senden. Beim aufmerksamen Erkunden der Songs fallen einem viele liebevolle kleine Details auf – und zwar jedes Mal wieder neue. Der Mix aus rohen Sounds, starkem Rhythmus und fast hypnotischen Synth-Parts geht voll auf.
 
 ## Eine vielseitige Platte mit spannenden Details
-
-![Zement](/img/zement-rohstoff-2.jpeg "Zement")
 
 Zement haben ihr drittes Album mit Florian Helleken bei Hersbrooklyn Recordings aufgenommen.   Das Ergebnis ist keineswegs rohes Material, sondern ziemlich ausgefeilt. Dinge wie kleine eingebaute Gitarren- und Saxofon-Soli blühen genau an den richtigen Stellen auf, um dann gleich wieder im Hintergrund dieser gewaltigen Sound-Wand abzutauchen.
 
