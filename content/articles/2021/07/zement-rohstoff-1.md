@@ -37,7 +37,7 @@ The new album is anything but overproduced. On the contrary, I would say it's qu
 
 ## Zement get you off the couch
 
-![Zement – "Rohstoff"](/img/zement-rohstoff-3.jpeg "Zement – \"Rohstoff\"")
+![Zement – "Rohstoff"](/img/zement-rohstoff-3.jpeg "Zement – \\"Rohstoff\\"")
 
 Nevertheless, Christian Büdel (drums, percussion) and Philipp Hager (guitar, synths, drum machines, effects, flutes) are not wallowing in memories or dreaming of the past. Instead, they have found their entirely own style, and it's pretty cool, though.
 
@@ -45,7 +45,7 @@ Listening to it triggers a bit more than just nodding your head in time. Zement 
 
 The project has been around since 2014, and since then, the two sound crafters have clearly found their common wavelength musically. 
 
-**Zement don't level their building material. Instead, they shape imaginative sculptures out of it that send a strong statement into the music world.**
+> Zement don't level their building material. Instead, they shape imaginative sculptures out of it that send a strong statement into the music world.
 
 When exploring the songs attentively, you will notice many lovingly little details – every time you listen to it, there are some more. The mix of raw sounds, solid rhythms and almost hypnotic synth parts works out perfectly.
 
@@ -53,7 +53,7 @@ When exploring the songs attentively, you will notice many lovingly little detai
 
 Zement recorded their third album with Florian Helleken at Hersbrooklyn Recordings.   The result is by no means raw material but quite polished. Things like little built-in guitar and sax solos blossom and disappear right back into the background of this massive wall of sound in just the right moments.
 
-What I particularly like about "Rohstoff" is the versatility and speed of the record. Unlike what you might expect from psychedelic bands, the pieces neither get out of hand nor do they merge into each other without noticeable transitions. Instead, all eight songs stand entirely on their own and, nonetheless, building precious completeness when you listen to them in a row. So: Go check it out! It's worth it!
+What I particularly like about "Rohstoff" is the versatility and speed of the record. Unlike what you might expect from psychedelic bands, the pieces neither get out of hand nor do they merge into each other without noticeable transitions. Instead, all eight songs are standing entirely for themselves and, nonetheless, are building precious completeness when you listen to them in a row. So: Go check it out! It's worth it!
 
 "Rohstoff" was released on 9 July. You can find the album on all known streaming services and can also purchase it on vinyl.
 
