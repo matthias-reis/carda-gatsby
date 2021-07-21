@@ -47,7 +47,7 @@ The project has been around since 2014, and since then, the two sound crafters h
 
 > Zement don't level their building material. Instead, they shape imaginative sculptures out of it that send a strong statement into the music world.
 
-When exploring the songs attentively, you will notice many lovingly little details – every time you listen to it, there are some more. The mix of raw sounds, solid rhythms and almost hypnotic synth parts works out perfectly.
+When exploring the songs attentively, you will notice many lovely little details – every time you listen to it, there are some more. The mix of raw sounds, solid rhythms and almost hypnotic synth parts works out perfectly.
 
 ## A versatile record with exciting details
 
