@@ -49,7 +49,7 @@ Das Projekt gibt es bereits seit 2014. Seitdem haben die beiden Sound-Bastler mu
 
 Zement haben ihr drittes Album mit Florian Helleken bei Hersbrooklyn Recordings aufgenommen.   Das Ergebnis ist keineswegs rohes Material, sondern ziemlich ausgefeilt. Dinge wie kleine eingebaute Gitarren- und Saxofon-Soli blühen genau an den richtigen Stellen auf, um dann gleich wieder im Hintergrund dieser gewaltigen Sound-Wand abzutauchen.
 
-Was mir besonders gut gefällt, ist die Vielseitigkeit und Geschwindigkeit der Platte. Anders, als man es vielleicht bei psychedelisch angehauchten Bands erwarten würde, ufern die Stücke weder aus noch gehen sie ohne merkbare Übergänge ineinander über. Alle acht Songs stehen komplett für sich und bilden zusammen dennoch eine runde und spannende Sache. Hört rein, es lohnt sich!
+Was mir besonders gut gefällt, ist die Vielseitigkeit und Geschwindigkeit der Platte. Anders, als man es vielleicht bei psychedelisch angehauchten Bands erwarten würde, ufern die Stücke weder aus noch gehen sie ohne merkbare Übergänge ineinander über. Alle acht Songs stehen komplett für sich und bilden zusammen dennoch eine runde und spannende Einheit. Hört rein, es lohnt sich!
 
 "Rohstoff" ist am 9. Juli erschienen. Ihr findet das Album bei allen bekannten Streaming-Diensten und könnt sie auch auf Vinyl erwerben.
 
