@@ -39,7 +39,7 @@ The new album is anything but overproduced. I would even say it's quite the oppo
 
 ![Zement – "Rohstoff"](/img/zement-rohstoff-3.jpeg "Zement – \\"Rohstoff\\"")
 
-Nevertheless, Christian Büdel (drums, percussion) and Philipp Hager (guitar, synths, drum machines, effects, flutes) are not wallowing in memories or dreaming of the past. Instead, they have found their entirely own style, and it's pretty cool, though.
+Nevertheless, Christian Büdel (drums, percussion) and Philipp Hager (guitar, synths, drum machines, effects, flutes) do not limit their music to reminiscing. Instead, they have found their entirely own style, and it's pretty cool, though. 
 
 Listening to it triggers a bit more than just nodding your head in time. Zement get you off the couch, and they do it with a good drive.
 
