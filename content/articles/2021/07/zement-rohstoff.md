@@ -57,6 +57,6 @@ Was mir besonders gut gefällt, ist die Vielseitigkeit und Geschwindigkeit der P
 
 "Rohstoff" ist am 9. Juli erschienen. Ihr findet das Album bei allen bekannten Streaming-Diensten und könnt es auch auf Vinyl erwerben.
 
-## Zement – "Entzücken"
+## Zement – "Soil"
 
-<YouTube id="8TfmhhIMrR4" />
+<YouTube id="Pa4TG3UmiVw&t=1s" />
