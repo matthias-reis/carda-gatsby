@@ -1,37 +1,35 @@
 ---
 date: 2018-04-21T11:55:15.000+00:00
 slug: tee-von-ashera-gut-fuer-die-augen
-path: "/2018/04/tee-von-ashera-gut-fuer-die-augen/"
+path: '/2018/04/tee-von-ashera-gut-fuer-die-augen/'
 type: Artikel
 typeName: Produkttest
 title: Tee von Ashéra im Test
 seoTitle: Tee von Ashéra - "Juwel der klaren Augenkraft" ist gut für die Augen
 ogTitle: Tee von Ashéra - "Juwel der klaren Augenkraft" ist gut für die Augen
-description: Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich die
-  Gelegenheit und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier erfahren.
-excerpt: Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich die Gelegenheit
-  und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier erfahren.
+description: Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich die Gelegenheit und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier erfahren.
+excerpt: Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich die Gelegenheit und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier erfahren.
 fileName: 2018-04---tee-von-ashera-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41045840562_186eb626e7_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41045840562_186eb626e7_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAApEAABBAIBAQYHAAAAAAAAAAABAgMEEQAFIRIHExQiMWEGMkFCUZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAIQMxBBESE//aAAwDAQACEQMRAD8Am2p06tpNjwmXENuSFhAUokAH3I5F5pN72dbTWQHXm1x0oQgqsSVrJoX6VmQ0G68PsIT4TXdPtr/SheV3e7hqWxPfi7MOMNKQ24FR1IKj1BIIJURVC7A59sxlT0exFwcj5gpVyUbnVSdUiKqWtt0SEBYCDZTd/NwKPH9xM7HDralpTVfnLp23TEn4Zd8OtC1PvISnp6PMOq7BHJyEvSCzH7uufqcSxuEyhanHCdUhfFY3alvDzBV8fdzhhkCQahMitTCDq+7AqzQNWfTFElwukgiqOGGW5oAChP/Z
-ogImage: 
+ogImage:
 labels:
-- Ashera
-- Bambus
-- Bambusbecher
-- Chi
-- Ernährung
-- Ernährung & Gesundheit
-- Fair Fashion & Beauty
-- ganzheitlich
-- Juwel der klaren Augenkraft
-- Naturkosmetik
-- TCM
-- Tee
-- Traditionelle Chinesische Medizin
-- vegane Ernährung
-- Yin Yang
+  - Ashera
+  - Bambus
+  - Bambusbecher
+  - Chi
+  - Ernährung
+  - Ernährung & Gesundheit
+  - Fair Fashion & Beauty
+  - ganzheitlich
+  - Juwel der klaren Augenkraft
+  - Naturkosmetik
+  - TCM
+  - Tee
+  - Traditionelle Chinesische Medizin
+  - vegane Ernährung
+  - Yin Yang
 focusKeyword: Tee von Ashéra
 status: publish
 isWerbung: false
@@ -40,8 +38,8 @@ language: de
 errors: {}
 subTitle: Juwel der klaren Augenkraft
 advertisement: true
-
 ---
+
 **Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich die Gelegenheit. Gerne möchte ich Euch an meinem Fazit teilhaben lassen, daher habe ich es hier mal zusammengefasst.**
 
 <RemoteImage
@@ -58,13 +56,15 @@ Vor Kurzem hatte ich die Gelegenheit, die [ganzheitliche Kosmetik von Ashéra](/
 
 Vielen Dank an dieser Stelle! Nicht nur für den Tee, sondern auch für den wundervollen To-go-Becher aus Bambus, der mich jetzt regelmäßig begleitet. Der ist wirklich super und passt hervorragend zu mir. Auf dem Weg ins Büro habe ich nämlich morgens gerne einen warmen Becher Tee dabei.
 
-Im Moment ist das gerne die Sorte "Juwel der klaren Augenkraft" von Ashéra. Was ich besonders toll finde: Er blüht auf, wenn man ihn aufbrüht. Auf den Bildern könnt Ihr es sehen, toll, oder?  Die enthaltenen Kräuter sollen trockenen Augen entgegenwirken und "den harmonischen Fluss des Leber-Chi unterstützen", wie es im Brief von Ashéra heißt.
+Im Moment ist das gerne die Sorte ["Juwel der klaren Augenkraft" von Ashéra](https://t.adcell.com/p/click?promoId=269109&slotId=80259&param0=https%3A%2F%2Fashera-cosmetics.de%2Fcollections%2Fall%2Fproducts%2Fteemischung-juwel-der-klaren-augenkraft). Was ich besonders toll finde: Er blüht auf, wenn man ihn aufbrüht. Auf den Bildern könnt Ihr es sehen, toll, oder?  Die enthaltenen Kräuter sollen trockenen Augen entgegenwirken und "den harmonischen Fluss des Leber-Chi unterstützen", wie es im Brief von Ashéra heißt.
 
 > "Trinkt man ihn regelmäßig, können Gifte ausgespült werden und man regeneriert schneller.",
 
-Erzählt mir Olivia von Ashéra, die mir das Päckchen mit dem Tee so liebevoll zusammengestellt hat. Mir schmeckt der Tee außerdem noch ziemlich gut und ich erfreue mich morgens jedes Mal daran, wenn ich beim Kochen sehe, wie die Blüten sich öffnen.
+Erzählt mir Olivia von Ashéra, [die mir das Päckchen mit dem Tee so liebevoll zusammengestellt hat](https://t.adcell.com/p/click?promoId=269109&slotId=80259&param0=https%3A%2F%2Fashera-cosmetics.de%2Fcollections%2Fall%2Fproducts%2Fteemischung-juwel-der-klaren-augenkraft). Mir schmeckt der Tee außerdem noch ziemlich gut und ich erfreue mich morgens jedes Mal daran, wenn ich beim Kochen sehe, wie die Blüten sich öffnen.
 
 Gegen weniger trockene Augen habe ich als Kontaktlinsenträgerin in der feinstaubreichen Sommerzeit ganz sicher auch nichts einzuwenden.
+
+[Hier könnt Ihr den Tee "Juwel der klaren Augenkraft" bestellen](https://t.adcell.com/p/click?promoId=269109&slotId=80259&param0=https%3A%2F%2Fashera-cosmetics.de%2Fcollections%2Fall%2Fproducts%2Fteemischung-juwel-der-klaren-augenkraft).
 
 <Gallery
   images={[
