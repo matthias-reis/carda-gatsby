@@ -96,7 +96,7 @@ Was mich natürlich besonders interessiert hat, waren die Inhaltsstoffe ihrer Pr
 
 ## Rohstoffe, die auch für Heilmittel verwendet werden
 
-**Jacqueline:** Wie eben schon erwähnt, sind die Inhaber von SinoPhytoMed Teilhaber der Ashéra Cosmetics GmbH. Das heißt, wir bauen die Inhaltsstoffe selbst an oder beziehen diese direkt von Vertragsbauern vor Ort. Das ist sehr wichtig für die Sicherung der hohen Produktqualität. Wir verarbeiten für Ashéra Cosmetics die gleichen Rohstoffe für unsere Extrakte, die für auch für die TCM Heilmittel eingesetzt werden **.**
+**Jacqueline:** Wie eben schon erwähnt, sind die Inhaber von SinoPhytoMed Teilhaber der [Ashéra Cosmetics GmbH](https://t.adcell.com/p/click?promoId=269109&slotId=80259&param0=https%3A%2F%2Fashera-cosmetics.de%2F). Das heißt, wir bauen die Inhaltsstoffe selbst an oder beziehen diese direkt von Vertragsbauern vor Ort. Das ist sehr wichtig für die Sicherung der hohen Produktqualität. Wir verarbeiten für Ashéra Cosmetics die gleichen Rohstoffe für unsere Extrakte, die für auch für die TCM Heilmittel eingesetzt werden **.**
 
 **Anne:**  Sind alle Produkte von Ashéra vegan? Falls nicht: Kannst Du Dir vorstellen, komplett auf vegan zu setzen?
 
@@ -112,7 +112,7 @@ Was mich natürlich besonders interessiert hat, waren die Inhaltsstoffe ihrer Pr
 
 **Anne:**  Welches ist Dein Lieblingsprodukt von Ashéra?
 
-**Jacqueline:** In der YinYangBalace 24-Stunden-Pflege steckt am meisten Entwicklungsarbeit und TCM-Knowhow, von daher hängt daran mein Herz ganz besonders.
+**Jacqueline:** [In der YinYangBalance 24-Stunden-Pflege steckt am meisten Entwicklungsarbeit](https://t.adcell.com/p/click?promoId=269109&slotId=80259&param0=https%3A%2F%2Fashera-cosmetics.de%2Fcollections%2Fall%2Fproducts%2Fyin-yang-balance-24-stunden-gesichtscreme) und TCM-Knowhow, von daher hängt daran mein Herz ganz besonders.
 
 **Anne:**  Was hat es mit dem Namen auf sich. Was genau bedeutet Ashéra für Dich? Im Lexikon findet man einen Eintrag über Aschera (auch Ascherah, Ašerā) die syrisch-kanaanäische Meeresgöttin. Hat es damit etwas zu tun?
 
@@ -171,3 +171,5 @@ Was mich natürlich besonders interessiert hat, waren die Inhaltsstoffe ihrer Pr
 **Anne:**  Vielen Dank für das tolle Interview! Es hat mir sehr viel Spaß gemacht!
 
 **Jacqueline:** Ich danke!
+
+[Auf der Ashera Webseite könnt Ihr Euch alle Produkte genau anschauen](https://t.adcell.com/p/click?promoId=269109&slotId=80259&param0=https%3A%2F%2Fashera-cosmetics.de%2F).
