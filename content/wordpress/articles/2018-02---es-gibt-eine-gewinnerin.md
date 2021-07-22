@@ -46,6 +46,6 @@ Herzlichen Glückwunsch Lara! Du wirst per E-Mail informiert und erhältst Deine
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QAJxAAAgEEAQQBBAMAAAAAAAAAAQIDAAQFESEGEjFhIgcTMkGBweH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAIEBf/EAB8RAAICAgMAAwAAAAAAAAAAAAECAAMEERIhMRNBUf/aAAwDAQACEQMRAD8AxLdni8hCGtkvFmiDcOFI5A5JBpnFlrGeaGSK0jtlVg7LGAxI1rROxse9CkGSnDZElF2I0RPiASN8twfPmrr1Lk+np8RZW/T8EivHcaU3ECxuYvtjfcQSdmQn9kdvusdmQ7ADXRnaxcGkcSQSf2R9UG06fyxivsdM8pjilCxuoCDXHIHy3wfW6nycNhNCssVyiCRQ4WUFPI35I0atP1waLMYPCZaJHVFZ7RnZezY7A6615APeNfrms+xOSE2CiXv5jBjO/X+VLbnU79gDGqakOOj9yiZC4kivC6HRdQx4B9f1XMOSuHcKX/Lg7A8UUUqqCggfPYh0rRtPns3lmNteZa7liQKQkkhZRrgaBOhoUyhC4u0O1E7sSzMw1v8AjxRRRWe6lubFezP/2Q=="
 />
 
-Ein wertvolles Duo aus 24-Stunden Gesichtscreme und Reinigungsschaum von Ashéra mit TCM-Wirkstoffen.
+[Ein wertvolles Duo aus 24-Stunden Gesichtscreme und Reinigungsschaum von Ashéra mit TCM-Wirkstoffen](https://t.adcell.com/p/click?promoId=269109&slotId=80259&param0=https%3A%2F%2Fashera-cosmetics.de%2Fcollections%2Fall%2Fproducts%2Fyin-yang-balance-geschenkset).
 
-Zum Onlineshop von Ashera geht es [hier entlang](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F)
+Zum Onlineshop von Ashera geht es [hier entlang](https://t.adcell.com/p/click?promoId=269109&slotId=80259&param0=https%3A%2F%2Fashera-cosmetics.de%2F)
