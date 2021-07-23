@@ -45,7 +45,7 @@ The last song on "3+1", "Piuno", was recorded with four ambient microphones and 
 
 Do you think this sounds pretty exciting? Well, it is. Released on June 18th on Loudnessy Sonic Factory, the record is more than just one of those EPs you can listen to once in a while. It opens the door to a diverse world of sound that you want to walk through again and again.
 
-![Repetita Iuvant | small](/img/repetita-iuvant-1.jpg "Repetita Iuvant")
+![Repetita Iuvant | large](/img/repetita-iuvant-1.jpg "Repetita Iuvant")
 
 ## A colourful overall picture
 
@@ -53,7 +53,7 @@ The first song, "Sagiadi", is electronic, eclectic and versatile. Hypnotic rhyth
 
 The second track, "Polloni", adds a surprising tenderness to the versatility, making this song my favourite on the record. It is pretty challenging to put into words what is happening here; the back and forth between harshness and fragility is reminiscent of the play of tides.
 
-![Repetita Iuvant | small](/img/repetita-iuvant-3.jpg "Repetita Iuvant")
+![Repetita Iuvant | large](/img/repetita-iuvant-3.jpg "Repetita Iuvant")
 
 "Metloping" forms a dignified transition to the finale of the record – onomatopoeia included. "Piuno" is, as described above, a quadrophonic experiment – that happens to be a complete success. The 1970ies are sending their regards. Attentive listeners should also immediately notice the changes in perspective. What particularly fascinates me here are the beautiful percussion highlights, which leave some colourful paint splatters on the sound carpet here and there.
 
