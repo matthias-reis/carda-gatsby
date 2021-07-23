@@ -35,7 +35,7 @@ languageLink: /2021/07/repetita-iuvant-3-1/
 
 ![Repetita Iuvant - "3+1"](/img/3-1-ep.jpg "# Repetita Iuvant - "3+1"")
 
-The post-rock/noise band from La Spezia, Italy, consists of Andrea Testa (drums), Christoforo da Costa (guitar, synthy), and Daniele Isetta (guitar). Their interplay reflects their shared sense for the correct dose in the right place.
+The post-rock/noise band from La Spezia, Italy, consists of Andrea Testa (drums), Christoforo da Costa (guitar, synthy), and Daniele Isetta (guitar). Their interplay reflects their shared sense for the correct dose in the right place. Also, they like exploring recording techniques of the past centuries when rock music was invented.
 
 ## Repetita Iuvant experiment with the Stereo8 format
 
