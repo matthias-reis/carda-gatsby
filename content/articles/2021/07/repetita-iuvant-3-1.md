@@ -55,7 +55,7 @@ The second track, "Polloni", adds a surprising tenderness to the versatility, ma
 
 ![Repetita Iuvant | small](/img/repetita-iuvant-3.jpg "Repetita Iuvant")
 
-"Metloping" forms a dignified transition to the finale of the record – onomatopoeia included. "Piuno" is, as described above, is a quadrophonic experiment – that happens to be a complete success. The 1970ies are sending their regards. Attentive listeners should also immediately notice the changes in perspective. What particularly fascinates me here are the beautiful percussion highlights, which leave some colourful paint splatters on the sound carpet here and there.
+"Metloping" forms a dignified transition to the finale of the record – onomatopoeia included. "Piuno" is, as described above, a quadrophonic experiment – that happens to be a complete success. The 1970ies are sending their regards. Attentive listeners should also immediately notice the changes in perspective. What particularly fascinates me here are the beautiful percussion highlights, which leave some colourful paint splatters on the sound carpet here and there.
 
 
 ## A cliffhanger to the next record
