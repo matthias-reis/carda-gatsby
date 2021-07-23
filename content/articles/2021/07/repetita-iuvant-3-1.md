@@ -31,7 +31,7 @@ affiliate: false
 language: en
 languageLink: /2021/07/repetita-iuvant-3-1/
 ---
-**Repetita Iuvant are a group of friends who found each other through their love for music. Their new EP "3+1" is their natural, musical and mathematical consequence of their 2020 work "3". It is also opening the next chapter of their trilogy, which together make up their first LP.**
+**Repetita Iuvant are a group of friends who found each other through their love for music. Their new EP "3+1" is their natural, musical and mathematical consequence of their 2020 work "3". It is also opening the next chapter of their trilogy. All three records combined will make their first LP.**
 
 ![Repetita Iuvant - "3+1"](/img/3-1-ep.jpg "# Repetita Iuvant - "3+1"")
 
