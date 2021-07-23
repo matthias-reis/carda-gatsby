@@ -33,9 +33,9 @@ languageLink: /2021/07/repetita-iuvant-3-1/
 ---
 **Repetita Iuvant are a group of friends who found each other through their love for music. Their new EP "3+1" is their natural, musical and mathematical consequence of their 2020 work "3". It is also opening the next chapter of their trilogy. All three records combined will make their first LP.**
 
-![Repetita Iuvant - "3+1"](/img/3-1-ep.jpg "# Repetita Iuvant - "3+1"")
-
 The post-rock/noise band from La Spezia, Italy, consists of Andrea Testa (drums), Christoforo da Costa (guitar, synthy), and Daniele Isetta (guitar). Their interplay reflects their shared sense for the correct dose in the right place. Also, they like exploring recording techniques of the past decades when rock music was invented.
+
+![Repetita Iuvant - "3+1" | large](/img/3-1-ep.jpg "# Repetita Iuvant - "3+1"")
 
 ## Repetita Iuvant experiment with the Stereo8 format
 
@@ -49,13 +49,14 @@ Do you think this sounds pretty exciting? Well, it is. Released on June 18th on 
 
 The first song, "Sagiadi", is electronic, eclectic and versatile. Hypnotic rhythm mixes with playful drums. The multi-layered synthy sounds create a colourful overall picture. Despite its numerous elements, this and also the next track sounds pleasantly simple and not overloaded.
 
-![Repetita Iuvant](/img/repetita-iuvant-1.jpg "Repetita Iuvant")
+![Repetita Iuvant | large](/img/repetita-iuvant-1.jpg "Repetita Iuvant")
 
 The second track, "Polloni", adds a surprising tenderness to the versatility, making this song my favourite on the record. It is pretty challenging to put into words what is happening here; the back and forth between harshness and fragility is reminiscent of the play of tides.
 
+![Repetita Iuvant | large](/img/repetita-iuvant-3.jpg "Repetita Iuvant")
+
 "Metloping" forms a dignified transition to the finale of the record – onomatopoeia included. "Piuno" is, as described above, is a quadrophonic experiment – that happens to be a complete success. The 1970ies are sending their regards. Attentive listeners should also immediately notice the changes in perspective. What particularly fascinates me here are the beautiful percussion highlights, which leave some colourful paint splatters on the sound carpet here and there.
 
-![Repetita Iuvant](/img/repetita-iuvant-3.jpg "Repetita Iuvant")
 
 ## A cliffhanger to the next record
 
