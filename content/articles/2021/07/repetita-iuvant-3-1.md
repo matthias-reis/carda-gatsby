@@ -39,7 +39,7 @@ The post-rock/noise band from La Spezia, Italy, consists of Andrea Testa (drums)
 
 ## Repetita Iuvant experiment with the Stereo8 format
 
-The last song on the record, "Piuno", was recorded with four ambient microphones and transferred into the quadrophonic Stereo8 format in seven copies. Repetita Iuvant guitarist Christof describes it like this:
+The last song on "3+1", "Piuno", was recorded with four ambient microphones and transferred into the quadrophonic Stereo8 format in seven copies. Repetita Iuvant guitarist Christof describes it like this:
 
 > "There is a numerical justification for this approach, and it is our praise to the era of quadraphony and psychedelia".
 
