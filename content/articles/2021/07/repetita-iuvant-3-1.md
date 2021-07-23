@@ -5,10 +5,10 @@ typeName: Beitrag
 title: Repetita Iuvant – "3+1"
 subTitle: Quadrophonic Sound Art
 seoTitle: Repetita Iuvant – "3+1" – Quadrophonic Sound Art – Post-Rock Review
-description: Repetita Iuvant is a group of friends who share a love of music and
-  nature. Their new EP "3+1" for them is their natural, musical and mathematical
-  consequence of their 2020 work "3", opening the next chapter of their trilogy,
-  which together make up their first LP.
+description: Repetita Iuvant is a group of friends who share their love of music
+  and nature. Their new EP "3+1" for them is their natural, musical and
+  mathematical consequence of their 2020 work "3", opening the next chapter of
+  their trilogy, which together make up their first LP.
 image: /img/repetita-iuvant-2.jpg
 copyrigt: Repetita Iuvant
 ogImage: /img/repetita-iuvant-fb.png
@@ -31,7 +31,7 @@ affiliate: false
 language: en
 languageLink: /2021/07/repetita-iuvant-3-1/
 ---
-**Repetita Iuvant is a group of friends who share a love of music and nature. Their new EP "3+1" for them is their natural, musical and mathematical consequence of their 2020 work "3", opening the next chapter of their trilogy, which together make up their first LP.**
+**Repetita Iuvant is a group of friends who share their love of music and nature. Their new EP "3+1" for them is their natural, musical and mathematical consequence of their 2020 work "3", opening the next chapter of their trilogy, which together make up their first LP.**
 
 The post-rock/noise band from La Spezia, Italy, consists of Andrea Testa (drums), Christoforo da Costa (guitar, synthy), and Daniele Isetta (guitar).
 
