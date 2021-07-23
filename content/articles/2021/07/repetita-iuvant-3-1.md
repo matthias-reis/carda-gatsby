@@ -53,7 +53,7 @@ The first song, "Sagiadi", is electronic, eclectic and versatile. Hypnotic rhyth
 
 The second track, "Polloni", adds a surprising tenderness to the versatility, making this song my favourite on the record. It is pretty challenging to put into words what is happening here; the back and forth between harshness and fragility is reminiscent of the play of tides.
 
-"Metloping" forms a dignified transition to the finale of the record – onomatopoeia included. "Piuno", is, as described above, is a quadrophonic experiment – that happens to be a complete success. The roaring 70ies are sending their regards. Attentive listeners should also immediately notice the changes in perspective. What particularly fascinates me here are the beautiful percussion highlights, which leave some colourful paint splatters on the sound carpet here and there.
+"Metloping" forms a dignified transition to the finale of the record – onomatopoeia included. "Piuno" is, as described above, is a quadrophonic experiment – that happens to be a complete success. The roaring 70ies are sending their regards. Attentive listeners should also immediately notice the changes in perspective. What particularly fascinates me here are the beautiful percussion highlights, which leave some colourful paint splatters on the sound carpet here and there.
 
 ![Repetita Iuvant | large](/img/repetita-iuvant-3.jpg "Repetita Iuvant")
 
