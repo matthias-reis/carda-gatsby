@@ -43,7 +43,7 @@ The last song on "3+1", "Piuno", was recorded with four ambient microphones and 
 
 > "There is a numerical justification for this approach, and it is our praise to the era of quadraphony and psychedelia".
 
-Do you think this sounds pretty exciting? Well, it is. Released on 18 June on Loudnessy Sonic Factory, the record is more than just one of those EPs you can listen to once in a while. It opens the door to a diverse world of sound that you want to walk through again and again.
+Do you think this sounds pretty exciting? Well, it is. Released on June 18th on Loudnessy Sonic Factory, the record is more than just one of those EPs you can listen to once in a while. It opens the door to a diverse world of sound that you want to walk through again and again.
 
 ## A colourful overall picture
 
