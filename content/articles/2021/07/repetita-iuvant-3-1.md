@@ -33,9 +33,11 @@ languageLink: /2021/07/repetita-iuvant-3-1/
 ---
 **Repetita Iuvant are a group of friends who found each other through their love for great instrumental music. Their new EP "3+1" is their natural, musical and mathematical consequence of their 2020 work "3". It is also opening the next chapter of their trilogy. All three records combined will make their first LP.**
 
-The post-rock/noise band from La Spezia, Italy, consists of Andrea Testa (drums), Christoforo da Costa (guitar, synthy), and Daniele Isetta (guitar). Their interplay reflects their shared sense for the correct dose in the right place. Also, they like exploring recording techniques of the past decades when rock music was invented.
+The post-rock/noise band from La Spezia, Italy, consists of Andrea Testa (drums), Christoforo da Costa (guitar, synthy), and Daniele Isetta (guitar). 
 
 ![Repetita Iuvant - "3+1" | small](/img/3-1-ep.jpg "Repetita Iuvant - "3+1"")
+
+Their musical interplay reflects their shared sense for the correct dose in the right place. Also, they like exploring recording techniques of the past decades when rock music was invented.
 
 ## Repetita Iuvant experiment with the Stereo8 format
 
