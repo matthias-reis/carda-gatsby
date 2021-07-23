@@ -45,11 +45,11 @@ The last song on the record, "Piuno", was recorded with four ambient microphones
 
 Do you think this sounds pretty exciting? Well, it is. Released on 18 June on Loudnessy Sonic Factory, the record is more than just one of those EPs you can listen to once in a while. It opens the door to a diverse world of sound that you want to walk through again and again.
 
-![Repetita Iuvant | large](/img/repetita-iuvant-1.jpg "Repetita Iuvant")
-
 ## A colourful overall picture
 
 The first song, "Sagiadi", is electronic, eclectic and versatile. Hypnotic rhythm mixes with playful drums. The multi-layered synthy sounds create a colourful overall picture. Despite its numerous elements, this and also the next track sounds pleasantly simple and not overloaded.
+
+![Repetita Iuvant | large](/img/repetita-iuvant-1.jpg "Repetita Iuvant")
 
 The second track, "Polloni", adds a surprising tenderness to the versatility, making this song my favourite on the record. It is pretty challenging to put into words what is happening here; the back and forth between harshness and fragility is reminiscent of the play of tides.
 
