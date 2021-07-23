@@ -59,7 +59,7 @@ The second track, "Polloni", adds a surprising tenderness to the versatility, ma
 
 ## A cliffhanger to the next record
 
-With a total of four pieces, "3+1" tells a story that doesn't need any words at all. In the end, you even think you recognize a cliffhanger to the next record of the trilogy. It's the same as it was with "3". In any case, I'm already curious to see what's in store for us next.
+With a total of four pieces, "3+1" tells a story that doesn't need any words at all. In the end, you even think you recognize a cliffhanger to the next record of the trilogy. It's the same as it was with "3". In any case, I'm already curious to see what Repetita Iuvant have in store for us next.
 
 "3+1" by Repetita Iuvant has been released on tape and all known streaming platforms. You can also find the first EP "3" there.
 
