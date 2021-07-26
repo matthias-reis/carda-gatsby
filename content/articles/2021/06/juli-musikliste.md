@@ -41,7 +41,6 @@ advertisement: false
 affiliate: false
 language: de
 ---
-
 **Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber nicht weniger gut. Mit Matze habe ich acht Songs rausgesucht, die uns nicht nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden.**
 
 Von Post-Punk über Post-Rock und Blackgaze bis hin zu echt sommerlichem Rock-Festival-Sound wird den Ohren einiges geboten. Ich wünsche Euch viel Freude beim Hören. Am besten laut am Baggersee. Vergesst den Sonnenschirm nicht.
@@ -54,7 +53,7 @@ Wundervolle Klaviermusik zum Nachdenken und gleichzeitig Loslassen kommt von Ól
 
 <YouTube id="FOtfTcPIxXQ" />
 
-## Deafheaven – "Great Mass Of Color"
+## Deafheaven – "Great Mass Of Color" (Vorauskopplung vom Album "Infinite Granite")
 
 Deafheaven haben neue Musik für uns. Bis jetzt gibt es "nur" die Single "Great Mass Of Color". Sie macht Lust auf mehr. Das Album dazu könnte wirklich stark werden. Verträumte, verspielte und keineswegs vergeudete sechs Minuten, die es sich lohnt, wieder und wieder zu erleben.
 
