@@ -1,14 +1,15 @@
 ---
-date: 2021-07-23T10:33:57.007Z
-slug: repetita-iuvant-3-1-en
+templateKey: article
+date: 2021-07-23T09:48:05.001Z
+slug: repetita-iuvant-3-1
 typeName: Beitrag
 title: Repetita Iuvant – "3+1"
-subTitle: Quadrophonic Sound Art
-seoTitle: Repetita Iuvant – "3+1" – Quadrophonic Sound Art – Post-Rock Review
-description: Repetita Iuvant is a group of friends who share their love of music
-  and nature. Their new EP "3+1" for them is their natural, musical and
-  mathematical consequence of their 2020 work "3", opening the next chapter of
-  their trilogy, which together make up their first LP.
+subTitle: Quadrofonische Klangkunst
+seoTitle: Repetita Iuvant – "3+1" – Quadrofonische Klangkunst – Post-Rock Review
+description: Die neue EP von Repetita Iuvant "3+1" ist für die Post-Rock Band
+  die natürliche, musikalische und mathematische Konsequenz ihres Werks "3" von
+  2020. Sie schlagen damit das nächste Kapitel ihrer Trilogie auf, die zusammen
+  ihre erste LP ergibt.
 image: /img/repetita-iuvant-2.jpg
 copyrigt: Repetita Iuvant
 ogImage: /img/repetita-iuvant-fb.png
@@ -24,48 +25,48 @@ labels:
   - Repetita Iuvant
   - Loudnessy Sonic Dream
   - Stereo8
+  - Quadrofonie
   - quadrophonic
 focusKeyword: Repetita Iuvant
 advertisement: false
 affiliate: false
-language: en
-languageLink: /2021/07/repetita-iuvant-3-1/
+language: de
+languageLink: /2021/07/repetita-iuvant-3-1-en/
 ---
-**Repetita Iuvant is a group of friends who found each other through their love for great instrumental music. Their new EP "3+1" is their natural, musical and mathematical consequence of their 2020 work "3". It is also opening the next chapter of their trilogy. All three records combined will make their first LP.**
+**Repetita Iuvant gründeten sich aus einer Gruppe von Freund⋆innen, die sich durch ihre Liebe für gute Instrumental-Musik gefunden haben. Ihre neue EP "3+1" ist für sie die natürliche, musikalische und mathematische Konsequenz ihres Werks "3" von 2020. Sie schlagen damit das nächste Kapitel ihrer Trilogie auf. Alle drei Platten werden zusammen ihre erste LP ergeben.**
 
-The post-rock/noise band from La Spezia, Italy, consists of Andrea Testa (drums), Christoforo da Costa (guitar, synthy), and Daniele Isetta (guitar). 
+Die im italienischen La Spezia beheimatete Post-Rock/Noise Band Repetita Iuvant besteht aus Andrea Testa (Schlagzeug), Christoforo da Costa (Gitarre, Synthesizer) und Daniele Isetta (Gitarre). 
 
-![Repetita Iuvant - "3+1" | small](/img/3-1-ep.jpg "Repetita Iuvant - "3+1"")
+![Repetita Iuvant – "3+1" | small](/img/3-1-ep.jpg "Repetita Iuvant – \\"3+1\\"")
 
-Their musical interplay reflects their shared sense for the correct dose in the right place. Also, they like exploring recording techniques of the past decades when rock music was invented.
+In ihrem musikalischen Zusammenspiel spiegelt sich ihr gemeinsames Gespür für die richtige Dosis an der richtigen Stelle wider. Außerdem erforschen die drei gerne Aufnahmetechniken aus den vergangenen Jahrzehnten, in denen die Rockmusik entstanden ist.
 
-## Repetita Iuvant experiment with the Stereo8 format
+## Repetita Iuvant experimentieren mit dem Stereo8 Format
 
-The last song on "3+1", "Piuno", was recorded with four ambient microphones and transferred into the quadrophonic Stereo8 format in seven copies. Repetita Iuvant guitarist Christof describes it like this:
+Der letzte Song auf "3+1" ("Piuno") wurde mit vier Ambient Mikrofonen aufgenommen und in sieben Kopien ins quadrofonische Stereo8 Format übertragen. Der Gitarrist von Repetita Iuvant Christof beschreibt das so:
 
-> "There is a numerical justification for this approach, and it is our praise to the era of quadraphony and psychedelia".
+> "Es gibt eine numerische Begründung für diese Herangehensweise und es ist unser Lob an die Ära der Quadraphonie und Psychedelia"
 
-Do you think this sounds pretty exciting? Well, it is. Released on June 18th on Loudnessy Sonic Factory, the record is more than just one of those EPs you can listen to once in a while. It opens the door to a diverse world of sound that you want to walk through again and again.
+Das klingt schon mal ziemlich spannend, oder? Das ist es auch. Die am 18. Juni auf Loudnessy Sonic Factory erschienene Platte ist deutlich mehr als nur eine von diesen EPs, die man mal hören kann. Sie öffnet die Tür zu einer vielfältigen Klangwelt, die man immer wieder durchschreiten möchte.
 
 ![Repetita Iuvant | large](/img/repetita-iuvant-1.jpg "Repetita Iuvant")
 
-## A colourful overall picture
+## Ein farbenfrohes Gesamtbild
 
-The first song, "Sagiadi", is electronic, eclectic and versatile. Hypnotic rhythm mixes with playful drums. The multi-layered synthy sounds create a colourful overall picture. Despite its numerous elements, this and also the next track sounds pleasantly simple and not overloaded.
+Der erste Song "Sagiadi" ist elektronisch, eklektisch und vielseitig. Hypnotischer Rhythmus mischt sich mit spielerischen Drums. Durch die vielschichtigen Synthesizer-Klänge ergibt sich ein farbenfrohes Gesamtbild. Trotz seiner  zahlreichen Elemente klingt dieses und auch das nächste Stück angenehm einfach und nicht überfrachtet.
 
-The second track, "Polloni", adds a surprising tenderness to the versatility, making this song my favourite on the record. It is pretty challenging to put into words what is happening here; the back and forth between harshness and fragility is reminiscent of the play of tides.
+Der zweite Song "Polloni" fügt der Vielseitigkeit eine überraschende Zartheit hinzu, die diesen Song zu meinem Favoriten auf der Platte macht. Es lässt sich ganz schwer in Worte zu fassen, was hier passiert, das Hin und Her zwischen Härte und Fragilität erinnert an das Spiel der Gezeiten.
 
 ![Repetita Iuvant | large](/img/repetita-iuvant-3.jpg "Repetita Iuvant")
 
-"Metloping" forms a dignified transition to the finale of the record – onomatopoeia included. "Piuno" is, as described above, a quadrophonic experiment – that happens to be a complete success. The 1970ies are sending their regards. Attentive listeners should also immediately notice the changes in perspective. What particularly fascinates me here are the beautiful percussion highlights, which leave some colourful paint splatters on the sound carpet here and there.
+"Metloping" bildet einen würdevollen Übergang zum Finale der Platte – Lautmalerei eingeschlossen. Bei "Piuno" handelt es sich, wie oben beschrieben, um ein quadrofonisches Experiment – das im übrigen voll aufgegangen ist. Die 1970er lassen grüßen. Aufmerksamen Hörer⋆innen dürften außerdem die Perspektivwechsel sofort auffallen. Was mich hier besonders fasziniert, sind die schönen Percussion-Highlights, die hier und da einen bunten Farbklecks auf dem Klangteppich hinterlassen.
 
+## Ein Cliffhanger zur nächsten Platte
 
-## A cliffhanger to the next record
+Mit den insgesamt vier Stücken auf "3+1" erzählen Repetita Iuvant eine Geschichte, für die gar keine Worte nötig sind. Am Ende meint man sogar einen Cliffhanger zur nächsten Platte der Trilogie zu erkennen. Genauso ging es mir auch schon mit "3". Ich bin auf jeden Fall schon gespannt, was uns hier als Nächstes erwartet.
 
-With a total of four pieces, "3+1" tells a story that doesn't need any words at all. In the end, you even think you recognize a cliffhanger to the next record of the trilogy. It's the same as it was with "3". In any case, I'm already curious to hear what Repetita Iuvant have in store for us next.
+"3+1" von Repetita Iuvant ist auf Tape und auf allen bekannten Streaming-Plattformen erschienen. Dort findet Ihr auch die erste EP "3".
 
-"3+1" by Repetita Iuvant has been released on tape and all known streaming platforms. You can also find the first EP "3" there.
-
-## Repetita Iuvant - "3+1"
+## Repetita Iuvant – "3+1"
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3471970807/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://repetitaiuvant.bandcamp.com/album/3-1">3+1 by Repetita Iuvant</a></iframe>
