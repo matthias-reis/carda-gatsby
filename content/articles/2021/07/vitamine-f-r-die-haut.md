@@ -3,7 +3,7 @@ date: 2021-07-27T12:23:34.605Z
 slug: cosphera-vegane-kosmetik
 typeName: Produkttest
 title: Vitamine für die Haut
-subTitle: Meine Erfahrungen – Cosphera Kosmeti
+subTitle: Meine Erfahrungen – Cosphera Kosmetik
 seoTitle: Vitamine für die Haut  – Meine Erfahrungen – Cosphera Kosmetik
 description: Vegane Kosmetik, die mit modernen und hochwertigen Wirkstoffen
   dafür sorgt, dass die Haut strahlt. Hergestellt in Deutschland. Das verspricht
