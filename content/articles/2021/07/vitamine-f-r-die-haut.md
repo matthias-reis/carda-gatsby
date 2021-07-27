@@ -60,6 +60,8 @@ Nach dem Auftragen habe ich ein angenehm gepflegtes Gefühl, ohne dass sich mein
 
 Die [Hyaluron Performance Creme](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2Fproduct%2Fhyaluron-creme%2F) könnt Ihr sowohl als Tages- als auch als Nachtcreme verwenden. Die Hyaluronsäure soll die Haut elastischer machen. Dadurch wirkt sich frischer und gepflegter. Neben veganem Hyaluron stecken auch Vitamin C, E, B3 sowie Retinol, OPC, Resaveatrol, Bio-Traubenkernöl und Shea Butter darin. Genau wie das Vitamin C Performance Serum und die Vitamin C Performance Creme, kommt die Hyaluron Performance Creme in einem praktischen Spender, den Ihr auch super in den Kulturbeutel packen könnt, ohne, dass etwas ausläuft. Die Konsistenz ist etwas dichter, als die der Vitamin C Performance Creme, dennoch zieht sie schnell ein und hinterlässt keinen Film auf der Haut. 
 
+<Gallery name="cosphera-1" />
+
 ## Hyaluron – das steckt dahinter
 
 Eine Zutat kommt in allen drei von mir getesteten Hautpflegeprodukten vor: Hyaluronsäure. Man findet sie im Körper überall dort, wo größere Mengen Feuchtigkeit gebunden werden müssen. Also zum Beispiel im Bindegewebe und in der Haut. In der Hyaluron Performance Creme ist sowohl hochmolekulares als auch niedermolekulares Hyaluron enthalten. Ersteres kann tiefer vordringen, zweiteres bindet weiter oben Feuchtigkeit. Weil die Creme außerdem weder komedogen noch fettend ist,  eignet sie sich gut für empfindliche Mischhaut.
@@ -86,5 +88,7 @@ Insgesamt bin ich sehr zufrieden mit der [Kosmetik von Cosphera](https://t.adcel
 
 Was ich ziemlich gut finde, ist, dass man bei Cosphera [ohne Risiko bestellen](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2F) kann: Wenn man mal mit etwas nicht zufrieden ist, kann man es ohne Erklärung zurückschicken. Dafür gibt es sogar eine Garantie. Gerade bei Kosmetik gibt einem das doch ein Gefühl von Sicherheit.
 
+
+<Gallery name="cosphera-2" />
 
 
