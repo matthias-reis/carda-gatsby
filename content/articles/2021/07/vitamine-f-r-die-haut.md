@@ -82,7 +82,7 @@ Die Beauty-Produkte von Cosphera sind vegan, dermatologisch getestet, frei von T
 
 ## Fazit zum Cosphera Produkttest
 
-Insgesamt bin ich sehr zufrieden mit der [Kosmetik von Cosphera](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2F). Ich vertrage alles gut und kann schon nach kurzer Anwendungsdauer positive Effekte sehen. Die Inhaltsstoffe sind natürlich, alles wird in Deutschland hergestellt und der Versand ging schnell. Einzig an der Plastikverpackung könnte man noch arbeiten, aber ich denke, das hat die Firma sowieso auf dem Zettel.
+Insgesamt bin ich sehr zufrieden mit der [Kosmetik von Cosphera](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2F). Ich vertrage alles gut und kann schon nach kurzer Anwendungsdauer positive Effekte sehen. Die Inhaltsstoffe sind natürlich, alles wird in Deutschland hergestellt und der Versand ging schnell. Einzig an der Plastikverpackung könnte man noch arbeiten.
 
 Was ich ziemlich gut finde, ist, dass man bei Cosphera [ohne Risiko bestellen](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2F) kann: Wenn man mal mit etwas nicht zufrieden ist, kann man es ohne Erklärung zurückschicken. Dafür gibt es sogar eine Garantie. Gerade bei Kosmetik gibt einem das doch ein Gefühl von Sicherheit.
 
