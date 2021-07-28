@@ -36,9 +36,9 @@ The self-taught composer Henrik Laugesen aka Lauge, already released eleven albu
 
 ## Lauge is not a stranger
 
-![Perry Frank & Lauge – "Selvascapes"](/img/selvascapes-artwork-stores.jpg "Perry Frank & Lauge – \\"Selvascapes\\"")
-
 [Francesco Perra's](LINK) new partner in music is by no means a blank slate. The interplay between the two sound lovers works out pretty well. You could also say: two exceptional talents swinging to the same beat have found each other.
+
+![Perry Frank & Lauge – "Selvascapes"](/img/selvascapes-artwork-stores.jpg "Perry Frank & Lauge – \\"Selvascapes\\"")
 
 Together, the Sardinian and the Dane have created imaginative soundscapes that invite you to dream. Perry Frank, who likes to film his live performances in the open air, is happy about his new project. He describes his passion for this way of making music like this:
 
@@ -48,11 +48,11 @@ He started doing this in 2005 in his home in Sardinia. He still records his musi
 
 ## Two soundscapes collide
 
-![Francesco Perra aka Perry Frank](/img/perry-frank.jpg "Francesco Perra aka Perry Frank")
-
 In 2020, Henrik and Francesco started recording music together remotely. They sent sounds, files and ideas back until it turned into a project: "Selvascapes" was born.
 
 > "We had the vision to combine our sound components into a coherent whole", 
+
+![Francesco Perra aka Perry Frank](/img/perry-frank.jpg "Francesco Perra aka Perry Frank")
 
 they say on Francesco's website. All the pieces on the record connect to the forest; this reflects in the titles and, of course, the music. The songs are about vastness, enormity, enclosure, open space and nature. While listening to it, I wander through the landscapes that Francesco and Henrik looked at when composing it.
 
@@ -66,11 +66,11 @@ During the lockdowns, the music helped them to connect with nature. And you can 
 
 ## The forest and its meaning
 
-![Henrik Laugesen aka Lauge](/img/lauge.jpg "Henrik Laugesen aka Lauge")
-
 The title is a combination of the Latin word "Selva" (forest) and "Soundscape". For Henrik and Francesco, the songs are a homage to the word "forest" They describe it like this:
 
 > "We mean it in an ecological sense, of course. A forest is a place of life responsible for the survival of most living creatures on earth, including Homo Sapiens. But it has also played a role for us in an abstract way. It is a kind of mental state for us. It stands for the confusion of modern humans – that is, after all, partly the Dantean meaning of the term."
+
+![Henrik Laugesen aka Lauge](/img/lauge.jpg "Henrik Laugesen aka Lauge")
 
 ## Music and nature
 
