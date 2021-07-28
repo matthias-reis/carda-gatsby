@@ -56,7 +56,7 @@ Damit angefangen hat er 2005 in seiner sardischen Heimat. Noch heute nimmt er do
 
 > "Wir hatten die Vision, unsere Klangkomponenten zu einem kohärenten Ganzen zu verbinden", 
 
-erzählen sie auf Francescos Webseite. Alle Stücke auf der Platte haben eine Verbindung zum Wald. Das spiegelt sich in den Titeln und der Musik wider. Die Songs handeln von Weite, Ungeheuerlichkeit, Abgeschlossenheit, offenem Raum und der Natur. Beim Hören durchwandert man die Landschaften, die Francesco und Henrik beim Komponieren vor ihrem inneren Auge gesehen haben.
+erzählen sie auf Francescos Webseite. Alle Stücke auf der Platte haben eine Verbindung zum Wald. Das spiegelt sich in den Titeln und der Musik wider. Die Songs handeln von Weite, Ungeheuerlichkeit, Abgeschlossenheit, offenem Raum und der Natur. Beim Hören durchwandert man die Landschaften, die Francesco und Henrik beim Komponieren vor Augen hatten.
 
 ## "Selvacapes" erzählt von der Natur
 
