@@ -30,7 +30,7 @@ affiliate: false
 language: en
 languageLink: /2021/07/perry-frank-lauge-selvascapes/
 ---
-**Perry Frank's new album "Selvascapes" is a collaboration with the Danish ambient producer Lauge. The CD was released on 24 July. It is a great insider tip for fans of dreamlike soundscapes, drone and beautiful ambient music.**
+**Perry Frank recorded his new album "Selvascapes" in collaboration with the Danish ambient producer Lauge. They relased the CD on 24 July. It is a great insider tip for fans of dreamlike soundscapes, drones and beautiful ambient music.**
 
 The self-taught composer Henrik Laugesen aka Lauge, already released eleven albums (among others with Collapsed Texctures) and is part of various collaborations such as Lauge & Baba Gnohm and Sullen Sky. 
 
