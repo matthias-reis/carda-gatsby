@@ -26,7 +26,7 @@ languageLink: /2021/01/perry-frank-landforms
 ---
 **Perry Frank has released a new single! "Landforms" is available now on all download platforms. Here comes my recommendation.**
 
-I recently introduced Perry Frank aka Francesco Perra to you with [my interview](/2020/11/perry-frank-interview/). Currently, he is working on his new album, which he expects to release in October. He has also just put out his new single "Landforms" on Valley View Records.
+I recently introduced Perry Frank aka Francesco Perra to you with [my interview](/2020/11/perry-frank-interview-en/). Currently, he is working on his new album, which he expects to release in October. He has also just put out his new single "Landforms" on Valley View Records.
 
 ## "Landforms" on the turntable
 
