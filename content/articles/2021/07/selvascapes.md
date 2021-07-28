@@ -38,9 +38,9 @@ Hinter dem Namen Lauge steckt der Komponist Henrik Laugesen. Der Autodidakt hat 
 
 ## Lauge ist kein Unbekannter
 
-![Perry Frank & Lauge – "Selvascapes"](/img/selvascapes-artwork-stores.jpg "Perry Frank & Lauge – \"Selvascapes\"")
-
 Ein unbeschriebenes Blatt ist der neue musikalische Partner von [Francesco Perra](/2020/11/perry-frank-interview/) also keineswegs. Das Zusammenspiel der beiden Sound-Bastler geht ziemlich gut auf. Man könnte auch sagen: Hier haben sich zwei Ausnahmetalente gefunden, die im gleichen Takt schwingen.
+
+![Perry Frank & Lauge – "Selvascapes"](/img/selvascapes-artwork-stores.jpg "Perry Frank & Lauge – \"Selvascapes\"")
 
 Der Sarde und der Däne haben gemeinsam fantasievolle Sound-Landschaften kreiert, die zum Träumen einladen. Perry Frank, der seine Live Performances gerne unter freiem Himmel filmt, freut sich über sein frisches Projekt. Seine Liebe für diese Art, Musik zu machen beschreibt er so:
 
@@ -50,9 +50,9 @@ Damit angefangen hat er 2005 in seiner sardischen Heimat. Noch heute nimmt er do
 
 ## Zwei Sound-Landschaften prallen aufeinander
 
-![Francesco Perra aka Perry Frank](/img/perry-frank.jpg "Francesco Perra aka Perry Frank")
-
 2020 fingen Henrik und Francesco an, gemeinsam remote Musik aufzunehmen. Sie schickten sich gegenseitig Sounds, Dateien und Ideen hin und her, die irgendwann zu einem großen gemeinsamen Projekt wurden: "Selvascapes".
+
+![Francesco Perra aka Perry Frank](/img/perry-frank.jpg "Francesco Perra aka Perry Frank")
 
 > "Wir hatten die Vision, unsere Klangkomponenten zu einem kohärenten Ganzen zu verbinden", 
 
@@ -68,11 +68,11 @@ Während der Lockdowns hat die Musik den beiden dabei geholfen, Verbindung zur N
 
 ## Der Wald und seine Bedeutung
 
-![Henrik Laugesen aka Lauge](/img/lauge.jpg "Henrik Laugesen aka Lauge")
-
 Der Titel ist eine Kombination aus dem lateinischen "Selva" (Wald) und "Soundscape" (Klang-Landschaft). Für Henrik und Francesco sind die Songs eine Hommage an das Wort "Wald" Sie beschreiben das so:
 
 > "Wir meinen das natürlich auch im ökologischen Sinne. Der Wald ist ein Lebensort, der für das Überleben der meisten Lebewesen auf der Erde, einschließlich des Homo Sapiens, verantwortlich ist. Für uns hat er aber auch auf abstrakte Weise eine Rolle gespielt. Er ist für uns eine Art mentaler Zustand. Er steht sozusagen für die Verwirrung des modernen Menschen – das ist ja teilweise auch die dantische Bedeutung des Begriffs.
+
+![Henrik Laugesen aka Lauge](/img/lauge.jpg "Henrik Laugesen aka Lauge")
 
 ## Musik und die Natur
 
