@@ -34,13 +34,15 @@ languageLink: /2021/07/28/perry-frank-lauge-selvascapes-en/
 ---
 **Das neue Perry Frank Album "Selvascapes" ist eine Kollaboration mit dem dänischen Ambient Producer Lauge. Die CD ist am 24. Juli erschienen und ein echter Geheimtipp für Fans von traumhaften Sound-Landschaften.**
 
-Hinter dem Namen Lauge steckt der Komponist Henrik Laugesen. Der Autodidakt hat inzwischen elf Alben (unter anderem mit Collapsed Texctures) veröffentlicht und ist Teil der unterschiedlichsten Kooperationen wie zum Beispiel Lauge & Baba Gnohm und Sullen Sky. Ihr kennt ihn vielleicht auch von seinem Sound Design Projekt Luftrum, das ich hier auch ganz sicher schon mal erwähnt habe. Außerdem findet man ihn unter anderem bei Spotify unter dem Namen Ambient Soundscapes. Seine Bandbreite erforscht er selbst immer wieder aufs Neue. Sie reicht von Beat-losen Texturen über Drone-Sounds bis hin zu Neoclassical Ambient und Psychedelischen Downtempo-Stücken.
+Hinter dem Namen Lauge steckt der Komponist Henrik Laugesen. Der Autodidakt hat inzwischen elf Alben (unter anderem mit Collapsed Texctures) veröffentlicht und ist Teil der unterschiedlichsten Kooperationen wie zum Beispiel Lauge & Baba Gnohm und Sullen Sky. 
+
+![Perry Frank & Lauge – "Selvascapes"](/img/selvascapes-artwork-stores.jpg "Perry Frank & Lauge – \"Selvascapes\"")
+
+Ihr kennt ihn vielleicht auch von seinem Sound Design Projekt Luftrum, das ich hier auch ganz sicher schon mal erwähnt habe. Außerdem findet man ihn unter anderem bei Spotify unter dem Namen Ambient Soundscapes. Seine Bandbreite erforscht er selbst immer wieder aufs Neue. Sie reicht von Beat-losen Texturen über Drone-Sounds bis hin zu Neoclassical Ambient und Psychedelischen Downtempo-Stücken.
 
 ## Lauge ist kein Unbekannter
 
 Ein unbeschriebenes Blatt ist der neue musikalische Partner von [Francesco Perra](/2020/11/perry-frank-interview/) also keineswegs. Das Zusammenspiel der beiden Sound-Bastler geht ziemlich gut auf. Man könnte auch sagen: Hier haben sich zwei Ausnahmetalente gefunden, die im gleichen Takt schwingen.
-
-![Perry Frank & Lauge – "Selvascapes"](/img/selvascapes-artwork-stores.jpg "Perry Frank & Lauge – \"Selvascapes\"")
 
 Der Sarde und der Däne haben gemeinsam fantasievolle Sound-Landschaften kreiert, die zum Träumen einladen. Perry Frank, der seine Live Performances gerne unter freiem Himmel filmt, freut sich über sein frisches Projekt. Seine Liebe für diese Art, Musik zu machen beschreibt er so:
 
@@ -52,11 +54,11 @@ Damit angefangen hat er 2005 in seiner sardischen Heimat. Noch heute nimmt er do
 
 2020 fingen Henrik und Francesco an, gemeinsam remote Musik aufzunehmen. Sie schickten sich gegenseitig Sounds, Dateien und Ideen hin und her, die irgendwann zu einem großen gemeinsamen Projekt wurden: "Selvascapes".
 
-![Francesco Perra aka Perry Frank](/img/perry-frank.jpg "Francesco Perra aka Perry Frank")
-
 > "Wir hatten die Vision, unsere Klangkomponenten zu einem kohärenten Ganzen zu verbinden", 
 
 erzählen sie auf Francescos Webseite. Alle Stücke auf der Platte haben eine Verbindung zum Wald. Das spiegelt sich in den Titeln und der Musik wider. Die Songs handeln von Weite, Ungeheuerlichkeit, Abgeschlossenheit, offenem Raum und der Natur. Beim Hören durchwandert man die Landschaften, die Francesco und Henrik beim Komponieren vor Augen hatten.
+
+![Francesco Perra aka Perry Frank](/img/perry-frank.jpg "Francesco Perra aka Perry Frank")
 
 ## "Selvacapes" erzählt von der Natur
 
