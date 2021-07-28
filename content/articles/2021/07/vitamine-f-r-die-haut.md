@@ -17,7 +17,7 @@ labels:
   - vegan beauty
   - vegane Kosmetik
   - Hyaluron
-  - vegans Hyaluron
+  - veganes Hyaluron
   - Vitamin C
   - Gesichtspflege
   - Fair Fashion & Beauty
