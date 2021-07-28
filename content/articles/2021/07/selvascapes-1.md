@@ -58,7 +58,7 @@ they say on Francesco's website. All the pieces on the record connect to the for
 
 ## "Selvacapes" tells of nature
 
-[Nature has always been part of Perry Frank's music](LINK!). In this beautiful new work, you can feel the landscapes of the south and the north colliding, resulting in an energetic sound that can stimulate the imagination.
+[Nature has always been part of Perry Frank's music](/2020/11/perry-frank-interview-en). In this beautiful new work, you can feel the landscapes of the south and the north colliding, resulting in an energetic sound that can stimulate the imagination.
 
 The two musicians recorded the nine songs in their studios (HomeLand Studios Iglesias, Sardinia and Zealand, Denmark). They enriched the ambient/drone sounds with authentic forest sounds.
 
@@ -82,4 +82,4 @@ James Edward Armstrong did the mastering for "Selvascapes". Harry Towell shot th
 
 Perry Frank and Lauge released "Selvascapes" on 24 July in a limited CD version. So if you hurry, you can still get your copy! But no worries: From 13 July, the record will also be available in all digital stores.
 
-[Read my interview with Perry Frank now](LINK!).
+[Read my interview with Perry Frank now](/2020/11/perry-frank-interview-en).
