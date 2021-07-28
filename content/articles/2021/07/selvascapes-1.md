@@ -32,13 +32,15 @@ languageLink: /2021/07/28/perry-frank-lauge-selvascapes/
 ---
 **Perry Frank's new album "Selvascapes" is a collaboration with the Danish ambient producer Lauge. The CD was released on 24 July. It is a great insider tip for fans of dreamlike soundscapes, drone and beautiful ambient music.**
 
-The self-taught composer Henrik Laugesen aka Lauge, already released eleven albums (among others with Collapsed Texctures) and is part of various collaborations such as Lauge & Baba Gnohm and Sullen Sky. You may also know him from his sound design project Luftrum, which I'm sure I've mentioned here before. You can also find him on platforms like Spotify under the name Ambient Soundscapes. He is still exploring his bandwidth. It ranges from beat-less textures and drone sounds to neoclassical ambient and psychedelic downtempo pieces.
+The self-taught composer Henrik Laugesen aka Lauge, already released eleven albums (among others with Collapsed Texctures) and is part of various collaborations such as Lauge & Baba Gnohm and Sullen Sky. 
+
+![Perry Frank & Lauge – "Selvascapes"](/img/selvascapes-artwork-stores.jpg "Perry Frank & Lauge – \\"Selvascapes\\"")
+
+You may also know him from his sound design project Luftrum, which I'm sure I've mentioned here before. You can also find him on platforms like Spotify under the name Ambient Soundscapes. He is still exploring his bandwidth. It ranges from beat-less textures and drone sounds to neoclassical ambient and psychedelic downtempo pieces.
 
 ## Lauge is not a stranger
 
 [Francesco Perra's](LINK) new partner in music is by no means a blank slate. The interplay between the two sound lovers works out pretty well. You could also say: two exceptional talents swinging to the same beat have found each other.
-
-![Perry Frank & Lauge – "Selvascapes"](/img/selvascapes-artwork-stores.jpg "Perry Frank & Lauge – \\"Selvascapes\\"")
 
 Together, the Sardinian and the Dane have created imaginative soundscapes that invite you to dream. Perry Frank, who likes to film his live performances in the open air, is happy about his new project. He describes his passion for this way of making music like this:
 
@@ -52,9 +54,9 @@ In 2020, Henrik and Francesco started recording music together remotely. They se
 
 > "We had the vision to combine our sound components into a coherent whole", 
 
-![Francesco Perra aka Perry Frank](/img/perry-frank.jpg "Francesco Perra aka Perry Frank")
-
 they say on Francesco's website. All the pieces on the record connect to the forest; this reflects in the titles and, of course, the music. The songs are about vastness, enormity, enclosure, open space and nature. While listening to it, I wander through the landscapes that Francesco and Henrik looked at when composing it.
+
+![Francesco Perra aka Perry Frank](/img/perry-frank.jpg "Francesco Perra aka Perry Frank")
 
 ## "Selvacapes" tells of nature
 
