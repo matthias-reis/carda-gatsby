@@ -28,7 +28,7 @@ focusKeyword: Selvascapes
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2021/07/28/perry-frank-lauge-selvascapes/
+languageLink: /2021/07/perry-frank-lauge-selvascapes/
 ---
 **Perry Frank's new album "Selvascapes" is a collaboration with the Danish ambient producer Lauge. The CD was released on 24 July. It is a great insider tip for fans of dreamlike soundscapes, drone and beautiful ambient music.**
 
