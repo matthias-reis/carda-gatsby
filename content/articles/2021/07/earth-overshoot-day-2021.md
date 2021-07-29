@@ -35,7 +35,7 @@ lag der Earth Overshoot Day 2020 durch Corona auf dem 22. August. Es wäre gut g
 
 ## Earth Overshoot Day 2021 – ein Tag als Mahnmal
 
-Von effektivem Klimaschutz oder einem erfolgreichen Kampf gegen den Klimawandel können wir also bei Weitem noch nicht reden. Und das, obwohl die Folgen des Klimawandels immer sichtbarer werden. [Auch bei uns](/2021/07/tiere-als-hochwasser-opfer/).
+Von effektivem Klimaschutz oder einem erfolgreichen Kampf gegen den Klimawandel können wir also bei Weitem noch nicht reden. Und das, obwohl die Folgen des Klimawandels immer sichtbarer werden – [auch bei uns](/2021/07/tiere-als-hochwasser-opfer/).
 
 Das Datum des Earth Overshoot Day ermittelt das Global Footprint Network jedes Jahr. Dabei wird auch  ausgerechnet, wie viele Erden wir mit unserem aktuellen Lebenswandel brauchen würden. Der aktuelle globale ökologische Fußabdruck (Ressourcen, die wir Stand heute beanspruchen) wird im Verhältnis der zu Verfügung stehenden Biokapazität mal 365 Tage gerechnet. Am Kehrwert sieht man dann die Anzahl der Erden, die wir benötigen würden, um unseren Bedarf für ein Jahr  zu decken. Im Moment wären das 1,7.
 
