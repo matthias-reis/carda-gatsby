@@ -3,7 +3,7 @@ date: 2021-08-02T16:43:25.645Z
 slug: duvel-duvel
 typeName: Review
 title: Duvel
-subTitle: Die Post-Punk Überraschung aus Norwegen
+subTitle: Die Post-Punk-Überraschung aus Norwegen
 seoTitle: Duvel – Die Post-Punk Überraschung aus Norwegen
 description: Liebt Ihr guten Post-Punk im Stil von Siouxsie and the Banshees und
   Savages? Dann solltet Ihr der neuen Platte von Duvel auf jeden Fall eine
