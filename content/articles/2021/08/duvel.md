@@ -1,7 +1,7 @@
 ---
 date: 2021-08-02T16:43:25.645Z
 slug: duvel-duvel
-typeName: review
+typeName: Review
 title: Duvel
 subTitle: Die Post-Punk Überraschung aus Norwegen
 seoTitle: Duvel – Die Post-Punk Überraschung aus Norwegen
