@@ -22,6 +22,7 @@ labels:
   - Interviews
   - Bands
   - Aalborg
+  - Fysisk Format
 focusKeyword: Kollapse
 advertisement: false
 affiliate: false
