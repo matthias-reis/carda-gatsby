@@ -28,6 +28,7 @@ labels:
   - Bands
   - Band
   - Aalborg
+  - Fysisk Format
 focusKeyword: Kollapse
 advertisement: false
 affiliate: false
