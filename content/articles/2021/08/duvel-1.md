@@ -40,7 +40,7 @@ All in all, "Duvel" sounds rebellious and, at the same time, soulful and well-th
 
 The songs are short, concise and yet versatile and well-composed. My favourite so far is the track "U". I wonder if that's because of the piano?
 
-Duvel recorded their latest work with Morten Øby. He also mixed "Duvel". Please have a listen; it's really worth it! If you were wondering: "Duvel" is not only the name of a Belgian beer brand, it is also the Norwegian word for devil.
+Duvel recorded their latest work with Morten Øby. He also did the final mix for "Duvel". Please have a listen; it's really worth it! If you were wondering: "Duvel" is not only the name of a Belgian beer brand, it is also the Norwegian word for devil.
 
 ## Duvel "Hong Kong Sex Toy Store"
 
