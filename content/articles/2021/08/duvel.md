@@ -20,6 +20,8 @@ labels:
   - Review
   - Reviews
   - Bands
+  - Morten Øby
+  - Fysisk Format
 focusKeyword: Duvel
 advertisement: false
 affiliate: false
