@@ -41,7 +41,7 @@ Because I had the honour to listen to the album already, I'll try to summarise m
 
 ## Kollapse is now a trio
 
-![Kollapse – "Sult" Artwork: Gina Skowz](/img/kollapse-1-.jpg "Kollapse – \"Sult\" Artwork: Gina Skowz")
+![Kollapse – "Sult" Artwork: Gina Skowz](/img/kollapse-1-.jpg "Kollapse – \\"Sult\\" Artwork: Gina Skowz")
 
 "Sult" will be released on Fysisk Format in collaboration with Maniyax Records, Dingleberry Records and Virkelighedsfjern.
 
@@ -76,6 +76,8 @@ The second song, "Knæler", seems almost more powerful than its predecessor and 
 With a total playing time of 41 minutes, the record is certainly not the longest in this genre. However, Kollapse have managed to get everything perfectly to the point within this relatively short time. The whole work is a beautiful piece of music. The long wait was definitely worth it!
 
 By the way, the incredibly creepy and, at the same time, genius cover picture was painted by Gina Skwoz.
+
+[Read my interview with Kollapse here](/2021/07/kollapse-interview-en/).
 
 ## Kollapse - "Knæler"
 
