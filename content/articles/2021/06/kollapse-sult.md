@@ -75,7 +75,7 @@ Mit ihren insgesamt 41 Minuten Spieldauer ist die Platte sicher nicht die längs
 
 Das unfassbar gruselige und zugleich großartige Cover-Bild hat übrigens Gina Skwoz gemalt.
 
-[Mein Interview mit Kollapse findet Ihr hier](/2021/07/kollapse-interview/2021/07/kollapse-interview/).
+[Mein Interview mit Kollapse findet Ihr hier](/2021/07/kollapse-interview/).
 
 ## Kollapse – "Knæler"
 
