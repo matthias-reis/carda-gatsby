@@ -7,8 +7,8 @@ subTitle: Mit dem Nussmilchbeutel Pflanzendrink zaubern
 seoTitle: Hafermilch selber machen – mit Nussmilchbeutel Pflanzendrink zaubern
 description: "Hafermilch selber machen – wolltet Ihr das auch schon immer mal
   ausprobieren? Ich habe gemerkt: Es geht eigentlich ganz einfach. Ihr braucht
-  nur ein paar einfache Zutaten und einen Nussmilchbeutel. Dann kann es auch
-  schon losgehen."
+  im Grunde nur zwei Zutaten und einen Nussmilchbeutel. Dann kann es auch schon
+  losgehen."
 image: /img/2021-08-03-ecomonkey-12.jpg
 ogImage: /img/hafermilch-selber-machen.jpg
 labels:
@@ -27,7 +27,7 @@ advertisement: false
 affiliate: true
 language: de
 ---
-**Hafermilch selber machen – wolltet Ihr das auch schon immer mal ausprobieren? Ich habe gemerkt: Es geht eigentlich ganz einfach. Ihr braucht nur ein paar einfache Zutaten und einen Nussmilchbeutel. Dann kann es auch schon losgehen.**
+**Hafermilch selber machen – wolltet Ihr das auch schon immer mal ausprobieren? Ich habe gemerkt: Es geht eigentlich ganz einfach. Ihr braucht im Grunde nur zwei Zutaten und einen Nussmilchbeutel. Dann kann es auch schon losgehen.**
 
 Hafermilch hat sich zur beliebtesten Milch-Alternative gemausert. Inzwischen stellt sie sogar Sojamilch in den Schatten. Und das hat viele Gründe: Die meisten empfinden den Geschmack von Hafermilch als angenehm. Sie ist leicht lieblich, aber nicht zu süß. Außerdem kann man sie wunderbar für Kaffeespezialitäten aufschäumen und sie harmoniert perfekt mit Müslis und Co.
 
@@ -62,7 +62,7 @@ Zieht den Kochtopf von der Herdplatte und lasst die Mischung ein bisschen ruhen.
 
 Schnappt Euch eine Schüssel und schüttet die Mischung in den sauberen Nussmilchbeutel. Presst die Mischung mit den Händen durch den Beutel, indem Ihr ihn zudreht.
 
-**Tipp:** Einen tollen Nussmilchbeutel könnt Ihr zum Beispiel bei Ecomonkey kaufen
+**Tipp:** [Einen tollen Nussmilchbeutel könnt Ihr zum Beispiel bei Ecomonkey kaufen](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Er ist aus Baumwolle, komplett natürlich und schön robust. Mit dem Kauf unterstützt man sogar noch ein Waldaufforstungs-Projekt.
 
 Füllt Eure selbst gemachte Hafermilch in eine Flasche und stellt sie kühl. Wir heben uns immer die Flaschen von der Tomatensauce auf. Die dienen uns nicht nur als Vorratsgläser für Müsli, Reis und Nudeln, sondern eignen sich auch hervorragend als Hafermilch-Flaschen.
 
