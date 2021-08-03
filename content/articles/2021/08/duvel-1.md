@@ -7,7 +7,7 @@ subTitle: A Post-Punk Surprise From Norway
 seoTitle: Duvel – A Post-Punk Surprise From Norway
 description: Do you like good post-punk and the style of bands like Siouxsie and
   the Banshees or Savages? If yes, you should definitely give Duvel's new record
-  a chance. The crew from Oslo released it on 2 July. The self-titled album
+  a chance. The crew from Oslo released it on July 2nd. The self-titled album
   consists of nine very multifaceted songs.
 image: /img/duvel.jpeg
 copyrigt: Duvel
@@ -26,7 +26,7 @@ affiliate: false
 language: en
 languageLink: /2021/08/duvel-duvel/
 ---
-**Do you like good post-punk and the style of bands like Siouxsie and the Banshees or Savages? If yes, you should definitely give Duvel's new record a chance. The crew from Oslo released it on July 2n.d**
+**Do you like good post-punk and the style of bands like Siouxsie and the Banshees or Savages? If yes, you should definitely give Duvel's new record a chance. The crew from Oslo released it on July 2nd.**
 
 The self-titled album consists of nine very multifaceted songs. Three years after their promising debut "Attempts At Speech", it comes as a special surprise.
 
