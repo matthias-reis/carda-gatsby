@@ -46,7 +46,7 @@ Mit komplexen Kohlehydraten gibt Euch Hafer Energie für den ganzen Tag. Und Ihr
 
 Die fertige Hafermilch ist kalorienarm. 100 Milliliter enthalten in der Regel weniger als 45 Kalorien. Vergleicht das mal mit Kuhmilch: Ein Liter hat satte 64 Kalorien! Aber ich vermute, dass ich Euch gar nicht mehr zu überzeugen brauche. Ihr seid hier vorbeigekommen, weil Ihr Hafermilch selber machen möchtet. Daher möchte ich Euch die Rezepte nicht mehr länger vorenthalten.
 
-Ihr könnt Eure selbst gemachte Hafermilch auf zwei Arten herstellen: mit oder ohne Kochen. Ich selbst ziehe die Variante mit Kochen vor. Das liegt vor allem daran, dass sie ein kleines bisschen feiner ist. Beide Varianten lassen sich genauso einfach zubereiten. Für beide braucht Ihr einen [Nussmilchbeutel](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Die Zutaten sind für beide Rezepte dieselben:
+Ihr könnt Eure selbst gemachte Hafermilch auf zwei Arten herstellen: mit oder ohne Kochen. Ich selbst ziehe die Variante mit Kochen vor. Das liegt vor allem daran, dass die Hafermilch dabei ein kleines bisschen feiner wird. Beide Versionen lassen sich genauso einfach zubereiten. Für beide braucht Ihr einen [Nussmilchbeutel](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Die Zutaten sind für beide Rezepte dieselben:
 
 ## Die Zutaten für einen Liter selbst gemachte Hafermilch
 
