@@ -45,7 +45,7 @@ description: DIY Sojamilch ist eine leckere pflanzliche Alternative, die Ihr
 
 Eine wundervolle, kostengünstige Alternative zu den Pflanzendrinks aus dem Supermarkt, sind selbstgemachte Milch-Alternativen. Sojamilch zum Beispiel könnt Ihr ganz einfach zu Hause herstellen – und das ohne teuren Nussmilchbereiter. Ihr braucht nur ein paar Zutaten und einen [Nussmilchbeutel](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F).
 
-## Benötigt wird
+## Ihr braucht
 
 - 1 mittelgroßer Kochtopf
 - 1 Sieb
