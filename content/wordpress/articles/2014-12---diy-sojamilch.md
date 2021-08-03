@@ -59,7 +59,7 @@ Selbst gemachte Pflanzen-Drinks sind eine wundervolle, kostengünstige Alternati
 
 ## Zutaten
 
-- 100 g Sojabohnen (Im Bioladen gibt es sehr gute aus z. B. Italien und Österreich oder Ihr bestellt Sie einfach im Internet, mit dem Suchbegriff "Bio-Sojabohnen bestellen" landet man etliche Treffer)
+- 100 g Sojabohnen (Im Bioladen gibt es sehr gute z. B. aus Italien und Österreich oder Ihr bestellt Sie einfach im Internet, mit dem Suchbegriff "Bio-Sojabohnen bestellen" landet man etliche Treffer)
 - ca. 2 Liter Wasser
 
 *Tipp:* Gebt nach Lust und Laune noch etwas Vanillemark hinzu.
