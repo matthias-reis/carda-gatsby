@@ -64,7 +64,7 @@ Schnappt Euch eine Schüssel und schüttet die Mischung in den sauberen Nussmilc
 
 **Tipp:** [Einen tollen Nussmilchbeutel könnt Ihr zum Beispiel bei Ecomonkey kaufen](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Er ist aus Baumwolle – also komplett natürlich. Mit dem Kauf unterstützt man sogar noch ein Waldaufforstungs-Projekt.
 
-Füllt Eure selbst gemachte Hafermilch in eine Flasche und stellt sie kühl. Wir heben uns immer die Flaschen von der Tomatensauce auf. Die dienen uns nicht nur als Vorratsgläser für Müsli, Reis und Nudeln, sondern eignen sich auch hervorragend als Hafermilch-Flaschen.
+Füllt Eure selbst gemachte Hafermilch in eine Flasche und stellt sie kühl. Wir heben immer die Flaschen von der Tomatensauce auf. Die dienen uns nicht nur als Vorratsgläser für Müsli, Reis und Nudeln, sondern eignen sich auch hervorragend als Hafermilch-Flaschen.
 
 ## Hafermilch selber machen – Rezept ohne Kochen
 
