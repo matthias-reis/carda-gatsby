@@ -60,7 +60,7 @@ Kocht das Wasser und gebt am Siedepunkt Eure Haferflocken hinzu. Denkt daran, da
 
 Zieht den Kochtopf von der Herdplatte und lasst die Mischung ein bisschen ruhen. Anschließend gebt Ihr sie ihn Euren Mixer (volle Stufe!) und püriert den Hafer so lange, bis ihr keine Fasern mehr erkennen könnt.
 
-Schnappt Euch eine Schüssel und schüttet die Mischung in den sauberen Nussmilchbeutel. Presst sie mit den Händen durch den Beutel, indem Ihr ihn zudreht.
+Schnappt Euch eine Schüssel und schüttet die Mischung in den sauberen [Nussmilchbeutel](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Presst sie mit den Händen durch den Beutel, indem Ihr ihn zudreht.
 
 **Tipp:** [Einen tollen Nussmilchbeutel könnt Ihr zum Beispiel bei Ecomonkey kaufen](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Er ist aus Baumwolle also komplett natürlich. Mit dem Kauf unterstützt man sogar noch ein Waldaufforstungs-Projekt.
 
@@ -68,7 +68,7 @@ Füllt Eure selbst gemachte Hafermilch in eine Flasche und stellt sie kühl. Wir
 
 ## Hafermilch selber machen – Rezept ohne Kochen
 
-Wenn Ihr Eure Hafermilch ohne Kochen zubereiten wollt, wenn es mal schnell gehen muss, könnt Ihr das Kochen einfach weglassen. Sie Haltbarkeitszeit verkürzt sich dabei ein bisschen und sie ist nicht ganz so fein, aber es funktioniert genauso gut. Der Punkt mit der Haltbarkeit ist für mich ohnehin nicht so wichtig – so ein Liter Hafermilch ist bei uns schnell weg und neue kann ich in ein paar Minuten herstellen. 
+Wenn Ihr Eure Hafermilch ohne Kochen zubereiten wollt, wenn es mal schnell gehen muss, könnt Ihr das Kochen einfach weglassen.  Die Haltbarkeitszeit verkürzt sich dabei ein bisschen und sie ist nicht ganz so fein, aber es funktioniert genauso gut. Püriert einfach alles gut und presst die Hafermilch-Mischung anschließend durch den [Nussmilchbeutel](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Der Punkt mit der Haltbarkeit ist für mich ohnehin nicht so wichtig – so ein Liter Hafermilch ist bei uns schnell weg und neue kann ich in ein paar Minuten herstellen. 
 
 Wir benutzen Hafermilch auch als Sahne-Ersatz und Basis für Saucen aller Art. Weil ich meistens spontan entscheide, was ich koche, nutze ich besonders dann gerne diese Variante.
 
