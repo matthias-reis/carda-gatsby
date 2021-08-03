@@ -71,7 +71,7 @@ Eine wundervolle, kostengünstige Alternative zu den Pflanzendrinks aus dem Supe
 1.  Bereitet eine Schüssel vor und gießt die Sojamilch darüber vorsichtig durch den [Nussmilchbeutel](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Quetscht den Brei ordentlich durch und passt auf, dass nichts daneben geht.
 1.  Füllt die Sojamilch in die Karaffe. Im Kühlschrank ist sie bis zu 14 Tage haltbar, Ihr könnt also locker auch größere Mengen herstellen, hierzu einfach das Rezept verdoppeln, verdreifachen usw. Bleibt eine größere Menge Sojabrei (Okara) übrig, könnt Ihr daraus schmackhafte Frikadellen zubereiten.
 
-Prost!
+[Hafermilch selbst zubereiten – Rezept](/2021/08/hafermilch-selber-machen/)
 
 <Gallery
   images={[
