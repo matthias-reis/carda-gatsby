@@ -33,7 +33,7 @@ Hafermilch hat sich zur beliebtesten Milch-Alternative gemausert. Inzwischen ste
 
 ## Hafer ist gut fürs Klima
 
-Im Gegensatz zu, nehmen wir mal Reis, besitzt Hafer außerdem einen wesentlich besseren ökologischen Fußabdruck. Hafer kann fast überall angebaut werden und ist sehr robust. Daher stammt der Hafer, der hierzulande in die Hafermilch kommt, auch meistens nicht von weit her. 
+Im Gegensatz zu, nehmen wir mal Reis, besitzt Hafer außerdem einen wesentlich besseren ökologischen Fußabdruck. Man kann ihn so gut wie überall anbauen und er ist ziemlich robust. Daher stammt der Hafer, der hierzulande in die Hafermilch kommt, auch meistens nicht von weit her. 
 
 Ein weiterer Vorteil ist, dass er ziemlich bekömmlich ist. Er genießt sogar den Ruf, das gesündeste Getreide überhaupt zu sein. So vertragen zum Beispiel viele, die Sojamilch nicht trinken können, Hafermilch sehr gut. 
 
@@ -62,7 +62,7 @@ Zieht den Kochtopf von der Herdplatte und lasst die Mischung ein bisschen ruhen.
 
 Schnappt Euch eine Schüssel und schüttet die Mischung in den sauberen Nussmilchbeutel. Presst die Mischung mit den Händen durch den Beutel, indem Ihr ihn zudreht.
 
-**Tipp:** [Einen tollen Nussmilchbeutel könnt Ihr zum Beispiel bei Ecomonkey kaufen](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Er ist aus Baumwolle, komplett natürlich und schön robust. Mit dem Kauf unterstützt man sogar noch ein Waldaufforstungs-Projekt.
+**Tipp:** [Einen tollen Nussmilchbeutel könnt Ihr zum Beispiel bei Ecomonkey kaufen](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Er ist aus Baumwolle also komplett natürlich. Mit dem Kauf unterstützt man sogar noch ein Waldaufforstungs-Projekt.
 
 Füllt Eure selbst gemachte Hafermilch in eine Flasche und stellt sie kühl. Wir heben uns immer die Flaschen von der Tomatensauce auf. Die dienen uns nicht nur als Vorratsgläser für Müsli, Reis und Nudeln, sondern eignen sich auch hervorragend als Hafermilch-Flaschen.
 
