@@ -87,4 +87,6 @@ Ein Hinweis für die Gluten-Allergiker⋆innen unter Euch: Wenn Ihr auch endlich
 
 **Tipp:** Die selbst gemachte Hafermilch vor dem Genuss immer gut schütteln.
 
+[Sojamilch selbst zubereiten – Rezept](/2014/12/diy-sojamilch/)
+
 <Gallery name="hafermilch-selber-machen-2" />
