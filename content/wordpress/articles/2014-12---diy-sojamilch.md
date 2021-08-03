@@ -61,6 +61,8 @@ Selbst gemachte Milch-Alternativen sind eine wundervolle, kostengünstige Altern
 - 100 g Sojabohnen (Im Bioladen gibt es sehr gute aus z. B. Italien und Österreich oder Ihr bestellt Sie einfach im Internet, mit dem Suchbegriff "Bio-Sojabohnen bestellen" landet man etliche Treffer)
 - ca. 2 Liter Wasser
 
+*Tipp:* Gebt nach Lust und Laune noch etwas Vanillemark hinzu.
+
 ## DIY Sojamilch - Die Zubereitung
 
 1.  Gebt die Sojabohnen in eine Schüssel und lasst sie mit viel Wasser (rund einen Liter) ungefähr zehn Stunden lang quellen. Setzt sie am besten morgens an, dann könnt Ihr Eure Sojamilch nach Feierabend fertig zubereiten.
