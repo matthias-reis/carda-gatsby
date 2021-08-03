@@ -49,8 +49,8 @@ Ihr könnt Eure selbst gemachte Hafermilch auf zwei Arten herstellen: mit oder o
 
 - 1 Liter Wasser
 - 100 Gramm Haferflocken
-- Je nach Geschmack 1-2 Löffel Birkenzucker oder 1-2 Tel. Sirup (Könnt Ihr auch weglassen)
-- Manche geben auch noch eine Messerspitze Salz hinzu. Die fällt bei mir auch weg
+- Optional: Je nach Geschmack 1-2 Löffel Birkenzucker oder 1-2 Tel. Sirup (Könnt Ihr auch weglassen).
+- Optional: Manche geben auch noch eine Messerspitze Salz hinzu. Die fällt bei mir auch weg.
 
 <Gallery name="hafermilch-selber-machen-1" />
 
