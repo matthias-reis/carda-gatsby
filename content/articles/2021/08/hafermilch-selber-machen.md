@@ -35,7 +35,7 @@ Hafermilch hat sich zur beliebtesten Milch-Alternative gemausert. Inzwischen ste
 
 Im Gegensatz zu, nehmen wir mal Reis, besitzt Hafer außerdem einen wesentlich besseren ökologischen Fußabdruck. Man kann ihn so gut wie überall anbauen und er ist ziemlich robust. Daher hat der Hafer, der hierzulande in die Hafermilch kommt, auch meistens keinen besonders weiten Transportweg hinter sich. 
 
-Ein weiterer Vorteil ist, dass er ziemlich bekömmlich ist. Er genießt sogar den Ruf, das gesündeste Getreide überhaupt zu sein. So vertragen zum Beispiel viele, die Sojamilch nicht trinken können, Hafermilch sehr gut. 
+Ein weiterer Vorteil ist, dass er ziemlich bekömmlich ist. Er genießt sogar den Ruf, das gesündeste Getreide überhaupt zu sein. So vertragen zum Beispiel viele, die Sojamilch aus gesundheitlichen Gründen nicht trinken können, Hafermilch sehr gut. 
 
 Mit komplexen Kohlehydraten gibt Euch Hafer Energie für den ganzen Tag. Und Ihr tut Euch mit dem Genuss auch sonst noch etwas Gutes: Ihr nehmt dabei Eisen, Magnesium, Zink sowie die Vitamine B1 und B6 zu Euch. Da klingt gut, oder?
 
