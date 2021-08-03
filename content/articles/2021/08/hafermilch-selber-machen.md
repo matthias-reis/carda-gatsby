@@ -56,7 +56,7 @@ Ihr könnt Eure selbst gemachte Hafermilch auf zwei Arten herstellen: mit oder o
 
 ## Hafermilch selber machen – Rezept mit Kochen
 
-Kocht das Wasser und gebt am Siedepunkt Eure Haferflocken hinzu. Denkt daran, das Gemisch dabei gut durchzurühren. Falls Ihr es gerne süß mögt, wäre jetzt der Moment, die Süße Eurer Wahl hinzuzugeben.
+Kocht das Wasser und gebt am Siedepunkt Eure Haferflocken hinzu. Denkt daran, das Gemisch dabei gut durchzurühren. Falls Ihr es gerne süß mögt, ist jetzt der Moment, die Süße Eurer Wahl hinzuzugeben.
 
 Zieht den Kochtopf von der Herdplatte und lasst die Mischung ein bisschen ruhen. Anschließend gebt Ihr sie ihn Euren Mixer (volle Stufe!) und püriert den Hafer so lange, bis ihr keine Fasern mehr erkennen könnt.
 
