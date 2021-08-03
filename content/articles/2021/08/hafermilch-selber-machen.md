@@ -60,9 +60,9 @@ Kocht das Wasser und gebt am Siedepunkt Eure Haferflocken hinzu. Denkt daran, da
 
 Zieht den Kochtopf von der Herdplatte und lasst die Mischung ein bisschen ruhen. Anschließend gebt Ihr sie ihn Euren Mixer (volle Stufe!) und püriert den Hafer so lange, bis ihr keine Fasern mehr erkennen könnt.
 
-Schnappt Euch eine Schüssel und schüttet die Mischung in den sauberen [Nussmilchbeutel](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Presst sie mit den Händen durch den Beutel, indem Ihr ihn zudreht.
+Schnappt Euch eine Schüssel und schüttet die Mischung in den sauberen Nussmilchbeutel. Presst sie mit den Händen durch den Beutel, indem Ihr ihn zudreht.
 
-**Tipp:** [Einen tollen Nussmilchbeutel könnt Ihr zum Beispiel bei Ecomonkey kaufen](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Er ist aus Baumwolle also komplett natürlich. Mit dem Kauf unterstützt man sogar noch ein Waldaufforstungs-Projekt.
+**Tipp:** [Einen tollen Nussmilchbeutel könnt Ihr zum Beispiel bei Ecomonkey kaufen](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Er ist aus Baumwolle – also komplett natürlich. Mit dem Kauf unterstützt man sogar noch ein Waldaufforstungs-Projekt.
 
 Füllt Eure selbst gemachte Hafermilch in eine Flasche und stellt sie kühl. Wir heben uns immer die Flaschen von der Tomatensauce auf. Die dienen uns nicht nur als Vorratsgläser für Müsli, Reis und Nudeln, sondern eignen sich auch hervorragend als Hafermilch-Flaschen.
 
