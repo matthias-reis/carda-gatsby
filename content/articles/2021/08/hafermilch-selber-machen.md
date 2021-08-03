@@ -10,6 +10,7 @@ description: "Hafermilch selber machen – wolltet Ihr das auch schon immer mal
   im Grunde nur zwei Zutaten und einen Nussmilchbeutel. Dann kann es auch schon
   losgehen."
 image: /img/2021-08-03-ecomonkey-12.jpg
+copyrigt: ""
 ogImage: /img/hafermilch-selber-machen.jpg
 labels:
   - Zero Waste
@@ -22,6 +23,8 @@ labels:
   - Pflanzendrink
   - Milch-Alternative
   - Ernährung & Gesundheit
+  - Nussmilchbeutel
+  - vegane Rezepte
 focusKeyword: Hafermilch selber machen
 advertisement: false
 affiliate: true
