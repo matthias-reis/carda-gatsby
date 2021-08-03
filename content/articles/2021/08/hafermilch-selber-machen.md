@@ -80,7 +80,7 @@ Ein Hinweis für die Gluten-Allergiker⋆innen unter Euch: Wenn Ihr auch endlich
 
 ## Selbst gemachte Hafermilch ist günstig
 
-500 Gramm Haferflocken kosten zwischen 30 Cent und 80 Cent für die Bio-Edelmarke. Ihr müsst für einen Liter Hafermilch also gerade mal ein paar Cent ausgeben. Im Laden kostet der Liter hingegen zwischen einem und drei Euro (und es ist noch ein Tetrapak außen rum, das in den Müll kommt). Hafermilch selber machen lohnt sich also auch von diesem Gesichtspunkt aus unbedingt!
+500 Gramm Haferflocken kosten zwischen 30 Cent im Discounter und 80 Cent für die Bio-Edelmarke. Ihr müsst für einen Liter Hafermilch also gerade mal ein paar Cent ausgeben. Im Laden kostet der Liter hingegen zwischen einem und drei Euro (und es ist noch ein Tetrapak außen rum, das in den Müll kommt). Hafermilch selber machen lohnt sich also auch von diesem Gesichtspunkt aus unbedingt!
 
 **Tipp:** Die selbst gemachte Hafermilch vor dem Genuss immer gut schütteln.
 
