@@ -39,7 +39,7 @@ languageLink: /2021/08/closet-disco-queen-the-flying-raclettes-omelette-du-froma
 ---
 **On September 3rd, there will be an album release that you really can look forward to. The Flying Raclettes extends Luc Hess's and Jona Nido's instrumental duo Closet Disco Queen. You may probably know the two from their work with The Ocean, Coilguns, Louis Jucker and other projects.**
 
-Live and studio sound engineer Kevin Galland, who also played with Coilguns and Chadi Messmer (bass), have joined the band. So Closet Disco Queen became Closet Disco & The Flying Raclettes for this record. And hopefully some more? Let's see what awaits us.
+Live and studio sound engineer Kevin Galland, who also played with Coilguns and Chadi Messmer (bass), joined the band. So Closet Disco Queen became Closet Disco & The Flying Raclettes for this record. And hopefully some more? Let's see what awaits us.
 
 ## Closet Disco Queen look back on exciting stories
 
