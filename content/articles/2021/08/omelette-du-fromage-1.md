@@ -63,7 +63,7 @@ Dexter makes public speeches in the episode and eventually becomes a star by say
 
 Whether Closet Disco Queen & The Flying Raclettes are as shady as Dexter in the Big Cheese episode is for fans to decide for themselves. 
 
-I've had a chance to listen to it in its entirety, and I'm pretty sure that this is not the case. The record is all in all a colourful bouquet of great playful music that breaks all pigeonholes.
+I've had the chance to listen to it in its entirety, and I'm pretty sure that this is not the case. The record is all in all a colourful bouquet of great playful music that breaks all pigeonholes.
 
 The additional bass and guitar have made the sound even more multi-layered compared to the last album, which also was extremely exciting. 
 
