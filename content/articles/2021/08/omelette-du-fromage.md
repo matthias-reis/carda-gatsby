@@ -50,7 +50,7 @@ Zu den beiden haben sich nun der Live- und Studio Toningenieur Kevin Galland, de
 
 Closet Disco Queen gründeten sich 2014 während einer ruhigen Phase bei Coilguns. Das erklärte Ziel damals: eine weniger talentierte Version von The Mars Volta zu werden.
 
-Inzwischen blicken Luc und Jona auf drei Jahre voll spanneder Tourgeschichten, zwei Studioalben, zwei EPs und ein zwei Live-Alben zurück. Sie sind gemeinsam um die Welt gereist und haben die Bühnen zum Beispiel als Support von Baroness und Red Fang bespielt.
+Inzwischen blicken Luc und Jona auf drei Jahre voll spanneder Tourgeschichten, zwei Studioalben, zwei EPs und ein Live-Album zurück. Sie sind gemeinsam um die Welt gereist und haben die Bühnen zum Beispiel als Support von Baroness und Red Fang bespielt.
 
 Ein besonderes Highlight auf ihrem Weg düfte wohl der Auftritt auf dem Desert Fest in Berlin gewesen sein. Außerdem haben Closet Disco Queen unter anderem verschieden Festivals in der Schweiz bereist. Beim Palp Festival wurden dann auch Flying Raclettes geboren.
 
