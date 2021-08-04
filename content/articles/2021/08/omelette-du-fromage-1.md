@@ -59,7 +59,7 @@ Dexter makes public speeches in the episode and eventually becomes a star by say
 
 ## A powerful piece of music
 
-![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-2.jpeg "Closet Disco Queen & The Flying Raclettes")
+![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-5.jpeg "Closet Disco Queen & The Flying Raclettes")
 
 Whether Closet Disco Queen & The Flying Raclettes are as shady as Dexter in the Big Cheese episode is for fans to decide for themselves. 
 
@@ -69,7 +69,7 @@ The additional bass and guitar have made the sound even more multi-layered compa
 
 ## Progressive elements and punk attitude
 
-![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-5.jpeg "Closet Disco Queen & The Flying Raclettes")
+![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-2.jpeg "Closet Disco Queen & The Flying Raclettes")
 
 The band combines elements from the progressive psych and stoner world with rough punk attitude and sheer inexhaustible power, which we love so much from groups like The Mars Volta, Goat or The Hives.
 
