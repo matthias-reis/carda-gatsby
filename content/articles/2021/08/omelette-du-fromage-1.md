@@ -71,9 +71,9 @@ The additional bass and guitar have made the sound even more multi-layered compa
 
 ![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-2.jpeg "Closet Disco Queen & The Flying Raclettes")
 
-The band combines elements from the progressive psych and stoner world with rough punk attitude and sheer inexhaustible power, which we love so much from groups like The Mars Volta, Goat or The Hives.
+The band combines elements from the progressive psych and stoner world with rough punk attitude and sheer inexhaustible energy, which we love so much from groups like The Mars Volta, Goat or The Hives.
 
-The four wrote, recorded and mixed their album in only two weeks in the Swiss studio Mecanique. Exactly that means: the band got access to an abandoned school in the tiny mountain village of Bruson, where they set up a mobile studio and made an album that was sent to the pressing plant just 15 days later.
+The four wrote, recorded and mixed their album in only two weeks in the Swiss studio Mecanique. To be precise, this means: the band got access to an abandoned school in the tiny mountain village of Bruson, where they set up a mobile studio and made an album that was sent to the pressing plant just 15 days later.
 
 "Omelette du Fromage" is a power package without excuses. You can feel the fun the musicians must have had during their recording sessions in every note. When listening to it, you can finally forget all the nonsense flying around our ears these days. Please enjoy!
 
