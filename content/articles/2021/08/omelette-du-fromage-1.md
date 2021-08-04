@@ -53,8 +53,6 @@ A special highlight on their way must have been their performance at the Berlin-
 
 ## "Omelette du Fromage" is a homage to "Dexter's Laboratory".
 
-![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-1.jpeg "Closet Disco Queen & The Flying Raclettes")
-
 The joint venture comes with the spicy title "Omelette du Fromage". It will be released on Jona Nido's record label Hummus Records. The album title is meant as a homage to the episode "The Big Cheese" of the 1996 Cartoon Network animated series "Dexter's Laboratory".
 
 Dexter makes public speeches in the episode and eventually becomes a star by saying, "Omelette du Fromage". By their admission, the band plans to achieve fame across the universe with this excellent record, which they've enhanced with a hard-to-digest graphic design.
