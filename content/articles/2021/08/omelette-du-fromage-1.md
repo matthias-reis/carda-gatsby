@@ -45,7 +45,7 @@ Live and studio sound engineer Kevin Galland, who also played with Coilguns and 
 
 ![Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"](/img/closet-disco-queen-omelette-du-fromage.jpeg "Closet Disco Queen & The Flying Raclettes – \"Omelette du Fromage\"")
 
-Closet Disco Queen formed in 2014 during a quiet period at Coilguns. Their stated goal at that time was: to become a less talented version of The Mars Volta.
+Closet Disco Queen formed in 2014 during a quiet period with Coilguns. Their stated goal at that time was: to become a less talented version of The Mars Volta.
 
 In the meantime, Luc and Jona look back on three years full of exciting tour stories, two studio albums, two EPs, and two live albums. They have travelled the world together and played the stages as support for bands like Baroness and Red Fang.
 
