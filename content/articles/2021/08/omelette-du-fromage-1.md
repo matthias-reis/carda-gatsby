@@ -75,7 +75,7 @@ The band combines elements from the progressive psych and stoner world with roug
 
 The four wrote, recorded and mixed their album in only two weeks in the Swiss studio Mecanique. Exactly that means: the band got access to an abandoned school in the tiny mountain village of Bruson, where they set up a mobile studio and made an album that was sent to the pressing plant just 15 days later.
 
-"Omelette du Fromage" is a power package without equal. You can feel the fun the musicians must have had during the recording in every note. When listening to it, you can finally forget all the nonsense flying around our ears these days. Please enjoy!
+"Omelette du Fromage" is a power package without excuses. You can feel the fun the musicians must have had during their recording sessions in every note. When listening to it, you can finally forget all the nonsense flying around our ears these days. Please enjoy!
 
 <YouTube id="APNyDhLHWSw" />
 
