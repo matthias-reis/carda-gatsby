@@ -47,19 +47,19 @@ Live and studio sound engineer Kevin Galland, who also played with Coilguns and 
 
 Closet Disco Queen formed in 2014 during a quiet period with Coilguns. Their stated goal at that time was: to become a less talented version of The Mars Volta.
 
-In the meantime, Luc and Jona look back on three years full of exciting tour stories, two studio albums, two EPs, and two live albums. They have travelled the world together and played the stages as support for bands like Baroness and Red Fang.
+In the meantime, Luc and Jona look back on three years full of exciting tour stories, two studio albums, two EPs, and a live album. They have travelled the world together and played the stages as support for bands like Baroness and Red Fang.
 
 A special highlight on their way must have been their performance at the Berlin-based Desert Fest. Closet Disco Queen have also toured various festivals in Switzerland. It was one sunny day at the Palp Festival when the Flying Raclettes were born.
 
-## "Omelette du Fromage" is a homage to "Dexter's Laboratory".
+![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-5.jpeg "Closet Disco Queen & The Flying Raclettes")
+
+## "Omelette du Fromage" is a homage to "Dexter's Laboratory"
 
 The joint venture comes with the spicy title "Omelette du Fromage". It will be released on Jona Nido's record label Hummus Records. The album title is meant as a homage to the episode "The Big Cheese" of the 1996 Cartoon Network animated series "Dexter's Laboratory".
 
 Dexter makes public speeches in the episode and eventually becomes a star by saying, "Omelette du Fromage". By their admission, the band plans to achieve fame across the universe with this excellent record, which they've enhanced with a hard-to-digest graphic design.
 
 ## A powerful piece of music
-
-![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-5.jpeg "Closet Disco Queen & The Flying Raclettes")
 
 Whether Closet Disco Queen & The Flying Raclettes are as shady as Dexter in the Big Cheese episode is for fans to decide for themselves. 
 
