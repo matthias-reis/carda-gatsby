@@ -52,7 +52,7 @@ Closet Disco Queen gründeten sich 2014 während einer ruhigen Phase bei Coilgun
 
 Inzwischen blicken Luc und Jona auf drei Jahre voll spanneder Tourgeschichten, zwei Studioalben, zwei EPs und ein Live-Album zurück. Sie sind gemeinsam um die Welt gereist und haben die Bühnen zum Beispiel als Support von Baroness und Red Fang bespielt.
 
-Ein besonderes Highlight auf ihrem Weg düfte wohl der Auftritt auf dem Desert Fest in Berlin gewesen sein. Außerdem haben Closet Disco Queen unter anderem verschiedene Festivals in der Schweiz bereist. Beim Palp Festival wurden dann auch Flying Raclettes geboren.
+Ein besonderes Highlight auf ihrem Weg düfte wohl der Auftritt auf dem Desert Fest in Berlin gewesen sein. Außerdem haben Closet Disco Queen unter anderem verschiedene Festivals in der Schweiz bereist. Eines schönen Tages auf dem Palp Festival wurden dann auch Flying Raclettes geboren.
 
 ## "Omelette du Fromage" ist eine Hommage an "Dexter's Laboratory"
 
@@ -78,7 +78,7 @@ Die Band verbindet Elemente aus der progressiven Psych- und Stoner-Welt mit rump
 
 Geschrieben, aufgenommen und abgemischt haben die vier ihr Album in nur zwanzig Tagen im schweizer Studio Mecanique. Genau bedeutet das: Die Band bekam Zugang zu einer verlassenen Schule im winzigen Bergdorf Bruson, in dem sich ein mobiles Studio einrichtete und ein Album anfertigte, das bereits 15 Tage später an das Presswerk verschickt wurde.
 
-"Omelette du Fromage" ist ein Powerpaket, das Seinesgleichen sucht. Man kann den Spaß, den die Musiker⋆innen bei der Aufnahme gehabt haben müssen, in jeder Note spüren. Beim Hören kann man endlich mal wieder den ganzen Unfug vergessen, der uns im Moment um die Ohren fliegt. Genießt es in vollen Zügen!
+"Omelette du Fromage" ist ein Powerpaket, das Seinesgleichen sucht. Man kann den Spaß, den die Musiker⋆innen bei der Aufnahme gehabt haben müssen, in jeder Note spüren. Beim Hören kann man endlich mal für 39 Minuten den ganzen Unfug vergessen, der uns im Moment um die Ohren fliegt. Genießt es in vollen Zügen!
 
 ## Closet Disco Queen & The Flying Raclettes – "Fugensaft"
 
