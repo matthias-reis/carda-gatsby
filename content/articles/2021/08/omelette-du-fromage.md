@@ -76,7 +76,7 @@ Der zusätzliche Bass und die weitere Gitarre haben den Sound im Vergleich zum l
 
 Die Band verbindet Elemente aus der progressiven Psych- und Stoner-Welt mit rumpeliger Punk-Attitüde und schier unerschöpflicher Energie, die wir von Gruppen wie The Mars Volta, Goat oder The Hives so lieben.
 
-Geschrieben, aufgenommen und abgemischt haben die vier ihr Album in nur zwanzig Tagen im schweizer Studio Mecanique. Genau bedeutet das: Die Band bekam Zugang zu einer verlassenen Schule im winzigen Bergdorf Bruson, in dem sich ein mobiles Studio einrichtete und ein Album anfertigte, das bereits 15 Tage später an das Presswerk verschickt wurde.
+Geschrieben, aufgenommen und abgemischt haben die vier ihr Album in nur zwei Wochen im schweizer Studio Mecanique. Genau bedeutet das: Die Band bekam Zugang zu einer verlassenen Schule im winzigen Bergdorf Bruson, in dem sich ein mobiles Studio einrichtete und ein Album anfertigte, das bereits 15 Tage später an das Presswerk verschickt wurde.
 
 "Omelette du Fromage" ist ein Powerpaket, das Seinesgleichen sucht. Man kann den Spaß, den die Musiker⋆innen bei der Aufnahme gehabt haben müssen, in jeder Note spüren. Beim Hören kann man endlich mal für 39 Minuten den ganzen Unfug vergessen, der uns im Moment um die Ohren fliegt. Genießt es in vollen Zügen!
 
