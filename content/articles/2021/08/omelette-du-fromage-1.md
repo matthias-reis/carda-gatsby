@@ -39,7 +39,7 @@ languageLink: /2021/08/closet-disco-queen-the-flying-raclettes-omelette-du-froma
 ---
 **On September 3rd, there will be an album release that you really can look forward to. The Flying Raclettes extends Luc Hess's and Jona Nido's instrumental duo Closet Disco Queen. You may probably know the two from their work with The Ocean, Coilguns, Louis Jucker and other projects.**
 
-Live and studio sound engineer Kevin Galland, who also played with Coilguns and Chadi Messmer (bass), joined the band. So Closet Disco Queen became Closet Disco & The Flying Raclettes for this record. And hopefully some more? Let's see what awaits us.
+Live and studio sound engineer and guitarist Kevin Galland, who also played with Coilguns and Chadi Messmer (bass), joined the band. So Closet Disco Queen became Closet Disco & The Flying Raclettes for this record. And hopefully some more? Let's see what awaits us.
 
 ## Closet Disco Queen look back on exciting stories
 
@@ -75,7 +75,7 @@ The band combines elements from the progressive psych and stoner world with roug
 
 The four wrote, recorded and mixed their album in only two weeks in the Swiss studio Mecanique. To be precise, this means: the band got access to an abandoned school in the tiny mountain village of Bruson, where they set up a mobile studio and made an album that was sent to the pressing plant just 15 days later.
 
-"Omelette du Fromage" is a power package without excuses. You can feel the fun the musicians must have had during their recording sessions in every note. When listening to it, you can finally forget all the nonsense that is flying around our ears at the moment for 39 minutes. Please enjoy it to the fullest!
+"Omelette du Fromage" is a power package without excuses. You can feel the fun the musicians must have had during their recording sessions in every note. When listening to it, you can finally forget all the nonsense that is flying around our ears at the moment for 39 minutes. So please enjoy it to the fullest!
 
 <YouTube id="APNyDhLHWSw" />
 
