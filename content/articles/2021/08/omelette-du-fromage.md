@@ -62,7 +62,7 @@ In der Folge hält Dexter öffentliche Reden und wird schließlich durch die Wor
 
 ## Ein starkes Stück Musik
 
-![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-2.jpeg "Closet Disco Queen & The Flying Raclettes")
+![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-5.jpeg "Closet Disco Queen & The Flying Raclettes")
 
 Ob Closet Disco Queen & The Flying Raclettes ebenso zwielichtig sind, wie Dexter in der Big Cheese Episode, sollen die Fans selbst entscheiden. 
 
@@ -72,7 +72,7 @@ Der zusätzliche Bass und die weitere Gitarre haben den Sound im Vergleich zum l
 
 ## Progressive Elemente und Punk-Attitüde
 
-![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-5.jpeg "Closet Disco Queen & The Flying Raclettes")
+![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-2.jpeg "Closet Disco Queen & The Flying Raclettes")
 
 Die Band verbindet Elemente aus der progressiven Psych- und Stoner-Welt mit rumpeliger Punk-Attitüde und schier unerschöpflicher Power, die wir von Gruppen wie The Mars Volta, Goat oder The Hives so lieben.
 
