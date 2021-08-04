@@ -46,17 +46,15 @@ Zu den beiden haben sich nun Live- und Studio Toningenieur Kevin Galland, der un
 
 ## Closet Disco Queen blicken auf spannende Geschichten zurück
 
-![Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"](/img/closet-disco-queen-omelette-du-fromage.jpeg "Closet Disco Queen & The Flying Raclettes – \"Omelette du Fromage\"")
+![Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"](/img/closet-disco-queen-omelette-du-fromage.jpeg "Closet Disco Queen & The Flying Raclettes – \\"Omelette du Fromage\\"")
 
 Closet Disco Queen gründeten sich 2014 während einer ruhigen Phase bei Coilguns. Das erklärte Ziel damals: eine weniger talentierte Version von The Mars Volta zu werden.
 
 Inzwischen blicken Luc und Jona auf drei Jahre voll spanneder Tourgeschichten, zwei Studioalben, zwei EPs und ein zwei Live-Alben zurück. Sie sind gemeinsam um die Welt gereist und haben die Bühnen zum Beispiel als Support von Baroness und Red Fang bespielt.
 
-Ein besonderes Highlight auf ihrem Weg düfte wohl der Auftritt auf dem Desert Fest in Berlin gewesen sein. Außerdem haben Closet Disco Queen unter anderem verschieden Festivals in der Schweiz bereist. Beim Palp Festival wurden dann auch die Flying Raclettes geboren.
+Ein besonderes Highlight auf ihrem Weg düfte wohl der Auftritt auf dem Desert Fest in Berlin gewesen sein. Außerdem haben Closet Disco Queen unter anderem verschieden Festivals in der Schweiz bereist. Beim Palp Festival wurden dann auch Flying Raclettes geboren.
 
 ## "Omelette du Fromage" ist eine Hommage an "Dexter's Laboratory"
-
-![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-1.jpeg "Closet Disco Queen & The Flying Raclettes")
 
 Das gemeinsame Album trägt den würzigen Titel "Omelette du Fromage". Es erscheint auf Jona Nidos Plattenlabel Hummus Records. Der Albumtitel soll eine direkte Hommage an die Episode "The Big Cheese" der Cartoon Network-Zeichentrickserie "Dexter's Laboratory" von 1996 sein.
 
