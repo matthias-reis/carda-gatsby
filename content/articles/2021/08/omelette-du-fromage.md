@@ -56,13 +56,13 @@ Ein besonderes Highlight auf ihrem Weg düfte wohl der Auftritt auf dem Desert F
 
 ## "Omelette du Fromage" ist eine Hommage an "Dexter's Laboratory"
 
+![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-5.jpeg "Closet Disco Queen & The Flying Raclettes")
+
 Das gemeinsame Album trägt den würzigen Titel "Omelette du Fromage". Es erscheint auf Jona Nidos Plattenlabel Hummus Records. Der Albumtitel soll eine direkte Hommage an die Episode "The Big Cheese" der Cartoon Network-Zeichentrickserie "Dexter's Laboratory" von 1996 sein.
 
 In der Folge hält Dexter öffentliche Reden und wird schließlich durch die Worte "Omelette du Fromage" zum Star. Laut eigener Aussage wünscht sich die Band, mit diesem großartigen Titel, das um ein schwer verdaulichen Grafikdesign ergänzt wurde, Berühmtheit im ganzen Universum zu erlangen.
 
 ## Ein starkes Stück Musik
-
-![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-5.jpeg "Closet Disco Queen & The Flying Raclettes")
 
 Ob Closet Disco Queen & The Flying Raclettes ebenso zwielichtig sind, wie Dexter in der Big Cheese Episode, sollen die Fans selbst entscheiden. 
 
