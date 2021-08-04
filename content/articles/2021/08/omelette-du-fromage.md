@@ -7,8 +7,8 @@ subTitle: Ein spektakuläres Album von Closet Disco Queen & The Flying Raclettes
 seoTitle: Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"
 ogTitle: ""
 description: Am 3. September erscheint ein Album, auf das Ihr Euch freuen könnt.
-  Bei Closet Disco Queen & The Flying Raclettes handelt es sich um die
-  Erweiterung des Instrumental-Duos von Luc Hess und Jona Nido, die ihr
+  Bei The Flying Raclettes handelt es sich um die Erweiterung des
+  Instrumental-Duos Closet Disco Queen von Luc Hess und Jona Nido, die ihr
   vermutlich schon von The Ocean, Coilguns, Louis Jucker und anderen Projekten
   kennt.
 excerpt: ""
@@ -40,7 +40,7 @@ affiliate: false
 language: de
 languageLink: /2021/08/closet-disco-queen-the-flying-raclettes-omelette-du-fromage-en/
 ---
-**Am 3. September erscheint ein Album, auf das Ihr Euch freuen könnt. Bei Closet Disco Queen & The Flying Raclettes handelt es sich um die Erweiterung des Instrumental-Duos von Luc Hess und Jona Nido, die ihr vermutlich schon von The Ocean, Coilguns, Louis Jucker und anderen Projekten kennt.**
+**Am 3. September erscheint ein Album, auf das Ihr Euch freuen könnt. Bei The Flying Raclettes handelt es sich um die Erweiterung des Instrumental-Duos Closet Disco Queen von Luc Hess und Jona Nido, die ihr vermutlich schon von The Ocean, Coilguns, Louis Jucker und anderen Projekten kennt.**
 
 Zu den beiden haben sich nun Live- und Studio Toningenieur Kevin Galland, der unter anderem auch bei Coilguns gespielt hat und Chadi Messmer (Bass) gesellt. Aus Closet Disco Queen wurde für diese Platte also Closet Disco & The Flying Raclettes.
 
