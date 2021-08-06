@@ -41,7 +41,7 @@ Solange wir darauf warten, können wir uns die Zeit mit den Vorgängeralben vers
 
 Die beiden Alben spiegeln die musikalische Entwicklung der Band wider und zeigen die Einflüsse  von Mathrock über Post-Rock bis Noise. Gitarrist Tom Brooke und Drummer Tuomas Kainulainen lieben es mit Loops und Drone Sounds zu arbeiten und zahlreiche Schichten aus Keys und Samples zu verweben. Das energiegeladene und fantasievoll eingesetzte Schlagzeug bildet dazu den perfekten Kontrast.
 
-Tuomas und Tom gründeten Nyos 2014. Der Finne und der Brite lernten sich damals kurz nach Toms Umzug nach Finnland kennen. Durch ihre glühende Verehrung für Noise Bands, Kaffee und Konzerte spürten sie sofort eine innige Verbindung. Bereits im Winter des Jahres erschien ihr erstes 26-minütiges Stück "Vltava" als Selbstveröffentlichung. Seit 2015 sind die beiden permanent auf Tour – Inzwischen haben sie bereits 200 Konzerte in mehr als 20 Ländern gespielt.
+Tuomas und Tom gründeten Nyos 2014. Der Finne und der Brite lernten sich damals kurz nach Toms Umzug nach Finnland kennen. Durch ihre glühende Verehrung für Noise Bands, Kaffee und Konzerte spürten sie sofort eine innige Verbindung. Bereits im Winter desselben Jahres erschien ihr erstes 26-minütiges Stück "Vltava" als Selbstveröffentlichung. Seit 2015 sind die beiden permanent auf Tour – Inzwischen haben sie bereits 200 Konzerte in mehr als 20 Ländern gespielt.
 
 ## Nyos haben schon 200 Konzerte gespielt
 
