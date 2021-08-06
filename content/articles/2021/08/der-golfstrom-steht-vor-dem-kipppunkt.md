@@ -65,7 +65,7 @@ Weil das Süßwasser leichter ist als das Salzwasser, bleibt es an der Oberfläc
 
 In seiner Studie schreibt Niklas Boers:
 
-> "Die Umwälzzirkulation AMOC hat ihre Vollständigkeit fast vollständig verloren."
+> "Die Umwälzzirkulation AMOC hat ihre Geschwindigkeit fast vollständig verloren."
 
 Das sollte uns auf jeden Fall zu denken geben. Im Moment befinden sie sich bereits am langsamsten Punkt seit 1.600 Jahren.
 
