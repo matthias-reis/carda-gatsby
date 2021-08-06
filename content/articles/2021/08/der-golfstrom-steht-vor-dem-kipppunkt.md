@@ -57,7 +57,7 @@ Niklas Boers schreibt in seiner Studie:
 
 > "Meine Analyse zeigt, dass AMOC im Verlauf des letzten Jahrhunderts von relativ stabilen Verhältnissen an einen Punkt gelangt ist, welcher der kritischen Schwelle (dem Kipppunkt) sehr nahe ist."
 
-Er hat also den klaren Beweis erstellt, dass etwas passiert. Wann genau, der Kipppunkt erreicht ist, kann auch er heute noch nicht klar sagen. Seine Kolleg⋆innen und er vermuten, dass dabei zahlreiche Faktoren eine Rolle spielen. Sie sehen das Abtauen des Grönland-Eises jedoch als besonders treibenden Faktor.
+Er hat also den klaren Beweis erstellt, dass etwas passiert. Wann genau der Kipppunkt erreicht ist, kann auch er heute noch nicht klar sagen. Seine Kolleg⋆innen und er vermuten, dass dabei zahlreiche Faktoren eine Rolle spielen. Sie sehen das Abtauen des Grönland-Eises jedoch als besonders treibenden Faktor.
 
 ## Der Meeresspiegel steigt
 
