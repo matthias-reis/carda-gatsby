@@ -39,7 +39,9 @@ Im letzten Jahrhundert hat die natürliche Zirkulation im Atlantik nachgelassen.
 
 Herausgefunden hat das der Klimaforscher Niklas Boers[^1] vom Institut für Klimafolgenforschung (PIK) in Potsdam[^2]. Seine Studie wurde auf der Seite des Nature Magazins[^3] veröffentlicht.
 
-Der Golfstrom sorgt dafür, dass das Klima in Europa so ist, wie es ist. Er bestimmt die Jahreszeiten und sorgt dafür, dass es bei uns warm wird. Das funktioniert so: Er gehört zur Atlantischen Meridionalen Umwälzzirkulation (AMOC), die warmes Salzwasser an der Oberfläche des Meeres richtig Norden spült. Das kühlere Wasser bleibt in der Tiefe. Diese natürliche Umwelzbewegung kann laut Forscher⋆innen in zwei Richtungen umschlagen. Sie kann zu. Einer starken Kreisbewegung werden, oder zu einer schwachen. Das wird im Moment ziemlich genau beobachtet.
+Der Golfstrom sorgt dafür, dass das Klima in Europa so ist, wie es ist. Er bestimmt die Jahreszeiten und sorgt dafür, dass es bei uns warm wird. Das funktioniert so: 
+
+Der Strom gehört zur Atlantischen Meridionalen Umwälzzirkulation (AMOC), die warmes Salzwasser an der Oberfläche des Meeres richtig Norden spült. Das kühlere Wasser bleibt in der Tiefe. Diese natürliche Umwelzbewegung kann laut den Forscher⋆innen in zwei Richtungen umschlagen. Sie kann zu einer starken Kreisbewegung werden, oder zu einer schwachen. Das wird im Moment ziemlich genau beobachtet.
 
 ## Es kommt jetzt schon weltweit zu Wetterphänomenen
 
