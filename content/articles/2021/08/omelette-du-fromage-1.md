@@ -77,6 +77,8 @@ The four wrote, recorded and mixed their album in only two weeks in the Swiss st
 
 "Omelette du Fromage" is a power package without excuses. You can feel the fun the musicians must have had during their recording sessions in every note. When listening to it, you can finally forget all the nonsense flying around our ears these days for at least 39 minutes. So please enjoy it to the fullest!
 
+## Closet Disco Queen & The Flying Raclettes – "Flugensaft"
+
 <YouTube id="APNyDhLHWSw" />
 
 ## Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"
