@@ -80,7 +80,7 @@ Geschrieben, aufgenommen und abgemischt haben die vier ihr Album in nur zwei Woc
 
 "Omelette du Fromage" ist ein Powerpaket, das Seinesgleichen sucht. Man kann den Spaß, den die Musiker⋆innen bei der Aufnahme gehabt haben müssen, in jeder Note spüren. Beim Hören kann man endlich mal für 39 Minuten den ganzen Unfug vergessen, der uns im Moment um die Ohren fliegt. Genießt es in vollen Zügen!
 
-## Closet Disco Queen & The Flying Raclettes – "Fugensaft"
+## Closet Disco Queen & The Flying Raclettes – "Flugensaft"
 
 <YouTube id="APNyDhLHWSw" />
 
