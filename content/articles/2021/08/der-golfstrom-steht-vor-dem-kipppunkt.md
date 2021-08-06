@@ -31,7 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Die Klimaforscher⋆innen warnen schon lange davor, jetzt passiert es vor unseren eigenen Augen: Der Golfstrom steht vor dem Kipppunkt. Die Meeresströmungen im Atlantik schwächen sich ab. Aus einer aktuellen Studie geht hervor, dass der Kipppunkt nicht mehr weit entfernt ist. Wenn es so weit ist, wird das extreme Folgen haben.**
+**Die Klimaforscher⋆innen warnen schon lange davor, jetzt passiert es vor unseren eigenen Augen: Der Golfstrom steht vor dem Kipppunkt. Die Meeresströmungen im Atlantik schwächen sich ab. Aus einer aktuellen Studie geht hervor, dass die gefürchtete Kettenreaktion nicht mehr weit entfernt ist. Wenn es so weit ist, wird das extreme Folgen haben.**
 
 Im letzten Jahrhundert hat die natürliche Zirkulation im Atlantik nachgelassen. Sie ist längst nicht mehr so stabil, wie einst. Inzwischen ist es durch die Klimaerwärmung sogar so weit gekommen, dass wir vermutlich schon kurz vor dem Kipppunkt stehen – vor diesem Szenario hatten die Wissenschaftler⋆innen schon immer gewarnt. Es würde bedeuten, dass die Erwärmung ab diesem Punkt deutlich schneller voranschreitet, als in den Berechnungen.
 
