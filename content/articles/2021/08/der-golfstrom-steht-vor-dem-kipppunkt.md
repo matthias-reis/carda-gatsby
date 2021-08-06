@@ -51,7 +51,7 @@ Wenn das ewige Eis auf Grönland abtaut, wird die Zirkulationsbewegung ausgebrem
 
 ## Der Golfstrom verlangsamt sich zunehmend
 
-Die Strömung wird inzwischen seit über 20 Jahren gemessen. Das ist leider noch nicht lange genug, um genau eine wirklich genaue Klima-Vorhersage zu machen. Es ist trotzdem klar erkennbar, dass eine Veränderung stattfindet. Das sehen die Forscher⋆innen außer an der Wassertemperatur auch am Salzgehalt.
+Die Strömung wird inzwischen seit über 20 Jahren gemessen. Das ist leider noch nicht lange genug, um eine wirklich genaue Klima-Vorhersage zu machen. Es ist trotzdem klar erkennbar, dass eine Veränderung stattfindet. Das sehen die Forscher⋆innen außer an der Wassertemperatur auch am Salzgehalt.
 
 Niklas Boers schreibt in seiner Studie:
 
