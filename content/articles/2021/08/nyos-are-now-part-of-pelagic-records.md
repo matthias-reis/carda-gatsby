@@ -39,7 +39,7 @@ While we wait for it, we can spend our time listening to their previous records.
 
 The two albums reflect the band's musical evolution, showing influences ranging from math-rock to post-rock to noise. Guitarist Tom Brooke and drummer Tuomas Kainulainen love to work with loops and drone sounds, weaving numerous layers of keys and samples. Their energetic and imaginative use of drums adds the perfect contrast to this setup.
 
-Tuomas and Tom formed Nyos in 2014 when the Finn and the Brit met shortly after Tom's move to Finland. Through their sincere admiration for noise bands, coffee and concerts, they immediately felt a strong connection. They self-released their first 26-minutes one-track piece that winter. Since 2015, the two have constantly been on tour - they have already played 200 concerts in more than 20 countries.
+Tuomas and Tom formed Nyos in 2014 when the Finn and the Brit met shortly after Tom's move to Finland. Through their sincere admiration for noise bands, coffee and concerts, they immediately felt a strong connection. They self-released their first 26-minutes one-track piece that winter. Since 2015, the two have constantly been on tour – they have already played 200 concerts in more than 20 countries.
 
 ## Nyos have already played 200 concerts
 
