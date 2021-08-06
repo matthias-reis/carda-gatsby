@@ -47,7 +47,7 @@ Der Strom gehört zur Atlantischen Meridionalen Umwälzzirkulation (AMOC), die w
 
 Es kommt auf der ganzen Welt zu Wetterphänomenen, weil AMOC Wärme weitergibt. Wenn jetzt plötzlich ein Wechsel vom einen ins andere Extrem stattfindet (also von schnell nach langsam), kommt es zur Katastrophe. Rund um den Atlantik würde es immer mehr Wirbelstürme geben. In Europa würde es vermutlich sehr kalt werden. Tropenstürme würden immer stärker zunehmen, was zu Erdrutschen führen würde. In manchen Bereichen würde das Wasser sehr schnell stark ansteigen (Beispiel: Malediven), in anderen Bereichen würde es immer heißer werden – die Waldbrände, die wir jetzt schon an vielen Orten auf der Erde erleben, würden weiter zunehmen.
 
-Wenn das ewige Eis auf Grönland abtaut, wird die Zirkulationsbewegung ausgebremst – Man spricht hier von einem Kipppunkt. Das PIK hat schon vor einigen Monaten festgestellt, dass die Bewegung immer schwächer wird. Das Eis taut unaufhaltsam weiter. Im Moment arbeiten die Wissenschaftler⋆innen fieberhaft daran herauszufinden, ob eine Umkehrung noch möglich ist oder ob es schon zu spät ist. Die Frage lautet also: Hört das Eis wieder auf zu tauen und wird die Zirkulation dadurch wieder stärker.
+Wenn das ewige Eis auf Grönland abtaut, wird die Zirkulationsbewegung ausgebremst – Man spricht hier von einem Kipppunkt. Das PIK hat schon vor einigen Monaten festgestellt, dass die Bewegung immer schwächer wird. Das Eis taut unaufhaltsam weiter. Im Moment arbeiten die Wissenschaftler⋆innen fieberhaft daran herauszufinden, ob eine Umkehrung noch möglich ist oder ob es schon zu spät ist. Die Frage lautet also: Hört das Eis wieder auf zu tauen und wird die Zirkulation dadurch wieder stärker?
 
 ## Der Golfstrom verlangsamt sich zunehmend
 
