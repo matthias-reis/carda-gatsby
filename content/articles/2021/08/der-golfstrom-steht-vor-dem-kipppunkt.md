@@ -81,12 +81,12 @@ Den Forscher⋆innen ist nicht bekannt, wie viel CO<sub>2</sub> in Summe bei ein
 
 > "Die Wahrscheinlichkeit, dass dieses extrem folgenschwere Ereignis eintritt, steigt mit jedem Gramm CO<sub>2</sub>, das wir in die Atmosphäre einbringen."
 
-Möglicherweise haben wir in der Vergangenheit bereits einige Kipppunkte erlebt. Das geht aus einer wissenschaftlichen Analyse aus dem Jahr 2019 hervor. Darin steht, dass wir dadurch vermutlich vor einer existentiellen Bedrohung der Zivilisation stehen. Am Montag soll der Bericht des internationalen Klima-Ausschusses unsere tatsächliche Bedrohung durch die Klimakatastrophe belegen.
+Möglicherweise haben wir in der Vergangenheit bereits einige Kipppunkte erlebt. Das geht aus einer wissenschaftlichen Analyse aus dem Jahr 2019 hervor. Darin steht auch, dass wir dadurch vermutlich vor einer existentiellen Bedrohung der Zivilisation stehen. Am Montag soll der Bericht des internationalen Klima-Ausschusses unsere tatsächliche Bedrohung durch die Klimakatastrophe belegen.
 
 Mehr über die Kipppunkte erfahrt Ihr unter anderem auch im Buch ["Handeln statt hoffen" von Carola Rackete](/2020/07/handeln-statt-hoffen-carola-rackete/).
 
 Bild/picture: Schmelzender Eisberg vor Grönland/Melting iceberg off Greenland [Dassel](https://pixabay.com/photos/iceberg-ice-greenland-frozen-cold-4498548/), pixabay
 
-- [^1]:[Climate Change](https://www.nature.com/articles/s41586-018-0872-x)
-- [^2]:[Niklas Boers, PIK](https://www.pik-potsdam.de/members/boers)
-- [^3]:[Institut für Klimafolgenforschung (PIK) Potsdam](https://www.pik-potsdam.de/en)
+[^1]:[Climate Change](https://www.nature.com/articles/s41586-018-0872-x)
+[^2]:[Niklas Boers, PIK](https://www.pik-potsdam.de/members/boers)
+[^3]:[Institut für Klimafolgenforschung (PIK) Potsdam](https://www.pik-potsdam.de/en)
