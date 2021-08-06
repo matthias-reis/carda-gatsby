@@ -61,7 +61,7 @@ Er hat also den klaren Beweis erstellt, dass etwas passiert. Wann genau der Kipp
 
 ## Der Meeresspiegel steigt
 
-Weil Süßwasser leichter ist als Salzwasser, bleibt es an der Oberfläche, statt dorthin abzusinken, wo es natürlicherweise vorkommt: in die Tiefe des Meeres. Das wirkt wie eine Bremse für die Zirkulationsbewegung. Der Anstieg der Niederschlagsmengen und die größere Menge an Süßwasser, die dadurch über die Flüsse ins Meer geleitet wird, ist ein weiterer Treiber.
+Weil das Süßwasser leichter ist als das Salzwasser, bleibt es an der Oberfläche, statt dorthin abzusinken, wo es natürlicherweise vorkommt: in die Tiefe des Meeres. Das wirkt wie eine Bremse für die Zirkulationsbewegung. Der Anstieg der Niederschlagsmengen und die größere Menge an Süßwasser, die dadurch über die Flüsse ins Meer geleitet wird, ist ein weiterer Treiber.
 
 In seiner Studie schreibt Niklas Boers:
 
