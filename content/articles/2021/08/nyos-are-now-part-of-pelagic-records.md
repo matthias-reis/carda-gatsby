@@ -44,7 +44,7 @@ Tuomas and Tom formed Nyos in 2014 when the Finn and the Brit met shortly after 
 ## Nyos have already played 200 concerts
 
 Their second album, "Nature", followed in 2016. Nyos recorded their two first albums at Tonhaven Studio and released their works on CD, LP and cassette. Their third album, "Navigation", came out in September 2017. 
-It is a cooperation with the Karlsruhe-based label Meta Matter Records. Just like the first two records, Tom did the mixing for "Navigation". The Mandy Parnell, who you might know from Sigur Rós, Aphex Twin, and Björk, did the mastering.
+It is a cooperation with the Karlsruhe-based label Meta Matter Records. Just like the first two records, Tom did the mixing for "Navigation". Mandy Parnell, who you might know from Sigur Rós, Aphex Twin, and Björk, did the mastering.
 
 As their kick-off at Pelagic Records, Tom and Tuomas present a video version of their song "Nature" from 2016. Please check it out –  it is definitely worth watching. The clip shows pictures of different wild animals in their natural habitats in black and white. The images combine perfectly with the varied and diverse sound of the band from Jyväskylä. Btw: The [post-rock band Baulta](/2021/03/baulta-interview/) is also based there.
 
