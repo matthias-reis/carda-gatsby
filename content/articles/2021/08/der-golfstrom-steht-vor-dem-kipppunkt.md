@@ -7,9 +7,9 @@ subTitle: Beschleunigt sich die Klimakatastrophe?
 seoTitle: Golfstrom am Kipppunkt – beschleunigt sich die Klimakatastrophe?
 description: "Die Klimaforscher⋆innen warnen schon lange davor, jetzt passiert
   es: Der Golfstrom steht vor dem Kipppunkt. Die Meeresströmungen im Atlantik
-  schwächen sich ab. Aus einer aktuellen Studie geht hervor, dass der Kipppunkt
-  nicht mehr weit entfernt ist. Wenn es so weit ist, wird das extreme Folgen
-  haben."
+  schwächen sich ab. Aus einer aktuellen Studie geht hervor, dass die
+  Kettenreaktion nicht mehr weit entfernt ist. Wenn es so weit ist, wird das
+  extreme Folgen haben."
 image: /img/kipppunkte.jpg
 copyrigt: Dassel, pixabay
 ogImage: /img/kipppunkte-fb.jpg
