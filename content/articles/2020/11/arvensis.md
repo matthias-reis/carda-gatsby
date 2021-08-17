@@ -34,17 +34,17 @@ languageLink: /2020/11/arvensis-interview
 ---
 **Arvensis is an experimental ambient project on the Merigold Independent label. Its avant-garde sounding tones seem to come from a foreign world. Because the project fascinates me so much, I arranged an interview with founder Dani Laubscher.**
 
-Dani laid the groundwork for Arvensis in 2011 and has been recording records since 2018. His discography now includes three albums. The third one is called "AXIS" and was released just a few days ago.
+Dani founded Arvensis in 2011 and has been recording records since 2013. Their discography now includes 14 albums. The 14th is called "Axis" and was released just a few days ago.
 
-**Anne:**  Hi, Dani! Thank you for your time! How are you doing? How was the release of your new album "AXIS"? It is really awesome, by the way!
+**Anne:**  Hi, Dani! Thank you for your time! How are you doing? How was the release of your new album "Axis"? It is really awesome, by the way!
 
 ## "I released my new album on October, 9th"
 
 <RemoteImage
   alt={`Arvensis`}
   size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1__l.jpg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1**m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1**l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgUI/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIAAxExEiFBBBMiMlFhccH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMF/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACEQMEEmH/2gAMAwEAAhEDEQA/AOYTiOVFAoPZVJNmDDa3jj7iZxNMID05b16aZ8Rta1j+yNnMml1+P36+SVdloVVDuVsSpcqvcXGwyTe99+JljEeqsmhVpM2kOSBi4sdyODxERiFSJy2XNg2DHXrqtSoXVFYaaejgjSNzbOIQjJsnS7R0lBXbt1F0MUbAsLKff4iohCBGuriz/9k="
 />
 
@@ -54,17 +54,17 @@ Dani laid the groundwork for Arvensis in 2011 and has been recording records sin
 
 **Dani:** Most of my ideas come from within. Usually, I just create and find drive almost solely through my emotions; it's primarily the driving force behind Arvensis.
 
-**Anne:**  "AXIS" consists of 18 Tracks – How long did it take you to record and mix them?
+**Anne:**  "Axis" consists of 18 Tracks – How long did it take you to record and mix them?
 
 ## "The album is quite lengthy"
 
 **Dani:** I think roughly a year or so! It's quite a lengthy album.
 
-**Anne:**  You said to me that "AXIS" is your darkest album so far. What has led to this outcome of your work?
+**Anne:**  You said to me that "Axis" is your darkest album so far. What has led to this outcome of your work?
 
 **Dani:** Yes, I suppose potentially darker than my Downwards album as well. I believe it's a variety of factors and a lot to do with perceptions of the world and inner feelings. After being in many dark places without intention in life and having quite a mixed outlook on things, I generally try to remain positive. That has, in turn, helped with the darkness and outcome of the album.
 
-**Anne:**  Did you collaborate with other musicians when you recorded "AXIS"?
+**Anne:**  Did you collaborate with other musicians when you recorded "Axis"?
 
 ## "I worked together with wonderful artists"
 
@@ -81,8 +81,8 @@ Dani laid the groundwork for Arvensis in 2011 and has been recording records sin
 <RemoteImage
   alt={`Arvensis`}
   size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1-3__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1-3__l.jpg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1-3**m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-1-3**l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBAH/xAAlEAABAwQCAQQDAAAAAAAAAAACAQMEAAUREgYxEwcVISIjMlH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAbEQACAgMBAAAAAAAAAAAAAAAAAgMxAREhQf/aAAwDAQACEQMRAD8AlSnbwIIMi1TL3erNaXYEJtmBDieFBGTKVtXNnSyqqACCmWEyWwp/aSVPfhzIl6YcikW6cy1HjkX5HFQnAVQjIZCOUX9Nh6XGVrRPSWNHMYFtjcZj3yzWO0MwZ0d6JKYQFNI8pG/Js0W2dCEthyn11VOsUgKprmTQRvSOwLdZsd2ObOrTrQampK3I1UkTOPpqnSZxUzUyVgiPuzlMLisya3YXbO229FdMykg8mzfnA20AmkPpM6iQ5XCqmPhcUUUR2W1Gvk9ymlxj2d1qRMlLIGa/IXY/AAMq2DSn0qohERKi4RVx8rmllRRTICUf/9k="
 />
 
