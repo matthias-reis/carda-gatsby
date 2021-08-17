@@ -42,7 +42,7 @@ labels:
 ---
 **Arvensis – das ist ein experimentelles Ambient-Projekt auf Merigold Independent. Die avantgardistischen Klänge wirken wie aus einer fremden Welt. Weil mich das Projekt so fasziniert hat, habe ich mich mit Gründerin Dani Laubscher zum Interview verabredet.**
 
-Dani legte den Grundstein für Arvensis im Jahr 2011. Seit 2013 nimmt sie Platten auf. Inzwischen umfasst seine Discografie drei Alben. Das vierzehntente trägt den Namen "Axis" und ist erst vor ein paar Tagen erschienen.
+Dani legte den Grundstein für Arvensis im Jahr 2011. Seit 2013 nimmt sie Platten auf. Inzwischen umfasst ihre Discografie 14 Alben. Das vierzehntente trägt den Namen "Axis" und ist erst vor ein paar Tagen erschienen.
 
 **Anne:** Hi Dani! Danke, dass Du Dir die Zeit nimmst! Wie geht es Dir? Wie war die Veröffentlichung Deines neuen Albums "Axis"? Es ist übrigens ziemlich klasse geworden!
 
