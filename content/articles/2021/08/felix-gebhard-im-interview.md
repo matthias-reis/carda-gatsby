@@ -110,7 +110,7 @@ Ich habe 2020 viel **Television** gehört, wenn ich mich recht erinnere und die 
 
 **Anne:** Du hast ja auch permanent mit Musik zu tun und triffst die unterschiedlichsten Künstler⋆innen. Wie siehst Du das mit den unzähligen Genres, in die Musik heutzutage eingeordnet wird. Ist das sinnvoll? Jonas von **[Dimwind](/2021/06/dimwind-interview/)** meinte neulich zu mir "Es scheint von essenzieller Wichtigkeit zu sein, Deinem Sound einer Marke zuzuordnen, um ein bestimmtes Publikum zu erreichen". Ich selbst habe mich noch nie einem bestimmten Genre zugehörig gefühlt, finde das aber ziemlich einleuchtend. Wenn man bestimmte Leute erreichen möchte, muss man seinem Sound einen Namen geben. Siehst Du das ähnlich? Oder sollte es besser überhaupt keine Genres geben?
 
-## "Die Genre-Bezeichnungen der Streaming-Dienste können einen in die Irre führen"
+## "Die Genre-Bezeichnungen der Streaming-Dienste können irreführend sein"
 
 **Felix:** Ich denke, es kann mitunter schon sinnvoll sein, Musik in Genres zu beschreiben. Wenn ich jemandem erklären möchte, was **Zahn** für Musik machen, dann beschreibt "instrumentale Rockmusik" das zwar nur ungefähr, aber mein Gegenüber kann zumindest schonmal davon ausgehen, dass wir wahrscheinlich keinen Ska-Song und keine Powerrock-Ballade im Repertoire haben. Weitere Details lassen sich von da aus erklären. Die Genre-Bezeichnungen irgendwelcher Streaming-Dienste, die diese nutzen, um ihre Algorithmen zur Programmgestaltung ihrer Nutzer auf den richtigen Weg zu schicken, sind natürlich oftmals irreführend und hanebüchen.
 
