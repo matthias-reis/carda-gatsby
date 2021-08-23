@@ -95,9 +95,7 @@ er hat sofort gewusst, wie er unseren Sound am besten einfängt. Der Aufnahmerau
 
 **Anne:** Eure Musik ist ziemlich vielseitig. Ihr haltet Euch zwischen Sludge, Post-Punk, Avantgarde und Prog auf. Das klingt, als hätten alle ihren persönlichen Lieblings-Sound beigesteuert. Ist das so?
 
-**Felix:** Ich glaube, jede Art von Musik setzt sich irgendwie aus den unterschiedlichen Stilen zusammen, die ein musizierender Mensch im Laufe seines Lebens aufgesogen hat. Da wir drei diverse Arten schwerer Rockmusik, wenn man das so ausdrücken möchte, mögen, liegt hier sicherlich eine gewisse Schnittmenge im Sound von **Zahn**.
-
-Darüber hinaus hören wir alle aber auch völlig andere Sachen, die nicht notwendigerweise wie **Zahn** klingt oder umgekehrt.
+**Felix:** Ich glaube, jede Art von Musik setzt sich irgendwie aus den unterschiedlichen Stilen zusammen, die ein musizierender Mensch im Laufe seines Lebens aufgesogen hat. Da wir drei diverse Arten schwerer Rockmusik, wenn man das so ausdrücken möchte, mögen, liegt hier sicherlich eine gewisse Schnittmenge im Sound von **Zahn**. Darüber hinaus hören wir alle aber auch völlig andere Sachen, die nicht notwendigerweise wie **Zahn** klingt oder umgekehrt.
 
 ## Es fließen auch immer wieder Sachen mit ein, die nicht permanent griffbereit neben dem Plattenspieler liegen
 
