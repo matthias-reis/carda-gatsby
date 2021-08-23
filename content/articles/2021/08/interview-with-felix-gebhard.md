@@ -103,7 +103,7 @@ I listened to a lot of **Television** in 2020 if I remember correctly, and the l
 
 ![The "Zahn" Vinyl Edition](/img/zahn-3-.jpg "Zahn in der Vinyl-Edition")
 
-\*\*Anne: You are constantly involved with music and meet all kinds of artists. How do you see it with the countless genres in which music is classified nowadays? Does that make sense? Jonas from Dimwind said to me the other day, "It seems to be of essential importance to assign your sound to a brand to reach a certain audience". I've never felt like I belong to a specific genre myself, but I think that's pretty obvious. If you want to reach certain people, you have to give your sound a name. Do you see it the same way? Should there be no genres at all?
+\*\*Anne: You are constantly involved with music and meet all kinds of artists. How do you see it with the countless genres in which music is classified nowadays? Does that make sense? Jonas from **[Dimwind](/2021/06/dimwind-interview-en)** said to me the other day, "It seems to be of essential importance to assign your sound to a brand to reach a certain audience". I've never felt like I belong to a specific genre myself, but I think that's pretty obvious. If you want to reach certain people, you have to give your sound a name. Do you see it the same way? Should there be no genres at all?
 
 ## "The genre names of the streaming services are often misleading"
 
