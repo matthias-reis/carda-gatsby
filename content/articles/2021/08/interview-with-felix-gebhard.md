@@ -47,7 +47,7 @@ They released their fantastic self-titled debut album on August 20th. I had the 
 
 !["Zahn" – das Debütalbum von Zahn](/img/zahn-2-.jpg "\"Zahn\" – das Debütalbum von Zahn")
 
-The song "Baboon" is a study of the male species, human and/or anthropoid. The strange rites of alpha-male leisure activities and/or sports. The driving, rhythm-based track's recurring beat is a memorable invitation for you to listen to the rest of the album right away. You can find it on all known streaming services, and there also is a vinyl edition available.
+The song "Pavian" is a study of the male species, human and/or anthropoid. The strange rites of alpha-male leisure activities and/or sports. The driving, rhythm-based track's recurring beat is a memorable invitation for you to listen to the rest of the album right away. You can find it on all known streaming services, and there also is a vinyl edition available.
 
 ## A textbook example of a supergroup
 
@@ -116,6 +116,6 @@ I listened to a lot of Television in 2020 if I remember correctly, and the last 
 
 Felix Gebhard has been the tour keyboardist for Einstürzende Neubauten since 2014. Together with the German actor Jürgen Vogel, Marcus Wiebusch (Kettcar), Thees Uhrmann (Tomte) and Max Schröder (Tomte, Olli Schulz and the dog Marie), he was a member of the fictitious Hansen Band and made founded the band Home of the Lame (Grand Hotel van Cleef), among others. He has also released various solo works.
 
-## Zahn - "Baboon"
+## Zahn - "Pavian"
 
 <YouTube id="6hubp2w_i7o" />
