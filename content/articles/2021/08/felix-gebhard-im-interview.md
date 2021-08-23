@@ -30,6 +30,7 @@ labels:
   - Review
   - Reviews
   - Heads.
+  - Radare
 focusKeyword: Felix Gebhard
 advertisement: false
 affiliate: false
