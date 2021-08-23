@@ -1,7 +1,7 @@
 ---
 date: 2021-08-23T12:53:03.894Z
 slug: felix-gebhard-zahn-interview
-typeName: Beitrag
+typeName: Interview
 title: Felix Gebhard im Interview
 subTitle: '"Ich habe mir schon immer eine Band wie Zahn gewünscht"'
 seoTitle: Felix Gebhard im Interview – Wir mussten einfach ein Album machen
