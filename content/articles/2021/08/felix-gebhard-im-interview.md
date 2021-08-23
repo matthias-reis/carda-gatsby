@@ -56,7 +56,7 @@ Peter Voigtmann ([The Ocean](/2020/09/the-ocean-robin-staps-interview/)) hat Zah
 
 **Anne:** Wie habt Ihr Euch gefunden?
 
-**Felix:** Im Dezember 2019 lud die Band Radare Chris und Nick mit Heads. und ich mit meinem damaligen Soloprogramm zu einem gemeinsamen Konzert nach Leipzig ein. Weil Heads. Damals eine kleine Pause bis zu ihrer Plattenveröffentlichung im April 2020 machten (die dann Pandemie-bedingt natürlich viel länger als geplant ausfiel), luden mich die beiden zum gemeinsamen Musikmachen in ihren Proberaum ein. Das funktionierte auf Anhieb so gut, dass wir beschlossen, dieses merkwürdige Jahr 2020 dafür zu nutzen, zusammen ein Album zu schreiben und aufzunehmen.
+**Felix:** Im Dezember 2019 lud die Band Radare Chris und Nick mit Heads. und mich mit meinem damaligen Soloprogramm zu einem gemeinsamen Konzert nach Leipzig ein. Weil Heads. Damals eine kleine Pause bis zu ihrer Plattenveröffentlichung im April 2020 machten (die dann Pandemie-bedingt natürlich viel länger als geplant ausfiel), luden mich die beiden zum gemeinsamen Musikmachen in ihren Proberaum ein. Das funktionierte auf Anhieb so gut, dass wir beschlossen, dieses merkwürdige Jahr 2020 dafür zu nutzen, zusammen ein Album zu schreiben und aufzunehmen.
 
 ## Wir haben die Pandemie genutzt, um gemeinsam eine Platte zu machen
 
