@@ -109,7 +109,7 @@ I listened to a lot of **Television** in 2020 if I remember correctly, and the l
 
 **Felix:** I think it can sometimes be helpful to describe music in genres. For example, if I want to explain what kind of music **Zahn** makes, then "instrumental rock music" only roughly describes it. Still, my counterpart can assume that we probably don't have a ska song or a power rock ballad in our repertoire. You can explain further details from there. The genre designations of any streaming services that use them to send their algorithms on the right track to programme their users are, of course, often misleading and stupid.
 
-**Anne:** Finally, a question that is burning on my nails: Who came up with the idea of the bizarre milk jug on the cover? Does it have a special meaning? 
+**Anne:** One last question: Who came up with the idea of the bizarre milk jug on the cover? Does it have a special meaning? 
 
 **Felix:** Chris came up with the idea. I don't know anything about a special meaning. A bit of mystery must remain.
 
