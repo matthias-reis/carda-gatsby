@@ -74,7 +74,7 @@ We wanted our band to have a short and catchy name. So it was called **Kran** fo
 
 **Felix:** It was great! Peter Voigtmann is one of the most relaxed people on earth, and he immediately knew how to capture our sound in the best way. The sound of the recording room in the mill is fantastic. Even before we mixed the record, I got compliments from several sides about how powerful the drums already sounded in the rough mix. The atmosphere in the mill is excellent. It's in nature. In recording breaks, you can step out of the door onto the meadow and stroke horses.
 
-\*\*Anne: That really sounds like a dream to me. What are you planning around the release? Will there be concerts?
+**Anne:** That really sounds like a dream to me. What are you planning around the release? Will there be concerts?
 
 **Felix:** We are playing some concerts in October and November:
 
