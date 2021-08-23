@@ -47,7 +47,7 @@ Influences from sludge and post-rock characterise **Zahn's** music. Some of you 
 
 They released their fantastic self-titled debut album on August 20th. I had the honour of listening to it in advance and still do so extensively. Because (I can tell you that much already): It's pretty genius.  Following my interview, you will find a sound sample in form of a music video.
 
-!["Zahn" – Zahn's debut album](/img/zahn-2-.jpg "\\"Zahn\\" – das Debütalbum von Zahn")
+!["Zahn" – Zahn's debut album](/img/zahn-2-.jpg "\\"Zahn\\" – Zahn's debut album")
 
 According to the band, the song "Pavian" is a study of the male species, human and/or anthropoid. The strange rites of alpha-male leisure activities and/or sports. The driving, rhythm-based track's recurring beat is a memorable invitation for you to listen to the rest of the album right away. You can find it on all known streaming services, and there also is a vinyl edition available.
 
@@ -71,7 +71,7 @@ We wanted our band to have a short and catchy name. So it was called **Kran** fo
 
 **Anne:** You released your first album, "Zahn", on August 20th. Congratulations on that! You recorded it at "Die Mühle" studios, where bands like **The Ocean** are always on location. I've seen some pictures of that location. It must be pretty impressive. What was it like to work there?
 
-![Felix Gebhard: "Recording the album at 'Die Mühle' was great"](/img/zahn-1-.jpg "Felix Gebhard: \\"Es war großartig in der Mühle aufzunehmen\\"")
+![Felix Gebhard: "Recording the album at 'Die Mühle' was great"](/img/zahn-1-.jpg "Felix Gebhard: \\"Recording the album at 'Die Mühle' was great\\"")
 
 **Felix:** It was great! Peter Voigtmann is one of the most relaxed people on earth, and he immediately knew how to capture our sound in the best way. The sound of the recording room in the mill is fantastic. Even before we mixed the record, I got compliments from several sides about how powerful the drums already sounded in the rough mix. The atmosphere in the mill is excellent. It's in the middle of nature. During recording breaks, you can step out of the door onto the meadow and stroke horses.
 
@@ -102,7 +102,7 @@ We wanted our band to have a short and catchy name. So it was called **Kran** fo
 
 I listened to a lot of **Television** in 2020 if I remember correctly, and the last solo record by **Sam Prekop**. Although I rediscovered **The** **Replacements** for myself and am gradually working my way through the complete works of **Alice** and **John Coltrane**, there are still a lot of albums I don't know. None of it has anything to do with **Zahn**, but some attitude or expression might find its way from that music into the way I play the guitar with **Zahn**.
 
-![The "Zahn" Vinyl Edition](/img/zahn-3-.jpg "Zahn in der Vinyl-Edition")
+![The "Zahn" Vinyl Edition](/img/zahn-3-.jpg "The \"Zahn\" Vinyl Edition")
 
 **Anne:** You are constantly involved with music and meet all kinds of artists. How do you see it with the countless genres in which music is classified nowadays? Does that make sense? Jonas from **[Dimwind](/2021/06/dimwind-interview-en)** said to me the other day, "It seems to be of essential importance to assign your sound to a brand to reach a certain audience". I've never felt like I belong to a specific genre myself, but I think that's pretty obvious. If you want to reach certain people, you have to give your sound a name. Do you see it the same way? Should there better be no genres at all?
 
