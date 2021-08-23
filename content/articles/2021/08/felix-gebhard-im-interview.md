@@ -37,7 +37,7 @@ affiliate: false
 language: de
 languageLink: /2021/08/felix-gebhard-zahn-interview-en/
 ---
-**Zahn ist das großartige Instrumental (Noise) Projekt von Chris Breuer (ex The Ocean, Heads), Nic Stockmann (Heads., ex-Eisenvater) und Felix Gebhard (live-Einstürzende Neubauten).**
+**Zahn ist das großartige Instrumental (Noise) Projekt von Chris Breuer (ehem. The Ocean, Heads), Nic Stockmann (Heads., ehem. Eisenvater) und Felix Gebhard (live-Einstürzende Neubauten).**
 
 Chris habe ich über die Pressearbeit, die er für diverse Bands macht, kennengelernt. Er hat für mich jetzt ein Interview mit Gitarrist Felix organisiert. 
 
@@ -47,7 +47,7 @@ Die Musik von **Zahn** ist geprägt von Einflüssen aus Sludge und Post-Rock mit
 
 Das großartige gleichnamige Debüt-Album ist am 20. August erschienen. Ich hatte auch schon im Vorfeld die Ehre, es hören zu dürfen und tue es nach wie vor ausgiebig. Denn: Es ist ziemlich genial. Soviel kann ich Euch schon mal verraten. Im Anschluss an das Interview findet Ihr unten eine Hörprobe.
 
-!["Zahn" – das Debütalbum von Zahn](/img/zahn-2-.jpg "\"Zahn\" – das Debütalbum von Zahn")
+!["Zahn" – das Debütalbum von Zahn](/img/zahn-2-.jpg "\\"Zahn\\" – das Debütalbum von Zahn")
 
 Der Song "Pavian" ist laut der Band eine Studie der männlichen Spezies, Mensch und/oder Anthropoide. Die seltsamen Riten der alpha-männlichen Freizeitaktivitäten und/oder Sportarten. Das treibende, Rhythmus-getriebene Stück ist mit seinem wiederkehrenden Takt ein einprägsamer Ansporn, Euch den Rest des Albums gleich auch noch anzuhören. Ihr findet es bei den bekannten Streaming-Diensten und könnt es auch auf Vinyl erwerben.
 
@@ -73,7 +73,7 @@ Die Band sollte einen kurzen prägnanten Namen haben. Sie hieß ungefähr eine W
 
 **Anne:** Euer Album "Zahn" ist am 20. August erschienen. Ihr habt es in den "Die Mühle" Studios aufgenommen, wo auch Bands wie **The Ocean** immer wieder vor Ort sind. Ich habe ein paar Bilder von dieser Location gesehen. Es muss ziemlich beeindruckend sein. Wie war es, dort zu arbeiten?
 
-![Felix Gebhard: "Es war großartig in der Mühle aufzunehmen"](/img/zahn-1-.jpg "Felix Gebhard: \"Es war großartig in der Mühle aufzunehmen\"")
+![Felix Gebhard: "Es war großartig in der Mühle aufzunehmen"](/img/zahn-1-.jpg "Felix Gebhard: \\"Es war großartig in der Mühle aufzunehmen\\"")
 
 **Felix:** Das war großartig! Peter Voigtmann ist einer der entspanntesten Menschen der Welt und
 er hat sofort gewusst, wie er unseren Sound am besten einfängt. Der Aufnahmeraum in der Mühle klingt fantastisch. Ich habe noch bevor die Platte gemischt wurde, von mehreren Seiten Komplimente bekommen, wie mächtig die Drums schon im Rohmix klangen. Die Atmosphäre in der Mühle ist toll, sie liegt in der Natur, in Aufnahmepausen kannst du aus der Tür auf die Wiese treten und Pferde streicheln.
@@ -82,10 +82,10 @@ er hat sofort gewusst, wie er unseren Sound am besten einfängt. Der Aufnahmerau
 
 **Felix:** Wir spielen im Oktober und November einige Konzerte:
 
-- 5. November Winterthur, Gaswerk, Hathors Noise Fest
-- 6. November Z-Bau mit MIIRA, Nürnberg
-- 26. November Leipzig, Mörtelwerk w/Delving
-- 27. November Berlin, Urban Spree w/Delving
+* 5. November Winterthur, Gaswerk, Hathors Noise Fest
+* 6. November Z-Bau mit MIIRA, Nürnberg
+* 26. November Leipzig, Mörtelwerk w/Delving
+* 27. November Berlin, Urban Spree w/Delving
 
 **Anne:** Ihr habt für das Album mit einer ganzen Menge Gastmusiker⋆innen gearbeitet. Die elektronischen Parts für "Gyhum" und das Piano für "Staub" hat Felix Gebhard ( live **Einstürzende Neubauten**) eingespielt. Peter Voigtmann war für zusätzliche Percussion mit dabei und Fabian Bremer ("Pavian", "Staub") hat Gitarrensound und Synthesizer beigetragen. Genauso wie Wolfgang Möstl ("Zerrung"). Von Alexander Hacke stammt der Synthesizer Sound in "Lochsonne Schwarz" und "Tseudo". Das Saxofon für "Gyhum" und "Akroyd" stammt von Sofia Salvo. Das klingt nach einer gigantischen Jam Session! Muss man sich **Zahn** wie eine Art musikalisches Kollektiv vorstellen? Ähnlich wie bei **The Ocean**?
 
