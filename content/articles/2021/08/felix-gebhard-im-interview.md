@@ -76,7 +76,7 @@ Die Band sollte einen kurzen prägnanten Namen haben. Sie hieß ungefähr eine W
 ![Felix Gebhard: "Es war großartig in der Mühle aufzunehmen"](/img/zahn-1-.jpg "Felix Gebhard: \\"Es war großartig in der Mühle aufzunehmen\\"")
 
 **Felix:** Das war großartig! Peter Voigtmann ist einer der entspanntesten Menschen der Welt und
-er hat sofort gewusst, wie er unseren Sound am besten einfängt. Der Aufnahmeraum in der Mühle klingt fantastisch. Ich habe noch bevor die Platte gemischt wurde, von mehreren Seiten Komplimente bekommen, wie mächtig die Drums schon im Rohmix klangen. Die Atmosphäre in der Mühle ist toll, sie liegt in der Natur, in Aufnahmepausen kannst du aus der Tür auf die Wiese treten und Pferde streicheln.
+er hat sofort gewusst, wie er unseren Sound am besten einfängt. Der Klang im Aufnahmeraum in der Mühle ist fantastisch. Ich habe noch bevor die Platte gemischt wurde, von mehreren Seiten Komplimente bekommen, wie mächtig die Drums schon im Rohmix klangen. Die Atmosphäre in der Mühle ist toll, sie liegt in der Natur, in Aufnahmepausen kannst du aus der Tür auf die Wiese treten und Pferde streicheln.
 
 **Anne:** Das klingt wirklich traumhaft. Was plant Ihr so alles rund um den Release? Wird es Konzerte geben?
 
