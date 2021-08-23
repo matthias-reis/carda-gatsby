@@ -47,7 +47,7 @@ They released their fantastic self-titled debut album on August 20th. I had the 
 
 !["Zahn" – das Debütalbum von Zahn](/img/zahn-2-.jpg "\"Zahn\" – das Debütalbum von Zahn")
 
-The song "Pavian" is a study of the male species, human and/or anthropoid. The strange rites of alpha-male leisure activities and/or sports. The driving, rhythm-based track's recurring beat is a memorable invitation for you to listen to the rest of the album right away. You can find it on all known streaming services, and there also is a vinyl edition available.
+According to the band, the song "Pavian" is a study of the male species, human and/or anthropoid. The strange rites of alpha-male leisure activities and/or sports. The driving, rhythm-based track's recurring beat is a memorable invitation for you to listen to the rest of the album right away. You can find it on all known streaming services, and there also is a vinyl edition available.
 
 ## A textbook example of a supergroup
 
