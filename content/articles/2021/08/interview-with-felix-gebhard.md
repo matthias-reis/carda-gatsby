@@ -89,29 +89,29 @@ We wanted our band to have a short and catchy name. So it was called **Kran** fo
 
 **Felix:** No, it wasn't a jam session. **Zahn** is a trio. After we recorded the songs, there were some spaces here and there that we wanted to fill with sound, and since we have so many talented friends with exciting ideas about sound, we asked them if they wanted to contribute something. Luckily they were all in!
 
-\*\*Anne: Your music is quite versatile. You are mixing sludge, post-punk, avant-garde and prog. It sounds like everyone contributed their personal favourite sound. Is that so?
+**Anne:** Your music is quite versatile. You are mixing sludge, post-punk, avant-garde and prog. It sounds like everyone contributed their personal favourite sound. Is that so?
 
 **Felix:** I think every kind of music somehow combines the musician's different styles. You know: The music that a person who makes music has absorbed in the course of his life. So since the three of us like various kinds of heavy rock music, if you want to put it that way, there is undoubtedly a specific intersection in the sound of **Zahn**. But beyond that, we all listen to entirely different things that don't necessarily sound like **Zahn**.
 
 ## "There are always things that flow into it that are not permanently at hand next to the record player"
 
-\*\*Anne: What music, in particular, influenced you when you were writing your songs? Maybe you can name a few bands?
+**Anne:** What music, in particular, influenced you when you were writing your songs? Maybe you can name a few bands?
 
-\*\*Felix: I can't speak for the three of us. I couldn't name any bands or musicians that would have been a particular influence in this case, or that would have consciously served as a template for my work. But, as I said, in my opinion, everything that you create is fed by things that you have received at some point. So that's where things come in that aren't necessarily on my record player all the time right now. 
+**Felix:** I can't speak for the three of us. I couldn't name any bands or musicians that would have been a particular influence in this case, or that would have consciously served as a template for my work. But, as I said, in my opinion, everything that you create is fed by things that you have received at some point. So that's where things come in that aren't necessarily on my record player all the time right now. 
 
 I listened to a lot of **Television** in 2020 if I remember correctly, and the last solo record by **Sam Prekop**. Although I rediscovered the **Replacements** for myself and am gradually working my way through the complete works of **Alice** and **John Coltrane**, there are still a lot of albums I don't know. None of it has anything to do with **Zahn**, but some attitude or expression might find its way from that music into the way I play the guitar with **Zahn**.
 
 ![The "Zahn" Vinyl Edition](/img/zahn-3-.jpg "Zahn in der Vinyl-Edition")
 
-\*\*Anne: You are constantly involved with music and meet all kinds of artists. How do you see it with the countless genres in which music is classified nowadays? Does that make sense? Jonas from **[Dimwind](/2021/06/dimwind-interview-en)** said to me the other day, "It seems to be of essential importance to assign your sound to a brand to reach a certain audience". I've never felt like I belong to a specific genre myself, but I think that's pretty obvious. If you want to reach certain people, you have to give your sound a name. Do you see it the same way? Should there better be no genres at all?
+**Anne:** You are constantly involved with music and meet all kinds of artists. How do you see it with the countless genres in which music is classified nowadays? Does that make sense? Jonas from **[Dimwind](/2021/06/dimwind-interview-en)** said to me the other day, "It seems to be of essential importance to assign your sound to a brand to reach a certain audience". I've never felt like I belong to a specific genre myself, but I think that's pretty obvious. If you want to reach certain people, you have to give your sound a name. Do you see it the same way? Should there better be no genres at all?
 
 ## "The genre names of the streaming services are often misleading"
 
-**Felix: I think it can sometimes be helpful to describe music in genres. For example, if I want to explain what kind of music** Zahn\*\* makes, then "instrumental rock music" only roughly describes it. Still, my counterpart can assume that we probably don't have a ska song or a power rock ballad in our repertoire. You can explain further details from there. The genre designations of any streaming services that use them to send their algorithms on the right track to programme their users are, of course, often misleading and stupid.
+**Felix:** I think it can sometimes be helpful to describe music in genres. For example, if I want to explain what kind of music **Zahn** makes, then "instrumental rock music" only roughly describes it. Still, my counterpart can assume that we probably don't have a ska song or a power rock ballad in our repertoire. You can explain further details from there. The genre designations of any streaming services that use them to send their algorithms on the right track to programme their users are, of course, often misleading and stupid.
 
 **Anne:** Finally, a question that is burning on my nails: Who came up with the idea of the bizarre milk jug on the cover? Does it have a special meaning? 
 
-\*\*Felix: Chris came up with the idea. I don't know anything about a special meaning. A bit of mystery must remain.
+**Felix:** Chris came up with the idea. I don't know anything about a special meaning. A bit of mystery must remain.
 
 Felix Gebhard has been the tour keyboardist for **Einstürzende Neubauten** since 2014. Together with the German actor Jürgen Vogel, Marcus Wiebusch (**Kettcar**), Thees Uhrmann (**Tomte**) and Max Schröder (**Tomte**, **Olli Schulz und der Hund Marie**), he was a member of the fictitious **Hansen Band**. He also founded the band **Home of the Lame** (Grand Hotel van Cleef), among others and released various solo works.
 
