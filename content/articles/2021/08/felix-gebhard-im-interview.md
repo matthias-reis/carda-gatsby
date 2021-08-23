@@ -3,8 +3,8 @@ date: 2021-08-23T12:53:03.894Z
 slug: felix-gebhard-zahn-interview
 typeName: Interview
 title: Felix Gebhard im Interview
-subTitle: '"Ich habe mir schon immer eine Band wie Zahn gewünscht"'
-seoTitle: Felix Gebhard im Interview – Wir mussten einfach ein Album machen
+subTitle: '"Eine Band wie Zahn habe ich mir schon immer gewünscht"'
+seoTitle: Felix Gebhard im Interview – "Wir mussten einfach ein Album machen"
 description: Felix Gebhard hat mir im Interview verraten, dass er schon immer in
   einer Instrumental-Band wie Zahn spielen wollte. Dieser Wunsch ist nun endlich
   in Erfüllung gegangen. Das erste Album "Zahn" ist draußen und verspricht
