@@ -71,7 +71,7 @@ Die Band sollte einen kurzen prägnanten Namen haben. Sie hieß ungefähr eine W
 
 ## Es war großartig, in der Mühle aufzunehmen
 
-**Anne:** Euer Album "Zahn" ist am 20. August erschienen. Ihr habt es in den "Die Mühle" Studios aufgenommen, wo auch Bands wie **The Ocean** immer wieder vor Ort sind. Ich habe ein paar Bilder von dieser Location gesehen. Es muss ziemlich beeindruckend sein. Wie war es, dort zu arbeiten?
+**Anne:** Ihr habt Euer Album "Zahn" am 20. August veröffentlicht. Gratulation dazu! Ihr habt es in den "Die Mühle" Studios aufgenommen, wo auch Bands wie **The Ocean** immer wieder vor Ort sind. Ich habe ein paar Bilder von dieser Location gesehen. Es muss ziemlich beeindruckend sein. Wie war es, dort zu arbeiten?
 
 ![Felix Gebhard: "Es war großartig in der Mühle aufzunehmen"](/img/zahn-1-.jpg "Felix Gebhard: \\"Es war großartig in der Mühle aufzunehmen\\"")
 
