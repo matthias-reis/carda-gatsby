@@ -44,7 +44,7 @@ Influences from sludge and post-rock characterise **Zahn's** music. Some of you 
 
 ## Zahn delivered a grandiose debut
 
-They released their fantastic self-titled debut album on August 20th. I had the honour of listening to it in advance and still do so extensively. Because: I can tell you that much already: It's pretty genius.  Following my interview, you will find a sound sample in form of a music video.
+They released their fantastic self-titled debut album on August 20th. I had the honour of listening to it in advance and still do so extensively. Because (I can tell you that much already): It's pretty genius.  Following my interview, you will find a sound sample in form of a music video.
 
 !["Zahn" – Zahn's debut album](/img/zahn-2-.jpg "\\"Zahn\\" – das Debütalbum von Zahn")
 
