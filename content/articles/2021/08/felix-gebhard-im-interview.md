@@ -113,7 +113,7 @@ Ich habe 2020 viel **Television** gehört, wenn ich mich recht erinnere und die 
 
 **Felix:** Ich denke, es kann mitunter schon sinnvoll sein, Musik in Genres zu beschreiben. Wenn ich jemandem erklären möchte, was **Zahn** für Musik machen, dann beschreibt "instrumentale Rockmusik" das zwar nur ungefähr, aber mein Gegenüber kann zumindest schonmal davon ausgehen, dass wir wahrscheinlich keinen Ska-Song und keine Powerrock-Ballade im Repertoire haben. Weitere Details lassen sich von da aus erklären. Die Genre-Bezeichnungen irgendwelcher Streaming-Dienste, die diese nutzen, um ihre Algorithmen zur Programmgestaltung ihrer Nutzer auf den richtigen Weg zu schicken, sind natürlich oftmals irreführend und hanebüchen.
 
-**Anne:** Zum Schluss noch eine Frage, die mir auf den Nägeln brennt: Wer ist auf die Idee mit dem skurrilen Milchkännchen auf dem Cover gekommen? Hat es eine besondere Bedeutung? 
+**Anne:** Eine letzte Frage: Wer ist auf die Idee mit dem skurrilen Milchkännchen auf dem Cover gekommen? Hat es eine besondere Bedeutung? 
 
 **Felix:** Die Idee stammt von Chris. Über eine besondere Bedeutung ist mir nichts bekannt. Ein bisschen Mysterium muss bleiben.
 
