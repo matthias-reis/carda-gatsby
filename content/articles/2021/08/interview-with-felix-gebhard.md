@@ -51,11 +51,11 @@ The song "Pavian" is a study of the male species, human and/or anthropoid. The s
 
 ## A textbook example of a supergroup
 
-Peter Voigtmann **([The Ocean](/2020/09/the-ocean-robin-staps-interview-en))** supported **Zahn** on drums and tambourine on "Pavian". Fabian Bremer (AUA, Radare) delivered the additional guitars and synthesisers. What can I say? **Zahn** is a textbook example of a supergroup.
+Peter Voigtmann **([The Ocean](/2020/09/the-ocean-robin-staps-interview-en))** supported **Zahn** on drums and tambourine on "Pavian". Fabian Bremer (**AUA**, **Radare**) delivered the additional guitars and synthesisers. What can I say? **Zahn** is a textbook example of a supergroup.
 
 **Anne: How did you find each other?
 
-**Felix: In December 2019, Radare invited **Heads.** with whom Chris and Nic Play and me (with the solo programme I played at that time) to join a concert in Leipzig. Because **Heads.** were taking a short break until their record release in April 2020 (which, of course, turned out to be much longer than planned due to the pandemic) at that time, they invited me to their rehearsal room to make music together. This joint worked so well right from the start that we decided to use this strange year 2020 to write and record an album together.
+**Felix: In December 2019, **Radare** invited **Heads.** with whom Chris and Nic Play and me (with the solo programme I played at that time) to join a concert in Leipzig. Because **Heads.** were taking a short break until their record release in April 2020 (which, of course, turned out to be much longer than planned due to the pandemic) at that time, they invited me to their rehearsal room to make music together. This joint worked so well right from the start that we decided to use this strange year 2020 to write and record an album together.
 
 ## We used the pandemic to make a record together.
 
@@ -114,7 +114,7 @@ I listened to a lot of Television in 2020 if I remember correctly, and the last 
 
 **Felix: Chris came up with the idea. I don't know anything about a special meaning. A bit of mystery must remain.
 
-Felix Gebhard has been the tour keyboardist for **Einstürzende Neubauten** since 2014. Together with the German actor Jürgen Vogel, Marcus Wiebusch (Kettcar), Thees Uhrmann (Tomte) and Max Schröder (Tomte, Olli Schulz and the dog Marie), he was a member of the fictitious **Hansen Band**. He also founded the band **Home of the Lame** (Grand Hotel van Cleef), among others and released various solo works.
+Felix Gebhard has been the tour keyboardist for **Einstürzende Neubauten** since 2014. Together with the German actor Jürgen Vogel, Marcus Wiebusch (**Kettcar**), Thees Uhrmann (**Tomte**) and Max Schröder (**Tomte**, **Olli Schulz und der Hund Marie**), he was a member of the fictitious **Hansen Band**. He also founded the band **Home of the Lame** (Grand Hotel van Cleef), among others and released various solo works.
 
 ## Zahn - "Pavian"
 
