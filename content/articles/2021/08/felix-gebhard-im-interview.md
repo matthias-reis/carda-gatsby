@@ -48,7 +48,7 @@ Das großartige gleichnamige Debüt-Album ist am 20. August erschienen. Ich hatt
 
 !["Zahn" – das Debütalbum von Zahn](/img/zahn-2-.jpg "\"Zahn\" – das Debütalbum von Zahn")
 
-Der Song "Pavian" ist eine Studie der männlichen Spezies, Mensch und/oder Anthropoide. Die seltsamen Riten der alpha-männlichen Freizeitaktivitäten und/oder Sportarten. Das treibende, Rhythmus-getriebene Stück ist mit seinem wiederkehrenden Takt ein einprägsamer Ansporn, Euch den Rest des Albums gleich auch noch anzuhören. Ihr findet es bei den bekannten Streaming-Diensten und könnt es auch auf Vinyl erwerben.
+Der Song "Pavian" ist laut der Band eine Studie der männlichen Spezies, Mensch und/oder Anthropoide. Die seltsamen Riten der alpha-männlichen Freizeitaktivitäten und/oder Sportarten. Das treibende, Rhythmus-getriebene Stück ist mit seinem wiederkehrenden Takt ein einprägsamer Ansporn, Euch den Rest des Albums gleich auch noch anzuhören. Ihr findet es bei den bekannten Streaming-Diensten und könnt es auch auf Vinyl erwerben.
 
 ## Eine Supergroup wie sie im Buche steht.
 
