@@ -94,7 +94,7 @@ We wanted our band to have a short and catchy name. So it was called **Kran** fo
 
 **Felix:** I think every kind of music somehow combines the musician's different styles. You know: The music that a person who makes music has absorbed in the course of his life. So since the three of us like various kinds of heavy rock music, if you want to put it that way, there is undoubtedly a specific intersection in the sound of **Zahn**. But beyond that, we all listen to entirely different things that don't necessarily sound like **Zahn**.
 
-## "There are always things that flow into it that are not permanently at hand next to the record player"
+## "There are always things coming in that aren't on my record player all the time"
 
 **Anne:** What music, in particular, influenced you when you were writing your songs? Maybe you can name a few bands?
 
