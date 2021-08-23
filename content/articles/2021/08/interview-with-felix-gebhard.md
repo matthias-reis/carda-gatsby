@@ -106,7 +106,7 @@ I listened to a lot of **Television** in 2020 if I remember correctly, and the l
 
 **Anne:** You are constantly involved with music and meet all kinds of artists. How do you see it with the countless genres in which music is classified nowadays? Does that make sense? Jonas from **[Dimwind](/2021/06/dimwind-interview-en)** said to me the other day, "It seems to be of essential importance to assign your sound to a brand to reach a certain audience". I've never felt like I belong to a specific genre myself, but I think that's pretty obvious. If you want to reach certain people, you have to give your sound a name. Do you see it the same way? Or should there better be no genres at all?
 
-## "The genre names of the streaming services are often misleading"
+## "The genre names of the streaming services tend to be misleading"
 
 **Felix:** I think it can sometimes be helpful to describe music in genres. For example, if I want to explain what kind of music **Zahn** makes, then "instrumental rock music" only roughly describes it. Still, my counterpart can assume that we probably don't have a ska song or a power rock ballad in our repertoire. You can explain further details from there. The genre designations of any streaming services that use them to send their algorithms on the right track to programme their users are, of course, often misleading and stupid.
 
