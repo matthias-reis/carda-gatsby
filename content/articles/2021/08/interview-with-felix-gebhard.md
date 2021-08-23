@@ -77,10 +77,10 @@ We wanted our band to have a short and catchy name. So it was called **Kran** fo
 
 **Felix:** We are playing some concerts in October and November:
 
-November 5, Winterthur, Gaswerk, Hathors Noise Fest
-November 6, Z-Bau with MIIRA, Nuremberg
-November 26, Leipzig, Mörtelwerk w/Delving
-November 27, Berlin, Urban Spree w/Delving
+- November 5, Winterthur, Gaswerk, Hathors Noise Fest
+- November 6, Z-Bau with MIIRA, Nuremberg
+- November 26, Leipzig, Mörtelwerk w/Delving
+- November 27, Berlin, Urban Spree w/Delving
 
 **Anne: You worked with a lot of guest musicians for the album. Felix Gebhard ( live-**Einstürzende Neubauten**) played the electronic parts for "Gyhum" and the piano for "Staub". Peter Voigtmann joined for additional percussion, and Fabian Bremer ("Pavian", "Staub") contributed guitar sound and synthesiser. Just like Wolfgang Möstl ("Zerrung"). Alexander Hacke provided the synthesizer sound in "Lochsonne Schwarz" and "Tseudo". The saxophone for "Gyhum" and "Akroyd" is by Sofia Salvo. It sounds like a gigantic jam session! Do you have to imagine Zahn as some kind of musical collective like **The Ocean**?
 
