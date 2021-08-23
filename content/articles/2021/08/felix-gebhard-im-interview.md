@@ -53,7 +53,7 @@ Der Song "Pavian" ist laut der Band eine Studie der männlichen Spezies, Mensch 
 
 ## Eine Supergroup wie sie im Buche steht.
 
-Peter Voigtmann **([The Ocean](/2020/09/the-ocean-robin-staps-interview/))** hat **Zahn** bei "Pavian" an Schlagzeug und Tamburin unterstützt. Die zusätzlichen Gitarren und Synthesizer stammen von Fabian Bremer (**AUA**, **Radare**). Was soll man sagen? **Zahn** ist eine Supergroup, wie sie im Buche steht.
+Peter Voigtmann (**[The Ocean](/2020/09/the-ocean-robin-staps-interview/)**) hat **Zahn** bei "Pavian" an Schlagzeug und Tamburin unterstützt. Die zusätzlichen Gitarren und Synthesizer stammen von Fabian Bremer (**AUA**, **Radare**). Was soll man sagen? **Zahn** ist eine Supergroup, wie sie im Buche steht.
 
 **Anne:** Wie habt Ihr Euch gefunden?
 
