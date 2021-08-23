@@ -81,10 +81,10 @@ er hat sofort gewusst, wie er unseren Sound am besten einfängt. Der Aufnahmerau
 
 **Felix:** Wir spielen im Oktober und November einige Konzerte:
 
-5. November Winterthur, Gaswerk, Hathors Noise Fest
-6. November Z-Bau mit MIIRA, Nürnberg
-7. November Leipzig, Mörtelwerk w/Delving
-8. November Berlin, Urban Spree w/Delving
+- 5. November Winterthur, Gaswerk, Hathors Noise Fest
+- 6. November Z-Bau mit MIIRA, Nürnberg
+- 26. November Leipzig, Mörtelwerk w/Delving
+- 27. November Berlin, Urban Spree w/Delving
 
 **Anne:** Ihr habt für das Album mit einer ganzen Menge Gastmusiker⋆innen gearbeitet. Die elektronischen Parts für "Gyhum" und das Piano für "Staub" hat Felix Gebhard ( live **Einstürzende Neubauten**) eingespielt. Peter Voigtmann war für zusätzliche Percussion mit dabei und Fabian Bremer ("Pavian", "Staub") hat Gitarrensound und Synthesizer beigetragen. Genauso wie Wolfgang Möstl ("Zerrung"). Von Alexander Hacke stammt der Synthesizer Sound in "Lochsonne Schwarz" und "Tseudo". Das Saxofon für "Gyhum" und "Akroyd" stammt von Sofia Salvo. Das klingt nach einer gigantischen Jam Session! Muss man sich **Zahn** wie eine Art musikalisches Kollektiv vorstellen? Ähnlich wie bei **The Ocean**?
 
