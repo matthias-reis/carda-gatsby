@@ -37,7 +37,7 @@ affiliate: false
 language: de
 languageLink: /2021/08/felix-gebhard-zahn-interview-en/
 ---
-**Zahn ist das großartige Instrumental (Noise) Projekt von Chris Breuer (ehem. The Ocean, Heads), Nic Stockmann (Heads., ehem. Eisenvater) und Felix Gebhard (live-Einstürzende Neubauten).**
+**Zahn ist das großartige Instrumental (Noise) Projekt von Chris Breuer (ehem. The Ocean, Heads.), Nic Stockmann (Heads., ehem. Eisenvater) und Felix Gebhard (live-Einstürzende Neubauten).**
 
 Chris habe ich über die Pressearbeit, die er für diverse Bands macht, kennengelernt. Er hat für mich jetzt ein Interview mit Gitarrist Felix organisiert. 
 
