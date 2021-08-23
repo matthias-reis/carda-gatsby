@@ -100,7 +100,7 @@ We wanted our band to have a short and catchy name. So it was called **Kran** fo
 
 **Felix:** I can't speak for the three of us. I couldn't name any bands or musicians that would have been a particular influence in this case, or that would have consciously served as a template for my work. But, as I said, in my opinion, everything that you create is fed by things that you have received at some point. So that's where things come in that aren't necessarily on my record player all the time right now. 
 
-I listened to a lot of **Television** in 2020 if I remember correctly, and the last solo record by **Sam Prekop**. Although I rediscovered **The** **Replacements** for myself and am gradually working my way through the complete works of **Alice** and **John Coltrane**, there are still a lot of albums I don't know. None of it has anything to do with **Zahn**, but some attitude or expression might find its way from that music into the way I play the guitar with **Zahn**.
+I listened to a lot of **Television** in 2020 if I remember correctly, and the last solo record by **Sam Prekop**. I also rediscovered **The** **Replacements** for myself and am gradually working my way through the complete works of **Alice** and **John Coltrane**, there are still a lot of albums I don't know. None of it has anything to do with **Zahn**, but some attitude or expression might find its way from that music into the way I play the guitar with **Zahn**.
 
 ![The "Zahn" Vinyl Edition](/img/zahn-3-.jpg "The \"Zahn\" Vinyl Edition")
 
