@@ -52,7 +52,7 @@ According to the band, the song "Pavian" is a study of the male species, human a
 
 ## A textbook example of a supergroup
 
-Peter Voigtmann **([The Ocean](/2020/09/the-ocean-robin-staps-interview-en))** supported **Zahn** on drums and tambourine on "Pavian". Fabian Bremer (**AUA**, **Radare**) delivered the additional guitars and synthesisers. What can I say? **Zahn** is a textbook example of a supergroup.
+Peter Voigtmann (**[The Ocean](/2020/09/the-ocean-robin-staps-interview-en)**) supported **Zahn** on drums and tambourine on "Pavian". Fabian Bremer (**AUA**, **Radare**) delivered the additional guitars and synthesisers. What can I say? **Zahn** is a textbook example of a supergroup.
 
 \*\*Anne: How did you find each other?
 
