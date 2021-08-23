@@ -91,9 +91,7 @@ We wanted our band to have a short and catchy name. So it was called **Kran** fo
 
 \*\*Anne: Your music is quite versatile. You are mixing sludge, post-punk, avant-garde and prog. It sounds like everyone contributed their personal favourite sound. Is that so?
 
-**Felix:** I think every kind of music somehow combines the musician's different styles. You know: The music that a person who makes music has absorbed in the course of his life. So since the three of us like various kinds of heavy rock music, if you want to put it that way, there is undoubtedly a specific intersection in the sound of **Zahn**.
-
-But beyond that, we all listen to entirely different things that don't necessarily sound like **Zahn** or vice versa.
+**Felix:** I think every kind of music somehow combines the musician's different styles. You know: The music that a person who makes music has absorbed in the course of his life. So since the three of us like various kinds of heavy rock music, if you want to put it that way, there is undoubtedly a specific intersection in the sound of **Zahn**. But beyond that, we all listen to entirely different things that don't necessarily sound like **Zahn**.
 
 ## "There are always things that flow into it that are not permanently at hand next to the record player"
 
