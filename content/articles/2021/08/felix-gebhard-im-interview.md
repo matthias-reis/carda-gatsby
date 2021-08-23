@@ -104,7 +104,7 @@ er hat sofort gewusst, wie er unseren Sound am besten einfängt. Der Klang im Au
 
 **Felix:** Da kann ich nicht für uns drei sprechen. Ich persönlich könnte Dir keine Bands und Musiker⋆innen nennen, die in diesem Fall ein spezieller Einfluss gewesen wären oder die bewusst als Vorlage für mein Zutun gedient hätten. Wie gesagt, alles, was man kreiert, speist sich meiner Ansicht nach aus Sachen, die man selbst irgendwann mal rezipiert hat. Da fließen dann Sachen ein, die nicht unbedingt jetzt gerade ständig auf meinem Plattenspieler liegen. 
 
-Ich habe 2020 viel **Television** gehört, wenn ich mich recht erinnere und die letzte Soloplatte von **Sam Prekop**. Ich habe **The Replacements** für mich wiederentdeckt und arbeite mich nach und nach durch das Gesamtwerk von **Alice** und John **Coltrane**, da gibt es noch eine Menge Alben, die ich nicht kenne. Das hat alles nicht offensichtlich mit **Zahn** zu tun, aber irgendeine Haltung oder ein Ausdruck findet dann vielleicht seinen Weg aus dieser Musik in die Art, wie ich bei **Zahn** Gitarre spiele.
+Ich habe 2020 viel **Television** gehört, wenn ich mich recht erinnere und die letzte Soloplatte von **Sam Prekop**. Ich habe **The Replacements** für mich wiederentdeckt und arbeite mich nach und nach durch das Gesamtwerk von **Alice** und **John** **Coltrane**, da gibt es noch eine Menge Alben, die ich nicht kenne. Das hat alles nicht offensichtlich mit **Zahn** zu tun, aber irgendeine Haltung oder ein Ausdruck findet dann vielleicht seinen Weg aus dieser Musik in die Art, wie ich bei **Zahn** Gitarre spiele.
 
 ![Zahn in der Vinyl-Edition](/img/zahn-3-.jpg "Zahn in der Vinyl-Edition")
 
