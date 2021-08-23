@@ -57,7 +57,7 @@ Peter Voigtmann (**[The Ocean](/2020/09/the-ocean-robin-staps-interview-en)**) s
 
 **Anne:** How did you find each other?
 
-**Felix:** In December 2019, **Radare** invited **Heads.** with whom Chris and Nic play and me (with the solo programme I played at that time) to join a concert in Leipzig. Because **Heads.** were taking a short break until their record release in April 2020 (which, of course, turned out to be much longer than planned due to the pandemic) at that time, they invited me to their rehearsal room to make music together. This joint worked so well right from the start that we decided to use this strange year 2020 to write and record an album together.
+**Felix:** In December 2019, **Radare** invited **Heads.** with whom Chris and Nic play and me (with the solo programme I played at that time) to join a concert in Leipzig. Because **Heads.** were taking a short break until their record release in April 2020 (which, of course, turned out to be much longer than planned due to the pandemic) at that time, they invited me to their rehearsal room to make music together. This joint venture worked so well right from the start that we decided to use this strange year 2020 to write and record an album together.
 
 ## "We used the pandemic to make a record together"
 
