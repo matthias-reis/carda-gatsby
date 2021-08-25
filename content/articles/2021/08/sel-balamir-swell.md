@@ -48,7 +48,7 @@ Der erste Song "Swell" ist mit einer respektablen Spielzeit von 20:42 das längs
 
 ## "Swell" von Sel Balamir jetzt schon anhören
 
-"Seagull" zieht mich anschließend aus dem Wasser und trägt mich auf leichten Flügeln davon. Hoffnungsvoll strebe ich Richtung Himmel und träume vom Leben auf einem fernen Planeten.
+"Seagull" holt mich anschließend aus dem Wasser und trägt mich auf leichten Flügeln davon. Hoffnungsvoll strebe ich Richtung Himmel und träume vom Leben auf einem fernen Planeten.
 
 Seine neuen Stücke "Swell", "Jaques Cousteau" und "Seagul" könnt Ihr hier schon anhören:
 
