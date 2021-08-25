@@ -3,8 +3,8 @@ date: 2021-08-25T13:26:02.029Z
 slug: sel-balamir-swell
 typeName: Review
 title: Sel Balamir – "Swell"
-subTitle: Solo-Album aus dem Lockdown
-seoTitle: Sel Balamir – "Swell" – Solo-Album aus dem Lockdown
+subTitle: Ein besonderes Lockdown-Solo-Album
+seoTitle: Sel Balamir – "Swell" – Ein besonderes Lockdown-Solo-Album
 description: Sel Balamir, Sänger und Gründer von Amplifier meldet sich mit einer
   Solo-Platte zurück. Die Veröffentlichung von "Swell" hat er für den 6.
   September angekündigt. Reinhören klappt jetzt schon.
