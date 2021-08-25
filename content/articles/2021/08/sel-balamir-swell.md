@@ -52,7 +52,7 @@ Der erste Song "Swell" ist mit einer respektablen Spielzeit von 20:42 das längs
 
 Seine neuen Stücke "Swell", "Jaques Cousteau" und "Seagul" könnt Ihr hier schon anhören:
 
-<iframe style="border: 0; width: 1024px; height: 1300px;" src="https://bandcamp.com/EmbeddedPlayer/album=2547524849/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/transparent=true/" seamless><a href="https://selbalamir.bandcamp.com/album/swell">Swell by Sel Balamir</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2547524849/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://selbalamir.bandcamp.com/album/swell">Swell by Sel Balamir</a></iframe>
 
 Wenn Ihr Jaques Cousteaus Unterwasser-Welt liebt, und Euch Bilder zu Sel Balamirs neuer Musik wünscht, empfiehlt er Euch das passende Video dazu:
 
