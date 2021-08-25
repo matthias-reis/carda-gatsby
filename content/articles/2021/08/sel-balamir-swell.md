@@ -28,7 +28,7 @@ affiliate: false
 language: de
 languageLink: /2021/08/sel-balamir-swell-en/
 ---
-**Sel Balamir, Sänger und Gründer von Amplifier, meldet sich mit einer Solo-Platte zurück. Die Veröffentlichung von "Swell" hat er für den 6. September angekündigt. Reinhören klappt jetzt schon.**
+**Sel Balamir, Sänger, Gitarrist und Gründer von Amplifier, meldet sich mit einer Solo-Platte zurück. Die Veröffentlichung von "Swell" hat er für den 6. September angekündigt. Reinhören klappt jetzt schon.**
 
 Das Album "Swell" besteht aus drei für Sel ganz besonderen Songs. Sie sind während der Corona-Lockdowns im Jahr 2020 entstanden. In seinem Newsletter schreibt er:
 
