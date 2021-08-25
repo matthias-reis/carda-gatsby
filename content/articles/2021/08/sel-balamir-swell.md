@@ -40,7 +40,7 @@ Das klingt herrlich, oder? Ab und zu würden wir uns doch wirklich alle am liebs
 
 Auf "Swell" befinden sich zwar insgesamt nur drei Stücke, diese sind jedoch ziemlich lang, was ziemlich gut ist. Für mich ist die Platte ein absoluter Hörgenuss. Sel überrascht mit Unterwasserklängen, Orgelsounds und einem Wechsel aus nachdenklichen ruhigen und verspielteren Parts.
 
-![Sel Balamir – "Swell"](/img/sel-balamir-swell.jpeg "Sel Balamir – \"Swell\"")
+![Sel Balamir – "Swell"](/img/sel-balamir-swell.jpeg "Sel Balamir – \\"Swell\\"")
 
 Der erste Song "Swell" ist mit einer respektablen Spielzeit von 20:42 das längste Stück auf der Platte und der Opener für ein phantasievolles Theaterstück an der See mit einem angenehmen Hauch von 70er Jahre Psychedelic.
 
@@ -52,7 +52,7 @@ Der erste Song "Swell" ist mit einer respektablen Spielzeit von 20:42 das längs
 
 Seine neuen Stücke "Swell", "Jaques Cousteau" und "Seagul" könnt Ihr hier schon anhören:
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2547524849/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://selbalamir.bandcamp.com/album/swell">Swell by Sel Balamir</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2547524849/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://selbalamir.bandcamp.com/album/swell">Swell by Sel Balamir</a></iframe>
 
 Wenn Ihr Jaques Cousteaus Unterwasser-Welt liebt, und Euch Bilder zu Sel Balamirs neuer Musik wünscht, empfiehlt er Euch das passende Video dazu:
 
