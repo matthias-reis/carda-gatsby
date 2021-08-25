@@ -34,7 +34,7 @@ The album "Swell" consists of three songs that are very special for Sel. He wrot
 
 > "Like a lot of people, I made a solo album last year – because you can do that at home. And then, when we could get about our business, I finished it off. I really like it – it's kind of different to Amplifier. I live by the beach – so I spend a lot of time there. If you listen carefully – you can smell the seaweed."
 
-That sounds pretty good. Doesn't it? It is a fact that we would all like to dream ourselves away to the seaside every now and then. With the right music, of course, this works even better.
+That sounds pretty good, doesn't it? It is a fact that we would all like to dream ourselves away to the seaside every now and then. With the right music, of course, this works even better.
 
 ## Sel Balamir surprises with new sounds
 
