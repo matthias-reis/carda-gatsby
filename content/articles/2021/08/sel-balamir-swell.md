@@ -38,7 +38,7 @@ Das klingt herrlich, oder? Ab und zu würden wir uns doch wirklich alle am liebs
 
 ## Sel Balamir überrascht mit neuen Sounds
 
-Auf "Swell" befinden sich zwar insgesamt nur drei Stücke, diese sind jedoch ziemlich lang, was ziemlich gut ist. Für mich ist die Platte ein absoluter Hörgenuss. Sel überrascht mit Unterwasserklängen, Orgelsounds und einem Wechsel aus nachdenklichen ruhigen und verspielteren Parts.
+Auf "Swell" befinden sich zwar insgesamt nur drei Stücke, diese sind jedoch ziemlich lang, was gut ist – das findet nicht nur Sel. Für mich ist die Platte ein absoluter Hörgenuss. Sel überrascht mit Unterwasserklängen, Orgelsounds und einem Wechsel aus nachdenklichen ruhigen und verspielteren Parts.
 
 ![Sel Balamir – "Swell"](/img/sel-balamir-swell.jpeg "Sel Balamir – \\"Swell\\"")
 
