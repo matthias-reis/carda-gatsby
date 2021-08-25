@@ -44,7 +44,7 @@ Auf "Swell" befinden sich zwar insgesamt nur drei Stücke, diese sind jedoch zie
 
 Der erste Song "Swell" ist mit einer respektablen Spielzeit von 20:42 das längste Stück auf der Platte und der Opener für ein phantasievolles Theaterstück an der See mit einem angenehmen Hauch von 70er Jahre Psychedelic.
 
-"Jaques Cousteau" zieht mich beim Hören in die Tiefe und lässt mich das Leben an der Meeresoberfläche für einen ausgedehnten Moment von 11:13 vergessen. In einer Blase reise ich durch die Tiefe und begegne Wesen, deren Existenz mir bisher verborgen war.
+"Jaques Cousteau" zieht mich beim Hören in die Tiefe und lässt mich das Leben an der Meeresoberfläche für einen ausgedehnten Moment von 11:13 vergessen. In einer Blase reise ich durch die Meere und begegne Wesen, deren Existenz mir bisher verborgen war.
 
 ## "Swell" von Sel Balamir jetzt schon anhören
 
