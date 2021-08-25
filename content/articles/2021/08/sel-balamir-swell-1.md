@@ -44,7 +44,7 @@ There are only three tracks on "Swell", but they are pretty long, which is good 
 
 The first song, "Swell", is with its impressive 20:42, the longest track on the record, and the opener for an imaginative play at sea with a pleasant touch of 70s psychedelic.
 
-"Jaques Cousteau" draws me into the depths as I listen to the piece, forgetting life on the surface of the sea for an extended moment of 11:13. I travel through the depths inside a bubble encountering beings whose existence I wasn't aware of till this moment.
+"Jaques Cousteau" draws me into the depths as I listen to the piece, forgetting life on the surface of the sea for an extended moment of 11:13. I travel through the oceans inside a bubble encountering beings whose existence I wasn't aware of till this moment.
 
 ## You can listen to "Swell" by Sel Balamir right now
 
