@@ -52,7 +52,7 @@ The first song, "Swell", is with its impressive 20:42, the longest track on the 
 
 You can already listen to his new tracks "Swell", "Jaques Cousteau" and "Seagul" here:
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2547524849/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://selbalamir.bandcamp.com/album/swell">Swell by Sel Balamir</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2547524849/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/transparent=true/" seamless><a href="https://selbalamir.bandcamp.com/album/swell">Swell by Sel Balamir</a></iframe>
 
 If you adore Jaques Cousteau's underwater world and want to accompany Sel Balamir's new music with some moving pictures, he recommends this video to you:
 
