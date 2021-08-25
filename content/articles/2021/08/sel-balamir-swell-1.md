@@ -38,7 +38,7 @@ That sounds pretty good, doesn't it? It is a fact that we all like to dream ours
 
 ## Sel Balamir surprises with new sounds
 
-There are only three tracks on "Swell", but they are pretty long, which is good. Listening to the record is an absolute pleasure for me. Sel surprises with underwater sounds, organ music and an alternation of thoughtful, quiet and playful parts.
+There are only three tracks on "Swell", but they are pretty long, which is good – Sel is not the only one who thinks so. Listening to the record is an absolute pleasure for me. Sel surprises with underwater sounds, organ music and an alternation of thoughtful, quiet and playful parts.
 
 ![Sel Balamir – "Swell"](/img/sel-balamir-swell.jpeg "Sel Balamir – \\"Swell\\"")
 
