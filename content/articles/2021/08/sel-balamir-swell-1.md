@@ -6,7 +6,7 @@ title: Sel Balamir – "Swell"
 subTitle: A Special Lockdown Solo Album
 seoTitle: Sel Balamir – "Swell"  – A Special Lockdown Solo Album
 description: Sel Balamir, singer and founder of Amplifier, reports back with a
-  solo record. He has announced the release of "Swell" for 6 September. If you
+  solo record. He has announced the release of "Swell" for September 6. If you
   want, you can already listen to it now.
 image: /img/sel-balamir-swell.jpg
 copyrigt: Sel Balamir
@@ -28,7 +28,7 @@ affiliate: false
 language: en
 languageLink: /2021/08/sel-balamir-swell/
 ---
-**Sel Balamir, singer guitarist and founder of Amplifier, reports back with a solo record. He has announced the release of "Swell" for 6 September. If you want, you can already listen to it now.**
+**Sel Balamir, singer, guitarist and founder of Amplifier, reports back with a solo record. He has announced the release of "Swell" for September 6. If you want, you can already listen to it now.**
 
 The album "Swell" consists of three songs that are very special for Sel. He wrote them during the Corona Lockdowns in 2020. In his newsletter, he writes:
 
