@@ -66,9 +66,7 @@ Produkte, für die Lebewesen leiden müssen, kommen für sie daher nicht infrage
 
 ## Zahnbürsten ohne Plastikborsten
 
-Nehmen wir zum Beispiel [die Bambus-Zahnbürsten](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fbambus-zahnbuerste-erwachsene%2F), die Ihr auch auf meinen Bildern sehen könnt:
-
-Wusstet Ihr, dass viele andere Firmen Bienenwachs verwenden, um die Borsten geschmeidiger zu machen? Außerdem sind die Borsten häufig aus Schweinehaar. Andere Labels nutzen für die Borsten ihrer veganen Zahnbürsten oft Kunststoff – bei Ecomonkey werden sie, genau wie die Griffe, aus Bambus hergestellt.
+Nehmen wir zum Beispiel [die Bambus-Zahnbürsten](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fbambus-zahnbuerste-erwachsene%2F), die Ihr auch auf meinen Bildern sehen könnt: Wusstet Ihr, dass viele andere Firmen Bienenwachs verwenden, um die Borsten geschmeidiger zu machen? Außerdem sind die Borsten häufig aus Schweinehaar. Andere Labels nutzen für die Borsten ihrer veganen Zahnbürsten oft Kunststoff – bei Ecomonkey werden sie, genau wie die Griffe, aus Bambus hergestellt.
 
 Ich benutze die Bürsten jetzt seit einiger Zeit und muss sagen, dass sie bei mir wesentlich länger halten, als das Pendant mit Plastikborsten, das bei mir oft schon nach einer Woche regelrecht zerstört aussieht. Die Borsten sind ganz fein und weich und putzen die Zähne richtig gut. Von Belägen spüre ich anschließend nichts mehr.
 
