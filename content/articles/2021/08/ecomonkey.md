@@ -54,6 +54,8 @@ Dominik gründete Ecomonkey Mitte 2017. Dabei hatte er das klare Ziel, eine nach
 
 Die wunderschönen Geldbörsen aus Bananenblättern hier [die faltbare Variante](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fgeldboerse-vegan-aus-echten-blaettern-in-schwarz%2F), hier [das Münzmodell mit Reißverschluss](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fmuenzportemonnaie-vegan-aus-echten-blaettern-in-gruen%2F), die Ihr auf meinen Fotos seht, gehören genauso zu seiner Produktpalette wie [das nachhaltige Duschstück](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fshampoo-duschstueck-brennnessel-rosmarin%2F), das gleichzeitig als Shampoo und als Spülung dient. Es ist besonders auf Reisen irre praktisch und pflegt Haut und Haare wirklich toll. Ich hatte es bei unserem Surf-Trip an die Nordsee vor ein paar Tagen dabei und habe nichts anderes gebraucht. 
 
+<Gallery name="ecomonkey-shop-1" />
+
 Ein weiteres tolles Produkt ist die [Zero Waste Haarbürste aus Bambus](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnachhaltige-bambus-haarbuerste%2F), die im Gegensatz zu handelsüblichen Holzbürsten komplett ohne Tierborsten und Plastik auskommt. Sie wird in einem praktischen Baumwollbeutel geliefert, den ihr später auf Reisen als Transportbeutel verwenden könnt.
 
 Dominik und Daniel sind sich einig:
@@ -77,3 +79,5 @@ Ich benutze die Bürsten jetzt seit einiger Zeit und muss sagen, dass sie bei mi
 Neben der Umwelt ist Dominik auch die Fairness wichtig. Die Fabriken, in denen er produzieren lässt, besucht er regelmäßig. Ecomonkey arbeitet ausschließlich mit Betrieben zusammen, die ihre Arbeitnehmer⋆innen fair bezahlen. Belegt wird das unter anderem anhand von Zertifikaten durch den TÜV Rheinland.
 
 Meistens fällt die Wahl auf kleine Familienbetriebe, die mit ähnlichen Zielen arbeiten – das stärkt laut Dominik nicht nur das Vertrauen, sondern auch die Freude an der Zusammenarbeit.
+
+<Gallery name="ecomonkey-shop-2" />
