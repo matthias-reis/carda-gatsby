@@ -1,6 +1,6 @@
 ---
 date: 2021-08-27T14:09:19.859Z
-slug: horte-maa-antaa-yon-vaientaa-en
+slug: horte-maa-antaa-yon-vaientaa
 typeName: Review
 title: Horte "Maa antaa yon vaientaa"
 subTitle: Psychedelic Shoegaze From Finnland
