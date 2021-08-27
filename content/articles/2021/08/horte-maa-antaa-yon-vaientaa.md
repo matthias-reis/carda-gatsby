@@ -30,7 +30,7 @@ focusKeyword: Maa antaa yon vaientaa
 advertisement: false
 affiliate: false
 language: de
-languageLink: /2021/07/horte-maa-antaa-yon-vaientaa-en/
+languageLink: /2021/08/horte-maa-antaa-yon-vaientaa-en/
 ---
 **Psychedelischer Shoegaze Sound mit einer starken Frau am Mikro – Wenn Ihr Euch wie ich davon angesprochen fühlt, sollte jetzt auf jeden Fall weiterlesen. Das neue Horte Album "Maa antaa yon vaientaa" liefert genau das und ich habe alle Infos dazu für Euch.**
 
