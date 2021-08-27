@@ -44,11 +44,11 @@ Sängerin Riikka hat die ganze Platte übrigens auf Finnisch eingesungen. Das ma
 
 Die insgesamt sieben Songs lassen sich nur ganz schwer in Worte fassen. Verzerrte Klangschaften  und traumhafte Synthy-Sequenzen erzählen von einer Welt, die über den Dingen steht – getragen und lässig zugleich ohne überflüssigen Schmuck und Tand aber durchaus vielschichtig.
 
-Besonders die Feldaufnahmen haben mich sehr beeindruckt und auch die düsteren elektronischen Momente haben es wirklich ganz schön in sich. Rikka sagt:
+Besonders die Feldaufnahmen haben mich sehr beeindruckt und auch die düsteren elektronischen Momente haben es wirklich ganz schön in sich. Riikka sagt:
 
 > "Wir haben es uns angewöhnt, so lange mit dem Material zu arbeiten, bis sich das Stück von selbst versteht. Der Klang ergibt sich dann von selbst. Es gibt immer eine kompositorische Vision davon, wie die Stücke im weiteren Sinne klingen sollen."
 
-Es geht also um das Gesamtbild, das durch die Musik entsteht. Die einzelnen Bandmitglieder stehen dabei eher im Hintergrund. Rikka findet:
+Es geht also um das Gesamtbild, das durch die Musik entsteht. Die einzelnen Bandmitglieder stehen dabei eher im Hintergrund. Riikka findet:
 
 > "Wir möchten den Fokus auf die Musik lenken und nicht uns als Individuen ins Rampenlicht rücken."
 
