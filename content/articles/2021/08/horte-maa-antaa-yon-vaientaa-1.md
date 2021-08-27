@@ -29,7 +29,7 @@ focusKeyword: Maa antaa yon vaientaa
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2021/07/horte-maa-antaa-yon-vaientaa/
+languageLink: /2021/08/horte-maa-antaa-yon-vaientaa/
 ---
 **Psychedelic shoegaze sound with a strong woman at the microphone - If you feel addressed by this as I do, you should definitely carry on reading. Horte's new album delivers exactly this. Here are all the details about it.**
 
