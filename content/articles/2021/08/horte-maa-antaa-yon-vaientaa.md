@@ -38,7 +38,7 @@ languageLink: /2021/08/horte-maa-antaa-yon-vaientaa-en/
 
 ## Horte laden in ihre Klangwelt ein
 
-Sängerin Riikka hat die ganze Platte übrigens auf Finnisch eingesungen. Das macht aber auch für diejenigen unter uns, die diese Sprache nicht verstehen, gar nichts. Wichtig sind die Gefühle, die Horte rüberbringen und die sind ganz groß – das verspreche ich Euch.
+Sängerin Riikka hat die ganze Platte übrigens auf Finnisch eingesungen. Das macht aber auch für diejenigen unter uns, die diese wundervolle Sprache nicht verstehen, gar nichts. Wichtig sind die Gefühle, die Horte rüberbringen und die sind ganz groß – das verspreche ich Euch.
 
 ![Horte – "Maa antaa yon vaientaa"](/img/horte-horte-maa-antaa-yon-vaientaa.jpeg "Horte – \\"Maa antaa yon vaientaa\\"")
 
