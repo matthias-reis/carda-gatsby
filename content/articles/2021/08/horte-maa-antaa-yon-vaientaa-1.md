@@ -31,7 +31,7 @@ affiliate: false
 language: en
 languageLink: /2021/08/horte-maa-antaa-yon-vaientaa/
 ---
-**Psychedelic shoegaze sound with a strong woman at the microphone – If this is your cup of tea, you should definitely carry on reading. Horte's new album is so much more than just this. Here are all the details about it.**
+**Psychedelic shoegaze sound with a strong woman on the microphone – If this is your cup of tea, you should definitely carry on reading. Horte's new album is so much more than just this. Here are all the details about it.**
 
 "Maa antaa yon vaientaa" is the name of the record. In English, it means something like "Land Lets the Night Grow Silent", but what exactly Horte want to tell us remains their secret.
 
