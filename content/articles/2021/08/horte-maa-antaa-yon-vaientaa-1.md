@@ -43,11 +43,11 @@ By the way, singer Riikka recorded all lyrics in Finnish. But that doesn't matte
 
 The total of seven songs is very tricky to put into words. Distorted soundscapes and dreamlike synthy sequences tell of a world that stands above things – worn and casual at the same time, without unnecessary ornaments and kitsch, but definitely multi-layered.
 
-I was especially impressed by the field recordings and the dark electronic moments are also really quite something. Rikka says:
+I was especially impressed by the field recordings and the dark electronic moments are also really quite something. Riikka says:
 
 "Our way is to work with the material as long as it takes for the piece to figure itself out. Sound comes with it. There is always a compositional vision of how the pieces should sound in a broader sense."
 
-So it's all about the overall picture created by the music. The individual band members are more in the background. Rikka thinks:
+So it's all about the overall picture created by the music. The individual band members are more in the background. Riikka thinks:
 
 "Our principal goal is to keep the focus on the music without highlighting us as individuals."
 
