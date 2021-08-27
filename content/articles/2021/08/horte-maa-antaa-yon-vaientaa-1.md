@@ -5,9 +5,9 @@ typeName: Review
 title: Horte "Maa antaa yon vaientaa"
 subTitle: Psychedelic Shoegaze From Finnland
 seoTitle: Horte "Maa antaa yon vaientaa" – Psychedelic Shoegaze From Finnland
-description: Psychedelic shoegaze sound with a strong woman at the microphone -
-  If you feel addressed by this as I do, you should definitely carry on reading.
-  Horte's new album delivers exactly this. Here are all the details about it.
+description: Psychedelic shoegaze sound with a strong woman at the microphone –
+  If this is your cup of tea, you should definitely carry on reading. Horte's
+  new album is so much more than just this. Here are all the details about it.
 image: /img/horte-horte-maa-antaa-yon-vaientaa.jpg
 copyrigt: Horte
 ogImage: /img/horte-horte-maa-antaa-yon-vaientaa-fb.jpg
@@ -31,7 +31,7 @@ affiliate: false
 language: en
 languageLink: /2021/08/horte-maa-antaa-yon-vaientaa/
 ---
-**Psychedelic shoegaze sound with a strong woman at the microphone – If this is your cup of tea, you should definitely carry on reading. Horte's is so much more than just this. Here are all the details about it.**
+**Psychedelic shoegaze sound with a strong woman at the microphone – If this is your cup of tea, you should definitely carry on reading. Horte's new album is so much more than just this. Here are all the details about it.**
 
 "Maa antaa yon vaientaa" is the name of the record. In English, it means something like "Land Lets the Night Grow Silent", but what exactly Horte want to tell us remains their secret.
 
