@@ -33,13 +33,13 @@ languageLink: /2021/07/horte-maa-antaa-yon-vaientaa/
 ---
 **Psychedelic shoegaze sound with a strong woman at the microphone - If you feel addressed by this as I do, you should definitely carry on reading. Horte's new album delivers exactly this. Here are all the details about it.**
 
-"Maa antaa yon vaientaa" is the name of the Finns' work. In English, it means something like "The land makes the night quiet", but what exactly Horte want to tell us remains their secret.
+"Maa antaa yon vaientaa" is the name of the Finns' work. In English, it means something like "Land Lets the Night Grow Silent", but what exactly Horte want to tell us remains their secret.
 
 ## Horte invite you into their world of sound
 
 By the way, singer Riikka recorded all lyrics in Finnish. But that doesn't matter at all to those of us who don't understand this language. The important thing is the feelings that Horte convey, and they are tremendous – I promise you that.
 
-![Horte – "Maa antaa yon vaientaa"](/img/horte-horte-maa-antaa-yon-vaientaa.jpeg "Horte – \"Maa antaa yon vaientaa\"")
+![Horte – "Maa antaa yon vaientaa"](/img/horte-horte-maa-antaa-yon-vaientaa.jpeg "Horte – \\"Maa antaa yon vaientaa\\"")
 
 The total of seven songs is very tricky to put into words. Distorted soundscapes and dreamlike synthy sequences tell of a world that stands above things – worn and casual at the same time, without unnecessary ornaments and kitsch, but definitely multi-layered.
 
@@ -57,4 +57,4 @@ If that sounds exciting to you, you can listen to the album now; Pelagic Records
 
 <YouTube id="yEnb51a2c_o" />
 
-![Horte – "Maa antaa yon vaientaa" | large](/img/horte.png "Horte – \"Maa antaa yon vaientaa\" | large")
+![Horte – "Maa antaa yon vaientaa" | large](/img/horte.png "Horte – \\"Maa antaa yon vaientaa\\" | large")
