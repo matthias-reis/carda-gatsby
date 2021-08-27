@@ -52,7 +52,7 @@ Es geht also um das Gesamtbild, das durch die Musik entsteht. Die einzelnen Band
 
 > "Wir möchten den Fokus auf die Musik lenken und nicht uns als Individuen ins Rampenlicht rücken."
 
-Wenn Euch das heiß macht, könnt Ihr das Album ab sofort hören, es ist heute auf Pelagic Records erschienen. Aufgenommen haben die Bandmitglieder in ihren Home-Studios und im Lievestuore und bei Tonehaven. Juho Vanhanen (Oranssi Pazuzu) war mit an der Produktion beteiligt und Saku Tamminen (Sink, Dark Buddha Rising) hat "Maa antaa yon vaientaa" abgemischt.
+Wenn Euch das heiß macht, könnt Ihr das Album ab sofort hören, es ist heute auf Pelagic Records erschienen. Aufgenommen haben es die Bandmitglieder in ihren Home-Studios und im Lievestuore und bei Tonehaven. Juho Vanhanen (Oranssi Pazuzu) war mit an der Produktion beteiligt und Saku Tamminen (Sink, Dark Buddha Rising) hat "Maa antaa yon vaientaa" abgemischt.
 
 ## Horte – "Ilman nurkka"
 
