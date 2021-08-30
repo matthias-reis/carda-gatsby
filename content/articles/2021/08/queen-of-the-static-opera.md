@@ -96,7 +96,7 @@ Menschen mit ignoranten Ansichten sind in meinen Augen in ihrer Entwicklung einf
 
 **Anne:** Würdest Du sagen, dass Musik für Dich eine Quelle der Kraft und Positivität ist? Oder benutzt Du sie eher wie ein Ventil? Du weißt schon, um von Zeit zu Zeit Dampf abzulassen?
 
-**Melody:** Ja, sie ist eine Quelle der Freude für mich und wenn ich wütend oder aufgebracht bin kann ich das mithilfe von Musik kanalisieren. Ich habe eine wirklich eine sehr persönliche und leidenschaftliche Beziehung zu meiner Musik – ich liebe sie! Also macht sie mich glücklich, selbst wenn es der düsterste Song ist, den du je gehört hast.
+**Melody:** Ja, sie ist eine Quelle der Freude für mich und wenn ich wütend oder aufgebracht bin kann ich das mithilfe von Musik kanalisieren. Ich habe eine wirklich sehr persönliche und leidenschaftliche Beziehung zu meiner Musik – ich liebe sie! Also macht sie mich glücklich, selbst wenn es der düsterste Song ist, den du je gehört hast.
 
 **Anne:** Du hast Queen Of The Static Opera gegründet, als Du Disraeli Davis bei einer Open Mic Night getroffen hast. Willst Du mir davon erzählen?
 
