@@ -122,4 +122,4 @@ People who have ignorant views just have not evolved to the place to understand 
 ## Queen Of The Static Opera – "Make Love To America Gently With A Chainsaw"
 
 <YouTube id="TxrKfypnBH0" />
-- [^1]:[twitch.tv/staticqueen1](https://twitch.tv/staticqueen1/)
+- [^1]: [Queen Of The Static Opera on Twitch](https://twitch.tv/staticqueen1/)
