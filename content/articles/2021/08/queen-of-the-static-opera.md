@@ -96,7 +96,7 @@ Ich glaube nicht, dass man schreiben sollte, wenn man nicht inspiriert ist. Man 
 
 **Melody:** In Bezug auf Belästigung bringt es viel, sich zu informieren. Das hilft sowohl bei der Bewusstwerdung als auch bei der Einschätzung, ob der Missbrauch die eigenen Grenzen beeinflusst hat oder nicht. Es hilft einem, Dinge wie das Selbstberuhigungsverhalten zu erkennen – oder den buchstäblichen Kampf- und Fluchtmodus. Und bei PTBS oder Angstzuständen, die durch ein schlimmes Lebensereignis ausgelöst wurden. Wissen kann sehr beruhigend sein. Wir alle haben ständig Zugang zu einer Vielzahl an Informationen – Die kann mensch sogar dazu nutzen, den Heilungsprozess in Gang zu setzen. 
 
-## Es gibt kein Regelbuch für traumatisierte Menschen
+## "Es gibt kein Regelbuch für traumatisierte Menschen"
 
 Menschen mit ignoranten Ansichten sind in meinen Augen in ihrer Entwicklung einfach noch nicht so weit, dass sie diese Perspektive verstehen können. Sie sind also die Energie nicht wert. Ich muss mich ihnen gegenüber nicht rechtfertigen. Ich muss ihnen nicht erklären, wie es ist, sich bedroht zu fühlen. Der Polizei zu erzählen, dass man gerade beinahe vergewaltigt worden wäre und zu merken, dass sie daran zweifelt, weil Du nicht hysterisch genug wirkst. Es gibt einfach kein Regelwerk dafür, wie sich traumatisierte Menschen zu verhalten haben. Ich habe wirklich viel Scheiße durchgemacht, über manches davon rede ich gar nicht. Aber ich habe erlebt, dass die Polizei weggefahren ist, als der Mann, der mich vergewaltigen wollte, direkt vor ihnen stand. 
 
@@ -106,7 +106,7 @@ Menschen mit ignoranten Ansichten sind in meinen Augen in ihrer Entwicklung einf
 
 **Anne:** Du hast Queen Of The Static Opera gegründet, als Du Disraeli Davis bei einer Open Mic Night getroffen hast. Willst Du mir davon erzählen?
 
-## Mein Vater war ein Billboard-Künstler.
+## "Mein Vater war ein Billboard-Künstler"
 
 **Melody:** Ich hatte den Namen Queen Of The Static Opera und viele Ideen, als ich Disraeli begegnet bin. Er hat mich mehr unterstützt und meine Ideen genährt, während ich an meinen frühen Demos wie "Bruises On My Neck" saß. Mein Vater war ein Billboard-Künstler, also hatte ich eine starke Idee und Identität als Künstler, als ich Disraeli traf und wir zusammen Musik gemacht haben. Es hat super viel Spaß gemacht, also haben wir weiter gemacht. Manchmal produziere ich auch alleine. Ich habe schon immer meine eigenen Instrumente gespielt, also war das sowieso der nächste Schritt für mich.
 
