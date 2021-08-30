@@ -47,7 +47,7 @@ languageLink: /2021/08/queen-of-the-static-opera-interview/
 
 ---
 
-Melody's project is more than versatile. She uses elements from pop, goth, and even electronic and combines them to make her exceptional and political synth art. Intersectional feminism and empowerment are just two of the topics she brings up in her songs. Currently, she is based in Los Angeles, while her foundation lies in the Twin Cities Area of Minneapolis and St. Paul. 
+Melody's project is more than versatile. She uses elements from industrial, pop, goth, and even electronic and combines them to make her exceptional and political synth art. Intersectional feminism and empowerment are just two of the topics she brings up in her songs. Currently, she is based in Los Angeles, while her foundation lies in the Twin Cities Area of Minneapolis and St. Paul. 
 
 **Anne:** Thanks for taking the time for this interview! How are you doing today? What projects are you working on right now?
 
