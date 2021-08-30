@@ -37,11 +37,11 @@ languageLink: /2021/08/queen-of-the-static-opera-interview/
 ---
 **I got to know the multi-instrumentalist Melody, aka Queen of the Static Opera, some time ago via social networks, and I am an enthusiastic follower ever since. So now, I have invited her for an interview to get some more insights into her art and life.**
 
-<hr>
+---
 
 **TW:** Sexual, physical and psychical violence, molestation, rape, and other explicit themes like PTSD and anxiety.
 
-<hr>
+---
 
 Melody's project is more than versatile. She uses elements from pop, goth, and even electronic and combines them to make her exceptional and political synth art. Intersectional feminism and empowerment are just two of the topics she brings up in her songs. Currently, she is based in Los Angeles, while her foundation lies in the Twin Cities Area of Minneapolis and St. Paul. 
 
@@ -122,5 +122,7 @@ People who have ignorant views just have not evolved to the place to understand 
 ## Queen Of The Static Opera – "Make Love To America Gently With A Chainsaw"
 
 <YouTube id="TxrKfypnBH0" />
+
 &nbsp;
+
 [^1]: [Queen Of The Static Opera on Twitch](https://twitch.tv/staticqueen1/)
