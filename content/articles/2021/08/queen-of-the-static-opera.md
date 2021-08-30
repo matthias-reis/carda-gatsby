@@ -5,10 +5,10 @@ typeName: Interview
 title: Queen Of The Static Opera
 subTitle: '"Ich wollte schon immer Leute unterhalten"'
 seoTitle: Queen Of The Static Opera – "Ich wollte schon immer Leute unterhalten"
-description: Die Multi-Instrumentalistin Melody, alias Queen of the Static
-  Opera, habe ich vor einiger Zeit über die sozialen Netzwerke kennengelernt und
-  bin seitdem ein begeisterter Fan. Jetzt haben wir uns zum Interview verabredet
-  und sie hat mir einen Einblick in ihre Kunst und ihr Leben gewährt.
+description: Die Multi-Instrumentalistin Melody alias Queen of the Static Opera
+  habe ich vor einiger Zeit über die sozialen Netzwerke kennengelernt und bin
+  seitdem ein begeisterter Fan. Jetzt haben wir uns zum Interview verabredet und
+  sie hat mir einen Einblick in ihre Kunst und ihr Leben gewährt.
 image: /img/queen-of-the-static-opera.jpg
 copyrigt: Queen Of The Static Opera
 ogImage: /img/queen-of-the-static-opera-fb.jpg
@@ -34,7 +34,7 @@ affiliate: false
 language: de
 languageLink: /2021-08/queen-of-the-static-opera-interview-en/
 ---
-**Die Multi-Instrumentalistin Melody, alias Queen of the Static Opera, habe ich vor einiger Zeit über die sozialen Netzwerke kennengelernt und bin seitdem ein begeisterter Fan. Jetzt haben wir uns zum Interview verabredet und sie hat mir einen Einblick in ihre Kunst und ihr Leben gewährt.**
+**Die Multi-Instrumentalistin Melody alias Queen of the Static Opera habe ich vor einiger Zeit über die sozialen Netzwerke kennengelernt und bin seitdem ein begeisterter Fan. Jetzt haben wir uns zum Interview verabredet und sie hat mir einen Einblick in ihre Kunst und ihr Leben gewährt.**
 
 **TW:** Sexuelle, physische und psychische Gewalt, Belästigung, Vergewaltigung und andere explizite Themen wie PTBS und Angstzustände.
 
