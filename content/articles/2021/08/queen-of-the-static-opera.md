@@ -122,4 +122,4 @@ Menschen mit ignoranten Ansichten sind in meinen Augen in ihrer Entwicklung einf
 
 <YouTube id="TxrKfypnBH0" />
 
-- [^1]: [Queen Of The Static Opera auf Twitch](https://twitch.tv/staticqueen1/)
+[^1]: [Queen Of The Static Opera auf Twitch](https://twitch.tv/staticqueen1/)
