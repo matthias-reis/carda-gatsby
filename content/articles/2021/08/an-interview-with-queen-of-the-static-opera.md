@@ -33,7 +33,7 @@ focusKeyword: Queen Of The Static Opera
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2021-08/queen-of-the-static-opera-interview/
+languageLink: /2021/08/queen-of-the-static-opera-interview/
 ---
 **I got to know the multi-instrumentalist Melody, aka Queen of the Static Opera, some time ago via social networks, and I am an enthusiastic follower ever since. So now, I have invited her for an interview to get some more insights into her art and life.**
 
