@@ -48,7 +48,7 @@ Melodys Projekt ist mehr als nur vielseitig. Sie verwendet Elemente aus Pop, Got
 
 ## "Ich arbeite an einem Heavy Industrial Album und einer Dance-Pop EP"
 
-**Melody:**  Ich bin gerade von einem Fotoshooting mit einem exzellenten Fotografen zurückgekommen, was mich sehr freut, denn er hat schon für Quentin Tarantino fotografiert, was wirklich cool ist. Ich habe gerade eine Twitch-Show namens 808s and Wonderland gestartet, in der ich Musik auflege und über Musik, Aliens, Verschwörungen, Hollywood und alles Mögliche rede. Sie läuft jeden Tag um 19 Uhr PST auf [twitch.tv/staticqueen1](https://twitch.tv/staticqueen1/). Ich helfe einem Freund bei einer Wohltätigkeitsorganisation, die Insassen in Gefängnissen und Reha-Einrichtungen Musik nahebringt. Ich arbeite an einer Dance-Pop-EP und plane außerdem ein Heavy Industrial Album, das auf einem Konzept basiert, das ich um Sharon Tate herum entwickelt habe, nachdem ich ein Jahr lang ziemlich nah an ihrem Grab gelebt habe. 
+**Melody:**  Ich bin gerade von einem Fotoshooting mit einem exzellenten Fotografen zurückgekommen, was mich sehr freut, denn er hat schon für Quentin Tarantino fotografiert, was wirklich cool ist. Ich habe gerade eine Show namens 808s and Wonderland gestartet, in der ich Musik auflege und über Musik, Aliens, Verschwörungen, Hollywood und alles Mögliche rede. Sie läuft jeden Tag um 19 Uhr PST auf Twitch[^1]. Ich helfe einem Freund bei einer Wohltätigkeitsorganisation, die Insassen in Gefängnissen und Reha-Einrichtungen Musik nahebringt. Ich arbeite an einer Dance-Pop-EP und plane außerdem ein Heavy Industrial Album, das auf einem Konzept basiert, das ich um Sharon Tate herum entwickelt habe, nachdem ich ein Jahr lang ziemlich nah an ihrem Grab gelebt habe. 
 
 **Anne:** Wow! Das ist wirklich eine ganze Menge! Du hast mir erzählt, dass Du in einer Familie aus Entertainern aufgewachsen bist. Dein Vater war der Mentor von Prince, und Du hast Produzieren, Tanzen, Schreiben, Singen, Keyboard und Gitarre spielen gelernt, während Du Deine ersten Schritte gemacht hast. Wie war es, seine Kindheit in einem so produktiven Umfeld zu verbringen? Ich kann mir das ja gleichzeitig ziemlich kreativ und manchmal auch stressig vorstellen.
 
@@ -121,3 +121,4 @@ Menschen mit ignoranten Ansichten sind in meinen Augen in ihrer Entwicklung einf
 ## Queen Of The Static Opera - "Make Love To America Gently With A Chainsaw"
 
 <YouTube id="TxrKfypnBH0" />
+- [^1]:[twitch.tv/staticqueen1](https://twitch.tv/staticqueen1/)
