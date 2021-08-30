@@ -39,7 +39,7 @@ languageLink: /2021/08/queen-of-the-static-opera-interview/
 
 ---
 
-**TW:** Sexual, physical and psychical violence, molestation, rape, and other explicit themes like PTSD and anxiety.
+**TW:** Sexual, physical and psychical violence, molestation, rape, PTSD, anxiety.
 
 ---
 
