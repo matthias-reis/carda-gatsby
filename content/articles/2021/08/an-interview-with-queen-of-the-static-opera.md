@@ -2,7 +2,7 @@
 date: 2021-08-30T12:37:28.753Z
 slug: queen-of-the-static-opera-interview-en
 typeName: Interview
-title: An Interview With Queen Of The Static Opera
+title: Queen Of The Static Opera
 subTitle: '"I Always Wanted To Entertain People"'
 seoTitle: An Interview With Queen Of The Static Opera – "I Always Wanted To
   Entertain People"
