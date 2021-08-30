@@ -28,6 +28,10 @@ labels:
   - NFT
   - Empowerment
   - Feminismus
+  - Bands
+  - Band
+  - Interview
+  - Interviews
 focusKeyword: Queen Of The Static Opera
 advertisement: false
 affiliate: false
