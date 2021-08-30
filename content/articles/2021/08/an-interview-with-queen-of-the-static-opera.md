@@ -37,7 +37,11 @@ languageLink: /2021-08/queen-of-the-static-opera-interview/
 ---
 **I got to know the multi-instrumentalist Melody, aka Queen of the Static Opera, some time ago via social networks, and I am an enthusiastic follower ever since. So now, I have invited her for an interview to get some more insights into her art and life.**
 
+<hr>
+
 **TW:** Sexual, physical and psychical violence, molestation, rape, and other explicit themes like PTSD and anxiety.
+
+<hr>
 
 Her project is more than versatile. She uses elements from pop, goth, and even electronic and combines them to make her exceptional and political synth art. Intersectional feminism and empowerment are just two of the topics she brings up in her songs. Currently, she is based in Los Angeles, while her foundation lies in the Twin Cities Area of Minneapolis and St. Paul. 
 
@@ -93,7 +97,7 @@ People who have ignorant views just have not evolved to the place to understand 
 
 **Anne:** Would you say music is a source of force and positivity for you? Or do you use it more like a valve? You know to blow off steam from time to time?
 
-**Melody:** It'sa source of joy for me, like yeah, if I'm angry or upset, I can channel it into the music – but I truly deeply have a personal and passionate relationship with my music – I love my music! So it makes me happy, even if it's like, the darkest song you've ever heard.
+**Melody:** It's a source of joy for me, like yeah, if I'm angry or upset, I can channel it into the music – but I truly deeply have a personal and passionate relationship with my music – I love my music! So it makes me happy, even if it's like, the darkest song you've ever heard.
 
 **Anne:** You started Queen Of The Static Opera when you met Disraeli Davis at an Open Mic Night. Do you want to tell me about it?
 
