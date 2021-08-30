@@ -38,7 +38,7 @@ languageLink: /2021/08/queen-of-the-static-opera-interview-en/
 
 ---
 
-**TW:** Sexuelle, physische und psychische Gewalt, Belästigung, Vergewaltigung und andere explizite Themen wie PTBS und Angstzustände.
+**TW:** Sexuelle, physische und psychische Gewalt, Belästigung, Vergewaltigung, PTBS und Angstzustände.
 
 ---
 
