@@ -51,7 +51,7 @@ Melody's project is more than versatile. She uses elements from industrial, pop,
 
 **Anne:** Thanks for taking the time for this interview! How are you doing today? What projects are you working on right now?
 
-## "I am working on a heavy industrial album and a dance-pop EP."
+## "I am working on a heavy industrial album and a dance-pop EP"
 
 **Melody:**  Well, I just got back from a photoshoot with an excellent photographer, so I'm excited about that because he's shot stuff for Quentin Tarantino which is really cool. I just started a show called 808s and Wonderland where I DJ music, and we talk about music, aliens, conspiracies, Hollywood, all sorts of stuff. It's on every night at 7 pm PST on Twitch[^1]. I'm helping a friend with a charity to bring music to inmates in prisons and rehabs. I'm working on a dance-pop EP, and I also plan to make a heavy industrial album based on a concept I built around Sharon Tate after living pretty close to her grave for a year. 
 
@@ -95,7 +95,7 @@ I also don't believe in writing when you aren't inspired – if you force the wr
 
 **Melody:** In terms of molestation – educating yourself helps. It helps both your awareness and helps you grasp whether or not the abuse has affected your boundaries. It helps you identify stuff like self-soothing behaviour – or literal fight and flight mode. And with any PTSD or anxiety that the horrific event happened in your life caused. Awareness can calm you down. We all have access to a lot of information all the time – you can use it even to start the healing process yourself. 
 
-## There is no rule book for traumatized people
+## "There is no rule book for traumatized people"
 
 People who have ignorant views just have not evolved to the place to understand your perspective – for me. So they are not worth the energy. I don't need to explain myself to them. I don't need to explain what it's like to feel endangered or explain what it's like to tell the police you almost got raped and have them doubt you because you don't seem hysterical enough. Like there's no rule book in how you're supposed to act when you're traumatized. I've been through a lot of shit, some I don't even talk about. But I've had the police drive off when the man who tried to rape me was right in front of them. 
 
@@ -105,7 +105,7 @@ People who have ignorant views just have not evolved to the place to understand 
 
 **Anne:** You started Queen Of The Static Opera when you met Disraeli Davis at an Open Mic Night. Do you want to tell me about it?
 
-## My dad was a billboard artist
+## "My dad was a billboard artist"
 
 **Melody:** I had the name Queen Of The Static Opera, and I had a lot of the idea for what QOTSO is already picked out when I met Disraeli. He mentored me more and nourished my ideas as I wrote the early demos, "Bruises On My Neck", from one of the early sessions. Like, I had my dad, who was a billboard artist, so I had a strong idea and identity as an artist when Disraeli met me, and we just liked making music together. It was super fun, so we kept doing it. I produce alone sometimes. I always played my own instruments, so that was the next step anyway. 
 
