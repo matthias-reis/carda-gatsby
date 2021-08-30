@@ -46,7 +46,7 @@ languageLink: /2021/08/queen-of-the-static-opera-interview-en/
 
 ---
 
-Melodys Projekt ist mehr als nur vielseitig. Sie verwendet Elemente aus Pop, Goth und sogar Elektronik und kombiniert sie zu ihrer außergewöhnlichen und politischen Synthy-Kunst. Sie beschäftigt sich dabei vor allem viel mit intersektionaler Feminismus und Empowerment. Derzeit lebt sie in Los Angeles, ihre Basis ist die Twin Cities Area von Minneapolis und St. Paul. 
+Melodys Projekt ist mehr als nur vielseitig. Sie verwendet Elemente aus Industrial, Pop, Goth und sogar Elektronik und kombiniert sie zu ihrer außergewöhnlichen und politischen Synthy-Kunst. Sie beschäftigt sich dabei vor allem viel mit intersektionaler Feminismus und Empowerment. Derzeit lebt sie in Los Angeles, ihre Basis ist die Twin Cities Area von Minneapolis und St. Paul. 
 
 **Anne:** Danke, dass Du Dir die Zeit für dieses Interview nimmst! Wie geht es Dir heute? An welchen Projekten arbeitest Du im Moment?
 
