@@ -49,7 +49,7 @@ Melody's project is more than versatile. She uses elements from pop, goth, and e
 
 ## "I am working on a heavy industrial album and a dance-pop EP."
 
-**Melody:**  Well, I just got back from a photoshoot with an excellent photographer, so I'm excited about that because he's shot stuff for Quentin Tarantino which is really cool. I just started a Twitch show called 808s and Wonderland where I DJ music, and we talk about music, aliens, conspiracies, Hollywood, all sorts of stuff. It's on every night at 7 pm PST at [twitch.tv/staticqueen1](https://twitch.tv/staticqueen1/). I'm helping a friend with a charity to bring music to inmates in prisons and rehabs. I'm working on a dance-pop EP, and I also plan to make a heavy industrial album based on a concept I built around Sharon Tate after living pretty close to her grave for a year. 
+**Melody:**  Well, I just got back from a photoshoot with an excellent photographer, so I'm excited about that because he's shot stuff for Quentin Tarantino which is really cool. I just started a show called 808s and Wonderland where I DJ music, and we talk about music, aliens, conspiracies, Hollywood, all sorts of stuff. It's on every night at 7 pm PST on Twitch[^1]. I'm helping a friend with a charity to bring music to inmates in prisons and rehabs. I'm working on a dance-pop EP, and I also plan to make a heavy industrial album based on a concept I built around Sharon Tate after living pretty close to her grave for a year. 
 
 **Anne:** Wow! That's a whole bunch of projects! You told me you grew up in a family of entertainers. Your father mentored Prince, and you've learned producing, dancing, writing, singing, playing keyboards and guitar while making your first steps. How was it like being a child in such a productive environment? I can imagine it both: creative and sometimes also exhausting.
 
@@ -122,3 +122,4 @@ People who have ignorant views just have not evolved to the place to understand 
 ## Queen Of The Static Opera – "Make Love To America Gently With A Chainsaw"
 
 <YouTube id="TxrKfypnBH0" />
+- [^1]:[twitch.tv/staticqueen1](https://twitch.tv/staticqueen1/)
