@@ -36,9 +36,13 @@ languageLink: /2021-08/queen-of-the-static-opera-interview-en/
 ---
 **Die Multi-Instrumentalistin Melody alias Queen of the Static Opera habe ich vor einiger Zeit über die sozialen Netzwerke kennengelernt und bin seitdem ein begeisterter Fan. Jetzt haben wir uns zum Interview verabredet und sie hat mir einen Einblick in ihre Kunst und ihr Leben gewährt.**
 
+<hr>
+
 **TW:** Sexuelle, physische und psychische Gewalt, Belästigung, Vergewaltigung und andere explizite Themen wie PTBS und Angstzustände.
 
-Ihr Projekt ist mehr als nur vielseitig. Sie verwendet Elemente aus Pop, Goth und sogar Elektronik und kombiniert sie zu ihrer außergewöhnlichen und politischen Synthy-Kunst. Sie beschäftigt sich dabei vor allem viel mit intersektionaler Feminismus und Empowerment. Derzeit ist sie in Los Angeles ansässig, während ihre Basis in der Twin Cities Area von Minneapolis und St. Paul liegt. 
+<hr>
+
+Melodys Projekt ist mehr als nur vielseitig. Sie verwendet Elemente aus Pop, Goth und sogar Elektronik und kombiniert sie zu ihrer außergewöhnlichen und politischen Synthy-Kunst. Sie beschäftigt sich dabei vor allem viel mit intersektionaler Feminismus und Empowerment. Derzeit ist sie in Los Angeles ansässig, während ihre Basis in der Twin Cities Area von Minneapolis und St. Paul liegt. 
 
 **Anne:** Danke, dass Du Dir die Zeit für dieses Interview nimmst! Wie geht es Dir heute? An welchen Projekten arbeitest Du im Moment?
 
