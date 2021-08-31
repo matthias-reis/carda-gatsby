@@ -150,7 +150,7 @@ Valentin:
 
 Matze:
 
-An Coheed & Cambria scheiden sich die Geister – Claudio Sanchez Stimme rangiert von Comic bis Rush. Für mich ist das nur ein weiterer Pluspunkt für die Band – ich bewundere sie seit der ersten Platte im Jahr 2001. Auch das neue Up-tempo-Stück "Shoulders hat es wieder ganz schön in sich. Coheed & Campria führen mit ihrer neuen Platte außerdem ihr Science-Fiction Story Konzept weiter. Für mich als Fan von Prog und SciFi ist das natürlich die perfekte Kombination.
+> An Coheed & Cambria scheiden sich die Geister – Claudio Sanchez Stimme rangiert von Comic bis Rush. Für mich ist das nur ein weiterer Pluspunkt für die Band – ich bewundere sie seit der ersten Platte im Jahr 2001. Auch das neue Up-tempo-Stück "Shoulders hat es wieder ganz schön in sich. Coheed & Campria führen mit ihrer neuen Platte außerdem ihr Science-Fiction Story Konzept weiter. Für mich, als Fan von Prog und SciFi, ist das natürlich die perfekte Kombination.
 
 <YouTube id="-Tb_v8MFbF8" />
 
