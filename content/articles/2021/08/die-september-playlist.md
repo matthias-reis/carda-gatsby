@@ -94,7 +94,7 @@ Valentin:
 > 
 > Auch Trent Reznor, den wir hauptsächlich durch Nine Inch Nails kennen, hat in den letzten Jahren (oft gemeinsam mit Atticus Ross) viele Soundtracks geschrieben und dadurch die moderne Filmmusik auf ein neues Level gehoben – nicht ohne Grund gab es dafür schon zweimal den Oscar. 
 > 
-> Danny Elfman hat im Juni sein zweites Soloalbum "Big Mess" veröffentlicht. Es geht sehr in Richtung – ich kann es Euch sehr empfehlen. Auch "True" ist auf der Platte zu finden – in einer Version nur mit Dannys Stimme. Ich bin ja der Meinung, dass Trent da irgendwie noch gefehlt hat. Als Duett klingt der Song einfach noch ein gutes Stück düsterer und kraftvoller."
+> Danny Elfman hat im Juni sein zweites Soloalbum "Big Mess" veröffentlicht. Es geht sehr in Richtung Industrial – ich kann es Euch sehr empfehlen. Auch "True" ist auf der Platte zu finden – in einer Version nur mit Dannys Stimme. Ich bin ja der Meinung, dass Trent da irgendwie noch gefehlt hat. Als Duett klingt der Song einfach noch ein gutes Stück düsterer und kraftvoller."
 
 <YouTube id="V1adLb9c6U4" />
 
