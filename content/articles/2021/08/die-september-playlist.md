@@ -56,7 +56,7 @@ language: de
 ---
 **Die September-Playlist ist fertig. Ihr findet darin 12 ganz besondere Songs, die Euch die nächsten vier Wochen hoffentlich versüßen werden – egal wie das Wetter draußen ist.**
 
-Neben fantastischen Neuheiten von Ranges, Shy Low und Thrice, von denen Ihr vielleicht schon gehört habt, haben Valentin, Matze und ich auch ein paar echte Überraschungen für Euch vorbereitet. Viel Freude damit! Weiter unten findet Ihr wie gewohnt die fertigen Listen zum Abspielen bei iTunes und Spotify. 
+Neben fantastischen Neuheiten von Ranges, Shy, Low und Thrice, von denen Ihr vielleicht schon gehört habt, haben Valentin, Matze und ich auch ein paar echte Überraschungen für Euch vorbereitet. Viel Freude damit! Weiter unten findet Ihr wie gewohnt die fertigen Listen zum Abspielen bei iTunes und Spotify. 
 
 ## Ranges – "Deluge" vom Album "Cardinal Winds"
 
