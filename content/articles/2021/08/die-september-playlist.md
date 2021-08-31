@@ -7,8 +7,8 @@ subTitle: Ausgewählte Musik von Ranges bis Jerry Cantrell
 seoTitle: Die September-Playlist – ausgewählte Musik von Ranges bis Jerry Cantrell
 description: Die September-Playlist ist fertig. Ihr findet darin 12 ganz
   besondere Songs, die Euch die nächsten vier Wochen hoffentlich versüßen werden
-  – egal wie das Wetter draußen ist. Von Ranges über Shy, Low und Leprous bis
-  Thrice und Jerry Cantrell.
+  – egal wie das Wetter draußen ist. Von Ranges über Trent Reznor und Leprous
+  bis Thrice und Jerry Cantrell.
 image: /img/12-songs-september.jpg
 ogImage: /img/12-songs-september-fb.png
 labels:
@@ -56,7 +56,7 @@ language: de
 ---
 **Die September-Playlist ist fertig. Ihr findet darin 12 ganz besondere Songs, die Euch die nächsten vier Wochen hoffentlich versüßen werden – egal wie das Wetter draußen ist.**
 
-Neben fantastischen Neuheiten von Ranges, Shy, Low und Thrice, von denen Ihr vielleicht schon gehört habt, haben Valentin, Matze und ich auch ein paar echte Überraschungen für Euch vorbereitet. Viel Freude damit! Weiter unten findet Ihr wie gewohnt die fertigen Listen zum Abspielen bei iTunes und Spotify. 
+Neben fantastischen Neuheiten von Ranges, Trent Reznor und Thrice, von denen Ihr vielleicht schon gehört habt, haben Valentin, Matze und ich auch ein paar echte Überraschungen für Euch vorbereitet. Viel Freude damit! Weiter unten findet Ihr wie gewohnt die fertigen Listen zum Abspielen bei iTunes und Spotify. 
 
 ## Ranges – "Deluge" vom Album "Cardinal Winds"
 
