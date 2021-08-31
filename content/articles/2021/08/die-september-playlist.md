@@ -10,6 +10,7 @@ description: Die September-Playlist ist fertig. Ihr findet darin 12 ganz
   – egal wie das Wetter draußen ist. Von Ranges über Trent Reznor und Leprous
   bis Thrice und Jerry Cantrell.
 image: /img/12-songs-september.jpg
+copyrigt: ""
 ogImage: /img/12-songs-september-fb.png
 labels:
   - Ranges
@@ -49,6 +50,8 @@ labels:
   - Prog
   - Soen
   - Coheed & Cambria
+  - Nine Inch Nails
+  - Serie:Playlists
 focusKeyword: September-Playlist
 advertisement: false
 affiliate: false
@@ -92,7 +95,7 @@ Valentin:
 
 > "Diesen Monat stelle ich gleich zwei Songs von Lieblingskünstler⋆innen aus meiner Plattenkiste vor. Der erste kommt von Trent Reznor. Er hat sich für "True" mit Danny Elfman, den wir von seiner herausragenden Filmmusik für zahlreiche Hollywood-Filme (unter anderem "Batman" und "Mission: Impossible") kennen, zusammengetan. 
 > 
-> Auch Trent Reznor, den wir hauptsächlich durch Nine Inch Nails kennen, hat in den letzten Jahren (oft gemeinsam mit Atticus Ross) viele Soundtracks geschrieben und dadurch die moderne Filmmusik auf ein neues Level gehoben – nicht ohne Grund gab es dafür schon zweimal den Oscar. 
+> Auch Trent Reznor, den wir hauptsächlich durch [Nine Inch Nails](/tag/nine-inch-nails) kennen, hat in den letzten Jahren (oft gemeinsam mit Atticus Ross) viele Soundtracks geschrieben und dadurch die moderne Filmmusik auf ein neues Level gehoben – nicht ohne Grund gab es dafür schon zweimal den Oscar. 
 > 
 > Danny Elfman hat im Juni sein zweites Soloalbum "Big Mess" veröffentlicht. Es geht sehr in Richtung Industrial – ich kann es Euch sehr empfehlen. Auch "True" ist auf der Platte zu finden – in einer Version nur mit Dannys Stimme. Ich bin ja der Meinung, dass Trent da irgendwie noch gefehlt hat. Als Duett klingt der Song einfach noch ein gutes Stück düsterer und kraftvoller."
 
