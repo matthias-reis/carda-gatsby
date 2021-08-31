@@ -1,0 +1,58 @@
+---
+date: 2021-08-31T09:56:43.517Z
+slug: sternekoch-josef-centeno
+typeName: Beitrag
+title: Sternekoch ersetzt Käse durch vegane Alternativen
+subTitle: '"Vegan ist einfach besser"'
+seoTitle: Sternekoch ersetzt Käse durch vegane Alternativen – "Vegan ist einfach besser"
+description: Der Sternekoch Josef Centeno ersetzt in seinen Lokalen jetzt den
+  Käse durch vegane Alternativen. Das gab er vor ein paar Tagen bekannt. Die
+  pflanzliche Alternative ist in seinen Augen nicht nur die modernere, sondern
+  auch die bessere Wahl.
+excerpt: ""
+image: /img/sternekoch-josef-centeno.jpg
+copyrigt: Djedj, pixabay
+ogImage: /img/sternekoch-josef-centeno-fb.jpg
+labels:
+  - Restaurant
+  - vegane Käse-Alternativen
+  - Michelin-Stern
+  - Josef Centeno
+  - Käse
+  - Ernährung und Gesundheit
+focusKeyword: Sternekoch
+advertisement: false
+affiliate: false
+language: de
+---
+**Der Sternekoch Josef Centeno ersetzt in seinen Lokalen jetzt den Käse durch vegane Alternativen. Das gab er vor ein paar Tagen bekannt. Die pflanzliche Alternative ist in seinen Augen nicht nur die modernere, sondern auch die bessere Wahl.**
+
+Weil er findet, das pflanzliche Käse-Alternativen gesünder sind – für die Tiere, die Menschen und den Planeten – rät Josef Centeno auch allen anderen dazu, auf Dauer auf traditionellen Käse zu verzichten.
+
+In seiner Bar Amá in Los Angeles wird ab sofort die vegane Version von Käse serviert — besonders in den dort sehr populären tex-mexikanischen Gerichten ist Käse eine grundlegende Zutat. Statt verschiedener klassischer Käsesorten verarbeitet Josefs Team ab sofort unter anderem Mandel-Cheddar.
+
+## Sterne-Restaurants setzen auf vegan
+
+Josef Centeno wurde 2020 bei den James Beard Awards als bester Chefkoch nominiert. Sein Restaurant & Winston wurde mit einem Michelin-Stern ausgezeichnet.
+
+> "Nachdem ich verschiedene vegane Optionen ausprobiert hatte, wurde mir bewusst, dass es möglich ist, traditionellen Käse durch leckere pflanzliche Alternativen zu ersetzen. Egal, ob Gäste zu mir kommen, die keine Milchprodukte zu sich nehmen, vegan leben oder Vegetarier⋆innen sind: Ich freue mich darauf, ihnen auf meiner Speisekarte etwas anbieten zu können, dass sie ganz sicher nicht enttäuschen wird",
+
+berichtete der Restaurant-Chef, als er seine Entscheidung öffentlich machte.
+
+## Vegane Käse-Alternativen sind lecker und gut
+
+Das vegane Start-up So Delicious bietet Restaurants und Lebensmittel-Lieferdiensten in den USA kostenlose Proben an. Auf diesem Wege war auch Josef zu seiner Entscheidung gekommen.
+
+> "Ich möchte andere Restaurant-Betreiber⋆innen gerne dazu ermuntern, es selbst mal auszuprobieren. Ihr werdet sehen, dass Ihr Euren Gästen sollte Geschmacksrichtungen und unterschiedliche Sorten anbieten könnt, die sie lieben werden",
+
+erzählte er weiter.
+
+Zuletzt entscheiden sich immer mehr hochrangige Restaurants, vegane Lebensmittel auf ihre Speisekarten zu setzen. Zuletzt wurde sogar [dem veganen Lokal Origine Non Animale ein Michelin-Stern verliehen](/2021/01/michelin-stern-origine-non-animale/). Es ist also durchaus Veränderung spürbar – auch im manchmal etwas althergebracht wirkenden feineren Gastronomie-Sektor.
+
+## Veganes Restaurant bekommt Michelin-Stern
+
+Immer mehr Restaurant-Betreiber⋆innen machen sich Gedanken um Dinge wie Tierrechte und die Klimakrise. Das feine Lokal Gauthier Soho in London entfernte 2018 [Stopfleber](https://cardamonchai.com/2021/01/vogelgrippe-stopfleber/) von der Speisekarte, nachdem es zu weiteren Ausbrüchen der Vogelgrippe gekommen war. Vor dem Entschluss, das grausame Gericht zukünftig nicht mehr zu servieren, waren dort davon ganze 40 Pfund pro Woche über den Tresen gegangen. Anfang des Jahres eröffnete das Restaurant dann mit einem neuen Konzept neu: Die Speisekarte ist nun komplett vegan. Bislang hatte es dort lediglich ein wechselndes veganes Gericht gegeben (seit 2015).
+
+Dem positiven Beispiel schließen sich immer mehr Gastronom⋆innen an. Vegan ist also längst nicht mehr  nur am Falafel-Stand möglich.
+
+Bild/picture: [djedj](https://pixabay.com/photos/artichoke-vegetable-food-organic-3386681/), pixabay
