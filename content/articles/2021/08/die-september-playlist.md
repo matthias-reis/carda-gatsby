@@ -7,7 +7,8 @@ subTitle: ausgewählte Musik von Ranges bis Jerry Cantrell
 seoTitle: Die September-Playlist – ausgewählte Musik von Ranges bis Jerry Cantrell
 description: Die September-Playlist ist fertig. Ihr findet darin 12 ganz
   besondere Songs, die Euch die nächsten vier Wochen hoffentlich versüßen werden
-  – egal wie das Wetter draußen ist.
+  – egal wie das Wetter draußen ist. Von Ranges über Shy, Low und Leprous bis
+  Thrice und Jerry Cantrell.
 image: /img/12-songs-september.jpg
 ogImage: /img/12-songs-september-fb.png
 labels:
