@@ -43,16 +43,16 @@ berichtete der Restaurant-Chef, als er seine Entscheidung öffentlich machte.
 
 Das vegane Start-up So Delicious bietet Restaurants und Lebensmittel-Lieferdiensten in den USA kostenlose Proben an. Auf diesem Wege war auch Josef zu seiner Entscheidung gekommen.
 
-> "Ich möchte andere Restaurant-Betreiber⋆innen gerne dazu ermuntern, es selbst mal auszuprobieren. Ihr werdet sehen, dass Ihr Euren Gästen sollte Geschmacksrichtungen und unterschiedliche Sorten anbieten könnt, die sie lieben werden",
+> "Ich möchte andere Restaurant-Betreiber⋆innen gerne dazu ermuntern, es selbst mal auszuprobieren. Ihr werdet sehen, dass Ihr Euren Gästen tolle Geschmacksrichtungen und unterschiedliche Sorten anbieten könnt, die sie lieben werden",
 
 erzählte er weiter.
 
-Zuletzt entscheiden sich immer mehr hochrangige Restaurants, vegane Lebensmittel auf ihre Speisekarten zu setzen. Zuletzt wurde sogar [dem veganen Lokal Origine Non Animale ein Michelin-Stern verliehen](/2021/01/michelin-stern-origine-non-animale/). Es ist also durchaus Veränderung spürbar – auch im manchmal etwas althergebracht wirkenden feineren Gastronomie-Sektor.
+Immer mehr hochrangige Restaurants entscheiden sich dazu, vegane Lebensmittel auf ihre Speisekarten zu setzen. Zuletzt wurde sogar [dem veganen Lokal Origine Non Animale ein Michelin-Stern verliehen](/2021/01/michelin-stern-origine-non-animale/). Es ist also durchaus Veränderung spürbar – auch im manchmal etwas antiquiert wirkenden gehobenen Gastronomie-Sektor.
 
 ## Veganes Restaurant bekommt Michelin-Stern
 
-Immer mehr Restaurant-Betreiber⋆innen machen sich Gedanken um Dinge wie Tierrechte und die Klimakrise. Das feine Lokal Gauthier Soho in London entfernte 2018 [Stopfleber](https://cardamonchai.com/2021/01/vogelgrippe-stopfleber/) von der Speisekarte, nachdem es zu weiteren Ausbrüchen der Vogelgrippe gekommen war. Vor dem Entschluss, das grausame Gericht zukünftig nicht mehr zu servieren, waren dort davon ganze 40 Pfund pro Woche über den Tresen gegangen. Anfang des Jahres eröffnete das Restaurant dann mit einem neuen Konzept neu: Die Speisekarte ist nun komplett vegan. Bislang hatte es dort lediglich ein wechselndes veganes Gericht gegeben (seit 2015).
+Nach und nach machen sich mehr und mehr Restaurant-Betreiber⋆innen auch Gedanken um Dinge wie Tierrechte und die Klimakrise. Das feine Lokal Gauthier Soho in London entfernte 2018 [Stopfleber](https://cardamonchai.com/2021/01/vogelgrippe-stopfleber/) von der Speisekarte, nachdem es zu weiteren Ausbrüchen der Vogelgrippe gekommen war. Vor dem Entschluss, das grausame Gericht zukünftig nicht mehr zu servieren, waren dort davon ganze 40 Pfund pro Woche über den Tresen gegangen. Anfang des Jahres eröffnete das Restaurant dann mit einem neuen Konzept neu: Die Speisekarte ist nun komplett vegan. Bislang hatte es dort lediglich ein wechselndes veganes Gericht gegeben (seit 2015).
 
-Dem positiven Beispiel schließen sich immer mehr Gastronom⋆innen an. Vegan ist also längst nicht mehr  nur am Falafel-Stand möglich.
+Dem positiven Beispiel schließen sich immer mehr Gastronom⋆innen an. Vegan ist also längst nicht mehr nur am Falafel-Stand möglich.
 
 Bild/picture: [djedj](https://pixabay.com/photos/artichoke-vegetable-food-organic-3386681/), pixabay
