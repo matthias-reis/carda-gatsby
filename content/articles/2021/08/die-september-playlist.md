@@ -105,7 +105,7 @@ Valentin:
 
 Matze:
 
-> "Einar Stolberg hat seine Stimme auf klassische Art trainiert, auch, wenn sie, ähnlich wie die von Claudio Sanchez von Coheed & Cambria, die Ihr weiter unten in der Liste findet, recht hoch klingt. Das Album der Prog-Rocker aus Norwegen ist vielseitig. Es reiht sich perfekt in die Riege neuer europäischen Prog Bands wie Riverside und Pineapple Thief ein und tritt einen weiteren Schritt heraus aus dem härteren, progressiven Metal seiner Ursprünge."
+> "Einar Stolberg hat seine Stimme auf klassische Art trainiert, was ihn dennoch mit Claudio Sanchez von Coheed & Cambria, die Ihr weiter unten in der Liste findet, verbindet, ist dass er sich beim Singen eher der höheren Oktaven bedient. Das Album der Prog-Rocker aus Norwegen ist vielseitig. Es reiht sich perfekt in die Riege neuer europäischen Prog Bands wie Riverside und Pineapple Thief ein und holt das Genre einen weiteren Schritt heraus aus dem härteren, progressiven Metal seiner Ursprünge."
 
 <YouTube id="S7bOg3oercg" />
 
