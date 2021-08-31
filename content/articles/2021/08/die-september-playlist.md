@@ -3,7 +3,7 @@ date: 2021-08-31T13:01:05.202Z
 slug: playlist-september-2021
 typeName: Beitrag
 title: Die September-Playlist
-subTitle: ausgewählte Musik von Ranges bis Jerry Cantrell
+subTitle: Ausgewählte Musik von Ranges bis Jerry Cantrell
 seoTitle: Die September-Playlist – ausgewählte Musik von Ranges bis Jerry Cantrell
 description: Die September-Playlist ist fertig. Ihr findet darin 12 ganz
   besondere Songs, die Euch die nächsten vier Wochen hoffentlich versüßen werden
