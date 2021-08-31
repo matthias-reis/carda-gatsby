@@ -6,9 +6,9 @@ title: Sternekoch ersetzt Käse durch vegane Alternativen
 subTitle: '"Vegan ist einfach besser"'
 seoTitle: Sternekoch ersetzt Käse durch vegane Alternativen – "Vegan ist einfach besser"
 description: Der Sternekoch Josef Centeno ersetzt in seinen Lokalen jetzt den
-  Käse durch vegane Alternativen. Das gab er vor ein paar Tagen bekannt. Die
-  pflanzliche Alternative ist in seinen Augen nicht nur die modernere, sondern
-  auch die bessere Wahl.
+  Käse durch vegane Alternativen. Das gab er vor ein paar Tagen bekannt.
+  Pflanzlichen Alternativen sind in seinen Augen nicht nur die modernere,
+  sondern auch die bessere Wahl – aus vielen Gründen.
 excerpt: ""
 image: /img/sternekoch-josef-centeno.jpg
 copyrigt: Djedj, pixabay
@@ -25,9 +25,9 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Der Sternekoch Josef Centeno ersetzt in seinen Lokalen jetzt den Käse durch vegane Alternativen. Das gab er vor ein paar Tagen bekannt. Die pflanzliche Alternative ist in seinen Augen nicht nur die modernere, sondern auch die bessere Wahl.**
+**Der Sternekoch Josef Centeno ersetzt in seinen Lokalen jetzt den Käse durch vegane Alternativen. Das gab er vor ein paar Tagen bekannt. Pflanzliche Alternativen sind in seinen Augen nicht nur die modernere, sondern auch die bessere Wahl – aus vielen Gründen.**
 
-Weil er findet, das pflanzliche Käse-Alternativen gesünder sind – für die Tiere, die Menschen und den Planeten – rät Josef Centeno auch allen anderen dazu, auf Dauer auf traditionellen Käse zu verzichten.
+Weil er findet, das pflanzliche Käse-Alternativen gesünder sind – für die Tiere, die Menschen und den Planeten – rät Josef Centeno auch allen anderen dazu, auf Dauer [auf traditionellen Käse zu verzichten](/2014/11/suechtig-nach-kaese-casomorphine/).
 
 In seiner Bar Amá in Los Angeles wird ab sofort die vegane Version von Käse serviert — besonders in den dort sehr populären tex-mexikanischen Gerichten ist Käse eine grundlegende Zutat. Statt verschiedener klassischer Käsesorten verarbeitet Josefs Team ab sofort unter anderem Mandel-Cheddar.
 
