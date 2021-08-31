@@ -27,7 +27,7 @@ language: de
 ---
 **Der Sternekoch Josef Centeno ersetzt in seinen Lokalen jetzt den Käse durch vegane Alternativen. Das gab er vor ein paar Tagen bekannt. Pflanzliche Alternativen sind in seinen Augen nicht nur die modernere, sondern auch die bessere Wahl – aus vielen Gründen.**
 
-Weil er findet, das pflanzliche Käse-Alternativen gesünder sind – für die Tiere, die Menschen und den Planeten – rät Josef Centeno auch allen anderen dazu, auf Dauer [auf traditionellen Käse zu verzichten](/2014/11/suechtig-nach-kaese-casomorphine/).
+Weil er findet, das pflanzliche Käse-Alternativen gesünder sind – für die Tiere, die Menschen und den Planeten – rät Josef Centeno auch allen anderen dazu, auf Dauer auf traditionellen Käse zu verzichten.
 
 In seiner Bar Amá in Los Angeles wird ab sofort die vegane Version von Käse serviert — besonders in den dort sehr populären tex-mexikanischen Gerichten ist Käse eine grundlegende Zutat. Statt verschiedener klassischer Käsesorten verarbeitet Josefs Team ab sofort unter anderem Mandel-Cheddar.
 
@@ -35,7 +35,7 @@ In seiner Bar Amá in Los Angeles wird ab sofort die vegane Version von Käse se
 
 Josef Centeno wurde 2020 bei den James Beard Awards als bester Chefkoch nominiert. Sein Restaurant & Winston wurde mit einem Michelin-Stern ausgezeichnet.
 
-> "Nachdem ich verschiedene vegane Optionen ausprobiert hatte, wurde mir bewusst, dass es möglich ist, traditionellen Käse durch leckere pflanzliche Alternativen zu ersetzen. Egal, ob Gäste zu mir kommen, die keine Milchprodukte zu sich nehmen, vegan leben oder Vegetarier⋆innen sind: Ich freue mich darauf, ihnen auf meiner Speisekarte etwas anbieten zu können, dass sie ganz sicher nicht enttäuschen wird",
+> "Nachdem ich verschiedene vegane Optionen ausprobiert hatte, wurde mir bewusst, dass es möglich ist, [traditionellen Käse](/2014/11/suechtig-nach-kaese-casomorphine/) durch leckere pflanzliche Alternativen zu ersetzen. Egal, ob Gäste zu mir kommen, die keine Milchprodukte zu sich nehmen, vegan leben oder Vegetarier⋆innen sind: Ich freue mich darauf, ihnen auf meiner Speisekarte etwas anbieten zu können, dass sie ganz sicher nicht enttäuschen wird",
 
 berichtete der Restaurant-Chef, als er seine Entscheidung öffentlich machte.
 
@@ -51,7 +51,7 @@ Immer mehr hochrangige Restaurants entscheiden sich dazu, vegane Lebensmittel au
 
 ## Veganes Restaurant bekommt Michelin-Stern
 
-Nach und nach machen sich mehr und mehr Restaurant-Betreiber⋆innen auch Gedanken um Dinge wie Tierrechte und die Klimakrise. Das feine Lokal Gauthier Soho in London entfernte 2018 [Stopfleber](https://cardamonchai.com/2021/01/vogelgrippe-stopfleber/) von der Speisekarte, nachdem es zu weiteren Ausbrüchen der Vogelgrippe gekommen war. Vor dem Entschluss, das grausame Gericht zukünftig nicht mehr zu servieren, waren dort davon ganze 40 Pfund pro Woche über den Tresen gegangen. Anfang des Jahres eröffnete das Restaurant dann mit einem neuen Konzept neu: Die Speisekarte ist nun komplett vegan. Bislang hatte es dort lediglich ein wechselndes veganes Gericht gegeben (seit 2015).
+Nach und nach machen sich mehr und mehr Restaurant-Betreiber⋆innen auch Gedanken um Dinge wie Tierrechte und die Klimakrise. Das feine Lokal Gauthier Soho in London entfernte 2018 [Stopfleber](/2021/01/vogelgrippe-stopfleber/) von der Speisekarte, nachdem es zu weiteren Ausbrüchen der Vogelgrippe gekommen war. Vor dem Entschluss, das grausame Gericht zukünftig nicht mehr zu servieren, waren dort davon ganze 40 Pfund pro Woche über den Tresen gegangen. Anfang des Jahres eröffnete das Restaurant dann mit einem neuen Konzept neu: Die Speisekarte ist nun komplett vegan. Bislang hatte es dort lediglich ein wechselndes veganes Gericht gegeben (seit 2015).
 
 Dem positiven Beispiel schließen sich immer mehr Gastronom⋆innen an. Vegan ist also längst nicht mehr nur am Falafel-Stand möglich.
 
