@@ -134,7 +134,7 @@ Valentin:
 
 Matze:
 
-> "Thrice haben schon viele Highlight-Titel (und Alben!) in meine Sammlung gelegt. In letzter Zeit fand ich sie etwas schwächer, doch jetzt melden sie sich wieder mit etwas ganz Neuem zurück – zwei vielversprechende Singles gibt es schon. "Robot Soft Exorcism" ist die etwas untypischere der beiden. Dennoch enthält sie alles, was wir an Thrice so lieben – die perfekte Balance aus ausdrucksstarker Stimme, Instrumentalkunst und Dramatik"
+> "Thrice haben schon viele Highlight-Titel (und Alben!) in meine Sammlung gelegt. In letzter Zeit fand ich sie etwas schwächer, doch jetzt melden sie sich wieder mit etwas ganz Neuem zurück – zwei vielversprechende Singles gibt es schon. "Robot Soft Exorcism" ist die etwas untypischere der beiden. Dennoch enthält sie alles, was wir an Thrice so lieben – die perfekte Balance zwischen ausdrucksstarker Stimme, Instrumentalkunst und Dramatik"
 
 <YouTube id="SsRjJ0BrbVI" />
 
