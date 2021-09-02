@@ -79,7 +79,7 @@ Nach "Hiraeth" von 2015 und der "Burning Day" EP (und einem Holy Fawn Remix im J
 
 Für seine neue Platte hat der Chicagoer Musiker Luca Cimarusti aka Annihilus sich eine Menge toller Künstler⋆innen ins Boot geholt. "The Grand Illusion" ist der düstere und tiefgründige Auftakt eines großartigen Albums. Für Fans von emotionsgeladenem (Post-)Black Metal
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4056486130/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2071712968/transparent=true/" seamless><a href="https://annihilus-sounds.bandcamp.com/album/follow-a-song-from-the-sky">Follow a Song From the Sky by Annihilus</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4056486130/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2071712968/transparent=true/" seamless><a href="https://annihilus-sounds.bandcamp.com/album/follow-a-song-from-the-sky">Follow a Song From the Sky by Annihilus</a></iframe>
 
 ## Unreqvited – "Autumn & Everly" vom Album "Beautiful Ghosts"
 
@@ -87,7 +87,7 @@ Unreqvited Gründer 鬼 (Das bedeutet übrigens soviel wie "Geist") hat sich mit
 
 Für Fans von atmosphärischem Black Metal, Black Gaze, Post-Metal und allen Arten nachdenklicher Musik.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=928343835/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2443967384/transparent=true/" seamless><a href="https://unreqvited.bandcamp.com/album/beautiful-ghosts">Beautiful Ghosts by Unreqvited</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=928343835/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2443967384/transparent=true/" seamless><a href="https://unreqvited.bandcamp.com/album/beautiful-ghosts">Beautiful Ghosts by Unreqvited</a></iframe>
 
 ## Danny Elfman & Trent Reznor – "True" (Single)
 
