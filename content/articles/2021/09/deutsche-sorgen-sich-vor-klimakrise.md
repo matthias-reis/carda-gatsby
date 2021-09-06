@@ -56,8 +56,10 @@ Insgesamt gehört COVID-19 mit 37 Prozent klar zu den größten Sorgen-Themen de
 
 In 19 der insgesamt 28 befragten Ländern stiegen die Angst vor Corona zuletzt wieder an. Die größte Steigerung haben die USA mit 15 Prozent zu verbuchen. Insgesamt liegt die Zahl dort jetzt bei 40 Prozent.
 
-Das Ipsos Online Panel-System hat die aktuelle Umfrage zwischen dem 23. Juli und dem 6. August durchgeführt. Dabei wurden 19.010 Erwachsene im Alter von 18 bis 74 Jahren in den Israel, Kanada, Malaysia, Südafrika, der Türkei und den USA und zwischen 16 und 74 Jahren in den anderen teilnehmenden Ländern befragt. Um dem Profil der Bevölkerung zu entsprechen wurden die Daten gewichtet. Ispos möchte mit der unabhängigen Studie weltweit zu einem besseren Verständnis der Menschen beitragen. Sie erfolgt monatlich ohne externe Sponsoren oder Partner⋆innen. Das Marktforschungsinstitut wurde 1975 in Paris gegründet.
+Das Ipsos Online Panel-System[^1] hat die aktuelle Umfrage zwischen dem 23. Juli und dem 6. August durchgeführt. Dabei wurden 19.010 Erwachsene im Alter von 18 bis 74 Jahren in den Israel, Kanada, Malaysia, Südafrika, der Türkei und den USA und zwischen 16 und 74 Jahren in den anderen teilnehmenden Ländern befragt. Um dem Profil der Bevölkerung zu entsprechen wurden die Daten gewichtet. Ispos möchte mit der unabhängigen Studie weltweit zu einem besseren Verständnis der Menschen beitragen. Sie erfolgt monatlich ohne externe Sponsoren oder Partner⋆innen. Das Marktforschungsinstitut wurde 1975 in Paris gegründet.
 
 ## Vegan fürs Klima
 
 Durch den stärkeren Fokus auf die Klimakrise sind immer mehr Menschen bewusst, sich vegan zu ernähren, auf Flugreisen zu verzichten und mit dem Fahrrad statt mit dem Auto zu fahren. Dazu gibt es hier in Kürze wieder mehr.
+
+[^4]: [Ipsos: "Klimawandel: Deutsche noch nie so besorgt"](https://www.ipsos.com/de-de/klimawandel-deutsche-noch-nie-so-besorgt)
