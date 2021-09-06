@@ -46,7 +46,7 @@ Auf der ganzen Welt gehört der Klimawandel im Moment nur für 15 Prozent aller 
 
 ## Die Deutschen haben Angst vor der Klimakatastrophe, Armut und Corona
 
-Die größten Sorgen bereiten uns in Deutschland neben der Klimakatastrophe Armut und soziale Ungerechtigkeit (hier wurde ein Plus von drei Prozent verzeichnet. Der aktuelle Wert liegt bei 38 Prozent) und Corona (auch hier gibt es einen Zuwachs von zwei Prozent im Vergleich zum Vormonat. Der Wert liegt damit bei 37 Prozent).
+Die größten Sorgen bereiten uns in Deutschland neben der Klimakatastrophe Armut, soziale Ungerechtigkeit (hier wurde ein Plus von drei Prozent verzeichnet. Der aktuelle Wert liegt bei 38 Prozent) und Corona (auch hier gibt es einen Zuwachs von zwei Prozent im Vergleich zum Vormonat. Der Wert liegt damit bei 37 Prozent).
 
 Betrachtet man den globalen Durchschnitt, machen sich nur rund zehn Prozent Sorgen wegen möglicher Umweltbelastungen. Insgesamt werden andere Problemfelder (Hunger, Krieg, Armut, Flucht, Kriminalität, Gewalt, Arbeitslosigkeit) als dringlicher wahrgenommen. [Wie viele sich davon bereits aus dem Klimawandel ergeben und in Zukunft daraus ergeben werden](/2020/07/handeln-statt-hoffen-carola-rackete/), lässt die Studie offen.
 
