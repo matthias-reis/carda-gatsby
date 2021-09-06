@@ -43,7 +43,7 @@ Was außerdem auffällt, ist, dass sich in keinem anderen Land die Menschen so g
 Australien und Kanada befinden sich mit jeweils 31 Prozent auf Platz zwei und drei der Klima-bewussten Nationen. Die auch stark von den Fluten gebeutelten Niederlande und Belgien folgen mit 28 und 27 Prozent. In den Niederlanden ging der Wert um vier Prozent nach oben, in Belgien um sieben Prozent.
 
 Auf der ganzen Welt gehört der Klimawandel im Moment nur für 15 Prozent aller befragten Personen zu den drängendsten Problemen innerhalb des eigenen Landes. In vielen Ländern wird die drohende Langzeit-Katastrophe innerhalb der Gesellschaft noch kaum als wichtiges Sorgen-Thema wahrgenommen. In Argentinien gaben beispielsweise gerade mal drei Prozent an, sich von den Auswirkungen des Klimawandels bedroht zu fühlen. In Kolumbien waren es vier Prozent und in Peru ebenfalls drei Prozent. Dabei fällt auf, dass die Menschen in diesen Ländern ganz akut mit vielen anderen Problemen zu tun haben. Dass die globale Bedrohung dabei nicht auf Platz eins der Tagesordnungs-Punkte steht, ist nur allzu verständlich.
- 
+
 ## Die Deutschen haben Angst vor der Klimakatastrophe, Armut und Corona
 
 Die größten Sorgen bereiten uns in Deutschland neben der Klimakatastrophe Armut und soziale Ungerechtigkeit (hier wurde ein Plus von drei Prozent verzeichnet. Der aktuelle Wert liegt bei 38 Prozent) und Corona (auch hier gibt es einen Zuwachs von zwei Prozent im Vergleich zum Vormonat. Der Wert liegt damit bei 37 Prozent).
@@ -51,6 +51,8 @@ Die größten Sorgen bereiten uns in Deutschland neben der Klimakatastrophe Armu
 Betrachtet man den globalen Durchschnitt, machen sich nur rund zehn Prozent Sorgen wegen möglicher Umweltbelastungen. Insgesamt werden andere Problemfelder (Hunger, Krieg, Armut, Flucht, Kriminalität, Gewalt, Arbeitslosigkeit) als dringlicher wahrgenommen. Wie viele sich davon bereits aus dem Klimawandel ergeben und in Zukunft daraus ergeben werden, lässt die Studie offen.
 
 Insgesamt gehört COVID-19 mit 37 Prozent klar zu den größten Sorgen-Themen der Weltbevölkerung. Im Vergleich zum letzten Monat ist die Zahl um ein Prozent gestiegen. Die größte Angst vor der Pandemie herrscht aktuell mit 83 Prozent in Malaysia. In Japan sind es 63 Prozent und in Südkorea 59 Prozent.
+
+![Die fünf größten Sorgen der Deutschen im globalen Vergleich.](/img/klimakrise-ipsos-grafik.jpg "Die fünf größten Sorgen der Deutschen im globalen Vergleich. | large")
 
 ## Die Angst vor COVID-19 wächst weltweit
 
