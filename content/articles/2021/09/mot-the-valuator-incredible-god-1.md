@@ -33,7 +33,7 @@ languageLink: /2021/09/ox-en-mayo-alto-mot-the-valuator-incredible-god/
 
 The band still acts as "artists unknown", hiding their faces behind masks like they did with their first record. However, the mystery surrounding the individuals behind the instruments make the musical experience a really special one – Who could be the ones hiding behind the fantasy avatars?
 
-## Ox en Mayo Alto – five songs from another world
+## Five songs from another world
 
 The five songs on the current record are called "Bläterfall", "Sa voix, virtus dormitiva", "Sideneo 4 y los Pilares del Alba", "De Civitate Dei" and "La Ilamada". You can already consume them on Spotify or, even better: on video.
 
