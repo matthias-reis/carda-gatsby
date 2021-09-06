@@ -5,10 +5,9 @@ typeName: Review
 title: '"Mot, the Valuator, Incredible God"'
 subTitle: New EP By Ox en Mayo Alto
 seoTitle: '"Mot, the Valuator, Incredible God" – New EP By Ox en Mayo Alto'
-description: Ox en Mayo Alto just released a new EP!  "Mot, the Valuator,
-  Incredible God" is no less spectacular than its predecessor "Los famosos días
-  de la fiebre" and it also tells a big story. The band still acts as "artists
-  unknown", hiding their faces behind masks like they with their first record.
+description: The mathcore/post-rock band Ox en Mayo Alto just released a new
+  EP!  "Mot, the Valuator, Incredible God" is no less spectacular than its
+  predecessor "Los famosos días de la fiebre" and it also tells a big story.
 image: /img/white-house-stag.jpg
 copyrigt: Ox en Mayo Alto
 ogImage: /img/ox-en-mayo-alto.png
@@ -30,7 +29,7 @@ affiliate: false
 language: en
 languageLink: /2021/09/ox-en-mayo-alto-mot-the-valuator-incredible-god/
 ---
-**Ox en Mayo Alto just released a new EP!  "Mot, the Valuator, Incredible God" is no less spectacular than its predecessor "Los famosos días de la fiebre" and it also tells a big story.**
+**The mathcore/post-rock band Ox en Mayo Alto just released a new EP!  "Mot, the Valuator, Incredible God" is no less spectacular than its predecessor "Los famosos días de la fiebre" and it also tells a big story.**
 
 The band still acts as "artists unknown", hiding their faces behind masks like they with their first record. However, the mystery surrounding the individuals behind the instruments make the musical experience a really special one – Who could be the ones hiding behind the fantasy avatars?
 
