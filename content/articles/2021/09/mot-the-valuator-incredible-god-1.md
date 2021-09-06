@@ -39,7 +39,7 @@ The five songs on the current record are called "Bläterfall", "Sa voix, virtus 
 
 ![Ox en Mayo Alto](/img/fox.jpg "Ox en Mayo Alto")
 
-The first audiovisual EP by Ox en Mayo Alto was already an experience –the second one is also a real treat. When looking at the pictures, you get the feeling of following a wonderful fairy tale, just like with "Los famosos días de la fiebre" – this time it is about the arrival of a great fish god on earth.
+The first audiovisual EP by Ox en Mayo Alto was already an experience – the second one is also a real treat. When looking at the pictures, you get the feeling of following a wonderful fairy tale, just like with "Los famosos días de la fiebre" – this time it is about the arrival of a great fish god on earth.
 
 ## The arrival of the fish god
 
