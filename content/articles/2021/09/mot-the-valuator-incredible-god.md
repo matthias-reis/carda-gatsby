@@ -5,11 +5,11 @@ typeName: Review
 title: '"Mot, the Valuator, Incredible God"'
 subTitle: Die neue EP von Ox en Mayo Alto
 seoTitle: '"Mot, the Valuator, Incredible God" – Die neue EP von Ox en Mayo Alto'
-description: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famoses días de
+description: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de
   la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible
   God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder
   eine Geschichte.
-excerpt: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famoses días de la
+excerpt: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la
   fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible
   God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder
   eine Geschichte. Die Band zeigt sich nach wie vor bedeckt – die Künstler⋆innen
@@ -35,7 +35,7 @@ affiliate: false
 language: de
 languageLink: /2021/08/ox-en-mayo-alto-mot-the-valuator-incredible-god-en/
 ---
-**Ox en Mayo Alto haben neue Musik für uns! Nach "Los famoses días de la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder eine Geschichte.**
+**Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder eine Geschichte.**
 
 Die Band zeigt sich nach wie vor bedeckt – die Künstler⋆innen verbergen ihre Gesichter auch beim neuen Werk wieder hinter Masken. Das Mysterium um die Individuen hinter den Instrumenten machen das Musikerlebnis besonders – wer könnte sich hinter den fantasievollen Gestalten verbergen?
 
@@ -45,7 +45,7 @@ Die insgesamt fünf Songs auf der aktuellen Platte heißen "Bläterfall", "Sa vo
 
 ![Ox en Mayo Alto](/img/fox.jpg "Ox en Mayo Alto")
 
-Schon die erste audiovisuelle EP von Ox en Mayo Alto war ein Erlebnis – auch die zweite ist ein echter Genuss. Beim Betrachten der Bilder bekommt man genau wie bei "Los famoses días de la fiebre" das Gefühl einem wunderbaren Märchen zu folgen.
+Schon die erste audiovisuelle EP von Ox en Mayo Alto war ein Erlebnis – auch die zweite ist ein echter Genuss. Beim Betrachten der Bilder bekommt man genau wie bei "Los famosos días de la fiebre" das Gefühl einem wunderbaren Märchen zu folgen.
 
 Dieses Mal handelt es von der Ankunft eines großen Fischgottes auf der Erde.
 
@@ -79,7 +79,7 @@ Es folgt: Mein Lieblings-Akt der Oper: "De Civitate Dei". Eine kleine Vulkaninse
 
 Für das Genre eher untypisch sind die kurzen Songs – "Sa voix, virtus dormitiva" ist mit 2:36 der längste auf der EP.
 
-Ich persönlich habe ja ein bisschen das Gefühl, das uns hier bald noch etwas Größeres erwartet. "Mot, the Valuator, Incredible God" fühlt sich wie ein äußerst gelungener Teaser an – das Portal in eine grandiose Fantasiewelt, das sich hoffentlich bald wieder öffnet. Bis es so weit ist, hören wir am besten "Mot, the Valuator, Incredible God" und den Vorgänger ["Los famoses días de la fiebre"](/2020/09/ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review/) hoch und runter und träumen uns hinter den Vorhang.
+Ich persönlich habe ja ein bisschen das Gefühl, das uns hier bald noch etwas Größeres erwartet. "Mot, the Valuator, Incredible God" fühlt sich wie ein äußerst gelungener Teaser an – das Portal in eine grandiose Fantasiewelt, das sich hoffentlich bald wieder öffnet. Bis es so weit ist, hören wir am besten "Mot, the Valuator, Incredible God" und den Vorgänger ["Los famosos días de la fiebre"](/2020/09/ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review/) hoch und runter und träumen uns hinter den Vorhang.
 
 Die Reihenfolge der Songs ist übrigens bei den Streaming-Diensten ein bisschen anders, als im Video. Bei genauem Hinhören werdet Ihr feststellen, dass sie ohne das Bildmaterial so ein komplett anderes Gesamtbild ergeben – die Puzzlestücke fügen sich an anderen Stellen perfekt ein und harmonisieren mit dem Rest des Kunstwerks. 
 
