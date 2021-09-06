@@ -52,7 +52,7 @@ Betrachtet man den globalen Durchschnitt, machen sich nur rund zehn Prozent Sorg
 
 Insgesamt gehört COVID-19 mit 37 Prozent klar zu den größten Sorgen-Themen der Weltbevölkerung. Im Vergleich zum letzten Monat ist die Zahl um ein Prozent gestiegen. Die größte Angst vor der Pandemie herrscht aktuell mit 83 Prozent in Malaysia. In Japan sind es 63 Prozent und in Südkorea 59 Prozent.
 
-![Die fünf größten Sorgen der Deutschen im globalen Vergleich.](/img/klimakrise-ipsos-grafik.jpg "Die fünf größten Sorgen der Deutschen im globalen Vergleich. | large")
+![Die fünf größten Sorgen der Deutschen im globalen Vergleich.](/img/klimakrise-ipsos-grafik.jpg "Die fünf größten Sorgen der Deutschen im globalen Vergleich.")
 
 ## Die Angst vor COVID-19 wächst weltweit
 
