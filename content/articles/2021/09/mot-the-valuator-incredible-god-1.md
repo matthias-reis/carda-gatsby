@@ -71,6 +71,6 @@ The short songs are rather untypical for this genre – With its 2:36, "Sa voix,
 
 I have the feeling that something even more extensive might be coming soon. "Mot, the Valuator, Incredible God" feels like a very exciting teaser – the portal into a marvellous fantasy world that will hopefully open again soon. Until then, we should listen to "Mot, the Valuator, Incredible God" and its predecessor "Los famosos días de la fiebre" constantly to dream ourselves behind the curtain whenever we feel like it.
 
-By the way: On the streaming platforms, the order of songs is slightly different from in the video. If you listen closely, you'll notice that they create an entirely different overall picture without the visuals - the pieces of the puzzle fit in perfectly in different places harmonising with the rest of the artwork. 
+By the way: On the streaming platforms, the order of songs is slightly different from in the video. If you listen closely, you'll notice that they create an entirely different overall picture without the visuals – the pieces of the puzzle fit in perfectly in different places harmonising with the rest of the artwork. 
 
 <YouTube id="M5nTMbdOf4w" />
