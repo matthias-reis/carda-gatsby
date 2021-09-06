@@ -9,6 +9,11 @@ description: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famoses días 
   la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible
   God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder
   eine Geschichte.
+excerpt: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famoses días de la
+  fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible
+  God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder
+  eine Geschichte. Die Band zeigt sich nach wie vor bedeckt – die Künstler⋆innen
+  verbergen ihre Gesichter auch beim neuen Werk wieder hinter Masken.
 image: /img/white-house-stag.jpg
 copyrigt: Ox en Mayo Alto
 ogImage: /img/ox-en-mayo-alto.png
