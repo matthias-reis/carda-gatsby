@@ -49,9 +49,7 @@ Schon die erste audiovisuelle EP von Ox en Mayo Alto war ein Erlebnis – auch d
 
 ## Die Ankunft des Fischgottes
 
-Die Argentinier⋆innen beweisen mit dem perfekten Zusammenspiel aus Bildern und Ton mal wieder ihre schier grenzenlose Kreativität.
-
-Die Regie führte Camila Kutscher, alle anderen am Projekt Beteiligten bleiben weiterhin anonym.
+Die Argentinier⋆innen beweisen mit dem perfekten Zusammenspiel aus Bildern und Ton mal wieder ihre schier grenzenlose Kreativität. Die Regie führte Camila Kutscher, alle anderen am Projekt Beteiligten bleiben weiterhin anonym.
 
 Auf einen kurzen mystischen Auftakt folgt das erste Kapitel. "Sa voix, virtus dormitiva" ist ein klangvolles Post-Rock Stück – Spoken Lyrics und Gitarrenwand inklusive.
 
