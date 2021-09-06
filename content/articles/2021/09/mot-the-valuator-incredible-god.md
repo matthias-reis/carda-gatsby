@@ -57,7 +57,7 @@ Auf einen kurzen mystischen Auftakt folgt das erste Kapitel. "Sa voix, virtus do
 
 Das zweite Kapitel "La Ilamada" beginnt hauchzart. Geflüstert Zeilen kündigen den Auftritt des Fischgottes an. Ein Reh huscht durch einen Wald. Die Bilder sind gewaltig und fragil zugleich. Sie scheinen aus einer anderen Zeit zu stammen und bilden mit der verspielten Musik ein farbenfrohes und zugleich nachdenkliches Gesamtkunstwerk. 
 
-Die Erde von oben. Die Tiere, die sie bewohnen und die drohende Zerstörung dieser Wunderwelt durch uns Menschen. Sie schwebt wie ein Damoklesschwert über allem, wird jedoch nicht ausgesprochen – dennoch schwingt sie in jeder Note mit.
+Wir sehen die Erde von oben. Die Tiere, die sie bewohnen und die drohende Zerstörung dieser Wunderwelt durch uns Menschen. Sie schwebt wie ein Damoklesschwert über allem, wird jedoch nicht ausgesprochen – dennoch schwingt sie in jeder Note mit.
 
 ## Die Geschichte der Erde
 
