@@ -45,9 +45,7 @@ Die insgesamt fünf Songs auf der aktuellen Platte heißen "Bläterfall", "Sa vo
 
 ![Ox en Mayo Alto](/img/fox.jpg "Ox en Mayo Alto")
 
-Schon die erste audiovisuelle EP von Ox en Mayo Alto war ein Erlebnis – auch die zweite ist ein echter Genuss. Beim Betrachten der Bilder bekommt man genau wie bei "Los famosos días de la fiebre" das Gefühl einem wunderbaren Märchen zu folgen.
-
-Dieses Mal handelt es von der Ankunft eines großen Fischgottes auf der Erde.
+Schon die erste audiovisuelle EP von Ox en Mayo Alto war ein Erlebnis – auch die zweite ist ein echter Genuss. Beim Betrachten der Bilder bekommt man genau wie bei "Los famosos días de la fiebre" das Gefühl einem wunderbaren Märchen zu folgen. Dieses Mal handelt es von der Ankunft eines großen Fischgottes auf der Erde.
 
 ## Die Ankunft des Fischgottes
 
