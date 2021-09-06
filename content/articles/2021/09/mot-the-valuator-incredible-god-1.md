@@ -28,7 +28,7 @@ focusKeyword: Ox en Mayo Alto
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2021/08/ox-en-mayo-alto-mot-the-valuator-incredible-god/
+languageLink: /2021/09/ox-en-mayo-alto-mot-the-valuator-incredible-god/
 ---
 **Ox en Mayo Alto just released a new EP!  "Mot, the Valuator, Incredible God" is no less spectacular than its predecessor "Los famosos días de la fiebre" and it also tells a big story.**
 
