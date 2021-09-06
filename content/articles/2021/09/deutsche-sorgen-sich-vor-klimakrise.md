@@ -62,6 +62,6 @@ Das Ipsos Online Panel-System[^1] hat die aktuelle Umfrage zwischen dem 23. Juli
 
 ## Vegan fürs Klima
 
-Durch den stärkeren Fokus auf die Klimakrise sind immer mehr Menschen bereit, sich vegan zu ernähren, auf Flugreisen zu verzichten und mit dem Fahrrad statt mit dem Auto zu fahren. Dazu gibt es hier in Kürze wieder mehr.
+Durch den stärkeren Fokus auf die Klimakrise sind immer mehr Menschen bereit, vegan zu leben, auf Flugreisen zu verzichten und mit dem Fahrrad statt mit dem Auto zu fahren. Dazu gibt es hier in Kürze wieder mehr.
 
 [^4]: [Ipsos: "Klimawandel: Deutsche noch nie so besorgt"](https://www.ipsos.com/sites/default/files/ct/news/documents/2021-09/World%20Worries_Country%20Report%20Germany_08-2021.pdf)
