@@ -63,13 +63,13 @@ Wir sehen die Erde von oben. Die Tiere, die sie bewohnen und die drohende Zerst�
 
 Der Himmel verdunkelt sich. Eine Pforte tut sich auf und gibt das Universum frei. "Bläterfall" zeigt die Entstehung neuen Lebens unter dem Mikroskop. Der Sound dazu ist mehr als nur eine Begleitung. Auf fast leicht und luftig wirkende Sequenzen folgt ein weiterer Höhepunkt mit Gesang. Ein schöner Moment, der kurz andeutet, welche Kraft und Härte hier dahinter steckt, um dann gleich wieder sanft davonzuschweben. Wie eine der großen Stimmen des Soul auf Instrumente übertragen – würde sie ihr volles Potenzial ausschöpfen, würden uns die überwältigenden Gefühle und die Gänsehaut den Verstand rauben.
 
-![Ox en Mayo Alto](/img/mot.jpg "Ox en Mayo Alto")
-
 Auch, wenn die verfügbare Power nicht voll ausgeschöpft wird, arbeiten Ox en Mayo Alto keineswegs auf Sparflamme. Wer auch immer hinter dieser Band steckt, weiß, wie Post-Rock funktioniert und wie Instrumente bedient werden.
 
 ## Präzision und musikalische Vielfalt
 
 Es folgt: Mein Lieblings-Akt der Oper: "De Civitate Dei". Eine kleine Vulkaninsel im Ozean, eingebettet in pink-violettes Licht. Der Sound wird düsterer. Er erzählt die gesamte Menschheitsgeschichte. Oder die einer Welt, in der es uns nie gegeben hat?
+
+![Ox en Mayo Alto](/img/mot.jpg "Ox en Mayo Alto")
 
 "Sideneo 4 y los Pilares del Alba" führt am Ende alle Erzählstränge zusammen. Das Stück bringt Math-Rock-Power und Präzision. Das Schlagzeug beeindruckt mich hier besonders.
 
