@@ -75,7 +75,7 @@ Es folgt: Mein Lieblings-Akt der Oper: "De Civitate Dei". Eine kleine Vulkaninse
 
 Für das Genre eher untypisch sind die kurzen Songs – "Sa voix, virtus dormitiva" ist mit 2:36 der längste auf der EP.
 
-Ich persönlich habe ja ein bisschen das Gefühl, das uns hier bald noch etwas Größeres erwartet. "Mot, the Valuator, Incredible God" fühlt sich wie ein äußerst gelungener Teaser an – das Portal in eine grandiose Fantasiewelt, das sich hoffentlich bald wieder öffnet. Bis es so weit ist, hören wir am besten "Mot, the Valuator, Incredible God" und den Vorgänger ["Los famosos días de la fiebre"](/2020/09/ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review/) hoch und runter und träumen uns hinter den Vorhang.
+Ich persönlich habe ja ein bisschen das Gefühl, das uns hier bald noch etwas Größeres erwartet. "Mot, the Valuator, Incredible God" fühlt sich wie ein äußerst gelungener Teaser an – das Portal in eine grandiose Fantasiewelt, das sich hoffentlich bald wieder öffnet. Bis es so weit ist, hören wir am besten "Mot, the Valuator, Incredible God" und den Vorgänger ["Los famosos días de la fiebre"](/2020/09/ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review/) hoch und runter und träumen uns hinter den Vorhang wann immer uns danach ist.
 
 Die Reihenfolge der Songs ist übrigens bei den Streaming-Diensten ein bisschen anders, als im Video. Bei genauem Hinhören werdet Ihr feststellen, dass sie ohne das Bildmaterial so ein komplett anderes Gesamtbild ergeben – die Puzzlestücke fügen sich an anderen Stellen perfekt ein und harmonisieren mit dem Rest des Kunstwerks. 
 
