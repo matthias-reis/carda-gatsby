@@ -43,9 +43,7 @@ The first audiovisual EP by Ox en Mayo Alto was already an experience – the se
 
 ## The arrival of the fish god
 
-With their perfect interplay of images and sound, the musicians from Argentinia are proving their limitless-seaming creativity once again.
-
-Camila Kutscher directed the video – everyone else involved in the project remains anonymous.
+With their perfect interplay of images and sound, the musicians from Argentinia are proving their limitless-seaming creativity once again. Camila Kutscher directed the video – everyone else involved in the project remains anonymous.
 
 The first chapter follows a short mystical prelude. "Sa voix, virtus dormitiva" is a remarkable post-rock piece – spoken lyrics and guitar wall included.
 
