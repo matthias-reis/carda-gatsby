@@ -71,7 +71,7 @@ Es folgt: Mein Lieblings-Akt der Oper: "De Civitate Dei". Eine kleine Vulkaninse
 
 ![Ox en Mayo Alto](/img/mot.jpg "Ox en Mayo Alto")
 
-"Sideneo 4 y los Pilares del Alba" führt am Ende alle Erzählstränge zusammen. Das Stück bringt Math-Rock-Power und Präzision. Das Schlagzeug beeindruckt mich hier besonders.
+"Sideneo 4 y los Pilares del Alba" führt am Ende alle Erzählstränge zusammen. Das Stück bringt Math-Rock Power und Präzision. Das Schlagzeug beeindruckt mich hier besonders.
 
 Für das Genre eher untypisch sind die kurzen Songs – "Sa voix, virtus dormitiva" ist mit 2:36 der längste auf der EP.
 
