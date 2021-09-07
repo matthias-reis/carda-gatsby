@@ -28,7 +28,7 @@ language: de
 ---
 **Die Sorge der Deutschen ums Klima befindet sich auf einem Allzeithoch. Das geht aus der aktuellen Ipsos-Studie "What worries the World" hervor. Neben der Angst vor Armut und Corona ist die vor den Folgen des Klimawandels die größte. Die Flutkatastrophe hat das Problembewusstsein geschärft.**
 
-Einige der derzeit im Wahlkampf befindlichen Politiker⋆innen behaupten ja gerne mal Dinge. Dazu gehört die Aussage, wir würden uns angeblich gar keine Sorgen ums Klima machen und uns eigentlich wünschen, dass alles bleibt, wie bisher (gestern Abend bei Anne Will wieder gehört, dieses Mal sogar von einer angeblich "neutralen" Person). Die "What worries the World" Studie hat gerade wieder einmal eindeutig belegt: Wir haben sehr wohl Angst vor der Klimakatastrophe – sehr viel mehr als die Menschen in den meisten anderen Länder sogar.
+Einige der derzeit im Wahlkampf befindlichen Politiker⋆innen behaupten ja gerne mal Dinge. Dazu gehört die Aussage, wir würden uns angeblich gar keine Sorgen ums Klima machen und uns eigentlich wünschen, dass alles bleibt, wie bisher (gestern Abend bei Anne Will wieder gehört, dieses Mal sogar von einer angeblich "neutralen" Person). Die "What worries the World" Studie hat gerade wieder einmal eindeutig belegt: Wir haben sehr wohl Angst vor der Klimakatastrophe – sehr viel mehr als die Menschen in den meisten anderen Ländern sogar.
 
 Nur einige Wochen nach der [Flutkatastrophe](/2021/07/tiere-als-hochwasser-opfer/) vor unserer Haustür haben unsere Sorgen vor den uns noch bevorstehenden Auswirkungen des Klimawandels ihren Höchststand erreicht.
 
