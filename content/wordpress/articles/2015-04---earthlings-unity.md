@@ -1,17 +1,26 @@
 ---
-date: 2015-04-22T09:00:21.000Z
-slug: earthlings-unity
-path: /2015/04/earthlings-unity/
-title: Earthlings Unity
-seoTitle: Earthlings Unity - der neue Film von Shaun Monson
 ogTitle: Earthlings Unity - der neue Film von Shaun Monson
-description: Der neue Film von Shaun Monson "Earthlings Unity" knüpft dort an, wo der erste Teil des Films "Earthlings" von 2005 aufhört.
-excerpt: Der neue Film von Shaun Monson "Earthlings Unity" knüpft dort an, wo der erste Teil des Films "Earthlings" von 2005 aufhört.
-fileName: 2015-04---earthlings-unity.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Movie-Header__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Movie-Header__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAMF/8QALBAAAgIBAwIEBAcAAAAAAAAAAQIDBBEABTESIQYTYXEzUXKxFCJBgZHR8P/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAgEDESH/2gAMAwEAAhEDEQA/AJZN8GT6G+x0k1SxUNHYZWIx2AHy+Z1RJaKybFDu1OdLW3Tq2HA6WXBKnqU9wMgjPGlOqYDF58MMK117eY7AE+w/vGutcaYecOdDw/uO9TpBQimuWHwiKjrk8/799UCCtagp09rievtkl+uZF3JpEMwlibDwqjMBxycj35BXqd2vtNdN1kiobhV6ypgitSwWEA79asmBkehPtr0NtvCqySPBFfVXeaH8evnNH184J9PTnvzpZGYROmzxAYtvseIre6VY4LFhUoU2gsmcPCqkdbgZwT0p3wByOkcmdwwVUjis0pC8gP54JI8qjfoQQe/8aNGlZXMG4F3kkeRVV2HfpTpHGOMDT1B8CL6F+w0aNSwKf//Z
+excerpt: Der neue Film von Shaun Monson "Earthlings Unity" knüpft dort an, wo
+  der erste Teil des Films "Earthlings" von 2005 aufhört.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_02_movie-header-fb.png__l.jpg
+isAffiliate: false
+path: /2015/04/earthlings-unity/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAMF/8QALBAAAgIBAwIEBAcAAAAAAAAAAQIDBBEABTESIQYTYXEzUXKxFCJBgZHR8P/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAgEDESH/2gAMAwEAAhEDEQA/AJZN8GT6G+x0k1SxUNHYZWIx2AHy+Z1RJaKybFDu1OdLW3Tq2HA6WXBKnqU9wMgjPGlOqYDF58MMK117eY7AE+w/vGutcaYecOdDw/uO9TpBQimuWHwiKjrk8/799UCCtagp09rievtkl+uZF3JpEMwlibDwqjMBxycj35BXqd2vtNdN1kiobhV6ypgitSwWEA79asmBkehPtr0NtvCqySPBFfVXeaH8evnNH184J9PTnvzpZGYROmzxAYtvseIre6VY4LFhUoU2gsmcPCqkdbgZwT0p3wByOkcmdwwVUjis0pC8gP54JI8qjfoQQe/8aNGlZXMG4F3kkeRVV2HfpTpHGOMDT1B8CL6F+w0aNSwKf//Z
+typeName: Filmtipp
+isWerbung: false
+fileName: 2015-04---earthlings-unity.md
+slug: earthlings-unity
+errors: {}
+date: 2015-04-22T09:00:21.000Z
+focusKeyword: Earthlings Unity
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Movie-Header__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Movie-Header__m.jpg
+title: Earthlings Unity
+subTitle: Der neue Film von Shaun Monson
+seoTitle: Earthlings Unity - der neue Film von Shaun Monson
+description: Der neue Film von Shaun Monson "Earthlings Unity" knüpft dort an,
+  wo der erste Teil des Films "Earthlings" von 2005 aufhört.
 labels:
   - Adam Levine
   - Ben Kingsley
@@ -27,13 +36,7 @@ labels:
   - Tierrechte
   - Tony Hawk
   - Watch Earthlings
-focusKeyword: Earthlings Unity
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Der neue Film von Shaun Monson
 ---
 
 **Shaun Monson hat seinen neuen Dokumentarfilm "Earthlings Unity" nicht nur produziert, er hat auch selbst Regie geführt. Das Werk knüpft dort an, wo Monsons erster Film "Earthlings" von 2005 aufhört.**
