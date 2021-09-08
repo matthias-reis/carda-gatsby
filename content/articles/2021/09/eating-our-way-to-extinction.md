@@ -11,7 +11,7 @@ description: Kate Winslet hat jetzt der neuen Umwelt-Dokumentation "Eating Our
 excerpt: Kate Winslet hat jetzt der neuen Umwelt-Dokumentation "Eating Our Way
   To Extinction"  ihre Stimme verliehen. Die Academy Award Gewinnerin bringt
   damit zum Ausdruck, wie wichtig ihr der Kampf gegen den Klimawandel ist. Der
-  Film bietet nicht nur einen finsteren Blick in die Zukunft sondern auch
+  Film bietet nicht nur einen finsteren Blick in die Zukunft, sondern auch
   Anregungen, wie wir es besser machen können.
 image: /img/eating-our-way-to-extinction.jpg
 copyrigt: Eating Our Way To Extinction
