@@ -70,7 +70,7 @@ Auch auf der Website des Films gibt es interessante Informationen zum Thema Ern�
 
 > "Wir haben jeden Tag die Möglichkeit, dem Planeten, unserem Gaumen und unserer Gesundheit etwas Gutes zu tun",
 
-steht dort. Interessierte können sich dann gleich an Ort und Stelle eine Ernährungsplan-App herunterladen[^1]. Falls Ihr Interesse habt: Ihr könnt Euch damit täglich leckere und gesunde vegane Gerichte zusammenstellen. Für Abwechslung sorgen Ernährungs-Coaches. Sie sollen die Nutzer⋆innen der App auf ihrem Weg begleiten.
+steht dort. Neugierige können sich dann gleich an Ort und Stelle eine Ernährungsplan-App herunterladen[^1]. Falls Ihr Interesse habt: Ihr könnt Euch damit täglich leckere und gesunde vegane Gerichte zusammenstellen. Für Abwechslung sorgen Ernährungs-Coaches. Sie sollen die Nutzer⋆innen der App auf ihrem Weg begleiten.
 
 ## "Eating Our Way To Extinction" ist nicht nur ein finsterer Blick in die Zukunft
 
