@@ -37,7 +37,6 @@ labels:
   - Zoonosen
 language: de
 ---
-
 **Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet derzeit an einem neuen Film zum Thema Massentierhaltung. Die Regie führt Alex Lockwood, der unter anderem durch seinen dokumentarischen Kurzfilm "73 Cows" bekannt wurde. Ihm wurde dafür der BAFTA Award für den besten Kurzfilm verliehen.**
 
 "The End Of Medicine" soll über Zoonosen, sprich Krankheiten, die vom Tier auf den Menschen übertragen werden, aufklären. Unter anderem zählt dazu auch COVID-19. Für den Menschen stellen diese Krankheiten eine Gefahr dar, die zahlreiche Wissenschaftlern für gefährlicher halten, als die Klimakatastrophe.
