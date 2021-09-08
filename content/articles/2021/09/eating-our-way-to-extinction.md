@@ -46,7 +46,7 @@ Kate Winslet befindet sich als Sprecherin der Doku in guter Gesellschaft. Neben 
 
 ## Wie die Lebensmittelindustrie zur Klimakrise beiträgt 
 
-Der neue Film enthält erschütternde Berichte aus Gegenden, die schon heute schwer von der Klimakrise erschüttert werden. Kate Winslet sagt im Trailer: 
+Der neue Film enthält erschreckende Berichte aus Gegenden, die schon heute schwer von der Klimakrise erschüttert werden. Kate Winslet sagt im Trailer: 
 
 > "Unsere Erde befindet sich permanent im Fluss und in Bewegung. Eine dynamische Symphonie der Naturgewalten, die zusammenarbeiten. Aber in den letzten Jahren wird es immer offensichtlicher, dass wir uns schlecht darauf vorbereitet haben, mit den Folgen der Klimakrise umzugehen und die Zeit läuft ab."
 
