@@ -38,7 +38,7 @@ Der Film soll am 16. September in einigen ausgewählten Kinos in den USA und der
 
 ## "Eating Our Way To Extinction" zeigt die Zerstörung der Erde
 
-Die Dokumentation soll vor allem die Verbindung zwischen der Lebensmittelindustrie inklusive Tierhaltung und Fischerei und Landwirtschaft, fossilen Energiequellen und der Klimakrise herstellen. Sie erforscht die Folgen des menschlichen Konsums. Dabei beleuchten die Macher⋆innen vor allem den Transport-Sektor sowie umweltschädliche Produkte und die Herstellung von Lebensmittel auf der Basis von Produkten tierischer Herkunft. Ein weiteres Augenmerk legen sie auf für Menschen lebensbedrohliche Probleme wie Unterversorgung, den Verlust der Biodiversität und Dürre.
+Die Dokumentation soll vor allem die Verbindung zwischen der Lebensmittelindustrie, inklusive Tierhaltung, Fischerei und Landwirtschaft, fossilen Energiequellen und der Klimakrise herstellen. Sie erforscht die Folgen des menschlichen Konsums. Dabei beleuchten die Macher⋆innen vor allem den Transport-Sektor sowie umweltschädliche Produkte und die Herstellung von Lebensmittel auf der Basis von Produkten tierischer Herkunft. Ein weiteres Augenmerk legen sie auf für Menschen lebensbedrohliche Probleme wie Unterversorgung, den Verlust der Biodiversität und Dürre.
 
 Dennoch soll der Film nicht nur ein finsterer Blick in die Zukunft sein, sondern vielmehr ein Aufruf an die Menschheit, die Zusammenhänge zu erkennen und gemeinsam zu handeln. "Eating Our Way To Extinction" bietet Lösungsansätze, mit denen jede⋆r einen Teil dazu beitragen kann, unserer Leben nachhaltiger zu gestalten.
 
