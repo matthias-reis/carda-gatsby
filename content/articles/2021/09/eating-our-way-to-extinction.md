@@ -74,7 +74,7 @@ steht dort. Interessierte können sich dann gleich an Ort und Stelle eine Ernäh
 
 ## "Eating Our Way To Extinction" ist nicht nur ein finsterer Blick in die Zukunft
 
-"Eating Our Way To Extinction" begleitet die Zuschauer⋆innen auf einer Reise um den Globus. Von den Regenwäldern am Amazonas geht es in die Berge Taiwans und von dort in die Wüste der Mongolei. Von den Sturm-Hotspots in den USA in die Fjorde Norwegens und an die schottische Küste.
+"Eating Our Way To Extinction" begleitet die Zuschauer⋆innen auf einer Reise um den Globus. Von den Regenwäldern am Amazonas geht es in die Berge Taiwans und von dort in die Wüste der Mongolei. Von den Sturm-Hotspots in der Mitte der USA in die Fjorde Norwegens und an die schottische Küste.
 
 Jede Region erzählt ihre eigene Geschichte über die Folgen der Klimakatastrophe, die sich in rasender Geschwindigkeit ausbreitet.
 
