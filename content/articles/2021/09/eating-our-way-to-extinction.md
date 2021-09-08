@@ -34,7 +34,7 @@ language: de
 
 "Eating Our Way To Extinction" handelt davon, wie wir die natürlichen Ökosysteme unseres Planeten zerstören und was wir tun müssen, um den destruktiven Prozess zu stoppen. Überall auf der Erde brennen die Wälder, es kommt zu [Flutkatastrophen](/2021/07/tiere-als-hochwasser-opfer/) und in ihrer Folge zu Erdrutschen. Die Pole tauen ab. Das alles ist menschengemacht und nur wir haben es in der Hand, die Katastrophe aufzuhalten.
 
-Der Film soll am 16. September in einigen ausgewählten Kinos in den USA und der UK gezeigt werden. Anschließend wird die digitale Version weltweit zum Streamen verfügbar sein.
+Der Film soll am 16. September in einigen ausgewählten Kinos in den USA und der UK gezeigt werden. Anschließend wird die digitale Version hoffentlich bald weltweit zum Streamen verfügbar sein.
 
 ## "Eating Our Way To Extinction" zeigt die Zerstörung der Erde
 
