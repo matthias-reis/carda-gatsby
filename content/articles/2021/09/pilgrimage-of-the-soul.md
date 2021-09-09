@@ -1,7 +1,7 @@
 ---
 date: 2021-09-09T11:39:55.611Z
 slug: mono-pilgrimage-of-the-soul
-typeName: Beitrag
+typeName: Review
 title: '"Pilgrimage Of The Soul"'
 subTitle: Das neue Album von Mono
 seoTitle: '"Pilgrimage Of The Soul" – Das neue Album von Mono Postrock-Review'
