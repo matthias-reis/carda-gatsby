@@ -32,7 +32,7 @@ affiliate: false
 language: de
 languageLink: /2021/09/mono-pilgrimage-of-the-soul-en/
 ---
-**Mono veröffentlichen am 17. September ihr neues Album** "Pilgrimage Of The Soul"**. Die Platte ist ein echter Meilenstein dieses Musikjahres. Ihr solltet sie also auf keinen Fall verpassen.**
+**Mono veröffentlichen am 17. September ihr neues Album "Pilgrimage Of The Soul". Die Platte ist ein echter Meilenstein dieses Musikjahres. Ihr solltet sie also auf keinen Fall verpassen.**
 
 Im Moment geht es ja mit den Veröffentlichungen Schlag auf Schlag. Ich komme im Moment wirklich kaum noch hinterher mit dem Hören und natürlich auch mit dem Weiterempfehlen.
 
