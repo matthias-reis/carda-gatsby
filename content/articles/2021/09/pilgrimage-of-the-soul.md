@@ -68,7 +68,7 @@ Die Reise durch die Zeit geht mit "To See A World" klassisch weiter – ein toll
 
 Schön, oder? "The Auguries" beginnt verspielt. Spannung breitet sich aus. Was erwartet uns? Die präzisen Drums und das sensationelle Spiel aus Rhythmus und Melodien ziehen mich in den Bann. Schicht auf Schicht entfaltet sich ein pompöses Sound-Schmuckstück, das sich möglicherweise zu einem Lieblings-Song entwickeln könnte. Mal sehen. Für mich klingt es wie eine Sammlung schöner Momente.
 
-## Hold Infinity In The Palm Of Your Hand" ist das Highlight des Albums
+## "Hold Infinity In The Palm Of Your Hand" ist das Highlight des Albums
 
 Der Höhepunkt des Albums ist das Stück "Hold Infinity In The Palm Of Your Hand". In zwölfeinhalb Minuten sehe ich den Sand der Zeit durch meine Finger rinnen, sehe, wie die Regenwälder schrumpfen, die Wüsten sich ausdehnen und der Ozean die Küsten mit sich reißt. Der Song ist ein monumentaler Traum von der Menschheit vor dem Abgrund. In jedem Ton schwingen Emotionen mit.
 
