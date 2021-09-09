@@ -9,7 +9,7 @@ ogTitle: ""
 description: Mono veröffentlichen übermorgen ihr neues Album "Pilgrimage Of The
   Soul". Die Platte ist ein echter Meilenstein dieses Musikjahres. Ihr solltet
   sie also auf keinen Fall verpassen. Ich finde bei jedem Hördurchgang neue
-  Details.
+  Details. Ein paar davon möchte ich Euch verraten.
 image: /img/mono-pilgrimage-of-the-soul.jpg
 copyrigt: Mono Japan
 ogImage: /img/mono-pilgrimage-of-the-soul-fb.png
