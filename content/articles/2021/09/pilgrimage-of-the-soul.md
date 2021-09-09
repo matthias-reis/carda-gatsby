@@ -64,7 +64,7 @@ Das dritte Stück "Heaven In A Wild Flower" nimmt uns mit in den Orchestergraben
 
 Die Reise durch die Zeit geht mit "To See A World" klassisch weiter – ein tolles Stück. Und auch "Innocence" holt mich von Anfang an ab. Mono sagen über den Song:
 
-> "Mit Innocence wollten wir die Pracht des reinen Lebens ausdrücken. Mit einem großartigen Traum im Herzen zu leben, wie ein unendliches Land und ein unendlicher Himmel, ist die Freude des Lebens und der Grund, warum man geboren wurde. Gebt nicht auf. Akzeptiert all die Wunden und die Traurigkeit und jagt weiter eurem Traum nach."
+> "Mit Innocence wollten wir die Pracht des reinen Lebens ausdrücken. Mit einem großartigen Traum im Herzen zu leben, wie ein unendliches Land und ein unendlicher Himmel, ist die Freude des Lebens und der Grund, warum man geboren wurde. Gebt nicht auf. Akzeptiert all die Wunden und die Traurigkeit und jagt weiter Eurem Traum nach."
 
 Schön, oder? "The Auguries" beginnt verspielt. Spannung breitet sich aus. Was erwartet uns? Die präzisen Drums und das sensationelle Spiel aus Rhythmus und Melodien ziehen mich in den Bann. Schicht auf Schicht entfaltet sich ein pompöses Sound-Schmuckstück, das sich möglicherweise zu einem Lieblings-Song entwickeln könnte. Mal sehen. Für mich klingt es wie eine Sammlung schöner Momente.
 
