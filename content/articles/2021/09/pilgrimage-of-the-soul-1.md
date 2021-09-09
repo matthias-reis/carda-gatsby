@@ -69,7 +69,7 @@ It's beautiful, isn't it? "The Auguries" begins playfully. But wait, there is so
 
 ## "Hold Infinity In The Palm Of Your Hand" is the highlight of the album.
 
-The highlight of the album is the track "Hold Infinity In The Palm Of Your Hand". In twelve and a half minutes, I watch the sands of time running through my fingers, see the rainforests shrink, the deserts expand, and the ocean sweeping the coasts away. The song is a monumental dream of humanity facing the abyss. Emotion resonates in every note.
+The highlight of the album is the track "Hold Infinity In The Palm Of Your Hand". For twelve and a half minutes, I watch the sands of time running through my fingers, see the rainforests shrink, the deserts expand, and the ocean sweeping the coasts away. The song is a monumental dream of humanity facing the abyss. Emotion resonates in every note.
 
 "And Eternity In An Hour" rounds off the record and brings me back down to earth. The piano, synthesizers and wistful strings paint pictures of beautiful memories and a hopeful view of the future.
 
