@@ -82,5 +82,3 @@ The contrasts on "Pilgrimage Of The Soul" reflect the last months in a very empa
 ## Mono - "Innocence"
 
 <YouTube id="dRi1gjWk0fc" />
-
-![Mono - "Pilgrimage Of The Soul"](/img/pilgrimage-of-the-soul-mono.jpg "Mono - \"Pilgrimage Of The Soul\" | large")
