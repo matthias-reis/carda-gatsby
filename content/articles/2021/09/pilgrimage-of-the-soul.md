@@ -46,7 +46,7 @@ In der [August-Ausgabe der Musikliste](/2021/08/playlist-september-2021/) habe i
 
 ## Traumhafte Musik in stürmischen Zeiten
 
-Insgesamt ist "Pilgrimage Of The Soul" noch stürmischer, als der Vorgänger "Nowhere Now Here" von 2019. Das zeigt sich nicht nur im höheren Tempo der Songs, sondern auch durch Einflüsse aus der Techno-/Electronic-Ecke –da fällt mir ein: Wusstet Ihr eigentlich, dass mein letztes Rock-Konzert, bevor es mit der Krise losging, ein Mono Konzert war, bei dem sie eben diese Songs zum Besten gaben? Ich werde den Abend sicher nie vergessen. Hätte ich damals geahnt, was uns bevorsteht, hätte ich ihn sicher noch mehr genossen. Ob das möglich gewesen wäre? Wer weiß.
+Insgesamt ist "Pilgrimage Of The Soul" noch stürmischer, als der Vorgänger "Nowhere Now Here" von 2019. Das zeigt sich nicht nur im höheren Tempo der Songs, sondern auch durch Einflüsse aus der Techno-/Electronic-Ecke – da fällt mir ein: Wusstet Ihr eigentlich, dass mein letztes Rock-Konzert, bevor es mit der Krise losging, ein Mono Konzert war, bei dem sie eben diese Songs zum Besten gaben? Ich werde den Abend sicher nie vergessen. Hätte ich damals geahnt, was uns bevorsteht, hätte ich ihn sicher noch mehr genossen. Ob das möglich gewesen wäre? Wer weiß.
 
 ![Mono – "Pilgrimage Of The Soul"](/img/mono1623674343248199.jpg "Mono – \"Pilgrimage Of The Soul\"")
 
