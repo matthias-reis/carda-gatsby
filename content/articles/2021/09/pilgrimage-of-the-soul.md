@@ -60,7 +60,7 @@ Nach dem ersten Stück gönnt uns die Band keine Pause. Es geht mit "Imperfect T
 
 ## Eine Reise durch die Zeit
 
-Das dritte Stück "Heaven In A Wild Flower" nimmt uns mit in den Orchestergraben, zarte Momente werden von dröhnendem Rhythmus abgelöst, um dann nachdenklich davon zu wandern. Der Übergang zum nächsten Song ist fast schon meditativ.
+Das dritte Stück "Heaven In A Wild Flower" nimmt mich mit in den Orchestergraben, zarte Momente werden von dröhnendem Rhythmus abgelöst, um dann nachdenklich davon zu wandern. Der Übergang zum nächsten Song ist fast schon meditativ.
 
 Die Reise durch die Zeit geht mit "To See A World" klassisch weiter – ein tolles Stück. Und auch "Innocence" holt mich von Anfang an ab. Mono sagen über den Song:
 
