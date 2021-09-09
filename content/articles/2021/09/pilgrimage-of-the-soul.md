@@ -40,7 +40,7 @@ Im Moment geht es ja mit den Veröffentlichungen Schlag auf Schlag. Ich komme ge
 
 "Pilgrimage Of The Soul" von Mono ist ein echtes Highlight. Ich habe die Platte in den letzten Wochen an die 15 Mal gehört und ich finde jedes Mal neue Details. Bei jedem Durchgang fasziniert mich die Musik noch mehr.
 
-In der [August-Ausgabe der Musikliste](/2021/08/playlist-september-2021/) habe ich Euch ja schon die Vorauskopplung "Riptide" angepriesen". Das Stück ist ein winziges Steinchen eines riesengroßen bunten Mosaiks, das kaum faszinierender sein könnte.
+In der [August-Ausgabe der Musikliste](/2021/08/playlist-september-2021/) habe ich Euch ja schon die Vorauskopplung "Riptide" angepriesen. Das Stück ist ein winziges Steinchen eines riesengroßen bunten Mosaiks, das kaum faszinierender sein könnte.
 
 "Pilgrimage Of The Soul" ist das elfte Studio-Album unserer geliebten Post-Rock Legenden aus Japan. Die Band hat es während der düstersten Phase der Corona-Pandemie aufgenommen. Damals, im Sommer 2020 hatten wir noch keine Aussicht auf einen Lichtblick. Niemand wusste, wie es weitergeht. Mono haben diesen Lichtblick mit ihrer Platte selbst geschaffen.
 
