@@ -83,5 +83,3 @@ Die Kontraste auf "Pilgrimage Of The Soul" spiegeln die letzten Monate auf wunde
 ## Mono – "Innocence"
 
 <YouTube id="dRi1gjWk0fc" />
-
-![Mono – "Pilgrimage Of The Soul"](/img/pilgrimage-of-the-soul-mono.jpg "Mono – \"Pilgrimage Of The Soul\" | large")
