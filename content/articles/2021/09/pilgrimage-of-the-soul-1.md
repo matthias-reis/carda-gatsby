@@ -77,7 +77,7 @@ The highlight of the album is the track "Hold Infinity In The Palm Of Your Hand"
 
 Mono formed in Tokyo in 1999. Back then, their role models were bands like [Mogwai](/2021/03/as-the-love-continues-mogwai-en) and My Bloody Valentine and great composers like Ennio Morricone and Beethoven. Today they are one of the best-known bands in the experimental sector and have long since carved out their own place in the music world with their diverse and extensive discography. In addition, they inspire millions with their fascinating soundscapes.
 
-The contrasts on "Pilgrimage Of The Soul" reflect the last months in a very empathetic way. After anger comes hope, and after sadness comes longing. Please listen to this album. I promise you won't regret it.
+The contrasts on "Pilgrimage Of The Soul" reflect the last months in a very empathetic way. After anger comes hope, after sadness comes longing. Please listen to this album. I promise you won't regret it.
 
 ## Mono - "Innocence"
 
