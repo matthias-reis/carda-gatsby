@@ -67,7 +67,7 @@ I got a similar response from [Lost in Kiev](/2020/07/lost-in-kiev-interview-en)
 
 > "Yes. In the way that post-rock dive into your soul to make you feel powerful things and for this, everyone should be a post-rocker!"
 
-Jakob from [Oh Hiroshima](/2020/06/oh-hiroshima-interview/) told me.
+Jakob from [Oh Hiroshima](/oh-hiroshima-interview-en) told me.
 
 > "Sure! People should listen to whatever they want, but there are probably a lot of people out there that would appreciate the genre a lot if they just gave it a shot."
 
