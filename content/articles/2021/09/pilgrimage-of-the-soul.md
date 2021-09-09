@@ -56,7 +56,7 @@ Insgesamt ist "Pilgrimage Of The Soul" noch stürmischer, als der Vorgänger "No
 
 Vom Opener "Riptide" habe ich Euch ja schon erzählt. Er öffnet die Tür zur fantastischen Welt von Mono. Los geht es mit einem hypnotischen Intro, auf das eine starke Wand aus harten Drums und verspielten Gitarren und Synthesizern folgt. 
 
-Nach dem ersten Stück gönnt uns die Band keine Pause. Es geht mit "Imperfect Things" vielschichtig weiter. Jetzt kommen die bereits beschriebenen elektronischen Elemente zum Einsatz – sie wirken wie der goldene Kleber im Porzellan, der das Kunstwerk wieder zum Leben erweckt. Die Schönheit liegt in der Besonderheit – Imperfekt ist hier höchstens meine Beschreibung mit der ich dilettantisch versuche, das Gehörte in Worte zu fassen.
+Nach dem ersten Stück gönnt uns die Band keine Pause. Es geht mit "Imperfect Things" vielschichtig weiter. Jetzt kommen die bereits beschriebenen elektronischen Elemente zum Einsatz – sie wirken wie der goldene Kleber im Porzellan, der das Kunstwerk wieder zum Leben erweckt – die Schönheit liegt in der Besonderheit. Aber sind wir doch ehrlich: Imperfekt ist hier höchstens meine Beschreibung mit der ich dilettantisch versuche, das Gehörte in Worte zu fassen.
 
 ## Eine Reise durch die Zeit
 
