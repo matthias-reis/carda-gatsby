@@ -1,6 +1,8 @@
 ---
 ogTitle: '"As The Love Continues" von Mogwai auf Platz 1 in England'
-excerpt: Mit "As The Love Continues" sind Mogwai als erste Post-Rock Band auf Platz 1 der britischen Charts gelandet. Die Platte spiegelt den Zeitgeist wider.
+excerpt: Mit "As The Love Continues" sind Mogwai als erste Post-Rock Band auf
+  Platz 1 der britischen Charts gelandet. Die Platte spiegelt den Zeitgeist
+  wider.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_as-the-love-continues-fb.png__l.jpg
 isAffiliate: false
 path: /2021/03/as-the-love-continues-mogwai/
@@ -19,7 +21,8 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03
 title: '"As The Love Continues" von Mogwai auf Platz 1 in England'
 subTitle: Die Musik der Introvertierten in den Charts
 seoTitle: '"As The Love Continues" von Mogwai auf Platz 1 in England'
-description: Mit "As The Love Continues" sind Mogwai als erste Post-Rock Band auf Platz 1 der britischen Charts gelandet.
+description: Mit "As The Love Continues" sind Mogwai als erste Post-Rock Band
+  auf Platz 1 der britischen Charts gelandet.
 language: de
 type: Artikel
 labels:
@@ -60,7 +63,7 @@ Instrumentaler Post-Rock – die Musik der Introvertierten trifft also den Puls 
 
 ## Die Post-Rock Welt wird verständlicher
 
-Mogwai haben es also mit "As The Love Continues" ein Stück weit geschafft, "unseren Kosmos" verständlicher zu machen. Sie fungieren als Babel Fish zwischen der lauten und schnellen Welt da draußen und jenen ruhigen Menschen, die lieber wissend nicken, als lange Vorträge zu halten. Wer Weiß: Vielleicht schaffen sie es damit, uns allen das Leben ein kleines bisschen erträglicher zu machen.
+Mogwai haben es also mit "As The Love Continues" ein Stück weit geschafft, "unseren Kosmos" verständlicher zu machen. Sie fungieren als Babel Fish zwischen der lauten und schnellen Welt da draußen und jenen ruhigen Menschen, die lieber wissend nicken, als lange Vorträge zu halten. Wer weiß: Vielleicht schaffen sie es damit, uns allen das Leben ein kleines bisschen erträglicher zu machen.
 
 Den von einigen befürchten schrill blinkenden Mainstream Hype um Post-Rock werden sie damit sicher nicht ausgelöst haben. Und wenn es ein paar der schrecklich unterschätzten Bands, die "wir" so lieben ein paar Tantiemen in die Taschen spült, ist das doch ein wundervoller Nebeneffekt.
 
