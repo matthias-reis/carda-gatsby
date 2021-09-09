@@ -69,15 +69,15 @@ Den von einigen befürchten schrill blinkenden Mainstream Hype um Post-Rock werd
 
 ## Sollten die Menschen mehr Post-Rock hören?
 
-Ich möchte an dieser Stelle gerne den großartigen Mark Owen von We Lost The Sea zitieren. Er beantworte meine Interview-Frage "Sollten mehr Leute Post-Rock hören?" so:
+Ich möchte an dieser Stelle gerne [Mark Owen von We Lost The Sea](/2021/01/we-lost-the-sea-interview/) zitieren. Er beantworte meine Interview-Frage "Sollten mehr Leute Post-Rock hören?" so:
 
 > "Ja! Bitte kauft unsere Platten, damit ich weiter auf Tour gehen kann! Wie Phoebe Bridgers gesagt hat: 'Das Einzige, was schlimmer ist, als Touren, ist nicht zu Touren'. Ehrlich gesagt glaube ich aber, dass viele Leute Post-Rock hören, ohne es zu ahnen. So viele Filme, Fernsehsendungen usw. verwenden Post-Rock-Musik und die Leute konsumieren sie, ohne es aktiv zu wissen. Wenn wir nur fünf Prozent der Menschen auf die Bands aufmerksam machen können, die sie hören, wäre das Leben für viele Bands komplett anders."
 
-Von Lost in Kiev bekam ich eine ähnliche Antwort:
+Von [Lost in Kiev](/2020/07/lost-in-kiev-interview/) bekam ich eine ähnliche Antwort:
 
 > "Sicher! Die Art und Weise, wie Post-Rock in Deine Seele eintaucht und dich kraftvolle Dinge fühlen lässt ist doch fantastisch – jeder sollte ein Post-Rocker sein!"
 
-Jakob von Oh Hiroshima sagte mir:
+Jakob von [Oh Hiroshima](/2020/06/oh-hiroshima-interview/) sagte mir:
 
 > "Auf jeden Fall! Die Leute sollen hören, was sie hören wollen aber es gibt sicher eine Menge Leute da draußen, denen das Genre sehr gefallen würde, wenn sie ihm eine Chance geben würden."
 
