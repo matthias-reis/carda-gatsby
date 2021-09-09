@@ -62,7 +62,7 @@ Nach dem ersten Stück gönnt uns die Band keine Pause. Es geht mit "Imperfect T
 
 Das dritte Stück "Heaven In A Wild Flower" nimmt uns mit in den Orchestergraben, zarte Momente werden von dröhnendem Rhythmus abgelöst, um dann nachdenklich davon zu wandern. Der Übergang zum nächsten Song ist fast schon meditativ.
 
-Die Reise durch die Zeit geht mit "To See A World" klassisch weiter. "Innocence" holt mich von Anfang an ab. Mono sagen über den Song:
+Die Reise durch die Zeit geht mit "To See A World" klassisch weiter – ein tolles Stück. Und auch "Innocence" holt mich von Anfang an ab. Mono sagen über den Song:
 
 > "Mit Innocence wollten wir die Pracht des reinen Lebens ausdrücken. Mit einem großartigen Traum im Herzen zu leben, wie ein unendliches Land und ein unendlicher Himmel, ist die Freude des Lebens und der Grund, warum man geboren wurde. Gebt nicht auf. Akzeptiert all die Wunden und die Traurigkeit und jagt weiter eurem Traum nach."
 
