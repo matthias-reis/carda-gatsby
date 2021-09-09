@@ -62,9 +62,11 @@ Nach dem ersten Stück gönnt uns die Band keine Pause. Es geht mit "Imperfect T
 
 Das dritte Stück "Heaven In A Wild Flower" nimmt uns mit in den Orchestergraben, zarte Momente werden von dröhnendem Rhythmus abgelöst, um dann nachdenklich davon zu wandern. Der Übergang zum nächsten Song ist fast schon meditativ.
 
-Die Reise durch die Zeit geht mit "To See A World" klassisch weiter. "Innocence" 
+Die Reise durch die Zeit geht mit "To See A World" klassisch weiter. "Innocence" holt mich von Anfang an ab. Mono sagen über den Song:
 
-"The Auguries" beginnt verspielt. Spannung breitet sich aus. Was erwartet uns? Die präzisen Drums und das sensationelle Spiel aus Rhythmus und Melodien ziehen mich in den Bann. Schicht auf Schicht entfaltet sich ein pompöses Sound-Schmuckstück, das sich möglicherweise zu einem Lieblings-Song entwickeln könnte. Mal sehen. Für mich klingt es wie eine Sammlung schöner Momente.
+> "Mit Innocence wollten wir die Pracht des reinen Lebens ausdrücken. Mit einem großartigen Traum im Herzen zu leben, wie ein unendliches Land und ein unendlicher Himmel, ist die Freude des Lebens und der Grund, warum man geboren wurde. Gebt nicht auf. Akzeptiert all die Wunden und die Traurigkeit und jagt weiter eurem Traum nach."
+
+Schön, oder? "The Auguries" beginnt verspielt. Spannung breitet sich aus. Was erwartet uns? Die präzisen Drums und das sensationelle Spiel aus Rhythmus und Melodien ziehen mich in den Bann. Schicht auf Schicht entfaltet sich ein pompöses Sound-Schmuckstück, das sich möglicherweise zu einem Lieblings-Song entwickeln könnte. Mal sehen. Für mich klingt es wie eine Sammlung schöner Momente.
 
 ## Hold Infinity In The Palm Of Your Hand" ist das Highlight des Albums
 
