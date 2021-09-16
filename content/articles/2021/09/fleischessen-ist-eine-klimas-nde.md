@@ -58,7 +58,7 @@ Die Forschenden gaben sich bei ihrer Studie nicht mit Gesamtzahlen zufrieden. Si
 
 Ein wichtiger Punkt, den die Autor⋆innen der Studie hervorheben, ist die Verschwendung wertvoller pflanzlicher Kalorien. Würden wir sie nicht zur "Herstellung" tierischer Kalorien nutzen, wären wir im Kampf gegen den Welthunger einen großen Schritt weiter. Xiaoming Xu, der Kopf der Studie, äußerte sich gegenüber The Guardian[^1] so zu diesem Thema:
 
-> "Um mehr Fleisch zu produzieren, muss man den Tieren mehr zu fressen geben. Das wiederum verursacht mehr Emissionen. Man braucht also mehr Biomasse, um die gleiche Menge an Kalorien zu erhalten"
+> "Um mehr Fleisch zu produzieren, muss man den Tieren mehr zu fressen geben. Das wiederum verursacht mehr Emissionen. Man braucht also mehr Biomasse, um die gleiche Menge an Kalorien zu erhalten."
 
 Sprich: Führen wir die Kalorien unserem Körper nicht direkt zu, sondern geben sie erst einem Tier, dessen Fleisch wir dann essen, brauchen wir mehr davon. Klingt logisch.
 
