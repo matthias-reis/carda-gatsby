@@ -72,7 +72,7 @@ Atul Jain, Co-Autor der Studie, berichtete dem Guardian[^1]:
 
 Forschende betonten in der Vergangenheit immer wieder, dass ein grundlegendes Umdenken bei den Essgewohnheiten und landwirtschaftlichen Praktiken notwendig ist, wenn wir der globalen Erwärmung effektiv entgegenwirken wollen. Im Moment sieht es leider noch nicht danach aus. Die Fleisch-Produktion ist in den letzten Jahrzehnten immer weiter gewachsen. Heute kommen auf jeden Menschen auf der Erde drei Hühner. Das Ziel der Wissenschaftler⋆innen ist es auch, diese traurigen Zahlen bekannter zu machen.
 
-Der Pflanzenphysiologe Lewis Ziska von der Columbia University, selbst an der aktuellen Studie nicht beteiligt, äußerte sich wie folgt zu der bahnbrechenden Arbeit:
+Der selbst nicht an der aktuellen Studie beteiligte Pflanzenphysiologe Lewis Ziska von der Columbia University äußerte sich wie folgt zu der bahnbrechenden Arbeit:
 
 > "Die Studie ist wirklich verdammt gut. Sie sollte bei den bevorstehenden UN-Klimagesprächen in Schottland auf jeden Fall gebührende Aufmerksamkeit erhalten. Eine grundlegende Unbekannte innerhalb der Weltwirtschaft ist der Einfluss von Lebensmitteln auf die Treibhausgas-Emissionen. Es hat zwar früher schon Schätzungen dazu gegeben, aber diese Arbeit bietet uns jetzt den Goldstandard. Sie wird uns in den kommenden Jahren als wichtige Referenz dienen."
 
