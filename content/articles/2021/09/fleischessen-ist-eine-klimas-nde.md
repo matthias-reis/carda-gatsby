@@ -62,7 +62,7 @@ Ein wichtiger Punkt, den die Autor⋆innen der Studie hervorheben, ist die Versc
 
 Sprich: Führen wir die Kalorien unserem Körper nicht direkt zu, sondern geben sie erst einem Tier, dessen Fleisch wir dann essen, brauchen wir mehr davon. Klingt logisch.
 
-Atul Jain, Co-Autor der Studie berichtete dem Guardian[^1]:
+Atul Jain, Co-Autor der Studie, berichtete dem Guardian[^1]:
 
 > "Unsere Studie bildet den kompletten Kreislauf der Lebensmittel-Produktion ab. Die politischen Entscheidungsträger können die Ergebnisse dazu nutzen, darüber nachzudenken, wie wir die Emission von Treibhausgasen in Zukunft kontrollieren können.
 >
