@@ -48,7 +48,7 @@ Die Wissenschaftler⋆innen fanden unter anderem heraus, dass die Lebensmittelhe
 
 ![](/img/2021-08-daenemark-243.jpg)
 
-Fleisch identifizierten die Forschenden als besonders starken Treiber. Es gibt ihnen zu denken, dass allein durch die Aufzucht der Tiere mehr als 57 Prozent aller mit der Lebensmittelproduktion in Verbindung stehenden Treibhausgase wie CO<sub>2</sub> und Methan emittiert werden.
+Fleisch identifizierten die Forschenden als besonders starken Treiber. Es gibt ihnen zu denken, dass allein durch die Aufzucht der Tiere mehr als 57 Prozent aller mit der Lebensmittelproduktion in Verbindung stehenden Treibhausgase, wie CO<sub>2</sub> und Methan, emittiert werden.
 
 Im Vergleich dazu nehmen der Anbau und die Verarbeitung pflanzlicher Lebensmittel gerade mal 29 Prozent ein.
 
