@@ -38,7 +38,7 @@ Dass es nicht besonders umweltfreundlich ist, Tiere für den Verzehr zu züchten
 
 ## Zahlen und Daten aus 200 Ländern
 
-Die Forschenden veröffentlichten ihre Studie, die den Einfluss der globalen Lebensmittel auf das Klima zeigt, zuerst auf nature.com[^2]. Für ihre Arbeit analysierten sie Daten aus mehr als 200 Ländern und bezogen 171 pflanzliche sowie 16 tierische Produkte mit ein.
+Die Forschenden veröffentlichten ihre Studie, die den Einfluss der globalen Lebensmittel auf das Klima zeigt, zuerst auf nature.com[^1]. Für ihre Arbeit analysierten sie Daten aus mehr als 200 Ländern und bezogen 171 pflanzliche sowie 16 tierische Produkte mit ein.
 
 Das Besondere an der neuen Lebensmittel-Klimastudie ist, dass sie tief in die verschiedenen Bereiche der Lebensmittel-Produktionskette eintaucht – die Pflanzen, die einzig zur Verfütterung an "Nutztiere" angebaut werden, berücksichtigten die Wissenschaftler⋆innen ebenso, wie den Einsatz von Düngemitteln und den Transport der Produkte.
 
@@ -56,7 +56,7 @@ Im Vergleich dazu nehmen der Anbau und die Verarbeitung pflanzlicher Lebensmitte
 
 Die Forschenden gaben sich bei ihrer Studie nicht mit Gesamtzahlen zufrieden. Sie verglichen die unterschiedlichen Lebensmittel genau miteinander. Dabei fanden sie zum Beispiel heraus, dass allein Rindfleisch für ein Viertel der Treibhausgas-Emissionen im Lebensmittelsektor verantwortlich ist. Das schafft nicht mal der größte pflanzliche Emittent: Reis. Der liegt nämlich gerade mal bei 12 Prozent.
 
-Ein wichtiger Punkt, den die Autor⋆innen der Studie hervorheben, ist die Verschwendung wertvoller pflanzlicher Kalorien. Würden wir sie nicht zur "Herstellung" tierischer Kalorien nutzen, wären wir im Kampf gegen den Welthunger einen großen Schritt weiter. Xiaoming Xu, der Kopf der Studie, äußerte sich gegenüber The Guardian[^1] so zu diesem Thema:
+Ein wichtiger Punkt, den die Autor⋆innen der Studie hervorheben, ist die Verschwendung wertvoller pflanzlicher Kalorien. Würden wir sie nicht zur "Herstellung" tierischer Kalorien nutzen, wären wir im Kampf gegen den Welthunger einen großen Schritt weiter. Xiaoming Xu, der Kopf der Studie, äußerte sich gegenüber The Guardian[^2] so zu diesem Thema:
 
 > "Um mehr Fleisch zu produzieren, muss man den Tieren mehr zu fressen geben. Das wiederum verursacht mehr Emissionen. Man braucht also mehr Biomasse, um die gleiche Menge an Kalorien zu erhalten."
 
@@ -76,6 +76,6 @@ Der selbst nicht an der aktuellen Studie beteiligte Pflanzenphysiologe Lewis Zis
 
 > "Die Studie ist wirklich verdammt gut. Sie sollte bei den bevorstehenden UN-Klimagesprächen in Schottland auf jeden Fall gebührende Aufmerksamkeit erhalten. Eine grundlegende Unbekannte innerhalb der Weltwirtschaft ist der Einfluss von Lebensmitteln auf die Treibhausgas-Emissionen. Es hat zwar früher schon Schätzungen dazu gegeben, aber diese Arbeit bietet uns jetzt den Goldstandard. Sie wird uns in den kommenden Jahren als wichtige Referenz dienen."
 
-[^1]: [Studie zu den Treibhausgas-Emissionen von Lebensmitteln im The Guardian](https://www.theguardian.com/environment/2021/sep/13/meat-greenhouses-gases-food-production-study)
+[^1]: ["Global greenhouse gas emissions from animal-based foods are twice those of plant-based foods" – Die Studie von Xiaoming Xu, Prateek Sharma, Shijie Shu, Tzu-Shun Lin, Philippe Ciais, Francesco N. Tubiello, Pete Smith, Nelson Campbell5 und Atul K. Jain auf nature.com](https://www.nature.com/articles/s43016-021-00358-x.epdf)
 
-[^2]: ["Global greenhouse gas emissions from animal-based foods are twice those of plant-based foods" – Die Studie von Xiaoming Xu, Prateek Sharma, Shijie Shu, Tzu-Shun Lin, Philippe Ciais, Francesco N. Tubiello, Pete Smith, Nelson Campbell5 und Atul K. Jain auf nature.com](https://www.nature.com/articles/s43016-021-00358-x.epdf)
+[^2]: [Studie zu den Treibhausgas-Emissionen von Lebensmitteln im The Guardian](https://www.theguardian.com/environment/2021/sep/13/meat-greenhouses-gases-food-production-study)
