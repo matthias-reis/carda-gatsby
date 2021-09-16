@@ -38,7 +38,7 @@ Dass es nicht besonders umweltfreundlich ist, Tiere für den Verzehr zu züchten
 
 ## Zahlen und Daten aus 200 Ländern
 
-Die Autor⋆innen veröffentlichten ihre Studie zuerst auf nature.com[^2]. Sie betrachtet den Einfluss der globalen Lebensmittelproduktion auf das Klima.
+Die Forscher⋆innen veröffentlichten ihre Studie zuerst auf nature.com[^2]. Sie betrachtet den Einfluss der globalen Lebensmittelproduktion auf das Klima.
 
 Die Forschenden analysierten für ihre Arbeit die Daten aus mehr als 200 Ländern. Mit einbezogen wurden 171 pflanzliche und 16 tierische Produkte.
 
