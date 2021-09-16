@@ -64,7 +64,7 @@ Sprich: Führen wir die Kalorien unserem Körper nicht direkt zu, sondern geben 
 
 Atul Jain, Co-Autor der Studie, berichtete dem Guardian[^1]:
 
-> "Unsere Studie bildet den kompletten Kreislauf der Lebensmittel-Produktion ab. Die politischen Entscheidungsträger können die Ergebnisse dazu nutzen, darüber nachzudenken, wie wir die Emission von Treibhausgasen in Zukunft kontrollieren können.
+> "Unsere Studie bildet den kompletten Kreislauf der Lebensmittel-Produktion ab. Die politischen Entscheidungsträger⋆innen können die Ergebnisse dazu nutzen, darüber nachzudenken, wie wir die Emission von Treibhausgasen in Zukunft kontrollieren können.
 >
 > Ein großer Teil davon kommt durch persönliche Entscheidungen zustande. Man kann den Leuten nicht einfach seine Ansichten aufzwingen. Wenn die Menschen allerdings Angst vor der Klimakatastrophe haben, sollten sie ernsthaft über die Änderung ihrer Ernährungsgewohnheiten nachdenken."
 
