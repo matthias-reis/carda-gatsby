@@ -6,10 +6,10 @@ title: Klimasünde Fleisch
 subTitle: Fleisch für 60 Prozent der Lebensmittel-Treibhausgase verantwortlich
 seoTitle: Fleisch für 60 % der Lebensmittel-Treibhausgase verantwortlich
 description: Eine neue Studie zeigt, dass die weltweite Fleisch-Produktion für
-  28 Mal mehr Treibhausgas-Emissionen verantwortlich ist, als pflanzlicher
+  28 Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher
   Nahrungsmittel. Sie wird Forschenden zukünftig als wichtige Referenz dienen.
 excerpt: Eine neue Studie zeigt, dass die weltweite Fleisch-Produktion für 28
-  Mal mehr Treibhausgas-Emissionen verantwortlich ist, als pflanzlicher
+  Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher
   Nahrungsmittel. Sie zeigt den dringenden Handlungsbedarf und wird Forschenden
   zukünftig als wichtige Referenz dienen.
 image: /img/2021-08-daenemark-265.jpg
