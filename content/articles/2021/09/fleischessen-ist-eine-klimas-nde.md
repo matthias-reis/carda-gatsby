@@ -54,7 +54,7 @@ Im Vergleich dazu nehmen der Anbau und die Verarbeitung pflanzlicher Lebensmitte
 
 ## "Pflanzliche Lebensmittel sind wesentlich Klima-freundlicher"
 
-Die Forschenden gaben sich bei ihrer Studie nicht mit Gesamtzahlen zufrieden. Sie verglichen unterschiedliche Lebensmittel genau miteinander. Dabei fanden sie zum Beispiel heraus, dass allein Rindfleisch für ein Viertel der Treibhausgas-Emissionen im Lebensmittelsektor verantwortlich ist. Das schafft nicht mal der größte pflanzliche Emittent: Reis. Der liegt nämlich gerade mal bei 12 Prozent.
+Die Forschenden gaben sich bei ihrer Studie nicht mit Gesamtzahlen zufrieden. Sie verglichen die unterschiedlichen Lebensmittel genau miteinander. Dabei fanden sie zum Beispiel heraus, dass allein Rindfleisch für ein Viertel der Treibhausgas-Emissionen im Lebensmittelsektor verantwortlich ist. Das schafft nicht mal der größte pflanzliche Emittent: Reis. Der liegt nämlich gerade mal bei 12 Prozent.
 
 Ein wichtiger Punkt, den die Autor⋆innen der Studie hervorheben, ist die Verschwendung wertvoller pflanzlicher Kalorien. Mit ihnen wäre mal im Kampf gegen Hunger einen großen Schritt weiter. Xiaoming Xu, Kopf der Studie, äußerte sich gegenüber The Guardian[^1] so zu diesem Thema:
 
