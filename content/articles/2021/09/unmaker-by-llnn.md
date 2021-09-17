@@ -76,7 +76,7 @@ In the past, the band from Copenhagen has already played concerts at Roskilde, R
 
 After their first album, "Loss", they recorded a split EP with Wovoka. Then, in 2018, they released their second album, "Deads". It was was already more complex than their first LP and paved the way for the upcoming new record "Unmaker", which will be released next week.
 
-The band members report that with "Dead", they further explored the fusion of guitar, bass and synthesiser layers. With their new record, they have clearly perfected this skill.
+The band members report that with "Deads", they further explored the fusion of guitar, bass and synthesiser layers. With their new record, they have clearly perfected this skill.
 
 I like that the tracks on "Unmaker" still don't seem too overloaded or dense at all. Instead, they blast properly, telling stories from a post-apocalyptic world between science fiction, horror and film noir/psycho-road-movie.
 
