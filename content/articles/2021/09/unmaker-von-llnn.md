@@ -76,7 +76,7 @@ In der Vergangenheit haben die Kopenhagener bereits Konzerte auf dem Roskilde, d
 
 Nach ihrem ersten Album "Loss" nahmen sie eine Split-EP mit Wovoka auf. 2018 erblickte dann das zweite Album "Deads" das Licht der Musikwelt. Es war bereits ungleich komplexer als der Erstling und ebnete den Weg für die nächste Woche erscheinende neue LP "Unmaker".
 
-Die Bandmitglieder berichten, sie haben mit "Dead" die Verschmelzung von Gitarren-, Bass- und Synthesizer-Schichten weiter erforscht. Mit ihrer neuen Platte haben sie diese Fähigkeit ganz klar perfektioniert.
+Die Bandmitglieder berichten, sie haben mit "Deads" die Verschmelzung von Gitarren-, Bass- und Synthesizer-Schichten weiter erforscht. Mit ihrer neuen Platte haben sie diese Fähigkeit ganz klar perfektioniert.
 
 Mir gefällt, dass die Stücke auf "Unmaker" dennoch keinesfalls zu überladen oder dicht wirken. Sie knallen einfach ordentlich und erzählen Geschichten aus einer Post-apokalytischen Welt zwischen  Science-Fiction, Horror und Film Noir/Psycho-Road-Movie.
 
