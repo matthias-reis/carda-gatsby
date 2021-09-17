@@ -38,7 +38,7 @@ Als Nächstes folgt "Desecrator" LLNN Sound Designer Ketil G. Sejersen beschreib
 
 ![LLNN – "Unmaker"](/img/llnn1625512125413194.jpg "LLNN – \"Unmaker\"")
 
-Was krass klingt, ist es auch. Der zweite Track auf der Platte verzichtet in seinen 4:13 auf Gehörschutz. Er holt die Hörer⋆innen da ab, wo wir alle uns gerade befinden: Auf einer Welle der Verwirrung und des Zweifels, ungewiss, was uns an der nächsten Ecke begegnen wird. Gleichzeitig ist er eine starke Einladung, weiter in den Sounduntergrund von LLNN einzutauchen und die Finsternis und Schwere zu erforschen, die uns dort erwartet.
+Was krass klingt, ist es auch. Der zweite Track auf der Platte verzichtet in seinen 4:13 auf Gehörschutz. Er holt die Hörer⋆innen da ab, wo wir alle uns gerade befinden: Auf einer Welle der Verwirrung und des Zweifels, ungewiss, was uns an der nächsten Ecke begegnen wird. Gleichzeitig ist er eine guturale Einladung, weiter in den Sounduntergrund von LLNN einzutauchen und die Finsternis und Schwere zu erforschen, die uns dort erwartet.
 
 ## Klaustrophobie und Futurismus
 
