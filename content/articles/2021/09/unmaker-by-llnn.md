@@ -78,7 +78,7 @@ After their first album, "Loss", they recorded a split EP with Wovoka. Then, in 
 
 The band members report that with "Deads", they further explored the fusion of guitar, bass and synthesizer layers. With their new record, they have clearly perfected this skill.
 
-I like that the tracks on "Unmaker" still don't seem too overloaded or dense at all. Instead, they blast properly, telling stories from a post-apocalyptic world between science fiction, horror and film noir/psycho roadmovie.
+I like that the tracks on "Unmaker" still don't seem too overloaded or dense at all. Instead, they blast properly, telling stories from a post-apocalyptic world between science fiction, horror and film noir/psycho road movie.
 
 ## LLNN – "Desecrator"
 
