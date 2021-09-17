@@ -44,7 +44,7 @@ That doesn't only sound crass – it is. The second track on the record lacks e
 
 With the next song, "Obsidian", I have finally landed in the futuristic world of LLNN. The track pictures an intense future that is still ahead of us. I can see the dense, claustrophobic crawlspaces and corrosive scanner lights that the band had in mind when they composed it in my mind's eye.
 
-"Vacuum" then takes it up a notch. With its 2:12, the mystical sounding track is the shortest one on the record. It seems like some sort of riddle to me. A drilling drone spreads out and captures my attention. In terms of sound, "Vakuum" is an absolute masterpiece – I would love to listen to it as a film score for a dystopian piece –  delusions of persecution included. I particularly like the shouts here. They suddenly appear, only to disappear into the mist again.
+"Vacuum" then takes it up a notch. With its 2:12, the mystical sounding track is the shortest one on the record. It seems like some sort of riddle to me. A drilling drone spreads out and captures my attention. In terms of sound, "Vakuum" is an absolute masterpiece – I would love to listen to it as a film score for a dystopian short movie – delusions of persecution included. I particularly like the shouts here. They suddenly appear, only to disappear into the mist again.
 
 "Scion" begins with dramatic vocals. There is no room for a long intro here. What needs to be said needs to be said. Nevertheless, the song doesn't fall through the cracks. For me, it is the continuation of its predecessor and the perfectly overdriven highlight of the record. I can hear Amenra here, but also [Year Of No Light](/2021/05/year-of-no-light-consolamentum-en/) and influences from the industrial niche.
 
