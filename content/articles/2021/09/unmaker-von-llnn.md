@@ -42,7 +42,7 @@ Was krass klingt, ist es auch. Der zweite Track auf der Platte verzichtet in sei
 
 ## Klaustrophobie und Futurismus
 
-Weiter geht es mit "Obsidian". Hier sind wir endgültig gelandet in der futuristischen Welt von LLNN. Der Song zeichnet eine intensive Zukunft, die uns noch bevorsteht. Ich sehe die dichten, Klaustrophobie hervorrufenden Kriechräume und ätzenden Scanner-Lichter, die der Band beim Komponieren laut eigener Aussage vorschwebten beim Hören vor meinem inneren Auge.
+Weiter geht es mit "Obsidian". Hier bin ich endgültig gelandet in der futuristischen Welt von LLNN. Der Song zeichnet eine intensive Zukunft, die uns noch bevorsteht. Ich sehe die dichten, Klaustrophobie hervorrufenden Kriechräume und ätzenden Scanner-Lichter, die der Band beim Komponieren laut eigener Aussage vorschwebten beim Hören vor meinem inneren Auge.
 
 "Vakuum" legt anschließend noch eine Schippe drauf. Mit 2:12 ist der mystische beginnende Track der kürzeste auf der Platte. Er wirkt wie ein Rätsel. Ein bohrendes Dröhnen breitet sich aus und fesselt meine Aufmerksamkeit. Klanglich ist "Vakuum" ein echtes Meisterwerk – ich wünsche es mir als Filmmusik für einen dystopischen Kurzfilm – Verfolgungswahn inklusive. Besonders gut gefallen mir hier die Shouts, die plötzlich auftauchen, um anschließend wieder im Nebel zu verschwinden.
 
