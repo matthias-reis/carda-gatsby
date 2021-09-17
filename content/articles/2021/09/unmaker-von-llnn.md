@@ -46,7 +46,7 @@ Weiter geht es mit "Obsidian". Hier sind wir endgültig gelandet in der futurist
 
 "Vakuum" legt anschließend noch eine Schippe drauf. Mit 2:12 ist der mystische beginnende Track der kürzeste auf der Platte. Er wirkt wie ein Rätsel. Ein bohrendes Dröhnen breitet sich aus und fesselt meine Aufmerksamkeit. Klanglich ist "Vakuum" ein echtes Meisterwerk – ich wünsche es mir als Filmmusik für ein dystopisches Stück – Verfolgungswahn inklusive Besonders gut gefallen mir hier die Shouts, die plötzlich auftauchen, um anschließend wieder im Nebel zu verschwinden.
 
-"Scion" beginnt mit dramatischem Gesang. Hier gibt es keinen Platz für ein langes Intro. Was gesagt werden muss, muss gesagt werden. Dennoch fällt der Song nicht mit der Tür ins Haus. Für mich ist er die Fortsetzung seines Vorgängers und der perfekt übersteuerte Höhepunkt der Platte. Ich höre hier Amenra raus aber auch Year Of No Light und Einflüsse aus der Industrial-Ecke.
+"Scion" beginnt mit dramatischem Gesang. Hier gibt es keinen Platz für ein langes Intro. Was gesagt werden muss, muss gesagt werden. Dennoch fällt der Song nicht mit der Tür ins Haus. Für mich ist er die Fortsetzung seines Vorgängers und der perfekt übersteuerte Höhepunkt der Platte. Ich höre hier Amenra raus aber auch [Year Of No Light](/2021/05/year-of-no-light-consolamentum/) und Einflüsse aus der Industrial-Ecke.
 
 ## "Unmaker" erzählt viele Geschichten
 
