@@ -38,7 +38,7 @@ The next song is called "Desecrator". LLNN sound designer Ketil G. Sejersen desc
 
 ![LLNN – "Unmaker"](/img/llnn1625512125413194.jpg "LLNN – \"Unmaker\"")
 
-That doesn't only sound crass – it is. The second track on the record lacks ear protection in its 4:13. It picks up the listener in this one place where we all are right now: On a wave of confusion and doubt, uncertain what awaits us behind the next corner. At the same time, it is a friendly invitation to dive further into the sound underground of LLNN and explore the darkness and heaviness that awaits us there.
+That doesn't only sound crass – it is. The second track on the record lacks ear protection in its 4:13. It picks up the listener in this one place where we all are right now: On a wave of confusion and doubt, uncertain what awaits us behind the next corner. At the same time, it is a gutural invitation to dive further into the sound underground of LLNN and explore the darkness and heaviness that awaits us there.
 
 ## Claustrophobia and futurism
 
