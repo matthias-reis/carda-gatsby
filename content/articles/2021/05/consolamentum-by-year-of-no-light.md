@@ -1,5 +1,18 @@
 ---
 date: 2021-05-02T17:21:42.000+00:00
+slug: year-of-no-light-consolamentum-en
+typeName: Review
+title: Year Of No Light – "Consolamentum"
+subTitle: Stories From The Dark Side
+seoTitle: Year Of No Light – "Consolamentum" – Stories From The Dark Side
+ogTitle: ""
+description: 'Year Of No Light have finished their new album! "Consolamentum"
+  will be hitting your records store soon. I already had the chance to listen to
+  it, and I concluded: It is an extraordinary record. You should definitely
+  consider adding it to your collection.'
+excerpt: ""
+image: /img/year-of-no-light.jpg
+ogImage: /img/year-of-no-light-fb.png
 labels:
   - Year Of No Light
   - post-rock
@@ -10,21 +23,11 @@ labels:
   - pelagic
   - Roadburn
   - English & German
-language: en
-slug: year-of-no-light-consolamentum-en
-typeName: Review
-title: Year Of No Light – "Consolamentum"
-subTitle: Stories From The Dark Side
-seoTitle: Year Of No Light – "Consolamentum" – Stories From The Dark Side
-ogTitle: ''
-description: 'Year Of No Light have finished their new album! "Consolamentum" will be hitting your records store soon. I already had the chance to listen to it, and I concluded: It is an extraordinary record. You should definitely consider adding it to your collection.'
-excerpt: ''
-image: '/img/year-of-no-light.jpg'
-ogImage: '/img/year-of-no-light-fb.png'
 focusKeyword: Year Of No Light
 advertisement: false
 affiliate: false
-languageLink: '/year-of-no-light-consolamentum'
+language: en
+languageLink: /2021/05/year-of-no-light-consolamentum/
 ---
 
 **Year Of No Light have finished their new album! "Consolamentum" will be hitting your records store soon. I already had the chance to listen to it, and I concluded: It is an extraordinary record. You should definitely consider adding it to your collection.**
