@@ -24,7 +24,7 @@ focusKeyword: LLNN
 advertisement: false
 affiliate: false
 language: de
-languageLink: /2021/09llnn-unmaker-en/
+languageLink: /2021/09/llnn-unmaker-en/
 ---
 **Am 24. September erscheint ein Album, dass Ihr Euch auf alle Fälle schon mal vormerken solltet: "Unmaker" von LLNN ist ein Paradebeispiel für düsteren harten Post-Metal. Wenn Euch dieses Genre begeistert, führt kein Weg an diesem Monolithen vorbei.**
 
