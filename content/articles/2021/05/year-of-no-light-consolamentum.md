@@ -1,5 +1,19 @@
 ---
 date: 2021-05-18T08:07:00.000+02:00
+slug: year-of-no-light-consolamentum
+typeName: Review
+title: Year Of No Light – "Consolamentum"
+subTitle: Geschichten aus der Dunkelheit
+seoTitle: Year of No Light – "Consolamentum" – Rock 'n Roll vegan Review
+ogTitle: ""
+description: Year of No Light haben ihr neues Album fertig! "Consolamentum"
+  erscheint diesen Sommer. Ich hatte schon Gelegenheit, es zu hören.
+excerpt: 'Year Of No Light haben ihr neues Album fertig! "Consolamentum" wird
+  diesen Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und
+  muss sagen: Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung
+  solltet Ihr unbedingt in Erwägung ziehen.'
+image: /img/year-of-no-light.jpg
+ogImage: /img/year-of-no-light-fb.png
 labels:
   - australian post-rock
   - Post-Rock
@@ -10,21 +24,11 @@ labels:
   - Pelagic
   - Post-Metal
   - English & German
-language: de
-slug: year-of-no-light-consolamentum
-typeName: Review
-title: Year Of No Light – "Consolamentum"
-subTitle: Geschichten aus der Dunkelheit
-seoTitle: Year of No Light – "Consolamentum" – Rock 'n Roll vegan Review
-ogTitle: ''
-description: Year of No Light haben ihr neues Album fertig! "Consolamentum" erscheint diesen Sommer. Ich hatte schon Gelegenheit, es zu hören.
-excerpt: 'Year Of No Light haben ihr neues Album fertig! "Consolamentum" wird diesen Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und muss sagen: Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung solltet Ihr unbedingt in Erwägung ziehen.'
-image: '/img/year-of-no-light.jpg'
-ogImage: '/img/year-of-no-light-fb.png'
 focusKeyword: Year Of No Light
 advertisement: false
 affiliate: false
-languageLink: '/year-of-no-light-consolamentum-en'
+language: de
+languageLink: /2021/05/year-of-no-light-consolamentum-en/
 ---
 
 **Year Of No Light haben ihr neues Album fertig! "Consolamentum" wird diesen Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und muss sagen: Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung solltet Ihr unbedingt in Erwägung ziehen.**
