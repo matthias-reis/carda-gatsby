@@ -68,7 +68,7 @@ Jeder Song erzählt seine eigene Geschichte. Insgesamt entsteht so ein monumenta
 
 Für ein würdevolles Finale sorgt anschließend "Resurrection", das wie die Landung nach einem jahrelangen Erkundungsflug durch die Tiefen des Alls wirkt.
 
-Für mich haben LLNN mit ihrem bisher dritten Album alles richtig gemacht. "Unmaker" passt in das Jahr 2021 und wird uns auch in Zukunft noch viel Freude machen.
+Für mich haben LLNN mit ihrem dritten Album alles richtig gemacht. "Unmaker" passt in das Jahr 2021 und wird uns auch in Zukunft noch viel Freude machen.
 
 ## LLNN – zur Bandgeschichte
 
