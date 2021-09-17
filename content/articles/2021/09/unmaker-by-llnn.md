@@ -66,7 +66,7 @@ Each song tells its own story. Altogether, this creates a monumental epos that y
 
 ![LLNN](/img/llnn-2.jpg "LLNN")
 
-The next song, "Tethers", is a great transistion. It sets another contrastfull landmark. Finally, "Resurrection" provides a dignified epilogue, which seems like the landing after a years-long exploratory flight through the depths of space full of dangerous encounters and adventures.
+The next song, "Tethers", is an excellent transition – it sets another contrasty landmark. Finally, "Resurrection" provides a dignified epilogue, which seems like the landing after a years-long exploratory flight through the depths of space full of dangerous encounters and adventures.
 
 With their third album, LLNN have done everything right. "Unmaker" fits into the year 2021 perfectly, and it will still bring us a lot of joy in the future.
 
