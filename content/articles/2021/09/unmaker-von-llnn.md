@@ -72,7 +72,7 @@ Für mich haben LLNN mit ihrem dritten Album alles richtig gemacht. "Unmaker" pa
 
 ## LLNN – zur Bandgeschichte
 
-In der Vergangenheit haben die Kopenhagener bereits Konzerte auf dem Roskilde, dem Roadburn und dem [ArcTanGent](/2019/09/arctangent-festival-2019-2/) Festival gespielt und unter anderem eine Europatournee mit Bison bestritten. Es handelt sich bei LLNN also keineswegs um unbeschriebenes Blatt in der Post-Music Szene.
+In der Vergangenheit haben die Kopenhagener schon Konzerte auf dem Roskilde, dem Roadburn und dem [ArcTanGent](/2019/09/arctangent-festival-2019-2/) Festival gespielt und unter anderem eine Europatournee mit Bison bestritten. Es handelt sich bei LLNN also keineswegs um unbeschriebenes Blatt in der Post-Music Szene.
 
 Nach ihrem ersten Album "Loss" nahmen sie eine Split-EP mit Wovoka auf. 2018 erblickte dann das zweite Album "Deads" das Licht der Musikwelt. Es war bereits ungleich komplexer als der Erstling und ebnete den Weg für die nächste Woche erscheinende neue LP "Unmaker".
 
