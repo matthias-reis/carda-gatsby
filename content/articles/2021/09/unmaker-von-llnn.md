@@ -7,7 +7,7 @@ subTitle: Post-apokalyptischer Sound aus Kopenhagen
 seoTitle: '"Unmaker" von LLNN – Post-Metal Review'
 description: 'Am 24. September erscheint ein Album, dass Ihr Euch auf alle Fälle
   schon mal vormerken solltet: "Unmaker" von LLNN ist ein Paradebeispiel für
-  düsteren harten Post-Metal. Wenn Euch dieses Genre begeistert, führt kein Weg
+  düsteren, harten Post-Metal. Wenn Euch dieses Genre begeistert, führt kein Weg
   an diesem Monolithen vorbei.'
 image: /img/llnn.jpg
 copyrigt: LLNN
@@ -26,7 +26,7 @@ affiliate: false
 language: de
 languageLink: /2021/09/llnn-unmaker-en/
 ---
-**Am 24. September erscheint ein Album, dass Ihr Euch auf alle Fälle schon mal vormerken solltet: "Unmaker" von LLNN ist ein Paradebeispiel für düsteren harten Post-Metal. Wenn Euch dieses Genre begeistert, führt kein Weg an diesem Monolithen vorbei.**
+**Am 24. September erscheint ein Album, dass Ihr Euch auf alle Fälle schon mal vormerken solltet: "Unmaker" von LLNN ist ein Paradebeispiel für düsteren, harten Post-Metal. Wenn Euch dieses Genre begeistert, führt kein Weg an diesem Monolithen vorbei.**
 
 Der erste Song "Imperial" ist klangvoll und bedrohlich, hart und energiegeladen. Schweißtreibende schwere Bässe lösen sich mit dröhnenden Gitarrenriffs ab. Ich finde, das macht richtig Laune.
 
