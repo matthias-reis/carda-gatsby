@@ -57,7 +57,7 @@ Inzwischen gibt es auf dem Hof [Walnüsse](/2019/09/hof-windkind-walnuss-baum-ad
 
 David kommentiert das so:
 
-> "Es ist für uns sehr motivierend, am frühen Morgen auf dem Feld zu stehen und zu wissen, dass Menschen sich auf unsere Nüsse freuen und schon darauf warten. Wir wissen, für wen wir die Nüsse anbauen: für Familien, für Kinder, für Menschen aus ganze Deutschland und darüber hinaus."
+> "Es ist für uns sehr motivierend, am frühen Morgen auf dem Feld zu stehen und zu wissen, dass Menschen sich auf unsere Nüsse freuen und schon darauf warten. Wir wissen, für wen wir die Nüsse anbauen: für Familien, für Kinder, für Menschen aus ganz Deutschland und darüber hinaus."
 
 Der Hof hat seinen Sitz ganz in der Nähe von Berlin im ländlichen Brandenburg. Genauer: Im Löwenberger Land. Im Sommer finden dort regelmäßig Führungen statt. Wenn Ihr also neugierig seid, wie es dort aussieht und gerade in der Nähe seid, könnt Ihr Euch Hof Windkind von Silvia und David zeigen lassen.
 
