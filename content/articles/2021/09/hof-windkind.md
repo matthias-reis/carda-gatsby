@@ -47,12 +47,6 @@ Die beiden sind willkommene Gäste auf meiner Seite und melden sich immer wieder
 
 Sie funktioniert so: Silvia und Daniel machen aus kargem Ackerland eine Öko-Oase für Mensch und Tier. Ihr habt dann die Möglichkeit, eine Boden- oder Baumpatenschaft übernehmen.
 
----
-
-Wenn Ihr Eure Bodenpatenschaft bis zum 20. Oktober abschließt, erhaltet Ihr Euren Anteil in Form von Nussöl oder Nüssen noch in diesem Jahr. Ab dem 21. Oktober gehen dann die Bodenpatenschaften für das Jahr 2022 los.
-
----
-
 Als [Bodenpat⋆innen](/2021/04/bodenpatenschaft-hof-windkind/) bekommt Ihr dann einen Ernteanteil vom Hof Windkind im Plastik-freien Post-Versand ganz bequem nach Hause geliefert. Ihr könnt dann nach Herzenslust Nüsse oder [Walnussöl](/2020/10/walnussoel-hof-windkind/) schlemmen und die Natur rund um den Hof erholt sich nach und nach.
 
 Ihr tut also etwas Gutes und macht Eure Küche noch schmackhafter und gesünder. Das klingt ziemlich gut, oder?
@@ -92,6 +86,12 @@ Hof Windkind soll nach und nach ein Klima-positives Unternehmen werden. Darum st
 ## Hof Windkind kennenlernen
 
 Wenn Ihr jetzt Lust bekommen habt, auch mal eine Patenschaft zu übernehmen, finde Ihr hier im Blog noch viele weitere Informationen. Meine Artikel habe ich unten für Euch verlinkt. Oder Ihr schaut gleich mal auf der [Hof Windkind Seite](https://www.hofwindkind.com/info/alle-produkte.html) vorbei und überlegt Euch, welche Patenschaft für Euch die Passende ist.
+
+---
+
+Wenn Ihr Eure Bodenpatenschaft bis zum 20. Oktober abschließt, erhaltet Ihr Euren Anteil in Form von Nussöl oder Nüssen noch in diesem Jahr. Ab dem 21. Oktober gehen dann die Bodenpatenschaften für das Jahr 2022 los.
+
+---
 
 [Walnüsse von Hof Windkind](/2019/09/hof-windkind-walnuss-baum-adoptieren/)
 [Haselnüsse von Hof Windkind](/2020/03/haselnuesse-hof-windkind/)
