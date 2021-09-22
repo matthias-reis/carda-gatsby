@@ -7,7 +7,7 @@ subTitle: So betreibt Ihr als Bodenpat⋆innen selbst aktiv Biolandwirtschaft
 seoTitle: Mit Hof Windkind als Bodenpat*in selbst aktiv Biolandwirtschaft betreiben
 description: Mit Hof Windkind verbindet mich inzwischen schon eine langjährige
   Freundschaft. Das Gründerpaar Silvia und Daniel baut dort bio-vegane Nüsse an,
-  aus denen sie unter anderem hochwertiges Walnuss-Öl herstellen.
+  aus denen sie unter anderem hochwertiges Walnussöl herstellen.
 image: /img/2021-09-22-hof-windkind-walnussoel-3.jpg
 copyrigt: ""
 ogImage: /img/hof-windkind-bio-vegane-landwirtschaft-fb.png
@@ -39,7 +39,7 @@ advertisement: true
 affiliate: false
 language: de
 ---
-**Mit Hof Windkind verbindet mich inzwischen schon eine langjährige Freundschaft. Das Gründerpaar Silvia und Daniel baut dort bio-vegane Nüsse an, aus denen sie unter anderem hochwertiges Walnuss-Öl herstellen.**
+**Mit Hof Windkind verbindet mich inzwischen schon eine langjährige Freundschaft. Das Gründerpaar Silvia und Daniel baut dort bio-vegane Nüsse an, aus denen sie unter anderem hochwertiges Walnussöl herstellen.**
 
 Die beiden sind willkommene Gäste auf meiner Seite und melden sich immer wieder mit tollen Ideen bei mir. Eine davon – die Basis ihrer Arbeit – sind ihre Patenschaften.
 
@@ -63,7 +63,7 @@ Der Hof hat seinen Sitz ganz in der Nähe von Berlin im ländlichen Brandenburg.
 
 ## Die Bodenpatenschaft dauert ein Jahr
 
-Wenn Ihr Euch dafür entscheidet, eine Bodenpatenschaft zu übernehmen, könnt Ihr Euch aussuchen, ob Ihr Euren Ernte-Anteil in Form von [Walnüssen](/2019/09/hof-windkind-walnuss-baum-adoptieren/), [Haselnüssen](/2020/03/haselnuesse-hof-windkind/) oder [Walnussöl](/2020/10/walnussoel-hof-windkind/) haben wollt. Wie Ihr auf den Bildern sehen könnt, habe ich mich dieses Mal für Walnuss-Öl entschieden. Ich habe es schon zum zweiten Mal und liebe es wirklich sehr. Es besitzt einen sehr angenehmen Geschmack und passt perfekt in Smoothies oder Süßspeisen. Außerdem ist es eine wunderbare Basis für leckere Salatdressings.
+Wenn Ihr Euch dafür entscheidet, eine Bodenpatenschaft zu übernehmen, könnt Ihr Euch aussuchen, ob Ihr Euren Ernte-Anteil in Form von [Walnüssen](/2019/09/hof-windkind-walnuss-baum-adoptieren/), [Haselnüssen](/2020/03/haselnuesse-hof-windkind/) oder [Walnussöl](/2020/10/walnussoel-hof-windkind/) haben wollt. Wie Ihr auf den Bildern sehen könnt, habe ich mich dieses Mal für Walnussöl entschieden. Ich habe es schon zum zweiten Mal und liebe es wirklich sehr. Es besitzt einen sehr angenehmen Geschmack und passt perfekt in Smoothies oder Süßspeisen. Außerdem ist es eine wunderbare Basis für leckere Salatdressings.
 
 Die Patenschaft dauert jeweils ein Jahr. Ob Ihr im nächsten Jahr wieder eine übernehmen wollt, entscheidet ihr selbst. Ihr müsst also nichts kündigen oder so. Ich finde das ziemlich gut. Schließlich weiß man ja nicht, ob man vielleicht auch mal Nüsse statt Öl haben möchte oder umgekehrt. Und wer weiß, vielleicht gibt es ja 2022 schon wieder was Neues von Hof Windkind? Dafür möchte ich auch auf alle Fälle offen bleiben.
 
