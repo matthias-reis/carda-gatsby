@@ -49,7 +49,7 @@ Sie funktioniert so: Silvia und Daniel machen aus kargem Ackerland eine Öko-Oas
 
 ---
 
-**Hinweis:** Wenn Ihr Eure Bodenpatenschaft bis zum 20. Oktober abschließt, erhaltet Ihr Euren Anteil in Form von Nussöl oder Nüssen noch in diesem Jahr. Ab dem 21. Oktober gehen dann die Bodenpatenschaften für das Jahr 2022 los.
+Wenn Ihr Eure Bodenpatenschaft bis zum 20. Oktober abschließt, erhaltet Ihr Euren Anteil in Form von Nussöl oder Nüssen noch in diesem Jahr. Ab dem 21. Oktober gehen dann die Bodenpatenschaften für das Jahr 2022 los.
 
 ---
 
