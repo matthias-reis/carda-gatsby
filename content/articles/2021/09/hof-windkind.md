@@ -5,7 +5,7 @@ typeName: Produkttest
 title: Hof Windkind
 subTitle: So betreibt Ihr als Bodenpat⋆innen selbst aktiv Biolandwirtschaft
 seoTitle: Mit Hof Windkind als Bodenpat*in selbst aktiv Biolandwirtschaft betreiben
-description: Mit Hof Windkind verbindet mich inzwischen schon eine richtige
+description: Mit Hof Windkind verbindet mich inzwischen schon eine langjährige
   Freundschaft. Das Gründerpaar Silvia und Daniel baut dort bio-vegane Nüsse an,
   aus denen sie unter anderem hochwertiges Walnuss-Öl herstellen.
 image: /img/2021-09-22-hof-windkind-walnussoel-3.jpg
@@ -39,7 +39,7 @@ advertisement: true
 affiliate: false
 language: de
 ---
-**Mit Hof Windkind verbindet mich inzwischen schon eine richtige Freundschaft. Das Gründerpaar Silvia und Daniel baut dort bio-vegane Nüsse an, aus denen sie unter anderem hochwertiges Walnuss-Öl herstellen.**
+**Mit Hof Windkind verbindet mich inzwischen schon eine langjährige Freundschaft. Das Gründerpaar Silvia und Daniel baut dort bio-vegane Nüsse an, aus denen sie unter anderem hochwertiges Walnuss-Öl herstellen.**
 
 Die beiden sind willkommene Gäste auf meiner Seite und melden sich immer wieder mit tollen Ideen bei mir. Eine davon – die Basis ihrer Arbeit – sind ihre Patenschaften.
 
