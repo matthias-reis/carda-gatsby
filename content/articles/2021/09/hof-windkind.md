@@ -87,7 +87,7 @@ Bio-vegane Landwirtschaft im Einklang mit der Natur also. David freut sich, der 
 
 > "Die besten Erzeugnisse entstehen im Einklang mit der Natur. Auf dieser Überzeugung fusst unsere Philosophie. Mit vielfältigen Begrünungen zwischen den  Bäumen, Blühstreifen, Hecken, Sträuchern sowie Unterschlupf-Möglichkeiten für eine vielfältige Fauna inmitten oder an den Rändern unserer Haine fördern wir gezielt die Biodiversität."
 
-Hof Windkind soll nach und nach ein Klima-positives Unternehmen werden. Darum stecken David und Silvia auch einen Teil ihrer Erlöse in öko-soziale Projekte, die bei der Einsparung von CO<sub>2</> helfen und Menschen unterstützen. Dafür arbeiten sie unter anderem mit dem Naturfreunde Klimafonds zusammen.
+Hof Windkind soll nach und nach ein Klima-positives Unternehmen werden. Darum stecken David und Silvia auch einen Teil ihrer Erlöse in öko-soziale Projekte, die bei der Einsparung von CO<sub>2</sub> helfen und Menschen unterstützen. Dafür arbeiten sie unter anderem mit dem Naturfreunde Klimafonds zusammen.
 
 ## Hof Windkind kennenlernen
 
