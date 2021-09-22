@@ -91,7 +91,7 @@ Wenn Ihr jetzt Lust bekommen habt, auch mal eine Patenschaft zu übernehmen, fin
 
 ---
 
-Wenn Ihr Eure Bodenpatenschaft bis zum 20. Oktober abschließt, erhaltet Ihr Euren Anteil in Form von Nussöl oder Nüssen noch in diesem Jahr. Ab dem 21. Oktober gehen dann die Bodenpatenschaften für das Jahr 2022 los.
+**Hinweis:** Wenn Ihr Eure Bodenpatenschaft bis zum 20. Oktober abschließt, erhaltet Ihr Euren Anteil in Form von Nussöl oder Nüssen noch in diesem Jahr. Ab dem 21. Oktober gehen dann die Bodenpatenschaften für das Jahr 2022 los.
 
 ---
 
