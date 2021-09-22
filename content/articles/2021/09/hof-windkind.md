@@ -98,4 +98,4 @@ Wenn Ihr jetzt Lust bekommen habt, auch mal eine Patenschaft zu übernehmen, fin
 [Walnussöl von Hof Windkind](/2020/10/walnussoel-hof-windkind/)
 [Bodenpatenschaft mit Hof Windkind](/2021/04/bodenpatenschaft-hof-windkind/)
 
-Weitere Details zur Werbekennzeichnung in diesem Beitrag: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/tipps/werbekennzeichnung/)
+Weitere Details zur Werbekennzeichnung in diesem Beitrag: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/tipps/werbekennzeichnung)
