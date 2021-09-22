@@ -67,6 +67,8 @@ Wenn Ihr Euch dafür entscheidet, eine Bodenpatenschaft zu übernehmen, könnt I
 
 Die Patenschaft dauert jeweils ein Jahr. Ob Ihr im nächsten Jahr wieder eine übernehmen wollt, entscheidet ihr selbst. Ihr müsst also nichts kündigen oder so. Ich finde das ziemlich gut. Schließlich weiß man ja nicht, ob man vielleicht auch mal Nüsse statt Öl haben möchte oder umgekehrt. Und wer weiß, vielleicht gibt es ja 2022 schon wieder was Neues von Hof Windkind? Dafür möchte ich auch auf alle Fälle offen bleiben.
 
+<Gallery name="hof-windkind-bio-vegane-landwirtschaft-1" />
+
 ## Auch Baumpatenschaften sind möglich
 
 Neben den Bodenpatenschaften könnt Ihr bei Hof Windkind auch Baumpatenschaften übernehmen. Ihr adoptiert dann einen Walnuss- oder Haselnussbaum und bekommt die Ernte praktisch in einem Karton verpackt portofrei nach Hause. Solange Euer Baum noch keine Früchte trägt, bekommt Ihr die Nüsse von anderen Windkind Bäumen. Bei der Baumpatenschaft könnt Ihr Euch entscheiden, ob Ihr sie erstmal nur für ein Jahr oder gleich für drei Jahre übernehmen möchtet. 
@@ -97,5 +99,7 @@ Wenn Ihr Eure Bodenpatenschaft bis zum 20. Oktober abschließt, erhaltet Ihr Eur
 [Haselnüsse von Hof Windkind](/2020/03/haselnuesse-hof-windkind/)
 [Walnussöl von Hof Windkind](/2020/10/walnussoel-hof-windkind/)
 [Bodenpatenschaft mit Hof Windkind](/2021/04/bodenpatenschaft-hof-windkind/)
+
+<Gallery name="hof-windkind-bio-vegane-landwirtschaft-2" />
 
 Weitere Infos zur Werbekennzeichnung in diesem Artikel: [https://www.trusted-blogs.com/tipps/werbekennzeichnung/](www.trusted-blogs.com/werbekennzeichnung)
