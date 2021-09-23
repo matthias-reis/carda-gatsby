@@ -44,7 +44,7 @@ The outcome is quite magical. The music reflects the intense conversations the t
 
 Stylistically, the newborn trio relies on elements from the electronic, shoegaze, and ambient world. So each band member contributes their or own individual fingerprint.
 
-This combination and the perfect harmony between the musicians provide an unbelievably rounded and versatile body of work that sends pleasant shivers down the spine of fans of all three genres.
+This combination and the perfect-seeming harmony between the musicians provide an unbelievably rounded and versatile body of work that sends pleasant shivers down the spine of fans of all three genres.
 
 ![From Overseas & Awakening Souls](/img/ktos2.jpg "From Overseas & Awakening Souls")
 
