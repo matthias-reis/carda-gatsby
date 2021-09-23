@@ -32,7 +32,7 @@ languageLink: /2021/09/keep-the-orange-sun/
 ---
 **Awakened Souls recorded a fantastic new album in cooperation with From Overseas aka Kévin Séry. It will be released tomorrow, so I'll take the chance to introduce it to you today. For me, "Keep The Orange Sun" is solid gold – it definitely needs to be part of my vinyl collection.**
 
-If you don't know Awakened Souls by now: They are a musical couple from Los Angeles who already recorded three records together. Some days ago, they met with Kévin through the ambient community. All three of them have been fans of each others music, so they decided to make an album on Past Inside The Present Records.
+If you don't know Awakened Souls by now: They are a musical couple from Los Angeles who already recorded three records together. Some days ago, they got to know Kévin through the ambient community. All three of them have been fans of each other's music for a long time, so when they met, they decided to make an album on Past Inside The Present Records.
 
 on the beautiful island of Réunion to make music.
 
