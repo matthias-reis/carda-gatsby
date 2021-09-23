@@ -52,7 +52,7 @@ This combination and the perfect-seeming harmony between the musicians provide a
 
 For me, "Keep The Orange Sun" is more than a pleasure. It is a beautiful successor for From Overseas' last masterpiece, "Home", which I [also featured here on the blog](/2020/04/from-overseas-interview-en). I'm already very excited to see what we can expect next from Kévin.
 
-From the atmospheric sunrise in "Certainty Of Tides", the emotionally charged sequences in "Any Of This Lies", and the soulful moments in "Rise", the LP spirals up until the sonic peak "Release/Adapt". So far, the track is my favourite on "Keep The Orange Sun". The song is incredibly vibrant. Especially the tender lyrics have it in them, making me dream while listening – of a world without doubts and insecurities.
+From the atmospheric sunrise in "Certainty Of Tides" to the emotionally charged sequences in "Any Of This Lies", and the soulful moments in "Rise", the LP spirals up until the sonic peak "Release/Adapt". So far, the track is my favourite on "Keep The Orange Sun". The song is incredibly vibrant. Especially the tender lyrics have it in them, making me dream while listening – of a world without doubts and insecurities.
 
 With "Open Heart", From Overseas and Awakened Souls, open our hearts by giving our ears a wellness treatment. "Deepest Ocean" continues in a relaxed way. A sound bath of feelings lets me dive into a chilly world full of darkness and light. Light swimming strokes lead me further in the direction of "Keep The Orange Sun". The album's eponym brings beautiful post-rock elements. The space seems endless and wide.
 
