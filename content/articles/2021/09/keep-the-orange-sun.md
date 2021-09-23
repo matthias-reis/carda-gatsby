@@ -45,7 +45,7 @@ Was dabei herausgekommen ist, ist magisch. In der Musik spiegeln sich die intens
 
 Das neugeborene Trio setzt stilistisch auf Elemente aus Electronic, Shoegaze und Ambient – Jedes Bandmitglied bringt also seinen ganz individuellen Fingerabdruck mit ein.
 
-Diese Mischung und die perfekte Harmonie zwischen den Musiker⋆innen liefert ein unglaublich rundes und vielseitiges Gesamtwerk, das Fans aller drei Genres wohlige Schauer über den Rücken jagt.
+Diese Mischung und die perfekte Harmonie zwischen den Musiker⋆innen liefern ein unglaublich rundes und vielseitiges Gesamtwerk, das Fans aller drei Genres wohlige Schauer über den Rücken jagt.
 
 ![From Overseas & Awakening Souls](/img/ktos2.jpg "From Overseas & Awakening Souls")
 
