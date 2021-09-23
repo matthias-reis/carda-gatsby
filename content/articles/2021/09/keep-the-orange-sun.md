@@ -53,7 +53,7 @@ Diese Mischung und die perfekte Harmonie zwischen den Musiker⋆innen liefern ei
 
 Für mich ist "Keep The Orange Sun" mehr als gelungen. Die Platte knüpft ganz wunderbar an Kévins letztes Meisterwerk "Home" an, das ich [hier im Blog auch schon vorgestellt](/2020/04/from-overseas-interview/) habe. Ich bin schon sehr gespannt, was uns als Nächstes aus seiner Richtung erwartet.
 
-Vom stimmungsvollen Sonnenaufgang in "Certainty Of Tides", die emotionsgeladenen Sequenzen in "Any Of This Lies" und die gefühlvollen Momente in "Rise" schraubt sich die LP immer weiter hoch bis zum klangvollen Höhepunkt "Release/Adapt". Bis jetzt ist das Stück mein Favorit auf "Keep The Orange Sun". Der Song ist unglaublich mitreißend. Seine Entstehungsgeschichte kann man sich bildlich vorstellen. Besonders die zarten Lyrics haben es wirklich in sich und lassen mich beim Hören träumen – von einer Welt ohne Zweifel und Unsicherheiten.
+Vom stimmungsvollen Sonnenaufgang in "Certainty Of Tides", über die emotionsgeladenen Sequenzen in "Any Of This Lies" und die gefühlvollen Momente in "Rise" schraubt sich die LP immer weiter hoch bis zum klangvollen Höhepunkt "Release/Adapt". Bis jetzt ist das Stück mein Favorit auf "Keep The Orange Sun". Der Song ist unglaublich mitreißend. Seine Entstehungsgeschichte kann man sich bildlich vorstellen. Besonders die zarten Lyrics haben es wirklich in sich und lassen mich beim Hören träumen – von einer Welt ohne Zweifel und Unsicherheiten.
 
 ![From Overseas & Awakening Souls](/img/ktos1.jpg "From Overseas & Awakening Souls")
 
