@@ -6,7 +6,7 @@ title: Hof Windkind
 subTitle: So betreibt Ihr als Bodenpat⋆innen selbst aktiv Biolandwirtschaft
 seoTitle: Mit Hof Windkind als Bodenpat*in selbst aktiv Biolandwirtschaft betreiben
 description: Mit Hof Windkind verbindet mich inzwischen schon eine langjährige
-  Freundschaft. Das Gründerpaar Silvia und Daniel baut dort bio-vegane Nüsse an,
+  Freundschaft. Das Gründerpaar Silvia und David baut dort bio-vegane Nüsse an,
   aus denen sie unter anderem hochwertiges Walnussöl herstellen.
 image: /img/2021-09-22-hof-windkind-walnussoel-3.jpg
 copyrigt: ""
@@ -39,13 +39,13 @@ advertisement: true
 affiliate: false
 language: de
 ---
-**Mit Hof Windkind verbindet mich inzwischen schon eine langjährige Freundschaft. Das Gründerpaar Silvia und Daniel baut dort bio-vegane Nüsse an, aus denen sie unter anderem hochwertiges Walnussöl herstellen.**
+**Mit Hof Windkind verbindet mich inzwischen schon eine langjährige Freundschaft. Das Gründerpaar Silvia und David baut dort bio-vegane Nüsse an, aus denen sie unter anderem hochwertiges Walnussöl herstellen.**
 
 Die beiden sind willkommene Gäste auf meiner Seite und melden sich immer wieder mit tollen Ideen bei mir. Eine davon – die Basis ihrer Arbeit – sind ihre Patenschaften.
 
 ## Bodenpatenschaft übernehmen und hochwertiges Walnussöl bekommen
 
-Sie funktioniert so: Silvia und Daniel machen aus kargem Ackerland eine Öko-Oase für Mensch und Tier. Ihr habt dann die Möglichkeit, eine Boden- oder Baumpatenschaft übernehmen.
+Sie funktioniert so: Silvia und David machen aus kargem Ackerland eine Öko-Oase für Mensch und Tier. Ihr habt dann die Möglichkeit, eine Boden- oder Baumpatenschaft übernehmen.
 
 Als [Bodenpat⋆innen](/2021/04/bodenpatenschaft-hof-windkind/) bekommt Ihr Euren Ernteanteil vom Hof Windkind im Plastik-freien Post-Versand ganz bequem nach Hause geliefert. Anschließend könnt Ihr nach Herzenslust Nüsse oder [Walnussöl](/2020/10/walnussoel-hof-windkind/) schlemmen und die Natur rund um den Hof erholt sich nach und nach.
 
