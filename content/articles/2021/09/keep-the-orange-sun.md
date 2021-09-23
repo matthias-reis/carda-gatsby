@@ -43,7 +43,7 @@ Was dabei herausgekommen ist, ist magisch. In der Musik spiegeln sich die intens
 
 "Keep The Orange Sun" nimmt Euch mit auf eine nachdenkliche Reise. Die insgesamt neun Songs erzählen von der Gewissheit, dass sich das Leben verändert ("Certainty Of Tides"), von aufkommenden Selbstzweifeln ("Release/Adapt") und von der Wohltat des Eintauchen in den gegenwärtigen Moment als Tor zu einer tieferen Verbindung mit der Natur und dem eigenen Leben ("Keep The Orange Sun").
 
-Das neugeborene Trio setzt stilistisch auf Elemente aus Electronic, Shoegaze und Ambient. Jedes Bandmitglied bringt also seinen ganz individuellen Fingerabdruck mit ein.
+Das neugeborene Trio setzt stilistisch auf Elemente aus Electronic, Shoegaze und Ambient – Jedes Bandmitglied bringt also seinen ganz individuellen Fingerabdruck mit ein.
 
 Das und die perfekte Harmonie zwischen den Musiker⋆innen liefert ein unglaublich rundes und vielseitiges Gesamtwerk, das Fans aller drei Genres wohlige Schauer über den Rücken jagt.
 
