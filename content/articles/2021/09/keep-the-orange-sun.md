@@ -23,6 +23,8 @@ labels:
   - From Overseas
   - Awakening Souls
   - Post-Music
+  - Past Inside The Present
+  - La Réunion
 focusKeyword: Keep The Orange Sun
 advertisement: false
 affiliate: false
