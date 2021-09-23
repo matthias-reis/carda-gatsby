@@ -58,7 +58,7 @@ From the atmospheric sunrise in "Certainty Of Tides" to the emotionally charged 
 
 With "Open Heart", From Overseas and Awakened Souls, open our hearts by giving our ears a wellness treatment. "Deepest Ocean" continues in a relaxed manner. A sound bath of feelings lets me dive into a chilly world full of darkness and light. Light swimming strokes lead me further in the direction of "Keep The Orange Sun". The album's eponym brings beautiful post-rock elements. The space seems endless and wide.
 
-## A dreamlike finale
+## The dreamlike finale
 
 "Migration" surprises me with its playful nature. The piece enchants me and forms the perfect transition to the dreamlike finale "Passing Dreams". I am letting the thoughts pass by as they come, not holding on to them anymore.
 
