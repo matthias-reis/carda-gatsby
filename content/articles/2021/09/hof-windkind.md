@@ -95,10 +95,10 @@ Wenn Ihr jetzt Lust bekommen habt, auch mal eine Patenschaft zu übernehmen, fin
 
 ---
 
-[Walnüsse von Hof Windkind](/2019/09/hof-windkind-walnuss-baum-adoptieren/)
-[Haselnüsse von Hof Windkind](/2020/03/haselnuesse-hof-windkind/)
-[Walnussöl von Hof Windkind](/2020/10/walnussoel-hof-windkind/)
-[Bodenpatenschaft mit Hof Windkind](/2021/04/bodenpatenschaft-hof-windkind/)
+- [Walnüsse von Hof Windkind](/2019/09/hof-windkind-walnuss-baum-adoptieren/)
+- [Haselnüsse von Hof Windkind](/2020/03/haselnuesse-hof-windkind/)
+- [Walnussöl von Hof Windkind](/2020/10/walnussoel-hof-windkind/)
+- [Bodenpatenschaft mit Hof Windkind](/2021/04/bodenpatenschaft-hof-windkind/)
 
 <Gallery name="hof-windkind-bio-vegane-landwirtschaft-2" />
 
