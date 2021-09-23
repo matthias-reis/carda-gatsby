@@ -34,8 +34,6 @@ languageLink: /2021/09/keep-the-orange-sun/
 
 If you don't know Awakened Souls by now: They are a musical couple from Los Angeles who already recorded three records together. Some days ago, they got to know Kévin through the ambient community. All three of them have been fans of each other's music for a long time, so when they met, they decided to make an album on Past Inside The Present Records.
 
-on the beautiful island of Réunion to make music.
-
 The outcome is quite magical. The music reflects the intense conversations the three artists had when they first met about their shared musical influences and inspirations.
 
 ![From Overseas & Awakened Souls – "Keep The Orange Sun"](/img/keep-the-orange-sun.jpg "From Overseas & Awakened Souls – \"Keep The Orange Sun\"")
