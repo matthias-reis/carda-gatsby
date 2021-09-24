@@ -37,7 +37,7 @@ Hinter Awakened Souls steckt ein musikalisches Paar aus Los Angeles. Die beiden 
 
 Was dabei herausgekommen ist, ist magisch. In der Musik spiegeln sich die intensiven Gespräche der drei Künstler⋆innen wider, die sie bei ihren ersten Begegnungen zu ihren gemeinsamen musikalischen Einflüssen und Inspirationen geführt haben.
 
-![From Overseas & Awakened Souls – "Keep The Orange Sun"](/img/keep-the-orange-sun.jpg "From Overseas & Awakened Souls – \"Keep The Orange Sun\"")
+![From Overseas & Awakened Souls – "Keep The Orange Sun"](/img/keep-the-orange-sun.jpg "From Overseas & Awakened Souls – \\"Keep The Orange Sun\\"")
 
 ## Eine nachdenkliche Reise
 
@@ -65,6 +65,6 @@ Mit "Open Heart" öffnen From Overseas und Awakened Souls die Herzen und gönnen
 
 Wenn Ihr neugierig seid, könnt Ihr [hier mein Interview mit Kévin Séry aka From Overseas lesen](/2020/04/from-overseas-interview/).
 
-## Awakened Souls & From Overseas – Certainty Of Tides
+## Awakened Souls & From Overseas – "Certainty Of Tides"
 
 <YouTube id="SQEyxMq0MFo" />
