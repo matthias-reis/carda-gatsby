@@ -51,7 +51,7 @@ Zunächst geht er auf die Ethik des Veganismus ein – von der Moralphilosophie 
 
 Auch das Theme Zoonosen, insbesondere natürlich die COVID-19 Pandemie, lässt Ed nicht aus. Hier legt er besonderes Augenmerk auf Infektionskrankheiten und Antiobiotikaresistenz.
 
-Bereits kurz nach er Vorstellung wird das Buch von vielen bereits als unverzichtbare Lektüre bezeichnet. Wenn Ihr es auch gerne lesen wollt: Ihr könnt es [ab sofort vorbestellen](https://amzn.to/3CIWS2s). Die englische Ausgabe wird am 6. Januar im Verlag Penguin Random House erscheinen.
+Bereits kurz nach der Vorstellung wird das Buch von vielen bereits als unverzichtbare Lektüre bezeichnet. Wenn Ihr es auch gerne lesen wollt: Ihr könnt es [ab sofort vorbestellen](https://amzn.to/3CIWS2s). Die englische Ausgabe wird am 6. Januar im Verlag Penguin Random House erscheinen.
 
 Samantha Jackson vom Verlag äußert sich so zu "This Is Vegan Propaganda & Other Lies the Meat Industry Tells You": 
 
