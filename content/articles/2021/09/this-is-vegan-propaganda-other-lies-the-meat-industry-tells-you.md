@@ -53,7 +53,7 @@ Auch das Theme Zoonosen, insbesondere natürlich die COVID-19 Pandemie, lässt E
 
 Bereits kurz nach der Vorstellung wird das Buch von vielen als unverzichtbare Lektüre bezeichnet. Wenn Ihr es auch gerne lesen wollt: Ihr könnt es [ab sofort vorbestellen](https://amzn.to/3CIWS2s). Die englische Ausgabe wird am 6. Januar im Verlag Penguin Random House erscheinen.
 
-Samantha Jackson vom Verlag äußert sich so zu "This Is Vegan Propaganda & Other Lies the Meat Industry Tells You": 
+Samantha Jackson vom Verlag äußerte sich so zu "This Is Vegan Propaganda & Other Lies the Meat Industry Tells You": 
 
 > "Von Debatten mit Landwirten über die Ethik der Fleisch-, Milch- und Eierindustrie bis hin zu Vorlesungen über Tierethik an der Harvard University arbeitet der vegane Pädagoge und öffentliche Redner Ed Winters unermüdlich daran, den Menschen zu helfen, informierte Entscheidungen zu treffen und den Status quo in Frage zu stellen. Wir sind stolz, sein erstes Buch mit ihm zu veröffentlichen. Es soll das Selbstbewusstsein der Leser⋆innen stärken und das wahre Ausmaß und die Komplexität der Ausbeutung von Tieren aufzeigen. Egal, ob man bereits vegan lebt oder sich dafür interessiert: Dieses Buch zeigt einem, wie die andere Seite der Geschichte aussieht und was sich viel zu lange im Verborgenen abgespielt hat."
 
