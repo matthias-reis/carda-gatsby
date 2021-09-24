@@ -49,7 +49,7 @@ Zunächst geht er auf die Ethik des Veganismus ein – von der Moralphilosophie 
 
 ![Ed Winter aka Earthling Ed](/img/561519880.jpeg "Ed Winter aka Earthling Ed")
 
-Auch das Theme Zoonosen, insbesondere natürlich die COVID-19 Pandemie lässt Ed nicht aus. Hier legt er besonderes Augenmerk auf Infektionskrankheiten und Antiobiotikaresistenz.
+Auch das Theme Zoonosen, insbesondere natürlich die COVID-19 Pandemie, lässt Ed nicht aus. Hier legt er besonderes Augenmerk auf Infektionskrankheiten und Antiobiotikaresistenz.
 
 Bereits kurz nach er Vorstellung wird das Buch von vielen bereits als unverzichtbare Lektüre bezeichnet. Wenn Ihr es auch gerne lesen wollt: Ihr könnt es [ab sofort vorbestellen](https://amzn.to/3CIWS2s). Die englische Ausgabe wird am 6. Januar im Verlag Penguin Random House erscheinen.
 
