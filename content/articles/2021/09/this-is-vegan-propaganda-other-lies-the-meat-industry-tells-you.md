@@ -2,7 +2,7 @@
 date: 2021-09-24T11:53:59.133Z
 slug: earthling-ed-this-is-vegan-propaganda
 typeName: Buchtipp
-title: This Is Vegan Propaganda & Other Lies the Meat Industry Tells You
+title: '"This Is Vegan Propaganda & Other Lies the Meat Industry Tells You"'
 subTitle: Das neue Buch von Earthling Ed
 seoTitle: '"This Is Vegan Propaganda" – Das neue Buch von Earthling Ed – Lesetipp'
 description: Earthling Ed aka Ed Winters hat jetzt sein erstes Buch vorgestellt.
