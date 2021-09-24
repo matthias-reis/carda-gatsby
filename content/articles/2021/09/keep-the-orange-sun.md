@@ -64,3 +64,5 @@ Mit "Open Heart" öffnen From Overseas und Awakened Souls die Herzen und gönnen
 "Migration" überrascht mich mit seiner verspielten Art. Das Stück verzaubert mich und bildet den perfekten Übergang zum traumhaften Finale "Passing Dreams". Ich lasse die Gedanken ziehen, wie sie kommen und halte mich nicht mehr an ihnen fest.
 
 Wenn Ihr neugierig seid, könnt Ihr [hier mein Interview mit Kévin Séry aka From Overseas lesen](/2020/04/from-overseas-interview/).
+
+<YouTube id="SQEyxMq0MFo" />
