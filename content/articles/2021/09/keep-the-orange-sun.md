@@ -65,4 +65,6 @@ Mit "Open Heart" öffnen From Overseas und Awakened Souls die Herzen und gönnen
 
 Wenn Ihr neugierig seid, könnt Ihr [hier mein Interview mit Kévin Séry aka From Overseas lesen](/2020/04/from-overseas-interview/).
 
+## Awakened Souls & From Overseas – Certainty Of Tides
+
 <YouTube id="SQEyxMq0MFo" />
