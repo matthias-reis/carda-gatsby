@@ -6,8 +6,9 @@ title: '"This Is Vegan Propaganda & Other Lies the Meat Industry Tells You"'
 subTitle: Das neue Buch von Earthling Ed
 seoTitle: '"This Is Vegan Propaganda" – Das neue Buch von Earthling Ed – Lesetipp'
 description: Earthling Ed aka Ed Winters hat jetzt sein erstes Buch vorgestellt.
-  Der Tierrechtsaktivist möchte mit dem Werk den Weg zum "kompletten Lockdown"
-  der Fleischindustrie aufzeigen.
+  Der Tierrechtsaktivist möchte mit "This Is Vegan Propaganda & Other Lies the
+  Meat Industry Tells You" den Weg zum "kompletten Lockdown" der
+  Fleischindustrie aufzeigen.
 image: /img/this-is-vegan-propaganda-other-lies-the-meat-industry-tells-you-ed-winter.jpg
 copyrigt: Ed Winter
 ogImage: /img/this-is-vegan-propaganda-other-lies-the-meat-industry-tells-you-ed-winter-fb.png
