@@ -35,7 +35,7 @@ language: de
 ---
 **Earthling Ed aka Ed Winters hat jetzt sein erstes Buch vorgestellt. Der bekannte Tierrechtsaktivist will mit dem Werk zum "kompletten Lockdown" der Fleischindustrie aufrufen.**
 
-Eds Buch mit dem Titel "This Is Vegan Propaganda & Other Lies The Meat Industry Tell You" ("Das ist vegane Propaganda und andere Lügen, die uns die Fleischindustrie auftischt") ist eine Zusammenfassung seiner Gespräche, die er seit Jahren mit diversen führenden Expert⋆innen führt.
+Eds Buch mit dem Titel "This Is Vegan Propaganda & Other Lies The Meat Industry Tells You" ("Das ist vegane Propaganda und andere Lügen, die uns die Fleischindustrie auftischt") ist eine Zusammenfassung seiner Gespräche, die er seit Jahren mit diversen führenden Expert⋆innen führt.
 
 Der weltbekannte Aktivist richtet sein Debüt sowohl an Veganer⋆innen als auch an Nicht-Veganer⋆innen. Er möchte damit nicht nur über die Fleischindustrie aufklären, sondern auch die globalen Auswirkungen der Tierausbeutung verdeutlichen.
 
@@ -43,7 +43,7 @@ Der weltbekannte Aktivist richtet sein Debüt sowohl an Veganer⋆innen als auch
 
 In einem Pressestatement gegenüber Plant Based News erklärte Ed:
 
-> "'This Is Vegan Propaganda & Other Lies The Meat Industry Tell You' ist eine verbindliche Erklärung für die Notwendigkeit des Veganismus. Mein Ziel ist es, meinen Leser⋆innen das notwenige Wissen mitzugeben und sie dabei zu unterstützen, den Veganismus besser zu verstehen. Ich zeige die Argumente dagegen und wie man darauf reagieren sollte. Ich habe das Buch geschrieben, um ein Werk zu erschaffen, das wirklich jede⋆r gelesen haben sollte."
+> "'This Is Vegan Propaganda & Other Lies The Meat Industry Tells You' ist eine verbindliche Erklärung für die Notwendigkeit des Veganismus. Mein Ziel ist es, meinen Leser⋆innen das notwenige Wissen mitzugeben und sie dabei zu unterstützen, den Veganismus besser zu verstehen. Ich zeige die Argumente dagegen und wie man darauf reagieren sollte. Ich habe das Buch geschrieben, um ein Werk zu erschaffen, das wirklich jede⋆r gelesen haben sollte."
 
 Zunächst geht er auf die Ethik des Veganismus ein – von der Moralphilosophie bis hin zu einer Untersuchung der Tierhaltung. Anschließend wirft er einen Blick auf unsere Gesundheit und den Einfluss der Tierzucht auf die Umwelt und das Klima.
 
