@@ -43,7 +43,7 @@ Der weltbekannte Aktivist richtet sein Debüt sowohl an Veganer⋆innen als auch
 
 In einem Pressestatement gegenüber Plant Based News erklärte Ed:
 
-> "'This Is Vegan Propaganda & Other Lies The Meat Industry Tell You' ist eine definitive Erklärung für die Notwendigkeit des Veganismus. Mein Ziel ist es, meinen Leser⋆innen das notwenige Wissen mitzugeben und sie dabei zu unterstützen, den Veganismus besser zu verstehen. Ich zeige ihnen die Argumente, die man dagegen hört und wie man am besten darauf reagiert. Ich habe das Buch geschrieben, um ein Werk zu erschaffen, das wirklich jede⋆r gelesen haben sollte"
+> "'This Is Vegan Propaganda & Other Lies The Meat Industry Tell You' ist eine verbindliche Erklärung für die Notwendigkeit des Veganismus. Mein Ziel ist es, meinen Leser⋆innen das notwenige Wissen mitzugeben und sie dabei zu unterstützen, den Veganismus besser zu verstehen. Ich zeige die Argumente dagegen und wie man darauf reagieren sollte. Ich habe das Buch geschrieben, um ein Werk zu erschaffen, das wirklich jede⋆r gelesen haben sollte."
 
 Zunächst geht er auf die Ethik des Veganismus ein – von der Moralphilosophie bis hin zu einer Untersuchung der Tierhaltung. Anschließend wirft er einen Blick auf die Tierhaltung, unsere Gesundheit und den Einfluss der Tierzucht auf die Umwelt auf globaler Ebene.
 
