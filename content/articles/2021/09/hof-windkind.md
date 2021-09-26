@@ -102,4 +102,4 @@ Wenn Ihr jetzt Lust bekommen habt, auch mal eine Patenschaft zu übernehmen, fin
 
 <Gallery name="hof-windkind-bio-vegane-landwirtschaft-2" />
 
-Weitere Infos zur Werbekennzeichnung in diesem Artikel: [https://www.trusted-blogs.com/tipps/werbekennzeichnung/](www.trusted-blogs.com/werbekennzeichnung)
+Weitere Infos zur Werbekennzeichnung in diesem Artikel: [https://www.trusted-blogs.com/werbekennzeichnung/](https://www.trusted-blogs.com/tipps/werbekennzeichnung/)
