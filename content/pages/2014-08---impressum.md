@@ -21,13 +21,9 @@ remoteLoadingImage: null
 subTitle: 'Angaben gemäß § 5 TMG:'
 ---
 
-## Angaben gemäß § 5 TMG
+## Adresse
 
-Anne Reis
-
-Wiesenstr.7
-
-20255 Hamburg
+Anne Reis<br /> Wiesenstr.7<br /> 20255 Hamburg
 
 ## Kontakt
 
@@ -35,4 +31,6 @@ E-Mail: anne.reis@cardamonchai.com
 
 ## Redaktionell verantwortlich
 
-Anne Reis Quelle: [e-recht24.de](https://www.e-recht24.de)
+Anne Reis
+
+Quelle: [e-recht24.de](https://www.e-recht24.de)
