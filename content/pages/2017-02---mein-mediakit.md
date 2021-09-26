@@ -22,7 +22,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Seitendaten für Kooperationen und Projekte
 ---
 
-**Für meine Kooperationspartner habe ich ein [Mediakit](img/2021-08-04-mediakit.pdf) erstellt. Darin sind alle wichtigen Fakten über mich und meine Seite zu finden.**
+**Für meine Kooperationspartner habe ich ein [Mediakit](img/2021-09-26-mediakit.pdf) erstellt. Darin sind alle wichtigen Fakten über mich und meine Seite zu finden.**
 
 Zusammengefasst habe ich nicht nur die Views und Unique Visits sowie sämtliche Kennzahlen. Ihr findet darin auch Links zu Kooperationen, meine Ethik-Richtlinien, Erwähnungen und Zitate sowie alle wichtigen Social Media Links.
 
@@ -32,7 +32,7 @@ Weitere Infos gebe ich gerne auf Anfrage weiter. Sendet mir am besten einfach ei
 
 ## Mediakit jetzt anschauen
 
-[Das komplette Mediakit als PDF zum Download findet Ihr hier](img/2021-08-04-mediakit.pdf).
+[Das komplette Mediakit als PDF zum Download findet Ihr hier](img/2021-09-26-mediakit.pdf).
 
 Stand 12/2019 Anne bloggt cardamonchai - Rock 'n' Roll vegan
 
