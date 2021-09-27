@@ -6,8 +6,8 @@ title: Playlist Oktober
 subTitle: 12 Songs, die Ihr diesen Monat nicht verpassen solltet
 seoTitle: "Playlist: 12 Songs für den Oktober (Post-Rock, Alternative, Metal)"
 description: Die Oktober-Musikliste bringt Euch wieder die stärksten Songs. Mit
-  dabei sind wieder alle spannenden Genres von Post-Rock über Blackgaze bis
-  Ambient und Alternative Metal.
+  dabei sind wieder alle spannenden Genres von Ambient und Alternative Metal bis
+  Blackgaze und Post-Rock.
 excerpt: Im Oktober findet der Übergang zwischen den Jahreszeiten statt. Die
   Natur zeigt sich von ihrer buntesten Sorte und wettertechnisch ist einfach für
   jeden Geschmack was dabei. Genau, wie bei unserer Musikliste. Hier sind 12
