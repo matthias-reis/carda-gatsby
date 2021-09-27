@@ -131,3 +131,8 @@ Magnus Josefsson hat bei der Ankündigung seiner neuen Single "The Map" nicht zu
 Was habe ich mich auf ein neues Lebenszeichen von Sleep Token gefreut! Nun ist es endlich da und ich kann mich gar nicht satt hören an "This Place Will Become Your Tomb". Irgendwie ist das Album wirklich zu einer Art Aufenthaltsort geworden. Ob man sie als Höhle bezeichnen sollte? Warum nicht? Für die Liste habe den wunderbaren Opener "Atlantic" ausgesucht. Danach solltet Ihr das ganze Album in Euer Herz lassen.
 
 <YouTube id="gN9A19pu8Wk" />
+
+<Playlist
+  spotify="31cfc8fc2d84c3c"
+  itunes="2021-09-27-rock-n-roll-vegan/pl.u-jWVJfjekrkB"
+/>
