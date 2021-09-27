@@ -69,7 +69,7 @@ Valentin hat vor Kurzem eine für uns alle drei komplett neue Band aufgetan. Das
 
 ## Archive – "Daytime Coma" (Vorauskopplung vom kommenden Album mit dem Working Title "Archive 12")
 
-Die Vorauskopplung vom kommenden Archive Album haben Valentin und Matze beide auf die Liste gesetzt. Matze hat mal zusammengefasst, warum das Stück ein ganz besonderes ist:
+Die Vorauskopplung vom kommenden Archive Album haben Valentin und Matze gemeinsam auf die Liste gesetzt. Matze hat mal zusammengefasst, warum das Stück ein ganz besonderes ist:
 
 > "Achtung! Der Song hat 14 Minuten. Dafür findet man darin auch fast alles, was Archive ausmacht. Die elektronischen Elemente, die Verdichtung und den Spannungsaufbau. Ein perfekter Einstieg in die Wartezeit auf das neue Album, das wohl erst nächsten April erscheinen wird."
 
