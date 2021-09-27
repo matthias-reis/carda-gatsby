@@ -42,7 +42,7 @@ labels:
   - Tocotronic
   - Archive
   - Areis
-  - Trna
+  - TRNA
   - Post-Metal
   - Shoegaze
   - Doomgaze
@@ -55,9 +55,9 @@ language: de
 
 Macht es Euch also am besten gemütlich, lehnt Euch zurück und lauscht in aller Ruhe der Musik. Die Playlisten für Spotify und iTunes findet Ihr wie immer unten am Ende dieses Artikels. Zusammengestellt habe ich die Songs wieder gemeinsam mit meinen beiden Lieblings-Musikfans Valentin und Matze.
 
-## Trna – "Burning Bridges, Shattered Dreams" vom Album "Istok"
+## TRNA – "Burning Bridges, Shattered Dreams" vom Album "Istok"
 
-Wenn Ihr Cult Of Luna mögt und Trna noch nicht gehört habt, solltet Ihr das dringend nachholen. Das neue Album "Istok" ist ein wunderbarer Einstieg in ihre verwobene Welt aus Gitarrenwänden, Harmonie und Ekstase. Euch erwartet düsterer und dichter Blackgaze von der feinsten Sorte. Wen die Bandgeschichte interessiert: Das Trio stammt aus St. Petersburg. TRNA ist eine Neuformation der ehemaligen Post-Black Band Persii. Ihren ersten Gig spielten die drei als Vorband von Show Me A Dinosaur.
+Wenn Ihr Cult Of Luna mögt und TRNA noch nicht gehört habt, solltet Ihr das dringend nachholen. Das neue Album "Istok" ist ein wunderbarer Einstieg in ihre verwobene Welt aus Gitarrenwänden, Harmonie und Ekstase. Euch erwartet düsterer und dichter Blackgaze von der feinsten Sorte. Wen die Bandgeschichte interessiert: Das Trio stammt aus St. Petersburg. TRNA ist eine Neuformation der ehemaligen Post-Black Band Persii. Ihren ersten Gig spielten die drei als Vorband von Show Me A Dinosaur.
 
 <YouTube id="FMjVpeumlYQ" />
 
