@@ -121,7 +121,7 @@ Dies ist eine Vorauskopplung vom neuen Biffy Clyro Album "The Myth of The Happil
 
 Und nochmal übergebe ich das Wort an Matze:
 
-> "'Kid A' und 'Amnesiac' gelten zurecht als zwei der besten Alben aller Zeiten. Nun haben Radiohead sie neu gebündelt und wieder aufgelegt. 'Kid A Mnesia' kommt am (remember, remember) 5. November heraus und muss in den Plattenschrank. Ob es dort oft stehen wird, ist fraglich. Vermutlich wird es ziemlich häufig rotieren. Teil des Boxsets ist das Album 'Kid Amnesiac' bestehend aus unveröffentlichtem Material aus dieser Zeit. 'If You Say The Word' ist der erste Song. Er passt nahtlos in den Amnesiac Stil und zeigt mal wieder die grenzenlose Genialität der Band."
+> "'Kid A' und 'Amnesiac' gelten zurecht als zwei der besten Alben aller Zeiten. Nun haben Radiohead sie neu gebündelt und wieder aufgelegt. 'Kid A Mnesia' kommt am (remember, remember) 5. November heraus und muss in den Plattenschrank. Ob es dort oft stehen wird, ist fraglich. Vermutlich wird es ziemlich häufig rotieren. Teil des Boxsets ist das Album 'Kid Amnesiac' bestehend aus unveröffentlichtem Material aus dieser Zeit. 'If You Say The Word' ist der erste Song. Er passt perfekt in den Amnesiac Stil und zeigt mal wieder die grenzenlose Genialität der Band."
 
 <YouTube id="vnhKaCjCIqM" />
 
