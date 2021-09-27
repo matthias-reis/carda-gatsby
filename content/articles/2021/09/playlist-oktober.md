@@ -75,7 +75,7 @@ Die Vorauskopplung vom kommenden Archive Album haben Valentin und Matze gemeinsa
 
 <YouTube id="PqCT8KEb5HU" />
 
-## Black Map - "Chasms" (Single)
+## Black Map – "Chasms" (Single)
 
 Valentin verehrt diese Band, seit er sie vor vielen Jahren zum ersten Mal gehört hat. Jetzt hat die Post-Hardcore Supergroup aus San Francisco eine neue Single veröffentlicht, die hoffentlich auch bald ein Album nach sich zieht. Sie ist nämlich mal wieder durchaus hörbar.
 
@@ -101,7 +101,7 @@ Matze findet "Red Feather" passt gut in die Oktober-Liste:
 
 <YouTube id="GcXen8ji_Rk" />
 
-## Thrice - "Dandelion Wine" vom Album "Horizons / East"
+## Thrice – "Dandelion Wine" vom Album "Horizons / East"
 
 Wir haben zwar erst in der [September-Liste](/2021/08/playlist-september-2021/) von "Horizons / East" berichtet, dieses Stück musste Matze dennoch unbedingt auf die für den Oktober packen – daran führte quasi kein Weg vorbei.
 
