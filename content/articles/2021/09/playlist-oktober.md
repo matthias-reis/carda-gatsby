@@ -97,7 +97,7 @@ Die neue Mastodon Single "Pushing The Tides" hat Valentin auf die Liste gesetzt.
 
 Matze findet "Red Feather" passt gut in die Oktober-Liste:
 
-> "Nachdem Sel [ein wunderschönes Ambient-Soloalbum herausgebracht hat](/2021/08/sel-balamir-swell/), haben wir so schnell eigentlich nichts Neues von seiner Hauptband Amplifier erwartet. Im Moment weiß ich noch nicht viel über den Song und seine Geschichte. Ob es ein neues Platte geben wird? Was Ihr erwarten könnt, ist aber ein klassisches Amplifier Stück – besser als ihre letzten Arbeiten, aber vielleicht noch nicht ganz zurück in "Octopus" Zeiten."
+> "Nachdem Sel Balamir [ein wunderschönes Ambient-Soloalbum herausgebracht hat](/2021/08/sel-balamir-swell/), haben wir so schnell eigentlich nichts Neues von seiner Hauptband Amplifier erwartet. Im Moment weiß ich noch nicht viel über den Song und seine Geschichte. Ob es ein neues Platte geben wird? Was Ihr erwarten könnt, ist aber ein klassisches Amplifier Stück – besser als ihre letzten Arbeiten, aber vielleicht noch nicht ganz zurück in "Octopus" Zeiten."
 
 <YouTube id="GcXen8ji_Rk" />
 
