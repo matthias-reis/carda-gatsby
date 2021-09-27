@@ -137,6 +137,8 @@ Was habe ich mich auf ein neues Lebenszeichen von Sleep Token gefreut! Nun ist e
 
 <YouTube id="gN9A19pu8Wk" />
 
+Hinweis zu den Playlists: Den Areis Song habe ich auf iTunes leider nicht gefunden.
+
 <Playlist
   spotify="7musAyApkGsS0026cKtTgq"
   itunes="let-england-shake-this-is-not-america/pl.u-krLLtv3dBdD"
