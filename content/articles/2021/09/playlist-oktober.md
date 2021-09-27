@@ -97,7 +97,7 @@ Die neue Mastodon Single "Pushing The Tides" hat Valentin auf die Liste gesetzt.
 
 Matze findet "Red Feather" passt gut in die Oktober-Liste:
 
-> "Nachdem Sel Balamir [ein wunderschönes Ambient-Soloalbum herausgebracht hat](/2021/08/sel-balamir-swell/), haben wir so schnell eigentlich nichts Neues von seiner Hauptband Amplifier erwartet. Im Moment weiß ich noch nicht viel über den Song und seine Geschichte. Ob es ein neues Platte geben wird? Was Ihr erwarten könnt, ist aber ein klassisches Amplifier Stück – besser als ihre letzten Arbeiten, aber vielleicht noch nicht ganz zurück in "Octopus" Zeiten."
+> "Nachdem Sel Balamir [ein wunderschönes Ambient-Soloalbum herausgebracht hat](/2021/08/sel-balamir-swell/), haben wir so schnell eigentlich nichts Neues von seiner Hauptband Amplifier erwartet. Im Moment weiß ich noch nicht viel über den Song und seine Geschichte. Ob es ein neues Platte geben wird? Was Ihr erwarten könnt, ist aber ein klassisches Amplifier Stück – besser als ihre letzten Arbeiten, aber vielleicht noch nicht ganz zurück in 'Octopus' Zeiten."
 
 <YouTube id="GcXen8ji_Rk" />
 
@@ -105,7 +105,7 @@ Matze findet "Red Feather" passt gut in die Oktober-Liste:
 
 Wir haben zwar erst in der [September-Liste](/2021/08/playlist-september-2021/) von "Horizons / East" berichtet, dieses Stück musste Matze dennoch unbedingt auf die für den Oktober packen – daran führte quasi kein Weg vorbei.
 
-> "Das neue Thrice Album "Horizons / East" ist für mich eines der Highlights des Jahres. Vielleicht ist es sogar das bislang beste von der Band aus dem kalifornischen Irvine. "Dandelion Wine" vereint die Rohheit ihrer Anfangszeit mit der Perfektion und dem massiven Sound ihrer späteren Jahre. Die habe ich auf dem kompletten Album gespürt."
+> "Das neue Thrice Album 'Horizons / East' ist für mich eines der Highlights des Jahres. Vielleicht ist es sogar das bislang beste von der Band aus dem kalifornischen Irvine. 'Dandelion Wine' vereint die Rohheit ihrer Anfangszeit mit der Perfektion und dem massiven Sound ihrer späteren Jahre. Die habe ich auf dem kompletten Album gespürt."
 
 <YouTube id="CyKV1uUN6lA" />
 
@@ -113,7 +113,7 @@ Wir haben zwar erst in der [September-Liste](/2021/08/playlist-september-2021/) 
 
 Dies ist eine Vorauskopplung vom neuen Biffy Clyro Album "The Myth of The Happily Ever After", das Ende Oktober erscheinen soll. Matze hat hier die Anmoderation übernommen:
 
-> "Biffy sind superproduktiv. Sie haben die Pandemie und damit Tour-freie Zeit genutzt, um neue Musik aufzunehmen. "A Celebration of Endings" ist noch nichtmal ganz verdaut, da kommt schon wieder ein neues Album um die Ecke. Die Single klingt am Anfang ein bisschen nach Coldplay – aber haltet durch, sobald der Gesang einsetzt, zeigt es seine Krallen und wird Euch in klassischer Biffy Clyro Manier verzaubern!"
+> "Biffy sind superproduktiv. Sie haben die Pandemie und damit Tour-freie Zeit genutzt, um neue Musik aufzunehmen. 'A Celebration of Endings' ist noch nichtmal ganz verdaut, da kommt schon wieder ein neues Album um die Ecke. Die Single klingt am Anfang ein bisschen nach Coldplay – aber haltet durch, sobald der Gesang einsetzt, zeigt es seine Krallen und wird Euch in klassischer Biffy Clyro Manier verzaubern!"
 
 <YouTube id="blb8TKpjLZc" />
 
