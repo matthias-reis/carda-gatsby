@@ -138,6 +138,6 @@ Was habe ich mich auf ein neues Lebenszeichen von Sleep Token gefreut! Nun ist e
 <YouTube id="gN9A19pu8Wk" />
 
 <Playlist
-  spotify="31cfc8fc2d84c3c"
-  itunes="2021-09-27-rock-n-roll-vegan/pl.u-jWVJfjekrkB"
+  spotify="7musAyApkGsS0026cKtTgq"
+  itunes="let-england-shake-this-is-not-america/pl.u-krLLtv3dBdD"
 />
