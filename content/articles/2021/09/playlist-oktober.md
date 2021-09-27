@@ -105,7 +105,7 @@ Matze findet "Red Feather" passt gut in die Oktober-Liste:
 
 Wir haben zwar erst in der [September-Liste](/2021/08/playlist-september-2021/) von "Horizons / East" berichtet, dieses Stück musste Matze dennoch unbedingt auf die für den Oktober packen – daran führte quasi kein Weg vorbei.
 
-> "Das neue Thrice Album "Horizons / East" ist für mich eines der Highlights des Jahres. Vielleicht ist es sogar das bislang beste von der Band aus dem kalifornischen Irvine. "Dandelion Wine" vereint die Rohheit ihrer Anfangszeit mit der Perfektion und dem massiven Sound ihrer späteren Jahre. Das habe ich auf dem kompletten Album wiedergefunden."
+> "Das neue Thrice Album "Horizons / East" ist für mich eines der Highlights des Jahres. Vielleicht ist es sogar das bislang beste von der Band aus dem kalifornischen Irvine. "Dandelion Wine" vereint die Rohheit ihrer Anfangszeit mit der Perfektion und dem massiven Sound ihrer späteren Jahre. Die habe ich auf dem kompletten Album gespürt."
 
 <YouTube id="CyKV1uUN6lA" />
 
