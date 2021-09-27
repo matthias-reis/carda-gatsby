@@ -97,13 +97,13 @@ Die neue Mastodon Single "Pushing The Tides" hat Valentin auf die Liste gesetzt.
 
 Matze findet "Red Feather" passt gut in die Oktober-Liste:
 
-> "Nachdem Sel [ein wunderschönes Ambient-Soloalbum herausgebracht hat](LINK), haben wir so schnell eigentlich nichts Neues von seiner Hauptband Amplifier erwartet. Im Moment weiß ich noch nicht viel über den Song und seine Geschichte. Ob es ein neues Platte geben wird? Was Ihr erwarten könnt, ist aber ein klassisches Amplifier Stück – besser als ihre letzten Arbeiten, aber vielleicht noch nicht ganz zurück in "Octopus" Zeiten."
+> "Nachdem Sel [ein wunderschönes Ambient-Soloalbum herausgebracht hat](/2021/08/sel-balamir-swell/), haben wir so schnell eigentlich nichts Neues von seiner Hauptband Amplifier erwartet. Im Moment weiß ich noch nicht viel über den Song und seine Geschichte. Ob es ein neues Platte geben wird? Was Ihr erwarten könnt, ist aber ein klassisches Amplifier Stück – besser als ihre letzten Arbeiten, aber vielleicht noch nicht ganz zurück in "Octopus" Zeiten."
 
 <YouTube id="GcXen8ji_Rk" />
 
 ## Thrice - "Dandelion Wine" vom Album "Horizons / East"
 
-Wir haben zwar erst in der [September-Liste](LINK) von "Horizons / East" berichtet, dieses Stück musste Matze dennoch unbedingt auf die für den Oktober packen – daran führte quasi kein Weg vorbei.
+Wir haben zwar erst in der [September-Liste](/2021/08/playlist-september-2021/) von "Horizons / East" berichtet, dieses Stück musste Matze dennoch unbedingt auf die für den Oktober packen – daran führte quasi kein Weg vorbei.
 
 > "Das neue Thrice Album "Horizons / East" ist für mich eines der Highlights des Jahres. Vielleicht ist es sogar das bislang beste von der Band aus dem kalifornischen Irvine. "Dandelion Wine" vereint die Rohheit ihrer Anfangszeit mit der Perfektion und dem massiven Sound ihrer späteren Jahre. Das habe ich auf dem kompletten Album wiedergefunden."
 
@@ -127,7 +127,7 @@ Und nochmal übergebe ich das Wort an Matze:
 
 ## Magnus Josefsson – "The Map" (Single)
 
-Magnus Josefsson hat bei der Ankündigung seiner neuen Single "The Map" nicht zu viel versprochen. Das Stück ist harmonisch, nachdenklich und lädt zum Träumen ein. Wohin wird uns seine Karte wohl führen? [Mein Interview mit Magnus findet Ihr übrigens hier](LINK).
+Magnus Josefsson hat bei der Ankündigung seiner neuen Single "The Map" nicht zu viel versprochen. Das Stück ist harmonisch, nachdenklich und lädt zum Träumen ein. Wohin wird uns seine Karte wohl führen? [Mein Interview mit Magnus findet Ihr übrigens hier](/2021/05/magnus-josefsson-anette-halbe-stunde/).
 
 <YouTube id="-eyNxGqge2o" />
 
