@@ -83,7 +83,7 @@ Valentin verehrt diese Band, seit er sie vor vielen Jahren zum ersten Mal gehör
 
 ## Tocotronic – "Jugend ohne Gott gegen Faschismus" (Vorauskopplung vom kommenden Album "Nie wieder Krieg")
 
-Über das neue, überraschend politische Stück von Tocotronic habe ich mich unglaublich gefreut. Es holt gleichzeitig ein paar meiner schönsten Erinnerungen zurück und macht mir Hoffnung auf die Zukunft. Schön, dass die Hamburger immer noch genauso rocken, wie damals in den 1990ern, als wir noch drüben auf dem Hügel saßen und über Gitarrenhändler sinnierten. Dirks Stimme ist einfach immer noch so toll und alles andere auch. Ich fühle mich beim Hören ein bisschen als Teil einer Jugendbewegung. "Jugend ohne Gott gegen Faschismus" wird auf dem kommenden Album "Nie wieder Krieg" passender Weise vom Song "Hoffnung" abgelöst. Ich freue mich sehr auf den Rest der Platte.
+Über das neue, überraschend politische Stück von Tocotronic habe ich mich unglaublich gefreut. Es holt gleichzeitig ein paar meiner schönsten Erinnerungen zurück und macht mir Hoffnung auf die Zukunft. Schön, dass die Hamburger immer noch genauso rocken, wie damals in den 1990ern, als wir noch drüben auf dem Hügel saßen und über Gitarrenhändler sinnierten. Dirks Stimme ist einfach immer noch so toll und alles andere auch. Ich fühle mich beim Hören ein bisschen als Teil einer Jugendbewegung – ungeachtet meines Alters. "Jugend ohne Gott gegen Faschismus" wird auf dem kommenden Album "Nie wieder Krieg" passender Weise vom Song "Hoffnung" abgelöst. Ich freue mich sehr auf den Rest der Platte.
 
 <YouTube id="x7OuynD2y0I" />
 
