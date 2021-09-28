@@ -1,17 +1,24 @@
 ---
-date: 2021-04-14T06:58:11.000+00:00
-slug: von-vitamin-b12-bis-d3
-path: '/2021/04/von-vitamin-b12-bis-d3/'
-title: Von Vitamin B12 bis D3
-seoTitle: Nahrungsergänzungsmittel für Veganer⋆innen – Was empfiehlt sich?
 ogTitle: Nahrungsergänzungsmittel für Veganer⋆innen – Was empfiehlt sich?
-description: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen?
-excerpt: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen? Besonders für Veganer⋆innen? Vitamin B12 ist klar, aber was sollte man noch im Auge behalten?
-fileName: 2021-04---von-vitamin-b12-bis-d3.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_2021-03-28-nahrungsergaenzung-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_2021-03-28-nahrungsergaenzung-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQGAgUH/8QALBAAAQQBAwMCBAcAAAAAAAAAAQIDBAURABIhBhMxIkEHUWGxFiNDUnGBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCBf/EACYRAAEDBAAEBwAAAAAAAAAAAAECAxEABDFBEiFhoQUUFYHB4fD/2gAMAwEAAhEDEQA/AK1ItbuJPmxLKzSmErthlSWnC4s4JKVAEAgcf2dc3/GMuY8+8yu4SMqTs2x1Fv1ck+49hz7D66tKvqWXWUsaCzCCYrJabW2HW0uLU4tRWrKMDdk5xt5+04ZzFDf9YqdYElUjYt0Ok+ppCWxgY8kqJJz8hrL9OSptKpiRmPem2l4q5eWy0mSkxExifuiJYXrrCZQZ6gVEwF90x2NmweVbv28+fpqlr+p5abF51x60Shxf5YXIjpBSPkTz5ydLVlfMr4lK3Diqkwk9sd1IyptO/ncPPg/5rP4nzN7/AE4qOlMkBb7Z7bzSB+med+QeND8oQlaiIKe/XXzTQ6k8Izxduh/CmIj0apr1wJ1nFbtWSlTaodMV9pKnFqaV6zgkjcefGf41Nosa6PMs491Ku7CQ65lCtjLSUY2p3BIScHIA8/bRo0tfiD/JqRAA0JwNxRre1bYKn25CiTs7Jqlo+saOvpokSU9ZOSgFpPebLjilZUoZWAAeAOeNar4mSol5Jo4Nf2ayYzYOMLE+EXkr76Up2JCEqAzgjnA+ujRqBcOOLSgnkZqiylAUsZr/2Q==
+excerpt: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in
+  irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen? Besonders
+  für Veganer⋆innen? Vitamin B12 ist klar, aber was sollte man noch im Auge
+  behalten?
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_nahrungsergaenzungsmittel-fb.png__l.jpg
+isAffiliate: false
+path: /2021/04/von-vitamin-b12-bis-d3/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQGAgUH/8QALBAAAQQBAwMCBAcAAAAAAAAAAQIDBAURABIhBhMxIkEHUWGxFiNDUnGBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCBf/EACYRAAEDBAAEBwAAAAAAAAAAAAECAxEABDFBEiFhoQUUFYHB4fD/2gAMAwEAAhEDEQA/AK1ItbuJPmxLKzSmErthlSWnC4s4JKVAEAgcf2dc3/GMuY8+8yu4SMqTs2x1Fv1ck+49hz7D66tKvqWXWUsaCzCCYrJabW2HW0uLU4tRWrKMDdk5xt5+04ZzFDf9YqdYElUjYt0Ok+ppCWxgY8kqJJz8hrL9OSptKpiRmPem2l4q5eWy0mSkxExifuiJYXrrCZQZ6gVEwF90x2NmweVbv28+fpqlr+p5abF51x60Shxf5YXIjpBSPkTz5ydLVlfMr4lK3Diqkwk9sd1IyptO/ncPPg/5rP4nzN7/AE4qOlMkBb7Z7bzSB+med+QeND8oQlaiIKe/XXzTQ6k8Izxduh/CmIj0apr1wJ1nFbtWSlTaodMV9pKnFqaV6zgkjcefGf41Nosa6PMs491Ku7CQ65lCtjLSUY2p3BIScHIA8/bRo0tfiD/JqRAA0JwNxRre1bYKn25CiTs7Jqlo+saOvpokSU9ZOSgFpPebLjilZUoZWAAeAOeNar4mSol5Jo4Nf2ayYzYOMLE+EXkr76Up2JCEqAzgjnA+ujRqBcOOLSgnkZqiylAUsZr/2Q==
+date: 2021-04-14T06:58:11.000+00:00
+advertisement: true
+isWerbung: false
+fileName: 2021-04---von-vitamin-b12-bis-d3.md
+slug: von-vitamin-b12-bis-d3
+errors: {}
+title: Von Vitamin B12 bis D3
+subTitle: Nahrungsergänzungsmittel für Veganer*innen
+seoTitle: Nahrungsergänzungsmittel für Veganer⋆innen – Was empfiehlt sich?
+description: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in
+  irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen?
 labels:
   - B12
   - D3
@@ -20,14 +27,11 @@ labels:
   - Kalzium
   - Nahrungsergänzungsmittel
 focusKeyword: Nahrungsergänzungsmittel
-status: publish
-isWerbung: false
-isAffiliate: false
-language: de
-errors: {}
-subTitle: Nahrungsergänzungsmittel für Veganer*innen
-advertisement: true
 affiliate: true
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_2021-03-28-nahrungsergaenzung-2__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_2021-03-28-nahrungsergaenzung-2__m.jpg
+language: de
 ---
 
 **Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen? Besonders für Veganer⋆innen?**
@@ -77,7 +81,7 @@ Für ältere Menschen kann ein Mangel an Vitamin D3 und K2 durchaus gefährlich 
 
 [Vitamin D3 gilt als das "Sonnenvitamin"](https://pluto.r.powuta.com/ts/i5033910/tsc?amc=con.blbn.494490.495090.14138857&rmd=3&trg=https%3A%2F%2Fwww.feelgood-shop.com%2Fvitactiv-vitamin-d3-1000-iu-tropfen.html). Das liegt daran, dass der Körper ohne Sonnenlicht kein Vitamin D herstellen kann. Ganz genau: Wir können dieses Vitamin selbst bilden. Wenn man sich aber (wie jetzt während der Lockdowns) nur selten draußen aufhält, sollte man es in Form von Nah&shy;rungs&shy;er&shy;gän&shy;zungs&shy;mit&shy;teln zu sich nehmen. Ein Mangel kann zu Krankheiten wie Osteoporose führen.
 
-Ich nehme zur Zeit [die Vitamin D3 und K2 Tropfen aus dem Feelgood Shop](https://pluto.r.powuta.com/ts/i5033910/tsc?amc=con.blbn.494490.495090.14138857&rmd=3&trg=https%3A%2F%2Fwww.feelgood-shop.com%2Fvitactiv-vitamin-d3-k2-1000-iu-tropfen.html). Die Bio-Verfügbarkeit ist bei diesem Produkt sehr hoch. Pro Tropfen sind 1.000 IU Vitamin D3 und 12 μg Vitamin K2 enthalten. Vitamin D3 und K2 sind wichtig für den gesunden Erhalt der Knochen. D3 ist zudem gut für Muskeln und unser Immunsystem. Besonders in der kalten Jahreszeit sollte man über die Einnahme nachdenken.
+Ich nehme zur Zeit [die Vitamin D3 und K2 Tropfen aus dem Feelgood Shop](https://pluto.r.powuta.com/ts/i5033910/tsc?amc=con.blbn.494490.495090.14138857&rmd=3&trg=https%3A%2F%2Fwww.feelgood-shop.com%2Fvitactiv-vitamin-d3-k2-1000-iu-tropfen.html). Die Bio-Verfügbarkeit ist bei diesem Produkt sehr hoch. Pro Tropfen sind 1.000 IE Vitamin D3 und 12 μg Vitamin K2 enthalten. Vitamin D3 und K2 sind wichtig für den gesunden Erhalt der Knochen. D3 ist zudem gut für Muskeln und unser Immunsystem. Besonders in der kalten Jahreszeit sollte man über die Einnahme nachdenken.
 
 Vitamin D3 zählt zu den fettlöslichen Vitaminen. Aus diesem Grund wird es häufig auf Ölbasis angeboten. Daher ist meines auch in Tropfenform. Ihr könnt [Vitamin D im Feelgood Shop auch als liposomales Spray bestellen](https://pluto.r.powuta.com/ts/i5033910/tsc?amc=con.blbn.494490.495090.14138857&rmd=3&trg=https%3A%2F%2Fwww.feelgood-shop.com%2Fliposomal-vitamin-d3-spray-lipo-you.html). Am besten informiert Ihr Euch vorab bei Eurem⋆r Arzt⋆Ärztin, welches Präparat für Euch am besten infrage kommt. So habe ich das auch gemacht.
 
@@ -92,7 +96,7 @@ Vitamin D3 zählt zu den fettlöslichen Vitaminen. Aus diesem Grund wird es häu
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAJxAAAgIBAwQCAgMBAAAAAAAAAQIDBAUAERIGEyExQVEUIgcVQtH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/xAAlEQACAQIFBAMBAAAAAAAAAAABAgMABAUREkFRITFx0WGBkbH/2gAMAwEAAhEDEQA/AG2tiv7zp63mo6zJZkk4V4kvFo5Yk34ty39HkTsPvWTx5+zkb11kwr/mKGE9dMjIGhVWJJK7bj3uT9BdaZN1jkVgqwSVpWpLLDU7XfVZePADkGDjcg/54/8AdKEF1cL1p1TIIxYs2Io4yLEh49pI15efkkuPH0NZ7YfGUU9v33SbK+e6keOMZ5H4qDCR5TKR9/G4OaaHn2VdM2FUsCCw/Y+weOnDG5WWNKr2MaI1poyyNJkXHBidmDHbY/A3+z41S4qGZenhexVM2almZ7BhVP2j5hT68+Adx409XrVhv4zyCkStI2MWQxDdXDBVYqCRsNBWz1O6sCNPUHmtEy6EBbuTlluK4YKf4+GqvYj6Vo5iIwN2J7zyLHKsYHlFO/MDb49+dKNcU58hlh1R1BjhJIdkWnjZCu/HYkO2xI9Aj0fGjRpU+Ly6QulduePNFsMPS2YyxsQSTxv9U2dC3MXUxMyW89Vl4WikZljjplYwiBQIyw8fAOrjqJcDf6Yz8NaWjZyNrG2YYVYcBPJxYLtLsPewXfltsdGjUnxCQRq2Q6+fdVFsrSMSf56r/9k="
 />
 
-Für den Schutz der Knochen, Muskeln, des Nervensystems, gegen Müdigkeit und für gesunde Haut und Nägel könnt Ihr unter Absprache mit Eurem⋆r Doc den Konsum von Kalzium, Magnesium und Zink in Erwägung ziehen. [Im Feelgood Shop gibt es ein kombiniertes Präparat](https://pluto.r.powuta.com/ts/i5033910/tsc?amc=con.blbn.494490.495090.14138857&rmd=3&trg=https%3A%2F%2Fwww.feelgood-shop.com%2Fkalzium-magnesium-zink-mineralien-mineralstoffkomplex-fuer-die-gesundheit.html), das ich an dieser Stelle empfehlen kann. Es ist zu 100 Prozent natürlich und vegan.
+Für den Schutz der Knochen, Muskeln, des Nervensystems, gegen Müdigkeit und für gesunde Haut und Nägel könnt Ihr unter Absprache mit Eurem⋆r Doc den Konsum von Kalzium, Magnesium und Zink in Erwägung ziehen. [Im Feelgood Shop gibt es ein kombiniertes Präparat](https://pluto.r.powuta.com/ts/i5033910/tsc?amc=con.blbn.494490.495090.14138857&rmd=3&trg=https%3A%2F%2Fwww.feelgood-shop.com%2Fkalzium-magnesium-zink-mineralien-mineralstoffkomplex-fuer-die-gesundheit.html). Es ist zu 100 Prozent natürlich und vegan. Weil mir das gefällt, möchte ich es an dieser Stelle empfehlen.
 
 Alle drei Stoffe zählen zu den Mineralstoffen. Es ist immer gut, Magnesium mit Kalzium zu kombinieren, da eine hohe Zuführung von Magnesium allein zu Störungen des Kalzium-Haushalts führen kann. Zink ist optional, empfiehlt sich aber unter anderem für das Immunsystem – besonders in der Erkältungszeit. Bei der Einnahme von Kalzium und Magnesium gilt das Verhältnis 2:1. Zwei Teile Kalzium und 1 Teil Magnesium. Je mehr Magnesium der Körper aufnimmt, desto weniger Kalzium kann er wiederum resorbieren. Daher solltet Ihr immer die doppelte Menge Kalzium wie Magnesium zu Euch nehmen. Ihr scheidet durch das Schwitzen beide Mineralstoffe auch in diesem Verhältnis wieder aus. Im Übrigen hilft Magnesium bei mir auch hervorragend gegen Krämpfe – dazu gibt es an dieser Stelle bald einen weiteren Artikel.
 
