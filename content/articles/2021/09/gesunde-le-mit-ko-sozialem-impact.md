@@ -43,7 +43,7 @@ language: de
 ---
 **Gesunde Öle sollte man nach Möglichkeit täglich zu sich nehmen. Mit ihnen führen wir unserem Körper wichtige Fettsäuren zu und stärken unser Immunsystem. Hochwertige, pflanzliche Öle können außerdem als Träger für wichtige Nährstoffe und Vitamine wie Vitamin D3 und K2 verwendet werden.**
 
-Ich habe mir schon vor langer Zeit angewöhnt, regelmäßig Öl zu mir zu nehmen. Das kommt dann einfach in den Salat oder in den Smoothie und wenn es ganz besonders gut schmeckt oder einfach mal schnell gehen muss, gerne auch mal pur.
+Ich habe mir schon vor langer Zeit angewöhnt, regelmäßig Öl zu konsumieren. Das kommt dann einfach in den Salat oder in den Smoothie und wenn es ganz besonders gut schmeckt oder einfach mal schnell gehen muss, gerne auch mal pur.
 
 Mit dem ["Maritime Evergreen" Öl von NatuRise](https://t.adcell.com/p/click?promoId=244963&slotId=80259&param0=https%3A%2F%2Fwww.naturise.de%2Fmarine-evergreen) klappt das ganz hervorragend. Es schmeckt nämlich nicht, wie der Name vielleicht vermuten lässt, nach Algen, sondern lecker nach Blutorange und Zitrone. Es wird in einer formschönen Glasflasche mit Holzverschluss geliefert und ist durch die Pipette ganz einfach dosierter. Die empfohlene Tagesdosis liegt bei 3 Milliliter. Diese sollte man möglichst während, kurz vor oder kurz nach einer Mahlzeit zu sich nehmen.
 
