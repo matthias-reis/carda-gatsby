@@ -81,7 +81,7 @@ Die Dahrreichungsform als Öls gefällt mir besonders gut. Genau, wie das "Marin
 
 Vitamin D3 und K2 sorgen dafür, dass Eure Knochen gesund bleiben. D3 ist außerdem wichtig für Eure Muskeln und das Immunsystem. Besonders in der dunklen Jahreszeit und wenn Ihr, wie ich, viel im Homeoffice arbeitet, solltet Ihr auf alle Fälle darauf achten, genug Vitamin D3 zu Euch zu nehmen. 
 
-Der Körper bildet das Vitamin, wenn wir unsere Haut lange genug der Sonne aussetzen. Darum wird es auch als "Sonnenvitamin" (daher auch der treffende Name des Öls: "Morning Sun"). Allerdings sind wir in unserer modernen Welt nur sehr selten so lange an der Sonne, wie wir brauchen würden, um wirklich genügend Vitamin D3 zu uns zu nehmen. Und dann sind da natürlich auch noch unsere Kleidung und der möglichst hohe Lichtschutzfaktor, mit dem wir unsere Haut vor schädlichen UV-Strahlen schützen.
+Der Körper bildet das Vitamin, wenn wir unsere Haut lange genug der Sonne aussetzen. Darum wird es auch als "Sonnenvitamin" (daher auch der treffende Name des Öls: "Morning Sun") bezeichnet. Allerdings sind wir in unserer modernen Welt nur sehr selten so lange an der Sonne, wie wir brauchen würden, um wirklich genügend Vitamin D3 zu uns zu nehmen. Und dann sind da natürlich auch noch unsere Kleidung und der möglichst hohe Lichtschutzfaktor, mit dem wir unsere Haut vor schädlichen UV-Strahlen schützen.
 
 ## D3 ist wichtig für gesunde Knochen
 
