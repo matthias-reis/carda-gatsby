@@ -77,7 +77,7 @@ Viele der Schadstoffe im Fischöl sind fettlöslich und werden im Darm fast voll
 
 Früher musste man ziemlich lange suchen, um veganes Vitamin D3 zu finden. Heute ist das zum Glück nicht mehr allzu schwer. Das ["Morning Sun Vitamin D3/K2 Öl"](https://t.adcell.com/p/click?promoId=244963&slotId=80259&param0=https%3A%2F%2Fwww.naturise.de%2Fmorning-sun) von NatuRise enthält auch K2. Ihr müsst also kein zusätzliches Präparat besorgen (Die allgemeine Empfehlung lautet, die beiden Vitamine immer zusammen zu sich zu nehmen). Das ist schon mal spitze. 
 
-Die Dahrreichungsform als Öls gefällt mir besonders gut. Genau, wie das "Marine Evergreen" Öl kommt es in einer Glasflasche mit Holzdeckel und Pipette zu Euch. Die Dosierung funktioniert wunderbar. Pro Tag braucht Ihr nur einen Tropfen, um Euren Bedarf zu decken. 
+Die Dahrreichungsform als Öls gefällt mir besonders gut. Genau, wie das "Marine Evergreen Öl" kommt es in einer Glasflasche mit Holzdeckel und Pipette zu Euch. Die Dosierung funktioniert wunderbar. Pro Tag braucht Ihr nur einen Tropfen, um Euren Bedarf zu decken. 
 
 Vitamin D3 und K2 sorgen dafür, dass Eure Knochen gesund bleiben. D3 ist außerdem wichtig für Eure Muskeln und das Immunsystem. Besonders in der dunklen Jahreszeit und wenn Ihr, wie ich, viel im Homeoffice arbeitet, solltet Ihr auf alle Fälle darauf achten, genug Vitamin D3 zu Euch zu nehmen. 
 
