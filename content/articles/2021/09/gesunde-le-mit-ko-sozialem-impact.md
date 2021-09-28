@@ -63,7 +63,7 @@ Wenn Ihr in einen Mangel rutscht, kann das zu diffusen Symptomen führen. Schlaf
 
 Pflanzliches Öl solltet Ihr also schon alleine aus dem Grund regelmäßig konsumieren, weil es Eure ausgeglichene und Cholesterin-gesunde Ernährung unterstützt. [Dass wir Veganer⋆innen bei Ärzt⋆innen den Ruf haben, die besten Cholesterin-Werte zu besitzen](/2019/06/veganer-arzt-interview-dr-hanno-platz/), kommt eben nicht von ungefähr.
 
-Für Veganer⋆innen ist das ["Maritime Evergreen" Öl von NatuRise](https://t.adcell.com/p/click?promoId=244963&slotId=80259&param0=https%3A%2F%2Fwww.naturise.de%2Fmarine-evergreen) definitiv geeignet. Das steht gut leserlich auf der Flasche. Genau, wie die Zutaten: Es besteht aus Algenöl, natürlichem Zitrus- und Blutorangen-Aroma sowie Rosmarin Antioxidans Extrakt. Ihr bewahrt das Öl am besten im Kühlschrank auf. Wenn Ihr es einmal angebrochen habt, solltet Ihr es möglichst frisch genießen und nach 40 Tagen aufgebraucht haben. Das ist aber durchaus schaffbar, keine Sorge. Ihr werdet keine Reste wegwerfen müssen.
+Für Veganer⋆innen ist das ["Maritime Evergreen" Öl von NatuRise](https://t.adcell.com/p/click?promoId=244963&slotId=80259&param0=https%3A%2F%2Fwww.naturise.de%2Fmarine-evergreen) definitiv geeignet. Das steht gut leserbar auf der Flasche. Genau, wie die Zutaten: Es besteht aus Algenöl, natürlichem Zitrus- und Blutorangen-Aroma sowie Rosmarin Antioxidans Extrakt. Ihr bewahrt das Öl am besten im Kühlschrank auf. Wenn Ihr es einmal angebrochen habt, solltet Ihr es möglichst frisch genießen und nach 40 Tagen aufgebraucht haben. Das ist aber durchaus schaffbar, keine Sorge. Ihr werdet keine Reste wegwerfen müssen.
 
 <Gallery name="vitamin-oele-1" />
 
