@@ -19,6 +19,7 @@ subTitle: Nahrungsergänzungsmittel für Veganer*innen
 seoTitle: Nahrungsergänzungsmittel für Veganer⋆innen – Was empfiehlt sich?
 description: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in
   irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen?
+copyrigt: ""
 labels:
   - B12
   - D3
