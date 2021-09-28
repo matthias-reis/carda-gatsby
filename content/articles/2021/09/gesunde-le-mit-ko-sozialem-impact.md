@@ -95,7 +95,7 @@ Das Vitamin D3/K2-Öl von NatuRise besteht aus MCT-Öl, Vitamin D3 (Cholecalcife
 
 Soviel zu den Ölen, die ich derzeit im Gebrauch habe. Mit dem Kauf bei NatuRise tut Ihr außerdem noch etwas Gutes: Mit dem D3/K2 Öl schützt Ihr unter anderem drei Quadratmeter Regenwald und für das Omega-3-Öl wird ein Baum gepflanzt. Mit der Tatsache, dass 60 Prozent des weltweiten Regenwaldes innerhalb der letzten 70 Jahre verschwunden sind und die Fläche immer weiter schrumpft, wollen sich die Gründer⋆innen des Stuttgarter Start-ups nämlich nicht zufriedengeben. Und auch der Plastikmüll in den Weltmeeren geht ihnen ziemlich auf die Nerven. Daher möchten sie mit ihren Produkten für öko-sozialen Impact sorgen. Das klingt nach einer runden Sache, oder?
 
-Das Ganze funktioniert so: 
+**Das Ganze funktioniert so:**
 
 Mit jedem verkauften Produkt ([davon gibt es bei NatuRise neben dem D3/K2-Öl und dem Omega-3-Öl noch eine ganze Menge](https://t.adcell.com/p/click?promoId=244963&slotId=80259&param0=https%3A%2F%2Fwww.naturise.de%2Fprodukte)), unterstützt die Firma weltweit ein bis vier öko-soziale Projekte. Abhängig von der Wirkung auf die Umwelt ist es mit einem der vier Elemente verziert: Feuer, Wasser, Erde und Luft.
 
