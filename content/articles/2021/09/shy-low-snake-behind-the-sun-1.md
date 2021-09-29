@@ -57,7 +57,7 @@ At that moment, producer and sound engineer Mike Watts (The Dillinger Escape Pla
 
 ![Shy, Low](/img/shy-low-1-.jpg "Shy, Low")
 
-The legendary drum room at Vudu Studios and the work of drummer Dylan Partridge, who was hasn't even been a permanent band member at the time, then did the rest. Zak continued:
+The legendary drum room at Vudu Studios and the work of drummer Dylan Partridge, who was hadn't even been a permanent band member at the time, then did the rest. Zak continued:
 
 > "Sitting in the studio for three weeks and focusing on the album was great. It was also completely new for us to work in this way. It was the first time we had the opportunity to fine-tune our songs with a producer and experiment with different instruments that we didn't have access to before."
 
