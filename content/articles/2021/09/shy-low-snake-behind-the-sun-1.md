@@ -8,7 +8,7 @@ seoTitle: Shy, Low – "Snake Behind The Sun" – Post-Metal Review
 description: Fans of bands like pg.lost, Thrice, Cult Of Luna and Russian
   Circles should pay attention to this record review. There is an album coming
   up on October 8th that you should definitely consider listening to. With their
-  new record, "Snake Behind The Sun, the Pelagic signed band Shy, Low really
+  new record, "Snake Behind The Sun", the Pelagic signed band Shy, Low really
   hits the spot.
 image: /img/shy-low.jpg
 copyrigt: Shy, Low
@@ -35,7 +35,7 @@ affiliate: false
 language: en
 languageLink: /2021/09/shy-low-snake-behind-the-sun/
 ---
-**Fans of bands like pg.lost, Thrice, Cult Of Luna and Russian Circles should pay attention to this record review. There is an album coming up on October 8th that you should definitely consider listening to. With their new record, "Snake Behind The Sun, the Pelagic signed band Shy, Low really hits the spot.**
+**Fans of bands like pg.lost, Thrice, Cult Of Luna and Russian Circles should pay attention to this record review. There is an album coming up on October 8th that you should definitely consider listening to. With their new record, "Snake Behind The Sun", the Pelagic signed band Shy, Low really hits the spot.**
 
 Shy, Low show other post-music acts how contrasty music should sound.  With the quartet from Richmond, Virginia, everything takes place between hard riffs and filigree melodies. The swelling tension that emerges, again and again, is glorious.
 
