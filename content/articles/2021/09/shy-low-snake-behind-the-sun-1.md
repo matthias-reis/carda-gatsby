@@ -57,13 +57,13 @@ At that moment, producer and sound engineer Mike Watts (The Dillinger Escape Pla
 
 ![Shy, Low](/img/shy-low-1-.jpg "Shy, Low")
 
-The legendary drum room at Vudu Studios and the work of drummer Dylan Partridge, who was hadn't even been a permanent band member at the time, then did the rest. Zak continued:
+The legendary drum room at Vudu Studios and drummer Dylan Partridge's work (he was hadn't even been a permanent band member at the time) then did the rest. Zak continued:
 
 > "Sitting in the studio for three weeks and focusing on the album was great. It was also completely new for us to work in this way. It was the first time we had the opportunity to fine-tune our songs with a producer and experiment with different instruments that we didn't have access to before."
 
 For Shy, Low, "Snake Behind The Sun" is a metaphor for the idea that darkness and negativity can remain hidden even beneath seemingly positive forces and a positive being in a person's life. And there was indeed a snake crawling out from behind the sun when the band was in the studio. Bassist Drew Storcks recounted:
 
-> "In the third week, the state of New York announced that it would declare a complete lockdown because of the rapid increase in COVID infections. So all of a sudden we only had one day to finish our recordings. Suddenly a crazy race had begun."
+> "In the third week, the state of New York announced that it would declare a complete lockdown because of the rapid increase in COVID infections. So all of a sudden, we only had one day to finish our recordings. Suddenly a crazy race had begun."
 
 "Snake Behind The Sun is a unique instrumental album. Shy, Low managed to convey the moods that other bands express (or try to express) through lyrics entirely through their instruments – and beyond that. Already on the first listen, the seven songs in 53 minutes are giving me goosebumps more than once. It's nice to know that I can get this feeling back at any time now. And you can also experience it from October 8th. So don't miss out!
 
