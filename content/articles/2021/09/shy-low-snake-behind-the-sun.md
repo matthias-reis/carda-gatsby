@@ -50,7 +50,7 @@ Dass die Platte so gut geworden ist, schreibt Gitarrist Zak Bryant auch der wohl
 
 In diesem Moment kam Producer und Sound Engineer Mike Watts (The Dillinger Escape Plan, Hopesfall, Tides of Man, GlassJaw) ins Spiel:
 
-> "Nachdem wir uns die Musik, die er unter anderem mit Bands wie O'Brother, Lume, GlassJaw produziert hat, angehört hatten, waren wir klar, dass wir diese Drum-Sounds haben wollten. Und auch sein ausgeprägtes Gespür für die gesamt Balance der Mixes und der Produktionen haben uns beeindruckt."
+> "Nachdem wir uns die Musik, die er unter anderem mit Bands wie O'Brother, Lume, GlassJaw produziert hat, angehört hatten, war uns klar, dass wir diese Drum-Sounds haben wollten. Und auch sein ausgeprägtes Gespür für die gesamt Balance der Mixes und der Produktionen haben uns beeindruckt."
 
 ## Instrumental-Musik vom Feinsten
 
