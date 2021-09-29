@@ -64,7 +64,7 @@ Für Shy, Low ist "Snake Behind The Sun" eine Metapher für die Vorstellung, das
 
 > "In der dritten Woche wurde bekannt, dass der Bundesstaat New York wegen des rapiden Anstiegs an COVID-Infektionen einen kompletten Lockdown ausrufen wollte. Wir hatten plötzlich also nur noch einen Tag, um unsere Aufnahmen zu beenden. Plötzlich hatte ein verrückter Wettlauf begonnen."
 
-"Snake Behind The Sun" ist ein Instrumentalalbum der ganz besonderen Art. Shy, Low schaffen es, die Stimmungen, die andere Bands durch Lyrics ausdrücken (oder auszudrücken versuchen) komplett über ihre Instrumente zu vermitteln – und darüber hinaus. Schon beim ersten Hören lösen die insgesamt sieben Songs in 53 Minuten bei mir mehr als nur einmal eine wohlige Gänsehaut aus. Schön, dass ich mir dieses Gefühl jederzeit zurückholen kann. Und Ihr könnt es ab dem 8. Oktober auch erleben.
+"Snake Behind The Sun" ist ein Instrumentalalbum der ganz besonderen Art. Shy, Low schaffen es, die Stimmungen, die andere Bands durch Lyrics ausdrücken (oder auszudrücken versuchen), komplett über ihre Instrumente zu vermitteln – und darüber hinaus. Schon beim ersten Hören lösen die insgesamt sieben Songs in 53 Minuten bei mir mehr als nur einmal eine wohlige Gänsehaut aus. Schön, dass ich mir dieses Gefühl jederzeit zurückholen kann. Und Ihr könnt es ab dem 8. Oktober auch erleben.
 
 Pelagic hat ein paar der Songs schon ins Netz gestellt. Einer davon ist die aktuelle Vorauskopplung "Umbra".
 
