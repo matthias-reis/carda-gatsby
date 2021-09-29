@@ -58,7 +58,7 @@ In diesem Moment kam Producer und Sound Engineer Mike Watts (The Dillinger Escap
 
 Der legendäre Schlagzeugraum der Vudu Studios und die Handarbeit von Schlagzeuger Dylan Partridge, der zu diesem Zeitpunkt noch gar kein festes Bandmitglied war, taten dann ihr Übriges. Zak berichtet weiter:
 
-> "Drei Wochen lang im Studio zu sitzen und sich auf das Album zu konzentrieren, war super. Für uns war es außerdem komplett neu, auf diese Art zu arbeiten. Wir hatten zum ersten Mal die Möglichkeit, unsere Songs gemeinsam mit einem Producer fein abzustimmen und mit den verschiedensten Instrumenten zu experimentieren, zu denen wir bis dahin gar keinen Zugang hatten."
+> "Drei Wochen lang im Studio zu sitzen und sich auf das Album zu konzentrieren, war super. Für uns war es komplett neu, auf diese Art zu arbeiten. Wir hatten zum ersten Mal die Möglichkeit, unsere Songs gemeinsam mit einem Producer fein abzustimmen und mit den verschiedensten Instrumenten zu experimentieren, zu denen wir bis dahin gar keinen Zugang hatten."
 
 Für Shy, Low ist "Snake Behind The Sun" eine Metapher für die Vorstellung, dass Dunkelheit und Negativität selbst unter scheinbar positiven Kräften und einem positiven Wesen im Leben eines Menschen verborgen bleiben können. Und es kroch tatsächlich eine Schlange hinter der Sonne hervor, als die Band  im Studio war. Bassist Drew Storcks erzählt:
 
