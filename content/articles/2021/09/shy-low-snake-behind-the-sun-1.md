@@ -41,7 +41,7 @@ Shy, Low show other post-music acts how contrasty music should sound.  With the 
 
 ## Sophisticated songwriting
 
-![Shy, Low – "Snake Behind The Sun"](/img/shylow1627286341508331.jpg "Shy, Low – \"Snake Behind The Sun\"")
+![Shy, Low – "Snake Behind The Sun"](/img/shylow1627286341508331.jpg "Shy, Low – \\"Snake Behind The Sun\\"")
 
 The album is solid and brutal –  You might say: Its sophisticated songwriting has put it to life. "Snake Behind The Sun" is great music for all those who like multi-layered, complex and groovy sounds without wanting to forego any heaviness.
 
@@ -55,7 +55,7 @@ At that moment, producer and sound engineer Mike Watts (The Dillinger Escape Pla
 
 ## Instrumental music at its best
 
-![Shy, Low](/img/shy-low-1.jpeg "Shy, Low")
+![Shy, Low](/img/shy-low-1-.jpg "Shy, Low")
 
 The legendary drum room at Vudu Studios and the work of drummer Dylan Partridge, who was hasn't even been a permanent band member at the time, then did the rest. Zak continued:
 
