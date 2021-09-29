@@ -27,6 +27,7 @@ labels:
   - Post-Metal
   - Sludge
   - Richmond
+  - Vudu Studios
 focusKeyword: Shy, Low
 advertisement: false
 affiliate: false
