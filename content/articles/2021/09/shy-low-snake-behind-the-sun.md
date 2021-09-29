@@ -54,7 +54,7 @@ In diesem Moment kam Producer und Sound Engineer Mike Watts (The Dillinger Escap
 
 ## Instrumental-Musik vom Feinsten
 
-![Shy, Low](/img/shy-low-1.jpeg "Shy, Low")
+![Shy, Low](/img/shy-low-1-.jpg "Shy, Low")
 
 Der legendäre Schlagzeugraum der Vudu Studios und die Handarbeit von Schlagzeuger Dylan Partridge, der zu diesem Zeitpunkt noch gar kein festes Bandmitglied war, taten dann ihr Übriges. Zak berichtet weiter:
 
