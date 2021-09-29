@@ -45,7 +45,7 @@ Shy, Low show other post-music acts how contrasty music should sound.  With the 
 
 The album is solid and brutal –  You might say: Its sophisticated songwriting has put it to life. "Snake Behind The Sun" is great music for all those who like multi-layered, complex and groovy sounds without wanting to forego any heaviness.
 
-Guitarist Zak Bryant also attributes the fact that the record turned out so well to the well-considered and extensive pre-production. He told Pelagic:
+Guitarist Zak Bryant also attributes the fact that the record turned out so good to the well-considered and extensive pre-production. He told Pelagic:
 
 > "We recorded the entire album at home before we went into the studio and reworked some of the songs several times. Only then were they entirely composed for us. 
 
