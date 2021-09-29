@@ -51,13 +51,13 @@ Guitarist Zak Bryant also attributes the fact that the record turned out so good
 
 At that moment, producer and sound engineer Mike Watts (The Dillinger Escape Plan, Hopesfall, Tides of Man, GlassJaw) came into the picture:
 
-> "After listening to the music he recorded with bands like O'Brother, Lume, GlassJaw, among others, we were clear that we wanted those drum sounds. And we were also impressed by his keen sense of the overall balance of the mixes and the productions."
+> "After listening to the music he produced with bands like O'Brother, Lume, GlassJaw, among others, we were clear that we wanted those drum sounds. And we were also impressed by his keen sense of the overall balance of the mixes and the productions."
 
 ## Instrumental music at its best
 
 ![Shy, Low](/img/shy-low-1.jpeg "Shy, Low")
 
-The legendary drum room at Vudu Studios and the handiwork of drummer Dylan Partridge, who was not even a permanent band member at the time, then did the rest. Zak continued:
+The legendary drum room at Vudu Studios and the work of drummer Dylan Partridge, who was not even a permanent band member at the time, then did the rest. Zak continued:
 
 > "Sitting in the studio for three weeks and concentrating on the album was great. It was also completely new for us to work in this way. It was the first time we had the opportunity to fine-tune our songs with a producer and experiment with different instruments that we didn't have access to before."
 
