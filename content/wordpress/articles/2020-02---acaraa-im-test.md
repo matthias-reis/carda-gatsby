@@ -1,17 +1,24 @@
 ---
-date: 2020-02-08T20:35:55.000+00:00
-slug: acaraa-im-test
-path: '/2020/02/acaraa-im-test/'
-title: Acaraa im Test
-seoTitle: Acaraa im Test - natürliche Pflegeöle für Haut und Haar
 ogTitle: Acaraa im Test - natürliche Pflegeöle für Haut und Haar
-description: Ich habe das Haaröl und der Hautöl von Acaraa getestet. Die Naturkosmetikprodukte aus München habe ich genau im richtigen Moment für mich entdeckt.
-excerpt: Ich habe das Haaröl und der Hautöl von Acaraa getestet. Die Naturkosmetikprodukte aus München habe ich genau im richtigen Moment für mich entdeckt.
-fileName: 2020-02---acaraa-im-test.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_P1250596__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_P1250596__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKhAAAQMDAwMCBwEAAAAAAAAAAQIDBAAFEQYSIRMxQVFhBxQiI3GB0bH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwIF/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwRBESEFEyIx8P/aAAwDAQACEQMRAD8Am1u0bbXYjjY65eUnCXirlB9QBxV40N8NbDdNIyzBca678dUZSAwjMZZAwok5JOQDnyDS1YLLCQlsyFPSVcZSk7E4/X9p0dvUbSEVh+MlqK3LUI524GVEgjnycbq5/kcPmk2MD8dAxOLlu7imo9tuc/2K3S7ZPvEWe0qLdocNz7Cm9yi4kKwUg+v0n9g+aTm5nTgNJlpCs7jnjdx5I/vpVw1lp2HcpV1mshTV9cJcam9ZeQsdj3wAQAO1STV9vnMxmJFxEN8ry31mtyVAgZwrsD58eDUcWtlPsJ4PU3lqWArXv99yqwL9Dhstrmy48dGAQXFZJ/CRya1muNbQb1a40KB8wosPdYvuJCQo7SBhPfuc84oop2fc3Br0ZHxlKhhdsTOjXV+8WtuTGUkJSlIcWpYSEnHvStqqG9IgvwFJQvqJC0uIUCAvuOfb/DRRSaqVKBjuGuvZbWUan//Z
+excerpt: Ich habe das Haaröl und der Hautöl von Acaraa getestet. Die
+  Naturkosmetikprodukte aus München habe ich genau im richtigen Moment für mich
+  entdeckt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-5.png__l.jpg
+isAffiliate: false
+path: /2020/02/acaraa-im-test/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKhAAAQMDAwMCBwEAAAAAAAAAAQIDBAAFEQYSIRMxQVFhBxQiI3GB0bH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwIF/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwRBESEFEyIx8P/aAAwDAQACEQMRAD8Am1u0bbXYjjY65eUnCXirlB9QBxV40N8NbDdNIyzBca678dUZSAwjMZZAwok5JOQDnyDS1YLLCQlsyFPSVcZSk7E4/X9p0dvUbSEVh+MlqK3LUI524GVEgjnycbq5/kcPmk2MD8dAxOLlu7imo9tuc/2K3S7ZPvEWe0qLdocNz7Cm9yi4kKwUg+v0n9g+aTm5nTgNJlpCs7jnjdx5I/vpVw1lp2HcpV1mshTV9cJcam9ZeQsdj3wAQAO1STV9vnMxmJFxEN8ry31mtyVAgZwrsD58eDUcWtlPsJ4PU3lqWArXv99yqwL9Dhstrmy48dGAQXFZJ/CRya1muNbQb1a40KB8wosPdYvuJCQo7SBhPfuc84oop2fc3Br0ZHxlKhhdsTOjXV+8WtuTGUkJSlIcWpYSEnHvStqqG9IgvwFJQvqJC0uIUCAvuOfb/DRRSaqVKBjuGuvZbWUan//Z
+date: 2020-02-08T20:35:55.000+00:00
+advertisement: true
+isWerbung: false
+fileName: 2020-02---acaraa-im-test.md
+slug: acaraa-im-test
+errors: {}
+title: Acaraa im Test
+subTitle: Natürliche Pflegeöle für Haut und Haar
+seoTitle: Acaraa im Test - natürliche Pflegeöle für Haut und Haar
+description: Ich habe das Haaröl und der Hautöl von Acaraa getestet. Die
+  Naturkosmetikprodukte aus München habe ich genau im richtigen Moment für mich
+  entdeckt.
 labels:
   - Acaraa
   - Acaraa Testbericht
@@ -33,14 +40,11 @@ labels:
   - vegan beauty
   - vegane Naturkosmetik
 focusKeyword: Acaraa
-status: publish
-isWerbung: false
-isAffiliate: false
-language: de
-errors: {}
-subTitle: Natürliche Pflegeöle für Haut und Haar
-advertisement: true
 affiliate: true
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_P1250596__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_P1250596__m.jpg
+language: de
 ---
 
 **Hinweis:** Weiter unten findet Ihr einen Rabattcode.
@@ -53,13 +57,13 @@ Gerade gönne ich meinen Haaren eine Auszeit von Bleiche und Co. Die winterliche
 
 ## Auszeit für die Haare mit dem Haaröl von Acaraa
 
-Was mir dabei hilft, ist das wunderbare [Haaröl von Acaraa](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fhaare%2Fproducts%2Ftravel-repairing-hair-oil). Ich gebe einfach ein paar Tropfen davon auf meine Handflächen und verteile es morgens und abends vor allem in den Haarspitzen. Das Besondere daran sind die wertvollen Inhaltsstoffe. Außerdem fettet es nicht, was meiner derzeitigen "Dauerhaarkur" sehr zugutekommt. Die Anwendung führt nicht dazu, dass ich meine Haare häufiger waschen muss, als sonst. Sie haben also die Möglichkeit, sich zu erholen. Es lässt sich dank der praktischen Sprühflasche ziemlich gut dosieren. Zweimal Sprühen reicht für mein inzwischen wieder so gut wie kinnlanges Haar vollkommen aus.
+Was mir dabei hilft, ist das wunderbare [Haaröl von Acaraa](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Frepairing-hairoil). Ich gebe einfach ein paar Tropfen davon auf meine Handflächen und verteile es morgens und abends vor allem in den Haarspitzen. Das Besondere daran sind die wertvollen Inhaltsstoffe. Außerdem fettet es nicht, was meiner derzeitigen "Dauerhaarkur" sehr zugutekommt. Die Anwendung führt nicht dazu, dass ich meine Haare häufiger waschen muss, als sonst. Sie haben also die Möglichkeit, sich zu erholen. Es lässt sich dank der praktischen Sprühflasche ziemlich gut dosieren. Zweimal Sprühen reicht für mein inzwischen wieder so gut wie kinnlanges Haar vollkommen aus.
 
 Wie es nach der Ruhephase bei mir frisurtechnisch weitergeht, weiß ich noch nicht. Wahrscheinlich werde ich mir in Richtung Sommer wieder Strähnchen machen lassen und eventuell auch den Side- und Undercut wieder auffrischen - mal sehen. Insgesamt sollen die Haare auf jeden Fall wieder länger werden. Die momentane Pflegeroutine wird sich da hoffentlich auszahlen. Durch die Verwendung des Öls sind sie schon viel weicher geworden und beim Bürsten brechen nicht mehr so viele ab. Ich verbuche das für mich schon mal als Erfolg.
 
 ## Acaraa Haaröl - das ist drin
 
-Das [Haaröl von Acaraa](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fhaare%2Fproducts%2Ftravel-repairing-hair-oil) ist frei von Silikonen. Argan- und Cacayöl pflegen das Haar, Jojobaöl soll für Glanz sorgen und Mandelöl soll Spliss und Haarbruch entgegenwirken. Genau wie alle Produkte des Herstellers ist es komplett vegan und natürlich. Was mir besonders positiv aufgefallen ist, ist der angenehme Duft des Öls.
+Das [Haaröl von Acaraa](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Frepairing-hairoil) ist frei von Silikonen. Argan- und Cacayöl pflegen das Haar, Jojobaöl soll für Glanz sorgen und Mandelöl soll Spliss und Haarbruch entgegenwirken. Genau wie alle Produkte des Herstellers ist es komplett vegan und natürlich. Was mir besonders positiv aufgefallen ist, ist der angenehme Duft des Öls.
 
 ### Liste der Inhaltsstoffe (Volldeklaration)
 
@@ -83,7 +87,7 @@ Kennt Ihr auch diese fies trockenen Ellbogen und Kniekehlen? Bei mir stellen die
 
 Mit dem [Hautöl von Acaraa](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fkoerper%2Fproducts%2Ftoning-body-oil) klappt es auch ziemlich gut. Schon nach ein paar Anwendungen sahen meine Ellbogen schon viel besser aus und das Jucken der wirklich sehr trockenen Haut in den Kniekehlen war verschwunden.
 
-[Das Öl](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fkoerper%2Fproducts%2Ftoning-body-oil) lässt sich direkt nach dem Duschen auf noch etwas feuchter Haut besonders gut verteilen. Es zieht dann schnell ein und hinterlässt keinen klebrigen Film. Es duftet genau wie [das Haaröl](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fhaare%2Fproducts%2Ftravel-repairing-hair-oil) sehr angenehm und konkurriert nicht mit meinem Parfum.
+[Das Öl](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fkoerper%2Fproducts%2Ftoning-body-oil) lässt sich direkt nach dem Duschen auf noch etwas feuchter Haut besonders gut verteilen. Es zieht dann schnell ein und hinterlässt keinen klebrigen Film. Es duftet genau wie [das Haaröl](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Frepairing-hairoil) sehr angenehm und konkurriert nicht mit meinem Parfum.
 
 ## Acaraa Hautöl - das ist drin
 
