@@ -39,6 +39,7 @@ labels:
   - Rapswachskerze
   - vegan beauty
   - vegane Naturkosmetik
+  - Bodyöl
 focusKeyword: Acaraa
 affiliate: true
 status: publish
