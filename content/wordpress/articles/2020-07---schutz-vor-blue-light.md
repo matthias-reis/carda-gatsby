@@ -42,7 +42,7 @@ description: Kennt Ihr schon das Repair & Glow Face Oil von Acaraa? Ich wollte
 ---
 **Kennt Ihr schon das Repair &amp; Glow Face Oil von Acaraa? Ich wollte meiner Haut etwas Gutes tun und habe es ausprobiert. Für Euch habe ich meine Erfahrung damit aufgeschrieben.**
 
-Vor Kurzem habe ich mich nach einer neuen Brille umgesehen. Was mir dabei aufgefallen ist: Die Optikgeschäfte bieten inzwischen einen Blue Light Filter an. Dieser verhindert, dass das schädliche blaue Licht, das zum Beispiel von Computerbildschirmen ausgeht, die Augen schädigt **.**
+Vor Kurzem habe ich mich nach einer neuen Brille umgesehen. Was mir dabei aufgefallen ist: Die Optikgeschäfte bieten inzwischen einen Blue Light Filter an. Dieser verhindert, dass das schädliche blaue Licht, das zum Beispiel von Computerbildschirmen ausgeht, die Augen schädigt.**
 
 Weil ich als Online Redakteurin und leidenschaftliche Bloggerin an manchen Tagen bis zu 14 Stunden vor dem Schirm sitze, habe ich mich gefragt: Was macht dieses Licht eigentlich mit meiner Haut? Sollte es da nicht auch einen Schutz geben? Den gibt es! Das [Repair & Glow Face Oil von Acaraa](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Frepair-glow-face-oil) ist zum Beispiel mit einem Blue Light Filter ausgestattet. Ich habe es jetzt seit rund zwei Wochen in Verwendung. Das Ergebnis: Meine Poren sind weniger sichtbar und ich habe das Gefühl, das die Haut um die Augen herum entspannter ist.
 
