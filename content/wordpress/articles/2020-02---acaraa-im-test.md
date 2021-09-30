@@ -86,7 +86,7 @@ Das [Haaröl von Acaraa](https://www.awin1.com/cread.php?awinmid=19823&awinaffid
 
 Kennt Ihr auch diese fies trockenen Ellbogen und Kniekehlen? Bei mir stellen die sich mit ziemlicher Regelmäßigkeit in der Mitte jedes Winters ein. Das einzige, was dagegen wirklich hilft, ist intensive Pflege. Am besten mit guten Ölen. In der Vergangenheit haben mir vor allem Nachtkerzenöl und Arganöl gute Dienste geleistet.
 
-Mit dem [https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Ftoning-body-oil) klappt es auch ziemlich gut. Schon nach ein paar Anwendungen sahen meine Ellbogen schon viel besser aus und das Jucken der wirklich sehr trockenen Haut in den Kniekehlen war verschwunden.
+Mit dem [Körperöl](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Ftoning-body-oil) klappt es auch ziemlich gut. Schon nach ein paar Anwendungen sahen meine Ellbogen schon viel besser aus und das Jucken der wirklich sehr trockenen Haut in den Kniekehlen war verschwunden.
 
 [Das Öl](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Ftoning-body-oil) lässt sich direkt nach dem Duschen auf noch etwas feuchter Haut besonders gut verteilen. Es zieht dann schnell ein und hinterlässt keinen klebrigen Film. Es duftet genau wie [das Haaröl](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Frepairing-hairoil) sehr angenehm und konkurriert nicht mit meinem Parfum.
 
