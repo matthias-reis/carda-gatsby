@@ -85,13 +85,13 @@ Das [Haaröl von Acaraa](https://www.awin1.com/cread.php?awinmid=19823&awinaffid
 
 Kennt Ihr auch diese fies trockenen Ellbogen und Kniekehlen? Bei mir stellen die sich mit ziemlicher Regelmäßigkeit in der Mitte jedes Winters ein. Das einzige, was dagegen wirklich hilft, ist intensive Pflege. Am besten mit guten Ölen. In der Vergangenheit haben mir vor allem Nachtkerzenöl und Arganöl gute Dienste geleistet.
 
-Mit dem [Hautöl von Acaraa](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fkoerper%2Fproducts%2Ftoning-body-oil) klappt es auch ziemlich gut. Schon nach ein paar Anwendungen sahen meine Ellbogen schon viel besser aus und das Jucken der wirklich sehr trockenen Haut in den Kniekehlen war verschwunden.
+Mit dem [https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Ftoning-body-oil) klappt es auch ziemlich gut. Schon nach ein paar Anwendungen sahen meine Ellbogen schon viel besser aus und das Jucken der wirklich sehr trockenen Haut in den Kniekehlen war verschwunden.
 
-[Das Öl](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fkoerper%2Fproducts%2Ftoning-body-oil) lässt sich direkt nach dem Duschen auf noch etwas feuchter Haut besonders gut verteilen. Es zieht dann schnell ein und hinterlässt keinen klebrigen Film. Es duftet genau wie [das Haaröl](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Frepairing-hairoil) sehr angenehm und konkurriert nicht mit meinem Parfum.
+[Das Öl](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Ftoning-body-oil) lässt sich direkt nach dem Duschen auf noch etwas feuchter Haut besonders gut verteilen. Es zieht dann schnell ein und hinterlässt keinen klebrigen Film. Es duftet genau wie [das Haaröl](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Frepairing-hairoil) sehr angenehm und konkurriert nicht mit meinem Parfum.
 
 ## Acaraa Hautöl - das ist drin
 
-Auch im [Hautöl](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2Fcollections%2Fkoerper%2Fproducts%2Ftoning-body-oil) stecken Cacayöl, Arganöl, Jojobaöl, Mandelöl. Es soll auf natürliche Weise Feuchtigkeit spenden und die Haut festigen. Außerdem soll es Vernarbungen, Cellulite und Schwangerschaftsstreifen entgegenwirken. Bei Allergien und Hautreizungen soll es beruhigend wirken. Dass es rissige, trockene Haut wieder geschmeidiger macht, habe ich am eigenen Leib erfahren.
+Auch im [Hautöl](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Ftoning-body-oil) stecken Cacayöl, Arganöl, Jojobaöl, Mandelöl. Es soll auf natürliche Weise Feuchtigkeit spenden und die Haut festigen. Außerdem soll es Vernarbungen, Cellulite und Schwangerschaftsstreifen entgegenwirken. Bei Allergien und Hautreizungen soll es beruhigend wirken. Dass es rissige, trockene Haut wieder geschmeidiger macht, habe ich am eigenen Leib erfahren.
 
 ### Liste der Inhaltsstoffe (Volldeklaration)
 
@@ -119,6 +119,6 @@ Der Acaraa Firmensitz befindet sich in München. Die Gründer⋆innen der jungen
 
 Die Entwicklung und Herstellung der Acaraa Produkte erfolgt direkt vor Ort in München. Sie wurden von der Vegan Society ausgezeichnet, sind vegan und frei von Silikonen, Parabenen, Mineralölen, synthetischen Konservierungsstoffen, Sulfaten und Tierversuchen. Bei der Verpackung wird auf unnötiges Plastik verzichtet. So wurden meine Öle zum Beispiel in Glasfläschchen geliefert.
 
-Neben Ölen und Kerzen gibt es von Acaraa unter anderem ein Mizellen-Reinigungsgel, ein After Shave Balsam und ein Gesichtsserum. Wer neugierig geworden ist, [schaut am besten direkt auf der Homepage vorbei](https://t.adcell.com/p/click?promoId=196431&slotId=80259&param0=https%3A%2F%2Fmicaraa.de%2F). Dort könnt Ihr die Acaraa Produkte auch käuflich erwerben. Mit dem Rabattcode " **cardamonchai10** " erhaltet Ihr sogar 10 Prozent Rabatt auf alles!
+Neben Ölen und Kerzen gibt es von Acaraa unter anderem ein Mizellen-Reinigungsgel, ein After Shave Balsam und ein Gesichtsserum. Wer neugierig geworden ist, [schaut am besten direkt auf der Homepage vorbei](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2F). Dort könnt Ihr die Acaraa Produkte auch käuflich erwerben. Mit dem Rabattcode " **cardamonchai10** " erhaltet Ihr sogar 10 Prozent Rabatt auf alles!
 
 <Gallery name="acaraa2" />
