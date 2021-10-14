@@ -52,7 +52,7 @@ Anschließend werden die Oliven gewaschen und in der Ölmühle zerkleinert – 
 
 Heute wird Olivenöl in Güteklassen eingeteilt. In Europa gibt es acht Kategorien. Extra Virgin (englisch), Vierge Extra (franz.), Extra Vergine (italienisch), Virgen Extra (spanisch) oder Extra Virgem (portugiesisch) steht für [Natives Olivenöl Extra](https://amzn.to/3vjkxDZ).
 
-Ihr könnt das Olivenöl selbst mit Gewürzen anreichern, als Basis für Salat-Dressings (zum Beispiel mit [Balsamico-Essig](https://amzn.to/3AEJ9rJ)) und leckere Saucen verwenden oder auch schmackhaftes Olivenöl erwerben, das bereits mit Gewürzen verfeinert wurde, im Handel erwerben. Als Delikatesse gilt zum Beispiel Olivenöl mit Zitronenschalen (Limoli).
+Ihr könnt das Olivenöl selbst mit Gewürzen anreichern, als Basis für Salat-Dressings (zum Beispiel mit [Balsamico-Essig](https://amzn.to/3AEJ9rJ)) und leckere Saucen verwenden oder auch schmackhaftes Olivenöl erwerben, das bereits mit Gewürzen verfeinert wurde, im Handel erwerben. Als Delikatesse gilt beispielsweise Olivenöl mit Zitronenschalen (Limoli).
 
 <Gallery name="olivenoel-1" />
 
@@ -60,7 +60,7 @@ Ihr könnt das Olivenöl selbst mit Gewürzen anreichern, als Basis für Salat-D
 
 Sicher habt Ihr auch schon mal gehört, dass man Olivenöl besser nicht zum Anbraten verwendet. Das stimmt so nicht ganz. Wenn Ihr ein paar Regeln beachtet, eignet sich Olivenöl sogar besonders gut zum Braten und sogar zum Frittieren.
 
-Wenn Ihr Euren [Seitan](/2016/01/seitan-grundrezept/) zum Beispiel gerne scharf anbratet oder Eure Kartoffel-Scheiben frittieren wollt, verwendet Ihr am besten raffiniertes Olivenöl. Kaltgepresstes Öl ist nur bis 180 Grad geeignet. Das hat folgende Gründe: Kaltgepresstes Öl spritzt nicht nur stark, wenn es mit hohen Temperaturen in Berührung kommt, es können unter Umständen auch giftige Verbindungen wie Acrolein oder Acrylamid dabei entstehen. Das wollt Ihr sicher vermeiden.
+Wenn Ihr Euren [Seitan](/2016/01/seitan-grundrezept/) gerne scharf anbratet oder Eure Kartoffel-Scheiben frittieren wollt, verwendet Ihr am besten raffiniertes Olivenöl. Kaltgepresstes Öl ist nur bis 180 Grad geeignet. Das hat folgende Gründe: Kaltgepresstes Öl spritzt nicht nur stark, wenn es mit hohen Temperaturen in Berührung kommt, es können unter Umständen auch giftige Verbindungen wie Acrolein oder Acrylamid dabei entstehen. Das wollt Ihr sicher vermeiden.
 
 Ihr verwendet das native Öl besser für Rohkost und Salate – es ist dann ohnehin wesentlich gesünder als die raffinierte Variante. Die findet Ihr im Einzelhandel häufig unter dem Label "Bratöl".
 
@@ -68,7 +68,7 @@ Ihr verwendet das native Öl besser für Rohkost und Salate – es ist dann ohne
 
 Das raffinierte Olivenöl wird chemisch verarbeitet und besitzt daher auch kaum noch gesunde Inhaltsstoffe. Dafür könnt Ihr es aber problemlos auf dem Herd und im Ofen erhitzen und als Geschmacksträger fungiert es nach wie vor.
 
-Soviel zum Kochen und Backen. Doch Olivenöl gehört längst nicht nur in die Küche. Es ist auch die Basis vieler [moderner Beauty-Produkte](/2018/03/vegane-kosmetik-und-naturkosmetik/) und hat im Badezimmer durchaus auch einen Stammplatz verdient. Und nicht nur in teurer  Hightech-Kosmetik. Mit ein paar DIY Tipps könnt Ihr auch zu einem wesentlich günstigeren Tarif tolle Ergebnisse erzielen. Es schützt zum Beispiel die Haut vor dem Austrocknen. Wenn Ihr zum Beispiel im Winter mal rissige Ellbogen habt, probiert es mal mit Olivenöl.
+Soviel zum Kochen und Backen. Doch Olivenöl gehört längst nicht nur in die Küche. Es ist auch die Basis vieler [moderner Beauty-Produkte](/2018/03/vegane-kosmetik-und-naturkosmetik/) und hat im Badezimmer durchaus auch einen Stammplatz verdient. Und nicht nur in teurer  Hightech-Kosmetik. Mit ein paar DIY Tipps könnt Ihr auch zu einem wesentlich günstigeren Tarif tolle Ergebnisse erzielen. Es schützt zum Beispiel die Haut vor dem Austrocknen. Wenn Ihr im Winter manchmal rissige Ellbogen habt, probiert es mal mit Olivenöl.
 
 Was bei mir bei rauen Händen Wunder wirkt, ist eine **Overnight-Olivenöl-Kur**. Dazu reibe ich meine Hände sehr großzügig mit Olivenöl ein und ziehe mir ein paar dünne Baumwollhandschuhe über. Am nächsten Morgen ist die Haut wieder wunderbar weich und geschmeidig.
 
