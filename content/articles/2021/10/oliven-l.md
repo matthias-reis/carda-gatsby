@@ -10,7 +10,15 @@ description: Olivenöl ist ein perfekter Allrounder – nicht nur in der Küche.
   von Salat-Dressing bis Hautpflege und Olivenöl-Gewinnung bis DIY-Beauty-Tipps
   mit Olivenöl.
 image: /img/2021-09-28-oele-30.jpg
+copyrigt: ""
 ogImage: /img/olivenoel-fb.png
+labels:
+  - Olivenöl
+  - Speiseöl
+  - Öl
+  - Ernährung & Gesundheit
+  - kaltgepresstes Öl
+  - kaltgepresstes Olivenöl
 focusKeyword: Olivenöl
 advertisement: false
 affiliate: true
