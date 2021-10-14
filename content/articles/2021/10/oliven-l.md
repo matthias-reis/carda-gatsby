@@ -32,7 +32,7 @@ Das tolle Öl besteht, wie die meisten anderen Pflanzenöle auch, zum größten 
 
 ## Würzöl mit Olivenöl selbst herstellen
 
-Weil Fett bekanntlich ein Geschmacksträger ist, eignet sich Olivenöl hervorragend, um die Note verschiedener Gewürze zu unterstreichen. Daher könnt Ihr es zum Beispiel auch sehr gut zur Herstellung von Kräuter- und Würzölen verwenden. Hier mein Rezept für Chili-Öl:
+Weil Fett bekanntlich ein Geschmacksträger ist, eignet sich Olivenöl hervorragend, um die Note verschiedener Gewürze zu unterstreichen. Daher könnt Ihr es zum Beispiel auch sehr gut zur Herstellung von Kräuter- und Würzölen verwenden. Hier mein Rezept für **Chili-Öl**:
 
 Nehmt eine Flasche (250 ml) kaltgepresstes Olivenöl und schneidet je nach Geschmack drei bis vier scharfe Chilischoten hinein. Macht den Deckel drauf und schüttelt das Öl gut durch. Lasst es für mindestens vier Wochen lichtgeschützt stehen, bevor Ihr es verwendet. Das Öl nimmt den Geschmack der Chilischoten an und ist ein hervorragender Begleiter zu Pasta-Gerichten und Bowls.
 
