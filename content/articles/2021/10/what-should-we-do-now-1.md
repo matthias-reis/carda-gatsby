@@ -3,8 +3,8 @@ date: 2021-10-18T05:00:59.112Z
 slug: thot-what-shall-we-do-now-en
 typeName: Review
 title: '"What Shall We Do Now?"'
-subTitle: Thot release Pink Floyd cover
-seoTitle: '"What Shall We Do Now?" – Thot release Pink Floyd cover'
+subTitle: Thot Release Pink Floyd Cover
+seoTitle: '"What Shall We Do Now?" – Thot Release Pink Floyd Cover'
 description: When asked about their idols, Thot will always name Pink Floyd. The
   post-music collective from Belgium just recorded their interpretation of their
   song "What Shall We Do Now", – and they definitely hit the spot with it.
