@@ -41,7 +41,7 @@ schrieb mir Thot-Gründer Grégoire. Was ich anschließend zu hören bekam, lie�
 
 ![Thot – "What Shall We Do Now?"](/img/thot-what-should-we-do-now.jpeg "Thot – \"What Shall We Do Now?\"")
 
-Die 4:20 lohnt es sich also definitiv anzuhören. Das könnt Ihr auch ab heute tun. Was mir persönlich besonders gut gefällt, sind die Industrial-Noten, die Thot dem Stück hinzugefügt haben. Sie heben den Track in das Jahr 2021 und erinnern gleichzeitig an die Vielfalt einer vergangenen Ära. Einzig Grégoires Stimme erinnert mich an die Pink Floyd Variante – er hat seinem Idol David Gilmour ein Denkmal gesetzt, das vor Respekt und Würde nur so strahlt.
+Die 4:20 lohnt es sich also definitiv anzuhören. Das könnt Ihr auch ab heute tun. Was mir persönlich besonders gut gefällt, sind die Industrial-Noten, die Thot dem Stück hinzugefügt haben. Sie heben den Track in das Jahr 2021 und rufen gleichzeitig die bunte Vielfalt einer vergangenen Ära ins Gedächtnis. Einzig Grégoires Stimme erinnert mich an die Pink Floyd Variante – er hat seinem Idol David Gilmour ein Denkmal gesetzt, das vor Respekt und Würde nur so strahlt.
 
 > "Do tour of the east, contract diseases" ("Mache eine Tour durch den Osten und zieh Dir Krankheiten zu")
 
