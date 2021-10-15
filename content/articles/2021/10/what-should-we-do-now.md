@@ -33,7 +33,7 @@ languageLink: /2021/10/thot-what-shall-we-do-now-en/
 
 Schon ein paar Wochen nach [Grégoires Solo-EP "Live at daFestival"](2021/07/live-at-dafestival-gregoire-thot) und der grandiosen [10-Jahres-Reissu von "Obscured By The Wind"](/2021/06/thot-feiern-10-jahre-obscured-by-the-wind/) haben Thot schon wieder eine neue Sensation für uns auf Lager. Ich habe mir "What Shall We Do Now" natürlich sofort angehört, als mir Grégoire davon erzählte und ich muss sagen: Ich bin wirklich begeistert.
 
-> "Liebe Anne, bevor wir diesen Herbst unsere brandneuen Aufnahmen enthüllen, haben wir noch eine kleine Überraschung vorbereitet: Hier ist unsere Version von Pink Floyds "What Shall We Do Now",
+> "Liebe Anne, bevor wir diesen Herbst unsere brandneuen Aufnahmen enthüllen, haben wir noch eine kleine Überraschung vorbereitet: Hier ist unsere Version von Pink Floyds 'What Shall We Do Now'",
 
 schrieb mir Thot-Gründer Grégoire. Was ich anschließend zu hören bekam, ließ mich ein bisschen sprachlos zurück. Die Thot Version des Songs ist ganz anders als das Original von Pink Floyd und genauso wunderbar.
 
