@@ -52,7 +52,7 @@ Gegenüber Plant Based News[^4] sagte die Direktorin der Tierrechtsorganisation 
 > 
 > Die Fleischproduktion trägt erheblich zum Klimawandel bei. Wir alle sollten esse, als ob unser Leben davon abhängt – denn das tut es."
 
-Auch hierzulande treibt die Sorge über die tödliche Bedrohung die Landwirt⋆innen um. In Deutschland hatte es zuletzt 2014 zwei nachgewiesene Fälle von BSE gegeben.
+Auch hierzulande treibt die Sorge über die tödliche Bedrohung nicht nur die Landwirt⋆innen um. In Deutschland hatte es zuletzt 2014 zwei nachgewiesene Fälle von BSE gegeben.
 
 Überträgt sich die Zoonose auf den Menschen, wird sie als Creutzfeldt-Jakob-Krankheit bezeichnet. Typische Symptome sind Gedächtnisverlust, Störungen des Seh- und Gleichgewichtssinns sowie ein schnell voranschreitender Verfall der Persönlichkeit bis zur Demenz.
 
