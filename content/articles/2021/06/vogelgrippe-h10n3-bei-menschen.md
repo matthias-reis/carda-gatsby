@@ -57,4 +57,4 @@ Mit dem Ausbau der immer größer werdenden Tierfabriken und dem ständigen Eins
 
 ---
 
-**Hinweis:** Das Tier im Bild oben ist nicht an Vogelgrippe erkrankt. Es handelt sich um ein Beispielfotos, das ich vor einiger Zeit aufgenommen habe.
+**Hinweis:** Das Tier im Bild oben ist nicht an Vogelgrippe erkrankt. Es handelt sich um ein Beispielfoto, das ich vor einiger Zeit aufgenommen habe.
