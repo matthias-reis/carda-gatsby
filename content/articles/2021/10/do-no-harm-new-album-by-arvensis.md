@@ -46,7 +46,7 @@ languageLink: /2021/10/arvensis-do-no-harm-interview/
 
 **Dani:** Approximately three years worth of material, some newer than the others!
 
-**Anne:** Did you record it on your own, or was there anyone who helped with the pre-/recording/mixing/mastering.
+**Anne:** Did you record it on your own, or was there anyone who helped with the pre-/recording/mixing/mastering?
 
 **Dani:** I am the sole person responsible for all of the pre-/recording/mixing and mastering!
 
