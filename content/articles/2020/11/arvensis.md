@@ -34,9 +34,9 @@ languageLink: /2020/11/arvensis-interview
 ---
 **Arvensis is an experimental ambient project on the Merigold Independent label. Its avant-garde sounding tones seem to come from a foreign world. Because the project fascinates me so much, I arranged an interview with founder Dani Laubscher.**
 
-Dani founded Arvensis in 2011 and has been recording records since 2013. Their discography now includes 14 albums. The 14th is called "Axis" and was released just a few days ago.
+Dani founded Arvensis in 2011 and has been recording records since 2013. Their discography now includes 14 albums. The 14th is called "AXIS" and was released just a few days ago.
 
-**Anne:**  Hi, Dani! Thank you for your time! How are you doing? How was the release of your new album "Axis"? It is really awesome, by the way!
+**Anne:**  Hi, Dani! Thank you for your time! How are you doing? How was the release of your new album "AXIS"? It is really awesome, by the way!
 
 ## "I released my new album on October, 9th"
 
@@ -54,17 +54,17 @@ Dani founded Arvensis in 2011 and has been recording records since 2013. Their d
 
 **Dani:** Most of my ideas come from within. Usually, I just create and find drive almost solely through my emotions; it's primarily the driving force behind Arvensis.
 
-**Anne:**  "Axis" consists of 18 Tracks – How long did it take you to record and mix them?
+**Anne:**  "AXIS" consists of 18 Tracks – How long did it take you to record and mix them?
 
 ## "The album is quite lengthy"
 
 **Dani:** I think roughly a year or so! It's quite a lengthy album.
 
-**Anne:**  You said to me that "Axis" is your darkest album so far. What has led to this outcome of your work?
+**Anne:**  You said to me that "AXIS" is your darkest album so far. What has led to this outcome of your work?
 
 **Dani:** Yes, I suppose potentially darker than my Downwards album as well. I believe it's a variety of factors and a lot to do with perceptions of the world and inner feelings. After being in many dark places without intention in life and having quite a mixed outlook on things, I generally try to remain positive. That has, in turn, helped with the darkness and outcome of the album.
 
-**Anne:**  Did you collaborate with other musicians when you recorded "Axis"?
+**Anne:**  Did you collaborate with other musicians when you recorded "AXIS"?
 
 ## "I worked together with wonderful artists"
 
