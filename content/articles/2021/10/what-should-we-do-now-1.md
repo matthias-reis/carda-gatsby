@@ -35,7 +35,7 @@ Just a few weeks after [Grégoire's solo EP, "Live at daFestival"](/2021/07/live
 
 > "Dear Anne, before we unveil our brand new recordings this autumn, we have a surprise for our fans: Here's our version of Pink Floyd's 'What Shall We Do Now?'"
 
-That founder Grégoire wrote to me. Listening to the song left me speechless. The Thot version of the track is quite different from Pink Floyd's original and just as outstanding.
+Thot founder Grégoire wrote to me. Listening to the song left me speechless. The Thot version of the track is quite different from Pink Floyd's original and just as outstanding.
 
 ## "What Shall We Do Now"  – 4:20 worth listening
 
