@@ -34,8 +34,13 @@ affiliate: false
 language: de
 languageLink: /2021/10/arvensis-do-no-harm-interview-en/
 ---
-
 **Vor ein paar Tagen, schrieb mir Dani von Arvensis, um eine gute Nachricht mit mir zu teilen: "Mein neues Album 'Do No Harm' ist fertig!" Ich habe meine Chance ergriffen und Dani ein paar Fragen dazu gestellt, um unser Interview von November 2020 fortzuführen.**
+
+---
+
+TW: Psychische Gesundheit, Angst, Selbstverletzung
+
+---
 
 **Anne:** Gratulation zu Deinem neuen Album "Do No Harm"! Wie lange hast Du gebraucht, um die Platte aufzunehmen?
 
