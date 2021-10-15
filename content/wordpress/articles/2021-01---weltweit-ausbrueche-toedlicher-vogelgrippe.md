@@ -103,7 +103,7 @@ Ich für meinen Teil hoffe wirklich sehr, dass die momentanen weltweiten Ereigni
 
 ---
 
-**Hinweis:** Die Tiere im Bild oben ist nicht an Vogelgrippe erkrankt. Es handelt sich um ein Beispielfoto, das ich vor Kurzem aufgenommen habe.
+**Hinweis:** Die Tiere auf den Bildern im Artikel ist nicht an Vogelgrippe erkrankt. Es handelt sich um Beispielfotos, die ich vor einiger Zeit aufgenommen habe.
 
 ---
 
