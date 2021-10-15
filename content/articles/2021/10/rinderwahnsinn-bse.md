@@ -46,7 +46,7 @@ Die leitende Tierärztin Christine Middlemiss erklärte jetzt gegenüber BBC[^3]
 
 Gegenüber Plant Based News[^4] sagte die Direktorin der Tierrechtsorganisation PETA:
 
-> "BSE ist eine ernste Sache, weil die Krankheit für Kühe und Menschen gleichermaßen tödlich ist. Aber sie ist nur eine von vielen ernsten Bedrohungen für die öffentliche Gesundheit, die von der Fleischindustrie ausgehen.
+> "BSE ist eine ernste Sache, weil die Krankheit für Rinder und Menschen gleichermaßen tödlich ist. Aber sie ist nur eine von vielen ernsten Bedrohungen für die öffentliche Gesundheit, die von der Fleischindustrie ausgehen.
 > 
 > Studien zeigen, dass der Verzehr von Fleisch mit verschiedenen Krebsarten, Herzkrankheiten, Schlaganfällen, Diabetes und anderen Gesundheitsproblemen in Verbindung gebracht wird. 
 > 
