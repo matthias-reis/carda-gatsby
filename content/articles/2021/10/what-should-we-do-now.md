@@ -43,7 +43,7 @@ schrieb mir Thot-Gründer Grégoire. Was ich anschließend zu hören bekam, lie�
 
 Die 4:20 lohnt es sich also definitiv anzuhören. Das könnt Ihr auch ab heute tun. Was mir persönlich besonders gut gefällt, sind die Industrial-Noten, die Thot dem Stück hinzugefügt haben. Sie heben den Track in das Jahr 2021 und rufen gleichzeitig die bunte Vielfalt einer vergangenen Ära ins Gedächtnis. Einzig Grégoires Stimme erinnert mich an die Pink Floyd Variante – er hat seinem Idol David Gilmour ein Denkmal gesetzt, das vor Respekt und Würde nur so strahlt.
 
-> "Do tour of the east, contract diseases" ("Mache eine Tour durch den Osten und zieh Dir Krankheiten zu")
+> "Do tours of the east, contract diseases" ("Mache eine Tour durch den Osten und zieh Dir Krankheiten zu")
 
 Diese Textzeile aus dem Song inspirierte Grégoire zur Cover-Version, in die Thot ihre ganze Leidenschaft und Liebe legten. Er berichtete:
 
