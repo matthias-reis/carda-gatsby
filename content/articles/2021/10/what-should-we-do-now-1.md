@@ -39,6 +39,8 @@ That founder Grégoire wrote to me. Listening to the song left me speechless. Th
 
 ## "What Should We Do Now"  – 4:20 worth listening
 
+![Thot – "What Should We Do Now?"](/img/thot-what-should-we-do-now.jpeg "Thot – \"What Should We Do Now?\"")
+
 The 4:20 are definitely worth listening to. You can do that from October 18th. What I like most are the industrial notes that Thot added to the track. They lifted the song into the year 2021 and, at the same time, reminding us of the diversity of a golden music era. Only Grégoire's voice reminds me of the Pink Floyd version – he has set a monument to his idol David Gilmour that shines with respect and dignity.
 
 > Do tour of the east, contract diseases".
