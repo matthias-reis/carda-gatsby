@@ -34,8 +34,13 @@ affiliate: false
 language: en
 languageLink: /2021/10/arvensis-do-no-harm-interview/
 ---
-
 **Just some days ago, Arvensis founder Dani contacted me to share some big news: Their new album "Do No Harm" is out and available on Bandcamp now! I took the chance to ask them a few questions about it and follow up on the interview I did with them in November 2020.**
+
+---
+
+TW: Mental health, anxiety, self-harm
+
+---
 
 **Anne:** Congrats on your new album "Do No Harm"! How long did it take you to record it?
 
