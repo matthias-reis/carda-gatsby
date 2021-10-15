@@ -49,7 +49,7 @@ This line of lyrics from the song inspired Gregoire to write the cover version, 
 
 > "In February 2020, I came back from my solo tour of Europe, and I was actually planning to do the same in Asia. A month later, we were all asked to stay at home – the COVID pandemic was suddenly in full swing. It instantly reminded me of this song I first heard when I was at school in the 1990s. The dramatic relevance of Roger Waters' lyrics fascinated me deeply.
 
-With their version of "What Shall We Do Now?" Thot are announcing their return. They are planning to release various new pieces over the next months – including a collaboration with the great singers of the polyphonic orchestra "The Mystery of The Bulgarian Voices" – be curious! I'll stay in touch with the band and let you know as sound as news comes up!
+With their version of "What Shall We Do Now?" Thot are announcing their return. They are planning to release various new pieces over the next months – including a collaboration with the great singers of the polyphonic orchestra "The Mystery of The Bulgarian Voices" – be curious! I'll stay in touch with the band and let you know as soon as news comes up!
 
 ## Stream "What Shall We Do Now?"
 
