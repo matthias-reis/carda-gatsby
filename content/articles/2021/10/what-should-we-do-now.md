@@ -35,7 +35,7 @@ Schon ein paar Wochen nach [Grégoires Solo-EP "Live at daFestival"](2021/07/liv
 
 > "Liebe Anne, bevor wir diesen Herbst unsere brandneuen Aufnahmen enthüllen, haben wir noch eine kleine Überraschung vorbereitet: Hier ist unsere Version von Pink Floyds "What Shall We Do Now",
 
-schrieb mir Thot-Gründer Grégoire. Was ich hörte, ließ mich ein bisschen sprachlos zurück. Die Thot Version des Songs ist ganz anders als das Original von Pink Floyd und genauso wunderbar.
+schrieb mir Thot-Gründer Grégoire. Was ich anschließend zu hören bekam, ließ mich ein bisschen sprachlos zurück. Die Thot Version des Songs ist ganz anders als das Original von Pink Floyd und genauso wunderbar.
 
 ## "What Shall We Do Now" – 4:20 die es in sich haben
 
