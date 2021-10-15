@@ -82,3 +82,7 @@ Dani: Danke, dass Du mir die Möglichkeit gibst, mein Album ins Rampenlicht zu s
 > "Wie könnte man ein so wichtiges Jubiläum besser feiern, als mit der Veröffentlichung einer Platte wie 'Do No Harm'!"
 
 [Ich habe mich mit Dani über das Leben und das letzte Arvensis Album "AXIS" unterhalten. Das Interview vom 17. November 2020 findet Ihr hier](/2020/11/arvensis-interview).
+
+Arvensis – "Colliding Over, Again"
+
+<YouTube id="H45mMsNUz4E" />
