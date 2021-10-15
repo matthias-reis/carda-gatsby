@@ -26,6 +26,8 @@ labels:
   - Interviews
   - Merigold Independent
   - Post-Rock
+  - Post-Music
+  - Duluth
 focusKeyword: Arvensis
 advertisement: false
 affiliate: false
