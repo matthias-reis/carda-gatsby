@@ -67,7 +67,7 @@ Möchtest Du mir noch etwas über das Album erzählen, dass ich nicht verpassen 
 
 **Dani:** Vielen Dank, dass Du mir die Möglichkeit gibst, darüber zu sprechen! Es bedeutet mir sehr viel! 
 
-Die Message von "Do No Harm" ist Verletze niemanden – auch nicht Dich selbst. Das ist der Lebensgrundsatz, an den ich mich zu halten versuche.
+Die Message von "Do No Harm" ist: Verletze niemanden – auch nicht Dich selbst. Das ist der Lebensgrundsatz, an den ich mich zu halten versuche.
 
 Mein Lieblingsstück ist eindeutig "The One Thing Left". Es ist der letzte Track auf dem Album. Ich wollte mit den Lyrics eine starke Message senden: "Here I stand: No! Here I stand. The Spirit's alive – I couldn't believe it! I always believe the worst! The only the left the Goddess is here!" ("Hier stehe ich. Der Geist lebt – Ich konnte es nicht glauben! Ich habe immer das Schlimmste geglaubt. Die einzig wahre Göttin ist hier!") Diese Nachricht bedeutet mir alles.
 
