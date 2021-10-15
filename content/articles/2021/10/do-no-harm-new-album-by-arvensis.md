@@ -87,3 +87,7 @@ Arvensis released "Do No Harm" 364 days after its predecessor "AXIS". The album 
 >  "What better way to celebrate than the release of a record like 'Do No Harm" – a decade into the works!"
 
 [Read my interview with Dani from Arvensis about their life and the album "AXIS" now](/2020/11/arvensis-interview-en).
+
+Arvensis – "Colliding Over, Again"
+
+<YouTube id="H45mMsNUz4E" />
