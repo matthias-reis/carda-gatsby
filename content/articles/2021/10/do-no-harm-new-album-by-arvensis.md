@@ -77,9 +77,9 @@ The message of my album is to **do no harm** to others and yourself. And those a
 
 My favourite track is definitely "The Only Thing Left". It is the last track on the album as I feel the lyrics at the end send a powerful message: "Here I stand: No! Here I stand. The Spirit's alive – I couldn't believe it! I always believe the worst! The only the left the Goddess is here!" This message means everything to me.
 
-Anne: Thanks for these precious insights and all the detail about your new album! I wish you much success with it!
+**Anne:** Thanks for these precious insights and all the detail about your new album! I wish you much success with it!
 
-Dani: Thanks for giving me a chance in the spotlight with this album. I feel this release is the most important thing I've ever done.
+**Dani:** Thanks for giving me a chance in the spotlight with this album. I feel this release is the most important thing I've ever done.
 
 ## Album facts
 
