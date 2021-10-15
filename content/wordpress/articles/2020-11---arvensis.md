@@ -39,6 +39,8 @@ labels:
   - Interviews
   - Merigold Independent
   - Post-Rock
+  - Post-Music
+  - Duluth
 ---
 **Arvensis – das ist ein experimentelles Ambient-Projekt auf Merigold Independent. Die avantgardistischen Klänge wirken wie aus einer fremden Welt. Weil mich das Projekt so fasziniert hat, habe ich mich mit Gründerin Dani Laubscher zum Interview verabredet.**
 
