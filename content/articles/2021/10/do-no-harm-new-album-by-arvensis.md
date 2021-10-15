@@ -11,7 +11,7 @@ description: 'Just some days ago, Arvensis founder Dani contacted me to share
   some big news: Their new album "Do No Harm" is out and available on Bandcamp
   now! I took the chance to ask them a few questions about it and follow up on
   the interview I did with them in November 2020.'
-image: /img/arvensis-do-no-harm-2-.jpg
+image: /img/arvensis-do-no-harm-3-.jpg
 copyrigt: Arvensis
 labels:
   - Arvensis
