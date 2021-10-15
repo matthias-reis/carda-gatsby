@@ -58,10 +58,10 @@ Auch hierzulande treibt die Sorge über die tödliche Bedrohung die Landwirt⋆i
 
 Hinweis: Das Tier im Bild oben ist nicht an BSE erkrankt. Es handelt sich um ein Beispielfoto, das ich vor Kurzem in Dänemark aufgenommen habe.
 
-[^1]: [Reuters berichtet](https://www.reuters.com/article/china-beef-britain/china-renews-ban-on-imports-of-some-uk-beef-over-mad-cow-case-idUKKBN2H108C)
+[^1]: [Reuters Meldung](https://www.reuters.com/article/china-beef-britain/china-renews-ban-on-imports-of-some-uk-beef-over-mad-cow-case-idUKKBN2H108C)
 
-[^2]: Der [NDR berichtete](https://www.ndr.de/geschichte/chronologie/BSE-Krise-Rinderseuche-erreicht-vor-20-Jahren-Deutschland,bse102.html)
+[^2]: [NDR Bericht](https://www.ndr.de/geschichte/chronologie/BSE-Krise-Rinderseuche-erreicht-vor-20-Jahren-Deutschland,bse102.html)
 
-[^3]: [BBC](https://www.bbc.com/news/uk-england-somerset-58602051
+[^3]: [BBC News](https://www.bbc.com/news/uk-england-somerset-58602051)
 
 [^4]: [Plant Based News](https://plantbasednews.org/lifestyle/health/china-beef-imports-mad-cow-disease/)
