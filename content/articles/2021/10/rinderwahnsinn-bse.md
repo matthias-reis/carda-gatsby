@@ -30,7 +30,7 @@ China kündigte auch an, die Einfuhr von Rindfleisch von Chinas wichtigstem Lief
 
 ##  Millionen von Tieren mussten geschlachtet werden
 
-Während der ersten großen BSE-Welle vor nunmehr zwanzig Jahren waren in Großbritannien 177 Menschen an der Zoonose gestorben. Weltweit wurden damals viele Millionen Tiere geschlachtet worden, um eine Weiterverbreitung zu verhindern.
+Während der ersten großen BSE-Welle vor nunmehr zwanzig Jahren waren allein in Großbritannien 177 Menschen an der Zoonose gestorben. Weltweit wurden damals viele Millionen Tiere geschlachtet worden, um eine Weiterverbreitung zu verhindern.
 
 Nach dem aktuellen Ausbruch wurde der Seuchenschutz eingeschaltet und eine Untersuchung eingeleitet. Die erkrankte Kuh ist inzwischen an den Folgen ihrer Erkrankung gestorben.
 
