@@ -64,7 +64,7 @@ languageLink: /2021/10/arvensis-do-no-harm-interview-en/
 
 Diesen Sommer hat mich die Natur zu einer allumfassenden Göttin geführt. Ich habe es nur nicht gleich realisiert. Das Resultat daraus ist, dass ich mich als Person verändert habe. Ich habe das Gefühl, ein besserer Mensch zu sein und mein Leben ist besser geworden.
 
-Ich bin mir nicht sicher, wo ich ohne die Hilfe der Natur heute sein würde. Eines ist aber sicher: "Do No Harm" würde nicht existieren.
+Ich bin mir nicht sicher, wo ich ohne die Hilfe der Natur heute sein würde. Eines ist aber klar: "Do No Harm" würde nicht existieren.
 
 **Anne:** Vielen Dank, dass Du Dein Herz öffnest und so offen über diese Themen sprichst! Das bedeutet mir wirklich sehr viel! 
 
