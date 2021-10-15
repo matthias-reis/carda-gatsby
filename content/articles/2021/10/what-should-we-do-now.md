@@ -31,7 +31,7 @@ languageLink: /2021/10/thot-what-should-we-do-now-en/
 ---
 **Thot zählen die legendären Pink Floyd klar zu ihren Vorbildern. Jetzt hat sich das Post-Music Kollektiv aus Belgien an eine Neu-Interpretation von "What Shall We Do Now" rangetraut und dabei alles richtig gemacht.**
 
-Schon ein paar Wochen nach [Grégoires Solo-EP "Live at daFestival"](2021/07/live-at-dafestival-gregoire-thot) und der grandiosen 10-Jahres-Reissu von "Obscured By The Wind" haben Thot schon wieder eine neue Sensation für uns auf Lager. Ich habe mir "What Shall We Do Now" natürlich sofort angehört, als mir Grégoire davon erzählte und ich muss sagen: Ich bin wirklich begeistert.
+Schon ein paar Wochen nach [Grégoires Solo-EP "Live at daFestival"](2021/07/live-at-dafestival-gregoire-thot) und der grandiosen [10-Jahres-Reissu von "Obscured By The Wind"](/2021/06/thot-feiern-10-jahre-obscured-by-the-wind/) haben Thot schon wieder eine neue Sensation für uns auf Lager. Ich habe mir "What Shall We Do Now" natürlich sofort angehört, als mir Grégoire davon erzählte und ich muss sagen: Ich bin wirklich begeistert.
 
 > "Liebe Anne, bevor wir diesen Herbst unsere brandneuen Aufnahmen enthüllen, haben wir noch eine kleine Überraschung vorbereitet: Hier ist unsere Version von Pink Floyds "What Shall We Do Now",
 
