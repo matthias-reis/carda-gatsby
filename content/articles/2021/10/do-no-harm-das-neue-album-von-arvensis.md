@@ -7,10 +7,10 @@ typeName: Interview
 title: '"Do No Harm" – Das neue Album von Arvensis'
 subTitle: Interview mit Dani Laubscher
 seoTitle: '"Do No Harm" – Das neue Album von Arvensis (Interview)'
-description: "Vor ein paar Tagen, schrieb mir Dani von Arvensis, um eine gute
-  Nachricht mit mir zu teilen: \"Mein neues Album 'Do No Harm' ist fertig!\" Ich
-  habe meine Chance ergriffen und Dani ein paar Fragen dazu gestellt, um unser
-  Interview von November 2020 fortzuführen."
+description: Vor ein paar Tagen, schrieb mir Dani von Arvensis und teilte mir
+  die gute Nachricht mit, dass das neue Album "Do No Harm" fertig ist. Ich habe
+  meine Chance ergriffen und Dani ein paar Fragen dazu gestellt, um unser
+  Interview von November 2020 fortzuführen.
 image: /img/arvensis-do-no-harm-2-.jpg
 copyrigt: Arvensis
 labels:
