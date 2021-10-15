@@ -54,3 +54,5 @@ Thot kündigen mit ihrer Version "What Shall We Do Now?" Ihre Rückkehr an. In d
 ## "What Should We Do Now?" streamen
 
 [Ihr könnt den Song hier streamen](https://thotweb.net/wswdn/).
+
+[Hier könnt Ihr mein Interview mit Grégoire von Thot lesen](/2021/04/thot-interview).
