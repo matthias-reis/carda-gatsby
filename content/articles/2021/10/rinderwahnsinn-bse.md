@@ -54,7 +54,7 @@ Gegenüber Plant Based News[^4] sagte die Direktorin der Tierrechtsorganisation 
 
 Auch hierzulande treibt die Sorge über die tödliche Bedrohung die Landwirt⋆innen um. In Deutschland hatte es zuletzt 2014 zwei nachgewiesene Fälle von BSE gegeben.
 
-Überträgt sich die Zoonose auf den Menschen, wird sie als Creutzfeldt-Jakob-Krankheit vCJK bezeichnet. Typische Symptome sind Gedächtnisverlust, Störungen des Seh- und Gleichgewichtssinns sowie ein schnell voranschreitender Verfall der Persönlichkeit bis zur Demenz.
+Überträgt sich die Zoonose auf den Menschen, wird sie als Creutzfeldt-Jakob-Krankheit bezeichnet. Typische Symptome sind Gedächtnisverlust, Störungen des Seh- und Gleichgewichtssinns sowie ein schnell voranschreitender Verfall der Persönlichkeit bis zur Demenz.
 
 Hinweis: Das Tier im Bild oben ist nicht an BSE erkrankt. Es handelt sich um ein Beispielfoto, das ich vor Kurzem in Dänemark aufgenommen habe.
 
