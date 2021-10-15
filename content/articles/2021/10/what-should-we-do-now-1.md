@@ -43,7 +43,7 @@ Thot founder Grégoire wrote to me. Listening to the song left me speechless. Th
 
 The 4:20 are definitely worth listening to. You can do that from today on. What I like most are the industrial notes that Thot added to the track. They lifted the song into the year 2021 and, at the same time, reminding us of the lush diversity of a golden music era. Only Grégoire's voice reminds me of the Pink Floyd version – he has set a monument to his idol David Gilmour that shines with respect and dignity.
 
-> "Do tours of the east? contract diseases?"
+> "Do tours of the east? Contract diseases?"
 
 This line of lyrics from the song inspired Gregoire to write the cover version, into which Thot put all their passion and love. He said:
 
