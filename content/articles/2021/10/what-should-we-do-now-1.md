@@ -1,10 +1,10 @@
 ---
 date: 2021-10-18T05:00:59.112Z
-slug: thot-what-should-we-do-now-en
+slug: thot-what-shall-we-do-now-en
 typeName: Review
-title: '"What Should We Do Now?"'
+title: '"What Shall We Do Now?"'
 subTitle: Thot release Pink Floyd cover
-seoTitle: '"What Should We Do Now?" – Thot release Pink Floyd cover'
+seoTitle: '"What Shall We Do Now?" – Thot release Pink Floyd cover'
 description: When asked about their idols, Thot will always name Pink Floyd. The
   post-music collective from Belgium just recorded their interpretation of their
   song "What Shall We Do Now", – and they definitely hit the spot with it.
@@ -23,11 +23,11 @@ labels:
   - Review
   - Reviews
   - Pink Floyd
-focusKeyword: What Should We Do Now
+focusKeyword: What Shall We Do Now
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2021/10/thot-what-should-we-do-now/
+languageLink: /2021/10/thot-what-shall-we-do-now/
 ---
 **When asked about their idols, Thot will always name Pink Floyd. The post-music collective from Belgium just recorded their interpretation of their song "What Shall We Do Now", – and they definitely hit the spot with it.**
 
@@ -37,9 +37,9 @@ Just a few weeks after [Grégoire's solo EP, "Live at daFestival"](/2021/07/live
 
 That founder Grégoire wrote to me. Listening to the song left me speechless. The Thot version of the track is quite different from Pink Floyd's original and just as outstanding.
 
-## "What Should We Do Now"  – 4:20 worth listening
+## "What Shall We Do Now"  – 4:20 worth listening
 
-![Thot – "What Should We Do Now?"](/img/thot-what-should-we-do-now.jpeg "Thot – \"What Should We Do Now?\"")
+![Thot – "What Shall We Do Now?"](/img/thot-what-should-we-do-now.jpeg "Thot – \"What Shall We Do Now?\"")
 
 The 4:20 are definitely worth listening to. You can do that from October 18th. What I like most are the industrial notes that Thot added to the track. They lifted the song into the year 2021 and, at the same time, reminding us of the diversity of a golden music era. Only Grégoire's voice reminds me of the Pink Floyd version – he has set a monument to his idol David Gilmour that shines with respect and dignity.
 
@@ -51,7 +51,7 @@ This line of lyrics from the song inspired Gregoire to write the cover version, 
 
 With their version of "What Shall We Do Now?" Thot are announcing their return. They are planning to release various new pieces over the next months – including a collaboration with the great singers of the polyphonic orchestra "The Mystery of The Bulgarian Voices" – be curious! I'll stay in touch with the band and let you know as sound as news comes up!
 
-## Stream "What Should We Do Now?"
+## Stream "What Shall We Do Now?"
 
 [You can stream the song here](https://thotweb.net/wswdn/).
 
