@@ -1,27 +1,30 @@
 ---
 date: 2021-06-03T13:04:42+02:00
+slug: vogelgrippe-h10n3-bei-menschen
+typeName: ""
+title: Vogelgrippe H10N3 bei Menschen
+subTitle: 41-Jähriger kommt ins Krankenhaus
+seoTitle: Vogelgrippe H10N3 bei Menschen – 41-Jähriger kommt ins Krankenhaus
+ogTitle: ""
+description: Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen
+  nachgewiesen. Ein 41-Jähriger kam mit starkem Fieber ins Krankenhaus.
+excerpt: Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen
+  nachgewiesen. Im chinesischen Jiangsu wurde ein 41-jähriger Mann mit starkem
+  Fieber ins Krankenhaus eingeliefert.
+image: /img/vogelgrippe.jpg
+ogImage: /img/vogelgrippe-fb.jpg
 labels:
   - H10N3
   - Vogelgrippe
   - Tierrechte
   - Zoonosen
   - Virus
-language: de
-slug: vogelgrippe-h10n3-bei-menschen
-typeName: ''
-title: Vogelgrippe H10N3 bei Menschen
-subTitle: 41-Jähriger kommt ins Krankenhaus
-seoTitle: Vogelgrippe H10N3 bei Menschen – 41-Jähriger kommt ins Krankenhaus
-ogTitle: ''
-description: Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen nachgewiesen. Ein 41-Jähriger kam mit starkem Fieber ins Krankenhaus.
-excerpt: Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen nachgewiesen. Im chinesischen Jiangsu wurde ein 41-jähriger Mann mit starkem Fieber ins Krankenhaus eingeliefert.
-image: '/img/vogelgrippe.jpg'
-copyright: ''
-ogImage: '/img/vogelgrippe-fb.jpg'
-focusKeyword: Vogelgrippe
 advertisement: false
+copyright: ""
+focusKeyword: Vogelgrippe
 affiliate: false
-languageLink: ''
+language: de
+languageLink: ""
 ---
 
 **Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen nachgewiesen. Im chinesischen Jiangsu wurde ein 41-jähriger Mann mit starkem Fieber ins Krankenhaus eingeliefert.**
@@ -51,3 +54,7 @@ Die Leiterin der russischen Gesundheitsbehörde, Anna Popova meldete, es ginge a
 > "Die Entdeckung dieser Mutationen zu einem Zeitpunkt, zu dem das Virus noch nicht die Fähigkeit erworben hat, sich von Mensch zu Mensch zu übertragen, gibt uns die Zeit, uns auf mögliche Mutationen vorzubereiten und angemessen und rechtzeitig zu reagieren."
 
 Mit dem Ausbau der immer größer werdenden Tierfabriken und dem ständigen Einsatz von Antibiotika in der Tierzucht steigt die Gefahr der Weiterverbreitung von Zoonosen permanent. Um das Problem dauerhaft in den Griff zu bekommen, [müsste diese Industrie nach und nach abgebaut werden](/2021/04/fleischatlas-2021/). Dass [in einigen Industrieländern der Fleischkonsum immer weiter sinkt](/2021/03/usa-covid-vegan-fleisch/), ist ein gutes Zeichen. Expert⋆innen warnen jedoch, dass der Wandel wesentlich schneller von statten gehen muss, wenn wir [die Gefahr, die von Zoonosen ausgeht](/2020/08/the-end-of-medicine/) dauerhaft stoppen wollen.
+
+---
+
+**Hinweis:** Das Tier im Bild oben ist nicht an Vogelgrippe erkrankt. Es handelt sich um ein Beispielfotos, das ich vor einiger Zeit aufgenommen habe.
