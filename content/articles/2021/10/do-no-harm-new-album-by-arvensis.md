@@ -83,7 +83,7 @@ Dani: Thanks for giving me a chance in the spotlight with this album. I feel thi
 
 ## Album facts
 
-Arvensis released "Do No Harm" 364 days after its predecessor "AXIS". The album length is unintentionally 2 hours and 57 long. It consists of 50 tracks. Arvensis is celebrating the 10th year of creating music with it. Dani said to me:
+Arvensis released "Do No Harm" 364 days after its predecessor "AXIS". The album length is 2 hours and 57 long. It consists of 50 tracks. Arvensis is celebrating the 10th year of creating music with it. Dani said to me:
 
 >  "What better way to celebrate than the release of a record like 'Do No Harm" – a decade into the works!"
 
