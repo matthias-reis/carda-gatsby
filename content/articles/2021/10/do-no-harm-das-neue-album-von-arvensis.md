@@ -1,4 +1,5 @@
 ---
+ogImage: /img/arvensis-do-no-harm-fb.jpg
 TW: Psychische Gesundheit, Angst, Selbstverletzung
 date: 2021-10-15T11:35:18.749Z
 slug: arvensis-do-no-harm-interview
@@ -10,9 +11,8 @@ description: "Vor ein paar Tagen, schrieb mir Dani von Arvensis, um eine gute
   Nachricht mit mir zu teilen: \"Mein neues Album 'Do No Harm' ist fertig!\" Ich
   habe meine Chance ergriffen und Dani ein paar Fragen dazu gestellt, um unser
   Interview von November 2020 fortzuführen."
-image: /img/arvensis-do-no-harm.jpg
+image: /img/arvensis-do-no-harm-2-.jpg
 copyrigt: Arvensis
-ogImage: /img/arvensis-do-no-harm-fb.jpg
 labels:
   - Arvensis
   - Do No Harm
