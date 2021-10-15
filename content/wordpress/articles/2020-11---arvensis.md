@@ -20,11 +20,11 @@ remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis__m.jpg
 title: Arvensis
 subTitle: '"Meine Ideen kommen von innen"'
-language: de
-type: Artikel
 seoTitle: Dani von Arvensis im Interview - Experimentelle Musik aus Atlanta
 description: Arvensis – das ist ein experimentelles Ambient-Projekt auf Merigold
   Independent. Die avantgardistischen Klänge wirken wie aus einer fremden Welt.
+language: de
+type: Artikel
 labels:
   - Ambient
   - Atlanta
@@ -42,9 +42,9 @@ labels:
 ---
 **Arvensis – das ist ein experimentelles Ambient-Projekt auf Merigold Independent. Die avantgardistischen Klänge wirken wie aus einer fremden Welt. Weil mich das Projekt so fasziniert hat, habe ich mich mit Gründerin Dani Laubscher zum Interview verabredet.**
 
-Dani legte den Grundstein für Arvensis im Jahr 2011. Seit 2013 nimmt sie Platten auf. Inzwischen umfasst ihre Discografie 14 Alben. Das vierzehntente trägt den Namen "Axis" und ist erst vor ein paar Tagen erschienen.
+Dani legte den Grundstein für Arvensis im Jahr 2011. Seit 2013 nimmt sie Platten auf. Inzwischen umfasst ihre Discografie 14 Alben. Das vierzehntente trägt den Namen "AXIS" und ist erst vor ein paar Tagen erschienen.
 
-**Anne:** Hi Dani! Danke, dass Du Dir die Zeit nimmst! Wie geht es Dir? Wie war die Veröffentlichung Deines neuen Albums "Axis"? Es ist übrigens ziemlich klasse geworden!
+**Anne:** Hi Dani! Danke, dass Du Dir die Zeit nimmst! Wie geht es Dir? Wie war die Veröffentlichung Deines neuen Albums "AXIS"? Es ist übrigens ziemlich klasse geworden!
 
 ## "Mein neues Album ist am 9. Oktober erschienen"
 
@@ -62,17 +62,17 @@ Dani legte den Grundstein für Arvensis im Jahr 2011. Seit 2013 nimmt sie Platte
 
 **Dani:** Die meisten meiner Ideen kommen von innen. Normalerweise bastle ich einfach. Meine Emotionen sind dabei mein Antrieb. Sie sind die treibende Kraft hinter Arvensis.
 
-**Anne:** "Axis" besteht aus 18 Tracks – Wie lange hat es gedauert, sie aufzunehmen und abzumischen?
+**Anne:** "AXIS" besteht aus 18 Tracks – Wie lange hat es gedauert, sie aufzunehmen und abzumischen?
 
 ## "Das Album ist ziemlich lang geworden"
 
 **Dani:** Ich glaube, insgesamt circa ein Jahr! Es ist ein ziemlich langes Album geworden.
 
-**Anne:** Du hast mir erzählt, dass "Axis" bis jetzt Dein düsterstes Album ist. Was hat Dich zu diesem Ergebnis Deiner Arbeit geführt?
+**Anne:** Du hast mir erzählt, dass "AXIS" bis jetzt Dein düsterstes Album ist. Was hat Dich zu diesem Ergebnis Deiner Arbeit geführt?
 
 **Dani:** Ja, ich glaube, es ist hat auch eine potenziell düsterere Stimmung, als mein Album "Downwards". Ich glaube, es ist eine Vielzahl von Faktoren, die dazu geführt haben. Es hat eine Menge mit der Wahrnehmungen der Welt und meinen persönlichen Gefühlen zu tun. Nachdem ich in meinem Leben unbeabsichtigt an vielen düsteren Orten gewesen bin, habe ich eine gemischte Sicht der Dinge. Obwohl ich im Allgemeinen versuche, positiv zu bleiben. Das hat zur Düsternis und Ernsthaftigkeit des Albums auf jeden Fall beigetragen.
 
-**Anne:** Hast Du für "Axis" mit anderen Musiker⋆innen zusammengearbeitet?
+**Anne:** Hast Du für "AXIS" mit anderen Musiker⋆innen zusammengearbeitet?
 
 ## "Ich habe mit wundervollen Künstler⋆innen zusammengearbeitet"
 
