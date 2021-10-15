@@ -1,30 +1,34 @@
 ---
-date: 2021-01-16T17:00:36.000Z
-slug: vogelgrippe-stopfleber
-path: /2021/01/vogelgrippe-stopfleber/
-title: Weltweit Ausbrüche tödlicher Vogelgrippe
-seoTitle: Ausbrüche tödlicher Vogelgrippe – Stopfleber-Hersteller fordern Keulung
 ogTitle: Ausbrüche tödlicher Vogelgrippe – Stopfleber-Hersteller fordern Keulung
-description: Französische Stopfleber-Produzenten fordern jetzt die Keulung vieler Tausend Enten. Sie fürchten einen Vogelgrippe-Stamm, der derzeit im Land wütet.
-excerpt: Französische Stopfleber-Produzenten fordern jetzt die Keulung vieler Tausend Enten. Sie fürchten einen Vogelgrippe-Stamm, der derzeit im Land wütet.
-fileName: 2021-01---weltweit-ausbrueche-toedlicher-vogelgrippe.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_vogelgrippe-2__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_vogelgrippe-2__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQgG/8QAKBAAAQMDBAEEAgMAAAAAAAAAAQIDBAUGEQASITEHExRRYSJBMkJi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDPtLksx5LS0grKSN4AwUqORtB/fefrTtt+mVSvLekQKcgR2AEuvuLSlsLCRkBWTzjHAB0o6DbVXrVWEGiMrmyFpC/QAIKUZB3E4wkf6JAxrXNrWzLpFuIVeVVTNdQ3lxps7WGR2Ru7V9ngcdagprHkptOYzKqjzceS6wfUiqSBtbUcIK1kgDKhnA5x86urzsSGxTE1S3UKXGKQp1j+eEEE70nv41nnz27Q7mudM+l1B1VSX6bRBwuKGACE4I/JKhwSMEEHsEYL78d+RbStTx9RqbPuAux4rZitzHW1qS+U8qAwDtA3ABJ5AAGqEtYXlmsWjTxT5sFM+lJRtj5UlC2vyzjdglSeTgHr9amvryZNumEmHBJhwzlMgFQ3uA/1+QMd/OdGjUC8VGaCQ2mKhSQrPfZxroIVafYhwGJVLpMuNF3+393GClMkq3E5zgAqPagc/eNGjQf/2Q==
+excerpt: Französische Stopfleber-Produzenten fordern jetzt die Keulung vieler
+  Tausend Enten. Sie fürchten einen Vogelgrippe-Stamm, der derzeit im Land
+  wütet.
 ogImage: null
+isAffiliate: false
+path: /2021/01/vogelgrippe-stopfleber/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQgG/8QAKBAAAQMDBAEEAgMAAAAAAAAAAQIDBAUGEQASITEHExRRYSJBMkJi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDPtLksx5LS0grKSN4AwUqORtB/fefrTtt+mVSvLekQKcgR2AEuvuLSlsLCRkBWTzjHAB0o6DbVXrVWEGiMrmyFpC/QAIKUZB3E4wkf6JAxrXNrWzLpFuIVeVVTNdQ3lxps7WGR2Ru7V9ngcdagprHkptOYzKqjzceS6wfUiqSBtbUcIK1kgDKhnA5x86urzsSGxTE1S3UKXGKQp1j+eEEE70nv41nnz27Q7mudM+l1B1VSX6bRBwuKGACE4I/JKhwSMEEHsEYL78d+RbStTx9RqbPuAux4rZitzHW1qS+U8qAwDtA3ABJ5AAGqEtYXlmsWjTxT5sFM+lJRtj5UlC2vyzjdglSeTgHr9amvryZNumEmHBJhwzlMgFQ3uA/1+QMd/OdGjUC8VGaCQ2mKhSQrPfZxroIVafYhwGJVLpMuNF3+393GClMkq3E5zgAqPagc/eNGjQf/2Q==
+isWerbung: false
+fileName: 2021-01---weltweit-ausbrueche-toedlicher-vogelgrippe.md
+slug: vogelgrippe-stopfleber
+errors: {}
+date: 2021-01-16T17:00:36.000Z
+focusKeyword: Vogelgrippe
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_vogelgrippe-2__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_vogelgrippe-2__m.jpg
+title: Weltweit Ausbrüche tödlicher Vogelgrippe
+subTitle: Französische Stopfleber-Produzenten fordern Keulung tausender Tiere
+seoTitle: Ausbrüche tödlicher Vogelgrippe – Stopfleber-Hersteller fordern Keulung
+description: Französische Stopfleber-Produzenten fordern jetzt die Keulung
+  vieler Tausend Enten. Sie fürchten einen Vogelgrippe-Stamm, der derzeit im
+  Land wütet.
 labels:
   - H5N1
   - H5N8
   - Tierrechte
   - Vogelgrippe
   - Zoonosen
-focusKeyword: Vogelgrippe
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Französische Stopfleber-Produzenten fordern Keulung tausender Tiere
 ---
 
 **Französische Stopfleber-Produzenten fordern jetzt die Keulung vieler tausend Enten. Sie fürchten einen Vogelgrippe-Stamm, der derzeit im Land wütet. Das berichtete jetzt der Guardian.**
@@ -96,5 +100,11 @@ Da man die Tiere nicht einfach dazu zwingen kann, sich zu überfressen, werden i
 Mich lässt der Gedanke, dass erst ein tödliches Virus nötig ist, damit weniger von einem solch grausamen Produkt wie der Stopfleber verkauft wird, mal wieder kopfschüttelnd und traurig zurück. Es sollte inzwischen wirklich jedem⋆r bekannt sein, dass es immer wieder "Nutztiere" sind, durch die es zu Ausbrüchen schwerer Krankheiten kommt. Nicht nur die direkte Übertragung gefährlicher Viren, sondern beispielsweise auch die Fütterung von Antibiotika, durch die multiresistente Keime entstehen (Hier sind immer häufiger Todesfälle die Folge) führt uns nach und nach in die Katastrophe. Ganz zu schweigen von den Qualen, die Tiere erleiden und den Schäden, die wir dem Klima mit unserem rücksichtslosen Konsumverhalten antun.
 
 Ich für meinen Teil hoffe wirklich sehr, dass die momentanen weltweiten Ereignisse viele Menschen zum Umdenken bringen. Für mich wäre es natürlich das Größte, wenn irgendwann gar keine Lebensmittel tierischen Ursprungs mehr verkauft werden. Aktuell erscheint das leider noch allzu oft wie weit entfernte Zukunftsmusik.
+
+---
+
+**Hinweis:** Die Tiere im Bild oben ist nicht an Vogelgrippe erkrankt. Es handelt sich um ein Beispielfoto, das ich vor Kurzem aufgenommen habe.
+
+---
 
 Quelle/source: [Guardian](https://www.theguardian.com/world/2021/jan/08/calls-for-mass-duck-cull-in-france-as-bird-flu-hits-foie-gras-industry)
