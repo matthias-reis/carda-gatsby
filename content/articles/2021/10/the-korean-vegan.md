@@ -29,7 +29,7 @@ labels:
   - Ernährung & Gesunheit
 focusKeyword: The Korean Vegan
 advertisement: false
-affiliate: false
+affiliate: true
 language: de
 ---
 **"The Korean Vegan" heißt eines der als beste Kochbücher des Jahres 2021 ausgezeichneten Werke. Geschrieben hat es Joanne Lee Molinaro, die sich in den sozialen Netzwerken einen Namen als "The Korean Vegan" gemacht hat. Offenheit und Mitgefühl sind Joanne besonders wichtig. Im Fokus stehen bei ihr also längst nicht nur gesundes Essen und tolle Rezepte.**
