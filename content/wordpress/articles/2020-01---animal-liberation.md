@@ -1,19 +1,29 @@
 ---
-date: 2020-01-04T12:22:54.000Z
-slug: animal-liberation
-path: /2020/01/animal-liberation/
-type: Artikel
-typeName: Rezension
-title: '"Animal Liberation"'
-seoTitle: '"Animal Liberation" - das Tierethikbuch von Peter Singer'
 ogTitle: '"Animal Liberation" - das Tierethikbuch von Peter Singer'
-description: Heute möchte ich Euch das Buch "Animal Liberation" von Peter Singer empfehlen. Es bietet einen guten Überblick über die Geschichte der Tierethik.
-excerpt: Heute möchte ich Euch das Buch "Animal Liberation" von Peter Singer empfehlen. Es bietet einen guten Überblick über die Geschichte der Tierethik.
-fileName: 2020-01---animal-liberation.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_animal-liberation-18__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_animal-liberation-18__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACkQAAICAgEDAwIHAAAAAAAAAAECAwQFEQAGEiEiMWETFBUycXKBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH/xAAlEQABAwIFBAMAAAAAAAAAAAACAAEDESEEEhMiMQVBUdFhgfD/2gAMAwEAAhEDEQA/AIj09ZmxeLyNiuIXnRoiVliDgqQdnz7EEEcZoM1l7smOnpIIkuQJM0EUKuF3K0elGidekcwsREtqxLVkLBLSBGKrsrpwdgfAkPGzDX6GF6cw8MU5jy8KSELJGwY6ncQ9vafLFt7JICgfrvIZijq4hme1vtkOF9UiEiozevaotTp+vLfSGeZ5VZx6ZFj8qT+wcSuonwQjiMuMqwSWAxjV7Hb3aIB14+R43yqrOTYoQ/brGiOA661o6A38+R/vIPYxjzZ9Un+k0Ne08jq1lHCK2mTtQjuXZI2fbjusiMRhl22finwk4LeJVvwsDEXn/HTYpVrM0ZMyLEIyWAbuA3oHRHp/rlj6YwAlxVR7vTcUs6GRla1AHkAMzuoPnY/MD/PDhweFleI3cfClpDnf95TPd+9MEwTHtFOyMI5EicMjkHtYHegQdHiflE6mr9Jw15M3ekzCTvLJZnrRyM6FQBF5B8AjYO/cn40cOVxUpTOLl2VoxYa0X//Z
+excerpt: Heute möchte ich Euch das Buch "Animal Liberation" von Peter Singer
+  empfehlen. Es bietet einen guten Überblick über die Geschichte der Tierethik.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-1.png__l.jpg
+isAffiliate: false
+path: /2020/01/animal-liberation/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACkQAAICAgEDAwIHAAAAAAAAAAECAwQFEQAGEiEiMWETFBUycXKBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH/xAAlEQABAwIFBAMAAAAAAAAAAAACAAEDESEEEhMiMQVBUdFhgfD/2gAMAwEAAhEDEQA/AIj09ZmxeLyNiuIXnRoiVliDgqQdnz7EEEcZoM1l7smOnpIIkuQJM0EUKuF3K0elGidekcwsREtqxLVkLBLSBGKrsrpwdgfAkPGzDX6GF6cw8MU5jy8KSELJGwY6ncQ9vafLFt7JICgfrvIZijq4hme1vtkOF9UiEiozevaotTp+vLfSGeZ5VZx6ZFj8qT+wcSuonwQjiMuMqwSWAxjV7Hb3aIB14+R43yqrOTYoQ/brGiOA661o6A38+R/vIPYxjzZ9Un+k0Ne08jq1lHCK2mTtQjuXZI2fbjusiMRhl22finwk4LeJVvwsDEXn/HTYpVrM0ZMyLEIyWAbuA3oHRHp/rlj6YwAlxVR7vTcUs6GRla1AHkAMzuoPnY/MD/PDhweFleI3cfClpDnf95TPd+9MEwTHtFOyMI5EicMjkHtYHegQdHiflE6mr9Jw15M3ekzCTvLJZnrRyM6FQBF5B8AjYO/cn40cOVxUpTOLl2VoxYa0X//Z
+date: 2020-01-04T12:22:54.000Z
+typeName: Buchtipp
+isWerbung: false
+fileName: 2020-01---animal-liberation.md
+slug: animal-liberation
+errors: {}
+title: '"Animal Liberation"'
+subTitle: Das Tierrechtsbuch von Peter Singer
+focusKeyword: Animal Liberation
+affiliate: true
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_animal-liberation-18__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_animal-liberation-18__m.jpg
+seoTitle: '"Animal Liberation" - das Tierethikbuch von Peter Singer'
+description: Heute möchte ich Euch das Buch "Animal Liberation" von Peter Singer
+  empfehlen. Es bietet einen guten Überblick über die Geschichte der Tierethik.
+language: de
+type: Artikel
 labels:
   - Animal Liberation
   - Bücher & Filme
@@ -25,13 +35,6 @@ labels:
   - Tierrechte
   - Tierschutz
   - vegan
-focusKeyword: Animal Liberation
-status: publish
-isWerbung: false
-isAffiliate: false
-language: de
-errors: {}
-subTitle: Das Tierrechtsbuch von Peter Singer
 ---
 
 **Ein Buch, dass ich Euch schon seit längerer Zeit dringend empfehlen möchte, trägt den Titel "Animal Liberation". Geschrieben wurde es von Peter Singer. Die erste Ausgabe stammt aus dem Jahr 1975. Seither wurde es mehrfach überarbeitet. Das mir derzeit vorliegende Exemplar stammt von 2018.**
@@ -69,4 +72,6 @@ Am Beispiel [Tierversuche](/2019/10/tierversuche-in-deutschland/) beweist der Au
 Neben der Analyse der aktuellen Lage bringt Peter Singer in seinem Buch auch einen Überblick über die Geschichte und die Entwicklung, die dazu führte, dass wir heute [die einen essen und die anderen streicheln](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/). Dabei zitiert er unter anderem Darwin, Voltaire, Hume und Bentham.
 
 "Animal Liberation" ist ein Buch, dass mich persönlich schon sehr lange begleitet. Es dient mir als Nachschlagewerk und ich habe es auch schon diverse Male am Stück gelesen. Zugegeben: es handelt sich dabei sicher nicht um die leichteste Kost. Dennoch ist es gut lesbar und was das Wichtigste ist: es bietet einen guten Überblick über die Geschichte der Tierethik. Außerdem findet man darin jede Menge wertvolle Informationen und Argumente für ein veganes Leben. Singer schreibt zwar auf sehr sachliche Art, beweist aber auf jeder Seite seine tief gehende Empathie. Besonders gut gefallen haben mir persönlich außerdem die gut gewählten Zitate, mit denen er sein Werk unterfüttert hat. Alle Quellen sind belegt - einige davon bieten weiteren hochinteressanten Lesestoff. Da ich selbst zum Sammeln meiner Texte neige, finde ich die Tatsache, dass im Buch neben dem aktuellsten Vorwort zur Ausgabe von 2015 auch das von 1996 sowie das aus der ersten Auflage abgedruckt ist. Ganz nebenbei bietet das natürlich auch einen emotional unterlegten Rückblick über die Entwicklung seit dieser Zeit - in Bezug auf die Tierethik und auch auf unseren Umgang mit Tieren in der Realität.
+
+[Ihr könnt "Animal Liberation" hier bestellen](https://amzn.to/3aHAOcv).
 
