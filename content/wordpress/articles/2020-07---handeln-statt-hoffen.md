@@ -1,19 +1,31 @@
 ---
-date: 2020-07-30T12:24:37.000Z
-slug: handeln-statt-hoffen-carola-rackete
-path: /2020/07/handeln-statt-hoffen-carola-rackete/
-type: Artikel
-typeName: Rezension
-title: '"Handeln statt hoffen"'
-seoTitle: Handeln statt hoffen - Carola Racketes Aufruf an die letzte Generation
 ogTitle: Handeln statt hoffen - Carola Racketes Aufruf an die letzte Generation
-description: '"Handeln statt hoffen" heißt das Buch der Menschenrechts- und Umweltaktivistin Carola Rackete. Es ist ein Aufruf an die Menschheit, endlich etwas zu ändern.'
-excerpt: '"Handeln statt hoffen" heißt das Buch der Menschenrechts- und Umweltaktivistin Carola Rackete. Es ist ein Aufruf an die Menschheit, endlich etwas zu ändern.'
-fileName: 2020-07---handeln-statt-hoffen.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-30-carola-rackete-02__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-30-carola-rackete-02__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAApEAACAQMDAwQBBQAAAAAAAAABAgMEBREABhITITEHIkFRcRWBobHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EAB8RAAICAQQDAAAAAAAAAAAAAAECAAMRBBIxwRMyUf/aAAwDAQACEQMRAD8AkvpdRRz7nraGVBIKi3ykAgd/arf6NVW2WS3u9vsIFJR0NfQx1E3Uj5IzMzISSXBBOABj86mvpwTD6jWaTJCSRvEw+Ty5oP7XVWluP6deLODFhGtEcZlMBl6J6koVsAHHj60N6LZSNw4J6M2gsyefncy26CNu3i+x2mrp+tFRiY1tPGAwCzRqV5cm+yMY0mo7zWbg2ZuOet4yQwUEzRy9iXz7fd27MM/yNMd1zTXurvaUsUblbYsaymLoLOwqYSzZbHnv5+sa4bTZbxZfS7dxulumpYWt6dNiysjs0qk44k98EefjSAgUDEptbLNkzP7NtlXHuS0VrkQpSyo7ksPeBx7YH4PfV5p5LRWQRSVNS0MnRCkRyzAqQznACkLjuMfvnRo0doDJtPEl048frEe9aKzT7erYaGV2mdEVVaabBHURiDliMDBPjzqe7wamrOdQkPCZkVJX556mFCjIwB4GjRoakCjAjHYk5M//2Q==
+excerpt: '"Handeln statt hoffen" heißt das Buch der Menschenrechts- und
+  Umweltaktivistin Carola Rackete. Es ist ein Aufruf an die Menschheit, endlich
+  etwas zu ändern.'
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_handeln-statt-hoffen-carola-rackete.png__l.jpg
+isAffiliate: false
+path: /2020/07/handeln-statt-hoffen-carola-rackete/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAApEAACAQMDAwQBBQAAAAAAAAABAgMEBREABhITITEHIkFRcRWBobHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EAB8RAAICAQQDAAAAAAAAAAAAAAECAAMRBBIxwRMyUf/aAAwDAQACEQMRAD8AkvpdRRz7nraGVBIKi3ykAgd/arf6NVW2WS3u9vsIFJR0NfQx1E3Uj5IzMzISSXBBOABj86mvpwTD6jWaTJCSRvEw+Ty5oP7XVWluP6deLODFhGtEcZlMBl6J6koVsAHHj60N6LZSNw4J6M2gsyefncy26CNu3i+x2mrp+tFRiY1tPGAwCzRqV5cm+yMY0mo7zWbg2ZuOet4yQwUEzRy9iXz7fd27MM/yNMd1zTXurvaUsUblbYsaymLoLOwqYSzZbHnv5+sa4bTZbxZfS7dxulumpYWt6dNiysjs0qk44k98EefjSAgUDEptbLNkzP7NtlXHuS0VrkQpSyo7ksPeBx7YH4PfV5p5LRWQRSVNS0MnRCkRyzAqQznACkLjuMfvnRo0doDJtPEl048frEe9aKzT7erYaGV2mdEVVaabBHURiDliMDBPjzqe7wamrOdQkPCZkVJX556mFCjIwB4GjRoakCjAjHYk5M//2Q==
+date: 2020-07-30T12:24:37.000Z
+typeName: Rezension
+isWerbung: false
+fileName: 2020-07---handeln-statt-hoffen.md
+slug: handeln-statt-hoffen-carola-rackete
+errors: {}
+title: '"Handeln statt hoffen"'
+subTitle: Carola Racketes Aufruf an die letzte Generation
+focusKeyword: Handeln statt hoffen
+affiliate: true
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-30-carola-rackete-02__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-30-carola-rackete-02__m.jpg
+seoTitle: Handeln statt hoffen - Carola Racketes Aufruf an die letzte Generation
+description: '"Handeln statt hoffen" heißt das Buch der Menschenrechts- und
+  Umweltaktivistin Carola Rackete. Es ist ein Aufruf an die Menschheit, endlich
+  etwas zu ändern.'
+language: de
+type: Artikel
 labels:
   - Antifaschismus & Feminismus
   - Bücher & Filme
@@ -23,13 +35,6 @@ labels:
   - Klima- & Umweltschutz
   - Klimawandel
   - Sea Watch
-focusKeyword: Handeln statt hoffen
-status: publish
-isWerbung: false
-isAffiliate: false
-language: de
-errors: {}
-subTitle: Carola Racketes Aufruf an die letzte Generation
 ---
 
 **"Handeln statt hoffen" heißt das Buch der Menschenrechts- und Umweltaktivistin Carola Rackete. Es ist ein Aufruf an die Menschheit, so schnell wie möglich ihre Gewohnheiten zu ändern, um die Klimakatastrophe zu bremsen. Ich habe es gelesen.**
@@ -93,3 +98,5 @@ Sie hat bereits in jungen Jahren das ewige Eis schmelzen sehen und war live dabe
 Im Anhang des Buchs befinden sich Verweise auf andere Bücher und wissenschaftliche Studien. Darunter unter anderem "Die grüne Lüge: Weltrettung als profitables Geschäftsmodell" von Kathrin Hartmann, "Die Machiavellis der Wissenschaft: Das Netzwerk des Leugnens" von Naomi Orestes und Eric M. Conway und "Drawdown - der Plan. Wie wir die Erderwärmung umkehren können" von Paul Hawken sowie viele weitere grundlegende Werke des Umweltschutz-Aktivismus.
 
 Für mich hört das Lesen und Nachforschen an dieser Stelle nicht auf. Besonders die Studie "Deep Adaption" von Professor Jem Bender von der University of Cambria empfiehlt Rackete in ihrem Buch ganz explizit ( [Die Arbeit steht online zum Lesen bereit](https://jembendell.com/2019/05/15/deep-adaptation-versions/) ). Sie spricht sogar davon, ihr Leben in "vor dem Lesen von 'Deep Adaption'" Und "nach dem Lesen von 'Deep Adaption' einzuteilen. So ähnlich geht es mir mit ihrem Werk auch. Ich finde "Handeln statt hoffen" ist ein Buch, das wirklich jede⋆r gelesen haben sollte und lege es Euch hiermit ans Herz. Und ich gehe jetzt in den Buchladen und hole mir mein Exemplar von "Drawdown" ab.
+
+[Ihr könnt "Handeln statt hoffen" hier bestellen](https://amzn.to/3lIfZnr).
