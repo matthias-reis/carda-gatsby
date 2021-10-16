@@ -42,7 +42,7 @@ Ob wir die Kochbuch-Autorin demnächst auch auf der Leinwand sehen können, steh
 
 ![Joanne Lee Molinaro – "The Korean Vegan"](/img/the-korean-vegan.jpeg "Joanne Lee Molinaro – \\"The Korean Vegan\\"")
 
-Ihren gleichnamigen Blog gründete die Chicagoer Anwältin vor fünf Jahren. Für sie ist er laut eigener Aussage eine Möglichkeit, sich von ihrem stressigen Alltag zu erholen. Mit ihrer offenen und lockeren Art zieht sie Millionen Fans an. Erst 2020 hatte sie beispielsweise ein Konto auf Instagram eingerichtet. Heute hat sie dort bereits mehr als 530.000 Follower. Auf TikTok sind es bereits 2,6 Millionen.
+Ihren gleichnamigen Blog gründete die Chicagoer Anwältin vor fünf Jahren. Für sie ist er laut eigener Aussage eine Möglichkeit, sich von ihrem stressigen Alltag zu erholen. Mit ihrer offenen und lockeren Art zieht sie Millionen Fans an. Erst 2020 hatte sie beispielsweise ein Konto auf Instagram eingerichtet. Heute hat sie dort schon mehr als 530.000 Follower. Auf TikTok sind es bereits 2,6 Millionen.
 
 Ihren ursprünglichen Job als Juristin möchte sie nun aufgeben, um sich ganz ihrer veganen Onlinewelt zu widmen. Was mich daran besonders freut ist, dass sie mit ihrer charmanten Art und ihren genialen Rezepten die unterschiedlichsten Menschen anzieht und den veganen Gedanken dadurch weiter verbreitet. Für mich ist "The Korean Vegan" schon allein aus diesem Grund das Kochbuch des Jahres 2021.
 
