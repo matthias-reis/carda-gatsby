@@ -62,7 +62,7 @@ Für ein Debüt ist das natürlich ein großartiger Erfolg, den sie sicher nicht
 
 Auf die Frage "Wie schaffst Du es, koreanisch und vegan zu kochen?", die ihr regelmäßig gestellt wird, hat sie zahlreiche und sehr vielfältige Antworten. Viele denken bei koreanischer Küche nach wie vor an Barbecue und Fischsauce. Dass es auch ohne geht, wird einem spätestens beim Aufschlagen ihres Erstlings klar.
 
-Klar kommen Fleisch und Fisch in der koreanischen Küche vor. Aus ihrer Kindheit kennt die Autorin jedoch besonders Zutaten wie Doenjang (fermentierte Sojabohnenpaste), Gochujang (Chilisauce) und Dashima (Seetang). Diese finden sich auch immer wieder in ihren Rezepten wieder.
+Klar kommen Fleisch und Fisch in der koreanischen Küche vor. Aus ihrer Kindheit sind der Autorin jedoch besonders Zutaten wie Doenjang (fermentierte Sojabohnenpaste), Gochujang (Chilisauce) und Dashima (Seetang) in Erinnerung geblieben. Diese finden sich auch immer wieder in ihren Rezepten wieder.
 
 ## Eine Lieblings-Rezepte-Sammlung
 
