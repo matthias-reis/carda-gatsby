@@ -1,17 +1,26 @@
 ---
+ogTitle: 'Bill Gates: "Wie wir die Klimakatastrophe verhindern"'
+excerpt: In seinem neuen Buch "Wie wir die Klimakatastrophe verhindern" erklärt
+  Bill Gates, wie wir den Klimakollaps abwenden können.
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-fb.png__l.jpg
+isAffiliate: false
+path: /2021/02/bill-gates-wie-wir-die-klimakatastrophe-verhindern/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAYFCP/EACkQAAIBAwMDBAEFAAAAAAAAAAECAwQFEQASMQYhYRMiQVEVFCQyQnH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUB/8QAIBEAAQQBBAMAAAAAAAAAAAAAAQACAxEhBBMi8DJRYf/aAAwDAQACEQMRAD8Ab11u1TR3q7+jclMMLuZI5a6VREuxQQFFMwXG8EYZuQdW+n6ud6+hSW4vKWlIOayRy+CQRtMCjlSPj/dQV/5SC8XRY7xWNHUVEgRTS1RFOrRbFVCqlTtZd48se/GrFgjuiXOk9W+1tVF+reQpPQzxgqyMBEWIAwvc5PJA8aKfxFfE3TVbr9FI2kstXdKiRYbpbrVSxMIf3DsJJ3YZ9oXGAMgA55zrl2eJrDfIbPUXSO6Q1D7UkByEY527cknbkEHJP3pi9OViQoIpGpo1BL75lGD843H+P3547awnTlQlf1bBTtLHKLbBIiyxRjbK29ioz4ViRj61pdJvHuEpscR019tegL1SO12qpEp65/fkFKqpUHI742nGPA7akttK9PLA6U1czREMqtVVDZOODuODwOc86NGglPEJkOHFLfrCzzenaUsqwQxRTSNOrqXL5iYJ3zk9yQR858ay3RnS/wCPnWe5PDGKbKxrB7d7f2kbufcc/OjRqmymiwMqYbPEnC//2Q==
+isWerbung: false
+fileName: 2021-02---wie-wir-die-klimakatastrophe-verhindern.md
 date: 2021-02-16T13:23:36.000Z
 slug: bill-gates-wie-wir-die-klimakatastrophe-verhindern
-path: /2021/02/bill-gates-wie-wir-die-klimakatastrophe-verhindern/
+errors: {}
 title: '"Wie wir die Klimakatastrophe verhindern"'
-seoTitle: 'Bill Gates: "Wie wir die Klimakatastrophe verhindern"'
-ogTitle: 'Bill Gates: "Wie wir die Klimakatastrophe verhindern"'
-description: In seinem neuen Buch "Wie wir die Klimakatastrophe verhindern" erklärt Bill Gates, wie wir den Klimakollaps abwenden können.
-excerpt: In seinem neuen Buch "Wie wir die Klimakatastrophe verhindern" erklärt Bill Gates, wie wir den Klimakollaps abwenden können.
-fileName: 2021-02---wie-wir-die-klimakatastrophe-verhindern.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-1__m.jpg
+focusKeyword: Klimakatastrophe
+affiliate: true
+status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAYFCP/EACkQAAIBAwMDBAEFAAAAAAAAAAECAwQFEQASMQYhYRMiQVEVFCQyQnH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUB/8QAIBEAAQQBBAMAAAAAAAAAAAAAAQACAxEhBBMi8DJRYf/aAAwDAQACEQMRAD8Ab11u1TR3q7+jclMMLuZI5a6VREuxQQFFMwXG8EYZuQdW+n6ud6+hSW4vKWlIOayRy+CQRtMCjlSPj/dQV/5SC8XRY7xWNHUVEgRTS1RFOrRbFVCqlTtZd48se/GrFgjuiXOk9W+1tVF+reQpPQzxgqyMBEWIAwvc5PJA8aKfxFfE3TVbr9FI2kstXdKiRYbpbrVSxMIf3DsJJ3YZ9oXGAMgA55zrl2eJrDfIbPUXSO6Q1D7UkByEY527cknbkEHJP3pi9OViQoIpGpo1BL75lGD843H+P3547awnTlQlf1bBTtLHKLbBIiyxRjbK29ioz4ViRj61pdJvHuEpscR019tegL1SO12qpEp65/fkFKqpUHI742nGPA7akttK9PLA6U1czREMqtVVDZOODuODwOc86NGglPEJkOHFLfrCzzenaUsqwQxRTSNOrqXL5iYJ3zk9yQR858ay3RnS/wCPnWe5PDGKbKxrB7d7f2kbufcc/OjRqmymiwMqYbPEnC//2Q==
-ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-fb.png__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-1__m.jpg
+subTitle: "Bill Gates: Reiche Länder müssen auf synthetisches Fleisch setzen"
+seoTitle: 'Bill Gates: "Wie wir die Klimakatastrophe verhindern"'
+description: In seinem neuen Buch "Wie wir die Klimakatastrophe verhindern"
+  erklärt Bill Gates, wie wir den Klimakollaps abwenden können.
 labels:
   - Bill Gates
   - Buch
@@ -24,13 +33,7 @@ labels:
   - Laborfleisch
   - Veganismus
   - Wissenschaft
-focusKeyword: Klimakatastrophe
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: 'Bill Gates: Reiche Länder müssen auf synthetisches Fleisch setzen'
 ---
 
 **In seinem neuen Buch "How to Avoid a Climate Disaster" ("Wie wir die Klimakatastrophe verhindern") beschäftigt sich der US-Milliardär Bill Gates mit den technischen Durchbrüchen und politischen Veränderungen, die nötig sind, um die Klimakatastrophe aufzuhalten. Unter anderem spricht er sich dafür aus, dass alle reichen Länder auf Fleisch verzichten sollten.**
@@ -65,7 +68,7 @@ In seinem Buch möchte er das, was er in seinen Studien zum Klimawandel, die ihn
 
 Microsoft Gründer Bill Gates rief 1999 gemeinsam mit meiner seiner Frau Melinda die Bill &amp; Melinda Gates Foundation ins Leben. Die größte private Stiftung der Welt setzt sich unter anderem für die weltweite Verbesserung der Gesundheitsversorgung, die Ermöglichung des Zugangs zu Bildung und Informationstechnologie und die Bekämpfung extremer Armut ein. Ein Hauptschwerpunkt der wohltätigen Organisation ist der Kampf gegen Kinderlähmung und Malaria.
 
-Mit ihrer Foundation unterstützen Bill und Melinda immer wieder Projekte zur Hungerbekämpfung. Nahrungsmittel der Zukunft faszinieren Bill Gates besonders. 2020 steckte er eine große Summe in ein Forschungsprojekt für Fleisch aus dem Labor und auch die [Forschungen rund um Mikroben-Protein](/2021/01/mikroben-protein-als-fleischersatz/) fördert der Wegbereiter der modernen Computer-Welt. Sein Buch "Wie wir die Klimakatastrophe verhindern" erscheint heute und ist [ab sofort bestellbar](https://www.technologyreview.com/2021/02/14/1018296/bill-gates-climate-change-beef-trees-microsoft/).
+Mit ihrer Foundation unterstützen Bill und Melinda immer wieder Projekte zur Hungerbekämpfung. Nahrungsmittel der Zukunft faszinieren Bill Gates besonders. 2020 steckte er eine große Summe in ein Forschungsprojekt für Fleisch aus dem Labor und auch die [Forschungen rund um Mikroben-Protein](/2021/01/mikroben-protein-als-fleischersatz/) fördert der Wegbereiter der modernen Computer-Welt. Sein Buch "Wie wir die Klimakatastrophe verhindern" erscheint heute und ist [ab sofort bestellbar](https://amzn.to/3mXfFk5).
 
 ## Quellen/sources:
 
