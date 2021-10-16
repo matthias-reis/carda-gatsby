@@ -14,7 +14,7 @@ excerpt: '"The Korean Vegan" heißt das wohl beste Kochbuch des Jahres 2021.
   dem Internet-Star besonders wichtig. Im Fokus stehen bei ihr also längst nicht
   nur gesundes Essen und tolle Rezepte.'
 image: /img/the-korean-vegan.jpg
-copyrigt: Joanne Lee Molinaro
+copyrigt: Joanne Lee Molinaro, Geoff Martin Photography
 ogImage: /img/the-korean-vegan-fb.png
 labels:
   - Joanne Lee Molinaro
@@ -40,7 +40,7 @@ Ob wir die Kochbuch-Autorin demnächst auch auf der Leinwand sehen können, steh
 
 ## The Korean Vegan – der Blog
 
-![Joanne Lee Molinaro – "The Korean Vegan"](/img/the-korean-vegan.jpeg "Joanne Lee Molinaro – \"The Korean Vegan\"")
+![Joanne Lee Molinaro – "The Korean Vegan"](/img/the-korean-vegan.jpeg "Joanne Lee Molinaro – \\"The Korean Vegan\\"")
 
 Ihren gleichnamigen Blog gründete die Chicagoer Anwältin vor fünf Jahren. Für sie ist er laut eigener Aussage eine Möglichkeit, sich von ihrem stressigen Alltag zu erholen. Mit ihrer offenen und lockeren Art zieht sie Millionen Fans an. Erst 2020 hatte sie beispielsweise ein Konto auf Instagram eingerichtet. Heute hat sie dort bereits mehr als 530.000 Follower. Auf TikTok sind es bereits 2,6 Millionen.
 
@@ -73,3 +73,5 @@ Im Buch findet man immer wieder Rezepte aus ihrer Kindheit. So ist der Schokolad
 Für Joanne Lee Molinaro ist ihr Kochbuch ein Porträt ihrer und der Erfahrungen ihrer Familie – gespickt mit zahlreichen Lektionen, die ihr das Leben mitgegeben hat. Von mir bekommt Ihr hiermit eine klare Leseempfehlung. Nicht nur, wenn Ihr Lust habt, die Rezepte nachzukochen oder Euch davon inspirieren zu lassen. Lasst auf Euch diese großartige, kulinarische Reise ein – Ihr werdet es ganz sicher nicht bereuen.
 
 ["The Korean Vegan – Reflections and Recipes from Omma's Kitchen"](https://amzn.to/2YT49y2) von Joanne Lee Molinaro ist beim Verlag Penguin LCC US mit der ISBN-13 978-0593084274 auf Englisch erschienen. [Ihr könnt es hier bestellen und vorab auch schon mal einen Blick in das Buch werfen](https://amzn.to/2YT49y2).
+
+Bild/picture: © Joanne Lee Molinaro, Geoff Martin Photography
