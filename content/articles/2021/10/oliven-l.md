@@ -20,7 +20,7 @@ labels:
   - kaltgepresstes Öl
   - kaltgepresstes Olivenöl
 focusKeyword: Olivenöl
-advertisement: false
+advertisement: true
 affiliate: true
 language: de
 ---
