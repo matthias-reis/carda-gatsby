@@ -1,19 +1,27 @@
 ---
-date: 2019-07-19T10:32:29.000+00:00
-slug: vegan-aber-guenstig-patrick-bolk
-path: '/2019/07/vegan-aber-guenstig-patrick-bolk/'
-type: Artikel
-typeName: Rezension
-title: '"Vegan, aber günstig"'
-seoTitle: Buchtipp - "Vegan, aber günstig"
 ogTitle: Buchtipp - "Vegan, aber günstig"
-description: 'Ich möchte Euch zwei ganz besondere Bücher von Patrick Bolk zeigen: "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber günstig - das Kochbuch".'
-excerpt: 'Ich möchte Euch zwei ganz besondere Bücher von Patrick Bolk zeigen: "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber günstig - das Kochbuch".'
-fileName: 2019-07---vegan-aber-guenstig.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-1__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-1__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIAwT/xAAxEAABAwMCAwUGBwAAAAAAAAABAgMEAAURBiESEzEiMkFhcQcUFRckQlNkcoGRocH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDERIhIlFx/9oADAMBAAIRAxEAPwCb9NWpy8XqDb44bLsh0ISHFcKT44J9AadPy1tTizyrbbEpODh24KCgDnqM+lKb2bv8rXen1fnWx/Jx/tVdFsVmDf1UWG4skleJB7W5Pdz5/wBCq223TqHkbB5IoJWgLPGfYbm2uI2l9Ki0piWtWcEDfP6h0pMXuO1HvVyZjp4GWpLiEJznCQogVVGoFw7bc7PADTS+e057upB4g1wrbOPHG23lipSuL3NnynPxHVqz6qJosdluixAOM6dKykQtT2eS8sNtMzGXFrPRKQsEk/tTsjX3TyNSO3T49FVxqUQ2t0fcMbkjdOCdsUUVq5M2x0unI3p2fsz1Nrqyx7pa5CZaJSW2X0BTKg+tBUpB7RBG5x3j1waQe569aKKqUD19iWsvU//Z
+excerpt: 'Ich möchte Euch zwei ganz besondere Bücher von Patrick Bolk zeigen:
+  "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber günstig - das
+  Kochbuch".'
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_07_Vegan-aber-gu%CC%88nstig.png__l.jpg
+isAffiliate: false
+path: /2019/07/vegan-aber-guenstig-patrick-bolk/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIAwT/xAAxEAABAwMCAwUGBwAAAAAAAAABAgMEAAURBiESEzEiMkFhcQcUFRckQlNkcoGRocH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDERIhIlFx/9oADAMBAAIRAxEAPwCb9NWpy8XqDb44bLsh0ISHFcKT44J9AadPy1tTizyrbbEpODh24KCgDnqM+lKb2bv8rXen1fnWx/Jx/tVdFsVmDf1UWG4skleJB7W5Pdz5/wBCq223TqHkbB5IoJWgLPGfYbm2uI2l9Ki0piWtWcEDfP6h0pMXuO1HvVyZjp4GWpLiEJznCQogVVGoFw7bc7PADTS+e057upB4g1wrbOPHG23lipSuL3NnynPxHVqz6qJosdluixAOM6dKykQtT2eS8sNtMzGXFrPRKQsEk/tTsjX3TyNSO3T49FVxqUQ2t0fcMbkjdOCdsUUVq5M2x0unI3p2fsz1Nrqyx7pa5CZaJSW2X0BTKg+tBUpB7RBG5x3j1waQe569aKKqUD19iWsvU//Z
+date: 2019-07-19T10:32:29.000+00:00
+typeName: Buchtipp
+advertisement: true
+isWerbung: false
+fileName: 2019-07---vegan-aber-guenstig.md
+slug: vegan-aber-guenstig-patrick-bolk
+errors: {}
+title: '"Vegan, aber günstig"'
+subTitle: Spartipps und Kochbuch von Patrick Bolk
+focusKeyword: Vegan, aber günstig
+affiliate: true
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-1__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-1__m.jpg
+seoTitle: Buchtipp - "Vegan, aber günstig"
 labels:
   - Bücher & Filme
   - Ernährung & Gesundheit
@@ -27,15 +35,11 @@ labels:
   - vegane Bücher
   - vegane Kochbücher
   - Ventil Verlag
-focusKeyword: Vegan, aber günstig
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Spartipps und Kochbuch von Patrick Bolk
-advertisement: true
-affiliate: true
+type: Artikel
+description: 'Ich möchte Euch zwei ganz besondere Bücher von Patrick Bolk
+  zeigen: "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber günstig -
+  das Kochbuch".'
 ---
 
 **Heute möchte ich Euch zwei ganz besondere Bücher des veganen Autoren Patrick Bolk zeigen: "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber günstig - das Kochbuch". Er stellt mit ihnen endgültig den Beweis auf, dass vegan nicht teuer sein muss.**
