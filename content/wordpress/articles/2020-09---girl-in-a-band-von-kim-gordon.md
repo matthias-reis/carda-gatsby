@@ -1,19 +1,31 @@
 ---
-date: 2020-09-04T13:12:13.000Z
-slug: girl-in-a-band-kim-gordon
-path: /2020/09/girl-in-a-band-kim-gordon/
-type: Artikel
-typeName: Rezension
-title: '"Girl In A Band" von Kim Gordon'
-seoTitle: '"Girl In A Band " von Kim Gordon - Autobiografie einer Ikone'
 ogTitle: '"Girl In A Band " von Kim Gordon - Autobiografie einer Ikone'
-description: In ihrem Buch "Girl In A Band" beschreibt die Sängerin und Künstlerin Kim Gordon ihr Leben und die Sonic Youth Bandgeschichte auf autobiografische Weise.
-excerpt: In ihrem Buch "Girl In A Band" beschreibt die Sängerin und Künstlerin Kim Gordon ihr Leben und die Sonic Youth Bandgeschichte auf autobiografische Weise.
-fileName: 2020-09---girl-in-a-band-von-kim-gordon.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-04-girl-in-a-band-01__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-04-girl-in-a-band-01__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKhAAAgIBAwMDAgcAAAAAAAAAAQIDBBEABQYSIVETMUEiMkJhYnGBkaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQF/8QAIBEAAgEDBQEBAAAAAAAAAAAAAQIDAAQRBRIxUWETkf/aAAwDAQACEQMRAD8AWNs45V27a9l3abdL3p20isGAoHUlpGUofCYQnJ1oXIdjjS7NHAsNaLqORFC2WAwfcfb3JGR5H7aoOYy14uAcYl9VYq4Mc6BlwT9UuI8Dtj+dPe/NLLbiWNw0jBx0Y7E/SR3P6h/uo7o7CcGtfTwsiA7eef3HlZ3yCvV2zZJpSxWVYmKtI+HLYJAyfnsf60j2alixO1tbguV4Spekthw7AgnJVMt3yO+PjT/z7ZdwrbFBetq8hKLBe6owPSDyIQfH3Fh29u3nS3c3CtTFaKfb6Usu3xT145pUIYEMArFjgZAOACfk+BoWMZaNiGzk90upyRyyqoGAB1V0YV3/AIDxqlNZEMprOyHAJCiR1Bwe34gAdd1nkrvWYLDYMo6nDx5Y9HVjJx4Px799GjVNyiucGptOlaNQV9qfN+Q0924/PVqR3XtWBH0qKzhezkA5PtkgE5/LWdcjtehJfF/bq81iYdaSTRyMCzFSSrL9OexGCNGjS2UKwoQvdJfzN9F8Ff/Z
+excerpt: In ihrem Buch "Girl In A Band" beschreibt die Sängerin und Künstlerin
+  Kim Gordon ihr Leben und die Sonic Youth Bandgeschichte auf autobiografische
+  Weise.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_girl-in-a-band-fb.png__l.jpg
+isAffiliate: false
+path: /2020/09/girl-in-a-band-kim-gordon/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKhAAAgIBAwMDAgcAAAAAAAAAAQIDBBEABQYSIVETMUEiMkJhYnGBkaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQF/8QAIBEAAgEDBQEBAAAAAAAAAAAAAQIDAAQRBRIxUWETkf/aAAwDAQACEQMRAD8AWNs45V27a9l3abdL3p20isGAoHUlpGUofCYQnJ1oXIdjjS7NHAsNaLqORFC2WAwfcfb3JGR5H7aoOYy14uAcYl9VYq4Mc6BlwT9UuI8Dtj+dPe/NLLbiWNw0jBx0Y7E/SR3P6h/uo7o7CcGtfTwsiA7eef3HlZ3yCvV2zZJpSxWVYmKtI+HLYJAyfnsf60j2alixO1tbguV4Spekthw7AgnJVMt3yO+PjT/z7ZdwrbFBetq8hKLBe6owPSDyIQfH3Fh29u3nS3c3CtTFaKfb6Usu3xT145pUIYEMArFjgZAOACfk+BoWMZaNiGzk90upyRyyqoGAB1V0YV3/AIDxqlNZEMprOyHAJCiR1Bwe34gAdd1nkrvWYLDYMo6nDx5Y9HVjJx4Px799GjVNyiucGptOlaNQV9qfN+Q0924/PVqR3XtWBH0qKzhezkA5PtkgE5/LWdcjtehJfF/bq81iYdaSTRyMCzFSSrL9OexGCNGjS2UKwoQvdJfzN9F8Ff/Z
+date: 2020-09-04T13:12:13.000Z
+typeName: Buchtipp
+isWerbung: false
+fileName: 2020-09---girl-in-a-band-von-kim-gordon.md
+slug: girl-in-a-band-kim-gordon
+errors: {}
+title: '"Girl In A Band" von Kim Gordon'
+subTitle: Autobiografie einer Ikone
+focusKeyword: Girl In A Band
+affiliate: true
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-04-girl-in-a-band-01__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-04-girl-in-a-band-01__m.jpg
+seoTitle: '"Girl In A Band " von Kim Gordon - Autobiografie einer Ikone'
+description: In ihrem Buch "Girl In A Band" beschreibt die Sängerin und
+  Künstlerin Kim Gordon ihr Leben und die Sonic Youth Bandgeschichte auf
+  autobiografische Weise.
+language: de
+type: Artikel
 labels:
   - Alternative
   - Antifaschismus & Feminismus
@@ -37,13 +49,6 @@ labels:
   - Rezension
   - Sonic Youth
   - X-Girl
-focusKeyword: Girl In A Band
-status: publish
-isWerbung: false
-isAffiliate: false
-language: de
-errors: {}
-subTitle: Autobiografie einer Ikone
 ---
 
 **In ihrem Buch "Girl In A Band" beschreibt die Sängerin und Künstlerin Kim Gordon ihr Leben und die Bandgeschichte von Sonic Youth auf autobiografische Art und Weise.**
@@ -88,6 +93,6 @@ Als Bassistin, Sängerin und Songwriterin war Kim Gordon das Herz von Sonic Yout
 
 Letztes Jahr veröffentlichte Kim Gordon ihr erstes Solo-Album "No Home Record". Das Stück "Murdered Out" von dieser Platte hat es 2019 auf meine [Songs des Jahres Liste](/2019/12/die-12-songs-des-jahres-2019/) geschafft.
 
-Die gebundene deutsche Ausgabe von "Girl In A Band ist unter der ISBN 9780062295897 am 2. April 2015 im Verlag Kiepenheuer &amp; Witsch erschienen.
+Die gebundene deutsche Ausgabe von "Girl In A Band ist unter der ISBN 9780062295897 am 2. April 2015 im Verlag Kiepenheuer &amp; Witsch erschienen. [Ihr könnt das Buch hier bestellen](https://amzn.to/2Xipsse).
 
 <YouTube id="8JGBNkLM9_8" />
