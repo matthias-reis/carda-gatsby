@@ -41,9 +41,7 @@ WEtell setzt auf Klimaschutz, Datenschutz und Preis-Transparenz. Auch Fairness s
 
 ## Wie funktioniert das mit dem Klimaschutz
 
-Klar, für die mobile Telefonie, das Speichern in der Cloud und den Datenverkehr, den wir mit unseren Handys erzeugen, wird jede Menge Energie gebraucht. 
-
-Um möglichst klimaneutral zu agieren, haben sich die WEtell Gründer⋆innen Möglichkeiten zum Ausgleich gesucht:
+Klar, für die mobile Telefonie, das Speichern in der Cloud und den Datenverkehr, den wir mit unseren Handys erzeugen, wird jede Menge Energie gebraucht. Um möglichst klimaneutral zu agieren, haben sich die WEtell Gründer⋆innen darum Möglichkeiten zum Ausgleich gesucht:
 
 * In Partnerschaft mit [Ecosia](/2017/02/ecosia-regenwald-schuetzen-beim-googeln/)hat WEtell bereits 2020 die ersten 570kW Solaranlagen in Deutschland bauen lassen. Damit erzeugt der Mobilfunk-Dienst mehr Ökostrom als 10. Kund⋆innen für den Betrieb ihrer kompletten Infrastruktur brauchen.
 * Emissionen möchte WEtell reduzieren und möglichst vermeiden. Weil das aber nicht ganz möglich ist, werden alle Emissionen, um die man nicht herumkommt mit carbonfuture[^1] kompensiert. Dabei wird in den Bau von Kohlenstoffsenken investiert. Bei dem konkreten Projekt, für das sich WEtell entschieden hat, wird aus Forstreststoffen Pflanzenkohle hergestellt. Diese fungiert später als nachhaltiger und ungiftiger Dünge-Zusatz. Seine dauerhafte Bindung im Boden sorgt dafür, dass der CO<sub>2</sub>-Gehalt in der Atmosphäre auf lange Sicht sinkt und die Qualität des Bodens und die Biodiversität verbessert werden.
