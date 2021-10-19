@@ -86,7 +86,7 @@ Der Ultrakurz-Tarif mit 1 GB und 100 Freiminuten kostet 15 Euro. Für jede weite
 
 Der Mittelwelle-Tarif mit 5 GB und Allnet-Flat für Telefonie und SMS ist für 20 Euro zu haben. Der Superfunk-Tarif mit 10 GB und Allnet-Flat für Telefonie und SMS für 25 Euro und der Megafon Tarif mit 20 GB und Allnet-Flat für Telefonie und SMS für 30 Euro.
 
-Für alle Tarife werden 10 Euro Bereitstellung-Gebühr berechnet. Telefoniert wird über das D-Netz, gesurft mit LTE. Ihr könnt jederzeit kündigen und zwischen den Tarifen wechseln.[Ihr könnt die Tarife hier vergleichen](https://adtr.co/34qJe1).
+Für alle Tarife werden 10 Euro Bereitstellungs-Gebühr berechnet. Telefoniert wird über das D-Netz, gesurft mit LTE. Ihr könnt jederzeit kündigen und zwischen den Tarifen wechseln.[Ihr könnt die Tarife hier vergleichen](https://adtr.co/34qJe1).
 
 ## Was/wer steckt hinter WEtell?
 
