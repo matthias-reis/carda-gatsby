@@ -94,7 +94,7 @@ Für alle Tarife werden 10 Euro Bereitstellungs-Gebühren berechnet. Telefoniert
 
 2018 hatte das Gründungsteam, bestehend aus Geschäftsführer Andi, Alma und Nico den ersten Platz beim Smart Green Accelerator Preis und den 3. Platz beim Start-up Elevator Pitch BW gewonnen. Von da an, ging es steil bergauf.
 
-Nach einer erfolgreichen Crowdfunding-Kampagne starteten sie am 15. Juli 2020 WEtell. Das Unternehmen aus Freiburg ist also noch sehr jung, blickt aber bereits auf einige starke Erfolge zurück. Bei der Gründung gaben die drei das Versprechen ab, den Mobilfunk grüner zu machen und ihren Kund⋆innen immer den besten Service zu bieten. Tele 2 stellt dafür das Netz zur Verfügung (Vodafone Netz). 
+Nach einer erfolgreichen Crowdfunding-Kampagne starteten sie am 15. Juli 2020 WEtell. Das Unternehmen aus Freiburg ist also noch sehr jung, blickt aber bereits auf einige starke Erfolge zurück. Bei der Gründung gaben die drei das Versprechen ab, den Mobilfunk grüner zu machen und ihren Kund⋆innen immer den besten Service zu bieten. Tele 2 stellt dafür das Netz zur Verfügung (Vodafone Netzabdeckung). 
 
 ## Wo kann ich mich anmelden?
 
