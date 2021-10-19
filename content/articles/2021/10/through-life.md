@@ -85,13 +85,13 @@ Mit "The Empty" hat Jason eine Ode an die Vergessenen geschrieben, die hinter ho
 
 "The Matriarch" ist das wohl gefühlvollste und ergreifendste Stück auf "Through Life". Es handelt von einer mütterlichen Person (vermutlich Jasons Mutter), die alles in ihrem Leben geopfert hat, um ihre geliebten Menschen zu beschützen.
 
-> "Ich bin dankbar für Dich. Du hast alles in Deinem Leben für mich geopfert ohne einmal nachzufragen."
+> "Ich bin dankbar für Dich. Du hast alles in Deinem Leben für mich geopfert – ohne einmal nachzufragen."
 
 ## Ein letzter, schmerzvoller Abschied
 
 Im letzten Track "The Wayward" dreht sich alles um den finalen Abschied von einem suchtkranken Menschen, der nach und nach sein wahres Gesicht zeigt und schließlich am Alkohol zugrunde geht. Diesen harten Stoff hat Jason gewandt in Melodien gehüllt und mehr als authentisch umgesetzt. Er schreit seinen Schmerz über den Verlust raus, nur um gleich wieder die Fassung zu gewinnen und zu verzeihen – indem die Wut die Oberhand gewinnt. Denn der Bruder konnte nicht anders:
 
-> "Jetzt, da Du begraben bist, würdest Du sagen, dass wir eine Familie waren und dass Du mich, Deinen Bruder liebst. Dass Blut dicker als Wasser ist. Aber dann würdest Du uns wieder ausnutzen. Man kann es nie wissen, also höre ich an dieser Stelle auf. Mit diesem finalen Abschied."
+> "Jetzt, da Du begraben bist, würdest Du sagen, dass wir eine Familie waren und dass Du mich, Deinen Bruder, liebst. Dass Blut dicker als Wasser ist. Aber dann würdest Du uns wieder ausnutzen. Man kann es nie wissen, also höre ich an dieser Stelle auf. Mit diesem finalen Abschied."
 
 Auch, wenn es oft kein gutes Ende nimmt: Die Hoffnung ist immer noch da. Das drückt "Through Life" auf einfühlsame Art und Weise aus. Jason schafft es, beim Hören die grauen Gedanken des Alltags zu vertreiben und den Fokus auf etwas anderes zu verschieben. Trotz der Tragödien aus seinem Leben, die er in seinen Songs beschreibt, bringt er Kraft und positive Vibes rüber – genau, wie ich es mir von dieser Platte erhofft hatte. Meine Erwartungen hat er dabei auf jeden Fall auch nochmal um ein gutes Stück übertroffen.
 
