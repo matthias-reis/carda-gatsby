@@ -54,7 +54,7 @@ Weil Datenschutz und das Recht auf informationelle Selbstbestimmung essenziell f
 
 > "Unser Ziel ist es, maximale Datenschutzstandards durchzusetzen und in unserer Branche ein neues Niveau zu etablieren."
 
-Das klingt doch schon mal gut. Und wie soll das funktionieren? Die Basis lautet schon mal: so wenig Daten wie möglich erheben. WEtell macht das, indem nur Daten abgefragt werden, die das Unternehmen wirklich braucht, um seinen Kund⋆innen das, was sie haben wollen, anbieten kann: Mobilfunk.
+Das klingt doch schon mal gut. Und wie soll das funktionieren? Die Grundlage dafür ist, so wenig Daten, wie möglich zu erheben. WEtell macht das, indem nur Daten abgefragt werden, die das Unternehmen wirklich braucht, um seinen Kund⋆innen das, was sie haben wollen, anbieten zu können: Mobilfunk.
 
 ## Anonymes Tracking und Verzicht auf Daten-Verknüpfung
 
