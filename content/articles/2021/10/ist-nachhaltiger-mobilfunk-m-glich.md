@@ -1,6 +1,6 @@
 ---
 date: 2021-10-19T07:48:51.969Z
-slug: we-tell-nachhaltiger-mobilfunk
+slug: wetell-nachhaltiger-mobilfunk
 typeName: Produkttest
 title: Ist nachhaltiger Mobilfunk möglich?
 subTitle: WEtell will die mobile Kommunikation grün machen
