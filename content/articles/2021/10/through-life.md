@@ -83,7 +83,7 @@ Mit "The Empty" hat Jason eine Ode an die Vergessenen geschrieben, die hinter ho
 
 > "Ich habe ihre Gesichter gesehen. Sie sehen mich an. Leer und stumm. Sie starren mit Verachtung durch mich hindurch."
 
-"The Matriarch" ist das wohl gefühlvollste und ergreifendste Stück auf "Through Life". Es handelt einer mütterlichen Person (vermutlich Jasons Mutter), die alles in ihrem Leben geopfert hat, um ihre geliebten Menschen zu beschützen.
+"The Matriarch" ist das wohl gefühlvollste und ergreifendste Stück auf "Through Life". Es handelt von einer mütterlichen Person (vermutlich Jasons Mutter), die alles in ihrem Leben geopfert hat, um ihre geliebten Menschen zu beschützen.
 
 > "Ich bin dankbar für Dich. Du hast alles in Deinem Leben für mich geopfert ohne einmal nachzufragen."
 
