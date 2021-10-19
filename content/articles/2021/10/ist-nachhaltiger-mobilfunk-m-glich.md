@@ -62,7 +62,7 @@ Das klingt doch schon mal gut. Und wie soll das funktionieren? Die Grundlage daf
 
 Weiter geht es mit dem Tracking auf der Homepage. Dafür verwendet das Mobilfunk-Start-up die Open-Source-Software Matomo, die einige von Euch vielleicht noch unter dem Namen Piwik kennen. Es wird ein Cookie erzeugt, das den Erfolg von Aktionen bewerten kann – bei gleichzeitiger Anonymisierung von Daten wie der IP-Adresse eine⋆r Seitenbesucher⋆in. Im Umkehrschluss bedeutet das: WEtell kann nicht herausfinden, wer da gerade auf der Seite surft. Facebook und Google bleiben dabei auch komplett außen vor.
 
-Ein paar Daten sind natürlich trotzdem nötig, wenn man Kund⋆innen betreuen möchte. Die Stammdaten (Geburtstag, Name und Adresse) sind bei WEtell jedoch nicht mit den Verkehrsdaten verknüpft. Sprich: Der Kund⋆innenservice sieht beim Anrufen lediglich die Nummer. Diese ist jedoch nicht mit einem Datensatz verknüpft.
+Ein paar Daten sind natürlich trotzdem nötig, wenn man Kund⋆innen betreuen möchte. Die Stammdaten (Geburtstag, Name und Adresse) sind bei WEtell jedoch nicht mit den Verkehrsdaten verknüpft. Sprich: Der Kund⋆innenservice sieht bei Anrufen lediglich die Nummer. Diese ist jedoch nicht mit einem Datensatz verknüpft.
 
 Die Daten werden bei WEtell nicht für die, wie das allgemein üblich ist, gesetzlich vorgeschriebene Maximaldauer gespeichert, sondern lediglich für den minimal möglichen Zeitraum. Hinzu kommt, dass alle Daten in Deutschland verschlüsselt gespeichert werden. Eure Daten werden laut WEtell weder verkauft noch analysiert. Soviel zu diesem Thema und wie sieht es mit der Preis-Transparenz aus?
 
