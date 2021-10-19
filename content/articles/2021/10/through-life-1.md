@@ -110,7 +110,7 @@ The record is full of gloom, introverted modesty, melancholy, anger, temperament
 
 Please check out "Through Life". You won't regret it. The complete record will be officially released at the beginning of the year.
 
-[You can read my interview with Breaths founder Jason here](/2021/02/breaths-interview-en).
+[Read my interview with Breaths founder Jason now](/2021/02/breaths-interview-en).
 
 ## Breaths - "The Elders"
 
