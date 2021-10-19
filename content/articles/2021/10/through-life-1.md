@@ -37,6 +37,12 @@ languageLink: /2021/10/19/breaths-through-life/
 ---
 **The new Breaths album "Through Life" is on its way, and it's about time that I do this feature about it. The vegan post-music project from Richmond, Virginia, has announced the record for early next year.**
 
+---
+
+**TW:** Grief, bullying, death, self-doubt, addiction
+
+---
+
 Breaths founder Jason is convinced that heavy music and veganism have a lot in common. He compares the passion, empathy, and willingness to go vegan to producing music that is not always conducive to a career. 
 
 In our [interview](/2021/02/breaths-interview-en), he revealed that dark post-music embodies the dichotomy of beauty and brutality – both can exist simultaneously. It seems the same with veganism: While you're enjoying healthy food and the fact that you don't harm any animals, it's still hard to escape the brutal images from animal agriculture.
