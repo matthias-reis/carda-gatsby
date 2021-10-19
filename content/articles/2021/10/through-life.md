@@ -65,7 +65,7 @@ Alles, was er in seinem Leben bis jetzt erfahren hat, taucht auch auf seinem zwe
 
 > "Es ist viel größer, als ich es mir jemals erträumt hätte",
 
-sagt er. Der Sound erinnert definitiv an das Vorgängeralbum "Lined In Silver", ist allerdings noch robuster geworden. Die insgesamt sechs Songs haben stimmungstechnisch einiges zu bieten. "The Elders" handelt vom Verlust geliebter Menschen in seinem Leben, von Krebs, Krankheit und Trauer. 
+sagt er. Der Sound erinnert definitiv an das Vorgängeralbum "Lined In Silver", ist allerdings noch robuster geworden. Die insgesamt sechs Songs haben nicht nur stimmungstechnisch einiges zu bieten. "The Elders" handelt vom Verlust geliebter Menschen in seinem Leben, von Krebs, Krankheit und Trauer. 
 
 > "Mit drei hatte ich schon die zwei Generationen vor mir verloren und es ging weiter bis ich 23 war – all meine Vorfahren waren gegangen."
 
