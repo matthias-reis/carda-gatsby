@@ -42,8 +42,8 @@ Klar, für die mobile Telefonie, das Speichern in der Cloud und den Datenverkehr
 
 Um möglichst klimaneutral zu agieren, haben sich die WEtell Gründer⋆innen Möglichkeiten zum Ausgleich gesucht:
 
-- In Partnerschaft mit [Ecosia](LINK)hat WEtell bereits 2020 die ersten 570kW Solaranlagen in Deutschland bauen lassen. Damit erzeugt der Mobilfunk-Dienst mehr Ökostrom als 10. Kund⋆innen für den Betrieb ihrer kompletten Infrastruktur brauchen.
-- Emissionen möchte WEtell reduzieren und möglichst vermeiden. Weil das aber nicht ganz möglich ist, werden alle Emissionen, um die man nicht herumkommt mit carbonfuture[FUSSNOTE] kompensiert. Dabei wird in den Bau von Kohlenstoffsenken investiert. Bei dem konkreten Projekt, für das sich WEtell entschieden hat, wird aus Forstreststoffen Pflanzenkohle hergestellt. Diese fungiert später als nachhaltiger und ungiftiger Dünge-Zusatz. Seine dauerhafte Bindung im Boden sorgt dafür, dass der CO<sub>2</sub>-Gehalt in der Atmosphäre auf lange Sicht sinkt und die Qualität des Bodens und die Biodiversität verbessert werden.
+- In Partnerschaft mit [Ecosia](/2017/02/ecosia-regenwald-schuetzen-beim-googeln/)hat WEtell bereits 2020 die ersten 570kW Solaranlagen in Deutschland bauen lassen. Damit erzeugt der Mobilfunk-Dienst mehr Ökostrom als 10. Kund⋆innen für den Betrieb ihrer kompletten Infrastruktur brauchen.
+- Emissionen möchte WEtell reduzieren und möglichst vermeiden. Weil das aber nicht ganz möglich ist, werden alle Emissionen, um die man nicht herumkommt mit carbonfuture[^1] kompensiert. Dabei wird in den Bau von Kohlenstoffsenken investiert. Bei dem konkreten Projekt, für das sich WEtell entschieden hat, wird aus Forstreststoffen Pflanzenkohle hergestellt. Diese fungiert später als nachhaltiger und ungiftiger Dünge-Zusatz. Seine dauerhafte Bindung im Boden sorgt dafür, dass der CO<sub>2</sub>-Gehalt in der Atmosphäre auf lange Sicht sinkt und die Qualität des Bodens und die Biodiversität verbessert werden.
 
 Weitere Punkte, an denen bei WEtell gearbeitet wird, sind ein möglichst grüner Betrieb der Büroeinheiten (Ökostrom), Dienstreisen mit der Bahn statt dem Flugzeug und die sorgfältige Wahl der Partner⋆innen und Dienstleistungsfirmen. Außerdem engagiert sich das Team bei Fridays for Future, Entrepreneurs for Future und Unternehmensgrün. Das ist doch schon mal eine ganze Menge mehr, als andere machen, oder?
 
@@ -75,15 +75,15 @@ In genauen Zahlen bedeutet das (Stand heute):
 - Mobilfunk 56 Prozent
 - Unternehmensaufbau 18 Prozent
 
-Alle Zahlen findet Ihr auch auf der [WEtell Webseite](LINK)
+Alle Zahlen findet Ihr auch auf der [WEtell Webseite](https://adtr.co/52uDP0)
 
-Unterschieden wird dabei zwischen [Privattarifen](LINK) und [Unternehmenstarifen](LINK). Die Privattarife bewegen sich zwischen 15 und 30 Euro im Monat.
+Unterschieden wird dabei zwischen [Privattarifen](https://adtr.co/34qJe1) und [Unternehmenstarifen](https://adtr.co/KgJ4Wd). Die Privattarife bewegen sich zwischen 15 und 30 Euro im Monat.
 
 Der Ultrakurz-Tarif mit 1 GB und 100 Freiminuten kostet 15 Euro. Für jede weitere Minute fallen 19 Cent an, für SMS je 9 Cent.
 
 Der Mittelwelle-Tarif mit 5 GB und Allnet-Flat für Telefonie und SMS ist für 20 Euro zu haben. Der Superfunk-Tarif mit 10 GB und Allnet-Flat für Telefonie und SMS für 25 Euro und der Megafon Tarif mit 20 GB und Allnet-Flat für Telefonie und SMS für 30 Euro.
 
-Für alle Tarife werden 10 Euro Bereitstellung-Gebühr berechnet. Telefoniert wird über das D-Netz, gesurft mit LTE. Ihr könnt jederzeit kündigen und zwischen den Tarifen wechseln.[Ihr könnt die Tarife hier vergleichen](LINK).
+Für alle Tarife werden 10 Euro Bereitstellung-Gebühr berechnet. Telefoniert wird über das D-Netz, gesurft mit LTE. Ihr könnt jederzeit kündigen und zwischen den Tarifen wechseln.[Ihr könnt die Tarife hier vergleichen](https://adtr.co/34qJe1).
 
 ## Was/wer steckt hinter WEtell?
 
@@ -92,4 +92,6 @@ Für alle Tarife werden 10 Euro Bereitstellung-Gebühr berechnet. Telefoniert wi
 Nach einer erfolgreichen Crowdfunding-Kampagne starteten sie am 15. Juli 2020 WEtell. Das Unternehmen aus Freiburg ist also noch sehr jung, blickt aber bereits auf einige starke Erfolge zurück. Bei der Gründung gaben die drei das Versprechen ab, den Mobilfunk grüner zu machen und ihren Kund⋆innen immer den besten Service zu bieten. Tele 2 stellt dafür das Netz zur Verfügung. 
 
 ## Wo kann ich mich anmelden?
-Habt Ihr Interesse bekommen? Das Ummelden von Euren derzeitigen Dienst zu WEtell funktioniert ganz einfach. [Ihr sucht Euch hier Euren Wunsch-Tarif aus](LINK) und schon wird alles in die Wege geleitet. Eure aktuelle Rufnummer könnt Ihr dabei einfach mitnehmen.
+Habt Ihr Interesse bekommen? Das Ummelden von Euren derzeitigen Dienst zu WEtell funktioniert ganz einfach. [Ihr sucht Euch hier Euren Wunsch-Tarif aus](https://adtr.co/34qJe1) und schon wird alles in die Wege geleitet. Eure aktuelle Rufnummer könnt Ihr dabei einfach mitnehmen.
+
+[^1]: [carbonfuture](https://www.carbonfuture.earth/)
