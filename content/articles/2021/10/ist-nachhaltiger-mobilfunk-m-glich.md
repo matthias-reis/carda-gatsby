@@ -39,7 +39,7 @@ Geworben wird mit dem Slogan "Mobilfunk geht auch nachhaltig". Soweit so gut. Un
 
 WEtell setzt auf Klimaschutz, Datenschutz und Preis-Transparenz. Auch Fairness steht beim nachhaltigen Mobilfunk-Service ganz oben. Darum werden nicht nur die Mitarbeiter⋆innen fair bezahlt. Die Mobil-Tarife sind monatlich kündbar, es gibt keine Lockangebote und versteckte Kosten und in Zukunft sollen die Preise für alle Kund⋆innen von WEtell gleich sein. Der Kund⋆innenservice erfolgt ganz persönlich. Anders, als bei anderen Anbieter⋆innen, steht die Telefonnummer dick auf der Startseite der Homepage. Wenn Ihr anruft, habt Ihr keinen Sprach-Roboter am Telefon, sondern einen echten Menschen. Das funktioniert ziemlich gut und schnell – Ich habe es zweimal ausprobiert und wurde zweimal sehr höflich begrüßt und beraten.
 
-## Wie funktioniert das mit dem Klimaschutz
+## Wie funktioniert das mit dem Klimaschutz?
 
 Klar, für die mobile Telefonie, das Speichern in der Cloud und den Datenverkehr, den wir mit unseren Handys erzeugen, wird jede Menge Energie gebraucht. Um möglichst klimaneutral zu agieren, haben sich die WEtell Gründer⋆innen darum Möglichkeiten zum Ausgleich gesucht:
 
