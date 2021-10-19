@@ -103,7 +103,7 @@ Für mich ist "Trough Life" ein gelungenes zweites Album und ein Hörgenuss in j
 
 ## Emotionen und Mitgefühl
 
-Emotionale, vielschichtige, harte und tiefgründige Musik – wenn Euch diese Beschreibung anspricht, könnte "Through Life" ein Anwärter für Eure Platte des Jahres 2022 sein. Jason hat die den Moment vertont, in dem die Gefühle zu einer Achterbahn werden, die einen vom Tiefenrausch mit Schallgeschwindigkeit in den Orbit schießt und wieder zurückholt.
+Emotionale, vielschichtige, harte und tiefgründige Musik – wenn Euch diese Beschreibung anspricht, könnte "Through Life" ein Anwärter für Eure Platte des Jahres 2022 sein. Jason hat den Moment vertont, in dem die Gefühle zu einer Achterbahn werden, die einen vom Tiefenrausch mit Schallgeschwindigkeit in den Orbit schießt und wieder zurückholt.
 
 Die Platte steckt voller Düsternis, introvertierter Schüchternheit, Melancholie und zugleich Wut, Temperament und Wortgewandtheit. Was das Leben wirklich ausmacht: Hoffnung, Liebe und Mitgefühl wird dabei greifbar und scheint nicht mehr ganz so weit entfernt und irgendwie ein Stück realer.
 
