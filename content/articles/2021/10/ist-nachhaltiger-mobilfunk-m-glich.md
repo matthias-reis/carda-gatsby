@@ -34,6 +34,9 @@ language: de
 Geworben wird mit dem Slogan "Mobilfunk geht auch nachhaltig". Soweit so gut. Und wie soll das funktionieren und wodurch unterscheidet sich WEtell von anderen Mobilfunk-Angeboten? Was steckt dahinter? Wie sieht es mit dem Datenschutz aus? Eine Frage nach der anderen. Ich fange mal mit "Wie soll das funktionieren und wo liegt der Unterschied?" an.
 
 ## Wie funktioniert WEtell und wo liegt der Unterschied zu herkömmlichen Mobilfunk-Diensten?
+
+![Mit WEtell soll grüner Mobilfunk möglich werden. Grafik: WEtell](/img/wetell-1-.jpg "Mit WEtell soll grüner Mobilfunk möglich werden. Grafik: WEtell")
+
 WEtell setzt auf Klimaschutz, Datenschutz und Preis-Transparenz. Auch Fairness steht beim nachhaltigen Mobilfunk-Service ganz oben. Darum werden nicht nur die Mitarbeiter⋆innen fair bezahlt. Die Mobil-Tarife sind monatlich kündbar, es gibt keine Lockangebote und versteckte Kosten und in Zukunft sollen die Preise für alle Kund⋆innen von WEtell gleich sein. Der Kund⋆innenservice erfolgt ganz persönlich. Anders, als bei anderen Anbieter⋆innen, steht die Telefonnummer dick auf der Startseite der Homepage. Wenn Ihr anruft, habt Ihr keinen Sprach-Roboter am Telefon, sondern einen echten Menschen. Das funktioniert ziemlich gut und schnell – Ich habe es zweimal ausprobiert und wurde zweimal sehr höflich begrüßt und beraten.
 
 ## Wie funktioniert das mit dem Klimaschutz
@@ -42,8 +45,8 @@ Klar, für die mobile Telefonie, das Speichern in der Cloud und den Datenverkehr
 
 Um möglichst klimaneutral zu agieren, haben sich die WEtell Gründer⋆innen Möglichkeiten zum Ausgleich gesucht:
 
-- In Partnerschaft mit [Ecosia](/2017/02/ecosia-regenwald-schuetzen-beim-googeln/)hat WEtell bereits 2020 die ersten 570kW Solaranlagen in Deutschland bauen lassen. Damit erzeugt der Mobilfunk-Dienst mehr Ökostrom als 10. Kund⋆innen für den Betrieb ihrer kompletten Infrastruktur brauchen.
-- Emissionen möchte WEtell reduzieren und möglichst vermeiden. Weil das aber nicht ganz möglich ist, werden alle Emissionen, um die man nicht herumkommt mit carbonfuture[^1] kompensiert. Dabei wird in den Bau von Kohlenstoffsenken investiert. Bei dem konkreten Projekt, für das sich WEtell entschieden hat, wird aus Forstreststoffen Pflanzenkohle hergestellt. Diese fungiert später als nachhaltiger und ungiftiger Dünge-Zusatz. Seine dauerhafte Bindung im Boden sorgt dafür, dass der CO<sub>2</sub>-Gehalt in der Atmosphäre auf lange Sicht sinkt und die Qualität des Bodens und die Biodiversität verbessert werden.
+* In Partnerschaft mit [Ecosia](/2017/02/ecosia-regenwald-schuetzen-beim-googeln/)hat WEtell bereits 2020 die ersten 570kW Solaranlagen in Deutschland bauen lassen. Damit erzeugt der Mobilfunk-Dienst mehr Ökostrom als 10. Kund⋆innen für den Betrieb ihrer kompletten Infrastruktur brauchen.
+* Emissionen möchte WEtell reduzieren und möglichst vermeiden. Weil das aber nicht ganz möglich ist, werden alle Emissionen, um die man nicht herumkommt mit carbonfuture[^1] kompensiert. Dabei wird in den Bau von Kohlenstoffsenken investiert. Bei dem konkreten Projekt, für das sich WEtell entschieden hat, wird aus Forstreststoffen Pflanzenkohle hergestellt. Diese fungiert später als nachhaltiger und ungiftiger Dünge-Zusatz. Seine dauerhafte Bindung im Boden sorgt dafür, dass der CO<sub>2</sub>-Gehalt in der Atmosphäre auf lange Sicht sinkt und die Qualität des Bodens und die Biodiversität verbessert werden.
 
 Weitere Punkte, an denen bei WEtell gearbeitet wird, sind ein möglichst grüner Betrieb der Büroeinheiten (Ökostrom), Dienstreisen mit der Bahn statt dem Flugzeug und die sorgfältige Wahl der Partner⋆innen und Dienstleistungsfirmen. Außerdem engagiert sich das Team bei Fridays for Future, Entrepreneurs for Future und Unternehmensgrün. Das ist doch schon mal eine ganze Menge mehr, als andere machen, oder?
 
@@ -57,6 +60,8 @@ Das klingt doch schon mal gut. Und wie soll das funktionieren? Die Basis lautet 
 
 ## Anonymes Tracking und Verzicht auf Daten-Verknüpfung
 
+![Bei WEtell wird nur anonym getrackt. Foto: WEtell](/img/wetell-2-.jpg "Bei WEtell wird nur anonym getrackt. Foto: WEtell")
+
 Weiter geht es mit dem Tracking auf der Homepage. Dafür verwendet das Mobilfunk-Start-up die Open-Source-Software Matomo, die einige von Euch vielleicht noch unter dem Namen Piwik kennen. Es wird ein Cookie erzeugt, das den Erfolg von Aktionen bewerten kann – bei gleichzeitiger Anonymisierung von Daten wie der IP-Adresse eine⋆r Seitenbesucher⋆in. Im Umkehrschluss bedeutet das: WEtell kann nicht herausfinden, wer da gerade auf der Seite surft. Facebook und Google bleiben dabei auch komplett außen vor.
 
 Ein paar Daten sind natürlich trotzdem nötig, wenn man Kund⋆innen betreuen möchte. Die Stammdaten (Geburtstag, Name und Adresse) sind bei WEtell jedoch nicht mit den Verkehrsdaten verknüpft. Sprich: Der Kund⋆innenservice sieht beim Anrufen lediglich die Nummer. Diese ist jedoch nicht mit einem Datensatz verknüpft.
@@ -69,11 +74,11 @@ Zusammengefasst werden beim nachhaltigen Mobilfunk-Service derzeit mehr als 25 P
 
 In genauen Zahlen bedeutet das (Stand heute):
 
-- Klimaschutz 9,5 Prozent
-- Fairness & Transparenz 12 Prozent
-- Datenschutz 4,5 Prozent
-- Mobilfunk 56 Prozent
-- Unternehmensaufbau 18 Prozent
+* Klimaschutz 9,5 Prozent
+* Fairness & Transparenz 12 Prozent
+* Datenschutz 4,5 Prozent
+* Mobilfunk 56 Prozent
+* Unternehmensaufbau 18 Prozent
 
 Alle Zahlen findet Ihr auch auf der [WEtell Webseite](https://adtr.co/52uDP0)
 
@@ -87,11 +92,14 @@ Für alle Tarife werden 10 Euro Bereitstellung-Gebühr berechnet. Telefoniert wi
 
 ## Was/wer steckt hinter WEtell?
 
+![Andi, Alma und Nico haben WEtell gegründet. Foto: WEtell](/img/wetell-gruendungsteam.jpg "Andi, Alma und Nico haben WEtell gegründet. Foto: WEtell")
+
 2018 hatte das Gründungsteam, bestehend aus Geschäftsführer Andi, Alma und Nico den ersten Platz beim Smart Green Accelerator Preis und den 3. Platz beim Start-up Elevator Pitch BW gewonnen. Von da an, ging es steil bergauf.
 
 Nach einer erfolgreichen Crowdfunding-Kampagne starteten sie am 15. Juli 2020 WEtell. Das Unternehmen aus Freiburg ist also noch sehr jung, blickt aber bereits auf einige starke Erfolge zurück. Bei der Gründung gaben die drei das Versprechen ab, den Mobilfunk grüner zu machen und ihren Kund⋆innen immer den besten Service zu bieten. Tele 2 stellt dafür das Netz zur Verfügung. 
 
 ## Wo kann ich mich anmelden?
+
 Habt Ihr Interesse bekommen? Das Ummelden von Euren derzeitigen Dienst zu WEtell funktioniert ganz einfach. [Ihr sucht Euch hier Euren Wunsch-Tarif aus](https://adtr.co/34qJe1) und schon wird alles in die Wege geleitet. Eure aktuelle Rufnummer könnt Ihr dabei einfach mitnehmen.
 
 [^1]: [carbonfuture](https://www.carbonfuture.earth/)
