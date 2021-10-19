@@ -42,7 +42,7 @@ Im [Interview](/2021/02/breaths-interview/) verriet er mir, dass düstere Post-M
 
 ![Breaths – "Through Life"](/img/breaths-though-life...-cover-art.png "Breaths – \\"Through Life\\"")
 
-Mit seiner Musik bringt Jason Roberts aka Breaths genau das zum Ausdruck. Seine Vorbilder Cattle Decapitation und Earth Crisis, die ihm in den 1990ern bereits zeigten, dass der Veganismus starke Wurzeln in der extremen Musik besitzt, hört man seinen Songs genauso an, wie die vielfältigen Welten von Bands wie (The Ocean)\[/2020/09/the-ocean-robin-staps-interview/], (Deftones)\[/tag/deftones], Sleep Token und Holy Fawn.
+Mit seiner Musik bringt Jason Roberts aka Breaths genau das zum Ausdruck. Seine Vorbilder Cattle Decapitation und Earth Crisis, die ihm in den 1990ern bereits zeigten, dass der Veganismus starke Wurzeln in der extremen Musik besitzt, hört man seinen Songs genauso an, wie die vielfältigen Welten von Bands wie \[The Ocean](/2020/09/the-ocean-robin-staps-interview/), \[Deftones](/tag/deftones), Sleep Token und Holy Fawn.
 
 Auf seiner neue Platte "Through Life" erzählt Jason seine ganz persönliche Geschichte. Sie handelt nicht nur – wie das [hier bereits vorgestellte Stück "The Forgotten Ones"](/2021/01/breaths-the-forgotten-ones/) von seinem ersten Album "Lined In Silver" – von seinem veganen Lebensstil und seinen Überlegungen zum Themen wie verzerrter Moral und kognitiver Dissonanz.
 
