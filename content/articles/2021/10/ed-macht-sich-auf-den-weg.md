@@ -56,7 +56,7 @@ Natürlich hat Feuerwear auch beim neuen Modell wieder voll auf Nachhaltigkeit g
 
 "Ed" ist keine klassische [Handtasche](/2019/09/feuerwear-feminine-kollektion/) und auch keine Aktentasche oder etwas in die Richtung. Ich würde ihn als eine Art Hybrid aus beidem bezeichnen – mit einer guten Dosis Freizeit-Bag. Das Unisex-Modell passt zu allen, die gerne eine robuste Tasche dabeihaben, in die zur Not auch noch ein paar Einkäufe mit reingehen. Das funktioniert sehr gut. Insgesamt beträgt der Stauraum 16,5 Liter. Das sieht man der schlanken Tasche gar nicht an, oder?
 
-Wenn Ihr "Ed" nach dem Einkaufen komplett vollgestopft nach Hause tragt, könnt ihr das Rolltop komplett ausgerollt lassen. Oben dran befindet sich ein Reißverschluss – zu ist Euer Bag dann also trotzdem. Wenn Ihr das Rolltop mal nicht komplett ausnutzen braucht, rollt Ihr es einfach zusammen und macht es mit dem Clip an der Seite fest.
+Wenn Ihr "Ed" nach dem Einkaufen komplett vollgestopft nach Hause tragt, könnt Ihr das Rolltop komplett ausgerollt lassen. Oben dran befindet sich ein Reißverschluss – zu ist Euer Bag dann also trotzdem. Wenn Ihr das Rolltop mal nicht komplett ausnutzen braucht, rollt Ihr es einfach zusammen und macht es mit dem Clip an der Seite fest.
 
 Die beiden Reißverschlussfächer auf der Außenseite nutze ich für Kleinkram wie meine Geldbörse, mein Handy und Taschentücher. Ihr könnt aber auch ohne Probleme etwas größere Dinge darin unterbringen. Im Innenraum gibt es dann hinten noch ein Einsteckfach für Euren Laptop oder Dokumente, die nicht geknickt werden sollen.
 
