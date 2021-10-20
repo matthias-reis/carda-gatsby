@@ -40,7 +40,7 @@ language: de
 
 In einer Woche findet Ihr "Ed" die Rolltop-Tasche im Feuerwear Onlineshop. Ich stelle sie Euch heute schon mal vor – lesen lohnt sich, denn es handelt sich nicht um eine gewöhnliche Tasche, sondern um ein echtes Highlight, das Eure täglichen Ausflüge praktischer macht – dazu wurde "Ed" auch entwickelt.
 
-Als "Ed" bei mir ankam, habe ich sofort mal probiert, was alles in ihn reinpasst. Zehn Taschenbücher oder ein Laptop mit Kabel + Handy, Notizbuch, Trinkflasche, Pausenbrot und 1-Liter-Trinkflasche sind schon eine ganze Menge, oder?
+Als "Ed" bei mir ankam, habe ich sofort mal probiert, was alles in ihn reinpasst. Zehn Taschenbücher oder ein Laptop mit Kabel plus Handy, Notizbuch, Trinkflasche, Pausenbrot und 1-Liter-Trinkflasche sind schon eine ganze Menge, oder?
 
 ## Die Rolltop-Tasche "Ed" ist ein Raumwunder
 
