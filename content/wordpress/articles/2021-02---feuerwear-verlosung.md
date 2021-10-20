@@ -72,4 +72,4 @@ Ihr habt genug gelesen und möchtet das tolle Portemonnaie-Pärchen gerne gewinn
 
 [Hier geht es zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 
-[^4]: [Homepage Feuerwear](https://www.feuerwear.de/unsere-aktionen/valentins-edition)
+[^1]: [Homepage Feuerwear](https://www.feuerwear.de/unsere-aktionen/valentins-edition)
