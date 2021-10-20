@@ -64,7 +64,7 @@ Die beiden Reißverschlussfächer auf der Außenseite nutze ich für Kleinkram w
 
 Wie alle Feuerwear Produkte ist auch jedes "Ed" Exemplar ein echtes Unikat. Klar – jeder Feuerwehrschlauch hat unterschiedliche Aufdrucke und Gebrauchsspuren. Dafür ist der Rolltop-Bag aber auch so gut wie unzerstörbar und wasserabweisend.
 
-Wenn Ihr jetzt auch mit "Ed" liebäugelt, habe ich hier noch ein paar harte Fakten für Euch: Die Tasche ist 38 Zentimeter breit, 13 Zentimeter tief und zwischen 27 und 41 Zentimetern hoch – je nachdem, wie weit Ihr das Rolltop heruntergerollt habt. Genau wie alle Taschen von Feuerwear, wird es den Bag in Rot, Schwarz und Weiß geben – diese Farben haben die Feuerwehrschläuche hierzulande. Ab dem 27. Oktober könnt Ihr ihn für 149 Euro [im Feuerwear Onlineshop erstehen](https://www.feuerwear.de/shop/).
+Wenn Ihr jetzt auch mit "Ed" liebäugelt, habe ich hier noch ein paar harte Fakten für Euch: Die Tasche ist 38 Zentimeter breit, 13 Zentimeter tief und zwischen 27 und 41 Zentimetern hoch – je nachdem, wie weit Ihr das Rolltop heruntergerollt habt. Genau wie alle Taschen von Feuerwear, wird es den Bag in rot, schwarz und weiß geben – diese Farben haben die Feuerwehrschläuche hierzulande. Ab dem 27. Oktober könnt Ihr ihn für 149 Euro [im Feuerwear Onlineshop erstehen](https://www.feuerwear.de/shop/).
 
 <Gallery name="feuerwear-ed-2" />
 
