@@ -33,7 +33,7 @@ focusKeyword: Through Life
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2021/10/19/breaths-through-life/
+languageLink: /2021/10/breaths-through-life/
 ---
 **The new Breaths album "Through Life" is on its way, and it's about time that I do this feature about it. The vegan post-music project from Richmond, Virginia, has announced the record for early next year.**
 
