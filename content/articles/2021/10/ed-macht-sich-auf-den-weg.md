@@ -68,3 +68,5 @@ Wenn Ihr jetzt auch mit "Ed" liebäugelt, habe ich hier noch ein paar harte Fakt
 
 <Gallery name="feuerwear-ed-2" />
 
+**Hinweis:** Der Schlüsselanhänger aus Feuerwehrschlauch auf meinen Fotos ist nicht Teil der Tasche! [Infos dazu findet Ihr hier](/2019/09/feuerwear-feminine-kollektion/).
+
