@@ -44,7 +44,7 @@ Als "Ed" bei mir ankam, habe ich sofort mal probiert, was alles in ihn reinpasst
 
 ## Die Rolltop-Tasche "Ed" ist ein Raumwunder
 
-Insgesamt hat "Ed" vier Fächer, in denen ihr alles verstauen könnt, was Ihr den Tag über braucht. Bei mir ist das in der Regel auch Lesestoff. Ohne den steige ich gar nicht erst in die U-Bahn. Und je nach Ziel und Dauer meines Ausflugs kommen dann natürlich auch so praktische Dinge wie meine Regenjacke, Handschuhe und ein Schirm dazu. "Ed" nimmt das einfach ganz locker auf. Trotzdem trägt er, finde ich, kein bisschen dick auf, oder?
+Insgesamt hat "Ed" vier Fächer, in denen Ihr alles verstauen könnt, was Ihr den Tag über braucht. Bei mir ist das in der Regel auch Lesestoff. Ohne den steige ich gar nicht erst in die U-Bahn. Und je nach Ziel und Dauer meines Ausflugs kommen dann natürlich auch so praktische Dinge wie meine Regenjacke, Handschuhe und ein Schirm dazu. "Ed" nimmt das einfach ganz locker auf. Trotzdem trägt er, finde ich, kein bisschen dick auf, oder?
 
 <Gallery name="feuerwear-ed-1" />
 
