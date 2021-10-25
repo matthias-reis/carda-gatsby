@@ -11,7 +11,7 @@ description: Vor ein paar Tagen, schrieb mir Dani von Arvensis und teilte mir
   die gute Nachricht mit, dass das neue Album "Do No Harm" fertig ist. Ich habe
   meine Chance ergriffen und Dani ein paar Fragen dazu gestellt, um unser
   Interview von November 2020 fortzuführen.
-image: /img/arvensis-do-no-harm-3-.jpg
+image: /img/arvensis-dani.jpg
 copyrigt: Arvensis
 labels:
   - Arvensis
