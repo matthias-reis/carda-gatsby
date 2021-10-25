@@ -48,7 +48,7 @@ languageLink: /2021/10/awakened-souls-en/
 
 **Anne:** Wie war es mit [Kévin](/2020/04/from-overseas-interview/) zu arbeiten? Wie habt Ihr Euch kennengelernt?
 
-**Cynthia:** Ich habe mich kurz nachdem er 2020 sein Album "Home" veröffentlichte bei Kévin gemeldet. Ich habe ihm einfach erzählt, dass ich auch auf Guitar-Reversing stehe. Wir haben dann schnell festgestellt, dass uns unsere innige Liebe zu Radiohead miteinander verbinden und ich wusste sofort, dass es der Beginn einer guten Freundschaft war. Als James auch noch dazu kam, war klar, dass uns eine einzigartige Kollaboration bevorstand. Wir sind inzwischen eng miteinander befreundet. James und ich sind beide sehr inspiriert von der Aufmerksamkeit, die Kévin in jedes Detail steckt. Seine Passion und sein Antrieb sind faszinierend.
+**Cynthia:** Ich habe mich kurz nachdem er 2020 sein Album "Home" veröffentlicht hatte, bei Kévin gemeldet. Ich habe ihm einfach erzählt, dass ich auch auf Guitar-Reversing stehe. Wir haben dann schnell festgestellt, dass uns unsere innige Liebe zu Radiohead miteinander verbinden und ich wusste sofort, dass es der Beginn einer guten Freundschaft war. Als James auch noch dazu kam, war klar, dass uns eine einzigartige Kollaboration bevorstand. Wir sind inzwischen eng miteinander befreundet. James und ich sind beide sehr inspiriert von der Aufmerksamkeit, die Kévin in jedes Detail steckt. Seine Passion und sein Antrieb sind faszinierend.
 
 **Anne:** Wodurch unterscheidet sich das Album sich von denen, die Ihr zuvor aufgenommen habt?
 
