@@ -61,9 +61,9 @@ languageLink: /2021/10/awakened-souls/
 
 **Cynthia:** As we began talking about what our concept was for the album as a whole, Joseph Campell's Hero's Journey came to my mind and soon, we realized that KTOS was our own interpretation of the many stages we go through as humans. I had been reading Maya Angelou during this time, and her classic poem, "Still I Rise", became the origin of this song's name. 
 
-> "Just like moons and like suns
-> With the certainty of tides
-> Just like hopes springing high
+> "Just like moons and like suns<br />
+> With the certainty of tides<br />
+> Just like hopes springing high<br />
 > Still I'll rise."  
 
 This passage acted as a source of comfort for me during some pretty uncertain times. This poem definitely had an influence on our song title "Rise" as well. 
