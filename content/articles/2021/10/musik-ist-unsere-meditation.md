@@ -71,8 +71,8 @@ languageLink: /2021/10/awakened-souls-en/
 > "Just like moons and like suns
 > With the certainty of tides
 > Just like hopes springing high
-> Still I'll rise." 
->
+> Still I'll rise."
+> 
 > ("Genau wie Monde und Sonnen
 > Mit der Gewissheit der Gezeiten
 > Wie die aufkeimende Hoffnung
