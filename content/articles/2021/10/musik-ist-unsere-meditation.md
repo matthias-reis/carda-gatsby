@@ -102,10 +102,11 @@ Unseren Bandnamen awakened souls haben wir seit 2017. Er hat mit unserer Verbind
 
 **Anne:** Vielen Dank für das sympathische Interview!
 
-## awakened Souls & From Overseas – "Keep The Orange Sun"
-
-<YouTube id="9hpPl-5nTdo" />
 
 [Hier könnt Ihr meine Review zu "Keep The Orange Sun" lesen](/2021/09/keep-the-orange-sun/).
 
 [Hier geht's zum Interview mit Kévin Séry](/2020/04/from-overseas-interview/).
+
+## awakened Souls & From Overseas – "Keep The Orange Sun"
+
+<YouTube id="9hpPl-5nTdo" />
