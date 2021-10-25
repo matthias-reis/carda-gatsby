@@ -72,7 +72,7 @@ This passage acted as a source of comfort for me during some pretty uncertain ti
 
 ## "Music is our meditation"
 
-**James:** Music has always been my way to ease my mind. Back in the early 1990s, when I first started composing music, I was going through some heavy moments in my life, and music became my only way to work through the complex parts. I would write songs and listen to them on repeat all night to help me sleep and calm my thoughts, and that hasn't changed. A lot of musicians I know don't like to listen to their own music. So for me, that is the reason I make it. To listen to and meditate to. 
+**James:** Music has always been my way to ease my mind. Back in the early 1990s, when I first started composing music, I was going through some heavy moments in my life, and music became my only way to work through the complex parts. I would write songs and listen to them on repeat all night to help me sleep and calm my thoughts, and that hasn't changed. A lot of musicians I know don't like to listen to their own music. For me, that is the reason I make it. To listen to and meditate to. 
 
 **Cynthia:** Yes, I meditate. I don't follow the exact same schedule every day. Still, I always find time to sit and take in the present moment, whether on my cushion, in nature,  mindfully sitting/laying down and listening to music, through guided meditation, or walking meditation. Creating music is another way for me to directly link up with the present moment - I get fully immersed, and time stands still. It is such a beautiful contrast to go to that land of creation while the rest of my life is so much about being there for my large family, which can feel fast-paced and filled with varying emotions of having five teens.
 
