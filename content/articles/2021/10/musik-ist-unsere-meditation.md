@@ -108,4 +108,4 @@ Unseren Bandnamen awakened souls haben wir seit 2017. Er hat mit unserer Verbind
 
 [Hier könnt Ihr meine Review zu "Keep The Orange Sun" lesen](/2021/09/keep-the-orange-sun/).
 
-\[/2020/04/from-overseas-interview/](Hier geht's zum Interview mit Kévin Séry)
+[/2020/04/from-overseas-interview/](Hier geht's zum Interview mit Kévin Séry)
