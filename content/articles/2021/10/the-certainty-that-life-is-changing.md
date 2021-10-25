@@ -92,10 +92,10 @@ Our band name awakened souls started in 2017 and came from our connection to Bud
 
 **Anne:** Thank you very much for this sympathetic interview! It was nice getting to know you guys!
 
-## awakened Souls & From Overseas – "Keep The Orange Sun"
-
-<YouTube id="9hpPl-5nTdo" />
-
 [Read my review on "Keep The Orange Sun" now](/2021/09/keep-the-orange-sun-en/).
 
 [You can find my interview with Kévin Séry here](/2020/04/from-overseas-interview-en).
+
+## awakened Souls & From Overseas – "Keep The Orange Sun"
+
+<YouTube id="9hpPl-5nTdo" />
