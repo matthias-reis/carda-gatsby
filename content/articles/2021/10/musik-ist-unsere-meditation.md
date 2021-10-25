@@ -29,7 +29,6 @@ labels:
   - awakened souls
   - Post-Music
   - Past Inside The Present
-  - La Réunion
   - Interview
   - Interviews
 focusKeyword: awakened souls
