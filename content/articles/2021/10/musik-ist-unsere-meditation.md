@@ -56,7 +56,7 @@ languageLink: /2021/10/awakened-souls-en/
 
 ![James, Cynthia und Kévin](/img/awakened-souls-from-overseas.png "James, Cynthia und Kévin")
 
-**Cynthia und James:** Wir haben alle drei völlig unterschiedliche musikalische Hintergründe. Es war also klar, dass diese Kooperation etwas ganz anderes werden würde. Wir wollten mehr als nur Ambient machen. Das hat dazu geführt, dass wir IDM, Shoegaze und neoklassische Elemente mit eingebracht haben, die in unserer Musik vorher nicht vorgekommen sind. Neue Ausdrucksformen sind plötzlich und völlig natürlich aufgetaucht und wir waren bereit, uns darauf einzulassen.
+**Cynthia und James:** Wir haben alle drei völlig unterschiedliche musikalische Hintergründe. Es war also klar, dass diese Kooperation etwas ganz eigenes werden würde. Wir wollten mehr als nur Ambient machen. Das hat dazu geführt, dass wir IDM, Shoegaze und neoklassische Elemente mit eingebracht haben, die in unserer Musik vorher nicht vorgekommen sind. Neue Ausdrucksformen sind plötzlich und völlig natürlich aufgetaucht und wir waren bereit, uns darauf einzulassen.
 
 **Anne:** Eure Kombination von Elementen aus der Electronic, Shoegaze und Ambient Welt sorgen für einen harmonischen und einzigartigen Stil. Hattet Ihr das vor, als Ihr angefangen habt, die Platte aufzunehmen? Oder ist das mehr wie einglücklicher Zufall, dass die Genres, in denen Ihr Euch wohlfühlt, so gut zusammenpassen?
 
