@@ -62,7 +62,9 @@ With "Open Heart", From Overseas and awakened souls, open our hearts by giving o
 
 "Migration" surprises me with its playful nature. The piece enchants me and forms the perfect transition to the dreamlike finale "Passing Dreams". I am letting the thoughts pass by as they come, not holding on to them anymore.
 
-If you are curious, you can [read my interview with Kévin Séry aka From Overseas here](/2020/04/from-overseas-interview-en).
+[You can find my interview with awakened souls here](/2021/10/awakened-souls-en/).
+
+[Read my interview with Kévin Séry aka From Overseas here](/2020/04/from-overseas-interview-en).
 
 ## awakened souls & From Overseas – Certainty Of Tides
 
