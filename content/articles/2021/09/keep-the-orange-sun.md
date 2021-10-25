@@ -37,7 +37,7 @@ Hinter awakened souls steckt ein musikalisches Paar aus Los Angeles. Die beiden 
 
 Was dabei herausgekommen ist, ist magisch. In der Musik spiegeln sich die intensiven Gespräche der drei Künstler⋆innen wider, die sie bei ihren ersten Begegnungen zu ihren gemeinsamen musikalischen Einflüssen und Inspirationen geführt haben.
 
-![From Overseas & awakened souls – "Keep The Orange Sun"](/img/keep-the-orange-sun.jpg "From Overseas & awakened souls – \\"Keep The Orange Sun\\"")
+![From Overseas & awakened souls – "Keep The Orange Sun"](/img/keep-the-orange-sun.jpg "From Overseas & awakened souls – \\\"Keep The Orange Sun\\\"")
 
 ## Eine nachdenkliche Reise
 
@@ -63,7 +63,9 @@ Mit "Open Heart" öffnen From Overseas und awakened souls die Herzen und gönnen
 
 "Migration" überrascht mich mit seiner verspielten Art. Das Stück verzaubert mich und bildet den perfekten Übergang zum traumhaften Finale "Passing Dreams". Ich lasse die Gedanken ziehen, wie sie kommen und halte mich nicht mehr an ihnen fest.
 
-Wenn Ihr neugierig seid, könnt Ihr [hier mein Interview mit Kévin Séry aka From Overseas lesen](/2020/04/from-overseas-interview/).
+[Zu meinem Interview mit awakened souls geht es hier entlang](/2021/10/awakened-souls/).
+
+[Hier könnt Ihr mein Interview mit Kévin Séry aka From Overseas lesen](/2020/04/from-overseas-interview/).
 
 ## awakened souls & From Overseas – "Certainty Of Tides"
 
