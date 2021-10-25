@@ -53,7 +53,7 @@ languageLink: /2021/10/awakened-souls/
 
 **Anne:** Your combination of elements from the electronic, shoegaze, and the ambient world leads to a very harmonic and unique kind of style. Did you have that in mind when you started recording it? Or is it more like a coincidence that the three music genres the three of you call your homes fit together so well?
 
-**James:** We absolutely had the intention of combining all of those genres! With the song "Keep The Orange Sun", it took a journey of its own. After hearing Cynthia's guitar parts and main vocal idea, I heard shoegaze drum and bass parts right away and decided to go with it. Our parts of the song came together over the course of one night. In my mind, there is a crossover with some shoegaze and ambient. Kévin's additions solidified that link with his signature guitar textures and tone. I think we all surprised ourselves in a good way when we finished the song, and it is definitely one of my favourites on the album. 
+**James:** We absolutely had the intention of combining all of those genres! With the song "Keep The Orange Sun", it took a journey of its own. After hearing Cynthia's guitar parts and main vocal idea, I heard shoegaze drum and bass parts right away and decided to go with it. Our fragments of the song came together over the course of one night. In my mind, there is a crossover with some shoegaze and ambient. Kévin's additions solidified that link with his signature guitar textures and tone. I think we all surprised ourselves in a good way when we finished the song, and it is definitely one of my favourites on the album. 
 
 **Anne:** The song "Certainty Of Tides" is about the certainty that life changes. How did you come up with this topic?
 
