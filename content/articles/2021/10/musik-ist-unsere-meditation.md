@@ -98,7 +98,7 @@ Unseren Bandnamen awakened souls haben wir seit 2017. Er hat mit unserer Verbind
 
 **Anne:** Was plant Ihr als Nächstes? Wird es eine Tour geben? Arbeitet Ihr schon an neuen Songs?
 
-**Cynthia und James:** Wir haben jede Menge spannende Projekte für die nächsten Monate. In der ersten Jahreshälfte 2022 wird es unter anderem ein Album auf Past Inside The Present geben. Wir machen außerdem beide unsere Solo-Alben fertig und schauen, wie es 2022 mit der Veröffentlichung weiter geht. Unser Ziel ist es auch, nächstes Jahr hier und da ein paar Shows zu spielen! Es wäre auch ein Traum, mit Kévin aufzutreten!
+**Cynthia und James:** Wir haben jede Menge spannende Projekte für die nächsten Monate geplant. In der ersten Jahreshälfte 2022 wird es unter anderem ein Album auf Past Inside The Present geben. Wir machen außerdem beide unsere Solo-Alben fertig und schauen, wie es 2022 mit der Veröffentlichung weiter geht. Unser Ziel ist es auch, nächstes Jahr hier und da ein paar Shows zu spielen! Es wäre auch ein Traum, mit Kévin aufzutreten!
 
 **Anne:** Vielen Dank für das sympathische Interview!
 
