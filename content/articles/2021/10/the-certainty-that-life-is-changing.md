@@ -78,7 +78,7 @@ This passage acted as a source of comfort for me during some pretty uncertain ti
 
 **Anne:** When did you start awakened souls? Did you always want to make music together?
 
-## "When we fist met we knew we wanted to jam together"
+## "When we first met we knew we wanted to jam together"
 
 **Cynthia:** James and I met online back in 2014. In our initial communication, he asked if I "wanted to jam sometime, dude." I could tell he was an odd bird right away, and so am I, and we did happen to jam the day after we met and created our first EP within six weeks of meeting each other. We called ourselves Syntillas back then and were more indie electronic. I have somewhat hidden that first album of ours, "Sparks", from the conversation because I dislike the pitch correction James did on my voice a few moments of the EP, but there are still some songs I love on it and am reaching the point of acceptance as part of our musical path. We also did a single after that: "For You" somehow sounds close to the genre of "Any Of Those Lies".
 
