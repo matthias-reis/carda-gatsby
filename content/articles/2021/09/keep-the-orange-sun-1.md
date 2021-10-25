@@ -23,7 +23,6 @@ labels:
   - awakened souls
   - Post-Music
   - Past Inside The Present
-  - La Réunion
 focusKeyword: Keep The Orange Sun
 advertisement: false
 affiliate: false
