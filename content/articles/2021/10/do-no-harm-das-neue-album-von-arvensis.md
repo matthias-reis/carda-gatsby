@@ -1,5 +1,5 @@
 ---
-ogImage: /img/arvensis-do-no-harm-fb.jpg
+ogImage: /img/arvensis-do-no-harm-fb.png
 TW: Psychische Gesundheit, Angst, Selbstverletzung
 date: 2021-10-15T11:35:18.749Z
 slug: arvensis-do-no-harm-interview
