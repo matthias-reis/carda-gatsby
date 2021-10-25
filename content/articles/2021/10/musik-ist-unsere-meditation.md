@@ -68,14 +68,14 @@ languageLink: /2021/10/awakened-souls-en/
 
 **Cynthia:** Als wir anfingen, uns über das Gesamtkonzept des Albums zu unterhalten, musste ich an Joseph Campell's Heldenreise denken. Uns wurde bewusst, dass KTOS unsere persönliche Interpretation der vielen Phasen sind, die wir als Menschen durchlaufen. Ich habe während dieser Zeit Maya Angelou gelesen und ihr klassisches Gedicht "Still I Rise" wurde zum Arbeitstitel des Stücks. 
 
-> "Just like moons and like suns
-> With the certainty of tides
-> Just like hopes springing high
+> "Just like moons and like suns<br />
+> With the certainty of tides<br />
+> Just like hopes springing high<br />
 > Still I'll rise."
 > 
-> ("Genau wie Monde und Sonnen
-> Mit der Gewissheit der Gezeiten
-> Wie die aufkeimende Hoffnung
+> ("Genau wie Monde und Sonnen<br />
+> Mit der Gewissheit der Gezeiten<br />
+> Wie die aufkeimende Hoffnung<br />
 > Stehe ich weiter auf.") 
 
 Diese Passage wurde während einer unsicheren Zeit für mich zu einer Art Trostspender. Dieses Gedicht hatte definitiv auch Einfluss auf unseren Song "Rise".
