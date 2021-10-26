@@ -62,7 +62,7 @@ Nachtkerzenöl wird zum Beispiel häufig bei der Behandlung von Neurodermitis, R
 
 ## Aloe Vera
 
-Aloe Vera (Auch "Echte Aloe" genannt) habe ich hier im Blog schon diverse Male erwähnt. Die Art aus der Gattung der Aloen  ist wirklich unglaublich vielseitig und Bestandteil vieler meiner Lieblings-Pflegeprodukte. Das Gel der Pflanzen spendet Feuchtigkeit, wirkt Entzündungen, Reizungen und Rötungen entgegen und beruhigt die Haut sanft.
+Aloe Vera (Auch "Echte Aloe" genannt) habe ich hier im Blog schon diverse Male erwähnt. Die Art aus der Gattung der Aloen ist wirklich unglaublich vielseitig und Bestandteil vieler meiner Lieblings-Pflegeprodukte. Das Gel der Pflanzen spendet Feuchtigkeit, wirkt Entzündungen, Reizungen und Rötungen entgegen und beruhigt die Haut sanft.
 
 ## Hyaluronsäure
 
