@@ -9,6 +9,11 @@ description: Micaraa hat jetzt die neuen Starter Kits vorgestellt. Sie sind
   besonders unterwegs unglaublich praktisch und auch, wenn Ihr Euch noch nicht
   ganz sicher seid, welche Pflegeserie die richtig für Euch ist, können sie
   helfen.
+excerpt: Micaraa hat jetzt die neuen Starter Kits vorgestellt. Gerade, wenn Ihr
+  noch nicht sicher seid, welche Pflegeprodukte sich am besten für Euch eignen,
+  sind sie Minis praktisch, weil Ihr so ganz einfach erstmal eine kleine Menge
+  testen könnt. Und auch unterwegs können sie praktisch sein – schließlich
+  nehmen sie nur sehr wenig Platz weg.
 image: /img/2021-10-26-produkttest-13.jpg
 copyrigt: ""
 ogImage: /img/micaraa-starter-kit-fb.png
