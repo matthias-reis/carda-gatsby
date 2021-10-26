@@ -32,7 +32,7 @@ language: de
 
 Weil ich selbst zu trockener und empfindlicher Haut neige, nutze ich die [Micaraa Produkte für trockene Haut](https://tidd.ly/2ZqPzyq). Die gibt es jetzt auch als Starter Kit. Besonders, wenn ich übers Wochenende unterwegs bin, finde ich das sehr praktisch.
 
-## Praktische kleine Flächen
+## Praktische kleine Fläschchen
 
 ![Mein praktisches Micaraa Starter Kit](/img/2021-10-26-produkttest-3.jpg "Mein praktisches Micaraa Starter Kit")
 
