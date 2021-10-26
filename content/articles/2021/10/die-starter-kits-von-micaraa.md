@@ -78,8 +78,10 @@ Ectoin dient dem natürlichen Zellschutz. Zuerst wurde des bei Bakterien in der 
 
 Kennt Ihr Cacaynüsse? Ich muss gestehen, dass ich davon, bis ich Micaraa vor ein paar Jahren kennengelernt habe, noch nie etwas gehört hatte. Schade eigentlich. Die tollen Nüsse stammen aus Mittelamerika. Sie wachsen dort auf bis zu 40 Meter hohen Bäumen. Ihr Öl steckt voller wertvoller Vitamine. Das soll für eine langanhaltende Durchfeuchtung der Haut und die Förderung der Zellregeneration sorgen. Auch die Bildung neuer Hautzellen wird unterstützt.
 
-Wenn Ihr unschlüssig seid, welches Set für Euch das richtige ist, könnt Ihr auf der Webseite einen Test machen, welche am besten zu Euch passt. Ich kann ihn sehr empfehlen, mir hat er bei der Wahl sehr geholfen.
-
-Zuletzt habe ich die Micaraa Calm Serie für empfindliche Haut getestet. Alles darüber könnt Ihr [hier nachlesen](http://localhost:8000/2021/07/micaraa-calm/).
+Wenn Ihr unschlüssig seid, welches Set für Euch das richtige ist, könnt Ihr auf der Webseite einen Test machen, [um herauszufinden, welche am besten zu Euch passt](https://tidd.ly/3E9o7DY). Ich kann ihn sehr empfehlen, mir hat er bei der Wahl sehr geholfen.
 
 Ihr könnt Euer Starter Kit [hier bestellen](https://tidd.ly/3Gh1MWO).
+
+**Psst:** Als Leser⋆innen meines Blogs erhaltet Ihr beim Einkaufen im Micaraa Shop 10 Prozent Rabatt. Ihr müsst dafür nur an der Kasse den Gutscheincode **anne10** angeben.
+
+Zuletzt habe ich die Micaraa Calm Serie für empfindliche Haut getestet. Alles darüber könnt Ihr [hier nachlesen](http://localhost:8000/2021/07/micaraa-calm/).
