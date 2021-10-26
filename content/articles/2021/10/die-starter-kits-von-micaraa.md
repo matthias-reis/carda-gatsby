@@ -50,7 +50,7 @@ Ihr könnt Euer Starter Kit [hier bestellen](https://tidd.ly/3Gh1MWO). Im Micara
 
 Die Produkte von Micaraa gefallen mir deshalb so gut, weil sie meine Haut nicht irritieren. Der für mich eigentlich wichtigste Punkt ist jedoch, dass sie komplett vegan sind. Die Vegan Society hat sie dafür sogar ausgezeichnet. Tierversuche kommen bei Micaraa natürlich auch nicht infrage. Außerdem wird auf Silikon, Mineralöl und Parabene bewusst verzichtet. Wenn Ihr also auf [vegane Naturkosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/) steht und Euch also wichtig ist, was in den Produkten drin ist, die Ihr auf Eure Haut auftragt, seid Ihr hier richtig.
 
-Die Basis der Pflege sind wertvolle Inhaltsstoffe. Besonders hervorheben möchte ich hier Vitamin C, Nachtkerzenöl,  Aloe Vera, Hyaluronsäure, Ectoin und Cacayöl.
+Die Basis der Pflege sind wertvolle, natürliche Inhaltsstoffe. Besonders hervorheben möchte ich hier Vitamin C, Nachtkerzenöl,  Aloe Vera, Hyaluronsäure, Ectoin und Cacayöl.
 
 ## Vitamin C
 
