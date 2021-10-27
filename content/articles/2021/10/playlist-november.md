@@ -120,7 +120,7 @@ Lisbeth Fritzes melodische Lyrics fügen sich ganz wunderbar in die von Klangkü
 
 ## Converge feat. Chelsea Wolfe – "Blood Moon" vom Album "Bloodmoon I"
 
-Zu diesem Stück haben wir in unserer Musiklisten-Runde die ein oder andere heiße Diskussion geführt. Vielleicht müssen ein paar von uns ihn einfach noch ein paar Mal und noch etwas genauer anhören. Vielleicht polarisiert er aber auch nur dezent. Findet das einfach am besten selbst heraus. Matze findet dazu die folgenden Worte:
+Zu diesem Stück haben wir in unserer Musiklisten-Runde die ein oder andere heiße Diskussion geführt. Vielleicht müssen ein paar von uns ihn noch ein paar Mal und noch etwas genauer anhören. Vielleicht polarisiert er aber auch nur dezent. Findet das am besten einfach selbst heraus. Matze findet dazu die folgenden Worte:
 
 > "Es wird was Neues von Converge geben! Auf der neuen LP werden unter anderem Kollaborationen mit Chelsea Wolfe und Cave In zu hören sein. Die Single "Blood Moon", ist als Album-Opener gedacht und erinnerte mich ein wenig an die Kooperation zwischen Cult of Luna mit dem schweren, treibenden doppelten Schlagzeug und Julie Christmas. Dieses Stück hier kommt allerdings noch wesentlich düsterer daher. Wenn Ihr jetzt den Play-Button drückt, bekommt Ihr also die erste Metal-Liga und eine wirklich exzellente Kooperation zu hören."
 
