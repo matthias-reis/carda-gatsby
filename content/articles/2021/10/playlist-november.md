@@ -85,7 +85,7 @@ Auch dieser Song befand sich sowohl auf Matzes, als auch auf meiner Monats-Musik
 
 Auch Idles haben ihr neues Album für November angekündigt. Bei der Combo aus Bristol läuft es mit den Platten im Moment auch wie das Brezelbacken. Matze fasst das so in Worte:
 
-"Bei den britischen Post-Punks von Idles steht nur ein Jahr nach dem "Ultra Mono" wieder eine neue Platte an. Ob das irgendwas mit Corona zu tun hat? Die erste Auskopplung "The Beachland Ballroom" setzt nicht etwa auf punkig-rohe Vibes, sondern erinnert mit seinem Walzertakt zeitweise an Stücke von Jack White. In der zweiten Hälfte kommt das Stück dann richtig in Fahrt. Ich freue mich schon sehr, bald das ganze Album zu hören."
+> "Bei den britischen Post-Punks von Idles steht nur ein Jahr nach dem "Ultra Mono" wieder eine neue Platte an. Ob das irgendwas mit Corona zu tun hat? Die erste Auskopplung "The Beachland Ballroom" setzt nicht etwa auf punkig-rohe Vibes, sondern erinnert mit seinem Walzertakt zeitweise an Stücke von Jack White. In der zweiten Hälfte kommt das Stück dann richtig in Fahrt. Ich freue mich schon sehr, bald das ganze Album zu hören."
 
 <YouTube id="t7aktt5cDqs" />
 
