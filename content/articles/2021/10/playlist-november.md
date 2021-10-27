@@ -10,9 +10,9 @@ description: Hier kommt das Beste aus Post-Rock, Post-Metal & Co. Für den
   länger hören werden - Von Maybeshewill bis Toundra.
 excerpt: Wie schnell das Jahr vergeht! Eigentlich war doch gerade noch Sommer,
   oder? Plötzlich sind wir mitten im Spätherbst angekommen und es gibt schon die
-  Playlist für den November! Hier kommt das Beste aus Post-Rock, Post-Metal &
-  Co. Für den November haben wir zehn ganz besondere Stücke ausgewählt, die wir
-  sicher noch länger hören werden - Von Maybeshewill bis Toundra.
+  November-Playlist! Hier kommt das Beste aus Post-Rock, Post-Metal & Co. Für
+  den November haben wir zehn ganz besondere Stücke ausgewählt, die wir sicher
+  noch länger hören werden - Von Maybeshewill bis Toundra.
 image: /img/10-songs-november.jpg
 copyrigt: ""
 ogImage: /img/10-songs-november-fb.png
