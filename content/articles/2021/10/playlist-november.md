@@ -97,7 +97,7 @@ Toundra habe ich Euch hier ja schon mal [im Interview](/2020/07/toundra-intervie
 
 ## Zeal & Ardor – "Götterdämmerung" vom Album "Zeal & Ardor"
 
-Zeal & Ardor haben auch ein neues Album für uns vorbereitet. Es wird allerdings erst nächstes Jahr enthüllt. Matze beschreibt hier schon mal die neue Vorauskopplung:
+Zeal & Ardor haben auch ein neues Album für uns vorbereitet. Es wird uns allerdings erst nächstes Jahr in seiner Gesamtheit präsentiert. Matze beschreibt hier schon mal die neue Vorauskopplung:
 
 > "Noch bis Februar müssen wir auf das neue Z&A Album warten. Dafür gibt es nun schon die vierte Vorauskopplung. So kommt es auch zustande, dass wir die Band, die in den letzten Jahren zu einer unserer Lieblingsgruppen wurde, in den letzten Monaten schon ein paarmal gefeatured haben. "Götterdämmerung" ist der bisher massivste und aggressivste von der neuen Platte. Sänger Manuel Gagneux shoutet in dämonischem Deutsch besser als wir es von Bands wir Rammstein jemals erwarten würden und wechselt dann wieder in seine englische Gesangsstimme zurück. "Götterdämmerung" wird damit für mich zur besten und auf alle Fälle auch zur abgefahrendsten der vier Singles, die Ihr übrigens alle zusammen auf einer Vorab-EP auch auf Vinyl genießen könnt, wenn Ihr nicht bis Februar warten wollt."
 
