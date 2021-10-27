@@ -50,7 +50,7 @@ language: de
 ---
 **Wie schnell das Jahr vergeht! Eigentlich war doch gerade noch Sommer, oder? Plötzlich sind wir mitten im Spätherbst angekommen und es gibt schon die Playlist für den November!**
 
-Gemeinsam mit Matze habe ich zehn Songs für Euch selektiert, die Euch hoffentlich die nächsten vier Wochen noch mehr versüßen, als die Lebkuchen, die es jetzt schon wieder überall gibt. Viel Spaß damit!
+Gemeinsam mit Matze habe ich zehn Songs für Euch selektiert, die Euch hoffentlich die nächsten vier Wochen noch mehr versüßen, als die Lebkuchen, die es jetzt schon wieder überall gibt. Viel Spaß damit! Im Anschluss an die Videos findet Ihr wie immer die Listen für iTunes und Spotify.
 
 ## Maybeshewill feat. Marcus Joseph – "Refuturing" (Vorauskopplung vom Album "No Feeling Is Final")
 
