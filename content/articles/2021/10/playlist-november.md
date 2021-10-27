@@ -43,6 +43,7 @@ labels:
   - Alcest
   - Idles
   - L'Effondras
+  - Shoegaze
 focusKeyword: Playlist
 advertisement: false
 affiliate: false
