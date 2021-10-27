@@ -132,4 +132,8 @@ Da greife ich doch gleich mal Matzes Schlusssatz auf und präsentiere Euch diese
 
 <YouTube id="tFzjUwZwRx0" />
 
-https://open.spotify.com/playlist/461jza2958j4kEK9Ct75Ib?si=df0f34f21eac49f7
+<Playlist
+  spotify="461jza2958j4kEK9Ct75Ib?si=df0f34f21eac49f7"
+  itunes="2021-10-25-rock-n-roll-vegan/pl.u-gRxmC8RXNXl"
+/>
+
