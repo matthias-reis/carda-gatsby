@@ -104,7 +104,7 @@ Zeal & Ardor haben auch ein neues Album für uns vorbereitet. Es wird uns allerd
 <YouTube id="g04LWsFTS6g" />
 
 
-## Trentemøller & Lisbet Fritze – "All To Soon" (Single)
+## Trentemøller & Lisbet Fritze – "All To Soon" (Vorauskopplung vom Album "Memoria")
 
 > "We can't live forever.<br /> 
 > If we could we would.<br /> 
@@ -114,7 +114,7 @@ Zeal & Ardor haben auch ein neues Album für uns vorbereitet. Es wird uns allerd
 > Wir würden es tun, wenn wir es könnten.<br /> 
 > Wir werden zu früh gehen."
 
-Lisbeth Fritzes melodische Lyrics fügen sich ganz wunderbar in die von Klangkünstler Trentemøller bereitgestellte Musikwolke ein. Unglaubliche Samples (Höre ich eine Bohrmaschine?) legen sich hier Schicht über Schicht und erzählen Geschichten aus der Zukunft. Ein tolles Stück zum Grübeln, Nachdenken oder einfach nur in Ruhe genießen.
+Lisbeth Fritzes melodische Lyrics fügen sich ganz wunderbar in die von Klangkünstler Trentemøller bereitgestellte Musikwolke ein. Unglaubliche Samples (Höre ich eine Bohrmaschine?) legen sich hier Schicht über Schicht und erzählen Geschichten aus der Zukunft. Ein tolles Stück zum Grübeln, Nachdenken oder einfach nur in Ruhe genießen. Das neue Trentemøller Album "Memoria" ist übrigens für Februar angekündigt.
 
 <YouTube id="QcJUapt-IdA" />
 
@@ -131,3 +131,5 @@ Zu diesem Stück haben wir in unserer Musiklisten-Runde die ein oder andere hei�
 Da greife ich doch gleich mal Matzes Schlusssatz auf und präsentiere Euch dieses neue Juwel von TesseracT, die ganz eindeutig auch in der ersten Metal-Liga spielen. Die Progger aus Tuska haben mit ihrer neuen LP "Portals" das erste Album seit 2018 auf den Markt geworfen und wirbeln ihn damit ganz schön auf. Ich habe mich für den zweiten Song "Kings" entschieden. Er ist mit 5:45 einer der kürzesten auf der Platte. Seine Nachbarn ufern da mit bis zu 18:23 ("Concealing Fate Parts 1, 2 & 3", Song 3) schon mehr aus. Lasst Euch einfach von diesem Stück in den TesseracT Sog ziehen und hört dann einfach weiter.
 
 <YouTube id="tFzjUwZwRx0" />
+
+https://open.spotify.com/playlist/461jza2958j4kEK9Ct75Ib?si=df0f34f21eac49f7
