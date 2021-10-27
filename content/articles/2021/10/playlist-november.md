@@ -57,7 +57,7 @@ Gemeinsam mit Matze habe ich zehn Songs für Euch selektiert, die Euch hoffentli
 
 Auf das für November angekündigte neue Maybeshewill Album freuen wir uns beide wie verrückt. Matze hat die Ehre hier die Auskopplung "Refuturing" anzumoderieren:
 
-> "Expressive Tanzvideos gibt es ja schon ziemlich viele. Und auch die Liste der genialen Bands, die wir hoffentlich 2022 auf dem ArcTanGent sehen werden, ist lang. Was könnten diese beiden Sätze miteinander zu tun haben? Richtig. Maybeshewill befördern beides auf ein neues Level. Ich nehme den Tänzer⋆innen ihre Ekstase bei dem Song ohne weiteres ab. Würdet Ihr da nicht auch am liebsten selbst mitmachen? Für das ArcTanGent waren MSW ja bereits letztes Jahr ausgefallen. Durch die Corona-Verschiebung kommen wir nun vermutlich sogar in den Genuss des neuen Materials!"
+> "Expressive Tanzvideos gibt es ja schon ziemlich viele. Und auch die Liste der genialen Bands, die wir hoffentlich 2022 auf dem ArcTanGent sehen werden, ist lang. Was könnten diese beiden Sätze miteinander zu tun haben? Richtig. Maybeshewill befördern beides auf ein neues Level. Ich nehme den Tänzer⋆innen ihre Ekstase bei dem Song ohne weiteres ab. Würdet Ihr da nicht auch am liebsten selbst mitmachen? Das ArcTanGent war ja letztes Jahr für MSW genau wie für uns leider ausgefallen. Durch die Corona-Verschiebung kommen wir dort 2022 nun vermutlich sogar in den Genuss des neuen Materials!"
 
 <YouTube id="_39aQUyp7Mg" />
 
