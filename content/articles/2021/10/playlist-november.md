@@ -77,7 +77,7 @@ Auch dieser Song befand sich sowohl auf Matzes, als auch auf meiner Monats-Musik
 
 ## L'Effondras – "The Grinding Wheel" vom Album "Anabasis"
 
-"The Grinding Weel" ist der Opener des grandiosen neuen Albums von Pierre Lejeune (Gitarre), Pierre Josserand (Guitar) und Nicolas Bernollin (Drums). Die drei machen schon länger zusammen Musik. Ihre letzte Platte "Les Flavescences" ist 2017 auf dem Pariser Label Noise Parade erschienen und auch 2014 und 2015 ließen sie bereits von sich hören. Wenn Ihr instrumentalen Post-Rock liebt, lohnt es sich auf jeden Fall hier mal mitzuhören. L'Effondras haben auf diesem Gebiet nämlich richtig was drauf. Was mir besonders gut gefällt sind die gut gewählten Übergänge zwischen düsteren Sequenzen und zauberhaft melodischen Parts.
+"The Grinding Weel" ist der Opener des grandiosen neuen Albums von Pierre Lejeune (Gitarre), Pierre Josserand (Guitar) und Nicolas Bernollin (Drums). Die drei machen schon länger zusammen Musik. Ihre letzte Platte "Les Flavescences" ist 2017 auf dem Pariser Label Noise Parade erschienen und auch 2014 und 2015 ließen sie bereits von sich hören. Wenn Ihr instrumentalen Post-Rock liebt, lohnt es sich auf jeden Fall hier mal mitzuhören. L'Effondras haben auf diesem Gebiet nämlich richtig was drauf. Was mir besonders gut gefällt, sind die gut gewählten Übergänge zwischen düsteren Sequenzen und zauberhaft melodischen Parts.
 
 <YouTube id="QpsBSpB4sjo" />
 
