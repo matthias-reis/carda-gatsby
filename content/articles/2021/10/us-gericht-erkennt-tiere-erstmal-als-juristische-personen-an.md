@@ -49,7 +49,7 @@ Die Geschichte des Prozesses reicht bis in die 1980er Jahre zurück. Damals erwa
 
 ## Die Flusspferde am Magdalena River haben sich vermehrt
 
-Die Reaktion der Regierung war, die Tiere einfach abzuschlachten. Das rief einige Tierrechtsaktivst⋆innen auf den Plan, die sich so schnell wie möglich rechtliche Unterstützung suchten. Im Juli 2020 reichte der Anwalt Luis Domingo Gómez Maldonado eine Klage ein, um zu verhindern, dass die inzwischen etwa 100 Flusspferde am Magdalena River getötet wurden.
+Die Regierung reagierte prompt und wollte die Tiere einfach abschlachten. Das rief einige Tierrechtsaktivst⋆innen auf den Plan, die sich so schnell wie möglich rechtliche Unterstützung suchten. Im Juli 2020 reichte der Anwalt Luis Domingo Gómez Maldonado eine Klage ein, um zu verhindern, dass die inzwischen etwa 100 Flusspferde am Magdalena River getötet wurden.
 
 Am 15. Oktober diesen Jahres fing dann die örtliche Umweltbehörde damit an, den Flusspferden das Verhütungsmittel GonaCon zu verabreichen. Die Sicherheit und Wirksamkeit des Mittels sind bisher nicht erforscht. Bis heute hat die kolumbianische Regierung nicht bekannt gegeben, wie viele der Nilpferde außerdem getötet werden sollen.
 
