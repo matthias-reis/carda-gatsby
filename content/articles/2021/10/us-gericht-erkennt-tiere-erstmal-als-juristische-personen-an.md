@@ -81,10 +81,10 @@ Immerhin wird zum Beispiel in Fällen von Schadensersatz zwischen Sachen und Tie
 
 Nach der Einführung des § 90a BGB wurde auch das Zwangsvollstreckungsrecht von Haustieren, die "nicht zu Erwerbszwecken gehalten" werden, gestrichen. Das steht im § 811 c der Zivilprozessordnung (ZPO[^5]). Allerdings gibt es auch hier Ausnahmen: Wenn es sich beispielsweise um sehr wertvolle Tiere handelt.
 
+Foto: [ArtTower](https://pixabay.com/photos/hippopotamus-animals-wildlife-hippo-95472/), Pixabay
+
 [^1] [Animal Legal Defense Fund](https://aldf.org/)
 [^2] [Animal Balance](https://www.animalbalance.org/)
-[^3] [Bundesgesetzblatt](https://de.wikipedia.org/wiki/Bundesgesetzblatt_(Deutschland))
+[^3] [Bundesgesetzblatt)(https://de.wikipedia.org/wiki/Bundesgesetzblatt_(Deutschland))
 [^4] [Bürgerliches Gesetzbuch BGB](https://www.gesetze-im-internet.de/bgb/)
 [^5] [Zivilprozessordnung (ZPO)](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html)
-
-Foto: [ArtTower](https://pixabay.com/photos/hippopotamus-animals-wildlife-hippo-95472/), Pixabay
