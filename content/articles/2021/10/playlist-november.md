@@ -15,7 +15,7 @@ excerpt: Wie schnell das Jahr vergeht! Eigentlich war doch gerade noch Sommer,
   noch länger hören werden - Von Maybeshewill bis Toundra.
 image: /img/10-songs-november.jpg
 copyrigt: ""
-ogImage: /img/10-songs-november-fb.png
+ogImage: /img/10-songs-november-fb-1-.png
 labels:
   - TesseracT
   - Converge
