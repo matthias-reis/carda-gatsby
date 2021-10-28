@@ -41,7 +41,7 @@ Als Teil des Gerichtsverfahrens gab das US-Bezirksgericht dem Antrag gemäß 28 
 
 Die USA können laut Gesetz in einem Rechtsstreit in einem anderen Land jeder interessierten Person von einem Bundesgericht die Erlaubnis erteilen, innerhalb der Staaten zur Unterstützung Aussagen zu machen. Weil das Land Kolumbien die Nilpferde in diesem Fall als Rechtspersonen anerkannt hat, sieht sie die ALDF nach dem Gesetz als interessierte Personen.
 
-Stephen Wells, Executive Director bei ALDF erklärte das so:
+Stephen Wells, Executive Director beim ALDF freute sich:
 
 > "Tiere haben das Recht, frei von Grausamkeit und Ausbeutung zu leben. Das Versäumnis der US-Gerichte, ihre Rechte anzuerkennen, behindert die Durchsetzung bestehender gesetzlicher Schutzmaßnahmen. Der Gerichtsbeschluss, der es den Flusspferden erlaubt, ihr Recht auf Informationsbeschaffung in den Vereinigten Staaten auszuüben, ist ein entscheidender Meilenstein im allgemeinen Kampf um die Anerkennung einklagbarer Tierrechte."
 
