@@ -85,6 +85,6 @@ Foto: [ArtTower](https://pixabay.com/photos/hippopotamus-animals-wildlife-hippo-
 
 [^1] [Animal Legal Defense Fund](https://aldf.org/)
 [^2] [Animal Balance](https://www.animalbalance.org/)
-[^3] [Bundesgesetzblatt)(https://de.wikipedia.org/wiki/Bundesgesetzblatt_(Deutschland))
+[^3] [Bundesgesetzblatt](https://de.wikipedia.org/wiki/Bundesgesetzblatt_(Deutschland))
 [^4] [Bürgerliches Gesetzbuch BGB](https://www.gesetze-im-internet.de/bgb/)
 [^5] [Zivilprozessordnung (ZPO)](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html)
