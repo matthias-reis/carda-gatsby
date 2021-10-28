@@ -71,7 +71,7 @@ Die Anerkennung von Tieren als Rechtspersonen ist dennoch nicht einzigartig. Imm
 
 ## Tiere haben keine herausragende Rechtsstellung
 
-Der durch das Gesetz neu eingefügte § 90a Bürgerliches Gesetzbuch (BGB[^4]) bestimmt, dass Tiere keine Sachen sind und durch besondere Gesetze geschützt werden. Diese Vorschrift bringt zum Ausdruck, dass der Mensch gegenüber den Tieren wegen deren Fähigkeit, Schmerz und Leid zu empfinden, zu Schutz und Fürsorge verpflichtet ist. 
+Der durch das Gesetz neu eingefügte § 90a Bürgerliches Gesetzbuch (BGB[^4]) bestimmt, dass Tiere keine Sachen sind und durch besondere Gesetze geschützt werden. Diese Vorschrift bringt zum Ausdruck, dass Menschen gegenüber Tieren wegen deren Fähigkeit, Schmerz und Leid zu empfinden, zu Schutz und Fürsorge verpflichtet ist. 
 
 Bei uns haben Tiere somit keine herausragende Rechtsstellung. Es heißt: 
 
