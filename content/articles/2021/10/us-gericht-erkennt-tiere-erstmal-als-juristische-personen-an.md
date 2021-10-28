@@ -85,7 +85,7 @@ Nach der Einführung des § 90a BGB wurde auch das Zwangsvollstreckungsrecht von
 
 [^2] [Animal Balance](https://www.animalbalance.org/)
 
-[^3] [Bundesgesetzblatt](https://de.wikipedia.org/wiki/Bundesgesetzblatt_(Deutschland)
+[^3 [Bundesgesetzblatt](https://de.wikipedia.org/wiki/Bundesgesetzblatt_(Deutschland))
 
 [^4] [Bürgerliches Gesetzbuch BGB](https://www.gesetze-im-internet.de/bgb/)
 
