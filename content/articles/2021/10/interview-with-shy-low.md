@@ -85,15 +85,13 @@ We talked about their recording sessions at the Vudu Studios, working with Pelag
 
 **Dylan:** It's hard to tell a story with just music alone, without a vocalist to help convey a narrative verbally. So the best way for us to tell a narrative without words is by simulating the push-and-pull of conflict and resolution, which usually ends up in songs with contrasting dynamics, tempos, atmospheres, etc. I don't know if it necessarily reflects how we live individually, but I like to think it reflects life for most people. There's always ebb and flow. Writing and performing also gives us a place to direct our frustrations with real life, so we don't end up spending that energy destructively. So I guess in that regard, the music reflects how we feel, though not always how we behave if that makes sense. 
 
-
 **Anne:** Gregg, one more thing you could describe as progressive is veganism. You told me that you and Zak have been vegetarian for like 12 years. Have you ever considered going vegan? What do you think about veganism?
 
 ## "We try to eat as healthy and ethical as possible"
 
 **Gregg:** Yes, Zak and I have been vegetarian for roughly about the same time now. I attempted it when I moved out to Illinois a few years ago, and I was working at an all-vegan restaurant at the time with little social life and a lot of extra time to cook and two awesome vegan roommates. When I moved back home to Virginia, I took on a significantly busier job that didn't allow me as much free time to cook properly, so I found myself eating fast food more while on the go. Usually Taco Bell. My wife was vegan for five years and focused on healthy eating habits, which have slowly rubbed off on me. I'm still not sure I could go full-on vegan, but I think we all try to eat as healthy and ethical as possible. 
 
-**Anne:** What do you think? Why is it that so many people in the music biz are vegan, vegetarian or on their way to going vegan? Some of them ([Like Belinda and Justin from Crippled Black Phoenix, who I interviewed some days ago](https://cardamonchai.com/2020/12/crippled-black-
-phoenix-interview-en)) are even active animal rights activists. It's not just the tour catering, is it?
+**Anne:** What do you think? Why is it that so many people in the music biz are vegan, vegetarian or on their way to going vegan? Some of them ([Like Belinda and Justin from Crippled Black Phoenix, who I interviewed some days ago](2020/12/crippled-black-phoenix-interview-en)) are even active animal rights activists. It's not just the tour catering, is it?
 
 **Gregg:** I honestly don't know. The idea of our bodies getting older and still doing the physical work of loading in heavy amps and cabs, exerting a lot of physical energy each night on stage. And then not wanting to load up on a ton of fatty foods, all probably have something to do with it. I will also say that I think food, primarily fruits and vegetables, tastes quite a bit fresher over Europe than here in the US. I am not sure if it has something to do with the soil or water or what, but it definitely makes me want to eat even healthier overseas.
 
