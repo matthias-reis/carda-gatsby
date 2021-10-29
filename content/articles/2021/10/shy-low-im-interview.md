@@ -130,3 +130,7 @@ phoenix-interview-de)) sind sogar aktive Tierrechtsaktivisten. Es geht also län
 **Gregg:** Vielen Dank für die wunderbaren Fragen. Hoffentlich treffen wir uns bald mal auf unseren Reisen. Alles Gute für Dich! Lass es Dir gutgehen!
 
 [Meine Review zu "Snake Behind The Sun" könnt Ihr hier lesen](/2021/09/shy-low-snake-behind-the-sun/).
+
+## Shy, Low "The Beacon"
+
+<YouTube id="k7PkgN3DNSk" />
