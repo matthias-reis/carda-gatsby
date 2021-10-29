@@ -40,7 +40,7 @@ Shy, Low zeigen anderen Post-Music Acts mal so richtig, was es bedeutet, kontras
 
 ## Ausgefeiltes Songwriting
 
-![Shy, Low – "Snake Behind The Sun"](/img/shylow1627286341508331.jpg "Shy, Low – \"Snake Behind The Sun\"")
+![Shy, Low – "Snake Behind The Sun"](/img/shylow1627286341508331.jpg "Shy, Low – \\"Snake Behind The Sun\\"")
 
 Das Album ist stark und brachial und lebt vom ausgefeilten Songwriting der vier. "Snake Behind The Sun" ist großartige Musik für alle, die es vielschichtig, komplex und groovy mögen, ohne dabei auf Härte verzichten zu wollen.
 
@@ -67,6 +67,8 @@ Für Shy, Low ist "Snake Behind The Sun" eine Metapher für die Vorstellung, das
 "Snake Behind The Sun" ist ein Instrumentalalbum der ganz besonderen Art. Shy, Low schaffen es, die Stimmungen, die andere Bands durch Lyrics ausdrücken (oder auszudrücken versuchen), komplett über ihre Instrumente zu vermitteln – und darüber hinaus. Schon beim ersten Hören lösen die insgesamt sieben Songs in 53 Minuten bei mir mehr als nur einmal eine wohlige Gänsehaut aus. Schön, dass ich mir dieses Gefühl jederzeit zurückholen kann. Und Ihr könnt es ab dem 8. Oktober auch erleben.
 
 Pelagic hat ein paar der Songs schon ins Netz gestellt. Einer davon ist die aktuelle Vorauskopplung "Umbra".
+
+[Hier könnt Ihr mein Interview mit Shy, Low lesen](/2021/10/shy-low-interview/).
 
 ## Shy, Low – "Umbra"
 
