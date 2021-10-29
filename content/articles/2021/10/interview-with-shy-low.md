@@ -124,3 +124,7 @@ phoenix-interview-en)) are even active animal rights activists. It's not just th
 **Gregg:** Thank you so much for the wonderful questions, and we hope we get to meet you sometime in our travels. All the best, take care.
 
 [Read my review on "Snake Behind The Sun" now](/2021/09/shy-low-snake-behind-the-sun-en/).
+
+## Shy, Low "The Beacon"
+
+<YouTube id="k7PkgN3DNSk" />
