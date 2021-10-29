@@ -125,6 +125,6 @@ phoenix-interview-en)) are even active animal rights activists. It's not just th
 
 [Read my review on "Snake Behind The Sun" now](/2021/09/shy-low-snake-behind-the-sun-en/).
 
-## Shy, Low "The Beacon"
+## Shy, Low – "The Beacon"
 
 <YouTube id="k7PkgN3DNSk" />
