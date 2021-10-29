@@ -3,7 +3,7 @@ date: 2021-10-29T15:09:10.840Z
 slug: shy-low-interview
 typeName: Interview
 title: Shy, Low im Interview
-subTitle: '"Die Gewissheit, dass hinter jedem Licht ein Schatten ist"'
+subTitle: '"Die Gefahr hinter dem Licht"'
 seoTitle: Shy, Low – Interview mit der Pelagic Band – Post-Rock
 description: Vor Kurzem haben Shy, Low Ihr neues Album "Snake Behind The Sun"
   auf Pelagic veröffentlicht. Jetzt habe ich mich mit der Post-Rock Band aus
@@ -78,7 +78,7 @@ Wir haben über die Aufnahmen ihrer Platte in den Vudu Studios, die Zusammenarbe
 
 **Anne:** Ihr habt Pelagic erzählt, dass "Snake Behind The Sun" ("Schlange hinter der Sonne") eine Metapher für die Theorie, dass sich im Leben eines Menschen Dunkelheit und Negativität sich hinter scheinbar positiven Kräften und einer positiven Persönlichkeit verbergen können. Könnt Ihr Euch noch erinnern, wer dieses Thema aufgebracht hat und was zu dieser Idee für das Album geführt hat?
 
-**Dylan:** Ich glaube, das Bild stammt entweder von Zak oder Drew, aber wir vier können uns in vielerlei Hinsicht damit identifizieren. Ich denke, es steht symbolisch für das Gefühl sich ständig in falscher Sicherheit zu wiegen. Die Gewissheit, dass hinter den Dingen, die Dir Licht spenden und Dich wachsen lassen, auch Schatten ist. Dass da eine Gefahr lauert, selbst wenn Du von all dem Positiven viel zu geblendet bist, um sie zu sehen. Ich denke, ein großer Teil davon hat mit der Politik der letzten 20 Jahre zu tun und mit dem, was unsere Generation aufgrund der Fehltritte der Machthabenden ertragen musste. Also Punkte wie keinen Zugang zu vernünftiger Gesundheitsversorgung zu haben, die hohe Inflation, der längste Krieg in der amerikanischen Geschichte und die drohende Umweltkatastrophe. Ganz gleich, wie gut die Dinge im Alltag erscheinen mögen, wir werden ständig daran erinnert, dass nicht alles so ist, wie es scheint, und dass sich alles jeden Moment verändern kann. Die Symbolik scheint also universell zu sein.  
+**Dylan:** Ich glaube, das Bild stammt entweder von Zak oder Drew, aber wir vier können uns in vielerlei Hinsicht damit identifizieren. Ich denke, es steht symbolisch für das Gefühl sich ständig in falscher Sicherheit zu wiegen. Zu wissen, dass sich hinter den Dingen, die Dir Licht geben und Dich wachsen lassen, eine Gefahr verbirgt, selbst wenn sie Dich zu sehr blenden, um sie zu erkennen. Ich denke, ein großer Teil davon hat mit der Politik der letzten 20 Jahre zu tun und mit dem, was unsere Generation aufgrund der Fehltritte der Machthabenden ertragen musste. Also Punkte wie keinen Zugang zu vernünftiger Gesundheitsversorgung zu haben, die hohe Inflation, der längste Krieg in der amerikanischen Geschichte und die drohende Umweltkatastrophe. Ganz gleich, wie gut die Dinge im Alltag erscheinen mögen, wir werden ständig daran erinnert, dass nicht alles so ist, wie es scheint, und dass sich alles jeden Moment verändern kann. Die Symbolik scheint also universell zu sein.  
 
 **Anne:** Eure Musik lebt von ihren Kontrasten. Ihre gesamte Atmosphäre ist sehr energiegeladen und progressiv. Ist das Leben auch so?
 
