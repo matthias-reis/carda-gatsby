@@ -74,7 +74,7 @@ Wir haben über die Aufnahmen ihrer Platte in den Vudu Studios, die Zusammenarbe
 
 ## "Mit Mike Watts zu arbeiten war großartig"
 
-**Gregg:** Wie bereits erwähnt, hat Mike Watts bei diesen Aufnahmen als Produzent eine wichtige Rolle übernommen. Bevor wir mit den Aufnahmen angefangen haben, haben wir uns mit ihm unterhalten und hatten sofort das Gefühl, dass er uns helfen würde, die Platte so zum Leben zu erwecken, wie wir es uns erhofft hatten. Er, Kevin Preller, der einen großen Teil des Albums produziert hat, und Frank Mitaritonna, der uns bei der Technik unterstützt hat, hatten hervorragende Vorschläge eingebracht. Sie haben außerdem sehr effizient gearbeitet und uns damit zu einer LP verholfen, die unglaublich gut klingt.
+**Gregg:** Wie bereits erwähnt, hat Mike Watts bei diesen Aufnahmen als Produzent eine wichtige Rolle übernommen. Bevor wir mit den Aufnahmen angefangen haben, haben wir uns mit ihm unterhalten und hatten sofort das Gefühl, dass er uns helfen würde, die Platte so zum Leben zu erwecken, wie wir es uns erhofft hatten. Er, Kevin Preller, der einen großen Teil des Albums produziert hat, und Frank Mitaritonna, der uns bei der Technik unterstützt hat, haben hervorragende Vorschläge eingebracht. Sie haben außerdem sehr effizient gearbeitet und uns damit zu einer LP verholfen, die unglaublich gut klingt.
 
 **Anne:** Ihr habt Pelagic erzählt, dass "Snake Behind The Sun" ("Schlange hinter der Sonne") eine Metapher für die Theorie, dass sich im Leben eines Menschen Dunkelheit und Negativität sich hinter scheinbar positiven Kräften und einer positiven Persönlichkeit verbergen können. Könnt Ihr Euch noch erinnern, wer dieses Thema aufgebracht hat und was zu dieser Idee für das Album geführt hat?
 
