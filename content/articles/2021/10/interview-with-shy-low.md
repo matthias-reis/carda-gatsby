@@ -47,7 +47,7 @@ We talked about their recording sessions at the Vudu Studios, working with Pelag
 
 **Dylan:** Feedback has been pretty overwhelming for us. It's been a validating couple of weeks overall. We've heard from many old friends, near and far, who have all been incredibly supportive, and it seems like we've been able to catch some new listeners' attention as well. After focusing for so long on getting this record written, recorded, and released, without the ability to play shows in between, it's gratifying to finally have something to show for the last two years of forced stagnancy (quarantine, etc.). We couldn't be happier with the response, and we're so thankful and honoured to have such strong positive support, especially during such a vulnerable time. It's been pretty wild.
 
-**Anne:** You already gave me some insights about this, and I want to know more about what distinguishes the record from the ones you made before?
+**Anne:** You already gave me some insights about this, and I definitely want to know more about what distinguishes the record from the ones you made before.
 
 ## "'Snake Behind The Sun' is a lot busier than our last album"
 
