@@ -69,6 +69,8 @@ For Shy, Low, "Snake Behind The Sun" is a metaphor for the idea that darkness an
 
 Pelagic has already put a few of the songs online. The newest one, "Umbra", is one of them.
 
+[Read my interview with Shy, Low now](/2021/10/shy-low-interview-en/).
+
 ## Shy, Low – "Umbra"
 
 <YouTube id="MkiJA5-UbQc" />
