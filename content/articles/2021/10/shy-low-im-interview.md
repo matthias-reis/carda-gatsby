@@ -128,3 +128,5 @@ phoenix-interview-de)) sind sogar aktive Tierrechtsaktivisten. Es geht also län
 **Anne:** Vielen Dank für dieses sympathische Interview! Es war mir eine große Freude, Euch kennenzulernen!
 
 **Gregg:** Vielen Dank für die wunderbaren Fragen. Hoffentlich treffen wir uns bald mal auf unseren Reisen. Alles Gute für Dich! Lass es Dir gutgehen!
+
+[Meine Review zu "Snake Behind The Sun" könnt Ihr hier lesen](/2021/09/shy-low-snake-behind-the-sun/).
