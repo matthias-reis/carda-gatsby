@@ -106,7 +106,7 @@ Wir haben über die Aufnahmen ihrer Platte in den Vudu Studios, die Zusammenarbe
 
 **Gregg:** Ich würde sagen, dass jedes Album ein Spiegelbild der Mitglieder ist, die an seiner Entstehung beteiligt waren. Während wir älter werden, reift unsere Musik weiter und entwickelt sich. Alle Platten verfolgen ein bestimmtes Thema, das uns meistens erst nach der Fertigstellung bewusst wurde. Einzeln sind sie alle repräsentativ für den jeweiligen Moment.
 
-**Anne:** Ihr habt mit unterschiedlichen Plattenfirmen zusammengearbeitet, darunter auch Fluttery Record und Spartan Records aus Seattle. Anfang dieses Jahres habt Ihr bekannt gegeben, dass Ihr ab sofort Teil von Pelagic seid. Die sind ziemlich klasse, oder? Wie ist es, mit Pelagic zu arbeiten?
+**Anne:** Ihr habt mit unterschiedlichen Plattenfirmen zusammengearbeitet, darunter auch Fluttery Records und Spartan Records aus Seattle. Anfang dieses Jahres habt Ihr bekannt gegeben, dass Ihr ab sofort Teil von Pelagic seid. Die sind ziemlich klasse, oder? Wie ist es, mit Pelagic zu arbeiten?
 
 ## "Wir sind stolz, Teil von Pelagic zu sein"
 
