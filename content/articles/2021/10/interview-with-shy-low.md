@@ -33,7 +33,7 @@ affiliate: false
 language: en
 languageLink: /2021/10/shy-low-interview/
 ---
-**I am sure you already heard the news that the new Shy, Low record "Snake Behind The Sun" is out. My feature on it received more than just a few visits. So thank you for that! Now I had the chance to talk to the band that people use to mention in one sentence with giants like Cult Of Luna and Russian Circles.***
+**I am sure you already heard the news that the new Shy, Low record "Snake Behind The Sun" is out. My feature on it received more than just a few visits. So thank you for that! Now I had the chance to talk to the band that people use to mention in one sentence with giants like Cult Of Luna and Russian Circles.**
 
 We talked about their recording sessions at the Vudu Studios, working with Pelagic Records and Mike Watts, and the history of the Richmond, Virginia based post-rock band. And about vegetables.
 
