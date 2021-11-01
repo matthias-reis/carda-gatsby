@@ -55,7 +55,7 @@ Weil Vitamin B12 jedoch so wichtig für unsere Zellen ist, ist es auch wichtig, 
 
 ## Wundervoll – Zink von Naturtreu
 
-Bisher kannte ich Zink nur in Tablettenform. Von Naturtreu habe ich jetzt zum ersten Mal Tropfen. Bis zu zehn Stück davon gebt Ihr täglich in ein Glas Wasser. Damit kommt Ihr auf 15 mg, was den Tagesbedarf zu 150 Prozent deckt (Prozentsatz der Nährstoffbezugswerte gemäß VO EU Nr. 1169/2011). Neben dem Immunsystem stärkt Ihr damit auch Eure Haut, Haare und Nägel.
+Bisher kannte ich Zink nur in Tablettenform. Von Naturtreu habe ich jetzt zum ersten Mal Tropfen. Bis zu zehn Stück davon gebt Ihr täglich in ein Glas Wasser. Damit kommt Ihr auf 15 mg, was den Tagesbedarf zu 150 Prozent deckt (Prozentsatz der Nährstoffbezugswerte gemäß VO EU Nr. 1169/2011[^1]). Neben dem Immunsystem stärkt Ihr damit auch Eure Haut, Haare und Nägel.
 
 Ich finde die Dosierform bei den [Wundervoll Zink-Tropfen von Naturtreu](
 https://t.adcell.com/p/click?promoId=254626&slotId=80259&param0=https%3A%2F%2Fnaturtreu.de%2Fproducts%2Fzink-tropfen-wundervoll) mit der Pipette sehr angenehm. Das Präparat ist hoch dosiert und besitzt durch das pflanzliche Glycerin eine hohe Bioverfügbarkeit.
@@ -90,3 +90,5 @@ Die Produkte stellt Naturtreu auf der Basis wissenschaftlicher Erkenntnisse in e
 <Gallery name="naturtreu-vitamine-2" />
 
 [^1]: [Vitamin B12 Mangel Studie](https://www.mri.bund.de/fileadmin/MRI/Institute/EV/NVSII_Abschlussbericht_Teil_2.pdf)
+
+[^2]: [VO EU Nr. 1169/2011](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:304:0018:0063:de:PDF)
