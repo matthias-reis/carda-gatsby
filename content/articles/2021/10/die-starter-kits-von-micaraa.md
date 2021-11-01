@@ -70,7 +70,7 @@ Durch die bei MICARAA übliche Verwendung von nieder- und hochmolekularer Hyalur
 
 ## Ectoin
 
-Ectoin dient dem natürlichen Zellschutz. Zuerst wurde des bei Bakterien in der Wüste entdeckt und anschließend erforscht. Dabei kam heraus, dass es unsere Haut gut vor dem Austrocknen schützt und gleichzeitig Entzündungen hemmt. Außerdem wird dem Stoff nachgesagt, Falten und Pigmentflecken zu reduzieren.
+Ectoin dient dem natürlichen Zellschutz. Zuerst wurde es bei Bakterien in der Wüste entdeckt und anschließend erforscht. Dabei kam heraus, dass es unsere Haut gut vor dem Austrocknen schützt und gleichzeitig Entzündungen hemmt. Außerdem wird dem Stoff nachgesagt, Falten und Pigmentflecken zu reduzieren.
 
 ## Cacayöl
 
