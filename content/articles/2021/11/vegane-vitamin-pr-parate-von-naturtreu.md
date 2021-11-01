@@ -51,7 +51,7 @@ Wenn Ihr Euch die [Zellkraft B12-Tropfen](https://t.adcell.com/p/click?promoId=2
 
 Bestimmt habt Ihr auch schon mal gehört, dass man als Veganer⋆in unbedingt Vitamin B12 zu sich nehmen sollte. Das stimmt, weil die meisten Menschen Vitamin B12 nur aufnehmen, weil es den Tieren, deren Fleisch anschließend von Menschen gegessen wird, über das Futter zugeführt wird. Allerdings leiden auch Menschen, die sich nicht vegan ernähren, unter Vitamin B12-Mangel. In Deutschland haben den neuesten Zahlen zufolge 50 Prozent der Frauen und 21 Prozent der Männer zwischen 35 und 50 Jahren einen Mangel (Quelle: NVS II, 2008[^1]). Hier erfahrt Ihr [alles über Vitamin B12](/2014/08/vitamin-b12-mythos-und-wahrheit/).
 
-Weil Vitamin B12 jedoch so wichtig für unsere Zellen ist, ist es wichtig, dass wir immer genug davon zu uns nehmen, damit der Speicher nicht leer wird. Durch die Tropfenform in diesem Fall nehmt Ihr das B12 bereits über die Mundschleimhaut auf – es kommt also auf jeden Fall an, wo es hinsoll.
+Weil Vitamin B12 jedoch so wichtig für unsere Zellen ist, ist es auch wichtig, dass wir immer genug davon zu uns nehmen, damit der Speicher nicht leer wird. Durch die Tropfenform in diesem Fall nehmt Ihr das B12 bereits über die Mundschleimhaut auf – es kommt also auf jeden Fall an, wo es hinsoll.
 
 ## Wundervoll – Zink von Naturtreu
 
