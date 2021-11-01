@@ -53,14 +53,14 @@ Bestimmt habt Ihr auch schon mal gehört, dass man als Veganer⋆in unbedingt Vi
 
 Weil Vitamin B12 jedoch so wichtig für unsere Zellen ist, ist es essentiell wichtig, dass wir immer genug davon zu uns nehmen, damit der Speicher nicht leer wird. Durch die Tropfenform in diesem Fall nehmt Ihr das B12 bereits über die Mundschleimhaut auf – es kommt also auf jeden Fall an, wo es hinsoll.
 
+<Gallery name="naturtreu-vitamine-1" />
+
 ## Wundervoll – Zink von Naturtreu
 
 Bisher kannte ich Zink nur in Tablettenform. Von Naturtreu habe ich jetzt zum ersten Mal Tropfen. Bis zu zehn Stück davon gebt Ihr täglich in ein Glas Wasser. Damit kommt Ihr auf 15 mg, was den Tagesbedarf zu 150 Prozent deckt (Prozentsatz der Nährstoffbezugswerte gemäß VO EU Nr. 1169/2011[^2]). Neben dem Immunsystem stärkt Ihr damit auch Eure Haut, Haare und Nägel.
 
 Ich finde die Dosierform bei den [Wundervoll Zink-Tropfen von Naturtreu](
 https://t.adcell.com/p/click?promoId=254626&slotId=80259&param0=https%3A%2F%2Fnaturtreu.de%2Fproducts%2Fzink-tropfen-wundervoll) mit der Pipette sehr angenehm. Das Präparat ist hoch dosiert und besitzt durch das pflanzliche Glycerin eine hohe Bioverfügbarkeit.
-
-<Gallery name="naturtreu-vitamine-1" />
 
 ## Vulkanstark
 
