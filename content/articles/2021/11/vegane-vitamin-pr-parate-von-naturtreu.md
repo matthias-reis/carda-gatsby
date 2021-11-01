@@ -35,7 +35,7 @@ language: de
 
 Winterzeit bedeutet ja meistens auch Erkältungszeit. Um mein Immunsystem zu schützen, achte ich darauf, dass ich über die Nahrung immer genügend Vitamine zu mir nehme. 
 
-Vitamin B12 und D3 mit K2 supplementiere ich generell. In den Wintermonaten kommen dann in der Regel bei mir noch ein gutes Vitamin-C-Präparat plus Zink dazu.
+Vitamin B12 und D3 mit K2 supplementiere ich jedoch generell. In den Wintermonaten kommen dann in der Regel bei mir auch noch ein gutes Vitamin-C-Präparat plus Zink dazu.
 
 ## Gesund durch die kalte Jahreszeit
 
