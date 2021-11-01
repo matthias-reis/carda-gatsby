@@ -58,7 +58,7 @@ Vitamin C ist eines der wichtigsten Anti-Aging-Mittel überhaupt. Es kann freie 
 
 ## Nachtkerzenöl
 
-Nachtkerzenöl wird zum Beispiel häufig bei der Behandlung von Neurodermitis, Rosazea und Hautausschlägen verwendet. Es wirkt beruhigend, antioxidativ und beugt Entzündungen vor. Dadurch können Rötungen zurückgehen und die Zellneubildung wird angeregt. Das liegt vor allem auch daran, dass in dem wertvollen Pflanzenöl besonders viele Fettsäuren, wie zum Beispiel Linolsäure enthalten sind.
+Nachtkerzenöl wird zum Beispiel häufig bei der Behandlung von Neurodermitis, Rosazea und Hautausschlägen verwendet. Es wirkt beruhigend, antioxidativ und beugt Entzündungen vor. Dadurch können Rötungen zurückgehen und die Zellneubildung wird angeregt. Das liegt vor allem auch daran, dass in dem wertvollen Pflanzenöl besonders viele Fettsäuren, wie zum Beispiel Linolsäure, enthalten sind.
 
 ## Aloe Vera
 
