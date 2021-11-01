@@ -1,16 +1,16 @@
 ---
 date: 2021-11-02T10:00:20.517Z
-slug: naturtreu-vegane-vitamin-praeparate
+slug: naturtreu-vegane-vitamine
 typeName: Produkttest
-title: Vegane Vitamin-Präparate von Naturtreu
+title: Vegane Vitamine von Naturtreu
 subTitle: Von Vitamin B12 bis Himbeerblätter-Tee
-seoTitle: Vegane Vitamin-Präparate von Naturtreu
+seoTitle: Vegane Vitamine von Naturtreu
 description: Die veganen Vitamin-Präparate von Naturtreu werden in Deutschland
   hergestellt. Das Unternehmen aus Buxtehude möchte so klimaneutral wie möglich
   handeln.
 excerpt: Sie heißen "Blütezeit", "Pflanzenheld" und "Schutzschild" und sind in
   kleine braune Fläschchen und Tiegel verpackt. Hinter den fantasievollen Namen
-  stehen die veganen Vitaminpräparate für verschiedene Lebenslagen von
+  stehen die veganen Vitamin-Präparate für verschiedene Lebenslagen von
   Naturtreu. Ich habe jetzt mal eine Auswahl der Produkte für den Winter
   getestet
 image: /img/2021-10-26-produkttest-75-naturtreu-vitamine.jpg
@@ -31,7 +31,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
-**Sie heißen "Blütezeit", "Pflanzenheld" und "Schutzschild" und sind in kleine braune Fläschchen und Tiegel verpackt. Hinter den fantasievollen Namen stehen die veganen Vitaminpräparate für verschiedene Lebenslagen von Naturtreu. Ich habe jetzt mal eine Auswahl der Produkte für den Winter getestet.**
+**Sie heißen "Blütezeit", "Pflanzenheld" und "Schutzschild" und sind in kleine braune Fläschchen und Tiegel verpackt. Hinter den fantasievollen Namen stehen die veganen Vitamin-Präparate für verschiedene Lebenslagen von Naturtreu. Ich habe jetzt mal eine Auswahl der Produkte für den Winter getestet.**
 
 Winterzeit bedeutet ja meistens auch Erkältungszeit. Um mein Immunsystem zu schützen, achte ich darauf, dass ich über die Nahrung immer genügend Vitamine zu mir nehme. 
 
