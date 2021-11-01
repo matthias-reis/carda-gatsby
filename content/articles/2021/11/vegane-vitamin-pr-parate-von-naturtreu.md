@@ -39,7 +39,7 @@ Vitamin B12 und D3 mit K2 substituiere ich generell. In den Wintermonaten kommen
 
 ## Gesund durch die kalte Jahreszeit
 
-Das alles habe ich selbstverständlich mit meinem Hausarzt abgestimmt, was man immer tun sollte, bevor man zusätzliche Vitamine einnimmt. Ein Blutbild und ein Rundum-Check bringt Aufschluss, ob das überhaupt nötig ist und ob Euch vielleicht etwas ganz Bestimmtes fehlt. Meine momentane Kombination ist perfekt auf meine Bedürfnisse abgestimmt.
+Das alles habe ich selbstverständlich mit meinem Hausarzt abgestimmt, was man immer tun sollte, bevor man zusätzliche Vitamine einnimmt. Ein Blutbild und ein Rundum-Check bringen Aufschluss, ob das überhaupt nötig ist und ob Euch vielleicht etwas ganz Bestimmtes fehlt. Meine momentane Kombination ist perfekt auf meine Bedürfnisse abgestimmt.
 
 Die von mir getesteten Produkte von Naturtreu sind zu 100 Prozent vegan. Auf Tierversuche wird beim Start-up aus Buxtehude bewusst verzichtet. Alles wird in Deutschland hergestellt. Das erklärte Ziel der Gründer⋆innen ist es außerdem, möglichst klimaneutral zu handeln.
 
