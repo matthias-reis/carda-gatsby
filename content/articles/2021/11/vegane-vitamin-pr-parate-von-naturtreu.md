@@ -90,5 +90,4 @@ Die Produkte stellt Naturtreu auf der Basis wissenschaftlicher Erkenntnisse in e
 <Gallery name="naturtreu-vitamine-2" />
 
 [^1]: [Vitamin B12 Mangel Studie](https://www.mri.bund.de/fileadmin/MRI/Institute/EV/NVSII_Abschlussbericht_Teil_2.pdf)
-
 [^2]: [VO EU Nr. 1169/2011](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:304:0018:0063:de:PDF)
