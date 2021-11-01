@@ -66,7 +66,7 @@ Aloe Vera (Auch "Echte Aloe" genannt) habe ich hier im Blog schon diverse Male e
 
 ## Hyaluronsäure
 
-Durch die bei MICARAA übliche Verwendung von nieder- und hochmolekularer Hyaluronsäure können die Moleküle noch besser in die unteren Hautschichten vordringen. Die Wirkung wird also verstärkt. Die Säure säugt für Feuchtigkeit und Straffheit und die Zellproduktion der Haut wird angekurbelt. Außerdem können bei regelmäßiger Anwendung Entzündungen zurückgehen.
+Durch die bei MICARAA übliche Verwendung von nieder- und hochmolekularer Hyaluronsäure können die Moleküle noch besser in die unteren Hautschichten vordringen. Die Wirkung wird also verstärkt. Die Säure sorgt für Feuchtigkeit und Straffheit und die Zellproduktion der Haut wird angekurbelt. Außerdem können bei regelmäßiger Anwendung Entzündungen zurückgehen.
 
 ## Ectoin
 
