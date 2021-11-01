@@ -38,7 +38,7 @@ Weil ich selbst zu trockener und empfindlicher Haut neige, nutze ich die [MICARA
 
 Die kleinen Fläschchen passen auch in die kleinste Kosmetiktasche und so habe ich die passende Pflege immer griffbereit.
 
-Mein [MICARAA  Starter Kit](https://tidd.ly/3Gh1MWO) besteht aus dem Vitamin C Eye Serum, dem Hyaluron Acid Face Serum und der Hydrating Face Cream. Ich kann also unterwegs wie gewohnt, ein Serum für die Augen, eins für die Gesichtshaut und eine Gesichtscreme nutzen.
+Mein [MICARAA  Starter Kit](https://tidd.ly/3Gh1MWO) besteht aus dem Vitamin C Eye Serum, dem Hyaluronic Acid Face Serum und der Hydrating Face Cream. Ich kann also unterwegs wie gewohnt, ein Serum für die Augen, eins für die Gesichtshaut und eine Gesichtscreme nutzen.
 
 Auch, wenn Ihr bisher gezögert habt, ob Ihr [MICARAA mal testen](https://tidd.ly/3bcl01z) wollt, sind die Starter Kits ein praktischer Einstieg für Euch. So braucht Ihr nicht gleich die großen Tiegel kaufen und könnt erstmal schauen, wie Euch die Produkte gefallen und welche genau die richtigen für die Bedürfnisse Eurer Haut sind.
 
