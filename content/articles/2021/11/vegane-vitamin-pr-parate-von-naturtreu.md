@@ -45,7 +45,7 @@ Die von mir getesteten Produkte von Naturtreu sind zu 100 Prozent vegan. Auf Tie
 
 ## Zellkraft – Vitamin B12 von Naturtreu
 
-Dieses Vitamin B12-Präparat von Naturtreu kommt in Tropfenform daher. Ich finde das super praktisch und denke im Moment zum ersten Mal (Hand aufs Herz) wirklich täglich daran, es zu nehmen. Das liegt möglicherweise auch daran, dass die Tropen (zwei davon soll man täglich zu sich nehmen) ganz wunderbar nach Kirsche schmecken.
+Das Vitamin B12-Präparat von Naturtreu kommt in Tropfenform daher. Ich finde das super praktisch und denke im Moment zum ersten Mal (Hand aufs Herz) wirklich täglich daran, es zu nehmen. Das liegt möglicherweise auch daran, dass die Tropen (zwei davon soll man täglich zu sich nehmen) ganz wunderbar nach Kirsche schmecken.
 
 Wenn Ihr Euch die [Zellkraft B12-Tropfen](https://t.adcell.com/p/click?promoId=254626&slotId=80259&param0=https%3A%2F%2Fnaturtreu.de%2Fcollections%2Fall%2Fproducts%2Fzellkraft-vitamin-b12-tropfen) besorgt, braucht Ihr Euch keine Gedanken zu machen, ob Ihr die richtige Menge zu Euch nehmt. Es enthält die beiden hoch bioverfügbare Vitamin B12 Formen Methylcobalamin & Adenosylcobalamin im optimalen Verhältnis von 4:1. Mit zwei Tropfen kommt Ihr auf die empfohlenen 500 µg. In der Flasche sind 1700 Tropfen.
 
