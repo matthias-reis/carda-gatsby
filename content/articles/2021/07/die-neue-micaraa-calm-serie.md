@@ -13,7 +13,7 @@ description: MICARAA hat eine neue Pflege-Serie auf den Markt gebracht. Sie
 image: /img/micaraa-1-.jpg
 ogImage: /img/micaraa-fb.jpg
 labels:
-  - Micaraa
+  - MICARAA
   - vegane Kosmetik
   - Naturkosmetik
   - vegane Naturkosmetik
