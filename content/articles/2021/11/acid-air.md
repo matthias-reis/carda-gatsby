@@ -78,7 +78,7 @@ Mit "The Map", der ersten Veröffentlichung von der Platte,  begann für den Kü
 
 ## "December" – die zweite Vorauskopplung
 
-Das zweite Kapitel "December" ist auch gleichzeitig die zweite Vorauskopplung von "Acid Air". Hier schwelgt Magnus in fantasievollem Post-Rock Storytelling. Magnus erzählt, was ihn dazu inspirierte:
+Das zweite Kapitel "December" ist auch gleichzeitig die zweite Vorauskopplung von "Acid Air". Hier schwelgt Magnus in fantasievollem Post-Rock Storytelling. Der Musiker erzählt, was ihn dazu inspirierte:
 
 > "Der Song basiert auf einem Riff, der mir während einer Tour durch Deutschland mitten im kalten Dezember eingefallen ist. Als ich angefangen habe, weiter an dem Song zu arbeiten, ist der Riff nach und nach verschwunden und etwas anderes hat die Kontrolle übernommen. Ich denke, 'December' hat etwas von diesem großen Erfolgsgefühl, endlich die Ziellinie zu erreichen."
 
