@@ -42,7 +42,7 @@ Auf "Acid Air" verwebt Magnus Elemente aus Post-Rock, Ambient, Dream Pop und Sho
 
 ## Magnus Josefsson liefert ein spannendes Debütalbum ab.
 
-Mir gefällt die ungezwungene Lockerheit und Gelassenheit der Platte und die ganz persönliche Art des Künstlers Musik durch ihre Einfachheit erstrahlen zu lassen, ohne dabei auf Progressivität zu verzichten.
+Mir gefällt die ungezwungene Lockerheit und Gelassenheit der Platte und die ganz persönliche Art des Künstlers, Musik durch ihre Einfachheit erstrahlen zu lassen, ohne dabei auf Progressivität zu verzichten.
 
 Der ätherische Auftakt "Disappearance" zieht mich sofort mitten hinein in die Platte, die ich von hier aus ohne Unterbrechungen durchhören möchte. "December" bringt eine kühle Note mit. Die Takt-angebende Gitarre wandert über dem Stück und erinnert mich ein bisschen an die Filmmusik aus "Twin Peaks". Ein bisschen 1990er, ein bisschen 1950er und ganz viel 2021.
 
