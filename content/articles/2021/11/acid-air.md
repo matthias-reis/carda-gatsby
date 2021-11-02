@@ -86,15 +86,15 @@ Als Produzent und Musiker ist Magnus ziemlich produktiv. Er arbeitet unter ander
 
 Seitdem er nach vielen Jahren außerhalb seiner schwedischen Heimat, die er unter anderem in Berlin, Stockholm, Wien und Weimar verbrachte, nach Fröseke zog, gründete er dort sein Label Mirror Factory. [Hier könnt Ihr mein Interview mit ihm lesen](/2021/05/magnus-josefsson-anette-halbe-stunde/).
 
-Das neue Album "Acid Air" erscheint Mitte November. Die ersten beiden Songs teile ich heute schon mit Euch. 
-
-## Magnus Josefsson – "The Map"
-
-<iframe src="https://open.spotify.com/embed/album/4yVbtU1shhqshix3ep8rtb?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Das neue Album "Acid Air" erscheint Mitte November. Die ersten beiden Songs teile ich heute schon mit Euch.
 
 ## Magnus Josefsson – "December"
 
 <iframe src="https://open.spotify.com/embed/track/7xszkGtIHgsUV13hrLlrAd?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+## Magnus Josefsson – "The Map"
+
+<iframe src="https://open.spotify.com/embed/album/4yVbtU1shhqshix3ep8rtb?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 **Cover/Bild:** Nathalia van de Kerst<br /> 
 **Presse:** Tobias Isaksson, Aloaded
