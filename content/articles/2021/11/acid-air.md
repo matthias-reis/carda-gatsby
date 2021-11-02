@@ -90,11 +90,11 @@ Das neue Album "Acid Air" erscheint Mitte November. Die ersten beiden Songs teil
 
 ## Magnus Josefsson – "The Map"
 
-<Track spotify="7bQZK3gEQmLQA8yWplYFvS?si=e6dc3ca2586f4988" />?
+<iframe src="https://open.spotify.com/embed/album/4yVbtU1shhqshix3ep8rtb?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ## Magnus Josefsson – "December"
 
-<Track spotify="7xszkGtIHgsUV13hrLlrAd?si=ebc28fa2be074cd2" />?
+<iframe src="https://open.spotify.com/embed/track/7xszkGtIHgsUV13hrLlrAd?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 **Cover/Bild:** Nathalia van de Kerst
 **Presse:** Tobias Isaksson, Aloaded
