@@ -77,13 +77,13 @@ https://t.adcell.com/p/click?promoId=254626&slotId=80259&param0=https%3A%2F%2Fna
 ## Das ist Naturtreu
 
 [Naturtreu](
-https://t.adcell.com/p/click?promoId=254626&slotId=80259&param0=https%3A%2F%2Fnaturtreu.de%2F) ist ein Familienunternehmen mit Sitz im norddeutschen Buxtehude. Alexander Adlung (Unternehmensentwicklung) und Alexander Jansen (Produktentwicklung) ist es ein Bedürfnis, dass nicht nur ihre Produkte strengen ökologischen Kriterien unterliegen, sondern die komplette Firma. Sie haben das Unternehmen darum vom Deutschen Institut für Qualitätsstandards und Prüfung mit dem DIQP-Siegel als klimaneutrales Unternehmen zertifizieren lassen. 
+https://t.adcell.com/p/click?promoId=254626&slotId=80259&param0=https%3A%2F%2Fnaturtreu.de%2F) ist ein Familienunternehmen mit Sitz im norddeutschen Buxtehude. Alexander Adlung (Unternehmensentwicklung) und Alexander Jansen (Produktentwicklung) ist es ein Bedürfnis, dass nicht nur ihre Produkte konsequenten ökologischen Kriterien unterliegen, sondern die komplette Firma. Sie haben das Unternehmen darum vom Deutschen Institut für Qualitätsstandards und Prüfung mit dem DIQP-Siegel als klimaneutrales Unternehmen zertifizieren lassen. 
 
 > "Dieser Planet ist der einzige, den wir haben. Wenn wir in diesen Gedanken für nur wenige Sekunden vollständig abtauchen, dann wird uns klar: Über Klimaschutz sollte keine Grundsatzdiskussion mehr geführt werden. Klimaschutz sollte täglich gelebt werden. Denn schließlich sind die Bäume und Wälder nichts weniger als die Lunge unseres Planeten. Und ohne diese gibt es keine Zukunft", 
 
 schreiben sie auf ihrer Webseite.
 
-Das DIQP-Siegel garantiert mit strengsten Vorgaben, insbesondere im Bereich des CO₂-Ausstoßes, dass Naturtreu klimaneutral handelt. Im Fokus steht dabei derzeit vor allem das Aufforstungsprojekt "Kikonda Forrest" in Uganda, welches vom Unternehmen finanziell unterstützt wird.
+Das DIQP-Siegel garantiert mit strengen Vorgaben, insbesondere im Bereich des CO₂-Ausstoßes, dass Naturtreu klimaneutral handelt. Im Fokus steht dabei derzeit vor allem das Aufforstungsprojekt "Kikonda Forrest" in Uganda, welches vom Unternehmen finanziell unterstützt wird.
 
 Die Produkte stellt Naturtreu auf der Basis wissenschaftlicher Erkenntnisse in enger Zusammenarbeit mit Ärzten⋆innen in Deutschland her. Alle Präparate enthalten lediglich notwendige Inhaltsstoffe. 
 
