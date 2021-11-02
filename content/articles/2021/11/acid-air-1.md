@@ -93,7 +93,7 @@ The new album "Acid Air" will be released in mid-November. I share the first two
 
 <iframe src="https://open.spotify.com/embed/track/7xszkGtIHgsUV13hrLlrAd?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-**Cover/Picture:** Nathalia van de Kerst
+**Cover/Picture:** Nathalia van de Kerst<br /> 
 **Press:** Tobias Isaksson, Aloaded
 
 
