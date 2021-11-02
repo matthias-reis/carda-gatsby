@@ -36,7 +36,7 @@ languageLink: /2021/11/magnus-josefsson-acid-air-en/
 ---
 **Magnus Josefsson hat für Dezember sein erstes offizielles Album unter seinem selbst gegründeten Label The Mirror Factory angekündigt. Ich habe "Acid Air" schon gehört und empfehle es Euch hiermit.**
 
-Nach einigen selbst veröffentlichten Singles und einem [Mixtape für Anette Records](LINK) war für Magnus die Zeit für ein komplettes Album gekommen – ein großer Schritt für den Herzblut-Musiker.
+Nach einigen selbst veröffentlichten Singles und einem [Mixtape für Anette Records](/2021/05/magnus-josefsson-anette-halbe-stunde/) war für Magnus die Zeit für ein komplettes Album gekommen – ein großer Schritt für den Herzblut-Musiker.
 
 Sein Label gründete Magnus Josefsson in einer alten Spiegelfabrik (daher der Name "Mirrorfactory") im schwedischen Bundesland Småland. Der Ort ist inzwischen zu einem Zuhause für ihn und seine Freund⋆innen geworden, die alle ihre Musik dort aufnehmen.
 
@@ -84,7 +84,7 @@ Das zweite Kapitel "December" ist auch gleichzeitig die zweite Vorauskopplung vo
 
 Als Produzent und Musiker ist Magnus ziemlich produktiv. Er arbeitet unter anderem mit Bands wie Dungen, Kebnekajse, Anna Järvinen, Joel Alme und The Amazing zusammen. Mit seiner Band Blända hat er bereits drei Alben veröffentlicht, mit denen die Gruppe durch Skandinavien tourte. Mit unterschiedlichen Bands ist er bereits in ganz Europa unterwegs gewesen. Zuletzt war er mit Bondage Fairies auf Tour.
 
-Seitdem er nach vielen Jahren außerhalb seiner schwedischen Heimat, die er unter anderem in Berlin, Stockholm, Wien und Weimar verbrachte, nach Fröseke zog, gründete er dort sein Label Mirror Factory. [Hier könnt Ihr mein Interview mit ihm lesen](LINK).
+Seitdem er nach vielen Jahren außerhalb seiner schwedischen Heimat, die er unter anderem in Berlin, Stockholm, Wien und Weimar verbrachte, nach Fröseke zog, gründete er dort sein Label Mirror Factory. [Hier könnt Ihr mein Interview mit ihm lesen](/2021/05/magnus-josefsson-anette-halbe-stunde/).
 
 Das neue Album "Acid Air" erscheint Mitte November. Die ersten beiden Songs teile ich heute schon mit Euch. 
 
