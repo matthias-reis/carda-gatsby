@@ -8,6 +8,9 @@ seoTitle: '"Acid Air" von Magnus Josefsson – Ambient Review'
 description: Magnus Josefsson hat für Dezember sein erstes offizielles Album
   unter seinem selbst gegründeten Label The Mirror Factory angekündigt. Ich habe
   "Acid Air" schon gehört und möchte es hiermit empfehlen.
+excerpt: Magnus Josefsson hat für Dezember sein erstes offizielles Album unter
+  seinem selbst gegründeten Label The Mirror Factory angekündigt. Ich habe "Acid
+  Air" schon gehört und empfehle es Euch hiermit.
 image: /img/magnus-josefsson.jpg
 copyrigt: Magnus Josefsson
 ogImage: /img/magnus-josefsson-fb.png
