@@ -80,7 +80,7 @@ Mit "The Map", der ersten Veröffentlichung von der Platte,  begann für den Kü
 
 Das zweite Kapitel "December" ist auch gleichzeitig die zweite Vorauskopplung von "Acid Air". Hier schwelgt Magnus in fantasievollem Post-Rock Storytelling. Magnus erzählt, was ihn dazu inspirierte:
 
-> "Der Song basiert auf einem Riff, der mir während einer Tour durch Europa mitten im kalten Dezember eingefallen ist. Als ich angefangen habe, weiter an dem Song zu arbeiten, ist der Riff nach und nach verschwunden und etwas anderes hat die Kontrolle übernommen. Ich denke, 'December' hat etwas von diesem großen Erfolgsgefühl, endlich die Ziellinie zu erreichen."
+> "Der Song basiert auf einem Riff, der mir während einer Tour durch Deutschland mitten im kalten Dezember eingefallen ist. Als ich angefangen habe, weiter an dem Song zu arbeiten, ist der Riff nach und nach verschwunden und etwas anderes hat die Kontrolle übernommen. Ich denke, 'December' hat etwas von diesem großen Erfolgsgefühl, endlich die Ziellinie zu erreichen."
 
 Als Produzent und Musiker ist Magnus ziemlich produktiv. Er arbeitet unter anderem mit Bands wie Dungen, Kebnekajse, Anna Järvinen, Joel Alme und The Amazing zusammen. Mit seiner Band Blända hat er bereits drei Alben veröffentlicht, mit denen die Gruppe durch Skandinavien tourte. Mit unterschiedlichen Bands ist er bereits in ganz Europa unterwegs gewesen. Zuletzt war er mit Bondage Fairies auf Tour.
 
