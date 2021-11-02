@@ -96,6 +96,6 @@ Das neue Album "Acid Air" erscheint Mitte November. Die ersten beiden Songs teil
 
 <iframe src="https://open.spotify.com/embed/track/7xszkGtIHgsUV13hrLlrAd?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-**Cover/Bild:** Nathalia van de Kerst
+**Cover/Bild:** Nathalia van de Kerst<br /> 
 **Presse:** Tobias Isaksson, Aloaded
 
