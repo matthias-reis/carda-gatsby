@@ -72,7 +72,7 @@ Halten wir also fest: Kohlenhydrate sind wichtig für unseren Energiehaushalt. A
 
 ![Komplexe Kohlenhydrate sind gesunde Kohlenhydrate](/img/2021-10-26-produkttest-8-nudeln.jpg "Nudeln mit Pesto schmecken einfach immer")
 
-Zum Abschluss hier noch ein kleiner Ex(ss)Kurs in die Geschichte der Pasta. Nudeln gibt es schon seit über 4.000 Jahren. Das erste bekannte Nudelrezept stammt aus China. Die Forschenden sind sich heute darüber einig, dass Menschen in den unterschiedlichsten Gebieten parallel verschiedene Nudeln entwickelten, sobald ihnen Mehl zur Verfügung stand. In Europa werden sie seit etwa 2.000 Jahren gegessen. Abbildungen von Nudelhölzern und anderem Pasta-Zubehör wurden in etruskischen Grabstätten gefunden.
+Zum Abschluss hier noch ein kleiner Ex(ss)kurs in die Geschichte der Pasta. Nudeln gibt es schon seit über 4.000 Jahren. Das erste bekannte Nudelrezept stammt aus China. Die Forschenden sind sich heute darüber einig, dass Menschen in den unterschiedlichsten Gebieten parallel verschiedene Nudeln entwickelten, sobald ihnen Mehl zur Verfügung stand. In Europa werden sie seit etwa 2.000 Jahren gegessen. Abbildungen von Nudelhölzern und anderem Pasta-Zubehör wurden in etruskischen Grabstätten gefunden.
 
 Und was gibt es bei Euch heute zum Abendessen? Bei mir auf alle Fälle irgendwas mit Nudeln.
 
