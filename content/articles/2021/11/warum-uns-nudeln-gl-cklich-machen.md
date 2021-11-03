@@ -13,9 +13,9 @@ excerpt: Woran liegt es eigentlich, dass Nudeln glücklich machen? Stimmt das
   wirklich? Ist es nur ein Gerücht? Aber eigentlich fühlt es sich doch wirklich
   so an, oder? Ich habe mal zusammengefasst, woran es liegt, dass man sich nach
   ein bis drei Tellern Spaghetti oder Fussili so viel besser fühlt, als vorher.
-image: /img/2021-10-26-produkttest-18-nudeln.jpg
+image: /img/2021-10-26-produkttest-18-nudeln-1.jpg
 copyrigt: ""
-ogImage: /img/nudeln-fb.png
+ogImage: /img/nudeln-uns-gluecklich-machen-fb.png
 labels:
   - Nudeln
   - Pasta
@@ -48,7 +48,7 @@ Das bedeutet auch, dass wir Pasta zum Stressabbau einsetzen können. Das funktio
 
 ## Nudeln machen glücklich und sind gesund
 
-![Warum uns Nudeln glücklich machen](/img/2021-10-26-produkttest-28-nudeln.jpg "Bandnudeln mit Gemüse und Tofu")
+![Warum uns Nudeln glücklich machen](/img/2021-10-26-produkttest-28-nudeln-1.jpg "Bandnudeln mit Gemüse und Tofu")
 
 Hinzu kommt, dass Nudeln sehr gesund sind. Und sind wir mal ehrlich: Auch das kann einem ein Lächeln aufs Gesicht zaubern, oder? Unsere Spaghetti und Farfalle stecken voller wertvoller Mineralien, Vitamine und Spurenelemente. Wir versorgen unseren Körper mit Kalium, Kalzium und Magnesium, wenn wir sie essen. Mit 100 Gramm herkömmlichen Nudeln nehmt Ihr 359 Kalorien zu Euch. Aufgeteilt sind das 1,6 Gramm Fett (davon 0,4 Gramm gesättigte Fettsäuren), 72 Gramm Kohlenhydrate (davon 3 Gramm Zucker), 3,2 Gramm Ballaststoffe, 12,5 Gramm Eiweiß und unter 0,1 Gramm Salz.
 
@@ -60,7 +60,7 @@ Natürlich gibt es auch noch Dinkel-Vollkorn-Nudeln, Reisnudeln, Buchweizen-Nude
 
 ## Komplexe Kohlenhydrate sind gesunde Kohlenhydrate
 
-![Warum uns Nudeln glücklich machen](/img/2021-10-26-produkttest-21-nudeln.jpg "Komplexe Kohlenhydrate sind gesunde Kohlenhydrate")
+![Warum uns Nudeln glücklich machen](/img/2021-10-26-produkttest-21-nudeln-1.jpg "Komplexe Kohlenhydrate sind gesunde Kohlenhydrate")
 
 Wir haben also gelernt, dass Nudeln zu rund 70 Prozent aus Kohlenhydraten bestehen. Jetzt wird es interessant (Scotty, Energie!). Es handelt sich dabei um komplexe Kohlenhydrate in Form von Stärke. Weil sie vom menschlichen Organismus langsam verwertet wird, kann ein Energievorrat gebildet werden, den wir so lange anzapfen können, bis er leer ist. Unsere Leistungsfähigkeit wird dadurch gesteigert.
 
