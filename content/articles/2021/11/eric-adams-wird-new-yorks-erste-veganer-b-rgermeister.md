@@ -31,7 +31,9 @@ language: de
 
 Der ehemalige Präsident von Brooklyn Borough gewann den Wahlkampf gegen seinen Gegner Republikaner Curtis Sliwa, nachher er im Juli bereits die Vorwahlen für sich entschieden hatte. Damals hatte sich der 61-jährige Ex-Polizist gegen seine Mitstreiter⋆innen, die ehemalige Stadtreinigungs-Beauftragte Kathryn Garcia, die Rechtsberaterin A. D. Maya Wiley und den ehemaligen Präsidentschaftskandidaten für 2020 Andrew Yang durchgesetzt.
 
-Im Mittelpunkt des Wahlkampfs standen dieses Mal vor allem Themen wie Impfvorschriften für städtische Angestellte, Hilfe für obdachlose Menschen und Maßnahmen im Kampf gegen die Klimakatastrophe. Adams und Sliwa hatten über diesen Themen die ganze Zeit im Clinch gelegen. 
+Im Mittelpunkt des Wahlkampfs standen dieses Mal vor allem Themen wie Impfvorschriften für städtische Angestellte, Hilfe für obdachlose Menschen und Maßnahmen im Kampf gegen die Klimakatastrophe. Adams und Sliwa hatten über diesen Themen die ganze Zeit im Clinch gelegen.
+
+## Innige Tierliebe verbindet zwei politische Gegner 
 
 Was die beiden jedoch vereint, ist ihre innige Tierliebe. Sliwa teilt sich sein Zuhause mit 16 geretteten Katzen und machte sich unter anderem für den Ausbau der New Yorker Tierheime und das Verbot von Pferdekutschen stark.
 
@@ -41,11 +43,15 @@ In einer Pressemitteilung erklärte Adams:
 
 > "Während meiner kompletten Wahlkampagne habe ich immer wieder über meine gesundheitliche Entwicklung gesprochen. Nachdem ich angefangen habe, mich vegan zu ernähren, habe ich es geschafft, meinen Typ-2-Diabetes zu besiegen. Dadurch hat sich nicht nur mein Leben, sondern auch meine Karriere im öffentlichen Dienst verändert. Ich möchte mich jetzt dafür einsetzen, diese Botschaft zu verbreiten und die New Yorker⋆innen dabei unterstützen, zu einem gesunden Lebensstil zu finden."
 
+## Kampf gegen Racial Profiling
+
 Der frisch gebackene Bürgermeister von NY hatte 22 Jahre im Polizeidienst gearbeitet. Er hatte sich für diesen Job entschieden, weil er laut eigener Aussage von innen heraus Veränderungen bewirken wollte, was ihm so nicht möglich gewesen wäre. Er gründete unter anderem die Organisation 100 Blacks in Law Enforcement Who Care. Diese setzt Sicht gegen Racial Profiling und für eine Reform der Strafjustiz ein. Im Jahr 2014 verließ Adams das NYPD, um an einer Karriere als Politiker zu arbeiten. 2014 wurde er dann als erster BIPoC zum Präsidenten des New Yorker Stadtbezirks Brooklyn gewählt.
 
 Zum Veganer wurde der Ex-Polizist ursprünglich, weil er etwas gegen die sich anbahnenden Symptome seines Diabetes unternehmen wollte. Als Brooklyn Borough President half er anschließend auch seinen Mitbürger⋆innen, ihre Gesundheit zu verbessern. Eigens dafür gründete er unter anderem ein Programm für pflanzenbasierte Medizin für die New Yorker Krankenhäuser NYC Health + Hospitals/Bellevue. Bei den angeschlossenen Einrichtungen handelt es sich um das größte medizinische System der Stadt.
 
 Um die Ausbildung in pflanzlicher Ernährungslehre am an der State University of New York zu unterstützen, bewilligte er im Mai einen Zuschuss von 10.000 Dollar. Das Geld wurde zur Einrichtung der Food as Medicine Initiative verwendet. Dabei handelt es sich um ein Zusatzprogramm zu bestehenden Lehrplan. Künftigen medizinischen Fachkräften soll damit die gesunde Wirkung pflanzlicher Lebensmittel nähergebracht werden.
+
+## "Gesunde Ernährung sollte für alle zugänglich sein"
 
 Um auch den Jüngsten in der Gesellschaft den Zugang zu veganen Lebensmitteln zu erleichtern, arbeitet Eric Adams mit dem ehemaligen New Yorker Bürgermeister Bill de Blasio zusammen. Gemeinsam führten sie an 15 Schulen einen fleischlosen Montag ein. Das Programm wurde 2019 vom damals amtierenden Bürgermeister für alle 1.700 öffentlichen New Yorker Schulen übernommen.
 
@@ -54,6 +60,8 @@ Mit der Resolution 238 forderte Adams dieses Jahr dann das Bildungsministerium d
 In seiner Erklärung gegenüber der Presse bei seiner Kandidatur zeigte sich der Politiker als Teil der New Yorker Gesellschaft:
 
 > "Wie für viele New Yorker⋆innen war auch mein Leben eines voller Kämpfe. Auch ich habe es nicht immer leicht gehabt. Meine Mutter hat sich ihre Finger wund gearbeitet und Häuser geputzt, um ganz alleine sechs Kinder großzuziehen. Aber wir haben es geschafft. Wir haben durchgehalten. Denn das ist es, was New Yorker⋆innen tun. Unsere Stadt leidet heute Schmerzen und ich weiß, dass ich ihr helfen kann, weil ich das Leben der Menschen, die hier am meisten leiden, miterlebt habe. Ich habe gesehen, was in dieser Stadt funktioniert und was nicht. Wenn wir wirklich fortschrittlich sein wollen, müssen wir die Regierung in Ordnung bringen und ineffiziente Bürokratie beseitigen."
+
+## "Mit dem Geld der Steuerzahler⋆innen sollte keine Gesundheitskrise ausgelöst werden"
 
 Als Bürgermeister der Stadt New York möchte Eric Adams seine Erfahrungen bei der Überwindung seiner Krankheit durch vegane Ernährung mit noch mehr Menschen teilen. Gegenüber GrubStreet[^1] sagte er vor Kurzem:
 
