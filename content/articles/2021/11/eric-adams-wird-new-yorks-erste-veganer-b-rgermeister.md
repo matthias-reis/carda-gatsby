@@ -45,7 +45,7 @@ In einer Pressemitteilung erklärte Adams:
 
 ## Kampf gegen Racial Profiling
 
-Der frisch gebackene Bürgermeister von NY hatte 22 Jahre im Polizeidienst gearbeitet. Er hatte sich für diesen Job entschieden, weil er laut eigener Aussage von innen heraus Veränderungen bewirken wollte, was ihm so nicht möglich gewesen wäre. Er gründete unter anderem die Organisation 100 Blacks in Law Enforcement Who Care. Diese setzt sich gegen Racial Profiling und für eine Reform der Strafjustiz ein. Im Jahr 2014 verließ Adams das NYPD, um an einer Karriere als Politiker zu arbeiten. 2014 wurde er dann als erster BIPoC zum Präsidenten des New Yorker Stadtbezirks Brooklyn gewählt.
+Der frisch gebackene Bürgermeister von NY hatte 22 Jahre im Polizeidienst gearbeitet. Er hatte sich für diesen Job entschieden, weil er laut eigener Aussage von innen heraus Veränderungen bewirken wollte, was ihm so nicht möglich gewesen wäre. Er gründete unter anderem die Organisation 100 Blacks in Law Enforcement Who Care. Diese setzt sich gegen Racial Profiling und für eine Reform der Strafjustiz ein. Im Jahr 2014 verließ Adams das NYPD, um an seiner Karriere als Politiker zu arbeiten. 2014 wurde er dann als erster BIPoC zum Präsidenten des New Yorker Stadtbezirks Brooklyn gewählt.
 
 Zum Veganer wurde der Ex-Polizist ursprünglich, weil er etwas gegen die sich anbahnenden Symptome seines Diabetes unternehmen wollte. Als Brooklyn Borough President half er anschließend auch seinen Mitbürger⋆innen, ihre Gesundheit zu verbessern. Eigens dafür gründete er unter anderem ein Programm für pflanzenbasierte Medizin für die New Yorker Krankenhäuser NYC Health + Hospitals/Bellevue. Bei den angeschlossenen Einrichtungen handelt es sich um das größte medizinische System der Stadt.
 
