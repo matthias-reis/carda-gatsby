@@ -49,7 +49,7 @@ Der frisch gebackene Bürgermeister von NY hatte 22 Jahre im Polizeidienst gearb
 
 Zum Veganer wurde der Ex-Polizist ursprünglich, weil er etwas gegen die sich anbahnenden Symptome seines Diabetes unternehmen wollte. Als Brooklyn Borough President half er anschließend auch seinen Mitbürger⋆innen, ihre Gesundheit zu verbessern. Eigens dafür gründete er unter anderem ein Programm für pflanzenbasierte Medizin für die New Yorker Krankenhäuser NYC Health + Hospitals/Bellevue. Bei den angeschlossenen Einrichtungen handelt es sich um das größte medizinische System der Stadt.
 
-Um die Ausbildung in pflanzlicher Ernährungslehre am an der State University of New York zu unterstützen, bewilligte er im Mai einen Zuschuss von 10.000 Dollar. Das Geld wurde zur Einrichtung der Food as Medicine Initiative verwendet. Dabei handelt es sich um ein Zusatzprogramm zu bestehenden Lehrplan. Künftigen medizinischen Fachkräften soll damit die gesunde Wirkung pflanzlicher Lebensmittel nähergebracht werden.
+Um die Ausbildung in pflanzlicher Ernährungslehre an der State University of New York zu unterstützen, bewilligte er im Mai einen Zuschuss von 10.000 Dollar. Das Geld wurde zur Einrichtung der Food as Medicine Initiative verwendet. Dabei handelt es sich um ein Zusatzprogramm zu bestehenden Lehrplan. Künftigen medizinischen Fachkräften soll damit die gesunde Wirkung pflanzlicher Lebensmittel nähergebracht werden.
 
 ## "Gesunde Ernährung sollte für alle zugänglich sein"
 
