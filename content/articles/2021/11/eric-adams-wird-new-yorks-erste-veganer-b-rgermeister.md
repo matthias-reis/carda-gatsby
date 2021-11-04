@@ -29,7 +29,7 @@ language: de
 ---
 **Sicher habt Ihr schon von Eric Adams gehört. Er wurde vor zwei Tagen offiziell zum neuen Bürgermeister von New York ernannt und ist der erste Veganer im Amt! In New York setzt er sich seit Jahren für Gesundheitskampagnen und gegen Rassismus ein.**
 
-Der ehemalige Präsident von Brooklyn Borough gewann den Wahlkampf gegen seinen Gegner Republikaner Curtis Sliwa, nachher er im Juli bereits die Vorwahlen gewonnen hatte. Damals hatte sich der 61-jährige Ex-Polizist gegen seine Mitstreiter⋆innen, die ehemalige Stadtreinigungs-Beauftragte Kathryn Garcia, die Rechtsberaterin A. D. Maya Wiley und den ehemaligen Präsidentschaftskandidaten für 2020 Andrew Yang durchgesetzt.
+Der ehemalige Präsident von Brooklyn Borough gewann den Wahlkampf gegen seinen Gegner Republikaner Curtis Sliwa, nachher er im Juli bereits die Vorwahlen für sich entschieden hatte. Damals hatte sich der 61-jährige Ex-Polizist gegen seine Mitstreiter⋆innen, die ehemalige Stadtreinigungs-Beauftragte Kathryn Garcia, die Rechtsberaterin A. D. Maya Wiley und den ehemaligen Präsidentschaftskandidaten für 2020 Andrew Yang durchgesetzt.
 
 Im Mittelpunkt des Wahlkampfs standen dieses Mal vor allem Themen wie Impfvorschriften für städtische Angestellte, Hilfe für obdachlose Menschen und Maßnahmen im Kampf gegen die Klimakatastrophe. Adams und Sliwa hatten über diesen Themen die ganze Zeit im Clinch gelegen. 
 
