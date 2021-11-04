@@ -3,7 +3,7 @@ date: 2021-11-04T14:47:25.391Z
 slug: eric-adams
 typeName: Beitrag
 title: Eric Adams wird New Yorks erste veganer Bürgermeister
-subTitle: Politiker setzt sich für pflanzliche Ernährung ein
+subTitle: Politiker kämpft für pflanzliche Ernährung und gegen Rassismus
 seoTitle: Eric Adams wird New Yorks erste veganer Bürgermeister
 description: Eric Adams wurde vor zwei Tagen offiziell zum neuen Bürgermeister
   von New York ernannt und ist der erste Veganer im Amt. In New York setzt er
@@ -65,7 +65,7 @@ Er möchte pflanzliche Ernährung zu einem landesweiten Thema machen. Im Gesprä
 
 > "Wir brauchen einen Dialoge über vegane Ernährung."
 
-Diese Message möchte Eric Adams am liebsten so weit wie möglich verbreiten – auch außerhalb der Stadtgrenzen von New York. Aus diesem Grund ist er auch in mehreren veganen Dokumentarfilmen zu sehen, darunter "They're Trying To Kill Us", in dem es um die Zusammenhänge zwischen Ernährung, Armut und systemischen Rassismus geht.
+Diese Message möchte Eric Adams am liebsten so weit wie möglich verbreiten – auch außerhalb der Stadtgrenzen von New York. Aus diesem Grund ist er auch in mehreren veganen Dokumentarfilmen zu sehen, darunter "They're Trying To Kill Us", in dem es um die Zusammenhänge zwischen Ernährung, Armut und strukturellen Rassismus geht.
 
 Bild/Picture: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Borough_President_Adams_.jpg)
 
