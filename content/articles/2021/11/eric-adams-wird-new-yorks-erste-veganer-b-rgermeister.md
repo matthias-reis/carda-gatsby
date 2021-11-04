@@ -71,7 +71,7 @@ Vor Kurzem veröffentlichte der engagierte New Yorker sein Buch "Healthy At Last
 
 Er möchte pflanzliche Ernährung zu einem landesweiten Thema machen. Im Gespräch mit US-Präsident Joe Biden sagte er im Januar: 
 
-> "Wir brauchen einen Dialoge über vegane Ernährung."
+> "Wir brauchen einen Dialog über vegane Ernährung."
 
 Diese Message möchte Eric Adams am liebsten so weit wie möglich verbreiten – auch außerhalb der Stadtgrenzen von New York. Aus diesem Grund ist er auch in mehreren veganen Dokumentarfilmen zu sehen, darunter "They're Trying To Kill Us", in dem es um die Zusammenhänge zwischen Ernährung, Armut und strukturellen Rassismus geht.
 
