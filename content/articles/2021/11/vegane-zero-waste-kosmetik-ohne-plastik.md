@@ -75,7 +75,7 @@ Dass heute alle von einem Umdenken reden, hält uns nicht davon ab, immer mehr P
 
 > "Wir sehen uns der Gesellschaft gegenüber verpflichtet und sehen es als unsere unternehmerische Verantwortung, Umwelt- und Tierschutzprojekte nach besten Möglichkeiten zu fördern und zu unterstützen."
 
-puremetics Gründer⋆innen hat also dem Plastikmüll den Kampf angesagt. Sie wollten es nicht mehr länger hinnehmen, dass heutzutage alles in Kunststoff verpackt wird und stellten daher ihren Alltag um. Dabei entstand die Idee, diesen Gedanken auch mit anderen zu teilen – durch nachhaltige, plastikfreie Produkte.
+puremetics hat also dem Plastikmüll den Kampf angesagt. Sie wollten es nicht mehr länger hinnehmen, dass heutzutage alles in Kunststoff verpackt wird und stellten daher ihren Alltag um. Dabei entstand die Idee, diesen Gedanken auch mit anderen zu teilen – durch nachhaltige, plastikfreie Produkte.
 
 ## Alle Produkte sind vegan
 
