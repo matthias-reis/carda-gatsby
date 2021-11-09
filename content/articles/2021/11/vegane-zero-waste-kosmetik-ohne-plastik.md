@@ -48,6 +48,8 @@ Für das Shampoo-Pulver benutzt puremetics ein mildes, veganes Tensid. Hinzu kom
 
 Ihr könnt das Shampoo-Pulver auf zwei verschiedene Arten verwenden: Entweder rührt Ihr es in einem kleinen Behälter an und gebt es so auf die Haare, oder Ihr schäumt es direkt in der Hand auf. Mit meinen Haaren, die im Moment wieder etwas länger sind, hat sich die erste Variante als praktischer erwiesen. Das Shampoo an sich finde ich klasse. Es wäscht die Haare super sauber und ich kann sie danach sogar ohne saure Rinse oder Spülung problemlos durchkämmen. Das dürfte am pH-Wert liegen, der bei 5,5 liegt. Der Duft erinnert mich an eine Hautcreme, die ich aus meiner Kindheit kenne – ich empfinde ihn als sehr angenehm. Wenn Ihr mal was anderes ausprobieren wollt, als ein festes Shampoo, kann ich Euch [das Shampoo-Pulver von puremetics auf jeden Fall ans Herz legen. Neben der [von mir getesteten Sorte "Macadamia, Hafermilch"](https://t.adcell.com/p/click?promoId=235987&slotId=80259&param0=https%3A%2F%2Fpuremetics.de%2Fcollections%2Fshampoos-conditioner-kuren%2Fproducts%2Fshampoo-pulver-macadamia-hafermilch) gibt es auch noch andere Varianten. [Schaut Euch am besten einfach mal um](https://t.adcell.com/p/click?promoId=235987&slotId=80259&param0=https%3A%2F%2Fpuremetics.de%2Fcollections%2Fshampoos-conditioner-kuren).
 
+<Gallery name="puremetics-1" />
+
 ## Gesichtspflege-Seife "Wildrose"
 
 Die Gesichtspflege-Seife "Wildrose" ist für reife, trockene und pflegebedürftige Haut gedacht. Sie soll die Haut nicht zu sehr fetten und Ihr könnt sie sogar als Maske nutzen. Ihr Geheimnis beruht auf einem Mix aus hochwertigen Ölen, die im schonenden Kaltverfahren gesiedet werden. Sie sollen die Haut vor dem Austrocknen bewahren. Das enthaltene Wildrosenöl soll die Spannkraft verbessern und das Hautbild verfeinern.
@@ -80,3 +82,5 @@ puremetics Gründer⋆innen hat also dem Plastikmüll den Kampf angesagt. Sie wo
 Die Sachen von puremetics sind nicht nur frei von Plastik, sondern auch von bedenklichen Inhaltsstoffen. Außerdem ist alles komplett vegan. Das heißt: Alle Inhaltsstoffe sind vegan und Peta-approved. Und das Beauty-Start-up will auch noch auf eine andere Art etwas für den Planeten tun: in Form einer Kooperation mit Cleanhub.
 
 Falls Euch der Name Cleanup nichts sagt: Die Berliner fischen überall auf der Welt Plastik aus dem Meer. Von Firmen wie puremetics werden sie dabei durch Spenden unterstützt. Wenn Ihr etwas bei puremetics bestellt, geht ein Teil Eures Geldes an Cleanhub – für jede Bestellung wird ein komplettes Kilo Plastik aus dem Meer geborgen. Ihr findet auf der puremetics Webseite [noch mehr Infos dazu](https://t.adcell.com/p/click?promoId=235987&slotId=80259&param0=https%3A%2F%2Fpuremetics.de%2Fpages%2Fmission).
+
+<Gallery name="puremetics-2" />
