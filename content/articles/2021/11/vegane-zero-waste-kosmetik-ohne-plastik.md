@@ -40,7 +40,7 @@ Was auf meinen Bildern auf den ersten Blick aussieht, wie Eiscreme, ist das Dusc
 
 ## Deo-Stick "Coconut Cream"
 
-Im Gegensatz zu vielen anderen Deo-Produkten kommt der Deo-Stick Coconut Cream von puremetics komplett ohne Plastik aus. Die Karton-Hülle schützt ihn perfekt und Ihr könnt den Stick bequem mit dem Finger weiter nach oben schieben, wenn er sich abnutzt. Er duftet sehr dezent – Ihr könnt ihn also super mit Eurem Lieblings-Parfum kombinieren. Dafür wirkt er sehr gut. Auch nach einer langen [Yoga-Session](/2021/02/yoga-stile/) konnte ich keinen Schweißgeruch feststellen. Wenn Ihr also auf der Suche nach einem neutralen, verträglichen Deo seid und keinen unnötigen Müll machen wollt, solltet Ihr Euch den [Deo-Stick "Coconut Cream"](LINK) auf jeden Fall mal anschauen.
+Im Gegensatz zu vielen anderen Deo-Produkten kommt der Deo-Stick "Coconut Cream" von puremetics komplett ohne Plastik aus. Die Karton-Hülle schützt ihn perfekt und Ihr könnt den Stick bequem mit dem Finger weiter nach oben schieben, wenn er sich abnutzt. Er duftet sehr dezent – Ihr könnt ihn also super mit Eurem Lieblings-Parfum kombinieren. Dafür wirkt er sehr gut. Auch nach einer langen [Yoga-Session](/2021/02/yoga-stile/) konnte ich keinen Schweißgeruch feststellen. Wenn Ihr also auf der Suche nach einem neutralen, verträglichen Deo seid und keinen unnötigen Müll machen wollt, solltet Ihr Euch den [Deo-Stick "Coconut Cream"](LINK) auf jeden Fall mal anschauen.
 
 ## Shampoo-Pulver
 
