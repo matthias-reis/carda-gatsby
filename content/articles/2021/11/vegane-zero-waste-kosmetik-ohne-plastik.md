@@ -26,6 +26,7 @@ labels:
   - Duschseife
   - Fair Fashion & Beauty
   - PETA-approved
+  - Cleanhub
 focusKeyword: Zero Waste Kosmetik
 advertisement: true
 affiliate: true
@@ -82,6 +83,6 @@ puremetics hat also dem Plastikmüll den Kampf angesagt. Die Gründer des nachha
 
 Die Sachen von puremetics sind nicht nur frei von Plastik, sondern auch von bedenklichen Inhaltsstoffen. Außerdem sind alle Inhaltsstoffe vegan und PETA-approved. Und das Beauty-Start-up will auch noch auf eine andere Art etwas für den Planeten tun: in Form einer Kooperation mit Cleanhub.
 
-Falls Euch der Name Cleanup nichts sagt: Die Berliner fischen überall auf der Welt Plastik aus dem Meer. Von Firmen wie puremetics werden sie dabei durch Spenden unterstützt. Wenn Ihr etwas bei puremetics bestellt, geht ein Teil Eures Geldes an Cleanhub – für jede Bestellung wird ein komplettes Kilo Plastik aus dem Meer geborgen. Ihr findet auf der puremetics Webseite [noch mehr Infos dazu](https://t.adcell.com/p/click?promoId=235987&slotId=80259&param0=https%3A%2F%2Fpuremetics.de%2Fpages%2Fmission).
+Falls Euch der Name Cleanhub nichts sagt: Die Berliner fischen überall auf der Welt Plastik aus dem Meer. Von Firmen wie puremetics werden sie dabei durch Spenden unterstützt. Wenn Ihr etwas bei puremetics bestellt, geht ein Teil Eures Geldes an Cleanhub – für jede Bestellung wird ein komplettes Kilo Plastik aus dem Meer geborgen. Ihr findet auf der puremetics Webseite [noch mehr Infos dazu](https://t.adcell.com/p/click?promoId=235987&slotId=80259&param0=https%3A%2F%2Fpuremetics.de%2Fpages%2Fmission).
 
 <Gallery name="puremetics-2" />
