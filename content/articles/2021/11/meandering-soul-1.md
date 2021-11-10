@@ -5,13 +5,13 @@ typeName: Review
 title: '"Meandering Soul"'
 subTitle: Das neue Album von Djiin
 seoTitle: '"Meandering Soul" von Djiin – Prog Review'
-description: Djiin haben mit Klonosphere und Season Of Mist ein Album
-  aufgenommen, dass Ihr Euch mal anhören solltet, wenn Ihr mit Prog, Stoner Rock
-  und Doom was anfangen könnt – und mit den frühen Sachen von Black Sabbath.
-excerpt: Djiin haben mit Klonosphere und Season Of Mist eine Platte gemacht. Das
-  klingt doch, als sollte man da mal reinhören, oder? Ich habe das getan und
-  habe hier die wichtigsten Rahmendaten für das Ende der Woche erscheinende
-  Album "Meandering Soul" für Euch.
+description: Djiin haben mit Season Of Mist ein Album aufgenommen, dass Ihr Euch
+  mal anhören solltet, wenn Ihr mit Prog, Stoner Rock und Doom was anfangen
+  könnt – und mit den frühen Sachen von Black Sabbath.
+excerpt: Djiin haben mit Season Of Mist eine Platte gemacht. Das klingt doch,
+  als sollte man da mal reinhören, oder? Ich habe das getan und habe hier die
+  wichtigsten Rahmendaten für das Ende der Woche erscheinende Album "Meandering
+  Soul" für Euch.
 image: /img/djiin-2.jpeg
 copyrigt: Djiin
 ogImage: /img/djiin-fb.png
@@ -29,13 +29,14 @@ labels:
   - Review
   - Reviews
   - Progressive Rock
+  - Season Of Mist
 focusKeyword: Meandering Soul
 advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/11/djiin-meandering-soul-en/
 ---
-**Djiin haben mit Klonosphere und Season Of Mist eine Platte gemacht. Das klingt doch, als sollte man da mal reinhören, oder? Ich habe das getan und habe hier die wichtigsten Rahmendaten für das Ende der Woche erscheinende Album "Meandering Soul" für Euch.**
+**Djiin haben mit und Season Of Mist eine Platte gemacht. Das klingt doch, als sollte man da mal reinhören, oder? Ich habe das getan und habe hier die wichtigsten Rahmendaten für das Ende der Woche erscheinende Album "Meandering Soul" für Euch.**
 
 Die Entwicklung von Season Of Mist verfolge ich ja schon längere Zeit. Inzwischen sind einige wirklich spannende Bands bei dem kleinen Label untergekommen. Eine von ihnen ist Djiin. Die Band aus dem französischen Rennes veröffentlicht seit 2017 Musik. Das neueste Werk "Meandering Soul" verdient Aufmerksamkeit.
 
