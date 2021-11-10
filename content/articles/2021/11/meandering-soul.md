@@ -37,7 +37,7 @@ affiliate: false
 language: en
 languageLink: /2021/11/djiin-meandering-soul/
 ---
-**Djiin recorded a record with Season Of Mist – Because this sounds like we should give them a listen, I did that, and of course, I have put together all essential details about "Meandering Soul", which will be released by the end of this week.**
+**Djiin recorded an album with Season Of Mist – Because this sounds like we should give them a listen, I did that, and of course, I have put together all essential details about "Meandering Soul", which will be released by the end of this week.**
 
 I have been following the development of Season Of Mist for quite some time now. In the meantime, some inspiring bands have found a home on the small label. One of them is Djiin. The quartet from Rennes, France, has been releasing music since 2017. Their latest work, "Meandering Soul", definitely deserves our attention.
 
