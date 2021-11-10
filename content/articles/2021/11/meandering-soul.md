@@ -21,14 +21,15 @@ labels:
   - Prog
   - Doom
   - Stoner
-  - Stoner-Rock
-  - Prog-Rock
+  - Stoner Rock
+  - Prog Rock
   - Progressive
   - Music
   - Bands
   - Band
   - Review
   - Reviews
+  - Progressive Rock
 focusKeyword: Meandering Soul
 advertisement: false
 affiliate: false
