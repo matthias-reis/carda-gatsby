@@ -38,7 +38,7 @@ languageLink: /2021/11/djiin-meandering-soul-en/
 ---
 **Djiin haben mit Season Of Mist eine neue Platte gemacht. Das klingt doch, als sollte man da mal reinhören, oder? Ich habe das getan und habe hier die wichtigsten Rahmendaten für das Ende der Woche erscheinende Album "Meandering Soul" für Euch.**
 
-Die Entwicklung von Season Of Mist verfolge ich ja schon längere Zeit. Inzwischen sind einige wirklich spannende Bands bei dem kleinen Label untergekommen. Eine von ihnen ist Djiin. Die Band aus dem französischen Rennes veröffentlicht seit 2017 Musik. Das neueste Werk "Meandering Soul" verdient Aufmerksamkeit.
+Die Entwicklung von Season Of Mist verfolge ich ja schon längere Zeit. Inzwischen sind einige wirklich spannende Bands bei dem kleinen Label untergekommen. Eine von ihnen ist Djiin. Das Quartett aus dem französischen Rennes veröffentlicht seit 2017 Musik. Das neueste Werk "Meandering Soul" verdient Aufmerksamkeit.
 
 ## Prog meets Stoner Rock
 
