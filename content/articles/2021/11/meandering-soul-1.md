@@ -54,7 +54,7 @@ Djiin, das sind Bassist Charlélie Pailhes, Drummer Allan Guyomard, Gitarrist To
 
 "Meandering Soul" ist das dritte Album der Band. Das Sound Engineering hat Justin Nicquevert von The Blue Anvil Sound übernommen, Pierre Le Gac und Nicolas Moreau von Le Garage Hermétique haben es abgemischt.
 
-Insgesamt sind sechs Songs auf der Platte zu hören. Mein Favorit ist bisher der Opener "Black Circus". Verzerrte Riffs und heftige Beats werden dabei von psychedelischen Melodien und tollen Vocals abgelöst. Langeweile kommt also keine auf. Chloés E-Harfe sorgt für einen einzigartigen Sound, der die Band von anderen ihrer Nische abhebt.
+Insgesamt sind sechs Songs auf der Platte zu hören. Verzerrte Riffs und heftige Beats werden dabei von psychedelischen Melodien und tollen Vocals abgelöst. Langeweile kommt also keine auf. Chloés E-Harfe sorgt für einen einzigartigen Sound, der die Band von anderen ihrer Nische abhebt. Mein Favorit auf "Meandering Soul" ist bisher der Opener "Black Circus". Für Euch habe ich hier die Vorauskopplung "The Void", die auch nicht von schlechten Eltern ist.
 
 ## Djiin – "The Void"
 
