@@ -5,13 +5,13 @@ typeName: Review
 title: '"Meandering Soul"'
 subTitle: The New Djiin Album
 seoTitle: '"Meandering Soul" – The New Djiin Album – Prog Review'
-description: Djiin recorded a record with Klonosphere and Season Of Mist –The
-  outcome is a colourful potpourri of sounds between prog, stoner and doom.
-  Please have a listen.
-excerpt: Djiin recorded a record with Klonosphere and Season Of Mist – Because
-  this sounds like we should give them a listen, I did that, and of course, I
-  have put together all essential details about the album, that will be released
-  by the end of this week for you.
+description: Djiin recorded an album with Season Of Mist – The outcome is a
+  colourful potpourri of sounds between prog, stoner and doom. Please have a
+  listen.
+excerpt: Djiin recorded an album with Season Of Mist – Because this sounds like
+  we should give them a listen, I did that, and of course, I have put together
+  all essential details about "Meandering Soul", which will be released by the
+  end of this week.
 image: /img/djiin-2.jpeg
 copyrigt: |
   Djiin
@@ -30,13 +30,14 @@ labels:
   - Review
   - Reviews
   - Progressive Rock
+  - Season Of Mist
 focusKeyword: Meandering Soul
 advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/11/djiin-meandering-soul/
 ---
-**Djiin recorded a record with Klonosphere and Season Of Mist – Because this sounds like we should give them a listen, I did that, and of course, I have put together all essential details about the album, that will be released by the end of this week for you.**
+**Djiin recorded a record with Season Of Mist – Because this sounds like we should give them a listen, I did that, and of course, I have put together all essential details about "Meandering Soul", which will be released by the end of this week.**
 
 I have been following the development of Season Of Mist for quite some time now. In the meantime, some inspiring bands have found a home on the small label. One of them is Djiin. The quartet from Rennes, France, has been releasing music since 2017. Their latest work, "Meandering Soul", definitely deserves our attention.
 
