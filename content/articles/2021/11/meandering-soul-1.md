@@ -46,7 +46,7 @@ Die Entwicklung von Season Of Mist verfolge ich ja schon längere Zeit. Inzwisch
 
 In der Regel findet Ihr bei mir im Blog wenig Klassisches wie von den 1970ern beeinflussten Prog. Für Djiin scheint diese Musikrichtung zwar die Basis zu sein, gemischt wird jedoch mit schwer verdaulichem, psychedelischen Stoner Rock, irgendwas in die Kraut-Richtung und Doom. Und da wird es für mich schon wieder interessant. 
 
-Wenn Ihr Lust habt, ein farbenfrohes und zugleich düsteres schwer duftendes Potpourri zu entdecken, könntet Ihr mit dieser Band Eure Freude haben. Als Vorbilder nennen die vier Franzosen unter anderem die frühen Black Sabbath – auf moderne Referenzen verzichten sie auf ihrer LP dennoch nicht. Warum sollte man auch alles in Genre-Schubladen stecken? Irgendwann geben die Zwischenböden sowieso nach und alles mischt sich miteinander. Und so funktioniert Musik doch am Ende auch am besten, oder?
+Wenn Ihr Lust habt, ein farbenfrohes und zugleich düsteres schwer duftendes Potpourri zu entdecken, könntet Ihr mit dieser Band Eure Freude haben. Als Vorbilder nennen die vier unter anderem die frühen Black Sabbath – auf moderne Referenzen verzichten sie auf ihrer LP dennoch nicht. Warum sollte man auch alles in Genre-Schubladen stecken? Irgendwann geben die Zwischenböden sowieso nach und alles mischt sich miteinander. Und so funktioniert Musik doch am Ende auch am besten, oder?
 
 Djiin, das sind Bassist Charlélie Pailhes, Drummer Allan Guyomard, Gitarrist Tom Penaguin und Sängerin und Harfen-Spielerin Chloé Panhaleux, die mit ihrer kraftvollen Stimme alles zusammenhält.
 
