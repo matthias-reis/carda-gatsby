@@ -6,8 +6,8 @@ title: '"Meandering Soul"'
 subTitle: The New Djiin Album
 seoTitle: '"Meandering Soul" – The New Djiin Album – Prog Review'
 description: Djiin recorded an album with Season Of Mist – The outcome is a
-  colourful potpourri of sounds between prog, stoner and doom. Please have a
-  listen.
+  colourful and scenting potpourri of sounds between prog, stoner and doom.
+  Please have a listen.
 excerpt: Djiin recorded an album with Season Of Mist – Because this sounds like
   we should give them a listen, I did that, and of course, I have put together
   all essential details about "Meandering Soul", which will be released by the
@@ -47,7 +47,7 @@ I have been following the development of Season Of Mist for quite some time now.
 
 Usually, you won't find much classical music like 1970s-influenced prog on my blog. However, for Djiin, this music style seems to be the basis, but they mix it with hard-to-digest, psychedelic stoner rock, something in the kraut direction, and doom. And that's where it gets interesting for me again. 
 
-If you feel like discovering a colourful and, at the same time, dark potpourri, you might enjoy this band. The four name the early Black Sabbath as role models – yet they don't do without some modern references on their LP. Anyhow: Why should you put everything into genre boxes? At some point, the floors between give way anyway, and everything mixes. And that's how music works best in the end, doesn't it?
+If you feel like discovering a colourful and, at the same time, dark scenting potpourri, you might enjoy this band. The four name the early Black Sabbath as role models – yet they don't do without some modern references on their LP. Anyhow: Why should you put everything into genre boxes? At some point, the floors between give way anyway, and everything mixes. And that's how music works best in the end, doesn't it?
 
 Djiin, that's bassist Charlélie Pailhes, drummer Allan Guyomard, guitarist Tom Penaguin, and singer and harpist Chloé Panhaleux, who holds everything together with her powerful voice.
 
