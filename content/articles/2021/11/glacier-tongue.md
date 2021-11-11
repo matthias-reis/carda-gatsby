@@ -36,7 +36,7 @@ languageLink: /2021/11/rongeur-glacier-tongue/
 ---
 **Four years after their first official album, "An Asphyxiating Embrace", Rongeur released a new record on November 5th. If you like your music raw and heavy or are a fan of bands like Neurosis and High on Fire, you shouldn't miss "Glacier Tongue".**
 
-Rongeur was formed in 2012, when former members of Ampmandens Døtre, Exeloume, Untime and Martyrs got together to enjoy making music. They recorded various demos and split before releasing their debut on Poacher Records and Ampmandens Records in 2017.
+Rongeur was formed in 2012, when former members of Ampmandens Døtre, Exeloume, Untime and Martyrs got together to enjoy making music. They recorded various demos and split EPs before releasing their debut on Poacher Records and Ampmandens Records in 2017.
 
 In the meantime, the band from Oslo has landed on Fysisk Format. They also released their exciting new work "Glacier Tongue" there. They recorded it at Venteværelse Studio, Vaterland Studios and Swerve City Studios. Ruben Willem finally mixed everything at Caliban Studios and took care of the mastering.
 
