@@ -38,7 +38,7 @@ languageLink: /2021/11/rongeur-glacier-tongue-en/
 
 Gegründet haben sich Rongeur bereits 2012, als sich ehemalige Mitglieder von Ampmandens Døtre, Exeloume, Untime und Martyrs zusammentaten, um gemeinsam Musik zu machen. Zunächst veröffentlichten sie diverse Demos und Split-EPs, bevor dann 2017 auf Poacher Records und Ampmandens Records das Debüt erschien.
  
-Inzwischen ist die Band aus Oslo bei Fysisk Format gelandet. Dort ist auch das ziemlich spannende neue Werk "Glacier Tongue" erschienen. Aufgenommen wurde im Venteværelse Studio, im Vaterland Studio und im Swerve City Studio. Ruben Willem mischte schließlich in den Caliban Studios alles ab und sorgte für das Mastering.
+Inzwischen ist die Band aus Oslo bei Fysisk Format gelandet. Dort ist auch das ziemlich spannende neue Werk "Glacier Tongue" erschienen. Aufgenommen wurde in den Venteværelse Studios, den Vaterland Studios und den Swerve City Studios. Ruben Willem mischte schließlich in den Caliban Studios alles ab und sorgte für das Mastering.
 
 ## "Glacier Tongue" ist ein wütendes Statement
 
