@@ -44,7 +44,7 @@ Inzwischen ist die Band aus Oslo bei Fysisk Format gelandet. Dort ist auch das z
 
 ![Rongeur – "Glacier Tongue"](/img/823618.jpeg "Rongeur – \"Glacier Tongue\"")
 
-"Glacier Tongue" bietet insgesamt acht Songs voll rauer und harte Schönheit. Die Platte ist politisch, geradeheraus und brachial. Rongeur haben genau das, was wir alle in diesem Jahr voller Fragen so schwer vermisst haben, vertont und setzen mit ihrer Platte ein düsteres und anklagendes Statement, das die menschliche Existenz und die Rücksichtslosigkeit, mit der wir unseren Planeten ausbeuten, kritisch hinterfragt.
+"Glacier Tongue" bietet insgesamt acht Songs voll rauer und harter Schönheit. Die Platte ist politisch, geradeheraus und brachial. Rongeur haben genau das, was wir alle in diesem Jahr voller Fragen so schwer vermisst haben, vertont und setzen mit ihrer Platte ein düsteres und anklagendes Statement, das die menschliche Existenz und die Rücksichtslosigkeit, mit der wir unseren Planeten ausbeuten, kritisch hinterfragt.
 
 Die Aggressionen, die sich hinter den Instrumenten entladen, flößen Respekt ein und sind ein weiterer Beweis dafür, wie gut sich Musik als Ventil für angestauten Ärger eignet. Trotzdem klingen Rongeur keineswegs umkoordiniert oder gar nachlässig.
 
