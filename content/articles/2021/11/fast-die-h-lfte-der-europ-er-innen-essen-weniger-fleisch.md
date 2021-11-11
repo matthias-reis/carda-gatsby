@@ -9,8 +9,8 @@ description: Das Thema Ernährung wird heute immer präsenter und immer mehr
   Menschen essen weniger Fleisch. Auch der Schritt zum Veganismus ist für viele
   nicht mehr so undenkbar, wie noch vor wenigen Jahren.
 excerpt: '"Wenn Ihr immernoch Fleisch esst, hört auf über Klimaschutz zu reden!"
-  prangt es in großen Lettern auf einem Demo-Plakat bei der Fridays for Future.
-  Das Thema Ernährung wird heute immer präsenter und immer mehr Menschen möchten
+  prangt es in großen Lettern auf einem Demo-Plakat bei Fridays for Future. Das
+  Thema Ernährung wird heute immer präsenter und immer mehr Menschen möchten
   bewusster essen. Der Schritt zum Veganismus ist für viele nicht mehr so
   undenkbar, wie noch vor wenigen Jahren.'
 image: /img/essen-weniger-fleisch-the-5th.jpg
