@@ -64,7 +64,7 @@ Although there are also, believe it or not, a few quiet moments on "Glacier Tong
 
 ## Screaming the pain into the night
 
-My favourite song on the record so far is "Years Of Withering", which might be because it is probably the most balanced song on "Glacier Tongue". Friends of Post-Metal reladed music will surely agree with me.
+My favourite song on the record so far is "Years Of Withering", which might be because it is probably the most balanced song on "Glacier Tongue". Friends of post-metal reladed music will surely agree with me.
 
 All in all, Rongeur's new LP is a pleasure to listen to. With "Glacier Tongue", the band has written a theme for the ongoing world crisis. With just 40 minutes in total, the album is a call to humanity to stop being quiet and hiding all anger under a thousand layers of ignorance and arrogance but to go out and scream the pain into the night.
 
