@@ -67,3 +67,6 @@ Obwohl es auch, man möge es kaum glauben, ein paar ruhige Momente gibt auf "Gla
 Mein Favorit auf der Platte ist bisher "Years Of Withering", was daran liegen könnte, dass es der wohl ausgewogenste Song auf "Glacier Tongue" ist. Freund⋆innen von Post-Metal & Co. werden mir da sicher recht geben.
 
 Insgesamt ist die neue LP von Rongeur ein Hörgenuss. Die Band hat mit "Glacier Tongue" die Krise musikalisch unterlegt. Das Album ist mit seinen gerade mal 40 Gesamtminuten ein Aufruf an die Menschheit, nicht mehr stillzuschweigen und allen Ärger unter tausend Schichten aus Ignoranz und Arroganz zu verbergen, sondern raus zu gehen und den Schmerz in die Nacht zu schreien.
+
+<YouTube id="ZJsXZTy3wE4" />
+
