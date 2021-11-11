@@ -32,7 +32,7 @@ language: de
 ---
 **"Wenn Ihr immernoch Fleisch esst, hört auf über Klimaschutz zu reden!" prangt es in großen Lettern auf einem Demo-Plakat bei der Fridays for Future. Das Thema Ernährung wird heute immer präsenter und immer mehr Menschen möchten bewusster essen. Der Schritt zum Veganismus ist für viele nicht mehr so undenkbar, wie noch vor wenigen Jahren.**
 
-Wurst und Fleisch verkaufen sich natürlich nach wie vor sehr gut. Dennoch lässt sich ein neuer Trend erkennen: fast die Hälfte der Europäer⋆innen essen weniger Fleisch. Das beweisen auch die Ergebnisse einer Umfrage[^1], für die sich ProVeg International[^2] und Innova Market Insights[^3] mit Expert⋆innen der Universität Kopenhagen und der Universität Gent zusammengetan hatten. Das mit 10 Millionen Euro dotierte Smart-Protein-Projekt der EU half bei der Finanzierung.
+Wurst und Fleisch verkaufen sich natürlich nach wie vor sehr gut. Dennoch lässt sich ein neuer Trend erkennen: fast die Hälfte der Europäer⋆innen essen weniger Fleisch. Das beweisen auch die Ergebnisse einer Umfrage[^1], für die sich ProVeg International[^2] und Innova Market Insights[^3] mit Expert⋆innen der Universität Kopenhagen und der Universität Gent zusammengetan hatten. Das mit 10 Millionen Euro dotierte Smart Protein Projekt der EU[^2] half bei der Finanzierung.
 
 Insgesamt nahmen 7 578 Menschen aus Dänemark, Österreich, Frankreich, Deutschland, Italien, den Niederladen, Polen, Rumänien, Spanien und der UK an der Umfrage teil. Im Nachbericht der Untersuchung heißt es wörtlich:
 
@@ -66,3 +66,4 @@ Bild/picture: [The 5th](https://pixabay.com/photos/breakfast-healthy-food-diet-f
 [^1]: [Umfrage zum Essverhalten in Europa](https://smartproteinproject.eu/wp-content/uploads/FINAL_Pan-EU-consumer-survey_Overall-Report.pdf)
 [^2]: [Pro Veg](https://proveg.com/de/)
 [^3]: [Innova Market Insights](https://www.innovamarketinsights.com/)
+[^4]: [EU Smart Protein Projekt](https://smartproteinproject.eu/)
