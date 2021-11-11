@@ -1,6 +1,6 @@
 ---
 date: 2021-11-11T11:14:42.765Z
-slug: rongeur-glacier-tongue
+slug: rongeur-glacier-tongue-en
 typeName: Review
 title: '"Glacier Tongue"'
 subTitle: The New Rongeur Album
