@@ -57,7 +57,7 @@ Vinciane Patelou, Director der ENSA-European Plant-Based Foods Association komme
 
 > "Der Appetit der europäischen Verbraucher⋆innen auf pflanzliche Lebensmittel ist ungebrochen. Das zeigt uns die große Zahl der Europäer⋆innen, die zukünftig mehr pflanzliche Optionen und weniger Milch und Fleisch essen wollen. Dabei ist es wichtig, dass wir mit dem Rechtsrahmen für diese Produkte, zum Beispiel im Hinblick auf die Kennzeichnung am Ball bleiben. Schließlich sollte er auch dazu führen, dass die Verbraucher⋆innen zu diesen Produkten greifen."
 
-Die Vizepräsidentin von ProVeg International, Jasmijn De Boo, sieht eine große Chance in diesem Sektor:
+Die Vizepräsidentin von ProVeg International, Jasmijn De Boo, sieht eine große Chance im pflanzlichen Lebensmittel-Sektor:
 
 > "Die Ergebnisse der Umfrage deutet auf das enorme Potential für pflanzliche Lebensmittel in Europa hin. Alle relevanten Akteur⋆innen bekommen dadurch grünes Licht für mehr und noch bessere vegane Produkte. Die Nachfrage nach alternativen Proteinquellen wächst mit bemerkenswerter Geschwindigkeit – ein Ende ist nicht in Sicht."
 
