@@ -36,7 +36,7 @@ Wurst und Fleisch verkaufen sich natürlich nach wie vor sehr gut. Dennoch läss
 
 ## Die Menschen wollen bewusster essen
 
-Insgesamt nahmen 7 578 Menschen aus Dänemark, Österreich, Frankreich, Deutschland, Italien, den Niederladen, Polen, Rumänien, Spanien und der UK an der Umfrage teil. Im Nachbericht der Untersuchung heißt es wörtlich:
+Insgesamt nahmen 7.578 Menschen aus Dänemark, Österreich, Frankreich, Deutschland, Italien, den Niederladen, Polen, Rumänien, Spanien und der UK an der Umfrage teil. Im Nachbericht der Untersuchung heißt es wörtlich:
 
 > "Der Verzicht auf Fleisch ist die 'neue Normalität' in Europa."
 
