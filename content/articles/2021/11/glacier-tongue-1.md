@@ -58,8 +58,6 @@ Bassist und Sänger Dag Ole H. Huseby, Drummer und Sänger Jon Dahl Tveter und G
 
 Besonders krass finde ich die angstvollen Schreie in "Underachiever" und die undurchdringliche Härte von Songs wie "Gutter Marathon" und "Kurts Last Will". Rongeur zeigen den Mächtigen der Welt, ihren Unmut und sie tun es laut.
 
-![Rongeur](/img/glacier-tongue.jpg "Rongeur")
-
 Obwohl es auch, man möge es kaum glauben, ein paar ruhige Momente gibt auf "Glacier Tongue". "Brace" zum Beispiel baut sich zunächst auf und lässt seine Schwere durchscheinen, bevor das Stück in einen harmonischen Part übergeht, der allerdings während der letzten beiden Minuten des Stücks wieder hinter dunklen Wolken verschwindet.
 
 ## Den Schmerz in die Nacht schreien
