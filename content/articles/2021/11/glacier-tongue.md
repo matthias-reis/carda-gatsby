@@ -60,8 +60,6 @@ Bassist and singer Dag Ole H. Huseby, drummer and singer Jon Dahl Tveter and gui
 
 The fearful screams in "Underachiever" and the heaviness of songs like "Gutter Marathon" and "Kurt's Last Will" are getting under your skin. Rongeur are showing their displeasure to the world's leader, and they do it loudly.
 
-![Rongeur](/img/glacier-tongue.jpg "Rongeur")
-
 Although there are also, believe it or not, a few quiet moments on "Glacier Tongue". "Brace", for example, builds up at first, letting its heaviness shine through, before the piece transitions into a harmonic part, which, however, disappears again behind dark clouds during the last two minutes of the track.
 
 ## Screaming the pain into the night
