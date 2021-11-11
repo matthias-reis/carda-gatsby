@@ -34,9 +34,11 @@ language: de
 
 Wurst und Fleisch verkaufen sich natürlich nach wie vor sehr gut. Dennoch lässt sich ein neuer Trend erkennen: fast die Hälfte der Europäer⋆innen essen weniger Fleisch. Das beweisen auch die Ergebnisse einer Umfrage[^1], für die sich ProVeg International[^2] und Innova Market Insights[^3] mit Expert⋆innen der Universität Kopenhagen und der Universität Gent zusammengetan hatten. Das mit 10 Millionen Euro dotierte Smart Protein Projekt der EU[^2] half bei der Finanzierung.
 
+## Die Menschen wollen bewusster essen
+
 Insgesamt nahmen 7 578 Menschen aus Dänemark, Österreich, Frankreich, Deutschland, Italien, den Niederladen, Polen, Rumänien, Spanien und der UK an der Umfrage teil. Im Nachbericht der Untersuchung heißt es wörtlich:
 
-## "Der Verzicht auf Fleisch ist die 'neue Normalität' in Europa."
+> "Der Verzicht auf Fleisch ist die 'neue Normalität' in Europa."
 
 Insgesamt 37 Prozent der Befragten bezeichneten sich selbst als Veganer⋆innen, Vegetarier⋆innen oder "Flexetarier⋆innen". Dieser Begriff wurde in den letzten Jahren immer beliebter für Menschen, die von sich sagen, bewusst weniger Fleisch zu essen.
 
