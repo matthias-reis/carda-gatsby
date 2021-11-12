@@ -15,7 +15,7 @@ excerpt: 'Bei From Overseas geben sich die guten Nachrichten die Klinke in die
   November.'
 image: /img/color-of-time-2-.jpg
 copyrigt: Tyresta & From Overseas
-ogImage: /img/color-of-time-fb.png
+ogImage: /img/color-of-time-fb-1-.png
 labels:
   - Instrumental
   - Experimental
