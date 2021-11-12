@@ -73,7 +73,7 @@ The opener "Color of Time" builds up an all-encompassing tension, which the two 
 
 An avalanche breaks loose, and the next song begins: "Avalanche" stretches the violin bow and continues the journey through this fabulous and sad story that works entirely without the need for any words.
 
-"We Did This To Ourselves" laments and holds up the mirror to us all that we have kept ourselves from for so long. Then, finally, a glassy drone settles over the whole picture and slowly but surely drives the shards of our existence out into the winter sky. Our dance on the volcano is over.
+"We Did This To Ourselves" laments and holds up the mirror we have hid ourselves from for so long to us all. Then, finally, a glassy drone settles over the whole picture and slowly but surely drives the shards of our existence out into the winter sky. Our dance on the volcano is over.
 
 If you listen to the cassette version like I did, you can enjoy a 30-minute set in addition to the official songs. Kévin and Nick recorded it for the second anniversary of 9128.live. So here is my advice for you: You'd better not miss it!
 
