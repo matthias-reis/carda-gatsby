@@ -53,7 +53,7 @@ I could hardly believe my ears when Kévin Séry, aka From Overseas, contacted m
 
 ## Mellotron and violin bow
 
-![Tyresta & From Overseas – "Color of time"](/img/color-of-time-1-.jpg "Tyresta & From Overseas – \"Color of time\"")
+![Tyresta & From Overseas – "Color of time"](/img/color-of-time-1-.jpg "Tyresta & From Overseas – \\\"Color of time\\\"")
 
 For Kévin, "Color of Time" is another important milestone. It is a long-distance ambient drone project that he recorded together with Nick Turner, also known as Tyresta, using guitars (including violin bow), synthesizers, mellotron and various effects. 
 
@@ -79,3 +79,7 @@ If you listen to the cassette version like I did, you can enjoy a 30-minute set 
 
 Mellotron & Gitarre: Nick Turner
 OP-1 & Gitarre: Kévin Séry
+
+[Read my interview with Kévin Séry here](/2020/04/from-overseas-interview-en).
+
+[Check out my review of "Keep The Orange Sun" by From Overseas & awakened souls](/2021/09/keep-the-orange-sun-en/).
