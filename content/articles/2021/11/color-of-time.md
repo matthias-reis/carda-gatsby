@@ -53,7 +53,7 @@ I could hardly believe my ears when Kévin Séry, aka From Overseas, contacted m
 
 ## Mellotron and violin bow
 
-![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-cover.jpg "Tyresta & From Overseas – \"Color of Time\"")
+![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-cover.jpg "Tyresta & From Overseas – \\"Color of Time\\"")
 
 For Kévin, "Color of Time" is another important milestone. It is a long-distance ambient drone project that he recorded together with Nick Turner, also known as Tyresta, using guitars (including violin bow), synthesizers, mellotron and various effects. 
 
@@ -69,7 +69,7 @@ The opener "Color of Time" builds up an all-encompassing tension, which the two 
 
 ## "Color of Time" is about the debris of human existence
 
-![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-1-.jpg "Tyresta & From Overseas – \"Color of Time\"")
+![Tyresta & From Overseas](/img/color-of-time-3-.jpg "Tyresta & From Overseas")
 
 An avalanche breaks loose, and the next song begins: "Avalanche" stretches the violin bow and continues the journey through this fabulous and sad story that works entirely without the need for any words.
 
