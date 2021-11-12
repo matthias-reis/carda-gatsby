@@ -69,7 +69,7 @@ The opener "Color of Time" builds up an all-encompassing tension, which the two 
 
 ## "Color of Time" is about the debris of human existence
 
-![Tyresta & From Overseas](/img/color-of-time-3-.jpg "Tyresta & From Overseas")
+![Tyresta & From Overseas](/img/color-of-time-5-.jpg "Tyresta & From Overseas")
 
 An avalanche breaks loose, and the next song begins: "Avalanche" stretches the violin bow and continues the journey through this fabulous and sad story that works entirely without the need for any words.
 
