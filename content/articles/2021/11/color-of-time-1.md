@@ -53,7 +53,7 @@ Ich wollte meinen Ohren kaum trauen, als sich Kévin Séry aka From Overseas bei
 
 ## Mellotron und Geigenbogen
 
-![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-cover.jpg "Tyresta & From Overseas – \\"Color of Time\\"")
+![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-cover.jpg "Tyresta & From Overseas – \\\"Color of Time\\\"")
 
 Für Kévin ist "Color of Time" ein weiterer wichtiger Meilenstein. Es handelt sich um ein Long Distance Ambient Drone Projekt, das er gemeinsam mit Nick Turner, auch bekannt unter dem Namen Tyresta, mithilfe von Gitarren (inklusive Geigenbogen), Synthesizern, einem Mellotron und diversen Effekten aufgenommen hat. 
 
@@ -77,7 +77,7 @@ Eine Lawine löst sich und der nächste Song beginnt: "Avalanche" spannt den Gei
 
 Wenn Ihr wie ich die Version auf Kassette hört, bekommt Ihr neben den offiziellen Songs ein 30-minütiges Set auf die Ohren. Kévin und Nick haben es zum zweijährigen Jubiläum von 9128.live aufgenommen. Auch hier erwartet Euch ein feiner Hörgenuss, Ihr solltet also besser nicht darauf verzichten.
 
-"Color of Time" ist im Sommer des Jahres 2020 erschienen. Das Vinyl- und Digital-Mastering hat Stephan Mathieu im Studio Schwebung gemacht. Die Autumnal Session für 9128 Broadcast hat James Bernhard im Ambient Mountain House gemastert. Das Artwork stammt von Jason Akira Summa und das Layout und Design von Zakè.
+"Color of Time" ist im Sommer des Jahres 2020 erschienen. Das Vinyl- und Digital-Mastering hat Stephan Mathieu im Studio Schwebung gemacht. Die Autumnal Session für 9128 Broadcast hat James Bernard im Ambient Mountain House gemastert. Das Artwork stammt von Jason Akira Somma und das Layout und Design von Zakè.
 
 Mellotron & Gitarre: Nick Turner
 OP-1 & Gitarre: Kévin Séry
