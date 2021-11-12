@@ -69,7 +69,7 @@ Der Opener "Color of Time" baut eine alles umfassende Spannung auf, welche die b
 
 ## "Color of Time" handelt von den Trümmern der menschlichen Existenz
 
-![Tyresta & From Overseas](/img/color-of-time-3-.jpg "Tyresta & From Overseas")
+![Tyresta & From Overseas](/img/color-of-time-5-.jpg "Tyresta & From Overseas")
 
 Eine Lawine löst sich und der nächste Song beginnt: "Avalanche" spannt den Geigenbogen und setzt die Reise durch diese fabelhafte und traurige Geschichte fort, die ganz ohne Worte auskommt.
 
