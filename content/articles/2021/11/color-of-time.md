@@ -53,7 +53,7 @@ I could hardly believe my ears when Kévin Séry, aka From Overseas, contacted m
 
 ## Mellotron and violin bow
 
-![Tyresta & From Overseas – "Color of time"](/img/color-of-time-1-.jpg "Tyresta & From Overseas – \\\"Color of time\\\"")
+![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-cover.jpg "Tyresta & From Overseas – \"Color of Time\"")
 
 For Kévin, "Color of Time" is another important milestone. It is a long-distance ambient drone project that he recorded together with Nick Turner, also known as Tyresta, using guitars (including violin bow), synthesizers, mellotron and various effects. 
 
@@ -62,6 +62,8 @@ The total of six songs (plus an exclusive 30-minute autumn session on the casset
 The opener "Color of Time" builds up an all-encompassing tension, which the two artists have staged with the help of the mellotron and an initially delicate drone effect. After 3:03, the surface dissolves and reveals a multifaceted image: "Brand New Sky" glows in all the colours of the autumn sky and tells a story of uncertainty and hope.
 
 ## A dreamlike winter landscape
+
+![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-1-.jpg "Tyresta & From Overseas – \"Color of Time\"")
 
 "Radiance" goes one step further and rises majestically before my inner eye. Darkness spreads. Distorted sounds initially give a hint of melancholy, but this quickly dissipates.
 
