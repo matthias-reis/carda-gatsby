@@ -77,8 +77,8 @@ If you listen to the cassette version like I did, you can enjoy a 30-minute set 
 
 "Color of Time" was recorded in the summer of 2020. Stephan Mathieu did the vinyl and digital mastering at Studio Schwebung. James Bernhard mastered the Autumnal Session for 9128 Broadcast at Ambient Mountain House. The artwork is by Jason Akira Summa, and the layout and design by Zakè.
 
-Mellotron & Gitarre: Nick Turner
-OP-1 & Gitarre: Kévin Séry
+Mellotron & Guitar: Nick Turner
+OP-1 & Guitar: Kévin Séry
 
 [Read my interview with Kévin Séry here](/2020/04/from-overseas-interview-en).
 
