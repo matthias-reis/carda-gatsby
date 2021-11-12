@@ -4,7 +4,7 @@ slug: wir-essen-weniger-fleisch
 typeName: Beitrag
 title: Europäer⋆innen essen weniger Fleisch
 subTitle: Neue Umfrageergebnisse machen Hoffnung
-seoTitle: Europäer⋆innen essen weniger Fleisch – Neue Umfrage
+seoTitle: Europäer*innen essen weniger Fleisch – Neue Umfrage
 description: Das Thema Ernährung wird heute immer präsenter und immer mehr
   Menschen essen weniger Fleisch. Auch der Schritt zum Veganismus ist für viele
   nicht mehr so undenkbar, wie noch vor wenigen Jahren.
