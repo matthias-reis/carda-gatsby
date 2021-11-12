@@ -53,7 +53,7 @@ Ich wollte meinen Ohren kaum trauen, als sich Kévin Séry aka From Overseas bei
 
 ## Mellotron und Geigenbogen
 
-![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-cover.jpg "Tyresta & From Overseas – \"Color of Time\"")
+![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-cover.jpg "Tyresta & From Overseas – \\"Color of Time\\"")
 
 Für Kévin ist "Color of Time" ein weiterer wichtiger Meilenstein. Es handelt sich um ein Long Distance Ambient Drone Projekt, das er gemeinsam mit Nick Turner, auch bekannt unter dem Namen Tyresta, mithilfe von Gitarren (inklusive Geigenbogen), Synthesizern, einem Mellotron und diversen Effekten aufgenommen hat. 
 
@@ -69,7 +69,7 @@ Der Opener "Color of Time" baut eine alles umfassende Spannung auf, welche die b
 
 ## "Color of Time" handelt von den Trümmern der menschlichen Existenz
 
-![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-1-.jpg "Tyresta & From Overseas – \"Color of Time\"")
+![Tyresta & From Overseas](/img/color-of-time-3-.jpg "Tyresta & From Overseas")
 
 Eine Lawine löst sich und der nächste Song beginnt: "Avalanche" spannt den Geigenbogen und setzt die Reise durch diese fabelhafte und traurige Geschichte fort, die ganz ohne Worte auskommt.
 
