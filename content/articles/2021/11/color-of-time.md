@@ -49,7 +49,7 @@ languageLink: /2021/11/color-of-time/
 ---
 **Although the year is almost over, From Overseas has good news for us once again. The fantastic album Kévin recorded with awakened souls is just a few days old, and here we go again: The next great collaboration is about to pop out of the vinyl press on November 19th: "Color of Time" emerged in cooperation with Tyresta.**
 
-I could hardly believe my ears when Kévin Séry, aka From Overseas, contacted me and told me that he had another album ready and that I would like to listen to it. Of course, I wanted to! And what should I say: When I decided to check it out, I definitely made the right decision.
+I could hardly believe my ears when Kévin Séry, aka From Overseas, contacted me and told me that he had another album ready and asked me if I would like to listen to it. Of course, I wanted to! And what should I say: When I decided to check it out, I definitely made the right decision.
 
 ## Mellotron and violin bow
 
