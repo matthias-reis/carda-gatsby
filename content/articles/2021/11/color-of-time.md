@@ -63,13 +63,13 @@ The opener "Color of Time" builds up an all-encompassing tension, which the two 
 
 ## A dreamlike winter landscape
 
-![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-1-.jpg "Tyresta & From Overseas – \"Color of Time\"")
-
 "Radiance" goes one step further and rises majestically before my inner eye. Darkness spreads. Distorted sounds initially give a hint of melancholy, but this quickly dissipates.
 
 "Cold Air" is my favourite piece on the record. The winter landscape that the two composers must have imagined when creating this song surrounds me after the first notes. Sounds that couldn't be any chillier pour out of my speakers and make me dream of winter - of eternal ice that never thaws and of a deserted earth that slowly recovers from our existence.
 
 ## "Color of Time" is about the debris of human existence
+
+![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-1-.jpg "Tyresta & From Overseas – \"Color of Time\"")
 
 An avalanche breaks loose, and the next song begins: "Avalanche" stretches the violin bow and continues the journey through this fabulous and sad story that works entirely without the need for any words.
 
