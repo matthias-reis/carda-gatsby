@@ -175,15 +175,15 @@ Dadurch, dass die Taube auf Kunsteiern weiter brüten kann und ihr Zyklus dadurc
 
 Wenn Ihr den Verein gerne mit Spenden unterstützen möchte, könnt Ihr sie an das folgende Konto überweisen:
 
-Hamburger Sparkasse</br>
-Hamburger Stadttauben e.V.</br>
-Stichwort: Tierhilfefond Tauben</br>
-Kontonr. 1244131619</br>
-BLZ 200 505 50</br>
-IBAN DE44200505501244131619</br>
-BIC HASPDEHHXXX</br>
+Hamburger Sparkasse
+Hamburger Stadttauben e.V.
+Stichwort: Tierhilfefond Tauben
+Kontonr. 1244131619
+BLZ 200 505 50
+IBAN DE44200505501244131619
+BIC HASPDEHHXXX
 
-\[Meinen Artikel über den Hamburger Stadttauben e. V. findet Ihr hier](/2016/05/hamburger-stadttauben-e-v/).
+[Meinen Artikel über den Hamburger Stadttauben e. V. findet Ihr hier](/2016/05/hamburger-stadttauben-e-v/).
 
 [^1]: Das Beratungstelefon des Stadttauben e. V. Hamburg lautet:
 040 / 210 401 70
