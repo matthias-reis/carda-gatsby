@@ -28,7 +28,7 @@ language: de
 ---
 **Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit, über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps vorbereitet. Mein erster kommt von MICARAA: Mit dem Holiday Set könnt Ihr einem lieben Menschen eine schöne Freude machen.**
 
-Das Set, bestehend aus einem Peeling, einem Gesichtsöl, und einem Gesichtsserum enthält alles, was die Haut im Winter braucht: Hyaluronsäure, milde Fruchtsäuren und natürlich nährende Öle. Mit zum Set dazu gibt es von MICARAA einen 10 Euro Gutschein.
+Das Set, bestehend aus einem Peeling, einem Gesichtsöl, und einem Gesichtsserum, enthält alles, was die Haut im Winter braucht: Hyaluronsäure, milde Fruchtsäuren und natürlich nährende Öle. Mit zum Set dazu gibt es von MICARAA einen 10 Euro Gutschein.
 
 Die Produkte im [Geschenk-Set](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Fholiday-set-gutschein) sind für alle Hauttypen geeignet. Es spielt also keine Rolle, ob der⋆die Beschenkte trockene, ölige oder empfindliche Haut hat. Sie spenden intensive Feuchtigkeit und sorgen für reine Haut trotz Kälte und Heizungsluft im Winter.
 
@@ -37,7 +37,7 @@ Die Produkte im [Geschenk-Set](https://www.awin1.com/cread.php?awinmid=19823&awi
 ![Das MICARAA Holiday Set bestehend aus Peeling, einem Gesichtsöl, und einem Gesichtsserum.](/img/micaraa-2-.jpg "Das MICARAA Holiday Set bestehend aus Peeling, einem Gesichtsöl, und einem Gesichtsserum liegt auf dem Tisch neben der rosa Geschenkbox aus Graspapier. Drumherum liegen ein paar Grashalme.")
 
 Die wichtigsten Inhaltsstoffe sind neben der bereits erwähnten 
-Hyaluronsäure, Ectoin, AHA- und BHA-Säure, Aloe Vera, Radicare Gold sowie Traubenkernextrakt. [Wie ich Euch schon erzählt habe](/2021/07/micaraa-calm/), verzichtet MICARAA bewusst auf Mikroplastik, Silikone, Parabene, Mineralöle, synthetischen Konservierungsstoffen und Sulfaten. Außerdem ist alles komplett vegan.
+Hyaluronsäure, Ectoin, AHA- und BHA-Säure, Aloe Vera, Radicare Gold sowie Traubenkernextrakt. [Wie ich Euch schon erzählt habe](/2021/07/micaraa-calm/), verzichtet MICARAA bewusst auf Mikroplastik, Silikone, Parabene, Mineralöle, synthetischen Konservierungsstoffen und Sulfate. Außerdem ist alles komplett vegan.
 
 Das Peeling kann ein bis zweimal pro Woche aufgetragen werden. Es sollte dann idealerweise fünf Minuten einwirken, bevor es mit Wasser abgewaschen wird. Anschließend kommen das Serum und die Gesichtscreme zum Einsatz. Beides sollte sanft einmassiert werden und zweimal am Tag verwendet werden.
 
