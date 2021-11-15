@@ -19,7 +19,7 @@ copyrigt: ""
 ogImage: /img/micaraa-starter-kit-fb.png
 labels:
   - vegane Kosmetik
-  - vegan Naturkosmetik
+  - vegane Naturkosmetik
   - MICARAA
   - Fair Fashion & Beauty
   - vegan Beauty
