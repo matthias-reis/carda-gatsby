@@ -47,7 +47,7 @@ Die enthaltene hoch- und niedermolekulare Hyaluronsäure hydriert die Haut, wirk
 
 Bei der beigefügten AHA-Säure handelt es sich um eine vegane Milchsäure. Sie soll auch die tieferliegenden Zellen regenerieren, die Neubildung gesunder Zellen anregen und frühzeitiger Hautalterung entgegenwirken. Außerdem erfrischt sie beim Auftragen wunderbar, was dafür sorgt, dass sich die Haut sofort entspannter anfühlt.
 
-Der Anti-Aging-Wirkstoff Radicare Gold imitiert eine Süßwasseralge. Er soll wie ein Schutzschild gegen [Bildschirmlicht](/2020/07/schutz-vor-blue-light/)) wirken, freie Radikale in der Haut fangen, die Zellen vor oxidativem Stress schützen.
+Der Anti-Aging-Wirkstoff Radicare Gold imitiert eine Süßwasseralge. Er soll wie ein Schutzschild gegen HEVL ([Bildschirmlicht](/2020/07/schutz-vor-blue-light/)) wirken, freie Radikale in der Haut fangen, die Zellen vor oxidativem Stress schützen.
 
 ## Nachhaltig und fair schenken
 
