@@ -161,7 +161,7 @@ Wir freuen uns über jede⋆n neue⋆n Mitstreiter⋆innen. Wir können es nur g
 
 **Anne:** Ich habe mal gesehen, wie von der Stadtreinigung ein S-Bahnhof nach Nestern abgesucht wurde, die dann entfernt wurden. Die sanftere Variante wäre hier ja sicherlich Gips-Eier in die Nester zu legen, die die Tauben dann weiter bebrüten können. Das kenne ich zum Beispiel aus meinem alten Wohnort Augsburg. Macht Ihr so etwas auch und ist das wirklich so gut?
 
-# "Das Augsburger Modell hilft auch in Hamburg"
+## "Das Augsburger Modell hilft auch in Hamburg"
 
 **Andrea:** Auch wir tauschen Taubeneier im Nest gegen Gipseier aus, um die Taubenpopulationen zu verringern. Wir haben ja in Hamburg zwei betreute Taubenschläge nach dem Augsburger Modell, in denen wir die Gelege gegen Gipseier tauschen. Ich bezeichne es einfach mal als natürliche Schwangerschaftsverhütung. 
 
