@@ -2,7 +2,9 @@ import * as React from 'react';
 import styled from '@emotion/styled';
 import { ImagineLogo } from './imagine-logo';
 import { ImagineImage } from './imagine-image';
+import { Imagine } from './imagine';
 import { IconSearch } from './icons';
+import { color, font } from '../style';
 
 export const ImagineController = () => {
   const [images, setImages] = React.useState([]);
@@ -23,9 +25,7 @@ export const ImagineController = () => {
 
   const filteredImages = filter
     ? images.filter((image) =>
-        image
-          .split('/')[1]
-          .split('-imagine-')[0]
+        new Imagine(image).name
           .toLowerCase()
           .includes(filter.replace(/ /g, '-').toLowerCase())
       )
@@ -59,8 +59,12 @@ export const ImagineController = () => {
             <DetailArea>
               <H2>Auswahl</H2>
               <ImagineImage imageId={selectedImage} />
-              <h3>Artikel-Bild</h3>
-              <h3>Facebook-Bild</h3>
+              <Copy
+                onClick={async () => {
+                  const image = new Imagine(selectedImage);
+                  await navigator.clipboard.writeText(image.previewUrl);
+                }}
+              />
             </DetailArea>
           )}
         </MainArea>
@@ -146,6 +150,49 @@ const H2 = styled.h2`
   text-transform: uppercase;
   margin: 0 0 12px;
 `;
+
+const CopyButton = styled.button`
+  display: block;
+  width: 100%;
+  margin-top: 12px;
+  border: 0;
+  background: ${color.green30};
+  color: #fff;
+  font-weight: bold;
+  font-family: ${font.title};
+  height: 32px;
+  font-size: 20px;
+  border-radius: 16px;
+`;
+
+const Copy = ({ onClick, ...props }) => {
+  const [status, setStatus] = React.useState<'default' | 'waiting' | 'done'>(
+    'default'
+  );
+
+  let text = 'URL kopieren';
+  if (status === 'waiting') text = '...';
+  if (status === 'done') text = '✔';
+
+  console.log(text);
+
+  return (
+    <CopyButton
+      {...props}
+      onClick={async () => {
+        console.log('clicking');
+        setStatus('waiting');
+        await onClick();
+        setStatus('done');
+        setTimeout(() => {
+          setStatus('default');
+        }, 5000);
+      }}
+    >
+      {text}
+    </CopyButton>
+  );
+};
 
 const Loading = () => (
   <LoadingText>

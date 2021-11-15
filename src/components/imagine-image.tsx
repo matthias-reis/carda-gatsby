@@ -1,16 +1,17 @@
 import * as React from 'react';
 import styled from '@emotion/styled';
+import { Imagine } from './imagine';
 
 export const ImagineImage: React.FC<{
   imageId: string;
   onClick?: () => void;
 }> = ({ imageId, onClick }) => {
-  let imageName = imageId.split('/')[1];
-  imageName = imageName.split('-imagine-')[0];
+  const image = new Imagine(imageId);
+
   return (
     <ImageContainer onClick={onClick}>
-      <Img src={getFullUrl(imageId)} loading="lazy" />
-      <Title>{imageName}</Title>
+      <Img src={image.previewUrl} loading="lazy" />
+      <Title>{image.name}</Title>
     </ImageContainer>
   );
 };
@@ -39,6 +40,3 @@ const Img = styled.img`
 const Title = styled.p`
   font-size: 14px;
 `;
-
-const getFullUrl = (imageId: string) =>
-  `https://storage.googleapis.com/cardamonchai-media/${imageId}/640.webp`;
