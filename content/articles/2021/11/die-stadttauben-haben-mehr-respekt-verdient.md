@@ -129,7 +129,7 @@ Wir haben aber selbstverständlich auch Pflegestellen, die kranke Tiere aufnehme
 
 **Andrea:** Nicht kundige Taubenretter⋆innen müssen sich auf jeden Fall von uns beraten lassen. Wir stellen das Alter der Taube, die Art der Verletzung und die Behandlungsmöglichkeiten fest, können fachkundig beraten und weitere Möglichkeiten der Hilfe aufzeigen. Was viele gar nicht wissen oder bedenken, ist, dass Tauben auch artgerechtes Taubenfutter brauchen.
 
-**Anne:** Ich glaube, viele kennen das: Irgendjemand erzählt einem im Gespräch, dass ihm Tauben auf dem heimischen Balkon begegnet sind und die nun unbedingt vertrieben werden müssen. Ich alleine könnte Dir unzählige solcher Geschichten erzählen. Wie kann man zum Beispiel seine Nachbarn oder Hausmeister⋆innen davon abhalten, Tauben zu vergrämen? Hast Du ein paar gute Argumente für mich?
+**Anne:** Ich glaube, viele kennen das: Irgendjemand berichtet einem im Gespräch, dass ihm⋆ihr Tauben auf dem heimischen Balkon begegnet sind und die nun unbedingt vertrieben werden müssen. Ich alleine könnte Dir unzählige solcher Geschichten erzählen. Wie kann man zum Beispiel seine Nachbarn oder Hausmeister⋆innen davon abhalten, Tauben zu vergrämen? Hast Du ein paar gute Argumente für mich?
 
 **Andrea:** Taubenhasser⋆innen haben die Möglichkeit, sich die Tiere durch ein Netz vom Balkon zu halten. Hat die Taube allerdings schon ein Nest dort gebaut, in welchem Nestlinge sitzen, müssen die Leute lt. TSchG  die Kleinen flügge werden lassen und dürfen erst danach den Balkon Tierschutz-konform vergrämen. 
 
