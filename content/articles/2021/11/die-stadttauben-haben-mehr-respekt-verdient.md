@@ -35,7 +35,7 @@ language: de
 ---
 **Vor einiger Zeit habe ich Euch den Hamburger Stadttauben e. V. vorgestellt. Der Verein kümmert sich bei uns in Hamburger um das Wohlergehen der viel gehassten Stadttauben und betreibt Aufklärung über das traurige Schicksal der Tauben in unseren Städten und wie wir ihnen helfen können. Ich habe mich jetzt mit Gründungsmitglied Andrea zu Interview verabredet und dabei einiges über die Tiere gelernt.**
 
-Kurz vor der letzten Tauben-Mahnwache am Hamburger Bahnhof Altona kam ich mit Andrea ins Gespräch. Sie ist rund um die Uhr für die Hamburger Stadttauben da und sicher der Mensch mit dem größten Tauben-Wissen, dem ich jemals begegnet bin. Darum wollte ich unbedingt mehr über sie, ihre Arbeit und ihre geliebten Tauben erfahren.
+Kurz vor der letzten Tauben-Mahnwache am Hamburger Bahnhof Altona kam ich mit Andrea ins Gespräch. Sie ist rund um die Uhr für die Hamburger Stadttauben da und sicher der Mensch mit dem größten Tauben-Wissen, dem ich jemals begegnet bin. Darum wollte ich von ihr unbedingt mehr über sie, ihre Arbeit und ihre geliebten Tauben erfahren.
 
 **Anne:** Hallo Andrea! Danke, dass Du Dir die Zeit für das Interview nimmst! Wie geht es Dir heute? Was machen die Tauben?
 
