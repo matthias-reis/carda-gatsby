@@ -5,13 +5,13 @@ typeName: Produkttest
 title: Vegan Beauty Geschenktipp
 subTitle: Das Holiday Set von MICARAA
 seoTitle: Das Holiday Set von MICARAA – Vegan Beauty Geschenktipp
-description: Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit
-  für Geschenke. Natürlich habe ich für Euch wieder Tipps vorbereitet. Mein
-  erster ist das Holiday Set von MICARAA.
-excerpt: "Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit für
-  Geschenke. Natürlich habe ich für Euch wieder Tipps vorbereitet. Mein erster
-  kommt von MICARAA: Mit dem Holiday Set könnt Ihr einem lieben Menschen eine
-  schöne Freude machen."
+description: Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit,
+  über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps
+  vorbereitet. Mein erster ist das Holiday Set von MICARAA.
+excerpt: "Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit,
+  über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps
+  vorbereitet. Mein erster kommt von MICARAA: Mit dem Holiday Set könnt Ihr
+  einem lieben Menschen eine schöne Freude machen."
 image: /img/micaraa-titel.jpg
 copyrigt: MICARAA
 ogImage: /img/micaraa-fb-1-.png
@@ -26,7 +26,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
-**Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit für Geschenke. Natürlich habe ich für Euch wieder Tipps vorbereitet. Mein erster kommt von MICARAA: Mit dem Holiday Set könnt Ihr einem lieben Menschen eine schöne Freude machen.**
+**Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit, über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps vorbereitet. Mein erster kommt von MICARAA: Mit dem Holiday Set könnt Ihr einem lieben Menschen eine schöne Freude machen.**
 
 Das Set, bestehend aus einem Peeling, einem Gesichtsöl, und einem Gesichtsserum enthält alles, was die Haut im Winter braucht: Hyaluronsäure, milde Fruchtsäuren und natürlich nährende Öle. Mit zum Set dazu gibt es von MICARAA einen 10 Euro Gutschein.
 
