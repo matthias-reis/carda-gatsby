@@ -33,7 +33,6 @@ labels:
   - Tierschutz
 language: de
 ---
-
 **Wie einige von Euch schon wissen, liegen mir aus verschiedenen Gründen Tauben sehr am Herzen. Besonders die Stadttauben, die immer um uns herumfliegen, aber trotzdem von kaum einem wahrgenommen werden.**
 
 Ihre Geschichte ist eng mit der der Menschen verwoben, sie begleiten uns schon seit langer Zeit. Umso widersprüchlicher ist es, dass sie heutzutage so wenig geliebt sind.
