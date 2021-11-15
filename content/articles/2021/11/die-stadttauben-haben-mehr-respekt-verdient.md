@@ -185,6 +185,8 @@ BLZ 200 505 50\
 IBAN DE44200505501244131619 
 BIC HASPDEHHXXX
 
+\[Meinen Artikel über den Hamburger Stadttauben e. V. findet Ihr hier](/2016/05/hamburger-stadttauben-e-v/).
+
 [^1]: Das Beratungstelefon des Stadttauben e. V. Hamburg lautet:
 040 / 210 401 70
 [^2]: Auch der Hamburger Tierschutzverein kann helfen:
