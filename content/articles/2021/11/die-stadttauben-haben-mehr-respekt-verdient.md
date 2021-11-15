@@ -4,7 +4,7 @@ slug: hamburger-stadttauben-interview
 typeName: Interview
 title: '"Die Stadttauben haben mehr Respekt verdient"'
 subTitle: Interview mit Hamburger Stadttauben e. V. Gründungsmitglied Andrea
-seoTitle: Interview Hamburger Stadttauben e. V. Gründungsmitglied Andrea
+seoTitle: Hamburger Stadttauben e. V. Gründungsmitglied Andrea im Interview
 description: Ich habe mich jetzt mit dem Gründungsmitglied des Hamburger
   Stadttauben e. V. Andrea zu Interview verabredet und dabei einiges über
   Tauben, ihre Herkunft und ihr trauriges Schicksal erfahren.
