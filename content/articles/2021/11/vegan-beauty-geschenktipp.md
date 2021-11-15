@@ -1,5 +1,5 @@
 ---
-date: 2021-11-16T11:52:00.000Z
+date: 2021-11-16T09:10:00.000Z
 slug: micaraa-holiday-set
 typeName: Produkttest
 title: Vegan Beauty Geschenktipp
