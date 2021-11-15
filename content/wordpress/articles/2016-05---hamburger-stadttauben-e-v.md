@@ -117,13 +117,14 @@ Manchmal kommt es vor, dass jemand einen ausgedienten Taubenschlag hat oder ande
 
 Wer den Verein gerne mit Spenden unterstützen möchte, kann das unter der folgenden Kontonummer tun:
 
-<blockquote>
-
-Hamburger Stadttauben e.V. Stichwort: Tierhilfefond Tauben Kontonr. 1244131619 BLZ 200 505 50 Hamburger Sparkasse
+Hamburger Stadttauben e.V.<br />
+Hamburger Sparkasse<br />
+Stichwort: Tierhilfefond Tauben<br />
+Kontonr. 1244131619<br />
+BLZ 200 505 50
 
 IBAN DE44200505501244131619 BIC HASPDEHHXXX
 
-</blockquote>
 
 ## Weitere Infos für den Hamburger Stadttauben e. V.
 
