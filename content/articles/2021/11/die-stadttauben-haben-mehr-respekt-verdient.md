@@ -53,15 +53,15 @@ Kurz vor der letzten Tauben-Mahnwache am Hamburger Bahnhof Altona kam ich mit An
 
 **Andrea:** Oh ja, ich bekam meine erste Stadttaube im Alter von zehn Jahren. Sie hieß Nelli und ich pflegte sie gesund – so gut ich das damals konnte. Die Liebe und Achtung zu Tieren ist meiner Meinung nach Erziehungssache. In meiner Familie wurde alles respektiert. So trat man keine Pilze im Wald um und hob Käfer von der Straße auf, um sie ins Gebüsch zu setzen. Wir sind als Kinder auch keinen Tauben hinterhergelaufen, um sie aufzuschrecken.
 
-**Anne:** Die Geschichte unserer heutigen Stadttauben ist eng mit unserer Geschichte verbunden. Menschen hielten sich bereits 6.000 v. Chr. Tauben als Haustiere. Ab dem Mittelalter wurden sie dann nachweislich nicht nur gezüchtet, gehalten und gegessen, sondern sogar verehrt. Das Ergebnis war, dass ihr Bestand immer weiter zunahm. Auch heute gibt es noch Taubenzüchter, die zum Teil Unsummen für bestimmte Tauben zahlen. Dennoch bezeichnen viel Tauben als "die Ratten der Lüfte" und dichten ihnen unter anderem an, sie würden Krankheiten auf Menschen übertragen. Wie kommt es zu dieser Diskrepanz? Warum sind diese wunderbaren Wesen so missverstanden?
+**Anne:** Die Geschichte unserer heutigen Stadttauben ist eng mit unserer Geschichte verbunden. Menschen hielten sich bereits 6.000 v. Chr. Tauben als Haustiere. Ab dem Mittelalter wurden sie dann nachweislich nicht nur gezüchtet, gehalten und gegessen, sondern sogar verehrt. Das Ergebnis war, dass ihr Bestand immer weiter zunahm. Auch heute gibt es noch Taubenzüchter⋆innen, die zum Teil Unsummen für bestimmte Tauben zahlen. Dennoch bezeichnen viel Tauben als "die Ratten der Lüfte" und dichten ihnen unter anderem an, sie würden Krankheiten auf Menschen übertragen. Wie kommt es zu dieser Diskrepanz? Warum sind diese wunderbaren Wesen so missverstanden?
 
 **Andrea:** Du solltest mal die Leute draußen beobachten. Wenn ein Schwarm Brieftauben über die Menschen hinweg fliegt, erfreuen sie siech daran. Sobald aber vereinzelt oder in Grüppchen Tauben auf der Straße herumlaufen, sind sie automatisch "die Ratten der Lüfte". 
 
 ## "Brieftauben werden geliebt, Stadttauben gehasst"
 
-Hier gilt es zu verstehen, dass es sich bei der einen um die "gemeine" Haus- beziehungsweise Stadttaube handelt und bei der anderen um die hochgezüchteten "Sportgeräte" von Taubenzüchtern. 
+Hier gilt es zu verstehen, dass es sich bei der einen um die "gemeine" Haus- beziehungsweise Stadttaube handelt und bei der anderen um die hochgezüchteten "Sportgeräte" von Taubenzüchter⋆innen. 
 
-In einigen Ländern wurden oder werden Stadttauben auch verehrt. Muslime lernen zum Beispiel durch einige Suren im Koran Achtung vor diesen Tieren. Bei uns ist das leider ziemlich sicher noch nie der Fall gewesen. Die als Haustier oder Nutztier gehaltene Taube (Eier-, Feder- und Fleischlieferant) wurde irgendwann nicht mehr gebraucht, weil die Menschen zu anderen Nutztieren übergingen. Aus diesem Grund ließ man sie einfach fliegen.
+In einigen Ländern wurden oder werden Stadttauben auch verehrt. Muslim⋆innen lernen zum Beispiel durch einige Suren im Koran Achtung vor diesen Tieren. Bei uns ist das leider ziemlich sicher noch nie der Fall gewesen. Die als Haustier oder Nutztier gehaltene Taube (Eier-, Feder- und Fleischlieferant) wurde irgendwann nicht mehr gebraucht, weil die Menschen zu anderen Nutztieren übergingen. Aus diesem Grund ließ man sie einfach fliegen.
 
 Diese Tauben, die von der Felstaube abstammen, suchten sich dann ihren Platz in den Städten, weil aufgrund der Gegebenheiten (hohe Häuser, große Bahnhöfe) sie ihren Urinstinkt hohes Haus = Fels zum Brüten und Leben ausleben konnten.
 
@@ -71,7 +71,7 @@ Natürlich gab und gibt es für diese Tiere keine adäquate Nahrung. Die Tauben 
 
 ![Stadttaube](/img/2021-03-28-taube-14.jpg "Nahaufnahme von einer Stadttaube.")
 
-Die Brieftauben schließen sich als verirrte Hochleistungstiere,  Masse der Stadttauben an. Zuchttauben und Hochzeitstauben ergeht es ebenso. Zucht- und Hochzeitstauben verfügen über keinen ausgeprägten Orientierungssinn. Wenn sie einmal entflogen oder bei Hochzeiten als Friedenssymbol ausgesetzt wurden, meistens nie wieder in ihren Heimatschlag zurück.
+Die Brieftauben schließen sich als verirrte Hochleistungstiere der  Masse der Stadttauben an. Zuchttauben und Hochzeitstauben ergeht es ebenso. Zucht- und Hochzeitstauben verfügen über keinen ausgeprägten Orientierungssinn. Wenn sie einmal entflogen oder bei Hochzeiten als Friedenssymbol ausgesetzt wurden, finden meistens nie wieder in ihren Heimatschlag zurück.
 
 **Anne:** Wie Du gerade berichtet hast, sind die Tauben, die heute in unseren Städten leben, ja nicht nur die Nachkommen der Tauben aus dem Mittelalter. Auch heute kommen immer wieder Nachzügler an. Also zum Beispiel die von Dir erwähnten Brieftauben und Hochzeitstauben, die sich verflogen haben. Wie kann das sein, dass immer noch Tauben nachgezüchtet werden, obwohl es immer heißt, man wolle sie loswerden?
 
@@ -93,12 +93,11 @@ Kaum ein⋆e Züchter⋆in interessiert sich dafür, wenn eine Brieftaube nicht 
 
 **Anne:** Was kann ich in der Großstadt tun, damit es den Tauben in meiner Umgebung besser geht? Leider ist das Füttern ja besonders an Wohnanlagen und Bürogebäuden oft strengstens untersagt. Gibt es trotzdem etwas, das ich für sie tun kann?
 
-**Andrea:** Das ist eine sehr gute Frage! Bitte nicht auf öffentlichem Grund füttern, wenn möglich auf private Grundstücke ausweichen und die Tauben dort versorgen. Traurigerweise sind Tauben durch das generelle Fütterungsverbot in der Öffentlichkeit von vornherein zum Verhungern verurteilt. 
+**Andrea:** Das ist eine sehr gute Frage! Bitte nicht auf öffentlichem Grund füttern (auch das ist verboten!), wenn möglich auf private Grundstücke ausweichen und die Tauben dort versorgen. Traurigerweise sind Tauben durch das generelle Fütterungsverbot in der Öffentlichkeit von vornherein zum Verhungern verurteilt. 
 
 Da früher Tauben als Nutztiere gehalten wurden und unter anderem auch ihre Eier gegessen wurden,  unterliegen Tauben einem angezüchteten Brutzwang. Das bedeutet, dass sie bis zu achtmal in einem Jahr Eier legen – unabhängig davon, wie viel Nahrung ihnen zur Verfügung steht.
 
-Die Folge davon ist, dass etwa 90 Prozent aller Nestlinge verhungern, weil die Elterntiere nicht genügend Futter finden.
-Im Übrigen ist das Tauben-Fütterungsverbot ein Verstoß gegen das Tierschutzgesetz (TSchG). §1 des TSchG besagt nämlich, dass niemand einem Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen darf. Stadttauben auszuhungern und verhungern zu lassen ist alles andere außer Tierschutz-konform.
+Die Folge davon ist, dass etwa 90 Prozent aller Nestlinge verhungern, weil die Elterntiere nicht genügend Futter finden. Im Übrigen ist das Tauben-Fütterungsverbot ein Verstoß gegen das Tierschutzgesetz (TSchG). §1 des TSchG besagt nämlich, dass niemand einem Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen darf. Stadttauben auszuhungern und verhungern zu lassen ist alles andere außer Tierschutz-konform.
 
 ## Tauben sind durch das Fütterungsverbot dem Hungertod geweiht
 
@@ -120,7 +119,7 @@ Wir bitten die Meldenden meistens erstmal darum, etwas Geduld zu haben. Weil wir
 
 Unsere Helfer⋆innen können auch eine Erstversorgung durchführen und das Tier kann, je nach Verletzungsart, bei dem⋆der Melder⋆in zu Hause in einer Softbox mit Wasser und Körnern genesen.
 
-Wir haben aber selbstverständlich auch Pflegestellen, die kranke Tiere aufnehmen. Es kommt wie gesagt immer darauf an, was der Taube fehlt. Unsere Pflegestellen suchen auch Endstellen für gehandicapte Tauben, die aufgrund ihrer Behinderung nicht wieder auf die Straße dürfen
+Wir haben aber selbstverständlich auch Pflegestellen, die kranke Tiere aufnehmen. Es kommt wie gesagt immer darauf an, was der Taube fehlt. Unsere Pflegestellen suchen auch Endstellen für gehandicapte Tauben, die aufgrund ihrer Behinderung nicht wieder auf die Straße dürfen.
 
 ## "Wer Tauben gesundpflegen möchte, sollte sich von uns beraten lassen"
 
@@ -128,7 +127,7 @@ Wir haben aber selbstverständlich auch Pflegestellen, die kranke Tiere aufnehme
 
 **Anne:** Erzähl mir in diesem Zusammenhang doch bitte auch noch, warum davon abzuraten ist, einfach so eine Taube mit nach Hause zu nehmen und aufzupäppeln. Ich denke, das ist ein wichtiger Punkt!
 
-**Andrea:** Nicht kundige Taubenretter⋆innen müssen sich auf jeden Fall von uns beraten lassen. Wir stellen Alter der Taube, Art der Verletzung und Behandlungsmöglichkeiten fest, können fachkundig beraten und weitere Möglichkeiten der Hilfe aufzeigen. Was viele gar nicht wissen oder bedenken ist, dass Tauben auch artgerechtes Taubenfutter brauchen.
+**Andrea:** Nicht kundige Taubenretter⋆innen müssen sich auf jeden Fall von uns beraten lassen. Wir stellen das Alter der Taube, die Art der Verletzung und die Behandlungsmöglichkeiten fest, können fachkundig beraten und weitere Möglichkeiten der Hilfe aufzeigen. Was viele gar nicht wissen oder bedenken, ist, dass Tauben auch artgerechtes Taubenfutter brauchen.
 
 **Anne:** Ich glaube, viele kennen das: Irgendjemand erzählt einem im Gespräch, dass ihm Tauben auf dem heimischen Balkon begegnet sind und die nun unbedingt vertrieben werden müssen. Ich alleine könnte Dir unzählige solcher Geschichten erzählen. Wie kann man zum Beispiel seine Nachbarn oder Hausmeister⋆innen davon abhalten, Tauben zu vergrämen? Hast Du ein paar gute Argumente für mich?
 
@@ -138,7 +137,7 @@ Wenn es überhaupt nicht anders geht, versuchen wir die Nestlinge bei unseren Ta
 
 ## "Wir haben sicher schon tausende Tauben gerettet"
 
-**Anne:** Den Hamburger Stadttauben e. V.FUSSNOTE[^3] gibt es jetzt seit 2013. Weißt Du, wie viele Tauben Ihr seitdem gerettet habt?
+**Anne:** Den Hamburger Stadttauben e. V.[^3] gibt es jetzt seit 2013. Weißt Du, wie viele Tauben Ihr seitdem gerettet habt?
 
 **Andrea:** Nein, das weiß ich leider nicht. Die Zahl dürfte sich aber im Bereich von Tausenden befinden.
 
@@ -150,16 +149,15 @@ Wenn es überhaupt nicht anders geht, versuchen wir die Nestlinge bei unseren Ta
 
 ## "Ich bin 24/7/365 für die Tauben da"
 
-**Andrea:** Es kommt immer darauf an, welche Notfälle wann eintreffen und dann natürlich bearbeitet werden müssen. 
-Ich zum Beispiel stehe 24/7/365 für die Tauben zur Verfügung. Tiere fragen nicht nach Urlauben, Arbeitszeiten oder Feiertagen 
+**Andrea:** Es kommt immer darauf an, welche Notfälle wann eintreffen und dann natürlich bearbeitet werden müssen.  Ich zum Beispiel stehe 24/7/365 für die Tauben zur Verfügung. Tiere fragen nicht nach Urlauben, Arbeitszeiten oder Feiertagen 
 
 Die Betreuung unseres Lebenshofes für Tiere, die nicht mehr ausgewildert werden können, muss gewährleistet sein. Genauso wie die Betreuung des Taubenschlages im Hauptbahnhof durch ehrenamtliche Helfer. Hinzu kommt die Öffentlichkeitsarbeit wie der Kontakt zu Behörden und natürlich auch Presse, Funk und Fernsehen wird gehalten und ausgeweitet. 
 
-Der Austausch in unseren internen Hilfsgruppen per WhatsApp und Telefon ist täglich notwendig. Unser Taubenschlag von der SAGA im Hamburger Stadtteil Mümmelmannsberg wird durch eine 450 Euro-Kraft betreut, mit welcher wir regelmäßig kommunizieren. Darüber hinaus gibt es eine Vielzahl von Aktivitäten intern, um den Taubenverein am Laufen zu halten.
+Der Austausch in unseren internen Hilfsgruppen per WhatsApp und Telefon ist täglich notwendig. Unser Taubenschlag von der SAGA (kommunales Wohnungsunternehmen) im Hamburger Stadtteil Mümmelmannsberg wird durch eine 450 Euro-Kraft betreut, mit welcher wir regelmäßig kommunizieren. Darüber hinaus gibt es eine Vielzahl von Aktivitäten intern, um den Taubenverein am Laufen zu halten.
 
 ## "Neue Mitstreiter⋆innen sind immer willkommen"
 
-Wir freuen uns über jede⋆n neue⋆n Mitstreiter⋆innenFUSSNOTE. Wir können es nur gemeinsam schaffen, den Tauben ein besseres Leben zu geben.
+Wir freuen uns über jede⋆n neue⋆n Mitstreiter⋆innen. Wir können es nur gemeinsam schaffen, den Tauben ein besseres Leben zu geben.
 
 **Anne:** Ich habe mal gesehen, wie von der Stadtreinigung ein S-Bahnhof nach Nestern abgesucht wurde, die dann entfernt wurden. Die sanftere Variante wäre hier ja sicherlich Gips-Eier in die Nester zu legen, die die Tauben dann weiter bebrüten können. Das kenne ich zum Beispiel aus meinem alten Wohnort Augsburg. Macht Ihr so etwas auch und ist das wirklich so gut?
 
