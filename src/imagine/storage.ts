@@ -24,3 +24,14 @@ export const getFiles = async () => {
   const [files] = await bucket.getFiles();
   return files;
 };
+
+export const addCors = async () => {
+  await bucket.setCorsConfiguration([
+    {
+      maxAgeSeconds: 3600, // 1 hour
+      method: ['GET'],
+      origin: ['*'],
+      responseHeader: ['Content-Type'],
+    },
+  ]);
+};
