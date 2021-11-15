@@ -51,7 +51,7 @@ Kurz vor der letzten Tauben-Mahnwache am Hamburger Bahnhof Altona kam ich mit An
 
 ![Zwei Stadttauben sitzen auf einer Dachrinne.](/img/2021-04-03-voegel-nachbarn-10final.jpg "Zwei Stadttauben sitzen auf einer Dachrinne.")
 
-**Andrea:** Oh ja, ich bekam meine erste Stadttaube im Alter von zehn Jahren. Sie hieß Nelli und ich pflegte sie gesund – so gut ich das damals konnte. Die Liebe und Achtung zu Tieren ist meiner Meinung nach Erziehungssache. In meiner Familie wurde alles respektiert. So trat man keine Pilze im Wald um, hob Käfer von der Straße auf, um sie ins Gebüsch zu setzen. Wir sind als Kinder auch keinen Tauben hinterhergelaufen, um sie aufzuschrecken.
+**Andrea:** Oh ja, ich bekam meine erste Stadttaube im Alter von zehn Jahren. Sie hieß Nelli und ich pflegte sie gesund – so gut ich das damals konnte. Die Liebe und Achtung zu Tieren ist meiner Meinung nach Erziehungssache. In meiner Familie wurde alles respektiert. So trat man keine Pilze im Wald um und hob Käfer von der Straße auf, um sie ins Gebüsch zu setzen. Wir sind als Kinder auch keinen Tauben hinterhergelaufen, um sie aufzuschrecken.
 
 **Anne:** Die Geschichte unserer heutigen Stadttauben ist eng mit unserer Geschichte verbunden. Menschen hielten sich bereits 6.000 v. Chr. Tauben als Haustiere. Ab dem Mittelalter wurden sie dann nachweislich nicht nur gezüchtet, gehalten und gegessen, sondern sogar verehrt. Das Ergebnis war, dass ihr Bestand immer weiter zunahm. Auch heute gibt es noch Taubenzüchter, die zum Teil Unsummen für bestimmte Tauben zahlen. Dennoch bezeichnen viel Tauben als "die Ratten der Lüfte" und dichten ihnen unter anderem an, sie würden Krankheiten auf Menschen übertragen. Wie kommt es zu dieser Diskrepanz? Warum sind diese wunderbaren Wesen so missverstanden?
 
