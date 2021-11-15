@@ -59,7 +59,7 @@ Kurz vor der letzten Tauben-Mahnwache am Hamburger Bahnhof Altona kam ich mit An
 
 ## "Brieftauben werden geliebt, Stadttauben gehasst"
 
-Hier gilt es zu verstehen, dass es sich bei der einen um die "gemeine" Haus- beziehungsweise Stadttaube handelt und bei der anderen um die hochgezüchteten "Sportgeräte" von Taubenzüchter⋆innen. 
+Hier gilt es zu verstehen, dass es sich bei den einen um "gemeine" Haus- beziehungsweise Stadttauben handelt und bei den anderen um die hochgezüchteten "Sportgeräte" von Taubenzüchter⋆innen. 
 
 In einigen Ländern wurden oder werden Stadttauben auch verehrt. Muslim⋆innen lernen zum Beispiel durch einige Suren im Koran Achtung vor diesen Tieren. Bei uns ist das leider ziemlich sicher noch nie der Fall gewesen. Die als Haustier oder Nutztier gehaltene Taube (Eier-, Feder- und Fleischlieferant) wurde irgendwann nicht mehr gebraucht, weil die Menschen zu anderen Nutztieren übergingen. Aus diesem Grund ließ man sie einfach fliegen.
 
