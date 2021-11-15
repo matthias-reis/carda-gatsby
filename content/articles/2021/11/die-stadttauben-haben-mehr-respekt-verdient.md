@@ -71,7 +71,7 @@ Natürlich gab und gibt es für diese Tiere keine adäquate Nahrung. Die Tauben 
 
 ![Stadttaube](/img/2021-03-28-taube-14.jpg "Nahaufnahme von einer Stadttaube.")
 
-Die Brieftauben schließen sich als verirrte Hochleistungstiere der  Masse der Stadttauben an. Zuchttauben und Hochzeitstauben ergeht es ebenso. Zucht- und Hochzeitstauben verfügen über keinen ausgeprägten Orientierungssinn. Wenn sie einmal entflogen oder bei Hochzeiten als Friedenssymbol ausgesetzt wurden, finden meistens nie wieder in ihren Heimatschlag zurück.
+Die Brieftauben schließen sich als verirrte Hochleistungstiere der  Masse der Stadttauben an. Zuchttauben und Hochzeitstauben ergeht es ebenso. Zucht- und Hochzeitstauben verfügen über keinen ausgeprägten Orientierungssinn. Wenn sie einmal entflogen sind oder bei Hochzeiten als Friedenssymbol ausgesetzt wurden, finden meistens nie wieder in ihren Heimatschlag zurück.
 
 **Anne:** Wie Du gerade berichtet hast, sind die Tauben, die heute in unseren Städten leben, ja nicht nur die Nachkommen der Tauben aus dem Mittelalter. Auch heute kommen immer wieder Nachzügler an. Also zum Beispiel die von Dir erwähnten Brieftauben und Hochzeitstauben, die sich verflogen haben. Wie kann das sein, dass immer noch Tauben nachgezüchtet werden, obwohl es immer heißt, man wolle sie loswerden?
 
