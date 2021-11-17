@@ -10,9 +10,9 @@ description: Fans of drone sounds and ambient should check out the new album by
   must-hear for his month. The story it tells doesn't need any words.
 excerpt: 'Although the year is almost over, From Overseas has good news for us
   once again. The fantastic album Kévin recorded with awakened souls is just a
-  few days old, and here we go again: The next great collaboration is about to
-  pop out of the vinyl press on November 19th: "Color of Time" emerged in
-  cooperation with Tyresta.'
+  few days old, and here we go again: The next great collaboration popped out of
+  the vinyl press on November 19th: "Color of Time" emerged in cooperation with
+  Tyresta.'
 image: /img/color-of-time-2-.jpg
 copyrigt: Tyresta & From Overseas
 ogImage: /img/color-of-time-fb-1-.png
@@ -47,13 +47,13 @@ affiliate: false
 language: en
 languageLink: /2021/11/color-of-time/
 ---
-**Although the year is almost over, From Overseas has good news for us once again. The fantastic album Kévin recorded with awakened souls is just a few days old, and here we go again: The next great collaboration is about to pop out of the vinyl press on November 19th: "Color of Time" emerged in cooperation with Tyresta.**
+**Although the year is almost over, From Overseas has good news for us once again. The fantastic album Kévin recorded with awakened souls is just a few days old, and here we go again: The next great collaboration popped out of the vinyl press on November 19th: "Color of Time" emerged in cooperation with Tyresta.**
 
 I could hardly believe my ears when Kévin Séry, aka From Overseas, contacted me and told me that he had another album ready and asked me if I would like to listen to it. Of course, I wanted to! And what should I say: When I decided to check it out, I definitely made the right decision.
 
 ## Mellotron and violin bow
 
-![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-cover.jpg "Tyresta & From Overseas – \\"Color of Time\\"")
+![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-cover.jpg "Tyresta & From Overseas – \\\"Color of Time\\\"")
 
 For Kévin, "Color of Time" is another important milestone. It is a long-distance ambient drone project that he recorded together with Nick Turner, also known as Tyresta, using guitars (including violin bow), synthesizers, mellotron and various effects. 
 
