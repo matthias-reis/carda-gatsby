@@ -58,12 +58,8 @@ const replaceContentImages = (remoteImagePaths: string[]) =>
       (captured, imageName) => {
         const slug = transformImagePath(imageName as string);
         const entry = remoteImagePaths.find((i) => i.indexOf(slug) > -1);
-        console.log('---');
-        console.log(slug);
-        console.log(entry);
         if (entry) {
           const image = new Imagine(decodeURIComponent(entry));
-          console.log(image);
           return captured.replace(imageName, image.previewUrl);
         } else {
           const error = `Imagine image not found: <imageName>}`;
