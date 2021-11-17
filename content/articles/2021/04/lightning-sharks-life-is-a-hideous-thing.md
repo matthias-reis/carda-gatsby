@@ -6,7 +6,7 @@ title: Lightning Sharks – "Life Is A Hideous Thing"
 subTitle: Noisecore For The Year 2020
 seoTitle: Lightning Sharks – "Life Is A Hideous Thing" – Noisecore For The Year 2020
 description: Do you remember my interview with Lightning Sharks? You know, these noise core guys who would love to scream in Bolsonaro's face. Now the Bristol band has finished their debut EP. I have listened to it. Here is my recommendation for you.
-image: /img/2020_09_g-sharks-1__l.jpeg
+image: /img/2020_09_lightning-sharks-sharks-1__l.jpeg
 copyrigt: Lightning Sharks
 ogImage: /img/2021_02_lightning-sharks-fb.png__l.jpg
 labels:

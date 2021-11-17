@@ -94,7 +94,8 @@
     "tsc": "tsc --project tsconfig-gatsby.json",
     "prefirebase": "cd functions && yarn build",
     "firebase": "firebase deploy --only functions",
-    "compress-images": "node ./compress-images"
+    "compress-images": "node ./compress-images",
+    "parser:imagine": "ts-node ./src/parser/run-imagine"
   },
   "devDependencies": {
     "@types/mdx-js__react": "^1.5.3",
