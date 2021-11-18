@@ -118,7 +118,7 @@ Ein Grund dafür liegt darin, dass viele nur wenig mit den Lebensmittelquellen i
 
 Mit unseren heutigen stark industrialisierten Lebensmittelsystem entfernen sich jedoch nicht nur die Kinder, sondern auch die Erwachsenen immer weiter von den Pflanzen und Tieren, die sie zu sich nehmen.
 
-Obwohl Lebensmittel in der frühkindlichen Bildung ein großes Thema sind, konzentriert sich der Lehrplan im Moment der Regel darauf, was man essen soll und nicht um die Herkunft der einzelnen Lebensmittel.
+Obwohl Lebensmittel in der frühkindlichen Bildung ein großes Thema sind, konzentriert sich der Lehrplan im Moment in der Regel darauf, was man essen sollte und nicht auf die Herkunft der einzelnen Lebensmittel.
 
 Das führt im Umkehrschluss natürlich auch zu Umfrage-Ergebnissen, wie in der US-Studie. Die Kinder wurden unter anderem gefragt, welche Lebensmittel pflanzlicher und welche tierischer Herkunft sind. Mindestens 30 Prozent der Kinder ordneten mit Ausnahme der Kuhmilch alle Lebensmittel in die Kategorie "Pflanzen-basiert" ein. Mehr als ein Drittel der Kinder (38 Prozent) hielten sogar Chicken Nuggets für pflanzlich – obwohl das Huhn sogar im Namen vorkommt.
 
