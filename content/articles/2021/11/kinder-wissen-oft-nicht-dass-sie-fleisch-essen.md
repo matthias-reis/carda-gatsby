@@ -58,7 +58,7 @@ Science Direct zitiert an dieser Stelle den Autor des Buchs "[Tiere essen](/2019
 
 Das Institut fragt sich, warum sich in diese Richtung bis jetzt nur so wenig geändert hat:
 
-> "Trotz der überzeugenden wissenschaftlichen Belege dafür, dass der Verzehr von weniger tierischen Produkten ein entscheidender Faktor ist, um dem Klimawandel entgegenzuwirken, zögern die Menschen, ihre Ernährungsgewohnheiten zu ändern."
+> "Trotz der überzeugenden wissenschaftlichen Belege dafür, dass die Einschränkung des Konsums tierischer Produkte ein entscheidender Faktor ist, um dem Klimawandel entgegenzuwirken, zögern die Menschen, ihre Ernährungsgewohnheiten zu ändern."
 
 Es stellt fest:
 
