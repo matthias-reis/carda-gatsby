@@ -128,7 +128,7 @@ Die Kleinen sollten außerdem Tiere und verschiedene Dinge in die Kategorien "Da
 
 In den Studienpapieren heißt es:
 
-> "Die Kindheit stellt möglicherweise ein einzigartiges Zeitfenster dar, in dem Menschen sich leichter auf eine lebenslange, pflanzliche Ernährung einstellen können als im späteren Leben."
+> "Die Kindheit stellt möglicherweise ein einzigartiges Zeitfenster dar, in dem Menschen sich leichter auf eine lebenslange, pflanzliche Ernährung einstellen können, als im späteren Leben."
 
 Die Forschenden empfehlen Eltern daher, das Lebensmittelsystem transparent zu betrachten und mehr pflanzliche Lebensmittel anstelle von tierischen Produkten zu servieren.
 
