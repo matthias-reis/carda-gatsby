@@ -124,7 +124,7 @@ Das führt im Umkehrschluss natürlich auch zu Umfrage-Ergebnissen, wie bei der 
 
 ## Kinder entscheiden sich von alleine, keine Tiere zu essen
 
-Die Kleinen sollten außerdem Tiere und verschiedene Dinge in die Kategorien "Darf man essen" und "Darf man nicht essen" einteilen. Mit auf der Liste der Tiere, die man nicht essen soll, standen, Kühle, Schweine, Hühner, Fische, Katzen, Kunde, Affen, Pferde und Raupen. Die Kategorie "Darf man nicht essen" bestand aus Dreck, Tomaten, Orangen, Sand und Gras.
+Die Kleinen sollten außerdem Tiere und verschiedene Dinge in die Kategorien "Darf man essen" und "Darf man nicht essen" einteilen. Mehr als zwei Dritten der Kinder, fanden, dass man Hühner, Kühe und Schweine nicht essen dürfe.
 
 In den Studienpapieren heißt es:
 
