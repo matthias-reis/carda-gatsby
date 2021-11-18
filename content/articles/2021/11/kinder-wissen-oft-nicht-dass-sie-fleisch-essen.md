@@ -88,7 +88,7 @@ Ein weiterer spannender Versuch zeigte die Echtzeitwirkung menschlicher Schutzme
 
 Die menschlichen Strategien, negative Gefühle beim Fleischverzehr zu unterdrücken, sind vielfältig und effektiv. Die weltweite Nachfrage nach Fleisch und anderen Produkten tierischer Herkunft hat sich, Stand heute, nicht verlangsamt.
 
-Ein möglicher Grund könnte sein, dass der Appetit stärker als der Wille zur Verhaltensänderung – obwohl es zu weniger Tierleid und mehr aktivem Umweltschutz führen würde.
+Ein möglicher Grund könnte sein, dass der Appetit stärker ist, als der Wille zur Verhaltensänderung – obwohl es zu weniger Tierleid und mehr aktivem Umweltschutz führen würde.
 
 Besonders für Erwachsene ist es schwer, die eigenen  Essgewohnheiten dauerhaft zu verändern. Das hängt mit fest etablierten Gewohnheiten und kulturellen Überzeugungen zusammen. Noch heute verbinden viele den Konsum hartnäckig mit Wohlstand, Status oder sogar Männlichkeit.
 
