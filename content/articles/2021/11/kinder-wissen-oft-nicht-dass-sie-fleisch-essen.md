@@ -86,7 +86,7 @@ Ein weiterer spannender Versuch zeigte die Echtzeitwirkung menschlicher Schutzme
 
 ## Ist der Appetit stärker als der Wille?
 
-Die menschlichen Strategien, negative Gefühle beim Fleischverzehr zu unterdrücken sind vielfältig und effektiv. Die weltweite Nachfrage nach Fleisch und anderen Produkten tierischer Herkunft hat sich, Stand heute, nicht verlangsamt.
+Die menschlichen Strategien, negative Gefühle beim Fleischverzehr zu unterdrücken, sind vielfältig und effektiv. Die weltweite Nachfrage nach Fleisch und anderen Produkten tierischer Herkunft hat sich, Stand heute, nicht verlangsamt.
 
 Ein möglicher Grund könnte sein, dass der Appetit stärker als der Wille zur Verhaltensänderung – obwohl es zu weniger Tierleid und mehr aktivem Umweltschutz führen würde.
 
