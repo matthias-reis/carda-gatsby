@@ -78,7 +78,7 @@ Die Verzerrung zwischen dem Fleischkonsum und der tief verankerten Überzeugung,
 
 ## Ist es ein Unterschied, welche Tiere wir essen?
 
-Beachtlich ist, dass immer mehr Belege darauf hindeuten, dass es immer mehr und wirkungsvollere Methoden gibt, um den Fleischessenden den Stress beim Verzehr von Tieren möglichst zu ersparen. Der Fleischkonsum wird dadurch als "natürlich", "normal", "notwendig" und "maßvoll" wahrgenommen. Zudem schreiben Menschen Tieren, die häufig auf dem Teller landen, weniger geistige Fähigkeiten zu, als jeden, die in der Regel nicht als Nahrungsquellen dienen – also Katzen, Hunde, Löwen, Delfine und so weiter.
+Beachtlich ist, dass immer mehr Belege darauf hindeuten, dass es immer mehr und wirkungsvollere Methoden gibt, um den Fleischessenden den Stress beim Verzehr von Tieren möglichst zu ersparen. Der Fleischkonsum wird dadurch als "natürlich", "normal", "notwendig" und "maßvoll" wahrgenommen. Zudem schreiben Menschen Tieren wie Hühnern, die häufig auf dem Teller landen, weniger geistige Fähigkeiten zu, als jeden, die in der Regel nicht als Nahrungsquellen dienen – also Katzen, Hunden, Löwenn, Delfinen und so weiter.
 
 Das wurde sogar bereits mehrfach mit Versuchen und Demonstrationen belegt. Ein Mensch bekommt zum Beispiel in der Fußgängerzone Katzenmilch angeboten (in Wirklichkeit handelt es sich um Kuhmilch) und er ekelt sich davor, obwohl er beteuert, jeden Tag Kuhmilch zu sich zu nehmen. Ähnliche Versuche gab es auch schon mit verschiedenen Fleischsorten.d
 
