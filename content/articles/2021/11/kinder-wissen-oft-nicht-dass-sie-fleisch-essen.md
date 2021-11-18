@@ -130,7 +130,7 @@ In den Studienpapieren heißt es:
 
 > "Die Kindheit stellt möglicherweise ein einzigartiges Zeitfenster dar, in dem Menschen sich leichter auf eine lebenslange, pflanzliche Ernährung einstellen können, als im späteren Leben."
 
-Die Forschenden empfehlen Eltern daher, das Lebensmittelsystem transparent zu betrachten und mehr pflanzliche Lebensmittel anstelle von tierischen Produkten zu servieren.
+Die Forschenden empfehlen Eltern daher, das Lebensmittelsystem für Ihre Kinder transparent zu machen und mehr pflanzliche Lebensmittel anstelle von tierischen Produkten zu servieren.
 
 > "Angesichts der kindlichen Neigung, Tiere vor Schaden bewahren zu wollen, könnten sie auf natürliche Weise zu pflanzlichen Lebensmitteln finden, wenn sie Zugang dazu haben. Das könnte dazu beitragen, die Symptome des von den früheren Generationen verursachten Klimanotstands zu bekämpfen der unweigerlich an die Kinder weitergegeben wird"
 
