@@ -70,7 +70,7 @@ Weiter heißt es:
 
 ## Wir verdrängen das ungute Gefühl beim Fleischverzehr
 
-Science Direct kam zu dem Ergebnis, dass es sich dabei um eine psychologisch komplexes Verhalten handelt, obwohl der Verzehr von Fleisch weit verbreitet ist. Einige Forschende vermuten, dass viele Menschen, wenn sie Fleisch essen, ein Unbehagen empfinden.
+Science Direct kam zu dem Ergebnis, dass es sich dabei um eine psychologisch komplexes Verhalten handelt, obwohl der Verzehr von Fleisch weit verbreitet ist. Einige Forschende vermuten, dass viele Menschen Unbehagen empfinden, wenn sie Fleisch essen.
 
 Foer und auch Loughnan, Bastian, & Haslam [^12] bezeichnen dieses Phänomen als das Fleischparadoxon. Auch von Melanie Joy ("[Warum wir Hunde lieben, Schweine essen und Kühe anziehen](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)") und Peter Singer ("[Animal Liberation](http://localhost:8000/2020/01/animal-liberation/)") wurde der Begriff bereits erwähnt.
 
