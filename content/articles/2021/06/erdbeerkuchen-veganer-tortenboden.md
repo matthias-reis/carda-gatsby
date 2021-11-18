@@ -1,34 +1,34 @@
 ---
-date: 2021-06-17T15:45:42+02:00
+date: 2021-06-17T13:45:42.000Z
 labels:
-- veganer Tortenboden
-- Erdbeerkuchen
-- veganer Erdbeerkuchen
-- vegane Rezepte
-- vegan backen
-- Erdbeeren
-- veganer Obstboden
+  - veganer Tortenboden
+  - Erdbeerkuchen
+  - veganer Erdbeerkuchen
+  - vegane Rezepte
+  - vegan backen
+  - Erdbeeren
+  - veganer Obstboden
 language: de
 slug: veganer-tortenboden-erdbeerkuchen
 typeName: Rezept
 title: Erdbeerkuchen – Veganer Tortenboden
 subTitle: Klassisch und lecker
 seoTitle: Erdbeerkuchen – Veganer Tortenboden – Klassisch und lecker
-ogTitle: ''
-description: Erdbeerkuchen gehört zum Juni einfach dazu – die Basis sollte natürlich
-  ein veganer Tortenboden sein. Es stimmt doch, oder? Was wäre der erste richtige
-  Sommermonat ohne Erdbeerkuchen? Das kulinarische Highlight ist und bleibt etwas
-  ganz Besonderes.
-excerpt: ''
-image: "/img/2021-06-06-erdbeerkuchen-3final.jpg"
-copyright: ''
-ogImage: "/img/veganer-tortenboden-erdbeerkuchen-fb-1.jpg"
+ogTitle: ""
+description: Erdbeerkuchen gehört zum Juni einfach dazu – die Basis sollte
+  natürlich ein veganer Tortenboden sein. Es stimmt doch, oder? Was wäre der
+  erste richtige Sommermonat ohne Erdbeerkuchen? Das kulinarische Highlight ist
+  und bleibt etwas ganz Besonderes.
+excerpt: ""
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-06-06-erdbeerkuchen-3final-imagine-880808_8d4233_1024_768/640.webp
+copyright: ""
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/veganer-tortenboden-erdbeerkuchen-fb-1-imagine-780808_934432_1200_628/640.webp
 focusKeyword: veganer Tortenboden
 advertisement: false
 affiliate: false
-languageLink: ''
-
+languageLink: ""
 ---
+
 **Erdbeerkuchen gehört zum Juni einfach dazu – die Basis sollte natürlich ein veganer Tortenboden sein. Es stimmt doch, oder? Was wäre der erste richtige Sommermonat ohne Erdbeerkuchen? Seit ich denken kann, habe ich einmal im Jahr den Wunsch nach Erdbeerkuchen. Dieses kulinarische Highlight ist und bleibt für mich etwas ganz Besonderes.**
 
 Kuchen ist ja meistens eine ziemlich süße Angelegenheit. Da ich raffinierten Zucker leider nur sehr schlecht vertrage und ein Obstboden auch sehr gut ohne auskommt, ist dieses Rezept mit einer kleinen Menge Birkenzucker statt der üblichen großen Portion Zucker. Ihr könnt natürlich auch Rohrzucker verwenden, wenn Ihr sowieso gerade welchen da habt und Ihr den lieber mögt. Der vegane Obstboden gelingt auch so sehr gut – es handelt sich dabei mehr oder weniger um einen klassischen Biskuitteig mit Dinkel-Vollkornmehl statt Weißmehl.

@@ -9,9 +9,9 @@ description: Earthling Ed aka Ed Winters hat jetzt sein erstes Buch vorgestellt.
   Der Tierrechtsaktivist möchte mit "This Is Vegan Propaganda & Other Lies the
   Meat Industry Tells You" zum "kompletten Lockdown" der Fleischindustrie
   aufrufen.
-image: /img/this-is-vegan-propaganda-other-lies-the-meat-industry-tells-you-ed-winter.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/this-is-vegan-propaganda-other-lies-the-meat-industry-tells-you-ed-winter-imagine-080808_616873_1024_768/640.webp
 copyrigt: Ed Winter
-ogImage: /img/this-is-vegan-propaganda-other-lies-the-meat-industry-tells-you-ed-winter-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/this-is-vegan-propaganda-other-lies-the-meat-industry-tells-you-ed-winter-fb-imagine-282828_58575d_1200_628/640.webp
 labels:
   - Ed Winter
   - Earthling Ed
@@ -33,6 +33,7 @@ advertisement: false
 affiliate: true
 language: de
 ---
+
 **Earthling Ed aka Ed Winters hat jetzt sein erstes Buch vorgestellt. Der bekannte Tierrechtsaktivist will mit dem Werk zum "kompletten Lockdown" der Fleischindustrie aufrufen.**
 
 Eds Buch mit dem Titel "This Is Vegan Propaganda & Other Lies The Meat Industry Tells You" ("Das ist vegane Propaganda und andere Lügen, die uns die Fleischindustrie auftischt") ist eine Zusammenfassung seiner Gespräche, die er seit Jahren mit diversen führenden Expert⋆innen führt.
@@ -47,7 +48,7 @@ In einem Pressestatement gegenüber Plant Based News erklärte Ed:
 
 Zunächst geht er auf die Ethik des Veganismus ein – von der Moralphilosophie bis hin zu einer Untersuchung der Tierhaltung. Anschließend wirft er einen Blick auf unsere Gesundheit und den Einfluss der Tierzucht auf die Umwelt und das Klima.
 
-![Ed Winter aka Earthling Ed](/img/561519880.jpeg "Ed Winter aka Earthling Ed")
+![Ed Winter aka Earthling Ed](https://storage.googleapis.com/cardamonchai-media/2021-11-14/561519880-imagine-282828_4b4445_1080_1350/640.webp "Ed Winter aka Earthling Ed")
 
 Auch das Theme Zoonosen, insbesondere natürlich die COVID-19 Pandemie, lässt Ed nicht aus. Hier legt er besonderes Augenmerk auf Infektionskrankheiten und Antiobiotikaresistenz.
 

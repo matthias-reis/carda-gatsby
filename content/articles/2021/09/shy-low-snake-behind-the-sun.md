@@ -9,9 +9,9 @@ description: Fans von Bands wie pg.lost, Thrice, Cult Of Luna und Russian
   Circles sollten jetzt weiterlesen. Am 8. Oktober erscheint ein Album, dass Ihr
   Euch mal anhören solltet. "Snake Behind The Sun" von der unter Pelagic
   gesignten Band Shy, Low hat es echt in sich.
-image: /img/shy-low.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/shy-low-imagine-080818_3c362b_1024_768/640.webp
 copyrigt: Shy, Low
-ogImage: /img/shy-low-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/shy-low-fb-imagine-080818_312e28_1200_628/640.webp
 labels:
   - Post-Rock
   - Post-Music
@@ -34,13 +34,14 @@ affiliate: false
 language: de
 languageLink: /2021/09/shy-low-snake-behind-the-sun-en/
 ---
+
 **Fans von Bands wie pg.lost, Thrice, Cult Of Luna und Russian Circles sollten jetzt weiterlesen. Am 8. Oktober erscheint ein Album, dass Ihr Euch mal anhören solltet. "Snake Behind The Sun" von der unter Pelagic gesignten Band Shy, Low hat es echt in sich.**
 
 Shy, Low zeigen anderen Post-Music Acts mal so richtig, was es bedeutet, kontrastreiche Musik zu machen. Bei der Combo aus Richmond, Virginia spielt sich alles zwischen harten Riffs und filigranen Melodien ab. Die immer wieder auftauchende anschwellende Spannung ist grandios.
 
 ## Ausgefeiltes Songwriting
 
-![Shy, Low – "Snake Behind The Sun"](/img/shylow1627286341508331.jpg "Shy, Low – \\"Snake Behind The Sun\\"")
+![Shy, Low – "Snake Behind The Sun"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/shylow1627286341508331-imagine-d82838_b4252e_440_440/640.webp "Shy, Low – \\"Snake Behind The Sun\\"")
 
 Das Album ist stark und brachial und lebt vom ausgefeilten Songwriting der vier. "Snake Behind The Sun" ist großartige Musik für alle, die es vielschichtig, komplex und groovy mögen, ohne dabei auf Härte verzichten zu wollen.
 
@@ -54,7 +55,7 @@ In diesem Moment kam Producer und Sound Engineer Mike Watts (The Dillinger Escap
 
 ## Instrumental-Musik vom Feinsten
 
-![Shy, Low](/img/shy-low-1-.jpg "Shy, Low")
+![Shy, Low](https://storage.googleapis.com/cardamonchai-media/2021-11-14/shy-low-1-imagine-181818_424242_532_800/640.webp "Shy, Low")
 
 Der legendäre Schlagzeugraum der Vudu Studios und die Handarbeit von Schlagzeuger Dylan Partridge, der zu diesem Zeitpunkt noch gar kein festes Bandmitglied war, taten dann ihr Übriges. Zak berichtete weiter:
 

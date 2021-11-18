@@ -5,10 +5,14 @@ typeName: Interview
 title: '"All Function One"'
 subTitle: Interview with Dave Pen (Archive & BirdPen)
 seoTitle: '"All Function One" – Interview with Dave Pen (Archive & BirdPen)'
-description: I saw Dave Pen live on stage for the first time in 2004, shortly after he had joined Archive. The music of his two projects Archive and BirdPen fascinates me anew every time. Each new record picks me up exactly where I am in my current stage of life. Without these two bands, my record collection and taste in music wouldn't be complete.
-image: /img/2021_02_dave-pen__l.jpeg
+description: I saw Dave Pen live on stage for the first time in 2004, shortly
+  after he had joined Archive. The music of his two projects Archive and BirdPen
+  fascinates me anew every time. Each new record picks me up exactly where I am
+  in my current stage of life. Without these two bands, my record collection and
+  taste in music wouldn't be complete.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-02-dave-pen-l-imagine-f8f8f8_bdbdbd_1440_1080/640.webp
 copyrigt: Dave Penn
-ogImage: /img/2021_02_dave-pen-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-02-dave-pen-fb-png-l-imagine-f8f8f8_cccccc_1440_756/640.webp
 labels:
   - Abbey Road Studios
   - Alternative

@@ -9,9 +9,9 @@ description: Die September-Playlist ist fertig. Ihr findet darin 12 ganz
   besondere Songs, die Euch die nächsten vier Wochen hoffentlich versüßen werden
   – egal wie das Wetter draußen ist. Von Ranges über Trent Reznor und Leprous
   bis Thrice und Jerry Cantrell.
-image: /img/12-songs-september.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/12-songs-september-imagine-181818_695556_1024_768/640.webp
 copyrigt: ""
-ogImage: /img/12-songs-september-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/12-songs-september-fb-imagine-181818_695150_1200_628/640.webp
 labels:
   - Ranges
   - DUNK!records
@@ -57,6 +57,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Die September-Playlist ist fertig. Ihr findet darin 12 ganz besondere Songs, die Euch die nächsten vier Wochen hoffentlich versüßen werden – egal wie das Wetter draußen ist.**
 
 Neben fantastischen Neuheiten von Ranges, Trent Reznor und Thrice, von denen Ihr vielleicht schon gehört habt, haben Valentin, Matze und ich auch ein paar echte Überraschungen für Euch vorbereitet. Viel Freude damit! Weiter unten findet Ihr wie gewohnt die fertigen Listen zum Abspielen bei iTunes und Spotify. 

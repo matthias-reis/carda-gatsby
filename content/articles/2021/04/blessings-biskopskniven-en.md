@@ -6,10 +6,14 @@ typeName: Beitrag
 title: '"Biskopskniven" By Blessings'
 subTitle: Post-Hardcore At Its Best
 seoTitle: '"Biskopskniven" By Blessings – Post-Hardcore At Its Best'
-description: Blessings are planning to release a new highlight from the post-music corner on May 21st. The Ocean label Pelagic Records is responsible for the new album "Biskopskniven".
-excerpt: Blessings are planning to release a new highlight from the post-music corner on May 21st. The Ocean label Pelagic Records is responsible for the new album "Biskopskniven". I have already had the chance to listen to it.
-image: '/img/blessings.jpg'
-ogImage: '/img/blessings-fb.jpg'
+description: Blessings are planning to release a new highlight from the
+  post-music corner on May 21st. The Ocean label Pelagic Records is responsible
+  for the new album "Biskopskniven".
+excerpt: Blessings are planning to release a new highlight from the post-music
+  corner on May 21st. The Ocean label Pelagic Records is responsible for the new
+  album "Biskopskniven". I have already had the chance to listen to it.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/blessings-imagine-080818_433e37_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/blessings-fb-imagine-080818_464036_1200_628/640.webp
 labels:
   - Blessings
   - Biskopskniven
@@ -39,7 +43,7 @@ The first track is called "The Hound". It really gets under your skin – this i
 
 ## "A Belly Full Of Stone"
 
-![Blessings – "Biskopskniven"](/img/blessings-biskopskniven-cover.jpeg 'Blessings – "Biskopskniven"' "Blessings – \"Biskopskniven\"")
+![Blessings – "Biskopskniven"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/blessings-biskopskniven-cover-imagine-181818_565658_1200_1200/640.webp 'Blessings – "Biskopskniven"' "Blessings – \"Biskopskniven\"")
 
 The third song on "Biskopskniven" is already available, just like the sixth ("Iron Heel"). "A Belly Full Of Stone" starts with clattering noise effects and escalates into a furious, driving and intense piece that should please the punk friends among you.
 

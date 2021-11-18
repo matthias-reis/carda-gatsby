@@ -8,9 +8,9 @@ seoTitle: Interview with Kollapse – "Music Is All About Emotions"
 description: Some days ago I reviewed the new Kollapse album "Sult". Now I had
   the chance to talk to the post-hardcore trio from Danmark. In our interview,
   we also talked about the band's tour plans.
-image: /img/kollapse-3-.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/kollapse-3-imagine-484848_000000_1024_768/640.webp
 copyrigt: Kollapse
-ogImage: /img/kollapse-fb-1-.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/kollapse-fb-1-imagine-484848_000000_1200_628/640.webp
 labels:
   - Dänemark
   - Post-Metal
@@ -29,6 +29,7 @@ affiliate: false
 language: en
 languageLink: /2021/07/kollapse-interview/
 ---
+
 **Some days ago I reviewed the new Kollapse album "Sult". Now I had the chance to talk to the post-hardcore trio from Danmark. In our interview, we also talked about the band's tour plans.**
 
 **Anne:** Hi! Thanks very much for agreeing to this interview! I am very excited about getting to know you guys. How are you doing today?
@@ -45,7 +46,7 @@ languageLink: /2021/07/kollapse-interview/
 
 **Peter L:** I am very pleased with it. It's been a really long process. After being asked to join the reforming band, I spent a reasonable amount of time trying to get to know the other guys – both musically and personally. So, the album is sort of the culmination of a couple of years worth of work, where we've tried to find some common ground and a musical footing – and I think we've come a long way in that process. And even after we decided that "now we're a band" and "now there are three of us" and actually began planning the recording, there have been many bumps on the road. So, the whole road to this moment has been a bit chaotic – but it probably couldn't be any other way with this band. So yeah, I'm happy with it. I'm delighted that we finally released it, that people are enjoying it, and that we created this record together!
 
-![Kollapse | large](/img/kollapse-4-.jpg "Kollapse")
+![Kollapse | large](https://storage.googleapis.com/cardamonchai-media/2021-11-14/kollapse-4-imagine-080808_000000_1024_768/640.webp "Kollapse")
 
 **Peter D:** Peter L said it!
 
@@ -87,7 +88,7 @@ But I think the mood on the album reflects the moods of many people around the w
 
 **Anne:** Gina Skowz painted a fantastic horror artwork for "Sult". It is so cool! I can't imagine a better artwork for this album. Is she a friend of yours?
 
-![Kollapse – "Sult" Artwork: Gina Skowz](/img/kollapse-1-.jpg "Kollapse – \\"Sult\\" Artwork: Gina Skowz")
+![Kollapse – "Sult" Artwork: Gina Skowz](https://storage.googleapis.com/cardamonchai-media/2021-11-14/kollapse-1-imagine-b88868_8a695b_1080_1080/640.webp "Kollapse – \\"Sult\\" Artwork: Gina Skowz")
 
 **Thomas:** I grew up on noise rock in the early nineties. Through the Amphetamine Reptile label in the US, I found out about Gina, as she is somewhat associated with these noise rock creeps (laughs). She is a fantastic artist.
 

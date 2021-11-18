@@ -10,9 +10,9 @@ description: '"The patterns merely mutate" steht auf der Bandcamp Seite von
   bescheidende Beschreibung der beeindruckenden Klanglandschaften des Projekts –
   obwohl es ziemlich gut in Worte fasst, wie diese spezielle Art Musik zu
   funktionieren scheint.'
-image: /img/cementation-anxiety-1.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/cementation-anxiety-1-imagine-080808_241916_1024_768/640.webp
 copyrigt: Cementation Anxiety
-ogImage: /img/cementation-anxiety-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/cementation-anxiety-fb-imagine-080808_281d1a_1200_628/640.webp
 labels:
   - Dark Ambient
   - Ambient
@@ -27,6 +27,7 @@ affiliate: false
 language: de
 languageLink: /2021/07/cementation-anxiety-liminal-instability-en
 ---
+
 **"The patterns merely mutate" steht auf der Bandcamp Seite von Cementation Anxiety. Ich glaube, das ist eine ziemlich schüchterne und bescheidende Beschreibung der beeindruckenden Klanglandschaften des Projekts – obwohl es ziemlich gut in Worte fasst, wie diese spezielle Art Musik zu funktionieren scheint.**
 
 Cementation Anxiety Gründer Kyle selbst schrieb mich an, um mir von der neuen EP  "Liminal Instability" zu erzählen. Natürlich musste ich sofort reinhören und nach den ersten paar Durchgängen muss ich sagen: Ich bin ziemlich geflasht.
@@ -35,7 +36,7 @@ Cementation Anxiety Gründer Kyle selbst schrieb mich an, um mir von der neuen E
 
 Die Platte ist wirklich großartig. Die insgesamt fünf Stücke treffen bei mir einen Nerv und vor allem genau meinen Geschmack. Gelistet ist das Werk unter Dark Ambient und Drone und irgendwie ist da noch so viel mehr als das.
 
-![Cementation Anxiety – "Liminal Instability"](/img/cover.jpg "Cementation Anxiety – \"Liminal Instability\") 
+![Cementation Anxiety – "Liminal Instability"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/cover-imagine-383838_6b6f6c_1440_1440/640.webp "Cementation Anxiety – \"Liminal Instability\") 
 
 Hören sollte man die Songs auf jeden Fall hintereinander – sie bilden insgesamt ein Klangkonzept, das nicht getrennt werden sollte. Beschreiben lässt sich das, was man da hört, nur schwer – auf keinen Fall zumindest kategorisieren oder erklären. 
 
@@ -49,7 +50,7 @@ Der erste Song "Precipice" ist der Auftakt zu einer Reise in die Fantasie. Eine 
 
 Bei den ersten Noten von "The Light On Your Fingertips" betrete ich eine bunte Wiese. Jede Blume hat eine andere Farbe. Ich gehe weiter und beim genaueren Hinsehen merke ich, dass es gar keine Blumen sind. Es sind Töne, die in Schichten übereinander liegen und ein wunderbares Ornament ergeben, das schöner nicht sein könnte und irgendetwas ist da noch. Etwas Furcht-einflößendes und unheimliches. Ein Riss tut sich auf und Schnee rieselt auf das Blumenmeer.
 
-![Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety](/img/cementation-anxiety-2.jpg "Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety")
+![Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety](https://storage.googleapis.com/cardamonchai-media/2021-11-14/cementation-anxiety-2-imagine-080808_3b2b28_1024_768/640.webp "Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety")
 
 ## Hauchzart und düster
 

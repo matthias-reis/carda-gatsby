@@ -8,9 +8,9 @@ seoTitle: We Lost The Sea – "Post-Rock Transcends Barriers"
 description: "For the start of 2021, I have prepared a very special sensation. I
   recently met Mark Owen from We Lost The Sea via social media. He asked me for
   an interview and voilá: here it is!"
-image: /img/2021_01_wlts__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-01-wlts-l-imagine-282828_494644_1440_960/640.webp
 copyrigt: We Lost The Sea
-ogImage: /img/2021_01_we-lost-the-sea-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-01-we-lost-the-sea-fb-png-l-imagine-080808_414141_1440_754/640.webp
 labels:
   - Australian Post-Rock
   - Bands
@@ -27,6 +27,7 @@ affiliate: false
 language: en
 languageLink: /2021/01/we-lost-the-sea-interview
 ---
+
 **For the start of 2021, I have prepared a very special sensation. I recently met Mark Owen from We Lost The Sea via social media. He asked me for an interview and voilá: here it is!**
 
 Can you imagine interviewing one of your absolute favourite musicians? Everything that is running through your head now: That's exactly how I felt. I was so happy that I was hardly able to keep my questions short. As you can imagine, this article has become a bit longer. Of course, it is well worth reading. Mark not only talked openly about the band's history and the plans of We Lost The Sea. He also had some music tips for me, which I am sharing with you today.

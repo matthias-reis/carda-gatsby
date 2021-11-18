@@ -1,33 +1,34 @@
 ---
-date: 2021-05-21T10:00:42.000+02:00
+date: 2021-05-21T08:00:42.000Z
 labels:
-- Ernährung & Gesundheit
-- Rohkost
-- Saft
-- kaltgepresster Saft
-- Saft
-- Rohkost-Saft
+  - Ernährung & Gesundheit
+  - Rohkost
+  - Saft
+  - kaltgepresster Saft
+  - Saft
+  - Rohkost-Saft
 language: de
 slug: rohkost-saft-i-do
 typeName: Produkttest
 title: Rohkost-Saft von I·DO
 subTitle: Münchner Start-up mischt den Saftmarkt auf
 seoTitle: Veganer Rohkost-Saft von I·DO – Start-up mischt den Saftmarkt auf
-ogTitle: ''
-description: Lust auf veganen Rohkost-Saft? Der Name I·DO steht auch für ein ziemlich
-  freshes Start-up, das eben diesen in Bio-Qualität herstellt.
-excerpt: Lust auf veganen Rohkost-Saft? Der Name I·DO steht auch für ein ziemlich
-  freshes Start-up, das eben diesen in Bio-Qualität herstellt. Wer wird ausschließlich
-  aus frischem Gemüse, Obst und Früchten hergestellt. Ich habe probiert.
-image: "/img/2021-05-07-antidote-33.jpg"
-copyright: ''
-ogImage: "/img/antidote-fb.jpg"
+ogTitle: ""
+description: Lust auf veganen Rohkost-Saft? Der Name I·DO steht auch für ein
+  ziemlich freshes Start-up, das eben diesen in Bio-Qualität herstellt.
+excerpt: Lust auf veganen Rohkost-Saft? Der Name I·DO steht auch für ein
+  ziemlich freshes Start-up, das eben diesen in Bio-Qualität herstellt. Wer wird
+  ausschließlich aus frischem Gemüse, Obst und Früchten hergestellt. Ich habe
+  probiert.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-05-07-antidote-33-imagine-98b8b8_a7a28e_1024_768/640.webp
+copyright: ""
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/antidote-fb-imagine-487878_8b8771_1200_628/640.webp
 focusKeyword: Rohkost-Saft
 advertisement: true
 affiliate: true
-languageLink: ''
-
+languageLink: ""
 ---
+
 **Der Name I·DO steht für ein ziemlich freshes Start-up aus München. Im Mittelpunkt des Geschehens steht veganer Rohkost-Saft in Bio-Qualität. Er wird ausschließlich aus frischem Gemüse, Obst und Früchten hergestellt. Ich habe probiert.**
 
 Das Gründungsteam bestehend aus Andi, Alex und Julien begann 2012 mit frischen, kaltgepressten Säften zu experimentieren. Ihr Ziel war es dabei eine Qualität zu produzieren, die es vorher so nicht gegeben hatte – zumindest nicht in der Flasche. Der passende Name war ziemlich schnell gefunden.

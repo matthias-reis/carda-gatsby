@@ -9,9 +9,9 @@ description: Grégoire Fray von Thot hat eine Solo-Live-EP aufgenommen, die heut
   veröffentlicht wird. Ich durfte schon vorab in "Live at daFestival" reinhören
   und bin begeistert. Die Aufnahme für "Live at daFestival 2020" fand während
   des ersten Lockdowns für ein Youtube Event des Belgischen Zines daMusic statt.
-image: /img/gregoire-fray.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/gregoire-fray-imagine-080808_6f6e6f_1024_768/640.webp
 copyrigt: Grégoire Fray
-ogImage: /img/gregoire-fray-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/gregoire-fray-fb-imagine-080808_7a797b_1200_628/640.webp
 labels:
   - Vegetal Noise
   - Post-Rock
@@ -31,6 +31,7 @@ affiliate: false
 language: de
 languageLink: /2021/07/live-at-dafestival-gregoire-thot-en
 ---
+
 **Grégoire Fray von Thot hat eine Solo-Live-EP aufgenommen, die heute veröffentlicht wird. Ich durfte schon vorab in "Live at daFestival" reinhören und bin begeistert.**
 
 Die Aufnahme für "Live at daFestival 2020" fand während des ersten Lockdowns für ein Youtube Event des Belgischen Zines daMusic statt. 
@@ -39,7 +40,7 @@ Die Aufnahme für "Live at daFestival 2020" fand während des ersten Lockdowns f
 
 Grégoires Stimme klingt emotional, schmerzvoll und ergriffen. Die insgesamt drei Stücke sind anders, als die Musik, die er sonst mit Thot macht. Mich erinnert der Stil an die großen Singer-Songwriter der 1980er Jahre. Teil der EP ist auch ein komplett neues Stück, das der Künstler bei der Aufnahme zum ersten Mal vor Publikum spielte.
 
-![Grégoire Fray – "Live at daFestival" | large](/img/thot_dafestival3.png "Grégoire Fray – \"Live at daFestival\"")
+![Grégoire Fray – "Live at daFestival" | large](https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-dafestival3-imagine-181818_3a393b_1855_951/640.webp "Grégoire Fray – \"Live at daFestival\"")
 
 Die Musik lebt, wie man es von ihm gewohnt ist, von ihren Gegensätzen. Während das erste Stück "Vltava" eher ruhig ist, lebt Grégoire im zweiten Song "Keepers" seine innige Liebe zum Industrial Sound aus. Dieser steht im Wechsel zu seinem ausdrucksstarken Gesang und dem harmonischen Klavierspiel – was für eine fantastische und fantasievolle Färbung sorgt. Die Harmonien gehen unter die Haut, die harten Zwischensequenzen wühlen auf und lassen enge Grenzen strenger Genres weit hinter sich.
 
@@ -53,7 +54,7 @@ Der neue Song ist der dritte und letzte auf der Platte. Er ist mit 6:40 der län
 
 Grégoire hat mit seinen drei Solostücken nicht nur die Stimmung des letzten Jahres und die Ungewissheit, die besonders während des ersten Lockdowns herrschte, perfekt vertont. Er hat es auch geschafft, alles, was ich an Musik so sehr liebe und schätze, zusammenzufassen.
 
-![Grégoire Fray – "Live at daFestival" | large](/img/thot_dafestival2.png "Grégoire Fray – \"Live at daFestival\"")
+![Grégoire Fray – "Live at daFestival" | large](https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-dafestival2-imagine-080808_515051_2008_1072/640.webp "Grégoire Fray – \"Live at daFestival\"")
 
 Hier ist Grégoires persönliches Statement zu seiner Solo-EP:
 

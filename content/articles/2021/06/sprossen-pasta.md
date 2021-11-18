@@ -6,10 +6,15 @@ typeName: Produkttest
 title: Sprossen-Pasta & Co.
 subTitle: Neue nachhaltige Bio-Lebensmittel von Aho Bio
 seoTitle: Sprossen-Pasta & Co. – neue nachhaltige Bio-Lebensmittel von Aho Bio
-description: 'Vor Kurzem habe ich Sprossen-Pasta für mich entdeckt. Ja, ihr habt richtig gelesen: Aus Sprossen lassen sich leckere Lebensmittel zaubern.'
-excerpt: 'Vor Kurzem habe ich Sprossen-Pasta für mich entdeckt. Ja, ihr habt richtig gelesen: Aus Getreidesprossen lassen sich die leckersten Lebensmittel herstellen. Aho Bio hat das wieder mal bewiesen. Seit Neuestem gibt es von Aho jetzt auch Nudeln, Reis, Mehl und noch ein paar andere zauberhafte Zutaten – ich habe sie getestet.'
-image: /img/2021-06-20-aho-bio-29final.jpg
-ogImage: /img/sprossen-pasta-fb.jpg
+description: "Vor Kurzem habe ich Sprossen-Pasta für mich entdeckt. Ja, ihr habt
+  richtig gelesen: Aus Sprossen lassen sich leckere Lebensmittel zaubern."
+excerpt: "Vor Kurzem habe ich Sprossen-Pasta für mich entdeckt. Ja, ihr habt
+  richtig gelesen: Aus Getreidesprossen lassen sich die leckersten Lebensmittel
+  herstellen. Aho Bio hat das wieder mal bewiesen. Seit Neuestem gibt es von Aho
+  jetzt auch Nudeln, Reis, Mehl und noch ein paar andere zauberhafte Zutaten –
+  ich habe sie getestet."
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-06-20-aho-bio-29final-imagine-c8e8e8_c7a378_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/sprossen-pasta-fb-imagine-c8e8e8_c59e72_1200_628/640.webp
 labels:
   - Aho Bio Aho
   - Ernährung & Gesundheit

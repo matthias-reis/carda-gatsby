@@ -1,5 +1,5 @@
 ---
-date: 2021-06-08T13:32:42+02:00
+date: 2021-06-08T11:32:42.000Z
 slug: vegan-lebende-menschen-gluecklicher
 typeName: ""
 title: Vegan lebende Menschen sind glücklicher
@@ -11,8 +11,8 @@ description: Vegan lebende Menschen sind offenbar glücklicher, als Menschen, di
 excerpt: "Eine Studie, für die mehr als 11.000 Amerikaner⋆innen befragt wurden,
   bringt es jetzt ans Tageslicht: Vegan lebende Menschen sind offenbar
   glücklicher, als Menschen, die regelmäßig tierische Produkte konsumieren."
-image: /img/veganer-anne-reis-rock-n-roll-vegan-1.jpg
-ogImage: /img/veganer-anne-reis-rock-n-roll-vegan-4.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/veganer-anne-reis-rock-n-roll-vegan-1-imagine-081818_595a59_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/veganer-anne-reis-rock-n-roll-vegan-4-imagine-282828_55565c_1200_628/640.webp
 labels:
   - Achtsamkeit
   - Ernährung & Gesundheit
@@ -29,6 +29,7 @@ affiliate: false
 language: de
 languageLink: ""
 ---
+
 **Eine Studie, für die mehr als 11.000 Amerikaner⋆innen befragt wurden, bringt es jetzt ans Tageslicht: Veganer⋆innen sind offenbar glücklicher, als Menschen, die regelmäßig tierische Produkte konsumieren. Außerdem ist es bei glücklichen Menschen wahrscheinlicher, dass sie sich für den veganen Lebensstil entscheiden.**
 
 Veganer⋆innen sind offenbar nicht nur glücklicher, als Fleischesser⋆innen, sie sind auch insgesamt beliebter, als viele bisher vermutet haben. Das geht aus der kürzlich von Tracking Happiness veröffentlichten Studie hervor.
@@ -41,7 +42,7 @@ Die Teilnehmer⋆innen beantworteten unter anderem folgende Frage:
 
 > "Wenn Du auf das letzte Jahr zurückblickst: Wie würdest Du Dein Fröhlichkeit auf einer Skala von 1 bis 10 bewerten?"
 
-![Vegan lebende Menschen sind glücklicher](/img/veganer-anne-reis-rock-n-roll-vegan-2.jpg "Vegan lebende Menschen sind glücklicher")
+![Vegan lebende Menschen sind glücklicher](https://storage.googleapis.com/cardamonchai-media/2021-11-14/veganer-anne-reis-rock-n-roll-vegan-2-imagine-282828_595c66_768_1024/640.webp "Vegan lebende Menschen sind glücklicher")
 
 Die Fröhlichkeit wurde im Durchschnitt mit 6,9 bewertet. Die Fleischesser⋆innen hatten mit einem Durchschnitt von 6,8 den niedrigsten Wert, bei den Veganer⋆innen lag der Schnitt bei 7.
 
@@ -55,7 +56,7 @@ Die Teilnehmer⋆innen waren im Rahmen der Umfrage nach ihrer Meinung bezüglich
 
 ## Vegan lebende Menschen sind offenbar beliebter als vermutet
 
-![Offenbar beliebter, als vermutet: Veganer⋆innen](/img/veganer-anne-reis-rock-n-roll-vegan.jpg "Offenbar beliebter, als vermutet: Veganer⋆innen")
+![Offenbar beliebter, als vermutet: Veganer⋆innen](https://storage.googleapis.com/cardamonchai-media/2021-11-14/veganer-anne-reis-rock-n-roll-vegan-imagine-c8c8c8_9e9e9e_1024_768/640.webp "Offenbar beliebter, als vermutet: Veganer⋆innen")
 
 Die Studie führte außerdem zu der Erkenntnis, dass nur 16 Prozent der Fleischesser⋆innen es für wahrscheinlich oder sehr wahrscheinlich halten, sich pflanzlich zu ernähren. Die älteren Befragten wiesen diese Möglichkeit dabei deutlich entschiedener von sich.
 

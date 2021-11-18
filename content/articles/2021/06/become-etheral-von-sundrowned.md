@@ -1,41 +1,41 @@
 ---
-date: 2021-06-16T16:09:42+02:00
+date: 2021-06-16T14:09:42.000Z
 labels:
-- Jone Amundsen Piscopo
-- Post-Metal
-- Post-Rock
-- Blackgaze
-- Haugesund
-- Norwegen
-- English & German
-- Bands
-- Review
-- Reviews
-- Atmospheric Post-Metal
-- Post-Black-Metal
-- Metal
-- Sundrowned
+  - Jone Amundsen Piscopo
+  - Post-Metal
+  - Post-Rock
+  - Blackgaze
+  - Haugesund
+  - Norwegen
+  - English & German
+  - Bands
+  - Review
+  - Reviews
+  - Atmospheric Post-Metal
+  - Post-Black-Metal
+  - Metal
+  - Sundrowned
 language: de
 slug: sundrowned-become-etheral
 typeName: Review
 title: '"Become Etheral" von Sundrowned'
 subTitle: Post-Black-Metal aus Norwegen
 seoTitle: Sundrowned – "Become Etheral" – Post-Black-Metal aus Norwegen
-ogTitle: ''
-description: Am Freitag erscheint "Become Etheral" von Sundrowned Ich habe schon mal
-  reingehört und empfehle Euch das Album hiermit.
-excerpt: English & German – Am Freitag erscheint "Become Etheral" von Sundrowned Ich
-  habe schon mal reingehört und empfehle Euch das Album hiermit. Es handelt sich dabei
-  um ein grandioses Gesamtwerk, das Ihr unbedingt anhören solltet.
-image: "/img/473924.jpg"
+ogTitle: ""
+description: Am Freitag erscheint "Become Etheral" von Sundrowned Ich habe schon
+  mal reingehört und empfehle Euch das Album hiermit.
+excerpt: English & German – Am Freitag erscheint "Become Etheral" von Sundrowned
+  Ich habe schon mal reingehört und empfehle Euch das Album hiermit. Es handelt
+  sich dabei um ein grandioses Gesamtwerk, das Ihr unbedingt anhören solltet.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/473924-imagine-0878b8_067cb7_1440_1080/640.webp
 copyright: Sundrowned
-ogImage: "/img/sundrowned-fb.jpg"
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/sundrowned-fb-imagine-0868a8_087cb6_1200_628/640.webp
 focusKeyword: Sundrowned
 advertisement: false
 affiliate: false
-languageLink: "/2021/06/sundrowned-become-etheral-en"
-
+languageLink: /2021/06/sundrowned-become-etheral-en
 ---
+
 **Am Freitag erscheint "Become Etheral" von Sundrowned Ich habe schon mal reingehört und empfehle Euch das Album hiermit. Es handelt sich dabei um ein grandioses Gesamtwerk, das Ihr unbedingt anhören solltet.**
 
 In der Sonne ertrinken und sich dabei in eine ätherische Lichtgestalt auflösen – ob das Album davon handelt, ist eine wilde Vermutung. Doch nicht nur Titel und Bandname regen die Fantasie an und bilden eine starke Steilvorlage für Geschichten.
@@ -44,7 +44,7 @@ Die Post-Black-Metal Band stammt aus dem norwegischen Haugesund. Ihr Debüt ersc
 
 ## Sundrowned verbinden Leichtigkeit und harte Riffs
 
-![Sundrowned – "Become Etheral"](/img/708576.jpg 'Sundrowned – "Become Etheral"')
+![Sundrowned – "Become Etheral"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/708576-imagine-48b8f8_60bfef_1440_1440/640.webp 'Sundrowned – "Become Etheral"')
 
 Der Sound erinnert in Teilen an Bands wie Rosetta und Alcest verfolgt aber andere Ansätze. Der Fokus liegt auf atmosphärischen Klängen und melancholischen Melodien. Harte Riffs stehen eher im Hintergrund. Doch das tut der Freude keinen Abbruch.
 

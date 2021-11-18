@@ -12,22 +12,25 @@ labels:
   - English & German
   - Music
 language: en
-date: 2020-06-19T18:49:00.000+02:00
+date: 2020-06-19T16:49:00.000Z
 slug: it-was-a-good-dream-interview-en
 typeName: Interview
 title: It Was A Good Dream
-subTitle: ''
+subTitle: ""
 seoTitle: It Was A Good Dream – "We Want To Write Melodies"
-ogTitle: ''
-description: One of my favorite post-rock records is "Help Me to Recollect" from It Was A Good Dream. This special and soulful album has accompanied me since its release. Now I had the great chance to talk to Chris Anthony and Alex Glover from It Was A Good Dream about their music and creative process.
-excerpt: ''
-image: '/img/it-was-a-good-dream-1.jpeg'
+ogTitle: ""
+description: One of my favorite post-rock records is "Help Me to Recollect" from
+  It Was A Good Dream. This special and soulful album has accompanied me since
+  its release. Now I had the great chance to talk to Chris Anthony and Alex
+  Glover from It Was A Good Dream about their music and creative process.
+excerpt: ""
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/it-was-a-good-dream-1-imagine-f8e8e8_c88c80_1024_768/640.webp
 copyright: It Was A Good Dream
-ogImage: '/img/it-was-a-good-dream-fb-2.png'
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/it-was-a-good-dream-fb-2-imagine-f89878_c195a7_1200_628/640.webp
 focusKeyword: It Was A Good Dream
 advertisement: false
 affiliate: false
-languageLink: '/2020/06/it-was-a-good-dream-interview'
+languageLink: /2020/06/it-was-a-good-dream-interview
 ---
 
 **One of my favorite post-rock records is "Help Me to Recollect" from It Was A Good Dream. This special and soulful album has accompanied me since its release. Now I had the great chance to talk to Chris Anthony and Alex Glover from It Was A Good Dream about their music and creative process.**

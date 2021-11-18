@@ -9,9 +9,9 @@ description: I've talked to Lyra, who performs as lyra messier. The
   multi-talented ambient music artist has just released her self-titled album.
   In our interview, she gave me some insights into her life and music. Please
   enjoy reading!
-image: /img/2020_09_lyra-messier-1__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2020-09-lyra-messier-1-l-imagine-a84858_8c3f4c_1440_1080/640.webp
 copyrigt: Anne-Leen Declercq
-ogImage: /img/2020_09_lyra-messier-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2020-09-lyra-messier-fb-png-l-imagine-a84858_903e49_1440_754/640.webp
 labels:
   - Achilles De Raedt
   - Ambient
@@ -29,6 +29,7 @@ affiliate: false
 language: en
 languageLink: /2020/09/lyra-messier-interview
 ---
+
 **I've talked to Lyra, who performs as lyra messier. The multi-talented ambient music artist has just released her self-titled album. In our interview she gave me some insights into her life and music. Please enjoy reading!**
 
 **Anne:** Hi Lyra! Thank you for taking the time! How are you today?

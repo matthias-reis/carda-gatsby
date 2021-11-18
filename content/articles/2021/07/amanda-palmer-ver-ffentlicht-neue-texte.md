@@ -11,9 +11,9 @@ description: Nach ihrem grandiosen letzten Album "There Will Be No Intermission"
   derzeitigen Aufenthaltsort in Neuseeland zurück. "Getting Strangled As
   Gracefully As Possible, Or A Year In The Belly Of The Whale" ist online frei
   verfügbar.
-image: /img/amanda-palmer-1.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/amanda-palmer-1-imagine-081828_3a5165_765_693/640.webp
 copyrigt: Amanda Palmer/Duncan Innes
-ogImage: /img/amanda-palmer-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/amanda-palmer-fb-imagine-083858_365064_1200_628/640.webp
 labels:
   - Amanda Palmer
   - The Dresden Dolls
@@ -26,6 +26,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Nach ihrem grandiosen letzten Album "There Will Be No Intermission" von 2019 und ihrer kurzen Auszeit meldet sich Amanda Palmer mit neuen Texten und Bildern von ihrem derzeitigen Aufenthaltsort in Neuseeland zurück.**
 
 Die Texte in "Getting Strangled As Gracefully As Possible, Or A Year In the Belly Of The Whale" sind sehr persönlich. Sie schreibt vom Tod ihres besten Freundes Anthony, ihrer Schwangerschaft mit Baby Ash und ihrer Ehe. Sie erzählt von ihren Ängsten durch die Corona-Pandemie und die Veränderung ihrer Lebensumstände.
@@ -34,7 +35,7 @@ Die Texte in "Getting Strangled As Gracefully As Possible, Or A Year In the Bell
 
 Das Werk, das sich ein bisschen liest, wie ein Tagebuch, hat sie auf Patreon und auf Medium veröffentlicht. Ihr könnt es also jederzeit lesen, wenn es Euch wie mir geht und ihr gerne erfahren möchtet, wie es der Künstlerin in den letzten Monaten ergangen ist. Oder besser gesagt: vielen Künstler⋆innen, die durch wegfallende Auftritte und Tourneen dazu gezwungen wurden, ihr Leben von einem Tag auf den anderen neu zu erfinden – ohne Vorbereitung oder Vorwarnung
 
-![Amanda Palmer. Foto/picture: © Amanda Palmer/Duncan Innes](/img/amanda-palmer-2.jpg "Amanda Palmer. Foto/picture: © Amanda Palmer/Duncan Innes")
+![Amanda Palmer. Foto/picture: © Amanda Palmer/Duncan Innes](https://storage.googleapis.com/cardamonchai-media/2021-11-14/amanda-palmer-2-imagine-c8d8d8_a8b1b5_1400_1057/640.webp "Amanda Palmer. Foto/picture: © Amanda Palmer/Duncan Innes")
 
 "Getting Strangled..." handelt von Brüchen, Veränderung, Trauer und Liebe. Vom Loslassen der persönlichen Gewohnheiten, von Abschied und Neuanfang. Vom Tod und Geburt – von Ideen und von Menschen. Amanda schreibt, sie habe sich während des letzten Jahres gefühlt, wie im dunklen Bauch eines Wales – weit weg von der Gemeinschaft und abgeschnitten von ihrem früheren Alltag.
 

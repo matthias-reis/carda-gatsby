@@ -9,9 +9,9 @@ description: The songs on the new Lower Automation album go by names like "Vegan
   Neuroscientist" and "Locust Bean Gum". It is somehow clear that this makes me
   more than curious. It seems to be a brilliant coincidence that I am also into
   it since the first listening.
-image: /img/lower-automation.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/lower-automation-imagine-e8f8f8_999ba5_1024_768/640.webp
 copyrigt: Lower Automation
-ogImage: /img/lower-automation-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/lower-automation-fb-imagine-e8f8f8_82808b_1200_628/640.webp
 labels:
   - Bands
   - Mathcore

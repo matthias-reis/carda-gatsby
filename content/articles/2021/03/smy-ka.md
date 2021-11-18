@@ -10,9 +10,9 @@ description: Smyčka is, without a doubt, one of my most beautiful post-rock
   it only came out now that they have finished their first album – even though
   it is already available since February. "Fated" is playing on a continuous
   loop for me at the moment.
-image: /img/2021_03_smycka__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-03-smycka-l-imagine-181818_22252a_1440_1080/640.webp
 copyrigt: Smyčka
-ogImage: /img/2021_03_smycka-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-03-smycka-fb-png-l-imagine-181818_212329_1440_754/640.webp
 labels:
   - Bands
   - English & German
@@ -27,6 +27,7 @@ affiliate: false
 language: en
 languageLink: /2021/03/smycka-fated
 ---
+
 **Smyčka is, without a doubt, one of my most beautiful post-rock discoveries of the last weeks. Due to personnel disruptions within the band, it only came out now that they have finished their first album – even though it is already available since February. "Fated" is playing on a continuous loop for me at the moment.**
 
 If you're a fan of Battle Of Mice and Cult Of Luna, Smyčka is definitely a band you should pay attention to. The emotionally charged sound of the group from Moscow gives me goosebumps. Honestly, if more people listened to this music, the world would be a more peaceful place.

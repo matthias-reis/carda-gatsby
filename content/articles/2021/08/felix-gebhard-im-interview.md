@@ -9,9 +9,9 @@ description: Felix Gebhard hat mir im Interview verraten, dass er schon immer in
   einer Instrumental-Band wie Zahn spielen wollte. Dieser Wunsch ist nun endlich
   in Erfüllung gegangen. Das erste Album "Zahn" ist draußen und verspricht
   einiges. Ihr solltet unbedingt reinhören!
-image: /img/zahn.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/zahn-imagine-484848_000000_1024_768/640.webp
 copyrigt: Zahn
-ogImage: /img/zahn-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/zahn-fb-imagine-080808_000000_1200_628/640.webp
 labels:
   - Einstürzende Neubauten
   - Felix Gebhard
@@ -38,6 +38,7 @@ affiliate: false
 language: de
 languageLink: /2021/08/felix-gebhard-zahn-interview-en/
 ---
+
 **Zahn ist das großartige Instrumental (Noise) Projekt von Chris Breuer (ehem. The Ocean, Heads.), Nic Stockmann (Heads., ehem. Eisenvater) und Felix Gebhard (live Einstürzende Neubauten).**
 
 Chris habe ich über die Pressearbeit, die er für diverse Bands macht, kennengelernt. Er hat für mich jetzt ein Interview mit Gitarrist Felix organisiert. 
@@ -48,7 +49,7 @@ Die Musik von **Zahn** ist geprägt von Einflüssen aus Sludge und Post-Rock mit
 
 Das großartige gleichnamige Debüt-Album ist am 20. August erschienen. Ich hatte auch schon im Vorfeld die Ehre, es hören zu dürfen und tue es nach wie vor ausgiebig. Denn: Es ist ziemlich genial. Soviel kann ich Euch schon mal verraten. Im Anschluss an das Interview findet Ihr unten eine Hörprobe.
 
-!["Zahn" – das Debütalbum von Zahn](/img/zahn-2-.jpg "\\"Zahn\\" – das Debütalbum von Zahn")
+!["Zahn" – das Debütalbum von Zahn](https://storage.googleapis.com/cardamonchai-media/2021-11-14/zahn-2-imagine-c86868_b67879_1080_1080/640.webp "\\"Zahn\\" – das Debütalbum von Zahn")
 
 Der Song "Pavian" ist laut der Band eine Studie der männlichen Spezies, Mensch und/oder Anthropoide. Die seltsamen Riten der alpha-männlichen Freizeitaktivitäten und/oder Sportarten. Das treibende, Rhythmus-getriebene Stück ist mit seinem wiederkehrenden Takt ein einprägsamer Ansporn, Euch den Rest des Albums gleich auch noch anzuhören. Ihr findet es bei den bekannten Streaming-Diensten und könnt es auch auf Vinyl erwerben.
 
@@ -74,7 +75,7 @@ Die Band sollte einen kurzen prägnanten Namen haben. Sie hieß ungefähr eine W
 
 **Anne:** Ihr habt Euer Album "Zahn" am 20. August veröffentlicht. Gratulation dazu! Ihr habt es in den "Die Mühle" Studios aufgenommen, wo auch Bands wie **The Ocean** immer wieder vor Ort sind. Ich habe ein paar Bilder von dieser Location gesehen. Es muss ziemlich beeindruckend sein. Wie war es, dort zu arbeiten?
 
-![Felix Gebhard: "Es war großartig in der Mühle aufzunehmen"](/img/zahn-1-.jpg "Felix Gebhard: \\"Es war großartig in der Mühle aufzunehmen\\"")
+![Felix Gebhard: "Es war großartig in der Mühle aufzunehmen"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/zahn-1-imagine-989898_000000_1024_768/640.webp "Felix Gebhard: \\"Es war großartig in der Mühle aufzunehmen\\"")
 
 **Felix:** Das war großartig! Peter Voigtmann ist einer der entspanntesten Menschen der Welt und
 er hat sofort gewusst, wie er unseren Sound am besten einfängt. Der Klang im Aufnahmeraum in der Mühle ist fantastisch. Ich habe noch bevor die Platte gemischt wurde, von mehreren Seiten Komplimente bekommen, wie mächtig die Drums schon im Rohmix klangen. Die Atmosphäre in der Mühle ist toll, sie liegt in der Natur, in Aufnahmepausen kannst du aus der Tür auf die Wiese treten und Pferde streicheln.
@@ -106,7 +107,7 @@ er hat sofort gewusst, wie er unseren Sound am besten einfängt. Der Klang im Au
 
 Ich habe 2020 viel **Television** gehört, wenn ich mich recht erinnere und die letzte Soloplatte von **Sam Prekop**. Ich habe **The Replacements** für mich wiederentdeckt und arbeite mich nach und nach durch das Gesamtwerk von **Alice** und **John** **Coltrane**, da gibt es noch eine Menge Alben, die ich nicht kenne. Das hat alles nicht offensichtlich mit **Zahn** zu tun, aber irgendeine Haltung oder ein Ausdruck findet dann vielleicht seinen Weg aus dieser Musik in die Art, wie ich bei **Zahn** Gitarre spiele.
 
-![Zahn in der Vinyl-Edition](/img/zahn-3-.jpg "Zahn in der Vinyl-Edition")
+![Zahn in der Vinyl-Edition](https://storage.googleapis.com/cardamonchai-media/2021-11-14/zahn-3-imagine-080808_6c574f_1080_1080/640.webp "Zahn in der Vinyl-Edition")
 
 **Anne:** Du hast ja auch permanent mit Musik zu tun und triffst die unterschiedlichsten Künstler⋆innen. Wie siehst Du das mit den unzähligen Genres, in die Musik heutzutage eingeordnet wird. Ist das sinnvoll? Jonas von **[Dimwind](/2021/06/dimwind-interview/)** meinte neulich zu mir "Es scheint von essenzieller Wichtigkeit zu sein, Deinem Sound einer Marke zuzuordnen, um ein bestimmtes Publikum zu erreichen". Ich selbst habe mich noch nie einem bestimmten Genre zugehörig gefühlt, finde das aber ziemlich einleuchtend. Wenn man bestimmte Leute erreichen möchte, muss man seinem Sound einen Namen geben. Siehst Du das ähnlich? Oder sollte es besser überhaupt keine Genres geben?
 

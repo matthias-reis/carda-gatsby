@@ -8,9 +8,9 @@ seoTitle: '"Acid Air" By Magnus Josefsson – Ambient Review'
 description: Magnus Josefsson has announced his first official album for
   December under his self-founded label The Mirror Factory. I had the chance to
   listen to "Acid Air" upfront, and now I want to share my experience with you.
-image: /img/magnus-josefsson.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/magnus-josefsson-imagine-080808_824e37_1024_768/640.webp
 copyrigt: Magnus Josefsson
-ogImage: /img/magnus-josefsson-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/magnus-josefsson-fb-imagine-080808_a15e42_1200_628/640.webp
 labels:
   - Post-Rock
   - Dream Pop
@@ -31,6 +31,7 @@ affiliate: false
 language: en
 languageLink: /2021/11/magnus-josefsson-acid-air/
 ---
+
 **Magnus Josefsson has announced his first official album for December under his self-founded label The Mirror Factory. I had the chance to listen to "Acid Air" upfront, and now I want to share my experience with you.**
 
 After a few self-released singles and a [mixtape for Anette Records](/2021/05/magnus-josefsson-anette-halbe-stunde-en/), the time had come for Magnus to release a full album – a big step for the heart and soul musician.

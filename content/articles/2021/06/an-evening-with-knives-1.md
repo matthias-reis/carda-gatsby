@@ -1,41 +1,41 @@
 ---
-date: 2021-06-07T16:48:42+02:00
+date: 2021-06-07T14:48:42.000Z
 labels:
-- Bands
-- Review
-- Reviews
-- Doom
-- Post-Metal
-- Post-Rock
-- Sludge
-- Stoner
-- Stoner-Rock
-- An Evening With Knives
-- English & German
+  - Bands
+  - Review
+  - Reviews
+  - Doom
+  - Post-Metal
+  - Post-Rock
+  - Sludge
+  - Stoner
+  - Stoner-Rock
+  - An Evening With Knives
+  - English & German
 language: en
 slug: an-evening-with-knives-sense-of-gravity-en
 typeName: Review
 title: An Evening With Knives
 subTitle: '"Sense of Gravity"'
 seoTitle: An Evening With Knives – "Sense of Gravity" – Stoner/ Doom Review
-ogTitle: ''
-description: An Evening With Knives is one of those bands that we definitely shouldn't
-  ignore. Their latest record, "Sense Of Gravity", is only a few months old and deserves
-  to be heard!
-excerpt: An Evening With Knives is one of those bands that we definitely shouldn't
-  ignore. Their latest record, "Sense Of Gravity", is only a few months old and deserves
-  to be heard! An Evening With Knives have chosen the year that we will all never
-  forget to release their new album that probably a few of us will also keep in mind
-  forever. It's called "Sense of Gravity".
-image: "/img/an-evening-with-knives.jpg"
+ogTitle: ""
+description: An Evening With Knives is one of those bands that we definitely
+  shouldn't ignore. Their latest record, "Sense Of Gravity", is only a few
+  months old and deserves to be heard!
+excerpt: An Evening With Knives is one of those bands that we definitely
+  shouldn't ignore. Their latest record, "Sense Of Gravity", is only a few
+  months old and deserves to be heard! An Evening With Knives have chosen the
+  year that we will all never forget to release their new album that probably a
+  few of us will also keep in mind forever. It's called "Sense of Gravity".
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/an-evening-with-knives-imagine-180808_7e6d5d_1024_1024/640.webp
 copyright: An Evening With Knives
-ogImage: "/img/an-evening-with-knives-fb.jpg"
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/an-evening-with-knives-fb-imagine-080808_7a7064_1200_628/640.webp
 focusKeyword: An Evening With Knives
 advertisement: false
 affiliate: false
-languageLink: "/2021/06/an-evening-with-knives-sense-of-gravity"
-
+languageLink: /2021/06/an-evening-with-knives-sense-of-gravity
 ---
+
 **An Evening With Knives is one of those bands that we definitely shouldn't ignore. Their latest record, "Sense Of Gravity", is only a few months old and deserves to be heard!**
 
 An Evening With Knives have chosen the year that we will all never forget to release their new album that probably a few of us will also keep in mind forever. It's called "Sense of Gravity".
@@ -44,7 +44,7 @@ The feedback the Dutch have received on this latest recording so far has been po
 
 ## An Evening With Knives don't fit into a box
 
-![An Evening With Knives – "Sense of Gravity"](/img/an-evening-with-knives.jpeg 'An Evening With Knives – "Sense of Gravity"')
+![An Evening With Knives – "Sense of Gravity"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/an-evening-with-knives-imagine-180808_7e6d5d_1024_1024/640.webp 'An Evening With Knives – "Sense of Gravity"')
 
 Their tour was supposed to take them not only through Holland but also through Belgium and Germany. They had planned to travel the clubs with Insect Ark from the USA and Stake from Belgium.
 
@@ -58,7 +58,7 @@ The song structures are wonderfully complex, and the sounds are pleasantly heavy
 
 The band has been around since 2015. "Sense of Gravity" already has some predecessors – two of them are EPs, one is a full-length LP. Since their first EP, the three have clearly developed. With the new album, they have given free rein to their creativity. Their influences in the post-rock and sludge corner are clearly recognisable. The mixture with elements from the stoner world makes it perfect.
 
-![An Evening With Knives – "Sense of Gravity"](/img/90869948_1530321057134485_4941586764285345792_o-1.jpg 'An Evening With Knives – "Sense of Gravity"')
+![An Evening With Knives – "Sense of Gravity"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/90869948-1530321057134485-4941586764285345792-o-1-imagine-085838_366851_1440_1440/640.webp 'An Evening With Knives – "Sense of Gravity"')
 
 You will notice the described diversity right away in the first track on the record ("Sacrifice"). An atmospheric solo is followed by riffs that you would probably otherwise look for with Ozzy and Co. The bass line lingers during a post-rock-like hiatus, leading a perfect transition to the song's grand finale.
 

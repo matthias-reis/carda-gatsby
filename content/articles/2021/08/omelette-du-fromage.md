@@ -12,9 +12,9 @@ description: Am 3. September erscheint ein Album, auf das Ihr Euch freuen könnt
   vermutlich schon von The Ocean, Coilguns, Louis Jucker und anderen Projekten
   kennt.
 excerpt: ""
-image: /img/2021-08-02-closet-disco-queen-flying-raclettes-3.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-08-02-closet-disco-queen-flying-raclettes-3-imagine-080808_3a3a3a_1440_960/640.webp
 copyrigt: Closet Disco Queen & The Flying Raclettes
-ogImage: /img/closet-disco-queen-the-flying-raclettes-omelette-du-fromage-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/closet-disco-queen-the-flying-raclettes-omelette-du-fromage-fb-imagine-080808_000000_1200_628/640.webp
 labels:
   - 70srock
   - Experimental
@@ -40,13 +40,14 @@ affiliate: false
 language: de
 languageLink: /2021/08/closet-disco-queen-the-flying-raclettes-omelette-du-fromage-en/
 ---
+
 **Am 3. September erscheint ein Album, auf das Ihr Euch freuen könnt. Bei The Flying Raclettes handelt es sich um die Erweiterung des Instrumental-Duos Closet Disco Queen von Luc Hess und Jona Nido, die ihr vermutlich schon von The Ocean, Coilguns, Louis Jucker und anderen Projekten kennt.**
 
 Zu den beiden haben sich nun der Live- und Studio Toningenieur und Gitarrist Kevin Galland, der unter anderem auch bei Coilguns gespielt hat und Chadi Messmer (Bass) gesellt. Aus Closet Disco Queen wurde für diese Platte also Closet Disco & The Flying Raclettes.
 
 ## Closet Disco Queen blicken auf spannende Geschichten zurück
 
-![Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"](/img/closet-disco-queen-omelette-du-fromage.jpeg "Closet Disco Queen & The Flying Raclettes – \\"Omelette du Fromage\\"")
+![Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/closet-disco-queen-omelette-du-fromage-imagine-78b8b8_808f85_700_700/640.webp "Closet Disco Queen & The Flying Raclettes – \\"Omelette du Fromage\\"")
 
 Closet Disco Queen gründeten sich 2014 während einer ruhigen Phase bei Coilguns. Das erklärte Ziel damals: eine weniger talentierte Version von The Mars Volta zu werden.
 
@@ -56,7 +57,7 @@ Ein besonderes Highlight auf ihrem Weg düfte wohl der Auftritt auf dem Desert F
 
 ## "Omelette du Fromage" ist eine Hommage an "Dexter's Laboratory"
 
-![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-5.jpeg "Closet Disco Queen & The Flying Raclettes")
+![Closet Disco Queen & The Flying Raclettes](https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-08-02-closet-disco-queen-flying-raclettes-5-imagine-080808_313131_1440_2160/640.webp "Closet Disco Queen & The Flying Raclettes")
 
 Das gemeinsame Album trägt den würzigen Titel "Omelette du Fromage". Es erscheint auf Jona Nidos Plattenlabel Hummus Records. Der Albumtitel soll eine direkte Hommage an die Episode "The Big Cheese" der Cartoon Network-Zeichentrickserie "Dexter's Laboratory" von 1996 sein.
 
@@ -72,7 +73,7 @@ Der zusätzliche Bass und die weitere Gitarre haben den Sound im Vergleich zum l
 
 ## Progressive Elemente und Punk-Attitüde
 
-![Closet Disco Queen & The Flying Raclettes](/img/2021-08-02-closet-disco-queen-flying-raclettes-2.jpeg "Closet Disco Queen & The Flying Raclettes")
+![Closet Disco Queen & The Flying Raclettes](https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-08-02-closet-disco-queen-flying-raclettes-2-imagine-080808_3e3e3e_1440_960/640.webp "Closet Disco Queen & The Flying Raclettes")
 
 Die Band verbindet Elemente aus der progressiven Psych- und Stoner-Welt mit rumpeliger Punk-Attitüde und schier unerschöpflicher Energie, die wir von Gruppen wie The Mars Volta, Goat oder The Hives so lieben.
 

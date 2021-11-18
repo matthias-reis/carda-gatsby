@@ -12,10 +12,10 @@ excerpt: Djiin recorded an album with Season Of Mist – Because this sounds li
   we should give them a listen, I did that, and of course, I have put together
   all essential details about "Meandering Soul", which will be released by the
   end of this week.
-image: /img/djiin-2.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/djiin-2-imagine-280808_614f44_800_533/640.webp
 copyrigt: |
   Djiin
-ogImage: /img/djiin-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/djiin-fb-imagine-c8c8c8_656565_1200_628/640.webp
 labels:
   - Djiin
   - Prog
@@ -37,13 +37,14 @@ affiliate: false
 language: en
 languageLink: /2021/11/djiin-meandering-soul/
 ---
+
 **Djiin recorded an album with Season Of Mist – Because this sounds like we should give them a listen, I did that, and of course, I have put together all essential details about "Meandering Soul", which will be released by the end of this week.**
 
 I have been following the development of Season Of Mist for quite some time now. In the meantime, some inspiring bands have found a home on the small label. One of them is Djiin. The quartet from Rennes, France, has been releasing music since 2017. Their latest work, "Meandering Soul", definitely deserves our attention.
 
 ## Prog meets Stoner Rock
 
-![Djiin](/img/djiin-3.jpeg "Djiin")
+![Djiin](https://storage.googleapis.com/cardamonchai-media/2021-11-14/djiin-3-imagine-281808_503a1f_800_1000/640.webp "Djiin")
 
 Usually, you won't find much classical music like 1970s-influenced prog on my blog. However, for Djiin, this music style seems to be the basis, but they mix it with hard-to-digest, psychedelic stoner rock, something in the kraut direction, and doom. And that's where it gets interesting for me again. 
 

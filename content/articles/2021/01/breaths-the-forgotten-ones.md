@@ -10,9 +10,9 @@ description: Breaths is a post-rock project from Richmond, Virginia. Founder
   Silver", which he will release in March. The song "The Forgotten Ones" is
   about the relationship between humans and animals. Jason and his family have
   been living vegan for four years now.
-image: /img/2021_01_the-forgotten-ones-breaths-1__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-01-the-forgotten-ones-breaths-1-l-imagine-181808_413f3b_1440_1080/640.webp
 copyrigt: Breaths
-ogImage: /img/2021_01_breaths-the-forgotten-ones.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-01-breaths-the-forgotten-ones-png-l-imagine-080808_76634c_1440_754/640.webp
 labels:
   - Bands
   - Breaths
@@ -31,6 +31,7 @@ affiliate: false
 language: en
 languageLink: /2021/01/breaths-the-forgotten-ones
 ---
+
 **Breaths is a post-rock project from Richmond, Virginia. Founder Jason now introduced me to the latest single from his debut album "Lined In Silver", which he will release in March. The song "The Forgotten Ones" is about the relationship between humans and animals. Jason and his family have been living vegan for four years now.**
 
 "Lined In Silver" is a mixture of post-metal, doom gaze, blackgaze and post-rock. Jason recommends it to fans of bands like Deftones, The Ocean, Holy Fawn, Sleep Token and Mountaineer – of course; he immediately hit a nerve with me.

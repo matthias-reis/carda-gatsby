@@ -10,8 +10,8 @@ description: "29. Juli 2021 – Heute ist Earth Overshoot Day 2021. Das bedeutet
   zur Verfügung stehen würden, ausgereizt. Ab heute bräuchten wir eine weitere
   Erde. Im Vergleich zum Jahr 2019 haben wir uns nicht gebessert."
 excerpt: ""
-image: /img/earth-overshoot-day-2021.jpg
-ogImage: /img/earth-overshoot-day-2021-fb.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/earth-overshoot-day-2021-imagine-282828_706e68_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/earth-overshoot-day-2021-fb-imagine-c8c8c8_78756d_1200_628/640.webp
 labels:
   - Earth Overshoot Day
   - Earth Overshoot Day 2021
@@ -25,6 +25,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **29. Juli 2021 – Heute ist Earth Overshoot Day 2021. Das bedeutet: Am heutigen Tage haben wir die natürlichen Ressourcen, die uns für ein Jahr zur Verfügung stehen würden, ausgereizt. Ab heute bräuchten wir eine weitere Erde.**
 
 Während ich [2019](/2019/07/earth-overshoot-day-2019/) noch geschrieben habe:
@@ -55,11 +56,11 @@ Lösungsansätze gibt es viele. Wichtig ist jetzt vor allem, dass diejenigen, di
 
 Der Earth Overshoot Day wird übrigens auch für die einzelnen Länder berechnet. Dabei kann man ganz klar erkennen, dass die Industrieländer die Hauptverursacher des Klimawandels sind. Würden alle Menschen auf der Welt leben, wie die Menschen in Katar, wäre der Earth Overshoot Day bereits am 9. Februar gewesen. Würden wir alle so leben, wie die Menschen in den USA,  am 14. März, in Australien, am 22. März, in Deutschland am 5. Mai,  in Großbritannien am 19. Mai und in Indonesien erst am 18. Dezember.
 
-![Earth Overshoot Day nach Ländern. Grafik/grapic: Global Footprint Network | large](/img/country-overshoot-days-2021.jpeg "Earth Overshoot Day nach Ländern. Grafik/grapic: Global Footprint Network")
+![Earth Overshoot Day nach Ländern. Grafik/grapic: Global Footprint Network | large](https://storage.googleapis.com/cardamonchai-media/2021-11-14/country-overshoot-days-2021-imagine-f8f8f8_dde5e9_1000_809/640.webp "Earth Overshoot Day nach Ländern. Grafik/grapic: Global Footprint Network")
 
 Im Verlauf der Jahre kann man sehr gut sehen, wie sich das Datum des Earth Overshoot Day immer weiter nach vorne verschoben hat. Die Menschheit befindet sich seit Anfang der 1970er Jahre  in einem ökologischen Defizit. Die Wissenschaftler⋆innen haben hier auch zurückgerechnet.
 
-![Der Earth Overshoot Day im Wandel der Jahre. Grafik/grapic: Global Footprint Network | large](/img/2021_past_eod_en_sm.jpeg "Der Earth Overshoot Day im Wandel der Jahre. Grafik/grapic: Global Footprint Network")
+![Der Earth Overshoot Day im Wandel der Jahre. Grafik/grapic: Global Footprint Network | large](https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-past-eod-en-sm-imagine-f8f8f8_b5b19c_800_580/640.webp "Der Earth Overshoot Day im Wandel der Jahre. Grafik/grapic: Global Footprint Network")
 
 ## Bildbeschreibung – Der Earth Overshoot Day im Wandel der Jahre
 
@@ -67,7 +68,7 @@ Im Verlauf der Jahre kann man sehr gut sehen, wie sich das Datum des Earth Overs
 
 Bei der Aktion "Move The Date" machen Menschen darauf aufmerksam, wie wir alle mit unserem Lebensstil daran arbeiten können, dass der Earth Overshoot Day im nächsten Jahr später stattfindet. Nachhaltiger Tourismus und Mülltrennung gehören genauso zu den Punkten, wie pflanzliche Ernährung, der Verzicht auf ein eigenes Fahrzeug und das Vermeiden von Flugreisen. Hier eine Grafik, in der beschrieben wird, wie wir den Welterschöpfungstag mit bewusster Ernährung verschieben können. 
 
-![Mit bewusster Ernährung für das Klima kämpfen. Grafik/grapic: Global Footprint Network | large](/img/eod_2020_hand-final-2021-1000.jpeg "Mit bewusster Ernährung für das Klima kämpfen. Grafik/grapic: Global Footprint Network")
+![Mit bewusster Ernährung für das Klima kämpfen. Grafik/grapic: Global Footprint Network | large](https://storage.googleapis.com/cardamonchai-media/2021-11-14/eod-2020-hand-final-2021-1000-imagine-f8f8f8_dfe6e7_1000_1126/640.webp "Mit bewusster Ernährung für das Klima kämpfen. Grafik/grapic: Global Footprint Network")
 
 ## Bildbeschreibung – So können wir das Klima mit bewusster Ernährung schützen
 

@@ -10,8 +10,8 @@ description: Die Sorge der Deutschen ums Klima befindet sich auf einem
   hervor. Neben der Angst vor Armut und Corona ist die vor den Folgen des
   Klimawandels die größte. Die Flutkatastrophe hat das Problembewusstsein
   geschärft.
-image: /img/klimakrise.jpg
-ogImage: /img/klimakrise-fb.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/klimakrise-imagine-f8f8f8_787e82_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/klimakrise-fb-imagine-f8f8f8_878585_1200_628/640.webp
 labels:
   - Klima
   - Klimakatastrophe
@@ -26,6 +26,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Die Sorge der Deutschen ums Klima befindet sich auf einem Allzeithoch. Das geht aus der aktuellen Ipsos-Studie "What worries the World" hervor. Neben der Angst vor Armut und Corona ist die vor den Folgen des Klimawandels die größte. Die Flutkatastrophe hat das Problembewusstsein geschärft.**
 
 Einige der derzeit im Wahlkampf befindlichen Politiker⋆innen behaupten ja gerne mal Dinge. Dazu gehört die Aussage, wir würden uns angeblich gar keine Sorgen ums Klima machen und uns eigentlich wünschen, dass alles bleibt, wie bisher (gestern Abend bei Anne Will wieder gehört, dieses Mal sogar von einer angeblich "neutralen" Person). Die "What worries the World" Studie hat gerade wieder einmal eindeutig belegt: Wir haben sehr wohl Angst vor der Klimakatastrophe – sehr viel mehr als die Menschen in den meisten anderen Ländern sogar.
@@ -52,7 +53,7 @@ Betrachtet man den globalen Durchschnitt, machen sich nur rund zehn Prozent Sorg
 
 Insgesamt gehört COVID-19 mit 37 Prozent klar zu den größten Sorgen-Themen der Weltbevölkerung. Im Vergleich zum letzten Monat ist die Zahl um ein Prozent gestiegen. Die größte Angst vor der Pandemie herrscht aktuell mit 83 Prozent in Malaysia. In Japan sind es 63 Prozent und in Südkorea 59 Prozent.
 
-![Die fünf größten Sorgen der Deutschen im globalen Vergleich.](/img/klimakrise-ipsos-grafik.jpg "Die fünf größten Sorgen der Deutschen im globalen Vergleich.")
+![Die fünf größten Sorgen der Deutschen im globalen Vergleich.](https://storage.googleapis.com/cardamonchai-media/2021-11-14/klimakrise-ipsos-grafik-imagine-f8f8f8_d0dbe2_567_425/640.webp "Die fünf größten Sorgen der Deutschen im globalen Vergleich.")
 
 ## Die Angst vor COVID-19 wächst weltweit
 

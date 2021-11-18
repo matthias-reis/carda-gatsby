@@ -1,35 +1,36 @@
 ---
-date: 2020-07-17T22:21:42+02:00
+date: 2020-07-17T20:21:42.000Z
 labels:
-- Post-Rock
-- Bands
-- Interview
-- Lost in Kiev
-- Post-Metal
-- Post-Music
-- DUNK!festival
-- DUNK!records
-- English & German
-- Interviews
+  - Post-Rock
+  - Bands
+  - Interview
+  - Lost in Kiev
+  - Post-Metal
+  - Post-Music
+  - DUNK!festival
+  - DUNK!records
+  - English & German
+  - Interviews
 language: en
 slug: lost-in-kiev-interview-en
 typeName: Interview
 title: Interview With Lost In Kiev
 subTitle: '"The Post-Rock Scene Is Very Special"'
 seoTitle: Interview with Lost in Kiev "The Post-Rock Scene Is Very Special"
-ogTitle: ''
-description: 'Something happened that I have always dreamed of: Lost in Kiev have
-  agreed to an interview! The post-rock band from Paris was very open to my questions.'
-excerpt: ''
-image: "/img/lost-in-kiev.jpeg"
+ogTitle: ""
+description: "Something happened that I have always dreamed of: Lost in Kiev
+  have agreed to an interview! The post-rock band from Paris was very open to my
+  questions."
+excerpt: ""
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/lost-in-kiev-imagine-080808_2f4b6f_1024_768/640.webp
 copyright: Lost in Kiev
-ogImage: "/img/lost-in-kiev-6.png"
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/lost-in-kiev-6-imagine-080808_304f76_1200_628/640.webp
 focusKeyword: Lost in Kiev
 advertisement: false
 affiliate: false
-languageLink: "/2020/07/lost-in-kiev-interview"
-
+languageLink: /2020/07/lost-in-kiev-interview
 ---
+
 **Something happened that I have always dreamed of: Lost in Kiev have agreed to an interview! The post-rock band from Paris was very open to my questions.**
 
 The current album "Persona" which was released in December 2019, is playing on rotation. Time for some insider information!
@@ -56,7 +57,7 @@ The current album "Persona" which was released in December 2019, is playing on r
 
 **LIK:** We are all big fans of Sci-Fi, Cyberpunk stuff and dystopian futures and of course big fans of the TV show "Black Mirror". So making an album of these themes was something that came naturally for us. As we like to tell our own stories in our albums by writing our lyrics and samples, the concept and the limits of AI was the perfect theme to express our opinions on this and how it is linked with mankind. All tracks have their background and there has been a lot of conversations between us.
 
-![Lost in Kiev. Picture: Lost in Kiev](/img/lost-in-kiev-2-400x300.jpeg "Lost in Kiev. Picture: Lost in Kiev")
+![Lost in Kiev. Picture: Lost in Kiev](https://storage.googleapis.com/cardamonchai-media/2021-11-14/lost-in-kiev-2-400x300-imagine-080808_3d2b20_400_300/640.webp "Lost in Kiev. Picture: Lost in Kiev")
 
 On the other hand, some of us do love synths and machines and it has been a long time since we wanted to do a more electronic album. This time the theme was perfect for that and we tried to find the right balance between massive rock energy and machines to bring a powerful but rich in textures sound.
 
@@ -78,7 +79,7 @@ Above the joke, we kept this name because travel is important for us especially 
 
 **LIK:** Red Sparrowes and Mogwai clearly for their amazing sense of telling musical landscapes. Early Russian Circles for the power and melody. Also, we are big fans of 65daysofstatic, all the Vangelis work too. pg.lost are also important to us in the way they build their tracks.
 
-![Lost in Kiev. Picture: Lost in Kiev](/img/lost-in-kiev-8-400x300.jpeg "Lost in Kiev. Picture: Lost in Kiev")
+![Lost in Kiev. Picture: Lost in Kiev](https://storage.googleapis.com/cardamonchai-media/2021-11-14/lost-in-kiev-8-400x300-imagine-080808_5e5672_400_300/640.webp "Lost in Kiev. Picture: Lost in Kiev")
 
 **Anne:** What do you think: Should more people listen to post-rock?
 
@@ -98,7 +99,7 @@ But yes in the way that post-rock dive into your soul to make you feel powerful 
 
 **Anne:** When writing new music: What puts you into a state of creativity and productivity?
 
-![Lost in Kiev. Picture: Lost in Kiev](/img/lost-in-kiev-3-400x300.jpeg "Lost in Kiev. Picture: Lost in Kiev")
+![Lost in Kiev. Picture: Lost in Kiev](https://storage.googleapis.com/cardamonchai-media/2021-11-14/lost-in-kiev-3-400x300-imagine-080808_27231e_400_300/640.webp "Lost in Kiev. Picture: Lost in Kiev")
 
 **LIK:** Before the COVID pandemic, we worked a lot together in studio session for one week to play music and doing sound experiences. It was and still is important to us to start a creative process like that. But now we do that by sharing Logic Audio session and sharing a lot. We definitely need a band state of mind to be creative for Lost in Kiev.
 
@@ -120,7 +121,7 @@ But yes in the way that post-rock dive into your soul to make you feel powerful 
 
 **Anne:** The worldwide situation is currently quite tense. Despite the pandemic, many people are joining protests to vent their anger - with good reason! There is violence everywhere and whenever you turn on the TV you will see despots demonstrating their power. If you had the opportunity to tell a certain politician your opinion: Who would it be and what would you tell them?
 
-![Lost in Kiev. Picture: Lost in Kiev](/img/lost-in-kiev-4-400x300.jpeg "Lost in Kiev. Picture: Lost in Kiev")
+![Lost in Kiev. Picture: Lost in Kiev](https://storage.googleapis.com/cardamonchai-media/2021-11-14/lost-in-kiev-4-400x300-imagine-281808_a06a36_400_300/640.webp "Lost in Kiev. Picture: Lost in Kiev")
 
 **LIK:** Even if we avoid political aspects in our music, Persona includes a lot of warnings of the current world and its danger. So we will tell him to be more human and to keep in mind that without respect of humanity everything can collapse faster than they think it will (or never will).
 

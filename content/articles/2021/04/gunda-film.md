@@ -6,10 +6,13 @@ typeName: Filmtipp
 title: '"Gunda" – ein einfühlsamer Tierrechts-Film'
 subTitle: Das Leben der Schweine
 seoTitle: '"Gunda" – ein einfühlsamer Tierrechts-Film – das Leben der Schweine'
-description: '"Gunda" heißt der neue Tierrechts-Film von Victor Kossakovsky. Produzentin ist Anita Rehoff Larsen. Joaquin Phoenix ausführender Produzent.'
-excerpt: '"Gunda" heißt der neue Tierrechts-Film von Victor Kossakovsky. Produziert hat ihn Anita Rehoff Larsen. Schauspieler und Vegan-Aktivist Joaquin Phoenix ist der ausführende Produzent.'
-image: '/img/gunda-4.jpg'
-ogImage: '/img/gunda-fb.png'
+description: '"Gunda" heißt der neue Tierrechts-Film von Victor Kossakovsky.
+  Produzentin ist Anita Rehoff Larsen. Joaquin Phoenix ausführender Produzent.'
+excerpt: '"Gunda" heißt der neue Tierrechts-Film von Victor Kossakovsky.
+  Produziert hat ihn Anita Rehoff Larsen. Schauspieler und Vegan-Aktivist
+  Joaquin Phoenix ist der ausführende Produzent.'
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/gunda-4-imagine-686868_6a6a6a_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/gunda-fb-imagine-383838_5f5f5f_1200_628/640.webp
 labels:
   - Joaquin Phoenix
   - Tierrechtsfilm
@@ -34,7 +37,7 @@ Regisseur Victor Kossakovsky hat mit "Gunda" eine weitere Weltklasse-Dokumentati
 
 ## "Gunda" zeigt wie ähnlich und Tiere sind
 
-![Gunda Movie. Picture © gunda.movie.com](/img/gunda-1.jpg 'Gunda Movie. Picture © gunda.movie.com')
+![Gunda Movie. Picture © gunda.movie.com](https://storage.googleapis.com/cardamonchai-media/2021-11-14/gunda-1-imagine-282828_6c7175_1024_768/640.webp 'Gunda Movie. Picture © gunda.movie.com')
 
 Die Bilder wurden in wirkungsvollem Schwarz-Weiß-Stil festgehalten. Die Tonspur blieb dabei unbearbeitet. Das Ergebnis ist ein nachdenkliches Gesamtwerk über die Lebewesen, die im heutigen Machtgefüge den Menschen untergeben sind.
 
@@ -44,7 +47,7 @@ Hauptdarstellerin ist die Schweinedame Gunda, die einen Wurf Ferkel zur Welt bri
 
 ## Kossakovsky hat auf blutige Bilder verzichtet
 
-![Gunda Movie. Picture © gunda.movie.com](/img/gunda-3.jpg 'Gunda Movie. Picture © gunda.movie.com')
+![Gunda Movie. Picture © gunda.movie.com](https://storage.googleapis.com/cardamonchai-media/2021-11-14/gunda-3-imagine-080808_8f9598_1024_768/640.webp 'Gunda Movie. Picture © gunda.movie.com')
 
 Auf brutale Bilder Victor Kossakovsky im Gegensatz zu anderen Tierrechts-Filmen bewusst verzichtet. Es werden keine Szenen aus der Massentierhaltung oder aus Schlachthören gezeigt. Kossakovsky hat es laut den Kritiker⋆innen dennoch geschafft, seine Aussage klar herauszuarbeiten – ohne dabei für Schuldgefühle oder gar Ekel zu sorgen.
 
@@ -54,7 +57,7 @@ Gegenüber der GQ äußerte sich der Filmemacher so:
 
 ## Fazit: "Gunda" ist eine sehenswerte Tierrechts-Dokumentation
 
-![Gunda Movie. Picture © gunda.movie.com](/img/gunda-2.jpg 'Gunda Movie. Picture © gunda.movie.com')
+![Gunda Movie. Picture © gunda.movie.com](https://storage.googleapis.com/cardamonchai-media/2021-11-14/gunda-2-imagine-181818_606669_1024_768/640.webp 'Gunda Movie. Picture © gunda.movie.com')
 
 Egal, ob Veganer⋆innen oder nicht – "Gunda" sollten wir uns auf alle Fälle anschauen. Wenn ich den Trailer so sehe, bin ich mir sicher: Dieser Film geht ans Herz und wir werden sicher alle eine Menge daraus lernen.
 

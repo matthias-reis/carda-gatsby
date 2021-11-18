@@ -11,11 +11,11 @@ description: Fans von Ambient und Drone sollten sich das neue Album von From
 excerpt: 'Bei From Overseas geben sich die guten Nachrichten die Klinke in die
   Hand. Die gemeinsame LP mit awakened souls ist gerade ein paar Tage alt, da
   kommt schon die nächste großartige  Kooperation aus der Vinylpresse: "Color of
-  Time" ist in Zusammenarbeit mit Tyresta entstanden. Das Album ist am 19.
-  November erschienen.'
-image: /img/color-of-time-2-.jpg
+  Time" ist in Zusammenarbeit mit Tyresta entstanden. Das Album erscheint am 19.
+  November.'
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/color-of-time-2-imagine-283828_483a24_1024_768/640.webp
 copyrigt: Tyresta & From Overseas
-ogImage: /img/color-of-time-fb-1-.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/color-of-time-fb-1-imagine-b8c898_a2ac86_1200_628/640.webp
 labels:
   - Instrumental
   - Experimental
@@ -47,13 +47,22 @@ affiliate: false
 language: de
 languageLink: /2021/11/color-of-time-en/
 ---
+<<<<<<< HEAD
 **Bei From Overseas geben sich die guten Nachrichten die Klinke in die Hand. Die gemeinsame LP mit awakened souls ist gerade ein paar Tage alt, da kommt schon die nächste großartige  Kooperation aus der Vinylpresse: "Color of Time" ist in Zusammenarbeit mit Tyresta entstanden. Das Album ist am 19. November erschienen.**
+=======
+
+**Bei From Overseas geben sich die guten Nachrichten die Klinke in die Hand. Die gemeinsame LP mit awakened souls ist gerade ein paar Tage alt, da kommt schon die nächste großartige  Kooperation aus der Vinylpresse: "Color of Time" ist in Zusammenarbeit mit Tyresta entstanden. Das Album erscheint am 19. November.**
+>>>>>>> feat: parsed all articles
 
 Ich wollte meinen Ohren kaum trauen, als sich Kévin Séry aka From Overseas bei mir meldete und mir erzählte, er hätte schon wieder ein Album fertig, ob ich nicht Lust hätte, es anzuhören. Natürlich hatte ich Lust! Und ich wurde wiedermal nicht enttäuscht.
 
 ## Mellotron und Geigenbogen
 
+<<<<<<< HEAD
 ![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-cover.jpg "Tyresta & From Overseas – \\\\"Color of Time\\\\"")
+=======
+![Tyresta & From Overseas – "Color of Time"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/color-of-time-cover-imagine-283828_4d4430_3000_3000/640.webp "Tyresta & From Overseas – \\\"Color of Time\\\"")
+>>>>>>> feat: parsed all articles
 
 Für Kévin ist "Color of Time" ein weiterer wichtiger Meilenstein. Es handelt sich um ein Long Distance Ambient Drone Projekt, das er gemeinsam mit Nick Turner, auch bekannt unter dem Namen Tyresta, mithilfe von Gitarren (inklusive Geigenbogen), Synthesizern, einem Mellotron und diversen Effekten aufgenommen hat. 
 
@@ -69,7 +78,7 @@ Der Opener "Color of Time" baut eine alles umfassende Spannung auf, welche die b
 
 ## "Color of Time" handelt von den Trümmern der menschlichen Existenz
 
-![Tyresta & From Overseas](/img/color-of-time-5-.jpg "Tyresta & From Overseas")
+![Tyresta & From Overseas](https://storage.googleapis.com/cardamonchai-media/2021-11-14/color-of-time-5-imagine-b8c898_9ba580_1024_768/640.webp "Tyresta & From Overseas")
 
 Eine Lawine löst sich und der nächste Song beginnt: "Avalanche" spannt den Geigenbogen und setzt die Reise durch diese fabelhafte und traurige Geschichte fort, die ganz ohne Worte auskommt.
 

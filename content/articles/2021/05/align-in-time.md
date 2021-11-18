@@ -1,34 +1,34 @@
 ---
-date: 2021-05-10T17:21:42.000+00:00
+date: 2021-05-10T17:21:42.000Z
 labels:
-- " Post-Rock"
-- Interview
-- English & German
-- Bands
-- Align in Time
-- Interviews
-- English & German
+  - " Post-Rock"
+  - Interview
+  - English & German
+  - Bands
+  - Align in Time
+  - Interviews
+  - English & German
 language: de
 slug: align-in-time-interview
 typeName: Interview
 title: Align in Time
 subTitle: '"Meine Musik ist biografisch"'
 seoTitle: Align in Time im Interview – "Meine Musik ist biografisch"
-ogTitle: ''
-description: Align in Time ist ein One-Person Post-Rock Projekt aus Providence, Rhode
-  Island. Ich habe mich mit Gründer John Boles unterhalten.
-excerpt: Align in Time ist ein One-Person Post-Rock Projekt aus Providence, Rhode
-  Island. Gründer ist der Multiinstrumentalist John Boles. Am 7. Mai veröffentlichte
-  einige seiner Songs als Akustikversionen auf der EP "Men Without Chests & I Go Too"
-  neu. Zeit, ihm ein paar Fragen zu stellen.
-image: "/img/2021-05-align-in-time-john-boles.jpeg"
-ogImage: "/img/2021-05-align-in-time-2.jpg"
+ogTitle: ""
+description: Align in Time ist ein One-Person Post-Rock Projekt aus Providence,
+  Rhode Island. Ich habe mich mit Gründer John Boles unterhalten.
+excerpt: Align in Time ist ein One-Person Post-Rock Projekt aus Providence,
+  Rhode Island. Gründer ist der Multiinstrumentalist John Boles. Am 7. Mai
+  veröffentlichte einige seiner Songs als Akustikversionen auf der EP "Men
+  Without Chests & I Go Too" neu. Zeit, ihm ein paar Fragen zu stellen.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-05-align-in-time-john-boles-imagine-282828_4d4643_1440_962/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-05-align-in-time-2-imagine-282828_7a756e_1200_628/640.webp
 focusKeyword: Align in Time
 advertisement: false
 affiliate: false
-languageLink: "/2021/05/align-in-time-interview-en"
-
+languageLink: /2021/05/align-in-time-interview-en
 ---
+
 **Align in Time ist ein One-Person Post-Rock Projekt aus Providence, Rhode Island. Gründer ist der Multiinstrumentalist John Boles. Am 7. Mai veröffentlichte einige seiner Songs als Akustikversionen auf der EP "Men Without Chests & I Go Too" neu. Zeit, ihm ein paar Fragen zu stellen.**
 
 **Anne:** Hi John! Erstmal vielen Dank, dass Du Dich bei mir gemeldet hast und mir Deine Musik vorgestellt hast. Deine letzte Platte "On A Spiral" ist wirklich großartig. Wie geht es Dir zurzeit?
@@ -43,7 +43,7 @@ languageLink: "/2021/05/align-in-time-interview-en"
 
 ## "Ich verliere meinen Optimismus"
 
-**![Align in Time – "Men Without Chests & I Go Too" (Acoustic)](/img/2021-05-align-in-time-1.jpg 'Align in Time – "Men Without Chests & I Go Too" (Acoustic)')John:** Ganz schön viel! Ich habe geheiratet, bin einmal quer durchs Land und wieder zurück gezogen und mein erstes Kind ist zur Welt gekommen. Die Welt befindet sich in einer prekäreren Lage als jemals zuvor und je älter ich werde, desto mehr verliere ich meinen Optimismus, wo uns das noch alles hinführen wird. Auch aus musikalischer Sicht hat sich so viel verändert. Als ich "Me & My Arrow" veröffentlicht habe, steckte das Streaming ja quasi noch in den Kinderschuhen!
+**![Align in Time – "Men Without Chests & I Go Too" (Acoustic)](https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-05-align-in-time-1-imagine-d8d8e8_adb0a6_1080_1080/640.webp 'Align in Time – "Men Without Chests & I Go Too" (Acoustic)')John:** Ganz schön viel! Ich habe geheiratet, bin einmal quer durchs Land und wieder zurück gezogen und mein erstes Kind ist zur Welt gekommen. Die Welt befindet sich in einer prekäreren Lage als jemals zuvor und je älter ich werde, desto mehr verliere ich meinen Optimismus, wo uns das noch alles hinführen wird. Auch aus musikalischer Sicht hat sich so viel verändert. Als ich "Me & My Arrow" veröffentlicht habe, steckte das Streaming ja quasi noch in den Kinderschuhen!
 
 **Anne:** Ist Align in Time ein One-Person-Projekt? Oder arbeitest Du mit anderen Musiker⋆innen zusammen? Gibt es welche, die Du gerne erwähnen würdest?
 

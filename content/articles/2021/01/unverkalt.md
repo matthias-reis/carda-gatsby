@@ -8,9 +8,9 @@ seoTitle: Unverkalt – "Our Album Feels Like A Journey"
 description: Unverkalt developed their style by blending post-metal, alternative
   and experimental aesthetic with a tone of complexity and often confessional
   lyrics. I now had the chance to talk to the greek newcomer band.
-image: /img/2021_01_unverkalt-1__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-01-unverkalt-1-l-imagine-181818_33292e_1440_1080/640.webp
 copyrigt: Unverkalt
-ogImage: /img/2021_01_unverkalt-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-01-unverkalt-fb-png-l-imagine-181818_352b2f_1440_754/640.webp
 labels:
   - Alternative
   - Athens
@@ -26,6 +26,7 @@ affiliate: false
 language: en
 languageLink: /2021/01/unverkalt-interview
 ---
+
 **Unverkalt developed their style by blending post-metal, alternative and experimental aesthetic with a tone of complexity and often confessional lyrics. I now had the chance to talk to the greek newcomer band.**
 
 **Anne:** Hi! Thank you so much for taking the time for this interview! How are things going? Are you staying in Greece at the moment? Where exactly are you located?

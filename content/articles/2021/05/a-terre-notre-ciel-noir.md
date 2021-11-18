@@ -1,5 +1,5 @@
 ---
-date: 2021-05-19T06:00:42+02:00
+date: 2021-05-19T04:00:42.000Z
 labels:
   - À Terre
   - Bands
@@ -14,16 +14,20 @@ typeName: Review
 title: À Terre – "Notre Ciel Noir"
 subTitle: '"Soundtrack einer Katharsis"'
 seoTitle: À Terre "Notre Ciel Noir" – "Soundtrack der Katharsis" – Post-Metal Review
-ogTitle: ''
-description: À Terre haben sich dem Post-Metal und Post-Hardcore verschrieben. Ich habe mir die Debüt- EP "Notre Ciel" genau angehört.
-excerpt: À Terre haben sich dem Post-Metal und Post-Hardcore verschrieben. Die Musiker aus dem französischen Nouvelle-Aquitaine haben mit ihrer selbst veröffentlichten Debüt-EP "Notre Ciel Noir" gleich mal bewiesen, dass sie wissen, wie das Genre funktioniert.
-image: '/img/a-terre.jpg'
-copyright: ''
-ogImage: '/img/a-terre-1.jpg'
+ogTitle: ""
+description: À Terre haben sich dem Post-Metal und Post-Hardcore verschrieben.
+  Ich habe mir die Debüt- EP "Notre Ciel" genau angehört.
+excerpt: À Terre haben sich dem Post-Metal und Post-Hardcore verschrieben. Die
+  Musiker aus dem französischen Nouvelle-Aquitaine haben mit ihrer selbst
+  veröffentlichten Debüt-EP "Notre Ciel Noir" gleich mal bewiesen, dass sie
+  wissen, wie das Genre funktioniert.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/a-terre-imagine-585858_545454_1024_768/640.webp
+copyright: ""
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/a-terre-1-imagine-080808_505050_1200_628/640.webp
 focusKeyword: À Terre
 advertisement: false
 affiliate: false
-languageLink: '/a-terre-notre-ciel-noir-en'
+languageLink: /a-terre-notre-ciel-noir-en
 ---
 
 **À Terre haben sich dem Post-Metal und Post-Hardcore verschrieben. Die Musiker aus dem französischen Nouvelle-Aquitaine haben mit ihrer selbst veröffentlichten Debüt-EP "Notre Ciel Noir" gleich mal bewiesen, dass sie wissen, wie das Genre funktioniert.**
@@ -32,7 +36,7 @@ Erschienen ist "Notre Ciel Noir" (das bedeutet übersetzt übrigens so viel wie 
 
 ## À Terre verbinden Melancholie mit Härte
 
-![À Terre – "Notre Ciel Noire"](/img/a-terre-notre-ciel-noir.jpeg 'À Terre – "Notre Ciel Noire"')À Terre also: "An Land". Ob es dabei um eine Interpretation davon geht, dass die meisten von uns mehr als ein Jahr "an Land", sprich daheim verbracht haben, kann ich nur mutmaßen. Die drei Titel "Bordeaux Traumatisme", "L' Éternel Retour" und "La Réponse" sprechen eine angenehm rohe Sprache und lassen mich endlich mal wieder an etwas anderes denken.
+![À Terre – "Notre Ciel Noire"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/a-terre-notre-ciel-noir-imagine-080808_6c6c6c_700_700/640.webp 'À Terre – "Notre Ciel Noire"')À Terre also: "An Land". Ob es dabei um eine Interpretation davon geht, dass die meisten von uns mehr als ein Jahr "an Land", sprich daheim verbracht haben, kann ich nur mutmaßen. Die drei Titel "Bordeaux Traumatisme", "L' Éternel Retour" und "La Réponse" sprechen eine angenehm rohe Sprache und lassen mich endlich mal wieder an etwas anderes denken.
 
 Die fünf möchten die Welt mit ihrer Musik in Schwarz-Weiß tauchen und das gelingt ihnen sehr gut. Ihre Songs leben von ihrer Melancholie, Schwermut, Introspektion und dem fest in der Post-Music verankerten Wechsel aus Härte und Leichtigkeit.
 

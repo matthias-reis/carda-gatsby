@@ -31,22 +31,23 @@ labels:
   - The Twilight Sad
   - Unwed Sailor
 language: en
-date: 2020-07-10T03:17:00.000+02:00
+date: 2020-07-10T01:17:00.000Z
 slug: of-the-vine-playlist-en
-typeName: ''
+typeName: ""
 title: A Special Playlist By Of the Vine
 subTitle: '"What Made Us"'
 seoTitle: A Special Playlist By Of the Vine – "What Made Us"
-ogTitle: ''
-description: Non-other than Of the Vine guitarist Samuel Laubscher has compiled a playlist for my blog. It is a great honor for me to present it to you today.
-excerpt: ''
-image: '/img/of-the-vine-1-1.jpeg'
-copyright: ''
-ogImage: '/img/of-the-vine-facebook-1.png'
+ogTitle: ""
+description: Non-other than Of the Vine guitarist Samuel Laubscher has compiled
+  a playlist for my blog. It is a great honor for me to present it to you today.
+excerpt: ""
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/of-the-vine-1-1-imagine-282828_2c2f30_1024_768/640.webp
+copyright: ""
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/of-the-vine-facebook-1-imagine-282828_2c2e30_1200_628/640.webp
 focusKeyword: Of the Vine
 advertisement: false
 affiliate: false
-languageLink: '/2020/07/of-the-vine-playlist'
+languageLink: /2020/07/of-the-vine-playlist
 ---
 
 **Non-other than Of the Vine guitarist Samuel Laubscher has compiled a playlist for my blog. It is a great honour for me to present it to you today.**

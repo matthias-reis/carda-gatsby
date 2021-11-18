@@ -1,12 +1,15 @@
 ---
-date: 2020-06-30T07:44:07.000+00:00
+date: 2020-06-30T07:44:07.000Z
 slug: florfliegenkasten
-path: '/2020/06/florfliegenkasten/'
+path: /2020/06/florfliegenkasten/
 title: So funktioniert ein Florfliegenkasten
 seoTitle: So funktioniert ein Florfliegenkasten - ein Zuhause für die Goldaugen
 ogTitle: So funktioniert ein Florfliegenkasten - ein Zuhause für die Goldaugen
-description: Ein Florfliegenkasten auf dem Balkon kann dabei helfen, die filigranen Insekten vor dem Aussterben zu schützen. Er funktioniert ganz einfach.
-excerpt: Ein Florfliegenkasten auf dem Balkon kann dabei helfen, die filigranen Insekten vor dem Aussterben zu schützen. Er funktioniert ganz einfach.
+description: Ein Florfliegenkasten auf dem Balkon kann dabei helfen, die
+  filigranen Insekten vor dem Aussterben zu schützen. Er funktioniert ganz
+  einfach.
+excerpt: Ein Florfliegenkasten auf dem Balkon kann dabei helfen, die filigranen
+  Insekten vor dem Aussterben zu schützen. Er funktioniert ganz einfach.
 fileName: 2020-06---so-funktioniert-ein-florfliegenkasten.md
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_florfliegenkasten-fb.png__l.jpg
 labels:
@@ -26,9 +29,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ein Zuhause für die Goldaugen
-year: '2020'
-month: '06'
-image: '/img/2020-06-29-florfliegenkasten-08.jpg'
+year: "2020"
+month: "06"
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2020-06-29-florfliegenkasten-08-imagine-e86858_8b5f46_1440_1080/640.webp
 ---
 
 **Unsere Insektenhotels kennt Ihr schon. Heute möchte ich Euch unseren Florfliegenkasten vorstellen. Er bietet den grünen elfenartigen Insekten einen Rückzugsort.**

@@ -1,15 +1,19 @@
 ---
 templateKey: article
-date: 2021-04-29T13:19:12+02:00
+date: 2021-04-29T11:19:12.000Z
 slug: crippled-black-phoenix-painful-reminder
 typeName: Review
 title: '"Painful Reminder" von Crippled Black Phoenix'
 subTitle: Erinnerung an SNFU Sänger Mr. Chi Pig
 seoTitle: Crippled Black Phoenix covern "Painful Reminder"
-description: Crippled Black Phoenix haben in Gedenken an Mr. Chi Pig den SNFU Song "Painful Reminder" gecovert und stellen ihren neuen Sänger vor.
-excerpt: Crippled Black Phoenix haben gerade ihre neue Single "Painful Reminder" veröffentlicht. Dabei handelt es sich um eine Cover-Version des SNFU Songs. Für die Umsetzung haben sich CBP Unterstützung vom Sänger und Texter Joel Segerstedt geholt, der nun festes Mitglied der Band ist.
-image: '/img/painful-reminder-cbp.jpg'
-ogImage: '/img/painful-reminder-cbp-fb.jpg'
+description: Crippled Black Phoenix haben in Gedenken an Mr. Chi Pig den SNFU
+  Song "Painful Reminder" gecovert und stellen ihren neuen Sänger vor.
+excerpt: Crippled Black Phoenix haben gerade ihre neue Single "Painful Reminder"
+  veröffentlicht. Dabei handelt es sich um eine Cover-Version des SNFU Songs.
+  Für die Umsetzung haben sich CBP Unterstützung vom Sänger und Texter Joel
+  Segerstedt geholt, der nun festes Mitglied der Band ist.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/painful-reminder-cbp-imagine-080808_130e12_700_700/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/painful-reminder-cbp-fb-imagine-080808_0b080a_1200_628/640.webp
 labels:
   - Review
   - Bands
@@ -27,7 +31,7 @@ focusKeyword: Painful Reminder
 advertisement: false
 affiliate: false
 language: de
-languageLink: '/2021/04/crippled-black-phoenix-painful-reminder-en'
+languageLink: /2021/04/crippled-black-phoenix-painful-reminder-en
 copyright: Crippled Black Phoenix
 ---
 
@@ -37,7 +41,7 @@ Der Song ist Teil der 2-Song-EP "Painful Reminder/Dead Is Dead", die am 16. Juli
 
 ## Crippled Black Phoenix stellen neuen Sänger vor
 
-![Crippled Black Phoenix – "Painful Reminder"](/img/painful-reminder-cbp.jpeg "Crippled Black Phoenix – \\"Painful Reminder\\"")
+![Crippled Black Phoenix – "Painful Reminder"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/painful-reminder-cbp-imagine-080808_130e12_700_700/640.webp "Crippled Black Phoenix – \\"Painful Reminder\\"")
 
 Joels Stimme steht im Kontrast zu Belindas Gesang. Daraus ergibt sich eine angenehme Dynamik. Crippled Black Phoenix kommentieren das so:
 

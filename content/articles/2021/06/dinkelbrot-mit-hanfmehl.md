@@ -1,5 +1,5 @@
 ---
-date: 2021-06-01T13:45:42.000+02:00
+date: 2021-06-01T11:45:42.000Z
 labels:
   - Dinkelbrot
   - Hanfmehl
@@ -17,16 +17,20 @@ typeName: Rezept
 title: Dinkelbrot mit Hanfmehl
 subTitle: Veganes Protein-Brot
 seoTitle: Dinkelbrot mit Hanfmehl – veganes Protein-Brot selber backen
-ogTitle: ''
-description: Dinkelbrot könnt Ihr in den verschiedensten Varianten zubereiten. Ich teile heute mein Rezept mit Protein-reichem Hanfmehl mit Euch.
-excerpt: Dinkelbrot könnt Ihr in den verschiedensten Varianten zubereiten. Ich teile heute mein Rezept mit Hanfmehl mit Euch. Die Zubereitung gelingt ganz einfach. Am besten nehmt Ihr Euch einen Nachmittag am Wochenende Zeit dafür. Mein Rezept funktioniert mit selbst gemachtem oder fertigem Sauerteig.
-image: '/img/2021-04-11-hanfbrot-4.jpg'
-copyright: ''
-ogImage: '/img/dinkelbrot-hanfmehl.jpg'
+ogTitle: ""
+description: Dinkelbrot könnt Ihr in den verschiedensten Varianten zubereiten.
+  Ich teile heute mein Rezept mit Protein-reichem Hanfmehl mit Euch.
+excerpt: Dinkelbrot könnt Ihr in den verschiedensten Varianten zubereiten. Ich
+  teile heute mein Rezept mit Hanfmehl mit Euch. Die Zubereitung gelingt ganz
+  einfach. Am besten nehmt Ihr Euch einen Nachmittag am Wochenende Zeit dafür.
+  Mein Rezept funktioniert mit selbst gemachtem oder fertigem Sauerteig.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-04-11-hanfbrot-4-imagine-986818_9c7a37_1024_768/640.webp
+copyright: ""
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/dinkelbrot-hanfmehl-imagine-784808_a27a2e_1200_628/640.webp
 focusKeyword: Hanfmehl
 advertisement: false
 affiliate: false
-languageLink: ''
+languageLink: ""
 ---
 
 **Dinkelbrot könnt Ihr in den verschiedensten Varianten zubereiten. Ich teile heute mein Rezept mit Hanfmehl mit Euch. Die Zubereitung gelingt ganz einfach. Am besten nehmt Ihr Euch einen Nachmittag am Wochenende Zeit dafür.**

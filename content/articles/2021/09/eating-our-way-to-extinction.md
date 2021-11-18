@@ -13,9 +13,9 @@ excerpt: Kate Winslet hat jetzt der neuen Umwelt-Dokumentation "Eating Our Way
   damit zum Ausdruck, wie wichtig ihr der Kampf gegen den Klimawandel ist. Der
   Film bietet nicht nur einen finsteren Blick in die Zukunft, sondern auch
   Anregungen, wie wir es besser machen können.
-image: /img/eating-our-way-to-extinction.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/eating-our-way-to-extinction-imagine-080808_121414_1024_768/640.webp
 copyrigt: Eating Our Way To Extinction
-ogImage: /img/eating-our-way-to-extinction-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/eating-our-way-to-extinction-fb-imagine-080808_0c0e0e_1200_628/640.webp
 labels:
   - Filmtipp
   - Vegan Celebrities
@@ -30,6 +30,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Kate Winslet hat jetzt der neuen Umwelt-Dokumentation "Eating Our Way To Extinction"  ihre Stimme verliehen. Die Academy Award Gewinnerin bringt damit zum Ausdruck, wie wichtig ihr der Kampf gegen den Klimawandel ist.**
 
 "Eating Our Way To Extinction" handelt davon, wie wir die natürlichen Ökosysteme unseres Planeten zerstören und was wir tun müssen, um den destruktiven Prozess zu stoppen. Überall auf der Erde brennen die Wälder, es kommt zu [Flutkatastrophen](/2021/07/tiere-als-hochwasser-opfer/) und in ihrer Folge zu Erdrutschen. Die Pole tauen ab. Das alles ist menschengemacht und nur wir haben es in der Hand, die Katastrophe aufzuhalten.

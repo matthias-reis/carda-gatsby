@@ -9,9 +9,9 @@ seoTitle: '"Trancevoicer" By Egor Lappo – Progressive Metal From St. Petersbur
 description: On March, 19 Egor Lappo is going to release his third album
   "Trancevoicer". I already had the chance to listen to it. Here is what can
   expect
-image: /img/2021_02_egor-lappo__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-02-egor-lappo-l-imagine-080828_332133_1440_1080/640.webp
 copyrigt: Egor Lappo
-ogImage: /img/2021_02_egor-lappo-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-02-egor-lappo-fb-png-l-imagine-080828_453a43_1440_756/640.webp
 labels:
   - Alternative Rock
   - Alternative-Metal
@@ -33,6 +33,7 @@ affiliate: false
 language: en
 languageLink: /2021/02/egor-lappo-trancevoicer
 ---
+
 **On March, 19 Egor Lappo is going to release his third album "Trancevoicer". I already had the chance to listen to it. Here is what can expect** .
 
 Egor Lappo's music reminds me of Porcupine Tree. But the musician from St. Petersburg is also influenced by Lonely Robot, Ghost and Devin Townsend.

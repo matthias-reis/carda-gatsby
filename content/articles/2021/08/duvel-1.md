@@ -9,9 +9,9 @@ description: Do you like good post-punk and the style of bands like Siouxsie and
   the Banshees or Savages? If yes, you should definitely give Duvel's new record
   a chance. The crew from Oslo released it on July 2nd. The self-titled album
   consists of nine very multifaceted songs.
-image: /img/duvel.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/duvel-imagine-180808_46392e_800_553/640.webp
 copyrigt: Duvel
-ogImage: /img/duvel-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/duvel-fb-imagine-180808_413328_1200_628/640.webp
 labels:
   - Shoegaze
   - Post-Punk
@@ -26,13 +26,14 @@ affiliate: false
 language: en
 languageLink: /2021/08/duvel-duvel/
 ---
+
 **Do you like good post-punk and the style of bands like Siouxsie and the Banshees or Savages? If yes, you should definitely give Duvel's new record a chance. The crew from Oslo released it on July 2nd.**
 
 The self-titled album consists of nine very multifaceted songs. Three years after their promising debut "Attempts At Speech", it comes as a special surprise.
 
 ## Duvel's Music comes with keyboards now
 
-![Duvel – "Duvel"](/img/duvel-cover.jpeg "Duvel – \"Duvel\"")
+![Duvel – "Duvel"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/duvel-cover-imagine-281818_983f11_425_425/640.webp "Duvel – \"Duvel\"")
 
 Just like Kollapse's "[Sult](/2021/06/kollapse-sult-en/)", the long-player was released on Fysisk Format. Zacharias Flaathe (bass), Brage Lindebrekke (drums) and Jack Holldorff (guitar and vocals) founded the project in 2017. When Kaspar Nikolaisen Hegre (keyboards) completed the band after the first album, they refined their sound. His keyboards provide exciting MGMT moments here and there, and I think I can also sense some My Bloody Valentine influences. So there is also something for the shoegaze/indietronica lovers among you.
 

@@ -1,5 +1,5 @@
 ---
-date: 2021-06-10T15:56:42.000+02:00
+date: 2021-06-10T13:56:42.000Z
 labels:
   - vegane Muffins
   - vegan backen
@@ -13,16 +13,20 @@ typeName: Rezept
 title: Vegane Rhabarber-Muffins
 subTitle: Schnelles Rezept ohne Schnickschnack
 seoTitle: Vegane Rhabarber-Muffins – einfaches Rezept ohne unnötige Zutaten
-ogTitle: ''
-description: Vegane Rhabarber-Muffins ohne Schnickschnack muss man im Netz schon ziemlich lange suchen. Hier kommt mein Rezept ohne unnötige Zutaten.
-excerpt: Vegane Rhabarber-Muffins ohne Schnickschnack muss man im Netz schon ziemlich lange suchen. Weil ich selbst kein Rezept gefunden habe, dass außer Rhabarber nur vollwertige Zutaten enthält, habe ich mir jetzt kurzerhand selbst eins ausgedacht.
-image: '/img/2021-06-09-rhabarber-muffins-nach-dem-backen-17final-1.jpg'
-copyright: ''
-ogImage: '/img/vegane-rhabarber-muffins-fb.jpg'
-focusKeyword: ''
+ogTitle: ""
+description: Vegane Rhabarber-Muffins ohne Schnickschnack muss man im Netz schon
+  ziemlich lange suchen. Hier kommt mein Rezept ohne unnötige Zutaten.
+excerpt: Vegane Rhabarber-Muffins ohne Schnickschnack muss man im Netz schon
+  ziemlich lange suchen. Weil ich selbst kein Rezept gefunden habe, dass außer
+  Rhabarber nur vollwertige Zutaten enthält, habe ich mir jetzt kurzerhand
+  selbst eins ausgedacht.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-06-09-rhabarber-muffins-nach-dem-backen-17final-1-imagine-787848_977935_1024_768/640.webp
+copyright: ""
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/vegane-rhabarber-muffins-fb-imagine-787848_977936_1200_628/640.webp
+focusKeyword: ""
 advertisement: false
 affiliate: false
-languageLink: ''
+languageLink: ""
 ---
 
 **Vegane Rhabarber-Muffins ohne Schnickschnack muss man im Netz schon ziemlich lange suchen. Weil ich selbst kein Rezept gefunden habe, das außer Rhabarber nur Basis-Zutaten enthält, habe ich mir jetzt kurzerhand selbst eins ausgedacht.**
@@ -46,10 +50,10 @@ Bei einem kleinen Foodsharing-Tauschhandel habe ich vor ein paar Tagen wunderbar
 
 Wascht den Rhabarber, entfernt die Blätter und lasst ihn ansonsten komplett natürlich. Nicht schälen! Schneidet ihn zuerst in sehr schmale Streifen und würfelt ihn dann. Stellt die Förmchen für Eure Muffins auf ein Backblech und heizt den Ofen auf 180 Grad vor.
 
-![Die veganen Rhabarber-Muffins vor dem Backen | large](/img/2021-06-09-rhabarber-muffins-vor-dem-backenfinal.jpg 'Die veganen Rhabarber-Muffins vor dem Backen')
+![Die veganen Rhabarber-Muffins vor dem Backen | large](https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-06-09-rhabarber-muffins-vor-dem-backenfinal-imagine-686838_8e7d34_1024_768/640.webp 'Die veganen Rhabarber-Muffins vor dem Backen')
 
 Schmelzt die Pflanzenbutter auf kleiner Stufe in einem Topf. Gebt nebenbei alle restlichen Zutaten zusammen mit dem Rhabarber in eine Rührschüssel. Wenn die Butter geschmolzen ist, hebt Ihr sie unter und knetet den Teig anschließend ordentlich mit den Fingern durch.
 
 Drückt den Teig mit den Händen schön kompakt in die Muffin-Förmchen und stellt das Blech in den vorgeheizten Backofen. Dort backt Ihr Eure veganen Rhabarber-Muffins für 22 Minuten. Anschließend lasst Ihr sie auf einem Rost auskühlen.
 
-![Die veganen Rhabarber-Muffins nach dem Backen | large](/img/2021-06-09-rhabarber-muffins-21final.jpg 'Die veganen Rhabarber-Muffins nach dem Backen')
+![Die veganen Rhabarber-Muffins nach dem Backen | large](https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-06-09-rhabarber-muffins-21final-imagine-686848_806c36_1024_768/640.webp 'Die veganen Rhabarber-Muffins nach dem Backen')

@@ -5,10 +5,14 @@ typeName: Review
 title: '"Live at daFestival"'
 subTitle: Grégoire (Thot) releases solo EP
 seoTitle: '"Live at daFestival" – Grégoire (Thot) releases solo EP'
-description: Thot founder Grégoire Fray has recorded a solo live EP. Today is release day. I had the honour to listen to "Live at daFestival" in advance, and I think it's incredible. The recording for "Live at daFestival 2020" took place during the first lockdown for a Youtube event of the Belgian zine daMusic.
-image: /img/gregoire-fray.jpg
+description: Thot founder Grégoire Fray has recorded a solo live EP. Today is
+  release day. I had the honour to listen to "Live at daFestival" in advance,
+  and I think it's incredible. The recording for "Live at daFestival 2020" took
+  place during the first lockdown for a Youtube event of the Belgian zine
+  daMusic.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/gregoire-fray-imagine-080808_6f6e6f_1024_768/640.webp
 copyrigt: Grégoire Fray
-ogImage: /img/gregoire-fray-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/gregoire-fray-fb-imagine-080808_7a797b_1200_628/640.webp
 labels:
   - Vegetal Noise
   - Post-Rock
@@ -35,7 +39,7 @@ The recording for "Live at daFestival 2020" took place during the first lockdown
 
 Grégoire's voice sounds emotional, moving and hurtful. The three pieces are a bit different from the music he makes with Thot. The style reminds me of the great singer-songwriters of the 1980s.
 
-![Grégoire Fray – "Live at daFestival" | large](/img/thot_dafestival3.png 'Grégoire Fray – "Live at daFestival"')
+![Grégoire Fray – "Live at daFestival" | large](https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-dafestival3-imagine-181818_3a393b_1855_951/640.webp 'Grégoire Fray – "Live at daFestival"')
 
 ## A completely new song
 
@@ -55,7 +59,7 @@ The new song is the third and last one on the record. With its 6:40, it is the m
 
 Grégoire has perfectly set last year's overall mood and the uncertainty that prevailed, especially during the first lockdown to music with his three solo pieces. He has also managed to sum up everything I love and appreciate so much about music.
 
-![Grégoire Fray – "Live at daFestival" | large](/img/thot_dafestival2.png 'Grégoire Fray – "Live at daFestival"')
+![Grégoire Fray – "Live at daFestival" | large](https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-dafestival2-imagine-080808_515051_2008_1072/640.webp 'Grégoire Fray – "Live at daFestival"')
 
 I asked Grégoire for a personal statement about his solo EP:
 

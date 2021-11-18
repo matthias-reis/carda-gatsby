@@ -1,5 +1,5 @@
 ---
-date: 2021-05-19T08:00:42+02:00
+date: 2021-05-19T06:00:42.000Z
 labels:
   - Bands
   - Review
@@ -13,16 +13,19 @@ typeName: Review
 title: '"Notre Ciel Noir" by À Terre'
 subTitle: '"The soundtrack of a catharsis screamed in French"'
 seoTitle: '"Notre Ciel Noir" by À Terre – "The soundtrack of a catharsis"'
-ogTitle: ''
-description: À Terre have dedicated themselves to post-metal. With their self-released debut EP "Notre Ciel Noir", the musicians from Nouvelle-Aquitaine, France, have proven their knowledge about how the genre works. This is my review.
-excerpt: ''
-image: '/img/a-terre.jpg'
-copyright: ''
-ogImage: '/img/a-terre-1.jpg'
-focusKeyword: ''
+ogTitle: ""
+description: À Terre have dedicated themselves to post-metal. With their
+  self-released debut EP "Notre Ciel Noir", the musicians from
+  Nouvelle-Aquitaine, France, have proven their knowledge about how the genre
+  works. This is my review.
+excerpt: ""
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/a-terre-imagine-585858_545454_1024_768/640.webp
+copyright: ""
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/a-terre-1-imagine-080808_505050_1200_628/640.webp
+focusKeyword: ""
 advertisement: false
 affiliate: false
-languageLink: '/a-terre-notre-ciel-noir'
+languageLink: /a-terre-notre-ciel-noir
 ---
 
 **À Terre have dedicated themselves to post-metal. With their self-released debut EP "Notre Ciel Noir", the musicians from Nouvelle-Aquitaine, France, have proven their knowledge about how the genre works.**
@@ -31,7 +34,7 @@ languageLink: '/a-terre-notre-ciel-noir'
 
 ## À Terre combine melancholy with heaviness
 
-![À Terrre – "Notre Ciel Noir"](/img/a-terre-notre-ciel-noir.jpeg 'À Terrre – "Notre Ciel Noir"')À Terre – "On land". I can only speculate if this is an interpretation of the fact that most of us have spent more than a year "on land,", i.e. at home. The three pieces "Bordeaux Traumatisme", "L' Éternel Retour", and "La Réponse" speak a pleasantly plain language and finally let me think about something else again.
+![À Terrre – "Notre Ciel Noir"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/a-terre-notre-ciel-noir-imagine-080808_6c6c6c_700_700/640.webp 'À Terrre – "Notre Ciel Noir"')À Terre – "On land". I can only speculate if this is an interpretation of the fact that most of us have spent more than a year "on land,", i.e. at home. The three pieces "Bordeaux Traumatisme", "L' Éternel Retour", and "La Réponse" speak a pleasantly plain language and finally let me think about something else again.
 
 The guys told me they want to immerse the world in black and white with their music, and they are doing it very well. Their songs live from their melancholy, introspection, and the alternation of hardness and lightness. The French vocals are powerful, complex, thoughtful and desperate at the same time. It's just what I want to hear when I feel like listening to post-metal.
 

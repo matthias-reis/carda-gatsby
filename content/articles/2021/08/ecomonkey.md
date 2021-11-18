@@ -9,8 +9,8 @@ description: Ecomonkey ist ein Online-Shop für nachhaltige und vegane Produkte.
   Weil ich dort bisher nur gute Erfahrungen gemacht habe, möchte ich Euch heute
   gerne den Gründer vorstellen und Euch ein paar Stücke aus seiner veganen
   Internet-Boutique zeigen.
-image: /img/2021-08-03-ecomonkey-34.jpg
-ogImage: /img/ecomonkey-fb.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-08-03-ecomonkey-34-imagine-e8c808_a48141_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/ecomonkey-fb-imagine-f8f8f8_bba26d_1200_628/640.webp
 labels:
   - Ecomonkey
   - vegan
@@ -30,6 +30,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
+
 **Ecomonkey ist ein Online-Shop für nachhaltige und vegane Produkte. Weil ich dort bisher nur gute Erfahrungen gemacht habe, möchte ich Euch heute gerne den Gründer vorstellen und Euch ein paar Stücke aus seiner veganen Internet-Boutique zeigen.**
 
 Wenn Ihr zum ersten Mal bei Ecomonkey bestellt, werdet Ihr Euch vielleicht wundern: Unnötige Verpackung gibt es nicht. Alles kommt in einen Karton und gut ist. Kosmetikprodukte werden in Papier gewickelt und Plastik kann man lange suchen.

@@ -18,22 +18,25 @@ labels:
   - Soundscape
   - Soundtrack
 language: en
-date: 2020-08-06T23:16:00+02:00
+date: 2020-08-06T21:16:00.000Z
 slug: chris-hunt-torrent-merigold-independent-en
 typeName: Review
 title: Chris Hunt On Merigold Independent
 subTitle: Samuel Laubscher Starts New Record Label
 seoTitle: Chris Hunt On Merigold Independent – Samuel Laubscher's New Label
-ogTitle: ''
-description: At the moment one musical sensation is following after the next. Yesterday Sam from Of The Vine contacted me. "I've just launched my record label Merigold Independent. Would you like to introduce the new Chris Hunt album? It will be released tomorrow!"
-excerpt: ''
-image: '/img/chris-hunt-2.jpeg'
+ogTitle: ""
+description: At the moment one musical sensation is following after the next.
+  Yesterday Sam from Of The Vine contacted me. "I've just launched my record
+  label Merigold Independent. Would you like to introduce the new Chris Hunt
+  album? It will be released tomorrow!"
+excerpt: ""
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/chris-hunt-2-imagine-181818_331f17_1024_768/640.webp
 copyright: Chris Hunt
-ogImage: '/img/chris-hunt-fb.png'
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/chris-hunt-fb-imagine-181818_362117_1200_628/640.webp
 focusKeyword: Chris Hunt
 advertisement: false
 affiliate: false
-languageLink: '/2020/08/chris-hunt-torrent-merigold-independent'
+languageLink: /2020/08/chris-hunt-torrent-merigold-independent
 ---
 
 **At the moment one musical sensation is following after the next. Yesterday Sam from** [**Of The Vine**](/2020/05/of-the-vine-interview-en/) **contacted me. "I've just launched my record label Merigold Independent. Would you like to introduce the new Chris Hunt album? It will be released tomorrow!"**

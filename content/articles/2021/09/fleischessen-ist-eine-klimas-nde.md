@@ -12,9 +12,9 @@ excerpt: Eine neue Studie zeigt, dass die weltweite Fleisch-Produktion für 28
   Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher
   Nahrungsmittel. Sie zeigt den dringenden Handlungsbedarf und wird Forschenden
   zukünftig als wichtige Referenz dienen.
-image: /img/2021-08-daenemark-265.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-08-daenemark-265-imagine-180818_998f61_3931_2948/640.webp
 copyrigt: ""
-ogImage: /img/fleisch-treibhausgase-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/fleisch-treibhausgase-fb-imagine-d8c878_93866d_1200_628/640.webp
 labels:
   - Treibhausgas
   - Studie
@@ -32,6 +32,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Eine neue Studie brachte jetzt ans Tageslicht, dass die weltweite Fleisch-Produktion für 28 Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher Nahrungsmittel. Die Zahlen wurden unter anderem in der aktuellen The Guardian Ausgabe veröffentlicht. Die Ergebnisse der Forschungen decken sich mit denen ähnlicher Studien und zeigen ein weiteres Mal den Handlungsbedarf im Hinblick auf die Änderung unserer Ernährungsgewohnheiten.**
 
 Dass es nicht besonders umweltfreundlich ist, Tiere für den Verzehr zu züchten, ist inzwischen den meisten Menschen klar. Die Autor⋆innen der Studie bringen jetzt weitere schockierende Details ans Tageslicht.
@@ -46,7 +47,7 @@ Das Besondere an der neuen Lebensmittel-Klimastudie ist, dass sie tief in die ve
 
 Die Wissenschaftler⋆innen fanden unter anderem heraus, dass die Lebensmittelherstellung für mehr als 35 Prozent aller Emissionen verantwortlich ist. Insgesamt sind das pro Jahr 17,3 Milliarden Tonnen Treibhausgas. Zum Vergleich: Die Emissionen der gesamten USA sind nicht mal halb so hoch.
 
-![](/img/2021-08-daenemark-243.jpg)
+![](https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-08-daenemark-243-imagine-080808_73685d_4267_3200/640.webp)
 
 Fleisch identifizierten die Forschenden als besonders starken Treiber. Es gibt ihnen zu denken, dass allein durch die Aufzucht der Tiere mehr als 57 Prozent aller mit der Lebensmittelproduktion in Verbindung stehenden Treibhausgase, wie CO<sub>2</sub> und Methan, emittiert werden.
 

@@ -8,9 +8,9 @@ seoTitle: Zement - "Rohstoff" – A Statement To The Music World
 description: With their third LP, Zement deliver neo-krautrock/psychedelic at
   its best – perfectly composed with beautiful techno borrowings. "Rohstoff" is
   a thoroughly danceable record that fits well into our times
-image: /img/zement-rohstoff.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/zement-rohstoff-imagine-181818_5c4a4c_1024_768/640.webp
 copyrigt: Zement
-ogImage: /img/zement-rohstoff-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/zement-rohstoff-fb-imagine-f8f8f8_a67460_1200_628/640.webp
 labels:
   - Experimental
   - Electronic
@@ -31,13 +31,14 @@ affiliate: false
 language: en
 languageLink: /2021/07/zement-rohstoff/
 ---
+
 **With their third LP, Zement deliver neo-krautrock/psychedelic at its best – perfectly composed with beautiful techno borrowings. "Rohstoff" is a thoroughly danceable record that fits well into our times**.
 
 The new album is anything but overproduced. I would even say it's quite the opposite: You can find lots of spontaneous moments on "Rohstoff" (Engl.: "raw material"). Moreover, you can see possible influences not only in the DIY punk genre, from which the Würzburg based duo originates, but also in industrial, electro-pop and even warehouse techno. These mutual worlds have certainly not passed them without a trace.
 
 ## Zement get you off the couch
 
-![Zement – "Rohstoff"](/img/zement-rohstoff-3.jpeg "Zement – \\"Rohstoff\\"")
+![Zement – "Rohstoff"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/zement-rohstoff-3-imagine-080808_552610_800_800/640.webp "Zement – \\"Rohstoff\\"")
 
 Nevertheless, Christian Büdel (drums, percussion) and Philipp Hager (guitar, synths, drum machines, effects, flutes) do not limit their music to reminiscing. Instead, they have found their entirely own style, and it's pretty cool, though. 
 

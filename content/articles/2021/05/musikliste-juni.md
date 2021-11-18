@@ -1,5 +1,5 @@
 ---
-date: 2021-05-25T17:43:42+02:00
+date: 2021-05-25T15:43:42.000Z
 slug: musikliste-juni-2021
 typeName: ""
 title: Musikliste Juni
@@ -12,8 +12,8 @@ excerpt: Die Musikliste, die wir diesen Monat für Euch vorbereitet haben, hat e
   in sich. von Post-Rock bis Prog wird es dieses Mal eisig bis dornig. Natürlich
   gibt es auch wieder Videos und Playlists für Spotify und iTunes für Euch. Viel
   Spaß mit der Musik!
-image: /img/12-songs-juni-blog.jpg
-ogImage: /img/12-songs-juni-fb.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/12-songs-juni-blog-imagine-080808_62605e_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/12-songs-juni-fb-imagine-080808_5e5d5b_1200_628/640.webp
 labels:
   - serie:Playlists
   - Bands

@@ -1,15 +1,19 @@
 ---
 templateKey: article
-date: 2021-04-28T16:30:37.639+00:00
+date: 2021-04-28T16:30:37.639Z
 slug: artlistic
 typeName: Beitrag
 title: ARTlistic
 subTitle: Ein neues Kunstportal sorgt für Furore
 seoTitle: ARTlistic – ein brandneues Kunstportal sorgt für Furore
-description: 'ARTlistic kommt mit einem durchdachten Konzept daher: Künstler⋆innen können ihre Bilder ohne Umwege im Netz verkaufen.'
-excerpt: 'ARTlistic ist neu auf dem Kunstmarkt. Die Plattform kommt mit einem durchdachten Konzept daher: Künstler⋆innen können ihre Kunstwerke ohne Zwischenhandel direkt über das Netz verkaufen. Die Idee dafür hatte Gründer Sören Tänzer während des ersten COVID-Lockdowns 2020.'
-image: '/img/artlistic.jpg'
-ogImage: '/img/artlistic-fb.jpg'
+description: "ARTlistic kommt mit einem durchdachten Konzept daher:
+  Künstler⋆innen können ihre Bilder ohne Umwege im Netz verkaufen."
+excerpt: "ARTlistic ist neu auf dem Kunstmarkt. Die Plattform kommt mit einem
+  durchdachten Konzept daher: Künstler⋆innen können ihre Kunstwerke ohne
+  Zwischenhandel direkt über das Netz verkaufen. Die Idee dafür hatte Gründer
+  Sören Tänzer während des ersten COVID-Lockdowns 2020."
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/artlistic-imagine-181818_746a69_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/artlistic-fb-imagine-f8f8f8_868282_1200_628/640.webp
 labels:
   - Kunst
   - ARTlistic
@@ -30,7 +34,7 @@ ARTlistic sorgt für Furore, ohne dabei ein großes Tamtam zu machen. Weil die N
 
 ## Kunst ohne Kommission
 
-![ARTlistic Gründer Sören Tänzer](/img/soeren-taenzer-artlistic.jpg 'ARTlistic Gründer Sören Tänzer')
+![ARTlistic Gründer Sören Tänzer](https://storage.googleapis.com/cardamonchai-media/2021-11-14/soeren-taenzer-artlistic-imagine-985858_948292_768_1024/640.webp 'ARTlistic Gründer Sören Tänzer')
 
 Sören möchte den Kunsthandel revolutionieren. Auch er ist von Kurzarbeit und Homeschooling betroffen. Die Zeit des Lockdown nutzt er dazu, sich intensive mit seiner kleinen aber feinen Kunstsammlung zu beschäftigen. Als großer Fan moderner Kunst und Besitzer einiger Werke junger Maler⋆innen kommt ihm dabei die Idee, etwas für die Kreativen zu tun. Mithilfe seiner Ersparnisse kauft er einige Kunstwerke, die ihm gefallen und veröffentlicht seine Sammlung online. Einen Teil davon stellt er außerdem in einem Fenster seines Wohnhauses aus.
 
@@ -44,7 +48,7 @@ Sören möchte damit regionales Kulturgut unterstützen. Außerdem lautet seine 
 
 > "Wir haben das Ziel, jedem, der sein Kunstwerk verkaufen möchte, innerhalb von 24 Stunden ein verbindliches Angebot zu unterbreiten."
 
-![Kunst von ARTlistic.](/img/artlistic-1-.jpg 'Kunst von ARTlistic.')
+![Kunst von ARTlistic.](https://storage.googleapis.com/cardamonchai-media/2021-11-14/artlistic-1-imagine-b8b8b8_a18f8e_1024_768/640.webp 'Kunst von ARTlistic.')
 
 Derzeit ist ARtlistic noch ein kleines Start-up und daher natürlicherweise in seinen finanziellen Mitteln begrenzt. Sörens langfristiges Ziel ist, es, irgendwann jedem⋆r Künstler⋆in ein Angebot machen zu können.
 

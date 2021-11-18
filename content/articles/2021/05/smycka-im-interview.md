@@ -1,5 +1,5 @@
 ---
-date: 2021-05-02T17:21:42.000+00:00
+date: 2021-05-02T17:21:42.000Z
 labels:
   - Interview
   - Bands
@@ -16,15 +16,19 @@ typeName: Interview
 title: Smyčka im Interview
 subTitle: '"Vieles im Leben ist von Natur aus kafkaesk"'
 seoTitle: Smŷcka im Interview – "Vieles auf der Welt ist von Natur aus kafkaesk"
-ogTitle: ''
-description: Ich habe mit Smyčka über das Debüt-Album "Fated", die Post-Music Szene in Russland und die Verbindung der Band zu Franz Kafkas gesprochen.
-excerpt: Ich habe mit Smyčka über das Debüt-Album "Fated", die Post-Music Szene in Russland und die Verbindung der Band zu Franz Kafka gesprochen. Das Interview ist sehr persönlich geworden. Ich freue mich, es heute mit Euch zu teilen.
-image: '/img/smycka.jpg'
-ogImage: '/img/smycka-fb.jpg'
+ogTitle: ""
+description: Ich habe mit Smyčka über das Debüt-Album "Fated", die Post-Music
+  Szene in Russland und die Verbindung der Band zu Franz Kafkas gesprochen.
+excerpt: Ich habe mit Smyčka über das Debüt-Album "Fated", die Post-Music Szene
+  in Russland und die Verbindung der Band zu Franz Kafka gesprochen. Das
+  Interview ist sehr persönlich geworden. Ich freue mich, es heute mit Euch zu
+  teilen.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/smycka-imagine-080808_1e1e1e_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/smycka-fb-imagine-181818_252525_1200_628/640.webp
 focusKeyword: Smyčka
 advertisement: false
 affiliate: false
-languageLink: '/2021/05/smycka-interview-en'
+languageLink: /2021/05/smycka-interview-en
 ---
 
 **Smyčka hatten Lust auf ein Interview. Weil mich die Geschichte der Band ziemlich fasziniert und ich das Debüt-Album "Fated" ziemlich klasse finde, habe ich mich sehr darüber gefreut.**

@@ -9,9 +9,9 @@ description: 'The Ocean are planning to play their sensational album
   "Phanerozoic I" live in its entirety. The concert will take place in Bremen.
   The highlight: We can all meet them there! To finally enjoy live music again,
   you can register now for the online event.'
-image: /img/2021_03_the-ocean-1__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-03-the-ocean-1-l-imagine-080808_181818_1440_1080/640.webp
 copyrigt: The Ocean
-ogImage: /img/2021_03_the-ocean-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-03-the-ocean-fb-png-l-imagine-080808_111111_1440_754/640.webp
 labels:
   - Bands
   - English & German
@@ -28,6 +28,7 @@ affiliate: false
 language: en
 languageLink: /2021/03/the-ocean-phanerozoic-bremen-live
 ---
+
 **The Ocean are planning to play their sensational album "Phanerozoic I" live in its entirety. The concert will take place in Bremen. The highlight: We can all meet them there! To finally enjoy live music again, you can register now for the online event.**
 
 On Thursday, 25 March at 8 pm CET, The Ocean will be streaming live from Pier2 in Bremen. The concert will also be available on-demand for 48 hours. After that, it's over, and there are no plans for further events of this kind at the moment. So it's totally worth signing up!

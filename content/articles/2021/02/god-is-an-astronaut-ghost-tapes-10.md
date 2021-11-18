@@ -9,9 +9,9 @@ description: 'Today is a good day: God Is An Astronaut released their tenth
   album "Ghost Tapes #10". How have we been longing for this moment? Today it is
   finally here and the new GIAA record is in the record shops and on the
   streaming platforms.'
-image: /img/2021_01_god-is-an-astronaut-ghost-tapes-10__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-01-god-is-an-astronaut-ghost-tapes-10-l-imagine-f8f8f8_bbb9b6_1440_1080/640.webp
 copyrigt: God Is An Astronaut
-ogImage: /img/god-is-an-astronaut-ghost-tapes-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/god-is-an-astronaut-ghost-tapes-fb-imagine-f8f8f8_dddbd5_1200_628/640.webp
 labels:
   - Bands
   - "Ghost Tapes #10"
@@ -24,6 +24,7 @@ affiliate: false
 language: en
 languageLink: /2021/02/god-is-an-astronaut-ghost-tapes-10-review
 ---
+
 **Today is a good day: God Is An Astronaut released their tenth album "Ghost Tapes #10". How have we been longing for this moment? Today it is finally here and the new GIAA record is in the record shops and on the streaming platforms.**
 
 The newest piece by the Irish post-rock band tends to be raw and wild. Whether it really is the "most aggressive album" in the band's almost 20-year history, as the band announced in advance, everyone can decide for themselves.

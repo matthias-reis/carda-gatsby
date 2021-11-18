@@ -12,9 +12,9 @@ excerpt: Gesunde Öle sollte man nach Möglichkeit täglich zu sich nehmen. Mit
   ihnen führen wir unserem Körper wichtige Fettsäuren zu und stärken unser
   Immunsystem. Hochwertige, pflanzliche Öle können außerdem als Träger für
   wichtige Nährstoffe und Vitamine wie Vitamin D3 und K2 verwendet werden.
-image: /img/2021-09-28-oele-52.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-09-28-oele-52-imagine-f8f8f8_989394_1024_768/640.webp
 copyrigt: ""
-ogImage: /img/oele-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/oele-fb-imagine-f8f8f8_a8a9aa_1200_628/640.webp
 labels:
   - Omega 3
   - D3
@@ -41,6 +41,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
+
 **Gesunde Öle sollte man nach Möglichkeit täglich zu sich nehmen. Mit ihnen führen wir unserem Körper wichtige Fettsäuren zu und stärken unser Immunsystem. Hochwertige, pflanzliche Öle können außerdem als Träger für wichtige Nährstoffe und Vitamine wie Vitamin D3 und K2 verwendet werden.**
 
 Ich habe mir schon vor langer Zeit angewöhnt, regelmäßig Öl zu konsumieren. Das kommt dann einfach in den Salat oder in den Smoothie und wenn es ganz besonders gut schmeckt oder einfach mal schnell gehen muss, gerne auch mal pur auf den Löffel.

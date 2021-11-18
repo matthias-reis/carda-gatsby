@@ -1,16 +1,20 @@
 ---
 templateKey: article
-date: 2021-04-29T12:53:38.065+00:00
+date: 2021-04-29T12:53:38.065Z
 slug: joquin-phoenix-indigo-liberty
 typeName: Beitrag
 title: Joaquin Phoenix rettet Kuh mit Kalb aus Schlachthof
 subTitle: Libertys und Indigos Aufbruch in ihr neues Leben
 seoTitle: Joaquin Phoenix rettet Kalb Indigo und Kuh Liberty aus Schlachthof
-ogTitle: ''
-description: Joaquin Phoenix erzählt die herzzerreißende Geschichte seiner Rettung von Kuh Liberty und Kälbchen Indigo aus einem Schlachthof.
-excerpt: Joaquin Phoenix teilt jetzt unter anderem über Youtube die herzzerreißende Geschichte seiner Rettung einer Kuh und ihres Kälbchens aus einem Schlachtbetrieb. Liberty und Indigo leben inzwischen glücklich auf der Farm Sanctuary.
-image: '/img/joaquin-phonix-indigo-liberty.jpg'
-ogImage: '/img/joaquin-phonix-indigo-liberty-fb.jpg'
+ogTitle: ""
+description: Joaquin Phoenix erzählt die herzzerreißende Geschichte seiner
+  Rettung von Kuh Liberty und Kälbchen Indigo aus einem Schlachthof.
+excerpt: Joaquin Phoenix teilt jetzt unter anderem über Youtube die
+  herzzerreißende Geschichte seiner Rettung einer Kuh und ihres Kälbchens aus
+  einem Schlachtbetrieb. Liberty und Indigo leben inzwischen glücklich auf der
+  Farm Sanctuary.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/joaquin-phonix-indigo-liberty-imagine-180818_646776_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/joaquin-phonix-indigo-liberty-fb-imagine-180818_676774_1200_628/640.webp
 labels:
   - Tierrechte
   - Farm Sanctuary
@@ -66,7 +70,7 @@ erzählt er im Video.
 
 > "Früher war die einzige Interaktion, die ich mit Kühen hatte, sie im Vorbeifahren durch das Autofenster zu sehen. Als ich die Wiese betrat, war ich überrascht, wie entspannt sie sich uns gegenüber verhielten. Sie kamen richtig offen auf uns zu. Es war genauso, als würde man neben einem Hund oder einem Pferd stehen. In ihren Augen war eine echte Wärme und Intelligenz. Für mich ist klar, dass sie einzigartige Seelen besitzen."
 
-![Joaquin Phoenix Indigo](/img/bildschirmfoto-2021-04-29-um-17.39.04.png 'Indigo am Tag ihrer Rettung und heute.')
+![Joaquin Phoenix Indigo](https://storage.googleapis.com/cardamonchai-media/2021-11-14/bildschirmfoto-2021-04-29-um-17-39-04-imagine-181818_696869_1780_668/640.webp 'Indigo am Tag ihrer Rettung und heute.')
 
 ## "Sie hat mich wiedererkannt"
 

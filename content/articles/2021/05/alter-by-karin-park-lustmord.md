@@ -1,5 +1,5 @@
 ---
-date: 2021-05-09T05:00:00.000+00:00
+date: 2021-05-09T05:00:00.000Z
 labels:
   - Ambient
   - Dark Ambient
@@ -19,15 +19,20 @@ typeName: Review
 title: '"Alter" By Karin Park & Lustmord'
 subTitle: Fascinating Horror Movie Sounds
 seoTitle: '"Alter" by Karin Park and Lustmord – Fascinating horror sounds'
-ogTitle: ''
-description: All those of you who can relate to the more dark sounds should definitely pay attention to the new album by Karin Park and Lustmord. "Alter" is pretty brilliant and scares the shit out of me every time I listen to it.
-excerpt: All those of you who can relate to the more dark sounds should definitely pay attention to the new album by Karin Park (you may know her from Årabrot) and Lustmord. "Alter" is pretty brilliant and scares the shit out of me every time I listen to it.
-image: '/img/2021-05-dark-ambient-karin-park-lustmord-pelagic.jpg'
-ogImage: '/img/2021-05-dark-ambient-karin-park-lustmord-pelagic-fb.jpg'
+ogTitle: ""
+description: All those of you who can relate to the more dark sounds should
+  definitely pay attention to the new album by Karin Park and Lustmord. "Alter"
+  is pretty brilliant and scares the shit out of me every time I listen to it.
+excerpt: All those of you who can relate to the more dark sounds should
+  definitely pay attention to the new album by Karin Park (you may know her from
+  Årabrot) and Lustmord. "Alter" is pretty brilliant and scares the shit out of
+  me every time I listen to it.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-05-dark-ambient-karin-park-lustmord-pelagic-imagine-080808_2d2d2d_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-05-dark-ambient-karin-park-lustmord-pelagic-fb-imagine-080808_625348_1200_628/640.webp
 focusKeyword: Karin Park
 advertisement: false
 affiliate: false
-languageLink: '/2021/05/karin-park-lustmord-alter'
+languageLink: /2021/05/karin-park-lustmord-alter
 ---
 
 **All those of you who can relate to the more dark sounds should definitely pay attention to this music tip. A new gem in this field will soon hit the record stores – "Alter" is a collaboration between Lustmord and Karin Park from Årabrot.**
@@ -38,7 +43,7 @@ Friends of Portishead, Dead Can Dance, and Hans Zimmer's Soundscapes will defini
 
 ## Imaginative and terrifying
 
-![Karin Park & Lustmord – "Alter"](/img/2021-05-alter-karin-park-lustmord-pelagic.jpg 'Karin Park & Lustmord – "Alter"')"Alter" is incredibly terrifying and brings plenty of soulfulness at the same time – a relaxing night at the movies without visiting the cinema awaits you. The eight tracks are the perfect soundtrack for a creative horror film of the imagination.
+![Karin Park & Lustmord – "Alter"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-05-alter-karin-park-lustmord-pelagic-imagine-f8f8f8_997b64_1440_1440/640.webp 'Karin Park & Lustmord – "Alter"')"Alter" is incredibly terrifying and brings plenty of soulfulness at the same time – a relaxing night at the movies without visiting the cinema awaits you. The eight tracks are the perfect soundtrack for a creative horror film of the imagination.
 
 The menacing darkness resonates in every note. Unknown ghosts creep through the air and take possession of the atmosphere. The first track, "Hiraeth", opens a dusty chest with long-held secrets that desperately wait to come to life. Above all this heaviness in the music swings Karin Park's voice – like a well-balanced dark pendulum.
 

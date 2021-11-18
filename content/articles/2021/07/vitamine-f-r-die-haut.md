@@ -10,8 +10,8 @@ description: Vegane Kosmetik, die mit modernen und hochwertigen Wirkstoffen
   Cosphera. Ich habe jetzt die Hyaluron Performance Creme, die Vitamin C
   Performance Creme, das Vitamin C Performance Serum und das Wimpernserum
   getestet
-image: /img/2021-07-27-cosphera-38.jpg
-ogImage: /img/cosphera-fb.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-07-27-cosphera-38-imagine-c8c8c8_91899a_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/cosphera-fb-imagine-886858_917762_1200_628/640.webp
 labels:
   - Cosphera
   - vegan beauty
@@ -26,6 +26,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
+
 **Vegane Kosmetik, die mit modernen und hochwertigen Wirkstoffen dafür sorgt, dass die Haut schön strahlt. Hergestellt in Deutschland. Das verspricht Cosphera. Ich habe jetzt die Hyaluron Performance Creme, die Vitamin C Performance Creme, das Vitamin C Performance Serum und das Wimpernserum getestet.**
 
 Anti Aging Produkte verwende ich noch nicht besonders lange regelmäßig. Früher habe ich höchstens mal eine Creme benutzt, wenn meine Gesichtshaut komplett trocken war. In der Regel habe ich meine Rosazea jedoch einfach mit einer (manchmal ziemlich dicken) Schicht aus Make-up und/oder Puder abgedeckt und das war es dann.

@@ -13,9 +13,9 @@ excerpt: Im Oktober findet der Übergang zwischen den Jahreszeiten statt. Die
   jeden Geschmack was dabei. Genau, wie bei unserer Musikliste. Hier sind 12
   Songs aus den Genres Post-Rock, Ambient, Alternative, Metal & Co., die ihr so
   schnell nicht wieder vergessen werdet.
-image: /img/12-songs-oktober.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/12-songs-oktober-imagine-080808_8d8176_1024_768/640.webp
 copyrigt: ""
-ogImage: /img/12-songs-oktober-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/12-songs-oktober-fb-imagine-080808_8d7f73_1200_628/640.webp
 labels:
   - Musikliste
   - Playlist
@@ -51,6 +51,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Im Oktober findet der Übergang zwischen den Jahreszeiten statt. Die Natur zeigt sich von ihrer buntesten Seite und wettertechnisch ist einfach für jeden Geschmack was dabei. Genau, wie bei unserer Musikliste. Hier sind 12 Songs aus den Genres Post-Rock, Ambient, Alternative, Metal & Co., die ihr so schnell nicht wieder vergessen werdet.**
 
 Macht es Euch also am besten gemütlich, lehnt Euch zurück und lauscht in aller Ruhe der Musik. Die Playlisten für Spotify und iTunes findet Ihr wie immer unten am Ende dieses Artikels. Zusammengestellt habe ich die Songs wieder gemeinsam mit meinen beiden Lieblings-Musikfans Valentin und Matze.

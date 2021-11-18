@@ -1,5 +1,5 @@
 ---
-date: 2021-05-18T08:07:00.000+02:00
+date: 2021-05-18T06:07:00.000Z
 slug: year-of-no-light-consolamentum
 typeName: Review
 title: Year Of No Light – "Consolamentum"
@@ -12,8 +12,8 @@ excerpt: 'Year Of No Light haben ihr neues Album fertig! "Consolamentum" wird
   diesen Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und
   muss sagen: Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung
   solltet Ihr unbedingt in Erwägung ziehen.'
-image: /img/year-of-no-light.jpg
-ogImage: /img/year-of-no-light-fb.png
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/year-of-no-light-imagine-f8f8f8_767271_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/year-of-no-light-fb-imagine-f8f8f8_6a6564_1200_628/640.webp
 labels:
   - australian post-rock
   - Post-Rock
@@ -47,7 +47,7 @@ Das Oscar-reife Video zu Réalgar müsst Ihr gesehen haben. Doch das Stück ist 
 
 ## Die komplette Year Of No Light Diskografie in einer Holzbox
 
-![Year Of No Light](/img/year-of-no-light-3.png)
+![Year Of No Light](https://storage.googleapis.com/cardamonchai-media/2021-11-14/year-of-no-light-3-imagine-f8f8f8_b49c9a_800_800/640.webp)
 
 In diesem Jahr feiern die Post-Rocker ihr zwanzigstes Jubiläum. Um das gehörig zu feiern, veröffentlichen Pelagic Records nicht nur ihr neues Album "Consolamentum". Es wird außerdem ein hölzernes Box-Set geben, das die komplette Diskographie der Band inklusive fünf Studioalben, verschiedenen Split EPs und der Collaboration mit dem belgischen Komponisten Dirk Serries aus der "Live At Roadburn" Recordings-Reihe erhält. Insgesamt umfasst das Set 12 Vinylplatten.
 
@@ -65,7 +65,7 @@ Hinter der Liebe für bewegte Bilder steckt das persönliche Interesse der Bandm
 
 ## "Consolamentum" steht für musikalische Hingabe
 
-![Year Of No Light | small](/img/year-of-no-light-1.jpeg)
+![Year Of No Light | small](https://storage.googleapis.com/cardamonchai-media/2021-11-14/year-of-no-light-1-imagine-181808_24150e_800_800/640.webp)
 
 Mit "Consolamentum" gehen Year Of No Light noch einen Schritt weiter, als mit ihren Vorgängeralben. Ob die teilweise sehr düsteren, ja beklemmend wirkenden Parts von der derzeitigen Weltlage beeinflusst wurden, mag vage Vermutung sein. Mit dem Thema der Platte haben sich die sechs Musiker⋆innen definitiv eines ausgesucht, das wie für sie gemacht ist. Year Of No Light sagen dazu
 

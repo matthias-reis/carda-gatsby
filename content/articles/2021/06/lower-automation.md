@@ -9,9 +9,9 @@ description: '"Vegan Neuroscientist" und "Locust Bean Gum" heißen die Songs auf
   der neuen Platte der Mathcore/Noise-Rock Band Lower Automation. Dass mich das
   neugierig macht, ist irgendwie klar. Dass mir das selbst betitelte Album, das
   am 12. Juli erscheint, auch noch gefällt, ist ein genialer Zufall.'
-image: /img/lower-automation.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/lower-automation-imagine-e8f8f8_999ba5_1024_768/640.webp
 copyrigt: Lower Automation
-ogImage: /img/lower-automation-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/lower-automation-fb-imagine-e8f8f8_82808b_1200_628/640.webp
 labels:
   - Bands
   - Mathcore

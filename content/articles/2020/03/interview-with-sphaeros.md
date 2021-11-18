@@ -12,22 +12,25 @@ labels:
   - Psychedelic
   - Experimental
 language: en
-date: 2020-03-05T09:00:00+02:00
+date: 2020-03-05T07:00:00.000Z
 slug: sphaeros-interview-en
 typeName: Interview
 title: Interview With Sphaèros
 subTitle: '"My life is creation"'
 seoTitle: Interview With Sphaèros – "My life is creation"
-ogTitle: ''
-description: Lovers of pulsating and psychedelic music will love Sphaèros. His solo project combines music, film and performance in a very special way. Recently I presented the latest of Sphaèros videos here on the blog. Now the exceptional artist has agreed to an interview.
-excerpt: ''
-image: '/img/sphaeros.jpeg'
+ogTitle: ""
+description: Lovers of pulsating and psychedelic music will love Sphaèros. His
+  solo project combines music, film and performance in a very special way.
+  Recently I presented the latest of Sphaèros videos here on the blog. Now the
+  exceptional artist has agreed to an interview.
+excerpt: ""
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/sphaeros-imagine-080808_13140e_1024_768/640.webp
 copyright: Sphaèros
-ogImage: '/img/sphaeros-fb.png'
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/sphaeros-fb-imagine-080808_0d0e09_1200_628/640.webp
 focusKeyword: Sphaèros
 advertisement: false
 affiliate: false
-languageLink: '/2020/03/sphaeros-interview'
+languageLink: /2020/03/sphaeros-interview
 ---
 
 **Recently I presented the latest of Sphaèros videos here on the blog. Now the exceptional artist has agreed to an interview.**

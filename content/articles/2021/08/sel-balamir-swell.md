@@ -8,9 +8,9 @@ seoTitle: Sel Balamir – "Swell" – Ein besonderes Lockdown-Solo-Album
 description: Sel Balamir, Amplifier Gründer Sänger und Gitarrist, meldet sich
   mit einer Solo-Platte zurück. Die Veröffentlichung von "Swell" hat er für den
   6. September angekündigt. Reinhören könnt Ihr jetzt schon.
-image: /img/sel-balamir-swell.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/sel-balamir-swell-imagine-183878_4174a4_1024_768/640.webp
 copyrigt: Sel Balamir
-ogImage: /img/sel-balamir-swell-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/sel-balamir-swell-fb-imagine-183878_4d78a9_1200_628/640.webp
 labels:
   - Sel Balamir
   - Amplifier
@@ -28,6 +28,7 @@ affiliate: false
 language: de
 languageLink: /2021/08/sel-balamir-swell-en/
 ---
+
 **Sel Balamir, Amplifier Gründer Sänger und Gitarrist, meldet sich mit einer Solo-Platte zurück. Die Veröffentlichung von "Swell" hat er für den 6. September angekündigt. Reinhören könnt Ihr jetzt schon.**
 
 Das Album "Swell" besteht aus drei für Sel ganz besonderen Songs. Sie sind während der Corona-Lockdowns im Jahr 2020 entstanden. In seinem Newsletter schreibt er:
@@ -40,7 +41,7 @@ Das klingt herrlich, oder? Ab und zu träumen wir uns doch alle gerne ans Meer. 
 
 Auf "Swell" befinden sich zwar insgesamt nur drei Stücke, diese sind jedoch ziemlich lang, was gut ist – das findet nicht nur Sel. Für mich ist die Platte ein absoluter Hörgenuss. Sel überrascht mit Unterwasserklängen, Orgelsounds und einem Wechsel aus nachdenklichen ruhigen und verspielteren Parts.
 
-![Sel Balamir – "Swell"](/img/sel-balamir-swell.jpeg "Sel Balamir – \\"Swell\\"")
+![Sel Balamir – "Swell"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/sel-balamir-swell-imagine-183878_4174a4_1024_768/640.webp "Sel Balamir – \\"Swell\\"")
 
 Der erste Song "Swell" ist mit einer respektablen Spielzeit von 20:42 das längste Stück auf der Platte und der Opener für ein phantasievolles Theaterstück an der See mit einem angenehmen Hauch von 70er Jahre Psychedelic.
 

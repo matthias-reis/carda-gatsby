@@ -1,5 +1,5 @@
 ---
-date: 2021-05-23T15:48:42+02:00
+date: 2021-05-23T13:48:42.000Z
 labels:
   - Wald
   - Achtsamkeit
@@ -9,20 +9,24 @@ labels:
   - Ausflug
 language: de
 slug: den-wald-erleben
-typeName: ''
+typeName: ""
 title: Den Wald erleben
 subTitle: Das passiert an einem Tag in der Natur
 seoTitle: Den Wald erleben – das passiert an einem Tag in der Natur
-ogTitle: ''
-description: Den Wald erleben – mit allen Sinnen vom Morgen bis in die Dämmerung. All seine Bewohner, die Pflanzen, die frische Luft genießen.
-excerpt: Den Wald erleben – mit allen Sinnen vom Morgen bis in die Dämmerung. All seine Bewohner, die Pflanzen, die frische Luft, den Tau auf den Blättern, das plätschernde Wasser in seinen Bachläufen genießen und das alles für möglichst lange Zeit abspeichern.
-image: '/img/2021-05-14-wohldorfer-wald-39.jpg'
-copyright: ''
-ogImage: '/img/wald-erleben.jpg'
+ogTitle: ""
+description: Den Wald erleben – mit allen Sinnen vom Morgen bis in die
+  Dämmerung. All seine Bewohner, die Pflanzen, die frische Luft genießen.
+excerpt: Den Wald erleben – mit allen Sinnen vom Morgen bis in die Dämmerung.
+  All seine Bewohner, die Pflanzen, die frische Luft, den Tau auf den Blättern,
+  das plätschernde Wasser in seinen Bachläufen genießen und das alles für
+  möglichst lange Zeit abspeichern.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-05-14-wohldorfer-wald-39-imagine-385808_456413_1024_768/640.webp
+copyright: ""
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/wald-erleben-imagine-385808_4d6d19_1200_628/640.webp
 focusKeyword: Den Wald erleben
 advertisement: false
 affiliate: false
-languageLink: ''
+languageLink: ""
 ---
 
 **Den Wald erleben – mit allen Sinnen vom Morgen bis in die Dämmerung. All seine Bewohner, die Pflanzen, die frische Luft, den Tau auf den Blättern, das plätschernde Wasser in seinen Bachläufen genießen und das alles für möglichst lange Zeit abspeichern. Ein Tag in der Natur ist etwas Wertvolles und seine Wirkung sollte man niemals unterschätzen.**

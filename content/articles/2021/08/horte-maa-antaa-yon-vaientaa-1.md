@@ -8,9 +8,9 @@ seoTitle: Horte "Maa antaa yon vaientaa" – Psychedelic Shoegaze From Finnland
 description: Psychedelic shoegaze sound with a strong woman at the microphone –
   If this is your cup of tea, you should definitely carry on reading. Horte's
   new album is so much more than just this. Here are all the details about it.
-image: /img/horte-horte-maa-antaa-yon-vaientaa.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/horte-horte-maa-antaa-yon-vaientaa-imagine-787878_696f73_440_440/640.webp
 copyrigt: Horte
-ogImage: /img/horte-horte-maa-antaa-yon-vaientaa-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/horte-horte-maa-antaa-yon-vaientaa-fb-imagine-282828_000000_1200_628/640.webp
 labels:
   - Experimental
   - Shoegaze
@@ -31,6 +31,7 @@ affiliate: false
 language: en
 languageLink: /2021/08/horte-maa-antaa-yon-vaientaa/
 ---
+
 **Psychedelic shoegaze sound with a strong woman on the microphone – If this is your cup of tea, you should definitely carry on reading. Horte's new album is so much more than just this. Here are all the details about it.**
 
 "Maa antaa yon vaientaa" is the name of the record. In English, it means something like "Land Lets the Night Grow Silent", but what exactly Horte want to tell us remains their secret.
@@ -39,7 +40,7 @@ languageLink: /2021/08/horte-maa-antaa-yon-vaientaa/
 
 By the way, singer Riikka recorded all lyrics in Finnish. But that doesn't matter at all to those of us who don't understand this beautiful language. The important thing is the feelings that Horte convey, and they are tremendous – I promise you that.
 
-![Horte – "Maa antaa yon vaientaa"](/img/horte-horte-maa-antaa-yon-vaientaa.jpeg "Horte – \\\"Maa antaa yon vaientaa\\\"")
+![Horte – "Maa antaa yon vaientaa"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/horte-horte-maa-antaa-yon-vaientaa-imagine-787878_696f73_440_440/640.webp "Horte – \\\"Maa antaa yon vaientaa\\\"")
 
 The total of seven songs is very tricky to put into words. Distorted soundscapes and dreamlike synthy sequences tell of a world that stands above things – worn and casual at the same time, without unnecessary ornaments and kitsch, but definitely multi-layered.
 
@@ -57,4 +58,4 @@ If that sounds exciting to you, you can listen to the album now; Pelagic Records
 
 <YouTube id="yEnb51a2c_o" />
 
-![Horte – "Maa antaa yon vaientaa" | large](/img/horte.png "Horte – \\\"Maa antaa yon vaientaa\\\" | large")
+![Horte – "Maa antaa yon vaientaa" | large](https://storage.googleapis.com/cardamonchai-media/2021-11-14/horte-imagine-080808_354554_800_535/640.webp "Horte – \\\"Maa antaa yon vaientaa\\\" | large")

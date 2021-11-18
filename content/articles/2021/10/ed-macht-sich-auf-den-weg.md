@@ -13,9 +13,9 @@ excerpt: 'Feuerwear macht Taschen aus gebrauchten Feuerwehr-Schläuchen. Einige
   Modell, das mir mal wieder besonders gut gefällt: "Ed" ist eine wunderbar
   praktische Rolltop-Tasche, die ich sowohl als Crossover-Bag als auch als
   Handtasche tragen kann.'
-image: /img/2021-10-20-feuerwear-4-1.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-10-20-feuerwear-4-1-imagine-080808_826b59_1024_768/640.webp
 copyrigt: ""
-ogImage: /img/ed-feuerwear-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/ed-feuerwear-fb-imagine-080808_84776b_1200_628/640.webp
 labels:
   - Feuerwear
   - Fair Fashion & Beauty
@@ -36,6 +36,7 @@ advertisement: true
 affiliate: false
 language: de
 ---
+
 **Feuerwear macht Taschen aus gebrauchten Feuerwehr-Schläuchen. Einige davon habe ich Euch hier im Blog ja schon vorgestellt. Jetzt gibt es ein neues Modell, das mir mal wieder besonders gut gefällt: "Ed" ist eine wunderbar praktische Rolltop-Tasche, die ich sowohl als Crossover-Bag als auch als Handtasche tragen kann.**
 
 In einer Woche findet Ihr "Ed" die Rolltop-Tasche im Feuerwear Onlineshop. Ich stelle sie Euch heute schon mal vor – lesen lohnt sich, denn es handelt sich nicht um eine gewöhnliche Tasche, sondern um ein echtes Highlight, das Eure täglichen Ausflüge praktischer macht – dazu wurde "Ed" auch entwickelt.

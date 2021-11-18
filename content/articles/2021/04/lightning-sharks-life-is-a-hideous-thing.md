@@ -5,10 +5,13 @@ typeName: Review
 title: Lightning Sharks – "Life Is A Hideous Thing"
 subTitle: Noisecore For The Year 2020
 seoTitle: Lightning Sharks – "Life Is A Hideous Thing" – Noisecore For The Year 2020
-description: Do you remember my interview with Lightning Sharks? You know, these noise core guys who would love to scream in Bolsonaro's face. Now the Bristol band has finished their debut EP. I have listened to it. Here is my recommendation for you.
+description: Do you remember my interview with Lightning Sharks? You know, these
+  noise core guys who would love to scream in Bolsonaro's face. Now the Bristol
+  band has finished their debut EP. I have listened to it. Here is my
+  recommendation for you.
 image: /img/2020_09_lightning-sharks-sharks-1__l.jpeg
 copyrigt: Lightning Sharks
-ogImage: /img/2021_02_lightning-sharks-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-02-lightning-sharks-fb-png-l-imagine-080808_282828_1440_754/640.webp
 labels:
   - Bands
   - English & German
@@ -25,6 +28,8 @@ languageLink: /2021/04/lightning-sharks-life-is-a-hideous-thing
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QALhAAAQQBAwMCAgsAAAAAAAAAAQIDBBEFAAYxEhMhIlFBYQcUIyUycYGhscHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMf27lc2X/rECTkFQWnacabldRCeQKJ/fTSxuLeUVqTNyED7sZNrDrALoSeAKIJ+auNJm3MomBi5DMVIU+4oLcWQPsk0ASkX6vf+tMY3dDw7LkVxl7IokxlB5XdADyzws3x+nwrxoLS/pGiye2qRjJcaWy30sqjOJUQo2FEpIHiieTeoZXLRNwyMYIUNcda5KUuMdvpCh7XZu/N6SozT785l94oeVJQp5RYWFFs0T6uenwk2K8aa35DOGxj2UVcLJymEpjMGrYQrx1pQD+MgG74BGgzkIcNEpqiQOoULHIs/L+dOStpvyQrtP1MMRh94uU0y2FA+nq4PgAe93o0aChtltGKky8vKfQW4Sy20hpwHvLIIr8vj/muNlMjNmS3pM8IU8/ypSBYF+ADzQ0aNB//Z
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-1__m.jpg
+errors:
+  image: "Imagine image not found: /img/2020_09_lightning-sharks-sharks-1__l.jpeg"
 ---
 
 **Do you remember my interview with Lightning Sharks? You know, these noise core guys who would love to scream in Bolsonaro's face. Now the Bristol band has finished their debut EP. I have listened to it. Here is my recommendation for you.**

@@ -1,37 +1,37 @@
 ---
 labels:
-- Samuel Laubscher
-- Post-Rock
-- Band
-- Bands
-- Interview
-- Interviews
-- DUNK!festival
-- DUNK!records
-- English & German
-- Dunk Festival
-- Dunk Records
+  - Samuel Laubscher
+  - Post-Rock
+  - Band
+  - Bands
+  - Interview
+  - Interviews
+  - DUNK!festival
+  - DUNK!records
+  - English & German
+  - Dunk Festival
+  - Dunk Records
 language: en
-date: 2020-05-28T01:17:00.000+02:00
+date: 2020-05-27T23:17:00.000Z
 slug: of-the-vine-interview-en
 typeName: Interview
 title: Of the Vine
 subTitle: '"We Are Living Our Childhood Dream When We Perform"'
 seoTitle: Interview With Of the Vine – "We Are Living Our Dreams"
-ogTitle: ''
-description: Of the Vine is a post-rock band that I hold in high regard. Now I had
-  the opportunity to interview guitarist Samuel Laubscher. He said that they are living
-  their childhood dreams.
-excerpt: ''
-image: "/img/of-the-vine.jpeg"
+ogTitle: ""
+description: Of the Vine is a post-rock band that I hold in high regard. Now I
+  had the opportunity to interview guitarist Samuel Laubscher. He said that they
+  are living their childhood dreams.
+excerpt: ""
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/of-the-vine-imagine-282828_333537_1024_768/640.webp
 copyright: Of the Vine
-ogImage: "/img/of-the-vine-fb.png"
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/of-the-vine-fb-imagine-282828_323536_1200_628/640.webp
 focusKeyword: Of the Vine
 advertisement: false
 affiliate: false
-languageLink: "/2020/05/of-the-vine-interview"
-
+languageLink: /2020/05/of-the-vine-interview
 ---
+
 **Of the Vine are a post-rock band I hold in high regard. Now I had the opportunity to interview guitarist Samuel Laubscher.**
 
 The band would have performed at this years DUNK! Festival, which unfortunately couldn't take place due to the corona crisis. You know the song "Even If I Never See You In This Life..." from my **DUNK! 2020 playlist** . It's from the 2015 album "East The Water"

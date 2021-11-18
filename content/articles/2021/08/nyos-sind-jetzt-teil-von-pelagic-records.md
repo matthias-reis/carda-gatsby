@@ -10,9 +10,9 @@ description: "Gerade kam eine schöne Nachricht von Pelagic Records rein: Das
   unterschrieben. Das neue (inzwischen fünfte) Nyos Album ist bereits für
   nächstes Frühjahr angekündigt."
 excerpt: ""
-image: /img/nyos.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/nyos-imagine-c8c8c8_969696_1200_628/640.webp
 copyrigt: Nyos
-ogImage: /img/nyos.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/nyos-imagine-c8c8c8_969696_1200_628/640.webp
 labels:
   - Tonehaven Studios
   - Pelagic
@@ -34,6 +34,7 @@ affiliate: false
 language: de
 languageLink: /2021/08/nyos-nature-en/
 ---
+
 **Gerade kam eine schöne Nachricht von Pelagic Records rein: Das finnische Instrumental Duo Nyos hat jetzt beim Berliner Post-Music Label unterschrieben. Das neue (inzwischen fünfte) Nyos Album ist bereits für nächstes Frühjahr angekündigt.**
 
 Solange wir darauf warten, können wir uns die Zeit mit den Vorgängeralben versüßen. Es lohnt sich nämlich ziemlich, die Diskografie der Band mal genau zu erforschen. So ein Glück, dass es bei Pelagic ab sofort Vinyl-Ausführungen von "Nature" (2016) und "Now" (2019) gibt.
