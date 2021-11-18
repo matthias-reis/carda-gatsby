@@ -82,7 +82,7 @@ Beachtlich ist, dass immer mehr Belege darauf hindeuten, dass es immer mehr und 
 
 Das wurde sogar bereits mehrfach mit Versuchen und Demonstrationen belegt. Ein Mensch bekommt zum Beispiel in der Fußgängerzone Katzenmilch angeboten (in Wirklichkeit handelt es sich um Kuhmilch) und er ekelt sich davor, obwohl er beteuert, jeden Tag Kuhmilch zu sich zu nehmen. Ähnliche Versuche gab es auch schon mit verschiedenen Fleischsorten.
 
-Ein weiterer spannender Versuch zeigte die Echtzeit Wirkung menschlicher Schutzmechanismen: Eine Testgruppe wurde nach dem Zufallsprinzip in zwei Gruppen aufgeteilt. Gruppe A bekam Nüsse zu essen, Gruppe B Rindfleisch. Die Rindfleisch-Gruppe äußerte weniger moralische Bedenken gegenüber dem Verzehr von Tieren, als die Nuss-Gruppe (Loughnan, Haslam, & Bastian 2010[^13]).
+Ein weiterer spannender Versuch zeigte die Echtzeitwirkung menschlicher Schutzmechanismen: Eine Testgruppe wurde nach dem Zufallsprinzip in zwei Gruppen aufgeteilt. Gruppe A bekam Nüsse zu essen, Gruppe B Rindfleisch. Die Rindfleisch-Gruppe äußerte weniger moralische Bedenken gegenüber dem Verzehr von Tieren, als die Nuss-Gruppe (Loughnan, Haslam, & Bastian 2010[^13]).
 
 ## Ist der Appetit stärker als der Wille?
 
