@@ -96,7 +96,7 @@ Besonders für Erwachsene ist es schwer, die eigenen  Essgewohnheiten dauerhaft 
 
 Die Daten aus der Untersuchung der Kinder liefern einen einzigartigen Blickwinkel auf das Geschehen. Sie helfen dabei, den starken Widerstand erwachsener Menschen gegenüber dem Verzicht auf Fleisch und tierische Nahrungsmittel besser zu verstehen.
 
-Auf der einen Site sind Kinder noch damit beschäftigt, ein vollständiges Verständnis der kulturellen Werte gegenüber Fleisch zu entwickeln. Auf der anderen Seite verfügen sie möglicherweise noch nicht über die Strategien, die ihre Eltern und Großeltern anwenden, um ihr Unbehagen beim Fleischverzehr zu ersticken.
+Auf der einen Seite sind Kinder noch damit beschäftigt, ein vollständiges Verständnis der kulturellen Werte gegenüber Fleisch zu entwickeln. Auf der anderen Seite verfügen sie möglicherweise noch nicht über die Strategien, die ihre Eltern und Großeltern anwenden, um ihr Unbehagen beim Fleischverzehr zu ersticken.
 
 Außerdem erwerben und verfeinern sie gerade ihr konzeptionelles Wissen über die Herkunft von Lebensmitteln. Dazu zählen die Ursprünge und die Prozesse, die dafür sorgen, dass Rohprodukte zu Lebensmittel werden, die anschließend verzehrt werden.
 
