@@ -12,16 +12,22 @@ async function run() {
     'https://storage.googleapis.com/cardamonchai-media/imagine-index.json'
   ).then((res) => res.json());
 
+  const remoteImages: Record<string, string> = remoteImagePaths.reduce(
+    (cumulation: Record<string, string>, path: string) => {
+      const imageId = path.split('/')[1].split('-imagine-')[0];
+      cumulation[imageId] = path;
+      return cumulation;
+    },
+    {}
+  );
+
   let allArticles = getAllArticles();
 
-  // allArticles = allArticles.slice(70, 80);
-
   for (const path of allArticles) {
-    console.log(path);
     const md = new Markdown(path);
-    replaceFrontmatterImage('image', md, remoteImagePaths);
-    replaceFrontmatterImage('ogImage', md, remoteImagePaths);
-    md.changeContent(replaceContentImages(remoteImagePaths));
+    replaceFrontmatterImage('image', md, remoteImages);
+    replaceFrontmatterImage('ogImage', md, remoteImages);
+    md.changeContent(replaceContentImages(remoteImages));
     md.write();
   }
 }
@@ -29,12 +35,12 @@ async function run() {
 function replaceFrontmatterImage(
   key: string,
   md: Markdown,
-  remoteImagePaths: string[]
+  remoteImages: Record<string, string>
 ) {
   const imagePath = md.attributes[key] as string | null;
   if (imagePath && !imagePath.startsWith('http')) {
     const slug = transformImagePath(imagePath);
-    const entry = remoteImagePaths.find((i) => i.indexOf(slug) > -1);
+    const entry = remoteImages[slug];
     if (entry) {
       const image = new Imagine(decodeURIComponent(entry));
       md.attributes[key] = image.previewUrl;
@@ -50,14 +56,14 @@ function replaceFrontmatterImage(
   }
 }
 
-const replaceContentImages = (remoteImagePaths: string[]) =>
+const replaceContentImages = (remoteImages: Record<string, string>) =>
   function innerReplaceContentImages(content: string, md: Markdown): string {
     // TODO: replace all images
     content = content.replace(
       /]\((\/img\/.+\.(jpg|png|jpeg|gif))/g,
       (captured, imageName) => {
         const slug = transformImagePath(imageName as string);
-        const entry = remoteImagePaths.find((i) => i.indexOf(slug) > -1);
+        const entry = remoteImages[slug];
         if (entry) {
           const image = new Imagine(decodeURIComponent(entry));
           return captured.replace(imageName, image.previewUrl);
