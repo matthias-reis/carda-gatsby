@@ -48,7 +48,7 @@ Mit der Veröffentlichung der Studienergebnisse[^1] legt das Institut daher Grü
 
 Der menschliche Konsum von Produkten tierischer Herkunft ist einer der Haupttreiber der Klimakatastrophe (Vermueulen, Campbell, & Ingram, 2012[^2]). Die Tierhaltung ist für mindestens 14,5 Prozent der globalen Treibhausgas-Emissionen verantwortlich (Gerber 2013[^3]). 
 
-Einer der größten Hebel, wäre es also, wenn wir alle auf eine Pflanzen-basierte Ernährung zurückgreifen würden (Hedenus, Wirsenius, Daniel, & Johansson, 2014[^4], IPCC 2020[^5], Stehfest 2009[^6]). Das bedeutet global gesehen, wenn der Konsum tierischer Produkte unverändert bleibt, wird die Klimaerwärmung schnell ein Level von zwei Grad erreicht haben. Menschliches Leid und Tod wären die Folge(Kim, Neff, Santo, & Vignorito 2015[^7]).
+Einer der größten Hebel, wäre es also, wenn wir alle auf eine Pflanzen-basierte Ernährung zurückgreifen würden (Hedenus, Wirsenius, Daniel, & Johansson, 2014[^4], IPCC 2020[^5], Stehfest 2009[^6]). Das bedeutet global gesehen, wenn der Konsum tierischer Produkte unverändert bleibt, wird die Klimaerwärmung schnell ein Level von zwei Grad erreicht haben. Menschliches Leid und Tod wären die Folge (Kim, Neff, Santo, & Vignorito 2015[^7]).
 
 Science Direct zitiert an dieser Stelle den Autor des Buchs "[Tiere essen](/2019/02/tiere-essen-von-jonathan-safran-foer/)" Jonathan Safran Foer:
 
