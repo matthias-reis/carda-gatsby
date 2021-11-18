@@ -80,7 +80,7 @@ Die Verzerrung zwischen dem Fleischkonsum und der tief verankerten Überzeugung,
 
 Beachtlich ist, dass immer mehr Belege darauf hindeuten, dass es immer mehr und wirkungsvollere Methoden gibt, um den Fleischessenden den Stress beim Verzehr von Tieren möglichst zu ersparen. Der Fleischkonsum wird dadurch als "natürlich", "normal", "notwendig" und "maßvoll" wahrgenommen. Zudem schreiben Menschen Tieren wie Hühnern, die häufig auf dem Teller landen, weniger geistige Fähigkeiten zu, als jeden, die in der Regel nicht als Nahrungsquellen dienen – also Katzen, Hunden, Löwenn, Delfinen und so weiter.
 
-Das wurde sogar bereits mehrfach mit Versuchen und Demonstrationen belegt. Ein Mensch bekommt zum Beispiel in der Fußgängerzone Katzenmilch angeboten (in Wirklichkeit handelt es sich um Kuhmilch) und er ekelt sich davor, obwohl er beteuert, jeden Tag Kuhmilch zu sich zu nehmen. Ähnliche Versuche gab es auch schon mit verschiedenen Fleischsorten.d
+Das wurde sogar bereits mehrfach mit Versuchen und Demonstrationen belegt. Ein Mensch bekommt zum Beispiel in der Fußgängerzone Katzenmilch angeboten (in Wirklichkeit handelt es sich um Kuhmilch) und er ekelt sich davor, obwohl er beteuert, jeden Tag Kuhmilch zu sich zu nehmen. Ähnliche Versuche gab es auch schon mit verschiedenen Fleischsorten.
 
 Ein weiterer spannender Versuch zeigte die Echtzeit Wirkung menschlicher Schutzmechanismen: Eine Testgruppe wurde nach dem Zufallsprinzip in zwei Gruppen aufgeteilt. Gruppe A bekam Nüsse zu essen, Gruppe B Rindfleisch. Die Rindfleisch-Gruppe äußerte weniger moralische Bedenken gegenüber dem Verzehr von Tieren, als die Nuss-Gruppe (Loughnan, Haslam, & Bastian 2010[^13]).
 
