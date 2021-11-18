@@ -8,6 +8,7 @@ import { ListQuery, Article, CompactArticle } from '../types';
 import { toCompactArticle } from '../to-compact-article';
 
 const HomePageController: React.FC<{ data: ListQuery }> = ({ data }) => {
+  console.log(data);
   const rawArticles: { node: Article }[] = data?.allMdx.edges ?? [];
 
   const articles: CompactArticle[] = rawArticles
@@ -56,13 +57,6 @@ export const query = graphql`
             languageLink
             advertisement
             affiliate
-            image {
-              childImageSharp {
-                fluid(maxWidth: 400, quality: 70) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
           }
         }
       }

@@ -1,7 +1,6 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import { Link } from 'gatsby';
-import UnstyledImage from 'gatsby-image';
 import moment from 'moment';
 import 'moment/locale/de';
 
@@ -11,6 +10,7 @@ import { color, space, fontSize, font } from '../style';
 import { CompactTitle, CompactSubtitle, P, S } from './typo';
 import { CardaImage as UnstyledCardaImage } from './carda-image';
 import { event } from './analytics';
+import { ImageForList } from './image-for-list';
 
 moment.locale('de');
 
@@ -47,12 +47,8 @@ export const ArticleListGridItem: React.FC<{
         <Type>{article.typeName || 'Beitrag'}</Type>
         <ImageContainer>
           <InnerImageContainer>
-            {article.image?.childImageSharp && (
-              <Image
-                Tag="div"
-                alt={article.title}
-                fluid={article.image!.childImageSharp.fluid}
-              />
+            {article.image && (
+              <ImageForList alt={article.title} src={article.image} />
             )}
             {(article.remoteLoadingImage ?? null) && (
               <CardaImage
@@ -140,11 +136,11 @@ const Date = styled.div`
   font-size: ${fontSize[1]};
 `;
 
-const Image = styled(UnstyledImage)`
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
-`;
+// const Image = styled(UnstyledImage)`
+//   height: 100%;
+//   width: 100%;
+//   object-fit: cover;
+// `;
 
 const CardaImage = styled(UnstyledCardaImage)`
   height: 100%;

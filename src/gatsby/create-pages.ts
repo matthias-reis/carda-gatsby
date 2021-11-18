@@ -48,19 +48,7 @@ query AllPageQuery {
           languageLink
           advertisement
           affiliate
-          image { 
-            childImageSharp {
-              fluid(maxWidth: 400, quality: 70) {
-                  base64
-                  aspectRatio
-                  src
-                  srcSet
-                  srcWebp
-                  srcSetWebp
-                  sizes
-              }
-            }
-          }
+          image
         }
       }
     }

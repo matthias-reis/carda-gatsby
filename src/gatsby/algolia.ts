@@ -27,13 +27,7 @@ const pageQuery = `{
           languageLink
           advertisement
           affiliate
-          image {
-            childImageSharp {
-              resize(width: 600) {
-                src
-              }
-            }
-          }
+          image
         }
         fields {
           path
@@ -56,9 +50,7 @@ type IndexRecord = {
       advertisement?: boolean;
       affiliate?: boolean;
       languageLink?: string;
-      image?: {
-        childImageSharp?: { resize?: { src?: string } };
-      };
+      image?: string;
       labels: string[];
     };
     fields: {
@@ -72,9 +64,7 @@ function pageToAlgoliaRecord(
   { node: { id, frontmatter, fields, ...rest } }: IndexRecord,
   baseImageUrl: string
 ) {
-  const image =
-    frontmatter.remoteThumbnailImage ||
-    baseImageUrl + '/' + frontmatter.image?.childImageSharp?.resize?.src;
+  const image = frontmatter.remoteThumbnailImage || frontmatter.image;
   delete frontmatter.remoteThumbnailImage;
   delete frontmatter.image;
   return {

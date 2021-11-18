@@ -84,13 +84,7 @@ export const query = graphql`
         description
         remoteImage
         remoteLoadingImage
-        image {
-          childImageSharp {
-            fluid(maxWidth: 900, quality: 70) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        image
       }
       id
     }

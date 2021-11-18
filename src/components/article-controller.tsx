@@ -9,7 +9,7 @@ import { Meme } from './meme';
 import { Youtube, YouTube } from './youtube';
 import { Vimeo } from './vimeo';
 import { Playlist } from './playlist';
-import Image from './image';
+import Image from './image-for-content';
 import { RemoteImage } from './remote-image';
 import { Link } from './link';
 import { Frame } from './frame';
@@ -103,22 +103,8 @@ export const query = graphql`
         languageLink
         advertisement
         affiliate
-        ogImage {
-          childImageSharp {
-            original {
-              src
-              height
-              width
-            }
-          }
-        }
-        image {
-          childImageSharp {
-            fluid(maxWidth: 900, quality: 70) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        ogImage
+        image
       }
       id
       timeToRead
@@ -140,13 +126,7 @@ export const query = graphql`
           remoteLoadingImage
           language
           languageLink
-          image {
-            childImageSharp {
-              fluid(maxWidth: 900, quality: 70) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
+          image
         }
       }
     }

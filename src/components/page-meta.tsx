@@ -54,32 +54,15 @@ export const PageMeta: React.FC<{
       />
       <meta
         property="og:image"
-        content={`${SERVER}${
-          meta.frontmatter.ogImage?.childImageSharp.original.src ||
-          '/img/opengraph.png'
-        }`}
+        content={`${SERVER}${meta.frontmatter.ogImage || '/img/opengraph.png'}`}
       />
       <meta
         property="twitter:image"
-        content={`${SERVER}${
-          meta.frontmatter.ogImage?.childImageSharp.original.src ||
-          '/img/opengraph.png'
-        }`}
+        content={`${SERVER}${meta.frontmatter.ogImage || '/img/opengraph.png'}`}
       />
-      <meta
-        property="og:image:width"
-        content={
-          meta.frontmatter.ogImage?.childImageSharp.original.width.toString() ??
-          '1200'
-        }
-      />
-      <meta
-        property="og:image:height"
-        content={
-          meta.frontmatter.ogImage?.childImageSharp.original.height.toString() ??
-          '630'
-        }
-      />
+      //todo: add proper sizes based on image url
+      <meta property="og:image:width" content={'1200'} />
+      <meta property="og:image:height" content={'630'} />
     </Helmet>
   );
 };

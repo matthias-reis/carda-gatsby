@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from '@emotion/styled';
-import Image from 'gatsby-image';
 
 import { Title, Subtitle } from './typo';
 import { Container } from './container';
@@ -10,6 +9,7 @@ import { space } from '../style';
 import { Article as ArticleMeta, CompactArticle } from '../types';
 import { CardaImage } from './carda-image';
 import { PageMeta } from './page-meta';
+import { ImageForArticle } from './image-for-article';
 
 const ArticleContainer = Container.withComponent('article');
 
@@ -28,7 +28,7 @@ export const StaticPage: React.FC<StaticPageProps> = ({
         )}
         <ImageContainer>
           {meta.frontmatter.image && (
-            <Image fluid={meta.frontmatter.image.childImageSharp.fluid} />
+            <ImageForArticle src={meta.frontmatter.image} />
           )}
           {meta.frontmatter.remoteImage && (
             <CardaImage

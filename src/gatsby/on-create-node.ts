@@ -1,7 +1,5 @@
 import { readFileSync } from 'fs';
 import { resolve } from 'path';
-import { fmImagesToRelative } from 'gatsby-remark-relative-images';
-import { createFilePath } from 'gatsby-source-filesystem';
 import { slugify } from './slugify';
 import { CreateNodeArgs } from 'gatsby';
 import YAML from 'yaml';
@@ -18,7 +16,6 @@ export const onCreateNode = async ({
   getNode,
 }: CreateNodeArgs<Node>) => {
   const { createNodeField } = actions;
-  fmImagesToRelative(node);
 
   if (node.internal.type === `Mdx`) {
     const indexedCategories: Record<string, Category> = Object.fromEntries(

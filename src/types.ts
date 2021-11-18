@@ -1,9 +1,3 @@
-import { FluidObject } from 'gatsby-image';
-
-export type ArticleImage = {
-  childImageSharp: { fluid: FluidObject };
-};
-
 export type Fields = {
   labels: { title: string; slug: string; type: string }[];
   path: string;
@@ -22,19 +16,11 @@ export type Frontmatter = {
   description: string;
   excerpt?: string;
   focusKeyword?: string;
-  image?: ArticleImage;
+  image?: string;
   remoteImage?: string;
   remoteLoadingImage?: string;
   remoteThumbnailImage?: string;
-  ogImage?: {
-    childImageSharp: {
-      original: {
-        src: string;
-        width: number;
-        height: number;
-      };
-    };
-  };
+  ogImage?: string;
   language?: 'en' | 'de';
   languageLink?: string;
   advertisement?: boolean;
