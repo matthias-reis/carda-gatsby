@@ -100,7 +100,7 @@ Auf der einen Seite sind Kinder noch damit beschäftigt, ein vollständiges Vers
 
 Außerdem erwerben und verfeinern sie gerade ihr konzeptionelles Wissen über die Herkunft von Lebensmitteln. Dazu zählen die Ursprünge und die Prozesse, die dafür sorgen, dass Rohprodukte zu Lebensmittel werden, die anschließend verzehrt werden.
 
-Das Wissen von Kindern über die Herstellungsprozesse von Lebensmitteln scheint erstaunlich gering zu sein. Rund ein Drittel der Kinder im Alter zwischen fünf und acht Jahren weiß zum Beispiel nicht, woraus Brot, Käse oder Nudeln hergestellt werden. Das geht aus einer groß angelegten Umfrage in der UK hervor (British Nutrition Foundation, 2013)[^14].
+Das Wissen von Kindern über die Herstellungsprozesse von Lebensmitteln scheint erstaunlich gering zu sein. Rund ein Drittel der Kinder im Alter zwischen fünf und acht Jahren weiß zum Beispiel nicht, woraus Brot, Käse oder Nudeln hergestellt werden. Das geht aus einer groß angelegten Umfrage in der UK hervor (British Nutrition Foundation, 2013[^14]).
 
 ## Die Kinder wussten nicht, woher die Chicken Nuggets kommen
 
