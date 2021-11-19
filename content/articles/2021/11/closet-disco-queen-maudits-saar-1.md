@@ -50,7 +50,7 @@ Aufgenommen, abgemischt und gemastert hat "God" Francis Caste in den Sainte-Mart
 
 SaaR sind: Alexandre Le Mouroux (Gitarren), Boris Patchinsky (Bass), Julien Taubregeas (Drums) und Yann Desti (Gitarren).
 
-![SaaR (Die Band sitzt auf dem Boden vor ihren Instrumenten)](/img/saar.jpg "SaaR| large")
+![SaaR (Die Band sitzt auf dem Boden vor ihren Instrumenten)](/img/saar.jpg "SaaR"| large)
 
 ## SaaR – "Gods" zum Reinhören
 
