@@ -68,7 +68,7 @@ Die Platte besteht aus zwei neuen Kompositionen und drei überarbeiteten, neu st
 
 Die Aufnahmen sind mit atmosphärischen und ätherischen Klanglandschaften angereichert. Raphaël Verguins Cello verleiht dem Gesamtsound von Maudits eine geisterhafte Stimmung.
 
-Das neue Confined Album unterstreicht das Streben der Bandmitglieder nach Freiheit und ihr unstillbarer Bedürfnis, die Bereiche ihrer musikalischen Welt zu immer weiterzuerkunden.
+Das neue Kurz-Album unterstreicht das Streben der Bandmitglieder nach Freiheit und ihr unstillbarer Bedürfnis, die Bereiche ihrer musikalischen Welt zu immer weiterzuerkunden.
 
 ![Maudits (Zwei Menschen halten sich mit den Händen die Augen zu) | large](/img/maudits.jpg "Maudits")
 
