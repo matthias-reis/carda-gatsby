@@ -1,6 +1,6 @@
 ---
 date: 2021-11-19T15:48:54.793Z
-slug: closet-disco-queen-maudits-saar-de
+slug: closet-disco-queen-maudits-saar
 typeName: Review
 title: Closet Disco Queen, Maudits & SaaR
 subTitle: Drei Platten fürs Wochenende
@@ -40,7 +40,7 @@ languageLink: 2021-11/closet-disco-queen-maudits-saar-en/
 
 SaaR gründeten sich 2010 in Paris. Das Post-Metal Kollektiv sieht seine Einflüsse in Bands wie Bossk, Russian Circle, Cult of Luna und Isis. Die Musik der Band ist eine Mischung aus Post-Rock und hartem Post-Metal – mit schönen ätherischen Momenten hier und da.
 
-![](/img/saar.jpeg)
+![SaaR – "Gods" Plattencover (Hochhaus mit Wolkenhimmel)](/img/saar.jpeg "SaaR – \"Gods\"")
 
 Was intensiv und abwechslungsreich klingt, ist es auch. Auf die ersten beiden Alben und eine EP- und Split-LP-Serie folgt jetzt die neue LP "God". Dabei handelt es sich um ein Konzept-Album auf der Basis der Heldengedichte von Homer. Die Band greift darin mythologische Themen aus der epischen Geschichte des Odysseus auf, die Homer in seiner Odyssee schildert.
 
@@ -50,7 +50,7 @@ Aufgenommen, abgemischt und gemastert hat "God" Francis Caste in den Sainte-Mart
 
 SaaR sind: Alexandre Le Mouroux (Gitarren), Boris Patchinsky (Bass), Julien Taubregeas (Drums) und Yann Desti (Gitarren).
 
-![](/img/saar.jpg)
+![SaaR (Die Band sitzt auf dem Boden vor ihren Instrumenten)](/img/saar.jpg "SaaR | large ")
 
 ## SaaR – "Gods" zum Reinhören
 
@@ -60,7 +60,7 @@ SaaR sind: Alexandre Le Mouroux (Gitarren), Boris Patchinsky (Bass), Julien Taub
 
 Die zweite Platte, die ich Euch heute empfehle, stammt von Maudits. Das ebenfalls aus Paris stammende Klangkollektiv veröffentlichte "Angel Mort" direkt im Anschluss an das von der Kritik hochgelobte Debüt-Album "Maudis" am 5. November.
 
-![](/img/maudits.jpeg)
+![Maudits – "Angel Mort" Plattencover (Eine Bleistiftzeichnung von einer Hand, die im hohen Gras nach einer zerbrochenen Blume greift)](/img/maudits.jpeg "Maudits – \"Angel Mort\"")
 
 COVID-19 und drei Niederlagen, welche die Band hinnehmen musste, verschafften Maudits etwas Zeit,  an neuen Stücken zu arbeiten. So schafften die Künstler⋆innen es, sich in Zeiten von Social Distancing so gut es geht abzulenken - und diese Ablenkung klingt wirklich gut! "Angel Mort" ist auf jeden Fall ein würdiger Nachfolger für "Maudits".
 
@@ -70,7 +70,7 @@ Die Aufnahmen sind mit atmosphärischen und ätherischen Klanglandschaften anger
 
 Das neue Confined Album unterstreicht das Streben der Bandmitglieder nach Freiheit und ihr unstillbarer Bedürfnis, die Bereiche ihrer musikalischen Welt zu immer weiterzuerkunden.
 
-![](/img/maudits.jpg)
+![Maudits (Zwei Menschen halten sich mit den Händen die Augen zu)](/img/maudits.jpg "Maudits | large ")
 
 ## Maudits – "Résilience 2021" live at Incivil Tragedia Workshop (Solo Version)
 
@@ -80,7 +80,7 @@ Das neue Confined Album unterstreicht das Streben der Bandmitglieder nach Freihe
 
 Auch Closet Disco Queen haben schon wieder was Neues draußen, kaum, dass die Vinylpresse, aus der ["Omelette du Fromage"](/2021/08/closet-disco-queen-the-flying-raclettes-omelette-du-fromage/) erst vor Kurzem ratsgehüpft ist, abgekühlt ist.
 
-![](/img/closet-disco-queen.jpeg)
+![Closet Disco Queen – "Stadium Rock For Punk Bums" Plattencover (Abstrakte Comic-Zeichnung von einem Gesicht)](/img/closet-disco-queen.jpeg "Closet Disco Queen – \"Stadium Rock For Punk Bums\"")
 
 Die Bandgründer Luc Hess und Jona Nido sind in der Schweizer Musikszene alles andere, als unbeschriebene Blätter. Durch ihre Band Coilguns und als Begleitmusiker des Singer/Songwriters Loui Jucker kommen sie ziemlich viel rum. Jona Nido ist  außerdem der Gründer des in La Chaux-de-Fonds ansässigen Plattenlabels Hummus Records, auf dem unter zum Beispiel Emilie Zoé, Rorcal, Ester Poly, Coilguns, Stéphane Blok, Rorcal und Dirty Sound Magnet zu Hause sind. Auch die komplette Diskografie von Closet Disco Queen ist dort erschienen.
 
@@ -92,7 +92,7 @@ Der Titel der neuen EP "Stadium Rock For Punk Bums" ist eine Anspielung auf die 
 
 Und die Musik? Die Musik macht einfach nur Spaß! Sie ist herausragend, spannend, fantastisch musikalisch und außergewöhnlich! Hört Euch die Platte an, Ihr werdet es nicht bereuen. Der Mix aus Stoner, Punk und Metal erscheint am 3. Dezember. Ihr könnt hier aber schon mal reinhören.
 
-![](/img/closet-disco.jpg)
+![Closet Disco Queen (Die Bandmitglieder sitzen und stehen im Proberaum unter einer Lampe)](/img/closet-disco.jpg "Closet Disco Queen | large ")
 
 ## Closet Disco Queen – "Stadium Rock For Punk Bums" zum Reinhören
 
