@@ -31,7 +31,7 @@ focusKeyword: Maudits
 advertisement: false
 affiliate: false
 language: en
-languageLink: 2021-11/closet-disco-queen-maudits-saar/
+languageLink: /2021-11/closet-disco-queen-maudits-saar/
 ---
 **For a relaxed weekend, I have three quick music tips for you today – all three come from Klonosphere Records. They come from Closet Disco Queen, Maudits and SaaR. All three bands have recently released new records.**
 
