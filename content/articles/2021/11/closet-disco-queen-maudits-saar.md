@@ -49,11 +49,11 @@ The record comprises seven instrumental compositions plus one piece ("Truth"), w
 
 SaaR are: Alexandre Le Mouroux (guitars), Boris Patchinsky (bass), Julien Taubregeas (drums) and Yann Desti (guitars).
 
-![SaaR (The Band sitting in the studio in front of their instruments) | large](/img/saar.jpg "SaaR")
-
-## SaaR - "Gods" for a listen
+## SaaR - "Gods"
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1943744856/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://saar.bandcamp.com/album/gods-2">GODS by SaaR</a></iframe>
+
+![SaaR (The Band sitting in the studio in front of their instruments) | large](/img/saar.jpg "SaaR")
 
 ## Maudits – "Angel Mort"
 
@@ -69,11 +69,11 @@ They enriched their recordings with atmospheric and ethereal soundscapes. Rapha�
 
 The new confined album underlines the band members' quest for freedom and their insatiable need to keep exploring the realms of their musical world.
 
-![Maudits (Two humans hiding their eyes behind their hands) | large](/img/maudits.jpg "Maudits")
-
 ## Maudits - "Résilience 2021" live at Incivil Tragedia Workshop (Solo Version)
 
 <YouTube id="0T4ojBcJqVU" />
+
+![Maudits (Two humans hiding their eyes behind their hands) | large](/img/maudits.jpg "Maudits")
 
 ## Closet Disco Queen - "Stadium Rock For Punk Bums"
 
@@ -91,8 +91,8 @@ The title of the new EP, "Stadium Rock For Punk Bums", is a nod to 2017's "Sexy 
 
 And the music? The music is just fun! It is outstanding, exciting, extremely creative, experimental and exceptional! Listen to the record; you won't regret it. The mix of stoner, punk and metal will be in the stores on December 3rd. But you can already check it out here.
 
-![Closet Disco Queen standing in their rehearsal room | large](/img/closet-disco.jpg "Closet Disco Queenx")
-
 ## Closet Disco Queen - "Stadium Rock For Punk Bums"
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158460481/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://closetdiscoqueen.bandcamp.com/album/stadium-rock-for-punk-bums">Stadium Rock for Punk Bums by Closet Disco Queen</a></iframe>
+
+![Closet Disco Queen standing in their rehearsal room | large](/img/closet-disco.jpg "Closet Disco Queenx")
