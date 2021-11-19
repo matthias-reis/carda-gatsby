@@ -74,7 +74,7 @@ Das neue Confined Album unterstreicht das Streben der Bandmitglieder nach Freihe
 
 ## Maudits – "Résilience 2021" live at Incivil Tragedia Workshop (Solo Version)
 
-<YouTube id="T4ojBcJqVU" />
+<YouTube id="0T4ojBcJqVU" />
 
 ## Closet Disco Queen – "Stadium Rock For Punk Bums"
 
