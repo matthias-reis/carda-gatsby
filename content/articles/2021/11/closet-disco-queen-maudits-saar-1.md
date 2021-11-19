@@ -9,7 +9,7 @@ description: Für ein entspanntes Wochenende habe ich drei besondere Platten
   ausgesucht. Sie kommen von Closet Disco Queen, Maudits und SaaR. Alle drei
   Bands haben vor Kurzem neue Tonträger veröffentlicht.
 excerpt: Für ein entspanntes Wochenende habe ich heute drei schnelle Musiktipps
-  von Euch, die mir von Klonosphere Records zugespielt wurden. Sie kommen von
+  für Euch, die mir von Klonosphere Records zugespielt wurden. Sie kommen von
   Closet Disco Queen, Maudits und SaaR. Alle drei Bands haben vor Kurzem neue
   Tonträger veröffentlicht.
 image: /img/musik-wochenende.jpg
@@ -34,7 +34,7 @@ affiliate: false
 language: de
 languageLink: 2021-11/closet-disco-queen-maudits-saar-en/
 ---
-**Für ein entspanntes Wochenende habe ich heute drei schnelle Musiktipps von Euch, die mir von Klonosphere Records zugespielt wurden. Sie kommen von Closet Disco Queen, Maudits und SaaR. Alle drei Bands haben vor Kurzem neue Tonträger veröffentlicht.**
+**Für ein entspanntes Wochenende habe ich heute drei schnelle Musiktipps für Euch, die mir von Klonosphere Records zugespielt wurden. Sie kommen von Closet Disco Queen, Maudits und SaaR. Alle drei Bands haben vor Kurzem neue Tonträger veröffentlicht.**
 
 ## SaaR – "Gods"
 
