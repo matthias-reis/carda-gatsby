@@ -39,7 +39,7 @@ languageLink: 2021-11/closet-disco-queen-maudits-saar/
 
 SaaR formed in Paris in 2010. The post-metal collective sees its influences in bands like Bossk, Russian Circle, Cult of Luna and Isis. The band's music is a mixture of post-rock and hard post-metal with beautiful ethereal moments here and there.
 
-![SaaR - "Gods" – Album Cover (Skyscraper with clouds in black and white)](/img/saar.jpeg "SaaR – \"Gods\"")
+![SaaR - "Gods" – Album Cover (Skyscraper with clouds in black and white)](/img/saar.jpeg "SaaR – \\"Gods\\"")
 
 Their style is both: intense and varied. The new LP now follows their first two albums and an EP and split LP series. "God"  is a concept album based on the epic poems of Homer. The band takes up mythological themes from the epic story of Ulysses, which Homer describes in his Odyssey.
 
@@ -49,7 +49,7 @@ The record comprises seven instrumental compositions plus one piece ("Truth"), w
 
 SaaR are: Alexandre Le Mouroux (guitars), Boris Patchinsky (bass), Julien Taubregeas (drums) and Yann Desti (guitars).
 
-![SaaR (The Band sitting in the studio in front of their instruments)](/img/saar.jpg "SaaR")
+![SaaR (The Band sitting in the studio in front of their instruments)](/img/saar.jpg "SaaR | large ")
 
 ## SaaR - "Gods" for a listen
 
@@ -59,7 +59,7 @@ SaaR are: Alexandre Le Mouroux (guitars), Boris Patchinsky (bass), Julien Taubre
 
 The second record I recommend to you today comes from Maudits. The also Paris based sound collective released "Angel Mort" directly after their critically acclaimed debut album "Maudis" on November 5th.
 
-![Maudits – "Angel Mort" album cover (Pencil drawing of a hand grapping a flower in the high grass)](/img/maudits.jpeg "Maudits – \"Angel Mort\"")
+![Maudits – "Angel Mort" album cover (Pencil drawing of a hand grapping a flower in the high grass)](/img/maudits.jpeg "Maudits – \\"Angel Mort\\"")
 
 COVID-19 and three defeats the band had to accept bought Maudits some time to work on new pieces. So the artists managed to distract themselves as best they could in times of social distancing – and this distraction sounds good! "Angel Mort" is definitely a worthy successor to "Maudits".
 
@@ -69,7 +69,7 @@ They enriched their recordings with atmospheric and ethereal soundscapes. Rapha�
 
 The new confined album underlines the band members' quest for freedom and their insatiable need to keep exploring the realms of their musical world.
 
-![Maudits (Two humans hiding their eyes behind their hands)](/img/maudits.jpg "Maudits")
+![Maudits (Two humans hiding their eyes behind their hands)](/img/maudits.jpg "Maudits | large ")
 
 ## Maudits - "Résilience 2021" live at Incivil Tragedia Workshop (Solo Version)
 
@@ -79,7 +79,7 @@ The new confined album underlines the band members' quest for freedom and their 
 
 The vinyl press hasn't completely cooled down from ["Omelette du Fromage"](/2021/08/closet-disco-queen-the-flying-raclettes-omelette-du-fromage/) yet, and there comes a new record from Closet Disco Queen.
 
-![Closet Disco Queen - "Stadium Rock For Punk Bums" album cover (black and white abstract coming drawing of a face)](/img/closet-disco-queen.jpeg "Closet Disco Queen - \"Stadium Rock For Punk Bums\"")
+![Closet Disco Queen - "Stadium Rock For Punk Bums" album cover (black and white abstract coming drawing of a face)](/img/closet-disco-queen.jpeg "Closet Disco Queen - \\"Stadium Rock For Punk Bums\\"")
 
 The band's founders Luc Hess and Jona Nido are anything but blank slates in the Swiss music scene. They get around quite a bit through their band Coilguns and as backing musicians for singer/songwriter Loui Jucker. Jona Nido is also the founder of the La Chaux-de-Fonds-based record label Hummus Records, home to Emilie Zoé, Rorcal, Ester Poly, Coilguns, Stéphane Blok, Rorcal and Dirty Sound Magnet, among others. Closet Disco Queen also released their complete discography there.
 
@@ -91,7 +91,7 @@ The title of the new EP, "Stadium Rock For Punk Bums", is a nod to 2017's "Sexy 
 
 And the music? The music is just fun! It is outstanding, exciting, extremely creative, experimental and exceptional! Listen to the record; you won't regret it. The mix of stoner, punk and metal will be in the stores on December 3rd. But you can already check it out here.
 
-![Closet Disco Queen standing in their rehersal room](/img/closet-disco.jpg "Closet Disco Queen")
+![Closet Disco Queen standing in their rehersal room](/img/closet-disco.jpg "Closet Disco Queen | large ")
 
 ## Closet Disco Queen - "Stadium Rock For Punk Bums"
 
