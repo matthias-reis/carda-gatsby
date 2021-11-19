@@ -98,4 +98,4 @@ And the music? The music is outstanding! It is exciting, extremely creative, exp
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158460481/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://closetdiscoqueen.bandcamp.com/album/stadium-rock-for-punk-bums">Stadium Rock for Punk Bums by Closet Disco Queen</a></iframe>
 
-![Closet Disco Queen standing in their rehearsal room | large](/img/closet-disco.jpg "Closet Disco Queenx")
+![Closet Disco Queen standing in their rehearsal room | large](/img/closet-disco.jpg "Closet Disco Queen")
