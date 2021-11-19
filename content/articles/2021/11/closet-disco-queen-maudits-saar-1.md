@@ -50,7 +50,7 @@ Aufgenommen, abgemischt und gemastert hat "God" Francis Caste in den Sainte-Mart
 
 SaaR sind: Alexandre Le Mouroux (Gitarren), Boris Patchinsky (Bass), Julien Taubregeas (Drums) und Yann Desti (Gitarren).
 
-![SaaR (Die Band sitzt auf dem Boden vor ihren Instrumenten)| large](/img/saar.jpg "SaaR")
+![SaaR (Die Band sitzt auf dem Boden vor ihren Instrumenten) | large](/img/saar.jpg "SaaR")
 
 ## SaaR – "Gods" zum Reinhören
 
@@ -80,7 +80,7 @@ Das neue Confined Album unterstreicht das Streben der Bandmitglieder nach Freihe
 
 Auch Closet Disco Queen haben schon wieder was Neues draußen, kaum, dass die Vinylpresse, aus der ["Omelette du Fromage"](/2021/08/closet-disco-queen-the-flying-raclettes-omelette-du-fromage/) erst vor Kurzem ratsgehüpft ist, abgekühlt ist.
 
-![Closet Disco Queen – "Stadium Rock For Punk Bums" Plattencover (Abstrakte Comic-Zeichnung von einem Gesicht)| large](/img/closet-disco-queen.jpeg "Closet Disco Queen – \"Stadium Rock For Punk Bums\"")
+![Closet Disco Queen – "Stadium Rock For Punk Bums" Plattencover (Abstrakte Comic-Zeichnung von einem Gesicht) | large](/img/closet-disco-queen.jpeg "Closet Disco Queen – \"Stadium Rock For Punk Bums\"")
 
 Die Bandgründer Luc Hess und Jona Nido sind in der Schweizer Musikszene alles andere, als unbeschriebene Blätter. Durch ihre Band Coilguns und als Begleitmusiker des Singer/Songwriters Loui Jucker kommen sie ziemlich viel rum. Jona Nido ist  außerdem der Gründer des in La Chaux-de-Fonds ansässigen Plattenlabels Hummus Records, auf dem unter zum Beispiel Emilie Zoé, Rorcal, Ester Poly, Coilguns, Stéphane Blok, Rorcal und Dirty Sound Magnet zu Hause sind. Auch die komplette Diskografie von Closet Disco Queen ist dort erschienen.
 
