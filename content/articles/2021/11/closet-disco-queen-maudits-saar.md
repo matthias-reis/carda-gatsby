@@ -64,7 +64,7 @@ The second record I recommend to you today comes from Maudits. The also Paris ba
 
 COVID-19 and three defeats the band had to accept bought Maudits some time to work on new pieces. So the artists managed to distract themselves as best they could in times of social distancing – and this distraction sounds good! "Angel Mort" is definitely a worthy successor to "Maudits".
 
-The record consists of two new compositions and three reworked, restructured and re-recorded songs you can also find on the first album. Maudits started recording it in cooperation with Henosis Studios, who were also on board for the first album, their vision about what they wanted to do was crystal-clear. The reinterpretation has succeeded so well that the pieces could almost be called new songs.
+The record consists of two new compositions and three reworked, restructured and re-recorded songs you can also find on the first album. When Maudits started recording it in cooperation with Henosis Studios, who had also been on board for the first album, their vision about what they wanted to do was crystal-clear. The reinterpretation has succeeded so well that the pieces could almost be called new songs.
 
 They enriched their recordings with atmospheric and ethereal soundscapes. Raphaël Verguin's cello adds a ghostly mood to the overall sound of Maudits.
 
