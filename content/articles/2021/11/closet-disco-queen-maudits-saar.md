@@ -38,7 +38,7 @@ languageLink: /2021/11/closet-disco-queen-maudits-saar/
 
 ## SaaR – "Gods"
 
-SaaR formed in Paris in 2010. The post-metal collective sees its influences in bands like Bossk, Russian Circle, Cult of Luna and Isis. The band's music is a mixture of post-rock and hard post-metal with beautiful ethereal moments here and there.
+SaaR formed in Paris in 2010. The post-metal collective sees its influences in bands like Bossk, Russian Circle, Cult of Luna and Isis. The band's music is a mixture of post-rock and heavy post-metal with beautiful ethereal moments here and there.
 
 ![SaaR - "Gods" – Album Cover (Skyscraper with clouds in black and white)](/img/saar.jpeg "SaaR – \\"Gods\\"")
 
