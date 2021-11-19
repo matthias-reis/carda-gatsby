@@ -50,7 +50,7 @@ Aufgenommen, abgemischt und gemastert hat "God" Francis Caste in den Sainte-Mart
 
 SaaR sind: Alexandre Le Mouroux (Gitarren), Boris Patchinsky (Bass), Julien Taubregeas (Drums) und Yann Desti (Gitarren).
 
-![SaaR (Die Band sitzt auf dem Boden vor ihren Instrumenten)](/img/saar.jpg "SaaR"| large)
+![SaaR (Die Band sitzt auf dem Boden vor ihren Instrumenten)](/img/saar.jpg "SaaR")
 
 ## SaaR – "Gods" zum Reinhören
 
@@ -70,7 +70,7 @@ Die Aufnahmen sind mit atmosphärischen und ätherischen Klanglandschaften anger
 
 Das neue Confined Album unterstreicht das Streben der Bandmitglieder nach Freiheit und ihr unstillbarer Bedürfnis, die Bereiche ihrer musikalischen Welt zu immer weiterzuerkunden.
 
-![Maudits (Zwei Menschen halten sich mit den Händen die Augen zu)](/img/maudits.jpg "Maudits")| large
+![Maudits (Zwei Menschen halten sich mit den Händen die Augen zu)](/img/maudits.jpg "Maudits")
 
 ## Maudits – "Résilience 2021" live at Incivil Tragedia Workshop (Solo Version)
 
@@ -92,7 +92,7 @@ Der Titel der neuen EP "Stadium Rock For Punk Bums" ist eine Anspielung auf die 
 
 Und die Musik? Die Musik macht einfach nur Spaß! Sie ist herausragend, spannend, fantastisch musikalisch und außergewöhnlich! Hört Euch die Platte an, Ihr werdet es nicht bereuen. Der Mix aus Stoner, Punk und Metal erscheint am 3. Dezember. Ihr könnt hier aber schon mal reinhören.
 
-![Closet Disco Queen (Die Bandmitglieder sitzen und stehen im Proberaum unter einer Lampe)](/img/closet-disco.jpg "Closet Disco Queen")| large
+![Closet Disco Queen (Die Bandmitglieder sitzen und stehen im Proberaum unter einer Lampe)](/img/closet-disco.jpg "Closet Disco Queen")
 
 ## Closet Disco Queen – "Stadium Rock For Punk Bums" zum Reinhören
 
