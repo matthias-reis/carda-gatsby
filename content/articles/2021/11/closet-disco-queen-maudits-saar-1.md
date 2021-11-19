@@ -92,7 +92,7 @@ Der Titel der neuen EP "Stadium Rock For Punk Bums" ist eine Anspielung auf die 
 
 Und die Musik? Die Musik macht einfach nur Spaß! Sie ist herausragend, spannend, fantastisch musikalisch und außergewöhnlich! Hört Euch die Platte an, Ihr werdet es nicht bereuen. Der Mix aus Stoner, Punk und Metal erscheint am 3. Dezember. Ihr könnt hier aber schon mal reinhören.
 
-![Closet Disco Queen (Die Bandmitglieder sitzen und stehen im Proberaum unter einer Lampe)| large](/img/closet-disco.jpg "Closet Disco Queen")
+![Closet Disco Queen (Die Bandmitglieder sitzen und stehen im Proberaum unter einer Lampe) | large](/img/closet-disco.jpg "Closet Disco Queen")
 
 ## Closet Disco Queen – "Stadium Rock For Punk Bums" zum Reinhören
 
