@@ -28,6 +28,8 @@ labels:
   - Band
   - Review
   - Review
+  - Experimental
+  - Instrumental
 focusKeyword: Maudits
 advertisement: false
 affiliate: false
@@ -90,7 +92,7 @@ Closet Disco Queen played at the London and Berlin editions of Desert Fest and h
 
 The title of the new EP, "Stadium Rock For Punk Bums", is a nod to 2017's "Sexy Audio Deviance for Punk Bums" and part of a new unique collection of 12-inch vinyl singles. The "Hummus 12'' Maxi Collection" is pressed exclusively on clear or transparent coloured vinyl. The record comes in a picture disc-like sleeve with a minimalist graphic design. Side A of the vinyl contains the music, while side B features an original drawing by guitarist Jona Nido, screen-printed by Out of Gas in La Chaux-de-Fonds.
 
-And the music? The music is just fun! It is outstanding, exciting, extremely creative, experimental and exceptional! Listen to the record; you won't regret it. The mix of stoner, punk and metal will be in the stores on December 3rd. But you can already check it out here.
+And the music? The music is outstanding! It is exciting, extremely creative, experimental and exceptional! Listen to the record; you won't regret it. The mix of stoner, punk and metal will be in the stores on December 3rd. But you can already check it out here.
 
 ## Closet Disco Queen - "Stadium Rock For Punk Bums"
 
