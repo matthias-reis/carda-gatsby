@@ -49,7 +49,7 @@ The record comprises seven instrumental compositions plus one piece ("Truth"), w
 
 SaaR are: Alexandre Le Mouroux (guitars), Boris Patchinsky (bass), Julien Taubregeas (drums) and Yann Desti (guitars).
 
-![SaaR (The Band sitting in the studio in front of their instruments)](/img/saar.jpg "SaaR")
+![SaaR (The Band sitting in the studio in front of their instruments)| large](/img/saar.jpg "SaaR")
 
 ## SaaR - "Gods" for a listen
 
@@ -69,7 +69,7 @@ They enriched their recordings with atmospheric and ethereal soundscapes. Rapha√
 
 The new confined album underlines the band members' quest for freedom and their insatiable need to keep exploring the realms of their musical world.
 
-![Maudits (Two humans hiding their eyes behind their hands)](/img/maudits.jpg "Maudits")
+![Maudits (Two humans hiding their eyes behind their hands)| large](/img/maudits.jpg "Maudits")
 
 ## Maudits - "R√©silience 2021" live at Incivil Tragedia Workshop (Solo Version)
 
@@ -91,7 +91,7 @@ The title of the new EP, "Stadium Rock For Punk Bums", is a nod to 2017's "Sexy 
 
 And the music? The music is just fun! It is outstanding, exciting, extremely creative, experimental and exceptional! Listen to the record; you won't regret it. The mix of stoner, punk and metal will be in the stores on December 3rd. But you can already check it out here.
 
-![Closet Disco Queen standing in their rehersal room](/img/closet-disco.jpg "Closet Disco Queenx")
+![Closet Disco Queen standing in their rehearsal room| large](/img/closet-disco.jpg "Closet Disco Queenx")
 
 ## Closet Disco Queen - "Stadium Rock For Punk Bums"
 
