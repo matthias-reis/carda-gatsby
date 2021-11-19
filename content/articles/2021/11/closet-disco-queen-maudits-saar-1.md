@@ -28,6 +28,8 @@ labels:
   - Band
   - Review
   - Review
+  - Experimental
+  - Instrumental
 focusKeyword: Maudits
 advertisement: false
 affiliate: false
