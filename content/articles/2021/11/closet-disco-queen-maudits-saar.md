@@ -1,6 +1,6 @@
 ---
 date: 2021-11-19T15:32:37.306Z
-slug: closet-disco-queen-maudits-saar
+slug: closet-disco-queen-maudits-saar-en
 typeName: Review
 title: Closet Disco Queen, Maudits & SaaR
 subTitle: Three records for the weekend
