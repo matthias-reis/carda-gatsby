@@ -5,12 +5,13 @@ typeName: Review
 title: Closet Disco Queen, Maudits & SaaR
 subTitle: Three records for the weekend
 seoTitle: Closet Disco Queen, Maudits & SaaR – records for the weekend
-description: For a relaxed weekend, I have three quick music tips for you today
-  – all three come from Klonosphere Records. They come from Closet Disco Queen,
-  Maudits and SaaR. All three bands have recently released new records.
-excerpt: For a relaxed weekend, I have three quick music tips from you today –
-  all three come from Klonosphere Records. They come from Closet Disco Queen,
-  Maudits and SaaR. All three bands have recently released new records.
+description: For a relaxed weekend, I have three quick music tips from
+  Klonosphere Records for you. They come from Closet Disco Queen, Maudits and
+  SaaR. All three bands have recently released new records.
+excerpt: For a relaxed weekend, I have three quick music tips for you today –
+  Klonosphere Records dropped me a line and send them over. They come from
+  Closet Disco Queen, Maudits and SaaR. All three bands have recently released
+  new records.
 image: /img/musik-wochenende.jpg
 copyrigt: Closet Disco Queen, SaaR, Maudits
 ogImage: /img/musik-wochenende-fb-1-.png
@@ -33,7 +34,7 @@ affiliate: false
 language: en
 languageLink: /2021/11/closet-disco-queen-maudits-saar/
 ---
-**For a relaxed weekend, I have three quick music tips for you today – all three come from Klonosphere Records. They come from Closet Disco Queen, Maudits and SaaR. All three bands have recently released new records.**
+**For a relaxed weekend, I have three quick music tips for you today – Klonosphere Records dropped me a line and send them over. They come from Closet Disco Queen, Maudits and SaaR. All three bands have recently released new records.**
 
 ## SaaR – "Gods"
 
