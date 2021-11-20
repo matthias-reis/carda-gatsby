@@ -2,10 +2,12 @@
 templateKey: article
 title: Das Geschäft mit dem Pferdeblut
 subTitle: Tierschützer zeigen Tierquälerei auf Blutfarmen
-description: Erst vor Kurzem haben Tierschützer aufgedeckt wie in Uruguay und
-  Argentinien trächtige Pferde grausam gequält werden.
+description: >-
+  Erst vor Kurzem haben Tierschützer aufgedeckt wie in Uruguay und Argentinien trächtige Pferde grausam gequält werden.
+
+
 date: 2015-12-01T15:17:12.135Z
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/listeria-monocytogenes-columbia-horse-blood-agar-detail-imagine-e81818_d13e3a_1440_1080/640.webp
+image: '/img/listeria_monocytogenes_-_columbia_horse_blood_agar_-detail.jpg'
 labels:
   - Tierrechte
   - Blutfarmen
@@ -24,7 +26,7 @@ Das Team der Tierrechtsorganisation Animal Welfare Foundation\[^2] filmte am 16.
 
 ## Tausende Stuten werden gequält
 
-![Dünnes Pferd](https://storage.googleapis.com/cardamonchai-media/2021-11-14/skinny-horse-5910370980-imagine-986858_9e7e78_467_350/640.webp 'Dünnes Pferd')
+![Dünnes Pferd](/img/skinny_horse_-5910370980-.jpg 'Dünnes Pferd')
 
 Syntex gilt als Weltmarktführer für den Export von Pferdeblut-Produkten. Dafür werden tausende von Stuten gehalten. Sie werden so oft wie möglich befruchtet, denn nur wenn sie schwanger sind, kann ihnen das wertvolle Blutserum abgezapft werden, aus dem das Hormon PMSG (Pregnant Mare Serum Gonadotropin) gewonnen wird.
 

@@ -12,9 +12,9 @@ excerpt: Four years after their first official album, "An Asphyxiating Embrace",
   Rongeur released a new record on November 5th. If you like your music raw and
   heavy or are a fan of bands like Neurosis and High on Fire, you shouldn't miss
   "Glacier Tongue".
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/glacier-tongue-1-imagine-080808_000000_1024_768/640.webp
+image: /img/glacier-tongue-1-.jpg
 copyrigt: Rongeur
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/glacier-tongue-fb-imagine-080808_5c6d75_1200_628/640.webp
+ogImage: /img/glacier-tongue-fb.png
 labels:
   - Sludge
   - Sludge Core
@@ -34,7 +34,6 @@ affiliate: false
 language: en
 languageLink: /2021/11/rongeur-glacier-tongue/
 ---
-
 **Four years after their first official album, "An Asphyxiating Embrace", Rongeur released a new record on November 5th. If you like your music raw and heavy or are a fan of bands like Neurosis and High on Fire, you shouldn't miss "Glacier Tongue".**
 
 Rongeur was formed in 2012, when former members of Ampmandens Døtre, Exeloume, Untime and Martyrs got together to enjoy making music. They recorded various demos and split EPs before releasing their debut on Poacher Records and Ampmandens Records in 2017.
@@ -43,7 +42,7 @@ In the meantime, the band from Oslo has landed on Fysisk Format. They also relea
 
 ## "Glacier Tongue" is an angry statement
 
-![Rongeur – "Glacier Tongue"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/823618-imagine-081828_537584_425_425/640.webp "Rongeur – \"Glacier Tongue\"")
+![Rongeur – "Glacier Tongue"](/img/823618.jpeg "Rongeur – \"Glacier Tongue\"")
 
 "Glacier Tongue" offers a total of eight songs full of raw and harsh beauty. The record is political, straightforward and quite brutal. 
 
@@ -55,7 +54,7 @@ Bassist and singer Dag Ole H. Huseby, drummer and singer Jon Dahl Tveter and gui
 
 ## Rongeur have become more versatile
 
-![Rongeur](https://storage.googleapis.com/cardamonchai-media/2021-11-14/glacier-tongue-2-imagine-080808_000000_768_1024/640.webp "Rongeur")
+![Rongeur](/img/glacier-tongue-2-.jpg "Rongeur")
 
 "Glacier Tongue" is a wildly rotating musical maelstrom. If you compare the record with the previous album, you will notice that the trio has gained even more drive and versatility. Rongeur are in the fast lane at full speed and ready to take on the genre's giants. With that slight touch of punk attitude, sludge really gets you going.
 

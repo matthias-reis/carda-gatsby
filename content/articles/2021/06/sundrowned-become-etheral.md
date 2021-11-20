@@ -1,40 +1,40 @@
 ---
-date: 2021-05-02T17:21:42.000Z
+date: 2021-05-02T17:21:42Z
 labels:
-  - Sundrowned
-  - Norway
-  - Post-Rock
-  - Post-Black-Metal
-  - Metal
-  - Review
-  - Reviews
-  - Atmospheric Post-Metal
-  - Post-Metal
-  - Blackgaze
-  - Haugesund
-  - Bands
-  - English & German
-  - Jone Amundsen Piscopo
+- Sundrowned
+- Norway
+- Post-Rock
+- Post-Black-Metal
+- Metal
+- Review
+- Reviews
+- Atmospheric Post-Metal
+- Post-Metal
+- Blackgaze
+- Haugesund
+- Bands
+- English & German
+- Jone Amundsen Piscopo
 language: en
 slug: sundrowned-become-etheral-en
 typeName: Review
 title: Sundrowned – "Become Etheral"
 subTitle: Post-Black Metal From Norway
 seoTitle: Sundrowned – "Become Etheral" – Post-Black Metal From Norway
-ogTitle: ""
-description: On Friday, Sundrowned will release their debut album "Become
-  Etheral". I have already listened to it and strongly recommend it to you. It
-  is a marvellous piece of work that you definitely shouldn't miss.
-excerpt: ""
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/473924-imagine-0878b8_067cb7_1440_1080/640.webp
+ogTitle: ''
+description: On Friday, Sundrowned will release their debut album "Become Etheral".
+  I have already listened to it and strongly recommend it to you. It is a marvellous
+  piece of work that you definitely shouldn't miss.
+excerpt: ''
+image: "/img/473924.jpg"
 copyright: Sundrowned
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/sundrowned-fb-imagine-0868a8_087cb6_1200_628/640.webp
-focusKeyword: ""
+ogImage: "/img/sundrowned-fb.jpg"
+focusKeyword: ''
 advertisement: false
 affiliate: false
-languageLink: /2021/06/sundrowned-become-etheral
----
+languageLink: "/2021/06/sundrowned-become-etheral"
 
+---
 **On Friday, Sundrowned will release their debut album "Become Etheral". I have already listened to it and strongly recommend it to you. It is a marvellous piece of work that you definitely shouldn't miss.**
 
 Drowning in the sun and dissolving into an ethereal figure of light – whether the album is about that is a wild guess. But it's not just the title and band name that stimulate the imagination and provide a strong pitch for stories.
@@ -43,7 +43,7 @@ The post-black metal band from Haugesund, Norway, released their debut on Fisisk
 
 ## Sundrowned combines lightness and heavy riffs
 
-![Sundrowned – "Become Etheral"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/708576-imagine-48b8f8_60bfef_1440_1440/640.webp 'Sundrowned – "Become Etheral"')
+![Sundrowned – "Become Etheral"](/img/708576.jpg 'Sundrowned – "Become Etheral"')
 
 Sundrowned's sound is partly reminiscent of bands like Rosetta and Alcest but follows a different approach. The focus lies on atmospheric sounds and melancholic melodies. The heavy riffs are more like a strong background that holds everything together – but that doesn't detract from the joy.
 

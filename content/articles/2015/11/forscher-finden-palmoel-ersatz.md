@@ -2,10 +2,12 @@
 templateKey: article
 title: Forscher finden Palmöl-Ersatz
 subTitle: Vielleicht die Rettung für die Orang-Utans?
-description: Forscher entwickeln derzeit einen Palmöl-Ersatz auf Hefebasis.
-  Bedeutet das die Rettung der Orang-Utans?
+description: >-
+  Forscher entwickeln derzeit einen Palmöl-Ersatz auf Hefebasis. Bedeutet das die Rettung der Orang-Utans?
+
+
 date: 2015-12-10T14:51:50.675Z
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/forscher-finden-palmoel-ersatz-imagine-181818_323130_1440_1019/640.webp
+image: '/img/forscher-finden-palmoel-ersatz.jpg'
 labels:
   - Palmöl
   - Orang-Utan

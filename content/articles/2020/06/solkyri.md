@@ -1,40 +1,40 @@
 ---
 labels:
-  - Post-Rock
-  - Bands
-  - Interview
-  - Interviews
-  - English & German
-  - Australian Post-Rock
-  - Bird's Robe Records
-  - DUNK!records
-  - DUNK!festival
-  - Dunk Festival
-  - Dunk Records
-  - Mount Pleasant
-  - Solkyri
-  - Sidney
+- Post-Rock
+- Bands
+- Interview
+- Interviews
+- English & German
+- Australian Post-Rock
+- Bird's Robe Records
+- DUNK!records
+- DUNK!festival
+- Dunk Festival
+- Dunk Records
+- Mount Pleasant
+- Solkyri
+- Sidney
 language: en
-date: 2020-06-12T19:00:00.000Z
+date: 2020-06-12T21:00:00.000+02:00
 slug: solkyri-interview-en
 typeName: Interview
 title: Solkyri
 subTitle: '"Post-rock leaves a lot open to the imagination"'
 seoTitle: Interview With Solkyri – "Post-rock leaves a lot open to the imagination"
-ogTitle: ""
-description: Recently the Australian post-rock band Solkyri released their
-  sensational new album "Mount Pleasant". Andrew Pearsall (bass, percussion,
-  synthesizer) talked to me about it.
-excerpt: ""
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/solkyri-1-imagine-080808_353834_1024_768/640.webp
+ogTitle: ''
+description: Recently the Australian post-rock band Solkyri released their sensational
+  new album "Mount Pleasant". Andrew Pearsall (bass, percussion, synthesizer) talked
+  to me about it.
+excerpt: ''
+image: "/img/solkyri-1.jpeg"
 copyright: Solkyri
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/solkyri-fb-imagine-080808_373834_1200_628/640.webp
+ogImage: "/img/solkyri-fb.png"
 focusKeyword: Solkyri
 advertisement: false
 affiliate: false
-languageLink: /2020/06/solkyri-interview
----
+languageLink: "/2020/06/solkyri-interview"
 
+---
 **Recently the Australian post-rock band Solkyri released their sensational new album "Mount Pleasant". Andrew Pearsall (bass, percussion, synthesizer) talked to me about it.**
 
 **Anne:** Hi! Thank you very much for this interview! How are things going? We would have met at this year's DUNK! Festival but unfortunately due to Corona, it couldn't take place. Are you still planning on coming to Europe, soon?

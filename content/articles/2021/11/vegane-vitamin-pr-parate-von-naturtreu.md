@@ -13,9 +13,9 @@ excerpt: Sie heißen "Blütezeit", "Pflanzenheld" und "Schutzschild" und sind in
   stehen die veganen Vitamin-Präparate für verschiedene Lebenslagen von
   Naturtreu. Ich habe jetzt mal eine Auswahl der Produkte für den Winter
   getestet
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-10-26-produkttest-75-naturtreu-vitamine-imagine-d8d8d8_bab8ae_1024_768/640.webp
+image: /img/2021-10-26-produkttest-75-naturtreu-vitamine.jpg
 copyrigt: ""
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/naturtreu-vitamine-fb-imagine-c8c8b8_a6a195_1200_628/640.webp
+ogImage: /img/naturtreu-vitamine-fb.png
 labels:
   - Naturtreu
   - Vitamine
@@ -31,7 +31,6 @@ advertisement: true
 affiliate: true
 language: de
 ---
-
 **Sie heißen "Blütezeit", "Pflanzenheld" und "Schutzschild" und sind in kleine braune Fläschchen und Tiegel verpackt. Hinter den fantasievollen Namen stehen die veganen Vitamin-Präparate für verschiedene Lebenslagen von Naturtreu. Ich habe jetzt mal eine Auswahl der Produkte für den Winter getestet.**
 
 Winterzeit bedeutet ja meistens auch Erkältungszeit. Um mein Immunsystem zu schützen, achte ich darauf, dass ich über die Nahrung immer genügend Vitamine zu mir nehme. 

@@ -9,9 +9,9 @@ description: "Hafermilch selber machen – wolltet Ihr das auch schon immer mal
   ausprobieren? Ich habe gemerkt: Es geht eigentlich ganz einfach. Ihr braucht
   im Grunde nur zwei Zutaten, Euren Mixer und einen Nussmilchbeutel. Dann kann
   es auch schon losgehen."
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-08-03-ecomonkey-12-imagine-b8b898_aaa699_1024_768/640.webp
+image: /img/2021-08-03-ecomonkey-12.jpg
 copyrigt: ""
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/hafermilch-selber-machen-imagine-c8c8b8_b2afa3_1200_628/640.webp
+ogImage: /img/hafermilch-selber-machen.jpg
 labels:
   - Zero Waste
   - Hafermilch
@@ -30,7 +30,6 @@ advertisement: false
 affiliate: true
 language: de
 ---
-
 **Hafermilch selber machen – wolltet Ihr das auch schon immer mal ausprobieren? Ich habe gemerkt: Es geht eigentlich ganz einfach. Ihr braucht im Grunde nur zwei Zutaten, Euren Mixer und einen Nussmilchbeutel. Dann kann es auch schon losgehen.**
 
 Hafermilch hat sich zur beliebtesten Milch-Alternative gemausert. Inzwischen stellt sie sogar Sojamilch in den Schatten. Und das hat viele Gründe: Die meisten empfinden den Geschmack von Hafermilch als angenehm. Sie ist leicht lieblich, aber nicht zu süß. Außerdem kann man sie wunderbar für Kaffeespezialitäten aufschäumen und sie harmoniert perfekt mit Müslis und Co.

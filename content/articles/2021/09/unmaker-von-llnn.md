@@ -9,9 +9,9 @@ description: 'Am 24. September erscheint ein Album, dass Ihr Euch auf alle Fäll
   schon mal vormerken solltet: "Unmaker" von LLNN ist ein Paradebeispiel für
   düsteren, harten Post-Metal. Wenn Euch dieses Genre begeistert, führt kein Weg
   an diesem Monolithen vorbei.'
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/llnn-imagine-181818_000000_1024_768/640.webp
+image: /img/llnn.jpg
 copyrigt: LLNN
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/llnn-fb-imagine-282828_454545_1200_628/640.webp
+ogImage: /img/llnn-fb.png
 labels:
   - Kopenhagen
   - Unmaker
@@ -26,7 +26,6 @@ affiliate: false
 language: de
 languageLink: /2021/09/llnn-unmaker-en/
 ---
-
 **Am 24. September erscheint ein Album, dass Ihr Euch auf alle Fälle schon mal vormerken solltet: "Unmaker" von LLNN ist ein Paradebeispiel für düsteren, harten Post-Metal. Wenn Euch dieses Genre begeistert, führt kein Weg an diesem Monolithen vorbei.**
 
 Der erste Song "Imperial" ist klangvoll und bedrohlich, hart und energiegeladen. Schweißtreibende schwere Bässe lösen sich mit dröhnenden Gitarrenriffs ab. Ich finde, das macht richtig Laune.
@@ -37,7 +36,7 @@ Als Nächstes folgt "Desecrator" LLNN Sound Designer Ketil G. Sejersen beschreib
 
 > "In chaotischen Zeiten sprießen chaotische Klang-Vibrationen in Form von pulverisierender Energie, Verzweiflung und Schwere. Genau davon handelt dieser Song."
 
-![LLNN – "Unmaker"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/llnn1625512125413194-imagine-080808_2c241d_440_440/640.webp "LLNN – \"Unmaker\"")
+![LLNN – "Unmaker"](/img/llnn1625512125413194.jpg "LLNN – \"Unmaker\"")
 
 Was krass klingt, ist es auch. Der zweite Track auf der Platte verzichtet in seinen 4:13 auf Gehörschutz. Er holt die Hörer⋆innen da ab, wo wir alle uns gerade befinden: Auf einer Welle der Verwirrung und des Zweifels, ungewiss, was uns an der nächsten Ecke begegnen wird. Gleichzeitig ist er eine guturale Einladung, weiter in den Sounduntergrund von LLNN einzutauchen und die Finsternis und Schwere zu erforschen, die uns dort erwartet.
 
@@ -55,7 +54,7 @@ Schön, wie sich die Platte entwickelt. Den Worten von Sänger und Gitarrist Chr
 
 > "In dem Song geht es darum, sich wertlos zu fühlen. Für immer dazu verdammt, mit den Kindern am Esstisch zu sitzen und mit den Resten der Banketts der König⋆innen abgespeist zu werden."
 
-![LLNN](https://storage.googleapis.com/cardamonchai-media/2021-11-14/llnn-1-imagine-182828_4c453a_1024_768/640.webp "LLNN")
+![LLNN](/img/llnn-1.jpg "LLNN")
 
 Jeder Song erzählt seine eigene Geschichte. Insgesamt entsteht so ein monumentales Epos, das Ihr auf jeden Fall an einem Stück hören solltet, wenn es so weit ist.
 
@@ -65,7 +64,7 @@ Jeder Song erzählt seine eigene Geschichte. Insgesamt entsteht so ein monumenta
 
 "Forger" startet in vollem Tempo, metallisch und ärgerlich – roh und wunderbar. Es folgt der mit 6:03 längste Song auf "Unmaker". Auf melodische Weise hält er an der Storyline fest und fährt nach einem kurzen, fast besinnlich wirkenden Auftakt sofort zu gewohnten Härte hoch, die sich mit spannenden Phasen der Ruhe abwechselt. Genau dieser Wechsel aus soliden Plateaus und nachdenklichen Momenten macht den Track zu meinem Lieblings-Song auf dem Album.
 
-![LLNN](https://storage.googleapis.com/cardamonchai-media/2021-11-14/llnn-2-imagine-2838c8_6d7adf_1024_768/640.webp "LLNN")
+![LLNN](/img/llnn-2.jpg "LLNN")
 
 Der nächste Song "Tethers" bietet anschließend einen guten Übergang. Er setzt eine weitere, kontrastreiche Landmarke. Für ein würdevolles Finale sorgt "Resurrection", das wie die Landung nach einem jahrelangen Erkundungsflug durch die Tiefen des Alls wirkt.
 

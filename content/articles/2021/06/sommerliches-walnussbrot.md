@@ -5,14 +5,10 @@ typeName: Beitrag
 title: Sommerliches Walnussbrot
 subTitle: Saftiger Sauerteig-Genuss
 seoTitle: Sommerliches Walnussbrot – Saftiger Sauerteig-Genuss
-description: Walnussbrot gehört für mich zum Sommer dazu. Am besten schmeckt es
-  in Kombination mit einem richtig schönen knackigen Salat.
-excerpt: Walnussbrot gehört für mich zum Sommer dazu. Am besten schmeckt es in
-  Kombination mit einem richtig schönen knackigen Salat. Vorzugsweise bei einem
-  Picknick im Grünen. Heute verrate ich Euch mein Rezept – es lässt sich nämlich
-  ganz leicht zubereiten.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/walnussbrot-imagine-b88868_8d6e4f_1024_768/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/walnussbrot-fb-imagine-080808_7c6145_1200_628/640.webp
+description: Walnussbrot gehört für mich zum Sommer dazu. Am besten schmeckt es in Kombination mit einem richtig schönen knackigen Salat.
+excerpt: Walnussbrot gehört für mich zum Sommer dazu. Am besten schmeckt es in Kombination mit einem richtig schönen knackigen Salat. Vorzugsweise bei einem Picknick im Grünen. Heute verrate ich Euch mein Rezept – es lässt sich nämlich ganz leicht zubereiten.
+image: /img/walnussbrot.jpg
+ogImage: /img/walnussbrot-fb.jpg
 labels:
   - Backen
   - Brot

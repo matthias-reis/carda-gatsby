@@ -5,12 +5,10 @@ typeName: Review
 title: Oslo Tapes – "Ør"
 subTitle: New Album In June
 seoTitle: Oslo Tapes – "Ør" – New Album In June
-description: On June 4th, Oslo Tapes will release their new album on Pelagic
-  Records. Especially fans of Nine Inch Nails, Massive Attack, My Bloody
-  Valentine, and Portishead should not miss it.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-04-oslo-tapes-l-imagine-080808_44383a_1440_1080/640.webp
+description: On June 4th, Oslo Tapes will release their new album on Pelagic Records. Especially fans of Nine Inch Nails, Massive Attack, My Bloody Valentine, and Portishead should not miss it.
+image: /img/2021_04_oslo-tapes__l.jpeg
 copyrigt: Oslo Tapes
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-04-oslo-tapes-png-l-imagine-080808_544748_1440_754/640.webp
+ogImage: /img/2021_04_oslo-tapes.png__l.jpg
 labels:
   - Aventgarde
   - Bands

@@ -11,9 +11,9 @@ excerpt: Kollapse sind wieder da. Vier Jahre haben sie sich nach ihrem
   Debüt-Album "Angst" Zeit gelassen – am Freitag veröffentlicht die
   Sludge/Post-Metal Gruppe aus dem dänischen Aalborg ihre zweite Platte. Sie
   trägt den Namen "Sult" und ist mehr als nur hörbar.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/kollapse-imagine-f8f8f8_7c7c7c_1024_768/640.webp
+image: /img/kollapse.jpg
 copyrigt: Kollapse
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/kollapse-fb-imagine-686868_686462_1200_628/640.webp
+ogImage: /img/kollapse-fb.jpg
 labels:
   - Dänemark
   - Post-Metal
@@ -33,14 +33,13 @@ affiliate: false
 language: de
 languageLink: /2021/06/kollapse-sult-en
 ---
-
 **Kollapse sind wieder da. Vier Jahre haben sie sich nach ihrem Debüt-Album "Angst" Zeit gelassen – am Freitag veröffentlicht die Sludge/Post-Metal Gruppe aus dem dänischen Aalborg ihre zweite Platte. Sie trägt den Namen "Sult" und ist mehr als nur hörbar.**
 
 Weil ich die Ehre hatte, mir das Album schon mal anzuhören, fasse ich hier mal ein bisschen zusammen, was sie auf mich für einen Eindruck gemacht hat. Ich verrate schon mal soviel: Es könnte sein, dass sich dieser Artikel zu einem Musiktipp entwickelt.
 
 ## Kollapse haben es spannend gemacht
 
-![Kollapse – "Sult" Artwork: Gina Skowz](https://storage.googleapis.com/cardamonchai-media/2021-11-14/kollapse-1-imagine-b88868_8a695b_1080_1080/640.webp "Kollapse – \"Sult\" Artwork: Gina Skowz")
+![Kollapse – "Sult" Artwork: Gina Skowz](/img/kollapse-1-.jpg "Kollapse – \"Sult\" Artwork: Gina Skowz")
 
 Erscheinen wird "Sult" in Zusammenarbeit mit Maniyax Records, Dingleberry Records und Virkelighedsfjern auf Fysisk Format.
 
@@ -66,7 +65,7 @@ Der zweite Song "Knæler" wirkt fast noch kraftvoller als sein Vorgänger und au
 
 ## Ein aggressiver Tanz
 
-![Kollapse](https://storage.googleapis.com/cardamonchai-media/2021-11-14/kollapse-2-imagine-080808_56575b_1024_768/640.webp 'Kollapse')
+![Kollapse](/img/kollapse-2-.jpg 'Kollapse')
 
 "Libido" zieht die Hörer⋆innen in einen wirbelnden Sog – das Schlagzeug ist wunderbar präzise, schöne Tempowechseln machen den Song zu einem aggressiven Tanz.
 

@@ -1,18 +1,15 @@
 ---
 templateKey: article
-date: 2021-04-20T14:55:00.000Z
+date: 2021-04-20T14:55:00.000+00:00
 slug: earth-day-2021
 typeName: Beitrag
 title: '"Restore Our Earth"'
 subTitle: Earth Day 2021
 seoTitle: Earth Day 2021 – "Restore Our Earth" – Ein Tag für das Klima
-description: Der Earth Day 2021 findet am 22. April statt. Er jährt sich damit
-  zum 51. mal. Wie immer wird es rund um den Tag jede Menge Aktionen geben.
-excerpt: Der Earth Day 2021 findet am 22. April statt. Er jährt sich damit zum
-  51. mal. Wie immer wird es rund um den Tag jede Menge Aktionen geben. Das
-  Motto lautet in diesem Jahr "Restore Our Earth".
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/earth-day-2021-imagine-7898b8_9e564e_1024_768/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/earth-day-2021-fb-imagine-7898b8_9a5047_1200_628/640.webp
+description: Der Earth Day 2021 findet am 22. April statt. Er jährt sich damit zum 51. mal. Wie immer wird es rund um den Tag jede Menge Aktionen geben.
+excerpt: Der Earth Day 2021 findet am 22. April statt. Er jährt sich damit zum 51. mal. Wie immer wird es rund um den Tag jede Menge Aktionen geben. Das Motto lautet in diesem Jahr "Restore Our Earth".
+image: '/img/earth-day-2021.jpg'
+ogImage: '/img/earth-day-2021-fb.jpg'
 labels:
   - Klima- & Umweltschutz
   - Earth Day
@@ -36,7 +33,7 @@ Earth Day Präsident Thomas Dannenmann erklärt das so:
 
 > "Die Welt und das Klima brauchen Zeit um sich von rücksichtsloser Ausbeutung zu erholen. Jeder Bissen zählt, damit sich die Erde erholen kann."
 
-![Speto-Earth-Day-Art-Original](https://storage.googleapis.com/cardamonchai-media/2021-11-14/speto-earth-day-art-original-1-imagine-7898b8_8b6b6f_774_1024/640.webp 'Original Earth Day Art © Speto (Link below)')
+![Speto-Earth-Day-Art-Original](/img/speto-earth-day-art-original-1-.jpg 'Original Earth Day Art © Speto (Link below)')
 
 Mit seinen Worten spricht er alle an. Von uns Verbraucher⋆innen über den Lebensmittelhandel und die Produktion, die Fischerei und die Landwirtschaft. Die Earth Day Aktivist⋆innen pflichten dem bei:
 

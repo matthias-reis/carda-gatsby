@@ -14,9 +14,9 @@ excerpt: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de l
   God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder
   eine Geschichte. Die Band zeigt sich nach wie vor bedeckt – die Künstler⋆innen
   verbergen ihre Gesichter auch beim neuen Werk wieder hinter Masken.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/white-house-stag-imagine-181808_756f43_1440_960/640.webp
+image: /img/white-house-stag.jpg
 copyrigt: Ox en Mayo Alto
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/ox-en-mayo-alto-imagine-181808_726a3d_1200_628/640.webp
+ogImage: /img/ox-en-mayo-alto.png
 labels:
   - Argentinien
   - Bands
@@ -35,7 +35,6 @@ affiliate: false
 language: de
 languageLink: /2021/09/ox-en-mayo-alto-mot-the-valuator-incredible-god-en/
 ---
-
 **Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder eine Geschichte.**
 
 Die Band zeigt sich nach wie vor bedeckt – die Künstler⋆innen verbergen ihre Gesichter auch beim neuen Werk wieder hinter Masken. Das Mysterium um die Individuen hinter den Instrumenten machen das Musikerlebnis besonders – wer könnte sich hinter den fantasievollen Gestalten verbergen?
@@ -44,7 +43,7 @@ Die Band zeigt sich nach wie vor bedeckt – die Künstler⋆innen verbergen ihr
 
 Die insgesamt fünf Songs auf der aktuellen Platte heißen "Bläterfall", "Sa voix, virtus dormitiva", "Sideneo 4 y los Pilares del Alba", "De Civitate Dei" und "La Ilamada". Ihr könnt sie bereits auf Spotify konsumieren oder noch besser: als Video.
 
-![Ox en Mayo Alto](https://storage.googleapis.com/cardamonchai-media/2021-11-14/fox-imagine-080808_161b09_1440_960/640.webp "Ox en Mayo Alto")
+![Ox en Mayo Alto](/img/fox.jpg "Ox en Mayo Alto")
 
 Schon die erste audiovisuelle EP von Ox en Mayo Alto war ein Erlebnis – auch die zweite ist ein echter Genuss. Beim Betrachten der Bilder bekommt man genau wie bei "Los famosos días de la fiebre" das Gefühl einem wunderbaren Märchen zu folgen. Dieses Mal handelt es von der Ankunft eines großen Fischgottes auf der Erde.
 
@@ -70,7 +69,7 @@ Auch, wenn die verfügbare Power nicht voll ausgeschöpft wird, arbeiten Ox en M
 
 Es folgt: Mein Lieblings-Akt der Oper: "De Civitate Dei". Eine kleine Vulkaninsel im Ozean, eingebettet in pink-violettes Licht. Der Sound wird düsterer. Er erzählt die gesamte Menschheitsgeschichte. Oder die einer Welt, in der es uns nie gegeben hat?
 
-![Ox en Mayo Alto](https://storage.googleapis.com/cardamonchai-media/2021-11-14/mot-imagine-080808_2d3421_1440_960/640.webp "Ox en Mayo Alto")
+![Ox en Mayo Alto](/img/mot.jpg "Ox en Mayo Alto")
 
 "Sideneo 4 y los Pilares del Alba" führt am Ende alle Erzählstränge zusammen. Das Stück bringt Math-Rock Power und Präzision. Das Schlagzeug beeindruckt mich hier besonders.
 

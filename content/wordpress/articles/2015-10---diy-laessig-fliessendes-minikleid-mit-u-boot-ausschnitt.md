@@ -1,20 +1,17 @@
 ---
-date: 2015-10-21T14:26:26.000Z
+date: 2015-10-21T14:26:26.000+00:00
 slug: diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt
-path: /2015/10/diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt/
+path: '/2015/10/diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt/'
 title: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
 seoTitle: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
 ogTitle: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
-description: Heute zeige ich Euch meine erste Nähanleitung für ein Minikleid.
-  Ihr könnt es ganz leicht nachnähen. Ich bin gespannt, wie es Euch gefällt.
-excerpt: Ich hatte ein bisschen Zeit und so kam ich dazu, mir meinen ersten
-  Schnitt für ein Kleid auszudenken. Ich mag es sehr und möchte Euch daher gerne
-  zeigen, wie es entstanden ist.
+description: Heute zeige ich Euch meine erste Nähanleitung für ein Minikleid. Ihr könnt es ganz leicht nachnähen. Ich bin gespannt, wie es Euch gefällt.
+excerpt: Ich hatte ein bisschen Zeit und so kam ich dazu, mir meinen ersten Schnitt für ein Kleid auszudenken. Ich mag es sehr und möchte Euch daher gerne zeigen, wie es entstanden ist.
 fileName: 2015-10---diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYI/8QAKhAAAQMDAgUCBwAAAAAAAAAAAQIDBAAFEQYhBxIxYXETFBUiQUNRgcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwDmWIJb6gG1ueQcCmJw8tNwTOuiY0Jq5vOxSwptchLawhWchJUdiRtnBx2rE2yQUgAKwK0Ma7e0acKIsaUXUBpbbgxtkHmB+iu/mgC1VmTpqBcJGjBCQ5p+G8zHWy07NRh7mBIT8wVgkfnlPehtq3sMoiThEZmJZCTKbdS6h9wDc4AHLnfHepOGDt1vlpuMa3psyUQ3kuFtbDa1qCk43BRzYJBOU7ZB6HrU1jFunpr+IWZqKB9yNFwlX7Kv5U9E+dSFacUnpVpuSvlIooqpTtTw31RN05qyJJiEqTIPtXm+bAWhZHXwcEeKa+qL3JmpV6uw80UUuov/2Q==
-ogImage: null
+ogImage:
 labels:
   - Bigkleid
   - Blogger
@@ -132,7 +129,7 @@ Nun schließt Ihr die Nähte entlang Eurer jetzt noch sichtbaren, eingezeichnet
 
 ## Wenden und anprobieren
 
-![Das "Schnittmuster" | large](https://storage.googleapis.com/cardamonchai-media/2021-11-14/minikleid-nahanleitung-17jpg-22332294726-o-imagine-e8a868_ba8656_1440_1440/640.webp 'Das "Schnittmuster"')
+![Das "Schnittmuster" | large](/img/minikleid-nahanleitung-17jpg_22332294726_o.jpg 'Das "Schnittmuster"')
 
 Jetzt müsst Ihr Euer Meisterwerk nur noch wenden und anprobieren. Das Minikleid passt wunderbar zu Leggings in Lederoptik, Skinny Jeans oder Strumpfhosen und lässt sich auch prima mit einem schönen Gürtel kombinieren. Im Winter könnt Ihr gut einen Langarm-Body darunter tragen, am besten Ton-in-Ton oder je nachdem, welche Farbe Euer Stoff hat, auch in Komplementär-Farben.
 

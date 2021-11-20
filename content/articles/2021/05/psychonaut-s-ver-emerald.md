@@ -1,18 +1,15 @@
 ---
 templateKey: article
-date: 2021-05-06T13:06:00.000Z
+date: 2021-05-06T13:06:00.000+00:00
 slug: psychonaut-saver-emerald
 typeName: Review
 title: Psychonaut & Sâver – "Emerald"
 subTitle: Die neue Pelagic Split-LP
 seoTitle: Psychonaut & Sâver – "Emerald" – die neue Pelagic Split-LP
-description: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der
-  Kollaboration ist die Split-LP "Emerald", die auf Pelagic Records erscheint.
-excerpt: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der
-  Kollaboration ist die Split-LP "Emerald", die auf Pelagic Records erscheint.
-  Ich habe schon mal reingehört und möchte Euch die Platte ans Herz legen.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/psychonaut-saver-imagine-080808_29352d_1024_768/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/psychonaut-saver-fb-imagine-080808_2a3f31_1200_628/640.webp
+description: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der Kollaboration ist die Split-LP "Emerald", die auf Pelagic Records erscheint.
+excerpt: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der Kollaboration ist die Split-LP "Emerald", die auf Pelagic Records erscheint. Ich habe schon mal reingehört und möchte Euch die Platte ans Herz legen.
+image: '/img/psychonaut-saver.jpg'
+ogImage: '/img/psychonaut-saver-fb.jpg'
 labels:
   - Review
   - Bands
@@ -35,7 +32,7 @@ focusKeyword: Psychonaut
 advertisement: false
 affiliate: false
 language: de
-languageLink: /2021/05/psychonaut-saver-emerald-en
+languageLink: '/2021/05/psychonaut-saver-emerald-en'
 ---
 
 **Am 14. Mai erscheint eine ganz besondere Split-LP bei Pelagic Records: Psychonaut und Sâver haben sich zusammengetan. Das Ergebnis der Kollaboration heißt "Emerald" – ich habe schon mal reingehört.**
@@ -44,7 +41,7 @@ Die Zusammenarbeit der beiden Bands sorgt für spannende Reibung. Beide Projekte
 
 ## Psychonaut – "The Great Realisation"
 
-![Psychonaut](https://storage.googleapis.com/cardamonchai-media/2021-11-14/1616079996-1290540695-imagine-080808_26231d_800_533/640.webp 'Psychonaut')
+![Psychonaut](/img/1616079996.1290540695.jpg 'Psychonaut')
 
 Während Sâver für Minimalismus stehen, erforschen Psychonaut in ihren Stücken die Grenzen und die Vielfältigkeit von Instrumenten und Techniken. Beide Bands könnte man als perfekt funktionierende, klassische Trios bezeichnen – Jedes funktioniert auf seine Art wie ein Uhrwerk.
 
@@ -56,7 +53,7 @@ Was spannend klingt, ist es auch. Der Song "The Great Realisation" kokettiert mi
 
 ## Sâver – "Dimensions Lost, Obscured By Aeons"
 
-![Sâver](https://storage.googleapis.com/cardamonchai-media/2021-11-14/1616079996-3731191158-imagine-081818_485760_800_531/640.webp 'Sâver')
+![Sâver](/img/1616079996.3731191158.jpg 'Sâver')
 
 Sâver haben 19:06 zur Split-LP beigetragen. Ihr Song "Dimensions Lost, Obscured By Aeons" windet sich in die Gehörgänge und wandert von dort ohne Umwege sofort ins Fantasiezentrum des Gehirns.
 

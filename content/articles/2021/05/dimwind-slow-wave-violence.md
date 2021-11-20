@@ -1,5 +1,5 @@
 ---
-date: 2021-05-22T16:36:42.000Z
+date: 2021-05-22T18:36:42+02:00
 labels:
   - Dimwind
   - Post-Metal
@@ -15,19 +15,16 @@ typeName: Review
 title: Dimwind – "Slow Wave Violence"
 subTitle: Post-Metal ohne Grenzen
 seoTitle: Dimwind – "Slow Wave Violence" – Post-Metal ohne Grenzen
-ogTitle: ""
-description: Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence"
-  veröffentlicht. Es lohnt sich aus vielen Gründen mal reinzuhören.
-excerpt: Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence"
-  veröffentlicht. Das Werk des Göteborger Post-Metal Duos ist absolut hörenswert
-  – sieben Songs, die unter die Haut gehen, stehen Euch bevor.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/dimwind-2-imagine-e8e8e8_bdbdbd_1024_768/640.webp
+ogTitle: ''
+description: Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence" veröffentlicht. Es lohnt sich aus vielen Gründen mal reinzuhören.
+excerpt: Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence" veröffentlicht. Das Werk des Göteborger Post-Metal Duos ist absolut hörenswert – sieben Songs, die unter die Haut gehen, stehen Euch bevor.
+image: '/img/dimwind-2.jpeg'
 copyright: Dimwind
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/dimwind-fb-imagine-d8d8f8_aaaac6_1200_628/640.webp
+ogImage: '/img/dimwind-fb.jpg'
 focusKeyword: Dimwind
 advertisement: false
 affiliate: false
-languageLink: /2021/05/dimwind-slow-wave-violence-en
+languageLink: '/2021/05/dimwind-slow-wave-violence-en'
 ---
 
 **Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence" veröffentlicht. Das Werk des Göteborger Post-Metal Duos ist absolut hörenswert – sieben Songs, die unter die Haut gehen, stehen Euch bevor.**
@@ -38,7 +35,7 @@ Der Opener "Blinds Drawn" ist klanglich erste Klasse und wartet gleich mal mit e
 
 ## Dimwind sprengen den Rahmen
 
-![Dimwind – "Slow Wave Violence"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/dimwind-slow-wave-violence-record-imagine-d8d8f8_8e93a8_1080_1080/640.webp 'Dimwind – "Slow Wave Violence"')
+![Dimwind – "Slow Wave Violence"](/img/dimwind-slow-wave-violence-record.jpg 'Dimwind – "Slow Wave Violence"')
 
 Das zweite Stück "4 AM" beginnt daraufhin mit einer locker-flockigen Überraschung. Viele würden zuerst vielleicht mit einem Pop-artigen Songverlauf rechnen, doch nach rund einer Minute klärt sich auf, dass das Gegenteil der Fall ist. Der Song ist unglaublich durchdacht und rhythmisch sehr ausgeklügelt. Ich mag die spontan wirkenden Wechsel sehr.
 

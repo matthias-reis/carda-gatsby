@@ -10,8 +10,8 @@ description: MICARAA hat eine neue Pflege-Serie auf den Markt gebracht. Sie
   Weil das komplett nach mir klingt, war sofort klar, dass ich sie testen muss,
   als ich davon erfuhr. Ich habe die Gesichtscreme, das Serum und die
   Augenpflege ausprobiert.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/micaraa-1-imagine-e8e8e8_a4a78b_1024_768/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/micaraa-fb-imagine-e8e8e8_959775_1200_628/640.webp
+image: /img/micaraa-1-.jpg
+ogImage: /img/micaraa-fb.jpg
 labels:
   - MICARAA
   - vegane Kosmetik
@@ -24,7 +24,6 @@ advertisement: true
 affiliate: true
 language: de
 ---
-
 **MICARAA hat eine neue Pflege-Serie auf den Markt gebracht. Sie heißt "Calm" und ist besonders für empfindliche und allergische Haut gedacht. Weil das komplett nach mir klingt, war sofort klar, dass ich sie testen muss, als ich davon erfuhr.**
 
 ---

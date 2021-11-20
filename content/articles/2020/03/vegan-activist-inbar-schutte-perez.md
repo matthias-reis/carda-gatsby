@@ -1,5 +1,5 @@
 ---
-date: 2020-03-16T16:26:42.000Z
+date: 2020-03-16T17:26:42+01:00
 labels:
   - Anonymous For The Voiceless
   - Cube of Truth
@@ -19,19 +19,16 @@ typeName: Interview
 title: Vegan Activist Inbar Schütte-Perez
 subTitle: '"We need to be massive, if we want our impact to be massive"'
 seoTitle: Interview with vegan activist Inbar Schütte-Perez
-ogTitle: ""
-description: Inbar Schütte-Perez is very well-known in the vegan community of
-  Hamburg. Among many other events, the vegan activist was the founder and
-  organiser of Anonymous For The Voiceless Hamburg, and organised the so-called
-  "cubes of truth".
-excerpt: ""
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/inbar-schuette-perez-imagine-f8f8f8_8f8080_1024_768/640.webp
+ogTitle: ''
+description: Inbar Schütte-Perez is very well-known in the vegan community of Hamburg. Among many other events, the vegan activist was the founder and organiser of Anonymous For The Voiceless Hamburg, and organised the so-called "cubes of truth".
+excerpt: ''
+image: '/img/inbar-schuette-perez.png'
 copyright: Inbar Schütte-Perez
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/inbar-schuette-perez-fb-imagine-f8f8f8_a29695_1200_628/640.webp
+ogImage: '/img/inbar-schuette-perez-fb.png'
 focusKeyword: Inbar Schütte-Perez
 advertisement: false
 affiliate: false
-languageLink: /2020/03/inbar-schuette-perez-interview
+languageLink: '/2020/03/inbar-schuette-perez-interview'
 ---
 
 **Inbar Schütte-Perez is very well-known in the vegan community of Hamburg. Among many other events, the vegan activist was the founder and organiser of Anonymous For The Voiceless Hamburg, and organised the so-called "cubes of truth". Recently she has a new project. In my interview I talked to her about it - among some other things.**

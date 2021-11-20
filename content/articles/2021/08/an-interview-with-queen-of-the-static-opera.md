@@ -10,9 +10,9 @@ description: I got to know the multi-instrumentalist Melody, aka Queen of the
   Static Opera, some time ago via social networks, and I am an enthusiastic
   follower ever since. So now, I have invited her for an interview to get some
   more insights into her art and life.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/queen-of-the-static-opera-imagine-f8f8f8_868183_1024_768/640.webp
+image: /img/queen-of-the-static-opera.jpg
 copyrigt: Queen Of The Static Opera
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/queen-of-the-static-opera-fb-imagine-080808_7a7575_1200_628/640.webp
+ogImage: /img/queen-of-the-static-opera-fb.jpg
 labels:
   - Queen Of The Static Opera
   - Industrial
@@ -39,7 +39,6 @@ affiliate: false
 language: en
 languageLink: /2021/08/queen-of-the-static-opera-interview/
 ---
-
 **I got to know the multi-instrumentalist Melody, aka Queen of the Static Opera, some time ago via social networks, and I am an enthusiastic follower ever since. So now, I have invited her for an interview to get some more insights into her art and life.**
 
 ---
@@ -62,7 +61,7 @@ Melody's project is more than versatile. She uses elements from industrial, pop,
 
 Both of my parents were just sort of odd. Artists aren't that well received in the real world environment unless they're extremely wealthy. So being an artist is being an alien in a sense. Growing up in studios and around musicians was excellent. I always loved it. It went away more as I got older til I started doing music myself. My parents were in an active band in the 1990s. I didn't really start my career till after my dad died, and I was a teenager when my dad died. 
 
-![Melody aka Queen Of The Static Opera](https://storage.googleapis.com/cardamonchai-media/2021-11-14/queen-of-the-static-opera-1-imagine-887878_ac877c_1024_768/640.webp "Melody aka Queen Of The Static Opera")
+![Melody aka Queen Of The Static Opera](/img/queen-of-the-static-opera-1-.jpg "Melody aka Queen Of The Static Opera")
 
 **Anne:** How would you describe your music?
 
@@ -82,7 +81,7 @@ I also don't believe in writing when you aren't inspired – if you force the wr
 
 **Melody:** I cannot quite say – the music industry is a dying industry, but COVID has completely transformed it. I'm an excellent virtual artist – I was made for technology, so in a way, I've also thrived in certain ways. I wouldn't be interested in putting on any live performances on Twitch if not for covid, which now I realized virtual performances are the future performances. I also realize how much connection you can make through technology. It's still an experience between people, even if it is virtual. I have no idea what things would be like if I could play live and tour everywhere freely because I'm more focused on recording music right now anyway and some other behind-the-scenes things going on. I don't have any interest in playing any little small bars or djing at small parties usually – and they often beg me. I plan to tour with an established act whenever that opportunity arises when the world opens up, but I know it will. 
 
-![Melody aka Queen Of The Static Opera](https://storage.googleapis.com/cardamonchai-media/2021-11-14/queen-of-the-static-opera-2-imagine-989898_a89ca1_1024_768/640.webp "Melody aka Queen Of The Static Opera")
+![Melody aka Queen Of The Static Opera](/img/queen-of-the-static-opera-2-.jpg "Melody aka Queen Of The Static Opera")
 
 **Anne:** Would you say that the last 18 months created a new way of making music and sharing it with the world? I mean: Do you think there would be so much remote recording, streaming and acceptance for social media and streaming platforms if the pandemic didn't hit us?
 
@@ -112,7 +111,7 @@ People who have ignorant views just have not evolved to the place to understand 
 
 **Melody:** I had the name Queen Of The Static Opera, and I had a lot of the idea for what QOTSO is already picked out when I met Disraeli. He mentored me more and nourished my ideas as I wrote the early demos, "Bruises On My Neck", from one of the early sessions. Like, I had my dad, who was a billboard artist, so I had a strong idea and identity as an artist when Disraeli met me, and we just liked making music together. It was super fun, so we kept doing it. I produce alone sometimes. I always played my own instruments, so that was the next step anyway. 
 
-![Melody aka Queen Of The Static Opera](https://storage.googleapis.com/cardamonchai-media/2021-11-14/queen-of-the-static-opera-3-imagine-a89888_a38f8b_1024_768/640.webp "Melody aka Queen Of The Static Opera")
+![Melody aka Queen Of The Static Opera](/img/queen-of-the-static-opera-3-.jpg "Melody aka Queen Of The Static Opera")
 
 **Anne:** Your videos and pictures are always very stylish. Playing with fashion in its extremes seems to be your thing. Is it all made by you? And who shoots the footage?
 

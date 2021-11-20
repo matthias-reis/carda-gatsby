@@ -9,9 +9,9 @@ description: Psychedelischer Shoegaze Sound mit einer starken Frau am Mikro –
   Wenn Ihr Euch wie ich davon angesprochen fühlt, sollte jetzt auf jeden Fall
   weiterlesen. Das neue Horte Album "Maa antaa yon vaientaa" liefert noch viel
   mehr – ich habe alle Infos dazu für Euch.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/horte-horte-maa-antaa-yon-vaientaa-imagine-787878_696f73_440_440/640.webp
+image: /img/horte-horte-maa-antaa-yon-vaientaa.jpg
 copyrigt: Horte
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/horte-horte-maa-antaa-yon-vaientaa-fb-imagine-282828_000000_1200_628/640.webp
+ogImage: /img/horte-horte-maa-antaa-yon-vaientaa-fb.jpg
 labels:
   - Experimental
   - Shoegaze
@@ -32,7 +32,6 @@ affiliate: false
 language: de
 languageLink: /2021/08/horte-maa-antaa-yon-vaientaa-en/
 ---
-
 **Psychedelischer Shoegaze Sound mit einer starken Frau am Mikro – Wenn Ihr Euch wie ich davon angesprochen fühlt, sollte jetzt auf jeden Fall weiterlesen. Das neue Horte Album "Maa antaa yon vaientaa" liefert noch viel mehr – ich habe alle Infos dazu für Euch.**
 
 "Maa antaa yon vaientaa" heißt das Werk der Finnen. Auf Deutsch bedeutet das ungefähr so viel wie "Das Land hüllt die Nacht in Stille", was genau uns Horte damit sagen wollen, bleibt Ihr Geheimnis.
@@ -41,7 +40,7 @@ languageLink: /2021/08/horte-maa-antaa-yon-vaientaa-en/
 
 Sängerin Riikka hat die ganze Platte übrigens auf Finnisch eingesungen. Das macht aber auch für diejenigen unter uns, die diese wundervolle Sprache nicht verstehen, gar nichts. Wichtig sind die Gefühle, die Horte rüberbringen und die sind ganz groß – das verspreche ich Euch.
 
-![Horte – "Maa antaa yon vaientaa"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/horte-horte-maa-antaa-yon-vaientaa-imagine-787878_696f73_440_440/640.webp "Horte – \\"Maa antaa yon vaientaa\\"")
+![Horte – "Maa antaa yon vaientaa"](/img/horte-horte-maa-antaa-yon-vaientaa.jpeg "Horte – \\"Maa antaa yon vaientaa\\"")
 
 Die insgesamt sieben Songs lassen sich nur ganz schwer in Worte fassen. Verzerrte Klangschaften  und traumhafte Synthy-Sequenzen erzählen von einer Welt, die über den Dingen steht – getragen und lässig zugleich ohne überflüssigen Schmuck und Tand aber durchaus vielschichtig.
 
@@ -59,4 +58,4 @@ Wenn Euch das heiß macht, könnt Ihr das Album ab sofort hören, es ist heute a
 
 <YouTube id="yEnb51a2c_o" />
 
-![Horte – "Maa antaa yon vaientaa" | large](https://storage.googleapis.com/cardamonchai-media/2021-11-14/horte-imagine-080808_354554_800_535/640.webp "Horte – \\"Maa antaa yon vaientaa\\"")
+![Horte – "Maa antaa yon vaientaa" | large](/img/horte.png "Horte – \\"Maa antaa yon vaientaa\\"")

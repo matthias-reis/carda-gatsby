@@ -8,9 +8,9 @@ seoTitle: '"What Shall We Do Now?" – Thot veröffentlichen Pink Floyd Cover'
 description: Thot zählen die legendären Pink Floyd klar zu ihren Vorbildern.
   Jetzt hat sich das Post-Music Kollektiv aus Belgien an eine Neu-Interpretation
   von "What Shall We Do Now" rangetraut und dabei alles richtig gemacht.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-what-should-we-do-now-imagine-183858_253d56_700_700/640.webp
+image: /img/thot-what-should-we-do-now.jpg
 copyrigt: Thot
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-what-should-we-do-now-fb-imagine-181818_535754_1200_628/640.webp
+ogImage: /img/thot-what-should-we-do-now-fb.png
 labels:
   - Post-Music
   - Post-Rock
@@ -29,7 +29,6 @@ affiliate: false
 language: de
 languageLink: /2021/10/thot-what-shall-we-do-now-en/
 ---
-
 **Thot zählen die legendären Pink Floyd klar zu ihren Vorbildern. Jetzt hat sich das Post-Music Kollektiv aus Belgien an eine Neu-Interpretation von "What Shall We Do Now" rangetraut und dabei alles richtig gemacht.**
 
 Schon ein paar Wochen nach [Grégoires Solo-EP "Live at daFestival"](2021/07/live-at-dafestival-gregoire-thot) und der grandiosen [10-Jahres-Reissu von "Obscured By The Wind"](/2021/06/thot-feiern-10-jahre-obscured-by-the-wind/) haben Thot schon wieder eine neue Sensation für uns auf Lager. Ich habe mir "What Shall We Do Now" natürlich sofort angehört, als mir Grégoire davon erzählte und ich muss sagen: Ich bin wirklich begeistert.
@@ -40,7 +39,7 @@ schrieb mir Thot-Gründer Grégoire. Was ich anschließend zu hören bekam, lie�
 
 ## "What Shall We Do Now" – 4:20 die es in sich haben
 
-![Thot – "What Shall We Do Now?"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-what-should-we-do-now-imagine-183858_253d56_700_700/640.webp "Thot – \"What Shall We Do Now?\"")
+![Thot – "What Shall We Do Now?"](/img/thot-what-should-we-do-now.jpeg "Thot – \"What Shall We Do Now?\"")
 
 Die 4:20 lohnt es sich also definitiv anzuhören. Das könnt Ihr auch ab heute tun. Was mir persönlich besonders gut gefällt, sind die Industrial-Noten, die Thot dem Stück hinzugefügt haben. Sie heben den Track in das Jahr 2021 und rufen gleichzeitig die bunte Vielfalt einer vergangenen Ära ins Gedächtnis. Einzig Grégoires Stimme erinnert mich an die Pink Floyd Variante – er hat seinem Idol David Gilmour ein Denkmal gesetzt, das vor Respekt und Würde nur so strahlt.
 

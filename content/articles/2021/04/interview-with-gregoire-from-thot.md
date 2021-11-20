@@ -1,37 +1,36 @@
 ---
-date: 2021-04-08T12:15:42.000Z
+date: 2021-04-08T14:15:42+02:00
 labels:
-  - Obscured By The Wind
-  - Bands
-  - Interview
-  - Thot
-  - DUNK!festival
-  - DUNK!records
-  - English & German
-  - Industrial
-  - Post-Rock
-  - Vegetal Noise
+- Obscured By The Wind
+- Bands
+- Interview
+- Thot
+- DUNK!festival
+- DUNK!records
+- English & German
+- Industrial
+- Post-Rock
+- Vegetal Noise
 language: en
 slug: thot-interview-en
 typeName: Interview
 title: Interview with Grégoire from Thot
 subTitle: 10 Years "Obscured By The Wind"
 seoTitle: Interview with Grégoire from Thot about 10 years "Obscured by the Wind"
-ogTitle: ""
-description: If you're into post-rock, I'm pretty sure you are listening to
-  Thot. For the 10th anniversary of their debut album "Obscured By The Wind",
-  the band from Belgium has planned some huge highlights for us. Time for an
-  interview.
-excerpt: ""
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-1-imagine-080808_130d0e_1024_768/640.webp
+ogTitle: ''
+description: If you're into post-rock, I'm pretty sure you are listening to Thot.
+  For the 10th anniversary of their debut album "Obscured By The Wind", the band from
+  Belgium has planned some huge highlights for us. Time for an interview.
+excerpt: ''
+image: "/img/thot-1.jpeg"
 copyright: Thot
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-fb-imagine-080808_100b0c_1200_628/640.webp
+ogImage: "/img/thot-fb.png"
 focusKeyword: Thot
 advertisement: false
 affiliate: false
-languageLink: /2021/04/thot-interview
----
+languageLink: "/2021/04/thot-interview"
 
+---
 **If you're into post-rock, I'm pretty sure you are listening to Thot. For the 10th anniversary of their debut album "Obscured By The Wind", the band from Belgium has planned some huge highlights for us. Time for an interview.**
 
 To be honest, it was completely the other way round. I don't believe it myself yet, but I actually woke up one morning and had a message from Thot in my inbox! One thing is pretty clear: if a band like Thot contacts you and tells you that your blog is great and if an interview is possible, your answer will always be yes. I mean, how great is that, right? Man, of course, I have time for an interview. I have my questions ready to go in my cupboard. Hold on, let me get them out, and we can get started.
@@ -46,7 +45,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Grégoire:** The magic of Instagram. You did an [interview with our friends in Lost in Kiev](/2020/07/lost-in-kiev-interview-en/). Besides that, yeah, veganism and post-rock are obviously topics that interest me!
 
-![Grégoire. Picture: Thot](https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-2-imagine-080808_16110e_1440_810/640.webp "Grégoire. Picture: Thot")
+![Grégoire. Picture: Thot](/img/thot-2.jpeg "Grégoire. Picture: Thot")
 
 **Anne:** Enough about me. Let's talk about Thot! You have some exciting news! You are celebrating the 10th anniversary of your earth-shaking debut album "Obscured By The Wind". There will be a vinyl re-release with strictly limited colour editions (I already ordered one, of course) and some more amazing stuff. Do you want to tell me a bit more about what you are planning? You told me that you are about to release some new interpretations of "Obscured by The Wind" songs that you filmed during the first full moon of spring on the 28th of March? Thanks for the great pictures, by the way! They turned out pretty great. I wish I could have been there.
 
@@ -58,7 +57,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Grégoire:** The lineup has constantly been changing since. In a way, if I wanted the project to last, I had no other choice than to let it evolve, according to life choices, changing musical desires, or, unfortunately, human conflicts. I am happy to have not given up and to see that the project remains very alive today, thanks to the energy that the current musicians bring me. I miss some of the former members, either humanly or musically. In 2011, a month after the album release, we played at DUNK!festival, which was helpful to step into the post-rock scene, which has been growing quite big since, as a whole community of music lovers and friends.
 
-![Thot. Picture: Thot](https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-4-imagine-080808_0d0a08_1440_810/640.webp "Thot. Picture: Thot")
+![Thot. Picture: Thot](/img/thot-4.jpeg "Thot. Picture: Thot")
 
 **Anne:** Which one of your records do you like best and why?
 
@@ -94,7 +93,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Grégoire:** This actually came in the years where I was writing "Obscured by the Wind" and putting some demo tracks online. As I took thistle as a blazon, I've decided I put that name on the music instead of choosing between any other genres people are used to. It's more a matter of personal feelings than a brand or label.
 
-![Lucie. Picture: Thot](https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-5-lucie-imagine-080808_0f0907_1440_810/640.webp "Lucie. Picture: Thot")
+![Lucie. Picture: Thot](/img/thot-5-lucie.jpeg "Lucie. Picture: Thot")
 
 **Anne:** I've visited DUNK!festival several times, and I think it's the best festival in the world. Everyone is so lovely and kind, and everybody knows what good music feels like. It's like finally meeting the family that you've chosen for yourself. I'm sure you know what I mean. Your gig there in 2019 was one of the greatest. How would you describe the post-rock scene in Belgium overall? Is it like DUNK?
 

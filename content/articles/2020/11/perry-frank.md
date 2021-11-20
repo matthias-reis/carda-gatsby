@@ -9,9 +9,9 @@ description: Francesco Perra started his ambient/post-rock/acoustic/psychedelic
   project, Perry Frank, in 2005. From that day on, the Sardinian musician dived
   into music and released several pieces. I now interviewed him to get to know
   him and his art better.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2020-11-perry-frank-l-imagine-080808_161616_1440_1080/640.webp
+image: /img/2020_11_perry-frank__l.jpeg
 copyrigt: Perry Frank
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2020-11-perry-frank-fb-png-l-imagine-080808_181818_1440_754/640.webp
+ogImage: /img/2020_11_perry-frank-fb.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -28,7 +28,6 @@ affiliate: false
 language: en
 languageLink: /2020/11/perry-frank-interview
 ---
-
 **Francesco Perra started his ambient/post-rock/acoustic/psychedelic project, Perry Frank, in 2005. From that day on, the Sardinian musician dived into music and released several pieces. I now interviewed him to get to know him and his art better.**
 
 The one-man-band Perry Frank released the three albums, "Music To Disappear"(2012), "The Neptune Sessions" (2013), and "Soundscape Box 1" (2014). Francesco also collaborated with artists like Chords of Orion, Monochrome Season, PCM, Enrico Venturini, Matteo Cantaluppi, Make Like a Tree, and Andrea Carri. Influenced by early post-rock, and Drone his music is not very genre-related. It isn't easy to put it into a box. In July 2020, he released his new album "Reverie" with the New York-based label Dynamo Tapes. On November, 9th he will release his new single "Today Is Long Gone" in all digital stores.

@@ -5,11 +5,17 @@ typeName: Review
 title: '"Color of Time"'
 subTitle: The New Album By Tyresta & From Overseas
 seoTitle: '"Color of Time" By Tyresta & From Overseas – Ambient Review'
-description: Fans of drone sounds and ambient should check out the new album by From Overseas and Tyresta. "Color of Time" is an absolute highlight and a must-hear for his month. The story it tells doesn't need any words.
-excerpt: 'Although the year is almost over, From Overseas has good news for us once again. The fantastic album Kévin recorded with awakened souls is just a few days old, and here we go again: The next great collaboration is about to pop out of the vinyl press on November 19th: "Color of Time" emerged in cooperation with Tyresta.'
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/color-of-time-2-imagine-283828_483a24_1024_768/640.webp
+description: Fans of drone sounds and ambient should check out the new album by
+  From Overseas and Tyresta. "Color of Time" is an absolute highlight and a
+  must-hear for his month. The story it tells doesn't need any words.
+excerpt: 'Although the year is almost over, From Overseas has good news for us
+  once again. The fantastic album Kévin recorded with awakened souls is just a
+  few days old, and here we go again: The next great collaboration popped out of
+  the vinyl press on November 19th: "Color of Time" emerged in cooperation with
+  Tyresta.'
+image: /img/color-of-time-2-.jpg
 copyrigt: Tyresta & From Overseas
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/color-of-time-fb-1-imagine-b8c898_a2ac86_1200_628/640.webp
+ogImage: /img/color-of-time-fb-1-.png
 labels:
   - Instrumental
   - Experimental
@@ -41,22 +47,15 @@ affiliate: false
 language: en
 languageLink: /2021/11/color-of-time/
 ---
-
-<<<<<<< HEAD **Although the year is almost over, From Overseas has good news for us once again. The fantastic album Kévin recorded with awakened souls is just a few days old, and here we go again: The next great collaboration popped out of the vinyl press on November 19th: "Color of Time" emerged in cooperation with Tyresta.** =======
-
-**Although the year is almost over, From Overseas has good news for us once again. The fantastic album Kévin recorded with awakened souls is just a few days old, and here we go again: The next great collaboration is about to pop out of the vinyl press on November 19th: "Color of Time" emerged in cooperation with Tyresta.**
-
-> > > > > > > feat: parsed all articles
+**Although the year is almost over, From Overseas has good news for us once again. The fantastic album Kévin recorded with awakened souls is just a few days old, and here we go again: The next great collaboration popped out of the vinyl press on November 19th: "Color of Time" emerged in cooperation with Tyresta.**
 
 I could hardly believe my ears when Kévin Séry, aka From Overseas, contacted me and told me that he had another album ready and asked me if I would like to listen to it. Of course, I wanted to! And what should I say: When I decided to check it out, I definitely made the right decision.
 
 ## Mellotron and violin bow
 
-<<<<<<< HEAD ![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-cover.jpg 'Tyresta & From Overseas – "Color of Time"') ======= ![Tyresta & From Overseas – "Color of Time"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/color-of-time-cover-imagine-283828_4d4430_3000_3000/640.webp "Tyresta & From Overseas – \\"Color of Time\\"")
+![Tyresta & From Overseas – "Color of Time"](/img/color-of-time-cover.jpg "Tyresta & From Overseas – \\\"Color of Time\\\"")
 
-> > > > > > > feat: parsed all articles
-
-For Kévin, "Color of Time" is another important milestone. It is a long-distance ambient drone project that he recorded together with Nick Turner, also known as Tyresta, using guitars (including violin bow), synthesizers, mellotron and various effects.
+For Kévin, "Color of Time" is another important milestone. It is a long-distance ambient drone project that he recorded together with Nick Turner, also known as Tyresta, using guitars (including violin bow), synthesizers, mellotron and various effects. 
 
 The total of six songs (plus an exclusive 30-minute autumn session on the cassette version) deals with transience, loss and the influence that humans have on each other and the planet. So the album is all about time and comes at just the right moment.
 
@@ -70,7 +69,7 @@ The opener "Color of Time" builds up an all-encompassing tension, which the two 
 
 ## "Color of Time" is about the debris of human existence
 
-![Tyresta & From Overseas](https://storage.googleapis.com/cardamonchai-media/2021-11-14/color-of-time-5-imagine-b8c898_9ba580_1024_768/640.webp 'Tyresta & From Overseas')
+![Tyresta & From Overseas](/img/color-of-time-5-.jpg "Tyresta & From Overseas")
 
 An avalanche breaks loose, and the next song begins: "Avalanche" stretches the violin bow and continues the journey through this fabulous and sad story that works entirely without the need for any words.
 
@@ -80,7 +79,8 @@ If you listen to the cassette version like I did, you can enjoy a 30-minute set 
 
 "Color of Time" was recorded in the summer of 2020. Stephan Mathieu did the vinyl and digital mastering at Studio Schwebung. James Bernhard mastered the Autumnal Session for 9128 Broadcast at Ambient Mountain House. The artwork is by Jason Akira Summa, and the layout and design by Zakè.
 
-Mellotron & Guitar: Nick Turner OP-1 & Guitar: Kévin Séry
+Mellotron & Guitar: Nick Turner
+OP-1 & Guitar: Kévin Séry
 
 [Read my interview with Kévin Séry here](/2020/04/from-overseas-interview-en).
 

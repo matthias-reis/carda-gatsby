@@ -5,18 +5,12 @@ typeName: Interview
 title: Interview With Baulta
 subTitle: '"Post-Rock Transmits Emotions"'
 seoTitle: Interview With Baulta – "Post-Rock Transmits Emotions"
-description: Baulta have agreed to an interview! We talked about the creative
-  process that led to their fantastic latest album "Another Second Chance" and
-  their development as a band. I learned a lot about them and their relationship
-  with post-rock.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-03-2-1-l-imagine-282828_7b7b7b_1440_1080/640.webp
+description: Baulta have agreed to an interview! We talked about the creative process that led to their fantastic latest album "Another Second Chance" and their development as a band. I learned a lot about them and their relationship with post-rock.
+image: /img/2021_03_2-1__l.jpeg
 copyrigt: Baulta
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-03-baulta-fb-baulta-picture-antti-varhe-avagraphy-png-l-imagine-080808_191919_1440_754/640.webp
+ogImage: /img/2021_03_baulta-fb-baulta.-picture_-antti-varhe-_-avagraphy.png__l.jpg
 labels:
-  - Baulta have agreed to an interview! We talked about the creative process
-    that led to their fantastic latest album "Another Second Chance" and their
-    development as a band. I learned a lot about them and their relationship
-    with post-rock.
+  - Baulta have agreed to an interview! We talked about the creative process that led to their fantastic latest album "Another Second Chance" and their development as a band. I learned a lot about them and their relationship with post-rock.
 focusKeyword: Baulta
 advertisement: false
 affiliate: false

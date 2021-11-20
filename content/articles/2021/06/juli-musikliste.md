@@ -13,8 +13,8 @@ excerpt: Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber
   nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden.
   Unter den Videos findet Ihr unsere Playlist wie immer fertig aufbereitet für
   Spotify und iTunes.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/sommer-songs-1-imagine-080808_6c5a64_1024_768/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/sommer-songs-fb-1-imagine-080808_6d606a_1200_628/640.webp
+image: /img/sommer-songs-1-.jpg
+ogImage: /img/sommer-songs-fb-1-.png
 labels:
   - serie:Playlists
   - Sommer-Songs
@@ -41,7 +41,6 @@ advertisement: false
 affiliate: false
 language: de
 ---
-
 **Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber nicht weniger gut. Mit Matze habe ich acht Songs rausgesucht, die uns nicht nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden.**
 
 Von Post-Punk über Post-Rock und Blackgaze bis hin zu echt sommerlichem Rock-Festival-Sound wird den Ohren einiges geboten. Ich wünsche Euch viel Freude beim Hören. Am besten laut am Baggersee. Vergesst den Sonnenschirm nicht.

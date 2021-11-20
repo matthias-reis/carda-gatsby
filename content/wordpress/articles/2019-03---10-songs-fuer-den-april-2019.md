@@ -1,17 +1,14 @@
 ---
-date: 2019-03-26T17:51:50.000Z
+date: 2019-03-26T17:51:50.000+00:00
 slug: 10-songs-fuer-den-april
-path: /2019/03/10-songs-fuer-den-april/
+path: '/2019/03/10-songs-fuer-den-april/'
 title: 10 Songs für den April 2019
 seoTitle: 10 Songs für den April - Ausgewählt von den drei von der Bande
 ogTitle: 10 Songs für den April - Ausgewählt von den drei von der Bande
-description: Bevor der April um die Ecke kommt, gibt es erstmal was auf die
-  Ohren Hier kommen unsere 10 Songs für Euch - liebevoll ausgewählt und
-  kommentiert.
-excerpt: Bevor der April um die Ecke kommt, gibt es erstmal was auf die Ohren
-  Hier kommen unsere 10 Songs für Euch - liebevoll ausgewählt und kommentiert.
+description: Bevor der April um die Ecke kommt, gibt es erstmal was auf die Ohren Hier kommen unsere 10 Songs für Euch - liebevoll ausgewählt und kommentiert.
+excerpt: Bevor der April um die Ecke kommt, gibt es erstmal was auf die Ohren Hier kommen unsere 10 Songs für Euch - liebevoll ausgewählt und kommentiert.
 fileName: 2019-03---10-songs-fuer-den-april-2019.md
-ogImage: null
+ogImage:
 labels:
   - serie:Playlists
   - 10 Songs
@@ -65,7 +62,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Ausgewählt und präsentiert von den drei von der Bande
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/10-songs-fuer-den-april-imagine-484848_6d6867_1024_768/640.webp
+image: '/img/10-songs-fuer-den-april.jpeg'
 ---
 
 **Bald heißt es wieder "April, April!" - doch bis es soweit ist, gibt es erst mal was auf die Ohren. Hier kommen die Songs, die wir im März am häufigsten gehört haben.**

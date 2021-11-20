@@ -1,5 +1,5 @@
 ---
-date: 2021-06-03T11:04:42.000Z
+date: 2021-06-03T13:04:42+02:00
 slug: vogelgrippe-h10n3-bei-menschen
 typeName: ""
 title: Vogelgrippe H10N3 bei Menschen
@@ -11,8 +11,8 @@ description: Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen
 excerpt: Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen
   nachgewiesen. Im chinesischen Jiangsu wurde ein 41-jähriger Mann mit starkem
   Fieber ins Krankenhaus eingeliefert.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/vogelgrippe-imagine-f8f8e8_808272_1024_768/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/vogelgrippe-fb-imagine-788888_787a69_1200_628/640.webp
+image: /img/vogelgrippe.jpg
+ogImage: /img/vogelgrippe-fb.jpg
 labels:
   - H10N3
   - Vogelgrippe

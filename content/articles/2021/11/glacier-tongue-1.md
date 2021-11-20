@@ -12,9 +12,9 @@ excerpt: Rongeur haben am 5. November, vier Jahre nach ihrem ersten Album "An
   Asphyxiating Embrace", eine neue Platte herausgebracht. Fans von Bands wie
   Neurosis und High on Fire und alle, die es gerne roh mögen, sollten es nicht
   verpassen, mal in "Glacier Tongue" reinzuhören.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/glacier-tongue-1-imagine-080808_000000_1024_768/640.webp
+image: /img/glacier-tongue-1-.jpg
 copyrigt: Rongeur
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/glacier-tongue-fb-imagine-080808_5c6d75_1200_628/640.webp
+ogImage: /img/glacier-tongue-fb.png
 labels:
   - Sludge
   - Sludge Core
@@ -34,7 +34,6 @@ affiliate: false
 language: de
 languageLink: /2021/11/rongeur-glacier-tongue-en/
 ---
-
 **Rongeur haben am 5. November, vier Jahre nach ihrem ersten Album "An Asphyxiating Embrace", eine neue Platte herausgebracht. Fans von Bands wie Neurosis und High on Fire und alle, die es gerne roh mögen, sollten es nicht verpassen, mal in "Glacier Tongue" reinzuhören.**
 
 Gegründet haben sich Rongeur bereits 2012, als sich ehemalige Mitglieder von Ampmandens Døtre, Exeloume, Untime und Martyrs zusammentaten, um gemeinsam Musik zu machen. Zunächst veröffentlichten sie diverse Demos und Split-EPs, bevor dann 2017 auf Poacher Records und Ampmandens Records das Debüt erschien.
@@ -43,7 +42,7 @@ Inzwischen ist die Band aus Oslo bei Fysisk Format gelandet. Dort ist auch das z
 
 ## "Glacier Tongue" ist ein wütendes Statement
 
-![Rongeur – "Glacier Tongue"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/823618-imagine-081828_537584_425_425/640.webp "Rongeur – \"Glacier Tongue\"")
+![Rongeur – "Glacier Tongue"](/img/823618.jpeg "Rongeur – \"Glacier Tongue\"")
 
 "Glacier Tongue" bietet insgesamt acht Songs voll rauer und harter Schönheit. Die Platte ist politisch, geradeheraus und brachial. Rongeur haben genau das, was wir alle in diesem Jahr voller Fragen so schwer vermisst haben, vertont und setzen mit ihrer Platte ein düsteres und anklagendes Statement, das die menschliche Existenz und die Rücksichtslosigkeit, mit der wir unseren Planeten ausbeuten, kritisch hinterfragt.
 
@@ -53,7 +52,7 @@ Bassist und Sänger Dag Ole H. Huseby, Drummer und Sänger Jon Dahl Tveter und G
 
 ## Rongeur sind vielseitiger geworden
 
-![Rongeur](https://storage.googleapis.com/cardamonchai-media/2021-11-14/glacier-tongue-2-imagine-080808_000000_768_1024/640.webp "Rongeur")
+![Rongeur](/img/glacier-tongue-2-.jpg "Rongeur")
 
 "Glacier Tongue" ist ein wild rotierender musikalischer Strudel. Wenn man die Platte mit dem Vorgängeralbum vergleicht, stellt man fest, dass das Trio noch an Drive und auch an Vielseitigkeit zugelegt hat. Rongeur befinden sich mit voller Fahrt auf der Überholspur und sind bereit, sich mit den Giganten den Genres anzulegen. Mit diesem Hauch Punk-Attitüde geht Sludge wirklich ins Ohr.
 

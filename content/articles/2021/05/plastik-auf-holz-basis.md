@@ -1,32 +1,28 @@
 ---
-date: 2021-05-28T12:00:42.000Z
+date: 2021-05-28T14:00:42.000+02:00
 labels:
   - Woodly
   - Holz
-  - "Plastik-Alternative "
+  - 'Plastik-Alternative '
   - Klima & Umweltschutz
   - Finnland
   - Bio-Kunststoff
 language: de
 slug: plastik-auf-holz-basis
-typeName: ""
+typeName: ''
 title: Plastik auf Holz-Basis
 subTitle: Bio-Kunststoff-Start-up erhält Millionen-Finanzierung
 seoTitle: Bio-Kunststoff-Start-up aus Finnland erhält Millionen-Finanzierung
-ogTitle: ""
-description: Bio-Kunststoff könnte die Lösung des weltweiten Plastik-Problems
-  sein. Das finnische Unternehmen Woodly arbeitet an einem neuen Ansatz.
-excerpt: Bio-Kunststoff könnte die Lösung des weltweiten Plastik-Problems sein.
-  Das finnische Unternehmen Woodly Ltd. hat jetzt eine Wachstumsfinanzierung in
-  Höhe von drei Millionen Euro erhalten. Das Start-up arbeitet an einem
-  außergewöhnlichen und völlig neuen Ansatz.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/woodly-imagine-080808_698039_1024_768/640.webp
+ogTitle: ''
+description: Bio-Kunststoff könnte die Lösung des weltweiten Plastik-Problems sein. Das finnische Unternehmen Woodly arbeitet an einem neuen Ansatz.
+excerpt: Bio-Kunststoff könnte die Lösung des weltweiten Plastik-Problems sein. Das finnische Unternehmen Woodly Ltd. hat jetzt eine Wachstumsfinanzierung in Höhe von drei Millionen Euro erhalten. Das Start-up arbeitet an einem außergewöhnlichen und völlig neuen Ansatz.
+image: '/img/woodly.jpg'
 copyright: Woodly
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/woodly-fb-imagine-080808_628a40_1200_628/640.webp
+ogImage: '/img/woodly-fb.jpg'
 focusKeyword: Bio-Kunststoff
 advertisement: false
 affiliate: false
-languageLink: ""
+languageLink: ''
 ---
 
 **Bio-Kunststoff könnte die Lösung des weltweiten Plastik-Problems sein. Das finnische Unternehmen Woodly Ltd. hat jetzt eine Wachstumsfinanzierung in Höhe von drei Millionen Euro erhalten. Das Start-up arbeitet an einem außergewöhnlichen und völlig neuen Ansatz.**
@@ -37,7 +33,7 @@ CEO Jaakko Kaminen beschreibt die Idee, Kunststoff auf Holzbasis herzustellen so
 
 ## Kreislaufwirtschaft und CO2-Neutralität
 
-![Koriander in Woody-Plastik. Bild/picture: Woody Ltd.](https://storage.googleapis.com/cardamonchai-media/2021-11-14/woodly-korianteri-1200x1500-1-imagine-f8f8f8_d7dfcc_1200_1500/640.webp 'Koriander in Woody-Plastik. Bild/picture: Woody Ltd. | small')Beim in Finnland entwickelten Woodly®-Material handelt es sich um einen neuartiger Kunststoff, der aus Holzzellulose hergestellt wird. Das Endergebnis ist ein Kunststoff, der sowohl in der Produktion als auch in den Produkten den Ansprüchen für herkömmliches Plastik entspricht. Im Gegensatz dazu ist er jedoch zu 100 Prozent CO2-neutral. Der Bedarf an fossilen Rohstoffen wird damit reduziert.
+![Koriander in Woody-Plastik. Bild/picture: Woody Ltd.](/img/woodly_korianteri-1200x1500-1.jpg 'Koriander in Woody-Plastik. Bild/picture: Woody Ltd. | small')Beim in Finnland entwickelten Woodly®-Material handelt es sich um einen neuartiger Kunststoff, der aus Holzzellulose hergestellt wird. Das Endergebnis ist ein Kunststoff, der sowohl in der Produktion als auch in den Produkten den Ansprüchen für herkömmliches Plastik entspricht. Im Gegensatz dazu ist er jedoch zu 100 Prozent CO2-neutral. Der Bedarf an fossilen Rohstoffen wird damit reduziert.
 
 Das Unternehmen will in naher Zukunft verschiedene Verpackungen und Produkte auf den internationalen Märkten einführen und Herstellern beim Ausstieg aus der fossilen Wirtschaft auszusteigen, ihre CO2-Bilanz zu reduzieren und in die [Kreislaufwirtschaft](/2019/08/cradle-to-cradle-prinzip/) einzusteigen. Woodly Kunststoff soll nämlich nicht nur umweltschonend, sondern auch recycling-fähig sein. Um den ökologischen und sozialen Nutzen zu maximieren, sind die Produkte so konzipiert, dass sie mehrfach recycelt werden können. In den Ländern, in denen das Material eingesetzt wird, plant das Unternehmen eine Enge Zusammenarbeit mit der Abfallwirtschaft und dem Recyclingsektor.
 
@@ -51,7 +47,7 @@ Jaakko Kaminen und sein Team plädieren daher für nachhaltige Forstwirtschaft. 
 
 ## Nachhaltige Forstwirtschaft
 
-![Woodly Kunststoff-Granulat. Bild/picture: Woody Ltd.](https://storage.googleapis.com/cardamonchai-media/2021-11-14/img-20190930-104841557-hdr-imagine-e8e8e8_b4c1b2_1440_1080/640.webp 'Woodly Kunststoff-Granulat. Bild/picture: Woody Ltd. | small')Der Rohstoff für das Woodly Plastik stammt aus FSC-zertifizierten Wäldern. Sie werden nach ökologischen und ethischen Standards bewirtschaftet. Das Unternehmen hat ein Zertifikat dafür, das garantiert, dass die Produkte zu 40 bis 60 Prozent aus erneuerbaren Rohstoffen hergestellt werden. Das Entwicklungsteam arbeitet laut Woodly daran, den Anteil weiter zu erhöhen.
+![Woodly Kunststoff-Granulat. Bild/picture: Woody Ltd.](/img/img_20190930_104841557_hdr.jpg 'Woodly Kunststoff-Granulat. Bild/picture: Woody Ltd. | small')Der Rohstoff für das Woodly Plastik stammt aus FSC-zertifizierten Wäldern. Sie werden nach ökologischen und ethischen Standards bewirtschaftet. Das Unternehmen hat ein Zertifikat dafür, das garantiert, dass die Produkte zu 40 bis 60 Prozent aus erneuerbaren Rohstoffen hergestellt werden. Das Entwicklungsteam arbeitet laut Woodly daran, den Anteil weiter zu erhöhen.
 
 Rein rechnerisch ist der CO2-Fußabdruck von Woodly Kunststoff kleiner, als der ähnlicher Materialien. Er kann die Kreislaufwirtschaft durch seine Qualität und mechanischen Eigenschaften derzeit bis zu fünf Mal durchlaufen. Er wird also fünf Mal recycelt, ehe er verbrannt wird. Dabei entsteht 70 Prozent weniger fossiles Kohlendioxid, als bei der Verbrennung von herkömmlichen Kunststoffen.
 

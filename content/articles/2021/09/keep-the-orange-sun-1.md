@@ -9,9 +9,9 @@ description: awakened souls recorded a fantastic new album in cooperation with
   From Overseas aka Kévin Séry. It will be released tomorrow, so I'll take the
   chance to introduce it to you today. For me, "Keep The Orange Sun" is solid
   gold – it definitely needs to be part of my vinyl collection.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/ktos3-imagine-a8d8f8_787b82_5118_3555/640.webp
+image: /img/ktos3.jpg
 copyrigt: From Overseas & awakened souls
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/keep-the-orange-sun-fb-imagine-080808_6c6061_1200_628/640.webp
+ogImage: /img/keep-the-orange-sun-fb.png
 labels:
   - Ambient
   - Post-Rock
@@ -29,14 +29,13 @@ affiliate: false
 language: en
 languageLink: /2021/09/keep-the-orange-sun/
 ---
-
 **awakened souls recorded a fantastic new album in cooperation with From Overseas aka Kévin Séry. It will be released tomorrow, so I'll take the chance to introduce it to you today. For me, "Keep The Orange Sun" is solid gold – it definitely needs to be part of my vinyl collection.**
 
 If you don't know awakened souls by now: They are a musical couple from Los Angeles who already recorded three records together. Some days ago, they got to know Kévin through the ambient community. All three of them have been fans of each other's music for a long time, so when they met, they decided to make an album on Past Inside The Present Records.
 
 The outcome is quite magical. The music reflects the intense conversations the three artists had when they first met about their shared musical influences and inspirations.
 
-![From Overseas & awakened souls – "Keep The Orange Sun"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/keep-the-orange-sun-imagine-281818_3c2e26_1200_1200/640.webp "From Overseas & awakened souls – \"Keep The Orange Sun\"")
+![From Overseas & awakened souls – "Keep The Orange Sun"](/img/keep-the-orange-sun.jpg "From Overseas & awakened souls – \"Keep The Orange Sun\"")
 
 ## A Mindful Journey
 
@@ -46,7 +45,7 @@ Stylistically, the newborn trio relies on elements from the electronic, shoegaze
 
 This combination and the perfect-seeming harmony between the musicians provide an unbelievably rounded and versatile body of work that sends pleasant shivers down the spine of fans of all three genres.
 
-![From Overseas & awakened souls](https://storage.googleapis.com/cardamonchai-media/2021-11-14/ktos2-imagine-082818_6f7160_3048_2048/640.webp "From Overseas & awakened souls")
+![From Overseas & awakened souls](/img/ktos2.jpg "From Overseas & awakened souls")
 
 ## "Keep The Orange Sun" is a new masterpiece from From Overseas.
 
@@ -54,7 +53,7 @@ For me, "Keep The Orange Sun" is more than a pleasure. It is a beautiful success
 
 From the atmospheric sunrise in "Certainty Of Tides" to the emotionally charged sequences in "Any Of This Lies", and the soulful moments in "Rise", the LP spirals up until the sonic peak "Release/Adapt". So far, the track is my favourite on "Keep The Orange Sun". The song is incredibly vibrant. Especially the tender lyrics have it in them, making me dream while listening – of a world without doubts and insecurities.
 
-![From Overseas & awakened souls](https://storage.googleapis.com/cardamonchai-media/2021-11-14/ktos1-imagine-082818_756e57_2656_1819/640.webp "From Overseas & awakened souls")
+![From Overseas & awakened souls](/img/ktos1.jpg "From Overseas & awakened souls")
 
 With "Open Heart", From Overseas and awakened souls, open our hearts by giving our ears a wellness treatment. "Deepest Ocean" continues in a relaxed manner. A sound bath of feelings lets me dive into a chilly world full of darkness and light. Light swimming strokes lead me further in the direction of "Keep The Orange Sun". The album's eponym brings beautiful post-rock elements. The space seems endless and wide.
 

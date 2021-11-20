@@ -10,9 +10,9 @@ description: The post-rock band Lotus from Pune, India is aiming to push the
   in cascading waves of rhythmic groove and atmospheric guitars through an ocean
   of ambient harmonies. You can hear the influences of progressive rock, fusion,
   and electronic/ambient music in their sound.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2020-10-lotus-interview-l-imagine-282828_5a4e3a_1440_1080/640.webp
+image: /img/2020_10_lotus-interview__l.jpeg
 copyrigt: Lotus
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2020-10-lotus-interview-fb-png-l-imagine-282828_574a37_1440_754/640.webp
+ogImage: /img/2020_10_lotus-interview-fb.png__l.jpg
 labels:
   - Ambient
   - aswekeepsearching
@@ -31,7 +31,6 @@ affiliate: false
 language: en
 languageLink: /2020/10/lotus-interview
 ---
-
 **The post-rock band Lotus from Pune, India is aiming to push the envelope of genre-based music. The musicians intend to immerse their listeners in cascading waves of rhythmic groove and atmospheric guitars through an ocean of ambient harmonies. You can hear the influences of progressive rock, fusion, and electronic/ambient music in their sound.**
 
 The band consists of Siddharth Amarnath (Guitars) and Robert Alex (Bass/Guitar), who is already making headlines with his post-rock project aswekeepsearching. Recently vocalist Collin joined the band. Siddharth and Robert have been friends for a decade, and they have always been working on music together. Currently, they are working on a new album.

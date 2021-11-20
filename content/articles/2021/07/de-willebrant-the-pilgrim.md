@@ -10,9 +10,9 @@ description: Die neue Willebrant EP "The Pilgrim" handelt vom Weg eines
   Santiago inspirierten Songs haben es bei mir jetzt schon auf die Liste der
   schönsten Ambient-Platten des Jahres geschafft. Ein Klangbad mit Tiefgang
   erwartet Euch.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/willebrant-the-pilgrim-2-imagine-e8e8e8_b4b4b4_1024_768/640.webp
+image: /img/willebrant-the-pilgrim-2-.jpg
 copyrigt: Willebrant
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/willebrant-the-pilgrim-fb-imagine-181818_696969_1200_628/640.webp
+ogImage: /img/willebrant-the-pilgrim-fb.jpg
 labels:
   - Klangbad
   - Ambient
@@ -30,7 +30,6 @@ affiliate: false
 language: de
 languageLink: /2021/07/willebrant-the-pilgrim-en/
 ---
-
 **Es gibt eine neue EP von Willebrant! "The Pilgrim" handelt vom Weg eines Menschen, der zu einem Abenteuer aufbricht. Die fünf Songs sind vom Camino de Santiago inspiriert. Ein Klangbad mit Tiefgang erwartet Euch.**
 
 Der australische Sound-Künstler beschreibt seine neue Platte selbst so:
@@ -43,7 +42,7 @@ Für mich klingt das nicht nur mystisch, sondern mehr als spannend. Nach einem J
 
 Ich setze meine Kopfhörer auf und es geht los – mit einem Tauchgang. Ich lasse mich in das kühle Nass hinab gleiten und gleichzeitig auf den Sound der Tiefe ein, die ihr Gesicht nach und nach vor meinem inneren Auge enthüllt.
 
-![Willebrant – "The Pilgrim"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/willebrant-the-pilgrim-imagine-d8d8d8_b8b8b8_700_700/640.webp "Willebrant – \"The Pilgrim\"")
+![Willebrant – "The Pilgrim"](/img/willebrant-the-pilgrim.jpg "Willebrant – \"The Pilgrim\"")
 
 Harmonisch, ätherisch und fragil sind diese Klänge, die unbemerkt in das zweite Stück "Trail" übergehen. Ich sinke weiter. Die Umgebung wird etwas steiniger und steiler. Eine Glocke begleitet mich und führt mich durch das unbekannte Terrain.
 

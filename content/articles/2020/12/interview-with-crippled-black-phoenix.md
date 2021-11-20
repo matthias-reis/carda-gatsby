@@ -1,42 +1,42 @@
 ---
-date: 2020-12-20T15:13:42.000Z
+date: 2020-12-20T16:13:42.000+01:00
 labels:
-  - Bands
-  - Interviews
-  - Crippled Black Phoenix
-  - vegan celebrities
-  - Interview
-  - Prog
-  - "vegan music "
-  - vegan bands
-  - Prog
-  - animal rights
-  - Progressive
-  - Bristol
+- Bands
+- Interviews
+- Crippled Black Phoenix
+- vegan celebrities
+- Interview
+- Prog
+- 'vegan music '
+- vegan bands
+- Prog
+- animal rights
+- Progressive
+- Bristol
 language: en
 slug: crippled-black-phoenix-interview-en
 typeName: Interview
 title: Interview with Crippled Black Phoenix
 subTitle: '"We are sure as hell going to try"'
 seoTitle: Interview with Crippled Black Phoenix – "We are sure as hell going to try"
-ogTitle: ""
-description: Crippled Black Phoenix is one of the bands who always know how to
-  impress me – Most recently with their current album "Ellengæst". Now I could
-  arrange an interview with songwriter and singer Belinda Kordic and bandleader
-  Justin Greaves via video call.
-excerpt: Crippled Black Phoenix is one of the bands who always know how to
-  impress me – Most recently with their current album "Ellengæst". Now I could
-  arrange an interview with songwriter and singer Belinda Kordic and bandleader
-  Justin Greaves via video call.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/crippled-black-phoenix-interview-belinda-justin-imagine-080808_6f6f6f_1024_768/640.webp
+ogTitle: ''
+description: Crippled Black Phoenix is one of the bands who always know how to impress
+  me – Most recently with their current album "Ellengæst". Now I could arrange an
+  interview with songwriter and singer Belinda Kordic and bandleader Justin Greaves
+  via video call.
+excerpt: Crippled Black Phoenix is one of the bands who always know how to impress
+  me – Most recently with their current album "Ellengæst". Now I could arrange an
+  interview with songwriter and singer Belinda Kordic and bandleader Justin Greaves
+  via video call.
+image: "/img/crippled-black-phoenix-interview-belinda-justin.jpeg"
 copyright: Crippled Black Phoenix
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/crippled-black-phoenix-interview-belinda-justin-fb-imagine-080808_6e6e6e_1200_628/640.webp
+ogImage: "/img/crippled-black-phoenix-interview-belinda-justin-fb.png"
 focusKeyword: Crippled Black Phoenix
 advertisement: false
 affiliate: false
-languageLink: /2020/12/crippled-black-phoenix-interview
----
+languageLink: "/2020/12/crippled-black-phoenix-interview"
 
+---
 **Crippled Black Phoenix is one of the bands who always know how to impress me – Most recently with their current album "Ellengæst". Now I could arrange an interview with songwriter and singer Belinda Kordic and bandleader Justin Greaves via video call.**
 
 The conversation, in which Justin's cats were also actively involved, was incredibly inspiring. I talked with the two about their plans, animal rights, veganism, music, and activism. And, of course, about their record.
@@ -55,7 +55,7 @@ The conversation, in which Justin's cats were also actively involved, was incred
 
 **Anne:**  The song "Lost" from your new album, didn't let go of me and Matze, who I asked to write [a guest article](/2021/02/crippled-black-phoenix-lost-en/) on my blog about it. I had the feeling that he would be the right person to put it all into words. And it seems this intuition was right because you told me that you enjoyed reading it! The article is quite political and refers only partly to your song. I think, as well as you did, with your music, we felt the urge to look a bit deeper. What made you relate to it?
 
-![Belinda. Picture: © Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-14/crippled-black-phoenix-interview-rock-n-roll-vegan-belinda-imagine-080808_7b7b7b_768_1024/640.webp 'Belinda. Picture: © Crippled Black Phoenix')
+![Belinda. Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-belinda.jpeg 'Belinda. Picture: © Crippled Black Phoenix')
 
 **Belinda:** It was great! It was all put together really well.
 
@@ -95,7 +95,7 @@ Messages in a visual format is a very powerful tool. This is one good thing with
 
 I also give what I can to animal rights organizations and smaller charities. If I had more time, I would definitely go out more often being active, and doing things. But like I mentioned in another interview: I couldn't handle some parts of the crucial activism side, like investigating slaughterhouses. That would destroy me. I'd end up jumping from a bridge.
 
-![Justin. Picture: © Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-14/crippled-black-phoenix-interview-rock-n-roll-vegan-justin-1-imagine-181818_606060_768_1024/640.webp 'Justin. Picture: © Crippled Black Phoenix')
+![Justin. Picture: © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-justin-1.jpeg 'Justin. Picture: © Crippled Black Phoenix')
 
 **Justin:** Equal measure. Mentally I have always been an activist. But we can only do as much as we can and what is possible in our situation. It hasn't always been possible. But being a musician gives you a voice. I think that is what has made the activist side of us. Finally, we can do a little bit more. Most of what we can do is to use our voices! It is tricky, though, to find the right balance because, unfortunately, people go blank. Animal rights are not political – it's a social problem. People don't like it.
 
@@ -133,7 +133,7 @@ I also want to say that we are not demonizing non-vegans. It doesn't automatical
 
 **Justin:** The truth is that we wrote the album a year and a half ago. We recorded the songs in October 2019. So it was a coincidence it connected with 2020. For example, the song "Lost" is not 2020 really specific. It is such a big topic. It is how we see the world.
 
-![Picture:  © Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-14/crippled-black-phoenix-interview-rock-n-roll-vegan-justin-imagine-080808_525756_1024_768/640.webp 'Picture: © Crippled Black Phoenix')
+![Picture:  © Crippled Black Phoenix](/img/crippled-black-phoenix-interview-rock-n-roll-vegan-justin.jpeg 'Picture: © Crippled Black Phoenix')
 
 I don't think that it got necessarily worse this year. I would say 2020 exposed a lot of things. Everyone is shocked, and everyone says that 2020 is really bad, but what is going on this year has been going on for so many years. People just became aware of it. People have been trying to raise the subject of climate change for 50 years now, for example. And in 2020, it's become a thing.
 

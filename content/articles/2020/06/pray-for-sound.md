@@ -1,45 +1,45 @@
 ---
 labels:
-  - Pray For Sound
-  - Post-Rock
-  - Interview
-  - Interviews
-  - Bands
-  - A Thousand Arms
-  - Boston
-  - DUNK!festival
-  - DUNK!records
-  - English & German
-  - Post.Recordings
-  - Remote Recording
-  - Records
-  - Vinyl
-  - Sub Phatty
-  - Synthesizer
-  - Recording
-  - Voyager
-  - Dunk Festival
-  - Dunk Records
+- Pray For Sound
+- Post-Rock
+- Interview
+- Interviews
+- Bands
+- A Thousand Arms
+- Boston
+- DUNK!festival
+- DUNK!records
+- English & German
+- Post.Recordings
+- Remote Recording
+- Records
+- Vinyl
+- Sub Phatty
+- Synthesizer
+- Recording
+- Voyager
+- Dunk Festival
+- Dunk Records
 language: en
-date: 2020-06-05T18:41:00.000Z
+date: 2020-06-05T20:41:00+02:00
 slug: pray-for-sound-interview-en
 typeName: Interview
 title: Pray For Sound
 subTitle: '"These Songs are like a Therapy"'
 seoTitle: Interview With Pray For Sound – "These Songs are like a Therapy"
-ogTitle: ""
-description: Today I have prepared a very special interview for you. None other
-  than the wonderful post-rock band Pray for Sound answered my questions.
-excerpt: ""
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/pray-for-sound-waves-imagine-c8c8c8_6f6a6e_1027_766/640.webp
+ogTitle: ''
+description: Today I have prepared a very special interview for you. None other than
+  the wonderful post-rock band Pray for Sound answered my questions.
+excerpt: ''
+image: "/img/pray-for-sound-waves.jpeg"
 copyright: Pray For Sound
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/pray-for-sound-fb-1-imagine-c8c8c8_6e696d_1024_768/640.webp
+ogImage: "/img/pray-for-sound-fb-1.png"
 focusKeyword: Pray For Sound
 advertisement: false
 affiliate: false
-languageLink: /2020/06/pray-for-sound-interview
----
+languageLink: "/2020/06/pray-for-sound-interview"
 
+---
 **Today I have prepared a very special interview for you. None other than the wonderful post-rock band Pray for Sound answered my questions.**
 
 The first time I've seen Pray for Sound live on stage was at the DUNK! Festival 2017. At least since this memorable hour, my heart has been beating for the band from Boston. Recently they released their new album "Waves". Now I had the opportunity to talk to guitarist Bruce Malley, drums and synthesizer representative Steve Aliperta and guitarist Nick Stewart.

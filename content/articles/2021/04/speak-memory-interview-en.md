@@ -1,20 +1,15 @@
 ---
 templateKey: article
-date: 2021-04-20T08:21:57.573Z
+date: 2021-04-20T08:21:57.573+00:00
 slug: speak-memory-interview-en
 typeName: Beitrag
 title: '"Adirondack"'
 subTitle: Speak, Memory guitarist Tim about their new EP
 seoTitle: Speak, Memory guitarist Tim about their new EP "Adirondack"
-description: I've talked to Speak, Memory guitarist Tim about their upcoming
-  album "Adirondack" and the band's history. The band from Oklahoma City is
-  planning to release it early this May.
-excerpt: Speak, Memory describe themselves as "Somewhere between the limitless
-  world building of early Explosions in the Sky and the mathy noodling of
-  American Football". Sounds pretty exciting, doesn't it? The band from Oklahoma
-  City is planning to release their new EP soon. Time for an interview!
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/speak-memory-3-imagine-483828_565045_1024_768/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/speak-memory-fb-imagine-483828_4e463a_1200_628/640.webp
+description: I've talked to Speak, Memory guitarist Tim about their upcoming album "Adirondack" and the band's history. The band from Oklahoma City is planning to release it early this May.
+excerpt: Speak, Memory describe themselves as "Somewhere between the limitless world building of early Explosions in the Sky and the mathy noodling of American Football". Sounds pretty exciting, doesn't it? The band from Oklahoma City is planning to release their new EP soon. Time for an interview!
+image: '/img/speak-memory-3-.jpg'
+ogImage: '/img/speak-memory-fb.png'
 labels:
   - Adirondack
   - Bands
@@ -31,7 +26,7 @@ focusKeyword: Speak Memory
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2021/04/speak-memory-interview
+languageLink: '/2021/04/speak-memory-interview'
 ---
 
 **Speak, Memory describe themselves as "Somewhere between the limitless world building of early Explosions in the Sky and the mathy noodling of American Football". Sounds pretty exciting, doesn't it? The band from Oklahoma City is planning to release their new EP soon. Time for an interview!**
@@ -54,7 +49,7 @@ With their songs, Speak, Memory want to send their listeners on a journey that i
 
 ## "We are very happy with our new EP"
 
-![Speak, Memory Adirondack](https://storage.googleapis.com/cardamonchai-media/2021-11-14/speak-memory-adirondack-imagine-080818_776e7a_350_350/640.webp 'Speak, Memory – "Adirondack"')
+![Speak, Memory Adirondack](/img/speak-memory-adirondack.jpeg 'Speak, Memory – "Adirondack"')
 
 **Anne:** None other than Bartees Strange mixed your EP. How was it like working with him?
 
@@ -70,7 +65,7 @@ With their songs, Speak, Memory want to send their listeners on a journey that i
 
 ## "I hope there will be a future for online streaming after COVID"
 
-![Speak, Memory](https://storage.googleapis.com/cardamonchai-media/2021-11-14/speak-memory-2-imagine-888888_797c74_1024_768/640.webp 'Speak, Memory')
+![Speak, Memory](/img/speak-memory-2-.jpg 'Speak, Memory')
 
 **Tim:** Word of mouth, really! The biggest thing is to raise awareness about the EP and let as many people know about it. I hope being able to speak with you here will help win over some readers. We actually had a premiere for the song "Trails" over at BrooklynVegan, which left us speechless. We haven't planned anything online, though I have a unique idea for our release show to incorporate the live stream. Whatever happens, we'd love to do something online! I hope once things calm down with the pandemic, live-streaming will be here to stay. I have many friends who have enjoyed the experience, so I believe there's a future for it beyond this dark period of our lives.
 
@@ -84,7 +79,7 @@ The drums on the last part of the song "Lakes" has a Stewart Copeland (drummer f
 
 ## "Snowing and Algernon Cadwallader are two of my biggest influences"
 
-![Speak, Memory](https://storage.googleapis.com/cardamonchai-media/2021-11-14/138300263-4276295189054340-8715602421430894793-n-imagine-c8c8c8_8c8983_1440_960/640.webp 'Speak, Memory')
+![Speak, Memory](/img/138300263_4276295189054340_8715602421430894793_n.jpeg 'Speak, Memory')
 
 **Anne:** You named Snowing and Algernon Cadwallader as two of your biggest influences. Which of their songs/albums do you like best?
 

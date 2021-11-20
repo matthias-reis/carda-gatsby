@@ -3,13 +3,11 @@ date: 2020-07-03T08:53:15.098Z
 slug: fly-pan-am-interview-en
 typeName: Interview
 title: Fly Pan Am
-subTitle: "\"We Want To Create Things That We Don't Understand\""
+subTitle: '"We Want To Create Things That We Don''t Understand"'
 seoTitle: Interview With Fly Pan Am – "We Want To Create Things That We Don't Understand"
-description: Today I have something to share with you that I'm very proud of.
-  Fly Pan Am have agreed to an interview. They have revealed some things about
-  their music and their relationship with the post-rock community.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2020-05-fly-pan-am-1-l-imagine-180808_703236_1440_1080/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2020-05-fly-pan-am-fb-png-l-imagine-180808_833a45_1440_754/640.webp
+description: Today I have something to share with you that I'm very proud of. Fly Pan Am have agreed to an interview. They have revealed some things about their music and their relationship with the post-rock community.
+image: /img/2020_05_fly-pan-am-1__l.jpeg
+ogImage: /img/2020_05_fly-pan-am-fb.png__l.jpg
 labels:
   - Ambient
   - Animals of Distinction

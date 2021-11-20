@@ -2,11 +2,12 @@
 templateKey: article
 title: Feuer im Regenwald
 subTitle: Das traurige Los der Orang-Utans
-description: "Die Orang-Utans sterben aus. Niemand scheint sich darum zu
-  kümmern. Schuld ist ein Produkt, mit dem sich viele noch nie beschäftigt
-  haben: Palmöl."
+description: >-
+  Die Orang-Utans sterben aus. Niemand scheint sich darum zu kümmern. Schuld ist ein Produkt, mit dem sich viele noch nie beschäftigt haben: Palmöl.
+
+
 date: 2015-11-10T14:40:29.418Z
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/orang-utan-2943873-1280-imagine-f8f8f8_98945f_1280_853/640.webp
+image: '/img/orang-utan-2943873_1280.jpg'
 labels:
   - Klima- & Umweltschutz
   - Orang-Utan

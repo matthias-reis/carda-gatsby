@@ -8,9 +8,9 @@ seoTitle: Mit Hof Windkind als Bodenpat*in selbst aktiv Biolandwirtschaft betrei
 description: Mit Hof Windkind verbindet mich inzwischen schon eine langjährige
   Freundschaft. Das Gründerpaar Silvia und David baut dort bio-vegane Nüsse an,
   aus denen sie unter anderem hochwertiges Walnussöl herstellen.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-09-22-hof-windkind-walnussoel-3-imagine-080808_584739_1024_768/640.webp
+image: /img/2021-09-22-hof-windkind-walnussoel-3.jpg
 copyrigt: ""
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/hof-windkind-bio-vegane-landwirtschaft-fb-imagine-080808_5b4b3f_1200_628/640.webp
+ogImage: /img/hof-windkind-bio-vegane-landwirtschaft-fb.png
 labels:
   - Ernährung & Gesundheit
   - Vegan
@@ -39,7 +39,6 @@ advertisement: true
 affiliate: false
 language: de
 ---
-
 **Mit Hof Windkind verbindet mich inzwischen schon eine langjährige Freundschaft. Das Gründerpaar Silvia und David baut dort bio-vegane Nüsse an, aus denen sie unter anderem hochwertiges Walnussöl herstellen.**
 
 Die beiden sind willkommene Gäste auf meiner Seite und melden sich immer wieder mit tollen Ideen bei mir. Eine davon – die Basis ihrer Arbeit – sind ihre Patenschaften.

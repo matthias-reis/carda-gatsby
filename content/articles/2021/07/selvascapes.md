@@ -10,9 +10,9 @@ description: Das neue Perry Frank Album "Selvascapes" ist eine Kollaboration mit
   Die CD ist am 24. Juli erschienen und ein echter Geheimtipp. Für Fans von
   traumhaften Sound-Landschaften. Ich habe sie schon gehört.
 excerpt: ""
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/selvascapes-perry-frank-lauge-imagine-080808_48463a_1024_768/640.webp
+image: /img/selvascapes-perry-frank-lauge.jpg
 copyrigt: Perry Frank & Lauge
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/selvascapes-perry-frank-lauge-fb-imagine-080808_504f45_1200_628/640.webp
+ogImage: /img/selvascapes-perry-frank-lauge-fb.png
 labels:
   - Francesco Perra
   - Perry Frank
@@ -32,12 +32,11 @@ affiliate: false
 language: de
 languageLink: /2021/07/perry-frank-lauge-selvascapes-en/
 ---
-
 **Das neue Perry Frank Album "Selvascapes" ist eine Kollaboration mit dem dänischen Ambient Producer Lauge. Die CD ist am 24. Juli erschienen und ein echter Geheimtipp für Fans von traumhaften Sound-Landschaften.**
 
 Hinter dem Namen Lauge steckt der Komponist Henrik Laugesen. Der Autodidakt hat inzwischen elf Alben (unter anderem mit Collapsed Texctures) veröffentlicht und ist Teil der unterschiedlichsten Kooperationen wie zum Beispiel Lauge & Baba Gnohm und Sullen Sky. 
 
-![Perry Frank & Lauge – "Selvascapes"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/selvascapes-artwork-stores-imagine-f8f8f8_a39f9c_1440_1440/640.webp "Perry Frank & Lauge – \"Selvascapes\"")
+![Perry Frank & Lauge – "Selvascapes"](/img/selvascapes-artwork-stores.jpg "Perry Frank & Lauge – \"Selvascapes\"")
 
 Ihr kennt ihn vielleicht auch von seinem Sound Design Projekt Luftrum, das ich hier auch ganz sicher schon mal erwähnt habe. Außerdem findet man ihn unter anderem bei Spotify unter dem Namen Ambient Soundscapes. Seine Bandbreite erforscht er selbst immer wieder aufs Neue. Sie reicht von Beat-losen Texturen über Drone-Sounds bis hin zu Neoclassical Ambient und Psychedelischen Downtempo-Stücken.
 
@@ -59,7 +58,7 @@ Damit angefangen hat er 2005 in seiner sardischen Heimat. Noch heute nimmt er do
 
 erzählen sie auf Francescos Webseite. Alle Stücke auf der Platte haben eine Verbindung zum Wald. Das spiegelt sich in den Titeln und der Musik wider. Die Songs handeln von Weite, Ungeheuerlichkeit, Abgeschlossenheit, offenem Raum und der Natur. Beim Hören durchwandert man die Landschaften, die Francesco und Henrik beim Komponieren vor Augen hatten.
 
-![Francesco Perra aka Perry Frank](https://storage.googleapis.com/cardamonchai-media/2021-11-14/perry-frank-imagine-282818_3c4a2e_1024_768/640.webp "Francesco Perra aka Perry Frank")
+![Francesco Perra aka Perry Frank](/img/perry-frank.jpg "Francesco Perra aka Perry Frank")
 
 ## "Selvacapes" erzählt von der Natur
 
@@ -75,7 +74,7 @@ Der Titel ist eine Kombination aus dem lateinischen "Selva" (Wald) und "Soundsca
 
 > "Wir meinen das natürlich auch im ökologischen Sinne. Der Wald ist ein Lebensort, der für das Überleben der meisten Lebewesen auf der Erde, einschließlich des Homo Sapiens, verantwortlich ist. Für uns hat er aber auch auf abstrakte Weise eine Rolle gespielt. Er ist für uns eine Art mentaler Zustand. Er steht sozusagen für die Verwirrung des modernen Menschen – das ist ja teilweise auch die dantische Bedeutung des Begriffs.
 
-![Henrik Laugesen aka Lauge](https://storage.googleapis.com/cardamonchai-media/2021-11-14/lauge-imagine-181818_5d5753_1024_768/640.webp "Henrik Laugesen aka Lauge")
+![Henrik Laugesen aka Lauge](/img/lauge.jpg "Henrik Laugesen aka Lauge")
 
 ## Musik und die Natur
 

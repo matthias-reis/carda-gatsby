@@ -8,9 +8,9 @@ seoTitle: WaterBear Network – A Streaming Platform For Modern Activism
 description: "\"We don't want you to Netflix &amp; chill. We want you to
   WaterBear and act!\" - Lisa Rose, Head of Impact at the sustainability
   streaming service WaterBear, said yesterday at a digital conference."
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-02-waterbear-1-l-imagine-080808_404243_1440_1080/640.webp
+image: /img/2021_02_waterbear-1__l.jpeg
 copyrigt: WaterBear
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-02-waterbear-fb-png-l-imagine-080808_434442_1440_754/640.webp
+ogImage: /img/2021_02_waterbear-fb.png__l.jpg
 labels:
   - Aktivismus
   - Bücher & Filme
@@ -26,7 +26,6 @@ affiliate: false
 language: en
 languageLink: /2021/02/waterbear-streamingdienst/
 ---
-
 **"We don't want you to Netflix &amp; chill. We want you to WaterBear and act!" - Lisa Rose, Head of Impact at the sustainability streaming service WaterBear, said yesterday at a digital conference.**
 
 WaterBear is the antithesis to Netflix, Prime &amp; Co., showing footage from a wide range of activists and NGOs. The British start-up is still very young and already on the rise worldwide. There are now only a few countries left where the programme is not available.

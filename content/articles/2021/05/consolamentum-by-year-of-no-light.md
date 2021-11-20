@@ -1,5 +1,5 @@
 ---
-date: 2021-05-02T17:21:42.000Z
+date: 2021-05-02T17:21:42.000+00:00
 slug: year-of-no-light-consolamentum-en
 typeName: Review
 title: Year Of No Light – "Consolamentum"
@@ -11,8 +11,8 @@ description: 'Year Of No Light have finished their new album! "Consolamentum"
   it, and I concluded: It is an extraordinary record. You should definitely
   consider adding it to your collection.'
 excerpt: ""
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/year-of-no-light-imagine-f8f8f8_767271_1024_768/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/year-of-no-light-fb-imagine-f8f8f8_6a6564_1200_628/640.webp
+image: /img/year-of-no-light.jpg
+ogImage: /img/year-of-no-light-fb.png
 labels:
   - Year Of No Light
   - post-rock
@@ -46,7 +46,7 @@ You need to watch the Oscar-worthy video for Réalgar. But even without pictures
 
 ## The complete Year Of No Light discography in a wooden box
 
-![Year Of No Light](https://storage.googleapis.com/cardamonchai-media/2021-11-14/year-of-no-light-3-imagine-f8f8f8_b49c9a_800_800/640.webp)
+![Year Of No Light](/img/year-of-no-light-3.png)
 
 This year the post-rock pioneers celebrate their 20th anniversary. To celebrate, Pelagic Records are not only releasing their new album "Consolamentum". There will also be a wooden box set including the band's complete discography with five studio albums, various split EPs and the collaboration with Belgian composer Dirk Serries from the "Live At Roadburn" Recordings series. In total, the set includes 12 vinyl records.
 
@@ -58,7 +58,7 @@ What sounds mystical fits perfectly with the 21st-century opera composed by Year
 
 > "There is a thread that runs through all our albums. An exploration of the sensitive world that obeys a certain telos, first fantasised ("North") and reverberated ("Outworld"), then declaimed as a warning ("Tocsin"). The deeper we dig, the more the motifs to be revealed come to light. Yes, it's a bit gnostic. This album is conjured after the Tocsin; it's the epiphany of the Fall."
 
-![Year Of No Light | small](https://storage.googleapis.com/cardamonchai-media/2021-11-14/year-of-no-light-1-imagine-181808_24150e_800_800/640.webp)
+![Year Of No Light | small](/img/year-of-no-light-1.jpeg)
 
 Year Of No Light have always placed great emphasis on the audio-visual part. You can see this in their legendary live shows and in their videos, of which there will certainly also be some for the songs on this record.
 

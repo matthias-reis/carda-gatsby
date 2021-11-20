@@ -9,9 +9,9 @@ description: Crown will release their new album on April 16th. I've already had
   the chance to listen to "The End Of All Things" and now I want to recommend it
   to you. As fans of post-rock and industrial, you will definitely get what you
   want.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-04-crown-the-end-of-all-things-l-imagine-686868_848383_1440_1080/640.webp
+image: /img/2021_04_crown-the-end-of-all-things__l.jpeg
 copyrigt: Crown
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-04-crown-the-end-of-all-things-fb-png-l-imagine-686868_797979_1440_754/640.webp
+ogImage: /img/2021_04_crown-the-end-of-all-things-fb.png__l.jpg
 labels:
   - Bands
   - Crown
@@ -26,7 +26,6 @@ affiliate: false
 language: en
 languageLink: /2021/04/crown-the-end-of-all-things
 ---
-
 **Crown will release their new album on April 16th. I've already had the chance to listen to "The End Of All Things" and now I want to recommend it to you. As fans of post-rock and industrial, you will definitely get what you want.**
 
 I already presented the first single, "Illumination", to you in my [music list for March](/2021/02/musikliste-maerz-2021/). If you have been following the band since then, you probably already know the second one called "Violence". Both of them made me want more, so I certainly couldn't resist listening to the whole record already. And once more. And once more. Honestly: Crown's music doesn't get out of your head that quickly – which is pretty good, I think.

@@ -1,19 +1,15 @@
 ---
 templateKey: article
-date: 2021-04-27T16:16:36.963Z
+date: 2021-04-27T16:16:36.963+00:00
 slug: blessings-biskopskniven
 typeName: Review
 title: '"Biskopskniven" von Blessings'
 subTitle: Post-Hardcore vom Feinsten
 seoTitle: '"Biskopskniven" von Blessings – Post-Hardcore vom Feinsten'
-description: '"Biskopskniven" von Blessings ist ein weiteres Album-Highlight für
-  das Jahr 2021. Ich habe mir die Platte schonmal angehört.'
-excerpt: '"Biskopskniven" von Blessings ist ein weiteres Album-Highlight für das
-  Jahr 2021. Die Platte erscheint am 21. Mai bei Pelagic Records und bietet
-  einige Überraschungen. Ich habe sie mir schon angehört und möchte sie Euch
-  hiermit ans Herz legen.'
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/blessings-imagine-080818_433e37_1024_768/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/blessings-fb-imagine-080818_464036_1200_628/640.webp
+description: '"Biskopskniven" von Blessings ist ein weiteres Album-Highlight für das Jahr 2021. Ich habe mir die Platte schonmal angehört.'
+excerpt: '"Biskopskniven" von Blessings ist ein weiteres Album-Highlight für das Jahr 2021. Die Platte erscheint am 21. Mai bei Pelagic Records und bietet einige Überraschungen. Ich habe sie mir schon angehört und möchte sie Euch hiermit ans Herz legen.'
+image: '/img/blessings.jpg'
+ogImage: '/img/blessings-fb.jpg'
 labels:
   - Bands
   - Review
@@ -35,7 +31,7 @@ focusKeyword: Biskopskniven
 advertisement: false
 affiliate: false
 language: de
-languageLink: /2021/04/blessings-biskopskniven-en
+languageLink: '/2021/04/blessings-biskopskniven-en'
 ---
 
 **Von Blessings erscheint am 21. Mai ein neues musikalisches Highlight aus der Post-Music Ecke. Verantwortlich für das neue Album "Biskopskniven" ist das The Ocean Label Pelagic Records. Ich habe schon mal reingehört.**
@@ -44,7 +40,7 @@ Das erste Stück trägt den Namen "The Hound". Es geht gleich mal so richtig unt
 
 ## "A Belly Full Of Stone"
 
-![Blessings – "Biskopskniven"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/blessings-biskopskniven-cover-imagine-181818_565658_1200_1200/640.webp 'Blessings – "Biskopskniven"' "Blessings – \"Biskopskniven\"")
+![Blessings – "Biskopskniven"](/img/blessings-biskopskniven-cover.jpeg 'Blessings – "Biskopskniven"' "Blessings – \"Biskopskniven\"")
 
 Den dritten Song auf "Biskopskniven" könnt Ihr Euch genau wie den sechsten ("Iron Heel") jetzt schon anhören. "A Belly Full Of Stone" beginnt mit scheppernden Noise-Effekten und ufert in ein wütendes, treibendes und starkes Stück aus, das die Punk-Freund⋆innen unter Euch erfreuen sollte.
 

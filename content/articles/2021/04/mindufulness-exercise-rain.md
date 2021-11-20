@@ -12,8 +12,8 @@ description: Today, I have prepared another mindfulness exercise for you. Since
 excerpt: Today, I have prepared another mindfulness exercise for you. Since it
   is about an essential topic from nature, it fits in perfectly with spring.
   Today you are going to go for a walk and enjoy the rain.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-04-30-regen-4-imagine-285808_6a7a39_1024_768/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/achtsamkeitsuebung-regen-fb-imagine-386808_778043_1200_628/640.webp
+image: /img/2021-04-30-regen-4.jpg
+ogImage: /img/achtsamkeitsuebung-regen-fb.jpg
 labels:
   - Mindfulness
   - mindful

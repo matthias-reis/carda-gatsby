@@ -10,9 +10,9 @@ description: Fans of bands like pg.lost, Thrice, Cult Of Luna and Russian
   up on October 8th that you should definitely consider listening to. With their
   new record, "Snake Behind The Sun", the Pelagic signed band Shy, Low really
   hits the spot.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/shy-low-imagine-080818_3c362b_1024_768/640.webp
+image: /img/shy-low.jpg
 copyrigt: Shy, Low
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/shy-low-fb-imagine-080818_312e28_1200_628/640.webp
+ogImage: /img/shy-low-fb.jpg
 labels:
   - Post-Rock
   - Post-Music
@@ -35,14 +35,13 @@ affiliate: false
 language: en
 languageLink: /2021/09/shy-low-snake-behind-the-sun/
 ---
-
 **Fans of bands like pg.lost, Thrice, Cult Of Luna and Russian Circles should pay attention to this record review. There is an album coming up on October 8th that you should definitely consider listening to. With their new record, "Snake Behind The Sun", the Pelagic signed band Shy, Low really hits the spot.**
 
 Shy, Low show other post-music acts how contrasty music should sound.  With the quartet from Richmond, Virginia, everything takes place between hard riffs and filigree melodies. The swelling tension that emerges, again and again, is glorious.
 
 ## Sophisticated songwriting
 
-![Shy, Low – "Snake Behind The Sun"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/shylow1627286341508331-imagine-d82838_b4252e_440_440/640.webp "Shy, Low – \\"Snake Behind The Sun\\"")
+![Shy, Low – "Snake Behind The Sun"](/img/shylow1627286341508331.jpg "Shy, Low – \\"Snake Behind The Sun\\"")
 
 The album is solid and brutal –  You might say: Its sophisticated songwriting has put it to life. "Snake Behind The Sun" is great music for all those who like multi-layered, complex and groovy sounds without wanting to forego any heaviness.
 
@@ -56,7 +55,7 @@ At that moment, producer and sound engineer Mike Watts (The Dillinger Escape Pla
 
 ## Instrumental music at its best
 
-![Shy, Low](https://storage.googleapis.com/cardamonchai-media/2021-11-14/shy-low-1-imagine-181818_424242_532_800/640.webp "Shy, Low")
+![Shy, Low](/img/shy-low-1-.jpg "Shy, Low")
 
 The legendary drum room at Vudu Studios and drummer Dylan Partridge's work (he hadn't even been a permanent band member at the time) then did the rest. Zak continued:
 

@@ -8,9 +8,9 @@ seoTitle: Interview With Vandemonian Frontman Nick – "You Can't Be Silent Thes
 description: The Hamburg post-rock band Vandemonian recently released their
   great debut album "Xenophilia". I have now arranged an interview with frontman
   Nick.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-03-7-l-imagine-080808_484848_1440_1080/640.webp
+image: /img/2021_03_7__l.jpeg
 copyrigt: Vandemonian
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-03-vandemonian-fb-1-png-l-imagine-080808_767e7f_1440_754/640.webp
+ogImage: /img/2021_03_vandemonian-fb-1.png__l.jpg
 labels:
   - Bands
   - English & German
@@ -25,7 +25,6 @@ affiliate: false
 language: en
 languageLink: /2021/03/vandemonian-frontman-nick
 ---
-
 **The Hamburg post-rock band Vandemonian recently released their great debut album "Xenophilia". I have now arranged an interview with frontman Nick.**
 
 Unlike many other post-rock bands, Vandemonian don't renounce singing. This is mainly because they have a very clear political opinion, which they want to represent openly. And how could this be done better than in the form of lyrics? I talked to Nick about this and about the current global situation.

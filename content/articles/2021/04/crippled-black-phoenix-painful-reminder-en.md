@@ -1,21 +1,15 @@
 ---
 templateKey: article
-date: 2021-04-29T11:19:25.158Z
+date: 2021-04-29T11:19:25.158+00:00
 slug: crippled-black-phoenix-painful-reminder-en
 typeName: Review
 title: Crippled Black Phoenix cover "Painful Reminder"
 subTitle: In loving memory of SNFU singer Mr. Chi Pig
-seoTitle: Crippled Black Phoenix cover "Painful Reminder" in loving memory of
-  SNFU singer Mr. Chi Pig
-description: Crippled Black Phoenix have just released their new single "Painful
-  Reminder". It is a cover version of the SNFU song. It is their first recording
-  with their new singer and lyricist Joel Segerstedt.
-excerpt: Crippled Black Phoenix have just released their new single "Painful
-  Reminder". It is a cover version of the SNFU song and their first recording
-  with their new singer and lyricist Joel Segerstedt, who is now a full member
-  of the band.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/painful-reminder-cbp-imagine-080808_130e12_700_700/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/painful-reminder-cbp-fb-imagine-080808_0b080a_1200_628/640.webp
+seoTitle: Crippled Black Phoenix cover "Painful Reminder" in loving memory of SNFU singer Mr. Chi Pig
+description: Crippled Black Phoenix have just released their new single "Painful Reminder". It is a cover version of the SNFU song. It is their first recording with their new singer and lyricist Joel Segerstedt.
+excerpt: Crippled Black Phoenix have just released their new single "Painful Reminder". It is a cover version of the SNFU song and their first recording with their new singer and lyricist Joel Segerstedt, who is now a full member of the band.
+image: '/img/painful-reminder-cbp.jpg'
+ogImage: '/img/painful-reminder-cbp-fb.jpg'
 labels:
   - Review
   - Bands
@@ -32,7 +26,7 @@ focusKeyword: Painful Reminder
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2021/04/crippled-black-phoenix-painful-reminder
+languageLink: '/2021/04/crippled-black-phoenix-painful-reminder'
 copyright: Crippled Black Phoenix
 ---
 
@@ -42,7 +36,7 @@ The song is part of the 2-song EP "Painful Reminder/Dead Is Dead", which will be
 
 ## Crippled Black Phoenix introduce a new singer
 
-![Crippled Black Phoenix – "Painful Reminder"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/painful-reminder-cbp-imagine-080808_130e12_700_700/640.webp 'Crippled Black Phoenix – "Painful Reminder"')
+![Crippled Black Phoenix – "Painful Reminder"](/img/painful-reminder-cbp.jpeg 'Crippled Black Phoenix – "Painful Reminder"')
 
 Joel's voice contrasts with Belinda's singing. The result is a pleasant dynamic. Here is a statement Crippled Black Phoenix made about it:
 

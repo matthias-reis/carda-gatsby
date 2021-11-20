@@ -9,9 +9,9 @@ description: 'You know Heavybird aka Evan Glenn Adams at least since my
   interview with the multi-instrumentalist last year. Now the time has come:
   Evan has finished his new album "Pine Trees &amp; The Faint Sound Of Buzzing".
   He will release it on March, 19th and I had the chance to listen to it now.'
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-01-heavybird-3-l-imagine-080808_50669d_1440_1080/640.webp
+image: /img/2021_01_heavybird-3__l.jpeg
 copyrigt: Heavybird
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-01-heavybird-1-png-l-imagine-080808_324165_1440_754/640.webp
+ogImage: /img/2021_01_heavybird-1.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -26,7 +26,6 @@ affiliate: false
 language: en
 languageLink: /2021/01/heavybird-pine-trees-the-faint-sound-of-buzzing
 ---
-
 **You know Heavybird aka Evan Glenn Adams at least since my interview with the multi-instrumentalist last year. Now the time has come: Evan has finished his new album "Pine Trees &amp; The Faint Sound Of Buzzing". He will release it on March, 19th and I had the chance to listen to it now.**
 
 After "it Hurts &amp; it Heals" from 2015 and "The Search" from 2017, Heavybird strikes new notes with "Pine Trees &amp; The Faint Sound Of Buzzing". Evan's philosophical lyrics reflect our contemporary times very graphically. Simultaneously, the record invites you to tune out pleasantly, as you are used to from Heavybird's musical works.

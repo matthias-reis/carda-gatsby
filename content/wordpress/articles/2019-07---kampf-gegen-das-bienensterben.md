@@ -1,16 +1,12 @@
 ---
-date: 2019-07-10T10:14:46.000Z
+date: 2019-07-10T10:14:46Z
 slug: kampf-gegen-das-bienensterben
-path: /2019/07/kampf-gegen-das-bienensterben/
+path: '/2019/07/kampf-gegen-das-bienensterben/'
 title: Kampf gegen das Bienensterben
 seoTitle: Kampf gegen das Bienensterben - Milben, Pflanzenschutzmittel, Honig
 ogTitle: Kampf gegen das Bienensterben - Milben, Pflanzenschutzmittel, Honig
-description: "Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir
-  sind diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit
-  drängt."
-excerpt: "Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind
-  diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit
-  drängt."
+description: 'Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit drängt.'
+excerpt: 'Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit drängt.'
 fileName: 2019-07---kampf-gegen-das-bienensterben.md
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_07_bienen-fb-1.png__l.jpg
 labels:
@@ -32,9 +28,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Milben, Pflanzenschutzmittel und Honigproduktion
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-05-2020-04-10-bienenbalkon-44-imagine-180808_656758_1024_768/640.webp
-year: "2019"
-month: "07"
+image: '/img/2021-05-2020-04-10-bienenbalkon-44.jpeg'
+year: '2019'
+month: '07'
 ---
 
 **Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind diejenigen, die dafür die Verantwortung übernehmen sollten und das so schnell wie möglich. Die Zeit drängt und es steht einiges auf dem Spiel.**

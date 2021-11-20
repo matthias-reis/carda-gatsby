@@ -1,38 +1,38 @@
 ---
-date: 2021-06-04T11:00:42.000Z
+date: 2021-06-04T13:00:42.000+02:00
 labels:
-  - Obscured by the Wind
-  - Bands
-  - Thot
-  - Vegetal Noise
-  - Post-Rock
-  - Industrial
-  - Vollmond
-  - Review
-  - Reviews
-  - English & German
+- Obscured by the Wind
+- Bands
+- Thot
+- Vegetal Noise
+- Post-Rock
+- Industrial
+- Vollmond
+- Review
+- Reviews
+- English & German
 language: de
 slug: thot-feiern-10-jahre-obscured-by-the-wind
 typeName: Review
 title: Thot feiern 10 Jahre "Obscured by the Wind"
 subTitle: '"Blue & Green (are melting down in a new seed)"'
 seoTitle: Thot feiern 10 Jahre "Obscured by the Wind" mit einem besonderen Video
-ogTitle: ""
-description: Mit einer atemberaubenden Aufnahme des Songs "Blue & Green" feiern
-  Thot das 10-jährige Jubiläum des grandiosen Albums "Obscured by the Wind".
-excerpt: Mit einer atemberaubenden Live-Aufnahme des Songs "Blue & Green (are
-  melting down in a new seed)" feiern Thot das 10-jährige Jubiläum ihres
-  grandiosen Albums "Obscured by the Wind". Das Video ist ab sofort verfügbar.
-  Ich habe mit Thot Gründer Grégoire darüber gesprochen.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-cat-imagine-080808_1f180f_1024_768/640.webp
+ogTitle: ''
+description: Mit einer atemberaubenden Aufnahme des Songs "Blue & Green" feiern Thot
+  das 10-jährige Jubiläum des grandiosen Albums "Obscured by the Wind".
+excerpt: Mit einer atemberaubenden Live-Aufnahme des Songs "Blue & Green (are melting
+  down in a new seed)" feiern Thot das 10-jährige Jubiläum ihres grandiosen Albums
+  "Obscured by the Wind". Das Video ist ab sofort verfügbar. Ich habe mit Thot Gründer
+  Grégoire darüber gesprochen.
+image: "/img/thot-cat.jpeg"
 copyright: Thot
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-cat-fb-1-imagine-080808_1c160e_1200_628/640.webp
+ogImage: "/img/thot-cat-fb-1.jpeg"
 focusKeyword: Obscured by the Wind
 advertisement: false
 affiliate: false
-languageLink: /2021/06/thot-feiern-10-jahre-obscured-by-the-wind-en
----
+languageLink: "/2021/06/thot-feiern-10-jahre-obscured-by-the-wind-en"
 
+---
 **Mit einer atemberaubenden Live-Aufnahme des Songs "Blue & Green (are melting down in a new seed)" feiern Thot das 10jährige Jubiläum ihres grandiosen Albums "Obscured by the Wind". Das Video ist ab sofort verfügbar. Ich habe mich mit Thot Gründer Grégoire darüber unterhalten.**
 
 Die Veröffentlichung geschieht heute mit einem lachenden und einem weinenden Auge. Leider kam es während der Post-Produktion zu technischen Problemen, weshalb ein Großteil des Materials zerstört wurde. Ursprünglich hatte die Band aus Brüssel geplant, das komplette Album als Open Air Live-Konzert zu veröffentlichen.

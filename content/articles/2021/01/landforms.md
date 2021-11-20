@@ -7,9 +7,9 @@ subTitle: Perry Frank's New Single
 seoTitle: "\"Landforms\" – Perry Frank's New Single"
 description: Perry Frank has released a new single! "Landforms" is available now
   on all download platforms. Here comes my recommendation.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-01-landforms-perry-frank-2-l-imagine-383828_8a8a62_1440_1080/640.webp
+image: /img/2021_01_landforms-perry-frank-2__l.jpeg
 copyrigt: Perry Frank
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2021-01-perry-frank-landforms-fb-png-l-imagine-f8f8f8_9b977d_1440_756/640.webp
+ogImage: /img/2021_01_perry-frank-landforms-fb.png__l.jpg
 labels:
   - Ambient
   - Bands
@@ -24,7 +24,6 @@ affiliate: false
 language: en
 languageLink: /2021/01/perry-frank-landforms
 ---
-
 **Perry Frank has released a new single! "Landforms" is available now on all download platforms. Here comes my recommendation.**
 
 I recently introduced Perry Frank aka Francesco Perra to you with [my interview](/2020/11/perry-frank-interview-en/). Currently, he is working on his new album, which he expects to release in October. He has also just put out his new single "Landforms" on Valley View Records.

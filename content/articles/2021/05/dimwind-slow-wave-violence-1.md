@@ -1,5 +1,5 @@
 ---
-date: 2021-05-22T16:36:42.000Z
+date: 2021-05-22T18:36:42+02:00
 labels:
   - Dimwind
   - Post-Metal
@@ -15,22 +15,16 @@ typeName: Review
 title: Dimwind - "Slow Wave Violence"
 subTitle: Post-Metal without borders
 seoTitle: Dimwind - "Slow Wave Violence" – Post-Metal without borders
-ogTitle: ""
-description: Dimwind have recently released their debut album "Slow Wave
-  Violence". The music of the Gothenburg based post-metal duo is definitely
-  worth listening to – seven great songs are waiting to get under your skin.
-  Here is my review. Please enjoy.
-excerpt: Dimwind have recently released their debut album "Slow Wave Violence".
-  The music of the Gothenburg based post-metal duo is definitely worth listening
-  to – seven great songs are waiting to get under your skin. Here is my review.
-  Please enjoy.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/dimwind-2-imagine-e8e8e8_bdbdbd_1024_768/640.webp
+ogTitle: ''
+description: Dimwind have recently released their debut album "Slow Wave Violence". The music of the Gothenburg based post-metal duo is definitely worth listening to – seven great songs are waiting to get under your skin. Here is my review. Please enjoy.
+excerpt: Dimwind have recently released their debut album "Slow Wave Violence". The music of the Gothenburg based post-metal duo is definitely worth listening to – seven great songs are waiting to get under your skin. Here is my review. Please enjoy.
+image: '/img/dimwind-2.jpeg'
 copyright: Dimwind
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/dimwind-fb-imagine-d8d8f8_aaaac6_1200_628/640.webp
+ogImage: '/img/dimwind-fb.jpg'
 focusKeyword: Dimwind
 advertisement: false
 affiliate: false
-languageLink: /2021/05/dimwind-slow-wave-violence
+languageLink: '/2021/05/dimwind-slow-wave-violence'
 ---
 
 **Dimwind have recently released their debut album "Slow Wave Violence". The music of the Gothenburg based post-metal duo is definitely worth listening to – seven great songs are waiting to get under your skin.**
@@ -41,7 +35,7 @@ The opener "Blinds Drawn" is sonically first class and comes up with a well-bala
 
 ## Dimwind are pushing boundaries
 
-![Dimwind – "Slow Wave Violence"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/dimwind-slow-wave-violence-record-imagine-d8d8f8_8e93a8_1080_1080/640.webp 'Dimwind – "Slow Wave Violence"')
+![Dimwind – "Slow Wave Violence"](/img/dimwind-slow-wave-violence-record.jpg 'Dimwind – "Slow Wave Violence"')
 
 The second track, "4 AM", begins with an easy-going surprise. Some would perhaps expect a pop-like song progression at first, but after about one minute or so, it becomes clear that the opposite is the case. The song is incredibly well composed and rhythmically sophisticated. I love the spontaneous changes.
 

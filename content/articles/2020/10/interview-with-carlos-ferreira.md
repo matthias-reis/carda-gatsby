@@ -8,9 +8,9 @@ seoTitle: Interview With Carlos Ferreira – Music Postcards From Porto Alegre
 description: Carlos Ferreira is going to release his new album on Past Inside
   the Present in November. It's a cassette tape called "Six Postcards &amp;
   Other Stories". I talked to him about his music and his decision to go vegan.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2020-10-carlos-ferreira-l-imagine-c8c8c8_7c7e7d_1440_1080/640.webp
+image: /img/2020_10_carlos-ferreira__l.jpeg
 copyrigt: Carlos Ferreira
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2020-10-carlos-ferreira-fb-png-l-imagine-c8c8c8_858686_1440_754/640.webp
+ogImage: /img/2020_10_carlos-ferreira-fb.png__l.jpg
 labels:
   - Ambient
   - ARCHIVES
@@ -30,7 +30,6 @@ affiliate: false
 language: en
 languageLink: /2020/10/carlos-ferreira-interview
 ---
-
 **Carlos Ferreira is going to release his new album on Past Inside the Present in November. It's a cassette tape called "Six Postcards &amp; Other Stories". I talked to him about his music and his decision to go vegan.**
 
 The ambient/drone musician Carlos Ferreira from Porto Alegre, Brazil uses his guitar-based textures to create sonic landscapes. He has released albums on labels like Assembly Field (UK), Past Inside The Present/Healing Sound Propagandist (USA), ARCHIVES (Spain), and Aural Canyon (USA).

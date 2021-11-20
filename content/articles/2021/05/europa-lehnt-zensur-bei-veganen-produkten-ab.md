@@ -1,5 +1,5 @@
 ---
-date: 2021-05-26T16:23:42.000Z
+date: 2021-05-26T18:23:42+02:00
 labels:
   - A171
   - ProVeg
@@ -18,24 +18,20 @@ labels:
   - Umwelt-Politik
 language: de
 slug: zensur-bei-veganen-produkten-am171
-typeName: ""
+typeName: ''
 title: Europa lehnt Zensur bei veganen Produkten ab
 subTitle: Verbraucher⋆innen stoppen AM171
 seoTitle: Europa lehnt Zensur bei veganen Produkten ab – AM 171 gestoppt
-ogTitle: ""
-description: Die Zensur bei veganen Produkten wurde gestoppt. Europa hat die
-  Klima-feindliche Lebensmittelverordnung AM171 abgelehnt.
-excerpt: Die Zensur bei veganen Produkten wurde gestoppt. Das Europäische
-  Parlament, der Europäische Rat und die Europäische Kommission haben die
-  Klima-feindliche Lebensmittelverordnung AM171 abgelehnt. Das geht aus einer
-  Pressemitteilung vom 25. Mai 2021 hervor.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/zensur-bei-veganen-produkten-imagine-384838_465f4d_1024_768/640.webp
+ogTitle: ''
+description: Die Zensur bei veganen Produkten wurde gestoppt. Europa hat die Klima-feindliche Lebensmittelverordnung AM171 abgelehnt.
+excerpt: Die Zensur bei veganen Produkten wurde gestoppt. Das Europäische Parlament, der Europäische Rat und die Europäische Kommission haben die Klima-feindliche Lebensmittelverordnung AM171 abgelehnt. Das geht aus einer Pressemitteilung vom 25. Mai 2021 hervor.
+image: '/img/zensur-bei-veganen-produkten.jpg'
 copyright: ProVeg
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/zensur-bei-veganen-produkten-fb-imagine-384838_455e4b_1200_628/640.webp
+ogImage: '/img/zensur-bei-veganen-produkten-fb.jpg'
 focusKeyword: Zensur bei veganen Produkten
 advertisement: false
 affiliate: false
-languageLink: ""
+languageLink: ''
 ---
 
 **Die Zensur bei veganen Produkten ist gestoppt. Das Europäische Parlament, der Europäische Rat und die Europäische Kommission haben die Klima-feindliche Lebensmittelverordnung AM171 abgelehnt. Das geht aus einer Pressemitteilung vom 25. Mai 2021 hervor.**

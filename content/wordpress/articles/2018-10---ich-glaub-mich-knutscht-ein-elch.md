@@ -1,19 +1,17 @@
 ---
-date: 2018-10-17T06:00:45.000Z
+date: 2018-10-17T06:00:45.000+00:00
 slug: ich-glaub-mich-knutscht-ein-elch
-path: /2018/10/ich-glaub-mich-knutscht-ein-elch/
+path: '/2018/10/ich-glaub-mich-knutscht-ein-elch/'
 type: Galerie
 typeName: Galerie
 title: Ich glaub', mich knutscht ein Elch!
 seoTitle: Ich glaub', mich knutscht ein Elch! Meine erste Elch-Begegnung
 ogTitle: Ich glaub', mich knutscht ein Elch! Meine erste Elch-Begegnung
-description: Ich möchte Euch heute von einer ganz besonderen Begegnung erzählen.
-  Diesen Sommer habe ich das erste Mal Elche gesehen und fotografiert.
-excerpt: Ich möchte Euch heute von einer ganz besonderen Begegnung erzählen.
-  Diesen Sommer habe ich das erste Mal Elche gesehen und fotografiert.
+description: Ich möchte Euch heute von einer ganz besonderen Begegnung erzählen. Diesen Sommer habe ich das erste Mal Elche gesehen und fotografiert.
+excerpt: Ich möchte Euch heute von einer ganz besonderen Begegnung erzählen. Diesen Sommer habe ich das erste Mal Elche gesehen und fotografiert.
 fileName: 2018-10---ich-glaub-mich-knutscht-ein-elch.md
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/2018-06-24-skullaryd-aelgpark-158-imagine-483838_706c60_1440_1080/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/elch-opengraph-imagine-483838_6c665d_1200_628/640.webp
+image: /img/2018-06-24-skullaryd-aelgpark-158.jpg
+ogImage: /img/elch-opengraph.jpg
 labels:
   - der Elch
   - Elch
@@ -33,8 +31,8 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Meine erste Elch-Begegnung
-year: "2018"
-month: "10"
+year: '2018'
+month: '10'
 ---
 
 **Zwar häufen sich die Zusammenstöße mit Elchen laut Statistik in [Skandinavien](/tag/slow-travel/skandinavien/), einem von ihnen wirklich vis-a-vis zu begegnen ist dennoch gar nicht so einfach.**

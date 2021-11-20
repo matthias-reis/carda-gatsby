@@ -11,9 +11,9 @@ description: Magnus Josefsson hat für Dezember sein erstes offizielles Album
 excerpt: Magnus Josefsson hat für Dezember sein erstes offizielles Album unter
   seinem selbst gegründeten Label The Mirror Factory angekündigt. Ich habe "Acid
   Air" schon gehört und empfehle es Euch hiermit.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/magnus-josefsson-imagine-080808_824e37_1024_768/640.webp
+image: /img/magnus-josefsson.jpg
 copyrigt: Magnus Josefsson
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/magnus-josefsson-fb-imagine-080808_a15e42_1200_628/640.webp
+ogImage: /img/magnus-josefsson-fb.png
 labels:
   - Post-Rock
   - Dream Pop
@@ -34,7 +34,6 @@ affiliate: false
 language: de
 languageLink: /2021/11/magnus-josefsson-acid-air-en/
 ---
-
 **Magnus Josefsson hat für Dezember sein erstes offizielles Album unter seinem selbst gegründeten Label The Mirror Factory angekündigt. Ich habe "Acid Air" schon gehört und empfehle es Euch hiermit.**
 
 Nach einigen selbst veröffentlichten Singles und einem [Mixtape für Anette Records](/2021/05/magnus-josefsson-anette-halbe-stunde/) war für Magnus die Zeit für ein komplettes Album gekommen – ein großer Schritt für den Herzblut-Musiker.

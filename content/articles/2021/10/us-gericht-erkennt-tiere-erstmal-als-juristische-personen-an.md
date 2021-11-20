@@ -12,10 +12,10 @@ excerpt: Im Rahmen eines laufenden Prozesses in Kolumbien hat ein
   US-Bezirksgericht die rund 100 Flusspferde, die entlang des Magdalena River
   leben, als juristische Personen anerkannt. Die Verhandlung geht damit als
   Meilenstein in die Geschichte ein.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/flusspferde-imagine-c8d8d8_7f7a6c_1024_768/640.webp
+image: /img/flusspferde.jpg
 copyrigt: |
   ArtTower, Pixabay
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/flusspferde-fb-imagine-c8d8d8_767165_1200_628/640.webp
+ogImage: /img/flusspferde-fb.png
 labels:
   - Flusspferde
   - Nilpferde
@@ -31,7 +31,6 @@ advertisement: false
 affiliate: false
 language: de
 ---
-
 **Im Rahmen eines laufenden Prozesses in Kolumbien hat ein US-Bezirksgericht die rund 100 Flusspferde, die entlang des Magdalena River leben, als juristische Personen anerkannt. Die Verhandlung geht damit als Meilenstein in die Geschichte ein.**
 
 Im Oktober 2021 war es endlich so weit: In den Vereinigen Staaten erkannte ein Gericht zum ersten Mal Tiere als juristische Personen an. Die Tierrechtsorganisation Animal Legal Defense Fund (ALDF)[^1] hatte im Rahmen der Verhandlung einen Antrag auf die Vernehmung von Elizabeth Berkeley und Richard Berlinski, zweier Expert⋆innen für nicht-chirurgische Sterilisation aus Ohio, gestellt. Die Klagenden waren die im Magdalena River lebenden Flusspferde.

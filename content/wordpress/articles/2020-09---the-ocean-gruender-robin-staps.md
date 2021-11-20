@@ -1,18 +1,14 @@
 ---
-date: 2020-09-18T07:36:35.000Z
+date: 2020-09-18T07:36:35.000+00:00
 slug: the-ocean-robin-staps-interview
-path: /2020/09/the-ocean-robin-staps-interview/
+path: '/2020/09/the-ocean-robin-staps-interview/'
 type: Artikel
 typeName: Interview
 title: The Ocean Gründer Robin Staps
 seoTitle: The Ocean Gründer Robin Staps im Interview über "Phanerozoic II"
 ogTitle: The Ocean Gründer Robin Staps im Interview über "Phanerozoic II"
-description: The Ocean veröffentlichen am 25. September ihr neues Album
-  "Phanerozoic II". Ich habe mich jetzt im Interview mit Gründer Robin Staps
-  darüber unterhalten.
-excerpt: English & German - The Ocean veröffentlichen am 25. September ihr neues
-  Album "Phanerozoic II". Ich habe mich jetzt im Interview mit Gründer Robin
-  Staps darüber unterhalten.
+description: The Ocean veröffentlichen am 25. September ihr neues Album "Phanerozoic II". Ich habe mich jetzt im Interview mit Gründer Robin Staps darüber unterhalten.
+excerpt: English & German - The Ocean veröffentlichen am 25. September ihr neues Album "Phanerozoic II". Ich habe mich jetzt im Interview mit Gründer Robin Staps darüber unterhalten.
 fileName: 2020-09---the-ocean-gruender-robin-staps.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_the-ocean-collective__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_the-ocean-collective__l.jpg
@@ -41,7 +37,7 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: '"Das neue Album ist eine Reise"'
-languageLink: /2020/09/the-ocean-robin-staps-interview-en
+languageLink: '/2020/09/the-ocean-robin-staps-interview-en'
 ---
 
 **Am 25. September ist es soweit: Der zweite Teil des gefeierten Albums "Phanerozoic" von The Ocean erscheint. Wir alle haben diesen Moment sehnsüchtig erwartet. Ich hatte jetzt die Ehre, mich mit The Ocean Gründer Robin Staps über die Entstehung von "Phanerozoic" und über das in Berlin ansässige Post-Rock Label der Band Pelagic zu unterhalten.**
@@ -54,7 +50,7 @@ languageLink: /2020/09/the-ocean-robin-staps-interview-en
 
 ## "Wir haben die Pause für neue Projekte genutzt"
 
-![The Ocean. Bild/picture: © The Ocean Collective](https://storage.googleapis.com/cardamonchai-media/2021-11-14/the-ocean-collective-1-400x300-imagine-483838_473739_400_300/640.webp 'The Ocean. Bild/picture: © The Ocean Collective')
+![The Ocean. Bild/picture: © The Ocean Collective](/img/the-ocean-collective-1-400x300.jpeg 'The Ocean. Bild/picture: © The Ocean Collective')
 
 **Robin:** Es war insgesamt bis jetzt ein sehr produktives und erfülltes Jahr für uns. Die Corona-Krise hat dazu geführt, dass wir quasi umgeschaltet haben und uns auf Projekte konzentriert, für die wir sonst keine Zeit gehabt hätten. Nachdem unsere Süd-Amerika-Tour im Mai ausgefallen ist und Wacken und das Prognosis Festival im März, haben wir uns dafür entschieden, unseren Fokus anders zu setzen. Wir konnten die Zeit für Sachen nutzen, die wir schon immer machen wollten und so hatte der Ausfall am Ende für uns auch etwas Gutes.
 
@@ -72,7 +68,7 @@ Wir haben ja auch zum Beispiel die Vinyl-Subscribtion, bei der 250 Abonnenten je
 
 ## "Dem Artwork widmen wir genauso viel Aufmerksamkeit wie der Musik"
 
-![The Ocean im Logo in Hamburg 2019](https://storage.googleapis.com/cardamonchai-media/2021-11-14/the-ocean-logo-hamburg-2019-anne-reis-1-400x533-imagine-181828_554d61_400_533/640.webp 'The Ocean im Logo in Hamburg 2019')
+![The Ocean im Logo in Hamburg 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-1-400x533.jpeg 'The Ocean im Logo in Hamburg 2019')
 
 **Robin:** Das Artwork nimmt auf jeden Fall einen großen Teil des Gesamtkonzepts ein. Ich habe immer versucht, Musik, vor allem die, die ich mit The Ocean mache, relativ holistisch zu begreifen. Als ein Zusammenspiel aus Kunst im 2D- oder 3D-Sinne und Musik. Mir macht das viel Spaß. Das ganze Produktdesign-Thema fasziniert mich sehr. Ich liebe es, damit Grenzen auszureizen und Dinge zu probieren, die es noch nicht so oft gegeben hat. Die zehnjährige Zusammenarbeit von The Ocean mit dem Grafiker Martin Quamme macht mir unglaublich viel Spaß. Er hat genau wie wir Lust, Materialien, Techniken und Packaging-Ideen auszuprobieren. Das Zusammenspiel aus seinen und meinen Ideen ist immer ziemlich fruchtbar.
 
@@ -90,7 +86,7 @@ Sie hat uns dann geholfen, diese Fossilien in den doch recht großen Mengen zu b
 
 ## "Die Dinge dem Zufall zu überlassen, hat sich überwältigend angefühlt"
 
-![The Ocean im Logo in Hamburg 2019](https://storage.googleapis.com/cardamonchai-media/2021-11-14/the-ocean-logo-hamburg-2019-anne-reis-400x533-imagine-484848_767676_400_533/640.webp 'The Ocean im Logo in Hamburg 2019')
+![The Ocean im Logo in Hamburg 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-400x533.jpeg 'The Ocean im Logo in Hamburg 2019')
 
 **Robin:** Absolut! Für uns ist das Album eine besondere Platte. Die Entstehungsgeschichte dahinter ist ganz anders, als die ihrer Vorgänger. Normalerweise habe ich schon, wenn wir ins Studio gegangen sind, eine ziemlich genaue Vorstellung davon, wie das Album klingen wird, wie es aussehen wird und welche Songs in welcher Reihenfolge drauf sind. Die einzelnen Sounds waren immer schon sehr ausgearbeitet.
 
@@ -104,7 +100,7 @@ Es durchläuft verschiedene Phasen und entwickelt sich von einer Phase in die n�
 
 ## "Die Platten sehen genial aus"
 
-![The Ocean im Logo in Hamburg 2019](https://storage.googleapis.com/cardamonchai-media/2021-11-14/the-ocean-logo-hamburg-2019-anne-reis-3-400x533-imagine-181818_574d43_400_533/640.webp 'The Ocean im Logo in Hamburg 2019')
+![The Ocean im Logo in Hamburg 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-3-400x533.jpeg 'The Ocean im Logo in Hamburg 2019')
 
 **Anne:** Wie war es, Euer Werk das erste Mal in den Händen zu halten?
 
@@ -120,7 +116,7 @@ Parallel dazu haben wir den zweiten Teil finalisiert. Die Bass-Aufnahmen habe ic
 
 ## "Ich habe Geographie studiert"
 
-![Bild/picture: © The Ocean Collective](https://storage.googleapis.com/cardamonchai-media/2021-11-14/the-ocean-collective-2-400x300-imagine-a88878_8a7b63_400_300/640.webp 'Bild/picture: © The Ocean Collective')
+![Bild/picture: © The Ocean Collective](/img/the-ocean-collective-2-400x300.jpeg 'Bild/picture: © The Ocean Collective')
 
 **Anne:** Insgesamt steht Ihr ja ziemlich auf Konzeptalben. Mal dreht es sich um Tonleitern, mal um Tiefenzonen von Gewässern und mal um Zeitalter.
 
@@ -138,7 +134,7 @@ Zwischen den Alben "Precambrian" und "Heliocentric", die für uns auf unterschie
 
 ## "Devonian" haben wir nochmal komplett neu arrangiert"
 
-![The Ocean im Logo in Hamburg 2019](https://storage.googleapis.com/cardamonchai-media/2021-11-14/the-ocean-logo-hamburg-2019-anne-reis-4-400x533-imagine-181818_5e5955_400_533/640.webp 'The Ocean im Logo in Hamburg 2019')Ich habe Jonas dann den Song "Devonian" vom ersten Teil von "Phanerozoic" geschickt, weil ich mir sehr gut vorstellen konnte, dass er dazu singt. Es hat ihm sofort gut gefallen. Kurz darauf hat er uns Demos geschickt, die im Prinzip genau so auf dem Album gelandet sind. Weil es so gut funktioniert hat, haben wir das für den zweiten Teil gleich nochmal aufgegriffen. Das war sehr spontan. Eigentlich gab es für den Part schon Gesang von Loïc und auch die Gitarren waren schon aufgenommen. Dann hat Peter die Synths auf eine ziemlich geniale Art komplett umgebaut und irgendwie passte es nicht mehr zum Rest. Wir waren schon auf Tour mit Leprous und hatten keine Zeit. Irgendjemand meinte dann "Schick doch den neuen Part mal an Jonas" und plötzlich ging alles seinen Gang.
+![The Ocean im Logo in Hamburg 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-4-400x533.jpeg 'The Ocean im Logo in Hamburg 2019')Ich habe Jonas dann den Song "Devonian" vom ersten Teil von "Phanerozoic" geschickt, weil ich mir sehr gut vorstellen konnte, dass er dazu singt. Es hat ihm sofort gut gefallen. Kurz darauf hat er uns Demos geschickt, die im Prinzip genau so auf dem Album gelandet sind. Weil es so gut funktioniert hat, haben wir das für den zweiten Teil gleich nochmal aufgegriffen. Das war sehr spontan. Eigentlich gab es für den Part schon Gesang von Loïc und auch die Gitarren waren schon aufgenommen. Dann hat Peter die Synths auf eine ziemlich geniale Art komplett umgebaut und irgendwie passte es nicht mehr zum Rest. Wir waren schon auf Tour mit Leprous und hatten keine Zeit. Irgendjemand meinte dann "Schick doch den neuen Part mal an Jonas" und plötzlich ging alles seinen Gang.
 
 **Anne:** Du hast ja vorhin schon gesagt, dass sich für Euch mit Loïcs Einstig einiges geändert hat. Für mich passt seine Mix aus Gesang und Shouting perfekt zu Eurem Spiel aus brachialen und melodischen Parts. Wie habt Ihr Euch gefunden?
 
@@ -150,7 +146,7 @@ Er hat frei improvisiert und uns hat es so gut gefallen, dass die Gesangslinien 
 
 ## "Es gibt viel mehr Bandmitglieder, als die Personen auf der Bühne"
 
-![The Ocean im Logo in Hamburg 2019](https://storage.googleapis.com/cardamonchai-media/2021-11-14/the-ocean-logo-hamburg-2019-anne-reis-2-400x533-imagine-282828_696969_400_533/640.webp 'The Ocean im Logo in Hamburg 2019')
+![The Ocean im Logo in Hamburg 2019](/img/the-ocean-logo-hamburg-2019-anne-reis-2-400x533.jpeg 'The Ocean im Logo in Hamburg 2019')
 
 **Anne:** Ihr habt als Bandkollektiv begonnen. Kannst Du kurz beschreiben, was es damit genau auf sich hat? Würdet Ihr Euch immer noch so bezeichnen? Immerhin seid Ihr ja jetzt schon seit einiger Zeit in mehr oder weniger unveränderter Besetzung.
 

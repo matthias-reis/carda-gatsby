@@ -10,9 +10,9 @@ description: Der Sternekoch Josef Centeno ersetzt in seinen Lokalen jetzt den
   Pflanzlichen Alternativen sind in seinen Augen nicht nur die modernere,
   sondern auch die bessere Wahl – aus vielen Gründen.
 excerpt: ""
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/sternekoch-josef-centeno-imagine-181818_4b463e_1024_768/640.webp
+image: /img/sternekoch-josef-centeno.jpg
 copyrigt: Djedj, pixabay
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/sternekoch-josef-centeno-fb-imagine-080808_514c42_1200_628/640.webp
+ogImage: /img/sternekoch-josef-centeno-fb.jpg
 labels:
   - Restaurant
   - vegane Käse-Alternativen
@@ -25,7 +25,6 @@ advertisement: false
 affiliate: false
 language: de
 ---
-
 **Der Sternekoch Josef Centeno ersetzt in seinen Lokalen jetzt den Käse durch vegane Alternativen. Das gab er vor ein paar Tagen bekannt. Pflanzliche Alternativen sind in seinen Augen nicht nur die modernere, sondern auch die bessere Wahl – aus vielen Gründen.**
 
 Weil er findet, das pflanzliche Käse-Alternativen gesünder sind – für die Tiere, die Menschen und den Planeten – rät Josef Centeno auch allen anderen dazu, auf Dauer auf traditionellen Käse zu verzichten.

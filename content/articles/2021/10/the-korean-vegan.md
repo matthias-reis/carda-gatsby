@@ -13,9 +13,9 @@ excerpt: '"The Korean Vegan" heißt das wohl beste Kochbuch des Jahres 2021.
   einen Namen als "The Korean Vegan" gemacht hat. Offenheit und Mitgefühl sind
   dem Internet-Star besonders wichtig. Im Fokus stehen bei ihr also längst nicht
   nur gesundes Essen und tolle Rezepte.'
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/the-korean-vegan-imagine-f8f8f8_bbafa5_1024_768/640.webp
+image: /img/the-korean-vegan.jpg
 copyrigt: Joanne Lee Molinaro, Geoff Martin Photography
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/the-korean-vegan-fb-imagine-080808_746a62_1200_628/640.webp
+ogImage: /img/the-korean-vegan-fb.png
 labels:
   - Joanne Lee Molinaro
   - Kochbuch
@@ -32,7 +32,6 @@ advertisement: false
 affiliate: true
 language: de
 ---
-
 **"The Korean Vegan" heißt eines der als beste Kochbücher des Jahres 2021 ausgezeichneten Werke. Geschrieben hat es Joanne Lee Molinaro, die sich in den sozialen Netzwerken einen Namen als "The Korean Vegan" gemacht hat. Offenheit und Mitgefühl sind Joanne besonders wichtig. Im Fokus stehen bei ihr also längst nicht nur gesundes Essen und tolle Rezepte.**
 
 Als nächsten Comic-Film-Hero wünscht sich Joanne eine⋆n Superhelden⋆in des Mitgefühls, der⋆die mit Freundlichkeit und Empathie die Welt rettet. Das sagte sie gegenüber der Presse. Was sie selbst auf ihrem Blog und ihren Social Media Kanälen veröffentlicht, tendiert sehr stark in diese Richtung.
@@ -41,7 +40,7 @@ Ob wir die Kochbuch-Autorin demnächst auch auf der Leinwand sehen können, steh
 
 ## The Korean Vegan – der Blog
 
-![Joanne Lee Molinaro – "The Korean Vegan"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/the-korean-vegan-imagine-f8f8f8_bbafa5_1024_768/640.webp "Joanne Lee Molinaro – \\"The Korean Vegan\\"")
+![Joanne Lee Molinaro – "The Korean Vegan"](/img/the-korean-vegan.jpeg "Joanne Lee Molinaro – \\"The Korean Vegan\\"")
 
 Ihren gleichnamigen Blog gründete die Chicagoer Anwältin vor fünf Jahren. Für sie ist er laut eigener Aussage eine Möglichkeit, sich von ihrem stressigen Alltag zu erholen. Mit ihrer offenen und lockeren Art zieht sie Millionen Fans an. Erst 2020 hatte sie beispielsweise ein Konto auf Instagram eingerichtet. Heute hat sie dort schon mehr als 530.000 Follower. Auf TikTok sind es bereits 2,6 Millionen.
 

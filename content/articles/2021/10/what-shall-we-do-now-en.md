@@ -8,9 +8,9 @@ seoTitle: '"What Shall We Do Now?" – Thot Release Pink Floyd Cover'
 description: When asked about their idols, Thot will always name Pink Floyd. The
   post-music collective from Belgium just recorded their interpretation of their
   song "What Shall We Do Now", – and they definitely hit the spot with it.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-what-should-we-do-now-imagine-183858_253d56_700_700/640.webp
+image: /img/thot-what-should-we-do-now.jpg
 copyrigt: Thot
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-what-should-we-do-now-fb-imagine-181818_535754_1200_628/640.webp
+ogImage: /img/thot-what-should-we-do-now-fb.png
 labels:
   - Post-Music
   - Post-Rock
@@ -29,7 +29,6 @@ affiliate: false
 language: en
 languageLink: /2021/10/thot-what-shall-we-do-now/
 ---
-
 **When asked about their idols, Thot will always name Pink Floyd. The post-music collective from Belgium just recorded their interpretation of their song "What Shall We Do Now", – and they definitely hit the spot with it.**
 
 Just a few weeks after [Grégoire's solo EP, "Live at daFestival"](/2021/07/live-at-dafestival-gregoire-thot-en), and their splendid [10-year reissue of "Obscured By The Wind"](/2021/06/thot-feiern-10-jahre-obscured-by-the-wind-en), Thot already have another sensation in store for us. Of course, I listened to "What Shall We Do Now" as soon as Grégoire told me about it, and I have to say: I'm excited.
@@ -40,7 +39,7 @@ Thot founder Grégoire wrote to me. Listening to the song left me speechless. Th
 
 ## "What Shall We Do Now" – 4:20 worth listening
 
-![Thot – "What Shall We Do Now?"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/thot-what-should-we-do-now-imagine-183858_253d56_700_700/640.webp "Thot – \"What Shall We Do Now?\"")
+![Thot – "What Shall We Do Now?"](/img/thot-what-should-we-do-now.jpeg "Thot – \"What Shall We Do Now?\"")
 
 The 4:20 are definitely worth listening to. You can do that from today on. What I like most are the industrial notes that Thot added to the track. They are lifting the song into the year 2021 and, at the same time, reminding us of the lush diversity of a golden music era. Only Grégoire's voice reminds me of the Pink Floyd version – he has set a monument to his idol David Gilmour that shines with respect and dignity.
 

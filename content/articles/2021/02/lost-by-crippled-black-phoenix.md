@@ -1,41 +1,41 @@
 ---
-date: 2000-02-12T21:34:00.000Z
+date: 2000-02-12T22:34:00.000+01:00
 labels:
-  - Bands
-  - " Review"
-  - Reviews
-  - English & German
-  - Crippled Black Phoenix
-  - Lost
-  - Tierrechte
-  - Tierschutz
-  - Klima- & Umweltschutz
-  - vegan celebrities
-  - vegan Bands
-  - vegan music
-  - climate change
+- Bands
+- " Review"
+- Reviews
+- English & German
+- Crippled Black Phoenix
+- Lost
+- Tierrechte
+- Tierschutz
+- Klima- & Umweltschutz
+- vegan celebrities
+- vegan Bands
+- vegan music
+- climate change
 language: en
 slug: crippled-black-phoenix-lost-en
 typeName: Review
 title: '"Lost" by Crippled Black Phoenix'
 subTitle: Vegan music video shows human the abyss
 seoTitle: Vegan music video by Crippled Black Phoenix shows human the abyss
-ogTitle: ""
-description: The music video for "Lost" by Crippled Black Phoenix is a definite
-  must-see. This article is an urgent plea to watch it. Let it sink in, and then
-  share it on the internet. When I first watched it, it affected me a lot.
-excerpt: The music video for "Lost" by Crippled Black Phoenix is a definite
-  must-see. This article is an urgent plea to watch it. Let it sink in, and then
-  share it on the internet. When I first watched it, it affected me a lot.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/lost-crippled-black-phoenix-1-imagine-583818_7a5d46_1024_768/640.webp
-copyright: ""
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/crippled-black-phoenix-lost-fb-imagine-080808_7b5f4a_1200_628/640.webp
+ogTitle: ''
+description: The music video for "Lost" by Crippled Black Phoenix is a definite must-see.
+  This article is an urgent plea to watch it. Let it sink in, and then share it on
+  the internet. When I first watched it, it affected me a lot.
+excerpt: The music video for "Lost" by Crippled Black Phoenix is a definite must-see.
+  This article is an urgent plea to watch it. Let it sink in, and then share it on
+  the internet. When I first watched it, it affected me a lot.
+image: "/img/lost-crippled-black-phoenix-1.jpeg"
+copyright: ''
+ogImage: "/img/crippled-black-phoenix-lost-fb.png"
 focusKeyword: Crippled Black Phoenix
 advertisement: false
 affiliate: false
-languageLink: /2021/02/crippled-black-phoenix-lost
----
+languageLink: "/2021/02/crippled-black-phoenix-lost"
 
+---
 **The music video that comes with the Crippled Black Phoenix song "Lost" is a statement for all human-caused suffering – put together in eight minutes.**
 
 This post about a special music video that impressed us both very much was contributed to the blog by Matze. Please allow me to give you a precise reading recommendation and don't forget to check out the video!
@@ -46,7 +46,7 @@ The British-Swedish rock band Crippled Black Phoenix has previously released a v
 
 ## What's behind the images of Crippled Black Phoenix's music video "Lost "?
 
-!["Lost". Picture: Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-14/lost-crippled-black-phoenix-3-imagine-080808_664833_1024_768/640.webp '"Lost". Picture: Crippled Black Phoenix')
+!["Lost". Picture: Crippled Black Phoenix](/img/lost-crippled-black-phoenix-3.jpeg '"Lost". Picture: Crippled Black Phoenix')
 
 The video is a definite must-see. This article is an urgent plea to watch it. Let it sink in, and then share it on the internet. When I first watched it, it affected me a lot. The images echoed in my mind for a long time.
 
@@ -66,7 +66,7 @@ We passed the billion mark of human population in 1804. The second billion has b
 
 ## Vicious circle of progress
 
-!["Lost". Picture: Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-14/lost-crippled-black-phoenix-4-imagine-583818_86654a_1024_768/640.webp '"Lost". Picture: Crippled Black Phoenix')
+!["Lost". Picture: Crippled Black Phoenix](/img/lost-crippled-black-phoenix-4.jpeg '"Lost". Picture: Crippled Black Phoenix')
 
 The first vicious circle is technological progress, which makes the land more fertile and increases the ability to feed more people. This, in turn, produces more intelligent minds: ten times as many as in the 19th century, which make ten times more technological progress.
 
@@ -82,7 +82,7 @@ Capital is used to produce and improve wealth - but usually only when it pays of
 
 ## The greed for more
 
-!["Lost". Picture: Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-14/lost-crippled-black-phoenix-2-imagine-583818_6b4930_1024_768/640.webp '"Lost". Picture: Crippled Black Phoenix')
+!["Lost". Picture: Crippled Black Phoenix](/img/lost-crippled-black-phoenix-2.jpeg '"Lost". Picture: Crippled Black Phoenix')
 
 Money makes goods comparable and creates competition and markets situations, where the players heat up each other permanently. Without taking a break, This happens when markets are allowed to expand unregulated mostly.
 
@@ -102,7 +102,7 @@ Unfortunately, however, a giant wave is still ahead of us - the climate crisis. 
 
 ## Climate and Greenhouse Effect
 
-!["Lost". Picture: Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-14/lost-crippled-black-phoenix-1-1-imagine-080808_533c2b_1024_768/640.webp '"Lost". Picture: Crippled Black Phoenix')
+!["Lost". Picture: Crippled Black Phoenix](/img/lost-crippled-black-phoenix-1-1.jpeg '"Lost". Picture: Crippled Black Phoenix')
 
 Human emissions are responsible for 2.2 W/m² of energy increase, whereas the second most potent effect, the influence of the sun, is only at 0.1 W/m². The result is a rise in the average temperature on earth of 0.2 degrees per decade with an upward trend. We cannot even say that we did not know about it for a long time. Christoph Fourier already described the greenhouse effect in the atmosphere in 1824. In 1896, Guy Stewart Callendar predicted global warming caused by human-emitted CO₂.
 

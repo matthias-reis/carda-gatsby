@@ -5,12 +5,8 @@ path: /2013/03/die-geschichte-der-frauenrechte/
 title: Die Geschichte der Frauenrechte
 seoTitle: Die Geschichte der Frauenrechte - Der Internationale Weltfrauentag
 ogTitle: Die Geschichte der Frauenrechte - Der Internationale Weltfrauentag
-description: "Mein Artikel über die Geschichte der Frauenrechte ist am 8. März
-  2013 erschienen. Zu diesem Zeitpunkt gingen gerade die #aufschrei-Tweets durch
-  die Presse."
-excerpt: Die Frauenrechte sollten heute im Fokus stehen. Weltweit wird der
-  Internationale Frauentag gefeiert. Zeit für einen kleinen Ausflug in die
-  Geschichte.
+description: 'Mein Artikel über die Geschichte der Frauenrechte ist am 8. März 2013 erschienen. Zu diesem Zeitpunkt gingen gerade die #aufschrei-Tweets durch die Presse.'
+excerpt: Die Frauenrechte sollten heute im Fokus stehen. Weltweit wird der Internationale Frauentag gefeiert. Zeit für einen kleinen Ausflug in die Geschichte.
 fileName: 2013-03---die-geschichte-der-frauenrechte.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_neu2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_neu2__l.jpg
@@ -48,7 +44,7 @@ subTitle: Ist der Internationale Frauentag in Vergessenheit geraten?
 
 Bevor es losgeht, noch ein Satz: Frauen sind alle, die sich als Frauen definieren! Der Kampf für die Rechte von Transfrauen gehört also genauso zum Weltfrauentag.
 
-![Frauen sind alle, die sich als Frauen definieren.](https://storage.googleapis.com/cardamonchai-media/2021-11-14/regenbogen-imagine-5898f8_5086d7_1080_1080/640.webp 'Frauen sind alle, die sich als Frauen definieren.')
+![Frauen sind alle, die sich als Frauen definieren.](/img/regenbogen.jpg 'Frauen sind alle, die sich als Frauen definieren.')
 
 > Dieser Artikel ist am 8. März 2013 erschienen. Zu diesem Zeitpunkt gingen gerade die #aufschrei-Tweets durch die Presse. An Brisanz hat das Thema Frauenrechte bis heute nicht verloren Besonders auch der Kampf für die Rechte von Transfrauen sollte niemals vergessen werden, wenn es um das Thema geht.
 

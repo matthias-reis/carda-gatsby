@@ -1,53 +1,53 @@
 ---
 labels:
-  - Bands
-  - Interview
-  - Interviews
-  - Shana Falana
-  - 80ies
-  - Shoegazer
-  - Shoegazing
-  - 90ies
-  - Brooklyn
-  - Bull In The Heather
-  - Darkest Light
-  - English & German
-  - Everyone Is Gonna Be OK
-  - Free Kitten
-  - Hudson Valley
-  - Inspiration
-  - Kim Gordon
-  - New York
-  - PJ Harvey
-  - Post-Rock
-  - Ram Dass
-  - Reverb
-  - San Francisco
-  - Skirt
-  - Sludge
-  - Sonic Youth
-  - Williamsburg
+- Bands
+- Interview
+- Interviews
+- Shana Falana
+- 80ies
+- Shoegazer
+- Shoegazing
+- 90ies
+- Brooklyn
+- Bull In The Heather
+- Darkest Light
+- English & German
+- Everyone Is Gonna Be OK
+- Free Kitten
+- Hudson Valley
+- Inspiration
+- Kim Gordon
+- New York
+- PJ Harvey
+- Post-Rock
+- Ram Dass
+- Reverb
+- San Francisco
+- Skirt
+- Sludge
+- Sonic Youth
+- Williamsburg
 language: en
-date: 2019-12-03T06:55:00.000Z
+date: 2019-12-03T07:55:00.000+01:00
 slug: shana-falana-interview-en
 typeName: Interview
 title: Interview With Shana Falana
 subTitle: '"Druggy Music By Sober People"'
 seoTitle: Interview With Shana Falana – "Druggy Music By Sober People"
-ogTitle: ""
-description: "Recently I discovered a musician that fascinates me a lot: Shana
-  Falana. In the music list for December I presented her Shoegazer project to
-  you. Now I have arranged an interview."
-excerpt: ""
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/shana-falana-imagine-181828_3d383f_1024_768/640.webp
+ogTitle: ''
+description: 'Recently I discovered a musician that fascinates me a lot: Shana Falana.
+  In the music list for December I presented her Shoegazer project to you. Now I have
+  arranged an interview.'
+excerpt: ''
+image: "/img/shana-falana.jpeg"
 copyright: Monik Giesel
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/shana-falana-fb-imagine-181828_36323a_1200_628/640.webp
+ogImage: "/img/shana-falana-fb.png"
 focusKeyword: Shana Falana
 advertisement: false
 affiliate: false
-languageLink: /2019/12/shana-falana-interview
----
+languageLink: "/2019/12/shana-falana-interview"
 
+---
 **Recently I discovered a musician that fascinates me a lot: Shana Falana. In the music list for December, I presented her Shoegazer project to you. Now I have arranged an interview.**
 
 Shana is originally from San Francisco (not Brooklyn!). Meanwhile, she has settled in the New York district of Kingston. On October 25th she released her third studio album "Darkest Light" on Arrowhawk Records.

@@ -9,9 +9,9 @@ description: Mono will release their new album "Pilgrimage Of The Soul" on
   September 17th. The record is a real milestone of the ongoing music year. You
   definitely shouldn't miss it. I figure out new details every time I listen to
   it. I would like to reveal a few of them to you.
-image: https://storage.googleapis.com/cardamonchai-media/2021-11-14/mono-pilgrimage-of-the-soul-imagine-080808_4c4e4b_1024_768/640.webp
+image: /img/mono-pilgrimage-of-the-soul.jpg
 copyrigt: Mono Japan
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/mono-pilgrimage-of-the-soul-fb-imagine-080808_3b3d3c_1200_628/640.webp
+ogImage: /img/mono-pilgrimage-of-the-soul-fb.png
 labels:
   - Mono
   - Mono Japan
@@ -31,7 +31,6 @@ affiliate: false
 language: en
 languageLink: /2021/09/mono-pilgrimage-of-the-soul/
 ---
-
 **Mono will release their new album "Pilgrimage Of The Soul" on September 17th. The record is a real milestone of the ongoing music year. You definitely shouldn't miss it.**
 
 There are so many releases at the moment I can hardly keep up with listening to them and, of course, recommending them to you guys. But this one is more than exceptional, so I need to do a review.
@@ -48,7 +47,7 @@ I already presented the pre-released song, "Riptide", to you in the [August issu
 
 Overall, "Pilgrimage Of The Soul" is a bit stormier than its predecessor, "Nowhere Now Here", from 2019. You can't just sense that in the higher tempo of the songs, but also through the influences from the techno/electronic corner – By the way: Did I mention that my last rock concert before the crisis hit us all was a Mono gig where they performed these amazing songs? I will certainly never forget that evening. If I had known at that time what was in store for us, I would have enjoyed it even more. Do you think that would've been possible? Who knows.
 
-![Mono - "Pilgrimage Of The Soul"](https://storage.googleapis.com/cardamonchai-media/2021-11-14/mono1623674343248199-imagine-384848_72797c_440_440/640.webp "Mono - \"Pilgrimage Of The Soul\")
+![Mono - "Pilgrimage Of The Soul"](/img/mono1623674343248199.jpg "Mono - \"Pilgrimage Of The Soul\")
 
 "Pilgrimage Of The Soul" lives from its contrasts like everything I know from Mono. There is a lot of shadows, but also a lot of light, and I love that. Harmonies, disharmonies and pleasant phases of calm make the record an exciting rollercoaster ride of emotions that you won't want to leave again so quickly.
 

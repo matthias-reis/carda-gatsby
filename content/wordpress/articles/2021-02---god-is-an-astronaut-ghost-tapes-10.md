@@ -1,9 +1,7 @@
 ---
 ogTitle: 'God Is An Astronaut – "Ghost Tapes #10" – Review'
-excerpt: 'Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr zehntes
-  Album "Ghost Tapes #10". Ich habe die Platte gehört und spannende Details
-  entdeckt.'
-ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-14/god-is-an-astronaut-ghost-tapes-fb-imagine-f8f8f8_dddbd5_1200_628/640.webp
+excerpt: 'Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und spannende Details entdeckt.'
+ogImage: /img/god-is-an-astronaut-ghost-tapes-fb.png
 isAffiliate: false
 path: /2021/02/god-is-an-astronaut-ghost-tapes-10-review/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAArEAABAwMCBAUFAQAAAAAAAAABAgMEAAYRBSEIEjFBMlFhhMMHExQjM1T/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAABACEx/9oADAMBAAIRAxEAPwBj4YA4W7sDKyhwiJhQAOP7ee1Um5rk1bQIDklelz5SWzkqbUyQRueg33GO3ap3wseO6dv8nzVRrks6HKfanae5+KG3fvPtoUotuhOTsnOAc5Hluaw9qXPsy8NUuqE1Kj6bqcVlxBWlx8xwhQHcbc2OnakXifDgatEPKKnMS+YnHX9PkMUz/SSwGY+gQ9Q1yQrUlPoRJjMuKWW2EqAUE8pOCRt6elLnFP1tX3fw1TsY4WPFdXtPmq3yg85zsFlC2XElKlBXLsQcjrmiiouws9PZXHix4iI6Y8ZlAaQOfPKlIASOvpiopxUHKrV938NFFB2N/9k=
@@ -21,14 +19,12 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01
 title: 'God Is An Astronaut – "Ghost Tapes #10"'
 subTitle: Düsterer durchdachter Post-Rock
 seoTitle: 'God Is An Astronaut – "Ghost Tapes #10" – Review'
-description: 'Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr
-  zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und spannende
-  Details entdeckt.'
+description: 'Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und spannende Details entdeckt.'
 language: de
 type: Artikel
 labels:
   - Bands
-  - "Ghost Tapes #10"
+  - 'Ghost Tapes #10'
   - God Is An Astronaut
   - Jo Quail
   - Post-Rock
