@@ -12,11 +12,16 @@ const Image: React.FC<ImageProps> = ({ alt, src, title }) => {
     medium: MediumImageContainer,
     small: SmallImageContainer,
   };
+  const sizes = {
+    large: 34,
+    medium: 21,
+    small: 13,
+  };
   const Container = containers[type || 'medium'];
 
   return (
     <Container>
-      <ImagineImage alt={altText} src={src} />
+      <ImagineImage alt={altText} src={src} size={sizes[type || 'medium']} />
       {title && <Caption>{title.replace(/\\/g, '')}</Caption>}
     </Container>
   );

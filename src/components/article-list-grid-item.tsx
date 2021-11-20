@@ -46,18 +46,16 @@ export const ArticleListGridItem: React.FC<{
         <Date>{moment(article.date).fromNow()}</Date>
         <Type>{article.typeName || 'Beitrag'}</Type>
         <ImageContainer>
-          <InnerImageContainer>
-            {article.image && (
-              <ImageForList alt={article.title} src={article.image} />
-            )}
-            {(article.remoteLoadingImage ?? null) && (
-              <CardaImage
-                alt={article.title}
-                src={article.remoteThumbnailImage || ''}
-                loading={article.remoteLoadingImage || ''}
-              />
-            )}
-          </InnerImageContainer>
+          {article.image && (
+            <ImageForList alt={article.title} src={article.image} />
+          )}
+          {(article.remoteLoadingImage ?? null) && (
+            <CardaImage
+              alt={article.title}
+              src={article.remoteThumbnailImage || ''}
+              loading={article.remoteLoadingImage || ''}
+            />
+          )}
         </ImageContainer>
         <Text>
           <CompactTitle>{article.title}</CompactTitle>
@@ -81,19 +79,9 @@ const Type = styled.div`
 `;
 
 const ImageContainer = styled.div`
+  aspect-ratio: 4/3;
   width: 100%;
-  height: 0;
-  padding-bottom: 75%;
   overflow: hidden;
-  position: relative;
-`;
-
-const InnerImageContainer = styled.div`
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
