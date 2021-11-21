@@ -5,11 +5,7 @@ typeName: Interview
 title: Malämmar
 subTitle: '"We Want To Play Slow, Doom And Dark"'
 seoTitle: Interview With Malämmar – "We Want To Play Slow, Doom And Dark"
-description: 'Today, I have a huge post-music sensation for you: After
-  mentioning their current album "Mazza", which I deeply adore and keep on
-  listening to from day one on, Malämmar agreed to an interview! I talked to
-  founder Xavi Forné (you may also know him as the person behind Error!
-  Design).'
+description: 'Today, I have a huge post-music sensation for you: After mentioning their current album "Mazza", which I deeply adore and keep on listening to from day one on, Malämmar agreed to an interview! I talked to founder Xavi Forné (you may also know him as the person behind Error! Design).'
 image: /img/1.jpg
 copyrigt: Sergio Albert
 ogImage: /img/mala-mmar-fb.jpg
@@ -39,9 +35,10 @@ affiliate: false
 language: en
 languageLink: /2021/07/malaemmar-interview/
 ---
+
 **Today, I have a huge post-music sensation for you: After mentioning their current album "Mazza", which I deeply adore and keep on listening to from day one on, Malämmar agreed to an interview!**
 
-I talked to founder Xavi Forné (you may also know him as the person behind Error! Design) about their music, the current situation and Malämmar's plans for the future. 
+I talked to founder Xavi Forné (you may also know him as the person behind Error! Design) about their music, the current situation and Malämmar's plans for the future.
 
 **Anne:** Hi! Thanks very much for agreeing to this interview! I am very excited about getting to know you guys. How are you doing today? How are things going during these heavy times?
 
@@ -49,9 +46,9 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Xavi:** Hi Anne! Thank you very much for supporting us; this means a lot! It seems things are better than 2020, and it looks like tours and shows are planning again (for all bands). We have our fingers crossed cause we need to play and enjoy live gigs.
 
-![Malämmer at the forest stage – DUNK!festival 2019. Picture: M.I.N.D Magazine | large](/img/captura-de-pantalla-2017-07-18-a-las-10.19.31.png "Malämmer at the forest stage – DUNK!festival 2019. Picture: M.I.N.D Magazine")
+![Malämmer at the forest stage – DUNK!festival 2019. Picture: M.I.N.D Magazine | large](/img/captura-de-pantalla-2017-07-18-a-las-10.19.31.png 'Malämmer at the forest stage – DUNK!festival 2019. Picture: M.I.N.D Magazine')
 
-**Anne:** You just released your album "Mazza" some weeks ago. Congrats on that! I can't stop listening to it! Are you happy with the outcome of your work? 
+**Anne:** You just released your album "Mazza" some weeks ago. Congrats on that! I can't stop listening to it! Are you happy with the outcome of your work?
 
 **Xavi:** When we released the first single, "Azufre", we didn't expect how much people would support it. We are getting a lot of good vibes through this new album; we're very excited!
 
@@ -59,7 +56,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Anne:** What story is the album about? Did you follow a concept when you were recording it?
 
-![Malämmar.  Picture: © Sergi Vila  | large](/img/3.jpg "Malämmar.  Picture: © Sergi Vila ")
+![Malämmar.  Picture: © Sergi Vila  | large](/img/malaemmar-3.jpg 'Malämmar.  Picture: © Sergi Vila ')
 
 **Xavi:** "Mazza" is about a party and an afterparty. Yes, simple like that (laughs)!
 
@@ -73,7 +70,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Xavi:** I'm working at DUNK!fest since 2015, designing all posters and album artworks from their lives. When we recorded our first album as Malämmar, DUNK!records were the first option for us – and they like it and help us instantly. We love DUNK!records, and we love DUNK!fest. We played twice at the forest stage and for us is the bests shows we ever did.
 
-![Malämmar.  Picture: © Sergi Vila  | large](/img/4.jpg "Malämmar.  Picture: © Sergi Vila ")
+![Malämmar.  Picture: © Sergi Vila  | large](/img/malaemmar-4.jpg 'Malämmar.  Picture: © Sergi Vila ')
 
 **Anne:** What makes this record label so unique? Everyone is so kind and open and sympathetic. Is it the incredible music that lives through it?
 
@@ -85,7 +82,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Xavi:** It seems that you must tag it as "post-rock" when you're making instrumental music. We started the band with a fixed intention: play slow, doom and dark. But we have a lot of influences or past bands. I played in Syberia (instrumental) and Carontte (post-metal). Victor plays/ed in Gambardella (instrumental Jazz) and Rebuig (sludge). And Guillem plays/ed in Santacreu (post-metal) and The Eyes (Heavy). So when we mix all of them, it sounds like Malämmar, I think. By the way: We all have different tastes in music. I, for example, love hardcore punk music, neo-folk, black metal, and soundtracks. It's the same with the rest of us. We all listen to a lot of music types, but we enjoy playing our own style.
 
-![Malämmar.  Picture: © Sergi Vila  | large](/img/5.jpg "Malämmar.  Picture: © Sergi Vila ")
+![Malämmar.  Picture: © Sergi Vila  | large](/img/malaemmar-5.jpg 'Malämmar.  Picture: © Sergi Vila ')
 
 **Anne:** What drives you on when you are making new music? Is there anything in particular that you would say gives you the motivation and endurance to get things going?
 
@@ -97,7 +94,7 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 **Xavi:** Nope, this was totally amazing, and we'll never forget. I played at the main stage in 2014 with my old band, and I must say that the forest stage is another level. You're playing close to the crowd, and for us, that is the most important. We remember ourselves throwing beer cans to the audience before the show started. It was insane! Now that DUNK!fest changes the location to a big venue, it will be pretty different, but I am sure it will also be fantastic.
 
-![Malämmar.  Picture: © Sergi Vila | large](/img/6.jpg "Malämmar.  Picture: © Sergi Vila ")
+![Malämmar.  Picture: © Sergi Vila | large](/img/malaemmar-6.jpg 'Malämmar.  Picture: © Sergi Vila ')
 
 ## "Barcelona's music scene is fantastic"
 
@@ -107,15 +104,15 @@ I talked to founder Xavi Forné (you may also know him as the person behind Erro
 
 I played the very first show of AMFest in a small venue with my old band. And I think after that; then I joyned all editions. Victor worked inside the festival as a stage engineer. Guillem and I just enjoyed drinking a lot of beer (laughs)! It's a beautiful festival with a friendship crew (Aloud Music). This festival could be near to the ideology of the DUNK – just without the forest. We would love to play there sometime!
 
-![Malämmer at the forest stage – DUNK!festival 2019. Picture: Mats | large](/img/malaemmar-2.jpg "Malämmer at the forest stage – DUNK!festival 2019. Picture: Mats")
+![Malämmer at the forest stage – DUNK!festival 2019. Picture: Mats | large](/img/malaemmar-2.jpg 'Malämmer at the forest stage – DUNK!festival 2019. Picture: Mats')
 
 ## "We want to tour Europe in 2022"
 
 **Anne:** What does Malämmar mean? And what does the name stand for?
 
-**Xavi:** Malämmar is a made-up word build from two Catalan (works for Spanish too) words: "Mala" (bad) and "Mar" (sea).  It is the feeling we want to transport with our music: When you're in a boat in the middle of the ocean with lots of waves.
+**Xavi:** Malämmar is a made-up word build from two Catalan (works for Spanish too) words: "Mala" (bad) and "Mar" (sea). It is the feeling we want to transport with our music: When you're in a boat in the middle of the ocean with lots of waves.
 
-![Malämmer at the forest stage – DUNK!festival 2019. Picture: Mats | large](/img/malaemmar-3.jpg "Malämmer at the forest stage – DUNK!festival 2019. Picture: Mats")
+![Malämmer at the forest stage – DUNK!festival 2019. Picture: Mats | large](/img/malaemmar-3.jpg 'Malämmer at the forest stage – DUNK!festival 2019. Picture: Mats')
 
 **Anne:** What's up next for Malämmar? Are you already planning any gigs or going back to the studio as soon as "Mazza" is out?
 
@@ -123,5 +120,4 @@ I played the very first show of AMFest in a small venue with my old band. And I 
 
 ![Malämmar – "Mazza". Artwork: Error! Design | large](/img/malaemmmar-1.jpg "Malämmar – \\\\"Mazza\\\\". Artwork: Error! Design")
 
-Live pictures: © Sergi Vila
-Promo pictures: © Sergio Albert
+Live pictures: © Sergi Vila Promo pictures: © Sergio Albert
