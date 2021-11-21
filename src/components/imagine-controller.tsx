@@ -17,7 +17,7 @@ export const ImagineController = () => {
       const images = await fetch(
         'https://storage.googleapis.com/cardamonchai-media/imagine-index.json'
       ).then((res) => res.json());
-      setImages(images);
+      setImages((images as string[]).reverse());
       setSelectedImage('');
       setFilter('');
     })();
