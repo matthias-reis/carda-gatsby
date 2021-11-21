@@ -87,7 +87,8 @@ function transformImagePath(image: string): string {
     return image;
   }
 
-  const imageName = slugify(parse(image).name);
+  const parsed = parse(image);
+  const imageName = slugify(`${parsed.name}${parsed.ext}`);
 
   return imageName;
 }
