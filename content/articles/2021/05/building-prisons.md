@@ -1,5 +1,5 @@
 ---
-date: 2021-05-28T08:00:42+02:00
+date: 2021-05-28T06:00:42.000Z
 labels:
   - Post-Rock
   - Bands
@@ -14,16 +14,22 @@ typeName: Review
 title: Building Prisons
 subTitle: Die Debüt-EP ist da
 seoTitle: Building Prisons – die Debut-EP ist da – Post-Rock aus Irland
-ogTitle: ''
-description: Building Prisons ist ein Post-Rock Projekt aus Cavan in der Republik Irland. Rory, Peter, Johno und Paddy haben jetzt ihre Debüt-EP fertig.
-excerpt: Building Prisons ist ein Post-Rock Projekt aus Cavan in der Republik Irland. Rory Mc Donagh (Gitarre), Peter Denton (Gitarre), Johno Leader (Bass) und Paddy Fitzhenry (Drums) lieben Bands wie Maybeshewill, This Will Destroy You und Russian Circles. Gerade ist ihre Debüt-EP erschienen. Sie trägt den Namen der Band und macht Lust auf mehr.
-image: '/img/building-prisons.jpg'
+ogTitle: ""
+description: Building Prisons ist ein Post-Rock Projekt aus Cavan in der
+  Republik Irland. Rory, Peter, Johno und Paddy haben jetzt ihre Debüt-EP
+  fertig.
+excerpt: Building Prisons ist ein Post-Rock Projekt aus Cavan in der Republik
+  Irland. Rory Mc Donagh (Gitarre), Peter Denton (Gitarre), Johno Leader (Bass)
+  und Paddy Fitzhenry (Drums) lieben Bands wie Maybeshewill, This Will Destroy
+  You und Russian Circles. Gerade ist ihre Debüt-EP erschienen. Sie trägt den
+  Namen der Band und macht Lust auf mehr.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/building-prisons-jpg-imagine-080808_525252_1024_768/640.webp
 copyright: Building Prisons
-ogImage: '/img/building-prisons-fb.jpg'
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/building-prisons-fb-jpg-imagine-080808_5d5d5d_1200_628/640.webp
 focusKeyword: Building Prisons
 advertisement: false
 affiliate: false
-languageLink: '/2021/05/building-prisons-en'
+languageLink: /2021/05/building-prisons-en
 ---
 
 **Building Prisons ist ein Post-Rock Projekt aus Cavan in der Republik Irland. Rory Mc Donagh (Gitarre), Peter Denton (Gitarre), Johno Leader (Bass) und Paddy Fitzhenry (Drums) lieben Bands wie Maybeshewill, This Will Destroy You und Russian Circles. Ihre Debüt-EP trägt den Namen der Band und macht Lust auf mehr.**
@@ -34,7 +40,7 @@ Ich fahre durch eine sommerliche Landschaft, in der sich gleißendes Sonnenlicht
 
 ## Building Prisons stellen sich vor
 
-![Die Building Prisons Debüt-EP](/img/bp-ep-front-cover.png 'Die Building Prisons Debüt-EP')Der Dunst verzieht sich und am Horizont zieht ein Schwarm Vögel vorbei. Auf Ihrer Reise in Richtung Norden lassen sie sich auf einem Feld nieder und lauschen dem Wind, der über ihren Köpfen dahin rauscht.
+![Die Building Prisons Debüt-EP](https://storage.googleapis.com/cardamonchai-media/2021-11-20/bp-ep-front-cover-png-imagine-080808_0d0e1a_2880_2916/640.webp 'Die Building Prisons Debüt-EP')Der Dunst verzieht sich und am Horizont zieht ein Schwarm Vögel vorbei. Auf Ihrer Reise in Richtung Norden lassen sie sich auf einem Feld nieder und lauschen dem Wind, der über ihren Köpfen dahin rauscht.
 
 Vor lauter Begeisterung habe ich kaum bemerkt, dass ich schon beim zweiten Song ("Agent Orange") angekommen bin. Das für das Genre übliche Stilmittel, Gesang mithilfe von Instrumenten zu ersetzen, ist hier ganz fabelhaft gelungen. Das Stück ist etwas treibender, wirkt fast ein bisschen funky. Auf jeden Fall steht es im klaren Gegensatz zum ersten Song auf der Platte. Mit 4:29 ist es kurz und prägnant. Zum Ende hin wird es sogar noch etwas punkig – gefällt mir gut!
 

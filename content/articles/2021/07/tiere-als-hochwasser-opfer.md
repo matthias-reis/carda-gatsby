@@ -9,9 +9,9 @@ description: "Sie leiden besonders: Tiere als Hochwasser-Opfer. Während der
   aktuellen Lage rund um das verheerende Hochwasser in Europa werden sie leider
   dennoch viel zu selten erwähnt. Viele von ihnen sind unbemerkt ertrunken. So
   könnt Ihr denen, die überlebt haben, helfen."
-image: /img/feuerwehr-essen.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/feuerwehr-essen-jpg-imagine-080808_818669_1024_768/640.webp
 copyrigt: Feuerwehr Essen
-ogImage: /img/tierrettung-essen.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/tierrettung-essen-png-imagine-c8b8b8_93927d_1200_628/640.webp
 labels:
   - Tierrettung
   - Tierschutz
@@ -26,6 +26,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Sie leiden besonders: Tiere als Hochwasser-Opfer. Während der aktuellen Lage rund um das verheerende Hochwasser in Europa werden sie leider dennoch viel zu selten erwähnt. Viele von ihnen sind unbemerkt ertrunken. So könnt Ihr denen, die überlebt haben, helfen.**
 
 Allein bei einem Geflügel-Mastbetrieb in Trasadingen im Schweizer Kanton Schaffhausen sollen 17.000 Hühner gestorben sein. Als das Wasser kam, hatten sie keine Chance. Aus einem Bericht der Polizei vor Ort ging hervor, dass 11.500 der Hühner direkt im Maststall ertranken. Weitere 5.500 Tiere wurden später eingeschläfert. 
@@ -34,7 +35,7 @@ Allein bei einem Geflügel-Mastbetrieb in Trasadingen im Schweizer Kanton Schaff
 
 Im Landkreis Trier konnten Helfer⋆innen rund 60 Tiere aus dem Hochwasser retten. Darunter waren nicht nur Hunde, Katzen und Kleintiere, die Menschen bei ihrer Flucht aus den volllaufenden Häusern zurücklassen mussten, sondern auch Pferde und Wildtiere wie Rehe. 
 
-![Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.](/img/tierrettung-essen.jpg "Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.")
+![Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/tierrettung-essen-jpg-imagine-c8b8b8_9e9892_1024_768/640.webp "Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.")
 
 Es gingen unzählige Suchmeldungen bei der Polizei und dem Tierschutz ein. Sogar eine komplette Schafherde wurde vermisst. Die Lage bleibt nach wie vor unübersichtlich. Bilder, wie das von dem Hund, der sich im Wasser verzweifelt an einer Leitplanke festklammert, das die Tierrettung Essen auf Facebook teilte, machen traurig. Sie zeigen nur einen kleinen Teil des Dramas, das nach wie vor anhält.
 

@@ -8,9 +8,9 @@ seoTitle: Interview With The Ambient Duo awakened souls
 description: Some days ago I did a feature about "Keep The Orange Sun" by
   awakened souls and From Overseas. Now I had the opportunity to talk to
   awakened souls about the record.
-image: /img/awakened-souls.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-jpg-imagine-f8f8f8_686b6d_1024_768/640.webp
 copyrigt: awakened souls
-ogImage: /img/awakened-souls-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-fb-png-imagine-f8f8f8_646766_1200_628/640.webp
 labels:
   - Ambient
   - Post-Rock
@@ -30,6 +30,7 @@ affiliate: false
 language: en
 languageLink: /2021/10/awakened-souls/
 ---
+
 **Some days ago I did a feature about "Keep The Orange Sun" by awakened souls and From Overseas. Now I had the opportunity to talk to awakened souls about the record. Cynthia and James also told me what a great surprise they have in store for us next year.**
 
 **Anne:** Hi! Thank you very much for taking the time! How are you doing today? You just released your new album, ["Keep The Orange  Sun"](/2021/09/keep-the-orange-sun-en/) together with From Overseas aka Kévin Séry. How is the feedback so far?
@@ -46,7 +47,7 @@ languageLink: /2021/10/awakened-souls/
 
 ## "We all have unique musical backgrounds"
 
-![James, Cynthia, and Kévin](/img/awakened-souls-from-overseas.png "James, Cynthia, and Kévin")
+![James, Cynthia, and Kévin](https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-from-overseas-png-imagine-082818_6c6f5e_1024_768/640.webp "James, Cynthia, and Kévin")
 
 **Cynthia and James:** All three of us have unique musical backgrounds, so we knew this collaboration would be different. We wanted to go to more genres than ambient, which brought in the IDM, shoegaze, and neoclassical elements that hadn't been showcased in any of our music before. New forms of expression naturally showed up in the creation process, and we were all open to the shifts.
 

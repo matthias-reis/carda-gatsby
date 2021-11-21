@@ -9,9 +9,9 @@ ogTitle: ""
 description: This Saturday, Vandemonian from Hamburg will release their
   long-awaited debut album "Xenophilia". Progressive, political post-rock with
   cinematic touches awaits you.
-image: /img/2021_02_vandemonian-1__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-02-vandemonian-1-l-jpeg-imagine-181828_2b2431_1440_1080/640.webp
 copyrigt: Vandemonian
-ogImage: /img/2021_02_vandemonian-1.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-02-vandemonian-1-png-l-jpg-imagine-181828_2c2432_1440_754/640.webp
 labels:
   - Bands
   - English & German
@@ -32,6 +32,7 @@ affiliate: false
 language: en
 languageLink: /2021/02/vandemonian-xenophilia
 ---
+
 **This Saturday, Vandemonian from Hamburg will release their long-awaited debut album "Xenophilia". Progressive, political post-rock with cinematic touches awaits you.**
 
 As a fan of bands like pg.lost, [Caspian](/2015/11/caspian-live-hafenklang-hamburg/), [God Is An Astronaut](/2021/02/god-is-an-astronaut-ghost-tapes-10-review/), and [We Lost The Sea](/2021/01/we-lost-the-sea-interview/), the three have, of course, hit a nerve with me with their progressive style. That's why I couldn't miss the album when I got the offer to listen to it some days ago. I want to recommend it to you as well now.

@@ -9,9 +9,9 @@ description: So nachhaltig wie möglich telefonieren und mobil im Internet surfe
   – wie geht das eigentlich? Was mit der Bank und der Versicherung heutzutage
   zum Glück schon gut funktioniert, soll jetzt auch mit dem Handy-Vertrag
   klappen. Ich habe mir WEtell mal genauer angeschaut.
-image: /img/wetell.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/wetell-jpg-imagine-080808_000000_1024_768/640.webp
 copyrigt: WEtell
-ogImage: /img/wetell-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/wetell-fb-png-imagine-080808_6d726c_1200_628/640.webp
 labels:
   - WEtell
   - Telefonie
@@ -29,13 +29,14 @@ advertisement: true
 affiliate: true
 language: de
 ---
+
 **So nachhaltig wie möglich telefonieren und mobil im Internet surfen – wie geht das eigentlich? Was mit der Bank und der Versicherung heutzutage zum Glück schon gut funktioniert, soll jetzt auch mit dem Handy-Vertrag klappen. Ich habe mir WEtell mal genauer angeschaut.**
 
 Geworben wird mit dem Slogan "Mobilfunk geht auch nachhaltig". Soweit so gut. Und wie soll das funktionieren und wodurch unterscheidet sich WEtell von anderen Mobilfunk-Angeboten? Was steckt dahinter? Wie sieht es mit dem Datenschutz aus? Eine Frage nach der anderen. Ich fange mal mit "Wie soll das funktionieren und wo liegt der Unterschied?" an.
 
 ## Wie funktioniert WEtell und wo liegt der Unterschied zu herkömmlichen Mobilfunk-Diensten?
 
-![Mit WEtell soll grüner Mobilfunk möglich werden. Grafik: WEtell](/img/wetell-1-.jpg "Mit WEtell soll grüner Mobilfunk möglich werden. Grafik: WEtell")
+![Mit WEtell soll grüner Mobilfunk möglich werden. Grafik: WEtell](https://storage.googleapis.com/cardamonchai-media/2021-11-20/wetell-1-jpg-imagine-f8f8d8_becca4_1024_768/640.webp "Mit WEtell soll grüner Mobilfunk möglich werden. Grafik: WEtell")
 
 WEtell setzt auf Klimaschutz, Datenschutz und Preis-Transparenz. Auch Fairness steht beim nachhaltigen Mobilfunk-Service ganz oben. Darum werden nicht nur die Mitarbeiter⋆innen fair bezahlt. Die Mobil-Tarife sind monatlich kündbar, es gibt keine Lockangebote und versteckte Kosten und in Zukunft sollen die Preise für alle Kund⋆innen von WEtell gleich sein. Der Kund⋆innenservice erfolgt ganz persönlich. Anders, als bei anderen Anbieter⋆innen, steht die Telefonnummer dick auf der Startseite der Homepage. Wenn Ihr anruft, habt Ihr keinen Sprach-Roboter am Telefon, sondern einen echten Menschen. Das funktioniert ziemlich gut und schnell – Ich habe es zweimal ausprobiert und wurde zweimal sehr höflich begrüßt und beraten.
 
@@ -58,7 +59,7 @@ Das klingt doch schon mal gut. Und wie soll das funktionieren? Die Grundlage daf
 
 ## Anonymes Tracking und Verzicht auf Daten-Verknüpfung
 
-![Bei WEtell wird nur anonym getrackt. Foto: WEtell](/img/wetell-2-.jpg "Bei WEtell wird nur anonym getrackt. Foto: WEtell")
+![Bei WEtell wird nur anonym getrackt. Foto: WEtell](https://storage.googleapis.com/cardamonchai-media/2021-11-20/wetell-2-jpg-imagine-080808_697460_1024_768/640.webp "Bei WEtell wird nur anonym getrackt. Foto: WEtell")
 
 Weiter geht es mit dem Tracking auf der Homepage. Dafür verwendet das Mobilfunk-Start-up die Open-Source-Software Matomo, die einige von Euch vielleicht noch unter dem Namen Piwik kennen. Es wird ein Cookie erzeugt, das den Erfolg von Aktionen bewerten kann – bei gleichzeitiger Anonymisierung von Daten wie der IP-Adresse eine⋆r Seitenbesucher⋆in. Im Umkehrschluss bedeutet das: WEtell kann nicht herausfinden, wer da gerade auf der Seite surft. Facebook und Google bleiben dabei auch komplett außen vor.
 
@@ -90,7 +91,7 @@ Für alle Tarife werden 10 Euro Bereitstellungs-Gebühren berechnet. Telefoniert
 
 ## Was/wer steckt hinter WEtell?
 
-![Andi, Alma und Nico haben WEtell gegründet. Foto: WEtell](/img/wetell-gruendungsteam.jpg "Andi, Alma und Nico haben WEtell gegründet. Foto: WEtell")
+![Andi, Alma und Nico haben WEtell gegründet. Foto: WEtell](https://storage.googleapis.com/cardamonchai-media/2021-11-20/wetell-gruendungsteam-jpg-imagine-080808_757877_1024_768/640.webp "Andi, Alma und Nico haben WEtell gegründet. Foto: WEtell")
 
 2018 hatte das Gründungsteam, bestehend aus Geschäftsführer Andi, Alma und Nico den ersten Platz beim Smart Green Accelerator Preis und den 3. Platz beim Start-up Elevator Pitch BW gewonnen. Von da an, ging es steil bergauf.
 

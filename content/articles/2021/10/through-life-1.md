@@ -12,9 +12,9 @@ excerpt: The new Breaths album "Though Life" is on its way, and it's about time
   that I do this feature about it. The vegan post-music project from Richmond,
   Virginia, has announced the record for early next year. It could be a
   contender for your album of the year 2022.
-image: /img/breaths.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-jpg-imagine-080808_587863_1024_768/640.webp
 copyrigt: Breaths
-ogImage: /img/breaths-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-fb-png-imagine-080808_364333_1200_628/640.webp
 labels:
   - Breaths
   - Though Life
@@ -34,6 +34,7 @@ affiliate: false
 language: en
 languageLink: /2021/10/breaths-though-life/
 ---
+
 **The new Breaths album "Though Life" is on its way, and it's about time that I do this feature about it. The vegan post-music project from Richmond, Virginia, has announced the record for early next year.**
 
 - - -
@@ -48,7 +49,7 @@ In our [interview](/2021/02/breaths-interview-en), he revealed that dark post-mu
 
 ## Roots in 1990's Hardcore
 
-![Breaths – "Though Life"](/img/breaths-though-life...-cover-art.png "Breaths – \\\"Though Life\\\"")
+![Breaths – "Though Life"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-though-life-cover-art-png-imagine-080808_0a1111_3600_3600/640.webp "Breaths – \\\"Though Life\\\"")
 
 With his music, Jason Roberts, aka Breaths, expresses precisely that. You can sense the spirit of his idols Cattle Decapitation and Earth Crisis, who already showed him in the 1990s that veganism has strong roots in extreme music, just as much as the diverse worlds of bands like [The Ocean](/2020/09/the-ocean-robin-staps-interview-en), Deftones, Sleep Token and Holy Fawn.
 

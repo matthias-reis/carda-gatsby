@@ -1,5 +1,5 @@
 ---
-date: 2021-05-08T17:21:42Z
+date: 2021-05-08T17:21:42.000Z
 labels:
   - ätherische Öle
   - DIY Kosmetik
@@ -17,15 +17,19 @@ typeName: Produkttest
 title: DIY Kosmetik für trockene Haut
 subTitle: Handcreme, Körpercreme und Gesichtsöl selbst herstellen
 seoTitle: DIY Kosmetik für trockene Haut – Handcreme & Co. selbst herstellen
-ogTitle: ''
-description: 'DIY-Kosmetik – Beauty-Produkte selbst herstellen klingt ganz schön kompliziert, oder? Ich habe eine gute Nachricht für Euch: Das ist es nicht.'
-excerpt: 'DIY-Kosmetik – Beauty-Produkte selbst herstellen klingt ganz schön kompliziert, oder? Ich habe eine gute Nachricht für Euch: Das ist es nicht. Mit den richtigen Zutaten und guten Rezepten gelingt es sogar schon beim ersten Versuch.'
-image: '/img/2021-05-2021-05-08-rosmarin-handcreme-diy-1titelbild.jpg'
-ogImage: '/img/2021-05-diy-kosmetik-2.jpg'
+ogTitle: ""
+description: "DIY-Kosmetik – Beauty-Produkte selbst herstellen klingt ganz schön
+  kompliziert, oder? Ich habe eine gute Nachricht für Euch: Das ist es nicht."
+excerpt: "DIY-Kosmetik – Beauty-Produkte selbst herstellen klingt ganz schön
+  kompliziert, oder? Ich habe eine gute Nachricht für Euch: Das ist es nicht.
+  Mit den richtigen Zutaten und guten Rezepten gelingt es sogar schon beim
+  ersten Versuch."
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-05-2021-05-08-rosmarin-handcreme-diy-1titelbild-jpg-imagine-a8a898_6e7151_1440_1080/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-05-diy-kosmetik-2-jpg-imagine-f8f8f8_928e78_1200_628/640.webp
 focusKeyword: DIY Kosmetik
 advertisement: true
 affiliate: true
-languageLink: ''
+languageLink: ""
 ---
 
 **DIY-Kosmetik – Beauty-Produkte selbst herstellen klingt ganz schön kompliziert, oder? Ich habe eine gute Nachricht für Euch: Das ist es nicht. Mit den richtigen Zutaten und guten Rezepten gelingt es sogar schon beim ersten Versuch.**

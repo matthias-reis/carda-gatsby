@@ -8,9 +8,9 @@ seoTitle: Zement – "Rohstoff" – Ein Statement an die Musikwelt
 description: Zement liefern mit ihrer dritten LP Neo-Krautrock/Psychedelic vom
   Feinsten ab – perfekt komponiert mit schönen Anleihen aus der Techno-Ecke.
   "Rohstoff" ist eine durchaus tanzbare Platte, die gut in unsere Zeit passt.
-image: /img/zement-rohstoff.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-jpg-imagine-181818_5c4a4c_1024_768/640.webp
 copyrigt: Zement
-ogImage: /img/zement-rohstoff-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-fb-png-imagine-f8f8f8_a67460_1200_628/640.webp
 labels:
   - Experimental
   - Electronic
@@ -31,13 +31,14 @@ affiliate: false
 language: de
 languageLink: /2021/07/zement-rohstoff-en/
 ---
+
 **Zement liefern mit ihrer dritten LP Neo-Krautrock/Psychedelic vom Feinsten ab – perfekt komponiert mit schönen Anleihen aus der technoiden Welt. "Rohstoff" ist eine durchaus tanzbare Platte, die gut in unsere Zeit passt.**
 
 Das neue Album ist alles andere als überproduziert. Ganz im Gegenteil – man entdeckt jede Menge spontane Momente auf "Rohstoff". Mögliche Einflüsse finde ich hier nicht nur im DIY-Punk Genre, dem das Würzburger Duo entstammt. Industrial, Electro Pop und Warehouse-Techno sind ganz sicher nicht spurlos an den beiden vorbeigezogen.
 
 ## Zement holen einen von der Couch runter
 
-![Zement – "Rohstoff"](/img/zement-rohstoff-3.jpeg "Zement – \\\"Rohstoff\\\"")
+![Zement – "Rohstoff"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-3-jpeg-imagine-080808_552610_800_800/640.webp "Zement – \\\"Rohstoff\\\"")
 
 Dennoch halten sich Christian Büdel (Drums, Percussion) und Philipp Hager (Gitarre, Synths, Drum-Machines, Effekte, Flöten) nicht damit auf, in Erinnerungen zu schwelgen. Sie haben ihren komplett eigenen Stil gefunden und der ist ziemlich cool.
 

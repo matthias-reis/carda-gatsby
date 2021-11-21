@@ -8,9 +8,9 @@ seoTitle: Sel Balamir – "Swell"  – A Special Lockdown Solo Album
 description: Sel Balamir, singer and founder of Amplifier, reports back with a
   solo record. He has announced the release of "Swell" for September 6. If you
   want, you can already listen to it.
-image: /img/sel-balamir-swell.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sel-balamir-swell-jpg-imagine-183878_4174a4_1024_768/640.webp
 copyrigt: Sel Balamir
-ogImage: /img/sel-balamir-swell-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sel-balamir-swell-fb-png-imagine-183878_4d78a9_1200_628/640.webp
 labels:
   - Sel Balamir
   - Amplifier
@@ -28,6 +28,7 @@ affiliate: false
 language: en
 languageLink: /2021/08/sel-balamir-swell/
 ---
+
 **Sel Balamir, singer, guitarist and founder of Amplifier, reports back with a solo record. He has announced the release of "Swell" for September 6. If you want, you can already listen to it.**
 
 The album "Swell" consists of three songs that are very special for Sel. He wrote them during the Corona Lockdowns in 2020. In his newsletter, he writes:
@@ -40,7 +41,7 @@ That sounds pretty good, doesn't it? It is a fact that we all like to dream ours
 
 There are only three tracks on "Swell", but they are pretty long, which is good – Sel is not the only one who thinks so. Listening to the record is an absolute pleasure for me. Sel surprises with underwater sounds, organ music and an alternation of thoughtful, quiet and playful parts.
 
-![Sel Balamir – "Swell"](/img/sel-balamir-swell.jpeg "Sel Balamir – \\"Swell\\"")
+![Sel Balamir – "Swell"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/sel-balamir-swell-jpeg-imagine-183878_356391_700_700/640.webp "Sel Balamir – \\"Swell\\"")
 
 The first song, "Swell", is with its impressive 20:42, the longest track on the record, and the opener for an imaginative play at sea with a pleasant touch of 70s psychedelic.
 

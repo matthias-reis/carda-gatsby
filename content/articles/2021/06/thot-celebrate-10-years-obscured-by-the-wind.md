@@ -1,36 +1,36 @@
 ---
-date: 2021-06-04T13:00:42.000+02:00
+date: 2021-06-04T11:00:42.000Z
 labels:
-- Obscured by the Wind
-- Thot
-- Review
-- Reviews
-- Bands
-- Vegetal Noise
-- Post-Rock
-- Industrial
-- Full Moon
-- English & German
+  - Obscured by the Wind
+  - Thot
+  - Review
+  - Reviews
+  - Bands
+  - Vegetal Noise
+  - Post-Rock
+  - Industrial
+  - Full Moon
+  - English & German
 language: en
 slug: thot-feiern-10-jahre-obscured-by-the-wind-en
 typeName: Review
 title: Thot celebrate 10 years "Obscured by the Wind"
 subTitle: '"Blue & Green (are melting down in a new seed)"'
 seoTitle: Thot celebrate 10 years "Obscured by the Wind"
-ogTitle: ''
-description: Thot are celebrating the 10th anniversary of their milestone album "Obscured
-  by the Wind" with a breathtaking live recording of their song "Blue & Green (are
-  melting down in a new seed)". The video is available online now.
-excerpt: ''
-image: "/img/thot-cat.jpeg"
+ogTitle: ""
+description: Thot are celebrating the 10th anniversary of their milestone album
+  "Obscured by the Wind" with a breathtaking live recording of their song "Blue
+  & Green (are melting down in a new seed)". The video is available online now.
+excerpt: ""
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-cat-jpeg-imagine-080808_1f180f_1024_768/640.webp
 copyright: Thot
-ogImage: "/img/thot-cat-fb-1.jpeg"
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-cat-fb-1-jpeg-imagine-080808_1c160e_1200_628/640.webp
 focusKeyword: Obscured by the Wind
 advertisement: false
 affiliate: false
-languageLink: "/2021/06/thot-feiern-10-jahre-obscured-by-the-wind"
-
+languageLink: /2021/06/thot-feiern-10-jahre-obscured-by-the-wind
 ---
+
 **Thot are celebrating the 10th anniversary of their milestone album "Obscured by the Wind" with a breathtaking live recording of their song "Blue & Green (are melting down in a new seed)". The video is available online now.**
 
 Thot are announcing today's release with some bitterness: Due to some technical issues during the post-production of the recording, a large part of the material got destroyed. Originally the Brussels based band had planned open-air live versions of all ten songs on the record.

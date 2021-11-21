@@ -1,5 +1,5 @@
 ---
-date: 2021-05-02T17:21:42.000+00:00
+date: 2021-05-02T17:21:42.000Z
 labels:
   - Align in Time
   - Interview
@@ -15,15 +15,21 @@ typeName: Interview
 title: John Boles aka Align in Time
 subTitle: '"My Music Is Biographical"'
 seoTitle: Align in Time Interview  – "My Music Is Biographical"
-ogTitle: ''
-description: Align in Time is a one-person post-rock project from Providence, Rhode Island. The founder is multi-instrumentalist John Boles. On 7 May, he re-released some of his songs as acoustic versions on his EP "Men Without Chests & I Go Too".
-excerpt: Align in Time is a one-person post-rock project from Providence, Rhode Island. The founder is multi-instrumentalist John Boles. On 7 May, he re-released some of his songs as acoustic versions on his EP "Men Without Chests & I Go Too". Time for an interview.
-image: '/img/2021-05-align-in-time-john-boles.jpeg'
-ogImage: '/img/2021-05-align-in-time-2.jpg'
+ogTitle: ""
+description: Align in Time is a one-person post-rock project from Providence,
+  Rhode Island. The founder is multi-instrumentalist John Boles. On 7 May, he
+  re-released some of his songs as acoustic versions on his EP "Men Without
+  Chests & I Go Too".
+excerpt: Align in Time is a one-person post-rock project from Providence, Rhode
+  Island. The founder is multi-instrumentalist John Boles. On 7 May, he
+  re-released some of his songs as acoustic versions on his EP "Men Without
+  Chests & I Go Too". Time for an interview.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-05-align-in-time-john-boles-jpeg-imagine-282828_4d4643_1440_962/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-05-align-in-time-2-jpg-imagine-282828_7a756e_1200_628/640.webp
 focusKeyword: Align in Time
 advertisement: false
 affiliate: false
-languageLink: '/2021/05/align-in-time-interview'
+languageLink: /2021/05/align-in-time-interview
 ---
 
 **Align in Time is a one-person post-rock project from Providence, Rhode Island. The founder is multi-instrumentalist John Boles. On 7 May, he re-released some of his songs as acoustic versions on his EP "Men Without Chests & I Go Too". Time to ask him a few questions.**
@@ -36,7 +42,7 @@ languageLink: '/2021/05/align-in-time-interview'
 
 ## "So many things have changed"
 
-**![Align in Time – "Men Without Chests & I Go Too" (Acoustic)](/img/2021-05-align-in-time-1.jpg 'Align in Time – "Men Without Chests & I Go Too" (Acoustic)')John:** Both of my albums are biographical, though not literally. When they look at their lives, I think many people have certain moments that stand out, and interpreting those moments as part of a story with themes helps you process and make sense of what led you to become who you are today. That's the basis for my music and why musical motifs reappear across both albums. It's that process of remembering and reinterpreting and reimagining what could come next.
+**![Align in Time – "Men Without Chests & I Go Too" (Acoustic)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-05-align-in-time-1-jpg-imagine-d8d8e8_adb0a6_1080_1080/640.webp 'Align in Time – "Men Without Chests & I Go Too" (Acoustic)')John:** Both of my albums are biographical, though not literally. When they look at their lives, I think many people have certain moments that stand out, and interpreting those moments as part of a story with themes helps you process and make sense of what led you to become who you are today. That's the basis for my music and why musical motifs reappear across both albums. It's that process of remembering and reinterpreting and reimagining what could come next.
 
 **Anne:** It's your first record since your debut album "Me & My Arrow" in 2011. What has changed since then?
 

@@ -10,9 +10,9 @@ description: "Womit fasst man Daten und Fakten besser zusammen, als mit
   Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umwelt und
   Nachhaltigkeit: Beim Klimaquartett lernt Ihr beim Spielen ganz nebenbei, wie
   Ihr das Klima schützt."
-image: /img/klimaquartett.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/klimaquartett-jpg-imagine-385848_627b69_1024_768/640.webp
 copyrigt: Ann Christin Müller
-ogImage: /img/klimaquartett-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/klimaquartett-fb-png-imagine-385848_7c8762_1200_628/640.webp
 labels:
   - Klimaquartett
   - Quartett
@@ -32,6 +32,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Womit fasst man Daten und Fakten besser zusammen, als mit Quartett-Karten? Was die meisten aus ihrer Kindheit mit Superheld⋆innen, Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umweltschutz und Nachhaltigkeit: Das Klimaquartett ist da.**
 
 Ziel des Kartenspiels ist es, Menschen für den Klimaschutz zu sensibilisieren. Es soll ein Gesellschaftsspiel im wahrsten Sinne des Wortes sein. Das Tolle an den Karten ist: Sie enthalten nicht "nur" interessante Fakten und Details, man kann sie auch für viele Kartenspiele und sogar beim Pokern benutzen. Man informiert sich also gleichzeitig über Nachhaltigkeit und kann sein Spiel genießen – lernen nebenbei also.

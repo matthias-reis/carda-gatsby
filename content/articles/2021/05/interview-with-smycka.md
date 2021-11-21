@@ -1,5 +1,5 @@
 ---
-date: 2021-05-02T17:21:42.000+00:00
+date: 2021-05-02T17:21:42.000Z
 labels:
   - Smyčka
   - Post-Metal
@@ -15,15 +15,21 @@ typeName: Interview
 title: Interview with Smyčka
 subTitle: '"Life seems kafkaesque sometimes"'
 seoTitle: Interview with Smyčka – "Life seems kafkaesque sometimes"
-ogTitle: ''
-description: Smyčka wanted to do an interview. Because I'm pretty fascinated by the band's history and their debut album "Fated" is pretty great, I am delighted to present it to you now.
-excerpt: I had a pretty intense and private chat with Smyčka the other day. We talked about the winding path that led to their excellent debut album "Fated". Singer Julia, drummer Anton and guitarist and band founder Vasily told me many details about their music, the post-metal scene in Russia, and their affinity for Franz Kafka's stories.
-image: '/img/smycka.jpg'
-ogImage: '/img/smycka-fb.jpg'
+ogTitle: ""
+description: Smyčka wanted to do an interview. Because I'm pretty fascinated by
+  the band's history and their debut album "Fated" is pretty great, I am
+  delighted to present it to you now.
+excerpt: I had a pretty intense and private chat with Smyčka the other day. We
+  talked about the winding path that led to their excellent debut album "Fated".
+  Singer Julia, drummer Anton and guitarist and band founder Vasily told me many
+  details about their music, the post-metal scene in Russia, and their affinity
+  for Franz Kafka's stories.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/smycka-jpg-imagine-080808_1e1e1e_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/smycka-fb-jpg-imagine-181818_252525_1200_628/640.webp
 focusKeyword: Smyčka
 advertisement: false
 affiliate: false
-languageLink: '/2021/05/smycka-interview'
+languageLink: /2021/05/smycka-interview
 ---
 
 **Smyčka wanted to do an interview. Because I'm pretty fascinated by the band's history and their debut album "Fated" is pretty great, I am delighted to present it to you today.**

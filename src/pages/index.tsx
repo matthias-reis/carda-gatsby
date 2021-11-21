@@ -56,13 +56,7 @@ export const query = graphql`
             languageLink
             advertisement
             affiliate
-            image {
-              childImageSharp {
-                fluid(maxWidth: 400, quality: 70) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            image
           }
         }
       }

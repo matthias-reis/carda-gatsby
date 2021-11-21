@@ -10,9 +10,9 @@ description: In my music list for July, I introduced to you, C. Diab. With his
   songs, the musician from Canada wants to inspire people to dream. His album
   "White Whale", which was released recently, is the fifth since his debut in
   2013. I have now arranged an interview with him.
-image: /img/2020_08_photo-by-ian-william-craig-2-1__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-08-photo-by-ian-william-craig-2-1-l-jpeg-imagine-f8d888_af8c56_1440_1080/640.webp
 copyrigt: Ian William Craig
-ogImage: /img/2020_08_c.diab-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-08-c-diab-fb-png-l-jpg-imagine-382828_b18f58_1440_754/640.webp
 labels:
   - Ambient
   - Bands
@@ -30,6 +30,7 @@ affiliate: false
 language: en
 languageLink: /2020/08/c-diab-interview
 ---
+
 **In my music list for July, I introduced to you, C. Diab. With his songs the musician from Canada wants to inspire people to dream.**
 
 His album "White Whale", which was released recently, is the fifth since his debut in 2013. I have now arranged an interview with him. We talked about "White Whale" and his affection for playing acoustic guitars with the help of a cello bow. And also a bit about politics nowadays.

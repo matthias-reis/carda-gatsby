@@ -9,9 +9,9 @@ ogTitle: ""
 description: Do you know Homem em Catarse? The dream gaze/slowcore project from
   Portugal released a great new album in 2020, which I would like to introduce
   to you today.
-image: /img/2021_01_homem-em-catarse-cem-palavras-_-sem-palavras__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-01-homem-em-catarse-cem-palavras-sem-palavras-l-jpeg-imagine-787878_656565_1440_1080/640.webp
 copyrigt: Homem em Catarse
-ogImage: /img/2021_01_homem-em-catarse-cem-palavras-_-sem-palavras-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-01-homem-em-catarse-cem-palavras-sem-palavras-fb-png-l-jpg-imagine-787878_6d6d6d_1440_754/640.webp
 labels:
   - Ambient
   - Atmosphärischer Post-Rock
@@ -29,6 +29,7 @@ affiliate: false
 language: en
 languageLink: /2021/01/homem-em-catarse
 ---
+
 **Do you know Homem em Catarse? The dream gaze/slowcore project from Portugal released a great new album in 2020, which I would like to introduce to you today.**
 
 Homem em Catarse means "One man in Catarsis". The musician behind that name is Afonso Dorido, who counts himself to the Portuguese post-rock scene. In his stage shows, he focuses on magnitude and intensity. He says that he wants to "bring the universe into the room".

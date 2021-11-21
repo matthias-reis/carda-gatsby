@@ -1,5 +1,5 @@
 ---
-date: 2021-05-28T08:00:42+02:00
+date: 2021-05-28T06:00:42.000Z
 labels:
   - Bands
   - Building Prisons
@@ -14,16 +14,20 @@ typeName: Review
 title: Building Prisons
 subTitle: New Irish Post-Rock Project
 seoTitle: Building Prisons – New Irish Post-Rock Project
-ogTitle: ''
-description: Building Prisons is a post-rock project from Cavan in the Republic of Ireland. Rory Mc Donagh (guitar), Peter Denton (guitar), Johno Leader (bass) and Paddy Fitzhenry (drums) name bands like Maybeshewill, This Will Destroy You and Russian Circles as their influences. Their self-titled debut EP makes you want to hear more.
-excerpt: ''
-image: '/img/building-prisons.jpg'
+ogTitle: ""
+description: Building Prisons is a post-rock project from Cavan in the Republic
+  of Ireland. Rory Mc Donagh (guitar), Peter Denton (guitar), Johno Leader
+  (bass) and Paddy Fitzhenry (drums) name bands like Maybeshewill, This Will
+  Destroy You and Russian Circles as their influences. Their self-titled debut
+  EP makes you want to hear more.
+excerpt: ""
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/building-prisons-jpg-imagine-080808_525252_1024_768/640.webp
 copyright: Building Prisons
-ogImage: '/img/building-prisons-fb.jpg'
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/building-prisons-fb-jpg-imagine-080808_5d5d5d_1200_628/640.webp
 focusKeyword: Building Prisons
 advertisement: false
 affiliate: false
-languageLink: '/2021/05/building-prisons'
+languageLink: /2021/05/building-prisons
 ---
 
 **Building Prisons is a post-rock project from Cavan in the Republic of Ireland. Rory Mc Donagh (guitar), Peter Denton (guitar), Johno Leader (bass) and Paddy Fitzhenry (drums) name bands like Maybeshewill, This Will Destroy You and Russian Circles as their influences. Their self-titled debut EP makes you want to hear more.**
@@ -34,7 +38,7 @@ I'm driving through a summer landscape where glistening sunlight is in a battle 
 
 ## Building Prisons introduce themselves
 
-![Building Prisons's self-titled debut EP. ](/img/bp-ep-front-cover.png "Building Prisons's self-titled debut EP. ")Suddenly the fog clears, a flock of birds passes by on the horizon. They are settling in a field on their journey north, listening to the wind rushing over their heads.
+![Building Prisons's self-titled debut EP. ](https://storage.googleapis.com/cardamonchai-media/2021-11-20/bp-ep-front-cover-png-imagine-080808_0d0e1a_2880_2916/640.webp "Building Prisons's self-titled debut EP. ")Suddenly the fog clears, a flock of birds passes by on the horizon. They are settling in a field on their journey north, listening to the wind rushing over their heads.
 
 I am so excited that I'm hardly noticing that I'm already listening to the second song ("Agent Orange"). The stylistic device of replacing vocals with instruments, which is typical for the genre, has worked out fabulously here. The song is a bit more driving, almost a bit funky. In any case, it stays in clear contrast to the first piece on the record. With its 4:29, it is short and concise. Towards the end, it even gets a bit punky – I like it!
 

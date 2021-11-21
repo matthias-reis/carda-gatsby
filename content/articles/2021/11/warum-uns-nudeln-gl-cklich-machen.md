@@ -13,9 +13,9 @@ excerpt: Woran liegt es eigentlich, dass Nudeln glücklich machen? Stimmt das
   wirklich? Ist es nur ein Gerücht? Aber eigentlich fühlt es sich doch wirklich
   so an, oder? Ich habe mal zusammengefasst, woran es liegt, dass man sich nach
   ein bis drei Tellern Spaghetti oder Fussili so viel besser fühlt, als vorher.
-image: /img/2021-10-26-produkttest-18-nudeln-1.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-18-nudeln-1-jpg-imagine-e8e8f8_e4d090_1024_768/640.webp
 copyrigt: ""
-ogImage: /img/nudeln-uns-gluecklich-machen-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/nudeln-uns-gluecklich-machen-fb-png-imagine-d8e8f8_e4cd79_1200_628/640.webp
 labels:
   - Nudeln
   - Pasta
@@ -28,6 +28,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Woran liegt es eigentlich, dass Nudeln glücklich machen? Stimmt das wirklich? Ist es nur ein Gerücht? Aber eigentlich fühlt es sich doch wirklich so an, oder? Ich habe mal zusammengefasst, woran es liegt, dass man sich nach ein bis drei Tellern Spaghetti oder Fussili so viel besser fühlt, als vorher.**
 
 Nudelsorten gibt es viele: Penne, Cannelloni, Farfalle, Fettuccine, Ravioli, Tortellini, Spaghetti und die von mir so heiß geliebten Bandnudeln haben eins gemeinsam: Sie machen uns glücklich.
@@ -36,7 +37,7 @@ Das hat viele Gründe: vor allem könnte es zum Beispiel daran liegen, dass sie 
 
 ## Welche Nudeln dürfen es heute sein?
 
-![Warum uns Nudeln glücklich machen](/img/2021-10-26-produkttest-5-nudeln.jpg "Welche Nudeln dürfen es heute sein?")
+![Warum uns Nudeln glücklich machen](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-5-nudeln-jpg-imagine-e8d888_bf9f3d_1024_768/640.webp "Welche Nudeln dürfen es heute sein?")
 
 Der nächste Punkt ist die unglaubliche Vielfältigkeit der Nudeln, die uns heute zur Verfügung stehen und die Kombinationsmöglichkeiten, die sich bieten. Spaghetti mit veganer Bolo, Bandnudeln mit Erbsen, gebratene Ravioli mit Gemüse, Reisnudeln mit Sojasauce, Rigatoni mit Pesto, Farfalle mit Tomatensauce oder [Glasnudelsalat](/2017/03/glasnudelsalat-mit-mango-vegan/) – was kommt heute Abend auf den Tisch?
 
@@ -48,7 +49,7 @@ Das bedeutet auch, dass wir Pasta zum Stressabbau einsetzen können. Das funktio
 
 ## Nudeln machen glücklich und sind gesund
 
-![Warum uns Nudeln glücklich machen](/img/2021-10-26-produkttest-28-nudeln-1.jpg "Bandnudeln mit Gemüse und Tofu")
+![Warum uns Nudeln glücklich machen](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-28-nudeln-1-jpg-imagine-d8e8f8_cd9b5b_1024_768/640.webp "Bandnudeln mit Gemüse und Tofu")
 
 Hinzu kommt, dass Nudeln sehr gesund sind. Und sind wir mal ehrlich: Auch das kann einem ein Lächeln aufs Gesicht zaubern, oder? Unsere Spaghetti und Farfalle stecken voller wertvoller Mineralien, Vitamine und Spurenelemente. Wir versorgen unseren Körper mit Kalium, Kalzium und Magnesium, wenn wir sie essen. Mit 100 Gramm herkömmlichen Nudeln nehmt Ihr 359 Kalorien zu Euch. Aufgeteilt sind das 1,6 Gramm Fett (davon 0,4 Gramm gesättigte Fettsäuren), 72 Gramm Kohlenhydrate (davon 3 Gramm Zucker), 3,2 Gramm Ballaststoffe, 12,5 Gramm Eiweiß und unter 0,1 Gramm Salz.
 
@@ -60,7 +61,7 @@ Natürlich gibt es auch noch Dinkel-Vollkorn-Nudeln, Reisnudeln, Buchweizen-Nude
 
 ## Komplexe Kohlenhydrate sind gesunde Kohlenhydrate
 
-![Warum uns Nudeln glücklich machen](/img/2021-10-26-produkttest-21-nudeln-1.jpg "Komplexe Kohlenhydrate sind gesunde Kohlenhydrate")
+![Warum uns Nudeln glücklich machen](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-21-nudeln-1-jpg-imagine-d8e8f8_e7d694_1024_768/640.webp "Komplexe Kohlenhydrate sind gesunde Kohlenhydrate")
 
 Wir haben also gelernt, dass Nudeln zu rund 70 Prozent aus Kohlenhydraten bestehen. Jetzt wird es interessant (Scotty, Energie!). Es handelt sich dabei um komplexe Kohlenhydrate in Form von Stärke. Weil sie vom menschlichen Organismus langsam verwertet wird, kann ein Energievorrat gebildet werden, den wir so lange anzapfen können, bis er leer ist. Unsere Leistungsfähigkeit wird dadurch gesteigert.
 
@@ -70,7 +71,7 @@ Halten wir also fest: Kohlenhydrate sind wichtig für unseren Energiehaushalt. A
 
 ## Die Geschichte der Pasta
 
-![Komplexe Kohlenhydrate sind gesunde Kohlenhydrate](/img/2021-10-26-produkttest-8-nudeln.jpg "Nudeln mit Pesto schmecken einfach immer")
+![Komplexe Kohlenhydrate sind gesunde Kohlenhydrate](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-8-nudeln-jpg-imagine-f8c848_b59f3b_1024_768/640.webp "Nudeln mit Pesto schmecken einfach immer")
 
 Zum Abschluss hier noch ein kleiner Ex(ss)kurs in die Geschichte der Pasta. Nudeln gibt es schon seit über 4.000 Jahren. Das erste bekannte Nudelrezept stammt aus China. Die Forschenden sind sich heute darüber einig, dass Menschen in den unterschiedlichsten Gebieten parallel verschiedene Nudeln entwickelten, sobald ihnen Mehl zur Verfügung stand. In Europa werden sie seit etwa 2.000 Jahren gegessen. Abbildungen von Nudelhölzern und anderem Pasta-Zubehör wurden in etruskischen Grabstätten gefunden.
 

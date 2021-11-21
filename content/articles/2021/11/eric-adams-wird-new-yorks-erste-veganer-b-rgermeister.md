@@ -12,10 +12,10 @@ excerpt: Sicher habt Ihr schon von Eric Adams gehört. Er wurde vor zwei Tagen
   offiziell zum neuen Bürgermeister von New York ernannt und ist der erste
   Veganer im Amt. In New York setzt er sich seit Jahren für Gesundheitskampagnen
   und gegen Rassismus ein.
-image: /img/eric-adams.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/eric-adams-jpg-imagine-987858_7b635a_1024_768/640.webp
 copyrigt: |
   Eric Adams, Wikimedia Commons
-ogImage: /img/eric-adams-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/eric-adams-fb-jpg-imagine-987858_89654e_1200_628/640.webp
 labels:
   - Eric Adams
   - New York
@@ -27,6 +27,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Sicher habt Ihr schon von Eric Adams gehört. Er wurde vor zwei Tagen offiziell zum neuen Bürgermeister von New York ernannt und ist der erste Veganer im Amt. In New York setzt er sich seit Jahren für Gesundheitskampagnen und gegen Rassismus ein.**
 
 Der ehemalige Präsident von Brooklyn Borough gewann den Wahlkampf gegen seinen Gegner Republikaner Curtis Sliwa, nachher er im Juli bereits die Vorwahlen für sich entschieden hatte. Damals hatte sich der 61-jährige Ex-Polizist gegen seine Mitstreiter⋆innen, die ehemalige Stadtreinigungs-Beauftragte Kathryn Garcia, die Rechtsberaterin A. D. Maya Wiley und den ehemaligen Präsidentschaftskandidaten für 2020 Andrew Yang durchgesetzt.

@@ -9,8 +9,8 @@ seoTitle: '"As The Love Continues" Hits No. 1 In England – Music Of The
 description: 'With their new album "As The Love Continues", Mogwai have achieved
   something that no post-rock band has managed before: they have landed at
   number 1 hit in the British charts with the record.'
-image: /img/2021_03_2021-03-02-santaverde-2__l.jpeg
-ogImage: /img/2021_03_as-the-love-continues-fb.png__l.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-2021-03-02-santaverde-2-l-jpeg-imagine-c8a808_876a51_1440_1080/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-as-the-love-continues-fb-png-l-jpg-imagine-c8a808_8c7254_1440_754/640.webp
 labels:
   - As The Love Continues
   - Bands
@@ -25,6 +25,7 @@ affiliate: false
 language: en
 languageLink: /2021/03/as-the-love-continues-mogwai
 ---
+
 **With their new album "As The Love Continues", Mogwai have achieved something that no post-rock band has managed before: they have landed at number 1 hit in the British charts with the record.**
 
 Last Friday, the post-rock pioneers got a nice surprise. After it had already become apparent the day before that it could happen, "As The Love Continues" was crowned the number 1 album.

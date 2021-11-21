@@ -1,14 +1,18 @@
 ---
-date: 2018-03-02T08:08:35.000+00:00
+date: 2018-03-02T08:08:35.000Z
 slug: meine-ultimative-lieblingsplatten-liste
-path: '/2018/03/meine-ultimative-lieblingsplatten-liste/'
+path: /2018/03/meine-ultimative-lieblingsplatten-liste/
 title: 10 Alben - Keine Erklärung - Teil 1/3
 seoTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
 ogTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
-description: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen werde.
-excerpt: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen werde.
+description: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten.
+  Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie
+  vergessen werde.
+excerpt: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese
+  Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen
+  werde.
 fileName: 2018-03---10-alben-keine-erklaerung-teil-1-3.md
-ogImage:
+ogImage: null
 labels:
   - A Perfect Circle
   - After The Eulogy
@@ -44,8 +48,9 @@ isAffiliate: false
 language: de
 errors: {}
 subTitle: Meine ultimative Lieblingsplatten-Liste aller Zeiten
-image: '/img/10-alben-keine-erklaerung-1.jpeg'
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-alben-keine-erklaerung-1-jpeg-imagine-f8f8f8_928b8c_800_533/640.webp
 ---
+
 > **10 LPs that make the "favourites" playlist. Post a cover a day, no explanation, nominate a person a day."  - 10 Alben, die Deine All-Time-Favoritenliste ergeben. Keine Erklärung. Nominiere jeden Tag eine andere Person"**
 
 So stand es an der Facebook-Pinnwand des Herrn Björn von Gartenbaukunst\*. Darunter war mein Name markiert. Klar, man könnte jetzt sagen: Wieder so ein "Kettenbrief".  Ich mach da nicht mit. Aber man könnte auch was Schönes damit anfangen und sich mal Gedanken darüber machen: Was sind eigentlich meine persönlichen All-time-favorites? Welche Alben sind die, mit denen ich tatsächlich am meisten Zeit verbracht habe und die mich am meisten beeinflusst/beeindruckt haben?

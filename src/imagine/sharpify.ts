@@ -13,7 +13,7 @@ export const sharpify = async (
 ): Promise<SharpObject[]> => {
   return await Promise.all(
     images.map(async (image): Promise<SharpObject> => {
-      const name = slugify(image.name);
+      const name = slugify(`${image.name}${image.ext}`);
       const basePath = `${datePath}/${name}`;
       const sharpened = sharp(image.file);
       const stats = await sharpened.stats();

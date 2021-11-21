@@ -12,9 +12,9 @@ excerpt: Für ein entspanntes Wochenende habe ich heute drei schnelle Musiktipps
   für Euch, die mir von Klonosphere Records zugespielt wurden. Sie kommen von
   Closet Disco Queen, Maudits und SaaR. Alle drei Bands haben vor Kurzem neue
   Tonträger veröffentlicht.
-image: /img/musik-wochenende.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/musik-wochenende-jpg-imagine-080808_625b52_1024_768/640.webp
 copyrigt: Closet Disco Queen, SaaR, Maudits
-ogImage: /img/musik-wochenende-fb-1-.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/musik-wochenende-fb-1-png-imagine-080808_5c5750_1200_628/640.webp
 labels:
   - Closet Disco Queen
   - SaaR
@@ -36,13 +36,14 @@ affiliate: false
 language: de
 languageLink: /2021/11/closet-disco-queen-maudits-saar-en/
 ---
+
 **Für ein entspanntes Wochenende habe ich heute drei schnelle Musiktipps für Euch, die mir von Klonosphere Records zugespielt wurden. Sie kommen von Closet Disco Queen, Maudits und SaaR. Alle drei Bands haben vor Kurzem neue Tonträger veröffentlicht.**
 
 ## SaaR – "Gods"
 
 SaaR gründeten sich 2010 in Paris. Das Post-Metal Kollektiv sieht seine Einflüsse in Bands wie Bossk, Russian Circle, Cult of Luna und Isis. Die Musik der Band ist eine Mischung aus Post-Rock und hartem Post-Metal – mit schönen ätherischen Momenten hier und da.
 
-![SaaR – "Gods" Plattencover (Hochhaus mit Wolkenhimmel)](/img/saar.jpeg "SaaR – \"Gods\"")
+![SaaR – "Gods" Plattencover (Hochhaus mit Wolkenhimmel)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/saar-jpeg-imagine-383838_6d6d6d_425_425/640.webp "SaaR – \"Gods\"")
 
 Was intensiv und abwechslungsreich klingt, ist es auch. Auf die ersten beiden Alben und eine EP- und Split-LP-Serie folgt jetzt die neue LP "God". Dabei handelt es sich um ein Konzept-Album auf der Basis der Heldengedichte von Homer. Die Band greift darin mythologische Themen aus der epischen Geschichte des Odysseus auf, die Homer in seiner Odyssee schildert.
 
@@ -56,13 +57,13 @@ SaaR sind: Alexandre Le Mouroux (Gitarren), Boris Patchinsky (Bass), Julien Taub
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1943744856/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://saar.bandcamp.com/album/gods-2">GODS by SaaR</a></iframe>
 
-![SaaR (Die Band sitzt auf dem Boden vor ihren Instrumenten) | large](/img/saar.jpg "SaaR")
+![SaaR (Die Band sitzt auf dem Boden vor ihren Instrumenten) | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/saar-jpg-imagine-b8b898_8f8876_1024_768/640.webp "SaaR")
 
 ## Maudits – "Angel Mort"
 
 Die zweite Platte, die ich Euch heute empfehle, stammt von Maudits. Das ebenfalls aus Paris stammende Klangkollektiv veröffentlichte "Angel Mort" direkt im Anschluss an das von der Kritik hochgelobte Debüt-Album "Maudis" am 5. November.
 
-![Maudits – "Angel Mort" Plattencover (Eine Bleistiftzeichnung von einer Hand, die im hohen Gras nach einer zerbrochenen Blume greift)](/img/maudits.jpeg "Maudits – \"Angel Mort\"")
+![Maudits – "Angel Mort" Plattencover (Eine Bleistiftzeichnung von einer Hand, die im hohen Gras nach einer zerbrochenen Blume greift)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/maudits-jpeg-imagine-e8e8e8_979797_425_419/640.webp "Maudits – \"Angel Mort\"")
 
 COVID-19 und drei Niederlagen, welche die Band hinnehmen musste, verschafften Maudits etwas Zeit,  an neuen Stücken zu arbeiten. So schafften die Künstler⋆innen es, sich in Zeiten von Social Distancing so gut es geht abzulenken - und diese Ablenkung klingt wirklich gut! "Angel Mort" ist auf jeden Fall ein würdiger Nachfolger für "Maudits".
 
@@ -76,13 +77,13 @@ Das neue Kurz-Album unterstreicht das Streben der Bandmitglieder nach Freiheit u
 
 <YouTube id="0T4ojBcJqVU" />
 
-![Maudits (Zwei Menschen halten sich mit den Händen die Augen zu) | large](/img/maudits.jpg "Maudits")
+![Maudits (Zwei Menschen halten sich mit den Händen die Augen zu) | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/maudits-jpg-imagine-080808_331f0c_1024_768/640.webp "Maudits")
 
 ## Closet Disco Queen – "Stadium Rock For Punk Bums"
 
 Auch Closet Disco Queen haben schon wieder was Neues draußen, kaum, dass die Vinylpresse, aus der ["Omelette du Fromage"](/2021/08/closet-disco-queen-the-flying-raclettes-omelette-du-fromage/) erst vor Kurzem ratsgehüpft ist, abgekühlt ist.
 
-![Closet Disco Queen – "Stadium Rock For Punk Bums" Plattencover (Abstrakte Comic-Zeichnung von einem Gesicht)](/img/closet-disco-queen.jpeg "Closet Disco Queen – \"Stadium Rock For Punk Bums\"")
+![Closet Disco Queen – "Stadium Rock For Punk Bums" Plattencover (Abstrakte Comic-Zeichnung von einem Gesicht)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/closet-disco-queen-jpeg-imagine-f8f8f8_c9c6c2_425_425/640.webp "Closet Disco Queen – \"Stadium Rock For Punk Bums\"")
 
 Die Bandgründer Luc Hess und Jona Nido sind in der Schweizer Musikszene alles andere, als unbeschriebene Blätter. Durch ihre Band Coilguns und als Begleitmusiker des Singer/Songwriters Loui Jucker kommen sie ziemlich viel rum. Jona Nido ist  außerdem der Gründer des in La Chaux-de-Fonds ansässigen Plattenlabels Hummus Records, auf dem unter zum Beispiel Emilie Zoé, Rorcal, Ester Poly, Coilguns, Stéphane Blok, Rorcal und Dirty Sound Magnet zu Hause sind. Auch die komplette Diskografie von Closet Disco Queen ist dort erschienen.
 
@@ -98,4 +99,4 @@ Und die Musik? Die Musik macht einfach nur Spaß! Sie ist herausragend, spannend
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158460481/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://closetdiscoqueen.bandcamp.com/album/stadium-rock-for-punk-bums">Stadium Rock for Punk Bums by Closet Disco Queen</a></iframe>
 
-![Closet Disco Queen (Die Bandmitglieder sitzen und stehen im Proberaum unter einer Lampe) | large](/img/closet-disco.jpg "Closet Disco Queen")
+![Closet Disco Queen (Die Bandmitglieder sitzen und stehen im Proberaum unter einer Lampe) | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/closet-disco-jpg-imagine-080808_000000_1024_768/640.webp "Closet Disco Queen")

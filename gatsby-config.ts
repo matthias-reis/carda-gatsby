@@ -9,7 +9,7 @@ export default {
     siteUrl: `https://cardamonchai.com`,
   },
   flags: {
-    DEV_SSR: false,
+    DEV_SSR: true,
     FAST_REFRESH: true,
   },
   plugins: [
@@ -56,8 +56,7 @@ export default {
                   edge.node?.frontmatter?.subTitle
                 }</p>
 <p><img src="${
-                  site.siteMetadata.siteUrl +
-                  edge.node?.frontmatter?.image?.childImageSharp?.fluid?.src
+                  site.siteMetadata.siteUrl + edge.node?.frontmatter?.image
                 }" alt="${edge.node?.frontmatter?.title}" /><p>
 <p style="font-size: 1.25em;  color: #f0ecee">${
                   edge.node.frontmatter?.excerpt ||
@@ -99,13 +98,7 @@ ${
           date
           languageLink
           remoteThumbnailImage
-          image {
-            childImageSharp {
-              fluid(maxWidth: 400, quality: 70) {
-                src
-              }
-            }
-          }
+          image
         }
       }
     }
@@ -156,32 +149,10 @@ ${
       },
     },
     {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/static/img`,
-        name: 'uploads',
-      },
-    },
-    {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: ['.mdx', '.md'],
-        gatsbyRemarkPlugins: [
-          { resolve: 'gatsby-remark-numbered-footnotes' },
-          // {
-          //   resolve: `gatsby-remark-relative-images`,
-          //   options: {
-          //     exclude: ['ogImage'],
-          //   },
-          // },
-        ],
-      },
-    },
-    'gatsby-plugin-sharp',
-    {
-      resolve: 'gatsby-transformer-sharp',
-      options: {
-        checkSupportedExtensions: false,
+        gatsbyRemarkPlugins: [{ resolve: 'gatsby-remark-numbered-footnotes' }],
       },
     },
     `gatsby-plugin-emotion`,

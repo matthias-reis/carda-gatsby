@@ -1,5 +1,5 @@
 ---
-date: 2021-05-31T19:08:42.000+02:00
+date: 2021-05-31T17:08:42.000Z
 labels:
   - Magnus Josefsson
   - Anette Halbe Stunde
@@ -35,18 +35,23 @@ language: de
 slug: magnus-josefsson-anette-halbe-stunde
 typeName: Interview
 title: '"Anette Halbe Stunde"'
-subTitle: '(Sound-)Architekt Magnus Josefsson im Interview'
+subTitle: (Sound-)Architekt Magnus Josefsson im Interview
 seoTitle: Anette Halbe Stunde – (Sound-)Architekt Magnus Josefsson im Interview
-ogTitle: ''
-description: '"Anette Halbe Stunde" heißt das neue Tape von Magnus Josefsson. Ich habe den (Sound-)Architekten im Interview näher kennengelernt.'
-excerpt: English & German – "Anette Halbe Stunde" heißt das neue Tape von Magnus Josefsson auf Anette Records. Als ich ihn fragte, über welche Themen er sich am liebsten unterhalten würde, sprach er das Bullerbü-Syndrom an. Ich war natürlich nicht nur neugierig, zu erfahren, wie der schwedische (Sound-)Architekt zu Astrid Lindgren steht.
-image: '/img/magnus-josefsson-anette-halbe-stunde.jpg'
+ogTitle: ""
+description: '"Anette Halbe Stunde" heißt das neue Tape von Magnus Josefsson.
+  Ich habe den (Sound-)Architekten im Interview näher kennengelernt.'
+excerpt: English & German – "Anette Halbe Stunde" heißt das neue Tape von Magnus
+  Josefsson auf Anette Records. Als ich ihn fragte, über welche Themen er sich
+  am liebsten unterhalten würde, sprach er das Bullerbü-Syndrom an. Ich war
+  natürlich nicht nur neugierig, zu erfahren, wie der schwedische
+  (Sound-)Architekt zu Astrid Lindgren steht.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-anette-halbe-stunde-jpg-imagine-181818_7a7066_1024_768/640.webp
 copyright: Magnus Josefsson
-ogImage: '/img/magnus-josefsson-anette-halbe-stunde-1.jpg'
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-anette-halbe-stunde-1-jpg-imagine-181818_94908c_1200_628/640.webp
 focusKeyword: Anette Halbe Stunde
 advertisement: false
 affiliate: false
-languageLink: '/2021/05/magnus-josefsson-anette-halbe-stunde-en'
+languageLink: /2021/05/magnus-josefsson-anette-halbe-stunde-en
 ---
 
 **"Anette Halbe Stunde" heißt das neue Tape von Magnus Josefsson auf Anette Records. Als ich ihn fragte, über welche Themen er sich am liebsten unterhalten würde, sprach er das Bullerbü-Syndrom an. Ich war natürlich nicht nur neugierig, zu erfahren, wie er zu Astrid Lindgren steht. Ich wollte natürlich auch mehr über den vegan lebenden (Sound)-Architekten aus Schweden erfahren, der schon mal eine Zeitlang in Weimar gelebt hat.**
@@ -59,7 +64,7 @@ languageLink: '/2021/05/magnus-josefsson-anette-halbe-stunde-en'
 
 ## "Vegan zu leben, ist eine bewusste Entscheidung"
 
-!["Anette Halbe Stunde". Bild/Picture: © Anette Records](/img/anette-halbe-stunde-2.jpeg '"Anette Halbe Stunde". Bild/Picture: © Anette Records')
+!["Anette Halbe Stunde". Bild/Picture: © Anette Records](https://storage.googleapis.com/cardamonchai-media/2021-11-20/anette-halbe-stunde-2-jpeg-imagine-d8d8d8_b4b4b4_700_700/640.webp '"Anette Halbe Stunde". Bild/Picture: © Anette Records')
 
 **Magnus:** Nein, ich glaube nicht. Zumindest nicht auf einem physischen Level. Aber vielleicht auf einem metaphysischen.
 
@@ -79,7 +84,7 @@ Das Letzte, was ich will, ist eine Identität. Sie schließt einen von vielen an
 
 ## "Weimar ist eine fantastische Stadt"
 
-![Magnus Josefsson. Bild/Picture: © Magnus Josefsson](/img/9804-3.jpeg 'Magnus Josefsson. Bild/Picture: © Magnus Josefsson')
+![Magnus Josefsson. Bild/Picture: © Magnus Josefsson](https://storage.googleapis.com/cardamonchai-media/2021-11-20/9804-3-jpeg-imagine-282838_806a59_1080_1080/640.webp 'Magnus Josefsson. Bild/Picture: © Magnus Josefsson')
 
 **Magnus:** Nein, ich glaube nicht, dass ich das tun würde. Ich sehe es nicht als politisches Manifest. Ich denke, dass man sich selbst und seine Musik herabsetzt, wenn man solche Themen mit seiner Arbeit verfolgt. Für mich wäre das nichts – obwohl andere Bands das im Laufe der Jahre mit viel Erfolg und Glaubwürdigkeit betrieben haben – The Smiths zum Beispiel.
 
@@ -107,7 +112,7 @@ Für Musiker⋆innen bieten beide Länder Inspiration. Hier oben haben wir die t
 
 ## "Ich genieße die kulturelle Vielfalt in Europa sehr"
 
-![Magnus Josefsson. Bild/Picture: © Magnus Josefsson](/img/9804-2.jpeg 'Magnus Josefsson. Bild/Picture: © Magnus Josefsson')Thüringen ist der am schwächsten besiedelte Teil Deutschlands, Småland eines der am schwächsten besiedelten Gebiete Schwedens. Der Unterschied ist, dass man hier ungefähr 70 Kilometer fahren muss, wenn man in eine Kneipe gehen möchte. In Thüringen ist die nächste Bar nie weiter als 700 Meter entfernt!
+![Magnus Josefsson. Bild/Picture: © Magnus Josefsson](https://storage.googleapis.com/cardamonchai-media/2021-11-20/9804-2-jpeg-imagine-180838_74676d_1080_1080/640.webp 'Magnus Josefsson. Bild/Picture: © Magnus Josefsson')Thüringen ist der am schwächsten besiedelte Teil Deutschlands, Småland eines der am schwächsten besiedelten Gebiete Schwedens. Der Unterschied ist, dass man hier ungefähr 70 Kilometer fahren muss, wenn man in eine Kneipe gehen möchte. In Thüringen ist die nächste Bar nie weiter als 700 Meter entfernt!
 
 **Anne:** Sorry, dass ich so unhöflich war und Dich nicht zuerst nach Deiner Musik gefragt habe. Ich war einfach so neugierig über Deine Erfahrungen als Veganer und die Sache mit Schweden und Weimar. Du hast gerade Dein Mixtape "Anette Halbe Stunde" mit Johannes Rögners (Frittenbude) Label Anette Records aufgenommen. Es ist eine 30-minütige Aufnahme mit großartiger experimenteller Musik. Gratulation dazu! Bist Du mit Johannes befreundet?
 
@@ -125,7 +130,7 @@ Ich denke es war die Natur hier oben in Småland und die alte Fabrik, in der ich
 
 ## "Ich habe mit Künstler⋆innen in ganz Europa zusammengearbeitet"
 
-**!["Anette Halbe Stunde". Bild/Picture: © Anette Records](/img/anette-halbe-stunde.jpeg '"Anette Halbe Stunde". Bild/Picture: © Anette Records')Magnus:** Ich habe 90 bis 95 Prozent der Aufnahmen in der Fabrik in Fröseke aufgenommen. Der Rest ist in England, Dänemark und Göteborg entstanden. Sylvester hat noch ein paar Sachen in [Stockholm](/2018/09/zu-besuch-in-stockholm/) aufgenommen. Ich liebe es, auf diese Art zu arbeiten und werde dieses magische Werkzeug auch in Zukunft weiter verwenden!
+**!["Anette Halbe Stunde". Bild/Picture: © Anette Records](https://storage.googleapis.com/cardamonchai-media/2021-11-20/anette-halbe-stunde-jpeg-imagine-a8a8a8_958c7d_1440_1080/640.webp '"Anette Halbe Stunde". Bild/Picture: © Anette Records')Magnus:** Ich habe 90 bis 95 Prozent der Aufnahmen in der Fabrik in Fröseke aufgenommen. Der Rest ist in England, Dänemark und Göteborg entstanden. Sylvester hat noch ein paar Sachen in [Stockholm](/2018/09/zu-besuch-in-stockholm/) aufgenommen. Ich liebe es, auf diese Art zu arbeiten und werde dieses magische Werkzeug auch in Zukunft weiter verwenden!
 
 **Anne:** Das klingt nach einer Menge Spaß! Wer hat alles an dem Tape mitgearbeitet?
 
@@ -143,7 +148,7 @@ Ich denke es war die Natur hier oben in Småland und die alte Fabrik, in der ich
 
 ## "Es gibt in allen Genres gute Musik"
 
-**![Magnus Josefsson. Bild/Picture: © Magnus Josefsson](/img/9804-4.jpeg 'Magnus Josefsson. Bild/Picture: © Magnus Josefsson')Anne:** Die Musik, die Du mit Künstler⋆innen verschiedener Genres aufgenommen hast, ist ziemlich unterschiedlich. Gibt es so etwas wie ein Genre, dem Du Dich zugehörig fühlst? Oder findest Du auch, dass alles vom perfekten Moment und der Stimmung abhängt?
+**![Magnus Josefsson. Bild/Picture: © Magnus Josefsson](https://storage.googleapis.com/cardamonchai-media/2021-11-20/9804-4-jpeg-imagine-382828_847867_1080_1080/640.webp 'Magnus Josefsson. Bild/Picture: © Magnus Josefsson')Anne:** Die Musik, die Du mit Künstler⋆innen verschiedener Genres aufgenommen hast, ist ziemlich unterschiedlich. Gibt es so etwas wie ein Genre, dem Du Dich zugehörig fühlst? Oder findest Du auch, dass alles vom perfekten Moment und der Stimmung abhängt?
 
 **Magnus:** Ich finde, alle Genres haben gute Musik zu bieten. Nur Metal langweilt mich sofort! Ich denke, Musik ist ein Reich der Gefühle, und wenn man mit diesem Gefühl im Einklang ist, ist man auf dem richtigen Weg. Ich liebe träumerische Klänge – riesige, große und dunkle Träume.
 

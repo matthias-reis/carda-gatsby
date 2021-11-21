@@ -1,7 +1,5 @@
-import React, { PureComponent } from 'react';
+import React from 'react';
 import styled from '@emotion/styled';
-import { Link } from 'gatsby';
-import UnstyledImage from 'gatsby-image';
 import moment from 'moment';
 import 'moment/locale/de';
 

@@ -9,9 +9,9 @@ description: Die Multi-Instrumentalistin Melody alias Queen of the Static Opera
   habe ich vor einiger Zeit über die sozialen Netzwerke kennengelernt und bin
   seitdem ein begeisterter Fan. Jetzt haben wir uns zum Interview verabredet und
   sie hat mir einen Einblick in ihre Kunst und ihr Leben gewährt.
-image: /img/queen-of-the-static-opera.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-jpg-imagine-f8f8f8_868183_1024_768/640.webp
 copyrigt: Queen Of The Static Opera
-ogImage: /img/queen-of-the-static-opera-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-fb-jpg-imagine-080808_7a7575_1200_628/640.webp
 labels:
   - Queen Of The Static Opera
   - Industrial
@@ -38,6 +38,7 @@ affiliate: false
 language: de
 languageLink: /2021/08/queen-of-the-static-opera-interview-en/
 ---
+
 **Die Multi-Instrumentalistin Melody alias Queen of the Static Opera habe ich vor einiger Zeit über die sozialen Netzwerke kennengelernt und bin seitdem ein begeisterter Fan. Jetzt haben wir uns zum Interview verabredet und sie hat mir einen Einblick in ihre Kunst und ihr Leben gewährt.**
 
 ---
@@ -56,7 +57,7 @@ Melodys Projekt ist mehr als nur vielseitig. Sie verwendet Elemente aus Industri
 
 **Anne:** Wow! Das ist wirklich eine ganze Menge! Du hast mir erzählt, dass Du in einer Familie aus Entertainern aufgewachsen bist. Dein Vater war ein Mentor von Prince, und Du hast Produzieren, Tanzen, Schreiben, Singen, Keyboard und Gitarre spielen gelernt, während Du Deine ersten Schritte gemacht hast. Wie war es, Deine Kindheit in einem so produktiven Umfeld zu verbringen? Ich kann mir das ja gleichzeitig ziemlich kreativ und manchmal auch stressig vorstellen.
 
-![Melody aka Queen Of The Static Opera](/img/queen-of-the-static-opera-1-.jpg "Melody aka Queen Of The Static Opera")
+![Melody aka Queen Of The Static Opera](https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-1-jpg-imagine-887878_ac877c_1024_768/640.webp "Melody aka Queen Of The Static Opera")
 
 **Melody:** Ich denke, ich bin mit einem angeborenen Interesse an Auftritten aufgewachsen, daher war es für mich nicht anstrengend. Ich wollte an Talentshows teilnehmen. Ich wollte Gitarre und Klavier lernen, singen und tanzen. Als ich vier Jahre alt war, wollte ich unbedingt einen Grammy. Ich wollte alles können, weil ich mit einer Bewunderung für geniale Künstler aufgewachsen bin, und mein Vater in gewisser Weise ein Genie war. Ich wusste einfach, dass ich Künstlerin werden wollte, und ich wusste, dass ich alles lernen musste, damit niemals jemand mein Talent anzweifeln würde. Mein Vater hat mir viel über Bühnenpräsenz und Individualität beigebracht. 
 
@@ -84,7 +85,7 @@ Ich glaube nicht, dass man schreiben sollte, wenn man nicht inspiriert ist. Man 
 
 **Melody:** Nun, die Streaming-Plattformen haben den größten Teil der Welt ja schon beherrscht. Technologie hat schon immer die Art und Weise beeinflusst, wie Menschen Musik machen. Ich habe schon vor der Pandemie mit anderen Bands zusammengearbeitet, also war das alles nicht neu, aber einige Bands lieben es eben Old School. Sie wollen sich persönlich treffen und gemeinsam in einem Raum jammen. Ich kann das auch verstehen und ich respektiere es auch. Ich sehe den Wert darin. Es kann natürlich auch ein Teil der Substanz verloren gehen, wenn wir die Dinge auf die Hightech-Tour regeln. Das Gleichgewicht zwischen Technologie und menschlicher Kunst – das ist es, worum es geht! In gewisser Weise hat die Pandemie auch das Spielfeld für Social-Media-Künstler⋆innen und Bar-Band-Touren-Typen geebnet.
 
-![Melody aka Queen Of The Static Opera](/img/queen-of-the-static-opera-2-.jpg "Melody aka Queen Of The Static Opera")
+![Melody aka Queen Of The Static Opera](https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-2-jpg-imagine-989898_a89ca1_1024_768/640.webp "Melody aka Queen Of The Static Opera")
 
 **Anne:** Auf Deiner Platte beschäftigst Du Dich mit dem Leben als Frau in der Unterhaltungsindustrie. In Deinen Songs geht es um Themen wie Missbrauch, Sucht und Deine Kämpfe im Leben. Ich glaube, damit hast Du den Nagel ziemlich auf den Kopf getroffen. Woran liegt es, dass Frauen mit einer starken Sichtweise nach wie vor so wenig akzeptiert werden?
 
@@ -110,7 +111,7 @@ Menschen mit ignoranten Ansichten sind in meinen Augen in ihrer Entwicklung einf
 
 **Melody:** Ich hatte den Namen Queen Of The Static Opera und viele Ideen, als ich Disraeli begegnet bin. Er hat mich mehr unterstützt und meine Ideen genährt, während ich an meinen frühen Demos wie "Bruises On My Neck" saß. Mein Vater war ein Billboard-Künstler, also hatte ich eine starke Idee und Identität als Künstler, als ich Disraeli traf und wir zusammen Musik gemacht haben. Es hat super viel Spaß gemacht, also haben wir weiter gemacht. Manchmal produziere ich auch alleine. Ich habe schon immer meine eigenen Instrumente gespielt, also war das sowieso der nächste Schritt für mich.
 
-![Melody aka Queen Of The Static Opera](/img/queen-of-the-static-opera-3-.jpg "Melody aka Queen Of The Static Opera")
+![Melody aka Queen Of The Static Opera](https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-3-jpg-imagine-a89888_a38f8b_1024_768/640.webp "Melody aka Queen Of The Static Opera")
 
 **Anne:** Deine Videos und Bilder sind immer sehr stylisch. Das Spiel mit der Mode in ihren Extremen scheint Dein Ding zu sein. Machst Du das alles selbst? Und wer filmt das Material?
 

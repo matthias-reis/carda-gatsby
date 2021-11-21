@@ -9,9 +9,9 @@ description: Arvensis is an experimental ambient project on the Merigold
   Independent label. It's avant-garde sounding tones seem to come from a foreign
   world. Because the project fascinates me so much, I arranged an interview with
   founder Dani Laubscher.
-image: /img/2020_11_arvensis__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-11-arvensis-l-jpeg-imagine-180808_380a0a_1440_1080/640.webp
 copyrigt: Dani Laubscher
-ogImage: /img/2020_11_arvensis-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-11-arvensis-fb-png-l-jpg-imagine-080808_320b0a_1440_754/640.webp
 labels:
   - Ambient
   - Atlanta
@@ -34,6 +34,7 @@ affiliate: false
 language: en
 languageLink: /2020/11/arvensis-interview
 ---
+
 **Arvensis is an experimental ambient project on the Merigold Independent label. Its avant-garde sounding tones seem to come from a foreign world. Because the project fascinates me so much, I arranged an interview with founder Dani Laubscher.**
 
 Dani founded Arvensis in 2011 and has been recording records since 2013. Their discography now includes 14 albums. The 14th is called "AXIS" and was released just a few days ago.

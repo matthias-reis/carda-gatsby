@@ -9,9 +9,9 @@ description: Vegane und nachhaltige Schönheitsprodukte sind im Trend. Immer meh
   Menschen besinnen sich darauf, nicht nur bei ihrer Ernährung und Bekleidung
   auf Nachhaltigkeit zu achten und Tierleid-freie Produkte zu kaufen, sondern
   auch bei Kosmetik.
-image: /img/douglas-clean-beauty.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/douglas-clean-beauty-jpg-imagine-e8c8b8_967263_1024_768/640.webp
 copyrigt: Douglas/Clean Beauty
-ogImage: /img/douglas-clean-beauty-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/douglas-clean-beauty-fb-jpg-imagine-e8c8a8_ac8a79_1200_628/640.webp
 labels:
   - Nachhaltige Schönheit
   - Vegan Beauty
@@ -23,6 +23,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
+
 **Vegane und nachhaltige Schönheitsprodukte sind im Trend. Immer mehr Menschen besinnen sich darauf, nicht nur bei ihrer Ernährung und Bekleidung auf Nachhaltigkeit zu achten und Tierleid-freie Produkte zu kaufen, sondern auch bei Kosmetik.**
 
 Dabei sind es längst nicht mehr nur die kleinen Start-ups, die wissen, wie nachhaltige und vegane Schönheit funktioniert. Auch die ganz Großen springen nach und nach auf und mischen mit.
@@ -37,7 +38,7 @@ Das Gute daran ist: Auch Menschen, die früher nicht darauf geachtet haben, ob e
 
 ## Wir beschäftigen uns heute mehr damit, was in unserer Kosmetik steckt
 
-![Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas/Clean Beauty](/img/douglas-clean-beauty-1-.jpg "Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas/Clean Beauty")
+![Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas/Clean Beauty](https://storage.googleapis.com/cardamonchai-media/2021-11-20/douglas-clean-beauty-1-jpg-imagine-f8f8f8_9d7b6f_1024_768/640.webp "Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas/Clean Beauty")
 
 Denn mal ganz ehrlich: Wer möchte schon, dass ein Tier dafür leidet, dass ich eine Bodylotion oder eine Mascara verwenden kann? Niemand. Viele Menschen hatten die Problematik jedoch lange Jahre nicht auf dem Schirm. Wenn man sich nicht damit beschäftigt, kommt man natürlich auch erstmal nicht auf die Idee, die Dinge zu hinterfragen. Wenn man allerdings durch Hinweise wie "Cruelty Free", "Nicht an Tieren getestet" oder "Reine Naturkosmetik" angesprochen wird, ist die Wahrscheinlichkeit groß, dass man sich weiter informiert und in Zukunft mehr darauf achtet, was man in seinen Warenkorb packt.
 

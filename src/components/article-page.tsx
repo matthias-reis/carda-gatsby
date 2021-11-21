@@ -20,6 +20,7 @@ import { PageMeta } from './page-meta';
 import { HR } from './hr';
 
 import iconUrl from '../assets/signature-icon.jpg';
+import { ImageForArticle } from './image-for-article';
 
 const ArticleContainer = Container.withComponent('article');
 
@@ -117,7 +118,7 @@ export const ArticlePage: React.FC<ArticleProps> = ({
         </MetaArea>
         <ImageContainer>
           {meta.frontmatter.image && (
-            <Image fluid={meta.frontmatter.image.childImageSharp.fluid} />
+            <ImageForArticle src={meta.frontmatter.image} />
           )}
           {meta.frontmatter.remoteImage && (
             <CardaImage

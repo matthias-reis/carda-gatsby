@@ -10,9 +10,9 @@ description: Do you know Heavybird? Evan Glenn Adams is the man behind this
   musician from Woodstock, New York masters numerous instruments – in a virtuoso
   manner. He also works as a sound engineer and is involved in various music
   projects.
-image: /img/2020_10_heavybird-evan-glenn-adams-1__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-10-heavybird-evan-glenn-adams-1-l-jpeg-imagine-283848_786257_1440_1080/640.webp
 copyrigt: Heavybird
-ogImage: /img/2020_10_heavybird-evan-glenn-adams-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-10-heavybird-evan-glenn-adams-fb-png-l-jpg-imagine-283848_6d5a50_1440_754/640.webp
 labels:
   - Ambient
   - Bands
@@ -46,6 +46,7 @@ affiliate: false
 language: en
 languageLink: /2020/10/heavybird-interview
 ---
+
 **Do you know Heavybird? Evan Glenn Adams is the man behind this name.  He is the picture book example of a multi-instrumentalist. The creative musician from Woodstock, New York masters numerous instruments – in a virtuoso manner. He also works as a sound engineer and is involved in various music projects.**
 
 Heavybird is Evan's latest solo project. He is currently putting his heart and soul into his second Heavybird album, which he plans to release in spring 2021. I had the great honour to be one of the first to hear the songs that will be on the record. Afterwards, I arranged an interview with the artist.
