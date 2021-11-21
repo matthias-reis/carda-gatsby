@@ -13,9 +13,9 @@ excerpt: Kollapse are back. Four years after their debut album "Angst", the
   record, "Sult", this Friday. Because I had the honour to listen to the album
   already, I'll try to summarise my impressions a bit here for you. Maybe this
   article will develop into a music tip at one point. But let's see.
-image: /img/kollapse.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-jpg-imagine-f8f8f8_7c7c7c_1024_768/640.webp
 copyrigt: Kollapse
-ogImage: /img/kollapse-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-fb-jpg-imagine-686868_686462_1200_628/640.webp
 labels:
   - Danmark
   - Post-Metal
@@ -35,13 +35,14 @@ affiliate: false
 language: en
 languageLink: /2021/06/kollapse-sult
 ---
+
 **Kollapse are back. Four years after their debut album "Angst", the sludge/post-metal group from Aalborg, Danmark will release their second record, "Sult", this Friday.**
 
 Because I had the honour to listen to the album already, I'll try to summarise my impressions a bit here for you. Maybe this article will develop into a music tip at one point. But let's see.
 
 ## Kollapse is now a trio
 
-![Kollapse – "Sult" Artwork: Gina Skowz](/img/kollapse-1-.jpg "Kollapse – \\"Sult\\" Artwork: Gina Skowz")
+![Kollapse – "Sult" Artwork: Gina Skowz](https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-1-jpg-imagine-b88868_8a695b_1080_1080/640.webp "Kollapse – \\"Sult\\" Artwork: Gina Skowz")
 
 "Sult" will be released on Fysisk Format in collaboration with Maniyax Records, Dingleberry Records and Virkelighedsfjern.
 
@@ -67,7 +68,7 @@ The second song, "Knæler", seems almost more powerful than its predecessor and 
 
 ## An aggressive dance
 
-![Kollapse](/img/kollapse-2-.jpg "Kollapse")
+![Kollapse](https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-2-jpg-imagine-080808_56575b_1024_768/640.webp "Kollapse")
 
 "Libido" pulls the listeners into a swirling maelstrom – the drumming is wonderfully precise, beautiful tempo changes transform the song into an aggressive dance.
 

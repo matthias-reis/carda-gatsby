@@ -1,38 +1,38 @@
 ---
 templateKey: article
-date: 2021-04-20T08:12:27.696+00:00
+date: 2021-04-20T08:12:27.696Z
 slug: speak-memory-interview
 typeName: Interview
 title: Speak, Memory
 subTitle: Gitarrist Tim über die EP "Adirondack"
 seoTitle: Speak, Memory – Gitarrist Tim über die EP "Adirondack"
-description: Speak, Memory haben ihre neue EP "Adirondack" fertig. Sie erscheint am
-  7. Mai. Gitarrist Tim hat mir im Interview spannende Details verraten.
-excerpt: Speak, Memory haben ihre neue EP "Adirondack" fertig. Sie erscheint am 7.
-  Mai. Gitarrist Tim hat mir im Interview einige spannende Details verraten. Außerdem
-  habe ich eine Hörprobe für Euch!
-image: "/img/speak-memory-3-.jpg"
-ogImage: "/img/speak-memory-fb.png"
+description: Speak, Memory haben ihre neue EP "Adirondack" fertig. Sie erscheint
+  am 7. Mai. Gitarrist Tim hat mir im Interview spannende Details verraten.
+excerpt: Speak, Memory haben ihre neue EP "Adirondack" fertig. Sie erscheint am
+  7. Mai. Gitarrist Tim hat mir im Interview einige spannende Details verraten.
+  Außerdem habe ich eine Hörprobe für Euch!
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/speak-memory-3-jpg-imagine-483828_565045_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/speak-memory-fb-png-imagine-483828_4e463a_1200_628/640.webp
 labels:
-- Adirondack
-- Bands
-- Bartees Strange Bartees Strange
-- Emo
-- Math-Rock
-- Mathcore
-- Post-Rock
-- Speak Memory
-- English & German
-- Interview
-- Interviews
-- English & German
+  - Adirondack
+  - Bands
+  - Bartees Strange Bartees Strange
+  - Emo
+  - Math-Rock
+  - Mathcore
+  - Post-Rock
+  - Speak Memory
+  - English & German
+  - Interview
+  - Interviews
+  - English & German
 focusKeyword: Speak Memory
 advertisement: false
 affiliate: false
 language: de
-languageLink: "/2021/04/speak-memory-interview-en"
-
+languageLink: /2021/04/speak-memory-interview-en
 ---
+
 **Speak, Memory beschreiben sich als "irgendwo zwischen dem grenzenlosem Word Building der frühen Explosions in the Sky und den mathematischen Spielereien von American Football" – wenn das nicht neugierig macht. In Kürze erscheint die neue EP der Band aus Oklahoma City. Zeit für ein Interview.**
 
 Mit ihren Songs möchten Speak, Memory ihre Hörer⋆innen auf eine Reise schicken, die ebenso spirituell wie fest in der Realität verankert ist. Ich habe mich mit Gitarrist Tim über die neue EP "Adirondack" und die Entwicklung der Band unterhalten. Das Interview hat sich zu einem äußerst sympathischen und spannenden Gespräch entwickelt, das wir sicher irgendwann fortsetzen werden.
@@ -49,7 +49,7 @@ Mit ihren Songs möchten Speak, Memory ihre Hörer⋆innen auf eine Reise schick
 
 ## "Wir sind sehr zufrieden mit unserer neuen EP"
 
-![Speak, Memory – "Adirondack"](/img/speak-memory-adirondack.jpeg 'Speak, Memory')
+![Speak, Memory – "Adirondack"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/speak-memory-adirondack-jpeg-imagine-080818_776e7a_350_350/640.webp 'Speak, Memory')
 
 **Anne:** Seid Ihr zufrieden mit dem Ergebnis Eurer Arbeit?
 
@@ -71,7 +71,7 @@ Mit ihren Songs möchten Speak, Memory ihre Hörer⋆innen auf eine Reise schick
 
 ## Das Emo Revival der späten 2000er Jahre hat uns inspiriert
 
-![Speak, Memory](/img/speak-memory-1-.jpg 'Speak, Memory')
+![Speak, Memory](https://storage.googleapis.com/cardamonchai-media/2021-11-20/speak-memory-1-jpg-imagine-282828_2e2e2e_1024_768/640.webp 'Speak, Memory')
 
 **Anne:** Du hast mir erzählt, dass Ihr Euch mehr mit Midwest Emo und Math-Rock Sound identifizieren könnt. Außerdem seit Ihr ein hauptsächlich instrumentales Projekt. Ich hatte ja schon die Möglichkeit, Eure neue EP zu hören und ich denke, dass Euch das ziemlich gut zu Gesicht steht. Ist das die Art von Musik, die Ihr immer machen wolltet? Ich meine: Verbindet es alle Einflüsse und musikalischen Präferenzen der Bandmitglieder?
 
@@ -89,7 +89,7 @@ Bei "Adirondack" kamen neben dem Midwest Emo Sound noch andere Einflüsse durch,
 
 ## "'New Year's Project' von Further Seems Forever erinnert mich immer an 2001"
 
-![Speak, Memory](/img/speak-memory-5-.jpg 'Speak, Memory')
+![Speak, Memory](https://storage.googleapis.com/cardamonchai-media/2021-11-20/speak-memory-5-jpg-imagine-e8e8e8_909197_1024_768/640.webp 'Speak, Memory')
 
 **Tim:** Immer, wenn ich mir New Year's Project von Further Seems Forever anhöre, erinnere ich mich an den Sommer des Jahres 2001. Das war zu der Zeit, als "The Moon Is Down" (von dem Album stammt auch der Song) rauskam. Es war eine großartige Zeit. Ich habe neue Leute kennengelernt, bin in verschiedene Teile des Landes gereist und habe mich von traumatischen Erlebnissen erholt.
 

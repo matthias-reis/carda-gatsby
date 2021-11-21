@@ -15,9 +15,9 @@ excerpt: Vor ein paar Tagen haben ich hier das grandiose Album "Keep The Orange
   Gelegenheit mich mit dem kalifornischen Duo awakened souls über die Platte zu
   unterhalten. Cynthia und James haben mir auch gleich noch verraten, was für
   eine großartige Überraschung uns nächstes Jahr bevorsteht.
-image: /img/awakened-souls.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-jpg-imagine-f8f8f8_686b6d_1024_768/640.webp
 copyrigt: awakened souls
-ogImage: /img/awakened-souls-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-fb-png-imagine-f8f8f8_646766_1200_628/640.webp
 labels:
   - Ambient
   - Post-Rock
@@ -37,6 +37,7 @@ affiliate: false
 language: de
 languageLink: /2021/10/awakened-souls-en/
 ---
+
 **Vor ein paar Tagen haben ich hier das grandiose Album "Keep The Orange Sun" von awakened souls und From Overseas vorgestellt. Jetzt hatte ich die Gelegenheit mich mit dem kalifornischen Duo awakened souls über die Platte zu unterhalten. Cynthia und James haben mir auch gleich noch verraten, was für eine großartige Überraschung uns nächstes Jahr bevorsteht.**
 
 **Anne:** Hi! Danke, dass Ihr Euch die Zeit nehmt! Wie geht es Euch heute? Ihr habt gerade Euer neues Album ["Keep The Orange Sun"](/2021/09/keep-the-orange-sun/) zusammen mit From Overseas aka Kévin Séry veröffentlicht. Wie ist das Feedback bis jetzt?
@@ -53,7 +54,7 @@ languageLink: /2021/10/awakened-souls-en/
 
 ## "Wir haben sehr unterschiedliche musikalische Hintergründe"
 
-![James, Cynthia und Kévin](/img/awakened-souls-from-overseas.png "James, Cynthia und Kévin")
+![James, Cynthia und Kévin](https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-from-overseas-png-imagine-082818_6c6f5e_1024_768/640.webp "James, Cynthia und Kévin")
 
 **Cynthia und James:** Wir haben alle drei völlig unterschiedliche musikalische Hintergründe. Es war also klar, dass diese Kooperation etwas ganz eigenes werden würde. Wir wollten mehr als nur Ambient machen. Das hat dazu geführt, dass wir IDM, Shoegaze und neoklassische Elemente mit eingebracht haben, die in unserer Musik vorher nicht vorgekommen sind. Neue Ausdrucksformen sind plötzlich und völlig natürlich aufgetaucht und wir waren bereit, uns darauf einzulassen.
 

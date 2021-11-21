@@ -1,5 +1,5 @@
 ---
-date: 2021-05-18T19:34:42+02:00
+date: 2021-05-18T17:34:42.000Z
 labels:
   - Forks Over Knives
   - Gabel statt Skalpell
@@ -15,15 +15,19 @@ typeName: Filmtipp
 title: Forks Over Knives
 subTitle: Mehr als nur ein Lieblingsfilm
 seoTitle: '"Forks Over Knives" – mehr als nur ein Lieblingsfilm – Ernährungs-Doku'
-ogTitle: ''
-description: '"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr mich nach meinen Lieblings-Dokus rund ums Thema Veganismus fragen würdet.'
-excerpt: '"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr mich nach meinen Lieblings-Dokus rund ums Thema Veganismus fragen würdet. Der Film gehört zu den wenigen, die ich mir immer wieder ansehe und das nicht ohne Grund.'
-image: '/img/forks-over-knives.jpg'
-ogImage: '/img/forks-over-knives-fb.jpg'
+ogTitle: ""
+description: '"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn
+  Ihr mich nach meinen Lieblings-Dokus rund ums Thema Veganismus fragen würdet.'
+excerpt: '"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr
+  mich nach meinen Lieblings-Dokus rund ums Thema Veganismus fragen würdet. Der
+  Film gehört zu den wenigen, die ich mir immer wieder ansehe und das nicht ohne
+  Grund.'
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/forks-over-knives-jpg-imagine-f8f8f8_d7d3c9_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/forks-over-knives-fb-jpg-imagine-f8f8f8_e3e0d9_1200_628/640.webp
 focusKeyword: Forks Over Knives
 advertisement: false
 affiliate: false
-languageLink: ''
+languageLink: ""
 ---
 
 **"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr mich nach [meinen Lieblings-Dokus](/tag/buecher-und-filme/) rund ums Thema Veganismus fragen würdet. Der Film gehört zu den wenigen, die ich mir immer wieder ansehe und das nicht ohne Grund.**

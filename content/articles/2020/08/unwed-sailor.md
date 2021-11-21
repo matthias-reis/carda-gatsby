@@ -5,10 +5,12 @@ typeName: Interview
 title: Unwed Sailor
 subTitle: '"For The Quiet Times And The Loud Times"'
 seoTitle: Interview With Unwed Sailor – "For The Quiet Times And The Loud Times"
-description: It's interview time again! Recently I met Unwed Sailor founder Jonathon Ford online. Today I would like to share our exciting conversation with you guys.
-image: /img/2020_08_unwed-sailor-1__l.jpeg
+description: It's interview time again! Recently I met Unwed Sailor founder
+  Jonathon Ford online. Today I would like to share our exciting conversation
+  with you guys.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-08-unwed-sailor-1-l-jpeg-imagine-081818_3b6661_1440_1080/640.webp
 copyrigt: Unwed Sailor
-ogImage: /img/2020_08_unwed-sailor-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-08-unwed-sailor-fb-png-l-jpg-imagine-081818_3b645f_1440_754/640.webp
 labels:
   - Ambient
   - Bands

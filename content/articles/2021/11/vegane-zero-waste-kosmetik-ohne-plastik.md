@@ -12,8 +12,8 @@ excerpt: Heute nehme ich mir mal die Zeit dafür, Euch ein Beauty-Label zu
   zeigen, das mich mit seinen veganen Zero Waste Kosmetik Produkten ziemlich
   überzeugt hat. Die Rede ist von puremetics – beim Start-up aus Isernhagen
   kommt grundsätzlich alles ohne Plastik aus. Klingt gut, oder?
-image: /img/2021-10-26-produkttest-128-puremetics.jpg
-ogImage: /img/puremetics-fb.png
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-128-puremetics-jpg-imagine-b85858_937265_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/puremetics-fb-png-imagine-b85858_aa7060_1200_628/640.webp
 labels:
   - puremetics
   - vegan beauty
@@ -32,6 +32,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
+
 **Heute nehme ich mir mal die Zeit dafür, Euch ein Beauty-Label zu zeigen, das mich mit seinen veganen Zero Waste Kosmetik Produkten ziemlich überzeugt hat. Die Rede ist von puremetics – beim Start-up aus Isernhagen kommt grundsätzlich alles ohne Plastik aus. Klingt gut, oder?**
 
 Meine derzeitigen Lieblingsprodukte von puremetics sind: das Dusch-Fluff, der Deo-Stick, das Shampoo-Pulver, die Gesichtspflege-Seife, die Duschseife und natürlich das Seifen-Säckchen. Wie das funktioniert, erzähle ich Euch gleich. Doch erstmal möchte ich Euch meine Beauty Lieblinge einzeln vorstellen.

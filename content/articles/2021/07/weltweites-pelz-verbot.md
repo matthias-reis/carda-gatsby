@@ -9,9 +9,9 @@ description: Die Nachhaltigkeits-Designerin Stella McCartney setzt sich schon
   lange für ein weltweites Pelz-Verbot ein. Jetzt haben sich ihr weitere Stars
   angeschlossen. Mit dabei sind neben vielen anderen Dame Judi Dench, Sir Paul
   McCartney, Natalie Emmanuel und Leona Lewis.
-image: /img/pelzverbot-stella-mccartney.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/pelzverbot-stella-mccartney-jpg-imagine-a8a848_aa9b5b_1024_768/640.webp
 copyrigt: Stella McCartney
-ogImage: /img/pelzverbot-stella-mccartney-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/pelzverbot-stella-mccartney-fb-jpg-imagine-a8a848_aa9c59_1200_628/640.webp
 labels:
   - Tierrechte
   - Pelz-Verbot
@@ -24,6 +24,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Die Nachhaltigkeits-Designerin Stella McCartney setzt sich schon lange für ein weltweites Pelz-Verbot ein. Jetzt haben sich ihr weitere Stars angeschlossen. Mit dabei sind neben vielen anderen Dame Judi Dench, Sir Paul McCartney, Natalie Emmanuel und Leona Lewis.**
 
 Bei der Aktion handelt es sich um eine Zusammenarbeit mit Humane Society International (HSI). Obwohl Stella McCartney mit ihrer Mode den Luxus-Sektor bedient, hat sie auf Pelz von Anfang an verzichtet. 

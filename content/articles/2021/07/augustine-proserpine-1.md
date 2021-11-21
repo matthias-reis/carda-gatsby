@@ -9,9 +9,9 @@ description: Augustine, aka Sara Baggini, already released her new album in
   April. Although it's been some days since then, I didn't want to miss writing
   a review on "Proserpine". Her second long-player has a lot going for it and is
   definitely worth to be mentioned on this blog. I highly recommend it to you.
-image: /img/augustine-1.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-1-jpg-imagine-080808_2d2322_1024_768/640.webp
 copyrigt: Sara Baggini
-ogImage: /img/augustine-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-fb-jpg-imagine-080808_261d1d_1200_628/640.webp
 labels:
   - Augustine
   - Sara Baggini
@@ -33,11 +33,12 @@ affiliate: false
 language: en
 languageLink: /2021/07/augustine-proserpine
 ---
+
 **Augustine, aka Sara Baggini, already released her new album in April. Although it's been some days since then, I didn't want to miss writing a review on "Proserpine". Her second long-player has a lot going for it and is definitely worth to be mentioned on this blog.**
 
 What generally goes under the labels "dream pop" and "singer-songwriter" comes in many shapes – This applies to the quality and style of the music we use to put into these boxes.
 
-![Picture: Sara Baggini](/img/augustine-sara-baggini.jpg "Augustine – "Proserpine"*. Picture: Sara Baggini")
+![Picture: Sara Baggini](https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-sara-baggini-jpg-imagine-282818_7d7c72_767_767/640.webp "Augustine – "Proserpine"*. Picture: Sara Baggini")
 
 Augustine's music is quite unique – she herself is an exceptional talent and so much more than a classic singer-songwriter. The passionate musician and singer released her second album after her acclaimed debut "Grief and Desire" from 2018 via I Dischi del Minollo.
 
@@ -63,7 +64,7 @@ Her introspective journey is a symbolic plunge into the underworld. The rebirth 
 
 The mysticism of her story reflects in every song line. Being kidnapped by Pluto, sentenced to spend six months in Hades for tasting a pomegranate seed, loved by Adonis and then reborn in spring.
 
-![Picture: Sara Baggini | large](/img/augustine-2.jpg "Picture: Sara Baggini")
+![Picture: Sara Baggini | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-2-jpg-imagine-080808_1f1719_1024_768/640.webp "Picture: Sara Baggini")
 
 Augustine expresses the highs and lows of the heroine's journey with the help of light and sunny parts and dark, eerie sequences. The interplay between beauty and restlessness, tranquillity and disruption are perfectly balanced. The changes between both worlds always happen at the right moment.
 
@@ -75,7 +76,7 @@ With density and gloom, she moves away from Dream Pop towards Dark Folk. Her har
 
 Sara Baggini has been composing since her childhood. At age 19, she went to the Academy of Fine Arts in Perugia, where she mainly studied visual arts and graduated in painting.
 
-![Picture: Sara Baggini | large](/img/augustine-3.jpg "Picture: Sara Baggini")
+![Picture: Sara Baggini | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-3-jpg-imagine-080808_2a2121_1024_768/640.webp "Picture: Sara Baggini")
  
 The artist adopted her pseudonym Agustine after her recordings with One Thin Line (2010) and various collaborations with electronic projects. It comes from Georges Didi-Huberman's essay "Invention of Hysteria".
 

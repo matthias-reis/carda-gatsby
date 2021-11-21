@@ -13,9 +13,9 @@ excerpt: Dass Shy, Low ihr neues Album "Snake Behind The Sun" veröffentlicht
   gut an. Jetzt hatte ich die Gelegenheit, mich mit der Band, die in einem
   Atemzug mit Giganten wie Cult Of Luna und Russian Circles genannt wird, zu
   unterhalten.
-image: /img/shy-low-interview.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-interview-jpg-imagine-181818_000000_1024_768/640.webp
 copyrigt: Shy, Low
-ogImage: /img/shy-low-interview-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-interview-fb-png-imagine-181818_232324_1200_628/640.webp
 labels:
   - Shy Low
   - Pelagic
@@ -38,6 +38,7 @@ affiliate: false
 language: de
 languageLink: /2021/10/shy-low-interview-en/
 ---
+
 **Dass Shy, Low ihr neues Album "Snake Behind The Sun" veröffentlicht haben, wisst Ihr schon. Mein Feature dazu vor ein paar Tagen kam ganz schön gut an. Jetzt hatte ich die Gelegenheit, mich mit der Band, die in einem Atemzug mit Giganten wie Cult Of Luna und Russian Circles genannt wird, zu unterhalten.**
 
 Wir haben über die Aufnahmen ihrer Platte in den Vudu Studios, die Zusammenarbeit mit Pelagic Records und Mike Watts und die Geschichte der in Richmond, Virginia gegründeten Post-Rock Band geredet. Und über Gemüse.
@@ -46,7 +47,7 @@ Wir haben über die Aufnahmen ihrer Platte in den Vudu Studios, die Zusammenarbe
 
 ## "'Snake Behind The Sun' kommt gut an"
 
-![Shy, Low – Post-Rock Interview](/img/4.jpg)
+![Shy, Low – Post-Rock Interview](https://storage.googleapis.com/cardamonchai-media/2021-11-20/4-jpg-imagine-181818_000000_768_1024/640.webp)
 
 **Gregg:** Hey Anne! Mir geht es soweit gut, danke der Nachfrage! Das Feedback, das wir für "Snake Behind the Sun" bekommen haben, ist überaus positiv. Wir haben so viele positive Kommentare zum gesamten Mix der Platte und die Song-Strukturen bekommen. Klanglich ist es tatsächlich um einiges kraftvoller, als unsere Vorgängeralben. Während ich zwar denke, dass einige das von uns erwartet haben, denke ich auch, dass ein großer Teil unserer Hörer⋆innen ein viel "milderes" Album  erwartet hat. Für viele scheint es also eine nette Überraschung gewesen zu sein.
 
@@ -64,7 +65,7 @@ Wir haben über die Aufnahmen ihrer Platte in den Vudu Studios, die Zusammenarbe
 
 ## "Wir haben drei Wochen durchgearbeitet"
 
-![Shy, Low – Post-Rock Interview](/img/3.jpg)
+![Shy, Low – Post-Rock Interview](https://storage.googleapis.com/cardamonchai-media/2021-11-20/3-jpg-imagine-181818_000000_768_1024/640.webp)
 
 **Gregg:** Wir haben drei komplette Wochen mit 10- bis 15-Stunden-Tagen in den Vudu Studios verbracht. Früher haben wir meistens Wochenend-Sessions gemacht und erst die Drums, dann den Bass, die nächste Woche dann die Gitarren und wieder eine Woche später die Extras aufgenommen. Der für uns neue Prozess hat es uns erlaubt, präsent zu bleiben und uns auf die klanglichen Elemente aller Songs zu fokussieren. Außerdem hat Mike Watts im Studio sehr viel Zeit mit uns verbracht. Er hat viel angehört und uns Feedback aus der Produzenten-Sicht gegeben. Bei einigen Songs hat er uns dabei geholfen, Überschüssiges loszuwerden. Bei unseren anderen Platten hatten wir diese Möglichkeiten nicht. Früher waren es zu 98 Prozent unsere eigenen Einwände und die der Toningenieure, die zu Änderungen geführt haben.
 
@@ -84,7 +85,7 @@ Wir haben über die Aufnahmen ihrer Platte in den Vudu Studios, die Zusammenarbe
 
 ## "Unsere Musik hält einen Ort für uns bereit, an dem wir unseren Frust loswerden können"
 
-![Shy, Low – Post-Rock Interview](/img/2.jpg)
+![Shy, Low – Post-Rock Interview](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2-jpg-imagine-181818_000000_768_1024/640.webp)
 
 **Gregg:** Ich denke, das trifft für uns alle ziemlich genau zu. Mir persönlich fällt es schwer, alles unter einen Hut zu bringen, aber irgendwie klappt es doch. Wir arbeiten alle Vollzeit, manchmal zu merkwürdigen Zeiten, und dann sind wir alle in Beziehungen, und ich habe erst vor ein paar Wochen geheiratet. Neben der Wohnungssuche bauen meine Frau und ich langsam einen Schulbus um, um eines Tages darin zu leben und zu reisen. Außerdem helfe ich ihr, ihr Traumunternehmen auf die Beine zu stellen. Ich denke, das beantwortet die Frage nach der Energie und dem Fortschritt in unserem Leben. 
 
@@ -110,7 +111,7 @@ Wir haben über die Aufnahmen ihrer Platte in den Vudu Studios, die Zusammenarbe
 
 ## "Wir sind stolz, Teil von Pelagic zu sein"
 
-![Shy, Low – Post-Rock Interview](/img/1.jpg)
+![Shy, Low – Post-Rock Interview](https://storage.googleapis.com/cardamonchai-media/2021-11-20/1-jpg-imagine-181818_000000_768_1024/640.webp)
 
 **Gregg:** Der Artist-Roster von Pelagic Records ist einfach ein Traum für mich. Einige der inspirierendsten Bands waren oder sind Teil dieses Labels, daher war es unglaublich, die Chance zu bekommen, eine Platte dort zu veröffentlichen. Paul und [Robin](/2020/09/the-ocean-robin-staps-interview/) haben uns sehr mit der PR geholfen. Wir sind wirklich dankbar, mit ihnen arbeiten zu dürfen.
 

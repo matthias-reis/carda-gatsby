@@ -10,9 +10,9 @@ description: Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen
   steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung gemacht?
   Ich habe mal ein paar Fakten für Euch zusammengetragen.
 excerpt: ""
-image: /img/seidenraupen-zucht.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/seidenraupen-zucht-jpg-imagine-b8b8b8_8a8a88_1024_768/640.webp
 copyrigt: LoggaWiggler, pixabay
-ogImage: /img/seidenraupen-zucht-fb.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/seidenraupen-zucht-fb-jpg-imagine-b8b8b8_91908d_1200_628/640.webp
 labels:
   - Seide
   - Seidenspinner
@@ -34,6 +34,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen gewonnen und der Prozess ist alles andere als tierfreundlich. Doch was genau steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung gemacht? Ich habe mal ein paar Fakten für Euch zusammengetragen.**
 
 Laut Online-Enzyklopädie versteht man unter Seide einen Faserstoff tierischer Herkunft. Der Name Seide stammt vom mittellateinischen Wort "seta". Der Stoff wird aus den Kokons von Seidenraupen, also Seidenspinner-Larven gewonnen. Seide gilt als die einzige bekannte, in der Natur vorkommende textile Endlos-Faser. Daher ist sie seit Generationen besonders in der hochklassigen Mode sehr beliebt. Im Moment erlebt der feine Stoff, der auch immer wieder Basis für Geschichten ist, ein ziemliches Revival – besonders auch unter Freund⋆innen nachhaltiger Kleidung. Genau aus diesem Grund halte ich es für besonders wichtig, mal ein paar Punkte festzuhalten.
@@ -58,7 +59,7 @@ Wenn die Seidenraupen ein Alter von 35 Tagen erreicht haben, beginnen sie, ihre 
 
 In der Natur würden die Raupen nach 16 Tagen aus ihren Kokons ausschlüpfen und ihr Leben als Motten (Seidenspinner) weiterführen. Doch auf den Seidenfarmen kommt es nicht so weit.
 
-![Seidenraupen im Kochtopf. Bild: Glady, pixabay](/img/seidenraupen-kochtopf.jpg "Seidenraupen im Kochtopf. Bild: Glady, pixabay")
+![Seidenraupen im Kochtopf. Bild: Glady, pixabay](https://storage.googleapis.com/cardamonchai-media/2021-11-20/seidenraupen-kochtopf-jpg-imagine-a89878_998b6d_1024_768/640.webp "Seidenraupen im Kochtopf. Bild: Glady, pixabay")
 
 Die verpuppten Seidenspinner werden in kochendes Wasser geschüttet und gekocht. Bei diesem Vorgang platzen die Puppen auf und aus jeder von ihnen wird ein langer Seidenfaden, der im Anschluss zu Stoff gesponnen wird.
 

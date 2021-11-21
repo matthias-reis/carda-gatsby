@@ -10,9 +10,9 @@ description: Mono veröffentlichen am 17. September ihr neues Album "Pilgrimage
   Of The Soul". Die Platte ist ein echter Meilenstein dieses Musikjahres. Ihr
   solltet sie also auf keinen Fall verpassen. Ich finde bei jedem Hördurchgang
   neue Details. Ein paar davon möchte ich Euch verraten.
-image: /img/mono-pilgrimage-of-the-soul.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/mono-pilgrimage-of-the-soul-jpg-imagine-080808_4c4e4b_1024_768/640.webp
 copyrigt: Mono Japan
-ogImage: /img/mono-pilgrimage-of-the-soul-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/mono-pilgrimage-of-the-soul-fb-png-imagine-080808_3b3d3c_1200_628/640.webp
 labels:
   - Mono
   - Mono Japan
@@ -32,6 +32,7 @@ affiliate: false
 language: de
 languageLink: /2021/09/mono-pilgrimage-of-the-soul-en/
 ---
+
 **Mono veröffentlichen am 17. September ihr neues Album "Pilgrimage Of The Soul". Die Platte ist ein echter Meilenstein dieses Musikjahres. Ihr solltet sie also auf keinen Fall verpassen.**
 
 Im Moment geht es ja mit den Veröffentlichungen Schlag auf Schlag. Ich komme gerade wirklich kaum noch hinterher mit dem Hören und natürlich auch mit dem Weiterempfehlen.
@@ -48,7 +49,7 @@ In der [August-Ausgabe der Musikliste](/2021/08/playlist-september-2021/) habe i
 
 Insgesamt ist "Pilgrimage Of The Soul" noch stürmischer, als der Vorgänger "Nowhere Now Here" von 2019. Das zeigt sich nicht nur im höheren Tempo der Songs, sondern auch durch Einflüsse aus der Techno-/Electronic-Ecke – da fällt mir ein: Wusstet Ihr eigentlich, dass mein letztes Rock-Konzert, bevor es mit der Krise losging, ein Mono Konzert war, bei dem sie eben diese Songs zum Besten gaben? Ich werde den Abend sicher nie vergessen. Hätte ich damals geahnt, was uns bevorsteht, hätte ich ihn sicher noch mehr genossen. Ob das möglich gewesen wäre? Wer weiß.
 
-![Mono – "Pilgrimage Of The Soul"](/img/mono1623674343248199.jpg "Mono – \"Pilgrimage Of The Soul\"")
+![Mono – "Pilgrimage Of The Soul"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/mono1623674343248199-jpg-imagine-384848_72797c_440_440/640.webp "Mono – \"Pilgrimage Of The Soul\"")
 
 "Pilgrimage Of The Soul"  lebt wie alles von Mono von seinen Höhen und Tiefen. Neben viel Schatten gibt es auch jede Menge Licht. Harmonien, Disharmonien und wohlige Phasen der Ruhe machen das Werk zu einer spannenden Achterbahnfahrt der Gefühle, die man so schnell nicht wieder verlassen möchte.
 

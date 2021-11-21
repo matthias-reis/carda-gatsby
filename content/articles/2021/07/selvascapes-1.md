@@ -9,8 +9,8 @@ description: Perry Frank recorded his new album "Selvascapes" in collaboration
   with the Danish ambient producer and sound artist Henrik Laugesen aka Lauge.
   They released the CD on July, 24th. It is a real insider tip for fans of
   dreamlike soundscapes.
-image: /img/selvascapes-perry-frank-lauge.jpg
-ogImage: /img/selvascapes-perry-frank-lauge-fb.png
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/selvascapes-perry-frank-lauge-jpg-imagine-080808_48463a_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/selvascapes-perry-frank-lauge-fb-png-imagine-080808_504f45_1200_628/640.webp
 labels:
   - Francesco Perra
   - Perry Frank
@@ -30,11 +30,12 @@ affiliate: false
 language: en
 languageLink: /2021/07/perry-frank-lauge-selvascapes/
 ---
+
 **Perry Frank recorded his new album "Selvascapes" in collaboration with the Danish ambient producer Lauge. They relased the CD on July 24th. It is a great insider tip for fans of dreamlike soundscapes, drone sound and beautiful ambient music.**
 
 The self-taught composer Henrik Laugesen aka Lauge, already released eleven albums (among others with Collapsed Texctures) and is part of various collaborations such as Lauge & Baba Gnohm and Sullen Sky. 
 
-![Perry Frank & Lauge – "Selvascapes"](/img/selvascapes-artwork-stores.jpg "Perry Frank & Lauge – \\\"Selvascapes\\\"")
+![Perry Frank & Lauge – "Selvascapes"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/selvascapes-artwork-stores-jpg-imagine-f8f8f8_a39f9c_1440_1440/640.webp "Perry Frank & Lauge – \\\"Selvascapes\\\"")
 
 You may also know him from his sound design project Luftrum, which I'm sure I've mentioned here before. You can also find him on platforms like Spotify under the name Ambient Soundscapes. He is still exploring his bandwidth. It ranges from beat-less textures and drone sounds to neoclassical ambient and psychedelic downtempo pieces.
 
@@ -56,7 +57,7 @@ In 2020, Henrik and Francesco started recording music together remotely. They se
 
 they say on Francesco's website. All the pieces on the record connect to the forest; this reflects in the titles and, of course, the music. The songs are about vastness, enormity, enclosure, open space and nature. While listening to it, I wander through the landscapes that Francesco and Henrik looked at when composing it.
 
-![Francesco Perra aka Perry Frank](/img/perry-frank.jpg "Francesco Perra aka Perry Frank")
+![Francesco Perra aka Perry Frank](https://storage.googleapis.com/cardamonchai-media/2021-11-20/perry-frank-jpg-imagine-282818_3c4a2e_1024_768/640.webp "Francesco Perra aka Perry Frank")
 
 ## "Selvacapes" tells of nature
 
@@ -72,7 +73,7 @@ The title is a combination of the Latin word "Selva" (forest) and "Soundscape". 
 
 > "We mean it in an ecological sense, of course. A forest is a place of life responsible for the survival of most living creatures on earth, including Homo Sapiens. But it has also played a role for us in an abstract way. It is a kind of mental state for us. It stands for the confusion of modern humans – that is, after all, partly the Dantean meaning of the term."
 
-![Henrik Laugesen aka Lauge](/img/lauge.jpg "Henrik Laugesen aka Lauge")
+![Henrik Laugesen aka Lauge](https://storage.googleapis.com/cardamonchai-media/2021-11-20/lauge-jpg-imagine-181818_5d5753_1024_768/640.webp "Henrik Laugesen aka Lauge")
 
 ## Music and nature
 

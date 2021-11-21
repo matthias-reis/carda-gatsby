@@ -12,9 +12,9 @@ excerpt: For a relaxed weekend, I have three quick music tips for you today –
   Klonosphere Records dropped me a line and send them over. They come from
   Closet Disco Queen, Maudits and SaaR. All three bands have recently released
   new records.
-image: /img/musik-wochenende.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/musik-wochenende-jpg-imagine-080808_625b52_1024_768/640.webp
 copyrigt: Closet Disco Queen, SaaR, Maudits
-ogImage: /img/musik-wochenende-fb-1-.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/musik-wochenende-fb-1-png-imagine-080808_5c5750_1200_628/640.webp
 labels:
   - Closet Disco Queen
   - SaaR
@@ -36,13 +36,14 @@ affiliate: false
 language: en
 languageLink: /2021/11/closet-disco-queen-maudits-saar/
 ---
+
 **For a relaxed weekend, I have three quick music tips for you today – Klonosphere Records dropped me a line and send them over. They come from Closet Disco Queen, Maudits and SaaR. All three bands have recently released new records.**
 
 ## SaaR – "Gods"
 
 SaaR formed in Paris in 2010. The post-metal collective sees its influences in bands like Bossk, Russian Circle, Cult of Luna and Isis. The band's music is a mixture of post-rock and heavy post-metal with beautiful ethereal moments here and there.
 
-![SaaR - "Gods" – Album Cover (Skyscraper with clouds in black and white)](/img/saar.jpeg "SaaR – \\"Gods\\"")
+![SaaR - "Gods" – Album Cover (Skyscraper with clouds in black and white)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/saar-jpeg-imagine-383838_6d6d6d_425_425/640.webp "SaaR – \\"Gods\\"")
 
 Their style is both: intense and varied. The new LP now follows their first two albums and an EP and split LP series. "God"  is a concept album based on the epic poems of Homer. The band takes up mythological themes from the epic story of Ulysses, which Homer describes in his Odyssey.
 
@@ -56,13 +57,13 @@ SaaR are: Alexandre Le Mouroux (guitars), Boris Patchinsky (bass), Julien Taubre
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1943744856/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://saar.bandcamp.com/album/gods-2">GODS by SaaR</a></iframe>
 
-![SaaR (The Band sitting in the studio in front of their instruments) | large](/img/saar.jpg "SaaR")
+![SaaR (The Band sitting in the studio in front of their instruments) | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/saar-jpg-imagine-b8b898_8f8876_1024_768/640.webp "SaaR")
 
 ## Maudits – "Angel Mort"
 
 The second record I recommend to you today comes from Maudits. The also Paris based sound collective released "Angel Mort" directly after their critically acclaimed debut album "Maudis" on November 5th.
 
-![Maudits – "Angel Mort" album cover (Pencil drawing of a hand grapping a flower in the high grass)](/img/maudits.jpeg "Maudits – \\"Angel Mort\\"")
+![Maudits – "Angel Mort" album cover (Pencil drawing of a hand grapping a flower in the high grass)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/maudits-jpeg-imagine-e8e8e8_979797_425_419/640.webp "Maudits – \\"Angel Mort\\"")
 
 COVID-19 and three defeats the band had to accept bought Maudits some time to work on new pieces. So the artists managed to distract themselves as best they could in times of social distancing – and this distraction sounds good! "Angel Mort" is definitely a worthy successor to "Maudits".
 
@@ -76,13 +77,13 @@ The new confined album underlines the band members' quest for freedom and their 
 
 <YouTube id="0T4ojBcJqVU" />
 
-![Maudits (Two humans hiding their eyes behind their hands) | large](/img/maudits.jpg "Maudits")
+![Maudits (Two humans hiding their eyes behind their hands) | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/maudits-jpg-imagine-080808_331f0c_1024_768/640.webp "Maudits")
 
 ## Closet Disco Queen - "Stadium Rock For Punk Bums"
 
 The vinyl press hasn't completely cooled down from ["Omelette du Fromage"](/2021/08/closet-disco-queen-the-flying-raclettes-omelette-du-fromage/) yet, and there comes a new record from Closet Disco Queen.
 
-![Closet Disco Queen - "Stadium Rock For Punk Bums" album cover (black and white abstract coming drawing of a face)](/img/closet-disco-queen.jpeg "Closet Disco Queen - \\"Stadium Rock For Punk Bums\\"")
+![Closet Disco Queen - "Stadium Rock For Punk Bums" album cover (black and white abstract coming drawing of a face)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/closet-disco-queen-jpeg-imagine-f8f8f8_c9c6c2_425_425/640.webp "Closet Disco Queen - \\"Stadium Rock For Punk Bums\\"")
 
 The band's founders Luc Hess and Jona Nido are anything but blank slates in the Swiss music scene. They get around quite a bit through their band Coilguns and as backing musicians for singer/songwriter Loui Jucker. Jona Nido is also the founder of the La Chaux-de-Fonds-based record label Hummus Records, home to Emilie Zoé, Rorcal, Ester Poly, Coilguns, Stéphane Blok, Rorcal and Dirty Sound Magnet, among others. Closet Disco Queen also released their complete discography there.
 
@@ -98,4 +99,4 @@ And the music? The music is outstanding! It is exciting, extremely creative, exp
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158460481/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://closetdiscoqueen.bandcamp.com/album/stadium-rock-for-punk-bums">Stadium Rock for Punk Bums by Closet Disco Queen</a></iframe>
 
-![Closet Disco Queen standing in their rehearsal room | large](/img/closet-disco.jpg "Closet Disco Queen")
+![Closet Disco Queen standing in their rehearsal room | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/closet-disco-jpg-imagine-080808_000000_1024_768/640.webp "Closet Disco Queen")

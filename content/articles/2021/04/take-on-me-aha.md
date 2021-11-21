@@ -1,23 +1,26 @@
 ---
 templateKey: article
-date: 2021-04-25T16:00:00.000+00:00
+date: 2021-04-25T16:00:00.000Z
 slug: take-on-me-aha
 typeName: Beitrag
 title: Musikalisches Blind Date
 subTitle: a-ha – "Take On Me"
 seoTitle: a-ha – "Take On Me" – Das musikalische Blogger Blind Date
-description: Heute findet das inzwischen achte musikalische Blogger Blind Date statt. Natürlich wollte ich es mir nicht entgehen lassen, auch dieses Mal wieder teilzunehmen. Die Musikwahl fiel dieses Mal auf den Song "Take On Me" von a-ha.
-image: '/img/design-ohne-titel.jpg'
-ogImage: '/img/take-on-me-fb.png'
+description: Heute findet das inzwischen achte musikalische Blogger Blind Date
+  statt. Natürlich wollte ich es mir nicht entgehen lassen, auch dieses Mal
+  wieder teilzunehmen. Die Musikwahl fiel dieses Mal auf den Song "Take On Me"
+  von a-ha.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/design-ohne-titel-jpg-imagine-382818_775935_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/take-on-me-fb-png-imagine-080808_736046_1200_628/640.webp
 labels:
   - Bands
-  - 'serie: Musikalisches Blind Date'
+  - "serie: Musikalisches Blind Date"
   - a-ha
   - Blogger Blind Date
   - Take On Me
   - Song
   - Kindheit
-  - '1982'
+  - "1982"
 focusKeyword: Take On Me
 advertisement: false
 affiliate: false
@@ -42,7 +45,7 @@ a-ha stammen aus Norwegen. Ich stelle mir vor, dass Morten Harket (Gesang), Pål
 
 ## Eine spannende und behütete Kindheit in Norwegen
 
-![aha – "Take On Me"](/img/aha-take-on-e.jpeg 'aha – "Take On Me"')
+![aha – "Take On Me"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/aha-take-on-e-jpeg-imagine-080808_776650_600_600/640.webp 'aha – "Take On Me"')
 
 Im Winter waren die drei sicher ganz oft beim Rodeln und haben vielleicht sogar Höhlen und Tunnel im Tiefschnee gegraben. Als sie etwas älter waren, haben sie ganz bestimmt jedes Jahr eine Schneebar gebaut. Vielleicht haben sie Schneehasen beobachtet. Zu Hause haben sie sicher mit ihren Eltern Waffeln gebacken und sich vor dem warmen Ofen gegenseitig Geschichten vorgelesen. Und Papiersterne für den Weihnachtsbaum ausgeschnitten.
 

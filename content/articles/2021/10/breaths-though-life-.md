@@ -14,9 +14,9 @@ excerpt: Das neue Breaths Album "Though Life" kündigt sich an und so langsam
   Projekt aus Richmond, Virginia hat die Platte für Anfang nächsten Jahres
   angekündigt. "Though Life" könnte ein Anwärter für Eure Platte des Jahres 2022
   sein.
-image: /img/breaths.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-jpg-imagine-080808_587863_1024_768/640.webp
 copyrigt: Breaths
-ogImage: /img/breaths-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-fb-png-imagine-080808_364333_1200_628/640.webp
 labels:
   - Breaths
   - Though Life
@@ -36,6 +36,7 @@ affiliate: false
 language: de
 languageLink: /2021/10/breaths-though-life-en/
 ---
+
 **Das neue Breaths Album "Though Life" kündigt sich an und so langsam wird es auch Zeit, dass ich es hier mal vorstelle. Das vegane Post-Music Projekt aus Richmond, Virginia hat die Platte für Anfang nächsten Jahres angekündigt.**
 
 - - -
@@ -50,7 +51,7 @@ Im [Interview](/2021/02/breaths-interview/) verriet er mir, dass düstere Post-M
 
 ## Jason aka Breaths stellt sich vor
 
-![Breaths – "Though Life"](/img/breaths-though-life...-cover-art.png "Breaths – \\\"Though Life\\\"")
+![Breaths – "Though Life"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-though-life-cover-art-png-imagine-080808_0a1111_3600_3600/640.webp "Breaths – \\\"Though Life\\\"")
 
 Mit seiner Musik bringt Jason Roberts aka Breaths genau das zum Ausdruck. Seine Vorbilder Cattle Decapitation und Earth Crisis, die ihm in den 1990ern bereits zeigten, dass der Veganismus starke Wurzeln in der extremen Musik besitzt, hört man seinen Songs genauso an, wie die vielfältigen Welten von Bands wie [The Ocean](/2020/09/the-ocean-robin-staps-interview/), [Deftones](/tag/deftones), Sleep Token und Holy Fawn.
 

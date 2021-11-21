@@ -8,9 +8,9 @@ seoTitle: Interview With Ausklang – "Good Music Takes Time To Ripen"
 description: I recently got to know the Berlin post-rock band Ausklang through
   From Overseas founder and Past Inside The Present label manager Kévin Séry. I
   liked their music so much that I invited them for an interview.
-image: /img/2020_08_ausklang-4__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-08-ausklang-4-l-jpeg-imagine-180808_614b38_1440_1080/640.webp
 copyrigt: Ausklang
-ogImage: /img/2020_09_ausklang-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-09-ausklang-fb-png-l-jpg-imagine-080808_3e3731_1440_754/640.webp
 labels:
   - Ambient
   - Ausklang
@@ -31,6 +31,7 @@ affiliate: false
 language: en
 languageLink: /2020/09/ausklang-interview
 ---
+
 **I recently got to know the Berlin post-rock band Ausklang through From Overseas founder and Past Inside The Present label manager Kévin Séry. I liked their music so much that I invited them for an interview.**
 
 Ausklang - what sounds like the perfect end to a fulfilling day in German is an upcoming music project consisting of Fabian (guitar, synth), Benjamin (drums, tape loops) and Simon (bass/synth/piano).

@@ -1,5 +1,5 @@
 ---
-date: 2021-05-17T16:53:42+02:00
+date: 2021-05-17T14:53:42.000Z
 labels:
   - vegane Rezepte
   - Pizza Rezept
@@ -14,16 +14,19 @@ typeName: Rezept
 title: Vegane Salami-Pizza
 subTitle: Einfaches Rezept für ein Blech
 seoTitle: Vegane Salami-Pizza - einfaches Rezept für ein Blech
-ogTitle: ''
-description: Vegane Salami-Pizza geht nicht? Geht doch! Hier kommt der Beweis! Ich habe ein einfaches und schönes Einstiegsrezept für Euch aufgeschrieben.
-excerpt: Vegane Salami-Pizza geht nicht? Geht doch! Hier kommt der Beweis! Ich habe ein einfaches und schönes Einstiegsrezept für Euch aufgeschrieben. Die Zutaten könnt Ihr je nach Geschmack variieren.
-image: '/img/2021-05-17-pizza-75.jpg'
-ogImage: '/img/vegane-salami-pizza.jpg'
+ogTitle: ""
+description: Vegane Salami-Pizza geht nicht? Geht doch! Hier kommt der Beweis!
+  Ich habe ein einfaches und schönes Einstiegsrezept für Euch aufgeschrieben.
+excerpt: Vegane Salami-Pizza geht nicht? Geht doch! Hier kommt der Beweis! Ich
+  habe ein einfaches und schönes Einstiegsrezept für Euch aufgeschrieben. Die
+  Zutaten könnt Ihr je nach Geschmack variieren.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-05-17-pizza-75-jpg-imagine-b86808_bb8547_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/vegane-salami-pizza-jpg-imagine-b86808_bb7e38_1200_628/640.webp
 focusKeyword: vegane Salami-Pizza
 advertisement: true
 affiliate: true
 productsProvided: true
-languageLink: ''
+languageLink: ""
 ---
 
 **Vegane Salami-Pizza geht nicht? Geht doch! Hier kommt der Beweis! Ich habe ein einfaches und schönes Einstiegsrezept für Euch aufgeschrieben. Die Zutaten könnt Ihr je nach Geschmack variieren.**

@@ -14,9 +14,9 @@ excerpt: Vor einiger Zeit habe ich Euch den Hamburger Stadttauben e. V.
   Schicksal der Tauben in unseren Städten und wie wir ihnen helfen können. Ich
   habe mich jetzt mit Gründungsmitglied Andrea zu Interview verabredet und dabei
   einiges über die Tiere gelernt.
-image: /img/stadttauben.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/stadttauben-jpg-imagine-383838_8c8177_1024_768/640.webp
 copyrigt: Andrea privat
-ogImage: /img/stadttauben-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/stadttauben-fb-png-imagine-484848_9d9082_1200_628/640.webp
 labels:
   - Stadttauben
   - Tierrechte
@@ -33,6 +33,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Vor einiger Zeit habe ich Euch den Hamburger Stadttauben e. V. vorgestellt. Der Verein kümmert sich bei uns in Hamburger um das Wohlergehen der viel gehassten Stadttauben und betreibt Aufklärung über das traurige Schicksal der Tauben in unseren Städten und wie wir ihnen helfen können. Ich habe mich jetzt mit Gründungsmitglied Andrea zu Interview verabredet und dabei einiges über die Tiere gelernt.**
 
 Kurz vor der letzten Tauben-Mahnwache am Hamburger Bahnhof Altona kam ich mit Andrea ins Gespräch. Sie ist rund um die Uhr für die Hamburger Stadttauben da und sicher der Mensch mit dem größten Tauben-Wissen, dem ich jemals begegnet bin. Darum wollte ich von ihr unbedingt mehr über sie, ihre Arbeit und ihre geliebten Tauben erfahren.
@@ -49,7 +50,7 @@ Kurz vor der letzten Tauben-Mahnwache am Hamburger Bahnhof Altona kam ich mit An
 
 ## "Wir haben als Kinder keine Tauben aufgeschreckt"
 
-![Zwei Stadttauben sitzen auf einer Dachrinne.](/img/2021-04-03-voegel-nachbarn-10final.jpg "Zwei Stadttauben sitzen auf einer Dachrinne.")
+![Zwei Stadttauben sitzen auf einer Dachrinne.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-04-03-voegel-nachbarn-10final-jpg-imagine-686868_807e7f_4608_3456/640.webp "Zwei Stadttauben sitzen auf einer Dachrinne.")
 
 **Andrea:** Oh ja, ich bekam meine erste Stadttaube im Alter von zehn Jahren. Sie hieß Nelli und ich pflegte sie gesund – so gut ich das damals konnte. Die Liebe und Achtung zu Tieren ist meiner Meinung nach Erziehungssache. In meiner Familie wurde alles respektiert. So trat man keine Pilze im Wald um und hob Käfer von der Straße auf, um sie ins Gebüsch zu setzen. Wir sind als Kinder auch keinen Tauben hinterhergelaufen, um sie aufzuschrecken.
 
@@ -69,7 +70,7 @@ Natürlich gab und gibt es für diese Tiere keine adäquate Nahrung. Die Tauben 
 
 ## "Zuchttauben finden den Weg nach Hause nicht"
 
-![Stadttaube](/img/2021-03-28-taube-14.jpg "Nahaufnahme von einer Stadttaube.")
+![Stadttaube](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-28-taube-14-jpg-imagine-888888_8c898b_4608_3456/640.webp "Nahaufnahme von einer Stadttaube.")
 
 Die Brieftauben schließen sich als verirrte Hochleistungstiere der  Masse der Stadttauben an. Zuchttauben und Hochzeitstauben ergeht es ebenso. Zucht- und Hochzeitstauben verfügen über keinen ausgeprägten Orientierungssinn. Wenn sie einmal entflogen sind oder bei Hochzeiten als Friedenssymbol ausgesetzt wurden, finden meistens nie wieder in ihren Heimatschlag zurück.
 
@@ -89,7 +90,7 @@ Kaum ein⋆e Züchter⋆in interessiert sich dafür, wenn eine Brieftaube nicht 
 
 ## Der Brutzwang der Stadttauben ist angezüchtet
 
-![Eine Stadttaube sitzt auf einem Blumenkasten.](/img/2021-10-13-taube-8.jpg "Eine Stadttaube sitzt auf einem Blumenkasten.")
+![Eine Stadttaube sitzt auf einem Blumenkasten.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-13-taube-8-jpg-imagine-484808_767d56_4608_3456/640.webp "Eine Stadttaube sitzt auf einem Blumenkasten.")
 
 **Anne:** Was kann ich in der Großstadt tun, damit es den Tauben in meiner Umgebung besser geht? Leider ist das Füttern ja besonders an Wohnanlagen und Bürogebäuden oft strengstens untersagt. Gibt es trotzdem etwas, das ich für sie tun kann?
 
@@ -123,7 +124,7 @@ Wir haben aber selbstverständlich auch Pflegestellen, die kranke Tiere aufnehme
 
 ## "Wer Tauben gesundpflegen möchte, sollte sich von uns beraten lassen"
 
-![Zwei Stadttauben sitzen auf einem Baumstamm.](/img/2018-06-19-kopenhagen-radtour-inkl-tivoli-49jpg_42725166724_o.jpg "Zwei Stadttauben sitzen auf einem Baumstamm.")
+![Zwei Stadttauben sitzen auf einem Baumstamm.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2018-06-19-kopenhagen-radtour-inkl-tivoli-49jpg-42725166724-o-jpg-imagine-383828_606057_3031_2273/640.webp "Zwei Stadttauben sitzen auf einem Baumstamm.")
 
 **Anne:** Erzähl mir in diesem Zusammenhang doch bitte auch noch, warum davon abzuraten ist, einfach so eine Taube mit nach Hause zu nehmen und aufzupäppeln. Ich denke, das ist ein wichtiger Punkt!
 

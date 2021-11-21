@@ -1,5 +1,5 @@
 ---
-date: 2021-06-09T17:26:42+02:00
+date: 2021-06-09T15:26:42.000Z
 labels:
   - Dimwind
   - Bands
@@ -16,18 +16,21 @@ language: en
 slug: dimwind-interview-en
 typeName: Interview
 title: Dimwind Founder Jonas
-subTitle: '"We''ve Got To Take Care Of This Planet"'
+subTitle: "\"We've Got To Take Care Of This Planet\""
 seoTitle: Interview with Dimwind Founder Jonas – Swedish Post-Metal
-ogTitle: ''
-description: Dimwind recently released their great debut album "Slow Wave Violence". Because I was so enthusiastic about the record, I decided I needed to do an interview with founder Jonas. We talked about the album, climate change and the connection between heavy music and veganism.
-excerpt: ''
-image: '/img/dimwind.jpg'
+ogTitle: ""
+description: Dimwind recently released their great debut album "Slow Wave
+  Violence". Because I was so enthusiastic about the record, I decided I needed
+  to do an interview with founder Jonas. We talked about the album, climate
+  change and the connection between heavy music and veganism.
+excerpt: ""
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/dimwind-jpg-imagine-181818_686868_1024_768/640.webp
 copyright: Dimwind
-ogImage: '/img/dimwind-fb-1.jpg'
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/dimwind-fb-1-jpg-imagine-d8d8d8_bbbbbb_1200_628/640.webp
 focusKeyword: Dimwind
 advertisement: false
 affiliate: false
-languageLink: '/2021/06/dimwind-interview'
+languageLink: /2021/06/dimwind-interview
 ---
 
 **Dimwind recently released their great debut album "Slow Wave Violence". Because I was so enthusiastic about the record, I decided I needed to do an interview with founder Jonas. We talked about the album, climate change and the connection between heavy music and veganism.**
@@ -38,7 +41,7 @@ languageLink: '/2021/06/dimwind-interview'
 
 ## "It was a fulfilling challenge to write the album"
 
-![Jonas and Andreas aka Dimwind. Picture: Dimwind](/img/dimwind-2.jpg 'Jonas and Andreas aka Dimwind. Picture: Dimwind')
+![Jonas and Andreas aka Dimwind. Picture: Dimwind](https://storage.googleapis.com/cardamonchai-media/2021-11-20/dimwind-2-jpg-imagine-e8e8e8_bdbdbd_1024_768/640.webp 'Jonas and Andreas aka Dimwind. Picture: Dimwind')
 
 **Anne:** How long did it take you to record it? Did you do some of the work remotely due to the pandemic situation?
 
@@ -76,7 +79,7 @@ And heck yeah, we listen to a variety of music and genres. Even if we both grew 
 
 ## "Our writing process always starts with jamming"
 
-![Jonas and Andreas aka Dimwind. Picture: Dimwind](/img/dimwind-2.jpeg 'Jonas and Andreas aka Dimwind. Picture: Dimwind')
+![Jonas and Andreas aka Dimwind. Picture: Dimwind](https://storage.googleapis.com/cardamonchai-media/2021-11-20/dimwind-2-jpeg-imagine-080818_566b97_1440_954/640.webp 'Jonas and Andreas aka Dimwind. Picture: Dimwind')
 
 **Jonas:** Can't say that we are driven to write by negative feelings, but maybe we get an outlet through music. I think that is true for most musicians and artists alike. Regardless of the mood, we always start a writing process by just jamming and see what happens, and when suddenly there is a mutual smile going on, we know we're on the right track.
 

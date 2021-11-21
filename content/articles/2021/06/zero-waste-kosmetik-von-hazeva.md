@@ -1,15 +1,19 @@
 ---
-date: 2021-06-05T15:03:42+02:00
+date: 2021-06-05T13:03:42.000Z
 slug: zero-waste-kosmetik-von-hazeva
 typeName: Produkttest
 title: Zero Waste Kosmetik von Hazeva
 subTitle: Natürlich und ohne Plastik
 seoTitle: Zero Waste Kosmetik von Hazeva – Natürlich pflegen ohne Plastik
-ogTitle: ''
-description: Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero Waste Kosmetik an. Ich habe einige der Produkte getestet.
-excerpt: Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero Waste Kosmetik an. Ich habe einige der Produkte getestet und möchte sie Euch heute gerne vorstellen. Neben einem Körperöl und einem festen Conditioner habe ich auch die Zahnpflegeprodukte ausprobiert.
-image: /img/2021-06-04-hazeva-4final.jpg
-ogImage: /img/zero-waste-kosmetik-hazeva-fb.jpg
+ogTitle: ""
+description: Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero
+  Waste Kosmetik an. Ich habe einige der Produkte getestet.
+excerpt: Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero
+  Waste Kosmetik an. Ich habe einige der Produkte getestet und möchte sie Euch
+  heute gerne vorstellen. Neben einem Körperöl und einem festen Conditioner habe
+  ich auch die Zahnpflegeprodukte ausprobiert.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-06-04-hazeva-4final-jpg-imagine-f8f8f8_94bfc2_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zero-waste-kosmetik-hazeva-fb-jpg-imagine-f8f8f8_7dafb5_1200_628/640.webp
 labels:
   - Fair Fashion & Beauty
   - fester Conditioner
@@ -22,11 +26,11 @@ labels:
   - vegane Kosmetik
   - Zero Waste Kosmetik
 advertisement: true
-copyright: ''
+copyright: ""
 focusKeyword: Zero Waste Kosmetik
 affiliate: true
 language: de
-languageLink: ''
+languageLink: ""
 ---
 
 **Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero Waste Kosmetik an. Ich habe einige der Produkte getestet und möchte sie Euch heute gerne vorstellen. Neben einem Körperöl und einem festen Conditioner habe ich auch die Zahnpflegeprodukte ausprobiert.**

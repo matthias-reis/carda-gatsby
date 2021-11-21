@@ -1,39 +1,39 @@
 ---
 templateKey: article
-date: 2021-04-22T15:06:00.000+00:00
+date: 2021-04-22T15:06:00.000Z
 slug: underking-at-hells-gate-en
 typeName: Review
-title: '"At Hell''s Gate"'
+title: "\"At Hell's Gate\""
 subTitle: The New Underking Album
-seoTitle: '"At Hell''s Gate" – The New Underking Album'
-description: Underking serves fantasy und science-fiction inspired Metal sound. The
+seoTitle: "\"At Hell's Gate\" – The New Underking Album"
+description: Underking serves fantasy und science-fiction inspired Metal sound.
+  The new Album "At Hell's Gate" will be out tomorrow.
+excerpt: Underking serves fantasy und science-fiction inspired Metal sound. The
   new Album "At Hell's Gate" will be out tomorrow.
-excerpt: Underking serves fantasy und science-fiction inspired Metal sound. The new
-  Album "At Hell's Gate" will be out tomorrow.
-image: "/img/underking-2.jpeg"
-ogImage: "/img/underking-fb.png"
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/underking-2-jpeg-imagine-080808_392d2d_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/underking-fb-png-imagine-181818_433232_1200_628/640.webp
 labels:
-- Bands
-- English & German
-- Underking
-- Metal
-- Melodic Metal
-- NWOBHM
-- Review
-- Underking
+  - Bands
+  - English & German
+  - Underking
+  - Metal
+  - Melodic Metal
+  - NWOBHM
+  - Review
+  - Underking
 focusKeyword: Underking
 advertisement: false
 affiliate: false
 language: en
-languageLink: "/2021/04/underking-at-hells-gate"
+languageLink: /2021/04/underking-at-hells-gate
 copyright: frankiethephotographer
-
 ---
+
 **Underking is a fantasy and science fiction inspired metal project from Nottingham, UK. Emotionally charged, hard and melodic and yet not a bit overloaded.**
 
 The new Underking album "At Hell's Gate" will be released tomorrow. I've had the honour of listening to it for a few weeks now and would like to recommend it to all of you who are interested in metal.
 
-![Underking – "At Hell's Gate"](/img/underking-at-hells-gate.jpeg (Underking – "At Hell's Gate") "Underking – \"At Hell's Gate\"")
+![Underking – "At Hell's Gate"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/underking-at-hells-gate-jpeg-imagine-181818_463335_1080_1080/640.webp (Underking – "At Hell's Gate") "Underking – \"At Hell's Gate\"")
 
 You can hear the influences Foo Fighters, Judas Priest, Kvelertak, and Black Sabbath listed by Underking founder Maxwell Jeffries very well. Nevertheless, the world of Underking is a world all of its own. The music of the Brit feels a bit like a piece of new fresh Classic Metal. However, he does it without endless fiddling and overly floral elements - which suits the sound pretty well.
 
@@ -47,7 +47,7 @@ The colleagues that solo artist Max would need to realise such a project would u
 
 For Max, the project sums up all his interests under one name. With "Underking", he perfectly expresses his love for futuristic stuff and the past's metal bombast.
 
-![Underking](/img/underking-1.jpeg 'Underking' "Underking")
+![Underking](https://storage.googleapis.com/cardamonchai-media/2021-11-20/underking-1-jpeg-imagine-c8d8e8_787c7b_1024_768/640.webp 'Underking' "Underking")
 
 Following his debut album in double LP format, "Amongst The Dead" and "Ghosts Of The Past", released in early 2020, Max, aka Underking, released a trilogy of singles that are of particular significance to him personally. Each of them reflects specific musical interest of his - from hard rock balladry to energetic thrash metal to the New Wave of British Heavy Metal (NWOBHM).
 

@@ -10,8 +10,8 @@ description: Was passiert, wenn ein Monat sich dem Ende zuneigt? Genau, es gibt
   eine neue Musikliste! Hier sind wieder zehn beeindruckende Tracks für Euch. In
   der Playlist findet Ihr alles, was das Herz begehrt – von Mono bis Deafheaven
   und Post-Metal bis Shoegaze.
-image: /img/10-songs-1-.jpg
-ogImage: /img/10-songs-fb.png
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-songs-1-jpg-imagine-080808_606064_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-songs-fb-png-imagine-e8e8e8_787276_1200_628/640.webp
 labels:
   - Review
   - Reviews
@@ -46,6 +46,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Was passiert, wenn ein Monat sich dem Ende zuneigt? Genau, es gibt eine neue Musikliste! Mit Matze und Valentin habe ich wieder zehn beeindruckende Tracks für Euch vorbereitet. In der Playlist findet Ihr alles, was das Herz begehrt.**
 
 Natürlich gibt es die Liste auch praktisch und konsumierbar für Spotify und iTunes. Schaut dafür einfach unter den Videos am Ende des Artikels nach. Habt einen schönen August und genießt die Musik!

@@ -8,9 +8,9 @@ seoTitle: '"Another Second Chance" – The New Baulta Album'
 description: Baulta have released their new album "Another Second Chance". With
   this record, the Finns manage to express everything we have experienced in the
   last few months – in a highly musical way.
-image: /img/2021_03_baulta-another-second-chance__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-baulta-another-second-chance-l-jpeg-imagine-484838_665e55_1440_1080/640.webp
 copyrigt: Baulta
-ogImage: /img/2021_03_baulta-another-second-chance-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-baulta-another-second-chance-fb-png-l-jpg-imagine-483838_6d655c_1440_754/640.webp
 labels:
   - Atmosphärischer Post-Rock
   - Bands
@@ -25,6 +25,7 @@ affiliate: false
 language: en
 languageLink: /2021/03/another-second-chance
 ---
+
 **Baulta have released their new album "Another Second Chance". With this record, the Finns manage to express everything we have experienced in the last few months – in a highly musical way.**
 
 For the total of five songs, the Baulta members were inspired by individual experiences of disorientation and loss of self. The band says it is a journey of beauty – from birth to the struggle of self-knowledge. On their Bandcamp page, Baulta write:

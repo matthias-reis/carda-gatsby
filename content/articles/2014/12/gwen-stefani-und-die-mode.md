@@ -2,12 +2,10 @@
 templateKey: article
 title: Gwen Stefani und die Mode
 subTitle: Popikone bringt vegane Schuhkollektion auf den Markt
-description: >-
-  Endlich gibt es auch vegane High Heels. Entworfen werden die tollen Schuhe von niemand Geringerem als Pop Star Gwen Stefani persönlich.
-
-
+description: Endlich gibt es auch vegane High Heels. Entworfen werden die tollen
+  Schuhe von niemand Geringerem als Pop Star Gwen Stefani persönlich.
 date: 2014-12-02T13:57:18.528Z
-image: '/img/bild_gwenstefani_quelle_zalando.ch.jpg'
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/bild-gwenstefani-quelle-zalando-ch-jpg-imagine-b8a8b8_8a777c_572_429/640.webp
 labels:
   - vegan celebrities
   - Fair Fashion & Beauty
@@ -26,7 +24,7 @@ Musikalisch trennten sich Gwens und meine Wege spätestens nach dem Erscheinen i
 
 ## Gwen Stefani designt vegane Schuhe und Taschen
 
-![High Heels  "Alisa" von Gwen Stefanie | large](/img/high-heel-alisa-.jpg "High Heels \\"Alisa\\"")
+![High Heels  "Alisa" von Gwen Stefanie | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/high-heel-alisa-jpg-imagine-f8f8f8_cad3d6_303_429/640.webp "High Heels \\"Alisa\\"")
 
 Dass Gwen Stefani sich auch für Tierrechte einsetzt, wusste ich. Angenehm überrascht war ich, als mich gestern die Meldung erreichte, dass die Diva seit kurzem auch vegane Schuhe und Taschen designt, die ab dem Frühjahr 2015 auch bei uns in den Verkauf gehen sollen. Auch in der Vergangenheit war sie schon als Designerin tätig, unter anderem für die Labels L.A.M.B und DWP.
 
@@ -38,7 +36,7 @@ Die Taschen und Schuhe sollen im eher niedrigen Preissegment zwischen 70 und 170
 
 ## Endlich vegane High Heels
 
-![High Heels "Abbott" von Gwen Stefanie | large](/img/high-heel-abbott-.jpg 'High Heels "Abbott"')
+![High Heels "Abbott" von Gwen Stefanie | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/high-heel-abbott-jpg-imagine-f8f8f8_d6d3d0_303_429/640.webp 'High Heels "Abbott"')
 
 Auf der Suche nach eleganten, veganen Schuhen hat Frau es auch heute noch häufig schwer, zwar bieten Schuhgeschäfte auch mal High Heels aus Textil an, jedoch kann einem auch hier keiner sagen, woraus beispielsweise der Kleber hergestellt wurde.
 

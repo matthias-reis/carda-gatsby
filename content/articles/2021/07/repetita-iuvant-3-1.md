@@ -10,9 +10,9 @@ description: Die neue EP von Repetita Iuvant "3+1" ist für die Post-Rock Band
   die natürliche, musikalische und mathematische Konsequenz ihres Werks "3" von
   2020. Sie schlagen damit das nächste Kapitel ihrer Trilogie auf, die zusammen
   ihre erste LP ergibt.
-image: /img/repetita-iuvant-2.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-2-jpg-imagine-080808_5b5b5b_912_684/640.webp
 copyrigt: Repetita Iuvant
-ogImage: /img/repetita-iuvant-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-fb-png-imagine-f8f8f8_909598_1200_628/640.webp
 labels:
   - Ambient
   - Post-Rock
@@ -33,11 +33,12 @@ affiliate: false
 language: de
 languageLink: /2021/07/repetita-iuvant-3-1-en/
 ---
+
 **Repetita Iuvant gründeten sich aus einer Gruppe von Freund⋆innen, die sich durch ihre Liebe für gute Instrumental-Musik gefunden haben. Ihre neue EP "3+1" ist für sie die natürliche, musikalische und mathematische Konsequenz ihres Werks "3" von 2020. Sie schlagen damit das nächste Kapitel ihrer Trilogie auf. Alle drei Platten werden zusammen ihre erste LP ergeben.**
 
 Die im italienischen La Spezia beheimatete Post-Rock/Noise Band Repetita Iuvant besteht aus Andrea Testa (Schlagzeug), Christoforo da Costa (Gitarre, Synthesizer) und Daniele Isetta (Gitarre). 
 
-![Repetita Iuvant – "3+1" | small](/img/3-1-ep.jpg "Repetita Iuvant – \\"3+1\\"")
+![Repetita Iuvant – "3+1" | small](https://storage.googleapis.com/cardamonchai-media/2021-11-20/3-1-ep-jpg-imagine-c8e8f8_a9b4b9_1433_1444/640.webp "Repetita Iuvant – \\"3+1\\"")
 
 In ihrem musikalischen Zusammenspiel spiegelt sich ihr gemeinsames Gespür für die richtige Dosis an der richtigen Stelle wider. Außerdem erforschen die drei gerne Aufnahmetechniken aus den vergangenen Jahrzehnten, in denen die Rockmusik entstanden ist.
 
@@ -49,7 +50,7 @@ Der letzte Song auf "3+1" ("Piuno") wurde mit vier Ambient Mikrofonen aufgenomme
 
 Das klingt schon mal ziemlich spannend, oder? Das ist es auch. Die am 18. Juni auf Loudnessy Sonic Factory erschienene Platte ist deutlich mehr als nur eine von diesen EPs, die man mal hören kann. Sie öffnet die Tür zu einer vielfältigen Klangwelt, die man immer wieder durchschreiten möchte.
 
-![Repetita Iuvant | large](/img/repetita-iuvant-1.jpg "Repetita Iuvant")
+![Repetita Iuvant | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-1-jpg-imagine-c8c8c8_7e7e7e_912_684/640.webp "Repetita Iuvant")
 
 ## Ein farbenfrohes Gesamtbild
 
@@ -57,7 +58,7 @@ Der erste Song "Sagiadi" ist elektronisch, eklektisch und vielseitig. Hypnotisch
 
 Der zweite Song "Polloni" fügt der Vielseitigkeit eine überraschende Zartheit hinzu, die diesen Song zu meinem Favoriten auf der Platte macht. Es lässt sich ganz schwer in Worte zu fassen, was hier passiert, das Hin und Her zwischen Härte und Fragilität erinnert an das Spiel der Gezeiten.
 
-![Repetita Iuvant | large](/img/repetita-iuvant-3.jpg "Repetita Iuvant")
+![Repetita Iuvant | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-3-jpg-imagine-f8f8f8_858585_912_684/640.webp "Repetita Iuvant")
 
 "Metloping" bildet einen würdevollen Übergang zum Finale der Platte – Lautmalerei eingeschlossen. Bei "Piuno" handelt es sich, wie oben beschrieben, um ein quadrofonisches Experiment – das im übrigen voll aufgegangen ist. Die 1970er lassen grüßen. Aufmerksamen Hörer⋆innen dürften außerdem die Perspektivwechsel sofort auffallen. Was mich hier besonders fasziniert, sind die schönen Percussion-Highlights, die hier und da einen bunten Farbklecks auf dem Klangteppich hinterlassen.
 

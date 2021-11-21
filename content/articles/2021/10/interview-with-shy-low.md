@@ -8,9 +8,9 @@ seoTitle: Shy, Low – Interview With The Pelagic Band – Post-Rock
 description: Shy, Low recently released their new album "Snake Behind The Sun"
   on Pelagic. Now I have arranged an interview with the post-rock band from
   Richmond, Virginia.
-image: /img/shy-low-interview.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-interview-jpg-imagine-181818_000000_1024_768/640.webp
 copyrigt: Shy, Low
-ogImage: /img/shy-low-interview-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-interview-fb-png-imagine-181818_232324_1200_628/640.webp
 labels:
   - Shy Low
   - Pelagic
@@ -33,6 +33,7 @@ affiliate: false
 language: en
 languageLink: /2021/10/shy-low-interview/
 ---
+
 **I am sure you already heard the news that the new Shy, Low record "Snake Behind The Sun" is out. My feature on it received more than just a few visits. So thank you for that! Now I had the chance to talk to the band that people use to mention in one sentence with giants like Cult Of Luna and Russian Circles.**
 
 We talked about their recording sessions at the Vudu Studios, working with Pelagic Records and Mike Watts, and the history of the Richmond, Virginia based post-rock band. And about vegetables.
@@ -41,7 +42,7 @@ We talked about their recording sessions at the Vudu Studios, working with Pelag
 
 ## "People like the new album"
 
-![Shy, Low – Post-Rock Interview](/img/4.jpg)
+![Shy, Low – Post-Rock Interview](https://storage.googleapis.com/cardamonchai-media/2021-11-20/4-jpg-imagine-181818_000000_768_1024/640.webp)
 
 **Gregg:** Hey Anne, I am doing quite well, thank you for asking. The feedback we have received after releasing "Snake Behind the Sun" has been incredibly positive. We have gotten so many positive notes about the overall mix of the record and the song structure. Sonically, it is quite a bit more powerful than our previous full-lengths, and while I think some folks were expecting it, I think the majority of our listeners were expecting another toned down record, so it seems like this was a nice surprise to many.
 
@@ -59,7 +60,7 @@ We talked about their recording sessions at the Vudu Studios, working with Pelag
 
 ## "Working with Mike Watts was amazing"
 
-![Shy, Low – Post-Rock Interview](/img/3.jpg)
+![Shy, Low – Post-Rock Interview](https://storage.googleapis.com/cardamonchai-media/2021-11-20/3-jpg-imagine-181818_000000_768_1024/640.webp)
 
 **Gregg:** We spent three full weeks of ten to 15 hour days up at Vudu Studios. In the past, we usually did weekend sessions and would track drums, then move on to bass, then guitars another weekend, and then extras yet another weekend. With this more recent process, I think it allowed us to be in the moment and focus on every tonal element of each part of every song. We also had Mike Watts in the studio a lot of time, listening and giving feedback from a producer's role, and he helped us "trim down the fat" in a few songs, which we haven't really had in the previous records. It has usually been our call 98 per cent and the engineers giving helpful suggestions.
 
@@ -79,7 +80,7 @@ We talked about their recording sessions at the Vudu Studios, working with Pelag
 
 ## "We all work full-time"
 
-![Shy, Low – Post-Rock Interview](/img/2.jpg)
+![Shy, Low – Post-Rock Interview](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2-jpg-imagine-181818_000000_768_1024/640.webp)
 
 **Gregg:** I think for each one of us, this would be pretty accurate. I personally have a tough time balancing everything going on, but somehow, it works out. We all work full-time, sometimes weird hours and then we are all in relationships, and I just got married a few weeks ago. In addition to house-hunting, my wife and I are slowly converting a school bus to travel and live in one day. I am also helping her get her dream business off of the ground. So I guess this answers that question about being energetic and making forward progress in our lives. 
 
@@ -99,7 +100,7 @@ We talked about their recording sessions at the Vudu Studios, working with Pelag
 
 ## "We are proud to be part of Pelagic"
 
-![Shy, Low – Post-Rock Interview](/img/1.jpg)
+![Shy, Low – Post-Rock Interview](https://storage.googleapis.com/cardamonchai-media/2021-11-20/1-jpg-imagine-181818_000000_768_1024/640.webp)
 
 **Gregg:** I would agree that each record is a reflection of the members involved with the making of that record. As we grow older, our music continues to mature and evolve. Each record has portrayed a theme that usually came to us after it was fully finished, but they all were representative of us at the moment.
 

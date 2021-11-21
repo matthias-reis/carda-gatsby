@@ -2,12 +2,10 @@
 templateKey: article
 title: Jackfruit statt Fleisch
 subTitle: Leckere Tofu-Alternative
-description: >-
-  Der neueste Schrei aus den USA ist Jackfruit als Fleischersatz. Die Früchte lassen sich perfekt zu Steaks, Würsten und vielem mehr verarbeiten.
-
-
+description: Der neueste Schrei aus den USA ist Jackfruit als Fleischersatz. Die
+  Früchte lassen sich perfekt zu Steaks, Würsten und vielem mehr verarbeiten.
 date: 2015-09-22T13:17:02.502Z
-image: '/img/16269359582_40875764a0_z-380x250.jpg'
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/16269359582-40875764a0-z-380x250-jpg-imagine-584838_746a58_380_250/640.webp
 labels:
   - Ernährung & Gesundheit
   - Jackfruit
@@ -22,11 +20,11 @@ Die Jackfrucht wird getrocknet, geschreddert und im Anschluss weiterverarbeitet.
 
 ## Steaks aus Jackfrucht
 
-![Jack Fruit als Fleischersatz | large](/img/16269362802_5205cb0939_z-380x250.jpg 'Jackfruit auf dem Markt in Sri Lanka')
+![Jack Fruit als Fleischersatz | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/16269362802-5205cb0939-z-380x250-jpg-imagine-483828_7b7147_380_250/640.webp 'Jackfruit auf dem Markt in Sri Lanka')
 
 Jackfruits werden hauptsächlich in Südostasien und Südamerika angebaut und kommen in den verschiedensten Küchen zum Einsatz. Die stacheligen Früchte bringen ein Gewicht von bis zu 35 Kilogramm auf die Waage. Sie gehören zur Gattung der Maulbeergewächse und werden auch als Jakobsfrucht, Jackbaumfrucht oder Jaca bezeichnet.
 
-![Jackfruits | large](/img/16084046259_2e1a769649_z-380x250.jpg 'Jackfruits')
+![Jackfruits | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/16084046259-2e1a769649-z-380x250-jpg-imagine-382818_947e56_380_250/640.webp 'Jackfruits')
 
 In einigen Ländern werden beispielsweise auch die vom Geschmack an Kastanien erinnernden Kerne gekocht, getrocknet oder zu Suppe verarbeitet. In Asien gibt es zum Beispiel auch Jackfruit-Chips, das frische Fruchtfleisch wird dort auch gerne zu Süßspeisen verarbeitet oder geschnitten und eingeschweißt aus der Kühltheke verkauft.
 

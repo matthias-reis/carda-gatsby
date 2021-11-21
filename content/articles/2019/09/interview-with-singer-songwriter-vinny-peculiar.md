@@ -1,42 +1,43 @@
 ---
 labels:
-- Bands
-- England
-- English & German
-- Vinny Peculiar
-- Interview
-- Interviews
-- Great Britain
-- Liverpool
-- Manchester
-- Midlands
-- Singer-Songwriter
-- Parlour Flames
-- stay
-- While You Still Can
-- Worcester
-- Worcestershire
+  - Bands
+  - England
+  - English & German
+  - Vinny Peculiar
+  - Interview
+  - Interviews
+  - Great Britain
+  - Liverpool
+  - Manchester
+  - Midlands
+  - Singer-Songwriter
+  - Parlour Flames
+  - stay
+  - While You Still Can
+  - Worcester
+  - Worcestershire
 language: en
-date: 2019-09-23T14:54:00+02:00
+date: 2019-09-23T12:54:00.000Z
 slug: vinny-peculiar-interview-en
 typeName: Interview
 title: Interview With Singer-Songwriter Vinny Peculiar
 subTitle: '"People are frustrated and angry"'
 seoTitle: Interview With Singer-Songwriter Vinny Peculiar
-ogTitle: ''
-description: I recently introduced the singer-songwriter Vinny Peculiar to you. Now
-  I had the chance to interview him about his new album "While You Still Can", which
-  he will release soon. We also talked about the political situation in the UK.
-excerpt: ''
-image: "/img/vinny-peculiar.png"
+ogTitle: ""
+description: I recently introduced the singer-songwriter Vinny Peculiar to you.
+  Now I had the chance to interview him about his new album "While You Still
+  Can", which he will release soon. We also talked about the political situation
+  in the UK.
+excerpt: ""
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/vinny-peculiar-png-imagine-080808_1f1e1c_1024_768/640.webp
 copyright: Vinny Peculiar
-ogImage: "/img/vinny-peculiar-interview-fb.png"
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/vinny-peculiar-interview-fb-png-imagine-080808_272623_810_450/640.webp
 focusKeyword: Vinny Peculiar
 advertisement: false
 affiliate: false
-languageLink: "/2019/09/vinny-peculiar-interview"
-
+languageLink: /2019/09/vinny-peculiar-interview
 ---
+
 **I talked to singer-songwriter Vinny Peculiar about his new album "While You Still Can", which he will release soon.**
 
 I recently introduced you to the two new videos by singer-songwriter Vinny Peculiar here on the blog. Now I have arranged to meet him for an interview. We talked about the record, the political situation in England and his future plans.

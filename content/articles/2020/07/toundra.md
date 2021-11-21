@@ -5,10 +5,12 @@ typeName: Interview
 title: Toundra
 subTitle: '"Music Is About Freedom"'
 seoTitle: Interview with Toundra – "Music Is About Freedom"
-description: The Spanish post-rock band Toundra has set a German silent movie classic to music with their new album "Das Cabinet des Dr. Caligari". This made me curious, so I asked guitarist Esteban for an Interview.
-image: /img/2020_07_toundra__l.jpeg
+description: The Spanish post-rock band Toundra has set a German silent movie
+  classic to music with their new album "Das Cabinet des Dr. Caligari". This
+  made me curious, so I asked guitarist Esteban for an Interview.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-07-toundra-l-jpeg-imagine-080808_171a20_1440_1080/640.webp
 copyrigt: Toundra
-ogImage: /img/2020_07_toundra-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-07-toundra-fb-png-l-jpg-imagine-080808_181c21_1440_754/640.webp
 labels:
   - Bands
   - English & German

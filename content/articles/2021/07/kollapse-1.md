@@ -9,9 +9,9 @@ description: Vor ein paar Tagen habe ich Euch das neue Kollapse Album "Sult"
   empfohlen. Jetzt hatte ich die Gelegenheit, mich mit dem Post-Hardcore Trio
   aus Dänemark zu unterhalten. Im Interview haben wir auch über die aktuellen
   Tourpläne der Band gesprochen.
-image: /img/kollapse-3-.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-3-jpg-imagine-484848_000000_1024_768/640.webp
 copyrigt: Kollapse
-ogImage: /img/kollapse-fb-1-.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-fb-1-jpg-imagine-484848_000000_1200_628/640.webp
 labels:
   - Dänemark
   - Post-Metal
@@ -30,6 +30,7 @@ affiliate: false
 language: de
 languageLink: /2021/07/kollapse-interview-en/
 ---
+
 **Vor ein paar Tagen habe ich Euch das neue Kollapse Album "Sult" empfohlen. Jetzt hatte ich die Gelegenheit, mich mit dem Post-Hardcore Trio aus Dänemark zu unterhalten. Im Interview haben wir auch über die Tourpläne der Band gesprochen.**
 
 **Anne:** Hallo! Danke, dass Ihr Euch Zeit für das Interview genommen habt! Ich freue mich, Euch kennenzulernen! Wie geht es Euch heute?
@@ -46,7 +47,7 @@ languageLink: /2021/07/kollapse-interview-en/
 
 **Peter L:** Ich bin sehr zufrieden damit. Es war ein wirklich langer Prozess. Nachdem mich die Jungs gefragt hatten, ob ich Teil der neuen Bandkonstellation sein möchte, habe ich viel Zeit damit verbracht, sie kennenzulernen – sowohl musikalisch als auch persönlich. Das Album ist so etwas wie der Höhepunkt von ein paar Jahren Arbeit, in denen wir versucht haben, eine gemeinsame Basis und eine musikalische Grundlage zu finden – und ich denke, wir sind in diesem Prozess sehr weit gekommen.
 
-![Kollapse | large](/img/kollapse-4-.jpg "Kollapse")
+![Kollapse | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-4-jpg-imagine-080808_000000_1024_768/640.webp "Kollapse")
 
 Selbst nachdem wir beschlossen hatten, "jetzt sind wir eine Band" und "jetzt sind wir zu dritt" und tatsächlich mit der Planung der Aufnahmen anfingen, gab es noch Stolpersteine auf dem Weg. Der ganze Weg bis zu diesem Moment war ein bisschen chaotisch – aber es könnte mit dieser Band wahrscheinlich gar nicht anders sein. Ich bin glücklich damit. Ich freue mich, dass wir "Sult" endlich veröffentlicht haben, dass die Platte den Leuten gefällt und dass wir sie zusammen gemacht haben!
 
@@ -90,7 +91,7 @@ Ich denke aber, die Stimmung auf dem Album spiegelt die Stimmung vieler Menschen
 
 **Anne:** Gina Skowz hat ein fantastisches Horror-Artwork für "Sult" gemalt. Es ist so cool! Ich kann mir kein besseres Artwork für dieses Album vorstellen. Seid Ihr mit Ihr befreundet?
 
-![Kollapse – "Sult" Artwork: Gina Skowz](/img/kollapse-1-.jpg "Kollapse – \"Sult\" Artwork: Gina Skowz")
+![Kollapse – "Sult" Artwork: Gina Skowz](https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-1-jpg-imagine-b88868_8a695b_1080_1080/640.webp "Kollapse – \"Sult\" Artwork: Gina Skowz")
 
 **Thomas:** Ich bin in den frühen Neunzigern mit Noise-Rock aufgewachsen. Durch das amerikanische Label Amphetamine Reptile Label bin ich auf Gina aufmerksam geworden, da sie irgendwie mit diesen Noise-Rock Fieslingen in Verbindung gebracht wird (lacht). Sie ist eine fantastische Künstlerin.
 

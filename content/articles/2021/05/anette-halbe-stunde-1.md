@@ -1,5 +1,5 @@
 ---
-date: 2021-05-02T17:21:42.000+00:00
+date: 2021-05-02T17:21:42.000Z
 labels:
   - Magnus Josefsson
   - Anette Halbe Stunde
@@ -37,16 +37,25 @@ typeName: Interview
 title: '"Anette Halbe Stunde"'
 subTitle: Interview With (Sound) Architect Magnus Josefsson
 seoTitle: '"Anette Halbe Stunde" – Interview With (Sound) Architect Magnus Josefsson'
-ogTitle: ''
-description: Magnus Josefsson's new tape goes by the name "Anette Halbe Stunde". When I asked him what topics he would like to discuss in our interview, he brought up the Bullerby Syndrome. Not only was I curious about his connection to Astrid Lindgren, but I also wanted to know a bit more about the vegan (sound) architect.
-excerpt: Magnus Josefsson's new tape goes by the name "Anette Halbe Stunde". He did it with Anette Records. When I asked him what topics he would like to discuss in our interview, he brought up the Bullerby Syndrome. Not only was I curious about his connection to Astrid Lindgren, but I also wanted to know a bit more about the vegan (sound) architect from Sweden who has worked with so many exceptional artists.
-image: '/img/magnus-josefsson-anette-halbe-stunde.jpg'
+ogTitle: ""
+description: Magnus Josefsson's new tape goes by the name "Anette Halbe Stunde".
+  When I asked him what topics he would like to discuss in our interview, he
+  brought up the Bullerby Syndrome. Not only was I curious about his connection
+  to Astrid Lindgren, but I also wanted to know a bit more about the vegan
+  (sound) architect.
+excerpt: Magnus Josefsson's new tape goes by the name "Anette Halbe Stunde". He
+  did it with Anette Records. When I asked him what topics he would like to
+  discuss in our interview, he brought up the Bullerby Syndrome. Not only was I
+  curious about his connection to Astrid Lindgren, but I also wanted to know a
+  bit more about the vegan (sound) architect from Sweden who has worked with so
+  many exceptional artists.
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-anette-halbe-stunde-jpg-imagine-181818_7a7066_1024_768/640.webp
 copyright: Magnus Josefsson
-ogImage: '/img/magnus-josefsson-anette-halbe-stunde-1.jpg'
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-anette-halbe-stunde-1-jpg-imagine-181818_94908c_1200_628/640.webp
 focusKeyword: Anette Halbe Stunde
 advertisement: false
 affiliate: false
-languageLink: '/2021/05/magnus-josefsson-anette-halbe-stunde'
+languageLink: /2021/05/magnus-josefsson-anette-halbe-stunde
 ---
 
 **When I asked Magnus Josefsson what topics he would like to discuss in our interview, he brought up the Bullerby Syndrome. Not only was I curious about his connection to Astrid Lindgren, but I also wanted to know a bit more about the vegan (sound) architect from Sweden who has worked with so many exceptional artists and lived in Weimar once.**
@@ -55,7 +64,7 @@ languageLink: '/2021/05/magnus-josefsson-anette-halbe-stunde'
 
 ## "There is no such thing as vegan music"
 
-!["Anette Halbe Stunde". Picture: © Anette Records](/img/anette-halbe-stunde-2.jpeg '"Anette Halbe Stunde". Picture: © Anette Records')
+!["Anette Halbe Stunde". Picture: © Anette Records](https://storage.googleapis.com/cardamonchai-media/2021-11-20/anette-halbe-stunde-2-jpeg-imagine-d8d8d8_b4b4b4_700_700/640.webp '"Anette Halbe Stunde". Picture: © Anette Records')
 
 **Magnus:** I'm excellent, thanks! Well, I must say that the situation has been relatively soft up here throughout that period.
 
@@ -75,7 +84,7 @@ languageLink: '/2021/05/magnus-josefsson-anette-halbe-stunde'
 
 ## "Identity often becomes people's greatest enemy"
 
-![Magnus Josefsson. Picture: © Magnus Josefsson](/img/9804-3.jpeg 'Magnus Josefsson. Picture: © Magnus Josefsson')
+![Magnus Josefsson. Picture: © Magnus Josefsson](https://storage.googleapis.com/cardamonchai-media/2021-11-20/9804-3-jpeg-imagine-282838_806a59_1080_1080/640.webp 'Magnus Josefsson. Picture: © Magnus Josefsson')
 
 The last thing I want is an identity. It excludes you from lots of other things and people. I really believe that identity often becomes people's absolute greatest enemy and problem.
 
@@ -101,7 +110,7 @@ Music-wise I got a lot of inspiration in both Sweden and Germany to do stuff. Up
 
 ## "I studied architecture at the Bauhaus University"
 
-!["Anette Halbe Stunde". Picture: © Magnus Josefsson](/img/anette-halbe-stunde.jpeg '"Anette Halbe Stunde". Picture: © Magnus Josefsson')
+!["Anette Halbe Stunde". Picture: © Magnus Josefsson](https://storage.googleapis.com/cardamonchai-media/2021-11-20/anette-halbe-stunde-jpeg-imagine-a8a8a8_958c7d_1440_1080/640.webp '"Anette Halbe Stunde". Picture: © Magnus Josefsson')
 
 **Magnus:** Yeah, I studied architecture there, did an exchange at Bauhaus University. I wanted to go to Germany and did not want to go to any of the bigger cities. I knew the Bauhaus school for such a long time and saw it as a dream to get enrolled.
 
@@ -121,7 +130,7 @@ Thuringia is the least populated part of Germany, and Småland one of the least 
 
 ## "I recorded 'Anette Halbe Stunde' at an old brick factory"
 
-**![Magnus Josefsson. Picture: © Magnus Josefsson](/img/9804-2.jpeg 'Magnus Josefsson. Picture: © Magnus Josefsson')Magnus:** Johannes is not involved in my music or the expression. He just gave me the task of making a 30 min mixtape for his label or kindly asked me if I wanted to do that. I was flattered, of course!
+**![Magnus Josefsson. Picture: © Magnus Josefsson](https://storage.googleapis.com/cardamonchai-media/2021-11-20/9804-2-jpeg-imagine-180838_74676d_1080_1080/640.webp 'Magnus Josefsson. Picture: © Magnus Josefsson')Magnus:** Johannes is not involved in my music or the expression. He just gave me the task of making a 30 min mixtape for his label or kindly asked me if I wanted to do that. I was flattered, of course!
 
 I guess it was the nature up here in Småland and the old factory where I am working on my music that inspired me. We got a massive space in an old brick factory building at the river and a lake, mysterious and exciting. Meditation also took part in doing this mixtape.
 
@@ -149,7 +158,7 @@ I guess it was the nature up here in Småland and the old factory where I am wor
 
 ## "Every genre has good music"
 
-**![Magnus Josefsson. Picture: © Magnus Josefsson](/img/9804-4.jpeg 'Magnus Josefsson. Picture: © Magnus Josefsson')Magnus:** I can find good music in all genres, but metal makes me bored right away! I guess music is a realm of feelings, and being aligned with that feeling makes you on the way. I really love dreamy sounds, huge, big and dark dreams.
+**![Magnus Josefsson. Picture: © Magnus Josefsson](https://storage.googleapis.com/cardamonchai-media/2021-11-20/9804-4-jpeg-imagine-382828_847867_1080_1080/640.webp 'Magnus Josefsson. Picture: © Magnus Josefsson')Magnus:** I can find good music in all genres, but metal makes me bored right away! I guess music is a realm of feelings, and being aligned with that feeling makes you on the way. I really love dreamy sounds, huge, big and dark dreams.
 
 **Anne:** When I asked you about the topics you would love to talk about, you named the Bullerby Syndrome. Is this the syndrome you get when you live in the often romanticised Astrid Lindgren book world of Småland? I suppose it may not always be as harmonious as everyone is picturing it in their head after all? Do you read Astrid Lindgren's stories when you are a child growing up in Sweden?
 

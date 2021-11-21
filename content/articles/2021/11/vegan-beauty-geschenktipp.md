@@ -12,9 +12,9 @@ excerpt: "Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit,
   über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps
   vorbereitet. Mein erster kommt von MICARAA: Mit dem Holiday Set könnt Ihr
   einem lieben Menschen eine schöne Freude machen."
-image: /img/micaraa-titel.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-titel-jpg-imagine-e8c8b8_c0a08e_1024_768/640.webp
 copyrigt: MICARAA
-ogImage: /img/micaraa-fb-1-.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-fb-1-png-imagine-e8c8a8_bf937c_1200_628/640.webp
 labels:
   - Micaraa
   - vegane Kosmetik
@@ -26,6 +26,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
+
 **Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit, über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps vorbereitet. Mein erster kommt von MICARAA: Mit dem Holiday Set könnt Ihr einem lieben Menschen eine schöne Freude machen.**
 
 Das Set, bestehend aus einem Peeling, einem Gesichtsöl, und einem Gesichtsserum, enthält alles, was die Haut im Winter braucht: Hyaluronsäure, milde Fruchtsäuren und natürlich nährende Öle. Mit zum Set dazu gibt es von MICARAA einen 10 Euro Gutschein.
@@ -34,7 +35,7 @@ Die Produkte im [Geschenk-Set](https://www.awin1.com/cread.php?awinmid=19823&awi
 
 ## Gesunde MICARAA Pflege für alle Hauttypen
 
-![Das MICARAA Holiday Set bestehend aus Peeling, einem Gesichtsöl, und einem Gesichtsserum liegt auf dem Tisch neben der rosa Geschenkbox aus Graspapier. Drumherum liegen ein paar Grashalme.](/img/micaraa-2-.jpg "Das MICARAA Holiday Set bestehend aus Peeling, einem Gesichtsöl, und einem Gesichtsserum.")
+![Das MICARAA Holiday Set bestehend aus Peeling, einem Gesichtsöl, und einem Gesichtsserum liegt auf dem Tisch neben der rosa Geschenkbox aus Graspapier. Drumherum liegen ein paar Grashalme.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-2-jpg-imagine-d8b8a8_bc9b89_1024_768/640.webp "Das MICARAA Holiday Set bestehend aus Peeling, einem Gesichtsöl, und einem Gesichtsserum.")
 
 Die wichtigsten Inhaltsstoffe sind neben der bereits erwähnten 
 Hyaluronsäure, Ectoin, AHA- und BHA-Säure, Aloe Vera, Radicare Gold sowie Traubenkernextrakt. [Wie ich Euch schon erzählt habe](/2021/07/micaraa-calm/), verzichtet MICARAA bewusst auf Mikroplastik, Silikone, Parabene, Mineralöle, synthetischen Konservierungsstoffen und Sulfate. Außerdem ist alles komplett vegan.
@@ -51,7 +52,7 @@ Der Anti-Aging-Wirkstoff Radicare Gold imitiert eine Süßwasseralge. Er soll wi
 
 ## Nachhaltig und fair schenken
 
-![Die Geschenk-Box aus Graspapier liegt auf dem Tisch zwischen Grashalmen.](/img/micaraa-3-.jpg "Die Geschenk-Box aus Graspapier.")
+![Die Geschenk-Box aus Graspapier liegt auf dem Tisch zwischen Grashalmen.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-3-jpg-imagine-e8c8a8_c09580_1024_768/640.webp "Die Geschenk-Box aus Graspapier.")
 
 Für jedes verkaufte Geschenk-Set spendet MICARAA einen Euro an die Münchner Kindertafel. So haben die Kleinsten auch noch was von Eurem Einkauf.
 

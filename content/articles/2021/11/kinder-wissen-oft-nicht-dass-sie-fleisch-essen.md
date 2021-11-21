@@ -14,9 +14,9 @@ excerpt: Die Aufklärung von Kindern und Jugendlichen könnte uns in Sachen
   voranbringen. Aus einer aktuellen Studie geht jetzt hervor, dass die meisten
   Kinder in den USA es nicht OK finden, Tiere zu essen. Mit dem Fleisch auf dem
   Teller bringen sie es jedoch nicht in Zusammenhang.
-image: /img/kinder-wissen-oft-nicht-dass-sie-fleisch-essen.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kinder-wissen-oft-nicht-dass-sie-fleisch-essen-jpg-imagine-384828_60685a_1024_768/640.webp
 copyrigt: filinecek, pixabay
-ogImage: /img/kinder-wissen-oft-nicht-dass-sie-fleisch-essen-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kinder-wissen-oft-nicht-dass-sie-fleisch-essen-fb-png-imagine-384828_616a5b_1200_628/640.webp
 labels:
   - Ernährung & Gesundheit
   - Klima- & Umweltschutz
@@ -34,6 +34,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Die Aufklärung von Kindern und Jugendlichen könnte uns in Sachen Tierleid-freie, nachhaltige und gesunde Ernährung einen großen Schritt voranbringen. Aus einer aktuellen Studie geht jetzt hervor, dass die meisten Kinder in den USA es nicht OK finden, Tiere zu essen. Mit dem Fleisch auf dem Teller bringen sie es jedoch nicht in Zusammenhang.**
 
 Science Direct ist sicher, dass die Erforschung kindlicher Überzeugungen Licht ins Dunkel der Beziehung zwischen unserem Essverhalten und dem Klimawandel zu bringen. Das Institut erforschte darum das Wissen von Kindern über die Herkunft pflanzlicher und tierischer Lebensmittel. Außerdem fragte es die Urteile der Kinder darüber ab, was gegessen werden dürfe und was nicht. Dabei griff es auf zwei voneinander getrennte Sortieraufgaben zurück.

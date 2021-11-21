@@ -9,9 +9,9 @@ description: Today, I want to introduce a band to you that I am currently
   discovering. It's the post-rock/post-hardcore/mathcore project Ox en Mayo alto
   from Córdoba, Argentina.
 excerpt: ""
-image: /img/2020_09_ox-en-mayo-alto-1__l.jpeg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-09-ox-en-mayo-alto-1-l-jpeg-imagine-080808_21272d_1440_1080/640.webp
 copyrigt: Ox en Mayo Alto
-ogImage: /img/2020_09_ox-en-mayo-alto-fb.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-09-ox-en-mayo-alto-fb-png-l-jpg-imagine-181828_444943_1440_754/640.webp
 labels:
   - Argentinien
   - Bands
@@ -30,6 +30,7 @@ affiliate: false
 language: en
 languageLink: /2020/09/ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review/
 ---
+
 **Today, I want to introduce a band to you that I am currently discovering. It's the post-rock/post-hardcore/mathcore project Ox en Mayo alto from Córdoba, Argentina.**
 
 Only recently I received the news about the release of their first sound material. It is a video-EP called "Los famosos días de la fiebre"
