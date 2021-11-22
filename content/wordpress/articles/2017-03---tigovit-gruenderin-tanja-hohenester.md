@@ -1,62 +1,63 @@
 ---
-date: 2017-03-06T09:13:51.000+00:00
-slug: tigovit-interview
-path: "/2017/03/tigovit-interview/"
-type: Artikel
-typeName: Interview
-title: tigovit Gründerin Tanja Hohenester
-seoTitle: tigovit Gründerin Tanja Hohenester im Interview - "Wir befinden uns mitten
-  in einem Wandel"
-ogTitle: tigovit Gründerin Tanja Hohenester im Interview - "Wir befinden uns mitten
-  in einem Wandel"
-description: tigovit Gründerin Tanja Hohenester hat sich meinem Interview gestellt.
-  Das Gespräch war unglaublich interessant. Ich habe sehr viel über Grünen Tee gelernt.
-excerpt: tigovit Gründerin Tanja Hohenester hat sich meinem Interview gestellt. Das
-  Gespräch war unglaublich interessant. Ich habe sehr viel über Grünen Tee gelernt.
-fileName: 2017-03---tigovit-gruenderin-tanja-hohenester.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_51ff9f58-00f8-46eb-a5d5-a038cec12634-e1582794498595.png__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_51ff9f58-00f8-46eb-a5d5-a038cec12634-e1582794498595.png__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAJyklEQVRIiT2TV1TUZxqH/0qxU0Tq0GGGMsAMDMPMAAIDSC9SpUsvCqiAGiRYomKhoxQL4FoSNa4trgWD0QgKWGMFdU2yObnYPWf3Ym/28tkzoP7Pec73flfP733f7y88vtbMizvtvLrbzos7BxncFEx/bRDnO0u5dWILvz4aZub2Xm4eKuXO2W8Y6S8h2dOEQsUKsiRLyFFY8Or2Ln5/cpQ/ng/xfuoI7yYHeD91nPdTQ3x4NIeunmOQd5ODzEwMMvNwCGHySjPPRtqZHuvmQk85KhMB78UCJoKAmSBQGqvg4982ca1RzaWeGg7EO3A43ZvuWDNaYuyoU5px4ZtMru5O4P3PQ/zvXz/z7uExPkwN8+HRHJ/l7yZ1DDL9cIjpB0O81QV4fGM/T2918Gy0m7djfcTJbfAxN6QkVEp/QSSHsrS0lEawoyiU1poEdhdoOPVNHhc7yjjfVk5/fTLf78rgSJmCS+2VPL91iJmHx3mvE08O827yBNNTJ5iZGGbm4fAX+fT4IG8eDCNMXm9l6mY7Ezc7eDPWR1GEKxbzBPLVHuzLiKQ2aiUVMSEcb2ukb18jJzq3M3Khi62liZzp3szti91cONbCt317uHysidtnGpl+qBvvnHBmQic/wcyD4bmux3UM8nb8OK/GhxDGr7Uycb2DBz+08fL+UXq+ysBIEMhRulMXHcim6GAOJmq4cqiWyeu9TNw4weM7Z6iMcOHq8AH+/P0l734Z5e9PvuPjk5N8fHqKtw90gsG5Tj+hu78ZO87r+8dmefXzUV7eO4YwdqWN8R86GLvawfi1Du5f3ENNrB/Vail92VHURwaRJ5dzse8rfvmxnzej3dzoq6C9OoZL/dv4z5/P+fj8Cq/HT/D24SnejA19EenOz/XLe0d5cXdgll9+6v+C8NPldu5e7eSnyx2MnN3Dvcv76N+RRbizGdm+EhLcnCnw9eX68C6ejvQy/m0DrXm+tK9PZH9ZNH+8HeO///6dX1/dYebxJV5PnJ7r7u4AL+8d+YJO9vxOL89GP3OYZ6P9CCPft/LjXzu4ee4AV4aauXV2L8MtRZSqHUjzFaN1tKJnwxr+8eI8H6ZO83q0k42pwexqaqKnZTufv3/++ZjfXl/nzeRpno328eR2D09vH5oVPb/TN4uufvqjjl6e3O7l8Ug/wsTtYzwYOcrda92MXu7gyWgfzVWrMRTmoXS0RGZjTpTCk/q8KEpCXShUWbIx0pEje2oZ2pbOxS2hXN2fz/WjDYxf6uTF/WF+e3GOj8/P8uHJad6MD/J0tI+pm91M3uhi8kY3UzcPM3Wjl0c3ehGO76th97oU6jOCKA0XUxpojcrOGGdTI+6sC+T0GilNYfbky6wJtFtKhsaWxhQPBjZoOdlWxY7iIEpCl5MoFoixE8jyMqE2XMKB8jjOdW7k7oUDvLp/gg9PzjE9cYpXY0M8Hhlg/GoXY1e6EAKWCSiMBZSWAv62+qhcTbFZbkymjx1XClX0rfbjfNkqjmUHszXaD09HGzakK6hI8iA60AqtZgUhalPCNOZEqM3R+iwlTGxAiEhAYyqQ5LyItQprNsQr6dmSw6WBRsaudjH98BRvJ75DkMkluMuluMil2HlLsfP1Y4GVPZFia/ZHe/O1Vs7WcD8qNF7Uh3vharYcH2dzmrIVNORoaCwMpijBjbhAS0IVxgQrjAgNMCVcY0ZMsAWxqhWEuS9CbTOPAFMBtbFAuO1i0uR2NOaEI1i5irEWu6E77STOuHm64OPtxBp/FzavlNAQ6EGV0o0SpQeVwV4U+DqTESmnqy6aulQfNqb5sTU3kMZcNQ1Z/pQkerA6VES4vykq70WofBYTrNAFsiQ6SERMoDVaLxP8rQ1RmAoIHm52qH1siQ2wJy/ClfpMOS01EWzIDCJf7kyx0p0ypSebNL6sC1ZSqfZgXWwAh1urONlTzv6GJLYXB/NVjj/NBWr2lISwqyiEzWs01GbIyY5yIlJtjsrHCH8vI1QyYwKVywlSLycywBqhNs2bxqIg9tYl0LUnn972Ck4Obmbf7iIcjI2JcHPCx8YaV1MTsmVSilUKkiR2rE9byZmjNbQ1ZdBYGMTWfCVfr9Wwp3wl2/ID2ZShoTk/lO2FWnYUaWlaG0JenCerAm1Y6WdGhJcTQY4yhM59xfR2VdHXWcnh9koOHyyh/2ARfzlciaHhEgRh/ifmoT/fEF9rG1K83En1cmBjsicN6XLq0hSky1xJdZNQEe5PbaqKDVkq6nKCqE7TzFKZrKE+J5S6zDBKfFdS7BBCqigAoW33Wtp25tK+K4f2Xbm07c5noL2Ejr2FCIIhgqCPgd4C9Ocv+HTXw91iBVESB5K9HEiWOKG1FJHo4cG6tDi2VZSRHpdMnFLB+ngVDQUh7KyIpLkkkoY8LfV5WsqSgigJ0bBDqUY4uLOQtt3FdLQU091aTmdbJYMDGygrikUQBAz0F6KvtxC9+Qsw1F84G8LBZCGJEhNM9QzJ9JPQubmQwjUpJK6KIj4ijvLKJlReWpIdpeQGqNmYoqUhW8umnFB2lsfRtimN1vpUvq5ejdB+sIqujmraW9fTsqOALeti2ZSrIUrlOtutof6iLwH09eamsGThIgI8XQlS+rOlqpjBzhbqq2oJ8A0hQJOEX2gRERIFcfZiIu3diXOQorSTkhLiN/u4G5Jk9KwN5vTWDISdTQXUV8RTm6OhIsmT8gQJG9O9kYutZsevC6CTf2aeYICe/mIUfmpS4hNIikygLLuc5m0deCnicZHGEO4Tympnd5LdFGhF7qhsxXiKXSlOUFKXpSE3VEqp2optsc4Ia2PcKY0VkxfmxpogMenBYlIVEqyWmSIIBhh86l6Hgf6i2bUsW2pKRnI6BTmFeEs1RMUUEpVch5O9P/7WboTaSgi29SJYJCNZEUReXCDlq33Ji/JBKo1A6peHRpVMrL8fQnW6jFSlFI21KzJTS3xMLVFb2GK7dPmXALoV6OvNrUIXICwslvCwOCLC03DzjEDinYjI0geHhRb4WXqgsJSjtJWTvSqUltoU9tcmUleQRGRIPEbmSoxWqLByiMHBPRNB6ypGbe2CRuSE0soOPwsbFJY2SM0sMdRbhDDPgPnzdK9f9ysK2NhIKC5txl+VgFgag6NkFWZL7bEyNEds4oq3pRdqNxmpESpqssPYkh9BTX4Wa7Oqyc+uZnV8Lr6ySOzsFSwxkiCoRc5obJ1QWTugsLBHbmGHzEKEj5kIVyNrFusvxUBvEcuWmiESeZCUXIOfMgVbkT8ic09sl4hwM3ZEZumJt40bMrELkWoPUsN8yYhUk5dWQFbmRnIyq8jJqqQgaz15WdVkpJYQFpLC/wHZU2wzShnyrwAAAABJRU5ErkJggg==
+ogTitle: tigovit Gründerin Tanja Hohenester im Interview - "Wir befinden uns
+  mitten in einem Wandel"
+excerpt: tigovit Gründerin Tanja Hohenester hat sich meinem Interview gestellt.
+  Das Gespräch war unglaublich interessant. Ich habe sehr viel über Grünen Tee
+  gelernt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_03_Tanja-Facebook__l.jpg
-labels:
-- Achtsamkeit
-- alternative Heilmethoden
-- Antioxidatien
-- Antioxidativ
-- Berlin
-- Charité
-- EGCG
-- Entzündungen
-- Ernährung
-- Ernährung & Gesundheit
-- Gesundheit
-- Grüner Tee
-- Grüntee Kapseln
-- Grüntee-Präparat
-- Interviews
-- Lebenseinstellung
-- mantra
-- Max Pett
-- München
-- Myome
-- Ohne Gelatine
-- Pfeffer
-- piperin
-- Tanja Hohenester
-- tigovit
-- vegan
-- vegane Ernährung
-- vegane Produkte
-- Yoga
+isAffiliate: false
+path: /2017/03/tigovit-interview/
+remoteLoadingImage: data:image/jpeg;base64,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
+typeName: Interview
+advertisement: true
+isWerbung: false
+fileName: 2017-03---tigovit-gruenderin-tanja-hohenester.md
+slug: tigovit-interview
+errors: {}
+date: 2017-03-06T09:13:51.000+00:00
 focusKeyword: tigovit
 status: publish
-isWerbung: false
-isAffiliate: false
-language: de
-errors: {}
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_51ff9f58-00f8-46eb-a5d5-a038cec12634-e1582794498595.png__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_51ff9f58-00f8-46eb-a5d5-a038cec12634-e1582794498595.png__m.jpg
+title: tigovit Gründerin Tanja Hohenester
 subTitle: Wir befinden uns mitten in einem Wandel
-advertisement: true
-
+seoTitle: tigovit Gründerin Tanja Hohenester im Interview - "Wir befinden uns
+  mitten in einem Wandel"
+description: tigovit Gründerin Tanja Hohenester hat sich meinem Interview
+  gestellt. Das Gespräch war unglaublich interessant. Ich habe sehr viel über
+  Grünen Tee gelernt.
+language: de
+type: Artikel
+labels:
+  - Achtsamkeit
+  - alternative Heilmethoden
+  - Antioxidatien
+  - Antioxidativ
+  - Berlin
+  - Charité
+  - EGCG
+  - Entzündungen
+  - Ernährung
+  - Ernährung & Gesundheit
+  - Gesundheit
+  - Grüner Tee
+  - Grüntee Kapseln
+  - Grüntee-Präparat
+  - Interviews
+  - Lebenseinstellung
+  - mantra
+  - Max Pett
+  - München
+  - Myome
+  - Ohne Gelatine
+  - Pfeffer
+  - piperin
+  - Tanja Hohenester
+  - tigovit
+  - vegan
+  - vegane Ernährung
+  - vegane Produkte
+  - Yoga
 ---
 **Letztens habe ich Euch hier tigovit [vorgestellt](/2017/02/tigovit-gruener-tee-in-hohen-dosen/). Das Präparat wehrt mit seiner extrem hohen Dosierung an EGCG, das aus Grünem Tee gewonnen wird, aktiv freie Radikale ab und stärkt das Immunsystem.**
 
@@ -64,8 +65,8 @@ advertisement: true
   alt={`tigovit`}
   size="medium"
   title={`Tanja stellt tigovit vor`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_b2d461f3-75ed-498f-b170-d7cf49409a89.jpeg__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_b2d461f3-75ed-498f-b170-d7cf49409a89.jpeg__l.jpg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_b2d461f3-75ed-498f-b170-d7cf49409a89.jpeg**m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_b2d461f3-75ed-498f-b170-d7cf49409a89.jpeg**l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFAwYH/8QAKxAAAgEDBAAFAgcAAAAAAAAAAQIDBAURAAYSIQcUIjFBUYEWJDKDkaHD/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EABwRAAIDAQADAAAAAAAAAAAAAAECABEhAxNBUf/aAAwDAQACEQMRAD8AZsWwNrXmz0VfA1Y8FTArho6og8sYYdofZgw+2mZfCbbCFOdTd4y+SAJlf/PWXhLWqmwLSoYsUaZcfuscf3p6570mprnXK4jS3U4SOGVARyZh6g2T339NZ3VyiFhssDEmrnFeImy7LtuyQVVvqqyWpkqhCI5mUrw4sSelBz0P50ai+It9kutRRsJfy0YfhGM4DdZbv5+NGgRy6gmUrVZPetrbD25t62UNqguU8kkSNPM0rKyzsV9ZKH9AzggA9dDJ71O3TsSnvCUvkLlCFVo3iglplcRpyyVVS+CRlmw3yANampRZlRh7glcDOR7j7jRHURqxbiSM5xx0/wAgPqSnkfsn/geyUEtG01jWeopY5D5ny/JJwPRl05cQzZ5YIz8/GjVymrkaWQqvEKvv9NGls1nMjE5kCp//2Q=="
 />
 
@@ -91,8 +92,8 @@ Daher habe ich mich Gründerin Tanja Hohenester zum Interview verabredet. Im Ges
   alt={`tigovit`}
   size="medium"
   title={`Tanja auf einer Messe`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_7d98184e-2e08-419c-bfbc-bec028431be7.jpeg__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_7d98184e-2e08-419c-bfbc-bec028431be7.jpeg__l.jpg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_7d98184e-2e08-419c-bfbc-bec028431be7.jpeg**m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_7d98184e-2e08-419c-bfbc-bec028431be7.jpeg**l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcCBgMECP/EAC0QAAIBAwIFAgQHAAAAAAAAAAECAwQFEQAGBxIhMVETQQgiMnEUJGGBkZLB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAIBEAAgICAAcAAAAAAAAAAAAAAQIAEQMhIjJBUXHR8P/aAAwDAQACEQMRAD8A5tQxyGAFMIDhunceMLg+3nOsrxtKJ3iQrEXJ5MkBQew+Zsnp9z50c4f7Yqt636nskVdHTAxTTqZFaRV5RkgKD3Om7B8OTxrz1m5wD06Q20A/yz/5rSKlGYsbMSNzq6irhjWoneRkAwZatpcAewHYD7ailZOIYkSplARcYWlXA6k9/fv3OrnxH4fUu0902C00tdVVa3BUd3kVYyCZvTwAv6ddHtoUPDi122SDdMtyqq0zF0kpkWVfTIXAyOxyG6alaqQh8xEk7EG8EqWso9yQV1AiPVzW65/hhnOZI6c4U4wfqK9vI09uE15nvfDO0ySMjVUamFioYkn6gW/sBgeM+/SzbV2JtjbUXoWWCWPnQoWlmaVsE5bBPYtjrjGcDwNa+9aOz7V4evSQU9JTWgFIJYlQqoRmLZAByTnAHXOSNDIx5j0+9TUW+HvEnx0fl4i7IdxzFUQkDucVftnVVpLNsqO129rhf7yauWASyrRUSyxxsSSUzjoR40x/iJip0k2dd7fLCbbIY3KMn5jmWTmGARzhcM+ewyBnrjSjprZOsQ5XYcx5sfN0z++i+ZNEmURHU6n/2Q=="
 />
 
@@ -142,8 +143,8 @@ Das EGCG wird für tigovit in einem einwöchigen Prozess aus dem Grünen Tee her
   alt={`tigovit`}
   size="medium"
   title={`Tanja mit einem Kunden aus Mykonos`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_9be1f28e-428d-4fda-ad8b-88d770fbf0db.jpeg__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_9be1f28e-428d-4fda-ad8b-88d770fbf0db.jpeg__l.jpg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_9be1f28e-428d-4fda-ad8b-88d770fbf0db.jpeg**m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_9be1f28e-428d-4fda-ad8b-88d770fbf0db.jpeg**l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKhAAAQMEAAQGAgMAAAAAAAAAAQIDBAAFESEGEzFBEhQiUWFxMqFSgZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQP/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDEQQhEiJxocH/2gAMAwEAAhEDEQA/AJOKocq0WhpqXy9seFPqGQSrZ+vTWf221uzZjjQjOyJPiAbYSPyyMhSj2GO3f4FPOI+NHEXOY1Pt7HMDTjYXEcJCXCnAUM66nPtn41WYmUnzIcQopDQylQ6pVkEb99fql5GQ17wTulbdnGauY9rU4tniKeDtzlOXCXpPlYJBSnsElf4pA9k5xRSm3XJ5Zkr83IjqS2COWo5KiASk4xjWTRTWmEAEVvx9WwmAGmqiP3EOzclRJOc5+TXfZpKIRuEpyI3IZ5QaUlWNKWdKGQf4npvdV2WkBznNn0Hf1TjhdRnSHLfpaJASpagdoCDnP7x/dQQARtRwKdScWuYZF9fTGJBfR4gFDooAdQD9/wC0Va7fDYhkcppCQBjQ7fdFaxSANpPZVdl//9k="
 />
 
@@ -191,17 +192,13 @@ Auch der Druck der Patienten wächst. Viele sagen ganz klar "Nein, ich möchte k
 
 **Tanja:** Das mache ich auf jeden Fall! Vielen Dank für Deine Fragen! Wir bleiben in Kontakt!
 
-Auf Facebook findet Ihr tigovit [hier](https://www.facebook.com/Tigovit-1614517965457828/?fref=ts).
-
-Zu Tanjas Instagram-Album geht es [hier entlang](https://www.instagram.com/tigovit78/).
-
-[Hier findet Ihr die Homepage](https://tigovit.com/) von tigovit.
+[Hier findet Ihr die Homepage](https://www.tigovit.com/?ptn=AnneReis) von tigovit.
 
 <RemoteImage
   alt={`tigovit`}
   size="full"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png__l.jpg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png**m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png**l.jpg"
   loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAJCAYAAABT2S4KAAAACXBIWXMAAAsTAAALEwEAmpwYAAADvUlEQVQ4jT3RS4gcRRjA8W9YFjyJp6zm7NGL4EG8hj0peFBI8CpI9iABjx7U4EENilF0dRfJYxVRSQxmNSZZk112Z58zs/PomZ7ueew8dmeme6afVdU1XTXd80mvxIKi4MdX8KcKXGcEw2EXLGs4Y9sjcF3vVctybpimcd91nKvE9y52O61nGGUvWZZz0zSNvx3H/or63kK305qLIzxrW86SaZr3bGv0AyPk0qB3/LwU8jnbdhcTt6zRNUbJu0Oz/0q304b07g7oNf10g+c5YFknYBja7NBswmjUrplGC/k4RNu2UFXLqJQrt2yr87thtJHzMTqOjVW1giWlvEb8/qXBoImMBUiIhzW9isVSqeU4/Q+MQRMpo0gpQV2rYkWtYLdchIqmgapVU5qmAfi+B447AM93Zj3fBULYhu0SjBAZYYLkCwoqZe07ISZXnzgNJCkWkwD1Z0Q877g+hhOkIsJAUapYLFZ2pYzfcT2KXMZ0MsUgmVerNa+Q3wK91gBNr6c0XQOgjAELCASczfKxgICLNKUdbFQ/lIbZlkppHfOHa0tRjN9QdoL16kdiMKiJSjmN+cP7vyDiWyywsVX/TPR6e5GuFTCbuXMwiXGBcw9bjc+FYWSiqprDsvKIrK+eg6NuDPVmO6UlXxBwDqEIIQyD2XEYAh+HaT42US19Ivr9qlAraSyWDpajOPqWjy1UlSui11NEVU1jScn8mgSEgmBdWxTd9uakXsthvrBxEMW4IGSAzdqS6B1vR7qeRVXdp5Xcp+D4CGVV+y8gDEMIgiHIiZwVIgQpp+tCjhERxTicSr3WxGbrZBERv5RSnLoQKGr1Fjaa7eQL3gxDlniIiFGj2cZa/WgPEd8Wkv/vtfoRtjon3vLyEly/eQMQMWU5dhIwBs8tgj06mHWdCjA20Bitn16kjNCDXA6z+cpvPOjdfuIsoDRzmMPMYeEB5/57xFdPw6JIBoeFAu5ncxql7mVG9cTldBrzbD6PRUWZAsBTADAzsq3U+QsXkgAO5uAhHLevzfSPb8HQePz+yFxPLqJPfNzPZPDPvx59n8+uXLRHG3HihFLM5HL48J+NldU/vj43Mu6ROEYUUmIS8Hhja3vtwU+vDQd3rekUUU4iPCwUcWd3twEAZwDgadd1U/Pz8wBBYEP/+DYMBkMghIJr7wGiDlLii+bQ/OLHlesvIyKEvAxjdpA83Quu515ZvXvn1ANWBeJtQhzjWcaCj7e3N19PnAcN4CybzD/LOb+8s7P1RuLlsgLJOjM3d3r+C6R1j2QIm/gAAAAAAElFTkSuQmCC"
 />
 
