@@ -1,5 +1,5 @@
 ---
-date: 2021-11-12T14:11:48.497Z
+date: 2021-11-22T09:00:48.497Z
 slug: color-of-time-en
 typeName: Review
 title: '"Color of Time"'
