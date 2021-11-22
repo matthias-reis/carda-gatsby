@@ -110,7 +110,7 @@ In den Kapseln ist Koffein nur in Spuren enthalten. Drei davon enthalten ungefä
 
 ## Wo kommt es her?
 
-Die Firma hat ihren Sitz in München Grünwald. Weitere Infos sind außerdem auf der [Homepage](https://tigofit.com)  von _tigovit_ zu finden.
+Die Firma hat ihren Sitz in München Grünwald. Weitere Infos sind außerdem auf der [Homepage](https://www.tigovit.com/?ptn=AnneReis)  von _tigovit_ zu finden.
 
 ## Mein Fazit
 
