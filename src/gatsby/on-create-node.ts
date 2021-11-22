@@ -32,9 +32,9 @@ export const onCreateNode = async ({
 
     // convert image paths for gatsby images
     const parent = getNode(node.parent!);
-    const type = parent.sourceInstanceName;
-    const name = parent.name as string;
-    const relativePath = parent.relativePath as string;
+    const type = parent!.sourceInstanceName;
+    const name = parent!.name as string;
+    const relativePath = parent!.relativePath as string;
 
     let year: string;
     let month: string;

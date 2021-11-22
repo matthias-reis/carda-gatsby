@@ -1,3 +1,8 @@
 {
-  "extends": ["plugin:mdx/recommended"]
+  "extends": ["plugin:mdx/recommended"],
+  "plugins": ["@emotion"],
+  "rules": {
+    "@emotion/jsx-import": "error",
+    "@emotion/pkg-renaming": "error"
+  }
 }
