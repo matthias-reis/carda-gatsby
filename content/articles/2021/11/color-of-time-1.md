@@ -56,7 +56,7 @@ Ich wollte meinen Ohren kaum trauen, als sich Kévin Séry aka From Overseas bei
 
 ![Tyresta & From Overseas – "Color of Time"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/color-of-time-cover-jpg-imagine-283828_4d4430_3000_3000/640.webp "Tyresta & From Overseas – \\\\"Color of Time\\\\"")
 
-Für Kévin ist "Color of Time" ein weiterer wichtiger Meilenstein. Es handelt sich um ein Long Distance Ambient Drone Projekt, das er gemeinsam mit Nick Turner, auch bekannt unter dem Namen Tyresta, mithilfe von Gitarren (inklusive Geigenbogen), Synthesizern, einem Mellotron und diversen Effekten aufgenommen hat. 
+Für Kévin ist "Color of Time" ein weiterer wichtiger Meilenstein. Es ist ein Long Distance Ambient Drone Projekt, das er gemeinsam mit Nick Turner, auch bekannt unter dem Namen Tyresta, mithilfe von Gitarren (inklusive Geigenbogen), Synthesizern, einem Mellotron und diversen Effekten aufgenommen hat. 
 
 Die insgesamt sechs Songs (plus eine exklusive 30-minütige Herbst-Session auf der Kassetten-Version) handeln von Vergänglichkeit, Verlust und dem Einfluss, den Menschen aufeinander und auf den Planeten haben. Das Album steht also ganz im Zeichen der Zeit und kommt genau im richtigen Moment.
 
@@ -78,7 +78,7 @@ Eine Lawine löst sich und der nächste Song beginnt: "Avalanche" spannt den Gei
 
 Wenn Ihr wie ich die Version auf Kassette hört, bekommt Ihr neben den offiziellen Songs ein 30-minütiges Set auf die Ohren. Kévin und Nick haben es zum zweijährigen Jubiläum von 9128.live aufgenommen. Auch hier erwartet Euch ein feiner Hörgenuss, Ihr solltet also besser nicht darauf verzichten.
 
-"Color of Time" ist im Sommer des Jahres 2020 erschienen. Das Vinyl- und Digital-Mastering hat Stephan Mathieu im Studio Schwebung gemacht. Die Autumnal Session für 9128 Broadcast hat James Bernard im Ambient Mountain House gemastert. Das Artwork stammt von Jason Akira Somma und das Layout und Design von Zakè.
+"Color of Time" ist im Sommer des Jahres 2020 entstanden. Das Vinyl- und Digital-Mastering hat Stephan Mathieu im Studio Schwebung gemacht. Die Autumnal Session für 9128 Broadcast hat James Bernard im Ambient Mountain House gemastert. Das Artwork stammt von Jason Akira Somma und das Layout und Design von Zakè.
 
 Mellotron & Gitarre: Nick Turner
 OP-1 & Gitarre: Kévin Séry
