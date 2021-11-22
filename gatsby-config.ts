@@ -51,9 +51,9 @@ export default {
                 description: `<p style="font-size: 1.5em; color: #fff">${
                   edge.node?.frontmatter?.subTitle
                 }</p>
-<p><img src="${
-                  site.siteMetadata.siteUrl + edge.node?.frontmatter?.image
-                }" alt="${edge.node?.frontmatter?.title}" /><p>
+<p><img src="${edge.node?.frontmatter?.image}" alt="${
+                  edge.node?.frontmatter?.title
+                }" /><p>
 <p style="font-size: 1.25em;  color: #f0ecee">${
                   edge.node.frontmatter?.excerpt ||
                   edge.node.frontmatter?.description
