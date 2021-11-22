@@ -1,6 +1,7 @@
 import * as React from 'react';
 import { Helmet } from 'react-helmet';
 import { pageView } from './analytics';
+import { Imagine } from './imagine';
 import type { Article } from '../types';
 
 const SERVER = `https://cardamonchai.com`;
@@ -12,6 +13,7 @@ export const PageMeta: React.FC<{
   React.useEffect(() => {
     pageView(meta.frontmatter.title, path);
   }, [meta, path]);
+  const img = new Imagine(meta.frontmatter.ogImage);
   return (
     <Helmet>
       <title>{meta.frontmatter.seoTitle || meta.frontmatter.title}</title>
@@ -54,15 +56,15 @@ export const PageMeta: React.FC<{
       />
       <meta
         property="og:image"
-        content={`${SERVER}${meta.frontmatter.ogImage || '/img/opengraph.png'}`}
+        content={`${meta.frontmatter.ogImage || '/img/opengraph.png'}`}
       />
       <meta
         property="twitter:image"
-        content={`${SERVER}${meta.frontmatter.ogImage || '/img/opengraph.png'}`}
+        content={`${meta.frontmatter.ogImage || '/img/opengraph.png'}`}
       />
       //todo: add proper sizes based on image url
-      <meta property="og:image:width" content={'1200'} />
-      <meta property="og:image:height" content={'630'} />
+      <meta property="og:image:width" content={img.meta.width.toString()} />
+      <meta property="og:image:height" content={img.meta.height.toString()} />
     </Helmet>
   );
 };
