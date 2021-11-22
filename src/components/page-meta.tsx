@@ -13,7 +13,13 @@ export const PageMeta: React.FC<{
   React.useEffect(() => {
     pageView(meta.frontmatter.title, path);
   }, [meta, path]);
-  const img = new Imagine(meta.frontmatter.ogImage);
+  let w = 1200;
+  let h = 630;
+  if (meta.frontmatter.ogImage) {
+    const img = new Imagine(meta.frontmatter.ogImage);
+    w = img.meta.width;
+    h = img.meta.height;
+  }
   return (
     <Helmet>
       <title>{meta.frontmatter.seoTitle || meta.frontmatter.title}</title>
@@ -63,8 +69,8 @@ export const PageMeta: React.FC<{
         content={`${meta.frontmatter.ogImage || '/img/opengraph.png'}`}
       />
       //todo: add proper sizes based on image url
-      <meta property="og:image:width" content={img.meta.width.toString()} />
-      <meta property="og:image:height" content={img.meta.height.toString()} />
+      <meta property="og:image:width" content={w.toString()} />
+      <meta property="og:image:height" content={h.toString()} />
     </Helmet>
   );
 };
