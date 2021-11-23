@@ -113,7 +113,7 @@ Back then, as a student, I was one of the few vegans in the whole school – may
 
 **Anne:** Can you imagine letting that flow into your songs, or do you already do that? Are you already doing that?
 
-## "Fried food is the best the day after a gig"
+## "Fried vegan food is the best the day after a gig"
 
 **Rodney:** I would love to incorporate it into the music. I think it's a hugely important subject and should be tackled much more often.
 
