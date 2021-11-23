@@ -58,7 +58,7 @@ Die Tagescreme von tigoderm ist die erste vegane Naturkosmetik mit aktiven Antio
 
 <Gallery name="tigoderm-1" />
 
-# tigoderm Probiotische Nachtpflege mit Bazillus Subtiliskulturen
+# tigoderm – probiotische Nachtpflege mit Bazillus Subtiliskulturen
 
 Die Nachtpflege kommt mit einem ganz besonderen Trick daher: Sie wirkt mit einem therapeutischen Probiotikum besonders beruhigend und pflegend. Die Bazillus Subtiliskulturen sollen die Haut über Nacht in Balance bringen, indem sie eventuellen Fehlbesiedelungen zum Beispiel durch Viren oder Pilze entgegenwirkt. Zusätzlich wird die Haut mit Rosenöl, Jojobaöl und Sheabutter geschmeidig gepflegt – die bekommt die Chance, sich im Schlaf zu regenerieren.
 
