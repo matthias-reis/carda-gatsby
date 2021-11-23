@@ -48,7 +48,7 @@ Die sekundären Pflanzenstoffe ([besonders das EGCG](/2017/02/tigovit-gruener-te
 
 > "Ohne die richtigen Mikroorganismen wäre unsere Haut schutzlos. Die Vielfalt entscheidet über unsere Hautfunktion und der Bacillus Subtilis spielt dabei eine Dirigentenrolle."
 
-## tigoderm Grüntee Tagescreme
+## Grüntee Tagescreme
 
 Die Tagespflege soll also vor schädlichen Umwelteinflüssen schützen. Außerdem wirkt sie Unreinheiten entgegen und soll die Haut elastisch halten und ihre Spannkraft fördern.
 
@@ -58,7 +58,7 @@ Die Tagescreme von tigoderm ist die erste vegane Naturkosmetik mit aktiven Antio
 
 <Gallery name="tigoderm-1" />
 
-# tigoderm – probiotische Nachtpflege mit Bazillus Subtiliskulturen
+# Probiotische Nachtpflege mit Bazillus Subtiliskulturen
 
 Die Nachtpflege kommt mit einem ganz besonderen Trick daher: Sie wirkt mit einem therapeutischen Probiotikum besonders beruhigend und pflegend. Die Bazillus Subtiliskulturen sollen die Haut über Nacht in Balance bringen, indem sie eventuellen Fehlbesiedelungen zum Beispiel durch Viren oder Pilze entgegenwirkt. Zusätzlich wird die Haut mit Rosenöl, Jojobaöl und Sheabutter geschmeidig gepflegt – die bekommt die Chance, sich im Schlaf zu regenerieren.
 
