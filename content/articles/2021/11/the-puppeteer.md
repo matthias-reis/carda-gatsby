@@ -121,7 +121,7 @@ Because "The Puppeteer" tells a fictional story, it's not an issue in this case.
 
 **Anne:** What is your favourite thing to eat after a hard gig?
 
-**Rodney:** To be honest, I usually don't eat anything after a performance because it's usually too late. The next day, however, I eat even more – preferably something greasy, of course. Preferably french fries, maybe some fancy substitute like nuggets –  and lots of vegan mayonnaise! But as much as I love junk food sometimes, I also love to cook my own, and lasagne is a guarantee. I discovered it for myself over the Corona period. After a performance, however, it has to be quick. So fries with some deep-fried stuff are my first choice!
+**Rodney:** To be honest, I usually don't eat anything after a performance because it's usually too late. The next day, however, I eat even more – preferably something greasy, of course. For example french fries, and maybe some fancy substitute like nuggets –  and lots of vegan mayonnaise! But as much as I love junk food sometimes, I also love to cook my own, and lasagne is a guarantee. I discovered it for myself over the Corona period. After a performance, however, it has to be quick. So fries with some deep-fried stuff are my first choice!
 
 **Anne:** Enough about veganism. You formed in 2015 from the progressive deathcore band Lost Without Direction. How did the change come about?
 
