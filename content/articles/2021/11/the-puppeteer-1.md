@@ -157,3 +157,7 @@ Trotzdem arbeiten wir schon an den Tour-Plänen für
 2022 und haben auch schon zu einigen Bookern Kontakt aufgenommen. Mal sehen, wann es dann so weit ist, wir wollen nächstes Jahr auf jeden Fall auftreten.
 
 Monosphere besteht aus Kevin Ernst (Gesang), Max Rossol (Gitarre), Valentin Noack (Gitarre), Marlon Palm (Bass) und Rodney Fuchs (Schlagzeug). "The Puppeteer" ist ein großartiges Album voller Kontraste, über das wir sicher noch die ein oder andere Schlagzeile in den Musikmagazinen lesen werden. Fans von Metalcore und cinematischem Post-Metal und Bands wie Cult of Luna und Between The Buried And Me sollten es sich nicht entgehen lassen.
+
+## Monosphere – "I Am In Control, Pt. I" (ft. Nils Wittrock from The Hirsch Effekt)
+
+<YouTube id="hleIexamO9o" />
