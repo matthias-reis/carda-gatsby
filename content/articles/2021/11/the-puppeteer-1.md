@@ -146,6 +146,8 @@ Beinahe hätten wir die Platte sogar erst 2022 veröffentlicht, weil im Moment k
 
 **Anne:** Was steht für Euch als Nächstes an? Mit dem Touren könnte es ja auf kürzere Sicht erstmal wieder kompliziert werden, wenn man sich die COVID-Zahlen so anschaut. Schraubt Ihr an neuen Songs?
 
+## "Wir wollen unbedingt auf Tour gehen!"
+
 **Rodney:** Momentan bin ich noch komplett in der Promo fürs Album gefangen und absolut leer, was neue Songs betrifft. Es gibt zwar Skizzen und fertige Demos und das Ziel ist es, so schnell wie möglich weiter daran zu arbeiten, aber ich
 persönlich brauche auch erstmal eine Pause. Ich muss einen gewissen Abstand gewinnen, um mich neuer Musik widmen zu können. Auch weil wir
 erstmal sehen wollen, wie unsere bisherige Musik aufgenommen wird – daraus wird sich bestimmt auch die ein oder andere Idee ergeben. Für 2022
