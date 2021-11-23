@@ -44,7 +44,7 @@ languageLink: /2021/11/monosphere-the-puppeteer-en/
 
 ## Eine fiktive Welt
 
-![Monosphere – "The Puppeteer" Cover-Bild (Ein abstraktes Gesicht, geformt aus weißen Kabeln vor einem pinken Hintergrund)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-cover-jpg-imagine-e8a898_b184ad_1080_1080/640.webp "Monosphere – \\\\\"The Puppeteer\\\\\"")
+![Monosphere – "The Puppeteer" Cover-Bild (Ein abstraktes Gesicht, geformt aus weißen Kabeln vor einem pinken Hintergrund)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-cover-jpg-imagine-e8a898_b184ad_1080_1080/640.webp "Monosphere – \\\\\\"The Puppeteer\\\\\\"")
 
 Auch die Verknüpfung mit den Musikvideos, den Designs und sogar unser Instagram-Channel sind Teil des Konzepts, das wir mit "The Puppeteer" verfolgen. Der Puppenspieler selbst ist eine fiktive Figur, die in der Geschichte mit einer weiteren Figur in einer fiktiven Welt lebt. Man könnte sagen es ist eine Liebesgeschichte, aber unser Sänger Kevin, der die Texte geschrieben hat, würde das nicht zwingend so unterschreiben (lacht).
 
@@ -61,7 +61,7 @@ publizieren.
 
 **Rodney:** Für mich liegt eigentlich jedem Album auch ein Konzept zugrunde. Denn schließlich muss mich ja irgendwas dazu veranlasst haben, eine Kollektion von Songs auf einen Tonträger zu packen. Ein konzeptloses Album ist für mich im Grunde ein Album, das einfach nur eine Ansammlung verschiedener Singles ist, die nur aus Marketinggründen auf eine Platte gepresst werden, um damit Umsätze zu generieren – ohne roten Faden und ohne die Idee dahinter, ein Album zu schreiben. Auf diese Art kann aus einem Album eigentlich kein richtiges Album werden.
 
-Der Begriff "Album" stammt ja eigentlich aus der klassischen Musik, beziehungsweise aus der Zeit der Schellackplatten, bei denen jede Seit nur drei bis fünf Minuten Spielzeit hatte. Um ein ganzes Werk, wie zum Beispiel eine zusammenhängende Sinfonie, zu hören, benötigte man mehrere Platten, die zusammen in großen Alben gesammelt wurden. Der Begriff leitet sich vom lateinischen Wort "albus" ("weiß") ab – die Rückseiten der Hüllen waren meistens weiß.
+Der Begriff "Album" stammt ja eigentlich aus der klassischen Musik, beziehungsweise aus der Zeit der Schellackplatten, bei denen jede Seite nur drei bis fünf Minuten Spielzeit hatte. Um ein ganzes Werk, wie zum Beispiel eine zusammenhängende Sinfonie, zu hören, benötigte man mehrere Platten, die zusammen in großen Alben gesammelt wurden. Der Begriff leitet sich vom lateinischen Wort "albus" ("weiß") ab – die Rückseiten der Hüllen waren meistens weiß.
 
 **Anne:** Eure Musik spielt sich zwischen Post-Metal, Mathcore und Prog ab. Welche Bands würdest Du hier als Eure größten Einflüsse bezeichnen?
 
