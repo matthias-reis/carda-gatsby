@@ -128,7 +128,7 @@ Weil "The Puppeteer" eine fiktive Geschichte erzählt, ist es in diesem Fall kei
 
 ![Monosphere (Sepia-farbenes Foto der Band hinter dem Eingang einer Beton-Ruine)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-3-jpg-imagine-080808_615c59_1024_768/640.webp "Monosphere")
 
-**Rodney:** Um ehrlich zu sein, esse ich nach Auftritten meist gar nichts, weil es meist schon zu spät ist. Am nächsten Tag esse ich dafür dann aber umso mehr – am liebsten natürlich irgendetwas Fettiges. Am liebsten Pommes und dazu vielleicht irgendein ausgefallenes Ersatzprodukt, wie Nuggets und ganz viel vegane Mayo! Aber so sehr ich Junkfood manchmal liebe, so sehr liebe ich es auch, selbst zu kochen und da ist Lasagne ein absoluter Garant. Ich habe sie über die Corona-Zeit für mich entdeckt. Nach einem Auftritt muss es aber am besten schnell gehen. Da sind Fritten mit etwas Paniertem für mich die allererste Wahl!
+**Rodney:** Um ehrlich zu sein, esse ich nach Auftritten meist gar nichts, weil es meist schon zu spät ist. Am nächsten Tag esse ich dafür dann aber umso mehr – am liebsten natürlich irgendetwas Fettiges. Also zum Beispiel Pommes und dazu vielleicht irgendein ausgefallenes Ersatzprodukt, wie Nuggets und ganz viel vegane Mayo! Aber so sehr ich Junkfood manchmal liebe, so sehr liebe ich es auch, selbst zu kochen und da ist Lasagne ein absoluter Garant. Ich habe sie über die Corona-Zeit für mich entdeckt. Nach einem Auftritt muss es aber am besten schnell gehen. Da sind Fritten mit etwas Paniertem für mich die allererste Wahl!
 
 **Anne:** Genug zum Thema Veganismus. Ihr habt Euch 2015 aus der Progressive Deathcore Band Lost Without Direction gegründet. Wie kam es zu dem Wechsel?
 
