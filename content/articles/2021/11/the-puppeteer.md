@@ -109,7 +109,7 @@ The question is, of course, where activism begins and where it ends. Bloggers ar
 
 **Rodney:** Yes, I meet new people every week and often converse with them on topics like veganism. I can't say precisely how many people I've been able to inspire.
 
-Back then, as a student, I was one of the few Vegan in the whole school – maybe even the only one in my grade. By the time I did my A-levels, at least five in my year and a few more in the sixth form. Back then, many came to me and asked me for tips. Maybe there may be many more than I think. But that's not what it's all about for me either. I am happy when I can "infect" others with my enthusiasm. After all, everyone benefits from it.
+Back then, as a student, I was one of the few vegans in the whole school – maybe even the only one in my grade. By the time I did my A-levels, at least five in my year and a few more in the sixth form. Back then, many came to me and asked me for tips. Maybe there may be many more than I think. But that's not what it's all about for me either. I am happy when I can "infect" others with my enthusiasm. After all, everyone benefits from it.
 
 **Anne:** Can you imagine letting that flow into your songs, or do you already do that? Are you already doing that?
 
