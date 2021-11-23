@@ -28,6 +28,8 @@ labels:
   - Heavy Music
   - vegan celebrities
   - Metalcore
+  - Audiosiege
+  - The Mixing Mine
 focusKeyword: Monosphere
 advertisement: false
 affiliate: false
