@@ -14,9 +14,9 @@ excerpt: "Hier kommt auch schon der nächste Geschenktipp für Euch: Von tigovit
   ziemlich klasse. Es gibt eine Tages- und eine Nachtpflege. Beide laufen unter
   dem Label tigoderm und sind im Set erhältlich, das auch bei mir gerade im
   Einsatz ist."
-image: /img/2021-11-16-94-tigoderm.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-23/2021-11-16-94-tigoderm-jpg-imagine-a8b8b8_8ba1a4_1024_768/640.webp
 copyrigt: ""
-ogImage: /img/tigoderm-fb.png
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-23/tigoderm-fb-png-imagine-c8c8c8_7f8d8f_1200_628/640.webp
 labels:
   - tigoderm
   - tigovit
