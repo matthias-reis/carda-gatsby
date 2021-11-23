@@ -110,7 +110,7 @@ Ich bin auch nach fast zehn Jahren noch fest überzeugt davon, die richtige Ents
 
 Die Frage ist natürlich auch, wo Aktivismus anfängt und wo er aufhört. Auch Blogger⋆innen sind in gewisser Weise Aktivist⋆innen. Wenn man zum Beispiel Flyer oder Sticker mit auf Tour nimmt, die man unterwegs verteilt, hat man schnell ein kleines Feuer entfacht. Ich selbst bin genau durch solche Aspekte zum Veganismus gekommen. Ich denke, dass viele ihre Musik als Vehikel nutzen, ihre Überzeugungen zu verbreiten – wie das ja zum Beispiel auch beim Straight Edge Hardcore der Fall ist. Dass man als Metal Musiker in einer links-grün orientierten Szene unterwegs ist, macht es einem natürlich noch einfacher, vegan zu leben.
 
-**Anne:** Du lernst durch die Band eine Menge Menschen kennen und hast unter Rodey's Vegan World selbst lange zum Thema veganes Leben gebloggt. Hast Du eine Vorstellung davon, wie viele Menschen Du bis zum heutigen Tag für den Veganismus begeistern konntest?
+**Anne:** Du lernst durch die Band eine Menge Menschen kennen und hast unter Rodey's Vegan World selbst lange zum Thema veganes Leben gebloggt. Hast Du eine Vorstellung davon, wie viele Leute Du bis zum heutigen Tag für den Veganismus begeistern konntest?
 
 **Rodney:** Ja, ich treffe tatsächlich jede Woche neue Menschen und komme mit ihnen oft auch zu Themen wie Veganismus ins Gespräch. Wie viele Menschen ich schon dafür begeistern konnte, kann ich nicht genau sagen.
 
