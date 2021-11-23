@@ -149,7 +149,7 @@ Beinahe hätten wir die Platte sogar erst 2022 veröffentlicht, weil im Moment k
 ## "Wir wollen unbedingt auf Tour gehen!"
 
 **Rodney:** Momentan bin ich noch komplett in der Promo fürs Album gefangen und absolut leer, was neue Songs betrifft. Es gibt zwar Skizzen und fertige Demos und das Ziel ist es, so schnell wie möglich weiter daran zu arbeiten, aber ich
-persönlich brauche auch erstmal eine Pause. Ich muss einen gewissen Abstand gewinnen, um mich neuer Musik widmen zu können. Auch weil wir
+persönlich brauche auch erstmal eine Pause. Ich muss einen gewissen Abstand gewinnen, um mich neuer Musik widmen zu können. Auch, weil wir
 erstmal sehen wollen, wie unsere bisherige Musik aufgenommen wird – daraus wird sich bestimmt auch die ein oder andere Idee ergeben. Für 2022
 haben wir außerdem den Release einer Instrumentalversion der Platte vorgesehen. Eventuell wird es von einigen Tracks eine Piano-Version oder ein paar Remixe. Wir haben einige Ideen, die wir gerne ausprobieren wollen.
 
