@@ -38,7 +38,7 @@ language: de
 ---
 **Hier kommt auch schon der nächste Geschenktipp für Euch: Von tigovit gibt es jetzt auch Hautpflegeprodukte! Ich habe sie getestet und finde sie ziemlich klasse. Es gibt eine Tages- und eine Nachtpflege. Beide laufen unter dem Label tigoderm. Bei mir ist im Moment gerade beides in Kombination im Einsatz.**
 
-Gehört Ihr auch zu den Menschen, die sich selten selbst etwas Besonderes gönnen? Besonders Eurer Haut? Ich verrate Euch jetzt mal was: Das geht ganz vielen Menschen so. Darum könnt Ihr auch ziemlich sicher gehen, dass Ihr dieser einen ganz besonderen Person in Eurem Leben mit veganer Naturkosmetik eine echte Freude bereiten werdet.
+Gehört Ihr auch zu den Menschen, die sich selten selbst etwas Besonderes gönnen? Besonders Eurer Haut? Ich verrate Euch jetzt mal was: Das geht ganz vielen so. Darum könnt Ihr auch ziemlich sicher gehen, dass Ihr dieser einen ganz besonderen Person in Eurem Leben mit veganer Naturkosmetik eine echte Freude bereiten werdet.
 
 Die [tigoderm Produkte](https://www.tigovit.com/product/tigoderm-doppelpack/?ptn=AnneReis) basieren, genau wie tigovit auf wertvollem Grüntee-Extrakt. Es soll nicht nur von innen vor freien Radikalen schützen und entgiftend wirken, sondern auch beim Auftragen auf die Haut. Hinzu kommt eine Weltneuheit in der Kosmetik-Industrie: Ein therapeutisches Probiotikum sowie Bazillus Subtiliskulturen sollen der Gesichtshaut über Nacht die ideale Pflege geben.
 
