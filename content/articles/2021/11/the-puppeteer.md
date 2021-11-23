@@ -153,7 +153,7 @@ For 2022 we plan to release an instrumental version of the record. Maybe there w
 
 Nevertheless, we are already working on tour plans for 2022 and have already contacted some bookers. We'll see when the time comes. We definitely want to perform next year.
 
-Monosphere consist of Kevin Ernst (vocals), Max Rossol (guitar), Valentin Noack (guitar), Marlon Palm (bass) and Rodney Fuchs (drums). "The Puppeteer" is a great album full of contrasts, about which we will indeed read one or two headlines in the music magazines. Fans of metalcore and cinematic post-metal and bands like Cult of Luna and Between The Buried And Me should not miss it.
+Monosphere consist of Kevin Ernst (vocals), Max Rossol (guitar), Valentin Noack (guitar), Marlon Palm (bass) and Rodney Fuchs (drums). "The Puppeteer" is a great album full of contrasts, about which we will indeed read one or two headlines in the music magazines. Fans of metalcore, cinematic post-metal, and bands like Cult of Luna and Between The Buried And Me should not miss it.
 
 ## Monosphere – "I Am In Control, Pt. I" (ft. Nils Wittrock from The Hirsch Effekt)
 
