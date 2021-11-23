@@ -84,7 +84,7 @@ The rhythm of day and night squeezes us into a system that dictates a strong con
 
 **Anne:** You are producing concept videos for your songs. Will we see them at your live shows as well?
 
-**Rodney:** Yes! We work with a beamer at our live concerts that are pointed at us during our set and plays a video projection. Because the videos pick up the album's story, they only make real sense in combination with the shows. But even apart from the videos,
+**Rodney:** Yes! We work with a beamer at our live concerts that is pointed at us during our set and plays a video projection. Because the videos pick up the album's story, they only make real sense in combination with the shows. But even apart from the videos,
 enough material for a continuous projection. So the Monosphere shows follow an audiovisual concept. The moving pictures are supposed to create a unique overall experience in addition to the music.
 
 **Anne:** You told me that you have also been living vegan for almost ten years. How did that come about? What finally convinced you back then?
