@@ -30,6 +30,8 @@ labels:
   - Heavy Music
   - vegan celebrities
   - Metalcore
+  - Audiosiege
+  - The Mixing Mine
 focusKeyword: Monosphere
 advertisement: false
 affiliate: false
@@ -73,7 +75,7 @@ Der Begriff "Album" stammt ja eigentlich aus der klassischen Musik, beziehungswe
 
 ![Monosphere (Die Band steht hinter dem Eingang einer Beton-Ruine)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-1-jpg-imagine-081838_546173_1024_768/640.webp "Monosphere")
 
-**Rodney:** Wir haben zwar unser Album selbst produziert, das Mixing und Mastering jedoch an Profis abgegeben. Hier haben wir mit Phil Kaase von The Mixing Mine und Brad Boatright von Audiosiege zusammengearbeitet. Wir hätten das zwar auch selbst machen können, aber um ehrlich zu sein würde das Album dann bei weitem nicht so gut klingen. Was Labels betrifft: wir hatten durchaus Kontakt zu Labels bevor wir uns entschlossen haben, das Album selbst auf den Markt zu bringen. Es ging uns auch darum, uns selbst zu beweisen, dass wir auch ohne Label etwas reißen können. Ein Label würde uns schließlich nicht die Arbeit abnehmen, sondern auch bestimmte Ansprüche an uns stellen. Wir wollten auch keinen Label-Deal eingehen, bei dem wir mehr abgeben, als wir davon haben. Da wir sehr gut vernetzt sind und viele Kontakte haben, lag für uns die Entscheidung, es selbst zu machen, auf der Hand. Wenn sich in Zukunft etwas ergibt, sind wir natürlich potenziell trotzdem nicht abgeneigt. Der Deal sollte insgesamt halt auf alle Fälle stimmen und das Label muss zu uns passen. Doch im Moment ist das für uns erstmal Zukunftsmusik.
+**Rodney:** Wir haben zwar unser Album selbst produziert, das Mixing und Mastering jedoch an Profis abgegeben. Hier haben wir mit Phil Kaase von The Mixing Mine und Brad Boatright von Audiosiege zusammengearbeitet. Wir hätten das zwar auch selbst machen können, aber um ehrlich zu sein, würde das Album dann bei weitem nicht so gut klingen. Was Labels betrifft: wir hatten durchaus Kontakt zu Labels bevor wir uns entschlossen haben, das Album selbst auf den Markt zu bringen. Es ging uns auch darum, uns selbst zu beweisen, dass wir auch ohne Label etwas reißen können. Ein Label würde uns schließlich nicht die Arbeit abnehmen, sondern auch bestimmte Ansprüche an uns stellen. Wir wollten auch keinen Label-Deal eingehen, bei dem wir mehr abgeben, als wir davon haben. Da wir sehr gut vernetzt sind und viele Kontakte haben, lag für uns die Entscheidung, es selbst zu machen, auf der Hand. Wenn sich in Zukunft etwas ergibt, sind wir natürlich potenziell trotzdem nicht abgeneigt. Der Deal sollte insgesamt halt auf alle Fälle stimmen und das Label muss zu uns passen. Doch im Moment ist das für uns erstmal Zukunftsmusik.
 
 **Anne:** Euer Album lebt von seinen Kontrasten. Hell und dunkel, laut und leise, gut und böse. Spiegelt es das Leben wider?
 
