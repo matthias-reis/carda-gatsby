@@ -101,7 +101,7 @@ I am still firmly convinced after almost ten years that I made the right decisio
 
 ## "On tour, the vegan food is better."
 
-**Rodney:** I think that even many musicians who don't usually go vegan like to eat vegan food on tour because it's a specific guarantee of fresh food that provides vitamins. It might be a bit cliché, but any⋆r touring person is grateful for vegetables. I also work as a promoter, booker and band manager myself, and I experience this all the time. But I also think that the music business has its share. So many artists act as role models and sometimes educate people without necessarily appearing agitational or activist.
+**Rodney:** I think that even many musicians who don't usually go vegan like to eat vegan food on tour because it's a specific guarantee of fresh food that provides vitamins. It might be a bit cliché, but any touring person is grateful for vegetables. I also work as a promoter, booker and band manager myself, and I experience this all the time. But I also think that the music business has its share. So many artists act as role models and sometimes educate people without necessarily appearing agitational or activist.
 
 The question is, of course, where activism begins and where it ends. Bloggers are also activists in a way. For example, if you take flyers or stickers on a tour that you distribute along the way, you quickly start a small fire. I came to veganism precisely through such aspects. I think that many use their music as a vehicle to spread their convictions – as is the case with straight edge hardcore, for example. Being a metal musician in a left-green oriented scene makes it even easier to live vegan.
 
