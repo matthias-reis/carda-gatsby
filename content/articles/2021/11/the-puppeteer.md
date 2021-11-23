@@ -66,7 +66,7 @@ The term "album" actually comes from classical music, or from the time of shella
 
 ![Monosphere (Picture of the band standing behind the entry of a concrete ruin)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-1-jpg-imagine-081838_546173_1024_768/640.webp "Monosphere")
 
-**Rodney:** Our influences are as varied as our music. Bands like Between The Buried And Me, [The Ocean](/2020/09/the-ocean-robin-staps-interview-en), Rolo Tomassi, Cult Of Luna and Deafheaven, influenced me as well as composers like Philip Glass or Steve Reich did. In addition, neoclassical artists like Joep Beving had a significant impact on our songwriting. You can hear that especially in the track "no strings attached".
+**Rodney:** Our influences are as varied as our music. Bands like Between The Buried And Me, [The Ocean](/2020/09/the-ocean-robin-staps-interview-en), Rolo Tomassi, Cult Of Luna and Deafheaven, influenced me as well as composers like Philip Glass or Steve Reich did. In addition, neoclassical artists like Joep Beving had a significant impact on our songwriting. You can hear that especially in the track "No Strings Attached".
 
 **Anne:** You are a DIY band. Is it important to you to do the entire production yourself, or would you also work with sound engineers or a label, for example, if the opportunity arose?
 
