@@ -22,7 +22,6 @@ export default {
         createLinkInHead: true,
       },
     },
-    'gatsby-plugin-webpack-size',
     {
       resolve: `gatsby-plugin-feed`,
       options: {
