@@ -40,7 +40,7 @@ language: de
 
 Gehört Ihr auch zu den Menschen, die sich selten selbst etwas Besonderes gönnen? Besonders Eurer Haut? Ich verrate Euch jetzt mal was: Das geht ganz vielen so. Darum könnt Ihr auch ziemlich sicher sein, dass Ihr dieser einen ganz besonderen Person in Eurem Leben mit veganer Naturkosmetik eine echte Freude bereiten werdet.
 
-Die [tigoderm Produkte](https://www.tigovit.com/product/tigoderm-doppelpack/?ptn=AnneReis) basieren, genau wie tigovit auf wertvollem Grüntee-Extrakt. Es soll nicht nur von innen vor freien Radikalen schützen und entgiftend wirken, sondern auch beim Auftragen auf die Haut. Hinzu kommt eine Weltneuheit in der Kosmetik-Industrie: Ein therapeutisches Probiotikum sowie Bazillus Subtiliskulturen sollen der Gesichtshaut über Nacht die ideale Pflege geben.
+Die [tigoderm Produkte](https://www.tigovit.com/product/tigoderm-doppelpack/?ptn=AnneReis) basieren, ([genau wie tigovit](/2017/02/tigovit-gruener-tee-in-hohen-dosen/)), auf wertvollem Grüntee-Extrakt. Es soll nicht nur von innen vor freien Radikalen schützen und entgiftend wirken, sondern auch beim Auftragen auf die Haut. Hinzu kommt eine Weltneuheit in der Kosmetik-Industrie: Ein therapeutisches Probiotikum sowie Bazillus Subtiliskulturen sollen der Gesichtshaut über Nacht die ideale Pflege geben.
 
 ## Tag- und Nacht-Pflege von tigoderm im Test
 
