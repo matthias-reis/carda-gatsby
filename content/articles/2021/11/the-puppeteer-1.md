@@ -118,7 +118,7 @@ Ich weiß, dass ich damals als Schüler einer der wenigen Veganer⋆innen auf de
 
 **Anne:** Kannst Du Dir vorstellen, das in Eure Songs einfließen zu lassen oder tut Ihr das sogar schon?
 
-**Rodney:** Ich persönlich würde es gerne in die Musik einfließen lassen. Ich denke, dass das Thema ist enorm wichtig ist und viel häufiger angegriffen werden sollte.
+**Rodney:** Ich persönlich würde es gerne in die Musik einfließen lassen. Ich denke, dass das Thema enorm wichtig ist und viel häufiger angesprochen werden sollte.
 
 Weil "The Puppeteer" eine fiktive Geschichte erzählt, ist es in diesem Fall kein Thema. Dazu kommt, dass ich keine Songtexte schreibe, beziehungsweise das bis jetzt noch nicht getan habe. Aber mal sehen, wenn wir uns irgendwann von unseren festen Konzepten lösen, wird das vielleicht irgendwann eine Option.
 
