@@ -15,8 +15,11 @@ export const PageMeta: React.FC<{
   }, [meta, path]);
   let w = 1200;
   let h = 630;
+  let ogImage = `/img/opengraph.png`;
+
   if (meta.frontmatter.ogImage) {
     const img = new Imagine(meta.frontmatter.ogImage);
+    ogImage = img.getUrl(`1200.png`);
     w = img.meta.width;
     h = img.meta.height;
   }
@@ -60,14 +63,8 @@ export const PageMeta: React.FC<{
         property="article:published_time"
         content={meta.frontmatter.date.toString()}
       />
-      <meta
-        property="og:image"
-        content={`${meta.frontmatter.ogImage || '/img/opengraph.png'}`}
-      />
-      <meta
-        property="twitter:image"
-        content={`${meta.frontmatter.ogImage || '/img/opengraph.png'}`}
-      />
+      <meta property="og:image" content={`${ogImage}`} />
+      <meta property="twitter:image" content={`${ogImage}`} />
       //todo: add proper sizes based on image url
       <meta property="og:image:width" content={w.toString()} />
       <meta property="og:image:height" content={h.toString()} />
