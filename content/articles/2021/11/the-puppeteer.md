@@ -40,7 +40,7 @@ languageLink: /2021/11/monosphere-the-puppeteer/
 
 **Anne:** You told me that "The Puppeteer" is a large-scale concept album. Would you like to tell me what concept it is? Does it tell a story? Who is the puppeteer?
 
-**Rodney:** Yes, exactly. The album sees itself as a concept album on both a musical and lyrical level. As far as the music is concerned, "The Puppeteer" builds on various trademarks that we took up as conceptual in the canon of the concept album. These are, for example, recurring elements, a through-composed structure, the taking up of various motifs and further details, such as the incorporation of sounds that benefit the textual plot. For example, in "The Marionnette", you can hear a fire burning; in the plot here, Protagonist One is burning Protagonist Two. We have incorporated many details, just waiting for our listeners to discover them.
+**Rodney:** Yes, exactly. The album sees itself as a concept album on both: the musical and the lyrical level. As far as the music is concerned, "The Puppeteer" builds on various trademarks that we took up as conceptual in the canon of the concept album. These are, for example, recurring elements, a through-composed structure, the taking up of various motifs and further details, such as the incorporation of sounds that benefit the textual plot. For example, in "The Marionnette", you can hear a fire burning; in the plot here, Protagonist One is burning Protagonist Two. We have incorporated many details, just waiting for our listeners to discover them.
 
 ## A fictive world
 
