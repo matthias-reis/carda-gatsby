@@ -46,7 +46,7 @@ Ich kann Euch den Tipp geben, vorab schon mal Ordner mit den Fotos aus Eurer Sam
 
 Bei uns in der Familie haben Fotokalender eine große Tradition. Meine Mutter klebte schon in den 1980er Jahren jedes Jahr Fotos in einen Kalender, den dann meine Oma bekam. Irgendwann klappte das dann auch am Computer und inzwischen verschenken fast alle einmal im Jahr einen schönen Erinnerungskalender.
 
-<Gallery name="vistaprint-fotogeschenke-2021-2" />
+<Gallery name="vistaprint-fotogeschenke-2021-1" />
 
 ## Ein Highlight für die ganze Familie
 
