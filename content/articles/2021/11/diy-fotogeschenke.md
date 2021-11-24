@@ -62,7 +62,7 @@ Ich hatte in der Zwischenzeit schon meinen Warenkorb mit den anderen Sachen voll
 
 ## Designs einfach nachbestellen
 
-Was mir auch sehr gut gefällt, ist der Online-Katalog, den man hat, wenn man sich einen Vistaprint Account anlegt. Wenn ich mich einlogge, kann ich darin alle Designs sehen, die ich bisher bei Vistaprint bestellt habe und sie jederzeit nachbestellen. Sollte also mein Lieblings-Band-Shirt, das ich mir letztes Jahr mit einem Foto vom Pray For Sound Konzert gemacht habe, jemals kaputtgehen, kann ich mir ganz einfach ein Neues bedrucken lassen. Das klingt super, oder?
+Was mir auch sehr gut gefällt, ist der Online-Katalog, den man hat, wenn man sich einen Vistaprint Account anlegt. Wenn ich mich einlogge, kann ich darin alle Designs sehen, die ich bisher bei Vistaprint bestellt habe und sie jederzeit nachbestellen. Sollte also mein Lieblings-Band-Shirt, das ich mir letztes Jahr mit einem Foto vom Pray For Sound Konzert gemacht habe, jemals kaputtgehen, kann ich mir ganz einfach ein Neues bedrucken lassen, ohne vorher lange nach dem Foto suchen zu müssen. Das klingt super, oder?
 
 Alle, die von uns dieses Jahr Karten bekommen, dürfen sich auch über Fotos von uns freuen. Ihr könnt bei den Fotos natürlich auch auf Bilder von Euren Kindern, den Haustieren der Beschenkten oder ein ganz eigenes Design zurückgreifen. Der Fantasie sind keine Grenzen gesetzt. Wenn Ihr mit den Karten fertig seid, könnt Ihr auf Wunsch auch noch passende Briefumschläge mit bestellen, auf die Ihr auch gleich noch Euren Absender mit aufdrucken lassen könnt. Praktisch, oder?
 
