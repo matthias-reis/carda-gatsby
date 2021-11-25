@@ -80,10 +80,11 @@ export const query = graphql`
       body
       fileAbsolutePath
       fields {
-        labels {
+        labels: labelsWithCount {
           slug
           title
           type
+          count
         }
         path
       }

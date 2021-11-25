@@ -12,14 +12,15 @@ const Section = styled.nav`
 `;
 
 export const ArticleLabels: React.FC<{
-  labels: { title: string; slug: string; type: string }[];
-}> = ({ labels }) => {
-  if (labels) {
+  labels: { title: string; slug: string; type: string; count: number }[];
+}> = ({ labels = [] }) => {
+  const relevantLabels = labels.filter((label) => label.count > 1);
+  if (relevantLabels) {
     return (
       <Section>
         <Container large>
           <H3>Kategorien & Stichworte</H3>
-          <LabelList labels={labels} />
+          <LabelList labels={relevantLabels} />
         </Container>
       </Section>
     );

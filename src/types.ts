@@ -1,5 +1,5 @@
 export type Fields = {
-  labels: { title: string; slug: string; type: string }[];
+  labels: { title: string; slug: string; type: string; count: number }[];
   path: string;
   type: 'page' | 'article' | 'wordpress';
   recommendations: Recommendation[];
@@ -29,7 +29,7 @@ export type Frontmatter = {
 };
 
 export type Article = {
-  id?: string;
+  id: string;
   body?: string;
   fileAbsolutePath?: string;
   timeToRead?: string;

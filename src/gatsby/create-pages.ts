@@ -56,8 +56,12 @@ query AllPageQuery {
 }
 `;
 
-export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
-  const { createPage } = actions;
+export const createPages = async ({
+  actions,
+  graphql,
+  getNode,
+}: CreatePagesArgs) => {
+  const { createPage, createNodeField } = actions;
 
   const { errors, data } = await graphql<AllPageQuery>(ALL_PAGE_QUERY);
 
@@ -84,7 +88,7 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
     const path = getPath(label);
 
     // ONE PAGE FOR EACH LABEL
-    if (path) {
+    if (path && label.articles.length > 1) {
       const component = resolve(
         __dirname,
         '../components',
@@ -95,7 +99,20 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
   }
 
   for (const edge of edges) {
-    const article = edge.node;
+    const article: Article = edge.node;
+
+    const articleLabels =
+      article.fields.labels &&
+      article.fields.labels.map((label) => ({
+        ...label,
+        count: labels[label.slug].articles.length,
+      }));
+
+    createNodeField({
+      node: getNode(article.id)!,
+      name: 'labelsWithCount',
+      value: articleLabels,
+    });
 
     // fire the recommender engine`
     const recommendations = recommend(article, labels);
