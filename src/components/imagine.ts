@@ -6,7 +6,6 @@ export class Imagine {
   id: string;
 
   constructor(id: string) {
-    console.log(id);
     if (id.startsWith('http')) {
       // it's an absolute url, so we have to strip it down to the id
       id = id.split('/').slice(-3, -1).join('/');

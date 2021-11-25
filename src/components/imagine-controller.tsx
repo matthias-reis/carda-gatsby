@@ -174,8 +174,6 @@ const Copy = ({ onClick, ...props }) => {
   if (status === 'waiting') text = '...';
   if (status === 'done') text = '✔';
 
-  console.log(text);
-
   return (
     <CopyButton
       {...props}
