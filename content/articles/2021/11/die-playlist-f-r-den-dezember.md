@@ -117,7 +117,7 @@ Und hier noch ein weiterer Knaller aus Valentins Musiksammlung:
 
 <YouTube id="j2v4u7VhoPU" />
 
-## Porcupine Tree (Vorauskopplung vom Album "Harridan" vom Album "Closure / Continuation")
+## Porcupine Tree "Harridan" (Vorauskopplung vom Album "Closure / Continuation")
 
 Das für Juni 2022 angekündigte neue Porcupine Tree Album wird das erste seit 2009 sein. Matze hat diese Vorauskopplung auf unsere Liste gesetzt. Hier sind seine Worte dazu:
 
