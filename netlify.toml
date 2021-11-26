@@ -1,8 +1,8 @@
 [build]
   publish = "public"
-  command = "yarn build"
+  command = "npm run build"
+  ignore = "exit 0" 
 [build.environment]
-  YARN_VERSION = "1.22.10"
+  YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
-[[plugins]]
-  package = "@netlify/plugin-gatsby"
+
