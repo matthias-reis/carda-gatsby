@@ -12,7 +12,7 @@ excerpt: Findet Ihr nicht auch, dass es mal wieder Zeit wird, eine neue,
   furchtbar schöne Post-Rock Platte zu entdecken? Ich möchte ja nicht angeben,
   aber es könnte sein, dass ich genau das heute getan habe. Das neue Album von
   Fere ist am 20. November bei Raging Records erschienen. Die Musik auf
-  "Viceral" hat mich ins Mark getroffen.
+  "Visceral" hat mich ins Mark getroffen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-26/fere-visceral-header-jpg-imagine-080808_000000_1024_768/640.webp
 copyrigt: Fere
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-26/fere-visceral-fb-png-imagine-080808_1a1a1a_1200_628/640.webp
@@ -39,7 +39,7 @@ affiliate: false
 language: de
 languageLink: /2021/11/fere-visceral-en/
 ---
-**Findet Ihr nicht auch, dass es mal wieder Zeit wird, eine neue, furchtbar schöne Post-Rock Platte zu entdecken? Ich möchte ja nicht angeben, aber es könnte sein, dass ich genau das heute getan habe. Das neue Album von Fere ist am 20. November bei Raging Records erschienen. Die Musik auf "Viceral" hat mich ins Mark getroffen.**
+**Findet Ihr nicht auch, dass es mal wieder Zeit wird, eine neue, furchtbar schöne Post-Rock Platte zu entdecken? Ich möchte ja nicht angeben, aber es könnte sein, dass ich genau das heute getan habe. Das neue Album von Fere ist am 20. November bei Raging Records erschienen. Die Musik auf "Visceral" hat mich ins Mark getroffen.**
 
 Bei Fere handelt es sich um ein Klangkollektiv, das sich 2016 in Portugal gründete. Die Gruppe lässt sich nur schwer in eine Kategorie einordnen, also lassen wir sie einfach draußen.
 
