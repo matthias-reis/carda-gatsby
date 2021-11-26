@@ -61,7 +61,7 @@ export const createPages = async ({
   graphql,
   getNode,
 }: CreatePagesArgs) => {
-  const { createPage, createNodeField } = actions;
+  const { createPage } = actions;
 
   const { errors, data } = await graphql<AllPageQuery>(ALL_PAGE_QUERY);
 
@@ -101,18 +101,12 @@ export const createPages = async ({
   for (const edge of edges) {
     const article: Article = edge.node;
 
-    const articleLabels =
+    const linkableLabels =
       article.fields.labels &&
       article.fields.labels.map((label) => ({
         ...label,
         count: labels[label.slug].articles.length,
       }));
-
-    createNodeField({
-      node: getNode(article.id)!,
-      name: 'labelsWithCount',
-      value: articleLabels,
-    });
 
     // fire the recommender engine`
     const recommendations = recommend(article, labels);
@@ -142,6 +136,7 @@ export const createPages = async ({
         id: edge.node.id,
         recommendations: recommendations.map((r) => r.articleId), // recos are now in context and can be used in the query
         series: series,
+        linkableLabels,
       },
     });
   }

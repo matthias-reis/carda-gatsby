@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from '@emotion/styled';
-import Image from 'gatsby-image';
 import { Link as GatsbyLink } from 'gatsby';
 
 import { Link } from './link';
@@ -51,6 +50,7 @@ export const ArticlePage: React.FC<ArticleProps> = ({
   recommendations,
   series,
   path,
+  linkableLabels,
 }) => {
   const file = meta.fileAbsolutePath || '';
   const date = new Date(meta.frontmatter.date);
@@ -149,7 +149,7 @@ export const ArticlePage: React.FC<ArticleProps> = ({
       <ArticleFooter>
         <ArticleSeries series={series} />
         <ArticleRecommendations recommendations={recommendations} />
-        <ArticleLabels labels={meta.fields.labels} />
+        <ArticleLabels labels={linkableLabels} />
         {/* <ArticleComments meta={meta} /> */}
         <FooterNavigation />
       </ArticleFooter>
@@ -167,6 +167,12 @@ type ArticleProps = {
   recommendations: CompactArticle[];
   path: string;
   series: Record<string, CompactArticle[]>;
+  linkableLabels: {
+    slug: string;
+    type: string;
+    title: string;
+    count: number;
+  }[];
 };
 
 const Icon = styled.img`

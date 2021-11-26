@@ -51,7 +51,15 @@ const defaults = {
 const ArticleController: React.FC<{
   data: ArticleQuery;
   path: string;
-  pageContext: { series: Record<string, CompactArticle[]> };
+  pageContext: {
+    series: Record<string, CompactArticle[]>;
+    linkableLabels: {
+      slug: string;
+      type: string;
+      title: string;
+      count: number;
+    }[];
+  };
 }> = ({ data, path, pageContext }) => {
   const recommendations = data.allMdx.nodes.map(toCompactArticle);
   return (
@@ -63,6 +71,7 @@ const ArticleController: React.FC<{
             meta={data.mdx}
             recommendations={recommendations}
             series={pageContext.series}
+            linkableLabels={pageContext.linkableLabels}
           >
             <MDXRenderer>{data.mdx.body}</MDXRenderer>
           </ArticlePage>
@@ -80,11 +89,10 @@ export const query = graphql`
       body
       fileAbsolutePath
       fields {
-        labels: labelsWithCount {
+        labels {
           slug
           title
           type
-          count
         }
         path
       }
