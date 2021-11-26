@@ -57,7 +57,7 @@ Das Quartett aus Porto verbindet Elemente aus dem modernen Post-Rock mit experim
 
 "Visceral" soll eine Betrachtung des Gedächtnisses sein,  eine Landkarte des menschlichen Unterbewusstseins und der schmerzhaften Erinnerungen, die in den hintersten Winkeln des Gehirns versteckt lauern.
 
-Filigranes, präzises Schlagzeugspiel, fantasievolle Gitarrenriffs und verspielte Klanglandschaften malen das Bild von dieser Welt, die wir jeden Tag mit uns tragen. An manchen davon kommt sie mehr zum Vorschein, an anderen ruht sie im Verborgenen.
+Filigranes, präzises Schlagzeugspiel, fantasievolle Gitarrenriffs und verspielte Klanglandschaften malen das Bild von dieser Welt, die wir jeden Tag mit uns herumtragen. An manchen davon kommt sie mehr zum Vorschein, an anderen ruht sie im Verborgenen.
 
 ## Eine Reise durch die Zeit
 
