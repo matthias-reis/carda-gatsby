@@ -87,7 +87,6 @@
     "parser:imagine": "ts-node ./src/parser/run-imagine"
   },
   "devDependencies": {
-    "@netlify/plugin-gatsby": "^2.0.0-beta",
     "@types/cors": "^2.8.12",
     "@types/mdx-js__react": "^1.5.5",
     "@types/moment": "^2.13.0",
