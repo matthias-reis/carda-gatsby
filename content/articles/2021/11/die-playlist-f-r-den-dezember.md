@@ -93,7 +93,7 @@ Dieser heilige Sound von Albert Frost kommt von seinem gleichnamigen neuen Album
 
 Diesen Song hat Valentin zu unserer Liste beigesteuert. Hier kommt seine Anmoderation dazu:
 
-> "Ich weiß, vor zwei Monaten kam ich schon mal mit Mastodon in der Liste. Aber erstens handelt es sich dabei um eine meiner absoluten Lieblingsbands und zweitens ist jetzt endlich das neue Album endlich erschienen – und es ist eines ihrer besten bisher! Dieses Mal habe ich mich für das Stück "The Crux" entschieden. Die Band aus Atlanta in Georgia, die man bald keinem Genre mehr zuordnen kann, zeigt hier eine perfekte Mischung aus Post-Metal und Jazz verbunden mit einem bluesigen Gitarrensolo. Auf der Platte findet man noch viel mehr von dem Quartett mit drei Sängern."
+> "Ich weiß, vor zwei Monaten hatten wir schon mal Mastodon auf der Liste. Aber erstens handelt es sich dabei um eine meiner absoluten Lieblingsbands und zweitens ist jetzt endlich das neue Album endlich erschienen – und es ist eines ihrer besten bisher! Dieses Mal habe ich mich für das Stück "The Crux" entschieden. Die Band aus Atlanta in Georgia, die man bald keinem Genre mehr zuordnen kann, zeigt hier eine perfekte Mischung aus Post-Metal und Jazz verbunden mit einem bluesigen Gitarrensolo. Auf der Platte findet man noch viel mehr von dem Quartett mit drei Sängern."
 
 <YouTube id="o_L9CKOkXGg" />
 
