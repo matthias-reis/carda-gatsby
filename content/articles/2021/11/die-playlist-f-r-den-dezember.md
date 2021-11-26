@@ -87,7 +87,7 @@ Monosphere habe ich hier vor Kurzem mit einem großen [Interview](/2021/11/monos
 
 Dieser heilige Sound von Albert Frost kommt von seinem gleichnamigen neuen Album, das mich mit seiner rocknrolligen, rauen Art ziemlich begeistert hat. Wenn Ihr die Projekte wie die Hellacopters gefeiert habt, dann hört man hier rein. Der südafrikanische Blues-Gitarrist hat es echt drauf. Seine Diskografie ist auch schon etwas länger.
 
-<YouTube id="gZZKcWtGb4M />
+<YouTube id="gZZKcWtGb4M" />
 
 ## Mastodon – "The Crux" vom Album "Hushed and Grim"
 
