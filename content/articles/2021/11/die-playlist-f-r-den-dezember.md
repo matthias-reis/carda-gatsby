@@ -129,7 +129,7 @@ Das für Juni 2022 angekündigte neue Porcupine Tree Album wird das erste seit 2
 
 Bei "Riverside 20" handelt es sich um ein Best-of-Album zum 20. Jubiläum der Band. Matze hat dieses Stück davon für unsere Liste ausgesucht.
 
-> "Meine liebste polnische Band gibt es also inzwischen schon seit seit 20 Jahren. Wir blicken auf zwei Dekaden moderne, progressive Rockmusik auf dem höchstem Level – immer in Schnupperreichweite zu den zuvor vorgestellten Porcupine Tree. Die Band feiert das mit zwei Compilations: einer radiotauglichen Auswahl und einer mit den besten langen, progressiven Stücken, die meisten davon besitzen eine Spielzeit von 10 Minuten oder mehr. Mit "Story of my Dream" haben Riverside auch gleich noch eine neue Single beigesteuert. Interessanterweise ist es mit seinen knapp sechs Minuten Teil der radiotauglichen Selektion. In seinem Herzen ist es aber auf jeden Fall eines der proggigsten Stücke des Jahres.
+> "Meine liebste polnische Band gibt es inzwischen schon seit seit 20 Jahren. Wir blicken auf zwei Dekaden moderne, progressive Rockmusik auf dem höchstem Level – immer in Schnupperreichweite zu den zuvor vorgestellten Porcupine Tree. Die Band feiert das mit zwei Compilations: einer radiotauglichen Auswahl und einer mit den besten langen, progressiven Stücken, die meisten davon besitzen eine Spielzeit von 10 Minuten oder mehr. Mit "Story of my Dream" haben Riverside auch gleich noch eine neue Single beigesteuert. Interessanterweise ist es mit seinen knapp sechs Minuten Teil der radiotauglichen Selektion. In seinem Herzen ist es aber auf jeden Fall eines der proggigsten Stücke des Jahres.
 
 ## Tocotronic feat. Soap & Skin – "Ich tauche auf" (Vorauskopplung vom Album "Jugend ohne Gott gegen Faschismus")
 
