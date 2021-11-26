@@ -109,7 +109,7 @@ Schaut mal, wen Valentin da hervorgezaubert hat!
 
 Und hier noch ein weiterer Knaller aus Valentins Musiksammlung:
 
-> Dieser Song ist eine kleine Überraschung: Slipknot haben eine neue Single! In den USA gab es jetzt sogar mal wieder ein paar "Knotfests". Nächstes Jahr findet auch bei uns in Europa, genauer gesagt im finnischen Turku statt. Vielleicht wurde dieser extrem harte Song genau dafür geschrieben. Corey Taylor sagt dazu: 
+> Dieser Song ist eine kleine Überraschung: Slipknot haben eine neue Single! In den USA gab es jetzt sogar mal wieder ein paar "Knotfests". Nächstes Jahr findet auch eins bei uns in Europa, genauer gesagt im finnischen Turku statt. Vielleicht wurde dieser extrem harte Song genau dafür geschrieben. Corey Taylor sagt dazu: 
 >
 > 'Lasst uns alle niederknüppeln und sie daran erinnern, warum wir immer noch Slipknot sind.'
 >
