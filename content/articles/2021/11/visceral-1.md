@@ -64,3 +64,8 @@ Filigranes, präzises Schlagzeugspiel, fantasievolle Gitarrenriffs und verspielt
 Beim Hören nehmen mich Fere auf eine Reise durch die Vergangenheit, die Zukunft und eine andere Version des Hier und Jetzt. "Visceral" ist eine Platte, die es schafft, das Schöne aus den finsteren Tiefen hervorzuholen und die Angst zu verbergen, ohne sie auf toxische Weise zu verdrängen oder zu vergraben. Das führt zu einem harmonischen Gleichgewicht, von dem sich viele Bands noch einiges abschauen können.
 
 Fere besteht aus Mariana Costa (Drums), James Manso (Bass), João Pedro Amorim (Gitarre) und Pedro Mendes (Gitarre).
+
+## Fere – "Ossos"
+
+<YouTube id="8oxpUmbi5PE" />
+
