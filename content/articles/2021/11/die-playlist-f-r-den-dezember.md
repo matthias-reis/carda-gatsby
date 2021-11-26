@@ -121,7 +121,7 @@ Und hier noch ein weiterer Knaller aus Valentins Musiksammlung:
 
 Das für Juni 2022 angekündigte neue Porcupine Tree Album wird das erste seit 2009 sein. Matze hat diese Vorauskopplung auf unsere Liste gesetzt. Hier sind seine Worte dazu:
 
-> "Die Geschichte von Porcupine Tree begleitet mich schon seit über 20 Jahren. Die Band um Steven Wilson und Drummergott Gavin Harrison bot mit jedem Album bessere, bedeutendere Musik. Sie waren *die* Referenz in Sachen Prog. Dann machte Steven Wilson ebenso episch mit seiner Solokarriere weiter bis er zuletzt seinen Stil stark verändert hat und dadurch zumindest in meiner Gunst (und in der aller Fans aus meinem Bekanntenkreis) leider ziemlich tief abstürzte. Jetzt kommen Porcupine Tree zurück. Für 2022 ist ein neues Album nebst Tour angekündigt – die erste Single (in alter Stärke) gibt es jetzt schon. Ich glaube ja, 2022 könnte für den Prog ein gutes Jahr werden."
+> "Die Geschichte von Porcupine Tree begleitet mich schon seit über 20 Jahren. Die Band um Steven Wilson und Drummergott Gavin Harrison bot mit jedem Album bessere, bedeutendere Musik. Sie waren *die* Referenz in Sachen Prog. Dann machte Steven Wilson ebenso episch mit seiner Solokarriere weiter, bis er zuletzt seinen Stil stark veränderte und dadurch zumindest in meiner Gunst (und in der aller Fans aus meinem Bekanntenkreis) leider ziemlich tief abstürzte. Jetzt kommen Porcupine Tree zurück. Für 2022 ist ein neues Album nebst Tour angekündigt – die erste Single (in alter Stärke) gibt es jetzt schon. Ich glaube ja, 2022 könnte für den Prog ein gutes Jahr werden."
 
 <YouTube id="AW5v4Ohxk5k" />
 
