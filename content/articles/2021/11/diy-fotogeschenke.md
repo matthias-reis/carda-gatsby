@@ -16,7 +16,7 @@ image: https://storage.googleapis.com/cardamonchai-media/2021-11-24/2021-11-16-2
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-24/vistaprint-fb-png-imagine-080808_6e6a62_1200_628/640.webp
 labels:
   - Fotobuch gestalten
-  - Vistaprint
+  - VistaPrint
   - DIY
   - Fotogeschenke
   - Kalender gestalten
@@ -36,7 +36,7 @@ languageLink: ""
 
 Letztes Jahr hatte ich einen [achtsamen Jahresrückblick](/2020/11/jahresrueckblick-2020-kalender-2021/) in Form eines selbst gestalteten Kalenders kreiert. Dieses Jahr haben wir unterschiedliche Foto-Geschenke vorbereitet: Fotobücher, Kalender, T-Shirts, eine Mütze sowie Weihnachtskarten inklusive Umschläge.
 
-Alle Geschenke haben Matze und ich mit selbst fotografierten, individuell ausgesuchten Bildern verschönert. Bestellt habe ich dann, wie auch schon im letzten Jahr, bei Vistaprint. Dort findet Ihr die unterschiedlichsten Kalender, Fotobücher, T-Shirts und viele andere tolle Ideen. Vom Kissen bis zur Lieblings-Kaffeetasse ist alles mit dabei.
+Alle Geschenke haben Matze und ich mit selbst fotografierten, individuell ausgesuchten Bildern verschönert. Bestellt habe ich dann, wie auch schon im letzten Jahr, bei VistaPrint. Dort findet Ihr die unterschiedlichsten Kalender, Fotobücher, T-Shirts und viele andere tolle Ideen. Vom Kissen bis zur Lieblings-Kaffeetasse ist alles mit dabei.
 
 ## Der Erinnerungskalender
 
@@ -56,13 +56,13 @@ Auch bei mir daheim hängt inzwischen jedes Jahr ein selbst gebastelter Kalender
 
 ## Fotobücher für alle
 
-Die Fotobücher, die wir dieses Jahr verschenken, hat Matze gestaltet. Er hat sehr viel Liebe in jedes Detail investiert. Der Offline-Editor von Vistaprint hat ihm dabei gute Dienste geleistet. Er besitzt eine Speicherfunktion, mit der Ihr das bearbeitete Design einfach auf Eurem Computer ablegen könnt. So könnt Ihr es immer wieder aufmachen und weiter bearbeiten, bis es perfekt ist. 
+Die Fotobücher, die wir dieses Jahr verschenken, hat Matze gestaltet. Er hat sehr viel Liebe in jedes Detail investiert. Der Offline-Editor von VistaPrint hat ihm dabei gute Dienste geleistet. Er besitzt eine Speicherfunktion, mit der Ihr das bearbeitete Design einfach auf Eurem Computer ablegen könnt. So könnt Ihr es immer wieder aufmachen und weiter bearbeiten, bis es perfekt ist. 
 
 Ich hatte in der Zwischenzeit schon meinen Warenkorb mit den anderen Sachen vollgepackt und konnte Matzes fertige Fotobücher, die er an seinem Rechner gestaltet hatte, problemlos auf meinem Laptop hinzufügen. Ihr könnt also wunderbar an mehreren Rechnern basteln, wenn Euch der Sinn danach steht.
 
 ## Designs einfach nachbestellen
 
-Was mir auch sehr gut gefällt, ist der Online-Katalog, den man hat, wenn man sich einen Vistaprint Account anlegt. Wenn ich mich einlogge, kann ich darin alle Designs sehen, die ich bisher bei Vistaprint bestellt habe und sie jederzeit nachbestellen. Sollte also mein Lieblings-Band-Shirt, das ich mir letztes Jahr mit einem Foto vom Pray For Sound Konzert gemacht habe, jemals kaputtgehen, kann ich mir ganz einfach ein Neues bedrucken lassen, ohne vorher lange nach dem Foto suchen zu müssen. Das klingt super, oder?
+Was mir auch sehr gut gefällt, ist der Online-Katalog, den man hat, wenn man sich einen VistaPrint Account anlegt. Wenn ich mich einlogge, kann ich darin alle Designs sehen, die ich bisher bei VistaPrint bestellt habe und sie jederzeit nachbestellen. Sollte also mein Lieblings-Band-Shirt, das ich mir letztes Jahr mit einem Foto vom Pray For Sound Konzert gemacht habe, jemals kaputtgehen, kann ich mir ganz einfach ein Neues bedrucken lassen, ohne vorher lange nach dem Foto suchen zu müssen. Das klingt super, oder?
 
 Alle, die von uns dieses Jahr Karten bekommen, dürfen sich auch über Fotos von uns freuen. Ihr könnt bei den Fotos natürlich auch auf Bilder von Euren Kindern, den Haustieren der Beschenkten oder ein ganz eigenes Design zurückgreifen. Der Fantasie sind keine Grenzen gesetzt. Wenn Ihr mit den Karten fertig seid, könnt Ihr auf Wunsch auch noch passende Briefumschläge mit bestellen, auf die Ihr auch gleich noch Euren Absender mit aufdrucken lassen könnt. Praktisch, oder?
 
@@ -70,14 +70,14 @@ Alle, die von uns dieses Jahr Karten bekommen, dürfen sich auch über Fotos von
 
 Weil Matze und ich dieses Jahr im hohen Norden unterwegs waren, haben wir dort auch jede Menge Fotos gemacht. Wer mir auf Instagram folgt, hat ein paar von meinen schon gesehen. Als kleine Überraschung für Matze und als Geschenk an mich selbst habe ich zwei T-Shirts mit unseren Lieblings-Bildern von unserer Tour durch Nord-Norwegen bedrucken lassen. Mit dem Tragen wollten wir nicht bis Ende des Jahres warten, also könnt Ihr auch sie schon auf den Bildern bewundern.
 
-Der Versand ging übrigens wieder sehr schnell. Wenn Ihr Euch also jetzt an den Rechner setzt, kommen Eure selbst bedruckten T-Shirts und Fotobücher auf jeden Fall noch vor dem Fest an. Ich finde Geschenke mit selbst aufgenommenen Bildern und Erinnerungen immer besonders schön und persönlich. Und kreativ sind sie obendrein, oder? Dafür braucht Ihr übrigens nicht mal große gestalterische Skills. Von Vistaprint bekommt Ihr sehr viele intuitive Hilfestellungen. Was zum Beispiel ziemlich klasse ist, sind die Design-Vorlagen für Mützen und T-Shirts. Ich habe einfach mal ein Cap und ein Shirt mit meinem Blog-Logo bedrucken lassen, ohne vorher am Rechner alles fertig zusammenzusetzen. Für die ersten Prototypen sehen sie doch nett aus, oder? 
+Der Versand ging übrigens wieder sehr schnell. Wenn Ihr Euch also jetzt an den Rechner setzt, kommen Eure selbst bedruckten T-Shirts und Fotobücher auf jeden Fall noch vor dem Fest an. Ich finde Geschenke mit selbst aufgenommenen Bildern und Erinnerungen immer besonders schön und persönlich. Und kreativ sind sie obendrein, oder? Dafür braucht Ihr übrigens nicht mal große gestalterische Skills. Von VistaPrint bekommt Ihr sehr viele intuitive Hilfestellungen. Was zum Beispiel ziemlich klasse ist, sind die Design-Vorlagen für Mützen und T-Shirts. Ich habe einfach mal ein Cap und ein Shirt mit meinem Blog-Logo bedrucken lassen, ohne vorher am Rechner alles fertig zusammenzusetzen. Für die ersten Prototypen sehen sie doch nett aus, oder? 
 
 ## Blog und Band-Merch
 
-Mich haben sie auf alle Fälle dazu inspiriert, das im neuen Jahr mal in aller Ruhe anzugehen und dann ein komplett eigenes T-Shirt-Design zu gestalten. Mit "meiner" Schriftart, den passenden Farben und allem, was dazu gehört. Die  fertig gestalteten Klamotten kann ich dann auch einfach über Vistaprint anfertigen lassen.
+Mich haben sie auf alle Fälle dazu inspiriert, das im neuen Jahr mal in aller Ruhe anzugehen und dann ein komplett eigenes T-Shirt-Design zu gestalten. Mit "meiner" Schriftart, den passenden Farben und allem, was dazu gehört. Die  fertig gestalteten Klamotten kann ich dann auch einfach über VistaPrint anfertigen lassen.
 
 Wenn Ihr auch einen Blog, eine Band oder vielleicht ein kleines Geschäft habt, könnt Ihr dort übrigens auch Stempel, Visitenkarte und noch viel mehr schöne Merch-Produkte bestellen. Falls Ihr gerade auf der Suche danach seid, schaut Euch am besten einfach mal um.
 
-Ich wünsche Euch ganz viel Freude beim Basteln Eurer individuell gestalteten Foto-Geschenke. [Zum Onlineshop von Vistaprint kommt Ihr über diesen Link](https://www.vistaprint.de/).
+Ich wünsche Euch ganz viel Freude beim Basteln Eurer individuell gestalteten Foto-Geschenke. [Zum Onlineshop von VistaPrint kommt Ihr über diesen Link](https://www.vistaprint.de/).
 
 <Gallery name="vistaprint-fotogeschenke-2021-2" />
