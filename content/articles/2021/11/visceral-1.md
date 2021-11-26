@@ -1,5 +1,5 @@
 ---
-date: 2021-11-26T14:46:16.882Z
+date: 2021-11-27T04:00:16.882Z
 slug: fere-visceral
 typeName: Review
 title: '"Visceral"'
