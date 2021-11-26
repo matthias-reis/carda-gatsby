@@ -36,7 +36,7 @@ focusKeyword: Fere
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2021/11fere-visceral/
+languageLink: /2021/11/fere-visceral/
 ---
 **I am sure you agree with me that it's about time to discover one more beautiful post-rock project? I don't want to brag, but I might have done just that today. Fere's new album is out on November 20th on Raging Records. The music on "Viceral" hit me to the core.**
 
