@@ -79,7 +79,7 @@ Emotionaler Post-Hardcore mit metallischem Anstrich erwartet Euch bei Glassing. 
 
 ## Monosphere "The Puppeteer" vom Album "The Puppeteer"
 
-Monosphere habe ich hier vor Kurzem mit einem großen [Interview](/2021/11/monosphere-the-puppeteer/) gefeatured. Ich habe mich mit Drummer Rodney darin ausgiebig über das neue, sehr gelungene Album "The Puppeteer" und seine außergewöhnliche Entstehungsgeschichte unterhalten.
+Monosphere habe ich hier vor Kurzem mit einem großen [Interview](/2021/11/monosphere-the-puppeteer/) vorgestellt. Ich habe mich mit Drummer Rodney darin ausgiebig über das neue, sehr gelungene Album "The Puppeteer" und seine außergewöhnliche Entstehungsgeschichte unterhalten.
 
 <YouTube id="P39EbFW-_LA" />
 
