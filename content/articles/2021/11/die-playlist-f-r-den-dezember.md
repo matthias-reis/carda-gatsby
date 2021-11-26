@@ -57,7 +57,7 @@ Als Opener habe ich heute mal ein Drum Playthrough Video für Euch. Der Song daz
 
 Das Album ist am 15. Oktober erschienen, das Video ist brandneu. Ach und von Pelagic habe ich so ein tolles Bandfoto bekommen, das möchte ich neben dem Video heute gerne mit Euch teilen.
 
-![Hippotraktor (Die Band steht in einem kühl wirkenden Kellerraum)](https://storage.googleapis.com/cardamonchai-media/2021-11-26/hippotraktor-jpg-imagine-181818_232628_800_532/640.webp "Hippotraktor | large ")
+![Hippotraktor (Die Band steht in einem kühl wirkenden Kellerraum) | large](https://storage.googleapis.com/cardamonchai-media/2021-11-26/hippotraktor-jpg-imagine-181818_232628_800_532/640.webp "Hippotraktor")
 
 <YouTube id="9sWYfMF1GnU" />
 
