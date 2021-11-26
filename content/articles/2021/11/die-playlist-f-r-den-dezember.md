@@ -5,16 +5,10 @@ typeName: Beitrag
 title: Die Playlist für den Dezember
 subTitle: 12 Songs von Post-Metal bis Prog
 seoTitle: Playlist Dezember – von Post-Metal bis Prog
-description: Von Post-Metal bis Prog habe ich gemeinsam mit meinen beiden
-  Lieblings-Musikmenschen 12 Songs für Euch zusammengestellt, die Euch den
-  Einstieg in die kalte Jahreszeit so richtig schön versüßen.
-excerpt: Wenn es wieder kalt wird, es jeden Tag zu regnen scheint und draußen
-  sowieso nur noch Matsch ist, wird es Zeit, es sich daheim mit guter Musik so
-  richtig schön gemütlich zu machen. Gemeinsam mit meinen beiden
-  Lieblings-Musikmenschen habe ich für Euch 12 Songs zusammengestellt, die Ihr
-  ganz bequem auch ohne dabei draußen rumzulaufen hören könnt. Viel Spaß damit!
+description: Von Post-Metal bis Prog habe ich gemeinsam mit meinen beiden Lieblings-Musikmenschen 12 Songs für Euch zusammengestellt, die Euch den Einstieg in die kalte Jahreszeit so richtig schön versüßen.
+excerpt: Wenn es wieder kalt wird, es jeden Tag zu regnen scheint und draußen sowieso nur noch Matsch ist, wird es Zeit, es sich daheim mit guter Musik so richtig schön gemütlich zu machen. Gemeinsam mit meinen beiden Lieblings-Musikmenschen habe ich für Euch 12 Songs zusammengestellt, die Ihr ganz bequem auch ohne dabei draußen rumzulaufen hören könnt. Viel Spaß damit!
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-25/von-post-metal-bis-prog-jpg-imagine-b8b8b8_706269_1024_768/640.webp
-copyrigt: ""
+copyrigt: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-25/von-post-metal-bis-prog-fb-png-imagine-b8b8b8_71656b_1200_628/640.webp
 labels:
   - Post-Metal
@@ -47,17 +41,18 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Wenn es wieder kalt wird, es jeden Tag zu regnen scheint und draußen sowieso nur noch Matsch ist, wird es Zeit, es sich daheim mit guter Musik so richtig schön gemütlich zu machen. Gemeinsam mit meinen beiden Lieblings-Musikmenschen habe ich für Euch 12 Songs zusammengestellt, die Ihr ganz bequem auch ohne dabei draußen rumzulaufen hören könnt. Viel Spaß damit!**
 
 Die praktischen Playlists für Spotify und iTunes findet Ihr wie immer ganz unten und jetzt wird es Zeit für unsere Lobhudeleien.
 
 ## Hippotraktor – "God Is In The Slumber" vom Album "Meridian" (Lander de Nyn Playthrough Video)
 
-Als Opener habe ich heute mal ein Drum Playthrough Video für Euch. Der Song dazu stammt vom Hippotraktor Debüt-Album "Meridian". Die Post-Metal Band aus dem belgischen Mechelen ist bei Pelagic gesignt. Ihre unglaubliche Ausdrucksstärke fasziniert mich sehr und ich kann mir vorstellen, dass sie besonders Fans von Bands wie Gojira begeistern könnte. Das Album ist übrigens nicht der erste Tonträger in der Bandgeschichte. Wenn Ihr ein bisschen stöbert, werdet Ihr auch die EP "P'eau" von 2018 finden, die ich Euch ebenso wärmstens empfehlen kann – wenngleich die Band zwei Jahre später auf ein noch stärkeres musikalisches Fundament baut. Sänger und Percussionist Stefan De Graef kennt Ihr möglicherweise bereits von Psychonaut, Gitarrist und Sänger Sander Rom von L'Itch. 
+Als Opener habe ich heute mal ein Drum Playthrough Video für Euch. Der Song dazu stammt vom Hippotraktor Debüt-Album "Meridian". Die Post-Metal Band aus dem belgischen Mechelen ist bei Pelagic gesignt. Ihre unglaubliche Ausdrucksstärke fasziniert mich sehr und ich kann mir vorstellen, dass sie besonders Fans von Bands wie Gojira begeistern könnte. Das Album ist übrigens nicht der erste Tonträger in der Bandgeschichte. Wenn Ihr ein bisschen stöbert, werdet Ihr auch die EP "P'eau" von 2018 finden, die ich Euch ebenso wärmstens empfehlen kann – wenngleich die Band zwei Jahre später auf ein noch stärkeres musikalisches Fundament baut. Sänger und Percussionist Stefan De Graef kennt Ihr möglicherweise bereits von Psychonaut, Gitarrist und Sänger Sander Rom von L'Itch.
 
 Das Album ist am 15. Oktober erschienen, das Video ist brandneu. Ach und von Pelagic habe ich so ein tolles Bandfoto bekommen, das möchte ich neben dem Video heute gerne mit Euch teilen.
 
-![Hippotraktor (Die Band steht in einem kühl wirkenden Kellerraum) | large](https://storage.googleapis.com/cardamonchai-media/2021-11-26/hippotraktor-jpg-imagine-181818_232628_800_532/640.webp "Hippotraktor")
+![Hippotraktor (Die Band steht in einem kühl wirkenden Kellerraum) | large](https://storage.googleapis.com/cardamonchai-media/2021-11-26/hippotraktor-jpg-imagine-181818_232628_800_532/640.webp 'Hippotraktor')
 
 <YouTube id="9sWYfMF1GnU" />
 
@@ -109,7 +104,7 @@ Schaut mal, wen Valentin da hervorgezaubert hat!
 
 Und hier noch ein weiterer Knaller aus Valentins Musiksammlung:
 
-> Dieser Song ist eine kleine Überraschung: Slipknot haben eine neue Single! In den USA gab es jetzt sogar mal wieder ein paar "Knotfests". Nächstes Jahr findet auch eins bei uns in Europa, genauer gesagt im finnischen Turku statt. Vielleicht wurde dieser extrem harte Song genau dafür geschrieben. Corey Taylor sagt dazu: 
+> Dieser Song ist eine kleine Überraschung: Slipknot haben eine neue Single! In den USA gab es jetzt sogar mal wieder ein paar "Knotfests". Nächstes Jahr findet auch eins bei uns in Europa, genauer gesagt im finnischen Turku statt. Vielleicht wurde dieser extrem harte Song genau dafür geschrieben. Corey Taylor sagt dazu:
 >
 > 'Lasst uns alle niederknüppeln und sie daran erinnern, warum wir immer noch Slipknot sind.'
 >
@@ -121,7 +116,7 @@ Und hier noch ein weiterer Knaller aus Valentins Musiksammlung:
 
 Das für Juni 2022 angekündigte neue Porcupine Tree Album wird das erste seit 2009 sein. Matze hat diese Vorauskopplung auf unsere Liste gesetzt. Hier sind seine Worte dazu:
 
-> "Die Geschichte von Porcupine Tree begleitet mich schon seit über 20 Jahren. Die Band um Steven Wilson und Drummergott Gavin Harrison bot mit jedem Album bessere, bedeutendere Musik. Sie waren *die* Referenz in Sachen Prog. Dann machte Steven Wilson ebenso episch mit seiner Solokarriere weiter, bis er zuletzt seinen Stil stark veränderte und dadurch zumindest in meiner Gunst (und in der aller Fans aus meinem Bekanntenkreis) leider ziemlich tief abstürzte. Jetzt kommen Porcupine Tree zurück. Für 2022 ist ein neues Album nebst Tour angekündigt – die erste Single (in alter Stärke) gibt es jetzt schon. Ich glaube ja, 2022 könnte für den Prog ein gutes Jahr werden."
+> "Die Geschichte von Porcupine Tree begleitet mich schon seit über 20 Jahren. Die Band um Steven Wilson und Drummergott Gavin Harrison bot mit jedem Album bessere, bedeutendere Musik. Sie waren _die_ Referenz in Sachen Prog. Dann machte Steven Wilson ebenso episch mit seiner Solokarriere weiter, bis er zuletzt seinen Stil stark veränderte und dadurch zumindest in meiner Gunst (und in der aller Fans aus meinem Bekanntenkreis) leider ziemlich tief abstürzte. Jetzt kommen Porcupine Tree zurück. Für 2022 ist ein neues Album nebst Tour angekündigt – die erste Single (in alter Stärke) gibt es jetzt schon. Ich glaube ja, 2022 könnte für den Prog ein gutes Jahr werden."
 
 <YouTube id="AW5v4Ohxk5k" />
 
@@ -130,6 +125,8 @@ Das für Juni 2022 angekündigte neue Porcupine Tree Album wird das erste seit 2
 Bei "Riverside 20" handelt es sich um ein Best-of-Album zum 20. Jubiläum der Band. Matze hat dieses Stück davon für unsere Liste ausgesucht.
 
 > "Meine liebste polnische Band gibt es inzwischen auch schon seit seit 20 Jahren. Wir blicken auf zwei Dekaden moderne, progressive Rockmusik auf dem höchstem Level zurück – immer in Schnupperreichweite zu den zuvor vorgestellten Porcupine Tree. Die Band feiert das mit zwei Compilations: einer radiotauglichen Auswahl und einer mit den besten langen, progressiven Stücken, die meisten davon besitzen eine Spielzeit von zehn Minuten oder mehr. Mit "Story of my Dream" haben Riverside auch gleich noch eine neue Single beigesteuert. Interessanterweise ist es mit seinen knapp sechs Minuten Teil der radiotauglichen Selektion. In seinem Herzen ist es aber auf jeden Fall eines der proggigsten Stücke des Jahres.
+
+<YouTube id="-s7fedFOP88" />
 
 ## Tocotronic feat. Soap & Skin – "Ich tauche auf" (Vorauskopplung vom Album "Jugend ohne Gott gegen Faschismus")
 
@@ -147,7 +144,7 @@ Placebo haben ihr neues Album für März 2022 angekündigt. Matze hat entschiede
 
 <YouTube id="0dn4Udid1bo" />
 
-&nbsp;
+---
 
 <Playlist
   spotify="6g7i3bBJXnKaOTPUL90Jw9?si=09fb02a43f0c435a"
