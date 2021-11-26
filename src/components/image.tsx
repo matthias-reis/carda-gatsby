@@ -15,7 +15,7 @@ type ImageMeta = {
   color2: string;
 };
 
-export const Image: ImageCmp = ({ src, alt, size, ...props }) => {
+export const Image: ImageCmp = ({ src, size, ...props }) => {
   const img = new Imagine(src);
   const { width, height, color1, color2 } = img.meta;
   const sizes = `(min-width: 34rem) and (-webkit-min-device-pixel-ratio: 2) ${
@@ -34,7 +34,7 @@ export const Image: ImageCmp = ({ src, alt, size, ...props }) => {
       <Picture>
         <source type="image/webp" srcSet={img.webpSrcSet} sizes={sizes} />
         <source type="image/jpeg" srcSet={img.jpegSrcSet} sizes={sizes} />
-        <Img {...props} loading="lazy" src={img.previewUrl} alt="i" />
+        <Img {...props} loading="lazy" src={img.previewUrl} />
       </Picture>
     </ImageContainer>
   );
