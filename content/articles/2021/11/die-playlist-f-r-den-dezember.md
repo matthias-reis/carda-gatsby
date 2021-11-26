@@ -147,4 +147,7 @@ Placebo haben ihr neues Album für März 2022 angekündigt. Matze hat entschiede
 
 <YouTube id="0dn4Udid1bo" />
 
-Spotify https://open.spotify.com/playlist/6g7i3bBJXnKaOTPUL90Jw9?si=09fb02a43f0c435a
+<Playlist
+  spotify="6g7i3bBJXnKaOTPUL90Jw9?si=09fb02a43f0c435a"
+  itunes="2021-11-25-rock-n-roll-vegan/pl.u-kmvDfv3dBdD"
+/>
