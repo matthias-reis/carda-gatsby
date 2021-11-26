@@ -1,6 +1,6 @@
 ---
 date: 2021-11-26T14:34:06.292Z
-slug: fere-visceral
+slug: fere-visceral-en
 typeName: Review
 title: '"Visceral"'
 subTitle: The new album by Fere
@@ -36,6 +36,7 @@ focusKeyword: Fere
 advertisement: false
 affiliate: false
 language: de
+languageLink: /2021/11fere-visceral-en/
 ---
 **I am sure you agree with me that it's about time to discover one more beautiful post-rock project? I don't want to brag, but I might have done just that today. Fere's new album is out on November 20th on Raging Records. The music on "Viceral" hit me to the core.**
 
