@@ -9,3 +9,4 @@ Used technology:
 - typescript
 - react
 - gatsby
+- google storage
