@@ -143,6 +143,6 @@ Ich habe früher so viel Tocotronic gehört! Ich konnte wirklich jeden Song ausw
 
 Placebo haben ihr neues Album für März 2022 angekündigt. Matze hat entschieden, diesen Vorab-Gruß direkt mal hier mit Euch zu teilen.
 
-> "Dieses Mal habe ich auch einen etwas kritischen Beitrag für Euch. Ich finde, Placebo waren mal richtig gut. Leider ist das letzte tolle Album schon 12 Jahr alt. "Loud Like Love" gefiel mir persönlich leider gar nicht. Und auch die frisch vorausgekoppelte Doppelsingle ("Surrounded by Spies" und "Beautiful James") vom neuen Album haut mich nicht direkt vom Hocker. Die Stücke schaffen es leider nicht wie erhofft, mich ihn die frühen 2000er zurückzuversetzen, die Placebo musikalisch maßgeblich mit geprägt haben."Surrounded by Spies" ist solider Alternative Rock – durchaus nicht schlecht, aber leider ohne jede Überraschung.
+> "Dieses Mal habe ich auch einen etwas kritischen Beitrag für Euch. Ich finde, Placebo waren mal richtig gut. Leider ist das letzte tolle Album schon 12 Jahr alt. "Loud Like Love" gefiel mir persönlich leider gar nicht. Und auch die frisch vorausgekoppelte Doppelsingle ("Surrounded by Spies" und "Beautiful James") vom neuen Album haut mich nicht direkt vom Hocker. Die Stücke schaffen es leider nicht wie erhofft, mich ihn die frühen 2000er zurückzuversetzen, die Placebo musikalisch maßgeblich mit geprägt haben. "Surrounded by Spies" ist solider Alternative Rock – durchaus nicht schlecht, aber leider ohne jede Überraschung.
 
 <YouTube id="0dn4Udid1bo" />
