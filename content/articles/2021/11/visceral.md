@@ -46,7 +46,7 @@ Fere is a sound collective that formed in Portugal in 2016. It feels pretty chal
 
 ![Fere – "Visceral" Album Cover (Black and white picture of a Venus Flytrap plant with the word "Visceral")](https://storage.googleapis.com/cardamonchai-media/2021-11-26/fere-visceral-jpeg-imagine-080808_202020_425_425/640.webp "Fere – \\"Visceral\\"")
 
-Let's just say: The new album strongly tends in a direction that I particularly like: noise-distorted instrumental sound from another world.
+Let's just say: The new album strongly tends in a direction that I particularly like: noise-decorated instrumental sound from another world.
 
 The five tracks on "Visceral" are multi-layered and varied. What starts with a somehow sustained tempo and some great gloominess changes to an airy, playful ocean of sound and back again.
 
