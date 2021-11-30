@@ -28,7 +28,7 @@ language: de
 ---
 **CBD soll nicht nur das Gemüt beruhigen und für Entspannung sorgen. Es findet auch viele weitere Anwendungsmöglichkeiten. Ich habe jetzt das Spray, das Öl und das Muskelgel von CBD Extra getestet.**
 
-Das Hamburger Start-up CBD Extra möchte mit natürlichen Produkten für mehr Wohlgefühl sorgen. Die Preise sollen dabei möglichst moderat bleiben. Dennoch wird auf Zusatzstoffe und Pestizide komplett verzichtet und auf Bekömmlichkeit großer Wert gelegt. Die verwendeten Hanfpflanzen stammen aus ökologischem Anbau innerhalb der EU.
+Das Hamburger Start-up CBD Extra möchte mit natürlichen Produkten Wohlgefühl verbreiten. Die Preise sollen dabei möglichst moderat bleiben. Dennoch wird auf Zusatzstoffe und Pestizide komplett verzichtet und auf Bekömmlichkeit großer Wert gelegt. Die verwendeten Hanfpflanzen stammen aus ökologischem Anbau innerhalb der EU.
 
 ## CBD-Mundöl
 
