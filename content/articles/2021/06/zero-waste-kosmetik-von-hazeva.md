@@ -81,6 +81,6 @@ Getreu dem Motto "Unser Körper ist das Wertvollste, das wir haben", bloggen die
 
 Insgesamt bin ich freudig überrascht, wie klasse die Hazeva Produkte sind. Ich hatte die Marke bis jetzt noch gar nicht auf dem Schirm. In Zukunft werde ich sie auf jeden Fall im Auge behalten. Alles, was ich ausprobiert habe, entspricht in meinen Augen zu 100 Prozent der Beschreibung im Shop. Der Versand ging unheimlich schnell und bei der Verpackung wurde sichtbar Wert auf Nachhaltigkeit gelegt – alles war so wenig wie möglich und trotzdem sicher verpackt.
 
-Alle von mir getesteten Sachen findet Ihr [online im Hazeva Shop](https://hazeva.de/). Plus jede Menge weitere Zero Waste Kosmetik Produkte.
+Alle von mir getesteten Sachen findet Ihr [online im Hazeva Shop](https://t.adcell.com/p/click?promoId=267221&slotId=80259&param0=https%3A%2F%2Fhazeva.de%2F). Plus jede Menge weitere Zero Waste Kosmetik Produkte.
 
 <Gallery name="hazeva-2" />
