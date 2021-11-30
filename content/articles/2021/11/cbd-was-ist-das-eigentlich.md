@@ -10,7 +10,8 @@ description: CBD soll nicht nur das Gemüt beruhigen und für Entspannung sorgen
   eigentlich?
 excerpt: CBD soll nicht nur das Gemüt beruhigen und für Entspannung sorgen. Es
   findet auch viele weitere Anwendungsmöglichkeiten. Ich habe jetzt das Spray,
-  das Öl und das Muskelgel von CBD Extra getestet.
+  das Öl und das Muskelgel von CBD Extra getestet und einiges über den
+  organischen Inhaltsstoff der Hanfpflanze gelernt.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-30/2021-10-26-produkttest-31-cbd-jpg-imagine-f8f8f8_7aa4b5_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-30/cbd-fb-png-imagine-0888c8_71a4ba_1200_628/640.webp
