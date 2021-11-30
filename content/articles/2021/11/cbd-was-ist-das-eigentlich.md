@@ -48,7 +48,7 @@ Das Spray wird, genau wie das Mundöl und das Muskelgel, im Labor getestet. Es i
 
 Mein bisheriges Highlight von CBD Extra ist [das Muskelgel](https://t.adcell.com/p/click?promoId=185437&slotId=80259&param0=https%3A%2F%2Fcbd-extra.de%2Fproducts%2Fcbd-muskelsalbe-warmend-50ml). Nach dem Auftragen wärmt es wunderbar und lockert meine Muskeln. Ich habe im Moment immer wieder Verspannungen in den Schultern. Zwischendurch beim Arbeiten entspannt es mich ungemein. Nach einer schweißtreibenden Yoga-Session trage ich es gerne auf Schultern und Arme auf und auch beim Verspannungen in den Waden hat es mir schon sehr gute Dienste geleistet. Ich würde es auf jeden Fall wieder bestellen und empfehle es allen, die auch immer mal wieder mit Verspannungen oder Blockaden der Muskeln zu tun haben. Es kann locker mit der Muskelsalbe aus der Apotheke mithalten, die ich sonst verwende. Mit seinen natürlichen Inhaltsstoffen ist es mir jedoch wesentlich sympathischer. Von mir bekommt das [CBD Extra Muskelgel](https://t.adcell.com/p/click?promoId=185437&slotId=80259&param0=https%3A%2F%2Fcbd-extra.de%2Fproducts%2Fcbd-muskelsalbe-warmend-50ml) also die volle Punktzahl auf der Entspannung-Skala.
 
-Das Gel ist frei von THC und enthält ausschließlich Inhaltsstoffe aus der Natur. Was ich sehr praktisch finde ist, dass es super schnell einzieht. Man kann also direkt nach der Anwendung wieder ein T-Shirt überziehen, ohne, dass irgendwas klebt oder ölt.
+Das Gel ist frei von THC und enthält ausschließlich Inhaltsstoffe aus der Natur. Was ich sehr praktisch finde ist, dass es super schnell einzieht. Man kann also direkt nach der Anwendung wieder ein T-Shirt überziehen, ohne, dass irgendwas ölt oder klebt.
 
 <Gallery name="cbd-1" />
 
