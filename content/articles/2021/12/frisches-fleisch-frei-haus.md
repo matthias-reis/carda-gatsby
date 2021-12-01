@@ -34,7 +34,7 @@ Der Vegan-Kurzfilm ist der erste, den die Hilfsorganisation bisher fürs britisc
 
 ##  Ein Schwein in der Hauptrolle
 
-Der Spot mit dem Namen "Takeaway the Meat" wurde zu dem Zweck gestaltet, Menschen dazu anzuregen, mehr über die Wahl ihrer Lebensmittel und ihre Herkunft nachzudenken. Die Hauptrolle spielt ein lebendes Schwein.
+Der Spot mit dem Namen "Takeaway the Meat" wurde zu dem Zweck gestaltet, Menschen dazu anzuregen, mehr über die Herkunft ihrer Lebensmittel nachzudenken. Die Hauptrolle spielt ein lebendes Schwein.
 
 In den insgesamt 30 Sekunden dreht sich alles ums Thema Speziesismus. Sprich: die verlorene Verbindung zwischen Tieren und dem Fleisch auf unserem Teller. Oder, wie es die Online-Enzyklopädie sagt: 
 
