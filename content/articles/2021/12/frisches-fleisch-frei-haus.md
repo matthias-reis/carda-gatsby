@@ -62,7 +62,9 @@ Von der Ausstrahlung des ersten veganen TV-Spots im britischen Mainstream-Fernse
 
 Um die Sendung möglich zu machen, hat die Organisation einen Fundraiser gestartet. Insgesamt sollen 40.000 britische Pfund gesammelt werden. Ein Zuschuss des Senders soll die Gesamtsumme verdoppeln. Außerdem hat ein weiterer Spender bereits eine zusätzliche Finanzierung zugesagt. Das Projekt ist also schon jetzt durchaus von Erfolg gekrönt.
 
-Kein Wunder: Die VIVA!-Aktivist⋆innen wissen, wie sie es angehen müssen. Vor Kurzem hatten sie mithilfe von Crowdfunding die Ausstrahlung des ersten veganen Kino-Spots realisiert. Zudem ist es der Organisation gelungen, 30.000 Pfund für die mehrfach mit Preisen ausgezeichnete Dokumentation "Hogwood: A Modern Horror Story zu sammeln.
+Kein Wunder: Die VIVA!-Aktivist⋆innen wissen, wie sie es angehen müssen. Vor Kurzem hatten sie mithilfe von Crowdfunding die Ausstrahlung des ersten veganen Kino-Spots realisiert. Zudem ist es der Organisation gelungen, 30.000 Pfund für die mehrfach mit Preisen ausgezeichnete Dokumentation "Hogwood: A Modern Horror Story" zu sammeln.
+
+## Takeaway the Meat
 
 <YouTube id="OdknF59dh1c" />
 
