@@ -44,7 +44,7 @@ Der Frage "[Warum wir Hunde lieben, Schweine essen und Kühe anziehen](/2019/03/
 
 ## Warum behandeln wir unseren Hund anders, als ein Schwein?
 
-Der TV-Spot zeigt ein Paar, das täglich Fleisch isst, bei der Entscheidung, welches Essen man sich heute mal liefern lassen könnte. Sie kuscheln gemeinem mit ihrem Hund auf der Couch. Schließlich entscheiden sie sich dazu, über die App "Just Meat" (die hierzulande wohl bekannteste Liefer-App Lieferando heißt in England "Just Eat"), Pulled Pork zu ordern.
+Der TV-Spot zeigt ein Paar, das täglich Fleisch isst, bei der Entscheidung, welches Essen man sich heute mal liefern lassen könnte. Sie kuscheln gemeinsam mit ihrem Hund auf der Couch. Schließlich entscheiden sie sich dazu, über die App "Just Meat" (die hierzulande wohl bekannteste Liefer-App Lieferando heißt in England "Just Eat"), Pulled Pork zu ordern.
 
 Als die Lieferung kurze Zeit später eintrifft, rennen die beiden gespannt an die Tür und wollen ihren Augen kaum trauen: Neben dem Lieferfahrer, der ein großes Schlachtermesser in seiner Hand hält, steht ein Schwein. Er begrüßt seine Kund⋆innen mit den Worten 
 
