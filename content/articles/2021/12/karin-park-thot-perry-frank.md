@@ -65,7 +65,7 @@ Auf der Thot Homepage[^1] findet Ihr alle Infos über die EP und wo Ihr sie beko
 
 ## Thot – "Euphrate" (Teaser)
 
-<YouTube id="eAGM5P5XR-c&t=3s" />
+<YouTube id="eAGM5P5XR-c&t=1s" />
 
 ## Karin Park – "Church of Imagination" (LP)
 
