@@ -39,7 +39,7 @@ languageLink: /2021/12/karin-park-thot-perry-frank/
 
 ## Perry Frank - "Morning View" (EP)
 
-On 26 November, Francesco Perra, aka Perry Frank, released his new EP "Morning View" on the Australian label Valley View Records.
+On 26 November, [Francesco Perra, aka Perry Frank](/2020/11/perry-frank-interview-en), released his new EP "Morning View" on the Australian label Valley View Records.
 
 The record consists of four previously unreleased instrumental ambient pieces. The sound tinkerer again stimulates the imagination with intense textures, his characteristic guitar drone sound and vivid, atmospheric parts.
 
