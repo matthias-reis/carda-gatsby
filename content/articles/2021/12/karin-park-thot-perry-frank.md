@@ -69,7 +69,7 @@ Auf der Thot Homepage[^1] findet Ihr alle Infos über die EP und wo Ihr sie beko
 
 ## Karin Park – "Church of Imagination" (LP)
 
-Nächsten Freitag wird es endlich so weit sein: Nach großartigen Aufnahmen mit Lustmord und ausverkauften Performances mit Årabrot veröffentlicht Karin Park endlich ihr neues Solo-Album "Church Of Imagination". Und das nächste hat sie für 2022 auch schon angekündigt. Der erste Teaser für "Church Of Imagination hat Karin bereits veröffentlicht. Ich kann nur so viel verraten: Wenn Euch "Shape Of A Child" gefällt, solltet Ihr Euch den Rest der Platte auf keinen Fall entgehen lassen. Sie steckt voller Überraschungen und ist so vielseitig, wie Karin selbst. Ihre Musik bewegt, begeistert und berührt. 
+Nächsten Freitag wird es endlich so weit sein: Nach [großartigen Aufnahmen mit Lustmord](/2021/05/karin-park-lustmord-alter/) und ausverkauften Performances mit Årabrot veröffentlicht Karin Park endlich ihr neues Solo-Album "Church Of Imagination". Und das nächste hat sie für 2022 auch schon angekündigt. Der erste Teaser für "Church Of Imagination hat Karin bereits veröffentlicht. Ich kann nur so viel verraten: Wenn Euch "Shape Of A Child" gefällt, solltet Ihr Euch den Rest der Platte auf keinen Fall entgehen lassen. Sie steckt voller Überraschungen und ist so vielseitig, wie Karin selbst. Ihre Musik bewegt, begeistert und berührt. 
 
 Zum kürzlich veröffentlichten Video zu Track zwei auf der Platte sagt Karin Park:
 
