@@ -47,7 +47,7 @@ Drei der vier Stücke hat Francesco im Sommer dieses Jahres geschrieben, währen
 
 Diese schrecklichen Bilder verarbeitet der Musiker mit seiner EP. Die sich verändernde Natur, die radikalen Einschnitte und das Feuer sieht man bei Hören genauso vor seinem inneren Auge wie den Wunsch nach einer Lösung, nach Flucht, Ruhe und dem Ende der Gefahr.
 
-Beim Titel-Track "Morning View" handelt es sich um einen Song, den der Künstler seit 2020 live performt. Das Stück ist von den starken Drone Klänge im Hintergrund geprägt, die sich in eine Serie aus anschwellenden Gitarren Akkorden ergießen, um sich zum Ende hin wieder harmonisch zusammenzufügen und die Bühne für den Rest der Platte vorzubereiten. Er wirkt wie eine Arie für eine Oper, die uns den Spiegel vorhält und uns unsere Furcht zeigt. Die Furcht vor unserem eigenen Verderben.
+Beim Titel-Track "Morning View" handelt es sich um einen Song, den der Künstler seit 2020 live performt. Das Stück ist von den starken Drone Klängen im Hintergrund geprägt, die sich in eine Serie aus anschwellenden Gitarren Akkorden ergießen, um sich zum Ende hin wieder harmonisch zusammenzufügen und die Bühne für den Rest der Platte vorzubereiten. Er wirkt wie eine Arie für eine Oper, die uns den Spiegel vorhält und uns unsere Furcht zeigt. Die Furcht vor unserem eigenen Verderben.
 
 Ich teile heute mit Euch den zweiten Song auf der EP. "Alagon" ist ein nachdenkliches Drone Stück mit einer unerwarteten Entwicklung.
 
