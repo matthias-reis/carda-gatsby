@@ -39,7 +39,7 @@ languageLink: /2021/12/karin-park-thot-perry-frank/
 
 ## Perry Frank - "Morning View" (EP)
 
-On 26 November, [Francesco Perra, aka Perry Frank](/2020/11/perry-frank-interview-en), released his new EP "Morning View" on the Australian label Valley View Records.
+On November 26th, [Francesco Perra, aka Perry Frank](/2020/11/perry-frank-interview-en), released his new EP "Morning View" on the Australian label Valley View Records.
 
 The record consists of four previously unreleased instrumental ambient pieces. The sound tinkerer again stimulates the imagination with intense textures, his characteristic guitar drone sound and vivid, atmospheric parts.
 
@@ -61,7 +61,7 @@ Hot on the heels of their recently released, terrific Pink Floyd cover "[What Sh
 
 Juliette Maudit's great voice accompanies Gregoire's French lyrics to this new masterpiece. A surprise and an entirely new element in Thot's sound is the polyphonic choir vocals of Mystery of the Bulgarian Voices, with whom the collective teamed up for the EP. The combination of industrial sound, harmonic vocals and melancholy lyrics is sonorous, impressive and beautiful. The strong contrasts and supposedly significant differences build a radiant connection and totality that could hardly be stronger.
 
-Check out Thot's homepage[^1] for more information about the EP and where to get it. The record will be out on 11 February, the first song "Euphrate" already on 10 December. Here is the teaser.
+Check out Thot's homepage[^1] for more information about the EP and where to get it. The record will be out on February 11th, the first song "Euphrate" already on 10 December. Here is the teaser.
 
 ## Thot - "Euphrate" (Teaser)
 
@@ -81,7 +81,7 @@ Karin recently released a video for track two on the record. Here is what she to
 
 Karin made a short documentary to accompany her new album in which she talks about how she found her way to music and her idea behind "Church of Imagination". It is also absolutely worth watching.
 
-"Church of Imagination" will be out on 10 December on Pelagic Records.
+"Church of Imagination" will be out on December 10th on Pelagic Records.
 
 ## Karin Park - "Church of Imagination" (Documentary)
 
