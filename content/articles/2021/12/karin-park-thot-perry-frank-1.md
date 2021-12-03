@@ -61,7 +61,7 @@ Hot on the heels of their recently released, terrific Pink Floyd cover "[What Sh
 
 Juliette Maudit's great voice accompanies Gregoire's French lyrics to this new masterpiece. A surprise and an entirely new element in Thot's sound is the polyphonic choir vocals of Mystery of the Bulgarian Voices, with whom the collective teamed up for the EP. The combination of industrial sound, harmonic vocals and melancholy lyrics is sonorous, impressive and beautiful. The strong contrasts and supposedly significant differences build a radiant connection and totality that could hardly be stronger.
 
-Check out Thot's homepage for [more information](https://thotweb.net/meandres/) on where to get the EP. The record will be out on 11 February, the first song "Euphrate" already on 10 December. Here is the teaser.
+Check out Thot's homepage[^1] for more information about the EP and where to get it. The record will be out on 11 February, the first song "Euphrate" already on 10 December. Here is the teaser.
 
 ## Thot - "Euphrate" (Teaser)
 
@@ -87,4 +87,4 @@ Karin made a short documentary to accompany her new album in which she talks abo
 
 <YouTube id="lvhvZndNacw&t=1s" />
 
-Perry Frank, Ambient, Karin Park, Thot, Post-Rock, Post-Music, Pelagic, Valley View Records, Review, Reviews, Band, Bands, Drone, Experimental, Instrumental
+[^1]: [Thot Homepage](https://thotweb.net/meandres/)
