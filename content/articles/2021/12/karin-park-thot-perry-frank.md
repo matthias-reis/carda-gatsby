@@ -57,7 +57,7 @@ Ich teile heute mit Euch den zweiten Song auf der EP. "Alagon" ist ein nachdenkl
 
 ## Thot feat. The Mystery of the Bulgarian Voices – "Meandres" (EP)
 
-Kurz nach ihrem kürzlich veröffentlichten, grandiosen Pink Floyd Cover "What Shall We Do Now?" Veröffentlicht das belgische Post-Rock/Industrial Kollektiv Thot seine neue EP "Meandres". Dabei handelt es sich um drei Songs, die der Kopf der Band Gregoire Fray vor dem Beginn der weltweiten Corona-Pandemie im März 2020 geschrieben hat.
+Kurz nach ihrem kürzlich veröffentlichten, grandiosen Pink Floyd Cover "[What Shall We Do Now?](/2021/10/thot-what-shall-we-do-now/)" veröffentlicht das belgische Post-Rock/Industrial Kollektiv Thot seine neue EP "Meandres". Dabei handelt es sich um drei Songs, die der Kopf der Band Gregoire Fray vor dem Beginn der weltweiten Corona-Pandemie im März 2020 geschrieben hat.
 
 Grégoires französische Lyrics werden bei dem neuen Meisterwerk von Juliette Maudits großartiger Stimme begleitet. Eine Überraschung und ein völlig neues Element in Thots Sound ist der polyfone Chor-Gesang von Mystery of the Bulgarian Voices, mit denen sich das Kollektiv für die EP zusammengetan hat. Die Kombination aus Industrial Sound, harmonischem Gesang und klagenden Lyrics ist klangvoll, beeindruckend und schön. Die starken Kontraste und vermeintlich großen Unterschiede sorgen für eine strahlende Verbindung und Gesamtheit, die stärker kaum sein könnte.
 
