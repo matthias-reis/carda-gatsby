@@ -43,7 +43,7 @@ On November 26th, [Francesco Perra, aka Perry Frank](/2020/11/perry-frank-interv
 
 The record consists of four previously unreleased instrumental ambient pieces. The sound tinkerer again stimulates the imagination with intense textures, his characteristic guitar drone sound and vivid, atmospheric parts.
 
-Francesco wrote three of the four pieces in the summer of this year while terrible forest fires raged in his home island, destroying a large part of the landscape.
+Francesco wrote three of the four pieces in the summer of this year while terrible forest fires raged on his home island, destroying a large part of the landscape.
 
 The musician processes these terrible images with his EP. While listening to the songs, I can see the changing nature, the radical cuts, and the fire's brutality in front of my mind's eye. Yet, I can also sense the desire for escape, a solution, peace and the end of the dangerous situation.
 
