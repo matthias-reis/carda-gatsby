@@ -47,7 +47,7 @@ Francesco wrote three of the four pieces in the summer of this year while terrib
 
 The musician processes these terrible images with his EP. While listening to the songs, I can see the changing nature, the radical cuts, and the fire's brutality in front of my mind's eye. Yet, I can also sense the desire for escape, a solution, peace and the end of the dangerous situation.
 
-The title track "Morning View" is a song that the artist has performed since 2020. The strong drone sounds in the background characterise the track, pouring into a series of swelling guitar chords, only to come back together in harmony towards the end, setting the stage for the rest of the record. It feels like an aria for an opera, holding up a mirror to show us our fear – the fear of our Helplessness and failure.
+The title track "Morning View" is a song that the artist has performed since 2020. The strong drone sounds in the background characterise the track, pouring into a series of swelling guitar chords, only to come back together in harmony towards the end, setting the stage for the rest of the record. It feels like an aria for an opera, holding up a mirror to show us our fear – the fear of our helplessness and failure.
 
 I want to share the second song on the EP with you. "Alagon" is a thoughtful drone piece with an unexpected development.
 
