@@ -85,6 +85,6 @@ Begleitend zum neuen Album gibt es von Karin Park eine kurze Dokumentation, in d
 
 ## Karin Park - "Church of Imagination" (Doku)
 
-<YouTube id="lvhvZndNacw&t=1s" />
+<YouTube id="lvhvZndNacw&t=2s" />
 
 [^1]: [Thot Homepage](https://thotweb.net/meandres/)
