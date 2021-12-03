@@ -61,7 +61,7 @@ Kurz nach ihrem kürzlich veröffentlichten, grandiosen Pink Floyd Cover "[What 
 
 Grégoires französische Lyrics werden bei dem neuen Meisterwerk von Juliette Maudits großartiger Stimme begleitet. Eine Überraschung und ein völlig neues Element in Thots Sound ist der polyfone Chor-Gesang von Mystery of the Bulgarian Voices, mit denen sich das Kollektiv für die EP zusammengetan hat. Die Kombination aus Industrial Sound, harmonischem Gesang und klagenden Lyrics ist klangvoll, beeindruckend und schön. Die starken Kontraste und vermeintlich großen Unterschiede sorgen für eine strahlende Verbindung und Gesamtheit, die stärker kaum sein könnte.
 
-Auf der Thot Homepage findet Ihr [alle Infos](https://thotweb.net/meandres/), wo Ihr die EP bekommt. Die EP erscheint am 11. Februar, der erste Song "Euphrate" bereits am 10. Dezember. Hier ist der Teaser.
+Auf der Thot Homepage[^1] findet Ihr alle Infos über die EP und wo Ihr sie bekommt. Die EP erscheint am 11. Februar, der erste Song "Euphrate" bereits am 10. Dezember. Hier ist der Teaser.
 
 ## Thot – "Euphrate" (Teaser)
 
@@ -86,3 +86,5 @@ Begleitend zum neuen Album gibt es von Karin Park eine kurze Dokumentation, in d
 ## Karin Park - "Church of Imagination" (Doku)
 
 <YouTube id="lvhvZndNacw&t=1s" />
+
+[^1]: [Thot Homepage](https://thotweb.net/meandres/)
