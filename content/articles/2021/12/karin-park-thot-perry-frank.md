@@ -73,7 +73,7 @@ Nächsten Freitag wird es endlich so weit sein: Nach [großartigen Aufnahmen mit
 
 Zum kürzlich veröffentlichten Video zu Track zwei auf der Platte sagt Karin Park:
 
-> "Ich habe dieses Video in Gedenken an meinen Vater gemacht. Er ist leider von uns gegangen, bevor es erscheint aber ich hatte das Glück, ihn für das Stück dabei zu filmen, wie er seine geliebte Hammondorgel spielte und im Chor sang. Der Song handelt von einer Vision, die ich von meiner Tochter Lydia hatte – lange bevor sie zur Welt kam. Geschrieben wurde er von Kjetil Nernes geschrieben – mit der Unterstützung der fantastischen LaGaylia Frazier."
+> "Ich habe dieses Video in Gedenken an meinen Vater gemacht. Er ist leider von uns gegangen, bevor es erschienen ist, aber ich hatte das Glück, ihn für das Stück dabei zu filmen, wie er seine geliebte Hammondorgel spielte und im Chor sang. Der Song handelt von einer Vision, die ich von meiner Tochter Lydia hatte – lange bevor sie zur Welt kam. Geschrieben wurde er von Kjetil Nernes geschrieben – mit der Unterstützung der fantastischen LaGaylia Frazier."
 
 "Church of Imagination" erscheint am 10. Dezember auf Pelagic Records.
 
