@@ -85,6 +85,6 @@ Karin made a short documentary to accompany her new album in which she talks abo
 
 ## Karin Park - "Church of Imagination" (Documentary)
 
-<YouTube id="lvhvZndNacw&t=1s" />
+<YouTube id="lvhvZndNacw&t=2s" />
 
 [^1]: [Thot Homepage](https://thotweb.net/meandres/)
