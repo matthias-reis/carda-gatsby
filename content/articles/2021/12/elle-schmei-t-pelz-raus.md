@@ -7,10 +7,11 @@ subTitle: Tierhaut ist nicht mehr in Mode
 seoTitle: "Fashion Magazin Elle beschließt: Pelz ist aus der Mode"
 description: Pelz scheint nun zum Glück endgültig aus der Mode zu kommen. Hoffen
   wir mal, dass es so bleibt. Sogar das High Fashion Magazin Elle hat jetzt
-  genug von Tierhäuten und spricht sich erstmals ganz offiziell gegen Pelze aus
+  genug von Tierhäuten und spricht sich erstmals ganz offiziell gegen Pelze aus.
 excerpt: Pelz scheint nun zum Glück endgültig aus der Mode zu kommen. Hoffen wir
   mal, dass es so bleibt. Sogar das High Fashion Magazin Elle hat jetzt genug
-  von Tierhäuten und spricht sich erstmals ganz offiziell gegen Pelze aus
+  von Tierhäuten und spricht sich erstmals ganz offiziell gegen Pelze aus - mit
+  einem Pelzbann!
 image: https://storage.googleapis.com/cardamonchai-media/2021-12-15/elle-pelz-silberfuchs-jpg-imagine-080808_4c5626_1024_768/640.webp
 copyrigt: 9685995, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-12-15/elle-pelz-silberfuchs-fb-png-imagine-080808_484f29_1200_628/640.webp
