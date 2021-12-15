@@ -34,7 +34,7 @@ language: de
 ---
 **Pelz scheint nun zum Glück endgültig aus der Mode zu kommen. Hoffen wir mal, dass es so bleibt. Sogar das High Fashion Magazin Elle hat jetzt genug von Tierhäuten und spricht sich erstmals ganz offiziell gegen Pelze aus.**
 
-Mit seinem Pelzbann erreicht das Hochglanzmagazin mit seinen 45 Ausgaben weltweit 175 Leser⋆innen. Auch das größte Produktionsland für Pelze überhaupt, China, wird von der Aktion nicht ausgeschlossen.
+Mit seinem Pelzbann erreicht das Hochglanzmagazin mit seinen 45 Ausgaben weltweit 175 Leser⋆innen. Auch das größte Produktionsland für Pelze überhaupt, China, wird bei der Aktion nicht ausgeschlossen.
 
 ## Elle möchte sich für eine Tierleid-freie Modeindustrie einsetzen
 
