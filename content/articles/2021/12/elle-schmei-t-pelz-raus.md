@@ -46,7 +46,7 @@ Die Nachricht verbreitet sich seit ihrer Bekanntgabe auf der Business of Fashion
 
 ## Ein Zeichen gegen die Grausamkeit
 
-Constance Benqué, CEO Lagardère News und CEO Elle International bei Elle gab eine Erklärung dazu heraus. Darin sagt sie unter anderem:
+Constance Benqué, CEO Lagardère News und CEO Elle International bei Elle, gab eine Erklärung dazu heraus. Darin sagt sie unter anderem:
 
 > "Für die Marke Elle war gesellschaftliches Engagement schon immer eine der wichtigsten Säulen. Wir leben heute in einer anderen Welt und das Ende der Pelzindustrie entspricht unserer heutigen Zeit. Wir hoffen, dass wir anderen Medien mit unserem Engagement den Weg für ein weltweites Verbot für Pelze ebnen und damit die hoffentlich pelzfreie Zukunft fördern."
 
@@ -54,7 +54,7 @@ Immer mehr Unternehmen entscheiden sich dafür, Pelz aus ihren Kollektionen zu v
 
 ## "Wir wünschen uns eine humanere Modeindustrie"
 
-Für Valéria Bessolo Llopiz, Senior Vice President und internationale Direktorin bei Elle war der Pelzbann der nächste logische Schritt:
+Für Valéria Bessolo Llopiz, Senior Vice President und internationale Direktorin bei Elle, war der Pelzbann der nächste logische Schritt:
 
 > "Wir engagieren uns mit unseren Sonderausgaben und regelmäßigen Beiträgen zu diesen Themen seit vielen Jahren für Umwelt, Nachhaltigkeit und Ökologie. Die ständige Präsenz von Pelzen auf unseren Magazinseiten und in unseren digitalen Medienformaten passte da schon lange nicht mehr ins Bild. Es ist an der Zeit, dass wir als Elle eine Erklärung zu diesem Thema abgeben. Eine Erklärung, die unsere Aufmerksamkeit für die kritischen Themen des Schutzes und der Pflege unserer Umwelt den Tieren widerspiegelt und Tierquälerei eindeutig ablehnt. Wir wollen außerdem die Gelegenheit nutzen, das Bewusstsein für den Tierschutz zu schärfen, die Nachfrage nach nachhaltigen und innovativen Alternativen zu stärken und eine humanere Modeindustrie zu fördern."
 
