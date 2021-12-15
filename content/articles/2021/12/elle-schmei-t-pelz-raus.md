@@ -42,7 +42,7 @@ Bei dem wichtigen Schritt, den Elle damit gegangen ist, handelt es sich um einen
 
 13 Publikationen des Verlages waren schon länger Pelz-frei. Darunter auch Elle UK. Die Begründung für den Rückzug aus der Pelzmode ist der Wunsch, das grausam erzeugte Produkt Pelz aus allen Artikeln, Bildstrecken und Modenschau-Storys zu verbannen. Auch Anzeigen und Werbung für Pelzmode verbietet Elle ab sofort.
 
-Die Nachricht verbreitet sich seit ihrer Bekanntgabe auf der Business of Fashion's 2021 VOICES in London wie ein Lauffeuer. Sie bewegt längst nicht nur die Stammleserschaft der Modezeitschrift.
+Die Nachricht verbreitet sich seit ihrer Bekanntgabe auf der Business of Fashion VOICES 2021 in London wie ein Lauffeuer. Sie bewegt längst nicht nur die Stammleserschaft der Modezeitschrift.
 
 ## Ein Zeichen gegen die Grausamkeit
 
