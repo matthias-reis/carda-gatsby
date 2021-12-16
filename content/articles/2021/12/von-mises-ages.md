@@ -43,7 +43,7 @@ Das Konzept geht also voll auf – in nur 40 Minuten und 52 Sekunden. Mehr Zeit 
 
 Sprachsamples lassen zwischendurch tief blicken (zu hören gibt es unter anderem einen Schnipsel aus einer Rede von Klima-Aktivistin Greta Thunberg und einen Auszug von Charly Chaplins Text im Film "Der große Diktator") und machen neugierig auf den nächsten Song. Nicht nur das ist wirklich typisch für das von der Band gewählte Genre. Auch sonst weichen Von Mises kaum von diesem gedachten "Rahmen" ab. Das macht aber nichts, denn wie sie es tun, machen sie es richtig. Ich würde das Trio direkt ins Vorprogramm von Bands wie [We Lost The Sea](/2021/01/we-lost-the-sea-interview/) oder [Baulta](/2021/03/baulta-interview/) packen. Ich bin gespannt, was die Zukunft bringt.
 
-Ihr bekommt "Ages" von Von Mises als CD, Tape oder natürlich bei den Online-Musikdiensten. Hört unbedingt mal rein, ich könnte mir vorstellen, dass die Platte auch was für Eure Ohren ist.
+Ihr bekommt "Ages" von Von Mises als CD, Tape oder natürlich bei den Online-Musikdiensten. Hört unbedingt mal rein, ich kann mir gut vorstellen, dass die Platte auch was für Eure Ohren ist.
 
 ## Von Mises – "Versus"
 
