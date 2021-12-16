@@ -1,17 +1,27 @@
 ---
-date: 2020-05-14T06:49:55.000Z
-slug: ein-armband-fuer-die-frauenrechte
-path: /2020/05/ein-armband-fuer-die-frauenrechte/
-title: Ein Armband für die Frauenrechte
-seoTitle: Ein Armband für die Frauenrechte - kenianische Kunst gegen Gewalt
 ogTitle: Ein Armband für die Frauenrechte - kenianische Kunst gegen Gewalt
-description: Kenianische Künstlerinnen stellen Armbänder her, die zur Beendigung der Gewalt gegen Frauen beitragen sollen. Das Projekt wurde von UN Women gegründet.
-excerpt: Kenianische Künstlerinnen stellen Armbänder her, die zur Beendigung der Gewalt gegen Frauen beitragen sollen. Das Projekt wurde von UN Women gegründet.
-fileName: 2020-05---ein-armband-fuer-die-frauenrechte.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-13-armband-un-women-06__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-13-armband-un-women-06__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMGBwgCBAX/xAAoEAACAQIGAQQCAwAAAAAAAAABAwIEEQAFBhIhQTEHEyJRFCMykaH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAAMF/8QAIxEAAQQBAgcBAAAAAAAAAAAAAQACAxEhEnEEIjFBUbHB8P/aAAwDAQACEQMRAD8Aln059THahVVMzWkUmmUbLqkkiMz3HaSTcffjrDuZrDKYjl8uTYfHvFXvT/PyrQtIinU6TQWmRiLXO4ng4WqdWPkj9sVxS6B3GEjIxHIN4+SR9YjnWTQVjhFG0andR+yrF0OtaZj65VVNcAt1kzWQdy7Ai/P8uJX6xyJ+otLOszCjqSlEUg+033RdhvxEA+Zcg2H0cV/hqpOdIqp/i0dIrL0b5Pi6MG1AJtG0CQTLgmw3d8jGvRaxpVVrZT3NQlW2IMCCyJFvkSSb7j5vwMAkklLtOk1YvY4TIIo3NNkXRI3GfiYOiM9emhfQ/lNVGN5qjADyfN8IZ7VVC86eyErSbtnLb4NwCf8Ab4MGHO5ZMI+HxUfKzybIMwzOqbKK/YiYcybeAIkev6PWJK0t6fUbqi2bNYynCjCYRZYnITFvlzLokkgdAYMGM6eZ94KfwzGtaTXb2v/Z
+excerpt: Kenianische Künstlerinnen stellen Armbänder her, die zur Beendigung der
+  Gewalt gegen Frauen beitragen sollen. Das Projekt wurde von UN Women
+  gegründet.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_armband-frauenrechte-fb.png__l.jpg
+isAffiliate: false
+path: /2020/05/ein-armband-fuer-die-frauenrechte/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMGBwgCBAX/xAAoEAACAQIGAQQCAwAAAAAAAAABAwIEEQAFBhIhQTEHEyJRFCMykaH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAAMF/8QAIxEAAQQBAgcBAAAAAAAAAAAAAQACAxEhEnEEIjFBUbHB8P/aAAwDAQACEQMRAD8Aln059THahVVMzWkUmmUbLqkkiMz3HaSTcffjrDuZrDKYjl8uTYfHvFXvT/PyrQtIinU6TQWmRiLXO4ng4WqdWPkj9sVxS6B3GEjIxHIN4+SR9YjnWTQVjhFG0andR+yrF0OtaZj65VVNcAt1kzWQdy7Ai/P8uJX6xyJ+otLOszCjqSlEUg+033RdhvxEA+Zcg2H0cV/hqpOdIqp/i0dIrL0b5Pi6MG1AJtG0CQTLgmw3d8jGvRaxpVVrZT3NQlW2IMCCyJFvkSSb7j5vwMAkklLtOk1YvY4TIIo3NNkXRI3GfiYOiM9emhfQ/lNVGN5qjADyfN8IZ7VVC86eyErSbtnLb4NwCf8Ab4MGHO5ZMI+HxUfKzybIMwzOqbKK/YiYcybeAIkev6PWJK0t6fUbqi2bNYynCjCYRZYnITFvlzLokkgdAYMGM6eZ94KfwzGtaTXb2v/Z
+isWerbung: false
+fileName: 2020-05---ein-armband-fuer-die-frauenrechte.md
+slug: ein-armband-fuer-die-frauenrechte
+errors: {}
+date: 2020-05-14T06:49:55.000Z
+focusKeyword: Armband
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-13-armband-un-women-06__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-13-armband-un-women-06__m.jpg
+title: Ein Armband für die Frauenrechte
+subTitle: Kenianische Kunst gegen Gewalt
+seoTitle: Ein Armband für die Frauenrechte - kenianische Kunst gegen Gewalt
+description: Kenianische Künstlerinnen stellen Armbänder her, die zur Beendigung
+  der Gewalt gegen Frauen beitragen sollen. Das Projekt wurde von UN Women
+  gegründet.
 labels:
   - Antifaschismus & Feminismus
   - Charity
@@ -22,15 +32,8 @@ labels:
   - SOKO
   - UN Women
   - UNiTE
-focusKeyword: Armband
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Kenianische Kunst gegen Gewalt
 ---
-
 **Heute möchte ich Euch ein Projekt vorstellen, das mir sehr am Herzen liegt. Es wurde von UN Women zur Beendigung von Gewalt gegen Frauen ins Leben gerufen.**
 
 Jede dritte Frau wird Opfer körperlicher oder psychischer Gewalt. Bis heute wurde zudem in keinem Land der Welt die Gleichstellung der Geschlechter erreicht. Initiativen, die sich gegen die Gewalt und für ein Leben ohne Diskriminierung, Angst und Armut einsetzen, sind daher von großer Bedeutung.
@@ -57,6 +60,6 @@ Die Charity Armbänder werden aus orangefarbenen Glasperlen und Messing hergeste
 
 Die Aktion sorgt weltweit für Furore. Auf der UN Women Website kann man unter anderem Nicole Kidman mit einem der Armbänder sehen.
 
-Das nationale Komitee von UN Women in Deutschland ist ein gemeinnütziger Verein. Insgesamt gibt es weltweit 12 nationale Komitees. Sie unterstützen die Arbeit von UN Women und setzen sich in den verschiedenen Ländern für die Stärkung und Gleichstellung von Frauen ein.
+Das nationale Komitee von UN Women in Deutschland ist ein gemeinnütziger Verein. Insgesamt gibt es weltweit 12 nationale Komitees. Sie unterstützen die Arbeit von UN Women und setzen sich in den verschiedenen Ländern für die Stärkung und Gleichstellung von Frauen ein und kämpft [für intersektionalen Feminismus](https://www.unwomen.org/en/news/stories/2020/6/explainer-intersectional-feminism-what-it-means-and-why-it-matters).
 
 Das Charity Armband gegen Gewalt an Frauen könnt Ihr [hier bestellen](https://www.unwomen.de/helfen/charity-armband-gegen-gewalt-an-frauen.html).
