@@ -7,10 +7,10 @@ subTitle: Post-Rock aus Köln
 seoTitle: '"Ages" von Von Mises – Post-Rock Review'
 description: Von Mises aus Köln machen melodischen Post-Rock. Dabei setzen sie
   auf die klassische Bandbesetzung bestehend aus Rhythmusgruppe, Gitarre und
-  Electronic Sektion. Das Album "Ages" hat es musikalisch in sich.
+  Elektronischer Sektion. Das Album "Ages" hat es musikalisch in sich.
 excerpt: Von Mises aus Köln machen melodischen Post-Rock. Dabei setzen sie auf
   die klassische Bandbesetzung bestehend aus Rhythmusgruppe, Gitarre und
-  Electronic Sektion. Am 22. Oktober haben Jens, Mike und Gunther ihr Album
+  Elektronischer Sektion. Am 22. Oktober haben Jens, Mike und Gunther ihr Album
   "Ages" veröffentlicht, das es musikalisch in sich hat.
 image: https://storage.googleapis.com/cardamonchai-media/2021-12-16/von-mises-jpg-imagine-f8f8f8_000000_1024_768/640.webp
 copyrigt: Von Mises
