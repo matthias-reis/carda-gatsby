@@ -47,4 +47,4 @@ Ihr bekommt "Ages" von Von Mises als CD, Tape oder natürlich bei den Online-Mus
 
 ## Von Mises – "Versus"
 
-<YouTube id="eYK0GaoNJLQ&list=OLAK5uy_nwyGg0AvNFnAfYWxv83dNwc0Tin70APYg" />
+<YouTube id="YXStG9da0V8&list=OLAK5uy_nwyGg0AvNFnAfYWxv83dNwc0Tin70APYg&index=5" />
