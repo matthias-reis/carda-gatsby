@@ -48,4 +48,4 @@ You can get "Ages" by Von Mises as CD, tape, or of course at all known online mu
 
 ## Von Mises – "Versus"
 
-<YouTube id="YXStG9da0V8&list=OLAK5uy_nwyGg0AvNFnAfYWxv83dNwc0Tin70APYg&index=5" />
+<YouTube id="YXStG9da0V8" />
