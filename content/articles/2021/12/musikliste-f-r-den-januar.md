@@ -72,7 +72,7 @@ Als ich Lotus vor ein paar Jahren über das DUNK!festival kennenlernte, verliebt
 
 ## Smyčka – "Племя"
 
-Auch diese Post-Metal Combo habe ich Euch hier bereits in Form eines Interviews vorgestellt. Das neue Stück "Племя" ist noch relativ frisch – es ist am 28. November aus dem Studio gepurzelt, in dem sich Smyčka gerade aufhalten. Das Stück handelt von Menschen, die auf der Suche nach Nahrung zum Wandern gezwungen sind, von Knechtschaft und Entfremdung, von Waisen und  Vorhersehbarkeit, vom unaufhaltbaren Schicksal und der sich zuziehenden Schlinge des täglichen Alltags. Kurz gesagt: von unserer heutigen Zeit und ihrem schnellen Puls.
+Auch diese Post-Metal Combo habe ich Euch hier bereits [in Form eines Interviews](/2021/05/smycka-interview/) vorgestellt. Das neue Stück "Племя" ist noch relativ frisch – es ist am 28. November aus dem Studio gepurzelt, in dem sich Smyčka gerade aufhalten. Das Stück handelt von Menschen, die auf der Suche nach Nahrung zum Wandern gezwungen sind, von Knechtschaft und Entfremdung, von Waisen und  Vorhersehbarkeit, vom unaufhaltbaren Schicksal und der sich zuziehenden Schlinge des täglichen Alltags. Kurz gesagt: von unserer heutigen Zeit und ihrem schnellen Puls.
 
 <YouTube id="QYiJuSnHi94" />
 
