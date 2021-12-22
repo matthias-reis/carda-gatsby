@@ -94,7 +94,7 @@ Dominik Eulberg bringt nicht nur vielen Menschen  die elektronische Tanzmusik n�
 
 Dieser Songs stammt von Valentins Lieblingsliste des Monats:
 
-> "Dass Failure ein neues Album haben, hat mich diesen Monat wirklich sehr gefreut. Ursprünglich kenne ich diese großartige Band durch A Perfect Circle's einmalige Coverversion von 'The Nurse Who Loved Me' und durch ihren Ex-Gitaristen Troy Van Leeuwen, der seit vielen Jahren für Queens of the Stone Age musiziert. 'Wild Type Droid' ist das mittlerweile sechste Album von Failure, die nach ihrer dritten und für mich besten LP 'Fantastic Planet' eine neunjährige Pause eingelegt haben. 'Wild Type Droid' ist wunderbar erfrischen und hochinteressant wie seine Vorgänger. Für unsere Liste habe ich den Song 'Headstand' ausgesucht. Ihr solltet Euch die restlichen neun aber auf alle Fälle auch anhören."
+> "Dass Failure ein neues Album haben, hat mich diesen Monat wirklich sehr gefreut. Ursprünglich kenne ich diese großartige Band durch A Perfect Circle's einmalige Coverversion von 'The Nurse Who Loved Me' und durch ihren Ex-Gitaristen Troy Van Leeuwen, der seit vielen Jahren für Queens of the Stone Age musiziert. 'Wild Type Droid' ist das mittlerweile sechste Album von Failure, die nach ihrer dritten und für mich besten LP 'Fantastic Planet' eine neunjährige Pause eingelegt haben. 'Wild Type Droid' ist wunderbar erfrischend und hochinteressant wie seine Vorgänger. Für unsere Liste habe ich den Song 'Headstand' ausgesucht. Ihr solltet Euch die restlichen neun aber auf alle Fälle auch anhören."
 
 <YouTube id="qELLBHT6Esc" />
 
