@@ -137,3 +137,8 @@ Matze hat vor Kurzem die neue Single von Karnivool entdeckt. Jetzt hoffen wir in
 > "'Sound Awake' mit dem gigantischen 'New Day' gehört nach wie vor zu meinen Lieblingsalben. Leider hatten sich Karnivool seit ihrem letzten Release 'Asymmetry' aus dem Jahr 2013 in ihre Heimat Australien zurückgezogen und seitdem nichts mehr veröffentlicht. Durch eine Live BluRay habe ich nun ein neues Lebenszeichen von ihnen entdeckt. Die Single überzeugt mit hartem Prog. Der Gesang ist stark – genau wie damals. Ich hoffe wirklich sehr auf ein ganzes neues Album – bis jetzt habe ich allerdings noch nicht mehr gehört. Die Daumen bleiben auf jeden Fall weiter gedrückt. Ich sage es ja: 2022 könnte sich zu dem Jahr entwickeln, in dem der Prog zurückkommt!"
 
 <YouTube id="GWVgTWt94jE" />
+
+<Playlist
+  spotify="0Stz7oAyycHcnQplS5AvuB?si=20c6ca2c5cd6474c"
+  itunes="2021-12-25-rock-n-roll-vegan/pl.u-xPlXCA70b0v"
+/>
