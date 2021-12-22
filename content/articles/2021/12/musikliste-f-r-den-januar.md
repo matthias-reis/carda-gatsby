@@ -50,7 +50,7 @@ language: de
 
 Die Playlists für Spotify und iTunes findet Ihr wie gewohnt ganz unten. Doch nun erstmal zu unseren Songs. Natürlich erzählen wir Euch auch wieder, warum wir uns genau für diese Stücke entschieden haben. Viel Spaß beim Hören und einen guten Rutsch!
 
-## Cult of Luna – "Cold Burn" (Vorauskopplung vom Album "The Long Road North"
+## Cult of Luna – "Cold Burn" (Vorauskopplung vom Album "The Long Road North")
 
 Das neue Cult of Luna Album erscheint am 11. Februar. Die Vorauskopplung "Cold Burn" hat Matze diesen Monat schon mal auf die Liste gesetzt. Den Album-Titel "The Long Road North" finde ich ja besonders passend, weil wir es dieses Jahr zwischen den Wellen tatsächlich geschafft haben, endlich unsere lange geplante Reise nach Nord-Norwegen anzutreten – die übrigens traumhaft war. Doch ich schweife ab. Bei diesem übrigens ziemlich genialen Stück geht es natürlich um etwas komplett anderes. Hier kommt Matzes Anmoderation dazu:
 
