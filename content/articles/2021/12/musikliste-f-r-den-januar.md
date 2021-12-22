@@ -66,7 +66,7 @@ Dass Thot was Neues haben, hatte ich Euch ja [bereits erzählt](/2021/12/karin-p
 
 ## Lotus – "Don't Feel A Thing" vom Album "Dear Diary"
 
-Als ich Lotus vor ein paar Jahren über das DUNK!festival kennenlernte, verliebte ich mich sofort in ihren wunderbaren Post-Rock Sound. [Im Interview haben sie mir dann letztes Jahr alles über seinen Ursprung verraten](/2020/10/lotus-interview/). Jetzt ist das lang erwartet neue Album der Band aus und es ist mal wieder ganz großartig geworden. Hört Euch also auf keinen Fall nur das von mir ausgewählte Stück "Don't Fell A Thing" an, sondern bitte die komplette Platte! Sie erscheint schon sehr bald.
+Als ich Lotus vor ein paar Jahren über das DUNK!festival kennenlernte, verliebte ich mich sofort in ihren wunderbaren Post-Rock Sound. [Im Interview haben sie mir dann letztes Jahr alles über seinen Ursprung verraten](/2020/10/lotus-interview/). Jetzt steht das lang erwartet neue Album der Band an und es verspricht wieder ganz großartig zu werden. Hört Euch also auf keinen Fall nur das von mir ausgewählte Stück "Don't Fell A Thing" an, sondern bitte die komplette Platte! Sie erscheint schon sehr bald.
 
 <YouTube id="H59038_ic_0" />
 
