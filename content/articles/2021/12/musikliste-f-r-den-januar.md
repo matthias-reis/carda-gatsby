@@ -134,7 +134,7 @@ Das am 3. Dezember erschienene neue The Physics House Band Album trägt passende
 
 Matze hat vor Kurzem die neue Single von Karnivool entdeckt. Jetzt hoffen wir insgeheim auf ein neues Album. Hier kommt seine Review:
 
-"'Sound Awake' mit dem gigantischen 'New Day' gehört nach wie vor zu meinen Lieblingsalben. Leider hatten sich Karnivool seit ihrem letzten Release 'Asymmetry' aus dem Jahr 2013 in ihre Heimat Australien zurückgezogen und seitdem nichts mehr veröffentlicht. Zusammen mit einer Live BluRay habe ich nun ein Lebenszeichen von ihnen entdeckt. Die Single überzeugt mit hartem Prog. Der Gesang ist stark – genau wie damals.
+> "'Sound Awake' mit dem gigantischen 'New Day' gehört nach wie vor zu meinen Lieblingsalben. Leider hatten sich Karnivool seit ihrem letzten Release 'Asymmetry' aus dem Jahr 2013 in ihre Heimat Australien zurückgezogen und seitdem nichts mehr veröffentlicht. Zusammen mit einer Live BluRay habe ich nun ein Lebenszeichen von ihnen entdeckt. Die Single überzeugt mit hartem Prog. Der Gesang ist stark – genau wie damals.
 Ich hoffe wirklich sehr auf ein ganzes neues Album – bis jetzt habe ich allerdings noch nicht mehr gehört. Die Daumen bleiben auf jeden Fall weiter gedrückt. Ich sage es ja: 2022 könnte sich zu dem Jahr entwickeln, in dem der Prog zurückkommt!"
 
 <YouTube id="GWVgTWt94jE" />
