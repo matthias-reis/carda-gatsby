@@ -94,7 +94,7 @@ Wenn Ihr auf der Suche nach einem richtig schrägen und unfassbar geilen Ohrwurm
 
 Dominik Eulberg bringt nicht nur vielen Menschen  die elektronische Tanzmusik näher, sondern auch die heimische Flora und Fauna. Mit seinem Naturbuch "Mikroorgasmen überall" begeisterte er dieses Jahr längst nicht nur technoide Menschen. Jetzt hat er ein neues Album angekündigt. "Avichrom" soll ab dem 4. März in den Plattenläden stehen. Matze stellt Euch die Vorauskopplung "Rotmilan" vor:
 
-> "Dominik Eulberg ist Biologe und Techno DJ. Elektronische Musik ist nicht gerade mein Lieblings-Genre, aber Eulberg liefert immer wieder atemberaubende, progressive Kompositionen ab, die mich ziemlich begeistern. Darüber hinaus sind seine Artworks (inklusive Platten und Songtitel) wundervoll und immer aus seinem Fachgebiet entlehnt. Das neue Album 'Avichrom' bezieht sich auf die Farbenpracht der Vögel. Der Track 'Rotmilan' ist die erste Singleauskopplung, die einen wunderbar ruhigen und tranceartigen Auftakt liefert. Mein Tipp an dieser Stelle: Unbedingt im März die ganze Platte kaufen und Vögel bewundern!"
+> "Dominik Eulberg ist Biologe und Techno DJ. Elektronische Musik ist sonst nicht gerade mein Lieblings-Genre, aber Eulberg liefert immer wieder atemberaubende, progressive Kompositionen ab, die mich ziemlich begeistern. Darüber hinaus sind seine Artworks (inklusive Platten und Songtitel) wundervoll und immer aus seinem Fachgebiet entlehnt. Das neue Album 'Avichrom' bezieht sich auf die Farbenpracht der Vögel. Der Track 'Rotmilan' ist die erste Singleauskopplung, die einen wunderbar ruhigen und tranceartigen Auftakt liefert. Mein Tipp an dieser Stelle: Unbedingt im März die ganze Platte kaufen und Vögel bewundern!"
 
 <YouTube id="M8BjIfTwsAI" />
 
