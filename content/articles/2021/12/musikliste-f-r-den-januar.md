@@ -118,7 +118,7 @@ Valentin hat sich das neue Album von Neil Young & Crazy Horse angehört und auss
 
 Auch dieses Stück hat Valentin zu unseren Songs des Monats hinzugefügt.
 
-> "Genau, wie über Neil Young muss ich über diesen Künstler gar nicht viel schreiben. Auch er hat mit seinem neuen Album eine Reihe wunderbarer Songs abgeliefert, die mehr als nur großartig klingen (am besten natürlich auf einer guten Musikanlage). 'The Bridge' ist, wenn wir die Sachen, die er mit The Police gemacht hat, mal außen vor lassen, Stings 14. Album und 'Loving You' ist ein Song, von dem ich nicht mehr so schnell loskomme."
+> "Genau, wie über Neil Young, muss ich über diesen Künstler gar nicht viel schreiben. Auch er hat mit seinem neuen Album eine Reihe wunderbarer Songs abgeliefert, die mehr als nur großartig klingen (am besten natürlich auf einer guten Musikanlage). 'The Bridge' ist, wenn wir die Sachen, die er mit The Police gemacht hat, mal außen vor lassen, Stings 14. Album und 'Loving You' ist ein Song, von dem ich nicht mehr so schnell loskomme."
 
 <YouTube id="-y6hT9zUI5o" />
 
