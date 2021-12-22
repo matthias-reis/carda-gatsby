@@ -110,7 +110,7 @@ Dieser Songs stammt von Valentins Lieblingsliste des Monats:
 
 Valentin hat sich das neue Album von Neil Young & Crazy Horse angehört und ausschließlich Positives zu berichten:
 
-> "Der Name dieses Künstlers spricht für sich selbst. Neil Young hat endlich mal wieder ein Album mit seiner alten Band Crazy Horse aufgenommen, mit der er einfach immer am besten klingt.'Barn' ist Neils inzwischen 43.(!) Album (ich habe jetzt hier einfach mal alle Kollaborationen und Projekte mit eingeschlossen) und 'Human Race' klingt einfach so, wie Neil Young klingen muss."
+> "Der Name dieses Künstlers spricht für sich selbst. Neil Young hat endlich mal wieder ein Album mit seiner alten Band Crazy Horse aufgenommen, mit der er einfach immer am besten klingt. 'Barn' ist Neils inzwischen 43.(!) Album (ich habe jetzt hier einfach mal alle Kollaborationen und Projekte mit eingeschlossen) und 'Human Race' klingt einfach so, wie Neil Young klingen muss."
 
 <YouTube id="3Le9mf7lobw" />
 
