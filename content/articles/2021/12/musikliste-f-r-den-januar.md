@@ -58,11 +58,13 @@ Das neue Cult of Luna Album erscheint am 11. Februar. Die Vorauskopplung "Cold B
 
 <YouTube id="0alDMvVk4jY" />
 
-## Thot – "Euphrate" (Radio Edit, Vorauskopplung von der EP "Meandres")
+## Katre – "The Decision" vom Album "Behind The Resilicence"
 
-Dass Thot was Neues haben, hatte ich Euch ja [bereits erzählt](/2021/12/karin-park-thot-perry-frank/). Bis jetzt hatte ich allerdings nur ein Teaser-Video mit Euch geteilt. Heute bekommt Ihr einen kompletten Song. Insgesamt befinden sich drei davon auf der neuen EP, die das belgische Post-Rock/Industrial Projekt um Grégoire Fray in Kooperation mit The Mystery of the Bulgarian Voices aufgenommen hat. Sie ist für den 11. Februar angekündigt.
+Hier kommt eine Neuerdeckung aus Valentins Plattenkiste:
 
-<YouTube id="e9HTdRDaDdQ" />
+> "Kürzlich habe ich die Band Katre für mich entdeckt und mich sehr gefreut, mal wieder richtig guten Post-Metal zu hören. Die Band stammt aus Berlin, der Name 'Katre' ist aus dem Arabischen abgeleitet und bedeutet soviel wie 'Tropfen'. Auf ihrem zweiten Album 'Behind The Resilience' geht es um Geflüchtete – offenbar konzentrieren sich die Songs auf die verschiedenen Phasen der Flucht. Ich habe mich für das zweite Stück 'The Decision' entschieden, das mich sehr an die Musik von Bands wie Isis oder Russian Circles erinnert."
+
+<YouTube id="eUILOStMH5w" />
 
 ## Lotus – "Don't Feel A Thing" vom Album "Dear Diary"
 
@@ -75,6 +77,12 @@ Als ich Lotus vor ein paar Jahren über das DUNK!festival kennenlernte, verliebt
 Auch diese Post-Metal Combo habe ich Euch hier bereits [in Form eines Interviews](/2021/05/smycka-interview/) vorgestellt. Das neue Stück "Племя" ist noch relativ frisch – es ist am 28. November aus dem Studio gepurzelt, in dem sich Smyčka gerade aufhalten. Das Stück handelt von Menschen, die auf der Suche nach Nahrung zum Wandern gezwungen sind, von Knechtschaft und Entfremdung, von Waisen und  Vorhersehbarkeit, vom unaufhaltbaren Schicksal und der sich zuziehenden Schlinge des täglichen Alltags. Kurz gesagt: von unserer heutigen Zeit und ihrem schnellen Puls.
 
 <YouTube id="QYiJuSnHi94" />
+
+## Thot – "Euphrate" (Radio Edit, Vorauskopplung von der EP "Meandres")
+
+Dass Thot was Neues haben, hatte ich Euch ja [bereits erzählt](/2021/12/karin-park-thot-perry-frank/). Bis jetzt hatte ich allerdings nur ein Teaser-Video mit Euch geteilt. Heute bekommt Ihr einen kompletten Song. Insgesamt befinden sich drei davon auf der neuen EP, die das belgische Post-Rock/Industrial Projekt um Grégoire Fray in Kooperation mit The Mystery of the Bulgarian Voices aufgenommen hat. Sie ist für den 11. Februar angekündigt.
+
+<YouTube id="e9HTdRDaDdQ" />
 
 ## GGGOLDDD – "Notes On How To Trust" (Vorauskopplung vom Album "This Shame Should Not Be Mine")
 
@@ -97,14 +105,6 @@ Dieser Songs stammt von Valentins Lieblingsliste des Monats:
 > "Dass Failure ein neues Album haben, hat mich diesen Monat wirklich sehr gefreut. Ursprünglich kenne ich diese großartige Band durch A Perfect Circle's einmalige Coverversion von 'The Nurse Who Loved Me' und durch ihren Ex-Gitaristen Troy Van Leeuwen, der seit vielen Jahren für Queens of the Stone Age musiziert. 'Wild Type Droid' ist das mittlerweile sechste Album von Failure, die nach ihrer dritten und für mich besten LP 'Fantastic Planet' eine neunjährige Pause eingelegt haben. 'Wild Type Droid' ist wunderbar erfrischend und hochinteressant wie seine Vorgänger. Für unsere Liste habe ich den Song 'Headstand' ausgesucht. Ihr solltet Euch die restlichen neun aber auf alle Fälle auch anhören."
 
 <YouTube id="qELLBHT6Esc" />
-
-## Katre – "The Decision" vom Album "Behind The Resilicence"
-
-Hier kommt eine Neuerdeckung aus Valentins Plattenkiste:
-
-> "Kürzlich habe ich die Band Katre für mich entdeckt und mich sehr gefreut, mal wieder richtig guten Post-Metal zu hören. Die Band stammt aus Berlin, der Name 'Katre' ist aus dem Arabischen abgeleitet und bedeutet soviel wie 'Tropfen'. Auf ihrem zweiten Album 'Behind The Resilience' geht es um Geflüchtete – offenbar konzentrieren sich die Songs auf die verschiedenen Phasen der Flucht. Ich habe mich für das zweite Stück 'The Decision' entschieden, das mich sehr an die Musik von Bands wie Isis oder Russian Circles erinnert."
-
-<YouTube id="eUILOStMH5w" />
 
 ## Neil Young & Crazy Horse – "Human Race" vom Album "Barn"
 
