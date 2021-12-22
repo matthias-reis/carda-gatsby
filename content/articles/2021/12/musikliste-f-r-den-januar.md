@@ -126,7 +126,7 @@ Auch dieses Stück hat Valentin zu unseren Songs des Monats hinzugefügt.
 
 Das am 3. Dezember erschienene neue The Physics House Band Album trägt passenderweise den Namen "Incident On 3rd". Matze hat es auf die Liste gesetzt:
 
-> "Ich bin mir nicht sicher, ob The Physics House Band eine große Gefolgschaft besitzen. Auf den Festivals, auf denen sie uns bisher begegnet sind, hatte sie ihre Auftritte immer am frühen Nachmittag. Das hängt möglicherweise damit zusammen, dass ihr jazziger Prog so sperrig und wild mit den 7er-und 11er-Takten spielt. Ihre Spielqualität kann jedenfalls nicht der Grund dafür sein – die ist nämlich überragend. Ein Live-Konzert dieser Band kann ich also unbedingt empfehlen. Bis dahin könnt Ihr Euch ja mit dem neuen Album beschäftigen, das gerade frisch erschienen ist.
+> "Ich bin mir nicht sicher, ob The Physics House Band eine große Gefolgschaft besitzen. Auf den Festivals, auf denen sie uns bisher begegnet sind, hatten sie ihre Auftritte immer am frühen Nachmittag. Das hängt möglicherweise damit zusammen, dass ihr jazziger Prog so sperrig und wild mit den 7er-und 11er-Takten spielt. Ihre Spielqualität kann jedenfalls nicht der Grund dafür sein – die ist nämlich überragend. Ein Live-Konzert dieser Band kann ich also unbedingt empfehlen. Bis dahin könnt Ihr Euch ja mit dem neuen Album beschäftigen, das gerade frisch erschienen ist.
 
 <YouTube id="J9UaEIEDP_k" />
 
