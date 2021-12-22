@@ -9,7 +9,7 @@ description: Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück �
   als Ablenkung vom turbulenten Weltgeschehen derzeit taugt Musik wohl am
   besten. Auch diesen Monat habe ich wieder das Beste von Post-Rock bis Prog für
   Euch.
-excerpt: Das Jahr schreitet mit großen Schritten seinem Ende entgegen.
+excerpt: Das Jahr bewegt sich mit großen Schritten seinem Ende entgegen.
   Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück – als Ablenkung
   vom turbulenten Weltgeschehen derzeit taugt Musik wohl am besten. Auch diesen
   Monat habe ich gemeinsam mit Valentin und Matze für Euch wieder eine Liste
@@ -46,7 +46,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Das Jahr schreitet mit großen Schritten seinem Ende entgegen. Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück – als Ablenkung vom turbulenten Weltgeschehen derzeit taugt Musik wohl am besten. Auch diesen Monat habe ich gemeinsam mit Valentin und Matze für Euch wieder eine Liste zusammengestellt – für einen guten Start in ein hoffentlich gutes neues Jahr 2022.**
+**Das Jahr bewegt sich mit großen Schritten seinem Ende entgegen. Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück – als Ablenkung vom turbulenten Weltgeschehen derzeit taugt Musik wohl am besten. Auch diesen Monat habe ich gemeinsam mit Valentin und Matze für Euch wieder eine Liste zusammengestellt – für einen guten Start in ein hoffentlich gutes neues Jahr 2022.**
 
 Die Playlists für Spotify und iTunes findet Ihr wie gewohnt ganz unten. Doch nun erstmal zu unseren Songs. Natürlich erzählen wir Euch auch wieder, warum wir uns genau für diese Stücke entschieden haben. Viel Spaß beim Hören und einen guten Rutsch!
 
