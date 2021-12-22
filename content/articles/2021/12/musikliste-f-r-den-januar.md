@@ -78,7 +78,7 @@ Auch diese Post-Metal Combo habe ich Euch hier bereits [in Form eines Interviews
 
 ## GGGOLDDD – "Notes On How To Trust" (Vorauskopplung vom Album "This Shame Should Not Be Mine")
 
-Wenn Ihr auf der Suche nach einem richtig schrägen und unfassbar geilen Ohrwurm seid, dann solltet Ihr Euch "Notes On How To Trust" von GGGOLDDD mal anhören. Fragt mich jetzt nicht, wo ich diesen Song gefunden habe, aber er ist ein echtes Juwel und wir sollten dankbar sein, dass ich ihn ausgegraben habe. Das offizielle Video ist übrigens ähnlich stark. Das Stück erscheint am 1. April 2022 über Artoffact Records weltweit auf dem inzwischen fünften Studioalbum des niederländischen Post-Rock/Trip-Hop Projekts.
+Wenn Ihr auf der Suche nach einem richtig schrägen und unfassbar geilen Ohrwurm mit Tiefgang seid, dann solltet Ihr Euch "Notes On How To Trust" von GGGOLDDD mal anhören. Fragt mich jetzt nicht, warum ich GGGOLDDD noch nie erwähnt habe, aber der neue Song ist ein echtes Juwel und wir sollten alle dankbar sein, dass ich sie nun endlich ausgegraben habe. Das offizielle Video ist übrigens ähnlich stark. Das Stück erscheint am 1. April 2022 über Artoffact Records weltweit auf dem inzwischen fünften Studioalbum des niederländischen Post-Rock/Trip-Hop Projekts.
 
 <YouTube id="4xfPPr29Yfo" />
 
