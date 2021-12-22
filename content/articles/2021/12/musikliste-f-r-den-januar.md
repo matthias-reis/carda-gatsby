@@ -82,7 +82,7 @@ Wenn Ihr auf der Suche nach einem richtig schrägen und unfassbar geilen Ohrwurm
 
 <YouTube id="4xfPPr29Yfo" />
 
-## Dominik Eulberg – "Rotmilan" (Vorauskopplung vom Album "Avichrom"
+## Dominik Eulberg – "Rotmilan" (Vorauskopplung vom Album "Avichrom")
 
 Dominik Eulberg bringt nicht nur vielen Menschen  die elektronische Tanzmusik näher, sondern auch die heimische Flora und Fauna. Mit seinem Naturbuch "Mikroorgasmen überall" begeisterte er dieses Jahr längst nicht nur technoide Menschen. Jetzt hat er ein neues Album angekündigt. "Avichrom" soll ab dem 4. März in den Plattenläden stehen. Matze stellt Euch die Vorauskopplung "Rotmilan" vor:
 
