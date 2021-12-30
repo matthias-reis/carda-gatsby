@@ -60,4 +60,4 @@ Guten Rutsch!
 
 2022 geht es hier weiter mit Infos und News aus den Sparten Musik, veganes Leben, Nachhaltigkeit und Achtsamkeit. Ich freue mich auf Euch! Wenn Ihr nichts verpassen wollt, [abonniert gerne meinen Newsletter](https://mailchi.mp/94bdbb6fded3/cardamonchai).
 
-![Schwarz-Weiß-Fotografie die Autorin in einem schwarzen Regenmantel mit Kapuze.](https://storage.googleapis.com/cardamonchai-media/2021-12-30/finale-2021-nordkapp-jpg-imagine-b8b8b8_717173_1024_768/640.webp "Das Finale 2021.")
+![Schwarz-Weiß-Fotografie die Autorin in einem schwarzen Regenmantel mit Kapuze. | large](https://storage.googleapis.com/cardamonchai-media/2021-12-30/finale-2021-nordkapp-jpg-imagine-b8b8b8_717173_1024_768/640.webp "Das Finale 2021.")
