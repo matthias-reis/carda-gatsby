@@ -34,6 +34,10 @@ language: de
 ---
 **Ich habe eine Weile überlegt, wie der letzte Artikel des Jahres 2021 wohl aussehen könnte. Ein Rückblick? Glückwünsche? Gute Vorsätze für 2022? Nichts von alledem? Oder alles? Schlussendlich habe ich mich dafür entschieden, einfach drauflos zu schreiben und Euch alles Gute für das neue Jahr zu wünschen. Eigentlich ist der 1. Januar ja ein Tag wie jeder andere, aber ein bisschen Feiern haben wir uns wohl alle verdient.**
 
+---
+**TW:** Angst, Trauma, Flucht, Tod, COVID
+---
+
 Irgendwie kommt mir das alles ein bisschen wie ein Déjà-vu vor. Alles läuft ähnlich ab, wie schon im letzten Jahr. Oder genauso? Ich kann es kaum fassen, dass ich wirklich schon letztes Jahr im März wegen COVID angefangen habe, von zu Hause aus zu arbeiten und nicht dieses Jahr. Irgendwie verschwimmt das alles inzwischen ziemlich. Vielleicht möchte ich auch genau aus diesem Grund auf den farbenfrohen Jahresrückblick verzichten. Dieses Mal. Vielleicht gibt es ja Ende 2022 wieder einen – sehen wir mal.
 
 ## Dieses Jahr mal kein Rückblick
