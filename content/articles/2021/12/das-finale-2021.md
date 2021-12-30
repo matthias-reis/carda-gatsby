@@ -58,4 +58,4 @@ Stellt Euch außerdem mal folgendes Szenario vor: Ihr habt Monate damit verbrach
 
 Guten Rutsch!
 
-2022 geht es hier weiter mit Infos und News aus den Sparten Musik, veganes Leben, Nachhaltigkeit und Achtsamkeit. Ich freue mich auf Euch! Wenn Ihr nichts verpassen wollt, abonniert gerne meinen Newsletter.
+2022 geht es hier weiter mit Infos und News aus den Sparten Musik, veganes Leben, Nachhaltigkeit und Achtsamkeit. Ich freue mich auf Euch! Wenn Ihr nichts verpassen wollt, [abonniert gerne meinen Newsletter](https://mailchi.mp/94bdbb6fded3/cardamonchai).
