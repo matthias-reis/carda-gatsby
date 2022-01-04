@@ -34,7 +34,7 @@ language: de
 
 Im Rahmen von Slowgarden können alle, die es interessiert, ab März 2022 vor den Toren Berlins einen Gemüsegarten innerhalb eines Permakultur-Gartens mieten. Für die Bepflanzung ist jede⋆r selbst verantwortlich, für die Bewässerung sorgt Slowgarden. Doch es geht längst nicht nur um den Anbau. David erzählt:
 
-"Slow gardening, also "langsames", "achtsames" Gärtnern ist die uralte Kunst, sich mit der Natur zu verbinden und dabei Freude und Genuss zu erleben."
+"Slow Gardening, also "langsames", "achtsames" Gärtnern ist die uralte Kunst, sich mit der Natur zu verbinden und dabei Freude und Genuss zu erleben."
 
 Bei seinem Projekt können alle anpflanzen, was sie möchten – je vielseitiger, umso besser. Von der Lieblings-Tomatensorte über Erdbeeren und Kürbisse bis hin zu Bohnen, Kartoffeln und Möhren sind der Fantasie keine Grenzen gesetzt.
 
