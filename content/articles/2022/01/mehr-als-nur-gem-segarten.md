@@ -42,7 +42,7 @@ Bei seinem Projekt können alle anpflanzen, was sie möchten – je vielseitiger
 
 ![Slowgarden Gründer David (langes, aschblondes Haar und Bart) steht lächelnd auf einer grünen Wiese. Im Hintergrund sind junge Bäume zu sehen.](https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-david-jpg-imagine-b8d8f8_83866e_1024_768/640.webp "Slowgarden Gründer David auf Hof Windkind.")
 
-Wenn Ihr hier schon länger mitlest, habt Ihr David vielleicht schon kennengelernt. Auf dem bio-veganen [Hof Windkind](https:///2019/09/hof-windkind-walnuss-baum-adoptieren/), den er mit seiner Partnerin Silvia führt, baut er bio-vegane Walnüsse und Haselnüsse an. Wer einen Baum adoptiert, bekommt Nüsse oder wertvolles [Walnussöl](https:///2020/10/walnussoel-hof-windkind/) geliefert.
+Wenn Ihr hier schon länger mitlest, habt Ihr David vielleicht schon kennengelernt. Auf dem bio-veganen [Hof Windkind](https:///2019/09/hof-windkind-walnuss-baum-adoptieren/), den er mit seiner Partnerin Silvia führt, baut er Walnüsse und Haselnüsse an. Wer einen Baum adoptiert, bekommt Nüsse oder wertvolles [Walnussöl](https:///2020/10/walnussoel-hof-windkind/) geliefert.
 
 Mit seinem neuen Projekt Slowgarden möchte David Familien, Paaren, Singles und Wohngemeinschaften dabei unterstützen, lokales und saisonales Gemüse zu ernten und zu konsumieren. Er wünscht sich, dass die Garten-Gemeinschaft zu einer großen Gemeinschaft heranwächst. 
 
