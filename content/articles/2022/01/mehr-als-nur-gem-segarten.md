@@ -75,10 +75,10 @@ Im Moment ist das Slowgarden Team mit Umgraben, Hämmern, Sägen, Pflügen und P
 
 ![Reife Gurken und Tomaten hängen an Sträuchern.](https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-gurken-tomaten-jpg-imagine-182808_7d903a_1024_768/640.webp "Wie wäre es mit Gurken und Tomaten aus eigenem Anbau?")
 
-Wenn Euch das Projekt anspricht und Ihr Euch vorstellen könnt, Teil davon zu werden, könnt Ihr Euch jetzt auf Davids Seite bereits in die Interessentenliste[[^1]](craftdocs://open?blockId=958FA867-6D3A-4D22-A3FC-C359AF9F1C68&spaceId=null) eintragen. Dort könnt Ihr auch seinen Newsletter abonnieren, um nichts zu verpassen.
+Wenn Euch das Projekt anspricht und Ihr Euch vorstellen könnt, Teil davon zu werden, könnt Ihr Euch jetzt auf Davids Seite bereits in die Interessent⋆innenliste[^1]eintragen. Dort könnt Ihr auch seinen Newsletter abonnieren, um nichts zu verpassen.
 
 Das Slowgarden Gelände befindet sich im Norden von Berlin inmitten unberührter Natur. In der idyllischen Umgebung könnt Ihr nicht nur nach Herzenslust Gemüse züchten, sondern auch zur Ruhe kommen und dem Stress des Alltags entkommen.
 
 Ihr erlebt eine Saison lang (also den kompletten Sommer bis in den Herbst hinein), wie Euer Gemüse wächst und wie lecker es schmeckt, wenn es aus dem eigenen Garten kommt.
 
-- [^1]: [Slowgarden Interessentenliste](https://www.slowgarden.de/info/parzelle-mieten.html)
+- [^1]: [Slowgarden Interessent⋆innenliste](https://www.slowgarden.de/info/parzelle-mieten.html)
