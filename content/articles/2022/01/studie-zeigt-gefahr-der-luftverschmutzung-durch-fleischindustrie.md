@@ -54,7 +54,7 @@ Würde sich China an seine Ernährungsrichtlinien von 2016 halten, die auf einem
 
 Die Richtlinien empfehlen 40 bis 75 Gramm Fleisch pro Tag zu konsumieren – das ist ungefähr eine Handvoll.
 
-Der leitende Autor der Studie, Professor Amos Tai Pui-kuen, berichtete der South China Morning Post [^1]:
+Der leitende Autor der Studie, Professor Amos Tai Pui-kuen, berichtete der South China Morning Post[^1]:
 
 > "Natürlich können wir den Schaden, der bereits angerichtet wurde, nicht ungeschehen machen. Was wir aber tun können, ist, zu einer Ernährung überzugehen, die hauptsächlich aus Gemüse und einem viel geringeren Anteil an Fleisch besteht.
 
@@ -70,8 +70,8 @@ Die neue Studie ist nicht die erste Arbeit, in der anthropogene Verschmutzung mi
 
 In China wurden die Menschen im Anschluss an die Studie dazu aufgerufen, ihre Ernährung zu überdenken. Ob und wie weit  sich das positiv auf die Gesundheit des Planeten auswirkt, wird die Zeit zeigen. Fakt ist, dass auch hierzulande endlich ein Umdenken erfolgen muss, wenn wir wirklich etwas für das Klima und die Rechte der Tiere erreichen wollen.
 
-\- [^1]: [Bericht in der South China Morning Post](https://www.scmp.com/news/hong-kong/health-environment/article/3161318/eating-less-meat-can-help-reduce-75000-premature)
+- [^1]: [Bericht in der South China Morning Post](https://www.scmp.com/news/hong-kong/health-environment/article/3161318/eating-less-meat-can-help-reduce-75000-premature)
 
-\- [^2]: [UN-Report](https://www.unep.org/resources/global-environment-outlook-6?_ga=2.134536561.1634057371.1641228843-1321796382.1641228843)
+- [^2]: [UN-Report](https://www.unep.org/resources/global-environment-outlook-6?_ga=2.134536561.1634057371.1641228843-1321796382.1641228843)
 
 Bild: [Engin_Akyurt](https://pixabay.com/photos/coronavirus-mask-virus-quarantine-4994026/), pixabay
