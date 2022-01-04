@@ -53,8 +53,6 @@ Die Forschenden schätzen, dass fünf Prozent dieser vorzeitigen Todesfälle auf
 
 Würde sich China an seine Ernährungsrichtlinien von 2016 halten, die auf einem geringen Fleischkonsum basieren, würde die Ammoniakemissionen voraussichtlich um 2,1 Teragramm sinken. Das geht aus den Forschungsergebnissen der britischen Wissenschaftler⋆innen hervor.
 
-Die Richtlinien empfehlen 40 bis 75 Gramm Fleisch pro Tag zu konsumieren – das ist ungefähr eine Handvoll.
-
 Der leitende Autor der Studie, Professor Amos Tai Pui-kuen, berichtete der South China Morning Post[^1]:
 
 > "Natürlich können wir den Schaden, der bereits angerichtet wurde, nicht ungeschehen machen. Was wir aber tun können, ist, zu einer Ernährung überzugehen, die hauptsächlich aus Gemüse und einem viel geringeren Anteil an Fleisch besteht.
