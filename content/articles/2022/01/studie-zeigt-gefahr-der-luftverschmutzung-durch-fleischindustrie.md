@@ -1,10 +1,10 @@
 ---
 date: 2022-01-04T15:56:02.003Z
-slug: luftverschmutzung-durch-fleisch
+slug: umweltverschmutzung-durch-fleisch
 typeName: Beitrag
-title: Studie zeigt Gefahr der Luftverschmutzung durch Fleischindustrie
+title: Studie zeigt Gefahr der Umweltverschmutzung durch Fleischindustrie
 subTitle: Fleischproduktion in China für 90.000 umweltbedingte Todesfälle verantwortlich
-seoTitle: Studie zeigt Gefahr der Luftverschmutzung durch Fleischindustrie
+seoTitle: Studie zeigt Gefahr der Umweltverschmutzung durch Fleischindustrie
 description: Einer aktuellen Studie zufolge hat der steigende Fleischkonsum in
   China zu einem Anstieg der frühzeitigen Todesfälle geführt.  Die Forschenden
   führen das auf die schädlichen Auswirkungen der Tierhaltung zurück.
@@ -21,7 +21,8 @@ labels:
   - Klima- & Umweltschutz
   - China
   - Ernährung & Gesundheit
-focusKeyword: Luftverschmutzung durch Fleisch
+  - Umweltverschmutzung
+focusKeyword: Umweltverschmutzung durch Fleisch
 advertisement: false
 affiliate: false
 language: de
