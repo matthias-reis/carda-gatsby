@@ -34,9 +34,9 @@ language: de
 
 Im Rahmen von Slowgarden können alle, die es interessiert, ab März 2022 vor den Toren Berlins einen Gemüsegarten innerhalb eines Permakultur-Gartens mieten. Für die Bepflanzung ist jede⋆r selbst verantwortlich, für die Bewässerung sorgt Slowgarden. Doch es geht längst nicht nur um den Anbau. David erzählt:
 
-> "Slow gardening, also "langsames", "achtsames" Gärtnern ist die uralte Kunst, sich mit der Natur zu verbinden und dabei Freude und Genuss zu erleben."
+"Slow gardening, also "langsames", "achtsames" Gärtnern ist die uralte Kunst, sich mit der Natur zu verbinden und dabei Freude und Genuss zu erleben."
 
-Bei seinem Projekt können alle anpflanzen, was sie möchten – je vielseitiger desto besser. Von der Lieblings-Tomatensorte über Erdbeeren und Kürbisse bis hin zu Bohnen, Kartoffeln und Möhren sind der Fantasie keine Grenzen gesetzt.
+Bei seinem Projekt können alle anpflanzen, was sie möchten – je vielseitiger, umso besser. Von der Lieblings-Tomatensorte über Erdbeeren und Kürbisse bis hin zu Bohnen, Kartoffeln und Möhren sind der Fantasie keine Grenzen gesetzt.
 
 ## Bio-veganes Gemüse im Slowgarden Berlin selbst anbauen
 
@@ -46,17 +46,17 @@ Wenn Ihr hier schon länger mitlest, habt Ihr David vielleicht schon kennengeler
 
 Mit seinem neuen Projekt Slowgarden möchte David Familien, Paaren, Singles und Wohngemeinschaften dabei unterstützen, lokales und saisonales Gemüse zu ernten und zu konsumieren. Er wünscht sich, dass seine Garten-Idee zu einer großen Gemeinschaft heranwächst. 
 
-Damit der Anbau gelingt, stellt er allen Gärtner⋆innen den besten bio-veganen Dünger für ihr Gemüse zur Verfügung. Außerdem dürfen sich alle an gemeinschaftlichen Obstbäumen und Kräuterbeeten, in denen David auch mal so ausfallene Gewächse wie Ysop anpflanzt, bedienen. Für Inspiration ist also auch gesorgt.
+Damit der Anbau gelingt, stellt er allen Gärtner⋆innen den besten bio-veganen Dünger für ihr Gemüse zur Verfügung. Außerdem dürfen sich alle an gemeinschaftlichen Obstbäumen und Kräuterbeeten, in denen David auch mal so ausgefallene Gewächse wie Ysop anpflanzt, bedienen. Für Inspiration ist also auch gesorgt.
 
 ## Mit den Öffentlichen zum eigenen Gemüsegarten
 
 ![Eine Parzelle des Slowgarden Berlin aus der Vogelperspektive. Mehrere Reihen mit Gemüse auf einem Acker sind zu sehen. Eine männlich gelesene Person untersucht ein paar Pflanzen. ](https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-parzelle-von-oben-jpg-imagine-083808_345024_768_1024/640.webp "So schön kann Gemüseanbau sein.")
 
-Was David bei der Planung besonders wichtig war, ist die Erreichbarkeit mit öffentlichen Verkehrsmitteln. Was nutzt einem das tollste Bio-Beet, wenn man ein Auto braucht, um es zu erreichen? Vom der S-Bahn Station Oranienburg fahrt Ihr mit dem Bus 802 in Richtung Löwenberg bis zur Haltestelle "Nassenheide Kirche". Von dort aus sind es noch ungefähr zehn Minuten zu Fuß. Falls Ihr auf den Bus verzichten wollt, erreicht Ihr den Slowgarden mit dem Fahrrad vom Bahnhof Nassenheide aus in ein paar Minuten.
+Was David bei der Planung besonders wichtig war, ist die Erreichbarkeit mit öffentlichen Verkehrsmitteln. Was nutzt einem das tollste Bio-Beet, wenn man ein Auto braucht, um es zu erreichen? Vom der S-Bahn-Station Oranienburg fahrt Ihr mit dem Bus 802 in Richtung Löwenberg bis zur Haltestelle "Nassenheide Kirche". Von dort aus sind es noch ungefähr zehn Minuten zu Fuß. Falls Ihr auf den Bus verzichten wollt, erreicht Ihr den Slowgarden mit dem Fahrrad vom Bahnhof Nassenheide aus in ein paar Minuten.
 
 Wenn Ihr Euch jetzt denkt "Klingt gut, aber leider habe ich so gar keinen grünen Daumen", gibt es einen weiteren Vorteil, der Euch vielleicht interessieren wird: Wenn Ihr Euch dem Projekt anschließt, erhaltet Ihr wertvolle Tipps und Tricks vom Bio-Gärtner. Ihr werdet also auch als Anfänger⋆innen glücklich.
 
-Nach getaner Arbeit im Gemüsebeet, könnt Ihr dann mit dem Fahrrad oder zu Fuß die Nachbarschaft erkunden. Gleich nebenan im Ortsteil Neuendorf könnt Ihr im Waldsee ein erfrischendes Bad nehmen. Der Badesteg ist ein echter Geheimtipp.
+Nach getaner Arbeit im Gemüsebeet könnt Ihr dann mit dem Fahrrad oder zu Fuß die Nachbarschaft erkunden. Gleich nebenan im Ortsteil Neuendorf könnt Ihr im Waldsee ein erfrischendes Bad nehmen. Der Badesteg ist ein echter Geheimtipp.
 
 ## Leckeres Gemüse ernten
 
@@ -68,7 +68,7 @@ Der Ertrag kann pro Saison durchaus bei Gemüse im Wert von mehreren hundert Eur
 
 Ihr könnt bei David Euren Gemüsegarten für eine Saison mieten und dabei eine schöne Zeit in der Natur verbringen. Ihr erntet Euer eigenes Gemüse und lernt jede Menge neue Sorten kennen.
 
-Im Moment ist das Slowgarden Team mit Umgraben, Hämmern, Sägen, Pflügen und Pflanzen beschäftigt, damit bis zum Saisonstart am 20. März 2022 eine schöne Öko-Oase entsteht. Die angelegten Parzellen werden vermessen und anschließend der entsprechende Jahrespreis ermittelt. Am 27. Februar und am 13.März könnt Ihr das kleine Paradies dann besuchen und Euch ein Bild vom neuen Gemeinschaftsgarten machen.
+Im Moment ist das Slowgarden Team mit Umgraben, Hämmern, Sägen, Pflügen und Pflanzen beschäftigt, damit bis zum Saisonstart am 20. März 2022 eine schöne Öko-Oase entsteht. Die angelegten Parzellen werden vermessen und anschließend der entsprechende Jahrespreis ermittelt. Am 27. Februar und am 13. März könnt Ihr das kleine Paradies dann besuchen und Euch ein Bild vom neuen Gemeinschaftsgarten machen.
 
 ## Eine Saison lang einen Biogarten erleben
 
