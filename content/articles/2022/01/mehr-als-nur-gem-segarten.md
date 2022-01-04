@@ -52,7 +52,7 @@ Damit der Anbau gelingt, stellt er allen Gärtner⋆innen den besten bio-veganen
 
 ![Eine Parzelle des Slowgarden Berlin aus der Vogelperspektive. Mehrere Reihen mit Gemüse auf einem Acker sind zu sehen. Eine männlich gelesene Person untersucht ein paar Pflanzen. ](https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-parzelle-von-oben-jpg-imagine-083808_345024_768_1024/640.webp "So schön kann Gemüseanbau sein.")
 
-Was David für das Projekt besonders wichtig war, ist die Erreichbarkeit mit öffentlichen Verkehrsmitteln. Was nutzt einem das tollste Bio-Beet, wenn man ein Auto braucht, um es zu erreichen? Vom der S-Bahn Station Oranienburg fahrt Ihr mit dem Bus 802 in Richtung Löwenberg bis zur Haltestelle "Nassenheide Kirche". Von dort aus sind es noch ungefähr zehn Minuten zu Fuß. Falls Ihr auf den Bus verzichten wollt, erreicht Ihr den Slowgarden mit dem Fahrrad vom Bahnhof Nassenheide aus in ein paar Minuten.
+Was David bei der Planung besonders wichtig war, ist die Erreichbarkeit mit öffentlichen Verkehrsmitteln. Was nutzt einem das tollste Bio-Beet, wenn man ein Auto braucht, um es zu erreichen? Vom der S-Bahn Station Oranienburg fahrt Ihr mit dem Bus 802 in Richtung Löwenberg bis zur Haltestelle "Nassenheide Kirche". Von dort aus sind es noch ungefähr zehn Minuten zu Fuß. Falls Ihr auf den Bus verzichten wollt, erreicht Ihr den Slowgarden mit dem Fahrrad vom Bahnhof Nassenheide aus in ein paar Minuten.
 
 Wenn Ihr Euch jetzt denkt "Klingt gut, aber leider habe ich so gar keinen grünen Daumen", gibt es einen weiteren Vorteil, der Euch vielleicht interessieren wird: Wenn Ihr Euch dem Projekt anschließt, erhaltet Ihr wertvolle Tipps und Tricks vom Bio-Gärtner. Ihr werdet also auch als Anfänger⋆innen glücklich.
 
