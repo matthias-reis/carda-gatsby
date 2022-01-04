@@ -62,7 +62,7 @@ Nach getaner Arbeit im Gemüsebeet, könnt Ihr dann mit dem Fahrrad oder zu Fuß
 
 ![Gemüsepflanzen wachsen auf einem Feld.](https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-parzelle-jpg-imagine-a88888_77885a_1024_768/640.webp "So ähnlich könnte Eure Parzelle im Slowgarden Berlin aussehen.")
 
-Der Gemüse-Ertrag kann pro Saison durchaus bei mehreren hundert Euro liegen. Dazu kommen dann natürlich auch noch Eure Erzeugnisse aus dem Gemeinschafts-Bereich. David schreibt dazu auf seiner Webseite:
+Der Ertrag kann pro Saison durchaus bei Gemüse im Wert von mehreren hundert Euro liegen. Dazu kommen dann natürlich auch noch Eure Erzeugnisse aus dem Gemeinschafts-Bereich. David schreibt dazu auf seiner Webseite:
 
 > "Jeder von uns kann seinen eigenen, individuellen Beitrag leisten, um unsere Welt Tag für Tag ein kleines Stückchen besser zu machen. Auf diesem Wege möchte ich allen die Möglichkeit geben, eigene Lebensmittel anzubauen – ökologisch, regional und lokal. Sprich: im Einklang mit den von der UN aufgestellten 17 nachhaltigen Entwicklungs-Zielen."
 
