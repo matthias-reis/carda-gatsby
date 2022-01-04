@@ -68,7 +68,7 @@ Der Ertrag kann pro Saison durchaus bei Gemüse im Wert von mehreren hundert Eur
 
 Ihr könnt bei David Euren Gemüsegarten für eine Saison mieten und dabei eine schöne Zeit in der Natur verbringen. Ihr erntet Euer eigenes Gemüse und lernt jede Menge neue Sorten kennen.
 
-Im Moment ist das Slowgarden Team mit Umgraben, Hämmern, Sägen, Pflügen und Pflanzen beschäftigt, damit bis zum Saisonstart am 20. März 2022 eine schöne Öko-Oase entsteht. Die angelegten Parzellen werden vermessen und anschließend der entsprechende Jahrespreis ermittelt. Am Sonntag, den 27. Februar und Sonntag, den 13.März könnt Ihr das kleine Paradies dann besuchen und Euch ein Bild vom neuen Gemeinschaftsgarten machen.
+Im Moment ist das Slowgarden Team mit Umgraben, Hämmern, Sägen, Pflügen und Pflanzen beschäftigt, damit bis zum Saisonstart am 20. März 2022 eine schöne Öko-Oase entsteht. Die angelegten Parzellen werden vermessen und anschließend der entsprechende Jahrespreis ermittelt. Am 27. Februar und am 13.März könnt Ihr das kleine Paradies dann besuchen und Euch ein Bild vom neuen Gemeinschaftsgarten machen.
 
 ## Eine Saison lang einen Biogarten erleben
 
