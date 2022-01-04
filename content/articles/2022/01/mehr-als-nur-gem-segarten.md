@@ -56,7 +56,7 @@ Was David bei der Planung besonders wichtig war, ist die Erreichbarkeit mit öff
 
 Wenn Ihr Euch jetzt denkt "Klingt gut, aber leider habe ich so gar keinen grünen Daumen", gibt es einen weiteren Vorteil, der Euch vielleicht interessieren wird: Wenn Ihr Euch dem Projekt anschließt, erhaltet Ihr wertvolle Tipps und Tricks vom Bio-Gärtner. Ihr werdet also auch als Anfänger⋆innen glücklich.
 
-Nach getaner Arbeit im Gemüsebeet, könnt Ihr dann mit dem Fahrrad oder zu Fuß die Nachbarschaft erkunden. Gleich nebenan im Ortsteil Neuendorf könnt Ihr im Waldsee ein erfrischendes Bad nehmen.
+Nach getaner Arbeit im Gemüsebeet, könnt Ihr dann mit dem Fahrrad oder zu Fuß die Nachbarschaft erkunden. Gleich nebenan im Ortsteil Neuendorf könnt Ihr im Waldsee ein erfrischendes Bad nehmen. Der Badesteg ist ein echter Geheimtipp.
 
 ## Leckeres Gemüse ernten
 
