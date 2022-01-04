@@ -81,4 +81,4 @@ Das Slowgarden Gelände befindet sich im Norden von Berlin inmitten unberührter
 
 Ihr erlebt eine Saison lang (also den kompletten Sommer bis in den Herbst hinein), wie Euer Gemüse wächst und wie lecker es schmeckt, wenn es aus dem eigenen Garten kommt.
 
-* [[^1]](craftdocs://open?blockId=958FA867-6D3A-4D22-A3FC-C359AF9F1C68&spaceId=null):  [Slowgarden Interessentenliste](https://www.slowgarden.de/info/parzelle-mieten.html)
+- [^1]:[Slowgarden Interessentenliste](https://www.slowgarden.de/info/parzelle-mieten.html)
