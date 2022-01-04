@@ -25,6 +25,7 @@ labels:
   - Gemüse anbauen
   - Garten
   - Ernährung & Gesundheit
+  - Achtsamkeit
 focusKeyword: Slowgarden Berlin
 advertisement: false
 affiliate: false
