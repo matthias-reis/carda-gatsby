@@ -2,7 +2,7 @@
 date: 2022-01-04T15:31:30.552Z
 slug: slowgarden-berlin
 typeName: Beitrag
-title: Mehr als "nur" Gemüsegarten
+title: Mehr als "nur" ein Gemüsegarten
 subTitle: Slowgarden Berlin stellt sich vor
 seoTitle: Mehr als "nur" Gemüsegarten – Slowgarden Berlin stellt sich vor
 description: Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem
