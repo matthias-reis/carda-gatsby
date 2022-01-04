@@ -44,7 +44,7 @@ Bei seinem Projekt können alle anpflanzen, was sie möchten – je vielseitiger
 
 Wenn Ihr hier schon länger mitlest, habt Ihr David vielleicht schon kennengelernt. Auf dem bio-veganen [Hof Windkind](https:///2019/09/hof-windkind-walnuss-baum-adoptieren/), den er mit seiner Partnerin Silvia führt, baut er Walnüsse und Haselnüsse an. Wer einen Baum adoptiert, bekommt Nüsse oder wertvolles [Walnussöl](https:///2020/10/walnussoel-hof-windkind/) geliefert.
 
-Mit seinem neuen Projekt Slowgarden möchte David Familien, Paaren, Singles und Wohngemeinschaften dabei unterstützen, lokales und saisonales Gemüse zu ernten und zu konsumieren. Er wünscht sich, dass die Garten-Gemeinschaft zu einer großen Gemeinschaft heranwächst. 
+Mit seinem neuen Projekt Slowgarden möchte David Familien, Paaren, Singles und Wohngemeinschaften dabei unterstützen, lokales und saisonales Gemüse zu ernten und zu konsumieren. Er wünscht sich, dass seine Garten-Idee zu einer großen Gemeinschaft heranwächst. 
 
 Damit der Anbau gelingt, stellt er allen Gärtner⋆innen den besten bio-veganen Dünger für ihr Gemüse zur Verfügung. Außerdem dürfen sich alle an gemeinschaftlichen Obstbäumen und Kräuterbeeten, in denen David auch mal so ausfallene Gewächse wie Ysop anpflanzt, bedienen. Für Inspiration ist also auch gesorgt.
 
