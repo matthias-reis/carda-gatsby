@@ -11,8 +11,8 @@ description: Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem
 excerpt: Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem Anbau –
   frisch auf den Tisch. Gründer David sieht sein Projekt als Lebenseinstellung.
   Für den Bio-Bauern ist Gemüseanbau mehr als eine Checkliste abzuarbeiten. Er
-  wünscht sich, dass die Gärtner⋆innen nicht nur Gemüse, Kräuter und Obst,
-  sondern auch Wohlbefinden ernten.
+  wünscht sich, dass Gärtner⋆innen nicht nur Gemüse, Kräuter und Obst, sondern
+  auch Wohlbefinden ernten.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-ernte-jpg-imagine-587828_736738_1024_768/640.webp
 copyrigt: Slowgarden
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-fb-png-imagine-587828_786b31_1200_628/640.webp
@@ -30,7 +30,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem Anbau – frisch auf den Tisch. Gründer David sieht sein Projekt als Lebenseinstellung. Für den Bio-Bauern ist Gemüseanbau mehr als eine Checkliste abzuarbeiten. Er wünscht sich, dass die Gärnter⋆innen nicht nur Gemüse, Kräuter und Obst, sondern auch Wohlbefinden ernten.**
+**Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem Anbau – frisch auf den Tisch. Gründer David sieht sein Projekt als Lebenseinstellung. Für den Bio-Bauern ist Gemüseanbau mehr als eine Checkliste abzuarbeiten. Er wünscht sich, dass Gärnter⋆innen nicht nur Gemüse, Kräuter und Obst, sondern auch Wohlbefinden ernten.**
 
 Im Rahmen von Slowgarden können alle, die es interessiert, ab März 2022 vor den Toren Berlins einen Gemüsegarten innerhalb eines Permakultur-Gartens mieten. Für die Bepflanzung ist jede⋆r selbst verantwortlich, für die Bewässerung sorgt Slowgarden. Doch es geht längst nicht nur um den Anbau. David erzählt:
 
