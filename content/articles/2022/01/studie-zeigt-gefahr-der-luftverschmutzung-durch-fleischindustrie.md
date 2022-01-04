@@ -28,7 +28,7 @@ language: de
 ---
 **Einer aktuellen Studie zufolge hat der steigende Fleischkonsum in China zu einem Anstieg der frühzeitigen Todesfälle geführt.  Die Forschenden führen das auf die schädlichen Auswirkungen der Tierhaltung zurück. Besonders auffällig ist dabei die Verschmutzung durch Ammoniak.**
 
-Die Studie ist das Resultat einer Zusammenarbeit der Chinesischen Universität in Englandnund der University of Exeter. Das Nature Food Journal veröffentlichte die Ergebnisse im Dezember 2021.
+Die Studie ist das Resultat einer Zusammenarbeit der chinesischen universität in England und der University of Exeter. Das Nature Food Journal veröffentlichte die Ergebnisse im Dezember 2021.
 
 Die Wissenschaftler⋆innen betrachteten den Wandel der Ernährungsgewohnheiten von 1980 bis 2010. Zudem fertigten sie ein genaues Bild der Veränderungen in der Lebensmittelproduktion innerhalb des Zeitraums.
 
