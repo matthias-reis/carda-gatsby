@@ -33,7 +33,7 @@ language: de
 ---
 **Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem Anbau – frisch auf den Tisch. Gründer David sieht sein Projekt als Lebenseinstellung. Für den Bio-Bauern ist Gemüseanbau mehr als eine Checkliste abzuarbeiten. Er wünscht sich, dass Gärnter⋆innen nicht nur Gemüse, Kräuter und Obst, sondern auch Wohlbefinden ernten.**
 
-Im Rahmen von Slowgarden können alle, die es interessiert, ab März 2022 vor den Toren Berlins einen Gemüsegarten innerhalb eines Permakultur-Gartens mieten. Für die Bepflanzung ist jede⋆r selbst verantwortlich, für die Bewässerung sorgt Slowgarden. Doch es geht längst nicht nur um den Anbau. David erzählt:
+Im Rahmen von [Slowgarden](https://www.slowgarden.de/) können alle, die es interessiert, ab März 2022 vor den Toren Berlins einen Gemüsegarten innerhalb eines Permakultur-Gartens mieten. Für die Bepflanzung ist jede⋆r selbst verantwortlich, für die Bewässerung sorgt Slowgarden. Doch es geht längst nicht nur um den Anbau. David erzählt:
 
 "Slow Gardening, also "langsames", "achtsames" Gärtnern ist die uralte Kunst, sich mit der Natur zu verbinden und dabei Freude und Genuss zu erleben."
 
