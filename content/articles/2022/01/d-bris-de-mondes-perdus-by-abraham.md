@@ -59,7 +59,7 @@ If there can be a further telling of this wonderfully dark end-of-the-world stor
 
 They did this in a very tasteful, thoughtful, raw and expressive way. Their statement in a chat with the label of their choice Pelagic Records leaves listeners more than just curious:
 
-> "As a conceptual core piece, we used a text that comes several hundred years from the future. Overall, it's more of a chant expressing fears, awe, struggles and laments than a story: pagan, evil, bizarre and primitive. You realise that the darkness has also darkened minds after it hit the earth."
+> "As a conceptual core piece, we used a text that comes several hundred years from the future. Overall, it's more of a chant expressing fears, awe, struggles and lamentations than a story: very oral, primitive and heathen, evil and bizarre. You realise that the darkness has also darkened minds after it hit the earth."
 
 Whether we should call "Débris de mondes perdus" "primitive" remains an open question. But is there a recognisable difference from their previous album's overall progressively narrative tone? Yes, there is! You can hear the fears and pains from the very first bars. The harsh vocals are simply masterful and immediately memorable.
 
@@ -69,7 +69,7 @@ If anyone has managed to set to music the turmoil and, at times, seemingly hopel
 
 > "The record is much rougher and also definitely less baroque than our previous albums. We've kept the general feeling of unease, though."
 
-The basic recipe for the new record, according to the band, was to use fewer instruments and push them to their limits. This simplicity, combined with a strong penchant for experimentation, has probably made the album what it is today: a solid and outstanding post-metal work. But, of course, I'm talking about post-metal as it should be: less produced, personal and direct. With this, Abraham have given the current phase of the genre a pat in the neck, adding something completely new. They managed to explore and enjoy the possibilities of their instruments to the fullest. They did that without becoming too focused on that at any point. Maybe you could describe this with: Back to the roots of the future.
+The basic recipe for the new record, according to the band, was to use fewer instruments and push them to their limits. This simplicity, combined with a strong penchant for experimentation, has probably made the album what it is today: a solid and outstanding post-metal work. But, of course, I'm talking about post-metal as it should be: less produced, personal and direct. With this, Abraham have given the genre and its current phase a pat on the neck, adding something completely new. They managed to explore and enjoy the possibilities of their instruments to the fullest. They did that without becoming too focused on that at any point. Maybe you could describe this with: Back to the roots of the future.
 
 ## Abraham – "Fear Overthrown"
 
