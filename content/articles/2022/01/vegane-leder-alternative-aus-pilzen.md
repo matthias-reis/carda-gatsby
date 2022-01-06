@@ -25,6 +25,7 @@ labels:
   - Leder aus Pilzen
   - veganes Leder
   - MycoWorks
+  - vegane Leder-Alternative
 focusKeyword: Leder aus Pilzen
 advertisement: false
 affiliate: false
