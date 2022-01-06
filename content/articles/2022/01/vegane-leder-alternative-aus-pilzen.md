@@ -40,7 +40,7 @@ Ihnen ist es inzwischen gelungen, auf der Basis von Myzel – so heißt das Pilz
 
 Das sogenannte Fine Mycelium wurde vor einiger Zeit zum Patent angemeldet. Es kann in Schalen innerhalb weniger Wochen gezüchtet werden – ganz ohne Tierleid. An Haltbarkeit und Festigkeit übertrifft es klassisches Tierleder schon heute.
 
-Nicht nur aus diesem Grund werden immer mehr Modelabels auf den tollen Stoff aufmerksam. Erst vor Kurzem stellte Hermès die erst Pilzleder-Handtasche vor. Sogar der Guardian berichtet inzwischen über veganes Leder auf Pilzbasis[^1].
+Nicht nur aus diesem Grund werden immer mehr Modelabels auf den tollen Stoff aufmerksam. Erst vor Kurzem stellte Hermès die erst Pilzleder-Handtasche vor. Sogar der Guardian[^1] berichtet inzwischen über veganes Leder auf Pilzbasis.
 
 Im Interview mit der britischen Zeitung im Vorfeld der Business of Fashion Voices[^2] Konferenz in Oxfordshire stellte MycoWorks CEO Dr. Matt Scullin in Aussicht, dass Pilzleder einen Wendepunkt in Sachen nachhaltiger Bekleidung darstellt:
 
