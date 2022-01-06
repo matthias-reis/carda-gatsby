@@ -57,7 +57,7 @@ Schon damals war die Ausgestaltung mehr als nur durchdacht. Jeder Abschnitt kam 
 
 Fall es eine Weitererzählung dieser wunderbar dunklen Ende-der-Welt-Story geben kann, kann es nur "Débris de mondes perdus" sein. Abraham knüpfen an dieses musikalische Erlebnis an und bauen die Oper weiter aus.
 
-Sie tun dies geschmackvoll, wohldurchdacht, roh und ausdrucksstark. Ihr Statement zum neuen Werk gegenüber der dem Label der Wahl Pelagic Records macht mehr als nur neugierig:
+Sie tun dies geschmackvoll, wohldurchdacht, roh und ausdrucksstark. Ihr Statement zum neuen Werk gegenüber dem Label der Wahl Pelagic Records macht mehr als nur neugierig:
 
 > "Als konzeptionelles Kernstück haben wir einen Text, der mehrere hundert Jahre aus der Zukunft stammt verwendet. Insgesamt ist es mehr eine Art Gesang der Ängste, Ehrfurcht, Kämpfe und Klagen zum Ausdruck bringt, als eine Geschichte: heidnisch, böse, bizarr und primitiv. Man merkt, dass die Dunkelheit auch die Gemüter verdunkelt hat, nachdem sie auf der Erde aufprallte."
 
