@@ -37,7 +37,7 @@ languageLink: 2022/01/abraham-debri-de-mondes-perdus
 ---
 **Abraham are about to release their new album "Débris de mondes perdus" on January 25th. With a total of eight songs, the band has managed to add something entirely new for the post-metal genre, which will particularly enchant fans of bands like Cult of Luna.**
 
-Abraham arose from the exciting Lausanne underground music scene. Maybe you also had the pleasure of experiencing them as support for The Ocean or Cult Of Luna. I did, and I enjoyed it a lot.
+Abraham arose from the exciting Lausanne underground music scene. Maybe you also had the pleasure of experiencing them as support for [The Ocean](/2020/09/the-ocean-robin-staps-interview-en) or Cult Of Luna. I did, and I enjoyed it a lot.
 
 In terms of musical quality, their songs are in no way inferior to these bands. In the meantime, Abraham definitely made a name for themselves. The standard they set is pretty high.
 
