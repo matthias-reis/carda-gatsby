@@ -34,7 +34,7 @@ language: de
 
 Vegane Alternativen zu tierischem Leder sind nicht nur angesagt und gefragt. Sie können in Zukunft das Leben zahlloser Tiere retten. Die Forschenden, denen es gelungen ist, Leder aus Pilzen herzustellen, gehen davon aus, dass herkömmliches Leder auf dem Modemarkt schon bald von moderneren Varianten abgelöst wird.
 
-Ihnen ist es inzwischen gelungen, auf der Basis von Myzel – so heißt das Pilzleder im Fachjargon – Stoffe herzustellen, die Kalbs- und Schafhaut zum Verwechseln ähnlich sehen und sie fühlen sich sogar an, wie die tierischen Vorbilder.
+Sie haben es inzwischen geschafft, auf der Basis von Myzel – so heißt das Pilzleder im Fachjargon – Stoffe zu erschaffen, die Kalbs- und Schafhaut zum Verwechseln ähnlich sehen und sie fühlen sich sogar an, wie die tierischen Vorbilder.
 
 ## Leder aus Pilzen ist mehr als nur ein Fashion Hype
 
