@@ -72,7 +72,7 @@ Kein Wunder: Das Geschäft mit dem Pilzleder scheint gut zu laufen. MycoWorks er
 
 Die Forschenden warnen unterdessen davor, dass unsensibles Design einige wertvolle umweltfreundliche Eigenschaften ihrer Erfindung untergraben könnte: Werden zum Beispiel Klebstoffe, Beschläge oder Verschlüsse aus Material verarbeitet, die nicht biologisch abbaubar sind, fällt doch wieder Abfall an. Scullin kommentiert das so:
 
-> "Wir sind dazu in der Lage, ein biologisch abbaubares Material zu liefern. Allerdings könnten wir vor einem Problem stehen, wenn es darum geht, dass die Industrie über ein fertiges Produkt nachzudenken."
+> "Wir sind dazu in der Lage, ein biologisch abbaubares Material zu liefern. Allerdings könnten wir vor einem Problem stehen, wenn die Industrie anfängt, über ein fertiges Produkt nachzudenken."
 
 Sheldrake glaubt, dass eine der übergreifenden Lehren aus dem Studium der Pilze darin besteht, die Art und Weise, in der wir über Abfall denken, zu reformieren. Er ist davon überzeugt, dass der Einfluss von Pilzleder weit über einen neuen It-Bag hinausgehen könnte:
 
