@@ -50,7 +50,7 @@ sagte er in dem Gespräch. Er ist glaubt, dass seine Denkweise und Technologie a
 
 ## Pilzleder kann die Modewelt verändern
 
-Im Rahmen der Fashion Voices Konferenz, an der auch Größen, wie die britische Modeikone Vivienne Westwood und Tommy Hilfiger teilnahmen, meldete sich auch "Entangled Lives – How Fungi Make Our Worlds, Change Our Minds, and Shape Our Futures" ("Verstricktes Leben – Wie Pilze unsere Welten gestalten, unser Denken verändern und unsere Zukunft formen") Autor Merlin Sheldrake zu Wort. Ihm war es laut eigener Aussage wichtig, bei der Veranstaltung anwesend zu sein
+Im Rahmen der Fashion Voices Konferenz, an der auch Größen, wie die britische Modeikone Vivienne Westwood und Tommy Hilfiger teilnahmen, meldete sich auch der Autor von "Entangled Lives – How Fungi Make Our Worlds, Change Our Minds, and Shape Our Futures" ("Verstricktes Leben – Wie Pilze unsere Welten gestalten, unser Denken verändern und unsere Zukunft formen") Merlin Sheldrake zu Wort. Ihm war es laut eigener Aussage wichtig, bei der Veranstaltung anwesend zu sein
 
 > "weil es mich interessiert, mit Menschen aus der Kreativbranche darüber zu sprechen, wie die Möglichkeiten von Pilzen dazu beitragen können, den Geist für neue Ideen zu öffnen. Ich freue mich darauf, die Modewelt in ihren Bemühungen um mehr Nachhaltigkeit zu unterstützen. In Pilzen steckt so viel Potenzial, um einige der Probleme zu lösen, mit denen wir konfrontiert sind."
 
