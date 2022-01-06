@@ -60,9 +60,9 @@ Neben dem Verzicht auf Tierleid und die haptischen Besonderheiten des neuen Mate
 
 ## Vom Luxussektor auf den breiten Markt
 
-Aus einem Bericht des High Materials Sustainability Index geht hervor, dass Rinderleder vor allem aufgrund der mit der Tierhaltung verbundenen Abholzung und Treibhausgas-Emissionen für mehr Umweltschäden verantwortlich ist, als jedes andere Material – Kunststoffe eingeschlossen.
+Aus dem Higg Materials Sustainability Index[^3] geht hervor, dass Rinderleder vor allem aufgrund der mit der Tierhaltung verbundenen Abholzung und Treibhausgas-Emissionen für mehr Umweltschäden verantwortlich ist, als jedes andere Material – Kunststoffe eingeschlossen.
 
-Laut Statista[^3] machen Lederwaren 15 Prozent des Luxusmarktes aus. Nachhaltige Alternativen sind also dringend nötig.
+Laut Statista[^4] machen Lederwaren 15 Prozent des Luxusmarktes aus. Nachhaltige Alternativen sind also dringend nötig.
 
 Aus dem Geschäft im Luxussektor versprechen sich Firmen wie MycoWorks einen großen Einfluss und gute PR für alle Bereiche der Mode. Die Vorreiterrolle sei wichtig, um irgendwann auch im breiten Markt Fuß zu fassen. Partnerschaften mit Marken aus dem Massenmarkt hat man dabei wohl durchaus schon ins Auge gefasst.
 
@@ -82,4 +82,5 @@ Bild/picture: [MycoWorks](https://www.mycoworks.com/our-heritage)
 
 [^1]: [Bericht über Pilzleder im Guardian](https://www.theguardian.com/science/2021/dec/02/californian-firm-touts-mushroom-leather-as-sustainability-gamechanger)
 [^2]: [Business of Fashion Voices Konferenz 2021](https://www.businessoffashion.com/events/news-analysis/voices-returns-to-soho-farmhouse-this-december/)
-[^3]: [Statista Bericht](https://www.statista.com/study/56841/luxury-leather-goods-report/)
+[^3]: [Higg Materials Sustainability Index](https://howtohigg.org/higg-msi/leather/)
+[^4]: [Statista Bericht](https://www.statista.com/study/56841/luxury-leather-goods-report/)
