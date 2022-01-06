@@ -32,7 +32,7 @@ language: de
 ---
 **Das kalifornische Unternehmen MycoWorks ist ein Vorreiter in Sachen nachhaltige Mode: Es stellt eine vegane Leder-Alternative aus Pilzen her. Das Material setzt sich inzwischen weltweit immer mehr durch – nicht nur im High Fashion Bereich.**
 
-Vegane Alternativen zu tierischem Leder sind nicht nur angesagt und gefragt. Sie können in Zukunft das Leben zahlloser Tiere retten. Die Forschenden, denen es zum ersten Mal gelungen ist, Leder aus Pilzen herzustellen, gehen davon aus, dass herkömmliches Leder auf dem Modemarkt schon bald von moderneren Varianten abgelöst werden.
+Vegane Alternativen zu tierischem Leder sind nicht nur angesagt und gefragt. Sie können in Zukunft das Leben zahlloser Tiere retten. Die Forschenden, denen es zum ersten Mal gelungen ist, Leder aus Pilzen herzustellen, gehen davon aus, dass herkömmliches Leder auf dem Modemarkt schon bald von moderneren Varianten abgelöst wird.
 
 Ihnen ist es inzwischen gelungen, auf der Basis von Myzel – so heißt das Pilzleder im Fachjargon – Stoffe herzustellen, die Kalbs- und Schafhaut zum Verwechseln ähnlich sehen und sie fühlen sich sogar an, wie die tierischen Vorbilder.
 
