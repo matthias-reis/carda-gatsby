@@ -37,7 +37,7 @@ languageLink: 2022/01/abraham-debri-de-mondes-perdus-en
 ---
 **Das neue Abraham Album "Débris de mondes perdus" erscheint am 25. Januar. Die Band hat es mit den insgesamt acht Songs geschafft, etwas ganz Neues zum Post-Metal Genre hinzuzufügen, das Fans von Bands wie Cult of Luna besonders verzaubern wird.**
 
-Abraham kommen aus der spannenden Lausanner Underground-Musikszene. Unter anderem habt Ihr sie wie ich vielleicht schon als Vorband von The Ocean oder Cult Of Luna erlebt.
+Abraham kommen aus der spannenden Lausanner Underground-Musikszene. Unter anderem habt Ihr sie wie ich vielleicht schon als Vorband von [The Ocean](/2020/09/the-ocean-robin-staps-interview/) oder [Cult Of Luna](/tag/cult-of-luna) erlebt.
 
 Der musikalischen Qualität stehen die Stücke von Abraham diesen Bands ins Nichts nach. Inzwischen handelt es sich dabei definitiv um ein Projekt von Rang und Namen.
 
@@ -45,7 +45,7 @@ Der musikalischen Qualität stehen die Stücke von Abraham diesen Bands ins Nich
 
 ![Das Abraham – "Débris de mondes perdus" Plattencover zeigt ein abstraktes grafische hellgrünes Muster auf dunkelgrünem Grund.](https://storage.googleapis.com/cardamonchai-media/2022-01-06/cover-abraham-d-bris-de-mondes-perdus-jpg-imagine-181808_242408_1500_1500/640.webp "Abraham – \"Débris de mondes perdus\"")
 
-Insgesamt blicken Abraham auf inzwischen elf Jahre Bandgeschichte zurück. Diese waren von Höhen und Tiefen geprägt: Nach dem Erscheinen des letzten Albums verlor die Band nicht nur ihren zweiten Gitarristen, sondern obendrein auch noch ihren Hauptsänger.
+Insgesamt blicken Abraham bereits auf elf Jahre Bandgeschichte zurück. Diese waren von Höhen und Tiefen geprägt: Nach dem Erscheinen des letzten Albums verlor die Band nicht nur ihren zweiten Gitarristen, sondern obendrein auch noch ihren Hauptsänger.
 
 Ihre Liebe für harte Musik und der schmerzvolle Gesang von Schlagzeuger Dave Schlagmeister, der inzwischen der einzige Sänger ist, hielten die Band jedoch zusammen und sorgten dafür, dass ihre Musik mit den charakteristischen schrillen Schreien weiter in die düstere Welt hinausgetragen werden. Ein Glück:
 
