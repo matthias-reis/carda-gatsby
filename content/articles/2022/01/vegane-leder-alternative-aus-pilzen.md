@@ -5,13 +5,13 @@ typeName: Beitrag
 title: Vegane Leder-Alternative aus Pilzen
 subTitle: Ein Wegbereiter für mehr Nachhaltigkeit in der Modeindustrie
 seoTitle: Veganes Leder aus Pilzen – Wegbereiter der Modeindustrie
-description: "Das kalifornische Unternehmen MycoWorks ist ein Vorreiter in
-  Sachen nachhaltige Mode: Es stellt eine vegane Leder-Alternative aus Pilzen
-  her. Das Material setzt sich inzwischen weltweit immer mehr durch – nicht nur
-  im High Fashion Bereich."
-excerpt: Veganes Leder aus Pilzen setzt sich inzwischen weltweit immer mehr
+description: Veganes Leder aus Pilzen setzt sich inzwischen weltweit immer mehr
   durch – nicht nur im High Fashion Bereich. Bald könnte die Innovation auch den
   breiten Markt erreicht haben.
+excerpt: "Das kalifornische Unternehmen MycoWorks ist ein Vorreiter in Sachen
+  nachhaltige Mode: Es stellt eine vegane Leder-Alternative aus Pilzen her. Das
+  Material setzt sich inzwischen weltweit immer mehr durch – nicht nur im High
+  Fashion Bereich."
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-06/mycoworks-leder-aus-pilzen-jpg-imagine-382828_6c5342_1024_768/640.webp
 copyrigt: MycoWorks
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-06/mycoworks-leder-aus-pilzen-fb-png-imagine-382828_745f4f_1200_628/640.webp
