@@ -35,7 +35,7 @@ affiliate: false
 language: de
 languageLink: 2022/01/abraham-debri-de-mondes-perdus
 ---
-**Abraham are about to release their new album "Débris de mondes perdus" on January 25th. With a total of eight songs, the band has managed to add something entirely new for the post-metal genre, which will particularly enchant fans of bands like Cult of Luna.**
+**Abraham are about to release their new album "Débris de mondes perdus" on January 25th. With a total of eight songs, the band has managed to add something entirely new to the post-metal genre, which will particularly enchant fans of bands like Cult of Luna.**
 
 Abraham arose from the exciting Lausanne underground music scene. Maybe you also had the pleasure of experiencing them as support for [The Ocean](/2020/09/the-ocean-robin-staps-interview-en) or Cult Of Luna. I did, and I enjoyed it a lot.
 
@@ -69,7 +69,7 @@ If anyone has managed to set to music the turmoil and, at times, seemingly hopel
 
 > "The record is much rougher and also definitely less baroque than our previous albums. We've kept the general feeling of unease, though."
 
-The basic recipe for the new record, according to the band, was to use fewer instruments and push them to their limits. This simplicity, combined with a strong penchant for experimentation, has probably made the album what it is today: a solid and outstanding post-metal work. But, of course, I'm talking about post-metal as it should be: less produced, personal and direct. With this, Abraham has given the current phase of the genre a pat in the neck, adding something completely new. They managed to explore and enjoy the possibilities of their instruments to the fullest. They did that without becoming too focused on that at any point. Maybe you could describe this with: Back to the roots of the future.
+The basic recipe for the new record, according to the band, was to use fewer instruments and push them to their limits. This simplicity, combined with a strong penchant for experimentation, has probably made the album what it is today: a solid and outstanding post-metal work. But, of course, I'm talking about post-metal as it should be: less produced, personal and direct. With this, Abraham have given the current phase of the genre a pat in the neck, adding something completely new. They managed to explore and enjoy the possibilities of their instruments to the fullest. They did that without becoming too focused on that at any point. Maybe you could describe this with: Back to the roots of the future.
 
 ## Abraham – "Fear Overthrown"
 
