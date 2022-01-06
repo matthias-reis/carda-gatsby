@@ -46,7 +46,7 @@ Im Interview mit der britischen Zeitung im Vorfeld der Business of Fashion Voice
 
 > "Es ist uns gelungen, die Zukunft des Designs zu eröffnen, das beim Material anfängt und nicht beim Objekt. Pilzleder kann die gleiche emotionale Reaktion hervorrufen, wie Tierleder. In der Hand fühlt es sich wie etwas Besonderes an",
 
-sagte er in dem Gespräch. Er ist glaubt, dass seine Denkweise und Technologie auf einem Planeten, auf dem die Ressourcen endlich sind, revolutionär sein könnten. Ein direkter Einfluss auf den Modezirkus lässt sich jetzt schon beobachten. Unter anderen arbeitet auch [Sustainability Designerin Stella McCartney arbeitet](/2021/03/stella-mccartney-vegane-lederalternative-pilz/) mit Pilzleder.
+sagte er in dem Gespräch. Er ist glaubt, dass seine Denkweise und Technologie auf einem Planeten, auf dem die Ressourcen endlich sind, revolutionär sein könnten. Ein direkter Einfluss auf den Modezirkus lässt sich jetzt schon beobachten. Unter anderen arbeitet auch [Sustainability Designerin Stella McCartney](/2021/03/stella-mccartney-vegane-lederalternative-pilz/) mit Pilzleder.
 
 ## Pilzleder kann die Modewelt verändern
 
