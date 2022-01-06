@@ -59,7 +59,7 @@ Fall es eine Weitererzählung dieser wunderbar dunklen Ende-der-Welt-Story geben
 
 Sie tun dies geschmackvoll, wohldurchdacht, roh und ausdrucksstark. Ihr Statement zum neuen Werk gegenüber dem Label der Wahl Pelagic Records macht mehr als nur neugierig:
 
-> "Als konzeptionelles Kernstück haben wir einen Text, der mehrere hundert Jahre aus der Zukunft stammt verwendet. Insgesamt ist es mehr eine Art Gesang der Ängste, Ehrfurcht, Kämpfe und Klagen zum Ausdruck bringt, als eine Geschichte: heidnisch, böse, bizarr und primitiv. Man merkt, dass die Dunkelheit auch die Gemüter verdunkelt hat, nachdem sie auf der Erde aufprallte."
+> "Als konzeptionelles Kernstück haben wir einen Text, der mehrere hundert Jahre aus der Zukunft stammt, verwendet. Insgesamt ist es mehr eine Art Gesang der Ängste, Ehrfurcht, Kämpfe und Klagen zum Ausdruck bringt, als eine Geschichte: heidnisch, böse, bizarr und primitiv. Man merkt, dass die Dunkelheit auch die Gemüter verdunkelt hat, nachdem sie auf der Erde aufprallte."
 
 Ob man "Débris de mondes perdus" als "primitiv" bezeichnen sollte, bleibt offen. Auf jeden Fall erkennt man einen klaren Unterschied zum progressiven Erzählton des Vorgänger-Albums. Die Ängste und Schmerzen hört man schon den ersten Takten an. Der harte Gesang ist einfach meisterhaft und prägt sich sofort ein.
 
