@@ -6,10 +6,10 @@ title: '"Débris de mondes perdus" By Abraham'
 subTitle: Back To The Roots Of The Future
 seoTitle: Abraham – "Débris de mondes perdus" – Post-Metal Review
 description: Abraham are about to release their new album "Débris de mondes
-  perdus" on January 25th. Fans of bands like Cult of Luna and The Ocean will
+  perdus" on February 25th. Fans of bands like Cult of Luna and The Ocean will
   love the post-metal record.
 excerpt: Abraham are about to release their new album "Débris de mondes perdus"
-  on January 25th. With a total of eight songs, the band has managed to add
+  on February 25th. With a total of eight songs, the band has managed to add
   something entirely new for the post-metal genre, which will particularly
   enchant fans of bands like Cult of Luna.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-06/abraham-jpg-imagine-b8d808_788e09_1024_768/640.webp
@@ -35,7 +35,7 @@ affiliate: false
 language: en
 languageLink: /2022/01/abraham-debri-de-mondes-perdus
 ---
-**Abraham are about to release their new album "Débris de mondes perdus" on January 25th. With a total of eight songs, the band has managed to add something entirely new to the post-metal genre, which will particularly enchant fans of bands like Cult of Luna.**
+**Abraham are about to release their new album "Débris de mondes perdus" on February 25th. With a total of eight songs, the band has managed to add something entirely new to the post-metal genre, which will particularly enchant fans of bands like Cult of Luna.**
 
 Abraham arose from the exciting Lausanne underground music scene. Maybe you also had the pleasure of experiencing them as support for [The Ocean](/2020/09/the-ocean-robin-staps-interview-en) or Cult Of Luna. I did, and I enjoyed it a lot.
 
