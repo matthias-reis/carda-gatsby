@@ -70,3 +70,7 @@ Wenn es jemand geschafft hat, die Wirren und die zum Teil aussichtslos erscheine
 > "Die Platte ist viel rauer und auf jeden Fall auch viel weniger barock, als unsere vorherigen Alben. Das allgemeine Gefühl des Unbehagens haben wir aber beibehalten."
 
 Das Grundrezept für die neue Platte war für die Band laut eigener Aussage, weniger Instrumente zu verwenden und sie bis an Ihre Grenzen auszureizen. Diese Einfachheit in Kombination mit einem ausgeprägten Hang zur Experimentierfreudigkeit hat das Album vermutlich zu dem werden lassen, was es heute ist: ein solides und wunderbares Post-Metal-Werk. Ich spreche hier von Post-Metal, wie er eigentlich sein sollte: weniger produziert, persönlich und direkt. Damit haben Abraham der aktuellen Phase des Genres einen Schub verpasst und damit auch etwas Neues hinzugefügt: Sie schaffen es, die Möglichkeit ihrer Instrumente zu erforschen, ohne dabei zu glatt zu werden. Zurück zu den Wurzeln der Zukunft könnte man sagen.
+
+## Abraham – "Fear Overthrown"
+
+<YouTube id="Ht_j_KbLnCw" />
