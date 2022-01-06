@@ -33,7 +33,7 @@ focusKeyword: Débris de mondes perdus
 advertisement: false
 affiliate: false
 language: de
-languageLink: 2022/01/abraham-debri-de-mondes-perdus-en
+languageLink: /2022/01/abraham-debri-de-mondes-perdus-en
 ---
 **Das neue Abraham Album "Débris de mondes perdus" erscheint am 25. Januar. Die Band hat es mit den insgesamt acht Songs geschafft, etwas ganz Neues zum Post-Metal Genre hinzuzufügen, das Fans von Bands wie Cult of Luna besonders verzaubern wird.**
 
