@@ -74,7 +74,7 @@ Die Forschenden warnen unterdessen davor, dass unsensibles Design einige wertvol
 
 > "Wir sind dazu in der Lage, ein biologisch abbaubares Material zu liefern. Allerdings könnten wir vor einem Problem stehen, wenn die Industrie anfängt, über ein fertiges Produkt nachzudenken."
 
-Sheldrake glaubt, dass eine der übergreifenden Lehren aus dem Studium der Pilze darin besteht, die Art und Weise, in der wir über Abfall denken, zu reformieren. Er ist davon überzeugt, dass der Einfluss von Pilzleder weit über einen neuen It-Bag hinausgehen könnte:
+Sheldrake glaubt, dass eine der übergreifenden Lehren aus dem Studium der Pilze darin besteht, die Art und Weise, in der wir mit Abfall umgehen, zu reformieren. Er ist davon überzeugt, dass der Einfluss von Pilzleder weit über einen neuen It-Bag hinausgehen könnte:
 
 > "Wenn die Pilze nicht das täten, was sie tun, wäre unser Planet meterhoch mit Tier- und Pflanzenkörpern angefüllt. Als Verbraucher⋆innen sind zu geradlinigem Denken erzogen worden. Wir kaufen etwas, benutzen es und werfen es weg. Pilze können unser Modebewusstsein auf vielen Ebenen beeinfluss. Ich spreche Materialinnovation, aber auch von der Kultur, endlos weiter neue Dinge herzustellen. Wir können so viel lernen, wenn wir stattdessen anfangen, in den Begriffen der Natur und ihrer Zyklen zu denken."
 
