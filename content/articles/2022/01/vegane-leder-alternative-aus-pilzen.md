@@ -64,13 +64,13 @@ Aus dem Higg Materials Sustainability Index[^3] geht hervor, dass Rinderleder vo
 
 Laut Statista[^4] machen Lederwaren 15 Prozent des Luxusmarktes aus. Nachhaltige Alternativen sind also dringend nötig.
 
-Aus dem Geschäft im Luxussektor versprechen sich Firmen wie MycoWorks einen großen Einfluss und gute PR für alle Bereiche der Mode. Die Vorreiterrolle sei wichtig, um irgendwann auch im breiten Markt Fuß zu fassen, so Scullin. Partnerschaften mit Marken aus dem Massenmarkt hat man dabei wohl durchaus schon ins Auge gefasst.
+Aus dem Geschäft im Luxussektor versprechen sich Firmen wie MycoWorks einen großen Einfluss und gute PR für alle Bereiche der Mode. Die Vorreiterrolle sei wichtig, um irgendwann auch im breiten Markt Fuß zu fassen, so MycoWorks CEO Scullin. Partnerschaften mit Marken aus dem Massenmarkt hat man dabei wohl durchaus schon ins Auge gefasst.
 
 Kein Wunder: Das Geschäft mit dem Pilzleder scheint gut zu laufen. MycoWorks eröffnet in den USA bald eine zweite Fabrik. Vielleicht gibt es also schon bald Sitzbezüge und Turnschuhe aus dem nachhaltigen Stoff?
 
 ## Nachhaltige Mode muss ganzheitlich sein
 
-Die Forschenden warnen unterdessen davor, dass unsensibles Design einige wertvolle umweltfreundliche Eigenschaften ihrer Erfindung untergraben könnte: Werden zum Beispiel Klebstoffe, Beschläge oder Verschlüsse aus Material verarbeitet, die nicht biologisch abbaubar sind, fällt doch wieder Abfall an. MycoWorks CEO Scullin kommentiert das so:
+Die Forschenden warnen unterdessen davor, dass unsensibles Design einige wertvolle umweltfreundliche Eigenschaften ihrer Erfindung untergraben könnte: Werden zum Beispiel Klebstoffe, Beschläge oder Verschlüsse aus Material verarbeitet, die nicht biologisch abbaubar sind, fällt doch wieder Abfall an. Scullin kommentiert das so:
 
 > "Wir sind dazu in der Lage, ein biologisch abbaubares Material zu liefern. Allerdings könnten wir vor einem Problem stehen, wenn es darum geht, dass die Industrie über ein fertiges Produkt nachzudenken."
 
