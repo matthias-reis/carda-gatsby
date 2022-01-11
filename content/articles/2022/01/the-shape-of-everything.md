@@ -46,7 +46,7 @@ Weil Joel seine Nachricht zwischen drei und vier Uhr nachts verschickt hatte, wu
 
 SOM haben mit den insgesamt acht Titeln auf "The Shape Of Everything" ein großes Album geschaffen. In gerade mal 34 Minuten Gesamtspielzeit ist es der Band gelungen, eine spürbare Dramaturgie aufzubauen, die von der Welt in unserer Zeit kündet.
 
-Wenn Ihr Bands wie Deftones, Failure oder auch Alcest mögt, solltet Ihr Euch dringend mit der Shoegaze/Post-Music Band auf die Reise begeben – es lohnt sich. Hinter jedem Stück steckt eine Geschichte und das hört und spürt man.
+Wenn Ihr Projekte wie Deftones, Failure oder auch Alcest mögt, solltet Ihr Euch dringend mit der Shoegaze/Post-Music Band auf die Reise begeben – es lohnt sich. Hinter jedem Stück steckt eine Geschichte und das hört und spürt man.
 
 Brachiale Riffs treffen auf herzzerreißende Lyrics, die tief gehen. Atmosphärische Sequenzen lösen metallische Wände ab und leiten in eine Traumwelt.
 
