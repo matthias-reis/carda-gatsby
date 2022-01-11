@@ -61,7 +61,7 @@ By the way: The latest pre-release single is called "Center". You can watch the 
 
 ## SOM – "Moment"
 
-<YouTube id="mmO8VBtBtfM&t=1s" />
+<YouTube id="mmO8VBtBtfM" />
 
 Die neueste Auskopplung heißt übrigens "Center". Hier kommt das Video:
 
