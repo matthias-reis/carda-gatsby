@@ -61,7 +61,7 @@ Für das Video zur Auskopplung "Moment" fuhr Bassist Justin Forrest mit Filmer A
 
 ## SOM – "Moment"
 
-<YouTube id="mmO8VBtBtfM&t=1s" />
+<YouTube id="mmO8VBtBtfM" />
 
 Die neueste Auskopplung heißt übrigens "Center". Hier kommt das Video:
 
