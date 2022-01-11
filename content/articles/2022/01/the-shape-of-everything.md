@@ -50,7 +50,7 @@ Wenn Ihr Bands wie Deftones, Failure oder auch Alcest mögt, solltet Ihr Euch dr
 
 Brachiale Riffs treffen auf herzzerreißende Lyrics, die tief gehen. Atmosphärische Sequenzen lösen metallische Wände ab und leiten in eine Traumwelt.
 
-# Schwere, Düsternis und Hoffnung
+## Schwere, Düsternis und Hoffnung
 
 Die Platte ist das inzwischen zweite komplette Studioalbum der Band. Es erscheint am 21. Januar pünktlich zur ursprünglich geplanten umfangreichen Europatournee mit Katatonia und
 Sólstafir.
