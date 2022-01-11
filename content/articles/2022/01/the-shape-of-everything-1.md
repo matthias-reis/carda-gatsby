@@ -1,6 +1,6 @@
 ---
 date: 2022-01-11T16:27:33.743Z
-slug: som-the-shape-of-everything
+slug: som-the-shape-of-everything-en
 typeName: Review
 title: '"The Shape of Everything"'
 subTitle: The New SOM Album
