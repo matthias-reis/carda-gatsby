@@ -5,8 +5,8 @@ typeName: Review
 title: '"The Shape of Everything"'
 subTitle: The New SOM Album
 seoTitle: SOM – "The Shape of Everything" – Post-Rock Review
-description: '"The Shape Of Everything is a big album – with eight tracks in
-  total. With just 34 minutes in total, SOM managed to build a palpable
+description: '"The Shape Of Everything" is a big album – consisting of eight
+  tracks. With just 34 minutes in total, SOM managed to build a palpable
   dramaturgy that speaks of the world in our time.'
 excerpt: 'SOM singer and guitarist Will Benoit woke up one night to find an
   email from guitarist Joel Reynolds in his inbox. Attached was an mp3 called
@@ -40,9 +40,9 @@ Because Joel had sent his message between three and four in the morning, Will kn
 
 ## "The Shape Of Everything" is a great album.
 
-![SOM - "The Shape Of Everything" artwork (round geometric pattern on emerald green ground)](https://storage.googleapis.com/cardamonchai-media/2022-01-11/som-the-shape-of-everything-jpeg-imagine-182828_44675f_1500_1500/640.webp "SOM - \"The Shape Of Everything\"")
+![SOM - "The Shape Of Everything" artwork (round geometric pattern on an emerald green background)](https://storage.googleapis.com/cardamonchai-media/2022-01-11/som-the-shape-of-everything-jpeg-imagine-182828_44675f_1500_1500/640.webp "SOM - \"The Shape Of Everything\"")
 
-"The Shape Of Everything is a big album – with eight tracks in total. With just 34 minutes in total, SOM managed to build a palpable dramaturgy that speaks of the world in our time.
+"The Shape Of Everything" is a big album – consisting of eight tracks. With just 34 minutes in total, SOM managed to build a palpable dramaturgy that speaks of the world in our time.
 
 If you like bands like Deftones, Failure or also Alcest, you should urgently go on a journey with this shoegaze/post-music band - it's worth it. There is a story behind every song, and you can hear and feel that.
 
