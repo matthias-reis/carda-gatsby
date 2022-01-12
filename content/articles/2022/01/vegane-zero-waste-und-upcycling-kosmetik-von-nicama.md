@@ -53,13 +53,13 @@ Gegründet wurde Nicama von Luca, Janina, Leander und Zeno. Sie lernten sich 201
 
 Aus diesem Grund bleiben sie mit ihren Produkten und Verpackungen auch konsequent plastikfrei. Die Shampoos werden zum Beispiel genau wie herkömmliche Shampoos hergestellt – lediglich auf das Wasser verzichtet Nicama. Für die Entwicklung der perfekten Rezeptur hat das Team über ein Jahr getüftelt und ausprobiert. Das Ziel war ein hautfreundliches festes Haarwaschmittel ohne bedenkliche Inhaltsstoffe, das die Haare pflegt und geschmeidig hält.
 
+<Gallery name="nicama-zero-waste-kosmetik-1" />
+
 ## Das Nicama Starterset
 
 Das [Lavendel-Shampoo](https://tidd.ly/33pXPjF) (mein heimlicher Favorit) und die Lemon-Eukalyptus-Seife sind Teil des praktischen [Nicama Startersets mit Zubehör](https://tidd.ly/3K1eTxr). Dazu gehört auch mein wundervoller neuer Magnet-Seifenhalter aus Olivenholz sowie ein Stück Luffa und eine Transportdose für das Shampoo. Im Nicama Shop könnt Ihr Euch je nach Wunsch auch andere Kombinationen aussuchen. Die Dose, die Luffa-Scheibe und der Seifenhalter sind immer dabei.
 
 Der Clou am Set ist: Ihr bekommt damit eine schöne Übersicht über die Produkte und spart im Vergleich zum Einzelkauf satte 20 Prozent. Es lohnt sich also. Natürlich eignet es sich auch ziemlich gut als Geschenk. Die meisten freuen sich doch über ein paar duftige neue Schaumstückchen fürs Badezimmer.
-
-<Gallery name="nicama-zero-waste-kosmetik-1" />
 
 Auf der Rückseite des [Seifenhalters](https://tidd.ly/3K7m2ME) findet Ihr einen vorinstallierten, wasserfesten Klebestreifen. Damit könnt Ihr das Schmuckstück ganz einfach an Euren Badezimmerfliesen oder am Waschbecken anbringen. Anschließend braucht Ihr nur noch das beiliegende Magnetplättchen mit den Zähnchen voran in das gewünschte Seifenstück oder Shampoo stecken und schon könnt ihr die Seife aufhängen und wieder abnehmen.
 
