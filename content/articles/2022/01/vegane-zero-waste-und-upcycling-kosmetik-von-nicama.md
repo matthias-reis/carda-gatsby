@@ -28,10 +28,15 @@ labels:
   - Peeling
   - plastikfrei
   - ohne Plastik
+  - Seife
+  - Shampoo
+  - vegane Seife
+  - veganes Shampoo
 focusKeyword: Zero Waste Kosmetik
 advertisement: true
 affiliate: true
 language: de
+languageLink: ""
 ---
 **Nicama steht für nachhaltige Produkte fürs Bad und den Haushalt. Ich habe jetzt die Shampoos und Seifen in Verwendung und möchte sie Euch heute gerne vorstellen und berichten, was mir daran besonders gut gefällt. Ein paar Anwendungstipps habe ich auch für Euch.**
 
