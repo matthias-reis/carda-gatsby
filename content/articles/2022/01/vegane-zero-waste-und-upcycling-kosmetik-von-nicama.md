@@ -45,7 +45,7 @@ Für jedes verkaufte Produkt werden 100 Gramm Plastik in Küstenregionen eingesa
 
 Das Gründerteam des Social Start-ups möchte der Plastikverschmutzung auf drei Arten etwas entgegensetzen. Die vier wollen ein Bewusstsein in Bezug auf den Pro-Kopf-Plastikverbrauch schaffen, direkte Einsparung durch die Entwicklung plastikfreier Alternativen betreiben und mit dem "1 plus 1" Programm und der transparenten, finanziellen Unterstützung Plastik-positiver Produkte pro Produktverkauf zusätzlichen Einfluss zu nehmen. Das klingt schon mal gut, oder?
 
-Hinzu kommen Produkte, wie die von mir getestete Upcycling-Seife mit Kaffee, für die bereits genutzten Ressourcen ein zweites Leben geschenkt wird.
+Hinzu kommen Produkte, wie die von mir getestete Upcycling-Seife mit Kaffeesatz, für die bereits genutzten Ressourcen ein zweites Leben geschenkt wird.
 
 ## Ein Social Start-up aus Überzeugung
 
