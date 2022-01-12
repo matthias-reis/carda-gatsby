@@ -79,4 +79,4 @@ Von Nicama bekommt Ihr die Garantie, dass alles frei von Mikroplastik, Plastikve
 
 Im Shop findet Ihr auch weitere nachhaltige Lösungen wie [Zero-Waste Rasiersets](https://tidd.ly/3I2fhcT) und jede Menge weiteres praktisches [Zubehör](https://tidd.ly/3FjVvI7) wie zum Beispiel Seifenschalen. Stöbern lohnt sich!
 
-<Gallery name="nicama-zero-waste-kosmetik-1" />
+<Gallery name="nicama-zero-waste-kosmetik-2" />
