@@ -57,7 +57,7 @@ Aus diesem Grund bleiben sie mit ihren Produkten und Verpackungen auch konsequen
 
 ## Das Nicama Starterset
 
-Das [Lavendel-Shampoo](https://tidd.ly/33pXPjF) (mein heimlicher Favorit) und die Lemon-Eukalyptus-Seife sind Teil des praktischen [Nicama Startersets mit Zubehör](https://tidd.ly/3K1eTxr). Dazu gehört auch mein wundervoller neuer Magnet-Seifenhalter aus Olivenholz sowie ein Stück Luffa und eine Transportdose für das Shampoo. Im Nicama Shop könnt Ihr Euch je nach Wunsch auch andere Kombinationen aussuchen. Die Dose, die Luffa-Scheibe und der Seifenhalter sind immer dabei.
+Das [Lavendel-Shampoo](https://tidd.ly/33pXPjF) (mein heimlicher Favorit) und die Lemon-Eukalyptus-Seife sind Teil des praktischen [Nicama Startersets mit Zubehör](https://tidd.ly/3K1eTxr). Dazu gehört auch mein wundervoller neuer Magnet-Seifenhalter aus Olivenholz sowie ein Stück Luffa und eine Reisedose für das Shampoo. Im Nicama Shop könnt Ihr Euch je nach Wunsch auch andere Kombinationen aussuchen. Die Dose, die Luffa-Scheibe und der Seifenhalter sind immer dabei.
 
 Der Clou am Set ist: Ihr bekommt damit eine schöne Übersicht über die Produkte und spart im Vergleich zum Einzelkauf satte 20 Prozent. Es lohnt sich also. Natürlich eignet es sich auch ziemlich gut als Geschenk. Die meisten freuen sich doch über ein paar duftige neue Schaumstückchen fürs Badezimmer.
 
