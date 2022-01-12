@@ -58,6 +58,8 @@ Das [Lavendel-Shampoo](https://tidd.ly/33pXPjF) (mein heimlicher Favorit) und di
 
 Der Clou am Set ist: Ihr bekommt damit eine schöne Übersicht über die Produkte und spart im Vergleich zum Einzelkauf satte 20 Prozent. Es lohnt sich also. Natürlich eignet es sich auch ziemlich gut als Geschenk. Die meisten freuen sich doch über ein paar duftige neue Schaumstückchen fürs Badezimmer.
 
+<Gallery name="nicama-zero-waste-kosmetik-1" />
+
 Auf der Rückseite des [Seifenhalters](https://tidd.ly/3K7m2ME) findet Ihr einen vorinstallierten, wasserfesten Klebestreifen. Damit könnt Ihr das Schmuckstück ganz einfach an Euren Badezimmerfliesen oder am Waschbecken anbringen. Anschließend braucht Ihr nur noch das beiliegende Magnetplättchen mit den Zähnchen voran in das gewünschte Seifenstück oder Shampoo stecken und schon könnt ihr die Seife aufhängen und wieder abnehmen.
 
 Ich habe meinen Seifenhalter in der Dusche über der Wassergrenze angebracht. So bleibt mein Shampoostück immer schön trocken. [Die Luffa-Scheibe](https://tidd.ly/33sIL4I) könnt Ihr in [klassischen Seifenschalen](https://tidd.ly/3rbH9EX) als Unterlage verwenden. Dann bildet sich unter der Seife keine Pfütze. Nach ein paar Tagen könnt Ihr es dann einfach auswaschen und damit die Seifenschale reinigen. Übrigens macht es sich auch in der [Reisedose](https://tidd.ly/3r9FfV7) ziemlich gut.
@@ -75,3 +77,5 @@ Die [Lemon-Eukalyptus-Duschseife](https://tidd.ly/3I1XZN0) duftet super frisch u
 Von Nicama bekommt Ihr die Garantie, dass alles frei von Mikroplastik, Plastikverpackungen, künstlichen Konservierungsstoffen, Silikonen, Parabenen und Tierversuchen ist – und natürlich vegan. Mit den praktischen Größen sind die Produkte besonders auf Reisen sehr praktisch. Ein weiterer Vorteil ist, dass ohne Flaschen natürlich auch nichts auslaufen kann.
 
 Im Shop findet Ihr auch weitere nachhaltige Lösungen wie [Zero-Waste Rasiersets](https://tidd.ly/3I2fhcT) und jede Menge weiteres praktisches [Zubehör](https://tidd.ly/3FjVvI7) wie zum Beispiel Seifenschalen. Stöbern lohnt sich!
+
+<Gallery name="nicama-zero-waste-kosmetik-1" />
