@@ -44,7 +44,7 @@ Was gleich von Anfang an einen bleibenden Eindruck bei mir hinterlassen hat, ist
 
 ## Feste Shampoos und Seifen im Test
 
-Ausprobiert habe ich das feste Shampoo in den Sorten [Rosmarin](https://tidd.ly/3rgEUQN), [Lavendel](https://tidd.ly/33pXPjF), [Lemongras](LINK) und [Natur](https://tidd.ly/3nkw8QC) sowie [die Upcycling-Seife mit Kaffeesatz](https://tidd.ly/335vC1X) und die [Lemon-Eukalyptus-Duschseife](https://tidd.ly/3I1XZN0). Außerdem kommen bei mir seit Kurzem der praktische, [magnetische Seifenhalter aus Holz](https://tidd.ly/3K7m2ME) und eine [Seifenablage aus Luffa](https://tidd.ly/33sIL4I) zum Einsatz. Doch dazu später.
+Ausprobiert habe ich das feste Shampoo in den Sorten [Rosmarin](https://tidd.ly/3rgEUQN), [Lavendel](https://tidd.ly/33pXPjF), [Lemongras](https://tidd.ly/3A8mGoF) und [Natur](https://tidd.ly/3nkw8QC) sowie [die Upcycling-Seife mit Kaffeesatz](https://tidd.ly/335vC1X) und die [Lemon-Eukalyptus-Duschseife](https://tidd.ly/3I1XZN0). Außerdem kommen bei mir seit Kurzem der praktische, [magnetische Seifenhalter aus Holz](https://tidd.ly/3K7m2ME) und eine [Seifenablage aus Luffa](https://tidd.ly/33sIL4I) zum Einsatz. Doch dazu später.
 
 Für jedes verkaufte Produkt werden 100 Gramm Plastik in Küstenregionen eingesammelt. Damit Ihr das auch nachvollziehen könnt, ist auf den Manschetten und Kartons aus Recycling-Papier, mit denen die Seifen und Shampoos eingepackt sind, QR-Codes angebracht. Wenn Ihr einen davon mit Eurem Mobiltelefon einscannt, könnt Ihr genau sehen, wo die Hilfe in diesem speziellen Fall ankommt. Nicama nennt das "1 plus 1".
 
