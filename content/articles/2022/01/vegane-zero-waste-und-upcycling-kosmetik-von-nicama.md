@@ -54,7 +54,7 @@ Hinzu kommen Produkte, wie die von mir getestete Upcycling-Seife mit Kaffeesatz,
 
 ## Ein Social Start-up aus Überzeugung
 
-Gegründet wurde Nicama von Luca, Janina, Leander und Zeno. Sie lernten sich 2015 bei der ehrenamtlichen Arbeit für einen gemeinnützigen Verein kennen. Während sie mit dem Organisieren von Veranstaltungen beschäftigt waren, kam ihnen die Idee, gemeinsam ein Projekt zu starten. Seit dieser Zeit verbindet die vier eine tiefe, innige Freundschaft – und Nicama. Ihre Mission ist es, die Entwicklung hin zu mehr Nachhaltigkeit innerhalb der Gesellschaft zu unterstützen und aktiv mitzugestalten.
+Gegründet wurde Nicama von Luca, Jannis, Leander und Zeno. Sie lernten sich 2015 bei der ehrenamtlichen Arbeit für einen gemeinnützigen Verein kennen. Während sie mit dem Organisieren von Veranstaltungen beschäftigt waren, kam ihnen die Idee, gemeinsam ein Projekt zu starten. Seit dieser Zeit verbindet die vier eine tiefe, innige Freundschaft – und Nicama. Ihre Mission ist es, die Entwicklung hin zu mehr Nachhaltigkeit innerhalb der Gesellschaft zu unterstützen und aktiv mitzugestalten.
 
 Aus diesem Grund bleiben sie mit ihren Produkten und Verpackungen auch konsequent plastikfrei. Die Shampoos werden zum Beispiel genau wie herkömmliche Shampoos hergestellt – lediglich auf das Wasser verzichtet Nicama. Für die Entwicklung der perfekten Rezeptur hat das Team über ein Jahr getüftelt und ausprobiert. Das Ziel war ein hautfreundliches festes Haarwaschmittel ohne bedenkliche Inhaltsstoffe, das die Haare pflegt und geschmeidig hält.
 
