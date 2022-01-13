@@ -68,7 +68,7 @@ Der Clou am Set ist: Ihr bekommt damit eine schöne Übersicht über die Produkt
 
 Auf der Rückseite des [Seifenhalters](https://tidd.ly/3K7m2ME) findet Ihr einen vorinstallierten, wasserfesten Klebestreifen. Damit könnt Ihr das Schmuckstück ganz einfach an Euren Badezimmerfliesen oder am Waschbecken anbringen. Anschließend braucht Ihr nur noch das beiliegende Magnetplättchen mit den Zähnchen voran in das gewünschte Seifenstück oder Shampoo zu stecken und schon könnt ihr die Seife aufhängen und wieder abnehmen.
 
-Ich habe meinen Seifenhalter in der Dusche über der Wassergrenze angebracht. So bleibt mein Shampoostück immer schön trocken. [Die Luffa-Scheibe](https://tidd.ly/33sIL4I) könnt Ihr in [klassischen Seifenschalen](https://tidd.ly/3rbH9EX) als Unterlage verwenden. Dann bildet sich unter der Seife keine Pfütze. Nach ein paar Tagen könnt Ihr es dann einfach auswaschen und damit die Seifenschale reinigen. Übrigens macht es sich auch in der [Reisedose](https://tidd.ly/3r9FfV7) ziemlich gut.
+Ich habe meinen Seifenhalter in der Dusche über der Wassergrenze angebracht. So bleibt mein Shampoostück immer schön trocken. [Die Luffa-Scheibe](https://tidd.ly/33sIL4I) könnt Ihr in [klassischen Seifenschalen](https://tidd.ly/3rbH9EX) als Unterlage verwenden. Dann bildet sich unter der Seife keine Pfütze. Nach ein paar Tagen könnt Ihr sie dann einfach auswaschen und damit die Seifenschale reinigen. Übrigens macht es sich auch in der [Reisedose](https://tidd.ly/3r9FfV7) ziemlich gut.
 
 ## Nachhaltige Shampoos von Nicama
 
