@@ -24,6 +24,8 @@ labels:
   - Bands
   - Review
   - Reviews
+  - Masterplan Music
+  - Experimental
 focusKeyword: Desert of Real
 advertisement: false
 affiliate: false
