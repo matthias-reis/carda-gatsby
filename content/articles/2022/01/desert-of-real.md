@@ -48,6 +48,8 @@ Wanheda haben ihr Album produziert, wie man es zum Beispiel aus der Regiearbeit 
 
 **Anne:** Was ist die Bedeutung von "Desert of Real"? Du hast mir erzählt, es geht um Social Media Sucht?
 
+## die Sucht nach sozialen Medien
+
 **Jan:** "Desert of Real" handelt von den Gefühlen, die mit der Sucht und dem Kampf gegen die Sucht verbunden sind. Uns ging es besonders um die Sucht nach sozialen Medien, Smartphones und Technologie im Allgemeinen. Es geht aber auch um die (psychischen) Folgen, die mit der Sucht nach sozialen Medien einhergehen und um die Zwietracht, die die verstärkte Nutzung sozialer Netzwerke und moderner Technologien in der Gesellschaft schürt.
 
 **Anne:** Als Grundlage habt Ihr eine klassische Geschichte verwendet: "Das Urteil des Paris" aus der griechischen Mythologie. Möchtest Du mir mehr darüber erzählen?
@@ -61,6 +63,8 @@ Wanheda haben ihr Album produziert, wie man es zum Beispiel aus der Regiearbeit 
 **Jan:** Obwohl wir Lust hatten, ein Konzeptalbum zu machen und ihm durch das gewählte Thema eine Bedeutung zu geben, überlassen wir den Hörer⋆innen die Schlussfolgerungen. Uns ging es nicht so sehr darum, von einer drohenden technischen Dystopie zu predigen. Wir wollen vielmehr unsere Gefühle zu diesem Thema erforschen und zum Ausdruck bringen. Es ist uns sehr wichtig, dass unsere Musik Emotion hervorruft – was auch immer eine Person beim Hören unserer Songs fühlen mag.
 
 **Anne:** Wie seid Ihr auf die Idee gekommen, diese Geschichte zu verwenden?
+
+## Die Eitelkeit und Egozentrik der Menschheit
 
 **Jan:** Während wir diese Songs geschrieben und angehört haben, spürten wir selbst Gefühle und Widersprüche darin. Es waren Gefühle wie Verzweiflung, Melancholie, Euphorie, Nostalgie und Glückseligkeit. Es macht uns Spaß, über gesellschaftlich relevante Themen zu sinnieren. Unsere Debüt-EP "The Cenozoic Implosion" handelt ja von der Gier der Menschheit und unseren Einfluss auf den Planeten. Ich denke, wir hatten einfach Lust, unsere Vorliebe, die Eitelkeit und die Egozentrik der Menschheit zu hinterfragen, auf unserem Debüt-Album fortzusetzen.
 
@@ -76,6 +80,8 @@ Wenn man es schafft, sie zu überwinden, stärkt das die Gruppe. Wir sind alle e
 
 **Anne:** Was hat es mit der belgischen Post-Music Szene auf sich? Ich meine, es gibt so viele Projekte und Bands und Fanzines und unser geliebtes DUNK!festival und DUNK!record und das alles. Irgendwie fühlt sich das alles wie eine große Familie an! Was meinst Du, hat dazu geführt, dass sich so etwas Großartiges entwickeln konnte?
 
+## "Die Menschen in der Post-Rock Szene sind offen und freundlich"
+
 **Jan:** Mir geht es genauso, aber ich habe ehrlich gesagt keine Ahnung, wie sich das so entwickeln konnte. Als Fans von Post-Music sind wir schon seit Jahren beim DUNK!festival dabei. Du kannst einfach nichts dagegen tun, als es zu einer jährlichen Tradition werden zu lassen. Es kommt uns so vor, als wären die Menschen innerhalb dieser "Szene" alle super freundlich, offen, hilfsbereit und dankbar. Ich denke Menschen wie wir lieben es, sich mit solchen Menschen zu umgeben.
 
 ![Wanheda – "Desert of Real" Album-Cover (Eine Person steht mit offenem Mund vor einem Vordergrund aus Nullen und Einsen)](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-desert-of-real-png-imagine-e8e8e8_cdc9c8_1080_1080/640.webp "Wanheda – \\"Desert of Real\\"")
@@ -85,6 +91,8 @@ Wenn man es schafft, sie zu überwinden, stärkt das die Gruppe. Wir sind alle e
 **Jan:** Es hat alles mit unserem Lead-Gitarristen Jan Verduyckt aka JV angefangen, der ein großer Fan von Bands wie Mono, Sigur Rós und Yndi Halda ist. Andere Bands, die ihn dazu inspiriert haben, Songs für Wanheda zu schreiben sind Pink Floyd, Radiohead und April Rain, aber auch klassische Komponist⋆innen. Wir sind außerdem alle große Fans von Russian Circles und If These Trees Could Talk.
 
 **Anne:** Du hast es vorhin schon mal kurz angesprochen: Ihr seid zu sechst. Das sind eine Menge Leute. Ist es da immer einfach, einen gemeinsamen Nenner zu finden und all die kreativen Ideen zu vereinen?
+
+## "Wir können uns alle kreativ entfalten"
 
 **Jan:** Ich kann mir zwar vorstellen, dass dieser Prozess in einer kleineren Gruppe durchaus einfacher sein kann, aber bis jetzt hat es bei uns noch keine größeren Probleme gegeben. JV ist unser Haupt-Songschreiber. Er bringt dadurch auch die meisten musikalischen Ideen ein. Trotzdem haben wir immer genau Raum für Input aus allen Richtungen.
 
