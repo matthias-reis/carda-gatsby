@@ -48,7 +48,9 @@ Wanheda produced their album in a way that is also used, for example, by directo
 
 **Anne:** What is the meaning of "Desert of Real"? You told me it has something to do with social media addiction?
 
-**Jan:** Desert of Real is about emotions associated with addiction and struggling with addiction. To be more precise: the addiction to social media, smartphones and technology in general. It also deals with the (mental) consequences of addiction to social media and the discord that (the increased use of) social media and technology causes in society. 
+## 
+
+**Jan:** "Desert of Real" is about emotions associated with addiction and struggling with addiction. To be more precise: the addiction to social media, smartphones and technology in general. It also deals with the (mental) consequences of addiction to social media and the discord that (the increased use of) social media and technology causes in society. 
 
 **Anne:** You used a classic story as the basis: "The Judgement of Paris" from Greek mythology. Would you like to tell me more about it?
 
