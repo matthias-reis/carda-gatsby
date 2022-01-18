@@ -48,7 +48,7 @@ Wanheda haben ihr Album produziert, wie man es zum Beispiel aus der Regiearbeit 
 
 **Anne:** Was ist die Bedeutung von "Desert of Real"? Du hast mir erzählt, es geht um Social Media Sucht?
 
-## die Sucht nach sozialen Medien
+## Die Sucht nach sozialen Medien
 
 **Jan:** "Desert of Real" handelt von den Gefühlen, die mit der Sucht und dem Kampf gegen die Sucht verbunden sind. Uns ging es besonders um die Sucht nach sozialen Medien, Smartphones und Technologie im Allgemeinen. Es geht aber auch um die (psychischen) Folgen, die mit der Sucht nach sozialen Medien einhergehen und um die Zwietracht, die die verstärkte Nutzung sozialer Netzwerke und moderner Technologien in der Gesellschaft schürt.
 
