@@ -79,7 +79,7 @@ thought!
 
 **Anne:** The style of your music is very versatile. I could imagine fans of bands like Mono or Caspian, other soulful and melodic Post-Rock bands can easily get infected. Would you say that they are role models for you? Would you like to name some more?
 
-**Jan:** It all started with our lead guitarist Jan Verduyckt aka JV. He is a fan of bands like MONO, Sigur Ros, Yndi Halda, etc. Other bands that inspire him to write for WANHEDA are Pink Floyd, Radiohead and April Rain but also composers of classical music. Additionally, we're all big fans of Russian Circles and If These Trees Could Talk.
+**Jan:** It all started with our lead guitarist Jan Verduyckt aka JV. He is a fan of bands like Mono, Sigur Ros, Yndi Halda, etc. Other bands that inspire him to write for Wanheda are Pink Floyd, Radiohead and April Rain but also composers of classical music. Additionally, we're all big fans of Russian Circles and If These Trees Could Talk.
 
 ![Wanheda - "Desert of Real" album cover (A person stands in front of a foreground of zeros and ones with their mouth open)](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-desert-of-real-png-imagine-e8e8e8_cdc9c8_1080_1080/640.webp "Wanheda - \\"Desert of Real\\"")
 
