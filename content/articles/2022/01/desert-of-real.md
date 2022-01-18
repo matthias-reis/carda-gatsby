@@ -58,7 +58,7 @@ Wanheda haben ihr Album produziert, wie man es zum Beispiel aus der Regiearbeit 
 
 **Anne:** Man könnte also sagen, dass das Album eine wahre Geschichte erzählt?
 
-**Jan:** Obwohl wir Lust hatten, ein Konzeptalbum zu machen und ihm durch das gewählte Thema eine Bedeutung zu geben, überlassen wir den Hörer⋆innen die Schlussfolgerungen. Uns ging es nicht sosehr darum, von einer drohenden technischen Dystopie zu predigen. Wir wollen vielmehr unsere Gefühle zu diesem Thema erforschen und zum Ausdruck bringen. Es ist uns sehr wichtig, dass unsere Musik Emotion hervorruft – was auch immer eine Person beim Hören unserer Songs fühlen mag.
+**Jan:** Obwohl wir Lust hatten, ein Konzeptalbum zu machen und ihm durch das gewählte Thema eine Bedeutung zu geben, überlassen wir den Hörer⋆innen die Schlussfolgerungen. Uns ging es nicht so sehr darum, von einer drohenden technischen Dystopie zu predigen. Wir wollen vielmehr unsere Gefühle zu diesem Thema erforschen und zum Ausdruck bringen. Es ist uns sehr wichtig, dass unsere Musik Emotion hervorruft – was auch immer eine Person beim Hören unserer Songs fühlen mag.
 
 **Anne:** Wie seid Ihr auf die Idee gekommen, diese Geschichte zu verwenden?
 
