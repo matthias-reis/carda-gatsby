@@ -66,7 +66,7 @@ Wanheda haben ihr Album produziert, wie man es zum Beispiel aus der Regiearbeit 
 
 **Anne:** Das Ergebnis kann sich wirklich hören lassen. Habt Ihr das Album komplett selbst aufgenommen oder habt Ihr mit Toningenieuren, einem Label oder einem Studio zusammengearbeitet?
 
-**Jan:** Danke! Wir haben dieses Mal alle Instrumente im Masterplan Music Studio aufgenommen. Es ist das wundervolle Studio von Stijn Debontridder. Wir haben außerdem mit unserem Producer, Toningenieur und ehemaligen Gitarristen Jan Peeters aka JP zusammengearbeitet. Er hat unsere Songs auf ein neues Lebel gehoben. Wir haben uns dafür entschieden, echte Streicher aufzunehmen – das haben wir bei unserer EP noch nicht gemacht. Jolien Deley hat uns bei "Desert of Real" am Cello unterstützt, Griet Wiame an der Violine und Tim De Jonghe an der Trompete. Ich danke, das alles macht es zu einem erwachsenen und durchdachten Album!
+**Jan:** Danke! Wir haben dieses Mal alle Instrumente im Masterplan Music Studio aufgenommen. Es ist das wundervolle Studio von Stijn Debontridder. Wir haben außerdem mit unserem Producer, Toningenieur und ehemaligen Gitarristen Jan Peeters aka JP zusammengearbeitet. Er hat unsere Songs auf ein neues Level gehoben. Wir haben uns dafür entschieden, echte Streicher aufzunehmen – das haben wir bei unserer EP noch nicht gemacht. Jolien Deley hat uns bei "Desert of Real" am Cello unterstützt, Griet Wiame an der Violine und Tim De Jonghe an der Trompete. Ich danke, das alles macht es zu einem erwachsenen und durchdachten Album!
 
 **Anne:** Ihr habt Euch 2016 gegründet und 2018 Eure erste Platte "The Cenozoic Implosion" veröffentlicht. Was würdest Du sagen, hat sich seit dieser Zeit verändert? Für Euch als Band, in Bezug auf Euren musikalischen Stil und insgesamt?
 
