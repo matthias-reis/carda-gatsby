@@ -50,7 +50,7 @@ Wanheda produced their album in a way that is also used, for example, by directo
 
 **Jan:** Desert of Real is about emotions associated with addiction and struggling with addiction. To be more precise: the addiction to social media, smartphones and technology in general. It also deals with the (mental) consequences of addiction to social media and the discord that (the increased use of) social media and technology causes in society. 
 
-**Anne:** You used a classic story as the basis: the Judgement of Paris from Greek mythology. Would you like to tell me more about it?
+**Anne:** You used a classic story as the basis: "The Judgement of Paris" from Greek mythology. Would you like to tell me more about it?
 
 **Jan:** As technology is increasingly becoming the religion of the 21st century, we have given our album a divine intervention. We've used the story of the Judgement of Paris as an allegory of the throes of technology and the self-obsession it induces. Technology and social media are presented as Eris – the ancient Greek goddess of strife and discord –throwing an apple of discord in our society, a gift "to the most beautiful" and thus a breeding ground for narcissism.
 
