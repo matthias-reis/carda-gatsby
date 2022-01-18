@@ -5,10 +5,10 @@ typeName: Interview
 title: '"Desert of Real"'
 subTitle: Jan von Wanheda im Interview
 seoTitle: Wanheda – "Desert of Real" – Post-Rock Interview
-description: Mit dem Debüt-Album "Desert of Real" möchte das belgische Post-Rock
+description: Mit dem neuen Album "Desert of Real" möchte das belgische Post-Rock
   Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart
   hinterfragen.
-excerpt: Mit dem Debüt-Album "Desert of Real" möchte das belgische Post-Rock
+excerpt: Mit dem neuen Album "Desert of Real" möchte das belgische Post-Rock
   Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart
   hinterfragen. Es ist damit eine indirekte Fortsetzung der 2018 unabhängig
   davon veröffentlichten EP "Cenozoic Explosion".
@@ -30,7 +30,7 @@ affiliate: false
 language: de
 languageLink: /2022/01/wanheda-interview-en/
 ---
-**Mit dem Debüt-Album "Desert of Real" möchte das belgische Post-Rock Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart hinterfragen. Es ist damit eine indirekte Fortsetzung der 2018 unabhängig davon veröffentlichten EP "Cenozoic Explosion".**
+**Mit dem neuen Album "Desert of Real" möchte das belgische Post-Rock Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart hinterfragen. Es ist damit eine indirekte Fortsetzung der 2018 unabhängig davon veröffentlichten EP "Cenozoic Explosion".**
 
 Schon damals beschäftigte sich die Band mit der menschlichen Gier und dem Einfluss unserer unaufhaltsamen Zerstörung des Planeten und schaffte es damit, die Aufmerksamkeit der Post-Music Szene auf sich zu ziehen.
 
@@ -66,7 +66,7 @@ Wanheda haben ihr Album produziert, wie man es zum Beispiel aus der Regiearbeit 
 
 ## Die Eitelkeit und Egozentrik der Menschheit
 
-**Jan:** Während wir diese Songs geschrieben und angehört haben, spürten wir selbst Gefühle und Widersprüche darin. Es waren Gefühle wie Verzweiflung, Melancholie, Euphorie, Nostalgie und Glückseligkeit. Es macht uns Spaß, über gesellschaftlich relevante Themen zu sinnieren. Unsere Debüt-EP "The Cenozoic Implosion" handelt ja von der Gier der Menschheit und unseren Einfluss auf den Planeten. Ich denke, wir hatten einfach Lust, unsere Vorliebe, die Eitelkeit und die Egozentrik der Menschheit zu hinterfragen, auf unserem Debüt-Album fortzusetzen.
+**Jan:** Während wir diese Songs geschrieben und angehört haben, spürten wir selbst Gefühle und Widersprüche darin. Es waren Gefühle wie Verzweiflung, Melancholie, Euphorie, Nostalgie und Glückseligkeit. Es macht uns Spaß, über gesellschaftlich relevante Themen zu sinnieren. Unsere Debüt-EP "The Cenozoic Implosion" handelt ja von der Gier der Menschheit und unseren Einfluss auf den Planeten. Ich denke, wir hatten einfach Lust, unsere Vorliebe, die Eitelkeit und die Egozentrik der Menschheit zu hinterfragen, auf unserem neuen Album fortzusetzen.
 
 **Anne:** Das Ergebnis kann sich wirklich hören lassen. Habt Ihr das Album komplett selbst aufgenommen oder habt Ihr mit Toningenieuren, einem Label oder einem Studio zusammengearbeitet?
 
