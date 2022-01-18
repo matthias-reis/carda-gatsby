@@ -100,6 +100,8 @@ Wenn man es schafft, sie zu überwinden, stärkt das die Gruppe. Wir sind alle e
 
 **Jan:** Wir hatten uns für diesen besonderen Moment natürlich eine bessere Situation erhofft. Leider sieht es jedoch ganz danach aus, als würde das Jahr 2022 auch erstmal im Zeichen von Corona stehen. Wir hoffen natürlich trotzdem, dass wir viele Shows spielen werden! Wir haben in den kommenden Monaten einige Auftritte geplant. Der erste sollte am 5. Februar in Ghent stattfinden, wobei immer noch unklar ist, ob er unter den gegebenen Umständen stattfinden kann.
 
+## "Wir wollen auf Tour gehen"
+
 Unsere Release-Show haben wir für den 26. Februar in unserer Heimatstadt Leuven geplant – mit Capitan als Support. UND: Wir planen eine Tour für Oktober und November. Dann werden wir auf jeden Fall auch in Deutschland spielen!
 
 **Anne:** Vielen Dank für das inspirierende und sympathische Interview! Es war mir eine Freude! Ich wünsche Euch viel Erfolg mit "Desert of Real"! Wir sehen uns auf dem DUNK! 
