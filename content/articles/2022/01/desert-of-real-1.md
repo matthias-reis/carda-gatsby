@@ -48,7 +48,7 @@ Wanheda produced their album in a way that is also used, for example, by directo
 
 **Anne:** What is the meaning of "Desert of Real"? You told me it has something to do with social media addiction?
 
-## 
+## The addiction to social media
 
 **Jan:** "Desert of Real" is about emotions associated with addiction and struggling with addiction. To be more precise: the addiction to social media, smartphones and technology in general. It also deals with the (mental) consequences of addiction to social media and the discord that (the increased use of) social media and technology causes in society. 
 
@@ -68,8 +68,9 @@ Wanheda produced their album in a way that is also used, for example, by directo
 
 **Anne:** The outcome of your work sounds very professional. Did you record the album all by yourselves, or did you work with sound engineers, a label and a studio?
 
-**Jan:** Thank you! This time we recorded all instruments at Masterplan Music, a wonderful studio owned by Stijn Debontridder. Together with our producer/sound engineer and former guitarist JP, he took our songs to the next level. We chose to record real strings, something we didn't do on our debut EP. Jolien Deley backs "Desert of Real" on cello, Griet Wiame on violin and Tim De Jonghe on trumpet. I think all of this makes it sound more mature and well-
-thought!
+## "We recorded the instruments at Masterplan Music"
+
+**Jan:** Thank you! This time we recorded all instruments at Masterplan Music, a wonderful studio owned by Stijn Debontridder. Together with our producer/sound engineer and former guitarist JP, he took our songs to the next level. We chose to record real strings, something we didn't do on our debut EP. Jolien Deley backs "Desert of Real" on cello, Griet Wiame on violin and Tim De Jonghe on trumpet. I think all of this makes it sound more mature and well-thought!
 
 **Anne:** You formed in 2016 and released your first record, "The Cenozoic Implosion", in 2018. What would you say has changed since then? For you as a band, in terms of your musical style and in general?
 
