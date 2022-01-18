@@ -64,7 +64,7 @@ Wanheda haben ihr Album produziert, wie man es zum Beispiel aus der Regiearbeit 
 
 **Jan:** Während wir diese Songs geschrieben und angehört haben, spürten wir selbst Gefühle und Widersprüche darin. Es waren Gefühle wie Verzweiflung, Melancholie, Euphorie, Nostalgie und Glückseligkeit. Es macht uns Spaß, über gesellschaftlich relevante Themen zu sinnieren. Unsere Debüt-EP "The Cenozoic Implosion" handelt ja von der Gier der Menschheit und unseren Einfluss auf den Planeten. Ich denke, wir hatten einfach Lust, unsere Vorliebe, die Eitelkeit und die Egozentrik der Menschheit zu hinterfragen, auf unserem Debüt-Album fortzusetzen.
 
-**Anne:** Das Ergebnis kann sich wirklich hören lassen. Habt Ihr das Album komplett selbst aufgenommen oder habt Ihr mit Toningenieuren, einem Labe oder einem Studio zusammengearbeitet?
+**Anne:** Das Ergebnis kann sich wirklich hören lassen. Habt Ihr das Album komplett selbst aufgenommen oder habt Ihr mit Toningenieuren, einem Label oder einem Studio zusammengearbeitet?
 
 **Jan:** Danke! Wir haben dieses Mal alle Instrumente im Masterplan Music Studio aufgenommen. Es ist das wundervolle Studio von Stijn Debontridder. Wir haben außerdem mit unserem Producer, Toningenieur und ehemaligen Gitarristen Jan Peeters aka JP zusammengearbeitet. Er hat unsere Songs auf ein neues Lebel gehoben. Wir haben uns dafür entschieden, echte Streicher aufzunehmen – das haben wir bei unserer EP noch nicht gemacht. Jolien Deley hat uns bei "Desert of Real" am Cello unterstützt, Griet Wiame an der Violine und Tim De Jonghe an der Trompete. Ich danke, das alles macht es zu einem erwachsenen und durchdachten Album!
 
