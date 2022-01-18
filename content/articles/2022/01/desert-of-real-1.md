@@ -62,7 +62,7 @@ Wanheda produced their album in a way that is also used, for example, by directo
 
 **Anne:** How did you come up with a topic like that?
 
-**Jan:** While writing and listening to our creations, we felt interwoven emotions and contradictions throughout the songs on the album. Feelings such as despair, melancholy, euphoria, nostalgia and bliss. We find it interesting to reflect on socially relevant themes. Our debut EP was about humanity's greed and wasteful impact on the planet. We felt like continuing our penchant for scrutinising humanity's vanity and egocentrism on our full-length Desert of Real.
+**Jan:** While writing and listening to our creations, we felt interwoven emotions and contradictions throughout the songs on the album. Feelings such as despair, melancholy, euphoria, nostalgia and bliss. We find it interesting to reflect on socially relevant themes. Our debut EP was about humanity's greed and wasteful impact on the planet. We felt like continuing our penchant for scrutinising humanity's vanity and egocentrism on our full-length "Desert of Real".
 
 **Anne:** The outcome of your work sounds very professional. Did you record the album all by yourselves, or did you work with sound engineers, a label and a studio?
 
