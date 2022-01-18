@@ -40,7 +40,7 @@ Back then, the band already worked with the topic of human greed and the influen
 
 With "Desert of Real", the six musicians from Leuven deliver a contemporary album full of lively music. Their art is not only reminiscent of Mono's enchanting and heartful sounds. The confidence and energy of the music created by bands like Caspian and This Will Destroy You also shines through. In the creation process of the new record, they focused entirely on the theme of technology addiction and our relationship with social media. They used the Judgement of Paris from Greek mythology as the basis for this. For them, it is an allegory for the torment of technology and the self-obsession it can cause.
 
-Wanheda produced their album in a way that is also used, for example, by directors of modern opera. They have taken a classical story and placed it in a contemporary setting. It makes the theme and the narrative more realistic and accessible to the audience. Their music reflects this in a play of gloomy, dark, and heavy moments and light, bright and clear sequences. Guitarist Jan Verduyckt and his crew see their influences mainly in classical post-metal and post-rock, but also blues rock and classical guitar music. I now took my chance to interview guitarist Jan Boucké.
+Wanheda produced their album in a way that is also used, for example, by directors of modern opera. They have taken a classical story and placed it in a contemporary setting. It makes the theme and the narrative more realistic and accessible to the audience. Their music reflects this in a play of gloomy, dark, and heavy moments and light, bright and clear sequences. Wanheda founder Jan Verduyckt and his crew see their influences mainly in classical post-metal and post-rock, but also blues rock and classical guitar music. I now took my chance to interview guitarist Jan Boucké.
 
 **Anne:** Hi Jan! Thanks very much for taking the time for this! How are things going? I'm sure you and the guys are looking forward to releasing your new album "Desert of Real" on February 2nd? Congrats on that, by the way! I like it a lot! It is very thoughtful and quite enchanting, and I love its cinematic components!
 
@@ -81,7 +81,7 @@ thought!
 
 **Jan:** It all started with our lead guitarist Jan Verduyckt aka JV. He is a fan of bands like MONO, Sigur Ros, Yndi Halda, etc. Other bands that inspire him to write for WANHEDA are Pink Floyd, Radiohead and April Rain but also composers of classical music. Additionally, we're all big fans of Russian Circles and If These Trees Could Talk.
 
-![Wanheda - "Desert of Real" album cover (A person stands in front of a foreground of zeros and ones with their mouth open)](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-desert-of-real-png-imagine-e8e8e8_cdc9c8_1080_1080/640.webp "Wanheda - \"Desert of Real\"")
+![Wanheda - "Desert of Real" album cover (A person stands in front of a foreground of zeros and ones with their mouth open)](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-desert-of-real-png-imagine-e8e8e8_cdc9c8_1080_1080/640.webp "Wanheda - \\"Desert of Real\\"")
 
 **Anne:** You are a band of six. That's quite a bunch of people. Is it always easy finding common ground and putting all these creative ideas together?
 
