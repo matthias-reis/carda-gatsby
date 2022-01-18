@@ -91,7 +91,7 @@ thought!
 
 **Jan:** Of course, we had hoped for a better situation, but it seems like 2022 will be another year affected by corona. Nevertheless, we hope to play lots of shows! We have some gigs planned in the coming months. The first one will be on February 5th in Ghent, of which it is still unclear whether it can take place or not given the current measures.
 
-Our release show is planned in our hometown Leuven on February 26th in JH Sojo with Capitan as support. Aaaaaaand we plan to go on tour again in October/November this year! So we will undoubtedly pass through Germany!
+Our release show is planned in our hometown Leuven on February 26th in JH Sojo with Capitan as support. Aaaaaaand we are planning to go on tour again in October/November this year! So we will undoubtedly pass through Germany!
 
 **Anne:** Thanks very much for this inspiring and sympathetic interview! It was a pleasure! I wish you much success with "Desert of Real"! See you at DUNK!
 
