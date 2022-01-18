@@ -32,7 +32,7 @@ languageLink: /2022/01/wanheda-interview-en/
 ---
 **Mit dem Debüt-Album "Desert of Real" möchte das belgische Post-Rock Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart hinterfragen. Es ist damit eine indirekte Fortsetzung der 2018 unabhängig davon veröffentlichten EP "Cenozoic Explosion".**
 
-Schon damals beschäftigte sich die Band mit der menschlichen Gier und dem Einfluss unserer unaufhaltsamen Zerstörung des Planeten und schafften es damit, die Aufmerksamkeit der Post-Music Szene auf sich zu ziehen.
+Schon damals beschäftigte sich die Band mit der menschlichen Gier und dem Einfluss unserer unaufhaltsamen Zerstörung des Planeten und schaffte es damit, die Aufmerksamkeit der Post-Music Szene auf sich zu ziehen.
 
 ## Griechische Mythologie und Gegenwart
 
@@ -78,7 +78,7 @@ Wenn man es schafft, sie zu überwinden, stärkt das die Gruppe. Wir sind alle e
 
 **Jan:** Mir geht es genauso, aber ich habe ehrlich gesagt keine Ahnung, wie sich das so entwickeln konnte. Als Fans von Post-Music sind wir schon seit Jahren beim DUNK!festival dabei. Du kannst einfach nichts dagegen tun, als es zu einer jährlichen Tradition werden zu lassen. Es kommt uns so vor, als wären die Menschen innerhalb dieser "Szene" alle super freundlich, offen, hilfsbereit und dankbar. Ich denke Menschen wie wir lieben es, sich mit solchen Menschen zu umgeben.
 
-![Wanheda – "Desert of Real" Album-Cover (Eine Person steht mit offenem Mund vor einem Vordergrund aus Nullen und Einsen)](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-desert-of-real-png-imagine-e8e8e8_cdc9c8_1080_1080/640.webp "Wanheda – \"Desert of Real\"")
+![Wanheda – "Desert of Real" Album-Cover (Eine Person steht mit offenem Mund vor einem Vordergrund aus Nullen und Einsen)](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-desert-of-real-png-imagine-e8e8e8_cdc9c8_1080_1080/640.webp "Wanheda – \\"Desert of Real\\"")
 
 **Anne:** Euer Musikstil ist sehr vielseitig. Ich kann mir vorstellen, dass Ihr damit Fans von Bands wie Mono oder Caspian und anderen emotionalen und melodischen Post-Rock Bands sehr leicht anstecken könnt. Würdest Du sie als Eure Vorbilder bezeichnen? Gibt es noch weitere?
 
