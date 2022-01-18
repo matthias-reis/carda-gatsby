@@ -38,7 +38,7 @@ Back then, the band already worked with the topic of human greed and the influen
 
 ![Wanheda (group of six people in casual clothes) standing in front of three neon lights on a meadow at night.](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-dark-jpg-imagine-080808_16191a_1024_768/640.webp "Wanheda")
 
-With "Desert of Real", the six musicians from Leuven deliver a contemporary album full of lively music. Their art is not only reminiscent of Mono's enchanting and heartful sounds. The confidence and energy of the music created by bands like Caspian and This Will Destroy You also shines through. In the creation process of the new record, they focused entirely on the theme of technology addiction and our relationship with social media. They used the Judgement of Paris from Greek mythology as the basis for this. For them, it is an allegory for the torment of technology and the self-obsession it can cause.
+With "Desert of Real", the six musicians from Leuven deliver a contemporary album full of lively music. Their art is not only reminiscent of Mono's enchanting and heartful sounds. The confidence and energy of the music created by bands like Caspian and This Will Destroy You also shines through. In the creation process of the new record, they focused entirely on the theme of technology addiction and our relationship with social media. They used "The Judgement of Paris" from Greek mythology as the basis for this. For them, it is an allegory for the torment of technology and the self-obsession it can cause.
 
 Wanheda produced their album in a way that is also used, for example, by directors of modern opera. They have taken a classical story and placed it in a contemporary setting. It makes the theme and the narrative more realistic and accessible to the audience. Their music reflects this in a play of gloomy, dark, and heavy moments and light, bright and clear sequences. Wanheda founder Jan Verduyckt and his crew see their influences mainly in classical post-metal and post-rock, but also blues rock and classical guitar music. I now took my chance to interview guitarist Jan Boucké.
 
@@ -50,7 +50,7 @@ Wanheda produced their album in a way that is also used, for example, by directo
 
 Jan: Desert of Real is about emotions associated with addiction and struggling with addiction. To be more precise: the addiction to social media, smartphones and technology in general. It also deals with the (mental) consequences of addiction to social media and the discord that (the increased use of) social media and technology causes in society. 
 
-**Anne:** You used a classic story as the basis: "The Judgement of Paris" from Greek mythology. Would you like to tell me more about it?
+**Anne:** You used a classic story as the basis: the Judgement of Paris from Greek mythology. Would you like to tell me more about it?
 
 **Jan:** As technology is increasingly becoming the religion of the 21st century, we have given our album a divine intervention. We've used the story of the Judgement of Paris as an allegory of the throes of technology and the self-obsession it induces. Technology and social media are presented as Eris – the ancient Greek goddess of strife and discord –throwing an apple of discord in our society, a gift "to the most beautiful" and thus a breeding ground for narcissism.
 
