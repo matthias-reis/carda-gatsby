@@ -75,7 +75,7 @@ thought!
 
 **Anne:** What is it about the Belgique post-music scene? I mean, there is so much going on with all the projects and bands and fanzines and our beloved DUNK!festival and DUNK!records and stuff. It feels like a big family overall! How do you think did this evolve?
 
-**Jan:** I feel the same way, but I honestly have no clue how this evolved. As fans of post-whatever music, we have been visiting dunk!festival for quite some years. We love going to concerts and festivals, but once you've experienced the magic of dunk!festival, you can do nothing but make it an annual tradition. We feel like people in this "scene" are super kind, open-minded, helpful and appreciative. I think people – like us – love to surround themselves with such people.
+**Jan:** I feel the same way, but I honestly have no clue how this evolved. As fans of post-whatever music, we have been visiting DUNK!festival for quite some years. We love going to concerts and festivals, but once you've experienced the magic of DUNK!festival, you can do nothing but make it an annual tradition. We feel like people in this "scene" are super kind, open-minded, helpful and appreciative. I think people – like us – love to surround themselves with such people.
 
 **Anne:** The style of your music is very versatile. I could imagine fans of bands like Mono or Caspian, other soulful and melodic Post-Rock bands can easily get infected. Would you say that they are role models for you? Would you like to name some more?
 
