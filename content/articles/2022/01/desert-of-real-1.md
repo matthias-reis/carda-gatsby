@@ -83,7 +83,7 @@ thought!
 
 ![Wanheda - "Desert of Real" album cover (A person stands in front of a foreground of zeros and ones with their mouth open)](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-desert-of-real-png-imagine-e8e8e8_cdc9c8_1080_1080/640.webp "Wanheda - \\"Desert of Real\\"")
 
-**Anne:** You are a band of six. That's quite a bunch of people. Is it always easy finding common ground and putting all these creative ideas together?
+**Anne:** As you've mentioned before: You are a band of six. That's quite a bunch of people. Is it always easy finding common ground and putting all these creative ideas together?
 
 **Jan:** I can imagine this process easier in a smaller group, but so far, we haven't experienced any significant problems in this regard. JV is the primary writer who comes up with most musical ideas, but there is certainly room for everyone's input.
 
