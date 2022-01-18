@@ -70,7 +70,7 @@ Wanheda haben ihr Album produziert, wie man es zum Beispiel aus der Regiearbeit 
 
 **Anne:** Ihr habt Euch 2016 gegründet und 2018 Eure erste Platte "The Cenozoic Implosion" veröffentlicht. Was würdest Du sagen, hat sich seit dieser Zeit verändert? Für Euch als Band, in Bezug auf Euren musikalischen Stil und insgesamt?
 
-**Jan:** Wir haben Wanheda 2016 gegründet und erst 2017 als komplette Band gemeinsam angefangen zu proben, nachdem Jasper zu uns gestoßen war. Ich denke, dass sich seitdem sehr viel geändert hat. Wir haben eine Menge Shows gespielt und waren auf Tour. Das sind alles positive Erfahrungen, die man als Individuum mitnimmt und einen als Band formen. Eine Gruppe aus sechs Individuen wird außerdem zwangsläufig irgendwann auf Hindernisse treffen.
+**Jan:** Wir haben Wanheda 2016 gegründet und erst 2017 als komplette Band gemeinsam angefangen zu proben, nachdem Jasper zu uns gestoßen war. Ich denke, dass sich seitdem sehr viel geändert hat. Wir haben eine Menge Shows gespielt und waren auf Tour. Das sind alles positive Erfahrungen, die man als Individuum mitnimmt und einen als Band formen. Eine Gruppe aus sechs Individuen wird außerdem zwangsläufig irgendwann auf Hindernisse stoßen.
 
 Wenn man es schafft, sie zu überwinden, stärkt das die Gruppe. Wir sind alle ein paar Jahre älter geworden und auch das hört man unserer Musik an. Das und die veränderte Herangehensweise beim Schreiben und Aufnehmen hat, denke ich, zu einem reiferen Album geführt.
 
