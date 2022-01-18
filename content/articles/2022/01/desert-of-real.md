@@ -88,7 +88,7 @@ Wenn man es schafft, sie zu überwinden, stärkt das die Gruppe. Wir sind alle e
 
 **Jan:** Ich kann mir zwar vorstellen, dass dieser Prozess in einer kleineren Gruppe durchaus einfacher sein kann, aber bis jetzt hat es bei uns noch keine größeren Probleme gegeben. JV ist unser Haupt-Songschreiber. Er bringt dadurch auch die meisten musikalischen Ideen ein. Trotzdem haben wir immer genau Raum für Input aus allen Richtungen.
 
-**Anne:** Neben Interviews, Bandcamp und Social Media: Plant Ihr auch noch weitere Events rund um Euren Release? Ich nehme an, Konzerte sind, zumindest im Moment erstmal keine Option? 
+**Anne:** Neben Interviews, Bandcamp und Social Media: Plant Ihr auch noch weitere Events rund um Euren Release? Ich nehme an, Konzerte sind, zumindest im Moment, erstmal keine Option? 
 
 **Jan:** Wir hatten uns für diesen besonderen Moment natürlich eine bessere Situation erhofft. Leider sieht es jedoch ganz danach aus, als würde das Jahr 2022 auch erstmal im Zeichen von Corona stehen. Wir hoffen natürlich trotzdem, dass wir viele Shows spielen werden! Wir haben in den kommenden Monaten einige Auftritte geplant. Der erste sollte am 5. Februar in Ghent stattfinden, wobei immer noch unklar ist, ob er unter den gegebenen Umständen stattfinden kann.
 
