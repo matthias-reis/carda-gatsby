@@ -100,6 +100,6 @@ Unsere Release-Show haben wir für den 26. Februar in unserer Heimatstadt Leuven
 
 Wanheda sind: Jan Boucké (Gitarre), Jan Verduyckt (Gitarre), Nick Van Vynckt (Bass), Maurits Elzinga (Drums), Jasper Simon (Keys) und Jan Peeters (Production & Gitarren).
 
-## Wanheda – A Desert of Real
+## Wanheda – "A Desert of Real"
 
 <YouTube id="ZAAJVQ4YBf8" />
