@@ -82,6 +82,8 @@ Wanheda produced their album in a way that is also used, for example, by directo
 
 **Anne:** The style of your music is very versatile. I could imagine fans of bands like Mono or Caspian, other soulful and melodic Post-Rock bands can easily get infected. Would you say that they are role models for you? Would you like to name some more?
 
+## "There's always room for creative input"
+
 **Jan:** It all started with our lead guitarist Jan Verduyckt aka JV. He is a fan of bands like Mono, Sigur Rós, Yndi Halda, etc. Other bands that inspire him to write for Wanheda are Pink Floyd, Radiohead and April Rain but also composers of classical music. Additionally, we're all big fans of Russian Circles and If These Trees Could Talk.
 
 ![Wanheda - "Desert of Real" album cover (A person stands in front of a foreground of zeros and ones with their mouth open)](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-desert-of-real-png-imagine-e8e8e8_cdc9c8_1080_1080/640.webp "Wanheda - \\"Desert of Real\\"")
@@ -91,6 +93,8 @@ Wanheda produced their album in a way that is also used, for example, by directo
 **Jan:** I can imagine this process easier in a smaller group, but so far, we haven't experienced any significant problems in this regard. JV is the primary writer who comes up with most musical ideas, but there is certainly room for everyone's input.
 
 **Anne:** Besides interviews, Bandcamp, and social media are you planning any events around your release? I assume gigs are, unfortunately, not much of an option these days?
+
+## "We want to go on tour"
 
 **Jan:** Of course, we had hoped for a better situation, but it seems like 2022 will be another year affected by corona. Nevertheless, we hope to play lots of shows! We have some gigs planned in the coming months. The first one will be on February 5th in Ghent, of which it is still unclear whether it can take place or not given the current measures.
 
