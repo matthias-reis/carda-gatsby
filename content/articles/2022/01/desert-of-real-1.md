@@ -5,10 +5,10 @@ typeName: Interview
 title: '"Desert of Real"'
 subTitle: Interview With Wanheda Guitarist Jan
 seoTitle: Wanheda – "Desert of Real" – Post-Rock Interview
-description: With their debut album, "Desert of Real", the Belgian post-rock
+description: With their new album, "Desert of Real", the Belgian post-rock
   collective Wanheda aims to question the vanity and egocentricity of humanity
   in the present.
-excerpt: With their debut album, "Desert of Real", the Belgian post-rock
+excerpt: With their new album, "Desert of Real", the Belgian post-rock
   collective Wanheda aims to question the vanity and egocentricity of humanity
   in the present. It is an indirect continuation of their EP, "Cenozoic
   Explosion ", from 2018.
@@ -30,7 +30,7 @@ affiliate: false
 language: en
 languageLink: /2022/01/wanheda-interview/
 ---
-**With their debut album, "Desert of Real", the Belgian post-rock collective Wanheda aims to question the vanity and egocentricity of humanity in the present. It is an indirect continuation of their EP, "Cenozoic Explosion ", from 2018.**
+**With their new album, "Desert of Real", the Belgian post-rock collective Wanheda aims to question the vanity and egocentricity of humanity in the present. It is an indirect continuation of their EP, "Cenozoic Explosion ", from 2018.**
 
 Back then, the band already worked with the topic of human greed and the influence of our unstoppable destruction of the planet and attracted the attention of the post-music scene.
 
