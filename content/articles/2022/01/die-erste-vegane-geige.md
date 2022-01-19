@@ -6,12 +6,12 @@ title: Die erste vegane Geige
 subTitle: Instrumentenbauer erhält Veganblume
 seoTitle: Vegane Geigen aus liebevoller Handarbeit
 description: "Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner
-  neuesten Kreation hat er jetzt alles, was ihm wichtig ist miteinander: Musik,
-  seine geliebten Violinen und Tierschutz. "
+  neuesten Kreation hat er alles, was ihm wichtig ist, miteinander: Musik, seine
+  geliebten Violinen und Tierschutz. "
 excerpt: "Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner
-  neuesten Kreation hat er jetzt alles, was ihm wichtig ist miteinander: Musik,
-  seine geliebten Violinen und Tierschutz. Dafür wurde er sogar von der Vegan
-  Society mit der Veganblume ausgezeichnet."
+  neuesten Kreation hat er alles, was ihm wichtig ist, miteinander: Musik, seine
+  geliebten Violinen und Tierschutz. Dafür wurde er sogar von der Vegan Society
+  mit der Veganblume ausgezeichnet."
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-19/vegane-geige-padraig-o-dubhlaoidh-jpg-imagine-f8f8f8_bb7448_1024_768/640.webp
 copyrigt: Padraig ó Dubhlaoidh
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-19/vegane-geige-padraig-o-dubhlaoidh-fb-png-imagine-d86828_b76d3f_1200_628/640.webp
@@ -29,7 +29,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner neuesten Kreation hat er jetzt alles, was ihm wichtig ist miteinander: Musik, seine geliebten Violinen und Tierschutz. Dafür wurde er sogar von der Vegan Society mit der Veganblume ausgezeichnet.**
+**Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner neuesten Kreation hat er alles, was ihm wichtig ist, miteinander: Musik, seine geliebten Violinen und Tierschutz. Dafür wurde er sogar von der Vegan Society mit der Veganblume ausgezeichnet.**
 
 Seine veganen Geigen stellt Padraig in sorgfältiger Handarbeit her. Sie sind das Ergebnis von 40 Jahren Geigenbauerfahrung. Der passionierte Musiker erforschte auf seinem Weg die unterschiedlichsten Geigen – von der Restauration und Konservierung bis zur Entwicklung völlig neuer Modelle. Die Umwelt und der Tierschutz waren ihm dabei besonders wichtig. So entstand schließlich die erste zu 100 Prozent vegane Violine der Welt.
 
