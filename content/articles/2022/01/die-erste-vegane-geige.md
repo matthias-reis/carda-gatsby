@@ -39,7 +39,7 @@ Er stellt seine Instrumente mithilfe traditioneller Werkzeuge und Methoden her �
 
 In die Entwicklung seiner veganen Geigen hat er sein Herzblut gesteckt. Sogar die filigranen Dekoelementen, die die Seele jeder Violine ausmachen, fertigt er aus natürlichen Rohstoffen. Die Farben stellt er aus wild wachsenden Beeren und Wasser aus einer Quelle, die ganz in der Nähe seiner Werkstatt entspringt, her.
 
-​Bei der Fertigung seiner Meisterstücke ist es Padraig besonders wichtig, dass die Musiker⋆innen, die später Ihre Kompositionen auf seinen Saiten spielen, rundum glücklich sind. Auf seiner Webseite schreibt er:
+​Bei der Fertigung seiner Meisterstücke ist es Padraig besonders wichtig, dass die Musiker⋆innen, die später Ihre Kompositionen auf seinen Saiten spielen, rundum zufrieden sind. Auf seiner Webseite schreibt er:
 
 > "Während ich den Klang und das Gefühl erschaffe, die sich ein⋆e Musiker⋆in von einem Instrument wünschen, auch noch etwas für unseren wunderbaren Planeten tun zu können und Menschen, denen er wie mir wichtig ist, damit zu ermöglichen, die Musik zu spielen, die so so sehr lieben, macht mich glücklich."
 
