@@ -51,7 +51,7 @@ Die irische Fiedel-Legende Tommy Peoples gab die Liebe für den Geigenbau schlie
 ​
 Irgendwann entschloss er sich dazu, sich selbstständig zu machen und ließ sich in den britischen Malvern Hills nieder, wo er bis heute seine Werkstatt, den Hibernian Workshop hat. 
 
-An der Oxford University belegte er Kurse in Bogenbau und im Victoria and Albert Museum Instrumenten-Konservierung. Anschließend ernannte ihn das British Museum zum Fachberater für seinen Fachbereich. Er wurde dazu eingeladen, Instrumente von Stradivari zu untersuchen und zu dokumentieren. Außerdem führte er Restaurierungsarbeiten an historischen Instrumenten 
+An der Oxford University belegte er Kurse in Bogenbau und im Victoria and Albert Museum Instrumenten-Konservierung. Anschließend ernannte ihn das British Museum zum Fachberater für seinen Bereich. Er wurde dazu eingeladen, Instrumente von Stradivari zu untersuchen und zu dokumentieren. Außerdem führte er Restaurierungsarbeiten an historischen Instrumenten 
 namhafter Hersteller wie Maggini, Guadagnini, Testore und Gagliano.
 
 Auch die Instrumente zahlreicher bekannter Musiker restaurierte er. Über die Instandhaltung besonderer Instrumente und seien Erfahrungen auf diesem Gebiet schrieb er Artikel für die unterschiedlichsten Musikmagazine.
