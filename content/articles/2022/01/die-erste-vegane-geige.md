@@ -33,7 +33,7 @@ language: de
 
 Seine Instrumente stellt Padraig in sorgfältiger Handarbeit her. Sie sind das Ergebnis von 40 Jahren Geigenbauerfahrung. Der passionierte Musiker erforschte auf seinem Weg die unterschiedlichsten Geigen – von der Restauration und Konservierung bis zur Entwicklung völlig neuer Modelle. Die Umwelt und der Tierschutz waren ihm dabei besonders wichtig. So entstand schließlich die erste zu 100 Prozent vegane Violine der Welt.
 
-Er stellt seine Instrumente mithilfe traditioneller Tools und Methoden her – kombiniert mit neuesten Forschungsergebnissen und Erfahrungen, die von den versiertesten Geigenbauer⋆innen aus bekannten Häusern wie Stradivari, Guarneri und Maggini weitergegeben wurden.
+Er stellt seine Instrumente mithilfe traditioneller Werkzeuge und Methoden her – kombiniert mit neuesten Forschungsergebnissen und Erfahrungen, die von den versiertesten Geigenbauer⋆innen aus bekannten Häusern wie Stradivari, Guarneri und Maggini weitergegeben wurden.
 
 ## Vegane Instrumente aus liebevoller Handarbeit
 
