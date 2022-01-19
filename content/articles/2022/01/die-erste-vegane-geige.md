@@ -68,7 +68,7 @@ Auch, wenn das zu Beginn für ihn gar nicht so einfach war, bestand Padraig dara
 
 Der Musiker Peter Knight (Steeleye Span, Gigspanner) schreibt auf seiner Webseite:
 
-> "Padraig ist so viel mehr als ein Macher, Reparieren und Restaurator von Seiteninstrumenten. Er ist ein Mensch, der die Beziehung zwischen einem⋆r Musiker⋆in und seinem⋆ihrem Instrument versteht."
+> "Padraig ist so viel mehr als ein Macher, Handwerker und Restaurator von Seiteninstrumenten. Er ist ein Mensch, der die Beziehung zwischen einem⋆r Musiker⋆in und seinem⋆ihrem Instrument versteht."
 
 Und er versteht, dass es an der Zeit ist, nach nachhaltigen Lösungen zu suchen. Auf jedem Gebiet.
 
