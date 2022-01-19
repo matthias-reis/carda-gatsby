@@ -54,7 +54,7 @@ Irgendwann entschloss er sich dazu, sich selbstständig zu machen und ließ sich
 An der Oxford University belegte er Kurse in Bogenbau und im Victoria and Albert Museum Instrumenten-Konservierung. Anschließend ernannte ihn das British Museum zum Fachberater für seinen Bereich. Er wurde dazu eingeladen, Instrumente von Stradivari zu untersuchen und zu dokumentieren. Außerdem führte er Restaurationsarbeiten an historischen Instrumenten 
 namhafter Hersteller wie Maggini, Guadagnini, Testore und Gagliano durch.
 
-Auch die Instrumente zahlreicher bekannter Musiker restaurierte er. Über die Instandhaltung besonderer Instrumente und seien Erfahrungen auf diesem Gebiet schrieb er Artikel für die unterschiedlichsten Musikmagazine.
+Auch die Instrumente zahlreicher bekannter Musiker restaurierte er. Über die Instandhaltung besonderer Instrumente und seine Erfahrungen auf diesem Gebiet schrieb er Artikel für die unterschiedlichsten Musikmagazine.
 
 Seine Instrumente werden in den angesehensten Musikhäusern wie der Carnegie Hall, der Royal Albert Hall und der Hamburger Elbphilharmonie gespielt.
 
