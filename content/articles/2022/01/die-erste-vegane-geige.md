@@ -41,7 +41,7 @@ In die Entwicklung seiner veganen Geigen hat er sein Herzblut gesteckt. Sogar di
 
 ​Bei der Fertigung seiner Meisterstücke ist es Padraig besonders wichtig, dass die Musiker⋆innen, die später Ihre Kompositionen auf seinen Saiten spielen, rundum glücklich sind. Auf seiner Webseite schreibt er:
 
-> "Während ich den Klang und das Gefühl erschaffe, das sich ein⋆e Musiker⋆in von einem Instrument wünscht, auch noch etwas für unseren wunderbaren Planeten tun zu können und Menschen, denen er wie mir wichtig ist damit zu ermöglichen, die Musik zu spielen, die so so sehr lieben, macht mich glücklich."
+> "Während ich den Klang und das Gefühl erschaffe, die sich ein⋆e Musiker⋆in von einem Instrument wünschen, auch noch etwas für unseren wunderbaren Planeten tun zu können und Menschen, denen er wie mir wichtig ist, damit zu ermöglichen, die Musik zu spielen, die so so sehr lieben, macht mich glücklich."
 
 Geigen und Fiedeln faszinieren ihn seit seiner Kindheit. Während seiner Zeit auf der Folk Music School im Zentrum von Dublin spielte er in zahlreichen Bands und jammte sogar mit Stars wie Johnny Doherty und Brendan Gleeson.
  
