@@ -110,7 +110,7 @@ Unsere Release-Show haben wir für den 26. Februar in unserer Heimatstadt Leuven
 
 **Jan:** Vielen Dank, Anne! Hoffentlich auf bald!
 
-Wanheda sind: Jan Boucké (Gitarre), Jan Verduyckt (Gitarre), Nick Van Vynckt (Bass), Quinten Van Gils now (Drums), Jasper Simon (Keys) und Jan Peeters (Production & Gitarren).
+Wanheda sind: Jan Boucké (Gitarre), Jan Verduyckt (Gitarre), Nick Van Vynckt (Bass), Quinten Van Gils (Drums), Jasper Simon (Keys) und Jan Peeters (Production & Gitarren).
 
 ## Wanheda – "A Desert of Real"
 
