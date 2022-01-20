@@ -3,8 +3,8 @@ date: 2022-01-20T13:51:11.503Z
 slug: playlist-februar-2022
 typeName: Beitrag
 title: Playlist Februar
-subTitle: Starke Neuheiten aus Post-Rock & Co.
-seoTitle: Starke Neuheiten aus Post-Rock & Co.
+subTitle: Starke Neuheiten von Post-Rock bis Progressive Metal
+seoTitle: Starke Neuheiten von Post-Rock bis Progressive Metal
 description: Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich für Euch
   12 ganz besondere Juwelen für Euren Februar ausgesucht – von Post-Rock bis
   Progressive Metal hagelt es starke Neuveröffentlichungen.
