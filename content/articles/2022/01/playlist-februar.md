@@ -55,7 +55,7 @@ Den ersten Titel für diesen Monat hatten Matze und ich beide auf der Liste. Mat
 
 <YouTube id="Hq_YliUJa_c" />
 
-## Oh Hiroshima – "Humane" (Vorauskopplung vom neuen Album "Myriad")
+## Oh Hiroshima – "Humane" (Vorauskopplung vom Album "Myriad")
 
 Die neue Oh Hiroshima Single "Humane" wartet mit einem finsteren Text auf und auch die Instrumente erzählen von einer dystopischen Welt. Das sagt Bandgründer Jakob Hemström über das Stück:
 
