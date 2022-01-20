@@ -136,3 +136,5 @@ Hier kommt eine weitere Entdeckung von Valentin für Euch:
 Wanheda habe ich Euch hier ja vor Kurzem [im Interview](/2022/01/wanheda-interview/) vorgestellt. Mir wurde auch die Ehre zuteil, das kommende Album "Desert of Real" schon komplett hören zu können. Die Vorauskopplung "A Desert of Real" ist ein wunderbarer Vorgeschmack auf die insgesamt elf großartigen Post-Rock Stücke, die Wanheda als eine Art indirekte Fortsetzung ihrer EP "Cenozoic Explosion" aus dem Jahr 2018 sehen.
 
 <YouTube id="ZAAJVQ4YBf8" />
+
+https://open.spotify.com/playlist/0GP5EwVvAtrmH5ocRuJCjs?si=aeed0df34f9b4ead
