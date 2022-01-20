@@ -137,4 +137,8 @@ Wanheda habe ich Euch hier ja vor Kurzem [im Interview](/2022/01/wanheda-intervi
 
 <YouTube id="ZAAJVQ4YBf8" />
 
-https://open.spotify.com/playlist/0GP5EwVvAtrmH5ocRuJCjs?si=aeed0df34f9b4ead
+<Playlist
+  spotify="0GP5EwVvAtrmH5ocRuJCjs?si=aeed0df34f9b4ead"
+  itunes="2022-01-25-rock-n-roll-vegan/pl.u-jWxpTjekrkB"
+/>
+
