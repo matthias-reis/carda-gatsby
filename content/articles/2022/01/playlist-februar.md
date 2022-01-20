@@ -45,6 +45,8 @@ language: de
 ---
 **Das neue Jahr geht gut los. Aus allen Richtungen hagelt es starke Neuveröffentlichungen. Man kommt mit dem Hören kaum noch hinterher. Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich für Euch 12 ganz besondere Juwelen für Euren Februar ausgesucht – von Post-Rock bis Progressive Metal.**
 
+Die fertigen Playlists für Spotify und iTunes findet Ihr wie immer am Ende des Artikels.
+
 ## And So I Watch You From Afar – "I Dive Pt. I" (Vorauskopplung vom Album "Jettison")
 
 Den ersten Titel für diesen Monat hatten Matze und ich beide auf der Liste. Matze war dann etwas früher als ich mit seiner Lobhudelei fertig, daher hat es sein Text auch in die Liste geschafft. Das neue ASIWYFA Album erscheint übrigens am 18. Februar.
