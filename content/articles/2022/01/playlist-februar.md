@@ -109,7 +109,7 @@ Valentin hat die Ehre, das neue Muse Stück auf unsere Liste zu setzen:
 
 <YouTube id="d55ELY17CFM" />
 
-## Black Map – "Witching Hour Matze" (Vorauskopplung vom Album "Melodoria")
+## Black Map – "Witching Hour" (Vorauskopplung vom Album "Melodoria")
 
 Das neue Black Map Album erscheint am 18. Februar. Matze hat diese Vorauskopplung für Euch selektiert:
 
