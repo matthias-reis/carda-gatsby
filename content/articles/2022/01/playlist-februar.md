@@ -81,7 +81,7 @@ Und nun übergebe ich das Wort an Valentin:
 
 <YouTube id="YIe1SInjvCU" />
 
-## Callisto – "Enforcer Matze" von der EP "Adrenaline Rush"
+## Callisto – "Enforcer" von der EP "Adrenaline Rush"
 
 Dass ich Matze mit der Musik dieser Band so infizieren konnte, freut mich ziemlich. Bei mir stehen die nämlich auch ganz vorne in der "immer wieder hören"-Ecke. Doch jetzt ist er dran:
 
