@@ -113,7 +113,7 @@ Valentin hat die Ehre, das neue Muse Stück auf unsere Liste zu setzen:
 
 Das neue Black Map Album erscheint am 18. Februar. Matze hat diese Vorauskopplung für Euch selektiert:
 
-"Black Map haben mich zum ersten Mal als Vorband bei einem [Konzert von Chevelle im Jahr 2014](2014/11/chevelle-sensationell-seit-1995/)begeistert. Als ich dann noch hörte, dass der Gitarrist auf der Bühne Mark Engels war, den ich von meiner früheren Lieblingsband Dredg kannte, fing ich an, noch genauer hinzuhören und verfolge seither die Releases der Band. Wenn Ihr Post-Hardcore im Stil von Bands wie Sparta mögt, könnte dieses Stück etwas für Euch sein. Der neue Song ist eine radio- und festivaltaugliche Vorauskopplung vom kommenden Album."
+"Black Map haben mich zum ersten Mal als Vorband bei einem [Konzert von Chevelle im Jahr 2014](2014/11/chevelle-sensationell-seit-1995/) begeistert. Als ich dann noch hörte, dass der Gitarrist auf der Bühne Mark Engels war, den ich von meiner früheren Lieblingsband Dredg kannte, fing ich an, noch genauer hinzuhören und verfolge seither die Releases der Band. Wenn Ihr Post-Hardcore im Stil von Bands wie Sparta mögt, könnte dieses Stück etwas für Euch sein. Der neue Song ist eine radio- und festivaltaugliche Vorauskopplung vom kommenden Album."
 
 <YouTube id="jc8fiqkq2XY" />
 
