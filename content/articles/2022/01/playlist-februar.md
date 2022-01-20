@@ -65,7 +65,7 @@ Wenn das mal nicht vielversprechend klingt, oder? Das eiskalte Video zum Song so
 
 <YouTube id="s52dEa3DlDE" />
 
-## Mono – "Scarlet Holiday" von der Winter-EP "Scarlet Holliday"
+## Mono – "Scarlet Holliday" von der Winter-EP "Scarlet Holliday"
 
 Dieses Stück hat wieder Matze ausgewählt:
 
