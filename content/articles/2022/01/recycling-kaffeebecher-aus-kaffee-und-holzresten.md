@@ -46,7 +46,7 @@ Auf den Bildern könnt Ihr meinen formschönen neuen Weducer To-Go-Becher in der
 
 Den [Weducer Cup](https://tidd.ly/3fMeD7y) gibt es in drei Farben. Er wird aus recycelten Buchenholzfasern hergestellt. Die Füllmenge beträgt 300 Milliliter – also eine gute Portion Kaffee für unterwegs. Mit gerade mal 130 Gramm ist er ein echtes Leichtgewicht – er macht Eure Handtasche oder Euren Rucksack also kaum schwerer. Im Gegensatz zu vielen anderen To-Go-Lösungen ist das ein echter Pluspunkt.
 
-Was mir aufgefallen ist: Der Kaffee bleibt darin viel länger warm, als in einem dieser Pappbecher, die man beim Bäcker bekommt. Übrigens wurde mir der Kaffeeform Becher dort bereitwillig aufgefüllt und gleich mal gelobt: 
+Was mir aufgefallen ist: Der Kaffee bleibt darin viel länger warm, als in einem dieser Pappbecher, die man zum Beispiel in der Bäckerei hier nebenan bekommt. Übrigens wurde mir der Kaffeeform Becher dort bereitwillig aufgefüllt und gleich mal gelobt: 
 
 > "Der ist ja toll, da geht die Wärme gar nicht durch! Bei anderen Bechern verbrenne ich mich oft mit dem heißen Kaffee",
 
