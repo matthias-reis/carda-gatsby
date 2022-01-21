@@ -40,6 +40,8 @@ Eine echte Besonderheit, die es sonst noch nirgendwo gibt, ist das ikonische Cof
 
 Auf den Bildern könnt Ihr meinen formschönen neuen Weducer To-Go-Becher in der Farbe "cardamon" (wie passend!) sehen. Passend dazu gibt es einen Deckel, mit dem ich ihn komplett verschließen kann. So kann ich meinen Kaffee morgens gefahrlos in der Seitentasche meines Rucksacks transportieren, ohne, dass etwas danebengeht. Anschließend kann ich meinen Kaffee dann in Ruhe genießen.
 
+<Gallery name="kaffeebecher-aus-kaffee-1" />
+
 ## Ein leichter To-Go-Becher für die Tasche
 
 Den [Weducer Cup](https://tidd.ly/3fMeD7y) gibt es in drei Farben. Er wird aus recycelten Buchenholzfasern hergestellt. Die Füllmenge beträgt 300 Milliliter – also eine gute Portion Kaffee für unterwegs. Mit gerade mal 130 Gramm ist er ein echtes Leichtgewicht – er macht Eure Handtasche oder Euren Rucksack also kaum schwerer. Im Gegensatz zu vielen anderen To-Go-Lösungen ist das ein echter Pluspunkt.
@@ -53,8 +55,6 @@ Meinte die Verkäuferin zu mir, als sie den gefühlt kochend heißen Kaffee in m
 ## Robustes Material
 
 Die Basis für Produkte, wie [meinen To-Go-Becher](https://tidd.ly/3fMeD7y) sind recycelte  Abfälle und nachwachsende Rohstoffe, die mit Biopolymeren verhärtet werden. Das sorgt dafür, dass die Tassen und Becher ganz leicht und gleichzeitig sehr robust sind. Ihr könnt sie in der Spülmaschine reinigen und wenn sie mal irgendwo anstoßen, bekommen sie im Gegensatz zu Porzellan keine Macken. Ich kann mir daher sehr gut vorstellen, dass sie zum Beispiel auch für Kantinen und Mensen sehr gut geeignet sind. Auch dort gilt schließlich das Prinzip: Je robuster das Geschirr ist, desto seltener muss ich neues kaufen. Das bedeutet dann nicht nur weniger Ausgaben, sondern auch weniger Müll.
-
-<Gallery name="kaffeebecher-aus-kaffee-1" />
 
 Alle Produkte, die auf Holzfasern basieren, lässt Kaffeeform Ressourcen-schonend mit recycelten Buchenholz-Abfällen aus Süddeutschland und anderen nachwachsenden Rohstoffen herstellen. Sie werden in Berlin gestaltet und lokal und sozial innerhalb Deutschlands hergestellt.
 
