@@ -103,7 +103,7 @@ Was mir Toundra [im Interview über ihre Band und ihre Beziehung zur Musik verra
 
 ## Muse – "Won't Stand Down" (Single)
 
-Valentin hat die Ehre, das neue Muse Stück auf unsere Liste zu setzen:
+Valentin hatte die Ehre, das neue Muse Stück auf unsere Liste zu setzen:
 
 > "Diesen Monat können wir endlich mal wieder was Neues von den einmaligen Muse vorstellen. 'Won't Stand Down' heißt die neue Single, die im Gegensatz zur letzten Veröffentlichung endlich mal wieder die 'härtere' Seite von Muse zeigt. Solche Riffs hatte man von ihnen ja schon vermisst. Es deutet sich wohl auch an, dass bald ein neues Album erscheint – obwohl Frontmann Matt Bellamy mit seinem Soloprojekt und der Supergroup 'The Jaded Hearts Club' wohl schon allerhand zu tun hat. Wir sagen auf jeden Fall nicht nein!"
 
