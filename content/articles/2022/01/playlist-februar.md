@@ -77,7 +77,7 @@ Dieses Stück hat wieder Matze ausgewählt:
 
 Und nun übergebe ich das Wort an Valentin:
 
-"Meine bisher interessanteste Entdeckung im neuen Jahr kommt aus Griechenland. Khirki verbinden progressiven Metal à la Tool, Kvelertak und Mastodon mit Folk. Ich dachte dabei zuerst an das wegweisende System of a Down Album 'Toxicity', auf dem man eine ähnliche Mischung zu hören bekommt, aber es geht ein bisschen in eine andere Richtung. Ich habe den zweiten Song vom Khirki Debütalbum "Κτηνωδία" ausgewählt und hoffe, dass wir in Zukunft noch viel mehr von dieser Band hören werden."
+> "Meine bisher interessanteste Entdeckung im neuen Jahr kommt aus Griechenland. Khirki verbinden progressiven Metal à la Tool, Kvelertak und Mastodon mit Folk. Ich dachte dabei zuerst an das wegweisende System of a Down Album 'Toxicity', auf dem man eine ähnliche Mischung zu hören bekommt, aber es geht ein bisschen in eine andere Richtung. Ich habe den zweiten Song vom Khirki Debütalbum "Κτηνωδία" ausgewählt und hoffe, dass wir in Zukunft noch viel mehr von dieser Band hören werden."
 
 <YouTube id="YIe1SInjvCU" />
 
