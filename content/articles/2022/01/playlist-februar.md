@@ -91,7 +91,7 @@ Dass ich Matze mit der Musik dieser Band so infizieren konnte, freut mich ziemli
 
 ## Toundra – "Ruinas" vom Album "Hex"
 
-Was mir Toundra [im Interview über ihre Band und ihre Beziehung zur Musik verraten haben](/2020/07/toundra-interview/), beschäftigt mich noch heute oft. Jetzt haben die spanischen Instrumental-Künstler, die auch gerne mal einen Stummfilm-Klassiker vertonen, ein neues Album auf den Markt gestellt, das Euch aus den Latschen kippen lassen wird. Die Band schreibt, dass die ersten Song-Fragmente unter chaotischen Umständen entstanden sind – kein Wunder, da jede neue Komposition für die Musiker eine Fortsetzung ihres Selbstfindung-Prozesses ist – der gelegentlich auch schmerzhaft sein kann. Das Ergebnis dieser Station ihrer Reise hat sich auf jeden Fall gelohnt. Hört es Euch an, Ihr werdet es nicht bereuen.
+Was mir Toundra [im Interview über ihre Band und ihre Beziehung zur Musik verraten haben](/2020/07/toundra-interview/), beschäftigt mich noch heute oft. Jetzt haben die spanischen Instrumental-Künstler, die auch gerne mal einen Stummfilm-Klassiker vertonen, ein neues Album auf den Markt gestellt, das Euch aus den Latschen kippen lassen wird. Die Band schreibt, dass die ersten Song-Fragmente unter chaotischen Umständen entstanden sind – kein Wunder, da jede neue Komposition für die Musiker eine Fortsetzung ihres Selbstfindung-Prozesses ist – der gelegentlich auch schmerzhaft sein kann. Das Ergebnis dieser Station ihrer Reise hat sich auf jeden Fall gelohnt. Hört es Euch an – Ihr werdet es nicht bereuen.
 
 <YouTube id="Bl6iNEFErg8" />
 
