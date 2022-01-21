@@ -50,7 +50,7 @@ Was mir aufgefallen ist: Der Kaffee bleibt darin viel länger warm, als in einem
 
 > "Der ist ja toll, da geht die Wärme gar nicht durch! Bei anderen Bechern verbrenne ich mich oft mit dem heißen Kaffee",
 
-Meinte die Verkäuferin zu mir, als sie den gefühlt kochend heißen Kaffee in meinen Weducer Cup füllte. Ein weiterer Vorteil ist natürlich die Langlebigkeit und Bruchsicherheit. BPA und Melaminharze werden dafür auch nicht verarbeitet.
+meinte die Verkäuferin zu mir, als sie den gefühlt kochend heißen Kaffee in meinen Weducer Cup füllte. Ein weiterer Vorteil ist natürlich die Langlebigkeit und Bruchsicherheit. BPA und Melaminharze werden dafür auch nicht verarbeitet.
 
 ## Robustes Material
 
