@@ -64,7 +64,7 @@ Die Kaffeeform-Teile sind übrigens alle vegan und Tierversuchs-frei. Erdöl-bas
 
 Auch die Tasse (Latte Cup) auf meinen Bildern ist aus dem Hause Kaffeeform und aus Coffee-Material hergestellt. Genau, wie [die Alphabet-Edition des Weducer Bechers](https://tidd.ly/3qQ77im) wurde sie aus Coffee-Material hergestellt – basierend auf dem gesammelten Kaffeesatz aus Berliner Cafés und Röstereien. Hinzu kommen noch ein paar andere nachwachsende Rohstoffe. Was das Material so besonders macht, ist der leichte Kaffeeduft, den es sogar ausströmt, wenn gerade kein Kaffee im Becher ist. Was mir außerdem sehr gut gefällt, ist die angenehm weiche Oberfläche des Materials – beim Trinken ist es ein echter Lippenschmeichler.
 
-Verpackt wurde natürlich alles Plastik-frei. Ihr könnt Eure Kaffeeform-Tassen wie ich ganz einfach online bestellen oder in einigen ausgewählten Fachgeschäften [vor Ort kaufen](https://tidd.ly/3KwKg2X).
+Ihr könnt Eure Kaffeeform-Tassen wie ich ganz einfach online bestellen oder in einigen ausgewählten Fachgeschäften [vor Ort kaufen](https://tidd.ly/3KwKg2X). Verpackt wird natürlich alles Plastik-frei.
 
 Das Start-up arbeitet seit 2017 mit Cafés, Online, Shops, Stores und Firmen in ganz Europa zusammen. Im Mittelpunkt steht bis heute sinnstiftende Entwicklungen und der Einsatz für den Planeten. Die Innovationen sind inzwischen weltweit gefragt – Kaffeeform war unter anderem sogar schon bei der Pariser Design Week zu Gast.
 
