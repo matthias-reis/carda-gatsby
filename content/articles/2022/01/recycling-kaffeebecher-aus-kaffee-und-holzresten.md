@@ -30,7 +30,7 @@ language: de
 ---
 **Kaffeetassen aus recyceltem Kaffee und Holzresten – das klingt nach einer Utopie? Zu schön, um wahr zu sein? Ich habe eine gute Nachricht für Euch: Das ist es nicht! Die gibt es wirklich! Im Moment trinke ich gerade aus einer und ich muss sagen: Sie liegt wirklich super in der Hand!**
 
-Kaffeeform stellt nachhaltiges Kaffeegeschirr her. Der Fokus liegt auf To-Go-Bechern und ähnlichen praktischen Alltagshelfern. Das Motto des Herstellers "Rewaste & Reshape" (Wiederverwenden und umgestalten") geht voll auf. Auf umweltschädliche Materialien wird aus Prinzip verzichtet. Dafür wird allerhand Rohstoffe, die sonst in der Tonne landen würden, neues Leben eingehaucht. Anschließend starten sie dann eine neue Karriere als To-Go-Becher oder Cappuccino-Tasse.
+Kaffeeform stellt nachhaltiges Kaffeegeschirr her. Der Fokus liegt auf To-Go-Bechern und ähnlichen praktischen Alltagshelfern. Das Motto des Herstellers "Rewaste & Reshape" (wiederverwenden und umgestalten") geht voll auf. Auf umweltschädliche Materialien wird aus Prinzip verzichtet. Dafür wird allerhand Rohstoffe, die sonst in der Tonne landen würden, neues Leben eingehaucht. Anschließend starten sie dann eine neue Karriere als To-Go-Becher oder Cappuccino-Tasse.
 
 ## Vermeintlichem Abfall neues Leben einhauchen
 
