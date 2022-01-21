@@ -1,5 +1,5 @@
 ---
-date: 2022-01-21T13:35:24.560Z
+date: 2022-01-21T05:00:24.560Z
 slug: kaffeeform-kaffeebecher-aus-kaffee
 typeName: Produkttest
 title: Recycling-Kaffeebecher aus Kaffee und Holzresten
