@@ -66,6 +66,6 @@ Auch die Tasse (Latte Cup) auf meinen Bildern ist aus dem Hause Kaffeeform und a
 
 Ihr könnt Eure Kaffeeform-Tassen wie ich ganz einfach online bestellen oder in einigen ausgewählten Fachgeschäften [vor Ort kaufen](https://tidd.ly/3KwKg2X). Verpackt wird natürlich alles Plastik-frei.
 
-Das Start-up arbeitet seit 2017 mit Cafés, Online, Shops, Stores und Firmen in ganz Europa zusammen. Im Mittelpunkt steht bis heute sinnstiftende Entwicklungen und der Einsatz für den Planeten. Die Innovationen sind inzwischen weltweit gefragt – Kaffeeform war unter anderem sogar schon bei der Pariser Design Week zu Gast.
+Das Start-up arbeitet seit 2017 mit Cafés, Online, Shops, Stores und Firmen in ganz Europa zusammen. Im Mittelpunkt stehen bis heute sinnstiftende Entwicklungen und der Einsatz für den Planeten. Die Innovationen sind inzwischen weltweit gefragt – Kaffeeform war unter anderem sogar schon bei der Pariser Design Week zu Gast.
 
 <Gallery name="kaffeebecher-aus-kaffee-2" />
