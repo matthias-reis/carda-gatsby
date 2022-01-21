@@ -47,7 +47,7 @@ language: de
 
 Die fertigen Playlists für Spotify und iTunes findet Ihr wie immer am Ende des Artikels.
 
-## And So I Watch You From Afar – "I Dive Pt. I" (Vorauskopplung vom Album "Jettison")
+## And So I Watch You From Afar – "I Dive Pt. 1" (Vorauskopplung vom Album "Jettison")
 
 Den ersten Titel für diesen Monat hatten Matze und ich beide auf der Liste. Matze war dann etwas früher als ich mit seiner Lobhudelei fertig, daher hat es sein Text auch in die Liste geschafft. Das neue ASIWYFA Album erscheint übrigens am 18. Februar.
 
