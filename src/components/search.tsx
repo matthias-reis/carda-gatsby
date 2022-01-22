@@ -47,22 +47,47 @@ const Hit = ({ hit }) => {
 
 export const Search: React.FC = () => {
   const [isVisible, setIsVisible] = React.useState(false);
+  const ref = React.useRef<HTMLDivElement>(null);
 
   const handleToggle = () => {
+    const eventName = isVisible ? 'search/closed' : 'search/opened';
+    event(eventName, 'search');
     setIsVisible(!isVisible);
-    event('search/opened', 'search');
   };
+
+  React.useEffect(() => {
+    function handleClickOutside(ev: MouseEvent) {
+      if (
+        ref.current &&
+        !ref.current.querySelector('form').contains(ev.target as Node) &&
+        !Array.from(ref.current.querySelectorAll('ul>li>a').values()).some(
+          (node) => node.contains(ev.target as Node)
+        )
+      ) {
+        setIsVisible(false);
+        event('search/closed', 'search');
+      }
+    }
+
+    // Bind the event listener
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => {
+      // Unbind the event listener on clean up
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, [ref]);
 
   return (
     <React.Fragment>
       <IconButton onClick={handleToggle} Icon={IconSearch} />
       <HeaderSheet isVisible={isVisible} heightInVh={50}>
-        <StyledSearchBox
-          translations={{ placeholder: 'Nach Artikeln suchen ...' }}
-          autoFocus
-          required
-        />
-        <StyledHits hitComponent={Hit} />
+        <div ref={ref}>
+          <StyledSearchBox
+            translations={{ placeholder: 'Nach Artikeln suchen ...' }}
+            autoFocus
+          />
+          <StyledHits hitComponent={Hit} />
+        </div>
       </HeaderSheet>
     </React.Fragment>
   );
