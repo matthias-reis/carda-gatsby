@@ -118,7 +118,10 @@ export const ArticlePage: React.FC<ArticleProps> = ({
         </MetaArea>
         <ImageContainer>
           {meta.frontmatter.image && (
-            <ImageForArticle src={meta.frontmatter.image} />
+            <ImageForArticle
+              src={meta.frontmatter.image}
+              alt={fixSoftHyphens(meta.frontmatter.title)}
+            />
           )}
           {meta.frontmatter.remoteImage && (
             <CardaImage
