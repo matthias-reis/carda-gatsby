@@ -30,7 +30,7 @@ language: de
 ---
 **Kaffeetassen aus recyceltem Kaffee und Holzresten – das klingt nach einer Utopie? Zu schön, um wahr zu sein? Ich habe eine gute Nachricht für Euch: Das ist es nicht! Die gibt es wirklich! Im Moment trinke ich gerade aus einer und ich muss sagen: Sie liegt wirklich super in der Hand!**
 
-Kaffeeform stellt nachhaltiges Kaffeegeschirr her. Der Fokus liegt auf To-Go-Bechern und ähnlichen praktischen Alltagshelfern. Das Motto des Herstellers "Rewaste and Reshape" ("wiederverwenden und umgestalten") geht voll auf. Auf umweltschädliche Rohstoffe wird aus Prinzip verzichtet. Dafür wird wertvollen Materialien, die sonst in der Tonne landen würden, neues Leben eingehaucht. Anschließend starten sie dann eine neue Karriere als To-Go-Becher oder Cappuccino-Tasse.
+Kaffeeform stellt nachhaltiges Kaffeegeschirr her. Der Fokus liegt auf To-Go-Bechern und ähnlichen praktischen Alltagshelfern. Das Motto des Herstellers "Unwaste and Reshape" ("wiederverwenden und umgestalten") geht voll auf. Auf umweltschädliche Rohstoffe wird aus Prinzip verzichtet. Dafür wird wertvollen Materialien, die sonst in der Tonne landen würden, neues Leben eingehaucht. Anschließend starten sie dann eine neue Karriere als To-Go-Becher oder Cappuccino-Tasse.
 
 ## Vermeintlichem Abfall neues Leben einhauchen
 
@@ -38,19 +38,19 @@ Am Anfang stand die Vision, aus vermeintlichem Abfall, neue, wertvolle und best�
 
 Eine echte Besonderheit, die es sonst noch nirgendwo gibt, ist das ikonische Coffee-Material. Durch ein eigens dafür entwickeltes Verfahren werden dafür aus recyceltem Kaffee und nachwachsenden Rohstoffen Dinge hergestellt. Das Konzept ist so erfolgreich, dass sich Kaffeeform inzwischen sogar neuen Produktgruppen zugewandt hat.
 
-Auf den Bildern könnt Ihr meinen formschönen neuen Weducer To-Go-Becher in der Farbe "cardamon" (wie passend!) sehen. Passend dazu gibt es einen Deckel, mit dem ich ihn komplett verschließen kann. So kann ich meinen Kaffee morgens gefahrlos in der Seitentasche meines Rucksacks transportieren, ohne, dass etwas danebengeht. Anschließend kann ich meinen Kaffee dann in Ruhe genießen.
+Auf den Bildern könnt Ihr meinen formschönen neuen Weducer Essential To-Go-Becher in der Farbe "cardamon" (wie passend!) sehen. Passend dazu gibt es einen Deckel, mit dem ich ihn komplett verschließen kann. So kann ich meinen Kaffee morgens gefahrlos in der Seitentasche meines Rucksacks transportieren, ohne, dass etwas danebengeht. Anschließend kann ich meinen Kaffee dann in Ruhe genießen.
 
 <Gallery name="kaffeebecher-aus-kaffee-1" />
 
 ## Ein leichter To-Go-Becher für die Tasche
 
-Den [Weducer Cup](https://tidd.ly/3fMeD7y) gibt es in drei Farben. Er wird aus recycelten Buchenholzfasern hergestellt. Die Füllmenge beträgt 300 Milliliter – also eine gute Portion Kaffee für unterwegs. Mit gerade mal 130 Gramm ist er ein echtes Leichtgewicht – er macht Eure Handtasche oder Euren Rucksack also kaum schwerer. Im Gegensatz zu vielen anderen To-Go-Lösungen ist das ein echter Pluspunkt.
+Den [Weducer Cup Essential](https://tidd.ly/3fMeD7y) gibt es in drei Farben. Er wird aus recycelten Buchenholzfasern hergestellt. Die Füllmenge beträgt 300 Milliliter – also eine gute Portion Kaffee für unterwegs. Mit gerade mal 130 Gramm ist er ein echtes Leichtgewicht – er macht Eure Handtasche oder Euren Rucksack also kaum schwerer. Im Gegensatz zu vielen anderen To-Go-Lösungen ist das ein echter Pluspunkt.
 
 Was mir aufgefallen ist: Der Kaffee bleibt darin viel länger warm, als in einem dieser Pappbecher, die man zum Beispiel in der Bäckerei hier nebenan bekommt. Übrigens wurde mir der Kaffeeform Becher dort bereitwillig aufgefüllt und gleich mal gelobt: 
 
 > "Der ist ja toll, da geht die Wärme gar nicht durch! Bei anderen Bechern verbrenne ich mich oft mit dem heißen Kaffee",
 
-meinte die Verkäuferin zu mir, als sie den gefühlt kochend heißen Kaffee in meinen Weducer Cup füllte. Ein weiterer Vorteil ist natürlich die Langlebigkeit und Bruchsicherheit. BPA und Melaminharze werden dafür auch nicht verarbeitet.
+meinte die Verkäuferin zu mir, als sie den gefühlt kochend heißen Kaffee in meinen Weducer Cup Essential füllte. Ein weiterer Vorteil ist natürlich die Langlebigkeit und Bruchsicherheit. BPA und Melaminharze werden dafür auch nicht verarbeitet.
 
 ## Robustes Material
 
@@ -62,7 +62,7 @@ Die Kaffeeform-Teile sind übrigens alle vegan und Tierversuchs-frei. Erdöl-bas
 
 ## Vegan und frei von Erdöl
 
-Auch die Tasse (Latte Cup) auf meinen Bildern ist aus dem Hause Kaffeeform und aus Coffee-Material hergestellt. Genau, wie [die Alphabet-Edition des Weducer Bechers](https://tidd.ly/3qQ77im) wurde sie aus Coffee-Material hergestellt – basierend auf dem gesammelten Kaffeesatz aus Berliner Cafés und Röstereien. Hinzu kommen noch ein paar andere nachwachsende Rohstoffe. Was das Material so besonders macht, ist der leichte Kaffeeduft, den es sogar ausströmt, wenn gerade kein Kaffee im Becher ist. Was mir außerdem sehr gut gefällt, ist die angenehm weiche Oberfläche des Materials – beim Trinken ist es ein echter Lippenschmeichler.
+Auch die Tasse (Latte Cup) auf meinen Bildern ist aus dem Hause Kaffeeform und aus Coffee-Material hergestellt. Genau, wie [die Alphabet-Edition des Weducer Essential Bechers](https://tidd.ly/3qQ77im) wurde sie aus Coffee-Material hergestellt – basierend auf dem gesammelten Kaffeesatz aus Berliner Cafés und Röstereien. Hinzu kommen noch ein paar andere nachwachsende Rohstoffe. Was das Material so besonders macht, ist der leichte Kaffeeduft, den es sogar ausströmt, wenn gerade kein Kaffee im Becher ist. Was mir außerdem sehr gut gefällt, ist die angenehm weiche Oberfläche des Materials – beim Trinken ist es ein echter Lippenschmeichler.
 
 Ihr könnt Eure Kaffeeform-Tassen wie ich ganz einfach online bestellen oder in einigen ausgewählten Fachgeschäften [vor Ort kaufen](https://tidd.ly/3KwKg2X). Verpackt wird natürlich alles Plastik-frei.
 
