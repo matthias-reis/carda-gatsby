@@ -44,6 +44,7 @@ labels:
   - Idles
   - L'Effondras
   - Shoegaze
+  - Serie:Playlists
 focusKeyword: Playlist
 advertisement: false
 affiliate: false
