@@ -34,7 +34,7 @@ Im Moment läuft innerhalb der EU (bis zum 31.1. könnt Ihr noch mitzeichnen[^1]
 
 ## Haie verbluten grausam
 
-Die Haiflossen dienen als Zutat für Haifischflossensuppe, die in einigen Ländern als Delikatesse gilt. Ihren Namen verdankt sie wenigen Gramm Haifischfleisch, die dem Gericht hinzugefügt wird. Eine Portion davon kostet um die Hundert Euro. Für die Haifischhandelnden ist das natürlich ein lukratives Geschäft mit einer extrem großen Gewinnspanne.
+Die Haiflossen dienen als Zutat für Haifischflossensuppe, die in einigen Ländern als Delikatesse gilt. Ihren Namen verdankt sie wenigen Gramm Haifischfleisch, die dem Gericht hinzugefügt wird. Eine Portion davon kostet um die Hundert Euro. Für den Haifischhandel ist das natürlich ein lukratives Geschäft mit einer extrem großen Gewinnspanne.
 
 Es ist wirklich kaum zu glauben, dass dieses grausame Geschäft auch aus Europa weiter unterstützt wird. Zwar ist die Lagerung, Umladung und Anlandung von Haiflossen innerhalb aller EU-Gewässer und Schiffe innerhalb der EU seit 2013 durch den "Fins Naturally Attached Pact" verboten, das hindert die Unternehmen jedoch nicht an der Jagd. Sie müssen die Flossen lediglich beim Endladen ihrer Schiffe in den Häfen an den toten Tieren befestigen. Anschließend können sie wieder abgetrennt und zum Beispiel nach Asien, wo es dafür einen großen Markt gibt, exportiert werden. 
 
