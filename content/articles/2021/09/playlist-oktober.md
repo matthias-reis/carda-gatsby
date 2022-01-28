@@ -46,6 +46,7 @@ labels:
   - Post-Metal
   - Shoegaze
   - Doomgaze
+  - Serie:Playlists
 focusKeyword: Playlist Oktober
 advertisement: false
 affiliate: false
