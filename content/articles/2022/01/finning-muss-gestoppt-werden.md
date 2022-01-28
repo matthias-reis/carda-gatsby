@@ -52,9 +52,9 @@ Innerhalb einer Minute werden weltweit mehrere hundert Haie getötet. Die aktuel
 
 In der derzeitigen Verordnung steht zwar
 
-> "Haie sind kein traditionelles europäisches Nahrungsmittel, aber sie sind ein notwendiger Bestandteil der europäischen Meeresökosysteme."
+> "Haie sind kein traditionelles europäisches Nahrungsmittel, aber sie sind ein notwendiger Bestandteil der europäischen Meeresökosysteme"
 
-Schutz bietet es den Meerestieren jedoch keinen. Wenn das Gleichgewicht der Meere nicht komplett aus dem Ruder laufen soll und wir den Haien wirklich Schutz bieten wollen, ist es daher wichtig für Regeln, die wirklich etwas bewirken und von den Haikillern nicht durch einfache Tricks umgangen werden können.
+Das bietet den Meerestieren jedoch keinen Schutz. Wenn das Gleichgewicht der Meere nicht komplett aus dem Ruder laufen soll und wir den Haien wirklich Schutz bieten wollen, ist es daher wichtig für Regeln, die wirklich etwas bewirken und von den Haikillern nicht durch einfache Tricks umgangen werden können.
 
 ## Die Bürgerinitiative unterstützen
 
