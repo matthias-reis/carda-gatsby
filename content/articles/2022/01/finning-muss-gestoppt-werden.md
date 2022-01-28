@@ -30,7 +30,7 @@ language: de
 ---
 **Zwischen 63 und 273 Millionen Haie sterben jährlich durch die Fischerei-Industrie. So lauten die offiziellen Zahlen. In Wirklichkeit sind es vermutlich wesentlich mehr. Die Dunkelziffer ist durch den weltweit verbreiteten illegalen Fischfang jedoch kaum einschätzbar.**
 
-Im Moment läuft innerhalb der EU (bis zum 31.1. könnt Ihr noch mitzeichnen[^1]!) eine vom Shark Project[^2] gestartete Bürgerinitiative gegen eine grausame Praktik namens Finning. Dabei werden Haien bei lebendigem Leib die Flossen vom Körper abgetrennt. Anschließend werden sie wieder über Bord geworfen und verbluten im Wasser und/oder werden von anderen Meerestieren gefressen.
+Im Moment läuft innerhalb der EU (bis zum 31.1. könnt Ihr noch mitzeichnen[^1]!) eine vom Shark Project[^2] gestartete Bürgerinitiative gegen eine grausame Praktik namens Finning. Dabei werden Haien bei lebendigem Leib die Flossen vom Körper abgetrennt. Anschließend werden die Fische wieder über Bord geworfen und verbluten im Wasser und/oder werden von anderen Meerestieren gefressen.
 
 ## Haie verbluten grausam
 
