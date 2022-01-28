@@ -41,6 +41,7 @@ labels:
   - Reviews
   - Playlist
   - Musikliste
+  - "Serie: Playlists"
 focusKeyword: Post-Rock
 advertisement: false
 affiliate: false
