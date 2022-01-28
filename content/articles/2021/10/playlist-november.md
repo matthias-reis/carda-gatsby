@@ -94,7 +94,7 @@ Auch Idles haben ihr neues Album für November angekündigt. Bei der Combo aus B
 
 Toundra habe ich Euch hier ja schon mal [im Interview](/2020/07/toundra-interview/) vorstellt. Was mir Esteban damals über seine Beziehung zur Musik und das Gefühl von Freiheit erzählte, beeindruckte mich schwer und klingt ohne Zweifel bis heute nach. Das neue Stück "El Odio. Parte I" ist wie gewohnt bombastisch und vielschichtig. In 8:05 durchlebt Ihr ein Wechselbad der Gefühle, das Ihr am liebsten sofort wiederholen wollt. Nachdem das letzte Werk der Band aus Madrid "Das Cabinet des Dr. Caligari" bereits ein Gesamtkunstwerk war, das Stück für Stück vor der Welt enthüllt wurde, bin ich sehr gespannt, wie es weitergeht.
 
-<YouTube id="o1_Pu5-7KfQ" />
+<YouTube id="U9KcDdExPIM" />
 
 ## Zeal & Ardor – "Götterdämmerung" vom Album "Zeal & Ardor"
 
