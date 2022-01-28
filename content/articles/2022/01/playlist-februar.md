@@ -39,6 +39,8 @@ labels:
   - Khirki
   - Oh Hiroshima
   - And So I Watch You From Afar
+  - "Serie: Playlists"
+focusKeyword: ""
 advertisement: false
 affiliate: false
 language: de
