@@ -48,7 +48,7 @@ Erschwerend hinzu kommt, dass in vielen Nicht-EU-Ländern das Finning auch nach 
 
 ## Viele Haiarten stehen vor dem Aussterben
 
-Innerhalb einer Minute werden weltweit mehrere hundert Haie getötet. Die aktuelle Bürgerinitiative "Stop finning – Stop the trade" ("Stoppt das Finning – stoppt den Handel")[^1] möchte dafür sorgen, dass die Gesetzgebung der EU grundlegend geändert wird und dem Finning dadurch so bald wie möglich wirklich ein Ende gesetzt wird. Wenn die bedrohten Arten vor dem Aussterben gerettet und Millionen von Tieren ein grausamer Tod erspart werden soll, sollte das auf jeden Fall schnell passieren.
+Innerhalb einer Minute werden weltweit mehrere hundert Haie getötet. Die aktuelle Bürgerinitiative "Stop finning – Stop the trade" ("Stoppt das Finning – stoppt den Handel")[^1] soll dafür sorgen, dass die Gesetzgebung der EU grundlegend geändert wird und dem Finning dadurch so bald wie möglich wirklich ein Ende gesetzt wird. Wenn die bedrohten Arten vor dem Aussterben gerettet und Millionen von Tieren ein grausamer Tod erspart werden soll, sollte das auf jeden Fall schnell passieren.
 
 In der derzeitigen Verordnung steht zwar
 
