@@ -62,8 +62,8 @@ Wenn Ihr die Petition noch mitzeichnen wollt[^1], tut es hier, bis zum 31.1 habt
 
 Wenn wir dazu bereit sind, diese faszinierenden Lebewesen durch den Verzicht auf Plastik zu schützen, sollten wir unser Handeln auch in einem größeren Rahmen überdenken und (das geht, ich habe es ausprobiert und bin dabei geblieben!) dazu bereit sein, auf ihren Verzehr zu verzichten, um sie zu schützen. Wenn Ihr mehr über Fische, Fischfang und unsere Meere lernen möchtet, kann ich Euch beispielsweise [den Film "Seaspiracy" wärmsten empfehlen](/2021/02/seaspiracy/). Ihr könnt ihn ganz einfach online streamen. Wenn wir die Meere wirklich schützen wollen, müssen wir alle dazu bereit sein und unseren Teil beitragen. Tiere wie Haie leiden heutzutage nicht nur unter der ausufernden Fischereiindustrie sondern auch unter dem Klimawandel, [das lässt sich zum Beispiel an den Epaulettenhaien beobachten](/2021/01/epaulettenhaie-klimawandel/).
 
-[^1]: Bürgerinitiative: https://www.stop-finning-eu.org/
+[^1]: [Bürgerinitiative:](https://www.stop-finning-eu.org/)
 
-[^2]: Shark Project: https://www.sharkproject.org/cooperation/handelsverbot/eu-burgerinitiative-stop-finning-stop-the-trade/
+[^2]: [Shark Project:](https://www.sharkproject.org/cooperation/handelsverbot/eu-burgerinitiative-stop-finning-stop-the-trade/)
 
 Bild/picture: [PIRO4D](https://pixabay.com/photos/shark-sea-ocean-water-underwater-3347787/), Pixabay
