@@ -5,10 +5,16 @@ typeName: Beitrag
 title: Die Playlist für den Dezember
 subTitle: 12 Songs von Post-Metal bis Prog
 seoTitle: Playlist Dezember – von Post-Metal bis Prog
-description: Von Post-Metal bis Prog habe ich gemeinsam mit meinen beiden Lieblings-Musikmenschen 12 Songs für Euch zusammengestellt, die Euch den Einstieg in die kalte Jahreszeit so richtig schön versüßen.
-excerpt: Wenn es wieder kalt wird, es jeden Tag zu regnen scheint und draußen sowieso nur noch Matsch ist, wird es Zeit, es sich daheim mit guter Musik so richtig schön gemütlich zu machen. Gemeinsam mit meinen beiden Lieblings-Musikmenschen habe ich für Euch 12 Songs zusammengestellt, die Ihr ganz bequem auch ohne dabei draußen rumzulaufen hören könnt. Viel Spaß damit!
+description: Von Post-Metal bis Prog habe ich gemeinsam mit meinen beiden
+  Lieblings-Musikmenschen 12 Songs für Euch zusammengestellt, die Euch den
+  Einstieg in die kalte Jahreszeit so richtig schön versüßen.
+excerpt: Wenn es wieder kalt wird, es jeden Tag zu regnen scheint und draußen
+  sowieso nur noch Matsch ist, wird es Zeit, es sich daheim mit guter Musik so
+  richtig schön gemütlich zu machen. Gemeinsam mit meinen beiden
+  Lieblings-Musikmenschen habe ich für Euch 12 Songs zusammengestellt, die Ihr
+  ganz bequem auch ohne dabei draußen rumzulaufen hören könnt. Viel Spaß damit!
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-25/von-post-metal-bis-prog-jpg-imagine-b8b8b8_706269_1024_768/640.webp
-copyrigt: ''
+copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-25/von-post-metal-bis-prog-fb-png-imagine-b8b8b8_71656b_1200_628/640.webp
 labels:
   - Post-Metal
@@ -36,6 +42,7 @@ labels:
   - Musikliste
   - Post-Music
   - Post-Rock
+  - "Serie: Playlists"
 focusKeyword: Von Post-Metal bis Prog
 advertisement: false
 affiliate: false
