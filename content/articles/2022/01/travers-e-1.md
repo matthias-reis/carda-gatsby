@@ -48,7 +48,7 @@ Here is what À Terre say about "Traversée":
 
 ## Three authentic post-metal songs
 
-The step into this dark and, at the same time, deeply romantic world already succeeds with the first notes on "Traversée". I immediately feel drawn into it, seeing the mistique and varied home of the tracks in my mind's eye for the next 20 minutes. I like this excursion very much, and I gladly let myself go into this reflective space between the worlds for a few moments.
+The step into this dark and, at the same time, deeply romantic world already succeeds with the first notes on "Traversée". I immediately feel drawn into it, seeing the mystique and varied home of the tracks in my mind's eye for the next 20 minutes. I like this excursion very much, and I gladly let myself go into this reflective space between the worlds for a few moments.
 
 The three songs are more than authentic. To me, they sound open, honest and personal. À Terre reveal a very natural part of themselves that most humans keep to themselves forever – opening the door for a decisive moment of calm and togetherness.
 
