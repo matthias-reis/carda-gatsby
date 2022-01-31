@@ -66,6 +66,6 @@ The band recorded the new EP in no time – just like "Notre Ciel Noir", which t
 
 Following the success of "Notre Ciel Noir", À Terre worked on their show together with Petit Fantôme and Jean-Michel Labadie from Gojira during a resident at the Atabal music venue in Biarritz. This creative exchange and the shared experience influenced them when recording their new EP, which you can listen to on all known music platforms from February 28th.
 
-## À Terre - Cinquième Colonne
+## À Terre - "Cinquième Colonne"
 
 <YouTube id="Zt5CvN8tkm0" />
