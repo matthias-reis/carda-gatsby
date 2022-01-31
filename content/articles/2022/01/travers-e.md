@@ -58,7 +58,7 @@ Heftige und energetische Parts werden von zarten Zwischenspielen abgelöst, die 
 
 ## Melancholie ist essentiell
 
-Melancholie ist eben ein wichtiger Teil des Lebens. Das wissen auch die erklärten Idole der fünf, die sich in Projekten wie Cult of Luna, Amenra, Year Of No Light, Deftones und Converge wiederfinden.
+Melancholie ist eben ein wichtiger Teil des Lebens. Das wissen auch die erklärten Idole der fünf, die sich in Projekten wie Cult of Luna, Amenra, \[Year Of No Light](/2021/05/year-of-no-light-consolamentum/), Deftones und Converge wiederfinden.
 
 Mit "Traversée" haben À Terre alles richtig gemacht – von der ersten bis zur letzten Note. Oder wie die Band selbst es formuliert: 
 
