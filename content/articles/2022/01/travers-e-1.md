@@ -36,6 +36,8 @@ Some of you might already know À Terre from [my review of their last record](/2
 
 ## Inspired by the historical Aquitaine region
 
+![À Terre – "Traversée" record cover (abstract black and white artwork)](https://storage.googleapis.com/cardamonchai-media/2022-01-31/a-terre-traversee-cover-jpg-imagine-080808_000000_1080_1080/640.webp "À Terre – \"Traversée\"")
+
 The historical region in the southwestern stretch of France, close to Spain and the Atlantic Ocean, had a significant influence on the five band members, who feel a strong connection to this area. The strong contrasts of Aquitaine's diverse landscape, the oceanic climate and the variety of historical and cultural treasures reflect in the three songs on the new EP "Traversée".
 
 Their characteristic sound, which À Terre already shaped on their predecessor "Notre Ciel Noir", lights up again on this record. The band even managed to raise it to a new level. Their heavy and wonderful post-metal lives from intense and passionate spheres full of hypnotic moments and dream sequences.
