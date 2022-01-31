@@ -36,7 +36,7 @@ Einigen von Euch dürften À Terre durch mein Interview und meine Vorstellung ih
 
 ## Inspiriert vom historischen Aquitanien
 
-Die historische Region in der Südweststrecke Frankreichs, die an Spanien und den Atlantik grenzt, hatte großen Einfluss auf die fünf Bandmitglieder, die alle eine starke Verbindung zu dieser Gegend spüren. Die starken Kontraste der abwechslungsreichen Landschaft, des ozeanischen Klimas und der Vielfalt historischer und kultureller Schätze Aquitaniens spiegeln sich in den drei Songs auf der neuen EP "Traversée" wider.
+Die historische Region in der Südweststrecke Frankreichs, die an Spanien und den Atlantik grenzt, hatte großen Einfluss auf die fünf Bandmitglieder, die alle eine starke Verbindung zu dieser Gegend spüren. Die starken Kontraste der abwechslungsreichen Landschaft, das ozeanische Klima und der Vielfalt historischer und kultureller Schätze Aquitaniens spiegeln sich in den drei Songs auf der neuen EP "Traversée" wider.
 
 Ihren charakteristischen Sound, den À Terre bereits beim Vorgänger "Notre Ciel Noir" geprägt haben, greifen sie auf dieser Platte wieder auf und heben ihn auf ein neues Level. Ihr harter und wundervoller Post-Metal lebt von intensiven und leidenschaftlichen Sphären voll hypnotischer Momente und Traumsequenzen.
 
