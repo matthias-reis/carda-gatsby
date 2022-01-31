@@ -23,6 +23,7 @@ labels:
   - Band
   - Bands
   - À Terre
+  - Post-Hardcore
 focusKeyword: Traversé
 advertisement: false
 affiliate: false
