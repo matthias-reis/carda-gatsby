@@ -60,7 +60,7 @@ We all shouldn't forget that melancholy is an essential part of life. Members of
 
 With "Traversée", À Terre have done everything right – from the first to the last note. The band puts this into words like this:
 
-> "With our second record, we're diving deeper into our artistic project –on the personal, the musical and also on the technical level."
+> "With our second record, we're diving deeper into our artistic project – on the personal, the musical and also on the technical level."
 
 The band recorded the new EP in no time – just like "Notre Ciel Noir", which the critics loved.
 
