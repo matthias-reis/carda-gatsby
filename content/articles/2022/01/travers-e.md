@@ -32,7 +32,7 @@ languageLink: /2022/01/a-terre-traversee-en/
 ---
 **À Terre haben ihre neue EP "Traversée" fertig. Sie erscheint am 21. Februar in digitaler Form. Die CD folgt am 14. März. Ich konnte es natürlich nicht erwarten, schon mal reinzuhören und möchte Euch die Platte hiermit empfehlen. Eine Hörprobe habe ich natürlich auch für Euch.**
 
-Einigen von Euch dürften À Terre durch mein Interview und meine Vorstellung ihres letzten Tonträgers auf meiner Seite bereits bekannt sein. Die neue Platte hat es wieder ziemlich in sich – Ihr solltet sie also auf alle Fälle hören, egal, ob Ihr bereits überzeugte Fans seid oder noch ganz neu in der zauberhaft düsteren Welt der Band, die sich im Oktober des Jahres 2020 im französischen Aquitaine gründete.
+Einigen von Euch dürften À Terre durch [meine Vorstellung ihres letzten Tonträgers](/2021/05/a-terre-notre-ciel-noir/) auf meiner Seite bereits bekannt sein. Die neue Platte hat es wieder ziemlich in sich – Ihr solltet sie also auf alle Fälle hören, egal, ob Ihr bereits überzeugte Fans seid oder noch ganz neu in der zauberhaft düsteren Welt der Band, die sich im Oktober des Jahres 2020 im französischen Aquitaine gründete.
 
 ## Inspiriert vom historischen Aquitanien
 
