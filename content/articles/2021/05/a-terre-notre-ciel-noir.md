@@ -28,7 +28,7 @@ copyright: ""
 focusKeyword: À Terre
 affiliate: false
 language: de
-languageLink: /a-terre-notre-ciel-noir-en
+languageLink: /2021/05/a-terre-notre-ciel-noir-en/
 ---
 
 **À Terre haben sich dem Post-Metal und Post-Hardcore verschrieben. Die Musiker aus dem französischen Nouvelle-Aquitaine haben mit ihrer selbst veröffentlichten Debüt-EP "Notre Ciel Noir" gleich mal bewiesen, dass sie wissen, wie das Genre funktioniert.**
