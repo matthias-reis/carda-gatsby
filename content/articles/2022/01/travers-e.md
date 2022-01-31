@@ -46,7 +46,7 @@ Sie selbst sagen über "Traversée":
 
 ## Eine zwanzigminütige Reise
 
-Der Schritt in diese düstere und zugleich hochgradig romantische Welt gelingt schon mit den ersten Tönen auf "Traversée". Ich bin sofort mittendrin und habe die zerklüftete und abwechslungsreiche Heimat der Stücke für die nächsten 20 Minuten vor meinem inneren Auge.
+Der Schritt in diese düstere und zugleich hochgradig romantische Welt gelingt schon mit den ersten Tönen auf "Traversée". Ich bin sofort mittendrin und habe die abwechslungsreiche Heimat der Stücke für die nächsten 20 Minuten vor meinem inneren Auge.
 
 Mir gefällt dieser Ausflug sehr gut und ich lasse mich gerne darauf ein, mich für ein paar Augenblicke in diesen nachdenklichen Raum zwischen den Welten zu begeben.
 
