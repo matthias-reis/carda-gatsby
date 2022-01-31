@@ -64,7 +64,7 @@ Mit "Traversée" haben À Terre alles richtig gemacht – von der ersten bis zur
 
 Die neue EP hat die Band in Rekordzeit aufgenommen – genau wie schon "Notre Ciel Noir", das von der Kritik in den höchsten Tönen gelobt wurde.
 
-Im Anschluss an den Erfolg von "Notre Ciel Noir" arbeiteten À Terre bei einem Treffen in der bekannten Musik Location Atabal in Biarritz gemeinsam mit Petit Fantôme und Jean-Michel Labadie von Gojira an ihrer Show. Auch dieser kreative Austausch und die gemeinsame Erfahrung flossen in die neue EP ein, die Ihr ab dem 28. Februar auf den bekannten Musik-Plattformen hören könnt.
+Im Anschluss an den Erfolg von "Notre Ciel Noir" arbeiteten À Terre bei einem Aufeinandertreffen in der bekannten Musik Location Atabal in Biarritz gemeinsam mit Petit Fantôme und Jean-Michel Labadie von Gojira an ihrer Show. Auch dieser kreative Austausch und die gemeinsame Erfahrung flossen in die neue EP ein, die Ihr ab dem 28. Februar auf den bekannten Musik-Plattformen hören könnt.
 
 ## À Terre - Cinquième Colonne
 
