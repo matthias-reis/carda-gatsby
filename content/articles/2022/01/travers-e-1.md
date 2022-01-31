@@ -56,7 +56,7 @@ Gloomy and, at the same time, energetic parts are taking turns to tender interlu
 
 ## Melancholy is important
 
-We all shouldn't forget that melancholy is an essential part of life. Members of projects like Cult of Luna, Amenra, Year Of No Light, Deftones, and Converge, who the five call their idols, also know this very well.
+We all shouldn't forget that melancholy is an essential part of life. Members of projects like Cult of Luna, Amenra, \[Year Of No Light](/2021/05/year-of-no-light-consolamentum-en/), Deftones, and Converge, who the five call their idols, also know this very well.
 
 With "Traversée", À Terre have done everything right – from the first to the last note. The band puts this into words like this:
 
