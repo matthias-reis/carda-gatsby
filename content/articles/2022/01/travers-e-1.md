@@ -32,7 +32,7 @@ languageLink: /2022/01/a-terre-traversee/
 ---
 **À Terre just finished their new EP "Traversée". They are going to release the digital version on February 21st. The CD will follow on March 14th. I was one of the lucky ones who already had the chance to listen to the three songs, and I would now like to recommend them to you.**
 
-Some of you might already know À Terre from my interview and review of their last record on my website. The new one is quite on-point again. You should definitely give it a try – no matter if you are already a fan or still new to the magical dark realm of the band, founded in October 2020 in the Aquitaine, France.
+Some of you might already know À Terre from my review of their last record on my website. The new one is quite on-point again. You should definitely give it a try – no matter if you are already a fan or still new to the magical dark realm of the band, founded in October 2020 in the Aquitaine, France.
 
 ## Inspired by the historical Aquitaine region
 
