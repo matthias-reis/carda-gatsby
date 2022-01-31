@@ -52,7 +52,7 @@ The step into this dark and, at the same time, deeply romantic world already suc
 
 The three songs are more than authentic. To me, they sound open, honest and personal. À Terre reveal a very natural part of themselves that most humans keep to themselves forever – opening the door for a decisive pause of calm and togetherness.
 
-Gloomy and, at the same time, energetic parts are taking turns to tender interludes that are repeatedly shredded and then brought back. The band's emotionally charged playing makes you happy – giving you pleasant shivers when listening to them.
+Gloomy and, at the same time, energetic parts are taking turns to tender interludes that are repeatedly shredded and then brought back. The band's emotionally charged play leaves you deeply happy – giving you pleasant shivers when listening to them.
 
 ## Melancholy is important
 
