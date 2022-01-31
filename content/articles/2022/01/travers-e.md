@@ -38,7 +38,7 @@ Einigen von Euch dürften À Terre durch [meine Vorstellung ihres letzten Tontr�
 
 ![À Terre – "Traversée" Cover (abstrakte Schwarz-Weiß-Zeichnung)](https://storage.googleapis.com/cardamonchai-media/2022-01-31/a-terre-traversee-cover-jpg-imagine-080808_000000_1080_1080/640.webp "À Terre – \"Traversée\"")
 
-Die historische Region in der Südweststrecke Frankreichs, die an Spanien und den Atlantik grenzt, hatte großen Einfluss auf die fünf Bandmitglieder, die alle eine starke Verbindung zu dieser Gegend spüren. Die starken Kontraste der abwechslungsreichen Landschaft, das ozeanische Klima und der Vielfalt historischer und kultureller Schätze Aquitaniens spiegeln sich in den drei Songs auf der neuen EP "Traversée" wider.
+Die historische Region in der Südweststrecke Frankreichs, die an Spanien und den Atlantik grenzt, hatte großen Einfluss auf die fünf Bandmitglieder, die alle eine starke Verbindung zu dieser Gegend spüren. Die starken Kontraste der mystischen und abwechslungsreichen Landschaft, das ozeanische Klima und die Vielfalt der historischen und kulturellen Schätze Aquitaniens spiegeln sich in den drei Songs auf der neuen EP "Traversée" wider.
 
 Ihren charakteristischen Sound, den À Terre bereits beim Vorgänger "Notre Ciel Noir" geprägt haben, greifen sie auf dieser Platte wieder auf und heben ihn auf ein neues Level. Ihr harter und wundervoller Post-Metal lebt von intensiven und leidenschaftlichen Sphären voll hypnotischer Momente und Traumsequenzen.
 
