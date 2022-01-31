@@ -50,7 +50,7 @@ Der Schritt in diese düstere und zugleich hochgradig romantische Welt gelingt s
 
 Mir gefällt dieser Ausflug sehr gut und ich lasse mich gerne darauf ein, mich für ein paar Augenblicke in diesen nachdenklichen Raum zwischen den Welten zu begeben.
 
-Die insgesamt drei Songs sind mehr als authentisch. Für mich klingen sie offen, ehrlich und persönlich. À Terre geben etwas von sich preis, das viele Menschen für immer für sich behalten und öffnen damit die Tür für einen starken Moment der Ruhe und des Zusammengehörigkeitsgefühls.
+Die insgesamt drei Songs sind mehr als authentisch. Für mich klingen sie offen, ehrlich und persönlich. À Terre geben etwas von sich preis, das die meisten Menschen für immer für sich behalten und öffnen damit die Tür für einen starken Moment der Ruhe und des Zusammengehörigkeitsgefühls.
 
 Heftige und energetische Parts werden von zarten Zwischenspielen abgelöst, die immer wieder zerfetzt und anschließend zurückgeholt werden. Das emotionsgeladene Spiel der Band macht nachhaltig glücklich und sorgt beim Hören für wohlige Schauer.
 
