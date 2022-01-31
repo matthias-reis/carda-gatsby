@@ -76,7 +76,7 @@ Is there anything else about the album I shouldn't miss? Do you have a favourite
 
 The message of my album is to **do no harm** to others and yourself. And those are the life values that I try to uphold.
 
-My favourite track is definitely "The Only Thing Left". It is the last track on the album as I feel the lyrics at the end send a powerful message: "Here I stand: No! Here I stand. The Spirit's alive – I couldn't believe it! I always believe the worst! The only the left the Goddess is here!" This message means everything to me.
+My favourite track is definitely "The Only Thing Left". It is the last track on the album as I feel the lyrics at the end send a powerful message: "Here I stand: No! Here I stand. Spirit's ALIVE—I couldn't believe it! I believe the worst! The only thing left, the GODDESS is here!!!" This message means everything to me.
 
 **Anne:** Thanks for these precious insights and all the detail about your new album! I wish you much success with it!
 
