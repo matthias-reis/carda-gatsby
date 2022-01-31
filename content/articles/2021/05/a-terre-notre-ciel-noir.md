@@ -1,14 +1,5 @@
 ---
 date: 2021-05-19T04:00:42.000Z
-labels:
-  - À Terre
-  - Bands
-  - Review
-  - Post-Rock
-  - Post-Metal
-  - Post-Hardcore
-  - English & German
-language: de
 slug: a-terre-notre-ciel-noir
 typeName: Review
 title: À Terre – "Notre Ciel Noir"
@@ -22,11 +13,21 @@ excerpt: À Terre haben sich dem Post-Metal und Post-Hardcore verschrieben. Die
   veröffentlichten Debüt-EP "Notre Ciel Noir" gleich mal bewiesen, dass sie
   wissen, wie das Genre funktioniert.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/a-terre-jpg-imagine-585858_545454_1024_768/640.webp
-copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/a-terre-1-jpg-imagine-080808_505050_1200_628/640.webp
-focusKeyword: À Terre
+labels:
+  - À Terre
+  - Bands
+  - Review
+  - Post-Rock
+  - Post-Metal
+  - Post-Hardcore
+  - English & German
+  - À Terre
 advertisement: false
+copyright: ""
+focusKeyword: À Terre
 affiliate: false
+language: de
 languageLink: /a-terre-notre-ciel-noir-en
 ---
 
