@@ -36,7 +36,7 @@ language: de
 ---
 **Null Prozent Plastik, faire und nachhaltige Herstellung, Langlebigkeit und zeitlose Styles: dafür steht Nordlicht. Ich habe mir jetzt mal zwei Produkte des Slow Fashion Labels aus dem badischen Dossenheim etwas genauer angeschaut – einen Rucksack aus robustem Papier und ein Stirnband. Beide Teile sind Peta approved vegan.**
 
-Was mir gleich als erstes aufgefallen ist, ist die hochwertige Verarbeitung beider Stücke. Man sieht, dass hier sorgfältige Handarbeit im Spiel ist. Das Stirnband ist unglaublich weich und sehr angenehm auf der Haut und auch der kleine Rucksack fühlt sich sehr gut an.
+Was mir gleich als erstes aufgefallen ist, ist die hochwertige Verarbeitung beider Stücke. Man sieht, dass hier sorgfältige Handarbeit im Spiel ist. Das [Stirnband](https://tidd.ly/3Gvs72b) ist unglaublich weich und sehr angenehm auf der Haut und auch der kleine [Rucksack](https://tidd.ly/35UP3LT) fühlt sich sehr gut an.
 
 ## Langlebige Produkte sind nachhaltiger
 
@@ -70,7 +70,7 @@ Falls Ihr Euch fragt, was Bio-Baumwolle von gängiger Baumwolle unterscheidet: F
 
 ## Rucksack Noan
 
-[Meinen Rucksack gibt es in drei Farben](https://tidd.ly/35UP3LT). Ich habe mich für das hübsche Steingrau entschieden. Er ist extrem leicht und schön handlich. Ihr könnt ihn oben mithilfe eines Reißverschlusses schließen. Falls Ihr nicht die komplette Kapazität von 12,5 Litern nutzt, könnt Ihr ihn bis zu den Druckknöpfen zusammenrollen. Dadurch verkleinert Ihr das Volumen auf 10 Liter.
+[Auch meinen Rucksack gibt es in drei Farben](https://tidd.ly/35UP3LT). Ich habe mich für das hübsche Steingrau entschieden. Er ist extrem leicht und schön handlich. Ihr könnt ihn oben mithilfe eines Reißverschlusses schließen. Falls Ihr nicht die komplette Kapazität von 12,5 Litern nutzt, könnt Ihr ihn bis zu den Druckknöpfen zusammenrollen. Dadurch verkleinert Ihr das Volumen auf 10 Liter.
 
 Hinten befindet sich ein praktisches Laptopfach für 13 Zoll Notebooks. Es ist leicht gepolstert, Euer Computer sollte also beim Transport nicht verkratzen. Zwei weitere Einstecktaschen innen bieten genug Platz für Euer Mobiltelefon und kleine praktische Dinge, die Ihr unterwegs braucht. Außerdem gibt es noch ein Stiftfach. Was für mich ein großer Vorteil ist, ist das kleine Außenfach hinten, das über einen weiteren Reißverschluss zugänglich ist. Ich nutze es für meinen Schlüssel und vermeide damit, dass ich lange danach suchen muss.
 
