@@ -58,7 +58,7 @@ Auf synthetische Kunstleder verzichtet Nordlicht nicht nur, weil es wie alle Kun
 
 Alle Materialien werden von einer unabhängigen Stelle geprüft. Sie sind frei von Schadstoffen. Die veganen Produkte von Nordlicht werden aus robustem Segeltuch, Papier und Baumwolle gefertigt. Besonders das Kraftpapier hat es in sich. Es ist viel leichter, als andere Materialien und dennoch wasserbeständig und absolut tragbar.
 
-Versendet werden die Sachen übrigens in einem Graskarton – der hat nachweislich eine wesentlich bessere Umweltbilanz, als gängige Kartons. Den Unterschied habe ich kaum wahrgenommen.
+Versendet werden die Sachen übrigens in einem Graskarton – der hat nachweislich eine wesentlich bessere Umweltbilanz, als gängige Kartons. Haptisch habe ich kaum einen Unterschied wahrgenommen.
 
 <Gallery name="nordlicht-1" />
 
