@@ -10,9 +10,9 @@ description: "Null Prozent Plastik, faire und nachhaltige Herstellung,
   vegane Produkte des Slow Fashion Labels getestet."
 excerpt: "Null Prozent Plastik, faire und nachhaltige Herstellung, Langlebigkeit
   und zeitlose Styles: dafür steht Nordlicht. Ich habe mir jetzt mal zwei vegane
-  Produkte des Slow Fashion Labels aus dem badischen Dossenheim mal etwas
-  genauer angeschaut – einen Rucksack aus robustem Papier und ein Stirnband.
-  Beide Teile sind Peta approved vegan."
+  Produkte des Slow Fashion Labels aus dem badischen Dossenheim etwas genauer
+  angeschaut – einen Rucksack aus robustem Papier und ein Stirnband. Beide Teile
+  sind Peta approved vegan."
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-07/nordlicht-jpg-imagine-080808_6b6c6b_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-07/nordlicht-fb-png-imagine-080808_5d5f5d_1200_628/640.webp
@@ -34,7 +34,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
-**Null Prozent Plastik, faire und nachhaltige Herstellung, Langlebigkeit und zeitlose Styles: dafür steht Nordlicht. Ich habe mir jetzt mal zwei vegane Produkte des Slow Fashion Labels aus dem badischen Dossenheim mal etwas genauer angeschaut – einen Rucksack aus robustem Papier und ein Stirnband. Beide Teile sind Peta approved vegan.**
+**Null Prozent Plastik, faire und nachhaltige Herstellung, Langlebigkeit und zeitlose Styles: dafür steht Nordlicht. Ich habe mir jetzt mal zwei vegane Produkte des Slow Fashion Labels aus dem badischen Dossenheim etwas genauer angeschaut – einen Rucksack aus robustem Papier und ein Stirnband. Beide Teile sind Peta approved vegan.**
 
 Was mir gleich als erstes aufgefallen ist, ist die hochwertige Verarbeitung beider Stücke. Man sieht, dass hier sorgfältige Handarbeit im Spiel ist. Das Stirnband ist unglaublich weich und sehr angenehm auf der Haut und auch der kleine Rucksack fühlt sich sehr gut an.
 
