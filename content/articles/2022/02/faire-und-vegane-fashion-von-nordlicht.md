@@ -52,7 +52,7 @@ Weil ich finde, dass das gut klingt, habe ich mich mit den Produkten auseinander
 
 Um nicht nur leere Worte zu verkaufen, möchte man bei Nordlicht so transparent wie möglich mit Dingen wie der Produktion bei den verschiedenen Partner⋆innen und der Preiskalkulation umgehen. Verarbeitet werden langlebige und recycelbare Naturstoffe wie Segeltuch, Biobaumwolle (daraus besteht auch mein [Stirnband](https://tidd.ly/3Gvs72b)) oder wasserfestem Kraftpapier (wie bei meinem [Rucksack](https://tidd.ly/35UP3LT)). Wenn also wirklich mal etwas ausrangiert werden muss, ist für eine möglichst geringe Belastung der Umwelt gesorgt.
 
-Auf synthetische Kunstleder verzichtet Nordlicht nicht nur, weil es wie alle Kunststoffe auf Erdöl basiert und eine Menge Energie für die Herstellung nötig ist. Auch der Punkt, dass das Material nicht biologisch abbaubar und daher auch nach dem abgeschlossenen Lebenszyklus die Natur noch belastet wird nicht außer Acht gelassen. Die Gründer⋆innen des Start-ups haben sich außerdem dazu entschieden, auch auf recyceltes Plastikmaterial zu verzichten, da beim Recycling-Prozess Mikroplastik in die Umwelt gelangen kann.
+Auf synthetische Kunstleder verzichtet Nordlicht nicht nur, weil es wie alle Kunststoffe auf Erdöl basiert und eine Menge Energie für die Herstellung nötig ist. Auch der Punkt, dass das Material nicht biologisch abbaubar und daher auch nach dem abgeschlossenen Lebenszyklus die Natur noch belastet, wird nicht außer Acht gelassen. Die Gründer⋆innen des Start-ups haben sich außerdem dazu entschieden, auch auf recyceltes Plastikmaterial zu verzichten, da beim Recycling-Prozess Mikroplastik in die Umwelt gelangen kann.
 
 ## Versand im Graskarton
 
