@@ -60,6 +60,8 @@ Alle Materialien werden von einer unabhängigen Stelle geprüft. Sie sind frei v
 
 Versendet werden die Sachen übrigens in einem Graskarton – der hat nachweislich eine wesentlich bessere Umweltbilanz, als gängige Kartons. Den Unterschied habe ich kaum wahrgenommen.
 
+<Gallery name="nordlicht-1" />
+
 ## Stirnband Lene
 
 Das [Stirnband Lene](https://tidd.ly/3Gvs72b) wird zu 100 Prozent aus GOTS zertifizierter Bio-Baumwolle gefertigt. Das Garn stammt aus Italien. Das Band wird im portugiesischen Barcelos hergestellt. Der Stoff kratzt nicht auf der Haut und ist dennoch wunderbar warm und ganz schön kuschelig. Ich nutze das Stirnband gerade dazu, um meinen herauswachsenden Sidecut ein bisschen zu kaschieren. Das gelingt mir ganz gut, oder? Ich mag es sehr gerne. Normalerweise bin ich eine passionierte Mützenträgerin. Ich laufe eigentlich kaum mal ohne Kopfbedeckung draußen rum. Das Band bringt jetzt schön ein bisschen Abwechslung rein. Meine Ohren hält es genauso warm, wie meine geliebten Beanies und ich finde, es ist eine schicke Alternative. Ich fühle mich damit sehr wohl. Ihr könnt zwischen drei Farben wählen, oder gleich alle drei nehmen. Ich habe mich für die klassisch schwarze Variante entschieden.
@@ -79,4 +81,6 @@ Hinten befindet sich ein praktisches Laptopfach für 13 Zoll Notebooks. Es ist l
 Wenn Euer Rucksack mal schmutzig wird, könnt Ihr ihn sogar waschen. Das Material verträgt das gut. Bei kleineren Flecken hilft auch ein feuchtes Tuch.
 
 Insgesamt bin ich rundum zufrieden mit meinem [Stirnband](https://tidd.ly/3Gvs72b) und meinem [Rucksack](https://tidd.ly/35UP3LT). Ich kann mir sehr gut vorstellen, auch noch andere Nordlicht Produkte zu adoptieren und werde den Shop auf jeden Fall im Auge behalten. Besonders, dass die beiden Stücke Peta approved vegan sind und bei der Herstellung auf Nachhaltigkeit geachtet wurde, haben mich überzeugt. Von mir erhaltet Ihr auf jeden Fall eine Empfehlung. Übrigens könnt Ihr im Onlineshop ganz einfach [den Vegan-Filter setzen](https://tidd.ly/3ryUUyW). Auf diese Weise werden Euch ausschließlich die veganen Produkte angezeigt.
+
+<Gallery name="nordlicht-2" />
 
