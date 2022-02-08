@@ -69,7 +69,7 @@ Mit meinem Artikel möchte ich die Geschichte des Weltfrauentages und der Frauen
 
 ## Frauenrechte im Fokus
 
-Der Fokus meiner Recherche lag ganz klar auf der Entwicklung der Frauenrechte. Der Text wird begleitet von einer Galerie aus Bildern, die ich 2012 bei der Sonderausstellung [Frauen](http://www.pinakothek.de/kalender/2012-03-30/20674/frauen) in der Pinakothek der Moderne in München aufgenommen habe. Sie zeigen unbekannte Frauen aus den verschiedensten Ländern, die in unterschiedlichen Jahren für verschiedene Fotografen Modell gestanden haben.
+Der Fokus meiner Recherche lag ganz klar auf der Entwicklung der Frauenrechte. Der Text wird begleitet von einer Galerie aus Bildern, die ich 2012 bei der Sonderausstellung [Frauen](http://www.pinakothek.de/kalender/2012-03-30/20674/frauen) in der Pinakothek der Moderne in München aufgenommen habe. Sie zeigen unbekannte Frauen aus den verschiedensten Ländern, die in unterschiedlichen Jahren für verschiedene Fotograf⋆innen Modell gestanden haben.
 
 Und schon geht es los mit den Fakten. Der Weltfrauentag wurde von den vereinten Nationen ins Leben gerufen. Entstanden ist er im Kampf um das Wahlrecht der Frauen in der Zeit um den Ersten Weltkrieg.
 
