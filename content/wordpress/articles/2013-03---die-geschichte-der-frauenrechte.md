@@ -140,13 +140,13 @@ Am 8. März 1917 streikten in St. Petersburg die Soldaten-, Arbeiter- und Bauern
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAJhAAAgEDBAICAgMAAAAAAAAAAQIDBAURAAYSEyExQWFRcUKR0f/EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAIBEAAgICAQUBAAAAAAAAAAAAAQIAAwQREgUxQVHwIf/aAAwDAQACEQMRAD8A1KKy1tygaakaDgH6z2TcSTgevH3qLNtG6xcpDDFwUZOKkYAH7xrtNTVdw2DVSW+RYKuCpedJHfr4cEBznB+cf1pX3im5rjQbcSDvqLzUrE7ETKlJIyxdrEtnHP8ABCgDJGSDqdx+mVW1Kzb2fvUfv6lbVayrrQ+9yVUoaaokhmRllQ4YKwYesjyPfgjRpX3I01su0lEuSadIoSQ2fKxID5/edGibMPi5A7Axqq7mise5AjBd91ratrQ0aB1FRLMxKAEtjAx+NZNSblq6m628z3Wpoquz9htyhAyGQY4xNgZCug4+z7x6OnC80sVypVhqHKxxnKdbYOTknz8e9U9v2/brZeqW5x9k1RTsHVKhuSFgCASBjOPY+wNUONl1V1qh3+CTuTh22WM41omXW4blT3W8VNwpIxJBVMJo2z/FlUj/ADRqhpIYbfRwUcbO0cC8FLHzj70aOdeTFh5JilbcEVT4An//2Q=="
 />
 
-Außerdem gibt es Quellen, die beschreiben, dass Lenin den 8. März zum Frauentag erklärte, wozu ihm von einigen Vorkämpferinnen geraten worden war.
+Außerdem gibt es Quellen, die beschreiben, dass Lenin den 8. März zum Frauentag erklärte, wozu ihm von einigen Vorkämpfer⋆innen geraten worden war.
 
 ## Fand das nicht alles viel später in den USA statt?
 
-Nachdem während der Zeit des kalten Krieges die kommunistisch-sozialistische Weltanschauung immer unpopulärer geworden war, entstand eine neue Geschichte um die Entstehung des Frauentages in deren Mittelpunkt der Streik einiger Textilarbeiterinnen in New York stand.
+Nachdem während der Zeit des kalten Krieges die kommunistisch-sozialistische Weltanschauung immer unpopulärer geworden war, entstand eine neue Geschichte um die Entstehung des Frauentages in deren Mittelpunkt der Streik einiger Textilarbeiter⋆innen in New York stand.
 
-Die Arbeiterinnen sollen am 8. März 1857 für eine bessere Bezahlung und menschlichere Arbeitsverhältnisse auf die Straße gegangen und dabei von Polizisten niedergeschlagen worden sein. Fünfzig Jahre nach diesem Vorfall hatte man sich erstmals wieder daran erinnert.
+Die Arbeiter⋆innen sollen am 8. März 1857 für eine bessere Bezahlung und menschlichere Arbeitsverhältnisse auf die Straße gegangen und dabei von Polizisten niedergeschlagen worden sein. Fünfzig Jahre nach diesem Vorfall hatte man sich erstmals wieder daran erinnert.
 
 ## Die Nazis verboten den Weltfrauentag - Frauenrechte in Gefahr
 
