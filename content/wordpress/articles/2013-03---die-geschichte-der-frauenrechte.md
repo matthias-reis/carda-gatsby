@@ -77,7 +77,7 @@ Und schon geht es los mit den Fakten. Der Weltfrauentag wurde von den vereinten 
 
 Im August 1910 schlug die deutsche Sozialisten Clara Zetkin auf der Internationalen Sozialistischen Frauenkonferenz in Kopenhagen die Einführung eines solchen Tages vor. Ein genaues Datum war zu diesem Zeitpunkt noch nicht im Gespräch.
 
-Clara Zetkin hat diese Idee von den Frauen der Sozialistischen Partei Amerikas übernommen, die 1908 ein nationales Frauenkomitee gegründet hatten. Dieses hatte beschlossen einen nationalen Kampftag für die Frauenrechte einzuführen.
+Clara Zetkin übernahm diese Idee von den Frauen der Sozialistischen Partei Amerikas, die 1908 ein nationales Frauenkomitee gegründet hatten. Dieses hatte beschlossen einen nationalen Kampftag für die Frauenrechte einzuführen.
 
 ## Frauenrechte in Amerika - Der erste Weltfrauentag
 
