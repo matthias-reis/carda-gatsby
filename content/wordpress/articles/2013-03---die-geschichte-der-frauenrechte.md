@@ -46,7 +46,7 @@ language: de
 
 **Heute sollen die Rechte aller Frauen im Mittelpunkt stehen. Weltweit wird der Internationale Frauentag gefeiert. Zeit für einen kleinen Ausflug in die Geschichte und eine Bestandsaufnahme.**
 
-Bevor es losgeht, noch ein Satz: Frauen sind alle, die sich als Frauen identifizieren! Der Kampf für die Rechte von Transfrauen gehört also genauso zum Weltfrauentag.
+Bevor es losgeht, noch ein Satz: Frauen sind alle, die sich als Frauen identifizieren! Der Kampf für die Rechte von Transfrauen und Nichtbinären Personen gehört also genauso zum intersektionalen Feminismus und somit zum Weltfrauentag.
 
 ![Frauen sind alle, die sich als Frauen definieren.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/regenbogen-jpg-imagine-5898f8_5086d7_1080_1080/640.webp 'Frauen sind alle, die sich als Frauen definieren.')
 
@@ -179,7 +179,7 @@ In Berlin vergibt die Frauensenatorin Dilek Kolat (SPD) im Ludwig Ehrhard-Haus d
 
 ## Kampf für die Rechte von Transfrauen
 
-Die Rechte von Transfrauen sollten auf keinen Fall vergessen werden. Moderner, echter Feminismus bedeutet auch der Kampf für LQBTQ⋆ Rights. Noch heute sehen sich Trans⋆Personen immer wieder Angriffen ausgesetzt. Gerade Feminist⋆innen sollten sich dem entgegenstellen und für die Rechte **aller** Frauen kämpfen.
+Die Rechte von Transfrauen sollten auf keinen Fall vergessen werden. Moderner, intersektionaler, echter Feminismus bedeutet auch der Kampf für LQBTQ⋆ Rights. Noch heute sehen sich Trans⋆Personen immer wieder Angriffen ausgesetzt. Gerade Feminist⋆innen sollten sich dem entgegenstellen und für die Rechte **aller** Frauen kämpfen.
 
 In den sozialen Netzwerken nimmt die Transmisogynie sogar zu. Der Hass gegenüber Trans⋆Personen ist vielschichtig und traurigerweise sogar in feministischen Kreisen verbreitet. TERFs (Trans-Exclusionary Radical Feminsts) organisieren sich in Gruppen und fordern den Ausschluss von Transpersonen.
 
