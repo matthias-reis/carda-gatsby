@@ -90,7 +90,7 @@ Clara Zetkin übernahm diese Idee von den Frauen der Sozialistischen Partei Amer
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKhAAAQMDAwIGAgMAAAAAAAAAAQIDBAUREgAGIQdBExQiMWFxctGRksH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBP/EABwRAAIDAAMBAAAAAAAAAAAAAAECAAMEESExEv/aAAwDAQACEQMRAD8AvoG3qlXoBlRpEJlvNbeL2d7i3PA1xu9PKsknKp08DuEoX+tOnT90HbGZsE+YdJ7Cwtpb2xvmNXqw9CbddVmyHW/FSE+u5KkCwFxbkfR0Hmw1GsNx6I5o32pYVB6BiVuOlKoUxqNKkNuqW2HAWwoC1yLc/WjU/WWQY9Vpqr2zjkfws/vRqS7P8uQvkSz6DZWGb2McarKpPTB10rALk1TKlKB4QpQy9u+IIH3rOJVRjxYtDq8BIZ8ebMcyTwcEOpCR9BPb5OriduHLYFSoTKF+bk5JC1AeGEqUkn59ge2s/daqSaMzCcmoUGJCnWkWulsKT67G17kgce3GmKLEWtQT3AdFNjWswHXM0XrWA7KpK08jB0D+wP8AujS7vbckfcHkg3HfbMfMEuFPqyx9rfjo1LaAzkiX52ZKwpn/2Q=="
 />
 
-Der erste Frauentag, der im Februar 1909 in Amerika stattfand, zog Frauen aus allen Schichten an, auch die bürgerlichen Frauenrechtlerinnen schlossen sich den Demonstrationen an. Sofort wurde beschlossen, diesen Protesttag zu wiederholen. Im Februar 2010 fand er erneut statt.
+Der erste Frauentag, der im Februar 1909 in Amerika stattfand, zog Frauen aus allen Schichten an, auch die bürgerlichen Frauenrechtler⋆innen schlossen sich den Demonstrationen an. Sofort wurde beschlossen, diesen Protesttag zu wiederholen. Im Februar 2010 fand er erneut statt.
 
 Die Amerikanische Frauenrechtlerin May Wood-Simons brachte die Idee mit in die Niederlande. Dort wurde sie von Käte Duncker und Clara Zetkin übernommen.
 
