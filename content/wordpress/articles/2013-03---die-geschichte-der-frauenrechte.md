@@ -73,11 +73,11 @@ Der Fokus meiner Recherche lag ganz klar auf der Entwicklung der Frauenrechte. D
 
 Und schon geht es los mit den Fakten. Der Weltfrauentag wurde von den vereinten Nationen ins Leben gerufen. Entstanden ist er im Kampf um das Wahlrecht der Frauen in der Zeit um den Ersten Weltkrieg.
 
-## Clara Zetin übernahm die Idee aus Amerika
+## Clara Zetkin übernahm die Idee aus Amerika
 
 Im August 1910 schlug die deutsche Sozialisten Clara Zetkin auf der Internationalen Sozialistischen Frauenkonferenz in Kopenhagen die Einführung eines solchen Tages vor. Ein genaues Datum war zu diesem Zeitpunkt noch nicht im Gespräch.
 
-Clara Zetin hat diese Idee von den Frauen der Sozialistischen Partei Amerikas übernommen, die 1908 ein nationales Frauenkomitee gegründet hatten. Dieses hatte beschlossen einen nationalen Kampftag für die Frauenrechte einzuführen.
+Clara Zetkin hat diese Idee von den Frauen der Sozialistischen Partei Amerikas übernommen, die 1908 ein nationales Frauenkomitee gegründet hatten. Dieses hatte beschlossen einen nationalen Kampftag für die Frauenrechte einzuführen.
 
 ## Frauenrechte in Amerika - Der erste Weltfrauentag
 
