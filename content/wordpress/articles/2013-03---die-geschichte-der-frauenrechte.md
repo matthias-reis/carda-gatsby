@@ -102,9 +102,9 @@ Am 19. März 1911 fand der erste Frauentag in Deutschland, Österreich, der Schw
 
 ## Hauptthema der Proteste: Das Frauenwahlrecht
 
-Hauptthema der Proteste war das Frauenwahlrecht. Bis zu diesem Zeitpunkt war es noch nicht durchgesetzt worden. Die SPD sah in der Einführung des Frauenwahlrechts die Chance, mehr Mitglieder zu gewinnen. Die Partei unterstützte die Aktivistinnen daher von Anfang an.
+Hauptthema der Proteste war das Frauenwahlrecht. Bis zu diesem Zeitpunkt war es noch nicht durchgesetzt worden. Die SPD sah in der Einführung des Frauenwahlrechts die Chance, mehr Mitglieder zu gewinnen. Die Partei unterstützte die Aktivist⋆innen daher von Anfang an.
 
-Die Zahl der Mitglieder wuchs rasch an. Auch die sozialistische Frauenzeitung Die Gleichheit konnte innerhalb eines Jahres nahezu 10.000 neue Abonnentinnen verzeichnen.
+Die Zahl der Mitglieder wuchs rasch an. Auch die sozialistische Frauenzeitung Die Gleichheit konnte innerhalb eines Jahres nahezu 10.000 neue Abonnent⋆innen verzeichnen.
 
 ## Rege Beteiligung
 
@@ -117,19 +117,19 @@ Die Zahl der Mitglieder wuchs rasch an. Auch die sozialistische Frauenzeitung Di
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEGBQP/xAAqEAACAQMCBQMEAwAAAAAAAAABAgMEBREABhITITFBFCJCFTNRkWGBsv/EABYBAQEBAAAAAAAAAAAAAAAAAAUGBP/EACARAAIBAwUBAQAAAAAAAAAAAAECAwAEEQUhMVHwEmH/2gAMAwEAAhEDEQA/AKhbVdbpTtPSxs8Idl4uNF93nuc+dcV23eFIElM5J6DMqD+u+t21VcZ2RUGatqKWMyy8c9MoaRVGC3DnzgEA+M6jYpdr0F5tsW3vqFLWOn3fWSShvk0UySDhYEBvch6MOmp+DTIpIwxyM+6p6fU5YpCoxt7uncaZ6KskpqmNlnjxxDOcZGR1Hfvo1l74usyboqsMRlIicDOfYNGjpLQq5UcA0tFP9orHkgVuXKrSDalvjIhcVFZLGoZT1xjIGP4Ooe7S3qovcqT09TNyQBLLFIX57qCEdjj4qx/eqVr3bZtrNZ7rQ1E6mZpknhm5bxP4ZGxkMNR8rO0/Jrrreqq1DqaXnrG8n5DSAdR28frT1vcRJGqk74qeuLWZ5WYLsT+U62pef09RIZWM0KupZ8krkqP8nRp7lvUVyuEU1JRiigjgSnSBW4gqpkDHQfnRrHJhnJFJw5WNVbkCv//Z"
 />
 
-1912 fand der Frauentag am 12. Mai mit einer noch größeren Beteiligung statt. 1917 wurde nach Protesten in den eigenen Reihen von enttäuschten Sozialisten die USPD (Unabhänige Sozialdemokratische Partei Deutschlands) gegründet. Diese beschlossen die Fortführung des Internationalen Frauentages.
+1912 fand der Frauentag am 12. Mai mit einer noch größeren Beteiligung statt. 1917 wurde nach Protesten in den eigenen Reihen von enttäuschten Sozialist⋆innen die USPD (Unabhänige Sozialdemokratische Partei Deutschlands) gegründet. Diese beschlossen die Fortführung des Internationalen Frauentages.
 
-1918 wurde der Frauentag am 100. Geburtstag von Karl Marx, dem 5. Mai gefeiert. Am 12 November 1918 wurde von der provisorischen Regierung das freie, geheime, aktive und passive Wahlrecht für Frauen und Männer ab 20 Jahren beschlossen. Somit wurden die Forderungen des Internationalen Frauentages in Deutschland erfüllt.
+1918 wurde der Frauentag am 100. Geburtstag von Karl Marx, dem 5. Mai gefeiert. Am 12 November 1918 wurde von der provisorischen Regierung das freie, geheime, aktive und passive Wahlrecht für alle Menschen ab 20 Jahren beschlossen. Somit wurden die Forderungen des Internationalen Frauentages in Deutschland erfüllt.
 
 ## Was passierte nach dem Ersten Weltkrieg?
 
-Während des Ersten Weltkrieges wurde der Frauentag wurde durch die Aufteilung der Sozialistinnen in SPD und KPD gespalten. Die SPD hatte für die Feier ihres Frauentages kein festes Datum, die KPD feierte am 8. März.
+Während des Ersten Weltkrieges wurde der Frauentag wurde durch die Aufteilung der Sozialist⋆innen in SPD und KPD gespalten. Die SPD hatte für die Feier ihres Frauentages kein festes Datum, die KPD feierte am 8. März.
 
 Zu den Forderungen der Frauen gehörten jetzt die Senkung der Lebensmittelpreise, eine regelmäßige Schulspeisung und die Legalisierung von Abtreibungen.
 
 ## Wie kam es nun dazu, dass der 8. März offiziell zum Internationalen Frauentag erklärt wurde?
 
-Am 8. März 1917 streikten in St. Petersburg die Soldaten-, Arbeiter- und Bauernfrauen und lösten damit die Februar-Revolution aus. Zu Ehren dieser Frauen wurde in Moskau auf der Internationalen Konferenz kommunistischer Frauen 1921 der 8. März zum internationalen Gedenktag erklärt. Der Vorschlag dazu stammte von der bulgarischen Delegation.
+Am 8. März 1917 streikten in St. Petersburg die Soldaten-, Arbeiter- und Bauernfrauen und lösten damit die Februar-Revolution aus. Ihnen zu Ehren wurde in Moskau auf der Internationalen Konferenz kommunistischer Frauen 1921 der 8. März zum internationalen Gedenktag erklärt. Der Vorschlag dazu stammte von der bulgarischen Delegation.
 
 <RemoteImage
   alt={`Frauenrechte`}
