@@ -46,7 +46,7 @@ language: de
 
 **Heute sollen die Rechte aller Frauen im Mittelpunkt stehen. Weltweit wird der Internationale Frauentag gefeiert. Zeit für einen kleinen Ausflug in die Geschichte und eine Bestandsaufnahme.**
 
-Bevor es losgeht, noch ein Satz: Frauen sind alle, die sich als Frauen definieren! Der Kampf für die Rechte von Transfrauen gehört also genauso zum Weltfrauentag.
+Bevor es losgeht, noch ein Satz: Frauen sind alle, die sich als Frauen identifizieren! Der Kampf für die Rechte von Transfrauen gehört also genauso zum Weltfrauentag.
 
 ![Frauen sind alle, die sich als Frauen definieren.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/regenbogen-jpg-imagine-5898f8_5086d7_1080_1080/640.webp 'Frauen sind alle, die sich als Frauen definieren.')
 
