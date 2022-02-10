@@ -37,8 +37,6 @@ Die erste vorausgekoppelte Single trägt den Namen des Albums. Der Clip dazu ent
 
 ## "The Swan" und "The death of Death" heißen die ersten Vorauskopplungen
 
-![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-jpg-imagine-080808_520d10_440_440/640.webp "Playgrounded – \\"The death of Death\\"")
-
 Michael Kotsirakis von Playgrounded erzählte gegenüber Pelagic Records: 
 
 > "Dimitris hatte die Idee, eine Art Bewegungsstudie mit frühen Kinotechniken zu realisieren – inspiriert von der dialektischen Lyrik von Orestis, die die beiden anschließend ins Drehbuch für das Videos aufnahmen. Yannis düstere Bilder tun ihr übriges und erforschen die Bewegung in Widersprüchen aus schwarz und weiß, klarer Richtung und Diffusion, Entfremdung und Kampf, Stille und Leben."
@@ -53,7 +51,7 @@ Insgesamt sind sechs Stücke drauf auf "The death of Death" – eines tiefgrün
 
 ## Die Leidenschaft fürs Komponieren
 
-![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-vinyl-jpg-imagine-f8f8f8_b79698_1024_768/640.webp "Playgrounded – \\"The death of Death\\"")
+![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-jpg-imagine-080808_520d10_440_440/640.webp "Playgrounded – \\"The death of Death\\"")
 
 Eingängige Riffs und Melodien liegen über einem vielschichtigen Geflecht durchdachter Rhythmus- und Synthesizer-Welten. Das sorgt für ein meisterhaftes, progressives Gesamtbild – harmonisch, schön und abwechslungsreich. Oder wie Orestis es beschreibt:
 
@@ -62,6 +60,8 @@ Eingängige Riffs und Melodien liegen über einem vielschichtigen Geflecht durch
 Die Aufnahmen fertige Nikos Michalodimitrakis in den MD Recording Studios an. Das Mixing machte Christer André Cederberg in Kristiansand. Der Norweger hat unter anderem auch schon mit Anathema und Leprous zusammengearbeitet. Um das Mastering kümmerte sich George Tanderø, der auch die Musik von Madrugada und Satyricon bearbeitet, in Oslo.
 
 ## Ein beeindruckender Background
+
+![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-vinyl-jpg-imagine-f8f8f8_b79698_1024_768/640.webp "Playgrounded – \\"The death of Death\\"")
 
 Der Background der Band ist ziemlich spannend: Produzent und Haupt-Songschreiber Orestis Zafeirou studierte am Königlichen Konservatorium von Den Haag Sonologie, die Lehre des Tons. Seine Ausbildung konzentrierte sich auf elektronische Musik und Produktionsforschung. Nebenbei arbeitete er in einer Synthesizer-Fabrik. Sänger und Co-Producer Stavros Markonis absolvierte sein Studium am Amsterdamer Konservatorium. Sein Name dürfte Euch möglicherweise schon bekannt sein: Er ist ein preisgekrönter Komponist für Filmmusik. Bassist Odysseas Zafeiriou und der Gitarrist Michael Kotsirakis sind Computeringenieure. Schlagzeuger Giorgos Pouliasis besuchte das Rotterdamer Konservatorium. Er ist Schlagzeuglehrer und hat sich in Griechenland und den Niederlanden einen Namen als Studiomusiker gemacht.
 
