@@ -66,6 +66,6 @@ Nikos Michalodimitrakis did the recordings at MD Recording Studios. Christer And
 
 The band's background is quite exciting: producer and primary songwriter Orestis Zafeirou studied sonology, the study of sound, at the Royal Conservatory of The Hague. His education focused on electronic music and production research. He also worked in a synthesiser factory. Singer and co-producer Stavros Markonis graduated from the Amsterdam Conservatory. You may have already stumbled over his name: he is a well-known, award-winning film music composer. Bassist Odysseas Zafeiriou and guitarist Michael Kotsirakis are computer engineers. Drummer Giorgos Pouliasis attended the Rotterdam Conservatory. He is a drum teacher and has made a name for himself as a studio musician in Greece and the Netherlands.
 
-Playgrounded have been making music for 15 years and have toured the world together. They founded the band in 2007 and already played concerts with projects like [Nine Inch Nails](LINK), Riverside and Anathema.
+Playgrounded have been making music for 15 years and have toured the world together. They founded the band in 2007 and already played concerts with projects like Nine Inch Nails, Riverside and Anathema.
 
 You can listen to the album on all known music platforms. [Pelagic has listed the links here](https://listen.pelagic-records.com/playgrounded).
