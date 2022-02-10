@@ -36,8 +36,6 @@ The first single is also called "The death of Death". Playgrounded created the v
 
 ## A very special video
 
-![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-jpg-imagine-080808_520d10_440_440/640.webp "Playgrounded – \\"The death of Death\\"")
-
 Michael Kotsirakis of Playgrounded told Pelagic Records: 
 
 > Dimitris's idea about a "study of movement" materialised in early cinema techniques, inspired by Orestis' dialectical lyrics concept, which they eventually adapted into the clip's script. Karabatsos' sinister photography explores movement in contradictions: black and white, direction and diffusion, alienation and struggle, stillness and life."
@@ -52,7 +50,7 @@ There are six tracks on "The death of Death", – which follows a pretty brillia
 
 ## The passion of composing
 
-![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-vinyl-jpg-imagine-f8f8f8_b79698_1024_768/640.webp "Playgrounded – \\"The death of Death\\"")
+![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-jpg-imagine-080808_520d10_440_440/640.webp "Playgrounded – \\"The death of Death\\"")
 
 The Greek band, which spends most of its time in Haarlem, NL, has created something extraordinary – you can feel their passion for composing in every note.
 
@@ -63,6 +61,8 @@ Catchy riffs and melodies lie over a multi-layered mesh of well-thought-out rhyt
 Nikos Michalodimitrakis did the recordings at MD Recording Studios. Christer André Cederberg mastered "The death of Death" in Kristiansand. The Norwegian has also worked with Anathema and Leprous, among others. George Tanderø, who also works on the music of Madrugada and Satyricon, took care of the mastering in Oslo.
 
 ## A fascinating background
+
+![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-vinyl-jpg-imagine-f8f8f8_b79698_1024_768/640.webp "Playgrounded – \\"The death of Death\\"")
 
 The band's background is quite exciting: producer and primary songwriter Orestis Zafeirou studied sonology, the study of sound, at the Royal Conservatory of The Hague. His education focused on electronic music and production research. He also worked in a synthesiser factory. Singer and co-producer Stavros Markonis graduated from the Amsterdam Conservatory. You may have already stumbled over his name: he is a well-known, award-winning film music composer. Bassist Odysseas Zafeiriou and guitarist Michael Kotsirakis are computer engineers. Drummer Giorgos Pouliasis attended the Rotterdam Conservatory. He is a drum teacher and has made a name for himself as a studio musician in Greece and the Netherlands.
 
