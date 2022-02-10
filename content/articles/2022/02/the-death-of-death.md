@@ -33,7 +33,7 @@ languageLink: /2022/02/playgrounded-the-death-of-death-en/
 ---
 **Das neue Playgrounded Album "The death of Death" ist eine Studie der Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung widersprüchlicher Aspekte der Realität und soll ein Ausdruck ihrer Beziehung zueinander sein. Die Platte erscheint am 1. März und verdient defintiv Aufmerksamkeit.**
 
-Die erste vorausgekoppelte Single trägt den Namen des Albums. Der Clip dazu entstand in Zusammenarbeit mit Regisseur Dimitris Anagnostou und Kameramann Yannis Karabatsos. Das Duo erschuf bereits den preisgekrönten Kurzfilm "Mare Nostrum", für das Stavros die Musik komponierte.
+Die erste vorausgekoppelte Single trägt den Namen des Albums. Der Clip dazu entstand in Zusammenarbeit mit Regisseur Dimitris Anagnostou und Kameramann Yannis Karabatsos. Das Duo erschuf bereits den preisgekrönten Kurzfilm "Mare Nostrum", für das Sänger Stavros die Musik komponierte.
 
 ## "The Swan" und "The death of Death" heißen die ersten Vorauskopplungen
 
