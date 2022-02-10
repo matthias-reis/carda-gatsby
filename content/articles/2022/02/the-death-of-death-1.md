@@ -32,11 +32,11 @@ languageLink: /2022/02/playgrounded-the-death-of-death/
 ---
 **The new Playgrounded album "The death of Death" is a study of unity in opposition. It is about revealing contradictory aspects of reality. The band sees it as a disclosure of contradictory aspects of reality and an expression of their mutual relationship.**
 
-The first single is also called "The death of Death". Playgrounded created the video for it in collaboration with director Dimitris Anagnostou and cameraman Yannis Karabatsos. The duo already made the award-winning short film "Mare Nostrum", for which Stavros composed the music.
+The first single is also called "The death of Death". Playgrounded created the video for it in collaboration with director Dimitris Anagnostou and cameraman Yannis Karabatsos. The duo already made the award-winning short film "Mare Nostrum", for which singer Stavros composed the music.
 
 ## A very special video
 
-![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-jpg-imagine-080808_520d10_440_440/640.webp "Playgrounded – \"The death of Death\"")
+![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-jpg-imagine-080808_520d10_440_440/640.webp "Playgrounded – \\"The death of Death\\"")
 
 Michael Kotsirakis of Playgrounded told Pelagic Records: 
 
@@ -52,7 +52,7 @@ There are six tracks on "The death of Death", – which follows a pretty brillia
 
 ## The passion of composing
 
-![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-vinyl-jpg-imagine-f8f8f8_b79698_1024_768/640.webp "Playgrounded – \"The death of Death\"")
+![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-vinyl-jpg-imagine-f8f8f8_b79698_1024_768/640.webp "Playgrounded – \\"The death of Death\\"")
 
 The Greek band, which spends most of its time in Haarlem, NL, has created something extraordinary – you can feel their passion for composing in every note.
 
