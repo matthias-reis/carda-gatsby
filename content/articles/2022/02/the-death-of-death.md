@@ -11,7 +11,7 @@ description: Das neue Playgrounded Album "The death of Death" ist eine Studie
 excerpt: Das neue Playgrounded Album "The death of Death" ist eine Studie der
   Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung
   widersprüchlicher Aspekte der Realität und soll ein Ausdruck ihrer Beziehung
-  zueinander sein. Die Platte erscheint am 1. März und verdient definitiv
+  zueinander sein. Die Platte erscheint am 18. März und verdient definitiv
   Aufmerksamkeit.
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-10/playgrounded-the-death-of-death-jpg-imagine-080808_110f0e_1024_768/640.webp
 copyrigt: Playgrounded
@@ -31,7 +31,7 @@ affiliate: false
 language: de
 languageLink: /2022/02/playgrounded-the-death-of-death-en/
 ---
-**Das neue Playgrounded Album "The death of Death" ist eine Studie der Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung widersprüchlicher Aspekte der Realität und soll ein Ausdruck ihrer Beziehung zueinander sein. Die Platte erscheint am 1. März und verdient defintiv Aufmerksamkeit.**
+**Das neue Playgrounded Album "The death of Death" ist eine Studie der Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung widersprüchlicher Aspekte der Realität und soll ein Ausdruck ihrer Beziehung zueinander sein. Die Platte erscheint am 18. März und verdient defintiv Aufmerksamkeit.**
 
 Die erste vorausgekoppelte Single trägt den Namen des Albums. Der Clip dazu entstand in Zusammenarbeit mit Regisseur Dimitris Anagnostou und Kameramann Yannis Karabatsos. Das Duo erschuf bereits den preisgekrönten Kurzfilm "Mare Nostrum", für das Sänger Stavros die Musik komponierte.
 
