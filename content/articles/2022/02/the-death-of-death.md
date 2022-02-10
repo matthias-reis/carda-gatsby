@@ -6,10 +6,10 @@ title: '"The death of Death"'
 subTitle: Das neue Album von Playgrounded
 seoTitle: Playgrounded – "The death of Death" – Prog Review
 description: Das neue Playgrounded Album "The death of Death" ist eine Studie
-  über die Einheit der Gegensätzlichkeiten. Eine geniale Platte mit einem
+  der Einheit der Gegensätzlichkeiten. Eine geniale Platte mit einem
   faszinierenden Background erwartet Euch.
-excerpt: Das neue Playgrounded Album "The death of Death" ist eine Studie über
-  die Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung
+excerpt: Das neue Playgrounded Album "The death of Death" ist eine Studie der
+  Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung
   widersprüchlicher Aspekte der Realität und soll ein Ausdruck ihrer Beziehung
   zueinander sein. Die Platte erscheint am 1. März und verdient definitiv
   Aufmerksamkeit.
@@ -31,13 +31,13 @@ affiliate: false
 language: de
 languageLink: /2022/02/playgrounded-the-death-of-death-en/
 ---
-**Das neue Playgrounded Album "The death of Death" ist eine Studie über die Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung widersprüchlicher Aspekte der Realität und soll ein Ausdruck ihrer Beziehung zueinander sein. Die Platte erscheint am 1. März und verdient defintiv Aufmerksamkeit.**
+**Das neue Playgrounded Album "The death of Death" ist eine Studie der Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung widersprüchlicher Aspekte der Realität und soll ein Ausdruck ihrer Beziehung zueinander sein. Die Platte erscheint am 1. März und verdient defintiv Aufmerksamkeit.**
 
 Die erste vorausgekoppelte Single trägt den Namen des Albums. Der Clip dazu entstand in Zusammenarbeit mit Regisseur Dimitris Anagnostou und Kameramann Yannis Karabatsos. Das Duo erschuf bereits den preisgekrönten Kurzfilm "Mare Nostrum", für das Stavros die Musik komponierte.
 
 ## "The Swan" und "The death of Death" heißen die ersten Vorauskopplungen
 
-![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-jpg-imagine-080808_520d10_440_440/640.webp "Playgrounded – \"The death of Death\"")
+![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-jpg-imagine-080808_520d10_440_440/640.webp "Playgrounded – \\"The death of Death\\"")
 
 Michael Kotsirakis von Playgrounded erzählte gegenüber Pelagic Records: 
 
@@ -53,7 +53,7 @@ Insgesamt sind sechs Stücke drauf auf "The death of Death" – eines tiefgrün
 
 ## Die Leidenschaft fürs Komponieren
 
-![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-vinyl-jpg-imagine-f8f8f8_b79698_1024_768/640.webp "Playgrounded – \"The death of Death\"")
+![Playgrounded – "The death of Death"](https://storage.googleapis.com/cardamonchai-media/2022-02-10/the-death-of-death-playgrounded-vinyl-jpg-imagine-f8f8f8_b79698_1024_768/640.webp "Playgrounded – \\"The death of Death\\"")
 
 Eingängige Riffs und Melodien liegen über einem vielschichtigen Geflecht durchdachter Rhythmus- und Synthesizer-Welten. Das sorgt für ein meisterhaftes, progressives Gesamtbild – harmonisch, schön und abwechslungsreich. Oder wie Orestis es beschreibt:
 
