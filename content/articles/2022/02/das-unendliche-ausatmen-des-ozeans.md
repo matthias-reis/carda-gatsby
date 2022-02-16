@@ -31,6 +31,7 @@ labels:
   - Bands
   - Score
   - Soundtrack
+  - Merigold Independent
 focusKeyword: Filmmusik
 advertisement: false
 affiliate: false
