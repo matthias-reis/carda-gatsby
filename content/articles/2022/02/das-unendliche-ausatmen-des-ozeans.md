@@ -2,7 +2,7 @@
 date: 2022-02-16T15:25:00.744Z
 slug: filmmusik-caminauta-interview
 typeName: Interview
-title: '"Das unendliche Ausatmen des Ozeans"'
+title: '"Das endlose Ausatmen des Ozeans"'
 subTitle: Filmmusik-Komponistin und Ambient-Künstlerin Caminauta im Interview
 seoTitle: Filmmusik-Komponistin und Ambient-Künstlerin Caminauta im Interview
 description: Caminauta heißt mit bürgerlichem Namen Camila. Die Künstlerin aus
@@ -51,7 +51,7 @@ Ich habe die Künstlerin über das Label, bei dem sie gerade ihr neuestes Stück
 
 **Anne:** Möchtest Du mir die Geschichte hinter "As The Seas Exhale" verraten? Du hast mir erzählt, dass es viel mit Filmen, Deinem Leben an einem abgelegenen Strand und Deinen ausgedehnten Spaziergängen dort zu tun hat? Ich finde, das klingt aufregend!
 
-**Camila:** "As The Seas Exhales" ist aus meiner Inspiration aus meinen Spaziergängen und Beobachtungen am Meer entstanden. Ich wollte meine innere Beziehung zu dem ausdrücken, was mich umgibt und wie sich das Leben anfühlt. Jedes Mal, wenn ich auf das Meer schaue, scheint da dieses unendliche Ausatmen zu sein. Es ist für mich ständig präsent.
+**Camila:** "As The Seas Exhales" ist aus meiner Inspiration aus meinen Spaziergängen und Beobachtungen am Meer entstanden. Ich wollte meine innere Beziehung zu dem ausdrücken, was mich umgibt und wie sich das Leben anfühlt. Jedes Mal, wenn ich auf das Meer schaue, scheint da dieses endlose Ausatmen zu sein. Es ist für mich ständig präsent.
 
 **Anne:** Caminauta verbindet die Welt der Filmmusik mit der Ambient-/Experimental-Welt. Was zeichnet die beiden Welten aus? Würden Sie sagen, dass sie im Laufe der Jahre zusammengewachsen sind? Oder ist es eher umgekehrt: Hast Du irgendwann beschlossen, sie stärker voneinander zu trennen?
 
