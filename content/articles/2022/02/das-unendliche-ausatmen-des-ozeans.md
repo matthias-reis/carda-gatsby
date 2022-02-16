@@ -41,7 +41,7 @@ languageLink: /2021/caminauta-interview-en/
 
 Ich habe die Künstlerin über das Label, bei dem sie gerade ihr neuestes Stück auf Platte veröffentlicht hat, kennengelernt. Die Film- und  Ambient-Komponistin aus Uruquay ist nämlich bei [Samuel Laubschers (Of The Vine)](/2020/05/of-the-vine/) Merigold Independent untergekommen. Sie macht schon sehr lange Musik und fasziniert mit ihrer Kunst nicht nur Filmfans. Ihr neuestes Werk "As The Seas Exhale" erscheint just in dem Moment, in dem ich diese Zeilen schreibe.
 
-**Anne:** Hallo! Danke, dass Du Dir die Zeit für dieses Interview nimmst! Es ist so schön, endlich die Frau hinter all dieser wunderbaren Musik kennenzulernen! Wie geht es Dir heute? Wie läuft die Veröffentlichung bis jetzt? Herzlichen Glückwunsch übrigens zu "As The Seas Exhale"! Das Stück ist großartig geworden. Ich finde, es ist gleichzeitig spannend und beruhigend. Die Kontraste, die Du nutzt, um verschiedene Gefühle zu transportieren, sind großartig. Es ist, als würdest Du eine Geschichte erzählen – ganz ohne Worte.
+**Anne:** Hallo Camila! Danke, dass Du Dir die Zeit für dieses Interview nimmst! Es ist so schön, endlich die Frau hinter all dieser wunderbaren Musik kennenzulernen! Wie geht es Dir heute? Wie läuft die Veröffentlichung bis jetzt? Herzlichen Glückwunsch übrigens zu "As The Seas Exhale"! Das Stück ist großartig geworden. Ich finde, es ist gleichzeitig spannend und beruhigend. Die Kontraste, die Du nutzt, um verschiedene Gefühle zu transportieren, sind großartig. Es ist, als würdest Du eine Geschichte erzählen – ganz ohne Worte.
 
 ## "Das Meer inspiriert mich"
 
