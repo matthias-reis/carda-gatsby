@@ -33,7 +33,7 @@ focusKeyword: Caminauta
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2021/filmmusik-caminauta-interview/
+languageLink: /2021/10/filmmusik-caminauta-interview/
 ---
 **Caminauta (Camila) creates film soundtracks, scores and different art projects. She wants to express a wide variety of moods with her work – especially the quiet and reflective moments. Therefore, she prefers to work with various elements from the ambient and electronic world and combines them with classical orchestrations. The result is a unique kind of minimalist music that touches the heart and transports feelings.**
 
