@@ -5,11 +5,11 @@ typeName: Interview
 title: The Infinite Exhale Of The Ocean
 subTitle: Interview With Film Music Composer And Ambient Artist Caminauta
 seoTitle: Interview With Film Music Composer And Ambient Artist Caminauta
-description: Caminauta (Camila) creates film soundtracks, scores and different
-  art projects. She wants to express a wide variety of moods with her work –
+description: Caminauta (Camila) creates film soundtracks, scores and various art
+  projects. She wants to express a wide variety of moods with her work –
   especially the quiet and reflective moments. I talked to her about her latest
   project, "As The Seas Exhale".
-excerpt: Caminauta (Camila) creates film soundtracks, scores and different art
+excerpt: Caminauta (Camila) creates film soundtracks, scores and various art
   projects. She wants to express a wide variety of moods with her work –
   especially the quiet and reflective moments. Therefore, she prefers to work
   with various elements from the ambient and electronic world and combines them
@@ -35,7 +35,7 @@ affiliate: false
 language: en
 languageLink: /2022/02/filmmusik-caminauta-interview/
 ---
-**Caminauta (Camila) creates film soundtracks, scores and different art projects. She wants to express a wide variety of moods with her work – especially the quiet and reflective moments. Therefore, she prefers to work with various elements from the ambient and electronic world and combines them with classical orchestrations. The result is a unique kind of minimalist music that touches the heart and transports feelings.**
+**Caminauta (Camila) creates film soundtracks, scores and various art projects. She wants to express a wide variety of moods with her work – especially the quiet and reflective moments. Therefore, she prefers to work with various elements from the ambient and electronic world and combines them with classical orchestrations. The result is a unique kind of minimalist music that touches the heart and transports feelings.**
 
 I got to know the artist through the label where she has just released her latest piece on record: The film and ambient composer from Uruguay has joined Merigold Independent, founded by Samuel Laubscher (Of The Vine). She has been making music for a long time and not only fascinates film fans with her art. Because she releases her latest work, "As The Seas Exhale", just as I am writing these lines, I am taking the time now for this interview.
 
