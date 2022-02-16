@@ -42,8 +42,10 @@ PETA fordert die Europäische Kommission dazu auf, das Verbot von Tierversuchen 
 
 Die Forderungen der Bürgerinitiative lauten:
 
-> Gewährleistung und Stärkung des Verbots von Tierversuchen bei kosmetischen Mitteln; Änderung von Rechtsvorschriften, sodass Verbraucher-, Arbeitnehmer- und Umweltschutz bei allen Inhaltsstoffen kosmetischer Mittel erreicht wird, ohne zu irgendeinem Zweck oder Zeitpunkt auf Tierversuche zurückzugreifen.
-> Umgestaltung der EU-Chemikalienverordnung; Gewährleistung des Schutzes der menschlichen Gesundheit und der Umwelt durch ein Management von Chemikalien, das ohne neue Tierversuchsanforderungen auskommt.
-> Modernisierung der Wissenschaft in der EU; Festlegung auf einen Legislativvorschlag, in dem ein Fahrplan für die schrittweise Abschaffung aller Tierversuche in der EU vor Ende der laufenden Wahlperiode aufgestellt wird.
+> 1. Gewährleistung und Stärkung des Verbots von Tierversuchen bei kosmetischen Mitteln; Änderung von Rechtsvorschriften, sodass Verbraucher-, Arbeitnehmer- und Umweltschutz bei allen Inhaltsstoffen kosmetischer Mittel erreicht wird, ohne zu irgendeinem Zweck oder Zeitpunkt auf Tierversuche zurückzugreifen.
+
+> 2. Umgestaltung der EU-Chemikalienverordnung; Gewährleistung des Schutzes der menschlichen Gesundheit und der Umwelt durch ein Management von Chemikalien, das ohne neue Tierversuchsanforderungen auskommt.
+
+> 3. Modernisierung der Wissenschaft in der EU; Festlegung auf einen Legislativvorschlag, in dem ein Fahrplan für die schrittweise Abschaffung aller Tierversuche in der EU vor Ende der laufenden Wahlperiode aufgestellt wird.
 
 [Ihr könnt die Initiative hier unterstützen](https://eci.ec.europa.eu/019/public/#/screen/home). Kleiner Hinweis am Rande: Bei mir hat die Darstellung des Formulars im Firefox Browser am besten funktioniert.
