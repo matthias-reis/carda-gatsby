@@ -14,7 +14,7 @@ excerpt: Caminauta heißt mit bürgerlichem Namen Camila. Die Künstlerin aus
   Kunstprojekte. Sie möchte mit ihrer Arbeit eine große Vielfalt an Stimmungen
   zum Ausdruck bringen – vor allem aber die ruhigen und nachdenklichen Momente.
   Sie arbeitet am liebsten mit verschiedenen Elementen aus der Ambient- und
-  Electronic-Welt und verbindet sie mit klassischen Orchestrierungen, ihre
+  Electronic-Welt und verbindet sie mit klassischen Orchestrierungen. Ihre
   minimalistische Musik wird dadurch zu etwas Einzigartigem.
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-jpg-imagine-383828_636463_1024_768/640.webp
 copyrigt: Caminauta
@@ -37,7 +37,7 @@ affiliate: false
 language: de
 languageLink: /2021/caminauta-interview-en/
 ---
-**Caminauta heißt mit bürgerlichem Namen Camila. Sie erschafft Film-Soundtracks, Partituren und unterschiedliche Kunstprojekte. Sie möchte mit ihrer Arbeit eine große Vielfalt an Stimmungen zum Ausdruck bringen – vor allem aber die ruhigen und nachdenklichen Momente. Sie arbeitet am liebsten mit verschiedenen Elementen aus der Ambient- und Electronic-Welt und verbindet sie mit klassischen Orchestrierungen, ihre minimalistische Musik wird dadurch zu etwas Einzigartigem.**
+**Caminauta heißt mit bürgerlichem Namen Camila. Sie erschafft Film-Soundtracks, Partituren und unterschiedliche Kunstprojekte. Sie möchte mit ihrer Arbeit eine große Vielfalt an Stimmungen zum Ausdruck bringen – vor allem aber die ruhigen und nachdenklichen Momente. Sie arbeitet am liebsten mit verschiedenen Elementen aus der Ambient- und Electronic-Welt und verbindet sie mit klassischen Orchestrierungen. Ihre minimalistische Musik wird dadurch zu etwas Einzigartigem.**
 
 Ich habe die Künstlerin über das Label, bei dem sie gerade ihr neuestes Stück auf Platte veröffentlicht hat, kennengelernt. Die Film- und  Ambient-Komponistin aus Uruquay ist nämlich beim von [Samuel Laubscher (Of The Vine)](/2020/05/of-the-vine/) gegründeten Merigold Independent untergekommen. Sie macht schon sehr lange Musik und fasziniert mit ihrer Kunst nicht nur Filmfans. Weil ihr neuestes Werk "As The Seas Exhale" just in diesem Moment, in dem ich diese Zeilen schreibe, erscheint, nehme ich mir jetzt die Zeit für dieses Interview.
 
