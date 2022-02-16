@@ -110,7 +110,7 @@ One last question: If you could name one thing in the world that people need to 
 
 **Anne:** Thanks very much for this inspiring interview! It was a pleasure talking to you! Take care and all the best for you and your work!
 
-**Camila:** Thank you for having me, your interest and for giving me this space on your amazing blog! It was a pleasure!
+**Camila:** Thank you for having me, for your interest and for giving me this space on your amazing blog! It was a pleasure!
 
 ## Caminauta – "As The Seas Exhale"
 
