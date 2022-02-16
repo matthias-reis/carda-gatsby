@@ -35,7 +35,7 @@ focusKeyword: Filmmusik
 advertisement: false
 affiliate: false
 language: de
-languageLink: /2021/caminauta-interview-en/
+languageLink: /2021/10/caminauta-interview-en/
 ---
 **Caminauta heißt mit bürgerlichem Namen Camila. Sie erschafft Film-Soundtracks, Partituren und unterschiedliche Kunstprojekte. Sie möchte mit ihrer Arbeit eine große Vielfalt an Stimmungen zum Ausdruck bringen – vor allem aber die ruhigen und nachdenklichen Momente. Sie arbeitet am liebsten mit verschiedenen Elementen aus der Ambient- und Electronic-Welt und verbindet sie mit klassischen Orchestrierungen. Ihre minimalistische Musik wird dadurch zu etwas Einzigartigem.**
 
