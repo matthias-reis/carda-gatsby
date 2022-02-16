@@ -39,7 +39,7 @@ languageLink: /2022/02/filmmusik-caminauta-interview/
 
 I got to know the artist through the label where she has just released her latest piece on record: The film and ambient composer from Uruguay has joined Merigold Independent, founded by [Samuel Laubscher (Of The Vine)](/2020/05/of-the-vine-interview-en). She has been making music for a long time and not only fascinates film fans with her art. She releases her latest work, "As The Seas Exhale", just as I am writing these lines.
 
-**Anne:** Hi! Thanks for taking the time for this interview! It's so good to finally talk to the woman behind all this wonderful music! How are you doing today? How is the release doing so far? By the way. Congrats on "As The Seas Exhale"! It is fabulous! I think it's calming and suspenseful at once. The contrasts you use to transport different feelings are magnificent – it's like you're telling a story without words.
+**Anne:** Hi! Thanks for taking the time for this interview! It's so good to finally talk to the woman behind all this wonderful music! How are you doing today? How is the release doing so far? By the way: Congrats on "As The Seas Exhale"! It is fabulous! I think it's calming and suspenseful at once. The contrasts you use to transport different feelings are magnificent – it's like you're telling a story without words.
 
 ## "The ocean inspires me"
 
