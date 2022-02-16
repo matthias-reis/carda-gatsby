@@ -29,6 +29,7 @@ labels:
   - Bands
   - Score
   - Soundtrack
+  - Merigold Independent
 focusKeyword: Caminauta
 advertisement: false
 affiliate: false
