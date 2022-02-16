@@ -47,7 +47,7 @@ I got to know the artist through the label where she has just released her lates
 
 **Camila:** Hello Anne, Thanks to you for having me! I am doing fine. The release is going well. It's good to know some people already pre-ordered, and I am happy to know it has such a tremendous impact on everyone.
 
-**Anne:** What is the story behind "As The Seas Exhale"? You told me it has a lot to do with films, your life near a beach in a very isolated place, and your extended walks there? Sounds exciting!
+**Anne:** What is the story behind "As The Seas Exhale"? You told me it has a lot to do with films, your life near a beach in a very isolated place, and your extended walks there? This sounds exciting!
 
 **Camila:** "As The Seas Exhales" arose from my inspirations from my extended walks and observations by the sea. I wanted to express my inner relationship with what surrounds me and how life feels. Every time I look to the sea, there seems to be an infinite exhale. It is constantly present for me.
 
