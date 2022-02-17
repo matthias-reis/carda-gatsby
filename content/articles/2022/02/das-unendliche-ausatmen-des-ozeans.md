@@ -6,11 +6,11 @@ title: '"Das endlose Ausatmen des Ozeans"'
 subTitle: Filmmusik-Komponistin und Ambient-Künstlerin Caminauta im Interview
 seoTitle: Filmmusik-Komponistin und Ambient-Künstlerin Caminauta im Interview
 description: Caminauta heißt mit bürgerlichem Namen Camila. Die Künstlerin aus
-  Uruquay erschafft Film-Soundtracks, Partituren und die unterschiedlichsten
+  Uruguay erschafft Film-Soundtracks, Partituren und die unterschiedlichsten
   Kunstprojekte. Im Interview habe ich mit Ihr über Ihr neuestes Projekt "As The
   Seas Exhale" gesprochen.
 excerpt: Caminauta heißt mit bürgerlichem Namen Camila. Die Künstlerin aus
-  Uruquay erschafft Film-Soundtracks, Partituren und die unterschiedlichsten
+  Uruguay erschafft Film-Soundtracks, Partituren und die unterschiedlichsten
   Kunstprojekte. Sie möchte mit ihrer Arbeit eine große Vielfalt an Stimmungen
   zum Ausdruck bringen – vor allem aber die ruhigen und nachdenklichen Momente.
   Sie arbeitet am liebsten mit verschiedenen Elementen aus der Ambient- und
@@ -40,7 +40,7 @@ languageLink: /2022/02/caminauta-interview-en/
 ---
 **Caminauta heißt mit bürgerlichem Namen Camila. Sie erschafft Film-Soundtracks, Partituren und unterschiedliche Kunstprojekte. Sie möchte mit ihrer Arbeit eine große Vielfalt an Stimmungen zum Ausdruck bringen – vor allem aber die ruhigen und nachdenklichen Momente. Sie arbeitet am liebsten mit verschiedenen Elementen aus der Ambient- und Electronic-Welt und verbindet sie mit klassischen Orchestrierungen. Ihre minimalistische Musik wird dadurch zu etwas Einzigartigem.**
 
-Ich habe die Künstlerin über das Label, bei dem sie gerade ihr neuestes Stück auf Platte veröffentlicht hat, kennengelernt. Die Film- und  Ambient-Komponistin aus Uruquay ist nämlich bei [Samuel Laubschers (Of The Vine)](/2020/05/of-the-vine/) Merigold Independent untergekommen. Sie macht schon sehr lange Musik und fasziniert mit ihrer Kunst nicht nur Filmfans. Ihr neuestes Werk "As The Seas Exhale" erscheint just in dem Moment, in dem ich diese Zeilen schreibe.
+Ich habe die Künstlerin über das Label, bei dem sie gerade ihr neuestes Stück auf Platte veröffentlicht hat, kennengelernt. Die Film- und  Ambient-Komponistin aus Uruguay ist nämlich bei [Samuel Laubschers (Of The Vine)](/2020/05/of-the-vine/) Merigold Independent untergekommen. Sie macht schon sehr lange Musik und fasziniert mit ihrer Kunst nicht nur Filmfans. Ihr neuestes Werk "As The Seas Exhale" erscheint just in dem Moment, in dem ich diese Zeilen schreibe.
 
 **Anne:** Hallo Camila! Danke, dass Du Dir die Zeit für dieses Interview nimmst! Es ist so schön, endlich mit der Frau hinter all dieser wunderbaren Musik zu sprechen! Wie geht es Dir heute? Wie läuft Deine neue Veröffentlichung bis jetzt? Herzlichen Glückwunsch übrigens zu "As The Seas Exhale"! Das Stück ist großartig geworden. Ich finde, es ist gleichzeitig spannend und beruhigend. Die Kontraste, die Du nutzt, um verschiedene Gefühle zu transportieren, sind großartig. Es ist, als würdest Du eine Geschichte erzählen – ganz ohne Worte.
 
