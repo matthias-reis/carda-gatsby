@@ -120,4 +120,4 @@ Eine letzte Frage: Wenn Du eine Sache auf der Welt bestimmen dürftest, die die 
 
 <YouTube id="3KDsQd1GCgg" />
 
-<iframe style="border: 0; width: 400px; height: 572px;" src="https://bandcamp.com/EmbeddedPlayer/album=3272757004/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/tracklist=true/tracks=2123673115,4101759163/esig=cde1bfd7448eab6851b5d14fb229535e/" seamless><a href="https://caminauta.bandcamp.com/album/as-the-seas-exhale-2">As The Seas Exhale by Caminauta</a></iframe>
+<iframe style="border: 0; width: 400px; height: 572px;" src="https://bandcamp.com/EmbeddedPlayer/album=3272757004/size=large/bgcol=ffffff/linkcol=5c9b72/transparent=true/tracklist=true/tracks=2123673115,4101759163/esig=cde1bfd7448eab6851b5d14fb229535e/" seamless><a href="https://caminauta.bandcamp.com/album/as-the-seas-exhale-2">As The Seas Exhale by Caminauta</a></iframe>
