@@ -62,8 +62,6 @@ I got to know the artist through the label where she has just released her lates
 
 **Anne:** The list of films you composed music for is quite long, and you worked with people from all over the world, from Germany ("Hannah", 2018), to Norway ("Invasion", 2021), to the US ("Ballad For A Girl In Pain", 2020) Denmark ("Under Overfladen", 2019), and Ireland ("Almost Home, 2018") – to name a few. Is there a project that you would call your favourite one? Which collaboration was the best so far?
 
-![Inspired by the beach.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-jpg-imagine-a89888_748388_768_1024/640.webp "Inspired by the beach.")
-
 **Camila:** I think every collaboration is unique and wonderful. There are some directors I still work with from time to time. One of my favourites is "The Poetic Film Invasion" by Margarida Paiva. She is an incredible director, and I feel we got a really great connection through each other's work.
 
 The film draws a picture of the tiny world of these brown slugs, who are considered to be one of many destructive pests. The little creatures appear like strange slimy aliens filmed in a dreamlike atmosphere. The film reflects our relationship with other beings – in this case, one of the ones that tend to appear quite repulsive at first sight.
@@ -74,7 +72,7 @@ The film draws a picture of the tiny world of these brown slugs, who are conside
 
 ## "I always loved being creative"
 
-![A long walk at the beach.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-walk-jpg-imagine-181818_6c6761_768_1024/640.webp "A long walk at the beach.")
+![Inspired by the beach.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-jpg-imagine-a89888_748388_768_1024/640.webp "Inspired by the beach.")
 
 **Camila:** I really enjoy working with Samuel! He is an outstanding artist and a dear friend. We met on the internet some years ago, and I think he knows every piece of my work from my Ambient excursions till now.
 
