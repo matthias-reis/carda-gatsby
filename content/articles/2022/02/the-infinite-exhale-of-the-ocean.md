@@ -44,7 +44,7 @@ I got to know the artist through the label where she has just released her lates
 
 ## "The ocean inspires me"
 
-![Camila aka Caminauta in her studio.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-studio-jpg-imagine-282828_756e71_768_1024/640.webp "Camila aka Caminauta in her studio.")
+![Camila loves the ocean.](https://storage.googleapis.com/cardamonchai-media/2022-02-17/caminauta-seaside-jpg-imagine-686868_000000_768_1024/640.webp "Camila loves the ocean.")
 
 **Camila:** Hello Anne, Thanks to you for having me! I am doing fine. The release is going well. It's good to know some people already pre-ordered, and I am happy to know it has such a tremendous impact on everyone.
 
@@ -56,11 +56,13 @@ I got to know the artist through the label where she has just released her lates
 
 ## "My ambient experiments helped me to dive deeper into film music"
 
-![Inspired by the beach.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-jpg-imagine-a89888_748388_768_1024/640.webp "Inspired by the beach.")
+![Camila aka Caminauta in her studio.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-studio-jpg-imagine-282828_756e71_768_1024/640.webp "Camila aka Caminauta in her studio.")
 
 **Camila:** I think what distinguishes them is that the film music part feels like my job. With my experimental/ambient project, Caminauta, I am free to express and show my musical experiments more openly to the community. Of course, they have grown together over the years, and thanks to my curiosity about ambient music, it helped me dive even deeper into composing film music.
 
 **Anne:** The list of films you composed music for is quite long, and you worked with people from all over the world, from Germany ("Hannah", 2018), to Norway ("Invasion", 2021), to the US ("Ballad For A Girl In Pain", 2020) Denmark ("Under Overfladen", 2019), and Ireland ("Almost Home, 2018") – to name a few. Is there a project that you would call your favourite one? Which collaboration was the best so far?
+
+![Inspired by the beach.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-jpg-imagine-a89888_748388_768_1024/640.webp "Inspired by the beach.")
 
 **Camila:** I think every collaboration is unique and wonderful. There are some directors I still work with from time to time. One of my favourites is "The Poetic Film Invasion" by Margarida Paiva. She is an incredible director, and I feel we got a really great connection through each other's work.
 
