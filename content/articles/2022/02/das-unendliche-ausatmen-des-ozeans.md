@@ -46,7 +46,7 @@ Ich habe die Künstlerin über das Label, bei dem sie gerade ihr neuestes Stück
 
 ## "Das Meer inspiriert mich"
 
-![Camila aka Caminauta komponiert Filmmusik.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-studio-jpg-imagine-282828_756e71_768_1024/640.webp "Camila aka Caminauta komponiert Filmmusik.")
+![Camila liebt das Meer.](https://storage.googleapis.com/cardamonchai-media/2022-02-17/caminauta-seaside-jpg-imagine-686868_000000_768_1024/640.webp "Camila liebt das Meer.")
 
 **Camila:** Hallo Anne, vielen Dank für Deine Einladung! Mir geht es gut. Die Veröffentlichung geht gut voran. Es ist gut zu wissen, dass bereits einige Vorbestellungen eingegangen sind. Es freut mich auch zu wissen, dass es offenbar ziemlich gut ankommt.
 
@@ -58,11 +58,13 @@ Ich habe die Künstlerin über das Label, bei dem sie gerade ihr neuestes Stück
 
 ## Meine Ambient-Experimente haben mir geholfen, tiefer in die Filmmusik einzutauchen.
 
-![Der Strand inspiriert Camila.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-jpg-imagine-a89888_748388_768_1024/640.webp "Der Strand inspiriert Camila.")
+![Camila aka Caminauta komponiert Filmmusik.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-studio-jpg-imagine-282828_756e71_768_1024/640.webp "Camila aka Caminauta komponiert Filmmusik.")
 
 **Camila:** Ich denke, was sie unterscheidet, ist, dass sich die Filmmusik wie mein Job anfühlt. Mit meinem Experimental-/Ambient-Projekt Caminauta kann ich meine musikalischen Experimente offener zum Ausdruck bringen und mit der Community teilen. Es war, denke ich, ein ganz natürlicher Prozess, dass die beiden Projekte im Laufe der Jahre zusammengewachsen sind. Dank meiner Neugier, was Ambient betrifft, ist es mir dabei gelungen, noch tiefer in das Komponieren von Filmmusik einzutauchen.
 
 **Anne:** Die Liste der Filme, für die Du Musik komponiert hast, ist ziemlich lang, und Du hast mit Leuten aus der ganzen Welt zusammengearbeitet, von Deutschland ("Hannah", 2018) über Norwegen ("Invasion", 2021) bis in die USA ("Ballad For A Girl In Pain", 2020), nach Dänemark ("Under Overfladen", 2019) und Irland ("Almost Home, 2018") – um nur einige zu nennen. Gibt es ein Projekt, das Du als Dein Lieblingsprojekt bezeichnen würdest? Welche Zusammenarbeit hat Dir bisher am besten gefallen?
+
+![Der Strand inspiriert Camila.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-jpg-imagine-a89888_748388_768_1024/640.webp "Der Strand inspiriert Camila.")
 
 **Camila:** Ich denke, jede Zusammenarbeit ist einzigartig und wunderbar. Es gibt einige Regisseur⋆innen, mit denen ich von Zeit zu Zeit immer mal wieder zusammenarbeite. Eines meiner Lieblings-Projekte ist "The Poetic Film Invasion" von Margarida Paiva. Sie ist eine unglaubliche Regisseurin, und ich habe das Gefühl, dass wir durch unsere Arbeit eine wirklich gute Verbindung zueinander haben.
 
