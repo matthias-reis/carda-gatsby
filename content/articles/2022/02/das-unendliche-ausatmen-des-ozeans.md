@@ -64,8 +64,6 @@ Ich habe die Künstlerin über das Label, bei dem sie gerade ihr neuestes Stück
 
 **Anne:** Die Liste der Filme, für die Du Musik komponiert hast, ist ziemlich lang, und Du hast mit Leuten aus der ganzen Welt zusammengearbeitet, von Deutschland ("Hannah", 2018) über Norwegen ("Invasion", 2021) bis in die USA ("Ballad For A Girl In Pain", 2020), nach Dänemark ("Under Overfladen", 2019) und Irland ("Almost Home, 2018") – um nur einige zu nennen. Gibt es ein Projekt, das Du als Dein Lieblingsprojekt bezeichnen würdest? Welche Zusammenarbeit hat Dir bisher am besten gefallen?
 
-![Der Strand inspiriert Camila.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-jpg-imagine-a89888_748388_768_1024/640.webp "Der Strand inspiriert Camila.")
-
 **Camila:** Ich denke, jede Zusammenarbeit ist einzigartig und wunderbar. Es gibt einige Regisseur⋆innen, mit denen ich von Zeit zu Zeit immer mal wieder zusammenarbeite. Eines meiner Lieblings-Projekte ist "The Poetic Film Invasion" von Margarida Paiva. Sie ist eine unglaubliche Regisseurin, und ich habe das Gefühl, dass wir durch unsere Arbeit eine wirklich gute Verbindung zueinander haben.
 
 Der Film zeichnet ein Bild von der winzigen Welt der braunen Nacktschnecken, die als einer von vielen zerstörerischen Schädlingen gelten. Die kleinen Kreaturen wirken wie seltsame schleimige Außerirdische, die in einer traumhaften Atmosphäre gefilmt wurden. Der Film reflektiert unsere Beziehung zu anderen Lebewesen – in diesem Fall zu einem derjenigen, die auf den ersten Blick eher abstoßend auf uns wirken.
@@ -76,7 +74,7 @@ Der Film zeichnet ein Bild von der winzigen Welt der braunen Nacktschnecken, die
 
 ## "Ich habe es schon immer geliebt, kreativ zu sein"
 
-![Ein langer Spaziergang am Strand.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-walk-jpg-imagine-181818_6c6761_768_1024/640.webp "Ein langer Spaziergang am Strand.")
+![Der Strand inspiriert Camila.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-jpg-imagine-a89888_748388_768_1024/640.webp "Der Strand inspiriert Camila.")
 
 **Camila:** Ich arbeite wirklich gerne mit Samuel zusammen! Er ist ein hervorragender Künstler und ein guter Freund. Wir haben uns vor einigen Jahren über das Internet kennengelernt, und ich glaube, er kennt jedes Stück meiner Arbeit von meinen ersten Ambient-Ausflügen bis heute.
 
