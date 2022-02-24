@@ -77,7 +77,7 @@ Dieser heiße Tipp kommt von Valentin:
 
 ## Mogwai & The Macallan – "The Reach" (Single, Score)
 
-Für den 81 Jahre alten Single Malt Scotch Whiskey "The Reach" aus dem Hause The Mcallan haben Mogwai einen Song komponiert. Der Whiskey wurde 1940 destilliert und reift seitdem in einem Single sherry-seasoned Eichenfass. Zur Feier seiner Einweihung musste etwas Besonderes her – die Zusammenarbeit mit den schottischen Post-Rockern sorgt jetzt für die passende Untermalung. Insgesamt gibt es nur 288 Flaschen der edlen Spirituose – den wunderbaren gleichnamigen Song können wir zum Glück alle genießen – ganz ohne Kater. Ich würde sagen: Die Noten von Schokolade, süßem Ziemt, Pflaumen, Grapefruit, Toffee, Brombeermarmelade, Lakritz, kristallisiertem Ingwer, Muskat, Ananas, Pecanuss und Rauch haben Mogwai perfekt vertont. Doch hört selbst.
+Für den 81 Jahre alten Single Malt Scotch Whiskey "The Reach" aus dem Hause The Mcallan haben Mogwai einen Song komponiert. Der Whiskey wurde 1940 destilliert und reift seitdem in einem Single sherry-seasoned Eichenfass. Zur Feier seiner Einweihung musste etwas Besonderes her – die Zusammenarbeit mit den schottischen Post-Rockern sorgt jetzt für die passende Untermalung. Insgesamt gibt es nur 288 Flaschen der edlen Spirituose – den wunderbaren gleichnamigen Song können wir zum Glück alle genießen – ganz ohne Kater. Ich würde sagen: Die Noten von Schokolade, süßem Zimt, Pflaumen, Grapefruit, Toffee, Brombeermarmelade, Lakritz, kristallisiertem Ingwer, Muskat, Ananas, Pecanuss und Rauch haben Mogwai perfekt vertont. Doch hört selbst.
 
 <YouTube id="Akfda885qkQ" />
 
