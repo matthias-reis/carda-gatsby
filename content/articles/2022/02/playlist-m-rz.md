@@ -83,7 +83,7 @@ Für den 81 Jahre alten Single Malt Scotch Whiskey "The Reach" aus dem Hause The
 
 ## Crossbringer feat. Treha Sektory – "Masked God" (Single)
 
-Soundscapes und Ambient Welten bringen Crossbringer feat. Treha Sektory mit ihrer Single "Masked God". Die Musik klingt hauchzart, aber klangvoll. Wenn Ihr auf der Suche nach Inspiration und Entspannung seid, seid Ihr bei der Kooperation zweier Klangkollektive auf jeden Fall richtig. Falls Euch das Stück gefällt, gibt es auch noch einen zweiten Teil. Wenn Ihr gerne Oathbreaker oder Terzij de Horde hört, könnte Euch der Sound gefallen. Crossbringer ist Euch vielleicht auch schon durch die sonst ziemlich fesselnden, eindrucksvollen Sounds ein Begriff, die von Zeit zu Zeit auch gerne in Richtung gruselig gehen. Treha Sektoris musikalische Bilder verbinden sich perfekt mit dieser ganz besonderen Ambient-Kunst. Ein Hochgenuss.
+Soundscapes und Ambient Welten bringen Crossbringer feat. Treha Sektory mit ihrer Single "Masked God". Die Musik ist hauchzart, aber klangvoll. Wenn Ihr auf der Suche nach Inspiration und Entspannung seid, seid Ihr bei der Kooperation zweier Klangkollektive auf jeden Fall richtig. Falls Euch das Stück gefällt, gibt es auch noch einen zweiten Teil. Wenn Ihr gerne Oathbreaker oder Terzij de Horde hört, könnte Euch der Sound gefallen. Crossbringer ist Euch vielleicht auch schon durch die sonst ziemlich fesselnden, eindrucksvollen Sounds ein Begriff, die von Zeit zu Zeit auch gerne in Richtung gruselig gehen. Treha Sektoris musikalische Bilder verbinden sich perfekt mit dieser ganz besonderen Ambient-Kunst. Ein Hochgenuss.
 
 <YouTube id="zk6j7BRhHZE" />
 
