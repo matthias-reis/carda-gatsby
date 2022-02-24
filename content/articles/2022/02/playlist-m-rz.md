@@ -97,7 +97,7 @@ Auch von Nordic Giants gibt's was Neues. Insgesamt sind acht Songs drauf auf dem
 
 Die guten (Musik-)Nachrichten reißen nicht ab. Auch Calexico haben wieder Musik aufgenommen. Valentin stellt die Vorauskopplung vom kommenden Album vor:
 
-> "Und noch eine meiner Lieblingsgruppen bringt im April ein neues Album. Am achten gibt es endlich wieder heißen Americana-Sound von Calexico aus Tuscon, Arizona. Über die spanischen Lyrics in der Vorab-Veröffentlichung 'El Mirador' habe ich mich sehr gefreut. Das Album hört auf den selben Namen und natürlich folgt auch eine Tour! Wird auch mal wieder Zeit..."
+> "Und noch eine meiner Lieblingsgruppen bringt im April ein neues Album. Am 8. gibt es endlich wieder heißen Americana-Sound von Calexico aus Tuscon, Arizona. Über die spanischen Lyrics in der Vorab-Veröffentlichung 'El Mirador' habe ich mich sehr gefreut. Das Album hört auf den selben Namen und natürlich folgt auch eine Tour! Wird auch mal wieder Zeit..."
 
 <YouTube id="EMeinq7I__w" />
 
