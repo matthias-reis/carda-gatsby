@@ -105,7 +105,7 @@ Die guten (Musik-)Nachrichten reißen nicht ab. Auch Calexico haben wieder Musik
 
 Auch über diesen Release freut sich Valentin ganz besonders:
 
-> "Am 4. Februar ist ein neues Album von Korn erschienen. Und offenbar hat die Pandemie-Pause der aus Bakersfield stammenden Gruppe trotz mehrerer Covid-Erkrankungen innerhalb der Band gut getan. Der Song "Let The Dark Do The Rest" ist irgendwie eine gute Mischung aus Staind und Alice in Chains und erinnert an die guten alten Korn-Zeiten. Außerdem liebe ich es, wenn Jonathan Davis am Ende "You make me sick" schreit. :-)"
+> "Am 4. Februar ist ein neues Album von Korn erschienen. Und offenbar hat die Pandemie-Pause der aus Bakersfield stammenden Gruppe trotz mehrerer Covid-Erkrankungen innerhalb der Band gut getan. Der Song "Let The Dark Do The Rest" ist irgendwie eine gute Mischung aus Staind und Alice in Chains und erinnert an die guten alten Korn-Zeiten. Außerdem liebe ich es, wenn Jonathan Davis am Ende "You make me sick" schreit."
 
 <YouTube id="XQL0ZxaVRhI" />
 
