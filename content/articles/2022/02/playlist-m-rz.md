@@ -53,7 +53,7 @@ Die Playlists für Spotify und iTunes findet Ihr wie immer ganz unten unter den 
 
 ## Cult of Luna – "Into the Night" vom Album "The Long Road North"
 
-Den Opener unserer Liste hat diesen Monat Matze ausgewählt. Er stammt vom neuen Cult of Luna Album "The Long Road North" und wird auf jeden Fall Geschichte schreiben. Matze sagt:
+Den Opener unserer Liste hat diesen Monat Matze ausgewählt. Er stammt vom neuen [Cult of Luna](/tag/cult-of-luna) Album "The Long Road North" und wird auf jeden Fall Geschichte schreiben. Matze sagt:
 
 > "Von 'The Long Road North' haben wir schon vor zwei Monaten berichtet und eine Vorauskopplung präsentiert. Jetzt ist das Album erschienen. Ich hatte zugegebenermaßen sehr hohe Erwartungen und was soll ich sagen? Sie wurden voll und ganz erfüllt. Die Platte weist alle musikalischen Elemente der Vorgänger auf, kann also eher als Evolution als als Revolution bezeichnet werden, was in diesem Fall aber gut ist. In jeder Note spürt man die Intensität, die die Schweden in ihre Musik und in die Produktion gelegt haben. Das zieht sich durch bis in das Artwork der LP: Es wartet mit das Augmented Reality Überraschungen auf. 'Into the Night' ist das ruhige Stück auf der Platte – eine schöne Tradition der Band. Es kommt nicht weniger intensiv rüber, als die anderen und wartet mit einem starken Schluss auf."
 
