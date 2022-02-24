@@ -9,10 +9,10 @@ description: Von Cult of Luna bis Madrugada habe ich diesen Monat wieder 12 ganz
   besondere Songs aus Post-Rock, Prog, Ambient und Metal für Euch. Mit dabei
   sind ein paar gute "alte Bekannte", die neue Alben aufgenommen haben.
 excerpt: Er ist da! Habt Ihr ihn gesehen? Der Frühling steht direkt vor der Tür
-  und klopft! Um dieses grandiose Ereignis zu feiern und natürlich, weil wieder
-  ein Monat zu Ende geht, habe ich heute wieder 12 besondere Songs für Euch.
-  Zusammengestellt habe ich sie, wie alle vier Wochen, gemeinsam mit meinen
-  beiden Lieblings-Musiknerds.
+  und klopft an! Um dieses grandiose Ereignis zu feiern und natürlich, weil
+  wieder ein Monat zu Ende geht, habe ich heute wieder 12 besondere Songs für
+  Euch. Zusammengestellt habe ich sie, wie alle vier Wochen, gemeinsam mit
+  meinen beiden Lieblings-Musiknerds.
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-24/12-songs-maerz-jpg-imagine-080808_655d58_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-24/12-songs-maerz-fb-png-imagine-080808_5b534c_1200_628/640.webp
@@ -47,7 +47,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Er ist da! Habt Ihr ihn gesehen? Der Frühling steht direkt vor der Tür und klopft! Um dieses grandiose Ereignis zu feiern und natürlich, weil wieder ein Monat zu Ende geht, habe ich heute wieder 12 besondere Songs für Euch. Zusammengestellt habe ich sie, wie alle vier Wochen, gemeinsam mit meinen beiden Lieblings-Musiknerds.**
+**Er ist da! Habt Ihr ihn gesehen? Der Frühling steht direkt vor der Tür und klopft an! Um dieses grandiose Ereignis zu feiern und natürlich, weil wieder ein Monat zu Ende geht, habe ich heute wieder 12 besondere Songs für Euch. Zusammengestellt habe ich sie, wie alle vier Wochen, gemeinsam mit meinen beiden Lieblings-Musiknerds.**
 
 Die Playlists für Spotify und iTunes findet Ihr wie immer ganz unten unter den Videos und unseren Anmoderationen. Und jetzt wünsche ich Euch ganz viel Spaß mit der Musik.
 
