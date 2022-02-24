@@ -113,7 +113,7 @@ Auch über diesen Release freut sich Valentin ganz besonders:
 
 Diese Spezialität für Insider enthüllt Valentin für Euch:
 
-"Mein vierter und letzter Song ist ein echter Geheimtipp. (DOLCH) aus Berlin waren früher ein Duo und sind jetzt als fünfköpfiges Kollektiv mit einem unglaublich perfekten Sound und der wunderschönen und geheimnisvollen Stimme von M unterwegs. Insgesamt setzt sich die Band zusammen aus: N am Bass, P am Schlagzeug, A an den Gitarren, T an Gitarren und Gesang, sowie M am Gesang. Eine meiner liebsten Online-Musikzeitungen beschreibt ihren Sound als Doom Metal/Dark Ambient und Drone und bezeichnet das zweite Album einer Trilogie als Kleinod – was es auch ist."
+> "Mein vierter und letzter Song ist ein echter Geheimtipp. (DOLCH) aus Berlin waren früher ein Duo und sind jetzt als fünfköpfiges Kollektiv mit einem unglaublich perfekten Sound und der wunderschönen und geheimnisvollen Stimme von M unterwegs. Insgesamt setzt sich die Band zusammen aus: N am Bass, P am Schlagzeug, A an den Gitarren, T an Gitarren und Gesang, sowie M am Gesang. Eine meiner liebsten Online-Musikzeitungen beschreibt ihren Sound als Doom Metal/Dark Ambient und Drone und bezeichnet das zweite Album einer Trilogie als Kleinod – was es auch ist."
 
 <YouTube id="cz14y5ddCsg" />
 
