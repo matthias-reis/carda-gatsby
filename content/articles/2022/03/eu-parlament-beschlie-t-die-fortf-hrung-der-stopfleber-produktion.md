@@ -56,6 +56,6 @@ Die Entscheidung widerspricht allen Moralvorstellungen, Wünschen und Interessen
 
 Das bedeutet: Teilt diese Nachricht. Thematisiert sie in Gesprächen und setzt Euch für nicht-menschliche Lebewesen ein. Sie haben es nicht verdient, von uns ausgebeutet, gequält und getötet zu werden.
 
-**Hinweis:** Die Tiere im Bild leben nicht auf einer Stopfleber-Farm. Ich habe sie vor ein paar Jahren in England auf einer Wiese fotografiert. Ich wollte Euch die grausamen Bilder aus der Stopfleber-Produktion ersparen und den Fokus auf den Text legen.
+**Hinweis:** Die Tiere im Bild leben nicht auf einer Stopfleber-Farm. Ich habe sie vor ein paar Jahren in England auf einer Wiese fotografiert. Ich wollte Euch die grausamen Bilder aus der Stopfleber-Produktion ersparen und den Fokus an dieser Stelle auf den Text legen.
 
 [^1]: [Animal Equality News zum Thema Stopfleber-Verbot](https://animalequality.de/neuigkeiten/2022/03/01/europaisches-parlament-halt-stopfleber-fur-tierschutzkonform/)
