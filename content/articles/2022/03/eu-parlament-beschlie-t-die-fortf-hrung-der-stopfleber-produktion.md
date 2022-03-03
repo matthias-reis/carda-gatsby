@@ -30,7 +30,7 @@ language: de
 ---
 **Acht Monate nach der Aufforderung des EU-Parlaments an die EU-Kommission, die Zwangsfütterung von Enten und Gänsen für die Produktion von Stopfleber als "grausame und unnötige" Praxis so schnell wie möglich zu verbieten, passierte jetzt etwas Undenkbares: Die Kommission beschloss (so wörtlich), "dass die Erzeugung von Stopfleber auf landwirtschaftlichen Verfahren beruht, bei denen die Tierwohlkriterien eingehalten werden." Das berichtete Animal Equality diese Woche.**
 
-Der Parlaments-Beschluss kommt einem Skandal gleich. Er widerspricht allen wissenschaftlichen und rationalen Erkenntnissen und das Parlament widerspricht sich damit selbst.
+Der Parlaments-Beschluss kommt einem Skandal gleich. Er missachtet alle wissenschaftlichen und rationalen Erkenntnissen und das Parlament widerspricht sich damit selbst.
 
 Die Forschenden und Veterinärmediziner⋆innen sind sich in diesem Punkt sehr einig. Ihre faktenbasierte Position ist eindeutig und belegt ganz klar: Jede erdenkliche Form der Zwangsfütterung ist Tierquälerei. Die Tiere erleiden dadurch Stress, Schmerzen und Verletzungen.
 
