@@ -46,7 +46,7 @@ Auch die Welternährungsorganisation der Vereinten Nationen (FAO) stimmt den Erk
 
 Der Beschluss steht im Gegensatz zu allen denkbaren Werte, welche die EU in Betracht gezogen haben mag, als sie die Stopfleber-Produktion mit der Richtlinie zum Schutz landwirtschaftlich genutzter Tiere im Jahr 1999 verbot. 
 
-Deutschland sowie 21 weitere EU-Länder übersetzten die Richtlinie in nationales Recht und untersagten die Produktion von Stopfleber-Produkten. In fünf Ländern wurde sie unter dem fragwürdigen Label "nationales Kulturerbe" weiterhin produziert – die gastronomische Kultur geht eben leider meistens vor.
+Deutschland sowie 21 weitere EU-Länder übersetzten die Richtlinie in nationales Recht und untersagten die Produktion von Stopfleber-Produkten. In fünf Ländern wurden sie jedoch unter dem fragwürdigen Label "nationales Kulturerbe" weiterhin hergestellt – die gastronomische Kultur geht eben leider meistens vor.
 
 Frankreich produziert auch heute noch mit Abstand am meisten Stopfleber. Dabei könnte ein weiterer Skandal kurz vor der Aufdeckung stehen: Vermutungen deuten in die Richtung, dass die Entscheidungen dort möglicherweise von landwirtschaftlichen Lobby-Verbänden beeinflusst wurden.
 
