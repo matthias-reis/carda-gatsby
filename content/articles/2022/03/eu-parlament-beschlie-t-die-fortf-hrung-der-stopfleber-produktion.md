@@ -44,7 +44,7 @@ Auch die Welternährungsorganisation der Vereinten Nationen (FAO) stimmt den Erk
 
 ## Ein Beschluss gegen alle Moralvorstellungen
 
-Der Beschluss steht entgegen aller denkbaren Werte, die die EU in Betracht gezogen haben mag, als die Stopfleber-Produktion mit der Richtlinie zum Schutz landwirtschaftlich genutzter Tiere im Jahr 1999 verbot. 
+Der Beschluss steht im Gegensatz zu allen denkbaren Werte, welche die EU in Betracht gezogen haben mag, als sie die Stopfleber-Produktion mit der Richtlinie zum Schutz landwirtschaftlich genutzter Tiere im Jahr 1999 verbot. 
 
 Deutschland sowie 21 weitere EU-Länder übersetzten die Richtlinie in nationales Recht und untersagten die Produktion von Stopfleber-Produkten. In fünf Ländern wurde sie unter dem fragwürdigen Label "nationales Kulturerbe" weiterhin produziert – die gastronomische Kultur geht eben leider meistens vor.
 
