@@ -38,7 +38,7 @@ languageLink: /2022/03/patience-of-the-trail-rite/
 
 Finally, on February 2nd 2022, it was time for the digital release. Nikita Kamprad (The Way of a Freedom) mastered and produced the record. 
 
-There is one thing I need to tell you upfront: If you like atmospheric post-rock, you will likely love Patience Of The Trail. The project from the Nürnberg area has quite a lot going for it –when listening to this debut, you'll maybe ask yourself if it's really just two people on it from time to time. "Rite" comes with a total of four songs, which together are a complete work of art that you should definitely take the time to enjoy in its entirety.
+There is one thing I need to tell you upfront: If you like atmospheric post-rock, you will likely love Patience Of The Trail. The project from the Nürnberg area has quite a lot going for it – when listening to this debut, you'll maybe ask yourself if it's really just two people on it from time to time. "Rite" comes with a total of four songs, which together are a complete work of art that you should definitely take the time to enjoy in its entirety.
 
 ## "Beartooth"
 
