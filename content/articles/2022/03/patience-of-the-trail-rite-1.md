@@ -34,7 +34,7 @@ affiliate: false
 language: en
 languageLink: /2022/03/patience-of-the-trail-rite/
 ---
-**Jan Wiesinger founded Patience Of The Trail in 2019 – initially a solo project. Bands like I Hear Sirens, If These Trees Could Talk, and pg.lost. inspired him. When his goal of recording a record became more and more serious, in 2020, drummer Pascal Schwimmer joined him. The duo started to create their first demos immediately, and in October 2021, they presented their first EP, "Rite".**
+**Jan Wiesinger founded Patience Of The Trail in 2019 – initially as a solo project. Bands like I Hear Sirens, If These Trees Could Talk, and pg.lost. inspired him. When his goal of recording a record became more and more serious, in 2020, drummer Pascal Schwimmer joined him. The duo started to create their first demos immediately, and in October 2021, they presented their first EP, "Rite".**
 
 Finally, on February 2nd 2022, it was time for the digital release. Nikita Kamprad (The Way of a Freedom) mastered and produced the record. 
 
