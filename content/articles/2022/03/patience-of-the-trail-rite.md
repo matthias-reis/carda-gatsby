@@ -6,13 +6,13 @@ title: Patience Of The Trail – "Rite"
 subTitle: Die Debüt-EP des Post-Rock Duos
 seoTitle: Die Debüt-EP des Post-Rock Duos – Post-Rock Review
 description: Jan Wiesinger gründete Patience Of The Trail 2019 zunächst als
+  Solo-Projekt. Inzwischen ist das Projekt ein Duo und hat die wunderbare
+  Debüt-EP "Rite" veröffentlicht.
+excerpt: Jan Wiesinger gründete Patience Of The Trail 2019 zunächst als
   Solo-Projekt. Inspirieren ließ er sich von Bands wie I Hear Sirens, If These
   Trees Could Talk und pg.lost. Als das Ziel, eine Platte aufzunehmen, 2020
   immer ernster wurde, stieg Drummer Pascal Schwimmer mit ein und die ersten
   Demos entstanden. Die erste EP "Rite" präsentierte das Duo im Oktober 2021.
-excerpt: Jan Wiesinger gründete Patience Of The Trail 2019 zunächst als
-  Solo-Projekt. Inzwischen ist das Projekt ein Duo und hat die wunderbare
-  Debüt-EP "Rite" veröffentlicht.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-10/patience-of-the-trail-jpg-imagine-080808_63686d_1024_768/640.webp
 copyrigt: Patience Of The Trail
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-10/patience-of-the-trail-fb-png-imagine-080808_53585d_1200_628/640.webp
