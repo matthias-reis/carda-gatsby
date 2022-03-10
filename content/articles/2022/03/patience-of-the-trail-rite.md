@@ -40,9 +40,9 @@ Eines gleich mal vorneweg: Wenn Ihr atmosphärischen Postrock mögt, wird Euch P
 
 ## Patience Of The Trail liefern harmonischen Post-Rock
 
-![Patience Of The Trail – "Rite"](https://storage.googleapis.com/cardamonchai-media/2022-03-10/cover-jpg-imagine-080808_2d2d2d_3000_3000/640.webp "Patience Of The Trail – \"Rite\"")
+![Patience Of The Trail – "Rite"](https://storage.googleapis.com/cardamonchai-media/2022-03-10/cover-jpg-imagine-080808_2d2d2d_3000_3000/640.webp "Patience Of The Trail – \\"Rite\\"")
 
-Das erste Stück "Beartooth" startet harmonisch und wartet zunächst mit nachdenklichen Momenten auf, die sich immer weiter aufbauen und in einem präzisen Zusammenspiel aus Gitarre und Drums gipfeln. Dieser zugleich wütend und verspielt klingende Eskapismus wird keineswegs von Ruhe abgelöst. Das Ende des Stücks wirkt eher nachdenklich und bietet den perfekten Übergang zum von 80ies Sound und Shoegaze angehauchten Namensgeber der EP "Rite". 
+Das erste Stück "Beartooth" startet harmonisch und wartet zunächst mit nachdenklichen Momenten auf, die sich immer weiter aufbauen und in einem präzisen Zusammenspiel aus Gitarre und Drums gipfeln. Dieser zugleich wütend und verspielt klingende Eskapismus wird keineswegs nur von Ruhe abgelöst. Das Ende des Stücks wirkt eher nachdenklich und bietet den perfekten Übergang zum von 80ies Sound und Shoegaze angehauchten Namensgeber der EP "Rite". 
 
 Dieses Stück macht so Bock auf mehr. Ich möchte es unbedingt auch sehr bald live erleben. Der treibende Sound des Songs ist einfallsreich und aufregend. Die kleine Spur Punk-Attitüde steht dem Instrumental-Stück gut zu Gesicht. Lyrics braucht es da keine – auch, wenn mir durchaus welche dazu einfallen würden.
 
