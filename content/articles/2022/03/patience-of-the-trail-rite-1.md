@@ -42,7 +42,7 @@ There is one thing I need to tell you upfront: If you like atmospheric post-rock
 
 ## "Beartooth"
 
-![Patience Of The Trail – "Rite"](https://storage.googleapis.com/cardamonchai-media/2022-03-10/cover-jpg-imagine-080808_2d2d2d_3000_3000/640.webp "Patience Of The Trail – \"Rite\"")
+![Patience Of The Trail – "Rite"](https://storage.googleapis.com/cardamonchai-media/2022-03-10/cover-jpg-imagine-080808_2d2d2d_3000_3000/640.webp "Patience Of The Trail – \\"Rite\\"")
 
 The first track, "Beartooth", starts harmoniously and initially offers thoughtful moments that continue to build up and culminate in a precise interplay of guitar and drums. You will notice its at the same time angry and playful sounding escapism, which is by no means followed by just calmness. The end of the track seems rather pensive and offers the perfect transition to the EP's namesake "Rite", which has this beautiful slight hint of 80ies sound and shoegaze. 
 
@@ -52,7 +52,7 @@ This song makes me want more. I can't wait to express it live. Its driving sound
 
 "The Colour Of Burnt Umber" starts with something that sounds like a xylophone? A certain air of uncertainty initially underpins the whole piece. Then the drums kick in and mix everything up. Finally, the rhythm brings something indescribably beautiful to the surface. Let this sound wash you away and look forward to the finale – keyboard and drums introduce it and then dissolve into the play of melodies.
 
-The last and shortest track, "Expressions", beautifully expresses the admiration of the band founder's idols mentioned above. In only 4:33, the two sound artists manage to set to music exactly this fabulous alternating bath of soft and heavy moments, light and shadow, which we post-music people love so much.
+The last and shortest track, "Expressions", beautifully expresses the admiration of the band founder's idols mentioned above. together with his drummer, he manages to set to music exactly this fabulous alternating bath between soft and heavy moments, light and shadow, which we post-music people love so dearly – in only 4:33.
 
 I'm already very curious to see what happens next with Patience Of The Trail. Therefore, I would like to recommend the debut EP "Rite" to you.
 
