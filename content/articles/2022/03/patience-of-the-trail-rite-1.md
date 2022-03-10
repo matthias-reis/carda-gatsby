@@ -52,7 +52,7 @@ This song makes me want more. I can't wait to express it live. Its driving sound
 
 "The Colour Of Burnt Umber" starts with something that sounds like a xylophone? A certain air of uncertainty initially underpins the whole piece. Then the drums kick in and mix everything up. Finally, the rhythm brings something indescribably beautiful to the surface. Let this sound wash you away and look forward to the finale – keyboard and drums introduce it and then dissolve into the play of melodies.
 
-The last and shortest track, "Expressions", beautifully expresses the admiration of the band founder's idols mentioned above. together with his drummer, he manages to set to music exactly this fabulous alternating bath between soft and heavy moments, light and shadow, which we post-music people love so dearly – in only 4:33.
+The last and shortest track, "Expressions", beautifully expresses the admiration of the band founder's idols mentioned above. Together with his drummer, he manages to set to music exactly this fabulous alternating bath between soft and heavy moments, light and shadow, which we post-music people love so dearly – in only 4:33.
 
 I'm already very curious to see what happens next with Patience Of The Trail. Therefore, I would like to recommend the debut EP "Rite" to you.
 
