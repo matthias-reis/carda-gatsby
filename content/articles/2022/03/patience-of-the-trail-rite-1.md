@@ -54,7 +54,7 @@ This song makes me want more. I can't wait to express it live. Its driving sound
 
 The last and shortest track, "Expressions", beautifully expresses the admiration of the band founder's idols mentioned above. Together with his drummer, he manages to set to music exactly this fabulous alternating bath between soft and heavy moments, light and shadow, which we post-music people love so dearly – in only 4:33.
 
-I'm already very curious to see what happens next with Patience Of The Trail. Therefore, I would like to recommend the debut EP "Rite" to you.
+I'm already very curious to see what's up next for Patience Of The Trail. Therefore, I would like to recommend the debut EP "Rite" to you.
 
 ## Patience Of The Trail - "Beartooth"
 
