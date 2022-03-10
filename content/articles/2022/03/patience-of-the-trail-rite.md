@@ -4,7 +4,7 @@ slug: patience-of-the-trail-rite
 typeName: Review
 title: Patience Of The Trail – "Rite"
 subTitle: Die Debüt-EP des Post-Rock Duos
-seoTitle: Die Debüt-EP des Post-Rock Duos – Post-Rock Review
+seoTitle: Patience Of The Trail – "Rite" – Post-Rock Review
 description: Jan Wiesinger gründete Patience Of The Trail 2019 zunächst als
   Solo-Projekt. Inzwischen ist das Projekt ein Duo und hat die wunderbare
   Debüt-EP "Rite" veröffentlicht.
