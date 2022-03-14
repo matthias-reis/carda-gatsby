@@ -37,7 +37,7 @@ Mit seinem Mentor, dem Sea Shepherd Gründer Paul Watson beteiligte sich Rob akt
 
 In Toronto aufgewachsen, begann er bereits im zarten Alter von 13 Jahren mit Fotografie und spezialisierte sich sehr bald auf Unterwasserfotografie und marine Videoaufnahmen. Nachdem er kurze Zeit als Tauchtrainer gearbeitet hatte, wurde er Fotograf für verschiedene Naturmagazine und machte seinen Abschluss in Biologie an der University of Western Ontario.
 
-Sein Film "Sharkwater – Extinction" wurde international über 30 Mal ausgezeichnet, der zweite Teil "Revolution" 19 Mal. Unter anderem hat er für seine Werke den Environmental Vision Award und den Genesis Award bekommen.
+Sein Film "Sharkwater – Extinction" wurde international über 30 Mal ausgezeichnet, "Sharkwater – Revolution" 19 Mal. Unter anderem hat er für seine Werke den Environmental Vision Award und den Genesis Award bekommen.
 
 Die gesamte "Sharkwater" Trilogie, bestehend aus "Sharkwater – The Truth Will Surface", "Sharkwater – Extinction" und "Sharkwater – Revolution" könnt Ihr ab sofort kostenlos beim Nachhaltigkeit-Streamingdienst WaterBear streamen.
 
