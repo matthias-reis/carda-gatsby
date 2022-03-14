@@ -59,7 +59,7 @@ Vor der faszinierenden und vielseitigen Kulisse des Meeres und im Angesicht dies
 
 Im letzten Teil "Sharkwater – Revolution" reist er mit uns 3,5 Milliarden Jahre in der Zeit zurück und beleuchtet die Entwicklung des Lebens bis hin zur gerade stattfindenden Revolution. Gedreht hat er dafür in über 15 Ländern. Insgesamt dauerten die Aufnahmen vier Jahre, in denen der Filmemacher unter anderem verschiedene Aktivist⋆innen bei ihren Einsätzen begleitete. Beim Zuschauen wird einem nach und nach klar, wer die wirklichen Raubtiere sind – nicht etwa die Haie, sondern wir Menschen.
 
-Rob Steward hat sein Leben der Rettung der Haie gewidmet. In seinem leider sehr kurzen Leben ist es ihm gelungen, ein genaues Bild von diesen faszinierenden Lebewesen zu erschaffen. Ein Bild, das hoffentlich noch viele Menschen betrachten werden, es könnte der Schlüssel für ein Ende der Ausrottung der Meeresbewohner sein.
+Rob Steward hat sein Leben der Rettung der Haie gewidmet. In seinem leider viel zu kurzen Leben ist es ihm gelungen, ein genaues Bild von diesen faszinierenden Lebewesen zu erschaffen. Ein Bild, das hoffentlich noch viele Menschen betrachten werden, es könnte der Schlüssel für ein Ende der Ausrottung der Meeresbewohner sein.
 
 Ihr könnt die komplette "Sharkwater" Trilogie ab sofort [kostenlos beim Nachhaltigkeit-Streamingdienst WaterBear streamen](https://join.waterbear.com/sharkwater). [Mehr über WaterBear, wer dahinter steht und wie Ihr die Plattform nutzen könnt, erfahrt hier bei mir im Blog](/2021/02/waterbear-streamingdienst/).
 
