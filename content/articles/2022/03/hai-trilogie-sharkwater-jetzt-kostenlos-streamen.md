@@ -31,7 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Der kanadische Filmemacher und Naturschutz-Biologe Rob Steward kam 2017 unter tragischen Umständen auf See ums Leben. Jetzt ist sein Vermächtnis – eine Trilogie über den Schutz der Haie – auf dem Nachhaltigkeits-Streamingdienst WaterBear verfügbar.**
+**Der kanadische Filmemacher und Naturschutz-Biologe Rob Steward kam 2017 unter tragischen Umständen auf See ums Leben. Jetzt ist sein Vermächtnis – eine Trilogie über den Schutz der Haie – auf der Aktivismus-Streaming-Plattform WaterBear verfügbar.**
 
 Mit seinem Mentor, dem Sea Shepherd Gründer Paul Watson, beteiligte sich Rob aktiv am Kampf gegen illegalen Haifang. Er begleitete den Aktivisten und filmte seine Einsätze. 
 
@@ -39,7 +39,7 @@ In Toronto aufgewachsen, begann er bereits im zarten Alter von 13 Jahren mit Fot
 
 Sein Film "Sharkwater – Extinction" wurde international über 30 mal ausgezeichnet, "Sharkwater – Revolution" 19 mal. Unter anderem bekam er für seine Werke den Environmental Vision Award und den Genesis Award.
 
-Die gesamte "Sharkwater" Trilogie, bestehend aus "Sharkwater – The Truth Will Surface", "Sharkwater – Extinction" und "Sharkwater – Revolution", könnt Ihr ab sofort kostenlos beim Nachhaltigkeit-Streamingdienst WaterBear streamen.
+Die gesamte "Sharkwater" Trilogie, bestehend aus "Sharkwater – The Truth Will Surface", "Sharkwater – Extinction" und "Sharkwater – Revolution", könnt Ihr ab sofort kostenlos bei WaterBear streamen.
 
 In seinen Filmen zeigt Rob, wie weit das Leben der Haie von den historisch verankerten und von den Medien reproduzierten Stereotypen entfernt sind. Er berichtet von einer faszinierenden Spezies, die mit den menschenfressenden Killermaschinen, die wir aus Filmen kennen, wenig zu tun hat.
 
@@ -61,7 +61,7 @@ Im letzten Teil "Sharkwater – Revolution" reist er mit uns 3,5 Milliarden Jahr
 
 Rob Steward hat sein leider viel zu kurzes Leben der Rettung der Haie gewidmet. Es ist ihm gelungen, ein detailliertes Bild von diesen faszinierenden Lebewesen zu erschaffen. Ein Bild, das hoffentlich noch viele Menschen betrachten werden – es könnte der Schlüssel zum Ende der Ausrottung dieser großartigen Meeresbewohner und Hüter des bedeutendsten Ökosystems unseres Planeten sein.
 
-Ihr könnt die komplette "Sharkwater" Trilogie ab sofort [kostenlos beim Streamingdienst WaterBear streamen](https://join.waterbear.com/sharkwater). [Mehr über WaterBear, wer dahinter steht und wie Ihr die Plattform nutzen könnt, erfahrt hier bei mir im Blog](/2021/02/waterbear-streamingdienst/).
+Ihr könnt die komplette "Sharkwater" Trilogie ab sofort [kostenlos beim Streaming-Dienst WaterBear streamen](https://join.waterbear.com/sharkwater). [Mehr über WaterBear, wer dahinter steht und wie Ihr die Plattform nutzen könnt, erfahrt hier bei mir im Blog](/2021/02/waterbear-streamingdienst/).
 
 <YouTube id="z2If9lYEWv0" />
 
