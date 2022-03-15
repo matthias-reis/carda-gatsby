@@ -60,8 +60,6 @@ Because it has become a dear evening routine for me over the recent months to li
 
 ## A benefit compilation for Ukraine
 
-Also, this Friday, the benefit compilation "For Ukraine" by Headphone Commute and Hollie and Keith Kenniff will be released, featuring Cynthia and James with their brand new song "Melt Away". This piece is definitely also worth a listen. Here are a few words about it from Headphone Commute:
-
-> "The first two minutes of '7.83' (so named for the frequency of Earth's vibration) are a raw field recording of the shelling of Kyiv, sent to us by a listener who is in the very centre of the violence and uncertainty. The remainder of the piece is a howling breath surrounded by heaviness, our primary motivation being a deep admiration for those in Ukraine using everything they have — both literally and figuratively — to resist injustice and maintain sovereignty in the face of sadistic, autocratic forces."
+Also, this Friday, the benefit compilation "For Ukraine" by Headphone Commute and Hollie and Keith Kenniff will be released, featuring Cynthia and James with their brand new song "Melt Away". This piece is definitely also worth a listen. 
 
 [Read my interview with Cynthia and James](/2021/10/awakened-souls-en/)
