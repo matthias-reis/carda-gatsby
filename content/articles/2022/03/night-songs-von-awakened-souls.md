@@ -53,7 +53,7 @@ Anders, als bei anderen Stücken aus diesem Genre, befinde ich mich beim Hören 
 
 Weil es in den letzten Monaten für mich zu einer lieb gewonnenen Abendroutine geworden ist, nachdem ich das Licht ausgeschaltet habe, über Kopfhörer entweder eine begleitete Mediation oder aber ruhige Ambient-Stücke zu hören, kommt mir "Night Songs" sehr gelegen. Ich fühle mich sehr wohl damit und kann mir vorstellen, das Album auch regelmäßig beim Einschlafen zu hören.
 
-Für mich ist "Night Songs" der perfekte Soundtrack für mein Yoga Nidra – den tief entspannten Zustand des klaren Bewusstseins, der sich kurz vor dem Einschlafen oder während der Entspannungsphase nach einer Yoga-Session einstellt.
+*Für mich ist "Night Songs" der perfekte Soundtrack für mein Yoga Nidra – den tief entspannten Zustand des klaren Bewusstseins, der sich kurz vor dem Einschlafen oder während der Entspannungsphase nach einer Yoga-Session einstellt.*
 
 "Night Songs" von awakened souls bringt allen, die sich in diesen wirren Zeiten zwischendurch einen kleinen Moment des Friedens wünschen, genau das – wohlige Entspannung, die über das Gehör geht, die sich ganz langsam nach und nach über den ganzen Körper ausbreitet.
 
