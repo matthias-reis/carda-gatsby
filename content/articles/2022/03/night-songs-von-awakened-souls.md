@@ -39,7 +39,7 @@ languageLink: /2022/03/awakened-souls-night-songs-en/
 ---
 **Am 18. März erscheint die neue awakened souls Platte "Night Songs". Seit "How We Heal" handelt es sich dabei um die erste Platte, die das Duo ohne andere Musiker aufgenommen hat. awakened souls wollen damit Menschen in Zeiten der Unruhe und Verwirrung einen besseren Schlaf zu ermöglichen.**
 
-Im Frühling 2021 merkten die beiden, dass guter Schlaf wichtiger den je ist in Zeiten der Pandemie – Zeiten, in denen die Kinder zu Hause unterrichtet werden mussten und die Grenzen zwischen Arbeit und Freizeit immer mehr verschwimmen.
+Im Frühling 2021 merkten die beiden, dass guter Schlaf wichtiger den je ist in Zeiten der Pandemie – Zeiten, in denen Kinder zu Hause unterrichtet werden müssen und die Grenzen zwischen Arbeit und Freizeit immer mehr verschwimmen.
 
 Awakened Souls waren schon immer auf der Suche nach Musik, die den Geist beruhigt und beim Einschlafen hilft. "Night Songs" ist nun ihre eigene Version eines gemütlichen Abend-Albums. Das Werk ist eine Kombination aus sich langsam entwickelnden, Loop-basierten Ambient Sounds mit Bass und schönen Vocal Texturen. Cynthia beschreibt das so:
 
