@@ -31,7 +31,7 @@ labels:
 focusKeyword: Night Songs
 advertisement: false
 affiliate: false
-language: de
+language: en
 languageLink: /2022/03/awakened-souls-night-songs/
 ---
 **On March 18, awakened souls will release their new record, "Night Songs". It is the first solo awakened souls record since "How We Heal". The duo recorded it to help people sleep better in times of fear and confusion.**
