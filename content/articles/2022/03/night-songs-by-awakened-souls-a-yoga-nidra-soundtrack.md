@@ -44,7 +44,7 @@ awakened souls have always been on the lookout for music that calms the mind and
 
 > "The tracks that ultimately made it on "Night Songs" are the ones that made us relax enough to go to a place where thoughts fade."
 
-I indeed couldn't have described the experience I had listening to "Night Songs" for the first time any more beautifully. Because that's precisely what the music of awakened souls does: it carries me away, gently beds me and slows down the carousel of thoughts in my head already with the first notes.
+I indeed couldn't have described the experience I had listening to 'Night Songs' for the first time any more beautifully. Because that's precisely what the music of awakened souls does: it carries me away, gently beds me and slows down the carousel of thoughts in my head already with the first notes.
 
 ## "Night Songs" lets me gently drift off to sleep
 
