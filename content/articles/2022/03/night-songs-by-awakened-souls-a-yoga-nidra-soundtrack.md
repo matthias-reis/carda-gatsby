@@ -42,9 +42,9 @@ In the spring of 2021, the duo realized that good night's sleep is more importan
 
 awakened souls have always been on the lookout for music that calms the mind and helps you fall asleep. "Night Songs" is their version of a cosy evening album. They combined slowly evolving loop-based ambient sounds with bass and beautiful vocal textures with their work. Cynthia describes it this way:
 
-> "The tracks that ultimately made it on "Night Songs" are the ones that made us relax enough to go to a place where thoughts fade."
+> "The tracks that ultimately made it on 'Night Songs' are the ones that made us relax enough to go to a place where thoughts fade."
 
-I indeed couldn't have described the experience I had listening to 'Night Songs' for the first time any more beautifully. Because that's precisely what the music of awakened souls does: it carries me away, gently beds me and slows down the carousel of thoughts in my head already with the first notes.
+I indeed couldn't have described the experience I had listening to "Night Songs" for the first time any more beautifully. Because that's precisely what the music of awakened souls does: it carries me away, gently beds me and slows down the carousel of thoughts in my head already with the first notes.
 
 ## "Night Songs" lets me gently drift off to sleep
 
