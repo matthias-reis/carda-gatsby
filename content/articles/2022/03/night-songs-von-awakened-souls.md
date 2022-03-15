@@ -10,9 +10,8 @@ description: Am 18. März erscheint die neue awakened souls Platte "Night Songs"
   Unruhe und Verwirrung.
 excerpt: Am 18. März erscheint die neue awakened souls Platte "Night Songs".
   Seit "How We Heal" handelt es sich dabei um die erste Platte, die das Duo ohne
-  andere Musiker aufgenommen hat. awakened souls habe sie aufgenommen, um damit
-  Menschen in Zeiten der Unruhe und Verwirrung einen besseren Schlaf zu
-  ermöglichen.
+  andere Musiker aufgenommen hat. awakened souls wollen damit Menschen in Zeiten
+  der Unruhe und Verwirrung einen besseren Schlaf zu ermöglichen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-15/awakened-souls-night-songs-jpg-imagine-585858_525456_1024_768/640.webp
 copyrigt: |+
   awakened souls
@@ -38,7 +37,7 @@ affiliate: false
 language: de
 languageLink: /2022/03/awakened-souls-night-songs-en/
 ---
-**Am 18. März erscheint die neue awakened souls Platte "Night Songs". Seit "How We Heal" handelt es sich dabei um die erste Platte, die das Duo ohne andere Musiker aufgenommen hat. awakened souls habe sie aufgenommen, um damit Menschen in Zeiten der Unruhe und Verwirrung einen besseren Schlaf zu ermöglichen.**
+**Am 18. März erscheint die neue awakened souls Platte "Night Songs". Seit "How We Heal" handelt es sich dabei um die erste Platte, die das Duo ohne andere Musiker aufgenommen hat. awakened souls wollen damit Menschen in Zeiten der Unruhe und Verwirrung einen besseren Schlaf zu ermöglichen.**
 
 Im Frühling 2021 merkten die beiden, dass guter Schlaf wichtiger den je ist in Zeiten der Pandemie – Zeiten, in denen die Kinder zu Hause unterrichtet werden mussten und die Grenzen zwischen Arbeit und Freizeit immer mehr verschwimmen.
 
