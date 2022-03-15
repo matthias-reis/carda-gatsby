@@ -49,7 +49,7 @@ Schöner hätte ich das Erlebnis, das ich beim ersten Hören von "Night Songs" h
 
 ## "Night Songs" lässt mich sanft in den Schlaf gleiten
 
-Anders, als bei anderen Stücken aus diesem Genre, befinde ich mich beim Hören nicht in einer endlosen Soundschleife. Die Musik entwickelt sich permanent weiter. Die insgesamt sechs Songs sind der perfekte Start in einen Abend voll Ruhe, Meditation und Entspannung. Mit den harmonischen Klängen gelingt es mir nach getaner Arbeit ganz ruhig in den Entspannungsmodus zu gleiten und ein paar Stunden später dann auch in den Schlaf zu gleiten.
+Anders, als bei anderen Stücken aus diesem Genre, befinde ich mich beim Hören nicht in einer endlosen Soundschleife. Die Musik entwickelt sich permanent weiter. Die insgesamt sechs Songs sind der perfekte Start in einen Abend voll Ruhe, Meditation und Entspannung. Mit den harmonischen Klängen gelingt es mir nach getaner Arbeit ganz ruhig in den Entspannungsmodus und ein paar Stunden später dann auch in den Schlaf zu gleiten.
 
 Weil es in den letzten Monaten für mich zu einer lieb gewonnenen Abendroutine geworden ist, nachdem ich das Licht ausgeschaltet habe, über Kopfhörer entweder eine begleitete Mediation oder aber ruhige Ambient-Stücke zu hören, kommt mir "Night Songs" sehr gelegen. Ich fühle mich sehr wohl damit und kann mir vorstellen, das Album auch regelmäßig beim Einschlafen zu hören.
 
