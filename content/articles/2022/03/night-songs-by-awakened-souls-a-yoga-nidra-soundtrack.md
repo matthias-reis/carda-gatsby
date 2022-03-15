@@ -6,13 +6,11 @@ title: '"Night Songs" by awakened souls – A Yoga Nidra Soundtrack'
 subTitle: A Yoga Nidra Soundtrack
 seoTitle: A Yoga Nidra Soundtrack
 description: On March 18, awakened souls will release their new record, "Night
-  Songs". It is the first solo awakened souls record since "How We Heal".
-  awakened souls recorded it to help people sleep better in times of fear and
-  confusion.
+  Songs". It is the first solo awakened souls record since "How We Heal". The
+  duo recorded it to help people sleep better in times of fear and confusion.
 excerpt: On March 18, awakened souls will release their new record, "Night
-  Songs". It is the first solo awakened souls record since "How We Heal".
-  awakened souls recorded it to help people sleep better in times of fear and
-  confusion.
+  Songs". It is the first solo awakened souls record since "How We Heal". The
+  duo recorded it to help people sleep better in times of fear and confusion.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-15/awakened-souls-night-songs-jpg-imagine-585858_525456_1024_768/640.webp
 copyrigt: awakened souls
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-15/awakened-souls-night-songs-fb-png-imagine-585858_4f5052_1200_628/640.webp
@@ -36,9 +34,9 @@ affiliate: false
 language: de
 languageLink: /2022/03/awakened-souls-night-songs/
 ---
-**On March 18, awakened souls will release their new record, "Night Songs". It is the first solo awakened souls record since "How We Heal". awakened souls recorded it to help people sleep better in times of fear and confusion.**
+**On March 18, awakened souls will release their new record, "Night Songs". It is the first solo awakened souls record since "How We Heal". The duo recorded it to help people sleep better in times of fear and confusion.**
 
-In the spring of 2021, the duo realized that good night's sleep is more important than ever in times of pandemic – times when children have to be homeschooled, and the lines between work and leisure are becoming increasingly blurred.
+In the spring of 2021, the two realized that good night's sleep is more important than ever in times of pandemic – times when children have to be homeschooled, and the lines between work and leisure are becoming increasingly blurred.
 
 awakened souls have always been on the lookout for music that calms the mind and helps you fall asleep. "Night Songs" is their version of a cosy evening album. They combined slowly evolving loop-based ambient sounds with bass and beautiful vocal textures with their work. Cynthia describes it this way:
 
