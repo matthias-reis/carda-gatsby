@@ -60,6 +60,6 @@ Because it has become a dear evening routine for me over the recent months to li
 
 ## A benefit compilation for Ukraine
 
-Also, this Friday, the benefit compilation "For Ukraine" by Headphone Commute and Hollie and Keith Kenniff will be released, featuring Cynthia and James with their brand new song "Melt Away". This piece is definitely also worth a listen. 
+The benefit compilation "For Ukraine" by Headphone Commute and Hollie and Keith Kenniff will also be released this Friday, featuring awakened souls with their brand new song "Melt Away". This piece is definitely also worth a listen. 
 
-[Read my interview with Cynthia and James](/2021/10/awakened-souls-en/)
+[Read my interview with Cynthia and James aka awakened souls](/2021/10/awakened-souls-en/)
