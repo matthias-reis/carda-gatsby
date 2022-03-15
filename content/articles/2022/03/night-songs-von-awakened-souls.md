@@ -63,4 +63,4 @@ Weil es in den letzten Monaten für mich zu einer lieb gewonnenen Abendroutine g
 
 Ebenfalls diesen Freitag erscheint die Benefiz-Compilation "For Ukraine" von Headphone Commute und Hollie und Keith Kenniff auf der Cynthia und James mit ihrem brandneuen Song "Melt Away" vertreten sind. Auch hier lohnt es sich, reinzuhören. 
 
-[Mein Interview mit Cynthia und James könnt Ihr hier lesen](/2021/10/awakened-souls/).
+[Mein Interview mit Cynthia und James aka awakened souls könnt Ihr hier lesen](/2021/10/awakened-souls/).
