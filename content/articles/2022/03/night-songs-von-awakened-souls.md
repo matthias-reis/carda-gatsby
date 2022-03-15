@@ -61,8 +61,6 @@ Weil es in den letzten Monaten für mich zu einer lieb gewonnenen Abendroutine g
 
 ## Eine Benefiz-Compilation für die Ukraine
 
-Ebenfalls diesen Freitag erscheint die Benefiz-Compilation "For Ukraine" von Headphone Commute und Hollie und Keith Kenniff auf der Cynthia und James mit ihrem brandneuen Song "Melt Away" vertreten sind. Auch hier lohnt es sich, reinzuhören. Hier ein paar Worte dazu von Headphone Commute:
-
-> "Bei den ersten zwei Minuten von '7.83' (benannt nach der Frequenz der Erdschwingung) handelt es sich um Feldaufnahmen des Beschusses von Kiew, die uns von einem Hörer zugesandt wurde, der sich mitten im Zentrum der Gewalt und Unruhen befindet. Der Rest des Stücks ist ein heulender Atem, der von Schwere umgeben ist. Unsere Hauptmotivation ist eine tiefe Bewunderung für die Menschen in der Ukraine, die alles, was sie haben – sowohl im wörtlichen als auch im übertragenen Sinne – einsetzen, um sich der Ungerechtigkeit zu widersetzen und ihre Souveränität angesichts sadistischer, autokratischer Kräfte zu bewahren."
+Ebenfalls diesen Freitag erscheint die Benefiz-Compilation "For Ukraine" von Headphone Commute und Hollie und Keith Kenniff auf der Cynthia und James mit ihrem brandneuen Song "Melt Away" vertreten sind. Auch hier lohnt es sich, reinzuhören. 
 
 [Mein Interview mit Cynthia und James könnt Ihr hier lesen](/2021/10/awakened-souls/).
