@@ -50,7 +50,7 @@ I indeed couldn't have described the experience I had listening to "Night Songs"
 
 Unlike other pieces from this genre, I don't find myself in an endless sound loop while listening. Instead, the music is constantly evolving. The total of six songs is the perfect start to an evening of rest, meditation and relaxation. With the harmonious sounds, I manage to slip quietly into relaxation mode after I've done my work, and then a few hours later, I'm able to drift off to sleep.
 
-Because it has become a dear evening routine for me over the recent months to listen to either a guided mediation or quiet ambient pieces through headphones after I have turned off the lights, "Night Songs" comes in very handy. I feel very comfortable with it and can imagine listening to the album regularly while falling asleep.
+Because it has become a dear evening routine for me over the recent months to listen to either a guided mediation or quiet ambient pieces over my headphones after I have turned off the lights, "Night Songs" comes in very handy. I feel very comfortable with it and can imagine listening to the album regularly while falling asleep.
 
 For me, "Night Songs" is the perfect soundtrack for my Yoga Nidra - the deeply relaxed state of clear consciousness that occurs just before falling asleep or during the relaxation phase after a yoga session.
 
