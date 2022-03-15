@@ -1,7 +1,7 @@
 ---
 date: 2022-03-14T16:46:12.929Z
 slug: rob-steward-sharkwater
-typeName: Beitrag
+typeName: Filmtipp
 title: Hai-Trilogie "Sharkwater" jetzt kostenlos streamen
 subTitle: Rob Stewards Vermächtnis auf WaterBear
 seoTitle: Rob Stewards Hai-Trilogie "Sharkwater" jetzt streamen
