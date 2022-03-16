@@ -71,7 +71,7 @@ Kennt Ihr schon den Begriff "Maskne"? Er beschreibt, die sich durch langes Maske
 
 ## Rötungen werden weniger
 
-Die trockene Luft in den letzten Wochen hat meine Röte wieder sichtbarer gemacht. Mit der Anwendung der Probiotic Drops bekomme ich sie nach und nach wieder in den Griff – das liegt höchstwahrscheinlich daran, dass die Hautflora nach und nach wieder in ihr natürliches Gleichgewicht kommt.
+Die trockene Luft der letzten Wochen hat meine Röte wieder sichtbarer gemacht. Mit der Anwendung der Probiotic Drops bekomme ich sie nach und nach wieder in den Griff – das liegt höchstwahrscheinlich daran, dass die Hautflora nach und nach wieder in ihr natürliches Gleichgewicht kommt.
 
 Die Probiotika aus fermentierten (selbstverständlich veganen) Milchsäurebakterien in den Drops sollen die hauteigenen Bakterien dazu bringen, synergetisch aktive Verbindungen zu produzieren. Diese sollen die Erneuerung der Zellen fördern – die Haut repariert sich also quasi selbst, ihre Abwehrkräfte werden stärker.
 
