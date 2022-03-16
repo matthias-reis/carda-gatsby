@@ -39,7 +39,7 @@ language: de
 ---
 **Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich habe die Collagen Drops, die Probiotic Drops und das Allround Balm getestet und einiges über die veganen Beauty-Produkte in Erfahrung gebracht.**
 
-Den Allround Balm habe ich zuerst ausprobiert. Er kam mir aufgrund meiner trockenen Lippen und Ellbogen sehr gelegen. Ich war schon länger auf der Suche nach einer Art "Erste-Hilfe-Produkt" für solche Fälle. Und genau als das wird er von Santaverde auch angepriesen: ein SOS-Balsam mit hochwertiger Pflanzenbutter und Ölen. Für mich klingt das ziemlich gut. Und ich muss sagen: Es klappt auch. Mit dem sanft nach Vanille duftenden Balsam fühlen sich meine Lippen gleich viel zarter an und auch die Ellenbogen spannen nach zwei Anwendungen schon viel weniger.
+Den Allround Balm habe ich zuerst ausprobiert. Er kam mir aufgrund meiner trockenen Lippen und Ellenbogen sehr gelegen. Ich war schon länger auf der Suche nach einer Art "Erste-Hilfe-Produkt" für solche Fälle. Und genau als das wird er von Santaverde auch angepriesen: ein SOS-Balsam mit hochwertiger Pflanzenbutter und Ölen. Für mich klingt das ziemlich gut. Und ich muss sagen: Es klappt auch. Mit dem sanft nach Vanille duftenden Balsam fühlen sich meine Lippen gleich viel zarter an und auch die Ellenbogen spannen nach zwei Anwendungen schon viel weniger.
 
 ## Reparierender und schützender Allround Balm 
 
