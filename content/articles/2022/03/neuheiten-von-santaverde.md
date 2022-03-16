@@ -53,6 +53,8 @@ Produkte mit pflanzlichem Kollagen habe ich bisher noch nicht getestet und so wa
 
 Ich habe den Tipp bekommen, täglich ein bis zwei Drops mit meiner Augencreme zu mischen. Das mache ich, seitdem ich sie habe und ich muss sagen, dass sie mir ein schön erfrischtes Gefühl geben. Ich trage sie außerdem direkt auf die kleinen Fältchen auf meiner Stirn und an den Schläfen auf.
 
+<Gallery name="santaverde-drops-1" />
+
 ## Was ist Kollagen?
 
 Kollagen ist der Feuchtigkeitsspeicher der Haut. Der Hauptbestandteil unseres Bindegewebes gibt der Haut ihre Elastizität und Festigkeit. Der Körper stellt das Stützprotein selbst her. Mit den Jahren lässt jedoch die Kollagen-Produktion und damit die Spannkraft der Haut nach. Wer sich zusätzlich starker Sonne, Nikotin oder anderen Belastungen aussetzt, kann diesen Prozess zusätzlich fördern. Um dem entgegenzuwirken, hilft die Anpassung der Lebensgewohnheiten und eine ausgeglichene Hautpflege.
@@ -74,3 +76,5 @@ Die Probiotika aus fermentierten (selbstverständlich veganen) Milchsäurebakter
 ## Nachhaltig, vegan und frei von Tierversuchen
 
 Wie alles von Santaverde, sind auch die Collagen Drops, die Probiotic Drops und der Allround Balm mit dem Leaping Bunny und dem Vegan Society Logo ausgezeichnet. Tierversuche und Inhaltsstoffe tierischen Ursprungs sind somit ausgeschlossen. Ein Großteil der verwendeten Zutaten trägt außerdem das EU-Biosiegel. Wenn Ihr mehr über Santaverde erfahren möchtet, lege ich Euch unter anderem [diesen Artikel](/2018/01/santaverde/) hier ans Herz. 2019 habe ich Santaverde Finca in Andalusien besucht. [Meinen Bericht findet Ihr hier](/2019/07/santaverde-finca-aloe-vera/).
+
+<Gallery name="santaverde-drops-2" />
