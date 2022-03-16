@@ -77,6 +77,6 @@ Die Probiotika aus fermentierten (selbstverständlich veganen) Milchsäurebakter
 
 ## Nachhaltig, vegan und frei von Tierversuchen
 
-Wie alles von Santaverde, sind auch die Collagen Drops, die Probiotic Drops und der Allround Balm mit dem Leaping Bunny und dem Vegan Society Logo ausgezeichnet. Tierversuche und Inhaltsstoffe tierischen Ursprungs sind somit ausgeschlossen. Ein Großteil der verwendeten Zutaten trägt außerdem das EU-Biosiegel. Wenn Ihr mehr über Santaverde erfahren möchtet, lege ich Euch unter anderem [diesen Artikel](/2018/01/santaverde/) hier ans Herz. 2019 habe ich Santaverde Finca in Andalusien besucht. [Meinen Bericht findet Ihr hier](/2019/07/santaverde-finca-aloe-vera/).
+Wie alles von Santaverde, sind auch die Collagen Drops, die Probiotic Drops und der Allround Balm mit dem Leaping Bunny und dem Vegan Society Logo ausgezeichnet. Tierversuche und Inhaltsstoffe tierischen Ursprungs sind somit ausgeschlossen. Ein Großteil der verwendeten Zutaten trägt außerdem das EU-Biosiegel. Wenn Ihr mehr über Santaverde erfahren möchtet, lege ich Euch unter anderem [diesen Artikel](/2018/01/santaverde/) ans Herz. 2019 habe ich Santaverde Finca in Andalusien besucht. [Meinen Bericht findet Ihr hier](/2019/07/santaverde-finca-aloe-vera/).
 
 <Gallery name="santaverde-drops-2" />
