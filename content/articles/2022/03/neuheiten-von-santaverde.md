@@ -10,7 +10,9 @@ description: Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich
   und einiges über die veganen Beauty-Produkte in Erfahrung gebracht.
 excerpt: Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich habe
   die Collagen Drops, die Probiotic Drops und das Allround Balm getestet und
-  einiges über die veganen Beauty-Produkte in Erfahrung gebracht.
+  einiges über die veganen Beauty-Produkte in Erfahrung gebracht. Wie alles von
+  Santaverde, sind auch die Collagen Drops, die Probiotic Drops und der Allround
+  Balm vegan und mit dem Leaping Bunny und dem Vegan Society Logo ausgezeichnet.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-16/santaverde-jpg-imagine-b8b8c8_a08a98_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-16/santaverde-fb-png-imagine-b8b8c8_9e9098_1200_628/640.webp
