@@ -65,7 +65,7 @@ Mit pflanzlichem Kollagen könnt Ihr also dem Feuchtigkeitsverlust entgegenwirke
 
 ## Probiotic Drops
 
-Genau wie die Collagen Drops kommen auch die Probiotic Drops ohne Duftstoffe daher und sind gut für sensible Haut geeignet. Sie enthalten natürliche Probiotika und sollen das Mikrobiom der Haut stärken. Dadurch soll die Haut gestärkt und geschützt und ausgeglichener wirken. Aloe Vera Saft und Lindenblütenhydrolat wirken Rötungen und Entzündungen entgegen, pflanzliches Hyaluron soll die Feuchtigkeit in der Haut einen und die natürliche Barrierefunktion stabilisieren.
+Genau wie die Collagen Drops kommen auch die Probiotic Drops ohne Duftstoffe daher und sind gut für sensible Haut geeignet. Sie enthalten natürliche Probiotika und sollen das Mikrobiom der Haut stärken. Dadurch soll die Haut nach und nach ausgeglichener wirken. Aloe Vera Saft und Lindenblütenhydrolat wirken Rötungen und Entzündungen entgegen, pflanzliches Hyaluron soll die Feuchtigkeit in der Haut einen und die natürliche Barrierefunktion stabilisieren.
 
 Kennt Ihr schon den Begriff "Maskne"? Er beschreibt, die sich durch langes Maskentragen unter der Nase und entlang der Maskenkante bildenden Pickeligen. Durch die Stärkung der natürlichen Hautbarriere mit den Probiotic Drops könnt Ihr ihnen laut Santaverde entgegenwirken.
 
