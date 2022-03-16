@@ -51,7 +51,7 @@ Was mir besonders gut gefällt, ist hier der zu 100 Prozent kompostierbare Tiege
 
 ## Collagen Drops für ein glattes Hautbild
 
-Produkte mit pflanzlichem Kollagen habe ich bisher noch nicht getestet und so war ich besonders gespannt auf die Collagen Drops. Das Kollagen soll dem Feuchtigkeitsverlust der Haut entgegenwirken und die Hautdichte verbessern. Der enthaltene Spirulinaextrakt soll die Kollagensynthese fördern und die Spannkraft der Haut erhalten. Aloe Vera Saft und Hyaluron sollen nachhaltig Feuchtigkeit spenden.
+Produkte mit pflanzlichem Kollagen habe ich bisher noch nicht getestet und so war ich besonders gespannt auf die Collagen Drops. Das Kollagen soll den Feuchtigkeitsverlust der Haut vermindern und die Hautdichte verbessern. Der enthaltene Spirulinaextrakt soll die Kollagensynthese fördern und die Spannkraft der Haut erhalten. Aloe Vera Saft und Hyaluron sollen nachhaltig Feuchtigkeit spenden.
 
 Ich habe den Tipp bekommen, täglich ein bis zwei Drops mit meiner Augencreme zu mischen. Das mache ich, seitdem ich sie habe und ich muss sagen, dass sie mir ein schön erfrischtes Gefühl geben. Ich trage sie außerdem direkt auf die kleinen Fältchen auf meiner Stirn und an den Schläfen auf.
 
@@ -61,13 +61,13 @@ Ich habe den Tipp bekommen, täglich ein bis zwei Drops mit meiner Augencreme zu
 
 Kollagen ist der Feuchtigkeitsspeicher der Haut. Der Hauptbestandteil unseres Bindegewebes gibt der Haut ihre Elastizität und Festigkeit. Der Körper stellt das Stützprotein selbst her. Mit den Jahren lässt jedoch die Kollagen-Produktion und damit die Spannkraft der Haut nach. Wer sich zusätzlich starker Sonne, Nikotin oder anderen Belastungen aussetzt, kann diesen Prozess zusätzlich fördern. Um dem entgegenzuwirken, hilft die Anpassung der Lebensgewohnheiten und eine ausgeglichene Hautpflege.
 
-Mit pflanzlichem Kollagen könnt Ihr also dem Feuchtigkeitsverlust entgegenwirken. Die in den Collagen Drops enthaltenen Kollagen-Aminosäuren werden aus Mais-, Soja- und Weizenprotein gewonnen. Ihr könnt die Drops mit Eurer Tages-, Nacht- oder Augenpflege mischen oder einfach solo auftragen. Die Collagen Drops sind frei von Duftstoffen und eignen sich daher auch für empfindliche Haut.
+Mit pflanzlichem Kollagen könnt Ihr also etwas den Feuchtigkeitsverlust Eurer Haut tun. Die in den Collagen Drops enthaltenen Kollagen-Aminosäuren werden aus Mais-, Soja- und Weizenprotein gewonnen. Ihr könnt die Drops mit Eurer Tages-, Nacht- oder Augenpflege mischen oder einfach solo auftragen. Die Collagen Drops sind frei von Duftstoffen und eignen sich daher auch für empfindliche Haut.
 
 ## Probiotic Drops
 
-Genau wie die Collagen Drops kommen auch die Probiotic Drops ohne Duftstoffe daher und sind gut für sensible Haut geeignet. Sie enthalten natürliche Probiotika und sollen das Mikrobiom der Haut stärken. Dadurch soll die Haut nach und nach ausgeglichener wirken. Aloe Vera Saft und Lindenblütenhydrolat wirken Rötungen und Entzündungen entgegen, pflanzliches Hyaluron soll die Feuchtigkeit in der Haut binden und ihre natürliche Barrierefunktion stabilisieren.
+Genau wie die Collagen Drops kommen auch die Probiotic Drops ohne Duftstoffe aus und sind gut für sensible Haut geeignet. Sie enthalten natürliche Probiotika und sollen das Mikrobiom der Haut stärken. Dadurch soll die Haut nach und nach ausgeglichener wirken. Aloe Vera Saft und Lindenblütenhydrolat helfen gegen Rötungen und Entzündungen. Pflanzliches Hyaluron soll die Feuchtigkeit in der Haut binden und ihre natürliche Barrierefunktion stabilisieren.
 
-Kennt Ihr schon den Begriff "Maskne"? Er beschreibt, die sich durch langes Maskentragen unter der Nase und entlang der Maskenkante bildenden Pickelchen. Durch die Stärkung der natürlichen Hautbarriere mit den Probiotic Drops könnt Ihr ihnen laut Santaverde entgegenwirken.
+Kennt Ihr schon den Begriff "Maskne"? Er beschreibt, die sich durch langes Maskentragen unter der Nase und entlang der Maskenkante bildenden Pickelchen. Durch die Stärkung der natürlichen Hautbarriere mit den Probiotic Drops könnt Ihr laut Santaverde etwas dagegen tun.
 
 ## Rötungen werden weniger
 
