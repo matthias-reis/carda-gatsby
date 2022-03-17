@@ -48,4 +48,8 @@ The album kicks off with Thot's collaboration with The Mystery of The Bulgarian 
 
 "Méandres" was made by Grégoire Fray (music, lyrics, guitars, keyboards, programming and lead vocals), Juliette Mauduit (additional vocals), Gil Chevigné (drums arrangement and performance), Michel Thiel (percussion performance), Stéphane Fedele (bass) and the singers of The Bulgarian Voices Gergana Dimitrova, Violeta Marinova, Sofia Yaneva, Mirela Asenova, Daniela Stoichkova & Elichka Krastanova (choir in "Euphrate"). Thibault Dupont did the engineering and mixing at Gam Studios (Waimes, Belgium), Dada Studios (Brussels, Belgium) and Renewsound (Sofia, Bulgaria). Jules Lechien was the recording assistant. Frederic Altstadt of Ångström did the mastering. Grégoire Fray and Michael Thie created the artwork.
 
-[You can find my interview with Grégoire here](/2021/04/thot-interview-en). You can download and stream the EP [here](thotweb.net/meandres).
+[You can find my interview with Grégoire here](/2021/04/thot-interview-en). Download and streaming options for "Méandres" can be found [here](thotweb.net/meandres).
+
+##Thot – "Bateleur"
+
+<YouTube id="pQO0VdufOXY" />
