@@ -34,7 +34,7 @@ languageLink: /2022/03/thot-meandres-en/
 
 Einen [Teaser zur Platte](/2021/12/karin-park-thot-perry-frank/) gab es hier im Blog schon im Dezember. Jetzt könnt Ihr sie endlich komplett hören. 
 
-Falls Euch Thot schon ein Begriff sind, werden Euch bei der neuen Platte vermutlich zuerst Grégoires, in diesem Fall französische, Lyrics auffallen. Die großartige Juliette Mauduit unterstützt ihn dabei tatkräftig. Das Stück "Euphrate" haben die Stimmen des Chors Mystery of the Bulgarian Voices zusätzlich angereichert, was der sonst noch stärker in die Industrial-Ecke tendierenden Band sehr gut zu Gesicht steht. Der harmonische Gesang ergibt eine wunderschöne Einheit mit dem rauen Sound des Kollektivs, der dadurch zu etwas ganz Neuem wird.
+Falls Euch Thot schon ein Begriff sind, werden Euch bei der neuen EP vermutlich zuerst Grégoires, in diesem Fall französische, Lyrics auffallen. Die großartige Juliette Mauduit unterstützt ihn dabei tatkräftig. Das Stück "Euphrate" haben die Stimmen des Chors Mystery of the Bulgarian Voices zusätzlich angereichert, was der sonst noch stärker in die Industrial-Ecke tendierenden Band sehr gut zu Gesicht steht. Der harmonische Gesang ergibt eine wunderschöne Einheit mit dem rauen Sound des Kollektivs, der dadurch zu etwas ganz Neuem wird.
 
 ## "Méandres" ist von Kontrasten geprägt
 
