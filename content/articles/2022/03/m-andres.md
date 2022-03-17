@@ -10,9 +10,8 @@ description: '"Méandres", die neue EP von Thot, ist bereits am 11. März
   Oddity" sind also bereits digital und auf Platte verfügbar.'
 excerpt: '"Méandres", die neue EP von Thot, ist bereits am 11. März erschienen.
   Die drei Songs "Euphrate", "Bateleur" und "Sleep Oddity" sind also bereits
-  digital und auf CD/Vinyl verfügbar. Unter der Leitung von Thot Gründer
-  Grégoire Fray hat das Post-Music Kollektiv mal wieder etwas Großartiges
-  geschaffen.'
+  digital und auf CD verfügbar. Unter der Leitung von Thot Gründer Grégoire Fray
+  hat das Post-Music Kollektiv mal wieder etwas Großartiges geschaffen.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-17/thot-meandres-le-bateleur-png-imagine-383838_000000_1024_768/640.webp
 copyrigt: Thot
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-17/thot-meandres-fb-png-imagine-383838_605f60_1200_628/640.webp
@@ -31,7 +30,7 @@ affiliate: false
 language: de
 languageLink: /2022/03/thot-meandres-en/
 ---
-**"Méandres", die neue EP von Thot, ist bereits am 11. März erschienen. Die drei Songs "Euphrate", "Bateleur" und "Sleep Oddity" sind also bereits digital und auf CD/Vinyl verfügbar. Unter der Leitung von Thot Gründer Grégoire Fray hat das Post-Music Kollektiv mal wieder etwas Großartiges geschaffen.**
+**"Méandres", die neue EP von Thot, ist bereits am 11. März erschienen. Die drei Songs "Euphrate", "Bateleur" und "Sleep Oddity" sind also bereits digital und auf CD verfügbar. Unter der Leitung von Thot Gründer Grégoire Fray hat das Post-Music Kollektiv mal wieder etwas Großartiges geschaffen.**
 
 Einen [Teaser zur Platte](/2021/12/karin-park-thot-perry-frank/) gab es hier im Blog schon im Dezember. Jetzt könnt Ihr sie endlich komplett hören. 
 
