@@ -42,7 +42,7 @@ If you are already familiar with Thot, you will probably notice Grégoire's, in 
 
 It is probably also the strong contrasts of the other two tracks that create the perfect overall picture that emerges when listening to "Méandres".
 
-"Méandres" stands for a series of even and winding curves within a riverbed or watercourse. Thot use it to describe their journey. In other words: their development as a band. Grégoire wrote the songs for the EP before the world sank into the virus crisis in March 2020. The sound eccentric uses it to express his love for electronic basslines and heavy guitars.
+"Méandres" stands for a series of even and winding curves within a riverbed or watercourse. Thot use it to describe their personal journey. In other words: their development as a band. Grégoire wrote the songs for the EP before the world sank into the virus crisis in March 2020. The sound eccentric uses it to express his love for electronic basslines and heavy guitars.
 
 The album kicks off with Thot's collaboration with The Mystery of The Bulgarian Voices. "Euphrates" is about women fighting for their rights. In the second track, "Bateleur", named after a tarot card, Grégoire switches back and forth between French and English. The bassy piece gradually develops into a kind of hymn. While the tempo slows down towards the middle, Juliette Mauduit's voice slowly takes over. Finally, the ballad-like "Sleep Oddity" is all hers. The song is about sleepless nights and astrophysical confusions. Gloomy guitars and present keyboard leads prepare Grégoire's entry, which finally becomes one with a bath of feedback, reverb and noise.
 
