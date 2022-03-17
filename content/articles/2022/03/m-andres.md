@@ -51,6 +51,6 @@ Mitgewirkt haben bei "Méandres" Grégoire Fray (Musik, Lyrics, Gitarren, Keyboa
 
 [Mein Interview mit Grégoire findet Ihr hier](/2021/04/thot-interview/). Die EP "Méandres" könnt Ihr [hier herunterladen und streamen](thotweb.net/meandres).
 
-##Thot – "Bateleur"
+## Thot – "Bateleur"
 
 <YouTube id="pQO0VdufOXY" />
