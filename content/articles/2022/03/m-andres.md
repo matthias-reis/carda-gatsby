@@ -7,7 +7,7 @@ subTitle: Die neue EP von Thot
 seoTitle: Thot – "Méandres" – Post-Music Review
 description: '"Méandres", die neue EP von Thot, ist bereits am 11. März
   erschienen. Die drei großartigen Songs "Euphrate", "Bateleur" und "Sleep
-  Oddity" sind also bereits digital und auf Platte verfügbar.'
+  Oddity" sind also bereits digital und auf CD verfügbar.'
 excerpt: '"Méandres", die neue EP von Thot, ist bereits am 11. März erschienen.
   Die drei Songs "Euphrate", "Bateleur" und "Sleep Oddity" sind also bereits
   digital und auf CD verfügbar. Unter der Leitung von Thot Gründer Grégoire Fray
