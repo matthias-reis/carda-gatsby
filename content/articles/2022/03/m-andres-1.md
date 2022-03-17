@@ -50,6 +50,6 @@ The album kicks off with Thot's collaboration with The Mystery of The Bulgarian 
 
 [You can find my interview with Grégoire here](/2021/04/thot-interview-en). Download and streaming options for "Méandres" can be found [here](thotweb.net/meandres).
 
-##Thot – "Bateleur"
+## Thot – "Bateleur"
 
 <YouTube id="pQO0VdufOXY" />
