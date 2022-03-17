@@ -49,3 +49,5 @@ Den Auftakt macht die Kooperation mit The Mystery of The Bulgarian Voices. In "E
 Mitgewirkt haben bei "Méandres" Grégoire Fray (Musik, Lyrics, Gitarren, Keyboards, Programmierung und Lead Vocals), Juliette Mauduit (weitere Vocals), Gil Chevigné (Drums Arrangement und Performance), Michel Thiel (Percussion Performance), Stéphane Fedele (Bass) sowie die Sänger⋆innen von The Bulgarian Voices Gergana Dimitrova, Violeta Marinova, Sofia Yaneva, Mirela Asenova, Daniela Stoichkova & Elichka Krastanova (Chor in "Euphrate"). Das Engineering und Mixing hat Thibault Dupont in den Gam Studios (Waimes, Belgien), den Dada Studios (Brussels, Belgien) und bei Renewsound (Sofia, Bulgarien) gemacht. Jules Lechien hat die Recording Assistenz übernommen. Das Mastering stammt von Frederic Altstadt von Ångström. Das Artwork hat Grégoire Fray zusammen mit Michael Thiel erstellt.
 
 [Mein Interview mit Grégoire findet Ihr hier](/2021/04/thot-interview/). Ihr könnt die EP [hier herunterladen und streamen](thotweb.net/meandres).
+
+Test
