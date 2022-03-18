@@ -5,13 +5,12 @@ typeName: Review
 title: '"Méandres"'
 subTitle: New Thot EP Out
 seoTitle: Thot – "Méandres" – Post-Music Review
-description: Thot already released their new EP on March 11th. So the three
-  songs "Euphrate", "Bateleur", and "Sleep Oddity" are already available
-  digitally and on CD.
-excerpt: Thot already released their new EP on March 11th. So the three songs
-  "Euphrate", "Bateleur", and "Sleep Oddity" are already available digitally and
-  on CD. Under the direction of Thot founder Grégoire Fray, the post-music
-  collective has once again created something unique.
+description: Thot already released their new EP on March 11th. The three songs
+  "Euphrate", "Bateleur", and "Sleep Oddity" are available digitally and on CD.
+excerpt: Thot already released their new EP on March 11th. The three songs
+  "Euphrate", "Bateleur", and "Sleep Oddity" are available digitally and on CD.
+  Under the direction of Thot founder Grégoire Fray, the post-music collective
+  has once again created something unique.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-17/thot-meandres-le-bateleur-png-imagine-383838_000000_1024_768/640.webp
 copyrigt: Thot
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-17/thot-meandres-fb-png-imagine-383838_605f60_1200_628/640.webp
@@ -30,7 +29,7 @@ affiliate: false
 language: en
 languageLink: /2022/03/thot-meandres/
 ---
-**Thot already released their new EP on March 11th. So the three songs "Euphrate", "Bateleur", and "Sleep Oddity" are already available digitally and on CD. Under the direction of Thot founder Grégoire Fray, the post-music collective has once again created something unique.**
+**Thot already released their new EP on March 11th. The three songs "Euphrate", "Bateleur", and "Sleep Oddity" are available digitally and on CD. Under the direction of Thot founder Grégoire Fray, the post-music collective has once again created something unique.**
 
 I already posted a [teaser for the record](/2021/12/karin-park-thot-perry-frank-en/) on the blog in December – Now you can finally listen to it in its entirety. 
 
