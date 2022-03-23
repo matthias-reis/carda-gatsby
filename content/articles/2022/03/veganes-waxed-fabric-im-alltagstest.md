@@ -68,7 +68,7 @@ Nach und nach soll dadurch das Bewusstsein der Menschen für das Leid der Tiere 
 
 ## Waxed Cotton richtig pflegen
 
-Wenn Ihr Euch lange an Euren Sachen aus Waxed Cotton erfreuend möchtet, solltet Ihr Wert auf die richtig Pflege legen. Weil es sich um Naturprodukte handelt, würden sie sich sonst im Laufe der Jahre zersetzen. Daher solltet Ihr sie trocken lagern und langsam trocknen lassen (also zum Beispiel auf keinen Fall auf die Heizung legen oder gar föhnen oder in den Trockner geben). Gewachste Baumwolle wird traditionell sogar jährlich neu gewachst. 
+Wenn Ihr Euch lange an Euren Sachen aus Waxed Cotton erfreuen möchtet, solltet Ihr Wert auf die richtig Pflege legen. Weil es sich um Naturprodukte handelt, würden sie sich sonst im Laufe der Jahre zersetzen. Daher solltet Ihr sie trocken lagern und langsam trocknen lassen (also zum Beispiel auf keinen Fall auf die Heizung legen oder gar föhnen oder in den Trockner geben). Gewachste Baumwolle wird traditionell sogar jährlich neu gewachst. 
 
 [Meinen Waxed Canvas Rucksack](https://tidd.ly/3Nb6xES) muss ich nur ab und zu mit einem feuchten Tuch abwischen. Damit er lange schön bleibt, halte ich ihn außerdem von direkter Sonneneinstrahlung fern.
 
