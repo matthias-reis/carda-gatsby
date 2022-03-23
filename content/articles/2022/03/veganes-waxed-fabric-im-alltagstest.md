@@ -10,11 +10,8 @@ description: Waxed Fabric (gewachster Stoff) wird traditionell für Taschen,
   getestet.
 excerpt: Waxed Fabric (gewachster Stoff) wird traditionell für Taschen, Jacken
   und Regenkleidung verwendet. Die Produkte sind in der Regel sehr langlebig und
-  für ihre Robustheit besonders bei Outdoor Fans sehr beliebt. Traditionell wird
-  dafür Baumwolle mit Bienenwachs oder Paraffin getränkt. Manchmal wird das
-  Wachs auch direkt verwebt oder aufgetragen. Heute gibt davon auch vegane und
-  nachhaltige Varianten. Eine davon möchte ich Euch heute anhand meines neuen
-  Rucksacks aus dem Hause Nordlicht vorstellen.
+  für ihre Robustheit besonders bei Outdoor Fans sehr beliebt. Heute möchte ich
+  Euch eine vegane Variante davon vorstellen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-23/waxed-fabric-anne-reis-1-jpg-imagine-080808_444345_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-23/waxed-fabric-anne-reis-fb-png-imagine-080808_504d46_1200_628/640.webp
