@@ -60,7 +60,7 @@ Was mir an ihm besonders gut gefällt: Er ist nicht nur sehr leicht für seine G
 
 Über Nordlicht [habe ich Euch ja hier vor Kurzem schon das ein oder andere berichtet](/2022/02/nordlicht/). Den Gründer⋆innen des Start-ups ist es wichtig, so nachhaltig wie möglich zu agieren. Dazu gehört für sie auch, dass ausschließlich ausgewählte Naturstoffe wie Segeltuch, Canvas, Baumwolle und [Kraftpapier](/2022/02/nordlicht/) verarbeitet werden.
 
-Mein neue Rucksack ist außen komplett aus Waxed Canvas, während das Innenfutter aus Baumwolle besteht. Für das nachhaltige und vor allem auch vegane Material wurde mein "Kona" mit dem [Peta approved vegan Siegel](https://tidd.ly/3D930m2) ausgezeichnet.
+Mein neuer Rucksack ist außen komplett aus Waxed Canvas, während das Innenfutter aus Baumwolle besteht. Für das nachhaltige und vor allem auch vegane Material wurde mein "Kona" mit dem [Peta approved vegan Siegel](https://tidd.ly/3D930m2) ausgezeichnet.
 
 Das bedeutet nicht nur, dass alle Bestandteile garantiert vegan sind. Mit dem Siegel möchte PETA den Bekanntheitsgrad und die Verbreitung veganer Mode verstärken. Tierfreundliche Unternehmen sollen die Möglichkeit erhalten, ihre veganen Produkte und ihr Engagement für die Tiere sichtbar zu machen.
 
