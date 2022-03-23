@@ -34,7 +34,7 @@ language: de
 ---
 **Waxed Fabric (gewachster Stoff) wird heute vor allem für die Herstellung von Taschen, Jacken und Regenkleidung verwendet. Die Produkte sind in der Regel sehr langlebig und für ihre Robustheit besonders bei Outdoor Fans sehr beliebt. Traditionell wird dafür Baumwolle mit Bienenwachs oder Paraffin getränkt. Manchmal wird das Wachs auch direkt verwebt oder aufgetragen. Heute gibt davon auch vegane und nachhaltige Varianten. Eine davon möchte ich Euch heute anhand meines neuen Rucksacks aus dem Hause Nordlicht vorstellen.**
 
-In Großbritannien erfreute sich Waxed Cotton von den 1920er Jahren bis in die Mitte der 1950er Jahre besonders großer Beliebtheit. Der, ursprünglich aus der Segelindustrie stammende, Stoff wurde damals auch häufig zum Abdichten verwendet. Mit dem Aufkommen der verschiedensten Kunststoffe wurde das natürliche Material jedoch nach und nach verdrängt. Heute wird es nur noch von ein paar wanderbegeisterten Menschen oder zum Beispiel in der Forstwirtschaft eingesetzt.
+In Großbritannien erfreute sich Waxed Cotton von den 1920er Jahren bis in die Mitte der 1950er Jahre besonders großer Beliebtheit. Der, ursprünglich aus der Segelindustrie stammende, Stoff wurde damals auch häufig zum Abdichten verwendet. Mit dem Aufkommen der verschiedensten Kunststoffe wurde das natürliche Material jedoch nach und nach verdrängt. Heute kommt es einem so vor, als würden sich nur noch von ein paar passionierte Wanderer und Menschen aus der Forstwirtschaft dafür interessieren.
 
 Dabei besitzt das gewachste Gewebe jede Menge überzeugende Vorteile und die bestehen nicht nur in der Tatsache, dass es ohne Plastik auskommt. Es ist zum Beispiel sehr stabil und zudem stark wasserabweisend. Wenn ich mit meinem Rucksack in den Regen komme (hier in Hamburg soll das ja durchaus ab und zu mal passieren), bleiben meine Bücher und mein Laptop schön trocken.
 
@@ -60,7 +60,7 @@ Was mir an ihm besonders gut gefällt: Er ist nicht nur sehr leicht für seine G
 
 Über Nordlicht [habe ich Euch ja hier vor Kurzem schon das ein oder andere berichtet](/2022/02/nordlicht/). Den Gründer⋆innen des Start-ups ist es wichtig, so nachhaltig wie möglich zu agieren. Dazu gehört für sie auch, dass ausschließlich ausgewählte Naturstoffe wie Segeltuch, Canvas, Baumwolle und [Kraftpapier](/2022/02/nordlicht/) verarbeitet werden.
 
-Genau, wie bei meinem Rucksack. Der ist außen komplett aus Waxed Canvas, während das Innenfutter aus Baumwolle besteht. Für das nachhaltige und vor allem auch vegane Material wurde mein "Kona" mit dem [Peta approved vegan Siegel](https://tidd.ly/3D930m2) ausgezeichnet.
+Mein neue Rucksack ist außen komplett aus Waxed Canvas, während das Innenfutter aus Baumwolle besteht. Für das nachhaltige und vor allem auch vegane Material wurde mein "Kona" mit dem [Peta approved vegan Siegel](https://tidd.ly/3D930m2) ausgezeichnet.
 
 Das bedeutet nicht nur, dass alle Bestandteile garantiert vegan sind. Mit dem Siegel möchte PETA den Bekanntheitsgrad und die Verbreitung veganer Mode verstärken. Tierfreundliche Unternehmen sollen die Möglichkeit erhalten, ihre veganen Produkte und ihr Engagement für die Tiere sichtbar zu machen.
 
