@@ -47,7 +47,7 @@ languageLink: /2022/03/goodbye-meteor/
 
 ## "We want to be spontaneous"
 
-![](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-metanoia-jpg-imagine-080808_515250_1080_1080/640.webp)
+![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-metanoia-jpg-imagine-080808_515250_1080_1080/640.webp "Goodbye Meteor – \"Metanoia\"")
 
 **Ced:** When we compose, we try to connect to the present moment. We want to empty ourselves. We don't plan anything. It's then that we think about giving it meaning. What matters most to the four of us is to stay honest. "Metanoia" reflects what we are and feel when we write about it.
 
@@ -63,7 +63,7 @@ languageLink: /2022/03/goodbye-meteor/
 
 ## "Greta Thunberg has our respect"
 
-![](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-3-jpg-imagine-080808_231f1a_1024_768/640.webp)
+![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-3-jpg-imagine-080808_231f1a_1024_768/640.webp "Goodbye Meteor in the studio")
 
 **Ced:** Ecology and animal rights are fundamental to us. We talked about "green post-rock" for fun one day, and it stayed.
 
@@ -85,7 +85,7 @@ languageLink: /2022/03/goodbye-meteor/
 
 ## We want to raise our voices without words
 
-![](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-jpg-imagine-080818_413e48_1024_768/640.webp)
+![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-jpg-imagine-080818_413e48_1024_768/640.webp "Goodbye Meteor on stage")
 
 **Ced:** Yes, but with our instrumental music we've chosen a different way to pass the message. When we are on stage, we sometimes accompany our music with films. The images combined with the music are an excellent way to communicate without words. That's what we try to do the best we can with Goodbye Meteor. Of course, very subtle – because politics has nothing to do with our music for us.
 
@@ -97,7 +97,7 @@ languageLink: /2022/03/goodbye-meteor/
 
 ## "To judge others is easier than to question yourself"
 
-![](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-2-jpg-imagine-080808_282b32_1024_768/640.webp)
+![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-2-jpg-imagine-080808_282b32_1024_768/640.webp "Goodbye Meteor Drummer Laurent Boile")
 
 **Ced:** It's always easier to judge others than to question yourself. I think it's crazy that advocating non-violence is seen as extreme.
 
