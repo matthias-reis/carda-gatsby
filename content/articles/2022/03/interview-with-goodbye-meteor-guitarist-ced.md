@@ -77,7 +77,7 @@ languageLink: /2022/03/goodbye-meteor/
 
 **Ced:** I am vegan for animals. I first became vegetarian ten years ago. I always had this strange feeling about meat. Nowadays I would say I felt guilty. For me, veganism also includes ecology and the human condition. But it's more than a diet or politics. It's a way of life, which was obvious to me.
 
-**Anne:** I talked to several vegan musicians like Belinda and Justin from Crippled Black Phoenix, who told me, they sometimes use their music as their form of vegan activism. Is this also one of your goals?
+**Anne:** I talked to several vegan musicians like [Belinda and Justin from Crippled Black Phoenix](/2020/12/crippled-black-phoenix-interview-en), who told me, they sometimes use their music as their form of vegan activism. Is this also one of your goals?
 
 ## We want to raise our voices without words
 
