@@ -7,7 +7,7 @@ subTitle: '"Nachhaltigkeit und Tierrechte sind für uns von grundlegender Bedeut
 seoTitle: Post-Rock Interview mit Goodbye Meteor Gitarrist Cedric Pecourt
 description: Goodbye Meteor bezeichnen sich als "grünes Post-Rock Projekt".  Im
   Interview habe ich mich mit dem vegan lebenden Gitarristen der Band Ced über
-  die neue EP "Metanoia" unterhalten
+  die neue EP "Metanoia" unterhalten.
 excerpt: Goodbye Meteor bezeichnen sich als "grünes Post-Rock Projekt". Ihre
   Musik beschreiben sie als "imersiven und solaren Post-Rock, der aus dem Chaos
   kommt und sich in Richtung Resilienz bewegt". Mit ihren Stücken wollen die
