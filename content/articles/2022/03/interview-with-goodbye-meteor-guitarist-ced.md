@@ -114,3 +114,11 @@ languageLink: /2022/03/goodbye-meteor/
 "Metanoia" is immersive and moving. It is an introverted call to humanity to start and change things for the sake of this planet. And isn't there a saying with the words "And as they say, when the introverts hit the streets to show their protest, it's time to do something"? With their instrumental tracks, Goodbye Meteor lead you the way through dark galaxies and light and luminous worlds. With three tracks, the EP allows you to leave reality behind and look behind the wall of fear and hatred for 20 minutes of peace and sound.
 
 Goodbye Meteor are Maxime Picquart (guitar), Cedric Pecourt (guitar), Laurent Boile (drums), and Julien Bloquel (bass).
+
+## Goodbye Meteor – "Play Or Die"
+
+<YouTube id="imzINkC764E" />
+
+## Goodbye Meteor – "Metanoia"
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1293938673/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://goodbyemeteor.bandcamp.com/album/metanoia">Metanoia by Goodbye Meteor</a></iframe>
