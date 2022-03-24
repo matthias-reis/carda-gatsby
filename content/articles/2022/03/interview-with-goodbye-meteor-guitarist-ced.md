@@ -81,7 +81,7 @@ languageLink: /2022/03/goodbye-meteor/
 
 ## We want to raise our voices without words
 
-**Ced:** Yes, but with our instrumental music we've chosen a different way to pass the message. When we are on stage, we sometimes accompany our music with films. The images combined with the music are an excellent way to communicate without words. That's what we try to do the best we can with Goodbye Meteor. Of course, very subtly – because politics has nothing to do with our music for us.
+**Ced:** Yes, but with our instrumental music we've chosen a different way to pass the message. When we are on stage, we sometimes accompany our music with films. The images combined with the music are an excellent way to communicate without words. That's what we try to do the best we can with Goodbye Meteor. Of course, very subtle – because politics has nothing to do with our music for us.
 
 **Anne:** Why is it that people in the music business often seem more interested in veganism than others? Does it have something to do with tour catering?
 
