@@ -52,7 +52,7 @@ languageLink: /2022/03/goodbye-meteor-en/
 
 **Anne:** "Metanoia" ist Euer zweites Projekt mit drei Songs und Ihr habt auch schon eine Remix-Platte gemacht. Ich nehme an, Ihr habt auch vor, irgendwann einen kompletten Langspieler zu produzieren?
 
-**Ced:** Ja, wir wollen ein Album aufnehmen. Wir möchten mit anderen Künstlern zusammenarbeiten. Wir wollen all unsere offiziellen Veröffentlichungen von Künstler⋆innen aus der Ambient-Szene remixen lassen. Außerdem arbeiten wir auch an unserer nächsten EP, die dieses Mal länger sein wird. Wir planen, sie Ende dieses Jahres zu veröffentlichen. Das Album kommt dann 2023.
+**Ced:** Ja, wir wollen ein Album aufnehmen. Wir möchten mit anderen Künstlern zusammenarbeiten. Wir wollen all unsere offiziellen Veröffentlichungen von Künstler⋆innen aus der [Ambient-Szene](/tag/ambient) remixen lassen. Außerdem arbeiten wir auch an unserer nächsten EP, die dieses Mal länger sein wird. Wir planen, sie Ende dieses Jahres zu veröffentlichen. Das Album kommt dann 2023.
 
 **Anne:** Eure Platte ist auf Bandcamp erschienen. Wird sie auch auf anderen Plattformen verfügbar sein oder ist sogar eine haptische Version – zum Beispiel auf Vinyl oder Kassette?
 
@@ -78,7 +78,7 @@ languageLink: /2022/03/goodbye-meteor-en/
 
 **Ced:** Ich bin für die Tiere vegan. Vor zehn Jahren wurde ich zunächst Vegetarier. Bei Fleisch hatte ich schon immer dieses komische Gefühl. Heute denke ich, dass es Schuld war. Der Veganismus hat für mich auch mit Umweltschutz und Gesundheit zu tun. Trotzdem ist es mehr, als eine Diät oder Politik. Für mich war es immer offensichtlich, dass es sich dabei um eine Lebensweise handelt, für die man sich aus Überzeugung entscheidet.
 
-**Anne:** Ich habe mich schon mit einigen veganen Musiker⋆innen wie zum Beispiel Belinda und Justin von Crippled Black Phoenix unterhalten. Sie haben mir erzählt, dass sie ihre Musik auch als eine Form von veganem Aktivismus nutzen. Ist da auch eines Eurer Ziele?
+**Anne:** Ich habe mich schon mit einigen veganen Musiker⋆innen wie zum Beispiel [Belinda und Justin von Crippled Black Phoenix](/2020/12/crippled-black-phoenix-interview/) unterhalten. Sie haben mir erzählt, dass sie ihre Musik auch als eine Form von veganem Aktivismus nutzen. Ist da auch eines Eurer Ziele?
 
 **Ced:** Ja, aber wir gehen mit unserer Instrumentalmusik einen anderen Weg, um die Botschaft weiterzugeben. Wenn wir auf der Bühne stehen, begleiten wir unsere Musik manchmal mit Filmen. Die Bilder in Kombination mit der Musik sind eine hervorragende Möglichkeit, ohne Worte zu kommunizieren. Genau das versuchen wir mit Goodbye Meteor so gut wie möglich zu tun. Natürlich auf subtile Weise – denn unsere Musik hat für uns nichts mit Politik zu tun.
 
