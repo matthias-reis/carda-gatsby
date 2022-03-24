@@ -48,6 +48,8 @@ languageLink: /2022/03/goodbye-meteor-en/
 
 ## "Wir wollen spontan sein"
 
+![](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-metanoia-jpg-imagine-080808_515250_1080_1080/640.webp)
+
 **Ced:** Wenn wir komponieren, versuchen wir, uns mit dem gegenwärtigen Moment zu verbinden. Wir wollen uns selbst leeren. Wir planen nichts. Wir denken erst darüber nach, wie wir dem Ganzen eine Bedeutung geben können, wenn wir schon dabei sind. Das Wichtigste für uns vier ist es, ehrlich zu bleiben. "Metanoia" spiegelt das wider, was wir sind und fühlen, wenn wir darüber schreiben.
 
 **Anne:** "Metanoia" ist Euer zweites Projekt mit drei Songs und Ihr habt auch schon eine Remix-Platte gemacht. Ich nehme an, Ihr habt auch vor, irgendwann einen kompletten Langspieler zu produzieren?
@@ -62,6 +64,8 @@ languageLink: /2022/03/goodbye-meteor-en/
 
 ## "Greta Thunberg inspiriert uns"
 
+![](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-3-jpg-imagine-080808_231f1a_1024_768/640.webp)
+
 **Ced:** Nachhaltigkeit und Tierrechte sind für uns von grundlegender Bedeutung. Wir haben eines Tages mal aus Spaß über "grünen Post-Rock" gesprochen – irgendwie sind wir dann dabei geblieben.
 
 **Anne:** Der erste Song auf der Platte, "Play Or Die", beginnt mit der Stimme von Greta Thunberg. Habt Ihr sie getroffen? Ich bin sicher, dass Ihr der Song gefällt!
@@ -74,6 +78,8 @@ languageLink: /2022/03/goodbye-meteor-en/
 
 ## Vegan für die Tiere
 
+![](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-jpg-imagine-080818_413e48_1024_768/640.webp)
+
 **Anne:** Du hast mir erzählt, dass Du auch Veganer bist (und der Rest der Band Vegetarier⋆innen). Seit wann ist das so und was hat Dich überzeugt, vegan zu leben?
 
 **Ced:** Ich bin für die Tiere vegan. Vor zehn Jahren wurde ich zunächst Vegetarier. Bei Fleisch hatte ich schon immer dieses komische Gefühl. Heute denke ich, dass es Schuld war. Der Veganismus hat für mich auch mit Umweltschutz und Gesundheit zu tun. Trotzdem ist es mehr, als eine Diät oder Politik. Für mich war es immer offensichtlich, dass es sich dabei um eine Lebensweise handelt, für die man sich aus Überzeugung entscheidet.
@@ -85,6 +91,8 @@ languageLink: /2022/03/goodbye-meteor-en/
 **Anne:** Woran liegt es, dass sich die Leute im Musik-Business oft mehr für Veganismus zu interessieren scheinen als andere? Hat es etwas mit dem Tour-Catering zu tun?
 
 ## "Gegen Gewalt zu sein ist nicht extrem"
+
+![](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-2-jpg-imagine-080808_282b32_1024_768/640.webp)
 
 **Ced:** Ich weiß nicht mehr, wer gesagt hat, dass "Kunst dazu da ist, Fragen zu stellen". Ich denke, dass viele Künstler sich Fragen über die Welt um sie herum stellen, also ist das ziemlich sinnvoll. Ich bin mir sehr sicher, dass es nichts mit dem Essen auf Tour zu tun hat (lacht).
 
