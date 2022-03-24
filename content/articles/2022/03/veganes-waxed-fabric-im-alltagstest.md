@@ -32,7 +32,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
-**Waxed Fabric (gewachster Stoff) wird heute vor allem für die Herstellung von Taschen, Jacken und Regenkleidung verwendet. Die Produkte sind in der Regel sehr langlebig und für ihre Robustheit besonders bei Outdoor Fans sehr beliebt. Traditionell wird dafür Baumwolle mit Bienenwachs oder Paraffin getränkt. Manchmal wird das Wachs auch direkt verwebt oder aufgetragen. Heute gibt davon auch vegane und nachhaltige Varianten. Eine davon möchte ich Euch heute anhand meines neuen Rucksacks aus dem Hause Nordlicht vorstellen.**
+**Waxed Fabric (gewachster Stoff) wird heute vor allem für die Herstellung von Taschen, Jacken und Regenkleidung verwendet. Die Produkte sind in der Regel sehr langlebig und für ihre Robustheit besonders bei Outdoor Fans sehr beliebt. Traditionell wird dafür Baumwolle mit Bienenwachs oder Paraffin getränkt. Manchmal wird das Wachs auch direkt verwebt oder aufgetragen. Heute gibt es davon auch vegane und nachhaltige Varianten. Eine davon möchte ich Euch heute anhand meines neuen Rucksacks aus dem Hause Nordlicht vorstellen.**
 
 In Großbritannien erfreute sich Waxed Cotton von den 1920er Jahren bis in die Mitte der 1950er Jahre besonders großer Beliebtheit. Der, ursprünglich aus der Segelindustrie stammende, Stoff wurde damals auch häufig zum Abdichten verwendet. Mit dem Aufkommen der verschiedensten Kunststoffe wurde das natürliche Material jedoch nach und nach verdrängt. Heute kommt es einem so vor, als würden sich nur noch von ein paar passionierte Wanderer und Menschen aus der Forstwirtschaft dafür interessieren.
 
