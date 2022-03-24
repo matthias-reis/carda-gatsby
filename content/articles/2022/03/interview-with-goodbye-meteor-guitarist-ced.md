@@ -5,12 +5,12 @@ typeName: Interview
 title: Interview With Goodbye Meteor Guitarist Ced
 subTitle: '"Ecology And Animal Rights Are Fundamental To Us"'
 seoTitle: Post-Rock Interview With Goodbye Meteor Guitarist Ced
-description: Goodbye Meteor claim to be a "green post-rock" project – wanting to
+description: Goodbye Meteor claim to be a "green post-rock project" – wanting to
   unveil the way to harmony between humanity and nature. I now talked to
   guitarist Ced about their new EP "Metanoia".
 excerpt: Goodbye Meteor call their music "immersive and solar post-rock, coming
   out of chaos heading towards resilience". They also claim to be a "green
-  post-rock" project – wanting to unveil the way to harmony between humanity and
+  post-rock project" – wanting to unveil the way to harmony between humanity and
   nature. I talked to guitarist Ced about their new EP "Metanoia", which is now
   available on Bandcamp.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-1-jpg-imagine-080808_191a20_1024_768/640.webp
@@ -33,7 +33,7 @@ affiliate: false
 language: en
 languageLink: /2022/03/goodbye-meteor/
 ---
-**Goodbye Meteor call their music "immersive and solar post-rock, coming out of chaos heading towards resilience". They also claim to be a "green post-rock" project – wanting to unveil the way to harmony between humanity and nature. I talked to guitarist Ced about their new EP "Metanoia", which is now available on Bandcamp.**
+**Goodbye Meteor call their music "immersive and solar post-rock, coming out of chaos heading towards resilience". They also claim to be a "green post-rock project" – wanting to unveil the way to harmony between humanity and nature. I talked to guitarist Ced about their new EP "Metanoia", which is now available on Bandcamp.**
 
 **Anne:** Hi! Thanks for taking the time for this interview. How are you doing? I am sure you are pretty happy with your new record – it is incredible!
 
@@ -47,7 +47,7 @@ languageLink: /2022/03/goodbye-meteor/
 
 ## "We want to be spontaneous"
 
-![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-metanoia-jpg-imagine-080808_515250_1080_1080/640.webp "Goodbye Meteor – \"Metanoia\"")
+![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-metanoia-jpg-imagine-080808_515250_1080_1080/640.webp "Goodbye Meteor – \\"Metanoia\\"")
 
 **Ced:** When we compose, we try to connect to the present moment. We want to empty ourselves. We don't plan anything. It's then that we think about giving it meaning. What matters most to the four of us is to stay honest. "Metanoia" reflects what we are and feel when we write about it.
 
