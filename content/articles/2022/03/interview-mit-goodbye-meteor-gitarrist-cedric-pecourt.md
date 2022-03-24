@@ -42,7 +42,7 @@ languageLink: /2022/03/goodbye-meteor-en/
 
 **Anne:** Was bedeutet "Metanoia"?
 
-**Ced:** Das Wort "Metanoia" hat sich uns quasi aufgedrängt. Wir denken, dass es an Veränderung erinnert – die Mutation zu einem neuen Selbst, einer neuen Art, das Leben wahrzunehmen. Wir haben unser Line-Up verändert, unser Keyboarder Tom hat uns verlassen, und wir haben eine komplexere Richtung mit unserem Sound eingeschlagen. Die Platte ist auch wie eine Warnung, die in etwa so lauten könnte: "Selbst wenn wir unser Verhalten gegenüber dem Planeten ändern, laufen wir in unseren Untergang." Natürlich gibt es noch etwas Hoffnung, aber sogar mit einem kollektiven Bewusstsein ist es zweifellos zu spät, aber schaut nicht nach oben!
+**Ced:** Das Wort "Metanoia" hat sich uns quasi aufgedrängt. Wir denken, dass es an Veränderung erinnert – die Mutation zu einem neuen Selbst, einer neuen Art, das Leben wahrzunehmen. Wir haben unser Line-Up verändert, unser Keyboarder Tom hat uns verlassen, und wir haben eine komplexere Richtung mit unserem Sound eingeschlagen. Die Platte ist auch wie eine Warnung, die in etwa so lauten könnte: "Selbst, wenn wir unser Verhalten gegenüber dem Planeten ändern, laufen wir in unseren Untergang." Natürlich gibt es noch etwas Hoffnung, aber sogar mit einem kollektiven Bewusstsein ist es zweifellos zu spät, aber schaut nicht nach oben!
 
 **Anne:** Was hat Euch dazu inspiriert, "Metanoia" aufzunehmen?
 
