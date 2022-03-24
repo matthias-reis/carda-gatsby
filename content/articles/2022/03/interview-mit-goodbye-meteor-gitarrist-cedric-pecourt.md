@@ -82,7 +82,7 @@ languageLink: /2022/03/goodbye-meteor-en/
 
 **Ced:** Ja, aber wir gehen mit unserer Instrumentalmusik einen anderen Weg, um die Botschaft weiterzugeben. Wenn wir auf der Bühne stehen, begleiten wir unsere Musik manchmal mit Filmen. Die Bilder in Kombination mit der Musik sind eine hervorragende Möglichkeit, ohne Worte zu kommunizieren. Genau das versuchen wir mit Goodbye Meteor so gut wie möglich zu tun. Natürlich auf subtile Weise – denn unsere Musik hat für uns nichts mit Politik zu tun.
 
-**Anne:** Woran liegt es, dass sich die Leute im Musikgeschäft oft mehr für Veganismus zu interessieren scheinen als andere? Hat es etwas mit dem Tour-Catering zu tun?
+**Anne:** Woran liegt es, dass sich die Leute im Musik-Business oft mehr für Veganismus zu interessieren scheinen als andere? Hat es etwas mit dem Tour-Catering zu tun?
 
 ## "Gegen Gewalt zu sein ist nicht extrem"
 
