@@ -45,11 +45,11 @@ language: de
 ---
 **Die Songs für den Monat April stehen bereit und warten darauf, von Euch gehört zu werden. Gemeinsam mit meinen beiden Lieblings-Musik-Fans habe ich wieder 12 Stücke aus den unterschiedlichsten Genres ausgewählt. Von Post-Rock bis Progressive Metal. Die fertigen Playlists für Spotify und iTunes findet Ihr wie immer ganz unten im Anschluss an die Videos. Wir wünschen Euch viel Spaß beim Hören!**
 
----
+- - -
 
 **TW:** Drogen, Tod, Überdosis, Heroin
 
----
+- - -
 
 Anfangen möchte ich diesen Monat mit einem Nachruf für den großartigen Taylor Hawkins. Der Foo Fighters Drummer ist vor vier Tagen im Alter von nur 50 Jahren überraschend und sehr plötzlich von uns gegangen. Wir alle teilen Erinnerungen an legendäre Konzerte mit ihm und werden ihn nie vergessen. In unseren Herzen und auf unseren Boxen wird er immer bei uns sein. Taylor, Du fehlst. Mit Euch möchte ich an dieser Stelle das Stück "On The Mend" teilen, das Dave Grohl für seinen besten Freund Taylor Hawkins geschrieben hat, als dieser 2001 wegen einer Überdosis Heroin im Koma lag. Dave stellte das Stück mit den folgenden Worten vor: 
 
@@ -95,7 +95,7 @@ Könnt Ihr Euch noch an [mein Interview mit Oh Hiroshima](/2020/06/oh-hiroshima-
 
 <YouTube id="1PkddDWc1Eg" />
 
-## Billy Howerdel – "Poison Flowers" 
+## Billy Howerdel – "Poison Flowers"
 
 Diesen Song hat Matze ausgewählt:
 
@@ -127,7 +127,11 @@ Lust auf was rocknrolliges? Dann hat Valentin genau den richtigen Song für Euch
 
 ## Arcade Fire – "The Lightning I,II"
 
-Es könnte ein schöner Festival-Sommer werden. Eine weitere unserer liebsten Festival-Bands hat neue Musik für uns: "The Lightning I,II" könnte ein Vorgeschmack auf ein kommendes Album sein – angekündigt wurde es noch nicht. Das zweiteilige Stück klingt nachdenklich – fast sehnsüchtig und treibt beim Hören Tränen der Erinnerung an glückselige Zeiten in die Augen. In ihrem Newsletter, in dem die Band die Veröffentlichung bekannt gab, fügte sie diese hübsche Notiz mit bei. Mit den Worten: "Das macht das Spielen leichter". AF schrieben außerdem, dass sie aufgeregt seien, sich endlich zurückzumelden. Letzte Woche traten sie dann im Rahmen eines Benefizkonzerts für die Ukraine auf.
+Es könnte ein schöner Festival-Sommer werden. Eine weitere unserer liebsten Festival-Bands hat neue Musik für uns: "The Lightning I,II" könnte ein Vorgeschmack auf ein kommendes Album sein – angekündigt wurde es noch nicht. Das zweiteilige Stück klingt nachdenklich – fast sehnsüchtig und treibt beim Hören Tränen der Erinnerung an glückselige Zeiten in die Augen. In ihrem Newsletter, in dem die Band die Veröffentlichung bekannt gab, fügte sie diese hübsche Notiz mit bei:
+
+![Handschriftliche Notiz, unterschrieben von Arcade Fire mit Noten auf einem Notenblatt und den Worten "We missed you" (Wir haben Euch vermisst)). Unter den Noten ist ein gezeichnetes Auge zu sehen, daneben steht "U Soon" für "See you soon" ("Wir sehen uns bald wieder") | large](https://storage.googleapis.com/cardamonchai-media/2022-03-29/arcade-fire-chords-notiz-jpg-imagine-f8f8f8_f7f7f6_700_471/640.webp "Arcade Fire sagen \"We missed you, see you soon\" (Wir haben Euch vermisst, wir sehen uns bald wieder))")
+
+Mit den Worten: "Das macht das Spielen leichter". AF schrieben außerdem, dass sie aufgeregt seien, sich endlich zurückzumelden. Letzte Woche traten sie dann im Rahmen eines Benefizkonzerts für die Ukraine auf.
 
 <YouTube id="qJiALpiqpk8" />
 
