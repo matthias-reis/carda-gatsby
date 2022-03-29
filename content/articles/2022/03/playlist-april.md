@@ -80,7 +80,7 @@ Das nächste Stück hat Valentin auf die Liste gesetzt. Bei Tool brodelt es – 
 
 Und auch dieses Stück hat Valentin auf die Liste gesetzt. Weil es gerade so hervorragend passt, kommt es gleich als Nächstes.
 
-> "Die Progressive/Experimental Metal Band Meshuggah aus dem schwedischen Umeå bringt am 1. April ihre neue Platte 'Immutable' raus. Leider wurden alle Deutschland Konzerte aufgrund der unsicheren COVID-Lage abgesagt. Konzerte von Meshuggah sind ein besonderes und auch heftiges Erlebnis. Bisher hat die Gruppe zwei Songs des neuen Longplayers vorveröffentlicht und ich bin sehr gespannt darauf, diesen mächtigen Brocken Musik bald komplett zu konsumieren. Ich habe mich für die erste Single 'The Abysmal Eye' entschieden, um einen kleinen Vorgeschmack auf das Komplettwerk zu geben."
+> "Die Progressive/Experimental Metal Band Meshuggah aus dem schwedischen Umeå bringt am 1. April ihre neue Platte 'Immutable' raus. Leider wurden alle Deutschland Konzerte aufgrund der unsicheren COVID-Lage abgesagt. Konzerte von Meshuggah sind ein besonderes und auch heftiges Erlebnis. Bisher hat die Gruppe zwei Songs des neuen Longplayers vorveröffentlicht und ich bin sehr gespannt darauf, diesen mächtigen Brocken Musik bald komplett zu konsumieren. Ich habe mich für die erste Single 'The Abysmal Eye' entschieden, um einen kleinen Vorgeschmack auf das Gesamtwerk zu geben."
 
 <YouTube id="EpE8hTCyWM" />
 
