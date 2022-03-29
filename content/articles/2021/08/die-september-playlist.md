@@ -51,7 +51,7 @@ labels:
   - Soen
   - Coheed & Cambria
   - Nine Inch Nails
-  - Serie:Playlists
+  - serie:Playlists
 focusKeyword: September-Playlist
 advertisement: false
 affiliate: false
