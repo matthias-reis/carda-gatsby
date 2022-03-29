@@ -38,7 +38,8 @@ labels:
   - The Deconstruction
   - The National
   - Zach Condon
-  - serie:Playlists
+  - Playlist
+  - serie:Playlists 2018
 focusKeyword: Alben
 status: publish
 isWerbung: false

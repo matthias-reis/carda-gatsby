@@ -5,12 +5,8 @@ path: /2018/03/meine-ultimative-lieblingsplatten-liste/
 title: 10 Alben - Keine Erklärung - Teil 1/3
 seoTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
 ogTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
-description: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten.
-  Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie
-  vergessen werde.
-excerpt: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese
-  Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen
-  werde.
+description: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen werde.
+excerpt: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen werde.
 fileName: 2018-03---10-alben-keine-erklaerung-teil-1-3.md
 ogImage: null
 labels:
@@ -39,7 +35,8 @@ labels:
   - The Great Escape
   - The Smashing Pumpkins
   - Vinyl
-  - serie:Playlists
+  - Playlist
+  - serie:Playlists 2018
   - serie:Alben ohne Erklärung
 focusKeyword: Lieblingsplatten
 status: publish

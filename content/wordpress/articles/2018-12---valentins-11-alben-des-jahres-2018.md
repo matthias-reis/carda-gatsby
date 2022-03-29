@@ -28,7 +28,8 @@ labels:
   - Sumac
   - The Ocean
   - Twenty One Pilots
-  - serie:Playlists
+  - Playlist
+  - serie:Playlists 2018
 focusKeyword: alben des jahres
 status: publish
 isWerbung: false

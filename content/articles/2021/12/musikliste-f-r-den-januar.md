@@ -4,19 +4,11 @@ slug: playlist-januar-2022
 typeName: Beitrag
 title: Musikliste für den Januar
 subTitle: 12 Songs für den Start in 2022
-seoTitle: "Von Post-Rock bis Prog: 12 Songs für den Januar 2022"
-description: Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück –
-  als Ablenkung vom turbulenten Weltgeschehen derzeit taugt Musik wohl am
-  besten. Auch diesen Monat habe ich wieder das Beste von Post-Rock bis Prog für
-  Euch.
-excerpt: Das Jahr bewegt sich mit großen Schritten seinem Ende entgegen.
-  Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück – als Ablenkung
-  vom turbulenten Weltgeschehen derzeit taugt Musik wohl am besten. Auch diesen
-  Monat habe ich gemeinsam mit Valentin und Matze für Euch wieder eine Liste
-  zusammengestellt – für einen guten Start in ein hoffentlich gutes neues Jahr
-  2022.
+seoTitle: 'Von Post-Rock bis Prog: 12 Songs für den Januar 2022'
+description: Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück – als Ablenkung vom turbulenten Weltgeschehen derzeit taugt Musik wohl am besten. Auch diesen Monat habe ich wieder das Beste von Post-Rock bis Prog für Euch.
+excerpt: Das Jahr bewegt sich mit großen Schritten seinem Ende entgegen. Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück – als Ablenkung vom turbulenten Weltgeschehen derzeit taugt Musik wohl am besten. Auch diesen Monat habe ich gemeinsam mit Valentin und Matze für Euch wieder eine Liste zusammengestellt – für einen guten Start in ein hoffentlich gutes neues Jahr 2022.
 image: https://storage.googleapis.com/cardamonchai-media/2021-12-22/12-songs-januar-jpg-imagine-080808_5d5554_1024_768/640.webp
-copyrigt: ""
+copyrigt: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-12-22/12-songs-januar-fb-png-imagine-080808_5e5554_1200_628/640.webp
 labels:
   - Bands
@@ -41,12 +33,13 @@ labels:
   - Reviews
   - Playlist
   - Musikliste
-  - serie:Playlists
+  - serie:Playlists 2022
 focusKeyword: Post-Rock
 advertisement: false
 affiliate: false
 language: de
 ---
+
 **Das Jahr bewegt sich mit großen Schritten seinem Ende entgegen. Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück – als Ablenkung vom turbulenten Weltgeschehen derzeit taugt Musik wohl am besten. Auch diesen Monat habe ich gemeinsam mit Valentin und Matze für Euch wieder eine Liste zusammengestellt – für einen guten Start in ein hoffentlich gutes neues Jahr 2022.**
 
 Die Playlists für Spotify und iTunes findet Ihr wie gewohnt ganz unten. Doch nun erstmal zu unseren Songs. Natürlich erzählen wir Euch auch wieder, warum wir uns genau für diese Stücke entschieden haben. Viel Spaß beim Hören und einen guten Rutsch!
@@ -75,7 +68,7 @@ Als ich Lotus vor ein paar Jahren über das DUNK!festival kennenlernte, verliebt
 
 ## Smyčka – "Племя"
 
-Auch diese Post-Metal Combo habe ich Euch hier bereits [in Form eines Interviews](/2021/05/smycka-interview/) vorgestellt. Das neue Stück "Племя" ist noch relativ frisch – es ist am 28. November aus dem Studio gepurzelt, in dem sich Smyčka gerade aufhalten. Das Stück handelt von Menschen, die auf der Suche nach Nahrung zum Wandern gezwungen sind, von Knechtschaft und Entfremdung, von Waisen und  Vorhersehbarkeit, vom unaufhaltbaren Schicksal und der sich zuziehenden Schlinge des täglichen Alltags. Kurz gesagt: von unserer heutigen Zeit und ihrem schnellen Puls.
+Auch diese Post-Metal Combo habe ich Euch hier bereits [in Form eines Interviews](/2021/05/smycka-interview/) vorgestellt. Das neue Stück "Племя" ist noch relativ frisch – es ist am 28. November aus dem Studio gepurzelt, in dem sich Smyčka gerade aufhalten. Das Stück handelt von Menschen, die auf der Suche nach Nahrung zum Wandern gezwungen sind, von Knechtschaft und Entfremdung, von Waisen und Vorhersehbarkeit, vom unaufhaltbaren Schicksal und der sich zuziehenden Schlinge des täglichen Alltags. Kurz gesagt: von unserer heutigen Zeit und ihrem schnellen Puls.
 
 <YouTube id="QYiJuSnHi94" />
 
@@ -93,7 +86,7 @@ Wenn Ihr auf der Suche nach einem richtig schrägen und unfassbar geilen Ohrwurm
 
 ## Dominik Eulberg – "Rotmilan" (Vorauskopplung vom Album "Avichrom")
 
-Dominik Eulberg bringt nicht nur vielen Menschen  die elektronische Tanzmusik näher, sondern auch die heimische Flora und Fauna. Mit seinem Naturbuch "Mikroorgasmen überall" begeisterte er dieses Jahr längst nicht nur technoide Menschen. Jetzt hat er ein neues Album angekündigt. "Avichrom" soll ab dem 4. März in den Plattenläden stehen. Matze stellt Euch die Vorauskopplung "Rotmilan" vor:
+Dominik Eulberg bringt nicht nur vielen Menschen die elektronische Tanzmusik näher, sondern auch die heimische Flora und Fauna. Mit seinem Naturbuch "Mikroorgasmen überall" begeisterte er dieses Jahr längst nicht nur technoide Menschen. Jetzt hat er ein neues Album angekündigt. "Avichrom" soll ab dem 4. März in den Plattenläden stehen. Matze stellt Euch die Vorauskopplung "Rotmilan" vor:
 
 > "Dominik Eulberg ist Biologe und Techno DJ. Elektronische Musik ist sonst nicht gerade mein Lieblings-Genre, aber Eulberg liefert immer wieder atemberaubende, progressive Kompositionen ab, die mich ziemlich begeistern. Darüber hinaus sind seine Artworks (inklusive Platten und Songtitel) wundervoll und immer aus seinem Fachgebiet entlehnt. Das neue Album 'Avichrom' bezieht sich auf die Farbenpracht der Vögel. Der Track 'Rotmilan' ist die erste Singleauskopplung, die einen wunderbar ruhigen und tranceartigen Auftakt liefert. Mein Tipp an dieser Stelle: Unbedingt im März die ganze Platte kaufen und Vögel bewundern!"
 

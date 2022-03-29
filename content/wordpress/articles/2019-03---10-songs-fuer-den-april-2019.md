@@ -5,15 +5,13 @@ path: /2019/03/10-songs-fuer-den-april/
 title: 10 Songs für den April 2019
 seoTitle: 10 Songs für den April - Ausgewählt von den drei von der Bande
 ogTitle: 10 Songs für den April - Ausgewählt von den drei von der Bande
-description: Bevor der April um die Ecke kommt, gibt es erstmal was auf die
-  Ohren Hier kommen unsere 10 Songs für Euch - liebevoll ausgewählt und
-  kommentiert.
-excerpt: Bevor der April um die Ecke kommt, gibt es erstmal was auf die Ohren
-  Hier kommen unsere 10 Songs für Euch - liebevoll ausgewählt und kommentiert.
+description: Bevor der April um die Ecke kommt, gibt es erstmal was auf die Ohren Hier kommen unsere 10 Songs für Euch - liebevoll ausgewählt und kommentiert.
+excerpt: Bevor der April um die Ecke kommt, gibt es erstmal was auf die Ohren Hier kommen unsere 10 Songs für Euch - liebevoll ausgewählt und kommentiert.
 fileName: 2019-03---10-songs-fuer-den-april-2019.md
 ogImage: null
 labels:
-  - serie:Playlists
+  - serie:Playlists 2019
+  - Playlist
   - 10 Songs
   - 12 Songs
   - A Spoke In The Wheel

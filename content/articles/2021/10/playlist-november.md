@@ -5,16 +5,10 @@ typeName: Beitrag
 title: Playlist November
 subTitle: 10 Songs für den Winteranfang
 seoTitle: Playlist November – Post-Rock, Post-Metal & Co.
-description: Hier kommt das Beste aus Post-Rock, Post-Metal & Co. Für den
-  November haben wir zehn ganz besondere Stücke ausgewählt, die wir sicher noch
-  länger hören werden - Von Maybeshewill bis Toundra.
-excerpt: Wie schnell das Jahr vergeht! Eigentlich war doch gerade noch Sommer,
-  oder? Plötzlich sind wir mitten im Spätherbst angekommen und es gibt schon die
-  November-Playlist! Hier kommt das Beste aus Post-Rock, Post-Metal & Co. Für
-  den November haben wir zehn ganz besondere Stücke ausgewählt, die wir sicher
-  noch länger hören werden - Von Maybeshewill bis Toundra.
+description: Hier kommt das Beste aus Post-Rock, Post-Metal & Co. Für den November haben wir zehn ganz besondere Stücke ausgewählt, die wir sicher noch länger hören werden - Von Maybeshewill bis Toundra.
+excerpt: Wie schnell das Jahr vergeht! Eigentlich war doch gerade noch Sommer, oder? Plötzlich sind wir mitten im Spätherbst angekommen und es gibt schon die November-Playlist! Hier kommt das Beste aus Post-Rock, Post-Metal & Co. Für den November haben wir zehn ganz besondere Stücke ausgewählt, die wir sicher noch länger hören werden - Von Maybeshewill bis Toundra.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-songs-november-jpg-imagine-f8f8f8_777374_1024_768/640.webp
-copyrigt: ""
+copyrigt: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-songs-november-fb-1-png-imagine-080808_676161_1200_628/640.webp
 labels:
   - TesseracT
@@ -44,7 +38,7 @@ labels:
   - Idles
   - L'Effondras
   - Shoegaze
-  - serie:Playlists
+  - serie:Playlists 2021
 focusKeyword: Playlist
 advertisement: false
 affiliate: false
@@ -105,16 +99,11 @@ Zeal & Ardor haben auch ein neues Album für uns vorbereitet. Es wird uns allerd
 
 <YouTube id="g04LWsFTS6g" />
 
-
 ## Trentemøller & Lisbet Fritze – "All To Soon" (Vorauskopplung vom Album "Memoria")
 
-> "We can't live forever.<br /> 
-> If we could we would.<br /> 
-> All too soon we will be gone."
-> 
-> "Wir können nicht ewig leben.<br /> 
-> Wir würden es tun, wenn wir es könnten.<br /> 
-> Wir werden zu früh gehen."
+> "We can't live forever.<br /> If we could we would.<br /> All too soon we will be gone."
+>
+> "Wir können nicht ewig leben.<br /> Wir würden es tun, wenn wir es könnten.<br /> Wir werden zu früh gehen."
 
 Lisbeth Fritzes melodische Lyrics fügen sich ganz wunderbar in die von Klangkünstler Trentemøller bereitgestellte Musikwolke ein. Unglaubliche Samples (Höre ich eine Bohrmaschine?) legen sich hier Schicht über Schicht und erzählen Geschichten aus der Zukunft. Ein tolles Stück zum Grübeln, Nachdenken oder einfach nur in Ruhe genießen. Das neue Trentemøller Album "Memoria" ist übrigens für Februar angekündigt.
 
@@ -138,4 +127,3 @@ Da greife ich doch gleich mal Matzes Schlusssatz auf und präsentiere Euch diese
   spotify="461jza2958j4kEK9Ct75Ib?si=df0f34f21eac49f7"
   itunes="2021-10-25-rock-n-roll-vegan/pl.u-gRxmC8RXNXl"
 />
-

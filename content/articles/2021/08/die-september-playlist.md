@@ -5,12 +5,9 @@ typeName: Beitrag
 title: Die September-Playlist
 subTitle: Ausgewählte Musik von Ranges bis Jerry Cantrell
 seoTitle: Die September-Playlist – ausgewählte Musik von Ranges bis Jerry Cantrell
-description: Die September-Playlist ist fertig. Ihr findet darin 12 ganz
-  besondere Songs, die Euch die nächsten vier Wochen hoffentlich versüßen werden
-  – egal wie das Wetter draußen ist. Von Ranges über Trent Reznor und Leprous
-  bis Thrice und Jerry Cantrell.
+description: Die September-Playlist ist fertig. Ihr findet darin 12 ganz besondere Songs, die Euch die nächsten vier Wochen hoffentlich versüßen werden – egal wie das Wetter draußen ist. Von Ranges über Trent Reznor und Leprous bis Thrice und Jerry Cantrell.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/12-songs-september-jpg-imagine-181818_695556_1024_768/640.webp
-copyrigt: ""
+copyrigt: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/12-songs-september-fb-png-imagine-181818_695150_1200_628/640.webp
 labels:
   - Ranges
@@ -51,7 +48,8 @@ labels:
   - Soen
   - Coheed & Cambria
   - Nine Inch Nails
-  - serie:Playlists
+  - Playlist
+  - serie:Playlists 2021
 focusKeyword: September-Playlist
 advertisement: false
 affiliate: false
@@ -60,7 +58,7 @@ language: de
 
 **Die September-Playlist ist fertig. Ihr findet darin 12 ganz besondere Songs, die Euch die nächsten vier Wochen hoffentlich versüßen werden – egal wie das Wetter draußen ist.**
 
-Neben fantastischen Neuheiten von Ranges, Trent Reznor und Thrice, von denen Ihr vielleicht schon gehört habt, haben Valentin, Matze und ich auch ein paar echte Überraschungen für Euch vorbereitet. Viel Freude damit! Weiter unten findet Ihr wie gewohnt die fertigen Listen zum Abspielen bei iTunes und Spotify. 
+Neben fantastischen Neuheiten von Ranges, Trent Reznor und Thrice, von denen Ihr vielleicht schon gehört habt, haben Valentin, Matze und ich auch ein paar echte Überraschungen für Euch vorbereitet. Viel Freude damit! Weiter unten findet Ihr wie gewohnt die fertigen Listen zum Abspielen bei iTunes und Spotify.
 
 ## Ranges – "Deluge" vom Album "Cardinal Winds"
 
@@ -68,9 +66,17 @@ Ranges haben es dieses Mal wirklich spannend gemacht mit ihrem neuen Album. Im V
 
 Geschrieben und aufgenommen haben Ranges die neuen Stücke im Winter 2020 und Frühjahr 2021 im A Thousand Arms Studio in Bozeman. Chris Common hat das Werk anschließend in El Paso gemixt und gemastert. Die Vinyl-Edition stammt von DUNK!pressing. Hört unbedingt rein und lasst Euch davontragen – Für mich ist "Cardinal Winds" mal wieder ein Meisterstück seiner Klasse.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3674760865/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=608197240/transparent=true/" seamless><a href="https://ranges.bandcamp.com/album/cardinal-winds">Cardinal Winds by Ranges</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3674760865/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=608197240/transparent=true/"
+  seamless
+>
+  <a href="https://ranges.bandcamp.com/album/cardinal-winds">
+    Cardinal Winds by Ranges
+  </a>
+</iframe>
 
-## Shy, Low  "Helioentropy" (Single)
+## Shy, Low "Helioentropy" (Single)
 
 Nach "Hiraeth" von 2015 und der "Burning Day" EP (und einem Holy Fawn Remix im Juli) gibt es endlich wieder neue Musik von den wunderbaren Shy, Low. Die neue Single "Helioentrophy" jagt beim Hören einen verzauberten Schauer über den Rücken. Das Stück ist übrigens die Vorauskopplung der EP "Snake Behind The Sun", die für den 8. Oktober angekündigt ist. Für Fans von kinematischem, energiegeladener Post-Rock, der von starken Kontrasten geprägt ist.
 
@@ -80,7 +86,15 @@ Nach "Hiraeth" von 2015 und der "Burning Day" EP (und einem Holy Fawn Remix im J
 
 Für seine neue Platte hat der Chicagoer Musiker Luca Cimarusti aka Annihilus sich eine Menge toller Künstler⋆innen ins Boot geholt. "The Grand Illusion" ist der düstere und tiefgründige Auftakt eines großartigen Albums. Für Fans von emotionsgeladenem (Post-)Black Metal
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4056486130/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2071712968/transparent=true/" seamless><a href="https://annihilus-sounds.bandcamp.com/album/follow-a-song-from-the-sky">Follow a Song From the Sky by Annihilus</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=4056486130/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2071712968/transparent=true/"
+  seamless
+>
+  <a href="https://annihilus-sounds.bandcamp.com/album/follow-a-song-from-the-sky">
+    Follow a Song From the Sky by Annihilus
+  </a>
+</iframe>
 
 ## Unreqvited – "Autumn & Everly" vom Album "Beautiful Ghosts"
 
@@ -88,16 +102,24 @@ Unreqvited Gründer 鬼 (Das bedeutet übrigens soviel wie "Geist") hat sich mit
 
 Für Fans von atmosphärischem Black Metal, Black Gaze, Post-Metal und allen Arten nachdenklicher Musik.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=928343835/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2443967384/transparent=true/" seamless><a href="https://unreqvited.bandcamp.com/album/beautiful-ghosts">Beautiful Ghosts by Unreqvited</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=928343835/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2443967384/transparent=true/"
+  seamless
+>
+  <a href="https://unreqvited.bandcamp.com/album/beautiful-ghosts">
+    Beautiful Ghosts by Unreqvited
+  </a>
+</iframe>
 
 ## Danny Elfman & Trent Reznor – "True" (Single)
 
 Valentin:
 
-> "Diesen Monat stelle ich gleich zwei Songs von Lieblingskünstler⋆innen aus meiner Plattenkiste vor. Der erste kommt von Trent Reznor. Er hat sich für "True" mit Danny Elfman, den wir von seiner herausragenden Filmmusik für zahlreiche Hollywood-Filme (unter anderem "Batman" und "Mission: Impossible") kennen, zusammengetan. 
-> 
-> Auch Trent Reznor, den wir hauptsächlich durch [Nine Inch Nails](/tag/nine-inch-nails) kennen, hat in den letzten Jahren (oft gemeinsam mit Atticus Ross) viele Soundtracks geschrieben und dadurch die moderne Filmmusik auf ein neues Level gehoben – nicht ohne Grund gab es dafür schon zweimal den Oscar. 
-> 
+> "Diesen Monat stelle ich gleich zwei Songs von Lieblingskünstler⋆innen aus meiner Plattenkiste vor. Der erste kommt von Trent Reznor. Er hat sich für "True" mit Danny Elfman, den wir von seiner herausragenden Filmmusik für zahlreiche Hollywood-Filme (unter anderem "Batman" und "Mission: Impossible") kennen, zusammengetan.
+>
+> Auch Trent Reznor, den wir hauptsächlich durch [Nine Inch Nails](/tag/nine-inch-nails) kennen, hat in den letzten Jahren (oft gemeinsam mit Atticus Ross) viele Soundtracks geschrieben und dadurch die moderne Filmmusik auf ein neues Level gehoben – nicht ohne Grund gab es dafür schon zweimal den Oscar.
+>
 > Danny Elfman hat im Juni sein zweites Soloalbum "Big Mess" veröffentlicht. Es geht sehr in Richtung Industrial – ich kann es Euch sehr empfehlen. Auch "True" ist auf der Platte zu finden – in einer Version nur mit Dannys Stimme. Ich bin ja der Meinung, dass Trent da irgendwie noch gefehlt hat. Als Duett klingt der Song einfach noch ein gutes Stück düsterer und kraftvoller."
 
 <YouTube id="V1adLb9c6U4" />
@@ -162,7 +184,3 @@ Matze:
   spotify="57zX8uyll3z9K7IAcA29Vn"
   itunes="2021-08-31-rock-n-roll-vegan/pl.u-jKzLujekrkB"
 />
-
-
-
-

@@ -4,17 +4,11 @@ slug: playlist-oktober-2021
 typeName: Beitrag
 title: Playlist Oktober
 subTitle: 12 Songs, die Ihr diesen Monat nicht verpassen solltet
-seoTitle: "Playlist: 12 Songs für den Oktober (Post-Rock, Alternative, Metal)"
-description: Die Oktober-Musikliste bringt Euch wieder die stärksten Songs. Mit
-  dabei sind wieder alle spannenden Genres von Ambient und Alternative Metal bis
-  Blackgaze und Post-Rock.
-excerpt: Im Oktober findet der Übergang zwischen den Jahreszeiten statt. Die
-  Natur zeigt sich von ihrer buntesten Seite und wettertechnisch ist einfach für
-  jeden Geschmack was dabei. Genau, wie bei unserer Musikliste. Hier sind 12
-  Songs aus den Genres Post-Rock, Ambient, Alternative, Metal & Co., die ihr so
-  schnell nicht wieder vergessen werdet.
+seoTitle: 'Playlist: 12 Songs für den Oktober (Post-Rock, Alternative, Metal)'
+description: Die Oktober-Musikliste bringt Euch wieder die stärksten Songs. Mit dabei sind wieder alle spannenden Genres von Ambient und Alternative Metal bis Blackgaze und Post-Rock.
+excerpt: Im Oktober findet der Übergang zwischen den Jahreszeiten statt. Die Natur zeigt sich von ihrer buntesten Seite und wettertechnisch ist einfach für jeden Geschmack was dabei. Genau, wie bei unserer Musikliste. Hier sind 12 Songs aus den Genres Post-Rock, Ambient, Alternative, Metal & Co., die ihr so schnell nicht wieder vergessen werdet.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/12-songs-oktober-jpg-imagine-080808_8d8176_1024_768/640.webp
-copyrigt: ""
+copyrigt: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/12-songs-oktober-fb-png-imagine-080808_8d7f73_1200_628/640.webp
 labels:
   - Musikliste
@@ -46,7 +40,7 @@ labels:
   - Post-Metal
   - Shoegaze
   - Doomgaze
-  - serie:Playlists
+  - serie:Playlists 2021
 focusKeyword: Playlist Oktober
 advertisement: false
 affiliate: false
@@ -91,7 +85,7 @@ Valentin verehrt diese Band, seit er sie vor vielen Jahren zum ersten Mal gehör
 
 ## Mastodon – "Pushing The Tides"
 
-Die neue Mastodon Single "Pushing The Tides" hat Valentin auf die Liste gesetzt. Die Band um Brent Hinds, Brann Dailor, Troy Sanders und 	Bill Kelliher holt mit dem Song den Metal heim nach Atlanta und mischt das Genre wieder mal richtig schön auf.
+Die neue Mastodon Single "Pushing The Tides" hat Valentin auf die Liste gesetzt. Die Band um Brent Hinds, Brann Dailor, Troy Sanders und Bill Kelliher holt mit dem Song den Metal heim nach Atlanta und mischt das Genre wieder mal richtig schön auf.
 
 <YouTube id="haT5ars6RXc" />
 

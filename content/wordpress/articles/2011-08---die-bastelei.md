@@ -54,7 +54,7 @@ labels:
   - Two Gallants
   - Video
   - Walkman
-  - serie:Playlists
+  - Playlist
 focusKeyword: Mixtape
 status: publish
 isWerbung: false

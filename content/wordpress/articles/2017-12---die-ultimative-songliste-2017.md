@@ -71,7 +71,8 @@ labels:
   - Trent Reznor
   - Twin Peaks
   - Wahnsinnsmusik
-  - serie:Playlists
+  - Playlist
+  - serie:Playlists 2017
 focusKeyword: Songliste
 status: publish
 isWerbung: false

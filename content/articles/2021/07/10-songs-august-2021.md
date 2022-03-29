@@ -5,10 +5,7 @@ typeName: Beitrag
 title: 10 Songs für den August
 subTitle: Von Mono bis Deafheaven
 seoTitle: 10 Songs für den August – Von Mono bis Deafheaven
-description: Was passiert, wenn ein Monat sich dem Ende zuneigt? Genau, es gibt
-  eine neue Musikliste! Hier sind wieder zehn beeindruckende Tracks für Euch. In
-  der Playlist findet Ihr alles, was das Herz begehrt – von Mono bis Deafheaven
-  und Post-Metal bis Shoegaze.
+description: Was passiert, wenn ein Monat sich dem Ende zuneigt? Genau, es gibt eine neue Musikliste! Hier sind wieder zehn beeindruckende Tracks für Euch. In der Playlist findet Ihr alles, was das Herz begehrt – von Mono bis Deafheaven und Post-Metal bis Shoegaze.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-songs-1-jpg-imagine-080808_606064_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-songs-fb-png-imagine-e8e8e8_787276_1200_628/640.webp
 labels:
@@ -35,12 +32,11 @@ labels:
   - Metal
   - Music
   - Playlist
-  - serie:Playlists
+  - serie:Playlists 2021
   - Doom
   - Blackgaze
   - Shoegaze
   - Sludge
-  - serie:Playlists
 advertisement: false
 templateKey: article
 focusKeyword: 10 Songs
@@ -60,7 +56,7 @@ Die Post-Rock-Sensation des Monats gibt es heute mal zuerst: Mono bringen bald e
 
 ## Year Of No Light – "Alètheia" vom Album "Consolamentum"
 
-Matze: 
+Matze:
 
 > "Das neue Album von [Year Of No Light haben wir bereits in der Juni-Liste mit einer Vorauskopplung präsentiert](/2021/05/musikliste-juni-2021/). Nun ist auch diese Album endlich erschienen und verdient auch einen Platz in der August-Liste. Ich habe mich für 'Alètheia' entschieden. Der Song bringt vielschichtigste Stimmungen: Zu Beginn ist er fast fröhlich, um sich dann in einer Post-Metal Soundwand aufzulösen."
 
@@ -86,7 +82,15 @@ Die neue Scale & Feather Single "Conscious Sleep" habe ich nicht ohne Grund auf 
 
 Und nochmal experimenteller Ambient Sound. Dieses Mal von Paul Oednom. Bei seinem Album "To Speak Of Solitude" handelt es sich um ein Set aus fünf Stücken zur Allgegenwärtigkeit und Interdependenz. Der Künstler findet in der Vorstellung von Bewegung und impliziertem Stillstand neben Negativen und Positivem auch Trost. Das alles setzt er in eine Klangwelt um, die verzaubert.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=983283227/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=761843260/transparent=true/" seamless><a href="https://shop.serein.co.uk/album/vital-contrast-ep">Vital Contrast EP by Paul Oednom</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=983283227/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=761843260/transparent=true/"
+  seamless
+>
+  <a href="https://shop.serein.co.uk/album/vital-contrast-ep">
+    Vital Contrast EP by Paul Oednom
+  </a>
+</iframe>
 
 ## Malämmar – "Màgia Roja" vom Album "Mazza"
 
@@ -94,16 +98,15 @@ Dass es sich bei Malämmer um eine meiner Lieblings-Post-Music-Bands handelt, so
 
 <YouTube id="iuGwSVUDr-I" />
 
-
 ## Amenra – "Ogentroost" vom Album "De Doorn"
 
-Matze: 
+Matze:
 
 > "Eines der am heißesten herbeigesehnten Alben dieses Monats ist wohl De 'Doorn' von Amenra. 'Ogentroost' ist der erste Track darauf. Er setzt mit seiner düsteren Stimmung und treibenden Kraft die Maßstäbe für die folgenden Songs des beeindruckenden Gesamtwerks. Wie die komplette (bisherige?) 'Mass' Serie auf jeden Fall ein Muss für die Sludge-/Post-Metal Plattenkiste."
 
 <YouTube id="rBTqCIgpJ6s" />
 
-## Bossk & Josh McKeown -  "HTV-3" vom Album "Migration"
+## Bossk & Josh McKeown - "HTV-3" vom Album "Migration"
 
 Matze:
 
@@ -133,5 +136,3 @@ Matze:
 />
 
 Hinweis: Auf der iTunes Liste ist die Single "Vale of Siddim" (VÖ Juni) von Scale & Feather, da "Conscious Sleep" (Juli) noch nicht verfügbar ist.
-
-

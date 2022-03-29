@@ -26,7 +26,8 @@ labels:
   - TesseracT
   - The Ocean
   - This Will Destroy You
-  - serie:Playlists
+  - Playlist
+  - serie:Playlists 2018
 focusKeyword: songs 2018
 status: publish
 isWerbung: false

@@ -13,7 +13,8 @@ remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_12-songs
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIBAUG/8QALBAAAQMCBQMEAAcAAAAAAAAAAQIDBAURAAYSITETQVEHFBUiFiQzYXGx8P/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAL/xAAiEQABBAECBwAAAAAAAAAAAAABAAIDESEiMUFRYXGBwfD/2gAMAwEAAhEDEQA/ANhkv1Jbq8aVHzc5T22246QwllrpF5zUSom5tcJHGwN/OFW4qZMUgXmp6MzcWUAft58WxiNM5Za9LJMp+k/mFshtqWoK63u7A3vwEdvHbDNmQaa36ExKd826wtCOr1Q8oqUrxpBtpvwDf+RhEE4mJBaRRrv1wUyaEgDIOLSS6lFOXHUlyOKiIoIT0V9Qve4418fp/wBYZeS5kao195zMmXHpjSmyI8iNLEdJISn6qSSBa4N1c3I7Yo6jSM2v5irseYVMxOoDCU6x9ABa4Cha4II87pViWPduKpq4y7hCXNSVH9k8cf4DC3PLbDL4nPpURvZWscqrzv8ABUN6eZIYelx8x1GZUkviQX4TPyDujRuLONqA3uONx35vjnPxrBcyimAmIFPFosgOJuz9dNioJ3AINwO5BGDBglcWALcLGzuLiK22UzTHKO5RlymKbGbeKioNiSClJCLE6b3IJNwDiunZU92QG5MCnxqehC0qdYXGU4uwOhWytYJOnYDvvgwYpcVBa//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_musikliste-april-fb.png__l.jpg
 labels:
-  - serie:Playlists
+  - serie:Playlists 2021
+  - Playlist
   - A Winged Victory For The Sullen
   - Adam Bryanbaum
   - Alternative
@@ -38,7 +39,6 @@ labels:
   - NICK CAVE
   - No Wave
   - PJ Harvey
-  - Playlist
   - Post-Metal
   - Post-Rock
   - Punk

@@ -5,12 +5,8 @@ path: /2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/
 title: 10 Alben - Keine Erklärung - Teil 2/3
 seoTitle: 10 Alben - Keine Erklärung - Die Lieblingsplattenliste eines Gartenbloggers
 ogTitle: 10 Alben - Keine Erklärung - Die Lieblingsplattenliste eines Gartenbloggers
-description: Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung"
-  stelle ich Euch die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid
-  gespannt!
-excerpt: Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung" stelle
-  ich Euch die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid
-  gespannt!
+description: Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung" stelle ich Euch die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid gespannt!
+excerpt: Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung" stelle ich Euch die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid gespannt!
 fileName: 2018-03---10-alben-keine-erklaerung-teil-2-3.md
 labels:
   - Bands
@@ -41,7 +37,7 @@ labels:
   - This Is Hardcore
   - Vinyl
   - What I Got
-  - serie:Playlists
+  - serie:Playlists 2018
   - serie:Alben ohne Erklärung
 focusKeyword: 10 Alben
 status: publish

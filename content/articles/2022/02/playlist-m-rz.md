@@ -42,7 +42,8 @@ labels:
   - Korn
   - Calexico
   - Nordic Giants
-  - serie:Playlists
+  - Playlist
+  - serie:Playlists 2022
 focusKeyword: Playlist
 advertisement: false
 affiliate: false

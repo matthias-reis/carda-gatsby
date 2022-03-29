@@ -13,7 +13,8 @@ remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_12-songs
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKhAAAgEDAwQABQUAAAAAAAAAAQIDBAURABIxBhMhQQciUWGBFDJCUnH/xAAZAQABBQAAAAAAAAAAAAAAAAAAAQIDBAX/xAAjEQACAQIEBwAAAAAAAAAAAAABAgADIREiMXEEEkFhgaHB/9oADAMBAAIRAxEAPwDNCtVBZrmLhcWq3WhIgFRGH7QUjcFBOY/lK48Yb8DVU/XQU3TktLPRyd6qeOpWoZVwAjELt9qCN3PJI9andS9+RLjWRuwNOIaV40ZmCxngMT918D+O3GldHMklg7FSizmbDxSfteEgsu3PJU8kfYfTQubSKQRrI1pqWpKlJU27l/sMjW1P8V4ZOkhbJ7fDKka7chArE4HscZPk/wCax82iOW5ikt1WZ0aQRxySRiLeT4zjccD86cWzpla23V0kFyimkpghaGNCWBMjIRz6ClieMEfXTC6gYmWqfA16jcqDE7j1e/iLbrcWp7KsbK0lLVrH3o1lYCVl8gk+8Fm9c6X1TRRxUz0sZiglX5It27Z7IJ9+SdGjRSkVS5lio5Kbp7q2PvVLPRx4VqiOPLIxTzge8Z1zoKmeLqMXBZswAr3JHIDyQO2wlscnGM/TGjRoZQcx62mmrlKzUlsqMWG4+W37z//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_12-songs-januar-fb.png__l.jpg
 labels:
-  - serie:Playlists
+  - serie:Playlists 2021
+  - Playlist
   - Ambient
   - Atticus Ross
   - Bands
@@ -28,7 +29,6 @@ labels:
   - Onségen Ensemble
   - Perry Frank
   - Pink Duck Sessions
-  - Playlist
   - Post-Punk
   - Post-Rock
   - Prog

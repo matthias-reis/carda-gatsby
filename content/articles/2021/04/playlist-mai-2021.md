@@ -6,17 +6,13 @@ typeName: Beitrag
 title: Musikliste für den Mai
 subTitle: 12 Songs für mehr Hoffnung
 seoTitle: Musikliste für den Mai – 12 Songs für mehr Hoffnung
-description: Die Musikliste für den Mai hat es in sich. Um Euch ein bisschen
-  Auftrieb zu geben, haben wir wieder 12 besondere Songs für Euch selektiert.
-excerpt: Die Musikliste für den Mai hat es in sich. Um Euch ein bisschen
-  Auftrieb zu geben, haben wir wieder 12 besondere Songs für Euch selektiert.
-  Dann nagt die derzeitige Situation hoffentlich nicht mehr allzu sehr an Euren
-  Nerven.
+description: Die Musikliste für den Mai hat es in sich. Um Euch ein bisschen Auftrieb zu geben, haben wir wieder 12 besondere Songs für Euch selektiert.
+excerpt: Die Musikliste für den Mai hat es in sich. Um Euch ein bisschen Auftrieb zu geben, haben wir wieder 12 besondere Songs für Euch selektiert. Dann nagt die derzeitige Situation hoffentlich nicht mehr allzu sehr an Euren Nerven.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/12-songs-mai-blog-jpg-imagine-f8f8f8_7f8476_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/musikliste-mai-fb-png-imagine-f8f8f8_7d8475_1200_628/640.webp
 labels:
   - Bands
-  - serie:Playlists
+  - serie:Playlists 2021
   - Ambient
   - Black Mountain
   - Devil Sold His Soul

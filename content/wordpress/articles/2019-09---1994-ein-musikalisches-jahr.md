@@ -96,7 +96,7 @@ labels:
   - Violent Femmes
   - Weezer
   - WIZO
-  - serie:Playlists
+  - Playlist
 focusKeyword: '1994'
 status: publish
 isWerbung: false

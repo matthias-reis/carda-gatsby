@@ -43,7 +43,8 @@ labels:
   - The Mars Volta
   - Trail Of Dead
   - Worlds Apart
-  - serie:Playlists
+  - Playlist
+  - serie:Playlists 2018
   - serie:Alben ohne Erklärung
 focusKeyword: 10 Alben
 status: publish

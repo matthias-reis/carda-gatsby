@@ -59,7 +59,8 @@ labels:
   - Witching Hour
   - Zero 7
   - Zynic
-  - serie:Playlists
+  - Playlist
+  - serie:Playlists 2017
 focusKeyword: Musikliste
 status: publish
 isWerbung: false

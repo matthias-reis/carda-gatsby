@@ -5,17 +5,13 @@ path: /2019/02/10-songs-fuer-den-maerz/
 title: 10 Songs für den März 2019
 seoTitle: 10 Songs für den März - präsentiert von den drei von der Bande
 ogTitle: 10 Songs für den März - präsentiert von den drei von der Bande
-description: Die drei von der Bande präsentieren Euch heute 10 Songs für den
-  März 2019. Auf die Ohren gibt es jede Menge Postrock, Postpunk, Post-Hardcore
-  und Prog.
-excerpt: Die drei von der Bande präsentieren Euch heute 10 Songs für den März
-  2019. Bei der Auswahl haben wir uns nicht auf nagelneue Stücke beschränkt,
-  sondern auch Songs aus der Vergangenheit mit ausgesucht, die wir ganz
-  besonders gerne hören.
+description: Die drei von der Bande präsentieren Euch heute 10 Songs für den März 2019. Auf die Ohren gibt es jede Menge Postrock, Postpunk, Post-Hardcore und Prog.
+excerpt: Die drei von der Bande präsentieren Euch heute 10 Songs für den März 2019. Bei der Auswahl haben wir uns nicht auf nagelneue Stücke beschränkt, sondern auch Songs aus der Vergangenheit mit ausgesucht, die wir ganz besonders gerne hören.
 fileName: 2019-02---10-songs-fuer-den-maerz-2019.md
 ogImage: null
 labels:
-  - serie:Playlists
+  - serie:Playlists 2019
+  - Playlist
   - 10 Songs
   - AMENRA
   - Archive

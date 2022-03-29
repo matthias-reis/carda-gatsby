@@ -13,7 +13,8 @@ remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBwEEBv/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABREGEiEiMUEHExRhMlFScoH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAX/xAAjEQABBAIBAwUAAAAAAAAAAAABAAIDESExExIiQSNxgZHB/9oADAMBAAIRAxEAPwBPqNyQ9ZUNSRIebnITGW04642lKgSFKwO6urjgg/rzTm2xGpVnTHgvKUmIFF1sub1YbxlPA5USR08earR71ilXVlEB207UvuMha0yCtXCwTtG3yfGfqtu4+patKXG4WZi0ofjR5CgXWpHtlboVkrJCD1cYIycbaMsrhFbGguvV17HVY+NWpooHCXoce2t/d+bz+quGUhW0EgZHfFZWkJUQCD94rrdPaMF0huyHriYzSFhtJEVTuVHycHpTnA3VHqTRr9jlhlySHmyncHEt4845GeOc4/eKImYX8d5V3BJV0knpPB+VrOLIU3vbgIXMOfxSUJJSSf7YP+UmvxeiuyLfMazJQ8pxbvvbtxVznjg5BFFFLygrg0tfpsK1piRQ02tQIQ6prlKc/wAidp7k9vHY1DqEe0tSbhK+ZPdcSoODJS2Aeeojk4IHYD6FFFShoE+BV5WoR6ZX/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-fb-1.png__l.jpg
 labels:
-  - serie:Playlists
+  - serie:Playlists 2020
+  - Playlist
   - 12 Songs
   - Aventgarde
   - Bands
@@ -32,7 +33,6 @@ labels:
   - Nine Inch Nails
   - Pearl Jam
   - Pixies
-  - Playlist
   - Post-Rock
   - Riverside
   - Schallplatten
