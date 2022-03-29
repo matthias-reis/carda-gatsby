@@ -91,7 +91,7 @@ Weiter geht's mit einem Stück, das Matze ausgesucht hat, bzw. wir beide, er hat
 
 ## Oh Hiroshima – "Veil Of Certainty" vom Album "Myriad"
 
-Könnt Ihr Euch noch an mein Interview mit Oh Hiroshima erinnern? Ich war so glücklich, als ich erfuhr, dass sie neue Musik aufgenommen haben. Das vierte Studioalbum der Schweden ist am 4. März bei Napalm Records erschienen. Es bietet ein Wechselbad der Gefühle, das Euch so schnell nicht mehr loslassen wird. "Veil Of Certainty" ist ein schöner Einstieg.
+Könnt Ihr Euch noch an [mein Interview mit Oh Hiroshima](/2020/06/oh-hiroshima-interview/) erinnern? Ich war so glücklich, als ich erfuhr, dass sie neue Musik aufgenommen haben. Das vierte Studioalbum der Schweden ist am 4. März bei Napalm Records erschienen. Es bietet ein Wechselbad der Gefühle, das Euch so schnell nicht mehr loslassen wird. "Veil Of Certainty" ist ein schöner Einstieg.
 
 <YouTube id="1PkddDWc1Eg" />
 
@@ -113,7 +113,7 @@ Und noch eins aus Matzes Kiste:
 
 ## The Ocean & Lustmord – "Primal (State Of Being)"
 
-The Ocean und Lustmord haben gemeinsame Sache gemacht. "Primal (State Of Being)" ist ein düsterer Vorgeschmack auf das kommende Lustmord Deconstructed Album "The Others", auf dem noch viele weitere großartige Künstler⋆innen, wie Jo Quaill und Mono und auch Årabrot vertreten sind.
+[The Ocean](/2020/09/the-ocean-robin-staps-interview/) und [Lustmord](/2021/05/karin-park-lustmord-alter/) haben gemeinsame Sache gemacht. "Primal (State Of Being)" ist ein düsterer Vorgeschmack auf das kommende Lustmord Deconstructed Album "The Others", auf dem noch viele weitere großartige Künstler⋆innen, wie Jo Quaill und Mono und auch Årabrot vertreten sind.
 
 <YouTube id="-ZCjgac7FnM" />
 
