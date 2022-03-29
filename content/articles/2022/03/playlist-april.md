@@ -105,7 +105,7 @@ Diesen Song hat Matze ausgewählt:
 
 ## A Place To Bury Strangers – "Nice Of You To Be There For Me" vom Album "See You Through"
 
-Und noch eins aus Matzes Kiste:
+Und noch einer aus Matzes Kiste:
 
 > "Ich weiß nicht, ich glaube, ich habe das hier schon mal erwähnt: Das lauteste Konzert, auf dem ich jemals war, war das von Swans auf dem DUNK!festival. Neben dieser Band und Mogwai sagt man ja auch A Place To Bury Strangers nach, äußerst intensive und vor allem ohrenbetäubend laute Konzerte zu spielen. Jetzt haben sie ein neues Album draußen. APTBS bewegen sich perfekt zwischen ihren Genres Shoegaze, Noise und Post Punk. Hört Euch unbedingt das ganze Album an. 'Nice Of You To Be There For Me' begeistert mich mit seiner leicht psychedelischen Atmosphäre bis jetzt am meisten."
 
