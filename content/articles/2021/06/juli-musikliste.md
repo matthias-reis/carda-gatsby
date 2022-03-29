@@ -36,6 +36,7 @@ labels:
   - Zeal & Ardor
   - Bands
   - Releases
+  - serie:Playlists
 focusKeyword: Sommer-Songs
 advertisement: false
 affiliate: false
