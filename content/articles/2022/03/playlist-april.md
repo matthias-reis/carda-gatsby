@@ -134,7 +134,7 @@ Es könnte ein schöner Festival-Sommer werden. Eine weitere unserer liebsten Fe
 
 ![Handschriftliche Notiz, unterschrieben von Arcade Fire mit Noten auf einem Notenblatt und den Worten "We missed you" (Wir haben Euch vermisst). Unter den Noten ist ein gezeichnetes Auge zu sehen, daneben steht "U Soon" für "See you soon" ("Wir sehen uns bald wieder") | large](https://storage.googleapis.com/cardamonchai-media/2022-03-29/arcade-fire-chords-notiz-jpg-imagine-f8f8f8_f7f7f6_700_471/640.webp "Arcade Fire sagen \"We missed you, see you soon\" (Wir haben Euch vermisst, wir sehen uns bald wieder).")
 
-Mit den Worten: "Das macht das Spielen leichter". AF schrieben außerdem, dass sie aufgeregt seien, sich endlich zurückzumelden. Letzte Woche traten sie dann im Rahmen eines Benefizkonzerts für die Ukraine auf.
+Darunter die Worte: "Das macht das Spielen leichter". AF schrieben außerdem, dass sie aufgeregt seien, sich endlich zurückzumelden. Letzte Woche traten sie dann im Rahmen eines Benefizkonzerts für die Ukraine auf.
 
 <YouTube id="qJiALpiqpk8" />
 
