@@ -51,7 +51,7 @@ language: de
 
 ---
 
-Anfangen möchte ich diesen Monat mit einem Nachruf für den großartigen Taylor Hawkins. Der Foo Fighters Drummer ist vor vier Tagen im Alter von nur 50 Jahren überraschend und sehr plötzlich von uns gegangen. Wir alle teilen Erinnerungen an legendäre Konzerte mit ihm und werden ihn nie vergessen. In unsere Herzen und auf unseren Boxen wird er immer bei uns sein. Taylor, Du fehlst. Mit Euch möchte ich an dieser Stelle das Stück "On The Mend" teilen, das Dave Grohl für seinen besten Freund Taylor Hawkins geschrieben hat, als dieser 2001 wegen einer Überdosis Heroin im Koma lag. Dave stellte das Stück mit den folgenden Worten vor: 
+Anfangen möchte ich diesen Monat mit einem Nachruf für den großartigen Taylor Hawkins. Der Foo Fighters Drummer ist vor vier Tagen im Alter von nur 50 Jahren überraschend und sehr plötzlich von uns gegangen. Wir alle teilen Erinnerungen an legendäre Konzerte mit ihm und werden ihn nie vergessen. In unseren Herzen und auf unseren Boxen wird er immer bei uns sein. Taylor, Du fehlst. Mit Euch möchte ich an dieser Stelle das Stück "On The Mend" teilen, das Dave Grohl für seinen besten Freund Taylor Hawkins geschrieben hat, als dieser 2001 wegen einer Überdosis Heroin im Koma lag. Dave stellte das Stück mit den folgenden Worten vor: 
 
 > "Ich habe Taylor nie gesagt, dass es in 'On The Mend' um ihn geht. Zur Hölle, nein, es ist mein Liebeslied an einen sterbenden besten Freund. Ich wollte es auf dem Album haben und mir dabei gedacht: "Oh Gott, wahrscheinlich denkt er sich, dass es um ihn ihn geht, aber wir sind nie auch nur in die Nähe  eines derartigen Gesprächs gekommen. Ich möchte nicht mit ihm darüber reden. Ich möchte mich mit ihm lieber über anderes Zeug unterhalten."
 
