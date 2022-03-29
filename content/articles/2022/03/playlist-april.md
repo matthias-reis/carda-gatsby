@@ -127,7 +127,7 @@ Lust auf was rocknrolliges? Dann hat Valentin genau den richtigen Song für Euch
 
 ## Arcade Fire – "The Lightning I,II"
 
-Es könnte ein schöner Festival-Sommer werden. Eine weitere unserer liebsten Festival-Bands hat neue Musik für uns: The Lightning I,II könnte ein Vorgeschmack auf ein kommendes Album sein – angekündigt wurde es noch nicht. Das zweiteilige Stück klingt nachdenklich – fast sehnsüchtig und treibt beim Hören Tränen der Erinnerung an glückselige Zeiten in die Augen. In ihrem Newsletter, in dem die Band die Veröffentlichung bekannt gab, fügte sie diese hübsche Notiz mit bei. Mit den Worten: "Das macht das Spielen leichter". AF schrieben außerdem, dass sie aufgeregt seien, sich endlich zurückzumelden. Letzte Woche traten sie dann im Rahmen eines Benefizkonzerts für die Ukraine auf.
+Es könnte ein schöner Festival-Sommer werden. Eine weitere unserer liebsten Festival-Bands hat neue Musik für uns: "The Lightning I,II" könnte ein Vorgeschmack auf ein kommendes Album sein – angekündigt wurde es noch nicht. Das zweiteilige Stück klingt nachdenklich – fast sehnsüchtig und treibt beim Hören Tränen der Erinnerung an glückselige Zeiten in die Augen. In ihrem Newsletter, in dem die Band die Veröffentlichung bekannt gab, fügte sie diese hübsche Notiz mit bei. Mit den Worten: "Das macht das Spielen leichter". AF schrieben außerdem, dass sie aufgeregt seien, sich endlich zurückzumelden. Letzte Woche traten sie dann im Rahmen eines Benefizkonzerts für die Ukraine auf.
 
 <YouTube id="qJiALpiqpk8" />
 
