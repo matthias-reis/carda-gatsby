@@ -68,7 +68,7 @@ Und hier sind nochmal die Foos, wie wir sie lieben. Live und laut bei Jimmy Kimm
 
 <YouTube id="2eW1kUBJPFc" />
 
-## Tool - "Opiate²"
+## Tool – "Opiate²"
 
 Das nächste Stück hat Valentin auf die Liste gesetzt. Bei Tool brodelt es – die Tour ist in Planung und das Studio ist im Dauerbetrieb. Die erste große Überraschung ist jetzt schon raus gepurzelt. Ich übergebe das Wort an Valentin:
 
@@ -145,3 +145,8 @@ Last but not least hat auch Jack White an dieser Stelle mal wieder einen Auftrit
 > "Jack White wird dieses Jahr einiges abliefern - er hat bereits zwei komplette Alben angekündigt. Anfang April geht es mit 'Fear of the Dawn' los. 'Hi-De-Ho' ist schon die dritte Single von der Platte – die ein außergewöhnlicher Ritt durch die Musikgenres ist – von Anfang bis Ende. Sie fühlt sich fast an, wie ein Quentin Tarantino Filmsoundtrack in einem einzigen Song. Mit Q-Tip hat sich Jack auch einen prominenten Gast dazu geholt, sein Hip Hop verschmilzt perfekt mit der Verspieltheit des Songs."
 
 <YouTube id="HKrhs3eaIHE" />
+
+<Playlist
+  spotify="1e24yCFGPJVnHFVzoNYrSQ?si=7aa996f837b7483f"
+  itunes="2022-03-29-rock-n-roll-vegan/pl.u-xPNkFA70b0v"
+/>
