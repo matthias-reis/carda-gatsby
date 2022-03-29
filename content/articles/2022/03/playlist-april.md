@@ -76,7 +76,7 @@ Das nächste Stück hat Valentin auf die Liste gesetzt. Bei Tool brodelt es – 
 
 <YouTube id="KY7cofvtbco" />
 
-## Meshuggah – "The Abymal Eye" (Vorauskopplung vom Album "Immutable")
+## Meshuggah – "The Abysmal Eye" (Vorauskopplung vom Album "Immutable")
 
 Und auch dieses Stück hat Valentin auf die Liste gesetzt. Weil es gerade so hervorragend passt, kommt es gleich als Nächstes.
 
