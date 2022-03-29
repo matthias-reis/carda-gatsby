@@ -1,5 +1,4 @@
 ---
-templateKey: article
 date: 2021-07-26T11:21:44.401Z
 slug: 10-songs-august-2021
 typeName: Beitrag
@@ -41,8 +40,10 @@ labels:
   - Blackgaze
   - Shoegaze
   - Sludge
-focusKeyword: 10 Songs
+  - serie:Playlists
 advertisement: false
+templateKey: article
+focusKeyword: 10 Songs
 affiliate: false
 language: de
 ---
