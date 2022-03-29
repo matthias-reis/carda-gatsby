@@ -42,6 +42,7 @@ labels:
   - Korn
   - Calexico
   - Nordic Giants
+  - serie:Playlists
 focusKeyword: Playlist
 advertisement: false
 affiliate: false
