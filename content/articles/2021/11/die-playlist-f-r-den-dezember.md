@@ -42,7 +42,7 @@ labels:
   - Musikliste
   - Post-Music
   - Post-Rock
-  - "Serie: Playlists"
+  - serie:Playlists
 focusKeyword: Von Post-Metal bis Prog
 advertisement: false
 affiliate: false
