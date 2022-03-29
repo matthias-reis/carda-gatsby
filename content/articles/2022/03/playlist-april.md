@@ -5,13 +5,13 @@ typeName: Beitrag
 title: Playlist April
 subTitle: Von Foo Fighters bis Tool
 seoTitle: Alternative Musikliste für den April – Foo Fighters bis Tool
-description: Von An So I Watch You From Afar über Foo Fighter und Tool bis hin
+description: Von And So I Watch You From Afar über Foo Fighter und Tool bis hin
   zu The Ocean & Lustmord haben wir wieder 12 ganz besondere Songs für Euch
   selektiert, die diesen Monat auf der Musikliste gelandet sind.
 excerpt: Die Songs für den Monat April stehen bereit und warten darauf, von Euch
   gehört zu werden. Gemeinsam mit meinen beiden Lieblings-Musik-Fans habe ich
   wieder 12 Stücke aus den unterschiedlichsten Genres ausgewählt. Von Post-Rock
-  bis Progressive Metal.
+  bis Progressive Metal und von And So I Watch You From Afar bis Foo Fighters.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-29/12-songs-april-jpg-imagine-080808_52464e_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-29/12-songs-april-fb-png-imagine-080808_534850_1200_628/640.webp
