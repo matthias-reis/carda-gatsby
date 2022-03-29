@@ -85,7 +85,7 @@ Und auch dieses Stück hat Valentin auf die Liste gesetzt. Weil es gerade so her
 
 Weiter geht's mit einem Stück, das Matze ausgesucht hat, bzw. wir beide, er hat es auf die Liste gesetzt:
 
-> "In der [vorletzten Ausgabe](https:///2022/01/playlist-februar-2022/) haben wir Euch bereits einen Vorgeschmack auf das neue ASIWYFA Album "Jettison" gegeben – damals mit einem echten Cliffhanger, dem Opener des Albums, bei dem der zweite Teil fehlte. Jetzt ist der meisterhafte Longplayer dazu erhältlich. Fieser Weise habe ich Euch nicht das Gegenstück dazu herausgesucht – das müsst Ihr selber finden. Mir persönlich hat "In The Air" außerdem auch noch ein bisschen besser gefallen. Das traumhafte Gesamtwerk der Iren kommt als Soundtrack zu einem audiovisuellen Projekt daher und wurde in Zusammenarbeit mit einem Streicher-Quartett aufgenommen. Ich freu mich auf das Videoprojekt und reihe die Platte jetzt schon in die Liste der besten Alben des Jahres ein."
+> "In der [vorletzten Ausgabe](/2022/01/playlist-februar-2022/) haben wir Euch bereits einen Vorgeschmack auf das neue ASIWYFA Album 'Jettison' gegeben – damals mit einem echten Cliffhanger, dem Opener des Albums, bei dem der zweite Teil fehlte. Jetzt ist der meisterhafte Longplayer dazu erhältlich. Fieser Weise habe ich Euch nicht das Gegenstück dazu herausgesucht – das müsst Ihr selber finden. Mir persönlich hat 'In The Air' außerdem auch noch ein bisschen besser gefallen. Das traumhafte Gesamtwerk der Iren kommt als Soundtrack zu einem audiovisuellen Projekt daher und wurde in Zusammenarbeit mit einem Streicher-Quartett aufgenommen. Ich freu mich auf das Videoprojekt und reihe die Platte jetzt schon in die Liste der besten Alben des Jahres ein."
 
 <YouTube id="aHo32zASQHs" />
 
