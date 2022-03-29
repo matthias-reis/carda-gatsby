@@ -38,6 +38,7 @@ labels:
   - Meshuggah
   - Metal
   - serie:Playlists
+  - Q-Tip
 focusKeyword: Playlist
 advertisement: false
 affiliate: false
@@ -139,6 +140,6 @@ Mit den Worten: "Das macht das Spielen leichter". AF schrieben außerdem, dass s
 
 Last but not least hat auch Jack White an dieser Stelle mal wieder einen Auftritt. Matze hat sein neuestes Stück auf unsere Liste gesetzt:
 
-> "Jack White wird dieses Jahr einiges abliefern - er hat bereits zwei komplette Alben angekündigt. Anfang April geht es mit 'Fear of the Dawn' los. 'Hi-De-Ho' ist schon die dritte Single von der Platte – die ein außergewöhnlicher Ritt durch die Musikgenres ist – von Anfang bis Ende. Sie fühlt sich fast an, wie ein Quentin Tarantino Filmsoundtrack in einem einzigen Song. Mit 'Q-Tip' hat sich Jack auch einen prominenten Gast dazu geholt, sein Hip Hop verschmilzt perfekt mit der Verspieltheit des Songs."
+> "Jack White wird dieses Jahr einiges abliefern - er hat bereits zwei komplette Alben angekündigt. Anfang April geht es mit 'Fear of the Dawn' los. 'Hi-De-Ho' ist schon die dritte Single von der Platte – die ein außergewöhnlicher Ritt durch die Musikgenres ist – von Anfang bis Ende. Sie fühlt sich fast an, wie ein Quentin Tarantino Filmsoundtrack in einem einzigen Song. Mit Q-Tip hat sich Jack auch einen prominenten Gast dazu geholt, sein Hip Hop verschmilzt perfekt mit der Verspieltheit des Songs."
 
 <YouTube id="HKrhs3eaIHE" />
