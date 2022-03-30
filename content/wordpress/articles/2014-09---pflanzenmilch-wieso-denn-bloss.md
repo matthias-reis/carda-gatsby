@@ -1,17 +1,28 @@
 ---
-date: 2014-09-09T10:42:30.000+00:00
-slug: pflanzenmilch-wieso-denn-bloss
-path: '/2014/09/pflanzenmilch-wieso-denn-bloss/'
-title: Pflanzenmilch? Wieso denn bloß?
-seoTitle: Pflanzenmilch? Wieso denn bloß? - warum Veganer auf Milch verzichten
+month: "09"
 ogTitle: Pflanzenmilch? Wieso denn bloß? - warum Veganer auf Milch verzichten
-description: Veganer essen nicht nur kein Fleisch und keine Eier, verzichten auf Echtleder, Wolle und Honig, sie nehmen auch keine Milchprodukte zu sich. Und warum?
-excerpt: Veganer*innen essen nicht nur kein Fleisch und keine Eier, verzichten auf Echtleder, Wolle und Honig, sie nehmen auch keine Milchprodukte zu sich. Aber warum denn eigentlich?
-fileName: 2014-09---pflanzenmilch-wieso-denn-bloss.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_drei-tage-alt-und-noch-ohne-ohrmarken__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_drei-tage-alt-und-noch-ohne-ohrmarken__l.jpg
+excerpt: Veganer*innen essen nicht nur kein Fleisch und keine Eier, verzichten
+  auf Echtleder, Wolle und Honig, sie nehmen auch keine Milchprodukte zu sich.
+  Aber warum denn eigentlich?
+ogImage: null
+isAffiliate: false
+path: /2014/09/pflanzenmilch-wieso-denn-bloss/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAMF/8QAKRAAAQQBAgUEAgMAAAAAAAAAAQIDBBEFAAYHEhMhMRRBUWEiQjNikf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAP/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMREhMyBCEx/9oADAMBAAIRAxEAPwBJwi0zHW2YzS3HmuZxbaCkKUEiyAT7kdh9jVO4bcIIu48dlMpmstJTAybikNRIhSFIAPKorUoEXzA0Eih8m6Chwz2+pxfr3ELAkq6ZaS4b6fMOava67Dz59jpzXxDdx+5GIk2RkIYihfSx7AbQ0q+yUufsQnz2q/jQfHQKSDKVLpXkfTJBM27g8DvMy9szpjuMivLZLeSQG3gsAgiwACk0SDQNJNi6vfnZyspAYnTYjUR5fUSpDalL5hznlUSR5IoV/X2vXvPxMRvbiLPS2toMojB95Da0rHqFLqgCaBoWSBrVmYEaJIVEJbTCP4LWQFEIoXZHk9j31mt1sKy2gKA4kV2Vk1xNzwXUoLiJDiY0hDir6rbh5VAmvu/ojVNhZqfhMjuFqJOlty0zl9F5otBLaUnkA5VNqJ7V+3t486NGm29IRe0Ztgbk3PknX0ZDcMhZ9A3KQpqNHbpSlEEGm/yF9/8Addt4bgzeOxcqS1lnVrSk9lxo1E2Bf8Xyb0aNCFjc+M+okqvHnE//2Q==
-ogImage:
+isWerbung: false
+fileName: 2014-09---pflanzenmilch-wieso-denn-bloss.md
+slug: pflanzenmilch-wieso-denn-bloss
+errors: {}
+date: 2014-09-09T10:42:30.000+00:00
+focusKeyword: Pflanzenmilch
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_drei-tage-alt-und-noch-ohne-ohrmarken__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_drei-tage-alt-und-noch-ohne-ohrmarken__m.jpg
+title: Pflanzenmilch? Wieso denn bloß?
+subTitle: 10 Fakten über Veganismus - Teil V
+seoTitle: Pflanzenmilch? Wieso denn bloß? - warum Veganer auf Milch verzichten
+description: Veganer essen nicht nur kein Fleisch und keine Eier, verzichten auf
+  Echtleder, Wolle und Honig, sie nehmen auch keine Milchprodukte zu sich. Und
+  warum?
 labels:
   - 10 Fakten über Veganismus
   - Bio
@@ -41,15 +52,8 @@ labels:
   - vegane Ernährung
   - Veganer
   - serie:10 Fakten über Veganismus
-focusKeyword: Pflanzenmilch
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: 10 Fakten über Veganismus - Teil V
-year: '2014'
-month: '09'
+year: "2014"
 ---
 
 ## Von besamten Kühen und einsamen Kälbchen
@@ -410,6 +414,6 @@ Die Kälber in den Iglus waren alle für die Mast/den Schlachter vorgesehen, bev
 1.  [Harvard-Studie zum Zusammenhang von Milchkonsum und Osteoporose](http://jn.nutrition.org/content/116/11/2316.full.pdf)
 1.  [Lactose intolerance](http://en.wikipedia.org/wiki/Lactose_intolerance)
 1.  [Die Biowahrheit](http://www.biowahrheit.de)
-1.  - [Ökologische Haltungssysteme](http://www.boelw.de/fileadmin/alf/biofrage_11.pdf)
+1.  [Ökologische Haltungssysteme](http://www.boelw.de/fileadmin/alf/biofrage_11.pdf)
 
 **Bilder:** Monika München, Denise Hof-Slapansky von Augsburg is(s)t vegan, [biowahrheit.de](http://www.biowahrheit.de) und anonym - Danke an alle Fotografen/innen!
