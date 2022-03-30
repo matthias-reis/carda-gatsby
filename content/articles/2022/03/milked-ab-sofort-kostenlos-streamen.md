@@ -6,10 +6,10 @@ title: '"Milked" ab sofort kostenlos streamen'
 subTitle: Neue Dokumentation zeigt "White Washing" der Milchindustrie
 seoTitle: Doku "Milked" zeigt "White Washing" der Milchindustrie
 description: Ursula von der Leyen, bitte tun sie was! – Amy Taylor und Chris
-  Huriwai fordern die EU auf, den Milchviehbestand um 25 % zu reduzieren. Mit
+  Huriwai fordern die EU auf, den Milchvieh-Bestand um 25 % zu reduzieren. Mit
   "Milked" kämpfen sie gegen die verheerendenn Auswirkungen der Milchwirtschaft.
 excerpt: '"Ursula von der Leyen, bitte tun sie etwas!" – Die Filmemacher⋆innen
-  Amy Taylor und Chris Huriwai fordern die EU auf, ihren Milchviehbestand bis
+  Amy Taylor und Chris Huriwai fordern die EU auf, ihren Milchvieh-Bestand bis
   2025 um 25 Prozent zu reduzieren. Ihre neue Dokumentation "Milked – White Lies
   in Diary Land" ist Teil einer koordinierten Kampagne zur Verringerung der
   weltweiten, verheerenden  Auswirkungen der Milchwirtschaft.'
@@ -43,7 +43,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Die neue Lebensmittel-Dokumentation "Milked – White Lies in Diary Land" begleitet den jungen Aktivisten Chris Huriwai auf seinen Nachforschungen in der Milchindustrie. Bei Besuchen in einigen der größten Betriebe Neuseelands deckt er die dunkle Seite der Milchprodukte-Herstellung auf.**
+**Die neue Lebensmittel-Dokumentation "Milked – White Lies in Diary Land" begleitet den jungen Aktivisten Chris Huriwai bei seinen Nachforschungen in der Milchindustrie. Bei Besuchen in einigen der größten Betriebe Neuseelands deckt er die dunkle Seite der Milchprodukte-Herstellung auf.**
 
 Auf seiner Reise beleuchtet er nicht nur die offensichtliche Nachhaltigkeitskrise. Es gelingt ihm außerdem, die gefährliche Leugnung des drohenden landwirtschaftlichen Kollapses aufzudecken. "Milked" zeigt zudem Beispiele dafür, wie Länder es schaffen können, diesem scheinbar unausweichlichen Schicksal zu entkommen.
 
@@ -73,13 +73,13 @@ Die Europäische Union ist, Stand heute, die größte Produzentin von Milchprodu
 
 ## "Ursula von der Leyen, bitte tun sie etwas!"
 
-Amy Taylor und Chris Huriwai fordern genau aus diesem Grund  die Präsidentin der Europäischen Kommission, Ursula von der Leyen, und den EU-Kommissar für Landwirtschaft, Janusz Wojciechowski, auf, den EU-Milchviehbestand bis 2025 um 25 Prozent zu reduzieren. Die Aktion ist Teil einer koordinierten Kampagne, zur Verringerung der weltweiten, verheerenden Auswirkungen der Milchwirtschaft.
+Amy Taylor und Chris Huriwai fordern genau aus diesem Grund  die Präsidentin der Europäischen Kommission, Ursula von der Leyen, und den EU-Kommissar für Landwirtschaft, Janusz Wojciechowski, auf, den EU-Milchvieh-Bestand bis 2025 um 25 Prozent zu reduzieren. Die Aktion ist Teil einer koordinierten Kampagne, zur Verringerung der weltweiten, verheerenden Auswirkungen der Milchwirtschaft.
 
 Auf der Petitionsseite erklären sie genau, warum dies nötig ist:
 
-> "Der weltweite Milchviehbestand von über 260 Millionen Kühen  produziert jedes Jahr rund 26 Millionen Tonnen Methan (100 kg pro Kuh, pro Jahr). Methan erwärmt die Atmosphäre über einen Zeithorizont von 20 Jahren mehr als 84 Mal stärker als Kohlendioxid. Eine Verringerung der Methanemissionen würde sich unmittelbar auf das Klima der Erde auswirken. Die Europäische Union und ihre Partnerländer haben auf der UN-Klimakonferenz COP26 in Glasgow die Globale Methan-Verpflichtung eingeführt. Wir müssen die Methanemissionen jedoch schon viel früher als 2030 reduzieren.
+> "Der weltweite Milchvieh-Bestand von über 260 Millionen Kühen  produziert jedes Jahr rund 26 Millionen Tonnen Methan (100 kg pro Kuh, pro Jahr). Methan erwärmt die Atmosphäre über einen Zeithorizont von 20 Jahren mehr als 84 Mal stärker als Kohlendioxid. Eine Verringerung der Methanemissionen würde sich unmittelbar auf das Klima der Erde auswirken. Die Europäische Union und ihre Partnerländer haben auf der UN-Klimakonferenz COP26 in Glasgow die Globale Methan-Verpflichtung eingeführt. Wir müssen die Methanemissionen jedoch schon viel früher als 2030 reduzieren.
 
-![Zwei schwarz-weiß gefleckte Rinder reiben ihre Gesichter aneinander. Eine weiße Kuh mit zwei schwarzen Flecken steht im Hintergrund. Eine dunkle Kuh mit einem weißen Fleck auf dem Rücken ist schemenhaft im Vordergrund zu erkennen.](https://storage.googleapis.com/cardamonchai-media/2022-03-30/milked-3-jpg-imagine-181818_525656_1200_628/640.webp "Der weltweite Milchviehbestand ist zu groß")
+![Zwei schwarz-weiß gefleckte Rinder reiben ihre Gesichter aneinander. Eine weiße Kuh mit zwei schwarzen Flecken steht im Hintergrund. Eine dunkle Kuh mit einem weißen Fleck auf dem Rücken ist schemenhaft im Vordergrund zu erkennen.](https://storage.googleapis.com/cardamonchai-media/2022-03-30/milked-3-jpg-imagine-181818_525656_1200_628/640.webp "Der weltweite Milchvieh-Bestand ist zu groß")
 
 ## Klimaschutz durch Umstellung auf pflanzliche Alternativen
 
