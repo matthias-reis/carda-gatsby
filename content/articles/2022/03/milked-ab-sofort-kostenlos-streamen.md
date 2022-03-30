@@ -57,7 +57,7 @@ Auf der Petitionsseite schreiben die beiden Filmemacher⋆innen:
 
 > "Wir haben "Milked" gemacht, um den wahren Preis der Milchindustrie aufzuzeigen. Wir haben eine echte Horrorgeschichte aufgedeckt, die immer weiter um sich greift."
 
-Wie auch bei uns wird in Neuseeland bei der Vermarktung von Milchprodukten vor allem auf idyllische Bilder mit gesunden Rindern inmitten naturbelassener Landschaften gesetzt. Wir alle kennen diese Bilder seit unserer frühesten Kindheit. [Was wirklich in der Milchindustrie passiert](/2014/09/pflanzenmilch-wieso-denn-bloss/), ist den meisten Menschen nicht bewusst oder sie verdrängen es.
+Wie auch bei uns, wird in Neuseeland bei der Vermarktung von Milchprodukten vor allem auf idyllische Bilder mit gesunden Rindern inmitten naturbelassener Landschaften gesetzt. Wir alle kennen diese Bilder seit unserer frühesten Kindheit. [Was wirklich in der Milchindustrie passiert](/2014/09/pflanzenmilch-wieso-denn-bloss/), ist den meisten Menschen nicht bewusst oder sie verdrängen es.
 
 ![Chris Huriwai schaut traurig auf ein paar schwarz-weiß-gefleckte Rinder, die verschwommen im Hintergrund zu sehen sind. Er trägt einen grauen Hoodie und eine schwarze Strickmütze und hat einen Dreitagebart.](https://storage.googleapis.com/cardamonchai-media/2022-03-30/milked-2-jpg-imagine-787858_676354_1200_628/640.webp "Chris Huriwai nimmt die Milchwirtschaft genau unter die Lupe.")
 
