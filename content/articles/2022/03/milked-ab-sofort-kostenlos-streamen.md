@@ -89,7 +89,7 @@ Der Aufruf des Filmteams lautet daher zusammengefasst:
 
 > Die Europäische Union ist der weltweit größte Exporteur von Käse und Magermilch. Darum muss die EU Maßnahmen ergreifen. Auf die sechs Länder Deutschland, Frankreich, Polen, die Niederlade, Italien und Irland entfallen 70 Prozent der Milcherzeugung in der EU. In der Europäischen Union produziert jede Kuh pro Jahr 7.500 kg Milch.
 >
-> Weltweit werden mehr als drei Viertel der landwirtschaftlichen Nutzfläche für den Anbau von Tierfutter genutzt, produziert jedoch lediglich f18 Prozent der weltweit erzeugten Kalorien.
+> Weltweit werden mehr als drei Viertel der landwirtschaftlichen Nutzfläche für den Anbau von Tierfutter genutzt, produziert jedoch lediglich 18 Prozent der weltweit erzeugten Kalorien.
 >
 > Der größte Risikofaktor für neue Zoonosen wie COVID-19 ist die wachsende Nachfrage nach tierischem Eiweiß. Menschen sind die einzigen Säugetiere, die ihr ganzes Leben lang Milch trinken – die einer anderen Spezies. Dabei leiden etwa 65 bis 70 Prozent aller Erwachsenen an Laktoseintoleranz.
 >
