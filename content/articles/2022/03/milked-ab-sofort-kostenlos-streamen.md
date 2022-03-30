@@ -38,7 +38,7 @@ labels:
   - Gesundheit
   - Veganer
   - Klima- & Umweltschutz
-focusKeyword: Milked
+focusKeyword: Milked – White Lies in Diary Land
 advertisement: false
 affiliate: false
 language: de
