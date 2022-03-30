@@ -77,7 +77,7 @@ Amy Taylor und Chris Huriwai fordern genau aus diesem Grund  die Präsidentin de
 
 Auf der Petitionsseite erklären sie genau, warum dies nötig ist:
 
-> "Der weltweite Milchviehbestand von über 260 Millionen Kühen  produziert jedes Jahr rund 26 Millionen Tonnen Methan (100 kg pro Kuh, pro Jahr). Methan erwärmt die Atmosphäre über einen Zeithorizont von 20 Jahren mehr als 84 Mal stärker als Kohlendioxid. Eine Verringerung der Methanemissionen würde sich unmittelbar auf das Klima der Erde auswirken. Die Europäische Union und ihre Partner haben auf der COP26 die Globale Methan-Verpflichtung eingeführt. Wir müssen die Methanemissionen jedoch schon viel früher als 2030 reduzieren.
+> "Der weltweite Milchviehbestand von über 260 Millionen Kühen  produziert jedes Jahr rund 26 Millionen Tonnen Methan (100 kg pro Kuh, pro Jahr). Methan erwärmt die Atmosphäre über einen Zeithorizont von 20 Jahren mehr als 84 Mal stärker als Kohlendioxid. Eine Verringerung der Methanemissionen würde sich unmittelbar auf das Klima der Erde auswirken. Die Europäische Union und ihre Partnerländer haben auf der COP26 die Globale Methan-Verpflichtung eingeführt. Wir müssen die Methanemissionen jedoch schon viel früher als 2030 reduzieren.
 
 ![Zwei schwarz-weiß gefleckte Rinder reiben ihre Gesichter aneinander. Eine weiße Kuh mit zwei schwarzen Flecken steht im Hintergrund. Eine dunkle Kuh mit einem weißen Fleck auf dem Rücken ist schemenhaft im Vordergrund zu erkennen.](https://storage.googleapis.com/cardamonchai-media/2022-03-30/milked-3-jpg-imagine-181818_525656_1200_628/640.webp "Der weltweite Milchviehbestand ist zu groß")
 
