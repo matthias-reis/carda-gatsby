@@ -83,7 +83,7 @@ Auf der Petitionsseite erklären sie genau, warum dies nötig ist:
 
 ## Klimaschutz durch Umstellung auf pflanzliche Alternativen
 
-Mit den Maßnahmen sollen Wildtiere geschützt und natürliche Lebensräume erhalten werden. Die Reduzierung der Emissionen soll kurz gesagt Leben retten.
+Mit den Maßnahmen sollen Wildtiere geschützt und natürliche Lebensräume erhalten werden. Die Reduzierung der Emissionen soll, kurz gesagt, Leben retten.
 
 Der Aufruf des Filmteams lautet daher zusammengefasst:
 
