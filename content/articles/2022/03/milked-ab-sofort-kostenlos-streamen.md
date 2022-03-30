@@ -65,7 +65,7 @@ Wie auch bei uns, wird in Neuseeland bei der Vermarktung von Milchprodukten vor 
 
 Doch das romantische Bild von den glücklichen Kühen auf den saftigen Wiesen entspricht nicht der Realität und [zwischen konventioneller und biologischer Landwirtschaft sind die Unterschiede für die Tiere kaum spürbar](/2014/09/pflanzenmilch-wieso-denn-bloss/)).
 
-"Milked"[^2] zeigt, wie es wirklich ist: Tiere und Menschen sterben für den Profit, Flüsse und das Grundwasser werden verschmutzt und die Natur zerstört. Der Film bringt außerdem ans Tageslicht, dass Neuseelands größtes Milch-Unternehmen (das als Beispiel für Firmen dieser Art rund um den Globus dient) bei der Angabe seiner Treibhausgasemissionen massiv untertrieben hat. Insgesamt verursacht Fronterra mehr Emissionen als das ganze Land Schweden.
+"Milked"[^2] zeigt, wie es wirklich ist: Tiere und Menschen sterben für den Profit, Flüsse und das Grundwasser werden verschmutzt und die Natur zerstört. Der Film bringt außerdem ans Tageslicht, dass Neuseelands größtes Milch-Unternehmen (das als Beispiel für Firmen dieser Art rund um den Globus dient) bei der Angabe seiner Treibhausgasemissionen massiv untertrieben hat. Insgesamt verursacht Fronterra mehr Emissionen, als das ganze Land Schweden.
 
 Auch der Punkt Emissionen ist ein globales Problem. Die EU spielt hier eine große Rolle und sollte möglichst bald ihr Handeln ändern. Wie schön wäre es, hier eine Vorbild-Rolle einzunehmen – doch davon sind wir heute noch weit entfernt.
 
