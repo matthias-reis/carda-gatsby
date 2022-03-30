@@ -87,7 +87,7 @@ Mit den Maßnahmen sollen Wildtiere geschützt und natürliche Lebensräume erha
 
 Der Aufruf des Filmteams lautet daher zusammengefasst:
 
-> Die Europäische Union ist der weltweit größte Exporteur von Käse und Magermilch. Darum muss die EU Maßnahmen ergreifen. Auf die sechs Länder Deutschland, Frankreich, Polen, die Niederlade, Italien und Irland entfallen 70 Prozent der Milcherzeugung in der EU. In der Europäischen Union produzier jede Kuh pro Jahr 7.500 kg Milch.
+> Die Europäische Union ist der weltweit größte Exporteur von Käse und Magermilch. Darum muss die EU Maßnahmen ergreifen. Auf die sechs Länder Deutschland, Frankreich, Polen, die Niederlade, Italien und Irland entfallen 70 Prozent der Milcherzeugung in der EU. In der Europäischen Union produziert jede Kuh pro Jahr 7.500 kg Milch.
 >
 > Weltweit werden mehr als drei Viertel der landwirtschaftlichen Nutzfläche für den Anbau von Tierfutter genutzt, produziert jedoch lediglich f18 Prozent der weltweit erzeugten Kalorien.
 >
