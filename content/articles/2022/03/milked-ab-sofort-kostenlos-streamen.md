@@ -8,10 +8,10 @@ seoTitle: Doku "Milked" zeigt "White Washing" der Milchindustrie
 description: Ursula von der Leyen, bitte tun sie was! – Amy Taylor und Chris
   Huriwai fordern die EU auf, den Milchviehbestand um 25 % zu reduzieren. Mit
   "Milked" kämpfen sie gegen die verheerendenn Auswirkungen der Milchwirtschaft.
-excerpt: '"Ursula von der Leyen, bitte tun sie was!" – Die Filmemacher⋆innen Amy
-  Taylor und Chris Huriwai fordern die EU auf, ihren Milchviehbestand bis 2025
-  um 25 Prozent zu reduzieren. Ihre neue Dokumentation "Milked – White Lies in
-  Diary Land" ist Teil einer koordinierten Kampagne zur Verringerung der
+excerpt: '"Ursula von der Leyen, bitte tun sie etwas!" – Die Filmemacher⋆innen
+  Amy Taylor und Chris Huriwai fordern die EU auf, ihren Milchviehbestand bis
+  2025 um 25 Prozent zu reduzieren. Ihre neue Dokumentation "Milked – White Lies
+  in Diary Land" ist Teil einer koordinierten Kampagne zur Verringerung der
   weltweiten, verheerenden  Auswirkungen der Milchwirtschaft.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-30/milked-jpg-imagine-080808_3b3b5d_1024_768/640.webp
 copyrigt: milked.film
@@ -71,7 +71,7 @@ Auch der Punkt Emissionen ist ein globales Problem. Die EU spielt hier eine gro�
 
 Die Europäische Union ist, Stand heute, die größte Produzentin von Milchprodukten. Über 145 Millionen Tonnen produzieren wir jedes Jahr. Insgesamt werden dafür rund 28 Millionen Rinder in der EU gehalten.
 
-## "Ursula von der Leyen, bitte tun sie was!"
+## "Ursula von der Leyen, bitte tun sie etwas!"
 
 Amy Taylor und Chris Huriwai fordern genau aus diesem Grund  die Präsidentin der Europäischen Kommission, Ursula von der Leyen, und den EU-Kommissar für Landwirtschaft, Janusz Wojciechowski, auf, den EU-Milchviehbestand bis 2025 um 25 Prozent zu reduzieren. Die Aktion ist Teil einer koordinierten Kampagne, zur Verringerung der weltweiten, verheerenden Auswirkungen der Milchwirtschaft.
 
