@@ -69,7 +69,7 @@ Doch das romantische Bild von den glücklichen Kühen auf den saftigen Wiesen en
 
 Auch der Punkt Emissionen ist ein globales Problem. Die EU spielt hier eine große Rolle und sollte möglichst bald ihr Handeln ändern. Wie schön wäre es, hier eine Vorbild-Rolle einzunehmen – doch davon sind wir heute noch weit entfernt.
 
-Die Europäische Union ist Stand heute die größte Produzentin von Milchprodukten. Über 145 Millionen Tonnen produzieren wir jedes Jahr. Insgesamt werden dafür rund 28 Millionen Rinder in der EU gehalten.
+Die Europäische Union ist, Stand heute, die größte Produzentin von Milchprodukten. Über 145 Millionen Tonnen produzieren wir jedes Jahr. Insgesamt werden dafür rund 28 Millionen Rinder in der EU gehalten.
 
 ## "Ursula von der Leyen, bitte tun sie was!"
 
