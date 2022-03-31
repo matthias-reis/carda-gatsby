@@ -39,7 +39,7 @@ Die Forschenden beobachteten in ihrer Studie[^2] sechs Würfe von je zehn bis 12
 
 Das Forschungsteam spielte die etwa drei bis fünf Minuten langen Lieder in zufälliger Reihenfolge, mit jeweils einer dreiminütigen Pause dazwischen ab.
 
-Die Wissenschaftler⋆innen bewerteten die Körpersprache der Tiere anhand von 20 emotionalen Parametern. Der Ansatz, bei dem die Reaktionen "zufriedene" und "unruhige" Reaktionen eingeteilt wurden. Das wird als qualitative Verhaltensbeurteilung bezeichnet. Sie steht im Gegensatz zur quantitativen Verhaltensbeurteilung.
+Die Wissenschaftler⋆innen bewerteten die Körpersprache der Tiere anhand von 20 emotionalen Parametern. Der Ansatz, bei dem die Reaktionen "zufriedene" und "unruhige" Reaktionen eingeteilt werden, wird als qualitative Verhaltensbeurteilung bezeichnet. Sie steht im Gegensatz zur quantitativen Verhaltensbeurteilung.
 
 Bei der qualitativen Verhaltensbeurteilung werden die Körperhaltung, das Verhalten und die allgemeine Interaktion von Tieren innerhalb ihrer Umgebung genau beobachtet. Das hilft dabei, die Stimmung und den emotionalen Zustand der Tiere zu beurteilen.
 
