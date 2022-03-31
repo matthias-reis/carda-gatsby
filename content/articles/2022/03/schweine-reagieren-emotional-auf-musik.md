@@ -31,9 +31,9 @@ language: de
 ---
 **Eine neue Studie hat jetzt ein weiteres Mal belegt, dass Schweine zu einem breiten Spektrum an Emotionen fähig sind. Sie sind uns Menschen also ganz schön ähnlich. Bei der Forschungsarbeit kam heraus: Schweine reagieren emotional auf Musik. Harmonische Musik wirkte auf sie entspannend, schrille Musik machte sie unruhig.**
 
-Der Tierarzt und Musiker von der University of Antioquia Berardo de Jesús Rodríguez komponierte 16 Musikstücke, die entweder aus konsonante oder aus dissonante Intervallen bestanden. Menschen nehmen konsonante Intervalle meistens als angenehm und beruhigend wahr, während dissonante Intervalle in der Regel eher als schrill und unangenehm empfunden wird[]. Hier wird es erklärt: 
+Der Tierarzt und Musiker von der University of Antioquia Berardo de Jesús Rodríguez komponierte 16 Musikstücke, die entweder aus konsonante oder aus dissonante Intervallen bestanden. Menschen nehmen konsonante Intervalle meistens als angenehm und beruhigend wahr, während dissonante Intervalle in der Regel eher als schrill und unangenehm empfunden wird[]. Hier wird es erklärt:
 
-hPpd95195J8
+<YouTube id="hPpd95195J8" /> 
 
 Die Forschenden beobachteten in ihrer Studie[^2] sechs Würfe von je zehn bis 12 jungen Schweinen, die Jesús Rodríguez's Stücke über einen Lautsprecher hörten. Die Studie fand in einem zur Universität gehörenden Schweinebetrieb statt.
 
