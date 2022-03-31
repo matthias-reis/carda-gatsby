@@ -45,7 +45,9 @@ Bei der qualitativen Verhaltensbeurteilung werden die Körperhaltung, das Verhal
 
 Die konsonanten Musikstücke lösten bei den Schweinen eindeutig positive Emotionen aus[^3], während dissonante Musik zu negativen Emotionen führte. Die unterschiedlichen Reaktionen auf konsonante und dissonante Musik zeigte sich also klar[^4].
 
-Die Co-Autorin der Studie, Maria Camila Ceballos, die als Tierwohl-Forscherin an der University of Calgary tätig ist, berichtet, sie und ihre Kolleg⋆innen haben sich für die Erforschung von Emotionen bei Schweinen entschieden, da es sich bei ihnen um hochintelligente und soziale Tiere handelt, die in der Massentierhaltung unter schwerwiegenden Missständen leiden.
+Die Co-Autorin der Studie, Maria Camila Ceballos, die als Tierwohl-Forscherin an der University of Calgary tätig ist, berichtete:
+
+> "Meine Kolleg⋆innen und ich haben uns für die Erforschung von Schweine-Emotionen entschieden, weil es sich bei ihnen um hochintelligente und soziale Tiere handelt, die in der Massentierhaltung unter schwerwiegenden Missständen leiden."
 
 Vor Kurzem war aus einer anderen Studie[^5] hervorgegangen, dass sich die Laute von Schweinen in positiven und negativen Situationen deutlich unterscheiden. Damit sollte außer Frage stehen, dass Schweine genau wie wir dazu in der Lage sind, Gefühle zu empfinden.
 
