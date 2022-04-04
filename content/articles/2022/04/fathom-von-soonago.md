@@ -30,7 +30,7 @@ focusKeyword: SOONAGO
 advertisement: false
 affiliate: false
 language: de
-languageLink: 2022/04/soonago-fathom-en
+languageLink: /2022/04/soonago-fathom-en
 ---
 **Heute stelle ich Euch mal eine Post-Rock Band aus meiner alten Heimat Bielefeld vor. SOONAGO gibt es seit 2014. Vor Kurzem haben sie ihr neues Album "Fathom" vorgestellt. Es ist auf Kapitän Platte erschienen und ist neben der digitalen Version, die es bei allen Musik-Streaming-Plattformen gibt, auch auf CD und Vinyl erhältlich.**
 
