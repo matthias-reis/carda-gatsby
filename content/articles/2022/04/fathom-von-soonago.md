@@ -54,7 +54,7 @@ Dieser  hat auch das Mastering für "Fathom" übernommen – seine Handschrift i
 
 Falls Ihr Euch fragen solltet, wer das wunderbare Artwork für die Platte zu verantworten hat: Es stammt vom schwedischen Künstler Staffan Larsson. Er hat auch schon die Alben von EF mit seinen Werken perfektioniert.
 
-SOONAGO besteht aus Simon Kohler (Bass), Christian Blaue (Drums), Lukas Külker (Gitarre) und Niklas Teich (Gitarre). "Fathom" und "Nephele" findet Ihr überall, wo es Musik gibt.
+SOONAGO sind: Simon Kohler (Bass), Christian Blaue (Drums), Lukas Külker (Gitarre) und Niklas Teich (Gitarre). "Fathom" und "Nephele" findet Ihr überall, wo es Musik gibt.
 
 ## SOONAGO - "Fathom"
 
