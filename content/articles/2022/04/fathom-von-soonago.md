@@ -56,6 +56,6 @@ Falls Ihr Euch fragen solltet, wer das wunderbare Artwork für die Platte zu ver
 
 SOONAGO besteht aus Simon Kohler (Bass), Christian Blaue (Drums), Lukas Külker (Gitarre) und Niklas Teich (Gitarre). "Fathom" und "Nephele" findet Ihr überall, wo es Musik gibt.
 
-## SOONAGO – "Fathom"
+## SOONAGO - "Fathom"
 
-VtgsdMDwPlc
+<YouTube id="VtgsdMDwPlc" />
