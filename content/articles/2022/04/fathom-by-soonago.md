@@ -30,7 +30,7 @@ focusKeyword: SOONAGO
 advertisement: false
 affiliate: false
 language: en
-languageLink: 2022/04/soonago-fathom/
+languageLink: /2022/04/soonago-fathom/
 ---
 **Today, I'd like to introduce you to a post-rock band from my former home town Bielefeld. SOONAGO got together in 2014. Recently they presented their new album "Fathom". It has been released on Kapitän Platte and is available on CD and vinyl in addition to the digital version, which you can find on all music streaming platforms.**
 
