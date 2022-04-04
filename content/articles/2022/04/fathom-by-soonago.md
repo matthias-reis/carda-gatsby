@@ -40,7 +40,7 @@ The first thing I noticed on my first spin of "Fathom" is SOONAGO's precision wh
 
 ![Soonago – "Fathom"](https://storage.googleapis.com/cardamonchai-media/2022-04-04/soonago-fathom-png-imagine-d8c8a8_968773_1080_1080/640.webp "Soonago – \"Fathom\"")
 
-With "Fathom", SOONAGO are processing the political events of the last few years. While the band was busy writing the songs, there were reports about the grievances around the globe every minute. You can definitely guess the musicians' feelings about this from the heaviness of some of the songs. Especially "Fathom", "Evac", and "Apophenia" seem to stand out here. Shortly before the album's release, SOONAGO shared this clear statement:
+With "Fathom", SOONAGO are processing the political events of the last few years. While the band was busy writing the songs, there was news popping up about the grievances around the globe every few minutes. You can definitely guess the musicians' feelings about this from the heaviness of some of the songs. Especially "Fathom", "Evac", and "Apophenia" seem to stand out here. Shortly before the album's release, SOONAGO shared this clear statement:
 
 > "We may be a band without vocals, but not without a voice against racism."
 
