@@ -3,8 +3,8 @@ date: 2022-04-04T13:46:57.322Z
 slug: soonago-fathom
 typeName: Review
 title: '"Fathom" von SOONAGO'
-subTitle: '"Fathom" von SOONAGO – Post-Rock gegen rechts'
-seoTitle: Post-Rock gegen rechts
+subTitle: Post-Rock gegen rechts
+seoTitle: '"Fathom" von SOONAGO – Post-Rock gegen rechts'
 description: Vor Kurzem haben SOONAGO ihr neues Album "Fathom" vorgestellt. Es
   ist auf Kapitän Platte erschienen und ist neben der digitalen Version, die es
   bei allen Musik-Streaming-Plattformen gibt, auch auf CD und Vinyl erhältlich.
