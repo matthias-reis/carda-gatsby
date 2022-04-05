@@ -43,7 +43,7 @@ Einer aktuellen Studie zufolge[^1] könnte Öl aus Mikroalgen tatsächlich ein u
 
 ## Mikroalgenöl ist nachhaltiger als Palmöl
 
-Hinzu kommt, dass Mikroalgen nachhaltig sind: Unter Wasser wachsen sie so gut wie überall, sie sind dazu in der Lage, sich innerhalb kürzester Zeit zu regenerieren und die Erst hat nur geringe Auswirkungen auf die Umwelt. Wir erinnern uns: Bei der [Palmöl-Gewinnung](/2015/05/palmoel/) werden ganz Wälder abgeholzt, bedrohte Arten vertrieben sowie die Lebensräume von Tieren wie [Orang-Utans](/2015/11/feuer-im-regenwald/), Zwergelefanten und Sumatra Nashörnern für immer zerstört.
+Hinzu kommt, dass Mikroalgen nachhaltig sind: Unter Wasser wachsen sie so gut wie überall, sie sind dazu in der Lage, sich innerhalb kürzester Zeit zu regenerieren und die Gewinnung hat nur geringe Auswirkungen auf die Umwelt. Wir erinnern uns: Bei der [Palmöl-Gewinnung](/2015/05/palmoel/) werden ganz Wälder abgeholzt, bedrohte Arten vertrieben sowie die Lebensräume von Tieren wie [Orang-Utans](/2015/11/feuer-im-regenwald/), Zwergelefanten und Sumatra Nashörnern für immer zerstört.
 
 William Chen DSc, Direktor des NTU-Programms für Lebensmittelwissenschaft und -technologie, äußerte sich wie folgt zu den neusten Forschungsergebnissen:
 
