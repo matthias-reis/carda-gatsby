@@ -31,7 +31,7 @@ language: de
 ---
 **Palmöl-Alternativen – wie lange ich in diese Richtung schon recherchiere, kann ich nicht sagen. Jetzt haben Forschende möglicherweise tatsächlich ein Öl entdeckt, das bald in großen Mengen verfügbar und ebenso vielseitig einsetzbar sein könnte – ohne, dass dabei Urwälder zerstört werden oder schlagartig alles teurer wird: Mikroalgenöl**
 
-Was zuerst ein bisschen wie ein Traum klingt, ist tatsächlich sehr gut denkbar und liegt vielleicht auch gar nicht in so weiter Ferne. Palmöl kommt heutzutage in den unterschiedlichsten Produkten vor – vom Waschmittel über das Shampoo bis zum Brotaufstrich. Alternativen ([z. B. auf Hefebasis](/2015/11/forscher-finden-palmoel-ersatz/)) werden zwar verstärkt erforscht, haben sich bislang aber noch nicht durchgesetzt.
+Was zuerst ein bisschen wie ein Traum klingt, ist tatsächlich sehr gut denkbar und liegt vielleicht auch gar nicht in so weiter Ferne. Palmöl kommt heutzutage in den unterschiedlichsten Produkten vor – vom Waschmittel über das Shampoo bis zum Brotaufstrich. Dabei ist es nicht nur ungesund – es könnte das Ende der Urwälder bedeuten, wenn nicht bald ein Ersatz gefunden wird. Alternativen ([z. B. auf Hefebasis](/2015/11/forscher-finden-palmoel-ersatz/)) werden zwar verstärkt erforscht, haben sich bislang aber noch nicht durchgesetzt. Falls es also klappt und Palmöl von Mikroalgenöl abgelöst wird, wäre das wirklich großartig.
 
 ## Palmöl-Alternativen müssen sich schnell durchsetzen
 
