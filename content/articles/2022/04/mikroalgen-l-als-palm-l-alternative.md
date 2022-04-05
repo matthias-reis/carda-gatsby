@@ -35,7 +35,7 @@ Was zuerst ein bisschen wie ein Traum klingt, ist tatsächlich sehr gut denkbar 
 
 ## Palmöl-Alternativen müssen sich schnell durchsetzen
 
-Die Zeit eilt: [Immer wieder brennt es im Regenwald](/2015/11/feuer-im-regenwald/), Tiere sterben und Ökosysteme stehen vor dem Kollaps oder stecken bereits mittendrin. Die Liste der Gründe, [warum wir auf Palmöl verzichten sollten](/2015/05/palmoel/), ist seitenlang. Allerdings zählt für die meisten Firmen nach wie vor: Was billig ist und funktioniert, wird verwendet. Darum wird es Zeit für eine echte Lösung, die nicht nur für unsere Gesundheit, sondern vor allem für die des Planeten unbedenklich ist.
+Die Zeit drängt: [Immer wieder brennt es im Regenwald](/2015/11/feuer-im-regenwald/), Tiere sterben und Ökosysteme stehen vor dem Kollaps oder stecken bereits mittendrin. Die Liste der Gründe, [warum wir auf Palmöl verzichten sollten](/2015/05/palmoel/), ist seitenlang. Allerdings zählt für die meisten Firmen nach wie vor: Was billig ist und funktioniert, wird verwendet. Darum wird es Zeit für eine echte Lösung, die nicht nur für unsere Gesundheit, sondern vor allem für die des Planeten unbedenklich ist.
 
 Einer aktuellen Studie zufolge[^1] könnte Öl aus Mikroalgen tatsächlich ein umweltverträglicher Ersatz sein – sogar längerfristig. Das beschrieben Forschende an der Nanyang Technological University (NTU) in Singapur in der Februar-Ausgabe des Journal of Applied Phycology. Sie hatten Öl aus Mikroalgen hergestellt und dabei im Vergleich mit Palmöl positive gesundheitliche Aspekte festgestellt.
 
