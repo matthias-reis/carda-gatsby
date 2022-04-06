@@ -81,7 +81,7 @@ Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Gesch
 
 **Anne:** Vor ein paar Jahren wart Ihr mit Nine Inch Nails auf Tour. Wie war es, Zeit mit Trent und Atticus zu verbringen? Seid Ihr befreundet?
 
-**Oliver:** Diese Tour war absolut fantastisch, aber wir haben nicht viel Zeit mit ihnen verbracht, wie wir gedacht hatten und ich war so überwältigt, dass wir uns nicht mehr gemeldet haben. Es war einfach so surreal, Leute kennenzulernen und als Freunde zu haben, von denen ich als Teenager ein riesiger Fan war.
+**Oliver:** Diese Tour war absolut fantastisch, aber wir haben nicht so viel Zeit mit ihnen verbracht, wie wir gedacht hatten. Ich war so überwältigt, dass wir uns einfach nicht mehr gemeldet haben. Es war so surreal, Leute kennenzulernen und als Freunde zu haben, von denen ich als Teenager ein riesiger Fan war.
 
 **Anne:** Genug über andere Bands. Mit Eurer Musik bleibt Ihr immer Eurem Stil treu und schafft es gleichzeitig, unterschiedliche Blickwinkel und Stimmungen herauszuarbeiten. Das führt zu einem sehr vielseitigen Erlebnis, wenn man sich die unterschiedlichen Platten aus Eurer Diskografie nacheinander anhört. Was ist Euer Geheimnis? Wie schafft Ihr es, als diese kreativen Ideen zu kanalisieren, fokussiert zu bleiben und ein so außergewöhnliches Gesamtkunstwerk zu erschaffen?
 
