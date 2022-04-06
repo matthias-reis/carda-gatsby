@@ -43,13 +43,13 @@ languageLink: /2022/04/a-place-to-bury-strangers-interview-en/
 
 Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Geschichte und ich bin sehr stolz, es Euch heute präsentieren zu können. A Place To Bury Strangers sind eines der vielseitigsten Projekte ihres Genres. Die 2003 in New York gegründete Band ist für ihre überaus intensiven Live-Shows und ihren emotionalen, bildgewaltigen Noise/Shoegaze Sound bekannt.
 
-**Anne:** Hi Oliver! Vielen Dank, dass Du Dir die Zeit für dieses Interview nimmst! Ich fühle mich geehrt, dass Du ab heute Teil meines Blogs bist! Wie geht es Dir heute? In den letzten Tagen habt Ihr ja über Social Media gute Stimmung verbreitet mit der Bekanntgabe Eurer Tourdaten. Es ist also endlich wieder so weit, oder? Freust Du Dich darüber?
+**Anne:** Hi Oliver! Vielen Dank, dass Du Dir die Zeit für dieses Interview nimmst! Ich fühle mich geehrt, dass Du ab heute Teil meines Blogs bist! Wie geht es Dir heute? In den letzten Wochen habt Ihr ja über Social Media gute Stimmung verbreitet mit Euren Tourbildern und Konzertdaten. Es ist also endlich wieder so weit! Freust Du Dich darüber?
 
 ## "Die Tour ist eine gute Sache"
 
 ![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-1-png-imagine-080808_22221a_1024_768/640.webp "A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography")
 
-**Oliver:** Hallo Anne! Danke für das Gespräch! Wir sind gerade über den Channel Tunnel nach England gefahren und werden heute Abend in London ankommen. Ich war ziemlich unsicher, was aus dieser Tour werden würde, weil sich nach wie vor weltweit alle Sorgen machen, wie es weitergeht und was als Nächstes passieren wird. Allerdings hat es sich auch so angefühlt, als hätten wir zumindest für einen Moment die Möglichkeit und als könnte es eine gute Sache werden – und bis jetzt ist es wirklich gut gelaufen. Ich bin der Meinung, wenn sich Dir die Möglichkeit bietet, Dich unterhalten zu lassen, dann ist es eine gute Sache.
+**Oliver:** Hallo Anne! Danke für das Gespräch! Wir sind gerade über den Channel Tunnel nach England gefahren und werden heute Abend in London ankommen. Ich war ziemlich unsicher, was aus dieser Tour werden würde, weil sich nach wie vor weltweit alle Sorgen machen, wie es weitergeht und was als Nächstes passieren wird. Allerdings hat es sich auch so angefühlt, als hätten wir zumindest für einen Moment die Möglichkeit die Realität zu vergessen – was ja auch gut sein kann – und bis jetzt ist es wirklich gut gelaufen. Ich bin der Meinung, wenn sich Dir die Möglichkeit bietet, Dich unterhalten zu lassen, dann ist es eine gute Sache.
 
 **Anne:** Wo können wir Euch sehen? Plant Ihr auch Auftritte auf Festivals? Werden zu den Konzerten, die Ihr auf Eurer Homepage angekündigt habt, noch weitere Shows dazukommen?
 
