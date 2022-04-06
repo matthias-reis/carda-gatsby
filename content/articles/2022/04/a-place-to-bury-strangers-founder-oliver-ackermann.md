@@ -3,7 +3,7 @@ date: 2022-04-06T15:03:28.942Z
 slug: a-place-to-bury-strangers-interview-en
 typeName: Interview
 title: A Place To Bury Strangers Founder Oliver Ackermann
-subTitle: '"Someday We Are All Going To Be Vegan"'
+subTitle: '"People Will Eventually All Go Vegan"'
 seoTitle: A Place To Bury Strangers – Interview – Shoegaze – Vegan
 description: I talked to Place To Bury Strangers founder Oliver Ackermann about
   the new album "See Through You", his vegan lifestyle, and he revealed how the
