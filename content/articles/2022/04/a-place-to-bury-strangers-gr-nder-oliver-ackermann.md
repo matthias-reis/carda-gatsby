@@ -65,7 +65,7 @@ Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Gesch
 
 **Anne:** Ich glaube, mein Lieblingsstück auf der Platte ist "I disappear". Ich liebe seine elektrische Atmosphäre und die greifbare Stimmung. Möchtest Du mir die Geschichte dahinter verraten?
 
-**Oliver:** Es ist der Klang des unter den Berührungen eines⋆r Geliebten Zerfließens und wie Selbstzweifel und Selbstbewusstsein in diesen Momenten einfach verschwinden. Der Klangteppich ist der Sound des Realitätsverlusts.
+**Oliver:** Es ist der Klang des Zerfließens – unter den Berührungen eines⋆r Geliebten. Befangenheit und Selbstzweifel verschwinden in diesen Momenten einfach. Der Klangteppich ist der Sound des Realitätsverlusts.
 
 **Anne:** Ihr habt den Ruf, die lauteste Band New Yorks zu sein – würdest Du sagen, dass immer Dein Ziel war, die Lautsprecher zum Bersten zu bringen und Menschen mit extrem lautem Sound zu schockieren?
 
