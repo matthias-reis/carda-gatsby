@@ -106,7 +106,7 @@ The conversation was an absolute highlight of my blog history so far. So I am ve
 
 ## "Inspiration is very important"
 
-**Oliver:** I think so but in a very non-direct way. I believe both direct and non-direct are very important. By inspiration, you can lead someone to believe in themselves and make rational decisions on their own to do good. It's sort of the building blocks of learning. When using a direct method, you tell them what to do and what not to, and this can sometimes not have people really invested in the feelings because it wasn't self conceptualised. So show a better world to live in and perhaps we will go there.
+**Oliver:** I think so but in a very non-direct way. I believe both – direct and non-direct – are very important. By inspiration, you can lead someone to believe in themselves and make rational decisions on their own to do good. It's sort of the building blocks of learning. When using a direct method, you tell them what to do and what not to, and this can sometimes not have people really invested in the feelings because it wasn't self conceptualised. So show a better world to live in and perhaps we will go there.
 
 **Anne:** Why do so many people keep saying that they love animals, but one hour later, they get back to eating them without spending a single thought about what's on their table – while they are calling people militant for not wanting to kill other beings?
 
