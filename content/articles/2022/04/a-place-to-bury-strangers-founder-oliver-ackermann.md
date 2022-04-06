@@ -120,6 +120,10 @@ The conversation was an absolute highlight of my blog history so far. So I am ve
 
 **Oliver:** Thank you, Anne! It was a pleasure!
 
+## A Place To Bury Strangers – "I disappear"
+
+<YouTube id="NxDYq1WYNh4" />
+
 Pictures: Nick Sayers, [Deathwish Photography](https://deathwishinc.com/collections/nick-sayers-photography), A Place To Bury Strangers, London, April 2nd 2022
 
 [^1]: [A Place To Bury Strangers website](https://www.aplacetoburystrangers.com/tour-dates)
