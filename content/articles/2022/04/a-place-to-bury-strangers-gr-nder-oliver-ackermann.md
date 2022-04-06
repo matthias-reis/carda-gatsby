@@ -51,7 +51,7 @@ Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Gesch
 
 **Oliver:** Hallo Anne! Danke für das Gespräch! Wir sind gerade über den Channel Tunnel nach England gefahren und werden heute Abend in London ankommen. Ich war ziemlich unsicher, was aus dieser Tour werden würde, weil sich nach wie vor weltweit alle Sorgen machen, wie es weitergeht und was als Nächstes passieren wird. Allerdings hat es sich auch so angefühlt, als hätten wir zumindest für einen Moment die Möglichkeit die Realität zu vergessen – was ja auch gut sein kann – und bis jetzt ist es wirklich gut gelaufen. Ich bin der Meinung, wenn sich Dir die Möglichkeit bietet, Dich unterhalten zu lassen, dann ist es eine gute Sache.
 
-**Anne:** Wo können wir Euch sehen? Plant Ihr auch Auftritte auf Festivals? Werden zu den Konzerten, die Ihr auf Eurer Homepage angekündigt habt, noch weitere Shows dazukommen?
+**Anne:** Wo können wir Euch sehen? Werden zu den Konzerten, die Ihr auf Eurer Homepage angekündigt habt, noch weitere Shows dazukommen?
 
 **Oliver:** Die Gigs, die Du auf unserer [Webseite](https://www.aplacetoburystrangers.com/tour-dates) gefunden hast, werden alle stattfinden. Es werden auch noch weitere Daten dazukommen. Ich glaube, im Moment ist es am besten, abzuwarten und es auf sich zukommen zu lassen.
 
