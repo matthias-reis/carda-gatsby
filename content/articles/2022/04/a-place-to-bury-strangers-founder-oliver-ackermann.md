@@ -50,7 +50,7 @@ The conversation was an absolute highlight of my blog history so far. So I am ve
 
 **Oliver:** We have all of those dates from our website[^1], and then there are other dates that will be announced, but I guess we will all have to wait and see.
 
-**Anne:** You just released your new album, "See Through You". Congrats, it's really amazing! What inspired you to write it?
+**Anne:** You just released your new album, "See Through You". Congrats! It's marvellous! What inspired you to write it?
 
 ## "The album tells the story of a journey"
 
