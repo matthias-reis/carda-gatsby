@@ -47,7 +47,7 @@ Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Gesch
 
 ## "Die Tour ist eine gute Sache"
 
-![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-4-jpg-imagine-080808_000000_1024_768/640.webp "A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography")
+![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-1-png-imagine-080808_22221a_1024_768/640.webp "A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography")
 
 **Oliver:** Hallo Anne! Danke für das Gespräch! Wir sind gerade über den Channel Tunnel nach England gefahren und werden heute Abend in London ankommen. Ich war ziemlich unsicher, was aus dieser Tour werden würde, weil sich nach wie vor weltweit alle Sorgen machen, wie es weitergeht und was als Nächstes passieren wird. Allerdings hat es sich auch so angefühlt, als hätten wir zumindest für einen Moment die Möglichkeit und als könnte es eine gute Sache werden – und bis jetzt ist es wirklich gut gelaufen. Ich bin der Meinung, wenn sich Dir die Möglichkeit bietet, Dich unterhalten zu lassen, dann ist es eine gute Sache.
 
