@@ -12,7 +12,7 @@ excerpt: A Place To Bury Strangers founder Oliver Ackermann agreed to an
   interview. We talked about the new album "See Through You". I also asked him
   some questions about his vegan lifestyle, and he revealed how the current tour
   is going and what's next on the APTBS schedule.
-image: https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-1-png-imagine-080808_22221a_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-4-jpg-imagine-080808_000000_1024_768/640.webp
 copyrigt: Nick Sayers, Deathwish Photography
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-fb-png-imagine-080808_2d2d29_1200_628/640.webp
 labels:
