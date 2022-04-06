@@ -38,7 +38,7 @@ languageLink: /2022/04/a-place-to-bury-strangers-interview/
 
 The conversation was an absolute highlight of my blog history so far. So I am very proud to present it to you today. A Place To Bury Strangers is one of the most versatile projects in their genre. Founded in New York in 2003, the band is known for its extremely intense live shows and emotion-driven and powerful noise/shoegaze sound.
 
-**Anne:** Hi Oliver! Thanks so much for taking the time for this interview! I feel honoured to have you on my blog! How are you doing today? You are definitely sharing some good vibes these days on social media by talking about tour dates! So it's finally time, is it? How do you feel about it?
+**Anne:** Hi Oliver! Thanks so much for taking the time for this interview! I feel honoured to have you on my blog! How are you doing today? You are definitely sharing some good vibes these days on social media by sharing brand new pictures from your ongoing tour! So it's finally time, is it? How do you feel about it?
 
 ## "There are more tour dates coming up"
 
