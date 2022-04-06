@@ -42,7 +42,7 @@ The conversation was an absolute highlight of my blog history so far. So I am ve
 
 ## "There are more tour dates coming up"
 
-![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-4-jpg-imagine-080808_000000_1024_768/640.webp "A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography")
+![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-1-png-imagine-080808_22221a_1024_768/640.webp "A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography")
 
 **Oliver:** Hello Anne! Thank you for the chat! I am good today. We just crossed over to England from the Chunnel and are headed to London tonight. I was pretty unsure of how this tour was going to go as there is much worry all over the world now about what is going on and what will happen. Still, it seemed like if we had even the chance to go and forget about reality for a moment, it could be a good thing, and it has really been great. So I think if you are able to be entertained and have the option, it is a good thing. 
 
