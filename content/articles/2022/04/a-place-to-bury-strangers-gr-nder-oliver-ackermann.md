@@ -13,8 +13,8 @@ excerpt: A Place To Bury Strangers Gründer Oliver Ackermann hat sich zu einem
   Through You" unterhalten. Außerdem habe ich ihm einige Fragen zu seiner
   veganen Lebensweise gestellt und er hat mir verraten, wie die aktuelle Tour
   läuft und was APTBS als Nächstes geplant haben.
-image: https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-1-png-imagine-080808_22221a_1024_768/640.webp
-copyrigt: Nick Sayers, Deathwith Photography
+image: https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-4-jpg-imagine-080808_000000_1024_768/640.webp
+copyrigt: Nick Sayers, Deathwish Photography
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-fb-png-imagine-080808_2d2d29_1200_628/640.webp
 labels:
   - A Place To Bury Strangers
