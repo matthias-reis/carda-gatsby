@@ -63,7 +63,7 @@ Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Gesch
 
 **Oliver:** Vielen Dank. Ich war in einer komischen Stimmung, als wir die Platte gemacht haben und eine Menge davon steckt darin. Ich hatte das Gefühl, von den früheren Bandmitgliedern betrogen und im Stich gelassen worden zu sein. Das Schreiben für diese Platte hat mir wirklich geholfen, was sich da in meinem Kopf abgespielt hat, zu überwinden. Es ist zermürbend, wenn Du Dich von Deinen Freund⋆innen im Stich gelassen fühlst. Es hat mich an frühere Zeiten der Enttäuschung erinnert, aber es war auch wirklich cool, wie viele andere Freunde mir die Hand gereicht und mir während des Prozesses geholfen haben. Ich fühle mich jetzt so viel besser, und das Album fasst diese Reise so zusammen, wie sie sich während der Aufnahmen in Echtzeit abgespielt hat.
 
-**Anne:** Ich glaube, mein Lieblingsstück auf der Platte ist "I disappear". Ich liebe seine elektrische und die greifbare Atmosphäre. Möchtest Du mir die Geschichte dahinter verraten?
+**Anne:** Ich glaube, mein Lieblingsstück auf der Platte ist "I disappear". Ich liebe seine elektrische Atmosphäre und die greifbare Stimmung. Möchtest Du mir die Geschichte dahinter verraten?
 
 **Oliver:** Es ist der Klang des unter den Berührungen eines⋆r Geliebten Zerfließens und wie Selbstzweifel und Selbstbewusstsein in diesen Momenten einfach verschwinden. Der Klangteppich ist der Sound des Realitätsverlusts.
 
