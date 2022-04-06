@@ -58,7 +58,7 @@ The conversation was an absolute highlight of my blog history so far. So I am ve
 
 **Oliver:** Thank you so much. I was in a crazy place writing this record and put a lot into it. I was working through feeling pretty betrayed and let down by the previous band members, and writing this record really helped me through the insanity that was going on in my head. It's a tough place to be when you feel turned on by your friends. It brought up times in the past of disappointment but also was really cool in how a lot of other friends reached out and helped me out through the process. I feel so much better for it all, and the record sort of encapsulates that journey as it was happening in real-time while it was recorded.
 
-**Anne:** I think my favourite song on the record is "I disappear". I love its electric mood and the noisy atmosphere. I would love to know the story behind it!
+**Anne:** I think my favourite song on the record is "I Disappear". I love its electric mood and the noisy atmosphere. I would love to know the story behind it!
 
 **Oliver:** It is the sound of melting away under a lover's touch and how self-doubt and self-consciousness just slip away in those moments. The blanket of sound is the sound of being lost from reality. 
 
@@ -120,7 +120,7 @@ The conversation was an absolute highlight of my blog history so far. So I am ve
 
 **Oliver:** Thank you, Anne! It was a pleasure!
 
-## A Place To Bury Strangers – "I disappear"
+## A Place To Bury Strangers – "I Disappear"
 
 <YouTube id="NxDYq1WYNh4" />
 
