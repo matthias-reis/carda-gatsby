@@ -130,6 +130,10 @@ Belinda und Justin von Crippled Black Phoenix](https://cardamonchai.com/2020/12/
 
 **Oliver:** Danke, Anne! Die Freude ist ganz meinerseits.
 
+## A Place To Bury Strangers – "I disappear"
+
+<YouTube id="NxDYq1WYNh4" />
+
 Bilder/Pictures: Nick Sayers, [Deathwish Photography](https://deathwishinc.com/collections/nick-sayers-photography), A Place To Bury Strangers, London, 2. April 2022
 
 [^1]: [A Place To Bury Strangers Webseite](https://www.aplacetoburystrangers.com/tour-dates)
