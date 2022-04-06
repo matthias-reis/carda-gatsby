@@ -53,7 +53,7 @@ Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Gesch
 
 **Anne:** Wo können wir Euch sehen? Werden zu den Konzerten, die Ihr auf Eurer Homepage angekündigt habt, noch weitere Shows dazukommen?
 
-**Oliver:** Die Gigs, die Du auf unserer [Webseite](https://www.aplacetoburystrangers.com/tour-dates) gefunden hast, werden alle stattfinden. Es werden auch noch weitere Daten dazukommen. Ich glaube, im Moment ist es am besten, abzuwarten und es auf sich zukommen zu lassen.
+**Oliver:** Die Gigs, die Du auf unserer Webseite[^1] gefunden hast, werden alle stattfinden. Es werden auch noch weitere Daten dazukommen. Ich glaube, im Moment ist es am besten, abzuwarten und es auf sich zukommen zu lassen.
 
 **Anne:** Ihr habt gerade Euer neues Album "See Through You" veröffentlicht. Gratulation dazu, es ist großartig! Was hat Euch beim Schreiben inspiriert?
 
@@ -131,3 +131,5 @@ Belinda und Justin von Crippled Black Phoenix](https://cardamonchai.com/2020/12/
 **Oliver:** Danke, Anne! Die Freude ist ganz meinerseits.
 
 Bilder/Pictures: Nick Sayers, [Deathwish Photography](https://deathwishinc.com/collections/nick-sayers-photography), A Place To Bury Strangers, London, 2. April 2022
+
+[^1]: [A Place To Bury Strangers Webseite](https://www.aplacetoburystrangers.com/tour-dates)
