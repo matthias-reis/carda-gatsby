@@ -67,7 +67,7 @@ Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Gesch
 
 **Oliver:** Es ist der Klang des Zerfließens – unter den Berührungen eines⋆r Geliebten. Befangenheit und Selbstzweifel verschwinden in diesen Momenten einfach. Der Klangteppich ist der Sound des Realitätsverlusts.
 
-**Anne:** Ihr habt den Ruf, die lauteste Band New Yorks zu sein – würdest Du sagen, dass immer Dein Ziel war, die Lautsprecher zum Bersten zu bringen und Menschen mit extrem lautem Sound zu schockieren?
+**Anne:** Ihr habt den Ruf, die lauteste Band New Yorks zu sein – würdest Du sagen, dass es immer zu Deinen Zielen gehört hat, die Lautsprecher zum Bersten zu bringen und Menschen mit extrem lautem Sound zu schockieren?
 
 ## "Wir wollen nicht in etwas Leichteres zurückfallen"
 
