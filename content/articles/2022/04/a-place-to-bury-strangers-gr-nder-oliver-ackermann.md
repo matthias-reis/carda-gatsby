@@ -35,10 +35,6 @@ affiliate: false
 language: de
 languageLink: /2022/04/a-place-to-bury-strangers-interview-en/
 ---
-# A Place To Bury Strangers Gründer Oliver Ackermann
-
-## "Irgendwann werden wir alle vegan leben"
-
 **A Place To Bury Strangers Gründer Oliver Ackermann hat sich zu einem Interview bereiterklärt. Wir haben uns ausführlich über das neue Album "See Through You" unterhalten. Außerdem habe ich ihm einige Fragen zu seiner veganen Lebensweise gestellt und er hat mir verraten, wie die aktuelle Tour läuft und was APTBS als Nächstes geplant haben.**
 
 Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Geschichte und ich bin sehr stolz, es Euch heute präsentieren zu können. A Place To Bury Strangers sind eines der vielseitigsten Projekte ihres Genres. Die 2003 in New York gegründete Band ist für ihre überaus intensiven Live-Shows und ihren emotionalen, bildgewaltigen Noise/Shoegaze Sound bekannt.
