@@ -46,7 +46,7 @@ The conversation was an absolute highlight of my blog history so far. So I am ve
 
 **Oliver:** Hello Anne! Thank you for the chat! I am good today. We just crossed over to England from the Chunnel and are headed to London tonight. I was pretty unsure of how this tour was going to go as there is much worry all over the world now about what is going on and what will happen. Still, it seemed like if we had even the chance to go and forget about reality for a moment, it could be a good thing, and it has really been great. So I think if you are able to be entertained and have the option, it is a good thing. 
 
-**Anne:** Where can we meet you? Are you also planning some festival gigs? Besides the dates you shared on your website, are more concerts coming up?
+**Anne:** Where can we meet you? Besides the dates you shared on your website, are more concerts coming up?
 
 **Oliver:** We have all of those dates from our [website](https://www.aplacetoburystrangers.com/tour-dates), and then there are other dates that will be announced, but I guess we will all have to wait and see.
 
