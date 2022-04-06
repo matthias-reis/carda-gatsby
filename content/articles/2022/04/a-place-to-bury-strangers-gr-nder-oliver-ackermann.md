@@ -109,7 +109,7 @@ Ich hatte jahrelang mit meinen eigenen Techniken aufgenommen und dachte, dass mi
 
 ![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-6-jpg-imagine-080818_4a3444_1024_768/640.webp "A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography")
 
-**Oliver:** Musik hat so viel mit Gefühlen und Emotionen und Schmerzen zu tun. Da ist die Verbindung zu Tieren nicht weit. Wir wollen keine Schmerzen haben und wollen nicht, dass uns jemand welche zufügt. Mit der Musik haben wir dieses Ventil. Dabei treten oft einen Schritt zurück, analysieren die Situation und sehen, wie verkorkst sie ist.
+**Oliver:** Musik hat so viel mit Gefühlen, Emotionen und Schmerzen zu tun. Da ist die Verbindung zu Tieren nicht weit. Wir wollen keine Schmerzen haben und wollen nicht, dass uns jemand welche zufügt. Mit der Musik haben wir dieses Ventil. Dabei treten oft einen Schritt zurück, analysieren die Situation und sehen, wie verkorkst sie ist.
 
 **Anne:** Würdest Du sagen, dass Musik für Dich eine Form von Aktivismus ist? Falls nicht: Kannst Du es Dir vorstellen, sie dazu zu nutzen? Ich habe dieses sehr persönliche [Interview mit
 Belinda und Justin von Crippled Black Phoenix](https://cardamonchai.com/2020/12/crippled-black-phoenix-interview/) gemacht. Sie haben mir erzählt, dass sie gerne mehr tun würden, dass es aber auch immer eine Sache der perfekten Dosis ist?
