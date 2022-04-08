@@ -97,13 +97,13 @@ The three describe the record as a 6-song cycle of negative behaviours. I can im
 
 ![Advocaat – "Dark Patterns" | large](https://storage.googleapis.com/cardamonchai-media/2022-04-08/advocaat-jpg-imagine-080808_6e513f_768_1024/640.webp "Advocaat – \"Dark Patterns\"")
 
-## Dälek feat. Adam Jones (Tool) - "A Heretic's Inheritance"
+## Dälek feat. Adam Jones (Tool) - "A Heretic's Inheritance" (Album: "Precipice")
 
-My brother recommended this record to me. I think it's excellent, and I have to admit that I haven't really looked into this project yet. I should probably catch up on it. The industrial rap duo Dälek (Mike Manteca and Joshua Booth aka MC Dälek) signed with Mike Patton's label Ipecac. They recorded their latest album with none other than Tool guitarist and visual arts genius Adam Jones. You can hear him in the new single "A Heretic's Inheritance". Since Dälek opened the stage for his band on tour in 2010, they have stayed in touch. Here is what Adam told the press:
+My brother recommended this track to me. I think it's excellent, and I have to admit that I haven't really looked into this project yet. I should probably catch up on it. The industrial rap duo Dälek (Mike Manteca and Joshua Booth aka MC Dälek) signed with Mike Patton's label Ipecac. They recorded "A Heretic's Inheritance" with none other than Tool guitarist and visual arts genius Adam Jones. You can hear him in the new single "A Heretic's Inheritance". Since Dälek opened the stage for his band on tour in 2010, they have stayed in touch. Here is what Adam told the press:
 
 > "Working together was something we'd thrown around in the past, so when Will came to me with 'A Heretic's Inheritance', I instantly said yes and began sharing ideas with him within a couple of days."
 
-It seems worth the work because the result is really worth listening to. The complete album is announced for April 29th.
+It seems worth the work because the result is really worth listening to. The complete album "Precipice" is announced for April 29th.
 
 <YouTube id="ZU8VC974H5M" />
 
