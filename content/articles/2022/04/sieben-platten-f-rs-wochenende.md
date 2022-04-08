@@ -59,7 +59,7 @@ Im Moment ist es mir kaum noch möglich, alle Mitteilungen über neue Releases z
 
 Falls Ihr mit "Black Snow Desert" schon vertraut seid, wird Euch "Blood & Spirit" vermutlich umhauen. Auch die erste Platte war schon ein Meisterwerk, mit der neuen setzen Nonsun noch eins oben drauf. 
 
-Blood & Spirit folgt keinem klar verfolgbaren Konzept – das Album ist viel mehr eine Sammlung eigenständiger Songs, von denen jede ihre eigene Geschichte erzählt. Ihrem bisher gepflegten Post-Metal haben Nonsun einen atemberaubenden Doom-Anstrich verliehen, der die Platte zu einer ganz besonderen macht. Ich weiß es nicht, aber vielleicht habt Ihr hier das Album des Monats vor Euch liegen. Ich wünsche Euch auf alle Fälle viel Freude beim Hören. Ich teile mit Euch an dieser Stelle das zweite Stück auf "Blood & Spirit", das von der Band zur Vorauskopplung auserkoren wurde.
+Blood & Spirit folgt keinem klar verfolgbaren Konzept – das Album ist viel mehr eine Sammlung eigenständiger Songs, von denen jeder seine eigene Geschichte erzählt. Ihrem bisher gepflegten Post-Metal haben Nonsun einen atemberaubenden Doom-Anstrich verliehen, der die Platte zu einer ganz besonderen macht. Ich weiß es nicht, aber vielleicht habt Ihr hier das Album des Monats vor Euch liegen. Ich wünsche Euch auf alle Fälle viel Freude beim Hören. Ich teile mit Euch an dieser Stelle das zweite Stück auf "Blood & Spirit", das von der Band zur Vorauskopplung auserkoren wurde.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2158986163/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2212251713/transparent=true/" seamless><a href="https://nonsun.bandcamp.com/album/blood-spirit">Blood &amp; Spirit by Nonsun</a></iframe>
 
