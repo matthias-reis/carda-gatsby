@@ -59,7 +59,7 @@ If you're already familiar with "Black Snow Desert", "Blood & Spirit" will proba
 
 Blood & Spirit doesn't follow a clear concept – the album is more like a collection of independent songs: Every track tells its own story. In addition, Nonsun added a breathtaking doomy touch to their previously cultivated post-metal style – This is precisely how an extraordinary record is made. I don't know for sure, but maybe this is going to be your album of the month. In any case, I hope you enjoy listening to it. The band chose "Blood & Spirit" to be the pre-release of the record. I think it's a good choice.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2158986163/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2212251713/transparent=true/" seamless><a href="https://nonsun.bandcamp.com/album/blood-spirit">Blood &amp; Spirit by Nonsun</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2158986163/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2212251713/transparent=true/" seamless><a href="https://nonsun.bandcamp.com/album/blood-spirit">Blood &amp; Spirit by Nonsun</a></iframe>
 
 ![Nonsun – "That Wich Does Not Kill" | large](https://storage.googleapis.com/cardamonchai-media/2022-04-08/nonsun-that-bitch-doesnt-kill-jpg-imagine-080808_48413b_1024_768/640.webp "Nonsun – \"That Wich Does Not Kill\"")
 
