@@ -8,11 +8,11 @@ seoTitle: Nyos, Dälek, Nonsun, Druids, Advocaat, Egor Lappo und Drum & Lace
 description: Die Platten fürs Wochenende kommen von Nyos, Dälek, Nonsun, Druids,
   Advocaat, Egor Lappo und Drum & Lace. Ich habe mich quer durch die Genres
   gehört und diese Perlen aus Post-Rock, Ambient,  & Co. selektiert.
-excerpt: Damit Ihr ein schönes Wochenende habt und ein kleines bisschen auch aus
-  Eigennutzen habe ich ein paar Platten für Euch selektiert, denen Ihr Beachtung
-  schenken solltet. Ich habe mich quer durch die Genres gehört und diese Perlen
-  von Nyos, Dälek, Nonsun, Druids, Advocaat, Egor Lappo und Drum & Lace
-  ausgewählt.
+excerpt: Damit Ihr ein schönes Wochenende habt (und ein kleines bisschen auch
+  aus Eigennutzen) habe ich ein paar Platten für Euch selektiert, denen Ihr
+  Beachtung schenken solltet. Ich habe mich quer durch die Genres gehört und
+  diese Perlen von Nyos, Dälek, Nonsun, Druids, Advocaat, Egor Lappo und Drum &
+  Lace ausgewählt.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-08/drum-lace-jpg-imagine-181818_454444_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-08/drum-lace-fb-png-imagine-181818_44413a_1200_628/640.webp
@@ -49,7 +49,7 @@ affiliate: false
 language: de
 languageLink: /2022/04/nyos-dealek-nonsun-druids-advocaat-egor-lappo-drum-lace-en/
 ---
-**Damit Ihr ein schönes Wochenende habt und ein kleines bisschen auch aus Eigennutzen habe ich ein paar Platten für Euch selektiert, denen Ihr Beachtung schenken solltet. Ich habe mich quer durch die Genres gehört und diese Perlen von Nyos, Dälek, Nonsun, Druids, Advocaat, Egor Lappo und Drum & Lace ausgewählt.**
+**Damit Ihr ein schönes Wochenende habt (und ein kleines bisschen auch aus Eigennutzen) habe ich ein paar Platten für Euch selektiert, denen Ihr Beachtung schenken solltet. Ich habe mich quer durch die Genres gehört und diese Perlen von Nyos, Dälek, Nonsun, Druids, Advocaat, Egor Lappo und Drum & Lace ausgewählt.**
 
 Im Moment ist es mir kaum noch möglich, alle Mitteilungen über neue Releases zu sichten, heute musste ich mir einfach mal einen Überblick verschaffen und zumindest ein paar Nachrichten beantworten. Dabei sind mir sieben ganz besondere Neuheiten aufgefallen. Einige der Künstler⋆innen sind Euch hier im Blog auch durchaus schon mal begegnet.
 
