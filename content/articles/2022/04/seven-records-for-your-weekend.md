@@ -109,7 +109,7 @@ It seems worth the work because the result is really worth listening to. The com
 
 ![Dälek – "A Heretic’s Inheritance" | large](https://storage.googleapis.com/cardamonchai-media/2022-04-08/daelek-a-heretics-inheritance-jpg-imagine-080808_8a5637_1024_768/640.webp "Dälek – \"A Heretic’s Inheritance\"")
 
-## Egor Lappo (feat. Francisco Meza) - "Dawn Tracer" from the album "Naturealism".
+## Egor Lappo feat. Francisco Meza (Album: "Naturealism")
 
 I introduced Egor Lappo to you [last year](/2021/02/egor-lappo-trancevoicer-en/). Today he released his new album "Naturealism". The current situation is tough for him, which you can also hear in his music. The record is about phobias, fear and loss of control. I had the chance to ask him some questions about the ten songs and the stories behind them. The track "Invisible Walls" is about the fear of losing control over what happens. With "Unreal", the musician expresses the feeling of derealisation. "Crepuscular" is about how he enjoys quiet walks late at night in places where he can be all by himself. The song is meant to be an escape from reality and bad thoughts. With "Dawn Tracer", he expresses the fear that something terrible might happen soon, making the present unenjoyable as one spends time waiting for the inevitable. I want to share the track "Dawn Tracer" with you, on which Egor has brought in support from Francisco Meza. The whole record is absolutely worth listening to. So 
 give it a try. 
