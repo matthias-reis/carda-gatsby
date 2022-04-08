@@ -51,13 +51,13 @@ languageLink: /2022/04/nyos-dealek-nonsun-druids-advocaat-egor-lappo-drum-lace/
 
 At the moment, it's hardly possible for me to see through all the messages about new releases, so today, I just sat down to get an overview and answer at least a few emails. Seven exceptional new releases caught my eye (or should I say ear?).
 
-## Nonsun - "Blood & Spirit" (Album: "That Witch Does Not Kill")
+## Nonsun - "That Wich Does Not Kill" (Album: "Blood & Spirit")
 
 "Blood & Spirit" by doom/post-metal collective Nonsun from Lviv, Ukraine, will be released on April 15th on DUNK!records. The label will be donating 100 per cent of the profits for the album to the band from March 29th until the release day, and all earnings for their 2018 released record "Black Snow Desert" – So go and buy Nonsun's music!
 
 If you're already familiar with "Black Snow Desert", "Blood & Spirit" will probably blow your mind. You are right: The first record was already a masterpiece, but the new one is quite a development!  
 
-Blood & Spirit doesn't follow a clear concept – the album is more like a collection of independent songs: Every track tells its own story. In addition, Nonsun added a breathtaking doomy touch to their previously cultivated post-metal style – This is precisely how an extraordinary record is made. I don't know for sure, but maybe this is going to be your album of the month. In any case, I hope you enjoy listening to it. The band chose "Blood & Spirit" to be the pre-release of the record. I think it's a good choice.
+Blood & Spirit doesn't follow a clear concept – the album is more like a collection of independent songs: Every track tells its own story. In addition, Nonsun added a breathtaking doomy touch to their previously cultivated post-metal style – This is precisely how an extraordinary record is made. I don't know for sure, but maybe this is going to be your album of the month. In any case, I hope you enjoy listening to it. The band chose "That Wich Does Not Kill" to be the pre-release of the record. I think it's a good choice.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2158986163/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2212251713/transparent=true/" seamless><a href="https://nonsun.bandcamp.com/album/blood-spirit">Blood &amp; Spirit by Nonsun</a></iframe>
 
