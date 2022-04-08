@@ -105,7 +105,7 @@ Diese Platte wurde mir von meinem Bruder empfohlen. Ich finde sie ganz großarti
 
 Es scheint sich gelohnt zu haben, dann das Ergebnis kann sich wirklich hören lassen. Das komplette Album ist für den 29. April angekündigt.
 
-<YouTube id="ZU8VC974H5M&t=33s" />
+<YouTube id="ZU8VC974H5M" />
 
 ![Dälek – "A Heretic’s Inheritance" | large](https://storage.googleapis.com/cardamonchai-media/2022-04-08/daelek-a-heretics-inheritance-jpg-imagine-080808_8a5637_1024_768/640.webp "Dälek – \"A Heretic’s Inheritance\"")
 
