@@ -118,9 +118,9 @@ give it a try.
 
 ![Egor Lappo – "Naturealism" | large](https://storage.googleapis.com/cardamonchai-media/2022-04-08/egor-lappo-naturealism-jpg-imagine-080808_747982_1024_768/640.webp "Egor Lappo – \"Naturealism\"")
 
-## Drum & Lace - "Armanatura" (Album: "Natura")
+## Drum & Lace - "Armatura" (Album: "Natura")
 
-Another brand new release from today is this beautiful piece of ambient. Kévin Sery from Past Inside the Present shared it with me the other day. Drum & Lace aka Sofia degli Alessandri-Hultquist is an Italian composer, sound artist and performer. She writes and creates music for film and media. With "Natura", she delivers her debut on Past Inside the Present. It is also her first full-length album. For Sofia, the record is a homage to intelligent electronica sound. And one thing is for sure: Lovers of good ambient music will love these ten outstanding pieces. So I decided to share the second track on the record with you. "Armanatura" was the last pre-release before today's big release. It seems like the perfect start to dive into Drum & Laces' music.
+Another brand new release from today is this beautiful piece of ambient. Kévin Sery from Past Inside the Present shared it with me the other day. Drum & Lace aka Sofia degli Alessandri-Hultquist is an Italian composer, sound artist and performer. She writes and creates music for film and media. With "Natura", she delivers her debut on Past Inside the Present. It is also her first full-length album. For Sofia, the record is a homage to intelligent electronica sound. And one thing is for sure: Lovers of good ambient music will love these ten outstanding pieces. So I decided to share the second track on the record with you. "Armatura" was the last pre-release before today's big release. It seems like the perfect start to dive into Drum & Laces' music.
 
 <YouTube id="g9BaQznFOrg" />
 
