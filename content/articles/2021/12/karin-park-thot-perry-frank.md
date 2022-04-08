@@ -1,7 +1,7 @@
 ---
 date: 2021-12-03T09:56:00.204Z
 slug: karin-park-thot-perry-frank
-typeName: Beitrag
+typeName: Review
 title: Karin Park, Thot & Perry Frank
 subTitle: Drei Platten fürs Wochenende
 seoTitle: Post-Music Tipps von Karin Park, Thot & Perry Frank
