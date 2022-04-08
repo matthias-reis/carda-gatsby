@@ -43,6 +43,7 @@ labels:
   - Releases
   - Playlist
   - Musikliste
+  - Big Eleanor Records
 focusKeyword: Drum & Lace
 advertisement: false
 affiliate: false
