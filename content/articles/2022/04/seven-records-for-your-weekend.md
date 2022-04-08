@@ -40,7 +40,7 @@ labels:
   - Release
   - Releases
   - Playlist
-  - Musikliste
+  - Big Eleanor Records
 focusKeyword: Drum & Lace
 advertisement: false
 affiliate: false
@@ -87,7 +87,7 @@ You better give it a listen!
 
 ![Druids – "Shadow Work" | large](https://storage.googleapis.com/cardamonchai-media/2022-04-08/druids-shadow-work-jpg-imagine-f8f8f8_000000_1024_768/640.webp "Druids – \"Shadow Work\"")
 
-## Big Eleanor Records Advocaat - "Dark Patterns"
+## Advocaat - "Dark Patterns"
 
 Advocaat is your new favourite indie punk duo from Southeastern Pennsylvania – consisting of Kyle Patrick Caffrey and Danny Nono. They recorded their latest project, "Dark Patterns", at Kaleidoscope, Lancaster. 
 
