@@ -98,13 +98,13 @@ Advocaat ist ein Indie Punk Duo aus Südost Pennsylvania, bestehend aus Kyle Pat
 
 ![Advocaat – "Dark Patterns" | large](https://storage.googleapis.com/cardamonchai-media/2022-04-08/advocaat-jpg-imagine-080808_6e513f_768_1024/640.webp "Advocaat – \"Dark Patterns\"")
 
-## Dälek feat. Adam Jones (Tool) – "A Heretic’s Inheritance"
+## Dälek feat. Adam Jones (Tool) – "A Heretic’s Inheritance" (Vorauskopplung vom Album "Precipice")
 
-Diese Platte wurde mir von meinem Bruder empfohlen. Ich finde sie ganz großartig und muss zugeben, dass ich mich mit diesem Projekt bislang noch gar nicht so richtig beschäftigt hatte. Das sollte ich wohl dringend nachholen. Das Industrial Rap Duo Dälek (Mike Manteca und Joshua Booth aka MC Dälek) ist bei Mike Pattons Label Ipecac unter Vertrag. Ihr aktuelles Album haben sie mit keinem Geringeren als Tool Gitarrist und Visual Arts Genie Adam Jones aufgenommen. Er ist auf der neuen Single "A Heretic's Inheritance" zu hören. Nachdem Dälek für seine Band auf der Tour im Jahr 2010 die Konzerte eröffnet haben, ist man in Kontakt geblieben. Adam berichtete:
+Dieses Stück wurde mir von meinem Bruder empfohlen. Ich finde es ganz großartig und muss zugeben, dass ich mich mit diesem Projekt bislang noch gar nicht so richtig beschäftigt hatte. Das sollte ich wohl dringend nachholen. Das Industrial Rap Duo Dälek (Mike Manteca und Joshua Booth aka MC Dälek) ist bei Mike Pattons Label Ipecac unter Vertrag. Für Ihr aktuelles Album haben sie mit keinem Geringeren als Tool Gitarrist und Visual Arts Genie Adam Jones an Bord geholt. Er ist auf der neuen Single "A Heretic's Inheritance" zu hören. Nachdem Dälek für seine Band auf der Tour im Jahr 2010 die Konzerte eröffnet haben, ist man in Kontakt geblieben. Adam berichtete:
 
 > "Wir haben schon lange darüber gesprochen, mal zusammen etwas zu machen und als Will mit 'A Heretic's Inheritance' auf mich zukam, habe ich natürlich gleich ja gesagt. Wir haben dann sofort angefangen, Ideen auszutauschen."
 
-Es scheint sich gelohnt zu haben, dann das Ergebnis kann sich wirklich hören lassen. Das komplette Album ist für den 29. April angekündigt.
+Es scheint sich gelohnt zu haben, dann das Ergebnis kann sich wirklich hören lassen. Das komplette Album "Precipice" ist für den 29. April angekündigt.
 
 <YouTube id="ZU8VC974H5M" />
 
