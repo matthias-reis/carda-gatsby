@@ -105,7 +105,7 @@ My brother recommended this record to me. I think it's excellent, and I have to 
 
 It seems worth the work because the result is really worth listening to. The complete album is announced for April 29th.
 
-<YouTube id="ZU8VC974H5M&t=33s" />
+<YouTube id="ZU8VC974H5M" />
 
 ![Dälek – "A Heretic’s Inheritance" | large](https://storage.googleapis.com/cardamonchai-media/2022-04-08/daelek-a-heretics-inheritance-jpg-imagine-080808_8a5637_1024_768/640.webp "Dälek – \"A Heretic’s Inheritance\"")
 
