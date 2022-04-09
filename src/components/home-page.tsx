@@ -63,7 +63,7 @@ export const HomePage: React.FC<{
           frontmatter: {
             title: "Rock 'n' Roll vegan – Anne bloggt cardamonchai",
             subTitle: 'Anne bloggt cardamonchai',
-            description: 'Anne bloggt cardamonchai',
+            description: `Rock 'n' Roll vegan`,
             type: '',
             typeName: 'Homepage',
             date: new Date().toString(),
@@ -73,6 +73,7 @@ export const HomePage: React.FC<{
       />
       <ContentSection>
         <Hd>
+          <H1>Rock 'n' Roll vegan</H1>
           <HomeLogo />
         </Hd>
         <ArticleList
@@ -115,4 +116,8 @@ const Hd = styled.div`
   & > svg {
     max-width: 100%;
   }
+`;
+
+const H1 = styled.h1`
+  display: none;
 `;

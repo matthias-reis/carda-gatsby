@@ -5,12 +5,8 @@ typeName: Review
 title: '"Méandres"'
 subTitle: New Thot EP Out
 seoTitle: Thot – "Méandres" – Post-Music Review
-description: Thot already released their new EP on March 11th. The three songs
-  "Euphrate", "Bateleur", and "Sleep Oddity" are available digitally and on CD.
-excerpt: Thot already released their new EP on March 11th. The three songs
-  "Euphrate", "Bateleur", and "Sleep Oddity" are available digitally and on CD.
-  Under the direction of Thot founder Grégoire Fray, the post-music collective
-  has once again created something unique.
+description: Thot already released their new EP on March 11th. The three songs "Euphrate", "Bateleur", and "Sleep Oddity" are available digitally and on CD.
+excerpt: Thot already released their new EP on March 11th. The three songs "Euphrate", "Bateleur", and "Sleep Oddity" are available digitally and on CD. Under the direction of Thot founder Grégoire Fray, the post-music collective has once again created something unique.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-17/thot-meandres-le-bateleur-png-imagine-383838_000000_1024_768/640.webp
 copyrigt: Thot
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-17/thot-meandres-fb-png-imagine-383838_605f60_1200_628/640.webp
@@ -29,9 +25,10 @@ affiliate: false
 language: en
 languageLink: /2022/03/thot-meandres/
 ---
+
 **Thot already released their new EP on March 11th. The three songs "Euphrate", "Bateleur", and "Sleep Oddity" are available digitally and on CD. Under the direction of Thot founder Grégoire Fray, the post-music collective has once again created something unique.**
 
-I already posted a [teaser for the record](/2021/12/karin-park-thot-perry-frank-en/) on the blog in December – Now you can finally listen to it in its entirety. 
+I already posted a [teaser for the record](/2021/12/karin-park-thot-perry-frank-en/) on the blog in December – Now you can finally listen to it in its entirety.
 
 If you are already familiar with Thot, you will probably notice Grégoire's, in this case, French lyrics. The amazing Juliette Mauduit supports him. The voices of the choir Mystery of the Bulgarian Voices additionally enriched the track "Euphrate". This suits the band, which otherwise tends more towards the industrial niche, very well. The harmonious vocals make a beautiful unity with the raw sound of the collective, turning it into something completely new.
 
@@ -47,7 +44,7 @@ The album kicks off with Thot's collaboration with The Mystery of The Bulgarian 
 
 "Méandres" was made by Grégoire Fray (music, lyrics, guitars, keyboards, programming and lead vocals), Juliette Mauduit (additional vocals), Gil Chevigné (drums arrangement and performance), Michel Thiel (percussion performance), Stéphane Fedele (bass) and the singers of The Bulgarian Voices Gergana Dimitrova, Violeta Marinova, Sofia Yaneva, Mirela Asenova, Daniela Stoichkova, and Elichka Krastanova (choir in "Euphrate"). Thibault Dupont did the engineering and mixing at Gam Studios (Waimes, Belgium), Dada Studios (Brussels, Belgium) and Renewsound (Sofia, Bulgaria). Jules Lechien was the recording assistant. Frederic Altstadt of Ångström did the mastering. Grégoire Fray and Michael Thie created the artwork.
 
-[You can find my interview with Grégoire here](/2021/04/thot-interview-en). Download and streaming options for "Méandres" can be found [here](thotweb.net/meandres).
+[You can find my interview with Grégoire here](/2021/04/thot-interview-en). Download and streaming options for "Méandres" can be found [here](https://thotweb.net/meandres).
 
 ## Thot – "Bateleur"
 

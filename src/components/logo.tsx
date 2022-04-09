@@ -8,5 +8,4 @@ export function Logo(props: React.SVGProps<SVGSVGElement>) {
 
 const Img = styled.img`
   width: 80px;
-  heiht: 80px;
 `;
