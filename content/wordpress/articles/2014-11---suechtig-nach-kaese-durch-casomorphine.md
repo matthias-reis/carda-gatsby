@@ -3,7 +3,7 @@ ogTitle: Süchtig nach Käse durch Casomorphine - wie ich meine Sucht erkannte
 excerpt: Wusstet Ihr, dass man nach Käse richtig süchtig sein kann? Das ist
   sogar wissenschaftlich erwiesen. Darum fällt es vielen so schwer, darauf zu
   verzichten.
-ogImage: https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf-14__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-11/kaese-vegan-png-imagine-180808_9a5824_1200_628/640.webp
 isAffiliate: false
 path: /2014/11/suechtig-nach-kaese-casomorphine/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EACkQAAEDBAIABQQDAAAAAAAAAAECAwQABRESITEGFEFRYRMjJDJScZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAGAQL/xAAiEQEAAQMDBAMAAAAAAAAAAAABAgARIQMEMRJBYXGhsfD/2gAMAwEAAhEDEQA/AFabc1zbqhcKZJZhIRglK1NkkfApqs93jJeTaHJLyJ76UmJKlbOpeXySjQ/qeRjjkCqy8PeJLa86iC7EnMylAoSovj6QPqT2f879qfot8XDi+VvlqXMQ1jWbFWpvrohRAI4wOx6g0S3YxtpsbW9Z8+fX4W7SEJjqjd+CpWbZ/O2pAVKL6ojqg7GhxwkISMbKxgrKtlZCeOld8UqWqParHOU9Jt/4w+35lprVSQcYVwcEfHBqelswIrMW7yLnCatiSQ4kLXIU2Fa85yAoDAyR1x3ioq5XdlqzXCPHvNuuD0oqacUG8uFo4A1ACQnAA7HfVZ202R0cjjGPrvV3GmAzvkzVROauDJQNhyD65rcu7T39SqZICsYyHCO/6oopCwi8lH4TkGGstWeK3D21ypZ4P8cfFdFkabgJklltJLgAJPsKKKhJealg4r//2Q==
@@ -22,7 +22,7 @@ seoTitle: Süchtig nach Käse durch Casomorphine - wie ich meine Sucht erkannte
 description: Wusstet Ihr, dass man nach Käse richtig süchtig sein kann? Das ist
   sogar wissenschaftlich erwiesen. Darum fällt es vielen so schwer, darauf zu
   verzichten.
-image: https://storage.googleapis.com/cardamonchai-media/2022-04-11/kaese-vegan-png-imagine-180808_9a5824_1200_628/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2022-04-11/kaese-vegan-jpg-imagine-281808_905322_1024_768/640.webp
 labels:
   - auf Käse verzichten
   - Casomorphine
