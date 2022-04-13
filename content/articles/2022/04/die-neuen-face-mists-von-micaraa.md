@@ -43,7 +43,7 @@ Bunte Farben und belebende Düfte – sie machen die wohl schönste Jahreszeit a
 
 ## Face Mist "Soothing"
 
-[Der "Soothing" Face Mist](https://tidd.ly/3JBe0tT) soll mit Lavendel für Entspannung sorgen. Auch mit diesem Produkt könnt Ihr glänzende und zu Unreinheiten und vergrößerten Poren neigende Haut pflegen. Es mattiert und lässt Euren Teint ebenmäßig erscheinen. Daher ist er auch eine gute Basis für Eure Tagespflege und eventuelles [Make-up](/2018/07/make-up-fasten/). Die Hauptinhaltsstoffe sind Thermalwasser, Kamille und Lavendel.
+[Der "Soothing" Face Mist](https://tidd.ly/3JBe0tT) soll mit Lavendel für Entspannung sorgen. Er soll Euch helfen, glänzende und zu Unreinheiten und vergrößerten Poren neigende Haut gesund zu pflegen. Es mattiert und lässt Euren Teint ebenmäßig erscheinen. Daher ist er auch eine gute Basis für Eure Tagespflege und eventuelles [Make-up](/2018/07/make-up-fasten/). Die Hauptinhaltsstoffe sind Thermalwasser, Kamille und Lavendel.
 
 Das Thermalwasser soll Unreinheiten mildern und Irritationen entgegenwirken. Zudem soll es die gesunde Durchblutung der Haut und die Sauerstoffversorgung fördern. Dadurch soll die Haut rosiger und strahlender wirken.
 
@@ -51,7 +51,7 @@ Das Lavendelextrakt soll glätten, entspannen und ersten Fältchen entgegenwirke
 
 ## Face Mist "Refreshing"
 
-Der ["Refreshing" Face Mist](https://tidd.ly/3uAGOi2) erfrischt Eure Haut mit Zitrusdüften und wirkt anregend. Er soll Euch helfen, glänzende und zu Unreinheiten und vergrößerten Poren neigende Haut gesund zu pflegen. Darum wirkt er ebenso mattierend wie erfrischend. Die Hauptinhaltsstoffe sind Thermalwasser, Bio Aloe Vera Gel und ätherische Öle.
+Der ["Refreshing" Face Mist](https://tidd.ly/3uAGOi2) erfrischt Eure Haut mit Zitrusdüften und wirkt anregend. Auch mit diesem Produkt könnt Ihr glänzende und zu Unreinheiten und vergrößerten Poren neigende Haut pflegen. Es wirkt ebenso mattierend wie erfrischend. Die Hauptinhaltsstoffe sind Thermalwasser, Bio Aloe Vera Gel und ätherische Öle.
 
 Das Aloe Vera Gel wirkt Entzündungen entgegen und beruhigt die Haut. Zudem spendet es natürliche Feuchtigkeit, die besonders gut gespeichert werden kann. Wie Ihr wisst, wird Wasser immer besonders schnell wieder abgegeben, weshalb die Haut sehr schnell austrocknen kann. Durch die Pflege mit Aloe Vera haltet Ihr sie schön geschmeidig.
 
