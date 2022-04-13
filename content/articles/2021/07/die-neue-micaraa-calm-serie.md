@@ -24,14 +24,13 @@ advertisement: true
 affiliate: true
 language: de
 ---
-
 **MICARAA hat eine neue Pflege-Serie auf den Markt gebracht. Sie heißt "Calm" und ist besonders für empfindliche und allergische Haut gedacht. Weil das komplett nach mir klingt, war sofort klar, dass ich sie testen muss, als ich davon erfuhr.**
 
----
+- - -
 
-**Hinweis:** Weiter unten findet Ihr einen Gutschein für Eure nächste Bestellung bei MICARAA.
+**Hinweis:** Weiter unten findet Ihr einen Gutschein für Eure nächste Bestellung bei MICARAA.⋆
 
----
+- - -
 
 Ausprobiert habe ich die [Gesichtscreme](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Fcalming-face-cream), das [Gesichtsserum mit Nachtkerzenöl](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Fcalming-face-serum) und das [Vitamin C Augenserum mit Hyaluronsäure](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Fvitamin-c-augenserum). Weil die letzten Wochen ganz schön anstrengend waren, habe ich ziemliche Augenringe bekommen. Daher war ich auf das Augenserum besonders gespannt. Doch auch das Serum mit Nachtkerzenöl machte mich sehr neugierig. Bisher habe ich mit Produkten, die Nachtkerzenöl enthalten, immer sehr gute Erfahrungen gemacht, daher freute ich mich sehr auf den Test.
 
@@ -75,6 +74,6 @@ Die von mir getesteten Produkte könnt Ihr im Set oder einzeln kaufen. Mit dem [
 
 Der Leitsatz von MICARAA lautet "Give yourself a moment", also "Gönne Dir einen Moment für Dich selbst". Ich finde, die Calm Serie passt wunderbar zu diesem Credo. Meiner Haut jeden Tag etwas Gutes zu tun, kann für mich genauso entspannend sein, wie ein [Achtsamkeit-Spaziergang](/2020/10/spaziergang-fuer-die-seele/) oder [eine Runde Yoga](/2021/02/yoga-stile/).
 
-Wenn Ihr neugierig geworden seid und die MICARAA Produkte auch mal testen wollt, bekommt Ihr mit meinem persönlichen Gutschein **zehn Prozent Rabatt**. Gebt dafür bei Eurer Bestellung einfach den Gutscheincode **anne10** ein.
+⋆Wenn Ihr neugierig geworden seid und die MICARAA Produkte auch mal testen wollt, bekommt Ihr mit meinem persönlichen Gutschein **zehn Prozent Rabatt**. Gebt dafür bei Eurer Bestellung einfach den Gutscheincode **anne10** ein.
 
 <Gallery name="micaraa-calm-2" />
