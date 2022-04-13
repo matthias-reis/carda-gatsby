@@ -83,21 +83,21 @@ Warum sich das Wort "gendern" so stark durchgesetzt hat, weiß ich nicht. Da das
 
 Danke an dieser Stelle an [Behindernisse](https://be-hindernisse.org/)-Gründer Ash für die sachkundige Beratung. Ohne Deine Artikel und [Tweets](https://twitter.com/Ashducation) wären viele sicher noch nicht so weit, wie sie heute sind. Neben Ashs Expertise habe ich auch unter anderem die folgenden Bücher zum Thema zur Rate gezogen:
 
-Felicia Ewert – "Trans.Frau.Sein – Aspekte geschlechtlicher Marginalisierung", edition assemblage, zweite vollständig überarbeitete Auflage, ISBN-13: 978-3-960-42071-2
+- Felicia Ewert – "Trans.Frau.Sein – Aspekte geschlechtlicher Marginalisierung", edition assemblage, zweite vollständig überarbeitete Auflage, ISBN-13: 978-3-960-42071-2
 
-Jayrôme C. Robinet – "Mein Weg von einer weißen Frau zu einem jungen Mann mit Migrations-Hintergrund", Hanser Berlin, ISBN-13: 978-3-446-26207-2
+- Jayrôme C. Robinet – "Mein Weg von einer weißen Frau zu einem jungen Mann mit Migrations-Hintergrund", Hanser Berlin, ISBN-13: 978-3-446-26207-2
 
-Kübra Gümüsay – "Sprache und sein", btb, ISBN-13: 978-3-442-77125-7
+- Kübra Gümüsay – "Sprache und sein", btb, ISBN-13: 978-3-442-77125-7
 
-Prof. Dr. Hilke Elsen – "Gender – Sprache – Stereotype: Geschlechtersensibilität in Alltag und Unterricht", 1. Auflage, utb, ISBN-13: 978-3-825-25302-8
+- Prof. Dr. Hilke Elsen – "Gender – Sprache – Stereotype: Geschlechtersensibilität in Alltag und Unterricht", 1. Auflage, utb, ISBN-13: 978-3-825-25302-8
 
-[Die Uni Bielefeld hat online einen Ratgeber zum Thema gendersensible Sprache bereitgestellt](https://www.uni-bielefeld.de/verwaltung/refkom/gendern/richtlinien/).
+- [Die Uni Bielefeld hat online einen Ratgeber zum Thema gendersensible Sprache bereitgestellt](https://www.uni-bielefeld.de/verwaltung/refkom/gendern/richtlinien/).
 
-[Auch die TU Berlin hat einen Leitfaden für gendersensitive Sprache veröffentlicht](https://www.tu-berlin.de/fileadmin/a70100710_gleichstellung/Diversity_Allgemeines/KFG-Leitfaden_geschlechtersensible_Sprache.pdf).
+- [Auch die TU Berlin hat einen Leitfaden für gendersensitive Sprache veröffentlicht](https://www.tu-berlin.de/fileadmin/a70100710_gleichstellung/Diversity_Allgemeines/KFG-Leitfaden_geschlechtersensible_Sprache.pdf).
 
-[Hier noch ein lesenswerter Artikel zum Thema](https://www.bizeps.or.at/realität-formt-sprache-formt-realität/).
+- [Hier noch ein lesenswerter Artikel zum Thema](https://www.bizeps.or.at/realität-formt-sprache-formt-realität/).
 
-Falls Ihr auf der Suche nach neutralen Formulierungen seid, schaut mal im [Genderwörterbuch](https://geschicktgendern.de/) vorbei.
+- Falls Ihr auf der Suche nach neutralen Formulierungen seid, schaut mal im [Genderwörterbuch](https://geschicktgendern.de/) vorbei.
 
 [^1]: [Deutscher Blinden- und Sehbehindertenverband](https://bbsb.org/mitmachen-und-unterstuetzen/spenden-finanzielle-unterstutzung/trotz-sehbehinderung-mitten-im-leben-ihre-hilfe-zaehlt/)
 [^2]: [Überwachungsstelle des Bundes für Barrierefreiheit](https://www.bfit-bund.de/DE/Home/home_node.html)
