@@ -39,7 +39,7 @@ language: de
 
 Die kurze Antwort auf die Frage: "Warum entgenderst Du auf Deinem Blog?" lautet: Weil ich in meinen Texten keinen Menschen ausschließen möchte. Ich selbst mag es nicht, ausgeschlossen zu werden und darum möchte ich auch sonst niemanden ausschließen. Und hier ist die etwas längere Antwort:
 
-Mir ist es wichtig, alle Menschen anzusprechen und auch selbst angesprochen zu werden. Eigentlich sollten wir aus dem Zeitalter, in dem Menschen geboren wurden und umgehend einen Stempel erhielten "Du bist ein Junge" oder "Du bist ein Mädchen" längst raus sein. Doch leider ist das noch nicht wirklich der Fall – auch, wenn sich in den letzten Jahren einiges bewegt hat. Darum will ich dazu beitragen, dass es irgendwann soweit ist und Menschen einfach sagen: "Du bist ein Baby". Und womit erreiche ich die meisten Menschen? Mit den Texten auf meiner Seite.
+Mir ist es wichtig, alle Menschen anzusprechen und auch selbst angesprochen zu werden. Eigentlich sollten wir aus dem Zeitalter, in dem Menschen geboren wurden und umgehend einen Stempel erhielten "Du bist ein Junge" oder "Du bist ein Mädchen" längst raus sein. Doch leider ist das noch nicht wirklich der Fall – auch, wenn sich in den letzten Jahren einiges bewegt hat. Darum will ich dazu beitragen, dass es irgendwann soweit ist und Menschen sich einfach über ihr Baby freuen. Und womit erreiche ich die meisten Menschen? Mit den Texten auf meiner Seite.
 
 ## Gendersensible Sprache im Internet
 
