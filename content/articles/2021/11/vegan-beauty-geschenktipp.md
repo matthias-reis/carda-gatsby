@@ -26,8 +26,13 @@ advertisement: true
 affiliate: true
 language: de
 ---
-
 **Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit, über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps vorbereitet. Mein erster kommt von MICARAA: Mit dem Holiday Set könnt Ihr einem lieben Menschen eine schöne Freude machen.**
+
+---
+
+**Hinweis:** Weiter unten findet Ihr einen Gutschein für Eure nächste Bestellung bei MICARAA.⋆
+
+---
 
 Das Set, bestehend aus einem Peeling, einem Gesichtsöl, und einem Gesichtsserum, enthält alles, was die Haut im Winter braucht: Hyaluronsäure, milde Fruchtsäuren und natürlich nährende Öle. Mit zum Set dazu gibt es von MICARAA einen 10 Euro Gutschein.
 
@@ -63,3 +68,5 @@ Die formschönen Verpackungen sind aus umweltfreundlichen Materialien hergestell
 Für die Umwelt wird für jede Bestellung gemeinsam mit OroVerde ein Baum gepflanzt. Auf diesem Wege konnte MICARAA bereits tausende Bäume pflanzen lassen und damit die so wichtige Regenwald-Aufforstung aktiv unterstützen. Auf der Seite findet Ihr auch einen [Baumzähler](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fpages%2Funser-wald).
 
 Egal, ob Ihr das [Holiday Set](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Fholiday-set-gutschein) jemandem schenkt, oder Euch selbst eine Freude macht: Die Produkte kann ich Euch auf jeden Fall empfehlen. Ich selbst habe sie schon lange Zeit im Einsatz und meiner Haut geht es damit wirklich gut. Wenn Ihr mehr über meine Erfahrungen damit lesen wollt, findet Ihr hier im Blog zum Beispiel [diesen Artikel](/2021/07/micaraa-calm/).
+
+⋆Die vegane Naturkosmetik von MICARAA kennt Ihr als treue Leser⋆innen meines Blogs ja schon. Auch weiterhin gilt für Euch: Mit dem **Rabattcode anne10** erhaltet Ihr auf alle Micaraa Produkte einen Nachlass in Höhe von **10 Prozent**, wenn Ihr direkt im Micaraa Onlineshop einkauft.
