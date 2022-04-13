@@ -33,6 +33,12 @@ languageLink: ""
 ---
 **Von MICARAA gibt es pünktlich zum Frühlingsanfang jetzt etwas Neues: Frische Face Mists sollen die Gesichtshaut erfrischen, entspannen und für strahlenden Glow sorgen. Ich habe alle drei Varianten getestet und möchte sie Euch heute vorstellen.**
 
+---
+
+**Hinweis:** Weiter unten findet Ihr einen Gutschein für Eure nächste Bestellung bei MICARAA.⋆
+
+---
+
 Bunte Farben und belebende Düfte – sie machen die wohl schönste Jahreszeit aus. Davon inspiriert hat MICARAA drei leichte Gesichtswasser mit Rose, Zitrus und Lavendel kreiert – die Basis ist bei allen dreien Aloe Vera.
 
 ## Face Mist "Soothing"
@@ -72,6 +78,8 @@ Die Face Mists von MICARAA wurden von der Vegan Society mit dem Label "frei von 
 Falls Ihr Euch gefragt hat, wie es mit der Verpackung in Sachen Nachhaltigkeit aussieht: Die Face Mists werden von MICARAA in klimaneutrales Braunglas und nachhaltiges Graspapier gepackt, für dessen Herstellung statt 6.000 Liter pro Tonne für normales Papier lediglich 2 Liter Wasser benötigt werden. Die Flakons könnt Ihr dem Altglas zuführen – sie sind recyclingfähig. MICARAA hat außerdem [ein eigenes Recyclingprogramm](https://tidd.ly/3qBWW15) ins Leben gerufen.
 
 Für jede Bestellung, die im Onlineshop eingeht, lässt MICARAA [in Kooperation mit der Organisation OroVerde](https://tidd.ly/3xmLKca) einen Baum pflanzen, um dadurch für Ausgleich zu sorgen. Auf diesem Wege konnten bereits tausenden Bäume gepflanzt und ein Stück Regenwald wieder aufgeforstet werden. Online findet Ihr einen Baumzähler, auf dem Ihr das Projekt mitverfolgen könnt.
+
+⋆Die vegane Naturkosmetik von MICARAA kennt Ihr als treue Leser⋆innen meines Blogs ja schon. Auch weiterhin gilt für Euch: Mit dem **Rabattcode anne10** erhaltet Ihr auf alle Micaraa Produkte einen Nachlass in Höhe von **10 Prozent**, wenn Ihr direkt im Micaraa Onlineshop einkauft.
 
 [Alles über die Unterschiede zwischen Vegane Kosmetik, Biokosmetik und Naturkosmetik erfahrt Ihr hier](/2018/03/vegane-kosmetik-und-naturkosmetik/).
 
