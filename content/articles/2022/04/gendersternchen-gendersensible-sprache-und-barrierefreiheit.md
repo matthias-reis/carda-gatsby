@@ -13,7 +13,7 @@ excerpt: Weil ich schon von den verschiedensten Menschen auf unterschiedlichste
   Art und Weise darauf angesprochen wurde, habe ich mich dazu entschieden, einen
   Artikel darüber zu schreiben, warum ich auf meiner Seite schon seit längerer
   Zeit entgendere und dazu nicht nur möglichst neutrale Sprache, sondern auch
-  das Gendersternchen gebrauche.
+  das Gendersternchen (Asterisk) gebrauche.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-13/entgendern-jpg-imagine-080818_46494f_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-13/entgendern-fb-jpg-imagine-3878d8_5d8bd0_1200_628/640.webp
