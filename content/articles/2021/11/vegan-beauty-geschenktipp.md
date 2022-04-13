@@ -36,7 +36,7 @@ language: de
 
 Das Set, bestehend aus einem Peeling, einem Gesichtsöl, und einem Gesichtsserum, enthält alles, was die Haut im Winter braucht: Hyaluronsäure, milde Fruchtsäuren und natürlich nährende Öle. Mit zum Set dazu gibt es von MICARAA einen 10 Euro Gutschein.
 
-Die Produkte im [Geschenk-Set](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Fholiday-set-gutschein) sind für alle Hauttypen geeignet. Es spielt also keine Rolle, ob der⋆die Beschenkte trockene, ölige oder empfindliche Haut hat. Sie spenden intensive Feuchtigkeit und sorgen für reine Haut trotz Kälte und Heizungsluft im Winter.
+Die Produkte im [Geschenk-Set](https://tidd.ly/3KHb28o) sind für alle Hauttypen geeignet. Es spielt also keine Rolle, ob der⋆die Beschenkte trockene, ölige oder empfindliche Haut hat. Sie spenden intensive Feuchtigkeit und sorgen für reine Haut trotz Kälte und Heizungsluft im Winter.
 
 ## Gesunde MICARAA Pflege für alle Hauttypen
 
@@ -61,12 +61,12 @@ Der Anti-Aging-Wirkstoff Radicare Gold imitiert eine Süßwasseralge. Er soll wi
 
 Für jedes verkaufte Geschenk-Set spendet MICARAA einen Euro an die Münchner Kindertafel. So haben die Kleinsten auch noch was von Eurem Einkauf.
 
-Das Set ist streng limitiert. Ihr solltet Euch also auf alle Fälle beeilen, [wenn Ihr Euch eins davon sichern wollt](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Fholiday-set-gutschein). Alle Produkte sind von COSMOS Natural und der Vegan Society zertifiziert. Ihr könnt Euch also darauf verlassen, dass sie natürlich und frei von Tierversuchen sind.
+Das Set ist streng limitiert. Ihr solltet Euch also auf alle Fälle beeilen, [wenn Ihr Euch eins davon sichern wollt](https://tidd.ly/3KHb28o). Alle Produkte sind von COSMOS Natural und der Vegan Society zertifiziert. Ihr könnt Euch also darauf verlassen, dass sie natürlich und frei von Tierversuchen sind.
 
 Die formschönen Verpackungen sind aus umweltfreundlichen Materialien hergestellt. Das Braunglas ist klimaneutral und der Karton ist aus Graspapier. Dafür mussten also keine Bäume gefällt werden. Außerdem werden für eine Tonne Graspapier lediglich zwei Liter Wasser, anstatt 6.000 Liter für eine Tonne herkömmliches Papier benötigt. Wenn Ihr beim [MICARAA Recycling-Programm](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Funbounce.micaraa.de%2Frecyclingprogramm%2F) mitmacht, könnt Ihr damit unterschiedliche Projekte unterstützen und die Flaschen direkt wieder zurückgeben.
 
 Für die Umwelt wird für jede Bestellung gemeinsam mit OroVerde ein Baum gepflanzt. Auf diesem Wege konnte MICARAA bereits tausende Bäume pflanzen lassen und damit die so wichtige Regenwald-Aufforstung aktiv unterstützen. Auf der Seite findet Ihr auch einen [Baumzähler](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fpages%2Funser-wald).
 
-Egal, ob Ihr das [Holiday Set](https://www.awin1.com/cread.php?awinmid=19823&awinaffid=632580&ued=https%3A%2F%2Fmicaraa.de%2Fproducts%2Fholiday-set-gutschein) jemandem schenkt, oder Euch selbst eine Freude macht: Die Produkte kann ich Euch auf jeden Fall empfehlen. Ich selbst habe sie schon lange Zeit im Einsatz und meiner Haut geht es damit wirklich gut. Wenn Ihr mehr über meine Erfahrungen damit lesen wollt, findet Ihr hier im Blog zum Beispiel [diesen Artikel](/2021/07/micaraa-calm/).
+Egal, ob Ihr das [Holiday Set](https://tidd.ly/3KHb28o) jemandem schenkt, oder Euch selbst eine Freude macht: Die Produkte kann ich Euch auf jeden Fall empfehlen. Ich selbst habe sie schon lange Zeit im Einsatz und meiner Haut geht es damit wirklich gut. Wenn Ihr mehr über meine Erfahrungen damit lesen wollt, findet Ihr hier im Blog zum Beispiel [diesen Artikel](/2021/07/micaraa-calm/).
 
 ⋆Die vegane Naturkosmetik von MICARAA kennt Ihr als treue Leser⋆innen meines Blogs ja schon. Auch weiterhin gilt für Euch: Mit dem **Rabattcode anne10** erhaltet Ihr auf alle Micaraa Produkte einen Nachlass in Höhe von **10 Prozent**, wenn Ihr direkt im Micaraa Onlineshop einkauft.
