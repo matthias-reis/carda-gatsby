@@ -39,7 +39,7 @@ language: de
 
 Die kurze Antwort auf die Frage: "Warum entgenderst Du auf Deinem Blog?" lautet: Weil ich in meinen Texten keinen Menschen ausschließen möchte. Ich selbst mag es nicht, ausgeschlossen zu werden und darum möchte ich auch sonst niemanden ausschließen. Und hier ist die etwas längere Antwort:
 
-Mir ist es wichtig, alle Menschen anzusprechen und auch selbst angesprochen zu werden. Eigentlich sollten wir aus dem Zeitalter, in dem Menschen geboren wurden und umgehend einen Stempel erhielten "Du bist ein Junge" oder "Du bist ein Mädchen" längst raus sein. Doch leider ist das noch nicht wirklich der Fall – auch, wenn sich in den letzten Jahren einiges bewegt hat. Darum will ich dazu beitragen, dass es irgendwann soweit ist und Menschen sich einfach über ihr Baby freuen. Und womit erreiche ich die meisten Menschen? Mit den Texten auf meiner Seite.
+Mir ist es wichtig, alle Menschen anzusprechen und auch selbst angesprochen zu werden. Eigentlich sollten wir aus dem Zeitalter, in dem Menschen geboren wurden und umgehend einen Stempel erhielten "Du bist ein Junge" oder "Du bist ein Mädchen" längst raus sein. Doch leider ist das noch nicht wirklich der Fall – auch, wenn sich in den letzten Jahren einiges bewegt hat. Darum will ich dazu beitragen, dass es irgendwann soweit ist und Menschen sich einfach über das neugeborene Baby freuen, ohne beim Blick in den Kinderwagen die "Mädchen oder Junge"-Frage zu stellen. Und womit erreiche ich die meisten Menschen? Mit den Texten auf meiner Seite.
 
 ## Gendersensible Sprache im Internet
 
@@ -83,21 +83,14 @@ Warum sich das Wort "gendern" so stark durchgesetzt hat, weiß ich nicht. Da das
 
 Danke an dieser Stelle an [Behindernisse](https://be-hindernisse.org/)-Gründer Ash für die sachkundige Beratung. Ohne Deine Artikel und [Tweets](https://twitter.com/Ashducation) wären viele sicher noch nicht so weit, wie sie heute sind. Neben Ashs Expertise habe ich auch unter anderem die folgenden Bücher zum Thema zur Rate gezogen:
 
-- Felicia Ewert – "Trans.Frau.Sein – Aspekte geschlechtlicher Marginalisierung", edition assemblage, zweite vollständig überarbeitete Auflage, ISBN-13: 978-3-960-42071-2
-
-- Jayrôme C. Robinet – "Mein Weg von einer weißen Frau zu einem jungen Mann mit Migrations-Hintergrund", Hanser Berlin, ISBN-13: 978-3-446-26207-2
-
-- Kübra Gümüsay – "Sprache und sein", btb, ISBN-13: 978-3-442-77125-7
-
-- Prof. Dr. Hilke Elsen – "Gender – Sprache – Stereotype: Geschlechtersensibilität in Alltag und Unterricht", 1. Auflage, utb, ISBN-13: 978-3-825-25302-8
-
-- [Die Uni Bielefeld hat online einen Ratgeber zum Thema gendersensible Sprache bereitgestellt](https://www.uni-bielefeld.de/verwaltung/refkom/gendern/richtlinien/).
-
-- [Auch die TU Berlin hat einen Leitfaden für gendersensitive Sprache veröffentlicht](https://www.tu-berlin.de/fileadmin/a70100710_gleichstellung/Diversity_Allgemeines/KFG-Leitfaden_geschlechtersensible_Sprache.pdf).
-
-- [Hier noch ein lesenswerter Artikel zum Thema](https://www.bizeps.or.at/realität-formt-sprache-formt-realität/).
-
-- Falls Ihr auf der Suche nach neutralen Formulierungen seid, schaut mal im [Genderwörterbuch](https://geschicktgendern.de/) vorbei.
+* Felicia Ewert – "Trans.Frau.Sein – Aspekte geschlechtlicher Marginalisierung", edition assemblage, zweite vollständig überarbeitete Auflage, ISBN-13: 978-3-960-42071-2
+* Jayrôme C. Robinet – "Mein Weg von einer weißen Frau zu einem jungen Mann mit Migrations-Hintergrund", Hanser Berlin, ISBN-13: 978-3-446-26207-2
+* Kübra Gümüsay – "Sprache und sein", btb, ISBN-13: 978-3-442-77125-7
+* Prof. Dr. Hilke Elsen – "Gender – Sprache – Stereotype: Geschlechtersensibilität in Alltag und Unterricht", 1. Auflage, utb, ISBN-13: 978-3-825-25302-8
+* [Die Uni Bielefeld hat online einen Ratgeber zum Thema gendersensible Sprache bereitgestellt](https://www.uni-bielefeld.de/verwaltung/refkom/gendern/richtlinien/).
+* [Auch die TU Berlin hat einen Leitfaden für gendersensitive Sprache veröffentlicht](https://www.tu-berlin.de/fileadmin/a70100710_gleichstellung/Diversity_Allgemeines/KFG-Leitfaden_geschlechtersensible_Sprache.pdf).
+* [Hier noch ein lesenswerter Artikel zum Thema](https://www.bizeps.or.at/realität-formt-sprache-formt-realität/).
+* Falls Ihr auf der Suche nach neutralen Formulierungen seid, schaut mal im [Genderwörterbuch](https://geschicktgendern.de/) vorbei.
 
 [^1]: [Deutscher Blinden- und Sehbehindertenverband](https://bbsb.org/mitmachen-und-unterstuetzen/spenden-finanzielle-unterstutzung/trotz-sehbehinderung-mitten-im-leben-ihre-hilfe-zaehlt/)
 [^2]: [Überwachungsstelle des Bundes für Barrierefreiheit](https://www.bfit-bund.de/DE/Home/home_node.html)
