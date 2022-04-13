@@ -73,7 +73,7 @@ Wenn ich keine Gruppe ausschließen möchte, muss ich auch darauf achten, dass m
 
 **Fazit:** Die Barriere-freisten Lösungen sind das Gendersternchen und der Gender-Gap. Wobei Ihr hier einen besonders wichtigen Gesichtspunkt nicht außer Acht lassen solltet:
 
-Zwar sind der Asterisk und der Gab inzwischen beide innerhalb der queeren Community weit verbreitet, jedoch wird der Asterisk, wie gesagt, sowohl vom DBSV sowie dem BFIT-Bund empfohlen, auch, weil er wesentlich bekannter und beliebter ist, als der Gab.
+Zwar sind der Asterisk und der Unterstrich inzwischen beide innerhalb der queeren Community weit verbreitet, jedoch wird der Asterisk, wie gesagt, sowohl vom DBSV sowie dem BFIT-Bund empfohlen, auch, weil er wesentlich bekannter und beliebter ist, als der Gap.
 
 ## Warum sagst Du eigentlich "entgendern" und nicht gendern?
 
@@ -91,8 +91,6 @@ Danke an dieser Stelle an [Behindernisse](https://be-hindernisse.org/)-Gründer 
 * [Auch die TU Berlin hat einen Leitfaden für gendersensitive Sprache veröffentlicht](https://www.tu-berlin.de/fileadmin/a70100710_gleichstellung/Diversity_Allgemeines/KFG-Leitfaden_geschlechtersensible_Sprache.pdf).
 * [Hier noch ein lesenswerter Artikel zum Thema](https://www.bizeps.or.at/realität-formt-sprache-formt-realität/).
 * Falls Ihr auf der Suche nach neutralen Formulierungen seid, schaut mal im [Genderwörterbuch](https://geschicktgendern.de/) vorbei.
-
-
 
 [^1]: [Deutscher Blinden- und Sehbehindertenverband](https://bbsb.org/mitmachen-und-unterstuetzen/spenden-finanzielle-unterstutzung/trotz-sehbehinderung-mitten-im-leben-ihre-hilfe-zaehlt/)
 [^2]: [Überwachungsstelle des Bundes für Barrierefreiheit](https://www.bfit-bund.de/DE/Home/home_node.html)
