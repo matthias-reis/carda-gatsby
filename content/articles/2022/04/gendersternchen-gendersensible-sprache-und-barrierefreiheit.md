@@ -92,5 +92,7 @@ Danke an dieser Stelle an [Behindernisse](https://be-hindernisse.org/)-Gründer 
 * [Hier noch ein lesenswerter Artikel zum Thema](https://www.bizeps.or.at/realität-formt-sprache-formt-realität/).
 * Falls Ihr auf der Suche nach neutralen Formulierungen seid, schaut mal im [Genderwörterbuch](https://geschicktgendern.de/) vorbei.
 
+
+
 [^1]: [Deutscher Blinden- und Sehbehindertenverband](https://bbsb.org/mitmachen-und-unterstuetzen/spenden-finanzielle-unterstutzung/trotz-sehbehinderung-mitten-im-leben-ihre-hilfe-zaehlt/)
 [^2]: [Überwachungsstelle des Bundes für Barrierefreiheit](https://www.bfit-bund.de/DE/Home/home_node.html)
