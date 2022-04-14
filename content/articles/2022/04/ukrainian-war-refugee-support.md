@@ -6,11 +6,13 @@ title: Ukrainian War Refugee Support
 subTitle: Pelagic Records veröffentlicht Sampler für Geflüchtete aus Ukraine
 seoTitle: Pelagic Records veröffentlicht Sampler für Geflüchtete aus Ukraine
 description: Pelagic Records haben mit Mono, Year Of No Light, Bruit, SOM,
-  Årabrot, Psychonaut, Nyos, Shy, Low, Enphin, Oslo Tapes, Briqueville und Johan
-  G Winther einen Sampler für die Geflüchteten aus Ukraine gemacht.
+  Årabrot, Psychonaut, Nyos, Shy, Low, Enphin, Blessings, Oslo Tapes,
+  Briqueville und Johan G Winther einen Sampler für die Geflüchteten aus Ukraine
+  gemacht.
 excerpt: Pelagic Records haben mit Mono, Year Of No Light, Bruit, SOM, Årabrot,
-  Psychonaut, Nyos, Shy, Low, Enphin, Oslo Tapes, Briqueville und Johan G
-  Winther einen Doppel-Tape-Sampler für die Geflüchteten aus Ukraine gemacht.
+  Psychonaut, Nyos, Shy, Low, Enphin, Blessings, Oslo Tapes, Briqueville und
+  Johan G Winther einen Doppel-Tape-Sampler für die Geflüchteten aus Ukraine
+  gemacht.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-14/pelagic-ukraine-jpeg-imagine-d8d8d8_9fa08e_701_800/640.webp
 copyrigt: Pelagic Records
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ukrainian-war-refugee-support-pelagic-fb-png-imagine-e8f8f8_9aa286_1200_628/640.webp
@@ -38,7 +40,7 @@ affiliate: false
 language: de
 languageLink: /2022/04/ukrainian-war-refugee-support-pelagic-en
 ---
-**Pelagic Records haben mit Mono, Year Of No Light, Bruit, SOM, Årabrot, Psychonaut, Nyos, Shy, Low, Enphin, Oslo Tapes, Briqueville und Johan G Winther einen Doppel-Tape-Sampler für die Geflüchteten aus Ukraine gemacht.**
+**Pelagic Records haben mit Mono, Year Of No Light, Bruit, SOM, Årabrot, Psychonaut, Nyos, Shy, Low, Enphin, Blessings, Oslo Tapes, Briqueville und Johan G Winther einen Doppel-Tape-Sampler für die Geflüchteten aus Ukraine gemacht.**
 
 Angesichts der schrecklichen Ereignisse rund um den Krieg in Ukraine möchte das Label zusammen mit den Musiker⋆innen einen Beitrag zur Unterstützung der Menschen, die ihr Zuhause verloren haben, leisten.
 
