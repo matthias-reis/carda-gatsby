@@ -93,7 +93,7 @@ Ich hatte jahrelang mit meinen eigenen Techniken aufgenommen und dachte, dass mi
 
 ## "Tieren Schmerzen zuzufügen ergibt keinen Sinn"
 
-**Oliver:** Meine Verlobte hatte da einen großen Einfluss auf mich.  Hinzu kamen Dokumentationen wie [Earthlings](https://cardamonchai.com/2020/07/earthlings/). Ich glaube, inzwischen sind es fünf Jahre? Ich bin mir nicht sicher, aber es gibt einfach keinen Grund, Tieren wehzutun. Wir müssen das nicht tun. Wir müssen nicht jede Bequemlichkeit haben auf dieser Welt. Ich würde ja auch keiner Kuh ins Gesicht schlagen, wenn ich sie auf einer Wiese an mir vorbeigehen sehe.
+**Oliver:** Meine Verlobte hatte da einen großen Einfluss auf mich.  Hinzu kamen Dokumentationen wie [Earthlings](/2020/07/earthlings/). Ich glaube, inzwischen sind es fünf Jahre? Ich bin mir nicht sicher, aber es gibt einfach keinen Grund, Tieren wehzutun. Wir müssen das nicht tun. Wir müssen nicht jede Bequemlichkeit haben auf dieser Welt. Ich würde ja auch keiner Kuh ins Gesicht schlagen, wenn ich sie auf einer Wiese an mir vorbeigehen sehe.
 
 **Anne:** Ich kann mir vorstellen, dass Du eine Menge Menschen triffst, wenn Du auf Tour unterwegs bist oder im Studio arbeitest. Konntest Du einige davon überzeugen, auch vegan zu leben?
 
