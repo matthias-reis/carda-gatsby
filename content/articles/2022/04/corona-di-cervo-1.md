@@ -7,8 +7,7 @@ subTitle: New EP by Ox en Mayo Alto
 seoTitle: Ox en Mayo Alto – "Corona di Cervo" – Post-Rock Review
 description: Ox en Mayo Alto are back. They have just released the first single
   from their EP "Corona di Cervo", which will be out on 22 April. The first
-  track provides deep insights taking their fans' curiosity for the complete
-  work to the extreme.
+  track provides deep insights.
 excerpt: Ox en Mayo Alto are back. They have just released the first single from
   their EP "Corona di Cervo", which will be out on 22 April. The first track
   provides deep insights taking their fans' curiosity for the complete work to
