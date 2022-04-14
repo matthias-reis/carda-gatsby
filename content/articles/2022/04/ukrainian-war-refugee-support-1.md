@@ -7,10 +7,10 @@ subTitle: Pelagic Records Releases Sampler To Support Ukrainian War Refugees
 seoTitle: Pelagic Records Releases Sampler To Support Ukrainian War Refugees
 description: Pelagic Records have made a sampler for the refugees from Ukraine
   with Mono, Year Of No Light, Bruit, SOM, Årabrot, Psychonaut, Nyos, Shy, Low,
-  Enphin, Oslo Tapes, Briqueville and Johan G Winther.
+  Enphin, Blessings, Oslo Tapes, Briqueville and Johan G Winther.
 excerpt: Pelagic Records have made a sampler for the refugees from Ukraine with
   Mono, Year Of No Light, Bruit, SOM, Årabrot, Psychonaut, Nyos, Shy, Low,
-  Enphin, Oslo Tapes, Briqueville and Johan G Winther.
+  Enphin, Blessings, Oslo Tapes, Briqueville and Johan G Winther.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-14/pelagic-ukraine-jpeg-imagine-d8d8d8_9fa08e_701_800/640.webp
 copyrigt: Pelagic Records
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ukrainian-war-refugee-support-pelagic-fb-png-imagine-e8f8f8_9aa286_1200_628/640.webp
@@ -37,7 +37,7 @@ affiliate: false
 language: en
 languageLink: /2022/04/ukrainian-war-refugee-support-pelagic
 ---
-**Pelagic Records have made a sampler for the refugees from Ukraine with Mono, Year Of No Light, Bruit, SOM, Årabrot, Psychonaut, Blessings, Nyos, Shy, Low, Enphin, Oslo Tapes, Briqueville and Johan G Winther.**
+**Pelagic Records have made a sampler for the refugees from Ukraine with Mono, Year Of No Light, Bruit, SOM, Årabrot, Psychonaut, Blessings, Nyos, Shy, Low, Enphin, Blessings, Oslo Tapes, Briqueville and Johan G Winther.**
 
 Given the horrific events surrounding the war in Ukraine, the label wants to contribute together with the musicians to support the people who have lost their homes.
 
