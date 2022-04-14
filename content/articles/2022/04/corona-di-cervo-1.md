@@ -67,7 +67,7 @@ The names of the songs are based on the poem "Todtnauberg" by the Jewish-Romania
 
 The band turned the poem into a post-rock narrative and transposed it into our modern times. The elements from nature, which were also part of Ox en Mayo Alto's predecessors, are also an essential part of the picture again. Just like in Clan's poem:
 
-> ## Todtnauberg by Paul Celan
+> ## "Todtnauberg" by Paul Celan
 > 
 > Arnica, eyebright, the
 > draft from the well with the
