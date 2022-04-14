@@ -6,12 +6,13 @@ title: '"Corona di Cervo"'
 subTitle: New EP by Ox en Mayo Alto
 seoTitle: Ox en Mayo Alto – "Corona di Cervo" – Post-Rock Review
 description: Ox en Mayo Alto are back. They have just released the first single
-  from their EP "Corona di Cervo", due out on 22 April. The first track provides
-  deep insights taking their fans' curiosity for the complete work to the
-  extreme.
+  from their EP "Corona di Cervo", which will be out on 22 April. The first
+  track provides deep insights taking their fans' curiosity for the complete
+  work to the extreme.
 excerpt: Ox en Mayo Alto are back. They have just released the first single from
-  their EP "Corona di Cervo", due out on 22 April. The first track provides deep
-  insights taking their fans' curiosity for the complete work to the extreme.
+  their EP "Corona di Cervo", which will be out on 22 April. The first track
+  provides deep insights taking their fans' curiosity for the complete work to
+  the extreme.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-jpg-imagine-181818_535f5a_1024_768/640.webp
 copyrigt: Ox en Mayo Alto
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-fb-jpg-imagine-181818_404844_1200_628/640.webp
@@ -37,7 +38,7 @@ affiliate: false
 language: en
 languageLink: /2022/04/ox-en-mayo-alto-corona-di-cervo/
 ---
-**Ox en Mayo Alto are back. They have just released the first single from their EP "Corona di Cervo", due out on 22 April. The first track provides deep insights taking their fans' curiosity for the complete work to the extreme.**.
+**Ox en Mayo Alto are back. They have just released the first single from their EP "Corona di Cervo", which will be out on 22 April. The first track provides deep insights taking their fans' curiosity for the complete work to the extreme.**.
 
 "Corona di Cervo" again tells a coherent story that emerges when you listen to the total of five songs in one piece. This is how we know and love the sound collective. The tracks are called:
 
