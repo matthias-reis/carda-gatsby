@@ -49,5 +49,5 @@ The tapes with a total of 13 songs is currently in production and will be releas
 
 Pelagic would like to thank all artists, as well as Philipp Welsing from Original Mastering (mastering), Benedikt Demmer from Druckwelle Design (artwork), Riso Club Leipzig (risograph printing) and Prepaid Records (dubbing). There are no plans to release the tapes on vinyl yet. However, the press release for the release says: "You should never say never".
 
-So: [Let's help the people from Ukraine arriving in Berlin and buy this record!](https://pelagic-records.com/product/pelagic-records-ukrainian-war-refugee-support-a-pelagic-compilation-2xtape/)
+So: [Let's help the people from Ukraine arriving in Berlin and buy these tapes!](https://pelagic-records.com/product/pelagic-records-ukrainian-war-refugee-support-a-pelagic-compilation-2xtape/)
 
