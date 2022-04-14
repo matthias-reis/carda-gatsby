@@ -50,3 +50,5 @@ Die Tapes mit insgesamt 13 Songs befindet sich momentan in der Produktion und wi
 
 Pelagic dankt allen Künstler⋆innen sowie Philipp Welsing von Original Mastering (Mastering), Benedikt Demmer von Druckwelle Design (Artwork), dem Riso Club Leipzig (Risograph Printing) sowie Prepaid Records (Dubbing). Pläne, die Tapes auch auf Vinyl zu veröffentlichen, gibt es bislang nicht. In der Pressemitteilung zum Release heißt es jedoch: "Man soll niemals nie sagen".
 
+Also: [Also lasst uns den Menschen helfen, die gerade in Berlin ankommen und diese Tapes kaufen](https://pelagic-records.com/product/pelagic-records-ukrainian-war-refugee-support-a-pelagic-compilation-2xtape/)!
+
