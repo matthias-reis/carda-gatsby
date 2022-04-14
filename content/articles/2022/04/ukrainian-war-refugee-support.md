@@ -42,14 +42,11 @@ languageLink: /2022/04/ukrainian-war-refugee-support-pelagic-en
 
 Angesichts der schrecklichen Ereignisse rund um den Krieg in Ukraine möchte das Label zusammen mit den Musiker⋆innen einen Beitrag zur Unterstützung der Menschen, die ihr Zuhause verloren haben, leisten.
 
-Pelagic wandte sich an seine Künstler⋆innen, um einen Doppel-Tape-Sampler mit exklusivem, unveröffentlichtem Material zusammenzustellen. Er ist von Hand nummeriert und auf 200 Exemplare limitiert. Wenn Ihr die haptische Version ergattern wollt, heißt es also schnell sein. Ihr könnt die Kassetten hier vorbestellen.
+Pelagic wandte sich an seine Künstler⋆innen, um einen Doppel-Tape-Sampler mit exklusivem, unveröffentlichtem Material zusammenzustellen. Er ist von Hand nummeriert und auf 200 Exemplare limitiert. Wenn Ihr die haptische Version ergattern wollt, heißt es also schnell sein. [Ihr könnt die Kassetten hier vorbestellen](https://pelagic-records.com/product/pelagic-records-ukrainian-war-refugee-support-a-pelagic-compilation-2xtape/).
 
 ## Die Einnahmen werden komplett an Ukraine Geflüchtete gespendet
 
-Die Tapes mit insgesamt 13 Songs befindet sich momentan in der Produktion und wird am 3. Juni erscheinen. Die Verkaufserlöse spendet Pelagig zu 100 Prozent an den Be An Angel e. V. Berlin, der sich dort vor Ort um die ankommenden Menschen aus Ukraine kümmert.
+Die Tapes mit insgesamt 13 Songs befindet sich momentan in der Produktion und wird am 3. Juni erscheinen. Die Verkaufserlöse spendet Pelagig zu 100 Prozent an den Be An [Angel e. V. Berlin](https://beanangel.direct/en/), der sich dort vor Ort um die ankommenden Menschen aus Ukraine kümmert.
 
 Pelagic dankt allen Künstler⋆innen sowie Philipp Welsing von Original Mastering (Mastering), Benedikt Demmer von Druckwelle Design (Artwork), dem Riso Club Leipzig (Risograph Printing) sowie Prepaid Records (Dubbing). Pläne, die Tapes auch auf Vinyl zu veröffentlichen, gibt es bislang nicht. In der Pressemitteilung zum Release heißt es jedoch: "Man soll niemals nie sagen".
 
-https://pelagic-records.com/product/pelagic-records-ukrainian-war-refugee-support-a-pelagic-compilation-2xtape/
-
-https://beanangel.direct/en/
