@@ -67,39 +67,41 @@ The names of the songs are based on the poem "Todtnauberg" by the Jewish-Romania
 
 The band turned the poem into a post-rock narrative and transposed it into our modern times. The elements from nature, which were also part of Ox en Mayo Alto's predecessors, are also an essential part of the picture again. Just like in Clan's poem:
 
-Arnica, eyebright, the
-draft from the well with the
-star dice on top,
-
-in the
-cabin,
-
-written in the book
-—whose name did it record
-before mine?—,
-in this book
-the line about
-a hope, today,
-for a thinker's
-word
-to come,
-in the heart,
-
-forest sward, unleveled,
-orchis and orchis, singly,
-
-raw exchanges, later, while driving,
-clearly,
-
-he who drives us, the human,
-he also hears it,
-
-the half-
-trod log-
-trails on the high moor,
-
-humidity,
-much.
+> ## Todtnauberg by Paul Celan
+> 
+> Arnica, eyebright, the
+> draft from the well with the
+> star dice on top,
+> 
+> in the
+> cabin,
+> 
+> written in the book
+> —whose name did it record
+> before mine?—,
+> in this book
+> the line about
+> a hope, today,
+> for a thinker's
+> word
+> to come,
+> in the heart,
+> 
+> forest sward, unleveled,
+> orchis and orchis, singly,
+> 
+> raw exchanges, later, while driving,
+> clearly,
+> 
+> he who drives us, the human,
+> he also hears it,
+> 
+> the half-
+> trod log-
+> trails on the high moor,
+> 
+> humidity,
+> much.
 
 The complete voice-over, which you will probably notice right away, comes from fragments from films by the Soviet director Andréi Tarkovsky ("Mirror, Stalker" and "Sacrifice"). All elements OEMA picked are about shaping time within a dead world.
 
