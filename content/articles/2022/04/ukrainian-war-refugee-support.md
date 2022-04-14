@@ -46,7 +46,7 @@ Pelagic wandte sich an seine Künstler⋆innen, um einen Doppel-Tape-Sampler mit
 
 ## Die Einnahmen werden komplett an Ukraine Geflüchtete gespendet
 
-Die Tapes mit insgesamt 13 Songs befindet sich momentan in der Produktion und wird am 3. Juni erscheinen. Die Verkaufserlöse spendet Pelagig zu 100 Prozent an den Be An [Angel e. V. Berlin](https://beanangel.direct/en/), der sich dort vor Ort um die ankommenden Menschen aus Ukraine kümmert.
+Die Tapes mit insgesamt 13 Songs befindet sich momentan in der Produktion und wird am 3. Juni erscheinen. Die Verkaufserlöse spendet Pelagic zu 100 Prozent an den Be An [Angel e. V. Berlin](https://beanangel.direct/en/), der sich dort vor Ort um die ankommenden Menschen aus Ukraine kümmert.
 
 Pelagic dankt allen Künstler⋆innen sowie Philipp Welsing von Original Mastering (Mastering), Benedikt Demmer von Druckwelle Design (Artwork), dem Riso Club Leipzig (Risograph Printing) sowie Prepaid Records (Dubbing). Pläne, die Tapes auch auf Vinyl zu veröffentlichen, gibt es bislang nicht. In der Pressemitteilung zum Release heißt es jedoch: "Man soll niemals nie sagen".
 
