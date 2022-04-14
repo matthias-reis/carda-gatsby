@@ -89,7 +89,6 @@ Danke an dieser Stelle an [Behindernisse](https://be-hindernisse.org/)-Gründer 
 * Prof. Dr. Hilke Elsen – "Gender – Sprache – Stereotype: Geschlechtersensibilität in Alltag und Unterricht", 1. Auflage, utb, ISBN-13: 978-3-825-25302-8
 * [Die Uni Bielefeld hat online einen Ratgeber zum Thema gendersensible Sprache bereitgestellt](https://www.uni-bielefeld.de/verwaltung/refkom/gendern/richtlinien/).
 * [Auch die TU Berlin hat einen Leitfaden für gendersensitive Sprache veröffentlicht](https://www.tu-berlin.de/fileadmin/a70100710_gleichstellung/Diversity_Allgemeines/KFG-Leitfaden_geschlechtersensible_Sprache.pdf).
-* [Hier noch ein lesenswerter Artikel zum Thema](https://www.bizeps.or.at/realität-formt-sprache-formt-realität/).
 * Falls Ihr auf der Suche nach neutralen Formulierungen seid, schaut mal im [Genderwörterbuch](https://geschicktgendern.de/) vorbei.
 
 [^1]: [Deutscher Blinden- und Sehbehindertenverband](https://bbsb.org/mitmachen-und-unterstuetzen/spenden-finanzielle-unterstutzung/trotz-sehbehinderung-mitten-im-leben-ihre-hilfe-zaehlt/)
