@@ -63,3 +63,5 @@ Die Aktion sorgt weltweit für Furore. Auf der UN Women Website kann man unter a
 Das nationale Komitee von UN Women in Deutschland ist ein gemeinnütziger Verein. Insgesamt gibt es weltweit 12 nationale Komitees. Sie unterstützen die Arbeit von UN Women und setzen sich in den verschiedenen Ländern für die Stärkung und Gleichstellung von Frauen ein und kämpft [für intersektionalen Feminismus](https://www.unwomen.org/en/news/stories/2020/6/explainer-intersectional-feminism-what-it-means-and-why-it-matters).
 
 Das Charity Armband gegen Gewalt an Frauen könnt Ihr [hier bestellen](https://www.unwomen.de/helfen/charity-armband-gegen-gewalt-an-frauen.html).
+
+[Gendersensible Sprache und Barrierefreiheit](/2022/04/gendersensible-sprache/)
