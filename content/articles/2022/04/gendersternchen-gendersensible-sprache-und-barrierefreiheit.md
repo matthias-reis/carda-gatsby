@@ -61,7 +61,7 @@ Was auf jeden Fall hilft, die derzeitige Situation zu meistern, ist der Abbau vo
 
 ## Das passiert mit dem Doppelpunkt im Screenreader
 
-Einige Screenreader lesen den Doppelpunkt vor, einige lesen ihn als Pause. Diese ist so lang, dass der Lese- bzw. Informationsfluss gebremst wird. Beim Sternchen passiert in der Regel das, was wir aus den ZDF Heute-Nachrichten kennen und gerade selbst angewöhnen: Die Betonung fällt auf den Laut hinter dem Stern. 
+Einige Screenreader lesen den Doppelpunkt vor, einige lesen ihn als Pause. Diese ist so lang, dass der Lese- bzw. Informationsfluss gebremst wird. Beim Sternchen passiert in der Regel das, was wir aus den ZDF Heute-Nachrichten kennen und uns gerade selbst angewöhnen: Die Betonung fällt auf den Laut hinter dem Stern. 
 
 **Ein Beispiel: Lehrer⋆innen**
 
