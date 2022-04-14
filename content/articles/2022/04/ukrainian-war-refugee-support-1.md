@@ -41,7 +41,7 @@ languageLink: /2022/04/ukrainian-war-refugee-support-pelagic
 
 Given the horrific events surrounding the war in Ukraine, the label wants to contribute together with the musicians to support the people who have lost their homes.
 
-Pelagic asked their artists to create a double-tape sampler of exclusive, unreleased material. It's hand-numbered and limited to 200 copies. So if you want to get your hands on the haptic version, be quick. [You can pre-order the cassettes here](https://pelagic-records.com/product/pelagic-records-ukrainian-war-refugee-support-a-pelagic-compilation-2xtape/).
+Pelagic asked their artists to create a double-tape sampler of exclusive, unreleased material. It's hand-numbered and limited to 200 copies. So if you want to get your hands on the haptic version, you've got to be quick. [You can pre-order the cassettes here](https://pelagic-records.com/product/pelagic-records-ukrainian-war-refugee-support-a-pelagic-compilation-2xtape/).
 
 ## All profits will be donated to Ukrainian Refugees
 
