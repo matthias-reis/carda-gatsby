@@ -67,7 +67,7 @@ Die Namen der Songs basieren auf dem Gedicht "Todtnauberg" des jüdisch-rumänis
 
 Aus dem Gedicht hat die Band eine Post-Rock Erzählung gemacht und es damit in unsere heutige Zeit versetzt. Die Elemente aus der Natur, die auch in Ox en Mayo Altos Vorgängern nicht zu kurz kamen, stehen auch hier wieder an erster Stelle. Genau wie in Clans Gedicht:
 
-> ## Todtnauberg von Paul Celan
+> ## "Todtnauberg" von Paul Celan
 > 
 > Arnika, Augentrost, der
 > Trunk aus dem Brunnen mit dem
