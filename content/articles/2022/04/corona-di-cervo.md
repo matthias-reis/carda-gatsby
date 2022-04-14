@@ -29,6 +29,7 @@ labels:
   - Post-Music
   - Mathcore
   - Post-Hardcore
+  - Ox en Mayo Alto
 focusKeyword: Corona di Cervo
 advertisement: false
 affiliate: false
