@@ -30,7 +30,7 @@ labels:
   - genderneutrale Sprache
   - Gender
   - Screenreader
-  - Antirassismus & Feminismus
+  - Antifaschismus & Feminismus
 focusKeyword: gendersensible Sprache
 advertisement: false
 affiliate: false
