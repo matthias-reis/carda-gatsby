@@ -5,12 +5,13 @@ typeName: Review
 title: '"Corona di Cervo"'
 subTitle: Die neue EP von Ox en Mayo Alto
 seoTitle: Ox en Mayo Alto – "Corona di Cervo" – Post-Rock Review
-description: Ox en Mayo Alto sind wieder da. Gerade haben sie die erste Single
-  ihrer am 22. April erscheinenden EP "Corona di Cervo" veröffentlichen. Das
-  Stück steigert die Vorfreude auf das Gesamtwerk.
-excerpt: Ox en Mayo Alto sind wieder da. Gerade haben sie die erste Single ihrer
-  am 22. April erscheinenden EP "Corona di Cervo" veröffentlichen. Das Stück
-  lässt tief blicken und steigert die Vorfreude auf das Gesamtwerk.
+description: Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier⋆innen
+  die erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo"
+  veröffentlicht. Das Stück steigert die Vorfreude auf das Gesamtwerk.
+excerpt: Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier⋆innen die
+  erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo"
+  veröffentlicht. Das Stück lässt tief blicken und steigert die Vorfreude auf
+  das Gesamtwerk.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-jpg-imagine-181818_535f5a_1024_768/640.webp
 copyrigt: Ox en Mayo Alto
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-fb-jpg-imagine-181818_404844_1200_628/640.webp
@@ -36,7 +37,7 @@ affiliate: false
 language: de
 languageLink: /2022/04/ox-en-mayo-alto-corona-di-cervo-en/
 ---
-**Ox en Mayo Alto sind wieder da. Gerade haben sie die erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo" veröffentlichen. Das Stück lässt tief blicken und steigert die Vorfreude auf das Gesamtwerk.**
+**Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier⋆innen die erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo" veröffentlichen. Das Stück lässt tief blicken und steigert die Vorfreude auf das Gesamtwerk.**
 
 "Corona di Cervo" erzählt, wie beim Soundkollektiv üblich, wieder eine zusammenhängende Geschichte, die sich ergibt, wenn Ihr die insgesamt fünf Songs am Stück hört. Die Stücke heißen:
 
@@ -110,7 +111,7 @@ Das Plattencover ist eine Interpretation des romantischen Ölgemäldes "Alpheus 
 
 Aufgenommen haben Ox en Mayo Alto ihre EP im November 2021 im Islandia Estudio und im Fusis Estudio im argentinischen Córdoba. Manuel Collado und Sebastián Palacios waren dabei für die Recording-Technik verantwortlich. Die Co-Produktion, den Mix und das Mastering hat Manuel Collado übernommen.
 
-Dass mir Ox en Mayo Alto "Corona di Cervo" geschenkt haben – bzw. zum Hören zur Verfügung gestellt, freut mich sehr und ich fühle mich geehrt an der musikalischen Entwicklung dieses wunderbaren Projekts teilnehmen zu dürfen. Nach ["Los famosos días de la fiebre"](/2020/09/ox-en-Mayo-alto-los-famosos-dias-de-la-fiebre-review/) und ["Mot, the Valuator, Incredible God"](/2021/09/ox-en-Mayo-alto-mot-the-valuator-incredible-god/) schlagen die Argentinier mit dieser Platte ein neues Kapitel auf. Darin erzählen sie vielleicht auch, wie es ihnen und uns allen während der weltweiten Pandemie ergangen ist (oder sollte ich vielleicht besser schreiben "ergeht"?).
+Dass mir Ox en Mayo Alto "Corona di Cervo" geschenkt haben – bzw. zum Hören zur Verfügung gestellt, freut mich sehr und ich fühle mich geehrt an der musikalischen Entwicklung dieses wunderbaren Projekts teilnehmen zu dürfen. Nach ["Los famosos días de la fiebre"](/2020/09/ox-en-Mayo-alto-los-famosos-dias-de-la-fiebre-review/) und ["Mot, the Valuator, Incredible God"](/2021/09/ox-en-Mayo-alto-mot-the-valuator-incredible-god/) schlagen die Argentinier⋆innen mit dieser Platte ein neues Kapitel auf. Darin erzählen sie vielleicht auch, wie es ihnen und uns allen während der weltweiten Pandemie ergangen ist (oder sollte ich vielleicht besser schreiben "ergeht"?).
 
 Dennoch reihen sich die fünf Stücke nicht in die lange Liste der inzwischen weit verbreiteten "Lockdown Eskapaden" ein. Ox en Mayo Alto haben wie gewohnt einen ziemlich ausgeprägten Blick fürs Detail und diesen in meinen Augen dieses Mal sogar noch ausgebaut.
 
