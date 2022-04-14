@@ -12,7 +12,7 @@ excerpt: Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier⋆innen di
   erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo"
   veröffentlicht. Das Stück lässt tief blicken und steigert die Vorfreude auf
   das Gesamtwerk.
-image: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-jpg-imagine-181818_535f5a_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-jpeg-imagine-080808_697972_700_700/640.webp
 copyrigt: Ox en Mayo Alto
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-fb-jpg-imagine-181818_404844_1200_628/640.webp
 labels:
