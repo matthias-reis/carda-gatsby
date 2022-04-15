@@ -13,7 +13,7 @@ excerpt: Pelagic Records haben mit Mono, Year Of No Light, Bruit, SOM, Årabrot,
   Psychonaut, Nyos, Shy, Low, Enphin, Blessings, Oslo Tapes, Briqueville und
   Johan G Winther einen Doppel-Tape-Sampler für die Geflüchteten aus Ukraine
   gemacht.
-image: https://storage.googleapis.com/cardamonchai-media/2022-04-14/pelagic-ukraine-jpeg-imagine-d8d8d8_9fa08e_701_800/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2022-04-15/pelagic-ukrainian-war-refugee-support-jpg-imagine-181818_6e6f63_1024_768/640.webp
 copyrigt: Pelagic Records
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ukrainian-war-refugee-support-pelagic-fb-png-imagine-e8f8f8_9aa286_1200_628/640.webp
 labels:
