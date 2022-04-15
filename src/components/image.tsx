@@ -6,6 +6,7 @@ type ImageCmp = React.FC<{
   src: string;
   alt: string;
   size: 8 | 13 | 21 | 34;
+  lazy?: boolean;
 }>;
 
 type ImageMeta = {
@@ -15,7 +16,7 @@ type ImageMeta = {
   color2: string;
 };
 
-export const Image: ImageCmp = ({ src, size, ...props }) => {
+export const Image: ImageCmp = ({ src, size, lazy = true, ...props }) => {
   const img = new Imagine(src);
   const { width, height, color1, color2 } = img.meta;
   const sizes = `(min-width: 34rem) and (-webkit-min-device-pixel-ratio: 2) ${
@@ -34,7 +35,13 @@ export const Image: ImageCmp = ({ src, size, ...props }) => {
       <Picture>
         <source type="image/webp" srcSet={img.webpSrcSet} sizes={sizes} />
         <source type="image/jpeg" srcSet={img.jpegSrcSet} sizes={sizes} />
-        <Img {...props} loading="lazy" src={img.previewUrl} />
+        <Img
+          {...props}
+          loading="lazy"
+          src={img.previewUrl}
+          width={width}
+          height={height}
+        />
       </Picture>
     </ImageContainer>
   );
@@ -47,6 +54,7 @@ const Picture = styled.picture`
 
 const Img = styled.img`
   width: 100%;
+  height: auto;
   display: block;
 `;
 
