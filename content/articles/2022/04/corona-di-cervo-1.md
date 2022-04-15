@@ -37,7 +37,7 @@ affiliate: false
 language: en
 languageLink: /2022/04/ox-en-mayo-alto-corona-di-cervo/
 ---
-**Ox en Mayo Alto are back. They have just released the first single from their EP "Corona di Cervo", which will be out on 22 April. The first track provides deep insights taking their fans' curiosity for the complete work to the extreme.**
+**Ox en Mayo Alto are back. They have just released the first single from their EP "Corona di Cervo", which will be out on April 22nd. The first track provides deep insights taking their fans' curiosity for the complete work to the extreme.**
 
 "Corona di Cervo" again tells a coherent story that emerges when you listen to the total of five songs in one piece. This is how we know and love the sound collective. The tracks are called:
 
