@@ -64,7 +64,7 @@ Die Feuerwear Accessoires begleiten Euch überall hin. Egal, ob Ihr auf matschig
 
 Alle Teile von Feuerwear sind Einzelstücke. Mit den unterschiedlichen Aufdrucken und Spuren aus ihrem ersten Leben erzählen sie alle ihre ganz eigene Geschichte. Falls Ihr noch mehr über die tollen Upcycling-Taschen wissen wollt, [findet Ihr hier im Blog so einiges](/tag/feuerwear/). Das Unternehmen gibt es inzwischen übrigens schon [seit 15 Jahren](/2020/10/15-jahre-feuerwehr/).
 
-## \[⋆] An der Feuerwear-Verlosung teilnehmen
+## An der Feuerwear-Verlosung teilnehmen
 
 Ihr habt genug gelesen und möchtet das tolle Portemonnaie-Pärchen gerne gewinnen? Nichts leichter als das! Sendet einfach **bis einschließlich 13. Februar 2020** eine E-Mail mit dem Betreff "Valentins-Paar" an [anne.reis@cardamonchai.com](mailto:anne.reis@cardamonchai.com). Ihr könnt nur einmal teilnehmen. Alle E-Mails mit dem richtigen Betreff landen automatisch im Lostopf. Der⋆die Gewinner⋆in wird am Morgen des 14. Februar gezogen. Das Los entscheidet. Am Tag der Liebe erwartet Euch also vielleicht eine schöne Überraschung. Behaltet also am besten Euren E-Mail-Posteingang im Blick.
 
