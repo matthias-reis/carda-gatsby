@@ -67,6 +67,9 @@ Auch um die Verkehrssicherheit hat sich Feuerwear Gedanken gemacht. Vorne und an
 
 Ich weiß nicht, ob Ihr das auch kennt: bei einer früheren Packtasche musste ich beim Radfahren immer aufpassen, dass ich nicht mit der Ferse an die Tasche stoße. Bei "Sam" passiert mir das nicht. Die Tasche ist bei einer Tiefe von 13 Zentimetern lediglich 35 cm breit und kommt so während der Fahrt nicht mal in die Nähe meiner Schuhe. Geräumiger als meine Vorgängerin ist sie dennoch. Je nachdem, wie Ihr das Rolltop einstellt, kommt Ihr auf bis zu 55 cm Höhe. Zwei Aktenordner oder ein 17-Zoll-Notebook bekommt Ihr bequem darin unter – plus Lunchbox, Regenkleidung und Kleinkram wie Schlüssel etc.
 
+<Gallery name="feuerwear-fahrradtaschen-1" />
+
+
 ## Sofort einsatzbereit
 
 Mit dem praktischen Innenfach könnt Ihr Dinge wie Ladekabel und Smartphone problemlos von größeren Gepäckstücken getrennt transportieren und findet sie sofort, wenn Ihr in die Tasche greift. Außen gibt es außerdem noch einen Splash-Reißverschluss. Ich habe dieses Fach für meinen Schlüssel auserkoren.
@@ -84,5 +87,7 @@ Im Rahmen der Pressevorstellung habe ich Feuerwear[^1] Gründer Martin ein paar 
 Ihr habt genug gelesen und möchtet die tolle neue Fahrradtasche "Sam" von Feuerwear gerne gewinnen? Dann versucht doch Euer Glück! Sendet einfach bis einschließlich 26. April 2022 eine E-Mail mit dem Betreff "Fahrradtasche" an anne.reis@cardamonchai.com. Ihr könnt nur einmal teilnehmen. Alle E-Mails mit dem richtigen Betreff landen automatisch im Lostopf. Der⋆die Gewinner⋆in wird am Morgen des 26. April gezogen. Das Los entscheidet. Ihr werdet dann per E-Mail informiert, ob Ihr gewonnen habt. Behaltet also am besten Euren E-Mail-Posteingang im Blick. Der⋆die Gewinnerin erhält einen Gutscheincode für eine "Sam" und kann sich dann direkt im  Onlineshop von Feuerwear sein⋆ihr Lieblings-Einzelstück aussuchen. Ich wünsche Euch viel Glück!
 
 [Hier geht es zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/).
+
+<Gallery name="feuerwear-fahrradtaschen-2" />
 
 [^1]: [Fahrradtasche "Sam" auf der Feuewear Homepage](https://www.feuerwear.de/taschen-aus-feuerwehrschlauch/fahrradtasche-sam)
