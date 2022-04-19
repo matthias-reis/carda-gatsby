@@ -7,12 +7,12 @@ subTitle: " Sam kommt mit Klickfix-System"
 seoTitle: Vegane, nachhaltige Fahrradtaschen von Feuerwear
 description: "Jetzt ist es endlich offiziell: Von Feuerwear gibt es ab sofort
   auch vegane, nachhaltige Fahrradtaschen! Hergestellt werden sie, wie alles von
-  Feuerwear, aus ausgemusterten Fahrradschläuchen."
+  Feuerwear, aus ausgemusterten Feuerwehrschläuchen."
 excerpt: 'Jetzt ist es endlich offiziell: Von Feuerwear gibt es ab sofort auch
   vegane, nachhaltige Fahrradtaschen! Hergestellt werden sie, wie alles von
-  Feuerwear, aus ausgemusterten Fahrradschläuchen. Jedes Stück ist wie immer ein
-  Unikat. Der Clou: Die Tasche "Sam" ist sogar mit Klickfix-System für bequemes
-  und einfaches Anbringen am Gepäckträger ausgestattet!'
+  Feuerwear, aus ausgemusterten Feuerwehrschläuchen. Jedes Stück ist wie immer
+  ein Unikat. Der Clou: Die Tasche "Sam" ist sogar mit Klickfix-System für
+  bequemes und einfaches Anbringen am Gepäckträger ausgestattet!'
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-19/2022-04-19-feuerwehr-fahrradtasche-nachhaltig-16-jpg-imagine-f8f8f8_7e795a_2048_1536/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-19/feuerwehr-fahrradtasche-fb-jpeg-imagine-181818_7e734f_1200_628/640.webp
@@ -41,17 +41,17 @@ advertisement: true
 affiliate: false
 language: de
 ---
-**Jetzt ist es endlich offiziell: Von Feuerwear gibt es ab sofort auch vegane, nachhaltige Fahrradtaschen! Hergestellt werden sie, wie alles von Feuerwear, aus ausgemusterten Fahrradschläuchen. Jedes Stück ist wie immer ein Unikat, denn jeder Zentimeter Schlauch ist anders. Der Clou: Die Tasche "Sam" ist sogar mit Klickfix-System für bequemes und einfaches Anbringen am Gepäckträger ausgestattet!**
+**Jetzt ist es endlich offiziell: Von Feuerwear gibt es ab sofort auch vegane, nachhaltige Fahrradtaschen! Hergestellt werden sie, wie alles von Feuerwear, aus ausgemusterten Feuerwehrschläuchen. Jedes Stück ist wie immer ein Unikat, denn jeder Zentimeter Schlauch ist anders. Der Clou: Die Tasche "Sam" ist sogar mit Klickfix-System für bequemes und einfaches Anbringen am Gepäckträger ausgestattet!**
 
 ---
 
-**Hinweis:** Wenn Ihr eine nachhaltige, vegane Fahrradtasche "Sam" von Feuerwehr gewinnen wollt, schaut mal weiter unten nach. Ich verlose nämlich eine![^1]
+**Hinweis:** Wenn Ihr eine nachhaltige, vegane Fahrradtasche "Sam" von Feuerwear gewinnen wollt, schaut mal weiter unten nach. Ich verlose nämlich eine![^1]
 
 ---
 
-Als sich Martin von Feuerwehr bei mir meldete und mir die gute Nachricht mitteilte, war ich ganz aus dem Häuschen. Und ob ich mir die neue Fahrradtasche aus recycelten Feuerwehrschläuchen anschauen wollte! Schließlich hatte ich mir insgeheim schon immer eine von Feuerwehr gewünscht!
+Als sich Martin von Feuerwear bei mir meldete und mir die gute Nachricht mitteilte, war ich ganz aus dem Häuschen. Und ob ich mir die neue Fahrradtasche aus recycelten Feuerwehrschläuchen anschauen wollte! Schließlich hatte ich mir insgeheim schon immer eine von Feuerwear gewünscht!
 
-Beim Pressetermin und meinem anschließenden Praxistest auf den letzten beiden Fahrradtouren war ich dann restlos begeistert. Ich muss sagen: Ich kann "Sam" wirklich sehr empfehlen. Was mir besonders gut gefällt, ist die hochwertige Verarbeitung. Außerdem hat Feuerwehr die Tasche mal wieder genau durchdacht: Es ist einfach jede Funktion dabei, die ich mir von einer Fahrradtasche wünsche – inklusive Klickfix-Befestigung! Und die rockt so richtig. Wenn Ihr die Halterung einmal eingestellt habt (das geht ganz leicht mithilfe eines Kreuzschraubendrehers), könnt Ihr "Sam" ganz leicht an Eurem Gepäckträger befestigen. Ihr braucht dazu auch keine zusätzliche Halterung oder ähnliches – lediglich einen handelsüblichen Gepäckträger an Eurem Bike.
+Beim Pressetermin und meinem anschließenden Praxistest auf den letzten beiden Fahrradtouren war ich dann restlos begeistert. Ich muss sagen: Ich kann "Sam" wirklich sehr empfehlen. Was mir besonders gut gefällt, ist die hochwertige Verarbeitung. Außerdem hat Feuerwear die Tasche mal wieder genau durchdacht: Es ist einfach jede Funktion dabei, die ich mir von einer Fahrradtasche wünsche – inklusive Klickfix-Befestigung! Und die rockt so richtig. Wenn Ihr die Halterung einmal eingestellt habt (das geht ganz leicht mithilfe eines Kreuzschraubendrehers), könnt Ihr "Sam" ganz leicht an Eurem Gepäckträger befestigen. Ihr braucht dazu auch keine zusätzliche Halterung oder ähnliches – lediglich einen handelsüblichen Gepäckträger an Eurem Bike.
 
 ## Praktischer Tragegurt und Klickfix-System
 
@@ -81,6 +81,6 @@ Im Rahmen der Pressevorstellung habe ich Feuerwear Gründer Martin ein paar Frag
 
 ## [^1] An der Feuerwear-Verlosung teilnehmen
 
-Ihr habt genug gelesen und möchtet die tolle neue Fahrradtasche "Sam" von Feuerwehr gerne gewinnen? Dann versucht doch Euer Glück! Sendet einfach bis einschließlich 26. April 2022 eine E-Mail mit dem Betreff "Fahrradtasche" an anne.reis@cardamonchai.com. Ihr könnt nur einmal teilnehmen. Alle E-Mails mit dem richtigen Betreff landen automatisch im Lostopf. Der⋆die Gewinner⋆in wird am Morgen des 26. April gezogen. Das Los entscheidet. Ihr werdet dann per E-Mail informiert, ob Ihr gewonnen habt. Behaltet also am besten Euren E-Mail-Posteingang im Blick. Der⋆die Gewinnerin erhält einen Gutscheincode für eine "Sam" und kann sich dann direkt im  Onlineshop von Feuerwear sein⋆ihr Lieblings-Einzelstück aussuchen. Ich wünsche Euch viel Glück!
+Ihr habt genug gelesen und möchtet die tolle neue Fahrradtasche "Sam" von Feuerwear gerne gewinnen? Dann versucht doch Euer Glück! Sendet einfach bis einschließlich 26. April 2022 eine E-Mail mit dem Betreff "Fahrradtasche" an anne.reis@cardamonchai.com. Ihr könnt nur einmal teilnehmen. Alle E-Mails mit dem richtigen Betreff landen automatisch im Lostopf. Der⋆die Gewinner⋆in wird am Morgen des 26. April gezogen. Das Los entscheidet. Ihr werdet dann per E-Mail informiert, ob Ihr gewonnen habt. Behaltet also am besten Euren E-Mail-Posteingang im Blick. Der⋆die Gewinnerin erhält einen Gutscheincode für eine "Sam" und kann sich dann direkt im  Onlineshop von Feuerwear sein⋆ihr Lieblings-Einzelstück aussuchen. Ich wünsche Euch viel Glück!
 
 [Hier geht es zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/).
