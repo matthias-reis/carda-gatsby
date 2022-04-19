@@ -90,4 +90,4 @@ Ihr habt genug gelesen und möchtet die tolle neue Fahrradtasche "Sam" von Feuer
 
 <Gallery name="feuerwear-fahrradtaschen-2" />
 
-[^1]: [Fahrradtasche "Sam" auf der Feuewear Homepage](https://www.feuerwear.de/taschen-aus-feuerwehrschlauch/fahrradtasche-sam)
+[^1]: [Fahrradtasche "Sam" auf der Feuerwear Homepage](https://www.feuerwear.de/taschen-aus-feuerwehrschlauch/fahrradtasche-sam)
