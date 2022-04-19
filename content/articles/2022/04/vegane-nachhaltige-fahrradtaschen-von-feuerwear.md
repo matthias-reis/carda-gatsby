@@ -85,4 +85,4 @@ Ihr habt genug gelesen und möchtet die tolle neue Fahrradtasche "Sam" von Feuer
 
 [Hier geht es zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/).
 
-[^1]: Feuewear Homepage
+[^1]: [Fahrradtasche "Sam" auf der Feuewear Homepage](https://www.feuerwear.de/taschen-aus-feuerwehrschlauch/fahrradtasche-sam)
