@@ -63,7 +63,7 @@ Sicher habt Ihr auf den Bildern schon gesehen, dass die Tasche nicht komplett au
 
 Insgesamt bringt Ihr in der Fahrradtasche bis zu 19 Litern Gepäck unter. Für Eure Touren habt Ihr mit Sam also einen voluminösen Begleiter – der trotzdem ziemlich schlank und elegant am Fahrrad hängt. Durch das Rolltop mit dem praktischen Reißverschluss, das Ihr auch schon von [Rucksack "Eddie"](/2019/11/eddie-mein-neuer-rolltop-rucksack-von-feuerwear/) und von [Tasche "Ed"](/2021/10/feuerwear-rolltop-tasche-ed/) kennt, könnt Ihr die Innenmaße flexibel anpassen.
 
-Auch um die Verkehrssicherheit hat sich Feuerwear Gedanken gemacht. An der Front und an den Seiten findet Ihr dezente Reflektorstreifen, die im ersten Moment nicht wirklich auffallen, auf abendlichen Straßen dafür aber richtig gut zu sehen sind.
+Auch um die Verkehrssicherheit hat sich Feuerwear Gedanken gemacht. Vorne und an den Seiten findet Ihr dezente Reflektorstreifen, die im ersten Moment nicht wirklich auffallen, auf abendlichen Straßen dafür aber richtig gut zu sehen sind.
 
 Ich weiß nicht, ob Ihr das auch kennt: bei einer früheren Packtasche musste ich beim Radfahren immer aufpassen, dass ich nicht mit der Ferse an die Tasche stoße. Bei "Sam" passiert mir das nicht. Die Tasche ist bei einer Tiefe von 13 Zentimetern lediglich 35 cm breit und kommt so während der Fahrt nicht mal in die Nähe meiner Schuhe. Geräumiger als meine Vorgängerin ist sie dennoch. Je nachdem, wie Ihr das Rolltop einstellt, kommt Ihr auf bis zu 55 cm Höhe. Zwei Aktenordner oder ein 17-Zoll-Notebook bekommt Ihr bequem darin unter – plus Lunchbox, Regenkleidung und Kleinkram wie Schlüssel etc.
 
