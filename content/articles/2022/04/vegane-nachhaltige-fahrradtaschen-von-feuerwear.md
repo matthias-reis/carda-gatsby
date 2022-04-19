@@ -67,7 +67,7 @@ Auch um die Verkehrssicherheit hat sich Feuerwear Gedanken gemacht. Vorne und an
 
 Ich weiß nicht, ob Ihr das auch kennt: bei einer früheren Packtasche musste ich beim Radfahren immer aufpassen, dass ich nicht mit der Ferse an die Tasche stoße. Bei "Sam" passiert mir das nicht. Die Tasche ist bei einer Tiefe von 13 Zentimetern lediglich 35 cm breit und kommt so während der Fahrt nicht mal in die Nähe meiner Schuhe. Geräumiger als meine Vorgängerin ist sie dennoch. Je nachdem, wie Ihr das Rolltop einstellt, kommt Ihr auf bis zu 55 cm Höhe. Zwei Aktenordner oder ein 17-Zoll-Notebook bekommt Ihr bequem darin unter – plus Lunchbox, Regenkleidung und Kleinkram wie Schlüssel etc.
 
-<Gallery name="feuerwear-fahrradtaschen-1" />
+<Gallery name="feuerwear-fahrradtasche-1" />
 
 
 ## Sofort einsatzbereit
@@ -88,6 +88,6 @@ Ihr habt genug gelesen und möchtet die tolle neue Fahrradtasche "Sam" von Feuer
 
 [Hier geht es zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/).
 
-<Gallery name="feuerwear-fahrradtaschen-2" />
+<Gallery name="feuerwear-fahrradtasche-2" />
 
 [^1]: [Fahrradtasche "Sam" auf der Feuerwear Homepage](https://www.feuerwear.de/taschen-aus-feuerwehrschlauch/fahrradtasche-sam)
