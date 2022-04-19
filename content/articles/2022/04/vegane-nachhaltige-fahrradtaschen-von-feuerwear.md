@@ -69,7 +69,7 @@ Ich weiß nicht, ob Ihr das auch kennt: bei einer früheren Packtasche musste ic
 
 ## Sofort einsatzbereit
 
-Mit dem praktischen Innenfach könnt Ihr Dinge wie Euere Ladekabel und Smartphone problemlos von größeren Gepäckstücken getrennt transportieren und findet sie sofort, wenn Ihr in die Tasche greift. Außen gibt es außerdem noch einen Splash-Reißverschluss. Ich habe dieses Fach für meinen Schlüssel auserkoren.
+Mit dem praktischen Innenfach könnt Ihr Dinge wie Eure Ladekabel und Smartphone problemlos von größeren Gepäckstücken getrennt transportieren und findet sie sofort, wenn Ihr in die Tasche greift. Außen gibt es außerdem noch einen Splash-Reißverschluss. Ich habe dieses Fach für meinen Schlüssel auserkoren.
 
 Mit dem Klickfix-System kommen die meisten Gepäckträger klar. Ihr braucht wie gesagt nur einmal den Befestigungshaken an der Tasche einstellen, dann ist sie bis Ihr das nächste Mal das Bike wechselt, einsatzbereit. In ein bis zehn Sekunden hängt die Tasche am Träger und es kann losgehen. An der Kompaktschiene findet Ihr für besonders sicheren Halt zwei verstellbare, schwarze Haken und den charakteristischen roten Klickfix-Sicherheitsbügel. Beim Einhängen einfach kurz klicken und ab geht die Post. Übrigens habe ich das auch gleich mal im Gelände getestet – da wackelt oder schuckelt gar nichts. "Sam" sitzt fest und hat meine Kameraausrüstung heil wieder nach Hause gebracht. Da fällt mir gerade noch ein: Das Klickfix-System ist bei Gepäckträgerstangen von acht bis 16 Millimetern für stolze 8,5 Kilogramm Zuladung ausgelegt. Da müsste ich schon einige Kameras mitnehmen, um das komplett auszureizen.
 
