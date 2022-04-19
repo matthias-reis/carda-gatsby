@@ -45,7 +45,7 @@ language: de
 
 ---
 
-**Hinweis:** Wenn Ihr eine nachhaltige, vegane Fahrradtasche "Sam" von Feuerwehr gewinnen wollt, schaut mal weiter unten nach. Ich verlose nämlich eine![^⋆]
+**Hinweis:** Wenn Ihr eine nachhaltige, vegane Fahrradtasche "Sam" von Feuerwehr gewinnen wollt, schaut mal weiter unten nach. Ich verlose nämlich eine![^1]
 
 ---
 
@@ -79,7 +79,7 @@ Einen weiteren Bonus und einen echter Pluspunkt gegenüber anderen Fahrradtasche
 
 Im Rahmen der Pressevorstellung habe ich Feuerwear Gründer Martin ein paar Fragen gestellt. Unter anderem konnte er mir versichern, dass das Material komplett vegan-freundlich ist. Bei der Herstellung wurde also auch kein nicht-veganer Kleber oder ähnliches verwendet.
 
-## [^⋆] An der Feuerwear-Verlosung teilnehmen
+## [^1] An der Feuerwear-Verlosung teilnehmen
 
 Ihr habt genug gelesen und möchtet die tolle neue Fahrradtasche "Sam" von Feuerwehr gerne gewinnen? Dann versucht doch Euer Glück! Sendet einfach bis einschließlich 26. April 2022 eine E-Mail mit dem Betreff "Fahrradtasche" an anne.reis@cardamonchai.com. Ihr könnt nur einmal teilnehmen. Alle E-Mails mit dem richtigen Betreff landen automatisch im Lostopf. Der⋆die Gewinner⋆in wird am Morgen des 26. April gezogen. Das Los entscheidet. Ihr werdet dann per E-Mail informiert, ob Ihr gewonnen habt. Behaltet also am besten Euren E-Mail-Posteingang im Blick. Der⋆die Gewinnerin erhält einen Gutscheincode für eine "Sam" und kann sich dann direkt im  Onlineshop von Feuerwear sein⋆ihr Lieblings-Einzelstück aussuchen. Ich wünsche Euch viel Glück!
 
