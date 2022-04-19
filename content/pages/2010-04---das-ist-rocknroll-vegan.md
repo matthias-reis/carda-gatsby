@@ -7,7 +7,7 @@ fileName: 2010-04---das-ist-rocknroll-vegan.md
 description: Wer schon immer mal einen Blick hinter die Kulissen von Anne bloggt cardamonchai werfen wollte, hat hier die Chance, mehr über meine Arbeit zu erfahren.
 excerpt: Wer schon immer mal einen Blick hinter die Kulissen von Anne bloggt cardamonchai werfen wollte, hat hier die Chance, mehr über meine Arbeit zu erfahren.
 focusKeyword: cardamonchai
-labels: null
+labels: []
 type: null
 typeName: Artikel
 date: 2010-04-16T05:41:39.000Z

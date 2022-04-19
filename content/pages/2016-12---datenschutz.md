@@ -10,8 +10,8 @@ description: Datenschutzerklärung – Anne bloggt  cardamonchai.com – Rock '
   Umfang verarbeiten.
 excerpt: ''
 focusKeyword: ''
-labels: 
-type: 
+labels: []
+type: null
 typeName: Artikel
 date: 2016-12-07T22:12:28.000+00:00
 status: publish

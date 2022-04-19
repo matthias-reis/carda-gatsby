@@ -7,7 +7,7 @@ fileName: 2011-05---interview-mit-anne.md
 description: Wie ich auf die Idee gekommen bin, ein Blog zu führen und wer eigentlich die Interessanten sind, erfahrt Ihr im Interview mit Anne.
 excerpt: Wie ich auf die Idee gekommen bin, ein Blog zu führen und wer eigentlich die Interessanten sind, erfahrt Ihr im Interview mit Anne.
 focusKeyword: Anne
-labels: null
+labels: []
 type: null
 typeName: Artikel
 date: 2011-05-31T10:26:22.000Z

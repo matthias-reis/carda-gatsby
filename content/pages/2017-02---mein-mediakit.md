@@ -7,7 +7,7 @@ fileName: 2017-02---mein-mediakit.md
 description: Da ich in letzter Zeit immer wieder nach meinem Mediakit gefragt werde, habe ich mir jetzt mal die Zeit genommen und alle wichtigen Daten zusammengefasst.
 excerpt: Da ich in letzter Zeit immer wieder nach meinem Mediakit gefragt werde, habe ich mir jetzt mal die Zeit genommen und alle wichtigen Daten zusammengefasst.
 focusKeyword: Rock 'n' Roll vegan – Mein Mediakit
-labels: null
+labels: []
 type: null
 typeName: Artikel
 date: 2017-02-15T17:01:30.000Z

@@ -7,7 +7,7 @@ fileName: 2017-06---teilnahmebedingungen.md
 description: 'Mit Deiner Teilnahme an einer Verlosung bzw. an einem Gewinnspiel erklärst Du Dich mit den nachstehenden Bedingungen einverstanden:'
 excerpt: 'Mit Deiner Teilnahme an einer Verlosung bzw. an einem Gewinnspiel erklärst Du Dich mit den nachstehenden Bedingungen einverstanden:'
 focusKeyword: Teilnahmebedingungen
-labels: null
+labels: []
 type: null
 typeName: Artikel
 date: 2017-06-21T11:20:26.000Z

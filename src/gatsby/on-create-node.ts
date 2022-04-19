@@ -112,7 +112,7 @@ export const onCreateNode = async ({
         value: month,
       });
     } else if (type === 'page') {
-      path = `/${slug}`;
+      path = node?.frontmatter?.path || `/${slug}/`;
     }
 
     createNodeField({
