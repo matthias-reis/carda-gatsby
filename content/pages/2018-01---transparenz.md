@@ -2,7 +2,7 @@
 title: Transparenz
 seoTitle: Transparenz - Werbung und Kennzeichnung in meinem Blog
 slug: transparenz
-path: '/werbung/'
+path: '/transparenz/'
 fileName: 2018-01---transparenz.md
 description: Tranzparenz ist heutzutage das A und O im Internet. Vor allem beim Bloggen. Auch mir ist Offenheit wichtig. Darum kennzeichne ich Werbung auch als solche.
 excerpt: Tranzparenz ist heutzutage das A und O im Internet. Vor allem beim Bloggen. Auch mir ist Offenheit wichtig. Darum kennzeichne ich Werbung auch als solche.
