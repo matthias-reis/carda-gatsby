@@ -55,7 +55,7 @@ Beim Pressetermin und meinem anschließenden Praxistest auf den letzten beiden F
 
 ## Praktischer Tragegurt und Klickfix-System
 
-Ein weiteres Highlight ist für mich auf jeden Fall der praktische Schulterriemen, der jeder "Sam" beiliegt. Ihr könnt ihn mittels zweier praktischer Karabiner an der Fahrradtasche befestigen und sie damit ganz bequem vom Fahrradständer ins Büro oder Café transportieren. Wenn es mal schneller gehen muss, gibt es auch zwei kürzere Tragegriffe. Damit könnt sie auch wunderbar mal von Hand transportieren.
+Ein weiteres Highlight ist für mich auf jeden Fall der praktische Schulterriemen, der jeder "Sam" beiliegt. Ihr könnt ihn mittels zweier praktischer Karabiner an der Fahrradtasche befestigen und sie damit ganz bequem vom Fahrradständer ins Büro oder Café transportieren. Wenn es mal schneller gehen muss, gibt es auch zwei kürzere Tragegriffe. Damit könnt Ihr sie auch wunderbar mal von Hand transportieren.
 
 Sicher habt Ihr auf den Bildern schon gesehen, dass die Tasche nicht komplett aus Schlauchmaterial besteht. Neben dem Hauptstoff ist auch Gewebe aus recycelten PET-Flaschen verarbeitet – das macht "Sam" nicht nur besonders robust, sondern auch flexibel und, wie ich finde, ziemlich stylisch. Oder, was meint Ihr?
 
