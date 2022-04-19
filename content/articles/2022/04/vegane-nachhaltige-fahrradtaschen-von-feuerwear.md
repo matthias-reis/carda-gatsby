@@ -45,7 +45,7 @@ language: de
 
 ---
 
-**Hinweis:** Wenn Ihr eine nachhaltige, vegane Fahrradtasche "Sam" von Feuerwear gewinnen wollt, schaut mal weiter unten nach. Ich verlose nämlich eine![^1]
+**Hinweis:** Wenn Ihr eine nachhaltige, vegane Fahrradtasche "Sam" von Feuerwear gewinnen wollt, schaut mal weiter unten nach. Ich verlose nämlich eine!⋆
 
 ---
 
@@ -77,10 +77,12 @@ Mit dem Klickfix-System kommen die meisten Gepäckträger klar. Ihr braucht wie 
 
 Einen weiteren Bonus und einen echter Pluspunkt gegenüber anderen Fahrradtaschen möchte ich Euch nicht vorenthalten: Sollte es mal extrem nass oder matschig werden, zieht Ihr einfach die mitgelieferte Regenhülle über. Die findet Ihr in einer kleinen Seitentasche, die über einen Reißverschluss zu erreichen ist.
 
-Im Rahmen der Pressevorstellung habe ich Feuerwear Gründer Martin ein paar Fragen gestellt. Unter anderem konnte er mir versichern, dass das Material komplett vegan-freundlich ist. Bei der Herstellung wurde also auch kein nicht-veganer Kleber oder ähnliches verwendet.
+Im Rahmen der Pressevorstellung habe ich Feuerwear[^1] Gründer Martin ein paar Fragen gestellt. Unter anderem konnte er mir versichern, dass das Material komplett vegan-freundlich ist. Bei der Herstellung wurde also auch kein nicht-veganer Kleber oder ähnliches verwendet.
 
-## [^1] An der Feuerwear-Verlosung teilnehmen
+## ⋆An der Feuerwear-Verlosung teilnehmen
 
 Ihr habt genug gelesen und möchtet die tolle neue Fahrradtasche "Sam" von Feuerwear gerne gewinnen? Dann versucht doch Euer Glück! Sendet einfach bis einschließlich 26. April 2022 eine E-Mail mit dem Betreff "Fahrradtasche" an anne.reis@cardamonchai.com. Ihr könnt nur einmal teilnehmen. Alle E-Mails mit dem richtigen Betreff landen automatisch im Lostopf. Der⋆die Gewinner⋆in wird am Morgen des 26. April gezogen. Das Los entscheidet. Ihr werdet dann per E-Mail informiert, ob Ihr gewonnen habt. Behaltet also am besten Euren E-Mail-Posteingang im Blick. Der⋆die Gewinnerin erhält einen Gutscheincode für eine "Sam" und kann sich dann direkt im  Onlineshop von Feuerwear sein⋆ihr Lieblings-Einzelstück aussuchen. Ich wünsche Euch viel Glück!
 
 [Hier geht es zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/).
+
+[^1]: Feuewear Homepage
