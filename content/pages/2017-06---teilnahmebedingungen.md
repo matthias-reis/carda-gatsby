@@ -24,9 +24,8 @@ subTitle: Teilnahmebedingungen bei Verlosungen
 
 Mit Deiner Teilnahme an einer Verlosung bzw. an einem Gewinnspiel auf Anne bloggt cardamonchai - Rock'n'Roll vegan unter [cardamonchai.com](), Facebook oder Instagram erklärst Du Dich mit den nachstehenden Bedingungen einverstanden:
 
-<div class="entry-content">
-<div class="pf-content">
 ## § 1 Teilnahme
+
 (1) Teilnahmeberechtigt sind ausschließlich volljährige Personen die Ihren Wohnsitz in Deutschland haben.
 
 (2) Eine Person nimmt am Gewinnspiel teil, indem sie die Gewinnspielfrage beantwortet und die richtige Antwort im Betreff einer E-Mail an [anne.reis@cardamonchai.com](mailto:anne.reis@cardamonchai.com) schickt. Bei mehreren richtigen Einsendungen entscheidet das Los.
@@ -86,6 +85,3 @@ Anne bloggt cardamonchai - Rock'n'Roll veganbehält sich ausdrücklich vor, das 
 (4) Sollten einzelne dieser Bestimmungen ungültig sein oder werden, bleibt die Gültigkeit der übrigen Nutzungsbedingungen hiervon unberührt.
 
 (5) Diese Nutzungsbedingungen können jederzeit von Anne bloggt cardamonchai - Rock'n'Roll vegan ohne gesonderte Benachrichtigung geändert werden.
-
-</div>
-</div>
