@@ -61,7 +61,7 @@ Sicher habt Ihr auf den Bildern schon gesehen, dass die Tasche nicht komplett au
 
 ## Flexible Innenmaße
 
-Insgesamt bringt Ihr in der Fahrradtasche bis zu 19 Litern Gepäck unter. Für Eure Touren habt Ihr mit Sam also einen voluminösen Begleiter – der trotzdem ziemlich schlank und elegant am Fahrrad hängt. Durch Rolltop mit dem praktischen Reißverschluss, das Ihr auch schon von [Rucksack "Eddie"](/2019/11/eddie-mein-neuer-rolltop-rucksack-von-feuerwear/) und von [Tasche "Ed"](/2021/10/feuerwear-rolltop-tasche-ed/) kennt, könnt Ihr die Innenmaße flexibel anpassen.
+Insgesamt bringt Ihr in der Fahrradtasche bis zu 19 Litern Gepäck unter. Für Eure Touren habt Ihr mit Sam also einen voluminösen Begleiter – der trotzdem ziemlich schlank und elegant am Fahrrad hängt. Durch das Rolltop mit dem praktischen Reißverschluss, das Ihr auch schon von [Rucksack "Eddie"](/2019/11/eddie-mein-neuer-rolltop-rucksack-von-feuerwear/) und von [Tasche "Ed"](/2021/10/feuerwear-rolltop-tasche-ed/) kennt, könnt Ihr die Innenmaße flexibel anpassen.
 
 Auch um die Verkehrssicherheit hat sich Feuerwear Gedanken gemacht. An der Front und an den Seiten findet Ihr dezente Reflektorstreifen, die im ersten Moment nicht wirklich auffallen, auf abendlichen Straßen dafür aber richtig gut zu sehen sind.
 
