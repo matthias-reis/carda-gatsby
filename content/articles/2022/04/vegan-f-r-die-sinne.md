@@ -75,7 +75,7 @@ Lena Marie Radu traf 2014 die Entscheidung, fortan vegan zu leben. Ein Jahr lang
 
 2015 war es dann so weit und Lena Marie eröffnete ihre eigene vegane Kochschule "Veganesha". Dort erklärt sie ihren Schüler⋆innen, wie das Kochen mit ausschließlich pflanzlichen Zutaten funktioniert, liefert Tipps und gibt auch immer wieder mal das ein oder andere Geheimnis aus ihrer Erfahrung in der veganen Kulinarik preis.
 
-Zudem bietet sie vegane Caterings an, bei der sie ihre Gäste mit schmackhafter Feinkost verwöhnt. Während ihrer eigenen Schwangerschaft wurden für die Köchin außerdem die Themen vegane Schwangerschaft, vegane Stillzeit und vegane Kinder zur Herzensangelegenheit. Aus diesem Grund schloss sie auch eine Ausbildung zur veganen Ernährungsberaterin bei der Ecodemy[^1]  ab.
+Zudem bietet sie vegane Caterings an, bei denen sie ihre Gäste mit schmackhafter Feinkost verwöhnt. Während ihrer eigenen Schwangerschaft wurden für die Köchin außerdem die Themen vegane Schwangerschaft, vegane Stillzeit und vegane Kinder zur Herzensangelegenheit. Aus diesem Grund schloss sie auch eine Ausbildung zur veganen Ernährungsberaterin bei der Ecodemy[^1]  ab.
 
 Seit 2017 arbeitet sie für die Plattform Seven Cooks[^2], für die sie nicht nur Rezepte entwickelt, sondern auch Food-Fotografie macht. Dieses Fachwissen half ihr unter anderem auch bei der Erstellung von "Vegan für die Sinne".  Alle Bilder im Buch hat Lena Marie selbst aufgenommen. Ihr findet die Food-Expertin und Autorin im Netz auf ihrer Homepage[^3].
 
