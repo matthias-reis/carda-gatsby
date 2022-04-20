@@ -35,7 +35,7 @@ language: de
 
 Aufgeteilt ist das besondere Kochbuch in die sieben Rezeptkategorien "Quick & Healthy", "Local Delights", "Cosmopolitan", "Everybody's Darling", "Grandma Style", "Coming Together" und "Surprising". In einem Zusatzkapitel verrät Lena Marie dann ihre "Kitchen Secrets". 
 
-Ein weiteres, besonderes Highlight hebt es von anderen kulinarischen Werken klar ab: Jedes Rezept ist mit einem QR-Code versehen. Scannt man ihn ein, könnt Ihr nicht nur die Rezepte in Form von Schritt-für-Schritt -Anleitungen bequem auf dem Smartphone betrachten – Ihr habt sogar exklusiven Zugang zu Videos. Das ist besonders für Menschen praktisch, die nicht gerne ein offenes Buch beim Kochen neben sich liegen haben. Ich kenne das sehr gut: Aus meinem Lieblings-Backbuch rieselt jedes Mal das Mehl raus, wenn ich es in die Hand nehme. Das kann bei "Vegan für die Sinne" schon mal nicht passieren. 
+Ein weiteres, besonderes Highlight hebt es von anderen kulinarischen Werken klar ab: Jedes Rezept ist mit einem QR-Code versehen. Scannt Ihr ihn ein, könnt Ihr nicht nur die Rezepte in Form von Schritt-für-Schritt -Anleitungen bequem auf dem Smartphone betrachten – Ihr habt sogar exklusiven Zugang zu Videos. Das ist besonders für Menschen praktisch, die nicht gerne ein offenes Buch beim Kochen neben sich liegen haben. Ich kenne das sehr gut: Aus meinem Lieblings-Backbuch rieselt jedes Mal das Mehl raus, wenn ich es in die Hand nehme. Das kann bei "Vegan für die Sinne" schon mal nicht passieren. 
 
 Doch das Buch besticht nicht nur durch seine praktischen Aspekte. Lena Marie Radu hat darin 80 besondere Rezepte aus ihrer Sammlung veröffentlicht. Als Köchin und Gründerin der Kochschule Veganesha ist sie auf diesem Gebiet natürlich ein echter Vollprofi.
 
