@@ -7,10 +7,10 @@ subTitle: Das vegane Multimedia-Kochbuch
 seoTitle: '"Vegan für die Sinne" von Lena Marie Radu – Buchtipp'
 description: Lena Marie Radu hat sich bereits als Gründerin ihrer veganen
   Kochschule einen Namen gemacht. Jetzt hat sie das multimediale Kochbuch "Vegan
-  für die Sinne herausgegeben.
+  für die Sinne" veröffentlicht.
 excerpt: Lena Marie Radu hat sich bereits als Gründerin ihrer veganen Kochschule
-  einen Namen gemacht. Jetzt hat sie das Kochbuch "Vegan für die Sinne
-  herausgegeben. Das multimediale Werk ist für sie ein Plädoyer für die Lust am
+  einen Namen gemacht. Jetzt hat sie das Kochbuch "Vegan für die Sinne"
+  veröffentlicht. Das multimediale Werk ist für sie ein Plädoyer für die Lust am
   Kochen und Genießen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-20/vegan-fuer-die-sinne-jpg-imagine-181818_5d5651_1024_768/640.webp
 copyrigt: Lena Marie Radu, Ventil Vegan
@@ -31,7 +31,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
-**Lena Marie Radu hat sich bereits als Gründerin ihrer veganen Kochschule einen Namen gemacht. Jetzt hat sie das Kochbuch "Vegan für die Sinne herausgegeben. Das multimediale Werk ist für sie ein Plädoyer für die Lust am Kochen und Genießen.**
+**Lena Marie Radu hat sich bereits als Gründerin ihrer veganen Kochschule einen Namen gemacht. Jetzt hat sie das Kochbuch "Vegan für die Sinne" veröffentlicht. Das multimediale Werk ist für sie ein Plädoyer für die Lust am Kochen und Genießen.**
 
 Aufgeteilt ist das besondere Kochbuch in die sieben Rezeptkategorien "Quick & Healthy", "Local Delights", "Cosmopolitan", "Everybody's Darling", "Grandma Style", "Coming Together" und "Surprising". In einem Zusatzkapitel verrät Lena Marie dann ihre "Kitchen Secrets". 
 
