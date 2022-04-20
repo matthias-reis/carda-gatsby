@@ -26,7 +26,7 @@ labels:
   - Musik
   - Pavement
   - Rock
-  - Rock'n'Roll
+  - Rock 'n' Roll
   - Sebadoh
   - The Replacements
   - The Thread That Keeps Us

@@ -71,7 +71,7 @@ Aber ich möchte nicht vorgreifen. Beginnen wir mit dem Opener. "Dead Inside" ko
 
 ## "Reapers" macht Dampf
 
-"Reapers" macht so richtig dampf und schrubbt die Riffs hoch und runter. Ich möchte dieses Ding live hören! Ich stelle mir den sandigen Boden eines fies großen Festivals vor, auf dem getanzt wird, bist kein Staub mehr da ist. Rock'n'Roll, aber so richtig!
+"Reapers" macht so richtig dampf und schrubbt die Riffs hoch und runter. Ich möchte dieses Ding live hören! Ich stelle mir den sandigen Boden eines fies großen Festivals vor, auf dem getanzt wird, bist kein Staub mehr da ist. Rock 'n' Roll, aber so richtig!
 
 <RemoteImage
   alt={`Verspielt: &quot;Drones&quot;`}

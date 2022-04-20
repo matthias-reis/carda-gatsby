@@ -57,7 +57,7 @@ labels:
   - QOTSA
   - Queens Of The Stone Age
   - Rock
-  - Rock'n'Roll
+  - Rock 'n' Roll
   - Soen
   - Songliste
   - Songliste 2017
