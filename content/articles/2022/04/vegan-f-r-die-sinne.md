@@ -47,7 +47,7 @@ Im Kapitel "Quick & Healthy" liefert Lena Marie Pure und Raw Food Rezepte. Dabei
 
 "Local Delights" ist das Kapitel für regionale und saisonale Zutaten. Diese fügt Lena Marie in einfachen, aber kreativen Rezepten zusammen. Die Rezepte dieser Kategorie sind, wie alle anderen in "Vegan für die Sinne", absolut alltagstauglich.
 
-Seid Ihr auf der Suche nach Abwechslung in der Küche? Im Kapitel "Cosmopolitan" werdet Ihr ganz sicher fündig. Lena Marie nimmt uns darin mit auf eine Reise durch die Küchen dieser Welt. Dabei kommen die unterschiedlichsten Gewürze und Zutaten zum Einsatz.
+Seid Ihr auf der Suche nach Abwechslung in der Küche? Im Kapitel "Cosmopolitan" werdet Ihr ganz sicher fündig. Lena Marie nimmt uns darin mit auf eine Reise durch die Küchen dieser Welt. Dabei kommen haben unterschiedlichsten Gewürze und Zutaten ihren Auftritt.
 
 Habt Ihr Euch schon lange vorgenommen, mal wieder für die ganze Familie zu kochen, aber Ihr wisst noch nicht was, weil irgendwie alle ihre persönlichen Vorzüge haben? Mit den Rezepten aus der Kategorie "Everybody's Darling" klappt es ganz bestimmt. Lena Marie führt hier Rezepte auf, die garantiert allen schmecken. Und wer weiß: Vielleicht schafft Ihr es ja, damit Euren Bruder oder Eure beste Freundin von der veganen Küche zu überzeugen?
 
