@@ -39,7 +39,7 @@ Ein weiteres, besonderes Highlight hebt es von anderen kulinarischen Werken klar
 
 Doch das Buch besticht nicht nur durch seine praktischen Aspekte. Lena Marie Radu hat darin 80 besondere Rezepte aus ihrer Sammlung veröffentlicht. Als Köchin und Gründerin der Kochschule Veganesha ist sie auf diesem Gebiet natürlich ein echter Vollprofi.
 
-## Von Quick & Healthy" bis "Grandma Style"
+## Von "Quick & Healthy" bis "Grandma Style"
 
 ![Zitronenkuchen mit Blaubeerguss von Lena Marie Radu – Foto von einem hellen, kastenförmigen Kuchen mit pinkem Zuckerguss auf einem Rost mit Heidelbeeren (Blaubeeren).)](https://storage.googleapis.com/cardamonchai-media/2022-04-20/zitronenkuchen-mit-blaubeerguss-jpg-imagine-081818_5e3745_1024_768/640.webp "Zitronenkuchen mit Blaubeerguss von Lena Marie Radu")
 
