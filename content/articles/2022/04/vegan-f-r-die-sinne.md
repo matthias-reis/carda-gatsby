@@ -45,7 +45,7 @@ Doch das Buch besticht nicht nur durch seine praktischen Aspekte. Lena Marie Rad
 
 Im Kapitel "Quick & Healthy" liefert Lena Marie Pure und Raw Food Rezepte. Dabei kommen auch die unterschiedlichsten Superfoods zum Einsatz. Was mir gut gefällt: Sie zeigt wirklich praktische Einsatzmöglichkeiten. Denn, ging es Euch nicht auch schonmal so: Man kauft so ein tolles exotisches Lebensmittel und dann weiß man damit im ersten Moment gar nicht so recht etwas anzufangen. Die Köchen geht hingegen spielend damit um und bietet jede Menge Inspiration, die Ihr später auch für eigene Kreationen übernehmen könnt. Sie kombiniert die Zutaten zu Salaten, Suppen und Süßem  – dabei kommt ihr Feingefühl für Vitalität und gesunde Kombinationen niemals zu kurz
 
-"Local Delights" ist das Kapitel für regionale und saisonale Zutaten. Diese fügt Lena Marie in einfachen, aber kreativen Rezepten zusammen. Die Rezepte dieser Kategorie sind, wie alle anderen in "Vegan für die Sinne" absolut alltagstauglich.
+"Local Delights" ist das Kapitel für regionale und saisonale Zutaten. Diese fügt Lena Marie in einfachen, aber kreativen Rezepten zusammen. Die Rezepte dieser Kategorie sind, wie alle anderen in "Vegan für die Sinne", absolut alltagstauglich.
 
 Seid Ihr auf der Suche nach Abwechslung in der Küche? Im Kapitel "Cosmopolitan" werdet Ihr ganz sicher fündig. Lena Marie nimmt uns darin mit auf eine Reise durch die Küchen dieser Welt. Dabei kommen die unterschiedlichsten Gewürze und Zutaten zum Einsatz.
 
