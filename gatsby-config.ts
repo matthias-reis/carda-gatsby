@@ -3,7 +3,7 @@ require('dotenv').config();
 export default {
   siteMetadata: {
     title: 'Cardamonchai.com',
-    description: "Rock'n'Roll vegan.",
+    description: "Rock 'n' Roll vegan.",
     // will be changed when we go live
     // siteUrl: `https://cardamonchai.amreis.de`,
     siteUrl: `https://cardamonchai.com`,
@@ -100,7 +100,7 @@ ${
   }
 }`,
             output: '/rss.xml',
-            title: "Cardamonchai.com - Rock'n'Roll vegan",
+            title: "Cardamonchai.com - Rock 'n' Roll vegan",
           },
         ],
       },

@@ -1,6 +1,6 @@
 ---
-title: Das ist Rock'n'Roll vegan
-seoTitle: Über Anne bloggt cardamonchai - Rock'n'Roll vegan
+title: Das ist Rock 'n' Roll vegan
+seoTitle: Über Anne bloggt cardamonchai - Rock 'n' Roll vegan
 slug: das-ist-rocknroll-vegan
 path: /cardamonchai-blick-hinter-die-kulissen/
 fileName: 2010-04---das-ist-rocknroll-vegan.md
@@ -35,7 +35,7 @@ subTitle: Mein Portfolio
 
 Ich schaffe es nicht immer, topaktuell zu sein, aber ich denke, diesem Anspruch muss ein persönlicher Blog auch nicht zwingend entsprechen.
 
-Im Grunde ist **Anne bloggt cardamonchai** für mich eine persönliche Sammlung. Ein bisschen erinnert es mich immer an [Frederik die Maus](/2011/09/gedanken-am-fenster/), die den Sommer über Farben sammelt, damit sie im Winter etwas hat, woran sie sich erfreuen kann. Der Untertitel **Rock'n'Roll vegan** hat sich über die Jahre ergeben, er setzt sich aus den beiden für mich größten Themen zusammen: Musik und alles was dazu gehört und die vegane Lebensart und Zukunft.
+Im Grunde ist **Anne bloggt cardamonchai** für mich eine persönliche Sammlung. Ein bisschen erinnert es mich immer an [Frederik die Maus](/2011/09/gedanken-am-fenster/), die den Sommer über Farben sammelt, damit sie im Winter etwas hat, woran sie sich erfreuen kann. Der Untertitel **Rock 'n' Roll vegan** hat sich über die Jahre ergeben, er setzt sich aus den beiden für mich größten Themen zusammen: Musik und alles was dazu gehört und die vegane Lebensart und Zukunft.
 
 ## Meine Heimat habe ich in Hamburg gefunden
 

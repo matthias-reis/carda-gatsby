@@ -22,7 +22,7 @@ remoteLoadingImage: null
 subTitle: Teilnahmebedingungen bei Verlosungen
 ---
 
-Mit Deiner Teilnahme an einer Verlosung bzw. an einem Gewinnspiel auf Anne bloggt cardamonchai - Rock'n'Roll vegan unter [cardamonchai.com](), Facebook oder Instagram erklärst Du Dich mit den nachstehenden Bedingungen einverstanden:
+Mit Deiner Teilnahme an einer Verlosung bzw. an einem Gewinnspiel auf Anne bloggt cardamonchai - Rock 'n' Roll vegan unter [cardamonchai.com](), Facebook oder Instagram erklärst Du Dich mit den nachstehenden Bedingungen einverstanden:
 
 ## § 1 Teilnahme
 
@@ -40,9 +40,9 @@ Mit Deiner Teilnahme an einer Verlosung bzw. an einem Gewinnspiel auf Anne blogg
 
 ## § 2 Ausschluss vom Gewinnspiel
 
-(1) Nahe Familienmitglieder und Mitarbeiter von Anne bloggt cardamonchai - Rock'n'Roll vegan oder dessen Kooperationspartnern sind von der Teilnahme ausgeschlossen.
+(1) Nahe Familienmitglieder und Mitarbeiter von Anne bloggt cardamonchai - Rock 'n' Roll vegan oder dessen Kooperationspartnern sind von der Teilnahme ausgeschlossen.
 
-(2) Bei einem Verstoß gegen diese Teilnahmebedingungen behält sich Anne bloggt cardamonchai - Rock'n'Roll vegan das Recht vor, Personen vom Gewinnspiel auszuschließen.
+(2) Bei einem Verstoß gegen diese Teilnahmebedingungen behält sich Anne bloggt cardamonchai - Rock 'n' Roll vegan das Recht vor, Personen vom Gewinnspiel auszuschließen.
 
 (3) Ausgeschlossen werden insbesondere Personen, die – sich unerlaubter Hilfsmittel, wie z.B. einer automatisierten Registrierung bedienen, – sich durch Manipulation Vorteile verschaffen, – unwahre Personenangaben machen oder – mehrfach am selben Gewinnspiel teilzunehmen.
 
@@ -50,11 +50,11 @@ In diesen Fällen kann der Gewinn auch nachträglich aberkannt und zurückgeford
 
 ## § 3 Durchführung des Gewinnspiels
 
-(1) Die Gewinner werden von Anne bloggt cardamonchai - Rock'n'Roll vegan schriftlich per E-Mail benachrichtigt und können auf [cardamonchai.com](), Facebook und Instagram namentlich veröffentlicht werden. Mit dieser Form der Veröffentlichung erklärt sich der Gewinner ausdrücklich einverstanden.
+(1) Die Gewinner werden von Anne bloggt cardamonchai - Rock 'n' Roll vegan schriftlich per E-Mail benachrichtigt und können auf [cardamonchai.com](), Facebook und Instagram namentlich veröffentlicht werden. Mit dieser Form der Veröffentlichung erklärt sich der Gewinner ausdrücklich einverstanden.
 
 (2) Meldet sich der Gewinner nicht innerhalb von vier Wochen nachdem Absenden der Benachrichtigung, so verfällt der Anspruch auf den Gewinn und es wird per Los ein neuer Gewinner ermittelt.
 
-(3) Die Gewinne werden von Anne bloggt cardamonchai - Rock'n'Roll vegan oder dessen Kooperationspartnern an die vom Gewinner anzugebende Postadresse versendet. Die Lieferung erfolgt innerhalb Deutschlands einmalig kostenfrei. Darüber hinaus anfallende Transportkosten und Zölle hat der Gewinner zu tragen.
+(3) Die Gewinne werden von Anne bloggt cardamonchai - Rock 'n' Roll vegan oder dessen Kooperationspartnern an die vom Gewinner anzugebende Postadresse versendet. Die Lieferung erfolgt innerhalb Deutschlands einmalig kostenfrei. Darüber hinaus anfallende Transportkosten und Zölle hat der Gewinner zu tragen.
 
 (4) Ist die Übermittlung des Gewinnes nicht oder nur unter unzumutbaren Umständen möglich, so erhält der Gewinner einen gleichwertigen Ersatz.
 
@@ -62,21 +62,21 @@ In diesen Fällen kann der Gewinn auch nachträglich aberkannt und zurückgeford
 
 (6) Der Anspruch auf den Gewinn oder Gewinnersatz kann nicht abgetreten werden.
 
-(7) Beschwerden, die sich auf die Durchführung des Gewinnspiels beziehen, sind unter Angabe des Gewinnspiels innerhalb von 14 Tagen nach Bekanntwerden des Grundes schriftlich an Anne bloggt cardamonchai - Rock'n'Roll vegan zu richten. Fernmündlich mitgeteilte oder verspätete Beschwerden werden nicht bearbeitet.
+(7) Beschwerden, die sich auf die Durchführung des Gewinnspiels beziehen, sind unter Angabe des Gewinnspiels innerhalb von 14 Tagen nach Bekanntwerden des Grundes schriftlich an Anne bloggt cardamonchai - Rock 'n' Roll vegan zu richten. Fernmündlich mitgeteilte oder verspätete Beschwerden werden nicht bearbeitet.
 
 ## § 4 Vorzeitige Beendigung des Gewinnspiels
 
-Anne bloggt cardamonchai - Rock'n'Roll veganbehält sich ausdrücklich vor, das Gewinnspiel zu jedem Zeitpunkt ohne Vorankündigung und ohne Angabe von Gründen abzubrechen oder zu beenden. Von dieser Möglichkeit macht Anne bloggt cardamonchai - Rock'n'Roll vegan insbesondere dann Gebrauch, wenn aus technischen Gründen (z. B. Viren im Computersystem, Manipulation oder Fehler in der Hard- und/ oder Software) oder aus rechtlichen Gründen eine ordnungsgemäße Durchführung des Gewinnspiels bzw. der Verlosung nicht gewährleistet werden kann.
+Anne bloggt cardamonchai - Rock 'n' Roll veganbehält sich ausdrücklich vor, das Gewinnspiel zu jedem Zeitpunkt ohne Vorankündigung und ohne Angabe von Gründen abzubrechen oder zu beenden. Von dieser Möglichkeit macht Anne bloggt cardamonchai - Rock 'n' Roll vegan insbesondere dann Gebrauch, wenn aus technischen Gründen (z. B. Viren im Computersystem, Manipulation oder Fehler in der Hard- und/ oder Software) oder aus rechtlichen Gründen eine ordnungsgemäße Durchführung des Gewinnspiels bzw. der Verlosung nicht gewährleistet werden kann.
 
 ## § 5 Datenschutz
 
-(1) Anne bloggt cardamonchai - Rock'n'Roll vegan verpflichtet sich, die gesetzlichen Bestimmungen zum Datenschutz zu beachten. Insbesondere wird in diesem Zusammenhang auf die [Datenschutzbestimmungen](/datenschutz/)  verwiesen.
+(1) Anne bloggt cardamonchai - Rock 'n' Roll vegan verpflichtet sich, die gesetzlichen Bestimmungen zum Datenschutz zu beachten. Insbesondere wird in diesem Zusammenhang auf die [Datenschutzbestimmungen](/datenschutz/)  verwiesen.
 
-(2) Anne bloggt cardamonchai - Rock'n'Roll vegan erhebt im Rahmen dieses Gewinnspiels personenbezogene Daten zur Durchführung des Gewinnspiels. Diese Daten werden drei Monate nach Abschluss des Gewinnspieles wieder gelöscht. Eine Weitergabe an Dritte, mit Ausnahme des Kooperationspartners und der ausliefernden Transportunternehmen, ist ausgeschlossen!
+(2) Anne bloggt cardamonchai - Rock 'n' Roll vegan erhebt im Rahmen dieses Gewinnspiels personenbezogene Daten zur Durchführung des Gewinnspiels. Diese Daten werden drei Monate nach Abschluss des Gewinnspieles wieder gelöscht. Eine Weitergabe an Dritte, mit Ausnahme des Kooperationspartners und der ausliefernden Transportunternehmen, ist ausgeschlossen!
 
 ## § 6 Sonstiges
 
-(1) Bei Gewinnspielen auf Facebook oder Instagram gilt: Die Gewinnspiele stehen in keiner Verbindung zu Facebook oder Instagram und werden in keiner Weise von Facebook oder Instagram gesponsert, unterstützt oder organisiert. Der Empfänger der von den Teilnehmern bereitgestellten Informationen ist nicht Facebook oder Instagram, sondern die Anne bloggt cardamonchai - Rock'n'Roll vegan als alleinige Veranstalterin. Sämtliche Fragen, Kommentare oder Beschwerden zu Gewinnspielen sind ausschließlich an Anne bloggt cardamonchai - Rock'n'Roll vegan und nicht an Facebook oder Instagram zu richten.
+(1) Bei Gewinnspielen auf Facebook oder Instagram gilt: Die Gewinnspiele stehen in keiner Verbindung zu Facebook oder Instagram und werden in keiner Weise von Facebook oder Instagram gesponsert, unterstützt oder organisiert. Der Empfänger der von den Teilnehmern bereitgestellten Informationen ist nicht Facebook oder Instagram, sondern die Anne bloggt cardamonchai - Rock 'n' Roll vegan als alleinige Veranstalterin. Sämtliche Fragen, Kommentare oder Beschwerden zu Gewinnspielen sind ausschließlich an Anne bloggt cardamonchai - Rock 'n' Roll vegan und nicht an Facebook oder Instagram zu richten.
 
 (2) Der Rechtsweg ist ausgeschlossen.
 
@@ -84,4 +84,4 @@ Anne bloggt cardamonchai - Rock'n'Roll veganbehält sich ausdrücklich vor, das 
 
 (4) Sollten einzelne dieser Bestimmungen ungültig sein oder werden, bleibt die Gültigkeit der übrigen Nutzungsbedingungen hiervon unberührt.
 
-(5) Diese Nutzungsbedingungen können jederzeit von Anne bloggt cardamonchai - Rock'n'Roll vegan ohne gesonderte Benachrichtigung geändert werden.
+(5) Diese Nutzungsbedingungen können jederzeit von Anne bloggt cardamonchai - Rock 'n' Roll vegan ohne gesonderte Benachrichtigung geändert werden.
