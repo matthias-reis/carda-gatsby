@@ -61,7 +61,7 @@ Wo wir gerade über Familie reden: Das Kapitel "Grandma Style" dürfte für alle
 
 Richtig festlich wird es dann nochmal in der letzten Kategorie "Surprising". Hier findet Ihr unter anderem Rezepte für Jackfruit-Gulasch, Sonnenblumen-Bolognese und Mangold-Sommerrollen. 
 
-Das klingt alles ziemlich lecker, oder? Ist aber noch längst nicht alles! Großzügig, wie Lena Marie ist, spendiert sie zum Schluss noch einige Geheimnisse aus ihrer Küche! Ihr erfahrt, was Ihr alles mit Zutaten wie Räuchertofu, Räucherpaprika, Sesammus, Zimt, Zitrone und Seidentofu anstellen könnt. Das Zusatzkapitel ist besonders für Menschen, die sich erst kürzlich für die vegane Lebensweise entschieden haben, äußerst praktisch und interessant. Ich wünschte mir, ich hätte damals so fantastische Anleitungen gehabt, von denen mir übrigens auch heute noch einige echt die Augen geöffnet haben.
+Das klingt alles ziemlich lecker, oder? Ist aber noch längst nicht alles! Großzügig, wie Lena Marie ist, spendiert sie zum Schluss noch einige Geheimnisse aus ihrer Küche! Ihr erfahrt, was Ihr alles mit Zutaten wie Räuchertofu, Räucherpaprika, Sesammus, Zimt, Zitrone und Seidentofu anstellen könnt. Das Zusatzkapitel ist besonders für Menschen, die sich erst kürzlich für die vegane Lebensweise entschieden haben, äußerst praktisch und interessant. Ich wünschte mir, ich hätte damals so fantastische Anleitungen gehabt, von denen übrigens auch heute noch einige echte Augenöffner für mich sind.
 
 ## Zutaten online bestellen
 
