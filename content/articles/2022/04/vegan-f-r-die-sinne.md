@@ -79,7 +79,7 @@ Zudem bietet sie vegane Caterings an, bei der sie ihre Gäste mit schmackhafter 
 
 Seit 2017 arbeitet sie für die Plattform Seven Cooks[^2], für die sie nicht nur Rezepte entwickelt, sondern auch Food-Fotografie macht. Dieses Fachwissen half ihr unter anderem auch bei der Erstellung von "Vegan für die Sinne".  Alle Bilder im Buch hat Lena Marie selbst aufgenommen. Ihr findet die Food-Expertin und Autorin im Netz auf ihrer Homepage[^3].
 
-"Vegan für die Sinne" von Lena Marie Radu ist am 15. März 2022 bei Ventil Vegan[^4] erschienen. Die ISBN lautet: 978-3-95575-163-0. [Ihr könnt es für 24,50 Euro hier bestellen](LINK).
+"Vegan für die Sinne" von Lena Marie Radu ist am 15. März 2022 bei Ventil Vegan[^4] erschienen. Die ISBN lautet: 978-3-95575-163-0. [Ihr könnt es für 24,50 Euro hier bestellen](https://amzn.to/36yoX1W).
 
 [^1]: [Ecodemy](https://ecodemy.de/veganer-ernaehrungsberater-ausbildung-fernstudium/?l=custom-7)
 
