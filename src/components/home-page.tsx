@@ -61,9 +61,9 @@ export const HomePage: React.FC<{
             recommendations: [],
           },
           frontmatter: {
-            title: "Rock 'n' Roll vegan – Anne bloggt cardamonchai",
-            subTitle: 'Anne bloggt cardamonchai',
-            description: `Rock 'n' Roll vegan`,
+            title: "Rock 'n' Roll vegan",
+            subTitle: "Rock 'n' Roll vegan",
+            description: "Rock 'n' Roll vegan",
             type: '',
             typeName: 'Homepage',
             date: new Date().toString(),

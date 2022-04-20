@@ -108,7 +108,7 @@ Ich hatte jahrelang mit meinen eigenen Techniken aufgenommen und dachte, dass mi
 **Oliver:** Musik hat so viel mit Gefühlen, Emotionen und Schmerzen zu tun. Da ist die Verbindung zu Tieren nicht weit. Wir wollen keine Schmerzen haben und wollen nicht, dass uns jemand welche zufügt. Mit der Musik haben wir dieses Ventil. Dabei treten oft einen Schritt zurück, analysieren die Situation und sehen, wie verkorkst sie ist.
 
 **Anne:** Würdest Du sagen, dass Musik für Dich eine Form von Aktivismus ist? Falls nicht: Kannst Du es Dir vorstellen, sie dazu zu nutzen? Ich habe dieses sehr persönliche [Interview mit
-Belinda und Justin von Crippled Black Phoenix](https://cardamonchai.com/2020/12/crippled-black-phoenix-interview/) gemacht. Sie haben mir erzählt, dass sie gerne mehr tun würden, dass es aber auch immer eine Sache der perfekten Dosis ist?
+Belinda und Justin von Crippled Black Phoenix](/2020/12/crippled-black-phoenix-interview/) gemacht. Sie haben mir erzählt, dass sie gerne mehr tun würden, dass es aber auch immer eine Sache der perfekten Dosis ist?
 
 **Oliver:** Ich glaube schon, aber auf eine sehr indirekte Weise. Ich glaube beide Wege – der direkte und der indirekte – sind sehr wichtig. Mit Inspiration kannst Du jemanden dazu bringen, an sich selbst zu glauben und rationale Entscheidungen zu seinem persönlichen Wohlergehen zu treffen. Man könnte das als eine von Art Lern-Blöcken bezeichnen. Wenn man eine direkte Methode nutzt, sagt man den Leuten, was sie tun und lassen sollen. Das kann manchmal dazu führen, dass Menschen keine Gefühle investieren, weil sie nicht selbst darauf gekommen sind. Wenn wir ihnen eine schöne und bessere Welt zeigen, kann es passieren, dass sie auch dort leben wollen.
 

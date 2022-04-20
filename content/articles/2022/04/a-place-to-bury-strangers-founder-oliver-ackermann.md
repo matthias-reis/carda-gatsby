@@ -102,7 +102,7 @@ The conversation was an absolute highlight of my blog history so far. So I am ve
 
 **Oliver:** Music is so much about feeling and emotion and pain, which is relatable to animals. We don't want to feel pain and have that inflicted upon us, so we have an outlet with music and often step back, analyse the situation, and see that it is messed up.
 
-**Anne:** Are you using your music as a form of activism? If not: Can you imagine doing so? I did this very personal [interview with Belinda and Justin from Crippled Black Phoenix](https://cardamonchai.com/2020/12/crippled-black-phoenix-interview-en), and they said they would love to do more, but it's also always a question of the perfect dose?
+**Anne:** Are you using your music as a form of activism? If not: Can you imagine doing so? I did this very personal [interview with Belinda and Justin from Crippled Black Phoenix](/2020/12/crippled-black-phoenix-interview-en), and they said they would love to do more, but it's also always a question of the perfect dose?
 
 ## "Inspiration is very important"
 
