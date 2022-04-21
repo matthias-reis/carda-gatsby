@@ -11,8 +11,8 @@ description: Für den Start in den Wonnemonat habe ich gemeinsam mit meinen
 excerpt: Für den Start in den Wonnemonat habe ich gemeinsam mit meinen beiden
   Lieblings-Musikfans wieder zehn besondere Songs aus den unterschiedlichsten
   Genres für Euch zusammengestellt, die Ihr ab sofort als Playlist konsumieren
-  könnt. Diese findet Ihr ganz unten fertig aufbereitet für iTunes und Spotify.
-  Und jetzt erstmal viel Spaß mit den Videos und unseren Lobhudeleien.
+  könnt. Von Primus bis Violet Cold werdet Ihr darunter einige Juwelen
+  entdecken.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-21/10-songs-mai-jpg-imagine-080808_66595f_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-21/10-songs-mai-fb-jpg-imagine-080808_675b60_1200_628/640.webp
 labels:
