@@ -2,11 +2,16 @@
 date: 2022-01-21T05:30:11.503Z
 slug: playlist-februar-2022
 typeName: Beitrag
-title: Playlist Februar
+title: Playlist Februar 2022
 subTitle: Starke Neuheiten von Post-Rock bis Progressive Metal
 seoTitle: Starke Neuheiten von Post-Rock bis Progressive Metal
-description: Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich 12 ganz besondere Juwelen für Euren Februar ausgesucht – von Post-Rock bis Progressive Metal hagelt es starke Neuveröffentlichungen.
-excerpt: Das neue Jahr geht gut los. Aus allen Richtungen hagelt es starke Neuveröffentlichungen. Man kommt mit dem Hören kaum noch hinterher. Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich 12 ganz besondere Juwelen für Euren Februar ausgesucht – von Post-Rock bis Progressive Metal.
+description: Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich 12 ganz
+  besondere Juwelen für Euren Februar ausgesucht – von Post-Rock bis Progressive
+  Metal hagelt es starke Neuveröffentlichungen.
+excerpt: Das neue Jahr geht gut los. Aus allen Richtungen hagelt es starke
+  Neuveröffentlichungen. Man kommt mit dem Hören kaum noch hinterher. Gemeinsam
+  mit meinen beiden Lieblings-Musikfans habe ich 12 ganz besondere Juwelen für
+  Euren Februar ausgesucht – von Post-Rock bis Progressive Metal.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-20/12-songs-februar-jpg-imagine-f8f8f8_7b7675_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-20/12-songs-februar-fb-png-imagine-f8f8f8_7e7978_1200_628/640.webp
 labels:
@@ -36,7 +41,7 @@ labels:
   - And So I Watch You From Afar
   - serie:Playlists 2022
   - Playlist
-focusKeyword: ''
+focusKeyword: ""
 advertisement: false
 affiliate: false
 language: de
