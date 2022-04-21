@@ -2,7 +2,7 @@
 date: 2022-02-24T14:25:14.182Z
 slug: playlist-maerz-2022
 typeName: Beitrag
-title: Playlist März
+title: Playlist März 2022
 subTitle: Von Cult of Luna bis Madrugada
 seoTitle: Playlist März – von Cult of Luna bis Madrugada
 description: Von Cult of Luna bis Madrugada habe ich diesen Monat wieder 12 ganz
