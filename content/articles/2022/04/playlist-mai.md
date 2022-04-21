@@ -121,7 +121,7 @@ Und auch dieses Stück hat Valentin ausgewählt. Es darf, wie ich finde, im Mome
 
 Matze macht heute das Licht aus und liefert den letzen Song für unsere Liste.
 
-> "Ich habe nachgeschlagen. In [unserer Musikliste für den Januar](/2021/11/musikliste-dezember-2021/). Habe ich die erste Auskopplung vom neuen Placebo Album vorgestellt und zu dem Zeitpunkt nicht gerade abgefeiert. Heute höre ich die Platte rauf und runter und sogar die damalige Single gefällt mir mit jedem Hören besser. Heute fällt meine Wahl auf 'Prodigal' – einen herausragenden Pop-Song mit echtem Ohrwurmpotential und diesen spannenden Höhepunkten, die ich an Placebo schon immer gemocht habe."
+> "Ich habe nachgeschlagen. In unserer [Musikliste für den Januar](/2021/11/musikliste-dezember-2021/). Habe ich die erste Auskopplung vom neuen Placebo Album vorgestellt und zu dem Zeitpunkt nicht gerade abgefeiert. Heute höre ich die Platte rauf und runter und sogar die damalige Single gefällt mir mit jedem Hören besser. Heute fällt meine Wahl auf 'Prodigal' – einen herausragenden Pop-Song mit echtem Ohrwurmpotential und diesen spannenden Höhepunkten, die ich an Placebo schon immer gemocht habe."
 
 <YouTube id="bAgmNjJ1cEk" />
 
