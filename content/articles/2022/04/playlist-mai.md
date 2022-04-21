@@ -66,7 +66,7 @@ Am 2. März veröffentlichte Violet Cold seine neue Single "Mokita". Das Experim
 
 ## Ólafur Arnalds – "Sunrise Session II"
 
-Kritische Stimmen behaupten, die zweite Sunrise Session von Ólafur Arnalds sei nicht so gelungen, wie die erste ("Sunrise Session"). Ich kann das nicht nachempfinden und höre sie ausgesprochen gerne. Mit ins Boot geholt hat sich Ólafur dieses Mal Sängerin Josin. Begleitet werden sie von 13 Musiker⋆innen des Reykjavík Recording Orchestra. Als Video habe ich Euch hier mal alle drei Stücke verlinkt, in der Playlist findet Ihr das dritte Stück "Loom" – für mich das Highlight der Aufnahme, die zur Wintersonnenwende live entstanden ist und nun veröffentlicht wurde.
+Kritische Stimmen behaupten, die zweite Sunrise Session von Ólafur Arnalds sei nicht so gelungen, wie die erste ("A Sunrise Session"). Ich kann das nicht nachempfinden und höre sie ausgesprochen gerne. Mit ins Boot geholt hat sich Ólafur dieses Mal Sängerin Josin. Begleitet werden sie von 13 Musiker⋆innen des Reykjavík Recording Orchestra. Als Video habe ich Euch hier mal alle drei Stücke verlinkt, in der Playlist findet Ihr das dritte Stück "Loom" – für mich das Highlight der Aufnahme, die zur Wintersonnenwende live entstanden ist und nun veröffentlicht wurde.
 
 <YouTube id="pAiZWYV4YKw" />
 
