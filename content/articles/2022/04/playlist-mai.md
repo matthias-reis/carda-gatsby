@@ -92,7 +92,7 @@ Weil der hier gerade so gut passt, hier noch einer von Matze und dann kommt erst
 
 <YouTube id="lJVbvYoIG0A" />
 
-## Dälek – Boycott (vom kommenden Album "Precipice")
+## Dälek – "Boycott" (vom kommenden Album "Precipice")
 
 Wie versprochen, übergebe ich das Wort an dieser Stelle an Valentin.
 
