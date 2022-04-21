@@ -10,7 +10,7 @@ description: Für den Start in den Wonnemonat habe ich gemeinsam mit meinen
   für Euch zusammengestellt.
 excerpt: Für den Start in den Wonnemonat habe ich gemeinsam mit meinen beiden
   Lieblings-Musikfans wieder zehn besondere Songs aus den unterschiedlichsten
-  Genres für Euch zusammengestellt, die Ihr ab sofort als Playlist konsumiert
+  Genres für Euch zusammengestellt, die Ihr ab sofort als Playlist konsumieren
   könnt. Diese findet Ihr ganz unten fertig aufbereitet für iTunes und Spotify.
   Und jetzt erstmal viel Spaß mit den Videos und unseren Lobhudeleien.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-21/10-songs-mai-jpg-imagine-080808_66595f_1024_768/640.webp
@@ -44,7 +44,7 @@ affiliate: false
 language: de
 languageLink: ""
 ---
-**Für den Start in den Wonnemonat habe ich gemeinsam mit meinen beiden Lieblings-Musikfans wieder zehn besondere Songs aus den unterschiedlichsten Genres für Euch zusammengestellt, die Ihr ab sofort als Playlist konsumiert könnt. Diese findet Ihr ganz unten fertig aufbereitet für iTunes und Spotify. Und jetzt erstmal viel Spaß mit den Videos und unseren Lobhudeleien.**
+**Für den Start in den Wonnemonat habe ich gemeinsam mit meinen beiden Lieblings-Musikfans wieder zehn besondere Songs aus den unterschiedlichsten Genres für Euch zusammengestellt, die Ihr ab sofort als Playlist konsumieren könnt. Diese findet Ihr ganz unten fertig aufbereitet für iTunes und Spotify. Und jetzt erstmal viel Spaß mit den Videos und unseren Lobhudeleien.**
 
 ## Primus – "Conspiranoia" (Vorauskopplung von der EP "Conspiranoid"
 
@@ -115,3 +115,5 @@ Matze macht heute das Licht aus und liefert den letzen Song für unsere Liste.
 > "Ich habe nachgeschlagen. In [unserer Musikliste für den Januar](/2021/11/musikliste-dezember-2021/). Habe ich die erste Auskopplung vom neuen Placebo Album vorgestellt und zu dem Zeitpunkt nicht gerade abgefeiert. Heute höre ich die Platte rauf und runter und sogar die damalige Single gefällt mir mit jedem Hören besser. Heute trifft meine Wahl auf 'Prodigal' – einen herausragenden Pop-Song mit echtem Ohrwurmpotential und diesen spannenden Höhepunkten, die ich an Placebo schon immer gemocht habe."
 
 <YouTube id="bAgmNjJ1cEk" /> 
+
+https://open.spotify.com/playlist/1jt25OOsxDo1fGTMHGOFBe?si=fa6bbf3f31c04018
