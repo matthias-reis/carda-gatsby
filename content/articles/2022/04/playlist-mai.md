@@ -37,7 +37,7 @@ labels:
   - Musikliste
   - Ólafur Arnalds
   - Pure Reason Revolution
-  - serie:Playlists
+  - serie:Playlists 2022
   - Alternative
 focusKeyword: Playlist Mai
 advertisement: false
