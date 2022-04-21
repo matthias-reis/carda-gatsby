@@ -108,7 +108,7 @@ Wie versprochen, übergebe ich das Wort an dieser Stelle an Valentin.
 
 Und auch dieses Stück hat Valentin ausgewählt. Es darf, wie ich finde, im Moment auf keiner Playlist fehlen.
 
-> "Die Toten Hosen werden 40. Es war also klar, dass ich sie diesen Monat auf unsere Musikliste aufnehmen muss. Schließlich war die Band für mich ein wichtiger Teil der und Einstieg in die Musik, die mich später interessierte – Durch ihre Musik und Texte habe ich bei Ihnen nicht nur Punkrock gefunden. Für ihr Jubiläum haben Sie nach der kürzlich veröffentlichten Split-EP mit Campinos Kumpel Marteria auch den Klassiker 'Wort zum Sonntag' aufgenommen. Dafür wurde der Text aufgrund ihres Alters leicht verändert."
+> "Die Toten Hosen werden 40. Es war also klar, dass ich sie diesen Monat auf unsere Musikliste aufnehmen muss. Schließlich war die Band für mich ein wichtiger Teil des Einstiegs in den Sound, der mich später interessierte – durch ihre Musik und Texte habe ich bei Ihnen nicht nur Punkrock gefunden. Für ihr Jubiläum haben Sie nach der kürzlich veröffentlichten Split-EP mit Campinos Kumpel Marteria auch den Klassiker 'Wort zum Sonntag' aufgenommen. Dafür wurde der Text aufgrund ihres Alters leicht verändert."
 
 <YouTube id="wJW-NdF1NBw" />                                        
 
@@ -116,7 +116,7 @@ Und auch dieses Stück hat Valentin ausgewählt. Es darf, wie ich finde, im Mome
 
 Matze macht heute das Licht aus und liefert den letzen Song für unsere Liste.
 
-> "Ich habe nachgeschlagen. In [unserer Musikliste für den Januar](/2021/11/musikliste-dezember-2021/). Habe ich die erste Auskopplung vom neuen Placebo Album vorgestellt und zu dem Zeitpunkt nicht gerade abgefeiert. Heute höre ich die Platte rauf und runter und sogar die damalige Single gefällt mir mit jedem Hören besser. Heute trifft meine Wahl auf 'Prodigal' – einen herausragenden Pop-Song mit echtem Ohrwurmpotential und diesen spannenden Höhepunkten, die ich an Placebo schon immer gemocht habe."
+> "Ich habe nachgeschlagen. In [unserer Musikliste für den Januar](/2021/11/musikliste-dezember-2021/). Habe ich die erste Auskopplung vom neuen Placebo Album vorgestellt und zu dem Zeitpunkt nicht gerade abgefeiert. Heute höre ich die Platte rauf und runter und sogar die damalige Single gefällt mir mit jedem Hören besser. Heute fällt meine Wahl auf 'Prodigal' – einen herausragenden Pop-Song mit echtem Ohrwurmpotential und diesen spannenden Höhepunkten, die ich an Placebo schon immer gemocht habe."
 
 <YouTube id="bAgmNjJ1cEk" /> 
 
