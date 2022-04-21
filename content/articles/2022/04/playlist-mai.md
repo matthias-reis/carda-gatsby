@@ -108,7 +108,7 @@ Und auch dieses Stück hat Valentin ausgewählt. Es darf, wie ich finde, im Mome
 
 <YouTube id="wJW-NdF1NBw" />                                        
 
-## Placebo – The Prodigal (vom Album "Never Let Me Go")
+## Placebo – "The Prodigal" (vom Album "Never Let Me Go")
 
 Matze macht heute das Licht aus und liefert den letzen Song für unsere Liste.
 
