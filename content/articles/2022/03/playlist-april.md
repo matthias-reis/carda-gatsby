@@ -2,7 +2,7 @@
 date: 2022-03-29T14:13:40.940Z
 slug: playlist-april-2022
 typeName: Beitrag
-title: Playlist April
+title: Playlist April 2022
 subTitle: Von Foo Fighters bis Tool
 seoTitle: Alternative Musikliste für den April – Von Foo Fighters bis Tool
 description: Von And So I Watch You From Afar über Foo Fighter und Tool bis hin
