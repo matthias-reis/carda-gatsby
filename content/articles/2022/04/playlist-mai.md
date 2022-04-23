@@ -55,7 +55,7 @@ Wusstet Ihr, dass es von Primus einen neuen Song gibt? "Conspiranoia" ist ganze 
 
 ## Dimwind – "Window Passed" von der Split EP "Seasons"
 
-Dimwind habe ich Euch hier im Blog vor Kurzem [im Interview vorgestellt](/2021/06/dimwind-interview/). Die Schweden kommen gerade mit ihrer neuen Split-EP "Seasons" aus dem Studio. Mit ihrem stimmungsgeladenen Blackgaze klagen sie im ersten Song "Window Passed" die Versäumnisse der Menschheit auf die Klimakatastrophe und der Zerstörung und Ausbeutung des Planeten an. Wenn Ihr auf dystopischen Post-Music Sound steht, solltet Ihr Euch dieses Stück Musik auf keinen Fall entgehen lassen.
+Dimwind habe ich Euch hier im Blog vor Kurzem [im Interview vorgestellt](/2021/06/dimwind-interview/). Die Schweden kommen gerade mit ihrer neuen Split-EP "Seasons" aus dem Studio, die sie sich mit dem veganen Musiker [Breaths, den Ihr auch hier im Blog kennenlernen könnt](/2021/02/breaths-interview/), teilen. Mit ihrem stimmungsgeladenen Blackgaze klagen sie im ersten Song "Window Passed" die Versäumnisse der Menschheit auf die Klimakatastrophe und der Zerstörung und Ausbeutung des Planeten an. Wenn Ihr auf dystopischen Post-Music Sound steht, solltet Ihr Euch dieses Stück Musik auf keinen Fall entgehen lassen.
 
 <YouTube id="GU7lFRcpTwM" />
 
