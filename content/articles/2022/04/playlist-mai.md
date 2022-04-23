@@ -4,7 +4,7 @@ slug: playlist-mai-2022
 typeName: Beitrag
 title: Playlist Mai 2022
 subTitle: 10 Songs von Primus bis Violet Cold
-seoTitle: Alternative Playlist Mai – 10 Songs von Primus bis Violet Cold
+seoTitle: Playlist Mai – 10 Songs von Primus bis Violet Cold
 description: Für den Start in den Wonnemonat habe ich gemeinsam mit meinen
   beiden Lieblings-Musikfans wieder zehn besondere Songs von Post-Rock bis Prog
   für Euch zusammengestellt.
