@@ -1,17 +1,28 @@
 ---
-date: 2020-10-12T11:19:56.000+00:00
-slug: gumbies-brumby-vegane-huettenschuhe
-path: '/2020/10/gumbies-brumby-vegane-huettenschuhe/'
-title: Neue Hausschuhe von Gumbies
-seoTitle: Neue Hausschuhe von Gumbies - Veganer Filz für Herbst und Winter
 ogTitle: Neue Hausschuhe von Gumbies - Veganer Filz für Herbst und Winter
-description: 'Von Gumbies gibt es jetzt etwas Neues: gemütliche Hüttenschuhe. Das Material: veganer Fleece. Das neue Modell "Brumby" ist wunderbar warm und bequem.'
-excerpt: 'Von Gumbies gibt es jetzt etwas Neues: gemütliche Hüttenschuhe. Das Material: veganer Fleece. Das neue Modell "Brumby" ist wunderbar warm und bequem.'
-fileName: 2020-10---neue-hausschuhe-von-gumbies.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-gumbies-13__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-gumbies-13__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwQH/8QAKhAAAQQBBAECBQUAAAAAAAAAAQIDBBEFAAYSITETQSJhcYGxBxUyUWL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACMRAAICAQMDBQAAAAAAAAAAAAECAxEABDFBE5HBISJR0fD/2gAMAwEAAhEDEQA/AJ/AbYisxFrkt0UIKuh0qhf20md/T5nNZuRIU48w20yJEjgm7URXFIHYNAn38fPVy5MUxFVKhcTGbZBLXC23VKUAAR/VHu+qvWfHLViIgmQWV+s9LW0X08lfCpuknkQR8IPSb8Ho6g6jWN03WAUxoA8fJ/fWPTTNayE2o38ZIytqwXchjce1CcSxAcSuQPRPEch1Z8HkSmuz0dKc9tuClC1Rg0tKhYKACK/P511t2Y1+2zZEI2486lERt9sAlaOXpIKE1yBKSn/Ng+PEfuXGQ1Y5UmKtdyD6xUDy4kj+NewFVXf10OTXSzSAv6UAO2Ii06RqQOTffIrPbmgxIsR1NmWltZpKjXfaQfqb1VY3ckTDbchWw05GcSH2pXMlxTpAJpPhJBJ8ew70aNWhCrCGM7WT5wJc1I3NVmvs3PtOYqbkVrQHJT4AR5LfBJTfyJ5H7VpLuPNIJV6L46HkGtGjUt16mpd23vHJ7IlUbVn/2Q==
+excerpt: 'Von Gumbies gibt es jetzt etwas Neues: gemütliche Hüttenschuhe. Das
+  Material: veganer Fleece. Das neue Modell "Brumby" ist wunderbar warm und
+  bequem.'
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_brumby-veganer-fleece-fb.png__l.jpg
+isAffiliate: false
+path: /2020/10/gumbies-brumby-vegane-huettenschuhe/
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwQH/8QAKhAAAQQBBAECBQUAAAAAAAAAAQIDBBEFAAYSITETQSJhcYGxBxUyUWL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACMRAAICAQMDBQAAAAAAAAAAAAECAxEABDFBE5HBISJR0fD/2gAMAwEAAhEDEQA/AJ/AbYisxFrkt0UIKuh0qhf20md/T5nNZuRIU48w20yJEjgm7URXFIHYNAn38fPVy5MUxFVKhcTGbZBLXC23VKUAAR/VHu+qvWfHLViIgmQWV+s9LW0X08lfCpuknkQR8IPSb8Ho6g6jWN03WAUxoA8fJ/fWPTTNayE2o38ZIytqwXchjce1CcSxAcSuQPRPEch1Z8HkSmuz0dKc9tuClC1Rg0tKhYKACK/P511t2Y1+2zZEI2486lERt9sAlaOXpIKE1yBKSn/Ng+PEfuXGQ1Y5UmKtdyD6xUDy4kj+NewFVXf10OTXSzSAv6UAO2Ii06RqQOTffIrPbmgxIsR1NmWltZpKjXfaQfqb1VY3ckTDbchWw05GcSH2pXMlxTpAJpPhJBJ8ew70aNWhCrCGM7WT5wJc1I3NVmvs3PtOYqbkVrQHJT4AR5LfBJTfyJ5H7VpLuPNIJV6L46HkGtGjUt16mpd23vHJ7IlUbVn/2Q==
+advertisement: true
+isWerbung: false
+fileName: 2020-10---neue-hausschuhe-von-gumbies.md
+slug: gumbies-brumby-vegane-huettenschuhe
+errors: {}
+date: 2020-10-12T11:19:56.000+00:00
+focusKeyword: veganer Fleece
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-gumbies-13__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-gumbies-13__m.jpg
+title: Neue Hausschuhe von Gumbies
+subTitle: Veganer Filz für Herbst und Winter
+seoTitle: Neue Hausschuhe von Gumbies - Veganer Filz für Herbst und Winter
+description: 'Von Gumbies gibt es jetzt etwas Neues: gemütliche Hüttenschuhe.
+  Das Material: veganer Fleece. Das neue Modell "Brumby" ist wunderbar warm und
+  bequem.'
 labels:
   - Brumby
   - Fair Fashion & Beauty
@@ -21,14 +32,7 @@ labels:
   - Upcycling
   - vegane Hüttenschuhe
   - veganer Filz
-focusKeyword: veganer Fleece
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Veganer Filz für Herbst und Winter
-advertisement: true
 ---
 
 **Von Gumbies gibt es jetzt etwas Neues: gemütliche Hüttenschuhe. Das neue Modell ist geschlossen, kuschelig warm und sieht einfach nur toll aus.**
@@ -67,4 +71,4 @@ Wer sich jetzt fragt, wo man die tollen Hausschuhe bestellen kann, klickt am bes
 
 <Gallery name="brumby-2" />
 
-Zum Gumbies Onlineshop [geht es hier](https://www.gumbies.de/). Das Verzeichnis der Einzelhändler, die Gumbies im Sortiment haben, [findet Ihr hier](https://www.gumbies.de/StoreConsent).
+Zum Gumbies Onlineshop [geht es hier](https://www.gumbies.de/). Das Verzeichnis der Einzelhändler, die Gumbies im Sortiment haben, [findet Ihr hier](https://www.gumbies.de/StoreLocator).
