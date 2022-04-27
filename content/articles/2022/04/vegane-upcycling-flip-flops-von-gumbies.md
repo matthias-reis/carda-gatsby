@@ -34,7 +34,7 @@ language: de
 
 ## Von Flip-Flops bis Treckingsandalen
 
-Meine hübschen "Duckbills"[^1] gibt es in vielen Farben. Ich habe mich dieses Mal für klassisches schwarz entschieden. Die Badelatschen bieten in meinen Augen beides: Ein Design, dass es mir auch erlaubt, sie mal abseits von Stränden zu tragen und bequemen Komfort auch auf längeren Strecken. Mit dem dicken Profil kann ich auch ganz bequem über Schotter gehen. Wenn ich sie im Schwimmbad unter der Dusche anlasse, werden sie ruckzuck wieder trocken.
+Meine hübschen "Duckbills"[^1] gibt es in vielen Farben. Ich habe mich dieses Mal für klassisches schwarz entschieden. Die (längst nicht nur!) Badelatschen bieten in meinen Augen beides: Ein Design, dass es mir auch erlaubt, sie mal abseits von Stränden zu tragen und bequemen Komfort auch auf längeren Strecken. Mit dem dicken Profil kann ich auch ganz bequem über Schotter gehen. Wenn ich sie im Schwimmbad unter der Dusche anlasse, werden sie ruckzuck wieder trocken.
 
 Und nachhaltig sind sie obendrein: Neben Autoreifen wurde auch bei diesem Modell PET-Flaschen ein neues Leben geschenkt. Wenn Ihr auf der Suche nach coolen, robusten Zehentrennern seid und Euch die Umwelt am Herzen liegt, kann ich sie Euch auf jeden Fall empfehlen.
 
