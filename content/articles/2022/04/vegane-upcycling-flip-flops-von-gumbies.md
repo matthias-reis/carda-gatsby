@@ -40,7 +40,7 @@ Und nachhaltig sind sie obendrein: Neben Autoreifen wurde auch bei diesem Modell
 
 Auf wasserempfindliche Stoffe hat Gumbies übrigens bewusst verzichtet. Darum sind die Badelatschen nicht nur schnell trocknend, sondern auch besonders langlebig. Vom klassischen Zehentrenner-Modell, das ich hier ja auch schon vorgestellt hatte, unterscheidet sich die "Duckbill" Sandale zwar in einigen Punkten, rutschfest, bequem und praktisch ist sie jedoch ebenso. Das Profil schützt Euch vor dem Ausrutschen auf nassen Schwimmbad-Fliesen, mit dem breiten, bequemen Riemen vermeidet Ihr Blasen. Bei mir haben sich übrigens auch nach einem kompletten Tag keine zwischen den Zehen gebildet. In der Vergangenheit habe ich das bei neuen Flip-Flops hin und wieder durchaus schon erlebt.
 
-<Gallery name="sh glry gumbies-upcycling-flip-flops-1" />
+<Gallery name="gumbies-upcycling-flip-flops-1" />
 
 ## Nachhaltiges, veganes Schuhwerk
 
@@ -62,7 +62,7 @@ Kenn Ihr schon die [Hüttenschuhe](/2020/10/gumbies-brumby-vegane-huettenschuhe/
 
 Ihr findet alle Modelle im Gumbies Onlineshop[^2]. Falls Ihr lieber vor Ort einkaufen wollt, findet Ihr im Store-Locator[^3] die Verkaufsstellen in Eurem Umkreis.
 
-<Gallery name="sh glry gumbies-upcycling-flip-flops-2" />
+<Gallery name="gumbies-upcycling-flip-flops-2" />
 
 [^1]: [Zehentrenner "Duckbill" im Gumbies Onlineshop](https://www.gumbies.de/damenschuhe/zehentrenner/duckbill)
 [^2]: [Gumbies Onlineshop](https://www.gumbies.de/)
