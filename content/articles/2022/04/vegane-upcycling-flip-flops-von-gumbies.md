@@ -46,7 +46,7 @@ Auf wasserempfindliche Stoffe hat Gumbies übrigens bewusst verzichtet. Darum si
 
 Der Stoff ist wirklich sehr angenehm und kein bisschen störrisch oder kratzig. Auf die Idee, dass man es hier mit ehemaligen PET-Flaschen zu tun hat, kommt man bestimmt nicht, wenn man es nicht irgendwo gelesen hat.
 
-Wie alle Modell von Gumbies unterstützen auch die "Duckbills" die natürliche Wölbung Eurer Füße. Gumbies Gründer Michael Maurer ist es außerdem wichtig, dass sie von der Yoga-Session bis zur Dünen-Wanderung alles mitmachen. Darum ist nicht nur die Sohle belastbarer, als Ihr es von herkömmlichen Flip-Flops oder Beach-Sandalen gewohnt seid.
+Wie alle Modelle von Gumbies, unterstützen auch die "Duckbills" die natürliche Wölbung Eurer Füße. Gumbies Gründer Michael Maurer ist es außerdem wichtig, dass sie von der Yoga-Session bis zur Dünen-Wanderung alles mitmachen. Darum ist nicht nur die Sohle belastbarer, als Ihr es von herkömmlichen Flip-Flops oder Beach-Sandalen gewohnt seid.
 
 Bei der Entwicklung der ersten Gumbies, stellte er sich die Frage:
 
