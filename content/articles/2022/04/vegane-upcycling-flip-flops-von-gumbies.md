@@ -3,7 +3,7 @@ date: 2022-04-27T13:06:05.911Z
 slug: upcycling-flip-flops-gumbies
 typeName: Produkttest
 title: Vegane Upcycling-Flip-Flops von Gumbies
-subTitle: Profil für alle Füße (und Wege)
+subTitle: Robustes Profil für alle Füße (und Wege)
 seoTitle: Vegane Upcycling-Flip-Flops von Gumbies
 description: Hier in Hamburg tragen wir von März bis Oktober eigentlich immer
   Flip-Flops. Ich habe jetzt ein ganz besonderes neues Paar, das ich Euch gerne
