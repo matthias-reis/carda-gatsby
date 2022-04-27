@@ -114,7 +114,7 @@ Es gibt die Strandsandalen von Gumbies in allen Farben des Regenbogens und in de
 
 Den Gumbies Onlineshop [findet Ihr hier](https://shop.gumbies.de/).
 
-Ein Verzeichnis der Einzelhändler, die die Strandschuhe im Sortiment haben [hier](https://www.gumbies.de/haendlerverzeichnis).
+Ein Verzeichnis der Einzelhändler, die die Strandschuhe im Sortiment haben [hier](https://www.gumbies.de/StoreLocator).
 
 <Gallery
   images={[
