@@ -1,19 +1,30 @@
 ---
-date: 2018-12-04T19:32:01.000+00:00
-slug: gumbies-im-winter
-path: '/2018/12/gumbies-im-winter/'
-type: Galerie Rechts
-typeName: Produkttest
-title: Gumbies im Winter
-seoTitle: 'Gumbies im Winter - Strandsandalen als Hausschuhe: Das geht!'
-ogTitle: 'Gumbies im Winter - Strandsandalen als Hausschuhe: Das geht!'
-description: 'Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig geworden bin ich vor ein paar Wochen beim Hersteller veganer Strandsandalen Gumbies.'
-excerpt: 'Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig geworden bin ich vor ein paar Wochen beim Hersteller veganer Strandsandalen Gumbies. Schlappen und Flip Flops gehen nämlich auch im Winter! Und wie!'
-fileName: 2018-12---gumbies-im-winter.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-04-gumbies-slides-15__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-04-gumbies-slides-15__l.jpg
+ogTitle: "Gumbies im Winter - Strandsandalen als Hausschuhe: Das geht!"
+excerpt: "Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig geworden bin
+  ich vor ein paar Wochen beim Hersteller veganer Strandsandalen Gumbies.
+  Schlappen und Flip Flops gehen nämlich auch im Winter! Und wie!"
+ogImage: null
+isAffiliate: false
+path: /2018/12/gumbies-im-winter/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACgQAAICAgEDBAEFAQAAAAAAAAECAwQFEQAGEiETMUFRUiIjYXGBkf/EABgBAAMBAQAAAAAAAAAAAAAAAAEFBgIE/8QAJhEAAQMDAwIHAAAAAAAAAAAAAQACEQMEIQUxcRMiQYGhscHR8P/aAAwDAQACEQMRAD8AuWMxiLGulG+M5atanCJLs0FaMkKGmcIN/WzygZfqzLN0jNZqUzUWVlhS1B3bTz+ogk+PAI7vs/fMdL9QY2zQNLqCnN3pGoSxZlMkhLb2e4+Qvzo7HHbg8GCua008V2dQ4HG/C6NJjPOlTZ/gb4tyOGLxN+yTofjxS+cw+MTF4Oxae8i01EKxs0YGiQGlYeApA0Pf29uI+o5KeJmU+lBNJa0wkgd4jC34p2sND28tvfz78LGuJiUtuybY97MTvn4B355hSalnO2KRaKlTpJCgBiW6khC/0pACjX3yl3umbbWbOQXOSXZJGJZiF0D9DbE6/wC8OHJm31KsSZAVJe03vc1wqOAGIER7T6rZhsf1Hateljb9WCmpAVXuoiO+/buCgnZ+N/7yBl5Ooa72K3rQ+l3MkjYuFF2dkEknuJ+fJPDhwUtUrE5A/ea1c6cyqZe9xjwkfS//2Q==
-ogImage:
+typeName: Produkttest
+advertisement: true
+isWerbung: false
+fileName: 2018-12---gumbies-im-winter.md
+slug: gumbies-im-winter
+errors: {}
+date: 2018-12-04T19:32:01.000+00:00
+focusKeyword: Gumbies
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-04-gumbies-slides-15__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-04-gumbies-slides-15__m.jpg
+title: Gumbies im Winter
+subTitle: Perfekte Hausschuhe für gemütliche Stunden
+seoTitle: "Gumbies im Winter - Strandsandalen als Hausschuhe: Das geht!"
+description: "Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig geworden
+  bin ich vor ein paar Wochen beim Hersteller veganer Strandsandalen Gumbies."
+language: de
+type: Galerie Rechts
 labels:
   - Australien
   - Beach
@@ -39,14 +50,6 @@ labels:
   - veganes Leder
   - Wellness
   - Yoga
-focusKeyword: Gumbies
-status: publish
-isWerbung: false
-isAffiliate: false
-language: de
-errors: {}
-subTitle: Perfekte Hausschuhe für gemütliche Stunden
-advertisement: true
 ---
 
 **Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig geworden bin ich vor ein paar Wochen beim Hersteller veganer Strandsandalen Gumbies. Schlappen und Flip-Flops gehen nämlich auch im Winter! Und wie!**
@@ -69,7 +72,7 @@ Sie glänzen außerdem noch mit ein paar weiteren Vorteilen. Sie passen sich nic
 
 Auch im Winter mit Strandsandalen herumzulaufen gibt mir nicht nur das Gefühl, dass der Sommer gar nicht so weit weg ist. Ich tue es aus Überzeugung. Im Fitnessstudio, in der Sauna, beim Netflixen, beim Backen und wenn ich die Post aus dem Briefkasten hole. Ob im heißen Wüstensand oder auf Teppichboden: Ich möchte auf meine Gumbies nicht mehr verzichten. Inzwischen haben schon einige meiner Freunde sich auch welche gekauft. Bis jetzt hat niemand ein negatives Wort verloren.
 
-Bestellt werden können die Schuhe ganz bequem über den [Webshop](https://shop.gumbies.de/). Außerdem findet man in immer mehr Fußgängerzonen Schuhgeschäfte, die auch Gumbies vertreiben. [Hier eine Liste](https://www.gumbies.de/haendlerverzeichnis). Zuletzt habe ich sie in [Wismar](/2018/06/wismar-am-sonntag/) entdeckt und auch in Fulda, Augsburg und Hamburg sind sie mir über den Weg gelaufen. Haltet also am besten die Augen offen.
+Bestellt werden können die Schuhe ganz bequem über den [Webshop](https://shop.gumbies.de/). Außerdem findet man in immer mehr Fußgängerzonen Schuhgeschäfte, die auch Gumbies vertreiben. [Hier eine Liste](https://www.gumbies.de/StoreLocator). Zuletzt habe ich sie in [Wismar](/2018/06/wismar-am-sonntag/) entdeckt und auch in Fulda, Augsburg und Hamburg sind sie mir über den Weg gelaufen. Haltet also am besten die Augen offen.
 
 Ich mache es mir jetzt mit meinen Hausschuhen in meiner Leseecke gemütlich bei einer leckeren Tasse Tee, ein paar Keksen und einem guten Buch. Wir lesen uns!
 
