@@ -52,7 +52,7 @@ Bei der Entwicklung der ersten Gumbies, stellte er sich die Frage:
 
 > "Zwei bis vier Mal in unserem Leben laufen wir um die ganze Erde. Wie schön wäre es, einen Teil davon in Strandsandalen zu gehen?"
 
-Das Konzept geht bis heute auf. Jedes Jahr kommen neue Gumbies dazu. Sie begleiten mich jetzt schon sehr lange – und zwar täglich. Weil sie so gut verarbeitet und robust sind, machen sie mir nicht nur Freude im Alltag, sie bleiben mir auch jahrelang erhalten. Da habe ich früher mit Schuhen dieser Art komplett andere Erfahrungen gemacht.
+Das darauf fundierende Konzept geht bis heute auf. Jedes Jahr kommen neue Gumbies dazu. Sie begleiten mich jetzt schon sehr lange – und zwar täglich. Weil sie so gut verarbeitet und robust sind, machen sie mir nicht nur Freude im Alltag, sie bleiben mir auch jahrelang erhalten. Da habe ich früher mit Schuhen dieser Art komplett andere Erfahrungen gemacht.
 
 ## Die Schönheit Australiens
 
