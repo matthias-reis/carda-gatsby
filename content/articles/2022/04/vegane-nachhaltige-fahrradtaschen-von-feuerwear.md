@@ -76,7 +76,7 @@ Einen weiteren Bonus und einen echter Pluspunkt gegenüber anderen Fahrradtasche
 
 Im Rahmen der Pressevorstellung habe ich Feuerwear[^1] Gründer Martin ein paar Fragen gestellt. Unter anderem konnte er mir versichern, dass das Material komplett vegan-freundlich ist. Bei der Herstellung wurde also auch kein nicht-veganer Kleber oder ähnliches verwendet.
 
-## ⋆An der Feuerwear-Verlosung teilnehmen
+## An der Feuerwear-Verlosung teilnehmen
 
 ---
 
