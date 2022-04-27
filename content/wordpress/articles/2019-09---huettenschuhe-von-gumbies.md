@@ -1,6 +1,7 @@
 ---
 ogTitle: Hüttenschuhe von Gumbies - warme Füße in veganen Puschen
-excerpt: Gumbies habe ich Euch hier im Blog bereits vorgestellt. Seit neuestem gibt es jetzt auch vegane Hüttenschuhe vom Bielefelder Upcycling Start-up.
+excerpt: Gumbies habe ich Euch hier im Blog bereits vorgestellt. Seit neuestem
+  gibt es jetzt auch vegane Hüttenschuhe vom Bielefelder Upcycling Start-up.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_09_gumbies-anne-reis-cardamonchai-rock-n-roll-vegan-fb.png__l.jpg
 isAffiliate: false
 path: /2019/09/huettenschuhe-von-gumbies/
@@ -19,7 +20,9 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09
 title: Hüttenschuhe von Gumbies
 subTitle: Warme Füße in veganen Puschen
 seoTitle: Hüttenschuhe von Gumbies - warme Füße in veganen Puschen
-description: Gumbies habe ich Euch hier im Blog bereits vorgestellt. Seit neuestem gibt es jetzt auch vegane Hüttenschuhe vom Bielefelder Upcycling Start-up.
+description: Gumbies habe ich Euch hier im Blog bereits vorgestellt. Seit
+  neuestem gibt es jetzt auch vegane Hüttenschuhe vom Bielefelder Upcycling
+  Start-up.
 language: de
 type: Artikel
 labels:
@@ -106,4 +109,4 @@ Erstehen könnt Ihr Eure Gumbies übrigens ganz bequem über den Onlineshop. Au�
 
 Den Gumbies Onlineshop [findet Ihr hier](https://shop.gumbies.de/).
 
-Ein Verzeichnis der Einzelhändler, die Gumbies führen, gibt es  [hier](https://www.gumbies.de/haendlerverzeichnis).
+Ein Verzeichnis der Einzelhändler, die Gumbies führen, gibt es  [hier](https://www.gumbies.de/StoreLocator).
