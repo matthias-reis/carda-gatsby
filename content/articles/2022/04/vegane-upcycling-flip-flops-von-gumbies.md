@@ -38,7 +38,7 @@ Meine hübschen "Duckbills"[^1] gibt es in vielen Farben. Ich habe mich dieses M
 
 Und nachhaltig sind sie obendrein: Neben Autoreifen wurde auch bei diesem Modell PET-Flaschen ein neues Leben geschenkt. Wenn Ihr auf der Suche nach coolen, robusten Zehentrennern seid und Euch die Umwelt am Herzen liegt, kann ich sie Euch auf jeden Fall empfehlen.
 
-Auf wasserempfindliche Stoffe hat Gumbies übrigens bewusst verzichtet. Darum sind die Badelatschen nicht nur schnell trocknend, sondern auch besonders langlebig. Vom klassischen Zehentrenner-Modell, das ich hier ja auch schon vorgestellt hatte, unterscheidet sich die "Duckbill" Sandale zwar in einigen Punkten, rutschfest, bequem und praktisch ist sie jedoch ebenso. Das Profil schützt Euch vor dem Ausrutschen auf nassen Schwimmbad-Fliesen, mit dem breiten, bequemen Riemen vermeidet Ihr Blasen. Bei mir haben sich übrigens auch nach einem kompletten Tag keine zwischen den Zehen gebildet. In der Vergangenheit habe ich das bei neuen Flip-Flops hin und wieder durchaus schon erlebt.
+Auf wasserempfindliche Stoffe hat Gumbies übrigens bewusst verzichtet. Darum sind die Flip-Flops nicht nur schnell trocknend, sondern auch besonders langlebig. Vom klassischen Zehentrenner-Modell, das ich hier ja auch schon vorgestellt hatte, unterscheidet sich die "Duckbill" Sandale zwar in einigen Punkten, rutschfest, bequem und praktisch ist sie jedoch ebenso. Das Profil schützt Euch vor dem Ausrutschen auf nassen Schwimmbad-Fliesen, mit dem breiten, bequemen Riemen vermeidet Ihr Blasen. Bei mir haben sich übrigens auch nach einem kompletten Tag keine zwischen den Zehen gebildet. In der Vergangenheit habe ich das bei neuen Flip-Flops hin und wieder durchaus schon erlebt.
 
 <Gallery name="gumbies-upcycling-flip-flops-1" />
 
