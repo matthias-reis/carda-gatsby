@@ -58,7 +58,7 @@ Das darauf fundierende Konzept geht bis heute auf. Jedes Jahr kommen neue Gumbie
 
 Die Inspiration für das erste Gumbies Modell liegt übrigens in der schroffen Schönheit des australischen Outbacks, das Gründer Michael auf seinen Studien-Reisen kennenlernte. Als er anfing, die Schuhe zu gestalten, war ihm von Anfang an klar, dass sie vegan sein sollten – etwas anderes kam für ihn nicht infrage.
 
-Kenn Ihr schon die [Hüttenschuhe](/2020/10/gumbies-brumby-vegane-huettenschuhe/) und die [Hausschuhe](/2019/09/huettenschuhe-von-gumbies/) von Gumbies? Die [Slipper](/2018/12/gumbies-im-winter/) und die [Slingbacks](/2021/04/gumbies-slingbacks-cairns/) kann ich Euch auch wärmstens empfehlen. [Das klassische Flip-Flop-Modell findet Ihr hier](/2018/03/gumbies-vegane-strandsandalen/).
+Kenn Ihr schon die [Hüttenschuhe](/2020/10/gumbies-brumby-vegane-huettenschuhe/) und die [Hausschuhe](/2019/09/huettenschuhe-von-gumbies/) von Gumbies? Die [Slides](/2018/12/gumbies-im-winter/) und die [Slingbacks](/2021/04/gumbies-slingbacks-cairns/) kann ich Euch auch wärmstens empfehlen. [Das klassische Flip-Flop-Modell findet Ihr hier](/2018/03/gumbies-vegane-strandsandalen/).
 
 Ihr findet alle Modelle im Gumbies Onlineshop[^2]. Falls Ihr lieber vor Ort einkaufen wollt, findet Ihr im Store-Locator[^3] die Verkaufsstellen in Eurem Umkreis.
 
