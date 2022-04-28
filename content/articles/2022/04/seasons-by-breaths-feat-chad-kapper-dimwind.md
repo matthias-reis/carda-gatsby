@@ -47,7 +47,7 @@ When I read Jason's message about this, I was pretty overwhelmed. It is a tremen
 
 I already mentioned "Seasons" briefly in the [Music List for May](/2022/04/playlist-mai-2022/) – the Dimwind track "Window Passed" is part of the playlist. Of course, already had the press release for the record in my inbox by this time. However, I had not yet read Jason's personal message to me. Here's what he texted me:
 
-> "I believe I first heard of Dimwind on your blog, actually, when you reviewed their debut around the same time as mine. I messaged them on IG and sent their stuff to Trepanation Recordings, who had just released my album, and the rest is history. Felt natural for us to do this split together as we both feel strongly about climate issues, and our styles share a lot of commonalities, and we love a lot of the same music."
+> "I believe I first heard of Dimwind on your blog, when you reviewed their debut around the same time as mine. I messaged them on Instagram and sent their stuff to Trepanation Recordings, who had just released my album, and the rest is history. Felt natural for us to do this split together as we both feel strongly about climate issues, and our styles share a lot of commonalities, and we love a lot of the same music."
 
 So it came about that an American blackgaze project, and a post-metal band from Sweden recorded an epic EP together – "Seasons" was born. With their release, the artists want to remind us not to lose sight of the greatest threat to humanity and the entire planet in the turmoil of wars and pandemics – the climate catastrophe.
 
