@@ -53,7 +53,7 @@ So kam es dazu, dass ein amerikanisches Blackgaze Projekt und eine Post-Metal Ba
 
 ## Die größte Bedrohung der Menschheit
 
-Ist es vielleicht schon zu spät oder gibt es noch etwas, das wir tun können? Können wir die Zerstörung der Erde bremsen, wenn wir unser Verhalten ändern? Was müssen wir tun? Wird es für die Kinder und Kindeskinder unserer Generation überhaupt noch so etwas geben wie ein Leben ohne Angst vor dem Ende der Welt? Auf die Spur dieser Fragen haben sich Dimwind und Breaths mit ihren gemeinsamen Aufnahmen begeben und dabei ein dystophisches und nachdenkliches Meisterwerk geschaffen, das authentischer und aktueller nicht sein könnte.
+Ist es vielleicht schon zu spät oder gibt es noch etwas, das wir tun können? Können wir die Zerstörung der Erde bremsen, wenn wir unser Verhalten ändern? Was müssen wir tun? Wird es für die Kinder und Kindeskinder unserer Generation überhaupt noch so etwas geben wie ein Leben ohne Angst vor dem Ende der Welt? Auf die Spur dieser Fragen haben sich Dimwind und Breaths mit ihren gemeinsamen Aufnahmen begeben und dabei ein dystopisches und nachdenkliches Meisterwerk geschaffen, das authentischer und aktueller nicht sein könnte.
 
 Falls Ihr die Musik von Dimwind und Breaths noch nicht kennt: Stilistisch geht sie in die Richtung von Bands wie Russian Circles, Pelican, Alcest, Deafheaven, Holy Fawn, Long Distance Calling, PG.lost und Lantlos. Beide Projekte haben jedoch ihren komplett persönlichen Stil gefunden, der sich auf "Seasons" perfekt ineinander fügt und ein harmonisches Gesamtbild ergibt. Für nächstes Jahr wünsche ich mir dann einen gemeinsamen Festival-Auftritt der Schweden und des Solo-Künstlers aus Richmond, Virginia.
 
