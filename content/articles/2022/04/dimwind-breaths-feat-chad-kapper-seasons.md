@@ -9,10 +9,10 @@ description: Vor ein paar Tagen erfuhr ich, dass sich Dimwind und Breaths
   entschieden hatten, gemeinsam eine Split-EP aufzunehmen, nachdem sie meine
   Artikel über das jeweils andere Projekt auf meinem Blog gelesen hatten.
 excerpt: Als Musik-Bloggerin erlebe ich immer wieder Überraschungen. Eine ganz
-  besonders schöne war, als ich vor ein paar Tagen erfuhr, dass sich zwei
-  Post-Music Projekte dazu entschieden, gemeinsam eine Split-EP aufzunehmen,
-  nachdem sie meine Artikel über das jeweils andere Projekt auf meinem Blog
-  gelesen hatten.
+  besonders schöne war, als ich vor ein paar Tagen erfuhr, dass sich zwei meiner
+  liebsten Post-Music Projekte – Breaths und Dimwind – dazu entschieden hatten,
+  gemeinsam eine Split-EP aufzunehmen, nachdem sie meine Artikel über das
+  jeweils andere Projekt auf meinem Blog gelesen hatten.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-28/breaths-dimwind-jpg-imagine-080808_4a534c_1024_768/640.webp
 copyrigt: Dimwind/Breaths
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-28/breaths-dimwind-fb-jpg-imagine-080808_49534b_1200_628/640.webp
@@ -35,7 +35,7 @@ affiliate: false
 language: de
 languageLink: /2022/04/breaths-dimwind-seasons-en/
 ---
-**Als Musik-Bloggerin erlebe ich immer wieder Überraschungen. Eine ganz besonders schöne war, als ich vor ein paar Tagen erfuhr, dass sich zwei Post-Music Projekte dazu entschieden, gemeinsam eine Split-EP aufzunehmen, nachdem sie meine Artikel über das jeweils andere Projekt auf meinem Blog gelesen hatten.**
+**Als Musik-Bloggerin erlebe ich immer wieder Überraschungen. Eine ganz besonders schöne war, als ich vor ein paar Tagen erfuhr, dass sich zwei meiner liebsten Post-Music Projekte – Breaths und Dimwind – dazu entschieden hatten, gemeinsam eine Split-EP aufzunehmen, nachdem sie meine Artikel über das jeweils andere Projekt auf meinem Blog gelesen hatten.**
 
 Ganz genau: Ihr habt richtig gelesen. Die Split-EP "Seasons" von Breaths (feat. Chad Kapper of Frontierer) und Dimwind würde es ohne [mein Interview mit Breaths Gründer Jason](/2021/02/breaths-interview/) und [das mit Dimwind Gründer Jonas](/2021/06/dimwind-interview/) sowie die Reviews zu ihren Debüt-Platten ["Slow Wave Violence" (Dimwind)](/2021/05/dimwind-slow-wave-violence/) und ["Though Life" (Breaths)](/2021/10/breaths-though-life/) wohl nicht geben. Das berichtete mir Jason vor Kurzem in einer Nachricht. 
 
