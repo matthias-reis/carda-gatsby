@@ -81,7 +81,7 @@ Nach mehr als 20 bis 25 Jahren in unterschiedlichen Bands, sind wir mehr oder we
 
 Als wir Barrens gestartet haben, hatten wir bestimmte Ideen, die wir erforschen wollten. Leider musste Scraps Of Tape aus verschiedenen Gründen pausieren. Diese Auszeit haben wir genutzt, um sie zu erforschen und zu entdecken, was aus Barrens werden kann.
 
-**Anne:** Johan, diese Frage geht an Dich: Wir haben uns während der Auszeit im Jahr 2020 über die sozialen Netzwerke kennengelernt. [Ich habe Dich letztes Jahr auch zu Deinem Soloprojekt interviewt](/2021/03/johan-g-winther-interview/). Du hast Deine Hände in vielen Projekten, wie Blessings und Barrens, und auch mit Scraps of Tape hast Du sieben Alben veröffentlicht. Ich stelle mir das ziemlich intensiv vor. Gibt es Zeiten, in denen Du nicht im Studio arbeitest, Musik schreibst oder mit einer Deiner Bands auf Tour bist? Wie schaffst Du es, bei all diesen fabelhaften Projekten dabei zu sein?
+**Anne:** Johan, diese Frage geht an Dich: Wir haben uns während der Auszeit im Jahr 2020 über die sozialen Netzwerke kennengelernt. [Ich habe Dich letztes Jahr auch zu Deinem Soloprojekt interviewt](/2021/03/johan-g-winther-interview/). Du hast Deine Hände in vielen Projekten, wie [Blessings](/2021/04/blessings-biskopskniven/) und Barrens, und auch mit Scraps of Tape hast Du sieben Alben veröffentlicht. Ich stelle mir das ziemlich intensiv vor. Gibt es Zeiten, in denen Du nicht im Studio arbeitest, Musik schreibst oder mit einer Deiner Bands auf Tour bist? Wie schaffst Du es, bei all diesen fabelhaften Projekten dabei zu sein?
 
 ## "Wir haben sehr verständnisvolle Partner⋆innen"
 
