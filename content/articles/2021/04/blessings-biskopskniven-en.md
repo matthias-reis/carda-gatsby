@@ -1,5 +1,4 @@
 ---
-templateKey: article
 date: 2021-04-27T16:31:23.218Z
 slug: blessings-biskopskniven-en
 typeName: Beitrag
@@ -30,20 +29,20 @@ labels:
   - Review
   - Bands
   - Johan G. Winther
-focusKeyword: Biskopskniven
 advertisement: false
+templateKey: article
+focusKeyword: Biskopskniven
 affiliate: false
 language: en
 languageLink: /2021/04/blessings-biskopskniven
 ---
-
 **Blessings are planning to release a new highlight from the post-music corner on May 21st. The Ocean label Pelagic Records is responsible for the new album "Biskopskniven". I have already had the chance to listen to it.**
 
 The first track is called "The Hound". It really gets under your skin – this is post-hardcore the way we love it. The vocals are building up to be cut by howling sounds shortly afterwards. A wild and exciting game begins – short and concise. The statement is crystal clear. The bright and hard guitar sounds mix with the ear-catching singing – from both directions and wonderfully accentuated in an exciting way. At some point, the tempo slows down to the minimum and finally suffocates in the decent chaos of the breakdown of the second song on the record "Strings Of Read".
 
 ## "A Belly Full Of Stone"
 
-![Blessings – "Biskopskniven"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/blessings-biskopskniven-cover-jpeg-imagine-181818_565658_1200_1200/640.webp 'Blessings – "Biskopskniven"' "Blessings – \"Biskopskniven\"")
+![Blessings – "Biskopskniven"](Blessings – "Biskopskniven" "Blessings – \"Biskopskniven\"")
 
 The third song on "Biskopskniven" is already available, just like the sixth ("Iron Heel"). "A Belly Full Of Stone" starts with clattering noise effects and escalates into a furious, driving and intense piece that should please the punk friends among you.
 
