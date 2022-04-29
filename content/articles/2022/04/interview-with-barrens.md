@@ -7,11 +7,11 @@ subTitle: '"It Is so Good To Finally Perform On Stage"'
 seoTitle: Barrens – "It Is so Good To Perform" – Post-Rock Interview
 description: Barrens are currently working on a new album. Their previous
   record, "Penumbra", which they released on Pelagic Records, was very well
-  received live. Time for an interview.
+  received live. I now had the chance to meet them for an interview.
 excerpt: Barrens have just finished their postponed tour with God Is An
   Astronaut. The post-rock band from Sweden is currently working on a new album.
   Their previous record, "Penumbra", which they released on Pelagic Records, was
-  very well received live. Time for an interview.
+  very well received live. I now had the chance to meet them for an interview.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-29/barrens-interview-jpg-imagine-080808_000000_1024_768/640.webp
 copyrigt: Barrens
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-29/barrens-interview-fb-jpg-imagine-080808_000000_1200_628/640.webp
@@ -34,7 +34,7 @@ affiliate: false
 language: en
 languageLink: /2022/04/barrens-interview/
 ---
-**Barrens have just finished their postponed tour with God Is An Astronaut. The post-rock band from Sweden is currently working on a new album. Their previous record, "Penumbra", which they released on Pelagic Records, was very well received live. Time for an interview.**
+**Barrens have just finished their postponed tour with God Is An Astronaut. The post-rock band from Sweden is currently working on a new album. Their previous record, "Penumbra", which they released on Pelagic Records, was very well received live. I now had the chance to meet them for an interview.**
 
 **Anne:** Hi! How are you doing today? Thanks for taking the time for this interview!
 
