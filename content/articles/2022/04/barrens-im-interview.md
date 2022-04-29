@@ -7,11 +7,11 @@ subTitle: '"Endlich können wir unsere Musik live spielen"'
 seoTitle: Barrens – "Endlich können wir live performen!" - Post-Rock Interview
 description: Barrens arbeiten derzeit an einem neuen Album. Das Vorgängerwerk
   "Penumbra" ist auf Pelagic Records erschienen und fand live großen Anklang.
-  Zeit für ein Interview.
+  Ich hatte jetzt die Gelegenheit, sie zu interviewen.
 excerpt: Barrens haben gerade ihre verschobene Tour mit God Is An Astronaut
   abgeschlossen. Die Post-Rock Band aus Schweden arbeitet derzeit an einem neuen
   Album. Das Vorgängerwerk "Penumbra" ist auf Pelagic Records erschienen und
-  fand live großen Anklang. Zeit für ein Interview.
+  fand live großen Anklang. Ich hatte jetzt die Gelegenheit, sie zu interviewen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-29/barrens-interview-jpg-imagine-080808_000000_1024_768/640.webp
 copyrigt: Barrens
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-29/barrens-interview-fb-jpg-imagine-080808_000000_1200_628/640.webp
