@@ -88,9 +88,7 @@ When starting Barrens, we had specific ideas that we wanted to explore. Unfortun
 
 ## "We have very understanding partners"
 
-**Barrens:**  Yes, thank you so much for your interest in what I do. I appreciate it!
-
-Music is not my full-time job. I'm a teacher, and all of this music stuff has to happen "on the side". I also have a family and am a father with growing kids, just like the other members of Barrens. When you put all the projects I'm involved in side by side, it looks like a lot, but things work in cycles, as with everything in life. It's not too often that all bands are active 100 per cent simultaneously, and it's usually pretty easy to keep things flowing. Admittedly, it can become too much at times, but it usually works out. I play with understanding people and have a very understanding partner. But it gets more challenging as you get older, I have to admit that. It's not as easy to just up and leave for a tour as it once was. You have responsibilities, your kids need you, and your body isn't as strong as it once was, but I try to stay as busy as I can for as long as it works.
+**Barrens:**  Yes, thank you so much for your interest in what I do. I appreciate it! Music is not my full-time job. I'm a teacher, and all of this music stuff has to happen "on the side". I also have a family and am a father with growing kids, just like the other members of Barrens. When you put all the projects I'm involved in side by side, it looks like a lot, but things work in cycles, as with everything in life. It's not too often that all bands are active 100 per cent simultaneously, and it's usually pretty easy to keep things flowing. Admittedly, it can become too much at times, but it usually works out. I play with understanding people and have a very understanding partner. But it gets more challenging as you get older, I have to admit that. It's not as easy to just up and leave for a tour as it once was. You have responsibilities, your kids need you, and your body isn't as strong as it once was, but I try to stay as busy as I can for as long as it works.
 
 **Anne:** Do you have a ritual before going on stage?
 
