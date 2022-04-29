@@ -3,7 +3,7 @@ date: 2022-04-29T11:47:56.134Z
 slug: barrens-interview
 typeName: Interview
 title: Barrens im Interview
-subTitle: '"Endlich können wir live performen!"'
+subTitle: '"Endlich können wir unsere Musik live spielen"'
 seoTitle: Barrens – "Endlich können wir live performen!" - Post-Rock Interview
 description: Barrens arbeiten derzeit an einem neuen Album. Das Vorgängerwerk
   "Penumbra" ist auf Pelagic Records erschienen und fand live großen Anklang.
