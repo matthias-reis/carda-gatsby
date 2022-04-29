@@ -50,7 +50,7 @@ languageLink: /2022/04/barrens-interview/
 
 **Barrens:** Finally being able to bring this music on the road feels fantastic.  When we finished Penumbra and released it, we were all set to hit the road and play as much as we could, and then the pandemic happened, and everything ground to a halt. This tour was supposed to be a tour of five weeks, and it got pushed forward and changed around so many times that we were almost despairing and doubting that it would even happen at all. But now we're here, it's not as many shows as it was supposed to be at first, but we're making the most of the ones we're still able to play and are enjoying ourselves immensely. The audience's response has been excellent, and even though we're the opening act, there has been a terrific sized crowd before we've even hit the stage at all the shows. Many people came up to us saying they're at the show as much for our sake and GIAA. And, of course, many new fans! It's been overwhelming and amazing.
 
-## "We love being on sage"
+## "We love being on stage"
 
 **Anne:** I've heard some rumours that you are also working on some new music. Are they true? We all loved your 2020 album "Penumbra", and we are more than curious! So what's up next from Barrens?
 
