@@ -84,7 +84,7 @@ We discuss concepts and images that we would like to convey and see what we can 
 
 We had certain ideas when starting Barrens (mentioned earlier) that we really wanted to explore. Scraps Of Tape had to take a break for various reasons, so we used the downtime to explore these ideas and find out what Barrens could become. 
 
-**Anne:** Johan, this question is for you: We got to know each other over social media during the lockdown period in 2020. I also interviewed you about your solo project last year. You have your hands in many projects, such as Blessings and Barrens, and you also released seven albums with Scraps of Tape. I can imagine this quite intense. Are there times when you are not working in a studio, writing music or are on tour with one of your bands? How do you manage to be part of all these fabulous projects?
+**Anne:** Johan, this question is for you: We got to know each other over social media during the lockdown period in 2020. I also interviewed you about your solo project last year. You have your hands in many projects, such as [Blessings](/2021/04/blessings-biskopskniven-en) and Barrens, and you also released seven albums with Scraps of Tape. I can imagine this quite intense. Are there times when you are not working in a studio, writing music or are on tour with one of your bands? How do you manage to be part of all these fabulous projects?
 
 ## "We have very understanding partners"
 
