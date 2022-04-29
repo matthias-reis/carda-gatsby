@@ -80,7 +80,7 @@ We have a lot of demos, riffs, and ideas that we piece together and test out whe
 
 **Anne:** You founded as a trio in 2018. Two of you came from the Malmö band Scraps Of Tape. Would you describe Barrens as the continuation of SOT, or is it a completely new project?
 
-**Barrens:**No, Barrens is not a continuation of Scraps Of Tape. Barrens is a new thing, but specific ideas and styles do not work in S.o.T have found a home. 
+**Barrens:** No, Barrens is not a continuation of Scraps Of Tape. Barrens is a new thing, but specific ideas and styles do not work in S.o.T have found a home. 
 
 When starting Barrens (mentioned earlier), we had specific ideas that we wanted to explore. Unfortunately, scraps Of Tape had to take a break for various reasons, so we used the downtime to explore these ideas and discover what Barrens could become. 
 
