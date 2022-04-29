@@ -82,7 +82,7 @@ We have a lot of demos, riffs, and ideas that we piece together and test out whe
 
 **Barrens:** No, Barrens is not a continuation of Scraps Of Tape. Barrens is a new thing, but specific ideas and styles do not work in S.o.T have found a home. 
 
-When starting Barrens (mentioned earlier), we had specific ideas that we wanted to explore. Unfortunately, scraps Of Tape had to take a break for various reasons, so we used the downtime to explore these ideas and discover what Barrens could become. 
+When starting Barrens, we had specific ideas that we wanted to explore. Unfortunately, scraps Of Tape had to take a break for various reasons, so we used the downtime to explore these ideas and discover what Barrens could become. 
 
 **Anne:** Johan, this question is for you: We got to know each other over social media during the lockdown period in 2020. [I also interviewed you about your solo project last year](/2021/03/johan-g-winther-interview-en/). You have your hands in many projects, such as Blessings and Barrens, and you also released seven albums with Scraps of Tape. I can imagine this quite intense. Are there times when you are not working in a studio, writing music or are on tour with one of your bands? How do you manage to be part of all these fabulous projects?
 
