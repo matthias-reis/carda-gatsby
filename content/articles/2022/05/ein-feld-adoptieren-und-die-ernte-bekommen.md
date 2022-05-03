@@ -76,7 +76,7 @@ Ganz ehrlich? Für uns ist das eine wunderbare Alternative dazu, jede Woche ein 
 
 ## Bio-Buchweizen
 
-Buchweizen ist ein Getreide, das ich persönlich ganz besonders gerne mag. Es ist unglaublich vielseitig einsetzbar, schmeckt lecker und passt eigentlich fast überall dazu. Darum habe ich mich über das Angebot von Silvia und David auch ganz besonders gefreut. Hier ihre persönliche Empfehlung für das Kochen ihres Buchweizens:
+Buchweizen ist ein Getreide, das ich persönlich ganz besonders gerne mag. Es ist unglaublich vielseitig einsetzbar, schmeckt lecker und passt eigentlich fast überall dazu. Darum habe ich mich über das neue Angebot von Silvia und David auch ganz besonders gefreut. Hier ihre persönliche Empfehlung für das Kochen ihres Buchweizens:
 
 Wascht den Buchweizen und kocht ihn mit der doppelten Menge Wasser auf. Gebt etwas Salz hinzu und lasst ihn für rund 15 Minuten köcheln. Anschließend könnt Ihr ihn als Beilage zu Salaten, als Porridge oder im Müsli genießen. Gemahlen eignet er sich für Nudelteig ebenso wie für Kuchen und Kekse.
 
