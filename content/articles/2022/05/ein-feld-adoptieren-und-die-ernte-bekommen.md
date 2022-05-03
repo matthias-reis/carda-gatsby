@@ -88,8 +88,8 @@ Die Feld-Adoptionen haben für Silvia und David den Vorteil, dass sie übers Jah
 
 Langfristig gesehen hilft das dabei, Lebensmittelverschwendung entgegenzuwirken – nicht nur die Windkinder erhalten Planungssicherheit, sondern auch Ihr als Verbraucher⋆innen. Silvia und David freut das sehr:
 
-"Es ist für uns sehr motivierend, am frühen Morgen auf dem Feld zu stehen und zu wissen, dass Menschen sich auf unsere Produkte freuen und schon drauf warten. Wir wissen, für wen wir unsere Erzeugnisse anbauen: für Familien, für Kinder, für Menschen aus ganz Deutschland
-und darüber hinaus."
+> "Es ist für uns sehr motivierend, am frühen Morgen auf dem Feld zu stehen und zu > wissen, dass Menschen sich auf unsere Produkte freuen und schon drauf warten. Wir > wissen, für wen wir unsere Erzeugnisse anbauen: für Familien, für Kinder, für > > > Menschen aus ganz Deutschland
+> und darüber hinaus."
 
 Das funktioniert direkt vom Feld in Eure Kochtöpfe – komplett ohne Zwischenhandel und unnötige Plastikverpackungen. Wenn Ihr zufällig mal in der Nähe seid, kann ich Euch sehr empfehlen, den Hof mal zu besichtigen – es lohnt sich!  Das könnt Ihr das komplette Jahr über tun oder Euch sogar für eine der geführten Touren anmelden. Diese finden mehrmals im Jahr statt und dauern rund zwei Stunden. Die Informationen dazu findet Ihr auf der [Hof Windkind Webseite](https://www.hofwindkind.com/info/termine.html). Dort könnt Ihr Euch selbstverständlich auch [über die unterschiedlichen Adoptionsmöglichkeiten informieren](https://www.hofwindkind.com/info/alle-produkte.html).
 
