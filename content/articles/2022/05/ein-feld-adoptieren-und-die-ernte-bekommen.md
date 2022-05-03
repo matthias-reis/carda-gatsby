@@ -32,7 +32,7 @@ labels:
   - Ernährung & Gesundheit
   - Klima & Umweltschutz
 focusKeyword: Feld adoptieren
-advertisement: false
+advertisement: true
 affiliate: false
 language: de
 ---
