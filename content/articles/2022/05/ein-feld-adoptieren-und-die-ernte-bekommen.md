@@ -38,7 +38,7 @@ language: de
 ---
 **Hof Windkind ist das Projekt von Silvia und David. Die beiden haben sich ihren Traum erfüllt und vor den Toren der Stadt Berlin einen bio-veganen Hof gegründet. Dort bauen sie unter fairen und sozialen Bedingungen Lebensmittel an – dass alles vegan und frei von Plastik ist, versteht sich für sie von selbst.**
 
-Von den [Walnüssen](/2019/09/hof-windkind-walnuss-baum-adoptieren/) und [Haselnüssen](/2020/03/haselnuesse-hof-windkind/) sowie [den Produkten, die daraus entstehen](/2020/10/walnussoel-hof-windkind/), habe ich Euch hier im Blog bereits berichtet. Jetzt bauen Silvia und Daniel auch noch Linsen, Buchweizen und Hafer an. Das Besondere an ihrer Idee: Ihr könnt bei Hof Windkind ein Feld adoptieren und erhaltet dann die Ernte ganz bequem nach Hause.
+Von den Hof Windkind [Walnüssen](/2019/09/hof-windkind-walnuss-baum-adoptieren/) und [Haselnüssen](/2020/03/haselnuesse-hof-windkind/) sowie [den Produkten, die daraus entstehen](/2020/10/walnussoel-hof-windkind/), habe ich Euch hier im Blog bereits berichtet. Jetzt bauen Silvia und Daniel auch noch Linsen, Buchweizen und Hafer an. Das Besondere an ihrer Idee: Ihr könnt bei Hof Windkind ein Feld adoptieren und erhaltet dann die Ernte ganz bequem nach Hause.
 
 ## Linsen, Hafer und Buchweizen von Hof Windkind
 
@@ -68,7 +68,7 @@ Falls Ihr Euch nicht ganz sicher seid, wie viele Linsen Ihr in einem Jahr verbra
 
 ## Bio-Hafer
 
-![Das Biotop von Hof Windkind](https://storage.googleapis.com/cardamonchai-media/2022-05-03/biotop-hof-windkind-jpg-imagine-183808_838c52_1024_768/640.webp "Auf einem Feld steht ein selbst geschriebenes Holzschild mit der Aufschrift \"Biotop\". Im Vordergrund sind zweige zu sehen. Das Feld ist grün.")
+![Das Biotop von Hof Windkind](https://storage.googleapis.com/cardamonchai-media/2022-05-03/biotop-hof-windkind-jpg-imagine-183808_838c52_1024_768/640.webp "Auf einem Feld steht ein selbst geschriebenes Holzschild mit der Aufschrift \\"Biotop\\". Im Vordergrund sind zweige zu sehen. Das Feld ist grün.")
 
 Wenn Euer Herz für Hafer schlägt, könnt Ihr zum Beispiel ein 27 Quadratmeter großes Haferfeld adoptieren, solange Kontingent auf Hof Windkind zur Verfügung steht. Der Ertrag daraus liegt bei acht Kilogramm Bio-Haferflocken (Großblatt) oder acht Kilogramm entsetzten Bio-Haferkörnern. Das hört sich im ersten Moment vielleicht viel an, wenn Ihr aber, wie wir, gerne Müslis, Porridge oder andere Gerichte mit Hafer esst, werdet Ihr beim Rechnen schnell merken, dass sich das richtig lohnt. Ganz ehrlich? Für uns ist das eine wunderbare Alternative dazu, jede Woche ein Paket Haferflocken aus dem Biomarkt heimzutragen, das nicht mal halb so gut schmeckt, wie das Pendant vom Hof Windkind. Die Haferprodukte könnte Ihr, genau, wie die Linsen bis September bestellen und erhaltet dann im Oktober Eure Lieferung, sobald die Ernte abgeschlossen ist.
 
