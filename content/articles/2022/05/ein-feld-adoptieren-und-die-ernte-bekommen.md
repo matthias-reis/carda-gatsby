@@ -42,7 +42,7 @@ Von den Hof Windkind [Walnüssen](/2019/09/hof-windkind-walnuss-baum-adoptieren/
 
 ## Linsen, Hafer und Buchweizen von Hof Windkind
 
-![David auf Hof Windkind](https://storage.googleapis.com/cardamonchai-media/2022-05-03/david-hof-windkind-jpg-imagine-f8f8f8_75706a_1024_768/640.webp "David von Hof Windkind steht auf einem Feld. Vor ihm sind ein paar Zweige zu sehen. Er lächelt in die Kamera. Er trägt einen kurzen Vollbart. Auf dem Kopf hat er eine schwarze Strickmütze und er hat eine blaue Jacke an.")
+![David von Hof Windkind steht auf einem Feld. Vor ihm sind ein paar Zweige zu sehen. Er lächelt in die Kamera. Er trägt einen kurzen Vollbart. Auf dem Kopf hat er eine schwarze Strickmütze und er hat eine blaue Jacke an.](https://storage.googleapis.com/cardamonchai-media/2022-05-03/david-hof-windkind-jpg-imagine-f8f8f8_75706a_1024_768/640.webp "David auf Hof Windkind")
 
 Das Konzept geht mit den Nüssen schon voll auf, darum entschieden sich die beiden vor einiger Zeit dazu, den nächsten Schritt zu wagen. Die Lebensmittel bauen die Windkinder extra für ihre Kundschaft an. Wenn Ihr Euch für die Adoption einer Fläche entscheidet, könnt Ihr Euer Feld jederzeit besuchen, wenn Ihr wollt. Ansonsten braucht Ihr nichts anderes zu tun, als zu waren, bis die Ernte bei Euch eintrudelt.
 
@@ -68,7 +68,7 @@ Falls Ihr Euch nicht ganz sicher seid, wie viele Linsen Ihr in einem Jahr verbra
 
 ## Bio-Hafer
 
-![Das Biotop von Hof Windkind](https://storage.googleapis.com/cardamonchai-media/2022-05-03/biotop-hof-windkind-jpg-imagine-183808_838c52_1024_768/640.webp "Auf einem Feld steht ein selbst geschriebenes Holzschild mit der Aufschrift \\"Biotop\\". Im Vordergrund sind zweige zu sehen. Das Feld ist grün.")
+![Auf einem Feld steht ein selbst geschriebenes Holzschild mit der Aufschrift \"Biotop\". Im Vordergrund sind zweige zu sehen. Das Feld ist grün.](https://storage.googleapis.com/cardamonchai-media/2022-05-03/biotop-hof-windkind-jpg-imagine-183808_838c52_1024_768/640.webp "Das Biotop von Hof Windkind")
 
 Wenn Euer Herz für Hafer schlägt, könnt Ihr zum Beispiel ein 27 Quadratmeter großes Haferfeld adoptieren, solange Kontingent auf Hof Windkind zur Verfügung steht. Der Ertrag daraus liegt bei acht Kilogramm Bio-Haferflocken (Großblatt) oder acht Kilogramm entsetzten Bio-Haferkörnern. Das hört sich im ersten Moment vielleicht viel an, wenn Ihr aber, wie wir, gerne Müslis, Porridge oder andere Gerichte mit Hafer esst, werdet Ihr beim Rechnen schnell merken, dass sich das richtig lohnt. Ganz ehrlich? Für uns ist das eine wunderbare Alternative dazu, jede Woche ein Paket Haferflocken aus dem Biomarkt heimzutragen, das nicht mal halb so gut schmeckt, wie das Pendant vom Hof Windkind. Die Haferprodukte könnte Ihr, genau, wie die Linsen bis September bestellen und erhaltet dann im Oktober Eure Lieferung, sobald die Ernte abgeschlossen ist.
 
