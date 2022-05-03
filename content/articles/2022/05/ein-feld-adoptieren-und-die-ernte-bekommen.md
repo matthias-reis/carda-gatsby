@@ -62,7 +62,7 @@ Seid Ihr neugierig geworden? Ich erzähle Euch mal, wie das mit der Feld-Adoptio
 
 ## Grüne Bio-Linsen
 
-Eine Adoption ist bis zum 1. September möglich (insofern noch Kontingent verfügbar ist). Nach der Ernte bekommt Ihr von Hof Windkind dann im Oktober ein Paket mit vier Kilogramm Geschäften grünen Bio-Linsen. Die Linsen braucht Ihr vor der Zubereitung nicht einzuweichen. Es reicht aus, sie für 15 bis 20 Minuten mit der doppelten Menge Wasser zu kochen und je nach Geschmack zu würzen. So erhaltet Ihr eine nährstoffreiche und gesunde Eiweiß-Grundlage für Eure veganen Lieblings-Gerichte.
+Eine Adoption ist bis zum 1. September möglich (insofern noch Kontingent verfügbar ist). Nach der Ernte bekommt Ihr von Hof Windkind dann im Oktober ein Paket mit vier Kilogramm geschälten, grünen Bio-Linsen. Die Linsen braucht Ihr vor der Zubereitung nicht einzuweichen. Es reicht aus, sie für 15 bis 20 Minuten mit der doppelten Menge Wasser zu kochen und je nach Geschmack zu würzen. So erhaltet Ihr eine nährstoffreiche und gesunde Eiweiß-Grundlage für Eure veganen Lieblings-Gerichte.
 
 Falls Ihr Euch nicht ganz sicher seid, wie viele Linsen Ihr in einem Jahr verbraucht, überlegt Euch einfach, wie viele Linsen ihr circa in zwei Wochen verbraucht und multipliziert die Menge mit 26. Die Menge könnt Ihr dann beim Bestellen ganz einfach Euren Wünschen entsprechend anpassen.
 
