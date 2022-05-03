@@ -52,7 +52,7 @@ Dabei geht Ihr keinesfalls ein Abo oder etwas Ähnliches ein. Paten seid Ihr bis
 
 Falls Ihr Euch jetzt die Fragen stellt: "Was bedeutet eigentlich bio-veganer Anbau?" und "Sind nicht alle pflanzlichen Nahrungsmittel vegan?", kommen hier die Antworten: Leider wird Obst und Gemüse auch heute noch sehr selten außerhalb des Kreislaufs der "Nutztier"-Haltung hergestellt. Wo Tiere gehalten werden, fallen auch immer Exkremente an. Diese werden dem Boden zugeführt. Was leider auch zu Schadstoffbelastung, Überdüngung und zur Verschmutzung des Grundwassers führt.
 
-Auf diesen Prozess verzichten Silvia und David ganz bewusst. Sie düngen ihre Pflanzen ausschließlich mit pflanzlichem Material wie Wildkräutern, Laub, Stroh und Gras. Hornmehl, Blutmehl, Gülle und Ähnliches kommen für sie nicht infrage. Und ich muss sagen, es geht voll und ganz auf. Die Nüsse vom Hof Windkind sind wohl die besten, die ich jemals gegessen habe.
+Auf diesen Prozess verzichten Silvia und David ganz bewusst. Sie düngen ihre Pflanzen ausschließlich mit pflanzlichem Material wie Wildkräutern, Laub, Stroh und Gras. Hornmehl, Blutmehl, Gülle und Ähnliches kommen für sie nicht infrage. Und ich muss sagen: es funktioniert. Die Nüsse vom Hof Windkind sind wohl die besten, die ich jemals gegessen habe.
 
 ## Ein Paradies für Insekten und Vögel
 
