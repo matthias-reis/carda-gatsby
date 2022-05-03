@@ -78,7 +78,7 @@ Ganz ehrlich? Für uns ist das eine wunderbare Alternative dazu, jede Woche ein 
 
 Buchweizen ist ein Getreide, das ich persönlich ganz besonders gerne mag. Es ist unglaublich vielseitig einsetzbar, schmeckt lecker und passt eigentlich fast überall dazu. Darum habe ich mich über das neue Angebot von Silvia und David auch ganz besonders gefreut. Hier ihre persönliche Empfehlung für das Kochen ihres Buchweizens:
 
-> "Wascht den Buchweizen und kocht ihn mit der doppelten Menge Wasser auf. Gebt > etwas Salz hinzu und lasst ihn für rund 15 Minuten köcheln. Anschließend könnt Ihr > ihn als Beilage zu Salaten, als Porridge oder im Müsli genießen. Als Mehl eignet > er sich für Nudelteig ebenso wie für Kuchen und Kekse."
+> "Wascht den Buchweizen und kocht ihn mit der doppelten Menge Wasser auf. Gebt etwas Salz hinzu und lasst ihn für rund 15 Minuten köcheln. Anschließend könnt Ihr ihn als Beilage zu Salaten, als Porridge oder im Müsli genießen. Als Mehl eignet er sich für Nudelteig ebenso wie für Kuchen und Kekse."
 
 Wenn Ihr bis spätestens September (wenn Kontingent verfügbar ist) ein 26 Quadratmeter großes Buchweizen-Feld adoptiert, bekommt Ihr im Oktober vier Kilogramm geschälten Buchweizen per Post.
 
@@ -88,8 +88,7 @@ Die Feld-Adoptionen haben für Silvia und David den Vorteil, dass sie übers Jah
 
 Langfristig gesehen hilft das dabei, Lebensmittelverschwendung entgegenzuwirken – nicht nur die Windkinder erhalten Planungssicherheit, sondern auch Ihr als Verbraucher⋆innen. Silvia und David freut das sehr:
 
-> "Es ist für uns sehr motivierend, am frühen Morgen auf dem Feld zu stehen und zu > wissen, dass Menschen sich auf unsere Produkte freuen und schon drauf warten. Wir > wissen, für wen wir unsere Erzeugnisse anbauen: für Familien, für Kinder, für Menschen aus ganz Deutschland
-> und darüber hinaus."
+> "Es ist für uns sehr motivierend, am frühen Morgen auf dem Feld zu stehen und zu wissen, dass Menschen sich auf unsere Produkte freuen und schon drauf warten. Wir wissen, für wen wir unsere Erzeugnisse anbauen: für Familien, für Kinder, für Menschen aus ganz Deutschland und darüber hinaus."
 
 Das funktioniert direkt vom Feld in Eure Kochtöpfe – komplett ohne Zwischenhandel und unnötige Plastikverpackungen. Wenn Ihr zufällig mal in der Nähe seid, kann ich Euch sehr empfehlen, den Hof mal zu besichtigen – es lohnt sich!  Das könnt Ihr das komplette Jahr über tun oder Euch sogar für eine der geführten Touren anmelden. Diese finden mehrmals im Jahr statt und dauern rund zwei Stunden. Die Informationen dazu findet Ihr auf der [Hof Windkind Webseite](https://www.hofwindkind.com/info/termine.html). Dort könnt Ihr Euch selbstverständlich auch [über die unterschiedlichen Adoptionsmöglichkeiten informieren](https://www.hofwindkind.com/info/alle-produkte.html).
 
