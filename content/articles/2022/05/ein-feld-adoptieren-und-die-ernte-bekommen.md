@@ -38,7 +38,7 @@ language: de
 ---
 **Hof Windkind ist das Projekt von Silvia und David. Die beiden haben sich ihren Traum erfüllt und vor den Toren der Stadt Berlin einen bio-veganen Hof gegründet. Dort bauen sie unter fairen und sozialen Bedingungen Lebensmittel an – dass alles vegan und frei von Plastik ist, versteht sich für sie von selbst.**
 
-Von den Hof Windkind [Walnüssen](/2019/09/hof-windkind-walnuss-baum-adoptieren/) und [Haselnüssen](/2020/03/haselnuesse-hof-windkind/) sowie [den Produkten, die daraus entstehen](/2020/10/walnussoel-hof-windkind/), habe ich Euch hier im Blog bereits berichtet. Jetzt bauen Silvia und Daniel auch noch Linsen, Buchweizen und Hafer an. Das Besondere an ihrer Idee: Ihr könnt bei Hof Windkind ein Feld adoptieren und erhaltet dann die Ernte ganz bequem nach Hause.
+Von den Hof Windkind [Walnüssen](/2019/09/hof-windkind-walnuss-baum-adoptieren/) und [Haselnüssen](/2020/03/haselnuesse-hof-windkind/) sowie [den Produkten, die daraus entstehen](/2020/10/walnussoel-hof-windkind/), habe ich Euch hier im Blog bereits berichtet. Jetzt bauen Silvia und Daniel auch Linsen, Buchweizen und Hafer an. Das Besondere an ihrer Idee: Ihr könnt bei Hof Windkind ein Feld adoptieren und erhaltet dann die Ernte ganz bequem nach Hause.
 
 ## Linsen, Hafer und Buchweizen von Hof Windkind
 
