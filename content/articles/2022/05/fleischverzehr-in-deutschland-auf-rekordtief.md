@@ -46,7 +46,7 @@ Zum anderen leidet das Image der Branche durch die immer wieder vorkommenden Ska
 
 ## Weniger Fleisch durch Corona
 
-Die weltweite Pandemie-Situation machte die schlechten Arbeitsbedingungen in den Schlachtbetrieben genauso sichtbar, wie die Tatsache der durch Gefahr von Zoonosen, die mit der Herstellung und dem Konsum von Lebensmitteln tierischer Herkunft ausgeht. Hinzu kommt, dass viele Menschen in Zeiten von Lockdowns und Homeoffice wieder angefangen haben, selbst zu kochen und sich ihre Zutaten bewusst aussuchen. So gaben zum Beispiel 30 Prozent der für den BMEL Ernährungsreport befragten Personen an, seit dem Corona-Ausbruch häufiger daheim zu kochen.
+Die weltweite Pandemie-Situation macht die schlechten Arbeitsbedingungen in den Schlachtbetrieben genauso sichtbar, wie die Gefahr von [Zoonosen](/2020/04/inger-andersen-un-covid-19/), die von der Herstellung und dem Konsum von Lebensmitteln tierischer Herkunft ausgeht. Hinzu kommt, dass viele Menschen in Zeiten von Lockdowns und Homeoffice wieder angefangen haben, selbst zu kochen und sich ihre Zutaten bewusst aussuchen. So gaben zum Beispiel 30 Prozent der für den BMEL Ernährungsreport befragten Personen an, seit dem Corona-Ausbruch häufiger daheim zu kochen.
 
 Ein weiterer Grund für den Rückgang ist laut Albert Schweitzer Stiftung der spürbare demografische Wandel. Jede⋆r zweite Deutsche ist älter als 45, jede⋆r fünfte älter als 66 Jahre. Die Bevölkerung wird immer älter und ältere Menschen verändern ihre Ernährungsgewohnheiten beispielsweise aufgrund von Erkrankungen. So geht aus dem aktuellen BMEL Ernährungsreport unter anderem hervor, dass vor allem die Befragten über 60 häufig Gemüse und Obst konsumieren.
 
