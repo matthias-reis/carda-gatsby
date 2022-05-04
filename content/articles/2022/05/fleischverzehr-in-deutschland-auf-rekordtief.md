@@ -42,7 +42,7 @@ Den größten Teil des Rückgangs im Vergleich zum Vorjahr macht bei uns in Deut
 
 Die Albert Schweitzer Stiftung stellte für den Rückgang im Vergleich zum letzten Jahr unterschiedliche Ursachen fest. Zum einen scheinen die fortlaufenden Krisen das allgemeine Bewusstsein für die negativen Auswirkungen des Fleischkonsums zu steigern. So erkennen immer mehr Menschen das Leid der "Nutztiere" und die Auswirkungen der industriellen Tierhaltung auf die Umwelt, das Klima und den Welthunger. Mehr als die Hälfte der Deutschen (rund 55 Prozent) bezeichnen sich heute laut Ernährungsreport des Bundesministeriums für Ernährung und Landwirtschaft (BMEL)[^4] als Flexitarier – diese Gruppe verzichtet zumindest zeitweise bewusst auf Fleischprodukte.
 
-Zum anderen leidet das Image der Branche durch die immer wieder vorkommenden Skandale. Die Berichte über die schlechte Behandlung der Mitarbeitenden und die Tierzucht als Ausgangspunkt für Seuchen wie die [Vogelgrippe](/2021/06/vogelgrippe-h10n3-bei-menschen/) und Schweinepest sowie anschließende Massenschlachtungen fördern das Bewusstsein für Tierqual, unfaire Arbeitsbedingungen und Umweltzerstörung.
+Zum anderen leidet das Image der Branche durch die immer wieder vorkommenden Skandale. Die [Berichte über die schlechte Behandlung der Mitarbeitenden](/2021/02/the-dying-trade/) und die Tierzucht als Ausgangspunkt für Seuchen wie die [Vogelgrippe](/2021/06/vogelgrippe-h10n3-bei-menschen/) und Schweinepest sowie anschließende Massenschlachtungen fördern das Bewusstsein für Tierqual, unfaire Arbeitsbedingungen und Umweltzerstörung.
 
 ## Weniger Fleisch durch Corona
 
