@@ -37,7 +37,7 @@ language: de
 
 Die wissenschaftliche Arbeit zeigt auch, dass sich die Hitzewellen durch den voranschreitenden Klimawandel in Zukunft noch verschärfen werden.
 
-Im Westen Nordamerikas wurden im letzten Sommer rekordverdächtige Temperaturen gemessen: Am 29. Juni war es in Lytton in British Columbia 49,6 °C heiß. Dieser kanadische Höchstwert liegt ganze 4,6 Grad über dem bisherigen Höchstwert.
+Beispielsweise wurden im Westen Nordamerikas wurden im letzten Sommer rekordverdächtige Temperaturen gemessen: Am 29. Juni war es in Lytton in British Columbia 49,6 °C heiß. Dieser kanadische Höchstwert liegt ganze 4,6 Grad über dem bisherigen Höchstwert.
 
 ## Fünf große Hitzewellen blieben unentdeckt
 
