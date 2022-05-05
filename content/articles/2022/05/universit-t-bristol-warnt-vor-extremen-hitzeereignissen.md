@@ -67,7 +67,7 @@ Obwohl die höchsten lokalen Temperaturen nicht notwendigerweise die größten A
 
 Der Mitautor der Studie, Professor Dann M. Mitchell, Klimawissenschaftler an der Universität Bristol, kommentierte die Studienergebnisse wie folgt:
 
-> "Der Klimawandel ist eines der größten globalen Gesundheitsprobleme unserer Zeit. Mit unseren Forschungen haben wir gezeigt, dass viele Hitzewellen außerhalb der reichen Industrieländer weitgehend unbemerkt geblieben sind. Die Belastung der Sterblichkeit durch Hitze kann sich auf Länderebene auf Tausende von Todesfällen belaufen, und Länder, in denen die Temperaturen außerhalb des normalen Bereichs liegen, sind für diese Schocks am anfälligsten".
+> "Der Klimawandel ist eines der größten globalen Gesundheitsprobleme unserer Zeit. Unsere Forschungen zeigen, dass viele Hitzewellen außerhalb der reichen Industrieländer weitgehend unbemerkt geblieben sind. Die Belastung der Sterblichkeit durch Hitze kann sich auf Länderebene auf Tausende von Todesfällen belaufen, und Länder, in denen die Temperaturen außerhalb des normalen Bereichs liegen, sind für diese Schocks am anfälligsten".
 
 In Anerkennung der gefährlichen Folgen des Klimawandels und mit der klaren Verpflichtung, zu dessen Bekämpfung beizutragen, rief die Universität Bristol 2019 als erste britische Universität den Klimanotstand aus.
 
