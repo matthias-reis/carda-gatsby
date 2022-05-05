@@ -71,7 +71,7 @@ Der Mitautor der Studie, Professor Dann M. Mitchell, Klimawissenschaftler an der
 
 In Anerkennung der gefährlichen Folgen des Klimawandels und mit der klaren Verpflichtung, zu dessen Bekämpfung beizutragen, rief die Universität Bristol 2019 als erste britische Universität den Klimanotstand aus.
 
-**Paper:** ‘The 2021 western North America heatwave among the most extreme events ever recorded globally’ by V. Thompson, A. T. Kennedy-Asser, E. Vosper, Y. T. E. Lo, C. Huntingford, O. Andrews, M. Collins, G. C. Hegerl, and D. Mitchell in Science Advances.
+**Paper:** "The 2021 western North America heatwave among the most extreme events ever recorded globally" by V. Thompson, A. T. Kennedy-Asser, E. Vosper, Y. T. E. Lo, C. Huntingford, O. Andrews, M. Collins, G. C. Hegerl, and D. Mitchell in Science Advances.
 
 **Nachricht/News:** Newswise, [University of Bristol](https://www.newswise.com/institutions/newsroom/4212/)
 
