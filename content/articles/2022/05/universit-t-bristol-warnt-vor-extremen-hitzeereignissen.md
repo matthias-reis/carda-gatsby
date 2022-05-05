@@ -9,9 +9,11 @@ description: Eine aktuelle Studie der Universität Bristol zeigt, dass fünf der
   extremsten Hitzewellen übersehen wurden. Die Hochschule warnt davor, ähnliche
   Ereignisse auch in Zukunft nicht zu tracken.
 excerpt: "Vor zwei Tagen gab die Universität Bristol eine Meldung heraus, die
-  uns aufschrecken sollte: Einer aktuellen Studie der Hochschule wurden die
-  intensivsten Hitzewellen aller Zeiten angezeigt. Einige von ihnen fanden
-  bereits vor Jahrzehnten statt und fanden bisher wenig Beachtung."
+  uns aufschrecken sollte: Aus einer aktuellen Studie der Hochschule gehen die
+  intensivsten Hitzewellen aller Zeiten hervor. Einige davon fanden bereits vor
+  Jahrzehnten statt. So fanden fünf der extremsten Hitzeereignisse bisher keine
+  Beachtung. Die Forschenden warnen vor dem Fehler, ähnliche Ereignisse auch in
+  Zukunft nicht zu tracken."
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-05/hitzewelle-geralt-pixabay-jpg-imagine-080808_6a390b_1024_768/640.webp
 copyrigt: geralt, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-05/hitzewelle-geralt-pixabay-fb-jpg-imagine-080808_84490d_1200_628/640.webp
@@ -31,7 +33,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Vor zwei Tagen gab die Universität Bristol eine Meldung heraus, die uns aufschrecken sollte: Einer aktuellen Studie der Hochschule wurden die intensivsten Hitzewellen aller Zeiten angezeigt. Einige von ihnen fanden bereits vor Jahrzehnten statt und fanden bisher wenig Beachtung.**
+**Vor zwei Tagen gab die Universität Bristol eine Meldung heraus, die uns aufschrecken sollte: Aus einer aktuellen Studie der Hochschule gehen die intensivsten Hitzewellen aller Zeiten hervor. Einige davon fanden bereits vor Jahrzehnten statt. So fanden fünf der extremsten Hitzeereignisse bisher keine Beachtung. Die Forschenden warnen vor dem Fehler, ähnliche Ereignisse auch in Zukunft nicht zu tracken.**
 
 Die wissenschaftliche Arbeit zeigt auch, dass sich die Hitzewellen durch den voranschreitenden Klimawandel in Zukunft noch verschärfen werden.
 
