@@ -51,7 +51,7 @@ Hitzewellen sind nur eines von vielen verheerenden extremen Wetterereignissen, d
 
 ## 49,6 Grad in Kanada sind nicht normal
 
-Die Studie, in der die Forschenden auch berechneten, wie extrem die Hitzewellen im Verhältnis zur lokalen Temperatur waren, ergab, dass die drei stärksten Hitzewellen, die in den jeweiligen Regionen jemals gegeben hat, in Südostasien im April 1998 mit 32,8 °C, in Brasilien im November 1985 mit 36,5 °C und im Süden der USA im Juli 1980 mit 38,4 °C am höchsten waren.
+Die Studie, in der die Forschenden auch berechneten, wie extrem die Hitzewellen im Verhältnis zur lokalen Temperatur waren, ergab, dass die drei stärksten Hitzewellen, die in den jeweiligen Regionen jemals gegeben hat, in Südostasien im April 1998 mit 32,8 °C, in Brasilien im November 1985 mit 36,5 °C und im Süden der USA im Juli 1980 mit 38,4 °C stattfanden.
 
 Dr. Vikki Thompson, vom Cabot Institute for the Environment der Universität, sagte dazu: 
 
