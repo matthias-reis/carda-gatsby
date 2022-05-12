@@ -36,7 +36,7 @@ Zakè hat es geschafft, die Augenblicke festzuhalten, die zwischen den Klängen 
 
 ## "Sound Space Variations" erscheint auf Tape und CD
 
-Dabei wirken die insgesamt sechs Stücke keineswegs verkopft oder überladen, sondern viel mehr luftig, weit und offen für eigene Interpretationen. Kurz gesagt: Sie regen die Fantasie an – auf eine wunderbar unbelastete Art. Im letzten Stück "Bewrayeth" hat [Multi-Instrumentalist Kévin Séry](/2020/04/from-overseas-interview/) einen Überraschungsauftritt – er hat dem Song eine eine wunderbare Gitarrenbegleitung hinzugefügt.
+Dabei wirken die insgesamt sechs Stücke keineswegs verkopft oder überladen, sondern viel mehr luftig, weit und offen für eigene Interpretationen. Kurz gesagt: Sie stimulieren die Fantasie – auf eine wunderbar unbelastete Art. Im letzten Stück "Bewrayeth" hat [Multi-Instrumentalist Kévin Séry](/2020/04/from-overseas-interview/) einen Überraschungsauftritt – er hat dem Song eine eine wunderbare Gitarrenbegleitung hinzugefügt.
 
 Hören lohnt sich definitiv – "Sound Space Variations" wird am 3. Juni auf Zakè Drone Recordings erscheinen. Neben dem digitalen Format wird es auch eine Kassette und eine CD-Version geben.
 
