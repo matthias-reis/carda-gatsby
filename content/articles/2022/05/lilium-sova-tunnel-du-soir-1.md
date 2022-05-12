@@ -45,7 +45,7 @@ Lilium Sova waren ursprünglich noch als Trio unterwegs. Inzwischen fühlen sie 
 
 Um ihrer EP noch mehr Glanz zu verleihen, holten sich die vier für die Aufnahme Unterstützung von Michael Borcard am Saxofon (er war von 2006 bis 2012 festes Mitglied bei LS), sowie Jamasp Jhabvala am Violoncello (ihr kennt ihn vielleicht von Projekten wie Convulsif, Maspin und Paracelze) und Bruno Silvestre Favez an den Maschinen (bekannt durch Earthflesh und Ex-Rorcal).
 
-Das soundgewaltige Experiment ist ganz klar aufgegangen und wird uns sicher noch länger beschäftigen. Besorgen könnt Ihr Euch die Platte ab sofort. Anhören könnt Ihr es euch unter anderem bei Bandcamp oder direkt hier.
+Das soundgewaltige Experiment ist ganz klar aufgegangen und wird uns sicher noch länger beschäftigen. Besorgen könnt Ihr Euch die Platte ab sofort. Anhören könnt Ihr sie euch unter anderem bei Bandcamp oder direkt hier.
 
 Musik von Bands wie Primus, [The Ocean](/2020/09/the-ocean-robin-staps-interview/), Tool und [Thot](/2021/04/thot-interview).
 
