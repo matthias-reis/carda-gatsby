@@ -32,7 +32,7 @@ languageLink: /2022/05/zake-sound-space-variations/
 ---
 **Zakè is about to release his new record. "Sound Space Variations" is a delicate and restrained sound bath. A mix of atmospheric, suspenseful drone sounds and meditative moments. It is an album made for those moments when we just are.**
 
-Zakè has managed to capture the moments that lie between sounds. I am sure your know those unagitated murmurs and atmospheric hisses. The artist connects this in-between-world and our earthly one with calm and sonorous scores, making us think about everything and nothing.
+Zakè has managed to capture the moments that lie between sounds. I am sure you know those unagitated murmurs and atmospheric hisses. The artist connects this in-between-world and our earthly one with calm and sonorous scores, making us think about everything and nothing.
 
 So I definitely recommend you listen to it – "Sound Space Variations" will be released on Zakè Drone Recordings on June 3rd. In addition to the digital format, there will also be a tape and a CD version.
 
