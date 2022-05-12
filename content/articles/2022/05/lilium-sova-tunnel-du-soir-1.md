@@ -3,7 +3,7 @@ date: 2022-05-12T15:11:50.541Z
 slug: lilium-sova-tunnel-du-soir
 typeName: Review
 title: Lilium Sova – "Tunnel du soir"
-subTitle: Ein neues Genre
+subTitle: Ein neues Musik-Genre
 seoTitle: Lilium Sova – "Tunnel du soir" – Post-Music Review
 description: Das Genfer Post-Noise/Jazz/Avant/Post-Hardcore Projekt Lilium Sova
   hat seine neue EP "Tunnel du soir" veröffentlicht. Fans komplexer Sounds
