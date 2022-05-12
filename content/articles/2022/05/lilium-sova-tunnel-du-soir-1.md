@@ -35,7 +35,7 @@ languageLink: /2022/05/lilium-sova-tunnel-du-soir-en/
 ---
 **2006 fanden sich in Genf die Mitglieder des Post-Noise/Jazz/Avant/Post-Hardcore Kollektivs Lilium. Die Sound-Alchemisten haben jetzt ihre neue EP "Tunnel du soir" vorgestellt, die Ihr nicht verpassen solltet.**
 
-Cold Smoke Records hat das Werk, das wohl das einzige seiner Art ist, exklusiv aufgelegt. Nicht nur feiern die Schweizer mit "Tunnel du soir" ihr 15 (+1) Jubiläum. Man könnte behaupten, sie haben mit ihrer aktuellen Platte ein neues Genre erschaffen, das jeden Rahmen sprengt.
+Cold Smoke Records hat das Werk, das wohl das einzige seiner Art ist, exklusiv aufgelegt. Die Schweizer feiern mit "Tunnel du soir" nicht nur ihr 15 (+1) Jubiläum. Man könnte auch behaupten, sie haben mit ihrer aktuellen Platte ein komplett neues Genre erschaffen, das jeden Rahmen sprengt.
 
 ![Lilium Sova – "Tunnel du soir"](https://storage.googleapis.com/cardamonchai-media/2022-05-12/lilium-sova-1-jpeg-imagine-080808_343434_1502_1501/640.webp "Lilium Sova – \"Tunnel du soir\"")
 
