@@ -39,7 +39,7 @@ Cold Smoke Records hat das Werk, das wohl das einzige seiner Art ist, exklusiv a
 
 ![Lilium Sova – "Tunnel du soir"](https://storage.googleapis.com/cardamonchai-media/2022-05-12/lilium-sova-1-jpeg-imagine-080808_343434_1502_1501/640.webp "Lilium Sova – \"Tunnel du soir\"")
 
-Lilium Sova waren ursprünglich noch als Trio unterwegs. Inzwischen fühlen sie sich als Quartett ziemlich wohl – was man ihren insgesamt drei neuen Stücken auf jeden Fall anhört. Cyril Chals Bassspiel harmoniert perfekt mit Cervis krassen Drums. Doch nicht nur die Rhythmus-Sektion ist gut besetzt bei diesem starken Projekt. Loïc Blazek (der inzwischen auch schon seit 2012 bei LS ist) weiß, wie man Gitarren bedient und entlockt ihnen die schönsten Töne. Das tut er übrigens auch mein einem Cello, das hier und dort zu hören ist. Sébastien Favez, der 2017 zur Band gestoßen ist, bedient die Tasten.
+Lilium Sova waren ursprünglich noch als Trio unterwegs. Inzwischen fühlen sie sich als Quartett ziemlich wohl – was man ihren insgesamt drei neuen Stücken auf jeden Fall anhört. Cyril Chals Bassspiel harmoniert perfekt mit Timothée Cervis krassen Drums. Doch nicht nur die Rhythmus-Sektion ist gut besetzt bei diesem starken Projekt. Loïc Blazek (der inzwischen auch schon seit 2012 bei LS ist) weiß, wie man Gitarren bedient und entlockt ihnen die schönsten Töne. Das tut er übrigens auch mein einem Cello, das hier und dort zu hören ist. Sébastien Favez, der 2017 zur Band gestoßen ist, bedient die Tasten.
 
 ## Ein soundgewaltiges Experiment
 
