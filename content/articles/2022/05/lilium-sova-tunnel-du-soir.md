@@ -49,6 +49,6 @@ To add even more sparkle to their EP, the four invited some notable musicians to
 
 The complex sound experiment has clearly worked out and will certainly keep us busy for a while. You can get the record now. Feel free to join me on my endless Bandcamp spins or just listen to it right here right now.
 
-This record is made fans of Primus, [The Ocean](/2020/09/the-ocean-robin-staps-interview-en), Tool, and [Thot](/2021/04/thot-interview-en).
+This record is made for fans of Primus, [The Ocean](/2020/09/the-ocean-robin-staps-interview-en), Tool, and [Thot](/2021/04/thot-interview-en).
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3670180105/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://liliumsova.bandcamp.com/album/tunnel-du-soir">Tunnel du soir by Lilium Sova</a></iframe>
