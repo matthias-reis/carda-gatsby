@@ -32,7 +32,7 @@ languageLink: /2022/05/zake-sound-space-variations-en/
 ---
 **Zakè hat seine neue Platte angekündigt. "Sound Space Variations" ist ein zartes und zurückhaltendes Klangbad. Ein Mix aus atmosphärischem, spannungsgeladenen Drone Sounds und meditativen Momenten. Ein Album wie gemacht für diese Momente, in denen wir wir einfach nur sind.**
 
-Zakè hat es geschafft, die Augenblicke festzuhalten, die zwischen den Klängen liegen. Das unaufgeregte Murmeln und atmosphärische Rauschen. Ruhig und klangvolle Partituren verbinden diese Zwischenwelt mit dem irdischen und regen zum Nachdenken an.
+Zakè hat es geschafft, die Augenblicke festzuhalten, die zwischen den Klängen liegen. Das unaufgeregte Murmeln und atmosphärische Rauschen. Ruhige und klangvolle Partituren verbinden diese Zwischenwelt mit dem irdischen und regen zum Nachdenken an.
 
 ## "Sound Space Variations" erscheint auf Tape und CD
 
