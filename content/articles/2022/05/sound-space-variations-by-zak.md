@@ -38,7 +38,7 @@ Zakè has managed to capture the moments that lie between sounds. I am sure you 
 
 The six pieces on the record do not seem heavy-headed or overloaded but much more airy, wide and open for interpretations. They stimulate the imagination – in a wonderfully unbiased way. In the last track, "Bewrayeth", [multi-instrumentalist Kévin Séry](/2020/04/from-overseas-interview-en/) has a surprise appearance  – he has added an excellent guitar accompaniment to the song.
 
-I definitely recommend you listen to it – "Sound Space Variations" will be released on Zakè Drone Recordings on June 3rd. In addition to the digital format, there will also be a tape and a CD version.
+I definitely recommend you to listen to it – "Sound Space Variations" will be released on Zakè Drone Recordings on June 3rd. In addition to the digital format, there will also be a tape and a CD version.
 
 James Bernhard mixed and mastered the album, written and produced by drone artist Zakè, at Ambient Mountain House Studio. Zakè himself provided the artwork and photos himself.
 
