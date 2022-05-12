@@ -36,9 +36,9 @@ Zakè hat es geschafft, die Augenblicke festzuhalten, die zwischen den Klängen 
 
 ## "Sound Space Variations" erscheint auf Tape und CD
 
-Hören lohnt sich also definitiv – "Sound Space Variations" wird am 3. Juni auf Zakè Drone Recordings erscheinen. Neben dem digitalen Format wird es auch eine Kassette und eine CD-Version geben.
-
 Dabei wirken die insgesamt sechs Stücke keineswegs verkopft oder überladen, sondern viel mehr luftig, weit und offen für eigene Interpretationen. Kurz gesagt: Sie regen die Fantasie an – auf eine wunderbar unbelastete Art. Im letzten Stück "Bewrayeth" hat [Multi-Instrumentalist Kévin Séry](/2020/04/from-overseas-interview/) einen Überraschungsauftritt – er hat dem Song eine eine wunderbare Gitarrenbegleitung hinzugefügt.
+
+Hören lohnt sich definitiv – "Sound Space Variations" wird am 3. Juni auf Zakè Drone Recordings erscheinen. Neben dem digitalen Format wird es auch eine Kassette und eine CD-Version geben.
 
 James Bernhard hat das von Drone Artist Zakè geschriebene und produzierte Album im Ambient Mountain House Studio gemischt und gemastert. Die Fotos und das Design hat Zakè wie gewohnt selbst gemacht.
 
