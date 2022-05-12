@@ -10,7 +10,7 @@ description: Zakè is about to release his new record. "Sound Space Variations"
   drone sounds.
 excerpt: Zakè is about to release his new record. "Sound Space Variations" is a
   delicate and restrained sound bath. A mix of atmospheric, suspenseful drone
-  sounds and meditative moments. It is an album made for those moments when we
+  sounds and meditative aspects. It is an album made for those moments when we
   just are.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-12/zake-sound-space-variations-jpg-imagine-181818_929292_1024_768/640.webp
 copyrigt: Zakè
@@ -30,7 +30,7 @@ affiliate: false
 language: en
 languageLink: /2022/05/zake-sound-space-variations/
 ---
-**Zakè is about to release his new record. "Sound Space Variations" is a delicate and restrained sound bath. A mix of atmospheric, suspenseful drone sounds and meditative moments. It is an album made for those moments when we just are.**
+**Zakè is about to release his new record. "Sound Space Variations" is a delicate and restrained sound bath. A mix of atmospheric, suspenseful drone sounds and meditative aspects. It is an album made for those moments when we just are.**
 
 Zakè has managed to capture the moments that lie between sounds. I am sure you know those unagitated murmurs and atmospheric hisses. The artist connects this in-between-world and our earthly one with calm and sonorous scores, making us think about everything and nothing.
 
@@ -43,8 +43,3 @@ I definitely recommend you listen to it – "Sound Space Variations" will be rel
 James Bernhard mixed and mastered the album, written and produced by drone artist Zakè, at Ambient Mountain House Studio. Zakè himself provided the artwork and photos himself.
 
 [Please check out Zakès Bandcamp page](https://zakedrone.bandcamp.com/).
-
-
-
-
-
