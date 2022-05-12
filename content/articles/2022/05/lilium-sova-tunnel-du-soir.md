@@ -41,7 +41,7 @@ Lilium Sova originally were a trio. In the meantime, they feel pretty comfortabl
 
 ![Lilium Sova – "Tunnel du soir"](https://storage.googleapis.com/cardamonchai-media/2022-05-12/lilium-sova-1-jpeg-imagine-080808_343434_1502_1501/640.webp "Lilium Sova – \"Tunnel du soir\"")
 
-Cyril Chal's bass playing harmonises perfectly with Timothée Cervi's crass drumming. But it's not only the rhythm section that has pretty good skills within this substantial project. Loïc Blazek (who has been with LS since 2012) knows how to play the guitars and elicits the most beautiful sounds from them. He also does this on a cello, which you can hear here and there. Sébastien Favez, who joined the band in 2017, took care of the keys.
+Cyril Chal's bass playing harmonises perfectly with Timothée Cervi's crass drumming. But it's not only the rhythm section that has pretty good skills within this substantial project. Loïc Blazek (who has been with LS since 2012) knows how to play the guitars and extracts the most beautiful sounds from them. He also does this with a cello, which you can hear here and there. Sébastien Favez, who joined the band in 2017, took care of the keys.
 
 ## A complex sound experiment
 
