@@ -40,6 +40,6 @@ Dabei wirken die insgesamt sechs Stücke keineswegs verkopft oder überladen, so
 
 Hören lohnt sich definitiv – "Sound Space Variations" wird am 3. Juni auf Zakè Drone Recordings erscheinen. Neben dem digitalen Format wird es auch eine Kassette und eine CD-Version geben.
 
-James Bernhard hat das von Drone Artist Zakè geschriebene und produzierte Album im Ambient Mountain House Studio gemischt und gemastert. Die Fotos und das Design hat Zakè wie gewohnt selbst gemacht.
+James Bernhard hat das von Drone Artist Zakè geschriebene und produzierte Album im Ambient Mountain House Studio gemischt und gemastert. Die Fotos und das Design hat Zakè wie gewohnt selbst kreiert.
 
 [Aktuelle Infos findet Ihr auf Zakès Bandcamp Profil](https://zakedrone.bandcamp.com/).
