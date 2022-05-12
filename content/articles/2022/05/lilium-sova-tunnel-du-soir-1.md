@@ -47,6 +47,6 @@ Um ihrer EP noch mehr Glanz zu verleihen, holten sich die vier für die Aufnahme
 
 Das soundgewaltige Experiment ist ganz klar aufgegangen und wird uns sicher noch länger beschäftigen. Besorgen könnt Ihr Euch die Platte ab sofort. Anhören könnt Ihr sie euch unter anderem bei Bandcamp oder direkt hier.
 
-Musik von Bands wie Primus, [The Ocean](/2020/09/the-ocean-robin-staps-interview/), Tool und [Thot](/2021/04/thot-interview).
+Musik für Fans von Bands wie Primus, [The Ocean](/2020/09/the-ocean-robin-staps-interview/), Tool und [Thot](/2021/04/thot-interview).
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3670180105/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://liliumsova.bandcamp.com/album/tunnel-du-soir">Tunnel du soir by Lilium Sova</a></iframe>
