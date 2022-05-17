@@ -50,7 +50,7 @@ erzählte sie weiter. Doch nicht nur für sie ist die Schweinezucht am Ort eine 
 
 sagte sie traurig. Nicht nur sie fand, dass sich etwas ändern muss. Denn so, wie es im Moment ist, kann es nicht bleiben in Wallace – genau wie an vielen anderen Ort auf der Welt, an denen "Nutztiere" gezüchtet und [geschlachtet](/2021/02/the-dying-trade/) werden.
 
-In North Carolina – dem zweitgrößten Schweinefleisch produzierenden US-Bundesstaat haben die Schweine die Menschen längst abgehängt. Im County Duplin, North Carolina zum Beispiel, kommen auf einen Menschen rund 38 Schweine.
+In North Carolina – dem zweitgrößten Schweinefleisch produzierenden US-Bundesstaat – haben die Schweine die Menschen längst abgehängt. Im County Duplin, North Carolina zum Beispiel, kommen auf einen Menschen rund 38 Schweine.
 
 ## Die Menschen leiden unter den Auswirkungen der Schweinefleisch-Industrie
 
