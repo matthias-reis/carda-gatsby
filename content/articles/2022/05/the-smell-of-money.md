@@ -23,6 +23,9 @@ labels:
   - North Carolina
   - Schweinezucht
   - Schweinefleisch-Industrie
+  - Tierrechte
+  - Klima- & Umweltschutz
+  - Ernährung & Gesundheit
 focusKeyword: Schweinefleisch-Industrie
 advertisement: false
 affiliate: false
