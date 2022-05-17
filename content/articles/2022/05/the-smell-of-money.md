@@ -3,7 +3,7 @@ date: 2022-05-17T14:01:44.481Z
 slug: the-smell-of-money
 typeName: Filmtipp
 title: The Smell Of Money
-subTitle: Neuer Film von Kate Mara durchleuchtet die Schweinefleisch-Industrie
+subTitle: Neuer Film von Kate Mara beleuchtet Schweinefleisch-Industrie
 seoTitle: The Smell Of Money – Dokumentation zeigt Schweinefleisch-Industrie
 description: Kate Maras neuer Film "The Smell Of Money" beschäftigt sich mit den
   schädlichen Auswirkungen der Schweinefleisch-Industrie auf die Umwelt und
