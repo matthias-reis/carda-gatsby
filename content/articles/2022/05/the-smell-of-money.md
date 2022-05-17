@@ -39,19 +39,19 @@ Ein Jahrhundert nach der Befreiung ihres Großvaters aus der Sklaverei kämpft E
 
 ## Das Leben neben den Schweine-Farmen stinkt
 
-Die Protagonistin der Dokumentation war es leid, in ihrer Heimat kaum noch einatmen zu können. 
+Die Protagonistin der Dokumentation ist es leid, in ihrer Heimat kaum noch einatmen zu können. 
 
 > "Es ist falsch, das Leben anderer Menschen zum Stinken zu bringen",
 
-fand sie. Ihre Familie lebt bereits seit den 1890er-Jahren in Wallace.
+findet sie. Ihre Familie lebt bereits seit den 1890er-Jahren in Wallace.
 
 > "Ich muss meine Kleidung immer wieder waschen. Bis sie auseinander fällt, so stinkt es hier", 
 
-erzählte sie weiter. Doch nicht nur für sie ist die Schweinezucht am Ort eine Belastung. Die ganze Gemeinde leidet darunter.
+erzählt sie weiter. Doch nicht nur für sie ist die Schweinezucht am Ort eine Belastung. Die ganze Gemeinde leidet darunter.
 
 > "Wir stehen draußen und denken, es hat angefangen, zu regnen. Aber es ist kein Regen. Es sind die Hinterlassenschaften der Tiere, die uns sprichwörtlich auf den Kopf fallen",
 
-sagte sie traurig. Nicht nur sie fand, dass sich etwas ändern muss. Denn so, wie es im Moment ist, kann es nicht bleiben in Wallace – genau wie an vielen anderen Ort auf der Welt, an denen "Nutztiere" gezüchtet und [geschlachtet](/2021/02/the-dying-trade/) werden.
+sagt sie traurig. Nicht nur sie findet, dass sich etwas ändern muss. Denn so, wie es im Moment ist, kann es nicht bleiben in Wallace – genau wie an vielen anderen Orten auf der Welt, an denen "Nutztiere" gezüchtet und [geschlachtet](/2021/02/the-dying-trade/) werden.
 
 In North Carolina – dem zweitgrößten Schweinefleisch produzierenden US-Bundesstaat – haben die Schweine die Menschen längst abgehängt. Im County Duplin, North Carolina zum Beispiel, kommen auf einen Menschen rund 38 Schweine.
 
@@ -59,7 +59,7 @@ In North Carolina – dem zweitgrößten Schweinefleisch produzierenden US-Bunde
 
 Unter den Auswirkungen dieser extremen Massenzucht leiden, wie vielerorts, vorwiegend BIPoC. Allerdings kann man derzeit einen, wenn auch langsamen, Shift beobachten: Immerhin wurden den Betroffenen nun in zwei Gerichtsentscheiden Entschädigungen zugesprochen, während die Firmen, die das Leid verursachen, bestraft wurden.
 
-Die Schweine-Farmen in North Carolina produzieren 10 Billionen Gallonen Exkremente. Das sind rund 37,9 Milliarden Liter. Zum Vergleich: Das ist mehr als die komplette Bundesrepublik Deutschland im Jahr die Toilette herunterspült. Der Dreck fällt in den Stallungen einfach zwischen den Bodenbrettern durch und landet in den Auffangbecken der Farm. In North Carolina gibt es um die 4.000 dieser Senkgruben, die in der Tierindustrie auch heute noch zum Standard gehören.
+Die Schweine-Farmen in North Carolina produzieren 10 Billionen Gallonen Exkremente. Sprich: rund 37,9 Milliarden Liter. Zum Vergleich: Das ist mehr als die komplette Bundesrepublik Deutschland im Jahr die Toilette herunterspült. Der Dreck fällt in den Stallungen einfach zwischen den Bodenbrettern durch und landet in den Auffangbecken der Farm. In North Carolina gibt es um die 4.000 dieser Senkgruben, die in der Tierindustrie auch heute noch zum Standard gehören.
 
 Die für einen Primetime Emmy nominierte Kate Mara machte sich bisher vor allem als Schauspielerin mit ihren Rollen in House of Cards und American Horror Story einen Namen. "The Smell Of Money" hat sie gemeinsam mit Regisseur David Lowery (The Green Knight) gemacht, der ihr ausführender Produzent ist. Filmemacher Jamie Berger aus North Carolina ist für das Buch verantwortlich.
 
