@@ -2,7 +2,7 @@
 title: Hilfe für die Erstellung von Artikeln
 subTitle: Spickzettel
 slug: admin-help
-path: '/'
+path: '/admin-help/'
 description: Alles Wissenswerte zum Erstellen neuer Artikel
 date: 2021-04-23T07:33:21.000+00:00
 status: publish
