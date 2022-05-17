@@ -64,6 +64,6 @@ Kate ist eine engagierte Vegan-Aktivistin. Sie setzt sich regelmäßig für Tier
 
 ## The Smell Of Money – Trailer
 
-<YouTube id="684063896?h=2f165b0c55" />
+<vimeo id="684063896?h=2f165b0c55" />
 
 Quelle & Bilder/Source & picture: [The Smell Of Money](https://www.smellofmoneydoc.com/)
