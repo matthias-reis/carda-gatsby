@@ -35,18 +35,19 @@ Kleiner Tipp vorneweg: Wascht den Buchweizen gut aus und bereitet schon mal alle
 
 ## Zutaten für 4 große Portionen Buchweizen-Risotto mit Gemüse und Nüssen
 
-300 g Buchweizen
-1 Liter Gemüsebrühe
-1 TL Paprikamark
-Pflanzenöl
-Je nach Geschmack/Saison: Gemüse nach Wahl. Hier 1 Paprika und 1 Zucchini
-Sojasauce
-Balsamico-Essig
-Paprikapulver
-Chiliflocken
-Sojafleisch, Seitanstreifen oder Räuchertofu
-1 Zwiebel
-1-3 Handvoll Haselnüsse
+- 300 g Buchweizen
+- 1 Liter Gemüsebrühe
+- 1 TL Paprikamark
+- Pflanzenöl
+- Je nach Geschmack/Saison: Gemüse nach Wahl. Hier 1 Paprika und 1 Zucchini
+- Sojasauce
+- Balsamico-Essig
+- Paprikapulver
+- Chiliflocken
+- Sojafleisch, Seitanstreifen oder Räuchertofu
+- 1 Zwiebel
+- 1-3 Handvoll Haselnüsse
+
 ## Zubereitung Risotto
 
 <Gallery name="buchweizen-risotto-1" />
