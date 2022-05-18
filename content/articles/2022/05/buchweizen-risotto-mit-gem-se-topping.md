@@ -52,7 +52,7 @@ Kleiner Tipp vorneweg: Wascht den Buchweizen gut aus und bereitet schon mal alle
 
 ## Zubereitung Risotto
 
-Schwitzt den Buchweizen mit etwas Öl an. Gebt den Sud löffelweise hinzu und rührt permanent um, bis das Risotto schön eingekocht ist und Euch die Konsistenz gefällt. Das dauert je nach Buchweizen circa eine halbe Stunde.
+Schwitzt den Buchweizen mit etwas Öl an. Gebt den Gemüsesud löffelweise hinzu und rührt permanent um, bis das Risotto schön eingekocht ist und Euch die Konsistenz gefällt. Das dauert je nach Buchweizen circa eine halbe Stunde.
 
 ## Zubereitung Gemüse-Topping
 
@@ -62,6 +62,6 @@ Bratet die Zwiebelstücke mit dem Sojafleisch (oder dem Räuchertofu bzw. den Se
 
 Verteilt das fertige Risotto auf Euren Tellern und gebt das Gemüse-Topping sowie die Nüsse dazu. Guten Appetit!
 
-Der Buchweizen und die [Haselnüsse](/2020/03/haselnuesse-hof-windkind/), die wir zurzeit zum Kochen verwenden, stammen übrigens von einem ganz besonderen, bio-veganen Hof bei Berlin. Wie Ihr dort ein Feld adoptieren und die Ernte beziehen könnt, [erfahrt Ihr hier](/2022/05/feld-adoptieren-hof-windkind/).
+Der Buchweizen und die [Haselnüsse](/2020/03/haselnuesse-hof-windkind/), die wir zurzeit zum Kochen verwenden, stammen übrigens von einem ganz besonderen, bio-veganen Hof bei Berlin. Wie Ihr dort ein Feld adoptieren und die Ernte beziehen könnt, [erfahrt Ihr hier im Blog](/2022/05/feld-adoptieren-hof-windkind/).
 
 <Gallery name="buchweizen-risotto-2" />
