@@ -48,9 +48,9 @@ Kleiner Tipp vorneweg: Wascht den Buchweizen gut aus und bereitet schon mal alle
 - 1 Zwiebel
 - 1-3 Handvoll Haselnüsse
 
-## Zubereitung Risotto
-
 <Gallery name="buchweizen-risotto-1" />
+
+## Zubereitung Risotto
 
 Schwitzt den Buchweizen mit etwas Öl an. Gebt den Sud löffelweise hinzu und rührt permanent um, bis das Risotto schön eingekocht ist und Euch die Konsistenz gefällt. Das dauert je nach Buchweizen circa eine halbe Stunde.
 
