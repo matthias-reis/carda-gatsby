@@ -126,7 +126,7 @@ Breaths Gründer Jason meldete sich letzte Woche bei mir, um mir von der spontan
 
 ## Roseneath – "Say Never" (Vorauskopplung von der EP "Shine")
 
-Ihr werdet es nicht glauben, aber auch dieses Stück stamm von Breaths Gründer Json. Die EP "Shine" hat er gemeinsam mit Brian G. aufgenommen. Auch diese Platte geht in eine andere Richtung, als sein Solo-Projekt Breaths. Die fünf Stücke spielen  sich zwischen Grunge, Shoegaze und Post-Hardcore ab. Wenn Ihr gerne Nirvana, Hum, Slow Crush, Modern Color, Quicksand, Failure und Teenage Wrist hört, ist jetzt also Euer Moment gekommen.
+Ihr werdet es nicht glauben, aber auch dieses Stück stammt von Breaths Gründer Jason. Die EP "Shine" hat er gemeinsam mit Brian G. aufgenommen. Auch diese Platte geht in eine andere Richtung, als sein Solo-Projekt Breaths. Die fünf Stücke spielen  sich zwischen Grunge, Shoegaze und Post-Hardcore ab. Wenn Ihr gerne Nirvana, Hum, Slow Crush, Modern Color, Quicksand, Failure und Teenage Wrist hört, ist jetzt also Euer Moment gekommen.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2391740809/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://roseneath.bandcamp.com/album/shine">Shine by Roseneath</a></iframe>
 
