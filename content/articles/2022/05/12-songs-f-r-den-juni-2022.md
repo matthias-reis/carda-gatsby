@@ -132,7 +132,7 @@ Ihr werdet es nicht glauben, aber auch dieses Stück stammt von Breaths Gründer
 
 ## Anna Sage – "Sinner Ablaze" vom Album "Anna Sage"
 
-Das Post-Hardcore Kollektiv aus Paris, Anna Sage hat gestern ein neues Video enthüllt, das ich auf jeden Fall dieser Liste hinzufügen muss. Es gehört zum neuen Stück "Lost In A Frame", das zum selbstbetitelten Album der Band gehört. Die Platte ist am 15. April auf Klonosphere erschienen. Im Laufe des Jahres soll es davon auch noch eine Vinyl-Edition geben. Beim Clip hat Naps Hart Regie geführt. Anna Sage Sänger Xavier beschreibt den Song so:
+Das Post-Hardcore Kollektiv aus Paris, Anna Sage, hat gestern ein neues Video enthüllt, das ich auf jeden Fall dieser Liste hinzufügen muss. Es gehört zum neuen Stück "Lost In A Frame", das zum selbstbetitelten Album der Band gehört. Die Platte ist am 15. April auf Klonosphere erschienen. Im Laufe des Jahres soll es davon auch noch eine Vinyl-Edition geben. Beim Clip hat Naps Hart Regie geführt. Anna Sage Sänger Xavier beschreibt den Song so:
 
 > "Es ist zweifelsohne eines der persönlichsten Stücke und es hat unser Album komplettiert. Für uns als Band ist es von großer Bedeutung. 'Lost In A Frame' handelt von Freundschaft. Ihren wechselnden Phasen und gemischten Gefühlen: Freude, Intensität und Fusion und dem Anfang und dem anschließenden, langsamen abebben auch die Veränderung der Lebensgewohnheiten. Während eine⋆r sich entscheidet, nach vorne zu gehen, entschließt sich der⋆die andere, die Toxizität zu umarmen und alles, was am Ende übrig bleibt, ist die Erinnerung an diese Freundschaft, gefroren in einem Foto: Lost in a frame."
 
