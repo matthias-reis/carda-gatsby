@@ -140,7 +140,7 @@ Das Post-Hardcore Kollektiv aus Paris, Anna Sage, hat gestern ein neues Video en
 
 Zu ihren Einflüssen zählen Anna Sage Bands wie Converge, Botch und The Chariot and Breach. Wenn Euch die Musik dieser Projekte anspricht, könntet Ihr Euch bei AS ziemlich zu Hause fühlen. Auch, wenn das Debüt-Album der Pariser erst jetzt erschienen ist: Gegründet haben sich Anna Sage bereits 2012. Daher gibt es auch EPs wie "The Fourth Wall" von 2014 und "Downward Motion" von 2018. Den Kinderschuhen sind AS also definitiv längst entwachsen.
 
-<YouTube id="7LHqgFhFznI&t=18s" />
+<YouTube id="9oVaXHOAmIg" />
 
 ## Kill Trip – "As The Roots Wither And Die" von der EP "Sifting the Ashes"
 
