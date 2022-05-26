@@ -66,7 +66,7 @@ Ich habe erst überlegt, ob dieses Stück der richtige Opener für unsere Liste 
 
 Weiter geht es mit einer weiteren Perle dieses Jahres (wenn Ihr mich fragt). Matze findet zu "Boltfor" von Mogwai die folgenden Worte:
 
-> Zuerst denkt man: 'Waaah! Was Neues von Mogwai! Das nächste Album! so kurz nach `As the Love Continues`'! Dann erfährt man: 'Nee, ist `nur` eine Single, die in den Aufnahme-Sessions zur letzten LP entstanden ist.' Auch gut. Beim Hören stellt man sich dann unweigerlich die Frage, warum es so ein genialer Track nicht aufs Album geschafft hat. Das sagt, glaube ich, alles über diese grandiose Band aus. Schön, dass wir uns an ihrem perfekten Post-Rock Sound und dem wunderbaren Video erfreuen können.
+> "Zuerst denkt man: 'Waaah! Was Neues von Mogwai! Das nächste Album! so kurz nach As the Love Continues!´' Dann erfährt man: 'Nee, ist ´nur` eine Single, die in den Aufnahme-Sessions zur letzten LP entstanden ist.'– auch gut. Beim Hören stellt man sich dann unweigerlich die Frage, warum es so ein genialer Track nicht aufs Album geschafft hat. Das sagt, glaube ich, alles über diese grandiose Band aus. Schön, dass wir uns an ihrem perfekten Post-Rock Sound und dem wunderbaren Video erfreuen können."
 
 <YouTube id="xZf9svkQRZM" />
 
