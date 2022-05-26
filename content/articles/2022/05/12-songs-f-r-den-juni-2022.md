@@ -60,7 +60,7 @@ Ich habe erst überlegt, ob dieses Stück der richtige Opener für unsere Liste 
 
 > "Wieder ein Album, auf das wir alle schon lange gewartet haben. Vorankündigungen und erste Single-Auskopplungen kommen gefühlt immer früher raus. Bereits im Oktober, vor acht Monaten haben wir über den ersten Song des Albums berichtet. Auch meinen Pick gibt es schon seit Januar. Nun ist das Album also endlich da und hält, was es bereits so lange versprochen hat. Die Band leuchtet die Räume zwischen Elektonic, Avantgarde-Pop und Prog aus und hat mit "Call to Arms & Angels" ein weiteres Highlight für den Plattenschrank produziert"
 
-HCcsvi4uCjA
+<YouTube id="HCcsvi4uCjA" />
 
 ## Mogwai – "Boltfor" (Single)
 
@@ -68,7 +68,7 @@ Weiter geht es mit einer weiteren Perle dieses Jahres (wenn Ihr mich fragt). Mat
 
 > Zuerst denkt man: 'Waaah! Was Neues von Mogwai! Das nächste Album! so kurz nach `As the Love Continues`'! Dann erfährt man: 'Nee, ist `nur` eine Single, die in den Aufnahme-Sessions zur letzten LP entstanden ist.' Auch gut. Beim Hören stellt man sich dann unweigerlich die Frage, warum es so ein genialer Track nicht aufs Album geschafft hat. Das sagt, glaube ich, alles über diese grandiose Band aus. Schön, dass wir uns an ihrem perfekten Post-Rock Sound und dem wunderbaren Video erfreuen können.
 
-xZf9svkQRZM
+<YouTube id="xZf9svkQRZM" />
 
 ## Kirk Hammett – "High Planes Drifter" von der EP "Portals"
 
@@ -78,14 +78,15 @@ Valentin hat dieses Stück von Kirk Hammett auf die Liste gesetzt. Hier ist sein
 
 > Musikalisch verbindet Kirk Hammett hier sein außerordentliches Gitarren(solo)-Spiel mit seiner Vorliebe für klassische Musik und Horrorfilme. Hin und wieder hört man auch ein bisschen Ennio Morricone Filmmusik raus. Ich habe mich für das sehr spannende dritte Stück 'High Planes Drifter' entschieden. Leider ist dann nach 26 Minuten auch schon Schluss. Am liebsten hätte ich immer weiter gehört. Meinetwegen kann neben neuen Metallica-Alben gerne noch mehr von Kirk kommen. Ich hätte allerdings auch nichts gegen ein Country- und Bluesalbum von James Hetfield oder ein Mariachi-Album von Robert Trujiilo – Mal sehen, was kommt..."
 
-zwOqs88cHWo
+<YouTube id="zwOqs88cHWo" />
 
 ## The Smile – "Pana-Vision" vom Album "A Light For Attracting Attention"
 
 Und auch dieses Stück hat Valentin aufs Parkett gestellt:
 
 "Bei der Vorstellung dieses Albums konnte ich mich sehr schwer für einen einzigen Song entscheiden, weil es eigentlich von vorne bis hinten immer besser wird. Das erste Album von The Smile 'A Light For Attracting Attention' ist mehr oder weniger das neue Radiohead-Album, von denen wir schon ewig eine neue Veröffentlichung warten. Bandmitglieder sind die Radiohead Mitglieder Thom Yorke und Jonny Greenwood sowie der britische Jazz-Drummer Tom Skinner. Live-Auftritte gab es von dem Trio auch schon, die sind natürlich genauso gut, wie die Konzerte von Radiohead. Letztlich musste ich aber doch für einen Song entscheiden und ich denke 'Pana-Vision' ist ein gutes Stück Musik, um das Album vorzustellen. Aber wie gesagt, hört euch am besten das ganze Werk am Stück an."
-wKXQhFXlFs4
+
+<YouTube id="wKXQhFXlFs4" />
 
 ## Fontaines D.C. – "Roman Holiday" vom Album "Skinty Fia"
 
@@ -93,7 +94,7 @@ Weiter geht es mit Post-Punk aus Matzes Plattenbox:
 
 > "Die irischen Post-Punks haben auf ihrem neuen Album den perfekten Spagat zwischen der harten, rauen und dreckigen Punk-Welt und der fließenden, beruhigenden Wirkung des Post-Rock geschafft. "Roman Holiday" ist dafür das beste Beispiel. Sowohl für die Band als auch für ihren Sound hat sich seit dem ersten Langspieler einiges getan. Sie sind nach London gezogen und haben genau das auch in ihre Musik mit aufgenommen und lassen Brit Pop, Indie und Stadionrock zumindest ein kleines bisschen in ihren Stil mit einfließen."
 
-kP0WSdu4MPU
+<YouTube id="kP0WSdu4MPU" />
 
 ## Hiroe – "Black Mountain" (Vorauskopplung vom Album "The Approach")
 
@@ -103,7 +104,7 @@ Das neue Album von Hiroe erscheint am 8. Juli auf Pelagic Records. Die erste Vor
 
 Die gediegene Post-Rock Atmosphäre zieht sich durch das komplette Album und schafft es hervorragend, die Gefühle der letzten zwei Jahre zum Ausdruck zu bringen – und noch sehr viel mehr. Ihr dürft Euch also freuen. Hier kommt für Euch die Vorauskopplung.
 
-IZnbRVATF7M
+<YouTube id="IZnbRVATF7M" />
 
 ## Sâver – "Dimension Lost", Obscured by Aeons"
 
@@ -115,7 +116,7 @@ Klingt mystisch, oder? Ist es auch. Für die Band war das Projekt das bisher exp
 
 > "Es ist eine düstere und abstrakte Interpretation entstanden, die den Zuschauer⋆innen die Story nicht aufzwingt. Vielmehr stellt sie das visuelle Werkzeug zur Verfügung, das dazu nötig ist, einen eigenen Narrativ zu erschaffen. Das sorgt dafür, dass, abhängig von den Menschen, die es sich ansehen, das Video schön, ominös, klaustrophobisch oder weit und offen sein kann – eine Spanne, die ziemlich genau die Essenz von Sâvers Vorstellung von Musik entspricht."
 
-NWqllHdRd3Y
+<YouTube id="NWqllHdRd3Y" />
 
 ## Breaths – "Movement I" (Vorauskopplung vom Album "Isolera")
 
@@ -137,13 +138,13 @@ Das Post-Hardcore Kollektiv aus Paris, Anna Sage hat gestern ein neues Video ent
 
 Zu ihren Einflüssen zählen Anna Sage Bands wie Converge, Botch und The Chariot and Breach. Wenn Ihr Euch mit der Musik dieser Projekte wohlfühlen, könntet Ihr Euch bei AS ziemlich zu Hause fühlen. Auch, wenn das Debüt-Album der Pariser erst jetzt erschienen ist: Gegründet haben sich Anna Sage bereits 2012. Daher gibt es auch EPs wie "The Fourth Wall" von 2014 und "Downward Motion" von 2018. Den Kinderschuhen sind AS also definitiv längst entwachsen.
 
-7LHqgFhFznI&t=18s
+<YouTube id="7LHqgFhFznI&t=18s" />
 
 ## Kill Trip – "As The Roots Wither And Die" von der EP "Sifting the Ashes"
 
 Die Sludge/Hardcore-Band aus dem dänischen Horsens hat ihr Debüt-Album "Bury the Sky" vor zwei Jahren in die Regale gestellt. Gestern meldete sich das Projekt offiziell mit neuer Musik zurück. "Sifting the Ashes EP 1" ist die erste von zwei EPs, die später zu einem Full-Length-Album verschmolzen werden sollen, das auf LP erscheinen wird. Vergleicht man die neuen Stücke mit denen vom Debüt-Album, kann man eine klare Entwicklung hören. Reine, offen kommunizierte Wut hat Frustration und Traurigkeit abgelöst und das steht Kill Trip gut zu Gesicht. Ein hartes Stück musikalischer Aktivismus mit einer großen Priese Rebellion: Die Band unterstützt den Kampf gegen die Klimakatastrophe und Gruppen wie Extinction Rebellion.
 
-X4SEvDpuNJY
+<YouTube id="X4SEvDpuNJY" />
 
 ## Die Nerven – "Europa" (Vorauskopplung vom Album "Die Nerven")
 
@@ -151,7 +152,7 @@ Ganz zum Schluss gibt es noch mal ein Stück, das Matze hier hinzugefügt hat:
 
 > Noch mal Post-Punk. Diesmal aus Deutschland. Ich finde ja: Jan Böhmermann stellt in seiner Sendung immer wieder wirklich gute Acts vor. Das Rundfunktanzorcheser Erhenfeld, Böhmermanns Hauskapelle, setzt aber auch einfach alle(s) so extrem gut in Szene. Ich erinnere mich an Danger Dan oder zuletzt sogar Placebo. Von den "Nerven" hatte ich bisher noch nichts gehört. Die Single verspricht einiges und spielt inhaltlich mit einem sehr aktuellen Thema. Das Album kommt im Oktober raus. Als Video habe ich Euch auch den Livemitschnitt aus dem "ZDF Magazin Royale herausgesucht. Das Album erscheint im Herbst."
 
-eqZU70jLXnc
+<YouTube id="eqZU70jLXnc" />
 
 <Playlist
   spotify="2e8UU3wGcv2mAqgTp6qt9C?si=6dfe07a5f0d54c62"
