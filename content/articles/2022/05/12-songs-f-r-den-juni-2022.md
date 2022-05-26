@@ -108,7 +108,7 @@ Die gediegene Post-Rock Atmosphäre zieht sich durch das komplette Album und sch
 
 ## Sâver – "Dimension Lost", Obscured by Aeons"
 
-Letzte Woche erschien das neue Video von Sâver. Die Norweger sind gerade zu ihrer aktuellen Tour aufgebrochen. Die beiden Stücke "Dimensions Lost" und "Obscured By Aeons" stammt ursprünglich von der Split-EP mit Psychonaut "Emerald", die ich hier im Blog bereits vorgestellt hatte. Premiere feierte das Video bei Everything is Noise. Dort wurde es wie folgt kommentiert:
+Letzte Woche erschien das neue Video von Sâver. Die Norweger sind gerade zu ihrer aktuellen Tour aufgebrochen. Die beiden Stücke "Dimensions Lost" und "Obscured By Aeons" stammt ursprünglich von der Split-EP mit Psychonaut "Emerald", [die ich hier im Blog bereits vorgestellt hatte](/2021/05/psychonaut-saver-emerald/). Premiere feierte das Video bei Everything is Noise. Dort wurde es wie folgt kommentiert:
 
 > "Eine Projektion wunderschöner Klanglandschaften, durchdrungen von höchster Härte und knorrigen Sludge-Riffs. SÂVER sind spirituell verwoben in einem experimentellen Wirbelwind musikalischer Raffinesse in ihrer schwersten und unirdischsten Form."
 
