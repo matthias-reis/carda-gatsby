@@ -43,6 +43,8 @@ labels:
   - Mogwai
   - Archive
   - Prog
+  - Klonosphere
+  - Pelagic
 focusKeyword: Post-Hardcore
 advertisement: false
 affiliate: false
