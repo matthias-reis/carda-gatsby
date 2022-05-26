@@ -144,7 +144,7 @@ Zu ihren Einflüssen zählen Anna Sage Bands wie Converge, Botch und The Chariot
 
 ## Kill Trip – "As The Roots Wither And Die" von der EP "Sifting the Ashes"
 
-Die Sludge/Hardcore-Band aus dem dänischen Horsens hat ihr Debüt-Album "Bury the Sky" vor zwei Jahren in die Regale gestellt. Gestern meldete sich das Projekt offiziell mit neuer Musik zurück. "Sifting the Ashes EP 1" ist die erste von zwei EPs, die später zu einem Full-Length-Album verschmolzen werden sollen, das auf LP erscheinen wird. Vergleicht man die neuen Stücke mit denen vom Debüt-Album, kann man eine klare Entwicklung hören. Reine, offen kommunizierte Wut hat Frustration und Traurigkeit abgelöst und das steht Kill Trip gut zu Gesicht. Ein hartes Stück musikalischer Aktivismus mit einer großen Priese Rebellion: Die Band unterstützt den Kampf gegen die Klimakatastrophe und Gruppen wie Extinction Rebellion.
+Die Sludge/Hardcore-Band aus dem dänischen Horsens hat ihr Debüt-Album "Bury the Sky" vor zwei Jahren in die Regale geräumt. Gestern meldete sich das Projekt offiziell mit neuer Musik zurück. "Sifting the Ashes EP 1" ist die erste von zwei EPs, die später zu einem Full-Length-Album verschmolzen werden sollen, das auf LP erscheinen wird. Vergleicht man die neuen Stücke mit denen vom Debüt-Album, kann man eine klare Entwicklung hören. Reine, offen kommunizierte Wut hat Frustration und Traurigkeit abgelöst und das steht Kill Trip gut zu Gesicht. Ein hartes Stück musikalischer Aktivismus mit einer großen Priese Rebellion: Die Band unterstützt den Kampf gegen die Klimakatastrophe und Gruppen wie Extinction Rebellion.
 
 <YouTube id="X4SEvDpuNJY" />
 
