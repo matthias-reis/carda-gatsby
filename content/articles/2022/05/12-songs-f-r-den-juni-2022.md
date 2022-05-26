@@ -58,7 +58,7 @@ Hier ist jedenfalls schon mal eine kleine Auswahl musikalischer Juwelen, die die
 
 Ich habe erst überlegt, ob dieses Stück der richtige Opener für unsere Liste ist. Schließlich habe ich mich dann entschieden: Ja! Selbstverständlich darf es hier auch mal wunderbar komplex losgehen. Vor allem, wenn es sich um eine unserer langjährigen, gemeinsamen Lieblings-Bands handelt! Hier sind Matzes Worte zu "Fear There & Everywhere" von Archive:
 
-> "Wieder ein Album, auf das wir alle schon lange gewartet haben. Vorankündigungen und erste Single-Auskopplungen kommen gefühlt immer früher raus. Bereits im Oktober, vor acht Monaten haben wir über den ersten Song des Albums berichtet. Auch meinen Pick gibt es schon seit Januar. Nun ist das Album also endlich da und hält, was es bereits so lange versprochen hat. Die Band leuchtet die Räume zwischen Elektonic, Avantgarde-Pop und Prog aus und hat mit "Call to Arms & Angels" ein weiteres Highlight für den Plattenschrank produziert"
+> "Wieder ein Album, auf das wir alle schon lange gewartet haben. Die Vorankündigungen und erste Single-Auskopplungen kommen gefühlt immer früher raus. Bereits im Oktober, vor acht Monaten haben wir über den ersten Song des Albums berichtet. Auch meinen Pick gibt es schon seit Januar. Nun ist das Album also endlich da und hält, was es bereits so lange versprochen hat. Die Band leuchtet die Räume zwischen Elektonic, Avantgarde-Pop und Prog aus und hat mit "Call to Arms & Angels" ein weiteres Highlight für den Plattenschrank produziert"
 
 <YouTube id="HCcsvi4uCjA" />
 
