@@ -45,6 +45,7 @@ labels:
   - Prog
   - Klonosphere
   - Pelagic
+  - serie:Playlists 2022
 focusKeyword: Post-Hardcore
 advertisement: false
 affiliate: false
