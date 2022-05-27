@@ -99,7 +99,7 @@ Weil immer noch Teddys auf der Suche nach Hilfe sind, beschließen die Eltern, e
 
 CEO und Gründerin von Animals Asia Jill Robinson möchte mit dem Film alle Menschen ansprechen, ungeachtet ihres Alters, Hintergrundes oder ihrer Sprache. Sie findet:
 
-> "Die Geschichte steht für die bislang größte Herausforderung für Animals Asia: den Bau eines zweiten Rettungszentrums in Vietnam. Wir wollen dort die letzten paar hundert Bären retten, die noch auf den Galle-Farmen leben."
+> "Die Geschichte steht für die bislang größte Herausforderung für Animals Asia: den Bau eines neuen Bären-Rettungszentrums für Vietnam. Wir wollen dort die letzten paar hundert Bären retten, die noch auf den Galle-Farmen leben."
 
 Die Geschichte erklärt sie so:
 
