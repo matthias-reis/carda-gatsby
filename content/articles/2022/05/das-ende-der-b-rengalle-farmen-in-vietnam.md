@@ -45,7 +45,7 @@ Animals Asia wurde 1998 offiziell gegründet und setzt sich für verbesserte Bed
 
 ## Schutz für die Tiere von den Bärengalle-Farmen
 
-![Bären in der Schutzzone. Bild: Animals Asia](https://storage.googleapis.com/cardamonchai-media/2022-05-27/animals-asia-baeren-1-jpg-imagine-f8f8f8_b4bead_1024_768/640.webp "Drei Bären klettern auf einem Gerüst aus Bambus. Im Hintergrund ist der Regenwald zu sehen. Bären in der Schutzzone. Bild: Animals Asia")
+![Bären in der Schutzzone: Drei Bären klettern auf einem Gerüst aus Bambus. Im Hintergrund ist der Regenwald zu sehen. Bild: Animals Asia](https://storage.googleapis.com/cardamonchai-media/2022-05-27/animals-asia-baeren-1-jpg-imagine-f8f8f8_b4bead_1024_768/640.webp "Bären in der Schutzzone. Bild: Animals Asia")
 
 Die Bärenschutzgebiete dienen den aus den Bärengalle-Farmen befreiten Tieren als Schutzzonen. Hunderte Bären haben in diesen Sanctuaries ein Zuhause gefunden. Animals Asia ist die einzige Organisation mit einem derartigen Bärenschutzgebiet in China.
 
