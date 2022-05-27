@@ -37,7 +37,7 @@ Wer nicht weiß, was Bärengalle-Farmen sind:
 
 Die Farmer zapfen den Bären in einem grausamen Verfahren regelmäßig Galle ab. Diese findet vorwiegend in der traditionellen Medizin sowie in Shampoos und Zahnpasta Einsatz – obwohl es inzwischen viele kostengünstige, pflanzliche Alternativen gibt.
 
-Die Bären müssen auf den Farmen in winzigen Käfigen leben. Meistens können sie sich nicht mal umdrehen. Manche von ihnen können noch nicht mal auf allen Vieren stehen. Sie sind dehydriert, leiden Hunger und bösartigen Tumoren, an denen sie am Ende sterben.
+Die Bären müssen auf den Farmen in winzigen Käfigen leben. Meistens können sie sich darin nicht mal umdrehen. Manche von ihnen können nicht auf allen Vieren stehen. Sie sind dehydriert, leiden Hunger und bösartigen Tumoren, an denen sie am Ende sterben.
 
 Vietnamesische Staatsangehörige möchten jetzt mit gutem Beispiel vorangehen und die letzten Bären aus den Gallen-Farmen des Landes retten.
 
