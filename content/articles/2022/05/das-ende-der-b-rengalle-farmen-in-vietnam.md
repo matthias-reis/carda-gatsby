@@ -39,9 +39,7 @@ Die Farmer zapfen den Bären in einem grausamen Verfahren regelmäßig Galle ab.
 
 Die Bären müssen auf den Farmen in winzigen Käfigen leben. Meistens können sie sich darin nicht mal umdrehen. Manche von ihnen können nicht auf allen Vieren stehen. Sie sind dehydriert, leiden Hunger und bösartigen Tumoren, an denen sie am Ende sterben.
 
-Vietnamesische Staatsangehörige möchten jetzt mit gutem Beispiel vorangehen und die letzten Bären aus den Gallen-Farmen des Landes retten.
-
-Insgesamt ist von noch 310 verbleibenden Bären die Rede. Sie sollen dank der seit 28 Jahren andauernden Initiative durch Animals Asia nun bald in Freiheit leben.
+Vietnamesische Staatsangehörige möchten jetzt mit gutem Beispiel vorangehen und die letzten Bären aus den Gallen-Farmen des Landes retten. Insgesamt ist von noch 310 verbleibenden Bären die Rede. Sie sollen dank der seit 28 Jahren andauernden Initiative durch Animals Asia nun bald in Freiheit leben.
 
 Animals Asia wurde 1998 offiziell gegründet und setzt sich für verbesserte Bedingungen und Rechte für verschiedene Tierarten in ganz Asien ein. Die Organisation betreibt preisgekrönte Schutzgebiete in Vietnam und China.
 
