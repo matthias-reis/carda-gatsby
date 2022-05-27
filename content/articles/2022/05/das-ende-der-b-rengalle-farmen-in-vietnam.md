@@ -73,13 +73,9 @@ Prominente Unterstützung fand das Projekt unter anderem in Judi Dench, Alan Cum
 
 ## Prominente Unterstützung von Dr. Jane Goodall bis Ricky Gervais
 
-Tierrechtsaktivistin und Forscherin Dr. Jane Goodall sprach der Organisation ihre Gratulation aus.
+Tierrechtsaktivistin und Forscherin Dr. Jane Goodall sprach der Organisation ihre Gratulation aus:
 
-> "Animals Asia setzt den Bärengalle-Farmen in Vietnam ein Ende",
-
-sagte sie.
-
-> "Bitte unterstützt Animals Asia dabei, dieses letzte Bären-Schutzgebiet aufzubauen, damit wir sicher gehen können, dass in kein Bär in Vietnam vergessen wird."
+> "Animals Asia setzt den Bärengalle-Farmen in Vietnam ein Ende. Bitte unterstützt Animals Asia dabei, dieses letzte Bären-Schutzgebiet aufzubauen, damit wir sicher gehen können, dass in kein Bär in Vietnam vergessen wird."
 
 <YouTube id="OJJ3miZrQ84" />
 
