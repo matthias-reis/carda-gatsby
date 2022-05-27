@@ -9,7 +9,7 @@ description: Vietnamn möchte jetzt gemeinsam mit Animals Asia mit gutem Beispie
   vorangehen. Die letzen 310 Bären, die sich dort in Bärengalle-Farmen befinden,
   sollen befreit werden.
 excerpt: Zehntausende Bären – hauptsächlich Mondbären, aber auch Sonnenbären und
-  Braunbären – werden auf Bärengalle-Farmen in Asian gefangen gehalten. Ein Land
+  Braunbären – werden auf Bärengalle-Farmen in Asien gefangen gehalten. Ein Land
   möchte jetzt gemeinsam mit Animals Asia mit gutem Beispiel vorangehen. Die
   letzen 310 Bären, die sich in vietnamesischen Bärengalle-Farmen befinden,
   sollen jetzt befreit werden.
@@ -31,7 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Zehntausende Bären – hauptsächlich Mondbären, aber auch Sonnenbären und Braunbären – werden auf Bärengalle-Farmen in Asian gefangen gehalten. Ein Land möchte jetzt gemeinsam mit Animals Asia mit gutem Beispiel vorangehen. Die letzen 310 Bären, die sich in vietnamesischen Bärengalle-Farmen befinden, sollen jetzt befreit werden.**
+**Zehntausende Bären – hauptsächlich Mondbären, aber auch Sonnenbären und Braunbären – werden auf Bärengalle-Farmen in Asien gefangen gehalten. Ein Land möchte jetzt gemeinsam mit Animals Asia mit gutem Beispiel vorangehen. Die letzen 310 Bären, die sich in vietnamesischen Bärengalle-Farmen befinden, sollen jetzt befreit werden.**
 
 Wer nicht weiß, was Bärengalle-Farmen sind:
 
