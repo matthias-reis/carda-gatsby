@@ -51,7 +51,7 @@ Die Bärenschutzgebiete dienen den aus den Bärengalle-Farmen befreiten Tieren a
 
 Bis heute hat Animals Asia 640 Bären aus dem Gallenhandel befreit. Weil sich die Bären-Auffangstation in Tam Dao der Kapazitätsgrenze nähert, hat die Organisation jetzt ein neues Zentrum angekündigt, in dem alle noch verbleibenden Gallenbären in Vietnam aufgenommen werden sollen.
 
-Das 12 Hektar große Schutzgebiet in der bergigen Umgebung des Bach-Ma-Nationalparks wird am heutigen 27. Mai eingeweiht. Wenn irgendwann alle gezüchteten Bären in Vietnam befreit und in das Schutzgebiet entlassen worden sind, wird der Handel mit Bärengalle im Land offiziell der Geschichte angehören.
+Das 12 Hektar große Schutzgebiet in der bergigen Umgebung des Bach-Ma-Nationalparks wird am heutigen 27. Mai eingeweiht. Wenn irgendwann alle Farm-Bären in Vietnam befreit und in das Schutzgebiet entlassen worden sind, wird der Handel mit Bärengalle im Land offiziell der Geschichte angehören.
 
 Jill Robertson ist stolz auf diese Entwicklung:
 
