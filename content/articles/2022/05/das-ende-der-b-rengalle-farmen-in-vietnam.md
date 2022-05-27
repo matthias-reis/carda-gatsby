@@ -65,7 +65,7 @@ sagt sie[^1].
 
 Im Hinblick auf die neue Einrichtung sagte Jill Robinson:
 
-> "Heute zeigen wir, dass Courage, Empathie, Hartnäckigkeit und Entschlossenheit zu bedeutenden Veränderungen führen. Wir haben es geschafft, indem wir zusammengehalten haben, konnten wir aktiv zur Rettung der gefährdeten Arten der Welt beitragen."
+> "Heute zeigen wir, dass Courage, Empathie, Hartnäckigkeit und Entschlossenheit zu bedeutenden Veränderungen führen. Wir haben es geschafft: Indem wir zusammengehalten haben, konnten wir aktiv zur Rettung der gefährdeten Arten der Welt beitragen."
 
 Prominente Unterstützung fand das Projekt unter anderem in Judi Dench, Alan Cumming, Stephen Fry, James Cromwell, Slash und Peter Egan. [Comedian Ricky Gervais](LINK) rief in einem Video dazu auf, "Ihnen bei dieser wichtigen Mission beizustehen und gemeinsam die Pfoten für den Mondbären zu erheben."
 
