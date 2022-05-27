@@ -109,7 +109,7 @@ Die Geschichte erklärt sie so:
 
 <YouTube id="N7oQsymkAAc" />
 
-Bilder/Pictures: [^1]: [Animals Asia](https://www.animalsasia.org/)
+Bilder/Pictures: [Animals Asia](https://www.animalsasia.org/)
 
 [^1]: [Jill Robinsons Blog](https://www.animalsasia.org/de/social/jills-blog/)
 
