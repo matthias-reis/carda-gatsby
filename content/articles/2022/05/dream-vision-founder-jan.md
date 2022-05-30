@@ -89,6 +89,6 @@ Sorry, I got carried away. What I wanted to ask is: how would you describe the S
 
 **Anne:** What's up next for Dream Vision? Are you already writing new songs? Any tour plans?
 
-**Jan:** First, I will release an EP for my first project, Zorya. Later I will start making new music. After that, I probably won't have tours because I don't particularly appreciate playing live so much.
+**Jan:** First, I will release an EP for my first project, Zorya. Later I will start making new music. There probably won't be any tours because I don't particularly appreciate playing live so much.
 
 <YouTube id="8IxKX238Fxc" />
