@@ -54,7 +54,7 @@ languageLink: /2022/05/dream-vision-interview-en/
 
 "Dream Vision" besitzt innerhalb der Psychologie viele Bedeutungen. Ich weiß nicht, wie es dazu kam, dass ich mich so für Psychologie begeistere, aber wenn Du Dir Metal anhörst, hast Du mindestens eine 30-prozentige Chance, dass es um Depressionen oder Psychologie geht. Und ja, Du hast natürlich recht: Der Name des Albums ist mit dem Bandnamen verknüpft. Beide Worte stammen aus der Psychologie. Und ich habe mir gedacht, "Rêves" passt doch perfekt!
 
-**Anne:** Deine Musik ist nicht nur dunkel und traurig, sondern auch verträumt. Wolltest Du immer diesen Mix aus Blackgaze, Dreamgaze, Post-Metal und Ambient machen? Es klingt so, als würdest Du Dich in dieser Welt sehr zu Hause fühlen – was wunderschön ist.
+**Anne:** Deine Musik ist nicht nur düster und traurig, sondern auch verträumt. Wolltest Du immer diesen Mix aus Blackgaze, Dreamgaze, Post-Metal und Ambient machen? Es klingt so, als würdest Du Dich in dieser Welt sehr zu Hause fühlen – was wunderschön ist.
 
 **Jan:** Oh nein. Als Kind habe ich vorwiegend Metal und Rockmusik gehört. Als ich dann vor ein paar Jahren angefangen habe, mich für Black Metal zu interessieren, habe ich mich nach frischer und neuer Musik umgehört und bin auf Post-Rock und seine verwandten Genres gestoßen. Mit meiner ersten Band Zorya mache ich Post-Black Music, aber mit meinem Soloprojekt wollte ich in ein neues Gebiet aufbrechen, das noch nicht komplett erforscht ist. Also habe ich angefangen, Blackgaze und Darkwave Metal mit Elementen aus dem Post-Rock und einigen komplexeren Genres zu mischen.
 
