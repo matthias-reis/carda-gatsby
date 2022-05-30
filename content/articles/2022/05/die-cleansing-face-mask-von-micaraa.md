@@ -44,7 +44,7 @@ Meine Haut freut sich an solchen Regenerations-Tagen immer sehr über eine klär
 
 Laut MICARAA ist die gelbe Maske für alle Hauttypen geeignet, besonders aber für Mischhaut und zu Öligkeit bzw. Unreinheiten neigende Haut. Meine eher trockene Mischhaut, die gerne mal mit Rötungen glänzt, ist offenbar auch sehr damit zufrieden.
 
-Ihr könnt [die Maske](https://tidd.ly/38Su2n0) zum Beispiel verwenden, wenn Ihr glänzende Stellen, Mitesser oder vergrößerte Poren bei Euch feststellt. Also eigentlich genau die Symptome, mit denen die Gesichtshaut gerne mal aufwartet, wenn Ihr weniger Schlaf bekommen habt, als Ihr es sonst gewohnt seid. Sprich: Ihr wart am Vortag auf einem Konzert und seit wie ich ein kleeeiiines bisschen müde. Ich kenne diesen Zustand von mir, aber unter anderem auch, wenn ich zu viele Süßigkeiten gegessen habe und/oder zu wenig Wasser trinke.
+Ihr könnt [die Maske](https://tidd.ly/38Su2n0) zum Beispiel verwenden, wenn Ihr glänzende Stellen, Mitesser oder vergrößerte Poren bei Euch feststellt. Also eigentlich genau die Symptome, mit denen die Gesichtshaut gerne mal aufwartet, wenn Ihr weniger Schlaf bekommen habt, als Ihr es sonst gewohnt seid. Sprich: Ihr wart am Vortag auf einem Konzert und seit wie ich ein kleeeiiines bisschen müde. Ich kenne diesen Hautzustand von mir, aber unter anderem auch, wenn ich zu viele Süßigkeiten gegessen habe und/oder zu wenig Wasser trinke.
 
 ## Ein mattiertes Hautbild
 
