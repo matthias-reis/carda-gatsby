@@ -55,7 +55,7 @@ languageLink: /2022/05/dream-vision-interview/
 
 **Anne:** Your music is not only dark and sad but also kind of dreamy. Have you always been into this electronic blackgaze/dreamgaze/post-metal ambient kind of style? It seems like you feel pretty at home with it, which is wonderful.
 
-**Jan:** Oh no. When I was a kid, I was a fan of metal and rock music. But, when I started to like black metal a few years ago, I searched for some fresh and new music, so I found post-rock and relative genres. I am making post-black music with my first band, Zorya, but here I wanted to do something new, not discovered so well. So, I started mixing blackgaze and darkwave metal music with elements of post-rock and more complex genres.
+**Jan:** Oh no. When I was a kid, I was a fan of metal and rock music. But, when I started to like black metal a few years ago, I searched for some fresh and new music, so I found post-rock and all its relative genres. I am making post-black music with my first band, Zorya, but here I wanted to do something new, not discovered so well. So, I started mixing blackgaze and darkwave metal music with elements of post-rock and more complex genres.
 
 **Anne:** Do you have a favourite song on the record?
 
