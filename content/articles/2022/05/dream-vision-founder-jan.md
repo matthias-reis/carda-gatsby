@@ -85,7 +85,7 @@ Sorry, I got carried away. What I wanted to ask is: how would you describe the S
 
 ## "People have the wrong idea of music"
 
-**Jan:** I think this is because we have a wrong idea about music in our minds. I make this kind of music, and I don't feel depressed. I try to make appropriate effects with music, so if you listen to this music, you will be happy, but if you are happy, you can be sad. It's an emotional exposure. I think we are different: We have the courage to talk about taboo things.
+**Jan:** I think this is because we have a wrong idea about music in our minds. I make this kind of music, and I don't feel depressed. I try to make appropriate effects with music, so if you listen to this music, you can be happy, but if you are happy, you can be sad. It's an emotional exposure. I think we are different: We have the courage to talk about taboo things.
 
 **Anne:** What's up next for Dream Vision? Are you already writing new songs? Any tour plans?
 
