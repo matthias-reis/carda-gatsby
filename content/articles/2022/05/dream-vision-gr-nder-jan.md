@@ -44,7 +44,7 @@ languageLink: /2022/05/dream-vision-interview-en/
 
 **Jan:** Hey! Danke für Deine Worte! Im Moment bin ich etwas erschöpft, aber sehr glücklich, weil die sich die harte Arbeit für die Platte auszuzahlen scheint.
 
-**Anne:** Möchtest Du mir die Geschichte dahinter verraten? Erzählt es ein? "Rêves" ist ja französisch für "träumen". Also denke ich mal, es könnte etwas mit Deinem Bandnamen zu tun haben, den der dreht sich ja auch um Träume?
+**Anne:** Möchtest Du mir die Geschichte dahinter verraten? Erzählt es ein? "Rêves" ist ja französisch für "träumen". Also denke ich mal, es könnte etwas mit Deinem Bandnamen zu tun haben, denn der dreht sich ja auch um Träume?
 
 ## "Ich habe angefangen Blackgaze und Darkwave Metal mit Post-Rock Elementen zu vermischen"
 
