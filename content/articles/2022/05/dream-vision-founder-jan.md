@@ -59,7 +59,7 @@ languageLink: /2022/05/dream-vision-interview/
 
 **Anne:** Do you have a favourite song on the record?
 
-**Jan:** This is also a tricky question, hah. I think I don't have one because I like all the songs, but everything can always be better. So, I would say I don't have a favourite song right now.
+**Jan:** This is also a tricky question, hah. I think I don't have one because I like all the songs, but everything can always be better. But, I would say I don't have a favourite song right now.
 
 **Anne:** Who would you say are your three biggest influences?
 
