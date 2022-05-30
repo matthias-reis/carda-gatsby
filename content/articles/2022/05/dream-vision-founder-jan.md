@@ -41,7 +41,7 @@ languageLink: /2022/05/dream-vision-interview/
 
 **Anne:** Hey! Thanks for taking the time for this interview! How are you doing at the moment? Congrats on your brand-new album, "Rêves"! It's wonderful!
 
-**Jan:** Hey! Thanks so much for your words. I am a little exhausted right now, but I am happy because all the hard work I did for the album seems to pay off.
+**Jan:** Hey! Thanks so much for your words. I am a little exhausted right now, but also happy because all the hard work I did for the album seems to pay off.
 
 **Anne:** Do you want to tell me the story behind it? Does it tell one? "Rêves" is French for dreaming. So I guess it's related to your band name?
 
