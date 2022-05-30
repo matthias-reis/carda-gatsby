@@ -2,13 +2,13 @@
 date: 2022-05-30T15:54:32.513Z
 slug: dream-vision-interview-en
 typeName: Interview
-title: Dream Vision Founder Jan
+title: Dream Vision Founder Jan Oblak
 subTitle: '"Psychology Fascinates Me"'
 seoTitle: Dream Vision Founder Jan – Post-Rock Interview
 description: Dream Vision founder Jan just released his debut album. After
   starting his solo project in December, he had already released some songs in
   January. Time for an interview.
-excerpt: Jan, who you might know as one of the founding members of the
+excerpt: Jan Oblak, who you might know as one of the founding members of the
   atmospheric post-metal project Zorya from Slovenia, started his new solo
   project Dream Vision last December. His freshly released debut, "Rêves", is a
   dreamful mix of electronic blackgaze and post-rock music with influences in
@@ -37,7 +37,7 @@ affiliate: false
 language: en
 languageLink: /2022/05/dream-vision-interview/
 ---
-**Jan, who you might know as one of the founding members of the atmospheric post-metal project Zorya from Slovenia, started his new solo project Dream Vision last December. His freshly released debut, "Rêves", is a dreamful mix of electronic blackgaze and post-rock music with influences in the post-black and depressive black metal genre. I now had the chance to talk to the multi-instrumentalist who recorded the whole album all by himself.**
+**Jan Oblak, who you might know as one of the founding members of the atmospheric post-metal project Zorya from Slovenia, started his new solo project Dream Vision last December. His freshly released debut, "Rêves", is a dreamful mix of electronic blackgaze and post-rock music with influences in the post-black and depressive black metal genre. I now had the chance to talk to the multi-instrumentalist who recorded the whole album all by himself.**
 
 **Anne:** Hey! Thanks for taking the time for this interview! How are you doing at the moment? Congrats on your brand-new album, "Rêves"! It's wonderful!
 
