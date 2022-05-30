@@ -40,7 +40,7 @@ language: de
 
 Vor ein paar Wochenenden war ich zum ersten Mal seit Beginn der Pandemie wieder auf einem Konzert. Es war großartig, endlich wieder Musik live erleben zu können und die ganze Atmosphäre zu spüren – auch, wenn ich am nächsten Tag müde war. 
 
-Meine Haut freut sich an solchen Regenerations-Tagen immer sehr über eine klärende Maske. Die gibt es jetzt seit Neuestem von MICARAA. Klar, dass ich sie sofort testen musste. Der Tag  nach dem Konzert schien mir dafür der perfekte Anlass zu sein. Also auf den Tiegel und rauf auf die Haut. Und was soll ich sagen? Das Ergebnis kann sich wirklich sehen lassen. Ein Tag Urlaub hätte vermutlich eine ähnliche Wirkung gehabt.
+Meine Haut freut sich an solchen Regenerations-Tagen immer sehr über eine klärende Maske. Die gibt es jetzt seit Neuestem auch von MICARAA. Klar, dass ich sie sofort testen musste. Der Tag  nach dem Konzert schien mir dafür der perfekte Anlass zu sein. Also auf den Tiegel und rauf auf die Haut. Und was soll ich sagen? Das Ergebnis kann sich wirklich sehen lassen. Ein Tag Urlaub hätte vermutlich eine ähnliche Wirkung gehabt.
 
 Laut MICARAA ist die gelbe Maske für alle Hauttypen geeignet, besonders aber für Mischhaut und zu Öligkeit bzw. Unreinheiten neigende Haut. Meine eher trockene Mischhaut, die gerne mal mit Rötungen glänzt, war offenbar auch sehr damit zufrieden.
 
