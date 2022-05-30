@@ -58,7 +58,7 @@ Wie wir es von MICARAA gewohnt sind, kommt das Facial komplett ohne Palmöl, Mik
 
 Auftragen könnt Ihr das Produkt ganz einfach mit Eurem Kosmetik-Pinsel (einen veganen gibt es zum Beispiel von MICARAA: [Den Softface Mask Brush aus Synthetikhaar und FSC-zertifiziertem Holz](https://tidd.ly/3wZU14Q)) oder den Fingern – ganz wie es Euch beliebt. Nach dem Auftragen lasst Ihr die Maske für fünf bis zehn Minuten einwirken, bevor ihr sie mit viel warmem Wasser abwascht und Euer Gesicht trocken tupft, bevor Ihr Eure gewohnte Routine fortsetzt.
 
-Die Hauptinhaltsstoffe der Maske sind dieses Mal gelbe Tonerde (die sorgt für den fröhlichen Farbton) und Sanddorn-Extrakt. Die Tonerde reinigt die Haut sanft und ist für ihre antibakterielle Wirkung bekannt, der Sanddorn-Extrakt bietet der Haut Unterstützung beim Loswerden von Giften und beugt zusätzlich Schäden durch Umwelteinflüsse sowie frühzeitiger Hautalterung vor.
+Die Hauptinhaltsstoffe der Maske sind gelbe Tonerde (die sorgt für den fröhlichen Farbton) und Sanddorn-Extrakt. Die Tonerde reinigt die Haut sanft und ist für ihre antibakterielle Wirkung bekannt, der Sanddorn-Extrakt bietet der Haut Unterstützung beim Loswerden von Giften und beugt zusätzlich Schäden durch Umwelteinflüsse sowie frühzeitiger Hautalterung vor.
 
 Kaufen könnt Ihr die Maske ab heute (30. Mai) [im MICARAA Onlineshop](https://tidd.ly/38Su2n0). Sie ist mit und ohne Pinsel erhältlich. Natürlich könnt Ihr den [Pinsel auch einzeln kaufen](https://tidd.ly/3wZU14Q). Wenn Ihr meinen persönlichen Blog-Gutscheincode⋆ verwendet, erhaltet Ihr dort 10 Prozent Rabatt auf Euren Einkauf.
 
