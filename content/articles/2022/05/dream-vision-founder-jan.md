@@ -81,7 +81,7 @@ Sorry, I got carried away. What I wanted to ask is: how would you describe the S
 
 **Jan:** Some years ago, I was in a pop-rock band with my brothers.
 
-**Anne:** The whole genre of post-metal/blackgaze etc., is quite dark, and the music tends in some kind of sad and thoughtful direction – which I admire a lot. What do you think? Why is it that we love a good dark and heavy record? And that, on the other hand, some people would call this music depressive? Do you think it has the power to lighten up our overall mood? What differentiates us from people who love all this happy dancehall music?
+**Anne:** The whole genre of post-metal/blackgaze etc., is quite dark, and the music tends in some kind of sad and thoughtful direction – which I admire a lot. What do you think? Why is it that we love a good dark and heavy record? And that, on the other hand, some people would call this music depressive? Do you think it has the power to lighten up our overall mood? What distinguishes us from people who love all this happy dancehall music?
 
 ## "People have the wrong idea of music"
 
