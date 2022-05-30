@@ -11,7 +11,7 @@ excerpt: "Ich habe die neue Cleansing Face Mask von MICARAA sozusagen unter
   Extrembedingungen getestet – meinen Erfahrungsbericht möchte ich heute mit
   Euch teilen. Nur soviel schon mal vorab: Ich finde, sie hält, was sie
   verspricht."
-image: https://storage.googleapis.com/cardamonchai-media/2022-05-30/2022-05-27-micaraa-02-jpg-imagine-d89848_baaf87_2048_1536/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2022-05-30/2022-05-27-micaraa-05-jpg-imagine-e8c808_82b9a7_2048_1536/640.webp
 copyrigt: vegane Gesichtsmaske
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-30/vegane-gesichtsmaske-micaraa-fb-jpg-imagine-e8c808_86ab8a_1200_628/640.webp
 labels:
