@@ -93,3 +93,5 @@ Ich würde sagen, unsere Musikszene ist viel besser, als früher. Aber es ist un
 **Anne:** Was steht als Nächstes auf dem Programm für Dream Vision? Schreibst Du schon wieder an neuen Songs? Hast Du Tour-Pläne?
 
 **Jan:** Als Erstes werde ich eine EP mit Zorya veröffentlichen. Anschließend werde ich weiter an neuen Songs schreiben. Tour-Pläne wird es wohl nicht geben, da ich nicht so gerne auf der Bühne stehe.
+
+<YouTube id="8IxKX238Fxc" />
