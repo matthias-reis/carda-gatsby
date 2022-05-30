@@ -2,13 +2,13 @@
 date: 2022-05-30T15:46:44.604Z
 slug: dream-vision-interview
 typeName: Interview
-title: Dream Vision Gründer Jan
+title: Dream Vision Gründer Jan Oblak
 subTitle: Psychologie fasziniert mich
 seoTitle: Dream Vision Gründer Jan – Post-Rock Interview
 description: Dream Vision Gründer Jan hat sein Debüt-Album "Rêves" gerade
   veröffentlicht. Nach seiner Gründung im Dezember hatte er bereits im Januar
   Musik veröffentlicht. Zeit für ein Interview.
-excerpt: Jan kennt Ihr vielleicht als eines der Gründungsmitglieder des
+excerpt: Jan Oblak kennt Ihr vielleicht als eines der Gründungsmitglieder des
   Atmospheric Post-Metal Projekts Zorya aus Slowenien. Im Dezember startete er
   sein Soloprojekt Dream Vision. Seine Debüt-Platte "Rêves" ist ein traumhafter
   Mix aus elektronischem Blackgaze und Post-Rock mit Einflüssen aus dem
@@ -38,7 +38,7 @@ affiliate: false
 language: de
 languageLink: /2022/05/dream-vision-interview-en/
 ---
-**Jan kennt Ihr vielleicht als eines der Gründungsmitglieder des Atmospheric Post-Metal Projekts Zorya aus Slowenien. Im Dezember startete er sein Soloprojekt Dream Vision. Seine Debüt-Platte "Rêves" ist ein traumhafter Mix aus elektronischem Blackgaze und Post-Rock mit Einflüssen aus dem Post-Black und der Depressive Black Metal Genre. Ich hatte jetzt die Gelegenheit, mich mit dem Multi-Instrumentalisten, der das komplette Album in Eigenregie aufgenommen hat, zu unterhalten.**
+**Jan Oblak kennt Ihr vielleicht als eines der Gründungsmitglieder des Atmospheric Post-Metal Projekts Zorya aus Slowenien. Im Dezember startete er sein Soloprojekt Dream Vision. Seine Debüt-Platte "Rêves" ist ein traumhafter Mix aus elektronischem Blackgaze und Post-Rock mit Einflüssen aus dem Post-Black und der Depressive Black Metal Genre. Ich hatte jetzt die Gelegenheit, mich mit dem Multi-Instrumentalisten, der das komplette Album in Eigenregie aufgenommen hat, zu unterhalten.**
 
 **Anne:** Hey! Danke, dass Du Dir die Zeit nimmst. Wie geht es Dir im Moment? Gratulation zu Deinem brandneuen Album "Rêves"! Es ist wundervoll!
 
