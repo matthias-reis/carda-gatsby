@@ -44,7 +44,7 @@ Insgesamt erwarten uns sieben neue Songs. Anschließend wird es eine Tour durch 
 
 ## Tour durch Europa
 
-Die Band, die unter Post-Rock Fans längst Kultstatus erreicht hat, wird in einem Atemzug mit Bands wie Sigur Rós und Mono genannt. Das neue Album "We Salute You, You and You!" wird der dreizehnte Teil ihrer bisherigen Diskographie sein.
+Die Band, die unter Post-Rock Fans längst Kultstatus erreicht hat, wird in einem Atemzug mit Projekten wie Sigur Rós und Mono genannt. Das neue Album "We Salute You, You and You!" wird der dreizehnte Teil ihrer bisherigen Diskographie sein.
 
 ## Interview zum neuen Album
 
