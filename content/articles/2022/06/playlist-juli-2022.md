@@ -58,15 +58,15 @@ Diese guten alten Bekannten hat Matze auf die Liste gesetzt:
 
 <YouTube id="cY7OyT0piTo" />
 
-## Perturbator & Johannes Persson – "Final Light "
+## Perturbator & Johannes Persson – "Final Light " vom Album "Final Light"
 
 Auch diesen Song hat Matze auf die Liste gesetzt:
 
-> "Final Light" ist der Projekt- und Albumname einer Kooperation zwischen dem französischen Synth-Waver Perturbator aka James Kent und Cult of Luna Sänger Johannes Persson. Das Album war für Mitte Juni angekündigt, scheint aber noch nicht erschienen zu sein. Wenigstens kann man diesen Song schon mal auf Endlos-Repeat legen. Es klingt ein bisschen wie Sludge-Metal auf Keyboards und Synths – abgefahren. Entsprechend findet man mehr Hooks und Nuancen als bei den für Cult of Luna. Die harten, treibenden Doppeldrums fehlen dafür fast ein bisschen.  OK, ich gebe zu: Das ist Kritik auf einem verdammt hohen Niveau.
+> "Final Light" ist der Projekt- und Albumname einer Kooperation zwischen dem französischen Synth-Waver Perturbator aka James Kent und Cult of Luna Sänger Johannes Persson. Die Platte ist Mitte Juni erschienen und ist es würdig, in Dauerschleife gehört zu werden. Es klingt ein bisschen wie Sludge-Metal auf Keyboards und Synths – abgefahren. Entsprechend findet man mehr Hooks und Nuancen als bei den für Cult of Luna. Die harten, treibenden Doppeldrums fehlen dafür fast ein bisschen.  OK, ich gebe zu: Das ist Kritik auf einem verdammt hohen Niveau.
 
 <YouTube id="h0TC4I_SImg" />
 
-# Mono – Watashi vom Soundtrack "My Story, The Burak Story"
+# Mono – "Watashi" vom Soundtrack "My Story, The Burak Story"
 
 Ihren Soundtrack zum Film "My Story, The Burak Story" haben Mono am 27. Mai veröffentlicht. Die abendfüllende Dokumentation handelt von der Diskriminierung der Burakumin und ihrem Ausschluss aus der japanischen Gesellschaft. Regisseur Yusaku Mitsuwaka bat die Post-Rock Band um ihre Hilfe bei der musikalischen Untermalung seines Projekts – ein Plan, der vollständig aufgegangen zu sein scheint. Der Platte kann man die dramatische Geschichte anhören: harte Realität, Abgeschiedenheit, Verlegenheit und Sorge treffen auf Überlegenheit, Macht und Stärke. Vertont haben Mono das Werk mit ihrem gewohnt starken Zusammenspiel aus Seiten, Synths und Tasten – hier angereichert mit choralen Vocal-Loops. Ein emotionales Meisterwerk. Ich packe Euch hier das komplette Album als Video rein, für unsere Playlist habe ich das zweite Stück "Watashi" ausgewählt.
 
