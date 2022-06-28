@@ -46,7 +46,7 @@ Billy Howerdel von A Perfect Circle hat eine neue Solo-Platte draußen. Sie trä
 
 ## Crippled Black Phoenix – "Blackout 77" (Vorauskopplung vom Album "Banefyre")
 
-Wenn Crippled Black Phoenix ein Thema angehen, tun sie das meist sehr ganzheitlich. Das könnt Ihr auch im Interview nachlesen, das ich vor einiger Zeit mit Justin und Belinda geführt habe. Ihre neue Single "Blackout 77" handelt von New Yorks dunkelster Nacht – dem großen Blackout von 1977. Dabei finden sich etliche Parallelen zur heutigen Zeit. Das Stück ist eine Vorauskopplung vom für den 9. September angekündigten neuen Album "Banefyre".
+Wenn Crippled Black Phoenix ein Thema angehen, tun sie das meist sehr ganzheitlich. Das könnt Ihr auch [in meinem Interview](/2020/12/crippled-black-phoenix-interview/) nachlesen, das ich vor einiger Zeit mit Justin und Belinda geführt habe. Ihre neue Single "Blackout 77" handelt von New Yorks dunkelster Nacht – dem großen Blackout von 1977. Dabei finden sich etliche Parallelen zur heutigen Zeit. Das Stück ist eine Vorauskopplung vom für den 9. September angekündigten neuen Album "Banefyre".
 
 <YouTube id="_yl7QIvD6n4" />
 
