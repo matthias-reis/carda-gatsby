@@ -54,7 +54,7 @@ Wenn Crippled Black Phoenix ein Thema angehen, tun sie das meist sehr ganzheitli
 
 Diese guten alten Bekannten hat Matze auf die Liste gesetzt:
 
-> "Neue Musik von Trail of Dead zu hören ist ein bisschen, wie alte Freund⋆innen nach langer Zeit wiederzutreffen – eigentlich ist alles noch genauso schön, wie früher. Ihr Album 'Worlds Apart' von 2004 schafft es bei mir immer noch in die Top 10. Nach zwischenzeitlichen Schwächephasen sind sie spätestens seit der letzten Platte wieder zurück und liefern mit 'No Confidence' einen ersten weiteren Wellenbrecher ab, sehr rockig und etwas dreckig, perfekt für die Festivalsaison. Kleiner Tipp: Hört Euch den Song nicht auf YouTube oder Spotify an. Er ist wirklich hervorragend produziert."
+> "Neue Musik von Trail of Dead zu hören ist ein bisschen, wie gute Freund⋆innen nach langer Zeit wiederzutreffen – eigentlich ist alles noch genauso schön, wie früher. Ihr Album 'Worlds Apart' von 2004 schafft es bei mir immer noch in die Top 10. Nach zwischenzeitlichen Schwächephasen sind sie spätestens seit der letzten Platte wieder zurück und liefern mit 'No Confidence' einen ersten weiteren Wellenbrecher ab, sehr rockig und etwas dreckig, perfekt für die Festivalsaison. Kleiner Tipp: Hört Euch den Song nicht auf YouTube oder Spotify an. Er ist wirklich hervorragend produziert."
 
 <YouTube id="cY7OyT0piTo" />
 
