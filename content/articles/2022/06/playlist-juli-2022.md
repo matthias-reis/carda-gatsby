@@ -4,7 +4,7 @@ slug: playlist-juli-2022
 typeName: Beitrag
 title: Playlist Juli 2022
 subTitle: Von Russian Circles bis Mono
-seoTitle: Von Russian Circles bis Mono
+seoTitle: Playlist Juni – Von Russian Circles bis Mono
 description: Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich für Euch
   wieder 12 Songs selektiert, die es ganz schön in sich haben – von Post-Rock
   über Post-Metal bis Ambient und Emo.
@@ -13,7 +13,36 @@ excerpt: "Was in vier Wochen alles passieren kann – ich sage es  Euch. Man sie
   erschienen sind: Wie soll man da noch hinterherkommen? 12 Stück davon habe ich
   gemeinsam mit meinen beiden Lieblings-Musikfans für Euch selektiert."
 image: https://storage.googleapis.com/cardamonchai-media/2022-06-28/12-songs-juli-jpeg-imagine-181818_6f6361_1024_768/640.webp
+copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-06-28/12-songs-juli-fb-jpeg-imagine-181818_6a6061_1200_628/640.webp
+labels:
+  - Jaani Peuhu
+  - IANAI
+  - And You Will Know Us By The Trail Of Dead
+  - My Chemical Romance
+  - Editors
+  - Post-Metal
+  - Post-Music
+  - Post-Rock
+  - Ambient
+  - Emo
+  - Post-Hardcore
+  - Band
+  - Bands
+  - Review
+  - Reviews
+  - Perry Frank
+  - Jamie Dean
+  - Mono Japan
+  - Mono
+  - Perturbator & Johannes Persson
+  - Perturbator
+  - Johannes Persson
+  - Crippled Black Phoenix
+  - Billy Howerdel
+  - Amenra
+  - Russian Circles
+focusKeyword: Von Russian Circles bis Mono
 advertisement: false
 affiliate: false
 language: de
@@ -50,7 +79,7 @@ Wenn Crippled Black Phoenix ein Thema angehen, tun sie das meist sehr ganzheitli
 
 <YouTube id="_yl7QIvD6n4" />
 
-## ...And You Will Know Us by The Trail Of Dead – "No Confidence" (Vorauskopplung vom Album "XI: Bleed Here Now")
+## And You Will Know Us by The Trail Of Dead – "No Confidence" (Vorauskopplung vom Album "XI: Bleed Here Now")
 
 Diese guten alten Bekannten hat Matze auf die Liste gesetzt:
 
