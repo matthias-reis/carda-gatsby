@@ -34,7 +34,7 @@ Valentin hat diese Vorauskopplung vom neuen Russian Circles Album auf die Liste 
 
 Soviel ist sicher: Wenn Valentin eine Cover-Version auf die Liste setzt, ist es eine ziemlich gute Cover-Version.
 
-> "Auch von der belgischen Band Amenra gibt es was Neues. Leider zwar kein komplettes Album, aber eine sehr beeindruckende Coverversion von Townes Van Zandt's Flyin' Shoes, das auf der Compilation 'Songs Of Townes Van Zandt Vol. III' zufinden ist, bei der auch Cave In und Marissa Nadler mitmachen. Zur Erinnerung: Vor gut 25 Jahren ist einer der wohl größten Poeten im Alter von nur 52 Jahren gestorben. Beeindruckend finde ich das Stück deshalb, weil man Amenra doch eher mit Post-Metal und auf dem letzen Album (komplett in flämisch gesungen) auch mit etwas Doom verbindet. Dieses Jahr wird die Band auch in europäischen Gefilden wieder live zu sehen sein."
+> "Auch von der belgischen Band Amenra gibt es was Neues. Leider zwar kein komplettes Album, aber ein sehr beeindruckendes Cover von Townes Van Zandts 'Flyin' Shoes', das auf der Compilation 'Songs Of Townes Van Zandt Vol. III' zu finden ist, auf der auch Cave In und Marissa Nadler dabei sind. Zur Erinnerung: Vor gut 25 Jahren starb Town Van Zandt – einer der wohl größten Poeten aller Zeiten – im Alter von nur 52 Jahren. Beeindruckend finde ich das Stück vor allem, weil man Amenra doch eher mit Post-Metal und seit dem letzen Album (komplett in flämisch gesungen) mit Doom verbindet. Dieses Jahr wird die Band auch in europäischen Gefilden wieder live zu sehen sein."
 
 <YouTube id="nUmP3qkDf3Q" />
 
