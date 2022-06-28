@@ -26,7 +26,7 @@ Was passiert, wenn Post-Rock auf Metal trifft, und wie da auch noch Ambient ins 
 
 Valentin hat diese Vorauskopplung vom neuen Russian Circles Album auf die Liste gesetzt:
 
-> "Russian Circles, eine unserer absoluten Lieblingsbands, bringt im August ein neues Album raus. Ich weiß nicht, ob die momentane politische Situation vielleicht dafür sorgt, dass einige ihren Namen falsch verstehen: Es handelt es sich dabei um einen Begriff aus dem Eishockey-Training! Die beiden Mitglieder Mike Sullivan und Dave Turncrantz sind mit diesem Sport aufgewachsen und haben früher selbst in ihrer Heimatstadt St. Louis gespielt. Doch nun zur Musik! Es handelt sich hier um die beste Form von Post-Metal, die ich kenne. Im Gegensatz zu meinen All-Time Favoriten Isis wird hier komplett auf Gesang verzichtet. Durch den ganz persönlichen Gitarrensound von Mike Sullivan und das imposante Schlagzeug von Dave Turncrantz (das deutlich kleiner ist, als es sich anhört) wird hier eine ganz besondere Atmosphäre erzeugt. Den Bass spielt hier übrigens Brian Cook, der auch mit Aaron Turner (Ex-Isis) mit SUMAC Musik macht und den wir auch von These Arms Are Snakes kennen. "Gnosis", dass am 19. August veröffentlicht wird, ist bereits das achte Album. Die Vorab-Veröffentlichung "Conduit", ist wieder ein etwas härteres Stück und macht Lust auf mehr. Die letzte Europa-Tour wurde aus COVID-Gründen dreimal verschoben und ab September ist man in den USA unterwegs, bevor es im Frühjahr 2023 wieder nach Europa geht (zusammen mit Cult Of Luna!). Das wird nach einigen Shows, die ich bis jetzt erleben durfte, mal wieder ein elektrisierender Abend."
+> "Russian Circles, eine unserer absoluten Lieblingsbands, bringt im August ein neues Album raus. Ich weiß nicht, ob die momentane politische Situation vielleicht dafür sorgt, dass einige ihren Namen falsch verstehen: Es handelt es sich dabei um einen Begriff aus dem Eishockey-Training! Die beiden Mitglieder Mike Sullivan und Dave Turncrantz sind mit diesem Sport aufgewachsen und haben früher selbst in ihrer Heimatstadt St. Louis gespielt. Doch nun zur Musik! Es handelt sich hier um die beste Form von Post-Metal, die ich kenne. Im Gegensatz zu meinen All-Time Favoriten Isis wird hier komplett auf Gesang verzichtet. Durch den ganz persönlichen Gitarrensound von Mike Sullivan und das imposante Schlagzeug von Dave Turncrantz (das deutlich kleiner ist, als es sich anhört) wird hier eine ganz besondere Atmosphäre erzeugt. Den Bass spielt hier übrigens Brian Cook, der auch mit Aaron Turner (Ex-Isis) mit SUMAC Musik macht und den wir auch von These Arms Are Snakes kennen. 'Gnosis', dass am 19. August veröffentlicht wird, ist bereits das achte Album. Die Vorab-Veröffentlichung 'Conduit', ist wieder ein etwas härteres Stück und macht Lust auf mehr. Die letzte Europa-Tour wurde aus COVID-Gründen dreimal verschoben und ab September ist man in den USA unterwegs, bevor es im Frühjahr 2023 wieder nach Europa geht (zusammen mit Cult Of Luna!). Das wird nach einigen Shows, die ich bis jetzt erleben durfte, mal wieder ein elektrisierender Abend."
 
 <YouTube id="Lh_wesEZtKM" />
 
@@ -34,7 +34,7 @@ Valentin hat diese Vorauskopplung vom neuen Russian Circles Album auf die Liste 
 
 Wenn Valentin eine Cover-Version auf die Liste setzt, ist es eine ziemlich gute Cover-Version. Da kann man sich absolut sicher sein:
 
-> "Auch von der belgischen Band Amenra gibt es was Neues. Leider zwar kein komplettes Album, aber eine sehr beeindruckende Coverversion von Townes Van Zandt's Flyin' Shoes, das auf der Compilation "Songs Of Townes Van Zandt Vol. III" zufinden ist, bei der auch Cave In und Marissa Nadler mitmachen. Zur Erinnerung: Vor gut 25 Jahren ist einer der wohl größten Poeten im Alter von nur 52 Jahren gestorben. Beeindruckend finde ich das Stück deshalb, weil man Amenra doch eher mit Post-Metal und auf dem letzen Album (komplett in flämisch gesungen) auch mit etwas Doom verbindet. Dieses Jahr wird die Band auch in europäischen Gefilden wieder live zu sehen sein."
+> "Auch von der belgischen Band Amenra gibt es was Neues. Leider zwar kein komplettes Album, aber eine sehr beeindruckende Coverversion von Townes Van Zandt's Flyin' Shoes, das auf der Compilation 'Songs Of Townes Van Zandt Vol. III' zufinden ist, bei der auch Cave In und Marissa Nadler mitmachen. Zur Erinnerung: Vor gut 25 Jahren ist einer der wohl größten Poeten im Alter von nur 52 Jahren gestorben. Beeindruckend finde ich das Stück deshalb, weil man Amenra doch eher mit Post-Metal und auf dem letzen Album (komplett in flämisch gesungen) auch mit etwas Doom verbindet. Dieses Jahr wird die Band auch in europäischen Gefilden wieder live zu sehen sein."
 
 <YouTube id="nUmP3qkDf3Q" />
 
@@ -54,7 +54,7 @@ Wenn Crippled Black Phoenix ein Thema angehen, tun sie das meist sehr ganzheitli
 
 Diese guten alten Bekannten hat Matze auf die Liste gesetzt:
 
-> "Neue Musik von Trail of Dead zu hören ist ein bisschen, wie alte Freund⋆innen nach langer Zeit wiederzutreffen – eigentlich ist alles noch genauso schön, wie früher. Ihr Album "Worlds Apart" von 2004 schafft es bei mir immer noch in die Top 10. Nach zwischenzeitlichen Schwächephasen sind sie spätestens seit der letzten Platte wieder zurück und liefern mit "No Confidence" einen ersten weiteren Wellenbrecher ab, sehr rockig und etwas dreckig, perfekt für die Festivalsaison. Kleiner Tipp: Hört Euch den Song nicht auf YouTube oder Spotify an. Er ist wirklich hervorragend produziert."
+> "Neue Musik von Trail of Dead zu hören ist ein bisschen, wie alte Freund⋆innen nach langer Zeit wiederzutreffen – eigentlich ist alles noch genauso schön, wie früher. Ihr Album 'Worlds Apart' von 2004 schafft es bei mir immer noch in die Top 10. Nach zwischenzeitlichen Schwächephasen sind sie spätestens seit der letzten Platte wieder zurück und liefern mit 'No Confidence' einen ersten weiteren Wellenbrecher ab, sehr rockig und etwas dreckig, perfekt für die Festivalsaison. Kleiner Tipp: Hört Euch den Song nicht auf YouTube oder Spotify an. Er ist wirklich hervorragend produziert."
 
 <YouTube id="cY7OyT0piTo" />
 
@@ -62,7 +62,7 @@ Diese guten alten Bekannten hat Matze auf die Liste gesetzt:
 
 Auch diesen Song hat Matze auf die Liste gesetzt:
 
-> "Final Light" ist der Projekt- und Albumname einer Kooperation zwischen dem französischen Synth-Waver Perturbator aka James Kent und Cult of Luna Sänger Johannes Persson. Die Platte ist Mitte Juni erschienen und ist es würdig, in Dauerschleife gehört zu werden. Es klingt ein bisschen wie Sludge-Metal auf Keyboards und Synths – abgefahren. Entsprechend findet man mehr Hooks und Nuancen als bei den für Cult of Luna. Die harten, treibenden Doppeldrums fehlen dafür fast ein bisschen.  OK, ich gebe zu: Das ist Kritik auf einem verdammt hohen Niveau.
+> "'Final Light' ist der Projekt- und Albumname einer Kooperation zwischen dem französischen Synth-Waver Perturbator aka James Kent und Cult of Luna Sänger Johannes Persson. Die Platte ist Mitte Juni erschienen und ist es würdig, in Dauerschleife gehört zu werden. Es klingt ein bisschen wie Sludge-Metal auf Keyboards und Synths – abgefahren. Entsprechend findet man mehr Hooks und Nuancen als bei den für Cult of Luna. Die harten, treibenden Doppeldrums fehlen dafür fast ein bisschen.  OK, ich gebe zu: Das ist Kritik auf einem verdammt hohen Niveau".
 
 <YouTube id="h0TC4I_SImg" />
 
@@ -88,7 +88,7 @@ Perry Franks neue EP "Siberia" handelt von der schmelzenden Welt des ewigen Eise
 
 Hier hat Matze offenbar ein recht tanzbares Stück entdeckt:
 
-> "EBM" – Electronic Body Music. So heißt die für September angekündigte neue LP der ebenfalls altbekannten Editors. Die Single "Karma Climb" zeigt schon mal, warum sich die Band diesen für diesen Titel entschieden hat. Elektronic-lastiger, düster angehauchter New-Wave Sound erwartet Euch – angereichert mit einem Twist in Richtung Mainstream-Popmusik – ähnlich, wie wir das auch schon bei Coldplay beobachtet haben. Das Ganze wirkt dennoch rund und lässt auf ein paar weitere Perlen auf der neuen Platte hoffen.
+> "'EBM' – Electronic Body Music. So heißt die für September angekündigte neue LP der ebenfalls altbekannten Editors. Die Single 'Karma Climb' zeigt schon mal, warum sich die Band diesen für diesen Titel entschieden hat. Elektronic-lastiger, düster angehauchter New-Wave Sound erwartet Euch – angereichert mit einem Twist in Richtung Mainstream-Popmusik – ähnlich, wie wir das auch schon bei Coldplay beobachtet haben. Das Ganze wirkt dennoch rund und lässt auf ein paar weitere Perlen auf der neuen Platte hoffen".
 
 <YouTube id="ODvAgBnjEac" />
 
@@ -96,7 +96,7 @@ Hier hat Matze offenbar ein recht tanzbares Stück entdeckt:
 
 Hier noch ein Song, den Matze zur Liste beigesteuert hat:
 
-> "Vor ein paar Tagen lief auf Netflix die neue Staffel "Umbrella Academy" Staffel an. Die Serie basiert auf einem Comic von My Chemical Romance Gründer Gerard Way. Nach ihrer für einige Fans äußerst schmerzhaften Trennung fand die Band 2019 wieder zusammen – allerdings erst mal ohne neue Veröffentlichungen. Jetzt tauchte plötzlich eine neue Single wie aus dem Nichts aus – ohne Ankündigung und ohne Hinweis auf ein Album, das vielleicht noch nachkommen könnte. Der Song ist stark und wer die Serie kennt weiß: Der Song würde sich perfekt in den Soundtrack einfügen."
+> "Vor ein paar Tagen lief auf Netflix die neue Staffel 'Umbrella Academy' Staffel an. Die Serie basiert auf einem Comic von My Chemical Romance Gründer Gerard Way. Nach ihrer für einige Fans äußerst schmerzhaften Trennung fand die Band 2019 wieder zusammen – allerdings erst mal ohne neue Veröffentlichungen. Jetzt tauchte plötzlich eine neue Single wie aus dem Nichts aus – ohne Ankündigung und ohne Hinweis auf ein Album, das vielleicht noch nachkommen könnte. Der Song ist stark und wer die Serie kennt weiß: Der Song würde sich perfekt in den Soundtrack einfügen."
 
 <YouTube id="V2kWUJkRvVs" />
 
