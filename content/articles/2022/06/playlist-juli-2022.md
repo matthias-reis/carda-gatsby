@@ -96,7 +96,7 @@ Hier hat Matze offenbar ein recht tanzbares Stück entdeckt:
 
 Hier noch ein Song, den Matze zur Liste beigesteuert hat:
 
-> "Vor ein paar Tagen lief auf Netflix die neue 'Umbrella Academy' Staffel an. Die Serie basiert auf einem Comic von My Chemical Romance Gründer Gerard Way. Nach ihrer für einige Fans äußerst schmerzhaften Trennung fand die Band 2019 wieder zusammen – allerdings erst mal ohne neue Veröffentlichungen. Jetzt tauchte plötzlich eine neue Single wie aus dem Nichts aus – ohne Ankündigung und ohne Hinweis auf ein Album, das vielleicht noch nachkommen könnte. Der Song ist stark und wer die Serie kennt weiß: Der Song würde sich perfekt in den Soundtrack einfügen."
+> "Vor ein paar Tagen lief auf Netflix die neue 'Umbrella Academy' Staffel an. Die Serie basiert auf einem Comic von My Chemical Romance Gründer Gerard Way. Nach ihrer für einige Fans äußerst schmerzhaften Trennung fand die Band 2019 wieder zusammen – allerdings erst mal ohne neue Veröffentlichungen. Jetzt tauchte plötzlich eine neue Single wie aus dem Nichts aus – ohne Ankündigung und ohne Hinweis auf ein Album, das vielleicht noch nachkommen könnte. Der Song ist stark und wer die Serie kennt weiß: er würde sich perfekt in den Soundtrack einfügen. Mal sehen, vielleicht passiert das ja noch."
 
 <YouTube id="V2kWUJkRvVs" />
 
