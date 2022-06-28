@@ -88,7 +88,7 @@ Perry Franks neue EP "Siberia" handelt von der schmelzenden Welt des ewigen Eise
 
 Hier hat Matze offenbar ein recht tanzbares Stück entdeckt:
 
-> "'EBM' – Electronic Body Music. So heißt die für September angekündigte neue LP der ebenfalls altbekannten Editors. Die Single 'Karma Climb' zeigt schon mal, warum sich die Band diesen für diesen Titel entschieden hat. Elektronic-lastiger, düster angehauchter New-Wave Sound erwartet Euch – angereichert mit einem Twist in Richtung Mainstream-Popmusik – ähnlich, wie wir das auch schon bei Coldplay beobachtet haben. Das Ganze wirkt dennoch rund und lässt auf ein paar weitere Perlen auf der neuen Platte hoffen".
+> "'EBM' – Electronic Body Music. So heißt die für September angekündigte neue LP der ebenfalls altbekannten Editors. Die Single 'Karma Climb' zeigt schon mal, warum sich die Band diesen für diesen Titel entschieden hat. Elektronic-lastiger, düster angehauchter New-Wave Sound erwartet Euch – angereichert mit einem Twist in Richtung Mainstream-Popmusik – ähnlich, wie wir das auch schon bei Coldplay beobachtet haben. Das Ganze wirkt dennoch rund und lässt auf ein paar weitere Perlen auf der neuen Platte hoffen."
 
 <YouTube id="ODvAgBnjEac" />
 
