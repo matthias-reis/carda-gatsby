@@ -4,7 +4,7 @@ slug: playlist-juli-2022
 typeName: Beitrag
 title: Playlist Juli 2022
 subTitle: Von Russian Circles bis Mono
-seoTitle: Playlist Juni – Von Russian Circles bis Mono
+seoTitle: Playlist Juli – Von Russian Circles bis Mono
 description: Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich für Euch
   wieder 12 Songs selektiert, die es ganz schön in sich haben – von Post-Rock
   über Post-Metal bis Ambient und Emo.
