@@ -106,4 +106,9 @@ Weltmythologie – wenn Ihr mit diesem Begriff etwas anfangen könnt, kommt Ihr 
 
 <YouTube id="ixievkKAOY8" />
 
+<Playlist
+  spotify="6vM6BFDMXv7NSrJdkV9Llc?si=6c32d758e771487e"
+  itunes="2022-07-01-rock-n-roll-vegan/pl.u-o959h3ye8ea"
+/>
+
 
