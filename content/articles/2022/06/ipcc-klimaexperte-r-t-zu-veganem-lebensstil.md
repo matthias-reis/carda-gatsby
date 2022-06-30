@@ -46,7 +46,7 @@ Um die Katastrophe aufzuhalten, ist es wichtig, die Regierungen aufzuklären und
 
 Bei der im Juni abgehaltenen Bonner Klimakonferenz hielten unter anderem auch die Nobelpreisträger Klaus Hasselmann und Carlos Nobre Plädoyers für den Veganismus.
 
-Untersuchungen des IPCC deuten darauf hin, dass sich eine verstärkt vegane Ernährung positiv auf das Klima auswirken wird. Dies ist auf die reduzierten Emissionen im Vergleich zwischen Pflanzenkulturen und Tierhaltung zurückzuführen.  Hinzu kommt, dass der Bedarf an landwirtschaftlicher Fläche um 75 Prozent sinken würde, würde man global auf pflanzliche Ernährung setzen.
+Untersuchungen des IPCC zeigen, dass sich eine verstärkt vegane Ernährung positiv auf das Klima auswirken wird. Dies ist auf die reduzierten Emissionen im Vergleich zwischen Pflanzenkulturen und Tierhaltung zurückzuführen.  Hinzu kommt, dass der Bedarf an landwirtschaftlicher Fläche um 75 Prozent sinken würde, würde man global auf pflanzliche Ernährung setzen.
 
 Für die Produktion von einem Kilo Rind- oder Lammfleisch werden 100 Mal mehr Land benötigt, als für dieselbe Menge Eiweiß aus pflanzlichen Quellen. Würde die Welt vegan, hätte das ein Absinken der Landnutzung von 4,1 Milliarden Hektar auf 1 Milliarde Hektar zur Folge. Dementsprechend würden auch die Emissionen zurückgehen.
 
