@@ -38,7 +38,7 @@ Carter äußerte seine Meinung im Rahmen der Diskussionen um die Emissionsabgabe
 
 > "Aus ethischer Sicht müssen alle unnötigen Methan-Quellen so schnell und so weit wie möglich abgebaut werden. Das bedeutet, dass die globale Veganisierung jetzt ein Überlebensimperativ ist."
 
-Carter gab die Erklärung als Antwort auf die Erörterung des Methan-Notstandes[^1] durch den Gründer und Präsidenten des Institute for Governance & Sustainable Development (IGSD) Durwood Zaelke ab. Die UN fordert eine Reduzierung der Methanemissionen um 45 Prozent bis 2030. Das soll den Anstieg der globalen Erwärmung über 1,5 °C verhindern.
+Carter gab die Erklärung als Antwort auf die Erörterung des Methan-Notstandes[^1] durch den Gründer und Präsidenten des Institute for Governance & Sustainable Development (Institut für Führung und nachhaltige Entwicklung, IGSD) Durwood Zaelke ab. Die UN fordert eine Reduzierung der Methanemissionen um 45 Prozent bis 2030. Das soll den Anstieg der globalen Erwärmung über 1,5 °C verhindern.
 
 ## Veganismus als Antwort auf die Klimakatastrophe
 
