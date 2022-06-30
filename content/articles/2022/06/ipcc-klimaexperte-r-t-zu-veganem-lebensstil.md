@@ -56,7 +56,7 @@ Claire Insley von der Vegan Society Aotearoa sagte dazu gegenüber Radio New Zea
 
 > "Die Ernährung ist etwas, das man sehr leicht und sehr schnell ändern kann. Dafür ist weder neue Technik noch ein glänzender Zauberstab nötig. Wir können die Magie ganz einfach geschehen lassen. Die Ressourcen, um acht Milliarden Menschen mit Fleisch- und Milchprodukten zu ernähren, stehen uns einfach nicht zur Verfügung. Weil das so ist, ist es wichtig, dass wir zu einer pflanzenbasierten Ernährung übergehen. Je schneller wir das tun, umso schneller schaffen wir es, die Natur und unsere Wasserressourcen zu retten. Ein angenehmer Nebeneffekt ist die positive Wirkung auf die menschliche Gesundheit."
 
-Laut der Food and Agricultural Organisation (Ernährungs- und Landwirtschaftsorganisation, FAO) ist die Tierhaltung für mindestens 14,5 Prozent aller anthropogenen Emissionen verantwortlich. Das geht aus einem Paper von Michael B. Eisen und Patrick O. Brown hervor[^3]. Sie ist für ein Drittel des gesamten von Menschen verursachten Methans verantwortlich. Experten raten aus diesem Grund zur sofortigen Einstellung des Konsums von Produkten tierischer Herkunft. Ich bin OKOKIch Ich FalFa
+Laut der Food and Agricultural Organisation (Ernährungs- und Landwirtschaftsorganisation, FAO) ist die Tierhaltung für mindestens 14,5 Prozent aller anthropogenen Emissionen verantwortlich. Das geht aus einem Paper von Michael B. Eisen und Patrick O. Brown hervor[^3]. Sie ist für ein Drittel des gesamten von Menschen verursachten Methans verantwortlich. Experten raten aus diesem Grund zur sofortigen Einstellung des Konsums von Produkten tierischer Herkunft.
 
 [^1]: [Position Paper zum Methan-Notstand](https://drive.google.com/file/d/1Hqivx8M86niwP4IpEJLFHynK7dO8UZoH/view)
 
