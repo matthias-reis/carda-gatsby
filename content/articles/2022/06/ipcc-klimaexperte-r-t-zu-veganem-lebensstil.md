@@ -52,7 +52,7 @@ Für die Produktion von einem Kilo Rind- oder Lammfleisch werden 100 Mal mehr La
 
 ## Die vegane Magie geschehen lassen
 
-Claire Insley von der Vegan Society Aotearoa sagte dazu gegenüber RNZ[^2]:
+Claire Insley von der Vegan Society Aotearoa sagte dazu gegenüber Radio New Zealand[^2]:
 
 > "Die Ernährung ist etwas, das man sehr leicht und sehr schnell ändern kann. Dafür ist weder neue Technik noch ein glänzender Zauberstab nötig. Wir können die Magie ganz einfach geschehen lassen. Die Ressourcen, um acht Milliarden Menschen mit Fleisch- und Milchprodukten zu ernähren, stehen uns einfach nicht zur Verfügung. Weil das so ist, ist es wichtig, dass wir zu einer pflanzenbasierten Ernährung übergehen. Je schneller wir das tun, umso schneller schaffen wir es, die Natur und unsere Wasserressourcen zu retten. Ein angenehmer Nebeneffekt ist die positive Wirkung auf die menschliche Gesundheit."
 
