@@ -108,7 +108,7 @@ Zum Abschluss geht Mahi Klosterhalfen auf die Vorzüge veganer Ernährung und r�
 Ich lege Euch Mahi Klosterhalfens Video hiermit ans Herz. Für mich ist es ein starker Aufruf und eine wunderbare Zusammenfassung aller das Klima betreffenden Argumente für eine vegane Lebensweise. Oder was meint Ihr? Allein die Tatsache, dass 
 der Ausstoß ernährungsbedingter Treibhausgase bei Obst und Gemüse rund 70 Prozent niedriger ist, als bei Lebensmitteln tierischer Herkunft reicht doch schon als  Überzeugung, oder?
 
-**Quelle:** Albert Schweitzer Stiftung für unsere Mitwelt. Vielen Dank an Mahi Klosterhalfen und sein Team.
+**Quelle:** \[Albert Schweitzer Stiftung für unsere Mitwelt](https://albert-schweitzer-stiftung.de/). Vielen Dank an Mahi Klosterhalfen und sein Team.
 
 <div id="klimakiller-tierindustrie" />
 
