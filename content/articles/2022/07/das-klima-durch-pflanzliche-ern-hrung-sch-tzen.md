@@ -49,19 +49,15 @@ Und so lauten die harten Fakten: Ein Kilogramm Schweinefleisch ist für vier Kil
 
 Der Frage, warum tierische Produkte für einen so hohen Ausstoß verantwortlich sind, geht Mahi Klosterhalfen anhand von vier Faktoren nach:
 
-[Landnutzung](#landnutzung)
-
-[Verdauung der Tiere](#verdauung-der-tiere)
-
-[Düngung](#duengung)
-
-[Produktionsketten und Energiebedarf](produktionsketten-und-energiebedarf)
+* [Landnutzung](#landnutzung)
+* [Verdauung der Tiere](#verdauung-der-tiere)
+* [Düngung](#duengung)
+* [Produktionsketten und Energiebedarf](produktionsketten-und-energiebedarf)
 
 Anschließend geht er auf die Klimavorteile pflanzlicher Ernährung ein.
 
-[Die Klimavorteile pflanzlicher Ernährung](#die-klimavorteile-pflanzlicher-ernaehrung)
-
-[Video schauen](#klimakiller-tierindustrie)
+* [Die Klimavorteile pflanzlicher Ernährung](#die-klimavorteile-pflanzlicher-ernaehrung)
+* [Video schauen](#klimakiller-tierindustrie)
 
 <div id="landnutzung" />
 
