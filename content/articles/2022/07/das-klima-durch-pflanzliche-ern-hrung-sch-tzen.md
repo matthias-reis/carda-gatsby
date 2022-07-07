@@ -95,7 +95,7 @@ In diesem Moment wird das nächste Klimagas erzeugt: Lachgas. Es ist 265 Mal kli
 
 ## Produktionsketten und Energiebedarf
 
-Um Tierprodukte herzustellen, ist eine große Menge Energie nötig. Das Futter wird häufig über extrem weite Strecken transportiert – per Schiff, Flugzeug und LKW. Die CO<sub>2</sub> sind hier kaum mehr überschaubar.
+Um Tierprodukte herzustellen, ist eine große Menge Energie nötig. Das Futter wird häufig über extrem weite Strecken transportiert – per Schiff, Flugzeug und LKW. Die CO<sub>2</sub>-Emissionen sind hier kaum mehr überschaubar.
 
 Hinzu kommt natürlich die Energieversorgung der Ställe und Schlachthöfe sowie die Kühlketten, die besonders bei Fleisch-, Fisch und Milchprodukten möglichst lückenlos sein sollten. 
 
