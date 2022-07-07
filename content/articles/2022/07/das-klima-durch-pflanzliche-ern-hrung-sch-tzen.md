@@ -45,7 +45,7 @@ Denn eines steht fest: Mit unserer Ernährung nehmen wir großen Einfluss auf da
 
 Und so lauten die harten Fakten: Ein Kilogramm Schweinefleisch ist für vier Kilogramm Treibhausgas verantwortlich. Das ist im Vergleich zu Obst und Gemüse mit weniger als einem Kilo schon ein ganz schön großer Brocken. 
 
-14,5 Prozent aller von Menschen erzeugten Treibhausgas-Emissionen stammen laut der Welternährungsorganisation aus der Tierindustrie. Das wundert es einen kaum noch, dass die drei größten Fleischkonzerne mehr Treibhausgas produzieren, als das gesamte Land Frankreich.
+14,5 Prozent aller von Menschen erzeugten Treibhausgas-Emissionen stammen laut der Welternährungsorganisation aus der Tierindustrie. Da wundert es kaum noch, dass die drei größten Fleischkonzerne mehr Treibhausgas produzieren, als das gesamte Land Frankreich.
 
 Der Frage, warum tierische Produkte für einen so hohen Ausstoß verantwortlich sind, geht Mahi Klosterhalfen anhand von vier Faktoren nach:
 
