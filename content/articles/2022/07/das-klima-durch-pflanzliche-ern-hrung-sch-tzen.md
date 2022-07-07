@@ -103,10 +103,9 @@ Hinzu kommt natürlich die Energieversorgung der Ställe und Schlachthöfe sowie
 
 ## Die Klimavorteile pflanzlicher Ernährung
 
-Zum Abschluss geht Mahi Klosterhalfen auf die Vorzüge veganer Ernährung und rät, sich auch über die weiteren Argumente zu informieren. Sprich: das Leid der Tiere, die bedrohte Artenvielfalt, die sterbende Natur und die menschliche Gesundheit.
+Zum Abschluss geht Mahi Klosterhalfen auf die Vorzüge veganer Ernährung und rät, sich auch über die weiteren Argumente zu informieren. Sprich: das Leid der Tiere, die bedrohte Artenvielfalt, die sterbende Natur und die menschliche Gesundheit. \[Fleisch ist schlecht für das Klima](/2021/09/treibhausgas-emissionen-fleisch/) und es wird wirklich höchste Zeit, dass wir uns nach Alternativen umsehen.
 
-Ich lege Euch Mahi Klosterhalfens Video hiermit ans Herz. Für mich ist es ein starker Aufruf und eine wunderbare Zusammenfassung aller das Klima betreffenden Argumente für eine vegane Lebensweise. Oder was meint Ihr? Allein die Tatsache, dass 
-der Ausstoß ernährungsbedingter Treibhausgase bei Obst und Gemüse rund 70 Prozent niedriger ist, als bei Lebensmitteln tierischer Herkunft reicht doch schon als  Überzeugung, oder?
+Ich lege Euch Mahi Klosterhalfens Video hiermit ans Herz. Für mich ist es ein starker Aufruf und eine wunderbare Zusammenfassung aller das Klima betreffenden Argumente für eine vegane Lebensweise. Oder was meint Ihr? Allein die Tatsache, dass der Ausstoß ernährungsbedingter Treibhausgase bei Obst und Gemüse rund 70 Prozent niedriger ist, als bei Lebensmitteln tierischer Herkunft reicht doch schon als  Überzeugung, oder?
 
 **Quelle:** \[Albert Schweitzer Stiftung für unsere Mitwelt](https://albert-schweitzer-stiftung.de/). Vielen Dank an Mahi Klosterhalfen und sein Team.
 
