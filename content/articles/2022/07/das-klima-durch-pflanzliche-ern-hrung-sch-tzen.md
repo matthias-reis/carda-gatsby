@@ -71,7 +71,7 @@ Ein besonders großes Thema ist die Landnutzung, die bei der Gewinnung von Leben
 
 Für die riesigen Agrarflächen werden nicht nur Wälder abgeholzt und Moore trockengelegt, was ebenfalls starken Einfluss auf das Klima hat. Die natürlichen CO<sub>2</sub>-Speicher werden zerstört und das Treibhausgas wird freigesetzt. Die Natur wird verdrängt, Menschen und Tiere aus ihren Lebensräumen vertrieben.
 
-Ein weiterer großer CO<sub>2</sub>-Speicher ist der Meeresboden. Dieser wird von der industriellen Fischerei aufgewirbelt, und das CO<sub>2</sub>-Speicher entweicht. Die Menge entspricht hier ziemlich genau dem CO<sub>2</sub>-Ausstoß, der aktuell durch den weltweiten Flugverkehr erzeugt wird.
+Ein weiterer großer CO<sub>2</sub>-Speicher ist der Meeresboden. Dieser wird von der industriellen Fischerei aufgewirbelt, und das CO<sub>2</sub> entweicht. Die Menge entspricht hier ziemlich genau dem CO<sub>2</sub>-Ausstoß, der aktuell durch den weltweiten Flugverkehr erzeugt wird.
 
 <div id="verdauung-der-tiere" />
 
