@@ -44,7 +44,7 @@ Die Sängerin spricht auf dem Gipfel unter anderem mit Impossible Foods CEO Pete
 
 Gegenüber der Presse sagte er:
 
-"Ich freue mich darauf, unseren Freund⋆innen und Fans auf der Overheated unsere Ernährung näherzubringen und damit die nächste Generation an Changemakers dabei zu unterstützten, die Zukunft auf diesem Planeten zu gestalten. Billy, Support + Feed und REVERB bringen eine inspirierende Gruppe aus Menschen zusammen, die wissen, dass das Ernährungs-System einer der stärksten Hebel im Kampf gegen den Klimawandel ist. Es ist mir eine Ehre, mich ihnen anzuschließen und die Klima-Aktivist⋆innen mit unserem Essen zu unterstützen."
+> "Ich freue mich darauf, unseren Freund⋆innen und Fans auf der Overheated unsere Ernährung näherzubringen und damit die nächste Generation an Changemakers dabei zu unterstützten, die Zukunft auf diesem Planeten zu gestalten. Billy, Support + Feed und REVERB bringen eine inspirierende Gruppe aus Menschen zusammen, die wissen, dass das Ernährungs-System einer der stärksten Hebel im Kampf gegen den Klimawandel ist. Es ist mir eine Ehre, mich ihnen anzuschließen und die Klima-Aktivist⋆innen mit unserem Essen zu unterstützen."
 
 Neben Billy Eilish und Peter McGuiness treffen sich auf der Veranstaltung unter anderem Berühmtheiten wie  Ellie Goulding, Sigrid, Nick Mulvey, Love Ssega, Laura Misch, Billys Bruder Finneas und Vivienne Westwood. Hinzu kommt ein großes Line-up[^3] an Speakern aus der ganzen Welt.
 
