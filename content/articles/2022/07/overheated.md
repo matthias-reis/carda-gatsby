@@ -58,6 +58,6 @@ Neben Billy Eilish und Peter McGuiness treffen sich auf der Veranstaltung unter
 
 Artwork: [Alba Paris](https://albaparis.com/) for Overheated
 
-[^1] [Overheated Homepage](https://www.imoverheated.com/)
-[^2] [REVERB](https://reverb.org/)
-[^3] [Overheated Line-up](https://www.imoverheated.com/)
+[^1]: [Overheated Homepage](https://www.imoverheated.com/)
+[^2]: [REVERB](https://reverb.org/)
+[^3]: [Overheated Line-up](https://www.imoverheated.com/)
