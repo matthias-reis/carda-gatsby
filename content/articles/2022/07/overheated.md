@@ -3,9 +3,9 @@ date: 2022-07-12T08:37:15.657Z
 slug: billy-eilish-overheated
 typeName: Beitrag
 title: '"Overheated"'
-subTitle: Billy Eilish veröffentlich Klima-Dokumentation und veranstaltet großes
-  Klimaschutz-Event
-seoTitle: '"Overheated" – Billy Eilish veröffentlich Klima-Dokumentation'
+subTitle: Billy Eilish veröffentlicht Klima-Dokumentation und veranstaltet
+  großes Klimaschutz-Event
+seoTitle: '"Overheated" – Billy Eilish veröffentlicht Klima-Dokumentation'
 description: Billy Eilish macht sich schon lange auch als Tierrechts- und
   Klima-Aktivistin einen Namen. Jetzt hostet sie in der Londoner O2-Arena ein
   großes Klimaschutz-Event und veröffentlicht die Dokumentation "Overheated".
