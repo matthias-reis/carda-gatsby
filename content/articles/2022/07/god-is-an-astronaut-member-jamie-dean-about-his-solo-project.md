@@ -124,6 +124,8 @@ The response so far has been outstanding. You can find the full list of our tour
 
 **Jamie:** Thank you, Anne. I appreciate it a lot. Catch you at the show in September!
 
+## Jamie Dean – "Mutualism"
+
 <YouTube id="lMwPehhPVp8" />
 
 [^1]: [@jamie**dean** on Instagram](https://www.instagram.com/jamie__dean__/)
