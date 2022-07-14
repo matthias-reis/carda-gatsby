@@ -75,7 +75,7 @@ Zwei Menschen reißen sich darin förmlich auseinander – wobei da auch eine su
 
 Ich habe auch analoge Synthesizer benutzt, um dieses dramatische Ende zu erzeugen. Außerdem habe ich das Sequential OB6 Modul und den Roland Jupiter 6 genutzt. Ich bin wirklich zufrieden mit dem Synth-Bass. Er ist melodisch und trotzdem knackig und rhythmisch.
 
-Ich habe auch ganz schön viel Zeit mit dem Erschaffen düsterer Texturen verbracht. Dafür habe ich vor allem den Doepfer semi-modular Synth eingesetzt. Ich habe mich viel mit der Erschaffung wirrer Töne beschäftigt und dabei die abgefahrenen Gitarren-Pedale benutzt, die ich finden konnte. Es ist eine tolle Art einen Ton zu erzeugen und es hilft sehr dabei, einer Komposition die richtige Form zu verleihen.
+Ich habe auch ganz schön viel Zeit mit dem Erschaffen düsterer Texturen verbracht. Dafür habe ich vor allem den Doepfer semi-modular Synth eingesetzt. Ich habe mich viel mit wirren Tönen beschäftigt und dabei die abgefahrensten Guitar Pedals benutzt, die ich finden konnte. Es ist eine tolle Art einen Ton zu erzeugen und es hilft sehr dabei, einer Komposition die richtige Form zu verleihen.
 
 Der Main-Hook im Chorus ist eine Stimme, die ich durch das Roland 201 geschickt habe. Ich finde, das ist so eine großartige Tape Delay Maschine!
 
