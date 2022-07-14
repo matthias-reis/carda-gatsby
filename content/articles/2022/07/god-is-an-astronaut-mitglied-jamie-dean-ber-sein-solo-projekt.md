@@ -60,7 +60,7 @@ Das Beste daran ist: Es gibt kein Internet! Oder hast Du schon mal einen Hai im 
 
 ## "Chariot of Black Moth hat mein Video gemacht"
 
-**Anne:** Zu "Mutualism" hast Du ein großartiges Video gemacht. Es ist ziemlich düster und es gibt diese zerbrochen scheinenden Sequenzen von Menschen, die mit Erde bedeckt sind. Sie tauchen in einen See ein und waschen sich im Wasser. Die Schwarz-Weiß-Bilder zeigen eine blutig erscheinende Flüssigkeit, die über ihre Körper läuft. Ich nehme an, es ist eine Mischung aus dem Wasser und der Erde. Das führt zu einem ziemlich intensiven Eindruck – vor allem der Moment, in dem sie beginnen, einander an den Armen zu berühren. Ich empfehle dieses Video allen, die es bis jetzt noch nicht gesehen haben. Möchtest Du mir die Geschichte dahinter verraten? Wie bist Du auf die Idee gekommen und wer hat das Video kreiert?
+**Anne:** Zu "Mutualism" hast Du ein großartiges Video gemacht. Es ist ziemlich düster und es gibt diese zerbrochen scheinenden Sequenzen von zwei Menschen, die mit Erde bedeckt sind. Sie tauchen in einen See ein und waschen sich im Wasser. Die Schwarz-Weiß-Bilder zeigen eine blutig erscheinende Flüssigkeit, die über ihre Körper läuft. Ich nehme an, es ist eine Mischung aus dem Wasser und der Erde. Das führt zu einem ziemlich intensiven Eindruck – vor allem der Moment, in dem sie beginnen, einander an den Armen zu berühren. Ich empfehle dieses Video allen, die es bis jetzt noch nicht gesehen haben. Möchtest Du mir die Geschichte dahinter verraten? Wie bist Du auf die Idee gekommen und wer hat das Video kreiert?
 
 **Jamie:** Das Video erforscht die destruktiveren Beziehungen, die Menschen zueinander haben können. Der polnische Künstler Chariot of Black Moth hat das Video gemacht.
 
