@@ -12,7 +12,7 @@ excerpt: Some days ago, I mentioned God Is An Astronaut member Jamie Dean's new
   him for an interview. I am very proud to present it to you today. Please enjoy
   reading. I enjoyed talking to him very much, and I think the outcome is quite
   exciting.
-image: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-interview-jpeg-imagine-181818_3e3e3e_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-2-jpeg-imagine-181818_494949_1440_1440/640.webp
 copyrigt: Jamie Dean
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-interview-fb-jpeg-imagine-181818_404c4e_1200_628/640.webp
 labels:
