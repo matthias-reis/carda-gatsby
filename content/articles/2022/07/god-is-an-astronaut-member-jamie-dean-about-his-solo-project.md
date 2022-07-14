@@ -128,7 +128,7 @@ The response so far has been outstanding. You can find the full list of our tour
 
 <YouTube id="lMwPehhPVp8" />
 
-[^1]: [@jamie**dean** on Instagram](https://www.instagram.com/jamie__dean__/)
+[^1]: [Jamie Dean on Instagram](https://www.instagram.com/jamie__dean__/)
 [^2]: [Jamie Dean's Spotify profile](https://open.spotify.com/artist/4febqmSRFnbC6HWENbXFbt?si=gJZO5RIWQZucsyLp-II12Q)
 [^3]: [Jamie Dean's iTunes profile](https://music.apple.com/de/artist/jamie-dean/1614323002)
 [^4]: [God Is An Astronaut Tourdates on Bands in Town](https://www.bandsintown.com/de/a/13326-god-is-an-astronaut)
