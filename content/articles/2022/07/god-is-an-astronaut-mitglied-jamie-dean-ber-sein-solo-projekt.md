@@ -44,7 +44,7 @@ Mir geht es gut, danke. Im Moment bin ich mit der Band auf Tour, wir waren geste
 
 ## "Meeresbewohner sind faszinierend"
 
-![Jamie Dean](https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-interview-2-jpeg-imagine-181818_2b2b2b_1024_768/640.webp "Jamie Dean")
+![Jamie Dean](https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-1-jpeg-imagine-181818_2f2f2f_1440_1440/640.webp "Jamie Dean")
 
 **Jamie:** Danke Dir! Genau, Mutualismus kann man als "Symbiose, die beiden Organismen Vorzüge bietet" bezeichnen. In einer idealen Welt hätte jede Beziehung mutuale (gegenseitige) Vorteile. Beziehungen können aber natürlich auch mutual destruktiv sein.
 
@@ -102,7 +102,7 @@ Als Teenie habe ich das Piano vernachlässigt und mich vor allem auf die Gitarre
 
 ## "Ich werde weiter Songs schreiben"
 
-![Jamie Dean – "Mutualism"](https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-mutualism-jpeg-imagine-081818_34494e_2400_2400/640.webp "Jamie Dean – \"Mutualism\"")
+![Jamie Dean – "Mutualism"](https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-mutualism-jpeg-imagine-081818_34494e_2400_2400/640.webp "Jamie Dean – \\"Mutualism\\"")
 
 **Anne:** Wie sehen Deine Zukunftspläne aus? Wird es mehr Songs von Dir geben? Ein Solo-Album? Eine Tour?
 
