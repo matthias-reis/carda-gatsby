@@ -107,7 +107,7 @@ Als Teenie habe ich das Piano vernachlässigt und mich vor allem auf die Gitarre
 
 **Anne:** Wie sehen Deine Zukunftspläne aus? Wird es mehr Songs von Dir geben? Ein Solo-Album? Eine Tour?
 
-**Jamie:**  Im Moment ist der Plan, weiter Musik zu schreiben. Im Moment konzentriere ich mich vor allem auf das Spotify Publikum. Falls dort genug Interesse besteht, möchte ich gerne mit dem Projekt auf Tour gehen und meine Musik live spielen!
+**Jamie:**  Im Moment ist der Plan, weiter Musik zu schreiben. Gerade konzentriere ich mich vor allem auf das Spotify Publikum. Falls dort genug Interesse besteht, möchte ich gerne mit dem Projekt auf Tour gehen und meine Musik live spielen!
 
 Ich arbeite auch mit der Band an der neuen God Is An Astronaut Platte und wir haben dieses Jahr einen ganz schön hektischen Tourplan. Es ist fantastisch, endlich wieder live zu spielen! Wir haben es alle sehr vermisst.
 
