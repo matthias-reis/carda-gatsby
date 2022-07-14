@@ -9,10 +9,10 @@ description: Ich habe mich mit God Is An Astronaut Mitglied Jamie Dean zum
   Interview verabredet. Wir haben uns über sein Soloprojekt und die laufende
   Tour unterhalten – und was wir vom Mutualismus im Tierreich lernen können.
 excerpt: Vor ein paar Tagen habe ich das neue Solo-Stück von God Is An Astronaut
-  Mitglied Jamie Dean in meiner Juni-Playlist erwähnt. Kurz danach fragte ich
-  ihn dann, ob er Lust auf ein Interview hätte. Ich bin sehr stolz, es Euch
-  heute präsentieren zu können. Ich habe die Unterhaltung mit Jamie sehr
-  genossen und wünsche Euch viel Freude beim Lesen.
+  Mitglied Jamie Dean in meiner Juni-Playlist erwähnt. Nachdem er meine Social
+  Media Posts dazu geteilt hatte, fragte ich ihn, ob er Lust auf ein Interview
+  hätte. Ich bin sehr stolz, es Euch heute präsentieren zu können. Ich habe die
+  Unterhaltung mit Jamie sehr genossen und wünsche Euch viel Freude beim Lesen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-2-jpeg-imagine-181818_494949_1440_1440/640.webp
 copyrigt: Jamie Dean
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-interview-fb-jpeg-imagine-181818_404c4e_1200_628/640.webp
@@ -33,7 +33,7 @@ affiliate: false
 language: de
 languageLink: /2022/07/jamie-dean-interview-en/
 ---
-**Vor ein paar Tagen habe ich das neue Solo-Stück von God Is An Astronaut Mitglied Jamie Dean in meiner Juni-Playlist erwähnt. Kurz danach fragte ich ihn dann, ob er Lust auf ein Interview hätte. Ich bin sehr stolz, es Euch heute präsentieren zu können. Ich habe die Unterhaltung mit Jamie sehr genossen und wünsche Euch viel Freude beim Lesen.**
+**Vor ein paar Tagen habe ich das neue Solo-Stück von God Is An Astronaut Mitglied Jamie Dean in meiner Juni-Playlist erwähnt. Nachdem er meine Social Media Posts dazu geteilt hatte, fragte ich ihn, ob er Lust auf ein Interview hätte. Ich bin sehr stolz, es Euch heute präsentieren zu können. Ich habe die Unterhaltung mit Jamie sehr genossen und wünsche Euch viel Freude beim Lesen.**
 
 **Anne:** Hi Jamie! Danke, dass Du Dir die Zeit für dieses Interview nimmst! Es ist mir eine Ehre und eine Freude, Dich kennenzulernen. Wie geht es Dir heute? Wo bist Du gerade unterwegs?
 
