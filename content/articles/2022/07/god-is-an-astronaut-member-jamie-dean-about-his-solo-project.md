@@ -40,7 +40,7 @@ languageLink: /2022/07/jamie-dean-interview/
 
 I am doing well. Thank you. I'm currently on tour with the band, and we headlined Rock in Roma yesterday. It was a wonderful show. It started to rain, and there was fork lightning throughout our performance. The energy was absolutely incredible!
 
-**Anne:** Congrats on your new single "Mutualism"! It is a fantastic song! I like the fact that there finally is a song about this fascinating topic – the ability of living beings to interact in a positive way and build relationships – even between different species. I think this is kind of like the thing that keeps the world together. It is fascinating! How did you come up with the idea to write about it?
+**Anne:** Congrats on your new single "Mutualism"! It's a fantastic song! I like the fact that there finally is a song about this fascinating topic – the ability of living beings to interact in a positive way and build relationships – even between different species. I think this is kind of like the thing that keeps the world together. It's fascinating! How did you come up with the idea to write about it?
 
 ## "Marine life is fascinating"
 
@@ -48,7 +48,7 @@ I am doing well. Thank you. I'm currently on tour with the band, and we headline
 
 **Jamie:** Thank you! Mutualism can be defined as "a symbiosis which is beneficial to both organisms involved." In an ideal world, every relationship would be mutually beneficial. But, of course, relationships can be mutually destructive too!
 
-**Anne:** There are different forms of mutualism in nature. For example, the red-billed oxpecker lives in a cleaning symbiosis with the impala. It is a relationship that we also know from sharks and cleaner fishes, clown fishes who protect sea anemones, leafcutter ants who take care of their mushrooms and so on. Do you think we can learn from these fascinating creatures?
+**Anne:** There are different forms of mutualism in nature. For example, the red-billed oxpecker lives in a cleaning symbiosis with the impala. It's a relationship that we also know from sharks and cleaner fishes, clown fishes who protect sea anemones, leafcutter ants who take care of their mushrooms and so on. Do you think we can learn from these fascinating creatures?
 
 **Jamie:** I do! I find it fascinating, actually – especially the marine life you mentioned. It's the one area that humans haven't completely changed, and yet there still exists highly complex marine ecosystems. 
 
@@ -60,13 +60,13 @@ The best part is – there is no internet! I've never seen a shark on Instagram,
 
 ## "Chariot of Black Moth made my video"
 
-**Anne:** You made a fantastic video for "Mutualism". It is pretty dark with these shattered-seeming sequences, which I like a lot, showing pictures of humans covered in soil, diving into a dark lake washing their bodies. The black and white images lead to a bloody seeming liquid that runs over their skins – I assume it is a mixture of the soil and the water. The impression is very intense – Moreover, the part where they start touching each other's arms. I don't want to reveal everything here. I recommend all my readers to watch the video if they haven't seen it yet. Do you want to tell me the story behind it? What led you to the idea, and who created the video?
+**Anne:** You made a fantastic video for "Mutualism". It's pretty dark with these shattered-seeming sequences, which I like a lot, showing pictures of humans covered in soil, diving into a dark lake washing their bodies. The black and white images lead to a bloody seeming liquid that runs over their skins – I assume it's a mixture of the soil and the water. The impression is very intense – Moreover, the part where they start touching each other's arms. I don't want to reveal everything here. I recommend all my readers to watch the video if they haven't seen it yet. Do you want to tell me the story behind it? What led you to the idea, and who created the video?
 
 **Jamie:** The music video explores the more destructive relationships that can exist between two people. The video was made by a Polish artist called "Chariot of Black Moth".
 
 In it, two sick people are literally tearing each other apart. Although there is a subtle reference to the death/life cycle, too, I'm really happy with how it came out.
 
-**Anne:** It is no secret that you are not only a talented guitarist and keyboardist, but a multi-instrumentalist. Did you play all the instruments on "Mutualism" yourself? So, not "only" strings, synths, and keys but also drums and percussion? And I think there are even more instruments? I would love to know more about this!
+**Anne:** It's no secret that you are not only a talented guitarist and keyboardist, but a multi-instrumentalist. Did you play all the instruments on "Mutualism" yourself? So, not "only" strings, synths, and keys but also drums and percussion? And I think there are even more instruments? I would love to know more about this!
 
 ## "I played all the instruments for 'mutualism' myself"
 
