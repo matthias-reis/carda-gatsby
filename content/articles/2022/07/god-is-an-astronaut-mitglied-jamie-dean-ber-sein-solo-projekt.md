@@ -54,7 +54,7 @@ Mir geht es gut, danke. Im Moment bin ich mit der Band auf Tour, wir waren geste
 
 Das Beste daran ist: Es gibt kein Internet! Oder hast Du schon mal einen Hai im Internet gesehen? Ich nicht.
 
-**Anne:** Es besitzt die Kraft, einen zu beruhigen, wenn man darüber nachdenke, dass all diese wunderbaren Dinge möglich sind. Sollten wir uns in Zeiten wie diesen häufiger an den Mutualismus erinnern?
+**Anne:** Es beruhigt mich, wenn man darüber nachdenke, dass all diese wunderbaren Dinge möglich sind. Sollten wir uns in Zeiten wie diesen häufiger an den Mutualismus erinnern?
 
 **Jamie:** Das Leben ist kurz und die Zeit geht so schnell vorbei. Ich denke, wir sollten klug mit der Zeit, die uns bleibt, umgehen, bevor sie uns durch die Finger rinnt.
 
