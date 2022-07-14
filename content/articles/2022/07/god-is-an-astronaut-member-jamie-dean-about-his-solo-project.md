@@ -43,7 +43,7 @@ I am doing well. Thank you. I'm currently on tour with the band, and we headline
 
 ## "Marine life is fascinating"
 
-![Jamie Dean](https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-interview-2-jpeg-imagine-181818_2b2b2b_1024_768/640.webp "Jamie Dean")
+![Jamie Dean](https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-1-jpeg-imagine-181818_2f2f2f_1440_1440/640.webp "Jamie Dean")
 
 **Jamie:** Thank you! Mutualism can be defined as "a symbiosis which is beneficial to both organisms involved." In an ideal world, every relationship would be mutually beneficial. But, of course, relationships can be mutually destructive too!
 
@@ -101,7 +101,7 @@ When I was in my teens, I abandoned the piano and focused mainly on the guitar b
 
 ## "I want to continue writing"
 
-![Jamie Dean – "Mutualism"](https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-mutualism-jpeg-imagine-081818_34494e_2400_2400/640.webp "Jamie Dean – \"Mutualism\"")
+![Jamie Dean – "Mutualism"](https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-mutualism-jpeg-imagine-081818_34494e_2400_2400/640.webp "Jamie Dean – \\"Mutualism\\"")
 
 **Anne:** What are your plans for the future? Are there more tracks coming up? A solo album? A tour?
 
@@ -123,7 +123,7 @@ The response so far has been outstanding. You can find the full list of our tour
 
 **Jamie:** Thank you, Anne. I appreciate it a lot. Catch you at the show in September!
 
-[^1]: [@jamie__dean__ on Instagram](https://www.instagram.com/jamie__dean__/)
+[^1]: [@jamie**dean** on Instagram](https://www.instagram.com/jamie__dean__/)
 [^2]: [Jamie Dean's Spotify profile](https://open.spotify.com/artist/4febqmSRFnbC6HWENbXFbt?si=gJZO5RIWQZucsyLp-II12Q)
 [^3]: [Jamie Dean's iTunes profile](https://music.apple.com/de/artist/jamie-dean/1614323002)
 [^4]: [God Is An Astronaut Tourdates on Bands in Town](https://www.bandsintown.com/de/a/13326-god-is-an-astronaut)
