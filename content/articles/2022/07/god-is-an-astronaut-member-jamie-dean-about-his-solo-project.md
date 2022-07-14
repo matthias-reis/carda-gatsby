@@ -9,8 +9,8 @@ description: I interviewed God Is An Astronaut member Jamie Dean about his new
   solo piece "Mutualism", the ongoing tour and mutualistic relationships.
 excerpt: Some days ago, I mentioned God Is An Astronaut member Jamie Dean's new
   solo piece in my June playlist. After he shared my social media posts about
-  it, I asked him for an interview. I am very proud to present it to you today.
-  Please enjoy reading. I enjoyed talking to him very much, and I think the
+  it, I asked him for an interview. I am very proud to present it to you today
+  and I hope you enjoy it. I enjoyed talking to him very much, and I think the
   outcome is quite exciting.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-2-jpeg-imagine-181818_494949_1440_1440/640.webp
 copyrigt: Jamie Dean
@@ -32,7 +32,7 @@ affiliate: false
 language: en
 languageLink: /2022/07/jamie-dean-interview/
 ---
-**Some days ago, I mentioned God Is An Astronaut member Jamie Dean's new solo piece in my June playlist. After he shared my social media posts about it, I asked him for an interview. I am very proud to present it to you today. Please enjoy reading. I enjoyed talking to him very much, and I think the outcome is quite exciting.**
+**Some days ago, I mentioned God Is An Astronaut member Jamie Dean's new solo piece in my June playlist. After he shared my social media posts about it, I asked him for an interview. I am very proud to present it to you today and I hope you enjoy it. I enjoyed talking to him very much, and I think the outcome is quite exciting.**
 
 **Anne:** Hi Jamie! Thank you very much for taking the time for this interview! It's an honour and a pleasure to get to know you! How are you doing today? Where are you staying at the moment?
 
