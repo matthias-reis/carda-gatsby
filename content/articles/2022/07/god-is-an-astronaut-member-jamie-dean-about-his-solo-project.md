@@ -123,6 +123,8 @@ The response so far has been outstanding. You can find the full list of our tour
 
 **Jamie:** Thank you, Anne. I appreciate it a lot. Catch you at the show in September!
 
+<YouTube id="lMwPehhPVp8" />
+
 [^1]: [@jamie**dean** on Instagram](https://www.instagram.com/jamie__dean__/)
 [^2]: [Jamie Dean's Spotify profile](https://open.spotify.com/artist/4febqmSRFnbC6HWENbXFbt?si=gJZO5RIWQZucsyLp-II12Q)
 [^3]: [Jamie Dean's iTunes profile](https://music.apple.com/de/artist/jamie-dean/1614323002)
