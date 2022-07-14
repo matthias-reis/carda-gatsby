@@ -124,6 +124,8 @@ Die Reaktionen waren bis jetzt unglaublich. Die kompletten Tourdaten finden Dein
 
 **Jamie:** Danke Anne. Ich weiß das zu schätzen. Wir sehen uns bei unserer Show im September!
 
+<YouTube id="lMwPehhPVp8" />
+
 [^1]: [@jamie**dean** auf Instagram](https://www.instagram.com/jamie__dean__/)
 [^2]: [Jamie Dean bei Spotify](https://open.spotify.com/artist/4febqmSRFnbC6HWENbXFbt?si=gJZO5RIWQZucsyLp-II12Q)
 [^3]: [Jamie Dean bei iTunes](https://music.apple.com/de/artist/jamie-dean/1614323002)
