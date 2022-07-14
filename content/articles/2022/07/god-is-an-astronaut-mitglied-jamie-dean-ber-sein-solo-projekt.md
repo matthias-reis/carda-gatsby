@@ -67,7 +67,7 @@ Das Beste daran ist: Es gibt kein Internet! Oder hast Du schon mal einen Hai im 
 
 Zwei kranke Menschen reißen sich darin förmlich auseinander – wobei da auch eine subtile Referenz in Richtung Todes/Lebens-Zyklus ist. Ich bin wirklich sehr glücklich damit, wie es geworden ist.
 
-**Anne:** Es ist kein Geheimnis, dass Du nicht nur ein talentierter Gitarrist und Keyboarder bist, sondern ein großartiger Multi-Instrumentalist. Hast Du alle Instrument für "Mutualism" selbst eingespielt? Also nicht "nur" die Saiten, Synthesizer und Tasten, sondern auch die Drums und die Perkussionsinstrumente? Ich meine, sogar noch mehr Instrumente gehört zu haben? Ich würde wirklich gerne mehr darüber erfahren!
+**Anne:** Es ist kein Geheimnis, dass Du nicht nur ein talentierter Gitarrist und Keyboarder bist, sondern ein großartiger Multi-Instrumentalist. Hast Du alle Instrumente für "Mutualism" selbst eingespielt? Also nicht "nur" die Saiten, Synthesizer und Tasten, sondern auch die Drums und die Perkussionsinstrumente? Ich meine, sogar noch mehr Instrumente gehört zu haben? Ich würde wirklich gerne mehr darüber erfahren!
 
 ## "Ich habe alle Instrumente für 'Mutualism' selbst eingespielt"
 
