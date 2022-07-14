@@ -71,7 +71,7 @@ Zwei kranke Menschen reißen sich darin förmlich auseinander – wobei da auch 
 
 ## "Ich habe alle Instrumente für 'Mutualism' selbst eingespielt"
 
-**Jamie:** Danke Dir! Ja, ich habe die Instrumente entweder selbst gespielt oder programmiert. Ich habe eine Menge coole Instrumente genutzt. Die Hauptteile habe ich an einem elektrischen Piano geschrieben und anschließend den Rest drumherum modelliert. Ich habe das elektrische Piano auch mein guitar fx Board und dann in den Orange Verstärker geschickt und damit verrückte Verzerrungen erschaffen. Sie sorgen für zusätzlichen Biss und Punch, finde ich.
+**Jamie:** Danke Dir! Ja, ich habe die Instrumente entweder selbst gespielt oder programmiert. Ich habe eine Menge coole Instrumente genutzt. Die Hauptteile habe ich an einem elektrischen Piano geschrieben und anschließend den Rest drumherum modelliert. Ich habe das elektrische Piano durch mein guitar fx Board und dann in den Orange Verstärker geschickt und damit verrückte Verzerrungen erschaffen. Sie sorgen für zusätzlichen Biss und Punch, finde ich.
 
 Ich habe auch analoge Synthesizer benutzt, um dieses dramatische Ende zu erzeugen. Außerdem habe ich das Sequential OB6 Modul und den Roland Jupiter 6 genutzt. Ich bin wirklich zufrieden mit dem Synth-Bass. Er ist melodisch und trotzdem knackig und rhythmisch.
 
