@@ -48,7 +48,7 @@ Mir geht es gut, danke. Im Moment bin ich mit der Band auf Tour, wir waren geste
 
 **Jamie:** Danke Dir! Genau, Mutualismus kann man als "Symbiose, die beiden Organismen Vorzüge bietet" bezeichnen. In einer idealen Welt hätte jede Beziehung mutuale (gegenseitige) Vorteile. Beziehungen können aber natürlich auch mutual destruktiv sein.
 
-**Anne:** In der Natur gibt es verschiedene Formen von Mutualismus. Rotschnabel-Madenhacker leben zum Beispiel in Symbiose mit dem Impalas. Sie leben eine Beziehung, die wir unter anderem auch von Haien und Putzerfischen kennen, von Clownfischen, die Seeanemonen beschützen und von Blattschneider-Ameisen, die "ihre" Pilze pflegen. Glaubst Du, dass wir von diesen faszinierenden Kreaturen lernen können?
+**Anne:** In der Natur gibt es verschiedene Formen von Mutualismus. Rotschnabel-Madenhacker leben zum Beispiel in Symbiose mit Impalas. Sie leben eine Beziehung, die wir unter anderem auch von Haien und Putzerfischen kennen, von Clownfischen, die Seeanemonen beschützen und von Blattschneider-Ameisen, die "ihre" Pilze pflegen. Glaubst Du, dass wir von diesen faszinierenden Kreaturen lernen können?
 
 **Jamie:** Ich denke, ja! Ich finde es wirklich faszinierend – vor allem die Meeresbewohner, die Du erwähnt hast. Es ist der eine Lebensraum, den Menschen noch nicht komplett erschlossen haben und noch existieren dort hochkomplexe marine Ökosysteme.
 
