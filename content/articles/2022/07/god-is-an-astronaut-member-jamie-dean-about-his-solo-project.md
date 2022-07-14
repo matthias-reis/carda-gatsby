@@ -25,6 +25,7 @@ labels:
   - Bands
   - Mutualism
   - Mutualismus
+  - Chariot of Black Moth
 focusKeyword: Jamie Dean
 advertisement: false
 affiliate: false
