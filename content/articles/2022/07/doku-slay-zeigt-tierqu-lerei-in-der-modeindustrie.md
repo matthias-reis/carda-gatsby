@@ -50,6 +50,8 @@ Zum Glück wird die Kritik am Modezirkus vor allem, was fehlende Nachhaltigkeit 
 
 ## Menschen und Tiere leiden für die Mode
 
+![Silberfüchse sitzen in aufeinander gestapelten Drahtkäfigen eng an einander.](https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-silverfoxes-fur-farm-china-jpeg-imagine-080808_615f71_1024_768/640.webp "Silberfüchse auf einer Pelzfarm in China. Bild/Picture: \"Slay\"")
+
 In "Slay" geht es daher um sie – ausgebeutete, vergessene Lebewesen, die für unsere Kleidung gezüchtet werden und ihr kurzes Leben oft unter Qualen und in Dunkelheit fristen müssen. Die Dokumentation zeigt, wie die weltweite Fashion-Industrie der Umwelt und den Menschen massiven Schaden zufügt und in welcher extremen Notlage sich die Tiere innerhalb dieses Feldes befinden.
 
 Für "Slay" haben Rebecca Cappelli und Keegan Kuhn (bekannt durch ["Cowspiracy"](/2020/04/cowspiracy-vegane-doku/), "What the Health" und "They're Trying to Kill Us ") fünf Kontinente besucht. Sie deckten in Indien, Italien, Brasilien, China, Frankreich und den USA Fälle von Tierquälerei, Greenwashing, Etikettenschwindel und Vertuschung auf.
@@ -60,7 +62,7 @@ Im Film kommen Expert⋆innen für nachhaltige Mode und Angehörige der Tierrech
 
 ## Zu Besuch auf Pelz- und Wollfarmen
 
-![Ein hoher Stapel gebündelte Lammfelle mit einem Zettel auf dem "Baby" steht.](https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-baby-lamb-skin-australia-jpeg-imagine-080808_504e42_1024_768/640.webp "Lammfell auf einer Wollfarm in Australien. Bild/Picture: \\"Slay\\"")
+![Ein hoher Stapel gebündelte Lammfelle mit einem Zettel auf dem "Baby" steht.](https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-baby-lamb-skin-australia-jpeg-imagine-080808_504e42_1024_768/640.webp "Lammfell auf einer Wollfarm in Australien. Bild/Picture: \"Slay\"")
 
 Die Filmcrew  drehte unter anderem auf Pelz- und Wollfarmen sowie in Gerbereien. Die tiefen Einblicke helfen zweifellos dabei, die Verbindung herzustellen zwischen einem Lederschuh und einem Kalb, das in einem Verschlag auf sein Schicksal wartet. Rebecca Cappelli ist überzeugt davon, dass vielen Menschen nicht klar ist, für welches Leid sie durch ihr Einkaufsverhalten mitverantwortlich sind. Gegenüber der Presse sagte sie:
 
