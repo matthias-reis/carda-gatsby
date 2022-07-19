@@ -50,11 +50,11 @@ Zum Glück wird die Kritik am Modezirkus vor allem, was fehlende Nachhaltigkeit 
 
 ## Menschen und Tiere leiden für die Mode
 
-In "Slay" geht es daher um sie – ausgebeutete, vergessene Lebewesen, die für unsere Kleidung gezüchtet werden und ihr kurzes Leben häufig unter Qualen und in Dunkelheit fristen müssen. Die Dokumentation zeigt, wie die weltweite Fashion-Industrie der Umwelt und den Menschen massiven Schaden zufügt und in welcher extremen Notlage sich die Tiere innerhalb dieses Feldes befinden.
+In "Slay" geht es daher um sie – ausgebeutete, vergessene Lebewesen, die für unsere Kleidung gezüchtet werden und ihr kurzes Leben oft unter Qualen und in Dunkelheit fristen müssen. Die Dokumentation zeigt, wie die weltweite Fashion-Industrie der Umwelt und den Menschen massiven Schaden zufügt und in welcher extremen Notlage sich die Tiere innerhalb dieses Feldes befinden.
 
 Für "Slay" haben Rebecca Cappelli und Keegan Kuhn (bekannt durch ["Cowspiracy"](/2020/04/cowspiracy-vegane-doku/), "What the Health" und "They're Trying to Kill Us ") fünf Kontinente besucht. Sie deckten in Indien, Italien, Brasilien, China, Frankreich und den USA Fälle von Tierquälerei, Greenwashing, Etikettenschwindel und Vertuschung auf.
 
-Neben dem allgegenwärtigen Tierleid begegnete das Filmteam auch permanent Menschen, die der Modeindustrie regelrecht ausgeliefert sind. Sie arbeiten unter schlimmen, häufig sogar gefährlichen, Bedingungen weit über jeder zumutbaren Belastungsgrenze und sind gleichzeitig auf ihre Jobs angewiesen.
+Neben dem allgegenwärtigen Tierleid begegnete das Filmteam auch permanent Menschen, die der Modeindustrie regelrecht ausgeliefert sind. Sie arbeiten unter schlimmen, häufig sogar gefährlichen Bedingungen weit über jeder zumutbaren Belastungsgrenze und sind gleichzeitig auf ihre Jobs angewiesen.
 
 Im Film kommen Expert⋆innen für nachhaltige Mode und Angehörige der Tierrechtsbewegung zu Wort – darunter bekannte Aktivist⋆innen wie Samata Pattinson, Bandana Tewari, Dana Thomas, Joshua Katcher, Lucy Watson, [Earthling Ed](/tag/earthling-ed), [Melanie Joy](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/), Emma Hakansson und Alexi Lubomirski. Sie zeigen auf, wie es laufen müsste und wie weit wir heute noch von menschen- und tierwürdigen Lösungen entfernt sind.
 
