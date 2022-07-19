@@ -64,7 +64,7 @@ Im Film kommen Expert⋆innen für nachhaltige Mode und Angehörige der Tierrech
 
 Die Filmcrew  drehte unter anderem auf Pelz- und Wollfarmen sowie in Gerbereien. Die tiefen Einblicke helfen zweifellos dabei, die Verbindung herzustellen zwischen einem Lederschuh und einem Kalb, das in einem Verschlag auf sein Schicksal wartet. Rebecca Cappelli ist überzeugt davon, dass vielen Menschen nicht klar ist, für welches Leid sie durch ihr Einkaufsverhalten mitverantwortlich sind. Gegenüber der Presse sagte sie:
 
-> "Ich wünsche mir, dass die Menschen, die "Slay" sehen, die wahren Auswirkungen ihrer Kaufentscheidungen auf Tiere, den Planeten und ihre Mitmenschen erkennen. Sie sollen die Marketinglügen, die ihnen erzählt wurden und das Greenwashing sehen. Während diese grausame Industrie den Planeten immer mehr zerstört, wird das Leid der Tiere immer wieder vergessen. Wir wollen die Menschen mit 'Slay' dazu auffordern, die Vorstellung, Tierhäute seinen eine Art von  'Stoff' zu hinterfragen."
+> "Ich wünsche mir, dass die Menschen, die 'Slay' sehen, die wahren Auswirkungen ihrer Kaufentscheidungen auf Tiere, den Planeten und ihre Mitmenschen erkennen. Sie sollen die Marketinglügen, die ihnen erzählt wurden und das Greenwashing sehen. Während diese grausame Industrie den Planeten immer mehr zerstört, wird das Leid der Tiere immer wieder vergessen. Wir wollen die Menschen mit 'Slay' dazu auffordern, die Vorstellung, Tierhäute seinen eine Art von  'Stoff' zu hinterfragen."
 
 Sie  hofft, dass ihr neuer Film möglichst vielen dabei hilft, die Augen für die dunkle Realität zu öffnen.
 
