@@ -11,8 +11,8 @@ description: Rebecca Cappelli ("Let us be Heroes") und Keegan Kuhn
 excerpt: Rebecca Cappelli ("Let us be Heroes") hat gemeinsam mit Keegan Kuhn
   ("Cowspiracy", "What the Health" und "They're Trying to Kill Us ") eine neue
   Tierrechtsdoku gedreht. In "Slay" geht es um Tierquälerei in der
-  Modeindustrie. Derzeit finden pro Jahr rund 2,5 Milliarden Tiere für Kleidung
-  den Tod.
+  Modeindustrie. Derzeit finden pro Jahr rund 2,5 Milliarden Tiere für unsere
+  Kleidung den Tod.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-leather-made-in-tuscany-jpeg-imagine-080808_4b4332_1024_768/640.webp
 copyrigt: Rebecca Cappelli, Keegan Kuhn, "Slay"
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-fb-jpeg-imagine-080808_53504a_1200_628/640.webp
@@ -31,7 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Rebecca Cappelli hat gemeinsam mit Keegan Kuhn eine neue Tierrechtsdoku gedreht. In "Slay" geht es um Tierquälerei in der Modeindustrie. Derzeit finden pro Jahr rund 2,5 Milliarden Tiere für Kleidung den Tod.**
+**Rebecca Cappelli hat gemeinsam mit Keegan Kuhn eine neue Tierrechtsdoku gedreht. In "Slay" geht es um Tierquälerei in der Modeindustrie. Derzeit finden pro Jahr rund 2,5 Milliarden Tiere für unsere Kleidung den Tod.**
 
 "Slay" deckt in Spielfilmlänge auf, wie grausam dieses Geschäft ist. Rebecca Cappelli und Keegan Kuhn wollen damit innerhalb der Gesellschaft das Bewusstsein für die in der Modebranche weitverbreiteten grausamen Praktiken schärfen.
 
@@ -53,7 +53,7 @@ Im Film kommen Expert⋆innen für nachhaltige Mode und Angehörige der Tierrech
 
 ## Zu Besuch auf Pelz- und Wollfarmen
 
-![Ein hoher Stapel gebündelte Lammfelle mit einem Zettel auf dem "Baby" steht.](https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-baby-lamb-skin-australia-jpeg-imagine-080808_504e42_1024_768/640.webp "Lammfell auf einer Wollfarm in Australien. Bild/Picture: \"Slay\"")
+![Ein hoher Stapel gebündelte Lammfelle mit einem Zettel auf dem "Baby" steht.](https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-baby-lamb-skin-australia-jpeg-imagine-080808_504e42_1024_768/640.webp "Lammfell auf einer Wollfarm in Australien. Bild/Picture: \\"Slay\\"")
 
 Die Filmcrew  drehte unter anderem auf Pelz- und Wollfarmen sowie in Gerbereien. Die tiefen Einblicke helfen zweifellos dabei, die Verbindung herzustellen zwischen einem Lederschuh und einem Kalb, das in einem Verschlag auf sein Schicksal wartet. Rebecca Cappelli ist überzeugt davon, dass vielen Menschen nicht klar ist, für welches Leid sie durch ihr Einkaufsverhalten mitverantwortlich sind. Gegenüber der Presse sagte sie:
 
