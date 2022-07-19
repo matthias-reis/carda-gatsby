@@ -44,7 +44,7 @@ language: de
 
 ## Auf den Spuren von Leder, Wolle und Pelz
 
-Rebecca Cappelli ("Let us be Heroes") wird im Film auf ihrer dreijährigen Reise begleitet, auf der sie die Herstellung und Verarbeitung von Tierhäuten in der Modeindustrie beleuchtet und den Ursprüngen von Leder, Wolle und Pelz auf der Spur ist.
+Rebecca Cappelli ("Let us be Heroes") wird im Film auf ihrer dreijährigen Reise begleitet, auf der sie die Herstellung und Verarbeitung von Tierhäuten in der Modeindustrie beleuchtet und [den Ursprüngen von Leder](/2020/07/leder-pelz/), [Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) und Pelz auf der Spur ist.
 
 Zum Glück wird die Kritik am Modezirkus vor allem, was fehlende Nachhaltigkeit und die ungerechte Behandlung der Arbeiter⋆innen angeht, immer lauter. Ein Punkt, der hier jedoch nicht vergessen werden darf, ist die grausame Ausbeutung von Tieren.
 
