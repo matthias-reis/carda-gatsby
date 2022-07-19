@@ -26,6 +26,13 @@ labels:
   - Tierrechte
   - Slay
   - Tierquälerei in der Modeindustrie
+  - Greenwashing
+  - Fast Fashion
+  - Slow Fashion
+  - Ledergewinnung
+  - Leder
+  - Wolle
+  - Pelz
 focusKeyword: Tierquälerei in der Modeindustrie
 advertisement: false
 affiliate: false
