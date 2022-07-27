@@ -52,7 +52,7 @@ Die fertigen Playlists für iTunes und Spotify findet Ihr wie immer im Anschluss
 
 Matze findet:
 
-> "The Mars Volta sind ganz oben auf meiner Wunschliste für Bandwiedervereinigungen. 2017 hat es ja schon mal mit deren noch legendäreren Vorband 'At the Drive-In' geklappt. Jetzt gib es endlich ein Lebenszeichen. Das besteht leider lediglich aus zwei Singles und eine Tour-Ankündigung. Ein Album ist bisher noch nicht in Sicht, aber das kommt sicher noch. Von den beiden Singles habe ich den Sommerhit ausgewählt. "Blacklight Shine" ist der perfekte Soundtrack für einen 40-Grad-Tag. Das Video ist auch sehenswert, da der Song in eine sechsminütige Trommel- und Tanz-Performance übergeht."
+> "The Mars Volta sind ganz oben auf meiner Wunschliste für Bandwiedervereinigungen. 2017 hat es ja schon mal mit deren noch legendäreren Vorband 'At the Drive-In' geklappt. Jetzt gib es endlich ein Lebenszeichen. Das besteht leider lediglich aus zwei Singles und eine Tour-Ankündigung. Ein Album ist bisher noch nicht in Sicht, aber das kommt sicher noch. Von den beiden Singles habe ich den Sommerhit ausgewählt. 'Blacklight Shine' ist der perfekte Soundtrack für einen 40-Grad-Tag. Das Video ist auch sehenswert, da der Song in eine sechsminütige Trommel- und Tanz-Performance übergeht."
 
 <YouTube id="rYAR6bpf85Q" />
 
@@ -97,7 +97,7 @@ OK, ich gebe zu, locker-flockig ist "Dimensional Bleed" eher nicht. Eher düster
 
 Ähm, Coheed & Cambria haben was Neues! Matze erzählt Euch dazu was:
 
-> "Coheed & Cambria sind echte Storyteller. Sie liefern in der Regel keine Konzeptalben, sondern Konzeptalben-Serien ab – manchmal sogar mit Begleitcomics. Ihr Science-Fiction-Stil und ihre proggige Emo-Musik ziehen bei mir immer. Das neue Album ist wieder außergewöhnlich und der Titelsong klingt wie ein schell geschnittener Trailer durch alle "Szenen". Tempowechsel, Stimmungswechsel, fast musicalähnliche Passagen á la Queen und ein Anime-artiges Ende samt Schluss-Credits – das alles findet Ihr auf dieser Platte."
+> "Coheed & Cambria sind echte Storyteller. Sie liefern in der Regel keine Konzeptalben, sondern Konzeptalben-Serien ab – manchmal sogar mit Begleitcomics. Ihr Science-Fiction-Stil und ihre proggige Emo-Musik ziehen bei mir immer. Das neue Album ist wieder außergewöhnlich und der Titelsong klingt wie ein schell geschnittener Trailer durch alle 'Szenen'. Tempowechsel, Stimmungswechsel, fast musicalähnliche Passagen á la Queen und ein Anime-artiges Ende samt Schluss-Credits – das alles findet Ihr auf dieser Platte."
 
 <YouTube id="WscFSf_OjHA" />
 
