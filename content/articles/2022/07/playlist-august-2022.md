@@ -103,7 +103,7 @@ OK, ich gebe zu, locker-flockig ist "Dimensional Bleed" eher nicht. Eher düster
 
 ## Lost in Kiev – "Solastalgia" (Vorauskopplung vom Album "Rupture")
 
-Manchmal ist es gar nicht so einfach, in Worte zu fassen, was Musik so alles auslösen und erzählen kann. Genau so geht es mir mit der ersten Vorauskopplung vom für angekündigten neuen Lost in Kiev Album Rupture. Wie die Band zu ihrem Namen gekommen ist, erfahrt Ihr neben vielen anderen spannenden Details übrigens [in meinem Interview](/2020/07/lost-in-kiev-interview/). Mehr zum gesamten Album, das ich schon hören durfte, erzähle ich Euch in Kürze hier im Blog. So viel sei schon mal verraten: Ihr könnt Euch auf insgesamt neun Songs freuen.
+Manchmal ist es gar nicht so einfach, in Worte zu fassen, was Musik so alles auslösen und erzählen kann. Genau so geht es mir mit der ersten Vorauskopplung vom für angekündigten neuen Lost in Kiev Album "Rupture". Wie die Band zu ihrem Namen gekommen ist, erfahrt Ihr neben vielen anderen spannenden Details übrigens [in meinem Interview](/2020/07/lost-in-kiev-interview/). Mehr zum gesamten Album, das ich schon hören durfte, erzähle ich Euch in Kürze hier im Blog. So viel sei schon mal verraten: Ihr könnt Euch auf insgesamt neun Songs freuen.
 
 <YouTube id="LbL7kZzlpcg" />
 
@@ -111,11 +111,12 @@ Manchmal ist es gar nicht so einfach, in Worte zu fassen, was Musik so alles aus
 
 Matzes letztes Stück für diesen Monat kommt von Ştiu Nu Ştiu:
 
-> "Ich hab' nachgekuckt, im [März 2019](/2019/03/10-songs-fuer-den-april/) hab ich die Band entdeckt und Euch damals "Sibirien" vorgestellt. Jetzt ist ihr neues Album raus, dass Ihr Euch ebenfalls unbedingt ganz anhören müsst. Das sage ich immer gerne bei Bands, die mir vorher nicht so ganz geläufig waren und die vielleicht etwas weniger Spotify-Downloads haben. Hier findet Ihr treibenden Prog Metal/Punk mit psychedelischem, hardcoreigem Gesang von Sängerin Billie Lindahl."
+> "Ich habe nachgeschaut: Im [März 2019](/2019/03/10-songs-fuer-den-april/) hab ich die Band entdeckt und Euch damals ihren Song 'Sibirien' vorgestellt. Jetzt ist ihr neues Album draußen, dass Ihr Euch ebenfalls unbedingt ganz anhören müsst. Das sage ich immer gerne bei Bands, die mir vorher nicht so ganz geläufig waren und die vielleicht etwas weniger Spotify-Downloads haben. Hier findet Ihr treibenden Prog Metal/Punk mit psychedelischem, hardcoreigem Gesang von Sängerin Billie Lindahl."
 
 <YouTube id="l_bOVxoyJcM" />
 
 ## Marine Eyes – "Chamomile"
+
 Dieses wunderschöne Musikstück ist gerade frisch auf Past Inside The Present erschienen. Es handelt sich um das Solo-Projekt der Künstlerin und Produzentin Marine Eyes aka Cynthia Bernhard, die ihr Debüt im März letzten Jahres auf Stereoscenic Records veröffentlichte. Ihr könnt Euch möglicherweise auch durch [mein Interview mit ihr und Ihrem Mann James](/2021/10/awakened-souls/) an ihren Namen erinnern. Das gemeinsame Musikprojekt der beiden trägt den Namen awakening souls. Cynthia hat unter anderem auch bereits mit Künstler⋆innen wie [Zakè](/2022/05/zake-sound-space-variations/), 36, From [Overseas](/2020/04/from-overseas-interview/) und Pepo Galán zusammengearbeitet. Ihr neuestes Werk lebt von seinen Nature Sounds und dem harmonischen Spiel, mit dem sie Bilder von Wolken, Landschaften und Sonne erzeugt.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2724893815/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://pitp.bandcamp.com/album/chamomile">chamomile by marine eyes</a></iframe>
