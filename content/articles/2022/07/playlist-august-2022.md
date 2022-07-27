@@ -75,19 +75,19 @@ Matze überlässt die Math Rock Sparte sonst in der Regel lieber mir. Diesen Son
 ## Holy Fawn – "Dimensional Bleed" (Vorauskopplung vom Album "Dimensional Bleed")
 An dieser Stelle könnt Ihr ein wirklich episches Stück Post-Musik aus dem Hause Holy Fawn erleben. Es ist erst ein paar Tage alt und hat sich bei mir schon ziemlich tief eingeprägt. Ich teile an dieser Stelle einfach mal die Lyrics mit Euch, um das Format hier etwas aufzulockern.
 
-> i don't want to bleed
-> alone like this
-> wandering this dark forest
-> while I’m asleep
-> while i drift farther out
-> losing your scent
-> surrender to the blackness
-> while i am
-> watching everything growing
-> all the leaves
-> breathing forth
-> i feel like i am nothing
-> while they bloom
+> I don't want to bleed<br><br/>
+> Alone like this<br><br/>
+> Wandering this dark forest<br><br/>
+> While I’m asleep<br><br/>
+> While i drift farther out<br><br/>
+> Losing your scent<br><br/>
+> Surrender to the blackness<br><br/>
+> While I am<br><br/>
+> Watching everything growing<br><br/>
+> All the leaves<br><br/>
+> Breathing forth<br><br/>
+> I feel like I am nothing<br><br/>
+> While they bloom<br><br/>
 
 OK, ich gebe zu, locker-flockig ist "Dimensional Bleed" eher nicht. Eher düster. Und das ist gut so. Ich freue mich schon auf das für den 9. September angekündigte gleichnamige Album, von dem Ihr insgesamt übrigens bereits zwei Songs hören könnt. Nach Ihrer EP "The Black Moon" vom 17. Januar legt die Band aus Arizona nun dieses Jahr also noch ein Album obendrauf. So kann es doch weitergehen, oder?
 
