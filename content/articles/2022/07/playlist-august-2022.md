@@ -91,7 +91,7 @@ An dieser Stelle könnt Ihr ein wirklich episches Stück Post-Musik aus dem Haus
 
 OK, ich gebe zu, locker-flockig ist "Dimensional Bleed" eher nicht. Eher düster. Und das ist gut so. Ich freue mich schon auf das für den 9. September angekündigte gleichnamige Album, von dem Ihr insgesamt übrigens bereits zwei Songs hören könnt. Nach Ihrer EP "The Black Moon" vom 17. Januar legt die Band aus Arizona nun dieses Jahr also noch ein Album obendrauf. So kann es doch weitergehen, oder?
 
-<YouTube id="CSMM0Id9m" />
+<YouTube id="-CSMM0Id9mw" />
 
 ## Coheed and Cambria – "Window of the Waking Mind" vom Album "Vaxis II: A Window of the Waking Mind"
 
