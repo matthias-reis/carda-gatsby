@@ -73,7 +73,7 @@ Matze überlässt die Math-Rock Sparte sonst in der Regel lieber mir. Diesen Son
 <YouTube id="sYPHRfS9OO0" />
 
 ## Holy Fawn – "Dimensional Bleed" (Vorauskopplung vom Album "Dimensional Bleed")
-An dieser Stelle könnt Ihr ein wirklich episches Stück Post-Musik aus dem Hause Holy Fawn erleben. Es ist erst ein paar Tage alt und hat sich bei mir schon ziemlich tief eingeprägt. Ich teile an dieser Stelle einfach mal die Lyrics mit Euch, um das Format hier etwas aufzulockern.
+An dieser Stelle könnt Ihr ein wirklich episches Stück Post-Music aus dem Hause Holy Fawn erleben. Es ist erst ein paar Tage alt und hat sich bei mir schon ziemlich tief eingeprägt. Ich teile an dieser Stelle einfach mal die Lyrics mit Euch, um das Format hier etwas aufzulockern.
 
 > I don't want to bleed<br/>
 > Alone like this<br/>
