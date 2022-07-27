@@ -66,9 +66,9 @@ Alles ist also schön, bis auf uns. Menschen. Die Gedanken, die sich die Mitglie
 
 ## Giraffes? Giraffes! – "Wax Teeth" vom Album "Death Breath"
 
-Matze überlässt die Math Rock Sparte sonst in der Regel lieber mir. Diesen Song hat allerdings er ausgesucht:
+Matze überlässt die Math-Rock Sparte sonst in der Regel lieber mir. Diesen Song hat allerdings er ausgesucht:
 
-> "Ich bin eigentlich kein großer Math Rock Fan. Vielleicht habe ich Giraffes? Giraffes! darum trotz einiger Gelegenheiten auf Festivals noch nie live gesehen? Inzwischen weiß ich, was für ein Fehler es war, dieser Band keine Beachtung zu schenken. Das neu veröffentlichte Album ist eine großartige Mischung aus dem rohen Stil des frühen Post-Rocks, einigen Prog/Psychedelic Einlagen und klassischem Math Rock.  Hört Euch auf jeden Fall das ganze Album an. Es its sehr vielseitig."
+> "Ich bin eigentlich kein großer Math-Rock Fan. Vielleicht habe ich Giraffes? Giraffes! darum trotz einiger Gelegenheiten auf Festivals noch nie live gesehen? Inzwischen weiß ich, was für ein Fehler es war, dieser Band keine Beachtung zu schenken. Das neu veröffentlichte Album ist eine großartige Mischung aus dem rohen Stil des frühen Post-Rocks, einigen Prog/Psychedelic Einlagen und gutem Math-Rock.  Hört Euch auf jeden Fall das ganze Album an. Es ist sehr vielseitig."
 
 <YouTube id="sYPHRfS9OO0" />
 
