@@ -97,7 +97,7 @@ OK, ich gebe zu, locker-flockig ist "Dimensional Bleed" eher nicht. Eher düster
 
 Ähm, Coheed & Cambria haben was Neues! Matze erzählt Euch dazu was:
 
-> "Coheed & Cambria sind Storyteller. Sie liefern in der Regel keine Konzeptalben, sonder Konzeptalbenserien ab, manchmal sogar auch Begleitcomics dazu. Ihr Science Fiction Stil und ihre Proggige Emo-Musik ziehen bei mir immer. Das neue Album ist wieder außergewöhnlich und der Titelsong klingt wie ein schell geschnittener Trailer dirch alle "Szenen". Tempowechsel, Stimmungswechsel, fast musicalähnliche Passagen a la Queen und ein Anime-artiges Ende samt Schlusscredits alles hier zu finden."
+> "Coheed & Cambria sind echte Storyteller. Sie liefern in der Regel keine Konzeptalben, sondern Konzeptalben-Serien ab – manchmal sogar mit Begleitcomics. Ihr Science-Fiction-Stil und ihre proggige Emo-Musik ziehen bei mir immer. Das neue Album ist wieder außergewöhnlich und der Titelsong klingt wie ein schell geschnittener Trailer durch alle "Szenen". Tempowechsel, Stimmungswechsel, fast musicalähnliche Passagen a la Queen und ein Anime-artiges Ende samt Schluss-Credits – das alles findet Ihr auf dieser Platte."
 
 <YouTube id="WscFSf_OjHA" />
 
