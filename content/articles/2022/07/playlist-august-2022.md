@@ -103,7 +103,7 @@ OK, ich gebe zu, locker-flockig ist "Dimensional Bleed" eher nicht. Eher düster
 
 ## Lost in Kiev – "Solastalgia" (Vorauskopplung vom Album "Rupture")
 
-Manchmal ist es gar nicht so einfach, in Worte zu fassen, was Musik so alles auslösen und erzählen kann – vor allem, wenn sie ohne Lyrics auskommt. Genau so geht es mir mit der ersten Vorauskopplung vom für angekündigten neuen Lost in Kiev Album Rupture. Wie die Band zu ihrem Namen gekommen ist, erfahrt Ihr neben vielen anderen spannenden Details übrigens [in meinem Interview](/2020/07/lost-in-kiev-interview/). Mehr zum gesamten Album, das ich schon hören durfte, erzähle ich Euch in Kürze hier im Blog. So viel sei schon mal verraten: Ihr könnt Euch auf insgesamt neun Songs freuen.
+Manchmal ist es gar nicht so einfach, in Worte zu fassen, was Musik so alles auslösen und erzählen kann. Genau so geht es mir mit der ersten Vorauskopplung vom für angekündigten neuen Lost in Kiev Album Rupture. Wie die Band zu ihrem Namen gekommen ist, erfahrt Ihr neben vielen anderen spannenden Details übrigens [in meinem Interview](/2020/07/lost-in-kiev-interview/). Mehr zum gesamten Album, das ich schon hören durfte, erzähle ich Euch in Kürze hier im Blog. So viel sei schon mal verraten: Ihr könnt Euch auf insgesamt neun Songs freuen.
 
 <YouTube id="LbL7kZzlpcg" />
 
