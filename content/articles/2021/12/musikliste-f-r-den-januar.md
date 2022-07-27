@@ -2,7 +2,7 @@
 date: 2021-12-22T15:50:04.576Z
 slug: playlist-januar-2022
 typeName: Beitrag
-title: Musikliste für den Januar 2022
+title: Playlist Januar 2022
 subTitle: 12 Songs für den Start in 2022
 seoTitle: "Von Post-Rock bis Prog: 12 Songs für den Januar 2022"
 description: Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück –
