@@ -68,7 +68,7 @@ Alles ist also schön, bis auf uns. Menschen. Die Gedanken, die sich die Mitglie
 
 Matze überlässt die Math Rock Sparte sonst in der Regel lieber mir. Diesen Song hat allerdings er ausgesucht:
 
-> "Ich bin eigentlich nicht soder Math Rock Fan. Deshalb haben G? G! wir trotz einiger Gelegenheiten auf Festivals noch nie live gesehen. Was für ein Fehler, diese Band nicht auf dem Zettel zu haben. Das neu releaste Album ist die perfekte Mischung aus dem rohen Stil des frühen Post-Rock, einigen prog/Psychedelic Einlagen und klassischem Math Rock.  Hört Euch auf jeden Fall das ganze Album an. Es its sehr vielseitig."
+> "Ich bin eigentlich kein großer Math Rock Fan. Vielleicht habe ich Giraffes? Giraffes! darum trotz einiger Gelegenheiten auf Festivals noch nie live gesehen? Inzwischen weiß ich, was für ein Fehler es war, dieser Band keine Beachtung zu schenken. Das neu veröffentlichte Album ist eine großartige Mischung aus dem rohen Stil des frühen Post-Rock, einigen Prog/Psychedelic Einlagen und klassischem Math Rock.  Hört Euch auf jeden Fall das ganze Album an. Es its sehr vielseitig."
 
 <YouTube id="sYPHRfS9OO0" />
 
