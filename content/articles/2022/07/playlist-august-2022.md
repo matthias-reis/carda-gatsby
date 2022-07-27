@@ -111,7 +111,7 @@ Manchmal ist es gar nicht so einfach, in Worte zu fassen, was Musik so alles aus
 
 Matzes letztes Stück für diesen Monat kommt von Ştiu Nu Ştiu:
 
-> "Ich habe nachgeschaut: Im [März 2019](/2019/03/10-songs-fuer-den-april/) hab ich die Band entdeckt und Euch damals ihren Song 'Sibirien' vorgestellt. Jetzt ist ihr neues Album draußen, dass Ihr Euch ebenfalls unbedingt ganz anhören müsst. Das sage ich immer gerne bei Bands, die mir vorher nicht so ganz geläufig waren und die vielleicht etwas weniger Spotify-Downloads haben. Hier findet Ihr treibenden Prog Metal/Punk mit psychedelischem, hardcoreigem Gesang von Sängerin Billie Lindahl."
+> "Ich habe nachgeschaut: Im [März 2019](/2019/03/10-songs-fuer-den-april/) habe ich die Band entdeckt und Euch damals ihren Song 'Sibirien' vorgestellt. Jetzt ist ihr neues Album draußen, dass Ihr Euch ebenfalls unbedingt ganz anhören müsst. Ich weiß, das sage ich immer gerne bei Bands, die mir vorher nicht so ganz geläufig waren und die vielleicht etwas weniger Spotify-Downloads haben. Hier findet Ihr treibenden Prog Metal/Punk mit psychedelischem, Hardcore-Gesang von Sängerin Billie Lindahl."
 
 <YouTube id="l_bOVxoyJcM" />
 
