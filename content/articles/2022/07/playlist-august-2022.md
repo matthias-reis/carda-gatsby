@@ -52,7 +52,7 @@ Die fertigen Playlists für iTunes und Spotify findet Ihr wie immer im Anschluss
 
 Matze findet:
 
-> "The Mars Volta sind ganz oben auf meiner Wunschliste für Bandwiedervereinigungen. 2017 hat es ja schon mal mit deren noch legendäreren Vorband 'At the Drive-In' geklappt. Jetzt gib es endlich ein Lebenszeichen. Das besteht leider lediglich aus zwei Singles und eine Tour-Ankündigung. Ein Album ist noch nicht in Sicht Aber das kommt sicher noch. Von den beiden Singles habe ich den Sommerhit ausgewählt. "Blacklight Shine" ist der perfekte Soundtrack für einen 40-Grad-Tag. Das Video ist auch sehenswert, da der Song in eine sechsminütige Trommel- und Tanz-Performance übergeht."
+> "The Mars Volta sind ganz oben auf meiner Wunschliste für Bandwiedervereinigungen. 2017 hat es ja schon mal mit deren noch legendäreren Vorband 'At the Drive-In' geklappt. Jetzt gib es endlich ein Lebenszeichen. Das besteht leider lediglich aus zwei Singles und eine Tour-Ankündigung. Ein Album ist bisher noch nicht in Sicht, aber das kommt sicher noch. Von den beiden Singles habe ich den Sommerhit ausgewählt. "Blacklight Shine" ist der perfekte Soundtrack für einen 40-Grad-Tag. Das Video ist auch sehenswert, da der Song in eine sechsminütige Trommel- und Tanz-Performance übergeht."
 
 <YouTube id="rYAR6bpf85Q" />
 
