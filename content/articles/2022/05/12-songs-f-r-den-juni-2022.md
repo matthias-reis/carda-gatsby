@@ -2,7 +2,7 @@
 date: 2022-05-26T13:56:05.972Z
 slug: playlist-juni-2022
 typeName: Beitrag
-title: 12 Songs für den Juni 2022
+title: Playlist Juni 2022
 subTitle: Von Ambient bis Post-Hardcore
 seoTitle: 12 Songs für den Juni – von Ambient bis Post-Hardcore
 description: Die Playlist für den Monat Juni kommt mit 12 ganz besonderen
