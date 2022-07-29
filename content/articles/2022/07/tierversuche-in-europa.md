@@ -39,7 +39,7 @@ Innerhalb des Jahres 2019 wurden 9,3 Millionen (9.339.032) direkte Tierversuche 
 
 In 41 Prozent dieser 10,5 Millionen Fälle stuften die Forschenden das Leid der Tiere in den Versuchen als mäßig (3.404.878) oder schwer (959.639) ein. Was das für die Lebewesen unterschiedlichster Spezies bedeutet, ist nur schwer vorstellbar.
 
-Wie bereits in den Vorjahren, wurden die meisten Tests in Großbritannien (2 304 461; die UK war 2019 noch ein EU-Mitgliedstaat), in Deutschland (2 202 592) und in Frankreich (1 865 403) durchgeführt.
+Wie bereits in den Vorjahren, fanden die meisten Tests in Großbritannien (2 304 461; die UK war 2019 noch ein EU-Mitgliedstaat), in Deutschland (2 202 592) und in Frankreich (1 865 403) statt.
 
 2019 wurde ein schockierender Anstieg der LD50-Tests (Lethal Dose 50) an Mäusen um 19 Prozent auf 25.292 verzeichnet. 2018 waren es noch 21.313 gewesen. Bei diesen Tests geht es darum, die Dosis einer Substanz zu finden, die bei 50 Prozent der beteiligten Tiere zum Tod führt.
 
