@@ -35,7 +35,7 @@ Eine von über 100 Tierschutzgruppen in ganz Europa gegründete Europäische Bü
  
 Als EU-Bürger⋆innen könnt Ihr mit Eurer Unterschrift zur Abschaffung der nutzlosen Tierversuche beitragen. Die EBI ist ein formeller Mechanismus, der die EU beeinflussen kann, indem er die Kommission auffordert, neue Gesetze vorzuschlagen. Ihr könnt die Petition auf der Homepage von End Animal Testing unterzeichnen[^3].
 
-Innerhalb Jahr 2019 wurden es 9,3 Millionen (9.339.032) tatsächliche Tierversuche vorgenommen. Weitere 1,2 Millionen (1.207.059) Verfahren betrafen die Verwendung von Tieren mit einer schädlichen genetischen Mutation zur Schaffung oder Erhaltung von Kolonien genetisch veränderter Tiere (GA).
+Innerhalb des Jahres 2019 wurden 9,3 Millionen (9.339.032) direkte Tierversuche durchgeführt. Weitere 1,2 Millionen (1.207.059) Verfahren betrafen die Verwendung von Tieren mit einer schädlichen genetischen Mutation zur Schaffung oder Erhaltung von Kolonien genetisch veränderter Tiere (GA).
 
 In 41 Prozent dieser 10,5 Millionen Fälle stuften die Forschenden das Leid der Tiere in den Versuchen als mäßig (3.404.878) oder schwer (959.639) ein. Was das für die Lebewesen unterschiedlichster Spezies bedeutet, ist nur schwer vorstellbar.
 
