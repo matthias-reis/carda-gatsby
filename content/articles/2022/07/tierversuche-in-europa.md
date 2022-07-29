@@ -33,7 +33,7 @@ Trotz des wachsenden öffentlichen und politischen Widerstands gegen Tierversuch
 
 Die von über 100 Tierschutzgruppen in ganz Europa gegründete Europäische Bürgerinitiative (EBI), sammelte zwischenzeitlich über 800.000 Unterschriften gesammelt. Damit soll den Versuchen an Tieren innerhalb Europas um bis Ende August ein Ende gesetzt werden.
  
-EU-Bürger⋆innen können mit ihrer Unterschrift zur Abschaffung der nutzlosen Tierversuche beizutragen. Die EBI ist ein formeller Mechanismus, der die EU beeinflussen kann, indem er die Kommission auffordert, neue Gesetze vorzuschlagen. Auf der Homepage von End Animal Testing könnt ihr die Petition unterzeichnen[^3].
+Als EU-Bürger⋆innen könnt Ihr mit Eurer Unterschrift zur Abschaffung der nutzlosen Tierversuche beizutragen. Die EBI ist ein formeller Mechanismus, der die EU beeinflussen kann, indem er die Kommission auffordert, neue Gesetze vorzuschlagen. Ihr könnt die Petition auf der Homepage von End Animal Testing unterzeichnen[^3].
 
 Innerhalb Jahr 2019 wurden es 9,3 Millionen (9.339.032) tatsächliche Tierversuche vorgenommen. Weitere 1,2 Millionen (1.207.059) Verfahren betrafen die Verwendung von Tieren mit einer schädlichen genetischen Mutation zur Schaffung oder Erhaltung von Kolonien genetisch veränderter Tiere (GA).
 
