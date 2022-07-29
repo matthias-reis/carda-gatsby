@@ -58,4 +58,4 @@ Bild/Picture: [Cruelty Free International](https://crueltyfreeinternational.org/
 [^1]: [Cruelty Free International](https://crueltyfreeinternational.org/)
 [^2]: Zusammenfassender Bericht über die Statistiken zur Verwendung von Tieren zu wissenschaftlichen Zwecken in den Mitgliedstaaten der Europäischen Union und Norwegen im Jahr 2019 – [Teile A und B](https://ec.europa.eu/environment/chemicals/lab_animals/pdf/SWD2019_Part_A_and_B.pdf), [Teil C](https://ec.europa.eu/environment/chemicals/lab_animals/pdf/SWD2019_Part_C.pdf)
 [^3]: [End Animal Testing Petition](https://www.endanimaltesting.eu/)
-[^4] [Schätzungen von Cruelty Free Europe zufolge könnte pro Jahr allein in Europa das Leben von 750.000 Tieren gerettet werden, würde man diese zehn Tests, für die es anerkannte Tierversuchs-freie Alternativen gibt, einstellen](https://www.crueltyfreeeurope.org/)
+[^4]: [Schätzungen von Cruelty Free Europe zufolge könnte pro Jahr allein in Europa das Leben von 750.000 Tieren gerettet werden, würde man diese zehn Tests, für die es anerkannte Tierversuchs-freie Alternativen gibt, einstellen](https://www.crueltyfreeeurope.org/)
