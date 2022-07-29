@@ -51,7 +51,7 @@ In einer Cruelty Free Europe Umfrage aus dem Jahr 2020 stimmten fast drei Vierte
 
 Die Direktorin für Regierungs- und Regulierungsangelegenheiten von Cruelty Free Europe, Kerry Postlewhite, äußerte sich dazu wie folgt: 
 
-> "Die Zahlen der EU für 2019 zeigen, dass noch viel mehr getan werden muss, um die grausame Ausbeutung von Tieren in der Forschung und in Tests zu beenden. Trotz der großen Fortschritte bei der Entwicklung von Tierversuchs-freien Methoden und des eindeutigen Wunsches sowohl des Europäischen Parlaments als auch der Bürgerinnen und Bürger der EU-Mitgliedstaaten unterstreichen diese Zahlen die dringende Notwendigkeit von Veränderungen. Die Europäische Bürgerinitiative zur Beendigung von Tierversuchen in Europa ist daher von äußerster Wichtigkeit. Indem wir zusammenstehen und die Petition unterzeichnen[^3], können wir wirklich etwas für die Tiere in Europa bewirken und die unaufhaltsame Dynamik für Veränderungen anschieben." 
+> "Die Zahlen der EU für 2019 zeigen, dass noch viel mehr getan werden muss, um die grausame Ausbeutung von Tieren in der Forschung und in Versuchen zu beenden. Trotz der großen Fortschritte bei der Entwicklung von Tierversuchs-freien Methoden und des eindeutigen Wunsches sowohl des Europäischen Parlaments als auch der Bürgerinnen und Bürger der EU-Mitgliedstaaten unterstreichen diese Zahlen die dringende Notwendigkeit von Veränderungen. Die Europäische Bürgerinitiative zur Beendigung von Tierversuchen in Europa ist daher von äußerster Wichtigkeit. Indem wir zusammenstehen und die Petition unterzeichnen[^3], können wir wirklich etwas für die Tiere in Europa bewirken und die unaufhaltsame Dynamik für Veränderungen anschieben." 
 
 Bild/Picture: [Cruelty Free International](https://crueltyfreeinternational.org/)
 
