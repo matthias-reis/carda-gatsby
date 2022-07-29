@@ -31,7 +31,7 @@ Die Tierrechtsorganisation Cruelty Free International[^1] stellt nach der gerade
 
 Trotz des wachsenden öffentlichen und politischen Widerstands gegen Tierversuche in Europa wurden 2019 in den Labors der EU-Mitgliedstaaten über 10,5 Millionen Tiere verwendet. Gegenüber 2018 bedeutet dies einen Rückgang von gerade mal einem Prozent. 
 
-Die von über 100 Tierschutzgruppen in ganz Europa gegründete Europäische Bürgerinitiative (EBI), sammelte zwischenzeitlich über 800.000 Unterschriften gesammelt. Damit soll den Versuchen an Tieren innerhalb Europas um bis Ende August ein Ende gesetzt werden.
+Eine von über 100 Tierschutzgruppen in ganz Europa gegründete Europäische Bürgerinitiative (EBI), sammelte zwischenzeitlich über 800.000 Unterschriften. Damit soll den Versuchen an Tieren innerhalb Europas um bis Ende August ein Ende gesetzt werden.
  
 Als EU-Bürger⋆innen könnt Ihr mit Eurer Unterschrift zur Abschaffung der nutzlosen Tierversuche beizutragen. Die EBI ist ein formeller Mechanismus, der die EU beeinflussen kann, indem er die Kommission auffordert, neue Gesetze vorzuschlagen. Ihr könnt die Petition auf der Homepage von End Animal Testing unterzeichnen[^3].
 
