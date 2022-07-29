@@ -29,7 +29,9 @@ language: de
 
 Die Tierrechtsorganisation Cruelty Free International[^1] stellt nach der gerade erfolgten Veröffentlichung der EU-Tierversuchs-Statistiken für 2019[^2] verstärkte Anstrengungen durch die Europäische Kommission, um Tiere in europäischen Labors möglichst bald zu ersetzen. Die EU-Mitgliedsstaaten könnten damit diesen Sommer Geschichte schreiben. Die genauen Umstände gehen aus einer aktuellen Pressemitteilung der NGO hervor. Ich habe sie zusammengefasst und möchte sie an dieser Stelle mit Euch teilen.
 
-Trotz des wachsenden öffentlichen und politischen Widerstands gegen Tierversuche in Europa wurden 2019 in den Labors der EU-Mitgliedstaaten über 10,5 Millionen Tiere verwendet. Gegenüber 2018 bedeutet dies einen Rückgang von gerade mal einem Prozent. 
+Trotz des wachsenden öffentlichen und politischen Widerstands gegen Tierversuche in Europa wurden 2019 in den Labors der EU-Mitgliedstaaten über 10,5 Millionen Tiere verwendet. Gegenüber 2018 bedeutet dies einen Rückgang von gerade mal einem Prozent.
+
+## 100 Tierschutzgruppen haben sich gegen Tierversuche in Europa zusammengetan 
 
 Eine von über 100 Tierschutzgruppen in ganz Europa gegründete Europäische Bürgerinitiative (EBI), sammelte zwischenzeitlich über 800.000 Unterschriften. Damit soll den Versuchen an Tieren innerhalb Europas um bis Ende August ein Ende gesetzt werden.
  
@@ -43,11 +45,15 @@ Wie bereits in den Vorjahren, fanden die meisten Tests in Großbritannien (2 304
 
 2019 wurde ein schockierender Anstieg der LD50-Tests (Lethal Dose 50) an Mäusen um 19 Prozent auf 25.292 verzeichnet. 2018 waren es noch 21.313 gewesen. Bei diesen Tests geht es darum, die Dosis einer Substanz zu finden, die bei 50 Prozent der beteiligten Tiere zum Tod führt.
 
+## Grausame Tierversuchs-Methoden
+
 Die grausame und archaische Aszites-Methode (auch Antikörper-Methode genannt) zur Herstellung von Antikörpern, die laut den Wissenschaftler⋆innen das schwerste Leid verursacht, wurde 37.477 Mal angewendet. Bei den Hautreizungstests lässt sich gegenüber dem Vorjahr ein Rückgang um 21 Prozent verzeichnen, bei den Augenreizungstests sind es 46 Prozent. Der Rückgang dieser Versuche, für seit Jahren Ersatzmethoden ohne Tierversuche möglich sind[^4], ist zwar ein Fortschritt, es gibt jedoch keine Entschuldigung dafür, dass sie noch immer durchgeführt werden.
 
 Das EU-Parlament stimmte im September 2021 mit überwältigender Mehrheit (667 zu 4) für einen Aktionsplan zur Beschleunigung des Übergangs von der Verwendung von Tieren in der Forschung und bei Versuchen zu einer Human-relevanten Wissenschaft in der gesamten EU. Der daraus hervorgegangene Beschluss forderte einen klaren und ehrgeiziger Zeitplan, Reduktionsziele sowie Meilensteine, um Anreize für echten Fortschritt zu schaffen.
  
 In einer Cruelty Free Europe Umfrage aus dem Jahr 2020 stimmten fast drei Viertel (72 Prozent) der Erwachsenen in den EU-Mitgliedstaaten für die Festlegung verbindliche Ziele und Fristen für den Ausstieg aus den Tierversuchen durch die EU.
+
+## Ist ein Ende der Tierversuche in Europa in Sicht?
 
 Die Direktorin für Regierungs- und Regulierungsangelegenheiten von Cruelty Free Europe, Kerry Postlewhite, äußerte sich dazu wie folgt: 
 
