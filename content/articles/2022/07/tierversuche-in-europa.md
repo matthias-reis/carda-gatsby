@@ -27,7 +27,7 @@ language: de
 ---
 **Die neuesten Auswertungen der Zahlen zeigen kaum einen Rückgang der Tierversuche in Europa. Öffentlicher Widerstand gegen die Tests wird ignoriert, während in der EU weiterhin über 10 Millionen Tierversuche pro Jahr durchgeführt werden.**
 
-Die Tierrechtsorganisation Cruelty Free International[^1] stellt nach der gerade erfolgten Veröffentlichung der EU-Tierversuchs-Statistiken für 2019[^2] verstärkte Anstrengungen durch die Europäische Kommission, um Tiere in europäischen Labors möglichst bald zu ersetzen. Die EU-Mitgliedsstaaten könnten damit diesen Sommer Geschichte schreiben. Die genauen Umstände gehen aus einer aktuellen Pressemitteilung der NGO hervor.
+Die Tierrechtsorganisation Cruelty Free International[^1] stellt nach der gerade erfolgten Veröffentlichung der EU-Tierversuchs-Statistiken für 2019[^2] verstärkte Anstrengungen durch die Europäische Kommission, um Tiere in europäischen Labors möglichst bald zu ersetzen. Die EU-Mitgliedsstaaten könnten damit diesen Sommer Geschichte schreiben. Die genauen Umstände gehen aus einer aktuellen Pressemitteilung der NGO hervor. Ich habe sie zusammengefasst und möchte sie an dieser Stelle mit Euch teilen.
 
 Trotz des wachsenden öffentlichen und politischen Widerstands gegen Tierversuche in Europa wurden 2019 in den Labors der EU-Mitgliedstaaten über 10,5 Millionen Tiere verwendet. Gegenüber 2018 bedeutet dies einen Rückgang von gerade mal einem Prozent. 
 
