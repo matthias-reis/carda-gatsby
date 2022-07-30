@@ -2,7 +2,7 @@
 title: Das ist Rock 'n' Roll vegan
 seoTitle: Über Anne bloggt cardamonchai - Rock 'n' Roll vegan
 slug: das-ist-rocknroll-vegan
-path: /cardamonchai-blick-hinter-die-kulissen/
+path: /das-ist-rocknroll-vegan/
 fileName: 2010-04---das-ist-rocknroll-vegan.md
 description: Wer schon immer mal einen Blick hinter die Kulissen von Anne bloggt cardamonchai werfen wollte, hat hier die Chance, mehr über meine Arbeit zu erfahren.
 excerpt: Wer schon immer mal einen Blick hinter die Kulissen von Anne bloggt cardamonchai werfen wollte, hat hier die Chance, mehr über meine Arbeit zu erfahren.
