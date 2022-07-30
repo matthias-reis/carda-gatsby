@@ -85,6 +85,6 @@ Seit 2017 arbeitet sie für die Plattform Seven Cooks[^2], für die sie nicht nu
 
 [^2]: [Seven Cooks](https://www.sevencooks.com/de)
 
-[^3]: [Lena Marie Radu im Netz](www.vegane-kochschule-augsburg.de)
+[^3]: [Lena Marie Radu im Netz](https://www.vegane-kochschule-augsburg.de)
 
 [^4]: [Ventil Vegan](https://www.ventil-vegan.de/)
