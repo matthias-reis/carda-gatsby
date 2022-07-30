@@ -2,7 +2,7 @@
 title: Mein Mediakit
 seoTitle: Mediakit - Meine Seitendaten für Kooperationen und Projekte
 slug: mein-mediakit
-path: /mediakit/
+path: /mein-mediakit/
 fileName: 2017-02---mein-mediakit.md
 description: Da ich in letzter Zeit immer wieder nach meinem Mediakit gefragt werde, habe ich mir jetzt mal die Zeit genommen und alle wichtigen Daten zusammengefasst.
 excerpt: Da ich in letzter Zeit immer wieder nach meinem Mediakit gefragt werde, habe ich mir jetzt mal die Zeit genommen und alle wichtigen Daten zusammengefasst.

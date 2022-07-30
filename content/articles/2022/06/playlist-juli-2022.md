@@ -103,7 +103,7 @@ Ihren Soundtrack zum Film "My Story, The Burak Story" haben Mono am 27. Mai ver�
 
 # Jamie Dean – "Mutualism" (Single)
 
-"God is an Astronaut" Mitglied und Multi-Instrumentalist Jamie Dean hat am 17. Juni seine neue Single "Mutualism" veröffentlicht. Das Stück erzählt die Geschichte des Mutualismus – der Fähigkeit von Lebewesen, Empathie zu empfinden und Wechselbeziehungen einzugehen, die ihnen das Leben leichter macht. Wundervolle 5:20 erwarten Euch – ein gefühlvolles Klangbad mit Gänsehautfaktor – sogar inklusive Herzklopfen.
+"God Is An Astronaut" Mitglied und Multi-Instrumentalist Jamie Dean hat am 17. Juni seine neue Single "Mutualism" veröffentlicht. Das Stück erzählt die Geschichte des Mutualismus – der Fähigkeit von Lebewesen, Empathie zu empfinden und Wechselbeziehungen einzugehen, die ihnen das Leben leichter macht. Wundervolle 5:20 erwarten Euch – ein gefühlvolles Klangbad mit Gänsehautfaktor – sogar inklusive Herzklopfen.
 
 <YouTube id="lMwPehhPVp8" />
 
