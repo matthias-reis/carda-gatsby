@@ -60,7 +60,7 @@ Bakuchiol regt die Kollagen-Synthese der Haut an. Das soll für Spannkraft sorge
 
 ## Hyaluronsäure
 
-![Das Bakuchiol Face Serum von MICARAA liegt in einem beigen MICARAA Umverpackungskarton auf einer Postkarte mit den Worten "Give yourself a moment for sustainability".](https://storage.googleapis.com/cardamonchai-media/2022-07-30/2022-07-18-micaraa-09-jpg-imagine-d8d8d8_b6b7b2_2048_1536/640.webp "Das Bakuchiol Face Serum von MICARAA")
+![Das Bakuchiol Face Serum von MICARAA liegt in einer dunkelbraunen MICARAA Flasche auf einer Postkarte mit den Worten "Give yourself a moment for sustainability".](https://storage.googleapis.com/cardamonchai-media/2022-07-30/2022-07-18-micaraa-10-jpg-imagine-d8d8d8_a6abb4_2048_1536/640.webp "Das Bakuchiol Face Serum von MICARAA")
 
 Hyaluron ist ein körpereigener Wasserspeicher. Bei Personen mit einem etwas trockeneren Hautbild kann dieser nicht so stark ausgeprägt sein. Bei reiferer Haut bilden sich die Hyaluronsäure und auch das Kollagen nach und nach zurück. Der Haut fällt es dann schwerer, Feuchtigkeit zu binden. Die Kombination aus hoch- und niedermolekularen [Hyaluronsäure im Bakuchiol Serum](https://tidd.ly/3bcdlnL) sollen dabei helfen, den Teint wieder strahlen zu lassen und trockenen Stellen sowie ersten Anzeichen von Hautalterung entgegenwirken.
 
