@@ -2,10 +2,10 @@
 date: 2013-06-03T15:50:56.000Z
 slug: die-post-ist-da-neue-schallplatten-in-meiner-sammlung
 path: /2013/06/die-post-ist-da-neue-schallplatten-in-meiner-sammlung/
-title: Die Post ist da!
-seoTitle: Die Post ist da!
-ogTitle: Die Post ist da!
-description: ''
+title: Neue Schallplatten in meiner Sammlung
+seoTitle: Neue Schallplatten in meiner Sammlung
+ogTitle: Neue Schallplatten in meiner Sammlung
+description: Bereits letzte Woche Mittwoch hatte der Schallplattenhändler meines Vertrauens ein Paket für mich aufgegeben.
 excerpt: Bereits letzte Woche Mittwoch hatte der Schallplattenhändler meines Vertrauens ein Paket für mich aufgegeben.
 fileName: 2013-06---die-post-ist-da.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__m.jpg
@@ -54,7 +54,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Neue Schallplatten in meiner Sammlung
+subTitle: Die Post ist da
 ---
 
 **Bereits letzte Woche Mittwoch hatte der Schallplattenhändler meines Vertrauens ein Paket für mich aufgegeben. Vielleicht haben ja einige von Euch auf Twitter mitverfolgt, was für eine spannende Reise es hinter sich hat.**

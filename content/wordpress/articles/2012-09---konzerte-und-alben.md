@@ -5,7 +5,7 @@ path: /2012/09/konzerte-und-alben/
 title: Konzerte und Alben
 seoTitle: Konzerte und Alben
 ogTitle: Konzerte und Alben
-description: ''
+description: Heute ist ein guter Tag. Ich freue mich auf tolle, neue Musik. Leider hat das Versandhaus bei der Bearbeitung meiner Bestellung so einiges durcheinander gebracht.
 excerpt: Heute ist ein guter Tag. Ich freue mich auf tolle, neue Musik. Leider hat das Versandhaus bei der Bearbeitung meiner Bestellung so einiges durcheinander gebracht.
 fileName: 2012-09---konzerte-und-alben.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_09_p7090053-e1587460346204__m.jpg

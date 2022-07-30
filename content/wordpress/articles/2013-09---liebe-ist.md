@@ -5,7 +5,7 @@ path: /2013/09/von-guten-freunden-und-fotos/
 title: Liebe ist
 seoTitle: Liebe ist
 ogTitle: Liebe ist
-description: ''
+description: Liebe ist, wenn Du dem Internet erzählst, dass es Deinem Kater schlecht geht und Twitter Dir Eulen schickt.
 excerpt: Liebe ist, wenn Du dem Internet erzählst, dass es Deinem Kater schlecht geht und Twitter Dir Eulen schickt.
 fileName: 2013-09---liebe-ist.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_img_7731__m.jpg

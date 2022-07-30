@@ -5,7 +5,7 @@ path: /2013/09/von-wut-und-stolz/
 title: Von Wut und Stolz
 seoTitle: Von Wut und Stolz
 ogTitle: Von Wut und Stolz
-description: ''
+description: Sechs Tage ist es her, seit ich das letzte Mal berichtet habe. Das bedeutet, dass ich seit sieben Tagen nicht mehr geraucht habe.
 excerpt: Sechs Tage ist es her, seit ich das letzte Mal berichtet habe. Das bedeutet, dass ich seit sieben Tagen nicht mehr geraucht habe.
 fileName: 2013-09---von-wut-und-stolz.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_9609956388_0b1b3d5092_o__m.jpg
