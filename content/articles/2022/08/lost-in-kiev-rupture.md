@@ -45,7 +45,7 @@ Lost in Kiev blicken inzwischen auf über zehn Jahre Bandgeschichte zurück, in 
 
 Mit ihren Alben erzählen Lost in Kiev gerne ihre persönlichen Geschichten. Während es auf "Persona" um die wachsende Macht künstlicher Intelligenz ging, dreht sich dieses Mal alles um die Gefühle der Bandmitglieder zu den extremen Umweltveränderungen, die überall auf der Welt immer spürbarer werden. "Existentieller Stress, ausgelöst durch eine Veränderung der äußeren Umstände" – so lautet die Bedeutung für "Sostalgia".
 
-Die Thematik der Songs ist jedoch längst nicht der einzige Grund, warum das Album perfekt ins Jahr 2022 passt. Oder, noch mehr eigentlich: Wir sollten dieses Jahr auf keinen Fall auf diese 52 Minuten, unterteilt in neun Songs, verzichten. Die Lyrics aus dem zweiten Song "Prison of Mind", das Lost in Kiev gemeinsam mit Loïc Rossetti von [The Ocean](/2020/09/the-ocean-robin-staps-interview/) eingespielt haben, fassen schon ziemlich genau in Worte, auf was sich die Menschheit besinnen sollte.
+Die Thematik der Songs ist jedoch längst nicht der einzige Grund, warum das Album perfekt in 2022 passt. Oder, noch mehr eigentlich: Wir sollten dieses Jahr auf keinen Fall auf diese 52 Minuten, unterteilt in neun Songs, verzichten. Die Lyrics aus dem zweiten Song "Prison of Mind", das Lost in Kiev gemeinsam mit Loïc Rossetti von [The Ocean](/2020/09/the-ocean-robin-staps-interview/) eingespielt haben, fassen schon ziemlich genau in Worte, auf was sich die Menschheit besinnen sollte.
 
 > "Find the reason why we shouldn't fight"
 
