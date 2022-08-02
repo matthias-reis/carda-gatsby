@@ -35,7 +35,7 @@ languageLink: /2022/08/lost-in-kiev-rupture/
 ---
 **Lost in Kiev are planning to release their new album "Rupture" on October 7th. Pre-orders will be available from August 4th. I have already listened to it and advise you to consider buying it.**
 
-I shared the first pre-released song, "Solastalgia," with you on my August music list, which is no reason not to share it with you again in this article.  I think the band made an excellent choice for their fans' first contact with their record, as it gives a beautiful foretaste of the complete work.
+I showed you the first pre-released song, "Solastalgia," in my August music list, which is no reason not to share it with you again in this article. I think the band made an excellent choice for their fans' first contact with their record, as it gives a beautiful foretaste of the complete work.
 
 Lost in Kiev can now look back on more than ten years of band history, during which they have released post-rock with their very personal signature. I saw them live for the first time a few years ago at the DUNK!festival in Belgium. Since then, their music hasn't let me go. In my [interview](/2020/07/lost-in-kiev-interview-en/) some time ago, they told me some of their band secrets. [Have a read, it's worth it](/2020/07/lost-in-kiev-interview/).
 
