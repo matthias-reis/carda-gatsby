@@ -57,7 +57,7 @@ On their fourth studio album, the Paris-based musicians perfected their characte
 
 ![Lost in Kiev – "Rupture"](https://storage.googleapis.com/cardamonchai-media/2022-08-02/lost-in-kiev-rupture-2-png-imagine-f8f8f8_b8b8b3_800_800/640.webp "Lost in Kiev – \"Rupture\"")
 
-The pandemic years have not passed, Lost in Kiev without a trace. But that hardly makes the band sound more pensive or brooding. On the contrary, their sound structures are even more well-considered, which results in an impressively precise picture of our time.
+As for all of us, the pandemic years have not passed, Lost in Kiev without a trace. But that hardly makes the band sound more pensive or brooding. On the contrary, their sound structures are even more well-considered, which results in an impressively precise picture of our time.
 
 Imaginative, playful, and permeated with gloomy clarity – that's how I'd describe "Rupture" in a nutshell. The band's fandom of science fiction, cyberpunk, and dystopian future fantasies is palpable at every moment. Futuristic keyboard sounds weave a unifying thread through the album's overall concept.
 
