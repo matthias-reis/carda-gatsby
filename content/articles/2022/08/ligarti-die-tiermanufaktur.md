@@ -58,7 +58,7 @@ Falls Ihr in naher Zukunft erst mal keine Zeit für eine Reise habt, bleibt Euch
 
 ## Mein T-Shirt von der Tiermanufaktur Ligarti
 
-Mein Ligarti T-Shirt aus Bio-Baumwolle gehört übrigens schon jetzt zu meinen absoluten Lieblings-Kleidungsstücken. Ich bin begeistert von den Origami-Schwänen, die sich nach und nach in lebendige Schwäne verwandeln. Der Stoff ist schön weich und ich kann es zu Röcken und Hosen kombinieren.
+Mein Ligarti T-Shirt aus Bio-Baumwolle gehört übrigens schon jetzt zu meinen absoluten Lieblings-Kleidungsstücken. Ich bin begeistert von den Origami-Schwänen, die sich nach und nach in lebendige Schwäne verwandeln. Ich kann es zu Röcken und Hosen kombinieren und der Stoff ist angenehm weich.
 
 Das Shirt kommt in Unisex-Größen. Ich trage auf den Bildern Größe M. Fünf Prozent der Verkaufserlöse gehen an Umwelt- und Sozialprojekte. Jedes T-Shirt wird auf Auftrag frisch gedruckt. Bei 30 Grad könnt Ihr es ganz einfach in der Maschine waschen.
 
