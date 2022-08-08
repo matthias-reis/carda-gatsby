@@ -32,7 +32,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
-Ligarti – das sind im Kern Hanna, Alex und Sami. Die drei haben die Tiermanufaktur gegründet und verkaufen handgemachte Kunst, die sie auf die unterschiedlichsten Objekte drucken – wie zum Beispiel T-Shirts. Ich habe mir das Start-up jetzt mal angeschaut und inzwischen selbst eines davon im Schrank.
+**Ligarti – das sind im Kern Hanna, Alex und Sami. Die drei haben die Tiermanufaktur gegründet und verkaufen handgemachte Kunst, die sie auf die unterschiedlichsten Objekte drucken – wie zum Beispiel T-Shirts. Ich habe mir das Start-up jetzt mal angeschaut und inzwischen selbst eines davon im Schrank.**
 
 Hanna ist schon ihr ganzes Leben lang Künstlerin. Seit sie denken kann, faszinieren sie besonders Tiere. Neben ihrer Malerei bedruckte sie auch schon vor Ligarti Dinge wie T-Shirts und verkaufte sie unter anderem bei Straßenfesten. Dort lernte sie dann auch Alex kennen. Die beiden gründeten zunächst Animal Hoarding. Hinter diesem Namen steht Hannas Tierwelt, die die beiden auf T-Shirts, Postkarten und Drucken verkauften.
 
