@@ -46,7 +46,7 @@ Der Name ist eine Kombination aus Hannas Nachnamen Ligarti und dem englischen W
 
 > "Wir wollen kunstvolle und wertige Dinge erschaffen, an denen sich die Menschen immer wieder erfreuen können," 
 
-berichtete mir Alex und ich finde: Das Konzept geht auf. Ich meine, schaut Euch mal den süßen Tukan-Kühlschrank-Magneten auf meinen Bildern an. Großartig, oder? Diese Liebe fürs Detail setzt sich im Artwork auf dem T-Shirt und bei der hübschen Postkarte mit dem Yoga-Silberfuchs fort – und auf den vielen anderen Produkten, die Ihr im Ligarti Onlineshop findet. Auch den gibt es nämlich inzwischen und das Stöbern dort ist ein echter Genuss.
+berichtete mir Alex und ich finde: Das Konzept geht auf. Ich meine, schaut Euch mal den süßen Tukan-Kühlschrank-Magneten auf meinen Bildern an. Großartig, oder? [Bei Ligarti findet Ihr noch viele weitere tolle Motive](https://www.awin1.com/cread.php?awinmid=29319&awinaffid=632580&ued=https%3A%2F%2Fligarti.com%2Fcollections%2Fmagneten). Diese Liebe fürs Detail setzt sich im Artwork auf dem T-Shirt und bei der hübschen [Postkarte](https://ligarti.com/collections/postkarten) mit dem Yoga-Silberfuchs fort – und auf den vielen anderen Produkten, die Ihr [im Ligarti Onlineshop](https://tidd.ly/3QqXiRJ) findet. Auch den gibt es nämlich inzwischen und das Stöbern dort ist ein echter Genuss.
 
 Kein Wunder: Hanna arbeitet mit viel Feingefühl und bringt filigrane Vogelfedern genauso gekonnt zu Papier wie abstrakte Welten. Sie gestaltet die unterschiedlichsten Stile und verbindet sie miteinander. Im Mittelpunkt stehen dabei immer die Tiere.
 
@@ -54,7 +54,7 @@ Kein Wunder: Hanna arbeitet mit viel Feingefühl und bringt filigrane Vogelfeder
 
 Und hier kommt noch ein Geheimtipp für Euren nächsten Wuppertal-Besuch: Schaut dort unbedingt im Ligarti Tiermanufaktur Store vorbei – es lohnt sich wirklich sehr!  Ihr findet dort neben Tassen und Bambus-Postkarten mit Hannas Kunst darauf auch wundervolle Kunstdrucke, Fliesen und viele weitere schöne Dinge. Ihr seid aus Wuppertal und irgendwann weggezogen? In der "Heim-W-Ecke" halten die Ligartis allerlei Schönes mit Wuppertal-Bezug für Euch bereit. Im Laden könnt Ihr übrigens auch direkt einen Kaffee genießen. Klingt gut, oder?
 
-Falls Ihr in naher Zukunft erst mal keine Zeit für eine Reise habt, bleibt Euch natürlich immer noch der Onlineshop der Tiermanufaktur. Ich wünsche Euch viel Spaß beim Stöbern! Alle Motive hat Hanna selbst gestaltet. Die Produkte stellt Ligarti entweder selbst her oder arbeitet mit Partner*innen innerhalb Europas zusammen. Der Versand erfolgt klimaneutral.
+Falls Ihr in naher Zukunft erst mal keine Zeit für eine Reise habt, bleibt Euch natürlich immer noch [der Onlineshop der Tiermanufaktur](https://tidd.ly/3QqXiRJ). Ich wünsche Euch viel Spaß beim Stöbern! Alle Motive hat Hanna selbst gestaltet. Die Produkte stellt Ligarti entweder selbst her oder arbeitet mit Partner*innen innerhalb Europas zusammen. Der Versand erfolgt klimaneutral.
 
 ## Mein T-Shirt von der Tiermanufaktur Ligarti
 
@@ -62,7 +62,9 @@ Mein Ligarti T-Shirt aus Bio-Baumwolle gehört übrigens schon jetzt zu meinen a
 
 Das Shirt kommt in Unisex-Größen. Ich trage auf den Bildern Größe M. Fünf Prozent der Verkaufserlöse gehen an Umwelt- und Sozialprojekte. Jedes T-Shirt wird auf Auftrag frisch gedruckt. Bei 30 Grad könnt Ihr es ganz einfach in der Maschine waschen.
 
-Es ist von guter Qualität, passt perfekt und der Aufdruck kommt sehr gut raus. Wie alle Textilien von Ligarti (neben T-Shirts gibt es auch Schwammtücher, Geschirrtücher, Kissen, Portemonnaies und Jutebeutel) ist es selbstverständlich komplett vegan und fair produziert.
+Es ist von guter Qualität, passt perfekt und der Aufdruck kommt sehr gut raus. Wie alle Textilien von Ligarti (neben T-Shirts gibt es auch [Naturschwammtücher](https://tidd.ly/3vMCbS3), Geschirrtücher, [Kissen](https://tidd.ly/3zHowNm), [Portemonnaies](https://tidd.ly/3PmgDmp) und [Jutebeutel](https://tidd.ly/3A1YKom)) ist es selbstverständlich komplett vegan und fair produziert.
+
+Aber, wie gesagt: Schaut am besten einfach mal rein. Falls Ihr auf der Suche nach kleinen Geschenken für Eure Lieben oder Euch selbst seid, werdet Ihr hier auf jeden Fall fündig. Vom [Kunstdruck](https://tidd.ly/3BPmzRv) bis zum [Windlicht](https://tidd.ly/3vNmJVM) findet Ihr hier wirklich alles – mit garantiert viel Liebe zum Tier und zum Detail.
 
 <Gallery name="ligarti-2" />
 
