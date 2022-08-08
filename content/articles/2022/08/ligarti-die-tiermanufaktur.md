@@ -46,7 +46,7 @@ Der Name ist eine Kombination aus Hannas Nachnamen Ligarti und dem englischen W
 
 > "Wir wollen kunstvolle und wertige Dinge erschaffen, an denen sich die Menschen immer wieder erfreuen können," 
 
-berichtete mir Alex und ich finde: Das Konzept geht auf. Ich meine, schaut Euch mal den süßen Tukan-Kühlschrank-Magneten auf meinen Bildern an. Großartig, oder? Diese Liebe fürs Detail setzt sich im Artwork auf dem T-Shirt fort und der hübschen Postkarte mit dem Yoga-Silberfuchs fort – und auf den vielen anderen Produkten, die Ihr im Ligarti Onlineshop findet. Auch den gibt es nämlich inzwischen und das Stöbern ist ein echter Genuss.
+berichtete mir Alex und ich finde: Das Konzept geht auf. Ich meine, schaut Euch mal den süßen Tukan-Kühlschrank-Magneten auf meinen Bildern an. Großartig, oder? Diese Liebe fürs Detail setzt sich im Artwork auf dem T-Shirt und bei der hübschen Postkarte mit dem Yoga-Silberfuchs fort – und auf den vielen anderen Produkten, die Ihr im Ligarti Onlineshop findet. Auch den gibt es nämlich inzwischen und das Stöbern dort ist ein echter Genuss.
 
 ## Lokaler Bezug zu Wuppertal
 
