@@ -62,7 +62,7 @@ Mein Ligarti T-Shirt aus Bio-Baumwolle gehört übrigens schon jetzt zu meinen a
 
 Das Shirt kommt in Unisex-Größen. Ich trage auf den Bildern Größe M. Fünf Prozent der Verkaufserlöse gehen an Umwelt- und Sozialprojekte. Jedes T-Shirt wird auf Auftrag frisch gedruckt. Bei 30 Grad könnt Ihr es ganz einfach in der Maschine waschen.
 
-Es ist von guter Qualität, passt perfekt und der Aufdruck ist einfach nur großartig. Wie alle Textilien von Ligarti (neben T-Shirts gibt es auch Schwammtücher, Geschirrtücher, Kissen, Portemonnaies und Jutebeutel) ist es selbstverständlich komplett vegan und fair produziert.
+Es ist von guter Qualität, passt perfekt und der Aufdruck kommt sehr gut raus. Wie alle Textilien von Ligarti (neben T-Shirts gibt es auch Schwammtücher, Geschirrtücher, Kissen, Portemonnaies und Jutebeutel) ist es selbstverständlich komplett vegan und fair produziert.
 
 <Gallery name="ligarti-2" />
 
