@@ -42,7 +42,7 @@ Hanna ist schon ihr ganzes Leben lang Künstlerin. Seit sie denken kann, faszini
 
 Schon nach den ersten Messebesuchen stelle sich heraus: Es sollte mehr aus ihrem Projekt werden. Nach einigen Umwegen und Veränderungen der Lebensumstände, die Hanna mit ihrem Surfbrett nach Portugal führten und Alex nach Spanien, trat eines Tages Sami in ihr Leben und schloss sich ihrem Start-up an. Er hatte selbst lange Jahre in Alex damaliger Heimat Valenica gelebt und als Model viele Länder bereist. Die Idee führte alle drei zurück nach Wuppertal, wo Animal Hording schließlich zu Ligarti wurde.
 
-Der Name ist eine Kombination aus Hannas Nachnamen Ligarti und dem englischen Wort für Kunst – also Art. Das Projekt soll nach und nach Hannas Kunstwelt auf hochwertige, handgefertigte Produkte bringen. Massenproduktion kommt für das Dreiergespann nicht infrage.
+Der Name ist eine Kombination aus Hannas Nachnamen Ligarti und dem englischen Wort für Kunst – also "Art". Das Projekt soll nach und nach Hannas Kunstwelt auf hochwertige, handgefertigte Produkte bringen. Massenproduktion kommt für das Dreiergespann nicht infrage.
 
 > "Wir wollen kunstvolle und wertige Dinge erschaffen, an denen sich die Menschen immer wieder erfreuen können," 
 
