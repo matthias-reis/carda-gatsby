@@ -48,15 +48,15 @@ Der Name ist eine Kombination aus Hannas Nachnamen Ligarti und dem englischen W
 
 berichtete mir Alex und ich finde: Das Konzept geht auf. Ich meine, schaut Euch mal den süßen Tukan-Kühlschrank-Magneten auf meinen Bildern an. Großartig, oder? Diese Liebe fürs Detail setzt sich im Artwork auf dem T-Shirt und bei der hübschen Postkarte mit dem Yoga-Silberfuchs fort – und auf den vielen anderen Produkten, die Ihr im Ligarti Onlineshop findet. Auch den gibt es nämlich inzwischen und das Stöbern dort ist ein echter Genuss.
 
-## Lokaler Bezug zu Wuppertal
-
 Kein Wunder: Hanna arbeitet mit viel Feingefühl und bringt filigrane Vogelfedern genauso gekonnt zu Papier wie abstrakte Welten. Sie gestaltet die unterschiedlichsten Stile und verbindet sie miteinander. Im Mittelpunkt stehen dabei immer die Tiere.
+
+## Lokaler Bezug zu Wuppertal
 
 Und hier kommt noch ein Geheimtipp für Euren nächsten Wuppertal-Besuch: Schaut dort unbedingt im Ligarti Tiermanufaktur Store vorbei – es lohnt sich wirklich sehr!  Ihr findet dort neben Tassen und Bambus-Postkarten mit Hannas Kunst darauf auch wundervolle Kunstdrucke, Fliesen und viele weitere schöne Dinge. Ihr seid aus Wuppertal und irgendwann weggezogen? In der Heim-W-Ecke halten die Ligartis allerlei Schönes mit Wuppertal-Bezug für Euch bereit. Im Laden könnt Ihr übrigens auch direkt einen Kaffee genießen. Klingt gut, oder?
 
-## Mein T-Shirt von der Tiermanufaktur Ligarti
-
 Falls Ihr in naher Zukunft erst mal keine Zeit für eine Reise habt, bleibt Euch natürlich immer noch der Onlineshop der Tiermanufaktur. Ich wünsche Euch viel Spaß beim Stöbern! Alle Motive hat Hanna selbst gestaltet. Die Produkte stellt Ligarti entweder selbst her oder arbeitet mit Partner*innen innerhalb Europas zusammen. Der Versand erfolgt klimaneutral.
+
+## Mein T-Shirt von der Tiermanufaktur Ligarti
 
 Mein Ligarti T-Shirt aus Bio-Baumwolle gehört übrigens schon jetzt zu meinen absoluten Lieblings-Kleidungsstücken. Ich bin begeistert von den Origami-Schwänen, die sich nach und nach in lebendige Schwäne verwandeln. Der Stoff ist schön weich und ich kann es zu Röcken und Hosen kombinieren.
 
