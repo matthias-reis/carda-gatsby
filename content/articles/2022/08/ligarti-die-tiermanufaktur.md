@@ -52,7 +52,7 @@ Kein Wunder: Hanna arbeitet mit viel Feingefühl und bringt filigrane Vogelfeder
 
 ## Lokaler Bezug zu Wuppertal
 
-Und hier kommt noch ein Geheimtipp für Euren nächsten Wuppertal-Besuch: Schaut dort unbedingt im Ligarti Tiermanufaktur Store vorbei – es lohnt sich wirklich sehr!  Ihr findet dort neben Tassen und Bambus-Postkarten mit Hannas Kunst darauf auch wundervolle Kunstdrucke, Fliesen und viele weitere schöne Dinge. Ihr seid aus Wuppertal und irgendwann weggezogen? In der Heim-W-Ecke halten die Ligartis allerlei Schönes mit Wuppertal-Bezug für Euch bereit. Im Laden könnt Ihr übrigens auch direkt einen Kaffee genießen. Klingt gut, oder?
+Und hier kommt noch ein Geheimtipp für Euren nächsten Wuppertal-Besuch: Schaut dort unbedingt im Ligarti Tiermanufaktur Store vorbei – es lohnt sich wirklich sehr!  Ihr findet dort neben Tassen und Bambus-Postkarten mit Hannas Kunst darauf auch wundervolle Kunstdrucke, Fliesen und viele weitere schöne Dinge. Ihr seid aus Wuppertal und irgendwann weggezogen? In der "Heim-W-Ecke" halten die Ligartis allerlei Schönes mit Wuppertal-Bezug für Euch bereit. Im Laden könnt Ihr übrigens auch direkt einen Kaffee genießen. Klingt gut, oder?
 
 Falls Ihr in naher Zukunft erst mal keine Zeit für eine Reise habt, bleibt Euch natürlich immer noch der Onlineshop der Tiermanufaktur. Ich wünsche Euch viel Spaß beim Stöbern! Alle Motive hat Hanna selbst gestaltet. Die Produkte stellt Ligarti entweder selbst her oder arbeitet mit Partner*innen innerhalb Europas zusammen. Der Versand erfolgt klimaneutral.
 
