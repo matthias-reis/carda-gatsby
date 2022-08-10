@@ -43,9 +43,11 @@ This music we all love so much is not only experimental and dreamy – it is alw
 
 Also: the people who are involved into post-rock/post-metal/post-hardcore/post-punk/post-whatever music care. They care about the planet, they care about other people, and they care about animals.
 
-## The people saved ArcTanGent
+## The fans saved ArcTanGent
 
-I am looking forward to ArcTanGent for two years. Yes, it's been a while since we went there. But unfortunately, when COVID hit us and the world suddenly stopped, they had to postpone the event two times. But, while many other festivals died or had to change their vision, ArcTanGent made it. They stayed true to themselves and saved the event – thanks to the crowd. 
+![AcTanGent 2019](https://storage.googleapis.com/cardamonchai-media/2022-08-10/2019-08-28-arctangent-43-jpeg-imagine-282838_624659_4032_3024/640.webp "AcTanGent 2019")
+
+I am looking forward to ArcTanGent for two years. Yes, it's been a while since we went there. But unfortunately, when COVID hit us and the world suddenly stopped, they had to postpone the event two times. But, while many other festivals died or had to change their vision, ArcTanGent made it. They stayed true to themselves and saved the event – thanks to the fans. 
 
 If you are a visitor of ArcTanGent, you know about the crowdfunding they started and its outstanding success. We didn't just save the festival; we made it even better with our donations. So, there will be more fun, comfort, hygiene, and sustainable solutions this year.
 
@@ -60,6 +62,8 @@ No big US soda producer or meat company but WaterBear. Not only a young company 
 If you don't know WaterBear by now (I posted some stories in German on this page every now and then): The streaming platform is UK-based, just like the ArcTanGent Festival. Its home city is Brighton – one of the UK's most exciting cities for music and art.
 
 ## Passionate people who care
+
+![WaterBear](https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-fb.png__l.jpg "WaterBear")
 
 Behind the name, WaterBear stands a group of passionate people who got together to use storytelling as a tool to make a difference in a world of pollution and greed.
 
