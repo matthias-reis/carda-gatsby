@@ -67,7 +67,7 @@ Sie wollen eine andere Perspektive zeigen und haben aus diesem Grund eine intera
 
 Als WaterBear Mitglied kontrolliert Ihr selbst, was Ihr sehen möchtet. Und das Beste ist: Es ist vollkommen kostenlos. Ihr könnt also einfach einen Account anlegen, die App herunterladen und anfangen zu schauen.  Das könnt Ihr übrigens auch in Eurem Internet-Browser tun.
 
-# WaterBear ist kostenlos
+## WaterBear ist kostenlos
 
 WaterBear steckt voller lokaler Geschichten, NGO-Kampagnen und Slow-Travel-Dokus. Ziel ist es, Menschen dazu zu inspirieren, einen Unterschied zu machen. Falls sich das für Euch gut anhört: Schließt Euch einfach an. Aus meiner eigenen Erfahrung kann ich Euch sagen: Es tut nicht weh und die drei Minuten, die Ihr benötigt, um Euren Account anzulegen, lohnen sich wirklich.
 
@@ -75,7 +75,7 @@ Und wer weiß? Vielleicht gibt es ja bald auch eine Dokumentation über ein auß
 
 Ich weiß nicht, wie es Euch geht, aber ich bin schon sehr gespannt darauf, was als Nächstes passiert.
 
-# Trinkflaschen mitbringen
+## Trinkflaschen mitbringen
 
 Das ArcTanGent hat sich nicht nur für eine Bühnen-Partnerschaft mit WaterBear zusammengetan. Es sollen auch arbeits-basierte Lern-Möglichkeiten für Studierende geschaffen werden. Das Programm heißt passenderweise "The College of Music". Falls Ihr das Festival auch besucht und mehr darüber erfahren möchtet, könnt Ihr WaterBear am Infostand im Merch-Zelt besuchen.
 
