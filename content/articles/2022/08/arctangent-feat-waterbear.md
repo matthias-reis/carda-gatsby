@@ -73,7 +73,7 @@ As a WaterBear member, you control what content you wish to watch. And the best 
 
 ## You can join WaterBear for free
 
-WaterBear is full of locally told stories, NGO campaigns, on-the-ground grassroot outreach, volunteering, and eco-travel documentaries. The goal is to inspire people to start making a difference. So if this sounds good for you: just join. I can tell you from my personal experience that it doesn't hurt, and it is worth the three minutes it takes to create an account.
+WaterBear is full of locally told stories, NGO campaigns, on-the-ground grassroot outreach, volunteering, and eco-travel documentaries. The goal is to inspire people to start making a difference. So if this sounds good for you: just join. I can tell you from my personal experience that it doesn't hurt, and it is worth the three minutes it takes you to create an account.
 
 And who knows: maybe there will be a documentary about a unique festival that does things different from others soon? A festival near the post-music city of Bristol? A festival where people love to listen to The Mars Volta all over again in the silent disco? 
 
