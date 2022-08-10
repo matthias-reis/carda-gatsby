@@ -35,7 +35,7 @@ focusKeyword: ArcTanGent
 advertisement: false
 affiliate: false
 language: en
-languageLink: arctangent-waterbear
+languageLink: /2022/08/arctangent-waterbear/
 ---
 **Do you know these very rare events that feel like everything is finally coming together how it should do? One of them happened when the ArcTanGent festival announced sustainability video streaming platform WaterBear as their new sponsor. Don't get me wrong here: I don't just think post-music and sustainability are a perfect fit because they're the two main topics of my blog – they really are one of those two-of-a-kind couples that cannot be separated. And here is why:**
 
