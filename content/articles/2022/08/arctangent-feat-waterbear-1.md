@@ -45,6 +45,8 @@ Hinzu kommt, dass sich die Menschen, die sich mit Post-Rock/Post-Metal/Post-Hard
 
 ## Die Fans haben das ArcTanGent gerettet
 
+![AcTanGent 2019](https://storage.googleapis.com/cardamonchai-media/2022-08-10/2019-08-28-arctangent-43-jpeg-imagine-282838_624659_4032_3024/640.webp "AcTanGent 2019")
+
 Ich freue mich jetzt seit zwei Jahren auf das ArcTanGent Festival. Ja, es ist schon eine ganze Weile her, seit wir das letzte Mal dort waren, denn leider musste es, als COVID einschlug, gleich zweimal verschoben werden. Aber: Während viele andere Festivals eingegangen sind oder von ihrer Vision abweichen mussten, hat es das ArcTanGent geschafft. Die Veranstalter⋆innen sind sich treu geblieben und haben das Event gerettet – mit der Unterstützung der Fans.
 
 Wenn Ihr ArcTanGent Besucher⋆innen seid, kennt Ihr das Crowdfunding-Projekt dazu – es war ein durchschlagender Erfolg. Wir haben das Festival nicht nur gerettet, wir haben es mit unseren Spenden sogar noch besser gemacht. Es wird also mehr Spaß, Komfort, Hygiene und Nachhaltigkeit geben, dieses Jahr.
@@ -57,9 +59,11 @@ Um das hier zusammenzufassen und den Bogen zur Überschrift dieses Artikels zu s
 
 Keine großen US-Limonaden-Giganten oder Fleisch-Konzerne, sondern WaterBear.  Nicht nur irgendeine junge Firma, die für einen guten Zweck arbeitet, sondern die weltweit erste, kostenlose Video-on-Demand-Plattform, die allein der Zukunft des Planeten gewidmet ist.
 
-Falls Ihr WaterBear noch nicht kennt (ich habe hin und wieder über die Plattform berichtet): Der Streaming-Dienst kommt, genau wie das ArcTanGent, aus dem Vereinten Königreich. Genauer gesagt: aus Brighton – einer von Englands spannendsten Städten für Musik- und Kunst-Interessierte.
+Falls Ihr WaterBear noch nicht kennt (ich habe [hin](/2021/02/waterbear-streamingdienst/) und [wieder](/2022/03/rob-steward-sharkwater/) über die Plattform berichtet). Der Streaming-Dienst kommt, genau wie das ArcTanGent, aus dem Vereinten Königreich. Genauer gesagt: aus Brighton – einer von Englands spannendsten Städten für Musik- und Kunst-Interessierte.
 
 ## Begeisterte Menschen, die sich Gedanken machen
+
+![WaterBear](https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-fb.png__l.jpg "Der WaterBear Streamingdienst")
 
 Hinter dem Namen WaterBear steckt eine Gruppe passionierter Aktivist⋆innen, die Storytelling dafür nutzen möchten, in einer Welt aus Verschmutzung und Gier einen Unterschied zu machen.
 
@@ -87,7 +91,7 @@ Danke ArcTanGent, dass Ihr Euch mit WaterBear zusammengetan habt!
 
 Wusstet Ihr übrigens, woher der Name WaterBear stammt? Die Plattform ist nach dem Bärtierchen (Tardigrada) benannt – auch bekannt als Water Bear. Die achtbeinigen Tierchen, von denen die meisten kleiner als einen Millimeter sind, sehen wie winzige Unterwasser-Teddybären aus. Ihr Lebensraum befindet sich unter der Meeresoberfläche, wo sie sich gerne in Moos-Kissen niederlassen. Eine besondere Eigenart der Bärtierchen ist ein todesähnlicher Zustand, in dem sich extreme Umweltbedingungen überstehen können. Danach wachen sie auf und leben weiter.
 
-## Neugierig geworden? 
+## Neugierig geworden?
 
 Hier geht's zum [ArcTanGent](https://arctangent.co.uk/)
 Hier geht's zu [WaterBear](https://join.waterbear.com/)
