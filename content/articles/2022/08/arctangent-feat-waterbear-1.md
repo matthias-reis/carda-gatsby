@@ -65,7 +65,7 @@ Hinter dem Namen WaterBear steckt eine Gruppe passionierter Aktivist⋆innen, di
 
 Sie wollen eine andere Perspektive zeigen und haben aus diesem Grund eine interaktive Streaming-Plattform ins Leben gerufen, die sich um die Zukunft unseres Planeten dreht. Ihr Service gibt Menschen Zugang zu mit Awards ausgezeichneten Inhalten, die dazu bestärken, einen tieferen Blick zu wagen, zu lernen und sich zu engagieren – Biodiversität, Nachhaltigkeit, Gemeinschaft und Vielfalt sind nur einige der auf WaterBear vertretenen Themen.
 
-Als WaterBear Mitglied kontrolliert Ihr selbst, was Ihr sehen möchtet. Und das Beste ist: Es ist vollkommen kostenlos. Ihr könnt also einfach einen Account anlegen, die App herunterladen und anfangen zu schauen.  Das könnt Ihr übrigens auch in Eurem Internet-Browser tun.
+Als WaterBear Mitglied kontrolliert Ihr selbst, was Ihr sehen möchtet. Und das Beste ist: Es ist vollkommen kostenlos. Ihr könnt also einfach einen Account anlegen, die App herunterladen und anfangen zu streamen.  Das könnt Ihr übrigens auch in Eurem Internet-Browser tun.
 
 ## WaterBear ist kostenlos
 
