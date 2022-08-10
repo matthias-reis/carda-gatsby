@@ -47,7 +47,7 @@ Also: the people who are involved into post-rock/post-metal/post-hardcore/post-p
 
 ![AcTanGent 2019](https://storage.googleapis.com/cardamonchai-media/2022-08-10/2019-08-28-arctangent-43-jpeg-imagine-282838_624659_4032_3024/640.webp "AcTanGent 2019")
 
-I am looking forward to ArcTanGent for two years. Yes, it's been a while since we went there. But unfortunately, when COVID hit us and the world suddenly stopped, they had to postpone the event two times. But, while many other festivals died or had to change their vision, ArcTanGent made it. They stayed true to themselves and saved the event – thanks to the fans. 
+I am looking forward to ArcTanGent for two years now. Yes, it's been a while since we went there. But unfortunately, when COVID hit us and the world suddenly stopped, they had to postpone the event two times. But, while many other festivals died or had to change their vision, ArcTanGent made it. They stayed true to themselves and saved the event – thanks to the fans. 
 
 If you are a visitor of ArcTanGent, you know about the crowdfunding they started and its outstanding success. We didn't just save the festival; we made it even better with our donations. So, there will be more fun, comfort, hygiene, and sustainable solutions this year.
 
