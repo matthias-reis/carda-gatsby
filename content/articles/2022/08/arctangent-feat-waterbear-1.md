@@ -57,7 +57,7 @@ Um das hier zusammenzufassen und den Bogen zur Überschrift dieses Artikels zu s
 
 Keine großen US-Limonaden-Giganten oder Fleisch-Konzerne, sondern WaterBear.  Nicht nur irgendeine junge Firma, die für einen guten Zweck arbeitet, sondern die weltweit erste, kostenlose Video-on-Demand-Plattform, die allein der Zukunft des Planeten gewidmet ist.
 
-Falls Ihr WaterBear noch nicht kennt (ich habe hin und wieder über die Plattform berichtet): Der Streaming-Dienst kommt, genau wie das ArcTanGent, aus der UK Genauer gesagt: aus Brighton – eine von Englands spannendsten Städten für Musik- und Kunst-Interessierte.
+Falls Ihr WaterBear noch nicht kennt (ich habe hin und wieder über die Plattform berichtet): Der Streaming-Dienst kommt, genau wie das ArcTanGent, aus der UK. Genauer gesagt: aus Brighton – eine von Englands spannendsten Städten für Musik- und Kunst-Interessierte.
 
 ## Begeisterte Menschen, die sich Gedanken machen
 
