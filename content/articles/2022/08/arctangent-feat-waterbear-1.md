@@ -41,7 +41,7 @@ languageLink: arctangent-teams-up-with-waterbear
 
 Diese Musik, die wir alle so sehr lieben, ist weit mehr als nur experimentell und verträumt – sie ist immer offen dafür, Neues zu entdecken, zukunfsgetrieben und hochenergetisch.
 
-Hinzu kommt, dass die Menschen, die sich mit Post-Rock/Post-Metal/Post-Hardcore/Post-Punk/Post-Whatever Musik identifizieren, sich Gedanken machen. Sie machen sich Gedanken um den Planeten, um andere Menschen und um Tiere.
+Hinzu kommt, dass sich die Menschen, die sich mit Post-Rock/Post-Metal/Post-Hardcore/Post-Punk/Post-Whatever Musik identifizieren, Gedanken machen – um den Planeten, um andere Menschen und um Tiere.
 
 ## Die Fans haben das ArcTanGent gerettet
 
