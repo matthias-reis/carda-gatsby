@@ -63,7 +63,7 @@ If you don't know WaterBear by now (I posted some stories in German on this page
 
 ## Passionate people who care
 
-![WaterBear](https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-1__l.jpg "WaterBear")
+![WaterBear](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-02-waterbear-1-l-jpeg-imagine-080808_404243_1440_1080/640.webp "WaterBear")
 
 Behind the name, WaterBear stands a group of passionate people who got together to use storytelling as a tool to make a difference in a world of pollution and greed.
 
