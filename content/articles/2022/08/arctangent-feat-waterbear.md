@@ -71,7 +71,7 @@ They wanted to show a different perspective, so they built the first interactive
 
 As a WaterBear member, you control what content you wish to watch. And the best thing is: It is free. So, you can just create an account, download the app and start watching. You can also watch it in your web browser, though.
 
-# You can join WaterBear for free
+## You can join WaterBear for free
 
 WaterBear is full of locally told stories, NGO campaigns, on-the-ground grassroot outreach, volunteering, and eco-travel documentaries. The goal is to inspire people to start making a difference. So if this sounds good for you: just join. I can tell you from my personal experience that it doesn't hurt, and it is worth the three minutes it takes to create an account.
 
@@ -79,7 +79,7 @@ And who knows: maybe there will be a documentary about a unique festival that do
 
 I don't know about you guys, but I am very excited about what happens next.
 
-# Bring your own bottle
+## Bring your own bottle
 
 ArcTanGent has not only partnered up with WaterBear for stage sponsorship. WaterBear also wanted to create work-based learning opportunities for their students – the program is called "The College of Music".  In case you're visiting the festival and want to know more about it, you can speak to WaterBear at their stall in the merch tent.
 
