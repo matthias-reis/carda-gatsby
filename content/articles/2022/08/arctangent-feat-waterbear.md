@@ -69,7 +69,7 @@ Behind the name, WaterBear stands a group of passionate people who got together 
 
 They wanted to show a different perspective, so they built the first interactive streaming platform dedicated to the earth's future. Their service gives people access to award-winning content that empowers them to dive deeper, learn about biodiversity, sustainability, community, and diversity and take action.
 
-As a WaterBear member, you control what content you wish to watch. And the best thing is: It is free. So, you can just create an account, download the app and start watching. You can also watch it in your web browser, though.
+As a WaterBear member, you control what content you wish to watch. And the best thing is: It is free. So, you can just create an account, download the app and start streaming. You can also do that in your web browser, though.
 
 ## You can join WaterBear for free
 
