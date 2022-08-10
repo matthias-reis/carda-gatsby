@@ -4,7 +4,7 @@ slug: arctangent-teams-up-with-waterbear
 typeName: Beitrag
 title: ArcTanGent feat. WaterBear
 subTitle: Post-Rock Festival teams up with Sustainability Streaming Platform to
-  sensitize Visitors to take Care of the Planet
+  inspire Visitors to take Care of the Planet
 seoTitle: Post-Rock Festival ArcTanGent teams up with WaterBear
 description: If you want to know why the famous post-rock festival ArcTanGent
   teamed up with sustainability streaming platform WaterBear you need to read
