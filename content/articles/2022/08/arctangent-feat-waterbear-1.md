@@ -35,7 +35,7 @@ focusKeyword: WaterBear
 advertisement: false
 affiliate: false
 language: de
-languageLink: arctangent-teams-up-with-waterbear
+languageLink: /2022/08/arctangent-teams-up-with-waterbear/
 ---
 **Kennt Ihr diese raren Momente, in denen es sich anfühlt, als würde alles, das irgendwie Sinn ergibt, endlich zusammenkommen? Einen davon habe ich erlebt, als ich erfuhr, dass sich das ArcTanGent Festival den Nachhaltigkeits-Streamingdienst WaterBear als Sponsor ins Boot geholt hat. Versteht mich nicht falsch: Ich denke nicht nur, dass Post-Music und Nachhaltigkeit zusammenpassen, weil es zufällig die Hauptthemen meines Blogs sind – es ist wirklich eines dieser unvergleichlichen Paare, die niemals getrennt werden dürfen. Hier sind ein paar Gründe:**
 
