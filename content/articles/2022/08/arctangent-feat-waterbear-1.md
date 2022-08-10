@@ -45,7 +45,7 @@ Hinzu kommt, dass sich die Menschen, die sich mit Post-Rock/Post-Metal/Post-Hard
 
 ## Die Fans haben das ArcTanGent gerettet
 
-Ich freue mich jetzt seit zwei Jahren auf das ArcTanGent Festival. Ja, es ist schon eine ganze Weile her, seit wir das letzte Mal dort waren. Aber leider musste es, als COVID einschlug, gleich zweimal verschoben werden. Aber: Während viele andere Festivals eingegangen sind oder von ihrer Vision abweichen mussten, hat es das ArcTanGent geschafft. Die Veranstalter⋆innen sind sich treu geblieben und haben das Event gerettet – mit der Unterstützung der Fans.
+Ich freue mich jetzt seit zwei Jahren auf das ArcTanGent Festival. Ja, es ist schon eine ganze Weile her, seit wir das letzte Mal dort waren, denn leider musste es, als COVID einschlug, gleich zweimal verschoben werden. Aber: Während viele andere Festivals eingegangen sind oder von ihrer Vision abweichen mussten, hat es das ArcTanGent geschafft. Die Veranstalter⋆innen sind sich treu geblieben und haben das Event gerettet – mit der Unterstützung der Fans.
 
 Wenn Ihr ArcTanGent Besucher⋆innen seid, kennt Ihr das Crowdfunding-Projekt dazu – es war ein durchschlagender Erfolg. Wir haben das Festival nicht nur gerettet, wir haben es mit unseren Spenden sogar noch besser gemacht. Es wird also mehr Spaß, Komfort, Hygiene und Nachhaltigkeit geben, dieses Jahr.
 
