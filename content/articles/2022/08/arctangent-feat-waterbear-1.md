@@ -63,7 +63,7 @@ Falls Ihr WaterBear noch nicht kennt (ich habe [hin](/2021/02/waterbear-streamin
 
 ## Begeisterte Menschen, die sich Gedanken machen
 
-![WaterBear](https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-1__l.jpg "Der WaterBear Streamingdienst")
+![WaterBear](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-02-waterbear-1-l-jpeg-imagine-080808_404243_1440_1080/640.webp "Der WaterBear Streamingdienst")
 
 Hinter dem Namen WaterBear steckt eine Gruppe passionierter Aktivist⋆innen, die Storytelling dafür nutzen möchten, in einer Welt aus Verschmutzung und Gier einen Unterschied zu machen.
 
