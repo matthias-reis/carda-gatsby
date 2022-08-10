@@ -63,7 +63,7 @@ Falls Ihr WaterBear noch nicht kennt (ich habe hin und wieder über die Plattfor
 
 Hinter dem Namen WaterBear steckt eine Gruppe passionierter Aktivist⋆innen, die Storytelling dafür nutzen möchten, in einer Welt aus Verschmutzung und Gier einen Unterschied zu machen.
 
-Sie wollen eine andere Perspektive zeigen und haben aus diesem Grund eine interaktive Streaming-Plattform ins Leben gerufen, die sich um die Zukunft unseres Planeten dreht. Ihr Service gibt Menschen Zugang zu mit Awards ausgezeichneten Inhalten, die dazu bestärken, einen tieferen Blick zu wagen, zu lernen und sich zu engagieren – Biodiversität, Nachhaltigkeit, Gemeinschaft und Vielfalt sind hier einige der Themen auf WaterBear.
+Sie wollen eine andere Perspektive zeigen und haben aus diesem Grund eine interaktive Streaming-Plattform ins Leben gerufen, die sich um die Zukunft unseres Planeten dreht. Ihr Service gibt Menschen Zugang zu mit Awards ausgezeichneten Inhalten, die dazu bestärken, einen tieferen Blick zu wagen, zu lernen und sich zu engagieren – Biodiversität, Nachhaltigkeit, Gemeinschaft und Vielfalt sind nur einige der auf WaterBear vertretenen Themen.
 
 Als WaterBear Mitglied kontrolliert Ihr selbst, was Ihr sehen möchtet. Und das Beste ist: Es ist vollkommen kostenlos. Ihr könnt also einfach einen Account anlegen, die App herunterladen und anfangen zu schauen.  Das könnt Ihr übrigens auch in Eurem Internet-Browser tun.
 
