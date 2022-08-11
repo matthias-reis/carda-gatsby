@@ -64,7 +64,7 @@ Für den Künstler war die Phase der Pop Art schon immer eine große Quelle der 
 
 Zitate finden sich auch in seinen Bildern wieder. So verwendete er etwa eine Reihe sich wiederholender Campbell's Suppendosen und ersetzte den Namen durch "Vegan Club". Neben dem Warhol-Element ist hier auch die Wiederholung als Zitat zu sehen – auch in den Werken von Pop Art Künstler⋆innen wie Andy Warhol, Yayoi Kusama, Roy Lichtenstein, Keith Haring und Richard Hamilton kommen Wiederholungen vor.
 
-Dem Klischee der missionarischen Veganerinnen arbeitet Le Fou, anders, als es der Name seines Projekts vermuten lässt, entgegen. Und auch sonst, würde er nie versuchen, einem Menschen seine Einstellung aufzudrängen. Dafür erhält er inzwischen große Unterstützung von Tierechtsaktivist⋆innen, die seine Kunst international verbreiten. Außer Idee ist inzwischen eine bekannte Marke inklusive Webauftritt[^2] geworfen. Neben Schauspieler⋆innen und Fotograf⋆innen sind inzwischen viele weitere Kreative feste Mitglieder in seinem Team.
+Dem Klischee der missionarischen Veganer⋆innen arbeitet Le Fou, anders, als es der Name seines Projekts vermuten lässt, entgegen. Und auch sonst, würde er nie versuchen, einem Menschen seine Einstellung aufzudrängen. Dafür erhält er inzwischen große Unterstützung von Tierechtsaktivist⋆innen, die seine Kunst international verbreiten. Außer Idee ist inzwischen eine bekannte Marke inklusive Webauftritt[^2] geworfen. Neben Schauspieler⋆innen und Fotograf⋆innen sind inzwischen viele weitere Kreative feste Mitglieder in seinem Team.
 
 Bild im Header/Picture in header: Julia Tulke, Little Italy, New York, 2016
 
