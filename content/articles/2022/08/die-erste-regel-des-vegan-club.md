@@ -50,7 +50,7 @@ Constantin Le Fou hörte kurz nach seinem einschneidenden Erlebnis auf, Fleisch 
 
 Nach zehn Jahren als Vegetarier wurde der Künstler schließlich zum Veganer. Seine Entscheidung erklärt er vor allem damit, dass er angefangen hatte, sich mit der Milchindustrie auseinanderzusetzen. Er wollte nicht mehr länger die Mitschuld daran tragen, dass Kühe zur Milchproduktion gezwungen und von ihren Kälbern getrennt werden, die anschließend als Nebenprodukt an die Schlachthöfe geliefert werden. Viele seiner Informationen bezog er von der Humane Society[^1].
 
-Als Le Fou dann "Fight Club" sah und sich mit den Schauspieler⋆innen beschäftigte, nahm er an, dass Brat Pitt vegan lebte. Zwar hatte der Protagonist des Films das nie öffentlich erwähnt, er sprach sich jedoch offen für Fleischalternativen aus. Für den Künstler reicht das, den Funken überspringen zu lassen. Die Idee für sein Projekt, den Vegan Club, war geboren.
+Als Le Fou dann "Fight Club" sah und sich mit den Schauspieler⋆innen beschäftigte, nahm er an, dass Brad Pitt vegan lebte. Zwar hatte der Protagonist des Films das nie öffentlich erwähnt, er sprach sich jedoch offen für Fleischalternativen aus. Für den Künstler reicht das, den Funken überspringen zu lassen. Die Idee für sein Projekt, den Vegan Club, war geboren.
 
 ## "Not your mom, not your milk"
 
