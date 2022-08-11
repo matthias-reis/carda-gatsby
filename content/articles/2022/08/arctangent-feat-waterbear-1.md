@@ -8,14 +8,10 @@ seoTitle: Post-Rock Festival ArcTanGent macht WaterBear zum Sponsor
 ogTitle: ""
 description: Erfahre, warum sich das Post-Rock Festival ArcTanGent mit dem
   Nachhaltigkeits-Streamingdienst WaterBear zusammengeschlossen hat.
-excerpt: "Kennt Ihr diese raren Momente, in denen es sich anfühlt, als würde
+excerpt: Kennt Ihr diese raren Momente, in denen es sich anfühlt, als würde
   alles, das irgendwie Sinn ergibt, endlich zusammenkommen? Einen davon habe ich
   erlebt, als ich erfuhr, dass sich das ArcTanGent Festival den
   Nachhaltigkeits-Streamingdienst WaterBear als Sponsor ins Boot geholt hat.
-  Versteht mich nicht falsch: Ich denke nicht nur, dass Post-Music und
-  Nachhaltigkeit zusammenpassen, weil es zufällig die Hauptthemen meines Blogs
-  sind – es ist wirklich eines dieser unvergleichlichen Paare, die niemals
-  getrennt werden dürfen."
 image: https://storage.googleapis.com/cardamonchai-media/2022-08-10/arctangent-2022-jpeg-imagine-485828_6c7463_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-08-10/arctangent-2022-fb-jpeg-imagine-485828_676e5a_1200_628/640.webp
