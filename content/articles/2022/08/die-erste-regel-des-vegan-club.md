@@ -60,7 +60,7 @@ Sein erstes Vegan Club Kunstwerk war ein Bild von Brad Pitt, das er herstellte, 
 
 ## Pop Art: Joaquin Phoenix als vegane Ikone
 
-Für den Künstler war die Phase der Pop Art schon immer eine große Quelle der Inspiration. Eigentlich sei er noch nie besonders an Stars interessiert gewesen, berichtete er gegenüber der Presse. Allerdings hätte sich herausgestellt, dass die Art, ihre Konterfeis zu verwenden, eine vielversprechende Möglichkeit bot, ins Gespräch zu kommen. Was für Andy Warhol James Dean war, war Joaquin Phoenix für Constantin Le Fou.
+Für den Künstler war die Phase der Pop Art schon immer eine große Quelle der Inspiration. Eigentlich sei er noch nie besonders an Stars interessiert gewesen, berichtete er gegenüber der Presse. Allerdings hätte sich herausgestellt, dass die Art, ihre Konterfeis zu verwenden, eine vielversprechende Möglichkeit bot, ins Gespräch zu kommen. Was für Andy Warhol James Dean war, ist Joaquin Phoenix für Constantin Le Fou.
 
 Zitate finden sich auch in seiner Bildsprache wieder. So verwendete er etwa eine Reihe sich wiederholender Campbell's Suppendosen und ersetzte den Namen durch "Vegan Club". Neben dem Warhol-Element ist hier auch die Wiederholung als Zitat zu sehen – auch in den Werken Pop Art Künstler⋆innen wie Andy Warhol, Yayoi Kusama, Roy Lichtenstein, Keith Haring und Richard Hamilton kommen Wiederholungen vor.
 
