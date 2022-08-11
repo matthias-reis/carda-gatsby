@@ -66,7 +66,7 @@ Zitate finden sich auch in seinen Bildern wieder. So verwendete er etwa eine Rei
 
 Dem Klischee der missionarischen Veganer⋆innen arbeitet Le Fou, anders, als es der Name seines Projekts vermuten lässt, entgegen. Und auch sonst, würde er nie versuchen, einem Menschen seine Einstellung aufzudrängen. Dafür erhält er inzwischen große Unterstützung von Tierechtsaktivist⋆innen, die seine Kunst international verbreiten. Aus seiner Idee ist inzwischen eine bekannte Marke inklusive Webauftritt[^2] geworfen. Neben Schauspieler⋆innen und Fotograf⋆innen sind heute viele weitere Kreative feste Mitglieder in seinem Team.
 
-Bild im Header/Picture in header: Julia Tulke, Little Italy, New York, 2016
+**Bild im Header/Picture in header:** Julia Tulke, Little Italy, New York, 2016
 
 [^1]: [Humane Society – "Industry impacts on cows](https://www.humanesociety.org/resources/cows)
 [^2]: [Vegan Club Webseite](https://veganclub.co/)
