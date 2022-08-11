@@ -8,7 +8,7 @@ seoTitle: Die erste Regel des Vegan Club – Künstler Constantin Le Fou
 description: Lest das, wenn Ihr wissen wollt, warum die erste Regel im Vegan
   Club wirklich funktioniert und wie viel das mit David Finchers Palahniuk
   Verfilmung "Fight Club" zu tun hat.
-excerpt: 'Wenn ihr, wie ich, bereits länger vegan lebt, ist Euch bestimmt schon
+excerpt: 'Wenn Ihr, wie ich, bereits länger vegan lebt, ist Euch bestimmt schon
   mal der scherzhafte Spruch "Die erste Regel im Vegan Club lautet: Erzähle
   jedem vom Vegan Club".  Es handelt sich dabei um eine Abwandlung des "Fight
   Club" (Roman von Chuck Palahniuk, Film von David Fincher, Ihr erinnert
@@ -35,7 +35,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Wenn ihr, wie ich, bereits länger vegan lebt, ist Euch bestimmt schon mal der scherzhafte Spruch "Die erste Regel im Vegan Club lautet: Erzähle jedem vom Vegan Club".  Es handelt sich dabei um eine Abwandlung des "Fight Club" (Roman von Chuck Palahniuk, Film von David Fincher, Ihr erinnert Euch)  Zitats "Die erste Regel im Fight Club lautet: Erzähle niemandem vom Fight Club". In der Regel machen wir Veganer⋆innen uns damit über das Klischee lustig, wir wollten jedem unseren Lebensentwurf aufdrängen. Der Künstler Constantin Le Fou hat aus dem Spruch jetzt ein Projekt gemacht – den Vegan Club gibt nun wirklich.**
+**Wenn Ihr, wie ich, bereits länger vegan lebt, ist Euch bestimmt schon mal der scherzhafte Spruch "Die erste Regel im Vegan Club lautet: Erzähle jedem vom Vegan Club".  Es handelt sich dabei um eine Abwandlung des "Fight Club" (Roman von Chuck Palahniuk, Film von David Fincher, Ihr erinnert Euch)  Zitats "Die erste Regel im Fight Club lautet: Erzähle niemandem vom Fight Club". In der Regel machen wir Veganer⋆innen uns damit über das Klischee lustig, wir wollten jedem unseren Lebensentwurf aufdrängen. Der Künstler Constantin Le Fou hat aus dem Spruch jetzt ein Projekt gemacht – den Vegan Club gibt nun wirklich.**
 
 Rund zehn Jahre vor dem Erscheinen des spektakulären Films mit Brad Pitt in der Hauptrolle zog der in Athen geborene und in Frankreich aufgewachsene Le Fou in die USA. Im Los Angeles der frühen 1990er-Jahre, begann er sich als Street Artist einen Namen zu machen. Im Alter von 22 Jahren entschied er sich dafür, fortan vegan zu leben und sich für die Rechte der Tiere zu engagieren.
 
