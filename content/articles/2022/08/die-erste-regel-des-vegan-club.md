@@ -38,7 +38,7 @@ Rund zehn Jahre vor dem Erscheinen des spektakulären Films mit Brad Pitt in der
 
 Eine wichtige Inspiration für die Veränderung seiner Lebensgewohnheiten waren für ihn seine zwei Hunde. Während eines besonders heißen Tages blieb er mit den beiden Tieren wegen eines Unfalls auf dem Weg von Las Vegas nach Los Angeles im Stau stecken. Er stelle den Motor ab und öffnete die Fenster. Das sorgte dafür, dass die Hunde innerhalb kürzester Zeit zu hecheln begannen – es war einfach zu warm. Er versorgte sie mit Wasser und schaltete die Klimaanlage wieder ein.
 
-## Constantin Le Fous Weg zum Veganismus
+## Constantin Le Fous Weg zum Veganismus
 
 Gegenüber der Presse berichtete er, es sei für ihn ein langsamer Prozess gewesen, die Verbindung von seinen beiden Hunden, zu anderen Tieren herzustellen – wie Schweinen oder Hühnern in einem Transporter. Letztlich hätten die Verbindung zu ihnen und dieser Moment in der Wüste von Nevada jedoch für sein Umdenken gesorgt.
 
