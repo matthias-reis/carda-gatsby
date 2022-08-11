@@ -44,8 +44,6 @@ Gegenüber der Presse berichtete er, es sei für ihn ein langsamer Prozess gewes
 
 In seinen Kunstwerken bringt er seine Meinung zum Ausdruck. Seine Botschaften lauten "Be the change you want to see in the world", "Go vegan and prosper" und "Vegan Power". Neben den gelegentlich eingestreuten, zum Teil abgewandelten, Zitaten ist es jedoch vor allem seine Bildsprache, die besonders stark ist und zu sein Anliegen besonders gut zum Ausdruck bringen.
 
-## "Earthlings" als Inspirationsquelle
-
 Constantin Le Fou hörte kurz nach seinem einschneidenden Erlebnis auf, Fleisch zu essen. Er fing an, sich auf YouTube die ersten Tierrechts-Videos anzuschauen, sah zum ersten Mal "[Earthlings](http://localhost:8000/2020/07/earthlings/)" und las sich ins Thema Tierhaltung ein.
 
 ## Willkommen im Vegan Club
