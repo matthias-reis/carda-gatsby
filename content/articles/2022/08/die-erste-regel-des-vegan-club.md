@@ -56,7 +56,7 @@ Als Le Fou dann "Fight Club" sah und sich mit den Schauspieler⋆innen beschäft
 
 In den Straßen von LA begegnete Le Fou der Kunst von Banksy, Mister Uncertain, Shepard Fairey und vielen anderen Größen. Es war schließlich die Person, die das Schwarz-Weiß-Bild einer Kuh mit dem Text "Not your mom, not your milk" verbunden hatte, der ihm den letzten Schubs gab.
 
-Sein erstes Vegan Club Kunstwerk war ein Bild von Brad Pitt, das er herstellte, indem er Dinge, die ihm etwas bedeuteten,  wie eine Art Puzzle miteinander kombinierte. Als Nächstes kombinierte er auf Postern die Porträts berühmter Persönlichkeiten wie Moby, Prince, Joaquin Phoenix, Billy Eilish und Bob Marley mit den Worten "Vegan Club". Mit dieser Aktion gelang es ihm dann, auch die Aufmerksamkeit einiger der von ihm gezeigten Künstler⋆innen zu erlangen.
+Sein erstes Vegan Club Kunstwerk war ein Bild von Brad Pitt, das er herstellte, indem er Dinge, die ihm etwas bedeuteten,  wie eine Art Puzzle miteinander kombinierte. Als Nächstes vereinte er auf Postern die Porträts berühmter Persönlichkeiten wie Moby, Prince, Joaquin Phoenix, Billy Eilish und Bob Marley mit den Worten "Vegan Club". Mit dieser Aktion gelang es ihm dann, auch die Aufmerksamkeit einiger der von ihm gezeigten Künstler⋆innen zu erlangen.
 
 ## Pop Art: Joaquin Phoenix als vegane Ikone
 
