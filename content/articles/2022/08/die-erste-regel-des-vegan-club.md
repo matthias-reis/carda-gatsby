@@ -40,7 +40,7 @@ Eine wichtige Inspiration für die Veränderung seiner Lebensgewohnheiten waren 
 
 ## Constantin Le Fous Weg zum Veganismus
 
-Gegenüber der Presse berichtete er, es sei für ihn ein langsamer Prozess gewesen, die Verbindung von seinen beiden Hunden, zu anderen Tieren herzustellen – wie Schweinen oder Hühnern in einem Transporter. Letztlich hätten die Verbindung zu ihnen und dieser Moment in der Wüste von Nevada jedoch für sein Umdenken gesorgt.
+Gegenüber der Presse berichtete er, es sei für ihn ein langsamer Prozess gewesen, die Verbindung von seinen beiden Hunden zu anderen Tieren herzustellen – wie Schweinen oder Hühnern in einem Transporter. Letztlich hätten die Verbindung zu ihnen und dieser Moment in der Wüste von Nevada jedoch für sein Umdenken gesorgt.
 
 In seinen Kunstwerken bringt er seine Meinung zum Ausdruck. "Be the change you want to see in the world" ("Sei du die Veränderung", die du in der Welt sehen willst") und "Go vegan and prosper" ("Werde vegan und gedeihe") lauten seine Botschaften und "Vegan Power". Neben den gelegentlich eingestreuten,  zum Teil abgewandelten, Zitaten ist es jedoch vor allem seine Bildsprache, die besonders stark ist und zu sein Anliegen besonders gut zum Ausdruck bringen.
 
