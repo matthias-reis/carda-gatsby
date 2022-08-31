@@ -82,7 +82,7 @@ Mit "Mesmer" wollten wir zwischen all dem Chaos eine Atempause schaffen. Henrik 
 
 **Anne:** Ihr seid zu viert, oder? Zwei Personen an den Tasten, eine an Gitarre und Gesang und eine am Schlagzeug? Wer spielt welche Instrumente? Ist Solár eine Art Kollektiv, wie zum Beispiel The Ocean, die immer mal wieder in etwas unterschiedlichen Konstellationen zusammenkommen, oder seid Ihr eine feste Band?
 
-**Aron:** Solár besteht aus Martin Sundgren (Tasten/Bass), David Sundström (Gitarre), Leon Olas Rosén (Tasten/Bass) und mir, Aron Stén am Schlagzeug. Mit Projekten wie The Ocean kann man uns glaube ich nicht vergleichen wegen der Instrumente. Obwohl Martin und Leon sich bei der Bass-Rolle manchmal abwechseln, da sie beide Gitarre und Keyboards spielen. Martins Hauptinstrument ist der Bass, also haben wir angefangen, eine Bassgitarre in unsere neuesten Songs zu integrieren. Außerdem haben wir mit Henrik Wenne einen Gast auf unserem Album. Er ist ein enger Freund von uns und ein großartiger Sänger!
+**Aron:** Solár besteht aus Martin Sundgren (Tasten/Bass), David Sundström (Gitarre), Leon Olas Rosén (Tasten/Bass) und mir, Aron Stén am Schlagzeug. Mit Projekten wie The Ocean kann man uns glaube ich wegen der Instrumente nicht vergleichen. Obwohl Martin und Leon sich bei der Bass-Rolle manchmal abwechseln, da sie beide Gitarre und Keyboards spielen. Martins Hauptinstrument ist der Bass, also haben wir angefangen, eine Bassgitarre in unsere neuesten Songs zu integrieren. Außerdem haben wir mit Henrik Wenne einen Gast auf unserem Album. Er ist ein enger Freund von uns und ein großartiger Sänger!
 
 **Anne:** Wie würdest Du die schwedische Post-Rock Szene beschreiben?
 
