@@ -52,7 +52,7 @@ Aber, das Wichtigste zuerst! "Atlas" wird am 9. September auf allen Streaming-Pl
 
 **Anne:** Wie ist das Feedback zur Vorauskopplung "Nomad" bis jetzt?
 
-**Aron:** Ziemlich gut! Wir haben massenhaft Nachrichten von Leuten bekommen und es sind einige sehr positive Rückmeldungen dabei! Auf dem heutigen Musikmarkt ist es vermutlich das Dümmste, was man tun kann, eine 22-minütige Single zu veröffentlichen. Für uns ist dieser Song jedoch etwas Besonderes, weil er der Erste ist, den wir zusammen geschrieben haben. Außerdem repräsentiert er alle Elemente des Albums. Von unterschiedlichen Dynamiken über Build-ups bis hin zu freien Zwischenspielen und einem epischen Höhepunkt ist alles mit dabei.
+**Aron:** Ziemlich gut! Wir haben massenhaft Nachrichten von Leuten bekommen und es sind einige sehr positive Rückmeldungen dabei! Auf dem heutigen Musikmarkt ist es vermutlich das Dümmste, was man tun kann, eine 22-minütige Single zu veröffentlichen. Für uns ist dieser Song jedoch etwas Besonderes, weil er der Erste ist, den wir zusammen geschrieben haben. Außerdem repräsentiert er alle Elemente des Albums. Von unterschiedlichen Dynamiken über Build-ups bis hin zu freien Zwischenspielen und einem gloriosen Höhepunkt ist alles mit dabei.
 
 ![Solár – "Nomad"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/nomad-single-cover-2022-jpeg-imagine-981808_852b04_3000_3000/640.webp "Solár – \\"Nomad\\"")
 
