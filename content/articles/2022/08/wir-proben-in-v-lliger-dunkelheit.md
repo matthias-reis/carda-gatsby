@@ -46,6 +46,8 @@ Aber, das Wichtigste zuerst! "Atlas" wird am 9. September auf allen Streaming-Pl
 
 **Anne:** Hi! Danke, dass Du Dir die Zeit für das Interview nimmst! Wie geht es Dir heute? Ihr steht kurz vor der Veröffentlichung Eures ersten Albums "Atlas", das übrigens fantastisch geworden ist. Seid Ihr zufrieden mit Eurer Arbeit?
 
+## "Wir wollen Gefühle hervorrufen"
+
 **Aron:** Hi Anne, danke für die Einladung! Wir freuen uns darauf, "Atlas" endlich zu veröffentlichen und sind sehr zufrieden mit dem Gesamtwerk. Wenn wir über unsere Musik reden, sagen wir oft, dass wir unsere Zuhörer⋆innen mit auf eine Reise nehmen und starke Gefühle hervorrufen möchten. Das haben wir im Studio versucht, einzufangen. Als Musiker⋆innen sind wir natürlich selbst unsere größten Kritiker⋆innen und wir haben uns diese Songs immer wieder und in den unterschiedlichsten Versionen angehört. Und was soll man sagen? Sie nehmen uns mit auf eine Reise und rufen starke Gefühle in uns hervor.
 
 **Anne:** Wie ist das Feedback zur Vorauskopplung "Nomad" bis jetzt?
@@ -60,6 +62,8 @@ Aber, das Wichtigste zuerst! "Atlas" wird am 9. September auf allen Streaming-Pl
 
 **Anne:** Die Songs heißen "Nomad", "Sam Francis" (Der Maler?), "Swarm", "Mesmer" (Geht es um den Entdecker des Mesmerismus?), "Breach" und "Samarkand" (Ich glaube, das ist der Name einer Stadt in Usbekistan?). Das klingt ganz danach, als gäbe es eine Geschichte, die sie alle zusammenführt. Stimmt das? Möchtest Du sie mit mir teilen?
 
+## Solar – "Atlas" oder: ein Nomade im Dünenmeer
+
 **Aron:** Ich kann vermutlich endlos über die Bedeutung der Songs und das Gesamtkonzept der Platte sprechen. Es geht, wie zuvor erwähnt, um eine Reise und die Erforschung der Gedankenwelt. Der Titel "Nomad" ist uns eingefallen, als wir die Bridge in der Mitte des Songs beschreiben wollten – die Toms sind an dieser Stelle sehr prominent. Wir haben dabei an einen Nomaden gedacht, der durch ein Meer aus Dünen wandert, also haben wir den Song "Nomad" genannt.
 
 "Sam Francis" haben wir nach dem expressionistischen Künstler Sam Francis benannt. Leon Olas Rosén, der einer unserer Keyboard-Spieler ist, stammt aus einer Künstlerfamilie. Er hat sich eine frühe Version des Songs angehört, als er gerade an einem Bild saß. Als abstrakter Maler konnte er eine gute Verbindung zwischen der Musik und den Farben, die er verwendete, herstellen.
@@ -71,6 +75,8 @@ Mit "Mesmer" wollten wir zwischen all dem Chaos eine Atempause schaffen. Henrik 
 "Samarkand" soll die Hörer⋆innen weit weit weg transporieren. Stell Dir vor, Du stehst inmitten eines endlosen Feldes oder Tales, wo Du ewig wanderst und all Deine Energie verbrauchst, während Du versuchst, Dich wieder in Sicherheit zu bringen. Wir wissen nicht, ob Du es schaffen wirst, denn die Geschichte endet an dieser Stelle.
 
 **Anne:** Ihr habt mit Sofar Stockholm zusammengearbeitet. Die kümmern sich um Studios und Live-Locations, wenn ich richtig informiert bin? Was verbindet Euch mit diesem wundervollen Verein?
+
+## "Wir haben 2019 schon in Stockholm gespielt"
 
 **Aron:** Sofar Sounds ist eine globale Organisation, die weltweit in mehr als 350 Städten Auftritte an einzigartigen Orten wie Geschäften und Wohnungen. Wir treten jedes Mal woanders auf, also ist jeder Auftritt ein neues Erlebnis. Und ja, ich buche Künstler⋆innen für Sofar Stockholm. Solár hatten vor dem Beginn der Pandemie im Dezember 2019 die Möglichkeit, mit Sofar Stockholm zu spielen.
 
@@ -85,6 +91,8 @@ Mit "Mesmer" wollten wir zwischen all dem Chaos eine Atempause schaffen. Henrik 
 ![Solár – "Atlas"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/atlas-album-cover-2022-jpeg-imagine-281818_692f12_3000_3000/640.webp "Solár – \\"Atlas\\"")
 
 **Anne:** Wo liegen Eure größten Einflüsse?
+
+## "Wir lieben Mogwai und Sigur Sigur Rós"
 
 **Aron:** Wir ziehen unsere Einflüsse aus einer Vielzahl unterschiedlicher Genres und Stile. Es können aber auch Gefühle oder Stimmungen sein, wie Panik oder Hoffnungslosigkeit. Oder ein bestimmter Modus. Wir nutzen unter anderem regelmäßig den Phrygian Modus. Aber ich glaube, unsere größten Einflüsse in Bezug auf Bands sind wohl GY!BE, Swans, Pink Floyd, Cult of Luna, Mogwai und Sigur Rós.
 
@@ -105,6 +113,8 @@ Mit "Mesmer" wollten wir zwischen all dem Chaos eine Atempause schaffen. Henrik 
 **Aron:** Wir haben alle mit unseren früheren Projekten schon kürzere Alben oder EPs gemacht. Ich glaube aber, es ist unser erstes Album, mit mehr als einer Stunde Spielzeit.
 
 **Anne:** Hattet Ihr Spaß dabei, "Atlas" aufzunehmen und zu produzieren?
+
+## "Wir haben die Zusammenarbeit mit Jonas Lindström sehr genossen"
 
 **Aron:** Auf jeden Fall! Wir haben es sehr genossen! Das Album wurde in Stockholm bei Durango Recording aufgenommen. Jonas Lindström war unser Recording und Mixing Engineer. Es ist ein fantastisches Studio und Jonas hat das Ganze für uns zu einem unvergesslichen Erlebnis für uns gemacht. Kai Blankenberg hat sich dann in der Skyline Tonfabrik in Düsseldorf um das Mastering gekümmert. Er hat auch einen großartigen Job gemacht.
 
