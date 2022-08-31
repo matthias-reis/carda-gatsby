@@ -56,7 +56,7 @@ Aber, das Wichtigste zuerst! "Atlas" wird am 9. September auf allen Streaming-Pl
 
 ![Solár – "Nomad"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/nomad-single-cover-2022-jpeg-imagine-981808_852b04_3000_3000/640.webp "Solár – \\"Nomad\\"")
 
-**Anne:** Wird es die Möglichkeit geben, die sechs epischen Songs auf "Atlas" live zu erleben?
+**Anne:** Wird es die Möglichkeit geben, diese sechs epischen Songs auf "Atlas" live zu erleben?
 
 **Aron:** Ja! Wir haben auf jeden Fall ein Release-Konzert am 10. September hier in Stockholm geplant. Es wird super laut (lacht). Im Oktober wollen wir zudem bei 1000Mods hier in Schweden spielen und für 2023 es gibt es auch Pläne für Festivals in anderen Ländern, zum Beispiel in Deutschland.
 
