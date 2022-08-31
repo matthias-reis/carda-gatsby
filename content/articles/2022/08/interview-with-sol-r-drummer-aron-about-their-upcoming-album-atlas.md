@@ -127,6 +127,6 @@ With "Mesmer", we wanted to create a pause to breathe amidst all the chaos. This
 
 ## Solar – "Nomad"
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JJXT5N7i93ENo1RFutDKo?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JJXT5N7i93ENo1RFutDKo?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ![Solár – "Atlas" | large](https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-jpeg-imagine-080808_1b1c17_4288_1660/640.webp "Solár")
