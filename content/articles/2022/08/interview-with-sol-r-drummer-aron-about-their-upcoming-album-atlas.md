@@ -52,7 +52,7 @@ But first things first: "Atlas" will be available on all music streaming platfor
 
 **Aron:** Oh yeah, it has been great! We have got a ton of messages from people and some good traction with it. With today's music market in mind, releasing a 22-minute single is propably the most stupid thing you can do. But for us, this song is unique as it is one of the first we wrote and a representation of all the elements on the album. It has everything from diverse dynamics, build-ups, challenging free-form interludes, and an epic peak.
 
-![Solár – "Nomad"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/nomad-single-cover-2022-jpeg-imagine-981808_852b04_3000_3000/640.webp "Solár – \"Nomad\"")
+![Solár – "Nomad"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/nomad-single-cover-2022-jpeg-imagine-981808_852b04_3000_3000/640.webp "Solár – \\"Nomad\\"")
 
 **Anne:** Will there be any occasions we can enjoy the six fabulous songs on "Atlas" live?
 
@@ -82,7 +82,7 @@ With "Mesmer", we wanted to create a pause to breathe amidst all the chaos. This
 
 **Aron:** We have some great bands like Lights and Motion, Oh Hiroshima, pg.lost and Immanu El, who all write incredible music. The live scene for post-rock music is very small. So, we rely on close contact with bands like ourselves, trying to fit us in wherever we see an opening. However, for Solár, we have our aim set on other countries, especially across Europe, where we see much more potential and opportunity for bands in our genre.
 
-![Solár – "Atlas"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/atlas-album-cover-2022-jpeg-imagine-281818_692f12_3000_3000/640.webp "Solár – \"Atlas\"")
+![Solár – "Atlas"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/atlas-album-cover-2022-jpeg-imagine-281818_692f12_3000_3000/640.webp "Solár – \\"Atlas\\"")
 
 **Anne:** Who are your biggest influences?
 
@@ -116,4 +116,4 @@ With "Mesmer", we wanted to create a pause to breathe amidst all the chaos. This
 
 **Aron:** The pleasure was all mine, thank you!
 
-![Solár – "Atlas"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-jpeg-imagine-080808_1b1c17_4288_1660/640.webp "Solár | large")
+![Solár – "Atlas"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-jpeg-imagine-080808_1b1c17_4288_1660/640.webp "Solár| large")
