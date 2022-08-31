@@ -3,8 +3,7 @@ date: 2022-08-31T14:46:53.069Z
 slug: solar-atlas-interview-en
 typeName: Interview
 title: Interview with Solár Drummer Aron about their upcoming Album "Atlas"
-subTitle: '"To play our music in complete darkness provides the maximum amount
-  of feelings"'
+subTitle: '"We love to play in complete Darkness"'
 seoTitle: Interview with the Sweden-based Post-Rock project Solár
 description: The young Sweden-based post-rock project Solár ist about to release
   its first album "Atlas". Drummer Aron shared the secrets of the record with
