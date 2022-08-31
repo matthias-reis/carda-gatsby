@@ -116,4 +116,4 @@ With "Mesmer", we wanted to create a pause to breathe amidst all the chaos. This
 
 **Aron:** The pleasure was all mine, thank you!
 
-![Solár – "Atlas"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-jpeg-imagine-080808_1b1c17_4288_1660/640.webp "Solár| large")
+![Solár – "Atlas" | large](https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-jpeg-imagine-080808_1b1c17_4288_1660/640.webp "Solár")
