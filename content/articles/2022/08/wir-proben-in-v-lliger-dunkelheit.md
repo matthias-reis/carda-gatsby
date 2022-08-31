@@ -100,7 +100,7 @@ Mit "Mesmer" wollten wir zwischen all dem Chaos eine Atempause schaffen. Henrik 
 
 **Aron:** Wir haben alle studiert, um freie Musiker zu werden. Die natürliche Entwicklung auf einer derartigen Laufbahn ist hier in Schweden die Zusammenarbeit mit Pop-Künstler⋆innen. Daraus ergibt sich natürlich nicht immer 100-prozentige künstlerische Freiheit. Außerdem kann das Genre gelegentlich etwas generisch sein und nicht sehr einzigartig. Wir haben den Drang gespürt, etwas weitab des Mainstreams und der Charts zu machen, also haben wir angefangen gemeinsam zu proben, das Licht ausgeknipst und stundenlang in kompletter Dunkelheit gejammt. Die Eliminierung des Sehsinns zwingt uns dazu, unser Gehör zu verbessern und einander zuzuhören. Wir spielen heute noch so, weil wir so das Maximum an Gefühlen rausholen können.
 
-**Anne:** Habt Ihr noch andere Projekte oder Bands, in denen Du vor Solár gespielt hast, die Du erwähnen möchtest?
+**Anne:** Habt Ihr noch andere Projekte oder Bands, in denen Ihr vor Solár gespielt habt, die Du erwähnen möchtest?
 
 **Aron:** Ich spiele noch in einem vor Kurzem gegründeten sehr wütenden Hardcore Projekt. Wir haben bis jetzt noch keinen Namen. Leon spielt mit vielen unterschiedlichen Künstler⋆innen, einige davon kommen von Swedish Idol. Er hat auch ein Lo-Fi Duo namens nap.head.
 
