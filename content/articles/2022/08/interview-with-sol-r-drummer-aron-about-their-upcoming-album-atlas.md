@@ -52,7 +52,7 @@ But first things first: "Atlas" will be available on all music streaming platfor
 
 ## A Sweden-based post-rock project
 
-**Aron:** Oh yeah, it has been great! We have got a ton of messages from people and some good traction with it. With today's music market in mind, releasing a 22-minute single is propably the most stupid thing you can do. But for us, this song is unique as it is one of the first we wrote and a representation of all the elements on the album. It has everything from diverse dynamics, build-ups, challenging free-form interludes, and an epic peak.
+**Aron:** Oh yeah, it has been great! We have got a ton of messages from people and some good traction with it. With today's music market in mind, releasing a 22-minute single is propably the most stupid thing you can do. But for us, this song is unique as it is one of the first we wrote and a representation of all the elements on the album. It has everything from diverse dynamics, build-ups, challenging free-form interludes, and a glorious peak.
 
 ![Solár – "Nomad"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/nomad-single-cover-2022-jpeg-imagine-981808_852b04_3000_3000/640.webp "Solár – \\"Nomad\\"")
 
