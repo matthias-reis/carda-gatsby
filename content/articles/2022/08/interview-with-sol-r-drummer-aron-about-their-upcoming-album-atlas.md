@@ -50,6 +50,8 @@ But first things first: "Atlas" will be available on all music streaming platfor
 
 **Anne:** How is the feedback from the crowd on your pre-released single "Nomad" so far?
 
+## A Sweden-based post-rock project
+
 **Aron:** Oh yeah, it has been great! We have got a ton of messages from people and some good traction with it. With today's music market in mind, releasing a 22-minute single is propably the most stupid thing you can do. But for us, this song is unique as it is one of the first we wrote and a representation of all the elements on the album. It has everything from diverse dynamics, build-ups, challenging free-form interludes, and an epic peak.
 
 ![Solár – "Nomad"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/nomad-single-cover-2022-jpeg-imagine-981808_852b04_3000_3000/640.webp "Solár – \\"Nomad\\"")
@@ -59,6 +61,8 @@ But first things first: "Atlas" will be available on all music streaming platfor
 **Aron:** Yes! We will be hosting a release gig on September 10th, here in Stockholm at a local brewery. It's going to be super loud, haha! We are also opening up for 1000Mods here in Sweden in October. We also have plans for festivals in other countries, such as Germany, for 2023. 
 
 **Anne:** The songs are named "Nomad", "Sam Francis" (the painter?), "Swarm", "Mesmer" (is it about the mesmerism guy?), "Breach", and "Samarkand" (the name of a city in Uzbekistan?). They sound as if there is a story behind them that puts them all together. Is there? Do you want to share it?
+
+## A nomad in the sea of dunes
 
 **Aron:** I can probably write endlessly about the meaning and theme of the songs, but the overall concept is, as I said, a journey and an exploration of the mind. The title "Nomad" just came to us when we wanted to describe the bridge in the middle of the song, with the toms being very prominent. That part gave us all a vision of being a Nomad wandering the dune sea, so we named the song "Nomad". 
 
@@ -72,7 +76,9 @@ With "Mesmer", we wanted to create a pause to breathe amidst all the chaos. This
 
 **Anne:** You worked with Sofar Stockholm. They take care of live venues and studios, if I am correctly informed? What are your connections with this gorgeous association?
 
-**Aron:** Sofar Sounds is a global organization active in more than 350 cities worldwide that organizes live gigs in unique venues like a retail store or a living room. We change the venue for every gig, so each experience is unique. And yes, I am one of the artist bookers for Sofar Stockholm. Solár had the opportunity to play Sofar Stockholm in December 2019, just before the pandemic.
+## "We played in Stockholm before the pandemic hit us"
+
+**Aron:** Sofar Sounds is a global organisation active in more than 350 cities worldwide that organises live gigs in unique venues like a retail store or a living room. We change the venue for every gig, so each experience is unique. And yes, I am one of the artist bookers for Sofar Stockholm. Solár had the opportunity to play Sofar Stockholm in December 2019, just before the pandemic.
 
 **Anne:** You are a band of four, are you? With two persons on the keys, one guitar player/singer and a drummer? Who plays which instruments? Is Solár more like a collective like The Ocean, who sometimes come together and play in different constellations, or are you a fixed group of musicians?
 
@@ -85,6 +91,8 @@ With "Mesmer", we wanted to create a pause to breathe amidst all the chaos. This
 ![Solár – "Atlas"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/atlas-album-cover-2022-jpeg-imagine-281818_692f12_3000_3000/640.webp "Solár – \\"Atlas\\"")
 
 **Anne:** Who are your biggest influences?
+
+## "We love Cult of Luna and Mogwai"
 
 **Aron:** We draw influences from a variety of different genres and styles. It can also be a mood or feeling, such as panic or hopelessness. Or a specific scale, for example, we use the phrygian scale a lot. But I guess the most prominent influences in terms of bands are GY!BE, Swans, Pink Floyd, Cult of Luna, Mogwai, and Sigur Rós.
 
@@ -104,7 +112,9 @@ With "Mesmer", we wanted to create a pause to breathe amidst all the chaos. This
 
 **Aron:** We have all recorded shorter albums or EPs in earlier projects, but I believe this is our first album that's longer than one hour. 
 
-**Anne:** Did you enjoy the process of writing and recording "Atlas"? 
+**Anne:** Did you enjoy the process of writing and recording "Atlas"?
+
+## "We enjoyed working with Jonas Lindström"
 
 **Aron:** Oh yeah, we loved it. The album is recorded at Durango Recording in Stockholm. Jonas Lindström was the recording and mixing engineer. It is a fantastic studio, and Jonas made the whole experience a memory of a lifetime. Kai Blankenberg did the Mastering at Skyline Tonfabrik in Düsseldorf. He also did an excellent job!
 
