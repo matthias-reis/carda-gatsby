@@ -116,4 +116,4 @@ Mit "Mesmer" wollten wir zwischen all dem Chaos eine Atempause schaffen. Henrik 
 
 **Aron:** Die Freude ist ganz meinerseits! Danke!
 
-![Solár – "Atlas"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-jpeg-imagine-080808_1b1c17_4288_1660/640.webp "Solár| large")
+![Solár – "Atlas" | large](https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-jpeg-imagine-080808_1b1c17_4288_1660/640.webp "Solár")
