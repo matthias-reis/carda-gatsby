@@ -40,7 +40,7 @@ affiliate: false
 language: en
 languageLink: /2022/08/solar-interview/
 ---
-**Solár is a young Sweden-based post-rock project I recently met. They sent me their first album, "Atlas", and I instantly fell in love with their music. Their songs can be described as sophisticated, artsy post-music with a touch of DIY here and a pinch of prog there. I wanted to know more about them, and I think you guys should, too. So, here is my interview with founding member Aron. Please enjoy!**
+**Solár is a young Sweden-based post-rock project I recently met. They sent me their first album, "Atlas", and I instantly fell in love with their music. Their songs can be described as sophisticated, artsy post-music with a touch of DIY here and a pinch of prog there. I wanted to know more about them, and I think you guys should, too. So, here is my interview with drummer Aron. Please enjoy!**
 
 But first things first: "Atlas" will be available on all music streaming platforms from September 9th. You can listen to their pre-released single "Nomad" below.
 
