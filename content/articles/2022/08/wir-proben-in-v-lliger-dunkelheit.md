@@ -52,7 +52,7 @@ Aber, das Wichtigste zuerst! "Atlas" wird am 9. September auf allen Streaming-Pl
 
 **Aron:** Ziemlich gut! Wir haben massenhaft Nachrichten von Leuten bekommen und es sind einige sehr positive Rückmeldungen dabei! Auf dem heutigen Musikmarkt ist es vermutlich das Dümmste, was man tun kann, eine 22-minütige Single zu veröffentlichen. Für uns ist dieser Song jedoch etwas Besonderes, weil er der Erste ist, den wir geschrieben haben. Außerdem repräsentiert er alle Elemente des Albums. Von unterschiedlichen Dynamiken über Build-ups bis hin zu freien Zwischenspielen und einem epischen Höhepunkt ist alles mit dabei.
 
-![Solár – "Nomad"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/nomad-single-cover-2022-jpeg-imagine-981808_852b04_3000_3000/640.webp "Solár – \"Nomad\"")
+![Solár – "Nomad"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/nomad-single-cover-2022-jpeg-imagine-981808_852b04_3000_3000/640.webp "Solár – \\"Nomad\\"")
 
 **Anne:** Wird es die Möglichkeit geben, die sechs epischen Songs auf "Atlas" live zu erleben?
 
@@ -82,7 +82,7 @@ Mit "Mesmer" wollten wir zwischen all dem Chaos eine Atempause schaffen. Henrik 
 
 **Aron:** Wir haben einige großartige Bands wie Lights and Motion, Oh Hiroshima, pg.lost und Immanu El. Sie alle machen geniale Musik. Die Livemusik-Szene für Post-Rock ist jedoch sehr klein. Wir verlassen uns für Auftrittsmöglichkeiten also auf Bands wie uns. Unser Zielt mit Solár ist es, auch andere Länder anzusprechen, besonders in Europa. Ich glaube, dort gibt es für Bands in unserem Genre ein viel größeres Potenzial.
 
-![Solár – "Atlas"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/atlas-album-cover-2022-jpeg-imagine-281818_692f12_3000_3000/640.webp "Solár – \"Atlas\"")
+![Solár – "Atlas"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/atlas-album-cover-2022-jpeg-imagine-281818_692f12_3000_3000/640.webp "Solár – \\"Atlas\\"")
 
 **Anne:** Wo liegen Eure größten Einflüsse?
 
@@ -116,4 +116,4 @@ Mit "Mesmer" wollten wir zwischen all dem Chaos eine Atempause schaffen. Henrik 
 
 **Aron:** Die Freude ist ganz meinerseits! Danke!
 
-![Solár – "Atlas"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-jpeg-imagine-080808_1b1c17_4288_1660/640.webp "Solár | large")
+![Solár – "Atlas"](https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-jpeg-imagine-080808_1b1c17_4288_1660/640.webp "Solár| large")
