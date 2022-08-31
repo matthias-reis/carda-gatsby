@@ -80,7 +80,7 @@ With "Mesmer", we wanted to create a pause to breathe amidst all the chaos. This
 
 **Aron:** Sofar Sounds is a global organisation active in more than 350 cities worldwide that organises live gigs in unique venues like a retail store or a living room. We change the venue for every gig, so each experience is unique. And yes, I am one of the artist bookers for Sofar Stockholm. Solár had the opportunity to play Sofar Stockholm in December 2019, just before the pandemic.
 
-**Anne:** You are a band of four, are you? With two persons on the keys, one guitar player/singer and a drummer? Who plays which instruments? Is Solár more like a collective like The Ocean, who sometimes come together and play in different constellations, or are you a fixed group of musicians?
+**Anne:** You are a band of four, are you? With two persons on the keys, one guitar player/singer and a drummer? Who plays which instruments? Is Solár more like a collective like [The Ocean](/2020/09/the-ocean-robin-staps-interview-en), who sometimes come together and play in different constellations, or are you a fixed group of musicians?
 
 **Aron:** Solár consists of Martin Sundgren (keys/bass), David Sundström (guitar), Leon Olas Rosén (keys/bass) and me, Aron Stén on drums. We are not like The Ocean, as we do have our respective instruments. However, Martin and Leon change the bass role from song to song or even in the song itself, as both of them are familiar with playing the bass and the keyboards. Martin's primary instrument is the electric bass, so we have started incorporating a bass guitar into one of our newest songs. In addition, we have a guest on the album, Henrik Wenne, who is a dear friend of mine and a fantastic vocalist!
 
