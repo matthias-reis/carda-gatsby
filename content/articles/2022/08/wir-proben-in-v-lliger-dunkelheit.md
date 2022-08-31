@@ -116,7 +116,7 @@ Mit "Mesmer" wollten wir zwischen all dem Chaos eine Atempause schaffen. Henrik 
 
 ## "Wir haben die Zusammenarbeit mit Jonas Lindström sehr genossen"
 
-**Aron:** Auf jeden Fall! Wir haben es sehr genossen! Das Album wurde in Stockholm bei Durango Recording aufgenommen. Jonas Lindström war unser Recording und Mixing Engineer. Es ist ein fantastisches Studio und Jonas hat das Ganze für uns zu einem unvergesslichen Erlebnis für uns gemacht. Kai Blankenberg hat sich dann in der Skyline Tonfabrik in Düsseldorf um das Mastering gekümmert. Er hat auch einen großartigen Job gemacht.
+**Aron:** Auf jeden Fall! Wir haben es sehr genossen! Das Album wurde in Stockholm bei Durango Recording aufgenommen. Jonas Lindström war unser Recording- und Mixing-Engineer. Es ist ein fantastisches Studio und Jonas hat das Ganze für uns zu einem unvergesslichen Erlebnis für uns gemacht. Kai Blankenberg hat sich dann in der Skyline Tonfabrik in Düsseldorf um das Mastering gekümmert. Er hat auch einen großartigen Job gemacht.
 
 **Anne:** Was steht nach der Veröffentlichung von "Atlas" als Nächstes an für Solár?
 
