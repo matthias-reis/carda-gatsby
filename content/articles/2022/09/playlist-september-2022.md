@@ -83,7 +83,7 @@ Ich hatte Euch ja bereits vorgewarnt, dass es vom für den 9. Oktober angekündi
 
 Noch mehr alte Bekannte gefällig? Matze hat vorgesorgt:
 
-> "Auch Motorpsycho liefern nach wie vor wie ein Uhrwerk neue Musik ab. Diesmal eine einfache 4-Song-EP? Oh nein. Das letzte Stück 'Chariot of the Sun' füllt mit 22 Minuten eine ganze Plattenseite und ist eine art imaginärer Soundtrack. Das macht die Platte zu einem vollen ¾-Stunden Album. Mein Song-Pick ist in Sachen Spielzeit ein Kompromiss – das Stück besitzt alles was sich das Prog-Herz wünscht, und ist dennoch kompakt genug für eine Liste, wie diese. 12 Minuten voll psychedelische Improvisationen werden von fast schon klassischen Strukturen und mehreren Song-Parts abgelöst."
+> "Auch Motorpsycho liefern nach wie vor wie ein Uhrwerk neue Musik ab. Diesmal eine einfache 4-Song-EP? Oh nein. Das letzte Stück 'Chariot of the Sun' füllt mit 22 Minuten eine ganze Plattenseite und ist eine art imaginärer Soundtrack. Das macht die Platte zu einem vollwertigen ¾-Stunden-Album. Mein Song-Pick ist in Sachen Spielzeit ein Kompromiss – das Stück besitzt alles was sich das Prog-Herz wünscht, und ist dennoch kompakt genug für eine Liste, wie diese. 12 Minuten voll psychedelische Improvisationen werden von fast schon klassischen Strukturen und mehreren Song-Parts abgelöst."
 
 <YouTube id="o5nGmMtlf0k" />
 
