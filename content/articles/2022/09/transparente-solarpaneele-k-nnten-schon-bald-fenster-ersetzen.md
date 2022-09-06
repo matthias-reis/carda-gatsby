@@ -1,15 +1,15 @@
 ---
 date: 2022-09-06T15:43:04.494Z
-slug: transparente-solarpaneele
+slug: transparente-solarmodule
 typeName: Beitrag
-title: Transparente Solarpaneele könnten schon bald Fenster ersetzen
+title: Transparente Solarmodule könnten schon bald Fenster ersetzen
 subTitle: Photovoltaik-Glas – saubere Energiegewinnung für die Zukunft
-seoTitle: Transparente Solarpaneele als Fensterersatz
-description: Transparente Solarpaneele könnten den Energiemarkt schon bald
+seoTitle: Transparente Solarmodule als Fensterersatz
+description: Transparente Solarmodule könnten den Energiemarkt schon bald
   revolutionieren. Die ersten Gebäude wurden bereits mit Solar-Fenstern
   bestückt.
 excerpt: "Bereits 2014 fanden Forschende an der Michigan State University
-  heraus: transparente Solarpaneele können schon bald weltweit als Fensterersatz
+  heraus: transparente Solarmodule können schon bald weltweit als Fensterersatz
   dienen. Das würde die Anwendungsmöglichkeiten natürlich um ein Vielfaches
   vergrößern  – auch die letzten Zweifelnden könnten Solarstrom ganz einfach in
   ihr Leben integrieren – komplett unsichtbar. Ihre Entdeckung könnte jetzt
@@ -26,21 +26,22 @@ labels:
   - Solarzellen
   - Nachhaltigkeit
   - Klima & Umweltschutz
-  - Transparente Solarpaneele
-focusKeyword: Transparente Solarpaneele
+  - Transparente Solarpanels
+  - Transparente Solarmodule
+focusKeyword: Transparente Solarmodule
 advertisement: false
 affiliate: false
 language: de
 ---
-**Bereits 2014 fanden Forschende an der Michigan State University heraus: transparente Solarpaneele können schon bald weltweit als Fensterersatz dienen. Das würde die Anwendungsmöglichkeiten natürlich um ein Vielfaches vergrößern  – auch die letzten Zweifelnden könnten Solarstrom ganz einfach in ihr Leben integrieren – komplett unsichtbar. Ihre Entdeckung könnte jetzt alles verändern.**
+**Bereits 2014 fanden Forschende an der Michigan State University heraus: transparente Solarmodule können schon bald weltweit als Fensterersatz dienen. Das würde die Anwendungsmöglichkeiten natürlich um ein Vielfaches vergrößern  – auch die letzten Zweifelnden könnten Solarstrom ganz einfach in ihr Leben integrieren – komplett unsichtbar. Ihre Entdeckung könnte jetzt alles verändern.**
 
-Transparente Solarpaneele sind eine bahnbrechende Entwicklung. Denn: Sie könnten ganze Städte energieautark machen und einen echten Ausweg aus rückschrittlichen Techniken wie der Atomkraft als Energiequelle bieten – wie es aussieht, sogar relativ bald.
+Transparente Solarmodule sind eine bahnbrechende Entwicklung. Denn: Sie könnten ganze Städte energieautark machen und einen echten Ausweg aus rückschrittlichen Techniken wie der Atomkraft als Energiequelle bieten – wie es aussieht, sogar relativ bald.
 
 Die neue Ära der Energiegewinnung liegt vor unserer Nase. Wir müssen nur zugreifen. Strom über transparente Solarpanels zu gewinnen, die als Fenster Teil von Gebäuden werden, könnten ein entscheidender Teil des Wandels sein und eine wahre Revolution für die Menschen in den unterschiedlichsten Regionen bedeuten. Viel mehr noch: Sie könnten endgültig global für Unabhängigkeit von herkömmlichen Energiequellen sorgen.
 
-## Transparente Solarpaneele sind vielseitig einsetzbar
+## Transparente Solarmodule sind vielseitig einsetzbar
 
-Doch funktioniert das wirklich so einfach? Können wir schon bald Strom mit unseren Fenstern erzeugen? Oder ist das in Wirklichkeit doch nur ein Traum? Ihr könnt aufhören, Euch zu kneifen: Das ist es nicht. Transparente Solarpaneele gibt es wirklich und sie besitzen sogar einige Vorteile gegenüber gängigen Solarelementen: Mithilfe der neuen Technik können Sonnenstrahlen auf der durchsichtigen Oberfläche eingefangen werden. Der Winkel spielt dabei keine Rolle mehr.  Das könnte alles verändern, denn: Die Paneele können dadurch auch in Gegenden und an Orten, die bisher für die Gewinnung von Solarenergie als ungeeignet galten, eingesetzt werden.
+Doch funktioniert das wirklich so einfach? Können wir schon bald Strom mit unseren Fenstern erzeugen? Oder ist das in Wirklichkeit doch nur ein Traum? Ihr könnt aufhören, Euch zu kneifen: Das ist es nicht. Transparente Solarmodule gibt es wirklich und sie besitzen sogar einige Vorteile gegenüber gängigen Solarelementen: Mithilfe der neuen Technik können Sonnenstrahlen auf der durchsichtigen Oberfläche eingefangen werden. Der Winkel spielt dabei keine Rolle mehr.  Das könnte alles verändern, denn: Die Panels können dadurch auch in Gegenden und an Orten, die bisher für die Gewinnung von Solarenergie als ungeeignet galten, eingesetzt werden.
 
 Die Ingenieure und Forscher entwickelten im Hinblick auf die Technik gleich mehrere Lösungen für die Energiegewinnung mit transparenten Solarmodulen, die auch als Photovoltaik-Glas bezeichnet werden. Die meisten sind sogenannte Solarkonzentratoren. Sie sind also dazu in der Lage, bestimmte für das menschliche Auge unsichtbare UV- und Infrarot-Strahlen zu absorbieren und in Energie umzuwandeln. Sprich: Haushalte mit Strom zu versorgen. 
 
