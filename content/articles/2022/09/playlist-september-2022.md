@@ -117,5 +117,9 @@ Fans von Beck, Muse, Supergrass, Ash und Fun lovin' Criminals sollten jetzt das 
 
 <YouTube id="IpIzv5Q5kCU " />
 
-https://open.spotify.com/playlist/3ifIMzuJv1RlqJdY1M266x?si=2541ae8733e64432
+<Playlist
+  spotify="3ifIMzuJv1RlqJdY1M266x?si=2541ae8733e64432"
+  itunes="2022-09-06-rock-n-roll-vegan/pl.u-km9DUv3dBdD"
+/>
+
  
