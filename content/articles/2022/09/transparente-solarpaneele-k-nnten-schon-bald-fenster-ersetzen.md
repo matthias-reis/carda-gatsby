@@ -10,7 +10,7 @@ description: Transparente Solarmodule könnten den Energiemarkt schon bald
   bestückt.
 excerpt: "Bereits 2014 fanden Forschende an der Michigan State University
   heraus: transparente Solarmodule können schon bald weltweit als Fensterersatz
-  dienen. Das würde die Anwendungsmöglichkeiten natürlich um ein Vielfaches
+  dienen. Das würde die Einsatzmöglichkeiten natürlich um ein Vielfaches
   vergrößern."
 image: https://storage.googleapis.com/cardamonchai-media/2022-09-06/transparente-solarzellen-msu-jpeg-imagine-78a8e8_908d93_1024_768/640.webp
 copyrigt: Michigan State University, MSU Today
@@ -31,7 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Bereits 2014 fanden Forschende an der Michigan State University heraus: transparente Solarmodule können schon bald weltweit als Fensterersatz dienen. Das würde die Anwendungsmöglichkeiten natürlich um ein Vielfaches vergrößern  – auch die letzten Zweifelnden könnten Solarstrom ganz einfach in ihr Leben integrieren – komplett unsichtbar. Ihre Entdeckung könnte jetzt alles verändern.**
+**Bereits 2014 fanden Forschende an der Michigan State University heraus: transparente Solarmodule können schon bald weltweit als Fensterersatz dienen. Das würde die Einsatzmöglichkeiten um ein Vielfaches vergrößern – auch die letzten Zweifelnden könnten Solarstrom ganz einfach in ihr Leben integrieren – komplett unsichtbar. Ihre Entdeckung könnte alles verändern.**
 
 Transparente Solarmodule sind eine bahnbrechende Entwicklung. Denn: Sie könnten ganze Städte energieautark machen und einen echten Ausweg aus rückschrittlichen Techniken wie der Atomkraft als Energiequelle bieten – wie es aussieht, sogar relativ bald.
 
