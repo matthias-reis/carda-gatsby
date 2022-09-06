@@ -57,7 +57,7 @@ Tides from Nebula haben eine neue Single draußen! Nach den Live Sessions von 20
 
 Zur Vorauskopplung des für den 7. Oktober angekündigten neuen Twin Drugs Album "In Now Less Than Ever" findet die Band folgende Worte:
 
-> "'World Fell Off' zeigt unsere verträumtere Seite. Alle Ecken wurden abgerundet für einen Song über eine vorausgesagte Zukunft, die es niemals wirklich gegeben hat. Es ist de facto unsere Album-Ballade – eine traumhafte Landschaft, die den düsteren Charakter der Platte erweitert. Der Song bewegt sich mit der Präzision eines mechanischer Bullen, besteht aber darauf, dich auf eine Runde mitzunehmen."
+> "Mit'World Fell Off' zeigen wir unsere verträumtere Seite. Wir haben alle Ecken abgerundet – für einen Song über eine vorausgesagte Zukunft, die es niemals wirklich gegeben hat. Es ist de facto unsere Album-Ballade – eine traumhafte Landschaft, die den düsteren Charakter der Platte erweitert. Der Song bewegt sich mit der Präzision eines mechanischer Bullen, besteht aber darauf, dich auf eine Runde mitzunehmen."
 
 Der Song hebt sich tatsächlich vom Rest des Albums ab, das in seiner Gesamtheit ziemlich perfekt geworden ist. Ich kann nur sagen: Hört mal rein, es lohnt sich!
 
