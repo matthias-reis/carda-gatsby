@@ -77,7 +77,7 @@ Ich hatte Euch ja bereits vorgewarnt, dass es vom für den 9. Oktober angekündi
 
 > "Im Moment gibt es wieder wundervolle, neue Musik von ganz vielen alten Bekannten. Neben Mars Volta und Russian Circles gehören auch Crippled Black Phoenix zu meinen Lieblingsbands. Kein Wunder: Mit ihrer perfekten Mischung aus Prog und Post-Rock decken sie fast meine gesamte Wunsch-Palette ab. Die ersten neuen Stücke mit leicht veränderter Besetzung (neuer Co-Sänger Joel Segerstedt) erscheinen nach und nach. Diesen Monat ist 'Bonefire' dran."
 
-<YouTube id="07XHKXhfah0" />
+<YouTube id="FLvkB67NVTc" />
 
 ## Motorpsycho – "Mona Liza/Azrael" vom Album "Ancient Astronauts"
 
