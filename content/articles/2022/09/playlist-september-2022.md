@@ -47,6 +47,8 @@ language: de
 ---
 **Die September-Playlist kommt etwas später als gewohnt, aber dafür nicht weniger von Herzen. Nach einer ausgedehnten Großbritannien-Tour inklusive Festival-Besuch, alles zusammen inkl. Anreise in zwei Wochen gequetscht, hat es etwas gedauert, bis ich mich wieder sortiert hatte. Gemeinsam mit Valentin und Matze habe ich diese neun Songs für Euch selektiert.**
 
+Die fertigen Playlists für iTunes und Spotify findet Ihr wie immer am Ende des Artikels.
+
 ## Tides from Nebula – "The Sweetest Way To Die"
 
 Tides from Nebula haben eine neue Single draußen! Nach den Live Sessions von 2020 und "From Voodoo To Zen" 2019 ist "The Sweetest Way To Die" das erste Lebenszeichen der Warschauer Band, die übrigens demnächst auch in deutschen Städten live auf der Bühne zu sehen sein wird. Das Stück ist am 24. August erschienen. Es spricht eine furchtvolle, spannungsgeladene Sprache, ist definitiv "eins zum immer wieder hören" und lässt auf ein vollständiges Album hoffen. Instrumentalmusik, die unter die Haut geht – volle Punktzahl.
