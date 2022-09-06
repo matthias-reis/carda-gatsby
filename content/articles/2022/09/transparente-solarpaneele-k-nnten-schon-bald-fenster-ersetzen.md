@@ -53,7 +53,7 @@ Die durchsichtigen Solarzellen könnten also einfach ins Stadtbild integriert we
 
 ## Die Zukunft der Energie ist transparent
 
-Durchsichtige Solarzellen als Fenster für Wohnhäuser und Büroeinheiten – das klingt wunderbar, oder? Sie könnten übrigens auch dazu beitragen, dass immer mehr Häuser zu Passivhäusern werden können.
+Durchsichtige Solarzellen als Fenster für Wohnhäuser und Büroeinheiten – das klingt wunderbar, oder? Sie könnten übrigens auch dazu beitragen, dass nach und nach immer mehr Häuser zu Passivhäusern werden.
 
 Falls Ihr Euch jetzt fragt, wie lange das wohl wieder dauert, bis es mal Realität wird? Die Umsetzung ist bereits im Gange!  Das Biomedical and Physical Sciences Gebäude auf dem Campus der Michigan State University[^1] wurde letztes Jahr mit 100 Quadratmetern transparenten Solarglasscheiben ausgestattet. Sie stellen die Beleuchtung im Atrium der Hochschule sicher. 
 
