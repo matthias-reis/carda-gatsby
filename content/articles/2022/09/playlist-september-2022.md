@@ -71,11 +71,11 @@ Valentin hat diesen Muse-Song ausgesucht:
 
 <YouTube id="GgyQufB1Yic" />
 
-## Crippled Black Phoenix – "Everything is Beautiful but Us" (Vorauskopplung vom Album "Banefyre")
+## Crippled Black Phoenix – "Bonefire" (Vorauskopplung vom Album "Banefyre")
 
 Ich hatte Euch ja bereits vorgewarnt, dass es vom für den 9. Oktober angekündigten CBP Album hier noch mehr zu hören geben wird. Diesen Monat hat Matze ein Stück davon auf die Liste gepackt:
 
-> "Diesen Monats gibt es wieder wundervolle, neue Musik von ganz vielen alten Bekannten. Neben Mars Volta und Russian Circles eben auch Crippled Black Phoenix, einer meiner persönlichen Lieblingsbands. Mit ihrer perfekten Mischung aus Pink Floydigem Prog und Post Rock decken sie fast meine gesamte Palette ab. Die ersten neuen Stücke mit leicht veränderter Besetzung (neuer Co-Sänger Joel Segerstedt). Mein Pick hier wird aber immer noch von Belindas starker, tragender Stimme dominiert und kommt mit einem wie immer außergewöhnlichen Video daher."
+> "Im Moment gibt es wieder wundervolle, neue Musik von ganz vielen alten Bekannten. Neben Mars Volta und Russian Circles gehören auch Crippled Black Phoenix zu meinen Lieblingsbands. Kein Wunder: Mit ihrer perfekten Mischung aus Prog und Post Rock decken sie fast meine gesamte Wunsch-Palette ab. Die ersten neuen Stücke mit leicht veränderter Besetzung (neuer Co-Sänger Joel Segerstedt) erscheinen nach und nach. Diesen Monat ist 'Bonefire' dran."
 
 <YouTube id="07XHKXhfah0" />
 
