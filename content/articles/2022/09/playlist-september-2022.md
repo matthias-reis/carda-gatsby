@@ -49,7 +49,7 @@ language: de
 
 ## Tides from Nebula – "The Sweetest Way To Die"
 
-Tides from Nebula haben eine neue Single draußen! Nach den Live Sessions von 2020 und "From Voodoo To Zen" 2019 ist "The Sweetest Way To Die" das erste Lebenszeichen der Warschauer Band, die übrigens demnächst auch in deutschen Städten live auf der Bühne zu sehen ist. Das Stück ist am 24. August erschienen. Es spricht eine furchtvolle, spannungsgeladene Sprache, ist definitiv "eins zum immer wieder hören" und lässt auf ein vollständiges Album hoffen. Instrumentalmusik, die unter die Haut geht – volle Punktzahl.
+Tides from Nebula haben eine neue Single draußen! Nach den Live Sessions von 2020 und "From Voodoo To Zen" 2019 ist "The Sweetest Way To Die" das erste Lebenszeichen der Warschauer Band, die übrigens demnächst auch in deutschen Städten live auf der Bühne zu sehen sein wird. Das Stück ist am 24. August erschienen. Es spricht eine furchtvolle, spannungsgeladene Sprache, ist definitiv "eins zum immer wieder hören" und lässt auf ein vollständiges Album hoffen. Instrumentalmusik, die unter die Haut geht – volle Punktzahl.
 
 <YouTube id="dvIA20cNL6Q" />
 
