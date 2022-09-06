@@ -9,11 +9,9 @@ description: Transparente Solarmodule könnten den Energiemarkt schon bald
   revolutionieren. Die ersten Gebäude wurden bereits mit Solar-Fenstern
   bestückt.
 excerpt: "Bereits 2014 fanden Forschende an der Michigan State University
-  heraus: transparente Solarmodule können schon bald weltweit als Fensterersatz
-  dienen. Das würde die Anwendungsmöglichkeiten natürlich um ein Vielfaches
-  vergrößern  – auch die letzten Zweifelnden könnten Solarstrom ganz einfach in
-  ihr Leben integrieren – komplett unsichtbar. Ihre Entdeckung könnte jetzt
-  alles verändern."
+  heraus: transparente Solarmodule könnten schon bald weltweit in Gebäuden als
+  Fensterersatz dienen. Das würde die Einsatzmöglichkeiten natürlich um ein
+  Vielfaches vergrößern."
 image: https://storage.googleapis.com/cardamonchai-media/2022-09-06/transparente-solarzellen-msu-jpeg-imagine-78a8e8_908d93_1024_768/640.webp
 copyrigt: Michigan State University, MSU Today
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-09-06/transparente-solarzellen-msu-fb-jpeg-imagine-c8c8c8_8e8c93_1200_628/640.webp
@@ -33,7 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Bereits 2014 fanden Forschende an der Michigan State University heraus: transparente Solarmodule können schon bald weltweit als Fensterersatz dienen. Das würde die Anwendungsmöglichkeiten natürlich um ein Vielfaches vergrößern  – auch die letzten Zweifelnden könnten Solarstrom ganz einfach in ihr Leben integrieren – komplett unsichtbar. Ihre Entdeckung könnte jetzt alles verändern.**
+**Bereits 2014 fanden Forschende an der Michigan State University heraus: transparente Solarmodule könnten schon bald in Gebäuden weltweit als Fensterersatz dienen. Das würde die Einsatzmöglichkeiten um ein Vielfaches vergrößern – auch die letzten Zweifelnden könnten Solarstrom ganz einfach in ihr Leben integrieren – komplett unsichtbar. Ihre Entdeckung könnte alles verändern.**
 
 Transparente Solarmodule sind eine bahnbrechende Entwicklung. Denn: Sie könnten ganze Städte energieautark machen und einen echten Ausweg aus rückschrittlichen Techniken wie der Atomkraft als Energiequelle bieten – wie es aussieht, sogar relativ bald.
 
