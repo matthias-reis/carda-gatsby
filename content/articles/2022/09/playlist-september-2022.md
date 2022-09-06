@@ -97,7 +97,7 @@ Matze hat sich dieses Jahr auf dem ArcTanGent Festival gleich mehrfach verliebt.
 
 ## Slipknot – "Yen" (Vorauskopplung vom Album "The End, So Far")
 
-Valentin und Slipknot – das ist eine alte Liebe. Dieses Stück ist jedoch neu:
+Valentin und Slipknot – auch das ist eine "alte Liebe". Dieses Stück ist jedoch neu:
 
 > "Slipknot können auch Balladen? Naja, dieser Song ist zumindest eine Halbballade (die natürlich im Verlauf trotzdem ausbricht). 'Yen' heißt das schöne Stück mit einem ultra-düsteren Text, das mich eher an Corey Taylor's zweite Band Stone Sour erinnert. Auf das neue Album 'The End, So Far' müssen wir noch bis zum 30. September warten. Hoffen wir mal, dass es nicht wirklich 'The End' für Slipknot wird, denn wie ich rausgefunden habe heißt das letzte Lied darauf 'Finale'... Naja, dann gibt es ja vielleicht auch bald mal wieder was von Stone Sour, was mich auch sehr freuen würde!"
 
