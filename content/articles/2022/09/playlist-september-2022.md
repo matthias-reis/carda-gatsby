@@ -113,7 +113,7 @@ Valentin hat auch dieses geniale Russian Circles Stück auf die Liste gesetzt:
 
 ## Sicky – "The Bridge" (Vorauskopplung vom Album "The Bridge")
 
-Fans von Beck, Muse, Supergrass, Ash und Fun lovin' Criminals sollten jetzt das Browserfenster geöffnet lassen. Dieses Projekt könnte einen Platz tief in Euren Herzen finden. Hinter dem Namen Sicky steckt das Solo-Projekt von Mick Butler, der bisher unter anderem mit Papa Mantra und SUMO unterwegs war. Für sein Album "The Bridge", von dem auch die gleichnamige Single stammt, ließ er sich unter anderem vom pragmatischen Northern Soul der späten 1990er- und frühen 2000er-Jahre inspirieren. Was soll man sagen? Das Konzept scheint aufzugehen. Die Platte erscheint am 18. November, die Vorauskopplung könnt Ihr jetzt schon hören.
+Fans von Beck, Muse, Supergrass, Ash und Fun Lovin' Criminals sollten jetzt das Browserfenster geöffnet lassen. Dieses Projekt könnte einen Platz tief in Euren Herzen finden. Hinter dem Namen Sicky steckt das Solo-Projekt von Mick Butler, der bisher unter anderem mit Papa Mantra und SUMO unterwegs war. Für sein Album "The Bridge", von dem auch die gleichnamige Single stammt, ließ er sich unter anderem vom pragmatischen Northern Soul der späten 1990er- und frühen 2000er-Jahre inspirieren. Was soll man sagen? Das Konzept scheint aufzugehen. Die Platte erscheint am 18. November, die Vorauskopplung könnt Ihr jetzt schon hören.
 
 <YouTube id="IpIzv5Q5kCU " />
 
