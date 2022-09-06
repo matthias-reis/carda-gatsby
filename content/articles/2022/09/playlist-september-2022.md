@@ -109,7 +109,7 @@ Valentin hat auch dieses geniale Russian Circles Stück auf die Liste gesetzt:
 
 > "Ja genau, Russian Circles hatten wir schon im Juli dabei. Allerdings ist jetzt das neue Album 'Gnosis' erschienen. Ich habe den ersten Track 'Tupilak' ausgesucht, weil er noch mehr Lust auf die komplette Platte von einer meiner Lieblingsbands macht. Viel Spaß damit"
 
-<YouTube id="kNDDeGhDaiEM" />
+<YouTube id="kNDDeGhDaiE" />
 
 ## Sicky – "The Bridge" (Vorauskopplung vom Album "The Bridge")
 
