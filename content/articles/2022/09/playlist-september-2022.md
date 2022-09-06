@@ -47,7 +47,7 @@ language: de
 ---
 **Die September-Playlist kommt etwas später als gewohnt, aber dafür nicht weniger von Herzen. Nach einer ausgedehnten Großbritannien-Tour inklusive Festival-Besuch, alles zusammen inkl. Anreise in zwei Wochen gequetscht, hat es etwas gedauert, bis ich mich wieder sortiert hatte. Gemeinsam mit Valentin und Matze habe ich diese neun Songs für Euch selektiert.**
 
-Die fertigen Playlists für iTunes und Spotify findet Ihr wie immer am Ende des Artikels.
+Die fertigen Playlists für iTunes und Spotify findet Ihr wie immer unter den Videos und unseren Anmoderationen.
 
 ## Tides from Nebula – "The Sweetest Way To Die"
 
