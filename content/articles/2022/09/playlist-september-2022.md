@@ -91,7 +91,7 @@ Noch mehr alte Bekannte gefällig? Matze hat vorgesorgt:
 
 Matze hat sich dieses Jahr auf dem ArcTanGent Festival gleich mehrfach verliebt. Eines der musikalischen Projekte, die ihn live besonders beeindruckt haben, ist Pijn:
 
-> "Zumindest einen Act von unserem unvergesslichen Besuch beim ArcTanGent Festival vor ein paar Woche musste ich einfach aussuchen. Glücklicherweise meldeten sich Pijn diesen Monat mit einer neuen Single zu Wort. Der Song kommt in tragendem Tempo daher, wird zunächst von der Violine bestimmt, steigert sich dann aber nach und nach immer weiter bis zu seinem vielschichtig instrumentalisierten Höhepunkt, ab dem die Violine dann wieder die Hauptrolle übernimmt – ein wundervolles Post-Metal Stück, das gut als Stellvertreter für das gesamte Festival-Erlebnis taugt."
+> "Zumindest einen Act von unserem unvergesslichen Besuch beim ArcTanGent Festival vor ein paar Wochen musste ich auf die Liste setzen. Glücklicherweise meldeten sich Pijn diesen Monat mit einer neuen Single zu Wort. Der Song kommt in tragendem Tempo daher, wird zunächst von der Violine bestimmt, steigert sich dann aber nach und nach immer weiter bis zu seinem vielschichtig instrumentalisierten Höhepunkt, ab dem die Violine dann wieder die Hauptrolle übernimmt – ein wundervolles Post-Metal Stück, das gut als Stellvertreter für das gesamte Festival-Erlebnis taugt."
 
 <YouTube id="NOKkteySnW0" />
 
