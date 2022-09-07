@@ -61,12 +61,14 @@ export const HomePage: React.FC<{
             recommendations: [],
           },
           frontmatter: {
-            title: "Rock 'n' Roll vegan",
+            title: "Rock 'n' Roll vegan – Musik und Veganismus",
             subTitle: "Rock 'n' Roll vegan",
-            description: "Rock 'n' Roll vegan",
+            description:
+              "Rock 'n' Roll vegan berichtet regelmäßig über Themen wie Veganismus, Tierrechte, Nachhaltigkeit und Klimaschutz. Obendrauf gibt's Interviews und Reviews – vor allem aus der Post-Rock Ecke.",
             type: '',
             typeName: 'Homepage',
             date: new Date().toString(),
+            language: 'de',
           },
         }}
         path="/"
