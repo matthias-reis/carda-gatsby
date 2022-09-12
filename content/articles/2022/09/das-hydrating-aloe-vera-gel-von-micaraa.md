@@ -75,6 +75,6 @@ MICARAA hat sich auch um die Verpackung Gedanken gemacht. Sie besteht vor allem 
 
 Um noch mehr für die Umwelt zu tun, unterstützt die Beauty Brand die Organisation OroVerde, die sich mit der Aufforstung von Regenwald-Gebieten beschäftigt. Für jede Bestellung werden Setzlinge gepflanzt.
 
-⋆Wenn Ihr neugierig geworden seid und die MICARAA Produkte auch mal testen wollt, bekommt Ihr mit meinem persönlichen Gutschein zehn Prozent Rabatt. Gebt dafür bei Eurer Bestellung einfach den Gutscheincode anne10 ein.
+⋆Wenn Ihr neugierig geworden seid und die [MICARAA Produkte](https://tidd.ly/3bcl01z) auch mal testen wollt, bekommt Ihr mit meinem persönlichen Gutschein **zehn Prozent Rabatt**. Gebt dafür bei Eurer Bestellung einfach den Gutscheincode **anne10** ein.
 
 <Gallery name="micaraa-aloe-vera-gel-2" />
