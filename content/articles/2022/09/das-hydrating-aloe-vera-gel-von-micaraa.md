@@ -32,7 +32,7 @@ language: de
 
 ---
 
-Mit meinem Rabattcode bekommt Ihr es beim Kauf sogar 10 Prozent günstiger.⋆
+Mit meinem Rabattcode bekommt Ihr das Hydrating Aloe Vera Gel und alle anderen Produkte im MICARAA Onlineshop 10 Prozent günstiger.⋆
 
 ---
 
