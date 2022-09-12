@@ -36,7 +36,7 @@ Mit meinem Rabattcode bekommt Ihr es beim Kauf sogar 10 Prozent günstiger.⋆
 
 ---
 
-Was ich am Hydrating Aloe Vera Gel von MICARAA besonders mag: Es hinterlässt keine Rückstände auf der Haut. Dafür enthält es 1,5 Prozent Hyaluronsäure und sorgt dafür, dass Haut und Haare schön geschmeidig bleiben. Ja, Ihr habt richtig gelesen: Ihr könnte es auch für die Haare verwenden.
+Was ich am [Hydrating Aloe Vera Gel von MICARAA](https://tidd.ly/3Qyb5Wh) besonders mag: Es hinterlässt keine Rückstände auf der Haut. Dafür enthält es 1,5 Prozent Hyaluronsäure und sorgt dafür, dass Haut und Haare schön geschmeidig bleiben. Ja, Ihr habt richtig gelesen: Ihr könnte es auch für die Haare verwenden.
 
 ## Gestresste Haut mit Aloe Vera Gel pflegen
 
@@ -62,13 +62,13 @@ Ich finde, das funktioniert sogar ziemlich gut. Wenn sich meine Rosazea nach kle
 
 Für die Anwendung hat mir Rashid von MICARAA wieder einen wertvollen Tipp gegeben: Bewahrt das Gel am besten im Kühlschrank auf. Das sorgt für einen wunderbaren Frische-Kick beim Auftragen, was besonders auf gereizter (Kopf-)Haut wahre Wunder wirkt.
 
-Wenn Ihr Euer Aloe Vera Gel zum Beispiel nach dem Sonnenbad auf den gesamten Körper auftragt, könnt ihr die Pflege anschließend mit einem Körperöl [LINK] intensivieren.  Zwei bis drei Pumpstöße sollten reichen.
+Wenn Ihr Euer [Aloe Vera Gel](https://tidd.ly/3Qyb5Wh) zum Beispiel nach dem Sonnenbad auf den gesamten Körper auftragt, könnt ihr die Pflege anschließend mit einem Körperöl [LINK] intensivieren.  Zwei bis drei Pumpstöße sollten reichen.
 
 Für die Anwendung auf dem Gesicht tragt Ihr je nach Bedarf ein bis zwei Pumpstöße auf und massiert das Gel sanft ein. Anschließend könnt Ihr auch ein Öl oder zum Beispiel ein pflegendes [Gesichts-Serum](/2022/07/micaraa-bakuchiol-face-serum/) verwenden. Für eine Haarkur lasst Ihr es zehn bis 15 Minuten einwirken und spült es anschließend aus.
 
 ## Umweltfreundliche Verpackung
 
-MICARAA hat sich auch um die Verpackung Gedanken gemacht. Sie besteht vor allem aus recycelbarem Braunglas und Graspapier. Den Spender könnt Ihr jederzeit mit einem praktischen Nachfüllpaket auffüllen. So fällt weniger Müll an.
+MICARAA hat sich auch um die Verpackung Gedanken gemacht. Sie besteht vor allem aus recycelbarem Braunglas und Graspapier. Den Spender könnt Ihr jederzeit mit einem praktischen, umweltschonenden [Refill-Paket](https://tidd.ly/3U6T4RR) auffüllen. So fällt weniger Müll an.
 
 Um noch mehr für die Umwelt zu tun, unterstützt die Beauty Brand die Organisation OroVerde, die sich mit der Aufforstung von Regenwald-Gebieten beschäftigt. Für jede Bestellung werden Setzlinge gepflanzt.
 
