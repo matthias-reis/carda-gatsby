@@ -62,7 +62,7 @@ Ich finde, das funktioniert sogar ziemlich gut. Wenn sich meine Rosazea nach kle
 
 Für die Anwendung hat mir Rashid von MICARAA wieder einen wertvollen Tipp gegeben: Bewahrt das Gel am besten im Kühlschrank auf. Das sorgt für einen wunderbaren Frische-Kick beim Auftragen, was besonders auf gereizter (Kopf-)Haut wahre Wunder wirkt.
 
-Wenn Ihr Euer [Aloe Vera Gel](https://tidd.ly/3Qyb5Wh) zum Beispiel nach dem Sonnenbad auf den gesamten Körper auftragt, könnt ihr die Pflege anschließend mit einem Körperöl [LINK] intensivieren.  Zwei bis drei Pumpstöße sollten reichen.
+Wenn Ihr Euer [Aloe Vera Gel](https://tidd.ly/3Qyb5Wh) zum Beispiel nach dem Sonnenbad auf den gesamten Körper auftragt, könnt ihr die Pflege anschließend mit einem [Körperöl](https://tidd.ly/3RVzTbR) intensivieren.  Zwei bis drei Pumpstöße sollten reichen.
 
 Für die Anwendung auf dem Gesicht tragt Ihr je nach Bedarf ein bis zwei Pumpstöße auf und massiert das Gel sanft ein. Anschließend könnt Ihr auch ein Öl oder zum Beispiel ein pflegendes [Gesichts-Serum](/2022/07/micaraa-bakuchiol-face-serum/) verwenden. Für eine Haarkur lasst Ihr es zehn bis 15 Minuten einwirken und spült es anschließend aus.
 
