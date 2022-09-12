@@ -50,7 +50,7 @@ Der pH-Wert liegt zwischen fünf und sechs, ist also auch für diese Körperregi
 
 ## Ausschließlich vegane Inhaltsstoffe
 
-Das Hydrating Aloe Vera Gel ist auch für empfindliche Haut geeignet – sogar im Gesicht. Auf Palmöl, Mikroplastik, Silikonen, Parabenen, Mineralölen, synthetischen Konservierungsstoffen, Sulfaten und Inhaltsstoffe tierischer Herkunft verzichtet MICARAA aus Prinzip. Solltet Ihr das Gel aus irgendwelchen Gründen dennoch nicht vertragen, verspricht MICARAA eine 30-tägige Geld-zurück-Garantie (Produktproben sind ausgeschlossen).
+Das Hydrating Aloe Vera Gel ist auch für empfindliche Haut geeignet – sogar im Gesicht. Auf Palmöl, Mikroplastik, Silikone, Parabene, Mineralöle, synthetischen Konservierungsstoffe, Sulfate und Inhaltsstoffe tierischer Herkunft verzichtet MICARAA aus Prinzip. Solltet Ihr das Gel aus irgendwelchen Gründen dennoch nicht vertragen, verspricht MICARAA eine 30-tägige Geld-zurück-Garantie (Produktproben sind ausgeschlossen).
 
 Die im Hydrating Aloe Vera Gel von MICARAA enthaltene Bio Aloe Vera wirkt Entzündungen entgegen und beruhigt die Haut. Zudem spendet sie Feuchtigkeit, die besonders leicht gespeichert werden kann. Durch die Also soll das Gel die Haut langfristig frisch und gepflegt erscheinen lassen.
 
