@@ -64,7 +64,7 @@ Für die Anwendung hat mir Rashid von MICARAA wieder einen wertvollen Tipp gegeb
 
 Wenn Ihr Euer Aloe Vera Gel zum Beispiel nach dem Sonnenbad auf den gesamten Körper auftragt, könnt ihr die Pflege anschließend mit einem Körperöl [LINK] intensivieren.  Zwei bis drei Pumpstöße sollten reichen.
 
-Für die Anwendung auf dem Gesicht tragt Ihr je nach Bedarf ein bis zwei Pumpstöße auf und massiert das Gel sanft ein. Für eine Haarkur lasst Ihr es zehn bis 15 Minuten einwirken und spült es anschließend aus.
+Für die Anwendung auf dem Gesicht tragt Ihr je nach Bedarf ein bis zwei Pumpstöße auf und massiert das Gel sanft ein. Anschließend könnt Ihr auch ein Öl oder zum Beispiel ein pflegendes [Gesichts-Serum](/2022/07/micaraa-bakuchiol-face-serum/) verwenden. Für eine Haarkur lasst Ihr es zehn bis 15 Minuten einwirken und spült es anschließend aus.
 
 ## Umweltfreundliche Verpackung
 
