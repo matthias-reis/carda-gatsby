@@ -37,7 +37,7 @@ Darum wird die Werbung für Fleisch auf öffentlichen Plätzen, in Bussen, an Ha
 
 Die jahrzehntelange Forschung der Wissenschaftler⋆innen wurde bei dieser Aussage vermutlich ignoriert. Denn nicht nur die aktuellsten Studien zeigen: Vegane Ernährung ist die beste Möglichkeit, die menschlichen Vitalwerte zu verbessern. Allerdings geht es der Stadt Haarlem vorwiegend um etwas anderes:
 
-Erst kürzlich wurde wieder belegt, dass die weltweite Nahrungsmittelproduktion für ein Drittel aller Treibhausgasemissionen verantwortlich ist. Die Verwendung von Tieren für die Fleischproduktion ist etwa doppelt so belastend für die Umwelt, wie die Produktion pflanzlicher Nahrungsmittel. [Informationen von der Albert Schweitzer Stiftung dazu findet Ihr hier ](https://cardamonchai.com/2022/07/klima-durch-pflanzliche-ernaehrung-schuetzen/) und [vom IPCC hier](https://cardamonchai.com/2022/06/ipcc-klimaexperte-raet-zu-veganismus/).
+Erst kürzlich wurde wieder belegt, dass die weltweite Nahrungsmittelproduktion für ein Drittel aller Treibhausgasemissionen verantwortlich ist. Die Verwertung von Tieren für die Fleischproduktion ist etwa doppelt so belastend für die Umwelt, wie die Produktion pflanzlicher Nahrungsmittel. [Informationen von der Albert Schweitzer Stiftung dazu findet Ihr hier ](https://cardamonchai.com/2022/07/klima-durch-pflanzliche-ernaehrung-schuetzen/) und [vom IPCC hier](https://cardamonchai.com/2022/06/ipcc-klimaexperte-raet-zu-veganismus/).
 
 Die grüne Stadträtin der Stadt Haarlem Ziggy Klazes zeigte sich verwundert darüber, dass ihre Stadt die Erste ist, die das Verbot von Fleischwerbung ausspricht. Gegenüber Haarlem105 sagte sie
 
