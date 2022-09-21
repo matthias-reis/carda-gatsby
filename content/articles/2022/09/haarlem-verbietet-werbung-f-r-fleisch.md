@@ -8,7 +8,7 @@ seoTitle: Haarlem verbietet Werbung für Fleisch
 description: Die niederländische Stadt Haarlem ist weltweit die erste Stadt, die
   Werbung im für Fleisch im öffentlichen Raum ab 2024 verbietet.
 excerpt: Die niederländische Stadt Haarlem ist weltweit die erste Stadt, die
-  Werbung im für Fleisch im öffentlichen Raum ab 2024 verbietet. Das Verbot ist
+  Werbung für Fleisch im öffentlichen Raum ab 2024 verbietet. Das Verbot ist
   eine Reaktion auf die Erkenntnis, dass Fleisch ein großer Treiber des
   Klimawandels ist. Haarlem möchte versuchen, den Fleischkonsum der Menschen
   einzuschränken und damit die Treibhausgasemissionen senken.
@@ -27,7 +27,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Die niederländische Stadt Haarlem ist weltweit die erste Stadt, die Werbung im für Fleisch im öffentlichen Raum ab 2024 verbietet. Das Verbot ist eine Reaktion auf die Erkenntnis, dass Fleisch ein großer Treiber des Klimawandels ist. Haarlem möchte versuchen, den Fleischkonsum der Menschen einzuschränken und damit die Treibhausgasemissionen senken.**
+**Die niederländische Stadt Haarlem ist weltweit die erste Stadt, die Werbung für Fleisch im öffentlichen Raum ab 2024 verbietet. Das Verbot ist eine Reaktion auf die Erkenntnis, dass Fleisch ein großer Treiber des Klimawandels ist. Haarlem möchte versuchen, den Fleischkonsum der Menschen einzuschränken und damit die Treibhausgasemissionen senken.**
 
 Nachdem Fleisch auf die Liste der klimaschädlichsten Produkte gesetzt wurde, möchte die westlich von Amsterdam gelegene 160.000-Einwohner-Stadt mit gutem Beispiel vorangehen. Das Verbot kann aufgrund bereits bestehender Verträge erst ab 2024 anlaufen.
 
