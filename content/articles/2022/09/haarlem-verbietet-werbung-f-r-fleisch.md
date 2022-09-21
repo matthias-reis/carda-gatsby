@@ -31,7 +31,7 @@ language: de
 
 Nachdem Fleisch auf die Liste der klimaschädlichsten Produkte gesetzt wurde, möchte die westlich von Amsterdam gelegene 160.000-Einwohner-Stadt mit gutem Beispiel vorangehen. Das Verbot kann aufgrund bereits bestehender Verträge erst ab 2024 anlaufen.
 
-Darum wird die Werbung für Fleisch auf öffentlichen Plätzen, Bussen, in Wartehäschen, an Haltestellen und auf Werbetafeln und Bildschirmen schon bald nicht mehr erlaubt sein. Die Fleischbranche beschwert sich indes, die Stadtverwaltung sei mit ihrer Kampagne zu weit gegangen. Im O-Ton heißt es
+Darum wird die Werbung für Fleisch auf öffentlichen Plätzen, in Bussen, an Haltestellen sowie auf Werbetafeln und Bildschirmen schon bald nicht mehr erlaubt sein. Die Fleischbranche beschwert sich indes, die Stadtverwaltung sei mit ihrer Kampagne zu weit gegangen. Im O-Ton heißt es
 
 > "Es kann nicht sein, dass uns eine Stadt vorschreibt, was das Beste für uns ist."
 
