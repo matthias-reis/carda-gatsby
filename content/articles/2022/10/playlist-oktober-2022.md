@@ -3,7 +3,7 @@ date: 2022-10-04T09:44:10.762Z
 slug: playlist-oktober-2022
 typeName: Beitrag
 title: Playlist Oktober 2022
-subTitle: Von Huracan bis Stryfe
+subTitle: Von Huracán bis Stryfe
 seoTitle: Playlist Oktober 2022 – von Post-Rock bis Industrial Pop
 ogTitle: ""
 description: "Es ist wieder so weit: Die frischen Songs sind da – von
@@ -23,7 +23,7 @@ labels:
   - Bossk
   - Fern
   - Tashi Dorji
-  - Huracan
+  - Huracán
   - Post-Rock
   - Industrial
   - Industrial Pop
@@ -44,9 +44,9 @@ language: de
 
 Die Playlists für Spotify und iTunes findet Ihr wie immer ganz unten.
 
-## Huracan "We Are Very Happy" vom Album "We Are Very Happy"
+## Huracán "We Are Very Happy" vom Album "We Are Very Happy"
 
-Dieses wertvolle Stück Musik ist gerade auf DUNK!records erschienen. Das belgische Post-Metal Projekt Huracan sagt mit dem neuen Album "We Are Very Happy" einiges aus – und lässt dabei dennoch viel Raum für eigene Interpretation. Auch der gleichnamige Opener ist das, was Ihr draus macht. Ich empfehle Euch auf jeden Fall, anschließend die restlichen neun Stücke auf der Platte auch gleich mitzuhören. Klare Riffs, gefühlvolle Drums und wiederkehrende Echos erwarten Euch.
+Dieses wertvolle Stück Musik ist gerade auf DUNK!records erschienen. Das belgische Post-Metal Projekt Huracán sagt mit dem neuen Album "We Are Very Happy" einiges aus – und lässt dabei dennoch viel Raum für eigene Interpretation. Auch der gleichnamige Opener ist das, was Ihr draus macht. Ich empfehle Euch auf jeden Fall, anschließend die restlichen neun Stücke auf der Platte auch gleich mitzuhören. Klare Riffs, gefühlvolle Drums und wiederkehrende Echos erwarten Euch.
 
 <YouTube id="7CGIaKYcsWM" />
 
