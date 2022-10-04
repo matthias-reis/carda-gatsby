@@ -112,7 +112,7 @@ Valentin hatte die Ehre, diesen freundlichen Herrn auf unsere Liste zu setzen:
 
 Den Abschluss macht heute noch mal ein Stück aus Matzes Selektion:
 
-> "Irish Folk hole ich immer im März rund um den St. Patrick's Day aus dem Plattenschrank und auch Flogging Molly zählen dann für ein paar Tage zu meinen Favoriten. Diesen Monat kam das neue Album heraus, das wie immer hält was es verspricht. Auf "Anthem" findet Ihr klassischen Speed Folk gepaart mit melancholischen Momenten und bedeutungsvollen Texten, die die Schönheit und Tragik der irischen Insel miteinander verbinden. 'A Song Of Liberty' handelt vom Krieg und ist der Ukraine gewidmet."
+> "Irish Folk hole ich meist vor allem im März, rund um den St. Patrick's Day, aus dem Plattenschrank und auch Flogging Molly zählen dann für ein paar Tage zu meinen Favoriten. Diesen Monat kam das neue Album heraus, das wie immer hält was es verspricht – beim Hören hole ich mir also quasi im Oktober den Frühling ins Wohnzimmer. Auf "Anthem" findet Ihr klassischen Speed Folk gepaart mit melancholischen Momenten und bedeutungsvollen Texten, die die Schönheit und Tragik der irischen Insel miteinander verbinden. 'A Song Of Liberty' handelt vom Krieg und ist der Ukraine gewidmet."
 
 <YouTube id="ccGKjOQsEp0" />
 
