@@ -115,3 +115,8 @@ Den Abschluss macht heute noch mal ein Stück aus Matzes Selektion:
 > "Irish Folk hole ich immer im März rund um den St. Patrick's Day aus dem Plattenschrank und auch Flogging Molly zählen dann für ein paar Tage zu meinen Favoriten. Diesen Monat kam das neue Album heraus, das wie immer hält was es verspricht. Auf "Anthem" findet Ihr klassischen Speed Folk gepaart mit melancholischen Momenten und bedeutungsvollen Texten, die die Schönheit und Tragik der irischen Insel miteinander verbinden. 'A Song Of Liberty' handelt vom Krieg und ist der Ukraine gewidmet."
 
 <YouTube id="ccGKjOQsEp0" />
+
+<Playlist
+  spotify="6pDVOvG5JkGmypnbbsqmHC?si=00c51492b09249fa"
+  itunes="2022-10-01-rock-n-roll-vegan/pl.u-xPyXIA70b0v"
+/>
