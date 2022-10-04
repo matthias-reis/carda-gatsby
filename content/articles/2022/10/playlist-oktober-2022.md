@@ -11,9 +11,7 @@ description: "Es ist wieder so weit: Die frischen Songs sind da – von
 excerpt: "Es ist so weit: Die frischen Songs sind da! Gemeinsam mit Matze und
   Valentin habe ich wieder in den unterschiedlichsten Genres nachgehört und
   diese knackige Liste für Euch zusammengestellt."
-image: "
-  https://storage.googleapis.com/cardamonchai-media/2022-10-04/playlist-oktober\
-  -jpeg-imagine-080808_6b4d48_1024_768/640.webp"
+image: https://storage.googleapis.com/cardamonchai-media/2022-10-04/playlist-oktober-jpeg-imagine-080808_6b4d48_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-04/playlist-oktober-fb-jpeg-imagine-080808_6f4e4a_1200_628/640.webp
 labels:
