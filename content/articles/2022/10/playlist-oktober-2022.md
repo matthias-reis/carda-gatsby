@@ -80,7 +80,7 @@ Dieses Stück hat Matze auf die Liste gesetzt. Hier sind seine Worte dazu:
 
 Es folgt ein Song aus Valentins Plattenkiste:
 
-> "Diesen Monat habe ich ein neues Stück von My Sleeping Karma aus Aschaffenburg für Euch. Diese wunderbare Instrumental Post Rock Band habe ich leider jetzt erst entdeckt. Was sie auf dem neuen Album abliefern, ist qualitativ überragend. Die Stücke erinnern mich etwas an meine Liebling-Post Rock Bands Isis, Russian Circles und Jakob mit einer guten Mischung Tool.'Atma' ist bereits das sechste Album der Band, die sich 2006 gegründet hat. Der zweite Song 'Prema' bietet viel Gefühl verbunden mit einer guten Portion Härte."
+> "Diesen Monat habe ich ein neues Stück von My Sleeping Karma aus Aschaffenburg für Euch. Diese wunderbare Instrumental Post Rock Band habe ich leider jetzt erst für mich entdeckt. Was sie auf dem neuen Album abliefern, ist qualitativ überragend. Die Stücke erinnern mich etwas an meine Liebling-Post Rock Bands Isis, Russian Circles und Jakob mit einer guten Mischung Tool.'Atma' ist bereits das sechste Album der Band, die sich 2006 gegründet hat. Der zweite Song 'Prema' bietet viel Gefühl verbunden mit einer guten Portion Härte."
 
 <YouTube id="XONnmccKhPI" />
 
