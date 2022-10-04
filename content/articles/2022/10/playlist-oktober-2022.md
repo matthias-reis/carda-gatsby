@@ -24,7 +24,7 @@ labels:
   - My Sleeping Karma
   - Bossk
   - Fern
-  - Tashi Dorii
+  - Tashi Dorji
   - Huracan
   - Post-Rock
   - Industrial
@@ -52,9 +52,9 @@ Dieses wertvolle Stück Musik ist gerade auf DUNK!records erschienen. Das belgis
 
 <YouTube id="7CGIaKYcsWM" />
 
-## Tashi Dorii – "Night Brings Advice" vom Album "The Power Of Water"
+## Tashi Dorji – "Night Brings Advice" vom Album "The Power Of Water"
 
-Tashi Dorii habe ich letzte Woche in Berlin kennengelernt. Er hatte die Ehre, die Bühne für God Speed You Black Emperor zu eröffnen und riss mich mit seinem überirdischen Avantgarde-Gitarrensound vom ersten Ton an hinüber in eine andere Dimension. Sein Album "The Power Of Water" ist nicht komplett neu – es ist letztes Jahr erschienen. Dennoch möchte ich das erste Stück von seiner Platte gerne an dieser Stelle mit Euch teilen und ihm hiermit seine beeindruckende Diskografie ans Werk legen. Übrigens sind auch die Live-Aufnahmen, wie etwa "Live at Turn Turn Turn" von Januar dieses Jahres wirklich empfehlenswert. Wenn man einen seiner Auftritte live gesehen hat, versteht man, warum. Tashi spielt nicht "nur" mit seiner Gitarre. Er spielt mit dem Boden unter seinen Füßen, einem Geigenbogen oder was ihm sonst gerade in die Hände fällt und mit seinem ganzen Körper. Das hier ist ganz große Klangkunst. Viel Freude damit.
+Tashi Dorji habe ich letzte Woche in Berlin kennengelernt. Er hatte die Ehre, die Bühne für God Speed You Black Emperor zu eröffnen und riss mich mit seinem überirdischen Avantgarde-Gitarrensound vom ersten Ton an hinüber in eine andere Dimension. Sein Album "The Power Of Water" ist nicht komplett neu – es ist letztes Jahr erschienen. Dennoch möchte ich das erste Stück von seiner Platte gerne an dieser Stelle mit Euch teilen und ihm hiermit seine beeindruckende Diskografie ans Werk legen. Übrigens sind auch die Live-Aufnahmen, wie etwa "Live at Turn Turn Turn" von Januar dieses Jahres wirklich empfehlenswert. Wenn man einen seiner Auftritte live gesehen hat, versteht man, warum. Tashi spielt nicht "nur" mit seiner Gitarre. Er spielt mit dem Boden unter seinen Füßen, einem Geigenbogen oder was ihm sonst gerade in die Hände fällt und mit seinem ganzen Körper. Das hier ist ganz große Klangkunst. Viel Freude damit.
 
 <YouTube id="hG93TD-YjT0" />
 
