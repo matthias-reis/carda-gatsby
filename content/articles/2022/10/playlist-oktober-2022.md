@@ -42,7 +42,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Es ist wieder so weit: Die frischen Songs sind da! Gemeinsam mit Matze und Valentin habe ich wieder in den unterschiedlichsten Genres nachgehört und diese knackige Liste für Euch zusammengestellt.**
+**Es ist so weit: Die frischen Songs sind da! Gemeinsam mit Matze und Valentin habe ich wieder in den unterschiedlichsten Genres nachgehört und diese knackige Liste für Euch zusammengestellt.**
 
 Die Playlists für Spotify und iTunes findet Ihr wie immer ganz unten.
 
