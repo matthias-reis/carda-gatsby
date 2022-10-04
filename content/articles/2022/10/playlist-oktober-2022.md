@@ -8,8 +8,8 @@ seoTitle: Playlist Oktober 2022 – von Post-Rock bis Industrial Pop
 ogTitle: ""
 description: "Es ist wieder so weit: Die frischen Songs sind da – von
   experimentellem Post-Rock über Post-Metal bis Industrial Pop."
-excerpt: "Es ist wieder so weit: Die frischen Songs sind da! Gemeinsam mit Matze
-  und Valentin habe ich wieder in den unterschiedlichsten Genres nachgehört und
+excerpt: "Es ist so weit: Die frischen Songs sind da! Gemeinsam mit Matze und
+  Valentin habe ich wieder in den unterschiedlichsten Genres nachgehört und
   diese knackige Liste für Euch zusammengestellt."
 image: "
   https://storage.googleapis.com/cardamonchai-media/2022-10-04/playlist-oktober\
