@@ -34,7 +34,7 @@ Gleich mal vorneweg: Die Sirupe von Sodabär enthalten nur sehr wenig Zucker. Im
 
 Weil ich generell viel zu wenig trinke, besonders morgens nach dem Workout, sind die [Sodabär Produkte](https://t.adcell.com/p/click?promoId=297844&slotId=80259&param0=https%3A%2F%2Fwww.sodabaer.de%2F) für mich eine willkommene Anregung, etwas mehr Flüssigkeit zu mir zu nehmen und eine schöne Ergänzung zu Wasser, Tee und Kaffee oder was ich sonst so über den Tag verteilt trinke.
 
-<Gallery name="sodabaer-getraenkesirup-1" />
+<Gallery name="sodabaer-getraenkesirup-1-1" />
 
 ## Sodabär Sirup mit oder ohne CO<sub>2</sub>-Sprudler nutzen
 
@@ -80,5 +80,5 @@ Als Nächstes werde ich das [Handmade Tonic Sirup](https://t.adcell.com/p/click?
 
 Zum Testen kann ich Euch das [Probierset "Die Maus"](https://t.adcell.com/p/click?promoId=297844&slotId=80259&param0=https%3A%2F%2Fwww.sodabaer.de%2Fsirups%2Fsirup-probierset-maus6) mit je zwei Flaschen Pfirsich-Orange, Zitrone-Limette und Sauerkirsch im Sendung mit der Maus Design empfehlen. Wenn Ihr es lieber etwas herber mögt, ist auch das [Probierset "Trend"](https://t.adcell.com/p/click?promoId=297844&slotId=80259&param0=https%3A%2F%2Fwww.sodabaer.de%2Fsirups%2Fsirup-probierset-trend) mit den Sorten Ingwer, Mate und Eistee Zitrone toll.
 
-<Gallery name="sodabaer-getraenkesirup-2" />
+<Gallery name="sodabaer-getraenkesirup-2-1" />
 
