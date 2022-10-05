@@ -42,6 +42,7 @@ labels:
   - Billy Howerdel
   - Amenra
   - Russian Circles
+  - serie:Playlists 2022
 focusKeyword: Von Russian Circles bis Mono
 advertisement: false
 affiliate: false
