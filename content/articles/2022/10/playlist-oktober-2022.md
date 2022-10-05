@@ -35,6 +35,7 @@ labels:
   - Bands
   - Review
   - Reviews
+  - serie:Playlists 2022
 focusKeyword: Playlist Oktober 2022
 advertisement: false
 affiliate: false
