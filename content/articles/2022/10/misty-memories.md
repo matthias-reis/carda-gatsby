@@ -46,7 +46,7 @@ Zwei der insgesamt acht Songs hat [Cynthia Bernard (marine eyes & awakened souls
 
 ![From Overseas & City of Dawn – "Misty Memories"](https://storage.googleapis.com/cardamonchai-media/2022-10-06/from-overseas-city-of-dawn-misty-memories-vinyl-jpg-imagine-f8f8f8_d6d4cf_1024_768/640.webp "From Overseas & City of Dawn – \"Misty Memories\"")
 
-Die Natur spielt seit jeher eine entscheidende Rolle im Gesamtwerk von From Overseas. Auch auf der in Zusammenarbeit mit Damien entstandenen Platte kann man diese Verbindung wieder anhören. 
+Die Natur spielt seit jeher eine entscheidende Rolle im Gesamtwerk von From Overseas. Auch der in Zusammenarbeit mit Damien entstandenen Platte kann man diese Verbindung wieder anhören. 
 
 Meeresrauschen, Windspiele und Füße im Sand. Ob es wirklich die Samples sind, die ich über die Kopfhörer in meine Ohren gespült bekommt oder ob sich das bereits in meiner Fantasie abspielt, die durch die verwunschenen Klänge angeregt wird, lasse ich an dieser Stelle offen.
 
