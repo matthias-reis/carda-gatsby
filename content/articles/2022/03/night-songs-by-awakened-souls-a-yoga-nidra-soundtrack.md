@@ -28,6 +28,7 @@ labels:
   - Bands
   - Review
   - Reviews
+  - Cynthia Bernard
 focusKeyword: Night Songs
 advertisement: false
 affiliate: false
