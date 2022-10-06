@@ -56,7 +56,7 @@ Eines ist sicher: Songs wie "Driftwood" (Track 2), "Fallen Leaves" (Track 3) ode
 
 Für mich könnte "Misty Memories" der Soundtrack für die kalte Jahreszeit werden – herrlicher Ambient/Drone Sound wie gemacht zum Schreiben, Meditieren, Träumen und Entspannen. Von mir gibt es die volle Punktzahl auf der Genuss-Skala. Hört mal rein, es lohnt sich.
 
-"Misty Memories" ist auf Zakès Label Past Inside the Present erschienen. [Mein Interview mit Kévin Sery könnt Ihr hier lesen](/2020/04/from-overseas-interview/). Mehr über das neue Album des Labelchefs Zakè und seine Musik [erfahrt Ihr hier](/2022/05/zake-sound-space-variations/).
+Kévin und Damien haben ihr Album auf Zakès Label Past Inside the Present veröffentlicht. [Mein Interview mit Kévin Sery könnt Ihr hier lesen](/2020/04/from-overseas-interview/). Mehr über das neue Album des Labelchefs Zakè und seine Musik [erfahrt Ihr hier](/2022/05/zake-sound-space-variations/).
 
 Wenn Ihr schnell seid, könnt Ihr noch die Limited 160 g LP Edition in Transparent Sepia Iron Transparent Sepia ergattern (Am besten über Juno Records). "Misty Memories" ist selbstverständlich aber auch auf allen Musik-Streaming-Plattformen verfügbar (ab Freitag, 7. Oktober 2022).
 
