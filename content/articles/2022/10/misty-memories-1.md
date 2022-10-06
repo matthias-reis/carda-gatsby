@@ -37,9 +37,7 @@ languageLink: /2022/10/from-overseas-city-of-dawn-misty-memories/
 ---
 **Kévin Sery, aka From Overseas, will always be one of my favourite artists from the ambient genre. The sound artist from La Réunion has now recorded a new album with City of Dawn. "Misty Memories" is the first collaboration between the two projects.**
 
-Kévin and his friend Damien from City of Dawn have created a wonderful collection of melodic songs based on nostalgic tape loops and dreamy guitar sounds.
-
-The layers of light and, at the same time, interwoven and playful guitar playing, samples and loops and their play with silence and calm have particularly impressed me.
+Kévin and his friend Damien from City of Dawn have created a wonderful collection of melodic songs based on nostalgic tape loops and dreamy guitar sounds. The layers of light and, at the same time, interwoven and playful guitar playing, samples and loops and their play with silence and calm have particularly impressed me.
 
 [Cynthia Bernard (marine eyes & awakened souls)](/2021/10/awakened-souls-en/) enriched two of the eight songs with her vocals. "Weathering" and "Waves Vanished" are my record favourites, not just for that reason. The overall atmosphere of the two tracks makes me feel like I'm drifting far away – dreaming of distant places.
 
