@@ -5,8 +5,9 @@ typeName: Review
 title: '"Misty Memories"'
 subTitle: Das neue Album von From Overseas & City of Dawn
 seoTitle: From Overseas & City of Dawn – "Misty Memories"
-description: Hörprobe gefällig? Kévin Sery aka From Overseas hat jetzt mit City
-  of Dawn ein Ambient/Drone-Album der Extraklasse veröffentlicht.
+description: Hörprobe gefällig? Kévin Sery aka From Overseas und City of Dawn
+  haben jetzt mit "Misty Memories" ein Ambient/Drone-Album der Extraklasse
+  veröffentlicht.
 excerpt: Einer meiner Lieblingskünstler aus dem Ambient Genre ist und bleibt
   Kévin Sery aka From Overseas. Der Sound-Künstler aus La Réunion hat jetzt
   gemeinsam mit City of Dawn ein neues Album aufgenommen. "Misty Memories" ist
