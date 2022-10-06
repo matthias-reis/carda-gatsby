@@ -53,9 +53,9 @@ One thing is for sure: songs like "Driftwood" (Track 2), "Fallen Leaves" (Track 
 
 ## Music for the dreamy seasons
 
-For me, the album could become the soundtrack for the cold season – incredible ambient/drone sound made for writing, meditating, dreaming and relaxing. So please give it a listen. It's worth it.
+For me, "Misty Memories" could become the soundtrack for the cold season – incredible ambient/drone sound made for writing, meditating, dreaming and relaxing. So please give it a listen. It's worth it.
 
-"Misty Memories" was released on Zakè's label Past Inside the Present. [You can read my interview with Kévin Sery here](/2020/04/from-overseas-interview-en). Moreover, [you can find out more about Zakè's current album here](/2022/05/zake-sound-space-variations-en/).
+Kévin and Damien released their album on Zakè's label Past Inside the Present. [You can read my interview with Kévin Sery here](/2020/04/from-overseas-interview-en). Moreover, [you can find out more about Zakè's current album here](/2022/05/zake-sound-space-variations-en/).
 
 If you're quick, you can still get your Limited 160 g LP Edition in Transparent Sepia Iron Transparent Sepia (preferably via Juno Records). "Misty Memories" is, of course, also available on all music streaming platforms (from Friday, October 7, 2022).
 
