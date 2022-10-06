@@ -48,7 +48,7 @@ Zwei der insgesamt acht Songs hat [Cynthia Bernard (marine eyes & awakened souls
 
 Die Natur spielt seit jeher eine entscheidende Rolle im Gesamtwerk von From Overseas. Auch der in Zusammenarbeit mit Damien entstandenen Platte kann man diese innige Verbindung wieder anhören. 
 
-Meeresrauschen, Windspiele und Füße im Sand. Ob es wirklich die Samples sind, die ich über die Kopfhörer in meine Ohren gespült bekommt oder ob sich das bereits in meiner Fantasie abspielt, die durch die verwunschenen Klänge angeregt wird, lasse ich an dieser Stelle offen.
+Meeresrauschen, Windspiele und Füße im Sand. Ob es wirklich die Samples sind, die ich über die Kopfhörer in meine Ohren gespült bekomme oder ob sich das bereits in meiner Fantasie abspielt, die durch die verwunschenen Klänge angeregt wird, lasse ich an dieser Stelle offen.
 
 Eines ist sicher: Songs wie "Driftwood" (Track 2), "Fallen Leaves" (Track 3) oder Silent Friends (Track 7) benötigen keine Worte, um eine Geschichte zu erzählen. Die spielt sich ganz von allein ab, sobald die Nadel des Plattenspielers die Rille berührt.
 
