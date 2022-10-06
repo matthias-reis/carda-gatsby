@@ -36,7 +36,7 @@ affiliate: false
 language: de
 languageLink: /2022/10/from-overseas-city-of-dawn-misty-memories-en/
 ---
-**Einer meiner Lieblingskünstler aus dem Ambient Genre ist und bleibt Kévin Sery aka From Overseas. Der Sound-Künstler aus La Réunion hat jetzt gemeinsam mit City of Dawn ein neues Album aufgenommen. "Misty Memories" ist die erste Zusammenarbeit der beiden Projekte.**
+**Einer meiner Lieblingskünstler aus dem Ambient Genre ist und bleibt Kévin Sery aka From Overseas. Der Soundkünstler aus La Réunion hat jetzt gemeinsam mit City of Dawn ein neues Album aufgenommen. "Misty Memories" ist die erste Zusammenarbeit der beiden Projekte.**
 
 Kévin und sein Freund Damien von City of Dawn haben eine wundervolle Sammlung melodischer Songs geschaffen – basierend auf nostalgischen Tape Loops und verträumten Gitarrensounds. Die Schichten aus leichtem und zugleich verwobenem und verspieltem Gitarrenspiel, Samples und Loops und ihr Spiel mit Stille und Ruhe beeindruckt mich besonders. 
 
