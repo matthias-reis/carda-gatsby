@@ -40,7 +40,7 @@ languageLink: /2022/10/from-overseas-city-of-dawn-misty-memories-en/
 
 Kévin und sein Freund Damien von City of Dawn haben eine wundervolle Sammlung melodischer Songs geschaffen – basierend auf nostalgischen Tape Loops und verträumten Gitarrensounds. Die Schichten aus leichtem und zugleich verwobenem und verspieltem Gitarrenspiel, Samples und Loops und ihr Spiel mit Stille und Ruhe beeindruckt mich besonders. 
 
-Zwei der insgesamt acht Songs hat [Cynthia Bernard (marine eyes & awakened souls)](/2021/10/awakened-souls/) mit ihren Vocals angereichert. "Weathering" und "Waves Vanished" sind nicht nur aus diesem Grund meine Favoriten auf der Platte. Die gesamte Atmosphäre der beiden Tracks lässt mich von weit Orten in der Natur träumen.
+Zwei der insgesamt acht Songs hat [Cynthia Bernard (marine eyes & awakened souls)](/2021/10/awakened-souls/) mit ihren Vocals angereichert. "Weathering" und "Waves Vanished" sind nicht nur aus diesem Grund meine Favoriten auf der Platte. Die gesamte Atmosphäre der beiden Tracks lässt mich zauberhaften Orten in unberührter Natur träumen.
 
 ## Die Natur spielt eine tragende Rolle
 
@@ -48,7 +48,7 @@ Zwei der insgesamt acht Songs hat [Cynthia Bernard (marine eyes & awakened souls
 
 Die Natur spielt seit jeher eine entscheidende Rolle im Gesamtwerk von From Overseas. Auch auf der in Zusammenarbeit mit Damien entstandenen Platte kann man diese Verbindung wieder anhören. 
 
-Meeresrauschen, Windspiele und Füße im Sand. Ob es wirklich die Samples sind, die ich über die Kopfhörer in meine Ohren gespült bekommt oder ob sich das bereits in meiner Fantasie abspielt, die durch die verzaubernden Klänge angeregt wird, lasse ich an dieser Stelle offen.
+Meeresrauschen, Windspiele und Füße im Sand. Ob es wirklich die Samples sind, die ich über die Kopfhörer in meine Ohren gespült bekommt oder ob sich das bereits in meiner Fantasie abspielt, die durch die verwunschenen Klänge angeregt wird, lasse ich an dieser Stelle offen.
 
 Eines ist sicher: Songs wie "Driftwood" (Track 2), "Fallen Leaves" (Track 3) oder Silent Friends (Track 7) benötigen keine Worte, um eine Geschichte zu erzählen. Die spielt sich ganz von allein ab, sobald die Nadel des Plattenspielers die Rille berührt.
 
