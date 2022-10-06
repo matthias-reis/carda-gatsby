@@ -39,7 +39,7 @@ languageLink: /2022/10/from-overseas-city-of-dawn-misty-memories/
 
 Kévin and his friend Damien from City of Dawn have created a wonderful collection of melodic songs based on nostalgic tape loops and dreamy guitar sounds. The layers of light and, at the same time, interwoven and playful guitar playing, samples and loops and their play with silence and calm have particularly impressed me.
 
-[Cynthia Bernard (marine eyes & awakened souls)](/2021/10/awakened-souls-en/) enriched two of the eight songs with her vocals. "Weathering" and "Waves Vanished" are my favourites on the record, not just for that reason. The overall atmosphere of the two tracks makes me feel like I'm drifting far away – dreaming of distant places.
+[Cynthia Bernard (marine eyes & awakened souls)](/2021/10/awakened-souls-en/) enriched two of the eight songs with her vocals. "Weathering" and "Waves Vanished" are my favourites on the record, not just for that reason. The overall atmosphere of the two tracks makes me feel like I'm drifting far away – dreaming of hidden places of untouched nature.
 
 ## Nature plays a leading role
 
