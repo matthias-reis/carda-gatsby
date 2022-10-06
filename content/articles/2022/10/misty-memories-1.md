@@ -57,7 +57,7 @@ For me, "Misty Memories" could become the soundtrack for the cold season – inc
 
 Kévin and Damien released their album on Zakè's label Past Inside the Present. [You can read my interview with Kévin Sery here](/2020/04/from-overseas-interview-en). Moreover, [you can find out more about Zakè's current album here](/2022/05/zake-sound-space-variations-en/).
 
-If you're quick, you can still get your Limited 160 g LP Edition in Transparent Sepia Iron Transparent Sepia (preferably via Juno Records). "Misty Memories" is, of course, also available on all music streaming platforms (from Friday, October 7, 2022).
+If you're quick, you can still get your limited 160 g LP edition in Transparent Sepia Iron or Transparent Oxidized Iron (via Juno Records or Bandcamp). "Misty Memories" is, of course, also available on all music streaming platforms (from Friday, October 7, 2022).
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3268796922/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://pitp.bandcamp.com/album/misty-memories">Misty Memories by From Overseas &amp; City of Dawn</a></iframe>
 
