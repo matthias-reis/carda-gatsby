@@ -39,6 +39,7 @@ labels:
   - Bands
   - Review
   - Reviews
+  - Cynthia Bernard
 focusKeyword: Playlist August 2022
 advertisement: false
 affiliate: false
