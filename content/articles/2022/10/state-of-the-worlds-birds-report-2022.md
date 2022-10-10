@@ -49,10 +49,12 @@ Im Bericht finden sich zahlreiche Beispiele für Arten, die vor dem Aussterben g
 
 Das Post-2020 Global Biodiversity Framework[^2], bei dem sich die UN-Staaten gemeinsam für Biodiversität einsetzen, könnte unsere letzte Chance sein, den Kollaps der Natur noch zu verhindern. Die Umsetzung kann nur gelingen, wenn die Regierungen ihre Versprechen einlösen und jetzt mit der Umsetzung konkreter Maßnahmen beginnen. Davon hängt nicht nur die Zukunft der Vögel, sondern die aller Lebewesen auf dem Planeten ab – uns Menschen eingeschlossen.
 
-**Hinweis:** Den toten [Basstölpel](/2019/11/helgoland-birdwatching/) auf dem Bild oben habe ich diesen Sommer in Dänemark fotografiert. Er war nicht der einzige, den wir in den paar Tagen, die wir dort (unter anderem mit Müllsammeln am Strand) verbrachten. An der Nordseeküste tobt schon länger eine Virus-Pandemie: Die Vogelgrippe fordert seit vielen Wochen Opfer unter den Seevögeln.
+**Hinweis:** Den toten [Basstölpel](/2019/11/helgoland-birdwatching/) auf dem Bild oben habe ich diesen Sommer in Dänemark fotografiert. Er war nicht der einzige, den wir in den paar Tagen, die wir dort (unter anderem mit Müllsammeln am Strand) verbrachten. An der Nordseeküste tobt schon länger eine Virus-Pandemie, die sich europaweit immer weiter ausbreitet: Die Vogelgrippe[^3] fordert seit vielen Wochen Opfer unter den Seevögeln.
 
 [Den kompletten State of the World's Birds Report 2022 könnt Ihr auf der Seite des herunterladen (englisch, französisch oder spanisch)](https://www.birdlife.org/papers-reports/state-of-the-worlds-birds-2022/).
 
 [^1]: [State of the World's Birds Report 2022](https://www.birdlife.org/papers-reports/state-of-the-worlds-birds-2022/)
 
 [^2]: [Post-2020 Global Biodiversity Framework](https://unctad.org/topic/trade-and-environment/biotrade/Post-2020-framework)
+
+[^3]: [Vogelgrippe Tagesschau](https://www.tagesschau.de/ausland/europa/europa-vogelgrippe-epidemie-101.html)
