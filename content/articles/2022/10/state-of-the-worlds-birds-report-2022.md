@@ -29,9 +29,7 @@ language: de
 ---
 **Fast die Hälfte aller Vogelarten weltweit werden immer weniger. Das geht aus dem Vogelreport der Naturschutzorganisation BirdLife International für das Jahr 2022 hervor. Naturschützer⋆innen beobachten den Trend mit Sorge.**
 
-Bei 49 Prozent aller Vogelarten vermindert sich die Population zunehmend. BirdLife International (BLI) sieht diese Entwicklung mit Besorgnis.
-
-BLI veröffentlicht alle vier Jahre einen neuen Bericht. Beim State of the World's Birds Report 2022[^1] handelt es sich um die fünfte bisher erschiene Ausgabe.
+Bei 49 Prozent aller Vogelarten vermindert sich die Population zunehmend, berichtet BirdLife International (BLI). Die NGO veröffentlicht alle vier Jahre einen neuen Bericht. Beim State of the World's Birds Report 2022[^1] handelt es sich um die fünfte bisher erschiene Ausgabe.
 
 Der weltweit führende Vogelbericht fasst zusammen, was Vögel als Barometer für die Gesundheit des Planeten, den Zustand der Natur sagen. Hinzu kommen die erforderlichen Lösungen, die wir heute ergreifen müssen, um die bedrohten Vogelarten vor dem Aussterben zu bewahren.
 
