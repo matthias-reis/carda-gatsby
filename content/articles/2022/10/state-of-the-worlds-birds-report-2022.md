@@ -37,7 +37,7 @@ Die Daten zeichnen ein zutiefst besorgniserregendes Bild – neben der Tatsache,
 
 ## Die Vögel zeigen uns, was wir für die Natur tun müssen
 
-Schuld daran ist, wie so oft, unser unbedachtes Handeln beziehungsweise: die gnadenlose Zerstörung und Ausbeutung der Natur. Während die Herausforderungen an den Natur- und Tierschutz immer größer werden, wird die Zeit immer knapper. 
+Schuld daran ist, wie so oft, unser unbedachtes Handeln beziehungsweise: die gnadenlose Zerstörung und Ausbeutung der Natur. Während die Herausforderungen an den Natur- und Tierschutz stetig weiter wachsen, wird die Zeit immer knapper. 
 
 Die kommenden Jahre bezeichnet BirdLife International als "das kritische Jahrzehnt", in dem sich entscheiden wird, ob wir die sechste Welle des Artensterbens  noch verhindern sollen. Einigen Forschenden zufolge befindet sie sich bereits in vollem Gange.
 
