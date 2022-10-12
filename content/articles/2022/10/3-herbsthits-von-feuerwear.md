@@ -56,7 +56,9 @@ Alle Feuerwear Produkte sind Einzelstücke. Klar: Jedes Stück Feuerwehrschlauch
 
 Der Stoff, aus dem die Schläuche hergestellt werden, ist quasi unzerstörbar. Hitze, Kälte, Schlamm, Asphalt und Autoreifen können ihm nichts anhaben. Entsprechend hinterlässt dieses erste Leben als Feuerwehrschlauch auch sichtbare Spuren. Sie sorgen für das ausgefallene Design und die Individualität der Stücke.
 
-<Gallery name="feuerwear-produkte-herbst-2022-1" />
+**Achtung! Unter der Fotogalerie geht es mit den Details zu allen drei Produkten weiter!**
+
+<Gallery name="feuerwear-produkte-herbst-2022-2" />
 
 ## Notizbuch "Percy"
 
@@ -104,4 +106,4 @@ Kennt Ihr übrigens schon meine [Feuerwear Fahrradtasche](/2022/04/vegane-nachha
 
 Alle hier vorgestellten Produkte findet Ihr im [Feuerwear Onlineshop](https://www.feuerwear.de/).
 
-<Gallery name="feuerwear-produkte-herbst-2022-2" />
+<Gallery name="feuerwear-produkte-herbst-2022-1" />
