@@ -62,7 +62,7 @@ Der Stoff, aus dem die Schläuche hergestellt werden, ist quasi unzerstörbar. H
 
 Das Notizbuch "Percy" besteht aus zwei Teilen: dem Umschlag und dem eigentlichen Buch oder Heft. Der Umschlag besteht aus Feuerwehrschlauch. Der Innenteil aus Recycling-Papier (klimaneutraler Druck, mit dem Blauen Engel zertifiziert).
 
-Der innere Futterstoff ist auch recycelten Plastikflaschen. Im Stiftehalter findet Ihr einen Bleistift. Das Holz stammt aus zertifizierter Waldwirtschaft. Wir haben übrigens direkt in der Pressevorstellung ausprobiert, ob auch dickere Stifte reinpassen – tun sie! Einen Tafelstift von einem bekannten Hersteller konnten wir einfädeln. Ihr bekommt also auf alle Fälle auch Euren Füller oder Kugelschreiber darin unter. Auf der Rückseite innen befindet sich ein kleines Einstecktuch, in dem Ihr zum Beispiel lose Notizen oder Visitenkarten unterbringen könnt.
+Der innere Futterstoff ist auch recycelten Plastikflaschen. Im Stiftehalter findet Ihr einen Bleistift. Das Holz stammt aus zertifizierter Waldwirtschaft. Wir haben übrigens direkt in der Pressevorstellung ausprobiert, ob auch dickere Stifte reinpassen – tun sie! Einen Tafelstift von einem bekannten Hersteller konnten wir ganz leicht einfädeln. Ihr bekommt also auf alle Fälle auch Euren Füller oder Kugelschreiber darin unter. Auf der Rückseite innen befindet sich ein kleines Einstecktuch, in dem Ihr zum Beispiel lose Notizen oder Visitenkarten unterbringen könnt.
 
 Was ich sehr praktisch finde: Die Hefte könnt Ihr im Feuerwear Shop nachbestellen. Das funktioniert ganz einfach über den QR-Code auf der Heft-Rückseite. Für die Größenverhältnisse habe ich mein iPad mini mit fotografiert. Das Heft ist DIN A5 – also ein kleines Schulheft. 
 
