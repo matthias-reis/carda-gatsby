@@ -13,7 +13,7 @@ excerpt: 'Feuerwear gibt es inzwischen neben Deutschland auch in der Schweiz und
   2009 hat sich einiges getan und es gibt immer mehr Produkte aus
   Feuerwehrschlauch. Beim letzten Presseevent habe ich jetzt wieder drei
   Neuzugänge kennengelernt: das Notizbuch "Perry", das Untersetzer-Set "Jules"
-  und den Blumentopf Flora.'
+  und den Blumentopf "Flora".'
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-11/2022-10-02-feuerwear0329-jpg-imagine-080808_5e4b41_2048_1536/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-11/feuerwear-produkte-fb-jpeg-imagine-080808_595250_1200_628/640.webp
@@ -44,7 +44,7 @@ advertisement: true
 affiliate: false
 language: de
 ---
-**Feuerwear gibt es inzwischen neben Deutschland auch in der Schweiz und sogar schon in Japan. Seit der Gründung von Martin und Robert Klüsener im Jahr 2009 hat sich einiges getan und es gibt immer mehr Produkte aus Feuerwehrschlauch. Beim letzten Presseevent habe ich jetzt wieder drei Neuzugänge kennengelernt: das Notizbuch "Perry", das Untersetzer-Set "Jules" und den Blumentopf Flora.**
+**Feuerwear gibt es inzwischen neben Deutschland auch in der Schweiz und sogar schon in Japan. Seit der Gründung von Martin und Robert Klüsener im Jahr 2009 hat sich einiges getan und es gibt immer mehr Produkte aus Feuerwehrschlauch. Beim letzten Presseevent habe ich jetzt wieder drei Neuzugänge kennengelernt: das Notizbuch "Perry", das Untersetzer-Set "Jules" und den Blumentopf "Flora".**
 
 Alle drei Feuerwear Produkte werden komplett aus recycelten Materialien hergestellt und sind vegan. Neben Feuerwehrschlauch kommen unter anderem zu Stoff verarbeitete, recycelte PET-Flaschen zu Einsatz. Das berichteten Robert Klüsener und die Produktdesignerinnen Philomena Rieger und Tina Kosch bei der Vorstellung. Ja, Ihr habt richtig gelesen, auch das Feuerwear Team hat Zuwachs bekommen: Mit Tina Kosch gibt es nun eine weitere Person im Design-Team.
 
@@ -88,11 +88,11 @@ Die Untersetzer von Feuerwear findet Ihr seit dem 5. Oktober im Onlineshop. Ein 
 
 Mit "Flora" gibt es gleich noch einen weiteren Zugang zur neuen Produktkategorie. Der Blumentopf ist für mich ganz klar eines der bisherigen [Feuerwear Highlights](https://cardamonchai.com/tag/feuerwear).
 
-Bei Flora handelt es sich um den weltweit ersten Blumentopf aus gebrauchtem Feuerwehrschlauch. Und ich finde, er macht sich richtig gut in meinem Zimmergarten. Irgendwie sieht alles stylisch darin aus: vom Rosmarin-Strauch bis zum Kaktus.
+Bei "Flora" handelt es sich um den weltweit ersten Blumentopf aus gebrauchtem Feuerwehrschlauch. Und ich finde, er macht sich richtig gut in meinem Zimmergarten. Irgendwie sieht alles stylisch darin aus: vom Rosmarin-Strauch bis zum Kaktus.
 
-Flora besteht aus zwei Teilen: dem Übertopf aus Feuerwehrschlauch sowie einem Innentopf. Dieser ist zu 100 Prozent aus recyceltem Kunststoff und wird in Holland mit 100 Prozent Windenergie hergestellt.
+"Flora" besteht aus zwei Teilen: dem Übertopf aus Feuerwehrschlauch sowie einem Innentopf. Dieser ist zu 100 Prozent aus recyceltem Kunststoff und wird in Holland mit 100 Prozent Windenergie hergestellt.
 
-Den Übertopf fertigt Feuerwear aus einem umlaufenden Stück Schlauch. Genau, wie an den Untersetzern findet Ihr auch an Flora ein textiles Feuerwear Logo. Das Einfassband am Rand besteht aus B-Ware-Plane aus der Autoindustrie.
+Den Übertopf fertigt Feuerwear aus einem umlaufenden Stück Schlauch. Genau, wie an den Untersetzern findet Ihr auch an "Flora" ein textiles Feuerwear Logo. Das Einfassband am Rand besteht aus B-Ware-Plane aus der Autoindustrie.
 
 Ab 19.Oktober könnt Ihr "Flora" zum Preis von 49 Euro käuflich erwerben.
 
