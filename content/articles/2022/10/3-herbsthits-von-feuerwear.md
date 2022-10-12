@@ -88,7 +88,7 @@ Mit "Flora" gibt es gleich noch einen weiteren Zugang zur neuen Produktkategorie
 
 Bei Flora handelt es sich um den weltweit ersten Blumentopf aus gebrauchtem Feuerwehrschlauch. Und ich finde, er macht sich richtig gut in meinem Zimmergarten. Irgendwie sieht alles stylisch darin aus: vom Rosmarin-Strauch bis zum Kaktus.
 
-Flora besteht aus zwei Teilen: dem Übertopf aus Feuerwehrschlauch sowie einem Innentopf. Dieser besteht zu 100 Prozent aus recyceltem Kunststoff und wird in Holland mit 100 Prozent Windenergie hergestellt.
+Flora besteht aus zwei Teilen: dem Übertopf aus Feuerwehrschlauch sowie einem Innentopf. Dieser ist zu 100 Prozent aus recyceltem Kunststoff und wird in Holland mit 100 Prozent Windenergie hergestellt.
 
 Den Übertopf fertigt Feuerwear aus einem umlaufenden Stück Schlauch. Genau, wie an den Untersetzern findet Ihr auch an Flora ein textiles Feuerwear Logo. Das Einfassband am Rand besteht aus B-Ware-Plane aus der Autoindustrie.
 
