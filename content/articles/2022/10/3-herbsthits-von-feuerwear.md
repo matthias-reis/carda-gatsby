@@ -40,7 +40,7 @@ labels:
   - Blumentöpfe
   - veganes Leder
 focusKeyword: Feuerwear Produkte
-advertisement: false
+advertisement: true
 affiliate: false
 language: de
 ---
