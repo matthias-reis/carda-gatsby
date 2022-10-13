@@ -3,7 +3,7 @@ date: 2022-10-13T15:59:19.992Z
 slug: stryfe-interview
 typeName: Interview
 title: Stryfe im Interview
-subTitle: Unsere Release Show haben wir im Whiskey A Go Go gespielt
+subTitle: Unsere Release-Show haben wir im Whiskey A Go Go gespielt
 seoTitle: Stryfe – "Cursed Theatre" – Metal Interview
 description: Stryfe aus L. A. werden in einem Satz mit Bands wie Tool, System Of
   A Down oder Karnivool genannt. Jetzt Interview lesen.
