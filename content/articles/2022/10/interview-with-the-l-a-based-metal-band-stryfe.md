@@ -3,7 +3,7 @@ date: 2022-10-13T15:40:27.440Z
 slug: stryfe-interview-en
 typeName: Interview
 title: "Interview with the L.A.-based Metal Band Stryfe "
-subTitle: '"We played our Album Release Show at Whiskey A Go Go"'
+subTitle: '"We played our Album Release Show at the Whiskey A Go Go"'
 seoTitle: "Interview with the L.A.-based Metal Band Stryfe "
 ogTitle: ""
 description: Want to know more about the L.A.-based Metal Band Stryfe? Check out
