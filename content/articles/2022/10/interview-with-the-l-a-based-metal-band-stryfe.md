@@ -32,7 +32,7 @@ focusKeyword: "Metal Band Stryfe "
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2022/10/stryfe-interview-en/
+languageLink: /2022/10/stryfe-interview/
 ---
 **Stryfe describe themselves as a metal band with a vibrant sound of heavy rock accents, mellifluous chord arrangements, and powerfully captivating vocals. Their progressive sound is melodic and emotional—stylistically influenced by genres from death metal to Armenian classical and folk.**
 
