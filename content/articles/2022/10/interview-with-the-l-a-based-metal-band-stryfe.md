@@ -34,10 +34,6 @@ affiliate: false
 language: en
 languageLink: /2022/10/stryfe-interview-en/
 ---
-# Interview with the L.A.-based Metal Band Stryfe
-
-## "We played our Album Release Show at Whiskey A Go Go"
-
 **Stryfe describe themselves as a metal band with a vibrant sound of heavy rock accents, mellifluous chord arrangements, and powerfully captivating vocals. Their progressive sound is melodic and emotional—stylistically influenced by genres from death metal to Armenian classical and folk.**
 
 I now had the chance to talk to Sergio Ochoa (Vocals), Kar Khurshudyan (Guitar), Karo Torosyan (Bass), and Derik Vardumyan (Drums) about their debut album "Cursed Theatre" and sources of inspiration and their future plans.
