@@ -82,7 +82,7 @@ Eine Sache, die wir klarstellen wollen, ist, dass es keinesfalls unsere Intentio
 
 **Anne:** Ihr habt "Cursed Theatre" mit Jens Bogren in den Fascination Street Studios gemacht. Wie war es, mit ihm zu arbeiten?
 
-**Kar:**  Jens hat das Mastering für unser Album gemacht, nachdem wir es selbst aufgenommen hatten – danke für die großartige Unterstützung an unseren Freund Serge Elkony an dieser Stelle – und er hat einen großartigen Job gemacht. Das Mastering mit Jens zu machen, war super. Er ist sehr professionell – das hat uns den Prozess sehr erleichtert.
+**Kar:**  Jens hat das Mastering für unser Album gemacht, nachdem wir es selbst aufgenommen hatten – danke für die großartige Unterstützung an unseren Freund Serge Elkony an dieser Stelle – und er hat einen großartigen Job gemacht. Das Mastering mit Jens zu machen, war super. Er ist ein echter Profi – das hat uns den Prozess sehr erleichtert.
 
 **Anne:** Euer Sound ist sehr professionell und gut ausbalanciert. Ich bin sicher, Ihr hattet vor der Gründung von Stryfe 2019 schon in anderen Konstellationen Musik gemacht?
 
