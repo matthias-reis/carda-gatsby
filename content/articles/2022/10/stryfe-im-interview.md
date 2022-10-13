@@ -78,7 +78,7 @@ Eine Sache, die wir klarstellen wollen, ist, dass es keinesfalls unsere Intentio
 
 **Anne:** Eure Songs handeln vom Wachstum und dem individuellen Streben hin zu einer besseren Version jedes Menschen und von der manchmal gewundenen und holprigen Straße auf dem Weg dorthin. Glaubt Ihr, dass es dieses Streben und der niemals endende Kampf nach Verbesserung ist, der uns als Menschen so verletzlich und wütend macht?
 
-**Kar:** Das ist eine tolle Einschätzung. Es kann auf jeden Fall sein. Wie Du gesagt hast: Es ist eine gewundene und holprige Straße, also kann während diesem Prozess alles Mögliche passieren. Du kannst zum Beispiel plötzliche Momente der Verletzlichkeit oder der Wut erleben. Ich denke, dass unsere Songs oft den Weg widerspiegeln, wenn sie sich entwickeln. Unsere Haupt-Message für die Menschen ist, dass man am Ende dieser Reise stärker ankommt und irgendwann das Licht am Ende des Tunnels sehen wird.
+**Kar:** Das ist eine tolle Einschätzung. Es kann auf jeden Fall sein. Wie Du gesagt hast: Es ist eine gewundene und holprige Straße, also kann während dieses Prozesses alles Mögliche passieren. Du kannst zum Beispiel plötzliche Momente der Verletzlichkeit oder der Wut erleben. Ich denke, dass unsere Songs oft den Weg widerspiegeln, wenn sie sich entwickeln. Unsere Haupt-Message für die Menschen ist, dass man am Ende dieser Reise stärker ankommt und irgendwann das Licht am Ende des Tunnels sehen wird.
 
 **Anne:** Ihr habt "Cursed Theatre" mit Jens Bogren in den Fascination Street Studios gemacht. Wie war es, mit ihm zu arbeiten?
 
