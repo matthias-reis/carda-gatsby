@@ -107,3 +107,7 @@ Eine Sache, die wir klarstellen wollen, ist, dass es keinesfalls unsere Intentio
 **Anne:** Vielen Dank für das Interview! Es war mir eine große Freude! Viel Erfolg für Eure Pläne!
 
 **Stryfe:**  Danke Dir, Anne. Es hat uns sehr gefreut, mit Dir zu sprechen.
+
+## Stryfe – "Velvet Revolution"
+
+<YouTube id="DlUeRugBeEk" />
