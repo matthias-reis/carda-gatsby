@@ -107,3 +107,7 @@ One thing we want to make clear is that our intention was not to glorify one lea
 **Anne:** Thank you very much for this interview! It was a huge pleasure! All the best with your plans!
 
 **Stryfe:**  Thank you, Anne. We appreciate the opportunity to speak with you.
+
+## Stryfe – "Velvet Revolution"
+
+<YouTube id="DlUeRugBeEk" />
