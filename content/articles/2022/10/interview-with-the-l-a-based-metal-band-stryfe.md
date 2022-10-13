@@ -84,7 +84,7 @@ One thing we want to make clear is that our intention was not to glorify one lea
 
 **Kar:**  Jens actually did the mastering on the album. We recorded the album ourselves and did a great deal of the mixing ourselves, with help from our good friend Serge Elkony.  Working with Jens on the mastering was terrific. He's a true professional—he made the process very easy.
 
-**Anne:** Your sound is very professional and well-balanced. I am sure there have been other projects before you started Stryfe—when was it—in 2019?
+**Anne:** Your sound is very skillful and well-balanced. I am sure there have been other projects before you started Stryfe—when was it—in 2019?
 
 ## "We're proud of what we've accomplished so far"
 
