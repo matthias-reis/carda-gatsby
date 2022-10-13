@@ -68,7 +68,7 @@ Eine Sache, die wir klarstellen wollen, ist, dass es keinesfalls unsere Intentio
 
 **Dero** Wir sind mit System verbunden, weil wir auf jeden Fall Fans ihrer Musik sind. Alle Mitglieder von System haben armenische Wurzeln. Genau wie drei von uns – wie gerade erwähnt. Übrigens betrachten wir Sergio als armenischen Ehrenbürger.
 
-**Anne:** Wie würdet Ihr die heutige Musik-Szene von LA beschreiben? Würdet Ihr sagen, dass sie sich während der Pandemie-Jahre verändert hat?
+**Anne:** Wie würdet Ihr die heutige Musik-Szene von L.A. beschreiben? Würdet Ihr sagen, dass sie sich während der Pandemie-Jahre verändert hat?
 
 ## "Die Musik-Szene nimmt langsam wieder Fahrt auf"
 
