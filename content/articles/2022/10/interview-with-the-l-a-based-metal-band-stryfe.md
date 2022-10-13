@@ -36,7 +36,7 @@ languageLink: /2022/10/stryfe-interview/
 ---
 **Stryfe describe themselves as a metal band with a vibrant sound of heavy rock accents, mellifluous chord arrangements, and powerfully captivating vocals. Their progressive sound is melodic and emotional—stylistically influenced by genres from death metal to Armenian classical and folk.**
 
-I now had the chance to talk to Sergio Ochoa (Vocals), Kar Khurshudyan (Guitar), Karo Torosyan (Bass), and Derik Vardumyan (Drums) about their debut album "Cursed Theatre" and sources of inspiration and their future plans.
+I now had the chance to talk to Sergio Ochoa (Vocals), Kar Khurshudyan (Guitar), Karo Torosyan (Bass), and Derik (Dero) Vardumyan (Drums) about their debut album "Cursed Theatre" and sources of inspiration and their future plans.
 
 **Anne:** Thanks for taking the time for this interview! It's an honor to get to know you guys! How are you doing today? How is the promo for your debut album "Cursed Theatre" coming along?
 
