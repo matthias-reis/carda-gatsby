@@ -96,7 +96,7 @@ Eine Sache, die wir klarstellen wollen, ist, dass es keinesfalls unsere Intentio
 
 **Anne:** Melodien scheinen Euch besonders zu begeistern. Ist das Eure Art, all die düsteren und schönen Hochs und Tiefs des Lebens zu beschreiben?
 
-**Kar:**  Ja, vor allem schreiben wir unsere Songs auch genau nach diesem Schema. Wir denken in der Regel nicht an diese Dinge, wenn wir schreiben. Wir lassen uns ehrlicherweise einfach von der Musik leiten. Was interessant ist, ist, dass wir oft im Nachhinein feststellen, was Du gerade beschrieben hast. Als kurz gesagt – wahrscheinlich.
+**Kar:**  Ja, aber vor allem schreiben wir eigentlich genau so unsere Songs. Wir denken in der Regel nicht an diese Dinge, wenn wir schreiben. Wir lassen uns ehrlicherweise einfach von der Musik leiten. Was interessant ist, ist, dass wir oft im Nachhinein feststellen, was Du gerade beschrieben hast. Als kurz gesagt – wahrscheinlich.
 
 ## "Wir wünschen uns, dass die Kriege aufhören"
 
