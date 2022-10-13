@@ -32,7 +32,7 @@ focusKeyword: Stryfe
 advertisement: false
 affiliate: false
 language: de
-languageLink: /2022/10/stryfe-interview/
+languageLink: /2022/10/stryfe-interview-en/
 ---
 **Stryfe beschreiben sich selbst als Metal-Band mit lebendigen Sound, geprägt von Heavy Rock Akzenten mit einschmeichelnden Akkordarrangements und kraftvollen, fesselnden Vocals. Ihr progressiver Sound ist melodisch und emotional – stilistisch beeinflusst von Genres wie Death Metal bis hin zu armenischer Klassik- und Folk-Musik.**
 
