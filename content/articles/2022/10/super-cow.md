@@ -8,8 +8,8 @@ seoTitle: Moby liefert Soundtrack zu veganem Kurzfilm "Super Cow"
 description: Moby hat den Soundtrack zum neuen veganen Kurzfilm "Super Cow" von
   Last Cance for Animals und Dustin Brown geliefert. Schaut ihn jetzt hier an!
 excerpt: Der neue, vegane Kurzfilm  "Super Cow" erschien am 29. September. Die
-  steuerte kein Geringerer, als Ambient-Ikone und Tierrechts-Aktivist Moby zu
-  dem beeindruckenden und absolut sehenswerten Werk bei.
+  Musik zu dem beeindruckenden und absolut sehenswerten Werk steuerte
+  Ambient-Ikone und Tierrechts-Aktivist Moby höchstpersönlich bei.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-18/super-cow-last-chance-for-animals-jpeg-imagine-080808_1a1b1b_1024_768/640.webp
 copyrigt: Last Chance for Animals
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-18/super-cow-last-chance-for-animals-fb-jpeg-imagine-080808_252626_1200_628/640.webp
@@ -32,7 +32,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Der neue, vegane Kurzfilm  "Super Cow" erschien am 29. September. Die steuerte kein Geringerer, als Ambient-Ikone und Tierrechts-Aktivist Moby zu dem beeindruckenden und absolut sehenswerten Werk bei.**
+**Der neue, vegane Kurzfilm  "Super Cow" erschien am 29. September. Die Musik zu dem beeindruckenden und absolut sehenswerten Werk steuerte Ambient-Ikone und Tierrechts-Aktivist Moby höchstpersönlich bei.**
 
 "Super Cow" soll vor allem ein Aufruf zu mehr Mitgefühl und Respekt gegenüber allen Lebewesen sein. Last Chance for Animals (LCA) produzierte den Kurzfilm gemeinsam mit Drehbuchautor Dustin Brown. Ihr Clip beleuchtet auf die vielen Millionen Tiere, die jedes Jahr in der Fleisch- und [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-bloss/) sterben.
 
