@@ -36,7 +36,9 @@ language: de
 
 "Super Cow" soll vor allem ein Aufruf zu mehr Mitgefühl und Respekt gegenüber allen Lebewesen sein. Last Chance for Animals (LCA)[^1] produzierte den Kurzfilm gemeinsam mit Drehbuchautor Dustin Brown[^2]. Ihr Clip beleuchtet auf die vielen Millionen Tiere, die jedes Jahr in der Fleisch- und [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-bloss/) sterben.
 
-Mobys Sound sorgt für die perfekte Untermalung der Stop-Motion-Animation, die Milchkuh Daisy auf ihrer Reise waghalsige Flucht vor dem Schlachthof zeigt. LCA und Dustin Brown haben ein ungeschöntes Bild von der Milchindustrie gezeichnet, das dennoch ohne blutige Szenen auskommt. Ihr Ziel war es, auch ein Publikum außerhalb der veganen Tierrechts-Bubble zu erreichen:
+# Ein veganer Stop-Motion-Film mit Herz
+
+Mobys Sound sorgt für die perfekte Untermalung der Stop-Motion-Animation, die Milchkuh Daisy auf ihrer Reise waghalsige Flucht vor dem Schlachthof zeigt. LCA und Dustin Brown haben ein ungeschöntes Bild von der Milchindustrie gezeichnet, das dennoch ohne blutige Real-Life-Szenen auskommt. Ihr Ziel war es, auch ein Publikum außerhalb der veganen Tierrechts-Bubble zu erreichen:
 
 > "Wir wollen nicht nur zu unserer Community sprechen, sondern Fleischesser⋆innen und Menschen aus allen Schichten erreichen, die vielleicht noch nie über dieses Thema nachgedacht haben", 
 
@@ -47,6 +49,19 @@ schreibt Dustin Brown in der Pressmeldung.
 LCA Vorsitzender und Gründer Chris DeRose fügt hinzu:
 
 > "Wir sind stolz, die Möglichkeit zu besitzen, inspirierende Filme mit dem Ziel einer humaneren Welt zu erschaffen. Wir hoffen, dass Daisys Geschichte viele Menschen zu selbstloserem Handeln inspirieren wird"
+
+## Moby findet ergreifende Worte
+
+Moby schreibt auf seinem Instagram-Account:
+
+> "Es ist mir eine große Ehre, meine Musik zu diesem schönen, ergreifenden, herzzerreißenden Animationsfilm von Dustin und LCA beisteuern zu dürfen."
+
+und:
+
+> "Mein Lebenswerk widme ich den Rechten der Tiere und ich bin immer froh, auf jede mir mögliche Weise dazu beizutragen. Bitte sei eine Person weniger, die Tieren Schmerzen zufügt."
+
+Ergreifende Worte, die wieder mal zum Denken anregen.
+
 
 LCA wurde für die Filme "Casa de Carne" und "Food for Thought" bereits mehrfach mit Awards ausgezeichnet. Bei beiden Werken arbeitete die Crew auch mit Dustin Brown zusammen. Ihr könnt Euch "Super Cow" ab sofort unter anderem auf YouTube anschauen.
 
