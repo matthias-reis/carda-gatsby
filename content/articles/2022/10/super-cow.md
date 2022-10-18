@@ -39,8 +39,10 @@ language: de
 Mobys Sound sorgt für die perfekte Untermalung der Stop-Motion-Animation, die Milchkuh Daisy auf ihrer Reise waghalsige Flucht vor dem Schlachthof zeigt. LCA und Dustin Brown haben ein ungeschöntes Bild von der Milchindustrie gezeichnet, das dennoch ohne blutige Szenen auskommt. Ihr Ziel war es, auch ein Publikum außerhalb der veganen Tierrechts-Bubble zu erreichen:
 
 > "Wir wollen nicht nur zu unserer Community sprechen, sondern Fleischesser⋆innen und Menschen aus allen Schichten erreichen, die vielleicht noch nie über dieses Thema nachgedacht haben", 
-> 
->  schreibt Dustin Brown in der Pressmeldung. Wir hoffen, dass unser Film Fragen aufwirft und einen Dialog in Gang setzt. Uns geht es insgesamt darum, Mitgefühl und Respekt für alle Lebewesen zu verbreiten."
+
+schreibt Dustin Brown in der Pressmeldung.
+
+>  "Wir hoffen, dass unser Film Fragen aufwirft und einen Dialog in Gang setzt. Uns geht es insgesamt darum, Mitgefühl und Respekt für alle Lebewesen zu verbreiten."
 
 LCA Vorsitzender und Gründer Chris DeRose fügt hinzu:
 
