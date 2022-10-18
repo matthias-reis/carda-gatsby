@@ -34,7 +34,7 @@ language: de
 ---
 **Der neue, vegane Kurzfilm  "Super Cow" erschien am 29. September. Die Musik zu dem beeindruckenden und absolut sehenswerten Werk steuerte Ambient-Ikone und Tierrechts-Aktivist Moby höchstpersönlich bei.**
 
-"Super Cow" soll vor allem ein Aufruf zu mehr Mitgefühl und Respekt gegenüber allen Lebewesen sein. Last Chance for Animals (LCA) produzierte den Kurzfilm gemeinsam mit Drehbuchautor Dustin Brown. Ihr Clip beleuchtet auf die vielen Millionen Tiere, die jedes Jahr in der Fleisch- und [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-bloss/) sterben.
+"Super Cow" soll vor allem ein Aufruf zu mehr Mitgefühl und Respekt gegenüber allen Lebewesen sein. Last Chance for Animals (LCA)[^1] produzierte den Kurzfilm gemeinsam mit Drehbuchautor Dustin Brown[^2]. Ihr Clip beleuchtet auf die vielen Millionen Tiere, die jedes Jahr in der Fleisch- und [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-bloss/) sterben.
 
 Mobys Sound sorgt für die perfekte Untermalung der Stop-Motion-Animation, die Milchkuh Daisy auf ihrer Reise waghalsige Flucht vor dem Schlachthof zeigt. LCA und Dustin Brown haben ein ungeschöntes Bild von der Milchindustrie gezeichnet, das dennoch ohne blutige Szenen auskommt. Ihr Ziel war es, auch ein Publikum außerhalb der veganen Tierrechts-Bubble zu erreichen:
 
@@ -54,11 +54,11 @@ LCA wurde für die Filme "Casa de Carne" und "Food for Thought" bereits mehrfach
 
 <YouTube id="AXeuRXWsQaY" />
 
-## Dustin Brown
+## [^1]: Dustin Brown
 
 Dustin Brown ist Autor, Regisseur und Film-Redakteur. Charakterstarke Geschichten mit sozialen Inhalten sind seine Leidenschaft. Er wurde von renommierten Filmfestivals und Organisationen für seine Werke ausgezeichnet. Das Cannes Film Festival, BAFTA, Clermont-Ferrand, die Alfred P. Sloan Foundation und Film Independent sind einige davon. Dustin Brown hat das American Film Institute Direction Program absolviert.
 
-## Last Chance for Animals
+## [^2]: Last Chance for Animals
 
 LCA ist eine internationale, gemeinnützige Organisation, die sich der Abschaffung der Ausbeutung von Tieren durch Aufklärung, Untersuchungen, Gesetzgebungen und Aufklärungskampagnen verschrieben hat. Seit ihrer Gründung im Jahr 1984 entwickelte sie sich nach und nach zu einer der führenden Tierrechtsorganisationen. Die Bildungs- und Aufklärungsprogramme der [LCA](https://www.lcanimal.org/) schaffen es immer wieder, die Öffentlichkeit in Kenntnis zu setzen und damit positive Veränderungen für Tiere zu erreichen.
 
