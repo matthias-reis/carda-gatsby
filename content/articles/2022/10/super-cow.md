@@ -69,11 +69,11 @@ LCA wurde für die Filme "Casa de Carne" und "Food for Thought" bereits mehrfach
 
 <YouTube id="AXeuRXWsQaY" />
 
-## [^1]: Dustin Brown
+[^1]: ## Dustin Brown
 
 Dustin Brown ist Autor, Regisseur und Film-Redakteur. Charakterstarke Geschichten mit sozialen Inhalten sind seine Leidenschaft. Er wurde von renommierten Filmfestivals und Organisationen für seine Werke ausgezeichnet. Das Cannes Film Festival, BAFTA, Clermont-Ferrand, die Alfred P. Sloan Foundation und Film Independent sind einige davon. Dustin Brown hat das American Film Institute Direction Program absolviert.
 
-## [^2]: Last Chance for Animals
+[^2]: ## Last Chance for Animals
 
 LCA ist eine internationale, gemeinnützige Organisation, die sich der Abschaffung der Ausbeutung von Tieren durch Aufklärung, Untersuchungen, Gesetzgebungen und Aufklärungskampagnen verschrieben hat. Seit ihrer Gründung im Jahr 1984 entwickelte sie sich nach und nach zu einer der führenden Tierrechtsorganisationen. Die Bildungs- und Aufklärungsprogramme der [LCA](https://www.lcanimal.org/) schaffen es immer wieder, die Öffentlichkeit in Kenntnis zu setzen und damit positive Veränderungen für Tiere zu erreichen.
 
