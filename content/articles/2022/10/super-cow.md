@@ -36,7 +36,7 @@ language: de
 
 "Super Cow" soll vor allem ein Aufruf zu mehr Mitgefühl und Respekt gegenüber allen Lebewesen sein. Last Chance for Animals (LCA)[^1] produzierte den Kurzfilm gemeinsam mit Drehbuchautor Dustin Brown[^2]. Ihr Clip beleuchtet auf die vielen Millionen Tiere, die jedes Jahr in der Fleisch- und [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-bloss/) sterben.
 
-# Ein veganer Kurzfilm mit Herz
+## Ein veganer Kurzfilm mit Herz
 
 Mobys Sound sorgt für die perfekte Untermalung der Stop-Motion-Animation, die Milchkuh Daisy auf ihrer Reise waghalsige Flucht vor dem Schlachthof zeigt. LCA und Dustin Brown haben ein ungeschöntes Bild von der Milchindustrie gezeichnet, das dennoch ohne blutige Real-Life-Szenen auskommt. Ihr Ziel war es, auch ein Publikum außerhalb der veganen Tierrechts-Bubble zu erreichen:
 
