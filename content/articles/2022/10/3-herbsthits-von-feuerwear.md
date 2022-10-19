@@ -12,7 +12,7 @@ excerpt: 'Feuerwear gibt es inzwischen neben Deutschland auch in der Schweiz und
   sogar schon in Japan. Seit der Gründung von Martin und Robert Klüsener im Jahr
   2009 hat sich einiges getan und es gibt immer mehr Produkte aus
   Feuerwehrschlauch. Beim letzten Presseevent habe ich jetzt wieder drei
-  Neuzugänge kennengelernt: das Notizbuch "Perry", das Untersetzer-Set "Jules"
+  Neuzugänge kennengelernt: das Notizbuch "Percy", das Untersetzer-Set "Jules"
   und den Blumentopf "Flora".'
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-11/2022-10-02-feuerwear0329-jpg-imagine-080808_5e4b41_2048_1536/640.webp
 copyrigt: ""
@@ -44,7 +44,7 @@ advertisement: true
 affiliate: false
 language: de
 ---
-**Feuerwear gibt es inzwischen neben Deutschland auch in der Schweiz und sogar schon in Japan. Seit der Gründung von Martin und Robert Klüsener im Jahr 2009 hat sich einiges getan und es gibt immer mehr Produkte aus Feuerwehrschlauch. Beim letzten Presseevent habe ich jetzt wieder drei Neuzugänge kennengelernt: das Notizbuch "Perry", das Untersetzer-Set "Jules" und den Blumentopf "Flora".**
+**Feuerwear gibt es inzwischen neben Deutschland auch in der Schweiz und sogar schon in Japan. Seit der Gründung von Martin und Robert Klüsener im Jahr 2009 hat sich einiges getan und es gibt immer mehr Produkte aus Feuerwehrschlauch. Beim letzten Presseevent habe ich jetzt wieder drei Neuzugänge kennengelernt: das Notizbuch "Percy", das Untersetzer-Set "Jules" und den Blumentopf "Flora".**
 
 Alle drei Feuerwear Produkte werden komplett aus recycelten Materialien hergestellt und sind vegan. Neben Feuerwehrschlauch kommen unter anderem zu Stoff verarbeitete, recycelte PET-Flaschen zu Einsatz. Das berichteten Robert Klüsener und die Produktdesignerinnen Philomena Rieger und Tina Kosch bei der Vorstellung. Ja, Ihr habt richtig gelesen, auch das Feuerwear Team hat Zuwachs bekommen: Mit Tina Kosch gibt es nun eine weitere Person im Design-Team.
 
