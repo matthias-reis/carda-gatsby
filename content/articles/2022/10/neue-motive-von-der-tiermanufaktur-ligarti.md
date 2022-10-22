@@ -50,7 +50,7 @@ Bei Hannas Umfrage auf Instagram, was man sonst noch so mit den Tassen anstellen
 
 Solltet Ihr noch Anregungen benötigen, was man außer Tee trinken noch alles mit den Ligarti Tassen anstellen kann: ob ihr sie als Blumentopf, Blumenvase, Gießkannenersatz, Müslibecher, Sammelbehälter für SD-Karten, Süßigkeitenversteck oder einfach nur als Dekogegenstand verwendet, bleibt Euch überlassen. Natürlich könnt ihr sie auch wunderbar verschenken.
 
-Die Becher gibt es in zwei Größen – 300 und 500 Milliliter. Damit sie möglichst lange schön bleiben, solltet Ihr sie am besten von Hand spülen. Wie alles bei Ligarti sind auch die Tassen vollständig vegan und werden in Handarbeit bedruckt.
+Die Becher gibt es in zwei Größen – 300 und 500 Milliliter. Damit sie möglichst lange schön bleiben, solltet Ihr sie am besten von Hand spülen. Wie alles von Ligarti, sind auch die Tassen vollständig vegan und werden in Handarbeit bedruckt.
 
 Mit in meinem Päckchen lag dieses Mal auch wieder eine liebevollst von Hanna gestaltete Karte – dieses Mal mit einem Eulen-Print. Sie ist natürlich sofort auf der Wand über meinem Schreibtisch eingezogen. Dort kann die Zeichnung nun täglich für  Inspiration sorgen.
 
