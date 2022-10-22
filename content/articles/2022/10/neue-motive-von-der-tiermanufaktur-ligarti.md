@@ -42,7 +42,7 @@ Das hübsche Tukanpaar auf der zweiten Tasse in meinen Bildern teilt sich einen 
 
 Die Becher sind beide aus Emaille – robust und leicht genug, um auch mal einen Camping-Ausflug mitzumachen. Im Moment zieren sie unsere Küche und ich freue mich immer, meinen Tee daraus zu trinken.
 
-Bei Hannas Umfrage auf Instagram, was man sonst noch so mit den Tassen anstellen konnte, kam meine Stiftehalter–Idee ja ziemlich gut an. Vielleicht sind mir die tollen Becher im Moment jedoch noch etwas zu schade für diesen Anwendungszweck. Mal sehen, vielleicht werden sie ja eines Tages auch auf meinen Schreibtisch umziehen.
+Bei Hannas Umfrage auf Instagram, was man sonst noch so mit den Tassen anstellen könnte, kam meine Stiftehalter–Idee ja ziemlich gut an. Vielleicht sind mir die tollen Becher im Moment jedoch noch etwas zu schade für diesen Anwendungszweck. Mal sehen, vielleicht werden sie ja eines Tages auch auf meinen Schreibtisch umziehen.
 
 <Gallery name="ligarti-emailletassen-2" />
 
