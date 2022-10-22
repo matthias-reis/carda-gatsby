@@ -10,7 +10,7 @@ description: Ihr seid auf der Suche nach schönen Geschenken? Die Tiermanufaktur
   Vorbeischauen lohnt sich!
 excerpt: An Ligarti könnt Ihr Euch ganz bestimmt noch erinnern. Das Start-up aus
   Wuppertal stellt tolle Stücke für den Alltag her – bedruckt mit wundervollen
-  Bildern der Künstlerin Hanna.
+  Bildern der Künstlerin Hanna. Jetzt gibt es neue Motive.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-22/2022-10-22-ligarti-006-jpg-imagine-d8c8b8_977862_2048_1536/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-22/ligarti-neue-motive-fb-jpeg-imagine-784828_8c7c71_1200_628/640.webp
