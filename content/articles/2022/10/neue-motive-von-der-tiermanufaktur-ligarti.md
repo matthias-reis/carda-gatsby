@@ -26,7 +26,7 @@ labels:
   - Wuppertal
   - Fair Fashion & Beauty
 focusKeyword: Emailletassen
-advertisement: false
+advertisement: true
 affiliate: false
 language: de
 ---
