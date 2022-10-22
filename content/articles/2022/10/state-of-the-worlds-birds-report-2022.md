@@ -4,7 +4,7 @@ slug: state-of-the-worlds-bird-report-2022-vogelsterben
 typeName: Beitrag
 title: State of the World's Birds Report 2022
 subTitle: Fast die Hälfte aller Vogelarten nimmt ab
-seoTitle: "State of the World's Birds Report 2022: Vogelsterben besorgniserregend"
+seoTitle: Vogelsterben besorgniserregend
 description: "Der State of the World's Birds Report 2022 zeigt: Fast die Hälfte
   aller Vogelarten weltweit werden immer weniger. Das Vogelsterben ist
   besorgniserregend."
