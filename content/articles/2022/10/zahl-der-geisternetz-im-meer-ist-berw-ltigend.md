@@ -2,7 +2,7 @@
 date: 2022-10-25T10:28:41.946Z
 slug: geisternetze-studie
 typeName: Beitrag
-title: '"Zahl der Geisternetz im Meer ist überwältigend"'
+title: '"Zahl der Geisternetze im Meer ist überwältigend"'
 subTitle: Neue Studie zeigt das Ausmaß des Meeresmülls aus der Fischerei
 seoTitle: "Neue Studie: Zahl der Geisternetze im Meer überwältigend"
 ogTitle: ""
