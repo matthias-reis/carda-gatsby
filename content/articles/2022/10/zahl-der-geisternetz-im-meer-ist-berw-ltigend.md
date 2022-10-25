@@ -79,7 +79,7 @@ Der Müll aus der industriellen Fischerei ist ein großes Problem. Er bedroht di
 
 Ein weiteres Problem ist übrigens die fachgerechte Entsorgung. In vielen Hafenstädten gibt es keine Möglichkeiten, organisches Material von Wertstoffen zu trennen. Dabei wäre gerade das besonders wichtig. Beim an Sinkleinen befestigten Blei handelt es sich zum Beispiel um einen giftigen, jedoch wiederverwendbaren Rohstoff.
 
-Wenn Ihr beim Surfen, Tauchen oder Schnorcheln auf Geisternetze trefft, könnt Ihr sie unter anderem über den NABU oder die WWF Geisternetz-App melden.
+Wenn Ihr beim Surfen, Tauchen oder Schnorcheln auf Geisternetze trefft, könnt Ihr sie unter anderem über den NABU[^3] oder die WWF Geisternetz-App[^4] melden.
 
 Die Fotos für diesen Artikel habe ich an unterschiedlichen Küsten und Stränden gemacht.
 
@@ -87,6 +87,6 @@ Die Fotos für diesen Artikel habe ich an unterschiedlichen Küsten und Strände
 
 [^2]: [Artikel im Guardian](https://www.theguardian.com/environment/2022/oct/16/new-study-reveals-staggering-scale-of-lost-fishing-gear-drifting-in-earths-oceans)
 
-[^3]: [Geisternetz-App des WWF](https://www.wwf.de/2020/januar/per-app-ans-netz#:~:text=Mithilfe%20des%20%E2%80%9EWWF%20Geistertauchers%E2%80%9C%2C,sowie%20bereits%20gemeldete%20Sonarpunkte%20verifizieren.)
+[^3] [NABU Gewässerretter](https://www.nabu.de/natur-und-landschaft/aktionen-und-projekte/meere-ohne-plastik/gewaesserretter/index.html)
 
-https://www.nabu.de/natur-und-landschaft/aktionen-und-projekte/meere-ohne-plastik/gewaesserretter/index.html
+[^4]: [Geisternetz-App des WWF](https://www.wwf.de/2020/januar/per-app-ans-netz#:~:text=Mithilfe%20des%20%E2%80%9EWWF%20Geistertauchers%E2%80%9C%2C,sowie%20bereits%20gemeldete%20Sonarpunkte%20verifizieren.)
