@@ -57,7 +57,7 @@ Das Netz von Warnemünde konnte aufgrund eines Tipps von einem Mitarbeiter der U
 
 >  "Es ist schwierig, ein verlorenes Netz aufzuspüren", meint auch Andrea Stolte. "Wir sind dankbar für jeden Hinweis dieser Art."
 
-Für das Jahr 2019 plant der WWF eine App, mit deren Hilfe Wassersportler Fundstellen melden können. Bis dahin freuen sich die Naturschützer über Hinweise unter geisternetze@wwf.de.
+Für das Jahr 2019 plant der WWF eine App, mit deren Hilfe Wassersportler Fundstellen melden können. **Nachtrag:** [Die App ist inzwischen unter diesem Link verfügbar](https://www.wwf.de/2020/januar/per-app-ans-netz#:~:text=Mithilfe%20des%20%E2%80%9EWWF%20Geistertauchers%E2%80%9C%2C,sowie%20bereits%20gemeldete%20Sonarpunkte%20verifizieren.).
 
 **Quelle:** Pressemitteilung des WWF [Link hier](https://www.wwf.de/2018/juli/500-meter-geisternetz-geborgen/)
 
