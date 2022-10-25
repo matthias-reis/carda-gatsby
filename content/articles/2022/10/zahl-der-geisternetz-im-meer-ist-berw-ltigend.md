@@ -13,8 +13,8 @@ excerpt: "Was ich mache, wenn ich an einen Strand komme? Surfen. Schwimmen.
   Grillzange und einen Müllsack aus dem Rucksack und sammle Müll ein. Natürlich
   finde ich auch jedes Mal Plastiktüten & Co. Ein Großteil des Unrats, den ich
   aus dem Sand ziehe, besteht jedoch aus Fischernetzen, Angelschnüren und
-  ähnlichem Fischerei-Zubehör.  Und ich denke: Es wird jedes Mal mehr. Eine
-  Studie hat mein Gefühl jetzt bestätigt."
+  ähnlichem Material aus der industriellen Fischerei.  Und ich denke: Es wird
+  jedes Mal mehr. Eine Studie hat mein Gefühl jetzt bestätigt."
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-25/geisternetze-jpeg-imagine-383838_545d5f_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-25/geisternetze-fb-jpeg-imagine-a8a8a8_758389_1200_628/640.webp
@@ -35,7 +35,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Was ich mache, wenn ich an einen Strand komme? Surfen. Schwimmen. Joggen. Wandern. Klar, das auch. Allerdings packe ich meistens zuerst meine Grillzange und einen Müllsack aus dem Rucksack und sammle Müll ein. Natürlich finde ich auch jedes Mal Zahnpastatuben, Mülltüten, Kanister, Plastikflaschen und etliche Luftballons inklusive Plastikschnüren. Ein Großteil des Unrats, den ich aus dem Sand ziehe, besteht jedoch aus Fischernetzen, Angelschnüren und ähnlichem Fischerei-Zubehör.  Und ich habe das Gefühl: Es wird jedes Mal mehr.**
+**Was ich mache, wenn ich an einen Strand komme? Surfen. Schwimmen. Joggen. Wandern. Klar, das auch. Allerdings packe ich meistens zuerst meine Grillzange und einen Müllsack aus dem Rucksack und sammle Müll ein. Natürlich finde ich auch jedes Mal Zahnpastatuben, Mülltüten, Kanister, Plastikflaschen und etliche Luftballons inklusive Plastikschnüren. Ein Großteil des Unrats, den ich aus dem Sand ziehe, besteht jedoch aus Fischernetzen, Angelschnüren und ähnlichem Material aus der industriellen Fischerei. Und ich habe das Gefühl: Es wird jedes Mal mehr.**
 
 Als ich dieses Jahr in Dänemark war, entdeckte ich komplette Fischernetze in einer Düne. Nur etwa einen Kilometer weiter steckte eine Leine mit Schwimmern im Strand, die sich durch Wind und Wetter bis tief in den Boden gearbeitet hatte. Beides hätte man nur mit schwerem Gerät entfernen können. Insgesamt war die komplette Dünenlandschaft entlang des sehr langen Strandes von Fischereimüll durchzogen. Beim Müllsammeln hatte ich das Gefühl, hier nicht mal leicht an der Oberfläche zu kratzen. Die kleinen Fragmente, die ich in meinen Sack packte, fallen, im Vergleich zu dem tief vergraben liegenden Unrat, kaum ins Gewicht. Ganz zu schweigen natürlich von den Netzen und Seilen, die durch die Meere treiben, wodurch immer wieder Meeresbewohner grausam zu Tode kommen.
 
