@@ -35,7 +35,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Was ich mache, wenn ich an einen Strand komme? Surfen. Schwimmen. Joggen. Wandern. Klar, das auch. Allerdings packe ich meistens zuerst meine Grillzange und einen Müllsack aus dem Rucksack und sammle Müll ein. Natürlich finde ich auch jedes Mal Zahnpastatuben, Mülltüten, Kanister, Plastikflaschen und etliche Luftballons inklusive Plastikschnüren. Ein Großteil des Unrats, den ich aus dem Sand ziehe, besteht jedoch aus Fischernetzen, Angelschnüren und ähnlichem Material aus der industriellen Fischerei. Und es fühlt sich so an, als würde es jedes Mal mehr werden.**
+**Was ich mache, wenn ich an einen Strand komme? Surfen. Schwimmen. Joggen. Wandern. Klar, das auch. Allerdings packe ich meistens zuerst meine Grillzange und einen Müllsack aus dem Rucksack und sammle Müll ein. Natürlich finde ich auch jedes Mal Zahnpastatuben, Plastiktüten, Kanister, PET-Flaschen und etliche Luftballons inklusive Plastikschnüre. Ein Großteil des Unrats, den ich aus dem Sand ziehe, besteht jedoch aus Fischernetzen, Angelschnüren und ähnlichem Material aus der industriellen Fischerei. Und es fühlt sich so an, als würde es jedes Mal mehr werden.**
 
 Als ich dieses Jahr in Dänemark war, entdeckte ich ein komplettes Fischernetz in einer Düne. Nur etwa einen Kilometer weiter steckte eine Leine samt befestigten Bojen im Strand, die sich durch Wind und Wetter bis tief in den Boden gearbeitet hatte. Beides hätte man nur mit schwerem Gerät entfernen können. Insgesamt war die komplette Dünenlandschaft entlang des sehr langen Strandes von Fischereimüll durchzogen. Beim Abfallsammeln hatte ich das Gefühl, hier nicht mal leicht an der Oberfläche zu kratzen. 
 
