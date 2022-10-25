@@ -53,7 +53,7 @@ Dr. Denise Hardesty, deine der Autorinnen äußerte sich wie folgt dazu:
 
 > "Das ist sehr erschütternd und hat eine unvorstellbare Anzahl unbekannter Todesfälle zur Folge, die sich auf Populationsebene stark auf die Meeresfauna auswirken kann."
 
-Den Forschenden zufolge gab es bisher nur wenige empirische Informationen über das Ausmaß der verlorenen Fanggeräte. Die neue Studie, die in Science Advances[^1] veröffentlicht wurde, war ein Versuch, diese Wissenslücke zu schließen. Die Wissenschaftler⋆innen befragten dafür 451 kommerzielle Fischereien in sieben verschiedenen Ländern. Dabei fanden sie unter anderem heraus, dass jedes Jahr 78.000 km² Ringwaden- und Kiemennetze, 215 km² Grundschleppnetze, 740.000 km Langleinen sowie 15,5 Millionen km Zweigleinen verloren gehen. 
+Den Forschenden zufolge gab es bisher nur wenige empirische Informationen über das Ausmaß der verlorenen Fanggeräte. Die neue Studie, die in Science Advances[^1] veröffentlicht wurde, ist ein Versuch, diese Wissenslücke zu schließen. Die Wissenschaftler⋆innen befragten dafür 451 kommerzielle Fischereien in sieben verschiedenen Ländern. Dabei fanden sie unter anderem heraus, dass jedes Jahr 78.000 km² Ringwaden- und Kiemennetze, 215 km² Grundschleppnetze, 740.000 km Langleinen sowie 15,5 Millionen km Zweigleinen verloren gehen. 
 
 Verlorene oder ins Meer geworfene Fanggeräte verursachen große Probleme für die Meeresfauna. Die Netze wurden dazu entwickelt, möglichst viele Tiere auf einmal zu fangen. Sie tun dies auch noch, wenn sie als [Geisternetze](/2018/08/wwf-geisternetz-warnemuende/) durchs ziellos durchs Meer schwimmen.
 
