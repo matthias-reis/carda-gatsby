@@ -41,7 +41,7 @@ Als ich dieses Jahr in Dänemark war, entdeckte ich ein komplettes Fischernetz i
 
 Die kleinen Fragmente, die ich in meinen Sack packte, fallen, im Gegensatz zu dem tief vergraben liegenden Unrat, kaum ins Gewicht. Ganz zu schweigen natürlich von den Netzen und Seilen, die durch die Meere treiben, wodurch immer wieder Meeresbewohner grausam zu Tode kommen.
 
-Meine Vermutung wurde jetzt durch eine Studie bestätigt. Die Autor⋆innen halten ihre Erkenntnisse für besorgniserregend. Zu dem von mir beschriebenen Abfall kommen komplette Fischereigeräte wie Reusen, Haken und Fallen inklusive Leinen.
+Meine Vermutung wurde jetzt durch eine Studie bestätigt. Die Autor⋆innen halten ihre Erkenntnisse für besorgniserregend. Zu dem von mir beschriebenen Abfall kommen Fischereigerätschaften wie Reusen, Haken und Fallen inklusive Leinen.
 
 ## Im Meer dehnen sich Müllteppiche aus
 
