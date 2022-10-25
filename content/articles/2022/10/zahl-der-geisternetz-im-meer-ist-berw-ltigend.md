@@ -61,7 +61,7 @@ Verlorene oder ins Meer geworfene Fanggeräte verursachen große Probleme für d
 
 Neben Fischen finden auch Delfine, Wale, Schildkröten, Vögel und andere Tiere den Tod in dem unnatürlichen Treibgut. Die Netze bleiben in Korallenbänken hängen, verheddern sich mit weiterem Unrat — vor allem Plastikmüll — und sind auf Dauer dazu in der Lage, ganze Ökosysteme lahmzulegen. Der größte bisher bekannte Müllteppich, der sogenannte "Great Pacific Garbage Patch" zwischen Kalifornien und Hawaii, umfasst inzwischen eine Fläche, die mehr als zwanzigmal so groß ist, wie Österreich.
 
-Dr. Denise Hardesty zufolge gehören Vögel, Schildkröten und Haie zu den Tieren, die dem Fischereiabfall am häufigsten zum Opfer fallen, der inzwischen einer der Hauptbestandteile des Meeresmülls ist – auch ich habe schon strangulierte Vögel am Strand gefunden. 
+Laut Denise Hardesty gehören Vögel, Schildkröten und Haie zu den Tieren, die dem Fischereiabfall am häufigsten zum Opfer fallen, der inzwischen einer der Hauptbestandteile des Meeresmülls ist – auch ich habe schon strangulierte Vögel am Strand gefunden. 
 
 ## Die Debatte um Meeresmüll ausweiten
 
