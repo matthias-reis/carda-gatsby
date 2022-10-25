@@ -8,13 +8,10 @@ seoTitle: "Neue Studie: Zahl der Geisternetze im Meer überwältigend"
 ogTitle: ""
 description: "Geisternetze, Reusen, Leinen und Haken: das Meer ist voll davon.
   Täglich verändern darin Tiere und es bilden sich immer größere Müllteppiche."
-excerpt: "Was ich mache, wenn ich an einen Strand komme? Surfen. Schwimmen.
+excerpt: Was ich mache, wenn ich an einen Strand komme? Surfen. Schwimmen.
   Joggen. Wandern. Klar, das auch. Allerdings packe ich meistens zuerst meine
-  Grillzange und einen Müllsack aus dem Rucksack und sammle Müll ein. Natürlich
-  finde ich auch jedes Mal Plastiktüten & Co. Ein Großteil des Unrats, den ich
-  aus dem Sand ziehe, besteht jedoch aus Fischernetzen, Angelschnüren und
-  ähnlichem Material aus der industriellen Fischerei.  Und ich denke: Es wird
-  jedes Mal mehr. Eine Studie hat mein Gefühl jetzt bestätigt."
+  Grillzange und einen Müllsack aus dem Rucksack und sammle Müll ein – und immer
+  mehr Fischernetze.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-25/geisternetze-jpeg-imagine-383838_545d5f_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-25/geisternetze-fb-jpeg-imagine-a8a8a8_758389_1200_628/640.webp
