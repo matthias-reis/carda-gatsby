@@ -49,7 +49,7 @@ Meine Vermutung wurde jetzt durch eine Studie bestätigt. Die Autor⋆innen halt
 
 Insgesamt schwimmen 25 Millionen Reusen sowie 14 Milliarden Haken im Meer. Nach Ansicht der Studien-Autor⋆innen haben sie enorme und tödliche Auswirkungen auf die Meeresbewohner.
 
-Dr. Denise Hardesty, deine der Autorinnen äußerte sich wie folgt dazu:
+Dr. Denise Hardesty, eine der Autor⋆innen äußerte sich wie folgt dazu:
 
 > "Das ist sehr erschütternd und hat eine unvorstellbare Anzahl unbekannter Todesfälle zur Folge, die sich auf Populationsebene stark auf die Meeresfauna auswirken kann."
 
