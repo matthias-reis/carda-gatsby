@@ -67,7 +67,7 @@ Laut Denise Hardesty gehören Vögel, Schildkröten und Haie zu den Tieren, die 
 
 ![Geisternetz in Travemünde](https://storage.googleapis.com/cardamonchai-media/2022-10-25/geisternetze-travemuende-jpeg-imagine-f86828_966658_4752_3168/640.webp "Meeresmüll in Deutschland")
 
-In der öffentlichen Berichterstattung war das Thema Geisternetze bislang noch nicht besonders präsent. Plastikstrohhalme beispielsweise, die seit den letzten Jahren einen miserablen Ruf haben, machen gerade mal 0,025 Prozent des gesamten Plastiks im Meer aus (beim Müllsammeln finde ich persönlich kaum welche). Fischereiequipment schlägt hingegen mit ganzen 20 Prozent des Ozeanmülls zu Buche.
+In der öffentlichen Berichterstattung war das Thema Geisternetze bislang noch nicht besonders präsent. Plastikstrohhalme beispielsweise, die seit den letzten Jahren einen miserablen Ruf haben, machen gerade mal 0,025 Prozent des gesamten Plastiks im Meer aus. Fischereiequipment schlägt hingegen mit ganzen 20 Prozent des Ozeanmülls zu Buche.
 
 Die Regierungen verhandeln derzeit über ein weltweites Abkommen über die Verschmutzung durch Plastik. Expert⋆innen fordern schon lange, auch Geisternetze in die Verhandlungen einzubeziehen. Das ist bislang noch nicht der Fall.
 
