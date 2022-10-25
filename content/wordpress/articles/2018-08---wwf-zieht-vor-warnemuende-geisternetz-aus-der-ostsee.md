@@ -12,7 +12,7 @@ fileName: 2018-08---wwf-zieht-vor-warnemuende-geisternetz-aus-der-ostsee.md
 slug: wwf-geisternetz-warnemuende
 errors: {}
 date: 2018-08-10T15:08:26.000+00:00
-focusKeyword: Geisternetz
+focusKeyword: Warnemünde
 status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_fishing-net-1583702_640__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_fishing-net-1583702_640__m.jpg
@@ -22,7 +22,7 @@ seoTitle: WWF zieht vor Warnemünde Geisternetz aus dem Meer
 description: Taucher des WWF haben jetzt vor Warnemünde ein Geisternetz aus dem
   Meer gezogen. Das meldete die Umweltschutzorganisation am 8. August.
 labels:
-  - Geistenetze
+  - Geisternetze
   - Klima- & Umweltschutz
   - Meeresschutz
   - Plastikmüll
