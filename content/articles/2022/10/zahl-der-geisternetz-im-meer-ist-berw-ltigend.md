@@ -59,7 +59,7 @@ Verlorene oder ins Meer geworfene Fanggeräte verursachen große Probleme für d
 
 ## Geisternetze oft Todesfalle für Tiere 
 
-Neben Fischen finden auch Delfine, Wale, Schildkröten, Vögel und andere Tiere den Tod in den Netzen. Sie bleiben in Korallenbänken hängen, verheddern sich mit weiterem Treibgut — vor allem Plastikmüll — und sind auf Dauer dazu in der Lage, ganze Ökosysteme lahmzulegen. Der größte bisher bekannte Müllteppich, der sogenannte "Great Pacific Garbage Patch" zwischen Kalifornien und Hawaii umfasst inzwischen eine Fläche, die mehr als zwanzigmal so groß ist, wie Österreich.
+Neben Fischen finden auch Delfine, Wale, Schildkröten, Vögel und andere Tiere den Tod in dem unnatürlichen Treibgut. Die Netze bleiben in Korallenbänken hängen, verheddern sich mit weiterem Unrat — vor allem Plastikmüll — und sind auf Dauer dazu in der Lage, ganze Ökosysteme lahmzulegen. Der größte bisher bekannte Müllteppich, der sogenannte "Great Pacific Garbage Patch" zwischen Kalifornien und Hawaii, umfasst inzwischen eine Fläche, die mehr als zwanzigmal so groß ist, wie Österreich.
 
 Dr. Denise Hardesty zufolge gehören Vögel, Schildkröten und Haie zu den Tieren, die dem Fischereiabfall am häufigsten zum Opfer fallen, der inzwischen einer der Hauptbestandteile des Meeresmülls ist – auch ich habe schon strangulierte Vögel am Strand gefunden. 
 
@@ -67,7 +67,7 @@ Dr. Denise Hardesty zufolge gehören Vögel, Schildkröten und Haie zu den Tiere
 
 ![Meeresmüll in Deutschland](https://storage.googleapis.com/cardamonchai-media/2022-10-25/geisternetze-travemuende-jpeg-imagine-f86828_966658_4752_3168/640.webp "Geisternetz in Travemünde")
 
-In der öffentlichen Berichterstattung war das Theme Geisternetze bislang noch kein großes Thema. Plastikstrohhalme beispielsweise, die seit den letzten Jahren einen miserablen Ruf haben , machen gerade mal 0,025 Prozent des gesamten Plastiks im Meer aus (beim Müllsammeln finde ich persönlich auch kaum welche). Fischereiequipment schlägt hingegen mit ganzen 20 Prozent des Ozeanmülls zu Buche.
+In der öffentlichen Berichterstattung war das Thema Geisternetze bislang noch nicht besonders präsent. Plastikstrohhalme beispielsweise, die seit den letzten Jahren einen miserablen Ruf haben , machen gerade mal 0,025 Prozent des gesamten Plastiks im Meer aus (beim Müllsammeln finde ich persönlich auch kaum welche). Fischereiequipment schlägt hingegen mit ganzen 20 Prozent des Ozeanmülls zu Buche.
 
 Die Regierungen verhandeln derzeit über ein weltweites Abkommen über die Verschmutzung durch Plastik. Expert⋆innen fordern schon lange, auch Geisternetze in die Verhandlungen einzubeziehen. Das ist bislang noch nicht der Fall.
 
