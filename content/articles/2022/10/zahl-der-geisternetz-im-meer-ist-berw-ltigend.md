@@ -73,7 +73,7 @@ Die Regierungen verhandeln derzeit über ein weltweites Abkommen über die Versc
 
 Richard Leck, Leiter der Abteilung Ozeane beim WWF Australien, sagte gegenüber dem Guardian[^2]:
 
-> "Die Vereinten Nationen müssen sich damit auf globaler Ebene befassen, um sicherzustellen, dass die Länder zur Verantwortung gezogen werden. Dies sollte vor allem duch eine transparente Berichterstattung sowie klar erkennbare Kennzeichnung der Fangeräte geschehen."
+> "Die Vereinten Nationen müssen sich auf globaler Ebene damit befassen, um sicherzustellen, dass die Länder zur Verantwortung gezogen werden. Dies sollte vor allem durch eine transparente Berichterstattung sowie klar erkennbare Kennzeichnung der Fanggeräte geschehen."
 
 Der Müll aus der industriellen Fischerei ist ein großes Problem. Er bedroht die Gesundheit der Weltmeere – zusätzlich zur starken Überfischung und weiteren Verschmutzungen. Hier können nur klare Regulierungen und auf Dauer die Einschränkung der Fischerei Abhilfe schaffen.
 
