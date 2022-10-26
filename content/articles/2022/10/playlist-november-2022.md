@@ -34,7 +34,7 @@ labels:
   - Thrice
   - King Buffalo
   - Die Nerven
-  - The Kompressor Element
+  - The Kompressor Experiment
   - Ambient
 focusKeyword: Playlist November 2022
 advertisement: false
@@ -55,9 +55,9 @@ Das neue Lost in Kiev Album "Rupture" habe ich hier schon vorgestellt. [Ich empf
 
 <YouTube id="LbL7kZzlpcg" />
 
-## The Kompressor Element "Endure The Sky" vom Album "Ebb & Flow"
+## The Kompressor Experiment "Endure The Sky" vom Album "Ebb & Flow"
 
-Bei The Kompressor Element handelt es sich um ein progressives Post-Music Projekt aus der Schweiz. Das aktuelle Album "Ebb & Flow" dürfte besonders Fans von Bands wie The Ocean oder Russian Circles gut gefallen. Der ausgefeilte, düstere Sound der Band ist schön heavy und vielseitig. Besonders gut gefallen mir hier die Stimmungswechsel. Perfekt passend zum Titel der Platte türmen sich Soundwellen phasenweise auf, um sich zurückzuhalten, bevor sie wieder auftauchen und mit voller Kraft über den Melodiestrand rollen. Für Euch habe ich den Opener "Endure The Sky" auf die Liste gesetzt.
+Bei The Kompressor Experiment handelt es sich um ein progressives Post-Music Projekt aus der Schweiz. Das aktuelle Album "Ebb & Flow" dürfte besonders Fans von Bands wie The Ocean oder Russian Circles gut gefallen. Der ausgefeilte, düstere Sound der Band ist schön heavy und vielseitig. Besonders gut gefallen mir hier die Stimmungswechsel. Perfekt passend zum Titel der Platte türmen sich Soundwellen phasenweise auf, um sich zurückzuhalten, bevor sie wieder auftauchen und mit voller Kraft über den Melodiestrand rollen. Für Euch habe ich den Opener "Endure The Sky" auf die Liste gesetzt.
 
 <YouTube id="7TwNBSYecb0" />
 
