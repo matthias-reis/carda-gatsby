@@ -87,7 +87,7 @@ Valentin und Matze haben wie jeden Monat ihre derzeitigen Hör-Favoriten beigest
 
 ### Thrice – "Open Your Eyes and Dream"
 
-> "Vor etwas über einem Jahr kam mit dem Konzeptalbum 'Horizons/East' der letzte Longplayer von Thrice und damit der ersten Teil dieses Gesamtwerks raus. Schon jetzt gibt es den ersten Vorgeschmack des zweiten Teils 'Horizons/West'. 'Open Your Eyes and Dream' schleudert mich zurück in die früheren Phasen der Band und erinnert mich teilweise an 'Vheissu'. Die modernen Prog-Parts lassen mich auf eine großartige Platte hoffen."
+> "Vor etwas über einem Jahr kam mit dem Konzeptalbum 'Horizons/East' der letzte Longplayer von Thrice und damit der ersten Teil dieses Werks raus. Schon jetzt gibt es den ersten Vorgeschmack des zweiten Teils 'Horizons/West'. 'Open Your Eyes and Dream' schleudert mich zurück in die früheren Phasen der Band und erinnert mich teilweise an 'Vheissu'. Die modernen Prog-Parts lassen mich auf eine großartige Platte hoffen."
 
 <YouTube id="DrdO_Rv2e4Q" />
 
