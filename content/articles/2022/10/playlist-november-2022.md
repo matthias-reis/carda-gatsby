@@ -79,7 +79,7 @@ Valentin und Matze haben wie jeden Monat ihre derzeitigen Hör-Favoriten beigest
 
 ### King Buffalo – "Firmament" vom neuen Album "Regenerator"
 
-> "Ich kann mich noch erinnern, dass ich vom letzten Album der Heavy Psychedelic Band aus Rochester, New York auch schon einen Titel vorgestellt habe. Die Band ist sehr produktiv und bringt ein Jahr später nun ihr fünftes Album 'Regenerator' raus, dass vor fetten Stoner-Riffs trotzt. Ich teile hier mal den Song 'Firmament mit Euch. Er zeigt die Energie des Projekts in ihrem vollen Ausmaß – da kann man schon mal richtig abrocken."
+> "Ich kann mich noch erinnern, dass ich vom letzten Album der Heavy Psychedelic Band aus Rochester, New York auch schon einen Titel vorgestellt habe. Die Band ist sehr produktiv und bringt ein Jahr später nun ihr fünftes Album 'Regenerator' raus, dass vor fetten Stoner-Riffs trotzt. Ich teile hier mal den Song 'Firmament' mit Euch. Er zeigt die Energie des Projekts in ihrem vollen Ausmaß – da kann man schon mal richtig abrocken."
 
 <YouTube id="Z321CYdW7sc" />
 
