@@ -73,7 +73,7 @@ Valentin und Matze haben wie jeden Monat ihre derzeitigen Hör-Favoriten beigest
 
 ### Die Nerven – "Keine Bewegung" vom neuen Album "Die Nerven" 
 
-> "Ich stelle Euch diesen Monat die Stuttgarter Band Die Nerven vor, die ihren ganz eigenen Mix aus Post-Punk, Noise-Rock und Indie-Rock gefunden haben. Zum Glück bin ich wieder auf diese Gruppe gekommen, nachdem ich vor ein paar Jahren ein Rockpalast-Konzert gesehen habe, dass mich total fesselte. Das neue gleichnamige Album 'Die Nerven' ist bereits das fünfte der Band. Offenbar habe ich da noch einiges nachzuholen. Ich habe mich für den sehr emotionalen Song zum Thema Hilflosigkeit 'Keine Bewegung' entschieden, dessen Text gut in unsere Zeit passt, mit den täglichen schlechten Nachrichten, die einen manchmal fast zu ersticken drohen. Aber auch musikalisch zeigen hier die Nerven ihre Stärken und wie immer gilt: hört euch das ganze Album an."
+> "Ich stelle Euch diesen Monat die Stuttgarter Band Die Nerven vor, die ihren ganz eigenen Mix aus Post-Punk, Noise-Rock und Indie-Rock gefunden hat. Zum Glück bin ich wieder auf diese Gruppe gekommen, nachdem ich vor ein paar Jahren ein Rockpalast-Konzert gesehen habe, dass mich total fesselte. Das neue gleichnamige Album 'Die Nerven' ist bereits das fünfte der Band. Offenbar habe ich da noch einiges nachzuholen. Ich habe mich für den sehr emotionalen Song zum Thema Hilflosigkeit 'Keine Bewegung' entschieden, dessen Text gut in unsere Zeit passt, mit den täglichen schlechten Nachrichten, die einen manchmal fast zu ersticken drohen. Aber auch musikalisch zeigen hier die Nerven ihre Stärken und wie immer gilt: hört euch das ganze Album an."
 
 <YouTube id="gxJnrlqILq0" />
 
