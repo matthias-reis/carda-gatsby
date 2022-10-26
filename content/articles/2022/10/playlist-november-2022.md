@@ -9,7 +9,8 @@ description: Auf der Suche nach neuen Songs? Diese Liste bringt Euch die
   aktuellsten Perlen von Post-Rock bis Prog.
 excerpt: Der November kratzt schon an der Tür und draußen stapelt sich das
   Herbstlaub immer höher. Zeit für eine neue, bunte Musikliste von Ambient bis
-  Post-Rock und von Prog bis Post-Metal.
+  Post-Rock und von Prog bis Post-Metal und ein paar spannende News aus der
+  Musik-Szene.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-26/musikliste-november-2022-jpeg-imagine-080808_56545c_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-26/musikliste-november-fb-jpeg-imagine-080808_54545e_1200_628/640.webp
