@@ -100,7 +100,7 @@ Valentin und Matze haben wie jeden Monat ihre derzeitigen Hör-Favoriten beigest
 
 ## Jambinai – "Once More From That Frozen Bottom" von der EP "Apparition"
 
-> "Auf die koreanischen Avantgarde-Post-Rocker Jambinai muss man sich einlassen. Ich verfolge sie nun schon seit einiger Zeit. Ihr ausgefallener Stil, bei dem auch traditionelle koreanische Instrumente zum Einsatz kommen, ist außergewöhnlich. Die neue EP, speziell der Song 'Once More From That Frozen Bottom', wechselt zwischen ruhigen Phasen und heftigeren Sequenzen hin und her."
+> "Auf die koreanischen Avantgarde-Post-Rocker Jambinai muss man sich einlassen. Ich verfolge sie nun schon seit einiger Zeit. Ihr ausgefallener Stil, bei dem auch traditionelle koreanische Instrumente zum Einsatz kommen, ist fabelhaft. Die neue EP, speziell der Song 'Once More From That Frozen Bottom', wechselt zwischen ruhigen Phasen und heftigeren Sequenzen hin und her."
 
 <YouTube id="1QRQUWi7j6E" />
 
