@@ -45,7 +45,7 @@ language: de
 
 ## Perry Frank – "When We Collide" vom Album "Nuit Example"
 
-Ich fange diesen Monat gleich mal mit einem lieben Bekannten aus der Ambient-Szene an: Perry Frank hat sein neues Album am 21. September veröffentlicht und es ist genau das, was ich im Moment hören möchte. Angenehm zart, verträumt und wunderbar musikalisch. Geschrieben, aufgenommen und produziert hat der Musiker die zehn von Post-Rock angehauchten Stücke auf "Nuit Example" zwischen Januar und Juni dieses Jahres. Mit dabei sind auch Zusammenarbeiten mit Künstler⋆innen wie Matt Tondut ("When We Collide"), Lauge ("Agave") und Spacecraft ("Dreams Fade Away") aus dem Valley View Records Roster. Für Euch habe ich den Song "When We Collide" ausgesucht.
+Ich fange diesen Monat gleich mal mit einem lieben Bekannten aus der Ambient-Szene an: [Perry Frank](/2020/11/perry-frank-interview/) hat sein neues Album am 21. September veröffentlicht und es ist genau das, was ich im Moment hören möchte. Angenehm zart, verträumt und wunderbar musikalisch. Geschrieben, aufgenommen und produziert hat der Musiker die zehn von Post-Rock angehauchten Stücke auf "Nuit Example" zwischen Januar und Juni dieses Jahres. Mit dabei sind auch Zusammenarbeiten mit Künstler⋆innen wie Matt Tondut ("When We Collide"), Lauge ("Agave") und Spacecraft ("Dreams Fade Away") aus dem Valley View Records Roster. Für Euch habe ich den Song "When We Collide" ausgesucht.
 
 <YouTube id="b_czbZONqg8" />
 
