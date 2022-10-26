@@ -94,7 +94,7 @@ Valentin und Matze haben wie jeden Monat ihre derzeitigen Hör-Favoriten beigest
 
 ## Red Hot Chili Peppers – "Eddie" vom Album "Return of the Dream Canteen"
 
-> "Ähnlich wie bei Thrice hätte ich von den Chili Peppers im Moment noch gar nichts Neues erwartet – Ihr letztes Album haben sie schließlich erst Anfang April veröffentlicht. Sechs Monate später gibt es nun schon den Nachfolger 'Return of the Dream Canteen' zu hören. 'Eddie', ist ein klassischer Rock-Pop Song, der echte Coolness in sich trägt. Das beste Beispiel ist hier wohl das Gitarrensolo – ein wunderbarer John Frusciante Klassiker."
+> "Ähnlich wie bei Thrice hätte ich von den Chili Peppers im Moment noch gar nichts Neues erwartet – Ihr letztes Album haben sie schließlich erst Anfang April veröffentlicht. Sechs Monate später gibt es nun schon den Nachfolger 'Return of the Dream Canteen' zu hören. 'Eddie', ist ein klassischer Pop-Rock-Song, der echte Coolness in sich trägt. Das beste Beispiel ist hier wohl das Gitarrensolo – ein wunderbarer John Frusciante Klassiker."
 
 <YouTube id="pXMEXCT5ohY" />
 
