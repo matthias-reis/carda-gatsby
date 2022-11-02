@@ -264,4 +264,4 @@ Die Fotos von den Katzen habe ich selbst aufgenommen. Die wunderschönen Portrai
 [^1]: Zum Zeitpunkt des Interviews war Lanis Katzecafé noch Teil der Franchise-Kette "[Katzentempel](http://katzentempel.de/)" und unter diesem Namen bekannt.
 [^2]: [Puss in Boots](http://www.irish-pibar.de/)
 [^3]: [Flying Cats](http://www.flying-cats.de/)
-[^3]: [Animals United](https://animalsunited.de/)
+[^4]: [Animals United](https://animalsunited.de/)
