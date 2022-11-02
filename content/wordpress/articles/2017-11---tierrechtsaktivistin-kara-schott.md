@@ -100,7 +100,7 @@ Vor 13 Jahren ist sie dann schlussendlich ausgewandert. Seitdem machen wir Tiers
 
 **Anne:** Wie viele Tiere leben derzeit auf der Station?
 
-**Kara:** Im Schnitt sind es immer um die 50 Tiere, die meine Mutter von morgens bis abends umsorgt. Sie ist spezialisiert auf sehr kranke und kleine Hunde und Katzen. Viele von ihnen kommen auch verletzt zu ihr auf den Hof. Newman aus dem [Café Katzentempel](/2017/08/katzentempel-hamburg-interview/) hatte eine gebrochene Hüfte. Er musste extrem gepeppelt werden und durfte sich nicht bewegen. Viele Wochen und Monate hindurch war gar nicht klar, ob er sein Bein behalten würde und meine Mutter hat für ihn gekämpft!
+**Kara:** Im Schnitt sind es immer um die 50 Tiere, die meine Mutter von morgens bis abends umsorgt. Sie ist spezialisiert auf sehr kranke und kleine Hunde und Katzen. Viele von ihnen kommen auch verletzt zu ihr auf den Hof. Newman aus dem [Hamburger Katzencafé](/2017/08/katzentempel-hamburg-interview/) hatte eine gebrochene Hüfte. Er musste extrem gepeppelt werden und durfte sich nicht bewegen. Viele Wochen und Monate hindurch war gar nicht klar, ob er sein Bein behalten würde und meine Mutter hat für ihn gekämpft!
 
 **Anne:** Für die Spezialisierung gibt es sicher einen Grund?
 
