@@ -36,7 +36,7 @@ Regenbogenfarbene Saucen und Brötchen, die schmecken, als würden sie direkt au
 
 ## Das Auge isst mit in der Vegan Junk Food Bar
 
-Genau, wie in den Niederlanden, achteten die Inhaber auch bei der Einrichtung der ersten deutschen VJFB auf alle Details. Neben dem Gaumen wird auch das Auge verwöhnt. Streetart, Neon Design und farbenfrohe Pflanzen sorgen für ein cooles, urbanes Ambiente.
+Genau, wie in den Niederlanden, achteten die Betreiber⋆innen auch bei der Einrichtung der ersten deutschen VJFB auf alle Details. Neben dem Gaumen wird auch das Auge verwöhnt. Streetart, Neon Design und farbenfrohe Pflanzen sorgen für ein cooles, urbanes Ambiente.
 
 [Über die Vegan Junk Food Bar habe ich hier im Blog ja schon berichtet](/2018/02/vegan-junk-food-bar-amsterdam/). In Amsterdam hatte ich vor ein paar Jahren meine erste Begegnung mit den köstlichen Burger- und Pommes-Variationen der veganen Restaurant-Kette.
 
