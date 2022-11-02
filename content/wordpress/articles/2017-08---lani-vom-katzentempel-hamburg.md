@@ -19,7 +19,7 @@ remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403920_ad9c4bc347_k__m.jpg
 title: Lani vom Katers Köök Hamburg
 subTitle: Frühstück im Katers Köök
-seoTitle: Interview mit Lani vom Katers Köök Hamburg – Frühstück im Katzencafé
+seoTitle: Interview mit Lani vom Katzencafé "Katers Köök" in Hamburg
 description: Ihr möchtet mehr über das Katers Köök Hamburg erfahren? Gründerin
   Lani hat mir im Interviews viele Details über das Katzencafé verraten.
 labels:
