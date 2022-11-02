@@ -1,17 +1,25 @@
 ---
-date: 2018-02-25T14:55:18.000+00:00
-slug: vegan-junk-food-bar-amsterdam
-path: '/2018/02/vegan-junk-food-bar-amsterdam/'
-title: Vegan Junk Food Bar Amsterdam
-seoTitle: Vegan Junk Food Bar Amsterdam - Kreative vegane Burger und mehr
 ogTitle: Vegan Junk Food Bar Amsterdam - Kreative vegane Burger und mehr
-description: Vor Kurzem habe ich in der Vegan Junk Food Bar in Amsterdam den größten Burger meines Lebens gegessen. Und ich habe ihn aufgegessen!
-excerpt: Vor Kurzem habe ich in der Vegan Junk Food Bar in Amsterdam den größten Burger meines Lebens gegessen. Und ich habe ihn aufgegessen!
-fileName: 2018-02---vegan-junk-food-bar-amsterdam.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40237376952_3769f23f31_z__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40237376952_3769f23f31_z__l.jpg
+excerpt: Vor Kurzem habe ich in der Vegan Junk Food Bar in Amsterdam den größten
+  Burger meines Lebens gegessen. Und ich habe ihn aufgegessen!
+ogImage: null
+isAffiliate: false
+path: /2018/02/vegan-junk-food-bar-amsterdam/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAJxAAAgEDBAEDBQEAAAAAAAAAAQIDAAQRBRITITEUMlEjQWFxgZH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwYB/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECEQMhMf/aAAwDAQACEQMRAD8AylxoavqDRHshtvuBGf5Xa20aIxcwsLtoSuFlwu1m87Qc+7BBx8EGrOgXIklV2/f+Vai1J7Sy9Dd3l56CSBbuK3hTcFdkC5JHeDg5H4qVu6UvPpRRE0zK6paQIwCwEAuqn6ill3HAyvkd0ml09UnYY6p0LZri8vbiHmdImt1CyIxcjeDnvsLgGpahGY72RWQggd9Yp8W1grpC3wU6RrHCMMRggj4psk/PDGkt/u44xGrG3j3bR4GQO6KKLtKl+CorVjINKsCkRXm0HG4JEiFsHIyQM/aqmo6k1xcF3bc58knJNFFDzWvWbTzxH//Z
-ogImage:
+isWerbung: false
+fileName: 2018-02---vegan-junk-food-bar-amsterdam.md
+slug: vegan-junk-food-bar-amsterdam
+errors: {}
+date: 2018-02-25T14:55:18.000+00:00
+focusKeyword: Vegan Junk Food Bar Amsterdam
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40237376952_3769f23f31_z__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40237376952_3769f23f31_z__m.jpg
+title: Vegan Junk Food Bar Amsterdam
+subTitle: Kreative vegane Burger und mehr
+seoTitle: Vegan Junk Food Bar Amsterdam - Kreative vegane Burger und mehr
+description: Vor Kurzem habe ich in der Vegan Junk Food Bar in Amsterdam den
+  größten Burger meines Lebens gegessen. Und ich habe ihn aufgegessen!
 labels:
   - Amsterdam
   - Amsterdam vegan
@@ -25,13 +33,7 @@ labels:
   - Vegane Lokale
   - vegane Lokale
   - serie:Amsterdam 2018
-focusKeyword: Vegan Junk Food Bar
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
-errors: {}
-subTitle: Kreative vegane Burger und mehr
 ---
 
 **Vor Kurzem habe ich in der Vegan Junk Food Bar in Amsterdam den größten Burger meines Lebens gegessen. Und ich habe ihn aufgegessen! Er war einfach zu lecker, um etwas liegen zu lassen.**
@@ -50,7 +52,7 @@ Die Speisekarte ist, wie der Name schon vermuten lässt, komplett vegan. Es gibt
 
 Und wer dann immer noch hungrig ist, probiert einfach die Zwiebelringe, Vleischbällchen und Frühlingsrollen. Zum Abschluss gibt es dann noch ein schmackhaftes Dessert.
 
-Inzwischen gibt es in Amsterdam eine Burger Bar und ein Restaurant von VJF. Die Burger Bar befindet sich im Staringplein 22, das Restaurant im Marie Heinekenplein 9 – 10. Das Restaurant hat auch glutenfreie Speisen auf der Karte.
+Inzwischen gibt es in Amsterdam eine Burger Bar und ein Restaurant von VJF. Die Burger Bar befindet sich im Staringplein 22, das Restaurant im Marie Heinekenplein 9-10. Das Restaurant hat auch glutenfreie Speisen auf der Karte.
 
 Berichtet mal, wie es Euch dort geschmeckt hat. Wir waren schwer beeindruckt und werden, falls wir mal wieder in der Stadt sind, bestimmt wieder vorbeischauen. Allerdings werde ich mir vorher gut überlegen, ob ich nochmal den doppelten Burger bestelle. Denn ich gebe zu: Das Aufstehen fiel mir danach schon ganz schön schwer. Aber er war halt einfach so lecker!
 
