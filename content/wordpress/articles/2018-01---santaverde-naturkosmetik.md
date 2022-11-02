@@ -118,7 +118,7 @@ Das Label der Vegan Society garantiert, dass alle Produkte von Beginn an vegan s
 
 Der für die Produkte verwendete, zu 100 Prozent reine Aloe Vera Saft "aloepur" sowie ein großer Teil der verwendeten Inhaltsstoffe tragen das EU-Biosiegel. Dabei handelt es sich um das europaweit einheitliche Dachzeichen für Erzeugnisse aus dem ökologischen Landbau. Es verbietet den Einsatz von Gentechnik und mineralischem Kunststoffdünger, fordert artgerechte Tierhaltung, eine Verminderung des Energieverbrauchs sowie einen schonenden Umgang mit Ressourcen.
 
-Die Anwendung der Santaverde Produkte erfolgt je nach Hautbild. Die von mir gewählte Sensitivpflegereihe bietet neben "meinen Produkten" unter anderem auch noch eine "rich cream", die ich vielleicht mal für meine ewig trockene Augenpartie testen werde, sowie ein Reinigungsgel. Vielleicht kommt ja für Euch auch eher die Age Perfect Serie oder die Pur Serie in Frage. Am besten informiert Ihr Euch selbst, was am besten zu Euch passt[^4].
+Die Anwendung der Santaverde Produkte erfolgt je nach Hautbild. Die von mir gewählte Sensitivpflegereihe bietet neben "meinen Produkten" unter anderem auch noch eine "rich cream", die ich vielleicht mal für meine ewig trockene Augenpartie testen werde, sowie ein Reinigungsgel. Vielleicht kommt ja für Euch auch eher die Age Perfect Serie oder die Pur Serie infrage. Am besten informiert Ihr Euch selbst, was am besten zu Euch passt[^4].
 
 ## Wertvoller Aloe Vera Saft
 

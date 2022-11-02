@@ -83,7 +83,7 @@ Er erforscht seit mehr als 30 Jahren das Gefühlsleben der Tiere. Dies tut er au
 
 ### 10. Der Blog "Der Graslutscher”
 
-Knallharte Fakten, satirisch verpackt, sind immer wieder auf der Seite "Der Graslutscher" zu finden. Jan, der Herausgeber rechnet mit allen ab, die die vegane Lebensweise mit schlechten Argumenten in Frage stellen und besticht mit exakt recherchierten Daten und Fakten. [Hier geht's zum Blog](https://graslutscher.de/).
+Knallharte Fakten, satirisch verpackt, sind immer wieder auf der Seite "Der Graslutscher" zu finden. Jan, der Herausgeber rechnet mit allen ab, die die vegane Lebensweise mit schlechten Argumenten infrage stellen und besticht mit exakt recherchierten Daten und Fakten. [Hier geht's zum Blog](https://graslutscher.de/).
 
 ### 11. Der Blog "Der Artgenosse”
 

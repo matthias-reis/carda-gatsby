@@ -170,7 +170,7 @@ Der Mitarbeiter, der das Ableben des Affen verschuldet hatte, soll anschließend
 
 Friedrich Mülln von der SOKO Tierschutz kommentiert den Fall:
 
-> "Wenn sich der akute Verdacht bestätigt, dass im LPT eine gewaltige Primatenstudie auf diese Art und Weise manipuliert wurde, dann stellt das alles in Frage, und dem Labor muss sofort die Betriebserlaubnis entzogen werden. Das bedeutet dann nicht nur Qualen für Tiere, sondern auch ein Medikament für Menschen, dessen Entwicklung auf unterschlagenen Daten und einem verfälschten Studienablauf beruht"
+> "Wenn sich der akute Verdacht bestätigt, dass im LPT eine gewaltige Primatenstudie auf diese Art und Weise manipuliert wurde, dann stellt das alles infrage, und dem Labor muss sofort die Betriebserlaubnis entzogen werden. Das bedeutet dann nicht nur Qualen für Tiere, sondern auch ein Medikament für Menschen, dessen Entwicklung auf unterschlagenen Daten und einem verfälschten Studienablauf beruht"
 
 ### Wer sich uns bei der Demo am Samstag anschließen möchte - hier sind die Infos:
 

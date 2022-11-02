@@ -55,7 +55,7 @@ Du kennst das sicher auch: Du kommst am Ende der Woche von der Arbeit nach Hause
 
 Am Samstagmittag stehst Du dann im Supermarkt in einer langen Schlange. Der Mann mit den vielen Milchpackungen im Einkaufswagen hinter Dir fährt Dir ständig mit dem Wagen in die Hacken und um Dich rum quengeln die Kinder. So hattest Du Dir das nicht vorgestellt. Und dann fallen auch noch die Tomaten runter. Und das Fahrrad hat einen neuen Kratzer.
 
-Am Sonntagabend gehst Du mit der festen Überzeugung ins Bett: Die nächste Woche muss glücklicher werden. So kann das nicht weitergehen. Am Montag im Büro findest Du erstmal eine lange To-do-Liste vor und Dein Kollege ist auch noch übers Wochenende krank geworden. Als Vertretung kommst natürlich nur Du in Frage. Das bedeutet Überstunden, Stress und wieder keine Zeit, mit Deiner Chefin zu sprechen. Was für ein Teufelskreis, oder? Zum Glück gibt es ein paar Deeskalationsmöglichkeiten, die den Alltag wesentlich glücklicher machen.
+Am Sonntagabend gehst Du mit der festen Überzeugung ins Bett: Die nächste Woche muss glücklicher werden. So kann das nicht weitergehen. Am Montag im Büro findest Du erstmal eine lange To-do-Liste vor und Dein Kollege ist auch noch übers Wochenende krank geworden. Als Vertretung kommst natürlich nur Du infrage. Das bedeutet Überstunden, Stress und wieder keine Zeit, mit Deiner Chefin zu sprechen. Was für ein Teufelskreis, oder? Zum Glück gibt es ein paar Deeskalationsmöglichkeiten, die den Alltag wesentlich glücklicher machen.
 
 ## 1. Lebe die Dankbarkeit
 

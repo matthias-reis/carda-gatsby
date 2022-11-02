@@ -36,7 +36,7 @@ affiliate: true
 ---
 **Seit Kurzem habe ich ein paar neue Schuhe, die ich Euch gerne zeigen möchte. Meine Sorbas Shoes sind fair, vegan und bequem.**
 
-Sorbas aus Berlin lassen ihre Schuhe in kleinen Betrieben herstellen, um damit die lokale Entwicklung und die fairen Produktionsstrukturen in ärmeren Ländern zu unterstützen. Massenproduktion kommt für Eike, den Gründer des Labels, nicht in Frage. Die Menschen in den Schuhmacherbetrieben arbeiten seit langer Zeit zusammen und lieben ihre Arbeit. Ihr traditionelles Wissen über ihr Handwerk geben sie seit Generationen weiter.
+Sorbas aus Berlin lassen ihre Schuhe in kleinen Betrieben herstellen, um damit die lokale Entwicklung und die fairen Produktionsstrukturen in ärmeren Ländern zu unterstützen. Massenproduktion kommt für Eike, den Gründer des Labels, nicht infrage. Die Menschen in den Schuhmacherbetrieben arbeiten seit langer Zeit zusammen und lieben ihre Arbeit. Ihr traditionelles Wissen über ihr Handwerk geben sie seit Generationen weiter.
 
 Ich habe mich für minimalistische Sneaker aus der 60's Series von Sorbas entschieden. Sie heißen ['66 Pine Green](https://sorbasshoes.com/schuh/66-pine-green/?affiliates=8) und bestehen aus hochwertiger, langstapeliger, wasserfester Bio-Baumwolle. Die Laufsohle wurde aus Kautschuk gefertigt. Auf der Rückseite befindet sich ein kleines eingesetztes Detail aus Kork mit einer Logoprägung.
 

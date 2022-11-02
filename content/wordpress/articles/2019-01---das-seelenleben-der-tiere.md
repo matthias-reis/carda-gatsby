@@ -72,7 +72,7 @@ Der Autor schlussfolgert nach dieser Geschichte:
 
 Ein Kapitel beschäftigt sich mit dem Schwarz-Weiß-Denken der Menschen. Der Autor hinterfragt darin, warum wir unser Interesse für tierische Gefühle auf bestimmte Arten beschränken. Wir teilen die Welt in "Nützlinge" und "Schädlinge" ein, ohne das große Ganze zu beachten und all das Grau zwischen dem Schwarz und dem Weiß zu bewundern.
 
-Wie kommen wir eigentlich auf die Idee, die Intelligenz von Staaten bildenden Insekten, Zugvögeln, in Clans lebenden Säugetieren und in der Tiefe überlebender Meeresbewohner in Frage zu stellen? Sind wir noch ganz bei Trost? Warum essen wir neugierige, liebevolle Schweine und keine treuen, neugierigen Hunde? Wir sollten unser Handeln definitiv hinterfragen. Soviel steht fest.
+Wie kommen wir eigentlich auf die Idee, die Intelligenz von Staaten bildenden Insekten, Zugvögeln, in Clans lebenden Säugetieren und in der Tiefe überlebender Meeresbewohner infrage zu stellen? Sind wir noch ganz bei Trost? Warum essen wir neugierige, liebevolle Schweine und keine treuen, neugierigen Hunde? Wir sollten unser Handeln definitiv hinterfragen. Soviel steht fest.
 
 ## "Das Seelenleben der Tiere" - pro und kontra
 

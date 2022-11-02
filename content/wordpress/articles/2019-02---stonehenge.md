@@ -81,7 +81,7 @@ Neuesten Erkenntnissen zur Folge weiß man, dass das Monument in mehreren Baupha
 
 ## Wie wurden die schweren Steine transportiert?
 
-Die Blausteine stammen aus den Preseli Bergen von Wales. Diese sind etwa 240 Kilometer von Stonehenge entfernt. Es wird vermutet, dass sie durch **Gletscherverfrachtung** nach Wiltshire gelangten. Sollte das nicht der Fall sein, kommt beispielsweise der Seeweg in Frage. Blausteine werden übrigens auch "Doleriten" genannt. Dabei handelt es sich um eine Basaltart.
+Die Blausteine stammen aus den Preseli Bergen von Wales. Diese sind etwa 240 Kilometer von Stonehenge entfernt. Es wird vermutet, dass sie durch **Gletscherverfrachtung** nach Wiltshire gelangten. Sollte das nicht der Fall sein, kommt beispielsweise der Seeweg infrage. Blausteine werden übrigens auch "Doleriten" genannt. Dabei handelt es sich um eine Basaltart.
 
 ## Wie lange gibt es Stonehenge schon?
 

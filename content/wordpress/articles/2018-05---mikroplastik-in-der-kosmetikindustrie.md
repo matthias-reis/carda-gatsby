@@ -38,7 +38,7 @@ subTitle: Umweltsünden aus der Tube
 
 **Das Thema Umweltverschmutzung durch Plastik habe ich hier schon einige Male gestreift. Auch Mikroplastik hat in dem ein oder anderen Artikel bereits Erwähnung gefunden. Heute möchte ich mich mal eingehend mit Mikroplastik in der Kosmetikindustrie beschäftigen.**
 
-Um dieses Thema genauer zu beleuchten, habe ich ein paar Anläufe gebraucht. Das liegt einfach daran, dass ich bei der Recherche immer wieder auf neue Aspekte gestoßen bin, die es zu durchleuchten galt. Einen von ihnen außer Acht zu lassen, wäre für mich nicht in Frage gekommen, da es mir besonders wichtig war, ein möglichst vollständiges Bild der Lage zu zeichnen.
+Um dieses Thema genauer zu beleuchten, habe ich ein paar Anläufe gebraucht. Das liegt einfach daran, dass ich bei der Recherche immer wieder auf neue Aspekte gestoßen bin, die es zu durchleuchten galt. Einen von ihnen außer Acht zu lassen, wäre für mich nicht infrage gekommen, da es mir besonders wichtig war, ein möglichst vollständiges Bild der Lage zu zeichnen.
 
 ## Zwei Arten von Mikroplastik
 

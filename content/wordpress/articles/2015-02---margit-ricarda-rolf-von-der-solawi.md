@@ -139,7 +139,7 @@ Ich habe mich mit Margit Ricarda Rolf, einer der Gründerinnen unterhalten. Sie 
 
 **Ricarda:** Die jungen Leute wissen gar nicht mehr, wie ein Radischen schmeckt oder eine Tomate. Die halten den Geschmack der heutigen Gemüse für normal. Woher sollen sie auch. Kleine Kinder wissen nicht, dass das **Würstchen** ein totes Schwein ist. Milch kommt aus der Tüte und Kühe sind lila.
 
-**Anne:** Womit wird auf der SoLaWi eigentlich gedüngt werden? Werdet ihr im großen Stil **Kompostwirtschaft** betreiben? Wenn ja, wie organisiert ihr das? Besonders faszinierend finde ich ja die Gründüngung, bei der, wenn ich es richtig verstanden habe, Leguminosen (Hülsenfrüchte) über den Stickstoff in der Luft zu Dünger werden. Kunstdünger wird für eure Biolandwirtschaft ja mit Sicherheit nicht in Frage kommen, außerdem soll ja auch der Dünger vegan sein, Landwirtschaft ganz ohne Dung also.
+**Anne:** Womit wird auf der SoLaWi eigentlich gedüngt werden? Werdet ihr im großen Stil **Kompostwirtschaft** betreiben? Wenn ja, wie organisiert ihr das? Besonders faszinierend finde ich ja die Gründüngung, bei der, wenn ich es richtig verstanden habe, Leguminosen (Hülsenfrüchte) über den Stickstoff in der Luft zu Dünger werden. Kunstdünger wird für eure Biolandwirtschaft ja mit Sicherheit nicht infrage kommen, außerdem soll ja auch der Dünger vegan sein, Landwirtschaft ganz ohne Dung also.
 
 **Ricarda:** Es gibt tolle Ansätze, nicht nur bei Wildwuchs. Wir werden in die Lehre gehen und bekommen natürlich Unterstützung durch andere Solawis. Man muss das Rad nicht neu erfinden.
 

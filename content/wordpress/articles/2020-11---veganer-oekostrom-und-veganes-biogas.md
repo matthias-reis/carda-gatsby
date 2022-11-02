@@ -62,7 +62,7 @@ Soviel dazu. Doch gibt es wirklich veganen Strom? Das ist ziemlich kompliziert. 
 
 > "Aufgrund der Rahmenbedingungen kann streng genommen kein Stromanbieter zu 100 Prozent vegan sein. Das liegt daran, dass jeder Energieversorger laut Gesetz einen gewissen Anteil im Stromtarif für die EEG-Umlage berechnen muss. Über diese Umlage werden auch Anlagen mitfinanziert, die hohen Tierschutz-Anforderungen nicht genügen können. Dazu gehören unter anderem mit Gülle betriebene Biogasanlagen."
 
-Alle Stromanbieter sind zur Zahlung der EEG-Umlage verpflichtet – also auch Green Planet Energy. Obwohl für den Ökostromlieferanten derartige Anlagen zur Stromgewinnung nicht in Frage kommen. Ähnlich sieht es ja zum Beispiel auch bei den Steuergeldern aus: Auch über sie können Maßnahmen finanziert werden, die den hohen Ansprüchen bestimmter Anbieter nicht genügen können.
+Alle Stromanbieter sind zur Zahlung der EEG-Umlage verpflichtet – also auch Green Planet Energy. Obwohl für den Ökostromlieferanten derartige Anlagen zur Stromgewinnung nicht infrage kommen. Ähnlich sieht es ja zum Beispiel auch bei den Steuergeldern aus: Auch über sie können Maßnahmen finanziert werden, die den hohen Ansprüchen bestimmter Anbieter nicht genügen können.
 
 ## Darum ist der Strom von Green Planet Energy "so gut wie" vegan
 

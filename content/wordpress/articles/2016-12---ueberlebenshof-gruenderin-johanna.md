@@ -125,7 +125,7 @@ Wir mussten viele unserer Tiere an andere Gnadenhöfe vermitteln und haben dadur
 
 **Johanna:**  Derzeit zwölf Katzen und zwei Hunde.
 
-**Anne:** Plant Ihr, noch weitere aufzunehmen? Kommen auch wieder größere Tiere wie Schweine oder Schafe in Frage?
+**Anne:** Plant Ihr, noch weitere aufzunehmen? Kommen auch wieder größere Tiere wie Schweine oder Schafe infrage?
 
 ## "Freiheit und Unversehrtheit sind das höchste Gut eines Lebewesens"
 

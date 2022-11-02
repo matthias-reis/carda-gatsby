@@ -73,7 +73,7 @@ Carola Rackete kam 1988 in Preetz zur Welt und wuchs in Hambühren auf. Nach ihr
 
 Die Aktivistin ist seit 2016 bei Sea Watch Missionen dabei. 2017 koordinierte sie ihre erste Rettungsmission. 2019 erklärte sie sich bereit, als Ersatz für einen ausgefallenen Kollegen einzuspringen. Der Rest ist Geschichte.
 
-Mit "Handeln statt hoffen" hat Carola Rackete einen Aufruf veröffentlicht, jetzt innezuhalten und unser Verhalten nicht nur zu überdenken, sondern umgehend drastisch zu ändern. Sie ruft dazu auf, das System in Frage zu stellen, das Gebot der Humanität nicht mehr zu ignorieren und endlich zu handeln. Auf Seite 101 spricht sie uns alle an
+Mit "Handeln statt hoffen" hat Carola Rackete einen Aufruf veröffentlicht, jetzt innezuhalten und unser Verhalten nicht nur zu überdenken, sondern umgehend drastisch zu ändern. Sie ruft dazu auf, das System infrage zu stellen, das Gebot der Humanität nicht mehr zu ignorieren und endlich zu handeln. Auf Seite 101 spricht sie uns alle an
 
 > "Wirklich etwas zu ändern, erfordert größeren Kraftaufwand, aber wir haben keine Wahl"
 

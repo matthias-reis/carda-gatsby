@@ -53,7 +53,7 @@ Silvia und David wollen dem etwas entgegensetzen. Sie möchten gute Produkte lie
 
 Bis heute handelt es sich bei den Haselnüssen, die es in Deutschland zu kaufen gibt, fast ausschließlich um Importware. Die weiten Transportwege führen zu einem hohen CO<small>2</small>-Fußabdruck.
 
-Hinzu kommt, das die herkömmlichen Haselnüsse, wie im Lebensmittelanbau üblich, mit Exkrementen aus der Nutztierhaltung gedüngt werden. Bei Hof Windkind wird ausschließlich mit pflanzlichem Material gedüngt: Gras, Wildkräuter, Laub und Stroh. Gülle, Hornmehl, Blutmehl und ähnliches kommen für Silvia und David nicht in Frage. Aus diesem Grund dürfen sie ihre Nüsse auch mit dem Label "bio-vegan" verkaufen.
+Hinzu kommt, das die herkömmlichen Haselnüsse, wie im Lebensmittelanbau üblich, mit Exkrementen aus der Nutztierhaltung gedüngt werden. Bei Hof Windkind wird ausschließlich mit pflanzlichem Material gedüngt: Gras, Wildkräuter, Laub und Stroh. Gülle, Hornmehl, Blutmehl und ähnliches kommen für Silvia und David nicht infrage. Aus diesem Grund dürfen sie ihre Nüsse auch mit dem Label "bio-vegan" verkaufen.
 
 > "Es ist für uns sehr motivierend, am frühen Morgen auf dem Feld zu stehen und zu wissen, dass Menschen sich auf unsere Nüsse freuen und schon drauf warten." Silvia & David, Hof Windkind
 
