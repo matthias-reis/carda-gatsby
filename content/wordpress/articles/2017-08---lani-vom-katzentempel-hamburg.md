@@ -49,7 +49,7 @@ type: Artikel
 
 **Im Katers Köök am Kleinen Schäferkamp 24 in Hamburg kann man nicht nur Frühstück, Mittag und Abendessen genießen, sondern dabei auch noch sechs Samtpfoten begegnen. Die Betreiberin Rilana Rentsch habe ich dort jetzt zum Interview getroffen.**
 
-Nachdem das Katzencafé[^1] in München sehr gut angenommen wurde, eröffnete zum August nun auch einer in Hamburg. Geschäftsführerin Rilana, kurz Lani, ist es besonders wichtig, den Menschen den Tierschutz näherzubringen. Interessierte haben daher jederzeit die Möglichkeit, sich dort mit Informationen einzudecken.
+Nachdem das Katzencafé[^1] in München sehr gut angenommen wurde, eröffnete zum August nun auch eins in Hamburg. Geschäftsführerin Rilana, kurz Lani, ist es besonders wichtig, den Menschen den Tierschutz näherzubringen. Interessierte haben daher jederzeit die Möglichkeit, sich dort mit Informationen einzudecken.
 
 Alle Katzen im Tempel stammen aus dem Tierschutz. Newman, Liffey, Keshia, Mellow, Serena und Avy haben ganz unterschiedliche Persönlichkeiten und jede hat ihren eigenen Kopf. Wenn den geselligen Tieren der Publikums-Trubel zu viel wird, gibt es ein über einige Katzenklappen zugängliches Zimmer, in das sie sich jederzeit zurückziehen können.
 
@@ -121,7 +121,7 @@ Ich habe immer nebenberuflich in der Gastronomie gearbeitet. Die letzten eineinh
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAAuEAABBAECBQIDCQAAAAAAAAABAgMEEQUAIQYSEzFBB2EUJFEiQmKBkaGxwdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMRMRJhBCGx/9oADAMBAAIRAxEAPwB16sy8jPRjsdgnWSwUrkOuhQJDidkJHm9yRVftrR+iqcuw60Jz61c4pTDjpJSO5N2Qrwd9x9fGuHEOGbLJlwHk/FKR12ISihHVKDSwlajQNEEDa+1658FZV3C5aZKzEVGMjMR0/NPxT1XkqNpbHLYNfW70JVathyjGetqzxyTLZkR8i8Pw6VYNNw5Q9wf51O8565YJqU5CgwpeQStXRC2K5lK9k1/f6a1vAmfjZduWiKl1QTQWuhyIP2rSVXuQQRt5B9jpgYHUIVI3JvkpaMkvLY6U0VIilKmTz0EkNjxV/eJsEeNLZPBRexrYgZExkSEpU712zJKrAUAOddAd+w3vfto0aO3s5Pf2Io1joTIweEJOMyrIdzS5TDRsNLit0N+wO5T+RGrpwYlELFhqMnkQpIBF3e5/06NGoUMTYRHeTWq1AgT/2Q=="
 />
 
-**Lani:** Das hat tatsächlich richtig gut funktioniert. Dadurch, dass ich es mit einem Lizenzgeber mache, waren einfach auch schon Erfahrungswerte da. Die Ämter haben nach der Vorbegehung zu uns gesagt, dass wir das Rad ja nicht neu erfinden müssen und es ja einfach so machen können, wie es in München schon funktioniert hat. Wir haben sie auch sehr früh angesprochen und mit ins Boot geholt, also gab es da von vornherein gar keine Probleme.
+**Lani:** Das hat tatsächlich richtig gut funktioniert. Dadurch, dass ich es mit einem Lizenzgeber mache, waren einfach auch schon Erfahrungswerte da. Die Ämter haben nach der Vorab-Begehung zu uns gesagt, dass wir das Rad ja nicht neu erfinden müssen und es ja einfach so machen können, wie es in München schon funktioniert hat. Wir haben sie auch sehr früh angesprochen und mit ins Boot geholt, also gab es da von vornherein gar keine Probleme.
 
 **Anne:** Traditionell haben wir Menschen ja seltsame Werte, Tiere betreffend. Wie erklärst Du Dir, dass wir die einen streicheln und in unserem Bett schlafen lassen und die anderen ausbeuten, von ihren Kindern trennen, unter schlimmsten Bedingungen halten, töten und verzehren?
 
