@@ -120,7 +120,7 @@ Das sind meine Bilder und Erfahrungen mit unserer Musik. Ich bin sicher, dass di
 
 **Anne:** Für "We Salute You, You and You!" habt Ihr wieder mit dem großartigen Magnus Lindberg gearbeitet. Ist er ein Freund von Euch? 
 
-## Magnus Lindberg ist Teil der EF-Familie"
+## Magnus Lindberg ist Teil der EF Familie"
 
 **Daniel:** Eine ehemalige Band von mir, Convoj, hat 2008 mit Magnus gearbeitet, glaube ich. Ich hatte eine großartige Erfahrung mit ihm gemacht, sodass wir ihn 2010 mit EF für das Tracking, Mix und Mastering von "Mourning Golden Morning" engagiert haben. Es war damals das erste Mal, dass wir in so einer professionellen Umgebung gearbeitet haben.
 
