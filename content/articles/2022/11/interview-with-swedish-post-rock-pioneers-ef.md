@@ -138,7 +138,7 @@ Musically, we're often used as some reference point when you mention new(er) pos
 
 But it's even cooler when you believe you've found a "new" band yourself—add them to Instagram, and they instantly write back that they listened to EF when they formed the band. But, of course, then you also feel quite old (laughs).
 
-**Anne:** It's so nice you're mentioning Myspace and last.FM, Niklas. That's where I listened to your music for the first time. Who would you say inspired you the most on your way? 
+**Anne:** It's so nice you just mentioned Myspace and last.FM, Niklas. That's where I listened to your music for the first time. Who would you say inspired you the most on your way? 
 
 **Niklas:** When we started playing" post-rock", we spent a lot of time listening to Mogwai, Explosions in the sky, Sigur Rós and that whole" Canadian clan" with Godspeed and such.
 
