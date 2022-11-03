@@ -43,7 +43,7 @@ Auf ihrem Instagram-Account bedankten sich die Schotten bei ihren Fans:
 
 > "Vielen Dank an alle, die diese Woche 'As The Love Continues' gekauft haben. Es ist unglaublich, dass unser Album in England auf Platz 1 ist! Wir sind so dankbar für Euren Support!"
 
-Unter den Gratulant⋆innen waren neben den Abbey Road Studios sämtliche Post-Rock Projekte und unzählige Fans.
+Unter den Gratulant⋆innen waren neben den Abbey Road Studios sämtliche Post-Rock-Projekte und unzählige Fans.
 
 ## Mogwai und das Post-Rock Wunder
 

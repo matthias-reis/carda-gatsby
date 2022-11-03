@@ -5,10 +5,10 @@ typeName: Interview
 title: Interview mit Goodbye Meteor Gitarrist Cedric Pecourt
 subTitle: '"Nachhaltigkeit und Tierrechte sind für uns von grundlegender Bedeutung"'
 seoTitle: Post-Rock Interview mit Goodbye Meteor Gitarrist Cedric Pecourt
-description: Goodbye Meteor bezeichnen sich als "grünes Post-Rock Projekt".  Im
+description: Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt".  Im
   Interview habe ich mich mit dem vegan lebenden Gitarristen der Band Ced über
   die neue EP "Metanoia" unterhalten.
-excerpt: Goodbye Meteor bezeichnen sich als "grünes Post-Rock Projekt". Ihre
+excerpt: Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt". Ihre
   Musik beschreiben sie als "imersiven und solaren Post-Rock, der aus dem Chaos
   kommt und sich in Richtung Resilienz bewegt". Mit ihren Stücken wollen die
   vier einen harmonischen Weg zwischen Mensch und Natur aufzeigen. Im Interview
@@ -34,7 +34,7 @@ affiliate: false
 language: de
 languageLink: /2022/03/goodbye-meteor-en/
 ---
-**Goodbye Meteor bezeichnen sich als "grünes Post-Rock Projekt". Ihre Musik beschreiben sie als "imersiven und solaren Post-Rock, der aus dem Chaos kommt und sich in Richtung Resilienz bewegt". Die Band sieht sich als "Green Post-Rock Projekt". Mit ihren Stücken wollen die vier einen harmonischen Weg zwischen Mensch und Natur aufzeigen. Ich habe mich mit Gitarrist Ced über ihre neue EP "Metanoia" unterhalten,  die ab sofort auf Bandcamp verfügbar ist.**
+**Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt". Ihre Musik beschreiben sie als "imersiven und solaren Post-Rock, der aus dem Chaos kommt und sich in Richtung Resilienz bewegt". Die Band sieht sich als "Green Post-Rock-Projekt". Mit ihren Stücken wollen die vier einen harmonischen Weg zwischen Mensch und Natur aufzeigen. Ich habe mich mit Gitarrist Ced über ihre neue EP "Metanoia" unterhalten,  die ab sofort auf Bandcamp verfügbar ist.**
 
 **Anne:** Hallo! Danke, dass Du Dir die Zeit für dieses Interview nimmst. Wie geht es Euch im Moment? Ich bin mir sicher, dass Ihr mit Eurer neuen EP sehr zufrieden seid – sie gefällt mir wirklich ausgesprochen gut!
 

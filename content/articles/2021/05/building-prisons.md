@@ -15,10 +15,10 @@ title: Building Prisons
 subTitle: Die Debüt-EP ist da
 seoTitle: Building Prisons – die Debut-EP ist da – Post-Rock aus Irland
 ogTitle: ""
-description: Building Prisons ist ein Post-Rock Projekt aus Cavan in der
+description: Building Prisons ist ein Post-Rock-Projekt aus Cavan in der
   Republik Irland. Rory, Peter, Johno und Paddy haben jetzt ihre Debüt-EP
   fertig.
-excerpt: Building Prisons ist ein Post-Rock Projekt aus Cavan in der Republik
+excerpt: Building Prisons ist ein Post-Rock-Projekt aus Cavan in der Republik
   Irland. Rory Mc Donagh (Gitarre), Peter Denton (Gitarre), Johno Leader (Bass)
   und Paddy Fitzhenry (Drums) lieben Bands wie Maybeshewill, This Will Destroy
   You und Russian Circles. Gerade ist ihre Debüt-EP erschienen. Sie trägt den
@@ -32,7 +32,7 @@ affiliate: false
 languageLink: /2021/05/building-prisons-en
 ---
 
-**Building Prisons ist ein Post-Rock Projekt aus Cavan in der Republik Irland. Rory Mc Donagh (Gitarre), Peter Denton (Gitarre), Johno Leader (Bass) und Paddy Fitzhenry (Drums) lieben Bands wie Maybeshewill, This Will Destroy You und Russian Circles. Ihre Debüt-EP trägt den Namen der Band und macht Lust auf mehr.**
+**Building Prisons ist ein Post-Rock-Projekt aus Cavan in der Republik Irland. Rory Mc Donagh (Gitarre), Peter Denton (Gitarre), Johno Leader (Bass) und Paddy Fitzhenry (Drums) lieben Bands wie Maybeshewill, This Will Destroy You und Russian Circles. Ihre Debüt-EP trägt den Namen der Band und macht Lust auf mehr.**
 
 Was mir an der EP besonders gut gefällt, ist die fast heimelig wirkende Stimmung. Eingebettet in Paddys präzises Schlagzeugspiel bilden sich Melodien heraus, die in dramatischen Gitarrenklängen gipfeln. Die melodischen Parts des ersten Songs ("The Mistakes We Make") werden von härteren Anflügen abgewechselt, um sich anschließend in weichen Klanglandschaften wiederzufinden.
 

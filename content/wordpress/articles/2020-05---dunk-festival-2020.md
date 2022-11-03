@@ -102,7 +102,7 @@ Big Brave hauen so richtig auf die Ohren. Das Duo aus Montreal ist vor allem in 
 
 ## The Trees &amp; The Wild - "Zaman, Zaman" vom Album "Zaman, Zaman"
 
-Vorsicht! Wer auf Farben, Blitze und schnelle Bildfolgen empfindlich reagiert, sollte sich dieses Video besser nicht anschauen. Allen anderen sei geraten, es auf jeden Fall zu tun. Falls Ihr an dieser Stelle nicht in den Genuss kommt, rate ich Euch, die Playlist unten aufzurufen. The Trees &amp; The Wild sind übrigens das Post-Rock Projekt von Matt Pond aus Kingston, New York. Er nutzt es für ausgefallene Sound-Experimente, wie ihr an diesem Song unschwer erkennen könnt.
+Vorsicht! Wer auf Farben, Blitze und schnelle Bildfolgen empfindlich reagiert, sollte sich dieses Video besser nicht anschauen. Allen anderen sei geraten, es auf jeden Fall zu tun. Falls Ihr an dieser Stelle nicht in den Genuss kommt, rate ich Euch, die Playlist unten aufzurufen. The Trees &amp; The Wild sind übrigens das Post-Rock-Projekt von Matt Pond aus Kingston, New York. Er nutzt es für ausgefallene Sound-Experimente, wie ihr an diesem Song unschwer erkennen könnt.
 
 <YouTube id="cWSPFQCcM7s" />
 

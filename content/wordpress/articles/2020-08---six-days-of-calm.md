@@ -7,8 +7,8 @@ typeName: Review
 title: Six Days Of Calm
 seoTitle: Six Days Of Calm - "The Ocean's Lullaby" - Interview
 ogTitle: Six Days Of Calm - "The Ocean's Lullaby" - Interview
-description: Das erste Album des Würzburger Post-Rock Projekts "The Ocean's Lullaby" soll Ende des Jahres erscheinen. Ich habe mich mit Gründer Mark unterhalten.
-excerpt: Das erste Album des Würzburger Post-Rock Projekts "The Ocean's Lullaby" soll Ende des Jahres erscheinen. Ich habe mich mit Gründer Mark unterhalten.
+description: Das erste Album des Würzburger Post-Rock-Projekts "The Ocean's Lullaby" soll Ende des Jahres erscheinen. Ich habe mich mit Gründer Mark unterhalten.
+excerpt: Das erste Album des Würzburger Post-Rock-Projekts "The Ocean's Lullaby" soll Ende des Jahres erscheinen. Ich habe mich mit Gründer Mark unterhalten.
 fileName: 2020-08---six-days-of-calm.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_six-days-of-calm__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_six-days-of-calm__l.jpg
@@ -32,7 +32,7 @@ errors: {}
 subTitle: '"The Ocean''s Lullaby"'
 ---
 
-**Das erste Album des Würzburger Post-Rock Projekts "The Ocean's Lullaby" soll Ende des Jahres erscheinen. Ich habe mich mit Gründer Marc über sein musikalisches Werk unterhalten.**
+**Das erste Album des Würzburger Post-Rock-Projekts "The Ocean's Lullaby" soll Ende des Jahres erscheinen. Ich habe mich mit Gründer Marc über sein musikalisches Werk unterhalten.**
 
 Six Days Of Calm gibt es seit 2018. Als sich seine Metalcore Band Watch Them Fade auflöste, wusste Multiinstrumentalist Marc, dass es Zeit für etwas Neues war - er wollte sich fortan voll und ganz seiner großen Leidenschaft, dem Post-Rock widmen. Mit dem 6DOC Debut-Album "The Ocean's Lullaby" zeigt sich dieses Feuer das erste Mal mit seiner ganzen Kraft.
 
