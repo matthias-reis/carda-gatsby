@@ -110,7 +110,7 @@ Für mich ist "Apricity" eine komplizierte Ode an das, was wir lieben. Etwas, da
 
 ## "Chambers"
 
-Niklas haben 2016 angefangen, das Intro für "Chambers" zu schreiben. Ich erinnere mich, dass wir darüber gesprochen haben, nach welchem Gefühl wir suchen. Damals hatte ich gerade den Roman "Der Zwerg" von Pär Lagerkvist aus dem Jahr 1944 zu Ende gelesen, und ich konnte mir die Szenerien aus dieser Geschichte beim Spielen vorstellen. Überall sind dunkle Wälder und der Boden ist feucht. Ich kann die Kiefern riechen. Mir ist sehr kalt. 
+Niklas und ich haben 2016 angefangen, das Intro für "Chambers" zu schreiben. Ich erinnere mich, dass wir darüber gesprochen haben, nach welchem Gefühl wir suchen. Damals hatte ich gerade den Roman "Der Zwerg" von Pär Lagerkvist aus dem Jahr 1944 zu Ende gelesen, und ich konnte mir die Szenerien aus dieser Geschichte beim Spielen vorstellen. Überall sind dunkle Wälder und der Boden ist feucht. Ich kann die Kiefern riechen. Mir ist sehr kalt. 
 
 In der Geschichte hassen alle den Zwerg, was dazu führt, dass er voller Hass ist. Infolgedessen wird er missverstanden und ist nirgendwo erwünscht. Das trifft sehr auf meine eigene Herkunft im Resandefolket zu  – wir waren nirgendwo erwünscht. Heutzutage ist das besser, aber noch lange nicht gut.
 
