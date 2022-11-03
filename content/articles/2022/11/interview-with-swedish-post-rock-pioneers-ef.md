@@ -90,21 +90,21 @@ The screaming on this album came pretty naturally, but it wasn't a 100 per cent 
 
 As mentioned, we love to tell stories. Here are a few examples from the songs on We Salute You, You and You!
 
-## "Hymn of…"
+### "Hymn of…"
 
 In "Hymn of…" I imagine a wooden ship on a stormy sea. It's the 19th century, and we are leaving poverty in Sweden. We all know we won't survive this storm, so we choose to sing our hearts out while we disappear into the mighty black ocean. 
 
-## "Nio"
+### "Nio"
 
 The track "Nio" is one of those musical fragments I found on my old iPhone. I composed it while I lived in Amsterdam more than ten years ago. During that time, I felt kind of lonely and like an outcast. When listening to this track, I picture Amsterdam in the fall. It's rainy and dark. I couldn't hide among the crowd and struggled to understand the language. This melody is my voice struggling to be understood. To be heard.
 
-## "Apricity"
+### "Apricity"
 
 When lying in bed, I often write stories, thoughts or just lines of words. I often think about how the people of the cold north worship the summer. We come to life in spring because we know what's awaiting us. It's like we only live for the summer. I somehow think it's rather sad. Our life has come to be a long wait.
 
 For me, "Apricity" is a complicated celebration of what we love. Something too fragile to hold close to the heart because we know it will break eventually. This love is not to trust because we will always end up left alone. 
 
-## "Chambers"
+### "Chambers"
 
 Niklas and I started writing the intro for "Chambers" in 2016. I remember us talking about what feeling we were looking for. At that time, I had just finished reading the novel "The Dwarf" by Pär Lagerkvist from 1944, and I could imagine the sceneries from that story while playing. There are dark woods, and the ground is moist. I can smell the pine trees. I am very cold. 
 
@@ -148,7 +148,7 @@ But while writing more and more diverse songs, we've picked influences from band
 
 **Niklas:** Tour a little in November and some spring shows if pandemics, war and electrical crisis allows us. We also don't want to let you wait another ten years for an album, so we need to get things going on this front pretty soon as well. But we're old, quite lazy and have family obligations to attend to, and there's never enough time available. So cross your fingers.
 
-## Here are some upcoming tour dates:
+### Here are some upcoming tour dates:
 
 17.11 Berlin Privatclub
 
