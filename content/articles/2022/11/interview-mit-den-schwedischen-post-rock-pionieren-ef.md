@@ -94,21 +94,21 @@ EF fing jedoch als Hardcore-Band mit Thomas (Gesang, Gitarre) und unserem ersten
 
 **Daniel:** Wie schon erwähnt, erzählen wir sehr gerne Geschichten. Hier ein paar Beispiele aus den Songs auf "We Salute You, You and You!":
 
-## "Hymn of..."
+### "Hymn of..."
 
 In "Hymn of..." stelle ich mir ein Holzschiff auf stürmischer See vor. Es ist das 19. Jahrhundert, und das Ende des Hungers in Schweden. Wir alle wissen, dass wir diesen Sturm nicht überleben werden, also singen wir uns die Seele aus dem Leib, während wir im mächtigen schwarzen Ozean verschwinden. 
 
-## "Nio"
+### "Nio"
 
 Das Stück "Nio" ist eines dieser musikalischen Fragmente, die ich auf meinem alten iPhone gefunden habe. Ich habe es komponiert, als ich vor mehr als zehn Jahren in Amsterdam gelebt habe. In dieser Zeit fühlte ich mich irgendwie einsam und wie ein Ausgestoßener. Wenn ich mir das Stück anhöre, stelle ich mir Amsterdam im Herbst vor. Es ist regnerisch und dunkel. Ich konnte mich nicht in der Menge verstecken und hatte Mühe, die Sprache zu verstehen. Diese Melodie ist meine Stimme, die darum kämpft, verstanden und gehört zu werden.
 
-## "Apricity"
+### "Apricity"
 
 Wenn ich im Bett liege, schreibe ich oft Geschichten, Gedanken oder einfach nur einzelne Zeilen oder Worte auf. Ich denke oft darüber nach, wie die Menschen im kalten Norden den Sommer verehren. Wir erwachen im Frühling zum Leben, weil wir wissen, was auf uns zukommt. Es ist, als ob wir nur für den Sommer leben. Irgendwie finde ich das ziemlich traurig. Unser Leben ist zu einer langen Wartezeit geworden.
 
 Für mich ist "Apricity" eine komplizierte Ode an das, was wir lieben. Etwas, das zu zerbrechlich ist, um es am Herzen zu halten, weil wir wissen, dass es irgendwann zerbrechen wird. Wir dürfen dieser Liebe nicht trauen, weil wir am Ende immer allein dastehen werden. 
 
-## "Chambers"
+### "Chambers"
 
 Niklas und ich haben 2016 angefangen, das Intro für "Chambers" zu schreiben. Ich erinnere mich, dass wir darüber gesprochen haben, nach welchem Gefühl wir suchen. Damals hatte ich gerade den Roman "Der Zwerg" von Pär Lagerkvist aus dem Jahr 1944 zu Ende gelesen, und ich konnte mir die Szenerien aus dieser Geschichte beim Spielen vorstellen. Überall sind dunkle Wälder und der Boden ist feucht. Ich kann die Kiefern riechen. Mir ist sehr kalt. 
 
@@ -152,7 +152,7 @@ Als wir dann mehr und mehr unterschiedliche Songs geschrieben haben, haben wir E
 
 **Niklas:** Im November werden wir ein bisschen touren. Dann wird es ein paar Frühjahrs-Shows geben, wenn es die Pandemien, der Krieg und die Stromkrise erlauben. Wir wollen Euch auch nicht wieder zehn Jahre auf ein Album warten lassen, also müssen wir auch an dieser Front bald etwas auf die Beine stellen. Aber wir sind alt, ziemlich faul und haben familiäre Verpflichtungen, und es ist einfach nie genug Zeit. Drückt uns also am besten die Daumen!
 
-## Hier ein paar Tourdaten:
+### Hier ein paar Tourdaten:
 
 17.11 Berlin Privatclub
 
