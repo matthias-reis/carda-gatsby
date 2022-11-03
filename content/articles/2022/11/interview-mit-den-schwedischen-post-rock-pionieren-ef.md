@@ -27,7 +27,7 @@ focusKeyword: We Salute You, You and You!
 advertisement: false
 affiliate: false
 language: de
-languageLink: /2022/11/ef-interview/
+languageLink: /2022/11/ef-interview-en/
 ---
 **EF sind zurück, und sie haben ein neues Album im Gepäck! Nach ihrer Auszeit haben die Schweden mit "We Salute You, You and You!" eine 10/10 gelandet. Trommelwirbel! Ich habe sie um ein Interview gebeten, und sie haben zugesagt!**
 
