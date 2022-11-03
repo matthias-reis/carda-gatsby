@@ -80,7 +80,7 @@ You said you wanted to be more direct with this record. Take it back a few notch
 
 **Niklas:** I don't think it was a “goal” with this album. We all played  in hardcore bands in our youth, and we still have that DIY hardcore spirit in us, letting it spill over in how we work with our friends, cover art, tour bookings, posters, merch and so on.
 
-The screaming on this album came pretty naturally, but it wasn't a 100 per cent keeper, to be honest.
+The screaming on this album came pretty naturally, but it wasn't a 100 percent keeper, to be honest.
 
 **Anne:** Now that we already mentioned your hardcore history. Do you want to say a few words about your previous projects? I am very curious to know more about it!
 
@@ -124,7 +124,7 @@ It has always been very easy to work with Magnus. He knows our music, he works f
 
 **Anne:** After 20 years of band history. When looking back at your releases—I think—"We Salute You, You and You!" is number 13 on your list— If you had the chance to go back in time. Is there anything you'd change?
 
-**Niklas:** Number 13? Well, I think, musically, we haven't changed much. But of course, there are always situations and choices that could have been interesting to see the outcome of if they took a different turn. Like when we decided not to go 110 per cent and instead focused on having more ordinary everyday lives and regular job careers. Play it safe with a stable income.
+**Niklas:** Number 13? Well, I think, musically, we haven't changed much. But of course, there are always situations and choices that could have been interesting to see the outcome of if they took a different turn. Like when we decided not to go 110 percent and instead focused on having more ordinary everyday lives and regular job careers. Play it safe with a stable income.
 
 ## The Scandinavian sound
 
