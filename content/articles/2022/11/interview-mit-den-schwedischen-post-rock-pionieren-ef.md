@@ -64,7 +64,7 @@ Wir haben nie über Musiktheorie gesprochen.  Ich selbst lebe ja für diesen S
 
 Wir haben diese speziellen Geschichten und Landschaften auch mit den Session-Musikern geteilt, sodass sie ein besseres Verständnis für das Gefühl hatten, nach dem wir gesucht haben. Ich schreibe alle Arrangements und schreibe dabei fast nie die Dynamik in die Noten, weil die Musik lebendig wird, wenn alle Instrumente mit ihrem eigenen Gefühl gespielt werden. 
 
-**Anne:** Viele der Bands, die ich in den letzten beiden Jahren interviewt habe, haben mir erzählt, dass sie angefangen haben, ihre Songs remote aufzunehmen, als die Pandemie begann. Irgendwann haben sie sich daran gewöhnt und auf diese Weise weiter gearbeitet, als alles wieder "normal" wurde. Habt Ihr alle Teile Eures Albums gemeinsam im Studio aufgenommen, oder sind einige davon auch "Remote Parts"?
+**Anne:** Viele der Bands, die ich in den letzten beiden Jahren interviewt habe, haben mir erzählt, dass sie angefangen haben, ihre Songs remote aufzunehmen, als die Pandemie begann. Irgendwann haben sie sich daran gewöhnt und auf diese Weise weiter gearbeitet, als alles wieder "normal" wurde. Habt Ihr alle Teile Eures Albums gemeinsam im Studio aufgenommen, oder sind einige davon auch Remote-Parts?
 
 ## "Die Bands waren gezwungen, neue Musik zu schreiben."
 
