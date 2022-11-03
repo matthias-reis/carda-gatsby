@@ -7,8 +7,8 @@ typeName: Interview
 title: Lost in Kiev
 seoTitle: Lost in Kiev im Interview - "Die Post-Rock Szene ist etwas Besonderes"
 ogTitle: Lost in Kiev im Interview - "Die Post-Rock Szene ist etwas Besonderes"
-description: Lost in Kiev haben sich zu einem Interview bereiterklärt. Die Post-Rock Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.
-excerpt: English & German - Lost in Kiev haben sich zu einem Interview bereiterklärt. Die Post-Rock Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.
+description: Lost in Kiev haben sich zu einem Interview bereiterklärt. Die Post-Rock-Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.
+excerpt: English & German - Lost in Kiev haben sich zu einem Interview bereiterklärt. Die Post-Rock-Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.
 fileName: 2020-07---lost-in-kiev.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev__l.jpg
@@ -36,7 +36,7 @@ subTitle: '"Die Post-Rock Szene ist etwas Besonderes"'
 languageLink: '/2020/07/lost-in-kiev-interview-en'
 ---
 
-**Es ist etwas passiert, das ich kaum zu Träumen gewagt hatte: Lost in Kiev haben sich zu einem Interview bereiterklärt. Die Post-Rock Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.**
+**Es ist etwas passiert, das ich kaum zu Träumen gewagt hatte: Lost in Kiev haben sich zu einem Interview bereiterklärt. Die Post-Rock-Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.**
 
 Das im Dezember erschienene Album "Persona" läuft bei mir nach wie vor auf Rotation. Zeit für ein paar Insider-Infos!
 
@@ -165,4 +165,4 @@ Alle Songs haben ihren eigenen Hintergrund und das Ergebnis zahlreicher Gespräc
 
 **LIK:** Danke Anne für Deine tollen Fragen! Wir sehen uns auf dem DUNK!
 
-Lost in Kiev gründeten sich 2007. In der aktuellen Besetzung (Gitarre: Dimitri Denat, Gitarre & Synth: Maxime Ingrand, Bass & Synth: Jean Christophe Condette, Drums: Yonan Vermeulen) tritt die Post-Rock Band seit 2011 auf. Nach "Motions" (2012) und "Nuit Noire" (2016) ist "Persona" das dritte Lost in Kiev Album in Studiolänge.
+Lost in Kiev gründeten sich 2007. In der aktuellen Besetzung (Gitarre: Dimitri Denat, Gitarre & Synth: Maxime Ingrand, Bass & Synth: Jean Christophe Condette, Drums: Yonan Vermeulen) tritt die Post-Rock-Band seit 2011 auf. Nach "Motions" (2012) und "Nuit Noire" (2016) ist "Persona" das dritte Lost in Kiev Album in Studiolänge.

@@ -3,7 +3,7 @@ date: 2022-08-02T17:42:11.888Z
 slug: lost-in-kiev-rupture
 typeName: Review
 title: Lost in Kiev – "Rupture"
-subTitle: Das vierte Album der Pariser Post-Rock Band
+subTitle: Das vierte Album der Pariser Post-Rock-Band
 seoTitle: Lost in Kiev – "Rupture" – Post-Rock Review
 description: Das neue Lost in Kiev Album "Rupture" erscheint am 7. Oktober.
   Vorbestellungen werden ab dem 4. August möglich sein. Ich habe es schon gehört

@@ -73,7 +73,7 @@ Auch über diese Platte freut sich Matze ganz besonders. Obwohl er auf sein Exem
 
 pg.lost haben was Neues. Für mich ein Grund zum vor Freude aus der Haut fahren! Das Vinyl ist natürlich schon vorbestellt und die Vorauskopplungen laufen bei uns rund. Valentin hat einen Song ausgesucht.
 
-> "Die schwedische Post-Rock Band hat von ihrem neuen Album, das am 20. November erscheinen wird, schon zwei Songs veröffentlicht. 'Suffering' und 'E22'. Ich habe mich für den zweiten entschieden. Ich finde, er macht so richtig Lust darauf, endlich die ganze Platte zu hören."
+> "Die schwedische Post-Rock-Band hat von ihrem neuen Album, das am 20. November erscheinen wird, schon zwei Songs veröffentlicht. 'Suffering' und 'E22'. Ich habe mich für den zweiten entschieden. Ich finde, er macht so richtig Lust darauf, endlich die ganze Platte zu hören."
 
 <YouTube id="JD1Ne-BzvlU" />
 

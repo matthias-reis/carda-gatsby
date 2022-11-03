@@ -201,7 +201,7 @@ Post-Rock ist in Finnland kein großes Ding. Wenn Du nach Belgien kommst hast Du
 
 **Matti:** Es gab ein paar andere Band, in die ich involviert war, aber mit Iiro teile ich die längste und intensivste musikalische Phase.
 
-**Janne:** Ja, ich habe in vielen unterschiedlichen Bands gespielt. Allerdings ist Baulta die erste Post-Rock Band, in der ich spiele. Die Post-Rock Szene in Finnland ist sehr klein. Es ist also ziemlich klasse, hier eine Basis für diese großartige Musik zu erschaffen.
+**Janne:** Ja, ich habe in vielen unterschiedlichen Bands gespielt. Allerdings ist Baulta die erste Post-Rock-Band, in der ich spiele. Die Post-Rock Szene in Finnland ist sehr klein. Es ist also ziemlich klasse, hier eine Basis für diese großartige Musik zu erschaffen.
 
 **Esa:** Ja und ich spiele im Moment noch in zwei anderen aktiven Projekten. Eines davon ist so ein finnisches Indie-Pop/Rock-Ding. Das andere ein ziemlich lustiges DJ+Drums Party-Projekt namens Rex Jam.
 

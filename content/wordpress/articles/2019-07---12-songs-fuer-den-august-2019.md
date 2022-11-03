@@ -123,7 +123,7 @@ Das anonyme Musik-Kollektiv Sleep Token beschäftigt mich schon länger. Mich fa
 
 ## Her Name Is Calla "The Dead Rift" vom Album "Animal Choir"
 
-Das frisch erschienene Album von Her Name is Calla haut mich komplett vom Sockel. Es ist genau das, was ich musikalisch im Moment gebraucht habe. Der Song "The Dead Rift" ist melodisch, bunt, nachdenklich und wild zugleich. Dadurch hebt es sich ein kleines bisschen vom Rest der Platte ab, die streckenweise elektronisch-eklektisch und fast schon rave-mäßig um die Ecke kommt und dennoch ihre ruhigen Momente hat. Für mich eine Scheibe, die man auf jeden Fall im Plattenregal stehen haben sollte. Die 2004 in Leeds gegründete Post-Rock Band hat definitiv noch viel mehr Aufmerksamkeit verdient.
+Das frisch erschienene Album von Her Name is Calla haut mich komplett vom Sockel. Es ist genau das, was ich musikalisch im Moment gebraucht habe. Der Song "The Dead Rift" ist melodisch, bunt, nachdenklich und wild zugleich. Dadurch hebt es sich ein kleines bisschen vom Rest der Platte ab, die streckenweise elektronisch-eklektisch und fast schon rave-mäßig um die Ecke kommt und dennoch ihre ruhigen Momente hat. Für mich eine Scheibe, die man auf jeden Fall im Plattenregal stehen haben sollte. Die 2004 in Leeds gegründete Post-Rock-Band hat definitiv noch viel mehr Aufmerksamkeit verdient.
 
 <YouTube id="90M585muQBM" />
 

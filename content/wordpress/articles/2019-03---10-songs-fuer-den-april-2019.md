@@ -110,7 +110,7 @@ Ein Fan hat unter dieses Video von Alter Bridge (früher Creed) Gitarrist Mark T
 
 ## Mouse On The Keys – "Circle" vom gleichnamigen Album
 
-"Circle" von Mouse On The Keys stammt von Matzes Lieblingsliste. Die Post-Rock Band aus Japan hat sich von modernem Jazz beeinflussen lassen. Seit ihrer Gründung im Jahr 2007 haben Akira Kawasaki, Atsushi Kiyot und Daisuke Niitome bereits drei Studio- und ein Live-Album sowie drei EPs veröffentlicht. "Circle" ist die erste Auskopplung vom neuen gleichnahmigen vierten Album.
+"Circle" von Mouse On The Keys stammt von Matzes Lieblingsliste. Die Post-Rock-Band aus Japan hat sich von modernem Jazz beeinflussen lassen. Seit ihrer Gründung im Jahr 2007 haben Akira Kawasaki, Atsushi Kiyot und Daisuke Niitome bereits drei Studio- und ein Live-Album sowie drei EPs veröffentlicht. "Circle" ist die erste Auskopplung vom neuen gleichnahmigen vierten Album.
 
 <YouTube id="qbMsSW_JI3c" />
 

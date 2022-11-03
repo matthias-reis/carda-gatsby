@@ -83,7 +83,7 @@ Besonders gefreut habe ich mich auf MOONCAKE. Für mich war die Band neben BARST
 
 Dicht auf den Fersen sind der russischen Band, die sich nach einem chinesischen Gebäck benannt hat, AND SO I WATCH YOU FROM AFAR, ARMS AND SLEEPERS, PG.LOST, LOST IN KIEV, WE LOST THE SEA, PRAY FOR SOUND, THE CASING MONSTER und THE MOTH GATHERER.
 
-Hinter BRIQUEVILLE, die ihre Konzerte verkleidet und maskiert spielen, steckt eine große belgische Post-Rock Band. Wir vermuten AMENRA, da sie die einzigen sind, die Verbindungen zum Black Metal haben, worauf die Bühnenshow in einigen Dingen hindeutet. Allerdings ist das wie gesagt nur eine Vermutung.
+Hinter BRIQUEVILLE, die ihre Konzerte verkleidet und maskiert spielen, steckt eine große belgische Post-Rock-Band. Wir vermuten AMENRA, da sie die einzigen sind, die Verbindungen zum Black Metal haben, worauf die Bühnenshow in einigen Dingen hindeutet. Allerdings ist das wie gesagt nur eine Vermutung.
 
 ## Schwer beeindruckt
 

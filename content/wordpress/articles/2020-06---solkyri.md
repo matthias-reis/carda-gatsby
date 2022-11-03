@@ -7,9 +7,9 @@ typeName: Interview
 title: Solkyri
 seoTitle: Solkyri - "Post-Rock bietet der Phantasie Spielraum"
 ogTitle: Solkyri - "Post-Rock bietet der Phantasie Spielraum"
-description: Vor Kurzem veröffentlichte die australische Post-Rock Band Solkyri Ihr
+description: Vor Kurzem veröffentlichte die australische Post-Rock-Band Solkyri Ihr
   sensationelles neues Album "Mount Pleasant". Ich habe sie im Interview kennengelernt.
-excerpt: Vor Kurzem veröffentlichte die australische Post-Rock Band Solkyri Ihr sensationelles
+excerpt: Vor Kurzem veröffentlichte die australische Post-Rock-Band Solkyri Ihr sensationelles
   neues Album "Mount Pleasant". Ich habe sie im Interview kennengelernt.
 fileName: 2020-06---solkyri.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_solkyri-1__m.jpg
@@ -42,7 +42,7 @@ subTitle: '"Post-Rock bietet der Phantasie Spielraum"'
 languageLink: "/2020/06/solkyri-interview-en"
 
 ---
-**Vor Kurzem veröffentlichte die australische Post-Rock Band Solkyri Ihr sensationelles neues Album "Mount Pleasant". Ich habe mich jetzt mit dem Mann an Bass, Percussion und Synthesizer Andrew Pearsall darüber unterhalten.**
+**Vor Kurzem veröffentlichte die australische Post-Rock-Band Solkyri Ihr sensationelles neues Album "Mount Pleasant". Ich habe mich jetzt mit dem Mann an Bass, Percussion und Synthesizer Andrew Pearsall darüber unterhalten.**
 
 **Anne:** Hi! Danke, dass Du Dir die Zeit für das Interview nimmst! Wie geht es Euch? Wir wären uns ja eigentlich auf dem DUNK! Festival begegnet, das leider wegen Corona nicht stattfinden konnte. Plant Ihr trotzdem, bald nach Europa zu kommen?
 

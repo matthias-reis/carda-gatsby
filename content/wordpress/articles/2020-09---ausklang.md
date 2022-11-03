@@ -1,6 +1,6 @@
 ---
 ogTitle: Ausklang im Interview - "Gute Musik braucht Zeit zum Reifen"
-excerpt: Vor Kurzem habe ich die Post-Rock Band Ausklang kennengelernt. Ihre Musik gefiel mir so gut, dass ich sie kurzerhand zu einem Interview eingeladen habe.
+excerpt: Vor Kurzem habe ich die Post-Rock-Band Ausklang kennengelernt. Ihre Musik gefiel mir so gut, dass ich sie kurzerhand zu einem Interview eingeladen habe.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_ausklang-fb.png__l.jpg
 isAffiliate: false
 path: /2020/09/ausklang-interview/
@@ -19,7 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08
 title: Ausklang
 subTitle: '"Gute Musik braucht Zeit zum Reifen"'
 seoTitle: Ausklang im Interview - "Gute Musik braucht Zeit zum Reifen"
-description: Vor Kurzem habe ich die Post-Rock Band Ausklang kennengelernt. Ihre Musik gefiel mir so gut, dass ich sie kurzerhand zu einem Interview eingeladen habe.
+description: Vor Kurzem habe ich die Post-Rock-Band Ausklang kennengelernt. Ihre Musik gefiel mir so gut, dass ich sie kurzerhand zu einem Interview eingeladen habe.
 language: de
 type: Artikel
 labels:
@@ -38,7 +38,7 @@ labels:
   - SlotArt
 ---
 
-**Die Post-Rock Band Ausklang habe ich vor Kurzem über From Overseas Gründer und Past Inside The Present Label Manager Kévin Séry kennengelernt. Die Musik der Berliner gefiel mir so gut, dass ich sie kurzerhand zu einem Interview eingeladen habe.**
+**Die Post-Rock-Band Ausklang habe ich vor Kurzem über From Overseas Gründer und Past Inside The Present Label Manager Kévin Séry kennengelernt. Die Musik der Berliner gefiel mir so gut, dass ich sie kurzerhand zu einem Interview eingeladen habe.**
 
 Ausklang - was nach dem perfekten Ende eines erfüllten Tages klingt, ist ein aufstrebendes Musikprojekt bestehend aus Fabian (Gitarre, Synthesizer), Benjamin (Drums, Tape Loops) und Simon (Bass/Synthesizer/Piano).
 

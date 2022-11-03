@@ -80,7 +80,7 @@ Das neue Pillars Album "Cavum" habe ich sehnsüchtig erwartet. Der Song "Dissolu
 
 ## Wang Wen "無穹 (《挑戰吧!太空》主曲)"
 
-Bei Wang Wen handelt es sich um die führende Post-Rock Band Chinas, die sich bereits 1999 in der Hafenstadt Dalian gründete. Die erste LP mit dem Titel "28 Days Of Insomnia" erschien dann 2003. Heute sind sie beim [Berliner Label Pelagic](/2020/09/the-ocean-robin-staps-interview/) unter Vertrag und erfreuen sich auch in Europa wachsender Beliebtheit. Mit Matze haben sie einen neuen Fan gewonnen. Er hat den aktuellen Song "無穹 (《挑戰吧!太空》主曲)" auf die Liste gesetzt. Die EP wurde gerade veröffentlicht, das letzte Album mit dem Titel "Invisible City" kam 2018 raus.
+Bei Wang Wen handelt es sich um die führende Post-Rock-Band Chinas, die sich bereits 1999 in der Hafenstadt Dalian gründete. Die erste LP mit dem Titel "28 Days Of Insomnia" erschien dann 2003. Heute sind sie beim [Berliner Label Pelagic](/2020/09/the-ocean-robin-staps-interview/) unter Vertrag und erfreuen sich auch in Europa wachsender Beliebtheit. Mit Matze haben sie einen neuen Fan gewonnen. Er hat den aktuellen Song "無穹 (《挑戰吧!太空》主曲)" auf die Liste gesetzt. Die EP wurde gerade veröffentlicht, das letzte Album mit dem Titel "Invisible City" kam 2018 raus.
 
 <YouTube id="SATPDa19mb4" />
 

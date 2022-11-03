@@ -7,8 +7,8 @@ typeName: Review
 title: Ranges planen neues Album
 seoTitle: Ranges planen neues Album - "Babel" kommt im September
 ogTitle: Ranges planen neues Album - "Babel" kommt im September
-description: Die Instrumental Post-Rock Band Ranges aus Montana hat pünktlich zum Record Store Day am Samstag ein neues Album mit dem Titel "Babel" angekündigt.
-excerpt: Die Instrumental Post-Rock Band Ranges aus Montana hat pünktlich zum Record Store Day am Samstag ein neues Album mit dem Titel "Babel" angekündigt. Der Nachfolger von "The Ancensionist" soll am 30. September erscheinen.
+description: Die Instrumental Post-Rock-Band Ranges aus Montana hat pünktlich zum Record Store Day am Samstag ein neues Album mit dem Titel "Babel" angekündigt.
+excerpt: Die Instrumental Post-Rock-Band Ranges aus Montana hat pünktlich zum Record Store Day am Samstag ein neues Album mit dem Titel "Babel" angekündigt. Der Nachfolger von "The Ancensionist" soll am 30. September erscheinen.
 fileName: 2019-04---ranges-planen-neues-album.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2017-09-irland-408jpg_26349583628_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2017-09-irland-408jpg_26349583628_o__l.jpg
@@ -31,7 +31,7 @@ errors: {}
 subTitle: '"Babel" kommt im September'
 ---
 
-**Die Instrumental Post-Rock Band Ranges aus Montana hat pünktlich zum Record Store Day am Samstag ein neues Album mit dem Titel "Babel" angekündigt. Der Nachfolger von "The Ancensionist" soll am 30. September erscheinen.**
+**Die Instrumental Post-Rock-Band Ranges aus Montana hat pünktlich zum Record Store Day am Samstag ein neues Album mit dem Titel "Babel" angekündigt. Der Nachfolger von "The Ancensionist" soll am 30. September erscheinen.**
 
 Die Band, die auch beim [Dunk Festival 2018](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/) dabei war,  hat sich für die Aufnahmen im Brainville Studio in El Paso, Texas eingemietet. Gemeinsam mit Sound-Ingenieur und Co-Producer Chris Common wird dort an Songs geschraubt.
 

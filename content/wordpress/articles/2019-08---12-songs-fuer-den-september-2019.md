@@ -102,7 +102,7 @@ Die zweite Vorauskopplung vom neuen 65daysofstatic Album macht es spannend und d
 
 ## Tides From Nebula - "The New Delta" - Vorauskopplung vom bald folgenden Album "From Voodoo To Zen"
 
-Tides From Nebula sind eine Post-Rock Band, die man nie wieder vergisst, hat ihre Musik einmal Besitz von den Gehörgängen ergriffen. Bis jetzt sind insgesamt vier Alben der Polen erschienen. Seit "Safehaven" 2016 warten wir sehnsüchtig auf etwas Neues - jetzt ist es endlich so weit! Ich hatte es zuerst ganz übersehen und einen Luftsprung hingelegt, als ich gesehen habe, was Matze da auf seine Liste gesetzt hat. Er findet die folgenden Worte
+Tides From Nebula sind eine Post-Rock-Band, die man nie wieder vergisst, hat ihre Musik einmal Besitz von den Gehörgängen ergriffen. Bis jetzt sind insgesamt vier Alben der Polen erschienen. Seit "Safehaven" 2016 warten wir sehnsüchtig auf etwas Neues - jetzt ist es endlich so weit! Ich hatte es zuerst ganz übersehen und einen Luftsprung hingelegt, als ich gesehen habe, was Matze da auf seine Liste gesetzt hat. Er findet die folgenden Worte
 
 "Eine verdammt gute Vorauskopplung! Ein Post-Rock Stück nach klassischem Muster. Ganz anders, als bei 65daysofstatic, Russian Circles oder BATTLES. Ich höre es gerne!"
 

@@ -6,7 +6,7 @@ title: Shy, Low im Interview
 subTitle: '"Die Gefahr hinter dem Licht"'
 seoTitle: Shy, Low – Interview mit der Pelagic Band – Post-Rock
 description: Vor Kurzem haben Shy, Low Ihr neues Album "Snake Behind The Sun"
-  auf Pelagic veröffentlicht. Jetzt habe ich mich mit der Post-Rock Band aus
+  auf Pelagic veröffentlicht. Jetzt habe ich mich mit der Post-Rock-Band aus
   Richmond, Virginia zum Interview verabredet.
 excerpt: Dass Shy, Low ihr neues Album "Snake Behind The Sun" veröffentlicht
   haben, wisst Ihr schon. Mein Feature dazu vor ein paar Tagen kam ganz schön
@@ -41,7 +41,7 @@ languageLink: /2021/10/shy-low-interview-en/
 
 **Dass Shy, Low ihr neues Album "Snake Behind The Sun" veröffentlicht haben, wisst Ihr schon. Mein Feature dazu vor ein paar Tagen kam ganz schön gut an. Jetzt hatte ich die Gelegenheit, mich mit der Band, die in einem Atemzug mit Giganten wie Cult Of Luna und Russian Circles genannt wird, zu unterhalten.**
 
-Wir haben über die Aufnahmen ihrer Platte in den Vudu Studios, die Zusammenarbeit mit Pelagic Records und Mike Watts und die Geschichte der in Richmond, Virginia gegründeten Post-Rock Band geredet. Und über Gemüse.
+Wir haben über die Aufnahmen ihrer Platte in den Vudu Studios, die Zusammenarbeit mit Pelagic Records und Mike Watts und die Geschichte der in Richmond, Virginia gegründeten Post-Rock-Band geredet. Und über Gemüse.
 
 **Anne:** Hi! Danke, dass Ihr Euch die Zeit nehmt! Wie geht es Euch heute? Ihr habt gerade Euer Album "Snake Behind The Sun" veröffentlicht. Wie ist das Feedback bis jetzt?
 

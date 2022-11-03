@@ -5,8 +5,8 @@ path: '/2020/06/oh-hiroshima-interview/'
 type: Artikel
 typeName: Interview
 title: Oh Hiroshima
-seoTitle: Oh Hiroshima - Interview mit der schwedischen Post-Rock Band
-ogTitle: Oh Hiroshima - Interview mit der schwedischen Post-Rock Band
+seoTitle: Oh Hiroshima - Interview mit der schwedischen Post-Rock-Band
+ogTitle: Oh Hiroshima - Interview mit der schwedischen Post-Rock-Band
 description: Wer schwedischen Post-Rock liebt, kommt an Oh Hiroshima nicht vorbei. Ich hatte jetzt das Glück, die Band bei einem Interview besser kennenzulernen.
 excerpt: Wer schwedischen Post-Rock liebt, kommt an Oh Hiroshima nicht vorbei. Ich hatte jetzt das Glück, die Band bei einem Interview besser kennenzulernen.
 fileName: 2020-06---oh-hiroshima.md
@@ -158,7 +158,7 @@ Wir hatten schon ein paar Songs mit Leif geschrieben, als er aufhörte, aber fü
 
 ## Über Oh Hiroshima
 
-Die schwedische Post-Rock Band Oh Hiroshima ist bereits seit 2009 aktiv. Gegründet wurde sie von Jakob Hemström und Leif Eliasson in Kristinehamn. Später schlossen sich Simon Axelsson sowie Jakobs Bruder Oskar Nilsson an. Leif verließ im Jahr 2018 die Band wieder. Im selben Jahr unterschrieb die Gruppe ihren Vertrag bei Napalm Records.
+Die schwedische Post-Rock-Band Oh Hiroshima ist bereits seit 2009 aktiv. Gegründet wurde sie von Jakob Hemström und Leif Eliasson in Kristinehamn. Später schlossen sich Simon Axelsson sowie Jakobs Bruder Oskar Nilsson an. Leif verließ im Jahr 2018 die Band wieder. Im selben Jahr unterschrieb die Gruppe ihren Vertrag bei Napalm Records.
 
 Oh Hiroshima verknüpfen in ihrer Musik gekonnt elektronische Klänge mit abstraktem Gitarrenspiel. Jakobs Gesang rundet das Ganze ab.
 

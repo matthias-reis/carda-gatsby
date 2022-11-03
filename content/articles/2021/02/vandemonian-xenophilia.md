@@ -3,8 +3,8 @@ date: 2021-02-18T15:23:00.000Z
 slug: vandemonian-xenophilia-en
 typeName: Review
 title: Vandemonian – "Xenophilia"
-subTitle: The Debut Of The Hamburg Post-Rock Band
-seoTitle: Vandemonian – "Xenophilia" – The Debut Of The Hamburg Post-Rock Band
+subTitle: The Debut Of The Hamburg Post-Rock-Band
+seoTitle: Vandemonian – "Xenophilia" – The Debut Of The Hamburg Post-Rock-Band
 ogTitle: ""
 description: This Saturday, Vandemonian from Hamburg will release their
   long-awaited debut album "Xenophilia". Progressive, political post-rock with

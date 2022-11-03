@@ -8,11 +8,11 @@ title: Grégoire von Thot im Interview
 seoTitle: Grégoire von Thot im Interview – 10 Jahre "Obscured By The Wind"
 ogTitle: Grégoire von Thot im Interview – 10 Jahre "Obscured By The Wind"
 description: Thot haben zum 10jährigen Jubiläum ihres Debüt-Albums "Obscured By
-  The Wind" einiges geplant. Zeit für ein Interview mit der Post-Rock Band.
+  The Wind" einiges geplant. Zeit für ein Interview mit der Post-Rock-Band.
 excerpt: English & German – Thot sollten den meisten, die sich mit Post-Rock
   beschäftigen, ein Begriff sein. Zum 10jährigen Jubiläum ihres Debüt-Albums
   "Obscured By The Wind" hat die Band aus Belgien so einige Highlights für uns
-  geplant. Zeit für ein Interview mit der Post-Rock Band.
+  geplant. Zeit für ein Interview mit der Post-Rock-Band.
 fileName: 2021-04---gregoire-von-thot-im-interview.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_thot-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_thot-1__l.jpg

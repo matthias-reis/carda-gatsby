@@ -45,9 +45,9 @@ subTitle: '"Diese Songs sind wie Therapie"'
 languageLink: '/2020/06/pray-for-sound-interview-en'
 ---
 
-**Heute habe ich ein ganz besonders Interview für Euch vorbereitet. Niemand Geringeres, als die wunderbare Post-Rock Band Pray For Sound hat sich meinen Fragen gestellt.**
+**Heute habe ich ein ganz besonders Interview für Euch vorbereitet. Niemand Geringeres, als die wunderbare Post-Rock-Band Pray For Sound hat sich meinen Fragen gestellt.**
 
-Pray For Sound habe ich auf dem [DUNK! Festival 2017](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) das erste Mal live auf der Bühne gesehen. Spätestens seit dieser denkwürdigen Stunde schlägt mein Herz für die Post-Rock Band aus Boston. Vor Kurzem haben sie ihr neues Album "Waves" veröffentlicht. Jetzt hatte ich die Gelegenheit, mich mit Gitarristen Bruce Malley, Drums und Synthesizer Beauftragten Steve Aliperta und dem Gitarristen Nick Stewart zu unterhalten.
+Pray For Sound habe ich auf dem [DUNK! Festival 2017](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) das erste Mal live auf der Bühne gesehen. Spätestens seit dieser denkwürdigen Stunde schlägt mein Herz für die Post-Rock-Band aus Boston. Vor Kurzem haben sie ihr neues Album "Waves" veröffentlicht. Jetzt hatte ich die Gelegenheit, mich mit Gitarristen Bruce Malley, Drums und Synthesizer Beauftragten Steve Aliperta und dem Gitarristen Nick Stewart zu unterhalten.
 
 **Anne:** Hi! Danke, dass Ihr Euch die Zeit für das Interview nehmt! ich bin so gespannt darauf, eine meiner liebsten Post-Rock-Bands kennenzulernen. Wie geht es Euch heute?
 

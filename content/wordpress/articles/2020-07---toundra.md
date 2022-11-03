@@ -1,6 +1,6 @@
 ---
 ogTitle: Toundra im Interview - "Musik ist Freiheit"
-excerpt: Die spanische Post-Rock Band Toundra hat den Stummfilm "Das Cabinet des Dr. Caligari" vertont. Ich habe sie jetzt im Interview unter anderem dazu befragt.
+excerpt: Die spanische Post-Rock-Band Toundra hat den Stummfilm "Das Cabinet des Dr. Caligari" vertont. Ich habe sie jetzt im Interview unter anderem dazu befragt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_toundra-fb.png__l.jpg
 isAffiliate: false
 path: /2020/07/toundra-interview/
@@ -19,7 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07
 title: Toundra
 subTitle: '"Musik ist Freiheit"'
 seoTitle: Toundra im Interview - "Musik ist Freiheit"
-description: Die spanische Post-Rock Band Toundra hat den Stummfilm "Das Cabinet des Dr. Caligari" vertont. Ich habe sie jetzt im Interview unter anderem dazu befragt.
+description: Die spanische Post-Rock-Band Toundra hat den Stummfilm "Das Cabinet des Dr. Caligari" vertont. Ich habe sie jetzt im Interview unter anderem dazu befragt.
 language: de
 type: Artikel
 labels:
@@ -39,7 +39,7 @@ labels:
   - Toundra
 ---
 
-**Die spanische Post-Rock Band Toundra hat den deutschen Stummfilm-Klassiker "Das Cabinet des Dr. Caligari" vertont. Mich hat das sehr neugierig gemacht, darum habe ich mich mit Gitarrist Esteban Girón zum Interview verabredet.**
+**Die spanische Post-Rock-Band Toundra hat den deutschen Stummfilm-Klassiker "Das Cabinet des Dr. Caligari" vertont. Mich hat das sehr neugierig gemacht, darum habe ich mich mit Gitarrist Esteban Girón zum Interview verabredet.**
 
 Durch die Wirren um Corona hat sich alles ein bisschen verschoben. Eigentlich sollte das Interview direkt im Anschluss an die [April-Playlist](/2020/03/12-songs-fuer-den-april/) stattfinden, in der auch Toundra Erwähnung fanden. Macht aber nichts. Aufgeschoben ist nicht aufgehoben. Heute ist es so weit und ich kann Euch das Gespräch mit Esteban stolz präsentieren.
 

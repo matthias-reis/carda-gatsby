@@ -131,7 +131,7 @@ Auch ein Song von Nick Caves neuer Platte durfte für Valentin auf keinen Fall f
 
 ## Tides From Nebula - "The New Delta" vom Album "From Voodoo to Zen"
 
-Die unvergessliche Post-Rock Band Tides From Nebula hat 2019 endlich wieder abgeliefert. Im September hat es "The New Delta" damals noch als Vorauskopplung von "From Voodoo to Zen" auf die Liste geschafft. Das Stück begleitet mich nach wie vor - ich höre es fast täglich. Manchmal eingebettet in seine vorhergesehene Umgebung, manchmal inmitten einer Playlist - insgesamt hat es das Stück bei mir bis jetzt auf fünf davon geschafft.  Was wirklich etwas bedeutet.
+Die unvergessliche Post-Rock-Band Tides From Nebula hat 2019 endlich wieder abgeliefert. Im September hat es "The New Delta" damals noch als Vorauskopplung von "From Voodoo to Zen" auf die Liste geschafft. Das Stück begleitet mich nach wie vor - ich höre es fast täglich. Manchmal eingebettet in seine vorhergesehene Umgebung, manchmal inmitten einer Playlist - insgesamt hat es das Stück bei mir bis jetzt auf fünf davon geschafft.  Was wirklich etwas bedeutet.
 
 <YouTube id="WChncS50fqM" />
 

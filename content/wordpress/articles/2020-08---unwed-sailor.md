@@ -37,7 +37,7 @@ labels:
 ---
 **Es wird mal wieder Zeit für ein Interview. Vor Kurzem habe ich mich mit Unwed Sailor Gründer Jonathon Ford verabredet. Unser spannendes Gespräch möchte ich heute gerne mit Euch teilen.**
 
-Sam von [Of The Vine](/2020/05/of-the-vine/) erzählte mir vor Kurzem von seiner Liebe für Unwed Sailor. Auch in der [Musikliste](/2020/07/of-the-vine-playlist/), die er exklusiv für mich zusammengestellt hat, kommt ein Unwed Sailor Stück vor. Seit er die Band bei ihrer "The Marionette And the Music Box" live erlebt hat, hatte ihre großen Einfluss auf den Künstler. Noch heute verehrt er die Post-Rock Band um Gründer Jonathon Ford und hat damit etwas mit mir gemeinsam. Im Interview hat Jonathon mir nun so einiges über das Geheimnis seiner Musik und sein aktuelles Album "Look Alive" verraten.
+Sam von [Of The Vine](/2020/05/of-the-vine/) erzählte mir vor Kurzem von seiner Liebe für Unwed Sailor. Auch in der [Musikliste](/2020/07/of-the-vine-playlist/), die er exklusiv für mich zusammengestellt hat, kommt ein Unwed Sailor Stück vor. Seit er die Band bei ihrer "The Marionette And the Music Box" live erlebt hat, hatte ihre großen Einfluss auf den Künstler. Noch heute verehrt er die Post-Rock-Band um Gründer Jonathon Ford und hat damit etwas mit mir gemeinsam. Im Interview hat Jonathon mir nun so einiges über das Geheimnis seiner Musik und sein aktuelles Album "Look Alive" verraten.
 
 **Anne:** Danke für das Interview! Wie geht es Dir zurzeit?
 

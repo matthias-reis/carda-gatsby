@@ -30,7 +30,7 @@ errors: {}
 subTitle: Die sleemakeswaves Trilogie ist vollständig
 ---
 
-**In den letzten Wochen habe ich sehnsüchtig auf die Veröffentlichung der kompletten sleepmakeswaves Trilogie "These Are Not Your Dreams" gewartet. Die Post-Rock Band hatte die Songs auf der EP-Reihe nach und nach enthüllt.**
+**In den letzten Wochen habe ich sehnsüchtig auf die Veröffentlichung der kompletten sleepmakeswaves Trilogie "These Are Not Your Dreams" gewartet. Die Post-Rock-Band hatte die Songs auf der EP-Reihe nach und nach enthüllt.**
 
 Gestern war es dann endlich so weit: sleepmakeswaves lüfteten den Schleier endgültig und präsentierten ihren Fans "These Are Not Your Dreams" in seiner Gesamtheit, indem sie den letzten Teil "Not An Exit" veröffentlichten.
 

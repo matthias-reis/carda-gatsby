@@ -7,9 +7,9 @@ typeName: Interview
 title: Of the Vine
 seoTitle: Of the Vine über ihr neues Album "Left Alone" - Interview
 ogTitle: Of the Vine über ihr neues Album "Left Alone" - Interview
-description: Of the Vine sind eine von mir hoch geschätzte Post-Rock Band. Ich hatte
+description: Of the Vine sind eine von mir hoch geschätzte Post-Rock-Band. Ich hatte
   die Gelegenheit, mit Gitarrist Samuel über das neue Album "Left Alone" zur reden.
-excerpt: Of the Vine sind eine von mir hoch geschätzte Post-Rock Band. Ich hatte die
+excerpt: Of the Vine sind eine von mir hoch geschätzte Post-Rock-Band. Ich hatte die
   Gelegenheit, mit Gitarrist Samuel über das neue Album "Left Alone" zur reden.
 fileName: 2020-05---of-the-vine.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine__m.jpg
@@ -38,7 +38,7 @@ subTitle: '"Auf der Bühne leben wir unsere Kindheitsträume"'
 languageLink: "/2020/05/of-the-vine-interview-en"
 
 ---
-**Of the Vine sind eine von mir hoch geschätzte Post-Rock Band. Ich hatte jetzt die Gelegenheit, Gitarrist Samuel Laubscher zu interviewen.**
+**Of the Vine sind eine von mir hoch geschätzte Post-Rock-Band. Ich hatte jetzt die Gelegenheit, Gitarrist Samuel Laubscher zu interviewen.**
 
 Normalerweise wären Of the Vine beim DUNK! Festival 2020 aufgetreten, das ja leider Corona-bedingt abgesagt wurde. Den Song "Even If I Never See You In This Life..." kennt Ihr schon aus meiner [DUNK! 2020 Musikliste](/2020/05/dunk-festival-2020/). Er ist 2015 auf dem Album "East The Water" erschienen.
 

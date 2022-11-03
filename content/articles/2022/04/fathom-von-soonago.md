@@ -8,7 +8,7 @@ seoTitle: '"Fathom" von SOONAGO – Post-Rock gegen rechts'
 description: Vor Kurzem haben SOONAGO ihr neues Album "Fathom" vorgestellt. Es
   ist auf Kapitän Platte erschienen und ist neben der digitalen Version, die es
   bei allen Musik-Streaming-Plattformen gibt, auch auf CD und Vinyl erhältlich.
-excerpt: Heute stelle ich Euch mal eine Post-Rock Band aus meiner alten Heimat
+excerpt: Heute stelle ich Euch mal eine Post-Rock-Band aus meiner alten Heimat
   Bielefeld vor. SOONAGO gibt es seit 2014. Vor Kurzem haben sie ihr neues Album
   "Fathom" vorgestellt. Es ist auf Kapitän Platte erschienen und ist neben der
   digitalen Version, die es bei allen Musik-Streaming-Plattformen gibt, auch auf
@@ -32,7 +32,7 @@ affiliate: false
 language: de
 languageLink: /2022/04/soonago-fathom-en
 ---
-**Heute stelle ich Euch mal eine Post-Rock Band aus meiner alten Heimat Bielefeld vor. SOONAGO gibt es seit 2014. Vor Kurzem haben sie ihr neues Album "Fathom" vorgestellt. Es ist auf Kapitän Platte erschienen und ist neben der digitalen Version, die es bei allen Musik-Streaming-Plattformen gibt, auch auf CD und Vinyl erhältlich.**
+**Heute stelle ich Euch mal eine Post-Rock-Band aus meiner alten Heimat Bielefeld vor. SOONAGO gibt es seit 2014. Vor Kurzem haben sie ihr neues Album "Fathom" vorgestellt. Es ist auf Kapitän Platte erschienen und ist neben der digitalen Version, die es bei allen Musik-Streaming-Plattformen gibt, auch auf CD und Vinyl erhältlich.**
 
 Was mir beim ersten Hördurchgang von "Fathom" gleich als Erstes aufgefallen ist, ist die Präzision, mit der SOONAGO spielen und die während der gesamten Spielzeit von 42:33 erhalten bleibt. Innerhalb der deutschen Post-Music Szene ist die vierköpfige Gruppe längst kein unbeschriebenes Blatt mehr. Mit ihrem instrumentalen Sound kommen SOONAGO ziemlich gut an. Getourt sind sie unter anderem mit Bands wie The Hirsch Effekt, Brutus, [Shy, Low](/2021/10/shy-low-interview/), Spoiwo und Nihiling.
 

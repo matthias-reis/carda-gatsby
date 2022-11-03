@@ -43,7 +43,7 @@ subTitle: Eine ganz besondere Kassetten-Serie
 
 Das Gesamtwerk mit seinem Zusammenspiel aus Musik, Text, Grafik, Kunst, Rätsel und Storytelling ist ziemlich faszinierend. Für diejenigen, die sich noch nicht mit der fantastischen Welt von Ranges beschäftigt haben, ist es vermutlich nicht der einfachste Zugang. Doch allein die faszinierende und ganzheitliche Art, Kunst zu erschaffen und zu präsentieren, sollte bei den meisten zumindest irgendetwas auslösen.
 
-Ich persönlich bin mehr als nur fasziniert von dieser Reise und möchte sie an dieser Stelle gerne teilen. Der Post-Rock Band aus Montana ist ein spannendes Roadmovie durch eine fantastische Welt der Mythen gelungen, die Ihresgleichen sucht.
+Ich persönlich bin mehr als nur fasziniert von dieser Reise und möchte sie an dieser Stelle gerne teilen. Der Post-Rock-Band aus Montana ist ein spannendes Roadmovie durch eine fantastische Welt der Mythen gelungen, die Ihresgleichen sucht.
 
 ## Die Reise eines Helden
 

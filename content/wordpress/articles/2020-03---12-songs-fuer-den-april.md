@@ -68,7 +68,7 @@ Wunderbarer Post-Rock aus Südschweden lässt mich von meinen Erkundungstouren i
 
 ## 3. Toundra - "II. Akt" vom Album "Das Cabinet des Dr. Caligari"
 
-Die Post-Rock Band aus Spanien hat Matze gelistet: "Toundra haben einen deutschen Stummfilm-Klassiker neu vertont. Bisher hatte ich noch nicht die Gelegenheit, den Soundtrack zusammen mit dem Film zu genießen. Man kann sich die ungewöhnliche Combo aus alten Bildern und moderner atmosphärischer Musik sehr gut vorstellen. Einige der Tracks - insbesondere der von mir gewählte - funktionieren dafür auch ganz gut als eigenständige Songs. Ein sehr spannendes Projekt, wie ich finde. Wie bei so gut wie jedem Post-Rock Stück der Hinweis: Bitte ganz anhören - in diesem Fall sogar am besten die ganze Platte."
+Die Post-Rock-Band aus Spanien hat Matze gelistet: "Toundra haben einen deutschen Stummfilm-Klassiker neu vertont. Bisher hatte ich noch nicht die Gelegenheit, den Soundtrack zusammen mit dem Film zu genießen. Man kann sich die ungewöhnliche Combo aus alten Bildern und moderner atmosphärischer Musik sehr gut vorstellen. Einige der Tracks - insbesondere der von mir gewählte - funktionieren dafür auch ganz gut als eigenständige Songs. Ein sehr spannendes Projekt, wie ich finde. Wie bei so gut wie jedem Post-Rock Stück der Hinweis: Bitte ganz anhören - in diesem Fall sogar am besten die ganze Platte."
 
 <YouTube id="OfxXVVt9TY8" />
 

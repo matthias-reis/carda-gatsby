@@ -1,5 +1,5 @@
 ---
-ogTitle: Vandemonian "Xenophilia" – Das Debüt der Hamburger Post-Rock Band
+ogTitle: Vandemonian "Xenophilia" – Das Debüt der Hamburger Post-Rock-Band
 excerpt: Die Hamburger Band Vandemonian veröffentlicht ihr lang erwartetes Debüt-Album "Xenophilia". Progressiver, politischer Post-Rock mit cinematischen Anleihen.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_vandemonian-1.png__l.jpg
 isAffiliate: false
@@ -17,8 +17,8 @@ status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_vandemonian-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_vandemonian-1__m.jpg
 title: Vandemonian – "Xenophilia"
-subTitle: Das Debüt der Hamburger Post-Rock Band
-seoTitle: Vandemonian "Xenophilia" – Das Debüt der Hamburger Post-Rock Band
+subTitle: Das Debüt der Hamburger Post-Rock-Band
+seoTitle: Vandemonian "Xenophilia" – Das Debüt der Hamburger Post-Rock-Band
 description: Die Hamburger Band Vandemonian veröffentlicht ihr lang erwartetes Debüt-Album "Xenophilia" – Progressiver, politischer Post-Rock.
 language: de
 type: Artikel
