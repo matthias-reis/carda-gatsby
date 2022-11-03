@@ -104,7 +104,7 @@ Dieser Song hat mich schwer beeindruckt. Entdeckt habe ich ihn zusammen mit Matz
 
 ### "Porcupine Dilemma" von The Chasing Monster (Album "Tales", 2017)
 
-Die 2013 in Viterbo, Lazio, Italien gegründete Band The Chasing Monster wickelt mich mit ihrem musikalischen Charme um den Finger, seit es sie gibt. Dieser Song stammt von Matzes Lieblingssong-Liste 2017. Die Band kommt als eine meiner liebsten Post-Rock Bands auch schon in meiner ersten Liste vor. Und das darf sie auch.
+Die 2013 in Viterbo, Lazio, Italien gegründete Band The Chasing Monster wickelt mich mit ihrem musikalischen Charme um den Finger, seit es sie gibt. Dieser Song stammt von Matzes Lieblingssong-Liste 2017. Die Band kommt als eine meiner liebsten Post-Rock-Bands auch schon in meiner ersten Liste vor. Und das darf sie auch.
 
 <YouTube id="mo9OV3PpN5Y" />
 

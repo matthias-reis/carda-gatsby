@@ -72,7 +72,7 @@ Wir haben uns so sehr darauf gefreut, dieses Jahr wiederzukommen und die DUNK! C
 
 **Andrew:** Die Szene in Sydney ist stark und sie beschränkt sich nicht nur auf Post-Rock. Es gibt eine wahre Fülle exzellenter experimenteller Gruppen, die den Weg für kleinere und weniger bekannte Bands ebnen. Große Anerkennung gebührt den beiden lokalen Labels Bird's Robe Records und Art As Catharsis. Sie tragen wirklich dazu bei, Künstler⋆innen eine Bühne zu bieten auf der sie ihre Musik präsentieren können.
 
-**Anne:** Wie würdest Du Eure Zusammenarbeit mit DUNK! Records beschreiben? Ich beobachte, wie sie all diese unglaublich guten australischen Post-Rock Bands nach Europa bringen. Das ist wirklich großartig, finde ich.
+**Anne:** Wie würdest Du Eure Zusammenarbeit mit DUNK! Records beschreiben? Ich beobachte, wie sie all diese unglaublich guten australischen Post-Rock-Bands nach Europa bringen. Das ist wirklich großartig, finde ich.
 
 **Andrew:** Wir sind sehr glücklich über diese Zusammenarbeit. DUNK! Records haben uns nicht nur die Möglichkeit gegeben, in Europa auf Tour zu gehen. Sie haben es auch möglich gemacht, dass wir unser neues Album auf Vinyl pressen konnten - für uns ist das eine Premiere! Es ist wundervoll, dass wir mit dieser Partnerschaft weiter wachsen und neue Höhen erreichen können.
 

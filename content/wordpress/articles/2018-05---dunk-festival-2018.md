@@ -3,10 +3,10 @@ date: 2018-05-16T15:40:07.000+00:00
 slug: dunkfestival-2018-postrock-liebe-fuer-immer
 path: '/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/'
 title: Dunk!festival 2018
-seoTitle: Dunk!festival 2018 - 36 Post-Rock Bands in 3 Tagen
-ogTitle: Dunk!festival 2018 - Liebe für immer - 36 Post-Rock Bands in 3 Tagen
-description: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
-excerpt: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
+seoTitle: Dunk!festival 2018 - 36 Post-Rock-Bands in 3 Tagen
+ogTitle: Dunk!festival 2018 - Liebe für immer - 36 Post-Rock-Bands in 3 Tagen
+description: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock-Bands auf.
+excerpt: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock-Bands auf.
 fileName: 2018-05---dunk-festival-2018.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__l.jpg
@@ -60,12 +60,12 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: 36 Post-Rock Bands in drei Tagen
+subTitle: 36 Post-Rock-Bands in drei Tagen
 year: '2018'
 month: '05'
 ---
 
-**Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, den 10. Mai bis Samstag, den 12. Mai 36 Post-Rock Bands auf. 26 davon haben wir live gesehen. Zwar konnte ich die Musik nicht mit nach Hause nehmen, es sind mir jedoch mit meiner kleinen Konzertklickse ein paar Schnappschüsse gelungen, die ich Euch gerne zeigen möchte.**
+**Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, den 10. Mai bis Samstag, den 12. Mai 36 Post-Rock-Bands auf. 26 davon haben wir live gesehen. Zwar konnte ich die Musik nicht mit nach Hause nehmen, es sind mir jedoch mit meiner kleinen Konzertklickse ein paar Schnappschüsse gelungen, die ich Euch gerne zeigen möchte.**
 
 Im Titel seht Ihr schon mal mein Lieblingsbild. Es ist am Donnerstag beim Auftritt von Ef entstanden. Das Festival war, genau wie schon [im letzten Jahr](/2017/06/dunk-festival-2017-eindruecke-und-bilder/), ein echter Traum. Gute Musik rund um die Uhr, lauter nette Menschen, keine Partytouristen und ein Gefühl von Familie und guter Laune.
 

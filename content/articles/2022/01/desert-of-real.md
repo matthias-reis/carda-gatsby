@@ -88,7 +88,7 @@ Wenn man es schafft, sie zu überwinden, stärkt das die Gruppe. Wir sind alle e
 
 ![Wanheda – "Desert of Real" Album-Cover (Eine Person steht mit offenem Mund vor einem Vordergrund aus Nullen und Einsen)](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-desert-of-real-png-imagine-e8e8e8_cdc9c8_1080_1080/640.webp "Wanheda – \\"Desert of Real\\"")
 
-**Anne:** Euer Musikstil ist sehr vielseitig. Ich kann mir vorstellen, dass Ihr damit Fans von Bands wie Mono oder Caspian und anderen emotionalen und melodischen Post-Rock Bands sehr leicht anstecken könnt. Würdest Du sie als Eure Vorbilder bezeichnen? Gibt es noch weitere?
+**Anne:** Euer Musikstil ist sehr vielseitig. Ich kann mir vorstellen, dass Ihr damit Fans von Bands wie Mono oder Caspian und anderen emotionalen und melodischen Post-Rock-Bands sehr leicht anstecken könnt. Würdest Du sie als Eure Vorbilder bezeichnen? Gibt es noch weitere?
 
 **Jan:** Es hat alles mit unserem Lead-Gitarristen Jan Verduyckt aka JV angefangen, der ein großer Fan von Bands wie Mono, Sigur Rós und Yndi Halda ist. Andere Bands, die ihn dazu inspiriert haben, Songs für Wanheda zu schreiben sind Pink Floyd, Radiohead und April Rain, aber auch klassische Komponist⋆innen. Wir sind außerdem alle große Fans von Russian Circles und If These Trees Could Talk.
 

@@ -324,7 +324,7 @@ Sänger und Gitarrist King Buzzo gründete die Melvins 1983. Seitdem spuckt die 
 
 #### Stereolab - "Mars Audiac Quintet"
 
-Stereolab ist vermutlich eine der ersten Post-Rock Bands, die ich bewusst gehört habe. Das dritte Album "Mars Audiac Quintet" passte für mich in den 90ern nur einfach noch nicht in irgendeine Schublade. Ich mag es noch heute sehr gerne.
+Stereolab ist vermutlich eine der ersten Post-Rock-Bands, die ich bewusst gehört habe. Das dritte Album "Mars Audiac Quintet" passte für mich in den 90ern nur einfach noch nicht in irgendeine Schublade. Ich mag es noch heute sehr gerne.
 
 <YouTube id="tsumMcjEPtQ" />
 

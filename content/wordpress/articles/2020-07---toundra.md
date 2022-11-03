@@ -89,7 +89,7 @@ Im Mai 2008 veröffentlichte die Band ihre Debut-EP "I". Inzwischen haben Toundr
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAHBQj/xAApEAACAQMCBQQCAwAAAAAAAAABAgMEBREAEgYhMUFRBxQyYRMiI3Gh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQMRAiIxBBL/2gAMAwEAAhEDEQA/AMb9GLtZbZca1L5VpSmYxGCSVGMQYbs7ioO35dceemtHWtqpUpvz1sM8EJ2+9jWN1KAsUUsvyC5IXJOM/Q157oIJaiUx08byykFgqLk4AJJx9AE6ScAvQR3tpbtXezoIoXlcgk72xhQFHybJzj61LNdZWNW0hpW3m93LiW1UVupCu0CNIKgIyu+cuz4HIAdD8uXk41zfXNIoK+2U8bAuglL45hc7cD+8D/dI+BLvRXivuckBgR6BFlhapUpIykkSTYU8toxkA5O4ds6J+rdStZSWOaOkkp4v5kQsRhwBH478+fXqB20Y/q9ivoUadRO0DeG7lNabpHVwSmNk5E7QwI8Edx0+/GlHErcP3egqbhSSRUF2h2mWnQ5jqi2AWT755PTHPOeurVpZLayeL0oL2q4VFquMFdROEqIW3KSMg9iCO4IyCO4OkPqNf4uIYLPVQ/oFR1aADCwH9coo8Dz366tWkugfD//Z"
 />
 
-**Esteban:** Diese Zeiten waren wirklich gut. Wirklich lustig. Wir waren nur Kinder, die Shows organisiert haben und zu welchen hingegangen sind. Die Musik war wirklich schlecht. Die Metalcore und Emo Zeiten waren wirklich lustig. Es gab ein paar gute Bands wie Gone With The Pain (Wo Alex Schlagzeug gespielt hat). Ziemlich viel Musik war furchteinflößend. Aber diese Zeiten waren besser, als heute, wo alles digital miteinander verbunden ist. Die Szene ist jetzt ein Facebook Event. Ich will kein Teil davon sein. Wir haben uns damals alle gekannt und nach Jahren der Freundschaft haben wir die Band gegründet. Es gab ein paar Post-Rock Bands in dieser Szene. Bei Musik geht es um Freiheit. Es gibt nicht mehr Regeln, als die Regeln, die Du in einem Pentagramm sehen kannst.
+**Esteban:** Diese Zeiten waren wirklich gut. Wirklich lustig. Wir waren nur Kinder, die Shows organisiert haben und zu welchen hingegangen sind. Die Musik war wirklich schlecht. Die Metalcore und Emo Zeiten waren wirklich lustig. Es gab ein paar gute Bands wie Gone With The Pain (Wo Alex Schlagzeug gespielt hat). Ziemlich viel Musik war furchteinflößend. Aber diese Zeiten waren besser, als heute, wo alles digital miteinander verbunden ist. Die Szene ist jetzt ein Facebook Event. Ich will kein Teil davon sein. Wir haben uns damals alle gekannt und nach Jahren der Freundschaft haben wir die Band gegründet. Es gab ein paar Post-Rock-Bands in dieser Szene. Bei Musik geht es um Freiheit. Es gibt nicht mehr Regeln, als die Regeln, die Du in einem Pentagramm sehen kannst.
 
 **Anne:** In Eurer Musik wechseln sich harte Passagen mit sanften, melodischen Parts ab. Würdest Du sagen, dass das Eure Persönlichkeit beschreibt?
 
@@ -101,7 +101,7 @@ Im Mai 2008 veröffentlichte die Band ihre Debut-EP "I". Inzwischen haben Toundr
 
 **Esteban:** Wir haben eine wirklich gute Beziehung zu Deutschland und wir haben uns immer daheim gefühlt, wenn wir in Deutschland auf Tour waren. Es ist das beste Land, um auf Tour zu gehen und wir lieben die Menschen bei Euch. Wir lieben Deutschland.
 
-**Anne:** Ich habe irgendwo gelesen, dass Ihr Experimente mit Gesang, wie andere Post-Rock Bands sie von Zeit zu Zeit unternehmen, strickt ausschließt. Stimmt das? Was ist der Grund dafür?
+**Anne:** Ich habe irgendwo gelesen, dass Ihr Experimente mit Gesang, wie andere Post-Rock-Bands sie von Zeit zu Zeit unternehmen, strickt ausschließt. Stimmt das? Was ist der Grund dafür?
 
 **Esteban:** Sag niemals nie. Wir haben schon Experimente mit Gesang gemacht. Außerdem haben wir ein Nebenprojekt mit dem Namen Exquirla mit dem Flamenco-Sänger Niño de Elche. Wir nehmen Covers mit Sänger⋆innen auf und ich denke, wir werden in Zukunft mit Stimmen arbeiten.
 
@@ -109,7 +109,7 @@ Im Mai 2008 veröffentlichte die Band ihre Debut-EP "I". Inzwischen haben Toundr
 
 **Anne:** Das klingt spannend! Ich werde auf jeden Fall dran bleiben. Flamenco, Hardcore - Eure Einflüsse kommen aus den verschiedensten Richtungen. Welche Bands haben Euch am meisten beeinflusst? Welche Künstler beeindrucken Euch?
 
-**Esteban:** Hm, ich sollte über die üblichen Bands sprechen, die uns alle beeinflusst haben. Ich denke, wir lieben die klassischen Bands wie die Beatles, Led Zeppelin, Pink Floyd und wie sie alle heißen. Wir lieben auch King Crimson und die klassischen Post-Rock Bands und Stoner Rock und Blues. Alberto und ich haben eine Hardcore Punk Vergangenheit, also erwähnen wir auch immer Fugazi und diese ganzen Bands aus den 1980er und 1990er Jahren.
+**Esteban:** Hm, ich sollte über die üblichen Bands sprechen, die uns alle beeinflusst haben. Ich denke, wir lieben die klassischen Bands wie die Beatles, Led Zeppelin, Pink Floyd und wie sie alle heißen. Wir lieben auch King Crimson und die klassischen Post-Rock-Bands und Stoner Rock und Blues. Alberto und ich haben eine Hardcore Punk Vergangenheit, also erwähnen wir auch immer Fugazi und diese ganzen Bands aus den 1980er und 1990er Jahren.
 
 **Anne:** Vielen Dank für dieses unglaublich spannende Interview! Ich freue mich schon sehr auf Eure Herbst-Tour! Wir sehen uns auf jeden Fall am 14. September im Hamburger Knust!
 

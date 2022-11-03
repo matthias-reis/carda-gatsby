@@ -7,8 +7,8 @@ typeName: Interview
 title: Pray for Sound
 seoTitle: Pray for Sound im Interview - "Diese Songs sind wie Therapie"
 ogTitle: Pray for Sound im Interview - "Diese Songs sind wie Therapie"
-description: Pray for Sound aus Boston haben sich meinem Interview gestellt. Es war sehr spannend, eine meiner liebsten Post-Rock Bands persönlich kennenzulernen.
-excerpt: Pray for Sound aus Boston haben sich meinem Interview gestellt. Es war sehr spannend, eine meiner liebsten Post-Rock Bands persönlich kennenzulernen.
+description: Pray for Sound aus Boston haben sich meinem Interview gestellt. Es war sehr spannend, eine meiner liebsten Post-Rock-Bands persönlich kennenzulernen.
+excerpt: Pray for Sound aus Boston haben sich meinem Interview gestellt. Es war sehr spannend, eine meiner liebsten Post-Rock-Bands persönlich kennenzulernen.
 fileName: 2020-06---pray-for-sound.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-waves__l.jpg
@@ -49,7 +49,7 @@ languageLink: '/2020/06/pray-for-sound-interview-en'
 
 Pray For Sound habe ich auf dem [DUNK! Festival 2017](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) das erste Mal live auf der Bühne gesehen. Spätestens seit dieser denkwürdigen Stunde schlägt mein Herz für die Post-Rock Band aus Boston. Vor Kurzem haben sie ihr neues Album "Waves" veröffentlicht. Jetzt hatte ich die Gelegenheit, mich mit Gitarristen Bruce Malley, Drums und Synthesizer Beauftragten Steve Aliperta und dem Gitarristen Nick Stewart zu unterhalten.
 
-**Anne:** Hi! Danke, dass Ihr Euch die Zeit für das Interview nehmt! ich bin so gespannt darauf, eine meiner liebsten Post-Rock Bands kennenzulernen. Wie geht es Euch heute?
+**Anne:** Hi! Danke, dass Ihr Euch die Zeit für das Interview nehmt! ich bin so gespannt darauf, eine meiner liebsten Post-Rock-Bands kennenzulernen. Wie geht es Euch heute?
 
 **Bruce:** Danke für die netten Worte! Mir geht es gut, gemessen an dem, was gerade um uns herum passiert. Keine⋆r meiner engen Freund⋆innen oder Familienmitglieder ist krank und ich bin sehr dankbar dafür.
 

@@ -59,7 +59,7 @@ languageLink: /2021/05/align-in-time-interview-en
 
 ## "Caspian und die Goo Goo Dolls haben mich geprägt"
 
-**John:** Ja, das tue ich! Sie waren eine der ersten Post-Rock Bands, die ich für mich entdeckt habe. Johnny Rzeznik von den Goo Goo Dolls war einer meiner ersten und wichtigsten Einflüsse. Besonders sein Stil der Akkord-Stimmung und diese epische Art, etwas sehr Intimes auszudrücken haben mich immer sehr beeindruckt. Ich denke, man kann diesen Einfluss immer noch aus meiner Musik heraushören, vor allem in den neuen Akustik-Versionen. Ich höre mir unglaublich viel Filmmusik an. Das hat meine Herangehensweise an das musikalische Storytelling nachhaltig geprägt, denke ich.
+**John:** Ja, das tue ich! Sie waren eine der ersten Post-Rock-Bands, die ich für mich entdeckt habe. Johnny Rzeznik von den Goo Goo Dolls war einer meiner ersten und wichtigsten Einflüsse. Besonders sein Stil der Akkord-Stimmung und diese epische Art, etwas sehr Intimes auszudrücken haben mich immer sehr beeindruckt. Ich denke, man kann diesen Einfluss immer noch aus meiner Musik heraushören, vor allem in den neuen Akustik-Versionen. Ich höre mir unglaublich viel Filmmusik an. Das hat meine Herangehensweise an das musikalische Storytelling nachhaltig geprägt, denke ich.
 
 Vor Kurzem habe ich mich in The 1975, These New Puritans und MUNA verguckt. Ich liebe die Art und Weise, wie sie aus verschiedenen Genres schöpfen und so akribisch mit ihrer Musikproduktion sind.
 

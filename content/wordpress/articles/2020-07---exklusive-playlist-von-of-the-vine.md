@@ -103,7 +103,7 @@ Anschwellendes Klavier-Tremolo und wachsende Verzerrung. Auf dieses Stück bin i
 
 ## Unwed sailor - "The Floating Waltz" vom Album "The Marionette &amp; The Music Box"
 
-Ich habe Unwed Sailor auf ihrer "The Marionette &amp; The Music Box" Tour live erlebt. Ich glaube, das war 2004. Ihre Musik war damals ein weiterer großer Einfluss auf mich. Und ist es immer noch. Diese komplexen aber nicht prätentiösen Basslinien und die Drum-Begleitung. Vor allem diese Platte hat mich in Konzeptalben ohne Gesang eingeführt. Sie ist wie ein Soundtrack zu einem Film, den es nicht gibt. Auch ihre "Firecracker" EP ist absolut brilliant. Sie sind vermutlich eine der am meisten unterschätzten Post-Rock Bands.
+Ich habe Unwed Sailor auf ihrer "The Marionette &amp; The Music Box" Tour live erlebt. Ich glaube, das war 2004. Ihre Musik war damals ein weiterer großer Einfluss auf mich. Und ist es immer noch. Diese komplexen aber nicht prätentiösen Basslinien und die Drum-Begleitung. Vor allem diese Platte hat mich in Konzeptalben ohne Gesang eingeführt. Sie ist wie ein Soundtrack zu einem Film, den es nicht gibt. Auch ihre "Firecracker" EP ist absolut brilliant. Sie sind vermutlich eine der am meisten unterschätzten Post-Rock-Bands.
 
 <YouTube id="LGn_dlHEflQ" />
 

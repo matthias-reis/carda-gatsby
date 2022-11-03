@@ -92,11 +92,11 @@ Erst im Dezember haben Oh Hiroshima ihr aktuelles Album "Oscillation" fertiggest
 
 **Jakob:** Die Band war zuerst ein Solo-Projekt unseres ehemaligen Gitarristen Leif. Der Name war seine Idee. Ich glaube, er war auf der Suche nach etwas, das die Emotionalität, die Dramatik und Melancholie umschreibt, die Aspekte unserer Musik sind. Wir haben schon ein paar interessante Interpretationen gelesen, was unser Name bedeutet oder symbolisiert. Manche davon sind richtig lustig. Wie bei den meisten anderen Bands auch, ist es einfach das, wie man seine Band nennt. Man schenkt dem nicht mehr so viel Aufmerksamkeit.
 
-**Anne:** Eine Menge großartige Post-Rock Bands kommen aus Schweden. Die Szene bei Euch ist faszinierend. Steht Ihr in Kontakt mit Bands wie Ef oder Lights & Motion?
+**Anne:** Eine Menge großartige Post-Rock-Bands kommen aus Schweden. Die Szene bei Euch ist faszinierend. Steht Ihr in Kontakt mit Bands wie Ef oder Lights & Motion?
 
-## "Ef war eine der ersten Post-Rock Bands für mich"
+## "Ef war eine der ersten Post-Rock-Bands für mich"
 
-**Jakob:** Ja, es kommen ein paar nette Bands aus unserer Nachbarschaft. Ich würde nicht sagen, dass wir vernetzt sind, aber wir stehen in Kontakt mit ein paar Leuten, mit denen wir gespielt haben. Feed Me To The Waves und Sagor Som Leder Mot Slutet zum Beispiel. Ef war eine der erste Post-Rock Bands, die ich gehört habe, als ich anfing, mich für das Genre zu interessieren. Ich habe sie vor dem Release ihres Albums in Norrköping gesehen. Wir kennen sie aber nicht.
+**Jakob:** Ja, es kommen ein paar nette Bands aus unserer Nachbarschaft. Ich würde nicht sagen, dass wir vernetzt sind, aber wir stehen in Kontakt mit ein paar Leuten, mit denen wir gespielt haben. Feed Me To The Waves und Sagor Som Leder Mot Slutet zum Beispiel. Ef war eine der erste Post-Rock-Bands, die ich gehört habe, als ich anfing, mich für das Genre zu interessieren. Ich habe sie vor dem Release ihres Albums in Norrköping gesehen. Wir kennen sie aber nicht.
 
 **Anne:** Eure Musik ist sehr melodisch und vielseitig - jeder Song ist anders. Was inspiriert Euch beim Komponieren am meisten?
 

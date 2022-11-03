@@ -33,7 +33,7 @@ labels:
 
 **Die Hamburger Post-Rock Band Vandemonian veröffentlichte vor Kurzem ihr großartiges Debüt-Album "Xenophilia". Ich habe mich jetzt mit Frontman Nick zum Interview verabredet.**
 
-Im Gegensatz zu vielen anderen Post-Rock Bands verzichten Vandemonian nicht auf Gesang. Das liegt vor allem daran, dass sie eine ganz klare politische Meinung haben, die sie offen vertreten möchten. Und wie könnte das besser gelingen, als in Form von Lyrics? Darüber und über die momentane weltweite Situation habe ich mich mit Nick unterhalten.
+Im Gegensatz zu vielen anderen Post-Rock-Bands verzichten Vandemonian nicht auf Gesang. Das liegt vor allem daran, dass sie eine ganz klare politische Meinung haben, die sie offen vertreten möchten. Und wie könnte das besser gelingen, als in Form von Lyrics? Darüber und über die momentane weltweite Situation habe ich mich mit Nick unterhalten.
 
 **Anne:** Hallo Nick! Danke, dass Du Dir die Zeit für das Interview nimmst! Wie geht es Dir denn so? Du hast gerade mit Vandemonian das Debütalbum "Xenophilia" veröffentlicht. Ich nehme an, Ihr verbringt Eure Zeit jetzt mit der Promotion? Wie ist die Resonanz bis jetzt?
 

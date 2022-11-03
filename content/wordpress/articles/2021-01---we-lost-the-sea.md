@@ -1,6 +1,6 @@
 ---
 ogTitle: We Lost The Sea – "Post-Rock löst Grenzen auf" – Interview mit Mark
-excerpt: We Lost The Sea ist eine der großartigsten Post-Rock Bands. Ihre Musik ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist Mark interviewt.
+excerpt: We Lost The Sea ist eine der großartigsten Post-Rock-Bands. Ihre Musik ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist Mark interviewt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_we-lost-the-sea-fb.png__l.jpg
 isAffiliate: false
 path: /2021/01/we-lost-the-sea-interview/
@@ -19,7 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01
 title: We Lost The Sea
 subTitle: '"Post-Rock löst Grenzen auf"'
 seoTitle: We Lost The Sea – "Post-Rock löst Grenzen auf" – Interview mit Mark
-description: We Lost The Sea ist eine der großartigsten Post-Rock Bands. Ihre Musik ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist Mark interviewt.
+description: We Lost The Sea ist eine der großartigsten Post-Rock-Bands. Ihre Musik ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist Mark interviewt.
 language: de
 type: Artikel
 labels:
@@ -67,7 +67,7 @@ Könnt Ihr Euch vorstellen, einen Eurer absoluten Lieblings-Musiker zu interview
 
 **Mark:** Das ist eine schwierige Frage. Ich denke, Post-Rock ist eine ziemliche Nische und Menschen, die ihn lieben, lieben ihn WIRKLICH und kennen sich damit aus – Es ist also keine Überraschung, dass sich da eine ziemlich enge Online Community gebildet hat. Ich denke, das Genre versucht, so inklusive wie möglich zu sein. Es fühlt sich wie eine Szene an, in der Menschen sich wirklich nur an der Musik erfreuen und nicht so sehr an der sogenannten "Szene". Ich sehe immer noch ziemlich dummen und belanglosen Scheiß auf Facebook. Aber es sind schließlich Menschen, oder?
 
-**Anne:** Ich habe Euer Konzert auf dem Dunk!festival 2017 sehr genossen. Ihr seid damals mit einigen australischen Post-Rock Bands dort aufgetreten. Das waren viele unvergessliche Konzerte. Ich werde dieses Wochenende niemals vergessen. Konntet Ihr seitdem eine Verschiebung Eurer Fan-Basis erkennen? Habt Ihr jetzt mehr Fans hier drüben in Europa?
+**Anne:** Ich habe Euer Konzert auf dem Dunk!festival 2017 sehr genossen. Ihr seid damals mit einigen australischen Post-Rock-Bands dort aufgetreten. Das waren viele unvergessliche Konzerte. Ich werde dieses Wochenende niemals vergessen. Konntet Ihr seitdem eine Verschiebung Eurer Fan-Basis erkennen? Habt Ihr jetzt mehr Fans hier drüben in Europa?
 
 ## "Das Dunk!festival war eine großartige Erfahrung"
 
