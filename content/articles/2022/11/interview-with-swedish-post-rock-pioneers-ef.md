@@ -140,7 +140,7 @@ But it's even cooler when you believe you've found a "new" band yourself—add t
 
 **Anne:** It's so nice you just mentioned Myspace and last.FM, Niklas. That's where I listened to your music for the first time. Who would you say inspired you the most on your way? 
 
-**Niklas:** When we started playing" post-rock", we spent a lot of time listening to Mogwai, Explosions in the sky, Sigur Rós and that whole" Canadian clan" with Godspeed and such.
+**Niklas:** When we started playing "post-rock", we spent a lot of time listening to Mogwai, Explosions in the sky, Sigur Rós and that whole" Canadian clan" with Godspeed and such.
 
 But while writing more and more diverse songs, we've picked influences from bands that's always been close to heart, such as Fireside, Lack (DK) and Cult of Luna but also bigger acts such as the National, Bon Iver and Radiohead (Thom Yorke overall).
 
