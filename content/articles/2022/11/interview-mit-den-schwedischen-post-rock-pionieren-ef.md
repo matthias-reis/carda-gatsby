@@ -155,11 +155,17 @@ Als wir dann mehr und mehr unterschiedliche Songs geschrieben haben, haben wir E
 ## Hier ein paar Tourdaten:
 
 17.11 Berlin Privatclub
+
 18.11 Leipzig UT Connewitz
-19.11 Neunkirchen Gloomaar Festival
+
+19.11 Neunkirchen, Gloomaar Festival
+
 20.11 Hasselt Muziekodroom
+
 21.11 Eindhoven Dynamo
+
 22.11 Hamburg Hafenklang
+
 23.11 Kopenhagen Vega
 
 **Anne:** Vielen Dank für Eure Zeit und dieses Interview! 
