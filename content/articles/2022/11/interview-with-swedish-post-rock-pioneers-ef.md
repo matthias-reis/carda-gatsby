@@ -36,7 +36,7 @@ languageLink: /2022/11/ef-interview/
 
 - - -
 
-**Anne:** Welcome to my blog! It's a big honour to get to know one of my absolute favourite bands! I am so glad you are back! Congrats on the new album! It is fantastic! You must be happy with the outcome of your work, are you?
+**Anne:** Welcome to my blog! It's a big honour to get to know one of my absolute favourite bands! I am so glad you are back! Congrats on the new album! It is fantastic! You must be very happy with the outcome of your work, are you?
 
 **Niklas:** I believe we're pretty great at the moment. We finished the album already in February/March and have just been waiting to get it out to all of You. Although we're a bit terrified about the release of the new album—it's always terrifying to let new music out to be heard by new, fresh ears. But also a bit stressed out over the tour coming up and the premiere in Berlin on November 17th.
 
