@@ -26,7 +26,7 @@ focusKeyword: Interview with EF
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2022/11/ef-interview-en/
+languageLink: /2022/11/ef-interview/
 ---
 **EF are back, and they brought a new album with them! After their hiatus, the Swedes landed a 10/10 with "We Salute You, You and You!". Drumroll! I asked them for an interview, and they said yes!**
 
