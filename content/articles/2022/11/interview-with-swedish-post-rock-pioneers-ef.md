@@ -142,7 +142,7 @@ But it's even cooler when you believe you've found a "new" band yourself—add t
 
 **Niklas:** When we started playing "post-rock", we spent a lot of time listening to Mogwai, Explosions in the sky, Sigur Rós and that whole "Canadian clan" with Godspeed and such.
 
-But while writing more and more diverse songs, we've picked influences from bands that's always been close to heart, such as Fireside, Lack (DK) and Cult of Luna but also bigger acts such as the National, Bon Iver and Radiohead (Thom Yorke overall).
+But while writing more and more diverse songs, we've picked influences from bands that've always been close to heart, such as Fireside, Lack (DK) and Cult of Luna but also bigger acts such as the National, Bon Iver and Radiohead (Thom Yorke overall).
 
 **Anne:** With "We Salute You, You and You!" in the record stores: What are your next steps?
 
