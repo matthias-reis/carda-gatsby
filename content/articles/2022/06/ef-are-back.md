@@ -46,6 +46,12 @@ All together, we can expect seven new songs. After the release, there will be a 
 
 The band, who achieved cult status among post-rock fans long ago, is mentioned together with projects like Sigur Rós and Mono. Their new album "We Salute You, You and You!" will be the thirteenth part of their discography so far.
 
+---
+
+[Read my interview with EF here](/2022/11/ef-interview-en/)!
+
+---
+
 ## Interview about the new album
 
 <YouTube id="uibsgx9NPAI" />
