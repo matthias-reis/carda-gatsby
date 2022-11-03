@@ -118,7 +118,7 @@ These are my images and experiences of our music. I am sure the other guys also 
 
 ## "Magnus Lindberg is part fo the EF family"
 
-**Daniel:** An former band of mine, Convoj, was working with Magnus in 2008, I believe. I had a great experience working with him, so in 2010, we hired him with EF to track, mix and master "Mourning Golden Morning". That was our first time working in a professional environment like that.
+**Daniel:** A former band of mine, Convoj, was working with Magnus in 2008, I believe. I had a great experience working with him, so in 2010, we hired him with EF to track, mix and master "Mourning Golden Morning". That was our first time working in a professional environment like that.
 
 It has always been very easy to work with Magnus. He knows our music, he works fast, and we are always happy with the result. I guess we can call him a friend. At least he is a part of the EF family. He has no choice. 
 
