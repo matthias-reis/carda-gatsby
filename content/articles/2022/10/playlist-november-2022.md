@@ -3,7 +3,7 @@ date: 2022-10-26T13:02:48.239Z
 slug: playlist-november-2022
 typeName: Beitrag
 title: Playlist November 2022
-subTitle: Von ef bis Thrice
+subTitle: Von EF bis Thrice
 seoTitle: Playlist November 2022 – von Post-Rock bis Prog
 description: Auf der Suche nach neuen Songs? Diese Liste bringt Euch die
   aktuellsten Perlen von Post-Rock bis Prog.
@@ -61,9 +61,9 @@ Bei The Kompressor Experiment handelt es sich um ein progressives Post-Music Pro
 
 <YouTube id="7TwNBSYecb0" />
 
-## ef – "Hymn Of..." (Vorauskopplung vom Album "We Salute You, You and You")
+## EF – "Hymn Of..." (Vorauskopplung vom Album "We Salute You, You and You")
 
-Hiermit möchte ich noch mal daran erinnern, dass am 4. November das neue ef-Album "We Salute You, You and You" erscheint. Ich habe es schon gehört ([Hier ist meine Preview](/2022/06/ef-we-salute-you-you-and-you/)) und empfehle Euch, es nicht zu verpassen. "Hymn Of..." ist der dritte Song auf der Platte und die aktuelle Vorauskopplung. Macht Lust auf mehr, oder?
+Hiermit möchte ich noch mal daran erinnern, dass am 4. November das neue EF Album "We Salute You, You and You" erscheint. Ich habe es schon gehört ([Hier ist meine Preview](/2022/06/ef-we-salute-you-you-and-you/)) und empfehle Euch, es nicht zu verpassen. "Hymn Of..." ist der dritte Song auf der Platte und die aktuelle Vorauskopplung. Macht Lust auf mehr, oder?
 
 <YouTube id="Cyl4JTb4MbI" />
 

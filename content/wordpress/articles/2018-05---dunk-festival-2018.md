@@ -7,11 +7,25 @@ seoTitle: Dunk!festival 2018 - 36 Post-Rock-Bands in 3 Tagen
 ogTitle: Dunk!festival 2018 - Liebe für immer - 36 Post-Rock-Bands in 3 Tagen
 description: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock-Bands auf.
 excerpt: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock-Bands auf.
-fileName: 2018-05---dunk-festival-2018.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__l.jpg
+month: "05"
+ogImage: null
+isAffiliate: false
+path: /2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKRAAAgEDAgUEAgMAAAAAAAAAAQIDBAURABITITFBUQYiYXEUMlKB4f/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAAIDBf/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAgMRIUGREvD/2gAMAwEAAhEDEQA/AMJtVkNTTxyNLCplJ2IXBbA6nb1Gmeg9IolOJ2j9rZCvJyDY641zKD1fbkuMLy0MkdLFnYwILAkBdzD6HbT5cLhT0UEFXWIyQTkiPhe5nwAc5PLuD/ejirsV/EtnsDUp2HvfkWpPTUQUsY9w84wv+6oVVhG3CKGP8UGtBtVPHcbZFVtUKlE2QskjdcE5AHkHr86juN1tdqjdqZnmcrtbifry7gedbmI1t4irld/NeWYJC6JKiOqeyQHL5II7gjxpqNZBc7HR2+Ztn4m8Qz8RjuJbkCpOAoUYH3nno0aSyKV4Z0sBW1wsSnDdIqOkEKTVTKCSsXFIEZ79OoJ58tVGrI5ZS1W0pQMu5VODt+Cc47aNGoVgtbrU/9k=
-ogImage:
+isWerbung: false
+fileName: 2018-05---dunk-festival-2018.md
+slug: dunkfestival-2018-postrock-liebe-fuer-immer
+errors: {}
+date: 2018-05-16T15:40:07.000+00:00
+focusKeyword: Postrock
+status: publish
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__m.jpg
+title: Dunk!festival 2018
+subTitle: 36 Post-Rock Bands in drei Tagen
+seoTitle: Dunk!festival 2018 - 36 Post-Rock Bands in 3 Tagen
+description: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von
+  Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
 labels:
   - aswekeepsearching
   - Belgien
@@ -54,10 +68,6 @@ labels:
   - worriedaboutsatan
   - Zottegem
   - serie:DUNK!festival
-focusKeyword: Postrock
-status: publish
-isWerbung: false
-isAffiliate: false
 language: de
 errors: {}
 subTitle: 36 Post-Rock-Bands in drei Tagen
@@ -67,11 +77,11 @@ month: '05'
 
 **Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, den 10. Mai bis Samstag, den 12. Mai 36 Post-Rock-Bands auf. 26 davon haben wir live gesehen. Zwar konnte ich die Musik nicht mit nach Hause nehmen, es sind mir jedoch mit meiner kleinen Konzertklickse ein paar Schnappschüsse gelungen, die ich Euch gerne zeigen möchte.**
 
-Im Titel seht Ihr schon mal mein Lieblingsbild. Es ist am Donnerstag beim Auftritt von Ef entstanden. Das Festival war, genau wie schon [im letzten Jahr](/2017/06/dunk-festival-2017-eindruecke-und-bilder/), ein echter Traum. Gute Musik rund um die Uhr, lauter nette Menschen, keine Partytouristen und ein Gefühl von Familie und guter Laune.
+Im Titel seht Ihr schon mal mein Lieblingsbild. Es ist am Donnerstag beim Auftritt von EF entstanden. Das Festival war, genau wie schon [im letzten Jahr](/2017/06/dunk-festival-2017-eindruecke-und-bilder/), ein echter Traum. Gute Musik rund um die Uhr, lauter nette Menschen, keine Partytouristen und ein Gefühl von Familie und guter Laune.
 
-## Ef und worriedaboutsatan
+## EF und worriedaboutsatan
 
-Meine Favoriten waren Ef aus Schweden, Besides, aswekeepsearching aus Indien, Soup aus Norwegen, die Chellistin Jo Quail und das Elektronik-Duo worriedaboutsatan aus [Großbritannien](/tag/britische-inseln/), The Ills aus der Slowakei, Grails aus den USA, La Bestia De Gevaudan und Tortuganonima aus Chile, The Ocean aus Deutschland und der Schweiz und natürlich Caspian und <a>Russian Circles</a> aus den USA.
+Meine Favoriten waren EF aus Schweden, Besides, aswekeepsearching aus Indien, Soup aus Norwegen, die Chellistin Jo Quail und das Elektronik-Duo worriedaboutsatan aus [Großbritannien](/tag/britische-inseln/), The Ills aus der Slowakei, Grails aus den USA, La Bestia De Gevaudan und Tortuganonima aus Chile, The Ocean aus Deutschland und der Schweiz und natürlich Caspian und <a>Russian Circles</a> aus den USA.
 
 Insgesamt war das Event auch in diesem Jahr wieder ein internationales. Bands und Zuschauer reisten aus den verschiedensten Winkeln der Erde von Japan bis Kanada an. Ein bunter Haufen glücklicher Menschen mit einer gemeinsamen Liebe also: Post-Rock.
 
@@ -81,7 +91,7 @@ Die legendären Dunk!fries mit dick Senf und Ketchup schmeckten vom ersten bis z
 
 Im Merchandise Zelt ging im Anschluss an die Konzerte regelmäßig die Post ab. Die Bands verkauften dort höchstpersönlich ihre Platten und T-Shirts und standen den Reportern zum Interview bereit.
 
-Insgesamt habe ich jede Menge wundervolle Eindrücke und tolle Musik vom Dunk!festival mitgebracht. Meine Schwedische Lieblingsband Ef ist mir nach einem zauberhaften Auftritt inklusive Bad in der Menge des Sängers Tomas Torsson noch ein Stückchen mehr ans Herz gewachsen. Mir sind einige meiner Favoriten wieder begegnet, andere durfte ich das erste Mal live auf der Bühne bewundern und ich habe viel Neues kennengelernt.
+Insgesamt habe ich jede Menge wundervolle Eindrücke und tolle Musik vom Dunk!festival mitgebracht. Meine Schwedische Lieblingsband EF ist mir nach einem zauberhaften Auftritt inklusive Bad in der Menge des Sängers Tomas Torsson noch ein Stückchen mehr ans Herz gewachsen. Mir sind einige meiner Favoriten wieder begegnet, andere durfte ich das erste Mal live auf der Bühne bewundern und ich habe viel Neues kennengelernt.
 
 Ich freue mich schon sehr auf nächstes Jahr und hoffe sehr, dass wir wieder dabei sein können. Bis dahin schwelgen wir in Erinnerungen und träumen von diesem wunderbaren Kurzurlaub mit Freunden auf dem Land.
 
@@ -104,7 +114,7 @@ Ich freue mich schon sehr auf nächstes Jahr und hoffe sehr, dass wir wieder dab
   ]}
 />
 
-## Ef
+## EF
 
 <Gallery
   images={[

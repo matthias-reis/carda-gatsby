@@ -1,5 +1,5 @@
 ---
-ogTitle: Interview mit Lani vom Katers Köök Hamburg – Frühstück im Katzencafé
+ogTitle: Interview mit Lani vom Katzencafé "Katers Köök" in Hamburg
 excerpt: Ich habe mich mit Lani vom Katers Köök Hamburg zum Frühstück getroffen.
   Im Interview hat Sie mir einiges zum Thema Tierschutz und ihr Katzencafé
   verraten.
@@ -18,40 +18,39 @@ status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403920_ad9c4bc347_k__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403920_ad9c4bc347_k__m.jpg
 title: Lani vom Katers Köök Hamburg
-subTitle: Frühstück im Katers Köök
-seoTitle: Interview mit Lani vom Katers Köök Hamburg – Frühstück im Katzencafé
+subTitle: Frühstück mit Interview im Katers Köök
+seoTitle: Interview mit Lani vom Katzencafé "Katers Köök" in Hamburg
 description: Ihr möchtet mehr über das Katers Köök Hamburg erfahren? Gründerin
   Lani hat mir im Interviews viele Details über das Katzencafé verraten.
+copyrigt: ""
+language: de
+type: Artikel
 labels:
-  - adoptdontshop
-  - animalsunited
-  - flyingcats
+  - Adopt don't shop
+  - Animals United
+  - Flying Cats
   - Frühstück
   - Hamburg
   - Interviews
   - Katzen
   - Katzencafé
-  - Katzenliebe
-  - Katzentempel
+  - Vegane LokaleKatzentempel
+  - Katers Köök
   - Puss in Boots
   - Rilana Rentsch
   - Sternschanze
-  - tiereadoptieren
-  - tiereneinzuhausegeben
+  - Tiere adoptieren
   - Tierliebe
   - Tierrechte
   - Tierrechte
   - Tierrettung
   - Tierschutz
-language: de
-type: Artikel
 ---
+**Im Katers Köök[^1] am Kleinen Schäferkamp 24 in Hamburg kann man nicht nur Frühstück, Mittag und Abendessen genießen, sondern dabei auch noch sechs Samtpfoten begegnen. Die Betreiberin Rilana Rentsch habe ich dort jetzt zum Interview getroffen.**
 
-**Im Katers Köök am Kleinen Schäferkamp 24 in Hamburg kann man nicht nur Frühstück, Mittag und Abendessen genießen, sondern dabei auch noch sechs Samtpfoten begegnen. Die Betreiberin Rilana Rentsch habe ich dort jetzt zum Interview getroffen.**
+Nachdem das Katzencafé[^2] in München sehr gut angenommen wurde, eröffnete zum August nun auch eins in Hamburg. Geschäftsführerin Rilana, kurz Lani, ist es besonders wichtig, den Menschen den Tierschutz näherzubringen. Interessierte haben daher jederzeit die Möglichkeit, sich dort mit Informationen einzudecken.
 
-Nachdem das Katzencafé[^1] in München sehr gut angenommen wurde, eröffnete zum August nun auch einer in Hamburg. Geschäftsführerin Rilana, kurz Lani, ist es besonders wichtig, den Menschen den Tierschutz näherzubringen. Interessierte haben daher jederzeit die Möglichkeit, sich dort mit Informationen einzudecken.
-
-Alle Katzen im Tempel stammen aus dem Tierschutz. Newman, Liffey, Keshia, Mellow, Serena und Avy haben ganz unterschiedliche Persönlichkeiten und jede hat ihren eigenen Kopf. Wenn den geselligen Tieren der Publikums-Trubel zu viel wird, gibt es ein über einige Katzenklappen zugängliches Zimmer, in das sie sich jederzeit zurückziehen können.
+Alle Katzen im Katers Köök stammen aus dem Tierschutz. Newman, Liffey, Keshia, Mellow, Serena und Avy haben ganz unterschiedliche Persönlichkeiten und jede hat ihren eigenen Kopf. Wenn den geselligen Tieren der Publikums-Trubel zu viel wird, gibt es ein über einige Katzenklappen zugängliches Zimmer, in das sie sich jederzeit zurückziehen können.
 
 ## Selbst gemachte vegane Leckereien
 
@@ -121,7 +120,7 @@ Ich habe immer nebenberuflich in der Gastronomie gearbeitet. Die letzten eineinh
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAAuEAABBAECBQIDCQAAAAAAAAABAgMEEQUAIQYSEzFBB2EUJFEiQmKBkaGxwdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMRMRJhBCGx/9oADAMBAAIRAxEAPwB16sy8jPRjsdgnWSwUrkOuhQJDidkJHm9yRVftrR+iqcuw60Jz61c4pTDjpJSO5N2Qrwd9x9fGuHEOGbLJlwHk/FKR12ISihHVKDSwlajQNEEDa+1658FZV3C5aZKzEVGMjMR0/NPxT1XkqNpbHLYNfW70JVathyjGetqzxyTLZkR8i8Pw6VYNNw5Q9wf51O8565YJqU5CgwpeQStXRC2K5lK9k1/f6a1vAmfjZduWiKl1QTQWuhyIP2rSVXuQQRt5B9jpgYHUIVI3JvkpaMkvLY6U0VIilKmTz0EkNjxV/eJsEeNLZPBRexrYgZExkSEpU712zJKrAUAOddAd+w3vfto0aO3s5Pf2Io1joTIweEJOMyrIdzS5TDRsNLit0N+wO5T+RGrpwYlELFhqMnkQpIBF3e5/06NGoUMTYRHeTWq1AgT/2Q=="
 />
 
-**Lani:** Das hat tatsächlich richtig gut funktioniert. Dadurch, dass ich es mit einem Lizenzgeber mache, waren einfach auch schon Erfahrungswerte da. Die Ämter haben nach der Vorbegehung zu uns gesagt, dass wir das Rad ja nicht neu erfinden müssen und es ja einfach so machen können, wie es in München schon funktioniert hat. Wir haben sie auch sehr früh angesprochen und mit ins Boot geholt, also gab es da von vornherein gar keine Probleme.
+**Lani:** Das hat tatsächlich richtig gut funktioniert. Dadurch, dass ich es mit einem Lizenzgeber mache, waren einfach auch schon Erfahrungswerte da. Die Ämter haben nach der Vorab-Begehung zu uns gesagt, dass wir das Rad ja nicht neu erfinden müssen und es ja einfach so machen können, wie es in München schon funktioniert hat. Wir haben sie auch sehr früh angesprochen und mit ins Boot geholt, also gab es da von vornherein gar keine Probleme.
 
 **Anne:** Traditionell haben wir Menschen ja seltsame Werte, Tiere betreffend. Wie erklärst Du Dir, dass wir die einen streicheln und in unserem Bett schlafen lassen und die anderen ausbeuten, von ihren Kindern trennen, unter schlimmsten Bedingungen halten, töten und verzehren?
 
@@ -185,11 +184,11 @@ Das lässt sich ja ganz leicht herausfinden, indem man ein paar Fasern über ein
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBQYHA//EACgQAAEEAQMEAgEFAAAAAAAAAAECAwQRBQASIQYxQWEiUQcTFEJxof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABwRAQACAwADAAAAAAAAAAAAAAEAAgMRIQQxUf/aAAwDAQACEQMRAD8AtXUODfkZBmWQ0mNs+bq1hKUUCOSe2oF0YqHCdhJyDahXzfRZb3EAJAvlRsdgK98a7/kHJqdyohqUr9OGgNBP0Tajx/atVtjCRc22mM5IcZkG1JUgmq8g1z70rr3UGPDV02liwvUMcZPCQiVyXkymUmRVocJTtsHz/I361C9VYqSrLZWf+2eMVuUoLdSkFItRqwe+nw8W909mhKbjLONilLm9wilkVtPpQV2P+a0xKcdlJAeUiW2XWw4DHlrDSru622ODweO+pUs22MfkYuCTBczKfayDzbjqnFtrKCsk2rbxZuz4+9TXReTcayTbhG9RUGuT4Vfr1o0ao+mKoABGdf8AWMuPko+EisobMv5KfJspCeeE1673pI+eltNdKQ29qQuOt5DnIW2sLN8irBBog/WjRrPvXZoPk//Z"
 />
 
-**Lani:** Meine Hauptpartner in Sachen Tierschutz sind die Puss In Boots[^2]. Von ihnen stammen auch fünf der Katzen im Katers Köök. Kara lebt in Deutschland und ihre Mutter in Irland, wo auch die Auffangstation für die Katzen ist. Ursprünglich wurde sie für Greyhounds gegründet. Allerdings wurden dann immer mehr kleine Katzen gebracht. Puss In Boots war geboren.
+**Lani:** Meine Hauptpartner in Sachen Tierschutz sind die Puss In Boots[^3]. Von ihnen stammen auch fünf der Katzen im Katers Köök. Kara lebt in Deutschland und ihre Mutter in Irland, wo auch die Auffangstation für die Katzen ist. Ursprünglich wurde sie für Greyhounds gegründet. Allerdings wurden dann immer mehr kleine Katzen gebracht. Puss In Boots war geboren.
 
-Von der zweiten Organisation, den Flying Cats[^3], stammt Keshia aus Griechenland.
+Von der zweiten Organisation, den Flying Cats[^4], stammt Keshia aus Griechenland.
 
-Außerdem mache ich noch viel mit Animals United[^4]. In Zukunft wird es mit ihnen auch einige gemeinsame Projekte geben.
+Außerdem mache ich noch viel mit Animals United[^5]. In Zukunft wird es mit ihnen auch einige gemeinsame Projekte geben.
 
 Bei allen dreien handelt es sich um jüngere Tierschutzorganisationen, ohne viel Bürokratie, die der Sache von Anfang an offen gegenübergestanden haben und die Tieren direkt vor Ort helfen.
 
@@ -247,7 +246,7 @@ Bei allen dreien handelt es sich um jüngere Tierschutzorganisationen, ohne viel
 
 **Lani:** Das Katers Köök passt extrem gut in die Schanze. Er hat tatsächlich gefehlt in Hamburg.
 
-**Anne:** Weißt Du schon, ob es auch bald in anderen Städten Katzentempel[^1] geben wird?
+**Anne:** Weißt Du schon, ob es auch bald in anderen Städten Katzencafés[^1] geben wird?
 
 **Lani:** Ja! Es gibt immer wieder Anfragen von Interessenten, die auch gerne einen Katzentempel[^1] aufmachen möchten. Im Moment steht niemand fest in den Startlöchern, aber ich denke, es tut sich auf jeden Fall bald was.
 
@@ -261,7 +260,8 @@ Bei allen dreien handelt es sich um jüngere Tierschutzorganisationen, ohne viel
 
 Die Fotos von den Katzen habe ich selbst aufgenommen. Die wunderschönen Portraits von Lani stammen von Juliana Weingarten.
 
-[^1]: Zum Zeitpunkt des Interviews war Lanis Katzecafé noch Teil der Franchise-Kette "[Katzentempel](http://katzentempel.de/)" und unter diesem Namen bekannt.
-[^2]: [Puss in Boots](http://www.irish-pibar.de/)
-[^3]: [Flying Cats](http://www.flying-cats.de/)
-[^4]: [Animals United](https://animalsunited.de/)
+[^1]: [Katers Köök](https://katers-koeoek.de/)
+[^2]: Zum Zeitpunkt des Interviews war Lanis Katzecafé noch Teil der Franchise-Kette "[Katzentempel](http://katzentempel.de/)" und unter diesem Namen bekannt.
+[^3]: [Puss in Boots](http://www.irish-pibar.de/)
+[^4]: [Flying Cats](http://www.flying-cats.de/)
+[^5]: [Animals United](https://animalsunited.de/)
