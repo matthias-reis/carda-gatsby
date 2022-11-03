@@ -86,7 +86,7 @@ Das Screaming auf diesem Album hat sich ziemlich natürlich ergeben. Wir haben u
 
 **Anne:** Jetzt haben wir Eure Hardcore-Vergangenheit ja bereits erwähnt. Möchtet Ihr mir ein paar Details über Eure früheren Projekte verraten? Ich bin sehr gespannt, mehr darüber zu erfahren!
 
-**Niklas:** Ich glaube, nur Daniel hat mit seiner Hardcore-Band When We Fall" Menschen auf der ganzen Welt erreicht. Für den Rest von uns war es nicht mehr als ein Ausdruck passiv-aggressiver Teenager-Frustration.
+**Niklas:** Ich glaube, nur Daniel hat mit seiner Hardcore-Band When We Fall Menschen auf der ganzen Welt erreicht. Für den Rest von uns war es nicht mehr als ein Ausdruck passiv-aggressiver Teenager-Frustration.
 
 EF fing jedoch als Hardcore-Band mit Thomas (Gesang, Gitarre) und unserem ersten Bassisten Mikael (und einigen anderen Kids) an. Als sie nach Göteborg zogen und nach neuen Mitgliedern suchten, und Kalle und ich dazukamen, änderten wir unseren Sound und wurden melodischer und dynamischer – weniger aggressiv, mit Einflüssen von Bands wie Logh, Mogwai und Explosions in the Sky.
 
