@@ -88,7 +88,7 @@ The screaming on this album came pretty naturally, but it wasn't a 100 percent k
 
 **Anne:** What I think I like the most about your music is that you are outstanding storytellers. When listening to "We Salute You, You and You!" I also get this intense feeling of a story that puts your seven songs on it together. You can sense this common theme that makes you want to listen to every minute of it, not missing anything—especially the finale. It's wonderful. Do you want to tell me about it? Or would you say it's the room for interpretations you are creating with your music that lets everyone who listens to it create their own story in their mind?
 
-As mentioned, we love to tell stories. Here are a few examples from the songs on We Salute You, You and You!
+**Daniel:** As mentioned, we love to tell stories. Here are a few examples from the songs on We Salute You, You and You!
 
 ### "Hymn of…"
 
