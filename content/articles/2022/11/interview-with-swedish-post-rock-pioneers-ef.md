@@ -21,6 +21,7 @@ labels:
   - bands
   - Interview with EF
   - post-rock
+  - Pelagic
 focusKeyword: Interview with EF
 advertisement: false
 affiliate: false
