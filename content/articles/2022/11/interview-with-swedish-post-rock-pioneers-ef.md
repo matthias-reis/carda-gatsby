@@ -66,7 +66,7 @@ We also shared these specific stories and sceneries with the session musicians, 
 
 ## "Bands were forced to write new music"
 
-**Niklas:** I believe the pandemic and all cancelled tours forced bands to get back to writing new music again. All of a sudden, there was a pretty long and indefinite break, and you could become creative again. EF can't really work remotely. There are too many opinions, and sometimes we need to fight things out—this we can only do face to face. But, of course, we wrote some of our demos and ideas remotely since Erik lives in Stockholm and the rest of us in Gothenburg. But we recorded everything recorded together.
+**Niklas:** I believe the pandemic and all cancelled tours forced bands to get back to writing new music again. All of a sudden, there was a pretty long and indefinite break, and you could become creative again. EF can't really work remotely. There are too many opinions, and sometimes we need to fight things out—this we can only do face to face. But, of course, we wrote some of our demos and ideas remotely since Erik lives in Stockholm and the rest of us in Gothenburg. But we recorded everything together.
 
 **Anne:** There are seven outstanding songs on "We Salute You, You and You!". Which one is your favourite?
 
