@@ -11,7 +11,7 @@ excerpt: EF sind zurück, und sie haben ein neues Album im Gepäck! Nach ihrer
   Auszeit haben die Schweden mit "We Salute You, You and You!" eine 10/10
   gelandet. Trommelwirbel! Ich habe sie um ein Interview gebeten, und sie haben
   zugesagt!
-image: https://storage.googleapis.com/cardamonchai-media/2022-11-03/ef-interview-jpeg-imagine-e8e8e8_a4a19b_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2022-11-03/ef-interview-jpeg-imagine-e8e8e8_a29f99_1024_768/640.webp
 copyrigt: EF
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-03/ef-interview-fb-jpeg-imagine-f8f8f8_afafaf_1200_628/640.webp
 labels:
