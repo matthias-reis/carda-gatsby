@@ -46,6 +46,12 @@ Insgesamt erwarten uns sieben neue Songs. Anschließend wird es eine Tour durch 
 
 Die Band, die unter Post-Rock Fans längst Kultstatus erreicht hat, wird in einem Atemzug mit Projekten wie Sigur Rós und Mono genannt. Das neue Album "We Salute You, You and You!" wird der dreizehnte Teil ihrer bisherigen Diskographie sein.
 
+---
+
+[Mein Interview mit EF könnt Ihr hier lesen!](/2022/11/ef-interview/)!
+
+---
+
 ## Interview zum neuen Album
 
 <YouTube id="uibsgx9NPAI" />
