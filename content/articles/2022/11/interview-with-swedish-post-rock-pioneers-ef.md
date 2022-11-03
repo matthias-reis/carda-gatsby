@@ -10,7 +10,7 @@ description: Want to know more about the new EF album "We Salute You, You and
 excerpt: EF are back, and they brought a new album with them! After their
   hiatus, the Swedes landed a 10/10 with "We Salute You, You and You!".
   Drumroll! I asked them for an interview, and they said yes!
-image: https://storage.googleapis.com/cardamonchai-media/2022-11-03/ef-interview-jpeg-imagine-e8e8e8_a4a19b_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2022-11-03/ef-interview-jpeg-imagine-e8e8e8_a29f99_1024_768/640.webp
 copyrigt: EF
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-03/ef-interview-fb-jpeg-imagine-f8f8f8_afafaf_1200_628/640.webp
 labels:
