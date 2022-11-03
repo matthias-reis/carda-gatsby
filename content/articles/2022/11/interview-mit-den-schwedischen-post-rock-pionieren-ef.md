@@ -66,7 +66,7 @@ Wir haben diese speziellen Geschichten und Landschaften auch mit den Session-Mus
 
 **Anne:** Viele der Bands, die ich in den letzten beiden Jahren interviewt habe, haben mir erzählt, dass sie ihre Songs remote aufgenommen haben, als die Pandemie begann. Irgendwann haben sie sich daran gewöhnt und auf diese Weise weiter gearbeitet, als alles wieder "normal" wurde. Habt Ihr alle Teile Eures Albums gemeinsam im Studio aufgenommen, oder sind einige davon auch "Remote Parts"?
 
-\##"Die Bands waren gezwungen, neue Musik zu schreiben."
+## "Die Bands waren gezwungen, neue Musik zu schreiben."
 
 **Niklas:** Ich glaube, durch die Pandemie und die ganzen abgesagten Touren waren die Bands gezwungen, wieder neue Musik zu schreiben. Plötzlich gab es eine ziemlich lange und unbestimmte Pause, und man hatte Zeit, wieder kreativ zu werden. EF funktioniert remote nicht. Es gibt zu viele Meinungen, und manchmal müssen wir Dinge ausfechten – das können wir nur von Angesicht zu Angesicht tun. Aber natürlich haben wir einige unserer Demos und Ideen auch remote entwickelt. Erik lebt ja in Stockholm und der Rest von uns in Göteborg. Aber wir haben alles gemeinsam aufgenommen.
 
