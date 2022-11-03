@@ -128,7 +128,7 @@ Es war immer sehr einfach, mit Magnus zu arbeiten. Er kennt unsere Musik, er arb
 
 **Anne:** Wenn Ihr nach 20 Jahren Band-Geschichte auf Eure Veröffentlichungen zurückblickt – ich glaube, "We Salute You, You and You!" ist die Nummer 13 auf Eurer Liste – wenn Ihr die Möglichkeit hättet, in der Zeit zurückzureisen. Gibt es etwas, das Ihr ändern würdet?
 
-**Niklas:** Nummer 13? Nun, ich denke, musikalisch haben wir uns nicht viel verändert. Aber natürlich gibt es immer wieder Situationen und Entscheidungen, bei denen es interessant gewesen wäre, zu sehen, wie sie ausgegangen wären, wenn sie eine andere Wendung genommen hätten. Zum Beispiel, als wir uns entschieden haben, nicht 110 Prozent zu geben und uns stattdessen auf ein normales Alltagsleben und eine normale berufliche Laufbahn zu konzentrieren. Auf Nummer sicher zu gehen, mit einem stabilen Einkommen.
+**Niklas:** Nummer 13? Nun, ich denke, musikalisch haben wir uns nicht viel verändert. Aber natürlich gibt es immer wieder Situationen und Entscheidungen, bei denen es interessant gewesen wäre, zu sehen, wie sie ausgegangen wären, wenn sie eine andere Wendung genommen hätten. Zum Beispiel als wir uns entschieden haben, nicht 110 Prozent zu geben und uns stattdessen auf ein normales Alltagsleben und eine normale berufliche Laufbahn zu konzentrieren. Auf Nummer sicher zu gehen, mit einem stabilen Einkommen.
 
 ## Der skandinavische Sound
 
