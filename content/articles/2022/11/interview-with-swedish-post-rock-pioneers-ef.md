@@ -40,7 +40,7 @@ languageLink: /2022/11/ef-interview/
 
 **Niklas:** I believe we're pretty great at the moment. We already finished the album in February/March and have just been waiting to get it out to all of you. Although we're a bit afraid about the release of the new album—it's always terrifying to let new music out to be heard by new, fresh ears. But also a bit stressed out over the tour coming up and the premiere in Berlin on November 17th.
 
-**Anne:** Daniel, you spent a long time in the hospital—I am glad you're doing better, and some of you started your families. When asked by Pelagic Records, you told them, "life happened", which pretty much hits the spot, I think. How did these events change you? And would you say they also influenced your music or the way of making it?
+**Anne:** Daniel, you spent a long time in the hospital—I am glad you're doing better—and some of you started your families. When asked by Pelagic Records, you told them, "life happened", which pretty much hits the spot, I think. How did these events change you? And would you say they also influenced your music or the way of making it?
 
 **Daniel:** Thank you, Anne. I do feel better nowadays. My never-ending hospital stay was due to my mental illness. Like many artists, I've been struggling with depression from an early age. I have been searching for different ways to cope with my anxiety, leading to drug abuse. I later became clean, and when I no longer had a destructive coping strategy, I just collapsed. I ended up at the hospital and stayed there for quite some time. It took me years to get my pieces together, with a lot of medical support. I will always continue working on myself to keep my mind healthy. 
 
