@@ -4,7 +4,7 @@ slug: ef-interview-en
 typeName: Interview
 title: Interview with Swedish Post-Rock Pioneers EF
 subTitle: '"Our new Album just happened"'
-seoTitle: Interview post-rock band EF about the new album
+seoTitle: Interview with post-rock band EF about the new album
 description: Want to know more about the new EF album "We Salute You, You and
   You!"? Read my interview!
 excerpt: EF are back, and they brought a new album with them! After their
