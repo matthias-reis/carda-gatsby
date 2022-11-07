@@ -39,7 +39,7 @@ language: de
 
 Weil ich mich selbst gerade aus gesundheitlichen Gründen in der Muskelaufbauphase befinde, achte ich im Moment verstärkt darauf, genug Protein zu mir zu nehmen. Protein – sprich Eiweiß – spielt eine entscheidende Rolle beim Muskelaufbau. 
 
-Allein durch Euer tägliches Training wird es Euch schwerfallen, Muskelmasse aufzubauen, denn: Protein ist die Basis für Muskeln und ist auch für die Regeneration besonders wichtig.
+Allein durch Euer tägliches Training wird es Euch schwerfallen, Muskelmasse aufzubauen, denn: Protein ist die Basis für Muskeln und auch für die Regeneration besonders wichtig.
 
 Strengt Ihr Euch an oder – hoffentlich ist das nie der Fall – verletzt Euch, nutzt der Körper das Eiweiß zu Regeneration. Den Muskelkater nach dem Training kann man als Hinweis des Körpers sehen – "Bitte gib mir Protein". Das Eiweiß repariert die Mikroverletzungen in den Muskelzellen und hilft ihnen, sich weiter auszubilden. Nach einem schweißtreibenden Workout ist ein Protein-Shake, ein leckerer Bohnen-Salat oder ein Fitness-Riegel also durchaus eine gute Idee.
 
