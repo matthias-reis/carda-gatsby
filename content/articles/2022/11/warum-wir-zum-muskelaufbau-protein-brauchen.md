@@ -83,13 +83,13 @@ Grundsätzlich gilt: Je größer die Muskelmasse ist, die Ihr zulegen wollt, des
 
 ---
 
-## Hinweis zu den veganen Protein-Produkten in diesem Artikel
+## Hinweise zu den veganen Protein-Produkten in diesem Artikel
 
 In freundlicher Kooperation mit Nutri Plus teste ich gerade die veganen Produkte des Herstellers und möchte sie daher an dieser Stelle verlinken. Ihr könnt Sie auch auf meinen Bildern sehen. 
 
 Sie sollen dem Körper alles geben, dass er nach einem intensiven Training braucht. Die veganen Proteinprodukte sollen das Wachstum und den Erhalt der Muskeln sicherstellen. 
 
-Im Test habe ich das vegane 6K Proteinpulver[https://tidd.ly/3DKusXO] in allen Geschmacksrichtungen (mit der praktischen Kennenlern-Box[https://tidd.ly/3Uh1dCS] könnt Ihr alle mal probieren, bevor Ihr Euch für eine größere Menge entscheidet) sowie die V-Bar Vegan Protein Riegel[https://tidd.ly/3FTHIvS] .
+Im Test habe ich das vegane [6K Proteinpulver](https://tidd.ly/3DKusXO) in allen Geschmacksrichtungen. Mit der praktischen [Kennenlern-Box](https://tidd.ly/3Uh1dCS) könnt Ihr alle mal probieren, bevor Ihr Euch für eine größere Menge entscheidet) sowie die [V-Bar Vegan Protein Riegel](https://tidd.ly/3FTHIvS).
 
 Meine Favoriten sind bislang das Shake in der Geschmacksrichtung [Erdbeere](https://tidd.ly/3WAHUX3) und der Riegel. Er kommt auf stolze 16 g Eiweiß und 17 g Ballaststoffen pro 50-Gramm-Riegel. Das ist im Vergleich mit anderen vergleichbaren Produkten richtig viel. Er schmeckt außerdem wirklich gut und erinnert mich ein bisschen an ein Produkt, das ich als Kind manchmal heimlich genascht habe. An den Namen kann ich mich leider nicht mehr erinnern.
 
