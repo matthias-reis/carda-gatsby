@@ -105,7 +105,7 @@ Im Gegensatz zu herkömmlichen Proteinshakes ist der Zuckeranteil nur halb so ho
 
 Die Riegel und Shakes sind die ersten Protein-Präparate, die ich zu mir nehme und ich muss sagen, dass ich positiv überrascht bin. Der Sättigungseffekt ist enorm und die Shakes und Riegel schmecken mir ausgezeichnet.
 
-Alle Produkte im [Nutri Plus Onlineshop](https://tidd.ly/3DOIrvR) sind zu 100 Prozent vegan, laktosefrei und auch für Allergiker⋆innen geeignet. Im Nutri Plus Shop findet Ihr gesüßte und ungesüßte sowie glutenfreie Produkte.
+Alle Produkte im [Nutri Plus Onlineshop](https://tidd.ly/3DOIrvR) sind zu 100 Prozent vegan, laktosefrei und auch für Allergiker⋆innen geeignet. Ihr findet dort auch ungesüßte sowie glutenfreie Produkte.
 
 ---
 
