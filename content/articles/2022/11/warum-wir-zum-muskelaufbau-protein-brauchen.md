@@ -51,9 +51,9 @@ Die folgenden veganen Lebensmittel enthalten besonders viel Protein:
 
 - Hülsenfrüchte wie Sojabohnen, Linsen, [Erbsen](/2020/06/erbsen/), Kichererbsen und die verschiedenen Bohnenarten (23 Gramm Eiweiß pro 100 Gramm getrocknete Linsen)
 - Soja (38 Gramm Eiweiß pro 100 Gramm getrockneter Sojabohnen)
-- Tofu (8 Gramm Eiweiß pro 100 Gramm Tofu)
-- Tempeh
-- Seitan
+- Tofu (19 Gramm Eiweiß pro 100 Gramm Räuchertofu)
+- Tempeh (19 Gramm Eiweiß pro 100 Gramm Tempeh)
+- Seitan (75 Gramm Eiweiß pro 100 Gramm Seitan)
 - Nüsse (z. B. Walnüsse, Haselnüsse, Erdnüsse, Cashews) – 25 Gramm Eiweiß pro 100 Gramm Erdnüsse
 - Süßlupinen (gibt es auch als Pulver oder Mehl) – 40 Gramm Eiweiß pro 100 Gramm
 - Hanfsamen (20 Gramm Eiweiß pro 100 Gramm Hanfsamen)
