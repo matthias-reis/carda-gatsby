@@ -45,7 +45,9 @@ Strengt Ihr Euch an oder – hoffentlich ist das nie der Fall – verletzt Euch,
 
 ## Veganes Protein
 
-Pflanzliches Protein ist darum so unerlässlich, weil Ihr im Gegensatz zu tierischem Protein unter anderem kein schädliches Cholesterin oder ungesunde Transfette damit zu Euch nehmt. Hier ein Beispiel: 100 Gram Ei enthalten neben rund 13 Gramm etwa 479 Milligram Cholesterin. Pro Ei nehmt Ihr somit etwa 280 Milligram Cholesterin zu Euch. Die folgenden veganen Lebensmittel enthalten besonders viel Protein:
+Pflanzliches Protein ist darum so unerlässlich, weil Ihr im Gegensatz zu tierischem Protein unter anderem kein schädliches Cholesterin oder ungesunde Transfette damit zu Euch nehmt. Hier ein Beispiel: 100 Gram Ei enthalten neben rund 13 Gramm etwa 479 Milligram Cholesterin. Pro Ei nehmt Ihr somit etwa 280 Milligram Cholesterin zu Euch. 
+
+Die folgenden veganen Lebensmittel enthalten besonders viel Protein:
 
 - Hülsenfrüchte wie Sojabohnen, Linsen, [Erbsen](/2020/06/erbsen/), Kichererbsen und die verschiedenen Bohnenarten (23 Gramm Eiweiß pro 100 Gramm getrocknete Linsen)
 - Soja (38 Gramm Eiweiß pro 100 Gramm getrockneter Sojabohnen)
