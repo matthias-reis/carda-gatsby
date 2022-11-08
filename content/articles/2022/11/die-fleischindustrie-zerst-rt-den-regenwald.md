@@ -8,8 +8,9 @@ seoTitle: Darum zerstört die Fleischindustrie den Regenwald
 description: Die Fleischindustrie zerstört den Regenwald. Hier erfahrt Ihr alles
   über die neueste Studie.
 excerpt: "Ein neuer Bericht fördert die traurige Tatsache jetzt erneut ans
-  Tageslicht: Fleisch zerstört den Regenwald. Oder genauer formuliert: Durch den
-  Anbau von Futter-Soja für die Fleischindustrie wird der Regenwald zerstört."
+  Tageslicht: Fleisch zerstört den Regenwald. Oder genauer ausgedrückt: Durch
+  den Anbau von Futter-Soja für die Fleischindustrie wird der Regenwald
+  zerstört."
 image: https://storage.googleapis.com/cardamonchai-media/2022-11-08/fleischindustrie-regenwald-jpeg-imagine-182808_606f4e_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-08/fleischindustrie-regenwald-fb-jpeg-imagine-182808_61714e_1200_628/640.webp
 labels:
@@ -30,7 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Ein neuer Bericht fördert die traurige Tatsache jetzt erneut ans Tageslicht: Fleisch zerstört den Regenwald. Oder genauer formuliert: Durch den Anbau von Futter-Soja für die Fleischindustrie wird der Regenwald zerstört.**
+**Ein neuer Bericht fördert die traurige Tatsache jetzt erneut ans Tageslicht: Fleisch zerstört den Regenwald. Oder genauer ausgedrückt: Durch den Anbau von Futter-Soja für die Fleischindustrie wird der Regenwald zerstört.**
 
 Das Papier IOP Science veröffentlichte Paper kommt zu dem Schluss, dass die Zusagen, die Abholzung von Waldgebieten im Amazonasgebiet herunterzufahren, fast nichts bewirkt haben. Die flächendeckende Rodung zur Schaffung von Ackerflächen für die Futtergewinnung für Rinder, Schweine und andere Tiere in der Landwirtschaft schreitet weiter ungebremst voran.
 
