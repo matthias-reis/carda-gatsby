@@ -63,7 +63,7 @@ Kurz gesagt: Der Regenwald stirbt und wenn sich die Mächtigen dieser Erde nicht
 
 ## Zerstört Dein Tofu nicht auch den Regenwald?
 
-Die Frage, ob das Tofu, das ich als vegan lebender Mensch gelegentlich konsumiere, nicht auch zur Abholzung des Regenwaldes beiträgt, kann ich ganz klar mit Nein antworten. Natürlich kommt es auch hier darauf an, welches Tofu (oder andere Sojaprodukte) man kauft. Die hierzulande verkauften Soja-Lebensmittel werden jedoch zum größten Teil hierzulande beziehungsweise in Europa angebaut.
+Die Frage, ob das Tofu, das ich als vegan lebender Mensch gelegentlich konsumiere, nicht auch zur Abholzung des Regenwaldes beiträgt, kann ich ganz klar mit Nein beantworten. Natürlich kommt es auch hier darauf an, welches Tofu (oder andere Sojaprodukte) man kauft. Die hierzulande verkauften Soja-Lebensmittel werden jedoch zum größten Teil hierzulande beziehungsweise in Europa angebaut.
 
 Der größte Teil der weltweit angebauten Sojabohnen (wir sprechen hier von rund 80 Prozent) wird einzig und allein für die Herstellung von Futter für Rinder, Schweine, Geflügel und Fisch angebaut. Wiederum ein großer Teil hiervon stammt aus den oben erwähnten Gebieten. Wer Fleisch, Wurst, Milch, Käse, Eier oder Fisch konsumiert, konsumiert somit auch das Soja aus dem Regenwald.
 
