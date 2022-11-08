@@ -69,6 +69,6 @@ Der größte Teil der weltweit produzierten Sojabohnen (wir sprechen hier von ru
 
 Forschende schätzen, dass jährlich 4.800 Quadratkilometer Regenwald gerodet werden, um die steigende Nachfrage in der Tierhaltung nach Soja zu befriedigen.
 
-Das Foto habe ich [im Eden Project in England](/2009/05/eden-project/) aufgenommen. Dort haben Forschende und Naturschützer⋆innen einen Regenwald unter eine Kuppel angelegt. Hoffen wir, das dies nicht schon bald die einzige Möglichkeit ist, wenigsten einen Teil der vielfältige Flora und Fauna der schönsten Orte unseres Planeten zu erhalten.
+Das Foto habe ich [im Eden Project in England](/2009/05/eden-project/) aufgenommen. Dort haben Forschende und Naturschützer⋆innen einen Regenwald unter eine Kuppel angelegt. Hoffen wir, dass dies nicht schon bald die einzige Möglichkeit ist, wenigsten einen Teil der vielfältige Flora und Fauna der schönsten Orte unseres Planeten zu erhalten.
 
 [^1]: [Letter "Gaps in adoption and implementation limit the current and potential effectiveness of zero-deforestation supply chain policies for soy", IOP Science](https://iopscience.iop.org/article/10.1088/1748-9326/ac97f6)
