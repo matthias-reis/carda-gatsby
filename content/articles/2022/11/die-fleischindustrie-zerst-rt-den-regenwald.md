@@ -41,7 +41,7 @@ Trotz der weltweiten Bemühungen geht der Waldverlust weiter. Täglich fallen we
 
 Vor allem, da es in Brasilien bislang keine staatliche Forstverwaltung gibt, wäre dieser Hebel jedoch besonders wichtig. Die Commitments können jedoch beim derzeitigen Tempo kaum etwas für den Schutz der biodiversen Ökosysteme ausrichten. Die Bemühungen in diese Richtung kommen schlichtweg zu spät und die Verfahren zur Einführung sind zu kompliziert, um sofort etwas zu bewirken.
 
-Die Autor⋆innen der Studie nutzen bei ihrer Arbeit Zeitreihen mit räumlich expliziten Daten über die Rohstoffbeschaffung von Unternehmen und ZDCs. Damit konnten sie die aktuellen und potenziellen Auswirkungen von ZDCs innerhalb von Soja-Lieferketten im Hinblick auf den Waldverlust und die biologische Vielfalt bewerten.
+Die Autor⋆innen der Studie nutzten bei ihrer Arbeit Zeitreihen mit räumlich expliziten Daten über die Rohstoffbeschaffung von Unternehmen und ZDCs. Damit konnten sie die aktuellen und potenziellen Auswirkungen von ZDCs innerhalb von Soja-Lieferketten im Hinblick auf den Waldverlust und die biologische Vielfalt bewerten.
 
 ## "Unternehmen müssen auf die Missstände aufmerksam machen"
 
