@@ -37,7 +37,7 @@ Das von IOP Science[^1] veröffentlichte Paper kommt zu dem Schluss, dass die Zu
 
 ## Die Zerstörung des Regenwaldes geht weiter
 
-Trotz der weltweiten Bemühungen geht der Waldverlust weiter. Täglich fallen weitere Gebiete den Sägen zum Opfer. Zwar hätte die Verpflichtung von Unternehmen zur Vermeidung von Entwaldung in ihren Lieferketten in sogenannten Supply Chain Commitments(ZDC) das Potenzial, die Entwaldung zumindest etwas einzudämmen, diese sind jedoch auf bestimmte Standorte und Lieferketten beschränkt. 
+Trotz der weltweiten Bemühungen geht der Waldverlust weiter. Täglich fallen weitere Gebiete den Sägen zum Opfer. Zwar hätte die Verpflichtung von Unternehmen zur Vermeidung von Entwaldung in ihren Lieferketten in sogenannten Supply Chain Commitments (ZDC) das Potenzial, die Entwaldung zumindest etwas einzudämmen, diese sind jedoch auf bestimmte Standorte und Lieferketten beschränkt. 
 
 Vor allem, dass es in Brasilien bislang keine staatliche Forstverwaltung gibt, wäre dieser Hebel jedoch besonders wichtig. Die Commitments können jedoch beim derzeitigen Tempo kaum etwas für den Schutz der biodiversen Ökosysteme ausrichten. Die Bemühungen in diese Richtung kommen schlichtweg zu spät und die Verfahren zur Einführung sind zu kompliziert, um sofort etwas zu bewirken.
 
