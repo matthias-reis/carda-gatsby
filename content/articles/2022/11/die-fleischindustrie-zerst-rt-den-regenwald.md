@@ -33,7 +33,7 @@ language: de
 ---
 **Ein neuer Bericht fördert die traurige Tatsache jetzt erneut ans Tageslicht: Fleisch zerstört den Regenwald. Oder genauer ausgedrückt: Durch den Anbau von Futter-Soja für die Fleischindustrie wird der Regenwald zerstört.**
 
-Das Papier IOP Science veröffentlichte Paper kommt zu dem Schluss, dass die Zusagen, die Abholzung von Waldgebieten im Amazonasgebiet herunterzufahren, fast nichts bewirkt haben. Die flächendeckende Rodung zur Schaffung von Ackerflächen für die Futtergewinnung für Rinder, Schweine und andere Tiere in der Landwirtschaft schreitet weiter ungebremst voran.
+Das von IOP Science[^1] veröffentlichte Paper kommt zu dem Schluss, dass die Zusagen, die Abholzung von Waldgebieten im Amazonasgebiet herunterzufahren, fast nichts bewirkt haben. Die flächendeckende Rodung zur Schaffung von Ackerflächen für die Futtergewinnung für Rinder, Schweine und andere Tiere in der Landwirtschaft schreitet weiter ungebremst voran.
 
 ## Die Zerstörung des Regenwaldes geht weiter
 
@@ -71,4 +71,4 @@ Forschende schätzen, dass jährlich 4.800 Quadratkilometer Regenwald gerodet we
 
 Das Foto habe ich [im Eden Project in England](/2009/05/eden-project/) aufgenommen. Dort haben Forschende und Naturschützer⋆innen einen Regenwald unter eine Kuppel angelegt. Hoffen wir, das dies nicht schon bald die einzige Möglichkeit ist, wenigsten einen Teil der vielfältige Flora und Fauna der schönsten Orte unseres Planeten zu erhalten.
 
-https://iopscience.iop.org/article/10.1088/1748-9326/ac97f6
+[^1]: [Letter "Gaps in adoption and implementation limit the current and potential effectiveness of zero-deforestation supply chain policies for soy", IOP Science](https://iopscience.iop.org/article/10.1088/1748-9326/ac97f6)
