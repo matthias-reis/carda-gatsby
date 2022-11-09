@@ -12,9 +12,9 @@ excerpt: Paul Seidel hat mit Fern vor Kurzem sein erstes offizielles Album
   das Zusammenspiel aus elektronischen Elementen und Instrumenten und verbindet
   dabei die Welten von Pop und Industrial sehr geschickt miteinander. Ich hatte
   jetzt die Chance, ihn zu interviewen.
-image: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-fb-jpeg-imagine-080808_5c5c5c_1200_628/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-jpeg-imagine-080808_606060_1024_768/640.webp
 copyrigt: Paul Seidel
-ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-jpeg-imagine-080808_606060_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-fb-jpeg-imagine-080808_5c5c5c_1200_628/640.webp
 labels:
   - Fern
   - The Ocean
