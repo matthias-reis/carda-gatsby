@@ -15,7 +15,7 @@ image: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-
 copyrigt: Paul Seidel
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-fb-jpeg-imagine-080808_5c5c5c_1200_628/640.webp
 labels:
-  - Fern
+  - FERN
   - The Ocean
   - Drummer
   - Interview
