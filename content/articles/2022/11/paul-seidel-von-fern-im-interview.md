@@ -2,9 +2,9 @@
 date: 2022-11-09T14:43:32.680Z
 slug: paul-seidel-fern-the-ocean-interview
 typeName: Interview
-title: Paul Seidel von Fern im Interview
+title: Paul Seidel von FERN im Interview
 subTitle: "Die zärtliche Seite von Heavy Music "
-seoTitle: Interview mit Paul Seidel von Fern & The Ocean
+seoTitle: Interview mit Paul Seidel von FERN & The Ocean
 description: Ihr wollt mehr über das FERN Album "Intersubjective" erfahren? Lest
   mein Interview mit FERN Gründer und The Ocean Drummer Paul Seidel!
 excerpt: Paul Seidel hat mit FERN vor Kurzem sein erstes offizielles Album
@@ -16,7 +16,7 @@ image: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-
 copyrigt: Paul Seidel
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-fb-jpeg-imagine-080808_5c5c5c_1200_628/640.webp
 labels:
-  - Fern
+  - FERN
   - The Ocean
   - Drummer
   - Interview
