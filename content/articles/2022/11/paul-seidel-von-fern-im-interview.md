@@ -52,7 +52,7 @@ languageLink: /2022/11/paul-seidel-fern-the-ocean-interview-en/
 
 **Anne:** Du hast ja 2017 bereits eine EP mit FERN veröffentlicht. Ein Album war schon länger in Planung. Was hat dazu geführt, dass Du es gerade jetzt in die Tat umgesetzt hast?
 
-**Paul:** Die ganze Corona-Geschichte wurde ja mittlerweile zur Genüge ausgeschlachtet, allerdings ist das Album natürlich auch aufgrund der Zwangspause im Live-Betrieb wieder in den Fokus gerückt, da ich endlich mal Zeit hatte in mich zu gehen, Ruhe zu finden und nicht nur zwischen den Stühlen an Ideen zu basteln. Wenn man so viel auf Tour ist wie wir mit The Ocean, dann kommen kreative Prozesse oft zu kurz oder man ist gelegentlich mental nicht auf der Höhe, um etwas konstruktiv Kreatives in Gang zu setzen.
+**Paul:** Die ganze Corona-Geschichte wurde ja mittlerweile zur Genüge ausgeschlachtet, allerdings ist das Album natürlich auch aufgrund der Zwangspause im Live-Betrieb wieder in den Fokus gerückt, da ich endlich mal Zeit hatte in mich zu gehen, Ruhe zu finden und nicht nur zwischen den Stühlen an Ideen zu basteln. Wenn man so viel auf Tour ist, wie wir mit The Ocean, kommen kreative Prozesse oft zu kurz oder man ist gelegentlich mental nicht auf der Höhe, um etwas konstruktiv Kreatives in Gang zu setzen.
 
 **Anne:** Worum geht es im ersten Song "առաջանալ"? Du hast ihn mit Hayk Karoyi aufgenommen. Ein Freund von Dir?
 
