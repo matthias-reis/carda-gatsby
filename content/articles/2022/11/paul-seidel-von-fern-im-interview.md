@@ -141,3 +141,5 @@ jeden Fall etwas, das mir Kraft gibt und dabei hilft, mental auf der Höhe zu bl
 **Anne:** Nochmal vielen Dank für das Interview! Es war mir eine Ehre und hat mir großen Spaß gemacht!
 
 **Paul:** Ebenso! Ich hoffe, Deinen Leser⋆innen geht es ebenso.
+
+[Mein Interview mit The Ocean Sänger und Gründer Robin Staps könnt Ihr hier lesen](/2020/09/the-ocean-robin-staps-interview/).
