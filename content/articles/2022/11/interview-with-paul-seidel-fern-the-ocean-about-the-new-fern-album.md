@@ -101,7 +101,7 @@ It feels good to perceive this tender side, translating it directly into somethi
 
 **Anne:** You wrote that "Intersubjective" is about history, the present, the future and what we can make of it. Do you deal with this subject a lot?
 
-## "Time fascinates me"
+## "Our time fascinates me"
 
 ![Paul Seidel at the Drums. Picture: Paul Seidel, privat](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-tour-picture-jpeg-imagine-080808_787878_1024_768/640.webp "Paul Seidel at the Drums. Picture: Paul Seidel, privat")
 
