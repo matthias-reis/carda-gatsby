@@ -114,6 +114,7 @@ Ich weigere mich, mich der einseitigen Destruktivität und dystopischen Szenarie
 **Paul:** Das wird sich in der Zukunft ergeben.
 
 **Anne:** Deine Musik ist von Kontrasten geprägt. Licht und Dunkelheit, Härte und Leichtigkeit, Pop und Industrial. Ist das der Lauf der Dinge, das Leben an sich?
+
 **Paul:** Die Dinge verbinden sich und zerbrechen wieder. Aus Zerbrochenem entsteht wiederum komplexere Einheit. Und je detaillierter die Welt wird, desto schwerer wird auch ihr Wirken. Das Leben ist ja nur eine Facette einer Realität, die sich nicht auf ja und nein vereinfachen lässt, sondern in der ja auch nein und nein auch ja ist.
 
 **Anne:** Die Geschichte der Menschheit – Was, denkst Du, war zuerst da: Gesang oder Percussion?
