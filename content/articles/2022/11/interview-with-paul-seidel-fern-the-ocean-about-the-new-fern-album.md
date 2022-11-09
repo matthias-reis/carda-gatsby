@@ -140,3 +140,5 @@ I refuse to give in to one-sided destructiveness and dystopian scenarios, prefer
 **Anne:** I can very much relate to that! Thanks again for the interview! It was an honour and I enjoyed talking to you a lot!
 
 **Paul:** Likewise! I hope your readers feel the same way.
+
+[Please check out my interview with The Ocean Founder Robin Staps](https://cardamonchai.com/2020/09/the-ocean-robin-staps-interview-en).
