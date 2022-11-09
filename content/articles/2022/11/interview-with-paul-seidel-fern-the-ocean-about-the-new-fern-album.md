@@ -109,7 +109,7 @@ It feels good to perceive this tender side, translating it directly into somethi
 
 I refuse to give in to one-sided destructiveness and dystopian scenarios, preferring to insist that life has—so far—always found a way to adapt to the most adverse circumstances.
 
-**Anne:** What are your plans for FERN?
+**Anne:** What are your future plans for FERN?
 
 **Paul:** That'll come up in the future.
 
