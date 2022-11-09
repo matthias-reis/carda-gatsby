@@ -138,7 +138,7 @@ Ich weigere mich, mich der einseitigen Destruktivität und dystopischen Szenarie
 **Paul:** Ich würde gerne ganz positiv antworten, aber mir fällt es momentan nicht so leicht, mich auf Dinge zu freuen. Demnach möchte ich auch nicht vortäuschen, dass es mir besonders gut geht. Ich freue mich allerdings auf kleine Dinge, wie zum Beispiel Yoga am Morgen, den Kaffee zum Frühstück oder die Möglichkeit abends für ein paar Stunden zu lesen. Das zu Hause sein ist auf
 jeden Fall etwas, das mir Kraft gibt und dabei hilft, mental auf der Höhe zu bleiben.
 
-**Anne:** Nochmal vielen Dank für das Interview! Es war mir eine Ehre und hat mir großen Spaß gemacht!
+**Anne:** Mein Yoga am Morgen ist für mich auch eine ganz wichtige Energiequelle. Ich wünsche Dir alles Gute! Nochmal vielen Dank für das Interview! Es war mir eine Ehre und hat mir großen Spaß gemacht!
 
 **Paul:** Ebenso! Ich hoffe, Deinen Leser⋆innen geht es ebenso.
 
