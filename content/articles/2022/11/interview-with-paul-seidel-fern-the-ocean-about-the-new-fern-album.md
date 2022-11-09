@@ -137,7 +137,7 @@ I refuse to give in to one-sided destructiveness and dystopian scenarios, prefer
 
 **Paul:** I'd like to answer positively, but it's not easy for me to look forward to things now. So, I would rather not pretend that I'm doing remarkably well. However, I look forward to little things, like yoga in the morning, coffee for breakfast or the chance to read for a few hours in the evening. Being at home is definitely something that gives me strength and helps me to stay mentally on top of things.
 
-**Anne:** I can very much relate to that! Thanks again for the interview! It was an honour and I enjoyed talking to you a lot!
+**Anne:** I can very much relate to that! My morning yoga sessions are also a very important source of energy for me. All the best for you!Thanks again for the interview! It was an honour and I enjoyed talking to you a lot!
 
 **Paul:** Likewise! I hope your readers feel the same way.
 
