@@ -102,7 +102,7 @@ Es tut gut, diese zärtliche Seite wahrzunehmen und in ihrer Direktheit in etwas
 
 **Anne:** Du schreibst, es geht auf "Intersubjective" um die Geschichte, die Gegenwart, die Zukunft und was wir möglicherweise daraus machen können. Beschäftigst Du Dich viel mit diesem Thema?
 
-## "Die Zeit fasziniert mich"
+## "Unsere Zeit fasziniert mich"
 
 ![Paul Seidel an den Drums. Foto: Paul Seidel privat](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-tour-picture-jpeg-imagine-080808_787878_1024_768/640.webp "Paul Seidel an den Drums. Foto: Paul Seidel privat")
 
