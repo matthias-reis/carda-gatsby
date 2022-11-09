@@ -41,7 +41,7 @@ languageLink: /2022/11/paul-seidel-fern-the-ocean-interview/
 
 **Paul:** Hey Anne, thanks for the invitation and the compliment! I'm delighted. That's actually not a matter of course. The whole process of making "Intersubjective" was such a constant balancing act between self-discovery and healthy experimentation. So, it feels good that listening to the finished album brings people joy. Moreover, I don't feel like I should have invested another ten years.
 
-**Anne:** A lot is going on at the moment. You just returned from the tour with The Ocean, which will continue in a few weeks. On the side, you released your album with FERN and took care of all the promo and preparation. Is there any time left for a break here and there?
+**Anne:** A lot is going on at the moment. You just returned from the tour with The Ocean, which will continue in a few days. On the side, you released your album with FERN and took care of all the promo and preparation. Is there any time left for a break here and there?
 
 ## "I've learned to recharge my batteries"
 
