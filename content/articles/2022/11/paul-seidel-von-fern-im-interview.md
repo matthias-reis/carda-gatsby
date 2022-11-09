@@ -42,7 +42,7 @@ languageLink: /2022/11/paul-seidel-fern-the-ocean-interview-en/
 
 **Paul:** Hey Anne, danke für die Einladung und die Blumen! Ich bin sehr zufrieden, das ist eigentlich nicht selbstverständlich. Der ganze Entstehungsprozess war so ein stetiger Balanceakt zwischen Selbstfindung und gesunder Experimentierfreude, demnach fühlt es sich schon gut an, dass das Anhören des fertigen Albums dann auch Spaß macht und ich nicht das Gefühl habe, dass ich noch zehn weitere Jahre hätte, investieren sollen.
 
-**Anne:** Es ist ganz schön viel los im Moment. Du kommst gerade von der Tour mit The Ocean zurück, die in wenigen Wochen auch schon wieder weitergeht. Nebenbei hast Du Dein Album mit FERN veröffentlicht und Dich um die ganze Promo und Vorbereitung gekümmert. Bleibt da überhaupt noch Zeit für eine Verschnaufpause?
+**Anne:** Es ist ganz schön viel los im Moment. Du kommst gerade von der Tour mit The Ocean zurück, die in wenigen Tagen auch schon wieder weitergeht. Nebenbei hast Du Dein Album mit FERN veröffentlicht und Dich um die ganze Promo und Vorbereitung gekümmert. Bleibt da überhaupt noch Zeit für eine Verschnaufpause?
 
 ## "Ich habe gelernt, meine Batterien zwischendurch aufzuladen"
 
