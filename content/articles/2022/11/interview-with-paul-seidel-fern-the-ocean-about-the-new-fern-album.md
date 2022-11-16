@@ -3,7 +3,7 @@ date: 2022-11-09T15:10:37.964Z
 slug: paul-seidel-fern-the-ocean-interview-en
 typeName: Interview
 title: Interview with Paul Seidel (FERN, The Ocean) about the new FERN Album
-subTitle: The tender Side of heavy Music
+subTitle: The Tender Side of Heavy Music
 seoTitle: "Interview: Paul Seidel (FERN, The Ocean) about the new FERN Album"
 description: Want to know more about the new FERN album "Intersubjective"? Read
   my interview with FERN founder and The Ocean Drummer Paul Seidel.
