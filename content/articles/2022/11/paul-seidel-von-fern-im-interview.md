@@ -61,7 +61,7 @@ zu lassen, den Fokus vom Außen auf das Innen zu richten.
 
 **Anne:** Welche Künstler*innen hast Du Dir neben Hayk Karoyi für Dein Album ins Boot geholt? Wen bekommen wir da alles zu hören? Oder ist FERN ansonsten dieses Mal Paul Seidel pur?
 
-## "Casper war einer der Ersten, die "I Am A Transient" zu hören bekamen"
+## "Mit Jan Kerscher sind viele Sounds und Details entstanden"
 
 ![Paul Seidel an den Drums. Foto: Paul Seidel privat](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-drums-jpeg-imagine-080808_555555_1024_768/640.webp "Paul Seidel an den Drums. Foto: Paul Seidel privat")
 
