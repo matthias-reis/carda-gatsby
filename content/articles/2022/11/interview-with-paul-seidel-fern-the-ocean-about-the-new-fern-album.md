@@ -61,7 +61,7 @@ The album's opener is meant to reflect the idea of digital capture and the simul
 
 **Anne:** Are there any other guest artists on your album besides Hayk Karoyi? Or is FERN pure Paul Seidel this time?
 
-## Casper was among the first to hear "I Am A Transient"
+## "Jan Kerscher an I created many sounds togehter"
 
 ![Paul Seidel at the Drums. Picture: Paul Seidel, private](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-drums-jpeg-imagine-080808_555555_1024_768/640.webp "Paul Seidel at the Drums. Picture: Paul Seidel, private")
 
