@@ -44,7 +44,7 @@ In einer zehnminütigen Prozedur wird den Stuten Blut entnommen. Ein Mensch stec
 
 Bereits 2015 filmte das Team der Tierrechtsorganisation Animal Welfare Foundation[^1] auf einer argentinischen Pferdeblutfarm über fünf Stunden lang eine komplette Blutentnahmesequenz. Mehreren der 350 Stuten wird während der Misshandlungen mit Holzprügeln ins Gesicht geschlagen. Allein Animal Welfare besitzt rund 30 Minuten Filmmaterial, die ausschließlich derartige Prügel-Szenen zeigen. Die Pferde werden verprügelt, um sie nach dem Abzapfen ihres Blutes wieder zu vertreiben.
 
-# Tierausbeutung auf Blutfarmen 
+## Tierausbeutung auf Blutfarmen 
 
 Als weltmarktführendes Unternehmen für den Export von Pferdeblut-Produkten gilt die Firma Syntex. Sie hält zu diesem Zweck tausende von Stuten. Sie werden so häufig wie möglich befruchtet, denn nur, wenn sie schwanger sind, kann ihnen das wertvolle Blutserum abgezapft werden, aus dem anschließend das PMSG extrahiert wird.
 
