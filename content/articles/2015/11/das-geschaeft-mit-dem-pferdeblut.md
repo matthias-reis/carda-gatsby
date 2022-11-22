@@ -82,7 +82,7 @@ Ein Zusammenschluss aus 14 Tierrechtsorganisationen hat sich mit der Eurogroup f
 
 > "Aus der heutigen Perspektive, ist PMSG ein Mittel mit der Ideologie aus den 1980er Jahren. Man hat das Hormon damals dazu eingesetzt, die Bevölkerung mit billigem Schweinefleisch zu versorgen. 
 > 
-> Heute sind die massiven negativen Effekte der Massentierhaltung im Hinblick auf das Wohl der Tiere, die menschliche Gesundheit, das Klima und die Umwelt den meisten Menschen bewusst. PMSG ist ein Booster für eine fehlgeleitete Landwirtschaftspolitik. Ein Ban von PMSG würde der Logik des europäischen Green Deal und seiner Farm to Fork Strategie folgen."
+> Heute sind die massiven, negativen Effekte der Massentierhaltung im Hinblick auf das Wohl der Tiere, die menschliche Gesundheit, das Klima und die Umwelt den meisten Menschen bewusst. PMSG ist ein Booster für eine fehlgeleitete Landwirtschaftspolitik. Ein Ban von PMSG würde der Logik des europäischen Green Deal und seiner Farm to Fork Strategie folgen."
 
 Anfang des Jahres geriet auch Island als Betreiber von 119 Blutfarmen ins Visier der Aktivist⋆innen. Sie forderten das Land dazu auf, die grausame Tierquälerei zu beenden, bei der dort jedes Jahr mehr als 5.000 halb wild lebende Pferde ausgebeutet werden. Das Europäische Parlament unterstützte die Forderungen nach einem Verbot und die Petition an die EU-Kommission.
 
