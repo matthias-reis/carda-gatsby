@@ -102,5 +102,5 @@ sagt sie.
 
 [^3]: [Eurogroup for Animals – "Cruel hormone production in South America for European animal breeding farms"](https://www.eurogroupforanimals.org/news/cruel-hormone-production-south-america-european-animal-breeding-farms)
 
-Bilder: Wikimedia Commons
+**Bilder:** Wikimedia Commons
 
