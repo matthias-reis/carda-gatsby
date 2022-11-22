@@ -56,7 +56,7 @@ Das Geschäft mit dem Stutenhormon ist mangels Gesetzen nicht kontrollierbar. Di
 
 ![Dünnes Pferd](https://storage.googleapis.com/cardamonchai-media/2021-11-20/skinny-horse-5910370980-jpg-imagine-986858_9e7e78_467_350/640.webp 'Dünnes Pferd')
 
-Bei der Ferkelzucht werden die PMSG-Präparate zur Brunftstimulation eingesetzt. Der Zyklus der Sauen verkürzt sich durch die Gabe. Rund 95 Prozent der behandelten Schweine können dadurch kurz nach dem Wurf schon wieder brünstig und damit wesentlich schneller wieder schwanger werden.
+Bei der Ferkelzucht werden die PMSG-Präparate zur Brunststimulation eingesetzt. Der Zyklus der Sauen verkürzt sich durch die Gabe. Rund 95 Prozent der behandelten Schweine können dadurch kurz nach dem Wurf schon wieder brünstig und damit wesentlich schneller wieder schwanger werden.
 
 Es ist ein schmutziges Geschäft, das es leider bis heute nicht komplett ans Licht der Öffentlichkeit geschafft hat. In seiner Grausamkeit ist es kaum zu überbieten. Höchste Zeit, dem einen Riegel vorzuschieben und so schnell wie möglich die notwendigen Gesetze zu verabschieden.
 
