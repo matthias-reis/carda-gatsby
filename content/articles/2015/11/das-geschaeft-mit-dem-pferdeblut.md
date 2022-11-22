@@ -72,7 +72,7 @@ Nachsorge für die Tiere gibt es keine. Die geschwächten und schwer verletzten 
 
 Laut AWF werden den tragenden Pferden 12 Tage lang Blut pro Woche rund zehn Liter Blut entnommen. Anschließend werden ihre Fohlen abgetrieben, wenn die Stuten sie durch den starken Blutverlust noch nicht verloren haben. Die durchlaufen diesen Prozess pro Jahr zweimal – bis an ihr Lebensende.
 
-Ein kleiner Erfolg lässt sich zumindest in Europa verzeichnen. Neben AWD berichtete auch der Tierschutzbund Zürich[^2] 2015 über die Blutfarmen. Einige europäische Pharmafirmen, die große Zuchtanlagen mit Pferdehormonen belieferten, stoppten daraufhin den Import aus Südamerika. Syntex versucht es jedoch weiterhin, den Markt zu erobern.
+Ein kleiner Erfolg ließ sich zumindest zwischendurch in Europa verzeichnen. Neben AWD berichtete auch der Tierschutzbund Zürich[^2] 2015 über die Blutfarmen. Einige europäische Pharmafirmen, die große Zuchtanlagen mit Pferdehormonen belieferten, stoppten daraufhin den Import aus Südamerika. Syntex versucht es jedoch weiterhin, den Markt zu erobern.
 
 Nachdem das Thema 2015 und erneut 2018 durch die Presse gegangen war, firmierte das Unternehmen mit seinen PMSG-Produkten kurzerhand  um und gründete unter dem Namen Syn Vet-Pharma eine neue Firma mit Sitz in Irland. Das Zulassungsverfahren zur erneuten Belieferung der EU-Länder ist derzeit in vollem Gange. Irland, Deutschland, Frankreich und Spanien haben ihre Genehmigungen bereits erteilt.
 
