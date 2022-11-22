@@ -96,11 +96,11 @@ Das EU Parlament forderte die Kommission nun dazu auf, den Import und die Produk
 
 sagt sie.
 
-Bilder: Wikimedia Commons
-
 [^1]: [Blutfarm Syntax, Argentinien – "Wie hinter Mauern das Geschäft weiter läuft" – Animal Welfare Foundation, YouTube](https://www.youtube.com/watch?v=NkAxxxeF3YE)
 
 [^2]: [Tierschutzbund Zürich – "Hormon aus Pferdeblut für die Scheinezucht"](https://www.tierschutzbund.de/information/hintergrund/landwirtschaft/pferdeblut-fuer-die-schweinezucht/)
 
 [^3]: [Eurogroup for Animals – "Cruel hormone production in South America for European animal breeding farms"](https://www.eurogroupforanimals.org/news/cruel-hormone-production-south-america-european-animal-breeding-farms)
+
+Bilder: Wikimedia Commons
 
