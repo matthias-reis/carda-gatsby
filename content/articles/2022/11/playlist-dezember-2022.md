@@ -43,6 +43,7 @@ labels:
   - Post-Metal
   - Post-Rock
   - Post-Music
+  - serie:Playlists 2022
 focusKeyword: Playlist Dezember
 advertisement: false
 affiliate: false
