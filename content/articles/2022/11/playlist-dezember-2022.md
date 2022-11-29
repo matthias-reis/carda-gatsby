@@ -5,12 +5,12 @@ typeName: Beitrag
 title: Playlist Dezember 2022
 subTitle: Von Brutus bis Wang Wen
 seoTitle: Playlist Dezember 2022 – Post-Rock & Co.
-description: "Es ist so weit und ich möchte gar nicht lange um die heißen Tracks
+description: Auf der Suche nach neuer Musik aus Post-Rock & Co.? Diese Playlist
+  liefert Euch Bands von Wang Wen bis Brutus.
+excerpt: "Es ist so weit und ich möchte gar nicht lange um die heißen Tracks
   herumreden: Die Musikliste für den Dezember steht für Euch bereit und möchte
   gehört werden. Alle Fans von Post-Musik aller Art und Freund⋆innen der
   vielschichtigen Seite der Musik sollten hier also unbedingt weiterlesen."
-excerpt: Auf der Suche nach neuer Musik aus Post-Rock & Co.? Diese Playlist
-  liefert Euch Bands von Wang Wen bis Brutus.
 image: https://storage.googleapis.com/cardamonchai-media/2022-11-29/musikliste-dezember-jpg-imagine-f8f8f8_8c807d_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-29/musikliste-dezember-fb-jpg-imagine-f8f8f8_867a78_1200_628/640.webp
