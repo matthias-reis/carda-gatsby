@@ -124,3 +124,12 @@ xBywVaCTGmc
 ## Interpol – "Fables (Edit)" vom Album "The Other Side of Make-Belive"
 
 "Interpol hatten ihre erste Boom-Zeit in den späten 00er und frühen 10er Jahren. Das Album 'Our Love to Admire' lief bei mir damals in Dauerschleife. Das empfehlenswerte neue Album der New Yorker Indie-Rocker gibt es schon seit Juli. Jetzt ist der Song 'Fables' aber nochmal in einer kürzeren, editierten Version erschienen – was ihm guttut."
+
+## Die Dezember-Playlist auf YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUJioJXp-AxNs_cdc14GsN8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<Playlist
+  spotify="4fC0QCrm232wwSvJK9glW7?si=724df9b9a36e401a"
+  itunes="2022-12-01-rock-n-roll-vegan/pl.u-o9y1h3ye8ea"
+/>
