@@ -34,7 +34,7 @@ languageLink: /2022/12/vagtlos-kakofoni-en/
 
 Das Post-Metal/Post-Hardcore/Blackgaze-Projekt aus Dänemark veröffentlichte seine erste offizielle Aufnahme am 3. November (okay, es ist nicht wirklich die erste offizielle Aufnahme – Im August kam bereits eine Split EP mit Mill & TaagebueMaybe raus). Ich bin vielleicht etwas spät dran, aber dieses wirklich fantastische Stück Musik ist es meiner Meinung nach einfach wert, erwähnt zu werden!
 
-Die Band hat alle Texte auf der 15:25-minütigen Platte auf Dänisch eingesungen. Die Sprache unterstreicht den insgesamt mystischen Charakter der beiden Songs – oder vielleicht sollte ich besser von Kompositionen sprechen? Ich glaube, das Wort "Songs" ist fast eine Untertreibung für das, was einen auf diesem wunderbaren Debüt erwartet.
+Die Band hat die Texte auf der 15:25-minütigen Platte auf Dänisch eingesungen. Die Sprache unterstreicht den insgesamt mystischen Charakter der beiden Songs – oder vielleicht sollte ich besser von Kompositionen sprechen? Ich glaube, das Wort "Songs" ist fast eine Untertreibung für das, was einen auf diesem wunderbaren Debüt erwartet.
 
 ## "Kakofoni" kann man nicht in eine Schublade stecken
 
