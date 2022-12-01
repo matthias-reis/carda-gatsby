@@ -34,7 +34,7 @@ languageLink: /2022/12/vagtlos-kakofoni/
 
 The post-metal/post-hardcore/blackgaze project from Denmark released their first official recording on November 3rd (OK, not really their first official recording, they did a split EP with Mill & TaagebueMaybe earlier this year). I'm maybe a bit late to the party, but this truly fantastic piece of music is still worth mentioning!
 
-The band recorded all the lyrics on the 15:25 min record in Danish. The language underlines the overall mystic character of the two songs—or should I say compositions? I think "songs" is a bit too much understatement for what awaits you on this wonderful debut.
+The band recorded the lyrics on the 15:25 min record in Danish. The language underlines the overall mystic character of the two songs—or should I say compositions? I think "songs" is a bit too much understatement for what awaits you on this wonderful debut.
 
 ## "Kakofoni" doesn't fit into boxes
 
