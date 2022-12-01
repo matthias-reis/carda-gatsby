@@ -7,11 +7,11 @@ subTitle: Düstere Post-Music aus Dänemark
 seoTitle: Vægtløs - "Kakofoni" – Post-Metal Review
 description: Wenn Ihr düsteren Post-Metal liebt, müsst Ihr Euch unbedingt
   Vægtløs anhören. Review jetzt lesen!
-excerpt: 'Wenn Ihr harte Post-Music mit der perfekten Portion Gefühle mögt,
-  werdet Ihr Vægtløs lieben. Ich habe mir ihre Debüt-7"-Single "Kakofoni"
-  angehört und hier kommt meine Empfehlung: Fans von Birds in Row, Lightbearer,
-  Deafheaven, Oathbreaker, Pianos Become the Teeth, Svalbard, Touchè Amorè und
-  Vi som älskade varandra så mycket sollten unbedingt mal reinhören!'
+excerpt: 'Wenn Ihr harte, emotionale Post-Music mögt, werdet Ihr Vægtløs lieben.
+  Ich habe mir ihre Debüt-7"-Single "Kakofoni" angehört und hier kommt meine
+  Empfehlung: Fans von Birds in Row, Lightbearer, Deafheaven, Oathbreaker,
+  Pianos Become the Teeth, Svalbard, Touchè Amorè und Vi som älskade varandra så
+  mycket sollten unbedingt mal reinhören!'
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-01/vagtlos-jpg-imagine-080808_340407_1024_768/640.webp
 copyrigt: Vægtløs
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-01/vagtlos-fb-jpg-imagine-180808_3b0407_1200_628/640.webp
