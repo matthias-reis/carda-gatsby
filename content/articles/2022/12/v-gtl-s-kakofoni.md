@@ -40,7 +40,7 @@ Die Band hat die Texte auf der 15:25-minütigen Platte auf Dänisch eingesungen.
 
 ![Vægtløs](https://storage.googleapis.com/cardamonchai-media/2022-12-01/vagtlos-2-jpg-imagine-280808_440309_1024_768/640.webp "Vægtløs")
 
-Mir gefällt die gesamte Grundstimmung von "Kakofoni" – all das Geschrei, die Höhen und Tiefen und die Kontraste – wirklich tolle Post-Musik. Das Schlagzeug ist ziemlich hart und unterstreicht die düster klingenden Texte auf eine sehr enthusiastische Weise. Die gesamte Rhythmussektion bildet ein starkes Rückgrat des teilweise wunderbar zerbrechlichen Sounds. Ich denke, neben den Texten, die vom Verlust zweier Menschen aus dem engen Umfeld der Band, ist das der Grund, warum mein erster Eindruck von den beiden Tracks sehr intensiv und emotional war.
+Mir gefällt die gesamte Grundstimmung von "Kakofoni" – all das Geschrei, die Höhen und Tiefen und die Kontraste – wirklich tolle Post-Musik. Das Schlagzeug ist ziemlich hart und unterstreicht die düster klingenden Texte auf eine sehr enthusiastische Weise. Die gesamte Rhythmussektion bildet ein starkes Rückgrat des teilweise wunderbar zerbrechlichen Sounds. Ich denke, neben den Texten, die vom Verlust zweier Menschen aus dem engen Umfeld der Band handeln, ist das der Grund, warum mein erster Eindruck von den beiden Tracks sehr intensiv und emotional war.
 
 Wenn Ihr also harte, nachdenkliche, emotionsgeladene Post-Whatever-Music mögt, ist diese Platte genau das Richtige für Euch. Insgesamt ist 'Kakofoni' ziemlich hardcore, betrachtet man die Spielzeit der Songs, kann man vermutlich aber schon fast von Prog-inspiriertem Post-Metal sprechen. Oje, ich mag einfach keine Schubladen. Vielleicht sollte ich sie einfach hinter mir lassen. Vægtløs haben sie ohnehin längst gesprengt.
 
