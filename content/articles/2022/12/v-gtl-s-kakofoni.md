@@ -30,7 +30,7 @@ affiliate: false
 language: de
 languageLink: /2022/12/vagtlos-kakofoni-en/
 ---
-**Wenn Ihr harte Post-Music mit der perfekten Portion Gefühle mögt, werdet Ihr Vægtløs lieben. Ich habe mir ihre Debüt-7"-Single "Kakofoni" angehört und hier kommt meine Empfehlung: Fans von Birds in Row, Lightbearer, Deafheaven, Oathbreaker, Pianos Become the Teeth, Svalbard, Touchè Amorè und Vi som älskade varandra så mycket sollten unbedingt mal reinhören!**
+**Wenn Ihr harte, emotionale Post-Music mögt, werdet Ihr Vægtløs lieben. Ich habe mir ihre Debüt-7"-Single "Kakofoni" angehört und hier kommt meine Empfehlung: Fans von Birds in Row, Lightbearer, Deafheaven, Oathbreaker, Pianos Become the Teeth, Svalbard, Touchè Amorè und Vi som älskade varandra så mycket sollten unbedingt mal reinhören!**
 
 Das Post-Metal/Post-Hardcore/Blackgaze-Projekt aus Dänemark veröffentlichte seine erste offizielle Aufnahme am 3. November (okay, es ist nicht wirklich die erste offizielle Aufnahme – Im August kam bereits eine Split EP mit Mill & TaagebueMaybe raus). Ich bin vielleicht etwas spät dran, aber dieses wirklich fantastische Stück Musik ist es meiner Meinung nach einfach wert, erwähnt zu werden!
 
@@ -44,7 +44,7 @@ Mir gefällt die gesamte Grundstimmung von "Kakofoni" – all das Geschrei, die 
 
 Wenn Ihr also harte, nachdenkliche, emotionsgeladene Post-Whatever-Music mögt, ist diese Platte genau das Richtige für Euch. Insgesamt ist 'Kakofoni' ziemlich hardcore, betrachtet man die Spielzeit der Songs, kann man vermutlich aber schon fast von Prog-inspiriertem Post-Metal sprechen. Oje, ich mag einfach keine Schubladen. Vielleicht sollte ich sie einfach hinter mir lassen. Vægtløs haben sie ohnehin längst gesprengt.
 
-![Vægtløs – "Kakofoni"](https://storage.googleapis.com/cardamonchai-media/2022-12-01/vaegtloes-kakofoni-jpeg-imagine-181818_26261d_700_700/640.webp "Vægtløs – \"Kakofoni\"")
+![Vægtløs – "Kakofoni"](https://storage.googleapis.com/cardamonchai-media/2022-12-01/vaegtloes-kakofoni-jpeg-imagine-181818_26261d_700_700/640.webp "Vægtløs – \\"Kakofoni\\"")
 
 Laut der Band ist die Platte für sie sehr persönlich:
 
