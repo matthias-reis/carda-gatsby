@@ -25,7 +25,10 @@ export const PageMeta: React.FC<{
   }
   return (
     <Helmet>
-      <title>{meta.frontmatter.seoTitle || meta.frontmatter.title}</title>
+      <title>
+        {meta.frontmatter.seoTitle || meta.frontmatter.title} | Rock 'n' Roll
+        vegan
+      </title>
       <meta name="description" content={meta.frontmatter.description} />
       <link
         rel="canonical"
