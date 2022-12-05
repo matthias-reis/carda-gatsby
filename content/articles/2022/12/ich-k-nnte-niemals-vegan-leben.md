@@ -59,7 +59,7 @@ Den Spruch "Ich könnte niemals Veganer⋆in werden" haben die beiden schon unz�
 
 Das Mitgefühl gegenüber Tieren wurde den beiden Brüdern in die Wiege gelegt – wofür sie ihren Eltern heute sehr dankbar sind. Für die beiden waren der Hauptgrund für ihren Vegetarismus und später Veganismus von Anfang an die Tiere. Schon als Kindern war ihnen bewusst, dass es keinen Unterschied gibt zwischen einem Huhn und einem Wildvogel – beide haben ein Bewusstsein und können Schmerzen empfinden. Der Umweltschutz kam später mit dazu und bestärkte sie in ihrer Entscheidung.
 
-Auch der gesundheitliche Aspekt spielt für die Pickerings eine Rolle: Beide Brüder treiben seit jungen Jahren Sport und konnten ihre Leistung durch ihre komplett pflanzenbasierte Kost spürbar verbessern. Ihr wichtigstes Anliegen bleiben jedoch die Tiere und die Umwelt: 
+Auch der gesundheitliche Aspekt spielt für die Pickerings eine Rolle: Beide Brüder treiben seit jungen Jahren Sport und konnten ihre Leistung durch ihre komplett pflanzenbasierte Kost spürbar verbessern. Ihre wichtigsten Anliegen bleiben jedoch die Tiere und die Umwelt: 
 
 > "Wir müssen unser Verhalten ändern, wenn wir etwas für unseren Planeten tun wollen. Darum wird es Zeit, mit Fehlinformationen und Missverständnissen endgültig aufzuräumen",
 
