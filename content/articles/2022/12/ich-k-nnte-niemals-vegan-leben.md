@@ -45,7 +45,7 @@ Thomas Pickering sitzt in der Doku mit unterschiedlichen Menschen zusammen – d
 
 Neben der weltberühmten Tierethik-Aktivistin und Autorin Dr. Melanie Joy kommen auch Olympia-Siegerin Dotsie Bausch, Powerlifting Champion Sophia Ellis, die Rezeptkünstler David und Stephen Flynn sowie der Bestseller-Autor Dr. Alan Desmond zu Wort.
 
-Doch im Gegensatz zu einigen anderen veganen Dokus sucht "I Could Never Go Vegan" nicht nur die Bestätigung von Mediziner⋆innen, Forschenden und Sportler⋆innen. Zu sehen gibt es unter anderem auch Einblicke die Arbeit der Menschen in einem Schlachtbetrieb.
+Doch im Gegensatz zu einigen anderen veganen Dokus sucht "I Could Never Go Vegan" nicht nur die Bestätigung von Mediziner⋆innen, Forschenden und Sportler⋆innen. Zu sehen gibt es unter anderem auch Einblicke in die Arbeit der Menschen in einem Schlachtbetrieb.
 
 Die Pickerings möchten mit ihrer Doku Menschen informieren und aufklären, damit das Verständnis für die vegane Lebensweise wächst. Dabei wollen sie aber keinesfalls mahnend den Zeigefinger erheben. Ganz im Gegenteil – das Bewusstsein soll beim Ansehen auf ganz natürliche Art vermittelt werden – über Informationen. Es ist ihr persönliches Anliegen, den Menschen zu zeigen, welche katastrophalen Folgen der Konsum tierischer Produkte auf die Umwelt hat.
 
