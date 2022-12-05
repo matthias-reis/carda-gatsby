@@ -30,7 +30,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Die neue Doku "I Could Never Go Vegan" beleuchtet den Veganismus aus einem anderen Blickwinkel: dem der Zweifelnden. Die beiden Brüder Thomas und James Pickering haben sich die Gegenargumente mal im Detail angesehen. Sie haben ihren Film für den 26. Dezember angekündigt.**
+**Die neue Doku "I Could Never Go Vegan" ("Ich könnte niemals vegan leben") beleuchtet den Veganismus aus einem anderen Blickwinkel: dem der Zweifelnden. Die beiden Brüder Thomas und James Pickering haben sich die Gegenargumente mal im Detail angesehen. Sie haben ihren Film für den 26. Dezember angekündigt.**
 
 Traditionell verbringen viele inzwischen ja den zweiten Feiertag gerne mit Filmen und Serien auf der Couch – in diesem Jahr verspricht er besonders spannend zu werden. Ich habe "I Could Never Go Vegan" auf jeden Fall schon fest auf meiner Streaming-Liste. Thomas und James Pickering versprechen, die Argumente gegen einen veganen Lebensstil komplett aufzurollen. Zudem gehen sie der Frage auf die Spur, woher diese kommen und ob sie gerechtfertigt sind.
 
@@ -38,7 +38,7 @@ Auf einen tiefen Einblick in die gesundheitlichen Vor- und Nachteile der untersc
 
 ## Vegane Athlet⋆innen und Forschende gehen den Argumenten gegen Veganismus auf die Spur
 
-![Filmplakat "I Could Never Go Vegan": Ein Schwein mit einer brennenden Erdkugel über dem Kopf]( "Filmplakat \"I Could Never Go Vegan\". Bild: I Could Never Go Vegan Ltd.")
+![Filmplakat "I Could Never Go Vegan": Ein Schwein mit einer brennenden Erdkugel über dem Kopf]( "Filmplakat \\\"I Could Never Go Vegan\\\". Bild: I Could Never Go Vegan Ltd.")
 
 Thomas Pickering sitzt in der Doku mit unterschiedlichen Menschen zusammen – darunter auch vegane Athlet⋆innen, Ernährungswissenschaftler⋆innen und andere Forschende. Gemeinsam mit ihnen geht er den Gegenargumenten auf die Spur und erläutert Themen und beantwortet Fragen zum Thema Veganismus.
 
