@@ -49,19 +49,19 @@ Pflanzliches Protein ist darum so unerlässlich, weil Ihr im Gegensatz zu tieris
 
 Die folgenden veganen Lebensmittel enthalten besonders viel Protein:
 
-- Hülsenfrüchte wie Sojabohnen, Linsen, [Erbsen](/2020/06/erbsen/), Kichererbsen und die verschiedenen Bohnenarten (23 Gramm Eiweiß pro 100 Gramm getrocknete Linsen)
-- Soja (38 Gramm Eiweiß pro 100 Gramm getrockneter Sojabohnen)
-- Tofu (19 Gramm Eiweiß pro 100 Gramm Räuchertofu)
-- Tempeh (19 Gramm Eiweiß pro 100 Gramm Tempeh)
-- Seitan (75 Gramm Eiweiß pro 100 Gramm Seitan)
-- Nüsse (z. B. Walnüsse, Haselnüsse, Erdnüsse, Cashews) – 25 Gramm Eiweiß pro 100 Gramm Erdnüsse
-- Süßlupinen (gibt es auch als Pulver oder Mehl) – 40 Gramm Eiweiß pro 100 Gramm
-- Hanfsamen (20 Gramm Eiweiß pro 100 Gramm Hanfsamen)
-- Haferflocken (13 Gramm Eiweiß pro 100 Gramm Haferflocken)
-- Quinoa (15 Gramm Eiweiß pro 100 Gramm Quinoa)
-- Chiasamen (17 Gramm Eiweiß pro 100 Gramm Chiasamen)
-- Amaranth (16 Gramm Eiweiß pro 100 Gramm Amaranth)
-- Hirse (11 Gramm Eiweiß pro 100 Gramm Hirse)
+* Hülsenfrüchte wie Sojabohnen, Linsen, [Erbsen](/2020/06/erbsen/), Kichererbsen und die verschiedenen Bohnenarten (23 Gramm Eiweiß pro 100 Gramm getrocknete Linsen)
+* Soja (38 Gramm Eiweiß pro 100 Gramm getrockneter Sojabohnen)
+* Tofu (19 Gramm Eiweiß pro 100 Gramm Räuchertofu)
+* Tempeh (19 Gramm Eiweiß pro 100 Gramm Tempeh)
+* Seitan (75 Gramm Eiweiß pro 100 Gramm Seitan)
+* Nüsse (z. B. Walnüsse, Haselnüsse, Erdnüsse, Cashews) – 25 Gramm Eiweiß pro 100 Gramm Erdnüsse
+* Süßlupinen (gibt es auch als Pulver oder Mehl) – 40 Gramm Eiweiß pro 100 Gramm
+* Hanfsamen (20 Gramm Eiweiß pro 100 Gramm Hanfsamen)
+* Haferflocken (13 Gramm Eiweiß pro 100 Gramm Haferflocken)
+* Quinoa (15 Gramm Eiweiß pro 100 Gramm Quinoa)
+* Chiasamen (17 Gramm Eiweiß pro 100 Gramm Chiasamen)
+* Amaranth (16 Gramm Eiweiß pro 100 Gramm Amaranth)
+* Hirse (11 Gramm Eiweiß pro 100 Gramm Hirse)
 
 Neben diesen stark eiweißhaltigen Lebensmitteln solltet Ihr auch das frische Gemüse nicht außer Acht lassen. Grünkohl kommt beispielsweise auf  4,3 Gramm Eiweiß pro 100 Gramm, Brokkoli auf 2,8, Spinat auf 2,9, Kresse auf 2,6 und Rosenkohl auf stolze 3,4. Wenn Ihr bedenkt, was für eine Menge an Brokkoli Ihr beispielsweise esst, um satt zu werden, fällt das auf jeden Fall auch ins Gewicht.  
 
@@ -71,7 +71,7 @@ Neben diesen stark eiweißhaltigen Lebensmitteln solltet Ihr auch das frische Ge
 
 Dass Ihr Eurem Körper zu wenig Eiweiß zuführt, kann bei einer ausgeglichenen veganen Ernährungsweise eigentlich nicht passieren – wenn Ihr ein paar Details beachtet und täglich Hülsenfrüchte, Nüsse, Tofu oder Seitan sowie ausreichend frisches Gemüse zu Euch nehmt. 
 
-Eine größere Menge Eiweiß kann Euch jedoch den Muskelaufbau erleichtern. Solltet Ihr wirklich mal zu wenig Eiweiß zu Euch nehmen, fängt der Körper irgendwann an, an seinen Vorräten zu "knabbern". Sprich: Eure Muskelmasse wird abnehmen. Weil das nur eine Weile funktioniert, werdet Ihr Euch irgendwann müde und schlapp fühlen. Um das zu verhindern, achtet Ihr am besten aktiv auf Eure Ernährung und denkt an die regelmäßigen Check-ups beim⋆bei Mediziner⋆in Eures Vertrauens. Eur⋆e Personal Trainer⋆in kann Euch hier zwar auch hervorragend beraten, für eine genaue Einstufung sprecht Ihr am besten mit einem Ärzt⋆in, der⋆die Euch gegebenenfalls auch Blut abnehmen kann.
+Eine größere Menge Eiweiß kann Euch jedoch den Muskelaufbau erleichtern. Solltet Ihr wirklich mal zu wenig Eiweiß zu Euch nehmen, fängt der Körper irgendwann an, an seinen Vorräten zu "knabbern". Sprich: Eure Muskelmasse wird abnehmen. Weil das nur eine Weile funktioniert, werdet Ihr Euch irgendwann müde und schlapp fühlen. Um das zu verhindern, achtet Ihr am besten aktiv auf Eure Ernährung und denkt an die regelmäßigen Check-ups beim⋆bei der Mediziner⋆in Eures Vertrauens. Eur⋆e Personal Trainer⋆in kann Euch hier zwar auch hervorragend beraten, für eine genaue Einstufung sprecht Ihr jedoch am besten mit einem⋆r Ärzt⋆in, der⋆die Euch gegebenenfalls auch Blut abnehmen kann.
 
 ## Die richtige Menge Eiweiß 
 
@@ -81,7 +81,7 @@ Grundsätzlich gilt: Je größer die Muskelmasse ist, die Ihr zulegen wollt, des
 
 <Gallery name="veganes-protein-1" />
 
----
+- - -
 
 ## Hinweise zu den veganen Protein-Produkten in diesem Artikel
 
@@ -107,7 +107,7 @@ Die Riegel und Shakes sind die ersten Protein-Präparate, die ich zu mir nehme u
 
 Alle Produkte im [Nutri Plus Onlineshop](https://tidd.ly/3DOIrvR) sind zu 100 Prozent vegan, laktosefrei und auch für Allergiker⋆innen geeignet. Ihr findet dort auch ungesüßte sowie glutenfreie Produkte.
 
----
+- - -
 
 <Gallery name="veganes-protein-2" />
 
