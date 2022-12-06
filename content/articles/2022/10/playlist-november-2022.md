@@ -45,7 +45,7 @@ language: de
 
 ## Perry Frank – "When We Collide" vom Album "Nuit Example"
 
-Ich fange diesen Monat gleich mal mit einem lieben Bekannten aus der Ambient-Szene an: [Perry Frank](/2020/11/perry-frank-interview/) hat sein neues Album am 21. September veröffentlicht und es ist genau das, was ich im Moment hören möchte. Angenehm zart, verträumt und wunderbar musikalisch. Geschrieben, aufgenommen und produziert hat der Musiker die zehn Post-Rock inspirierten Stücke auf "Nuit Example" zwischen Januar und Juni dieses Jahres. Mit dabei sind auch Zusammenarbeiten mit Künstler⋆innen wie Matt Tondut ("When We Collide"), Lauge ("Agave") und Spacecraft ("Dreams Fade Away") aus dem Valley View Records Roster. Für Euch habe ich den Song "When We Collide" ausgesucht.
+Ich fange diesen Monat gleich mal mit einem lieben Bekannten aus der Ambient-Szene an: [Perry Frank](/2020/11/perry-frank-interview/) hat sein neues Album am 21. September veröffentlicht und es ist genau das, was ich im Moment hören möchte. Angenehm zart, verträumt und wunderbar musikalisch. Geschrieben, aufgenommen und produziert hat der Musiker die zehn von Post-Rock inspirierten Stücke auf "Nuit Example" zwischen Januar und Juni dieses Jahres. Mit dabei sind auch Zusammenarbeiten mit Künstler⋆innen wie Matt Tondut ("When We Collide"), Lauge ("Agave") und Spacecraft ("Dreams Fade Away") aus dem Valley View Records Roster. Für Euch habe ich den Song "When We Collide" ausgesucht.
 
 <YouTube id="b_czbZONqg8" />
 
@@ -71,7 +71,7 @@ Valentin und Matze haben wie jeden Monat ihre derzeitigen Hör-Favoriten beigest
 
 ## Valentins Songs
 
-### Die Nerven – "Keine Bewegung" vom neuen Album "Die Nerven" 
+### Die Nerven – "Keine Bewegung" vom neuen Album "Die Nerven"
 
 > "Ich stelle Euch diesen Monat die Stuttgarter Band Die Nerven vor, die ihren ganz eigenen Mix aus Post-Punk, Noise-Rock und Indie-Rock gefunden hat. Zum Glück bin ich wieder auf diese Gruppe gekommen, nachdem ich vor ein paar Jahren ein Rockpalast-Konzert gesehen habe, dass mich total fesselte. Das neue gleichnamige Album 'Die Nerven' ist bereits das fünfte der Band. Offenbar habe ich da noch einiges nachzuholen. Ich habe mich für den sehr emotionalen Song zum Thema Hilflosigkeit 'Keine Bewegung' entschieden, dessen Text gut in unsere Zeit passt, mit den täglichen schlechten Nachrichten, die einen manchmal fast zu ersticken drohen. Aber auch musikalisch zeigen hier die Nerven ihre Stärken und wie immer gilt: hört euch das ganze Album an."
 
@@ -90,7 +90,6 @@ Valentin und Matze haben wie jeden Monat ihre derzeitigen Hör-Favoriten beigest
 > "Vor etwas über einem Jahr kam mit dem Konzeptalbum 'Horizons/East' der letzte Longplayer von Thrice und damit der ersten Teil dieses Werks raus. Schon jetzt gibt es den ersten Vorgeschmack des zweiten Teils 'Horizons/West'. 'Open Your Eyes and Dream' schleudert mich zurück in die früheren Phasen der Band und erinnert mich teilweise an 'Vheissu'. Die modernen Prog-Parts lassen mich auf eine großartige Platte hoffen."
 
 <YouTube id="DrdO_Rv2e4Q" />
-
 
 ## Red Hot Chili Peppers – "Eddie" vom Album "Return of the Dream Canteen"
 
