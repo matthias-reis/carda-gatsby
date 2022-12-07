@@ -78,7 +78,7 @@ With the next two songs on the record, "Renoir" and "Oblivion," Perry Frank cont
 
 Perry wrote and recorded "Agave" with his friend Lauge. You might know the ambient artist from Denmark from his record "Selvacapes", he made together with Perry in 2021.
 
-If you've been searching for the perfect last song of your day, you may find it in "Nuit". It guides you into sleep, introducing you to the dreamy realm your eyes can't reach during the daytime. The song is one of the tracks Perry took from his "Sleep Cycle II" compilation.
+If you've been searching for the perfect last song of your day, you may find it in "Nuit". It guides you into sleep, introducing you to the dreamy realm your eyes can't reach during the daytime. As I said earlier: The song is also part of Perry's compilation "Sleep Cycle II".
 
 ## More about Perry Frank
 
