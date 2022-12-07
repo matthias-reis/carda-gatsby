@@ -58,7 +58,7 @@ The opener of "Nuit Ensemble" is the slightly drone-infused track "Disappear"—
 
 ## "Moon Orchestra" & "Isolation"
 
-For Perry, "Moon Orchestra" is the most symbolic track on the album record—especially because of the technique he used to record it: He based the whole song on cassette loops following each other—sustained by drone guitars and soundscapes. The multi-instrumentalist wrote and recorded "Moon Orchestra" at nighttime when it was already dark outside—moonbeams coming through his window, painting an unreal-seaming nocturnal landscape.
+For Perry, "Moon Orchestra" is the most symbolic track on the album—especially because of the technique he used to record it: He based the whole song on cassette loops following each other—sustained by drone guitars and soundscapes. The multi-instrumentalist wrote and recorded "Moon Orchestra" at nighttime when it was already dark outside—moonbeams coming through his window, painting an unreal-seaming nocturnal landscape.
 
 It was a Korg Volca Keys on which Perry originally recorded the fourth track, "Isolation", which he dedicated to the lockdown times during the pandemic. For those of you who love to compare sundry instruments (especially the keys are always so exciting to explore!): You can find the first version of the song on Perry's Volca Session, which he released on his YouTube Channel in May 2022. 
 
