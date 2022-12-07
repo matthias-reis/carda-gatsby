@@ -76,10 +76,10 @@ With the next two songs on the record, "Renoir" and "Oblivion," Perry Frank cont
 
 ## "Agave" & "Nuit"
 
-Perry wrote and recorded "Agave" with his friend Lauge. You might know the ambient artist from Denmark from his record "Selvacapes", he made together with Perry in 2021.
+Perry wrote and recorded "Agave" with his friend Lauge. You might know the ambient artist from Denmark from his record "[Selvacapes](/2021/07/perry-frank-lauge-selvascapes/)", he made together with Perry in 2021.
 
 If you've been searching for the perfect last song of your day, you may find it in "Nuit". It guides you into sleep, introducing you to the dreamy realm your eyes can't reach during the daytime. As I said earlier: The song is also part of Perry's compilation "Sleep Cycle II".
 
 ## More about Perry Frank
 
-Perry Frank, aka Francesco Perra, started his Ambient Music Project in 2005. His music is a unique mixture of guitar, synth, tape loops, and soundscapes—with a pinch of dreamy textures and just the right amount of arpeggios, melodies, and the timeless feeling of the world that lies behind our imagination. You can read my interview with Perry Frank here.
+Perry Frank, aka Francesco Perra, started his Ambient Music Project in 2005. His music is a unique mixture of guitar, synth, tape loops, and soundscapes—with a pinch of dreamy textures and just the right amount of arpeggios, melodies, and the timeless feeling of the world that lies behind our imagination. [You can read my interview with Perry Frank here](/2020/11/perry-frank-interview-en).
