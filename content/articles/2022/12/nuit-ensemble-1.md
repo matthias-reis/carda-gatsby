@@ -36,7 +36,7 @@ languageLink: /2022/12/perry-frank-nuit-ensemble/
 ---
 **Some weeks ago, Perry Frank released his new album. With "Nuit Ensemble", he went on a new path, mixing his fabulous ambient sounds with classic elements from the post-rock genre. So, the album is also one for you if you're more into this kind of music.**
 
-"Nuit Ensemble" ("Night Ensemble") is Perry's first solo album since 2020. He wrote the songs in early 2022 at Homeland Studio in Iglesias, Sardinia—except for "Nuit" which he released as a single and part of his "Sleep Cycle II" compilation earlier on. The outcome is a selection of eight unreleased tracks and two entirely new ones, ranging between Ambient and Post-Rock.
+"Nuit Ensemble" ("Night Ensemble") is Perry's first solo album since 2020. He wrote the songs in early 2022 at Homeland Studios in Iglesias, Sardinia—except for "Nuit" which he released as a single and part of his "Sleep Cycle II" compilation earlier on. The outcome is a selection of eight unreleased tracks and two entirely new ones, ranging between Ambient and Post-Rock.
 
 The composer recorded his album between January and June 2022. He released them on October 21st on Valley View Records. "Nuit Ensemble" features collaborations with Matt Tondut (When We Collide), Lauge (Agave), and Spacecraft (Dreams Fade Away). All three of them are also part of the Valley View Roster.
 
