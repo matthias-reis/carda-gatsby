@@ -79,7 +79,7 @@ Mit den nächsten beiden Songs auf der Platte, "Renoir" und "Oblivion", fährt P
 
 "Agave" erschuf Perry gemeinsam mit seinem Freund Lauge. Den Ambient-Künstler aus Dänemark kennt ihr vielleicht von seiner Platte "[Selvacapes](/2021/07/perry-frank-lauge-selvascapes/)", die er zusammen mit Perry 2021 aufgenommen hat.
 
-Wenn Ihr den perfekten letzten Song des Tages sucht, werdet Ihr ihn vielleicht in "Nuit" finden. Das Stück lädt Euch in das verträumte Reich ein, das Eure Augen tagsüber nicht sehen können. Das Stück ist einer der Tracks, die Perry aus seiner Compilation "Sleep Cycle II" übernommen hat.
+Wenn Ihr den perfekten letzten Song des Tages sucht, werdet Ihr ihn vielleicht in "Nuit" finden. Das Stück lädt Euch in das verträumte Reich ein, das Eure Augen tagsüber nicht sehen können. Das Stück findet Ihr wie gesagt auch auf Perrys Compilation "Sleep Cycle II".
 
 ## Mehr über Perry Frank
 
