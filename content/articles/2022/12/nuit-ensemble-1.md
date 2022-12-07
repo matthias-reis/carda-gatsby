@@ -83,3 +83,7 @@ If you've been searching for the perfect last song of your day, you may find it 
 ## More about Perry Frank
 
 Perry Frank, aka Francesco Perra, started his Ambient Music Project in 2005. His music is a unique mixture of guitar, synth, tape loops, and soundscapes—with a pinch of dreamy textures and just the right amount of arpeggios, melodies, and the timeless feeling of the world that lies behind our imagination. [You can read my interview with Perry Frank here](/2020/11/perry-frank-interview-en).
+
+## Perry Frank – "End Of The Rainbow"
+
+<YouTube id="mScYsCJb4uQ" />
