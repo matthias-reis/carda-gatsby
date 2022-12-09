@@ -34,7 +34,7 @@ Wer auf gesunde, vollwertige, vegane Kost setzt, kann sich vor Darmkrebs schütz
 
 ## Schutz vor Darmkrebs durch gesunde, pflanzliche Ernährung
 
-"Obwohl frühere Forschungen darauf hindeuten, dass pflanzliche Ernährung eine Rolle bei der Vorbeugung von Darmkrebs spielen könnte, war die Auswirkung der Nährstoffqualität pflanzlicher Lebensmittel auf diesen Zusammenhang bisher unklar. Nun deuten auch unsere Ergebnisse klar darauf hin, dass der Verzehr einer gesunden pflanzlichen Ernährung mit einem geringeren Darmkrebsrisiko verbunden ist", 
+> "Obwohl frühere Forschungen darauf hindeuten, dass pflanzliche Ernährung eine Rolle bei der Vorbeugung von Darmkrebs spielen könnte, war die Auswirkung der Nährstoffqualität pflanzlicher Lebensmittel auf diesen Zusammenhang bisher unklar. Nun deuten auch unsere Ergebnisse klar darauf hin, dass der Verzehr einer gesunden pflanzlichen Ernährung mit einem geringeren Darmkrebsrisiko verbunden ist", 
 
 sagte Jihye Kim, eine der Autor⋆innen der Studie, in einer Meldung an die Presse.
 
@@ -44,7 +44,7 @@ Die Teilnehmenden, mit dem höchsten Konsum pflanzlicher Lebensmittel pro Tag, w
 Einen signifikanten Zusammenhang zwischen der Qualität der pflanzlichen Lebensmittel und dem Darmkrebsrisiko bei amerikanischen Frauen konnten sie nicht feststellen.
 Jihye Kim kommentierte diese Studienergebnisse im Rahmen der Pressekonferenz wie folgt:
 
-"Wir vermuten, dass die Antioxidantien in Lebensmitteln wie Obst, Gemüse und Vollkornprodukten zur Senkung des Risikos, an Darmkrebs zu erkranken, beitragen könnten, indem sie chronische Entzündungen unterdrücken können, die nachweislich zu Krebs führen können."
+> "Wir vermuten, dass die Antioxidantien in Lebensmitteln wie Obst, Gemüse und Vollkornprodukten zur Senkung des Risikos, an Darmkrebs zu erkranken, beitragen könnten, indem sie chronische Entzündungen unterdrücken können, die nachweislich zu Krebs führen können."
 
 Da Männer tendenziell mit einem höheren Darmkrebsrisiko lebten, als Frauen,  vermute ihr Forschungsteam, dies sei die Erklärung dafür, warum der Verzehr größerer Mengen veganer Lebensmittel bei Männern mit einem geringeren Darmkrebsrisiko verbunden wäre – nicht aber bei Frauen, so Jihye Kim.
 
@@ -64,7 +64,7 @@ Dazu zählt auch eine vor ein paar Wochen auf der Webseite von Frontiers of Publ
 
 Die ausgewerteten Studien umfassen Daten von 3.059.009 Proband⋆innen. Den Wissenschaftler⋆innen zufolge, reicht dieses Material aus, um einen statistisch signifikanten Zusammenhang zwischen pflanzlicher Kost und Krebserkrankungen innerhalb der Verdauungsorgane festzustellen. Im Papier zur Studie heißt es:
 
-"Zusammenfassend können wir sagen, dass es wichtig ist, die Ernährungsgewohnheiten, die unser Leben nachweislich gesünder machen, zu verstehen und weiterzugeben, welche wichtige Rolle sie bei der Vorbeugung von Krebserkrankungen spielen. Unsere Auswertungen legen nahe, dass eine vegane Ernährung vielversprechend für die Verhinderung der Entstehung von Krebs ist."
+> "Zusammenfassend können wir sagen, dass es wichtig ist, die Ernährungsgewohnheiten, die unser Leben nachweislich gesünder machen, zu verstehen und weiterzugeben, welche wichtige Rolle sie bei der Vorbeugung von Krebserkrankungen spielen. Unsere Auswertungen legen nahe, dass eine vegane Ernährung vielversprechend für die Verhinderung der Entstehung von Krebs ist."
 
 ## Wissenschaftliche Erkenntnisse zum Fleischkonsum
 
@@ -72,7 +72,7 @@ Auch die Tatsache, dass Fleischkonsum im Umkehrschluss in direktem Zusammenhang 
 
 Eine diesen Februar von BMC Medicine veröffentlichte Studie[^4] bestätigt das. Darin heißt es unter anderem:
 
-"Dies bestätigt viele frühere Studien, die zeigen, dass eine pflanzliche Lebensweise insgesamt mit einem geringeren Risiko für chronische Krankheiten verbunden ist."
+> "Dies bestätigt viele frühere Studien, die zeigen, dass eine pflanzliche Lebensweise insgesamt mit einem geringeren Risiko für chronische Krankheiten verbunden ist."
 
 ### Achtung, persönliche Meinung:
 
