@@ -38,10 +38,10 @@ Wer auf gesunde, vollwertige, vegane Kost setzt, kann sich vor Darmkrebs schütz
 
 sagte Jihye Kim, eine der Autor⋆innen der Studie, in einer Meldung an die Presse.
 
-Forschende von der südkoreanischen Kyung Hee Universität fanden in einer Gruppe aus 79,952 amerikanischen Männern heraus:
+Die Forschenden von der südkoreanischen Kyung Hee Universität fanden bei der Betrachtung der Gruppe aus 79,952 amerikanischen Männern heraus, dass die Teilnehmenden mit dem höchsten Konsum pflanzlicher Lebensmittel pro Tag ein um 22 Prozent geringeres Darmkrebs-Risiko aufwiesen, als jene mit dem geringsten Konsum.
 
-Die Teilnehmenden, mit dem höchsten Konsum pflanzlicher Lebensmittel pro Tag, wiesen ein um 22 Prozent geringeres Darmkrebs-Risiko auf, als jene mit dem geringsten Konsum.
 Einen signifikanten Zusammenhang zwischen der Qualität der pflanzlichen Lebensmittel und dem Darmkrebsrisiko bei amerikanischen Frauen konnten sie nicht feststellen.
+
 Jihye Kim kommentierte diese Studienergebnisse im Rahmen der Pressekonferenz wie folgt:
 
 > "Wir vermuten, dass die Antioxidantien in Lebensmitteln wie Obst, Gemüse und Vollkornprodukten zur Senkung des Risikos, an Darmkrebs zu erkranken, beitragen könnten, indem sie chronische Entzündungen unterdrücken können, die nachweislich zu Krebs führen können."
