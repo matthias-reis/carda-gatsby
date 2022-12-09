@@ -76,7 +76,7 @@ Eine diesen Februar von BMC Medicine veröffentlichte Studie[^4] bestätigt das.
 
 ### Achtung, persönliche Meinung:
 
-Bei einer solchen Vielzahl gesundheitlicher Vorteilen, zusätzlich zu den beiden größten Argumenten, "[Keine Tiere müssen für mein Essen leiden](https://cardamonchai.com/tag/tierrechte)" und "[Ich betreibe durch meine Ernährungsweise aktiv Klimaschutz](/2017/02/klimaschutz-und-vegane-ernaehrung/)" fällt es da doch schwer, nicht ab heute vegan zu leben, oder?
+Bei einer solchen Vielzahl an gesundheitlichen Vorteilen, zusätzlich zu den beiden größten Argumenten, "[Keine Tiere müssen für mein Essen leiden](https://cardamonchai.com/tag/tierrechte)" und "[Ich betreibe durch meine Ernährungsweise aktiv Klimaschutz](/2017/02/klimaschutz-und-vegane-ernaehrung/)" fällt es da doch schwer, nicht ab heute vegan zu leben, oder?
 
 [^1]: [BMC Medicine– "Plant-based dietary patterns defined by a priori indices and colorectal cancer risk by sex and race/ethnicity: the Multiethnic Cohort Study"](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02623-7)
 
