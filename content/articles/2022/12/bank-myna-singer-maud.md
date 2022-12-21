@@ -44,7 +44,7 @@ Maud's beautiful voice sounds mystical and adds a fairytale-like touch to the dr
 
 **Anne:** Your current album is terrific. I enjoy listening to it a lot. You must be delighted with the outcome of your work, are you? 
 
-![Bank Myna – "Volaverunt"](https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-1-jpeg-imagine-180808_494139_700_700/640.webp "Bank Myna – \"Volaverunt\"")
+![Bank Myna – "Volaverunt"](https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-1-jpeg-imagine-180808_494139_700_700/640.webp "Bank Myna – \\"Volaverunt\\"")
 
 **Maud:** It's not really in our DNA to brag, but yes, we're proud of it, and mostly because it is a result of a complicated and complex period for us. Our former drummer had just left the band, we had found ourselves with no rhythmic basis, and we were pretty lost. This album is a success because the three of us have continued writing and producing new sounds and tracks. It was a real challenge and felt like a "rebirth" somehow!
 
@@ -64,7 +64,7 @@ Maud's beautiful voice sounds mystical and adds a fairytale-like touch to the dr
 
 **Maud:** One of our labels, Stellar Frequencies, offered us the opportunity to record a live session of one of our tracks. They had already released a few great-looking and sounding videos, so we jumped on the opportunity. We filmed it in an old barn in Haute-Loire (France)—a meaningful place for one of us. It's filled with memories. It's large and majestic, draped with old stones.—It's quite mystical. And we decided to play "The Open Door" with a brand-new introduction and, of course, with drums. The result is beyond our expectations. You can watch it here:
 
-https://www.youtube.com/watch?v=ijNPZmiem0s
+<YouTube id="ijNPZmiem0s" />
 
 The label is also preparing a strictly limited lathe-cut vinyl edition, hand-painted by one of the co-owner. They have such an artsy/DIY vibe, I love everything they do, and you should definitely check their catalogue!
 
