@@ -40,6 +40,8 @@ Maud's beautiful voice sounds mystical and adds a fairytale-like touch to the dr
 
 **Anne:** Hi, Maud! Thanks so much for inviting me to the world of Bank Myna. I love your music! It is so multifaceted and powerful! How are you doing today?
 
+#﻿# "We are working on new material"
+
 **Maud:** Thanks for your words! I'm feeling pretty good! We had our last rehearsal of 2022 today with the band, and it was heart-warming. We've had a fierce and full year with the release of our album and many shows. Furthermore, we're finally working on new material with our not-so-new-now drummer, and we have many great things ahead! Thanks for asking!
 
 **Anne:** Your current album is terrific. I enjoy listening to it a lot. You must be delighted with the outcome of your work, are you? 
@@ -52,11 +54,13 @@ Maud's beautiful voice sounds mystical and adds a fairytale-like touch to the dr
 
 **Maud:** After our drummer left, we planned a gig at Post in Paris festival three months later. We decided to give it a go anyway and wrote the basis of "Volaverunt" in a few weeks. It was initially a 30-minute-long improvisation with various parts. We had no drums any more, so we wanted to release ourselves from structures from norms and have as few boundaries as possible! The central theme is freedom.
 
-**Anne:** You released "Volaverunt" at the beginning of this year. Are you already working on new songs?
+**Anne:** You released "Volaverunt" at the beginning of this year. And now you're already working on new stuff?
 
 **Maud:** We first spent some time rearranging the songs with our new-but-not-so-new-now drummer for our live set. He magnified all the tracks and gave them more depth and power. As a result, they sound much louder live now! It took us some time, and we also had a couple of shows we had to focus on. But we've been working on new material for months, slowly but surely. I can't wait to discover what the four of us can write together. There are exciting times ahead!
 
 **Anne:** You've been on tour with Rook! How was it?
+
+#﻿# "Touring with Rook was awesome"
 
 **Maud:** It was pretty grand! We had a couple of shows in France and one in their hometown of Gent. We loved it. When you play several shows with the same band, it creates a sense of belonging. We did not know them very well. I fell in love with their music when I saw them at Dunk!festival in May and offered to organize a few shows in France. We had a couple of Skype calls, and that's all. It was a bit of a leap into the unknown, but it turned out great. They're really remarkable. We loved playing and spending time with them. Plus, they're AMAZING live. 
 
@@ -77,6 +81,8 @@ The label is also preparing a strictly limited lathe-cut vinyl edition, hand-pai
 **Maud:** At the beginning, we wanted to be at a crossroads between Sigur Rós, Beach House, and Warpaint, so I wouldn't say that. What we write reflects what we're inspired by at the moment. And it's valid for the three/four of us, since there's no "lead composer" in the group. We write altogether. So, there was never a clear direction pointing towards gloomy music, but that's what influenced us when we recorded "Volaverunt". We were also in a unique and gloomy period as well, with COVID-19 hitting our homes and lives. 
 
 **Anne:** If there was one musician, you could pick to produce some songs with them. Who would it be, and why?
+
+#﻿# "I love Anna Hausswolff's music"
 
 **Maud:** I've been musically in love with Anna von Hausswolff since I discovered her in Göteborg in 2012, so I'd definitely pick her. She has this sense of textures and fluidity that sounds incredibly dark and luminous at the same time. What she creates is always so immersive. It appears that it follows an organic/body-like pattern. It's just outstanding.
 
