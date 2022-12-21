@@ -21,7 +21,6 @@ labels:
   - Post-Rock
   - Post-Music
   - Experimental
-  - Instrumental
   - Interview
   - Interviews
   - Band
@@ -32,25 +31,31 @@ affiliate: false
 language: en
 languageLink: /2022/12/bank-myna-interview/
 ---
-**Bank Myna singer Maud texted me to ask me about an interview. That's when I first came in contact with their music. When I listened to their songs, it felt a bit like coming home or arriving at some place I had missed for a long time. Kind of like something that's been apart for quite a while is now whole and put into place again.**
+**Bank Myna singer Maud texted me to ask me about an interview. That's when I first came in contact with her band's music. When I listened to Bank Myna's songs, it felt a bit like coming home or arriving at some place I had missed for a long time. Kind of like something that's been apart for quite a while is now whole and put into place again.**
 
-The release of the Paris-based project's latest record, "Volaverunt", was quite a success: the haptic version had been sold out after just a few days. And: because of a reason. They created a unique universe with their music, in which the world of dark post-rock, drone, sonic experiments, and doom-like incursions come together in a very natural and harmonious way.
+The release of the Paris-based project's latest record, "Volaverunt", was quite a success: The haptic version was sold out after just a few days. Bank Myna created a unique universe with their music, in which the world of dark post-rock, drone, sonic experiments, and doom-like incursions come together in a very natural and harmonious way.
 
 Maud's beautiful voice sounds mystical and adds a fairytale-like touch to the droning soundscapes and deep and texture-rich sound of Bank Myna.
 
+**Anne:** Hi, Maud! Thanks so much for inviting me to the world of Bank Myna. I love your music! It is so multifaceted and powerful! 
+
+How are you doing today?
+
 ## "We are working on new material"
 
-**Maud:** Thanks for your words! I'm feeling pretty good! We had our last rehearsal of 2022 today with the band, and it was heart-warming. We've had a fierce and full year with the release of our album and many shows. Furthermore, we're finally working on new material with our not-so-new-now drummer, and we have many great things ahead! Thanks for asking!
+**Maud:** Thanks for your words! 
+
+I'm feeling pretty good! We had our last rehearsal of 2022 today with the band, and it was heart-warming. We've had a fierce and full year with the release of our album and many shows. Furthermore, we're finally working on new material with our not-so-new-now drummer, and we have many great things ahead! Thanks for asking!
 
 **Anne:** Your current album is terrific. I enjoy listening to it a lot. You must be delighted with the outcome of your work, are you? 
 
 ![Bank Myna – "Volaverunt"](https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-1-jpeg-imagine-180808_494139_700_700/640.webp "Bank Myna – \\"Volaverunt\\"")
 
-**Maud:** It's not really in our DNA to brag, but yes, we're proud of it, and mostly because it is a result of a complicated and complex period for us. Our former drummer had just left the band, we had found ourselves with no rhythmic basis, and we were pretty lost. This album is a success because the three of us have continued writing and producing new sounds and tracks. It was a real challenge and felt like a "rebirth" somehow!
+**Maud:** It's not really in our DNA to brag, but yes, we're proud of it, and mostly because it is a result of a complicated and complex period for us. Our former drummer had just left the band, we'd found ourselves without a rhythmic basis, and we were pretty lost. This album is a success because the three of us have continued writing and producing new sounds and tracks. It was a real challenge and felt like a "rebirth" somehow!
 
 **Anne:** What inspired you to write it?
 
-**Maud:** After our drummer left, we planned a gig at Post in Paris festival three months later. We decided to give it a go anyway and wrote the basis of "Volaverunt" in a few weeks. It was initially a 30-minute-long improvisation with various parts. We had no drums any more, so we wanted to release ourselves from structures from norms and have as few boundaries as possible! The central theme is freedom.
+**Maud:** After our drummer left, we planned a gig at Post in Paris festival three months later. We decided to give it a go anyway and wrote the basis of "Volaverunt" in a few weeks. It was initially a 30-minute-long improvisation with various parts. We had no drums any more, so we wanted to release ourselves from structures and norms to have as few boundaries as possible! So, our central theme is freedom.
 
 **Anne:** You released "Volaverunt" at the beginning of this year. And now you're already working on new stuff?
 
