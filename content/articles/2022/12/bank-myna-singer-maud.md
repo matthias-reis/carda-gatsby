@@ -73,7 +73,7 @@ I'm feeling pretty good! We had our last rehearsal of 2022 today with the band, 
 
 <YouTube id="ijNPZmiem0s" />
 
-The label is also preparing a strictly limited lathe-cut vinyl edition, hand-painted by one of the co-owner. They have such an artsy/DIY vibe, I love everything they do, and you should definitely check their catalogue!
+The label is also preparing a strictly limited lathe-cut vinyl edition, hand-painted by one of the co-owners. They have such an artsy/DIY vibe, I love everything they do, and you should definitely check their catalogue!
 
 **Anne:** Any other occasions we can see you live on stage these days?
 
@@ -103,4 +103,4 @@ The label is also preparing a strictly limited lathe-cut vinyl edition, hand-pai
 
 **Anne:** Thanks so much for answering my questions! Talking to you was an honour!
 
-**Maud:** Thanks a lot. I enjoyed it a lot. Have a lovely holiday season!
+**Maud:** Thanks a lot. I enjoyed it a lot. Have a lovely holiday season! 
