@@ -85,7 +85,7 @@ The label is also preparing a strictly limited lathe-cut vinyl edition, hand-pai
 
 **Anne:** If there was one musician, you could pick to produce some songs with. Who would it be, and why?
 
-## "I love Anna Hausswolff's music"
+## "I love Anna von Hausswolff's music"
 
 **Maud:** I've been musically in love with Anna von Hausswolff since I discovered her in Göteborg in 2012, so I'd definitely pick her. She has this sense of textures and fluidity that sounds incredibly dark and luminous at the same time. What she creates is always so immersive. It appears that it follows an organic/body-like pattern. It's just outstanding.
 
