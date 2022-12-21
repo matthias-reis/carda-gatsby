@@ -95,7 +95,7 @@ The label is also preparing a strictly limited lathe-cut vinyl edition, hand-pai
 
 **Anne:** What does the name Bank Myna stand for?
 
-**Maud:** I wish I had an amazing story or concept to tell, but unfortunately, it's not the case! So, let me tell you how it happened! In 2013, we had just had a fixed line-up, and we wanted to work in a democratic way. So, we absolutely wanted everyone to agree with the band's name. None of us was from Paris, yet, all of us lived there, so we decided to pick up a list of migratory birds. Migratory because we felt uprooted, and a bird because we like airy music and ethereal atmospheres. The name "Bank Myna" really stood out to us, and we liked how it sounded and looked… well, it's not even a migratory bird, but there you go. So, that's why we are called Bank Myna!
+**Maud:** I wish I had an amazing story or concept to tell, but unfortunately, it's not the case! So, let me tell you how it happened! In 2013, we had just had a fixed line-up, and we wanted to work in a democratic way. So, we absolutely wanted everyone to agree with the band's name. None of us was from Paris, yet, all of us lived there, so we decided to pick up a list of migratory birds. Migratory because we felt uprooted, and a bird because we like airy music and ethereal atmospheres. The name "Bank Myna" really stood out to us, and we liked how it sounded and looked. Well, the bank myna not even a migratory bird, but there you go. So, that's why we are called Bank Myna!
 
 **Anne:** I believe there is a lot of great post-music coming from Paris these days. As a local, how would you describe the music scene there? Has it gotten more vivid over the last few years?
 
