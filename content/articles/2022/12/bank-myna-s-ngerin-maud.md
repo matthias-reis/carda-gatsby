@@ -39,7 +39,7 @@ Die Veröffentlichung der neuesten Platte des Pariser Projekts, "Volaverunt", wa
 
 Mauds wunderschöne Stimme klingt mystisch und verleiht den dröhnenden Klanglandschaften und dem tiefen und texturreichen Sound von Bank Myna einen märchenhaften Touch.
 
-#﻿# "Wir arbeiten an neuem Material"
+## "Wir arbeiten an neuem Material"
 
 **Anne:** Hallo, Maud! Vielen Dank, dass Du mich in die Welt von Bank Myna eingeladen hast. Ich liebe Eure Musik! Sie ist so vielschichtig und kraftvoll! 
 
@@ -49,7 +49,7 @@ Wie geht es dir heute?
 
 **Anne:** Euer aktuelles Album ist großartig. Ich höre es mir sehr gerne an. Ihr müsst mit dem Ergebnis Eurer Arbeit sehr zufrieden sein, oder? 
 
-![Bank Myna – "Volaverunt"](https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-1-jpeg-imagine-180808_494139_700_700/640.webp "Bank Myna – \\"Volaverunt\\"")
+![Bank Myna – "Volaverunt"](https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-1-jpeg-imagine-180808_494139_700_700/640.webp "Bank Myna – \\\"Volaverunt\\\"")
 
 **Maud:** Es ist eigentlich nicht Teil unserer DNA, zu prahlen. Aber ja, wir sind stolz darauf, und zwar vor allem deshalb, weil es das Ergebnis einer komplizierten und komplexen Zeit für uns ist. Unser ehemaliger Schlagzeuger hatte die Band gerade verlassen, wir hatten keine rhythmische Basis mehr und waren ziemlich verloren. Dieses Album ist ein Erfolg, weil wir drei weiterhin neue Sounds und Tracks geschrieben und produziert haben. Es war eine echte Herausforderung und fühlte sich irgendwie wie eine "Wiedergeburt" an.
 
@@ -61,7 +61,7 @@ Wie geht es dir heute?
 
 **Maud:** Wir haben zunächst einige Zeit damit verbracht, die Songs mit unserem neuen, aber auch nicht mehr ganz so neuen Schlagzeuger für unser Live-Set neu zu arrangieren. Er hat es geschafft, alle Tracks zu erweitern und ihnen mehr Tiefe und Kraft zu verleihen. Live klingen sie dadurch nun viel lauter. Es hat uns einige Zeit gekostet, und wir hatten auch ein paar Shows, auf die wir uns konzentrieren mussten. Aber wir arbeiten schon seit Monaten an neuem Material – langsam aber sicher. Ich kann es kaum erwarten, zu entdecken, was wir vier zusammen schreiben können. Es liegen aufregende Zeiten vor uns!
 
-#﻿# "Mit Rook zu touren war großartig"
+## "Mit Rook zu touren war großartig
 
 **Anne:** Ihr wahrt mit Rook auf Tour! Wie war es?
 
@@ -85,7 +85,7 @@ Das Label bereitet auch eine streng limitierte, gedrechselte Vinyl-Edition vor, 
 
 **Anne:** Wenn es eine⋆n Musiker⋆in gäbe, den⋆die Du Dir aussuchen könntest, um mit ihm⋆ihr einige Songs zu produzieren. Wer wäre es, und warum?
 
-#﻿# "Ich liebe die Musik von Anna von Hausswolff"
+## "Ich liebe die Musik von Anna von Hausswolff"
 
 **Maud:** Ich bin musikalisch in Anna von Hausswolff verliebt, seit ich sie 2012 in Göteborg entdeckt habe, also würde ich definitiv sie wählen. Sie besitzt dieses unglaubliche Gespür für Texturen und Fluidität, das unglaublich düster und leuchtend zugleich klingt. Was sie kreiert, ist immer so eindringlich. Es scheint, als ob es einem organischen/körperlichen Muster folgt. Es ist einfach herausragend.
 
