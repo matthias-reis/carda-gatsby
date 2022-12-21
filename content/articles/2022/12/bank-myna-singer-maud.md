@@ -77,13 +77,13 @@ The label is also preparing a strictly limited lathe-cut vinyl edition, hand-pai
 
 **Anne:** Any other occasions we can see you live on stage these days?
 
-**Maud:** As a matter of fact, yes! Soon! We'll be hitting the stage in Brussels and in Zottegem (near Gent) on the 26th and 27th of January. Again with the mighty ROOK! We're also planning a few gigs in May 2023 in Western France, and it will be it for our "Volaverunt" extended tour! 
+**Maud:** As a matter of fact, yes! Soon! We'll be hitting the stage in Brussels and in Zottegem (near Gent) on the 26th and 27th of January. Again with the mighty ROOK! We're also planning a few gigs in May 2023 in Western France, and that will be it for our "Volaverunt" extended tour! 
 
 **Anne:** Did you always want to make doomy and gloomy post-music?
 
 **Maud:** At the beginning, we wanted to be at a crossroads between Sigur Rós, Beach House, and Warpaint, so I wouldn't say that. What we write reflects what we're inspired by at the moment. And it's valid for the three/four of us, since there's no "lead composer" in the group. We write altogether. So, there was never a clear direction pointing towards gloomy music, but that's what influenced us when we recorded "Volaverunt". We were also in a unique and gloomy period as well, with COVID-19 hitting our homes and lives. 
 
-**Anne:** If there was one musician, you could pick to produce some songs with them. Who would it be, and why?
+**Anne:** If there was one musician, you could pick to produce some songs with. Who would it be, and why?
 
 ## "I love Anna Hausswolff's music"
 
