@@ -69,7 +69,7 @@ I'm feeling pretty good! We had our last rehearsal of 2022 today with the band, 
 
 **Anne:** Please tell me about the live session you filmed before you started your tour!
 
-**Maud:** One of our labels, Stellar Frequencies, offered us the opportunity to record a live session of one of our tracks. They had already released a few great-looking and sounding videos, so we jumped on the opportunity. We filmed it in an old barn in Haute-Loire (France)—a meaningful place for one of us. It's filled with memories. It's large and majestic, draped with old stones.—It's quite mystical. And we decided to play "The Open Door" with a brand-new introduction and, of course, with drums. The result is beyond our expectations. You can watch it here:
+**Maud:** One of our labels, Stellar Frequencies, offered us the opportunity to record a live session of one of our tracks. They had already released a few great-looking and sounding videos, so we jumped on the opportunity. We filmed it in an old barn in Haute-Loire (France) which is a meaningful place for us. It's filled with memories. It's large and majestic, draped with old stones—quite mystical. We decided to play "The Open Door" with a brand-new introduction and, of course, with drums. The result is beyond our expectations. You can watch it here: 
 
 <YouTube id="ijNPZmiem0s" />
 
