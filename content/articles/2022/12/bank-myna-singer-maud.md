@@ -38,9 +38,7 @@ The release of the Paris-based project's latest record, "Volaverunt", was quite 
 
 Maud's beautiful voice sounds mystical and adds a fairytale-like touch to the droning soundscapes and deep and texture-rich sound of Bank Myna.
 
-**Anne:** Hi, Maud! Thanks so much for inviting me to the world of Bank Myna. I love your music! It is so multifaceted and powerful! How are you doing today?
-
-#﻿# "We are working on new material"
+## "We are working on new material"
 
 **Maud:** Thanks for your words! I'm feeling pretty good! We had our last rehearsal of 2022 today with the band, and it was heart-warming. We've had a fierce and full year with the release of our album and many shows. Furthermore, we're finally working on new material with our not-so-new-now drummer, and we have many great things ahead! Thanks for asking!
 
@@ -60,7 +58,7 @@ Maud's beautiful voice sounds mystical and adds a fairytale-like touch to the dr
 
 **Anne:** You've been on tour with Rook! How was it?
 
-#﻿# "Touring with Rook was awesome"
+## "Touring with Rook was awesome"
 
 **Maud:** It was pretty grand! We had a couple of shows in France and one in their hometown of Gent. We loved it. When you play several shows with the same band, it creates a sense of belonging. We did not know them very well. I fell in love with their music when I saw them at Dunk!festival in May and offered to organize a few shows in France. We had a couple of Skype calls, and that's all. It was a bit of a leap into the unknown, but it turned out great. They're really remarkable. We loved playing and spending time with them. Plus, they're AMAZING live. 
 
@@ -82,7 +80,7 @@ The label is also preparing a strictly limited lathe-cut vinyl edition, hand-pai
 
 **Anne:** If there was one musician, you could pick to produce some songs with them. Who would it be, and why?
 
-#﻿# "I love Anna Hausswolff's music"
+## "I love Anna Hausswolff's music"
 
 **Maud:** I've been musically in love with Anna von Hausswolff since I discovered her in Göteborg in 2012, so I'd definitely pick her. She has this sense of textures and fluidity that sounds incredibly dark and luminous at the same time. What she creates is always so immersive. It appears that it follows an organic/body-like pattern. It's just outstanding.
 
