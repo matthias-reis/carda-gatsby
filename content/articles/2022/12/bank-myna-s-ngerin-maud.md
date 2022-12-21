@@ -22,7 +22,6 @@ labels:
   - Post-Rock
   - Post-Music
   - Experimental
-  - Instrumental
   - Interview
   - Interviews
   - Band
@@ -59,7 +58,7 @@ Wie geht es dir heute?
 
 **Anne:** Ihr habt erst Anfang des Jahres "Volaverunt" veröffentlicht. Und jetzt arbeitet Ihr schon wieder an neuen Songs? Wie macht Ihr das?
 
-**Maud:** Wir haben zunächst einige Zeit damit verbracht, die Songs mit unserem neuen, aber auch nicht mehr ganz so neuen Schlagzeuger für unser Live-Set neu zu arrangieren. Er hat es geschafft, alle Tracks zu erweitern und ihnen mehr Tiefe und Kraft zu verleihen. Live klingen sie dadurch nun viel lauter. Es hat uns einige Zeit gekostet, und wir hatten auch ein paar Shows, auf die wir uns konzentrieren mussten. Aber wir arbeiten schon seit Monaten an neuem Material – langsam aber sicher. Ich kann es kaum erwarten, zu entdecken, was wir vier zusammen schreiben können. Es liegen aufregende Zeiten vor uns!
+**Maud:** Wir haben zunächst einige Zeit damit verbracht, die Songs mit unserem neuen Schlagzeuger für unser Live-Set neu zu arrangieren. Er hat es geschafft, alle Tracks zu erweitern und ihnen mehr Tiefe und Kraft zu verleihen. Live klingen sie dadurch nun viel lauter. Es hat uns einige Zeit gekostet, und wir hatten auch ein paar Shows, auf die wir uns konzentrieren mussten. Aber wir arbeiten schon seit Monaten an neuem Material – langsam aber sicher. Ich kann es kaum erwarten, zu entdecken, was wir vier zusammen schreiben können. Es liegen aufregende Zeiten vor uns!
 
 ## "Mit Rook zu touren war großartig
 
