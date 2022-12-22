@@ -34,7 +34,7 @@ Für die Mitbearbeitung der Nachhaltigkeits-Thematik wird das Thünen-Institut i
 
 ## Klarheit über die Vorteile der veganen Ernährung
 
-Die Wissenschaftler⋆innen wünschen sich vor allem, Klarheit über die Vor- und Nachteile der unterschiedlichen Abstufungen zu erlangen. Daher wollen sie unter anderem die Aufnahme von Vitaminen und Mineralstoffen in der veganen, vegetarischen und pescetarischen Ernährung genau beobachten. Auch die Auswirkungen auf den Stoffwechsel wollen sie im Rahmen ihrer Studie untersuchen. Das dürfte auch im Hinblick auf die Körperzusammensetzung, die Knochengesundheit sowie die Unterschiede im Hinblick auf unerwünschte Substanzen bringen. Ein weiterer wichtiger Aspekt für die Forschenden sind die ökologischen, sozialen und ökonomischen Auswirkungen der drei Ernährungsweisen.
+Die Wissenschaftler⋆innen wünschen sich vor allem, Klarheit über die Vor- und Nachteile der unterschiedlichen Abstufungen zu erlangen. Daher wollen sie unter anderem die Aufnahme von Vitaminen und Mineralstoffen in der veganen, vegetarischen und pescetarischen Ernährung genau beobachten. Auch die Auswirkungen auf den Stoffwechsel wollen sie im Rahmen ihrer Studie untersuchen. Das dürfte auch Aufschluss im Hinblick auf die Körperzusammensetzung, die Knochengesundheit sowie die Unterschiede im Hinblick auf unerwünschte Substanzen bringen. Ein weiterer wichtiger Aspekt für die Forschenden sind die ökologischen, sozialen und ökonomischen Auswirkungen der drei Ernährungsweisen.
 
 Zwar finden die vegane, vegetarische und pescetarische Ernährungsweise in der Gesellschaft immer mehr Anklang,  belastbare Daten liegen den Behörden jedoch hierzulande kaum vor. Weil es längst Zeit ist, hier Abhilfe zu schaffen, rief das BfR die COPLANT-Studie ins Leben.
 
