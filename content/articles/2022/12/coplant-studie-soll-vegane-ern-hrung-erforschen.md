@@ -48,4 +48,6 @@ Ein wichtiger Aspekt ist hier vor allem auch der Punkt der [Nachhaltigkeit](/201
 
 Der Zusammenschluss aus Instituten möchte das mit seiner COPLANT-Studie ändern. Die Forschenden wollen Datenlücken schließen und evidenzbasierte Ernährungsempfehlungen zu einer pflanzenbasierten und nachhaltigen Ernährung schaffen. Die Nachbeobachtung der Studie soll zwanzig Jahre laufen.
 
+[Warum Erbsen uns nachhaltig glücklich machen, erfahrt Ihr hier](/2020/06/erbsen/).
+
 [^1]: [Pressemitteilung des Bundesinstitut für Risikobewertung (BfR) zur COPLANT-Studie](https://www.bfr.bund.de/de/coplant-studie.html)
