@@ -44,7 +44,7 @@ Besonders die vegane Ernährungsweise wurde im deutschsprachigen Raum aus wissen
 
 Zwar gibt es weltweit ein paar Studien auf dem Gebiet, insgesamt gibt es jedoch auch international nur wenige Daten zu pflanzenbasierten Ernährungsweisen. Die gesundheitliche Einordnung ist daher trotz klar erkennbarer Vorteile bisher aufgrund fehlender Belege zum Thema kaum möglich.
 
-Ein wichtiger Aspekt ist hier vor allem auch der Punkt der Nachhaltigkeit, der in Zukunft gesellschaftlich immer mehr Gewicht bekommen wird. Auch hierzu sind bislang nur einzelne Facetten schriftlich festgehalten. Ein umfangreicher Überblick über alle relevanten Dimensionen (Gesundheit, Umwelt, Gesellschaft und Wirtschaft) liegt bis heute nicht vor. 
+Ein wichtiger Aspekt ist hier vor allem auch der Punkt der [Nachhaltigkeit](/2017/02/klimaschutz-und-vegane-ernaehrung/), der in Zukunft gesellschaftlich immer mehr Gewicht bekommen wird. Auch hierzu sind bislang nur einzelne Facetten schriftlich festgehalten. Ein umfangreicher Überblick über alle relevanten Dimensionen (Gesundheit, Umwelt, Gesellschaft und Wirtschaft) liegt bis heute nicht vor. 
 
 Der Zusammenschluss aus Instituten möchte das mit seiner COPLANT-Studie ändern. Die Forschenden wollen Datenlücken schließen und evidenzbasierte Ernährungsempfehlungen zu einer pflanzenbasierten und nachhaltigen Ernährung schaffen. Die Nachbeobachtung der Studie soll zwanzig Jahre laufen.
 
