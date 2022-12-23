@@ -1,6 +1,6 @@
 ---
 date: 2022-12-23T10:15:23.337Z
-slug: the-kompressor-experiment
+slug: the-kompressor-experiment-interview
 typeName: Interview
 title: The Kompressor Experiment
 subTitle: '"Die alternative Musik-Szene verdient mehr Aufmerksamkeit"'
@@ -28,7 +28,7 @@ focusKeyword: The Kompressor Experiment Interview
 advertisement: false
 affiliate: false
 language: de
-languageLink: 2022/12/the-kompressor-experiment-en/
+languageLink: /2022/12/the-kompressor-experiment-interview-en/
 ---
 **The Kompressor Experiment ist ein progressives Musik-Projekt aus der Schweiz. Ich habe mich jetzt mit ihnen über ihr aktuelles Album "Ebb & Flow" unterhalten, das meiner Meinung nach vor allem Fans von Bands wie The Ocean und Russian Circles ansprechen wird.**
 
