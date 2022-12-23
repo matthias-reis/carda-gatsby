@@ -1,6 +1,6 @@
 ---
 date: 2022-12-23T10:10:00.041Z
-slug: the-kompressor-experiment-en
+slug: the-kompressor-experiment-interview-en
 typeName: Interview
 title: The Kompressor Experiment
 subTitle: '"The Alternative Music Scene deserves much more Support"'
