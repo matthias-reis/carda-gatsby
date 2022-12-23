@@ -32,7 +32,7 @@ languageLink: 2022/12/the-kompressor-experiment-en/
 ---
 **The Kompressor Experiment ist ein progressives Musik-Projekt aus der Schweiz. Ich habe mich jetzt mit ihnen über ihr aktuelles Album "Ebb & Flow" unterhalten, das meiner Meinung nach vor allem Fans von Bands wie The Ocean und Russian Circles ansprechen wird.**
 
-Der düstere, wunderbar harte und vielseitige Sound der Band berührt mich sehr. Auf der Platte faszinieren mich die plötzlichen Stimmungswechsel besonders. Sie passen perfekt zum Titel des Albums: Sound-Wellen türmen sich phasenweise auf, um sich wieder zurückzuziehen und schließlich und endlich mit voller Kraft über einen wunderschönen Strand der Melodien zu rollen. Lasst uns also über "Ebb & Flow" und einige weitere Kompressor Experiment Themen sprechen.
+Der düstere, wunderbar harte und vielseitige Sound der Band berührt mich sehr. Auf der Platte faszinieren mich die plötzlichen Stimmungswechsel besonders. Sie passen perfekt zum Titel des Albums: Sound-Wellen türmen sich phasenweise auf, um sich wieder zurückzuziehen und schließlich und endlich mit voller Kraft über einen wunderschönen Strand der Melodien zu rollen. Lasst uns über "Ebb & Flow" und einige weitere Kompressor Experiment Themen sprechen.
 
 **Anne:**: Hi! Danke, dass Ihr Euch die Zeit für das Interview nehmt! Wie geht es Euch? Gratulation zu Eurem großartigen Album "Ebb & Flow"! Es ist fantastisch! Bei mir läuft es nach wie vor hoch und runter. Ihr seid sicher ziemlich zufrieden mit Eurer Arbeit, oder?
 
@@ -42,7 +42,7 @@ Der düstere, wunderbar harte und vielseitige Sound der Band berührt mich sehr.
 
 ## "'2001: A Space Odyssey' und 'Twin Peaks' haben uns inspiriert"
 
-![The Kompressor Experiment – "Ebb & Flow"](https://storage.googleapis.com/cardamonchai-media/2022-12-23/the-kompressor-experiment-ebb-and-flow-jpg-imagine-c8c8c8_8a8b88_1024_768/640.webp "The Kompressor Experiment – \"Ebb & Flow\"")
+![The Kompressor Experiment – "Ebb & Flow"](https://storage.googleapis.com/cardamonchai-media/2022-12-23/the-kompressor-experiment-ebb-and-flow-jpg-imagine-c8c8c8_8a8b88_1024_768/640.webp "The Kompressor Experiment – \\"Ebb & Flow\\"")
 
 **TKE:** Unser letztes Album haben wir auf einem neuen Soundtrack für "2001: A Space Odyssey" basiert. Dieses Mal haben wir uns ein abstrakteres Thema gewünscht und haben uns erst für ein finales Konzept entschieden, nachdem wir einen Großteil der Songs schon geschrieben hatten.
 
