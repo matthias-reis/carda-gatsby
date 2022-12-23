@@ -32,7 +32,7 @@ languageLink: /2022/12/the-kompressor-experiment-interview/
 ---
 **The Kompressor Experiment is a progressive post-music project from Switzerland. I now sat down with them to talk about their current album, "Ebb & Flow", which I guess should appeal especially to fans of bands like The Ocean or Russian Circles.**
 
-The band's sophisticated, dark sound is beautifully heavy and versatile. On the record, I especially like the sudden mood changes. They perfectly fit with its title: Waves of sound pile up in phases, only to hold back again before finally reappearing and rolling over the melodic beach full force. So let's talk about it and some other Kompressor Experiment-related stuff.
+The band's sophisticated, dark sound is beautifully heavy and versatile. On the record, I especially like the sudden mood changes. They perfectly fit with its title: Waves of sound pile up in phases, only to hold back again before finally reappearing and rolling over the melodic beach full force. So, let's talk about it and some other Kompressor Experiment-related stuff.
 
 **Anne:** Hi! Thanks very much for taking the time for this interview! How are you getting along? Congrats on your fabulous album, "Ebb & Flow"! It's outstanding! It's still on heavy rotation here, though. I'm sure you're delighted with the outcome of your work. Are you?
 
