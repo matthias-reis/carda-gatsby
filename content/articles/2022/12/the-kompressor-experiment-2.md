@@ -5,7 +5,7 @@ typeName: Interview
 title: The Kompressor Experiment
 subTitle: '"Die alternative Musik-Szene verdient mehr Aufmerksamkeit"'
 seoTitle: The Kompressor Experiment – Post-Rock Interview
-description: Wenn Ihr mehr über das progressive Schweizer Post-Music Projekt
+description: Wenn Ihr mehr über das progressive Schweizer Post-Music Projekt The
   Kompressor Experiment erfahren wollte, solltet Ihr mein Interview lesen!
 excerpt: The Kompressor Experiment ist ein progressives Musik-Projekt aus der
   Schweiz. Ich habe mich jetzt mit ihnen über ihr aktuelles Album "Ebb & Flow"
