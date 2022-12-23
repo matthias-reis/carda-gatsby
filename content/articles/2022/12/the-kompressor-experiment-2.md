@@ -87,3 +87,9 @@ Man kann sehen, wie uns in den letzten zehn Minuten der Session die Lebenskraft 
 **TKE:** Wir sind überzeugt, dass die alternative Musik-Szene viel mehr Aufmerksamkeit und Unterstützung verdient. Ich kenne die Situation in anderen Ländern nicht, aber es ist eine internationale Angelegenheit, bei der großartige Bands wie TesseracT oder Anathema darum kämpfen, von ihrer Musik leben zu können.
 
 **Anne:** Danke für das Interview!
+
+## The Kompressor Experiment - Ebb & Flow (Live Session)
+
+<YouTube id="sUlniJKySAA" />
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=943880191/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://kompexp.bandcamp.com/album/ebb-flow-live-session">Ebb &amp; Flow - Live Session by The Kompressor Experiment</a></iframe>
