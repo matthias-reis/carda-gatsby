@@ -49,7 +49,7 @@ language: de
 Mit Ihrem Stück "Parasite (The Boycott Manifesto)" sprechen BRUIT ≤ harte Kritik gegenüber der Streaming-Plattform Spotify aus. Die Band bezeichnet ihr neuestes Werk als "harten Vandalismus" Gegenüber Pelagic Records kommentierten Sie die Veröffentlichung so:
 
 > "Wir werden immer wieder gefragt, warum man uns nicht bei den Streaming-Diensten findet. Das hier ist unsere universelle, digitale Antwort, die Klicks generiert, während sie a die Shareholder geht. Seit der großen Krise der Musikindustrie ist diese mutiert – sie hat sich selbst transformiert, um Künstler⋆innen auszubeuten, wie niemals zuvor, indem sie unter dem Monopol der Streaming-Plattformen zerquetscht werden. 
-
+> 
 > "In einer Zeit, in der die Veränderung eines Algorithmus Deine digitale Existenz infrage stellen kann, die Wertigkeit Deiner professionellen Aktivitäten oder den Frieden Deines sozialen Lebens, scheint es wichtiger als je zuvor, die Menschen daran zu erinnern, dass ein Publikum nicht aus einer Datenbank besteht und das Künstler⋆innen keine Influencer⋆innen sein sollten. Es ist inakzeptabel, dass Menschen wie der Spotify Chef Daniel Ek nach wie vor völlig ungestraft Künstler⋆innen ausbeuten und das Geld dazu verwenden, in KI für militärische Zwecke zu investieren. Es ist höchste Zeit, Musik-Vandalismus zu praktizieren und die Maschine zu parasitieren!"
 
 Im Rahmen ihres Statements haben BRUIT ≤ ihr Boykott-Manifest übrigens als erstes Stück bei Spotify veröffentlicht.
@@ -115,9 +115,9 @@ Auch Valentin hat wieder drei ganz besondere Stücke für Euch gepickt:
 ## Metallica – "Lux Æterna" (Vorauskopplung vom Album "72 Seasons")
 
 > "Für mich war das Ende November eine Knallermeldung: Metallica bringen ohne Vorankündigung im April 2023 ein neues Album raus, das erste seit 'Hardwired... To Self-Destruct' von 2016. Die Vorab-Single 'Lux Æterna' klingt großartig und erinnert mich sehr an das Erstlingswerk 'Kill 'Em All'. Zum Konzeptalbum '72 Seasons' mit zwölf Songs und 77 Minuten Spielzeit sagt James Hetfield Folgendes:
-
+> 
 > *'72 Seasons – 72 Jahreszeiten. Die ersten 18 Jahre unseres Lebens, in denen unser wahres oder falsches Selbstbild geprägt wird. Der Gedanke, dass unsere Eltern es waren, die einem erzählten, *wer man ist*. Welche Schubladen möglich und passend sein könnten für die Persönlichkeit, die man hat. Richtig spannend daran finde ich, wie sich diese Auseinandersetzung mit den eigenen Grundüberzeugungen darauf auswirkt, in welchem Licht wir die Welt um uns herum heute wahrnehmen. Denn ein Großteil dessen, was wir als Erwachsene erleben, ist entweder eine Wiederholung dessen oder eine Reaktion auf eben diese Kindheitserfahrungen. Gefangene der eigenen Kindheit – oder Befreiung von den Fesseln, die wir tragen.'*
-
+> 
 > Das klingt sehr interessant, finde ich und ich kann es kaum erwarten!"
 
 <YouTube id="_u-7rWKnVVo" />
