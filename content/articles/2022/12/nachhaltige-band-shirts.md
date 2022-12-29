@@ -52,7 +52,7 @@ Einige Bands, mit denen der Metal Store zusammenarbeitet, finden diese Entwicklu
 
 *H﻿inweis: Unter den Bildern geht es weiter*
 
-<Gallery name="nachhaltige-bandshirts-1-1" />
+<Gallery name="nachhaltige-bandshirts-1-2" />
 
 ## Vegane Produkte im Impericon Shop
 
