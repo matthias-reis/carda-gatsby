@@ -58,7 +58,7 @@ Einige Bands, mit denen der Metal Store zusammenarbeitet, finden diese Entwicklu
 
 Wenn Ihr Euch mit Eco Fashion beschäftigt, ist Euch die Brand Armedangels ganz sicher ein Begriff. Der Name steht seit 15 Jahren für nachhaltige und fair produzierte Kleidung. Auch im Impericon Shop könnt Ihr einige Produkte des Herstellers bestellen. Außerdem gibt es dort neben veganen Boots von Viren (aus Apfelleder!) Sneaker aus pflanzlichen und recycelten Materialien von Toms und Streetwear von Marterias Label Green Berlin.
 
-Die Verbindung von der Nachhaltigkeit zum Tierwohl hat Impericon ebenfalls erkannt. Auf der Webseite ist das so formuliert:
+Die Verbindung von der Nachhaltigkeit zum Tierwohl hat Impericon ebenfalls hergestellt. Auf der Webseite ist das so formuliert:
 
 > "Schon in der Anfangszeit von Impericon haben wir Wert darauf gelegt, auf tierische Produkte jeglicher Art zu verzichten. Diese Tradition führen wir bis heute fort: In unserem Shop findest du fast ausschließlich veganes Leder."
 
