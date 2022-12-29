@@ -68,7 +68,7 @@ Neben dem zweiten Stück "Sheol Part II" könnt Ihr online auch schon "Sheol Par
 
 ## Scale & Feather feat. At the Grove – "Slips In Time"
 
-Scale & Feather haben gemeinsam mit At the Grove eine neue Single draußen, die ich unbedingt mit Euch teilen möchte. Das Stück kommt zum Jahresende nachdenklich daher und bringt Euch alles, was Ihr Euch von gutem Post-Rock wünscht – weich bis dornig, Storytelling ohne Worte, Rhythmus und Melodie. Lasst Euch davontragen von "Slips In Time". Das Stück ist eine schöne Gelegenheit zum Nachdenken. Tipp: Die Band aus Tucson, Arizona hat in diesem Jahr fast jeden Monat eine Single veröffentlicht. Hört Euch mal durch!
+Scale & Feather haben gemeinsam mit At the Grove eine neue Single draußen, die ich unbedingt mit Euch teilen möchte. Das Stück kommt zum Jahresende nachdenklich daher und bringt Euch alles, was Ihr Euch von gutem Post-Rock wünscht – weich bis dornig, Storytelling ohne Worte, Rhythmus und Melodie. Lasst Euch davontragen von "Slips In Time". Der Song ist eine schöne Gelegenheit zum Nachdenken. Tipp: Die Band aus Tucson, Arizona hat in diesem Jahr fast jeden Monat eine Single veröffentlicht. Hört Euch mal durch!
 
 <YouTube id="9Leblu3Vrow" />
 
