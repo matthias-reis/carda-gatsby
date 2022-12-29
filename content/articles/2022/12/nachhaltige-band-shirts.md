@@ -46,7 +46,7 @@ Meine wunderbaren Bandshirts von Gojira, Architects und Violet Cold, das kuschel
 
 Wenn Ihr auch auf der Suche nach nachhaltigem Band Merch im Impericon Shop seid, macht es Euch der Anbieter ganz einfach: Alle Produkte aus dieser Kategorie sind im Onlineshop klar gekennzeichnet. Oder Ihr klickt ganz einfach [auf diese Übersichtsseite](https://tidd.ly/3vojKCB).
 
-Bei Impericon ist man besonders stolz darauf, dass das Sortiment an nachhaltigen Produkten in kürzester Zeit stark aufgestockt werden konnte und herkömmliches Band Merch nach und nach immer mehr ablösen.
+Bei Impericon ist man besonders stolz darauf, dass das Sortiment an nachhaltigen Produkten in kürzester Zeit stark aufgestockt werden konnte und diese das herkömmliche Band Merch nach und nach immer mehr ablösen.
 
 Einige Bands, mit denen der Metal Store zusammenarbeitet, finden diese Entwicklung großartig und sind ganz vorne mit dabei. Die Shirts von Architects, Parkway Drive, Thy Art Is Murder und Beartooth beispielsweise lässt Impericon zu 100 Prozent aus Bio-Baumwolle fertigen.
 
