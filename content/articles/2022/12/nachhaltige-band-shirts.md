@@ -3,8 +3,8 @@ date: 2022-12-29T16:50:24.508Z
 slug: nachhaltige-bandshirts
 typeName: Produkttest
 title: Nachhaltige Band-Shirts
-subTitle: Impericon Merch
-seoTitle: Nachhaltiges Band Merch von Impericon
+subTitle: Impericon Band Merch
+seoTitle: Nachhaltige Bandshirts von Impericon
 description: Ihr seid auf der Suche nach nachhaltigem und veganem Band Merch?
   Ich zeige Euch, wo Ihr es bekommt!
 excerpt: "Als Musikfan habe ich meinen Kleiderschrank zur Hälfte mit Band Merch
