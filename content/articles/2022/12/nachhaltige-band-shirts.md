@@ -36,7 +36,7 @@ language: de
 ---
 **Als Musikfan habe ich meinen Kleiderschrank zur Hälfte mit Band Merch gefüllt. Als Nachhaltigkeits-Bloggerin betrachte ich meinen Konsum natürlich kritisch und überlege hin und her: Für die meisten Bands zählt jeder Cent und ich unterstütze sie natürlich gerne, indem ich ein T-Shirt kaufe. Vor allem sind das natürlich auch erstklassige Andenken. Doch nicht immer steckt ein nachhaltiges Label hinter den Klamotten am Merch-Stand – obwohl sich in letzter Zeit auch immer mehr Künstler⋆innen Gedanken um dieses Thema machen.**
 
-Wer das auch tut, sind die Menschen von Impericon. Den großen Metal-Merch-Versand kennt Ihr sicher alle. Seit einiger Zeit setzten sich die Bandshirt-Profis immer mehr ein in Sachen Nachhaltigkeit – Ressourcenschonung und umweltfreundliche Herstellung rücken dort immer mehr in den Vordergrund.
+Wer das auch tut, sind die Menschen von Impericon. Den großen Metal-Merch-Versand kennt Ihr sicher alle. Seit einiger Zeit setzen sich die Bandshirt-Profis immer mehr ein in Sachen Nachhaltigkeit – Ressourcenschonung und umweltfreundliche Herstellung rücken dort immer mehr in den Vordergrund.
 
 Die Warnungen der Klimaforscher⋆innen vor irreversiblen Klimaschäden sind dem Impericon Team alles andere egal. Das und der immer lauter werdende Ruf der Fans nach nachhaltigen Produkten hat beim Metal-Merch-Giganten für ein Umdenken gesorgt. Im Onlineshop findet man heute immer mehr Produkte in der Kategorie ["Nachhaltig"](https://tidd.ly/3vojKCB).
 
