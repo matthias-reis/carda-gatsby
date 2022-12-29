@@ -74,7 +74,7 @@ Scale & Feather haben gemeinsam mit At the Grove eine neue Single draußen, die 
 
 ## Architects – "Deepfake" vom Album "The Classic Symptoms Of A Broken Spirit"
 
-Warum ich das aktuelle Architects Album hier noch nicht erwähnt habe, kann ich Euch nicht sagen. Tatsache ist, dass es bereits im Oktober erschienen ist und ich es seither immer wieder höre. Und nicht damit aufhöre. Und Tatsache ist auch, dass es gut ist. Bestimmt hört Ihr es auch schon hoch und runter. Falls nicht: Hier ist der Opener "Deep Fake". Falls doch: Das hier ist die perfekte Gelegenheit, um wieder in diese Platte abzutauchen. Daher: Gern geschehen! "The Classic Symptoms Of A Broken Spirit" handelt von der düsteren Zeit, in der wir leben und ich finde, das hat die Metalcore-Band aus Brighton ganz wunderbar vertont.
+Warum ich das aktuelle Architects Album hier noch nicht erwähnt habe, kann ich Euch nicht sagen. Tatsache ist, dass es bereits im Oktober erschienen ist und ich es seither immer wieder höre. Und nicht damit aufhöre. Und Tatsache ist auch, dass es gut ist. Bestimmt hört Ihr es auch schon hoch und runter. Falls nicht: Hier ist der Opener "Deep Fake". Falls doch: Das hier ist die perfekte Gelegenheit, um wieder in diese Platte abzutauchen. Daher: Gern geschehen! "The Classic Symptoms Of A Broken Spirit" handelt von den ungewissen Zeiten, in denen wir leben und ich finde, das hat die Metalcore-Band aus Brighton ganz wunderbar vertont.
 
 <YouTube id="TnCUJVPQH3I" />
 
