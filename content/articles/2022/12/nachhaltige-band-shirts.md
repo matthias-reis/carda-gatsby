@@ -38,7 +38,7 @@ language: de
 
 Wer das auch tut, sind die Menschen von Impericon. Den großen Metal-Merch-Versand kennt Ihr sicher alle. Seit einiger Zeit setzt sich der Bandshirt-Vorreiter immer mehr ein in Sachen Nachhaltigkeit – Ressourcenschonung und umweltfreundliche Herstellung rücken dort immer mehr in den Vordergrund.
 
-Die Warnungen der Klimaforscher⋆innen vor irreversiblen Klimaschäden sind dem Impericon Team alles andere egal. Das und der immer lauter werdende Ruf nach nachhaltigen Produkten hat beim Metal-Merch-Giganten für ein Umdenken gesorgt. Im Onlineshop findet man heute immer mehr Produkte in der Kategorie ["Nachhaltig"](https://tidd.ly/3vojKCB).
+Die Warnungen der Klimaforscher⋆innen vor irreversiblen Klimaschäden sind dem Impericon Team alles andere egal. Das und der immer lauter werdende Ruf der Fans nach nachhaltigen Produkten hat beim Metal-Merch-Giganten für ein Umdenken gesorgt. Im Onlineshop findet man heute immer mehr Produkte in der Kategorie ["Nachhaltig"](https://tidd.ly/3vojKCB).
 
 ## Architects und Beartooth haben Bandshirts aus Bio-Baumwolle
 
