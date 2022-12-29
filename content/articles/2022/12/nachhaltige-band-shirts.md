@@ -64,7 +64,7 @@ Die Verbindung von der Nachhaltigkeit zum Tierwohl hat Impericon ebenfalls herge
 
 Nachhaltigkeit: Check. Vegane Produkte: Check. Hinzu kommt klimaneutraler Versand innerhalb Deutschlands. Und der funktioniert so: Gegen einen geringen Aufpreis könnt Ihr Euch Eure Impericon Bestellungen mit DHL GoGreen liefern lassen. DHL verspricht dann, transportbedingte CO2-Emissionen durch die Unterstützung von Klimaschutz-Projekten wieder auszugleichen.
 
-## Viva con Auga und Sea Shepherd durch den Kauf von Band Merch unterstützen
+## Viva con Agua und Sea Shepherd durch den Kauf von Band Merch unterstützen
 
 Mit dem Kauf von Produkten aus der Kategorie ["Together For Charity"](https://tidd.ly/3WxTqSy) im Impericon Shop unterstützt Ihr gemeinnützige Organisationen. Darunter unter anderem Viva con Agua, die sich für den Zugang zu sauberem Trinkwasser einsetzen und Sea Shepherd, die für den Schutz der Meere und ihrer Bewohner kämpfen.
 
