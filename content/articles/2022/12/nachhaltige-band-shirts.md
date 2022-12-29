@@ -50,7 +50,7 @@ Bei Impericon ist man besonders stolz darauf, dass das Sortiment an nachhaltigen
 
 Einige Bands, mit denen der Metal Store zusammenarbeitet, finden diese Entwicklung großartig und sind ganz vorne mit dabei. Die Shirts von Architects, Parkway Drive, Thy Art Is Murder und Beartooth beispielsweise lässt Impericon zu 100 Prozent aus Bio-Baumwolle fertigen.
 
-**H﻿inweis:** Unter den Bildern geht es weiter!
+***H﻿inweis:** Unter den Bildern geht es weiter*
 
 <Gallery name="nachhaltige-bandshirts-1-1" />
 
