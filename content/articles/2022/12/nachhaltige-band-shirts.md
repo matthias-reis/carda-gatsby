@@ -12,9 +12,7 @@ excerpt: "Als Musikfan habe ich meinen Kleiderschrank zur Hälfte mit Band Merch
   kritisch und überlege hin und her: Für die meisten Bands zählt jeder Cent und
   ich unterstütze sie natürlich gerne, indem ich ein T-Shirt kaufe. Vor allem
   sind das natürlich auch erstklassige Andenken. Doch nicht immer steckt ein
-  nachhaltiges Label hinter den Klamotten am Merch-Stand – obwohl sich in
-  letzter Zeit auch immer mehr Künstler⋆innen Gedanken über diesen Punkt
-  machen."
+  nachhaltiges Label hinter den Klamotten am Merch-Stand."
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-29/nachhaltige-bandshirts-jpg-imagine-181818_755750_1024_768/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-29/nachhaltige-bandshirts-og-jpg-imagine-181818_74564f_1200_628/640.webp
@@ -36,7 +34,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
-**Als Musikfan habe ich meinen Kleiderschrank zur Hälfte mit Band Merch gefüllt. Als Nachhaltigkeits-Bloggerin betrachte ich meinen Konsum natürlich kritisch und überlege hin und her: Für die meisten Bands zählt jeder Cent und ich unterstütze sie natürlich gerne, indem ich ein T-Shirt kaufe. Vor allem sind das natürlich auch erstklassige Andenken. Doch nicht immer steckt ein nachhaltiges Label hinter den Klamotten am Merch-Stand – obwohl sich in letzter Zeit auch immer mehr Künstler⋆innen Gedanken über diesen Punkt machen.**
+**Als Musikfan habe ich meinen Kleiderschrank zur Hälfte mit Band Merch gefüllt. Als Nachhaltigkeits-Bloggerin betrachte ich meinen Konsum natürlich kritisch und überlege hin und her: Für die meisten Bands zählt jeder Cent und ich unterstütze sie natürlich gerne, indem ich ein T-Shirt kaufe. Vor allem sind das natürlich auch erstklassige Andenken. Doch nicht immer steckt ein nachhaltiges Label hinter den Klamotten am Merch-Stand – obwohl sich in letzter Zeit auch immer mehr Künstler⋆innen Gedanken um dieses Thema machen.**
 
 Wer das auch tut, sind die Menschen von Impericon. Den großen Metal-Merch-Versand kennt Ihr sicher alle. Seit einiger Zeit setzt sich der Bandshirts Vorreiter in Sachen immer mehr ein in Sachen Nachhaltigkeit – Ressourcenschonung und umweltfreundliche Herstellung rücken dort immer mehr in den Vordergrund.
 
