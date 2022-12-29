@@ -42,7 +42,7 @@ Die Warnungen der Klimaforscher⋆innen vor irreversiblen Klimaschäden sind dem
 
 ## Architects und Beartooth haben Bandshirts aus Bio-Baumwolle
 
-Meine wunderbaren Bandshirts von Gojira, Architects und Violet Cold, das kuschelige Holzfällerhemd sowie die freshen Socken, die Ihr auf den Bildern sehen könnt, stammen aus der Nachhaltigkeit-Ecke im Impericon Shop. Die Qualität ist großartig und ich glaube, dass ich sehr lange etwas von diesen starken Teilen haben werde.
+Meine wunderbaren Bandshirts von Gojira, Architects und Violet Cold, das kuschelige Holzfällerhemd sowie die freshen Socken, die Ihr auf den Bildern sehen könnt, stammen aus der Nachhaltigkeits-Ecke im Impericon Shop. Die Qualität ist großartig und ich glaube, dass ich sehr lange etwas von diesen starken Teilen haben werde.
 
 Wenn Ihr auch auf der Suche nach nachhaltigem Band Merch im Impericon Shop seid, macht es Euch der Anbieter ganz einfach: Alle Produkte aus dieser Kategorie sind im Onlineshop klar gekennzeichnet. Oder Ihr klickt ganz einfach [auf diese Übersichtsseite](https://tidd.ly/3vojKCB).
 
