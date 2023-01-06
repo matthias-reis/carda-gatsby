@@ -75,7 +75,7 @@ Wir teilen unsere Liebe für Post-Musik und alles Experimentelle. Wolltet ihr sc
 
 ## "Die Genres abseits der ausgetretenen Pfade haben mich schon immer fasziniert"
 
-![Holzarbeit von Curtis Rockhold. Foto: Curtis Rockhold privat](https://storage.googleapis.com/cardamonchai-media/2023-01-06/scale-and-feather-guitar-curtis-rockhold-woodwork-jpg-imagine-d8b878_a59278_1080_1080/640.webp "Holzarbeit von Curtis Rockhold. Foto: Curtis Rockhold privat")
+![Holzarbeit von Curtis Rockhold. Foto: Curtis Rockhold privat](https://storage.googleapis.com/cardamonchai-media/2023-01-06/curtis-rockhold-scale-and-feather-woodwork-guitars-jpg-imagine-d8b878_a78b6d_1024_768/640.webp "Holzarbeit von Curtis Rockhold. Foto: Curtis Rockhold privat")
 
 **Curtis:** Ich habe mich schon immer zu den Genres hingezogen gefühlt, die abseits der ausgetretenen Pfade liegen. Als ich jünger war, stand ich auf Punk, dann auf Emo und Hardcore. Schließlich kamen diese Post-Genres (Post-Metal/Rock, Ambient, Experimental) auf. Ich glaube, ein Genre zu finden, in dem man nicht singen muss und von der typischen Songstruktur, Strophe-Refrain-Strophe usw., wegzukommen, war schon früh sehr reizvoll. 
 
