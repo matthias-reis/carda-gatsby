@@ -48,7 +48,7 @@ Das Paper räumt ein, dass die Deutschen weit mehr Fleisch konsumieren, als ern�
 
 Die neue Strategie setzt nicht nur im Kampf gegen ernährungsbedingte Krankheiten auf pflanzliche Ernährung. Auch die Klimakrise spielt eine entscheidende Rolle. Im Paper heißt es zu den Beweggründen:
 
-"Unsere Ernährung kann ein Mittel zur Selbstverwirklichung oder Teil unserer Kultur und Lebenseinstellung sein. Wie und was wir essen, hat jedoch auch weitreichende Auswirkungen: auf die Umwelt, die biologische Vielfalt und das Klima in Deutschland und weltweit. Auf Tiere als unsere Mitgeschöpfe, auf die Agrar- und Ernährungswirtschaft und nicht zuletzt auf unsere Gesundheit und unser Wohlbefinden."
+> "Unsere Ernährung kann ein Mittel zur Selbstverwirklichung oder Teil unserer Kultur und Lebenseinstellung sein. Wie und was wir essen, hat jedoch auch weitreichende Auswirkungen: auf die Umwelt, die biologische Vielfalt und das Klima in Deutschland und weltweit. Auf Tiere als unsere Mitgeschöpfe, auf die Agrar- und Ernährungswirtschaft und nicht zuletzt auf unsere Gesundheit und unser Wohlbefinden."
 
 Die deutschen Landwirtschafts- und Lebensmittelsysteme sind für etwa ein Viertel unserer Treibhausgasemissionen verantwortlich. Heute wird immer genauer beobachtet, wie wir Lebensmittel produzieren sollten, um unser Ziel zu erreichen, bis 2045 klimaneutral zu werden.
 
