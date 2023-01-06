@@ -13,7 +13,7 @@ excerpt: "Scale & Feather is a Tucson, Arizona-based post-rock project founded
   mentioned some of them in the monthly music lists I publish here on my blog,
   which is how I came in contact with Curtis. Long story short: I asked him for
   an interview!"
-image: https://storage.googleapis.com/cardamonchai-media/2023-01-06/scale-and-feather-curtis-rockhold-1-jpg-imagine-181818_726d66_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2023-01-06/scale-and-feather-curtis-rockhold-4-jpg-imagine-181818_79736b_1024_768/640.webp
 copyrigt: Scale & Feather
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-06/scale-and-feather-curtis-rockhold-og-1-jpeg-imagine-181818_7c7469_1200_628/640.webp
 labels:
