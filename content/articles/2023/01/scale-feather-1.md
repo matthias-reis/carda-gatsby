@@ -117,4 +117,4 @@ Wir teilen unsere Liebe für Post-Musik und alles Experimentelle. Wolltet ihr sc
 
 ## Scale & Feather "Arizona" (Full Album)
 
-<YouTube id="tuModL7wGlw&t=4s" />
+<YouTube id="tuModL7wGlw" />
