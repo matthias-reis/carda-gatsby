@@ -44,7 +44,7 @@ languageLink: /2023/01/scale-and-feather-interview/
 
 ## "The calm and introspective mood of "Knit Together" came from that state of mind"
 
-![Curtis Rockhold, Scale & Feather. Picture: private](https://storage.googleapis.com/cardamonchai-media/2023-01-06/curtis-rockhold-scale-and-feather-3-jpg-imagine-281818_785e48_1024_768/640.webp "Curtis Rockhold, Scale & Feather. Picture: private")
+![Scale & Feather founder Curtis Rockhold. Picture: private](https://storage.googleapis.com/cardamonchai-media/2023-01-06/curtis-rockhold-scale-and-feather-3-jpg-imagine-281818_785e48_1024_768/640.webp "Scale & Feather founder Curtis Rockhold. Picture: private")
 
 **Curtis:** "Knit Together" is a stand-alone EP. At first, I didn't plan to release it. It was more a place to put ideas that were more contemplative and stripped down. When I released it, it was shortly after I found out my wife was pregnant with our second son, so a lot of that calm and introspection came from that state of mind and made its way into the titles. The three singles, also released in 2022, will be part of an upcoming album in spring this year. There are a few songs on there that are still being finished off and tied together to create a cohesive album, hopefully. 
 
