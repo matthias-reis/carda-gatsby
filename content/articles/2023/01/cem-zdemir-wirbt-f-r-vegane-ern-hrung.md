@@ -32,7 +32,7 @@ language: de
 
 Das erklärte Ziel der Bundesregierung ist die Schaffung einer integrativen Ernährungsstrategie. Diese soll einen Wandel des Ernährungssystems mit Initiativen zur frühzeitigen Bildung und Barrierefreiheit anstoßen und sich dabei an der Deutschen Gesellschaft für Ernährung (DGE) und der Planetary Health Diet orientieren.
 
-!["Be Fair. Be Vegan!" (Slogan: Tierrechtsaktivistenbündnis)](https://storage.googleapis.com/cardamonchai-media/2023-01-06/cem-oezdemir-vegan-1-jpg-imagine-e8e8e8_81a2a1_1024_768/640.webp "\"Be Fair. Be Vegan!\" (Slogan: Tierrechtsaktivistenbündnis)")
+!["Be Fair. Be Vegan!" (Slogan: Tierrechtsaktivistenbündnis)](https://storage.googleapis.com/cardamonchai-media/2023-01-06/cem-oezdemir-vegan-1-jpg-imagine-e8e8e8_81a2a1_1024_768/640.webp "\\"Be Fair. Be Vegan!\\" (Slogan: Tierrechtsaktivistenbündnis)")
 
 Die derzeitige Regierung leitet damit eine komplette Neuausrichtung ein, hin zu einer größeren Akzeptanz für ein veganes Leben, weg vom Fleisch-Lobbyismus. Inwieweit dieser greift und sich auf lange Sicht durchsetzt, lässt sich heute noch schwer einschätzen. Man kann jedoch ganz klar von einem Hoffnungsschimmer sprechen.
 
@@ -42,7 +42,7 @@ Cem Özdemir kommentiert die Eckpfeiler seines Papers so:
 
 ## Die Klimakrise mit pflanzlichen Lebensmitteln bekämpfen
 
-Das Paper räumt ein, dass die Deutschen weit mehr Fleisch konsumieren, als von ernährungsphysiologisch empfohlen wird. Es betont auch die Notwendigkeit, in staatlichen Einrichtungen wie Schulen, Krankenhäuser und Pflegeeinrichtungen mit gutem Beispiel voranzugehen. Cem Özdemir findet:
+Das Paper räumt ein, dass die Deutschen weit mehr Fleisch konsumieren, als ernährungsphysiologisch empfohlen. Es betont auch die Notwendigkeit, in staatlichen Einrichtungen wie Schulen, Krankenhäuser und Pflegeeinrichtungen mit gutem Beispiel voranzugehen. Cem Özdemir findet:
 
 > "Wer erlebt, wie gut Obst, Gemüse und Hülsenfrüchte schmecken, greift vielleicht nicht mehr ganz so häufig zu dem bei de Deutschen so beliebten Kantinenessen Currywurst mit Pommes."
 
