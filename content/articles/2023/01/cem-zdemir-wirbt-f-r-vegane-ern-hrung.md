@@ -42,7 +42,7 @@ Cem Özdemir kommentiert die Eckpfeiler seines Papers so:
 
 ## Die Klimakrise mit pflanzlichen Lebensmitteln bekämpfen
 
-Das Paper räumt ein, dass die Deutschen weit mehr Fleisch konsumieren, als ernährungsphysiologisch empfohlen. Es betont auch die Notwendigkeit, in staatlichen Einrichtungen wie Schulen, Krankenhäuser und Pflegeeinrichtungen mit gutem Beispiel voranzugehen. Cem Özdemir findet:
+Das Paper räumt ein, dass die Deutschen weit mehr Fleisch konsumieren, als ernährungsphysiologisch empfohlen. Es betont auch die Notwendigkeit, in staatlichen Einrichtungen wie Schulen, Krankenhäusern und Pflegeeinrichtungen mit gutem Beispiel voranzugehen. Cem Özdemir findet:
 
 > "Wer erlebt, wie gut Obst, Gemüse und Hülsenfrüchte schmecken, greift vielleicht nicht mehr ganz so häufig zu dem bei de Deutschen so beliebten Kantinenessen Currywurst mit Pommes."
 
