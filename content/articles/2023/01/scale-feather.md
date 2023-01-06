@@ -74,7 +74,7 @@ We share our love for post-music and everything experimental. Did you always wan
 
 ## "Those genres off the beaten path always fascinated me"
 
-![Woodwork by Curtis Rockhold. Picture: private](https://storage.googleapis.com/cardamonchai-media/2023-01-06/scale-and-feather-curtis-rockhold-woodwork-3-jpg-imagine-a89878_a67556_1024_768/640.webp "Woodwork by Curtis Rockhold. Picture: private")
+![Woodwork by Curtis Rockhold. Picture: private](https://storage.googleapis.com/cardamonchai-media/2023-01-06/curtis-rockhold-scale-and-feather-woodwork-guitars-jpg-imagine-d8b878_a78b6d_1024_768/640.webp "Woodwork by Curtis Rockhold. Picture: private")
 
 **Curtis:** I've always been drawn to those genres that were off the beaten path. When I was younger, I was into punk and then into emo and hardcore. Finally, those post-genres (post-metal/rock, ambient, experimental) came up. I think finding a genre where vocals weren't a requirement and getting away from typical song structure, verse chorus verse, etc., was definitely appealing early on. 
 
