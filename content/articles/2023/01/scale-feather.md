@@ -100,7 +100,7 @@ We share our love for post-music and everything experimental. Did you always wan
 
 **Anne:** Are you more into spending time rehearsing and jamming until you find the perfect tune? Or more like one of those perfectly organized musicians, going to the studio already heaving this big overall concept in mind about what you're going to record?
 
-**Curtis:**I tend to write almost whole songs in this stream-of-consciousness kind of setting. I'll then go back later and dissect things and start tweaking and pulling things apart or adding areas. Sometimes I'll strip away whole songs. So, the end product is entirely different, but in a lot of ways, it's just what is coming to me at that moment. 
+**Curtis:** I tend to write almost whole songs in this stream-of-consciousness kind of setting. I'll then go back later and dissect things and start tweaking and pulling things apart or adding areas. Sometimes I'll strip away whole songs. So, the end product is entirely different, but in a lot of ways, it's just what is coming to me at that moment. 
 
 **Anne:** What are your plans for 2023? Will there be any live shows? You already mentioned a new Scale & Feather album?
 
