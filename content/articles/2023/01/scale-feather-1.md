@@ -101,7 +101,7 @@ Wir teilen unsere Liebe für Post-Musik und alles Experimentelle. Wolltet ihr sc
 
 **Anne:** Jammst Du so lange, bis Du die perfekte Melodie gefunden hast? Oder bist Du eher einer dieser perfekt organisierten Musiker⋆innen, die ins Studio gehen und schon ein großes Gesamtkonzept davon im Kopf haben, was sie aufnehmen wollen?
 
-**Curtis:** Ich neige dazu, fast ganze Songs in einer Art Strom des Bewusstseins zu schreiben. Später gehe ich dann zurück und seziere die Dinge und fange an, sie zu optimieren, auseinanderzunehmen oder Bereiche hinzuzufügen. Manchmal entferne ich auch ganze Songs. Das Endprodukt ist also ganz anders, aber in vielerlei Hinsicht ist es einfach das, was mir in diesem Moment einfällt. 
+**Curtis:** Ich neige dazu, fast ganze Songs in einer Bewusstseinsstrom zu schreiben. Später gehe ich dann zurück und seziere die Dinge und fange an, sie zu optimieren, auseinanderzunehmen oder Bereiche hinzuzufügen. Manchmal entferne ich auch ganze Songs. Das Endprodukt ist also ganz anders, aber in vielerlei Hinsicht ist es einfach das, was mir in diesem Moment einfällt.
 
 **Anne:** Wie sehen sind Deine Pläne für 2023 aus? Wird es Live-Shows geben? Von einer neuen Scale & Feather Platte hast Du ja schon gesprochen.
 
