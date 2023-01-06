@@ -44,7 +44,7 @@ Cem Özdemir kommentiert die Eckpfeiler seines Papers so:
 
 Das Paper räumt ein, dass die Deutschen weit mehr Fleisch konsumieren, als ernährungsphysiologisch empfohlen. Es betont auch die Notwendigkeit, in staatlichen Einrichtungen wie Schulen, Krankenhäusern und Pflegeeinrichtungen mit gutem Beispiel voranzugehen. Cem Özdemir findet:
 
-> "Wer erlebt, wie gut Obst, Gemüse und Hülsenfrüchte schmecken, greift vielleicht nicht mehr ganz so häufig zu dem bei de Deutschen so beliebten Kantinenessen Currywurst mit Pommes."
+> "Wer erlebt, wie gut Obst, Gemüse und Hülsenfrüchte schmecken, greift vielleicht nicht mehr ganz so häufig zu dem bei den Deutschen so beliebten Kantinenessen Currywurst mit Pommes."
 
 Die neue Strategie setzt nicht nur im Kampf gegen ernährungsbedingte Krankheiten auf pflanzliche Ernährung. Auch die Klimakrise spielt eine entscheidende Rolle. Im Paper heißt es zu den Beweggründen:
 
