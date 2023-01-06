@@ -9,9 +9,9 @@ description: Cem Özdemir spricht sich in seinem neuen Paper für die vegane
   Ernährungsweise aus – für das Klima und das Leben auf diesem Planeten. Jetzt
   alles erfahren!
 excerpt: Im Rahmen der geplanten nationalen Ernährungsstrategie setzt
-  Deutschland jetzt auf vegane Lebensmittel. Bundesgesundheits- und
-  Landwirtschaftsminister Cem Özdemir stellte kürzlich das Eckpunktepapier "Weg
-  zur Ernährungsstrategie der Bundesregierung" vor, das die von der Regierung
+  Deutschland jetzt auf vegane Lebensmittel. Der Bundesminister für Ernährung
+  und Landwirtschaft Cem Özdemir stellte kürzlich das Eckpunktepapier "Weg zur
+  Ernährungsstrategie der Bundesregierung" vor, das die von der Regierung
   vorgeschlagenen Eckpfeiler der nationalen Strategie umschreibt.
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-06/cem-oezdemir-vegan-jpg-imagine-a89808_878344_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-06/cem-oezdemir-vegan-og-jpg-imagine-f8f8f8_8d8c62_1200_628/640.webp
@@ -28,11 +28,11 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Im Rahmen der geplanten nationalen Ernährungsstrategie setzt Deutschland jetzt auf pflanzliche Lebensmittel. Bundesgesundheits- und Landwirtschaftsminister Cem Özdemir stellte kürzlich das Eckpunktepapier "Weg zur Ernährungsstrategie der Bundesregierung"[^1] vor, das die von der Regierung vorgeschlagenen Eckpfeiler der nationalen Strategie umschreibt.**
+**Im Rahmen der geplanten nationalen Ernährungsstrategie setzt Deutschland jetzt auf pflanzliche Lebensmittel. Der Bundesminister für Ernährung und Landwirtschaft Cem Özdemir stellte kürzlich das Eckpunktepapier "Weg zur Ernährungsstrategie der Bundesregierung"[^1] vor, das die von der Regierung vorgeschlagenen Eckpfeiler der nationalen Strategie umschreibt.**
 
 Das erklärte Ziel der Bundesregierung ist die Schaffung einer integrativen Ernährungsstrategie. Diese soll einen Wandel des Ernährungssystems mit Initiativen zur frühzeitigen Bildung und Barrierefreiheit anstoßen und sich dabei an der Deutschen Gesellschaft für Ernährung (DGE) und der Planetary Health Diet orientieren.
 
-!["Be Fair. Be Vegan!" (Slogan: Tierrechtsaktivistenbündnis)](https://storage.googleapis.com/cardamonchai-media/2023-01-06/cem-oezdemir-vegan-1-jpg-imagine-e8e8e8_81a2a1_1024_768/640.webp "\\"Be Fair. Be Vegan!\\" (Slogan: Tierrechtsaktivistenbündnis)")
+!["Be Fair. Be Vegan!" (Slogan: Tierrechtsaktivistenbündnis)](https://storage.googleapis.com/cardamonchai-media/2023-01-06/cem-oezdemir-vegan-1-jpg-imagine-e8e8e8_81a2a1_1024_768/640.webp "\\\"Be Fair. Be Vegan!\\\" (Slogan: Tierrechtsaktivistenbündnis)")
 
 Die derzeitige Regierung leitet damit eine komplette Neuausrichtung ein, hin zu einer größeren Akzeptanz für ein veganes Leben, weg vom Fleisch-Lobbyismus. Inwieweit dieser greift und sich auf lange Sicht durchsetzt, lässt sich heute noch schwer einschätzen. Man kann jedoch ganz klar von einem Hoffnungsschimmer sprechen.
 
