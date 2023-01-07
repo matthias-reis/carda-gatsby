@@ -11,7 +11,7 @@ excerpt: "Heute habe ich eine gute Nachricht von Hof Butenland bekommen:
   Frederik geht es gut und er hat eine beste Freundin gefunden! Wenn alles
   klappt, werde ich die beiden und alle anderen Bewohner des Lebenshofs in
   Butjadingen schon bald besuchen. Der Tag steht auch schon fest."
-image: https://storage.googleapis.com/cardamonchai-media/2023-01-07/frederik-hof-butenland-jpeg-imagine-888888_8a7b6c_1280_720/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2023-01-07/frederik-rosa-mariechen-hof-butenland-jpg-imagine-988888_8d7d6f_1024_768/640.webp
 copyrigt: Hof Butenland
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-07/frederik-hof-butenland-og-jpg-imagine-988888_8c7966_1200_628/640.webp
 labels:
