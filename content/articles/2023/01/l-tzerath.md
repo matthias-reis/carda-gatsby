@@ -61,7 +61,8 @@ Noch ein paar Denkanstöße zum Thema Gewalt:
 
 Dieses wunderschöne Dinos Christianopoulos Zitat soll hier den Abschluss machen. Ihr seht es auch im Titelbild, das ich mir von der Aktivistengruppe "Lützi bleibt"[^1] ausgeliehen habe.
 
-> "They Tried to Bury Us; they Didn’t Know We Were Seeds" (Sie haben versucht uns zu begraben, sie haben nicht gewusst, dass wir Samen sind)
+> "They Tried to Bury Us; they Didn’t Know We Were Seeds" 
+> ("Sie haben versucht uns zu begraben, sie haben nicht gewusst, dass wir Samen sind")
 
 Sie haben bekommen, was sie wollten, doch die Menschen werden es nicht vergessen. In Zukunft werden andere Generationen an den Hebeln sitzen. Hoffentlich wird dann noch etwas zu retten sein. Wenn wir nicht sehenden Auges alle Kipppunkte in den nächsten paar Jahren umrennen wollen, müssen wir einiges grundlegend ändern.
 
