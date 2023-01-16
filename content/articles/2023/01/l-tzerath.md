@@ -55,7 +55,7 @@ Noch ein paar Denkanstöße zum Thema Gewalt:
 
 - Einem Menschen einen Schlagstock auf den Kopf zu schlagen, ist Gewalt.
 - Eine sinnvolle Diskussion mit Pseudo-Argumenten zu verhindern ,ist Gewalt.
-- Menschen durch Brüllen einschüchtern, ist Gewalt.
+- Menschen durch Brüllen einzuschüchtern, ist Gewalt.
 - Personen durch Bauzäune am Demonstrieren zu hindern und ohne Rücksicht auf eventuelle Kursänderungen weiter Gebäude abzureißen, während vernünftige Menschen noch diskutieren möchten, ist Gewalt.
 - Die Macht des Stärkeren ist Gewalt.
 
