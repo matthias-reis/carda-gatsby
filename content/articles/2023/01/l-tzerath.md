@@ -31,7 +31,7 @@ language: de
 ---
 **Lützerath – dieser Ortsname wird uns wohl allen für immer in Erinnerung bleiben. Die Bundesregierung wollte laut eigener Aussage hier ein Zeichen für das Ende der schmutzigen Energiegewinnung setzen und erreichte wohl eher das Gegenteil. Das kann einen nicht nur nachdenklich machen – ich zumindest habe mich als unbedeutender, viel zu inaktiver Teil der Klimabewegung in den vergangenen Stunden traurig, wütend, betrübt, sauer, ignoriert und – entschuldigt meine Wortwahl – verarscht gefühlt.**
 
-Weil es das schon ziemlich genau in Worte fasst, halte ich mich an dieser Stelle kurz und füge lediglich ein paar Gedankenfragmente zusammen, die irgendwie rausmüssen. Die Zahlen, Daten, Fakten und Zitate, Wahrheiten, Unwahrheiten, Halbwahrheiten, Behauptungen und Rückschlüsse könnt Ihr überall sonst lesen, wo Menschen das vergangene Wochenende Revue passieren lassen.
+Weil es das schon ziemlich genau zusammenfasst, halte ich mich an dieser Stelle kurz und füge lediglich ein paar Gedankenfragmente zusammen, die irgendwie rausmüssen. Die Zahlen, Daten, Fakten und Zitate, Wahrheiten, Unwahrheiten, Halbwahrheiten, Behauptungen und Rückschlüsse könnt Ihr überall sonst lesen, wo Menschen das vergangene Wochenende Revue passieren lassen.
 
 Zuallererst noch mal ein große Danke an alle, die vor Ort waren, im Schlamm, auf Bäumen, Ästen, in Tunneln, auf Traversen, an der Abbruchkante, am Bauzaun, auf dem Feld und im Dorf oder was davon noch übrig ist. Ihr seid wunderbar.
 
