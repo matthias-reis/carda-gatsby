@@ -51,12 +51,12 @@ Hier noch mal in Greta Thunbergs Worten:
 > 
 > Von außen betrachtet erscheint es seltsam, ein Dorf zu opfern, um andere zu retten. Das ergibt keinen Sinn – besonders wenn man an die Mengen an CO2 denkt, die bei der Umsetzung dieser Pläne ausgestoßen werden."
 
-Noch ein paar Worte zum Thema Gewalt: 
+Noch ein paar Denkanstöße zum Thema Gewalt:
 
-- einem Menschen einen Schlagstock auf den Kopf zu schlagen, ist Gewalt.
+- Einem Menschen einen Schlagstock auf den Kopf zu schlagen, ist Gewalt.
 - Eine sinnvolle Diskussion mit Pseudo-Argumenten zu verhindern ,ist Gewalt.
 - Menschen durch Brüllen einschüchtern, ist Gewalt.
-- Menschen durch Bauzäune am Demonstrieren zu hindern und ohne Rücksicht auf eventuelle Kursänderungen weiter Gebäude abzureißen, während vernünftige Menschen noch diskutieren möchten, ist Gewalt.
+- Personen durch Bauzäune am Demonstrieren zu hindern und ohne Rücksicht auf eventuelle Kursänderungen weiter Gebäude abzureißen, während vernünftige Menschen noch diskutieren möchten, ist Gewalt.
 - Die Macht des Stärkeren ist Gewalt.
 
 Dieses wunderschöne Dinos Christianopoulos Zitat soll hier den Abschluss machen. Ihr seht es auch im Titelbild, das ich mir von der Aktivistengruppe "Lützi bleibt"[^1] ausgeliehen habe.
