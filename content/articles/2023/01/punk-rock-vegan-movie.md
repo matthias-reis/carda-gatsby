@@ -36,6 +36,8 @@ Komponist, Künstler und Vegan-Aktivist Moby beschreibt sein neuestes Werk so:
 
 Für seine Doku hat er neben Captain Sensible von The Damned, Dennis Lyxzén, Sänger von Refused, und Tim McIlrath von Rise Against auch Fugazi/Minor Threat-Frontmann Ian MacKaye, Jane's Addiction-Gitarrist Dave Navarro, Rob Zombie, HR von Bad Brains, Steve Ignorant von Crass/Conflict, Walter Schreifels von Quicksand sowie Andy Hurely von Fall Out Boy befragt. "Punk Rock Vegan Movie" soll am 20. Januar im Rahmen des Slamdance Filmfestival in Park City, Utah seine Premiere feiern. Anschließend möchte Moby ihn weltweit kostenlos zur Verfügung stellen[^1].
 
+#﻿# "Punk Rock Vegan Movie" zeigt die enge Verbindung von Punk und Tierrechtsaktivismus
+
 Auf Social Media schreibt der Weltstar, der regelmäßig mit seinen Tierrechts-Aktionen für Wirbel sorgt:
 
 > "Mit dem Film möchte ich die Menschen daran erinnern, wie wichtig und dringend notwendig es ist, die kompromisslose Ethik und die Aktionen der ursprünglichen Punk-Aktivist⋆innen zu übernehmen. Darum möchte ich, dass er nach seiner Uraufführung beim Slamdance Festival Euch gehört.
