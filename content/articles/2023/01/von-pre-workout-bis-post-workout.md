@@ -108,4 +108,4 @@ Den hübschen [Shaker](https://tidd.ly/3WDuc4e) und den großen [Dosierlöffel](
 - [Shaker](https://tidd.ly/3WDuc4e)
 - [Dosierlöffel](https://tidd.ly/3XPgnkk)
 
-[Artikel: "Warum wir veganes Protein zum Muskelaufbau brauen" jetzt lesen](/2022/11/veganes-protein/).
+[Artikel: "Warum wir veganes Protein zum Muskelaufbau brauchen" jetzt lesen](/2022/11/veganes-protein/).
