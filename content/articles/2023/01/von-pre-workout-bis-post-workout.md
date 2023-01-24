@@ -48,7 +48,7 @@ Die Kombination der Inhaltsstoffe soll die Ausdauer im Training und damit die Wi
 
 L-Arginin (als NO-Vorstufe) sowie L-Citrullin und L-Ornithin können die Blutgefäße erweitern und damit zur Leistungssteigerung beitragen. Die antioxidative Wirkung von Taurin schützt vor Schäden durch freie Radikale, während Koffein die Vigilanz steigert. Vitamin B1, B2 und B6 sorgen für einen guten Energiestoffwechsel und schützen den Körper vor Ermüdung.
 
-Achtet mal darauf: fühlt Ihr Euch nach dem Spinning oder Sculpt Yoga regelmäßig müde und abgeschlagen? Das könnte an einer unzureichenden Creatin-Zufuhr liegen. Besonders, wenn Ihr auf schnelles Krafttraining steht, solltet Ihr genug davon zu Euch nehmen. Es ist essenziell für Leute, die sich kurzzeitige, intensiver körperlicher Betätigung aussetzen. Im Booster ist es bereits enthalten.
+Achtet mal darauf: fühlt Ihr Euch nach dem Spinning oder Body Pump regelmäßig müde und abgeschlagen? Das könnte an einer unzureichenden Creatin-Zufuhr liegen. Besonders, wenn Ihr auf schnelles Krafttraining steht, solltet Ihr genug davon zu Euch nehmen. Es ist essenziell für Leute, die sich kurzzeitiger, intensiver körperlicher Betätigung aussetzen. Im Booster ist es bereits enthalten.
 
 ## Während dem Workout
 
