@@ -68,7 +68,7 @@ Ein optimales Verhältnis von Makro- und Mikronährstoffen und wichtige Nährsto
 
 Vitamin B6 sorgt für einen normalen Eiweiß- und Glykogenstoffwechsel. Vitamin E, Vitamin B2 und Zink schützen die Zellen vor oxidativem Stress. Magnesium und Kalium tragen zur gesunden Muskelfunktion bei, Magnesium und Zink sorgt für eine normale Eiweißsynthese. Chrom reguliert den Blutzuckerspiegel, Zink den Fett- und Testosteronstoffwechsel. Und, wie wir schon gehört haben: Creatinmonohydrat (3 g) erhöht die körperliche Leistung bei Schnellkrafttraining im Rahmen kurzzeitiger intensiver körperlicher Betätigung.
 
-**Tipp:** Nutri Plus rät dazu, den [V-Loader](https://tidd.ly/3H5FpVr) in Kombination mit dem Nutri-Plus V-Booster zu verwenden, um die ideale Wirkung zu erzielen.
+**Tipp:** Nutri Plus rät dazu, den [V-Loader](https://tidd.ly/3H5FpVr) in Kombination mit dem [Nutri Plus V-Booster](https://tidd.ly/3XB2575) zu verwenden, um die ideale Wirkung zu erzielen.
 
 Falls ich beim Training mal wieder an meine Grenzen gegangen bin, hilft mir neben veganer Protein auch die zusätzliche Zufuhr von Magnesium. Ich schaffe es damit, meinen Muskelkater im Rahmen zu halten und Krämpfe zu vermeiden. Im Moment habe ich diese praktischen Retard-Tabletten. Hier wird versprochen, dass über den Tag verteilt eine gewisse Dosis vom Körper aufgenommen wird. Das soll das Produkt bekömmlicher machen. Fragt hier einfach mal in der Apotheke nach, was sich für Sportler⋆innen gut eignet. Ihr werdet jede Menge Infos bekommen.
 
