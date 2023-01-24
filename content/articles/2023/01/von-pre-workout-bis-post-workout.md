@@ -70,7 +70,7 @@ Vitamin B6 sorgt für einen normalen Eiweiß- und Glykogenstoffwechsel. Vitamin 
 
 **Tipp:** Nutri Plus rät dazu, den [V-Loader](https://tidd.ly/3H5FpVr) in Kombination mit dem [Nutri Plus V-Booster](https://tidd.ly/3XB2575) zu verwenden, um die ideale Wirkung zu erzielen.
 
-Falls ich beim Training mal wieder an meine Grenzen gegangen bin, hilft mir neben veganer Protein auch die zusätzliche Zufuhr von Magnesium. Ich schaffe es damit, meinen Muskelkater im Rahmen zu halten und Krämpfe zu vermeiden. Im Moment habe ich diese praktischen Retard-Tabletten. Hier wird versprochen, dass über den Tag verteilt eine gewisse Dosis vom Körper aufgenommen wird. Das soll das Produkt bekömmlicher machen. Fragt hier einfach mal in der Apotheke nach, was sich für Sportler⋆innen gut eignet. Ihr werdet jede Menge Infos bekommen.
+Falls ich beim Training mal wieder an meine Grenzen gegangen bin, hilft mir neben veganem Protein auch die zusätzliche Zufuhr von Magnesium. Ich schaffe es damit, meinen Muskelkater im Rahmen zu halten und Krämpfe zu vermeiden. Im Moment habe ich diese praktischen Retard-Tabletten. Hier wird versprochen, dass über den Tag verteilt eine gewisse Dosis vom Körper aufgenommen wird. Das soll das Produkt bekömmlicher machen. Fragt hier einfach mal in der Apotheke nach, was sich für Sportler⋆innen gut eignet. Ihr werdet jede Menge Infos bekommen.
 
 ## Veganes Protein für den Muskelaufbau
 
