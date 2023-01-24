@@ -44,7 +44,7 @@ Weil ich selbst hin und wieder vergesse, genügend Flüssigkeit zu mir zu nehmen
 
 Das Granulat könnt Ihr ganz einfach mit Wasser in Euren Shaker geben und gleich trinken. Der Booster erhält Koffein, achtet also an Tagen an, denen ihr ihn zu Euch nehmt, darauf, dafür möglicherweise eine Tasse Kaffee wegzulassen, falls Ihr Kaffeetrinker⋆innen seid.
 
-Die Kombination der Inhaltsstoffe soll die Ausdauer im Training und damit die Wirkung verbessern. Wichtige Arminosäuren wie L-Arginin und Beta Alanin unterstützten Euren Musikelaufbau. 
+Die Kombination der Inhaltsstoffe soll die Ausdauer im Training und damit die Wirkung verbessern. Wichtige Arminosäuren wie L-Arginin und Beta Alanin unterstützten Euren Muskelaufbau. 
 
 L-Arginin (als NO-Vorstufe) sowie L-Citrullin und L-Ornithin können die Blutgefäße erweitern und damit zur Leistungssteigerung beitragen. Die antioxidative Wirkung von Turin schützt vor Schäden durch freie Radikale, während Koffein die Vigilanz steigert. Vitamin B1, B2 und B6 sorgen für einen guten Energiestoffwechsel und schützen den Körper vor Ermüdung.
 
