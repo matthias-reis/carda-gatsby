@@ -86,7 +86,7 @@ Beide Proteinshakes sind vegan, ohne Zuckerzusatz und frei von Laktose oder gent
 
 **Tipp:** Ihr könnt beide Shakes zum Beispiel auch als Basis für Smoothies Bowls verwenden.
 
-Die Produkte entwickelt Nutri Plus gemeinsam mit Ernährungswissenschaftler⋆innen. Der Hersteller spendet Ihr jeweils 5 % der Umsätze im Onlineshop an wechselnde Tier- und Umweltschutzorganisationen. Ein kleiner Teil Eurer Bestellungen fließt also in die Spendensumme dieser Organisationen.
+Die Produkte entwickelt Nutri Plus gemeinsam mit Ernährungswissenschaftler⋆innen. Die Firma spendet jeweils fünf Prozent der Umsätze im Onlineshop an wechselnde Tier- und Umweltschutzorganisationen. Ein kleiner Teil Eurer Bestellungen fließt also in die Spendensumme dieser Organisationen.
 
 Damit Transportwege gespart werden, erhaltet Ihr ab der zweiten Bestellung einen attraktiven Mengenrabatt. Der Versand erfolgt klimaneutral und ist ab 49 EUR kostenfrei.
 
