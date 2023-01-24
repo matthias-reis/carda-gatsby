@@ -78,7 +78,7 @@ Falls ich beim Training mal wieder an meine Grenzen gegangen bin, hilft mir nebe
 
 ## Veganes Protein für den Muskelaufbau
 
-Eine weitere Frage zum Thema, die bei mir eingegangen ist, ist die nach den verschiedenen veganen Protein-Produkten. Speziell zu denen aus dem Hause Nutri Plus, da ich das letzte Mal einige davon vorgestellt hatte.
+Eine weitere Frage zum Thema, die bei mir eingegangen ist, ist die nach den verschiedenen veganen Protein-Produkten. Speziell zu denen aus dem Hause Nutri Plus, [da ich das letzte Mal einige davon vorgestellt hatte](/2022/11/veganes-protein/).
 
 Von Nutri Plus gibt es 3-K- und 6-K-Proteinpulver. Der Unterschied liegt hier in den Proteinquellen, die sie enthalten – 6K - sechs vegane Proteinquellen – 3 K  – drei vegane Proteinquellen. Das K steht für Komponenten.
 
