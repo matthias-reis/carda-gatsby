@@ -62,7 +62,7 @@ Je nachdem, welcher Sportart Ihr nachgeht, solltet Ihr zwischendurch genügend F
 
 Wenn ich nach dem Training aus der Dusche komme, gibt es für mich erstmal ein großes Glas Wasser. Anschließend greife ich dann, vor allem nach besonders anspruchsvollen Einheiten, gerne zu einem Post-Workout Shake. [Der vegane V-Loader Post-Workout-Shake von Nutri Plus](https://tidd.ly/3H5FpVr) ist für mich eine gute Wahl.
 
-Neben meiner Lieblings-Geschmacksrichtung "Grapefruit", kann ich Euch auch "Grüner Apfel" empfehlen. Doch eigentlich geht es hier natürlich nicht um den Geschmack, sondern um die Wirkung. Die stellen die veganen, zuckerfreien und laktosefreien Inhaltsstoffe sicher.
+Neben meiner Lieblings-Geschmacksrichtung "[Grapefruit](https://tidd.ly/3H5FpVr)", kann ich Euch auch "[Grüner Apfel](https://tidd.ly/3XUStEc)" empfehlen. Doch eigentlich geht es hier natürlich nicht um den Geschmack, sondern um die Wirkung. Die stellen die veganen, zuckerfreien und laktosefreien Inhaltsstoffe sicher.
 
 Ein optimales Verhältnis von Makro- und Mikronährstoffen und
 wichtige Nährstoffe für Muskelaufbau und Regeneration helfen Euch, das Training gut zu verarbeiten und unterstützen Eure Muskeln.
