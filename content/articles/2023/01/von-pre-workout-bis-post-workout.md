@@ -14,7 +14,7 @@ excerpt: "Workout und Muskelaufbau mit veganem Protein – zu diesem Thema habe
   besonders beschäftigt und darum bin ich ihr einfach mal nachgegangen. Sie
   lautet: Was muss ich vor, nach und während meinem Training beachten, wenn ich
   gesund und dauerhaft Muskeln aufbauen möchte?"
-image: https://storage.googleapis.com/cardamonchai-media/2023-01-24/2023-01-22-pre-workout-post-workout-jpg-imagine-080808_452f3a_2048_1536/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2023-01-24/2023-01-22-nutri-plus-032-jpg-imagine-180808_53343f_2048_1536/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-24/pre-workout-post-workout-og-jpg-imagine-280808_61414e_1200_628/640.webp
 labels:
@@ -55,6 +55,8 @@ Achtet mal darauf: fühlt Ihr Euch nach dem Spinning oder Sculpt Yoga regelmäß
 Je nachdem, welcher Sportart Ihr nachgeht, solltet Ihr zwischendurch genügend Flüssigkeit zur Euch nehmen. Besonders, wenn Ihr viel schwitzt oder Euch bei Bikram Yoga, EMS & Co. so richtig verausgabt, solltet Ihr lieber häufiger zur Wasserflasche greifen.
 
 **Vorsicht:** Wer zu viel Wasser trinkt, schwemmt möglicherweise wichtige Spurenelemente aus dem Körper. Im schlimmsten Fall kann das zu einem Kollaps führen. Wenn Ihr also einen Marathon oder eine über mehrere Stunden andauernde Trainingsstrecke geplant habt, solltet Ihr zusätzlich zu elektrolythaltigen Getränken greifen. Im normalen Trainingsmodus ist jedoch Wasser vollkommen ausreichend.
+
+<Gallery name="post-workout-pre-workout-1 />
 
 ## Post-Workout
 
@@ -109,3 +111,5 @@ Den hübschen [Shaker](https://tidd.ly/3WDuc4e) und den großen [Dosierlöffel](
 - [Dosierlöffel](https://tidd.ly/3XPgnkk)
 
 [Artikel: "Warum wir veganes Protein zum Muskelaufbau brauchen" jetzt lesen](/2022/11/veganes-protein/).
+
+<Gallery name="post-workout-pre-workout-2 />
