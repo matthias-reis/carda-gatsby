@@ -1,6 +1,6 @@
 ---
 date: 2023-01-24T14:57:37.695Z
-slug: post-work-out-pre-workout
+slug: pre-workout-post-workout
 typeName: Produkttest
 title: Von Pre-Workout bis Post-Workout
 subTitle: Die verschiedenen Trainingsphasen
