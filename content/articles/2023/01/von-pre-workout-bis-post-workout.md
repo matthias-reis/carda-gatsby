@@ -40,7 +40,7 @@ Vorneweg ein paar Punkte zu meinen Trainingsgewohnheiten. Ich muss aus gesundhei
 
 Vor dem Workout ist es vor allem (wie zu jedem anderen Zeitpunkt auch) wichtig, dass Ihr ausreichend Flüssigkeit zu Euch nehmt. Wenn Ihr kurz davor seid, ordentlich zu schwitzen, darf das ruhig mal ein halber Liter mehr sein. Greift gerne zu mineralhaltigem Wasser.
 
-Weil ich selbst hin und wieder vergesse, genügend Flüssigkeit zu mir zu nehmen, trinke ich vor dem Training bewusst meine 400 Milliliter Wasser. Anschließend bereite ich mir einen Pre-Workout Shake zu. [Der vegane Pre-Workout Booster von Nutri Plus](https://tidd.ly/3XB2575)gefällt mir besonders gut. Er enthält alles, was ich benötige und ist in vielen leckeren Geschmacksrichtungen erhältlich.
+Weil ich selbst hin und wieder vergesse, genügend Flüssigkeit zu mir zu nehmen, trinke ich vor dem Training bewusst meine 400 Milliliter Wasser. Anschließend bereite ich mir einen Pre-Workout Shake zu. [Der vegane Pre-Workout Booster von Nutri Plus](https://tidd.ly/3XB2575) gefällt mir besonders gut. Er enthält alles, was ich benötige und ist in vielen leckeren Geschmacksrichtungen erhältlich.
 
 Das Granulat könnt Ihr ganz einfach mit Wasser in Euren Shaker geben und gleich trinken. Der Booster erhält Koffein, achtet also an Tagen an, denen ihr ihn zu Euch nehmt, darauf, dafür möglicherweise eine Tasse Kaffee wegzulassen, falls Ihr Kaffeetrinker⋆innen seid.
 
