@@ -64,13 +64,9 @@ Wenn ich nach dem Training aus der Dusche komme, gibt es für mich erstmal ein g
 
 Neben meiner Lieblings-Geschmacksrichtung "[Grapefruit](https://tidd.ly/3H5FpVr)", kann ich Euch auch "[Grüner Apfel](https://tidd.ly/3XUStEc)" empfehlen. Doch eigentlich geht es hier natürlich nicht um den Geschmack, sondern um die Wirkung. Die stellen die veganen, zuckerfreien und laktosefreien Inhaltsstoffe sicher.
 
-Ein optimales Verhältnis von Makro- und Mikronährstoffen und
-wichtige Nährstoffe für Muskelaufbau und Regeneration helfen Euch, das Training gut zu verarbeiten und unterstützen Eure Muskeln.
+Ein optimales Verhältnis von Makro- und Mikronährstoffen und wichtige Nährstoffe für Muskelaufbau und Regeneration helfen Euch, das Training gut zu verarbeiten und unterstützen Eure Muskeln. Erbsenprotein sorgt dafür, dass sie wachsen und erhalten werden. B-Vitamine und Magnesium sorgen für einen optimalen Energie- und Vitamin B1 und Zink für einen gesunden Kohlenhydratstoffwechsel.
 
-Erbsenprotein sorgt dafür, dass Eure Muskel wachsen und erhalten werden. B-Vitamine und Magnesium sorgen für einen optimalen Energie- und Vitamin B1 und Zink für einen gesunden Kohlenhydratstoffwechsel.
-
-Vitamin B6 für einen normalen Eiweiß- und Glykogenstoffwechsel
-Vitamin E, Vitamin B2 und Zink schützen die Zellen vor oxidativem Stress. Magnesium und Kalium tragen zur gesunden Muskelfunktion bei, Magnesium und Zink sorgt für eine normale Eiweißsynthese. Chrom reguliert den Blutzuckerspiegel, Zink den Fett- und Testosteronstoffwechsel. Und, wie wir schon gehört haben: Creatinmonohydrat (3 g) erhöht die körperliche Leistung bei Schnellkrafttraining im Rahmen kurzzeitiger intensiver körperlicher Betätigung.
+Vitamin B6 sorgt für einen normalen Eiweiß- und Glykogenstoffwechsel. Vitamin E, Vitamin B2 und Zink schützen die Zellen vor oxidativem Stress. Magnesium und Kalium tragen zur gesunden Muskelfunktion bei, Magnesium und Zink sorgt für eine normale Eiweißsynthese. Chrom reguliert den Blutzuckerspiegel, Zink den Fett- und Testosteronstoffwechsel. Und, wie wir schon gehört haben: Creatinmonohydrat (3 g) erhöht die körperliche Leistung bei Schnellkrafttraining im Rahmen kurzzeitiger intensiver körperlicher Betätigung.
 
 **Tipp:** Nutri Plus rät dazu, den [V-Loader](https://tidd.ly/3H5FpVr) in Kombination mit dem Nutri-Plus V-Booster zu verwenden, um die ideale Wirkung zu erzielen.
 
