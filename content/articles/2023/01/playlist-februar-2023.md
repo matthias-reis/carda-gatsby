@@ -62,7 +62,7 @@ Die fertigen, abspielbaren Listen für Spotify und iTunes findet Ihr wie immer u
 
 ## KALEO - "Brother Run Fast" vom aktuellen Album "Surface Sounds"
 
-> "Last but not least muss ich Euch noch die sehr erfolgreichen KALEO aus Mosfellsbær in Island empfehlen, die viele vielleicht von ihrem Hit 'Way Down We Go' kennen. Offenbar habe ich diese Band unterschätzt. Sehr schöne, hoffnungsvolle und auch traurige Musik mit einer ganz tollen Stimme von Jökull Júlíusson. Dass KALEO im Jahr 2017 Vorband der Rolling Stones waren, wundert mich nicht. Ich empfehle euch 'Brother Run Fast' vom letzten Album 'Surface Sounds' von 2021. Es lohnt sich auf jeden Fall mal wieder das komplette Album."
+> "Last but not least muss ich Euch noch die sehr erfolgreichen KALEO aus Mosfellsbær in Island empfehlen, die viele vielleicht von ihrem Hit 'Way Down We Go' kennen. Offenbar habe ich diese Band unterschätzt. Sehr schöne, hoffnungsvolle und auch traurige Musik mit einer ganz tollen Stimme von Jökull Júlíusson. Dass KALEO im Jahr 2017 Vorband der Rolling Stones waren, wundert mich nicht. Ich empfehle Euch 'Brother Run Fast' vom letzten Album 'Surface Sounds' von 2021. Es lohnt sich auf jeden Fall mal wieder das komplette Album."
 
 <YouTube id="GZ50XOUfhc0" />
 
