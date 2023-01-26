@@ -14,7 +14,7 @@ excerpt: Habt Ihr schon mitbekommen, wie viel gute Musik im Moment rauskommt? Es
   Februar 2023 erstellt. Von Crosses bis Tashi Dorji und von Desert Wave bis The
   Ocean. Please enjoy!
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-26/musikliste-februar-2023-jpg-imagine-080808_605b58_1024_768/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-26/musikliste-februar-2023-og-jpg-imagine-080808_625c58_1200_628/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-26/musikliste-februar-2023-og-1-jpg-imagine-080808_5b5754_1200_628/640.webp
 labels:
   - serie:Playlists 2023
   - Playlist
