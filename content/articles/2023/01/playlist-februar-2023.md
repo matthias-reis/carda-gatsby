@@ -52,19 +52,19 @@ Die fertigen, abspielbaren Listen für Spotify und iTunes findet Ihr wie immer u
 
 > "Ich bin froh, dass ich Desert Wave entdeckt habe. Die Herren Enrico 'Burton' Dalla Pozza, Luca 'Logan' Adamati, Andrea 'Drugo' Vetri aus Vicenza in Italien machen psychedelischen Stoner Rock wie ich ihn mag. Wenn Euch Bands wie King Buffalo und My Sleeping Karma auch gefallen und ihr Kyuss vermisst, solltet ihr euch das hypnotische zweite Werk der Band nicht entgehen lassen! Ich habe mich für den Song "Venus Chains" entschieden, der sofort mitreißt."
 
-Q1A9nZXeEvg
+<YouTube id="Q1A9nZXeEvg" />
 
 ## Crosses – "One More Try" (Single)
 
 > "Auch in dieser Liste gibt es mal wieder einen Song von Crosses aus Los Angeles, die mit Chino Moreno und Shaun Lopez mittlerweile nur noch ein Duo sind. Leider gab es in letzter Zeit zwar ein komplettes Album mehr veröffentlicht, aber immer wieder EPs und Singles, was ich auch sehr begrüße. Diesen Monat sogar eine ganz besondere, denn es handelt es sich um eine Coverversion von George Michaels 'One More Try' mit etwas Twin-Peaks-Feeling. Hört es Euch an. Der Song tut echt gut!"
 
-n6lZXZrrgQo
+<YouTube id="n6lZXZrrgQo" />
 
 ## KALEO - "Brother Run Fast" vom aktuellen Album "Surface Sounds"
 
 > "Last but not least muss ich Euch noch die sehr erfolgreichen KALEO aus Mosfellsbær in Island empfehlen, die viele vielleicht von ihrem Hit 'Way Down We Go' kennen. Offenbar habe ich diese Band unterschätzt. Sehr schöne, hoffnungsvolle und auch traurige Musik mit einer ganz tollen Stimme von Jökull Júlíusson. Dass KALEO im Jahr 2017 Vorband der Rolling Stones waren, wundert mich nicht. Ich empfehle euch 'Brother Run Fast' vom letzten Album 'Surface Sounds' von 2021. Es lohnt sich auf jeden Fall mal wieder das komplette Album."
 
-GZ50XOUfhc0
+<YouTube id="GZ50XOUfhc0" />
 
 ## The Ocean – "Preboreal" (Single)
 
@@ -72,19 +72,19 @@ Weiter geht es mit Matzes Songs. Dieser hier gefällt mir besonders gut.
 
 > "The Ocean haben mir schon mehrere persönliche Alben des Jahres geliefert, zuletzt 2020 mit 'Phanerozoic II'. Jetzt erscheint fast aus dem Nichts eine neue Single – noch ohne Kontext, wie z.B. der Ankündigung eines neuen Albums. Ich liebe den Song. Er startet mit einer elektronischen Sequenz, die sich im Hintergrund durch den ganzen Song zieht. Dazu kommt der bewusst monotone Gesang von Loic, diesmal ohne Screams und vielschichtige Instrumentalisierung von Hörnern bis Metal-Gitarren."
 
-JAEo3VTgNWc
+<YouTube id="JAEo3VTgNWc" />
 
 ## Periphery - "Wildlfire" vom Album "Periphery V: Djent is not a Genre"
 
 > "Ich fang mal so an: es gibt Menschen, die Djent als Musikgenre bezeichnen. Ein Genre, von dem ich bis vor einem halben Jahr noch nichts gehört habe. Jeder Fan harter Musik kennt Bands aus dieser Ecke: Meshuggah und TesseracT sind gute Beispiele. Periphery aus Bethesda, USA haben jedoch mit ihrem Albumtitel vollkommen recht. Djent bezeichnet eigentlich den für diese Art Musik prägenden, abgedämpften Gitarrenakkord. In ihrem Song "Wildfire" kombinieren sie dieses Element erfolgreich mit klassischen Metalcore-Bestandteilen."
 
-pFKSiOkRzb4
+<YouTube id="pFKSiOkRzb4" />
 
 ## Massa Nera – "An Endless Cycle // I was More Than the Weight of My Work" vom Album "Derramar | Querer | Borrar"
 
 > "Ausnahmsweise hab ich mal einen Anspieltipp für Euch, der nicht aus dem aktuellen Monat stammt. Er ist mir im letzten Monat durchgerutscht und ich wurde durch einige der zahllosen Jahres-Best-of-Listen darauf aufmerksam. Die Band aus New Jersey spielt einen Post-Rock-Sound, der mich ein bisschen an frühere, rohere Zeiten des Genres erinnert – kombiniert mit Scream-Vocals, die in Richtung Post-Punk gehen."
 
-pxcFdkhJT24
+<YouTube id="pxcFdkhJT24" />
 
 ## Give Up To Failure – "Slow Collapse" (Vorauskopplung vom Album "Cocoon")
 
@@ -94,19 +94,19 @@ Auch aus meiner Plattenkiste habe ich ein paar Ohrwürmer für Euch vorbereitet.
 
 Das liest sich gut, oder? Soll ich Euch was verraten? Es klingt auch gut!
 
-mamHz2Fxdlw
+<YouTube id="mamHz2Fxdlw" />
 
 ## LO! – "Our Fouling Larder" (Vorauskopplung vom Album "The Gleaners")
 
 LO! haben Ihr neues Album "The Gleaners" für April angekündigt. Es soll auf Pelagic Records erscheinen und macht jetzt schon mit einer großartigen Vorauskopplung auf sich aufmerksam. Die australische Blackened-Sludge-Band reitet uns mit faszinierenden Riffs in den Abgrund. Wie sieht es mit Euch aus? Jetzt könnt Ihr das Album nicht mehr erwarten, oder? Ich kann Euch nur so viel verraten: Das Warten lohnt sich! In den Playlists unten findet Ihr statt dem hier erwähnten "Our Fouling Larder" die Vorauskopplung "Salting the Earth". So bekommt Ihr noch einen weiteren Einblick.
 
-V3yQwlPM4UI
+<YouTube id="V3yQwlPM4UI" />
 
 ## An Evening With Knives – "Blackout"
 
 Das neue An Evening With Knives Live-Album erscheint erst nächste Woche. Damit findet Ihr hier in der Liste erst mal nur eine Preview des großartigen Stücks "Blackout". Die komplexen Songstrukturen, die wir von den Post-Metallern aus den Niederlanden [schon von "Sense of Gravity" kennen](/2021/06/an-evening-with-knives-sense-of-gravity/), sind auch bei der neuen Platte Programm. Freut Euch drauf und jetzt gönnt Euch den Teaser-Clip! Unten in den Listen findet Ihr stattdessen die Vorauskopplung "Levitate".
 
-tKOc0Ou_Uz4
+<YouTube id="tKOc0Ou_Uz4" />
 
 ## Tashi Dorji – "Improvisations for nylon string guitar Part III"
 
@@ -118,7 +118,7 @@ Musik die Ihr bei Spotify und iTunes nicht finden werdet, stammt von Tashi Dorji
 
 Nochmal Avantgarde, dieses Mal aus Italien. Bosco Sacro haben ihr neues Album "Gem" für den 10. Februar angekündigt. Ich habe es schon gehört und finde es höchst spannend. Daher möchte ich Euch Eure Neugierde gerne ein bisschen anfeuern und teile die Vorauskopplung "Fountain of Wealth" mit Euch. Die Mitglieder des Quartetts kennen musizieren sonst auch mit anderen Projekten: Paolo Monti (The Star Pillow, DAIMON), Giulia Parin Zecchin (Julinko), Luca Scotti (Tristan da Cunha) and Francesco Vara (Tristan da Cunha, Altaj). Sie lassen sich gerne von Visionen von der versöhnlichen Weite der Natur und die heilende Kraft der Bewegung inspirieren. Liest sich das mystisch? Ihrer Musik kann man das sehr gut anhören, finde ich. Ihre Wurzeln liegen in Ambient, Doom und Trip-Hop. Freund⋆innen dieser Genres werden sich daher mit ihrem Sound sehr wohlfühlen.
 
-rajvQydpk30
+<YouTube id="rajvQydpk30" />
 
 ## Die Februar-Playlist auf YouTube
 
