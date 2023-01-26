@@ -8,11 +8,11 @@ ogTitle: Alternative Playlist Februar 2023
 description: Von Crosses über The Ocean bis Tashi Dorji gibt es im Februar viel
   Post-Rock, Aventgarde und andere alternative und experimentelle Musik. Hört
   sie Euch direkt hier an!
-excerpt: Habt Ihr schon mitbekommen, wie viel gute Musik im Moment rauskommt? Es
-  ist wirklich ein Traum! Gemeinsam mit meinen beiden Lieblings-Musikfans habe
-  ich mal versucht, ein bisschen Ordnung reinzubringen und daraus die Playlist
-  Februar 2023 erstellt. Von Crosses bis Tashi Dorji und von Desert Wave bis The
-  Ocean. Please enjoy!
+excerpt: Ihr habt sicher auch schon mitbekommen, wie viel gute Musik im Moment
+  rauskommt, oder? Es ist wirklich ein Traum! Gemeinsam mit meinen beiden
+  Lieblings-Musikfans habe ich mal versucht, ein bisschen Ordnung reinzubringen
+  und daraus die Playlist Februar 2023 erstellt. Von Crosses bis Tashi Dorji und
+  von Desert Wave bis The Ocean. Please enjoy!
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-26/musikliste-februar-2023-jpg-imagine-080808_605b58_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-26/musikliste-februar-2023-og-1-jpg-imagine-080808_5b5754_1200_628/640.webp
 labels:
@@ -44,7 +44,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Habt Ihr schon mitbekommen, wie viel gute Musik im Moment rauskommt? Es ist wirklich ein Traum! Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich mal versucht, ein bisschen Ordnung reinzubringen und daraus die Playlist Februar 2023 erstellt. Von Crosses bis Tashi Dorji und von Desert Wave bis The Ocean. Please enjoy!**
+**Ihr habt sicher auch schon mitbekommen, wie viel gute Musik im Moment rauskommt, oder? Es ist wirklich ein Traum! Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich mal versucht, ein bisschen Ordnung reinzubringen und daraus die Playlist Februar 2023 erstellt. Von Crosses bis Tashi Dorji und von Desert Wave bis The Ocean. Please enjoy!**
 
 Die fertigen, abspielbaren Listen für Spotify und iTunes findet Ihr wie immer unter den Videos und unseren Anmoderationen. Ich beginne heute mal mit den drei Songs, die Valentin beigesteuert hat und übergebe das Wort an dieser Stelle direkt an ihn:
 
