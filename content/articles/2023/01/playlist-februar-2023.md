@@ -76,7 +76,7 @@ Weiter geht es mit Matzes Songs. Dieser hier gefällt mir besonders gut.
 
 ## Periphery - "Wildlfire" vom Album "Periphery V: Djent is not a Genre"
 
-> "Ich fang mal so an: es gibt Menschen, die Djent als Musikgenre bezeichnen. Ein Genre, von dem ich bis vor einem halben Jahr noch nichts gehört habe. Jeder Fan harter Musik kennt Bands aus dieser Ecke: Meshuggah und TesseracT sind gute Beispiele. Periphery aus Bethesda, USA haben jedoch mit ihrem Albumtitel vollkommen recht. Djent bezeichnet eigentlich den für diese Art Musik prägenden, abgedämpften Gitarrenakkord. In ihrem Song "Wildfire" kombinieren sie dieses Element erfolgreich mit klassischen Metalcore-Bestandteilen."
+> "Ich fang mal so an: es gibt Menschen, die Djent als Musikgenre bezeichnen. Ein Genre, von dem ich bis vor einem halben Jahr noch nichts gehört habe. Jeder Fan harter Musik kennt Bands aus dieser Ecke: Meshuggah und TesseracT sind gute Beispiele. Periphery aus Bethesda, USA haben jedoch mit ihrem Albumtitel vollkommen recht. Der Begriff 'Djent' bezeichnet eigentlich den für diese Art Musik prägenden, abgedämpften Gitarrenakkord. In ihrem Song 'Wildfire' kombinieren sie dieses Element erfolgreich mit klassischen Metalcore-Bestandteilen."
 
 <YouTube id="pFKSiOkRzb4" />
 
