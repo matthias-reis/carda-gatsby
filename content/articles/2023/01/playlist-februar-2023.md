@@ -56,7 +56,7 @@ Die fertigen, abspielbaren Listen für Spotify und iTunes findet Ihr wie immer u
 
 ## Crosses – "One More Try" (Single)
 
-> "Auch in dieser Liste gibt es mal wieder einen Song von Crosses aus Los Angeles, die mit Chino Moreno und Shaun Lopez mittlerweile nur noch ein Duo sind. Leider gab es in letzter Zeit zwar ein komplettes Album mehr veröffentlicht, aber immer wieder EPs und Singles, was ich auch sehr begrüße. Diesen Monat sogar eine ganz besondere, denn es handelt es sich um eine Coverversion von George Michaels 'One More Try' mit etwas Twin-Peaks-Feeling. Hört es Euch an. Der Song tut echt gut!"
+> "Auch in dieser Liste gibt es mal wieder einen Song von Crosses aus Los Angeles, die mit Chino Moreno und Shaun Lopez mittlerweile nur noch ein Duo sind. Zwar gab es leider in letzter Zeit kein komplettes Album mehr, dafür aber immer wieder EPs und Singles, was ich auch sehr begrüße. Diesen Monat sogar eine ganz besondere, denn es handelt es sich um eine Coverversion von George Michaels 'One More Try' mit etwas Twin-Peaks-Feeling. Hört es Euch an. Der Song tut echt gut.
 
 <YouTube id="n6lZXZrrgQo" />
 
