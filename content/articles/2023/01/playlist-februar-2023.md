@@ -11,7 +11,8 @@ description: Von Crosses über The Ocean bis Tashi Dorji gibt es im Februar viel
 excerpt: Habt Ihr schon mitbekommen, wie viel gute Musik im Moment rauskommt? Es
   ist wirklich ein Traum! Gemeinsam mit meinen beiden Lieblings-Musikfans habe
   ich mal versucht, ein bisschen Ordnung reinzubringen und daraus die Playlist
-  Februar 2023 erstellt. Please enjoy!
+  Februar 2023 erstellt. Von Crosses bis Tashi Dorji und von Desert Wave bis The
+  Ocean. Please enjoy!
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-26/musikliste-februar-2023-jpg-imagine-080808_605b58_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-26/musikliste-februar-2023-og-jpg-imagine-080808_625c58_1200_628/640.webp
 labels:
@@ -43,7 +44,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Habt Ihr schon mitbekommen, wie viel gute Musik im Moment rauskommt? Es ist wirklich ein Traum! Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich mal versucht, ein bisschen Ordnung reinzubringen und daraus die Playlist Februar 2023 erstellt. Please enjoy!**
+**Habt Ihr schon mitbekommen, wie viel gute Musik im Moment rauskommt? Es ist wirklich ein Traum! Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich mal versucht, ein bisschen Ordnung reinzubringen und daraus die Playlist Februar 2023 erstellt. Von Crosses bis Tashi Dorji und von Desert Wave bis The Ocean. Please enjoy!**
 
 Die fertigen, abspielbaren Listen für Spotify und iTunes findet Ihr wie immer unter den Videos und unseren Anmoderationen. Ich beginne heute mal mit den drei Songs, die Valentin beigesteuert hat und übergebe das Wort an dieser Stelle direkt an ihn:
 
