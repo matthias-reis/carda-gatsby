@@ -82,7 +82,7 @@ Weiter geht es mit Matzes Songs. Dieser hier gefällt mir besonders gut.
 
 ## Massa Nera – "An Endless Cycle // I was More Than the Weight of My Work" vom Album "Derramar | Querer | Borrar"
 
-> "Ausnahmsweise hab ich mal einen Anspieltipp für Euch, der nicht aus dem aktuellen Monat stammt. Er ist mir im letzten Monat durchgerutscht und ich wurde durch einige der zahllosen Jahres-Best-of-Listen darauf aufmerksam. Die Band aus New Jersey spielt einen Post-Rock-Sound, der mich ein bisschen an frühere, rohere Zeiten des Genres erinnert – kombiniert mit Scream-Vocals, die in Richtung Post-Punk gehen."
+> "Ausnahmsweise hab ich mal einen Anspieltipp für Euch, der nicht aus dem aktuellen Monat stammt. Er ist mir im letzten Monat durchgerutscht und ich wurde durch einige der zahllosen Jahres-Best-of-Listen darauf aufmerksam. Massa Nera aus New Jersey spielen einen Post-Rock-Sound, der mich ein bisschen an frühere, rohere Zeiten des Genres erinnert – kombiniert mit Scream-Vocals, die in Richtung Post-Punk gehen."
 
 <YouTube id="pxcFdkhJT24" />
 
