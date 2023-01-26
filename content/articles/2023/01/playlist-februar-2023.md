@@ -98,7 +98,7 @@ Das liest sich gut, oder? Soll ich Euch was verraten? Es klingt auch gut!
 
 ## LO! – "Our Fouling Larder" (Vorauskopplung vom Album "The Gleaners")
 
-LO! haben Ihr neues Album "The Gleaners" für April angekündigt. Es soll auf Pelagic Records erscheinen und macht jetzt schon mit einer großartigen Vorauskopplung auf sich aufmerksam. Die australische Blackened-Sludge-Band reitet uns mit faszinierenden Riffs in den Abgrund. Wie sieht es mit Euch aus? Jetzt könnt Ihr das Album nicht mehr erwarten, oder? Ich kann Euch nur so viel verraten: Das Warten lohnt sich! In den Playlists unten findet Ihr statt dem hier erwähnten "Our Fouling Larder" die Vorauskopplung "Salting the Earth". So bekommt Ihr noch einen weiteren Einblick.
+LO! haben Ihr neues Album "The Gleaners" für April angekündigt. Es soll auf Pelagic Records erscheinen und wirft schon jetzt großartige Schatten voraus. Die australische Blackened-Sludge-Band reitet uns mit faszinierenden Riffs in den Abgrund. Wie sieht es mit Euch aus? Jetzt könnt Ihr das Album nicht mehr erwarten, oder? Ich kann Euch nur so viel verraten: Das Warten lohnt sich! In den Playlists unten findet Ihr statt dem hier erwähnten "Our Fouling Larder" die Vorauskopplung "Salting the Earth". So bekommt Ihr noch einen weiteren Einblick.
 
 <YouTube id="V3yQwlPM4UI" />
 
