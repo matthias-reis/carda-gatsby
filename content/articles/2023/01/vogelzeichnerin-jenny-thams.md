@@ -76,21 +76,19 @@ In letzter Zeit habe ich angefangen, die Hintergründe passend zum jeweiligen Vo
 
 ## "Ich bin mit Vögeln aufgewachsen"
 
-**Jenny:** Ich bin tatsächlich mit Vögeln aufgewachsen. Erst waren es Kanarienvögel, die bei uns in einer Voliere zusammenlebten – die paprikarote “Chipsy” gehörte mir. Mir wurde dann schnell klar, dass mein eigentliches Interesse den Sittichen galt.
-
 ![Stieglitz. Bild: Jenny Thams](https://storage.googleapis.com/cardamonchai-media/2023-01-31/stieglitz-jenny-thams-jpg-imagine-f8f8f8_dfd7d2_768_1025/640.webp "Stieglitz. Bild: Jenny Thams. Bildbeschreibung: Ein Stieglitz sitzt auf einem Ast zwischen Hagebutten.")
 
-Als Jugendliche hatte ich dann Wellensittiche und Nymphensittiche. Nebenbei habe ich immer gerne Vögel in der Natur beobachtet. Und auf meinen Wanderungen teile ich mir heute noch gerne mal einen Apfel mit einer frechen Alpendohle.
+**Jenny:** Ich bin tatsächlich mit Vögeln aufgewachsen. Erst waren es Kanarienvögel, die bei uns in einer Voliere zusammenlebten – die paprikarote “Chipsy” gehörte mir. Mir wurde dann schnell klar, dass mein eigentliches Interesse den Sittichen galt. Als Jugendliche hatte ich dann Wellensittiche und Nymphensittiche. Nebenbei habe ich immer gerne Vögel in der Natur beobachtet. Und auf meinen Wanderungen teile ich mir heute noch gerne mal einen Apfel mit einer frechen Alpendohle.
 
 **Anne:** Du nutzt ja wie ich Social Media, um Deine Arbeit zu präsentieren. Ein Mitglied Deiner "Zielgruppe" hast Du ja mit mir schon erreicht, indem Du mich neugierig gemacht hast. Wie schätzt Du die Wirkung der sozialen Netzwerke insbesondere für Künstler⋆innen ein?
 
 ## "Ich möchte meine Liebe zur Natur und den Tieren mit anderen teilen"
 
-![Kleiber. Bild: Jenny Thams](https://storage.googleapis.com/cardamonchai-media/2023-01-31/kleiber-jenny-thams-jpg-imagine-f8f8f8_c4c0ae_1080_1080/640.webp "Kleiber. Bild: Jenny Thams. Bildbeschreibung: Ein Kleiber sitzt auf einem moosigen Untergrund.")
-
 **Jenny:** Das hängt sehr stark davon ab, wie man als Künstler⋆in mit dieser Möglichkeit umgeht. Bleibt man in seiner Bubble und vernetzt sich nur mit anderen Kunstschaffenden? Oder schafft man den Sprung, die Menschen zu erreichen und anzusprechen, die Kunst zwar wunderschön finden, aber sie selbst nicht erschaffen? Beides hat Vor- und Nachteile. Ich habe festgestellt, dass andere Kunstschaffende oft sparsam mit netten Kommentaren und Likes umgehen. Vielleicht spielt hier ein wenig Konkurrenzdenken mit hinein. Mir gefällt es am besten, mich mit Menschen zu vernetzen, die meine Liebe zur Natur und zu den Tieren mit mir teilen.
 
 **Anne:** Hast Du noch andere Kanäle (also auch offline), über die Du Deine Bilder teilst?
+
+![Kleiber. Bild: Jenny Thams](https://storage.googleapis.com/cardamonchai-media/2023-01-31/kleiber-jenny-thams-jpg-imagine-f8f8f8_c4c0ae_1080_1080/640.webp "Kleiber. Bild: Jenny Thams. Bildbeschreibung: Ein Kleiber sitzt auf einem moosigen Untergrund.")
 
 **Jenny:** Früher habe ich mit einer Galerie zusammengearbeitet, die meine Tierzeichnungen ausgestellt hat. Die Jahre 2019 bis 2022 habe ich mich langwierig vom Karpaltunnelsyndrom erholt. Leider konnte ich dadurch jahrelang nicht zeichnen. In dieser Phase ist alles eingebrochen. Aber ich habe auch festgestellt, dass es Zeit ist, neue Wege zu gehen: weg von der Auftragskunst hin zu mehr freien Werken, die mir tiefe Freude bringen. Daher bin ich gerade dabei, mich hier vollständig umzuorientieren.
 
