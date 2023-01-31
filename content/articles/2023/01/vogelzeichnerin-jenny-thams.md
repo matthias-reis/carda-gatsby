@@ -76,9 +76,11 @@ In letzter Zeit habe ich angefangen, die Hintergründe passend zum jeweiligen Vo
 
 ## "Ich bin mit Vögeln aufgewachsen"
 
+**Jenny:** Ich bin tatsächlich mit Vögeln aufgewachsen. Erst waren es Kanarienvögel, die bei uns in einer Voliere zusammenlebten – die paprikarote “Chipsy” gehörte mir. Mir wurde dann schnell klar, dass mein eigentliches Interesse den Sittichen galt.
+
 ![Stieglitz. Bild: Jenny Thams](https://storage.googleapis.com/cardamonchai-media/2023-01-31/stieglitz-jenny-thams-jpg-imagine-f8f8f8_dfd7d2_768_1025/640.webp "Stieglitz. Bild: Jenny Thams. Bildbeschreibung: Ein Stieglitz sitzt auf einem Ast zwischen Hagebutten.")
 
-**Jenny:** Ich bin tatsächlich mit Vögeln aufgewachsen. Erst waren es Kanarienvögel, die bei uns in einer Voliere zusammenlebten – die paprikarote “Chipsy” gehörte mir. Mir wurde dann schnell klar, dass mein eigentliches Interesse den Sittichen galt. Als Jugendliche hatte ich dann Wellensittiche und Nymphensittiche. Nebenbei habe ich immer gerne Vögel in der Natur beobachtet. Und auf meinen Wanderungen teile ich mir heute noch gerne mal einen Apfel mit einer frechen Alpendohle.
+Als Jugendliche hatte ich dann Wellensittiche und Nymphensittiche. Nebenbei habe ich immer gerne Vögel in der Natur beobachtet. Und auf meinen Wanderungen teile ich mir heute noch gerne mal einen Apfel mit einer frechen Alpendohle.
 
 **Anne:** Du nutzt ja wie ich Social Media, um Deine Arbeit zu präsentieren. Ein Mitglied Deiner "Zielgruppe" hast Du ja mit mir schon erreicht, indem Du mich neugierig gemacht hast. Wie schätzt Du die Wirkung der sozialen Netzwerke insbesondere für Künstler⋆innen ein?
 
