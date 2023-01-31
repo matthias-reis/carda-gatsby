@@ -114,4 +114,4 @@ In letzter Zeit habe ich angefangen, die Hintergründe passend zum jeweiligen Vo
 
 [I﻿hr könnt Jenny bei Instagram folgen](https://www.instagram.com/thams_vogelzeichnungen/).
 
-**Hinweis:** A﻿lle hier gezeigten Bilder hat mir die liebe Jenny für diesen Artikel zur Verfügung gestellt. Danke dafür!
+**Hinweis:** A﻿lle hier gezeigten Bilder hat mir die liebe Jenny für diesen Artikel zur Verfügung gestellt. Danke dafür! (Bilder: ©Jenny Thams)
