@@ -28,10 +28,6 @@ advertisement: false
 affiliate: false
 language: de
 ---
-# Künstlerin Jenny Thams
-
-## Menschen sind eher bereit, etwas zu schützen, das sie kennen
-
 **Jenny Thams zeichnet für Ihr Leben gern. Vor Kurzem hat sich sich ein ganz besonderes Ziel gesetzt: alle in Österreich heimischen Vogelarten einmal zu zeichnen. Die wunderbaren Kunstwerke, die dabei entstehen, teilt sie über die sozialen Netzwerke. Dort habe ich die Künstlerin kennengelernt und sie kurzerhand zu einem Interview eingeladen.**
 
 **Anne:** Hallo Jenny, danke, dass Du Dir die Zeit für das Interview nimmst. Ich bin gespannt, mehr über Dich und Deine Kunst zu erfahren. Möchtest Du mir erzählen, wie Du zur Kunst gekommen bist?
