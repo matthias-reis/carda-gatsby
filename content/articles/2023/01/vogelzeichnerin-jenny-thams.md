@@ -11,7 +11,7 @@ description: Vögel zeichnen – das ist die Lieblingsbeschäftigung von Jenny
 excerpt: "Jenny Thams zeichnet für Ihr Leben gern. Vor Kurzem hat sich sich ein
   ganz besonderes Ziel gesetzt: alle in Österreich heimischen Vogelarten einmal
   zu zeichnen. Die wunderbaren Kunstwerke, die dabei entstehen, teilt sie über
-  die sozialen Netzwerke. Dort hab ich die Künstlerin kennengelernt und sie
+  die sozialen Netzwerke. Dort habe ich die Künstlerin kennengelernt und sie
   kurzerhand zu einem Interview eingeladen."
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-31/voegel-zeichnen-jenny-thams-interview-jpg-imagine-f8f8f8_cdc1bc_1024_768/640.webp
 copyrigt: Jenny Thams
@@ -32,7 +32,7 @@ language: de
 
 ## Menschen sind eher bereit, etwas zu schützen, das sie kennen
 
-**Jenny Thams zeichnet für Ihr Leben gern. Vor Kurzem hat sich sich ein ganz besonderes Ziel gesetzt: alle in Österreich heimischen Vogelarten einmal zu zeichnen. Die wunderbaren Kunstwerke, die dabei entstehen, teilt sie über die sozialen Netzwerke. Dort hab ich die Künstlerin kennengelernt und sie kurzerhand zu einem Interview eingeladen.**
+**Jenny Thams zeichnet für Ihr Leben gern. Vor Kurzem hat sich sich ein ganz besonderes Ziel gesetzt: alle in Österreich heimischen Vogelarten einmal zu zeichnen. Die wunderbaren Kunstwerke, die dabei entstehen, teilt sie über die sozialen Netzwerke. Dort habe ich die Künstlerin kennengelernt und sie kurzerhand zu einem Interview eingeladen.**
 
 **Anne:** Hallo Jenny, danke, dass Du Dir die Zeit für das Interview nimmst. Ich bin gespannt, mehr über Dich und Deine Kunst zu erfahren. Möchtest Du mir erzählen, wie Du zur Kunst gekommen bist?
 
