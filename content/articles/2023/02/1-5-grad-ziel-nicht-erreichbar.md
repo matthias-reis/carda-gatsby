@@ -89,7 +89,7 @@ Bei dieser Art Rückkopplungen sprechen die Forschenden von Klimasensitivität. 
 
 Die Forschungsgruppe findet, es hätte sich einiges bewegt. Allerdings bremse das Verhalten der Unternehmen und Konsument⋆innen den so dringend notwendigen Klimaschutz aus. Die notwendige umfassende Dekarbonisierung verliefe nach wie vor viel zu langsam. Dekarbonisierung bedeutet die Reduktion von Kohlendioxid-Emissionen, erklärt Anita Engels. 
 
-Wir alle müssen demnach unser Verhalten ändern und mit offenen Augen durchs Leben gehen. Sachliche Berichterstattung auf der Basis wissenschaftlicher Fakten und das entsprechende Handeln der Politik kann auf Dauer außerdem den entscheidenden Beitrag zur Rettung des Klimas leisten. Um das zu schaffen sind vor allem zwei Dinge wichtig: Aufklärung unter Bereitstellung aller wichtigen Fakten, ohne die Beeinflussung durch Lobbys und persönliche Meinungen und eine laute, offene Debatte über die Klimakatastrophe und wie welche Schritte wir alle gehen müssen, um sie zu stoppen.
+Wir alle müssen demnach unser Verhalten ändern und mit offenen Augen durchs Leben gehen. Sachliche Berichterstattung auf der Basis wissenschaftlicher Fakten und das entsprechende Handeln der Politik kann auf Dauer außerdem den entscheidenden Beitrag zur Rettung des Klimas leisten. Um das zu schaffen, sind vor allem zwei Dinge wichtig: Aufklärung unter Bereitstellung aller wichtigen Fakten, ohne die Beeinflussung durch Lobbys und persönliche Meinungen und eine laute, offene Debatte über die Klimakatastrophe und wie welche Schritte wir alle gehen müssen, um sie zu stoppen.
 
 Studie https://attachment.rrz.uni-hamburg.de/8c8af471/CLICCS-Hamburg-Climate-Futures-Outlook-2023.pdf
 
