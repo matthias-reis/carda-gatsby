@@ -83,7 +83,7 @@ Ihr Kollege Jochem Marotzke betont außerdem:
 
 Der Physiker finded, der Begriff "Kipppunkte" sei inzwischen so aufgeweicht, dass er als wissenschaftlicher Begriff kaum mehr tauge. Die Entwicklung der globalen Temperatur hänge vielmehr von den Emissionen sowie der Reaktion des Klimas ab.
 
-Bei dieser Art Rückkopplungen sprechen die Forschenden von Klimasensitivität. Die Angst vor dem Abtauen des Permafrostes sollte in ihren Augen nicht unsere größte sein. Unser Fokus sollte viel mehr auf der erwärmten Erdatmosphäre liegen. Immer mehr von dieser Energie strahle auch ins All ab. Die Auswirkungen dieses Vorgangs seien 40 Mal so stark, wie der Klimaeffekt des Methans, das beim Abtauen des ewigen Eises freigesetzt werde, so die Wissenschaftler⋆innen.
+Bei dieser Art Rückkopplungen sprechen die Forschenden von Klimasensitivität. Die Angst vor dem Abtauen des Permafrostes sollte in ihren Augen nicht unsere größte sein. Unser Fokus solle viel mehr auf der erwärmten Erdatmosphäre liegen. Immer mehr von dieser Energie strahle auch ins All ab. Die Auswirkungen dieses Vorgangs seien 40 Mal so stark, wie der Klimaeffekt des Methans, das beim Abtauen des ewigen Eises freigesetzt werde, so die Wissenschaftler⋆innen.
 
 ## Wir alle müssen etwas tun, um die Klimakatastrophe zu stoppen
 
