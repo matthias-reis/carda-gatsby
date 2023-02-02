@@ -58,10 +58,10 @@ Zusammengefasst lauten die Erkenntnisse der Forschenden wie folgt:
 > Keiner der zehn sozialen Treiber unterstützt eine umfassende Dekarbonisierung bis 2050. Die treibenden Kräfte der Unternehmen sowie unsere Konsummuster untergraben weiterhin die Wege zur Dekarbonisierung und machen eine umfassende Dekarbonisierung unmöglich.
 > 
 > Durch die physikalischen Prozesse Permafrost-Auftauen, AMOC-Instabilität und Amazonas-Waldsterben können die Plausibilität des Erreichens der Temperaturziele des Pariser Abkommens moderat beeinträchtigt werden.
-
+> 
 > Die Bewertungen der sozialer Treiber zeigen, dass menschliches Handeln großes Potenzial besitzt, die Entwicklung der Klimazukunft zu gestalten. Dieses wird jedoch stark von Ungerechtigkeiten und sozialen Ungleichheiten geprägt, die die soziale Dynamik hin zu einer umfassenden Dekarbonisierung bis 2050 hemmen."
 
-Sprich: Wenn wir nicht alle dazu bereit sind, etwas zu tun, ist es zu spät und: Wir müssen uns gegenseitig unterstützen. Die reichen Industrieländer die armen und die großen Konzerne und Mächtigen dieser Welt müssen mit allen gemeinsam an einem Strang ziehen.
+**Sprich:** Wenn wir nicht alle dazu bereit sind, etwas zu tun, ist es zu spät und: Wir müssen uns gegenseitig unterstützen. Die reichen Industrieländer die armen und die großen Konzerne und Mächtigen dieser Welt müssen mit allen gemeinsam an einem Strang ziehen.
 
 ## Faktenbasierte und sachliche Berichterstattung ist wichtig
 
