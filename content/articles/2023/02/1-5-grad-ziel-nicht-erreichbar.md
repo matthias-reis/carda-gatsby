@@ -30,11 +30,11 @@ language: de
 ---
 **Die Autor⋆innen der neuesten Klimastudie "Hamburg Climate Futures Outlook" sehen es klar: Wenn wir uns ausschließlich auf die vereinbarten Bestrebungen konzentrieren, werden wir das 1,5-Grad-Ziel nicht erreichen. Die Forschenden der Uni Hamburg sehen die Verantwortung bei Unternehmen, Medien sowie Konsument⋆innen.**
 
-Aus der offiziellen Mitteilung zur Arbeit der Hochschule geht folgendes hervor:
+Aus der offiziellen Mitteilung[^1] zur Arbeit der Hochschule geht folgendes hervor:
 
 > "Eine Begrenzung der globalen Erwärmung auf 1,5 Grad Celsius ist derzeit nicht plausibel"
 
-Das Ziel des zweiten Hamburg Climate Futures Outlook ist die systematische Analyse und Plausibilitätsbewertung bestimmter klar definierter Klimazukünfte auf der Grundlage des derzeitigen Wissens über soziale Treiber und physikalische Prozesse. Die Forschenden prüften dafür die Plausibilität der im Pariser Klima-Abkommen von 2015 vorgesehenen Klimazukunft: die globale Erwärmung auf deutlich unter 2 °C und möglichst auf 1,5 °C gegenüber dem vorindustriellen Niveau zu halten (UNFCCC 2015, Artikel 2 Absatz 1a). Dabei arbeiten sie mit einem Klima-Zukunftsszenario, das Emissions- und Temperaturziele kombiniert. Um das 1,5-Grad-Ziel zu erreichen, muss die Welt bis 2050 einen Zustand der umfassenden Dekarbonisierung erreichen.
+Das Ziel des zweiten Hamburg Climate Futures Outlook[^2] ist die systematische Analyse und Plausibilitätsbewertung bestimmter klar definierter Klimazukünfte auf der Grundlage des derzeitigen Wissens über soziale Treiber und physikalische Prozesse. Die Forschenden prüften dafür die Plausibilität der im Pariser Klima-Abkommen von 2015 vorgesehenen Klimazukunft: die globale Erwärmung auf deutlich unter 2 °C und möglichst auf 1,5 °C gegenüber dem vorindustriellen Niveau zu halten (UNFCCC 2015, Artikel 2 Absatz 1a). Dabei arbeiten sie mit einem Klima-Zukunftsszenario, das Emissions- und Temperaturziele kombiniert. Um das 1,5-Grad-Ziel zu erreichen, muss die Welt bis 2050 einen Zustand der umfassenden Dekarbonisierung erreichen.
 
 ## Zehn klimarelevante Faktoren
 
@@ -91,6 +91,6 @@ Die Forschungsgruppe findet, es hätte sich einiges bewegt. Allerdings bremse da
 
 Wir alle müssen demnach unser Verhalten ändern und mit offenen Augen durchs Leben gehen. Sachliche Berichterstattung auf der Basis wissenschaftlicher Fakten und das entsprechende Handeln der Politik kann auf Dauer außerdem den entscheidenden Beitrag zur Rettung des Klimas leisten. Um das zu schaffen, sind vor allem zwei Dinge wichtig: Aufklärung unter Bereitstellung aller wichtigen Fakten, ohne die Beeinflussung durch Lobbys und persönliche Meinungen und eine laute, offene Debatte über die Klimakatastrophe und wie welche Schritte wir alle gehen müssen, um sie zu stoppen.
 
-Studie https://attachment.rrz.uni-hamburg.de/8c8af471/CLICCS-Hamburg-Climate-Futures-Outlook-2023.pdf
+[^1]: [Offizielle Mitteilung zur Studie](https://www.cliccs.uni-hamburg.de/results/hamburg-climate-futures-outlook.html)
 
-Mitteilung https://www.cliccs.uni-hamburg.de/results/hamburg-climate-futures-outlook.html
+[^2]: [Studie der Uni Hamburg](https://attachment.rrz.uni-hamburg.de/8c8af471/CLICCS-Hamburg-Climate-Futures-Outlook-2023.pdf)
