@@ -30,7 +30,7 @@ language: de
 ---
 **Die Autor⋆innen der neuesten Klimastudie "Hamburg Climate Futures Outlook" sehen es klar: Wenn wir uns ausschließlich auf die vereinbarten Bestrebungen konzentrieren, werden wir das 1,5-Grad-Ziel nicht erreichen. Die Forschenden der Uni Hamburg sehen die Verantwortung bei Unternehmen, Medien sowie Konsument⋆innen.**
 
-Aus der offiziellen Mitteilung zur Arbeit der Hochschule geht Folgendes hervor:
+Aus der offiziellen Mitteilung zur Arbeit der Hochschule geht folgendes hervor:
 
 > "Eine Begrenzung der globalen Erwärmung auf 1,5 Grad Celsius ist derzeit nicht plausibel"
 
