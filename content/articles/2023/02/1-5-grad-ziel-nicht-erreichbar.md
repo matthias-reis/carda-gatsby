@@ -2,7 +2,7 @@
 date: 2023-02-02T16:04:30.328Z
 slug: klimastudie-uni-hamburg
 typeName: Beitrag
-title: 1,5-Grad-Ziel nicht erreichbar
+title: 1,5-Grad-Ziel nicht plausibel
 subTitle: Neue Klimastudie der Uni Hamburg
 seoTitle: "Klima: Studie Uni Hamburg – 1,5 Grad Ziel nicht plausibel"
 description: "Aus der neuen Klimastudie der Uni Hamburg geht hervor: Das
