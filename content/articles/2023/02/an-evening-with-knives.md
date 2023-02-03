@@ -58,7 +58,7 @@ To celebrate its release, I had a long phone call with songwriter, singer, and b
 
 **Marco:** Yes, Eindhoven is like our central hub with lots of friends. This combination makes it always fun to play!
 
-We have posted a lot of shows on our website\[Fußnote]. Actually, there are also a few shows in Germany to come. For example, at the Dietrich-Keuning-Haus in Dortmund, with Earthship and Scorched Oak on Saturday, February 4th, and May 12th with Weedpecker in Cologne. On October 7th, we will play in Bonn. We mainly played in the Netherlands and Belgium, but we are working on playing more shows in Germany.
+We have posted a lot of shows on our website[^1]. Actually, there are also a few shows in Germany to come. For example, at the Dietrich-Keuning-Haus in Dortmund, with Earthship and Scorched Oak on Saturday, February 4th, and May 12th with Weedpecker in Cologne. On October 7th, we will play in Bonn. We mainly played in the Netherlands and Belgium, but we are working on playing more shows in Germany.
 
 **Anne:** Your music is quite versatile—no one can put it into any boxes, and I think that's what I like most about it. You can hear influences from all those styles I love so much, from Post-Whatever to doom and Sludge to Stoner. How would you describe it?
 
@@ -137,3 +137,5 @@ That's why I wouldn't say I like to share new songs at an early stage. Once we p
 **Marco:** It's been a pleasure!
 
 [Read my review of "Sense of Gravity" by An Evening With Knives now](/2021/06/an-evening-with-knives-sense-of-gravity/).
+
+[An Evening with Knifes tourdates](http://www.aneveningwithknives.com/)
