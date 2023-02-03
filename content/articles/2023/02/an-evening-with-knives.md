@@ -122,6 +122,10 @@ That's why I wouldn't say I like to share new songs at an early stage. Once we p
 
 <Playlist spotify="1dxjquYW9G6f5yn5iRQPtu?si=c6c0e487aa39488c" />
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5OXokEaxaeTzaPDLGGe0tz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0FjeRK4hRPoeeJMjj4GLXz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 **Anne:** You told me there is a special add-on for people who buy "FNR Sessions" on CD. Can you tell me more about it?
 
 ## "We're already working on new songs"
