@@ -81,7 +81,7 @@ Es wird Dich vielleicht auch überraschen, dass ich eine Menge Funk höre. Ich m
 
 ## "Es fühlt sich wie eine neue Ära an"
 
-![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-4-1-jpg-imagine-080808_373331_1024_768/640.webp "An Evening With Knives")
+![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-4-2-jpg-imagine-080808_393533_1024_768/640.webp "An Evening With Knives")
 
 **Marco:** Ich denke, wir haben einen großen Schritt nach vorn gemacht, als Jarno sich uns als Drummer angeschlossen hat. Wenn Du unsere Musik von damals und heute vergleichst, kannst Du einen großen Unterschied in der Stimmung erkennen. Wir spielen dieselben Songs und der Groove funktioniert besser. Das kannst Du auch bei unseren Live-Shows sehen. Es fühlt sich so an, als wären mehr Emotionen im Spiel – das Publikum geht auch mehr mit.
 
@@ -119,7 +119,7 @@ Darum würde ich auch nicht sagen, dass ich es mag, neue Songs während einer fr
 
 **Marco:** Ganz genau! Ich denke,"Blackout" ist das perfekte Beispiel dafür. Das Stück ist auf unserer "Fade Out" EP und es gibt auch eine Version auf Spotify. Wenn Du Dir die EP-Version anhörst und die neue Live-Version auf "FNR Sessions" kannst Du den Unterschied hören. Es ist derselbe Song mit denselben Lyrics, aber der Groove und das Tempo sind komplett unterschiedlich. Ich mag die EP-Version von "Blackout", aber ich liebe die Live-Version des Songs auf "FNR Sessions". Wenn Du Dir das anhörst, wirst Du den Unterschied sofort erkennen. Sie sind gleich, aber dennoch komplett unterschiedlich.
 
-#﻿# An Evening With Knives – EP-Version (2018) vs. "FNR Sessions"  Live-Version (2023)
+\#﻿# An Evening With Knives – EP-Version (2018) vs. "FNR Sessions"  Live-Version (2023)
 
 <Playlist spotify="1dxjquYW9G6f5yn5iRQPtu?si=c6c0e487aa39488c" />
 
