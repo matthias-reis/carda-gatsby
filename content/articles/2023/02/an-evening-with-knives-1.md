@@ -10,7 +10,7 @@ description: Das neue An Evening With Knives album "FNR Sessions" is
   Marco.
 excerpt: 'Das neue An Evening With Knives Album "FNR Sessions" ist etwas ganz
   Besonderes: die Band hat es in ihrer Heimatstadt Eindhoven aufgenommen – an
-  einem Ort der Musik und der Gemeinschaft. Das Ergebnis ist ein wunderbarer,
+  einem Ort der Musik und der Gemeinschaft. Das Ergebnis ist ein wunderbares,
   energiegeladenes Zusammenspiel komplexer Songstrukturen voll Gefühl, Drive und
   magischer Momente.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-1-1-jpg-imagine-080808_503292_1024_768/640.webp
@@ -35,7 +35,7 @@ affiliate: false
 language: de
 languageLink: /2023/02/an-evening-with-knives-interview/
 ---
-**Das neue An Evening With Knives Album "FNR Sessions" ist etwas ganz Besonderes: die Band hat es in ihrer Heimatstadt Eindhoven aufgenommen – an einem Ort der Musik und der Gemeinschaft. Das Ergebnis ist ein wunderbarer, energiegeladenes Zusammenspiel komplexer Songstrukturen voll Gefühl, Drive und magischer Momente.**
+**Das neue An Evening With Knives Album "FNR Sessions" ist etwas ganz Besonderes: die Band hat es in ihrer Heimatstadt Eindhoven aufgenommen – an einem Ort der Musik und der Gemeinschaft. Das Ergebnis ist ein wunderbares, energiegeladenes Zusammenspiel komplexer Songstrukturen voll Gefühl, Drive und magischer Momente.**
 
 Zur Feier des Tages habe ich mit Sänger und Songwriter Marco telefoniert und mich mit ihm Interview über die Platte, ihre Entstehung und die Entwicklung der Band unterhalten. Dabei habe ich nicht nur einiges über die geplante An Evening With Knives Tour erfahren – Marco hat mir einige spannende Geheimnisse der Band verraten!
 
