@@ -121,9 +121,9 @@ Darum würde ich auch nicht sagen, dass ich es mag, neue Songs während einer fr
 
 ## An Evening With Knives – "Blackout" EP-Version (2018) vs. "FNR Sessions"  Live-Version (2023)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5OXokEaxaeTzaPDLGGe0tz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3744542769/size=large/bgcol=ffffff/linkcol=5C9B72/tracklist=false/artwork=small/track=3427858990/transparent=true/" seamless><a href="https://aneveningwithknives.bandcamp.com/album/fnr-sessions">FNR Sessions by An Evening With Knives</a></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0FjeRK4hRPoeeJMjj4GLXz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=78221626/size=large/bgcol=ffffff/linkcol=5C9B72/tracklist=false/artwork=small/track=716091444/transparent=true/" seamless><a href="https://aneveningwithknives.bandcamp.com/album/fade-out-ep">Fade Out EP by An Evening With Knives</a></iframe>
 
 **Anne:** Du hast mir erzählt, dass die Leute, die sich "FNR Sessions" auf CD kaufen, ein besonderer Bonus erwartet. Möchtest Du mir mehr darüber verraten?
 
