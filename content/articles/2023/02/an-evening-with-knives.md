@@ -135,3 +135,5 @@ That's why I wouldn't say I like to share new songs at an early stage. Once we p
 **Anne:** Cool! So, I am looking forward to new An Evening With Knives songs! Thanks for answering my questions! All the best for your tour!
 
 **Marco:** It's been a pleasure!
+
+[Read my review of "Sense of Gravity" by An Evening With Knives now](/2021/06/an-evening-with-knives-sense-of-gravity/).
