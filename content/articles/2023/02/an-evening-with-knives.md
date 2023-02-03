@@ -80,7 +80,7 @@ Moreover, you might be surprised that I listen to funk a lot. I really like the 
 
 ## "It feels like a new era"
 
-![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-4-1-jpg-imagine-080808_373331_1024_768/640.webp "An Evening With Knives")
+![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-4-2-jpg-imagine-080808_393533_1024_768/640.webp "An Evening With Knives")
 
 **Marco:** I think we made quite a step when Jarno joined us on drums. If you compare our music, you can hear a big difference in the vibe. We're playing the same songs, and the groove works better. You can also see it at our live shows. It feels like there is more emotion and response in the crowd nowadays. 
 
