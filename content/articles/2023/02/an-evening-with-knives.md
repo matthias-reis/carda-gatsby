@@ -118,7 +118,7 @@ That's why I wouldn't say I like to share new songs at an early stage. Once we p
 
 **Marco:** Exactly! I guess "Blackout" is the perfect example of that. It is on our "Fade Out" EP, and it is also on Spotify. If you listen to the EP-Version, and the new live version on "FNR Sessions", you can hear the difference. It's the same song with the same lyrics, but the groove and the tempo are entirely different. I like the EP version of "Blackout", but I love the live version of that song on the "FNR Sessions". If you compare them, you will notice that they are the same but still entirely different.
 
-## An Evening With Knives – EP version (2018) vs. "FNR Sessions"  live version (2023)
+## An Evening With Knives – "Blackout" EP version (2018) vs. "FNR Sessions"  live version (2023)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5OXokEaxaeTzaPDLGGe0tz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
