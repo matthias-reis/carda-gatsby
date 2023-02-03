@@ -11,7 +11,7 @@ description: The new An Evening With Knives album "FNR Sessions" is spectacular.
 excerpt: 'The new An Evening With Knives album "FNR Sessions" is a very special
   one: the band recorded it in their hometown of Eindhoven—in a place of music,
   community, and gathering. The result is a wonderful, energetic interplay of
-  complex song structures full of feeling, drive and magical moments.'
+  complex song structures full of feeling, drive and moments of magic.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-1-1-jpg-imagine-080808_503292_1024_768/640.webp
 copyrigt: An Evening With Knives
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-og-jpg-imagine-082868_1c3b70_1200_628/640.webp
@@ -34,7 +34,7 @@ affiliate: false
 language: en
 languageLink: /2023/02/an-evening-with-knives-interview/
 ---
-**The new An Evening With Knives album "FNR Sessions" is a very special one: the band recorded it in their hometown of Eindhoven—in a place of music, community, and gathering. The result is a wonderful, energetic interplay of complex song structures full of feeling, drive and magical moments.**
+**The new An Evening With Knives album "FNR Sessions" is a very special one: the band recorded it in their hometown of Eindhoven—in a place of music, community, and gathering. The result is a wonderful, energetic interplay of complex song structures full of feeling, drive and moments of magic.**
 
 To celebrate its release, I had a long phone call with songwriter, singer, guitarist, and band founder Marco Gelissen. I interviewed him about the record, the creative process around it and the band's development. Not only did I learn a lot about the planned An Evening With Knives tour—Marco also shared some big top-secret band news with me!
 
