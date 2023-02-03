@@ -119,7 +119,7 @@ Darum würde ich auch nicht sagen, dass ich es mag, neue Songs während einer fr
 
 **Marco:** Ganz genau! Ich denke,"Blackout" ist das perfekte Beispiel dafür. Das Stück ist auf unserer "Fade Out" EP und es gibt auch eine Version auf Spotify. Wenn Du Dir die EP-Version anhörst und die neue Live-Version auf "FNR Sessions" kannst Du den Unterschied hören. Es ist derselbe Song mit denselben Lyrics, aber der Groove und das Tempo sind komplett unterschiedlich. Ich mag die EP-Version von "Blackout", aber ich liebe die Live-Version des Songs auf "FNR Sessions". Wenn Du Dir das anhörst, wirst Du den Unterschied sofort erkennen. Sie sind gleich, aber dennoch komplett unterschiedlich.
 
-\#﻿# An Evening With Knives – EP-Version (2018) vs. "FNR Sessions"  Live-Version (2023)
+#﻿# An Evening With Knives – EP-Version (2018) vs. "FNR Sessions"  Live-Version (2023)
 
 <Playlist spotify="1dxjquYW9G6f5yn5iRQPtu?si=c6c0e487aa39488c" />
 
