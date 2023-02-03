@@ -140,6 +140,10 @@ That's why I wouldn't say I like to share new songs at an early stage. Once we p
 
 An Evening With Knives released their eagerly awaited live album "Sense of Gravity" yesterday. You can find it on all streaming platforms!
 
+## An Evening With Knives - "Levitate" (FNR Sessions)
+
+<YouTube id="RHk0T1dtSfw" />
+
 [Read my review of "Sense of Gravity" by An Evening With Knives now](/2021/06/an-evening-with-knives-sense-of-gravity/).
 
 [^1]: [An Evening with Knifes tourdates](http://www.aneveningwithknives.com/)
