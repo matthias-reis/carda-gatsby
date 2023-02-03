@@ -44,7 +44,7 @@ To celebrate its release, I had a long phone call with songwriter, singer, guita
 
 **Anne:** Congrats on your new live album, "FNR Sessions"! You must be pretty satisfied with the outcome of your work, are you? It's wonderful!
 
-**Marco:** Thanks for the compliments! We're actually quite happy with it! In my opinion, the live videos especially look so great! We played a pretty nice show – it was mind-blowing, to be honest—for a band of our size and level! So, we are beyond happy to see how it turned out and how good the quality is.
+**Marco:** Thanks for the compliments! We're actually quite happy with it! In my opinion, the live videos especially look so great! We played a pretty nice show—it was mind-blowing, to be honest—for a band of our size and level! So, we are beyond happy to see how it turned out and how good the quality is.
 
 **Anne:** Can you tell me about the process of recording it?
 
