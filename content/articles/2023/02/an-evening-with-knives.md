@@ -7,7 +7,7 @@ subTitle: '"We always want to tell a Story"'
 seoTitle: An Evening With Knives Interview about new album
 description: The new An Evening With Knives album "FNR Sessions" is spectacular.
   Read the interview with songwriter, singer, and band founder Marco about it
-  now!
+  now!guitarist
 excerpt: 'The new An Evening With Knives album "FNR Sessions" is a very special
   one: the band recorded it in their hometown of Eindhoven—in a place of music,
   community, and gathering. The result is a wonderful, energetic interplay of
@@ -36,7 +36,7 @@ languageLink: /2023/02/an-evening-with-knives-interview-de/
 ---
 **The new An Evening With Knives album "FNR Sessions" is a very special one: the band recorded it in their hometown of Eindhoven—in a place of music, community, and gathering. The result is a wonderful, energetic interplay of complex song structures full of feeling, drive and magical moments.**
 
-To celebrate its release, I had a long phone call with songwriter, singer, and band founder Marco. I interviewed him about the record, the creative process around it and the band's development. Not only did I learn a lot about the planned An Evening With Knives tour—Marco also shared some big top-secret band news with me!
+To celebrate its release, I had a long phone call with songwriter, singer, guitarist, and band founder Marco Gelissen. I interviewed him about the record, the creative process around it and the band's development. Not only did I learn a lot about the planned An Evening With Knives tour—Marco also shared some big top-secret band news with me!
 
 **Anne:** Hi Marco! Thanks for taking the time for this interview! It's good to talk to you!
 
