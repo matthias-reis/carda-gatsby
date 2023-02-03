@@ -138,4 +138,4 @@ That's why I wouldn't say I like to share new songs at an early stage. Once we p
 
 [Read my review of "Sense of Gravity" by An Evening With Knives now](/2021/06/an-evening-with-knives-sense-of-gravity/).
 
-[An Evening with Knifes tourdates](http://www.aneveningwithknives.com/)
+[^1]: [An Evening with Knifes tourdates](http://www.aneveningwithknives.com/)
