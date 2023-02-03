@@ -1,6 +1,6 @@
 ---
 date: 2023-02-03T08:47:27.276Z
-slug: an-evening-with-knives-interview-de
+slug: an-evening-with-knives-interview
 typeName: Interview
 title: An Evening With Knives
 subTitle: '"Wir möchten mit unserer Musik immer eine Geschichte erzählen"'
@@ -33,7 +33,7 @@ focusKeyword: An Evening With Knives
 advertisement: false
 affiliate: false
 language: de
-languageLink: /2023/02/an-evening-with-knives-interview/
+languageLink: /2023/02/an-evening-with-knives-interview-en/
 ---
 **Das neue An Evening With Knives Album "FNR Sessions" ist etwas ganz Besonderes: die Band hat es in ihrer Heimatstadt Eindhoven aufgenommen – an einem Ort der Musik und der Gemeinschaft. Das Ergebnis ist ein wunderbares, energiegeladenes Zusammenspiel komplexer Songstrukturen voll Gefühl, Drive und magischer Momente.**
 
