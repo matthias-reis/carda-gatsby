@@ -37,7 +37,7 @@ languageLink: /2023/02/an-evening-with-knives-interview/
 ---
 **Das neue An Evening With Knives Album "FNR Sessions" ist etwas ganz Besonderes: die Band hat es in ihrer Heimatstadt Eindhoven aufgenommen – an einem Ort der Musik und der Gemeinschaft. Das Ergebnis ist ein wunderbares, energiegeladenes Zusammenspiel komplexer Songstrukturen voll Gefühl, Drive und magischer Momente.**
 
-Zur Feier des Tages habe ich mit Sänger und Songwriter Marco telefoniert und mich mit ihm Interview über die Platte, ihre Entstehung und die Entwicklung der Band unterhalten. Dabei habe ich nicht nur einiges über die geplante An Evening With Knives Tour erfahren – Marco hat mir einige spannende Geheimnisse der Band verraten!
+Zur Feier des Tages habe ich mit Sänger, Gitarrist, Songwriter und Bandgründer Marco telefoniert und mich mit ihm Interview über die Platte, ihre Entstehung und die Entwicklung der Band unterhalten. Dabei habe ich nicht nur einiges über die geplante An Evening With Knives Tour erfahren – Marco hat mir einige spannende Geheimnisse der Band verraten!
 
 **Anne:** Hi Marco! Danke, dass Du Dir die Zeit für das Interview nimmst! Ich freue mich, mit Dir zu sprechen!
 
