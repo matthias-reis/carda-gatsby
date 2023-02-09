@@ -36,6 +36,8 @@ Du bist auch betroffen? Dann willkommen im Club. Wobei: bin ich Teil des Clubs? 
 
 ## Was ist Endometriose?
 
+![Eine Wärmflasche mit einer lila Samthülle liegt mit einem Teebeutel und einer beigen Verpackung für eine wärmende Periodencreme mit goldener Beschriftung auf einer grauen Decke mit weißen Punkten](https://storage.googleapis.com/cardamonchai-media/2023-02-09/2023-02-09-micaraa-009-jpg-imagine-480818_795364_2048_1536/640.webp "Was ist Endometriose?")
+
 Endometriose ist eine chronische und schmerzhafte Erkrankung, die zahlreiche Menschen mit Gebärmutter betrifft. Viele von uns leiden oft jahrelang, ohne eine sichere Diagnose und wirkliche Behandlungsmöglichkeiten. Gynäkolog⋆innen verschreiben häufig die Pille, um die Schmerzen und andere Symptome wenigstens einigermaßen im Rahmen zu halten. Diese wird dann durchgehend genommen, um die sogenannte "Entzugsblutung" nach drei Wochen zu verhindern.
 
 Wer das nicht möchte, greift auf Hausmittel sowie häufig starke Schmerzmittel zurück — andere Optionen gibt es nicht. Bei einer Endometriose kommt es zu sogenannten Herden. Das bedeutet: Das Gewebe, welches die Gebärmutter auskleidet (Endometrium) wächst an anderen Stellen im Körper. Die Herde können zum Beispiel an den Eierstöcken, dem Beckenboden, dem Darm, der Blase oder anderen Organen auftreten. In der Regel kommt es dadurch dann zu starken, wehenartigen Schmerzen, teilweise extremen Blutungen, Entzündungen, Verdauungsbeschwerden, häufigem Harndrang und anderen, damit einhergehenden Symptomen wie Eisenmangel, Blutarmut, Fatigue und Kopf und Gliederschmerzen. Viele Patient⋆innen werden durch ihre Endometriose unfruchtbar.
@@ -48,22 +50,24 @@ Und nun zu den Untersuchungsmethoden: Auf dem Ultraschall lässt sich in der Reg
 
 ## Pille oder Skalpel?
 
+![Eine Wärmflasche mit einer lila Samthülle liegt mit einem Teebeutel und einer beigen Verpackung für eine wärmende Periodencreme mit goldener Beschriftung auf einer grauen Decke mit weißen Punkten](https://storage.googleapis.com/cardamonchai-media/2023-02-09/2023-02-09-micaraa-011-jpg-imagine-380818_75515f_2048_1536/640.webp "Pille oder Skalpel?")
+
 Darum gibt es in vielen Fällen die Pille. Wer wie ich mit zunehmendem Alter Angst vor den Nebenwirkungen bekommt, muss sich selbst helfen. Bei mir bedeutet das alle 25 Tage: arbeiten, höchstens mit Wärmeflasche und Heizdecke aus dem Bett. Krampflösende Mittel, viel Tee und wärmende Salben. Überhaupt: alles, was mit Wärme zu tun hat, ist gut. Und Ruhe. Wenn mich die Fatigue so richtig erwischt, kann ich in diesen Momenten nicht mal die Zimmerlautstärke des Fernsehers für lange Zeit ertragen.
 
 Ich bin, wenn es um chronische Krankheiten geht, wirklich nicht begeistert von Empfehlungen für Hausmittel. Allerdings müssen wir Menschen, mit derartigen, regelmäßigen, markerschütternden Schmerzen einfach zusammenhalten. Daher werde ich meine an dieser Stelle mit Euch teilen. Sucht aber bitte erst den⋆die Ärzt⋆in Eures Vertrauens auf und besprecht alles im Detail. Wenn Ihr viel Blut verliert oder hohe Entzündungswerte im Körper habt, kann es sein, dass Ihr zusätzlich Medikamente oder hoch dosierte Eisen- oder Vitaminpräparate benötigt. Dafür lasst Ihr Euch am besten von einem Fachmenschen beraten. Das betrifft selbstverständlich auch die möglichen Diagnose-Optionen. Ob Ihr diesen Weg gehen möchtet, entscheidet Ihr bitte für Euch und hört dabei auf niemanden anderen, als Euch selbst.
 
 ## Meine Hausmittel bei Endometriose-Symptomen
 
-- Bettruhe
-- Leichtes Yin Yoga
-- Meditation
-- Krampflösende Mittel (Lasst Euch hier bitte von Eurem⋆r Ärzt⋆in beraten und nehmt gegebenenfalls zusätzlich einen Magenschutz mit ein)
-- Schmerzmittel (Lasst Euch hier bitte von Eurem⋆r Ärzt⋆in beraten und nehmt gegebenenfalls zusätzlich einen Magenschutz mit ein)
-- Wärmende Periodencreme (z. B. von MICARAA, siehe Bilder)
-- Heizdecke
-- Wärmeflasche
-- Perioden-Panties plus Perioden-Tasse
-- Literweise heißen Lieblingstee
+* Bettruhe
+* Leichtes Yin Yoga
+* Meditation
+* Krampflösende Mittel (Lasst Euch hier bitte von Eurem⋆r Ärzt⋆in beraten und nehmt gegebenenfalls zusätzlich einen Magenschutz mit ein)
+* Schmerzmittel (Lasst Euch hier bitte von Eurem⋆r Ärzt⋆in beraten und nehmt gegebenenfalls zusätzlich einen Magenschutz mit ein)
+* Wärmende Periodencreme (z. B. von MICARAA, siehe Bilder)
+* Heizdecke
+* Wärmeflasche
+* Perioden-Panties plus Perioden-Tasse
+* Literweise heißen Lieblingstee
 
 Der Tee und die Periodencreme werden Eure Schmerzen nicht verschwinden lassen. Eine Massage (mit warmen Händen!) mit der Creme kann jedoch entspannend wirken. Es gibt verschiedene Cremes. Die von MICARAA ist besonders hautverträglich (Die Haut wird durch die heißen Wärmflaschen schon genug gereizt) und enthält CBD. Ihr leichter Duft wirkt anregend und erinnert mich an Lakritz und gute Laune.
 
@@ -71,11 +75,15 @@ Als ich mit weit über 30 irgendwann feststellte, wie viel mehr Schmerzen ich mi
 
 ## Warum habe ich Endometriose?
 
+![Eine Wärmflasche mit einer lila Samthülle liegt mit einem Teebeutel und einer beigen Verpackung für eine wärmende Periodencreme mit goldener Beschriftung auf einer grauen Decke mit weißen Punkten](https://storage.googleapis.com/cardamonchai-media/2023-02-09/2023-02-09-micaraa-005-jpg-imagine-280808_785e71_2048_1536/640.webp "Warum habe ich Endometriose?")
+
 Wissenschaftliche Studien haben gezeigt, dass Stress, hormonelle Veränderungen, andere chronische Krankheiten und genetische Faktoren eine Rolle bei der Entstehung von Endometriose spielen können. Meine derzeitige Ärztin (was ein Juwel, ich bin so froh, dass ich sie gefunden habe) vermutet, dass bei mir der Auslöser eine Kombination war aus meiner Mononukleose, der Hormonspirale, die ich damals trug und meiner zweiten chronischen Erkrankung, die ich seit dieser Zeit mit mir herumtrage: meine Hashimoto-Thyreoiditis. Das ist, kurz erklärt, eine autoimmune Erkrankung, bei der es zur Veränderung der Schilddrüse kommt. Auch hier kann der Weg bis zur Diagnose sehr lang und steinig sein. Von meiner Schilddrüse ist nicht mehr viel übrig dadurch. Mehr möchte ich darüber hier nicht ins Detail gehen. Die Forschung sagt heute zusammengefasst ziemlich genau das:
 
 > "Studien haben gezeigt, dass es einen engen Zusammenhang zwischen Endometriose und autoimmune Krankheiten wie Hashimoto Thyrioditis gibt. Viele Menschen mit Endometriose haben eine höhere Wahrscheinlichkeit, an autoimmune Erkrankungen zu leiden, und umgekehrt können Menschen mit autoimmune Erkrankungen wie Hashimoto Thyrioditis auch häufiger an Endometriose leiden."
 
 ## Über chronische Erkrankungen reden ist wichtig
+
+![Eine Wärmflasche mit einer lila Samthülle liegt mit einem Teebeutel und einer beigen Verpackung für eine wärmende Periodencreme mit goldener Beschriftung auf einer grauen Decke mit weißen Punkten](https://storage.googleapis.com/cardamonchai-media/2023-02-09/2023-02-09-micaraa-004-jpg-imagine-680828_835f6f_2048_1536/640.webp "Es ist wichtig, dass wir über chronische Erkrankungen reden.")
 
 Was ich besonders wichtig finde: Wir müssen über chronische Erkrankungen reden. Und zwar in jedem Umfeld und so häufig wie möglich. Wenn ich mich krankmelde, möchte einfach nicht so etwas hören wie "Hoffentlich bist Du schnell wieder gesund". Ich weiß, das ist jedes Mal lieb gemeint. Aber: Nein, ich bin nicht gesund. Aber ich möchte mich unbedingt sehr bald wieder besser fühlen. Bevor mir meine Schilddrüse den nächsten Schub verpasst oder wieder 25 Tage vorbei sind und ich mich wieder im Tal der Schmerzen befinde. 
 
