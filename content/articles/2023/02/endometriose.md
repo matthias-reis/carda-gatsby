@@ -34,7 +34,7 @@ language: de
 ---
 **Tun wir doch mal etwas, das viel zu selten passiert: Sprechen wir über Endometriose. Die weitverbreitete Krankheit betrifft etwa zehn Prozent der Menschen mit Uterus und ist leider noch viel zu wenig erforscht. Schon die Diagnose ist unglaublich aufwendig, schmerzhaft und führt im schlimmsten Fall nicht mal zu einem Ergebnis. Was dann folgt, ist die nicht weniger aufwendige und häufig nicht sehr erfolgreiche Behandlung.**
 
-Du bist auch betroffen? Dann willkommen im Club. Wobei: bin ich Teil des Clubs? Zwei Gynäkolog⋆innen haben unabhängig voneinander gesagt: Es ist sehr wahrscheinlich. Denn: Ich habe mich dagegen entschieden, mich für eine wirklich klare Diagnose unters Messer zu legen. Das ist nämlich die einzige wirklich Aufschluss bringende Möglichkeit, um herauszufinden, ob man sogenannte Endometriose-Herde im Körper hat. Doch dazu später mehr. Klären wir erst mal den Punkt: Was ist Endometriose eigentlich?
+Du bist auch betroffen? Dann willkommen im Club. Wobei: bin ich Teil des Clubs? Zwei Gynäkolog⋆innen und ein Internist haben mir unabhängig voneinander gesagt: Es ist sehr wahrscheinlich. Denn: Ich habe mich dagegen entschieden, mich für eine wirklich klare Diagnose unters Messer zu legen. Das ist nämlich die einzige wirklich Aufschluss bringende Möglichkeit, um herauszufinden, ob man sogenannte Endometriose-Herde im Körper hat. Doch dazu später mehr. Klären wir erst mal den Punkt: Was ist Endometriose eigentlich?
 
 ## Was ist Endometriose?
 
