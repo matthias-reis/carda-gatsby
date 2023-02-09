@@ -61,7 +61,7 @@ Ich bin, wenn es um chronische Krankheiten geht, wirklich nicht begeistert von E
 ## Meine Hausmittel bei Endometriose-Symptomen
 
 * Bettruhe
-* Leichtes Yin Yoga
+* Leichtes [Yin Yoga](/2021/02/yoga-stile/)
 * Meditation
 * Krampflösende Mittel (Lasst Euch hier bitte von Eurem⋆r Ärzt⋆in beraten und nehmt gegebenenfalls zusätzlich einen Magenschutz mit ein)
 * Schmerzmittel (Lasst Euch hier bitte von Eurem⋆r Ärzt⋆in beraten und nehmt gegebenenfalls zusätzlich einen Magenschutz mit ein)
