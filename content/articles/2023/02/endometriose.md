@@ -48,7 +48,7 @@ Wer das nicht möchte, greift auf Hausmittel sowie i﻿n vielen Fällen starke S
 
 Menschen, die unter Endometriose leiden, fühlen sich alleingelassen und nicht verstanden. Ich selbst kann die Ärzt⋆innen, die meine Beschwerden (die mich in meinem Alltag oft stark einschränken!) als psychosomatisch oder schlicht nicht existent verharmlost haben. Wenn Euch das auch passiert, wechselt bitte die Praxis, denn: Nein! Wehenartige Schmerzen jeden Monat sind nicht normal! Trotz ihrer Häufigkeit ist die Krankheit bis heute kaum erforscht.
 
-Und nun zu den Untersuchungsmethoden: Auf dem Ultraschall lässt sich in der Regel rein gar nichts erkennen. Daher wird man bei einem Verdacht in die Regel in eine Klinik geschickt, wo dann ein minimalinvasiver Eingriff erfolgt. Während der Operation schauen die Mediziner⋆innen sich den Bauchraum an und können auch schon direkt einige der Herde absaugen. Diese können jedoch nachwachsen (auch an anderen Stellen) und es kann zu Komplikationen kommen.
+Und nun zu den Untersuchungsmethoden: Auf dem Ultraschall lässt sich in der Regel rein gar nichts erkennen. Daher wird man bei einem Verdacht in eine Klinik geschickt, wo dann ein minimalinvasiver Eingriff erfolgt. Während der Operation schauen die Mediziner⋆innen sich den Bauchraum an und können auch schon direkt einige der Herde absaugen. Diese können jedoch nachwachsen (auch an anderen Stellen) und es kann zu Komplikationen kommen.
 
 ## Pille oder Skalpel?
 
