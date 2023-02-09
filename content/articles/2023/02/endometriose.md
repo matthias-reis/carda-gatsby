@@ -3,7 +3,7 @@ date: 2023-02-09T16:41:43.473Z
 slug: endometriose
 typeName: Beitrag
 title: Endometriose
-subTitle: Wie es sich anfühlt mit damit zu leben
+subTitle: Wie es sich anfühlt damit zu leben
 seoTitle: So fühlt es sich an mit Endometriose zu leben
 description: Wie fühlt es sich an mit Endometriose zu leben? Welche
   Behandlungsmöglichkeiten gibt es? Hier erfährst Du alles!
