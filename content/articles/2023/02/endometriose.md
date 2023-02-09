@@ -64,6 +64,7 @@ Ich bin, wenn es um chronische Krankheiten geht, wirklich nicht begeistert von E
 * Leichtes [Yin Yoga](/2021/02/yoga-stile/)
 * Meditation
 * Krampflösende Mittel (Lasst Euch hier bitte von Eurem⋆r Ärzt⋆in beraten und nehmt gegebenenfalls zusätzlich einen Magenschutz mit ein)
+* Hochdosiertes Magnesium
 * Schmerzmittel (Lasst Euch hier bitte von Eurem⋆r Ärzt⋆in beraten und nehmt gegebenenfalls zusätzlich einen Magenschutz mit ein)
 * [Wärmende Periodencreme](https://tidd.ly/3YoQyZ1) (z. B. von MICARAA, siehe Bilder)
 * Heizdecke
@@ -73,7 +74,11 @@ Ich bin, wenn es um chronische Krankheiten geht, wirklich nicht begeistert von E
 
 Der Tee und die [Periodencreme](https://tidd.ly/3YoQyZ1) werden Eure Schmerzen nicht verschwinden lassen. Eine Massage (mit warmen Händen!) mit der Creme kann jedoch entspannend wirken. Es gibt verschiedene Cremes. Die von MICARAA ist besonders hautverträglich (Die Haut wird durch die heißen Wärmflaschen schon genug gereizt) und enthält CBD. Ihr leichter Duft wirkt anregend und erinnert mich an Lakritz und gute Laune.
 
-Als ich mit weit über 30 irgendwann feststellte, wie viel mehr Schmerzen ich mir durch die Tampons, mit denen ich meinen Körper während der Periode zusätzlich reizte, zufügte, hätte ich die Welt umarmen können. Ihr könnt davon halten, was Ihr wollt, aber ich finde: Das Leben ist so viel leichter, seit es Perioden-Unterwäsche gibt. Meine Krämpfe sind durch die Umstellung nicht weggegangen, aber sie sind weniger extrem. Probiert es also auf jeden Fall aus. Die Dinger halten übrigens wirklich trocken, falls Ihr Euch das gefragt habt. Also kein glitschiges Bindengefühl, keine Sorge. Wenn ich an starken Tagen rausmuss, kombiniere ich sie mit einer Menstruationstasse. Das klappt auch in der Nacht gut. Damit habt Ihr auf alle Fälle Ruhe und sie sind vom Tragegefühl wesentlich komfortabler als diese schrecklichen Tampons – und obendrein natürlich umweltfreundlicher. Soviel also zu den Hausmitteln. Wie gesagt: Hört auf Euren Körper und lasst Euch, so gut das eben möglich ist, beraten. Ich kann hier nur Anregungen aus der Erfahrung heraus mit Euch teilen.
+Als ich mit weit über 30 irgendwann feststellte, wie viel mehr Schmerzen ich mir durch die Tampons, mit denen ich meinen Körper während der Periode zusätzlich reizte, zufügte, hätte ich die Welt umarmen können. Ihr könnt davon halten, was Ihr wollt, aber ich finde: Das Leben ist so viel leichter, seit es Perioden-Unterwäsche gibt. Meine Krämpfe sind durch die Umstellung nicht weggegangen, aber sie sind weniger extrem. Probiert es also auf jeden Fall aus. Die Dinger halten übrigens wirklich trocken, falls Ihr Euch das gefragt habt. Also kein glitschiges Bindengefühl, keine Sorge. Wenn ich an starken Tagen rausmuss, kombiniere ich sie mit einer Menstruationstasse. Das klappt auch in der Nacht gut. Damit habt Ihr auf alle Fälle Ruhe und sie sind vom Tragegefühl wesentlich komfortabler als diese schrecklichen Tampons – und obendrein natürlich umweltfreundlicher. 
+
+Einen weiteren Aha-Moment hatte ich, als ich angefangen habe, hochdosiertes Magnesium einzunehmen. Eine Gynäkologin hatte es online in einem Forum empfohlen. Ich finde es wirklich super. Es mildert die Krämpfe zusätzlich zu Schmerzmitteln und Co. ohne Nebenwirkungen. Kein Wunder – man nutzt es ja beispielsweise auch bei Muskelkrämpfen nach dem Training. Probiert es ruhig auch mal. Inzwischen gibt es sogar praktische Retard-Tabletten, dann müsst Ihr nicht dreimal täglich daran denken.
+
+Soviel also zu den Hausmitteln. Wie gesagt: Hört auf Euren Körper und lasst Euch, so gut das eben möglich ist, beraten. Ich kann hier nur Anregungen aus der Erfahrung heraus mit Euch teilen.
 
 ## Warum habe ich Endometriose?
 
