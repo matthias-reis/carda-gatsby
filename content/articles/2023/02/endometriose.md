@@ -12,7 +12,7 @@ excerpt: "Tun wir doch mal etwas, das viel zu selten passiert: Sprechen wir übe
   Menschen mit Uterus und ist leider noch viel zu wenig erforscht. Schon die
   Diagnose ist unglaublich aufwendig, schmerzhaft und führt im schlimmsten Fall
   nicht mal zu einem Ergebnis. Was dann folgt, ist die nicht weniger aufwendige
-  und häufig wenig erfolgreiche Behandlung."
+  und häufig nicht sehr erfolgreiche Behandlung."
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-09/2023-02-09-micaraa-014-jpg-imagine-585858_636363_2048_1536/640.webp
 copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-09/endometriose-og-jpg-imagine-480818_825769_1200_628/640.webp
@@ -32,7 +32,7 @@ advertisement: false
 affiliate: true
 language: de
 ---
-**Tun wir doch mal etwas, das viel zu selten passiert: Sprechen wir über Endometriose. Die weitverbreitete Krankheit betrifft etwa zehn Prozent der Menschen mit Uterus und ist leider noch viel zu wenig erforscht. Schon die Diagnose ist unglaublich aufwendig, schmerzhaft und führt im schlimmsten Fall nicht mal zu einem Ergebnis. Was dann folgt, ist die nicht weniger aufwendige und häufig wenig erfolgreiche Behandlung.**
+**Tun wir doch mal etwas, das viel zu selten passiert: Sprechen wir über Endometriose. Die weitverbreitete Krankheit betrifft etwa zehn Prozent der Menschen mit Uterus und ist leider noch viel zu wenig erforscht. Schon die Diagnose ist unglaublich aufwendig, schmerzhaft und führt im schlimmsten Fall nicht mal zu einem Ergebnis. Was dann folgt, ist die nicht weniger aufwendige und häufig nicht sehr erfolgreiche Behandlung.**
 
 Du bist auch betroffen? Dann willkommen im Club. Wobei: bin ich Teil des Clubs? Zwei Gynäkolog⋆innen haben unabhängig voneinander gesagt: Es ist sehr wahrscheinlich. Denn: Ich habe mich dagegen entschieden, mich für eine wirklich klare Diagnose unters Messer zu legen. Das ist nämlich die einzige wirklich Aufschluss bringende Möglichkeit, um herauszufinden, ob man sogenannte Endometriose-Herde im Körper hat. Doch dazu später mehr. Klären wir erst mal den Punkt: Was ist Endometriose eigentlich?
 
@@ -42,11 +42,11 @@ Du bist auch betroffen? Dann willkommen im Club. Wobei: bin ich Teil des Clubs? 
 
 Endometriose ist eine chronische und schmerzhafte Erkrankung, die zahlreiche Menschen mit Gebärmutter betrifft. Viele von uns leiden oft jahrelang, ohne eine sichere Diagnose und wirkliche Behandlungsmöglichkeiten. Gynäkolog⋆innen verschreiben häufig die Pille, um die Schmerzen und andere Symptome wenigstens einigermaßen im Rahmen zu halten. Diese wird dann durchgehend genommen, um die sogenannte "Entzugsblutung" nach drei Wochen zu verhindern.
 
-Wer das nicht möchte, greift auf Hausmittel sowie häufig starke Schmerzmittel zurück — andere Optionen gibt es nicht. Bei einer Endometriose kommt es zu sogenannten Herden. Das bedeutet: Das Gewebe, welches die Gebärmutter auskleidet (Endometrium) wächst an anderen Stellen im Körper. Die Herde können zum Beispiel an den Eierstöcken, dem Beckenboden, dem Darm, der Blase oder anderen Organen auftreten. In der Regel kommt es dadurch dann zu starken, wehenartigen Schmerzen, teilweise extremen Blutungen, Entzündungen, Verdauungsbeschwerden, häufigem Harndrang und anderen, damit einhergehenden Symptomen wie Eisenmangel, Blutarmut, Fatigue und Kopf und Gliederschmerzen. Viele Patient⋆innen werden durch ihre Endometriose unfruchtbar.
+Wer das nicht möchte, greift auf Hausmittel sowie i﻿n vielen Fällen starke Schmerzmittel zurück — andere Optionen gibt es nicht. Bei einer Endometriose kommt es zu sogenannten Herden. Das bedeutet: Das Gewebe, welches die Gebärmutter auskleidet (Endometrium) wächst an anderen Stellen im Körper. Die Herde können zum Beispiel an den Eierstöcken, dem Beckenboden, dem Darm, der Blase oder anderen Organen auftreten. In der Regel kommt es dadurch dann zu starken, wehenartigen Schmerzen, teilweise extremen Blutungen, Entzündungen, Verdauungsbeschwerden, häufigem Harndrang und anderen, damit einhergehenden Symptomen wie Eisenmangel, Blutarmut, Fatigue und Kopf und Gliederschmerzen. Viele Patient⋆innen werden durch ihre Endometriose unfruchtbar.
 
 ## Wehenartige Schmerzen alle 25 Tage sind nicht normal
 
-Menschen, die unter Endometriose leiden, fühlen sich alleingelassen und nicht verstanden. Ich selbst kann die Ärzt⋆innen, die meine Beschwerden (die mich in meinem Alltag häufig stark einschränken!) als psychosomatisch oder schlicht nicht existent verharmlost haben. Wenn Euch das auch passiert, wechselt bitte die Praxis, denn: Nein! Wehenartige Schmerzen jeden Monat sind nicht normal! Trotz ihrer Häufigkeit ist die Krankheit bis heute kaum erforscht.
+Menschen, die unter Endometriose leiden, fühlen sich alleingelassen und nicht verstanden. Ich selbst kann die Ärzt⋆innen, die meine Beschwerden (die mich in meinem Alltag oft stark einschränken!) als psychosomatisch oder schlicht nicht existent verharmlost haben. Wenn Euch das auch passiert, wechselt bitte die Praxis, denn: Nein! Wehenartige Schmerzen jeden Monat sind nicht normal! Trotz ihrer Häufigkeit ist die Krankheit bis heute kaum erforscht.
 
 Und nun zu den Untersuchungsmethoden: Auf dem Ultraschall lässt sich in der Regel rein gar nichts erkennen. Daher wird man bei einem Verdacht in die Regel in eine Klinik geschickt, wo dann ein minimalinvasiver Eingriff erfolgt. Während der Operation schauen die Mediziner⋆innen sich den Bauchraum an und können auch schon direkt einige der Herde absaugen. Diese können jedoch nachwachsen (auch an anderen Stellen) und es kann zu Komplikationen kommen.
 
