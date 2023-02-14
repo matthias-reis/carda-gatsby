@@ -15,15 +15,17 @@ import {
 import { FC, useEffect, useRef } from 'react';
 
 export const EditorModule: FC = () => {
-  const previewEl = useRef(null);
+  const previewEl = useRef<HTMLIFrameElement>(null);
   useEffect(() => {
-    const timer = setInterval(() => {
-      if (previewEl.current !== null) {
-        console.log(previewEl.current.contentWindow.location.href);
-      }
-    }, 1000);
-
-    return () => clearInterval(timer);
+    if (previewEl.current) {
+      const iFrame = previewEl.current;
+      console.log(iFrame);
+      iFrame.addEventListener(
+        'message',
+        (...attrs) => console.log('outside iframe', attrs),
+        false
+      );
+    }
   }, [previewEl]);
   return (
     <Stack direction="row">
@@ -73,7 +75,7 @@ export const EditorModule: FC = () => {
         </AppBar>
         <Box sx={{ position: 'relative', height: '100%' }}>
           <iframe
-            src="https://cardamonchai.com"
+            src="http://localhost:8000"
             ref={previewEl}
             onClick={console.log}
             style={{
