@@ -1,10 +1,17 @@
 import * as React from 'react';
 import { Helmet } from 'react-helmet';
+import PiwikPro from '@piwikpro/react-piwik-pro';
 
 type Global = { dataLayer?: any[]; gtag?: (...props: any) => void };
 
 const g = globalThis as unknown as Global;
 const GTAG_ID = 'GTM-TXBL5X4';
+
+// new tracking via PiwikPro
+PiwikPro.initialize(
+  '35ba0cff-b9a8-4ed9-9109-8ddaa93aec60',
+  'https://rocknrollvegan.containers.piwik.pro'
+);
 
 export const pageView = (title: string, url: string) => {
   gtag('page_view', {

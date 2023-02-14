@@ -3711,6 +3711,11 @@
   dependencies:
     "@octokit/openapi-types" "^7.2.0"
 
+"@piwikpro/react-piwik-pro@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@piwikpro/react-piwik-pro/-/react-piwik-pro-1.1.1.tgz#2869e77876c95cc7c850e69fa8367a3b5ae7f744"
+  integrity sha512-Zl6+3FMUOqENOflmVkP8YP8WMV0D+H9BND8QUCp1gCqGUSSMlsSxco9hJFZGG0m0wiDAIqkF6p0ocNSVcUeR4g==
+
 "@pmmmwh/react-refresh-webpack-plugin@^0.4.3":
   version "0.4.3"
   resolved "https://registry.yarnpkg.com/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.4.3.tgz#1eec460596d200c0236bf195b078a5d1df89b766"
