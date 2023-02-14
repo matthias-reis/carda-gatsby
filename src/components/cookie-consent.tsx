@@ -5,6 +5,8 @@ import { Link } from './link';
 
 import { color, space, width, font, fontSize } from '../style';
 
+// cookie consent is replaced by piwik pros consent solution
+// currently not needed - probably as a fallback but most likely no need to port to nextjs
 export const CookieConsent: React.FC = () => {
   const [isVisible, setIsVisible] = React.useState(false);
 
