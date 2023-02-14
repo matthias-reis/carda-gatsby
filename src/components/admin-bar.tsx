@@ -63,6 +63,7 @@ export const AdminBar: React.FC<{
   isInFuture?: boolean;
   isOldArticle?: boolean;
 }> = ({ link, isInFuture, isOldArticle }) => {
+  const [visible, setVisible] = React.useState(false);
   const data = useStaticQuery(graphql`
     query HeaderQuery {
       site {
@@ -74,15 +75,14 @@ export const AdminBar: React.FC<{
     }
   `);
 
-  const handleDeploymentClick = () => {
-    const webhookUrl =
-      'https://api.netlify.com/build_hooks/60a93ed507b42b7a919dbc80';
-
-    globalThis.fetch(webhookUrl, { method: 'POST', mode: 'no-cors' });
-  };
+  React.useEffect(() => {
+    if (window.location.host !== 'cardamonchai.com') {
+      setVisible(true);
+    }
+  });
 
   return (
-    isPreview && (
+    visible && (
       <Container>
         <Item
           href={`${data.site.siteMetadata.siteUrl}/admin/#/collections/article/new`}
@@ -101,8 +101,7 @@ export const AdminBar: React.FC<{
             Bearbeiten ({isOldArticle ? 'wordpress' : 'gatsby'})
           </Item>
         )}
-        <Item onClick={handleDeploymentClick}>☠️ Deployment</Item>
-        <Info href="https://www.gatsbyjs.com/dashboard/19505d43-7169-4abd-b5f2-068de380c0df/sites/6c68703c-0aec-403b-acf5-e2b810e68344/deploys">
+        <Info href="https://vercel.com/matthias-reis/soundsvegan">
           Version von {moment(data.site.buildTime).fromNow()}
         </Info>
       </Container>
