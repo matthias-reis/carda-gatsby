@@ -456,7 +456,7 @@ Diese EP habe ich mit in meine Liste aufgenommen, weil sie die musikalische Vita
 
 ## Unsere Playlists
 
-<Playlists
+<Playlist
   spotify="0gOIpcmsHBDTXppsDqTrH9"
   itunes="1994/pl.u-W4ZYIEkXBXN?app=music"
 />

@@ -5,16 +5,10 @@ typeName: Produkttest
 title: Nachhaltige Bandshirts
 subTitle: Impericon Band Merch
 seoTitle: Nachhaltige Bandshirts von Impericon
-description: Ihr seid auf der Suche nach nachhaltigem und veganem Band Merch?
-  Ich zeige Euch, wo Ihr es bekommt!
-excerpt: "Als Musikfan habe ich meinen Kleiderschrank zur Hälfte mit Band Merch
-  gefüllt. Als Nachhaltigkeits-Bloggerin betrachte ich meinen Konsum natürlich
-  kritisch und überlege hin und her: Für die meisten Bands zählt jeder Cent und
-  ich unterstütze sie natürlich gerne, indem ich ein T-Shirt kaufe. Vor allem
-  sind das natürlich auch erstklassige Andenken. Doch nicht immer steckt ein
-  nachhaltiges Label hinter den Klamotten am Merch-Stand."
+description: Ihr seid auf der Suche nach nachhaltigem und veganem Band Merch? Ich zeige Euch, wo Ihr es bekommt!
+excerpt: 'Als Musikfan habe ich meinen Kleiderschrank zur Hälfte mit Band Merch gefüllt. Als Nachhaltigkeits-Bloggerin betrachte ich meinen Konsum natürlich kritisch und überlege hin und her: Für die meisten Bands zählt jeder Cent und ich unterstütze sie natürlich gerne, indem ich ein T-Shirt kaufe. Vor allem sind das natürlich auch erstklassige Andenken. Doch nicht immer steckt ein nachhaltiges Label hinter den Klamotten am Merch-Stand.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-29/nachhaltige-bandshirts-jpg-imagine-181818_755750_1024_768/640.webp
-copyrigt: ""
+copyrigt: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-29/nachhaltige-bandshirts-og-jpg-imagine-181818_74564f_1200_628/640.webp
 labels:
   - Impericon
@@ -34,6 +28,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
+
 **Als Musikfan habe ich meinen Kleiderschrank zur Hälfte mit Band Merch gefüllt. Als Nachhaltigkeits-Bloggerin betrachte ich meinen Konsum natürlich kritisch und überlege hin und her: Für die meisten Bands zählt jeder Cent und ich unterstütze sie natürlich gerne, indem ich ein T-Shirt kaufe. Vor allem sind das natürlich auch erstklassige Andenken. Doch nicht immer steckt ein nachhaltiges Label hinter den Klamotten am Merch-Stand – obwohl sich in letzter Zeit auch immer mehr Künstler⋆innen Gedanken um dieses Thema machen.**
 
 Wer das auch tut, sind die Menschen von Impericon. Den großen Metal-Merch-Versand kennt Ihr sicher alle. Seit einiger Zeit setzen sich die Bandshirt-Profis immer mehr ein in Sachen Nachhaltigkeit – Ressourcenschonung und umweltfreundliche Herstellung rücken dort immer mehr in den Vordergrund.
@@ -50,7 +45,7 @@ Bei Impericon ist man besonders stolz darauf, dass das Sortiment an nachhaltigen
 
 Einige Bands, mit denen der Metal Store zusammenarbeitet, finden diese Entwicklung großartig und sind ganz vorne mit dabei. Die Shirts von Architects, Parkway Drive, Thy Art Is Murder und Beartooth beispielsweise lässt Impericon zu 100 Prozent aus Bio-Baumwolle fertigen.
 
-*﻿*Hinweis:** Unter den Bildern geht es weiter!
+**Hinweis:** Unter den Bildern geht es weiter!
 
 <Gallery name="nachhaltige-bandshirts-1-2" />
 

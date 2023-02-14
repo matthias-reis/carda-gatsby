@@ -9,9 +9,6 @@ import { SearchProvider } from './search-provider';
 import { space, font, line, color, fontSize } from '../style';
 import { Helmet } from 'react-helmet';
 
-const FONT_IMPORT =
-  'https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Source+Sans+Pro:ital,wght@0,300;0,700;1,300;1,700&display=swap';
-
 export const Frame: React.FC = ({ children }) => {
   return (
     <SearchProvider>

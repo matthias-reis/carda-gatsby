@@ -19,25 +19,23 @@ export const CookieConsent: React.FC = () => {
       'consent=yes;path=/;expires=Wed, 21 Jul 2100 07:00:00 GMT';
     setIsVisible(false);
   };
-  return (
-    isVisible && (
-      <Wrapper onClick={disableCookie}>
-        <Text>
-          Um meine Webseite für Dich optimal zu gestalten, sie fortlaufend
-          verbessern zu können, sowie ihre Reichweite nachzuverfolgen, verwende
-          ich <strong>Cookies</strong>. Durch die weitere Nutzung der Webseite
-          stimmst Du der Verwendung von Cookies zu.
-        </Text>
-        <Text>
-          Weitere Infos zu Cookies erhältst Du in meiner{' '}
-          <Link href="/datenschutz">Datenschutzerklärung</Link>.
-        </Text>
-        <div>
-          <CTA>Zustimmen und Ausblenden</CTA>
-        </div>
-      </Wrapper>
-    )
-  );
+  return isVisible ? (
+    <Wrapper onClick={disableCookie}>
+      <Text>
+        Um meine Webseite für Dich optimal zu gestalten, sie fortlaufend
+        verbessern zu können, sowie ihre Reichweite nachzuverfolgen, verwende
+        ich <strong>Cookies</strong>. Durch die weitere Nutzung der Webseite
+        stimmst Du der Verwendung von Cookies zu.
+      </Text>
+      <Text>
+        Weitere Infos zu Cookies erhältst Du in meiner{' '}
+        <Link href="/datenschutz">Datenschutzerklärung</Link>.
+      </Text>
+      <div>
+        <CTA>Zustimmen und Ausblenden</CTA>
+      </div>
+    </Wrapper>
+  ) : null;
 };
 
 const Wrapper = styled.header`

@@ -5,17 +5,11 @@ typeName: Produkttest
 title: Demarés – Vegane Unisex-Pflege für die Haut
 subTitle: Die mediterranen Beauty-Produkte aus Hamburg im Test
 seoTitle: Demarés – Vegane Unisex-Pflege für die Haut
-description: Helen, Inhaberin von Demarés in zweiter Generation, setzt auf
-  vegane Pflege. Lernt jetzt Ihre Produkte und die Philosophie der Hamburger
-  Brand kennen!
-excerpt: "Über das Internet lernt man ja immer die liebsten Menschen kennen.
-  Einer davon ist Helen, Inhaberin von Demarés in zweiter Generation. Erst vor
-  Kurzem schrieb sie mich an und wir entschieden: Ich muss unbedingt mal ihre
-  veganen Beauty-Produkte testen. Gesagt, getan. Das Ergebnis ist: Begeisterung!
-  Selbstverständlich habe ich aber noch ein paar weitere Details für Euch."
-image: https://storage.googleapis.com/cardamonchai-media/2023-02-20/demares-og-jpg-imagine-b8b8b8_ada0a0_1200_628/640.webp
-copyrigt: ""
-ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-20/2023-02-17-demares-008-jpg-imagine-c8c8c8_ada8aa_2048_1536/640.webp
+description: Helen, Inhaberin von Demarés in zweiter Generation, setzt auf vegane Pflege. Lernt jetzt Ihre Produkte und die Philosophie der Hamburger Brand kennen!
+excerpt: 'Über das Internet lernt man ja immer die liebsten Menschen kennen. Einer davon ist Helen, Inhaberin von Demarés in zweiter Generation. Erst vor Kurzem schrieb sie mich an und wir entschieden: Ich muss unbedingt mal ihre veganen Beauty-Produkte testen. Gesagt, getan. Das Ergebnis ist: Begeisterung! Selbstverständlich habe ich aber noch ein paar weitere Details für Euch.'
+image: https://storage.googleapis.com/cardamonchai-media/2023-02-20/2023-02-17-demares-008-jpg-imagine-c8c8c8_ada8aa_2048_1536/640.webp
+copyrigt: ''
+ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-20/demares-og-jpg-imagine-b8b8b8_ada0a0_1200_628/640.webp
 labels:
   - Demarés
   - vegan Beauty
@@ -27,13 +21,14 @@ advertisement: true
 affiliate: false
 language: de
 ---
+
 **Über das Internet lernt man ja immer die liebsten Menschen kennen. Einer davon ist Helen, Inhaberin von Demarés in zweiter Generation. Erst vor Kurzem schrieb sie mich an und wir entschieden: Ich muss unbedingt mal ihre veganen Beauty-Produkte testen. Gesagt, getan. Das Ergebnis ist: Begeisterung! Selbstverständlich habe ich aber noch ein paar weitere Details für Euch.**
 
 Mediterrane Hautpflege aus Hamburg? Das klingt schon mal spannend, oder?  Weil die Demarés Produkte obendrein auch noch vegan sind, war meine Neugierde von Anfang an geweckt. Über die mediterrane Komponente verrate ich Euch später noch mehr – versprochen!
 
 Nach einem super netten Austausch sendete mir Helen ihre beiden Lieblingsprodukte zu: das Demarés Tonic und ihr persönliches Highlight: die Serum-Maske. Dazu lagen nach ein paar Proben der Tagespflege mit bei. Alle drei Produkte ergeben eine vegane Beauty-Routine, mit denen Ihr Eure Gesichtshaut pflegen und nähren könnt. Besonders gefreut habe ich mich übrigens über Helens vegane Grüße! Die gehen an dieser Stelle noch mal ganz herzlich zurück!
 
-*﻿*Hinweis:** Unter den Bildern geht es weiter!
+**Hinweis:** Unter den Bildern geht es weiter!
 
 <Gallery name="demares-2" />
 
@@ -47,7 +42,7 @@ Für Helen ist das Serum der Grundbaustein für all ihre Demarés Produkte. Es s
 
 ## Demarés Serum-Maske
 
-Die Serum-Maske ist, wie der Name schon sagt, ein Multitalent. Die Tiefenpflege kommt in einem praktischen Pumpspender, damit Ihr sie gut dosieren könnt. Ich sage mal so viel: weniger ist mehr!  Schon ein paar Tropfen davon reichen für das komplette Gesicht. Und funktioniert sie: 
+Die Serum-Maske ist, wie der Name schon sagt, ein Multitalent. Die Tiefenpflege kommt in einem praktischen Pumpspender, damit Ihr sie gut dosieren könnt. Ich sage mal so viel: weniger ist mehr!  Schon ein paar Tropfen davon reichen für das komplette Gesicht. Und funktioniert sie:
 
 Reinigt das Gesicht und tragt die Serum-Maske auf. Lasst sie für zehn bis zwanzig Minuten einwirken und nutzt anschließend das Tonic und die Tagespflege bzw., wie erwähnt, Eure Nachtcreme. Ihr könnt sie täglich, morgens und abends verwenden.
 
@@ -67,13 +62,13 @@ Falls Ihr gerade auf der Suche nach veganer Pflege auf diesen Artikel gestoßen 
 
 Nach 40 Jahren in der Kosmetikbranche gründete Helens Mutter Uschi Unsinn 2013 die Marke Demarés. Ingesamt hatte sie beim Launch drei Jahre in die Entwicklung ihrer Produktlinie gesteckt – ihr war es wichtig, ausschließlich die hochwertigsten Inhaltsstoffe zu verwenden – so ist bis heute alles frei von Konservierungsstoffen, auf Tierversuche wird aus Prinzip verzichtet. Dermatologisch sind die Demarés Produkte mit "exzellent" ausgezeichnet.
 
-Der Hauptbestandteil aller Produkte ist Mastix – dabei handelt es sich um das Harz des Pistazienbaums (Mediterrane Komponente 1 😊). Hinzu kommen die hier bereits erwähnten natürlichen Inhaltsstoffe, wie Aloe vera und Edelweiß sowie Sheabutter, Algen und andere natürliche Ingredienzien. 
+Der Hauptbestandteil aller Produkte ist Mastix – dabei handelt es sich um das Harz des Pistazienbaums (Mediterrane Komponente 1 😊). Hinzu kommen die hier bereits erwähnten natürlichen Inhaltsstoffe, wie Aloe vera und Edelweiß sowie Sheabutter, Algen und andere natürliche Ingredienzien.
 
 ## Aus Prinzip Unisex
 
-Die Demarés Reihe besteht aus zehn Unisex-Produkten. Binäre Klischees könnt Ihr also lange suchen. Die Demarés Produkte sind für alle – jeder kann sie verwenden. Egal, ob gereizte, unruhige, trockene oder pflegeleichte Haut. 
+Die Demarés Reihe besteht aus zehn Unisex-Produkten. Binäre Klischees könnt Ihr also lange suchen. Die Demarés Produkte sind für alle – jeder kann sie verwenden. Egal, ob gereizte, unruhige, trockene oder pflegeleichte Haut.
 
-Helen hat das Geschäft gerade frisch von ihrer Mutter übernommen. Mit dem Wechsel kam auch der Umzug von Mallorca nach Hamburg (Mediterrane Komponente 2😊). Helens Ziel hier: Ihre Produkte auch in Deutschland bekannter zu machen.
+Helen hat das Geschäft gerade frisch von ihrer Mutter übernommen. Mit dem Wechsel kam auch der Umzug von Mallorca nach Hamburg (Mediterrane Komponente 2 😊). Helens Ziel hier: Ihre Produkte auch in Deutschland bekannter zu machen.
 
 ## "Pflege muss Spaß machen"
 
@@ -81,12 +76,12 @@ Als Mutter von drei Kindern ist Helen unkomplizierte und effektive Pflege besond
 
 > "Pflege muss Spaß machen, den gewünschten Effekt bringen und sie darf vor allen Dingen zu keinem Zeitpunkt belasten – weder die Haut noch den Alltag durch eine zu komplizierte Pflegeroutine."
 
-Falls Ihr das Gefühl habt, Helens Namen schon mal gehört zu haben: Bekannt wurde sie unter anderem als Gesellschafterin von Veganz, Betriebsleiterin des Seven Swans, als Beraterin für Marken wie The Family Circle, Kita Emily und Benvenuto Espresso. Letztes Jahr gründete Sie zudem Ihr Schmucklabel Lenika. 
+Falls Ihr das Gefühl habt, Helens Namen schon mal gehört zu haben: Bekannt wurde sie unter anderem als Gesellschafterin von Veganz, Betriebsleiterin des Seven Swans, als Beraterin für Marken wie The Family Circle, Kita Emily und Benvenuto Espresso. Letztes Jahr gründete Sie zudem Ihr Schmucklabel Lenika.
 
 Neben Helen ist Andrea-Victoria Noelle Teil der Beauty Labs GmbH (Dachmarke von Demarés). Die Gesellschafterin blickt auf 15 Jahre Erfahrung im Kosmetik- und Gesundheitsbiz mit.
 
 **Übrigens:** Auf meinen Bildern hat sich schon ein kleiner Teaser zu Lenika versteckt – auch diese Marke hat Helen ins Leben gerufen. Ich werde Euch bestimmt schon bald mehr darüber erzählen.
 
-A﻿lle Produkte findet Ihr auf [demares.de](https://www.demares.de/de).
+Alle Produkte findet Ihr auf [demares.de](https://www.demares.de/de).
 
 <Gallery name="demares-1" />

@@ -5,17 +5,10 @@ typeName: Produkttest
 title: Von Pre-Workout bis Post-Workout
 subTitle: Die verschiedenen Trainingsphasen
 seoTitle: Muskelaufbau mit veganem Protein Pre- und Post-Workout
-description: Wenn Ihr auf der Suche nach den passenden veganen Produkten für den
-  Muskelaufbau seid und die Unterschiede von Pre- und Post-Workout kennenlernen
-  wollt, solltet ihr das lesen.
-excerpt: "Workout und Muskelaufbau mit veganem Protein – zu diesem Thema habe
-  ich vor Kurzem einen Artikel gepostet und damit regen Anklang gefunden und
-  auch ein paar Nachrichten mit Fragen zum Thema. Eine davon hat mich selbst
-  besonders beschäftigt und darum bin ich ihr einfach mal nachgegangen. Sie
-  lautet: Was muss ich vor, nach und während meinem Training beachten, wenn ich
-  gesund und dauerhaft Muskeln aufbauen möchte?"
+description: Wenn Ihr auf der Suche nach den passenden veganen Produkten für den Muskelaufbau seid und die Unterschiede von Pre- und Post-Workout kennenlernen wollt, solltet ihr das lesen.
+excerpt: 'Workout und Muskelaufbau mit veganem Protein – zu diesem Thema habe ich vor Kurzem einen Artikel gepostet und damit regen Anklang gefunden und auch ein paar Nachrichten mit Fragen zum Thema. Eine davon hat mich selbst besonders beschäftigt und darum bin ich ihr einfach mal nachgegangen. Sie lautet: Was muss ich vor, nach und während meinem Training beachten, wenn ich gesund und dauerhaft Muskeln aufbauen möchte?'
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-24/2023-01-22-nutri-plus-032-jpg-imagine-180808_53343f_2048_1536/640.webp
-copyrigt: ""
+copyrigt: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-24/pre-workout-post-workout-og-jpg-imagine-280808_61414e_1200_628/640.webp
 labels:
   - Post-Workout
@@ -32,6 +25,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
+
 **Workout und Muskelaufbau mit veganem Protein – zu diesem Thema habe ich vor Kurzem einen Artikel gepostet und damit regen Anklang gefunden und auch ein paar Nachrichten mit Fragen zum Thema. Eine davon hat mich selbst besonders beschäftigt und darum bin ich ihr einfach mal nachgegangen. Sie lautet: Was muss ich vor, nach und während meinem Training beachten, wenn ich gesund und dauerhaft Muskeln aufbauen möchte?**
 
 Vorneweg ein paar Punkte zu meinen Trainingsgewohnheiten. Ich muss aus gesundheitlichen Gründen Muskeln aufbauen und für Stabilität sorgen. Für mich hat sich hierfür Yoga (Ashtanga und Power Yoga), Krafttraining und EMS bewährt. Im Moment versuche ich täglich eine Stunde Yoga oder z. B. Sculpt als Krafttraining zu machen und einmal pro Woche zum EMS (Kraft) zu gehen. Das funktioniert für mich sehr gut, individuell müsst Ihr natürlich schauen, was am besten zu Euch passt.
@@ -44,7 +38,7 @@ Weil ich selbst hin und wieder vergesse, genügend Flüssigkeit zu mir zu nehmen
 
 Das Granulat könnt Ihr ganz einfach mit Wasser in Euren Shaker geben und gleich trinken. Der Booster erhält Koffein, achtet also an Tagen an, denen ihr ihn zu Euch nehmt, darauf, dafür möglicherweise eine Tasse Kaffee wegzulassen, falls Ihr Kaffeetrinker⋆innen seid.
 
-Die Kombination der Inhaltsstoffe soll die Ausdauer im Training und damit die Wirkung verbessern. Wichtige Arminosäuren wie L-Arginin und Beta Alanin unterstützten Euren Muskelaufbau. 
+Die Kombination der Inhaltsstoffe soll die Ausdauer im Training und damit die Wirkung verbessern. Wichtige Arminosäuren wie L-Arginin und Beta Alanin unterstützten Euren Muskelaufbau.
 
 L-Arginin (als NO-Vorstufe) sowie L-Citrullin und L-Ornithin können die Blutgefäße erweitern und damit zur Leistungssteigerung beitragen. Die antioxidative Wirkung von Taurin schützt vor Schäden durch freie Radikale, während Koffein die Vigilanz steigert. Vitamin B1, B2 und B6 sorgen für einen guten Energiestoffwechsel und schützen den Körper vor Ermüdung.
 
@@ -56,7 +50,7 @@ Je nachdem, welcher Sportart Ihr nachgeht, solltet Ihr zwischendurch genügend F
 
 **Vorsicht:** Wer zu viel Wasser trinkt, schwemmt möglicherweise wichtige Spurenelemente aus dem Körper. Im schlimmsten Fall kann das zu einem Kollaps führen. Wenn Ihr also einen Marathon oder eine über mehrere Stunden andauernde Trainingsstrecke geplant habt, solltet Ihr zusätzlich zu elektrolythaltigen Getränken greifen. Im normalen Trainingsmodus ist jedoch Wasser vollkommen ausreichend.
 
-*﻿*Hinweis:** Unter den Bildern geht es weiter!
+**Hinweis:** Unter den Bildern geht es weiter!
 
 <Gallery name="post-workout-pre-workout-1" />
 
@@ -78,7 +72,7 @@ Falls ich beim Training mal wieder an meine Grenzen gegangen bin, hilft mir nebe
 
 Eine weitere Frage zum Thema, die bei mir eingegangen ist, ist die nach den verschiedenen veganen Protein-Produkten. Speziell zu denen aus dem Hause Nutri Plus, [da ich das letzte Mal einige davon vorgestellt hatte](/2022/11/veganes-protein/).
 
-Von Nutri Plus gibt es 3-K- und 6-K-Proteinpulver. Der Unterschied liegt hier in den Proteinquellen, die sie enthalten – 6K - sechs vegane Proteinquellen – 3 K  – drei vegane Proteinquellen. Das K steht für Komponenten.
+Von Nutri Plus gibt es 3-K- und 6-K-Proteinpulver. Der Unterschied liegt hier in den Proteinquellen, die sie enthalten – 6K - sechs vegane Proteinquellen – 3 K – drei vegane Proteinquellen. Das K steht für Komponenten.
 
 Das [3K-Proteinpulver](https://tidd.ly/3Db2fKc), das ihr hier in den Bildern sehen könnt, besteht aus Soja-, Weizen- und Erbsenprotein. Das [6K-Proteinpulver](https://tidd.ly/3Df3vMr) aus [meinem letzen Artikel](/2022/11/veganes-protein/) aus Sojaproteinisolat, Weizenprotein, Reisprotein, Erbsenproteinisolat, Sonnenblumenprotein und Mandelprotein.
 
