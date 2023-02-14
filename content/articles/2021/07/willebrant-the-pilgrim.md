@@ -1,19 +1,20 @@
 ---
-date: 2021-07-16T10:59:06.207Z
-slug: willebrant-the-pilgrim-en
+date: 2021-07-16T11:50:03.772Z
+slug: willebrant-the-pilgrim
 typeName: Review
-title: Willebrant – "The Pilgrim"
-subTitle: Diving Into An Ocean Of Sound
-seoTitle: Willebrant – "The Pilgrim" – Diving Into An Ocean Of Sound
-description: Willebrant has a new EP out! "The Pilgrim" is about the journey of
-  someone setting out on an adventure. The five songs which are inspired by the
-  Camino de Santiago already made it to my list of the favourite ambient records
-  of the year. A deep sound bath full of surprises awaits you.
+title: '"Willebrant – The Pilgrim"'
+subTitle: Eine musikalisches Tauch-Abenteuer
+seoTitle: '"Willebrant – The Pilgrim" – Eine musikalisches Tauch-Abenteuer'
+description: Die neue Willebrant EP "The Pilgrim" handelt vom Weg eines
+  Menschen, der zu einem Abenteuer aufbricht – Die fünf vom El Camino de
+  Santiago inspirierten Songs haben es bei mir jetzt schon auf die Liste der
+  schönsten Ambient-Platten des Jahres geschafft. Ein Klangbad mit Tiefgang
+  erwartet Euch.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/willebrant-the-pilgrim-2-jpg-imagine-e8e8e8_b4b4b4_1024_768/640.webp
 copyrigt: Willebrant
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/willebrant-the-pilgrim-fb-jpg-imagine-181818_696969_1200_628/640.webp
 labels:
-  - Soundbath
+  - Klangbad
   - Ambient
   - Post-Music
   - Review
@@ -21,51 +22,49 @@ labels:
   - Willebrant
   - Drone
   - Minimal Drone
+  - Soundbath
   - Meditation
-  - Australian Post-Rock
-  - Experimental
-  - Cinematic
 focusKeyword: Willebrant
 advertisement: false
 affiliate: false
-language: en
-languageLink: /2021/07/willebrant-the-pilgrim/
+language: de
+languageLink: /2021/07/willebrant-the-pilgrim-en/
 ---
 
-**Willebrant has a new EP out! "The Pilgrim" is about the journey of someone setting out on an adventure. The record is inspired by the Camino de Santiago. A deep sound bath full of surprises awaits you.**
+**Es gibt eine neue EP von Willebrant! "The Pilgrim" handelt vom Weg eines Menschen, der zu einem Abenteuer aufbricht. Die fünf Songs sind vom Camino de Santiago inspiriert. Ein Klangbad mit Tiefgang erwartet Euch.**
 
-The Australian sound artist himself describes his new record like this:
+Der australische Sound-Künstler beschreibt seine neue Platte selbst so:
 
-> "A sound tunnel to the soul of pilgrimage. They say that el Camino calls you; perhaps this is the beginning of the trail."
+> "Ein Sound-Tunnel zur Seele der Pilgerei. Man sagt, dass der El Camino Dich ruft. Vielleicht ist das der Beginn Deines Weges."
 
-To me, this sounds not only mystical but also pretty exciting. After a year or so without the open, clear view of the horizon, I would love a proper journey.
+Für mich klingt das nicht nur mystisch, sondern mehr als spannend. Nach einem Jahr ohne den offenen, unverbauten Blick auf den Horizont kann ich eine Reise gut gebrauchen.
 
-## Willebrant's trail is harmonious
+## Der Tauchgang mit Willebrand beginnt
 
-I put on my headphones and start my adventure with a dive. I let myself slide down into the cool water and, at the same time, tune into the sound of the deep, which gradually reveals its face before my inner eye.
+Ich setze meine Kopfhörer auf und es geht los – mit einem Tauchgang. Ich lasse mich in das kühle Nass hinab gleiten und gleichzeitig auf den Sound der Tiefe ein, die ihr Gesicht nach und nach vor meinem inneren Auge enthüllt.
 
-![Willebrant – "The Pilgrim"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/willebrant-the-pilgrim-jpg-imagine-d8d8d8_b8b8b8_700_700/640.webp "Willebrant – \\"The Pilgrim\\"")
+![Willebrant – "The Pilgrim"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/willebrant-the-pilgrim-jpg-imagine-d8d8d8_b8b8b8_700_700/640.webp "Willebrant – \"The Pilgrim\"")
 
-The sounds, which pass unnoticed into the second track, "Trail", are harmonious, ethereal and fragile. I keep on sinking into the ocean. The world that surrounds me becomes a little stonier and steeper now. A bell accompanies me and guides me through the unknown terrain.
+Harmonisch, ätherisch und fragil sind diese Klänge, die unbemerkt in das zweite Stück "Trail" übergehen. Ich sinke weiter. Die Umgebung wird etwas steiniger und steiler. Eine Glocke begleitet mich und führt mich durch das unbekannte Terrain.
 
-It feels meditative – relaxed, and powerful at the same time. Then, finally, the bell wakes me, and I start swimming back up – very slowly, without any hurry. "Ascending" accompanies me on my way up, and I realise how deep I have dived into this reef of diverse sounds.
+Meditativ fühlt sich das an – entspannt und zugleich kraftvoll. Die Glocke weckt mich und ich steige wieder auf. Ganz langsam, ohne Eile. "Ascending" begleitet mich den ganzen Weg hinauf und ich merke, wie tief ich abgetaucht bin in dieses Riff aus vielfältigen Klängen.
 
-## Minimalist and peaceful
+## Minimalistisch und friedlich
 
-I swim past corals and see colourful fish scurrying away from me. The light above my head gets brighter and brighter – until I finally brake the surface with my head. A flock of birds awaits me.
+Ich schwimme an Korallen vorbei und sehe bunte Fische vor mir davonhuschen. Das Licht über meinem Kopf wird immer heller – bis ich schließlich durch die Wasseroberfläche stoße. Ein Schwarm Vögel begrüßt mich.
 
-The third song flows smoothly into the fourth one ("The Pilgrim"). I put down my diving equipment and stride through the long grass towards the forest. The air is warm and full of scents. I choose a path that winds its way up a hill.
+Der dritte Song geht fließend in den vierten ("The Pilgrim") über. Ich streife meine Tauch-Ausrüstung ab und gehe durch das lange Gras in Richtung Wald. Die Luft ist warm und voller Düfte. Der Weg schlängelt sich einen Hang hinauf.
 
-The music surrounds me – minimalist, subtle and peaceful. The finale is called "Plateau (Into The Valley)". I sit on a stone that is warmed by the sun and let my gaze wander. From here, I can see the whole valley and the bay where I have been diving; the birds who are still circling above the beach, the lush green of the untouched forest, and even some of the fish in the ocean that looks quite turquoise from up here. 
+Die Musik umspielt mich – minimalistisch, fein und friedlich. Das Finale heißt "Plateau (Into The Valley)". Ich sitze auf einem von der Sonne aufgewärmten Stein und lasse meinen Blick schweifen. Von hier aus kann ich das ganze Tal und die Bucht, in der ich getaucht habe, sehen. Die Vögel, die über dem Strand kreisen, das satte Grün des unberührten Waldes und sogar einige der Fische im Wasser, das von hier oben ganz türkisfarben wirkt.
 
-## Beautiful ambient sound
+## Wunderschöner Ambient-Sound
 
-I set off again to continue walking across a meadow into a light-flooded grove. I can sense some white noise now. It must be the leaves that are fluttering in the wind.
+Ich breche wieder auf, um weiterzugehen. Über eine Wiese und hinein in einen lichtdurchfluteten Hain. Die Blätter wehen im Wind...
 
-Willebrant's new EP already made it to my list of "most beautiful ambient records of the year". So if you also would love to go on a sound journey, I can highly recommend it to you.
+Willebrants neue EP hat es bei mir ohne Umwege in die Kategorie "schönste Ambient-Platten des Jahres" geschafft. Wenn Ihr wie ich gerne mal wieder auf eine Sound-Reise gehen wollt, kann ich sie Euch sehr empfehlen.
 
-[Please enjoy my review on Willebrant's EP "Coastal___"](/2021/02/willebrant-coastal-en).
+[Meine Review zu "Coastal___" von Willebrant findet Ihr hier](/2021/02/willebrant-coastal-en).
 
-## Willebrant - "The Pilgrim"
+## Willebrant – "The Pilgrim"
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2921636955/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://willebrant.bandcamp.com/album/the-pilgrim">The Pilgrim by Willebrant</a></iframe>

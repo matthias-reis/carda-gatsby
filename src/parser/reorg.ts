@@ -1,5 +1,6 @@
-import { join } from 'node:path';
+import { dirname, join } from 'node:path';
 import fm from 'front-matter';
+import { sync as mkdirp } from 'mkdirp';
 import { sync as glob } from 'glob';
 import { readFile, rename } from 'node:fs/promises';
 import dayjs from 'dayjs';
@@ -26,9 +27,11 @@ async function run() {
     const d = dayjs(date);
     const month = `00${d.month() + 1}`.slice(-2);
     const year = d.year();
-    const url = `https://cardamonchai.com/${year}/${month}/${slug}`;
+    // const url = `https://cardamonchai.com/${year}/${month}/${slug}`;
 
-    const newPath = join(DEST_FOLDER, `/${year}/${month}/${slug}`);
+    const newPath = join(DEST_FOLDER, `/${year}/${month}/${slug}.md`);
+    mkdirp(dirname(newPath));
+
     await rename(file, newPath);
   }
 }
