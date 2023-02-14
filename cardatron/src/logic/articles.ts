@@ -29,19 +29,14 @@ export async function writeArticle(
     const oldPath = pathFromSlug(getSlug(initialArticle));
 
     if (oldPath !== newPath) {
-      console.log('article', 'paths difffer', oldPath, initialArticle.slug);
-      console.log('article', 'newDir', dirname(newPath));
       //move
       mkdirp(dirname(newPath));
       await rename(oldPath, newPath);
     }
   }
-  console.log('article', 'back outside');
 
   const content = createFileContent(article);
-  console.log('article', content);
   await writeFile(newPath, content, 'utf-8');
-  console.log('article', 'file written');
 
   return newSlug;
 }
@@ -77,6 +72,7 @@ ${body}
   return format(content, {
     parser: 'mdx',
     printWidth: 60,
+    proseWrap: 'always',
     plugins: [parserMd],
   });
 };

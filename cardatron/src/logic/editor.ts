@@ -73,11 +73,6 @@ export const useCurrentArticle = () => {
 
   const saveCurrentArticle = async () => {
     // save the article
-    console.log(
-      'editor',
-      (currentArticle as Article).slug,
-      (loadedArticle as Article).slug
-    );
     const newSlug = await writeArticle(currentArticle, loadedArticle);
     // clean the loaded files
     delete modifiedArticles[slug];

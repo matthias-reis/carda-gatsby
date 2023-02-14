@@ -8,7 +8,7 @@ export const EditorSyntax = () => {
           font-family: 'Fira Code', 'Menlo', monospace;
           font-size: 1rem;
           color: #bbb;
-          max-width: 600px;
+          max-width: 660px;
         }
 
         .hljs textarea {

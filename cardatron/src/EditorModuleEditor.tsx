@@ -41,7 +41,7 @@ export const EditorModuleEditor: FC = () => {
           flex: '0 0 auto',
           borderRight: '1px solid grey',
           height: '100vh',
-          width: '640px',
+          width: '700px',
         }}
       >
         <AppBar position="sticky" sx={{ flex: '0 0 auto' }}>
@@ -170,7 +170,14 @@ export const EditorModuleEditor: FC = () => {
                 })
               }
             />
-            <Box sx={{ py: 4 }}>
+            <Box
+              sx={{
+                my: 4,
+                py: 2,
+                borderTop: '10px dashed #5c9b72',
+                borderBottom: '10px dashed #5c9b72',
+              }}
+            >
               <Editor
                 value={currentArticle.body}
                 onValueChange={(code) => {
@@ -219,14 +226,34 @@ export const EditorModuleEditor: FC = () => {
                 })
               }
             />
-            <Stack direction="row" gap={2}>
+            <Typography variant="h5">Tags</Typography>
+            <Stack direction="row" flexWrap="wrap" gap={2}>
               {currentArticle.labels.map((label) => (
                 <Chip label={label} />
               ))}
             </Stack>
-            <ToggleButtonGroup>
+            <Typography variant="h5">Werbung</Typography>
+            <ToggleButtonGroup
+              value={[
+                currentArticle.advertisement ? 'advertisement' : null,
+                currentArticle.affiliate ? 'affiliate' : null,
+                currentArticle.productsProvided ? 'productsProvided' : null,
+              ].filter(Boolean)}
+              onChange={(_, value: string[]) => {
+                changeCurrentArticle((article) => {
+                  article.advertisement = value.includes('advertisement');
+                  article.affiliate = value.includes('affiliate');
+                  article.productsProvided = value.includes('productsProvided');
+
+                  return article;
+                });
+              }}
+            >
               <ToggleButton value="advertisement">Werbung</ToggleButton>
               <ToggleButton value="affiliate">Affiliate</ToggleButton>
+              <ToggleButton value="productsProvided">
+                Produktplatzierung
+              </ToggleButton>
             </ToggleButtonGroup>
           </Stack>
         )}
