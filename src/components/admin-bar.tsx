@@ -81,30 +81,28 @@ export const AdminBar: React.FC<{
     }
   });
 
-  return (
-    visible && (
-      <Container>
+  return visible ? (
+    <Container>
+      <Item
+        href={`${data.site.siteMetadata.siteUrl}/admin/#/collections/article/new`}
+        target="_blank"
+      >
+        <IconNew /> Neuer Beitrag
+      </Item>
+      {link && (
         <Item
-          href={`${data.site.siteMetadata.siteUrl}/admin/#/collections/article/new`}
+          href={`${data.site.siteMetadata.siteUrl}/admin/#/collections/${
+            isOldArticle ? 'oldArticle' : 'article'
+          }/entries/${link}`}
           target="_blank"
         >
-          <IconNew /> Neuer Beitrag
+          <IconEdit />
+          Bearbeiten ({isOldArticle ? 'wordpress' : 'gatsby'})
         </Item>
-        {link && (
-          <Item
-            href={`${data.site.siteMetadata.siteUrl}/admin/#/collections/${
-              isOldArticle ? 'oldArticle' : 'article'
-            }/entries/${link}`}
-            target="_blank"
-          >
-            <IconEdit />
-            Bearbeiten ({isOldArticle ? 'wordpress' : 'gatsby'})
-          </Item>
-        )}
-        <Info href="https://vercel.com/matthias-reis/soundsvegan">
-          Version von {moment(data.site.buildTime).fromNow()}
-        </Info>
-      </Container>
-    )
-  );
+      )}
+      <Info href="https://vercel.com/matthias-reis/soundsvegan">
+        Version von {moment(data.site.buildTime).fromNow()}
+      </Info>
+    </Container>
+  ) : null;
 };

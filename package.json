@@ -67,7 +67,8 @@
   "scripts": {
     "pretty": "prettier --write .",
     "clean": "gatsby clean",
-    "start": "yarn tsc && GATSBY_CARDA_PREVIEW=true gatsby develop",
+    "dev": "yarn tsc && GATSBY_CARDA_PREVIEW=true gatsby develop",
+    "start": "yarn dev & npx netlify-cms-proxy-server",
     "build": "gatsby build",
     "localdeploy": "gatsby clean && yarn build && netlify deploy",
     "deploy": "curl -X POST -d {} https://api.netlify.com/build_hooks/60a93ed507b42b7a919dbc80",

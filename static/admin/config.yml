@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: matthias-reis/carda-gatsby
   branch: master
   commit_messages:
@@ -12,6 +12,7 @@ backend:
 media_folder: static/img
 public_folder: /img
 locale: de
+local_backend: true
 editor:
   preview: false
 slug:
