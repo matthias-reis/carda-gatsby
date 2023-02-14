@@ -1,6 +1,6 @@
-import { Box, Button } from '@mui/material';
+import { Box } from '@mui/material';
 import { FC } from 'react';
-import { RouteVariant, useRoute } from './atoms/route';
+import { RouteVariant, useRoute } from './logic/route';
 import { EditorModule } from './EditorModule';
 import { MediaModule } from './MediaModule';
 import { SplashModule } from './SplashModule';
@@ -17,7 +17,7 @@ export const Workplace: FC = () => {
   const Module = modules[route];
 
   return (
-    <Box sx={{ width: '100%' }}>
+    <Box sx={{ width: '100%', height: '100vh', overflow: 'hidden' }}>
       <Module />
     </Box>
   );

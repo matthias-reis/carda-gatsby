@@ -37,6 +37,13 @@
     "@emotion/styled": "^11.10.5",
     "@mui/icons-material": "^5.11.0",
     "@mui/material": "^5.11.3",
-    "jotai": "^1.12.1"
+    "@mui/x-date-pickers": "^5.0.20",
+    "dayjs": "^1.11.7",
+    "esbuild": "^0.17.10",
+    "highlight.js": "^11.7.0",
+    "jotai": "^1.12.1",
+    "prettier": "^2.8.4",
+    "react-simple-code-editor": "^0.13.1",
+    "remark-parse": "^10.0.1"
   }
 }

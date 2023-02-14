@@ -1,0 +1,20 @@
+export type Article = {
+  date: string;
+  title: string;
+  subTitle: string;
+  seoTitle?: string;
+  ogTitle?: string;
+  description?: string;
+  excerpt?: string;
+  image?: string;
+  ogImage?: string;
+  remoteImage?: string;
+  remoteThumbnailImage?: string;
+  remoteLoadingImage?: string;
+  labels: string[];
+  focusKeyword?: string;
+  advertisement: boolean;
+  affiliate: boolean;
+  language: 'de' | 'en';
+  languageLink: string;
+};

@@ -9,7 +9,7 @@ import {
   Tooltip,
 } from '@mui/material';
 import { FC } from 'react';
-import { RouteVariant, useRoute } from './atoms/route';
+import { RouteVariant, useRoute } from './logic/route';
 import { Logo } from './Logo';
 
 const items: Item[] = [
@@ -34,7 +34,7 @@ export const Navigation: FC = () => {
   const [_route, setRoute] = useRoute();
 
   return (
-    <Paper elevation={1}>
+    <Paper elevation={1} sx={{ height: '100vh' }}>
       <Stack alignItems="center" sx={{ mt: 2 }}>
         <Logo width={48} height={48} />
         <List sx={{ mt: 6 }}>
