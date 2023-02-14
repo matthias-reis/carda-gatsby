@@ -43,7 +43,7 @@ export const EditorModule: FC = () => {
               Speichern
             </Button>
             <Button variant="outlined" sx={{ ml: 1 }}>
-              Sync
+              Deployen
             </Button>
             <IconButton sx={{ ml: 4 }}>
               <KeyboardDoubleArrowRight />
