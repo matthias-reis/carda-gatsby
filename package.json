@@ -77,8 +77,6 @@
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "jest",
     "media": "GOOGLE_APPLICATION_CREDENTIALS=~/carda-credentials.json node ./src/wordpress/media",
-    "wordpress": "node ./src/wordpress",
-    "clear": "rm -rf ./content/wordpress/articles/*",
     "imagine": "GOOGLE_APPLICATION_CREDENTIALS=~/carda-credentials.json ts-node ./src/imagine",
     "imagine:reindex": "GOOGLE_APPLICATION_CREDENTIALS=~/carda-credentials.json ts-node ./src/imagine/reindex",
     "p": "node ./src/wordpress/prettier",
