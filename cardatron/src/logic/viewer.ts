@@ -10,14 +10,9 @@ const isEditableAtom = atom<boolean>((get) => {
 });
 
 export const useViewerLocation = () => {
-  const [path, set] = useAtom(viewerPathAtom);
+  const [path, setPath] = useAtom(viewerPathAtom);
   const [url] = useAtom(viewerUrlAtom);
   const [isEditable] = useAtom(isEditableAtom);
-  return [{ path, url, isEditable }, set] as [ViewerLocation, typeof set];
-};
 
-export type ViewerLocation = {
-  path: string;
-  url: string;
-  isEditable: boolean;
+  return { path, url, isEditable, setPath };
 };

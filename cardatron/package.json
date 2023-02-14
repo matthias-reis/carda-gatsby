@@ -40,6 +40,7 @@
     "@mui/x-date-pickers": "^5.0.20",
     "dayjs": "^1.11.7",
     "esbuild": "^0.17.10",
+    "front-matter": "^4.0.2",
     "highlight.js": "^11.7.0",
     "jotai": "^1.12.1",
     "prettier": "^2.8.4",

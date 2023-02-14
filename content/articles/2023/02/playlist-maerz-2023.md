@@ -8,7 +8,7 @@ seoTitle: Alternative Playlist März 2023
 description: Diese zehn Songs solltet Ihr im März nicht verpassen. Von Post-Rock bis Ambient und von Metal bis Stoner. Jetzt hören!
 excerpt: 'Es ist so weit: Es geht wieder los mit der nächsten Songrunde. Die insgesamt zehn Stücke, die ich gemeinsam mit meinen beiden Lieblings-Musikfans ausgesucht habe, sollen Euch wie als Anregung dienen, falls vorhanden, die kompletten Platten der erwähnten Bands zu hören – für den vollen Musikgenuss. Trotzdem habe ich weiter unten selbstverständlich wieder fertige Playlists für Spotify und iTunes für Euch – als Inspirationsquelle für den nächsten Monat.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-24/playlist-maerz-2023-1-jpg-imagine-080808_606065_1024_768/640.webp
-copyright: ''
+copyrigt: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-24/playlist-maerz-2023-og-1-jpg-imagine-080808_606266_1200_628/640.webp
 labels:
   - D﻿epeche Mode

@@ -12,7 +12,7 @@ const modules: Record<RouteVariant, FC> = {
 };
 
 export const Workplace: FC = () => {
-  const [route] = useRoute();
+  const { route } = useRoute();
 
   const Module = modules[route];
 

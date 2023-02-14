@@ -31,7 +31,7 @@ const items: Item[] = [
 ];
 
 export const Navigation: FC = () => {
-  const [_route, setRoute] = useRoute();
+  const { setRoute } = useRoute();
 
   return (
     <Paper elevation={1} sx={{ height: '100vh' }}>

@@ -7,64 +7,31 @@ import {
   IconButton,
   InputAdornment,
   Stack,
-  TextareaAutosize,
   TextField,
-  TextFieldProps,
   ToggleButton,
   ToggleButtonGroup,
   Toolbar,
   Typography,
 } from '@mui/material';
-import { FC, JSXElementConstructor, ReactElement, useState } from 'react';
+import { FC, useState } from 'react';
 import Editor from 'react-simple-code-editor';
 import { EditorSyntax } from './EditorSyntax';
 import hl from 'highlight.js';
 import { DatePicker, LocalizationProvider } from '@mui/x-date-pickers';
 import { AdapterDayjs } from '@mui/x-date-pickers/AdapterDayjs';
 import { locale } from 'dayjs';
+import { useCurrentArticle, useEditor } from './logic/editor';
+import { Logo } from './Logo';
 
 locale('de');
 
 export const EditorModuleEditor: FC = () => {
-  const [code, setCode] = useState(`
-# Headline 1
+  const { relativePath, slugPath, slugIdentifier } = useEditor();
+  const { currentArticle } = useCurrentArticle();
+  const [code, setCode] = useState(
+    typeof currentArticle === 'string' ? '' : currentArticle.body
+  );
 
-## Headline 2
-
-Paragraph
-
-- unordered
-- list
-
-1. ordered
-2. list
-
-[link text](/)
-
-![alt text](/foo)
-
-<Video blah="blu" />
-  `);
-
-  /* fields
-  - Datum
-  - slug
-  - titel
-  - untertitel
-  - seotitel
-  - social media titel
-  - description
-  - excerpt
-  - text
-  - en text
-  - bild
-    - url
-    - copyright
-  - social media bild
-  - labels
-  - werbung bool
-  - affiliate bool
-  */
   return (
     <LocalizationProvider dateAdapter={AdapterDayjs}>
       <EditorSyntax />
@@ -92,62 +59,92 @@ Paragraph
             </IconButton>
           </Toolbar>
         </AppBar>
-        <Stack gap={1} sx={{ p: 2, flex: '1 1 auto', overflowY: 'scroll' }}>
-          <Typography variant="h3" sx={{ mt: 3, mb: 2 }}>
-            Title of the article
-          </Typography>
-          <DatePicker
-            label="Datum"
-            value={new Date()}
-            onChange={() => {}}
-            renderInput={(params) => <TextField {...params} />}
-          />
-          <TextField label="Titel" />
-          <TextField
-            label="Slug"
-            InputProps={{
-              startAdornment: (
-                <InputAdornment position="start" sx={{ fontSize: '80%' }}>
-                  /2023/02/
-                </InputAdornment>
-              ),
-            }}
-          />
-          <TextField label="Untertitel" />
-          <TextField label="SEO-Titel" />
-          <TextField label="Social-Media-Titel" />
-          <TextField multiline label="Description" />
-          <TextField multiline label="Excerpt" />
-          <Box sx={{ py: 4 }}>
-            <Editor
-              value={code}
-              onValueChange={(code) => {
-                // setCode(format(code, { parser: 'mdx', plugins: [prettierMd] }));
-                setCode(code);
-              }}
-              padding={10}
-              highlight={(code) => {
-                const highlighted = hl.highlight(code, {
-                  language: 'markdown',
-                });
-                return highlighted.value;
-              }}
-              className="hljs"
-            />
-          </Box>
-          <TextField label="Bild" />
-          <TextField label="Bild Copyright" />
-          <TextField label="Social-Media-Bild" />
-          <Stack direction="row" gap={2}>
-            <Chip label="eins" />
-            <Chip label="zwei" />
-            <Chip label="drei" />
+        {typeof currentArticle === 'string' ? (
+          <Stack alignItems="center" sx={{ textAlign: 'center' }}>
+            <Logo width={256} height={256} />
+            <Typography variant="h5" sx={{ opacity: 0.5, fontWeight: 'bold' }}>
+              {currentArticle}
+            </Typography>
           </Stack>
-          <ToggleButtonGroup>
-            <ToggleButton value="advertisement">Werbung</ToggleButton>
-            <ToggleButton value="affiliate">Affiliate</ToggleButton>
-          </ToggleButtonGroup>
-        </Stack>
+        ) : (
+          <Stack gap={2} sx={{ p: 2, flex: '1 1 auto', overflowY: 'scroll' }}>
+            <Typography variant="body2" sx={{ mt: 2 }}>
+              Datei: {relativePath}
+            </Typography>
+            <Typography variant="h3" sx={{ mb: 5 }}>
+              {currentArticle.title}
+            </Typography>
+            <DatePicker
+              label="Datum"
+              value={currentArticle.date}
+              onChange={() => {}}
+              renderInput={(params) => <TextField {...params} />}
+            />
+            <TextField label="Titel" value={currentArticle.title} />
+            <TextField
+              label="Slug"
+              value={slugIdentifier}
+              InputProps={{
+                startAdornment: (
+                  <InputAdornment position="start" sx={{ fontSize: '80%' }}>
+                    {slugPath}
+                  </InputAdornment>
+                ),
+              }}
+            />
+            <TextField label="Untertitel" value={currentArticle.subTitle} />
+            <TextField label="SEO-Titel" value={currentArticle.seoTitle} />
+            <TextField
+              label="Social-Media-Titel"
+              value={currentArticle.ogTitle}
+            />
+            <TextField
+              multiline
+              label="Description"
+              value={currentArticle.description}
+            />
+            <TextField
+              multiline
+              label="Excerpt"
+              value={currentArticle.excerpt}
+            />
+            <Box sx={{ py: 4 }}>
+              <Editor
+                value={currentArticle.body}
+                onValueChange={(code) => {
+                  // setCode(format(code, { parser: 'mdx', plugins: [prettierMd] }));
+                  setCode(code);
+                }}
+                padding={10}
+                highlight={(code) => {
+                  const highlighted = hl.highlight(code, {
+                    language: 'markdown',
+                  });
+                  return highlighted.value;
+                }}
+                className="hljs"
+              />
+            </Box>
+            <TextField label="Bild" value={currentArticle.image} />
+            <TextField
+              label="Bild Copyright"
+              value={currentArticle.imageCopyright}
+            />
+            <TextField
+              label="Social-Media-Bild"
+              value={currentArticle.ogImage}
+            />
+            <Stack direction="row" gap={2}>
+              {currentArticle.labels.map((label) => (
+                <Chip label={label} />
+              ))}
+            </Stack>
+            <ToggleButtonGroup>
+              <ToggleButton value="advertisement">Werbung</ToggleButton>
+              <ToggleButton value="affiliate">Affiliate</ToggleButton>
+            </ToggleButtonGroup>
+          </Stack>
+        )}
       </Stack>
     </LocalizationProvider>
   );

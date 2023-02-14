@@ -1,18 +1,18 @@
 import { KeyboardDoubleArrowLeft } from '@mui/icons-material';
 import { AppBar, Box, IconButton, TextField, Toolbar } from '@mui/material';
 import { FC, useEffect, useCallback, useRef } from 'react';
-import { useEditor } from './logic/editorLocation';
-import { useViewerLocation } from './logic/viewerLocation';
+import { useEditor } from './logic/editor';
+import { useViewerLocation } from './logic/viewer';
 
 export const EditorModuleViewer: FC = () => {
   const previewEl = useRef<HTMLIFrameElement>(null);
-  const [location, setUrl] = useViewerLocation();
+  const { isEditable, path, url, setPath } = useViewerLocation();
 
   const handleMessage = useCallback(
     (ev: MessageEvent<string>) => {
-      setUrl(ev.data);
+      setPath(ev.data);
     },
-    [setUrl]
+    [setPath]
   );
   useEffect(() => {
     if (previewEl.current) {
@@ -30,15 +30,15 @@ export const EditorModuleViewer: FC = () => {
         <Toolbar>
           <IconButton
             sx={{ mm: 4 }}
-            disabled={!location.isEditable}
-            onClick={() => setSlug(location.path)}
+            disabled={!isEditable}
+            onClick={() => setSlug(path)}
           >
             <KeyboardDoubleArrowLeft />
           </IconButton>
           <TextField
             disabled
             size="small"
-            value={location.url}
+            value={url}
             sx={{
               ml: 3,
               mr: 3,
