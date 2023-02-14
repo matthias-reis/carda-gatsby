@@ -64,7 +64,6 @@
     "node": ">=16.13.0"
   },
   "license": "MIT",
-  "main": "n/a",
   "scripts": {
     "pretty": "prettier --write .",
     "clean": "gatsby clean",
