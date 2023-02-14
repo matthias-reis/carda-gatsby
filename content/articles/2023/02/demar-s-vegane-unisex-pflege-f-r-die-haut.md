@@ -27,7 +27,6 @@ advertisement: true
 affiliate: false
 language: de
 ---
-
 **Über das Internet lernt man ja immer die liebsten Menschen kennen. Einer davon ist Helen, Inhaberin von Demarés in zweiter Generation. Erst vor Kurzem schrieb sie mich an und wir entschieden: Ich muss unbedingt mal ihre veganen Beauty-Produkte testen. Gesagt, getan. Das Ergebnis ist: Begeisterung! Selbstverständlich habe ich aber noch ein paar weitere Details für Euch.**
 
 Mediterrane Hautpflege aus Hamburg? Das klingt schon mal spannend, oder?  Weil die Demarés Produkte obendrein auch noch vegan sind, war meine Neugierde von Anfang an geweckt. Über die mediterranen Komponenten verrate ich Euch später noch mehr – versprochen!
