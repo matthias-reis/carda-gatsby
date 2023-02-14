@@ -84,14 +84,14 @@ export const AdminBar: React.FC<{
   return visible ? (
     <Container>
       <Item
-        href={`${data.site.siteMetadata.siteUrl}/admin/#/collections/article/new`}
+        href={`http://localhost:8000/admin/#/collections/article/new`}
         target="_blank"
       >
         <IconNew /> Neuer Beitrag
       </Item>
       {link && (
         <Item
-          href={`${data.site.siteMetadata.siteUrl}/admin/#/collections/${
+          href={`http://localhost:8000/admin/#/collections/${
             isOldArticle ? 'oldArticle' : 'article'
           }/entries/${link}`}
           target="_blank"
