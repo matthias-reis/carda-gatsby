@@ -18,6 +18,7 @@
     "bulma": "^0.9.3",
     "chalk": "^4.1.2",
     "cors": "^2.8.5",
+    "dayjs": "^1.11.7",
     "disqus-react": "^1.1.2",
     "dotenv": "^10.0.0",
     "front-matter": "^4.0.2",
@@ -85,7 +86,8 @@
     "prefirebase": "cd functions && yarn build",
     "firebase": "firebase deploy --only functions",
     "compress-images": "node ./compress-images",
-    "parser:imagine": "ts-node ./src/parser/run-imagine"
+    "parser:imagine": "ts-node ./src/parser/run-imagine",
+    "parser:reorg": "ts-node ./src/parser/reorg"
   },
   "devDependencies": {
     "@types/cors": "^2.8.12",
