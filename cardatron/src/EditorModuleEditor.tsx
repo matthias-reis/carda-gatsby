@@ -19,18 +19,19 @@ import { EditorSyntax } from './EditorSyntax';
 import hl from 'highlight.js';
 import { DatePicker, LocalizationProvider } from '@mui/x-date-pickers';
 import { AdapterDayjs } from '@mui/x-date-pickers/AdapterDayjs';
-import { locale } from 'dayjs';
+import dayjs, { locale } from 'dayjs';
 import { useCurrentArticle, useEditor } from './logic/editor';
 import { Logo } from './Logo';
+import { Article } from './logic/types';
 
 locale('de');
 
 export const EditorModuleEditor: FC = () => {
-  const { relativePath, slugPath, slugIdentifier } = useEditor();
-  const { currentArticle } = useCurrentArticle();
-  const [code, setCode] = useState(
-    typeof currentArticle === 'string' ? '' : currentArticle.body
-  );
+  const { relativePath } = useEditor();
+  const { isEmpty, currentArticle, changeCurrentArticle, saveCurrentArticle } =
+    useCurrentArticle();
+
+  console.log((currentArticle as Article).slug);
 
   return (
     <LocalizationProvider dateAdapter={AdapterDayjs}>
@@ -48,7 +49,12 @@ export const EditorModuleEditor: FC = () => {
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
               Editor
             </Typography>
-            <Button variant="contained" sx={{ ml: 1 }}>
+            <Button
+              disabled={isEmpty || !(currentArticle as Article).isDirty}
+              variant="contained"
+              sx={{ ml: 1 }}
+              onClick={saveCurrentArticle}
+            >
               Speichern
             </Button>
             <Button variant="outlined" sx={{ ml: 1 }}>
@@ -77,43 +83,101 @@ export const EditorModuleEditor: FC = () => {
             <DatePicker
               label="Datum"
               value={currentArticle.date}
-              onChange={() => {}}
+              onChange={(date) =>
+                changeCurrentArticle((article) => {
+                  article.date = (date ?? new Date()).toString();
+                  return article;
+                })
+              }
               renderInput={(params) => <TextField {...params} />}
             />
-            <TextField label="Titel" value={currentArticle.title} />
+            <TextField
+              label="Titel"
+              value={currentArticle.title}
+              onChange={(ev) =>
+                changeCurrentArticle((article) => {
+                  article.title = ev.target.value;
+                  return article;
+                })
+              }
+            />
             <TextField
               label="Slug"
-              value={slugIdentifier}
+              value={currentArticle.slug}
               InputProps={{
                 startAdornment: (
                   <InputAdornment position="start" sx={{ fontSize: '80%' }}>
-                    {slugPath}
+                    {dayjs(currentArticle.date).format('YYYY/MM')}
                   </InputAdornment>
                 ),
               }}
+              onChange={(ev) =>
+                changeCurrentArticle((article) => {
+                  article.slug = ev.target.value;
+                  return article;
+                })
+              }
             />
-            <TextField label="Untertitel" value={currentArticle.subTitle} />
-            <TextField label="SEO-Titel" value={currentArticle.seoTitle} />
+            <TextField
+              label="Untertitel"
+              value={currentArticle.subTitle}
+              onChange={(ev) =>
+                changeCurrentArticle((article) => {
+                  article.subTitle = ev.target.value;
+                  return article;
+                })
+              }
+            />
+            <TextField
+              label="SEO-Titel"
+              value={currentArticle.seoTitle}
+              onChange={(ev) =>
+                changeCurrentArticle((article) => {
+                  article.seoTitle = ev.target.value;
+                  return article;
+                })
+              }
+            />
             <TextField
               label="Social-Media-Titel"
               value={currentArticle.ogTitle}
+              onChange={(ev) =>
+                changeCurrentArticle((article) => {
+                  article.ogTitle = ev.target.value;
+                  return article;
+                })
+              }
             />
             <TextField
               multiline
               label="Description"
               value={currentArticle.description}
+              onChange={(ev) =>
+                changeCurrentArticle((article) => {
+                  article.description = ev.target.value;
+                  return article;
+                })
+              }
             />
             <TextField
               multiline
               label="Excerpt"
               value={currentArticle.excerpt}
+              onChange={(ev) =>
+                changeCurrentArticle((article) => {
+                  article.excerpt = ev.target.value;
+                  return article;
+                })
+              }
             />
             <Box sx={{ py: 4 }}>
               <Editor
                 value={currentArticle.body}
                 onValueChange={(code) => {
-                  // setCode(format(code, { parser: 'mdx', plugins: [prettierMd] }));
-                  setCode(code);
+                  changeCurrentArticle((article) => {
+                    article.body = code;
+                    return article;
+                  });
                 }}
                 padding={10}
                 highlight={(code) => {
@@ -125,14 +189,35 @@ export const EditorModuleEditor: FC = () => {
                 className="hljs"
               />
             </Box>
-            <TextField label="Bild" value={currentArticle.image} />
+            <TextField
+              label="Bild"
+              value={currentArticle.image}
+              onChange={(ev) =>
+                changeCurrentArticle((article) => {
+                  article.image = ev.target.value;
+                  return article;
+                })
+              }
+            />
             <TextField
               label="Bild Copyright"
               value={currentArticle.imageCopyright}
+              onChange={(ev) =>
+                changeCurrentArticle((article) => {
+                  article.imageCopyright = ev.target.value;
+                  return article;
+                })
+              }
             />
             <TextField
               label="Social-Media-Bild"
               value={currentArticle.ogImage}
+              onChange={(ev) =>
+                changeCurrentArticle((article) => {
+                  article.ogImage = ev.target.value;
+                  return article;
+                })
+              }
             />
             <Stack direction="row" gap={2}>
               {currentArticle.labels.map((label) => (

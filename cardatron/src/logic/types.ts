@@ -1,5 +1,6 @@
 export type Article = {
   title: string;
+  slug: string;
   subTitle: string;
   seoTitle?: string;
   ogTitle?: string;
@@ -22,4 +23,5 @@ export type Article = {
   productsProvided?: boolean;
   labels: string[];
   body: string;
+  isDirty?: boolean;
 };

@@ -1,10 +1,16 @@
 import { atom, useAtom } from 'jotai';
-import { getPath, getRelativePath, readArticle } from './articles';
+import {
+  getPath,
+  getRelativePath,
+  readArticle,
+  writeArticle,
+} from './articles';
 import { Article } from './types';
 
 // base Atoms
 const currentSlugAtom = atom<string>('');
-const articlesAtom = atom<Record<string, Article | string>>({});
+const loadedArticlesAtom = atom<Record<string, Article | string>>({});
+const modifiedArticlesAtom = atom<Record<string, Article | string>>({});
 
 const setCurrentSlugAtom = atom(null, async (_, set, slug: string) => {
   // we're setting the current atom to the value handed over
@@ -12,14 +18,19 @@ const setCurrentSlugAtom = atom(null, async (_, set, slug: string) => {
   // then we add
   const path = getPath(slug);
   if (path) {
-    set(articlesAtom, (articles) => ({
+    set(modifiedArticlesAtom, (articles) => ({
       ...articles,
       [slug]: 'Lade Artikel. Bitte warten!',
     }));
     const article = await readArticle(path);
-    set(articlesAtom, (articles) => ({ ...articles, [slug]: article }));
+    const articleClone = structuredClone(article);
+    set(modifiedArticlesAtom, (articles) => ({ ...articles, [slug]: article }));
+    set(loadedArticlesAtom, (articles) => ({
+      ...articles,
+      [slug]: articleClone,
+    }));
   } else {
-    set(articlesAtom, (articles) => ({
+    set(modifiedArticlesAtom, (articles) => ({
       ...articles,
       [slug]: `Datei konnte nicht geladen werden <${slug}>`,
     }));
@@ -39,13 +50,48 @@ export const useEditor = () => {
 
 export const useCurrentArticle = () => {
   const { slug } = useEditor();
-  const [articles] = useAtom(articlesAtom);
-  const currentArticle: Article | string = articles[slug]
-    ? articles[slug]
+  const [modifiedArticles, setModifiedArticles] = useAtom(modifiedArticlesAtom);
+  const [loadedArticles, setLoadedArticles] = useAtom(loadedArticlesAtom);
+  const [_, setCurrentSlug] = useAtom(setCurrentSlugAtom);
+
+  const currentArticle: Article | string = modifiedArticles[slug]
+    ? modifiedArticles[slug]
     : 'Noch kein Artikel geladen.';
+
+  const loadedArticle: Article | string = loadedArticles[slug]
+    ? loadedArticles[slug]
+    : '';
+
+  const isEmpty = typeof currentArticle === 'string';
+
+  const changeCurrentArticle = (changeFn: (a: Article) => Article) => {
+    if (!isEmpty) {
+      const changedArticle = { ...changeFn(currentArticle), isDirty: true };
+      setModifiedArticles({ ...modifiedArticles, [slug]: changedArticle });
+    }
+  };
+
+  const saveCurrentArticle = async () => {
+    // save the article
+    console.log(
+      'editor',
+      (currentArticle as Article).slug,
+      (loadedArticle as Article).slug
+    );
+    const newSlug = await writeArticle(currentArticle, loadedArticle);
+    // clean the loaded files
+    delete modifiedArticles[slug];
+    setModifiedArticles(modifiedArticles);
+    delete loadedArticles[slug];
+    setModifiedArticles(loadedArticles);
+    // then reload it from scratch by re-setting the slug
+    setCurrentSlug(newSlug);
+  };
 
   return {
     currentArticle,
-    isEmpty: typeof currentArticle === 'string',
+    changeCurrentArticle,
+    saveCurrentArticle,
+    isEmpty,
   };
 };
