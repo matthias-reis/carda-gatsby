@@ -16,6 +16,12 @@ export const EditorSyntax = () => {
           outline: 0;
         }
 
+        .hljs .hljs-strong {
+          font-weight: bold;
+        }
+        .hljs .hljs-emphasis {
+          font-style: italic;
+        }
         .hljs .hljs-section {
           font-weight: bold;
           color: #fff;

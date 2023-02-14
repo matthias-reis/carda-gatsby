@@ -53,7 +53,7 @@ const pathFromSlug = (slug: string) => {
   return path;
 };
 
-export const getRelativePath = (path: string) => path.replace(ROOT, '');
+export const getRelativePath = (path: string) => path.replace(ROOT, '/content');
 
 export const getSlug = (article: Article) => {
   return `/${dayjs(article.date).format('YYYY/MM')}/${article.slug}/`;

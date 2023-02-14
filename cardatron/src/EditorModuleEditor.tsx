@@ -7,6 +7,8 @@ import {
   IconButton,
   InputAdornment,
   Stack,
+  Tab,
+  Tabs,
   TextField,
   ToggleButton,
   ToggleButtonGroup,
@@ -23,15 +25,17 @@ import dayjs, { locale } from 'dayjs';
 import { useCurrentArticle, useEditor } from './logic/editor';
 import { Logo } from './Logo';
 import { Article } from './logic/types';
+import { atom, useAtom } from 'jotai';
 
 locale('de');
 
+const tabAtom = atom<0 | 1>(0);
+
 export const EditorModuleEditor: FC = () => {
   const { relativePath } = useEditor();
+  const [tab, setTab] = useAtom(tabAtom);
   const { isEmpty, currentArticle, changeCurrentArticle, saveCurrentArticle } =
     useCurrentArticle();
-
-  console.log((currentArticle as Article).slug);
 
   return (
     <LocalizationProvider dateAdapter={AdapterDayjs}>
@@ -73,111 +77,213 @@ export const EditorModuleEditor: FC = () => {
             </Typography>
           </Stack>
         ) : (
-          <Stack gap={2} sx={{ p: 2, flex: '1 1 auto', overflowY: 'scroll' }}>
-            <Typography variant="body2" sx={{ mt: 2 }}>
-              Datei: {relativePath}
-            </Typography>
-            <Typography variant="h3" sx={{ mb: 5 }}>
-              {currentArticle.title}
-            </Typography>
-            <DatePicker
-              label="Datum"
-              value={currentArticle.date}
-              onChange={(date) =>
-                changeCurrentArticle((article) => {
-                  article.date = (date ?? new Date()).toString();
-                  return article;
-                })
-              }
-              renderInput={(params) => <TextField {...params} />}
-            />
-            <TextField
-              label="Titel"
-              value={currentArticle.title}
-              onChange={(ev) =>
-                changeCurrentArticle((article) => {
-                  article.title = ev.target.value;
-                  return article;
-                })
-              }
-            />
-            <TextField
-              label="Slug"
-              value={currentArticle.slug}
-              InputProps={{
-                startAdornment: (
-                  <InputAdornment position="start" sx={{ fontSize: '80%' }}>
-                    {dayjs(currentArticle.date).format('YYYY/MM')}
-                  </InputAdornment>
-                ),
-              }}
-              onChange={(ev) =>
-                changeCurrentArticle((article) => {
-                  article.slug = ev.target.value;
-                  return article;
-                })
-              }
-            />
-            <TextField
-              label="Untertitel"
-              value={currentArticle.subTitle}
-              onChange={(ev) =>
-                changeCurrentArticle((article) => {
-                  article.subTitle = ev.target.value;
-                  return article;
-                })
-              }
-            />
-            <TextField
-              label="SEO-Titel"
-              value={currentArticle.seoTitle}
-              onChange={(ev) =>
-                changeCurrentArticle((article) => {
-                  article.seoTitle = ev.target.value;
-                  return article;
-                })
-              }
-            />
-            <TextField
-              label="Social-Media-Titel"
-              value={currentArticle.ogTitle}
-              onChange={(ev) =>
-                changeCurrentArticle((article) => {
-                  article.ogTitle = ev.target.value;
-                  return article;
-                })
-              }
-            />
-            <TextField
-              multiline
-              label="Description"
-              value={currentArticle.description}
-              onChange={(ev) =>
-                changeCurrentArticle((article) => {
-                  article.description = ev.target.value;
-                  return article;
-                })
-              }
-            />
-            <TextField
-              multiline
-              label="Excerpt"
-              value={currentArticle.excerpt}
-              onChange={(ev) =>
-                changeCurrentArticle((article) => {
-                  article.excerpt = ev.target.value;
-                  return article;
-                })
-              }
-            />
+          <>
             <Box
               sx={{
-                my: 4,
-                py: 2,
-                borderTop: '10px dashed #5c9b72',
-                borderBottom: '10px dashed #5c9b72',
+                borderBottom: 1,
+                borderColor: 'divider',
+                flex: '0 0 auto',
               }}
             >
+              <Tabs value={tab} onChange={(_, newTab) => setTab(newTab)}>
+                <Tab value={0} label="Metadaten" />
+                <Tab value={1} label="Text" />
+              </Tabs>
+            </Box>
+            <Box
+              display={tab === 0 ? 'block' : 'none'}
+              sx={{
+                flex: '1 1 auto',
+                overflowY: 'scroll',
+              }}
+            >
+              <Stack gap={2} sx={{ p: 2 }}>
+                <Box>
+                  <Typography variant="body2" sx={{ mt: 2 }}>
+                    Metadaten
+                  </Typography>
+                  <Typography
+                    variant="h4"
+                    sx={{ fontWeight: 700, color: '#96c6a7' }}
+                  >
+                    {currentArticle.title}
+                  </Typography>
+                  <Typography variant="body2" sx={{ mb: 5, opacity: 0.5 }}>
+                    Datei: {relativePath}
+                  </Typography>
+                </Box>
+                <DatePicker
+                  label="Datum"
+                  value={currentArticle.date}
+                  onChange={(date) =>
+                    changeCurrentArticle((article) => {
+                      article.date = (date ?? new Date()).toString();
+                      return article;
+                    })
+                  }
+                  renderInput={(params) => <TextField {...params} />}
+                />
+                <TextField
+                  label="Titel"
+                  value={currentArticle.title}
+                  onChange={(ev) =>
+                    changeCurrentArticle((article) => {
+                      article.title = ev.target.value;
+                      return article;
+                    })
+                  }
+                />
+                <TextField
+                  label="Slug"
+                  value={currentArticle.slug}
+                  InputProps={{
+                    startAdornment: (
+                      <InputAdornment position="start" sx={{ fontSize: '80%' }}>
+                        {dayjs(currentArticle.date).format('YYYY/MM')}
+                      </InputAdornment>
+                    ),
+                  }}
+                  onChange={(ev) =>
+                    changeCurrentArticle((article) => {
+                      article.slug = ev.target.value;
+                      return article;
+                    })
+                  }
+                />
+                <TextField
+                  label="Untertitel"
+                  value={currentArticle.subTitle}
+                  onChange={(ev) =>
+                    changeCurrentArticle((article) => {
+                      article.subTitle = ev.target.value;
+                      return article;
+                    })
+                  }
+                />
+                <TextField
+                  label="SEO-Titel"
+                  value={currentArticle.seoTitle}
+                  onChange={(ev) =>
+                    changeCurrentArticle((article) => {
+                      article.seoTitle = ev.target.value;
+                      return article;
+                    })
+                  }
+                />
+                <TextField
+                  label="Social-Media-Titel"
+                  value={currentArticle.ogTitle}
+                  onChange={(ev) =>
+                    changeCurrentArticle((article) => {
+                      article.ogTitle = ev.target.value;
+                      return article;
+                    })
+                  }
+                />
+                <TextField
+                  multiline
+                  label="Description"
+                  value={currentArticle.description}
+                  onChange={(ev) =>
+                    changeCurrentArticle((article) => {
+                      article.description = ev.target.value;
+                      return article;
+                    })
+                  }
+                />
+                <TextField
+                  multiline
+                  label="Excerpt"
+                  value={currentArticle.excerpt}
+                  onChange={(ev) =>
+                    changeCurrentArticle((article) => {
+                      article.excerpt = ev.target.value;
+                      return article;
+                    })
+                  }
+                />
+                <TextField
+                  label="Bild"
+                  value={currentArticle.image}
+                  onChange={(ev) =>
+                    changeCurrentArticle((article) => {
+                      article.image = ev.target.value;
+                      return article;
+                    })
+                  }
+                />
+                <TextField
+                  label="Bild Copyright"
+                  value={currentArticle.imageCopyright}
+                  onChange={(ev) =>
+                    changeCurrentArticle((article) => {
+                      article.imageCopyright = ev.target.value;
+                      return article;
+                    })
+                  }
+                />
+                <TextField
+                  label="Social-Media-Bild"
+                  value={currentArticle.ogImage}
+                  onChange={(ev) =>
+                    changeCurrentArticle((article) => {
+                      article.ogImage = ev.target.value;
+                      return article;
+                    })
+                  }
+                />
+                <Typography variant="h5">Tags</Typography>
+                <Stack direction="row" flexWrap="wrap" gap={2}>
+                  {currentArticle.labels.map((label) => (
+                    <Chip label={label} />
+                  ))}
+                </Stack>
+                <Typography variant="h5">Werbung</Typography>
+                <ToggleButtonGroup
+                  value={[
+                    currentArticle.advertisement ? 'advertisement' : null,
+                    currentArticle.affiliate ? 'affiliate' : null,
+                    currentArticle.productsProvided ? 'productsProvided' : null,
+                  ].filter(Boolean)}
+                  onChange={(_, value: string[]) => {
+                    changeCurrentArticle((article) => {
+                      article.advertisement = value.includes('advertisement');
+                      article.affiliate = value.includes('affiliate');
+                      article.productsProvided =
+                        value.includes('productsProvided');
+
+                      return article;
+                    });
+                  }}
+                >
+                  <ToggleButton value="advertisement">Werbung</ToggleButton>
+                  <ToggleButton value="affiliate">Affiliate</ToggleButton>
+                  <ToggleButton value="productsProvided">
+                    Produktplatzierung
+                  </ToggleButton>
+                </ToggleButtonGroup>
+              </Stack>
+            </Box>
+            <Box
+              display={tab === 1 ? 'block' : 'none'}
+              sx={{
+                flex: '1 1 auto',
+                overflowY: 'scroll',
+                p: 2,
+              }}
+            >
+              <Typography variant="body2" sx={{ mt: 2 }}>
+                Texteditor
+              </Typography>
+              <Typography
+                variant="h4"
+                sx={{ fontWeight: 700, color: '#96c6a7' }}
+              >
+                {currentArticle.title}
+              </Typography>
+              <Typography variant="body2" sx={{ mb: 5, opacity: 0.5 }}>
+                Datei: {relativePath}
+              </Typography>
               <Editor
                 value={currentArticle.body}
                 onValueChange={(code) => {
@@ -196,66 +302,7 @@ export const EditorModuleEditor: FC = () => {
                 className="hljs"
               />
             </Box>
-            <TextField
-              label="Bild"
-              value={currentArticle.image}
-              onChange={(ev) =>
-                changeCurrentArticle((article) => {
-                  article.image = ev.target.value;
-                  return article;
-                })
-              }
-            />
-            <TextField
-              label="Bild Copyright"
-              value={currentArticle.imageCopyright}
-              onChange={(ev) =>
-                changeCurrentArticle((article) => {
-                  article.imageCopyright = ev.target.value;
-                  return article;
-                })
-              }
-            />
-            <TextField
-              label="Social-Media-Bild"
-              value={currentArticle.ogImage}
-              onChange={(ev) =>
-                changeCurrentArticle((article) => {
-                  article.ogImage = ev.target.value;
-                  return article;
-                })
-              }
-            />
-            <Typography variant="h5">Tags</Typography>
-            <Stack direction="row" flexWrap="wrap" gap={2}>
-              {currentArticle.labels.map((label) => (
-                <Chip label={label} />
-              ))}
-            </Stack>
-            <Typography variant="h5">Werbung</Typography>
-            <ToggleButtonGroup
-              value={[
-                currentArticle.advertisement ? 'advertisement' : null,
-                currentArticle.affiliate ? 'affiliate' : null,
-                currentArticle.productsProvided ? 'productsProvided' : null,
-              ].filter(Boolean)}
-              onChange={(_, value: string[]) => {
-                changeCurrentArticle((article) => {
-                  article.advertisement = value.includes('advertisement');
-                  article.affiliate = value.includes('affiliate');
-                  article.productsProvided = value.includes('productsProvided');
-
-                  return article;
-                });
-              }}
-            >
-              <ToggleButton value="advertisement">Werbung</ToggleButton>
-              <ToggleButton value="affiliate">Affiliate</ToggleButton>
-              <ToggleButton value="productsProvided">
-                Produktplatzierung
-              </ToggleButton>
-            </ToggleButtonGroup>
-          </Stack>
+          </>
         )}
       </Stack>
     </LocalizationProvider>
