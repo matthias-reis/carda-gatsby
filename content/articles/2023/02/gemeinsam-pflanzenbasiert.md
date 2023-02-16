@@ -42,7 +42,7 @@ Laut der Gemeinde Altena fühlt es sich für die meisten Einwohner⋆innen noch 
 
 Im Pilotprojekt spielen vegane Verkostungen eine tragende Rolle. In einem Statement betont Marianne Karstens von der Green Protein Alliance ihre Wichtigkeit:
 
-"Die Verkostungen mit pflanzlichen Lebensmitteln sind der beste Weg, die Menschen davon zu überzeugen"
+> "Die Verkostungen mit pflanzlichen Lebensmitteln sind der beste Weg, die Menschen davon zu überzeugen"
 
 So werden in Altena in Supermärkten, Schulen und anderen öffentlichen Einrichtungen vegane Lebensmittel ausgegeben. Anschließend soll unter anderem anhand von Kassen-Scandaten gemessen werden, ob sich die Aktion gelohnt hat.
 
