@@ -54,6 +54,6 @@ Jetzt lesen: [Diese niederländische Stadt hat Werbung für Fleisch und Wurst ve
 
 [Bild: FreeToUseSounds](https://pixabay.com/photos/hamburger-vegan-vegetarian-tasty-2453359/), Pixabay
 
-[Bean Deal]( https://beandeal.nl/)
+[^4]: [Bean Deal]( https://beandeal.nl/)
 
 
