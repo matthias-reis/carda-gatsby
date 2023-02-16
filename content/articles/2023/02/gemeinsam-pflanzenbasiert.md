@@ -9,13 +9,11 @@ ogTitle: ""
 description: In Sachen vegan sind uns die Niederlande häufig einen Schritt
   voraus. Lest jetzt, was die Gemeinde Altena für ihre Bürger tut, damit sie
   vegane Lebensmittel probieren.
-excerpt: 'Die Gemeinde Altena in der niederländischen Provinz Noord-Brabant
+excerpt: Die Gemeinde Altena in der niederländischen Provinz Noord-Brabant
   möchte ihre Einwohner⋆innen dazu ermutigen, sich beim Einkaufen häufiger für
   pflanzliche Lebensmittel zu entscheiden und sich dauerhaft vegan zu ernähren.
   Zu diesem Zweck werden sogenannte "Interventionen" in Schulen, Supermärkten
-  und Restaurants durchgeführt. Altena hat dem Projekt den Namen "Gebiedspilot
-  plantaardige eiwitten" gegeben. Das bedeutet so viel wie: "Lokales
-  Pilotprojekt Pflanzenprotein".'
+  und Restaurants durchgeführt.
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-16/vegan-burger-free-to-use-sounds-jpg-imagine-080808_5f5b52_1024_768/640.webp
 copyrigt: FreeToUseSounds, Pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-16/vegan-burger-free-to-use-sounds-og-jpg-imagine-080808_635c51_1200_628/640.webp
