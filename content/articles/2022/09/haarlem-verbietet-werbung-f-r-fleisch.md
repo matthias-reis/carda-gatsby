@@ -47,4 +47,6 @@ Um tierische Lebensmittel wie Fleisch, Wurst und Milchprodukte herzustellen, mü
 
 Falls Ihr findet, das Verbot könnte noch weitergehen: In Haarlem wird ab 2024 nicht nur die Werbung für Fleisch, sondern auch für Urlaubsflüge, fossile Brennstoffe und Autos, die mit fossilen Brennstoffen betrieben werden, verboten sein.
 
+Jetzt lesen: [Gemeinde unterstützt ihre Einwohner⋆innen beim Umstieg auf vegan](/2023/02/altena-vegan/).
+
 Bild/Image: [Hendrik](https://pixabay.com/photos/haarlem-water-holland-lake-city-3628302/), Pixabay
