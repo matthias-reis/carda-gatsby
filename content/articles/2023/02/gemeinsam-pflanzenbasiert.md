@@ -4,7 +4,7 @@ slug: altena-vegan
 typeName: Beitrag
 title: '"Gemeinsam pflanzenbasiert"'
 subTitle: Altena startet Pilotprojekt für pflanzliches Protein
-seoTitle: Niederländische Gemeinde unterstützt Bürger beim Umstieg auf vegan
+seoTitle: Niederländische Gemeinde unterstützt beim Umstieg auf vegan
 ogTitle: ""
 description: In Sachen vegan sind uns die Niederlande häufig einen Schritt
   voraus. Lest jetzt, was die Gemeinde Altena für ihre Bürger tut, damit sie
