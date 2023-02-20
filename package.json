@@ -37,7 +37,7 @@
     "gatsby-remark-numbered-footnotes": "^1.0.1",
     "gatsby-remark-smartypants": "^5.2.0",
     "gatsby-source-filesystem": "^4.2.0",
-    "gatsby-transformer-remark": "^5.2.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-yaml": "^4.2.0",
     "glob": "^7.2.0",
     "lodash": "^4.17.21",
