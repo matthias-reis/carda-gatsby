@@ -48,7 +48,7 @@ Für Helen ist das Serum der Grundbaustein für all ihre Demarés Produkte. Es s
 
 ## Demarés Serum-Maske
 
-Die Serum-Maske ist, wie der Name schon sagt, ein Multitalent. Die Tiefenpflege kommt in einem praktischen Pumpspender, damit Ihr sie gut dosieren könnt. Ich sage mal so viel: weniger ist mehr!  Schon ein paar Tropfen davon reichen für das komplette Gesicht. Und funktioniert sie:
+Die Serum-Maske ist, wie der Name schon sagt, ein Multitalent. Die Tiefenpflege kommt in einem praktischen Pumpspender, damit Ihr sie gut dosieren könnt. Ich sage mal so viel: weniger ist mehr!  Schon ein paar Tropfen davon reichen für das komplette Gesicht. Und so funktioniert sie:
 
 Reinigt das Gesicht und tragt die Serum-Maske auf. Lasst sie für zehn bis zwanzig Minuten einwirken und nutzt anschließend das Tonic und die Tagespflege bzw., wie erwähnt, Eure Nachtcreme. Ihr könnt sie täglich, morgens und abends verwenden.
 
