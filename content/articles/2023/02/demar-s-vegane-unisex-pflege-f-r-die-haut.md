@@ -5,10 +5,16 @@ typeName: Produkttest
 title: Demarés – Vegane Unisex-Pflege für die Haut
 subTitle: Die mediterranen Beauty-Produkte aus Hamburg im Test
 seoTitle: Demarés – Vegane Unisex-Pflege für die Haut
-description: Helen, Inhaberin von Demarés in zweiter Generation, setzt auf vegane Pflege. Lernt jetzt Ihre Produkte und die Philosophie der Hamburger Brand kennen!
-excerpt: 'Über das Internet lernt man ja immer die liebsten Menschen kennen. Einer davon ist Helen, Inhaberin von Demarés in zweiter Generation. Erst vor Kurzem schrieb sie mich an und wir entschieden: Ich muss unbedingt mal ihre veganen Beauty-Produkte testen. Gesagt, getan. Das Ergebnis ist: Begeisterung! Selbstverständlich habe ich aber noch ein paar weitere Details für Euch.'
+description: Helen, Inhaberin von Demarés in zweiter Generation, setzt auf
+  vegane Pflege. Lernt jetzt Ihre Produkte und die Philosophie der Hamburger
+  Brand kennen!
+excerpt: "Über das Internet lernt man ja immer die liebsten Menschen kennen.
+  Einer davon ist Helen, Inhaberin von Demarés in zweiter Generation. Erst vor
+  Kurzem schrieb sie mich an und wir entschieden: Ich muss unbedingt mal ihre
+  veganen Beauty-Produkte testen. Gesagt, getan. Das Ergebnis ist: Begeisterung!
+  Selbstverständlich habe ich aber noch ein paar weitere Details für Euch."
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-20/2023-02-17-demares-008-jpg-imagine-c8c8c8_ada8aa_2048_1536/640.webp
-copyrigt: ''
+copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-20/demares-og-jpg-imagine-b8b8b8_ada0a0_1200_628/640.webp
 labels:
   - Demarés
@@ -34,7 +40,7 @@ Nach einem super netten Austausch sendete mir Helen ihre beiden Lieblingsprodukt
 
 ## Demarés Tonic
 
-Ich komme mal zuerst zum Tonic. Ihr könnt es ganz einfach vor dem nach der Reinigung mit einem Wattepad auf das Gesicht auftragen. Es erfrischt die Haut und soll die Haut verfeinern. Hergestellt wird es mit pflegendem [Aloe-Vera](/tag/aloe-vera)- und Bambus-Extrakt. Ihr könnt das Tonic übrigens auch mit einer Nachtcreme kombinieren: Es kann sehr gut vor dem Schlafengehen verwendet werden. Leontopodsäure, die aus der Edelweißpflanze extrahiert wird, soll die Schutzbarriere der Haut stärken und sie resistenter gegenüber äußeren Einflüssen machen. Die enthaltene vegane Milchsäure peelt die Hautoberfläche und soll zusätzlich Feuchtigkeit spenden. Allantoin ist für seine beruhigende Wirkung bekannt. Das soll Eurer Haut zusätzlich Strahlkraft verleihen.
+Ich komme mal zuerst zum Tonic. Ihr könnt es ganz einfach nach der Reinigung mit einem Wattepad auf das Gesicht auftragen. Es erfrischt die Haut und soll die Haut verfeinern. Hergestellt wird es mit pflegendem [Aloe-Vera](/tag/aloe-vera)- und Bambus-Extrakt. Ihr könnt das Tonic übrigens auch mit einer Nachtcreme kombinieren: Es kann sehr gut vor dem Schlafengehen verwendet werden. Leontopodsäure, die aus der Edelweißpflanze extrahiert wird, soll die Schutzbarriere der Haut stärken und sie resistenter gegenüber äußeren Einflüssen machen. Die enthaltene vegane Milchsäure peelt die Hautoberfläche und soll zusätzlich Feuchtigkeit spenden. Allantoin ist für seine beruhigende Wirkung bekannt. Das soll Eurer Haut zusätzlich Strahlkraft verleihen.
 
 Für Helen ist das Serum der Grundbaustein für all ihre Demarés Produkte. Es soll die Haut mit viel Feuchtigkeit versorgen und daher immer als erstes Pflegeprodukt in die tägliche Routine eingebaut werden – Die Wirkung der weiteren Produkte soll damit verstärkt werden. Pflanzliche Hyaluronsäure und Kieselsäure sollen die Augenpartie, das Gesicht, den Hals und das Dekolleté nähren und pflegen. Das Hautbild soll verfeinert, geglättet und verfeinert werden.
 
