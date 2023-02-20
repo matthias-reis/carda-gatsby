@@ -56,6 +56,8 @@ Je nachdem, welcher Sportart Ihr nachgeht, solltet Ihr zwischendurch genügend F
 
 **Vorsicht:** Wer zu viel Wasser trinkt, schwemmt möglicherweise wichtige Spurenelemente aus dem Körper. Im schlimmsten Fall kann das zu einem Kollaps führen. Wenn Ihr also einen Marathon oder eine über mehrere Stunden andauernde Trainingsstrecke geplant habt, solltet Ihr zusätzlich zu elektrolythaltigen Getränken greifen. Im normalen Trainingsmodus ist jedoch Wasser vollkommen ausreichend.
 
+*﻿*Hinweis:** Unter den Bildern geht es weiter!
+
 <Gallery name="post-workout-pre-workout-1" />
 
 ## Post-Workout
