@@ -56,7 +56,7 @@ Entwickelt hat Demarés die Serum-Maske speziell für geschädigte, erholungsbed
 
 Was mir auffällt: Meine Haut fühlt sich nach der Maske entspannt an! Besonders auch die kleinen Rötungen kommen mir nach der Anwendung weniger stark vor und ich habe diese schönen "Kühlungseffekt", den ich sehr mag. Obwohl ich sie nicht abwasche (ich trage sie abends auf), habe ich anschließend kein schwitziges oder beschwertes Gefühl auf der Haut. Für mich, mit meiner empfindlichen Haut, ist das auf jeden Fall ein gutes Zeichen. Wenn Ihr wollt, könnt Ihr die Serum-Maske für einen zusätzlichen Frischekick im Kühlschrank aufbewahren!
 
-**Tipp von Helen:** Für ein glatteres Hautbild könnt Ihr die Maske auf Eure Handoberflächen auftragen – sie wirkt dadurch glatter und feiner!
+**Tipp von Helen:** Für ein glatteres Hautbild könnt Ihr die Maske auf Eure Handoberflächen auftragen – sie wirken dadurch glatter und feiner!
 
 ## Vegane Pflege ohne Tierversuche
 
