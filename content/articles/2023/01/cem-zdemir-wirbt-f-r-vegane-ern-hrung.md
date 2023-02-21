@@ -32,7 +32,7 @@ language: de
 
 Das erklärte Ziel der Bundesregierung ist die Schaffung einer integrativen Ernährungsstrategie. Diese soll einen Wandel des Ernährungssystems mit Initiativen zur frühzeitigen Bildung und Barrierefreiheit anstoßen und sich dabei an der Deutschen Gesellschaft für Ernährung (DGE) und der Planetary Health Diet orientieren.
 
-!["Be Fair. Be Vegan!" (Slogan: Tierrechtsaktivistenbündnis)](https://storage.googleapis.com/cardamonchai-media/2023-01-06/cem-oezdemir-vegan-1-jpg-imagine-e8e8e8_81a2a1_1024_768/640.webp "\\\"Be Fair. Be Vegan!\\\" (Slogan: Tierrechtsaktivistenbündnis)")
+!["Be Fair. Be Vegan!" (Slogan: Tierrechtsaktivistenbündnis)](https://storage.googleapis.com/cardamonchai-media/2023-01-06/cem-oezdemir-vegan-1-jpg-imagine-e8e8e8_81a2a1_1024_768/640.webp "\\\\"Be Fair. Be Vegan!\\\\" (Slogan: Tierrechtsaktivistenbündnis)")
 
 Die derzeitige Regierung leitet damit eine komplette Neuausrichtung ein, hin zu einer größeren Akzeptanz für ein veganes Leben, weg vom Fleisch-Lobbyismus. Inwieweit dieser greift und sich auf lange Sicht durchsetzt, lässt sich heute noch schwer einschätzen. Man kann jedoch ganz klar von einem Hoffnungsschimmer sprechen.
 
@@ -61,6 +61,8 @@ Deutschland möchte bis 2030 30 Prozent der landwirtschaftlichen Erzeugnisse aus
 > "Wie und was wir essen, beeinflusst das Klima und die Lebensbedingungen aller Lebewesen auf unserem Planeten. wir müssen innerhalb der planetarischen Grenzen arbeiten und leben, damit wir und die uns nachfolgenden Generationen weiterhin ein gesundes und gutes Leben auf der Erde leben können."
 
 Die Umsetzung der Strategie soll 2025 losgehen. Die Bundesregierung hat angekündigt, sie bis Ende 2023 fertig auszuarbeiten.
+
+
 
 [^1] : [Eckpunktepapier: "Weg zur Ernährungsstrategie der Bundesregierung"](https://www.bmel.de/SharedDocs/Downloads/DE/_Ernaehrung/ernaehrungsstrategie-eckpunktepapier.pdf?__blob=publicationFile&v=4)
 
