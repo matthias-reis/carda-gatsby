@@ -52,7 +52,7 @@
     "react-instantsearch-dom": "^6.16.0",
     "react-typography": "^0.16.20",
     "rehype-autolink-headings": "^6.1.0",
-    "sharp": "^0.29.3",
+    "sharp": "^0.30.5",
     "ts-node": "^10.4.0",
     "typescript": "^4.5.2",
     "typography": "^0.16.19",
