@@ -9,12 +9,11 @@ description: Lest jetzt mein Interview mit BRUIT ≤ Gitarrist und erfahrt alles
   über den Protestsong, den die Band zu ihrem Spotify-Boykott geschrieben hat.
   Dazu gibt es News zu den Album-Gerüchten!
 excerpt: Wenn Ihr Euch schon mal mit französischer Post-Music beschäftigt habt,
-  seid Ihr an BRUIT ≤ nicht vorbeigekommen. Sie sorgen mit ihrem
-  beeindruckenden, düsteren Sound für Aufsehen und stechen damit klar aus der
-  europäischen Szene hervor. Ich hatte schon ein paar Mal das Privileg, sie live
-  erleben zu dürfen und war jedes Mal beeindruckt. Jetzt hatte ich die
-  Gelegenheit Gitarrist Théophile Antolinos für ein Interview zu treffen und
-  habe sie natürlich genutzt.
+  sind Euch BRUIT ≤ ein Begriff. Sie sorgen mit ihrem beeindruckenden, düsteren
+  Sound für Aufsehen und stechen damit klar aus der europäischen Szene hervor.
+  Ich hatte schon ein paar Mal das Privileg, sie live erleben zu dürfen und war
+  jedes Mal beeindruckt. Jetzt hatte ich die Gelegenheit Gitarrist Théophile
+  Antolinos für ein Interview zu treffen und habe sie natürlich genutzt.
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-1-jpg-imagine-080808_494949_1024_768/640.webp
 copyrigt: BRUIT ≤
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-og-jpg-imagine-080808_494949_1200_628/640.webp
@@ -32,7 +31,7 @@ affiliate: false
 language: de
 languageLink: /2023/02/bruit-interview-en/
 ---
-**Wenn Ihr Euch schon mal mit französischer Post-Music beschäftigt habt, seid Ihr an BRUIT ≤ nicht vorbeigekommen. Sie sorgen mit ihrem beeindruckenden, düsteren Sound für Aufsehen und stechen damit klar aus der europäischen Szene hervor. Ich hatte schon ein paar Mal das Privileg, sie live erleben zu dürfen und war jedes Mal beeindruckt. Jetzt hatte ich die Gelegenheit Gitarrist Théophile Antolinos für ein Interview zu treffen und habe sie natürlich genutzt.**
+**Wenn Ihr Euch schon mal mit französischer Post-Music beschäftigt habt, sind Euch BRUIT ≤ ein Begriff. Sie sorgen mit ihrem beeindruckenden, düsteren Sound für Aufsehen und stechen damit klar aus der europäischen Szene hervor. Ich hatte schon ein paar Mal das Privileg, sie live erleben zu dürfen und war jedes Mal beeindruckt. Jetzt hatte ich die Gelegenheit Gitarrist Théophile Antolinos für ein Interview zu treffen und habe sie natürlich genutzt.**
 
 Vor Kurzem zogen BRUIT ≤ die Aufmerksamkeit mit ihrem Manifest gegen den Musik-Streaming-Service Spotify auf sich. Mit "The Boycott Manifesto" bringen sie ihren Ärger über die Ausbeutung von Künstler⋆innen durch das Portal und ihren Inhaber zum Ausdruck – und gegen die Ungerechtigkeit des Algorithmus, mit dem heute der Erfolg einer Band steht und fällt. Die Themen bieten natürlich jede Menge Gesprächsmaterial – schließlich betreffen sie uns alle irgendwie. Ich wollte sie mir also mit all ihren Aspekten anschauen.
 
@@ -40,7 +39,7 @@ Vor Kurzem zogen BRUIT ≤ die Aufmerksamkeit mit ihrem Manifest gegen den Musik
 
 **Théophile:** Hi! Mir geht es gut! Ich freue mich auf den Austausch!
 
-**Anne:** Ihr habt gerade Eure letzte Single "The Boycott Manifesto" veröffentlicht. Es ist als eine brutale Kritik an Spotify und all den Algorithmen gedacht, die heute die Musikszene von den Fans trennt und Menschen dazu bringt, nur noch die Musik zu hören, die ihnen automatisch vorgeschlagen wird. Diese Umgebung macht es für alternative Musikprojekte noch schwieriger, Ihre Musik rauszubringen und ihre Platten zu verkaufen. Ich liebe Euer Statement und denke, dass Ihr es genau im richtigen Moment veröffentlicht habt. Gratulation also dazu! Seid Ihr zufrieden mit Eurer Arbeit? Wie sind die Reaktionen bis jetzt?
+**Anne:** Ihr habt gerade Eure letzte Single "The Boycott Manifesto" veröffentlicht. Es ist als eine brutale Kritik an Spotify und all den Algorithmen gedacht, die heute die Musikszene von den Fans trennt und Menschen dazu bringt, nur noch die Musik zu hören, die ihnen automatisch vorgeschlagen wird. Diese Umgebung macht es für alternative Musikprojekte noch schwieriger, ihre Musik rauszubringen und ihre Platten zu verkaufen. Ich liebe Euer Statement und denke, dass Ihr es genau im richtigen Moment veröffentlicht habt. Gratulation also dazu! Seid Ihr zufrieden mit Eurer Arbeit? Wie sind die Reaktionen bis jetzt?
 
 ## "Wir mussten 'The Boycott Manifesto' unbedingt veröffentlichen!"
 
