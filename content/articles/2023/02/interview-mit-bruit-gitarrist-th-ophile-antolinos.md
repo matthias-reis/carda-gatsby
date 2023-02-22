@@ -71,7 +71,7 @@ Weißt Du, wenn ich mir morgen eine Dokumentation über die Schäden, die fossil
 
 **Théophile:** Ich weiß es nicht. Ich bin jung, meine Band gibt es noch nicht so lange und ich denke nicht, dass ich das Recht habe, die Art von Ratschlag zu geben. Mit diesem Projekt versuchen wir nur uns aus unserer täglichen Situation zu lösen, in der wir im Moment ein bisschen festsitzen. Spotify und all das gab es schon, bevor ich zum ersten Mal eine Gitarre in die Hand genommen habe. Unsere Generation ist gefangen darin und jedes Jahr wachsen die Monopole weiter, sie gewinnen immer mehr an Bedeutung und haben immer mehr Einfluss auf die Künstler⋆innen. Es wird in Zukunft also vermutlich alles noch viel krasser. Vielleicht sorgt die Aktion ja auch zusätzlich noch für etwas Aufmerksamkeit auf die beschissene Situation, in der sich die Bands heutzutage befinden. Das wäre schön.
 
-Wie ist es möglich, dass Spotify Boss Daniel Ek in KI-Waffen investiert? Sollten nicht Musikfans die Besitzer des größten Tors zur Musikwelt sein? Was meinst Du, warum die Menschen nicht  über derartige Dinge sprechen? Es ist ja mit Musk und Twitter genau dasselbe.
+**Anne:**  Wie ist es möglich, dass Spotify Boss Daniel Ek in KI-Waffen investiert? Sollten nicht Musikfans die Besitzer des größten Tors zur Musikwelt sein? Was meinst Du, warum die Menschen nicht  über derartige Dinge sprechen? Es ist ja mit Musk und Twitter genau dasselbe.
 
 ## "﻿Ein System, in dem alles käuflich ist"
 
