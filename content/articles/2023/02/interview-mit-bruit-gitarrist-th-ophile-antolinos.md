@@ -88,7 +88,7 @@ Es steckt leider keine Bewegung hinter dem Ganzen. Wir bräuchten eine größere
 
 Insgesamt dreht sich immer alles um dasselbe politische Problem. Wie bei Gafam, die in Europa keine Steuern zahlen. Unsere sogenannten Wohlfahrtsstaaten, die sich selbst als das Licht der Welt und die großen Verteidiger der Demokratie ausgeben, sehen immer noch weg, wenn es darum geht, das große Geld zu machen. Immerhin hat die Sacem (die Copyright-Schutz-Organistation in Frankreich) es zur Kenntnis genommen und wir haben eine Kulturministerin.
 
-Heute wiegen die Ultrareichen so schwer, dass sie ganze Staaten mit einem Fingerschnippen verändern können. Letztlich ist das ein Verlust an Demokratie für uns und ein Verlust an Legitimität für unsere Politiker⋆innen.
+Heute wiegen die Ultrareichen so schwer, dass sie die Regeln mit einem Fingerschnippen verändern können. Letztlich ist das ein Verlust an Demokratie für uns und ein Verlust an Legitimität für unsere Politiker⋆innen.
 
 **Anne:** Was meinst Du, warum heute immer mehr Menschen "Convenience-Musik" haben wollen? Du weißt schon, diese computergenerierten Playlists, eine Single nach der anderen, unterschiedlichste Künstler⋆innen. Trotzdem scheint es alles dasselbe zu sein. Manchmal fühle ich mich wie ein Alien, weil ich mir Albums anhöre und ihre Geschichten von der ersten Note bis zum Schlussakkord verfolge. Ich war immer der Meinung, dass es genau das ist, was Musik so faszinierend macht. Oder bin ich einfach nur ein Nerd? Was stimmt denn da nicht mit der Welt? Wenn man eine der Streaming-Plattformen aufmacht, dreht sich alles nur noch um Singles. Wollen die Leute keine Alben mehr hören?
 
