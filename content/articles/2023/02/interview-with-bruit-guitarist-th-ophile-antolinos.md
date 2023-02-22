@@ -3,8 +3,9 @@ date: 2023-02-22T15:51:36.342Z
 slug: bruit-interview-en
 typeName: Interview
 title: Interview with BRUIT ≤ Guitarist Théophile Antolinos
-subTitle: '"Criticising your lifestyle is and unpleasant form of critique"'
+subTitle: '"Sometimes you need to assume a weakness to turn it into an asset"'
 seoTitle: Interview with BRUIT ≤ Guitarist Théophile Antolinos
+ogTitle: ""
 description: Please enjoy my interview with BRUIT ≤ guitarist Théophile
   Antolinos and learn everything about the band's protest song and their Spotify
   boycott. There is also news about the album rumours!
@@ -58,7 +59,7 @@ You know, if I watch a documentary tomorrow about the damage fossil fuels cause,
 
 **Anne:** I thought some people might find it provocative that "The Boycott Manifesto" is the first-ever BRUIT ≤ song you released on streaming platforms like Spotify. But I also think you're making a good point, telling the truth. I like your comparison with the environmental topic, and I think it's the same with veganism—things that make people think about their behaviour tend to provoke them. But it also leads to change in the long run, so it's a good thing! So, how did you come up with this idea? I think it's pretty brilliant, by the way!
 
-## "Sometimes you need to assume a weakness to turn it into an asset"
+## "Criticising your lifestyle is and unpleasant form of critique"
 
 **Théophile:** Thanks. I don't think we really had a choice. It was the only way to be heard on this issue. Occasionally, the best way to turn a weakness into an asset is to assume it. So, we had to explain our choice rather than undergo it and answer dozens of messages asking us when we would put our songs online on the platforms. And so, when we thought about this idea of a parasite, we quickly understood that this track wouldn't make sense only on Bandcamp. Especially if someone looks for our music on Spotify today, he has all the answers to his questions in this track.
 
