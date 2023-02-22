@@ -3,7 +3,7 @@ date: 2023-02-22T15:51:36.342Z
 slug: bruit-interview-en
 typeName: Interview
 title: Interview with BRUIT ≤ Guitarist Théophile Antolinos
-subTitle: '"Sometimes you need to assume a weakness to turn it into an asset"'
+subTitle: '"Sometimes you need to accept a weakness to turn it into an asset"'
 seoTitle: Interview with BRUIT ≤ Guitarist Théophile Antolinos
 ogTitle: ""
 description: Please enjoy my interview with BRUIT ≤ guitarist Théophile
@@ -61,7 +61,7 @@ You know, if I watch a documentary tomorrow about the damage fossil fuels cause,
 
 ## "Criticising your lifestyle is and unpleasant form of critique"
 
-**Théophile:** Thanks. I don't think we really had a choice. It was the only way to be heard on this issue. Occasionally, the best way to turn a weakness into an asset is to assume it. So, we had to explain our choice rather than undergo it and answer dozens of messages asking us when we would put our songs online on the platforms. And so, when we thought about this idea of a parasite, we quickly understood that this track wouldn't make sense only on Bandcamp. Especially if someone looks for our music on Spotify today, he has all the answers to his questions in this track.
+**Théophile:** Thanks. I don't think we really had a choice. It was the only way to be heard on this issue. Occasionally, the best way to turn a weakness into an asset is to accept it. So, we had to explain our choice rather than undergo it and answer dozens of messages asking us when we would put our songs online on the platforms. And so, when we thought about this idea of a parasite, we quickly understood that this track wouldn't make sense only on Bandcamp. Especially if someone looks for our music on Spotify today, he has all the answers to his questions in this track.
 
 **Anne:** The rest of your catalogue can only be bought on vinyl or via Bandcamp. And your fans love this fact a lot. I think most of us can pretty much agree with your decision to keep your music away from Spotify & Co. and respect you for that. Do you think you would've sold more music if you'd joined the platforms with it?
 
