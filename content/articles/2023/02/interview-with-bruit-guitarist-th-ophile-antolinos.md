@@ -3,7 +3,7 @@ date: 2023-02-22T15:51:36.342Z
 slug: bruit-interview-en
 typeName: Interview
 title: Interview with BRUIT ≤ Guitarist Théophile Antolinos
-subTitle: '"Criticising your lifestyle is and unpleasant way of critique"'
+subTitle: '"Criticising your lifestyle is and unpleasant form of critique"'
 seoTitle: Interview with BRUIT ≤ Guitarist Théophile Antolinos
 description: Please enjoy my interview with BRUIT ≤ guitarist Théophile
   Antolinos and learn everything about the band's protest song and their Spotify
