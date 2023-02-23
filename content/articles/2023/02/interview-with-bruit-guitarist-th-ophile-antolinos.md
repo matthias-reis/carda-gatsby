@@ -31,7 +31,7 @@ affiliate: false
 language: en
 languageLink: /2023/02/bruit-interview/
 ---
-**If you've ever listened to French post-music, you probably know BRUIT ≤. They have been causing riots with their impressive, dark sounds and clearly stand out on the European scene. I've had the privilege of seeing them live a few times and have always been thrilled. Now I had the opportunity for an with guitarist Théophile Antolinos, and of course, I took it.**
+**If you've ever listened to French post-music, you probably know BRUIT ≤. They have been causing riots with their impressive, dark sounds and clearly stand out on the European scene. I've had the privilege of seeing them live a few times and have always been thrilled. Now I had the opportunity for an interview with guitarist Théophile Antolinos, and of course, I took it.**
 
 Most recently, BRUIT ≤ attracted attention with their manifesto against the music streaming service Spotify. With "The Boycott Manifesto", they express, among other things, their resentment against the exploitation of artists by the portal and its operator—as well as the arbitrariness of the algorithms, to which everything is at the mercy of today. The topic offers plenty to talk about and, of course, affects us all somewhere. That's why I wanted to look into this point with all its details.
 
