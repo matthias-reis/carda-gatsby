@@ -128,11 +128,11 @@ Das neue Album von Psychonaut erschien am 28. Oktober auf Pelagic Records. Ich h
 
 <YouTube id="p2uZmeDsauU" />
 
-## Die Dezember-Playlist auf YouTube
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUJioJXp-AxNs_cdc14GsN8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <Playlist
   spotify="4fC0QCrm232wwSvJK9glW7?si=724df9b9a36e401a"
   itunes="2022-12-01-rock-n-roll-vegan/pl.u-o9y1h3ye8ea"
 />
+
+## Die Dezember-Playlist auf YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUJioJXp-AxNs_cdc14GsN8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

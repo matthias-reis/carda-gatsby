@@ -109,13 +109,13 @@ Valentin und Matze haben wie jeden Monat ihre derzeitigen Hör-Favoriten beigest
 
 <YouTube id="B2tB2qGhacg" />
 
+<Playlist
+  spotify="3lUl6m9TLTo5j4MXUtUfQX?si=dff8c9dcfa4b4dba"
+  itunes="2022-10-26-rock-n-roll-vegan/pl.u-KLXWtvegag0"
+/>
+
 ## Die November-Musikliste auf YouTube
 
 Letzten Monat habe ich mal was Neues ausprobiert und unsere Playlist auch auf YouTube verfügbar gemacht. Weil das gut funktioniert hat, teile ich die aktuelle hiermit auch dort mit Euch. Ich verspreche jetzt mal noch nicht, dass ich das immer machen werde, ich finde es für den Moment aber eine ziemlich schöne Sache. Was meint Ihr?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUKNaB3oO215-3sv0ph13QP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<Playlist
-  spotify="3lUl6m9TLTo5j4MXUtUfQX?si=dff8c9dcfa4b4dba"
-  itunes="2022-10-26-rock-n-roll-vegan/pl.u-KLXWtvegag0"
-/>

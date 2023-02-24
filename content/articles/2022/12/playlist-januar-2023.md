@@ -122,11 +122,11 @@ Auch Valentin hat wieder drei ganz besondere Stücke für Euch gepickt:
 
 <YouTube id="_u-7rWKnVVo" />
 
-## Die Januar-Playlist auf YouTube
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oULMZFYCXkYN6Ta6YZdWBWi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <Playlist
   spotify="5M6cTWXMvu5oXwHElwjpYq?si=35ccb1d15ba741d9"
   itunes="2022-12-28-rock-n-roll-vegan/pl.u-89AliXeGBGJ"
 />
+
+## Die Januar-Playlist auf YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oULMZFYCXkYN6Ta6YZdWBWi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
