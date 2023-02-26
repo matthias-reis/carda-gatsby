@@ -122,4 +122,4 @@ Weiter geht es mit Matzes Songs. Er hat diesen Monat unter anderem ein bisschen 
 
 ## Die Februar-Playlist auf YouTube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUKhu8bWmyrQPN1LZc2tOMUr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="aspect-ratio: 16 / 9; width: 100%" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUKhu8bWmyrQPN1LZc2tOMUr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

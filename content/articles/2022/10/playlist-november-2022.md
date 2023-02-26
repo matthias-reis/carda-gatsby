@@ -118,4 +118,4 @@ Valentin und Matze haben wie jeden Monat ihre derzeitigen Hör-Favoriten beigest
 
 Letzten Monat habe ich mal was Neues ausprobiert und unsere Playlist auch auf YouTube verfügbar gemacht. Weil das gut funktioniert hat, teile ich die aktuelle hiermit auch dort mit Euch. Ich verspreche jetzt mal noch nicht, dass ich das immer machen werde, ich finde es für den Moment aber eine ziemlich schöne Sache. Was meint Ihr?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUKNaB3oO215-3sv0ph13QP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="aspect-ratio: 16 / 9; width: 100%" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUKNaB3oO215-3sv0ph13QP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

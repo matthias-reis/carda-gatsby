@@ -127,4 +127,4 @@ Nochmal Avantgarde, dieses Mal aus Italien. Bosco Sacro haben ihr neues Album "G
 
 ## Die Februar-Playlist auf YouTube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oULMZFYCXkYN6Ta6YZdWBWi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="aspect-ratio: 16 / 9; width: 100%" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oULMZFYCXkYN6Ta6YZdWBWi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
