@@ -132,13 +132,6 @@ ${
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        path: `${__dirname}/content/wordpress/articles`,
-        name: 'wordpress',
-      },
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
         path: `${__dirname}/content/config`,
         name: 'config',
       },

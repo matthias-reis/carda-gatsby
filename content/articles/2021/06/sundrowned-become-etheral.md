@@ -1,66 +1,67 @@
 ---
-date: 2021-05-02T17:21:42.000Z
+date: 2021-06-16T14:09:42.000Z
 labels:
-  - Sundrowned
-  - Norway
+  - Jone Amundsen Piscopo
+  - Post-Metal
   - Post-Rock
-  - Post-Black-Metal
-  - Metal
+  - Blackgaze
+  - Haugesund
+  - Norwegen
+  - English & German
+  - Bands
   - Review
   - Reviews
   - Atmospheric Post-Metal
-  - Post-Metal
-  - Blackgaze
-  - Haugesund
-  - Bands
-  - English & German
-  - Jone Amundsen Piscopo
-language: en
-slug: sundrowned-become-etheral-en
+  - Post-Black-Metal
+  - Metal
+  - Sundrowned
+language: de
+slug: sundrowned-become-etheral
 typeName: Review
-title: Sundrowned – "Become Etheral"
-subTitle: Post-Black Metal From Norway
-seoTitle: Sundrowned – "Become Etheral" – Post-Black Metal From Norway
+title: '"Become Etheral" von Sundrowned'
+subTitle: Post-Black-Metal aus Norwegen
+seoTitle: Sundrowned – "Become Etheral" – Post-Black-Metal aus Norwegen
 ogTitle: ""
-description: On Friday, Sundrowned will release their debut album "Become
-  Etheral". I have already listened to it and strongly recommend it to you. It
-  is a marvellous piece of work that you definitely shouldn't miss.
-excerpt: ""
+description: Am Freitag erscheint "Become Etheral" von Sundrowned Ich habe schon
+  mal reingehört und empfehle Euch das Album hiermit.
+excerpt: English & German – Am Freitag erscheint "Become Etheral" von Sundrowned
+  Ich habe schon mal reingehört und empfehle Euch das Album hiermit. Es handelt
+  sich dabei um ein grandioses Gesamtwerk, das Ihr unbedingt anhören solltet.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/473924-jpg-imagine-0878b8_067cb7_1440_1080/640.webp
 copyright: Sundrowned
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sundrowned-fb-jpg-imagine-0868a8_087cb6_1200_628/640.webp
-focusKeyword: ""
+focusKeyword: Sundrowned
 advertisement: false
 affiliate: false
-languageLink: /2021/06/sundrowned-become-etheral
+languageLink: /2021/06/sundrowned-become-etheral-en
 ---
 
-**On Friday, Sundrowned will release their debut album "Become Etheral". I have already listened to it and strongly recommend it to you. It is a marvellous piece of work that you definitely shouldn't miss.**
+**Am Freitag erscheint "Become Etheral" von Sundrowned Ich habe schon mal reingehört und empfehle Euch das Album hiermit. Es handelt sich dabei um ein grandioses Gesamtwerk, das Ihr unbedingt anhören solltet.**
 
-Drowning in the sun and dissolving into an ethereal figure of light – whether the album is about that is a wild guess. But it's not just the title and band name that stimulate the imagination and provide a strong pitch for stories.
+In der Sonne ertrinken und sich dabei in eine ätherische Lichtgestalt auflösen – ob das Album davon handelt, ist eine wilde Vermutung. Doch nicht nur Titel und Bandname regen die Fantasie an und bilden eine starke Steilvorlage für Geschichten.
 
-The post-black metal band from Haugesund, Norway, released their debut on Fisisk Format. Ørjan Kristoffersen Lund (NAG, Avast, Agenda) from Bridge Burner Recording Studio in Stavanger produced the record. Brad Boatright (From Ashes Rise, Sleep, Nails) from Audioseige took care of the mastering. It was an essential part of his work to preserve a certain clarity for the individual notes despite the reverberant and heavy sound.
+Die Post-Black-Metal Band stammt aus dem norwegischen Haugesund. Ihr Debüt erscheint auf Fisisk Format. Produziert wurde es von Ørjan Kristoffersen Lund (NAG, Avast, Agenda) vom Bridge Burner Recording Studio in Stavanger. Gemastert hat die Platte Brad Boatright (From Ashes Rise, Sleep, Nails) von Audioseige. Bei seiner Arbeit war es ihm besonders wichtig, den einzelnen Noten trotz des halligen und schweren Klangs eine gewisse Klarheit zu bewahren.
 
-## Sundrowned combines lightness and heavy riffs
+## Sundrowned verbinden Leichtigkeit und harte Riffs
 
 ![Sundrowned – "Become Etheral"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/708576-jpg-imagine-48b8f8_60bfef_1440_1440/640.webp 'Sundrowned – "Become Etheral"')
 
-Sundrowned's sound is partly reminiscent of bands like Rosetta and Alcest but follows a different approach. The focus lies on atmospheric sounds and melancholic melodies. The heavy riffs are more like a strong background that holds everything together – but that doesn't detract from the joy.
+Der Sound erinnert in Teilen an Bands wie Rosetta und Alcest verfolgt aber andere Ansätze. Der Fokus liegt auf atmosphärischen Klängen und melancholischen Melodien. Harte Riffs stehen eher im Hintergrund. Doch das tut der Freude keinen Abbruch.
 
-Sundrowned is mostly the solo project of Jone Amundsen Piscopo. Aron Eggertsson, Gabriel Innocent, and Markus Jakobsen supported him on the record, and they also accompany him during his live performances.
+Hinter dem Namen Sundrowned steckt vor allem das Solo-Projekt von Jone Amundsen Piscopo. Bei der Aufnahme der Platten haben ihn Aron Eggertsson, Gabriel Innocent und Markus Jakobsen unterstützt. Die drei begleiten ihn auch bei seinen Live-Auftritten.
 
-Solid metal allusions follow the soft and light moments on "Become Ethereal". This gives it a well-balanced amount of drive and leads to perfect equilibrium. The dreamy parts do not seem too extended and do not overload the album at all.
+Weiche und leichte Momente werden auf "Become Etheral" von starken Metal-Anspielungen abgelöst. Das sorgt für eine wohl ausgeglichene Balance – die verträumten Parts wirken keineswegs zu ausgedehnt und überladen das Album nicht.
 
-## Alchemy and the search for perfection
+## Alchemie und die Suche nach Perfektion
 
-"Become Ethereal" is the prelude of an album series with three parts that sees the colourful facets of humanity through the lens of classical alchemy – in search of perfection.
+"Become Ethereal" ist der Auftakt einer dreiteiligen Album-Serie, die die bunten Facetten der Menschheit durch die Linse klassischer Alchemie sieht – auf der Suche nach Perfektion.
 
-Jone Amundsen Piscopo took up the concept of a soul that exists in the form of memories. His music is about both – the actions that influence us and how the people around us shape our personality and emotional state overtimes.
+Jone Amundsen Piscopo greift damit das Konzept einer in Form von Erinnerungen bestehenden Seele auf. Seine Stücke drehen sich sowohl um die Handlungen, die uns beeinflussen, also auch darum, wie die Menschen, die uns umgeben, unsere Persönlichkeit und unseren emotionalen Zustand formen.
 
-Norwegian artist Bernhard Østebø designed the album cover during an art performance that took place at a Sundrowned concert. He improvised charcoal drawings while the band played. Later they became the artwork or the record.
+Das Albumcover hat der norwegische Künstler Bernhard Østebø während einer Kunst-Performance gestaltet, die während einem Sundrowned Konzert stattfand. Während die Band spielte, improvisierte er Kohlezeichnungen, die anschließen für das Artwork übernommen wurden.
 
-Through this fragile technique, Bernhard has managed to create a clear and almost formless visual style that perfectly complements the aesthetics of the music.
+Durch diese fragile Technik ist es Bernhard gelungen, einen klaren und nahezu formlosen visuellen Stil zu erschaffen, der die Ästhetik der Musik perfekt ergänzt.
 
-## Sundrowned - "Etheral"
+## Sundrowned – "Etheral"
 
 <YouTube id="KzhPvnkk938" />

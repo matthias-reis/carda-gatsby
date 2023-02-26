@@ -16,6 +16,10 @@ if (typeof window !== 'undefined' && g === window) {
 }
 
 export const pageView = (title: string, url: string) => {
+  // post message to cardatron
+  if (window.self !== window.top) {
+    parent.postMessage(url, '*');
+  }
   gtag('page_view', {
     page_title: title,
     page_location: `${globalThis.location.origin}${globalThis.location.pathname}`,

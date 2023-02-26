@@ -124,13 +124,6 @@ ${((_j = edge.node.frontmatter) === null || _j === void 0 ? void 0 : _j.language
         {
             resolve: 'gatsby-source-filesystem',
             options: {
-                path: `${__dirname}/content/wordpress/articles`,
-                name: 'wordpress',
-            },
-        },
-        {
-            resolve: 'gatsby-source-filesystem',
-            options: {
                 path: `${__dirname}/content/config`,
                 name: 'config',
             },

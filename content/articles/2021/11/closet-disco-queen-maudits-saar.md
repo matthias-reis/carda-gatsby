@@ -1,17 +1,17 @@
 ---
-date: 2021-11-19T15:32:37.306Z
-slug: closet-disco-queen-maudits-saar-en
+date: 2021-11-19T15:48:54.793Z
+slug: closet-disco-queen-maudits-saar
 typeName: Review
 title: Closet Disco Queen, Maudits & SaaR
-subTitle: Three records for the weekend
-seoTitle: Closet Disco Queen, Maudits & SaaR – records for the weekend
-description: For a relaxed weekend, I have three quick music tips from
-  Klonosphere Records for you. They come from Closet Disco Queen, Maudits and
-  SaaR. All three bands have recently released new records.
-excerpt: For a relaxed weekend, I have three quick music tips for you today –
-  Klonosphere Records dropped me a line and send them over. They come from
-  Closet Disco Queen, Maudits and SaaR. All three bands have recently released
-  new records.
+subTitle: Drei Platten fürs Wochenende
+seoTitle: Closet Disco Queen, Maudits & SaaR – Musik fürs Wochenende
+description: Für ein entspanntes Wochenende habe ich drei besondere Platten
+  ausgesucht. Sie kommen von Closet Disco Queen, Maudits und SaaR. Alle drei
+  Bands haben vor Kurzem neue Tonträger veröffentlicht.
+excerpt: Für ein entspanntes Wochenende habe ich heute drei schnelle Musiktipps
+  für Euch, die mir von Klonosphere Records zugespielt wurden. Sie kommen von
+  Closet Disco Queen, Maudits und SaaR. Alle drei Bands haben vor Kurzem neue
+  Tonträger veröffentlicht.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/musik-wochenende-jpg-imagine-080808_625b52_1024_768/640.webp
 copyrigt: Closet Disco Queen, SaaR, Maudits
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/musik-wochenende-fb-1-png-imagine-080808_5c5750_1200_628/640.webp
@@ -33,70 +33,70 @@ labels:
 focusKeyword: Maudits
 advertisement: false
 affiliate: false
-language: en
-languageLink: /2021/11/closet-disco-queen-maudits-saar/
+language: de
+languageLink: /2021/11/closet-disco-queen-maudits-saar-en/
 ---
 
-**For a relaxed weekend, I have three quick music tips for you today – Klonosphere Records dropped me a line and send them over. They come from Closet Disco Queen, Maudits and SaaR. All three bands have recently released new records.**
+**Für ein entspanntes Wochenende habe ich heute drei schnelle Musiktipps für Euch, die mir von Klonosphere Records zugespielt wurden. Sie kommen von Closet Disco Queen, Maudits und SaaR. Alle drei Bands haben vor Kurzem neue Tonträger veröffentlicht.**
 
 ## SaaR – "Gods"
 
-SaaR formed in Paris in 2010. The post-metal collective sees its influences in bands like Bossk, Russian Circle, Cult of Luna and Isis. The band's music is a mixture of post-rock and heavy post-metal with beautiful ethereal moments here and there.
+SaaR gründeten sich 2010 in Paris. Das Post-Metal Kollektiv sieht seine Einflüsse in Bands wie Bossk, Russian Circle, Cult of Luna und Isis. Die Musik der Band ist eine Mischung aus Post-Rock und hartem Post-Metal – mit schönen ätherischen Momenten hier und da.
 
-![SaaR - "Gods" – Album Cover (Skyscraper with clouds in black and white)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/saar-jpeg-imagine-383838_6d6d6d_425_425/640.webp "SaaR – \\"Gods\\"")
+![SaaR – "Gods" Plattencover (Hochhaus mit Wolkenhimmel)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/saar-jpeg-imagine-383838_6d6d6d_425_425/640.webp "SaaR – \"Gods\"")
 
-Their style is both: intense and varied. The new LP now follows their first two albums and an EP and split LP series. "God"  is a concept album based on the epic poems of Homer. The band takes up mythological themes from the epic story of Ulysses, which Homer describes in his Odyssey.
+Was intensiv und abwechslungsreich klingt, ist es auch. Auf die ersten beiden Alben und eine EP- und Split-LP-Serie folgt jetzt die neue LP "God". Dabei handelt es sich um ein Konzept-Album auf der Basis der Heldengedichte von Homer. Die Band greift darin mythologische Themen aus der epischen Geschichte des Odysseus auf, die Homer in seiner Odyssee schildert.
 
-The record comprises seven instrumental compositions plus one piece ("Truth"), which features Julien Sournac from Wolve as a guest vocalist. SaaR created it to be listened to and experienced in one cohesive pass. They invite us to join them on their progressive journey into the bowels of existence in a godless world.
+Die Platte umfasst insgesamt sieben Instrumentalkompositionen plus ein Stück ("Truth"), bei dem Julien Sournac von Wolve als Gastsänger zu hören ist. SaaR haben sie dafür geschaffen, sie in einem zusammenhängenden Durchgang zu hören und zu erleben. Sie laden uns dazu ein, sie auf ihrer progressiven Reise in die Eingeweide der Existenz, in einer gottlosen Welt.
 
-"God" was recorded, mixed and mastered by Francis Caste at Sainte-Marthe Studios. The record is out today, November 19th, on Klonosphere Records.
+Aufgenommen, abgemischt und gemastert hat "God" Francis Caste in den Sainte-Marthe Studios. Die Platte ist am heutigen 19. November auf Klonosphere Records erschienen.
 
-SaaR are: Alexandre Le Mouroux (guitars), Boris Patchinsky (bass), Julien Taubregeas (drums) and Yann Desti (guitars).
+SaaR sind: Alexandre Le Mouroux (Gitarren), Boris Patchinsky (Bass), Julien Taubregeas (Drums) und Yann Desti (Gitarren).
 
-## SaaR - "Gods"
+## SaaR – "Gods" zum Reinhören
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1943744856/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://saar.bandcamp.com/album/gods-2">GODS by SaaR</a></iframe>
 
-![SaaR (The Band sitting in the studio in front of their instruments) | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/saar-jpg-imagine-b8b898_8f8876_1024_768/640.webp "SaaR")
+![SaaR (Die Band sitzt auf dem Boden vor ihren Instrumenten) | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/saar-jpg-imagine-b8b898_8f8876_1024_768/640.webp "SaaR")
 
 ## Maudits – "Angel Mort"
 
-The second record I recommend to you today comes from Maudits. The also Paris based sound collective released "Angel Mort" directly after their critically acclaimed debut album "Maudis" on November 5th.
+Die zweite Platte, die ich Euch heute empfehle, stammt von Maudits. Das ebenfalls aus Paris stammende Klangkollektiv veröffentlichte "Angel Mort" direkt im Anschluss an das von der Kritik hochgelobte Debüt-Album "Maudis" am 5. November.
 
-![Maudits – "Angel Mort" album cover (Pencil drawing of a hand grapping a flower in the high grass)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/maudits-jpeg-imagine-e8e8e8_979797_425_419/640.webp "Maudits – \\"Angel Mort\\"")
+![Maudits – "Angel Mort" Plattencover (Eine Bleistiftzeichnung von einer Hand, die im hohen Gras nach einer zerbrochenen Blume greift)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/maudits-jpeg-imagine-e8e8e8_979797_425_419/640.webp "Maudits – \"Angel Mort\"")
 
-COVID-19 and three defeats the band had to accept bought Maudits some time to work on new pieces. So the artists managed to distract themselves as best they could in times of social distancing – and this distraction sounds good! "Angel Mort" is definitely a worthy successor to "Maudits".
+COVID-19 und drei Niederlagen, welche die Band hinnehmen musste, verschafften Maudits etwas Zeit,  an neuen Stücken zu arbeiten. So schafften die Künstler⋆innen es, sich in Zeiten von Social Distancing so gut es geht abzulenken - und diese Ablenkung klingt wirklich gut! "Angel Mort" ist auf jeden Fall ein würdiger Nachfolger für "Maudits".
 
-The record consists of two new compositions and three reworked, restructured and re-recorded songs you can also find on the first album. When Maudits started recording it in cooperation with Henosis Studios, who had also been on board for the first album, their vision about what they wanted to do was crystal-clear. The reinterpretation has succeeded so well that the pieces could almost be called completely new songs.
+Die Platte besteht aus zwei neuen Kompositionen und drei überarbeiteten, neu strukturierten und neu aufgenommenen Songs, die auch bereits auf dem ersten Album zu finden waren. Die Vision war bei der Zusammenarbeit mit den Henosis Studios, die auch schon beim ersten Album im Boot waren, war von Anfang an klar. Diese Neuinterpretation ist so gut gelungen, dass man die Stücke fast als komplett neue Songs bezeichnen könnte.
 
-They enriched their recordings with atmospheric and ethereal soundscapes. Raphaël Verguin's cello adds a ghostly mood to the overall sound of Maudits.
+Die Aufnahmen sind mit atmosphärischen und ätherischen Klanglandschaften angereichert. Raphaël Verguins Cello verleiht dem Gesamtsound von Maudits eine geisterhafte Stimmung.
 
-The new confined album underlines the band members' quest for freedom and their insatiable need to keep exploring the realms of their musical world.
+Das neue Kurz-Album unterstreicht das Streben der Bandmitglieder nach Freiheit und ihr unstillbarer Bedürfnis, die Bereiche ihrer musikalischen Welt zu immer weiterzuerkunden.
 
-## Maudits - "Résilience 2021" live at Incivil Tragedia Workshop (Solo Version)
+## Maudits – "Résilience 2021" live at Incivil Tragedia Workshop (Solo Version)
 
 <YouTube id="0T4ojBcJqVU" />
 
-![Maudits (Two humans hiding their eyes behind their hands) | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/maudits-jpg-imagine-080808_331f0c_1024_768/640.webp "Maudits")
+![Maudits (Zwei Menschen halten sich mit den Händen die Augen zu) | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/maudits-jpg-imagine-080808_331f0c_1024_768/640.webp "Maudits")
 
-## Closet Disco Queen - "Stadium Rock For Punk Bums"
+## Closet Disco Queen – "Stadium Rock For Punk Bums"
 
-The vinyl press hasn't completely cooled down from ["Omelette du Fromage"](/2021/08/closet-disco-queen-the-flying-raclettes-omelette-du-fromage/) yet, and there comes a new record from Closet Disco Queen.
+Auch Closet Disco Queen haben schon wieder was Neues draußen, kaum, dass die Vinylpresse, aus der ["Omelette du Fromage"](/2021/08/closet-disco-queen-the-flying-raclettes-omelette-du-fromage/) erst vor Kurzem ratsgehüpft ist, abgekühlt ist.
 
-![Closet Disco Queen - "Stadium Rock For Punk Bums" album cover (black and white abstract coming drawing of a face)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/closet-disco-queen-jpeg-imagine-f8f8f8_c9c6c2_425_425/640.webp "Closet Disco Queen - \\"Stadium Rock For Punk Bums\\"")
+![Closet Disco Queen – "Stadium Rock For Punk Bums" Plattencover (Abstrakte Comic-Zeichnung von einem Gesicht)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/closet-disco-queen-jpeg-imagine-f8f8f8_c9c6c2_425_425/640.webp "Closet Disco Queen – \"Stadium Rock For Punk Bums\"")
 
-The band's founders Luc Hess and Jona Nido are anything but blank slates in the Swiss music scene. They get around quite a bit through their band Coilguns and as backing musicians for singer/songwriter Loui Jucker. Jona Nido is also the founder of the La Chaux-de-Fonds-based record label Hummus Records, home to Emilie Zoé, Rorcal, Ester Poly, Coilguns, Stéphane Blok, Rorcal and Dirty Sound Magnet, among others. Closet Disco Queen also released their complete discography there.
+Die Bandgründer Luc Hess und Jona Nido sind in der Schweizer Musikszene alles andere, als unbeschriebene Blätter. Durch ihre Band Coilguns und als Begleitmusiker des Singer/Songwriters Loui Jucker kommen sie ziemlich viel rum. Jona Nido ist  außerdem der Gründer des in La Chaux-de-Fonds ansässigen Plattenlabels Hummus Records, auf dem unter zum Beispiel Emilie Zoé, Rorcal, Ester Poly, Coilguns, Stéphane Blok, Rorcal und Dirty Sound Magnet zu Hause sind. Auch die komplette Diskografie von Closet Disco Queen ist dort erschienen.
 
-The project was born initially out of a joke in 2014 when Coilguns had just taken a break. Since then, the duo released a studio album, two EPs and a live album. They also toured the globe for over three years. In 2016, Baroness invited Closet Disco Queen to be their direct support for an EU tour.  In 2017 the duo hit the road with Red Fang.
+Das Projekt entstand ursprünglich aus einem Scherz im Jahr 2014. Coilguns hatten damals gerade eine Pause eingelegt. Seitdem hat das Duo ein Studioalbum, zwei EPs und ein Live-Album auf den Markt geworfen. Zudem tourten die beiden über drei Jahre lang rund um den Globus. Im Jahr 2016 wurden Closet Disco Queen von Baroness als Direct Support für eine EU-Tour eingeladen, 2017 war das Duo dann mit Red Fang unterwegs.
 
-Closet Disco Queen played at the London and Berlin editions of Desert Fest and have been guests at several Swiss festivals such as the Montreux Jazz Festival, Festi'Neuch and the Palp Festival. Palp Festival offered the band the opportunity to create an exclusive set which they first performed there on August 8th 2021. At this point, the two-piece became a band with two additional members, calling themselves "The Flying Raclettes". They released the first album they recorded together ("Omelette du Fromage") on September 3rd on Hummus Records. The rest is history.
+Closet Disco Queen spielten sowohl bei der Londoner als auch bei der Berliner Ausgabe des Desert Fest und waren bereits auf mehreren Schweizer Festivals wie dem Montreux Jazz Festival, dem Festi'Neuch oder dem Palp Festival zu Gast. Letzteres bot der Band die Möglichkeit, ein exklusives Set zu kreieren, das am 8. August 2021 im Rahmen des Festivals zum ersten Mal präsentiert wurde. Zu diesem Zeitpunkt wurde aus dem Zweiergespann dann eine Band mit zwei zusätzlichen Mitgliedern, die sich "The Flying Raclettes" nannten. Ihr erstes gemeinsames Album "Omelette du Fromage" erschien am 3. September auf Hummus Records. So schließt sich der Kreis.
 
-The title of the new EP, "Stadium Rock For Punk Bums", is a nod to 2017's "Sexy Audio Deviance for Punk Bums" and part of a new unique collection of 12-inch vinyl singles. The "Hummus 12'' Maxi Collection" is pressed exclusively on clear or transparent coloured vinyl. The record comes in a picture disc-like sleeve with a minimalist graphic design. Side A of the vinyl contains the music, while side B features an original drawing by guitarist Jona Nido, screen-printed by Out of Gas in La Chaux-de-Fonds.
+Der Titel der neuen EP "Stadium Rock For Punk Bums" ist eine Anspielung auf die "Sexy Audio Deviance for Punk Bums" von 2017 und Teil einer neuen Sammlung von 12-Zoll-Vinyl-Singles. Die "Hummus 12'' Maxi-Kollektion" wird ausschließlich auf transparentem oder transparent gefärbtem Vinyl gepresst. Die Platte ist in einer Picture-Disc-artigen Hülle mit minimalistischem Grafikdesign untergebracht. Seite A des Vinyls enthält die Musik, während Seite B eine Originalzeichnung des Gitarristen Jona Nido enthält, die von Out of Gas in La Chaux-de-Fonds im Siebdruckverfahren hergestellt wurde.
 
-And the music? The music is outstanding! It is exciting, extremely creative, experimental and exceptional! Listen to the record; you won't regret it. The mix of stoner, punk and metal will be in the stores on December 3rd. But you can already check it out here.
+Und die Musik? Die Musik macht einfach nur Spaß! Sie ist herausragend, spannend, fantastisch musikalisch und außergewöhnlich! Hört Euch die Platte an, Ihr werdet es nicht bereuen. Der Mix aus Stoner, Punk und Metal erscheint am 3. Dezember. Ihr könnt hier aber schon mal reinhören.
 
-## Closet Disco Queen - "Stadium Rock For Punk Bums"
+## Closet Disco Queen – "Stadium Rock For Punk Bums" zum Reinhören
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=158460481/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://closetdiscoqueen.bandcamp.com/album/stadium-rock-for-punk-bums">Stadium Rock for Punk Bums by Closet Disco Queen</a></iframe>
 
-![Closet Disco Queen standing in their rehearsal room | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/closet-disco-jpg-imagine-080808_000000_1024_768/640.webp "Closet Disco Queen")
+![Closet Disco Queen (Die Bandmitglieder sitzen und stehen im Proberaum unter einer Lampe) | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/closet-disco-jpg-imagine-080808_000000_1024_768/640.webp "Closet Disco Queen")
