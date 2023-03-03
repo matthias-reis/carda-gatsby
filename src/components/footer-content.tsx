@@ -5,10 +5,9 @@ import { H3Deco } from './typo';
 import signatureImage from '../assets/signature-image.jpg';
 import {
   IconPinterest,
-  IconTwitter,
+  IconMastodon,
   IconInstagram,
-  IconFacebook,
-  IconBloglovin,
+  IconLinkedIn,
 } from './icons';
 
 import { event } from './analytics';
@@ -46,26 +45,6 @@ export const FooterContent: React.FC = () => (
         <NetworkList>
           <li>
             <NetworkItem
-              href="http://pinterest.com/annereko/boards/"
-              target="_blank"
-              onClick={() => event('link/click', 'link', 'footer/pinterest')}
-            >
-              <IconPinterest />
-              Pinterest
-            </NetworkItem>
-          </li>
-          <li>
-            <NetworkItem
-              href="https://twitter.com/Anne_Reko"
-              target="_blank"
-              onClick={() => event('link/click', 'link', 'footer/twitter')}
-            >
-              <IconTwitter />
-              Twitter
-            </NetworkItem>
-          </li>
-          <li>
-            <NetworkItem
               href="https://www.instagram.com/anne_reko/"
               target="_blank"
               onClick={() => event('link/click', 'link', 'footer/instagram')}
@@ -76,22 +55,33 @@ export const FooterContent: React.FC = () => (
           </li>
           <li>
             <NetworkItem
-              href="https://www.facebook.com/cardamonchai"
+              href="https://mstdn.social/@anne_reko"
               target="_blank"
-              onClick={() => event('link/click', 'link', 'footer/facebook')}
+              rel="me"
+              onClick={() => event('link/click', 'link', 'footer/mastodon')}
             >
-              <IconFacebook />
-              Facebook
+              <IconMastodon />
+              Mastodon
             </NetworkItem>
           </li>
           <li>
             <NetworkItem
-              href="http://www.bloglovin.com/blog/2889954/cardamonchai"
+              href="http://pinterest.com/annereko/boards/"
               target="_blank"
-              onClick={() => event('link/click', 'link', 'footer/bloglovin')}
+              onClick={() => event('link/click', 'link', 'footer/pinterest')}
             >
-              <IconBloglovin />
-              Bloglovin
+              <IconPinterest />
+              Pinterest
+            </NetworkItem>
+          </li>
+          <li>
+            <NetworkItem
+              href="https://www.linkedin.com/in/anne-reis/"
+              target="_blank"
+              onClick={() => event('link/click', 'link', 'footer/linkedin')}
+            >
+              <IconLinkedIn />
+              LinkedIn
             </NetworkItem>
           </li>
         </NetworkList>
