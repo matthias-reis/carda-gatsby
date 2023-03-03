@@ -38,7 +38,7 @@ Mit im Preis der Division für humane Bildung bei PETA ist eine Kiste mit kosten
 
 ![Ein schwarzes Metallschild steht auf einer Wiese mit Pflanzen im Hintergrund. Die grüne Aufschrift auf weißem Grund lautet: "Atlas Vegan Community School Nurs & Primary". Darüber ist das Logo der Schule zu sehen: ein Emblem mit einem vierbeinigen Tier und einer lesenden Person](https://storage.googleapis.com/cardamonchai-media/2023-03-03/vegane-schule-luv4all-2-jpg-imagine-d8d8d8_656756_1024_768/640.webp "Die vegane Schule bereitet die Kinder auf das Leben vor. Bild/Picture LUV4ALL")
 
-Ins Leben gerufen hat die vegane Schule die Charity-Organisation LUV4ALL. In der Atlas Vegan Community School lernen die Kinder einen rücksichtsvollen Umgang mit allen Lebewesen und der Umwelt. Der Lehrplan ist speziell an Uganda angepasst. Dort breiten sich die Schlafkrankheit, an der sich Menschen durch den Stich der Tsetse-Fliege anstecken und andere Zoonosen immer rasanter aus. Die Menschen dort sind von den Auswirkungen der Klimakatastrophe nicht nur damit schon heute direkt betroffen. Ein Hauptgrund dafür liegt in der Fleisch-, Milch- und Eierindustrie.
+Ins Leben gerufen hat die vegane Schule die Charity-Organisation LUV4ALL[^1]. In der Atlas Vegan Community School lernen die Kinder einen rücksichtsvollen Umgang mit allen Lebewesen und der Umwelt. Der Lehrplan ist speziell an Uganda angepasst. Dort breiten sich die Schlafkrankheit, an der sich Menschen durch den Stich der Tsetse-Fliege anstecken und andere Zoonosen immer rasanter aus. Die Menschen dort sind von den Auswirkungen der Klimakatastrophe nicht nur damit schon heute direkt betroffen. Ein Hauptgrund dafür liegt in der Fleisch-, Milch- und Eierindustrie.
 
 Die Kinder erfahren in der Atlas Vegan Community School, wie sie  durch einen veganen Lebenswandel nachhaltig zu einer gesünderen Welt und zum Klimaschutz beitragen können. Auch der Punkt Lebensmittelverschwendung durch Tierausbeutung steht auf dem Lehrplan. Die Schule erklärt das so:
 
@@ -66,11 +66,11 @@ Die Schule arbeitet derzeit noch am Ausbau ihrer Infrastruktur. Im Moment gibt e
 
 Das Ziel der Atlas Vegan Community School ist es, dass die Kinder aufblühen, glücklich sind und einer glücklichen Zukunft entgegenblicken können. Um das zu erreichen, unterstützt sie die Kinder, fördert die Liebe fürs Lernen und ermutigt sie, neue Wege zu gehen, um sich ein gutes Leben aufzubauen.
 
-> "Wir wollen, dass sie verantwortungsvoll und ehrlich im Sinne der Gemeinschaft handeln, mitfühlend und rücksichtsvoll."
+> "Wir wollen, dass sie verantwortungsvoll und ehrlich im Sinne der Gemeinschaft handeln, mitfühlend und rücksichtsvoll."[^2]
 
 Durch die nahrhaften veganen Gerichte, welche die Kinder in der Schule zu sich nehmen, lernen sie einen gesunden Umgang mit Nahrungsmitteln. Zudem erfahren sie, wo die Zutaten auf ihren Tellern herkommen – sie sollen lernen, Verantwortung für die Lebensmittelversorgung zu übernehmen. Aus diesem Grund säten und ernteten sie auf einem Acker neben der Schule gemeinsam mit ihren Lehrer⋆innen Bohnen. Sie werden jetzt in der Schulküche nach und nach verarbeitet.
 
 Bilder/Pictures: [LUV4ALL](https://loveforalluganda.org/)
 
-[LUV4ALL](https://loveforalluganda.org/tag/vegan-school/)
-[UG Standard](https://www.ugstandard.com/ugandas-first-vegan-school-opens-to-protect-children-from-zoonotic-disease/)
+[^1]: [LUV4ALL](https://loveforalluganda.org/tag/vegan-school/)
+[^2]: [UG Standard](https://www.ugstandard.com/ugandas-first-vegan-school-opens-to-protect-children-from-zoonotic-disease/)
