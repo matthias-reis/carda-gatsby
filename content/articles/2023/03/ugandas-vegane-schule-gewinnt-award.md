@@ -42,7 +42,7 @@ Ins Leben gerufen hat die vegane Schule die Charity-Organisation LUV4ALL[^1]. In
 
 Die Kinder erfahren in der Atlas Vegan Community School, wie sie  durch einen veganen Lebenswandel nachhaltig zu einer gesünderen Welt und zum Klimaschutz beitragen können. Auch der Punkt Lebensmittelverschwendung durch Tierausbeutung steht auf dem Lehrplan. Die Schule erklärt das so:
 
-> "Wer sich ausschließlich vegan ernährt, verschont nicht nur jedes Jahr zahlreiche Tiere, sie verringert auch ihren CO<sub>2</sub>-Fußabdruck dramatisch und hilft dabei, zukünftige Pandemien zu verhindern."
+> "Wer sich ausschließlich vegan ernährt, verschont nicht nur jedes Jahr zahlreiche Tiere, er⋆sie verringert auch seinen⋆ihren CO<sub>2</sub>-Fußabdruck dramatisch und hilft dabei, zukünftige Pandemien zu verhindern."
 
 Viele Forschenden schreiben [COVID-19](/2020/04/inger-andersen-un-covid-19/), [BSE](/2021/10/rinderwahnsinn/), Ebola, SARS, die [Vogelgrippe](/2021/06/vogelgrippe-h10n3-bei-menschen/) und die Schweinegrippe vor allem der Haltung und Schlachtung von Tieren zu. Zahlreiche Dokumentationen zeigen, [wie die Tierhaltung uns krank macht](/2020/08/the-end-of-medicine/).
 
