@@ -6,6 +6,7 @@ import { Workplace } from './Workplace';
 const cardatronTheme = createTheme({
   palette: {
     mode: 'dark',
+    primary: { main: '#96c6a7', main: '#96c6a7' },
   },
 });
 

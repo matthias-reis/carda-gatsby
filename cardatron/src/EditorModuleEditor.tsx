@@ -233,9 +233,9 @@ export const EditorModuleEditor: FC = () => {
                   }
                 />
                 <Typography variant="h5">Tags</Typography>
-                <Stack direction="row" flexWrap="wrap" gap={2}>
+                <Stack direction="row" flexWrap="wrap" gap={1}>
                   {currentArticle.labels.map((label) => (
-                    <Chip label={label} />
+                    <Chip label={label} onDelete={() => {}} />
                   ))}
                 </Stack>
                 <Typography variant="h5">Werbung</Typography>
