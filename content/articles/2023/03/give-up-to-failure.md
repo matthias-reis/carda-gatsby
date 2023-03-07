@@ -103,4 +103,4 @@ Give Up To Failure are Mark Magick Krzysztof "Krzysiek" Młyńczak, Dominik Pó�
 
 <YouTube id="sh8X-smzy-I" />
 
-[Rafał Wekiera aka @rawekio on Instagram](https://www.instagram.com/rawekio/)
+[^1]: [Rafał Wekiera aka @rawekio on Instagram](https://www.instagram.com/rawekio/)
