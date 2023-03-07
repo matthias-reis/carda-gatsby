@@ -30,7 +30,7 @@ affiliate: false
 language: de
 languageLink: /2023/03/give-up-to-failure-interview-en/
 ---
-**Ich habe ein inspirierendes Gespräch mit Mark und Krzysiek von Give Up To Failure geführt. Die insgesamt fünf Musiker⋆innen aus Wrocław, Polen liefern großartige Post-Music – geprägt von den faszinierendsten Genres. Ihr aktuelles Album "Cocoon" handelt von Liebe, Depressionen, Selbstzerstörung, Schlaflosigkeit, Hilfeschreien und dem Versuch, sich selbst zu finden und ein besser Mensch zu werden.*
+**Ich habe ein inspirierendes Gespräch mit Mark und Krzysiek von Give Up To Failure geführt. Die insgesamt fünf Musiker⋆innen aus Wrocław, Polen liefern großartige Post-Music – geprägt von den faszinierendsten Genres. Ihr aktuelles Album "Cocoon" handelt von Liebe, Depressionen, Selbstzerstörung, Schlaflosigkeit, Hilfeschreien und dem Versuch, sich selbst zu finden und ein besser Mensch zu werden.**
 
 **Anne:** Hi! Danke, dass Ihr Euch die Zeit für das Interview nehmt! Wie geht es Euch heute? Ihr habt gerade Euer neues Album "Cocoon" veröffentlicht – das übrigens ziemlich brilliant ist. Seit Ihr mit dem Ergebnis Eurer Arbeit zufrieden?
 
