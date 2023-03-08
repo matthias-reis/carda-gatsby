@@ -41,6 +41,8 @@ Chlorophyll-Wasser ist also in aller Munde. Doch was steckt hinter dem grünen B
 - Hilft Heißhunger zu vermeiden
 - Stabilisiert den Blutzuckerspiegel
 
+<Gallery name="chlorophyll-wasser-1" />
+
 Verschiedene Studien liefern bereits Belege für diese positiven Auswirkungen von Chlorophyll. Dass viel grünes Gemüse gesund ist, wissen wir schon seit unserer Kindheit. Dass Chlorophyll zum Beispiel den Blutzuckerspiegel stabilisiert, wurde bereits in der Vergangenheit mehrfach wissenschaftlich belegt. Das ist auch einer der Gründe, warum so viel Ernährungsberater⋆innen zum Konsum von grünen Smoothies & Co. raten. Die Forschenden gehen außerdem davon aus, dass Chlorophyll die Bildung von Kollagen erhöht und damit unter anderem die Hautalterung verlangsamen kann und vor äußeren Einflüssen wie Sonnenbrand schützt. (Auf das tägliche Auftragen von Hautpflege mit Lichtschutzfaktor sollte man natürlich dennoch niemals verzichten!) Auch die Stärkung des Bindegewebes und die Gesundheit von Blutgefäßen, Sehnen, Bändern und Knorpel werden der Kollagen-Synthese zugeordnet.
 
 Mit seiner chemischen Struktur ist der grüne Pflanzenstoff unserem roten Blutfarbstoff Hämoglobin sehr ähnlich. Die einzige Ausnahme ist, dass als bei Hämoglobin Eisen der zentrale Bestandteil ist, beim Chlorophyll ist es Magnesium.
@@ -70,3 +72,5 @@ Da ich durch meine [Endometriose](/2023/02/endometriose/) immer auf meine Eisenw
 Insgesamt kann ich das Chlorophyll-Wasser jedem⋆er ans Herz legen, der⋆die auf seine Gesundheit achtet und gerne etwas für sein allgemeines Wohlbefinden und sein Hautbild tun möchte. Um es mal auszuprobieren, seid Ihr mit [den Chlorophyll-Tropfen von Nutri Plus](https://tidd.ly/3JpEvWt) gut beraten.
 
 Die Tropfen von Nutri Plus enthalten 50 ml flüssiges Chlorophyll. Es wird aus spanischem Alfalfa gewonnen. In der Flasche befindet sich eine praktische Pipette, mit der ihr die Tropfen ganz einfach dosieren könnt. Zusätze sind keine enthalten, es handelt sich um reines Chlorophyllin – ein Naturprodukt. Wie alles aus dem Hause Nutri Plus sind auch [die Chlorophyll-Tropfen](https://tidd.ly/3JpEvWt) zu 100 Prozent vegan und frei von Laktose, Milcheiweiß oder anderen tierische Inhaltsstoffen.
+
+<Gallery name="chlorophyll-wasser-2" />
