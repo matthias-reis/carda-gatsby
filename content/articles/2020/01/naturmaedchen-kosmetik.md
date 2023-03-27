@@ -78,7 +78,7 @@ Für naturmädchen werden die Samen kaltgepresst. In ihnen stecken zwischen 24 u
 
 ## Veganes Hyaluron
 
-Bis zu einem 20-fachen des Gewichts an Wasser kann von Hyaluronsäure gespeichert werden. Das erklärt eigentlich schon ziemlich genau, warum sie in der Kosmetik so gerne eingesetzt wird. Der Körper produziert selbst Hyaluron als Bestandteil des Bindegewebes. Es hilft, Feuchtigkeit zu speichern und unsere Gelenke zu "schmieren". Weil wir es selbst im Körper haben, gilt es als besonders verträglich.
+Bis zu einem 1000-fachen ihres Eigengewichts an Wasser kann Hyaluronsäure speichern – Das erklärt auch schon ziemlich genau, warum sie in der Kosmetik so gerne eingesetzt wird. Der Körper produziert selbst Hyaluron als Bestandteil des Bindegewebes. Es hilft, Feuchtigkeit zu speichern und unsere Gelenke zu "schmieren". Weil wir es selbst im Körper haben, gilt es als besonders verträglich.
 
 Wenn wir älter werden, sinkt der Hyaluronanteil der Haut, weil das Hyaluronidase Enzym aktiver wird. Die Haut wird dadurch nach und nach trockener. Auch in meinen naturmädchen Produkten steckt vegane Hyaluronsäure (hochmolekular und niedermolekular). Sie ist selbstverständlich frei von Gentechnik.
 
