@@ -17,7 +17,8 @@ moment.locale('de');
 export const ArticleListGridItem: React.FC<{
   article: CompactArticle;
   content: string;
-}> = ({ article, content }) => {
+  isLarge?: boolean;
+}> = ({ article, content, isLarge = false }) => {
   const isAd = article.advertisement;
   const isAffiliate = article.affiliate;
   const isAdOrAffiliate = isAd || isAffiliate;
@@ -47,7 +48,11 @@ export const ArticleListGridItem: React.FC<{
         <Type>{article.typeName || 'Beitrag'}</Type>
         <ImageContainer>
           {article.image && (
-            <ImageForList alt={article.title} src={article.image} />
+            <ImageForList
+              alt={article.title}
+              src={article.image}
+              isLarge={isLarge}
+            />
           )}
           {(article.remoteLoadingImage ?? null) && (
             <CardaImage

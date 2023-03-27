@@ -81,6 +81,7 @@ export const HomePage: React.FC<{
         <ArticleList
           articles={availableArticles.slice(0, 3)}
           content="home/top3"
+          isLarge
         />
       </ContentSection>
       <FooterContent />

@@ -16,7 +16,8 @@ export const ArticleList: React.FC<{
   maxArticles?: number;
   content: string;
   type?: 'grid' | 'horizontal';
-}> = ({ articles, maxArticles, content, type = 'grid' }) => {
+  isLarge?: boolean;
+}> = ({ articles, maxArticles, content, type = 'grid', isLarge = false }) => {
   if (maxArticles) {
     articles = articles.slice(0, maxArticles);
   }
@@ -26,7 +27,9 @@ export const ArticleList: React.FC<{
       {articles.map((article, i) => {
         const Comp =
           type === 'grid' ? ArticleListGridItem : ArticleListHorizontalItem;
-        return <Comp article={article} content={content} key={i} />;
+        return (
+          <Comp article={article} content={content} key={i} isLarge={isLarge} />
+        );
       })}
     </List>
   );
