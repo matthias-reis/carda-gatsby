@@ -35,12 +35,14 @@ export class Imagine {
   get webpSrcSet() {
     return srcSetSizes
       .map((size) => `${this.getUrl(`${size}.webp`)} ${size}w`)
+      .reverse()
       .join(', ');
   }
 
   get jpegSrcSet() {
     return srcSetSizes
       .map((size) => `${this.getUrl(`${size}.jpg`)} ${size}w`)
+      .reverse()
       .join(', ');
   }
 }
