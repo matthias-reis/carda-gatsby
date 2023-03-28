@@ -62,7 +62,7 @@ Wenn Ihr Eurem Teint über Nacht etwas Gutes tun wollt, empfehle ich Euch die [H
 
 Wenn Ihr durchschnittliche bis trockene Haut habt, könnt Ihr die   Hyaluron Performance Creme und die [Hyaluron Performance Nachtcreme](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2Fproduct%2Fhyaluron-nachtcreme) abends abwechselnd verwenden. Solltet Ihr zu geröteter, irritierter oder sehr trockener Haut neigen, könnt Ihr die Nachtcreme jeden Abend auftragen. Ihr könnt sie mit allen Produkten aus der Hyaluron-Serie von Cosphera kombinieren.
 
-**Tipp von Cosphera:** Gebt die Hyaluron Nachtcreme auch mal großzügig als intensive Pflegekur und Nachtmaske auf – Ihr werdet das Ergebnis lieben.
+**Tipp von Cosphera:** Tragt die Hyaluron Nachtcreme auch mal großzügig als intensive Pflegekur und Nachtmaske auf – Ihr werdet das Ergebnis lieben.
 
 ## Darum pflege ich meine Haut mit veganem Hyaluron
 
