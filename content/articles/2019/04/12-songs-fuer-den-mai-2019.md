@@ -163,7 +163,7 @@ Und noch eine **Vorauskopplung** ! Das ist so unglaublich spannend dieses Mal! I
 
 ### Old Solar - "Spring Equinox: The Mountains Break Forth In Song" vom Album "See" (2019)
 
-Wer sich mal wieder so richtig verzaubern lassen möchte, der gibt sich den musikalischen Werken von **Old Solar** hin. Sie wird auf dunk!records gepresst und sprengt derzeit alle Bewertungen. Ich habe Euch "Spring Equinox: The Mountains Break Forth In Song" mitgebracht - nehmt Euch einfach mal acht Minuten und 19 Sekunden und lehnt Euch zurück. Vermutlich werdet Ihr danach das komplette Album hören wollen.
+Wer sich mal wieder so richtig verzaubern lassen möchte, der gibt sich den musikalischen Werken von **Old Solar** hin. Sie wird auf DUNK!records gepresst und sprengt derzeit alle Bewertungen. Ich habe Euch "Spring Equinox: The Mountains Break Forth In Song" mitgebracht - nehmt Euch einfach mal acht Minuten und 19 Sekunden und lehnt Euch zurück. Vermutlich werdet Ihr danach das komplette Album hören wollen.
 
 <YouTube id="RC1Wmm0VU14" />
 
