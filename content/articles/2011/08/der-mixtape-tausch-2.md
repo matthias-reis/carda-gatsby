@@ -223,7 +223,7 @@ Nach dem Hören und  auch nach der "Todesflug-Geschichte" ist mir klar geworden
 
 #### 10.) Voxtrott - "Indroduction"
 
-<YouTube id="_nCpuHLGS8w" />
+<YouTube id="wVrSXeRXSWE" />
 
 #### 11.) The Leisure Society - "A Fighting Chance"
 
@@ -235,7 +235,7 @@ Nach dem Hören und  auch nach der "Todesflug-Geschichte" ist mir klar geworden
 
 #### 13.) Gomez - "You, Me And Everybody"
 
-<YouTube id="nB0rg6nC344" />
+<YouTube id="THlMbZozSc0" />
 
 #### 14.) The Shins - "Phantom Limb"
 
@@ -274,7 +274,7 @@ Nach dem Hören und  auch nach der "Todesflug-Geschichte" ist mir klar geworden
 
 #### 22.) The Veils - "Wild Son"
 
-<YouTube id="a0R858JBOLI" />
+<YouTube id="UXwq_paHWVA" />
 
 #### 23.) Yo La Tengo - "Deeper Into Movies"
 
