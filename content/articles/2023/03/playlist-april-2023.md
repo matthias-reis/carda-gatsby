@@ -110,7 +110,7 @@ Kommen wir zu Matzes Songauswahl. Die gefällt mir mal wieder ausnehmend gut. Vi
 
 ## All Hands Make Light – "We live on a fucking Planet and Baby That's the Sun" (Vorauskopplung vom Album "Darling the Dawn")
 
-> Dieses Mal habe ich vier für mich komplett neue Acts ausgewählt. Das bedeutet natürlich nicht, dass sie komplett unbekannt sind. Hinter All Hands Make Light stecken zum Beispiel Godspeed You! Black Emperor Mastermind Efrim Menuck und der Kopf der Montrealer Post-Rock-Szene Ariel Engle (u. a. Broken Social Scene). Die Song-Strukturen sind so experimentell, wie ich sie von Godspeed You erwarten würde – hinzu kommen ein angenehm psychedelischer Twist und eine fantastische Stimme.
+> Dieses Mal habe ich vier für mich komplett neue Acts ausgewählt. Das bedeutet natürlich nicht, dass sie komplett unbekannt sind. Hinter All Hands Make Light stecken zum Beispiel die großartige Sängerin Ariel Engle (u. a. Broken Social Scene) sowie Godspeed You! Black Emperor Mastermind und Kopf der Montrealer Post-Rock-Szene Efrim Menuck. Die Song-Strukturen sind so experimentell, wie ich sie von Godspeed You erwarten würde – hinzu kommen ein angenehm psychedelischer Twist und eine fantastische Stimme.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=212653477/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://allhandsmakelight.bandcamp.com/album/darling-the-dawn">&quot;Darling The Dawn&quot; by ALL HANDS_MAKE LIGHT</a></iframe>
 
@@ -118,7 +118,7 @@ Kommen wir zu Matzes Songauswahl. Die gefällt mir mal wieder ausnehmend gut. Vi
 
 Und weiter geht es mit Valentins Songs. Auch hier trifft ausgezeichneter Geschmack auf musikalischen Höchstgenuss.
 
-> "Diesen Monat stelle ich Euch die polnische Black/Sludge/Post-Metal Entropia vor, die mit ihrem vierten Album 'Total' das pure Chaos entfachen. Ganz ehrlich? Sowas hat mir gefehlt! Hier passt für mich einfach alles – angefangen vom sehr eigenen Gitarren-Sound, über die komplexen Drums hin zu diesem wunderbaren Geschrei, dass einem einfach mal wieder gut tut, wenn man Bands wie Isis liebt. Ich habe mich hier für den Titeltrack entschieden, der ganze 15 Minuten dauert und alles auf dem Album miteinander verbindet. Viel Spaß damit!"
+> "Diesen Monat stelle ich Euch die polnische Black/Sludge/Post-Metal-Band Entropia vor, die mit ihrem vierten Album 'Total' das pure Chaos entfachen. Ganz ehrlich? Sowas hat mir gefehlt! Hier passt für mich einfach alles – angefangen vom sehr eigenen Gitarren-Sound, über die komplexen Drums hin zu diesem wunderbaren Geschrei, dass einem einfach mal wieder gut tut, wenn man Bands wie Isis liebt. Ich habe mich hier für den Titeltrack entschieden, der ganze 15 Minuten dauert und alles auf dem Album miteinander verbindet. Viel Spaß damit!"
 
 <YouTube id="fgLdW8r7DtM" />
 
