@@ -5,8 +5,8 @@ typeName: Beitrag
 title: Playlist April 2023
 subTitle: Von Amplifier bis HamaSaari
 seoTitle: Die alternative Playlist für den April 2023
-description: Ihr seid auf der Suche nach alternativer Musik, aber keine Idee, wo
-  Ihr anfangen sollt zu suchen? Ich empfehle Euch die Playlist für den April!
+description: Ihr seid auf der Suche nach alternativer Musik, habt aber keine
+  Idee, wo Ihr anfangen sollt zu suchen? Checkt mal die Playlist für den April!
 excerpt: Trotz widriger Umstände (Corona) habe ich heute die Playlist für den
   April für Euch. Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich die
   elf Songs in den letzten Tagen ausgesucht und mit Lobhudeleien versehen. Die
