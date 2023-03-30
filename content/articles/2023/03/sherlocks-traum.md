@@ -4,6 +4,7 @@ slug: escape-berlin-neue-location
 typeName: Beitrag
 title: '"Sherlocks Traum"'
 subTitle: Escape Game mit Gruselfaktor
+seoTitle: Spannende Escape Games in Berlin entdecken
 description: Lust auf ein spannendes Escape Game in Berlin? Escape Berlin wartet
   Euch auf! Mit spannenden Räumen von Party bis Horror!
 excerpt: 'Die Nachricht, dass meine Lieblings-Escape-Games von Escape Berlin in
