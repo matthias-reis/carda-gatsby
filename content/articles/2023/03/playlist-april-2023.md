@@ -62,7 +62,7 @@ Fans von The Charlatans, Jesus & Mary Chain, Brian Jonestown Massacre und Black 
 
 <YouTube id="vrCm96zrSyQ" />
 
-## The Flowers Of Hell – "Foray Through Keshakhtaran" vom Album "Foray Through Keshakhtaran".
+## The Flowers Of Hell – "Foray Through Keshakhtaran" vom Album "Foray Through Keshakhtaran"
 
 Das experimentelle Projekt The Flowers Of Hell aus Toronto hat sein neues Album "Keshakhtaran" über das britische Kultlabel Space Age Recordings (Heimat von Spacemen 3, Spectrum, Chapterhouse, Acid Mothers Temple und The Telescopes) veröffent. "Foray Through Keshakhtaran" ist für Euch der erste Vorgeschmack auf das erste Studioalbum der transatlantischen Gruppe seit sechs Jahren. Insgesamt haben 20 Künstler mitgewirkt, deren Einflüsse Ihr hören könnt. Darunter; Rishi Dhir (Elephant Stone, Brian Jonestown Massacre, The Black Angels, Beck) an der Sitar, die Harfenistin Sarah Pagé aus Montreal und die New Yorker Avant-Akkordeon-Legende ANGEL CORPUS CHRISTI (Suicide, Spiritualized, Dean Wareham), gemastert hat das Ganze Grammy-Preisträger Peter J. Moore (Bob Dylan, Joni Mitchell, Neil Young, Joe Strummer).
 
