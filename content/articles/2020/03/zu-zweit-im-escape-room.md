@@ -31,7 +31,7 @@ advertisement: true
 
 **Es war eine Nachricht von Escape Berlin vor ein paar Monaten, die mich auf eine Idee brachte: Wie ist es eigentlich zu zweit in einem Escape Room? Schafft man es da wieder raus?**
 
-Der Einladung, mir das größte Live Escape Theater Europas mal genauer anzuschauen, wollte ich gerne folgen. Das Abenteuer ließ sich nur allzu gut mit einem schönen Kurztrip nach Berlin verbinden.
+Der Einladung, mir das größte Live-Escape-Theater Europas mal genauer anzuschauen, wollte ich gerne folgen. Das Abenteuer ließ sich nur allzu gut mit einem schönen Kurztrip nach Berlin verbinden.
 
 Zu Weihnachten schenkte ich also Matze ein langes Wochenende in Berlin. Natürlich aber nicht einfach so. Als Fan von Rätseln und guten Kriminalgeschichten musste er erst ein Rätsel lösen. Mit Hilfe einer gut verpackten Lupe fand er schließlich Stück für Stück heraus, wo es hingehen würde: In einen spannenden Escape Room und in ein kleines gemütliches Hotel im Prenzlauer Berg.
 
