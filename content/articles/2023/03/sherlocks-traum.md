@@ -37,9 +37,9 @@ Europas größtes Live-Escape-Theater befindet sich jetzt direkt am Ausgang vom 
 
 Im Theater angekommen, wurden wir sehr herzlich in Empfang genommen und bekamen erst mal alles gezeigt. Unsere Jacken und Taschen schlossen wir im Spind ein und dann ging es auch schon los.
 
-Insgesamt gibt es im Moment acht unterschiedliche Escape Rooms bei Escape Berlin – darunter drei Sherlock Storys, ein Party-Escape-Spiel, eins für Kids und einen Horror-Escape-Room.
+Insgesamt gibt es im Moment acht unterschiedliche Escape Rooms bei Escape Berlin – darunter drei Sherlock-Storys, ein Party-Escape-Spiel, eins für Kids und einen Horror-Escape-Room.
 
-[Weil wir schon das letzte Mal aus einem Sherlock-Raum entkommen waren](/2020/03/zu-zweit-im-escape-room/), entschieden wir uns auch dieses Mal für eine Geschichte rund um den Meister-Detektiv. Dieses Mal war Sherlock nicht verschwunden, sondern wurde von Alpträumen geplagt. Um ihn davon zu befreien und ihm wieder ruhigen Schlaf zu verschaffen, mussten wir ein gruseliges Rätsel in seinem Kopf lösen. Im ersten Raum der Geschichte durfte ich ein paar Bilder machen. Ihr bekommt dadurch einen Eindruck von der wundervollen, detailgenauen Ausstattung des Spiels – die Gegenstände sind zum Großteil über 100 Jahre alt.
+[Weil wir schon das letzte Mal aus einem Sherlock-Raum entkommen waren](/2020/03/zu-zweit-im-escape-room/), entschieden wir uns auch dieses Mal für eine Geschichte rund um den Meister-Detektiv. Dieses Mal war Sherlock nicht verschwunden, sondern wurde von Alpträumen geplagt. Um ihn davon zu befreien und ihm wieder ruhigen Schlaf zu verschaffen, mussten wir ein gruseliges Rätsel in seinem Kopf lösen. Im ersten Raum der Geschichte durfte ich ein paar Bilder machen (normalerweise verschwinden Handys und Kameras natürlich vor dem Spiel im Spind). Ihr bekommt dadurch einen Eindruck von der wundervollen, detailgenauen Ausstattung des Spiels – die Gegenstände sind zum Großteil über 100 Jahre alt.
 
 <Gallery name="escape-berlin-2023-1" />
 
