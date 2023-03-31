@@ -33,7 +33,7 @@ language: de
 ---
 **Die Nachricht, dass meine Lieblings-Escape-Games von Escape Berlin in eine neue Location umgezogen sind, erreichte mich schon vor einigen Monaten. Jetzt hatte ich endlich die Gelegenheit, sie mir anzusehen. Wie bei meiner ersten "zu zweit im Escape Game Challenge" waren wir wieder zu zweit. Spoiler Alert: wir haben es wieder geschafft, zu entkommen! Dieses Mal sogar ein bisschen schneller als beim ersten Mal!**
 
-Europas größtes Live-Escape-Theater befindet sich jetzt direkt am Ausgang vom S-Bahnhof Landsberger Allee – die Anreise ist also wunderbar einfach. Wenn Ihr anschließend noch was Leckeres essen wollt, findet Ihr in der Umgebung jede Menge Restaurants und Cafés. Snacks und Getränke gibt es natürlich auch direkt bei Escape Berlin – Ihr braucht also nichts mitbringen, außer Euch selbst und Eure Neugierde.
+Europas größtes Live-Escape-Theater befindet sich jetzt direkt am Ausgang vom S-Bahnhof Landsberger Allee – die Anreise ist also wunderbar einfach. Wenn Ihr anschließend noch was Leckeres essen wollt, findet Ihr in der Umgebung jede Menge Restaurants und Cafés. Getränke gibt es natürlich auch direkt bei Escape Berlin – Ihr braucht also nichts mitbringen, außer Euch selbst und Eure Neugierde.
 
 Im Theater angekommen, wurden wir sehr herzlich in Empfang genommen und bekamen erst mal alles gezeigt. Unsere Jacken und Taschen schlossen wir im Spind ein und dann ging es auch schon los.
 
@@ -51,6 +51,6 @@ Matze und ich sind inzwischen schon "alte Hasen", wenn es um Escape Games geht u
 
 Insgesamt hat uns der Besuch bei Escape Berlin wieder großen Spaß gemacht und wir freuen uns schon auf das nächste Mal. Für uns wird es bestimmt wieder ein Treffen mit unserem Lieblings-Detektiv Sherlock Holmes geben – wir haben ihn wirklich ins Herz geschlossen. Inzwischen ist er für uns ein "alter Bekannter" und immer für eine gruselige Überraschung gut. Anschließend sehr Ihr noch ein paar Bilder aus dem Eingangsbereich von Escape Berlin. Da kommt schon richtig Rätselstimmung auf, oder?
 
-Escape Games eignen sich hervorragend für Teambuilding-Events, Familientage oder als Wochenendbeschäftigung für Paare und Gruppen. Wenn Ihr mehr wissen wollt, schaut doch mal bei [Escape Berlin vorbei](https://www.escape-berlin.de/de/)! [Sherlocks Traum findet Ihr hier](https://www.escape-berlin.de/de/live/11-sherlocks_traum/).
+Escape Games eignen sich hervorragend für Teambuilding-Events, Familientage oder als Wochenendbeschäftigung für Paare und Gruppen. Wenn Ihr mehr wissen wollt, schaut doch mal bei [Escape Berlin vorbei](https://www.escape-berlin.de/de/) oder bei [escape-game.org](https://www.escape-game.org/city/escape/) vorbei! [Sherlocks Traum findet Ihr hier](https://www.escape-berlin.de/de/live/11-sherlocks_traum/).
 
 <Gallery name="escape-berlin-2023-2" />
