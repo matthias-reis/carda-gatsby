@@ -49,7 +49,7 @@ Matze und ich sind inzwischen schon "alte Hasen", wenn es um Escape Games geht u
 
 Übrigens: seid Ihr Fans von Lasertag? Auch das könnt Ihr inzwischen bei Escape Berlin spielen! Wir haben eine Gruppe getroffen, die gerade eine Partie gespielt hatte und sie waren komplett begeistert. Auch hier lohnt sich die Anreise also auf jeden Fall.
 
-Insgesamt hat uns der Besuch bei Escape Berlin wieder großen Spaß gemacht und wir freuen uns schon auf das nächste Mal. Für uns wird es bestimmt wieder ein Treffen mit unserem Lieblings-Detektiv Sherlock Holmes geben – wir haben ihn wirklich ins Herz geschlossen. Inzwischen ist er für uns ein "alter Bekannter" und immer für eine gruselige Überraschung gut. Anschließend sehr Ihr noch ein paar Bilder aus dem Eingangsbereich von Escape Berlin. Da kommt schon richtig Rätselstimmung auf, oder?
+Insgesamt hat uns der Besuch bei Escape Berlin wieder großen Spaß gemacht und wir freuen uns schon auf das nächste Mal. Für uns wird es bestimmt wieder ein Treffen mit unserem Lieblings-Detektiv Sherlock Holmes geben – wir haben ihn wirklich ins Herz geschlossen. Inzwischen ist er für uns ein "alter Bekannter" und immer für eine gruselige Überraschung gut. Anschließend seht Ihr noch ein paar Bilder aus dem Eingangsbereich von Escape Berlin. Da kommt schon richtig Rätselstimmung auf, oder?
 
 Escape Games eignen sich hervorragend für Teambuilding-Events, Familientage oder als Wochenendbeschäftigung für Paare und Gruppen. Wenn Ihr mehr wissen wollt, schaut doch mal bei [Escape Berlin](https://www.escape-berlin.de/de/) oder bei [escape-game.org](https://www.escape-game.org/city/escape/) vorbei! [Sherlocks Traum findet Ihr hier](https://www.escape-berlin.de/de/live/11-sherlocks_traum/).
 
