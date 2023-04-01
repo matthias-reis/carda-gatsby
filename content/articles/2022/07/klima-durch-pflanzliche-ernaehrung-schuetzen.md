@@ -52,7 +52,7 @@ Der Frage, warum tierische Produkte für einen so hohen Ausstoß verantwortlich 
 * [Landnutzung](#landnutzung)
 * [Verdauung der Tiere](#verdauung-der-tiere)
 * [Düngung](#duengung)
-* [Produktionsketten und Energiebedarf](produktionsketten-und-energiebedarf)
+* [Produktionsketten und Energiebedarf](#produktionsketten-und-energiebedarf)
 
 Anschließend geht er auf die Klimavorteile pflanzlicher Ernährung ein.
 
