@@ -25,7 +25,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Es ist so weit, heute lasse ich die Katze aus dem Jutebeutel: nach langem Hin- und Her-Überlegen habe ich mich dazu entschieden, meinem Blog einen neuen Namen zu geben. Sagt hallo zu Sounds Vegan! Meine Themen werden sich weiter wie gewohnt um Veganismus und Musik drehen – und alles, was damit zusammenhängt.**
+**Es ist so weit, heute lasse ich die Katze aus dem Jutebeutel: nach langem Überlegen habe ich mich dazu entschieden, meinem Blog einen neuen Namen zu geben. Sagt hallo zu Sounds Vegan! Meine Themen werden sich weiter wie gewohnt um Veganismus und Musik drehen – und alles, was damit zusammenhängt.**
 
 Warum ich den Namen geändert habe? Zum einen fand ich, dass sich das "Rock 'n' Roll" nicht nur etwas sperrig liest, sondern der Begriff mich auch auf eine Art einschränkt und auch nicht wirklich zu den Musikarten, über die ich am meisten schreibe, passt: Post-Rock, Ambient, Post-Metal, Post-Hardcore, DIY, alle Arten von Post- und Heavy Music, Alternative und Indie. Natürlich haben all diese Genres ihren Ursprung, doch den hatte Rock 'n' Roll auch. Im Gegensatz zu einigen Menschen, die diesen Begriff groß herausgebracht haben, möchte ich diesen nicht ignorieren. Dennoch ist es für mich an der Zeit für eine neue Ära und ein kleines Glow-up.
 
