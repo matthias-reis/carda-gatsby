@@ -104,7 +104,7 @@ Das war der Beginn meiner veganen Lebensweise. Damals habe ich mir vorgenommen, 
 
 Viel schwieriger gestaltete sich die Veränderung bei den Schuhen. Daraus ist dann ja auch die Idee entstanden, Bahatika zu gründen.
 
-**Anne:** Viele Hersteller bieten ja Schuhe ohne Leder an, zeichnen sie aber nicht als vegan aus bzw. können das in vielen Fällen auch nicht, weil der verwendete Kleber nicht vegan ist. Warum ändert sich das nicht? Bis jetzt gibt es noch sehr wenige Schuhhersteller, die auch wirklich mit "vegan" werben.
+**Anne:** Viele Marken bieten ja Schuhe ohne Leder an, zeichnen sie aber nicht als vegan aus bzw. können das in vielen Fällen auch nicht, weil der verwendete Kleber nicht vegan ist. Warum ändert sich das nicht? Bis jetzt gibt es noch sehr wenige Schuhhersteller, die auch wirklich mit "vegan" werben.
 
 **Sheila:** Ich glaube wenn man mit "vegan" wirbt, muss man sich damit auch auseinandersetzen und selbst identifizieren können. Viele Menschen glauben dass die vegane Lebensweise sehr umständlich ist. Dabei wäre es ja so einfach wie zum Beispiel nur den verwendeten Kleber zu wechseln. Der erste Schritt ist immer schwierig und braucht leider immer einen Anstoß von Außen.
 

@@ -55,7 +55,7 @@ Pelztierhaltung ist äußerst qualvoll, die Tiere werden wider ihrer Natur in kl
 
 Die meisten hierzulande verkauften in unserer Mode verarbeiteten Pelze stammen aus dem Ausland. Es bleibt abzuwarten, ob es dort in Zukunft auch ein Verbot geben wird. Was besonders problematisch ist: Die Pelze stammen oft von Straßenhunden und –Katzen sowie anderen Kleintieren und sind in der Herstellung billiger, als aufwendig angefertigter, "falscher" Pelz.
 
-Auch in synthetischen Pelzen werden oft Teile oder Fasern aus diesen billigen, echten Pelzen eingearbeitet, rein um Geld zu sparen. Um die Mode, die bei uns in den Discountern hängt, so billig wie möglich zu halten, sind den Herstellern und Händlern alle Tricks recht.
+Auch in synthetischen Pelzen werden oft Teile oder Fasern aus diesen billigen, echten Pelzen eingearbeitet, rein um Geld zu sparen. Um die Mode, die bei uns in den Discountern hängt, so billig wie möglich zu halten, sind den herstellenden Firmen und Verkaufsstellen alle Tricks recht.
 
 ## Pelze sind keine Luxusgüter mehr
 

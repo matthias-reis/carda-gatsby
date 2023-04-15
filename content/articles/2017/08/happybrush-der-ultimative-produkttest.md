@@ -55,7 +55,7 @@ Die Leute von Happybrush versprechen auf ihrer Homepage effektive Reinigung durc
 
 ## Günstig und frei von Palmöl
 
-Das Happybrush Starterset mit Gerät, Ladestation und zwei Bürstenköpfen wird in weiß und schwarz angeboten. Ich habe mich für die rockige, schwarze Variante entschieden. Durch die besonders minimalistische Verpackung und den reinen Onlineverkauf entfallen für den Hersteller sämtliche Kosten für den Einzelhandel, teures Sponsoring, Werbung und Lizenzgebühren, darum kann die Happybrush zu einem relativ günstigen Preis angeboten werden. Mit 69,95 Euro ist das Starterset wesentlich günstiger, als das vieler althergebrachter Hersteller.
+Das Happybrush Starterset mit Gerät, Ladestation und zwei Bürstenköpfen wird in weiß und schwarz angeboten. Ich habe mich für die rockige, schwarze Variante entschieden. Durch die besonders minimalistische Verpackung und den reinen Onlineverkauf entfallen für das Unternehmen sämtliche Kosten für den Einzelhandel, teures Sponsoring, Werbung und Lizenzgebühren, darum kann die Happybrush zu einem relativ günstigen Preis angeboten werden. Mit 69,95 Euro ist das Starterset wesentlich günstiger, als das vieler althergebrachter Brands.
 
 Gegründet haben Happybrush Flo und Stefan. Sie beiden haben sich in vorherigen beruflichen Stationen bereits intensiv mit dem Thema Mundpflege beschäftigt. Beide haben bei großen Zahnpflegeherstellern gearbeitet. Sie sind also sozusagen vom Fach und wissen genau, worauf es ankommt. Dieses Jahr wurde den Gründern der _Red Dot Award_ für Qualität, Design und Funktionalität verliehen.
 

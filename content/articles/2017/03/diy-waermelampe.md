@@ -45,7 +45,7 @@ In den letzten Wochen habe ich mich aufgrund meiner Rückenprobleme mal wieder z
 
 Ich habe die Infrarot- Bestrahlung jedes Mal extrem genossen und richtig schön gemerkt, wie sich meine Muskeln lösen und der Schmerz nachlässt. Weil ich dieses Gefühl gerne häufiger erleben wollte, begann ich, mich nach Wärmelampen für zu Hause umzusehen.
 
-Das Ergebnis war ernüchternd. Entweder waren die Lampen winzig, stammten von windigen Herstellern, die darin verbauten Infrarot-Birnen waren mir zu schwach auf der Brust, oder sie waren schlichtweg einfach zu teuer.
+Das Ergebnis war ernüchternd. Entweder waren die Lampen winzig, stammten von windigen Herstellungsbetrieben, die darin verbauten Infrarot-Birnen waren mir zu schwach auf der Brust, oder sie waren schlichtweg einfach zu teuer.
 
 <RemoteImage
   alt={`Wärmelampe`}

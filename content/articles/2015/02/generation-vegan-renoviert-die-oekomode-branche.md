@@ -26,7 +26,7 @@ errors: {}
 subTitle: Vegane Mode braucht das Land
 ---
 
-**Bei ökologisch nachhaltiger Mode ging es bisher in erster Linie um eines: so wenig wie möglich Chemikalien zum Einsatz zu bringen. Die bekannten Hersteller ökologischer Kleidung verwendeten jedoch weiter munter Leder, Wolle und Co. für ihre Kollektionen.**
+**Bei ökologisch nachhaltiger Mode ging es bisher in erster Linie um eines: so wenig wie möglich Chemikalien zum Einsatz zu bringen. Die bekannten Ökokleidungs-Brands verwendeten jedoch weiter munter Leder, Wolle und Co. für ihre Kollektionen.**
 
 Sandalen aus Leder und Kinderunterwäsche aus Angora gehörten unter "Ökos" lange Zeit "zum guten Ton". Dass bei der Gewinnung dieser Materialien nicht nur Tiere ausgebeutet werden, sondern auch eine unglaubliche Menge an Ressourcen verbrannt wird, dazu schien man sich noch keine Gedanken zu machen.
 

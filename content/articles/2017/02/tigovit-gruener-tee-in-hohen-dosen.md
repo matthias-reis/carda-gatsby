@@ -100,7 +100,7 @@ Ich habe die Kapseln mal einem kleinen Praxistest unterzogen. Eingenommen habe i
 
 ## Und es ist wirklich vegan?
 
-Ja, ihr braucht Euch keine Sorgen machen. Der Hersteller beschreibt das auf seiner Seite folgendermaßen:
+Ja, ihr braucht Euch keine Sorgen machen. Der Herstellungsbetrieb beschreibt das auf seiner Seite folgendermaßen:
 
 > tigovit ist auch für Vegetarier und Veganer geeignet, enthält keine Konservierungsstoffe und ist gelatinefrei.
 

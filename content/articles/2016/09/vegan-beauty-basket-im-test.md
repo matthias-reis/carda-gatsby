@@ -74,7 +74,7 @@ Beim festen Parfum fiel meine Wahl auf die Sorte "Japanese Spring" mit der Duftn
 - "You Will Rock It" mit Vanille, Erdbeeren und Himbeeren sowie
 - "Naughty But Nice" mit einem Hauch Vanille, Bergamot und Zypressenöl.
 
-> Eve Butterfly Soaps ist eine kleine Manufaktur für handgemachte Naturkosmetik aus Worms, schon beim Einkauf der Rohstoffe unterstützt die Manufaktur insbesondere Hersteller für fair gehandelte und aus kontrolliert biologischem Anbau stammende Produkte
+> Eve Butterfly Soaps ist eine kleine Manufaktur für handgemachte Naturkosmetik aus Worms, schon beim Einkauf der Rohstoffe unterstützt die Manufaktur insbesondere Herstellungsbetriebe für fair gehandelte und aus kontrolliert biologischem Anbau stammende Produkte
 
 Ihr seht, es ist wirklich für jeden Geschmack etwas dabei. Und Lippenpflege und Parfum sind bei weitem nicht alles. Insgesamt sind in der Box sechs verschiedene Beauty-Produkte enthalten. Alle sind vegan, biologisch und fair gehandelt und hergestellt.
 
@@ -88,7 +88,7 @@ Ihr seht, es ist wirklich für jeden Geschmack etwas dabei. Und Lippenpflege und
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAsEAACAQMDAwIEBwAAAAAAAAABAgMEBREAEiEGQVExcQcTImEUFRYjMpGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMBBAX/xAAhEQEAAQIFBQAAAAAAAAAAAAABAgAhBBESQfADE2Gxwf/aAAwDAQACEQMRAD8A7vSt3ht0jSUlJDSsUAc08TRYXsGwvA8Z033O7ztbo6vJJUOWjqS31MP4gBu/Oee331KrNWQtGI3kVCjY/ermOxu7MF53nyuQOfGqH07PD+nrqC9Oq4JJDlgQVYHdIeHOfXHtqsOTatDHdN7LItzxz7x6+8MbHBXQFAIoTHMhfduYcc4PHbkn7eukS4L+eWFpasK7To27ZG7Bh6EjC+g9M5OT4Gmuaalo/h3LTOyIZqqq2hUI3L8z6ckDwDz/AFqezXuJKL8GkrzSZ37FLykjtnBCn/CPudMJDkFJwzrZq71lTx3E01K9NdZYFIK7FiXCjwvcDjtp76Z+dvqobrO9wjkpySrjYB7Y99GjQoLk0cnXBjK5f3S5e+pUm6cqrStvjVYnlZJC2Su48gDHA5PfWdmsNPQW2Gc7JmlG8hgwGfbdjRo1MaFiRLb1/9k="
 />
 
-Neben dem Parfum zählt eindeutig der Contitioner "Apple &amp; Herbs" vom Hersteller Human + Kind zu meinen Favoriten in dem wundervoll duftenden, liebevoll zusammengestellten Potpourri. Human + Kind ist übrigens ein überaus klangvoller Name, wie ich finde, doch das nur am Rande. Das Produkt gibt den Haaren auch nach kurzer Einwirkzeit und bereits bei der ersten Anwendung einen tollen Glanz. Dabei ist es ganz leicht und fettet nicht. Geworben wird damit, dass darin Spülung und Kur vereint werden, die Haare sollen dadurch bei jeder Wäsche perfekt gepflegt werden.
+Neben dem Parfum zählt eindeutig der Contitioner "Apple &amp; Herbs" von Human + Kind zu meinen Favoriten in dem wundervoll duftenden, liebevoll zusammengestellten Potpourri. Human + Kind ist übrigens ein überaus klangvoller Name, wie ich finde, doch das nur am Rande. Das Produkt gibt den Haaren auch nach kurzer Einwirkzeit und bereits bei der ersten Anwendung einen tollen Glanz. Dabei ist es ganz leicht und fettet nicht. Geworben wird damit, dass darin Spülung und Kur vereint werden, die Haare sollen dadurch bei jeder Wäsche perfekt gepflegt werden.
 
 Auch im Basket enthalten ist ein weiteres Kombi-Produkt von Human + Kind: Das Shampoo und Duschgel kommt genau wie der Conditioner in einer praktischen  Tube daher und ist daher auch gut fürs Reisegepäck geeignet. Die Duftrichtung ist einfach klasse, frisch und warm zugleich. Pflegende Aloe Vera und beruhigendes Calendula-Extrakt pflegen die Haare und das beigefügte Eibischextrakt  macht die Haare kämmbar.
 

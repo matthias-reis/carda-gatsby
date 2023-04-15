@@ -299,7 +299,7 @@ Schon seit einigen Wochen sieht man sie wieder in den Auslagen der Modegeschäft
 
 Ich hoffe sehr, dass hier bald ein Umdenken erfolgt und nach und nach immer weniger Menschen diese Ware kaufen. Vielleicht konnte ich ja auch mit meinem Bericht dem Einen oder der Anderen ein bisschen die Augen öffnen.
 
-Immerhin haben in den letzten Jahren schon mal einige Hersteller zumindest Angora und/oder Mulesing-Wolle aus ihren Kollektionen verbannt. Ein kleiner Wermutstropfen, oder der erste Schritt in eine tierleidfreie Zukunft?
+Immerhin haben in den letzten Jahren schon mal einige Firmen zumindest Angora und/oder Mulesing-Wolle aus ihren Kollektionen verbannt. Ein kleiner Wermutstropfen, oder der erste Schritt in eine tierleidfreie Zukunft?
 
 Schwer zu sagen, wenn man derzeit die Kunstfell-Kragen, -Schals und \-Mützenbommel sieht, die leider in den seltensten Fällen auch aus Kunststoff bestehen, doch dazu mehr im achten Teil meiner Serie.
 

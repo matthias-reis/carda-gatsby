@@ -41,7 +41,7 @@ Ich sehe das etwas anders, warum das genau so ist, darüber möchte ich gerne ei
 
 Die weltweit größten Faktoren bei der Rodung der Regenwälder sind die Futterindustrie, die Papier- und Holzindustrie und die Palmölindustrie. Palmöl ist das mit Abstand billigste auf dem Weltmarkt erhältliche Pflanzenöl und wird daher von der Industrie mit Vorzug verwendet. Jedes Jahr werden rund 1, 1 Millionen Tonnen Palmöl nach Deutschland importiert. Die Tendenz steigt. Nachhaltig produziertes, wirklich ökologisches Palmöl gibt es nicht. Auch bei den als Bio-Palmölplantagen deklarierten Betrieben handelt es sich laut des Rettet den Regenwald e. V. um umweltschädliche Monokulturen, die den Boden ausbeuten und Tieren und Menschen den Lebensraum nehmen.
 
-Palmöl ist Bestandteil fast aller Margarine-Sorten, es steckt in Säuglingsmilchnahrung, Keksen, Süßigkeiten, Brotaufstrichen, Chips, Pommes und anderen Fertigprodukten. Zudem wird es von den großen Fastfood-Ketten und in Großküchen rund um die Welt zum Frittieren verwendet. Es wird außerdem für die Herstellung der verschiedensten Kosmetikprodukte, Tenside in Waschmitteln und Haushaltsreinigern und Biokraftstoff verwendet. Häufig findet keine klare Deklaration statt, Palmöl wird in Zutatenlisten und Inhaltsangaben als "Pflanzenfett" aufgeführt und kann daher auf den ersten Blick oft gar nicht darin entdeckt werden. Meist hilft nur die Produktanfrage beim Hersteller oder ein Produkt im Zweifelsfall auch einfach mal im Supermarkt stehen zu lassen.
+Palmöl ist Bestandteil fast aller Margarine-Sorten, es steckt in Säuglingsmilchnahrung, Keksen, Süßigkeiten, Brotaufstrichen, Chips, Pommes und anderen Fertigprodukten. Zudem wird es von den großen Fastfood-Ketten und in Großküchen rund um die Welt zum Frittieren verwendet. Es wird außerdem für die Herstellung der verschiedensten Kosmetikprodukte, Tenside in Waschmitteln und Haushaltsreinigern und Biokraftstoff verwendet. Häufig findet keine klare Deklaration statt, Palmöl wird in Zutatenlisten und Inhaltsangaben als "Pflanzenfett" aufgeführt und kann daher auf den ersten Blick oft gar nicht darin entdeckt werden. Meist hilft nur die Produktanfrage bei der herstellenden Firma oder ein Produkt im Zweifelsfall auch einfach mal im Supermarkt stehen zu lassen.
 
 ## Palmöl und der Klimawandel
 
@@ -63,7 +63,7 @@ Ich versuche, wann immer es sich vermeiden lässt, auf Palmöl zu verzichten. Na
 
 ## Wie erkenne ich Produkte mit Palmöl?
 
-Dass es manchmal gar nicht so einfach ist, Palmöl als solches zu erkennen, habe ich weiter oben schon kurz erwähnt. Nicht nur bei der Lebensmittelherstellung wird die Zutat häufig durch ein anderes Wording verschleiert. Besonders in der Kosmetik- und Reinigungsmittelbranche wird es erst so richtig kompliziert, da die Hersteller hier zumeist nur ihr "Fachchinesisch" auf die Verpackungen schreiben.
+Dass es manchmal gar nicht so einfach ist, Palmöl als solches zu erkennen, habe ich weiter oben schon kurz erwähnt. Nicht nur bei der Lebensmittelherstellung wird die Zutat häufig durch ein anderes Wording verschleiert. Besonders in der Kosmetik- und Reinigungsmittelbranche wird es erst so richtig kompliziert, da die Firmen hier zumeist nur ihr "Fachchinesisch" auf die Verpackungen schreiben.
 
 ## Namen für Palmöl (ohne Anspruch auf Vollständigkeit)
 
@@ -146,7 +146,7 @@ Dass es manchmal gar nicht so einfach ist, Palmöl als solches zu erkennen, habe
 - Vegetable Oil/Vegetable Fat (hoch gesättigtes Fett = Palmöl)
 - Zink Stearate
 
-Da auch in vielen Bioprodukten Palmöl zum Einsatz kommt, ist es selbst bei bewusster Ernährung häufig schwierig, darauf zu verzichten. Viele bekannte Hersteller, unter ihnen Alnatura, Allos und Rapunzel verwenden das billige Öl bei die Herstellung ihrer Produkte. Ob diesen Herstellern Siegel wie "Fairtrade" und "Bio" auch weiterhin zustehen, wird derzeit heiß diskutiert.
+Da auch in vielen Bioprodukten Palmöl zum Einsatz kommt, ist es selbst bei bewusster Ernährung häufig schwierig, darauf zu verzichten. Viele bekannte Firmen, unter ihnen Alnatura, Allos und Rapunzel verwenden das billige Öl bei die Herstellung ihrer Produkte. Ob diesen Firmen Siegel wie "Fairtrade" und "Bio" auch weiterhin zustehen, wird derzeit heiß diskutiert.
 
 ### Quellen:
 

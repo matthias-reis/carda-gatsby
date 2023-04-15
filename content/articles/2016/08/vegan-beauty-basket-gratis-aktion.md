@@ -55,7 +55,7 @@ Der Basket unterscheidet sich von anderen Kosmetikboxen durch sein Konzept: Mit
 
 Bei meinem Test für Vegan News habe ich einige für mich neue Produkte kennengelernt, die ich zum Teil auch heute noch verwende. Ich werde mir auf jeden Fall überlegen, das Angebot wahrzunehmen. 4 zum Preis von 3 klingt doch ziemlich gut, oder?
 
-Die im Vegan Beauty Basket enthaltenen Produkte sind zu 100 % tierversuchsfrei und vegan. Es werden darin Beauty-Produkte aus der ganzen Welt vorgestellt. Besonders hohen Wert legt Ina bei der Auswahl der Produkte auf die Standards der Hersteller.
+Die im Vegan Beauty Basket enthaltenen Produkte sind zu 100 % tierversuchsfrei und vegan. Es werden darin Beauty-Produkte aus der ganzen Welt vorgestellt. Besonders hohen Wert legt Ina bei der Auswahl der Produkte auf die Standards der herstellenden Firmen.
 
 Zum Vegan Beauty Basket und zum Angebot geht es [hier entlang](http://www.veganbeautybasket.com/).
 

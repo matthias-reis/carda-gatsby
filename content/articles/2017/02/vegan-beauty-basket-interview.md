@@ -108,7 +108,7 @@ Besonders liebe ich zum Beispiel die Hurraw Lipbalms. Sie wurden in der Box soga
 
 ## "Bevor ein Produkt in den Vegan Beauty Basket kommt, führen wir umfangreiche Recherchen durch"
 
-**Anne:** Wie stellst Du die Kontakte mit den Herstellern her? Der Vegan Beauty Basket ist ja immer sehr bunt gemischt. Es ist sicher nicht immer leicht, jedes Mal neue Lieferanten zu finden? Wie gehst Du vor, wenn Du einen Hersteller entdeckt hast, dessen Linie zum Vegan Beauty Basket passen könnte? Wie stellst Du sicher, dass alles zu 100 Prozent vegan, frei von Tierversuchen und fair hergestellt ist?
+**Anne:** Wie stellst Du die Kontakte zu den Herstellungsbetrieben her? Der Vegan Beauty Basket ist ja immer sehr bunt gemischt. Es ist sicher nicht immer leicht, jedes Mal neue Lieferanten zu finden? Wie gehst Du vor, wenn Du einen Herstellungsbetrieb entdeckt hast, dessen Linie zum Vegan Beauty Basket passen könnte? Wie stellst Du sicher, dass alles zu 100 Prozent vegan, frei von Tierversuchen und fair hergestellt ist?
 
 <RemoteImage
   alt={`Vegan Beauty Basket`}

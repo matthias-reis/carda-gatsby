@@ -62,9 +62,9 @@ Jetzt hatte ich die großartige Gelegenheit, mich mit Hendrike, der Gründerin v
 
 **Hendrike:** Zum Einen habe ich mich selbst mehr und mehr mit veganer Ernährung auseinandergesetzt. Ich habe mich ziemlich schnell dazu entschieden, tierische Inhaltsstoffe durch pflanzliche zu ersetzen. Das Beste ist: Das ist ohne Qualitätsverlust möglich. Statt Bienenwachs findet man in meinen Produkten Sojawachs, welches biologisch hergestellt wird oder statt Milchpulver oder Sahnepulver wird duftendes Kokosmilchpulver verwendet.
 
-**Anne:** Als Veganer muss man häufig eine längere Suche in Kauf nehmen, wenn man ein bestimmtes Kosmetikprodukt sucht. Was meinst Du, wird sich das in Zukunft ändern? Kommen nach und nach auch die "großen" Hersteller auf die Idee, etwas an ihren Produktionsgewohnheiten zu ändern?
+**Anne:** Als Veganer muss man häufig eine längere Suche in Kauf nehmen, wenn man ein bestimmtes Kosmetikprodukt sucht. Was meinst Du, wird sich das in Zukunft ändern? Kommen nach und nach auch die "großen" herstellenden Unternehmen auf die Idee, etwas an ihren Produktionsgewohnheiten zu ändern?
 
-## "Auch große Hersteller werden mittelfristig ihre Rezepturen ändern"
+## "Auch große Firmen werden mittelfristig ihre Rezepturen ändern"
 
 <RemoteImage
   alt={`Pony Hütchen`}
@@ -75,7 +75,7 @@ Jetzt hatte ich die großartige Gelegenheit, mich mit Hendrike, der Gründerin v
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYEBQcI/8QALRAAAgEDAwIDBwUAAAAAAAAAAQIDBAURABIhEzEGIkEHFBUyUWGBIyQzQnH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/8QAGhEBAQEBAAMAAAAAAAAAAAAAAREAAhIhMf/aAAwDAQACEQMRAD8A3iG2W9bpTvLQ07SjOGMYJHGmHaqSxKoCjDcAY+mueLl7R6rwcLNUVXWucU1Z0pfd0RY9pHKqcAtIOO+ByOeeNpudxWooG2SCESUxljkdgmAdh5J7EZ51kiFcuuEmsZLlDKkghfLK+3ynOR6Hj01R+IIJ28PyU1IssLTNtDJkEliSef8AdL1ypWntqR2+6zdZpEad4a4YHHPnBA5/HbQ5rNLT0FW8dVUt1NqOwrHlwM9z5jjU+XqZnEfuVb3SmitFvqXss1de6OWG5rbWgHlhRiJCrsD587Tn7ADvqXYL+8xEFbRVLxR07ncjDJUsTtIYfNlj6/17adLfSwQbJ7T13eP+OOWTcgyMg5bnuSQR66JVwVtc/wC6hkVp3MccohVwCF4ZsN2+/OrVGJrUTLl1qaSKCQ10i09NI8aU8UtN1HjbB+faCDjI47DHrnQb7UUlXQNSo9vRWkRm/UPOM8sABxjnH41O8T2C8fCYnhpYq6rilSRjD3IB8xCHu2O2eNZ94hp701RS3f4bNSz4ZJFSMoIxuOA4XOzgA/Tk6JCuOZ0w3//Z"
 />
 
-**Hendrike:** Ich gehe davon aus, dass mittelfristig auch große Hersteller ihre Rezepturen ändern werden. "Vegan" ist als Thema mitten in der Gesellschaft angekommen und keine Randerscheinung mehr.
+**Hendrike:** Ich gehe davon aus, dass mittelfristig auch große herstellende Firmen ihre Rezepturen ändern werden. "Vegan" ist als Thema mitten in der Gesellschaft angekommen und keine Randerscheinung mehr.
 
 **Anne:** Wird das den kleineren Manufakturen wie Pony Hütchen eher schaden, oder sorgt das für mehr gesunden Wettbewerb?
 

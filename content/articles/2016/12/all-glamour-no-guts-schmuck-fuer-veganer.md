@@ -32,7 +32,7 @@ subTitle: Schmuck und Accessoires von Veganern für Veganer
 advertisement: true
 ---
 
-**Schon eine gefühlte Ewigkeit folge ich All Glamour No Guts auf Instagram. Der vegane Bekleidungs- und Accessoire-Hersteller mit Sitz in Norwich, England ist ein echter Kult-Stern am veganen Modehimmel. Gründerin Lou setzt sich für Rechte der Tiere ein. Vom Schmuck bis zur Homepage hat sie alles selbst entworfen.**
+**Schon eine gefühlte Ewigkeit folge ich All Glamour No Guts auf Instagram. Die vegane Bekleidungs- und Accessoire-Brand mit Sitz in Norwich, England ist ein echter Kult-Stern am veganen Modehimmel. Gründerin Lou setzt sich für Rechte der Tiere ein. Vom Schmuck bis zur Homepage hat sie alles selbst entworfen.**
 
 Von Anfang an war es ihr wichtig, dass alles von **All Glamour** **No Guts** ethisch unbedenklich ist. Dafür steckt sie auch gerne mal mehrere Stunden Forschungsarbeit in ein neues Produkt, um wirklich zu 100 Prozent sicher gehen zu können. Sweatshops kommen für sie nicht infrage, alles ist komplett vegan und fair. Von den Ketten, über die verwendete Tinte und die Sticker bis hin zu den Stoffen.
 

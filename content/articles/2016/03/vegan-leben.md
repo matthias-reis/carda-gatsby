@@ -62,7 +62,7 @@ Der Brotaufstrich überzeugte mit rundem Geschmack, besonders zu einem kräftige
 
 Alles in allem konnte mich die Marke "vegan leben" überzeugen, ich würde mich freuen, wenn sie bald in allen Supermärkten zu haben ist. Besonders klasse finde ich, dass – so wird das auch auf der vegan leben Homepage erklärt – "mit dem Versteckspiel Schluss gemacht wird", indem man alle Produkte klar kennzeichnet.
 
-Das ist ein toller Schritt in Richtung pflanzenbasierte Zukunft und ein gutes Bespiel für andere Hersteller. Wenn jetzt noch das [Palmöl](/2015/05/palmoel/) weggelassen wird, ist alles perfekt.
+Das ist ein toller Schritt in Richtung pflanzenbasierte Zukunft und ein gutes Bespiel für andere herstellende Firmen. Wenn jetzt noch das [Palmöl](/2015/05/palmoel/) weggelassen wird, ist alles perfekt.
 
 <Gallery name="vegan-leben-2" />
 

@@ -126,7 +126,7 @@ Auch, was das vegane Angebot an den diversen Essenständen angeht, haben die mei
 37. Duschgel,
 38. Zahnputzzeug,
 39. Sonnencreme mit starkem Lichtschutzfaktor,
-40. Trockenshampoo gibt es von den verschiedensten Herstellern auch in vegan, Ihr könnt Euch aber auch einfach ein Beutelchen Weinsteinbackpulver oder Babypuder mitnehmen, vorsichtig in den Haaransatz einmassieren, leicht frottieren und dann ausbürsten, damit erzielt Ihr die gleiche Wirkung.
+40. Trockenshampoo gibt es von den verschiedensten Marken auch in vegan, Ihr könnt Euch aber auch einfach ein Beutelchen Weinsteinbackpulver oder Babypuder mitnehmen, vorsichtig in den Haaransatz einmassieren, leicht frottieren und dann ausbürsten, damit erzielt Ihr die gleiche Wirkung.
 41. Haarbürste oder Kamm, je nach Haarstruktur.
 42. Sonnenbrille,
 43. ausreichend Bandshirts (Rechnet mal lieber pro Tag zwei ein, falls es beim Konzert zur Bierdusche kommt).

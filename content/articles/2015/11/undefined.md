@@ -22,7 +22,7 @@ Erst vor Kurzem berichtete ich an dieser Stelle über die dramatischen Auswirkun
 
 ## Orang-Utans sterben, weil Palmöl billig ist
 
-Viele Hersteller haben die Öle in ihren Produkten durch Palmöl ersetzt, weil es billiger ist. Dabei wird weder Rücksicht auf die irreparablen Schäden, die den Regenwäldern zugefügt werden, noch auf den gesundheitlichen Aspekt (Palmöl wirkt sich sehr schlecht auf das Herz-Kreislaufsystem aus) geachtet. Was zählt, ist der Profit.
+Viele herstellende Firmen haben die Öle in ihren Produkten durch Palmöl ersetzt, weil es billiger ist. Dabei wird weder Rücksicht auf die irreparablen Schäden, die den Regenwäldern zugefügt werden, noch auf den gesundheitlichen Aspekt (Palmöl wirkt sich sehr schlecht auf das Herz-Kreislaufsystem aus) geachtet. Was zählt, ist der Profit.
 
 Bis heute wurden bereits über 90 Prozent der Lebensräume der Orang-Utans zerstört. Hinzu kommt, dass Rauch, Ablagerungen und Trümmer aus den Bränden ihnen ein Überleben nahezu unmöglich machen. Die Menschen dringen immer weiter in ihre Gebiete ein.
 

@@ -61,7 +61,7 @@ Die Realität sieht inzwischen etwas anders aus. In der aktuellen Mode zeigen si
 
 Das Problem: Die meisten Pelze sind nicht als solche ausgezeichnet. Erst gestern führte ich wieder ein Gespräch mit einer jungen Mutter, die ihrem 1-jährigen Kind gerade stolz ihren seinen ersten Parka gekauft hatte. Sie fiel aus allen Wolken, als ich sie über den **Pelzbesatz** an der Jacke aufklärte. An ihrer Mütze: Ein Bommel aus Kaninchenfell.
 
-Doch wie kommt das zustande? Echtpelz ist durch die Billigproduktion in Entwicklungsländern heute billiger denn je. Billiger als jeder **Kunstpelz** . Das ist der Grund, warum er von Modelabels gerne zur Weiterverarbeitung eingekauft wird, nicht nur von Luxusmarken, sondern gerade auch von den besonders günstigeren Herstellern.
+Doch wie kommt das zustande? Echtpelz ist durch die Billigproduktion in Entwicklungsländern heute billiger denn je. Billiger als jeder **Kunstpelz** . Das ist der Grund, warum er von Modelabels gerne zur Weiterverarbeitung eingekauft wird, nicht nur von Luxusmarken, sondern gerade auch von den besonders günstigeren Marken.
 
 Es besteht noch keine **Auszeichnungspflicht** für diese Pelzbesätze, auf dem Etikett einer Jacke kann also ohne Probleme stehen: Material: Polyacryl, Futter: Polyester und das war's dann. Klar, dass die meisten Menschen dabei davon ausgehen, dass das Fell an der Kapuze auch aus Polyacryl ist.
 

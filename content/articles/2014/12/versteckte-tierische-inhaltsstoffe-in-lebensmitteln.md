@@ -56,7 +56,7 @@ advertisement: true
 
 Ob ich mich heute, hätte ich meine Ernährung zwischenzeitlich nicht umgestellt, noch als Solche bezeichnen würde, da bin ich mir inzwischen nicht mehr so sicher.
 
-Schon vor zwei Jahren habe ich mich über das Thema [ziemlich aufgeregt](/2012/08/produkte-mit-tierischen-inhalten-kennzeichnen/), die ganze Tragweite war mir zu dem Zeitpunkt allerdings auch noch nicht bewusst. Damals fiel mir vielmehr auf, dass es in England schon länger eine **freiwillige Kennzeichnung** vegetarischer Produkte gibt, hierzulande jedoch nur wenige Hersteller dafür sorgen.
+Schon vor zwei Jahren habe ich mich über das Thema [ziemlich aufgeregt](/2012/08/produkte-mit-tierischen-inhalten-kennzeichnen/), die ganze Tragweite war mir zu dem Zeitpunkt allerdings auch noch nicht bewusst. Damals fiel mir vielmehr auf, dass es in England schon länger eine **freiwillige Kennzeichnung** vegetarischer Produkte gibt, hierzulande jedoch nur wenige Firmen dafür sorgen.
 
 ### Neben Wild verbergen sich in Chips auch Fisch und Rindfleisch
 
@@ -140,7 +140,7 @@ Ein kleiner Tipp: Durch das hierzulande geltende Reinheitsgebot sind deutsche Bi
 - Eckes Traubensaft rot
 - Capri-Sonne
 - Lidl Freeway Apfelschorle
-- Milford Tees (Hersteller gibt keine Garantie, dass die Produkte auf allen Produktionsstufen ohne zur Hilfenahme tierischer Stoffe hergestellt werden)
+- Milford Tees (Marke gibt keine Garantie, dass die Produkte auf allen Produktionsstufen ohne zur Hilfenahme tierischer Stoffe hergestellt werden)
 
 <RemoteImage
   alt={`Veganes kennzeichnen!`}
@@ -170,7 +170,7 @@ Eine Liste der Lebensmittelzusatzstoffe (auch E-Stoffe genannt) findet man bei W
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAArEAACAQMDAwIFBQAAAAAAAAABAgMEBREAEiEGE0EiMQcUI2FxFTNCUZL/xAAXAQADAQAAAAAAAAAAAAAAAAADBQYB/8QAJhEAAQMDAgUFAAAAAAAAAAAAAQIDEQAEMSFBBRJhsfATFCNx4f/aAAwDAQACEQMRAD8AXdI2+g6Ypu5PGZrqYmftopMrnH7a4HpXPBPGeftpzW3YVsM89vqUXuRwiOljQFzvcKCPBYMCMDPJGfbOue5qscL1lLHNUTTMkapE5+qrNuQ8fxAJYkY/PvrC1SVNH8tcu2tRRJKzRPufaF3nncANmDJ4JyTgZGpi6Spx3lJiIjXPh7VUWaGy16mSZmRjwVVoa9KmWOi6hoYay0XKR4YO5GDvEePqYHhjnDDBBAwedTHrPp1+jOrI6KJ5JbTXqZaR5Tlk5wUY+Sp4J8gqdVyyRM9vU1LRVMoBjWUOJCVz6Vz4428fjWK+PlQkkXSdIzD55qmaU49wuIlJH9DeD/k63ht0bptaFjVO/wBz2ig3TftX0lGFbDpHek/Ql5mmq6a0uibWEnZkPOxRklGU8Op544xn3xxrVfpVruokmraLfkrujErBOAMYX2GMDxo0abJAJ1GKWX0oIKTE5jenCVFN09Y66WjpMU1vhknEKvtLnJJ9WDgk+cHGoal0qurb5U3y5uO8kaiGFBhIU52ov2HP5JJPOjRobqQ2hXII/aNYfIpKlmTrnpX/2Q=="
 />
 
-Bewusster Einkaufen macht Spaß und hält jung, ansonsten gilt: Googeln, googeln, googeln, Produktanfragen bei Herstellern stellen und die Antworten in Foren und **Facebook-Gruppen** teilen und im Zweifelsfall: Einfach mal etwas im Supermarktregal liegen lassen.
+Bewusster Einkaufen macht Spaß und hält jung, ansonsten gilt: Googeln, googeln, googeln, Produktanfragen bei Firmen stellen und die Antworten in Foren und **Facebook-Gruppen** teilen und im Zweifelsfall: Einfach mal etwas im Supermarktregal liegen lassen.
 
 Wir führen hierzulande ein Leben im Überfluss und es bedeutet sicher keinen großen Verzicht, die Paprikachips oder die Limonade einfach mal wegzulassen.
 

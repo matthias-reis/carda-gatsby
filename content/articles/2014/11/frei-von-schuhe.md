@@ -97,7 +97,7 @@ Sarah und Paul möchten gerne Schwung in die Schuhbranche bringen. Um das notwen
 
 **Anne:** Im Internet gibt es inzwischen ja doch schon ein paar Shops, die vegane Kleidung und auch Schuhe im Angebot haben. Wie wollt ihr euch von der Masse abheben?
 
-**Sarah:** Wir möchten durch Qualität, Engagement und Transparenz ein gutes Produkt herstellen. Wir zeigen unsere Lieferanten und Materialien ganz offen und im Anschluss können die Leute selbst entscheiden, ob sie unseren Schuh wollen oder nicht. Dadurch heben wir uns schon von sehr vielen Herstellern ab. Leider! In der Schuhbranche gibt es wenig Transparenz und Nachhaltigkeit, das möchten wir gerne ändern.
+**Sarah:** Wir möchten durch Qualität, Engagement und Transparenz ein gutes Produkt herstellen. Wir zeigen unsere Lieferanten und Materialien ganz offen und im Anschluss können die Leute selbst entscheiden, ob sie unseren Schuh wollen oder nicht. Dadurch heben wir uns schon von sehr vielen Firmen ab. Leider! In der Schuhbranche gibt es wenig Transparenz und Nachhaltigkeit, das möchten wir gerne ändern.
 
 **Anne:** Wie kann man euer Projekt unterstützen?
 
