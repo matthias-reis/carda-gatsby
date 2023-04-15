@@ -91,7 +91,7 @@ Die Mitgliedschaft kostet 3,00 Euro im Monat oder 299,00 Euro lebenslang. Enthal
 
 Zur Feier des Tages und vor allem, weil mir _piqd_ so gut gefällt, verlose ich hier auf cardamonchai.com eine lebenslange Mitgliedschaft im Wert von 299,00 Euro.
 
-**Gewinnen könnt Ihr ganz leicht: Schreibt mir einfach bis einschließlich 19. Juli mit dem Betreff "Verlosung piqd" eine E-Mail an [anne.reis@cardamonchai.com](mailto:info@cardamonchai.com). In die E-Mail schreibt Ihr, welches Thema ihr bei _piqd_ gerne abonnieren würdet. Postet Euer Wunschthema bitte zusätzlich als Kommentar hier im Blog unter (neben) dem Artikel (Bitte auf jeden Fall hier und nicht bei Facebook, Twitter o. ä.). Ihr könnt Euer Thema ganz frei auswählen. Der Phantasie sind keine Grenzen gesetzt. Den/die GewinnerIn kontaktiere ich dann per E-Mail.**
+**Gewinnen könnt Ihr ganz leicht: Schreibt mir einfach bis einschließlich 19. Juli mit dem Betreff "Verlosung piqd" eine E-Mail an [anne.reis@soundsvegan.com](mailto:info@soundsvegan.com). In die E-Mail schreibt Ihr, welches Thema ihr bei _piqd_ gerne abonnieren würdet. Postet Euer Wunschthema bitte zusätzlich als Kommentar hier im Blog unter (neben) dem Artikel (Bitte auf jeden Fall hier und nicht bei Facebook, Twitter o. ä.). Ihr könnt Euer Thema ganz frei auswählen. Der Phantasie sind keine Grenzen gesetzt. Den/die GewinnerIn kontaktiere ich dann per E-Mail.**
 
 [Hier geht es zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 

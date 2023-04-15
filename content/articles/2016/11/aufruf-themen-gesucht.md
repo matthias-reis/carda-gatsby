@@ -70,4 +70,4 @@ Thematisch bin ich grundsätzlich nicht gebunden. Meine bisherigen Themen sind 
 - Reisen
 - Fotografie/Internet
 
-Ich freue mich auf Eure Zuschriften unter [anne.reis@cardamonchai.com](mailto:info@cardamonchai.com)
+Ich freue mich auf Eure Zuschriften unter [info@soundsvegan.com](mailto:info@soundsvegan.com)

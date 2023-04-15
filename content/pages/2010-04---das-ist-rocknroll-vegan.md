@@ -54,7 +54,7 @@ Dabei entstehen genauso Fotostrecken von [Ausstellungen](/2015/12/brave-new-worl
 
 ## Ich packe meinen Festivalrucksack
 
-Wenn ich friere, drehe ich die Heizung auf, oder ziehe die Wärmflasche aus meinem [Festivalrucksack](/2015/03/die-ultimative-vegane-festivalliste/) und mache es mir gemütlich. Dann schwelge ich gerne in den Erinnerungen, die ich hier notiert habe. Das habe ich natürlich nicht nur für mich getan, sondern auch für Euch. Ich freue mich immer sehr über neue Leser und ihre Kommentare, Anregungen und Nachrichten. Wenn ich Euer neues Album anhören und rezensieren soll, [schreibt mir](mailto:info@cardamonchai.com), wenn ich Eure selbstgemachte Kosmetik oder Euer Produkt testen soll,  [schreibt mir](mailto:info@cardamonchai.com),  wenn ich ein  [Interview](/2013/06/alles-andere-wirkt-unwichtig-und-banal/) mit Euch machen soll, [schreibt mir](mailto:info@cardamonchai.com), wenn Ihr eine Geschichte zu erzählen habt, [schreibt mir](mailto:info@cardamonchai.com), wenn es regnet, geht raus und tanzt.
+Wenn ich friere, drehe ich die Heizung auf, oder ziehe die Wärmflasche aus meinem [Festivalrucksack](/2015/03/die-ultimative-vegane-festivalliste/) und mache es mir gemütlich. Dann schwelge ich gerne in den Erinnerungen, die ich hier notiert habe. Das habe ich natürlich nicht nur für mich getan, sondern auch für Euch. Ich freue mich immer sehr über neue Leser und ihre Kommentare, Anregungen und Nachrichten. Wenn ich Euer neues Album anhören und rezensieren soll, [schreibt mir](mailto:info@soundsvegan.com), wenn ich Eure selbstgemachte Kosmetik oder Euer Produkt testen soll,  [schreibt mir](mailto:info@soundsvegan.com),  wenn ich ein  [Interview](/2013/06/alles-andere-wirkt-unwichtig-und-banal/) mit Euch machen soll, [schreibt mir](mailto:info@soundsvegan.com), wenn Ihr eine Geschichte zu erzählen habt, [schreibt mir](mailto:info@soundsvegan.com), wenn es regnet, geht raus und tanzt.
 
 ## Blogkooperationen
 
@@ -68,7 +68,7 @@ In meinem Blog stelle ich immer wieder Produkte vor, die meinem veganen Lebensst
 
 Ich gehe ausschließlich Kooperationen mit Firmen, Herstellern und Marken ein, deren Richtlinien ich voll und ganz vertreten kann. Dazu gehört auch, dass keine Tierversuche für Produkte oder deren Inhaltsstoffe durchgeführt oder in Auftrag gegeben werden. Auch nicht-vegane Produkte kommen in meinem Blog nicht vor.
 
-Wer sich jetzt angesprochen fühlt und gerne möchte, dass ich seine Produkte vorstelle, kann jederzeit [per Mail mit mir in Verbindung treten](mailto:info@cardamonchai.com). Dann können wir uns über die genauen Konditionen unterhalten.
+Wer sich jetzt angesprochen fühlt und gerne möchte, dass ich seine Produkte vorstelle, kann jederzeit [per Mail mit mir in Verbindung treten](mailto:info@soundsvegan.com). Dann können wir uns über die genauen Konditionen unterhalten.
 
 [Hier könnt Ihr mein Mediakit herunterladen](/mein-mediakit/).
 
@@ -91,13 +91,13 @@ Was das Medium betrifft, bin ich nicht festgelegt. Print fasziniert mich genauso
 
 ## cardamonchai-Texte auch für Dich
 
-Wer Interesse hat und mehr wissen möchte, kann sich gerne jederzeit [mit mir in Verbindung setzen](mailto:info@cardamonchai.com). Natürlich ist in diesem Blog einiges an Texten aus meiner Feder zu finden, solltet Ihr sonstige Infos oder Referenzen brauchen, sagt gerne einfach Bescheid.
+Wer Interesse hat und mehr wissen möchte, kann sich gerne jederzeit [mit mir in Verbindung setzen](mailto:info@soundsvegan.com). Natürlich ist in diesem Blog einiges an Texten aus meiner Feder zu finden, solltet Ihr sonstige Infos oder Referenzen brauchen, sagt gerne einfach Bescheid.
 
 Ich bin gespannt auf Eure Zuschriften! Wir lesen uns!
 
 [Im Interview](/cardamonchai-blick-hinter-die-kulissen/interview-anne/) habe ich ein paar Bloggern noch mehr über mich verraten.
 
-Anne Reis aus Hamburg [info@cardamonchai.com](mailto:info@cardamonchai.com)
+Anne Reis aus Hamburg [info@soundsvegan.com](mailto:info@soundsvegan.com)
 
 Wenn Euch meine Texte gefallen und Ihr ab jetzt nichts mehr verpassen möchtet, würde ich mich sehr freuen, wenn Ihr [meinen Newsletter abonniert](https://mailchi.mp/94bdbb6fded3/cardamonchai).
 

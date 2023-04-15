@@ -56,13 +56,13 @@ subTitle: Tolle Goodies zu gewinnen!
 
 **Hiermit möchte ich nochmal offiziell auf [mein Gewinnspiel](/2012/08/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/) hinweisen. Die Verlosung läuft noch bis einschließlich 30. September. Hier nochmal eine kurze Anleitung für alle, die noch nichts vom Gewinnspiel mitbekommen haben:**
 
-Alle, die mitmachen wollen, senden unter dem Betreff "T-Shirt-Idee" bis zum 30. September ein Foto  von ihrem Lieblings-T-Shirt, im Idealfall sogar mit einer kleinen Geschichte dazu (2-10 Sätze reichen schon) an info@cardamonchai.com. Natürlich sind auch Lieblings-Blusen und Lieblings-Pullis erlaubt. Aus den Bildern entsteht dann hier im Blog eine schöne T-Shirt-Galerie.
+Alle, die mitmachen wollen, senden unter dem Betreff "T-Shirt-Idee" bis zum 30. September ein Foto  von ihrem Lieblings-T-Shirt, im Idealfall sogar mit einer kleinen Geschichte dazu (2-10 Sätze reichen schon) an info@soundsvegan.com. Natürlich sind auch Lieblings-Blusen und Lieblings-Pullis erlaubt. Aus den Bildern entsteht dann hier im Blog eine schöne T-Shirt-Galerie.
 
 Es werden fünf Gewinner ausgelost, die einen eigenen Blogeintrag zu Ihrem T-Shirt bekommen. Der erste Preis ist das brandaktuelle Album von TRAIN "California 37" auf CD, der zweite Preis ist die CD "Für ein paar Köttel mehr" von HASENSCHEISSE , dritter Preis ist die 12" Vinyl von den ÄRZTEN ' M+F (3 Tracks auf der A-Seite, B-Seite mit Etching), vierter Preis ein T-Shirt von INDICA (kommt als Girl-Shirt oder Men-Shirt) und als fünften Preis gibt es ein T-Shirt vom diesjährigen Herzberg-Festival zu gewinnen.
 
 Vor Kurzem ist zu den Gewinnen noch das Herzberg Festival T-Shirt und die CD von HASENSCHEISSE dazugekommen. Daher wird es nicht, wie zuerst angekündigt, drei, sondern  fünf Gewinner geben. Die Gewinne stellen meine Freunde von "[Marleen Schallplatten](https://www.facebook.com/marleen.schallplatten)" , dem Plattenladen meines Vertrauens in Fulda und Gunter vom [Herzberg Festival Veranstaltungsteam](http://www.burgherzberg-festival.de/)  zur Verfügung. Vielen Dank an dieser Stelle für die freundliche Unterstützung! Natürlich freue ich mich, wenn möglichst viele mitmachen, damit am Ende auch eine schöne T-Shirt-Galerie entsteht.
 
-Bitte sendet Eure Fotos und Texte bis zum 30. September 2012 unter dem Betreff "T-Shirt-Idee" an info@cardamonchai.com. Die Gewinner werden von einer neutralen Person gezogen und per E-Mail über ihren Gewinn benachrichtigt. Die Gewinne werden per Post versendet. Der Rechtsweg ist ausgeschlossen.
+Bitte sendet Eure Fotos und Texte bis zum 30. September 2012 unter dem Betreff "T-Shirt-Idee" an info@soundsvegan.com. Die Gewinner werden von einer neutralen Person gezogen und per E-Mail über ihren Gewinn benachrichtigt. Die Gewinne werden per Post versendet. Der Rechtsweg ist ausgeschlossen.
 
 ## Wie bereits angekündigt, möchte ich Euch heute die Gewinne präsentieren:
 

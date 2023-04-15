@@ -40,7 +40,7 @@ Es lohnt sich auf jeden Fall wieder, ich bin gespannt, was Ihr zur Ausgabe 3 sag
 
 ## Interview mit DIR im Welt Vegan Magazin
 
-Übrigens bin auch für die nächste Ausgabe wieder auf der Suche nach interessanten Interviewpartnern oder Start-up-Gründern, die was zu den Themen "Vegan" oder "Tierschutz" zu sagen haben. Wer also jemanden kennt, der jemanden kennt, oder selbst etwas mitzuteilen hat: Am besten einfach [per Mail](mailto:info@cardamonchai.com) mit mir in Verbindung setzen. Ich freue mich auf Eure Zuschriften!
+Übrigens bin auch für die nächste Ausgabe wieder auf der Suche nach interessanten Interviewpartnern oder Start-up-Gründern, die was zu den Themen "Vegan" oder "Tierschutz" zu sagen haben. Wer also jemanden kennt, der jemanden kennt, oder selbst etwas mitzuteilen hat: Am besten einfach [per Mail](mailto:info@soundsvegan.com) mit mir in Verbindung setzen. Ich freue mich auf Eure Zuschriften!
 
 Go Vegan!
 

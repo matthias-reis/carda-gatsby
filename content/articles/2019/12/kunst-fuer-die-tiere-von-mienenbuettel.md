@@ -70,7 +70,7 @@ Die Menschen, die auf den Bildern zu sehen sind, sind auf der Seite der Tiere. S
 
 Denise[^1] vor hat noch zahlreiche weitere Projekte. So erstellte sie im Oktober 2018 das Buch "Paul, ein Botschafter der Rinder" über Paul, der als mutterloses Rinderkind auf den Lebenshof Butenland kam. Es wurde über den Verlag Stiftung Hof Butenland veröffentlicht. Darin findet man unter anderem einige ihrer Bilder sowie Texte und einen Song, den sie für Paul geschrieben hat[^2]. vor
 
-Denise verkauft ihre Kunstwerke auf Anfrage. Diese könnt Ihr jederzeit [per Mail an sie richten](mailto:info@cardamonchai.com).
+Denise verkauft ihre Kunstwerke auf Anfrage. Diese könnt Ihr jederzeit [per Mail an sie richten](mailto:info@soundsvegan.com).
 
 <iframe
   style="border: none; overflow: hidden;"

@@ -27,7 +27,7 @@ Anne Reis<br /> Wiesenstr.7<br /> 20255 Hamburg
 
 ## Kontakt
 
-E-Mail: anne.reis@cardamonchai.com
+E-Mail: anne.reis@soundsvegan.com
 
 ## Redaktionell verantwortlich
 

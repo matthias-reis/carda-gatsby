@@ -46,7 +46,7 @@ _Sarah, Ali, Angelika, Ortwin, Kristina, Annett, Florian, Caro, Sandra die mir 
 
 **Natürlich läuft die Postkartenaktion weiter. Und es gilt natürlich weiterhin: Wer mir eine Karte schickt und mir im Idealfall auch noch seine Adresse mitteilt, bekommt auch eine von mir. Hierzu sei erwähnt: Ich plane in diesem Jahr eine besonders tolle Urlaubsreise, wohin, wird noch nicht verraten. Es sei nur so viel verraten: Die Postkarten werden sicher wunderschön aussehen.**
 
-Wer mitmachen möchte, kann ganz einfach per  [E-Mail](mailto:info@cardamonchai.com), per PN auf [Facebook](http://www.facebook.com/cardamonchai) oder per DM auf [Twitter](https://twitter.com/Anne_Reko) meine Adresse anfordern und schon kann es losgehen. Ich bin schon gespannt drauf, wie es weitergeht!
+Wer mitmachen möchte, kann ganz einfach per  [E-Mail](mailto:info@soundsvegan.com), per PN auf [Facebook](http://www.facebook.com/cardamonchai) oder per DM auf [Twitter](https://twitter.com/Anne_Reko) meine Adresse anfordern und schon kann es losgehen. Ich bin schon gespannt drauf, wie es weitergeht!
 
 Hier noch ein dickes Sorry dafür, dass ich Euch heute bei [Instagram](http://instagram.com/anne_reko/)  so mit Bildern zuspammen musste, ich bin bei diesem derart hohen Postaufkommen einfach mit dem Abfotografieren nicht mehr hinterhergekommen. Dazu kam noch erschwerend hinzu, dass meine iPhone-Kamera vor ein paar Tagen die Grätsche gemacht hat und ich ja erstmal alles in Instagram sammeln wollte, um dem gewählten Stil treu zu bleiben. Also musste ich da heute eine ganze Menge nachholen.
 

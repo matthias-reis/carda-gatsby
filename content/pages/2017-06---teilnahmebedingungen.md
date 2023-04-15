@@ -28,7 +28,7 @@ Mit Deiner Teilnahme an einer Verlosung bzw. an einem Gewinnspiel auf Anne blogg
 
 (1) Teilnahmeberechtigt sind ausschließlich volljährige Personen die Ihren Wohnsitz in Deutschland haben.
 
-(2) Eine Person nimmt am Gewinnspiel teil, indem sie die Gewinnspielfrage beantwortet und die richtige Antwort im Betreff einer E-Mail an [anne.reis@cardamonchai.com](mailto:anne.reis@cardamonchai.com) schickt. Bei mehreren richtigen Einsendungen entscheidet das Los.
+(2) Eine Person nimmt am Gewinnspiel teil, indem sie die Gewinnspielfrage beantwortet und die richtige Antwort im Betreff einer E-Mail an [anne.reis@soundsvegan.com](mailto:anne.reis@soundsvegan.com) schickt. Bei mehreren richtigen Einsendungen entscheidet das Los.
 
 (3) Es ist pro Teilnehmer nur eine Teilnahme in seinem eigenen Namen möglich.
 

@@ -97,7 +97,7 @@ Für Euch habe ich mir zusammen mit Silke etwas ganz Besonderes ausgedacht: Ich 
 1.  Preis: Die drei neuen Folgen "Polterabend - Nacht des Entsetzens", "Moskitos - Anflug der Killer-Insekten" und "Yeti - Kreatur aus dem Himalaya" HANDSIGNIERT von Hörspielproduzentin Heikedine Körting + eine echte Gruselmaschine mit Geräuschen und Sounds aus dem Horrorlabor und Gruselserie-Sticker.
 1.  Preis: Die drei neuen Folgen "Polterabend - Nacht des Entsetzens", "Moskitos - Anflug der Killer-Insekten" und "Yeti - Kreatur aus dem Himalaya" HANDSIGNIERT von Hörspielproduzentin Heikedine Körting + Gruselserie-Sticker
 
-**Gewinnen könnt Ihr ganz leicht: Schreibt mir einfach bis einschließlich 05. August 2019 eine E-Mail mit dem Betreff "Gruselserie" an [info@cardamonchai.com](mailto:anne.reis@cardamonchai.com) und erzählt mir, warum Ihr gewinnen wollt. Die beiden Gewinner\*innen kontaktiere ich im Anschluss per E-Mail. Wer gewinnt, entscheidet das Los. Teilnehmen kann jede\*r ab 14 Jahren mit einem Wohnsitz innerhalb Deutschlands.**
+**Gewinnen könnt Ihr ganz leicht: Schreibt mir einfach bis einschließlich 05. August 2019 eine E-Mail mit dem Betreff "Gruselserie" an [info@soundsvegan.com](mailto:anne.reis@soundsvegan.com) und erzählt mir, warum Ihr gewinnen wollt. Die beiden Gewinner\*innen kontaktiere ich im Anschluss per E-Mail. Wer gewinnt, entscheidet das Los. Teilnehmen kann jede\*r ab 14 Jahren mit einem Wohnsitz innerhalb Deutschlands.**
 
 [Hier geht's zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 

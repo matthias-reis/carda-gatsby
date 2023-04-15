@@ -48,7 +48,7 @@ Aus meiner Feder stammt ein Wellness-Sonderteil mit dem Titel "Kleine Auszeit f�
 
 Solltet Ihr übrigens was zum Thema vegan zu sagen haben und seid der Meinung im Welt Vegan Magazin sollte unbedingt über Euch oder Euer Projekt berichtet werden: Scheut Euch nicht, mich anzuschreiben, für die nächste Ausgabe findet sich dann vielleicht ein Plätzchen!
 
-Wer Interesse an meinen Texten hat, jemanden braucht, der für seine Website schreibt oder ein Thema hat, welches er/sie gerne in Worte fassen möchte, aber noch jemanden sucht, der das übernimmt: Ich freue mich immer über [Aufträge](mailto:info@cardamonchai.com) !
+Wer Interesse an meinen Texten hat, jemanden braucht, der für seine Website schreibt oder ein Thema hat, welches er/sie gerne in Worte fassen möchte, aber noch jemanden sucht, der das übernimmt: Ich freue mich immer über [Aufträge](mailto:info@soundsvegan.com) !
 
 Und jetzt viel Spaß mit der neuen Ausgabe vom Welt Vegan Magazin! Habt eine gemütliche Vorweihnachtszeit!
 

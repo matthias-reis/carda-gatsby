@@ -69,7 +69,7 @@ Ich bin damals mit meinen älteren Beiträgen umgezogen, weil ich unabhängiger 
 
 Besonders lustig: [Das Interview mit der Spargelkönigin](/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/), das ich 2010 für meinen damaligen Arbeitgeber gemacht habe. Davon gibt es sogar noch eine Audiodatei, vielleicht werde ich Euch die ja eines Tages mal zeigen. Muss ich mir aber noch gut überlegen.
 
-Die meisten Artikel in meinem Blog drehen sich natürlich um mein Lieblingsthema. [Die Musik](/tag/musik/). Und das soll auch in Zukunft so bleiben. Vielleicht werde ich ja auch mal wieder eine [Verlosung](/tag/verlosung/) starten, oder eine kleine [Mixtape-Tauschaktion](/tag/mixtape/) ? Wer Lust hat, mich dabei zu unterstützen, kann mir natürlich jederzeit eine [E-Mail](mailto:info@cardamonchai.com)  zukommen lassen.
+Die meisten Artikel in meinem Blog drehen sich natürlich um mein Lieblingsthema. [Die Musik](/tag/musik/). Und das soll auch in Zukunft so bleiben. Vielleicht werde ich ja auch mal wieder eine [Verlosung](/tag/verlosung/) starten, oder eine kleine [Mixtape-Tauschaktion](/tag/mixtape/) ? Wer Lust hat, mich dabei zu unterstützen, kann mir natürlich jederzeit eine [E-Mail](mailto:info@soundsvegan.com)  zukommen lassen.
 
 <RemoteImage
   alt={`Jubiläums-Luftsprung`}
@@ -95,7 +95,7 @@ Wenn man mich nach meiner Lieblings-Blogrubrik fragen würde, würde ich auf all
 
 Fazit der 3 Jahre: 77 Follower auf meinem Blog, die regelmäßig vorbeischauen und gerne auch mal eine tolle Nachricht in meinem Postfach hinterlassen, eine liebe Postkarte aus dem Urlaub schicken oder mich in ihren Artikeln verlinken. 126 Facebook-Fans, die mir stets treu bleiben und um die 600 Verfolger auf Twitter, die retweeten und Mentions tippen, was das Zeug hält. Ich habe viele tolle Leute kennengelernt, viel geschrieben, fotografiert, tolle Feedbacks bekommen und hatte in jeder Lebenssituation einen tollen Begleiter dabei. Mein elektronisches Tagebuch, das mir immer zuhört, auch wenn alle anderen schon schlafen. Außerdem kann ich nach wie vor weder mit HTML noch mit Kommata umgehen. Ja und das hier ist  mein 242ster Artikel auf cardamonchai.
 
-Ich würde mich freuen, wenn Ihr mir trotzdem gewogen bleibt und meine Beiträge lest, kommentiert und weiterteilt. Ich habe hier in Kürze eine tolle Postkarten-Aktion geplant, wer mir auf Instagram folgt, hat schon was mitbekommen. Besonders Neugierige können sich gerne schon mal per [E-Mail](mailto:info@cardamonchai.com)  informieren, was das werden soll, alle anderen werden schon bald mit einem neuen Blogeintrag beglückt, in dem ich das Rätsel lüften werde.
+Ich würde mich freuen, wenn Ihr mir trotzdem gewogen bleibt und meine Beiträge lest, kommentiert und weiterteilt. Ich habe hier in Kürze eine tolle Postkarten-Aktion geplant, wer mir auf Instagram folgt, hat schon was mitbekommen. Besonders Neugierige können sich gerne schon mal per [E-Mail](mailto:info@soundsvegan.com)  informieren, was das werden soll, alle anderen werden schon bald mit einem neuen Blogeintrag beglückt, in dem ich das Rätsel lüften werde.
 
 Im Anschluss findet Ihr eine kleine Diashow meiner Lieblingsfotos aus den Artikeln der letzten 3 Jahre. Ich wünsche Euch viel Spaß beim Anschauen!
 

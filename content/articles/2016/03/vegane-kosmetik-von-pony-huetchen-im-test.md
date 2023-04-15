@@ -141,7 +141,7 @@ Die Deos von Pony Hütchen nutzen Matze und ich schon länger. Wir finden die Ko
 
 Von mir gibt es für die getesteten Produkte insgesamt 10 von 10 Punkten auf der Wohlfühlskala. Jedem/r, der/die an guter, handgemachter Kosmetik interessiert ist, kann ich Pony Hütchen nur wärmstens empfehlen. Für mich ist das vegane Kosmetitk, die auf der ganzen Linie überzeugen kann. Übrigens: Wenn man mal eine Frage zu den Inhaltsstoffen oder zum Versand hat, bekommt man immer schnell eine Antwort, auch das ist mir in der Vergangenheit schon positiv aufgefallen.
 
-Habt Ihr auch ein Produkt, von dem Ihr denkt, es sollte unbedingt in meinem Blog vorgestellt werden? Habt Ihr ein Startup gegründet und ich soll ein Interview mit Euch machen? Braucht Ihr einen Artikel zu einem bestimmten Thema auf Eurer Homepage und braucht jemanden, der ihn schreibt? Dann [meldet Euch gerne jederzeit](mailto:info@cardamonchai.com)  bei mir! Ich freue mich auf Eure Zuschriften.
+Habt Ihr auch ein Produkt, von dem Ihr denkt, es sollte unbedingt in meinem Blog vorgestellt werden? Habt Ihr ein Startup gegründet und ich soll ein Interview mit Euch machen? Braucht Ihr einen Artikel zu einem bestimmten Thema auf Eurer Homepage und braucht jemanden, der ihn schreibt? Dann [meldet Euch gerne jederzeit](mailto:info@soundsvegan.com)  bei mir! Ich freue mich auf Eure Zuschriften.
 
 Wenn Ihr jetzt gerne mal im Pony Hütchen Shop stöbern möchtet: [Hier entlang](http://www.ponyhuetchen.com/) !
 

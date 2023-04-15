@@ -47,7 +47,7 @@ Zusätzlich zu meiner freien Tätigkeit habe ich vor Kurzem wieder angefangen, i
 
 ## Eure Textaufträge sind immer willkommen
 
-Da ich im Geschäft derzeit nicht in Vollzeit arbeite, bin ich natürlich nach wie vor an Euren Schreib- und Korrekturaufträgen interessiert. Hört also nicht auf, mich [anzuschreiben](mailto:info@cardamonchai.com). Ich bin weiter für Euch da und freue mich auf Eure Zuschriften.
+Da ich im Geschäft derzeit nicht in Vollzeit arbeite, bin ich natürlich nach wie vor an Euren Schreib- und Korrekturaufträgen interessiert. Hört also nicht auf, mich [anzuschreiben](mailto:info@soundsvegan.com). Ich bin weiter für Euch da und freue mich auf Eure Zuschriften.
 
 Die Feiertage über werden wir dieses Jahr in Hamburg bleiben. Bestimmt wird dann auch endlich mal wieder Zeit für Fotostrecken sein, die ich mit Euch teilen kann.
 

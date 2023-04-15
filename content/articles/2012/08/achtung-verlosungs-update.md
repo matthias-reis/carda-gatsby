@@ -76,7 +76,7 @@ Ich freue mich natürlich sehr, wenn Ihr das auch weitersagt, Ihr dürft meinen 
 
 ## Gewinnspiel-Regeln
 
-- Sendet **bis zum 30. September 2012** eine E-Mail mit dem Foto Eures Lieblings-T-Shirts unter dem **Betreff 'T-Shirt-Idee'** an __info@cardamonchai.com__ . Natürlich sind auch Sweater oder Blusen erlaubt.
+- Sendet **bis zum 30. September 2012** eine E-Mail mit dem Foto Eures Lieblings-T-Shirts unter dem **Betreff 'T-Shirt-Idee'** an __info@soundsvegan.com__ . Natürlich sind auch Sweater oder Blusen erlaubt.
 - Die Gewinner werden von einer neutralen Person gezogen und per E-Mail über ihren Gewinn benachrichtigt.
 - Die Gewinne werden per Post versendet.
 - Der Rechtsweg ist ausgeschlossen.

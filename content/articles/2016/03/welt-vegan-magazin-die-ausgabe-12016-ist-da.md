@@ -48,7 +48,7 @@ Vom Beitrag über vegane [Hochzeitskleider](/2016/02/hochzeitsfotografin-petra-f
 
 Der erste handelt von der veganen Restaurantkette Alge Vegan (Seite 38), im zweiten dreht sich alles um die erste vegane Klinik Amerikas, das Barnard Medical Centre (Seite 116).
 
-Wenn Ihr was Tolles zum Thema vegan zu erzählen habt: Scheut Euch nicht, mich [anzuschreiben](mailto:info@cardamonchai.com) ! Ich berichte gerne darüber!
+Wenn Ihr was Tolles zum Thema vegan zu erzählen habt: Scheut Euch nicht, mich [anzuschreiben](mailto:info@soundsvegan.com) ! Ich berichte gerne darüber!
 
 ## Auf Wunsch texte ich auch für Euch!
 
@@ -61,7 +61,7 @@ Wenn Ihr was Tolles zum Thema vegan zu erzählen habt: Scheut Euch nicht, mich [
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAqEAACAQIEBQMFAQAAAAAAAAABAgMAEQQFBiESEzFRYUFxwSIjgpGh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAASAf/aAAwDAQACEQMRAD8AS9I6bixoVpeaEA9ADb+iqtk2lcuWNCrR3AB3iZb2380q6EcyRKArDtZD49QPmqThdzwEMq7mx6Dv17DxWqRxzDTGBlmkBjVUY3NgOhH+Ujao0csH3oha27AmxJ8VWSUaLDu0sC8UdrNIF4rdbXrKz+xwkhPCygbcDqQD+/elCAaXzbEYORDEdu16sWQalxMsC8aX/I0UVkbeJzt+V9UCMLdGsfilHOcyZkflwxRcQ35ahb+9hRRU0f/Z"
 />
 
-Wer sonst Interesse an meinen Texten hat: Thematisch bin ich nicht gebunden. Wer also jemanden braucht, der für seine Webseite schreibt, ein Thema hat, dass er gerne in Worte fassen möchte, aber irgendwie nicht genau weiß wie: [Meldet Euch einfach](mailto:info@cardamonchai.com), ich freue mich immer über neue [Aufträge](mailto:info@cardamonchai.com) !
+Wer sonst Interesse an meinen Texten hat: Thematisch bin ich nicht gebunden. Wer also jemanden braucht, der für seine Webseite schreibt, ein Thema hat, dass er gerne in Worte fassen möchte, aber irgendwie nicht genau weiß wie: [Meldet Euch einfach](mailto:info@soundsvegan.com), ich freue mich immer über neue [Aufträge](mailto:info@soundsvegan.com) !
 
 Doch jetzt erst mal viel Spaß mit der neuen Ausgabe vom Welt Vegan Magazin! Tipp: Genießt dazu doch einen leckeren Gewürztee mit [selbst gemachter Sojamilch](/2014/12/diy-sojamilch/) !
 

@@ -28,7 +28,7 @@ Zusammengefasst habe ich nicht nur die Views und Unique Visits sowie sämtliche 
 
 ## Weitere Infos auf Anfrage
 
-Weitere Infos gebe ich gerne auf Anfrage weiter. Sendet mir am besten einfach eine  [Nachricht](mailto:info@cardamonchai.com)  oder hinterlasst einen kurzen Kommentar. Ich freue mich immer über ernstgemeinte Angebote sowie Tipps und Anregungen. Ich freue mich auf spannende Kooperationen und interessante Projekte mit Euch!
+Weitere Infos gebe ich gerne auf Anfrage weiter. Sendet mir am besten einfach eine  [Nachricht](mailto:info@soundsvegan.com) oder hinterlasst einen kurzen Kommentar. Ich freue mich immer über ernstgemeinte Angebote sowie Tipps und Anregungen. Ich freue mich auf spannende Kooperationen und interessante Projekte mit Euch!
 
 ## Mediakit jetzt anschauen
 
@@ -36,4 +36,4 @@ Weitere Infos gebe ich gerne auf Anfrage weiter. Sendet mir am besten einfach ei
 
 Stand 12/2019 Anne bloggt cardamonchai - Rock 'n' Roll vegan
 
-Jetzt per [E-Mail](mailto:info@cardamonchai.com)  kontaktieren.
+Jetzt per [E-Mail](mailto:info@soundsvegan.com)  kontaktieren.

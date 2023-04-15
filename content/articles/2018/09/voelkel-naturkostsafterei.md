@@ -129,7 +129,7 @@ Drin stecken natürliches Mineralwasser, Roter Traubensaft und Schwarzer Johanni
 
 Ihr seid auf der Suche nach leckeren veganen Getränke? [In meinem Artikel zum Thema "Versteckte tierische Inhaltsstoffe in Lebensmitteln"](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/) findet Ihr unter anderem auch eine umfangreiche Liste nicht-alkoholischer und alkoholischer Getränke. Auch, wenn sie selbstverständlich nicht vollständig ist: Interessierte können daraus sicher die ein oder andere nützliche Information ziehen.
 
-Ihr seid selbst Hersteller und möchte, dass ich Euer Getränk teste und ihn meinem Blog vorstelle?  [Kommt gerne jederzeit auf mich zu](mailto:info@cardamonchai.com). Ich freue mich auf Eure Zuschriften!
+Ihr seid selbst Hersteller und möchte, dass ich Euer Getränk teste und ihn meinem Blog vorstelle?  [Kommt gerne jederzeit auf mich zu](mailto:info@soundsvegan.com). Ich freue mich auf Eure Zuschriften!
 
 Natürlich teste ich längst nicht nur Getränke, sondern auch zahlreiche andere [vegane und nachhaltige Produkte](/tag/vegan-2/produkte/).
 

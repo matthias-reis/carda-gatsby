@@ -61,7 +61,7 @@ Natürlich bietet Euch das Welt Vegan Magazin auch dieses Mal noch viele weiter
 
 Ab sofort im gut sortierten Zeitschriftenhandel: Das Welt Vegan Magazin - Ausgabe 5.
 
-Dir haben meine Texte im Welt Vegan Magazin gefallen und Du bist auf der Suche nach einer Texterin? Ich freue mich immer über [Aufträge](mailto:info@cardamonchai.com) ! Thematisch bin ich nicht gebunden!
+Dir haben meine Texte im Welt Vegan Magazin gefallen und Du bist auf der Suche nach einer Texterin? Ich freue mich immer über [Aufträge](mailto:info@soundsvegan.com) ! Thematisch bin ich nicht gebunden!
 
 <Gallery
   images={[

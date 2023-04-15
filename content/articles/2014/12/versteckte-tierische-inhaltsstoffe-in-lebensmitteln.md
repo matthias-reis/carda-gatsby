@@ -178,7 +178,7 @@ Außerdem gilt es natürlich weiterhin, für eine klare Auszeichnungspflicht von
 
 Ob es wirklich möglich ist, komplett vegan zu leben, was es mit **Tierversuchen** auf sich hat und wo sich in unserem Alltag noch überall Tierisches verbirgt, möchte ich in der 10. und letzten Folge meiner Reportage "10 Fakten über Veganismus" genauer beleuchten.
 
-**Hinweis:** Dies ist mein persönlicher Blog. Für Vollständigkeit und Richtigkeit meiner Angaben übernehme ich keine Gewehr. Neue Informationen [nehme ich gerne entgegen](mailto:info@cardamonchai.com) und aktualisiere den Artikel entsprechend.
+**Hinweis:** Dies ist mein persönlicher Blog. Für Vollständigkeit und Richtigkeit meiner Angaben übernehme ich keine Gewehr. Neue Informationen [nehme ich gerne entgegen](mailto:info@soundsvegan.com) und aktualisiere den Artikel entsprechend.
 
 [Hier geht's zu Teil 10 des Artikels](/2015/09/ich-bleib-dabei-vegan-macht-spass/)
 

@@ -58,7 +58,7 @@ Wiesenstraße 7
 20255 Hamburg  
 Deutschland
 
-E-Mail-Adresse: [info@cardamonchai.com](mailto:info@cardamonchai.com).
+E-Mail-Adresse: [info@soundsvegan.com](mailto:info@soundsvegan.com).
 
 [Impressum](/impressum)
 
