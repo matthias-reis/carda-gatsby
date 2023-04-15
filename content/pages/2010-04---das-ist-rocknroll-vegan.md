@@ -103,6 +103,6 @@ Wenn Euch meine Texte gefallen und Ihr ab jetzt nichts mehr verpassen möchtet, 
 
 ## Kaffeekasse
 
-Wer mir gerne einen Kaffee spendieren möchte, kann das über meinen Paypal-Me-Link tun:
+Wer mir gerne einen Kaffee spendieren möchte, kann das über Ko-fi tun:
 
-[paypal.me/cardamonchai](https://www.paypal.com/paypalme/my/profile)
+[https://ko-fi.com/soundsvegan](https://ko-fi.com/soundsvegan)
