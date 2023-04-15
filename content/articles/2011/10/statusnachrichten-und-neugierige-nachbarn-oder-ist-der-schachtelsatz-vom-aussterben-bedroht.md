@@ -56,7 +56,7 @@ Ich bin gerade von der Arbeit nach Hause gekommen, sitze auf dem Parkplatz vor d
 
 ~~TWEET Die Frau im Wagen vor mir bohrt in der Nase und sieht sich das Ergebnis an. #Hall_of_Fame~~
 
-~~TWEET Warum brauche ich für meinen Ausweis ein Biometrisches Bild, wenn Gesichtserkennung über facebook-Schnappschüsse möglich ist?~~
+~~TWEET Warum brauche ich für meinen Ausweis ein Biometrisches Bild, wenn Gesichtserkennung über Facebook-Schnappschüsse möglich ist?~~
 
 ~~TWEET Sitze vorm Haus im Auto und schreibe. Der Nachbar scheint fasziniert zu sein. Mist, der Bleistift ist schon ganz stumpf. #Was_macht_die_da?~~
 

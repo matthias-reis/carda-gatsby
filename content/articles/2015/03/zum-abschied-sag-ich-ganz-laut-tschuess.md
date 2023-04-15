@@ -51,6 +51,4 @@ Ich freue mich auf Euch und bin schon sehr gespannt, wie Euch das neue Outfit vo
 
 Natürlich wird es dann auch einen Begrüßungsartikel geben, sobald der Umzug gelaufen ist. Außerdem habe ich in den letzten Tagen schon ein paar ganz besondere Spezialitäten für Euch vorbereitet. Ich möchte noch nicht allzu viel verraten, deshalb lasse ich erst mal nur eine Katze aus dem Sack, die anderen müssen noch etwas warten: Die lang ersehnte vegane **Festivalliste** ist fertig und schon in ein paar Stunden live!
 
-Haltet mir die Treue, ich halte sie Euch! Natürlich werde ich auch über [Facebook](www.facebook.com/cardamonchai), [Twitter](https://twitter.com/Anne_Reko) und [E-Mail](mailto:info@soundsvegan.com) weiterhin erreichbar sein und wer ganz lieb ist, schreibt mir ab dem 15. März eine **Postkarte** an [meine neue Adresse](/impressum), der Kühlschrank in Hamburg ist noch ganz kahl und möchte gerne dekoriert werden!
-
 [Hier geht's zum fünften Teil des Artikels](/2015/03/herzlich-willkommen-in-meinem-neuen-weblog/)

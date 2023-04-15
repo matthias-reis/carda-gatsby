@@ -17,7 +17,6 @@ labels:
   - Blizzard
   - Britische Inseln
   - Cork
-  - facebook
   - Fernweh
   - Hipster
   - Irland

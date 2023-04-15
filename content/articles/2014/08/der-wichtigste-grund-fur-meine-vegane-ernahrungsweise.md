@@ -17,8 +17,6 @@ labels:
   - animalequality
   - Ernährung
   - Ernährung & Gesundheit
-  - facebook
-  - Facebook Gewinnspiel
   - foodblog
   - foodblogger
   - Geschichten & Erlebtes

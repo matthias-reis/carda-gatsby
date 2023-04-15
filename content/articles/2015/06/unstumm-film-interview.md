@@ -201,6 +201,4 @@ Hier ist der aktuelle Film der Unstumm Crew:
 
 <YouTube id="p3FMK47tzCA" />
 
-Wer mehr über Unstumm Film erfahren möchte, kann dies [auf Hendriks und Alices Facebook-Seite tun](https://www.facebook.com/unstummfilm).
-
 **Bilder & Videos:** Unstumm Film

@@ -153,5 +153,3 @@ Das sind wirklich eine ganze Menge gute Tipps und Ratschläge. Vor allem finde i
 />
 
 Es ist wirklich toll, wie viele positive Reaktionen ich auf dieses heikle Thema bekomme. Damit hätte ich wirklich nie gerechnet. Ich hätte Euch wohl schon viel früher davon erzählen sollen.
-
-herzlichen Dank nochmal an alle! Ich werde natürlich weiter berichten. Eure Fragen, Antworten, Infos, Tipps, Anregungen, Kommentare und Kritiken könnt Ihr wie immer per  [E-Mail](mailto:info@soundsvegan.com), hier als Kommentar direkt unter dem Artikel, per PN auf  [Facebook](http://www.facebook.com/cardamonchai)  oder per DM auf  [Twitter](https://twitter.com/Anne_Reko)  loswerden!

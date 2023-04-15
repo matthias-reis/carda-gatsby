@@ -32,7 +32,7 @@ Einige von Euch kennen vielleicht den Hamburger Social Media Aktivisten Michel 
 
 <blockquote>
 
-Weil ich nicht gut laufen kann, fahre ich seit 23 Jahren mit einem Roller. Heute Morgen wurde ich aus zwei Bussen der Hamburger [HOCHBAHN](https://www.facebook.com/hochbahn/) geschmissen. Begründung: Ich bin eine Gefahr für mich &amp; Mitfahrende...
+Weil ich nicht gut laufen kann, fahre ich seit 23 Jahren mit einem Roller. Heute Morgen wurde ich aus zwei Bussen der Hamburger HOCHBAHN geschmissen. Begründung: Ich bin eine Gefahr für mich &amp; Mitfahrende...
 
 ## Ich wollte zum Augenarzt.
 

@@ -55,13 +55,13 @@ Habe ich ein Gefühl von Nostalgie in Dir geweckt? Eines der kleinen, farbenfroh
 
 ## So kannst Du gewinnen
 
-Ganz einfach: Wer in der Zeit vom 18. Februar bis zum 3. März 2016  [meine Facebook-Seite](https://www.facebook.com/cardamonchai) mit "gefällt mir" markiert UND einen Kommentar, warum er/sie gerne gewinnen möchte _direkt hier im Blog unter dem Beitrag_ postet, nimmt automatisch an der Verlosung teil. Natürlich nehmen auch alle teil, denen meine Facebook-Seite bereits gefällt. Wenn das bei Dir auch so ist, musst Du nur noch Deinen Kommentar unter diesem Artikel posten, um zu gewinnen.
+Ganz einfach: Wer in der Zeit vom 18. Februar bis zum 3. März 2016 meine Facebook-Seite mit "gefällt mir" markiert UND einen Kommentar, warum er/sie gerne gewinnen möchte _direkt hier im Blog unter dem Beitrag_ postet, nimmt automatisch an der Verlosung teil. Natürlich nehmen auch alle teil, denen meine Facebook-Seite bereits gefällt. Wenn das bei Dir auch so ist, musst Du nur noch Deinen Kommentar unter diesem Artikel posten, um zu gewinnen.
 
 Im Pott sind insgesamt sechs Ponys, es wird also sechs Gewinner/innen geben. Die Ponys sind auf den Fotos zu sehen. Sie sind weder neu, noch originalverpackt, ich habe sie alle bei Ebay erworben. Sie sind in gutem, gepflegten Zustand, können jedoch leichte Gebrauchsspuren aufweisen.
 
 ## Teilnahmebedingungen
 
-Voraussetzung, um an meinem Gewinnspiel teilzunehmen ist, dass Du mindestens 18 Jahre alt bist und in Deutschland wohnst. Die Gewinner werden am 5. März auf [meiner Facebook-Seite](https://www.facebook.com/cardamonchai) bekanntgegeben, Du solltest die Seite also an diesem Tag auf jeden Fall im Auge behalten.
+Voraussetzung, um an meinem Gewinnspiel teilzunehmen ist, dass Du mindestens 18 Jahre alt bist und in Deutschland wohnst. Die Gewinner werden am 5. März auf meiner Facebook-Seite bekanntgegeben, Du solltest die Seite also an diesem Tag auf jeden Fall im Auge behalten.
 
 Die Teilnehmer erklären sich im Falle eines Gewinnes mit der Veröffentlichung ihres Namens hier im Blog im Zuge eines kurzen Artikels im Anschluss an das Gewinnspiel einverstanden.
 
@@ -74,7 +74,5 @@ Die Gewinne können nicht ausgezahlt werden und sind nicht übertragbar. Die Ver
 ## Also
 
 Am besten gleich einen Kommentar hier unter dem Artikel im Blog dalassen! Erzähl mir, warum Du gewinnen möchtest! Im Anschluss gibst Du mir noch [Dein "Like" bei Facebook](https://www.facebook.com/cardamonchai) und schon landest Du in der Lostrommel.
-
-Kommentieren kannst Du gleich hier im Artikel oben rechts (Wenn Du nicht mit dem Computer im Internet unterwegs bist, sondern mit dem Handy ganz unten unter den Fotos), meine Facebook Seite findest Du  [unter diesem Link hier](https://www.facebook.com/cardamonchai) ! Natürlich freue ich mich auch, wenn Dir meine Facebook-Seite nach der Verlosung auch weiterhin gefällt
 
 <Gallery name="flickr/annemylittlepony" />

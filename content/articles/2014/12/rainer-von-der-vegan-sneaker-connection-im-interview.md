@@ -142,7 +142,7 @@ Folgendes meldete die Vegan Sneaker Connection gerade über ihre Facebook-Seite:
 
 <blockquote>
 
-"Die Zeiten ändern sich, Menschen ändern sich, alles ändert sich. Wir, die Admins dieser Seite, haben keine Zeit mehr, regelmäßig Nachrichten zu posten. Das Selbe gilt für das schnell Beantworten von Nachrichten. Wir haben das hier vor ein paar Jahren gegründet und hatten die Möglichkeit, grundlegende Informationen an all die veganen Sneakers Liebhaber weltweit herauszugeben. Es gab und gibt immernoch eine große Nachfrage nach Informationen innerhalb der Community. Aus diesem Grunde empfehlen wir Euch sehr, [unserer Facebook-Gruppe beizutreten.](https://www.facebook.com/groups/Vegansneakerconnection/)
+"Die Zeiten ändern sich, Menschen ändern sich, alles ändert sich. Wir, die Admins dieser Seite, haben keine Zeit mehr, regelmäßig Nachrichten zu posten. Das Selbe gilt für das schnell Beantworten von Nachrichten. Wir haben das hier vor ein paar Jahren gegründet und hatten die Möglichkeit, grundlegende Informationen an all die veganen Sneakers Liebhaber weltweit herauszugeben. Es gab und gibt immernoch eine große Nachfrage nach Informationen innerhalb der Community. Aus diesem Grunde empfehlen wir Euch sehr, unserer Facebook-Gruppe beizutreten.
 
 Es gibt dort eine Menge Menschen, die dazu in der Lage sind, Euch dabei zu unterstützen, den Schuh Eurer Wünsche zu finden. Ihr findet uns auch bei Instagram.
 

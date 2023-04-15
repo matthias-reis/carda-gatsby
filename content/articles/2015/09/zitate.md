@@ -40,12 +40,6 @@ subTitle: Zitate in meinem Blog
 
 Jedes Mal, wenn ein neues Zitat im Blog und und auf den anderen Kanälen erscheint, wird sich der Beitrag automatisch um ein Bild erweitern. Nicht schlecht, oder?
 
-## Weise Worte - Zitate besonderer Menschen
-
-In der Rubrik "Weise Worte" erscheinen nicht nur die Zitate von Stars und Sternchen, ich möchte auch die Gedanken weniger bekannter Menschen mit Euch teilen. Wer ein schönes Zitat hat, von dem er meint, dass es genau in diese Kategorie passt: Immer her damit, ich freue mich auf [Eure Zuschriften](mailto:anne.reis@soundsvegan.com) ! Meine Facebook-Seite, auf der die Memes erscheinen, findet Ihr [hier](http://www.facebook.com/cardamonchai).
-
-Doch jetzt erst mal viel Spaß beim Lesen.
-
 <Gallery name="flickr/cardameme" />
 
 Wollt Ihr mal einen interessanten Text zum Thema YOLO lesen? [Ihr findet Ihn hier](/2015/04/yolo-you-only-live-once/). **Foto im Header:** [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&profile=default&search=anf%C3%BChrungszeichen&fulltext=Search&uselang=de)

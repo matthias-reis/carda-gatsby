@@ -47,7 +47,7 @@ Im römischen Reich gab es zwei Arten von Zensus: Den Reichszensus (lustrum), di
 
 In Deutschland findet eine Volkszählung statt. "Wir sind gläsern!", schreibt die TAZ heute. Ein Drittel der deutschen Bevölkerung soll unter anderem Auskunft über Einkünfte, Bildung und Grundstücksbesitz geben. Es werden in erste Linie Daten von Bewohnern von Gemeinschaftseinrichtungen und Grundstücksbesitzern gesammelt.
 
-Was ist davon zu halten? Kann man überhaupt noch vertrauen? Unsere Daten  werden gespeichert, sobald wir mit der Kreditkarte bezahlen, oder uns auf facebook anmelden. Wer garantiert dafür, dass sie nicht doch eines Tages weitergegeben, oder weiterverwendet werden? Einige Fälle, in denen das geschehen ist, sind bereits publik geworden. Wird das irgendwann allgemein so üblich und geduldet sein? Das erinnert den Ein oder Anderen schon fast an düstere Zukunftsszenarios, wie aus dem Buch "1984" von George Orwell. Müssen wir uns Sorgen machen? Sollte man das einfach als gegeben hinnehmen?
+Was ist davon zu halten? Kann man überhaupt noch vertrauen? Unsere Daten  werden gespeichert, sobald wir mit der Kreditkarte bezahlen, oder uns auf Facebook anmelden. Wer garantiert dafür, dass sie nicht doch eines Tages weitergegeben, oder weiterverwendet werden? Einige Fälle, in denen das geschehen ist, sind bereits publik geworden. Wird das irgendwann allgemein so üblich und geduldet sein? Das erinnert den Ein oder Anderen schon fast an düstere Zukunftsszenarios, wie aus dem Buch "1984" von George Orwell. Müssen wir uns Sorgen machen? Sollte man das einfach als gegeben hinnehmen?
 
 An die Bevölkerung werden folgende Fragebögen ausgegeben:
 
@@ -55,7 +55,7 @@ An die Bevölkerung werden folgende Fragebögen ausgegeben:
 
 "Der Überblick muss behalten werden." steht auf der Seite des Bundestages. Erklärt wird das Ganze folgendermaßen: "Politische Entscheidungen funktionieren wie in einem privaten Haushalt, verliert man den Überblick, kauft man schnell zu viel, zu wenig, oder das Falsche ein." Die Ergebnisse des Zensus sollen Daten für Analysen bieten, die Grundlage für Entscheidungen bei der Infrastrukturplanung darstellen sollen. Doch werden sie nur dafür verwendet? Im Moment vielleicht, aber was wird im Laufe der Jahre mit unseren Daten geschehen?
 
-Die letzte vollständige Erhebung fand 1987 statt, damals wurde deutschlandweit dagegen protestiert. Was ist los? Fühlen sich die Bürger heute sicherer? Sollte man sich nicht gerade im Zeitalter von GPS, facebook und Google mehr Gedanken denn je über dieses Thema machen?
+Die letzte vollständige Erhebung fand 1987 statt, damals wurde deutschlandweit dagegen protestiert. Was ist los? Fühlen sich die Bürger heute sicherer? Sollte man sich nicht gerade im Zeitalter von GPS, Facebook und Google mehr Gedanken denn je über dieses Thema machen?
 
 Die Zensusrunde soll künftig alle zehn Jahre stattfinden.
 

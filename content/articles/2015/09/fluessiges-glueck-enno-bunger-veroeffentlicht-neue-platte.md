@@ -35,8 +35,6 @@ subTitle: So klingt die Vorauskopplung "Renn!"
 
 **Enno Bunger begegnete mir zum ersten Mal auf dem Backstage Open Festival in München 2009. Seither habe ich den Musiker, das muss ich leider zugeben, ein bisschen aus den Augen verloren.**
 
-Bis der Künstler vor kurzem meine [Facebook-Seite](http://www.facebook.com/cardamonchai) mit "gefällt mir" markierte und mir kurz danach bei Instagram folgte. Mein Interesse war geweckt. Ich musste mich mit seiner Musik beschäftigen und werde mir seine neue Platte auf jeden Fall anhören.
-
 <RemoteImage
   alt={`Enno Bunger beim Backstage Open Festival in München 2009`}
   size="full"

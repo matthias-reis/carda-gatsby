@@ -15,9 +15,6 @@ ogImage: null
 labels:
   - Absinthe Minded
   - Blog
-  - cardamon82
-  - cardamonchai
-  - facebook
   - Geschichten & Erlebtes
   - Jubiläum
   - lernen
@@ -36,7 +33,7 @@ subTitle: 666 Klicks
 
 **Dies ist der 100ste Beitrag in meinem Blog, gerade wurde er das 666ste Mal angeklickt. Wenn das kein Grund ist, ein Jubiläum zu feiern!**
 
-Ein kleines Experiment habe ich gestern mit der cardamonchai-facebook-Seite gestartet, insgesamt haben sich bereits 62 Fans gefunden.
+Ein kleines Experiment habe ich gestern mit meiner Facebook-Seite gestartet, insgesamt haben sich bereits 62 Fans gefunden.
 
 Busse, Hasen, Insomnie, Musik, Ideen, Luftpumpe, Bier, Bandprobe,  Katzenjammer – immernoch 15 Seiten...
 

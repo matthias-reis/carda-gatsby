@@ -24,8 +24,6 @@ labels:
   - das Unfassbare
   - Doppelanschlag
   - Explosion
-  - facebook
-  - facebook-Profil
   - Fanatismus
   - Ferienlager
   - Fernsehen
