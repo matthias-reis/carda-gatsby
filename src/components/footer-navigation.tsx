@@ -42,7 +42,7 @@ export const FooterNavigation: React.FC = () => (
         </Item>
       </Navigation>
       <Copyright>
-        © {new Date().getFullYear()} · cardamonchai.com · Rock 'n' Roll vegan.
+        © {new Date().getFullYear()} · soundsvegan.com · Anne Reis.
       </Copyright>
       <TreeNation />
     </Container>

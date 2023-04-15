@@ -9,12 +9,19 @@ import { event } from './analytics';
 
 import { space, color } from '../style';
 
-export const Header: React.FC = () => (
+export const Header: React.FC<{ skipLogo: boolean }> = ({ skipLogo }) => (
   <Wrapper>
-    <HomeLink to="/" onClick={() => event('link/click', 'link', 'header/home')}>
-      <Logo />
-      <p>cardamonchai.com</p>
-    </HomeLink>
+    {skipLogo ? (
+      <div />
+    ) : (
+      <HomeLink
+        to="/"
+        onClick={() => event('link/click', 'link', 'header/home')}
+      >
+        <Logo />
+        <p>soundsvegan.com</p>
+      </HomeLink>
+    )}
     <RightSide>
       <MainNav />
       <Search />

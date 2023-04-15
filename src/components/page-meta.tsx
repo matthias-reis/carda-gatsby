@@ -4,7 +4,7 @@ import { pageView } from './analytics';
 import { Imagine } from './imagine';
 import type { Article } from '../types';
 
-const SERVER = `https://cardamonchai.com`;
+const SERVER = `https://soundsvegan.com`;
 
 export const PageMeta: React.FC<{
   meta: Article;
@@ -32,7 +32,7 @@ export const PageMeta: React.FC<{
       <meta name="description" content={meta.frontmatter.description} />
       <link
         rel="canonical"
-        href={`https://cardamonchai.com${meta.fields.path}`}
+        href={`https://soundsvegan.com${meta.fields.path}`}
       />
       <meta
         property="og:locale"
@@ -61,7 +61,6 @@ export const PageMeta: React.FC<{
         content={meta.frontmatter.description}
       />
       <meta property="og:url" content={`${SERVER}${meta.fields.path}`} />
-      <meta property="article:author" content="www.facebook.com/cardamonchai" />
       <meta
         property="article:published_time"
         content={meta.frontmatter.date.toString()}

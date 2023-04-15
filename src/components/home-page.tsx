@@ -76,7 +76,7 @@ export const HomePage: React.FC<{
       <ContentSection>
         <Hd>
           <H1>Rock 'n' Roll vegan</H1>
-          <HomeLogo />
+          <HomeLogo width={600} />
         </Hd>
         <ArticleList
           articles={availableArticles.slice(0, 3)}
@@ -107,14 +107,14 @@ export const HomePage: React.FC<{
 };
 
 const ContentSection = styled.div`
-  margin: ${space[3]} ${space[4]};
+  margin: -${space[3]} ${space[4]} ${space[4]} ${space[4]};
   @media (max-width: 899px) {
     margin: ${space[1]};
   }
 `;
 
 const Hd = styled.div`
-  margin: ${space[4]} 0;
+  margin: ${space[0]} 0 ${space[3]} 0;
   text-align: center;
   & > svg {
     max-width: 100%;

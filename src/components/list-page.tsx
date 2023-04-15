@@ -42,7 +42,7 @@ const ListPage: React.FC<{
           },
           frontmatter: {
             title: `${topic}${title}`,
-            subTitle: 'Anne bloggt cardamonchai',
+            subTitle: 'Sounds Vegan',
             description,
             type: '',
             typeName: 'Homepage',

@@ -11,17 +11,7 @@ const Section = styled.aside`
   color: ${color.text10};
 `;
 
-const Comments: React.FC<{ meta: Article }> = ({ meta }) => (
-  <DiscussionEmbed
-    shortname="cardamonchai"
-    config={{
-      url: `https://cardamonchai.com${meta.fields.path}`,
-      identifier: `https://cardamonchai.com${meta.fields.path}`,
-      title: meta.frontmatter.title,
-      language: 'de',
-    }}
-  />
-);
+const Comments: React.FC<{ meta: Article }> = ({ meta }) => <div />;
 const Loading: React.FC = () => <h1>...</h1>;
 
 export const ArticleComments: React.FC<{ meta: Article }> = ({ meta }) => {

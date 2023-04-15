@@ -18,7 +18,7 @@ const HomePageController: React.FC<{ data: ListQuery }> = ({ data }) => {
     .map(toCompactArticle);
 
   return (
-    <Frame>
+    <Frame skipLogo>
       <ErrorBoundary>
         <HomePage articles={articles} />
       </ErrorBoundary>

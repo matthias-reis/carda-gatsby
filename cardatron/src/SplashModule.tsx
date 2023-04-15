@@ -11,10 +11,10 @@ export const SplashModule: FC = () => {
     >
       <Logo width={256} height={256} />
       <Typography variant="h3" sx={{ opacity: 0.3, fontWeight: 'bold' }}>
-        Cardatron
+        Anne CMS
       </Typography>
       <Typography variant="h6" sx={{ opacity: 0.8, fontWeight: 300 }}>
-        Rock 'n' Roll Vegan Content Management
+        Sounds Vegan Content Management
       </Typography>
     </Stack>
   );

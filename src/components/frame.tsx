@@ -9,7 +9,10 @@ import { SearchProvider } from './search-provider';
 import { space, font, line, color, fontSize } from '../style';
 import { Helmet } from 'react-helmet';
 
-export const Frame: React.FC = ({ children }) => {
+export const Frame: React.FC<{ skipLogo: boolean }> = ({
+  children,
+  skipLogo = false,
+}) => {
   return (
     <SearchProvider>
       <PageContainer>
@@ -174,7 +177,7 @@ export const Frame: React.FC = ({ children }) => {
             }
           `}
         />
-        <Header />
+        <Header skipLogo={skipLogo} />
         <Helmet>
           <meta
             name="viewport"
@@ -227,14 +230,6 @@ export const Frame: React.FC = ({ children }) => {
             content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
           />
           <meta property="og:site_name" content="Rock 'n' Roll vegan" />
-          <meta property="fb:app_id" content="1254825647866255" />
-          <meta
-            property="article:publisher"
-            content="https://www.facebook.com/cardamonchai"
-          />
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:creator" content="@Anne_Reko" />
-          <meta name="twitter:site" content="@Anne_Reko" />
           <link
             rel="alternate"
             type="application/rss+xml"
