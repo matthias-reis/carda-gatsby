@@ -11,7 +11,7 @@ export const FooterNavigation: React.FC = () => (
     <Container large>
       <Navigation>
         <Item
-          to="/das-ist-rocknroll-vegan"
+          to="/das-ist-sounds-vegan"
           onClick={() => event('link/click', 'link', 'footer/about')}
         >
           Über mich
