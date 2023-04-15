@@ -33,7 +33,7 @@ labels:
 language: de
 ---
 
-## cardamonchai.com schon bald in neuem Gewand
+## soundsvegan.com schon bald in neuem Gewand
 
 > Man schreibt nicht so ausführlich, wenn man den Abschied gibt.
 
@@ -43,9 +43,9 @@ Nicht nur mein Blog zieht um, sondern auch Matze und ich. Vom Süden geht es in 
 
 ### Neue URL ab heute Abend
 
-Wie angekündigt, ist meine Zeit bei Wordpress jetzt zu Ende. Mein Blog wird in Kürze nur noch unter cardamonchai.com zu erreichen sein.
+Wie angekündigt, ist meine Zeit bei Wordpress jetzt zu Ende. Mein Blog wird in Kürze nur noch unter soundsvegan.com zu erreichen sein.
 
-Ich freue mich auf Euch und bin schon sehr gespannt, wie Euch das neue Outfit von cardamonchai.com gefällt! Heute Abend werde ich hier den Stecker ziehen und mit Sack und Pack auf meine neue Seite umziehen.
+Ich freue mich auf Euch und bin schon sehr gespannt, wie Euch das neue Outfit von soundsvegan.com gefällt! Heute Abend werde ich hier den Stecker ziehen und mit Sack und Pack auf meine neue Seite umziehen.
 
 ### Ich lasse die Katze aus dem Sack!
 

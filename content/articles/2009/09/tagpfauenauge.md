@@ -5,8 +5,8 @@ path: /2009/09/tagpfauenauge/
 type: Meme
 typeName: Meme
 title: Tagpfauenauge
-seoTitle: Tagpfauenauge - Anne bloggt cardamonchai
-ogTitle: Tagpfauenauge - Anne bloggt cardamonchai
+seoTitle: Tagpfauenauge - Sounds Vegan
+ogTitle: Tagpfauenauge - Sounds Vegan
 description: Tagpfauenauge - Gesehen in Friedberg
 excerpt: Dieses wunderbare Tagpfauenauge habe ich in Friedberg in Bayern gesehen.
 fileName: 2009-09---tagpfauenauge.md

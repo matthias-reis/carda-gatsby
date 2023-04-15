@@ -141,4 +141,4 @@ I refuse to give in to one-sided destructiveness and dystopian scenarios, prefer
 
 **Paul:** Likewise! I hope your readers feel the same way.
 
-[Please check out my interview with The Ocean Founder Robin Staps](https://cardamonchai.com/2020/09/the-ocean-robin-staps-interview-en).
+[Please check out my interview with The Ocean Founder Robin Staps](/2020/09/the-ocean-robin-staps-interview-en).

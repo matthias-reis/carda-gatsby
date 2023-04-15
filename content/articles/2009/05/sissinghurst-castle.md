@@ -5,8 +5,8 @@ path: '/2009/05/sissinghurst-castle/'
 type: Galerie
 typeName: Galerie
 title: Sissinghurst Castle
-seoTitle: Sissinghurst Castle - Anne bloggt cardamonchai
-ogTitle: Sissinghurst Castle - Anne bloggt cardamonchai
+seoTitle: Sissinghurst Castle - Sounds Vegan
+ogTitle: Sissinghurst Castle - Sounds Vegan
 description: 'Erinnerungen an den Frühling in England 2009 - Heute: Sissinghurst Castle'
 excerpt: Sissinghurst liegt ca. 40 km südwestlich von Canterbury. Der Garten um den Landsitz wurde ab 1930 angelegt.
 fileName: 2009-05---sissinghurst-castle.md

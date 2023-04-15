@@ -347,7 +347,7 @@ Gegen 19 Uhr wurden wir fertig. Bei meinem Tattoo wird noch eine zweite Session 
 
 Wir plauderten noch ein bisschen mit Matt, bedankten uns für seine tolle Arbeit und machten uns auf den Heimweg. An der Ampelkreuzung vor unserem Haus sprach uns eine Frau auf mein Tattoo an. "Darf ihnen was sagen? Das ist herrausragend schön!", meinte sie. "Etwas richtig Besonderes. Das hat wirklich nicht jeder!", Ihr könnt Euch nicht vorstellen, wie stolz klein Bolle in diesem Moment war.
 
-Natürlich bin ich auch gespannt, was Ihr zu sagen habt, im Anschluss noch ein paar Bilder. Das sieht alles noch ein bisschen blutig aus, aber ich denke man kann es schon recht genau erkennen. Ich werde weiter berichten und in Kürze seht Ihr es auf cardamonchai.com live und in Farbe: Mein neues Design!
+Natürlich bin ich auch gespannt, was Ihr zu sagen habt, im Anschluss noch ein paar Bilder. Das sieht alles noch ein bisschen blutig aus, aber ich denke man kann es schon recht genau erkennen. Ich werde weiter berichten und in Kürze seht Ihr es auf soundsvegan.com live und in Farbe: Mein neues Design!
 
 [Hier geht's zum dritten Teil des Artikels](/2015/02/blog-relaunch-und-umzug-nach-hamburg/)
 

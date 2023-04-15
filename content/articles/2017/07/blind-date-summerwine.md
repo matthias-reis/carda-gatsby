@@ -91,7 +91,7 @@ Von der nahegelegenen Promenade dringen Geräusche zu den Menschen am Strand. Du
 [Der kleine Horrorgarten](http://der-kleine-horror-garten.de/)  
 [Ye olde Kitchen](http://yeoldekitchen.com/)  
 [Laubenhausmädchen](https://laubenhausmaedchen.wordpress.com/)  
-[Karo-Tina Aldente](https://karotinasblog.wordpress.com/) Anne bloggt cardamonchai [Sind im Garten](https://sindimgarten.wordpress.com/)  
+[Karo-Tina Aldente](https://karotinasblog.wordpress.com/) Sounds Vegan [Sind im Garten](https://sindimgarten.wordpress.com/)  
 [Milli Bloom](http://millibloom.com/)
 
 Über warmen Asphalt [habe ich hier schon mal geschrieben](/2012/03/sonnentraenen/). Auch diese Geschichte lohnt es sich zu lesen.

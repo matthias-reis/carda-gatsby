@@ -5,8 +5,8 @@ path: "/2009/01/calexico-live-roxy-ulm/"
 type: Galerie
 typeName: Konzertbericht
 title: Calexico live @ Roxy Ulm
-seoTitle: Calexico live @ Roxy Ulm Anne bloggt cardamonchai
-ogTitle: Calexico live @ Roxy Ulm Anne bloggt cardamonchai
+seoTitle: Calexico live @ Roxy Ulm Sounds Vegan
+ogTitle: Calexico live @ Roxy Ulm Sounds Vegan
 description: Am Dienstag, 27.01.2009 spielten Calexico live im Roxy in Ulm.
 excerpt: Am Dienstag, 27.01.2009 spielten Calexico live im Roxy in Ulm. Als Support
   trat der spanische Gitarrist Jairo Zavala auf.

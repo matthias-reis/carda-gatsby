@@ -105,7 +105,7 @@ Lass uns mal zu einem komplett anderen Thema kommen. Du hast mir erzählt, dass 
 
 ## "Die meisten Menschen können etwas tun, um ihren Klima-Fußabdruck zu verkleinern"
 
-**Jonas:** Also, mir ist das gleich als erstes eingefallen, als wir uns über die Themen unterhalten haben, die wir gemeinsam haben könnten. Deine Seite läuft ja schließlich unter dem Motto Rock 'n' Roll vegan!
+**Jonas:** Also, mir ist das gleich als erstes eingefallen, als wir uns über die Themen unterhalten haben, die wir gemeinsam haben könnten. Deine Seite läuft ja schließlich unter dem Motto "Sounds Vegan"!
 
 Für mich war es eine ganz natürliche Entscheidung, als ich meine Frau vor 18 Jahren kennengelernt habe. Sie hat damals schon kein Fleisch mehr gegessen. Ich lebe nicht komplett vegan, aber ich esse kein Schweinefleisch, Rindfleisch und Huhn. Ich habe mich schon ein bisschen mit dieser Denkweise beschäftigt, also fühlte es sich für mich richtig an.
 

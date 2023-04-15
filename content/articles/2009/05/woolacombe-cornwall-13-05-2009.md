@@ -5,8 +5,8 @@ path: '/2009/05/woolacombe-cornwall-13-05-2009/'
 type: Galerie
 typeName: Galerie
 title: Woolacombe, Cornwall
-seoTitle: Woolacombe, Cornwall - Anne bloggt cardamonchai
-ogTitle: Woolacombe, Cornwall - Anne bloggt cardamonchai
+seoTitle: Woolacombe, Cornwall - Sounds Vegan
+ogTitle: Woolacombe, Cornwall - Sounds Vegan
 description: 'Erinnerungen an den Frühling in England 2009 - Heute: Woolacombe'
 excerpt: In Woolacombe in Cornwall kann man nicht nur wunderbar surfen. Auch Möwen lassen sich hier ganz entspannt beobachten.
 fileName: 2009-05---woolacombe-cornwall.md

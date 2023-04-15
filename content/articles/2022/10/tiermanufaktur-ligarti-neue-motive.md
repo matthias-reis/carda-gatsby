@@ -4,7 +4,7 @@ slug: tiermanufaktur-ligarti-neue-motive
 typeName: Produkttest
 title: Neue Motive von der Tiermanufaktur Ligarti
 subTitle: Emaille-Tassen mit Fischen und Vögeln
-seoTitle: Emaille-Tassen, T-Shirts & Co mit kunstvollen Tierdrucken | Rock 'n' Roll vegan
+seoTitle: Emaille-Tassen, T-Shirts & Co mit kunstvollen Tierdrucken | Sounds Vegan
 description: Ihr seid auf der Suche nach schönen Geschenken? Die Tiermanufaktur
   Ligarti hat jetzt neue Motive auf Tassen, T-Shirts und vieles mehr gedruckt.
   Vorbeischauen lohnt sich!

@@ -5,7 +5,7 @@ path: '/2010/01/moewen-am-bosporus/'
 type: Galerie
 typeName: Galerie
 title: Möwen am Bosporus
-seoTitle: Möwen am Bosporus - Anne bloggt cardamonchai
+seoTitle: Möwen am Bosporus - Sounds Vegan
 ogTitle: Möwen am Bosporus
 description: Geschickt gleiten die Möwen durch die Lüfte. Immer auf der Suche nach einem Leckerbissen. Diese Aufnahmen sind mir am Bosporus gelungen.
 excerpt: Geschickt gleiten die Möwen durch die Lüfte. Immer auf der Suche nach einem Leckerbissen. Diese Aufnahmen sind mir am Bosporus gelungen

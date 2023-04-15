@@ -5,8 +5,8 @@ path: '/2009/05/hayle-cornwall-14-15-05-2009/'
 type: Galerie
 typeName: Galerie
 title: Hayle, Cornwall
-seoTitle: Hayle, Cornwall - Anne bloggt cardamonchai
-ogTitle: Hayle, Cornwall - Anne bloggt cardamonchai
+seoTitle: Hayle, Cornwall - Sounds Vegan
+ogTitle: Hayle, Cornwall - Sounds Vegan
 description: 'Erinnerungen an den Frühling in England 2009 - Heute: Hayle'
 excerpt: Hayle ist nicht nur wegen seines wunderbaren Campingplatzes einer der schönsten Orte auf dieser Erde.
 fileName: 2009-05---hayle-cornwall.md

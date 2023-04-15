@@ -1,11 +1,11 @@
 ---
-title: Das ist Rock 'n' Roll vegan
-seoTitle: Über Anne bloggt cardamonchai - Rock 'n' Roll vegan
-slug: das-ist-rocknroll-vegan
-path: /das-ist-rocknroll-vegan/
+title: Das ist Sounds Vegan
+seoTitle: Über Sounds Vegan
+slug: das-ist-sounds-vegan
+path: /das-ist-sounds-vegan/
 fileName: 2010-04---das-ist-rocknroll-vegan.md
-description: Wer schon immer mal einen Blick hinter die Kulissen von Anne bloggt cardamonchai werfen wollte, hat hier die Chance, mehr über meine Arbeit zu erfahren.
-excerpt: Wer schon immer mal einen Blick hinter die Kulissen von Anne bloggt cardamonchai werfen wollte, hat hier die Chance, mehr über meine Arbeit zu erfahren.
+description: Wer schon immer mal einen Blick hinter die Kulissen von Sounds Vegan werfen wollte, hat hier die Chance, mehr über meine Arbeit zu erfahren.
+excerpt: Wer schon immer mal einen Blick hinter die Kulissen von Sounds Vegan werfen wollte, hat hier die Chance, mehr über meine Arbeit zu erfahren.
 focusKeyword: cardamonchai
 labels: []
 type: null
@@ -35,16 +35,16 @@ subTitle: Mein Portfolio
 
 Ich schaffe es nicht immer, topaktuell zu sein, aber ich denke, diesem Anspruch muss ein persönlicher Blog auch nicht zwingend entsprechen.
 
-Im Grunde ist **Anne bloggt cardamonchai** für mich eine persönliche Sammlung. Ein bisschen erinnert es mich immer an [Frederik die Maus](/2011/09/gedanken-am-fenster/), die den Sommer über Farben sammelt, damit sie im Winter etwas hat, woran sie sich erfreuen kann. Der Untertitel **Rock 'n' Roll vegan** hat sich über die Jahre ergeben, er setzt sich aus den beiden für mich größten Themen zusammen: Musik und alles was dazu gehört und die vegane Lebensart und Zukunft.
+Im Grunde ist **Sounds Vegan** für mich eine persönliche Sammlung. Ein bisschen erinnert es mich immer an [Frederik die Maus](/2011/09/gedanken-am-fenster/), die den Sommer über Farben sammelt, damit sie im Winter etwas hat, woran sie sich erfreuen kann. Der Untertitel **Sounds Vegan** hat sich über die Jahre ergeben, er setzt sich aus den beiden für mich größten Themen zusammen: Musik und alles was dazu gehört und die vegane Lebensart und Zukunft.
 
-## Meine Heimat habe ich in Hamburg gefunden
+## Meine Homebase Hamburg
 
-Meine Heimat habe ich inzwischen in Hamburg gefunden, wo ich mich zusammen mit meinem Mann und unseren beiden tierischen Mitbewohnern niedergelassen habe. Von hier aus blogge ich und natürlich berichte ich dabei auch immer wieder über unsere schöne Stadt.
+Meine Homebase habe ich inzwischen in Hamburg gefunden, wo ich mich zusammen mit meinem Mann und unseren beiden tierischen Mitbewohnern niedergelassen habe. Von hier aus blogge ich und natürlich berichte ich dabei auch immer wieder über unsere schöne Stadt.
 
 <RemoteImage
   alt="anne-bloggt-cardamonchai-rock-n-roll-vegan"
   size="medium"
-  title="Heimat Hamburg"
+  title="Homebase Hamburg"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-08-01-anne-reis-tobias-hess-photography-21__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-08-01-anne-reis-tobias-hess-photography-21__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKhAAAgEDBAIABQUBAAAAAAAAAQIDBAURAAYSIRMxBxQiQVEVM1NxkeH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIDEUESMaHBEyFh/9oADAMBAAIRAxEAPwCfxp2RQXnfltpopI/PJTqkyyI3GE/yAKwLErwHfX0/f1pHi2XFtvfG3oqMU93pXkLeOppXjB6f9yNuwoIY5zjC50ybn3FX7x3jZ7hRRwc3t8qTSU8LJ5FDjxc1LHI5esfk96rKLcF7a7rems1uq6ClaSGaGOpL8QiESOytk8SGGcZ61Nsr5JNQ2VfHE2CjvhaJZfg7tjcEU1ff7bO1zL+KVDVkKnFRjj4sDBB+5J0azun3Zddvyy2my3s2S25+djVZFxI8pPMKx9qpTA947GjWwOAFVwsNfeVybUv9FZF3J+mVMC3GaGOjt9M+WkJZ2PkY+sIvWfyB1qmu1VNtqW207iF4ZopYzGECqV6XLBfZIzn86RIajjuqodGyObDl/WDpx3xV0tbaqOqhmWSWAhW4k/SxYf8Af90o2AEuGekZHkgMOOyqv4kUBiuFsNElN8g1CjUoEgkfgWYkyY9N5DJ0e8Y0aNxRTNabCa6Px5pmeLBALKzk5OPv36PrrRqdtwmA4+yv/9k="
@@ -72,7 +72,7 @@ Wer sich jetzt angesprochen fühlt und gerne möchte, dass ich seine Produkte vo
 
 [Hier könnt Ihr mein Mediakit herunterladen](/mein-mediakit/).
 
-Und nicht nur für **Anne bloggt cardamonchai** bin ich immer an neuen Kontakten interessiert.  Als Freelancerin bin ich immer auf der Suche nach spannenden Textaufträgen. Ihr braucht einen Text zu einem bestimmten Thema? Seid auf der Suche nach jemandem, der zuverlässig Eure Texte in Eure Homepage oder Euren Shop einpflegt und das fehlerfrei? Dann seid Ihr bei mir an der richtigen Adresse.
+Und nicht nur für **Sounds Vegan** bin ich immer an neuen Kontakten interessiert.  Als Freelancerin bin ich immer auf der Suche nach spannenden Textaufträgen. Ihr braucht einen Text zu einem bestimmten Thema? Seid auf der Suche nach jemandem, der zuverlässig Eure Texte in Eure Homepage oder Euren Shop einpflegt und das fehlerfrei? Dann seid Ihr bei mir an der richtigen Adresse.
 
 ## Alles beginnt mit dem richtigen Text
 

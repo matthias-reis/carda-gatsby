@@ -23,7 +23,6 @@ labels:
   - Handarbeit
   - Herzblut Instruments
   - Instrumentenbauer
-  - Rock 'n' Roll vegan
   - Schlagzeug
   - vegane Instrumente
   - vegane Musikinstrumente

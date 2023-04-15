@@ -93,4 +93,4 @@ Prost Neujahr!
 - Daniela [Garteninspektor](https://www.garteninspektor.com/)
 - Carla [Faun &amp; Farn](https://faunundfarn.de/)
 - Laura und Sebastian [Naturgartenideen](https://www.naturgartenideen.de/)
-- Anne bloggt cardamonchai
+- Sounds Vegan

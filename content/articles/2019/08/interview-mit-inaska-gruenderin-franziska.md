@@ -126,7 +126,7 @@ Uns ist es wichtig, dass unsere Bikinis keinen langen Weg zurücklegen und kompl
 
 **Franziska:** Das grundsätzliche Problem liegt tatsächlich am Konsumverhalten der Menschen. Dadurch, dass wir in einer Zeit leben, in der alle Konsumprodukte (von der Banane bis zum T-Shirt) selbstverständlich und günstig erhältlich sind, fällt es den meisten schwer auf Dinge zu verzichten, die die Umwelt negativ beeinflussen. Die Rettung der Meere verschwindet so schnell im Hintergrund.
 
-**Anne:** Mein Blog steht unter dem Motto Rock 'n' Roll vegan. In unregelmäßigen Abständen geht es auch immer wieder um meine große Leidenschaft die Musik. Daher meine Frage: Welcher Song würde Dich am besten beschreiben?
+**Anne:** Mein Blog steht unter dem Motto "Sounds Vegan". In unregelmäßigen Abständen geht es auch immer wieder um meine große Leidenschaft die Musik. Daher meine Frage: Welcher Song würde Dich am besten beschreiben?
 
 **Franziska:** Kein Rock-, aber ein Gute-Laune-Song: "Glücklich wie die Kinder" von Two Magics.
 

@@ -1,11 +1,10 @@
 ---
 title: Datenschutz
-seoTitle: Datenschutz – Anne bloggt cardamonchai.com – Rock 'n' Roll vegan
+seoTitle: Datenschutz – Anne Reis – Sounds Vegan
 slug: datenschutz
 path: "/datenschutz/"
 fileName: 2016-12---datenschutz.md
-description: Datenschutzerklärung – Anne bloggt  cardamonchai.com – Rock 'n' Roll
-  vegan – Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären,
+description: Datenschutzerklärung – Anne Reis, soundsvegan.com Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären,
   welche Arten Ihrer personenbezogenen Daten wir zu welchen Zwecken und in welchem
   Umfang verarbeiten.
 excerpt: ''
@@ -203,7 +202,7 @@ Die Protokollierung des Anmeldeverfahrens erfolgt auf Grundlage unserer berechti
 
 Der Versand der Newsletter erfolgt auf Grundlage einer Einwilligung der Empfänger oder, falls eine Einwilligung nicht erforderlich ist, auf Grundlage unserer berechtigten Interessen am Direktmarketing, sofern und soweit diese gesetzlich, z.B. im Fall von Bestandskundenwerbung, erlaubt ist. Soweit wir einen Dienstleister mit dem Versand von E-Mails beauftragen, geschieht dies auf der Grundlage unserer berechtigten Interessen. Das Registrierungsverfahren wird auf der Grundlage unserer berechtigten Interessen aufgezeichnet, um nachzuweisen, dass es in Übereinstimmung mit dem Gesetz durchgeführt wurde.
 
-Inhalte: Infos zu neuesten Artikeln auf cardamonchai.com.
+Inhalte: Infos zu neuesten Artikeln auf soundsvegan.com.
 
 *   **Verarbeitete Datenarten:** Bestandsdaten (z.B. Namen, Adressen), Kontaktdaten (z.B. E-Mail, Telefonnummern), Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen), Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).
 *   **Betroffene Personen:** Kommunikationspartner.

@@ -113,6 +113,6 @@ Ja, so war das damals. Ich werde alt.
 - [Mrs. Greenhouse](https://mrsgreenhouse.de/)
 - [Buddenbohm & Söhne](http://www.buddenbohm-und-soehne.de/)
 - [Syl Gervais](https://www.syl-gervais.com/)
-- [Anne bloggt cardamonchai - Rock 'n' Roll vegan]()
+- [Sounds Vegan]()
 
 **Bilder:** Titel: Presidents Of The United States, Artwort; erstes Bild im Text: [Coulour](https://pixabay.com/de/users/Couleur-1195798/), Pixabay; zweites Bild im Text; [Free Photos](https://pixabay.com/de/users/Free-Photos-242387/), Pixabay

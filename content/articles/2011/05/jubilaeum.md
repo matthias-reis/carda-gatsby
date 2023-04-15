@@ -48,4 +48,4 @@ Stimmung: Unternehmungslustig!
 
 <YouTube id="4Wys9VzF-_E" />
 
-[Hier](www.facebook.com/cardamonchai)  geht es zur [Facebook-Seite](www.facebook.com/cardamonchai) von cardamonchai.com.
+[Hier](www.facebook.com/cardamonchai)  geht es zur [Facebook-Seite](www.facebook.com/cardamonchai) von soundsvegan.com.

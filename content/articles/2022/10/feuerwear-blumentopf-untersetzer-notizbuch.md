@@ -86,7 +86,7 @@ Die Untersetzer von Feuerwear findet Ihr seit dem 5. Oktober im Onlineshop. Ein 
 
 ## Pflanztopf "Flora"
 
-Mit "Flora" gibt es gleich noch einen weiteren Zugang zur neuen Produktkategorie. Der Blumentopf ist für mich ganz klar eines der bisherigen [Feuerwear Highlights](https://cardamonchai.com/tag/feuerwear).
+Mit "Flora" gibt es gleich noch einen weiteren Zugang zur neuen Produktkategorie. Der Blumentopf ist für mich ganz klar eines der bisherigen [Feuerwear Highlights](/tag/feuerwear).
 
 Bei "Flora" handelt es sich um den weltweit ersten Blumentopf aus gebrauchtem Feuerwehrschlauch. Und ich finde, er macht sich richtig gut in meinem Zimmergarten. Irgendwie sieht alles stylisch darin aus: vom Rosmarin-Strauch bis zum Kaktus.
 

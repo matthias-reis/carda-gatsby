@@ -5,8 +5,8 @@ path: /2010/06/jean-stein/
 type: Meme
 typeName: Meme
 title: Jean Stein
-seoTitle: Jean Stein - Anne bloggt cardamonchai
-ogTitle: Jean Stein - Anne bloggt cardamonchai
+seoTitle: Jean Stein - Sounds Vegan
+ogTitle: Jean Stein - Sounds Vegan
 description: Jean Stein - Augsburg
 excerpt: In Augsburg gab es mal einen ganz besonderen Stein - nur Insider kennen ihn.
 fileName: 2010-06---jean-stein.md

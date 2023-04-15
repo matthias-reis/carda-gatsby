@@ -5,8 +5,8 @@ path: /2009/08/sonnenschein/
 type: Meme
 typeName: Meme
 title: Sonnenschein
-seoTitle: Sonnenschein - Anne bloggt cardamonchai
-ogTitle: Sonnenschein - Anne bloggt cardamonchai
+seoTitle: Sonnenschein - Sounds Vegan
+ogTitle: Sonnenschein - Sounds Vegan
 description: Sonnenschein in Augsburg
 excerpt: In Augsburg ist mir doch neulich tatsächlich die Sonne begegnet!
 fileName: 2009-08---sonnenschein.md

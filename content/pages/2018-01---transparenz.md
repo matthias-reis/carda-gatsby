@@ -42,7 +42,7 @@ Auch, wenn ich auf ein Produkt, eine Marke, eine Organisation oder ähnliches ve
 
 ## Anzeige
 
-Werde ich für einen kompletten Beitrag auf cardamonchai.com bezahlt, handelt es sich also um bezahlte Werbung, trägt er in Zukunft die Kennzeichnung  **"Anzeige"** .  Wie schon erwähnt: Wie alle anderen Artikel sind auch alle Beiträge dieser Art komplett von mir verfasst und spiegeln meine Erfahrungen und meine Meinung wieder.
+Werde ich für einen kompletten Beitrag auf soundsvegan.com bezahlt, handelt es sich also um bezahlte Werbung, trägt er in Zukunft die Kennzeichnung  **"Anzeige"** .  Wie schon erwähnt: Wie alle anderen Artikel sind auch alle Beiträge dieser Art komplett von mir verfasst und spiegeln meine Erfahrungen und meine Meinung wieder.
 
 ## Affiliate Links
 

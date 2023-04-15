@@ -5,8 +5,8 @@ path: /2009/05/olympiapark-munchen/
 type: Galerie
 typeName: Galerie
 title: Olympiapark München
-seoTitle: Olympiapark München - Anne bloggt cardamonchai
-ogTitle: Olympiapark München - Anne bloggt cardamonchai
+seoTitle: Olympiapark München - Sounds Vegan
+ogTitle: Olympiapark München - Sounds Vegan
 description: Immer wieder schön ist ein ausgdehnter Spaziergang durch den Olympiapark München
 excerpt: 'Immer wieder schön: Ein ausgedehnter Spaziergang durch den Olympiapark München.'
 fileName: 2009-05---olympiapark-muenchen.md

@@ -35,7 +35,7 @@ subTitle: Ice Ice Suppe!
 
 Diesen Beitrag hat meine liebe Caro zum Blog beigetragen
 
-**Ich freue mich wie ein Tofuschnitzel! Zum einen, weil wir endlich mal einen ordentlichen Sommer genießen dürfen und zum anderen, weil ich für meine Besteste Anne bloggt cardamonchai ein leckeres Rezept gastbloggen darf.**
+**Ich freue mich wie ein Tofuschnitzel! Zum einen, weil wir endlich mal einen ordentlichen Sommer genießen dürfen und zum anderen, weil ich für meine Besteste Sounds Vegan ein leckeres Rezept gastbloggen darf.**
 
 Aktuell ist es ja fast schon wieder zu heiß zum Kochen – aber nur fast. Man muss einfach die richtigen Dinge "kochen".
 

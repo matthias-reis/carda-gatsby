@@ -3,8 +3,8 @@ date: 2015-12-23T17:27:47.000Z
 slug: jahresrueckblick
 path: /2015/12/jahresrueckblick/
 title: Mein Jahresrückblick
-seoTitle: Jahresrückblick - Anne bloggt cardamonchai
-ogTitle: Anne bloggt cardamonchai - Mein Jahresrückblick
+seoTitle: Jahresrückblick - Sounds Vegan
+ogTitle: Sounds Vegan - Mein Jahresrückblick
 description: Das Jahr 2015 war ein ganz besonders spannendes mit vielen Artikeln und Erlebnissen. Zeit für einen umfassenden Jahresrückblick und einen Ausblick auf 2016.
 excerpt: Das Jahr 2015 war ein ganz besonders spannendes mit vielen Artikeln und Erlebnissen. Zeit für einen umfassenden Jahresrückblick und einen Ausblick auf 2016.
 fileName: 2015-12---mein-jahresrueckblick.md

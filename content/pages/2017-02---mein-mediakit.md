@@ -6,7 +6,7 @@ path: /mein-mediakit/
 fileName: 2017-02---mein-mediakit.md
 description: Da ich in letzter Zeit immer wieder nach meinem Mediakit gefragt werde, habe ich mir jetzt mal die Zeit genommen und alle wichtigen Daten zusammengefasst.
 excerpt: Da ich in letzter Zeit immer wieder nach meinem Mediakit gefragt werde, habe ich mir jetzt mal die Zeit genommen und alle wichtigen Daten zusammengefasst.
-focusKeyword: Rock 'n' Roll vegan – Mein Mediakit
+focusKeyword: Sounds Vegan – Mein Mediakit
 labels: []
 type: null
 typeName: Artikel
@@ -34,6 +34,6 @@ Weitere Infos gebe ich gerne auf Anfrage weiter. Sendet mir am besten einfach ei
 
 [Das komplette Mediakit als PDF zum Download findet Ihr hier](img/2022-04-12-mediakit.pdf).
 
-Stand 12/2019 Anne bloggt cardamonchai - Rock 'n' Roll vegan
+Stand 12/2019 Sounds Vegan
 
 Jetzt per [E-Mail](mailto:info@soundsvegan.com)  kontaktieren.

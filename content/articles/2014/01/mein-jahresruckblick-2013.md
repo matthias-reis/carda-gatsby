@@ -3,8 +3,8 @@ date: 2014-01-09T09:29:13.000Z
 slug: mein-jahresruckblick-2013
 path: /2014/01/mein-jahresruckblick-2013/
 title: Mein Jahresrückblick
-seoTitle: Mein Jahresrückblick 2013 - Anne bloggt cardamonchai
-ogTitle: Mein Jahresrückblick 2013 - Anne bloggt cardamonchai
+seoTitle: Mein Jahresrückblick 2013 - Sounds Vegan
+ogTitle: Mein Jahresrückblick 2013 - Sounds Vegan
 description: Mein Jahresrückblick 2013 ist fertig - Ihr Lieben, ich hoffe, Ihr seid alle gut im neuen Jahr angekommen. Heute habe ich meinen Jahresrückblick für Euch.
 excerpt: Mein Jahresrückblick 2013 ist fertig - Ihr Lieben, ich hoffe, Ihr seid alle gut im neuen Jahr angekommen. Heute habe ich meinen Jahresrückblick für Euch.
 fileName: 2014-01---mein-jahresrueckblick.md

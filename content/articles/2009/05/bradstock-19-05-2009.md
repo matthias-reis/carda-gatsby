@@ -5,8 +5,8 @@ path: '/2009/05/bradstock-19-05-2009/'
 type: Galerie
 typeName: Galerie
 title: Bradstock
-seoTitle: Bradstock - Anne bloggt cardamonchai
-ogTitle: Bradstock - Anne bloggt cardamonchai
+seoTitle: Bradstock - Sounds Vegan
+ogTitle: Bradstock - Sounds Vegan
 description: 'Erinnerungen an den Frühling in England 2009 - Heute: Bradstock'
 excerpt: Bradstock ist ein gemütliches Örtchen mit einem tollen Pub - der Besuch lohnt sich also auf alle Fälle.
 fileName: 2009-05---bradstock.md

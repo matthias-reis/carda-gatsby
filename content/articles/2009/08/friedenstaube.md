@@ -5,8 +5,8 @@ path: /2009/08/friedenstaube/
 type: Meme
 typeName: Meme
 title: Friedenstaube
-seoTitle: Friedenstaube - Anne bloggt cardamonchai
-ogTitle: Friedenstaube - Anne bloggt cardamonchai
+seoTitle: Friedenstaube - Sounds Vegan
+ogTitle: Friedenstaube - Sounds Vegan
 description: Friedenstaube - Gesehen in Ulm
 excerpt: Bei meinem Besuch in Ulm habe ich eine schöne Friedenstaube gesehen.
 fileName: 2009-08---friedenstaube.md

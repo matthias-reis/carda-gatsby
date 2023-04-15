@@ -135,5 +135,5 @@ If you're small and on a search I've got a feeder for you to perch on I've got a
 [Der kleine Horrorgarten](http://der-kleine-horror-garten.de/)  
 [Ye olde Kitchen](http://yeoldekitchen.com/)  
 [Laubenhausmädchen](https://laubenhausmaedchen.wordpress.com/)  
-[Karo-Tina Aldente](https://karotinasblog.wordpress.com/) Anne bloggt cardamonchai [Sind im Garten](https://sindimgarten.wordpress.com/)  
+[Karo-Tina Aldente](https://karotinasblog.wordpress.com/) Sounds Vegan [Sind im Garten](https://sindimgarten.wordpress.com/)  
 [Milli Bloom](http://millibloom.com/)

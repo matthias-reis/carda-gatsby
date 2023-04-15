@@ -5,8 +5,8 @@ path: '/2009/05/glastonbury-11-05-2009/'
 type: Galerie
 typeName: Galerie
 title: Glastonbury
-seoTitle: Glastonbury - Anne bloggt cardamonchai
-ogTitle: Glastonbury - Anne bloggt cardamonchai
+seoTitle: Glastonbury - Sounds Vegan
+ogTitle: Glastonbury - Sounds Vegan
 description: 'Erinnerungen an den Frühling in England 2009 - Heute: Glastonbury'
 excerpt: Glastonbury ist eine Kleinstadt in Somerset. Bekannt ist die Stadt nicht nur durch die Mythen um den Hügel Glastonbury Tor, der das sagenhafte Avalon sein soll.
 fileName: 2009-05---glastonbury.md

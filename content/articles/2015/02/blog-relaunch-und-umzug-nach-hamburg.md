@@ -72,7 +72,7 @@ Ich werde weiter berichten, bestimmt gibt es im neuen Blog auch die ein oder and
 
 ### Die Tätowierung ist endlich fertig
 
-[Einen kleinen Vorgeschmack](/2014/05/taetowierung-und-webdesign/) hatte ich Euch ja letztes Jahr schon gegeben, Matze hat mit seinen Programmier- und Designkünsten wahre Wunder bewirkt und eine ganz tolle, neue Seite ist entstanden, schon bald wird sie unter [cardamonchai.com](/) zu erreichen sein. Ich bin selbst schon ganz aufgeregt und kann es kaum noch erwarten.
+[Einen kleinen Vorgeschmack](/2014/05/taetowierung-und-webdesign/) hatte ich Euch ja letztes Jahr schon gegeben, Matze hat mit seinen Programmier- und Designkünsten wahre Wunder bewirkt und eine ganz tolle, neue Seite ist entstanden, schon bald wird sie unter [soundsvegan.com](/) zu erreichen sein. Ich bin selbst schon ganz aufgeregt und kann es kaum noch erwarten.
 
 <RemoteImage
   alt={`Das Tattoo ist endlich vollständig`}

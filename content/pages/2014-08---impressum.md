@@ -4,8 +4,8 @@ seoTitle: Impressum
 slug: impressum
 path: /impressum/
 fileName: 2014-08---impressum.md
-description: Impressum Rock 'n' Roll vegan Anne Reis – Hier könnt Ihr mich kontaktieren, wenn Ihr Fragen oder Anregungen zu meiner Seite habt. Rock 'n' Roll vegan ist ein Blog zu den Themen Veganismus, Musik und Nachhaltigkeit.
-excerpt: Impressum Rock 'n' Roll vegan Anne Reis – Hier könnt Ihr mich kontaktieren, wenn Ihr Fragen oder Anregungen zu meiner Seite habt. Rock 'n' Roll vegan ist ein Blog zu den Themen Veganismus, Musik und Nachhaltigkeit.
+description: Impressum Anne Reis, Sounds Vegan – Hier könnt Ihr mich kontaktieren, wenn Ihr Fragen oder Anregungen zu meiner Seite habt. Sounds Vegan ist ein Blog zu den Themen Veganismus, Musik und Nachhaltigkeit.
+excerpt: Impressum Sounds Vegan, Anne Reis – Hier könnt Ihr mich kontaktieren, wenn Ihr Fragen oder Anregungen zu meiner Seite habt. Sounds Vegan ist ein Blog zu den Themen Veganismus, Tierrechte, Klimaschutz und alternative Musik.
 focusKeyword: Impressum
 labels: []
 type: null

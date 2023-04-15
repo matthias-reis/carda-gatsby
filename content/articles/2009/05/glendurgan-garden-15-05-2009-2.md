@@ -5,8 +5,8 @@ path: '/2009/05/glendurgan-garden-15-05-2009-2/'
 type: Galerie
 typeName: Galerie
 title: Glendurgan Garden
-seoTitle: Glendurgan Garden - Anne bloggt cardamonchai
-ogTitle: Glendurgan Garden - Anne bloggt cardamonchai
+seoTitle: Glendurgan Garden - Sounds Vegan
+ogTitle: Glendurgan Garden - Sounds Vegan
 description: 'Erinnerungen an den Frühling in England 2009 - Heute: Glendurgan Garden'
 excerpt: Die subtropische Gartenanlage von Glendurgan liegt etwa fünf Meilen südwestlich von Fallmouth in Cornwall.
 fileName: 2009-05---glendurgan-garden.md

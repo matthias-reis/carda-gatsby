@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Printpremiere für Anne bloggt cardamonchai
+subTitle: Printpremiere für Sounds Vegan
 ---
 
 **Es gibt eine Premiere zu feiern! Letzte Woche erschien mein erster Artikel in der zweiten Ausgabe des Welt Vegan Magazins! Mein erster Printartikel überhaupt für ein grosses, überregionales Magazin! Ich freue mich sehr!**

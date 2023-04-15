@@ -109,7 +109,7 @@ Jetzt hat sich Tobi auch meinem Interview gestellt und mir einiges über sein Le
 
 **Tobi:** Es gibt sehr viele schöne Momente, vor allem aus der Landschaftsfotografie. Dabei ist man oft ganz allein und mit der Natur verbunden. Als ich auf der wunderschönen Nordsee Hallig Hooge zum Sonnenuntergang ganz allein, beziehungsweise in Begleitung zahlreicher Vögel, den Sonnenuntergang fotografieren durfte, war das so ein magischer Moment, an den ich mich gerne erinnere.
 
-**Anne:** Du hast mir erzählt, dass Dir mein Motto "Rock 'n' Roll vegan" gut gefällt. Was verbindet Dich mit dem Rock 'n' Roll? Welche Bands bedeuten Dir besonders viel? Gibt es einen besonderen Song, der bei Dir im Moment hoch und runter läuft?
+**Anne:** Du hast mir erzählt, dass Dir mein Motto "Sounds Vegan" gut gefällt. Was verbindet Dich mit dem Rock 'n' Roll? Welche Bands bedeuten Dir besonders viel? Gibt es einen besonderen Song, der bei Dir im Moment hoch und runter läuft?
 
 **Tobi:** Haha ich finde die Idee super, vor allem weil es nicht so ein typischer Standard-Veganer-Blog ist. Ich höre sehr gerne Musik aus den 50ern oder 60ern. Die Musiker von damals haben einen Sound kreiert, der immer noch in vielen modernen Rocksongs steckt. Ich mochte schon immer Chuck Berry, Little Richard und Jimi Hendrix. In ihrer Musik steckt eine rebellische Message und noch dazu klingt sie verdammt gut. Ich spiele selbst auch Gitarre - vielleicht kommt daher meine Begeisterung für Musikgeschichte und die unterschiedlichen Genres des Rocks.
 

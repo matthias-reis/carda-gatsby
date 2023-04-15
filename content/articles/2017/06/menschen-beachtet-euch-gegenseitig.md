@@ -76,7 +76,7 @@ Irgendwann war jedoch ein Punkt erreicht, an dem mir klar wurde, dass einen das 
 
 Mein Blog lebt nun schon seit neun Jahren. Nächstes Jahr steht das große Jubiläum an. Ich habe ein paar Stammleser, die immer wieder kommen. Die meisten von Ihnen sind aus Wordpress-Anfangszeiten oder sogar zusammen mit mir von myspace rübergewechselt. Digitale Freunde, denen ich zum größten Teil noch nie begegnet bin. Was ich innerhalb der neun Jahre beobachten konnte ist spannend: Zusätzlich zu den vier, fünf erwähnten Stammlesern, landen eigentlich mehr die "Surfer" auf meiner Seite. Sie finden sie über Suchbegriffe oder einfach durch Zufall.
 
-Natürlich habe ich auch einen inneren Zirkel. Dazu zählen unter anderem meine Eltern, meine Schwiegermama, meine Besties und mein Mann. Viele Freunde, Bekannte und flüchtige Bekanntschaften (wie Facebook-Freunde), finden eher selten den Weg zu meinem Baby. Denn das ist cardamonchai.com: Mein Baby. Es ist alles, was ich bin. Mein blaues Pferd. Meine Kornblumen. Meine Mädchen mit dem Perlenorring? Ihr könnt es nennen, wie Ihr wollt.
+Natürlich habe ich auch einen inneren Zirkel. Dazu zählen unter anderem meine Eltern, meine Schwiegermama, meine Besties und mein Mann. Viele Freunde, Bekannte und flüchtige Bekanntschaften (wie Facebook-Freunde), finden eher selten den Weg zu meinem Baby. Denn das ist soundsvegan.com: Mein Baby. Es ist alles, was ich bin. Mein blaues Pferd. Meine Kornblumen. Meine Mädchen mit dem Perlenorring? Ihr könnt es nennen, wie Ihr wollt.
 
 ## Menschen - Ich denke nur mal wieder nach
 

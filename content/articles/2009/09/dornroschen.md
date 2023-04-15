@@ -5,8 +5,8 @@ path: /2009/09/dornroschen/
 type: Meme
 typeName: Meme
 title: Dornröschen
-seoTitle: Dornröschen - Anne bloggt cardamonchai
-ogTitle: Dornröschen - Anne bloggt cardamonchai
+seoTitle: Dornröschen - Sounds Vegan
+ogTitle: Dornröschen - Sounds Vegan
 description: Dornröschen - Gesehen in Friedberg
 excerpt: Eine wunderschöne Rose wächst in einem Garten im bayerischen Friedberg.
 fileName: 2009-09---dornroeschen.md

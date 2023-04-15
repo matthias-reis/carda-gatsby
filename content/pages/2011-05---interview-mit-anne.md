@@ -1,6 +1,6 @@
 ---
 title: Interview mit Anne
-seoTitle: Interview mit Anne von Anne bloggt cardamonchai - Rock 'n' Roll vegan
+seoTitle: Interview mit Anne von Sounds Vegan
 slug: interview-mit-anne
 path: /cardamonchai-blick-hinter-die-kulissen/interview-anne/
 fileName: 2011-05---interview-mit-anne.md
@@ -144,7 +144,7 @@ Musik, Regen, lachen, Freunde, Bleistifte und Papier, warmer Sand, Waldmeisterei
 
 Das Leben ist das, was passiert, während Du drüber nachdenkst.
 
-_Interview bis hier hin: Anne bloggt cardamonchai 31.05.2011, 01.07.2011, Auszüge aus Gesprächen und E-Mail-Konversationen_
+_Interview bis hier hin: Sounds Vegan 31.05.2011, 01.07.2011, Auszüge aus Gesprächen und E-Mail-Konversationen_
 
 _Ab hier wird in unregelmäßigen Abständen aktualisiert._
 

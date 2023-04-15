@@ -5,8 +5,8 @@ path: /2009/09/herbstgarten-in-makro/
 type: Galerie
 typeName: Galerie
 title: Herbstgarten in Makro
-seoTitle: Herbst im Garten - Anne bloggt cardamonchai
-ogTitle: Herbst im Garten - Anne bloggt cardamonchai
+seoTitle: Herbst im Garten - Sounds Vegan
+ogTitle: Herbst im Garten - Sounds Vegan
 description: Herbst im Garten
 excerpt: Heute habe ich ein paar Herbstimpressionen aus dem Garten mitgebracht.
 fileName: 2009-09---herbstgarten-in-makro.md

@@ -5,8 +5,8 @@ path: '/2009/05/penzance-cornwall-15-05-2009/'
 type: Galerie
 typeName: Galerie
 title: Penzance, Cornwall
-seoTitle: Penzance, Cornwall - Anne bloggt cardamonchai
-ogTitle: Penzance, Cornwall - Anne bloggt cardamonchai
+seoTitle: Penzance, Cornwall - Sounds Vegan
+ogTitle: Penzance, Cornwall - Sounds Vegan
 description: 'Erinnerungen an den Frühling in England 2009 - Heute: Penzance'
 excerpt: Das wohl urigste Pub der Insel und den größte Meerwasserpool findet man in Penzance. Außerdem gibt es hier einiges aus der Piratenzeit zu entdecken.
 fileName: 2009-05---penzance-cornwall.md

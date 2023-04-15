@@ -36,7 +36,7 @@ errors: {}
 subTitle: Der erste Erfolg
 ---
 
-**1.000 Klicks gab es für cardamonchai.com in den ersten 93 Tagen. Das Experiment ist geglückt, die Seite wird gut angenommen. Der Mix aus Kurzgeschichten, Fotos, Musik, politischen Themen und Tagebucheinträgen scheint anzukommen.**
+**1.000 Klicks gab es für soundsvegan.com in den ersten 93 Tagen. Das Experiment ist geglückt, die Seite wird gut angenommen. Der Mix aus Kurzgeschichten, Fotos, Musik, politischen Themen und Tagebucheinträgen scheint anzukommen.**
 
 Eine Weile hatte ich mir überlegt, mich auf ein Thema festzulegen, doch ich denke, ich werde in der bewährten Art und Weise weitermachen. Die nächste Kurzgeschichte ist in Produktion, eine weitere Fotoserie geht in den nächsten Tagen online.
 

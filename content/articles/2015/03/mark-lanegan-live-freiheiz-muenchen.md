@@ -5,7 +5,7 @@ path: /2015/03/mark-lanegan-live-freiheiz-muenchen/
 type: Galerie
 typeName: Konzertbericht
 title: Mark Lanegan live @ Freiheiz München
-seoTitle: Mark Lanegan live @ Freiheiz München Anne bloggt
+seoTitle: Mark Lanegan live @ Freiheiz München – Sounds Vegan
 ogTitle: Mark Lanegan live @ Freiheiz München
 description: Als Support brachte Mark Lanegan dieses Mal keinen geringeren als Duke Garwood mit.
 excerpt: Am 21. Februar besuchte ich mit Matze und meinem lieben Bruder das langersehnte Mark Lanegan Konzert.

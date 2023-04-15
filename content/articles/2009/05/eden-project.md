@@ -1,5 +1,5 @@
 ---
-ogTitle: Eden Project - Anne bloggt cardamonchai
+ogTitle: Eden Project - Sounds Vegan
 excerpt: 1995 hatte der britische Archäologe und Gärtner Tim Smith die Idee, in
   einer stillgelegten Kaolingrube einen botanischen Garten der besonderen Art
   anzulegen - das Eden Project war geboren.
@@ -19,7 +19,7 @@ remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11503038
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11503038676_01cd4d6690_z__m.jpg
 title: Eden Project
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 13/17
-seoTitle: Eden Project - Anne bloggt cardamonchai
+seoTitle: Eden Project - Sounds Vegan
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Eden Project"
 labels:
   - aussterbende Arten

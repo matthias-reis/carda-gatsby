@@ -5,8 +5,8 @@ path: /2009/09/mister-ed/
 type: Meme
 typeName: Meme
 title: Mister Ed
-seoTitle: Mister Ed - Anne bloggt cardamonchai
-ogTitle: Mister Ed - Anne bloggt cardamonchai
+seoTitle: Mister Ed - Sounds Vegan
+ogTitle: Mister Ed - Sounds Vegan
 description: Mister Ed - Gesehen in Schrobenhausen
 excerpt: In Schrobenhausen steht in Pferd auf dem Flur - manchmal schaut es aber auch aus dem Fenster.
 fileName: 2009-09---mister-ed.md

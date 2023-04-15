@@ -5,8 +5,8 @@ path: '/2009/05/appledore-cornwall-14-05-2009/'
 type: Galerie
 typeName: Galerie
 title: Appledore, Cornwall
-seoTitle: Appledore, Cornwall - Anne bloggt cardamonchai
-ogTitle: Appledore, Cornwall - Anne bloggt cardamonchai
+seoTitle: Appledore, Cornwall - Sounds Vegan
+ogTitle: Appledore, Cornwall - Sounds Vegan
 description: 'Erinnerungen an den Frühling in England 2009 - Heute: Appledore'
 excerpt: Appledore in Cornwall hält Puppenhäuser mit bunten Türen für seine Besucher bereit - als Fotomotiv sind sie sehr beliebt.
 fileName: 2009-05---appledore-cornwall.md

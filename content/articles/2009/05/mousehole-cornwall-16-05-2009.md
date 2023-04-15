@@ -5,8 +5,8 @@ path: '/2009/05/mousehole-cornwall-16-05-2009/'
 type: Galerie
 typeName: Galerie
 title: Mousehole, Cornwall
-seoTitle: Mousehole - Anne bloggt cardamonchai
-ogTitle: Mousehole - Anne bloggt cardamonchai
+seoTitle: Mousehole - Sounds Vegan
+ogTitle: Mousehole - Sounds Vegan
 description: 'Erinnerungen an den Frühling in England 2009 - Heute: Mousehole'
 excerpt: Die weltberühmte Postkartenansicht von Mousehole - wer kennt sie nicht?
 fileName: 2009-05---mousehole-cornwall.md

@@ -5,8 +5,8 @@ path: '/2009/05/st-ives-cornwall-16-05-2009/'
 type: Galerie
 typeName: Galerie
 title: St. Ives, Cornwall
-seoTitle: St. Ives, Cornwall - Anne bloggt cardamonchai
-ogTitle: St. Ives, Cornwall - Anne bloggt cardamonchai
+seoTitle: St. Ives, Cornwall - Sounds Vegan
+ogTitle: St. Ives, Cornwall - Sounds Vegan
 description: 'Erinnerungen an den Frühling in England 2009 - Heute: St. Ives'
 excerpt: Der wohl berühmteste Surfspot Südenglands ist St. Ives - hier trifft sich wer ein Brett und Lust auf Wellen hat.
 fileName: 2009-05---st-ives-cornwall.md

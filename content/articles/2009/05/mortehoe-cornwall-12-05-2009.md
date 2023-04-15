@@ -5,8 +5,8 @@ path: '/2009/05/mortehoe-cornwall-12-05-2009/'
 type: Galerie
 typeName: Galerie
 title: Mortehoe, Cornwall
-seoTitle: Mortehoe, Cornwall - Anne bloggt cardamonchai
-ogTitle: Mortehoe, Cornwall - Anne bloggt cardamonchai
+seoTitle: Mortehoe, Cornwall - Sounds Vegan
+ogTitle: Mortehoe, Cornwall - Sounds Vegan
 description: 'Erinnerungen an den Frühling in England 2009 - Heute: Mortehoe'
 excerpt: Der Küstenpfad ist bei Mortehoe besonders schön, in Laufnähe gibt es einen schönen Leuchtturm und an manchen Tagen sind die Schaft besonders zutraulich.
 fileName: 2009-05---mortehoe-cornwall.md

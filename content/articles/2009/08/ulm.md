@@ -5,8 +5,8 @@ path: /2009/08/ulm/
 type: Galerie
 typeName: Galerie
 title: Ulm
-seoTitle: Ulm - Anne bloggt cardamonchai
-ogTitle: Ulm - Anne bloggt cardamonchai
+seoTitle: Ulm - Sounds Vegan
+ogTitle: Ulm - Sounds Vegan
 description: Impressionen aus dem schönen Ulm
 excerpt: Aus dem wunderschönen Ulm habe ich Euch ein paar bunte Impressionen mitgebracht.
 fileName: 2009-08---ulm.md

@@ -3,8 +3,8 @@ date: 2017-06-28T08:15:32.000Z
 slug: mein-smoothie-im-alpenwelt-magazin
 path: /2017/06/mein-smoothie-im-alpenwelt-magazin/
 title: Mein Smoothie im Alpenwelt Magazin
-seoTitle: Mein Smoothie im Alpenwelt Magazin - Rock 'n' Roll vegan goes Berge
-ogTitle: Mein Smoothie im Alpenwelt Magazin - Rock 'n' Roll vegan goes Berge
+seoTitle: Mein Smoothie im Alpenwelt Magazin - Sounds Vegan goes Berge
+ogTitle: Mein Smoothie im Alpenwelt Magazin - Sounds Vegan goes Berge
 description: Das Alpenwelt Magazin hat an meine digitale Tür geklopft und gefragt, ob ich einen Smoothie zu ihrem aktuellen Artikel beitragen möchte.
 excerpt: Niemand Geringeres als das Alpenwelt Magazin hat an meine digitale Tür geklopft und gefragt, ob ich vielleicht einen Smoothie zu ihrem aktuellen Artikel beitragen möchte. Natürlich habe ich nicht nein gesagt.
 fileName: 2017-06---mein-smoothie-im-alpenwelt-magazin.md
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Rock 'n' Roll vegan goes Berge
+subTitle: Sounds Vegan goes Berge
 ---
 
 **Immer wieder kommt es im Internet zu zauberhaften Begegnungen. So klopfte vor kurzem niemand Geringeres als das _Alpenwelt Magazin_ an meine digitale Tür und fragte an, ob ich vielleicht einen Smoothie zu ihrem aktuellen Artikel beisteuern möchte. Natürlich sagte ich nicht nein.**

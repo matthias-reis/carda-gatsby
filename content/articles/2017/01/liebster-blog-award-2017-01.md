@@ -44,7 +44,7 @@ Wie es bei Blogawards so üblich ist, hat Nicole, die genau wie ich stolze Wahl-
 
 **Elbgängerin:** Wie kam es zu dem Namen cardamonchai?
 
-**Anne:** Das ist ganz spontan passiert. Ich bin mit meinem Blog auf Wordpress umgezogen und wollte endlich mal einen richtigen Namen dafür haben. Weil ich Chai(ey) liebe, am liebsten mit (K)Cardamon(n), war der schnell gefunden. Ich hatte schon Phasen, wo ich diese Entscheidung nicht mehr so gut fand, inzwischen finde ich ihn wieder schön. Ich finde, es klingt ein bisschen mystisch, außerdem passt es gut zur veganen Rubrik, die es auf Anne bloggt cardamonchai gibt. Leider ist er ein bisschen lang, aber dadurch fragen auch viele nach der Bedeutung. Das ist ja auch gut, dann kommt man gleich ins Gespräch, wenn man eigentlich nur nach der E-Mail-Adresse fragt.
+**Anne:** Das ist ganz spontan passiert. Ich bin mit meinem Blog auf Wordpress umgezogen und wollte endlich mal einen richtigen Namen dafür haben. Weil ich Chai(ey) liebe, am liebsten mit (K)Cardamon(n), war der schnell gefunden. Ich hatte schon Phasen, wo ich diese Entscheidung nicht mehr so gut fand, inzwischen finde ich ihn wieder schön. Ich finde, es klingt ein bisschen mystisch, außerdem passt es gut zur veganen Rubrik, die es auf Sounds Vegan gibt. Leider ist er ein bisschen lang, aber dadurch fragen auch viele nach der Bedeutung. Das ist ja auch gut, dann kommt man gleich ins Gespräch, wenn man eigentlich nur nach der E-Mail-Adresse fragt.
 
 ## Vegan seit 2014
 

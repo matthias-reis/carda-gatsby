@@ -2,11 +2,11 @@
 date: 2017-08-06T15:55:45.000Z
 slug: rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo
 path: /2017/08/rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo/
-title: Rock 'n' Roll vegan im neuen Gewand
-seoTitle: Rock ´n´ Roll vegan im neuen Gewand
-ogTitle: Rock ´n´ Roll vegan im neuen Gewand
-description: Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht. Feierlich enthülle ich heute das neue Design meines Blogs - Mehr Rock 'n' Roll vegan!
-excerpt: Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht. Feierlich enthülle ich heute das neue Design meines Blogs - Mehr Rock 'n' Roll vegan!
+title: Sounds Vegan im neuen Gewand
+seoTitle: Sounds Vegan im neuen Gewand
+ogTitle: Sounds Vegan im neuen Gewand
+description: Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht. Feierlich enthülle ich heute das neue Design meines Blogs - Mehr RSounds Vegan!
+excerpt: Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht. Feierlich enthülle ich heute das neue Design meines Blogs - Mehr Sounds Vegan!
 fileName: 2017-08---rock-n-roll-vegan-im-neuen-gewand.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_17991553_1440986475923477_2158274734981065272_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_17991553_1440986475923477_2158274734981065272_o__l.jpg
@@ -35,7 +35,7 @@ errors: {}
 subTitle: Mein Blog sieht jetzt anders aus
 ---
 
-**Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht. Nachdem sich nach und nach herauskristallisiert hat, in welche Richtung es gehen wird mit [_Anne bloggt cardamonchai_](), habe ich mich auch für ein neues Outfit inklusive Logo entschieden.**
+**Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht. Nachdem sich nach und nach herauskristallisiert hat, in welche Richtung es gehen wird mit [_Sounds Vegan_](), habe ich mich auch für ein neues Outfit inklusive Logo entschieden.**
 
 Das alte Design mit seinen vielen technischen Spielereien und dem großen Zitat im Header hat mir auch sehr gut gefallen. Doch mit neuen Ideen kommt auch frischer Style und den möchte ich Euch gerne ab heute bieten.
 

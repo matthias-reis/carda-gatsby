@@ -3,8 +3,8 @@ date: 2017-04-21T13:28:55.000Z
 slug: ich-mache-urlaub
 path: /2017/04/ich-mache-urlaub/
 title: Ich mache Urlaub
-seoTitle: Urlaub wir kommen - Ich mache Pause - Kurze Auszeit auf Anne bloggt cardamonchai
-ogTitle: Urlaub wir kommen - Ich mache Pause - Kurze Auszeit auf Anne bloggt cardamonchai
+seoTitle: Urlaub wir kommen - Ich mache Pause - Kurze Auszeit auf Sounds Vegan
+ogTitle: Urlaub wir kommen - Ich mache Pause - Kurze Auszeit auf Sounds Vegan
 description: Weil ich schon gar nicht mehr weiß, wie es sich anfühlt, richtig Urlaub zu machen, nehme ich mir eine kurze Auszeit. Natürlich könnt Ihr mir trotzdem mailen
 excerpt: Weil ich schon gar nicht mehr weiß, wie es sich anfühlt, richtig Urlaub zu machen, nehme ich mir eine kurze Auszeit. Natürlich könnt Ihr mir trotzdem mailen.
 fileName: 2017-04---ich-mache-urlaub.md
