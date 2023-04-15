@@ -62,7 +62,7 @@ export const AdminBar: React.FC<{
   link?: string;
   isInFuture?: boolean;
   isOldArticle?: boolean;
-}> = ({ link, isInFuture, isOldArticle }) => {
+}> = ({ link, isOldArticle }) => {
   const [visible, setVisible] = React.useState(false);
   const data = useStaticQuery(graphql`
     query HeaderQuery {
@@ -76,7 +76,7 @@ export const AdminBar: React.FC<{
   `);
 
   React.useEffect(() => {
-    if (window.location.host !== 'cardamonchai.com') {
+    if (window.location.host !== 'soundsvegan.com') {
       setVisible(true);
     }
   });
