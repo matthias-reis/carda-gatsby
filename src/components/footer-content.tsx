@@ -33,7 +33,7 @@ export const FooterContent: React.FC = () => (
           verpassen? Hier kannst Du Dich zu meinem Newsletter anmelden.
         </p>
         <CTA
-          href="https://mailchi.mp/94bdbb6fded3/cardamonchai"
+          href="https://mailchi.mp/ed81963a5b3f/soundsvegan"
           target="_blank"
           onClick={() => event('link/click', 'link', 'footer/newsletter')}
         >

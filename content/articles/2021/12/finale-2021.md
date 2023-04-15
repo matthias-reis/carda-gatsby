@@ -5,18 +5,10 @@ typeName: Beitrag
 title: Das Finale 2021
 subTitle: Der letzte Artikel des Jahres
 seoTitle: Das Finale 2021 – Bitte verzichtet auf Böller!
-description: "Ich habe eine Weile überlegt, wie der letzte Artikel des Jahres
-  2021 wohl aussehen könnte. Ein Rückblick? Glückwünsche? Gute Vorsätze für
-  2022? Nichts von alledem? Oder alles? Eins ist klar: Das Böllerverbot ist
-  gut!"
-excerpt: Ich habe eine Weile überlegt, wie der letzte Artikel des Jahres 2021
-  wohl aussehen könnte. Ein Rückblick? Glückwünsche? Gute Vorsätze für 2022?
-  Nichts von alledem? Oder alles? Schlussendlich habe ich mich dafür
-  entschieden, einfach drauflos zu schreiben und Euch alles Gute für das neue
-  Jahr zu wünschen. Eigentlich ist der 1. Januar ja ein Tag wie jeder andere,
-  aber ein bisschen Feiern haben wir uns wohl alle verdient.
+description: 'Ich habe eine Weile überlegt, wie der letzte Artikel des Jahres 2021 wohl aussehen könnte. Ein Rückblick? Glückwünsche? Gute Vorsätze für 2022? Nichts von alledem? Oder alles? Eins ist klar: Das Böllerverbot ist gut!'
+excerpt: Ich habe eine Weile überlegt, wie der letzte Artikel des Jahres 2021 wohl aussehen könnte. Ein Rückblick? Glückwünsche? Gute Vorsätze für 2022? Nichts von alledem? Oder alles? Schlussendlich habe ich mich dafür entschieden, einfach drauflos zu schreiben und Euch alles Gute für das neue Jahr zu wünschen. Eigentlich ist der 1. Januar ja ein Tag wie jeder andere, aber ein bisschen Feiern haben wir uns wohl alle verdient.
 image: https://storage.googleapis.com/cardamonchai-media/2021-12-30/finale-2021-jpg-imagine-a8a8a8_88867c_1024_768/640.webp
-copyrigt: ""
+copyrigt: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-12-30/finale-2021-fb-png-imagine-a8a8a8_7e7c75_1200_628/640.webp
 labels:
   - Silvester
@@ -32,13 +24,14 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Ich habe eine Weile überlegt, wie der letzte Artikel des Jahres 2021 wohl aussehen könnte. Ein Rückblick? Glückwünsche? Gute Vorsätze für 2022? Nichts von alledem? Oder alles? Schlussendlich habe ich mich dafür entschieden, einfach drauflos zu schreiben und Euch alles Gute für das neue Jahr zu wünschen. Eigentlich ist der 1. Januar ja ein Tag wie jeder andere, aber ein bisschen Feiern haben wir uns wohl alle verdient.**
 
-- - -
+---
 
 **TW:** Angst, Trauma, Flucht, Tod, COVID-19
 
-- - -
+---
 
 Irgendwie kommt mir das alles ein bisschen wie ein Déjà-vu vor. Alles läuft ähnlich ab, wie schon im letzten Jahr. Oder genauso? Ich kann es kaum fassen, dass ich wirklich schon letztes Jahr (also 2020) im März wegen COVID angefangen habe, von zu Hause aus zu arbeiten und nicht dieses Jahr. Irgendwie verschwimmt das alles inzwischen ziemlich. Vielleicht möchte ich auch genau aus diesem Grund auf den farbenfrohen Jahresrückblick verzichten. Dieses Mal. Vielleicht gibt es ja Ende 2022 wieder einen – sehen wir mal.
 
@@ -66,6 +59,6 @@ Stellt Euch außerdem mal folgendes Szenario vor: Ihr habt Monate damit verbrach
 
 Guten Rutsch!
 
-2022 geht es hier weiter mit Infos und News aus den Sparten Musik, veganes Leben, Nachhaltigkeit und Achtsamkeit. Ich freue mich auf Euch! Wenn Ihr nichts verpassen wollt, [abonniert gerne meinen Newsletter](https://mailchi.mp/94bdbb6fded3/cardamonchai).
+2022 geht es hier weiter mit Infos und News aus den Sparten Musik, veganes Leben, Nachhaltigkeit und Achtsamkeit. Ich freue mich auf Euch! Wenn Ihr nichts verpassen wollt, [abonniert gerne meinen Newsletter](https://mailchi.mp/ed81963a5b3f/soundsvegan).
 
-![Schwarz-Weiß-Fotografie die Autorin in einem schwarzen Regenmantel mit Kapuze. | large](https://storage.googleapis.com/cardamonchai-media/2021-12-30/finale-2021-nordkapp-jpg-imagine-b8b8b8_717173_1024_768/640.webp "Das Finale 2021.")
+![Schwarz-Weiß-Fotografie die Autorin in einem schwarzen Regenmantel mit Kapuze. | large](https://storage.googleapis.com/cardamonchai-media/2021-12-30/finale-2021-nordkapp-jpg-imagine-b8b8b8_717173_1024_768/640.webp 'Das Finale 2021.')
