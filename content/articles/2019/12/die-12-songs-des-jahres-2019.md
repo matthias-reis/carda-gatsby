@@ -160,8 +160,8 @@ Im nächsten Musikartikel auf meiner Seite lüften wir dann das nächste Geheimn
   itunes="2019-songs-des-jahres-die-drei-von-der-bande/pl.u-85R6uXeGBGJ?l=en"
 />
 
-Natürlich macht Musik hören, schreiben, Grafiken und Playlisten bauen müde und durstig. Kaffee ist da genau das Richtige. Wer mir gerne einen spendieren möchte, kann das über meinen Paypal Me Link tun:
+Natürlich macht Musik hören, schreiben, Grafiken und Playlisten bauen müde und durstig. Kaffee ist da genau das Richtige. Wer mir gerne einen spendieren möchte, kann das über Ko-fi tun:
 
-[paypal.me/cardamonchai](/2019/10/12-songs-fuer-den-november/paypal.me/cardamonchai)
+[https://ko-fi.com/soundsvegan](https://ko-fi.com/soundsvegan)
 
 Danke schön!
