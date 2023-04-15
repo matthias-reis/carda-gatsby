@@ -26,8 +26,7 @@ export const PageMeta: React.FC<{
   return (
     <Helmet>
       <title>
-        {meta.frontmatter.seoTitle || meta.frontmatter.title} | Rock 'n' Roll
-        vegan
+        {meta.frontmatter.seoTitle || meta.frontmatter.title} | Sounds Vegan
       </title>
       <meta name="description" content={meta.frontmatter.description} />
       <link

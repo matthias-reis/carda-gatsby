@@ -21,9 +21,9 @@ export const FooterContent: React.FC = () => (
       <div>
         <H3Deco>Über mich</H3Deco>
         <p>
-          Rock 'n' Roll vegan ist für mich zum Lebensmotto geworden. In meinem
-          Blog dreht sich alles um veganen Lifestyle, Musik, Nach­hal­tig­keit,
-          Reisen und meine Wahlheimat Hamburg.
+          Sounds Vegan ist für mich zum Lebensmotto geworden. In meinem Blog
+          dreht sich alles um veganes Leben, Tierrechte, Klimaschutz und Musik –
+          vor allem Post-Rock & Co.
         </p>
       </div>
       <div>

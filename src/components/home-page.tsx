@@ -61,10 +61,10 @@ export const HomePage: React.FC<{
             recommendations: [],
           },
           frontmatter: {
-            title: "Rock 'n' Roll vegan – Musik und Veganismus",
-            subTitle: "Rock 'n' Roll vegan",
+            title: 'Sounds Vegan',
+            subTitle: 'Musik und Veganismus',
             description:
-              "Rock 'n' Roll vegan berichtet regelmäßig über Themen wie Veganismus, Tierrechte, Nachhaltigkeit und Klimaschutz. Obendrauf gibt's Interviews und Reviews – vor allem aus der Post-Rock Ecke.",
+              "Sounds Vegan berichtet regelmäßig über Themen wie Veganismus, Tierrechte, Nachhaltigkeit und Klimaschutz. Obendrauf gibt's Interviews und Reviews – vor allem aus der Post-Rock Ecke.",
             type: '',
             typeName: 'Homepage',
             date: new Date().toString(),
@@ -75,7 +75,7 @@ export const HomePage: React.FC<{
       />
       <ContentSection>
         <Hd>
-          <H1>Rock 'n' Roll vegan</H1>
+          <H1>Sounds Vegan</H1>
           <HomeLogo width={600} />
         </Hd>
         <ArticleList
