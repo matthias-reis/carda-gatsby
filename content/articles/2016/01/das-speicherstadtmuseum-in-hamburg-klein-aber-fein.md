@@ -4,7 +4,7 @@ slug: das-speicherstadtmuseum-in-hamburg-klein-aber-fein
 path: /2016/01/das-speicherstadtmuseum-in-hamburg-klein-aber-fein/
 type: Galerie Hell
 typeName: Galerie Hell
-title: Speicherstadtmuseum Hamburg
+title: Spei&shy;cher&shy;stadt&shy;mu&shy;seum Hamburg
 seoTitle: Das Speicherstadtmuseum in Hamburg - Klein aber fein
 ogTitle: Das Speicherstadtmuseum in Hamburg - Klein aber fein
 description: Eingebettet zwischen Kaispeichern, Restaurants und weiteren Museen ist das gemütliche Hamburger Speicherstadtmuseum zu finden - Eine Bildergalerie
