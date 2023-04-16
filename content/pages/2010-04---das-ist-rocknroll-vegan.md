@@ -22,7 +22,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Mein Portfolio
 ---
 
-**In meinem Blog dreht sich alles um** **veganen Lifestyle, Musik, Reisen und Hamburg. Ich veröffentliche Interviews, Fotostrecken und Rezepte. Nachhaltigkeit, Tierrechte und Umweltschutz liegen mir besonders am Herzen. Hin und wieder bekommt Ihr auch mal eine Tagebuchseite zu lesen.**
+**Moin! Ich bin Anne! Auf meiner Webseite dreht sich alles um veganen Lifestyle, Musik, Reisen und Hamburg. Ich veröffentliche Artikel, Interviews, Fotostrecken und Rezepte. Tierrechte, Klimaschutz und Nachhaltigkeit liegen mir besonders am Herzen – daher findet Ihr zu diesen Themen auch immer wieder Beiträge hier auf Sounds Vegan.**
 
 <RemoteImage
   alt="anne-bloggt-cardamonchai-rock-n-roll-vegan"
@@ -33,7 +33,7 @@ subTitle: Mein Portfolio
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQcG/8QAKBAAAgEDBAEEAgMBAAAAAAAAAQIDBAURABIhMQYHFCJRQWETQmKx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQX/xAAcEQACAwADAQAAAAAAAAAAAAABAgADERITMkH/2gAMAwEAAhEDEQA/AKv02Sle4LTyUrSFSiSqrEBCwBB654znnWgWrx9Frr7do6cBlX2oQqNxUc5z+OyP3nXM+kM5S9XSKspoJWaddryL8m+PxPHB611/n0LW/wAMu1fTyNRmOqilBQFOFkTOPvgdazG0DI0mFtMenk10s9gLS223+2pqaOOlTexaU4ACn/QAJIGsi9d79UXaKgQQQQ0UU38mY+WmJ45OelHOPs6keV+R0Ivq22ouwVSrL7hEKoVPYXI2bgcfMHrOqTyF47n41LGHVoaeVWiqC2ctuCsox+x2BjBHWme6ziAxgrqK1bU+TNbZ5VdqZ90d2q43I270nZTj6JzqSL1VSSP7ieWYE7iZJC/P3ydGjT6wJirldpZaaJFkVhC4eMk8xtn+p/A+xpdJfdpENQ8uxTtK792Oe1J/4dGjVOob0JJ//9k="
 />
 
-Ich schaffe es nicht immer, topaktuell zu sein, aber ich denke, diesem Anspruch muss ein persönlicher Blog auch nicht zwingend entsprechen.
+Ich schaffe es nicht immer, topaktuell zu sein, aber ich denke, diesem Anspruch muss ein persönlicher Blog auch nicht zwingend entsprechen, oder?
 
 Im Grunde ist **Sounds Vegan** für mich eine persönliche Sammlung. Ein bisschen erinnert es mich immer an [Frederik die Maus](/2011/09/gedanken-am-fenster/), die den Sommer über Farben sammelt, damit sie im Winter etwas hat, woran sie sich erfreuen kann. Der Untertitel **Sounds Vegan** hat sich über die Jahre ergeben, er setzt sich aus den beiden für mich größten Themen zusammen: Musik und alles was dazu gehört und die vegane Lebensart und Zukunft.
 
