@@ -89,7 +89,7 @@ Der richtige Text ist wichtig, Text kann ein Aushängeschild sein, er kann eine 
 
 Was das Medium betrifft, bin ich nicht festgelegt. Print fasziniert mich genauso wie Online. So habe ich zum Beispiel lange Zeit für das  **Welt Vegan Magazin** als Texchefin gearbeitet. Auch im Bereich [Lokaljournalismus](/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/) habe ich bereits gearbeitet.
 
-## cardamonchai-Texte auch für Dich
+## Sounds Vegan Texte auch für Dich
 
 Wer Interesse hat und mehr wissen möchte, kann sich gerne jederzeit [mit mir in Verbindung setzen](mailto:info@soundsvegan.com). Natürlich ist in diesem Blog einiges an Texten aus meiner Feder zu finden, solltet Ihr sonstige Infos oder Referenzen brauchen, sagt gerne einfach Bescheid.
 
