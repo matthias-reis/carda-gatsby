@@ -9,6 +9,9 @@ labels:
   - Experimental
   - Reviews
   - English & German
+  - Hardcore
+  - Post-Hardcore
+  - Post-Music
 language: de
 slug: dimwind-slow-wave-violence
 typeName: Review

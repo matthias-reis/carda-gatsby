@@ -12,6 +12,9 @@ labels:
   - Interviews
   - Schweden
   - Sizm
+  - Hardcore
+  - Post-Hardcore
+  - Post-Music
 language: de
 slug: dimwind-interview
 typeName: Interview

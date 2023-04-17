@@ -9,6 +9,9 @@ labels:
   - Review
   - Reviews
   - English & German
+  - Hardcore
+  - Post-Hardcore
+  - Post-Music
 language: en
 slug: dimwind-slow-wave-violence-en
 typeName: Review
