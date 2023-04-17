@@ -17,6 +17,10 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2020_03_twins-post-h
 labels:
   - Bands
   - Interviews
+  - Post-Music
+  - Post-Hardcore
+  - Hardcore
+  - Band
 focusKeyword: Post-Hardcore
 status: publish
 isWerbung: false

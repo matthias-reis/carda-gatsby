@@ -12,6 +12,9 @@ labels:
   - Experimental
   - English & German
   - Sizm
+  - Hardcore
+  - Post-Hardcore
+  - Post-Music
 language: en
 slug: dimwind-interview-en
 typeName: Interview
