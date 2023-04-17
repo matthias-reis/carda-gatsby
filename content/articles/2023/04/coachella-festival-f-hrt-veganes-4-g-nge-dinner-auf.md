@@ -7,8 +7,7 @@ subTitle: Los Angeles neuestes Plant-Based-Restaurant startet mit großem Auftri
 description: Auf dem Coachella Festival wird ein veganes 4-Gänge Dinner
   serviert! Erfahre jetzt alle Details über das Food Event vom Gourmet-Koch!
 excerpt: Das Coachella ist inzwischen mehr als eine Legende – alle mit Rang und
-  Namen besuchen das Festival in Kalifornien einmal im Jahr – vom 14. bis zum
-  23. April 2023 findet es wieder statt. Fast ebenso berühmt, wie das
+  Namen besuchen das Festival in Kalifornien einmal im Jahr. Fast ebenso berühmt, wie das
   Open-Air-Event ist das sogenannte Outstanding in the Field Dinner, an dem VIPs
   und Glückliche, die einen Platz an der langen Tafel ergattern können, auf dem
   Coachella teilnehmen können. Dieses Jahr ist es komplett vegan.
