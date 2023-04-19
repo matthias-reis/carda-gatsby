@@ -20,10 +20,14 @@ labels:
   - Blog
   - veganer Blog
   - Musikblog
+  - Vegan
+  - Music
+  - Musik
 focusKeyword: Sounds Vegan
 advertisement: false
 affiliate: false
 language: de
+languageLink: /2023/04/welcome-sounds-vegan-en/
 ---
 **Es ist so weit, heute lasse ich die Katze aus dem Jutebeutel: nach langem Überlegen habe ich mich dazu entschieden, meinem Blog einen neuen Namen zu geben. Sagt hallo zu Sounds Vegan! Meine Themen werden sich weiter wie gewohnt um Veganismus und Musik drehen – und alles, was damit zusammenhängt.**
 
@@ -39,7 +43,7 @@ Euer Feedback und mein eigener Eindruck haben mich zudem davon überzeugt, dass 
 
 Jedenfalls habt Ihr jetzt auch die Erklärung dafür, warum es hier in den letzten Wochen etwas ruhiger zuging. Hinter den Kulissen war so einiges los. Das könnt Ihr in den nächsten Wochen auch auf meinen Social-Media-Accounts sehen.
 
-Ich wünsche Euch weiterhin viel Spaß auf meiner Seite. Schreibt mir gerne, wenn ich Eure Band oder Euer Projekt vorstellen, Euch zu Eurer Tierrechtsorganisation interviewen oder Euer veganes Produkt testen soll. Bei mir seid Ihr immer herzlich willkommen. An dieser Stelle möchte ich noch Matze für das sagenhafte Logo danken und für die starken Nerven!
+Ich wünsche Euch weiterhin viel Spaß auf meiner Seite. [I﻿hr findet mich natürlich auch auf Social Media](https://linktr.ee/soundsvegan).[Schreibt mir gerne](mailto:info@soundsvegan.com), wenn ich Eure Band oder Euer Projekt vorstellen, Euch zu Eurer Tierrechtsorganisation interviewen oder Euer veganes Produkt testen soll. Bei mir seid Ihr immer herzlich willkommen. An dieser Stelle möchte ich noch Matze für das sagenhafte Logo danken und für die starken Nerven!
 
 Wir lesen und hören uns!
 
