@@ -49,7 +49,7 @@ Obwohl es um Themen wie Polizeigewalt, Suchtprobleme, das Älterwerden, Obdachlo
 
 **Mein Fazit:** Bei mir rotiert "All Riot" von Angry Youth Elite hier inzwischen zum vierten Mal und ich kann Euch das Album uneingeschränkt empfehlen. Schaut also unbedingt am 21. April auf der [Webseite von All Youth Riot](https://angryyouthelite.com/) vorbei und hört es Euch an!
 
-## Angry Youth Elite – All Rito
+## Angry Youth Elite – All Riot
 
 <YouTube id="dmBOcOh7dgA" />
 
