@@ -49,4 +49,8 @@ Obwohl es um Themen wie Polizeigewalt, Suchtprobleme, das Älterwerden, Obdachlo
 
 **Mein Fazit:** Bei mir rotiert "All Riot" von Angry Youth Elite hier inzwischen zum vierten Mal und ich kann Euch das Album uneingeschränkt empfehlen. Schaut also unbedingt am 21. April auf der [Webseite von All Youth Riot](https://angryyouthelite.com/) vorbei und hört es Euch an!
 
+## Angry Youth Elite – All Rito
+
+<YouTube id="dmBOcOh7dgA" />
+
 [Lest jetzt in meinem Interview mit der Post-Hardcore Band Twins über die weiblicher und diverser werdende Szene](/2020/03/post-hardcore-band-twins/).
