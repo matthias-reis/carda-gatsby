@@ -4,7 +4,7 @@ slug: blue-zones
 typeName: Buchtipp
 title: Autor Dan Buettner live in Mobys Podcast
 subTitle: Darum werden die Menschen in den Blue Zones so alt
-seoTitle: Hol Dir die Tricks der ältesten Menschen der Welt!
+seoTitle: Holt Euch die Tricks der ältesten Menschen der Welt!
 description: In den von Dan Buettner entdeckten Blue Zones leben die ältesten
   Menschen der Welt. Lerne jetzt ihre Geheimnisse kennen!
 excerpt: In der heutigen Ausgabe von Mobys Podcast "Moby Pod" unterhalten sich
