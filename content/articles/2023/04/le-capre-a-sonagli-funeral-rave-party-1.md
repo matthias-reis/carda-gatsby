@@ -36,7 +36,7 @@ Die Künstler⋆innen haben ihre Platte komplett selbst produziert und aufgenomm
 
 Was soll man sagen? Das Experiment scheint geglückt zu sein. "Funeral Rave Party" ist für die Band vor allem eins: ein psychedelisch-rhythmisches Ritual. Spielen könnte man dieses auf  alternativen Festivals genauso, wie auf einer Underground-Technofete. Klingen tut das ganze wie aus einem Gruselfilm. Inspiration holten sich Capre A Sonagli beim Filmemacher Cronenberg – das scheint also ein klares Ziel gewesen zu sein.
 
-![Le Capre A Sonagli – "Funeral Rave Party" EP cover (Ein dunkles, abstraktes, von der KI generiertes Bild, auf dem vier Gestalten zwischen zwei Bäumen stehen.)](https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-1-jpg-imagine-080808_151208_800_800/640.webp "Le Capre A Sonagli – \"Funeral Rave Party\"")
+![Le Capre A Sonagli (Ein dunkles, abstraktes, von der KI generiertes Bild, auf dem vier Gestalten zwischen zwei Bäumen stehen.)](https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-1-jpg-imagine-080808_151208_800_800/640.webp "Le Capre A Sonagli")
 
 ## Ein psychedlisches Sound-Erlebnis
 

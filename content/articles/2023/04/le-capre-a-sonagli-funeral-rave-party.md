@@ -37,7 +37,7 @@ For the band, "Funeral Rave Party" is one thing above all: a psychedelic-rhythmi
 
 ## A psychedelic journey alongside river Styx
 
-![Le Capre A Sonagli – "Funeral Rave Party" EP cover (A dark, abstract, AI-generated picture showing four humans standing in the middle of two trees)](https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-1-jpg-imagine-080808_151208_800_800/640.webp "Le Capre A Sonagli – \"Funeral Rave Party\"")
+![Le Capre A Sonagli – "Funeral Rave Party" (A dark, abstract, AI-generated picture showing four humans standing in the middle of two trees)](https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-1-jpg-imagine-080808_151208_800_800/640.webp "Le Capre A Sonagli")
 
 With their songs, they follow the currents of the river Styx through the dark of the abyss, telling stories from their nightmares. So the band name (en: "rattlesnake goats") fits perfectly into this world.
 
