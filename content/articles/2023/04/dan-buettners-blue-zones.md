@@ -58,7 +58,7 @@ Auf Okinawa leben heute die ältesten Frauen der Welt. Auf der subtropischen Ins
 
 ## Ogliastra, Sardinien
 
-In Ogliastra leben die weltweit ältesten Männer. Sie arbeiten bis ins sehr hohe alter alt Hirten und teilen das Vertrauen in eine gesunde Ernährungsweise. Die besteht für sie vor allem aus Kartoffeln, Bohnen, Getreide sowie Gemüse.
+In Ogliastra leben die weltweit ältesten Männer. Sie arbeiten bis ins sehr hohe Alter als Hirten und teilen das Vertrauen in eine gesunde Ernährungsweise. Die besteht für sie vor allem aus Kartoffeln, Bohnen, Getreide sowie Gemüse.
 
 ## Loma Linda, Kalifornien
 
