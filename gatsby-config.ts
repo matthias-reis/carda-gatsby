@@ -2,11 +2,11 @@ require('dotenv').config();
 
 export default {
   siteMetadata: {
-    title: 'Cardamonchai.com',
-    description: "Rock 'n' Roll vegan.",
+    title: 'Sounds Vegan',
+    description: '',
     // will be changed when we go live
     // siteUrl: `https://cardamonchai.amreis.de`,
-    siteUrl: `https://cardamonchai.com`,
+    siteUrl: `https://soundsvegan.com`,
   },
   plugins: [
     {
