@@ -92,6 +92,6 @@ Aus seinen Erkenntnissen aus den Blue Zones zog Dan Buettner die Inspiration fü
 
 ## Weiterlesen
 
-Fandet Ihr das Thema spannend? Dann könnte Euch auch diese hier interessieren:
+Fandet Ihr das Thema spannend? Dann könnte Euch auch dieses hier interessieren:
 
 Die Autorin Melanie Joy beschäftigte sich eingehend mit der von T. Colin Campbell verfasste China Study, aus der hervorgeht, dass eine gesunde, pflanzenbasierte Ernährung auf lange Sicht zu einer höheren Lebenserwartung führen kann. [Lest jetzt alles über ihre Erkenntnisse und ihr Buch "Warum wir Hunde lieben, Schweine essen und Kühe anziehen"](http://localhost:8000/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/).
