@@ -43,8 +43,8 @@ endlich bin ich dazu gekommen, die Bilder vom ersten Konzert des Jahres zu entwi
 
 <Gallery name="flickr/annemogwaimuenchen" />
 
-Laut und toll hier für Euch: Das komplette Album "Rave Tapes"
+Laut und toll hier für Euch: Das komplette Album "Rave Tapes" könnt Ihr hier hören:
 
-<YouTube id="cfdqzVYt8Do" />
+<YouTube id="lHFCMuvcjQQ" />
 
 Hier könnt Ihr die Band [auf ihrer Homepage besuchen](http://www.mogwai.co.uk/)

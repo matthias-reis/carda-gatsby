@@ -50,6 +50,6 @@ Seine aktuellen Arbeiten setzen sich aus Überlagerungen und aufeinander folgend
 
 Für das Video zum Song "Lucifero" ließ sich der Musiker von der Figur des Luzifer inspirieren. Er inszenierte sie in der Gestalt einer Frau. Sie wird von Louise Ebel Pandora gespielt.
 
-<YouTube id="vxAJK30au3Q" />
+<YouTube id="-tCSwBBA0Yc" />
 
 Die inzwischen zwei Vorauskopplungen vom für den 6. März angekündigten Album "Possession" könnt Ihr bereits streamen.

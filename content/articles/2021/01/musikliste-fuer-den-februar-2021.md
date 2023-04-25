@@ -2,7 +2,7 @@
 date: 2021-01-21T05:00:29.000Z
 slug: musikliste-fuer-den-februar-2021
 path: /2021/01/musikliste-fuer-den-februar-2021/
-title: Musikliste für den Februar
+title: Musikliste für den Februar 2021
 seoTitle: Musikliste für den Februar – 12 Songs von Post-Rock bis Pop
 ogTitle: Musikliste für den Februar – 12 Songs von Post-Rock bis Pop
 description: Wir haben in den letzten vier Wochen wieder wild in allen Genres geplündert und eine ziemlich geniale Musikliste für Euch zusammengestellt.
@@ -169,7 +169,7 @@ Valentins letzter Song in dieser Runde kommt von SOHN:
 
 > "SOHNs Musik wollte ich schon länger im Rahmen unserer Listen empfehlen. Christopher Taylor aus London, der mittlerweile in Wien lebt, gestattet keinerlei Festlegung auf einen bestimmten Musikstil. 'Tremors' war 2014 sein erstes Album. Neben mehreren EPs hat er bisher zwei veröffentlicht. Besonders empfehlen kann ich diesen Song – er trägt den gleichen Namen, wie das Album. Die anderen Stücke auf der Platte solltet Ihr auch aber auf jeden Fall auch anhören, wenn Ihr schon dabei seid."
 
-<YouTube id="Mn715hfUv1M" />
+<YouTube id="pK3qPHlRK2o" />
 
 ## Kings of Leon – "100,000 People" – Vorauskopplung vom Album "When You See Yourself"
 

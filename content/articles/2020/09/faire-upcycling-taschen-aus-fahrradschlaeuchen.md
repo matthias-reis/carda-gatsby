@@ -75,7 +75,3 @@ Neben [Taschen](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=
 (Der Gutschein kann pro Kund⋆in einmal verwendet werden)
 
 <Gallery name="tube2" />
-
-## Hier könnt Ihr sehen, wo und wie die tollen Tube Taschen hergestellt werden
-
-<YouTube id="p8aU09nPYAk" />

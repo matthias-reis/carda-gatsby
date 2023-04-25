@@ -116,9 +116,7 @@ Rinder werden meist mit Bolzenschussgeräten betäubt, Schweine mit Gas oder ein
 
 ## Mangelhafte Betäubung
 
-Eine Umfrage der Grünen bestätigte, dass die Betäubung bei rund 4 - 9 Prozent der Rinder und bei 10 - 12 Prozent der Schweine mangelhaft ist, oder sogar gänzlich fehlt. ( [Hier eine Drucksache des Bundestages dazu](http://dipbt.bundestag.de/dip21/btd/17/100/1710021.pdf) ) Dabei besteht kein Unterschied bei der Schlachtung von Biotieren, wie u. A. dieses Video beweist:
-
-<YouTube id="HWYuYZ_KfdE" />
+Eine Umfrage der Grünen bestätigte, dass die Betäubung bei rund 4 - 9 Prozent der Rinder und bei 10 - 12 Prozent der Schweine mangelhaft ist, oder sogar gänzlich fehlt. ( [Hier eine Drucksache des Bundestages dazu](http://dipbt.bundestag.de/dip21/btd/17/100/1710021.pdf) ) Dabei besteht kein Unterschied bei der Schlachtung von Biotieren, wie u. A. [dieses Video beweist](https://www.youtube.com/watch?v=HWYuYZ_KfdE).
 
 Mehr über die Wahrheit zur Schlachtung von Biotieren ist auf der Seite [biowahrheit.de](http://www.biowahrheit.de/inhalt/schlachtung.htm) zu finden, hier werden Videos gezeigt, Zahlen genannt, Vergleiche angestellt zwischen z.B. Naturland und Demeter, Beispiele gezeigt und über die Hintergründe und die Tierhaltung aufgeklärt.
 
