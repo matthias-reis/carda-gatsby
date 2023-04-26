@@ -35,7 +35,41 @@ subTitle: Mein Portfolio
 
 Ich schaffe es nicht immer, topaktuell zu sein, aber ich denke, diesem Anspruch muss ein persönlicher Blog auch nicht zwingend entsprechen, oder?
 
-Im Grunde ist **Sounds Vegan** für mich eine persönliche Sammlung. Ein bisschen erinnert es mich immer an [Frederik die Maus](/2011/09/gedanken-am-fenster/), die den Sommer über Farben sammelt, damit sie im Winter etwas hat, woran sie sich erfreuen kann. Der Untertitel **Sounds Vegan** hat sich über die Jahre ergeben, er setzt sich aus den beiden für mich größten Themen zusammen: Musik und alles was dazu gehört und die vegane Lebensart und Zukunft.
+Im Grunde ist **Sounds Vegan** für mich eine persönliche Sammlung. Ein bisschen erinnert es mich immer an [Frederik die Maus](/2011/09/gedanken-am-fenster/), die den Sommer über Farben sammelt, damit sie im Winter etwas hat, woran sie sich erfreuen kann. Der Titel **Sounds Vegan** hat sich über die Jahre ergeben, er setzt sich aus den beiden für mich größten Themen zusammen: Musik und alles was dazu gehört und die vegane Lebensart und Zukunft.
+
+## Musik
+
+Wusstet Ihr, dass ich mein erstes Festival im zarten Alter von einem Jahr besuchte? Daran kann ich mich heute natürlich nicht mehr erinnern, aber es scheint prägend gewesen zu sein. Musik ist ein wichtiger Bestandteil meines Lebens (da gehören Konzerte und Festivals natürlich dazu). Ganz ehrlich? Ich kann mir gar nicht vorstellen, wie es ohne Musik wäre. Seit ich denken kann, beschäftige ich mich unglaublich gerne damit und lerne die unterschiedlichsten Genres und Stile kennen. Besonders faszinieren mich Post-Rock, Post-Hardcore, Post-Metal, Ambient, DIY und alles, was in Richtung Alternative und Indie geht. Ich schreibe auch immer wieder Reviews und mache [Interviews](/tag/interviews). Mir ist es sogar schon gelungen, einige meiner absoluten Lieblings-Bands zu interviewen. Richtig stolz bin ich zum Beispiel auf diese Interviews:
+
+- [Paul Seidel (Fern, The Ocean)](/2022/11/paul-seidel-fern-the-ocean-interview/)
+- [EF](/2022/11/ef-interview/)
+- [A Place To Bury Strangers](/2022/04/a-place-to-bury-strangers-interview/)
+- [Dave Pen (BirdPen, Archive)](/2021/02/dave-pen-birdpen-archive-interview/)
+- [We Lost The Sea](/2021/01/we-lost-the-sea-interview/)
+- [Robin Staps (The Ocean)](/2020/09/the-ocean-robin-staps-interview/)
+- [Unwed Sailor](/2020/08/unwed-sailor-interview/)
+- [Lost in Kiev](/2020/07/lost-in-kiev-interview/)
+- [Fly Pan Am](/2020/07/fly-pan-am-interview/)
+- [Oh Hiroshima]()
+- [Solkyri](/2020/06/solkyri/)
+- [Of the Vine](/2020/05/of-the-vine/)
+
+Das ist nur ein kleiner Ausschnitt aus der Musikrubrik auf meiner Seite. Ihr seid herzlich willkommen, hier zu stöbern und meine monatlichen Musiklisten, weitere spannende Interviews mit herausragenden Künstler⋆innen und Albumtipps zu entdecken!
+
+## Vegan
+
+Mein Leben ist [vegan](/tag/vegan) – seit dem 13. Juni 2014 so. Ich kann mir das so gut merken, weil ich ich diesem Tag mit meinen beiden Lieblings-Musikfans auf dem Black Sabbath Konzert am Münchner Königsplatz war. Seit ich vegan lebe hat sich mein Blick auf die Welt und darauf, wie wir mit Tieren und unserem Klima umgehen geändert. Im Laufe der Jahre habe ich meine Erfahrungen aufgeschrieben und hier im Blog veröffentlicht. Ihr findet also jede Menge Buchtipps, Rezepte und Interviews zum Thema hier. Ein paar Tipps kann ich Euch an dieser Stelle gerne schon mal geben.
+
+- [Buchtipp: "Warum wir Hunde lieben, Schweine essen und Kühe Anziehen" von Melanie Joy](2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)
+- [Filmtipp: "Earthlings": Der Film, der mein Leben veränderte](/2020/07/earthlings/)
+- [Soja & Klimaschutz – 10 Fakten über Veganismus (Teil 1/10)](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+- [Studie: "Kinder wissen oft nicht, dass sie Fleisch essen](/2021/11/kinder-fleisch-studie/)
+- [Warum wir zum Muskelaufbau Pflanzenprotein brauchen](/2022/11/veganes-protein/)
+- [Interview mit der Tierrechtsaktivistin Kara Schott – Die Tiertafel Hamburg stellt sich vor](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/)
+- [Interview mit Andrea vom Stadttauben e. V. Hamburg](https://soundsvegan.com/2021/11/hamburger-stadttauben-interview/)
+- [Interview mit dem veganen Internisten Dr. Hanno Platz](/2019/06/veganer-arzt-interview-dr-hanno-platz/)
+- [Interview mit Vegan-Aktivistin Inbar Schütte-Perez](/2020/03/inbar-schuette-perez-interview/)
+- [Earthling Ed zu Gast in Hamburg](/2019/11/earthling-ed-zu-gast-in-hamburg/)
 
 ## Meine Homebase Hamburg
 
@@ -85,9 +119,17 @@ Und nicht nur für **Sounds Vegan** bin ich immer an neuen Kontakten interessier
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBgcI/8QAJxAAAgEDBAEDBQEAAAAAAAAAAQIDAAQRBQYSMSFBUWETIiRxkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBCERMTJB/9oADAMBAAIRAxEAPwDmMX8h8SpBKM5++Jc/0YNNtrW1jq942nT2n5dy6iCZHICd5HHODnvz7UgCE030jSp3hXUBIsUUMgIPkucEZIwPT59qaoTpRuE2KOC51L/v7benaFp6SaUvC6hiEpmmsjF9RQeJUq2Ry9cj46rLriea6kMlxM8sh8cnYscVqm+rRtW12ayttStGjFsWZ405RgkhgCV6YrxyR+sVlc0LQTSRPjlGxQgHPkHFCtGChmHcd9iGwonyQoq1bbTnp11IWfMERKAMQMnPfvRRWvH9TDkeYwkgW329JPCzo/HoMQPLAdddf6apd4S1zKx7LEmiiq5PUljd8z//2Q=="
 />
 
-Der richtige Text ist wichtig, Text kann ein Aushängeschild sein, er kann eine Meinung zum Ausdruck bringen oder ein Produkt beschreiben, er kann Geschichten erzählen, Fakten umschreiben und Nachrichten übermitteln. Meine Devise lautet daher "Alles beginnt mit dem richtigen Text". Meine Texte, die online erscheinen, optimiere ich auf Keywords. Doch nicht nur der SEO-Bereich ist mir ein Begriff, auch was HTML, Bildbearbeitung und diverse Content Management Systeme angeht, kenne ich mich aus.
+Ich schreibe, seit ich einen Stift halten und Buchstaben zu Papier bringen kann. Seit ich denken kann, ist es meine Leidenschaft, Wörter in eine Reihenfolge zu bringen und mit Leben zu bringen. Als meine Leidenschaft dann vor einiger Zeit auch noch zu meinem Beruf wurde, ging für mich ein Traum in Erfüllung, der mich schon immer begleitet.
 
-Was das Medium betrifft, bin ich nicht festgelegt. Print fasziniert mich genauso wie Online. So habe ich zum Beispiel lange Zeit für das  **Welt Vegan Magazin** als Texchefin gearbeitet. Auch im Bereich [Lokaljournalismus](/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/) habe ich bereits gearbeitet.
+Der richtige Text ist wichtig, Text kann ein Aushängeschild sein, er kann eine Meinung zum Ausdruck bringen oder ein Produkt beschreiben, er kann Geschichten erzählen, Fakten umschreiben und Nachrichten übermitteln. Meine Devise lautet daher "Alles beginnt mit dem richtigen Text". Meine Texte, die online erscheinen, optimiere ich gerne auf Keywords. Doch nicht nur der SEO-Bereich ist mir ein Begriff, auch was HTML, Bildbearbeitung und diverse Content Management Systeme angeht, kenne ich mich aus.
+
+## Schreiben ist meine Leidenschaft
+
+Ich liebe es, beim Schreiben immer wieder die Perspektive zu wechseln, mich in Menschen hineinzuversetzen und ihren Ideen durch Texte Ausdruck zu verleihen – so wie es zu ihnen, ihrer Musik, ihrer Kunst oder ihrem Lebenswerk passt. Das habe ich schon als Kind in Form von Kurzgeschichten geübt. Später habe ich ein paar davon dann auch veröffentlicht – einige hier auf dem Blog – einige auf anderen Plattformen.
+
+Wo wir schon bei fiktionalen Texten sind: Die Erfüllung eines weiteren Traums kam 2019 mit dem [Roman "Die Hermetiker"](https://amreis.de/hermetiker/?h=ha118) für mich dazu, den ich mit dem Menschen an meiner Seite Matze geschrieben habe. Kurz zuvor hatten wir unsere [Kurzgeschichte "Die vierte Welle"](https://amreis.de/#stories) in Druck geschickt.
+
+Was das Medium betrifft, bin ich nicht festgelegt. Print fasziniert mich genauso wie Online. So habe ich zum Beispiel lange Zeit für das  **Welt Vegan Magazin** als Texchefin gearbeitet. Auch im Bereich [Lokaljournalismus](/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/) habe ich bereits gearbeitet. Beruflich bin ich als Content Writer unterwegs und schreibe (SEO-)Texte für viele spannende Kund⋆innen.
 
 ## Sounds Vegan Texte auch für Dich
 
