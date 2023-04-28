@@ -43,6 +43,7 @@ labels:
   - Black Market Karma
   - The Flowers Of Hell
   - Rob Munk
+  - serie:Playlists 2023
 focusKeyword: Playlist April 2023
 advertisement: false
 affiliate: false

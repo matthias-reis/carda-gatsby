@@ -123,7 +123,7 @@ Ich schreibe, seit ich einen Stift halten und Buchstaben zu Papier bringen kann.
 
 Der richtige Text ist wichtig, Text kann ein Aushängeschild sein, er kann eine Meinung zum Ausdruck bringen oder ein Produkt beschreiben, er kann Geschichten erzählen, Fakten umschreiben und Nachrichten übermitteln. Meine Devise lautet daher "Alles beginnt mit dem richtigen Text". Meine Texte, die online erscheinen, optimiere ich gerne auf Keywords. Doch nicht nur der SEO-Bereich ist mir ein Begriff, auch was HTML, Bildbearbeitung und diverse Content Management Systeme angeht, kenne ich mich aus.
 
-## Schreiben ist meine Leidenschaft
+## Schreiben ist meine
 
 Ich liebe es, beim Schreiben immer wieder die Perspektive zu wechseln, mich in Menschen hineinzuversetzen und ihren Ideen durch Texte Ausdruck zu verleihen – so wie es zu ihnen, ihrer Musik, ihrer Kunst oder ihrem Lebenswerk passt. Das habe ich schon als Kind in Form von Kurzgeschichten geübt. Später habe ich ein paar davon dann auch veröffentlicht – einige hier auf dem Blog – einige auf anderen Plattformen.
 
