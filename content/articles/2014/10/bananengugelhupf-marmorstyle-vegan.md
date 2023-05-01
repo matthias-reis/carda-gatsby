@@ -183,11 +183,11 @@ Das Rezept ist für einen kleinen Kuchen gedacht, von dem zwei Personen ca. 2 Ta
 
 1.  Mehl, Salz und Backpulver beimengen und gut verquirlen.
 1.  Das Wasser erhitzen und die Hälfte davon in der kleinen Schüssel zum Anrühren des Kakaos nutzen.
-1.  Etwa 1/4 des Teiges mit dem Esslöffel zum Kakao geben und verrühren.[gallery size="medium" link="none" type="rectangular" ids="9110,9111,9112"]
+1.  Etwa 1/4 des Teiges mit dem Esslöffel zum Kakao geben und verrühren.
 1.  Den Rest des Wassers in den "Hauptteig" einrühren.
 1.  Die Backform mit dem Kokosöl (am besten mit den Händen, das hat den positiven Nebeneffekt, dass sie schön geschmeidig werden und obendrein noch gut riechen) großzügig einfetten. Der Gugelhupf lässt sich so nach dem Backen ganz leicht aus der Form lösen und erhält zusätzlich noch eine leckere Kokoskruste.
 1.  Den hellen Teig mit dem Esslöffel gleichmäßig in die Form geben.
-1.  Den dunklen Teig vorsichtig darüber ausbreiten.[gallery size="medium" link="none" type="rectangular" ids="9113,9114,9115"]
+1.  Den dunklen Teig vorsichtig darüber ausbreiten.
 1.  Nun mit der Gabel 1 x im Uhrzeigersinn sanfte wellenförmige Bewegungen durch beide Teigschichten machen, so ergibt sich die weltberühmte Marmorierung.
 1.  Die Schüsseln auskratzen und Löffel und Gabel ordentlich ablecken, der Teig ist LECKER!
 1.  Den Kuchen auf der mittleren Schiene in den Ofen packen und ca. eine Stunde backen.
