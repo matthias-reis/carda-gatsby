@@ -110,7 +110,7 @@ Mit ihrer einfühlsamen Art kümmert sie sich um kranke und traumatisierte Tiere
 
 Jan brach 1978 sein Lehramtsstudium für Biologie und Mathematik ab, um auf dem Hof seiner Eltern eine landwirtschaftliche Berufsausbildung zu starten und seine Eltern zu unterstützen. Nach seinem Meisterkurs an der Fachschule für Landwirtschaft wurde er Betriebsleiter auf Hof Butenland und stellte den damaligen Milchbetrieb nach und nach auf Bio-Landwirtschaft um. 1984 legte er seine Landwirtschaftsmeisterprüfung ab. 2001 beendete er den Nutztierbetrieb und wurde zum Veganer.
 
-Seit 2007 ist er erster Vorsitzender der Tierschutzstiftung Hof Butenland, die er gemeinsam mit Karin gründete. Er kümmert sich um landwirtschaftliche Arbeiten, pflegt die Großtiere und  bewirtschaftet die Weiden und Wiesen von Hof Butenland.
+Seit 2007 ist er der erste Vorsitzende der Tierschutzstiftung Hof Butenland, die er gemeinsam mit Karin gründete. Er kümmert sich um landwirtschaftliche Arbeiten, pflegt die Großtiere und  bewirtschaftet die Weiden und Wiesen von Hof Butenland.
 
 ![Jan und Ferdinand | large](https://storage.googleapis.com/cardamonchai-media/2023-05-08/2023-05-07-hof-butenland-anne-reis-soundsvegan1017-jpg-imagine-080808_413a31_2048_1536/640.webp "Jan und Ferdinand")
 
