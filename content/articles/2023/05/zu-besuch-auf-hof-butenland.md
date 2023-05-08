@@ -90,7 +90,7 @@ Besonders gut angefreundet haben wir uns mit dem großen Ochsen Mattis.
 
 Alle Tiere auf Butenland haben dramatische Schicksale hinter sich und bevor sie auf den Hof von Karin und Jan kamen, Schlimmes erlebt. Viele von ihnen waren vollkommen traumatisiert, krank oder wurden von ihren ehemaligen Besitzer⋆innen sogar schon als tot erklärt. 
 
-Von der Kuh, die mit offenem Bauch im Tierversuch stand, bis zum Huhn, das mit multiplen Brüchen aus der Legehaltung kam. Von der Kuh-Mutter, die hochtragenden vom Nachbarhof floh und nun ihrem inzwischen ausgewachsenen Kind nicht mehr von der Seite weicht, weil sie nach Jahren immer noch Angst hat, dass jemand kommt und es ihr wegnimmt bis zum Ochsen, der von einem Restaurant-Besitzer in einer Garage angebunden wurde und sich nun immer in vorsichtigem Sicherheitsabstand zur Herde aufhält. Sie alle haben auf Butenland ein liebevolles, mitfühlendes Zuhause gefunden.
+Von der Kuh, die mit offenem Bauch im Tierversuch stand, bis zum Huhn, das mit multiplen Brüchen aus der Legehaltung kam. Von der Kuh-Mutter, die hochtragend vom Nachbarhof floh und nun ihrem inzwischen ausgewachsenen Kind nicht mehr von der Seite weicht, weil sie nach Jahren immer noch Angst hat, dass jemand kommt und es ihr wegnimmt bis zum Ochsen, der von einem Restaurant-Besitzer in einer Garage angebunden wurde und sich nun immer in vorsichtigem Sicherheitsabstand zur Herde aufhält. Sie alle haben auf Butenland ein liebevolles, mitfühlendes Zuhause gefunden.
 
 <Gallery name="butenland-mutter-sohn" />
 
