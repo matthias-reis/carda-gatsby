@@ -4,8 +4,8 @@ slug: butenland-besuch
 typeName: Beitrag
 title: Zu Besuch auf Hof Butenland
 subTitle: Kuhaltersheim und Tierschutzhof hautnah
-seoTitle: butenland-besuch
-ogTitle: Butenland live erleben – so ist es auf dem Tierschutzhof
+seoTitle: Butenland live erleben – so ist es auf dem Tierschutzhof
+ogTitle: 
 description: Butenland live zu erleben und das Gründerpaar Karin und Jan
   kennenzulernen – dieser Traum hat sich für mich jetzt erfüllt. Erfahrt jetzt
   alles über meinen Besuch!
