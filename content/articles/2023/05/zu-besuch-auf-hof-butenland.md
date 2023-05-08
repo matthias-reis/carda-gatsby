@@ -46,7 +46,7 @@ Gemeinsam mit einigen anderen Tierschützer⋆innen wurden wir pünktlich um 15 
 
 ![Hofleiter Sir Archie | large](https://storage.googleapis.com/cardamonchai-media/2023-05-08/2023-05-07-hof-butenland-anne-reis-soundsvegan1101-jpg-imagine-282838_636363_2048_1536/640.webp "Hofleiter Sir Archie")
 
-Zuerst ging es in den Stall. Dort lernten wir das die beiden Minischweine Eberhardt und Winfried kennen. Das Vater-Sohn-Paar wurde aus dem Tierversuch gerettet. Die beiden sind unzertrennlich. 
+Zuerst ging es in den Stall. Dort lernten wir die beiden Minischweine Eberhardt und Winfried kennen. Das Vater-Sohn-Paar wurde aus dem Tierversuch gerettet. Die beiden sind unzertrennlich. 
 
 Im Unibetrieb stand ihnen über Jahre nur eine winzige Strohecke in einem gefliesten Raum zur Verfügung – kein Ort für zwei Schweine. Sohn Winfried verlor durch die Tests im Labor sein Augenlicht und kann heute nur noch Schatten erkennen. Das hat ihn nicht davon abgehalten, auf Butenland zu einem sehr glücklichen Eber zu werden – gemeinsam mit seinem Papa, dem er nicht von der Seite weicht. Inzwischen leben sie seit gut sechs Jahren auf Butenland und fühlen sich dort sauwohl. Das konnten wir live erleben: Als wir die beiden im Garten vor dem Hoftor fanden, kamen sie neugierig zu uns, um uns zu beschnuppern. Anschließend beschloss Eberhard, dass es Zeit für ein Nickerchen wäre und er bat Karin mittels Körpersprache, das Tor für ihn und seinen Sohn zu öffnen. Im kühlen, gemütlichen Inneren angekommen, ging er schnurstracks auf ihr gemütliches, dickes Strohbett zu und fing an, sich einzugraben – dicht gefolgt von Winfried. Die beiden schlafen immer Rüssel an Rüssel.
 
