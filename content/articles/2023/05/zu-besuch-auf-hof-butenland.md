@@ -40,7 +40,7 @@ Als wir ankamen, begrüßte uns auf dem in den Bäumen über dem Hoftor ein gro�
 
 ## Eberhard und Winfried kuscheln sich ins Stroh
 
-Gemeinsam mit einigen anderen Tierschützer⋆innen wurden wir pünktlich um 15 Uhr zum Start der Tour am Parkplatz abgeholt. Karin und Jan begrüßten uns unglaublich herzlich – gemeinsam mit Hofleiter Sir Archie, einem kleinen Pekinesen aus dem Tierschutz sowie seinem Hundefreund Paulau. Sir Archie wich uns für die kompletten zweieinhalb Stunden unseres Aufenhalts nicht mehr von der Seite. Er folgte uns über Stock und Stein, zwischen Kuhbeinen hindurch, über Wiesen und den berühmten Kuhdamm – so heißt der schmale geteerte Weg, über den man vom Hof zu den Rinderweiden gelangt.
+Gemeinsam mit einigen anderen Tierschützer⋆innen wurden wir pünktlich um 15 Uhr zum Start der Tour am Parkplatz abgeholt. Karin und Jan begrüßten uns unglaublich herzlich – gemeinsam mit Hofleiter Sir Archie, einem kleinen Pekinesen aus dem Tierschutz sowie seinem Hundefreund Palau. Sir Archie wich uns für die kompletten zweieinhalb Stunden unseres Aufenhalts nicht mehr von der Seite. Er folgte uns über Stock und Stein, zwischen Kuhbeinen hindurch, über Wiesen und den berühmten Kuhdamm – so heißt der schmale geteerte Weg, über den man vom Hof zu den Rinderweiden gelangt.
 
 ![Karin auf dem Kuhdamm | large](https://storage.googleapis.com/cardamonchai-media/2023-05-08/2023-05-07-hof-butenland-anne-reis-soundsvegan1043-jpg-imagine-283808_5e694c_2048_1536/640.webp "Karin auf dem Kuhdamm")
 
