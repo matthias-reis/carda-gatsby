@@ -52,7 +52,7 @@ Im Unibetrieb stand ihnen über Jahre nur eine winzige Strohecke in einem geflie
 
 <Gallery name="butenland-eberhard-winfried" />
 
-Um sie nicht beim Einschlafen zu stören, gingen wir etwas weiter nach hinten und konnten Rosa Marie und Frederik zum ersten Mal an diesem Tag sehen. Sie machten sich dann flott auf den Weg nach draußen. Wir würden ihnen später wieder begegnen.
+Um sie nicht beim Einschlafen zu stören, gingen wir etwas weiter nach hinten und konnten Rosa Mariechen und Frederik zum ersten Mal an diesem Tag sehen. Sie machten sich dann flott auf den Weg nach draußen. Wir würden ihnen später wieder begegnen.
 
 ## Eine 12-jährige Mastente
 
