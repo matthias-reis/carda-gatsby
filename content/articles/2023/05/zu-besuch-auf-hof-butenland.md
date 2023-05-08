@@ -76,7 +76,7 @@ Unsere Begrüßung war überaus herzlich und wir hatten Zeit für viele Umarmung
 
 <Gallery name="butenland-rosa" />
 
-Nach unserer Kuschelrunde mit Frederik und Rosa Mariechen gingen wir zu Ferdinand dem Pony. Jan ließ ihn auf die Weide, um ihm etwas Auslauf mit den anderen Pferden zu können. Er war leider sehr krank, da er aus einer schlimmen Haltung kommt, daher erholt er sich gerade in der Butenländer Krankenstation.
+Nach unserer Kuschelrunde mit Frederik und Rosa Mariechen gingen wir zu Ferdinand dem Pony. Jan ließ ihn auf die Weide, um ihm etwas Auslauf mit den anderen Pferden zu gönnen. Er war leider sehr krank, da er aus einer schlimmen Haltung kommt, daher erholt er sich gerade in der Butenländer Krankenstation.
 
 ## Mit Ochsen schmusen
 
