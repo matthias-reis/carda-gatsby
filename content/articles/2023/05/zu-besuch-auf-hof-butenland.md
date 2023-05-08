@@ -102,7 +102,7 @@ Karin und Jan haben ihr Leben den Tieren gewidmet. Sie kümmern sich mit Herzblu
 
 Karin Mück ist Tierrechtlerin seit sie denken kann. Als zweite Vorsitzende der Butenland Stiftung führt sie Hof gemeinsam mit ihrem Lebenspartner Jan Gerdes. Sie blickt auf eine 20-jährige Karriere als Krankenschwester zurück und begann schon als Jugendliche, sich für Tiere einzusetzen. Tierversuche und die Fleischindustrie waren für sie schon immer blanker Horror. Zwischen Haustieren und "Nutztieren" sah sie auch als Kind schon keinen Unterschied. Bereits in den 1980er-Jahren machte sie Menschen auf die Missstände im Umgang mit Tieren aufmerksam und wurde sogar verhaftet. 
 
-Mit ihrer einfühlsamen Art kümmert sie sich um kranke und traumatisierte Tiere, versorgt Wunden, kümmert sich um die Abstimmung mit dem Tierarzt und schaufelt sich durch Berge von Pferdeäpfeln und Strohballen. Wenn sich zwischendurch die Gelegenheit ergibt, macht sie außerdem die wunderbaren Butenland-Fotos, die ihr auf der Hof-Webseite und in den sozialen Netzwerken bewundern 
+Mit ihrer einfühlsamen Art kümmert sie sich um kranke und traumatisierte Tiere, versorgt Wunden, kümmert sich um die Abstimmung mit dem Tierarzt und schaufelt sich durch Berge von Pferdeäpfeln und Strohballen. Wenn sich zwischendurch die Gelegenheit ergibt, macht sie außerdem die wunderbaren Butenland-Fotos, die ihr auf der Hof-Webseite und in den sozialen Netzwerken bewundern könnt.
 
 <Gallery name="butenland-karin" />
 
