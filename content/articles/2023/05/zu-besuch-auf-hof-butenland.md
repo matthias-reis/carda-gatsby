@@ -94,7 +94,7 @@ Von der Kuh, die mit offenem Bauch im Tierversuch stand, bis zum Huhn, das mit m
 
 <Gallery name="butenland-mutter-sohn" />
 
-Eins ist sicher: Unser Samstag auf Hof Butenland wird mir für immer in Erinnerung bleiben. Wir haben so viele wunderbare Momente voller Liebe erlebt und es lässt sich gerade unglaublich schwer in Worte fassen. Ich hoffe, Ihr seht mir das nach. Was Karin und Jan aufgebaut haben, ist einmalig und ich bin unglaublich dankbar dafür, dass ich es mit erleben und die Butenländer⋆innen treffen durfte.
+Eins ist sicher: Unser Samstag auf Hof Butenland wird mir für immer in Erinnerung bleiben. Wir haben so viele wunderbare Momente voller Liebe erlebt und es lässt sich gerade unglaublich schwer in Worte fassen. Ich hoffe, Ihr seht mir das nach. Was Karin und Jan aufgebaut haben, ist einmalig und ich bin unglaublich dankbar dafür, dass ich es mit eigenen Augen sehen und die Butenländer⋆innen treffen durfte.
 
 Karin und Jan haben ihr Leben den Tieren gewidmet. Sie kümmern sich mit Herzblut um jedes einzelne Lebewesen auf dem Hof. Gäbe es mehr Menschen wie sie, wäre die Welt ganz sicher ein besserer Ort.
 
