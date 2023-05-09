@@ -32,7 +32,7 @@ language: de
 ---
 **Butenland besuchen und die Gründer⋆innen Karin und Jan und die Hofbewohner⋆innen kennenlernen – und natürlich mein Patenschwein Frederik – das habe ich mir schon sehr lange gewünscht. Am Wochenende war es endlich so weit. Weil meine Eindrücke noch ganz frisch sind, möchte ich die Gelegenheit nutzen und Euch Butenland nochmal genau vorstellen.**
 
-Vorneweg: so emphatische, liebe und herzliche Tiere und Menschen habe ich noch nie zuvor an einem Ort getroffen. Es war magisch – Das sage ich, ohne zu übertreiben.
+Vorneweg: so viele emphatische, liebe und herzliche Tiere und Menschen habe ich noch nie zuvor an einem Ort getroffen. Es war magisch – Das sage ich, ohne zu übertreiben.
 
 <Gallery name="butenland-anne-reis" />
 
