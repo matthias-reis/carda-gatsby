@@ -3,8 +3,8 @@ date: 2023-05-15T15:28:49.860Z
 slug: masthuehner
 typeName: Beitrag
 title: Das Leben der Masthühner
-subTitle: Sie leiden in Dunkelheit
-seoTitle: Masthühner leiden in Dunkelheit
+subTitle: Sie leiden in der Dunkelheit
+seoTitle: Masthühner leiden in der Dunkelheit
 description: '"Masthühner" leiden ihr ganzes Leben lang. Animal Equality teilt
   jetzt neue Zahlen und Erkenntnisse. Das könnt Ihr persönlich tun.'
 excerpt: '"Masthühner" – mit dieser Bezeichnung sind Hühner gemeint, die
