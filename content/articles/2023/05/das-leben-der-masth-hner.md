@@ -75,7 +75,7 @@ Dabei sind besonders Hühner sehr gesellig – und sie fühlen Schmerzen, genau 
 
 ## Die Werbung führt uns in die Irre
 
-Wirklich schützen können wir Lebewesen nur, wenn wir sie gar nicht erst für die Gewinnung von Fleisch, Eiern, Milch und andere Produkte tierischer Herkunft züchten, halten und töten. Nur so können wir die Grausamkeiten auf Dauer stoppen. Würden wir Menschen statt Hühnerfleisch [Bohnen, Linsen & Co.](/2022/11/veganes-protein/) einfach direkt essen, müsste niemand mehr Hühner züchten.
+Wirklich schützen können wir Lebewesen nur, wenn wir sie gar nicht erst für die Gewinnung von Fleisch, Eiern, Milch und andere Produkte tierischer Herkunft züchten, halten und töten. Nur so können wir die Grausamkeiten auf Dauer stoppen. Würden wir Menschen statt Hühnerfleisch [Bohnen, Linsen & Co.](/2022/11/veganes-protein/) einfach direkt essen, müsste niemand mehr Hühner züchten. Denn die Werbung führt uns in die Irre: wir brauchen keine Lebensmittel tierischer Herkunft, um gesund zu leben.
 
 Leider ist es noch ein langer Weg bis dahin und Tierrechts-Organisationen wie Animal Equality fragen sich daher schon lange zu Recht: 
 
