@@ -67,7 +67,7 @@ Menschen haben diese Tiere auf ihre Wünsche – so billig und so schnell wie m�
 
 ---
 
-**Trauriger Fakt:** Gerade Vögeln wie Hühnern bringen wir Menschen häufig noch weniger Empathie entgegen, als [Schweinen](/2019/08/das-gluecksferkel-von-hof-butenland/), Rindern, Pferden, Hunden und Katzen. Lest [mein Interview mit Andrea vom Hamburger Stadttauben e. V.](/2021/11/hamburger-stadttauben-interview/), um mehr über dieses Thema zu erfahren.
+**Trauriger Fakt:** Gerade Vögeln wie Hühnern bringen wir Menschen häufig noch weniger Empathie entgegen, als [Schweinen](/2019/08/das-gluecksferkel-von-hof-butenland/), Rindern und Pferden, während unsere Hunde und Katzen bei uns im Bett schlafen dürfen. Lest [mein Interview mit Andrea vom Hamburger Stadttauben e. V.](/2021/11/hamburger-stadttauben-interview/), um mehr über dieses Thema zu erfahren.
 
 ---
 
