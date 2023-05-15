@@ -71,4 +71,6 @@ Jede⋆r der⋆die den Film bisher gesehen hat, lobt ihn in den höchsten Tönen
 
 Also: Geht ins Kino und schaut Euch "Butenland der Film" an. Es lohnt sich! Die bisherigen Kinotermine [findet Ihr hier](https://mindjazz-pictures.de/filme/butenland/). Es wäre natürlich klasse, wenn Ihr zusätzlich in Eurem Lieblingskino weitere Termine vorschlagt. Auch die grandiosen Dokumentarfilme "[The End Of Meat](/2020/02/the-end-of-meat/)" und "[Live And Let Live](/2019/11/live-and-let-live-film/)" stammen von Marc Pierschel. Klickt einfach auf die Links, um meine Beiträge dazu zu lesen.
 
+[Ich war in Butenland und habe dort mein Patenschwein Frederik besucht. Er schaffte es, sich durch einen spektakulären Sprung vom Tiertransporter zu retten](https://soundsvegan.com/2023/05/butenland-besuch/).
+
 Fotos und Filmplakat: [Hof Butenland](https://www.stiftung-fuer-tierschutz.de/)

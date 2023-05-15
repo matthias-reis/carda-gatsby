@@ -43,7 +43,9 @@ Als ich Frederiks Geschichte las, musste ich, dass er mein Patentier werden soll
 
 Wenn Ihr da auch machen wollt, könnt Ihr das [ganz einfach über die Butenland Webseite tun](https://www.stiftung-fuer-tierschutz.de/spenden/patenschaft/). Durch Eure Patenschaft unterstützt Ihr dann die tierischen Bewohner⋆innen des Hofes und sorgt dafür, dass immer genügend Futter, Stroh, Medizin und was die Tiere sonst benötigen, auf Lager ist. Die Höhe Eurer Spende könnt Ihr selbst bestimmen. Der Mindestbetrag liegt bei 60 Euro im Jahr. Ihr erhaltet dann eine Patenschaftsurkunde und könnt das Tier nach Vereinbarung auf Butenland besuchen.
 
-A﻿uf dem zauberhafte Bild oben seht Ihr Frederik mit seiner besten Freundin Rosa Mariechen. Die beiden schlafen am liebsten Rüssel an Rüssel ein und sind sich immer treu. Ist das nicht wunderschön?
+Auf dem zauberhafte Bild oben seht Ihr Frederik mit seiner besten Freundin Rosa Mariechen. Die beiden schlafen am liebsten Rüssel an Rüssel ein und sind sich immer treu. Ist das nicht wunderschön?
+
+[Ich war zu Gast auf Hof Butenland und habe dort mein Patenschwein Frederik und die anderen Tiere besucht](https://soundsvegan.com/2023/05/butenland-besuch/).
 
 ## Die Tiere auf Hof Butenland
 

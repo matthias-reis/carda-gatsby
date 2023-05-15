@@ -79,6 +79,8 @@ Aus diesem Grund habe ich heute auch eine Tierpatenschaft für Frederik übernom
 
 Wer auch Interesse an einer Patenschaft hat, findet auf der Seite von Hof Butenland noch viele weitere Tiere mit ähnlichen Schicksalen. Auf dem Hof können sie ihr Leben sorgenfrei genießen.
 
+[Ich habe Frederik auf Hof Butenland besucht](https://soundsvegan.com/2023/05/butenland-besuch/).
+
 ## Das ist Frederik
 
 <YouTube id="XkUW7GTBeK4" />

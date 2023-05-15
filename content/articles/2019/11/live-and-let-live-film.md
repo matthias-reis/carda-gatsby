@@ -48,7 +48,7 @@ Es kommen unter anderen die Autorin des Buchs "[Warum wir Hunde lieben, Schweine
 
 Auf, wie ich finde besonders einfühlsame Art und Weise, Themen wie der Klimawandel, die immer häufiger auftretenden Lebensmittelskandale und ernährungsbedingte Krankheiten bearbeitet.
 
-Was mir besonders gut gefallen hat, ist das Interview mit Hof Butenland Betreiber\*innen Jan Gerdes und Karin Mück. Sie erzählen von ihrem Hof im Wandel der Zeit - vom traditionellen Bauernhof im Familienbetrieb zum Kuh-Altersheim und Lebenshof.
+Was mir besonders gut gefallen hat, ist das Interview mit [Hof Butenland](https://soundsvegan.com/2023/05/butenland-besuch/) Betreiber\*innen Jan Gerdes und Karin Mück. Sie erzählen von ihrem Hof im Wandel der Zeit - vom traditionellen Bauernhof im Familienbetrieb zum Kuh-Altersheim und Lebenshof.
 
 Sie berichten unter anderem von der Kuh, die ihnen eines Tages vom Nachbarhof zulief, weil sie es nicht mehr ertragen konnte, dass ihr immer wieder die Kälbchen entzogen wurden. Genau wie [Frederik, das Schwein, das sich mit einem Sprung vom Tiertransporter gerettet hat](/2019/08/das-gluecksferkel-von-hof-butenland/), hat jedes Tier auf Hof Butenland sein ganz persönliches Schicksal.
 
