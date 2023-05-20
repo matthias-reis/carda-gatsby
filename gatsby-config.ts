@@ -100,7 +100,7 @@ ${
   }
 }`,
             output: '/rss.xml',
-            title: "Cardamonchai.com - Rock 'n' Roll vegan",
+            title: "soundsvegan.com",
           },
         ],
       },

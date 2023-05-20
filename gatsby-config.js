@@ -92,7 +92,7 @@ ${((_j = edge.node.frontmatter) === null || _j === void 0 ? void 0 : _j.language
   }
 }`,
                         output: '/rss.xml',
-                        title: "Cardamonchai.com - Rock 'n' Roll vegan",
+                        title: "soundsvegan.com",
                     },
                 ],
             },

@@ -2,7 +2,7 @@
 date: 2023-05-20T13:13:01.313Z
 slug: gemuese-essen-fitness
 typeName: Beitrag
-title: Regelmäßig Gemüse essen ist wie täglich 4.000 Schritte gehen
+title: Regelmäßig Gemüse essen ist wie täglich 4.000 Schritte mehr
 subTitle: Neue Studie bringt Fitness mit Ernährung in Zusammenhang
 seoTitle: Gemüse essen ist wie 4.000 Schritte täglich
 description: Wenn Ihr regelmäßig Gemüse esst, tut Ihr ebenso viel für Eure
