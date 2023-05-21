@@ -35,7 +35,7 @@ language: de
 ---
 **Moby veröffentlichte am 12. Mai 15 seiner Songs neu. Das Besondere: Bei "Resound NY" handelt es sich um beeindruckende, orchestrale Versionen der Stücke, die der Künstler gemeinsam mit Marisha Wallace auf Deutsche Grammophon aufgenommen hat. Die Platte ist eine Hommage an seine Herzstadt New York City und unsere Welt als Ganzes.**
 
-Wer Mobys Autobiografie "Porcellain" gelesen hat, weiß, wie sehr der Ausnahme-Musiker und Vegan-Aktivist sich mit der Stadt New York verbunden fühlt. Und genau so fühlt sich auch sein neues Album an. Die Neuvertonung der folgenden 15 Songs klingt wie ein ausgedehnter Spaziergang durch die Stadt New York. Unterstützung hat sich Moby neben der von Marisha Wallace übrigens auch noch von einigen anderen musikalischen Größen geholt. Ihr findet sie in Klammern hinter den jeweiligen Stücken.
+Wer Mobys Autobiografie "Porcelain" gelesen hat, weiß, wie sehr der Ausnahme-Musiker und Vegan-Aktivist sich mit der Stadt New York verbunden fühlt. Und genau so fühlt sich auch sein neues Album an. Die Neuvertonung der folgenden 15 Songs klingt wie ein ausgedehnter Spaziergang durch die Stadt New York. Unterstützung hat sich Moby neben der von Marisha Wallace übrigens auch noch von einigen anderen musikalischen Größen geholt. Ihr findet sie in Klammern hinter den jeweiligen Stücken.
 
 ![Moby – "Resound NY"](https://storage.googleapis.com/cardamonchai-media/2023-05-21/moby-resound-nyc-ecover-2048x2048-jpg-imagine-080808_595855_2048_2048/640.webp "Moby – \"Resound NY\"")
 
