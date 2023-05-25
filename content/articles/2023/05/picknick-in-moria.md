@@ -32,11 +32,11 @@ language: de
 
 Talib Shah schreibt, produziert und dreht mit den Bewohner⋆innen des Camps einen Spielfilm über seine geflüchtete Familie. Die Arbeit gestaltet sich nervenaufreibend. Immer wieder werden die Wohnstätten der Menschen von Brandstiftungen bedroht. Angst und Perspektivlosigkeit machen sich breit. Lina Lužytė Talib Shah für Ihre Dokumentation und begleitete sein tägliches Leben und die Aufnahmen.
 
-Trotz aller Düsternis ist "Picknick in Moria"[^1] auch ein Werk der Hoffnung und des Triumphs über die Unterdrückung. Unsere Kunst lebt weiter – auch, wenn Ihr uns alles nehmt. Talib Shah ist kurz davor, die Hoffnung zu verlieren, als er beschließt, sein Leben wieder selbst in die Hand zu nehmen. Er beginnt den Film "Picnic" zu drehen, um damit dem Rest der Welt das Leben der geflüchteten Menschen in Moria zu zeigen: die humanitäre Katastrophe, die Abgründe und die Hoffnungslosigkeit.
+!["Picknick in Moria"](https://storage.googleapis.com/cardamonchai-media/2023-05-25/picknick-in-moria-filmplakat-jpeg-imagine-181818_606d8a_595_842/640.webp "\"Picknick in Moria\"")
+
+Trotz all seiner Düsternis ist "Picknick in Moria"[^1] auch ein Werk der Hoffnung und des Triumphs über die Unterdrückung. Unsere Kunst lebt weiter – auch, wenn Ihr uns alles nehmt. Talib Shah ist kurz davor, die Hoffnung zu verlieren, als er beschließt, sein Leben wieder selbst in die Hand zu nehmen. Er beginnt den Film "Picnic" zu drehen, um damit dem Rest der Welt das Leben der geflüchteten Menschen in Moria zu zeigen: die humanitäre Katastrophe, die Abgründe und die Hoffnungslosigkeit.
 
 ## Eine Filmproduktion gegen das Aufgeben
-
-!["Picknick in Moria"](https://storage.googleapis.com/cardamonchai-media/2023-05-25/picknick-in-moria-filmplakat-jpeg-imagine-181818_606d8a_595_842/640.webp "\"Picknick in Moria\"")
 
 Moria war das größte Flüchtlingslager in Europa bis es im Herbst 2020 bis auf die Grundmauern niederbrannte und durch ein neues Lager ersetzt wurde. In dem für 2.800 Personen konzipierten Camp lebten zeitweilig mehr als 20.000 Menschen
 
