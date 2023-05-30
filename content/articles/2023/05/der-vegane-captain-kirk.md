@@ -33,7 +33,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**In der zweiten Staffel der Paramount+ Serie "Star Trek: New Strange Worlds" spielt Paul Wesley, bekannt durch "The Vampire Diaries" keinen Geringeren als Captain Kirk. Aus dem Vampir wird also eine Weltraum-Ikone. Paul Wesley verzichtet übrigens auch im wahren Leben gerne auf Blut – er lebt seit vielen Jahren vegan.**
+**In der zweiten Staffel der Paramount+ Serie "Star Trek: Strange New Worlds" spielt Paul Wesley, bekannt durch "The Vampire Diaries" keinen Geringeren als Captain Kirk. Aus dem Vampir wird also eine Weltraum-Ikone. Paul Wesley verzichtet übrigens auch im wahren Leben gerne auf Blut – er lebt seit vielen Jahren vegan.**
 
 Paul Wesley tritt mit seiner Rolle als junger James T. Kirk in große Fußstapfen. Vor ihm spielten William Shatner (1966 – 1994) und Chris Pine (2009 – 2016) Kirk. Sandra Smith hatte 1969 einen kurzen Auftritt, als Kirk in einer Folge im Körper von Dr. Janice Lester gefangen war, Jimmy Bennet spielte 2009 Kirk als Kind.
 
