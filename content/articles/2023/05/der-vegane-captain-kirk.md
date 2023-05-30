@@ -4,7 +4,7 @@ slug: paul-wesley-vegan-captain-kirk
 typeName: Serientipp
 title: Der vegane Captain Kirk
 subTitle: Paul Wesley, Star Trek und die Tierrechte
-seoTitle: Paul Wesley ist der erste vegan Captain Kirk
+seoTitle: Paul Wesley ist der erste vegane Captain Kirk
 description: 'Der vegan lebende Paul Wesley, bekannt aus "Vampire Diaries"
   spielt in der zweiten Staffel von "Star Trek: New Strange Worlds" Captain
   Kirk! Erfahrt jetzt alle Details!'
