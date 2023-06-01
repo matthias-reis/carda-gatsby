@@ -88,7 +88,7 @@ Die Wahrheit ist aber, dass, wenn man visuelle und akustische Erfahrung in einem
 
 **Anne:** Arbeitet Ihr noch an der Promotion für "L' Origine Du Monde" oder seid Ihr schon mit neuen Songs beschäftigt?
 
-## "Wir sind mit der Promotion für unser Debut-Album ziemlich erfolgreich"
+## "Wir sind mit der Promotion für unser Debütalbum ziemlich erfolgreich"
 
 <RemoteImage
   alt={`Unverkalt`}

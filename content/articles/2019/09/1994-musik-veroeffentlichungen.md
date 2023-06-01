@@ -426,7 +426,7 @@ Was Hartes aus Schweden gefällig? Meshuggah aus Umeå veröffentlichten 1994 ih
 
 #### Method Man - "Tical"
 
-Kennt Ihr noch Method Man? Sein Debut-Album "Tical" sorgte 1994 ganz schön für Furore. Der Wu-Tang-Clan Rapper arbeitet auch als Schauspieler und hat schon in zahlreichen Filmen und Serien mitgewirkt.
+Kennt Ihr noch Method Man? Sein Debütalbum "Tical" sorgte 1994 ganz schön für Furore. Der Wu-Tang-Clan Rapper arbeitet auch als Schauspieler und hat schon in zahlreichen Filmen und Serien mitgewirkt.
 
 <YouTube id="T0BlXy3Roj4" />
 

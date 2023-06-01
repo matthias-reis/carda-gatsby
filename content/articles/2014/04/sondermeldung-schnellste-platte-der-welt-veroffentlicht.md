@@ -65,7 +65,7 @@ Jack White wollte mit seiner Aktion beweisen, dass es möglich ist, eine Platte 
 
 [Third Man Records](http://thirdmanrecords.com) berichtet: Um 10 Uhr am Morgen des 20. April nahm Jack White "Lazaretto" live auf der Bühne des Blue Room im Headquater des Labels in Nashville auf, um 15:55 Ortszeit des gleichen Tages standen bereits die ersten 7"-Vinyls im Schaufenster.
 
-Jack White hat somit den Guinness World Record der Schweizer Polka Band "Vollgas Kompanie" gebrochen und geht mit der schnellsten Platte der Welt  in die Annalen ein. "Vollgas Kompanie" hatten 2008 ihr Debut-Album "Live" nur einen Tag nach der Aufnahme zum Verkauf gestellt.
+Jack White hat somit den Guinness World Record der Schweizer Polka Band "Vollgas Kompanie" gebrochen und geht mit der schnellsten Platte der Welt  in die Annalen ein. "Vollgas Kompanie" hatten 2008 ihr Debütalbum "Live" nur einen Tag nach der Aufnahme zum Verkauf gestellt.
 
 Bei der mysteriösen Platte, von der ich Euch hier die ganze Zeit vorschwärme, handelt es sich um kein geringeres Stück als die Single "Lazaretto" aus dem [heute noch von mir angepriesenen](/2014/04/jack-white-stellt-neuen-song-vor/), am 6. Juni erscheinenden gleichnamigen Album. Selbstverständlich möchte ich Euch auch diesen Whiteschen Geniestreich nicht vorenthalten und lasse Euch hiermit an meiner Freude teilhaben.
 

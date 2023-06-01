@@ -45,7 +45,7 @@ labels:
 
 Das Projekt aus Belgien hat bei Dunk!records unterschrieben. 2016 veröffentlichten sie zu dritt zwei EPs. 2017 kam dann ein neues Bandmitglied dazu.
 
-Inzwischen komplett, begannen sie ihr Debut-Album "Magnolia" aufzunehmen. Mit einem Koffer voll Musik und Inspiration spielten sie Festivals wie Dunk!, Roadburn, Rock Herk und Vivid und ließen ein sprachloses Publikum zurück.
+Inzwischen komplett, begannen sie ihr Debütalbum "Magnolia" aufzunehmen. Mit einem Koffer voll Musik und Inspiration spielten sie Festivals wie Dunk!, Roadburn, Rock Herk und Vivid und ließen ein sprachloses Publikum zurück.
 
 Als ich mir ihre Live Show vom [Dunk!festival 2019](/2019/05/dunkfestival-2019/) anschaute, fing auch mein Herz an, für Mantis zu schlagen. Als ich dann vor Kurzem herausfand, dass es ein neues Album geben würde, machte mich das mehr als glücklich. Eine der Vorauskopplungen von "Glint" schaffte es auf die "12 Songs für den Dezember" Playlist. Zwei Tage später erschien dann "Glint" bei Dunk!records.
 

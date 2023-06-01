@@ -34,7 +34,7 @@ subTitle: '"The Ocean''s Lullaby"'
 
 **Das erste Album des Würzburger Post-Rock-Projekts "The Ocean's Lullaby" soll Ende des Jahres erscheinen. Ich habe mich mit Gründer Marc über sein musikalisches Werk unterhalten.**
 
-Six Days Of Calm gibt es seit 2018. Als sich seine Metalcore Band Watch Them Fade auflöste, wusste Multiinstrumentalist Marc, dass es Zeit für etwas Neues war - er wollte sich fortan voll und ganz seiner großen Leidenschaft, dem Post-Rock widmen. Mit dem 6DOC Debut-Album "The Ocean's Lullaby" zeigt sich dieses Feuer das erste Mal mit seiner ganzen Kraft.
+Six Days Of Calm gibt es seit 2018. Als sich seine Metalcore Band Watch Them Fade auflöste, wusste Multiinstrumentalist Marc, dass es Zeit für etwas Neues war - er wollte sich fortan voll und ganz seiner großen Leidenschaft, dem Post-Rock widmen. Mit dem 6DOC Debütalbum "The Ocean's Lullaby" zeigt sich dieses Feuer das erste Mal mit seiner ganzen Kraft.
 
 **Anne:** Hi! Vielen Dank, dass Du Dir die Zeit nimmst! Wie geht es Dir?
 

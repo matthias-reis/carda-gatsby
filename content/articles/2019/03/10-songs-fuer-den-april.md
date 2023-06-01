@@ -128,7 +128,7 @@ Meat Puppets – "Vampyr's Winged Fantasy" vom Album "Dusty Notes"
 
 ## Black Label Society – "A Spoke In The Wheel" vom Album "Sonic Brew"
 
-Black Label Society - so heißt die Band des langjährigen [Ozzy Osbourne](/2014/07/urlaub-ohne-schein/) Gitarristen Zakk Wylde. Die Heavy Metal Mannen so aufgeräumt und ausgeschlafen unplugged zu erleben macht einfach nur glücklich. Valentin meint dazu nur: Ich habe mir die Band eigentlich nie richtig angehört. "A Spoke In The Wheel" ist einfach ein wunderschöner Song! Aufgenommen wurde diese Version davon übrigens zum 20-jährigen Jubiläum des auf Spitfire Records erschienenen Debut-Albums "Sonic Brew".
+Black Label Society - so heißt die Band des langjährigen [Ozzy Osbourne](/2014/07/urlaub-ohne-schein/) Gitarristen Zakk Wylde. Die Heavy Metal Mannen so aufgeräumt und ausgeschlafen unplugged zu erleben macht einfach nur glücklich. Valentin meint dazu nur: Ich habe mir die Band eigentlich nie richtig angehört. "A Spoke In The Wheel" ist einfach ein wunderschöner Song! Aufgenommen wurde diese Version davon übrigens zum 20-jährigen Jubiläum des auf Spitfire Records erschienenen Debütalbums "Sonic Brew".
 
 <YouTube id="x3GQkZa6kXA" />
 

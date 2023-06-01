@@ -132,7 +132,7 @@ Hier noch ein Song, den Matze zur Liste beigesteuert hat:
 
 ## IANAI – "Anaia" vom Album "Sunir"
 
-Weltmythologie – wenn Ihr mit diesem Begriff etwas anfangen könnt, kommt Ihr um IANAI eigentlich kaum herum. Das Projekt des Musikers Jaani Peuhu hat jetzt sein Debut-Album "Sunir" an den Start gebracht. Ich teile hier mal das bildgewaltige Video zum vierten Song auf der Platte mit Euch. Es erzählt die Geschichte eines Wesens, das sich zwischen den Welten bewegt. Gastsängerin Nicole Thomas kennen Insider als Sängerin des britischen Electronic-Kollektivs Client.
+Weltmythologie – wenn Ihr mit diesem Begriff etwas anfangen könnt, kommt Ihr um IANAI eigentlich kaum herum. Das Projekt des Musikers Jaani Peuhu hat jetzt sein Debütalbum "Sunir" an den Start gebracht. Ich teile hier mal das bildgewaltige Video zum vierten Song auf der Platte mit Euch. Es erzählt die Geschichte eines Wesens, das sich zwischen den Welten bewegt. Gastsängerin Nicole Thomas kennen Insider als Sängerin des britischen Electronic-Kollektivs Client.
 
 <YouTube id="ixievkKAOY8" />
 
