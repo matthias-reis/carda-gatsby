@@ -74,7 +74,7 @@ Wenn Ihr meinen Blog schon länger lest, ist Soundkünstler [Zakè](/tag/zake) f
 
 ## Foo Fighters – "Under You" (Vorauskopplung vom Album "But Here We Are")
 
-> "Nach dem Tod von Taylor Hawkins, den wir immer noch betrauern und niemals vergessen werden, brechen die Foo Fighters jetzt in Richtung Zukunft auf. Album eins nach Taylor hat die Band bereits angekündigt – es erscheint am 2. Juni. Und mit dem wohlbekannten Josh Freese (A Perfect Circle, Nine Inch Nails) konnte man auch schon einen würdigen Ersatzmann für die Tour gewinnen. Die ersten beiden Songs wirken allerdings ebenfalls wie alte Bekannte. Ich denke, auf die Highlights, die bisher jede Foo Fighters Platte mitgebracht hat, müssen wir bis zum Release warten. Als Video habe ich Euch die Rehearsal-Aufnahme mit Josh an den Drums herausgesucht."
+> "Nach dem Tod von **Taylor Hawkins**, den wir immer noch betrauern und niemals vergessen werden, brechen die Foo Fighters jetzt in Richtung Zukunft auf. Album eins nach Taylor hat die Band bereits angekündigt – es erscheint am 2. Juni. Und mit dem wohlbekannten Josh Freese (A Perfect Circle, Nine Inch Nails) konnte man auch schon einen würdigen Ersatzmann für die Tour gewinnen. Die ersten beiden Songs wirken allerdings ebenfalls wie alte Bekannte. Ich denke, auf die Highlights, die bisher jede Foo Fighters Platte mitgebracht hat, müssen wir bis zum Release warten. Als Video habe ich Euch die Rehearsal-Aufnahme mit Josh an den Drums herausgesucht."
 
 <YouTube id="n7j_Tm2U0Nk" />
 
@@ -86,7 +86,7 @@ Auch Mesarthim sind mit einem neuen Album zurück. Sie setzen auf einen bewegend
 
 ## Queens of the Stone Age – "Emotion Sickness" (Vorauskopplung vom Album "In Times New Roman …")
 
-> "Auch von den alten Weggefährten von Dave Grohl gibt es bald ein neues Album, einen Nachfolger von Villains aus dem Jahr 2017. Das Album wird Mitte Juni erscheinen. Der Stadion-Rock ist in der Festival-Saison 2023 also zurück. Genau wie bei den Foo Fighters glaube ich allerdings, dass die Queens sich mit der Single noch nicht in alle Karten schauen lassen. Solider Song, aber da wird es sicher noch genialere Momente auf dem Album geben"
+> "Auch von den alten Weggefährten von Dave Grohl gibt es bald ein neues Album – einen Nachfolger für ''Villains' aus dem Jahr 2017. Das Album wird Mitte Juni erscheinen. Der Stadion-Rock ist in der Festival-Saison 2023 also zurück. Genau wie bei den Foo Fighters glaube ich allerdings, dass die Queens sich mit der Single noch nicht in alle Karten schauen lassen. Solider Song, aber da wird es sicher noch genialere Momente auf dem Album geben"
 
 <YouTube id="JkChW6WP0hU" />
 
@@ -102,7 +102,7 @@ Tanner Thornton (Gitarre), Zephaniah Stake (Drums) und Antonio Guzman (Bass) bra
 
 ## Motorpsycho – "Patterns" (Single)
 
-> "Diesen Song gibt es im Moment nur als Single, ich weiß aber, dass er am 16. Juni auch auf Motorpsychos nächstem Album "Yay!" erscheinen wird. Er gibt wohl auch ein bisschen die Richtung vor. Insgesamt klingt er weniger progressiv, mehr psychedelisch und es gibt mehr Akustik-Parts, als wir es von Motorpsycho bisher gewohnt sind. Nichts desto trotz hat die Band natürlich dennoch wie immer einen Platz hier in der Liste sicher. Aber das Muster zieht sich durch. Das coolste von diesem Album haben wir damit bestimmt noch nicht gehört."
+> "Diesen Song gibt es im Moment nur als Single, ich weiß aber, dass er am 16. Juni auch auf Motorpsychos nächstem Album 'Yay!' erscheinen wird. Er gibt wohl auch ein bisschen die Richtung vor. Insgesamt klingt er weniger progressiv, mehr psychedelisch und es gibt mehr Akustik-Parts, als wir es von Motorpsycho bisher gewohnt sind. Nichts desto trotz hat die Band natürlich dennoch wie immer einen Platz hier in der Liste sicher. Aber das Muster zieht sich durch. Das coolste von diesem Album haben wir damit bestimmt noch nicht gehört."
 
 <YouTube id="NG4A9T1DGec" />
 
@@ -120,7 +120,7 @@ Tanner Thornton (Gitarre), Zephaniah Stake (Drums) und Antonio Guzman (Bass) bra
 
 Das neue Album von Sunbeam Overdrive steht bereits seit dem 11. Mai in den Plattenläden. An dieser Stelle möchte ich Euch gerne das Stück "Crimson Stains" daraus zeigen. Ich glaube, dass es einen guten Einstieg in die faszinierende Welt der Band bietet – außerdem kommt es mit einem überraschenden Twist um die Ecke. Die französische Progressive-Metal-Band stand kurz davor, zum ersten Mal auf die Bühne zu gehen, als die Covid-19-Pandemie ausbrach. So hatten sie keine andere Wahl, als ihre ganze Kraft in ihr Debütalbum "Diama" zu stecken – und das hört man! Eine vielseitige Geschichte voller Höhen und Tiefen, Energie und Fantasie erwartet Euch. Sunbeam Overdrive schlagen eine Brücke zwischen Prog, Alternative und Djent indem sie ihrer Musik genau den richtigen Hauch Verspieltheit verliehen haben. Auch sie haben ein paar Details über ihr Werk verraten:
 
-"Obwohl wir "Diama" nicht als Konzeptalbum geplant hatten, stellte sich schnell heraus, dass wir eine kohärenten Linie durchziehen würden. Es fühlt sich an wie eine Reihe von Gipfelkämmen. Man könnte es auch so beschreiben: Es ist eine Geschichte des Aufstiegs, der Erhöhung, des Außen und des Innen. Sie übersetzt sich in die quasi filmische Abfolge von Stücken, die eine Initiationsreise durch unsere zehn Songs bilden."
+> "Obwohl wir "Diama" nicht als Konzeptalbum geplant hatten, stellte sich schnell heraus, dass wir eine kohärenten Linie durchziehen würden. Es fühlt sich an wie eine Reihe von Gipfelkämmen. Man könnte es auch so beschreiben: Es ist eine Geschichte des Aufstiegs, der Erhöhung, des Außen und des Innen. Sie übersetzt sich in die quasi filmische Abfolge von Stücken, die eine Initiationsreise durch unsere zehn Songs bilden."
 
 ![Sunbeam Overdrive | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/sunbeam-overdrive-jpeg-imagine-282828_857354_2479_2402/640.webp "Sunbeam Overdrive")
 
