@@ -133,4 +133,4 @@ Das neue Album von Sunbeam Overdrive steht bereits seit dem 11. Mai in den Platt
 
 ## Die Juni-Playlist auf YouTube
 
-<iframe src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUJYtj4Olaj2LyAl0mpJpHxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUJYtj4Olaj2LyAl0mpJpHxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

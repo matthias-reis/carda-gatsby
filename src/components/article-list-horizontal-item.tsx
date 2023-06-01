@@ -107,6 +107,7 @@ const ImageContainer = styled.span`
   justify-content: center;
   align-items: center;
   overflow: hidden;
+  flex: 0 0 auto;
   margin-right: ${space[1]};
 `;
 

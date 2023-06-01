@@ -136,6 +136,10 @@ Aktuell werden Playlisten von Sptify und Apple unterstützt. Man kann auch beide
   itunes="let-england-shake-this-is-not-america/pl.u-krLLtv3dBdD"
 />
 
+**YouTube iframe immer so wie hier einbinden**
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUJYtj4Olaj2LyAl0mpJpHxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Bedingter Trennstrich
 
 `&shy;` ­
