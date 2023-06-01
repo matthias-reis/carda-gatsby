@@ -6,7 +6,7 @@ title: Playlist Juni 2023
 subTitle: Von Sunbeam Overdrive bis Queens of the Stone Age
 seoTitle: Die alternative Playlist für den Juni
 description: Wenn Ihr nach der ultimativen alternativen Playlist für Euren Juni
-  seid, dann habt Ihr sie hiermit gefunden. Viel Freude mit Bands von Post-Rock
+  sucht, habt Ihr sie hiermit gefunden. Viel Freude mit Bands von Post-Rock
   bis Ambient!
 excerpt: Im Mai war einiges los, eine Musikliste gibt es trotzdem. Wenn auch
   etwas später als sonst, kommt sie dennoch von Herzen und ist randvoll mit
