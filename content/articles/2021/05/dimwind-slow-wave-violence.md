@@ -19,9 +19,9 @@ title: Dimwind – "Slow Wave Violence"
 subTitle: Post-Metal ohne Grenzen
 seoTitle: Dimwind – "Slow Wave Violence" – Post-Metal ohne Grenzen
 ogTitle: ""
-description: Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence"
+description: Dimwind haben vor Kurzem ihr Debütalbum "Slow Wave Violence"
   veröffentlicht. Es lohnt sich aus vielen Gründen mal reinzuhören.
-excerpt: Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence"
+excerpt: Dimwind haben vor Kurzem ihr Debütalbum "Slow Wave Violence"
   veröffentlicht. Das Werk des Göteborger Post-Metal Duos ist absolut hörenswert
   – sieben Songs, die unter die Haut gehen, stehen Euch bevor.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/dimwind-2-jpeg-imagine-080818_566b97_1440_954/640.webp
@@ -33,7 +33,7 @@ affiliate: false
 languageLink: /2021/05/dimwind-slow-wave-violence-en
 ---
 
-**Dimwind haben vor Kurzem ihr Debüt-Album "Slow Wave Violence" veröffentlicht. Das Werk des Göteborger Post-Metal Duos ist absolut hörenswert – sieben Songs, die unter die Haut gehen, stehen Euch bevor.**
+**Dimwind haben vor Kurzem ihr Debütalbum "Slow Wave Violence" veröffentlicht. Das Werk des Göteborger Post-Metal Duos ist absolut hörenswert – sieben Songs, die unter die Haut gehen, stehen Euch bevor.**
 
 Gitarrist Andreas Hansen und Drummer Jonas Eriksson veröffentlichen ihre Musik selbst. Gegründet haben sie sich bereits vor zwei Jahren. Genauer gesagt: im Januar 2019.
 

@@ -137,7 +137,7 @@ Was habe ich Mobys Album "Playing By Heart" hoch und runter gehört. Vor allem d
 
 ## Møaa – "Flashlight" vom Album "Euphoric Recall"
 
-Die Künstlerin Møaa aka Jancy Buffington macht äußerst liebenswerten von Dark Wave angehauchten Dream Pop, der mir gerade richtig gut in den Kram passt. Mit ihrer Musik verarbeitet die Musikerin aus Seattle Erlebtes und träumt von der Vergangenheit. Dabei gelingt es ihr, die Hörer⋆innen auf spannende Weise Richtung Zukunft zu tragen. Hört mal rein, es macht richtig Spaß, sich in ihrem Sound zu verlieren. Ihr Debüt-Album "Euphoric Recall" ist am 2. April erschienen.
+Die Künstlerin Møaa aka Jancy Buffington macht äußerst liebenswerten von Dark Wave angehauchten Dream Pop, der mir gerade richtig gut in den Kram passt. Mit ihrer Musik verarbeitet die Musikerin aus Seattle Erlebtes und träumt von der Vergangenheit. Dabei gelingt es ihr, die Hörer⋆innen auf spannende Weise Richtung Zukunft zu tragen. Hört mal rein, es macht richtig Spaß, sich in ihrem Sound zu verlieren. Ihr Debütalbum "Euphoric Recall" ist am 2. April erschienen.
 
 <YouTube id="d9kHRx4ZNoY" />
 

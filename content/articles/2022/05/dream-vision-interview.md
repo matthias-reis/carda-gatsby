@@ -5,7 +5,7 @@ typeName: Interview
 title: Dream Vision Gründer Jan Oblak
 subTitle: Psychologie fasziniert mich
 seoTitle: Dream Vision Gründer Jan – Post-Rock Interview
-description: Dream Vision Gründer Jan hat sein Debüt-Album "Rêves" gerade
+description: Dream Vision Gründer Jan hat sein Debütalbum "Rêves" gerade
   veröffentlicht. Nach seiner Gründung im Dezember hatte er bereits im Januar
   Musik veröffentlicht. Zeit für ein Interview.
 excerpt: Jan Oblak kennt Ihr vielleicht als eines der Gründungsmitglieder des

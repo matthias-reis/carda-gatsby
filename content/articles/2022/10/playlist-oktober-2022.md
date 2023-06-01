@@ -87,7 +87,7 @@ Es folgt ein Song aus Valentins Plattenkiste:
 
 Und noch ein Stück aus Valentins Selektion:
 
-> "Diese Band aus Los Angeles zählt ebenfalls zu meinen Neuentdeckungen. Stryfe ist ein sehr interessante Progessive-Metal Projekt. Ihr Sound erinnert mich etwas an Chevelle. Ihr Debüt-Album "Cursed Theatre" kommt durchaus politisch daher. Die Band beschäftigt sich teilweise mit ähnlichen Themen wie System of a Down – Die Familien beider Bands stammen aus Armenien. Ich habe "Duplicitous" ausgewählt, weil der Song alle Stärken von Stryfe zeigt. Ich muss zugeben, dass ich etwas gehyped von dieser Gruppe bin. Ich bin sehr gespannt, was uns hier noch bevorsteht."
+> "Diese Band aus Los Angeles zählt ebenfalls zu meinen Neuentdeckungen. Stryfe ist ein sehr interessante Progessive-Metal Projekt. Ihr Sound erinnert mich etwas an Chevelle. Ihr Debütalbum "Cursed Theatre" kommt durchaus politisch daher. Die Band beschäftigt sich teilweise mit ähnlichen Themen wie System of a Down – Die Familien beider Bands stammen aus Armenien. Ich habe "Duplicitous" ausgewählt, weil der Song alle Stärken von Stryfe zeigt. Ich muss zugeben, dass ich etwas gehyped von dieser Gruppe bin. Ich bin sehr gespannt, was uns hier noch bevorsteht."
 
 <YouTube id="fgc9SH6bKRs" />
 

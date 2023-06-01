@@ -123,7 +123,7 @@ Und weiter geht es mit Valentins Songs. Auch hier trifft ausgezeichneter Geschma
 
 <YouTube id="fgLdW8r7DtM" />
 
-## HamaSaari – "Bleak" vom Debüt-Album "Ineffable" 
+## HamaSaari – "Bleak" vom Debütalbum "Ineffable" 
 
 > "Als zweiten Song habe ich 'Bleak' von der französischen Progressive Rock Band HamaSaaris für Euch ausgesucht. Das Debütalbum 'Ineffable' klingt sehr reif und man hört deutlich die Porcupine Tree/Karnivool und Pink Floyd Einflüsse. Die Band ist beim Label Klonosphere Records, bei dem Klone Gitarrist Guillaume Bernard der Boss ist ([Klone hatte ich Euch im letzten Monat vorgestellt](/2023/02/playlist-maerz-2023/)). Produktionstechnisch ist das Album der Hammer. Hier konnte man sich den Karnivool Produzenten Forrester Savell angeln. Ich freue mich auf mehr wunderschöne Musik von HamaSaari."
 

@@ -134,7 +134,7 @@ Ich denke es war die Natur hier oben in Småland und die alte Fabrik, in der ich
 
 **Anne:** Das klingt nach einer Menge Spaß! Wer hat alles an dem Tape mitgearbeitet?
 
-**Magnus:** Ich habe mit Patrik Åberg und Johan Offerlind von der schwedischen Band Avantgardet zusammengearbeitet. Außerdem war Sylvester Schlegel von The Ark dabei. Daniel Fridlund Brandt aus Göteborg und Theis Mikkelsen aus Dänemark. Constant Follower haben die Lyrics auf der B-Seite gemacht. Sie sind aus Schottland und werden diesen Sommer ihr fantastisches Debüt-Album veröffentlichen.
+**Magnus:** Ich habe mit Patrik Åberg und Johan Offerlind von der schwedischen Band Avantgardet zusammengearbeitet. Außerdem war Sylvester Schlegel von The Ark dabei. Daniel Fridlund Brandt aus Göteborg und Theis Mikkelsen aus Dänemark. Constant Follower haben die Lyrics auf der B-Seite gemacht. Sie sind aus Schottland und werden diesen Sommer ihr fantastisches Debütalbum veröffentlichen.
 
 **Anne:** Du hast gesagt, Isolation könnte möglicherweise die beste Medizin für soziale Interaktionen sein. Wie hast Du das gemeint? Hat Dich die Isolation inspiriert?
 
@@ -166,7 +166,7 @@ Ich denke es war die Natur hier oben in Småland und die alte Fabrik, in der ich
 
 **Anne:** Was planst Du als Nächstes? Hast Du neue Projekte, die anstehen? Eine Tour?
 
-**Magnus:** Ich habe viele Projekte neben meiner Arbeit als Architekt. Ich starte mein eigenes Plattenlabel mit ein paar Freund⋆innen – The Mirror Factory. Und ich arbeite ein meiner Instrumental-Platte – es wird mein Debüt-Album unter meinem eigenen Namen. Ich würde es gerne im Herbst veröffentlichen. Außerdem produziere ich einige Songs mit dem unglaublich talentierten Samuel Heiliger.
+**Magnus:** Ich habe viele Projekte neben meiner Arbeit als Architekt. Ich starte mein eigenes Plattenlabel mit ein paar Freund⋆innen – The Mirror Factory. Und ich arbeite ein meiner Instrumental-Platte – es wird mein Debütalbum unter meinem eigenen Namen. Ich würde es gerne im Herbst veröffentlichen. Außerdem produziere ich einige Songs mit dem unglaublich talentierten Samuel Heiliger.
 
 **Anne:** Vielen Dank für das überaus sympathische Interview!
 

@@ -1,6 +1,6 @@
 ---
 ogTitle: Interview mit Breaths – Harte Musik und Veganismus
-excerpt: Darüber, dass harte Musik und Veganismus viel gemeinsam haben, waren Jason von Breaths und ich uns einig. Mein Interview zum Debüt-Album.
+excerpt: Darüber, dass harte Musik und Veganismus viel gemeinsam haben, waren Jason von Breaths und ich uns einig. Mein Interview zum Debütalbum.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-lined-in-silver.png__l.jpg
 isAffiliate: false
 path: /2021/02/breaths-interview/
@@ -19,7 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02
 title: Breaths im Interview
 subTitle: '"Harte Musik und Veganismus haben viel gemeinsam"'
 seoTitle: Harte Musik und Veganismus – Interview mit Breaths
-description: Darüber, dass harte Musik und Veganismus viel gemeinsam haben, waren Jason von Breaths und ich uns einig. Mein Interview zum Debüt-Album.
+description: Darüber, dass harte Musik und Veganismus viel gemeinsam haben, waren Jason von Breaths und ich uns einig. Mein Interview zum Debütalbum.
 language: de
 type: Artikel
 labels:
@@ -40,7 +40,7 @@ labels:
   - vegan celebrities
 ---
 
-**Im März erscheint das Debüt-Album von Breaths. Gründer Jason hat sich jetzt meinem Interview gestellt. Wir haben uns über Musik und Veganismus unterhalten. Und seine ganz persönliche Art, mit der Pandemie umzugehen.**
+**Im März erscheint das Debütalbum von Breaths. Gründer Jason hat sich jetzt meinem Interview gestellt. Wir haben uns über Musik und Veganismus unterhalten. Und seine ganz persönliche Art, mit der Pandemie umzugehen.**
 
 Ich habe Jasons Debüt-LP "Lined in Silver" bereits gehört – für mich ist sie bei den Entdeckungen des Jahres jetzt schon ganz vorne mit dabei. Einen kleinen Vorgeschmack zur Platte erhaltet Ihr weiter unten. Fans von Post-Metal, Blackgaze und Post-Rock kommen bei Breaths auf jeden Fall auf ihre Kosten.
 
@@ -48,7 +48,7 @@ Ich habe Jasons Debüt-LP "Lined in Silver" bereits gehört – für mich ist si
 
 **Jason:** Es geht mir gut. Meine Familie ist gesund und mein Job ist sicher. Ich habe also eine Menge Gründe, in diesen verrückten Zeiten dankbar zu sein.
 
-**Anne:** Du planst, Dein Debüt-Album "Lined In Silver" am 26. März zu veröffentlichen (Ich habe schon eine [Rezension zur Vorauskopplung "The Forgotten Ones"](/2021/01/breaths-the-forgotten-ones/) geschrieben). Das muss ganz schön spannend für Dich sein, oder?
+**Anne:** Du planst, Dein Debütalbum "Lined In Silver" am 26. März zu veröffentlichen (Ich habe schon eine [Rezension zur Vorauskopplung "The Forgotten Ones"](/2021/01/breaths-the-forgotten-ones/) geschrieben). Das muss ganz schön spannend für Dich sein, oder?
 
 ## "Ich habe das Album ganz alleine aufgenommen"
 

@@ -1,6 +1,6 @@
 ---
 ogTitle: Vandemonian "Xenophilia" – Das Debüt der Hamburger Post-Rock-Band
-excerpt: Die Hamburger Band Vandemonian veröffentlicht ihr lang erwartetes Debüt-Album "Xenophilia". Progressiver, politischer Post-Rock mit cinematischen Anleihen.
+excerpt: Die Hamburger Band Vandemonian veröffentlicht ihr lang erwartetes Debütalbum "Xenophilia". Progressiver, politischer Post-Rock mit cinematischen Anleihen.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_vandemonian-1.png__l.jpg
 isAffiliate: false
 path: /2021/02/vandemonian-xenophilia/
@@ -19,7 +19,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02
 title: Vandemonian – "Xenophilia"
 subTitle: Das Debüt der Hamburger Post-Rock-Band
 seoTitle: Vandemonian "Xenophilia" – Das Debüt der Hamburger Post-Rock-Band
-description: Die Hamburger Band Vandemonian veröffentlicht ihr lang erwartetes Debüt-Album "Xenophilia" – Progressiver, politischer Post-Rock.
+description: Die Hamburger Band Vandemonian veröffentlicht ihr lang erwartetes Debütalbum "Xenophilia" – Progressiver, politischer Post-Rock.
 language: de
 type: Artikel
 labels:
@@ -37,7 +37,7 @@ labels:
   - Vandemonian
 ---
 
-**Am Samstag ist es so weit: Die Hamburger Band Vandemonian veröffentlicht ihr lang erwartetes Debüt-Album "Xenophilia". Progressiver, politischer Post-Rock mit cinematischen Anleihen erwartet Euch.**
+**Am Samstag ist es so weit: Die Hamburger Band Vandemonian veröffentlicht ihr lang erwartetes Debütalbum "Xenophilia". Progressiver, politischer Post-Rock mit cinematischen Anleihen erwartet Euch.**
 
 Als Fan von Bands wie pg.lost, [Caspian](/2015/11/caspian-live-hafenklang-hamburg/), [God Is An Astronaut](/2021/02/god-is-an-astronaut-ghost-tapes-10-review/) und [We Lost The Sea](/2021/01/we-lost-the-sea-interview/) haben die drei mit ihrem progressiven Style natürlich einen Nerv getroffen. Darum konnte ich mir das Werk natürlich auf keinen Fall entgehen lassen, als ich das Angebot bekam, schonmal reinzuhören. Hiermit möchte ich es auch Euch ans Herz legen.
 

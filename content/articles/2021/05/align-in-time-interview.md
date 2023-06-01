@@ -39,7 +39,7 @@ languageLink: /2021/05/align-in-time-interview-en
 
 **John:** Meine Alben sind beide biografisch – wenn auch nicht wörtlich. Ich glaube, viele Menschen haben Momente, die herausstechen, wenn sie auf ihr Leben zurückdenken. Diese Momente als Teil einer Geschichte zu interpretieren, hilft ihnen dabei, Dinge zu verarbeiten und einen Sinn darin zu sehen, was einen zu dem Menschen gemacht hat, der man heute ist.
 
-**Anne:** Es ist Deine erste Platte seit Deinem Debüt-Album "Me & My Arrow" im Jahr 2011. Was hat sich seither verändert?
+**Anne:** Es ist Deine erste Platte seit Deinem Debütalbum "Me & My Arrow" im Jahr 2011. Was hat sich seither verändert?
 
 ## "Ich verliere meinen Optimismus"
 

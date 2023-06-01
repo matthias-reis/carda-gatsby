@@ -48,7 +48,7 @@ Die Zusammenarbeit der beiden Bands sorgt für spannende Reibung. Beide Projekte
 
 Während Sâver für Minimalismus stehen, erforschen Psychonaut in ihren Stücken die Grenzen und die Vielfältigkeit von Instrumenten und Techniken. Beide Bands könnte man als perfekt funktionierende, klassische Trios bezeichnen – Jedes funktioniert auf seine Art wie ein Uhrwerk.
 
-Psychonaut sind ein musikalisches Phänomen, das plötzlich auftauchte. Die Band aus dem belgischen Mechelen bewies schon mit ihrem Debüt-Album "Unfold The God Man" von 2020, dass sie ihre Instrumente zu bedienen weiß. Laut eigener Aussage liegen die Einflüsse der Mitglieder bei Bands wie Led Zeppelin, Pink Floyd, Amenra und Tool – heraushören kann man diese verschiedensten progressiven Projekte alle. Zu "Emerald" äußern sich die drei so:
+Psychonaut sind ein musikalisches Phänomen, das plötzlich auftauchte. Die Band aus dem belgischen Mechelen bewies schon mit ihrem Debütalbum "Unfold The God Man" von 2020, dass sie ihre Instrumente zu bedienen weiß. Laut eigener Aussage liegen die Einflüsse der Mitglieder bei Bands wie Led Zeppelin, Pink Floyd, Amenra und Tool – heraushören kann man diese verschiedensten progressiven Projekte alle. Zu "Emerald" äußern sich die drei so:
 
 > "Diese Veröffentlichung ist mit Abstand die aufwendigste Produktion, die wir bis jetzt gemacht haben. Wir haben alle Grenzen überwunden und uns in Sachen Songwriting und Arrangement völlige Freiheit gegeben. Dieser massive Track repräsentiert einen persönlichen und kollektiven Veränderungsprozess, der in fünf Kapiteln erzählt wird, die auf einer psychedelischen Erfahrung beruhen."
 
@@ -60,7 +60,7 @@ Was spannend klingt, ist es auch. Der Song "The Great Realisation" kokettiert mi
 
 Sâver haben 19:06 zur Split-LP beigetragen. Ihr Song "Dimensions Lost, Obscured By Aeons" windet sich in die Gehörgänge und wandert von dort ohne Umwege sofort ins Fantasiezentrum des Gehirns.
 
-Auch die Norweger haben mit ihrem Debüt-Album bereits vorgelegt und einiges an Vorfreude aufgebaut. Bei ihrem legendären Auftritt auf dem Oha Festival in Oslo kurz vor Pandemie-Beginn wurden sie dann mit ihrem Zusammenspiel aus Musik und audiovisueller Kunst endgültig zur Legende. Sie kommentieren die Split-LP so:
+Auch die Norweger haben mit ihrem Debütalbum bereits vorgelegt und einiges an Vorfreude aufgebaut. Bei ihrem legendären Auftritt auf dem Oha Festival in Oslo kurz vor Pandemie-Beginn wurden sie dann mit ihrem Zusammenspiel aus Musik und audiovisueller Kunst endgültig zur Legende. Sie kommentieren die Split-LP so:
 
 > "Wir versuchen als Band die Musik zu schreiben, die wir selbst gerne hören. Wir glauben, dass dieser rund 20-minütige Song den Weg dafür ebnet, wie wir wir als Sâver klingen möchten. Atmosphärisch, brutal, heavy und schön zugleich. Wir lieben das Ergebnis dieser Aufnahme und wir hoffen, dass es Euch auch so geht."
 

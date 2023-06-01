@@ -38,7 +38,7 @@ languageLink: /2022/10/stryfe-interview-en/
 
 Ich hatte jetzt die Chance, mit Sergio Ochoa (Gesang), Kar Khurshudyan (Gitarre), Karo Torosyan (Bass) und Derik (Dero) Vardumyan (Schlagzeug) über ihr Debütalbum "Cursed Theatre", ihre Inspirationsquellen und Zukunftspläne zu sprechen.
 
-**Anne:** Danke, dass Ihr Euch die Zeit für dieses Interview nehmt! Es ist mir eine große Ehre, Euch kennenzulernen. Wie geht es Euch im Moment? Wie läuft die Promo für Eurer Debüt-Album "Cursed Theatre" bis jetzt?
+**Anne:** Danke, dass Ihr Euch die Zeit für dieses Interview nehmt! Es ist mir eine große Ehre, Euch kennenzulernen. Wie geht es Euch im Moment? Wie läuft die Promo für Eurer Debütalbum "Cursed Theatre" bis jetzt?
 
 **Stryfe:** Danke Anne, wir freuen uns auch sehr. Uns geht es gut. Die Promo für das Album läuft hervorragend. Wir sind oft überwältigt, von dem positiven Feedback, das wir bekommen. Wir werden unsere harte Arbeit auf jeden Fall fortsetzen, um sicherzustellen, dass wir mit unserer Musik so viele Menschen, wie möglich erreichen.
 

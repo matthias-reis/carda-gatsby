@@ -23,8 +23,8 @@ subTitle: '"Wir müssen uns um diesen Planeten kümmern"'
 seoTitle: Dimwind Gründer Jonas im Interview – Schwedischer Post-Metal
 ogTitle: ""
 description: Dimwind Gründer Jonas hat mir im Interview einiges über den
-  Entstehungsprozess des Debüt-Albums "Slow Wave Violence" verraten.
-excerpt: Dimwind haben vor Kurzem ihr grandioses Debüt-Album "Slow Wave
+  Entstehungsprozess des Debütalbums "Slow Wave Violence" verraten.
+excerpt: Dimwind haben vor Kurzem ihr grandioses Debütalbum "Slow Wave
   Violence" veröffentlicht. Weil mich die Platte so begeistert hat, habe ich
   mich kurzerhand mit Gründer Jonas zum Interview verabredet. Wir haben uns über
   das Album, das Klima und die Verbindung zwischen harter Musik und Veganismus
@@ -38,9 +38,9 @@ affiliate: false
 languageLink: /2021/06/dimwind-interview-en
 ---
 
-**Dimwind haben vor Kurzem ihr grandioses Debüt-Album "Slow Wave Violence" veröffentlicht. Weil ich so von der Platte begeistert bin, habe ich mich kurzerhand mit Gründer Jonas zum Interview verabredet. Wir haben uns über das Album, das Klima und die Verbindung zwischen harter Musik und Veganismus unterhalten.**
+**Dimwind haben vor Kurzem ihr grandioses Debütalbum "Slow Wave Violence" veröffentlicht. Weil ich so von der Platte begeistert bin, habe ich mich kurzerhand mit Gründer Jonas zum Interview verabredet. Wir haben uns über das Album, das Klima und die Verbindung zwischen harter Musik und Veganismus unterhalten.**
 
-**Anne:** Hi Jonas, danke dass Du Dir die Zeit für das Interview nimmst! Gratulation zu Eurem fantastischen Debüt-Album "Slow Wave Violence"! Gefällt es Dir?
+**Anne:** Hi Jonas, danke dass Du Dir die Zeit für das Interview nimmst! Gratulation zu Eurem fantastischen Debütalbum "Slow Wave Violence"! Gefällt es Dir?
 
 **Jonas:** Hi Anne, die Freude ist ganz meinerseits. Danke, dass Du das für uns machst. Ja, wir sind zufrieden mit dem Ergebnis unserer Arbeit. Es ist das erste Mal, das wir ein komplettes Studio-Album aufgenommen haben. Früher mit unseren anderen Bands haben wir nur Singles und Demos gemacht. Es war eine erfüllende Erfahrung, dieses Gesamtwerk zu erschaffen.
 
@@ -136,7 +136,7 @@ Ja, ich weiß, dass der große Unterschied auf höherer politischer Ebene gemach
 
 **Jonas:** Vielen Dank für dieses Interview, Anne, es hat Spaß gemacht, sich mit Dir zu unterhalten!
 
-[Hier findet Ihr meine Review zum Dimwind Debüt-Album "Slow Wave Violence"](/2021/05/dimwind-slow-wave-violence/).
+[Hier findet Ihr meine Review zum Dimwind Debütalbum "Slow Wave Violence"](/2021/05/dimwind-slow-wave-violence/).
 
 ## Dimwind – "Slow Wave Deceit"
 

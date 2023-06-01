@@ -139,13 +139,13 @@ Das Post-Hardcore Kollektiv aus Paris, Anna Sage, hat gestern ein neues Video en
 
 > "Es ist zweifelsohne eines der persönlichsten Stücke und es hat unser Album komplettiert. Für uns als Band ist es von großer Bedeutung. 'Lost In A Frame' handelt von Freundschaft. Ihren wechselnden Phasen und gemischten Gefühlen: Freude, Intensität und Fusion und dem Anfang und dem anschließenden, langsamen Abebben durch die Veränderung der Lebensgewohnheiten. Während eine⋆r sich entscheidet, nach vorne zu gehen, entschließt sich der⋆die andere, die Toxizität zu umarmen und alles, was am Ende übrig bleibt, ist die Erinnerung an diese Freundschaft, gefroren in einem Foto: lost in a frame."
 
-Zu ihren Einflüssen zählen Anna Sage Bands wie Converge, Botch und The Chariot and Breach. Wenn Euch die Musik dieser Projekte anspricht, könntet Ihr Euch bei AS ziemlich zu Hause fühlen. Auch, wenn das Debüt-Album der Pariser erst jetzt erschienen ist: Gegründet haben sich Anna Sage bereits 2012. Daher gibt es auch EPs wie "The Fourth Wall" von 2014 und "Downward Motion" von 2018. Den Kinderschuhen sind AS also definitiv längst entwachsen.
+Zu ihren Einflüssen zählen Anna Sage Bands wie Converge, Botch und The Chariot and Breach. Wenn Euch die Musik dieser Projekte anspricht, könntet Ihr Euch bei AS ziemlich zu Hause fühlen. Auch, wenn das Debütalbum der Pariser erst jetzt erschienen ist: Gegründet haben sich Anna Sage bereits 2012. Daher gibt es auch EPs wie "The Fourth Wall" von 2014 und "Downward Motion" von 2018. Den Kinderschuhen sind AS also definitiv längst entwachsen.
 
 <YouTube id="9oVaXHOAmIg" />
 
 ## Kill Trip – "As The Roots Wither And Die" von der EP "Sifting the Ashes"
 
-Die Sludge/Hardcore-Band aus dem dänischen Horsens hat ihr Debüt-Album "Bury the Sky" vor zwei Jahren in die Regale geräumt. Gestern meldete sich das Projekt offiziell mit neuer Musik zurück. "Sifting the Ashes EP 1" ist die erste von zwei EPs, die später zu einem Full-Length-Album verschmolzen werden sollen, das auf LP erscheinen wird. Vergleicht man die neuen Stücke mit denen vom Debüt-Album, kann man eine klare Entwicklung hören. Reine, offen kommunizierte Wut hat Frustration und Traurigkeit abgelöst und das steht Kill Trip gut zu Gesicht. Ein hartes Stück musikalischer Aktivismus mit einer großen Priese Rebellion: Die Band unterstützt den Kampf gegen die Klimakatastrophe und Gruppen wie Extinction Rebellion.
+Die Sludge/Hardcore-Band aus dem dänischen Horsens hat ihr Debütalbum "Bury the Sky" vor zwei Jahren in die Regale geräumt. Gestern meldete sich das Projekt offiziell mit neuer Musik zurück. "Sifting the Ashes EP 1" ist die erste von zwei EPs, die später zu einem Full-Length-Album verschmolzen werden sollen, das auf LP erscheinen wird. Vergleicht man die neuen Stücke mit denen vom Debütalbum, kann man eine klare Entwicklung hören. Reine, offen kommunizierte Wut hat Frustration und Traurigkeit abgelöst und das steht Kill Trip gut zu Gesicht. Ein hartes Stück musikalischer Aktivismus mit einer großen Priese Rebellion: Die Band unterstützt den Kampf gegen die Klimakatastrophe und Gruppen wie Extinction Rebellion.
 
 <YouTube id="X4SEvDpuNJY" />
 

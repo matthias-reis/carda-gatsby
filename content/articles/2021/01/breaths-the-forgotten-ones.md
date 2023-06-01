@@ -39,7 +39,7 @@ labels:
   - Tierrechte
   - vegan celebrities
 ---
-**Breaths ist ein Post-Rock-Projekt aus Richmond, Virginia. Gründer Jason stellte mir jetzt die neueste Auskopplung seines im März erscheinenden Debüt-Albums "Lined In Silver" vor. Im Song "The Forgotten Ones" geht es um die Beziehung zwischen Mensch und Tier. Jason und seine Familie leben seit vier Jahren vegan.**
+**Breaths ist ein Post-Rock-Projekt aus Richmond, Virginia. Gründer Jason stellte mir jetzt die neueste Auskopplung seines im März erscheinenden Debütalbums "Lined In Silver" vor. Im Song "The Forgotten Ones" geht es um die Beziehung zwischen Mensch und Tier. Jason und seine Familie leben seit vier Jahren vegan.**
 
 "Lined In Silver" ist eine Mischung aus Post-Metal, Doomgaze, Blackgaze und Post-Rock. Jason legt es Fans von Bands wie Deftones, The Ocean, Holy Fawn, Sleep Token und Montaineer ans Herz – bei mir hat er damit natürlich sofort einen Nerv getroffen.
 

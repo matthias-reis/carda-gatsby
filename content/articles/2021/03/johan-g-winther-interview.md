@@ -44,7 +44,7 @@ labels:
 
 **Am 26. März erscheint Johan G. Winthers Album "The Rupturing Sowle" auf Vinyl. Ich habe mich schon jetzt mit ihm zum Interview verabredet, um mit ihm über die Platte zu plaudern.**
 
-Gemeinsam mit seiner Band Scraps of Tape hat der Göteborger bereits sieben großartige Alben aufgenommen. Viele erinnern sich bestimmt auch noch an die Hardcore Gruppe Blessings. Mit dieser spielte er drei Langspieler ein. Im Debüt-Album von Barrens widmete er sich letzten März dem Post-Rock und landete damit in zahlreichen Best-of-Listen. Auch mit seinem Soloalbum überzeugt er mit gefühlvollen und vielfältigen Songs. Der Entstehungsprozess war ein ganz persönlicher.
+Gemeinsam mit seiner Band Scraps of Tape hat der Göteborger bereits sieben großartige Alben aufgenommen. Viele erinnern sich bestimmt auch noch an die Hardcore Gruppe Blessings. Mit dieser spielte er drei Langspieler ein. Im Debütalbum von Barrens widmete er sich letzten März dem Post-Rock und landete damit in zahlreichen Best-of-Listen. Auch mit seinem Soloalbum überzeugt er mit gefühlvollen und vielfältigen Songs. Der Entstehungsprozess war ein ganz persönlicher.
 
 **Anne:** Hi, Johan! Danke, dass Du Dir die Zeit nimmst! Wie geht es Dir? Ich bin mir sicher, Du freust Dich schon auf Deine Veröffentlichung von "The Rupturing Sowle"?
 
@@ -86,7 +86,7 @@ Ich möchte den Zuhörer⋆innen nicht zu viel erklären, da ich niemanden in ei
 
 **Anne:** Genießt Du die Zusammenarbeit mit Pelagic Records?
 
-**Johan:** Sehr! Pelagic Records ist ein Label, das von einer Gruppe unglaublich inspirierender Menschen betrieben wird. Sie sind alle superprofessionell und jedem Release, das sie betreuen zu 100 Prozent verschrieben. Sie geben sich wirklich die allergrößte Mühe, jede Platte auf die beste Art zu präsentieren. Ich habe zwei Platten, die dieses Jahr mit zwei verschiedenen Projekten bei Pelagic erscheinen. Letztes Jahr habe ich mit Barrens unser Debüt-Album "Penumbra" dort herausgebracht. Ich kann also voller Überzeugung sagen, dass ich die Zusammenarbeit genieße.
+**Johan:** Sehr! Pelagic Records ist ein Label, das von einer Gruppe unglaublich inspirierender Menschen betrieben wird. Sie sind alle superprofessionell und jedem Release, das sie betreuen zu 100 Prozent verschrieben. Sie geben sich wirklich die allergrößte Mühe, jede Platte auf die beste Art zu präsentieren. Ich habe zwei Platten, die dieses Jahr mit zwei verschiedenen Projekten bei Pelagic erscheinen. Letztes Jahr habe ich mit Barrens unser Debütalbum "Penumbra" dort herausgebracht. Ich kann also voller Überzeugung sagen, dass ich die Zusammenarbeit genieße.
 
 **Anne:** Du hast erzählt, dass Du gerne hässliche mit schönen Sounds mischst. Wie muss ich mir das vorstellen?
 

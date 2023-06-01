@@ -44,7 +44,7 @@ Mit "Fathom" verarbeiten SOONAGO die politischen Ereignisse der letzten Jahre. W
 
 > "Wir sind zwar eine Band ohne Gesang, aber nicht ohne Stimme gegen rechts."
 
-Nach dem Debüt-Album "Nephele" von 2017 ist "Fathom" der zweite Langspieler der ostwestfälischen Post-Rock Crew. Ihr eleganter Mix aus harten Riffs und verträumten Soundlandschaften spricht für sich. Mit ihren Stücken erzählen sie eine vielseitige und aufregende Geschichte, die sich Takt für Takt und Song für Song aufbaut, um am Ende eine schlüssige Einheit zu ergeben.
+Nach dem Debütalbum "Nephele" von 2017 ist "Fathom" der zweite Langspieler der ostwestfälischen Post-Rock Crew. Ihr eleganter Mix aus harten Riffs und verträumten Soundlandschaften spricht für sich. Mit ihren Stücken erzählen sie eine vielseitige und aufregende Geschichte, die sich Takt für Takt und Song für Song aufbaut, um am Ende eine schlüssige Einheit zu ergeben.
 
 Einigen von Euch ist vielleicht der Kapitän Platte Sampler "Lokalrunde" ein Begriff. Mit ihrem Song "Nephele" vom Album "Chronos" waren auch SOONAGO darauf vertreten – mit einer von keinem Geringeren als Magnus Lindberg ([Cult of Luna](/tag/cult-of-luna)) gemasterten Version des Stücks.
 

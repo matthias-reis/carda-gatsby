@@ -61,7 +61,7 @@ SaaR sind: Alexandre Le Mouroux (Gitarren), Boris Patchinsky (Bass), Julien Taub
 
 ## Maudits – "Angel Mort"
 
-Die zweite Platte, die ich Euch heute empfehle, stammt von Maudits. Das ebenfalls aus Paris stammende Klangkollektiv veröffentlichte "Angel Mort" direkt im Anschluss an das von der Kritik hochgelobte Debüt-Album "Maudis" am 5. November.
+Die zweite Platte, die ich Euch heute empfehle, stammt von Maudits. Das ebenfalls aus Paris stammende Klangkollektiv veröffentlichte "Angel Mort" direkt im Anschluss an das von der Kritik hochgelobte Debütalbum "Maudis" am 5. November.
 
 ![Maudits – "Angel Mort" Plattencover (Eine Bleistiftzeichnung von einer Hand, die im hohen Gras nach einer zerbrochenen Blume greift)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/maudits-jpeg-imagine-e8e8e8_979797_425_419/640.webp "Maudits – \"Angel Mort\"")
 

@@ -60,7 +60,7 @@ Kauan haben sich bereits 2005 gegründet. Seitdem ist die Band aus dem estnische
 
 ## Wander – "Unwind" (Vorauskopplung vom Album "Home")
 
-Das wunderbare neue Album "Beyond" von Wander erscheint schon bald auf Vinyl. Vorbestellungen werden ab sofort angenommen. Ich habe für Euch die traumhafte Vorauskopplung "Unwind" selektiert, die ganz bestimmt Lust auf mehr macht. Wenn Ihr noch mehr Beispiele hören wollt, bevor Ihr Euch die Platte komplett holt, empfehle ich Euch auch die Split LP mit Young Lovers von 2018 und das offizielle Debüt-Album "March" von 2019 mal in Augenschein zu nehmen. Die digitalen Versionen findet Ihr unter anderem bei Spotify.
+Das wunderbare neue Album "Beyond" von Wander erscheint schon bald auf Vinyl. Vorbestellungen werden ab sofort angenommen. Ich habe für Euch die traumhafte Vorauskopplung "Unwind" selektiert, die ganz bestimmt Lust auf mehr macht. Wenn Ihr noch mehr Beispiele hören wollt, bevor Ihr Euch die Platte komplett holt, empfehle ich Euch auch die Split LP mit Young Lovers von 2018 und das offizielle Debütalbum "March" von 2019 mal in Augenschein zu nehmen. Die digitalen Versionen findet Ihr unter anderem bei Spotify.
 
 <iframe
   style="border: 0; width: 100%; height: 120px;"

@@ -7,10 +7,10 @@ typeName: Interview
 title: Grégoire von Thot im Interview
 seoTitle: Grégoire von Thot im Interview – 10 Jahre "Obscured By The Wind"
 ogTitle: Grégoire von Thot im Interview – 10 Jahre "Obscured By The Wind"
-description: Thot haben zum 10jährigen Jubiläum ihres Debüt-Albums "Obscured By
+description: Thot haben zum 10jährigen Jubiläum ihres Debütalbums "Obscured By
   The Wind" einiges geplant. Zeit für ein Interview mit der Post-Rock-Band.
 excerpt: English & German – Thot sollten den meisten, die sich mit Post-Rock
-  beschäftigen, ein Begriff sein. Zum 10jährigen Jubiläum ihres Debüt-Albums
+  beschäftigen, ein Begriff sein. Zum 10jährigen Jubiläum ihres Debütalbums
   "Obscured By The Wind" hat die Band aus Belgien so einige Highlights für uns
   geplant. Zeit für ein Interview mit der Post-Rock-Band.
 fileName: 2021-04---gregoire-von-thot-im-interview.md
@@ -38,7 +38,7 @@ subTitle: 10 Jahre "Obscured By The Wind"
 languageLink: /2021/04/thot-interview-en
 ---
 
-**Thot sollten den meisten, die sich mit Post-Rock beschäftigen, ein Begriff sein. Zum zehnjährigen Jubiläum von Thots Debüt-Album "Obscured By The Wind" hat die Band aus Belgien so einige Highlights für uns geplant. Zeit für ein Interview.**
+**Thot sollten den meisten, die sich mit Post-Rock beschäftigen, ein Begriff sein. Zum zehnjährigen Jubiläum von Thots Debütalbum "Obscured By The Wind" hat die Band aus Belgien so einige Highlights für uns geplant. Zeit für ein Interview.**
 
 Wobei, ehrlich gesagt war das ja komplett umgekehrt. Ich glaube es zwar selbst noch nicht, aber eines Morgens bin ich tatsächlich aufgewacht und hatte eine Nachricht von Thot im Posteingang! Eines ist schon mal ziemlich klar: Wenn sich eine Band wie Thot bei Dir meldet und Dir schreibt, dass Dein Blog toll ist und ob ein Interview drin wäre, sagst Du zu. Ich meine, wie klasse ist das, oder? Natürlich habe ich Zeit für ein Interview. Ich habe die Fragen quasi schon fertig im Schrank liegen. Moment, lass sie mich kurz rausholen, dann kann es auch schon losgehen. Ich habe mich mit Gründer Grégoire unterhalten.
 

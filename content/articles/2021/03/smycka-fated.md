@@ -1,7 +1,7 @@
 ---
 ogTitle: Smyčka – eine neue Post-Rock Schönheit will gehört werden
 excerpt: Smyčka ist eine meiner schönsten Post-Rock Entdeckungen der letzten
-  Wochen. Das Debüt-Album "Fated" ist wirklich sehr vielversprechend. Wie sich
+  Wochen. Das Debütalbum "Fated" ist wirklich sehr vielversprechend. Wie sich
   erst jetzt herausstellte, ist es bereits im Februar erschienen.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_smycka-fb.png__l.jpg
 isAffiliate: false
@@ -22,7 +22,7 @@ title: Smyčka
 subTitle: Eine neue Post-Rock Schönheit
 seoTitle: Smyčka – eine neue Post-Rock Schönheit will gehört werden
 description: Smyčka ist eine meiner schönsten Post-Rock Entdeckungen der letzten
-  Wochen. Das Debüt-Album "Fated" ist wirklich sehr vielversprechend.
+  Wochen. Das Debütalbum "Fated" ist wirklich sehr vielversprechend.
 language: de
 type: Artikel
 labels:
@@ -57,7 +57,7 @@ Die Band berichtet:
 
 > "Die Tracks haben einen Bezug zur Kurzprosa von Franz Kafka. Die Hauptidee dahinter ist jedoch die Kollision mit den Umständen. Manchmal kann der Protagonist physisch besiegt werden: In 'Fated', 'Betrayed' und 'Torn' wird der Tod zum Ende. Manchmal ist er die Tragik in Person: 'Mut(at)ed' beschreibt eine Persönlichkeit, die durch Angst und Lüge zerstört wird."
 
-Mit ihrem grandiosen Debüt-Album schaffen es Smyčka, die Balance zwischen Härte und Verspieltheit, Traum und Wirklichkeit zu halten und etwas ganz Neues zu erschaffen: Eine Welt der Finsternis und des Lichts mit Tieren Einblicken in einen kafkaesken Albtraum.
+Mit ihrem grandiosen Debütalbum schaffen es Smyčka, die Balance zwischen Härte und Verspieltheit, Traum und Wirklichkeit zu halten und etwas ganz Neues zu erschaffen: Eine Welt der Finsternis und des Lichts mit Tieren Einblicken in einen kafkaesken Albtraum.
 
 ## Smyčka live @ Les || Holod fest
 

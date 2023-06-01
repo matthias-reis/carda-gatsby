@@ -17,9 +17,9 @@ title: Smyčka im Interview
 subTitle: '"Vieles im Leben ist von Natur aus kafkaesk"'
 seoTitle: Smŷcka im Interview – "Vieles auf der Welt ist von Natur aus kafkaesk"
 ogTitle: ""
-description: Ich habe mit Smyčka über das Debüt-Album "Fated", die Post-Music
+description: Ich habe mit Smyčka über das Debütalbum "Fated", die Post-Music
   Szene in Russland und die Verbindung der Band zu Franz Kafkas gesprochen.
-excerpt: Ich habe mit Smyčka über das Debüt-Album "Fated", die Post-Music Szene
+excerpt: Ich habe mit Smyčka über das Debütalbum "Fated", die Post-Music Szene
   in Russland und die Verbindung der Band zu Franz Kafka gesprochen. Das
   Interview ist sehr persönlich geworden. Ich freue mich, es heute mit Euch zu
   teilen.
@@ -31,7 +31,7 @@ affiliate: false
 languageLink: /2021/05/smycka-interview-en
 ---
 
-**Smyčka hatten Lust auf ein Interview. Weil mich die Geschichte der Band ziemlich fasziniert und ich das Debüt-Album "Fated" ziemlich klasse finde, habe ich mich sehr darüber gefreut.**
+**Smyčka hatten Lust auf ein Interview. Weil mich die Geschichte der Band ziemlich fasziniert und ich das Debütalbum "Fated" ziemlich klasse finde, habe ich mich sehr darüber gefreut.**
 
 Sängerin Julia, Drummer Anton und Gitarrist und Gründer der Band Vasily haben mir einiges über die Entstehung ihrer gerade veröffentlichten Platte, die Post-Music Szene in Russland und ihre Schwäche für Franz Kafkas Geschichten erzählt.
 

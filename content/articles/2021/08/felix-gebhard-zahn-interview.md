@@ -47,7 +47,7 @@ Die Musik von **Zahn** ist geprägt von Einflüssen aus Sludge und Post-Rock mit
 
 ## Zahn liefern ein grandioses Debüt
 
-Das großartige gleichnamige Debüt-Album ist am 20. August erschienen. Ich hatte auch schon im Vorfeld die Ehre, es hören zu dürfen und tue es nach wie vor ausgiebig. Denn: Es ist ziemlich genial. Soviel kann ich Euch schon mal verraten. Im Anschluss an das Interview findet Ihr unten eine Hörprobe.
+Das großartige gleichnamige Debütalbum ist am 20. August erschienen. Ich hatte auch schon im Vorfeld die Ehre, es hören zu dürfen und tue es nach wie vor ausgiebig. Denn: Es ist ziemlich genial. Soviel kann ich Euch schon mal verraten. Im Anschluss an das Interview findet Ihr unten eine Hörprobe.
 
 !["Zahn" – das Debütalbum von Zahn](https://storage.googleapis.com/cardamonchai-media/2021-11-20/zahn-2-jpg-imagine-c86868_b67879_1080_1080/640.webp "\\"Zahn\\" – das Debütalbum von Zahn")
 

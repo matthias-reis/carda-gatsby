@@ -49,7 +49,7 @@ Das Projekt fasst für Max all seine Interessen unter einem Namen zusammen. Mit 
 
 !\[Underking\](https://storage.googleapis.com/cardamonchai-media/2021-11-20/underking-1-jpeg-imagine-c8d8e8_787c7b_1024_768/640.webp 'Underking' "Underking")
 
-Nach seinem Anfang 2020 veröffentlichten Debüt-Album im Doppel-LP Format "Amongst The Dead" und "Ghosts Of The Past" veröffentlichte Max aka Underking eine Single-Trilogie, die für ihn persönlich von besonderer Bedeutung ist: Jede von ihnen spiegelt ein bestimmtes musikalisches Interesse von ihm wider – von der Hard-Rock-Ballade über energetischen Thrash Metal bis hin zu New Wave of British Heavy Metal (NWOBHM).
+Nach seinem Anfang 2020 veröffentlichten Debütalbum im Doppel-LP Format "Amongst The Dead" und "Ghosts Of The Past" veröffentlichte Max aka Underking eine Single-Trilogie, die für ihn persönlich von besonderer Bedeutung ist: Jede von ihnen spiegelt ein bestimmtes musikalisches Interesse von ihm wider – von der Hard-Rock-Ballade über energetischen Thrash Metal bis hin zu New Wave of British Heavy Metal (NWOBHM).
 
 ## Wir sollten Underking Gehör schenken
 

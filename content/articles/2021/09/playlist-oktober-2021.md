@@ -65,7 +65,7 @@ Wenn Ihr Cult Of Luna mögt und TRNA noch nicht gehört habt, solltet Ihr das dr
 
 ## Areis "The Wanderer" vom Album "Areis"
 
-Valentin hat vor Kurzem eine für uns alle drei komplett neue Band aufgetan. Das Besondere: Die haben sich einfach ganz dreist nach mir benannt. Gibt es nicht, oder? Das kann doch kein Zufall sein. Die Band stammt aus Frankreich und hat im März ihr Debüt-Album vorgestellt. Beim Recherchieren habe ich gelernt, dass Areis nicht nur der Anfangsbuchstabe meines Vornamens plus meinem Nachnamen ist. Das Wort bedeutet auf okzitanisch (das ist eine antike Sprache) so viel wie "sich erheben". Ob es daran liegt, dass ich nicht stillsitzen kann oder an der großartigen Musik der Metal-Gruppe, kann ich nicht sagen. Vielleicht findet Ihr es ja heraus, wenn Ihr Euch mal reinhört. Viel Spaß damit!
+Valentin hat vor Kurzem eine für uns alle drei komplett neue Band aufgetan. Das Besondere: Die haben sich einfach ganz dreist nach mir benannt. Gibt es nicht, oder? Das kann doch kein Zufall sein. Die Band stammt aus Frankreich und hat im März ihr Debütalbum vorgestellt. Beim Recherchieren habe ich gelernt, dass Areis nicht nur der Anfangsbuchstabe meines Vornamens plus meinem Nachnamen ist. Das Wort bedeutet auf okzitanisch (das ist eine antike Sprache) so viel wie "sich erheben". Ob es daran liegt, dass ich nicht stillsitzen kann oder an der großartigen Musik der Metal-Gruppe, kann ich nicht sagen. Vielleicht findet Ihr es ja heraus, wenn Ihr Euch mal reinhört. Viel Spaß damit!
 
 <YouTube id="asb76Ma-poU" />
 
