@@ -64,9 +64,9 @@ Spurv aus Oslo haben Ihr Album "Brefjære" für den 22. September angekündigt �
 
 ## Zakè & Tyresta – "Drift" vom Album "Drift"
 
-Wenn Ihr meinen Blog schon länger lest, ist Soundkünstler Zakè für Euch kein Unbekannter mehr. Jetzt hat er gemeinsam mit Tyresta eine neue Platte aufgenommen, die in Europa auf DUNK!records erscheint (USA: Zakè Drone Recordings).
+Wenn Ihr meinen Blog schon länger lest, ist Soundkünstler [Zakè](/tag/zake) für Euch kein Unbekannter mehr. Jetzt hat er gemeinsam mit [Tyresta](/tag/tyresta) eine neue Platte aufgenommen, die in Europa auf DUNK!records erscheint (USA: Zakè Drone Recordings).
 
-"Drift" ist eine Sammlung von Arrangements, die für die beiden Künstler längst überfällig war. Mit ihren Klanglandschaften zeichnen [Zakè](/tag/zake) und [Tyresta](/tag/tyresta) ein entspanntes, zeitloses Bild, das gleichzeitig fesselt und loslöst. Ihre Melodien leben von ihrer zarten Subtilität, wer genauer hinhört, erkennt zahlreiche perfekt durchdachte Schichten, die gemeinsam das Große Ganze ergeben. Das Duo setzte bei den gemeinsamen Kompositionen auf einen introspektiven und minimalistischen Ansatz. Damit ist es ihnen gelungen, ein gefühlvolles Album zu erschaffen, das man in jeder Situation holt – in der einen holt es einen runter und in der anderen beschwingt es einen – Drone Sound Design at its best!
+"Drift" ist eine Sammlung von Arrangements, die für die beiden Künstler längst überfällig war. Mit ihren Klanglandschaften zeichnen Zakè und Tyresta ein entspanntes, zeitloses Bild, das irgendwie gleichzeitig fesselt und loslöst. Ihre Melodien leben von ihrer zarten Subtilität. Wer genauer hinhört, erkennt zahlreiche perfekt durchdachte Schichten, die gemeinsam das große Ganze ergeben. Das Duo setzte bei den gemeinsamen Kompositionen auf einen introspektiven und minimalistischen Ansatz. Damit ist es ihnen gelungen, ein gefühlvolles Album zu erschaffen, das man in jeder Situation hören kann – in der einen holt es einen runter und in der anderen beschwingt es einen – Drone Sound Design at its best!
 
 ![Zakè & Tyresta | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/zake-jpg-imagine-080808_716a58_1024_768/640.webp "Zakè & Tyresta")
 
