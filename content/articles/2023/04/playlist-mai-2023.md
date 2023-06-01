@@ -183,4 +183,4 @@ Den Abschluss macht diesen Monat ein Juwel aus Matzes Sammlung:
 
 ## Die Mai-Playlist auf YouTube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oULArQ9tV-4RLteH8nfc-0QX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oULArQ9tV-4RLteH8nfc-0QX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

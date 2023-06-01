@@ -136,4 +136,4 @@ Und weiter geht es mit Valentins Songs. Auch hier trifft ausgezeichneter Geschma
 
 ## Die April-Playlist auf YouTube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oULs7fzo8TtLgwUfNLAH2Qlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oULs7fzo8TtLgwUfNLAH2Qlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
