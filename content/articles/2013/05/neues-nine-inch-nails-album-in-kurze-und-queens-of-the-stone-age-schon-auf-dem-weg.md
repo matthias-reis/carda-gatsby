@@ -33,10 +33,10 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Queens Of The Stone Age schon auf dem Weg!
+subTitle: Queens of the Stone Age schon auf dem Weg!
 ---
 
-**Was für ein Tag! Es wird noch in diesem Jahr ein neues NINE INCH NAILS Album geben, die neue QUEENS OF THE STONE AGE Platte ist auf dem Weg zu mir und auch sonst ist alles schön, wenn man vom Wetter mal absieht...**
+**Was für ein Tag! Es wird noch in diesem Jahr ein neues NINE INCH NAILS Album geben, die neue Queens of the Stone Age Platte ist auf dem Weg zu mir und auch sonst ist alles schön, wenn man vom Wetter mal absieht...**
 
 ...aber das wurde heute von mir hochoffiziell zur Nebensache erklärt. Denn heute ist der Tag der guten Nachrichten. Die Vorfreude steigt langsam aber sicher ins Unermessliche.
 

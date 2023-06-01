@@ -22,7 +22,7 @@ labels:
   - OK Computer
   - Playlist
   - Pulp
-  - Queens Of The Stone Age
+  - Queens of the Stone Age
   - Radiohead
   - Refused
   - Schallplatten
@@ -97,7 +97,7 @@ In Teil 1 habe ich Euch [meine ultimative Lieblingsplattenliste](/2018/03/meine-
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAQUCBAADBv/EACIQAAIBAwMFAQAAAAAAAAAAAAECAwAEEQUhMRITIkFhUf/EABgBAQADAQAAAAAAAAAAAAAAAAIAAQYH/8QAHREAAgMBAQADAAAAAAAAAAAAAQIAAxESIWGhsf/aAAwDAQACEQMRAD8A5sE45NEE5GMk0ANqXXam61OOzZnSBYjM/QxUyeWAuR691llHRnU7X4Hg9Malip5I+VEk/tJoom03W7a2hllktLuORu3I5ftMuDkE7hTxinB9VbLznzBVb3ujCDh+j+ETAOaqahbd8RtG0qTxnwkiIDLnnnYj5VwUR9ogkHRG6B15MXabYmCWSe4eee6cBTLMwJ6fxQNgKvkVsONqgdqhYsdMFda1rys//9k="
 />
 
-5\.) Queens Of The Stone Age – "Songs For The Deaf"
+5\.) Queens of the Stone Age – "Songs For The Deaf"
 
 <RemoteImage
   alt={`10 Alben`}

@@ -17,7 +17,7 @@ labels:
   - Geschichten & Erlebtes
   - Josh Homme
   - PJ Harvey
-  - Queens Of The Stone Age
+  - Queens of the Stone Age
   - Wochenende
 focusKeyword: ''
 status: publish

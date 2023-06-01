@@ -97,7 +97,7 @@ Auch das zweite Stück für den Januar ist ein großartiges Highlight. Matze hat
 
 Wenn Ihr denkt, dass nach diesen zwei Krachern eigentlich kaum noch was kommen kann, habt Ihr Euch getäuscht. Kennt Ihr schon die Pink Duck Sessions von This White Light und Josh Homme? Noch nicht? Dann solltet Ihr jetzt die Boxen aufdrehen.
 
-Den siebenminütigen Track "Winter Flowers" hat Queens Of The Stone Age und Eagles Of Metal Gründer und Musikproduzent Josh Homme, genau wie den zweiten (übrigens musikalisch ebenso überzeugenden) Song "Vows" gemeinsam mit This White Light eingespielt. Deren großartige Sängerin Jen Wood hat dem gemeinsamen Projekt auch ihre unverwechselbare Stimme geliehen. Und was meint Ihr? Geht ins Ohr, oder?
+Den siebenminütigen Track "Winter Flowers" hat Queens of the Stone Age und Eagles Of Metal Gründer und Musikproduzent Josh Homme, genau wie den zweiten (übrigens musikalisch ebenso überzeugenden) Song "Vows" gemeinsam mit This White Light eingespielt. Deren großartige Sängerin Jen Wood hat dem gemeinsamen Projekt auch ihre unverwechselbare Stimme geliehen. Und was meint Ihr? Geht ins Ohr, oder?
 
 <YouTube id="OihkYQi0Et8" />
 

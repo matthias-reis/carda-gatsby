@@ -266,7 +266,7 @@ Noch so ein Phänomen: Die Spin Doctors nahmen insgesamt nur drei Studioalben au
 
 #### Kyuss - "Sky Valley"
 
-Kyuss (Gründung 1988, Auflösung 1995) sind die Begründer des Stoner Rock. Ihr charakteristischer Sound entstand dadurch, dass die Band ihre Gitarren an Bassverstärker anschloss. Zunächst unter dem Namen "Katzenjammer" bekannt, benannte sich Kyuss mit der ersten Demo-Aufnahme nach einem Hexer aus dem Pen &amp; Paper Spiel Dungeons &amp; Dragons. Durch die von Josh Homme (der auch zu den Gründungsmitgliedern zählt) und seinen Freunden in der Palm Desert Wüste veranstalteten Generator Parties sprach sich ihr Können schnell herum. Nach der Auflösung gründeten Teile von Kyuss gemeinsam Queens Of The Stone Age.
+Kyuss (Gründung 1988, Auflösung 1995) sind die Begründer des Stoner Rock. Ihr charakteristischer Sound entstand dadurch, dass die Band ihre Gitarren an Bassverstärker anschloss. Zunächst unter dem Namen "Katzenjammer" bekannt, benannte sich Kyuss mit der ersten Demo-Aufnahme nach einem Hexer aus dem Pen &amp; Paper Spiel Dungeons &amp; Dragons. Durch die von Josh Homme (der auch zu den Gründungsmitgliedern zählt) und seinen Freunden in der Palm Desert Wüste veranstalteten Generator Parties sprach sich ihr Können schnell herum. Nach der Auflösung gründeten Teile von Kyuss gemeinsam Queens of the Stone Age.
 
 <YouTube id="_o8Qqfu1pwQ" />
 

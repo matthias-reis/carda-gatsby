@@ -55,7 +55,7 @@ labels:
   - Primus
   - Pulled Apart By Horses
   - QOTSA
-  - Queens Of The Stone Age
+  - Queens of the Stone Age
   - Rock
   - Rock 'n' Roll
   - Soen
@@ -148,7 +148,7 @@ Auf einen Kracher folgt der nächste! Was habe ich für tolle Stunden erlebt zur
 
 <YouTube id="pzFMoM9tWOI" />
 
-### 11. Queens Of The Stone Age - "Domesticated Animals" vom Album Villains
+### 11. Queens of the Stone Age - "Domesticated Animals" vom Album Villains
 
 Es sagt einfach alles aus und kommt mit einer ungezügelten Kraft um die Ecke, die man nicht weiter zu umschreiben braucht. Hören. Hier eine nette Akustikversion:
 

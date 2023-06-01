@@ -25,7 +25,7 @@ labels:
   - Experimental
   - Post-Rock
   - Post-Metal
-  - Queens Of The Stone Age
+  - Queens of the Stone Age
   - The Ocean
   - Pelagic
   - Egor Lappo

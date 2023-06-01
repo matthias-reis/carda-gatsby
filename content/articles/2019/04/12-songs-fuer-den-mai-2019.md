@@ -58,7 +58,7 @@ labels:
   - Post-Rock
   - Postrock
   - QOTSA
-  - Queens Of The Stone Age
+  - Queens of the Stone Age
   - Raconteurs
   - Ranges
   - Rock
@@ -123,7 +123,7 @@ Was ist denn bitte los im Moment? Noch eine Wahnsinnsband, die ein Album in den 
 
 <YouTube id="k3n8RBaUMpc" />
 
-### Queens Of The Stone Age "Hideaway" vom Album "Villains" (2017)
+### Queens of the Stone Age "Hideaway" vom Album "Villains" (2017)
 
 Valentin findet zu diesem Stück die folgenden Worte "Da ich mir die aktuelle **QOTSA** erst jetzt gekauft habe, ist sie für mich praktisch auch neu. Dieses Stück gefällt mir besonders gut!"
 

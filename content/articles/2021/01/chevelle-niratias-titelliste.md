@@ -62,7 +62,7 @@ Den Titelsong "Self Destructor" kennt Ihr ja bereits aus der [Musikliste für de
 1.  Ghost and Razor
 1.  Lost in Digital Woods
 
-Chevelle kündigen "Niratias" als ihre bisher härteste und provokativste Platte bisher an. Gemeinsam mit Producer Joe Barresi (Tool, Queens Of The Stone Age) haben sie 2019 und 2020 an den insgesamt 13 neuen Songs gearbeitet. Bei "Niratias" soll es sich um ein unnachahmliches Werk handeln – sein Konzept wird sich uns bald offenbaren.
+Chevelle kündigen "Niratias" als ihre bisher härteste und provokativste Platte bisher an. Gemeinsam mit Producer Joe Barresi (Tool, Queens of the Stone Age) haben sie 2019 und 2020 an den insgesamt 13 neuen Songs gearbeitet. Bei "Niratias" soll es sich um ein unnachahmliches Werk handeln – sein Konzept wird sich uns bald offenbaren.
 
 ## Große Kunst auch auf dem Plattencover
 

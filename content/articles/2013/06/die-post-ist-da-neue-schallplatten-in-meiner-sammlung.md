@@ -35,8 +35,8 @@ labels:
   - Platten
   - QOSTA Like Clockwork
   - QOTSA
-  - Queens Of The Stone Age
-  - Queens Of The Stone Age Like Clockwork
+  - Queens of the Stone Age
+  - Queens of the Stone Age Like Clockwork
   - Records
   - Schallplatten
   - The Late Call
