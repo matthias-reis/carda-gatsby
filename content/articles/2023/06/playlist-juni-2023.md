@@ -50,7 +50,7 @@ Zusammengestellt habe ich die Playlist dieses Mal mit Matze, die Texte in  den A
 
 ## The Ocean – "Unconformities" vom Album "Holocene"
 
-> "Letzten Monat hatten wir schon die Vorauskopplung von Holocene in der Liste. Jetzt ist das Album endlich erschienen. Und 'leider' muss ich nochmal nachlegen, einfach weil der Song so genial ist. Es wäre ja einen Schande, meinen persönlichen Hit des Jahres nicht hier zu teilen. Die Kooperation mit Karin Park (Årabrot) ist einklassischer Rotwein Song: Er braucht etwas Zeit zum atmen und entfaltet sich zum Ende hin explosionsartig. Also hört ihn Euch unbedingt mit etwas Geduld an."
+> "Letzten Monat hatten wir schon die Vorauskopplung von Holocene in der [Liste](/2023/04/playlist-mai-2023/). Jetzt ist das Album endlich erschienen. Und 'leider' muss ich nochmal nachlegen, einfach weil der Song so genial ist. Es wäre ja einen Schande, meinen persönlichen Hit des Jahres nicht hier zu teilen. Die Kooperation mit Karin Park (Årabrot) ist einklassischer Rotwein Song: Er braucht etwas Zeit zum atmen und entfaltet sich zum Ende hin explosionsartig. Also hört ihn Euch unbedingt mit etwas Geduld an."
 
 <YouTube id="ek0UDtV2KO8" />
 
@@ -66,7 +66,7 @@ Spurv aus Oslo haben Ihr Album "Brefjære" für den 22. September angekündigt �
 
 Wenn Ihr meinen Blog schon länger lest, ist Soundkünstler Zakè für Euch kein Unbekannter mehr. Jetzt hat er gemeinsam mit Tyresta eine neue Platte aufgenommen, die in Europa auf DUNK!records erscheint (USA: Zakè Drone Recordings).
 
-"Drift" ist eine Sammlung von Arrangements, die für die beiden Künstler längst überfällig war. Mit ihren Klanglandschaften zeichnen Zakè und Tyresta ein entspanntes, zeitloses Bild, das gleichzeitig fesselt und loslöst. Ihre Melodien leben von ihrer zarten Subtilität, wer genauer hinhört, erkennt zahlreiche perfekt durchdachte Schichten, die gemeinsam das Große Ganze ergeben. Das Duo setzte bei den gemeinsamen Kompositionen auf einen introspektiven und minimalistischen Ansatz. Damit ist es ihnen gelungen, ein gefühlvolles Album zu erschaffen, das man in jeder Situation holt – in der einen holt es einen runter und in der anderen beschwingt es einen – Drone Sound Design at its best!
+"Drift" ist eine Sammlung von Arrangements, die für die beiden Künstler längst überfällig war. Mit ihren Klanglandschaften zeichnen [Zakè](/tag/zake) und [Tyresta](/tag/tyresta) ein entspanntes, zeitloses Bild, das gleichzeitig fesselt und loslöst. Ihre Melodien leben von ihrer zarten Subtilität, wer genauer hinhört, erkennt zahlreiche perfekt durchdachte Schichten, die gemeinsam das Große Ganze ergeben. Das Duo setzte bei den gemeinsamen Kompositionen auf einen introspektiven und minimalistischen Ansatz. Damit ist es ihnen gelungen, ein gefühlvolles Album zu erschaffen, das man in jeder Situation holt – in der einen holt es einen runter und in der anderen beschwingt es einen – Drone Sound Design at its best!
 
 ![Zakè & Tyresta | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/zake-jpg-imagine-080808_716a58_1024_768/640.webp "Zakè & Tyresta")
 
@@ -108,7 +108,7 @@ Tanner Thornton (Gitarre), Zephaniah Stake (Drums) und Antonio Guzman (Bass) bra
 
 ## Egor Lappo _ "Neverending Storm" vom Album "Abandonend Corners"
 
-Egor Lappo habe ich Euch hier im Blog schon im Interview vorgestellt. Jetzt hat er ein neues Album am Start, das Ihr ab sofort kaufen könnt. Damit Ihr ein Gefühl dafür bekommt, teile ich an dieser Stelle Track eins mit dem Titel "Neverending Storm" mit Euch. Wie ein nicht enden wollender Sturm, aus dem er nicht ausbrechen kann – so fühlt sich für den Musiker manchmal auch das Leben an. Hoffnung und Licht hört man an jeder Stelle seiner Stücke, die jedem⋆r Gänsehaut verursachen, der⋆die seinen Hintergrund kennt. Egor verspricht hier besonders Fans von Steven Wilson, Marillion, Manic Street Preachers und Peter Gabriel Hörgenuss. Im Gespräch hat er mir folgende Datails über seine neue Platte verraten:
+[Egor Lappo](/tag/egor-lappo) habe ich hier im Blog schon ein paar Mal gefeaturt. Jetzt hat er ein neues Album am Start, das Ihr ab sofort kaufen könnt. Damit Ihr ein Gefühl dafür bekommt, teile ich an dieser Stelle Track eins mit dem Titel "Neverending Storm" mit Euch. Wie ein nicht enden wollender Sturm, aus dem er nicht ausbrechen kann – so fühlt sich für den Musiker manchmal auch das Leben an. Hoffnung und Licht hört man an jeder Stelle seiner Stücke, die jedem⋆r Gänsehaut verursachen, der⋆die seinen Hintergrund kennt. Egor verspricht hier besonders Fans von Steven Wilson, Marillion, Manic Street Preachers und Peter Gabriel Hörgenuss. Im Gespräch hat er mir folgende Datails über seine neue Platte verraten:
 
 > "Mit Abandoned Corners erforsche ich verschiedene persönliche Motive, was zu einem klanglich insgesamt sehr vielfältigen Album geführt hat. Ich habe mich von Pop-Rock und Synthie-Pop beeinflussen lassen und meinem geliebten, energiegeladenen Progressive Metal natürlich dennoch nicht abgeschworen."
 
