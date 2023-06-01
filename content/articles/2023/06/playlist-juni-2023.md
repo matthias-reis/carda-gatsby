@@ -58,7 +58,7 @@ Zusammengestellt habe ich die Playlist dieses Mal mit Matze, die Texte in  den A
 
 Spurv aus Oslo haben Ihr Album "Brefjære" für den 22. September angekündigt – auf dem The Ocean Label Pelagic. Ich durfte es schon hören und träume seitdem von den Songs. Was soll ich sagen? Freut Euch darauf, es ist sensationell! Den ersten Song "Å vente er å endre" gibt es schon auf den Streaming-Plattformen, ich kann ihn also an dieser Stelle als Vorgeschmack mit Euch teilen. Verträumter Gesang trifft hier auf gewaltige Soundfelsen – macht Euch auf was gefasst und haltet nach Shows Ausschau. Die Band ist live ein besonderer Genuss!
 
-![Spurv | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/spurv-2-jpg-imagine-e8e8e8_919191_800_533/640.webp "Spurv")
+![Spurv | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/spurv-jpg-imagine-e8e8e8_949494_1024_768/640.webp "Spurv")
 
 <YouTube id="8wYt-TWk4Sc" />
 
