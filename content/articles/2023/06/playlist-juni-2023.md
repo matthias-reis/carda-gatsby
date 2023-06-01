@@ -46,7 +46,7 @@ language: de
 ---
 **Im Mai war einiges los, eine Musikliste gibt es trotzdem. Wenn auch etwas später als sonst, kommt sie dennoch von Herzen und ist randvoll mit großartiger Musik. Ich wünsche Euch viel Spaß beim Hören. Genießt Euren Juni!**
 
-Zusammengestellt habe ich sie dieses Mal mit Matze, die Texte in  den Anführungszeichen sind von ihm. Wie immer findet Ihr ganz unten die fertigen Playlists für Eure Musik-Streamingdienste.
+Zusammengestellt habe ich die Playlist dieses Mal mit Matze, die Texte in  den Anführungszeichen sind von ihm (bis auf die Band-Zitate natürlich). Wie immer findet Ihr ganz unten die fertigen Playlists für Eure Musik-Streamingdienste.
 
 ## The Ocean – "Unconformities" vom Album "Holocene"
 
