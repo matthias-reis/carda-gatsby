@@ -45,7 +45,7 @@ Zu "The Game Changers 2" äußerte sich das Duo mit den Worten 
 
 > "Es gibt noch viel mehr, das ausgepackt werden muss. Wir freuen uns sehr darauf, jetzt Teil dieses Teams zu sein."
 
-## Enthüllungsjournalismus und Top-Athlet⋆innen
+## Ent&shy;hül&shy;lungs&shy;jour&shy;na&shy;lis&shy;mus und Top-Athlet⋆innen
 
 Genau wie im ersten Film sind Produzent Joseph Pace und der ehemalige professionelle Mixed Martial Artist und Selbstverteidigungslehrer James Wilkes, der in Teil 1 eine Schlüsselrolle spielte, auch in Teil 2 wieder mit dabei. Er äußerte sich wie folgt zur neuen Doku:
 
