@@ -6,7 +6,7 @@ title: '"The Game Changers 2" kommt!'
 subTitle: Basketball-Legende LeBron James ermöglicht Sequel
 seoTitle: '"The Game Changers 2" ist angekündigt – Filmtipp'
 ogTitle: ""
-description: '"The Game Changers 2" ist angekündigt! Es ist endlich offiziell!
+description: '"The Game Changers 2" kommt! Es ist endlich offiziell!
   Erfahrt jetzt, Basketball-Legende LeBron James das Sequel möglich macht!'
 excerpt: '"The Game Changers 2" wird kommen. Auch, wenn noch nicht klar ist, wie
   das Sequel heißen wird, ist es endlich offiziell, dass die bahnbrechende
