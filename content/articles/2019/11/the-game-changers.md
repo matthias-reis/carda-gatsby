@@ -45,12 +45,12 @@ isWerbung: false
 isAffiliate: false
 language: de
 errors: {}
-subTitle: Vegane Athleten und Bodybuilder
+subTitle: Ein Film über vegane Atleth⋆innen
 ---
 
 **Am 16. September erschien eine ganz besondere Dokumentation. "The Game Changers" sollte meiner Meinung nach jede\*r mal gesehen haben.**
 
-Regisseur Louie Psihoyos zeigt in seinem Film vor allem Athleten, die früher im Training auf eine besonders fleischreiche Ernährung setzten. Sie alle haben eines gemeinsam: ihre Umstellung auf eine vegane Lebensweise führte sie zu Höchstleistungen.
+Regisseur Louie Psihoyos zeigt in seinem Film vor allem Athlet\*innen, die früher im Training auf eine besonders fleischreiche Ernährung setzten. Sie alle haben eines gemeinsam: ihre Umstellung auf eine vegane Lebensweise führte sie zu Höchstleistungen.
 
 ## "The Game Changers" zeigt, wie es wirklich ist
 
