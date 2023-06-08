@@ -7,12 +7,7 @@ subTitle: '"Das Vergessen von Zeit und Raum zugunsten von Tiefe und Intuition"'
 seoTitle: 'JeGong: Interview "The Complex Inbetween"'
 description: JeGong haben ihr neues Album fertig. Lest jetzt mein Interview und
   erfahrt alles über "The Complex Inbetween" und ihre Liebe zur Musik!
-excerpt: Dahm Majuri Cipolla, Schlagzeuger bei Mono (Japan) und Watter gründete
-  gemeinsam mit Reto Mäder von Sum Of R und Ural Umbo JeGong. Schon ihr
-  Debütalbum "I" sorgte über das The Ocean Label Pelagic Records für ordentlich
-  Wirbel. Am 9. Juni erscheint ihr neues unter dem Namen "The Complex Inbetween".
-  Ich hatte vorab die Chance für ein Interview und habe mich mit den beiden über
-  ihre Musik und "The Complex Inbetween" unterhalten.
+excerpt: Dahm Majuri Cipolla, Schlagzeuger bei Mono (Japan) und Watter gründete gemeinsam mit Reto Mäder von Sum Of R und Ural Umbo JeGong. Schon ihr Debütalbum "I" sorgte für ordentlich Wirbel. Am 9. Juni erscheint ihr neues unter dem Namen "The Complex Inbetween". Ich hatte vorab die Chance für ein Interview und habe mich mit den beiden über ihre Musik unterhalten.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-08/jegong-bw-pelagic-jpg-imagine-080808_1f1f1f_1024_768/640.webp
 copyrigt: JeGong
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-08/jegong-og-jpg-imagine-080808_2d3430_1200_628/640.webp
@@ -43,7 +38,7 @@ languageLink: /2023/06/jegong-interview-en/
 ---
 **Dahm Majuri Cipolla, Schlagzeuger bei Mono (Japan) und Watter gründete gemeinsam mit Reto Mäder von Sum Of R und Ural Umbo JeGong. Schon ihr Debütalbum "I" sorgte über das The Ocean Label Pelagic Records für ordentlich Wirbel.** 
 
-Am 9. Juni erscheint ihr neues Werk unter dem Namen "The Complex Inbetween". Die ersten Vorauskopplungen sind schon da – eine davon habe ich Euch hier im Blog in der Mai-Ausgabe der Musikliste vorgestellt. Jetzt hatte ich die Chance für ein Interview und habe mich mit den beiden über ihre Musik und "The Complex Inbetween" unterhalten.
+Am 9. Juni erscheint ihr neues Werk unter dem Namen "The Complex Inbetween". Die ersten Vorauskopplungen sind schon da – eine davon habe ich Euch hier im Blog in der [Mai-Ausgabe der Musikliste](/2023/06/playlist-juni-2023/) vorgestellt. Jetzt hatte ich die Chance für ein Interview und habe mich mit den beiden über ihre Musik und "The Complex Inbetween" unterhalten.
 
 **Anne:** Danke, dass Ihr Euch die Zeit für das Interview nehmt! Ich freue mich sehr, Euch persönlich kennenzulernen! Wie geht es Euch? Womit beschäftigt Ihr Euch im Moment?
 
