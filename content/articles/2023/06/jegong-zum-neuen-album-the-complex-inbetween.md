@@ -76,7 +76,7 @@ Am 9. Juni erscheint ihr neues Werk unter dem Namen "The Complex Inbetween". Die
 
 **Anne:** Für Euer letztes Album habt Ihr in New York mit Martin Bisi gearbeitet, der unter anderem auch schon **Sonic Youth** und **Swans** in seinem Studio hatte. Habt Ihr "The Complex Inbetween" auch wieder mit ihm gemacht?
 
-**Dahm:** Nein, aber Martin ist ein sehr enger Freund von mir un ich habe über die Jahre mit verschiedenen Projekten für insgesamt 12 Platten mit ihm zusammengearbeitet. Er ist ein sehr essenzieller Teil meiner New-York-City-Lebenserfahrungen.
+**Dahm:** Nein, aber Martin ist ein sehr enger Freund von mir und ich habe über die Jahre mit verschiedenen Projekten für insgesamt 12 Platten mit ihm zusammengearbeitet. Er ist ein sehr essenzieller Teil meiner New-York-City-Lebenserfahrungen.
 
 **Reto:** In meiner Plattensammlung hat es einige Alben (inklusive Sonic Youth und Swans), die von Martin Bisi im BC Studio aufgenommen wurden. Und diese Alben stechen bezüglich ihrer Soundästhetik heraus. Ich mag den hohen Anteil an Raumaufnahmen in den Mixes. 
 
