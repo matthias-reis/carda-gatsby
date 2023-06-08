@@ -3,7 +3,7 @@ date: 2023-06-08T15:37:32.494Z
 slug: jegong-interview-en
 typeName: Interview
 title: JeGong on their new Album "The Complex Inbetween"
-subTitle: '"The Forgetting of Time and Space in favor of Depth and Intuition"'
+subTitle: '"The Forgetting of Time and Space in Favor of Depth and Intuition"'
 seoTitle: Jegong – Interview – "The Complex Inbetween"
 description: JeGong have their new album ready! I had the chance to talk to them
   in person. Please enjoy my interview with them about "The Complex Inbetween"
