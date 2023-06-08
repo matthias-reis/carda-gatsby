@@ -100,7 +100,7 @@ For the recordings of "The Complex Inbetween", we chose different studio situati
 
 **Dahm:** Sometimes you can be so exhausted that it's difficult to fall asleep…
 
-**Reto:** ...and then you wake up and realize that you have been asleep. And yes, our aim was to create a dream or nightmare scenario in the style of horror film soundtracks or film noir plots. We are both big fans of soundtracks.  
+**Reto:** ...and then you wake up and realize that you've actually been sleeping. And yes, our aim was to create a dream or nightmare scenario in the style of horror film soundtracks or film noir plots. We are both big fans of soundtracks.  
 
 **Anne:** Dahm, when someone asks me about the best drummers, I name you (and [Paul Seidel](/2022/11/paul-seidel-fern-the-ocean-interview-en/), of course). You've always impressed me deeply at the Mono concerts I have been to so far. Those memories will last forever. No one will be able to delete them. Would you like to tell me what shaped your playing and how you became one of the best drummers of all time?
 
