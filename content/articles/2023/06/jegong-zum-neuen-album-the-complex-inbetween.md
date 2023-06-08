@@ -62,7 +62,7 @@ Am 9. Juni erscheint ihr neues Werk unter dem Namen "The Complex Inbetween". Die
 
 **Anne:** Mit JEGONG habt Ihr Mono und Sum Of R vereint – die Post-Music-Welt freut das sehr. Wie kam es zu Eurem Projekt und wie habt Ihr Euch kennengelernt?
 
-**Dahm:** Reno und ich waren mit unseren Bands vor ein paar Jahren gemeinsam auf Tour. Auf dieser Tour haben wir eine Menge über Musik diskutiert und JeGong wurde aus unserer Liebe für so viele Arten der Musik heraus geboren.
+**Dahm:** Reto und ich waren mit unseren Bands vor ein paar Jahren gemeinsam auf Tour. Auf dieser Tour haben wir eine Menge über Musik diskutiert und JeGong wurde aus unserer Liebe für so viele Arten der Musik heraus geboren.
 
 **Reto:** Zwei Veranstaltern ist es zu verdanken, dass wir uns kennenlernen konnten, indem sie einmal in England und einmal in Belgien, beide Bands, auf separaten Tour-Routen für einen gemeinsamen Abend gebucht haben. Danke!
 
