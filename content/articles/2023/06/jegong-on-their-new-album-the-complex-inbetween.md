@@ -11,7 +11,7 @@ description: JeGong have their new album ready! I had the chance to talk to them
 excerpt: Dahm Majuri Cipolla, drummer with Mono (Japan) and Watter founded
   JeGong together with Reto Mäder from Sum Of R and Ural Umbo. Their debut
   album, "I", already caused quite a stir via The Ocean's label Pelagic Records.
-  The new album "The Complex Inbetween" will be released on 9 June. Now I had
+  The new album "The Complex Inbetween" will be released on June 9th. Now I had
   the chance to talk to them in person.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-08/jegong-bw-pelagic-jpg-imagine-080808_1f1f1f_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-08/jegong-og-jpg-imagine-080808_2d3430_1200_628/640.webp
@@ -40,7 +40,7 @@ affiliate: false
 language: en
 languageLink: /2023/06/jegong-interview/
 ---
-**Dahm Majuri Cipolla, drummer of Mono (Japan) and Watter founded JeGong together with Reto Mäder from Sum Of R and Ural Umbo. Their debut album, "I", already caused quite a stir via The Ocean's label Pelagic Records. The new album "The Complex Inbetween" will be released on 9 June. Now I had the chance to interview them about their music and "The Complex Inbetween".**
+**Dahm Majuri Cipolla, drummer of Mono (Japan) and Watter founded JeGong together with Reto Mäder from Sum Of R and Ural Umbo. Their debut album, "I", already caused quite a stir via The Ocean's label Pelagic Records. The new album, "The Complex Inbetween", will be released on June 9th. Now I had the chance to interview them about their music and "The Complex Inbetween".**
 
 **Anne:** Thank you for taking the time for this interview! I am delighted to meet you in person! How are you doing? What are you busy with at the moment?
 
