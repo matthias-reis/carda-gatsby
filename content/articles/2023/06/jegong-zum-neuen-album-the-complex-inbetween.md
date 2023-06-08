@@ -82,7 +82,7 @@ Am 9. Juni erscheint ihr neues Werk unter dem Namen "The Complex Inbetween". Die
 
 In meiner Assoziierung höre ich förmlich den langen Kellerraum mit den Naturbausteinen und die metallischen Lüftungsrohre an den Decken heraus. Als Dahm für das Album "I" die Drums im BC Studio aufnahm, schickte mir Martin neben den Einzelspuren auch noch seinen persönlichen Rohmix. Da wurde mir klar, wie viel Geschichte auch in Audioaufnahmen enthalten sein kann. Ich mixte dann seinem Rohmix mehr oder weniger "nur" noch die Raumaufnahmen hinzu.
 
-Die Audiorecordings der isolierten, einzelnen Drum-Komponenten blieben also unberührt. Lässt Du ein Drum in einem x-Beliebigen Studio aufnehmen, ist normalerweise genau das Gegenteil gefragt. Für die Aufnahmen zu "The Complex Inbetween" waren es verschiedene Studiosituationen und Orte. Alles durfte, nichts musste. 
+Die Audiorecordings der isolierten, einzelnen Drum-Komponenten blieben also unberührt. Lässt Du die Drums in einem x-Beliebigen Studio aufnehmen, ist normalerweise genau das Gegenteil gefragt. Für die Aufnahmen zu "The Complex Inbetween" waren es verschiedene Studiosituationen und Orte. Alles durfte, nichts musste. 
 
 So haben wir das Schlagzeug zum größten Teil in Shelbyville, Kentucky von Zack Riles (Grails, Watter) aufgenommen. Einerseits in einem klassischen Studio-Setting, andererseits für eine Splitscreen-Session für die Onlineausgabe des ArcTanGent Festivals 2020. Die Synthesizer, Mellotron und die Gitarren wurden von mir in Bern aufgenommen. Hier entstand auch der Mix des Albums – mit Einbezug der klangästhetischen Erfahrungen vom Debut "I".    
 
