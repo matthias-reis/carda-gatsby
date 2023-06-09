@@ -114,15 +114,11 @@ Der äußere Unterschied liegt lediglich in der Innenhofgestaltung, wo bei der V
 
 **Anne:** Danke für diesen Einblick! Das ist wirklich eine faszinierende Geschichte! Für Euer letztes Album habt Ihr teilweise remote gearbeitet – Reto, Du hast in der Schweiz aufgenommen und Dahm, Du in den USA. Während der Pandemie haben das ja viele Bands lieben gelernt. Geht es Euch auch so oder arbeitet Ihr lieber gemeinsam in einem Raum? Wie habt Ihr es dieses Mal gehandhabt?
 
-## "Wir gehen bald auf Tour"
+## "Wenn wir zusammenarbeiten, ergeben sich Dinge spontan"
 
 **Dahm:** Beide Szenarios haben ihre Vorteile und wir nutzen sie beide unseren besten Möglichkeiten entsprechend. Zusammen passieren Dinge spontan und plötzlich, getrennt voneinander kann man sich Zeit nehmen, Dinge immer wieder zu überarbeiten, bevor man sie dem anderen zeigt.
 
 **Reto:** Ich bin diesbezüglich auch völlig offen. Es gibt für mich kein eigentliches Szenario mehr, wie man ein Album an einem bestimmten Ort aufnehmen sollte. Zeit und Raum, zwei wichtige Faktoren, um Musik aufzunehmen, existieren auch außerhalb von vorgegebenen Strukturen.
-
-**Anne:** Habt Ihr schon Tourpläne?
-
-**Dahm:** Ja! Und wir hoffen, dass wir sie schon bald offiziell bekanntgeben können!
 
 **Anne:** Danke für das Interview! Es war mir eine Ehre! Viel Erfolg mit der Platte und alles Gute!
 

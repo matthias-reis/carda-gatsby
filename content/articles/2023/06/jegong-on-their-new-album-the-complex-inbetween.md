@@ -112,15 +112,11 @@ For the recordings of "The Complex Inbetween", we chose different studio situati
 
 **Anne:** For your last album, you partly worked remotely - Reto, you recorded in Switzerland, and you, Dahm, in the USA. During the pandemic, many bands learned to love to work this way. Is it the same for you or do you prefer to work together in one room? How did you handle it this time?
 
-## "We will be on tour, soon!"
+## "When we work together things happen spontaneously"
 
 **Dahm:** There are advantages to both scenarios, and we definitely used those advantages to our best abilities. Together things can happen spontaneously and instantly, separate you can take time to work things out repeatedly before presenting them to other collaborators.
 
 **Reto:** I am also completely open in this respect. For me, there is no longer an actual scenario of how one should record an album in a particular place. Time and space, two essential factors for recording music, also exist outside of predetermined structures.
-
-**Anne:** Do you already have tour plans?
-
-**Dahm:** Yes, and we hope to have them confirmed and announced soon.
 
 **Anne:** Thank you for the interview! It was an honor, and I hope to meet you guys again soon! Good luck with the record, and all the best!
 
