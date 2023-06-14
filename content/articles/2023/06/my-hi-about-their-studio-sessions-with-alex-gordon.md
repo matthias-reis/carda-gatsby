@@ -6,7 +6,7 @@ title: MY-HI about their Studio Sessions with Alex Gordon
 subTitle: '"We want to play in as many Cities as possible!"'
 seoTitle: MY-HI interview about their studio sessions with Alex Gordon
 description: MY-HI told me about their collaboration with Alex Gordon for their new songs. Please enjoy my interview!
-excerpt: I recently got to know MY-HI through my friends at Memphia Music. After briefly introducing the Brighton band in my May playlist, I now had the chance to sit down with them for an interview.
+excerpt: I recently got to know MY-HI through my friends at Memphia Music. After briefly introducing the Brighton-based band in my May playlist, I now had the chance to sit down with them for an interview.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-14/my-hi-band-1-jpg-imagine-080808_272f3a_1024_768/640.webp
 copyrigt: MY-HI
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-14/my-hi-og-jpg-imagine-080808_2d333d_1200_628/640.webp
@@ -24,7 +24,7 @@ affiliate: false
 language: en
 languageLink: /2023/06/my-hi-interview/
 ---
-**I recently got to know MY-HI through my friends at Memphia Music. After briefly introducing the Brighton band in my May playlist, I now had the chance to sit down with them for an interview.**
+**I recently got to know MY-HI through my friends at Memphia Music. After briefly introducing the Brighton-based band in my May playlist, I now had the chance to sit down with them for an interview.**
 
 Besides their brilliant new song, "Phaser ", and their tour plans, we also talked about the band's collaboration with Alex Gordon (The Cure, Blood-Red Shoes, The Xcerts), their tour plans and life in general.
 
