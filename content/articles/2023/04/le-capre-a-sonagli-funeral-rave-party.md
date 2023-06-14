@@ -33,7 +33,7 @@ languageLink: /2023/04/le-capre-a-sonagli-funeral-rave-party/
 
 After enjoying some advanced education in sound engineering and production after their last recording, the artists produced their newest record entirely by themselves. Their goal was to shape everything with their own hands, to rediscover the universe and its complexity in physics and numbers. And it seems their experiment led them to success.
 
-For the band, "Funeral Rave Party" is one thing above all: a psychedelic-rhythmic ritual. You could play it at an alternative festival as well as at an underground techno party. The whole thing sounds like something out of a horror movie. Capre A Sonagli drew some of their inspiration from the art of filmmaker Cronenberg –  I think they clearly reached that goal, too.
+For the band, "Funeral Rave Party" is one thing above all: a psychedelic-rhythmic ritual. You could play it at an alternative festival as well as at an underground techno party. The whole thing sounds like something out of a horror movie. Capre A Sonagli drew some of their inspiration from the art of filmmaker Cronenberg—I think they clearly reached that goal, too.
 
 ## A psychedelic journey alongside river Styx
 

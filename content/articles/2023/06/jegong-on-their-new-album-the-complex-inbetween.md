@@ -48,7 +48,7 @@ languageLink: /2023/06/jegong-interview/
 
 **Reto:** Thank you for your interest. Unlike Dahm, I've already been back for three weeks from the 23-concert UK/EU tour with Sum Of R. So, my recovery is complete, and I have recharged my batteries. The anticipation and preparations for the next musical and private adventures have begun. Thus, everything is in balance, and I'm doing well.
 
-**Anne:** Congratulations on the new album! It's brilliant! From the moment I listened to it for the first time, it won't let me go. It's so strong, playful, and rhythmically genius. Overall, it pretty much reflects what I love about music - unpredictability and precision simultaneously. Overall, it sounds a bit rougher and noisier than its predecessor, "I" – without taking away the technoid side of your music. These two dark worlds fit together very well. I like the eerie undertone. What inspired you to do this?
+**Anne:** Congratulations on the new album! It's brilliant! From the moment I listened to it for the first time, it won't let me go. It's so strong, playful, and rhythmically genius. Overall, it pretty much reflects what I love about music—unpredictability and precision simultaneously. Overall, it sounds a bit rougher and noisier than its predecessor, "I"—without taking away the technoid side of your music. These two dark worlds fit together very well. I like the eerie undertone. What inspired you to do this?
 
 ## "The recording process felt pretty organic and natural"
 

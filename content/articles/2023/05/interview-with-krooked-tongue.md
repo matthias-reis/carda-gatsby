@@ -51,7 +51,7 @@ languageLink: /2023/05/krooked-tongue-interview/
 
 **Krooked Tongue:** Well, we have Bristol this weekend. Our hometown shows are always so wild, so that will be wicked. But we're so excited about heading to Tallinn next week. That will be a truly amazing experience. 
 
-**Anne:** Like you said, you're based in Bristol – a city that's home to many great artists, the wonderful ArcTanGent and many more great events. How would you describe the scene there? Why is it so flourishing, and what distinguishes Bristol from other UK and EU cities?
+**Anne:** Like you said, you're based in Bristol—a city that's home to many great artists, the wonderful ArcTanGent and many more great events. How would you describe the scene there? Why is it so flourishing, and what distinguishes Bristol from other UK and EU cities?
 
 **Krooked Tongue:** Oh, there's definitely a great scene in Bristol, it harbours so much local music, but it's so varied. I think that's what makes the scene great, is that you can have bills with a variety of music and genres on, and it almost always usually works. 
 
