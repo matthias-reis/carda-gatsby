@@ -34,7 +34,7 @@ TW: Rammstein, sexualisierte Gewalt, Angst, Schimpfwörter, Flashbacks, KO-Tropf
 
 **Wann gilt die Unschuldsvermutung endlich auch für Überlebende? Genau das ist der Gedanke, der mir, seit ich das erste Mal von Shelby Lynns Schilderungen hörte und ihre Bilder sah und Texte las, durch den Kopf geht.**
 
-Seitdem fühle ich mich wie in einer Art Starre. Außer Stande über dieses Thema zu berichten oder in meinem Blog eine Stellungnahme dazu abzugeben. Dabei sollte ich das als weiblich gelesener Musikblogger genau jetzt tun. Als Musikfan. Musiknerd. Person, die selbst schon kurz Teil von Bands war und dann schlechte Erfahrungen mit CIS-männlichen Teilen dieser Projekte machte und sich anschließend komplett aus der Szene zurückzog – zu gefährlich, zu toxisch, zu schmerzhaft.
+Seitdem fühle ich mich wie in einer Art Starre. Außer Stande über dieses Thema zu berichten oder in meinem Blog eine Stellungnahme dazu abzugeben. Dabei sollte ich das als weiblich gelesene⋆r Musikblogger⋆in genau jetzt tun, oder? Als Musikfan. Musiknerd. Person, die selbst schon kurz Teil von Bands war und dann schlechte Erfahrungen mit CIS-männlichen Teilen dieser Projekte machte und sich anschließend komplett aus der Szene zurückzog – zu gefährlich, zu toxisch, zu schmerzhaft.
 
 Ich habe mich selbst in meinem Leben nicht nur einmal in einer Situation befunden, von der ich heute sagen würde... Ich weiß nicht, was ich heute darüber sagen würde. Und ich möchte das hier auch nicht ausrollen. Ich kann nur sagen, dass der Fall Rammstein in mir unglaublich viel von dem hervorgeholt hat, über das ich dachte hinweg zu sein. Und das fühlt sich verdammt scheiße an. 
 
