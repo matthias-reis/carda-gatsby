@@ -4,7 +4,7 @@ slug: der-fall-rammstein
 typeName: Gastbeitrag
 title: Was der Fall Rammstein mit der Musikwelt macht
 subTitle: Wie machen wir weiter?
-seoTitle: Rammstein und die Musikwelt – Gastbeitrag
+seoTitle: Der Fall Rammstein und die Musikwelt – Gastbeitrag
 description: Der Fall Rammstein hat nicht nur die Musikwelt in Aufruhr versetzt.
   Lest jetzt ein Statement zum Thema aus einer neuen Sichtweise.
 excerpt: Wann gilt die Unschuldsvermutung endlich auch für Überlebende? Genau
