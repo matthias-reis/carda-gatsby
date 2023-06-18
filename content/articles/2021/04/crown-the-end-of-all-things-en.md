@@ -39,7 +39,7 @@ Pelagic Records writes:
 
 For me, the double LP is one thing above all: exactly what I want to listen to at the moment. It's dark and futuristic without being too cool. Do you know what I mean? I want to listen to it loud in a big room, with people moving their bodies to it. So yes: It puts you in a special mood, and it is worth a listen. If you want more than a click on Spotify, you can pre-order the beautiful double gatefold.
 
-Part one of the duo Crown is sound engineer, producer and musician David Husser. He has worked with icons like Depeche Mode and Peter Gabriel in the past and opened the stage for Rammstein with his industrial band Y Front in the 1990s.
+Part one of the duo Crown is sound engineer, producer and musician David Husser. He has worked with icons like Depeche Mode and Peter Gabriel in the past and opened the stage for many bands with his industrial band Y Front in the 1990s.
 
 Part two is singer Stéphane Azam, who has made himself a name as the live sound engineer for Alcest, among others. His vocals are calm on "The End Of All Things" and stand in contrast to the two previous Crown albums' brutal screaming. His voice becomes the most important stylistic device in the band's repertoire. Azam has definitely proven his versatility by now at the latest.
 
