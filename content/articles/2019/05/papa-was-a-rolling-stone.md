@@ -37,7 +37,7 @@ labels:
   - Respect
   - Respekt
   - Rock
-  - Rock 'n' Roll
+  - Musik
   - Rock 'n' Roll Hall Of Fame
   - Rücksicht
   - Selbstbewusstsein

@@ -56,7 +56,7 @@ Von großen Fahrzeugen wie Reisebussen und LKW darf der Ring Of Kerry bis heute 
 
 Der Ring Of Kerry wird von zahlreichen Sehenswürdigkeiten gesäumt, was ihn für Reisende besonders attraktiv macht. Im Norden grenzt der Ring an die Dingle-Halbinsel, im Süden an die Beara-Halbinsel.
 
-## Ein Song für Euch - Rock 'n' Roll
+## Ein Song für Euch
 
 Weil es gerade so schön passt und weil es eigentlich auch gar nicht passt, hier noch ein schöner Song. Man kann ihn ganz besonders gut auf Roadtrips hören und mitsingen. Oder beim Stöbern in Reiseerinnerungen. Oder einfach so.
 

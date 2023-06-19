@@ -52,7 +52,7 @@ Mit Hilfe von Crowdfunding gelang es den beiden, neues Kapital zu sammeln. Indes
 
 Ständig werden neue Mitarbeiter gesucht, Vincent Vegan wächst und wächst. Über einen Tourplan auf der Homepage\* der Foodtrucker können die Fans die Wagen verfolgen. Getourt wird inzwischen nicht mehr nur in Hamburg, auch verschiedene vegane Events und einige Musikfestivals im norddeutschen Raum werden angefahren.
 
-## Rock 'n' Roll - Vincent Vegan on tour
+## Vincent Vegan on tour
 
 <RemoteImage
   alt={`vincent-vegan`}

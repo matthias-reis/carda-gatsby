@@ -45,6 +45,7 @@ labels:
   - Songs
   - Tenacious D
   - Vinyl
+  - Musik
 focusKeyword: 12 Songs
 status: publish
 isWerbung: false

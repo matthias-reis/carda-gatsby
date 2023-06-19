@@ -39,6 +39,7 @@ labels:
   - Metal
   - serie:Playlists 2022
   - Q-Tip
+  - Musik
 focusKeyword: Playlist
 advertisement: false
 affiliate: false

@@ -37,7 +37,7 @@ subTitle: Beeriger Cocktail-Genuss aus dem Becher
 
 **Endlich gibt es wieder Erdbeeren! Sie passen einfach überall dazu. Ob im Nachtisch, im Salat oder im Cocktail. Die roten Dinger machen Laune und sorgen für Geschmack.**
 
-Heute verrate ich Euch eines meiner allerliebsten Cocktail-Rezepte. Es geht in Richtung Limes, hat aber etwas mehr Rock 'n' Roll im Blut. Meine Damen und Herren, die Bühne betritt nun: Jug Berry!
+Heute verrate ich Euch eines meiner allerliebsten Cocktail-Rezepte. Es geht in Richtung Limes, hat aber etwas mehr Musik in den Adern. Die Bühne betritt nun: Jug Berry!
 
 ## Zutaten für zwei Becher
 

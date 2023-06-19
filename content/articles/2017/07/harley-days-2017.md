@@ -29,7 +29,6 @@ labels:
   - Kiez
   - Motorrad
   - Reeperbahn
-  - Rock 'n' Roll
   - Sankt Pauli
   - St. Pauli
   - serie:Harley Days

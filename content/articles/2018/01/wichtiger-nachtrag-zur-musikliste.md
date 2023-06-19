@@ -47,7 +47,7 @@ labels:
   - Post-Rock
   - Postrock
   - Rock
-  - Rock 'n' Roll
+  - Musik
   - Shoegaze
   - Sleep Well Beast
   - Survive
