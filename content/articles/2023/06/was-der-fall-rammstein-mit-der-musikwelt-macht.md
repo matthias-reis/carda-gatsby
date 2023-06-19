@@ -44,11 +44,11 @@ Weil ich, wie gesagt, selbst weder eine Einordnung noch ein Statement dazu abgeb
 
 Hände am Hintern, in den Haaren. Das alles habe ich tausendmal erlebt. Dennoch möchte ich mir meine Konzerte nicht wegnehmen lassen. Das Gefühl dort ist immer ein Gemisch aus Freude über den Gig und Angst. Angst angefasst zu werden. Immer die flache Hand über dem Becher. Ja, ich habe auch in dieser Hinsicht meine Erfahrungen gemacht. In Clubs, auf Parties und auf Konzerten. Nein, ich werde hier nicht näher darauf eingehen. Es soll nur eine kurze Erklärung sein, warum ich nicht selbst schreibe über das Thema, das seit Wochen wie eine schwarze Wolke über meinem und dem Kopf einiger meiner Freund⋆innen hängt, die Ähnliches erleben wie ich gerade: Flashbacks. Heulkrämpfe. Schlaflose Nächte. Angst. Fassungslosigkeit.
 
-Ich übergebe das Wort und die Frage "Wie machen wir weiter?" an dieser Stelle an Matze, der so lieb war, dieses Statement für meinen Blog zu schreiben.﻿
+Ich übergebe das Wort und die Frage "Wie machen wir weiter?" an dieser Stelle an Matze, der so lieb war, dieses Statement für meinen Blog zu schreiben.
 
 > Die Band Rammstein ist zurzeit überall in den Medien. Zu Recht wird die Situation in den meisten Medien kritisch kommentiert. Allerdings kommt zunehmend aus verschiedenen Gründen auch das Gefühl auf, dass man der Geschichte nicht mehr so viel Bühne geben sollte: Für die Band bedeutet sie Publicity. Ihre Plattenverkäufe steigen im Moment.
 > 
-> Die Verkäufe der Band steigen schon allein durch diese Publicity. Andererseits fühlt man sich als Musikblog verständlicherweise dazu verpflichtet, sich zu positionieren. Anne hat daher etwas Überraschendes getan und mich als, vielleicht in ihren Augen neutrale Person, gebeten, dieses Statement zu übernehmen. Keine Ahnung, ob ich das kann, aber zumindest möchte ich es versuchen.
+> Andererseits fühlt man sich als Musikblog verständlicherweise dazu verpflichtet, sich zu positionieren. Anne hat daher etwas Überraschendes getan und mich als, vielleicht in ihren Augen neutrale Person, gebeten, dieses Statement zu übernehmen. Keine Ahnung, ob ich das kann, aber zumindest möchte ich es versuchen.
 > 
 > Ich hab's bequem. Ich bin ein Gen-X-Ein-Meter-Neuzig-Cis-Mann. Wenn ich auf Konzerte gehe, gibt es maximal zwei Stellen im ganzen Konzertsaal, an denen ich nicht genug sehe. Schiebe ich mich dann 30 Zentimeter weiter nach links oder rechts, habe ich wieder die volle Experience. Ich werde von niemandem belästigt, angepöbelt oder gar komisch angeschaut.
 > 
