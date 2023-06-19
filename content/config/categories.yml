@@ -3,7 +3,7 @@
   slug: allgemein
 
 - title: 'Vegan'
-  description: 'Vegan ist nicht nur Hauptthema meines Blogs. Ich lebe seit vielen Jahren vegan. In dieser Blogrubrik beleuchte die Aspekte Ethik, Klimaschutz und Gesundheit'
+  description: '"Vegan" ist für mich nicht nur das Hauptthema meines Blogs. Ich lebe seit vielen Jahren vegan. In dieser Blogrubrik beleuchte die Aspekte Ethik, Klimaschutz und Gesundheit'
   slug: vegan
 
 - title: 'Tierrechte'
@@ -12,12 +12,12 @@
   parentId: vegan
 
 - title: 'Klima & Umweltschutz'
-  description: 'Klima & Umweltschutz – das Thema, das uns allen in der heutigen Zeit mit Abstand am meisten beschäftigen sollte, ist eines der Kerngebiete meines Blogs.'
+  description: 'Klima & Umweltschutz – die Themen, die uns alle in der heutigen Zeit mit Abstand am meisten beschäftigen sollten, gehören auch zu den Kernthemen meines Blogs'
   slug: klima-und-umweltschutz
   parentId: vegan
 
 - title: 'Ernährung & Gesundheit'
-  description: 'In der Rubrik Ernährung dreht sich alles um vegane Ernährung und Gesunheit.'
+  description: 'In meiner Blog-Rubrik "Ernährung" dreht sich alles um vegane Ernährung und Gesundheit.'
   slug: ernaehrung-und-gesundheit
   parentId: vegan
 
@@ -27,7 +27,7 @@
   parentId: vegan
 
 - title: 'Vegane Lokale'
-  description: 'Vegane Lokale sind für mich ganz besondere Orte. Ab und zu schreibe ich einen Bericht über eins, das mir besonders gefällt. Den findet Ihr dann hier.'
+  description: 'Vegane Lokale sind für mich ganz besondere Orte. Ab und zu schreibe ich auch über sie.'
   slug: vegane-lokale
   parentId: vegan
 
@@ -51,7 +51,7 @@
   parentId: musik
 
 - title: 'Festivals'
-  description: 'Festivals gehören zu meinem Leben, seit ich denken kann. Auf meiner Homepage habe ich ihnen eine Rubrik gewidmet. Darin lest Ihr meine Artikel zum Thema.'
+  description: 'Festivals gehören für mich dazu, seit ich denken kann. Auf meiner Homepage habe ich ihnen eine Rubrik gewidmet. Darin lest Ihr meine Artikel zum Thema.'
   slug: festivals
   parentId: musik
 
@@ -61,11 +61,11 @@
   parentId: musik
 
 - title: 'Lifestyle'
-  description: 'In der Blogrubrik „Lifestyle“ findet Ihr alle Artikel zu den Themen „Achtsamkeit“, „Feminismus“, „Bücher & Filme“ sowie „Geschichten & Erlebtes“ und DIY.'
+  description: 'In der Blogrubrik "Lifestyle" findet Ihr alle Artikel zu den Themen "Achtsamkeit", "Feminismus", "Bücher & Filme" sowie "Geschichten & Erlebtes" und "DIY".'
   slug: lifestyle
 
 - title: 'Achtsamkeit'
-  description: 'Wie der Name schon sagt, dreht sich in diesem Blogkapitel alles um das Thema „Achtsamkeit“. Hier findet Ihr Ideen, Anregungen und Erfahrungsberichte.'
+  description: 'Wie der Name schon sagt, dreht sich in diesem Blogkapitel alles um das Thema "Achtsamkeit". Hier findet Ihr Ideen, Anregungen und Erfahrungsberichte.'
   slug: achtsamkeit
   parentId: lifestyle
 
