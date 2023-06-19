@@ -17,7 +17,7 @@
   parentId: vegan
 
 - title: 'Ernährung & Gesundheit'
-  description: 'In der Rubrik „Ernährung“ dreht sich alles um vegane Ernährung und Gesunheit.'
+  description: 'In der Rubrik Ernährung dreht sich alles um vegane Ernährung und Gesunheit.'
   slug: ernaehrung-und-gesundheit
   parentId: vegan
 
@@ -36,8 +36,8 @@
   slug: vegan-celebrities
   parentId: vegan
 
-- title: 'Rock ’n‘ Roll'
-  description: 'Rock ’n‘ Roll ist ein Lebensgefühl. Unter dieser Hauptrubrik meines Blogs findet Ihr Rezensionen, Interviews und Berichte über Konzerte und Festivals.'
+- title: 'Musik'
+  description: Musik ist mein Leben. Unter dieser Hauptrubrik meines Blogs findet Ihr Rezensionen, Interviews und Berichte über Konzerte und Festivals.'
   slug: musik
 
 - title: 'Interviews'
