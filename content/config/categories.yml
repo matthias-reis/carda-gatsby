@@ -37,7 +37,7 @@
   parentId: vegan
 
 - title: 'Musik'
-  description: Musik ist mein Leben. Unter dieser Hauptrubrik meines Blogs findet Ihr Rezensionen, Interviews und Berichte über Konzerte und Festivals.'
+  description: 'Musik ist mein Leben. Unter dieser Hauptrubrik meines Blogs findet Ihr Rezensionen, Interviews und Berichte über Konzerte und Festivals.'
   slug: musik
 
 - title: 'Interviews'
