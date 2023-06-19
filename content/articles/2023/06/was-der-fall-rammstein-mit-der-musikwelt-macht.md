@@ -70,7 +70,7 @@ Ich übergebe das Wort und die Frage "Wie machen wir weiter?" an dieser Stelle a
 > 
 > Zum Schluss noch eine Prognose: Das Thema wird in ein paar Jahren in einem unbefriedigenden Prozess beendet. In der Musikindustrie ändert sich deswegen nichts. Allerdings werden weitere Fälle bekannt.
 > 
-> So. Nicht nur wegen der aktuellen Hitze, sondern vor allem auch wegen der ekelhaft abstoßenden Geschichte (auf dessen Details ich bewusst überhaupt nicht eingegangen bin, Ihr könnt das ja überall nachlesen) habe ich jetzt das Gefühl eine Dusche zu benötigen.
+> So. Nicht nur wegen der aktuellen Hitze, sondern vor allem auch wegen der ekelhaft abstoßenden Geschichte (auf deren Details ich bewusst überhaupt nicht eingegangen bin, Ihr könnt das ja überall nachlesen) habe ich jetzt das Gefühl eine Dusche zu benötigen.
 > 
 > Matze
 
