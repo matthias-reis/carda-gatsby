@@ -5,7 +5,7 @@ typeName: Beitrag
 title: El Green Mall stellt sich vor
 subTitle: Green Marketplace gegründet
 seoTitle: El Green Mall – der neue Green Marketplace
-description: El Green Mall ist ein neues Green Marketplace aus Berlin mit vielen
+description: El Green Mall ist ein neuer Green Marketplace aus Berlin mit vielen
   veganen Marken. Lest jetzt alles über das Eco-Start-up!
 excerpt: El Green Mall ist ein Green Marketplace – eine Shopping-Plattform, die
   öko-soziale Produkte von zahlreichen europäischen Brands anbietet. Ein
