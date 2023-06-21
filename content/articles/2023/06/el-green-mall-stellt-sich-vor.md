@@ -34,7 +34,7 @@ In unserem Gespräch kurz nach dem Launch des Portals am 14. Juni in Berlin erz�
 
 Der Frust über Firmen, die Greenwashing betreiben und ihre nicht wirklich nachhaltigen Produkte mit einem leuchtend grünen Label als umweltfreundlich ausgeben, weckte den Wunsch in Frederica und ihrem Mitgründer Ignacio García es anders zu machen: Sie wollten den Menschen echte Alternativen bieten.
 
-## "Wie wollen echte Nachhaltigkeit für alle!"
+## "Wir wollen echte Nachhaltigkeit für alle!"
 
 Die Manipulation von Kund⋆innen für Kaufentscheidungen, die nicht nur dem Klima, sondern auch der Gesundheit schaden, kommen für die beiden nicht infrage. Alle Produkte auf El Green Mall stammen von kleinen bis mittelgroßen Brands, die Federica, Ignacio und ihre Mitstreiter⋆innen sorgfältig anhand von Nachhaltigkeitsaspekten ausgewählt haben. Sie achten bei der Suche nach Kooperationen vor allem auf umweltfreundliche Materialien, Slow-Production-Methoden und den fairen Umgang mit den Mitarbeitenden.
 
