@@ -91,4 +91,4 @@ Das finale Highlight seiner Reise war für ihn seine heutige Homebase Berlin. Er
 
 <YouTube id="vtcupi2wV94" />
 
-[^1] [El Green Mall Homepage](https://elgreenmall.com/)
+[^1] [El Green Mall Homepage](https://elgreenmall.com/de)
