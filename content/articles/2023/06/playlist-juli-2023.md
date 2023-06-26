@@ -39,6 +39,8 @@ labels:
   - Noiserock
   - Noise
   - Progressive
+  - serie:Playlists 2023
+
 focusKeyword: Alternative Playlist Juli 2023
 advertisement: false
 affiliate: false
