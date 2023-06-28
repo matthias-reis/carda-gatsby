@@ -25,7 +25,6 @@ labels:
   - moderne Ernährung
   - myvegandiary
   - Nährstoffe Veganer
-  - ökologischer Fussabdruck
   - Studien Veganer
   - Tierschutz
   - vegan

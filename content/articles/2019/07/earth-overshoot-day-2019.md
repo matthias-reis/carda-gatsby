@@ -35,7 +35,7 @@ subTitle: '#MoveTheDate - Wir müssen jetzt handeln!'
 
 [2017 fiel der Earth Overshoot Day auf den 2. August](/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/). Letztes Jahr [war es schon am 31 Juli soweit](/2018/07/earth-overshoot-day-2018/) und dieses Jahr sogar noch früher. Bereits morgen, am 29. Juli 2019 ist der Tag, an dem die Menschheit die Ressourcen der Natur für dieses Jahr verbraucht hat. Berechnet wird der Stichtag seit 1987 vom **Global Footprint Network** .
 
-Die Rechnung funktioniert ganz einfach: Aktueller globaler ökologischer Fußabdruck (sprich: Ressourcen, welche die Menschheit Stand heute benötigt) im Verhältnis zur Biokapazitiät, die uns zur Verfügung steht mal 365 Tage. Am Kehrwert der Rechnung kann man die Anzahl der Erden sehen, die wir benötigen würden, um unseren Bedarf zu decken. Inzwischen sind es 1,75. Das ist ganz schön erschreckend, oder?
+Die Rechnung funktioniert ganz einfach: Die Ressourcen, welche die Menschheit Stand heute benötigt, im Verhältnis zur Biokapazitiät, die uns zur Verfügung steht mal 365 Tage. Am Kehrwert der Rechnung kann man die Anzahl der Erden sehen, die wir benötigen würden, um unseren Bedarf zu decken. Inzwischen sind es 1,75. Das ist ganz schön erschreckend, oder?
 
 ## 1987 war der Earth Overshoot Day noch im Dezember
 
@@ -77,8 +77,6 @@ Damit immer mehr Menschen aufmerksam werden und sich für dieses Ziel einsetzen,
 
 - [Das Ersetzen von 50 Prozent des Fleischkonsums durch pflanzliche Ernährung könnte die Überschreitung um ganze 15 Tage hinausschieben. Allein 10 Tage davon fallen dabei auf die Reduzierung der Methanemissionen](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/).
 - Das Zurückschrauben der CO<sub>2</sub>-Emissionen durch Fossilenergie würde für eine Verschiebung von 93 Tagen sorgen.
-
-Teil der Kampagne ist unter anderem auch ein [Footprint-Rechner](http://www.footprintcalculator.org/), mit dem man sich seinen persönlichen ökologischen Fußabdruck ausrechnen kann. Ich kann ihn wirklich jedem\*r ans Herz legen. Es hilft sehr dabei, sich in Richtung nachhaltigerer Lebenswandel zu orientieren und das eigene Verhalten zu hinterfragen.
 
 <RemoteImage
   alt={`earth-overshoot-day-2019`}

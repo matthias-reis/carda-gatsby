@@ -23,7 +23,6 @@ labels:
   - Klimakatastrophe
   - Klimakrise
   - Forschung
-  - ökologischer Fußabdruck
   - Klima- & Umweltschutz
   - CO2
   - Methan

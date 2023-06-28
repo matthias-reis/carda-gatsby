@@ -70,7 +70,7 @@ Selbstverständlich möchte ich das niemandem unterstellen. Noch weniger möchte
 ### Vegane Ernährung ist gut für das Klima und für unsere Umwelt
 
 <RemoteImage
-  alt={`ökologischer Fußabdruck`}
+  alt={`Soja & Klimaschutz`}
   size="medium"
   title={` Vegane Zone`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bchlschrank__m.jpg"
@@ -87,7 +87,7 @@ Sicher haben viele von Euch schon mal das Plakat gesehen, auf dem Thomas D sich
 Aus lediglich zwei Prozent des angebauten Soja werden tatsächlich Lebensmittel für Menschen hergestellt. Dazu zählt nicht nur Tofu und Sojamilch, sondern auch Margarine und Sojaöl, welches vielfach in Großküchen zum Braten und Frittieren eingesetzt wird.
 
 <RemoteImage
-  alt={`ökologischer Fußabdruck`}
+  alt={`Soja & Klimaschutz`}
   size="medium"
   title={` Biosojamilch`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_biosojamilch-1__m.jpg"
@@ -108,7 +108,7 @@ Aus den entölten "Abfallprodukten" der Sojaölproduktion können sehr gut zum B
 ### 1 kg Rindfleisch erzeugt so viele Treibhausgase, wie über 1.600 km Autobahnfahrt
 
 <RemoteImage
-  alt={`ökologischer Fußabdruck`}
+  alt={`Soja & Klimaschutz`}
   size="medium"
   title={` Kühe im Regenwald`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_regenwaldkc3bche-1__m.jpg"
@@ -127,7 +127,7 @@ Die Studie ergab auch, dass eiweißreiche pflanzliche Lebensmittel mit Abstand d
 Betrachtet man die Klimaschädlichkeit der verschiedenen Ernährungsweisen pro Kopf und Jahr, kommt man zu folgendem Ergebnis:
 
 <RemoteImage
-  alt={`ökologischer Fußabdruck`}
+  alt={`Soja & Klimaschutz`}
   size="large"
   title={` Schaubild: Veggie Times April 2014`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_schaubild-1__m.jpg"
@@ -135,21 +135,7 @@ Betrachtet man die Klimaschädlichkeit der verschiedenen Ernährungsweisen pro K
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBQEECP/EACoQAAIBBAAEBQQDAAAAAAAAAAECAwAEBREGEiFBByIxUpETUWHShJLB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEBf/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMEYRHBElGR/9oADAMBAAIRAxEAPwDo3K3SRXjI+WFpqIOUManQ3rm2Qe/TVZT67yAjJTFSPRbYfrVbxhmbHFAvkrwW0AVQd25n8xPl8oBJ9D1H53S4PEbAgjXEcwI7nEz/AOLWc+TYlhBXkaK9sJQmHkWjyrrZhoEx4Ec6kc1/dt/EH6VsWcMysJJLyaVQCOWSFU2fv6A0nW3iRwxuJWztw8nRTvH3AVj/AE6Uw4ri3C5e+Fnj7t5bgqzhTbyINLrZ2ygdx3qxLVYevnRMZ8LJrHL1sBsGXLEhOhNQ529x+aKKeTQ529x+ampJYAkkUUUQM//Z"
 />
 
-Fleischesser haben einen 7,5 x höheren CO<sub>2</sub>-Verbrauch für ihre Ernährung, als Veganer\*innen. Das ist ein ganz schöner Unterschied, oder? Hinzu kommt das besonders schädliche Methan. Rinder stoßen am Tag bis zu 300 Liter davon aus. Es handelt sich dabei um ein Treibhausgas, welches fast 30 mal klimaschädlicher ist, als CO<sub>2</sub>. Methan trägt mit rund 20 Prozent zum anthropogenen Treibhauseffekt bei. Etwa 37 Prozent der weltweit anthropogen emittierten Methan-Menge stammen direkt oder indirekt aus der Viehhaltung, der größte Teil davon aus Fermentationsprozessen im Magen von Wiederkäuern. Das heißt übersetzt, dass 7,4 Prozent des anthropogenen Treibhauseffekts auf die Methanemission von Wiederkäuern (also rein die Viehzucht, ohne Transport, der kommt noch dazu!) zurückzuführen ist. Man kann sich also ausrechnen, wie sich das zusätzlich auf den ökologischen Fussabdruck eines Fleischkonsumenten und somit auf unsere Umwelt auswirkt. (Zahlen:  [Wikipedia](http://de.wikipedia.org/wiki/Treibhausgas) )
-
-
- 
-
-
-### Zwei Personen, ein Lebensstandard - zwei Fußabdrücke, wie sie unterschiedlicher nicht sein könnten.
-
-Bei _Omni_ , dem "Allesesser" wird folgendes Ergebnis angezeigt: "Dein ökologischer Fussabdruck ist 4,78 Hektar (Wohnen und Energie: 22 Prozent, Konsum: 19 Prozent, Ernährung: 43 Prozent, Verkehr: 16 Prozent). Ein fairer Fussabdruck soll aber nur 1,8 Hektar groß sein. Denn wenn alle deinen **Lebensstil** haben, benötigen wir 2,66 Erden. Allein 1 kg Rindfleisch verursacht schon 13,3 kg CO<sub>2</sub>. Wenn du deinen Fleischkonsum um wenigstens 20 Prozent reduzierst, würde sich dein Fussabdruck um ca. 1500 m² im Jahr verkleinern."
-
-Bei _Vegani_ , dem Veganer sieht es folgendermaßen aus: "Dein ökologischer Fussabdruck ist 3,5 (Wohnen und Energie: 38 Prozent, Konsum: 32 Prozent, Ernährung: ein Prozent, Verkehr: 29 Prozent) Hektar. Ein fairer Fussabdruck soll aber nur 1,8 Hektar groß sein. Denn wenn alle deinen Lebensstil haben, benötigen wir 1,94 Erden."
-
-Für beide gilt übrigens der folgende Text, der jedem Teilnehmer im Anschluss an den Test angezeigt wird. "Für deinen Fussabdruck bist du nicht alleine verantwortlich. Deinem Fussabdruck wird auch ein kollektiver Fussabdruck zugeordnet, welcher den **Ressourcenverbrauch** für den Bau nationaler Infrastruktur zusammenfasst (z.B. Straßen, Krankenhäuser, öffentliche Gebäude). Durch den kollektiven Fussabdruck ist es nicht möglich, in Deutschland einen Ressourcenverbrauch zu haben, der unter den fairen 1,9 Hektar liegt. Rund 88,4 kg Fleisch isst der Deutsche durchschnittlich im Jahr."
-
-Was wieder einmal beweist, das ein kollektives Umdenken erfolgen muss und das am besten gestern, wenn wir unsere Natur nicht weiter systematisch zerstören wolle. [Hier geht's zu Teil 2 des Artikels](/2014/08/ich-war-so-muede/)
+Fleischesser haben einen 7,5 x höheren CO<sub>2</sub>-Verbrauch für ihre Ernährung, als Veganer\*innen. Das ist ein ganz schöner Unterschied, oder? Hinzu kommt das besonders schädliche Methan. Rinder stoßen am Tag bis zu 300 Liter davon aus. Es handelt sich dabei um ein Treibhausgas, welches fast 30 mal klimaschädlicher ist, als CO<sub>2</sub>. Methan trägt mit rund 20 Prozent zum anthropogenen Treibhauseffekt bei. Etwa 37 Prozent der weltweit anthropogen emittierten Methan-Menge stammen direkt oder indirekt aus der Viehhaltung, der größte Teil davon aus Fermentationsprozessen im Magen von Wiederkäuern. Das heißt übersetzt, dass 7,4 Prozent des anthropogenen Treibhauseffekts auf die Methanemission von Wiederkäuern (also rein die Viehzucht, ohne Transport, der kommt noch dazu!) zurückzuführen ist. (Zahlen:  [Wikipedia](http://de.wikipedia.org/wiki/Treibhausgas) )
 
 ## Quellen
 

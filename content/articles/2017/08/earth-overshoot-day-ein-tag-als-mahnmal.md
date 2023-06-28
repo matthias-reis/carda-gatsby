@@ -92,7 +92,7 @@ Wir leben also auf Kredit und die Politiker der großen Industriestaaten sind sc
 Über den ersten Punkt habe ich bereits zwei umfassende Abhandlungen geschrieben:
 
 - [Vegane Ernährung und Klimaschutz wissenschaftlich betrachtet](/2017/02/klimaschutz-und-vegane-ernaehrung/)
-- [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+- [Soja & Klimaschutz](/2014/07/soja-klimaschutz/)
 
 Ich möchte daher gar nicht lange darauf herumreiten, sondern nur nochmal eins zu Denken geben:
 
