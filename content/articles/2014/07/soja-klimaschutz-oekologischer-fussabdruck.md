@@ -1,12 +1,12 @@
 ---
 date: 2014-07-30T07:11:57.000+00:00
-slug: soja-klimaschutz-oekologischer-fussabdruck
-path: '/2014/07/soja-klimaschutz-oekologischer-fussabdruck/'
-title: Soja, Klimaschutz und ökologischer Fussabdruck
-seoTitle: Soja, Klimaschutz und ökologischer Fussabdruck
-ogTitle: Soja, Klimaschutz und ökologischer Fussabdruck
-description: Ein fairer ökologischer Fussabdruck soll aber nur 1.8 Hektar groß sein. Denn wenn alle deinen Lebensstil haben, benötigen wir 2.66 Erden.
-excerpt: Ein fairer ökologischer Fussabdruck soll aber nur 1,8 Hektar groß sein. Denn wenn alle deinen Lebensstil haben, benötigen wir 2.66 Erden.
+slug: soja-klimaschutz
+path: '/2014/07/soja-klimaschutz/'
+title: Soja und Klimaschutz
+seoTitle: Soja und Klimaschutz
+ogTitle: Soja und Klimasschutz
+description: Soja und Klimaschutz. Wie geht das zusammen? Wenn wir so weitermachen, brauchen wir 2,66 Erden.
+excerpt: Soja und Klimaschutz. Wie geht das zusammen? Wenn wir so weitermachen, brauchen wir 2,66 Erden. So geht es demnach einfach nicht weiter! Vegane Ernährung ist ein wichtiger Baustein der Lösung.
 fileName: 2014-07---soja-klimaschutz-und-oekologischer-fussabdruck.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_07_biogemc3bcseanbau__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_07_biogemc3bcseanbau__l.jpg
@@ -33,9 +33,6 @@ labels:
   - Metan
   - Methanausstoss
   - moderne Ernährung
-  - Öko
-  - Ökologie
-  - ökologischer Fussabdruck
   - Regenwald
   - Rinder
   - Rinderzucht
@@ -51,7 +48,7 @@ labels:
   - Vegetarier
   - Wasserknappheit
   - serie:10 Fakten über Veganismus
-focusKeyword: ökologischer Fussabdruck
+focusKeyword: Soja und Klimaschutz
 status: publish
 isWerbung: false
 isAffiliate: false
@@ -66,9 +63,9 @@ month: '07'
 
 **Wie versprochen, habe ich zehn Fakten über vegane Ernährung für Euch vorbereitet. Fakten, die zum Nachdenken anregen. Fakten, die jedem von uns bewusst sein sollten.**
 
-Wie schon berichtet, werden mir seit meiner Ernährungsumstellung Fragen über Fragen gestellt, immer häufiger kommt es zu unsachlichen Debatten, ausgelöst von verständnislosen **Omnivoren** , die nur den Kopf über mich schütteln. Eine Kombination aus Selbstschutz, Verdrängung und schlechtem Gewissen, habe ich mir sagen lassen.
+Wie schon berichtet, werden mir seit meiner Ernährungsumstellung Fragen über Fragen gestellt, immer häufiger kommt es zu unsachlichen Debatten, ausgelöst von verständnislosen Fleischesser⋆innen, die nur den Kopf über mich schütteln. Das könnte eine Kombination aus Selbstschutz, Verdrängung und schlechtem Gewissen sein, habe ich mir sagen lassen?
 
-Selbstverständlich möchte ich niemandem so etwas unterstellen. Noch weniger möchte ich den Menschen, denen ich begegne, Unwissenheit vorwerfen. Meine Faktensammlung lege ich, [wie schon kurz berichtet](/2014/08/ich-war-so-muede/) in erster Linie an, um meinen Wissensdurst zu stillen und Informationen sind dazu da, sie zu teilen. Was der/die Einzelne mit Ihnen macht, bleibt jedem/r selbst überlassen. Da bereits Fakt 1 ziemlich umfangreich geworden ist und noch neun weitere hochinteressante Themen folgen werden, habe ich mich für eine Artikelserie entschieden. Das hier ist also Teil I. meiner "10 Fakten über vegane Ernährung".
+Selbstverständlich möchte ich das niemandem unterstellen. Noch weniger möchte ich den Menschen, denen ich begegne, Unwissenheit vorwerfen. Meine Faktensammlung lege ich, [wie schon kurz berichtet](/2014/08/ich-war-so-muede/) in erster Linie an, um meinen Wissensdurst zu stillen und Informationen sind dazu da, sie zu teilen. Was der/die Einzelne mit Ihnen macht, bleibt jedem/r selbst überlassen. Da bereits Fakt 1 ziemlich umfangreich geworden ist und noch neun weitere hochinteressante Themen folgen werden, habe ich mich für eine Artikelserie entschieden. Das hier ist also Teil I. meiner "10 Fakten über vegane Ernährung".
 
 ### Vegane Ernährung ist gut für das Klima und für unsere Umwelt
 
@@ -100,11 +97,11 @@ Aus lediglich zwei Prozent des angebauten Soja werden tatsächlich Lebensmittel
 
 Die Sojamilch, die hierzulande in den Regalen der Geschäfte steht, stammt aus europäischem Anbau, man kann sich also sicher sein, dass hierfür kein Regenwald abgeholzt wird. Selbiges gilt übrigens auch für die meisten Tofuprodukte. Der Sojabedarf würde auf ein Minimum sinken, würde ein Großteil der Bevölkerung auf pflanzenbasierte Ernährung setzen.
 
-Im Gegensatz zum "Sojamilch-Soja" wird Futtermittelsoja zum größten Teil aus Südamerika, den USA und China importiert, wodurch sich die CO<sub>2</sub>-Emission für Fleisch (Stichwort Transport!) noch mal um ein Vielfaches vergrößert. Zudem sorgt der Anbau in den gerodeten Regionen für Wasserknappheit, die wiederum **Hunger** und Krankheit auslöst.
+Im Gegensatz zum "Sojamilch-Soja" wird Futtermittelsoja zum größten Teil aus Südamerika, den USA und China importiert, wodurch sich die CO<sub>2</sub>-Emission für Fleisch (Stichwort Transport!) noch mal um ein Vielfaches vergrößert. Zudem sorgt der Anbau in den gerodeten Regionen für Wasserknappheit, die wiederum Hunger und Krankheit auslöst.
 
 Veganer\*innen essen also nicht dem Essen das Essen weg, das Essen isst den Regenwaldbewohnern (Tieren und Menschen!) das Land und das Essen weg. Besonders plakativ wird das Ganze, wenn man daran denkt, dass für die "Herstellung" einer Fleischkalorie sieben (!) Pflanzenkalorien nötig sind.
 
-Was nicht bedeutet, dass **Fleisch** dadurch mehr Nährstoffe hat. Es beinhaltet im Durchschnitt circa 20 Prozent Eiweiß, Soja hingegen rund 40 Prozent!
+Was nicht bedeutet, dass Fleisch dadurch mehr Nährstoffe hat. Es beinhaltet im Durchschnitt circa 20 Prozent Eiweiß, Soja hingegen rund 40 Prozent!
 
 Aus den entölten "Abfallprodukten" der Sojaölproduktion können sehr gut zum Beispiel Sojaschnetzel (deren Eiweißgehalt sogar bei rund 50 Prozent liegt!) hergestellt werden, derzeit wird jedoch auch der Löwenanteil hiervon als Tierfutter verwendet.
 
@@ -125,7 +122,7 @@ Dicht gefolgt werden die brasilianischen "Fleischrinder" von den irischen. An dr
 
 ### Pflanzliche Lebensmittel haben die besten Klimawerte
 
-Die Studie ergab auch, dass eiweißreiche pflanzliche Lebensmittel _mit Abstand_ die besten Klimawerte aufweisen. So erzeugt die Herstellung von einem Kilo **Tofu** oder Tempeh aus Soja 3,8 bzw. 2,4 Kilo CO<sub>2</sub>, umgerechnet sind das 19 bzw. 12 gefahrene Autokilometer. Fazit Schmidinger: "Pflanzliche Lebensmittel schneiden unter Einbeziehung aller ethischen Aspekte der Welternährung und aus Klimaschutzgründen tatsächlich wesentlich besser ab als Tierprodukte."(Quelle: [VEBU](https://www.vebu.de/umwelt/klimawandel/1316-1-kg-rindfleisch-so-klimaschaedlich-wie-eine-1600-km-lange-autofahrt) )
+Die Studie ergab auch, dass eiweißreiche pflanzliche Lebensmittel mit Abstand die besten Klimawerte aufweisen. So erzeugt die Herstellung von einem Kilo **Tofu** oder Tempeh aus Soja 3,8 bzw. 2,4 Kilo CO<sub>2</sub>, umgerechnet sind das 19 bzw. 12 gefahrene Autokilometer. Fazit Schmidinger: "Pflanzliche Lebensmittel schneiden unter Einbeziehung aller ethischen Aspekte der Welternährung und aus Klimaschutzgründen tatsächlich wesentlich besser ab als Tierprodukte."(Quelle: [VEBU](https://www.vebu.de/umwelt/klimawandel/1316-1-kg-rindfleisch-so-klimaschaedlich-wie-eine-1600-km-lange-autofahrt) )
 
 Betrachtet man die Klimaschädlichkeit der verschiedenen Ernährungsweisen pro Kopf und Jahr, kommt man zu folgendem Ergebnis:
 
@@ -138,39 +135,11 @@ Betrachtet man die Klimaschädlichkeit der verschiedenen Ernährungsweisen pro K
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBQEECP/EACoQAAIBBAAEBQQDAAAAAAAAAAECAwAEBREGEiFBByIxUpETUWHShJLB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEBf/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMEYRHBElGR/9oADAMBAAIRAxEAPwDo3K3SRXjI+WFpqIOUManQ3rm2Qe/TVZT67yAjJTFSPRbYfrVbxhmbHFAvkrwW0AVQd25n8xPl8oBJ9D1H53S4PEbAgjXEcwI7nEz/AOLWc+TYlhBXkaK9sJQmHkWjyrrZhoEx4Ec6kc1/dt/EH6VsWcMysJJLyaVQCOWSFU2fv6A0nW3iRwxuJWztw8nRTvH3AVj/AE6Uw4ri3C5e+Fnj7t5bgqzhTbyINLrZ2ygdx3qxLVYevnRMZ8LJrHL1sBsGXLEhOhNQ529x+aKKeTQ529x+ampJYAkkUUUQM//Z"
 />
 
-<RemoteImage
-  alt={`ökologischer Fußabdruck`}
-  size="medium"
-  title={` Rinder stoßen Methan aus`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bche__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bche__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QAKBAAAgICAQMDAwUAAAAAAAAAAQIDBAURAAYSIRMxYSJBURQyQoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACERAAICAgIBBQAAAAAAAAAAAAECABEDEgQhBTFhgaHR/9oADAMBAAIRAxEAPwDswnUOUMPq2cRYgiG+5pIEjUaGz5Z/Ovjloweds5LMVcXBRgjszgsPWdFIVRtm0NnQ+OZBi8Ot61fbKLJI/rTJCJHY9iFgw0p2PPNCt5axj6N23WUiUwMiCOIMQWGmPb4GyvcN/be+ZD+QdXALmr79YdE30VR9RmTzE01+epWsWp7UUjI0VKdGC9p7T+2M+N/PITqSn1JYIjSN4AxdlAtLC7Bff2XZ14/3mez5fK47rK9cpwz15o7LekiqyqO3wQR860R+T+eKzcfUFuhkr2TuoGuKhhUOZPodx9Ab+IPcN699aPHNnzB6GQ17kxox8fUF17+PyNx3Ut6rOrQRvfiZAkiTWAoUaHjyPtrwRrx4I5euncxDLXMkuMgqyyN2yQ/qBKXHsd+dDftw4czuRRN13JSSWsyKyWUpVg1+3GipPGTJI047HPcPG/6Uk/c8qeT6+ovXNSBEWFW9Tw5ILb/Htw4cuw4VyMWaAT//2Q=="
-/>
+Fleischesser haben einen 7,5 x höheren CO<sub>2</sub>-Verbrauch für ihre Ernährung, als Veganer\*innen. Das ist ein ganz schöner Unterschied, oder? Hinzu kommt das besonders schädliche Methan. Rinder stoßen am Tag bis zu 300 Liter davon aus. Es handelt sich dabei um ein Treibhausgas, welches fast 30 mal klimaschädlicher ist, als CO<sub>2</sub>. Methan trägt mit rund 20 Prozent zum anthropogenen Treibhauseffekt bei. Etwa 37 Prozent der weltweit anthropogen emittierten Methan-Menge stammen direkt oder indirekt aus der Viehhaltung, der größte Teil davon aus Fermentationsprozessen im Magen von Wiederkäuern. Das heißt übersetzt, dass 7,4 Prozent des anthropogenen Treibhauseffekts auf die Methanemission von Wiederkäuern (also rein die Viehzucht, ohne Transport, der kommt noch dazu!) zurückzuführen ist. Man kann sich also ausrechnen, wie sich das zusätzlich auf den ökologischen Fussabdruck eines Fleischkonsumenten und somit auf unsere Umwelt auswirkt. (Zahlen:  [Wikipedia](http://de.wikipedia.org/wiki/Treibhausgas) )
 
-Fleischesser haben also einen 7,5 x höheren CO<sub>2</sub>-Verbrauch für ihre Ernährung, als Veganer\*innen. Ein ganz schöne Unterschied. Wobei man dazu sagen muss, dass im Schaubild der Methanausstoß noch gar nicht vermerkt ist. Rinder stoßen am Tag bis zu 300 Liter Methan aus. Bei **Methan** handelt es sich um ein Treibhausgas, welches fast 30 mal klimaschädlicher ist, als CO<sub>2</sub>. Es trägt mit rund 20 Prozent zum anthropogenen Treibhauseffekt bei. Etwa 37 Prozent der weltweit anthropogen emittierten Methan-Menge stammen direkt oder indirekt aus der Viehhaltung, der größte Teil davon aus Fermentationsprozessen im Magen von Wiederkäuern. Das heißt übersetzt, dass 7,4 Prozent des anthropogenen Treibhauseffekts auf die Methanemission von Wiederkäuern (also rein die Viehzucht, ohne Transport, der kommt noch dazu!) zurückzuführen ist. Man kann sich also ausrechnen, wie sich das zusätzlich auf den ökologischen Fussabdruck eines Fleischkonsumenten und somit auf unsere Umwelt auswirkt. (Zahlen:  [Wikipedia](http://de.wikipedia.org/wiki/Treibhausgas) )
 
-### Der ökologische Fussabdruck - Die Auswirkungen
+ 
 
-Im Netz gibt es die Seite "Footprint Deutschland", die einen Rechner anbietet, mit dem sich jeder seinen persönlichen Fussabdruck errechnen kann.
-
-Ich habe das für zwei Personen getan. Ich habe die beiden liebevoll  _Omni_ und _Vegani_ getauft.  _Omni_ isst jeden zweiten Tag Fleisch, gelegentlich Fisch und täglich Eier, Milch und Butter. Fleisch und Fisch kauft er in Bioqualität.  _Vegani_ ernährt sich rein pflanzlich, isst kein Fleisch, keinen Fisch, keine Eier und keine Milchprodukte, lebt also ausschließlich vegan und kauft seine Lebensmittel in **Bioqualität** . Ihre Ernährung ist das Einzige, was Omni und Vegani unterscheidet. Ansonsten haben beide den gleichen Lebensstandard.
-
-### Fleischesser und Veganer\*innen im Vergleich
-
-<RemoteImage
-  alt={`ökologischer Fußabdruck`}
-  size="medium"
-  title={` Einfach mal wieder Fahrrad fahren`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fahrrad__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fahrrad__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQECAwQGB//EACoQAAICAQMDAwQCAwAAAAAAAAECAwQRAAUhEhMxBlFxIkFCYRQyofDx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUC/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIhAAMRMUFRBHGhwf/aAAwDAQACEQMRAD8AI7/6kqNuc8F+UzQRzdmN1jRh0Ru/SSG8npIx7Y/eqlzeYpP5m33Ia8KK5FWxFH3O27eZcJnBIJ+QVBPA0a9SbPR3u/f3FoYnSGdo3lsP3Y2lAVXZYwVwVIIPUxB5wOM6xl30lSi3azFZryrDDCrmSnL0N2ycHq6+rxkfrA+3OpTXyQttiSBmOqq27AckiGOANT93r3SbxWt7jZvTXBWr7A6hazrYjMtZv7Ie2CfrZslzjP1AeFGsfvW6XrM0kk0ViV69aOCKOONjGWA6Q3jJABY/JOugbJse3u8zVEElRQvRNeiWZgp/FVGFJIwSWz5UAeTp+9emau436C2q5dXDV456NaKEscZEboeCOlWIYEEFfBzoz5SNcChY9/dUbeNdQHJzjqMd88TPO6rrY3kMOxu06xPlnRhnqJ/Ie2f86J0bstJrBkkszWpwqzvMyMWwOABjheTwPfQppQ8TNnqRT9R/qS3t8DUSTBA5Z2PQvBQfkffP+86ZRz+UzzFF0vSQTNNWnWIyIFMU0OY2A4GMEYPOP2MZ8amr7vfW3DZutWllrlljrxxkKuRgsMnlsZA9sn30KWeNu7gcrGOeotzz9x8ffTbFsISGGO4vUGyBgj/o0LWlJyBNaDELgmK//9k="
-/>
-
-Beide leben in einem Wohnblock mit mehr als vier Wohnungen. Sie haben 80 Quadratmeter Wohnfläche, führen einen 2 Personen Haushalt, heizen mit Erdgas und haben im Winter eine Temperatur von 18 - 20 Grad in ihrer Wohnung. Das Haus, in dem sie wohnen, wurde seit 1995 nicht mehr saniert, sie beziehen beide zertifizierten Ökostrom, haben einen mäßigen Stromverbrauch und benutzen Energiesparlampen. Sie schalten ihre Elektrogeräte nach Gebrauch immer ab, schalten beim Verlassen des Zimmers das Licht aus, sehen ca. zwei Stunden am Tag  fern und haben drei Stunden am Tag ihren Computer eingeschaltet. Ihre Stereoanlage läuft eine Stunde am Tag, sie lassen ihre **Waschmaschine** mehrmals in der Woche laufen, duschen ca. 30-60 Minuten in der Woche und heizen ihr Warmwasser nicht mit Strom.
-
-Sie geben rund 50 - 100 Euro im Monat für Konsumgüter aus, benutzen Recyclingpapier, haben ein "Werbung und Gratiszeitungen nein Danke!"-Schild auf dem Briefkasten kleben und geben im Monat 30-70 Euro für Kosmetikprodukte aus. Beide kaufen sich alle ein bis drei Monate ein neues Kleidungsstück, kaufen keine Secondhand-Kleidung, leeren ihren Müll ein bis zwei mal die Woche, trennen Papier, Plastik, Glas und Kompost und trinken hauptsächlich Leitungswasser und Tee. Sie legen 4.000 km im Jahr mit dem Rad und zu Fuss zurück, 10.000 mit dem Auto und 500 mit dem Zug. Beidie nehmen ein bis zwei Personen mit, wenn sie mit dem Auto fahren, fahren nie Motorrad und legen am Tag unter 25 km mit öffentlichen Verkehrsmitteln zurück.
-
-Und doch haben die beiden völlig unterschiedliche Footprints. Mit tierleidfreier Ernährung lässt sich also durchaus etwas für unsere Umwelt tun.
 
 ### Zwei Personen, ein Lebensstandard - zwei Fußabdrücke, wie sie unterschiedlicher nicht sein könnten.
 
@@ -180,23 +149,8 @@ Bei _Vegani_ , dem Veganer sieht es folgendermaßen aus: "Dein ökologischer Fus
 
 Für beide gilt übrigens der folgende Text, der jedem Teilnehmer im Anschluss an den Test angezeigt wird. "Für deinen Fussabdruck bist du nicht alleine verantwortlich. Deinem Fussabdruck wird auch ein kollektiver Fussabdruck zugeordnet, welcher den **Ressourcenverbrauch** für den Bau nationaler Infrastruktur zusammenfasst (z.B. Straßen, Krankenhäuser, öffentliche Gebäude). Durch den kollektiven Fussabdruck ist es nicht möglich, in Deutschland einen Ressourcenverbrauch zu haben, der unter den fairen 1,9 Hektar liegt. Rund 88,4 kg Fleisch isst der Deutsche durchschnittlich im Jahr."
 
-Was wieder einmal beweist, das ein kollektives Umdenken erfolgen muss und das am besten gestern, wenn wir unsere Natur nicht weiter systematisch zerstören wollen.
-
-### Der durchschnittliche ökologische Fußabdruck in Deutschland
-
-<RemoteImage
-  alt={`Bild: naturschutz-sylt.de`}
-  size="full"
-  title={`Bild: naturschutz-sylt.de`}
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fussabdruck-naturschutz-sylt.png__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fussabdruck-naturschutz-sylt.png__l.jpg"
-  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAIAAAAUMWhjAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFOUlEQVRIiZ1V7U9aVxi/28e9JluTZsmyj82aflqzf2Jf9nlflqXTKl1UioDKy9XZItKuM03aLtXZumyCVrfOtbPNGrtWaMEiAlZQQAUV7gv3IhcQRLwvz3Lu1foyXbqe/PLkOeTm/M7z/J7zA2uhLQamQ0u1NVJterq9gTTWEwY1ZVZT5nrCWE8Y1ZRJTZnqCUMDys0NpKmOMKhJ01kaV5Mm9CONa2i8gTA2kMazlFlHf6shW/VUu4HpaKbPYwbWamSs35At/blhAMhLhXUoF6FUhHU5lkvydg2KJTlXtkUoFYRCnkcoCIWtXChwQg5E6Fn9pY42mFkbIjCxnThrqyX1Q7k/AIBf3xSLFeAB1kXYQJBKPEoqAJsglQURbSWEw9dNbuAM1dyWudCStmCGtMXM2moIrYP7DQDiS9Epnzs2HwqHA/Ox8OxsIBjwxOZDc5Hp0IzP63X6fe5QaCqRiAGAIAoiiC8ggcSjq0EvZ1eRTThrQwQttMXEdFanGgdlgkJhLUNn2XSGy+TTVJpbLcD/WYIoIIJVew2hNTPbLTIztlpSeys/AgCbm5VypSShzwBEACV5ufWiazc4xxkatWiPBgM5VIF3pWPIf7Lfd6zH826v58iNiSO9nvd7Pe8dhCPdT9+65f/0pvft+9764MSs1/1QaV3var+KbEIaMIoGTGcNobNzaIrG43XdHqzb/dr341jXY+ziQ+zi2AH4ToZtDOvzfHBj4s27k18Fn849cY4uJxcB4EfUIh3O2FrQmKa3NHBwtwEgnUnOzLmSy4s0SWRXM1uVS5IctyBJQkXKbkI6vxHnShG2GNyE/O5e9W4TyC3KKBrolBZFqZGxmTp3tM0VMbsieJC86E/adpCy+ZMXvEm8uEGupvjDREYaKGMqa9CBszYVqR/gfgWAxwuqHjd2aRxr/Qtrf4C13sfwexg+iqJ5FMF4B2v9G+sd/uLLzz9bL3PoUKEibg+DAC8IkAYGNKY7LUIEC8yfzljT1NKFZ4vtviWLN3HOGz+Hkvg5f8o6lbT6li3uxUaC8RHL9AEVwK4xVV6yge0wMZ21hG4w9zsAcNnyykKmmIHSKmzkIJ+GNRbSS3yOfrl3oBBwDuWh7RtTVIEzXn/NiXW737jixK66sGtPEK64EK460dgMBU8+HH0wZO9eScyjpyKK/ybY0UCxCoVAadGzFbMj8FGf952ux1jXI4RLcux6hF1+hHWOYfbJ476ngdER+3TgmXzmwQRKBcbdVqEQZLLM0tIsSZB8Zb+dSRKUBVaQ/ss89miwbRV7NGBysdDC3diyM517nitHs6UIwnqUXQuWJWrnIIEXBOFwDexn6Gac3W8VqILxeN3PvqPXPa9bHmAdMpQEv4cNBE7g6rPDjusywcEmtatF+n12rXPIVuFJtPd5Przl/6Tfd8zhO+6Y/BjBd+LmxFFXvGZk8PbUpGu3tuKuJYkSLyp27VCRum273nkH6CVnM2vJBEUt50o5eIUlyZaqWMU+u9YP5JEGvDwVwrbxiHsgVoQKL/ACCAIIymVpmojF5pZWEtFYOBILJ8kVuYJ+pME+ux7O3XmVO/MAG3KsABTR3yoA/MQNKnZtZOQWmRlrA2X4IdMX51cC5dB0OTxdDj+vzCnJYTlKNlAMC9EZPjLDR8JC7Dk/l+CTlzM99ZTRyFgVs+tsps/rqXYNjavS+q9TmqqUppbSn6a0VXKuovXVZGNVSlNNNqpofVVKcwp9oK2RPziVVNdQ2tOE9lRS/XVSraJ11WRjA2FqYSxG1tpEnf8H+30cuwdcL4AAAAAASUVORK5CYII="
-/>
-
-Der deutsche Durchschnittsabdruck beträgt übrigens 5,1 Hektar und setzt sich zusammen aus Wohnen und Energie 25  Prozent, Konsum 18  Prozent, Ernährung 35  Prozent und Verkehr 22 Prozent. Wie man sieht, kann man hier mit veganer Ernährung schon ganz schön was erreichen, natürlich sollte man trotzdem daran denken, bei Kurzstrecken auf's Fahrrad umzusatteln, nicht zu häufig zu duschen, Geräte immer komplett auszuschalten, nicht in den "Stand-by"-Modus und auch mal über eine **Fahrgemeinschaft** mit den Arbeitskollegen nachzudenken.
-
-Die Zahlen, die ich für die Berechnung meines Beispiels genommen habe, sind nicht die einer realen Person, ich habe sie frei gewählt.  Wer sich selbst gerne mal testen möchte, kann dies jederzeit auf der Homepage von "Footprint Deutschland" tun. Einfach [hier](http://www.footprint-deutschland.de/inhalt/berechne-deinen-fussabdruck) klicken. [Hier geht's zu Teil 2 des Artikels](/2014/08/ich-war-so-muede/)
+Was wieder einmal beweist, das ein kollektives Umdenken erfolgen muss und das am besten gestern, wenn wir unsere Natur nicht weiter systematisch zerstören wolle. [Hier geht's zu Teil 2 des Artikels](/2014/08/ich-war-so-muede/)
 
 ## Quellen
 
-[VEBU](https://www.vebu.de), [Der Artgenosse](https://www.facebook.com/artgenosse?fref=ts), Wikipedia, [Footprint Deutschland](http://www.footprint-deutschland.de), [Naturschutz Sylt](http://www.naturschutz-sylt.de)
+[VEBU](https://www.vebu.de), [Der Artgenosse](https://www.facebook.com/artgenosse?fref=ts), [Naturschutz Sylt](http://www.naturschutz-sylt.de)
