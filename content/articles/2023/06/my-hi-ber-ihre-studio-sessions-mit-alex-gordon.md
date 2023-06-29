@@ -5,7 +5,7 @@ typeName: Interview
 title: MY-HI über ihre Studio-Sessions mit Alex Gordon
 subTitle: '"Wir wollen in so vielen Städten wie möglich spielen!"'
 seoTitle: MY-HI im Interview über Studio-Sessions mit Alex Gordon
-description: MY-HI haben mir im Gespräch alles über ihre neuen Songs verraten. Lest jetzt mein Interview
+description: MY-HI haben mir im Gespräch alles über ihre neuen Songs verraten. Lest jetzt mein Interview.
 excerpt: Über Memphia Music lernte ich vor kurzem MY-HI kennen und lieben. Nachdem ich die Brightoner Band in der Mai-Playliste kurz vorgestellt hatte, bot sich jetzt die Gelegenheit für ein lockeres Interview. Was soll ich sagen? Diese Chance habe ich mir natürlich nicht entgehen lassen.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-14/my-hi-band-1-jpg-imagine-080808_272f3a_1024_768/640.webp
 copyrigt: MY-HI
