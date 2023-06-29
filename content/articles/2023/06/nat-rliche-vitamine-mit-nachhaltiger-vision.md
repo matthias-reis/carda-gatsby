@@ -41,7 +41,7 @@ Mit den Tropfen von NatuRise passiert mir das zum Glück gar nicht. Sie schmecke
 
 ## Vitamin B12 von NatuRise
 
-Das [Vitamin B12 von NatuRise](https://t.adcell.com/p/click?promoId=244963&slotId=80259&param0=https%3A%2F%2Fwww.naturise.de%2Fmountain-air=) kommt, genau wie die Eisentropfen, in einer Flasche mit Pipette. Auch hier habe ich nach der Einnahme ein viel angenehmeres Gefühl im Magen, als bei anderen Präparaten.
+Das [Vitamin B12 von NatuRise](https://t.adcell.com/p/click?promoId=244963&slotId=80259&param0=https%3A%2F%2Fwww.naturise.de%2Fmountain-air) kommt, genau wie die Eisentropfen, in einer Flasche mit Pipette. Auch hier habe ich nach der Einnahme ein viel angenehmeres Gefühl im Magen, als bei anderen Präparaten.
 
 Von den Vitamin-B-12-Tropfen nehmt Ihr täglich 3 Tropfen zu Euch und deckt damit die empfohlene Tagesportion von 500 µg vollständig. Auf angereicherte Lebensmittel oder andere Supplemente könnt Ihr im weiteren Tagesverlauf also verzichten.
 
