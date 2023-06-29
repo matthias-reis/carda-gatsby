@@ -82,7 +82,7 @@ Ein Green Start-up aus Stuttgart, das Natürlichkeit und Umweltschutz tief in se
 
 schreibt NatuRise.
 
-"Darum haben wir uns dazu entschieden, etwas zu tun. Mit jedem Produkt, dass unsere Kund⋆innen bei uns kaufen, unterstützen wir eines von vier ausgewählten ökosozialen Projekten.
+> "Darum haben wir uns dazu entschieden, etwas zu tun. Mit jedem Produkt, dass unsere Kund⋆innen bei uns kaufen, unterstützen wir eines von vier ausgewählten ökosozialen Projekten."
 
 ## Nahrungsergänzungsmittel aus natürlichen Zutaten
 
