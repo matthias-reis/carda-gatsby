@@ -29,7 +29,7 @@ language: de
 ---
 **B12 ist ein Vitamin, das nicht nur Veganer⋆innen täglich über Nahrungsergänzungsmittel zu sich nehmen sollten. Es empfiehlt sich außerdem, regelmäßig die Eisenwerte zu checken und genügend Omega 3 zu konsumieren. Das Nützliche dabei mit dem Guten zu verbinden, ist eine schöne Vision – NatuRise verfolgt sie seit seiner Gründung.**
 
-Von NatuRise habe ich hier im Blog bereits das D3 und Omega-3-Öl vorgestellt. Heute möchte ich Euch die Omega-3-Kapseln sowie die Eisen- und Vitamin-B-12-Tropfen zeigen. Alle drei Produkte habe ich im Moment im Einsatz und ich mag sie wirklich sehr gerne.
+Von NatuRise habe ich hier im Blog bereits [das D3 und Omega-3-Öl vorgestellt](/2021/09/omega-3-vitamin-d-naturise/). Heute möchte ich Euch die Omega-3-Kapseln sowie die Eisen- und Vitamin-B-12-Tropfen zeigen. Alle drei Produkte habe ich im Moment im Einsatz und ich mag sie wirklich sehr gerne.
 
 ## Eisentropfen von NatuRise
 
