@@ -51,7 +51,7 @@ loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQF
 
 Silvia und David wollen dem etwas entgegensetzen. Sie möchten gute Produkte liefern, die zu 100 Prozent fair hergestellt werden. Dabei ist es dem Paar besonders wichtig, den Wasserverbrauch so gering wie möglich zu halten, die Artenvielfalt zu schützen und ihren Mitarbeitern faire Arbeitsbedingungen zu bieten.
 
-Bis heute handelt es sich bei den Haselnüssen, die es in Deutschland zu kaufen gibt, fast ausschließlich um Importware. Die weiten Transportwege führen zu einem hohen CO<small>2</small>-Fußabdruck.
+Bis heute handelt es sich bei den Haselnüssen, die es in Deutschland zu kaufen gibt, fast ausschließlich um Importware. Die weiten Transportwege führen zu einem hohen CO<small>2</small>-Ausstoß.
 
 Hinzu kommt, das die herkömmlichen Haselnüsse, wie im Lebensmittelanbau üblich, mit Exkrementen aus der Nutztierhaltung gedüngt werden. Bei Hof Windkind wird ausschließlich mit pflanzlichem Material gedüngt: Gras, Wildkräuter, Laub und Stroh. Gülle, Hornmehl, Blutmehl und ähnliches kommen für Silvia und David nicht infrage. Aus diesem Grund dürfen sie ihre Nüsse auch mit dem Label "bio-vegan" verkaufen.
 

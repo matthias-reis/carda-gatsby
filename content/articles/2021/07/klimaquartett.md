@@ -41,7 +41,7 @@ Das Klimaschutz-Deck besteht aus insgesamt 38 Spielkarten, die in sieben Kategor
 
 ## Das Klimaquartett zeigt Daten und Fakten
 
-Beim Spielen lernt man zum Beispiel, wie groß der CO<sub>2</sub>-Ausstoß für eine Zugfahrt nach Sylt im Vergleich zu dem bei einer Kreuzfahrt ist. Außerdem erfährt man, [wie man seinen ökologischen Fußabdruck berechnet](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) und wie es mit dem Verbrauch von Ressourcen aussieht, wenn man Waren in Übersee bestellt.
+Beim Spielen lernt man zum Beispiel, wie groß der CO<sub>2</sub>-Ausstoß für eine Zugfahrt nach Sylt im Vergleich zu dem bei einer Kreuzfahrt ist. Außerdem erfährt man und wie es mit dem Verbrauch von Ressourcen aussieht, wenn man Waren in Übersee bestellt.
 
 Die sieben Kategorien heißen "Wohnen", "Ernährung", "Transport", "Urlaub", "Hobby", "Strom", und "Konsum". Genau, wie man sein Girokonto in Kategorien unterteilen würde, teilt man beim Spielen die verschiedenen Lebensbereiche auf und bekommt dabei ganz neue Eindrücke geboten.
 

@@ -75,7 +75,7 @@ Damals wurde publik, dass die Kokosnuss-Industrie in Thailand bereits seit 400 J
 
 Das Video von PETA zeigt, wie den Affen auf den Kokosnuss-Farmen die Freiheit genommen wird. Sie können sich nicht frei bewegen und verlieren nach und nach den Verstand. Die in Ketten gelegten Tiere wandern verzweifelt auf dem mit Müll und Fäkalien übersäten Boden im Kreis.
 
-Mit dem Konsum von Kokosnüssen aus Thailand unterstützt man also möglicherweise Grausamkeit gegenüber Affen. Um das zu verhindern, sollte man den Kauf am besten boykottieren. Neben Kokosmilch aus anderen Ländern empfiehlt sich als Alternative beim Kochen, Backen und für den Kaffee zum Beispiel Hafermilch. Sie ist gesund, angenehm im Geschmack und der CO<sub>2</sub>-Fußabdruck ist wesentlich geringer.
+Mit dem Konsum von Kokosnüssen aus Thailand unterstützt man also möglicherweise Grausamkeit gegenüber Affen. Um das zu verhindern, sollte man den Kauf am besten boykottieren. Neben Kokosmilch aus anderen Ländern empfiehlt sich als Alternative beim Kochen, Backen und für den Kaffee zum Beispiel Hafermilch. Sie ist gesund, angenehm im Geschmack und der CO<sub>2</sub>-Verbrauch ist wesentlich geringer.
 
 ## Augen auf bei der Reisebuchung
 

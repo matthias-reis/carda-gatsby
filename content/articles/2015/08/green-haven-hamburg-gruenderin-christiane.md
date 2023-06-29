@@ -113,7 +113,7 @@ Natürlich sind nicht nur Veganer⋆innen unter den Gästen, Neugierige sind jed
 
 **Anne:** Was unterscheidet das Green Haven von anderen Bed &amp; Breakfasts?
 
-**Christiane:** Zum einen haben wir eine sehr persönliche Atmosphäre dadurch, dass wir nur drei Zimmer haben. Da kommt man schnell beim Frühstück ins Gespräch. Zum anderen können Veganer ohne Bedenken, dass tierische Inhaltsstoffe in Essen, Bettdecken, Reinigungsmitteln sind, bei uns unterkommen und hinterlassen mit ihrem Aufenthalt nur einen geringen CO<sub>2</sub>-Fußabdruck.
+**Christiane:** Zum einen haben wir eine sehr persönliche Atmosphäre dadurch, dass wir nur drei Zimmer haben. Da kommt man schnell beim Frühstück ins Gespräch. Zum anderen können Veganer ohne Bedenken, dass tierische Inhaltsstoffe in Essen, Bettdecken, Reinigungsmitteln sind, bei uns unterkommen und verbrauchen mit ihrem Aufenthalt nur wenig CO<sub>2</sub>.
 
 **Anne:** Wie sind die Zimmer ausgestattet?
 

@@ -51,7 +51,7 @@ Er war sofort Feuer und Flamme von meinem Angebot, "Kushel" auf meiner Seite vor
 
 > Wir möchten das erste Carbon-negative Unternehmen der Welt werden!
 
-Klappen soll das, indem für jedes verkaufte [Handtuch](/2013/05/towel-day/) neue Bäume gepflanzt werden. Der [ökologische Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) der gesamten "Kushel" Produktion soll dadurch mehr CO<sub>2</sub> binden, als sie ausstößt.
+Klappen soll das, indem für jedes verkaufte [Handtuch](/2013/05/towel-day/) neue Bäume gepflanzt werden. Die "Kushel" Produktion soll dadurch mehr CO<sub>2</sub> binden, als sie ausstößt.
 
 Um die neuen Handtücher bekannt zu machen, hat Mattias sich die **#treefluencer** ausgedacht. Das sind fleißige Blogger, Vlogger und Bilder-Teiler\*innen, die die "Kushel" Produkte testen um im Anschluss darüber berichten. Und was soll ich sagen? Ich bin stolz dazu zu gehören.
 

@@ -106,13 +106,13 @@ Um das Jahr 2005 haben wir angefangen einen etwas progressiveren, Post-Metal-art
 
 Lass uns mal zu einem komplett anderen Thema kommen. Du hast mir erzählt, dass Du schon länger kein Fleisch mehr isst. Gratulation zu dieser Entscheidung. Was hat Dich überzeugt, keine Tiere mehr zu essen?
 
-## "Die meisten Menschen können etwas tun, um ihren Klima-Fußabdruck zu verkleinern"
+## "Die meisten Menschen können etwas tun, um ihren Klima-Verbrauch zu verringern"
 
 **Jonas:** Also, mir ist das gleich als erstes eingefallen, als wir uns über die Themen unterhalten haben, die wir gemeinsam haben könnten. Deine Seite läuft ja schließlich unter dem Motto "Sounds Vegan"!
 
 Für mich war es eine ganz natürliche Entscheidung, als ich meine Frau vor 18 Jahren kennengelernt habe. Sie hat damals schon kein Fleisch mehr gegessen. Ich lebe nicht komplett vegan, aber ich esse kein Schweinefleisch, Rindfleisch und Huhn. Ich habe mich schon ein bisschen mit dieser Denkweise beschäftigt, also fühlte es sich für mich richtig an.
 
-Wir müssen uns gemeinsam um diesen Planeten kümmern. Wenn jeder etwas dafür "opfern" kann, können wir unsere Chancen deutlich verbessern. Ich bin sicher, dass die meisten Menschen etwas tun können, um ihren Klima-Fußabdruck zu verbessern. Du weißt schon, so etwas wie den Fleischkonsum zumindest an ein oder zwei Tagen in der Woche einzuschränken, an ein paar Tagen das Fahrrad statt dem Auto zu nehmen, um zur Arbeit zu fahren oder andere aktive Entscheidungen zu treffen, um etwas zu verändern. Wir sollten wirklich dafür kämpfen, dass zumindest noch ein paar weitere Generationen die Erde bewohnen können.
+Wir müssen uns gemeinsam um diesen Planeten kümmern. Wenn jeder etwas dafür "opfern" kann, können wir unsere Chancen deutlich verbessern. Ich bin sicher, dass die meisten Menschen etwas tun können, um ihren CO<sub>2</sub>-Verbrauch zu verringern. Du weißt schon, so etwas wie den Fleischkonsum zumindest an ein oder zwei Tagen in der Woche einzuschränken, an ein paar Tagen das Fahrrad statt dem Auto zu nehmen, um zur Arbeit zu fahren oder andere aktive Entscheidungen zu treffen, um etwas zu verändern. Wir sollten wirklich dafür kämpfen, dass zumindest noch ein paar weitere Generationen die Erde bewohnen können.
 
 Ja, ich weiß, dass der große Unterschied auf höherer politischer Ebene gemacht wird. Ich hoffe wirklich, dass bald signifikante Änderungen zum Besseren eintreten werden. Ich fürchte zwar, das wir sowieso am Arsch sind, aber einfach aufzugeben, würde sich noch schlimmer anfühlen.
 

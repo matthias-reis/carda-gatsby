@@ -116,7 +116,7 @@ Besondere Erwähnung finden im neuen veganen Reiseführer die Kultur in Osteurop
 
 ## Ein Roadtrip um die Ecke
 
-Ein Roadtrip durch Deutschland und Österreich? Klingt eigentlich gar nicht so doof, oder? Auf den Spuren großer Architekt⋆innen durch die Hauptstädte und auf denen wilder Tiere durch die Wälder zu ziehen kostet wenige Aufwand, hinterlässt einen wesentlich geringeren Fußabdruck, als Reisen nach Übersee und kann mit Sicherheit genauso spannend sein. Praktische Tipps für die Umsetzung gibt es ab Seite 150.
+Ein Roadtrip durch Deutschland und Österreich? Klingt eigentlich gar nicht so doof, oder? Auf den Spuren großer Architekt⋆innen durch die Hauptstädte und auf denen wilder Tiere durch die Wälder zu ziehen kostet wenige Aufwand, verbraucht weniger CO<sub>2</sub>, als Reisen nach Übersee und kann mit Sicherheit genauso spannend sein. Praktische Tipps für die Umsetzung gibt es ab Seite 150.
 
 Das [Vegan Travel Handbook](http://tidd.ly/b1b6af2a) von Lonely Planet hat insgesamt 169 Seiten. Die Erstausgabe ist im Dezember 2019 erschienen und als E-Book und Printversion erhältlich. Wer jetzt Lust bekommen hat, sich den veganen Lonely Planet mal genauer anzuschauen, kann das einfach [auf der Homepage des Verlages](http://tidd.ly/b1b6af2a) tun.
 

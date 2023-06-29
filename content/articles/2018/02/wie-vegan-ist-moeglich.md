@@ -84,7 +84,7 @@ Dass ganze Landstriche für unsere Tomaten mit Plastikfolie abgedeckt werden?
 Weißt Du, ob für das Auto, das Du Dir für den Urlaub gemietet hast, [Tiere gelitten haben](/2018/01/tierversuche-in-der-autoindustrie/) ?
 
 <RemoteImage
-  alt={`Wir versuchen unseren Fußabdruck so klein wie möglich zu halten`}
+  alt={`Wir versuchen so wenig wie möglich CO2 zu verbrauchen`}
   size="medium"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_32985444933_1b3843f0d5_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_32985444933_1b3843f0d5_z__l.jpg"

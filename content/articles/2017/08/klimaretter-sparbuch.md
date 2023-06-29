@@ -35,7 +35,7 @@ errors: {}
 subTitle: Das Klimaretter-Sparbuch
 ---
 
-**Anja Siegesmund von Bündnis 90/Die Grünen Thüringen stellte am 21. August in Anlehnung an den [ökologischen Fußabdruck](/2017/02/klimaschutz-und-vegane-ernaehrung/) und dem [ökologischen Handabdruck](/2017/08/oekologischer-handabdruck/) etwas ganz Neues vor: Das Klimaretter-Sparbuch.**
+**Anja Siegesmund von Bündnis 90/Die Grünen Thüringen stellte am 21. August das Klimaretter-Sparbuch vor.**
 
 <RemoteImage
   alt={`Klimaretter-Sparbuch`}

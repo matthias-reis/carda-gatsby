@@ -43,7 +43,7 @@ subTitle: Der Menschheit ist die Sicherung durchgebrannt
 
 **Ich erinnere mich noch sehr gut an den [Earth Overshoot Day 2017](/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/). Letztes Jahr fiel der Tag noch auf den 2. August. 2018 ist es bereits einen Tag früher soweit: Die menschliche Nachfrage an natürlichen Ressourcen übersteigt das Angebot und die Kapazität der Erde, diese zu reproduzieren.**
 
-Das jeweilige Datum des jährlichen Earth Overshoot Day (Weltüberlastungstag) rechnet man aus, indem man den globalen [ökologischen Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/), sprich die menschliche Nachfrage an natürlichen Ressourcen, für das betreffende Jahr zur gesamten Biokapazität, also der Menge der tatsächlich in diesem Jahr verfügbaren Ressourcen, in ein Verhältnis setzt.
+Das jeweilige Datum des jährlichen Earth Overshoot Day (Weltüberlastungstag) rechnet man aus, indem man die menschliche Nachfrage an natürlichen Ressourcen, für das betreffende Jahr zur gesamten Biokapazität, also der Menge der tatsächlich in diesem Jahr verfügbaren Ressourcen, in ein Verhältnis setzt.
 
 Multipliziert mit 365, ergibt sich daraus der Tag des Jahres, an dem alle Ressourcen verbraucht sind. Der Kehrwert ergibt die Anzahl an Erden, die wir brauchen würden, um unseren Bedarf zu decken.
 
@@ -59,7 +59,7 @@ Der Earth Overshoot Day wird nicht nur global, sondern auch für jedes Land bere
 
 **Es geht ja schließlich auch nicht, dass wir bis Mai unser komplettes Gehalt ausgeben und den Rest des Jahres auf Pump leben. Oder doch? Vielleicht ist ja genau das unser Problem.**
 
-overshootday.org zufolge machen CO<sub>2</sub>-Emissionen 60 Prozent des Fußabdrucks der Menschheit aus. Sie sind somit der Haupttreiber bei unserem Raubbau. Würden wir es schaffen, unsere Klimagasemissionen um die Hälfte zu verringern, könnten wir damit den Earth Overshoot Day um drei Monate nach hinten verschieben.
+overshootday.org zufolge machen CO<sub>2</sub>-Emissionen 60 Prozent der Klimasünden der Menschheit aus. Sie sind somit der Haupttreiber bei unserem Raubbau. Würden wir es schaffen, unsere Klimagasemissionen um die Hälfte zu verringern, könnten wir damit den Earth Overshoot Day um drei Monate nach hinten verschieben.
 
 ## Schweden macht es besser
 

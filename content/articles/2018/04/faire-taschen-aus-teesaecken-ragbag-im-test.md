@@ -62,7 +62,7 @@ Mir war ziemlich schnell klar, dass mein neues Portemonnaie auch aus dem Hause R
 
 Das Label Ragbag stellt faire Upcycling-Taschen und Accessoires her. Junge, talentierte Designer aus Europa denken sich die Designs aus, die Materialien werden von "Ragpickers" (deutsch: "Lumpensammler") in den Slums von Neu Delhi, Calcutta sowie der Kleinstadt Tamil Nadu in Indien gesammelt. Daher auch der Name.
 
-Die Firmenphilosophie ist klar definiert. Die Arbeiter werden gut behandelt und fair bezahlt. Alle Materialien sind gebraucht und müssen nicht erst hergestellt werden. Das hält den [ökologischen Fußabdruck](/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/) möglichst gering und wirkt dem [Müllproblem](/2017/08/kenia-sagt-plastiktueten-nein-danke/) entgegen.
+Die Firmenphilosophie ist klar definiert. Die Arbeiter werden gut behandelt und fair bezahlt. Alle Materialien sind gebraucht und müssen nicht erst hergestellt werden. Das hält den [CO<small>2</small>-Ausstoß](/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/) möglichst gering und wirkt dem [Müllproblem](/2017/08/kenia-sagt-plastiktueten-nein-danke/) entgegen.
 
 <RemoteImage
   alt={`Ragbag`}

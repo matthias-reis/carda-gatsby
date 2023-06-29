@@ -42,13 +42,7 @@ Mit seinen Worten spricht er alle an. Von uns Verbraucher⋆innen über den Lebe
 
 > "Lebe bewusst und nachhaltig damit sich unsere Erde und das Klima erholen kann."
 
-Was wir täglich zu uns nehmen, wirkt sich auf unseren [persönlichen ökologischen Fußabdruck](/2021/01/oekologischer-fussabdruck-co2-2021/) aus. Je nachhaltiger wir essen, desto kleiner der Abdruck. Klimafreundlich zu essen, bedeutet aber bei weitem nicht, zu verzichten. Ganz im Gegenteil: [Vegane Rezepte](/tag/vegane-rezepte/) können lecker, kalorienreich, gesund, fair, nachhaltig und lokal sein. Wer Ressourcen schonen möchte, muss also nicht in Askese leben. Natürlich kann es schwierig sein, langjährige Gewohnheiten über Bord zu werfen. Wer allerdings nachhaltig isst, kann nicht nur zur Klimarettung beitragen, sondern auch noch was für seine Gesundheit tun und nebenbei bemerkt auch noch [Tiere retten](/tag/vegan/tierrechte/). Das klingt doch nach einem positiven Rundumschlag, oder?
-
-## Ökologischen Fußabdruck berechnen
-
-Wenn Ihr wollt, [könnt Ihr Euren persönlichen ökologischen Fußabdruck ganz einfach mal berechnen](/2017/02/klimaschutz-und-vegane-ernaehrung/). Es ist erstaunlich, was dabei so alles ans Tageslicht befördert wird.
-
-Eine wichtiger Teil des Aktionsprogramms ist die ökologische Bildung. Daher rufen die verschiedensten Bildungseinrichtungen zu einem umweltfreundlichen Miteinander auf. Die Menschen sollen lernen, Ressourcen-sparend zu leben und die Vielfalt der Natur zu respektieren.
+Was wir täglich zu uns nehmen, wirkt sich auf das Klima und die Umwelt aus. Je nachhaltiger wir essen, desto kleiner der Abdruck. Klimafreundlich zu essen, bedeutet aber bei weitem nicht, zu verzichten. Ganz im Gegenteil: [Vegane Rezepte](/tag/vegane-rezepte/) können lecker, kalorienreich, gesund, fair, nachhaltig und lokal sein. Wer Ressourcen schonen möchte, muss also nicht in Askese leben. Natürlich kann es schwierig sein, langjährige Gewohnheiten über Bord zu werfen. Wer allerdings nachhaltig isst, kann nicht nur zur Klimarettung beitragen, sondern auch noch was für seine Gesundheit tun und nebenbei bemerkt auch noch [Tiere retten](/tag/vegan/tierrechte/). Das klingt doch nach einem positiven Rundumschlag, oder?
 
 ## Bildung im Bereich Klimaschutz und Ökologie
 

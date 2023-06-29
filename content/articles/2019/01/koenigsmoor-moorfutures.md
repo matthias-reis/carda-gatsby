@@ -6,7 +6,7 @@ title: Rettung für das Königsmoor
 seoTitle: Rettung für das Königsmoor MoorFutures® - Klimaschutz durch Ausgleich
 ogTitle: Rettung für das Königsmoor - "MoorFutures®" - Klimaschutz durch Ausgleich
 description: Moore spielen eine tragende Rolle im Klimaschutz. Aus diesem Grund wird das Königsmoor renaturiert. Ich erkläre Euch, wie Ihr dabei helfen könnt.
-excerpt: Moore spielen eine tragende Rolle im Klimaschutz. Aus diesem Grund wird das Königsmoor renaturiert. Ich erkläre Euch, wie Ihr die Umweltschützer dabei unterstützen und gleichzeitig Euren Ökologischen Fußabdruck verbessern könnt.
+excerpt: Moore spielen eine tragende Rolle im Klimaschutz. Aus diesem Grund wird das Königsmoor renaturiert. Ich erkläre Euch, wie Ihr die Umweltschützer dabei unterstützen und gleichzeitig Euren CO<sub>2</sub>-Ausstoß verringern könnt.
 fileName: 2019-01---rettung-fuer-das-koenigsmoor.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Moorfrosch__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Moorfrosch__l.jpg
@@ -63,7 +63,7 @@ Schon seit 2014 könnt Ihr so Euren Teil zur Renaturierung des Königsmoors beit
 
 Das klingt ja schon mal gut - und wie funktioniert das jetzt genau? Der Dreck, den ich hinterlassen habe, ist doch schließlich da, oder? Ja, das stimmt – der Ausgleich erfolgt an einer anderen Stelle. Bei [Mooren](/2016/01/wandern-im-hamburger-wittmoor/) handelt es sich um die größten **Kohlenstoffspeicher** der Erde. Darum arbeitet man in Schleswig-Holstein auch bereits seit Ende 2011 mit Hochdruck an ihrer Wiederbelebung.
 
-Klar: Indem man seinen [Ökologischen Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) so klein wie möglich hält und versucht, wo es geht, CO<sub>2</sub> einzusparen, tut man was fürs Klima. Wer die Umwelt schonen möchte, verbringt seinen Sommerurlaub also am besten am Baggersee um die Ecke. Doch auch Menschen, die es in die Ferne zieht, oder die beruflich oft verreisen müssen, können mit Klimaschutz-Projekten wie den "MoorFutures®" einen Ausgleich schaffen.
+Klar: Indem man seinen CO<sub>2</sub>-Verbrauch so gering wie möglich hält und versucht, wo es geht, CO<sub>2</sub> einzusparen, tut man was fürs Klima. Wer die Umwelt schonen möchte, verbringt seinen Sommerurlaub also am besten am Baggersee um die Ecke. Doch auch Menschen, die es in die Ferne zieht, oder die beruflich oft verreisen müssen, können mit Klimaschutz-Projekten wie den "MoorFutures®" einen Ausgleich schaffen.
 
 ## So viel CO<sub>2</sub> erzeugen wir
 
@@ -154,7 +154,7 @@ Seit dem Jahr 2011 renaturiert die Stiftung Naturschutz Schleswig-Holstein das K
 
 "Das ist ein schönes erstes Bild, das sich uns bietet", erzählt sie. "Es zeigt sich uns, dass unsere Maßnahmen fruchten. Im Optimalfall können wir über regelbare Einstauungen die Wasserstandhöhe so anpassen, dass das Wasser um etwa 10 Zentimeter unter der Oberfläche ansteigt. Wir haben dann die maximale Rückhaltung an Treibhausgasen und unser erstes Ziel erreicht."
 
-## Der Ökologische Fußabdruck
+## CO<sub>2</sub>-Verbrauch pro Kopf
 
 <RemoteImage
   alt={`Klimaschutz`}
@@ -167,7 +167,7 @@ Seit dem Jahr 2011 renaturiert die Stiftung Naturschutz Schleswig-Holstein das K
 
 Jeder Bürger der EU verursacht im Durchschnitt CO<sub>2</sub>-Emissionen von rund 11 Tonnen pro Jahr. Studien zur Folge liegt der klimaverträgliche Wert bei 2,7 Tonnen CO<sub>2</sub> pro Person und Jahr. Wie wichtig es ist, unsere Reserven zu schonen und den Klimawandel nicht noch schneller voranzutreiben, sollte jedem von uns so schnell wie möglich bewusst werden. Nicht wenigen Menschen [steht das Wasser schon heute im wörtlichen Sinne bis zum Hals](/2018/10/underwater-hoa/). So, wie wir heute leben, [verbrauchen wir die Ressourcen von 1,7 Erden](/2018/07/earth-overshoot-day-2018/). Das könnt Ihr tun
 
-- Versucht, Euren CO<sub>2</sub> Fußabdruck so klein wie möglich zu halten, indem Ihr [auf tierische Lebensmittel](/2017/02/klimaschutz-und-vegane-ernaehrung/), Flugreisen, Fahrten mit dem Auto sowie Waren mit langen Transportwegen verzichtet.
+- Versucht, so wenig CO<sub>2</sub> wie möglich zu verbrauchen, indem Ihr [auf tierische Lebensmittel](/2017/02/klimaschutz-und-vegane-ernaehrung/), Flugreisen, Fahrten mit dem Auto sowie Waren mit langen Transportwegen verzichtet.
 - Informiert Euch über Ausgleichsmöglichkeiten.
 - Nutzt den Klimarechner des Umweltbundesamtes. Ihr findet ihn online unter [diesem Link](http://uba.co2-rechner.de/de_DE/).
 - Lest Euch zum Thema "MoorFutures®" ein. Ihr findet das Projekt auf [dieser Seite](http://www.moorfutures.de). Verzichtet auf mit Torf angereicherte Blumenerde.
@@ -177,7 +177,5 @@ Jeder Bürger der EU verursacht im Durchschnitt CO<sub>2</sub>-Emissionen von ru
 Ich danke der [Stiftung Naturschutz Schleswig-Holstein](http://www.stiftungsland.de) und der Ausgleichsagentur Schleswig-Holstein für das beeindruckende Engagement und die Informationen, die es mir ermöglicht haben, diesen Artikel zu schreiben.
 
 **Hinweise:** Die Klimawirksamkeit des Königsmoor-Projektes wurde vom TÜV Rheinland gemäß ISO 14064-2 bestätigt. Die Ausgleichsagentur Schleswig-Holstein ist eine 100-prozentige Tochter der Stiftung Naturschutz Schleswig-Holstein.
-
-Wer mehr über den Ökologischen Fußabdruck erfahren möchte und gerne wissen möchte, wie man ihn berechnet und so klein wie möglich halten kann, [findet hier einen interessanten Artikel zum Thema](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/).
 
 **Fotos:** Stiftung Naturschutz Schleswig-Holstein **Motiv im Titel:** Moorfrosch

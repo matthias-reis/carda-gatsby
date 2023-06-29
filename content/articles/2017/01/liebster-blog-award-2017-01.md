@@ -60,7 +60,7 @@ Wie es bei Blogawards so üblich ist, hat Nicole, die genau wie ich stolze Wahl-
 
 **Anne:** Mein Mann und ich leben seit Juni 2014 vegan. Aufgehört Fleisch zu essen habe ich mit 13. Ich fand es irgendwie schon immer befremdlich, andere Lebewesen zu mir zu nehmen. Als mein Mann dann für einen Monat eine vegane Challenge machen wollte, um gesünder zu leben, habe ich einfach mitgemacht. Wir sind danach einfach dabei geblieben. Schon nach ein paar Tagen war uns beiden klar, dass es kein Zurück mehr geben würde. Wir haben uns seit der Umstellung viel mit Umweltschutz und Tierrechten beschäftigt.
 
-Einiges ist uns wie Schuppen von den Augen gefallen. Filme wie [Earthlings](/2020/07/earthlings/) haben uns in unserer Entscheidung bekräftigt. Ich habe dann auch angefangen für mein Blog zu recherchieren, habe unter anderem einen Artikel über den [ökonomischen Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) geschrieben und mich mit der [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/) beschäftigt.
+Einiges ist uns wie Schuppen von den Augen gefallen. Filme wie [Earthlings](/2020/07/earthlings/) haben uns in unserer Entscheidung bekräftigt. Ich habe dann auch angefangen für mein Blog zu recherchieren, habe unter anderem einen Artikel zum Thema "[Soja und Klimaschutz](/2014/07/soja-klimaschutz/)" geschrieben und mich mit der [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/) beschäftigt.
 
 ## Ich habe viel recherchiert
 

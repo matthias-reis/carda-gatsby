@@ -38,7 +38,7 @@ lag der Earth Overshoot Day 2020 durch Corona auf dem 22. August. Es wäre gut g
 
 Von effektivem Klimaschutz oder einem erfolgreichen Kampf gegen den Klimawandel können wir also bei Weitem noch nicht reden. Und das, obwohl die Folgen des Klimawandels immer sichtbarer werden – [auch bei uns](/2021/07/tiere-als-hochwasser-opfer/).
 
-Das Datum des Earth Overshoot Day ermittelt das Global Footprint Network jedes Jahr. Dabei wird auch  ausgerechnet, wie viele Erden wir mit unserem aktuellen Lebenswandel brauchen würden. Der aktuelle globale ökologische Fußabdruck (Ressourcen, die wir Stand heute beanspruchen) wird im Verhältnis der zu Verfügung stehenden Biokapazität mal 365 Tage gerechnet. Am Kehrwert sieht man dann die Anzahl der Erden, die wir benötigen würden, um unseren Bedarf für ein Jahr  zu decken. Im Moment wären das 1,7.
+Das Datum des Earth Overshoot Day ermittelt das Global Footprint Network jedes Jahr. Dabei wird auch  ausgerechnet, wie viele Erden wir mit unserem aktuellen Lebenswandel brauchen würden. Der aktuelle globale Footprint (Ressourcen, die wir Stand heute beanspruchen) wird im Verhältnis der zu Verfügung stehenden Biokapazität mal 365 Tage gerechnet. Am Kehrwert sieht man dann die Anzahl der Erden, die wir benötigen würden, um unseren Bedarf für ein Jahr  zu decken. Im Moment wären das 1,7.
 
 Der Earth Overshoot Day, bei uns auch als "Welterschöpfungstag" bekannt, kommt also jedes Jahr früher. Das ist bereit seit 1987 bekannt. Seit diesem Jahr wird er jedes Jahr ausgerechnet und Wissenschaftler⋆innen und Aktivist⋆innen weisen längst nicht nur an diesem Tag auf den dringenden Handlungsbedarf hin. Dass dieser besteht und dass wir uns keinesfalls schon gebessert haben, beweist ein schockierender Fakt: 1986 lag der Earth Overshoot Day noch auf dem 19. Dezember. Der Handlungsbedarf nimmt nicht ab, weil wir uns selbst in die Tasche lügen. "Autos, die weniger Schadstoffe ausstoßen" bauen, aber dafür jedes Jahr mehr. Strohhalme verbieten, aber die Massentierhaltung immer weiter ausbauen und so weiter und so weiter...
 
@@ -91,8 +91,6 @@ Die Lebensmittel-Herstellung ist ein umweltintensiver Prozess.
 ### Städte
 
 Der Großteil der weltweit produzierten Lebensmittel wird in den Städten konsumiert.
-
-Wenn Ihr wissen wollt, wie viel Ihr persönlich noch tun könnt, könnt Ihr Euch auf der Seite des Global Footprint Network [Euren ökologischen Fußabdruck ausrechnen](https://www.footprintcalculator.org/). Zu diesem Thema [findet Ihr auch hier im Blog jede Menge Infos](/oekologischer-fussabdruck-co2-2021/).
 
 [Move The Date](https://www.overshootday.org/steps-to-movethedate/)
 [Earth Overshoot Day](https://www.overshootday.org/)

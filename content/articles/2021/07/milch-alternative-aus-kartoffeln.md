@@ -35,7 +35,7 @@ Das Lebensmittel Start-up Veg of Lund hat die Milch-Alternative aus Kartoffeln i
 
 Veg of Lund wollen mit ihrem Kartoffeln-Drink dem Ziel näher kommen, mehr Menschen von einem gesunden veganen Lebensstil zu überzeugen. Durch leicht zugängliche und nachhaltige Produkte solle es leichter werden, sich kompromisslos pflanzlich zu ernähren. Das soll der Gesellschaft und in erster Linie natürlich den Tieren und dem Planeten zugutekommen.
 
-Besonderen Wert legt das Unternehmen auf ökologische Nachhaltigkeit und einen möglichst kleinen CO<sub>2</sub>-Fußabdruck. Darum wird besonders auf effektive Landnutzung, einen geringen Wasserverbrauch und niedrigen CO<sub>2</sub>-Ausstoß geachtet.
+Besonderen Wert legt das Unternehmen auf ökologische Nachhaltigkeit und einen möglichst geringen CO<sub>2</sub>-Ausstoß. Darum wird besonders auf effektive Landnutzung, einen geringen Wasserverbrauch und niedrigen CO<sub>2</sub>-Ausstoß geachtet.
 
 Laut Veg of Lund eignen sich Kartoffeln besonders gut für die Herstellung von Milch-Alternativen, weil sie sehr vollwertig, geschmacksneutral und nachhaltig sind. Außerdem gibt es bisher keine bekannten Allergien, wie bei Soja, Nüssen und Weizen. DUG® wurde mit dem World Food Innovation Award für das beste pflanzliche Getränk 2021 ausgezeichnet. Ich bin schon sehr gespannt, wann wir den Kartoffeldrink auch bei uns probieren können. Die Verhandlungen mit diversen europäischen Einzelhandels-Ketten laufen schon. In Schweden gibt es im Moment drei verschiedene Sorten: "Barista", "Original" und "ungesüßt".
 

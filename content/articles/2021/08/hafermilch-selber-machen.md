@@ -37,7 +37,7 @@ Hafermilch hat sich zur beliebtesten Milch-Alternative gemausert. Inzwischen ste
 
 ## Hafer ist gut fürs Klima
 
-Im Gegensatz zu, sagen wir mal Kokosnüssen, besitzt Hafer außerdem einen ziemlich guten ökologischen Fußabdruck. Man kann ihn so gut wie überall anbauen und er ist ziemlich robust. Daher hat der Hafer, der hierzulande in die Hafermilch kommt, auch meistens keinen besonders weiten Transportweg hinter sich. 
+Im Gegensatz zu, sagen wir mal Kokosnüssen, besitzt Hafer außerdem einen ziemlich gute CO<sub>2</sub>-Bilanz. Man kann ihn so gut wie überall anbauen und er ist ziemlich robust. Daher hat der Hafer, der hierzulande in die Hafermilch kommt, auch meistens keinen besonders weiten Transportweg hinter sich. 
 
 Ein weiterer Vorteil ist, dass er ziemlich bekömmlich ist. Er genießt sogar den Ruf, das gesündeste Getreide überhaupt zu sein. So vertragen zum Beispiel viele, die Sojamilch aus gesundheitlichen Gründen nicht trinken können, Hafermilch sehr gut. 
 

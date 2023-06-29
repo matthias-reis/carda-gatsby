@@ -53,7 +53,7 @@ Jaakko Kaminen und sein Team plädieren daher für nachhaltige Forstwirtschaft. 
 
 ![Woodly Kunststoff-Granulat. Bild/picture: Woody Ltd.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/img-20190930-104841557-hdr-jpg-imagine-e8e8e8_b4c1b2_1440_1080/640.webp 'Woodly Kunststoff-Granulat. Bild/picture: Woody Ltd. | small')Der Rohstoff für das Woodly Plastik stammt aus FSC-zertifizierten Wäldern. Sie werden nach ökologischen und ethischen Standards bewirtschaftet. Das Unternehmen hat ein Zertifikat dafür, das garantiert, dass die Produkte zu 40 bis 60 Prozent aus erneuerbaren Rohstoffen hergestellt werden. Das Entwicklungsteam arbeitet laut Woodly daran, den Anteil weiter zu erhöhen.
 
-Rein rechnerisch ist der CO2-Fußabdruck von Woodly Kunststoff kleiner, als der ähnlicher Materialien. Er kann die Kreislaufwirtschaft durch seine Qualität und mechanischen Eigenschaften derzeit bis zu fünf Mal durchlaufen. Er wird also fünf Mal recycelt, ehe er verbrannt wird. Dabei entsteht 70 Prozent weniger fossiles Kohlendioxid, als bei der Verbrennung von herkömmlichen Kunststoffen.
+Rein rechnerisch ist der CO2-Verbrauch von Woodly Kunststoff kleiner, als der ähnlicher Materialien. Er kann die Kreislaufwirtschaft durch seine Qualität und mechanischen Eigenschaften derzeit bis zu fünf Mal durchlaufen. Er wird also fünf Mal recycelt, ehe er verbrannt wird. Dabei entsteht 70 Prozent weniger fossiles Kohlendioxid, als bei der Verbrennung von herkömmlichen Kunststoffen.
 
 ## Bio-Kunststoff im Einsatz
 

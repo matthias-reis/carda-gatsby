@@ -12,7 +12,7 @@ description: Kennt Ihr die Ölfreunde? Der Familienbetrieb liefert leckere kaltg
 excerpt: Kennt Ihr die Ölfreunde? Der Familienbetrieb liefert leckere kaltgepresste
   Öle. Ich habe sie probiert und mir das Start-up mal angeschaut. Gründer Paul ist
   die Qualität besonders wichtig. Er möchte ausschließlich gesunde Produkte ohne Schnickschnack
-  verkaufen. Was ihm außerdem am Herzen liegt, ist der ökologische Fußabdruck.
+  verkaufen. Was ihm außerdem am Herzen liegt, ist die Umwelt
 fileName: 2021-03---die-oelfreunde.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-30-oelfreunde-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-30-oelfreunde-1__l.jpg
@@ -56,7 +56,7 @@ advertisement: true
 
 Ansässig sind die Ölfreunde im Herzen des Naturparks Obere Donau. In der Manufaktur werden regionale Saaten in schonender Verarbeitung und ohne Zusatzstoffe zu hochwertigen Ölen gepresst.
 
-Gründer Paul ist die Qualität besonders wichtig. Er möchte ausschließlich gesunde Produkte ohne Schnickschnack verkaufen. Was ihm außerdem am Herzen liegt, ist der ökologische Fußabdruck. Um ihn so gering wie möglich zu halten, stand für ihn von vornherein fest, dass alle Rohstoffe, die bei den Ölfreunden verarbeitet werden, aus der Region stammen. Außerdem wird nicht nur Öl produziert, sondern auch alle Nebenprodukte möglichst sinnvoll weiterverwendet.
+Gründer Paul ist die Qualität besonders wichtig. Er möchte ausschließlich gesunde Produkte ohne Schnickschnack verkaufen. Was ihm außerdem am Herzen liegt, ist die Umwelt. Um ihn so gering wie möglich zu halten, stand für ihn von vornherein fest, dass alle Rohstoffe, die bei den Ölfreunden verarbeitet werden, aus der Region stammen. Außerdem wird nicht nur Öl produziert, sondern auch alle Nebenprodukte möglichst sinnvoll weiterverwendet.
 
 ## Ölmühle statt Spielkonsole
 

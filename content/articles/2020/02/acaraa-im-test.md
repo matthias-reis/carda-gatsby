@@ -116,7 +116,7 @@ Der Duft der Kerze ist angenehm und kein bisschen aufdringlich, wie das bei Duft
 
 ## Acaraa aus München
 
-Der Acaraa Firmensitz befindet sich in München. Die Gründer⋆innen der jungen Naturkosmetikfirma legen besonderen Wert auf Achtsamkeit, Fairness und Nachhaltigkeit. Unter dem Motto "give yourself a moment" möchten sie ihren Kund⋆innen mit hochwertiger Pflege eine Möglichkeit zur Entschleunigung bieten. Dafür haben sie sich bewusst für Naturkosmetik entschieden. Um mit den Produkten einen möglichst geringen CO² Fußabdruck zu hinterlassen, unterstützen sie unter anderem verschiedene Regenwald-Projekte. Für die Initiative "Unser Wald" von Oro Verde wurden so bereits 3172 Bäume gepflanzt.
+Der Acaraa Firmensitz befindet sich in München. Die Gründer⋆innen der jungen Naturkosmetikfirma legen besonderen Wert auf Achtsamkeit, Fairness und Nachhaltigkeit. Unter dem Motto "give yourself a moment" möchten sie ihren Kund⋆innen mit hochwertiger Pflege eine Möglichkeit zur Entschleunigung bieten. Dafür haben sie sich bewusst für Naturkosmetik entschieden. Um mit den Produkten einen möglichst wenig CO<sub>2</sub> zu verbrauchen, unterstützen sie unter anderem verschiedene Regenwald-Projekte. Für die Initiative "Unser Wald" von Oro Verde wurden so bereits 3172 Bäume gepflanzt.
 
 Die Entwicklung und Herstellung der Acaraa Produkte erfolgt direkt vor Ort in München. Sie wurden von der Vegan Society ausgezeichnet, sind vegan und frei von Silikonen, Parabenen, Mineralölen, synthetischen Konservierungsstoffen, Sulfaten und Tierversuchen. Bei der Verpackung wird auf unnötiges Plastik verzichtet. So wurden meine Öle zum Beispiel in Glasfläschchen geliefert.
 
