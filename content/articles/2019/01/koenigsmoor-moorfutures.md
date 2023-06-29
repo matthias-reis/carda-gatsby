@@ -26,7 +26,6 @@ labels:
   - Klimawandel
   - MoorFutures
   - Moos
-  - ökologischer Fussabdruck
   - Reisebilanz
   - Renaturierung
   - Schleswig-Holstein

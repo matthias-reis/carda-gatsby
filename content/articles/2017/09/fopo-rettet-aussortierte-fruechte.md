@@ -27,7 +27,6 @@ labels:
   - loveuglyfood
   - Mango
   - myfopo
-  - ökologischer Fussabdruck
   - Oliven
   - resteessen
   - save food

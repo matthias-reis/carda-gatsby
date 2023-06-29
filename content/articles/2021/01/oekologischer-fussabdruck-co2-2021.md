@@ -17,7 +17,6 @@ labels:
   - CO2-Ausgleich
   - CO2-Bilanz
   - CO2-Emission
-  - CO2-Fussabdruck
   - Klima- & Umweltschutz
   - Klimaerwärmung
   - Klimakatastrophe

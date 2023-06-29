@@ -21,7 +21,6 @@ labels:
   - Klimaschutz
   - Mathis Wackernagel
   - MoveTheDate
-  - ökologischer Fussabdruck
 focusKeyword: Earth Overshoot Day 2019
 status: publish
 isWerbung: false
