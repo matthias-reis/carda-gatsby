@@ -32,7 +32,7 @@ affiliate: false
 language: en
 languageLink: /2023/06/bear-interview/
 ---
-**It's finally official! BEAR have announced their new album! They are going to release "Vanta" on September 29th. You can already listen to their pre-released Single "Piece" on all music streaming platforms. I'll add it to this interview, so you don't miss it! Yes, you read that right! I had the chance to talk to guitar killer James "Jamie" Falck about the album, the band's plans for the future and the personal trials they had to deal with over the last few years. Please enjoy the read!**
+**It's finally official! BEAR have announced their new album! They are going to release "Vanta" on September 29th. You can already listen to their pre-released Single "Piece" on all music streaming platforms. I'll add it to this interview so you don't miss it! Yes, you read that right! I had the chance to talk to the self-proclaimed "guitar killer" James "Jamie" Falck about the album, the band's plans for the future and the personal trials they had to deal with over the last few years. Please enjoy the read!**
 
 **Anne:** Hi! Thanks so much for taking the time! How are you doing?
 
