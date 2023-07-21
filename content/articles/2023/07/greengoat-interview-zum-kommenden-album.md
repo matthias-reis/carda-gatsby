@@ -87,6 +87,6 @@ languageLink: /2023/07/greengoat-interview-en/
 
 **Greengoat:** Vielen Dank, dass Du uns Deine Zeit geschenkt hast! Es war uns eine große Freude!
 
-#﻿# Greengoat – "The Seed"
+## Greengoat – "The Seed"
 
 <YouTube id="qWbXvhJrkis" />

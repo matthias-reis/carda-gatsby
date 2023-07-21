@@ -85,6 +85,6 @@ languageLink: /2023/07/greengoat-interview/
 
 **Greengoat:** Thank you so much for giving us your time. It was an absolute pleasure!
 
-#﻿# Greengoat – "The Seed"
+## Greengoat – "The Seed"
 
 <YouTube id="qWbXvhJrkis" />
