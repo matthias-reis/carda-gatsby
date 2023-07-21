@@ -10,7 +10,7 @@ description: I talked to Greengoat about their upcoming album and their tour
 excerpt: 'Greengoat are a psychedelic/stoner/doom duo from Madrid whose music I
   recently discovered. Their sound reminds me a lot of the "good old times", but
   it is also quite futuristic. When I added their latest song, "The Seed", to my
-  July playlist, they contacted me, and I asked for an interview. Voilà: here we
+  July playlist, they contacted me, and I asked for an interview. Voilà: Here we
   go!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-07-21/greengoat-interview-soundsvegan-jpg-imagine-080808_6b716b_1024_768/640.webp
 copyrigt: Greengoat
@@ -33,7 +33,7 @@ affiliate: false
 language: en
 languageLink: /2023/07/greengoat-interview/
 ---
-**Greengoat are a psychedelic/stoner duo from Madrid whose music I recently discovered. Their sound reminds me a lot of the "good old times", but it is also quite futuristic. When I added their latest song, "The Seed", to my July playlist, Ruth and Ivan contacted me, and I asked them for an interview. Voilà: here we go!**
+**Greengoat are a psychedelic/stoner duo from Madrid whose music I recently discovered. Their sound reminds me a lot of the "good old times", but it is also quite futuristic. When I added their latest song, "The Seed", to my July playlist, Ruth and Ivan contacted me, and I asked them for an interview. Voilà: Here we go!**
 
 **Anne:** Hi! Thanks so much for taking the time! How are you guys doing today? 
 
@@ -85,6 +85,6 @@ languageLink: /2023/07/greengoat-interview/
 
 **Greengoat:** Thank you so much for giving us your time. It was an absolute pleasure!
 
-## Greengoat – "The Seed"
+#﻿# Greengoat – "The Seed"
 
 <YouTube id="qWbXvhJrkis" />

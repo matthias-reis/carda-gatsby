@@ -13,7 +13,7 @@ excerpt: 'Greengoat sind ein Psychedelic/Stoner/Doom-Duo aus Madrid, das ich vor
   Zeit" und ist zugleich ziemlich futuristisch. Als ich Ihren aktuellen Song
   "The Seed" zu meiner Juli-Playlist hinzugefügt hatte, haben die beiden Kontakt
   mit mir aufgenommen und wir haben uns zu einem Interview verabredet. Voilà:
-  here we go!'
+  Here we go!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-07-21/greengoat-interview-soundsvegan-jpg-imagine-080808_6b716b_1024_768/640.webp
 copyrigt: Greengoat
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-07-21/greengoat-interview-soundsvegan-og-jpg-imagine-080808_6c6f68_1200_628/640.webp
@@ -35,7 +35,7 @@ affiliate: false
 language: de
 languageLink: /2023/07/greengoat-interview-en/
 ---
-**Greengoat sind ein Psychedelic/Stoner-Duo aus Madrid, das ich vor Kurzem kennengelernt habe. Ihr Sound erinnert mich sehr an die "gute alte Zeit" und ist zugleich ziemlich futuristisch. Als ich Ihren aktuellen Song "The Seed" zu meiner Juli-Playlist hinzugefügt hatte, haben Ruth und Ivan Kontakt mit mir aufgenommen und wir haben uns zu einem Interview verabredet. Voilà: here we go!**
+**Greengoat sind ein Psychedelic/Stoner-Duo aus Madrid, das ich vor Kurzem kennengelernt habe. Ihr Sound erinnert mich sehr an die "gute alte Zeit" und ist zugleich ziemlich futuristisch. Als ich Ihren aktuellen Song "The Seed" zu meiner Juli-Playlist hinzugefügt hatte, haben Ruth und Ivan Kontakt mit mir aufgenommen und wir haben uns zu einem Interview verabredet. Voilà: Here we go!**
 
 **Anne:** Hi! Danke, dass Ihr Euch die Zeit nehmt! Wie geht es Euch heute? 
 
@@ -87,6 +87,6 @@ languageLink: /2023/07/greengoat-interview-en/
 
 **Greengoat:** Vielen Dank, dass Du uns Deine Zeit geschenkt hast! Es war uns eine große Freude!
 
-## Greengoat – "The Seed"
+#﻿# Greengoat – "The Seed"
 
 <YouTube id="qWbXvhJrkis" />
