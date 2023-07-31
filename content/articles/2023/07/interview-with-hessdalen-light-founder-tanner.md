@@ -53,7 +53,7 @@ Their album is sitting in the starting box, and the first advanced released song
 
 ## "We are receiving pretty positive feedback"
 
-![Tanner. Bild/Picture: Hessdalen Light](https://storage.googleapis.com/cardamonchai-media/2023-07-31/hessdalen-light-tanner-guitar-jpg-imagine-080808_3f383c_3531_4414/640.webp "Tanner. Bild/Picture: Hessdalen Light")
+![Tanner. Bild/Picture: Hessdalen Light](https://storage.googleapis.com/cardamonchai-media/2023-07-31/hessdalen-light-tanner-guitar-jpg-imagine-080808_3f383c_3531_4414/640.webp "Tanner. Picture: Hessdalen Light")
 
 **Tanner:** Yes, we are incredibly proud of how the single turned out and the largely positive feedback we've received so far. The song has propelled our Spotify numbers from less than 100 monthly listeners to over 700 at one point after our release. We believe this is only the tip of the iceberg as we've started to really hit our groove in songwriting and overall production quality.
 
@@ -89,7 +89,7 @@ Some of our greatest influences musically would be CHON, The Fall of Troy, Enemi
 
 ## "Somewhere between jazz and punkrock"
 
-![Antonio. Bild/Picture: Hessdalen Light](https://storage.googleapis.com/cardamonchai-media/2023-07-31/hessdalen-light-antonio-bass-jpg-imagine-080808_394c3b_3096_3870/640.webp "Antonio. Bild/Picture: Hessdalen Light")
+![Antonio. Bild/Picture: Hessdalen Light](https://storage.googleapis.com/cardamonchai-media/2023-07-31/hessdalen-light-antonio-bass-jpg-imagine-080808_394c3b_3096_3870/640.webp "Antonio. Picture: Hessdalen Light")
 
 **Tanner:** I couldn't agree more! I love the idea of genre-bending and not being pigeonholed into one specific bucket or sound. The whole reason I started this project in my bedroom back in 2015 was because I wanted to just write and play riffs and songs that sounded cool and interesting. For a long time—and even now, to some degree—it was very hard to describe our sound to people because it combines so many elements from so many different corners of the music spectrum. My go-to description is that we sit somewhere in the middle of jazz and punk rock.
 
