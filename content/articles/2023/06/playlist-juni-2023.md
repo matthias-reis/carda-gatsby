@@ -75,7 +75,7 @@ Wenn Ihr meinen Blog schon länger lest, ist Soundkünstler [Zakè](/tag/zake) f
 
 > "Nach dem Tod von **Taylor Hawkins**, den wir immer noch betrauern und niemals vergessen werden, brechen die Foo Fighters jetzt in Richtung Zukunft auf. Album eins nach Taylor hat die Band bereits angekündigt – es erscheint am 2. Juni. Und mit dem wohlbekannten Josh Freese (A Perfect Circle, Nine Inch Nails) konnte man auch schon einen würdigen Ersatzmann für die Tour gewinnen. Die ersten beiden Songs wirken allerdings ebenfalls wie alte Bekannte. Ich denke, auf die Highlights, die bisher jede Foo Fighters Platte mitgebracht hat, müssen wir bis zum Release warten. Als Video habe ich Euch die Rehearsal-Aufnahme mit Josh an den Drums herausgesucht."
 
-<YouTube id="n7j_Tm2U0Nk" />
+<YouTube id="ms6b2w9U_Kg" />
 
 ## Mesarthim – "Type IV" vom Album "Arrival"
 
@@ -91,7 +91,7 @@ Auch Mesarthim sind mit einem neuen Album zurück. Sie setzen auf einen bewegend
 
 ## Hessdalen Light – "Khajiit Has Wares, If You Have Coin" (Vorauskopplung vom kommenden Album)
 
-Tanner Thornton (Gitarre), Zephaniah Stake (Drums) und Antonio Guzman (Bass) brachen 2015 zu ihrer gemeinsamen musikalischen Reise auf. Oder besser gesagt: Tanner startete die Band als Solo-Projekt aus seinem Schlafzimmer, während er nebenbei noch mit seinem Maschinenbau-Studium beschäftigt war. Die kreative Freiheit, die sich ihm der Progressive Rock offenbarte und probierte erst mal allerhand aus, bevor er seine erste EP veröffentlichte. Eine EP später schlossen sich ihm Zephaniah und Antonio an. Was dabei herausgekommen ist, könnt Ihr auf dem Album der drei hören, das bald erscheinen soll. "Khajiit Has Wares, If You Have Coin" ist eine schöne Vorauskopplung, die Lust auf mehr macht! Tanner erzählt dazu:
+Tanner Thornton (Gitarre), Zephaniah Stake (Drums) und Antonio Guzman (Bass) brachen 2015 zu ihrer gemeinsamen musikalischen Reise auf. Oder besser gesagt: Tanner startete die Band als Solo-Projekt aus seinem Schlafzimmer, während er nebenbei noch mit seinem Maschinenbau-Studium beschäftigt war. Die kreative Freiheit, die sich ihm der Progressive Rock offenbarte reizte ihn und so probierte er erst mal allerhand aus, bevor er seine erste EP veröffentlichte. Eine EP später schlossen sich ihm Zephaniah und Antonio an. Was dabei herausgekommen ist, könnt Ihr auf dem Album der drei hören, das bald erscheinen soll. "Khajiit Has Wares, If You Have Coin" ist eine schöne Vorauskopplung, die Lust auf mehr macht! Tanner erzählt dazu:
 
 > "Es ist der vierte Song, den wir für unser kommendes Album geschrieben haben, aber er blieb wirklich bei uns hängen. Wir haben also beschlossen, ihn als eigenständige Single zu priorisieren!"
 
