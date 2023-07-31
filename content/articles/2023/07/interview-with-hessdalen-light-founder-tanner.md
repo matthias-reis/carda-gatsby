@@ -35,7 +35,7 @@ languageLink: /2023/07/hessdalen-light-interview/
 ---
 **When Tanner Thornton started his music project out of his bedroom in his Dallas, Texas apartment in 2015, he dreamed of the band that is now reality for him. Hessdalen Light has since been joined by Zephaniah Stake (drums) and Antonio Guzman (bass). Their musical journey takes the three of them to places that fire the imagination and make their music grow more and more—far beyond the limits of the plans from Tanner's dreams at the beginning.**
 
-When Tanner started the band, the guitarist and sound tinkerer studied mechanical engineering and wanted to take the creative freedom that progressive rock music asked him. Only a short time later, he released his first EP—shortly after that came the second one. Because they liked the project so much, Zephaniah and Antonio joined him a few moments later. The rest is history.
+Initially, the guitarist and sound tinkerer studied mechanical engineering and wanted to take the creative freedom that progressive rock music asked him. Only a short time later, he released his first EP—shortly after that came the second one. Because they liked the project so much, Zephaniah and Antonio joined him a few moments later. The rest is history.
 
 Their album is sitting in the starting box, and the first advanced released song, "Khajiit Has Wares, If You Have Coin", is quite promising. The three found it so catchy that they decided to prioritize it as a standalone single for now—time for an interview with Tanner.
 
