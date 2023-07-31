@@ -40,7 +40,11 @@ Damals studierte der Gitarrist und Soundtüftler Maschinebau und wollte sich die
 
 Das gemeinsame Album steht in der Startbox, die erste Vorauskopplung "Khajiit Has Wares, If You Have Coin" ist vielversprechend. Die drei fanden das Stück so charakteristisch für ihren neuen Stil, dass sie beschlossen, es als eigenständige Single erst mal zu priorisieren. Zeit für ein Interview mit Tanner
 
-**Info:** Falls Ihr Euch das gefragt habt: Als "Hessdalen-Lichter" oder "Lichter von Hessdalen" bezeichnet man das im  Dezember 1981 im Norwegischen Hessdalen dokumentierte Phänomen, das bis in die heutige Zeit immer wieder beobachtet und gefilmt und fotografiert wird. Am Himmel sind dabei Lichter zu sehen, die immer wieder auch als UFOs bezeichnet werden. Googelt das mal, es gibt ein paar interessante Geschichten darüber. 
+---
+
+**Info:** Falls Ihr Euch das gefragt habt: Als "Hessdalen-Lichter" oder "Lichter von Hessdalen" bezeichnet man das im  Dezember 1981 im Norwegischen Hessdalen dokumentierte Phänomen, das bis in die heutige Zeit immer wieder beobachtet und gefilmt und fotografiert wird. Am Himmel sind dabei Lichter zu sehen, die immer wieder auch als UFOs bezeichnet werden. Googelt das mal, es gibt ein paar interessante Geschichten darüber.
+
+---
 
 **Anne:** Hi! Danke, dass Du Dir die Zeit nimmst! Wie geht es Euch im Moment?
 

@@ -39,7 +39,11 @@ When Tanner started the band, the guitarist and sound tinkerer studied mechanica
 
 Their album is sitting in the starting box, and the first advanced released song, "Khajiit Has Wares, If You Have Coin", is quite promising. The three found it so catchy that they decided to prioritize it as a standalone single for now—time for an interview with Tanner.
 
+---
+
 **Info:** In case you've been wondering: "Hessdalen Lights" or "Lights of Hessdalen" is the name of a phenomenon documented in Hessdalen, Norway in December 1981, which has been observed and filmed and photographed regularly up to the present day. Some people call the lights in the sky UFOs. I recommend you google the term at some point—there are a few interesting stories about it out there!
+
+---
 
 **Anne:** Hi! Thanks so much for taking the time! How are you guys doing these days?
 
