@@ -41,7 +41,7 @@ Their album is sitting in the starting box, and the first advanced released song
 
 ---
 
-**Info:** In case you've been wondering: "Hessdalen Lights" or "Lights of Hessdalen" is the name of a phenomenon documented in Hessdalen, Norway in December 1981, which has been observed and filmed and photographed regularly up to the present day. Some people call the lights in the sky UFOs. I recommend you google the term at some point—there are a few interesting stories about it out there!
+**Info:** In case you've been wondering: "Hessdalen Lights" or "Lights of Hessdalen" is the name of a phenomenon documented in Hessdalen, Norway in December 1981, which has been observed, filmed and photographed regularly up to the present day. Some people call the lights in the sky UFOs. I recommend you google the term at some point—there are a few interesting stories about it out there!
 
 ---
 
