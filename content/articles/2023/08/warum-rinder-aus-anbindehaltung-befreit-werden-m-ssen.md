@@ -64,9 +64,11 @@ Aus der Landwirtschaftzählung geht hervor, dass die restlichen Haltungsplätze 
 Die unterschiedlichsten Tierschutzorganisationen sprechen sich seit Jahren gegen Anbindehaltung aus. Dennoch ist sie bis heute weder in Deutschland noch in unseren Nachbarländern verboten. Auch nach verbindlichen Regelungen zur Größe der Anlagen oder Mindestvorgaben zu Auslaufzeiten kann man lange suchen.
 
 2019 gab die bayerische Milchwirtschaft eine in ihren Augen "konkrete, praxistaugliche und nachhaltige" Beschreibung der Kombinationshaltung[^3] heraus. Daraus geht unter anderem Folgendes hervor:
-Rinder sollen an 120 Tage im Jahr Bewegung erhalten (nicht zwingend Weidegang).
-Demzufolge dürfen sie an 245 Tagen im Jahr angebunden sein.
-Bei einem sogenannten "Mehr an Tierwohl"-Stall (das bedeutet zum Beispiel etwas mehr Platz oder eine Haltungsberatung) müssen die Tiere lediglich an 90 Tagen Bewegung erhalten. Dafür dürfen die Landwirt⋆innen sie an 275 Tage im Jahr im Stall halten.
+
+- Rinder sollen an 120 Tage im Jahr Bewegung erhalten (nicht zwingend Weidegang).
+- Demzufolge dürfen sie an 245 Tagen im Jahr angebunden sein.
+- Bei einem sogenannten "Mehr an Tierwohl"-Stall (das bedeutet zum Beispiel etwas mehr Platz oder eine Haltungsberatung) müssen die Tiere lediglich an 90 Tagen Bewegung erhalten. Dafür dürfen die Landwirt⋆innen sie an 275 Tage im Jahr im Stall halten.
+
 Bei der Beschreibung handelt es sich um einen Vorschlag.
 
 ## Wie sieht es mit Kälbern aus?
