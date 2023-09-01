@@ -23,7 +23,7 @@ subTitle: 'Angaben gemäß § 5 TMG:'
 
 ## Adresse
 
-Anne Reis<br /> Wiesenstr.7<br /> 20255 Hamburg
+Anne Reis<br /> Hermann-Balk-Str. 86 a<br /> 22147 Hamburg
 
 ## Kontakt
 
