@@ -53,8 +53,8 @@ Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
 ## Verantwortlicher
 
 Anne Reis  
-Wiesenstraße 7  
-20255 Hamburg  
+Hermann-Balk-Str. 86 a 
+22147 Hamburg  
 Deutschland
 
 E-Mail-Adresse: [info@soundsvegan.com](mailto:info@soundsvegan.com).
