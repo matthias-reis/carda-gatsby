@@ -2,7 +2,7 @@
 date: 2023-09-01T12:24:24.021Z
 slug: animal-equality-times-square-dannys
 typeName: Beitrag
-title: Animal Equality überzeugt eingefleischte Bacon Fans
+title: Animal Equality überzeugt eingefleischte Bacon-Fans
 subTitle: Tierrechts-Video am Times Square
 seoTitle: Animal Equality USA startet starke Kampagne am Times Square
 description: Animal Equality USA startete jetzt eine spektakulären neuen
