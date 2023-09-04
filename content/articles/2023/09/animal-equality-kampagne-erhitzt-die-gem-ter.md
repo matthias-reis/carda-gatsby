@@ -59,4 +59,4 @@ In der Vergangenheit hatte Animal Equality am Times Square auch schon mit einer 
 **Quelle Text und Bild:** [Animal Equality](https://animalequality.de/)
 
 [^1]:[Animal Equality USA – "Times Square Billboard Exposes Denny’s Cruelty Toward Mother Pigs"](https://animalequality.org/news/dennys-time-square-billboard/)
-[^2]:[Animal Equality – "Videokampagne gegen Mc Donald's am Times Square"](https://animalequality.de/neuigkeiten/2018/07/20/videokampagne-gegen-mcdonalds-times-square-new-york/)
+[^2]:[Animal Equality Germany – "Videokampagne gegen Mc Donald's am Times Square"](https://animalequality.de/neuigkeiten/2018/07/20/videokampagne-gegen-mcdonalds-times-square-new-york/)
