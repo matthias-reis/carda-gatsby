@@ -54,8 +54,9 @@ Die Kernbotschaft könnte nicht klarer sein: Tut etwas gegen die Tierquälerei u
 
 Eine beeindruckende Kampagne, die Ihresgleichen sucht, oder? Je mehr es davon gibt und je mehr Menschen aufmerksam werden und sich gegen die Ausbeutung und Folter von Tieren stellen, umso besser!
 
-I﻿n der Vergangenheit hatte Animal Equality auch schon mit einer [Videokampagne gegen Mc Donald's](https://animalequality.de/neuigkeiten/2018/07/20/videokampagne-gegen-mcdonalds-times-square-new-york/) am Times Square für Aufmerksamkeit gesorgt.
+In der Vergangenheit hatte Animal Equality am Times Square auch schon mit einer Videokampagne gegen Mc Donald's[^2] für Aufmerksamkeit gesorgt.
 
-**Q﻿uelle Text und Bild:** [Animal Equality](https://animalequality.de/)
+**Quelle Text und Bild:** [Animal Equality](https://animalequality.de/)
 
 [^1]:[Animal Equality USA – "Times Square Billboard Exposes Denny’s Cruelty Toward Mother Pigs"](https://animalequality.org/news/dennys-time-square-billboard/)
+[^2]:[Animal Equality – "Videokampagne gegen Mc Donald's am Times Square"](https://animalequality.de/neuigkeiten/2018/07/20/videokampagne-gegen-mcdonalds-times-square-new-york/)
