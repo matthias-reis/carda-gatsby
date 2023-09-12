@@ -6,7 +6,7 @@ title: Besra – "Transitions"
 subTitle: '"Change is often painful"'
 seoTitle: Besra – "Transitions" – Post-Metal Review
 description: The upcoming new Besra album, "Transitions" was definitely worth
-  the wait! Read my Review now and please enjoy the pre-released first song,
+  the wait! Read my review now and please enjoy the pre-released first song,
   "Prison without Locks"!
 excerpt: After their debut album "Anhedonia" in 2018, post-metallers Besra
   released several EPs and singles. With "Transitions", they're finally about to
