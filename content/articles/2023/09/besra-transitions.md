@@ -1,10 +1,10 @@
 ---
 date: 2023-09-12T12:57:27.933Z
 slug: besra-transitions
-typeName: Preview
+typeName: Review
 title: Besra – "Transitions"
 subTitle: '"Veränderung ist häufig schmerzhaft"'
-seoTitle: Besra – "Transitions" – Post-Metal Preview
+seoTitle: Besra – "Transitions" – Post-Metal Review
 description: Das Warten auf das neue Besra Album hat sich definitiv gelohnt!
   Lest jetzt alle wichtigen Insights und holt Euch die grandiose Vorauskopplung
   "Prison without Locks"!
@@ -22,10 +22,8 @@ labels:
   - Post-Rock
   - Band
   - Bands
-  - Preview
   - Review
-  - Previews
-  - Preview
+  - Reviews
   - Experimental
   - Heavy Music
 focusKeyword: Besra Transitions
@@ -38,7 +36,7 @@ languageLink: /2023/09/besra-transitions-en/
 
 "Sentinels" ("Wächter") heißt der erste Song auf dem neuen Besra LP. Das emotionale Shouting zieht mich gleich voll rein und ich spüre den starken Wunsch, mir alle sechs Stücke in einem Rutsch anzuhören. In aller Ruhe und mit aufgedrehten Boxen. Live kommt der Track sicher auch ziemlich gut, da bin ich mir sicher.
 
-Und schon bin ich mittendrin. Beziehungsweise: Ihr seid mittendrin. Willkommen in meiner Preview zum am 29. September erscheinenden Besra Album "Transitions". Der Titel passt übrigens unglaublich gut zu dem spektakulären neuesten Werk der Band aus dem finnischen Turku. Es lebt von seinen Veränderungen und dem Spiel mit den Gegensätzen. Und es geht auch um Veränderungen und vor allem auch darum, wie schmerzhaft sie häufig sind. Drummer Ville Kaisla beschreibt das so:
+Und schon bin ich mittendrin. Beziehungsweise: Ihr seid mittendrin. Willkommen in meiner Review zum am 29. September erscheinenden Besra Album "Transitions". Der Titel passt übrigens unglaublich gut zu dem spektakulären neuesten Werk der Band aus dem finnischen Turku. Es lebt von seinen Veränderungen und dem Spiel mit den Gegensätzen. Und es geht auch um Veränderungen und vor allem auch darum, wie schmerzhaft sie häufig sind. Drummer Ville Kaisla beschreibt das so:
 
 > "'Transitions' revolves around confronting the complexities of human behaviour and the tumultuous landscapes we create—both in our social behaviour and to the world around us. Only change is constant. And it is often painful—whether it's about the world situation, human relationships, your daily state of mind, or even our band's musical development."
 > 

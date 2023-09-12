@@ -1,12 +1,12 @@
 ---
 date: 2023-09-12T12:57:26.468Z
 slug: besra-transitions-en
-typeName: Preview
+typeName: Review
 title: Besra – "Transitions"
 subTitle: '"Change is often painful"'
-seoTitle: Besra – "Transitions" – Post-Metal Preview
+seoTitle: Besra – "Transitions" – Post-Metal Review
 description: The upcoming new Besra album, "Transitions" was definitely worth
-  the wait! Read my preview now and please enjoy the pre-released first song,
+  the wait! Read my Review now and please enjoy the pre-released first song,
   "Prison without Locks"!
 excerpt: After their debut album "Anhedonia" in 2018, post-metallers Besra
   released several EPs and singles. With "Transitions", they're finally about to
@@ -21,10 +21,8 @@ labels:
   - Post-Rock
   - Band
   - Bands
-  - Preview
   - Review
-  - Previews
-  - Preview
+  - Reviews
   - Experimental
   - Heavy Music
 focusKeyword: Besra Transitions
@@ -37,7 +35,7 @@ languageLink: /2023/09/besra-transitions/
 
 "Sentinels" is the first song on the upcoming Besra LP. The emotional shouting immediately draws me in, and I feel the urge to listen to all six tracks without a break. Peaceful and all by myself—with the speakers turned up. I'm sure the song is also a great live piece, by the way! So if you get the chance to listen to it in a venue near you— don't miss it!
 
-And I'm already in the middle of it. Or rather, You're in the middle of it. Welcome to my preview of the new Besra album "Transitions", which they plan to release on September 29th. The title appears to fit unbelievably well with the excellent work of the band from Turku, Finland. Its contrasts and changes bring it to life. And it is also about changes, especially how painful they can be. Drummer Ville Kaisla describes it like this:
+And I'm already in the middle of it. Or rather, You're in the middle of it. Welcome to my review of the new Besra album "Transitions", which they plan to release on September 29th. The title appears to fit unbelievably well with the excellent work of the band from Turku, Finland. Its contrasts and changes bring it to life. And it is also about changes, especially how painful they can be. Drummer Ville Kaisla describes it like this:
 
 > "'Transitions' revolves around confronting the complexities of human behaviour and the tumultuous landscapes we create—both in our social behaviour and to the world around us. Only change is constant. And it is often painful—whether it's about the world situation, human relationships, your daily state of mind, or even our band's musical development."
 
@@ -63,7 +61,7 @@ The brave people who survive changes often arrive on the other side with a diffe
 
 The sixth and last track on "Transitions" is a post-music dream come true that I would love to hear in a steamy venue soon. You know, without the complete light show set and any unnecessary gear— just the musicians highly concentrated and absorbed in their masterpiece. Can you imagine the enchanted audience—happily swaying in the feeling of being understood? Understood by this music that carries all the emotions that the changes in our lives bring us. By the way, the middle part of this song is particularly successful, with the keys making a magical appearance, skillfully leading into the beautiful finish of the album.
 
-Emotions, shouting, changes of tempo and mood and skilful playing as well as singing: The new Besra album has it all. If you can't wait for the release after reading my preview—here is a sound sample for you:
+Emotions, shouting, changes of tempo and mood and skilful playing as well as singing: The new Besra album has it all. If you can't wait for the release after reading my review—here is a sound sample for you:
 
 ## Besra - "Prison without Locks"
 
