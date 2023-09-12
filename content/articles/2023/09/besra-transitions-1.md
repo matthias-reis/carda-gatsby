@@ -76,4 +76,4 @@ Emotions, shouting, changes of tempo and mood and skilful playing as well as sin
 - Johannes Nygård – Guitars
 - Pekko Seppälä – Bass
 
-**﻿Picture:** Aleks Talve
+**Picture:** Aleks Talve

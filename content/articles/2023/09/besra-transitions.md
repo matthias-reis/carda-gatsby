@@ -83,4 +83,4 @@ Insgesamt ist beim neuen Besra Album alles mit dabei: Emotionen, Gebrüll, Klang
 - Johannes Nygård – Gitarren
 - Pekko Seppälä – Bass
 
-**﻿Bild/Picture:** Aleks Talve
+**Bild/Picture:** Aleks Talve
