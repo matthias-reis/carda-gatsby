@@ -33,14 +33,6 @@ subTitle: Die Unterschiede
 
 **"Du schreibst über Naturkosmetik, vegane Naturkosmetik und vegane Kosmetik. Hin und wieder geht es auch um Biokosmetik. Ich finde das ziemlich cool. Aber etwas verwirrend finde ich es auch. Kannst Du vielleicht mal genau erklären, wo die Unterschiede liegen?"**
 
-<RemoteImage
-  alt={`vegane Kosmetik`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14149909077_0d3e6f8a10_z__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14149909077_0d3e6f8a10_z__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMFBgcIBP/EACgQAAEEAQQBAwQDAAAAAAAAAAECAwQRBQASITFBBgcTFiJhcSNigf/EABcBAAMBAAAAAAAAAAAAAAAAAAAEBQb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADBBEFIRMxQYH/2gAMAwEAAhEDEQA/AGWFBx8WTEw8aQ+Gnf4UFqRuSxvWCopSB9yq55vjzq8mpLHpyEGYjLJU9XxIKqT0AFKPQFV+yRrKXpHPjH5aJKxqGymE4H3F828CDuBvo1YGtG+q0TsjEMjFy0pZkNNvRXKJIvnoAm646sc8ay/ILZWAV9ynw1dbuVsj8zm3FvIYnojB1YJSWiFIcH9VDz+DqGe6SIUaNih8AaU+642FMpS2CQAq1dc9jjXDAGXk5ZC8stDbIc+YOFSrKQSdqQpIJJJAuq/ekfcibjJ/oQqyQbWpqSgQ3SSk/JZTdjwU7r/A0pgPY9njsOwf2P8AL41Yq2utylMvhNuxceUtpZqyBwr7SRYuj1q0/rOZi/bhqYmPHkPEtxlB8EpKxSS4Akggnur786NGr96K6gMN9zPYrspJU/DIk/7i5stIbSzjUCQoocWllZcUEput6lkgHqhWmvN5+Znm0Ozw0IsVsLaiNJ2tgkgc8kn/AHxxxo0aEorr7VdQfIss6dtz/9k="
-/>
-
 Das wurde ich vor Kurzem gefragt. Und es stimmt: So klar sind die Unterschiede zwischen Naturkosmetik, veganer Naturkosmetik und Biokosmetik wirklich nicht. Sie sind also definitiv eine Erklärung und damit einen Artikel wert. Und voilà: Here we go!
 
 ## Naturkosmetik ist nicht immer vegan!
@@ -171,4 +163,4 @@ Ich halte es für besonders wichtig, dass man Produkte bewusst wählt und achtsa
 
 Lest gerne, [in meiner Rubrik Vegan Beauty weiter](/tag/vegan-2/vegan-beauty/), wenn Ihr einige Brands, die ich Euch mit gutem Gewissen empfehlen kann, kennenlernen möchtet.
 
-Foto "Blumen in Reagenzgläsern": [Rawpixel](https://pixabay.com/de/users/rawpixel-4283981/), Pixabay, Foto Reagenzgläser: CC, Pixabay
+**Foto "Blumen in Reagenzgläsern":** [Rawpixel](https://pixabay.com/de/users/rawpixel-4283981/), Pixabay, Foto Reagenzgläser: CC, Pixabay
