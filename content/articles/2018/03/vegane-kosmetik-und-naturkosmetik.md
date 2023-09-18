@@ -83,14 +83,6 @@ Bei mir im Blog findet Ihr immer wieder Hinweise auf Brands, die ich selbst gern
 
 ## Wie sieht es mit Tierversuchen aus?
 
-<RemoteImage
-  alt={`vegane Kosmetik`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_lab-217043_640__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_lab-217043_640__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIDBAUI/8QAKxAAAgEDAgMGBwAAAAAAAAAAAQIDAAQREiEFMUEGEyJhcYEUIzJCUpHR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAACA//EABkRAAMBAQEAAAAAAAAAAAAAAAABAhExIv/aAAwDAQACEQMRAD8A6E7NJHGt5OkfdgyGJF/FIwEUeuxz51euJXF5aaYg0bk62LY0DGdXLrWTxW8h4XwqW6nXvMPhVQDxEnbJOPc09txEuLWS4IhBPjRTqXSwwpJ5jofemVDr0gs2p8s1ZJ5NaYRNLEDBbcdfSlnI+MhcI/0b7dP7nFPc/LglfA8KM2DyyBWPxm8HC4zeR27XTxRKQinchpEXA/efasTO8OlVnStDeyBd8EedM94WUhkBBIYjPMjlRRS3KDayR793jZGUaWGCM1QvI4rlYhIjFYmVgDI32tqHI55nNFFSlLhN70//2Q=="
-/>
-
 Das schließt nicht aus, dass für die Konzerne oder die Entwicklung der Produkte sowie die Rohstoffe Tierversuche gemacht werden. Diese sind zwar in Deutschland für Kosmetikprodukte seit einiger Zeit verboten, jedoch gibt es auch hier leider Abstufungen. Firmen, die ihre Kosmetik auch in China vertreiben, sind beispielsweise dazu gezwungen, Tierversuche in Auftrag zu geben, da diese dort vorgeschrieben sind.
 
 Eine weitere Stufe ist die sogenannte "Naturnahe Kosmetik". Man kann sie als Zwischenstufe zwischen der herkömmlichen und der Naturkosmetik betrachten. Es werden dabei pflanzliche Wirkstoffe mit synthetischen Inhaltsstoffen aus dem Labor kombiniert. Letztere sind oft Duft- oder Konservierungsstoffe, die nachträglich hinzugefügt werden. Sie wird besonders bei konventionellen Marken immer beliebter. Immer mehr von ihnen nehmen Pflegeserien aus diesem Segment in ihr Sortiment auf.
@@ -103,7 +95,7 @@ Eine weitere Stufe ist die sogenannte "Naturnahe Kosmetik". Man kann sie als Zwi
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_19979356639_6068f2b18b_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_19979356639_6068f2b18b_z__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAKhAAAgIBAwMCBQUAAAAAAAAAAQIDEQQABSEGEjETYSIjMkGhFFFxgfH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBAb/xAAkEQABAwIFBQEAAAAAAAAAAAABAAIRAyExQWGR8BMiUbHh8f/aAAwDAQACEQMRAD8AQ2vY1m2+aXKT0gyd6sigX2qaAq75oe5Pvp7pPbYZsRJMiXEKlmJlZAfmK3gk+Gu/xp/pF5s3CBjSYRKgjUtVg0R4/cdv2+2szuck8O5YyS4mRhCeQx+tILDyGqo9tEm/5oE1rmGl1RxGHDoebrTTeHQx0CSLnLLa82Wx3FNvZjC0eBFF6qvJMWJLccIQDQPPkcc/3rlvVmBLtZzctpwivIyIwLMCfp7vBsjkc++tvhYU+KmTnT5U+KI4qkaRGCSyglSQvjt+HigDyNKb2uLk9O42O3ZipJCssaAMVDgtfFcggnm75vR0JDg0X+figFWkS5h7ZicjHAdlWdC7hlpg7hPHLRDKiqRYAAvnnn6vxprqDqH0snAf9IBK0pZTHMyKjRmgwUcXTEX5F6NGjgdTmqqrZwI8D0FDHmzY8W4Sxn5cZD+m3xdxYgMCT5BsmvfVBPusrE4uW0s0UgVwAVHaSGryp44/zRo0qjclLBnFf//Z"
-/>⋆
+/>
 
 Die großen Konzerne halten ihre Augen offen. Auch sie bekommen mit, dass Bio boomt. Das grüne Image ist ganz groß im Kommen und es zieht ungemein, wenn man mit natürlichen Inhaltsstoffen wirbt.
 
@@ -128,6 +120,14 @@ Das heißt, dass ihnen im Anschluss an die Pressung durch Zufuhr von Hitze Farbe
 Wenn Ihr also wirklich ausschließlich "Natur" auf Eure Haut bringen möchtet, solltet Ihr immer darauf achten, dass alle Inhaltsstoffe so natürlich wie möglich erzeugt wurden. Wem "nur" wichtig ist, dass seine Pflegeprodukte vegan sind, hat es schon etwas leichter.
 
 ## Ist das nicht trotzdem alles Chemie?
+
+<RemoteImage
+  alt={`vegane Kosmetik`}
+  size="medium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_lab-217043_640__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_lab-217043_640__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIDBAUI/8QAKxAAAgEDAgMGBwAAAAAAAAAAAQIDAAQREiEFMUEGEyJhcYEUIzJCUpHR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAACA//EABkRAAMBAQEAAAAAAAAAAAAAAAABAhExIv/aAAwDAQACEQMRAD8A6E7NJHGt5OkfdgyGJF/FIwEUeuxz51euJXF5aaYg0bk62LY0DGdXLrWTxW8h4XwqW6nXvMPhVQDxEnbJOPc09txEuLWS4IhBPjRTqXSwwpJ5jofemVDr0gs2p8s1ZJ5NaYRNLEDBbcdfSlnI+MhcI/0b7dP7nFPc/LglfA8KM2DyyBWPxm8HC4zeR27XTxRKQinchpEXA/efasTO8OlVnStDeyBd8EedM94WUhkBBIYjPMjlRRS3KDayR793jZGUaWGCM1QvI4rlYhIjFYmVgDI32tqHI55nNFFSlLhN70//2Q=="
+/>
 
 Das ist richtig! Auch, wenn es sich um Naturkosmetik handelt, liegt allem natürlich immer eine chemische Verbindung zugrunde. Das gilt auch für Salz (NaCI) oder sogar Wasser (H2O). Wenn also Marken damit werben, dass ihre Produkte "frei von Chemie" sind, ist das nichts anderes, als ein Werbespruch. Fallt da also nicht darauf rein. Chemie ist auch per se nichts Schlechtes. Gebe es sie nicht, würde es weder uns noch diesen Planeten noch sonst irgendetwas in unserem Universum geben. Die Natur besteht demnach aus Chemie und Chemie und Natur sind alles andere als Gegensätze.
 
