@@ -34,6 +34,6 @@ Weitere Infos gebe ich gerne auf Anfrage weiter. Sendet mir am besten einfach ei
 
 [Das komplette Mediakit als PDF zum Download findet Ihr hier](img/2023-04-15-mediakit.pdf).
 
-Stand 12/2019 Sounds Vegan
+Stand 04/2023 Sounds Vegan
 
 Jetzt per [E-Mail](mailto:info@soundsvegan.com)  kontaktieren.
