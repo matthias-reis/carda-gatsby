@@ -13,13 +13,13 @@ export const PageMeta: React.FC<{
   React.useEffect(() => {
     pageView(meta.frontmatter.title, path);
   }, [meta, path]);
-  let w = 1200;
-  let h = 630;
-  let ogImage = `/img/opengraph.png`;
+  let w = 1440;
+  let h = 756;
+  let ogImage = `/img/opengraph.jpg`;
 
   if (meta.frontmatter.ogImage) {
     const img = new Imagine(meta.frontmatter.ogImage);
-    ogImage = img.getUrl(`1200.png`);
+    ogImage = img.getUrl(`1440.jpg`);
     w = img.meta.width;
     h = img.meta.height;
   }
