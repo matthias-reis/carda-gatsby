@@ -1,5 +1,14 @@
-import { Article, LibraryAdd, Image } from '@mui/icons-material';
 import {
+  Article,
+  LibraryAdd,
+  Image,
+  Visibility,
+  Terminal,
+  KeyboardDoubleArrowLeft,
+  KeyboardDoubleArrowRight,
+} from '@mui/icons-material';
+import {
+  Divider,
   List,
   ListItem,
   ListItemButton,
@@ -9,36 +18,53 @@ import {
   Tooltip,
 } from '@mui/material';
 import { FC } from 'react';
-import { RouteVariant, useRoute } from './logic/route';
+import { LeftRoute, RightRoute, useRoute } from './logic/route';
 import { Logo } from './Logo';
 
-const items: Item[] = [
+const leftItems: Item[] = [
   {
     name: 'Neuer Beitrag',
     icon: LibraryAdd,
-    handler: () => console.log(1),
+    route: 'new',
   },
   {
     name: 'Editieren',
     icon: Article,
-    handler: (setter) => setter('editor'),
+    route: 'editor',
+  },
+];
+
+const rightItems: Item[] = [
+  {
+    name: 'Neuer Beitrag',
+    icon: Visibility,
+    route: 'viewer',
   },
   {
     name: 'Medienmanager',
     icon: Image,
-    handler: (setter) => setter('media'),
+    route: 'media',
+  },
+  {
+    name: 'protokoll',
+    icon: Terminal,
+    route: 'protocol',
   },
 ];
 
 export const Navigation: FC = () => {
-  const { setRoute } = useRoute();
+  const { setLeftRoute, setRightRoute } = useRoute();
 
   return (
     <Paper elevation={1} sx={{ height: '100vh' }}>
       <Stack alignItems="center" sx={{ mt: 2 }}>
         <Logo width={48} height={48} />
-        <List sx={{ mt: 6 }}>
-          {items.map((item) => {
+        <List sx={{ mt: 4 }}>
+          <Divider sx={{ my: 2 }} />
+          <ListItem>
+            <KeyboardDoubleArrowLeft sx={{ opacity: 0.5 }} />
+          </ListItem>
+          {leftItems.map((item) => {
             const Icon = item.icon;
             return (
               <ListItem
@@ -52,7 +78,46 @@ export const Navigation: FC = () => {
                 <Tooltip title={item.name}>
                   <ListItemButton
                     onClick={() => {
-                      item.handler(setRoute);
+                      setLeftRoute(item.route as LeftRoute);
+                    }}
+                    sx={{
+                      margin: 0,
+                      width: '56px',
+                      justifyContent: 'center',
+                    }}
+                  >
+                    <ListItemIcon
+                      sx={{
+                        justifyContent: 'center',
+                      }}
+                    >
+                      <Icon />
+                    </ListItemIcon>
+                  </ListItemButton>
+                </Tooltip>
+              </ListItem>
+            );
+          })}
+          <Divider sx={{ my: 2 }} />
+
+          <ListItem>
+            <KeyboardDoubleArrowRight sx={{ opacity: 0.5 }} />
+          </ListItem>
+          {rightItems.map((item) => {
+            const Icon = item.icon;
+            return (
+              <ListItem
+                disablePadding
+                sx={{
+                  display: 'block',
+                  mt: 2,
+                }}
+                key={item.name}
+              >
+                <Tooltip title={item.name}>
+                  <ListItemButton
+                    onClick={() => {
+                      setRightRoute(item.route as RightRoute);
                     }}
                     sx={{
                       margin: 0,
@@ -81,5 +146,5 @@ export const Navigation: FC = () => {
 type Item = {
   name: string;
   icon: FC;
-  handler: (setter: (value: RouteVariant) => void) => void;
+  route: LeftRoute | RightRoute;
 };

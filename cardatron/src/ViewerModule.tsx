@@ -2,11 +2,11 @@ import { KeyboardDoubleArrowLeft } from '@mui/icons-material';
 import { AppBar, Box, IconButton, TextField, Toolbar } from '@mui/material';
 import { FC, useEffect, useCallback, useRef } from 'react';
 import { useEditor } from './logic/editor';
-import { useViewerLocation } from './logic/viewer';
+import { useViewer } from './logic/viewer';
 
-export const EditorModuleViewer: FC = () => {
+export const ViewerModule: FC = () => {
   const previewEl = useRef<HTMLIFrameElement>(null);
-  const { isEditable, path, url, setPath } = useViewerLocation();
+  const { isEditable, path, url, setPath } = useViewer();
 
   const handleMessage = useCallback(
     (ev: MessageEvent<string>) => {

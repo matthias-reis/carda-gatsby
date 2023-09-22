@@ -63,8 +63,7 @@ const createFileContent = (article: Article) => {
   const { isDirty, body, ...frontmatter } = article;
 
   const content = `---
-${stringify(frontmatter)}
----
+${stringify(frontmatter)}---
 
 ${body}
 `;

@@ -46,6 +46,7 @@
     "prettier": "^2.8.4",
     "react-simple-code-editor": "^0.13.1",
     "remark-parse": "^10.0.1",
+    "simple-git": "^3.19.0",
     "yaml": "^2.2.1"
   }
 }
