@@ -5,16 +5,10 @@ typeName: Review
 title: Kollapse – "Sult"
 subTitle: Sludge/Post-Metal Sound From Denmark
 seoTitle: Kollapse – "Sult" – Sludge/Post-Metal sound from Denmark
-description: Kollapse are back. Four years after their debut album "Angst", the
-  sludge/post-metal group from Aalborg, Danmark will release their second
-  record, "Sult", this Friday.
-excerpt: Kollapse are back. Four years after their debut album "Angst", the
-  sludge/post-metal group from Aalborg, Danmark will release their second
-  record, "Sult", this Friday. Because I had the honour to listen to the album
-  already, I'll try to summarise my impressions a bit here for you. Maybe this
-  article will develop into a music tip at one point. But let's see.
+description: Kollapse are back. Four years after their debut album "Angst", the sludge/post-metal group from Aalborg, Danmark will release their second record, "Sult", this Friday.
+excerpt: Kollapse are back. Four years after their debut album "Angst", the sludge/post-metal group from Aalborg, Danmark will release their second record, "Sult", this Friday. Because I had the honour to listen to the album already, I'll try to summarise my impressions a bit here for you. Maybe this article will develop into a music tip at one point. But let's see.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-jpg-imagine-f8f8f8_7c7c7c_1024_768/640.webp
-copyrigt: Kollapse
+copyright: Kollapse
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-fb-jpg-imagine-686868_686462_1200_628/640.webp
 labels:
   - Danmark
@@ -68,7 +62,7 @@ The second song, "Knæler", seems almost more powerful than its predecessor and 
 
 ## An aggressive dance
 
-![Kollapse](https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-2-jpg-imagine-080808_56575b_1024_768/640.webp "Kollapse")
+![Kollapse](https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-2-jpg-imagine-080808_56575b_1024_768/640.webp 'Kollapse')
 
 "Libido" pulls the listeners into a swirling maelstrom – the drumming is wonderfully precise, beautiful tempo changes transform the song into an aggressive dance.
 

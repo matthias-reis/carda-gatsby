@@ -5,16 +5,10 @@ typeName: Interview
 title: Bank Myna Sängerin Maud
 subTitle: '"Vor uns liegen spannende Zeiten!"'
 seoTitle: Bank Myna Interview – Post-Rock aus Paris
-description: Bank Myna Sängerin Maud erzählte mir im Interview, dass sie mit
-  Ihrer Band an neuer Musik arbeitet. Erfahre jetzt die spektakulären Details!
-excerpt: Bank Myna Sängerin Maud kontaktierte mich vor Kurzem und fragte nach
-  einem Interview. So kam ich auch zum ersten Mal mit der Musik ihrer Band in
-  Kontakt. Die Songs klingen für mich ein bisschen, als würde ich nach Hause
-  kommen. Oder an einen Ort, den ich über einen langen Zeitraum vermisst habe.
-  Als ob etwas, das eine ganze Weile getrennt war, jetzt wieder ganz und an
-  seinem Platz ist.
+description: Bank Myna Sängerin Maud erzählte mir im Interview, dass sie mit Ihrer Band an neuer Musik arbeitet. Erfahre jetzt die spektakulären Details!
+excerpt: Bank Myna Sängerin Maud kontaktierte mich vor Kurzem und fragte nach einem Interview. So kam ich auch zum ersten Mal mit der Musik ihrer Band in Kontakt. Die Songs klingen für mich ein bisschen, als würde ich nach Hause kommen. Oder an einen Ort, den ich über einen langen Zeitraum vermisst habe. Als ob etwas, das eine ganze Weile getrennt war, jetzt wieder ganz und an seinem Platz ist.
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-jpeg-imagine-080808_111717_1200_919/640.webp
-copyrigt: Bank Myna
+copyright: Bank Myna
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-og-jpg-imagine-080808_101616_1200_628/640.webp
 labels:
   - Bank Myna
@@ -32,6 +26,7 @@ affiliate: false
 language: de
 languageLink: /2022/12/bank-myna-interview-en/
 ---
+
 **Bank Myna Sängerin Maud kontaktierte mich vor Kurzem und fragte nach einem Interview. So kam ich auch zum ersten Mal mit der Musik ihrer Band in Kontakt. Die Songs klingen für mich ein bisschen, als würde ich nach Hause kommen. Oder an einen Ort, den ich über einen langen Zeitraum vermisst habe. Als ob etwas, das eine ganze Weile getrennt war, jetzt wieder ganz und an seinem Platz ist.**
 
 Die Veröffentlichung der neuesten Platte des Pariser Projekts, "Volaverunt", war ein voller Erfolg: Die haptische Version war bereits nach wenigen Tagen ausverkauft – aus gutem Grund. Mit ihrer Musik haben Bank Myna ein einzigartiges Universum geschaffen, in sich eine düstere Post-Rock Welt mit Drones, Klangexperimenten und doomigen Einflüssen auf eine sehr natürliche und harmonische Art zu etwas vollkommen Neuem verbinden.
@@ -40,15 +35,15 @@ Mauds wunderschöne Stimme klingt mystisch und verleiht den dröhnenden Klanglan
 
 ## "Wir arbeiten an neuem Material"
 
-**Anne:** Hallo, Maud! Vielen Dank, dass Du mich in die Welt von Bank Myna eingeladen hast. Ich liebe Eure Musik! Sie ist so vielschichtig und kraftvoll! 
+**Anne:** Hallo, Maud! Vielen Dank, dass Du mich in die Welt von Bank Myna eingeladen hast. Ich liebe Eure Musik! Sie ist so vielschichtig und kraftvoll!
 
 Wie geht es dir heute?
 
 **Maud:** Danke für Deine Worte! Mir geht es ziemlich gut! Wir hatten heute unsere letzte Probe für 2022 mit der Band, und es war herzerwärmend. Wir hatten ein heftiges und volles Jahr mit der Veröffentlichung unseres Albums und vielen Shows. Außerdem arbeiten wir endlich an neuem Material mit unserem nicht mehr ganz so neuen Schlagzeuger, und wir haben viel Großes vor! Danke, dass Du gefragt hast!
 
-**Anne:** Euer aktuelles Album ist großartig. Ich höre es mir sehr gerne an. Ihr müsst mit dem Ergebnis Eurer Arbeit sehr zufrieden sein, oder? 
+**Anne:** Euer aktuelles Album ist großartig. Ich höre es mir sehr gerne an. Ihr müsst mit dem Ergebnis Eurer Arbeit sehr zufrieden sein, oder?
 
-![Bank Myna – "Volaverunt"](https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-1-jpeg-imagine-180808_494139_700_700/640.webp "Bank Myna – \\\"Volaverunt\\\"")
+![Bank Myna – "Volaverunt"](https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-1-jpeg-imagine-180808_494139_700_700/640.webp 'Bank Myna – "Volaverunt"')
 
 **Maud:** Es ist eigentlich nicht Teil unserer DNA, zu prahlen. Aber ja, wir sind stolz darauf, und zwar vor allem deshalb, weil es das Ergebnis einer komplizierten und komplexen Zeit für uns ist. Unser ehemaliger Schlagzeuger hatte die Band gerade verlassen, wir hatten keine rhythmische Basis mehr und waren ziemlich verloren. Dieses Album ist ein Erfolg, weil wir drei weiterhin neue Sounds und Tracks geschrieben und produziert haben. Es war eine echte Herausforderung und fühlte sich irgendwie wie eine "Wiedergeburt" an.
 
@@ -76,11 +71,11 @@ Das Label bereitet auch eine streng limitierte, gedrechselte Vinyl-Edition vor, 
 
 **Anne:** Gibt es noch andere Gelegenheiten, bei denen wir Euch derzeit live auf der Bühne sehen können?
 
-**Maud:** In der Tat, ja! Schon bald! Wir werden am 26. und 27. Januar in Brüssel und in Zottegem (in der Nähe von Gent) auf die Bühne gehen – wieder mit den großartigen Rook! Außerdem planen wir ein paar Auftritte im Mai 2023 in Westfrankreich, und das war's dann mit unserer ausgedehnten "Volaverunt"-Tour! 
+**Maud:** In der Tat, ja! Schon bald! Wir werden am 26. und 27. Januar in Brüssel und in Zottegem (in der Nähe von Gent) auf die Bühne gehen – wieder mit den großartigen Rook! Außerdem planen wir ein paar Auftritte im Mai 2023 in Westfrankreich, und das war's dann mit unserer ausgedehnten "Volaverunt"-Tour!
 
 **Anne:** Wolltet Ihr schon immer doomige und düstere Post-Musik machen?
 
-**Maud:** Am Anfang wollten wir an einer Kreuzung zwischen Sigur Rós, Beach House und Warpaint stehen, also würde ich das nicht sagen. Was wir schreiben, spiegelt das wider, was uns gerade inspiriert. Für uns drei/vier gibt es keine⋆n "Hauptkomponist⋆in" innerhalb der Band. Wir schreiben alle gemeinsam. Es gab also nie eine klare Bewegung in Richtung düstere Musik, obwohl sie uns beeinflusst hat, als wir "Volaverunt" aufgenommen haben. Wir befanden uns auch in einer einzigartigen und düsteren Zeit, als COVID-19 unser Zuhause und unser Leben heimsuchte. 
+**Maud:** Am Anfang wollten wir an einer Kreuzung zwischen Sigur Rós, Beach House und Warpaint stehen, also würde ich das nicht sagen. Was wir schreiben, spiegelt das wider, was uns gerade inspiriert. Für uns drei/vier gibt es keine⋆n "Hauptkomponist⋆in" innerhalb der Band. Wir schreiben alle gemeinsam. Es gab also nie eine klare Bewegung in Richtung düstere Musik, obwohl sie uns beeinflusst hat, als wir "Volaverunt" aufgenommen haben. Wir befanden uns auch in einer einzigartigen und düsteren Zeit, als COVID-19 unser Zuhause und unser Leben heimsuchte.
 
 **Anne:** Wenn es eine⋆n Musiker⋆in gäbe, den⋆die Du Dir aussuchen könntest, um mit ihm⋆ihr einige Songs zu produzieren. Wer wäre es, und warum?
 
@@ -98,7 +93,7 @@ Das Label bereitet auch eine streng limitierte, gedrechselte Vinyl-Edition vor, 
 
 **Anne:** Ich glaube, es gibt heutzutage eine Menge großartiger Post-Musik aus Paris. Wie würdest Du als Bürgerin der Stadt die Musikszene dort beschreiben? Ist sie in den letzten Jahren noch lebendiger geworden?
 
-**Maud:** Es ist tatsächlich eine recht lebendige Szene, aber gleichzeitig auch relativ klein. Man sieht oft die gleichen Gesichter bei den Konzerten (was sehr bemerkenswert ist). Es ist viel los, und das schon seit einigen Jahren. Es gibt sogar ein unglaubliches Post-Festival namens "Post in Paris", das ich wärmstens empfehlen kann! 
+**Maud:** Es ist tatsächlich eine recht lebendige Szene, aber gleichzeitig auch relativ klein. Man sieht oft die gleichen Gesichter bei den Konzerten (was sehr bemerkenswert ist). Es ist viel los, und das schon seit einigen Jahren. Es gibt sogar ein unglaubliches Post-Festival namens "Post in Paris", das ich wärmstens empfehlen kann!
 
 Zu den Post-Paris-Bands, die ich mag, gehören: Nordkapp (sie haben eines meiner Lieblingsalben von 2021 veröffentlicht!), Echo says echo (sie haben ein großartiges Album namens "Pause" veröffentlicht, ich kann es kaum erwarten, was als nächstes kommt!), Frise Lumière (experimentelle und minimalistische Bassgitarre), When waves collide (erstklassig!). Lost in Kiev haben auch gerade ein tolles Album veröffentlicht. Und der Favoriten meiner Favoriten, sind Oiseaux-Tempête !
 

@@ -5,12 +5,9 @@ typeName: Review
 title: Shy, Low – "Snake Behind The Sun"
 subTitle: '"Plötzlich begann ein verrückter Wettlauf"'
 seoTitle: Shy, Low – "Snake Behind The Sun" – Post-Metal Review
-description: Fans von Bands wie pg.lost, Thrice, Cult Of Luna und Russian
-  Circles sollten jetzt weiterlesen. Am 8. Oktober erscheint ein Album, dass Ihr
-  Euch mal anhören solltet. "Snake Behind The Sun" von der unter Pelagic
-  gesignten Band Shy, Low hat es echt in sich.
+description: Fans von Bands wie pg.lost, Thrice, Cult Of Luna und Russian Circles sollten jetzt weiterlesen. Am 8. Oktober erscheint ein Album, dass Ihr Euch mal anhören solltet. "Snake Behind The Sun" von der unter Pelagic gesignten Band Shy, Low hat es echt in sich.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-jpg-imagine-080818_3c362b_1024_768/640.webp
-copyrigt: Shy, Low
+copyright: Shy, Low
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-fb-jpg-imagine-080818_312e28_1200_628/640.webp
 labels:
   - Post-Rock
@@ -47,7 +44,7 @@ Das Album ist stark und brachial und lebt vom ausgefeilten Songwriting der vier.
 
 Dass die Platte so gut geworden ist, schreibt Gitarrist Zak Bryant auch der wohlüberlegten und umfangreichen Vorproduktion zu. Gegenüber Pelagic erzählte er:
 
-> "Wir haben das komplette Album daheim aufgenommen, bevor wir ins Studio gegangen sind und einige der Songs mehrfach überarbeitet haben. Erst dann waren sie für uns fertig komponiert. 
+> "Wir haben das komplette Album daheim aufgenommen, bevor wir ins Studio gegangen sind und einige der Songs mehrfach überarbeitet haben. Erst dann waren sie für uns fertig komponiert.
 
 In diesem Moment kam Producer und Sound Engineer Mike Watts (The Dillinger Escape Plan, Hopesfall, Tides of Man, GlassJaw) ins Spiel:
 
@@ -55,13 +52,13 @@ In diesem Moment kam Producer und Sound Engineer Mike Watts (The Dillinger Escap
 
 ## Instrumental-Musik vom Feinsten
 
-![Shy, Low](https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-1-jpg-imagine-181818_000000_768_1024/640.webp "Shy, Low")
+![Shy, Low](https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-1-jpg-imagine-181818_000000_768_1024/640.webp 'Shy, Low')
 
 Der legendäre Schlagzeugraum der Vudu Studios und die Handarbeit von Schlagzeuger Dylan Partridge, der zu diesem Zeitpunkt noch gar kein festes Bandmitglied war, taten dann ihr Übriges. Zak berichtete weiter:
 
 > "Drei Wochen lang im Studio zu sitzen und sich auf das Album zu konzentrieren, war super. Für uns war es komplett neu, auf diese Art zu arbeiten. Wir hatten zum ersten Mal die Möglichkeit, unsere Songs gemeinsam mit einem Producer fein abzustimmen und mit den verschiedensten Instrumenten zu experimentieren, zu denen wir bis dahin gar keinen Zugang hatten."
 
-Für Shy, Low ist "Snake Behind The Sun" eine Metapher für die Vorstellung, dass Dunkelheit und Negativität selbst unter scheinbar positiven Kräften und einem positiven Wesen im Leben eines Menschen verborgen bleiben können. Und es kroch tatsächlich eine Schlange hinter der Sonne hervor, als die Band  im Studio war. Bassist Drew Storcks erzählte:
+Für Shy, Low ist "Snake Behind The Sun" eine Metapher für die Vorstellung, dass Dunkelheit und Negativität selbst unter scheinbar positiven Kräften und einem positiven Wesen im Leben eines Menschen verborgen bleiben können. Und es kroch tatsächlich eine Schlange hinter der Sonne hervor, als die Band im Studio war. Bassist Drew Storcks erzählte:
 
 > "In der dritten Woche wurde bekannt, dass der Bundesstaat New York wegen des rapiden Anstiegs an COVID-Infektionen einen kompletten Lockdown ausrufen wollte. Wir hatten plötzlich also nur noch einen Tag, um unsere Aufnahmen zu beenden. Plötzlich hatte ein verrückter Wettlauf begonnen."
 

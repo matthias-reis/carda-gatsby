@@ -5,16 +5,12 @@ typeName: Beitrag
 title: Pferdeblut in der Pharmaindustrie
 subTitle: Die grausame Realität auf den Blutfarmen
 seoTitle: Die grausame Realität auf den Blutfarmen – Pferdeblut als Ware
-description: Das Geschäft mit Pferdeblut ist grausam. Das passiert wirklich auf
-  den Blutfarmen und so könnten sie gestoppt werden.
-excerpt: Tierrechtsaktivist⋆innen berichten immer wieder von Pferdeblutfarmen in
-  Ländern wie Uruguay und Argentinien. Dort werden trächtige Pferde grausam
-  gequält, um an ihr Blut zu kommen. Doch die wenigsten wissen, was auf den
-  Farmen genau passiert.
+description: Das Geschäft mit Pferdeblut ist grausam. Das passiert wirklich auf den Blutfarmen und so könnten sie gestoppt werden.
+excerpt: Tierrechtsaktivist⋆innen berichten immer wieder von Pferdeblutfarmen in Ländern wie Uruguay und Argentinien. Dort werden trächtige Pferde grausam gequält, um an ihr Blut zu kommen. Doch die wenigsten wissen, was auf den Farmen genau passiert.
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-22/blutfarmen-fb-jpg-imagine-c83828_d14d49_1200_628/640.webp
 templateKey: article
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/listeria-monocytogenes-columbia-horse-blood-agar-detail-jpg-imagine-e81818_d13e3a_1440_1080/640.webp
-copyrigt: Wikimedia Commons
+copyright: Wikimedia Commons
 focusKeyword: Blutfarmen
 type: Standard
 labels:
@@ -31,6 +27,7 @@ labels:
   - Massentierhaltung
   - Schweinezucht
 ---
+
 **Tierrechtsaktivist⋆innen berichten immer wieder von Pferdeblutfarmen in Ländern wie Uruguay und Argentinien. Dort werden trächtige Pferde grausam gequält, um an ihr Blut zu kommen. Doch die wenigsten wissen, was auf den Farmen genau passiert.**
 
 ---
@@ -45,7 +42,7 @@ In einer zehnminütigen Prozedur wird den Stuten Blut entnommen. Ein Mensch stec
 
 Bereits 2015 filmte das Team der Tierrechtsorganisation Animal Welfare Foundation[^1] auf einer argentinischen Pferdeblutfarm über fünf Stunden lang eine komplette Blutentnahmesequenz. Mehreren der 350 Stuten wird während der Misshandlungen mit Holzprügeln ins Gesicht geschlagen. Allein Animal Welfare besitzt rund 30 Minuten Filmmaterial, die ausschließlich derartige Prügel-Szenen zeigen. Die Pferde werden verprügelt, um sie nach dem Abzapfen ihres Blutes wieder zu vertreiben.
 
-## Tierausbeutung auf Blutfarmen 
+## Tierausbeutung auf Blutfarmen
 
 Als weltmarktführendes Unternehmen für den Export von Pferdeblut-Produkten gilt die Firma Syntex. Sie hält zu diesem Zweck tausende von Stuten. Sie werden so häufig wie möglich befruchtet, denn nur, wenn sie schwanger sind, kann ihnen das wertvolle Blutserum abgezapft werden, aus dem anschließend das PMSG extrahiert wird.
 
@@ -75,14 +72,14 @@ Laut AWF werden den tragenden Pferden 12 Tage lang Blut pro Woche rund zehn Lite
 
 Ein kleiner Erfolg ließ sich zumindest zwischendurch in Europa verzeichnen. Neben AWD berichtete auch der Tierschutzbund Zürich[^2] 2015 über die Blutfarmen. Einige europäische Pharmafirmen, die große Zuchtanlagen mit Pferdehormonen belieferten, stoppten daraufhin den Import aus Südamerika. Syntex versucht es jedoch weiterhin, den Markt zu erobern.
 
-Nachdem das Thema 2015 und erneut 2018 durch die Presse gegangen war, firmierte das Unternehmen mit seinen PMSG-Produkten kurzerhand  um und gründete unter dem Namen Syn Vet-Pharma eine neue Firma mit Sitz in Irland. Das Zulassungsverfahren zur erneuten Belieferung der EU-Länder ist derzeit in vollem Gange. Irland, Deutschland, Frankreich und Spanien haben ihre Genehmigungen bereits erteilt.
+Nachdem das Thema 2015 und erneut 2018 durch die Presse gegangen war, firmierte das Unternehmen mit seinen PMSG-Produkten kurzerhand um und gründete unter dem Namen Syn Vet-Pharma eine neue Firma mit Sitz in Irland. Das Zulassungsverfahren zur erneuten Belieferung der EU-Länder ist derzeit in vollem Gange. Irland, Deutschland, Frankreich und Spanien haben ihre Genehmigungen bereits erteilt.
 
 ## Die grausame Pferdeblut-Industrie sucht sich neue Wege
 
 Ein Zusammenschluss aus 14 Tierrechtsorganisationen hat sich mit der Eurogroup for Animals zusammengetan, um die EU-Kommission von einem endgültigen Pferdeblut-Bann[^3] zu überzeugen. In einem Statement der Organisationen heißt es:
 
-> "Aus der heutigen Perspektive, ist PMSG ein Mittel mit der Ideologie aus den 1980er Jahren. Man hat das Hormon damals dazu eingesetzt, die Bevölkerung mit billigem Schweinefleisch zu versorgen. 
-> 
+> "Aus der heutigen Perspektive, ist PMSG ein Mittel mit der Ideologie aus den 1980er Jahren. Man hat das Hormon damals dazu eingesetzt, die Bevölkerung mit billigem Schweinefleisch zu versorgen.
+>
 > Heute sind die massiven, negativen Effekte der Massentierhaltung im Hinblick auf das Wohl der Tiere, die menschliche Gesundheit, das Klima und die Umwelt den meisten Menschen bewusst. PMSG ist ein Booster für eine fehlgeleitete Landwirtschaftspolitik. Ein Ban von PMSG würde der Logik des europäischen Green Deal und seiner Farm to Fork Strategie folgen."
 
 Anfang des Jahres geriet auch Island als Betreiber von 119 Blutfarmen ins Visier der Aktivist⋆innen. Sie forderten das Land dazu auf, die grausame Tierquälerei zu beenden, bei der dort jedes Jahr mehr als 5.000 halb wild lebende Pferde ausgebeutet werden. Das Europäische Parlament unterstützte die Forderungen nach einem Verbot und die Petition an die EU-Kommission.
@@ -93,15 +90,12 @@ Die EU hatte bereits den routinemäßigen Einsatz von Antibiotika verboten, um e
 
 Das EU Parlament forderte die Kommission nun dazu auf, den Import und die Produktion von PMSG in der EU zu stoppen. Sabrina Gurtner von der Animal Welfare Foundation hat jedoch nur wenig Hoffnung.
 
-> "Wie so oft scheitert der Wille des EU-Parlaments an der Untätigkeit der EU-Kommission", 
+> "Wie so oft scheitert der Wille des EU-Parlaments an der Untätigkeit der EU-Kommission",
 
 sagt sie.
 
 [^1]: [Blutfarm Syntax, Argentinien – "Wie hinter Mauern das Geschäft weiter läuft" – Animal Welfare Foundation, YouTube](https://www.youtube.com/watch?v=NkAxxxeF3YE)
-
 [^2]: [Tierschutzbund Zürich – "Hormon aus Pferdeblut für die Schweinezucht"](https://www.tierschutzbund.de/information/hintergrund/landwirtschaft/pferdeblut-fuer-die-schweinezucht/)
-
 [^3]: [Eurogroup for Animals – "Cruel hormone production in South America for European animal breeding farms"](https://www.eurogroupforanimals.org/news/cruel-hormone-production-south-america-european-animal-breeding-farms)
 
 **Bilder:** Wikimedia Commons
-

@@ -114,6 +114,7 @@ export const query = graphql`
         affiliate
         ogImage
         image
+        copyright
       }
       id
       timeToRead
@@ -136,6 +137,7 @@ export const query = graphql`
           language
           languageLink
           image
+          copyright
         }
       }
     }

@@ -5,15 +5,10 @@ typeName: Review
 title: Lilium Sova – "Tunnel du soir"
 subTitle: Ein neues Musik-Genre
 seoTitle: Lilium Sova – "Tunnel du soir" – Post-Music Review
-description: Das Genfer Post-Noise/Jazz/Avant/Post-Hardcore Projekt Lilium Sova
-  hat seine neue EP "Tunnel du soir" veröffentlicht. Fans komplexer Sounds
-  sollten es nicht verpassen.
-excerpt: 2006 fanden sich in Genf die Mitglieder des
-  Post-Noise/Jazz/Avant/Post-Hardcore Kollektivs Lilium Sova. Die
-  Sound-Alchemisten haben jetzt ihre neue EP "Tunnel du soir" vorgestellt, die
-  Ihr nicht verpassen solltet.
+description: Das Genfer Post-Noise/Jazz/Avant/Post-Hardcore Projekt Lilium Sova hat seine neue EP "Tunnel du soir" veröffentlicht. Fans komplexer Sounds sollten es nicht verpassen.
+excerpt: 2006 fanden sich in Genf die Mitglieder des Post-Noise/Jazz/Avant/Post-Hardcore Kollektivs Lilium Sova. Die Sound-Alchemisten haben jetzt ihre neue EP "Tunnel du soir" vorgestellt, die Ihr nicht verpassen solltet.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-12/lilium-sova-jpg-imagine-787878_000000_1024_768/640.webp
-copyrigt: Lilium Sova
+copyright: Lilium Sova
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-12/lilium-sova-fb-jpg-imagine-080808_000000_1200_628/640.webp
 labels:
   - Lilium Sova
@@ -33,6 +28,7 @@ affiliate: false
 language: de
 languageLink: /2022/05/lilium-sova-tunnel-du-soir-en/
 ---
+
 **2006 fanden sich in Genf die Mitglieder des Post-Noise/Jazz/Avant/Post-Hardcore Kollektivs Lilium Sova. Die Sound-Alchemisten haben jetzt ihre neue EP "Tunnel du soir" vorgestellt, die Ihr nicht verpassen solltet.**
 
 Cold Smoke Records hat das Werk, das wohl das einzige seiner Art ist, exklusiv aufgelegt. Die Schweizer feiern mit "Tunnel du soir" nicht nur ihr 15 (+1) Jubiläum. Man könnte auch behaupten, sie haben mit ihrer aktuellen Platte ein komplett neues Genre erschaffen, das jeden Rahmen sprengt.
@@ -49,4 +45,12 @@ Das soundgewaltige Experiment ist ganz klar aufgegangen und wird uns sicher noch
 
 Musik für Fans von Bands wie Primus, [The Ocean](/2020/09/the-ocean-robin-staps-interview/), Tool und [Thot](/2021/04/thot-interview).
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3670180105/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://liliumsova.bandcamp.com/album/tunnel-du-soir">Tunnel du soir by Lilium Sova</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3670180105/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://liliumsova.bandcamp.com/album/tunnel-du-soir">
+    Tunnel du soir by Lilium Sova
+  </a>
+</iframe>

@@ -5,16 +5,10 @@ typeName: Beitrag
 title: El Green Mall stellt sich vor
 subTitle: Green Marketplace gegründet
 seoTitle: El Green Mall – der neue Green Marketplace
-description: El Green Mall ist ein neuer Green Marketplace aus Berlin mit vielen
-  veganen Marken. Lest jetzt alles über das Eco-Start-up!
-excerpt: El Green Mall ist ein Green Marketplace – eine Shopping-Plattform, die
-  öko-soziale Produkte von zahlreichen europäischen Brands anbietet. Ein
-  nachhaltiger, digitaler Marktplatz mit vielen veganen Produkten und einer
-  klimafreundlichen Vision –  Weil mich das sehr neugierig gemacht hat, habe ich
-  mich mit Mitgründern Federica Moreno Casañas über ihr grünes Start-up
-  unterhalten.
+description: El Green Mall ist ein neuer Green Marketplace aus Berlin mit vielen veganen Marken. Lest jetzt alles über das Eco-Start-up!
+excerpt: El Green Mall ist ein Green Marketplace – eine Shopping-Plattform, die öko-soziale Produkte von zahlreichen europäischen Brands anbietet. Ein nachhaltiger, digitaler Marktplatz mit vielen veganen Produkten und einer klimafreundlichen Vision –  Weil mich das sehr neugierig gemacht hat, habe ich mich mit Mitgründern Federica Moreno Casañas über ihr grünes Start-up unterhalten.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-21/federica-el-green-mall-jpeg-imagine-d8d8d8_a2a3a1_1024_768/640.webp
-copyrigt: "El Green Mall, "
+copyright: 'El Green Mall, '
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-21/el-green-mall-og-jpeg-imagine-d8d8d8_a6a8a6_1200_630/640.webp
 labels:
   - Start-up
@@ -26,7 +20,8 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**El Green Mall ist ein Green Marketplace – eine Shopping-Plattform, die öko-soziale Produkte von zahlreichen europäischen Brands anbietet. Ein nachhaltiger, digitaler Marktplatz mit vielen veganen Produkten und einer klimafreundlichen Vision –  Weil mich das sehr neugierig gemacht hat, habe ich mich mit Mitgründern Federica Moreno Casañas über ihr grünes Start-up unterhalten.**
+
+**El Green Mall ist ein Green Marketplace – eine Shopping-Plattform, die öko-soziale Produkte von zahlreichen europäischen Brands anbietet. Ein nachhaltiger, digitaler Marktplatz mit vielen veganen Produkten und einer klimafreundlichen Vision – Weil mich das sehr neugierig gemacht hat, habe ich mich mit Mitgründern Federica Moreno Casañas über ihr grünes Start-up unterhalten.**
 
 In unserem Gespräch kurz nach dem Launch des Portals am 14. Juni in Berlin erzählte mir Federica:
 
@@ -84,10 +79,9 @@ Federica Moreno Casañas wuchs in Venezuela auf und wollte sich von klein auf so
 
 Irgendwann traf sie in der Spreestadt auf Ignacio "Nacho" García. Die beiden fanden schnell heraus, dass sie mit ihren Ideen auf einer Wellenlänge schwammen und Ihr gemeinsames Projekt nahm schnell Formen an.
 
-Nacho interessiert sich schon seit er denken kann für Technologie und Computersysteme. Schon während seiner frühen Kindheit in Uruguay wusste er, dass er eines Tages beruflich damit zu tun haben würde. Er studierte Systemadministration
-und Sicherheitstechnik und nachdem er in einigen 9-to-5-Jobs gearbeitet hatte, beschloss er zu kündigen, die Welt zu erkunden  und ein Jahr in Neuseeland zu verbringen.
+Nacho interessiert sich schon seit er denken kann für Technologie und Computersysteme. Schon während seiner frühen Kindheit in Uruguay wusste er, dass er eines Tages beruflich damit zu tun haben würde. Er studierte Systemadministration und Sicherheitstechnik und nachdem er in einigen 9-to-5-Jobs gearbeitet hatte, beschloss er zu kündigen, die Welt zu erkunden und ein Jahr in Neuseeland zu verbringen.
 
-Das finale Highlight seiner Reise war für ihn seine heutige Homebase Berlin. Er wusste sofort, dass die Stadt der Ort für ihn war, um seine Karriere weiter voranzubringen. Für Federica ist er der kühle Kopf hinter El Green Mal, der die Ideen des Duos zum Leben erweckt. 
+Das finale Highlight seiner Reise war für ihn seine heutige Homebase Berlin. Er wusste sofort, dass die Stadt der Ort für ihn war, um seine Karriere weiter voranzubringen. Für Federica ist er der kühle Kopf hinter El Green Mal, der die Ideen des Duos zum Leben erweckt.
 
 <YouTube id="vtcupi2wV94" />
 

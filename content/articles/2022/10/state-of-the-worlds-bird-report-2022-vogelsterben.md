@@ -5,14 +5,10 @@ typeName: Beitrag
 title: State of the World's Birds Report 2022
 subTitle: Fast die Hälfte aller Vogelarten nimmt ab
 seoTitle: Vogelsterben besorgniserregend
-description: "Der State of the World's Birds Report 2022 zeigt: Fast die Hälfte
-  aller Vogelarten weltweit werden immer weniger. Das Vogelsterben ist
-  besorgniserregend."
-excerpt: Fast die Hälfte aller Vogelarten weltweit werden immer weniger. Das
-  geht aus dem Vogelreport der Naturschutzorganisation BirdLife International
-  für das Jahr 2022 hervor. Naturschützer⋆innen beobachten den Trend mit Sorge.
+description: "Der State of the World's Birds Report 2022 zeigt: Fast die Hälfte aller Vogelarten weltweit werden immer weniger. Das Vogelsterben ist besorgniserregend."
+excerpt: Fast die Hälfte aller Vogelarten weltweit werden immer weniger. Das geht aus dem Vogelreport der Naturschutzorganisation BirdLife International für das Jahr 2022 hervor. Naturschützer⋆innen beobachten den Trend mit Sorge.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-10/basstoelpel-jpg-imagine-a8a898_95918b_2048_1536/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-10/basstoelpel-fb-jpeg-imagine-a8a898_97948f_1200_628/640.webp
 labels:
   - Vogelsterben
@@ -30,6 +26,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Fast die Hälfte aller Vogelarten weltweit werden immer weniger. Das geht aus dem Vogelreport der Naturschutzorganisation BirdLife International für das Jahr 2022 hervor. Naturschützer⋆innen beobachten den Trend mit Sorge.**
 
 Bei 49 Prozent aller Vogelarten vermindert sich die Population zunehmend, berichtet BirdLife International (BLI). Die NGO veröffentlicht alle vier Jahre einen neuen Bericht. Beim State of the World's Birds Report 2022[^1] handelt es sich um die fünfte bisher erschiene Ausgabe.
@@ -40,9 +37,9 @@ Die Daten zeichnen ein zutiefst besorgniserregendes Bild – neben der Tatsache,
 
 ## Die Vögel zeigen uns, was wir für die Natur tun müssen
 
-Schuld daran ist, wie so oft, unser unbedachtes Handeln beziehungsweise: die gnadenlose Zerstörung und Ausbeutung der Natur. Während die Herausforderungen an den Natur- und Tierschutz stetig weiter wachsen, wird die Zeit immer knapper. 
+Schuld daran ist, wie so oft, unser unbedachtes Handeln beziehungsweise: die gnadenlose Zerstörung und Ausbeutung der Natur. Während die Herausforderungen an den Natur- und Tierschutz stetig weiter wachsen, wird die Zeit immer knapper.
 
-Die kommenden Jahre bezeichnet BirdLife International als "das kritische Jahrzehnt", in dem sich entscheiden wird, ob wir die sechste Welle des Artensterbens  noch verhindern sollen. Einigen Forschenden zufolge befindet sie sich bereits in vollem Gange.
+Die kommenden Jahre bezeichnet BirdLife International als "das kritische Jahrzehnt", in dem sich entscheiden wird, ob wir die sechste Welle des Artensterbens noch verhindern sollen. Einigen Forschenden zufolge befindet sie sich bereits in vollem Gange.
 
 Ein Lichtblick könnte sein, dass die Vögel den Forschenden auch sagen, welche konkreten Maßnahmen erforderlich sind, der Natur bei der nötigen Regeneration zu helfen. Durch sie sehen sie auch, dass Naturschutzmaßnahmen funktionieren.
 
@@ -57,7 +54,5 @@ Das Post-2020 Global Biodiversity Framework[^2], bei dem sich die UN-Staaten gem
 [Den kompletten State of the World's Birds Report 2022 könnt Ihr auf der Seite des herunterladen (englisch, französisch oder spanisch)](https://www.birdlife.org/papers-reports/state-of-the-worlds-birds-2022/).
 
 [^1]: [State of the World's Birds Report 2022](https://www.birdlife.org/papers-reports/state-of-the-worlds-birds-2022/)
-
 [^2]: [Post-2020 Global Biodiversity Framework](https://unctad.org/topic/trade-and-environment/biotrade/Post-2020-framework)
-
 [^3]: [Vogelgrippe Tagesschau](https://www.tagesschau.de/ausland/europa/europa-vogelgrippe-epidemie-101.html)

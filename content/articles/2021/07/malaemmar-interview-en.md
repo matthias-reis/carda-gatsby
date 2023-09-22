@@ -7,7 +7,7 @@ subTitle: '"We Want To Play Slow, Doom And Dark"'
 seoTitle: Interview With Malämmar – "We Want To Play Slow, Doom And Dark"
 description: 'Today, I have a huge post-music sensation for you: After mentioning their current album "Mazza", which I deeply adore and keep on listening to from day one on, Malämmar agreed to an interview! I talked to founder Xavi Forné (you may also know him as the person behind Error! Design).'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-1-jpg-imagine-282828_987967_1024_768/640.webp
-copyrigt: Sergio Albert
+copyright: Sergio Albert
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/mala-mmar-fb-jpg-imagine-282828_8a6a59_1200_628/640.webp
 labels:
   - Malämmar

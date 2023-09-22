@@ -5,11 +5,9 @@ typeName: Review
 title: '"What Shall We Do Now?"'
 subTitle: Thot veröffentlichen Pink Floyd Cover
 seoTitle: '"What Shall We Do Now?" – Thot veröffentlichen Pink Floyd Cover'
-description: Thot zählen die legendären Pink Floyd klar zu ihren Vorbildern.
-  Jetzt hat sich das Post-Music Kollektiv aus Belgien an eine Neu-Interpretation
-  von "What Shall We Do Now" rangetraut und dabei alles richtig gemacht.
+description: Thot zählen die legendären Pink Floyd klar zu ihren Vorbildern. Jetzt hat sich das Post-Music Kollektiv aus Belgien an eine Neu-Interpretation von "What Shall We Do Now" rangetraut und dabei alles richtig gemacht.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-what-should-we-do-now-jpg-imagine-181818_5d615e_1024_768/640.webp
-copyrigt: Thot
+copyright: Thot
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-what-should-we-do-now-fb-png-imagine-181818_535754_1200_628/640.webp
 labels:
   - Post-Music
@@ -40,7 +38,7 @@ schrieb mir Thot-Gründer Grégoire. Was ich anschließend zu hören bekam, lie�
 
 ## "What Shall We Do Now" – 4:20 die es in sich haben
 
-![Thot – "What Shall We Do Now?"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-what-should-we-do-now-jpeg-imagine-183858_253d56_700_700/640.webp "Thot – \"What Shall We Do Now?\"")
+![Thot – "What Shall We Do Now?"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-what-should-we-do-now-jpeg-imagine-183858_253d56_700_700/640.webp 'Thot – "What Shall We Do Now?"')
 
 Die 4:20 lohnt es sich also definitiv anzuhören. Das könnt Ihr auch ab heute tun. Was mir persönlich besonders gut gefällt, sind die Industrial-Noten, die Thot dem Stück hinzugefügt haben. Sie heben den Track in das Jahr 2021 und rufen gleichzeitig die bunte Vielfalt einer vergangenen Ära ins Gedächtnis. Einzig Grégoires Stimme erinnert mich an die Pink Floyd Variante – er hat seinem Idol David Gilmour ein Denkmal gesetzt, das vor Respekt und Würde nur so strahlt.
 

@@ -5,15 +5,10 @@ typeName: Interview
 title: Stryfe im Interview
 subTitle: Unsere Release-Show haben wir im Whiskey A Go Go gespielt
 seoTitle: Stryfe – "Cursed Theatre" – Metal Interview
-description: Stryfe aus L. A. werden in einem Satz mit Bands wie Tool, System Of
-  A Down oder Karnivool genannt. Jetzt Interview lesen.
-excerpt: Stryfe beschreiben sich selbst als Metal-Band mit lebendigen Sound,
-  geprägt von Heavy Rock Akzenten mit einschmeichelnden Akkordarrangements und
-  kraftvollen, fesselnden Vocals. Ihr progressiver Sound ist melodisch und
-  emotional – stilistisch beeinflusst von Genres wie Death Metal bis hin zu
-  armenischer Klassik- und Folk-Musik.
+description: Stryfe aus L. A. werden in einem Satz mit Bands wie Tool, System Of A Down oder Karnivool genannt. Jetzt Interview lesen.
+excerpt: Stryfe beschreiben sich selbst als Metal-Band mit lebendigen Sound, geprägt von Heavy Rock Akzenten mit einschmeichelnden Akkordarrangements und kraftvollen, fesselnden Vocals. Ihr progressiver Sound ist melodisch und emotional – stilistisch beeinflusst von Genres wie Death Metal bis hin zu armenischer Klassik- und Folk-Musik.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-13/stryfe-interview-jpeg-imagine-080808_302c2a_1024_768/640.webp
-copyrigt: Stryfe
+copyright: Stryfe
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-13/stryfe-interview-fb-jpeg-imagine-080808_34302e_1200_628/640.webp
 labels:
   - Stryfe
@@ -34,6 +29,7 @@ affiliate: false
 language: de
 languageLink: /2022/10/stryfe-interview-en/
 ---
+
 **Stryfe beschreiben sich selbst als Metal-Band mit lebendigen Sound, geprägt von Heavy Rock Akzenten mit einschmeichelnden Akkordarrangements und kraftvollen, fesselnden Vocals. Ihr progressiver Sound ist melodisch und emotional – stilistisch beeinflusst von Genres wie Death Metal bis hin zu klassischen armenischen Klängen.**
 
 Ich hatte jetzt die Chance, mit Sergio Ochoa (Gesang), Kar Khurshudyan (Gitarre), Karo Torosyan (Bass) und Derik (Dero) Vardumyan (Schlagzeug) über ihr Debütalbum "Cursed Theatre", ihre Inspirationsquellen und Zukunftspläne zu sprechen.
@@ -46,13 +42,13 @@ Ich hatte jetzt die Chance, mit Sergio Ochoa (Gesang), Kar Khurshudyan (Gitarre)
 
 ## "Die Menschen um uns herum inspirieren uns"
 
-![Stryfe – "Cursed Theatre"](https://storage.googleapis.com/cardamonchai-media/2022-10-13/stryfe-band-cursed-theatre-album-cover-art-jpeg-imagine-080808_270f15_1418_1418/640.webp "Stryfe – \"Cursed Theatre\"")
+![Stryfe – "Cursed Theatre"](https://storage.googleapis.com/cardamonchai-media/2022-10-13/stryfe-band-cursed-theatre-album-cover-art-jpeg-imagine-080808_270f15_1418_1418/640.webp 'Stryfe – "Cursed Theatre"')
 
-**Sergio:**  Danke Dir! Es bedeutet uns sehr viel, dass Dir die Platte gefällt. Wir ziehen unsere Inspiration aus unserem Alltag, aus Dingen, die uns oder den Menschen um uns herum und in der Welt passieren.
+**Sergio:** Danke Dir! Es bedeutet uns sehr viel, dass Dir die Platte gefällt. Wir ziehen unsere Inspiration aus unserem Alltag, aus Dingen, die uns oder den Menschen um uns herum und in der Welt passieren.
 
 **Anne:** Eure Musik erinnert mich an die von Bands wie Tool, Chevelle, System Of A Down und Karnivool. Inspiriert Euch ihre Musik?
 
-**Kar:**  Auf jeden Fall. Einige dieser Bands sind sehr wichtig für uns. Sie inspirieren uns auf eine passive Art sehr. Wir setzen uns natürlich nie hin und entscheiden, einen Riff zu schreiben, der nach Tool oder System oder irgendjemandem sonst klingt. Ich fühle aber, dass all die Musik, die wir hören, uns inspiriert und beeinflusst. Das geschieht auf eine sehr unterbewusste Weise und das hört beim Rock-Genre längst nicht auf.
+**Kar:** Auf jeden Fall. Einige dieser Bands sind sehr wichtig für uns. Sie inspirieren uns auf eine passive Art sehr. Wir setzen uns natürlich nie hin und entscheiden, einen Riff zu schreiben, der nach Tool oder System oder irgendjemandem sonst klingt. Ich fühle aber, dass all die Musik, die wir hören, uns inspiriert und beeinflusst. Das geschieht auf eine sehr unterbewusste Weise und das hört beim Rock-Genre längst nicht auf.
 
 **Anne:** Eines der Highlights auf Eurem Album ist für mich der Song "Velvet Revolution". Ich habe gelesen, dass er eine politische Hymne ist – inspiriert von der Samtenen Revolution, die 2018 in Armenien stattfand und im Aufstieg des Premierministers Pashninyan gipfelte. Habt Ihr eine persönliche Verbindung zu diesem Thema? Möchtet Ihr darüber sprechen?
 
@@ -72,7 +68,7 @@ Eine Sache, die wir klarstellen wollen, ist, dass es keinesfalls unsere Intentio
 
 ## "Die Musik-Szene nimmt langsam wieder Fahrt auf"
 
-![The L.A.-based metal band Stryfe](https://storage.googleapis.com/cardamonchai-media/2022-10-13/stryfe-interview-1-jpeg-imagine-481818_68342a_1024_768/640.webp "The L.A.-based metal band Stryfe")
+![The L.A.-based metal band Stryfe](https://storage.googleapis.com/cardamonchai-media/2022-10-13/stryfe-interview-1-jpeg-imagine-481818_68342a_1024_768/640.webp 'The L.A.-based metal band Stryfe')
 
 **Sergio:** Die Abläufe haben sich während der Pandemie definitiv verlangsamt. Wir sehen aber auch, dass sie langsam aber sicher wieder Fahrt aufnehmen. Die Menschen können nur für eine bestimmte Zeit ohne Live-Musik leben, also sind wir auch im Hinblick darauf optimistisch eingestellt. Am 12. August hatten wir einen tollen Auftritt im weltberühmten Whiskey A Go Go. Das war unsere Album-Release-Show. Am 8. Oktober haben wir noch eine Show auf einem abgefahrenen Biker-Festival im San Manuel Stadium gespielt.
 
@@ -82,7 +78,7 @@ Eine Sache, die wir klarstellen wollen, ist, dass es keinesfalls unsere Intentio
 
 **Anne:** Ihr habt "Cursed Theatre" mit Jens Bogren in den Fascination Street Studios gemacht. Wie war es, mit ihm zu arbeiten?
 
-**Kar:**  Jens hat das Mastering für unser Album gemacht, nachdem wir es selbst aufgenommen hatten – danke für die großartige Unterstützung an unseren Freund Serge Elkony an dieser Stelle – und er hat einen großartigen Job gemacht. Das Mastering mit Jens zu machen, war super. Er ist ein echter Profi – das hat uns den Prozess sehr erleichtert.
+**Kar:** Jens hat das Mastering für unser Album gemacht, nachdem wir es selbst aufgenommen hatten – danke für die großartige Unterstützung an unseren Freund Serge Elkony an dieser Stelle – und er hat einen großartigen Job gemacht. Das Mastering mit Jens zu machen, war super. Er ist ein echter Profi – das hat uns den Prozess sehr erleichtert.
 
 **Anne:** Euer Sound ist sehr professionell und gut ausbalanciert. Ich bin sicher, Ihr hattet vor der Gründung von Stryfe 2019 schon in anderen Konstellationen Musik gemacht?
 
@@ -92,11 +88,11 @@ Eine Sache, die wir klarstellen wollen, ist, dass es keinesfalls unsere Intentio
 
 **Anne:** Euer Album dreht sich überall auf der Welt auf den Plattenspielern. Was habt Ihr als Nächstes vor? Eine große Tour? Eine weitere Platte? Wie sehen Eure Pläne aus?
 
-**Dero**  Alles, was Du aufgezählt hast. Wirklich. Wir arbeiten daran, unsere Platte in Sachen Marketing und Promotion voranzubringen. Liveauftritte spielen da natürlich eine wichtige Rolle. Wir haben außerdem auch schon damit begonnen, ein paar neue Songs zu schreiben – bis jetzt kommen wir gut voran. Wenn wir das Gefühl haben, dass es spruchreif wird, werden wir mit den Aufnahmen beginnen und neues Material veröffentlichen.
+**Dero** Alles, was Du aufgezählt hast. Wirklich. Wir arbeiten daran, unsere Platte in Sachen Marketing und Promotion voranzubringen. Liveauftritte spielen da natürlich eine wichtige Rolle. Wir haben außerdem auch schon damit begonnen, ein paar neue Songs zu schreiben – bis jetzt kommen wir gut voran. Wenn wir das Gefühl haben, dass es spruchreif wird, werden wir mit den Aufnahmen beginnen und neues Material veröffentlichen.
 
 **Anne:** Melodien scheinen Euch besonders zu begeistern. Ist das Eure Art, all die düsteren und schönen Hochs und Tiefs des Lebens zu beschreiben?
 
-**Kar:**  Ja, aber vor allem schreiben wir eigentlich genau so unsere Songs. Wir denken in der Regel nicht an diese Dinge, wenn wir schreiben. Wir lassen uns ehrlicherweise einfach von der Musik leiten. Was interessant ist, ist, dass wir oft im Nachhinein feststellen, was Du gerade beschrieben hast. Als kurz gesagt – wahrscheinlich.
+**Kar:** Ja, aber vor allem schreiben wir eigentlich genau so unsere Songs. Wir denken in der Regel nicht an diese Dinge, wenn wir schreiben. Wir lassen uns ehrlicherweise einfach von der Musik leiten. Was interessant ist, ist, dass wir oft im Nachhinein feststellen, was Du gerade beschrieben hast. Als kurz gesagt – wahrscheinlich.
 
 ## "Wir wünschen uns, dass die Kriege aufhören"
 
@@ -106,7 +102,7 @@ Eine Sache, die wir klarstellen wollen, ist, dass es keinesfalls unsere Intentio
 
 **Anne:** Vielen Dank für das Interview! Es war mir eine große Freude! Viel Erfolg für Eure Pläne!
 
-**Stryfe:**  Danke Dir, Anne. Es hat uns sehr gefreut, mit Dir zu sprechen.
+**Stryfe:** Danke Dir, Anne. Es hat uns sehr gefreut, mit Dir zu sprechen.
 
 ## Stryfe – "Velvet Revolution"
 

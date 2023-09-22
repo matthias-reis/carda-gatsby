@@ -5,19 +5,10 @@ typeName: Interview
 title: '"Das endlose Ausatmen des Ozeans"'
 subTitle: Filmmusik-Komponistin und Ambient-Künstlerin Caminauta im Interview
 seoTitle: Filmmusik-Komponistin und Ambient-Künstlerin Caminauta im Interview
-description: Caminauta heißt mit bürgerlichem Namen Camila. Die Künstlerin aus
-  Uruguay erschafft Film-Soundtracks, Partituren und die unterschiedlichsten
-  Kunstprojekte. Im Interview habe ich mit Ihr über Ihr neuestes Projekt "As The
-  Seas Exhale" gesprochen.
-excerpt: Caminauta heißt mit bürgerlichem Namen Camila. Die Künstlerin aus
-  Uruguay erschafft Film-Soundtracks, Partituren und die unterschiedlichsten
-  Kunstprojekte. Sie möchte mit ihrer Arbeit eine große Vielfalt an Stimmungen
-  zum Ausdruck bringen – vor allem aber die ruhigen und nachdenklichen Momente.
-  Sie arbeitet am liebsten mit verschiedenen Elementen aus der Ambient- und
-  Electronic-Welt und verbindet sie mit klassischen Orchestrierungen. Ihre
-  minimalistische Musik wird dadurch zu etwas Einzigartigem.
+description: Caminauta heißt mit bürgerlichem Namen Camila. Die Künstlerin aus Uruguay erschafft Film-Soundtracks, Partituren und die unterschiedlichsten Kunstprojekte. Im Interview habe ich mit Ihr über Ihr neuestes Projekt "As The Seas Exhale" gesprochen.
+excerpt: Caminauta heißt mit bürgerlichem Namen Camila. Die Künstlerin aus Uruguay erschafft Film-Soundtracks, Partituren und die unterschiedlichsten Kunstprojekte. Sie möchte mit ihrer Arbeit eine große Vielfalt an Stimmungen zum Ausdruck bringen – vor allem aber die ruhigen und nachdenklichen Momente. Sie arbeitet am liebsten mit verschiedenen Elementen aus der Ambient- und Electronic-Welt und verbindet sie mit klassischen Orchestrierungen. Ihre minimalistische Musik wird dadurch zu etwas Einzigartigem.
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-jpg-imagine-383828_636463_1024_768/640.webp
-copyrigt: Caminauta
+copyright: Caminauta
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-fb-png-imagine-282828_777b7d_1200_628/640.webp
 labels:
   - Filmmusik
@@ -38,15 +29,16 @@ affiliate: false
 language: de
 languageLink: /2022/02/caminauta-interview-en/
 ---
+
 **Caminauta heißt mit bürgerlichem Namen Camila. Sie erschafft Film-Soundtracks, Partituren und unterschiedliche Kunstprojekte. Sie möchte mit ihrer Arbeit eine große Vielfalt an Stimmungen zum Ausdruck bringen – vor allem aber die ruhigen und nachdenklichen Momente. Sie arbeitet am liebsten mit verschiedenen Elementen aus der Ambient- und Electronic-Welt und verbindet sie mit klassischen Orchestrierungen. Ihre minimalistische Musik wird dadurch zu etwas Einzigartigem.**
 
-Ich habe die Künstlerin über das Label, bei dem sie gerade ihr neuestes Stück auf Platte veröffentlicht hat, kennengelernt. Die Film- und  Ambient-Komponistin aus Uruguay ist nämlich bei [Samuel Laubschers (Of The Vine)](/2020/05/of-the-vine/) Merigold Independent untergekommen. Sie macht schon sehr lange Musik und fasziniert mit ihrer Kunst nicht nur Filmfans. Ihr neuestes Werk "As The Seas Exhale" erscheint just in dem Moment, in dem ich diese Zeilen schreibe.
+Ich habe die Künstlerin über das Label, bei dem sie gerade ihr neuestes Stück auf Platte veröffentlicht hat, kennengelernt. Die Film- und Ambient-Komponistin aus Uruguay ist nämlich bei [Samuel Laubschers (Of The Vine)](/2020/05/of-the-vine/) Merigold Independent untergekommen. Sie macht schon sehr lange Musik und fasziniert mit ihrer Kunst nicht nur Filmfans. Ihr neuestes Werk "As The Seas Exhale" erscheint just in dem Moment, in dem ich diese Zeilen schreibe.
 
 **Anne:** Hallo Camila! Danke, dass Du Dir die Zeit für dieses Interview nimmst! Es ist so schön, endlich mit der Frau hinter all dieser wunderbaren Musik zu sprechen! Wie geht es Dir heute? Wie läuft Deine neue Veröffentlichung bis jetzt? Herzlichen Glückwunsch übrigens zu "As The Seas Exhale"! Das Stück ist großartig geworden. Ich finde, es ist gleichzeitig spannend und beruhigend. Die Kontraste, die Du nutzt, um verschiedene Gefühle zu transportieren, sind großartig. Es ist, als würdest Du eine Geschichte erzählen – ganz ohne Worte.
 
 ## "Das Meer inspiriert mich"
 
-![Camila liebt das Meer.](https://storage.googleapis.com/cardamonchai-media/2022-02-17/caminauta-seaside-jpg-imagine-686868_000000_768_1024/640.webp "Camila liebt das Meer.")
+![Camila liebt das Meer.](https://storage.googleapis.com/cardamonchai-media/2022-02-17/caminauta-seaside-jpg-imagine-686868_000000_768_1024/640.webp 'Camila liebt das Meer.')
 
 **Camila:** Hallo Anne, vielen Dank für Deine Einladung! Mir geht es gut. Die Veröffentlichung geht gut voran. Es ist gut zu wissen, dass bereits einige Vorbestellungen eingegangen sind. Es freut mich auch zu wissen, dass es offenbar ziemlich gut ankommt.
 
@@ -58,7 +50,7 @@ Ich habe die Künstlerin über das Label, bei dem sie gerade ihr neuestes Stück
 
 ## Meine Ambient-Experimente haben mir geholfen, tiefer in die Filmmusik einzutauchen.
 
-![Camila aka Caminauta komponiert Filmmusik.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-studio-jpg-imagine-282828_756e71_768_1024/640.webp "Camila aka Caminauta komponiert Filmmusik.")
+![Camila aka Caminauta komponiert Filmmusik.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-studio-jpg-imagine-282828_756e71_768_1024/640.webp 'Camila aka Caminauta komponiert Filmmusik.')
 
 **Camila:** Ich denke, was sie unterscheidet, ist, dass sich die Filmmusik wie mein Job anfühlt. Mit meinem Experimental-/Ambient-Projekt Caminauta kann ich meine musikalischen Experimente offener zum Ausdruck bringen und mit der Community teilen. Es war, denke ich, ein ganz natürlicher Prozess, dass die beiden Projekte im Laufe der Jahre zusammengewachsen sind. Dank meiner Neugier, was Ambient betrifft, ist es mir dabei gelungen, noch tiefer in das Komponieren von Filmmusik einzutauchen.
 
@@ -74,7 +66,7 @@ Der Film zeichnet ein Bild von der winzigen Welt der braunen Nacktschnecken, die
 
 ## "Ich habe es schon immer geliebt, kreativ zu sein"
 
-![Der Strand inspiriert Camila.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-jpg-imagine-a89888_748388_768_1024/640.webp "Der Strand inspiriert Camila.")
+![Der Strand inspiriert Camila.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-jpg-imagine-a89888_748388_768_1024/640.webp 'Der Strand inspiriert Camila.')
 
 **Camila:** Ich arbeite wirklich gerne mit Samuel zusammen! Er ist ein hervorragender Künstler und ein guter Freund. Wir haben uns vor einigen Jahren über das Internet kennengelernt, und ich glaube, er kennt jedes Stück meiner Arbeit von meinen ersten Ambient-Ausflügen bis heute.
 
@@ -96,7 +88,7 @@ Der Film zeichnet ein Bild von der winzigen Welt der braunen Nacktschnecken, die
 
 ## Mein introspektiver Lebensstil hilft mir dabei, Dinge zu erschaffen"
 
-![Das zurückgezogene Leben am Meer.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-waves-jpg-imagine-98b8b8_7c9294_768_1024/640.webp "Das zurückgezogene Leben am Meer.")
+![Das zurückgezogene Leben am Meer.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-waves-jpg-imagine-98b8b8_7c9294_768_1024/640.webp 'Das zurückgezogene Leben am Meer.')
 
 **Camila:** Ich habe genug Zeit dafür, lebe unmittelbar in der Natur und führe ein sehr beschauliches Leben. Ich denke, weil ich diesen Lebensstil genießen darf, bin ich in der Stimmung, etwas zu erschaffen.
 
@@ -118,4 +110,12 @@ Eine letzte Frage: Wenn Du eine Sache auf der Welt bestimmen dürftest, die die 
 
 <YouTube id="3KDsQd1GCgg" />
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3272757004/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://caminauta.bandcamp.com/album/as-the-seas-exhale-2">As The Seas Exhale by Caminauta</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3272757004/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://caminauta.bandcamp.com/album/as-the-seas-exhale-2">
+    As The Seas Exhale by Caminauta
+  </a>
+</iframe>

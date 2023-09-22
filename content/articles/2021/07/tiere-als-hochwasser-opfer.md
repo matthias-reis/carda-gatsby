@@ -5,12 +5,9 @@ typeName: Beitrag
 title: Tiere als Hochwasser-Opfer
 subTitle: Hier könnt Ihr spenden
 seoTitle: Tiere als Hochwasser-Opfer – hier könnt Ihr spenden
-description: "Sie leiden besonders: Tiere als Hochwasser-Opfer. Während der
-  aktuellen Lage rund um das verheerende Hochwasser in Europa werden sie leider
-  dennoch viel zu selten erwähnt. Viele von ihnen sind unbemerkt ertrunken. So
-  könnt Ihr denen, die überlebt haben, helfen."
+description: 'Sie leiden besonders: Tiere als Hochwasser-Opfer. Während der aktuellen Lage rund um das verheerende Hochwasser in Europa werden sie leider dennoch viel zu selten erwähnt. Viele von ihnen sind unbemerkt ertrunken. So könnt Ihr denen, die überlebt haben, helfen.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/feuerwehr-essen-jpg-imagine-080808_818669_1024_768/640.webp
-copyrigt: Feuerwehr Essen
+copyright: Feuerwehr Essen
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/tierrettung-essen-png-imagine-c8b8b8_93927d_1200_628/640.webp
 labels:
   - Tierrettung
@@ -29,13 +26,13 @@ language: de
 
 **Sie leiden besonders: Tiere als Hochwasser-Opfer. Während der aktuellen Lage rund um das verheerende Hochwasser in Europa werden sie leider dennoch viel zu selten erwähnt. Viele von ihnen sind unbemerkt ertrunken. So könnt Ihr denen, die überlebt haben, helfen.**
 
-Allein bei einem Geflügel-Mastbetrieb in Trasadingen im Schweizer Kanton Schaffhausen sollen 17.000 Hühner gestorben sein. Als das Wasser kam, hatten sie keine Chance. Aus einem Bericht der Polizei vor Ort ging hervor, dass 11.500 der Hühner direkt im Maststall ertranken. Weitere 5.500 Tiere wurden später eingeschläfert. 
+Allein bei einem Geflügel-Mastbetrieb in Trasadingen im Schweizer Kanton Schaffhausen sollen 17.000 Hühner gestorben sein. Als das Wasser kam, hatten sie keine Chance. Aus einem Bericht der Polizei vor Ort ging hervor, dass 11.500 der Hühner direkt im Maststall ertranken. Weitere 5.500 Tiere wurden später eingeschläfert.
 
 ## 17.000 Hühner im Hochwasser gestorben
 
-Im Landkreis Trier konnten Helfer⋆innen rund 60 Tiere aus dem Hochwasser retten. Darunter waren nicht nur Hunde, Katzen und Kleintiere, die Menschen bei ihrer Flucht aus den volllaufenden Häusern zurücklassen mussten, sondern auch Pferde und Wildtiere wie Rehe. 
+Im Landkreis Trier konnten Helfer⋆innen rund 60 Tiere aus dem Hochwasser retten. Darunter waren nicht nur Hunde, Katzen und Kleintiere, die Menschen bei ihrer Flucht aus den volllaufenden Häusern zurücklassen mussten, sondern auch Pferde und Wildtiere wie Rehe.
 
-![Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/tierrettung-essen-jpg-imagine-c8b8b8_9e9892_1024_768/640.webp "Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.")
+![Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/tierrettung-essen-jpg-imagine-c8b8b8_9e9892_1024_768/640.webp 'Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.')
 
 Es gingen unzählige Suchmeldungen bei der Polizei und dem Tierschutz ein. Sogar eine komplette Schafherde wurde vermisst. Die Lage bleibt nach wie vor unübersichtlich. Bilder, wie das von dem Hund, der sich im Wasser verzweifelt an einer Leitplanke festklammert, das die Tierrettung Essen auf Facebook teilte, machen traurig. Sie zeigen nur einen kleinen Teil des Dramas, das nach wie vor anhält.
 
@@ -43,7 +40,7 @@ Es gingen unzählige Suchmeldungen bei der Polizei und dem Tierschutz ein. Sogar
 
 Die Tierrettung Essen war auch eine der ersten, die einen Aufruf mit der Bitte, in den betroffenen Gebieten verbliebene Tiere zu melden, an alle Tierhalter⋆innen sendete. So konnten unter anderem zwei Ponys in Sicherheit gebracht werden.
 
-Bei guten Nachrichten wie dieser handelt es sich jedoch um Einzelfälle. Auch, wenn sie momentan in den Medien präsenter sind, als die Fälle, in denen es nicht gut ausgegangen ist. Das Ausmaß der Katastrophe ist schrecklich. Bisher lässt sich nur grob schätzen, wie viele Tiere in den Fluten umgekommen sind. Teilweise wurden ganze Ställe einfach davon gerissen und auch viele Wildtiere befinden sich in einer ausweglosen Situation. Auf dem Foto oben seht Ihr ein Rehkitz, das die Feuerwehr Essen aus dem Wasser retten konnte. 
+Bei guten Nachrichten wie dieser handelt es sich jedoch um Einzelfälle. Auch, wenn sie momentan in den Medien präsenter sind, als die Fälle, in denen es nicht gut ausgegangen ist. Das Ausmaß der Katastrophe ist schrecklich. Bisher lässt sich nur grob schätzen, wie viele Tiere in den Fluten umgekommen sind. Teilweise wurden ganze Ställe einfach davon gerissen und auch viele Wildtiere befinden sich in einer ausweglosen Situation. Auf dem Foto oben seht Ihr ein Rehkitz, das die Feuerwehr Essen aus dem Wasser retten konnte.
 
 Nach der Rettung ist es besonders wichtig, die Tiere zu beobachten und gut zu betreuen. Besonders Wärme ist essenziell. Durch den verzweifelten Kampf gegen das Wasser sind viele von ihnen stark unterkühlt.
 
@@ -61,13 +58,13 @@ Für die Rettung von Tieren im Katastrophenfall gibt es in Deutschland keine ein
 
 ## Für Tiere als Hochwasser-Opfer spenden
 
-Eine Spendenaktion für die Tiere im Hochwasser hat unter anderem Fressnapf ins Leben gerufen. Dort können durch das Hochwasser zu Schaden gekommene auch unkompliziert Sachspenden für Tiere anfordern. Auf Facebook haben verschiedene Organisationen zusammen mit der Tierschutzpartei die Gruppe "Hilfe für vom Hochwasser betroffene Tierhalter" ins Leben gerufen. In den sozialen Netzwerken gibt es außerdem verschiedene lokale Gruppen dieser Art. Wenn Ihr direkt spenden möchtet, kontaktiert am besten die Gnadenhöfe und Tierheime vor Ort und macht Euch vorher auf jeden Fall schlau. Die von den verschiedenen Hilfsorganisationen gesammelten Sachspenden für die Hochwasser-Opfer sind auf jeden Fall angekommen. Allerdings rufen die Vereine bereits über die öffentlich rechtlichen Sender dazu auf, mit Sachspenden langsam zu machen. Diese häufen sich immer mehr an und die aufwändige Verteilung erschwert die Hilfe.  Spenden könnt Ihr hier:
+Eine Spendenaktion für die Tiere im Hochwasser hat unter anderem Fressnapf ins Leben gerufen. Dort können durch das Hochwasser zu Schaden gekommene auch unkompliziert Sachspenden für Tiere anfordern. Auf Facebook haben verschiedene Organisationen zusammen mit der Tierschutzpartei die Gruppe "Hilfe für vom Hochwasser betroffene Tierhalter" ins Leben gerufen. In den sozialen Netzwerken gibt es außerdem verschiedene lokale Gruppen dieser Art. Wenn Ihr direkt spenden möchtet, kontaktiert am besten die Gnadenhöfe und Tierheime vor Ort und macht Euch vorher auf jeden Fall schlau. Die von den verschiedenen Hilfsorganisationen gesammelten Sachspenden für die Hochwasser-Opfer sind auf jeden Fall angekommen. Allerdings rufen die Vereine bereits über die öffentlich rechtlichen Sender dazu auf, mit Sachspenden langsam zu machen. Diese häufen sich immer mehr an und die aufwändige Verteilung erschwert die Hilfe. Spenden könnt Ihr hier:
 
-* [Aktion Deutschland hilft](https://www.aktion-deutschland-hilft.de/de/lp-hochwasser-deutschland/)
-* [Zentrale Anlaufstelle für Hilfesuchende und Helfende](https://hochwasserhilfe-navi.de/)
-* [Schnelle Hochwasserhilfe für Tiere in Not, Fressnapf](https://www.betterplace.org/de/fundraising-events/38319-schnelle-hochwasserhilfe-fuer-tierheime-in-not)
-* [Tierrettung Essen](http://www.tierrettung-essen.de/4773.html)
-* [Flutopfer-Hilfe für Tiere in Not](https://www.betterplace.org/de/projects/97695-flutopfer-hilfe-fuer-tiere-in-not)
-* [Durch das Hochwasser in Not geratene Tiere, Tierschutzverein Wachtberg](https://www.betterplace.org/de/projects/85702-spendenaufruf-hochwasser-in-not-geratene-tiere-tierschutzverein-wachtberg)
+- [Aktion Deutschland hilft](https://www.aktion-deutschland-hilft.de/de/lp-hochwasser-deutschland/)
+- [Zentrale Anlaufstelle für Hilfesuchende und Helfende](https://hochwasserhilfe-navi.de/)
+- [Schnelle Hochwasserhilfe für Tiere in Not, Fressnapf](https://www.betterplace.org/de/fundraising-events/38319-schnelle-hochwasserhilfe-fuer-tierheime-in-not)
+- [Tierrettung Essen](http://www.tierrettung-essen.de/4773.html)
+- [Flutopfer-Hilfe für Tiere in Not](https://www.betterplace.org/de/projects/97695-flutopfer-hilfe-fuer-tiere-in-not)
+- [Durch das Hochwasser in Not geratene Tiere, Tierschutzverein Wachtberg](https://www.betterplace.org/de/projects/85702-spendenaufruf-hochwasser-in-not-geratene-tiere-tierschutzverein-wachtberg)
 
 Titelbild: [Feuerwehr Essen](https://www.feuerwehr-essen.com/), Bild im Text: [Tierrettung Essen](http://www.tierrettung-essen.de/4773.html)

@@ -5,15 +5,10 @@ typeName: Review
 title: '"Through Life"'
 subTitle: The New Breaths Album
 seoTitle: '"Through Life" – The New Breaths Album – Hardcore Review'
-description: The new Breaths album "Through Life" is on its way, and it's about
-  time that I do this feature about it. The vegan post-music project from
-  Richmond, Virginia, has announced the record for early next year.
-excerpt: The new Breaths album "Through Life" is on its way, and it's about time
-  that I do this feature about it. The vegan post-music project from Richmond,
-  Virginia, has announced the record for early next year. It could be a
-  contender for your album of the year 2022.
+description: The new Breaths album "Through Life" is on its way, and it's about time that I do this feature about it. The vegan post-music project from Richmond, Virginia, has announced the record for early next year.
+excerpt: The new Breaths album "Through Life" is on its way, and it's about time that I do this feature about it. The vegan post-music project from Richmond, Virginia, has announced the record for early next year. It could be a contender for your album of the year 2022.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-jpg-imagine-080808_587863_1024_768/640.webp
-copyrigt: Breaths
+copyright: Breaths
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-fb-png-imagine-080808_364333_1200_628/640.webp
 labels:
   - Breaths
@@ -28,7 +23,7 @@ labels:
   - vegan Celebrities
   - Post-Metal
   - Doomgaze
-  - ""
+  - ''
 focusKeyword: Through Life
 advertisement: false
 affiliate: false

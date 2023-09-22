@@ -5,23 +5,17 @@ typeName: Serientipp
 title: Der vegane Captain Kirk
 subTitle: Paul Wesley, Star Trek und die Tierrechte
 seoTitle: Paul Wesley ist der erste vegane Captain Kirk
-description: 'Der vegan lebende Paul Wesley, bekannt aus "Vampire Diaries"
-  spielt in der zweiten Staffel von "Star Trek: Strange New Worlds" Captain
-  Kirk! Erfahrt jetzt alle Details!'
-excerpt: 'In der zweiten Staffel der Paramount+ Serie "Star Trek: Strange New
-  Worlds" spielt Paul Wesley, bekannt durch "The Vampire Diaries" keinen
-  Geringeren als Captain Kirk. Aus dem Vampir wird also eine Weltraum-Ikone.
-  Paul Wesley verzichtet übrigens auch im wahren Leben gerne auf Blut – er lebt
-  seit vielen Jahren vegan.'
+description: 'Der vegan lebende Paul Wesley, bekannt aus "Vampire Diaries" spielt in der zweiten Staffel von "Star Trek: Strange New Worlds" Captain Kirk! Erfahrt jetzt alle Details!'
+excerpt: 'In der zweiten Staffel der Paramount+ Serie "Star Trek: Strange New Worlds" spielt Paul Wesley, bekannt durch "The Vampire Diaries" keinen Geringeren als Captain Kirk. Aus dem Vampir wird also eine Weltraum-Ikone. Paul Wesley verzichtet übrigens auch im wahren Leben gerne auf Blut – er lebt seit vielen Jahren vegan.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-30/paul-wesley-kirk-paramount-jpg-imagine-080808_624a31_1024_768/640.webp
-copyrigt: Paramount
+copyright: Paramount
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-30/paul-wesley-kirk-paramount-og-jpg-imagine-080808_5e4a33_1200_628/640.webp
 labels:
   - Paramount
   - Paul Wesley
   - Vampire Diaries
   - Star Trek
-  - "Star Trek: Strange New Worlds"
+  - 'Star Trek: Strange New Worlds'
   - Paramount+
   - Vegan Celebrities
   - Wild Earth
@@ -33,6 +27,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **In der zweiten Staffel der Paramount+ Serie "Star Trek: Strange New Worlds" spielt Paul Wesley, bekannt durch "The Vampire Diaries" keinen Geringeren als Captain Kirk. Aus dem Vampir wird also eine Weltraum-Ikone. Paul Wesley verzichtet übrigens auch im wahren Leben gerne auf Blut – er lebt seit vielen Jahren vegan.**
 
 Paul Wesley tritt mit seiner Rolle als junger James T. Kirk in große Fußstapfen. Vor ihm spielten William Shatner (1966 – 1994) und Chris Pine (2009 – 2016) Kirk. Sandra Smith hatte 1969 einen kurzen Auftritt, als Kirk in einer Folge im Körper von Dr. Janice Lester gefangen war, Jimmy Bennet spielte 2009 Kirk als Kind.
@@ -67,7 +62,7 @@ Kamala Harris hatte zuvor mitgeteilt, sie würde nach 18 Uhr nur noch vegane Leb
 
 ## Veganer Bourbon von Paul Wesley
 
-Neben seiner Arbeit als Schauspieler baut Paul Wesley derzeit gemeinsam mit seinem Vampire Diaries Kollegen Ian Sommerhalder (Ihr kennt ihn noch als Stefan Salvatores Bruder Damon) seine eigene vegane Bourbon-Marke auf. Die beiden legen ihren Fokus dabei vorrangig auf die Nachhaltigkeit ihres Produkts. Über die Gründung von Brother's Bond Bourbon schreibt er: 
+Neben seiner Arbeit als Schauspieler baut Paul Wesley derzeit gemeinsam mit seinem Vampire Diaries Kollegen Ian Sommerhalder (Ihr kennt ihn noch als Stefan Salvatores Bruder Damon) seine eigene vegane Bourbon-Marke auf. Die beiden legen ihren Fokus dabei vorrangig auf die Nachhaltigkeit ihres Produkts. Über die Gründung von Brother's Bond Bourbon schreibt er:
 
 > "Als Veganer war mir erst nicht klar, wie viele alkoholische Getränke nicht wirklich veganfreundlich sind. Darum bin ich froh, dass Brother's Bond Bourbon vegan ist. Obwohl ich bis jetzt der einzige Veganer in unserem Unternehmen bin, sind sich alle bewusst darüber. Wir verwenden nicht mal Leder in unserem Laden. Als Mitgründer stelle ich sicher, dass wir durch und durch vegan sind."
 

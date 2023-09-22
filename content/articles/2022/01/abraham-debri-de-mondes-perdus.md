@@ -5,15 +5,10 @@ typeName: Review
 title: '"Débris de mondes perdus" von Abraham'
 subTitle: Zurück zu den Wurzeln der Zukunft
 seoTitle: Abraham – "Débris de mondes perdus" – Post-Metal Review
-description: Das neue Abraham Album "Débris de mondes perdus" erscheint am 25.
-  Februar Die Pelagic Band verzaubert mit der Platte vor allem Fans von Bands
-  wie Cult of Luna und The Ocean.
-excerpt: Das neue Abraham Album "Débris de mondes perdus" erscheint am 25.
-  Februar. Die Band hat es mit den insgesamt acht Songs geschafft, etwas ganz
-  Neues zum Post-Metal Genre hinzuzufügen, das Fans von Bands wie Cult of Luna
-  besonders verzaubern wird.
+description: Das neue Abraham Album "Débris de mondes perdus" erscheint am 25. Februar Die Pelagic Band verzaubert mit der Platte vor allem Fans von Bands wie Cult of Luna und The Ocean.
+excerpt: Das neue Abraham Album "Débris de mondes perdus" erscheint am 25. Februar. Die Band hat es mit den insgesamt acht Songs geschafft, etwas ganz Neues zum Post-Metal Genre hinzuzufügen, das Fans von Bands wie Cult of Luna besonders verzaubern wird.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-06/abraham-jpg-imagine-b8d808_788e09_1024_768/640.webp
-copyrigt: Abraham
+copyright: Abraham
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-06/abraham-fb-png-imagine-a8c808_6e8208_1200_628/640.webp
 labels:
   - Abraham
@@ -35,6 +30,7 @@ affiliate: false
 language: de
 languageLink: /2022/01/abraham-debri-de-mondes-perdus-en
 ---
+
 **Das neue Abraham Album "Débris de mondes perdus" erscheint am 25. Februar. Die Band hat es mit den insgesamt acht Songs geschafft, etwas ganz Neues zum Post-Metal Genre hinzuzufügen, das Fans von Bands wie Cult of Luna besonders verzaubern wird.**
 
 Abraham kommen aus der spannenden Lausanner Underground-Musikszene. Unter anderem habt Ihr sie wie ich vielleicht schon als Vorband von [The Ocean](/2020/09/the-ocean-robin-staps-interview/) oder [Cult Of Luna](/tag/cult-of-luna) erlebt.
@@ -43,13 +39,13 @@ Der musikalischen Qualität stehen die Stücke von Abraham diesen Bands ins Nich
 
 ## Elf Jahre Abraham
 
-![Das Abraham – "Débris de mondes perdus" Plattencover zeigt ein abstraktes grafische hellgrünes Muster auf dunkelgrünem Grund.](https://storage.googleapis.com/cardamonchai-media/2022-01-06/cover-abraham-d-bris-de-mondes-perdus-jpg-imagine-181808_242408_1500_1500/640.webp "Abraham – \"Débris de mondes perdus\"")
+![Das Abraham – "Débris de mondes perdus" Plattencover zeigt ein abstraktes grafische hellgrünes Muster auf dunkelgrünem Grund.](https://storage.googleapis.com/cardamonchai-media/2022-01-06/cover-abraham-d-bris-de-mondes-perdus-jpg-imagine-181808_242408_1500_1500/640.webp 'Abraham – "Débris de mondes perdus"')
 
 Insgesamt blicken Abraham bereits auf elf Jahre Bandgeschichte zurück. Diese waren von Höhen und Tiefen geprägt: Nach dem Erscheinen des letzten Albums verlor die Band nicht nur ihren zweiten Gitarristen, sondern obendrein auch noch ihren Hauptsänger.
 
 Ihre Liebe für harte Musik und der schmerzvolle Gesang von Schlagzeuger Dave Schlagmeister, der inzwischen der einzige Sänger ist, hielten die Band jedoch zusammen und sorgten dafür, dass ihre Musik mit den charakteristischen schrillen Schreien weiter in die düstere Welt hinausgetragen werden. Ein Glück:
 
-Mit der neuen Platte "Débris de mondes perdus" liefern sie eine grandiose Fortsetzung zum umfangreichen Vorgänger, dem dystopischen, in vier Abschnitte unterteilte Konzeptalbum "Look, Here Comes The Dark!", das die Geschichte vom Verschwinden allen Lebens auf der Erde erzählte. 
+Mit der neuen Platte "Débris de mondes perdus" liefern sie eine grandiose Fortsetzung zum umfangreichen Vorgänger, dem dystopischen, in vier Abschnitte unterteilte Konzeptalbum "Look, Here Comes The Dark!", das die Geschichte vom Verschwinden allen Lebens auf der Erde erzählte.
 
 ## "Débris de mondes perdus" ist ein würdiger Nachfolger für "Look, Here Comes The Dark!"
 

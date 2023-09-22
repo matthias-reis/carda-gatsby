@@ -5,11 +5,9 @@ typeName: Interview
 title: Interview With Carlos Ferreira
 subTitle: Sound Postcards From Porto Alegre
 seoTitle: Interview With Carlos Ferreira – Music Postcards From Porto Alegre
-description: Carlos Ferreira is going to release his new album on Past Inside
-  the Present in November. It's a cassette tape called "Six Postcards &amp;
-  Other Stories". I talked to him about his music and his decision to go vegan.
+description: Carlos Ferreira is going to release his new album on Past Inside the Present in November. It's a cassette tape called "Six Postcards &amp; Other Stories". I talked to him about his music and his decision to go vegan.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-10-carlos-ferreira-l-jpeg-imagine-c8c8c8_7c7e7d_1440_1080/640.webp
-copyrigt: Carlos Ferreira
+copyright: Carlos Ferreira
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-10-carlos-ferreira-fb-png-l-jpg-imagine-c8c8c8_858686_1440_754/640.webp
 labels:
   - Ambient

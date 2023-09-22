@@ -7,12 +7,9 @@ typeName: Interview
 title: '"Do No Harm" – Das neue Album von Arvensis'
 subTitle: Interview mit Dani Laubscher
 seoTitle: '"Do No Harm" – Das neue Album von Arvensis (Interview)'
-description: Vor ein paar Tagen, schrieb mir Dani von Arvensis und teilte mir
-  die gute Nachricht mit, dass das neue Album "Do No Harm" fertig ist. Ich habe
-  meine Chance ergriffen und Dani ein paar Fragen dazu gestellt, um unser
-  Interview von November 2020 fortzuführen.
+description: Vor ein paar Tagen, schrieb mir Dani von Arvensis und teilte mir die gute Nachricht mit, dass das neue Album "Do No Harm" fertig ist. Ich habe meine Chance ergriffen und Dani ein paar Fragen dazu gestellt, um unser Interview von November 2020 fortzuführen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/arvensis-dani-jpg-imagine-282838_714d4f_1024_768/640.webp
-copyrigt: Arvensis
+copyright: Arvensis
 labels:
   - Arvensis
   - Do No Harm
@@ -67,11 +64,11 @@ Diesen Sommer hat mich die Natur zu einer allumfassenden Göttin geführt. Ich h
 
 Ich bin mir nicht sicher, wo ich ohne die Hilfe der Natur heute sein würde. Eines kann ich aber ganz klar sagen: "Do No Harm" würde nicht existieren.
 
-**Anne:** Vielen Dank, dass Du Dein Herz öffnest und so offen über diese Themen sprichst! Das bedeutet mir wirklich sehr viel! 
+**Anne:** Vielen Dank, dass Du Dein Herz öffnest und so offen über diese Themen sprichst! Das bedeutet mir wirklich sehr viel!
 
 Möchtest Du mir noch etwas über das Album erzählen, dass ich nicht verpassen sollte? Hast Du einen Lieblingssong?
 
-**Dani:** Vielen Dank, dass Du mir die Möglichkeit gibst, darüber zu sprechen! Es bedeutet mir sehr viel! 
+**Dani:** Vielen Dank, dass Du mir die Möglichkeit gibst, darüber zu sprechen! Es bedeutet mir sehr viel!
 
 Die Message von "Do No Harm" ist: Verletze niemanden – auch nicht Dich selbst. Das ist der Lebensgrundsatz, an den ich mich zu halten versuche.
 

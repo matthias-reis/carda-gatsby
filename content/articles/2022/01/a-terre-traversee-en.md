@@ -5,15 +5,10 @@ typeName: Review
 title: '"Traversée"'
 subTitle: The new À Terre EP
 seoTitle: À Terre – "Traversée" – Post-Metal Review
-description: À Terre just finished their new EP "Traversée". They are going to
-  release the digital version on February 21st. The CD will follow on March
-  14th. I was one of the lucky ones who already had the chance to listen to the
-  three songs, and I would now like to recommend them to you.
-excerpt: À Terre just finished their new EP "Traversée". They are going to
-  release the digital version on February 21st. The CD will follow on March
-  14th. Post-Metal at its best awaits you.
+description: À Terre just finished their new EP "Traversée". They are going to release the digital version on February 21st. The CD will follow on March 14th. I was one of the lucky ones who already had the chance to listen to the three songs, and I would now like to recommend them to you.
+excerpt: À Terre just finished their new EP "Traversée". They are going to release the digital version on February 21st. The CD will follow on March 14th. Post-Metal at its best awaits you.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-31/a-terre-traversee-jpg-imagine-080808_000000_1024_768/640.webp
-copyrigt: À Terre
+copyright: À Terre
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-31/a-terre-traversee-fb-png-imagine-080808_0d0d0d_1200_628/640.webp
 labels:
   - Post-Rock
@@ -30,13 +25,14 @@ affiliate: false
 language: en
 languageLink: /2022/01/a-terre-traversee/
 ---
+
 **À Terre just finished their new EP "Traversée". They are going to release the digital version on February 21st. The CD will follow on March 14th. I was one of the lucky ones who already had the chance to listen to the three songs, and I would now like to recommend them to you.**
 
 Some of you might already know À Terre from [my review of their last record](/2021/05/a-terre-notre-ciel-noir-en/). The new one is quite on-point again. You should definitely give it a try – no matter if you are already a fan or still new to the magical dark realm of the band, founded in October 2020 in the Aquitaine, France.
 
 ## Inspired by the historical Aquitaine region
 
-![À Terre – "Traversée" record cover (abstract black and white artwork)](https://storage.googleapis.com/cardamonchai-media/2022-01-31/a-terre-traversee-cover-jpg-imagine-080808_000000_1080_1080/640.webp "À Terre – \"Traversée\"")
+![À Terre – "Traversée" record cover (abstract black and white artwork)](https://storage.googleapis.com/cardamonchai-media/2022-01-31/a-terre-traversee-cover-jpg-imagine-080808_000000_1080_1080/640.webp 'À Terre – "Traversée"')
 
 The historical region in the southwestern stretch of France, close to Spain and the Atlantic Ocean, had a significant influence on the five band members, who feel a strong connection to this area. The strong contrasts of Aquitaine's diverse landscape, the oceanic climate and the variety of historical and cultural treasures reflect in the three songs on the new EP "Traversée".
 

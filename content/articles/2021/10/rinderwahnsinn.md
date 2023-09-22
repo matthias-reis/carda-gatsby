@@ -5,11 +5,9 @@ typeName: Beitrag
 title: Neue Fälle von Rinderwahnsinn (BSE)
 subTitle: China stoppt Einfuhr aus Großbritannien
 seoTitle: Rinderwahnsinn (BSE) – China stoppt Einfuhr aus Großbritannien
-description: China hat sein Einfuhrverbot für britisches Rindfleisch aufgrund
-  eines erneuten Ausbruchs von BSE, auch bekannt als "Rinderwahnsinn" erneuert.
-  Auch in vielen anderen Ländern wird jetzt über einen Bann diskutiert.
+description: China hat sein Einfuhrverbot für britisches Rindfleisch aufgrund eines erneuten Ausbruchs von BSE, auch bekannt als "Rinderwahnsinn" erneuert. Auch in vielen anderen Ländern wird jetzt über einen Bann diskutiert.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/rinderwahnsin-bse-jpg-imagine-080808_828062_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/rinderwahnsin-bse-fb-jpg-imagine-e8d8a8_918c72_1200_628/640.webp
 labels:
   - Zoonosen
@@ -29,7 +27,7 @@ Das Land China hatte das Einfuhrverbot erstmals in den 1990er Jahren verhängt u
 
 China kündigte auch an, die Einfuhr von Rindfleisch von Chinas wichtigstem Lieferanten Brasilien zu stoppen. Auch dort wurden inzwischen zwei neue BSE-Fälle gemeldet.
 
-##  Millionen von Tieren mussten geschlachtet werden
+## Millionen von Tieren mussten geschlachtet werden
 
 Während der ersten großen BSE-Welle vor nunmehr zwanzig Jahren waren allein in Großbritannien 177 Menschen an der Zoonose gestorben. Weltweit wurden damals viele Millionen Tiere geschlachtet worden, um eine Weiterverbreitung zu verhindern.
 
@@ -48,9 +46,9 @@ Die leitende Tierärztin Christine Middlemiss erklärte jetzt gegenüber BBC[^3]
 Gegenüber Plant Based News[^4] sagte die Direktorin der Tierrechtsorganisation PETA:
 
 > "BSE ist eine ernste Sache, weil die Krankheit für Rinder und Menschen gleichermaßen tödlich ist. Aber sie ist nur eine von vielen ernsten Bedrohungen für die öffentliche Gesundheit, die von der Fleischindustrie ausgehen.
-> 
-> Studien zeigen, dass der Verzehr von Fleisch mit verschiedenen Krebsarten, Herzkrankheiten, Schlaganfällen, Diabetes und anderen Gesundheitsproblemen in Verbindung gebracht wird. 
-> 
+>
+> Studien zeigen, dass der Verzehr von Fleisch mit verschiedenen Krebsarten, Herzkrankheiten, Schlaganfällen, Diabetes und anderen Gesundheitsproblemen in Verbindung gebracht wird.
+>
 > Die Fleischproduktion trägt erheblich zum Klimawandel bei. Wir alle sollten esse, als ob unser Leben davon abhängt – denn das tut es."
 
 Auch hierzulande treibt die Sorge über die tödliche Bedrohung nicht nur die Landwirt⋆innen um. In Deutschland hatte es zuletzt 2014 zwei nachgewiesene Fälle von BSE gegeben.
@@ -62,9 +60,6 @@ Auch hierzulande treibt die Sorge über die tödliche Bedrohung nicht nur die La
 **Hinweis:** Das Tier im Bild oben ist nicht an BSE erkrankt. Es handelt sich um ein Beispielfoto, das ich vor Kurzem in Dänemark aufgenommen habe.
 
 [^1]: [Reuters Meldung](https://www.reuters.com/article/china-beef-britain/china-renews-ban-on-imports-of-some-uk-beef-over-mad-cow-case-idUKKBN2H108C)
-
 [^2]: [NDR Bericht](https://www.ndr.de/geschichte/chronologie/BSE-Krise-Rinderseuche-erreicht-vor-20-Jahren-Deutschland,bse102.html)
-
 [^3]: [BBC News](https://www.bbc.com/news/uk-england-somerset-58602051)
-
 [^4]: [Plant Based News](https://plantbasednews.org/lifestyle/health/china-beef-imports-mad-cow-disease/)

@@ -3,19 +3,12 @@ date: 2023-07-31T11:07:51.697Z
 slug: hessdalen-light-interview
 typeName: Interview
 title: Hessdalen Light Gründer Tanner Thornton im Interview
-subTitle: '"In der Instrumental- und Progressive-Rock-Szene findet man die
-  größten musikalischen Talente"'
+subTitle: '"In der Instrumental- und Progressive-Rock-Szene findet man die größten musikalischen Talente"'
 seoTitle: Hessdalen Light Prog Rock Interview
-description: Hessdalen Light Gründer Tanner Thornton hat mir alles über das
-  kommende Album und die aktuelle Single "Khajiit Has Wares, If You Have Coin"
-  verraten – und wir haben über Skyrim gesprochen!
-excerpt: Das neue Hessdalen Light Album steht in der Startbox, die erste
-  Vorauskopplung "Khajiit Has Wares, If You Have Coin" ist vielversprechend. Die
-  drei fanden das Stück so charakteristisch für ihren neuen Stil, dass sie
-  beschlossen, es als eigenständige Single erst mal zu priorisieren. Zeit für
-  ein Interview mit Bandgründer Tanner.
+description: Hessdalen Light Gründer Tanner Thornton hat mir alles über das kommende Album und die aktuelle Single "Khajiit Has Wares, If You Have Coin" verraten – und wir haben über Skyrim gesprochen!
+excerpt: Das neue Hessdalen Light Album steht in der Startbox, die erste Vorauskopplung "Khajiit Has Wares, If You Have Coin" ist vielversprechend. Die drei fanden das Stück so charakteristisch für ihren neuen Stil, dass sie beschlossen, es als eigenständige Single erst mal zu priorisieren. Zeit für ein Interview mit Bandgründer Tanner.
 image: https://storage.googleapis.com/cardamonchai-media/2023-07-31/hessdalen-light-interview-soundsvegan-jpg-imagine-181818_484639_1024_768/640.webp
-copyrigt: Hessdalen Light
+copyright: Hessdalen Light
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-07-31/hessdalen-light-interview-soundsvegan-og-jpg-imagine-181818_575344_1200_628/640.webp
 labels:
   - Hessdalen Light
@@ -34,6 +27,7 @@ affiliate: false
 language: de
 languageLink: /2023/07/hessdalen-light-interview-en/
 ---
+
 **Als Tanner Thornton  2015  sein Musikprojekt aus seinem Schlafzimmer in seiner Wohnung in Dallas, Texas heraus startete, träumte er von der Band, die für ihn heute Realität ist: Hessdalen Light haben sich inzwischen auch Zephaniah Stake (Drums) und Antonio Guzman (Bass) angeschlossen. Ihre gemeinsame musikalische Reise führt Sie an Orte, welche die Fantasie beflügeln und ihre Musik immer weiter wachsen lassen. Weit über die Grenzen der Pläne aus Tanners Musik-und Traumzentrale zu Beginn.**
 
 Damals studierte der Gitarrist und Soundtüftler Maschinebau und wollte sich die kreative Freiheit nehmen, die ihm die progressive Rockmusik bat. Kurze Zeit später erschien seine erste EP und kurz danach auch schon die zweite. Weil ihnen das Projekt so gut gefiel, kamen wieder ein paar Momente später Zephaniah und Antonio dazu.  Der Rest ist Geschichte.
@@ -54,7 +48,7 @@ Das gemeinsame Album steht in der Startbox, die erste Vorauskopplung "Khajiit H
 
 ## "Wir bekommen sehr gutes Feedback"
 
-![Tanner. Bild/Picture: Hessdalen Light](https://storage.googleapis.com/cardamonchai-media/2023-07-31/hessdalen-light-tanner-guitar-jpg-imagine-080808_3f383c_3531_4414/640.webp "Tanner. Bild/Picture: Hessdalen Light")
+![Tanner. Bild/Picture: Hessdalen Light](https://storage.googleapis.com/cardamonchai-media/2023-07-31/hessdalen-light-tanner-guitar-jpg-imagine-080808_3f383c_3531_4414/640.webp 'Tanner. Bild/Picture: Hessdalen Light')
 
 **Tanner:** Ja, wir sind unglaublich stolz, wie die Single geworden und haben bis jetzt ausschließlich positives Feedback dazu erhalten. Der Song hat unsere monatlichen Zahlen beim Spotify von weniger als 100 Hörer⋆innen auf mehr als 700 zur Zeit der Veröffentlichung gebracht. Wir sind überzeugt, dass das nur die Spitze des Eisbergs ist, den wir haben es wirklich geschafft, unseren Groove zu finden und die gesamte Produktionsqualität ist hervorragend.
 
@@ -92,7 +86,7 @@ Einige unserer größten Einflüsse sind, denke ich, CHON, The Fall of Troy, Ene
 
 ## "Wir befinden uns irgendwo in der Mitte zwischen Jazz und Punkrock"
 
-![Antonio. Bild/Picture: Hessdalen Light](https://storage.googleapis.com/cardamonchai-media/2023-07-31/hessdalen-light-antonio-bass-jpg-imagine-080808_394c3b_3096_3870/640.webp "Antonio. Bild/Picture: Hessdalen Light")
+![Antonio. Bild/Picture: Hessdalen Light](https://storage.googleapis.com/cardamonchai-media/2023-07-31/hessdalen-light-antonio-bass-jpg-imagine-080808_394c3b_3096_3870/640.webp 'Antonio. Bild/Picture: Hessdalen Light')
 
 **Tanner:** Ich könnte Dir nicht mehr zustimmen! Ich liebe die Idee, zwischen den Genres hin und her zu springen und nicht in eine bestimmte Schublade oder einen bestimmten Sound gesteckt zu werden. Der Grund, warum ich dieses Projekt 2015 in meinem Schlafzimmer gestartet habe, war, dass ich unbedingt Riffs und Songs schreiben und spielen wollte, die cool und interessant klingen. Lange Zeit war – und ist es bis zu einem gewissen Grad auch heute noch – sehr schwer, unseren Sound zu beschreiben. Er vereint so viele Elemente aus so vielen verschiedenen Ecken des musikalischen Spektrums. Meine bevorzugte Beschreibung ist, dass wir uns irgendwo in der Mitte zwischen Jazz und Punkrock befinden.
 

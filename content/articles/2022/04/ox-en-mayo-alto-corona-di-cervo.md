@@ -5,15 +5,10 @@ typeName: Review
 title: '"Corona di Cervo"'
 subTitle: Die neue EP von Ox en Mayo Alto
 seoTitle: Ox en Mayo Alto – "Corona di Cervo" – Post-Rock Review
-description: Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier⋆innen
-  die erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo"
-  veröffentlicht. Das Stück steigert die Vorfreude auf das Gesamtwerk.
-excerpt: Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier⋆innen die
-  erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo"
-  veröffentlicht. Das Stück lässt tief blicken und steigert die Vorfreude auf
-  das Gesamtwerk.
+description: Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier⋆innen die erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo" veröffentlicht. Das Stück steigert die Vorfreude auf das Gesamtwerk.
+excerpt: Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier⋆innen die erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo" veröffentlicht. Das Stück lässt tief blicken und steigert die Vorfreude auf das Gesamtwerk.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-jpeg-imagine-080808_697972_700_700/640.webp
-copyrigt: Ox en Mayo Alto
+copyright: Ox en Mayo Alto
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-fb-jpg-imagine-181818_404844_1200_628/640.webp
 labels:
   - Mathrock
@@ -37,6 +32,7 @@ affiliate: false
 language: de
 languageLink: /2022/04/ox-en-mayo-alto-corona-di-cervo-en/
 ---
+
 **Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier⋆innen die erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo" veröffentlichen. Das Stück lässt tief blicken und steigert die Vorfreude auf das Gesamtwerk.**
 
 "Corona di Cervo" erzählt, wie beim Soundkollektiv üblich, wieder eine zusammenhängende Geschichte, die sich ergibt, wenn Ihr die insgesamt fünf Songs am Stück hört. Die Stücke heißen:
@@ -46,9 +42,9 @@ languageLink: /2022/04/ox-en-mayo-alto-corona-di-cervo-en/
 - brañas del bosque, desniveladas, orquídeas ...
 - lo crudo, más tarde, durante el viaje.
 - humedad, bastante...
- 
- Was übersetzt so viel bedeutet wie:
- 
+
+Was übersetzt so viel bedeutet wie:
+
 - Arnika, Augenbalsam
 - Trunk aus dem Brunnen mit dem Sternwürfel drauf...
 - Waldwasen, uneingeebnet, Orchis und Orchis einzeln...
@@ -59,7 +55,15 @@ Das macht ganz schön neugierig, oder? Ich verspreche Euch: Das dürft Ihr auf a
 
 ## Ox en Mayo Alto – "Corona di Cervo"
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2821923603/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://oxenMayoalto.bandcamp.com/album/corona-di-cervo">Corona di Cervo by Ox en Mayo Alto</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=2821923603/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://oxenMayoalto.bandcamp.com/album/corona-di-cervo">
+    Corona di Cervo by Ox en Mayo Alto
+  </a>
+</iframe>
 
 Die Namen der Songs basieren auf dem Gedicht "Todtnauberg" des jüdisch-rumänischen Dichters Paul Celan. Er schrieb es nach seinem Besuch bei Martin Heidegger nach dem Ende des Zweiten Weltkrieges. Ox en Mayo Alto griffen bei ihrer Vertonung auf die spanischen Übersetzungen von Felix Luque und Enrique Foffani zurück.
 
@@ -68,40 +72,22 @@ Die Namen der Songs basieren auf dem Gedicht "Todtnauberg" des jüdisch-rumänis
 Aus dem Gedicht hat die Band eine Post-Rock Erzählung gemacht und es damit in unsere heutige Zeit versetzt. Die Elemente aus der Natur, die auch in Ox en Mayo Altos Vorgängern nicht zu kurz kamen, stehen auch hier wieder an erster Stelle. Genau wie in Clans Gedicht:
 
 > ## "Todtnauberg" von Paul Celan
-> 
-> Arnika, Augentrost, der
-> Trunk aus dem Brunnen mit dem
-> Sternwürfel drauf,
-> 
-> in der
-> Hütte,
-> 
-> die in das Buch
-> – wessen Namen nahms auf
-> vor dem meinen? –,
-> die in dies Buch
-> geschriebene Zeile von
-> einer Hoffnung, heute,
-> auf eines Denkenden
-> kommendes
-> Wort
-> im Herzen,
-> 
-> Waldwasen, uneingeebnet,
-> Orchis und Orchis, einzeln,
-> 
-> Krudes, später, im Fahren,
-> deutlich,
-> 
-> der uns fährt, der Mensch,
-> der’s mit anhört,
-> 
-> die halb-
-> beschrittenen Knüppel-
-> pfade im Hochmoor,
-> 
-> Feuchtes,
-> viel.
+>
+> Arnika, Augentrost, der Trunk aus dem Brunnen mit dem Sternwürfel drauf,
+>
+> in der Hütte,
+>
+> die in das Buch – wessen Namen nahms auf vor dem meinen? –, die in dies Buch geschriebene Zeile von einer Hoffnung, heute, auf eines Denkenden kommendes Wort im Herzen,
+>
+> Waldwasen, uneingeebnet, Orchis und Orchis, einzeln,
+>
+> Krudes, später, im Fahren, deutlich,
+>
+> der uns fährt, der Mensch, der’s mit anhört,
+>
+> die halb- beschrittenen Knüppel- pfade im Hochmoor,
+>
+> Feuchtes, viel.
 
 Das komplette Voice-over, das Euch vermutlich gleich auffallen wird, stammt aus Fragmenten aus Filmen des sowjetischen Regisseurs Andréi Tarkovsky ("Mirror, Stalker" und "Sacrifice"). In allen Bruchstücken, die in den Songs zu hören sind, geht es um die Zeitgestaltung innerhalb einer toten Welt.
 

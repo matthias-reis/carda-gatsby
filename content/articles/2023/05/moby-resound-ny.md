@@ -5,16 +5,10 @@ typeName: Review
 title: Moby – "Resound NY"
 subTitle: Diese Songs verbinden Vergangenheit und Zukunft
 seoTitle: Moby – "Resound NY" – Sounds Vegan Review
-description: Moby hat sein neues Album "Resound NY" gerade veröffentlicht. Ich
-  habe mir die orchestralen Versionen seiner Stücke angehört. Lest jetzt meine
-  Review.
-excerpt: 'Moby veröffentlichte am 12. Mai 15 seiner Songs neu. Das Besondere:
-  Bei "Resound NY" handelt es sich um beeindruckende, orchestrale Versionen der
-  Stücke, die der Künstler gemeinsam mit Marisha Wallace auf Deutsche Grammophon
-  aufgenommen hat. Die Platte ist eine Hommage an seine Herzstadt New York City
-  und unsere Welt als Ganzes.'
+description: Moby hat sein neues Album "Resound NY" gerade veröffentlicht. Ich habe mir die orchestralen Versionen seiner Stücke angehört. Lest jetzt meine Review.
+excerpt: 'Moby veröffentlichte am 12. Mai 15 seiner Songs neu. Das Besondere: Bei "Resound NY" handelt es sich um beeindruckende, orchestrale Versionen der Stücke, die der Künstler gemeinsam mit Marisha Wallace auf Deutsche Grammophon aufgenommen hat. Die Platte ist eine Hommage an seine Herzstadt New York City und unsere Welt als Ganzes.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-21/moby-resound-ny-jpg-imagine-080808_5d6c5c_1024_768/640.webp
-copyrigt: Moby
+copyright: Moby
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-21/moby-resound-ny-og-jpg-imagine-789878_697666_1200_628/640.webp
 labels:
   - Moby
@@ -33,11 +27,12 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Moby veröffentlichte am 12. Mai 15 seiner Songs neu. Das Besondere: Bei "Resound NY" handelt es sich um beeindruckende, orchestrale Versionen der Stücke, die der Künstler gemeinsam mit Marisha Wallace auf Deutsche Grammophon aufgenommen hat. Die Platte ist eine Hommage an seine Herzstadt New York City und unsere Welt als Ganzes.**
 
 Wer Mobys Autobiografie "Porcelain" gelesen hat, weiß, wie sehr der Ausnahme-Musiker und Vegan-Aktivist sich mit der Stadt New York verbunden fühlt. Und genau so fühlt sich auch sein neues Album an. Die Neuvertonungen der folgenden 15 Songs klingen wie ein ausgedehnter Spaziergang durch die Stadt New York. Unterstützung hat sich Moby neben der von Marisha Wallace übrigens auch noch von einigen anderen musikalischen Größen geholt. Ihr findet sie in Klammern hinter den jeweiligen Stücken.
 
-![Moby – "Resound NY"](https://storage.googleapis.com/cardamonchai-media/2023-05-21/moby-resound-nyc-ecover-2048x2048-jpg-imagine-080808_595855_2048_2048/640.webp "Moby – \"Resound NY\"")
+![Moby – "Resound NY"](https://storage.googleapis.com/cardamonchai-media/2023-05-21/moby-resound-nyc-ecover-2048x2048-jpg-imagine-080808_595855_2048_2048/640.webp 'Moby – "Resound NY"')
 
 1. "In my Heart" (feat. Gregory Porter)
 2. "Extreme Ways" (feat. The Temper Trap)
@@ -79,7 +74,7 @@ Die neuen Stücke verbinden seine musikalische Vergangenheit und Zukunft und uns
 
 Moby hat es geschafft, Nostalgie mit Neugierde auf die Zukunft zu verbinden und damit ein einzigartiges Bild zu erschaffen. Den Punk der 1980er und die Techno-Szene der 1990er und frühen 2000er-Jahre in die heutige Zeit voll Innovationen, Ideen und dem Blick in eine unsichere Zukunft. Besser als Moby selbst kann man es sicher nicht formulieren:
 
-> "Wenn man an die 1990er Jahre denkt, denkt man a Bill Clinton als Präsident, die Rave-Szene, diese utopische, idyllische Welt, das Ende der Soviet-Union. Die Klimakatastrophe war damals noch nicht mehr als eine Idee für ein Buch, das Al Gore  erst noch schreiben musste. Damals war Musik machen das Feiern des Potenzials unserer Welt und unserer Kultur. Heute ist es höchstens noch ein Rückzugsort in einer beängstigenden und apokalyptischen Welt."
+> "Wenn man an die 1990er Jahre denkt, denkt man a Bill Clinton als Präsident, die Rave-Szene, diese utopische, idyllische Welt, das Ende der Soviet-Union. Die Klimakatastrophe war damals noch nicht mehr als eine Idee für ein Buch, das Al Gore erst noch schreiben musste. Damals war Musik machen das Feiern des Potenzials unserer Welt und unserer Kultur. Heute ist es höchstens noch ein Rückzugsort in einer beängstigenden und apokalyptischen Welt."
 
 ## Moby feat. Marisha Wallace – "In This World"
 

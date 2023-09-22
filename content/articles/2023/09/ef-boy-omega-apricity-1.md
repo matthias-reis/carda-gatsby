@@ -5,15 +5,10 @@ typeName: Review
 title: EF & Boy Omega – "Apricity"
 subTitle: Ein heller Song für die dunkle Jahreszeit
 seoTitle: EF & Boy Omega – "Apricity" – Review
-description: EF und Boy Omega haben gemeinsam eine neue Version des grandiosen
-  EF Stücks "Apricity" veröffentlicht. Lest jetzt, warum Ihr den Song unbedingt
-  hören solltet.
-excerpt: 'Eine Überraschung erreichte mich diese Woche von meiner Lieblingsband
-  EF: "Wir haben eine neue Single, magst Du schon mal reinhören?" Und wie ich
-  das wollte! Ihr könnt "Apricity" ab heute übrigens auch hören. Details dazu
-  bekommt Ihr hier von mir.'
+description: EF und Boy Omega haben gemeinsam eine neue Version des grandiosen EF Stücks "Apricity" veröffentlicht. Lest jetzt, warum Ihr den Song unbedingt hören solltet.
+excerpt: 'Eine Überraschung erreichte mich diese Woche von meiner Lieblingsband EF: "Wir haben eine neue Single, magst Du schon mal reinhören?" Und wie ich das wollte! Ihr könnt "Apricity" ab heute übrigens auch hören. Details dazu bekommt Ihr hier von mir.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-01/ef-boy-omega-jpg-imagine-080808_53473b_1024_768/640.webp
-copyrigt: Boy Omega & EF
+copyright: Boy Omega & EF
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-01/ef-boy-omega-og-jpg-imagine-080808_55493d_1200_628/640.webp
 labels:
   - Boy Omega EF
@@ -32,6 +27,7 @@ affiliate: false
 language: de
 languageLink: /2023/09/ef-boy-omega-apricity-en/
 ---
+
 **Eine Überraschung erreichte mich diese Woche von meiner Lieblingsband EF: "Wir haben eine neue Single, magst Du schon mal reinhören?" Und wie ich das wollte! Ihr könnt "Apricity" ab heute übrigens auch hören. Details dazu bekommt Ihr hier von mir.**
 
 Gemeinsam mit ihrem guten Freund Martin Hasselgren aka Boy Omega haben die Schweden eine sommerliche Upbeat-Pop-Serenade aufgenommen. Das Stück stammt ursprünglich vom kürzlich veröffentlichten EF Album "[We Salute You, You And You](/2022/11/ef-interview/)" und kommt nun in einer ganz anderen Spielweise daher, die Kontrast zum Original steht und ebenfalls wunderbar mit dem Song harmoniert.
@@ -45,4 +41,3 @@ Wie geschaffen also für die Wintermonate ist dieses Stück Musik – es klingt 
 Hört rein, ich liebe das Stück schon jetzt.
 
 <YouTube id="SQclpAUpRro" />
-

@@ -3,17 +3,12 @@ date: 2021-09-28T14:48:24.074Z
 slug: omega-3-vitamin-d-naturise
 typeName: Produkttest
 title: Gesunde Öle mit öko-sozialem Impact
-subTitle: "Omega-3-Algenöl und Vitamin D3/K2 von NaturRise "
-seoTitle: "Omega-3-Algenöl und Vitamin D3/K2 von NaturRise "
-description: Gesunde Öle stärken das Immunsystem und halten uns gesund.
-  Hochwertige, pflanzliche Öle können außerdem als Träger für wichtige Vitamine
-  wie Vitamin D3 und K2 verwendet werden.
-excerpt: Gesunde Öle sollte man nach Möglichkeit täglich zu sich nehmen. Mit
-  ihnen führen wir unserem Körper wichtige Fettsäuren zu und stärken unser
-  Immunsystem. Hochwertige, pflanzliche Öle können außerdem als Träger für
-  wichtige Nährstoffe und Vitamine wie Vitamin D3 und K2 verwendet werden.
+subTitle: 'Omega-3-Algenöl und Vitamin D3/K2 von NaturRise '
+seoTitle: 'Omega-3-Algenöl und Vitamin D3/K2 von NaturRise '
+description: Gesunde Öle stärken das Immunsystem und halten uns gesund. Hochwertige, pflanzliche Öle können außerdem als Träger für wichtige Vitamine wie Vitamin D3 und K2 verwendet werden.
+excerpt: Gesunde Öle sollte man nach Möglichkeit täglich zu sich nehmen. Mit ihnen führen wir unserem Körper wichtige Fettsäuren zu und stärken unser Immunsystem. Hochwertige, pflanzliche Öle können außerdem als Träger für wichtige Nährstoffe und Vitamine wie Vitamin D3 und K2 verwendet werden.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-09-28-oele-52-jpg-imagine-f8f8f8_989394_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/oele-fb-png-imagine-f8f8f8_a8a9aa_1200_628/640.webp
 labels:
   - Omega 3
@@ -70,17 +65,17 @@ Für Veganer⋆innen ist das ["Maritime Evergreen" Öl von NatuRise](https://t.a
 
 ## Lebertran war gestern
 
-Auch heute begegnet man immer wieder Menschen, die erzählen, Fischöl wäre das Mittel der Wahl, wenn es um gesunde Fettsäuren geht. Das ist schlichtweg falsch. Zwar liefert auch Fischöl die bekannten Fettsäuren, allerdings schlummert in Lebertran & Co. leider nicht nur das. Der Seefisch steckt heutzutage nicht nur voll Mikroplastik. Die Schwermetall-Messwerte sind immer wieder erschreckend hoch. [Dazu könnt Ihr hier mehr lesen](/2019/12/vegane-fischbroetchen-for-future/). 
+Auch heute begegnet man immer wieder Menschen, die erzählen, Fischöl wäre das Mittel der Wahl, wenn es um gesunde Fettsäuren geht. Das ist schlichtweg falsch. Zwar liefert auch Fischöl die bekannten Fettsäuren, allerdings schlummert in Lebertran & Co. leider nicht nur das. Der Seefisch steckt heutzutage nicht nur voll Mikroplastik. Die Schwermetall-Messwerte sind immer wieder erschreckend hoch. [Dazu könnt Ihr hier mehr lesen](/2019/12/vegane-fischbroetchen-for-future/).
 
 Viele der Schadstoffe im Fischöl sind fettlöslich und werden im Darm fast vollständig resorbiert. Sie verteilen sich später im ganzen Körper auf alle Gewebe. Die Fettlöslichkeit erleichtert es ihnen außerdem, die Blut-Hirn-Schranke sowie die Plazentaschranke zu überwinden. Ich finde, wenn man so ein Szenario mithilfe von Pflanzenöl vermeiden kann, sollte man es tun, oder? Außerdem gebt Ihr mir doch sicher recht, dass Blutorangen und Zitronen einfach viel besser schmecken, als Fischtran?
 
 ## Veganes Vitamin D3/K2 als Öl
 
-Früher musste man ziemlich lange suchen, um veganes Vitamin D3 zu finden. Heute ist das zum Glück nicht mehr allzu schwer. Das ["Morning Sun Vitamin D3/K2 Öl"](https://t.adcell.com/p/click?promoId=244963&slotId=80259&param0=https%3A%2F%2Fwww.naturise.de%2Fmorning-sun) von NatuRise enthält auch K2. Ihr müsst also kein zusätzliches Präparat besorgen (Die allgemeine Empfehlung lautet, die beiden Vitamine immer zusammen zu sich zu nehmen). Das ist schon mal spitze. 
+Früher musste man ziemlich lange suchen, um veganes Vitamin D3 zu finden. Heute ist das zum Glück nicht mehr allzu schwer. Das ["Morning Sun Vitamin D3/K2 Öl"](https://t.adcell.com/p/click?promoId=244963&slotId=80259&param0=https%3A%2F%2Fwww.naturise.de%2Fmorning-sun) von NatuRise enthält auch K2. Ihr müsst also kein zusätzliches Präparat besorgen (Die allgemeine Empfehlung lautet, die beiden Vitamine immer zusammen zu sich zu nehmen). Das ist schon mal spitze.
 
-Die Dahrreichungsform als Öls gefällt mir besonders gut. Genau, wie das "Marine Evergreen Öl" kommt es in einer Glasflasche mit Holzdeckel und Pipette zu Euch. Die Dosierung funktioniert wunderbar. Pro Tag braucht Ihr nur einen Tropfen, um Euren Bedarf zu decken. 
+Die Dahrreichungsform als Öls gefällt mir besonders gut. Genau, wie das "Marine Evergreen Öl" kommt es in einer Glasflasche mit Holzdeckel und Pipette zu Euch. Die Dosierung funktioniert wunderbar. Pro Tag braucht Ihr nur einen Tropfen, um Euren Bedarf zu decken.
 
-Vitamin D3 und K2 sorgen dafür, dass Eure Knochen gesund bleiben. D3 ist außerdem wichtig für Eure Muskeln und das Immunsystem. Besonders in der dunklen Jahreszeit und wenn Ihr, wie ich, viel im Homeoffice arbeitet, solltet Ihr auf alle Fälle darauf achten, genug Vitamin D3 zu Euch zu nehmen. 
+Vitamin D3 und K2 sorgen dafür, dass Eure Knochen gesund bleiben. D3 ist außerdem wichtig für Eure Muskeln und das Immunsystem. Besonders in der dunklen Jahreszeit und wenn Ihr, wie ich, viel im Homeoffice arbeitet, solltet Ihr auf alle Fälle darauf achten, genug Vitamin D3 zu Euch zu nehmen.
 
 Der Körper bildet das Vitamin, wenn wir unsere Haut lange genug der Sonne aussetzen. Darum wird es auch als "Sonnenvitamin" (daher auch der treffende Name des Öls: "Morning Sun") bezeichnet. Allerdings sind wir in unserer modernen Welt nur sehr selten so lange an der Sonne, wie wir brauchen würden, um wirklich genügend Vitamin D3 zu uns zu nehmen. Und dann sind da natürlich auch noch unsere Kleidung und der möglichst hohe Lichtschutzfaktor, mit dem wir unsere Haut vor schädlichen UV-Strahlen schützen.
 

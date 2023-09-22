@@ -5,13 +5,10 @@ typeName: Beitrag
 title: Sternekoch ersetzt Käse durch vegane Alternativen
 subTitle: '"Vegan ist einfach besser"'
 seoTitle: Sternekoch ersetzt Käse durch vegane Alternativen – "Vegan ist einfach besser"
-description: Der Sternekoch Josef Centeno ersetzt in seinen Lokalen jetzt den
-  Käse durch vegane Alternativen. Das gab er vor ein paar Tagen bekannt.
-  Pflanzlichen Alternativen sind in seinen Augen nicht nur die modernere,
-  sondern auch die bessere Wahl – aus vielen Gründen.
-excerpt: ""
+description: Der Sternekoch Josef Centeno ersetzt in seinen Lokalen jetzt den Käse durch vegane Alternativen. Das gab er vor ein paar Tagen bekannt. Pflanzlichen Alternativen sind in seinen Augen nicht nur die modernere, sondern auch die bessere Wahl – aus vielen Gründen.
+excerpt: ''
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sternekoch-josef-centeno-jpg-imagine-181818_4b463e_1024_768/640.webp
-copyrigt: Djedj, pixabay
+copyright: Djedj, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sternekoch-josef-centeno-fb-jpg-imagine-080808_514c42_1200_628/640.webp
 labels:
   - Restaurant

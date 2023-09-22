@@ -5,15 +5,10 @@ typeName: Beitrag
 title: Klimasünde Fleisch
 subTitle: Fleischindustrie für 60 Prozent der Lebensmittel-Treibhausgase verantwortlich
 seoTitle: Fleisch für 60 % der Lebensmittel-Treibhausgase verantwortlich
-description: Eine neue Studie zeigt, dass die weltweite Fleisch-Produktion für
-  28 Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher
-  Nahrungsmittel. Sie wird Forschenden zukünftig als wichtige Referenz dienen.
-excerpt: Eine neue Studie zeigt, dass die weltweite Fleisch-Produktion für 28
-  Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher
-  Nahrungsmittel. Sie zeigt den dringenden Handlungsbedarf und wird Forschenden
-  zukünftig als wichtige Referenz dienen.
+description: Eine neue Studie zeigt, dass die weltweite Fleisch-Produktion für 28 Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher Nahrungsmittel. Sie wird Forschenden zukünftig als wichtige Referenz dienen.
+excerpt: Eine neue Studie zeigt, dass die weltweite Fleisch-Produktion für 28 Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher Nahrungsmittel. Sie zeigt den dringenden Handlungsbedarf und wird Forschenden zukünftig als wichtige Referenz dienen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-daenemark-265-jpg-imagine-180818_998f61_3931_2948/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/fleisch-treibhausgase-fb-png-imagine-d8c878_93866d_1200_628/640.webp
 labels:
   - Treibhausgas
@@ -77,5 +72,4 @@ Der selbst nicht an der aktuellen Studie beteiligte Pflanzenphysiologe Lewis Zis
 > "Die Studie ist wirklich verdammt gut. Sie sollte bei den bevorstehenden UN-Klimagesprächen in Schottland auf jeden Fall gebührende Aufmerksamkeit erhalten. Eine grundlegende Unbekannte innerhalb der Weltwirtschaft ist der Einfluss von Lebensmitteln auf die Treibhausgas-Emissionen. Es hat zwar früher schon Schätzungen dazu gegeben, aber diese Arbeit bietet uns jetzt den Goldstandard. Sie wird uns in den kommenden Jahren als wichtige Referenz dienen."
 
 [^1]: ["Global greenhouse gas emissions from animal-based foods are twice those of plant-based foods" – Die Studie von Xiaoming Xu, Prateek Sharma, Shijie Shu, Tzu-Shun Lin, Philippe Ciais, Francesco N. Tubiello, Pete Smith, Nelson Campbell5 und Atul K. Jain auf nature.com](https://www.nature.com/articles/s43016-021-00358-x.epdf)
-
 [^2]: [Studie zu den Treibhausgas-Emissionen von Lebensmitteln im The Guardian](https://www.theguardian.com/environment/2021/sep/13/meat-greenhouses-gases-food-production-study)

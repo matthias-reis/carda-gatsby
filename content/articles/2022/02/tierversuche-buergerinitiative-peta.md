@@ -5,15 +5,10 @@ typeName: Beitrag
 title: PETA fordert ein Europa ohne Tierversuche
 subTitle: Bürgerinitiative braucht noch Unterschriften
 seoTitle: PETA startet Bürgerinitiative gegen Tierversuche
-description: Noch rund 2.000 Unterschriften trennen die von PETA gestartete
-  Bürgerinitiative "Save Cruelty Free Cosmetics" gegen für ein
-  Tierversuchs-freies Europa vom Ziel.
-excerpt: 'Noch rund 2.000 Unterschriften trennen die aktuelle PETA Initiative
-  "Save Cruelty Free Cosmetics" für ein Tierversuchs-freies Europa vom Ziel: Mit
-  der einmillionsten Unterschrift wird sie von der Kommission in Betracht
-  gezogen. Um das Ziel zu erreichen, ist jede Signatur wichtig.'
+description: Noch rund 2.000 Unterschriften trennen die von PETA gestartete Bürgerinitiative "Save Cruelty Free Cosmetics" gegen für ein Tierversuchs-freies Europa vom Ziel.
+excerpt: 'Noch rund 2.000 Unterschriften trennen die aktuelle PETA Initiative "Save Cruelty Free Cosmetics" für ein Tierversuchs-freies Europa vom Ziel: Mit der einmillionsten Unterschrift wird sie von der Kommission in Betracht gezogen. Um das Ziel zu erreichen, ist jede Signatur wichtig.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-16/peta-tierversuche-buergerinitiative-jpg-imagine-082808_67764c_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-16/peta-tierversuche-buergerinitiative-fb-png-imagine-081808_617444_1200_628/640.webp
 labels:
   - Bürgerinitiative
@@ -26,6 +21,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Noch rund 2.000 Unterschriften trennen die aktuelle PETA Initiative "Save Cruelty Free Cosmetics" für ein Tierversuchs-freies Europa vom Ziel: Mit der einmillionsten Unterschrift wird sie von der Kommission in Betracht gezogen. Um das Ziel zu erreichen, ist jede Signatur wichtig.**
 
 Die Unterschriften für die Bürgerinitiative für den Schutz kosmetischer Mittel ohne Tierquälerei und ein Europa ohne Tierversuche werden direkt über eine offizielle Webseite der EU generiert. Und hier unterscheidet sich eine Bürgerinitiative von einer einfachen Petition. Die EU-Kommission ist dazu verpflichtet, sich mit den gestellten Forderungen auseinanderzusetzen. Wundert Euch also nicht, wenn mehr Daten abgefragt werden, als Ihr das von Petitionen gewohnt seid. Eure Daten sind sicher. Das wurde von der EU-Kommission bestätigt.

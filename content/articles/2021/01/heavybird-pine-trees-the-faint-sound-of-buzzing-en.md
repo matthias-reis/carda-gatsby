@@ -4,13 +4,10 @@ slug: heavybird-pine-trees-the-faint-sound-of-buzzing-en
 typeName: Review
 title: '"Pine Trees & The Faint Sound Of Buzzing"'
 subTitle: Heavybird's New Album
-seoTitle: "\"Pine Trees & The Faint Sound Of Buzzing\" – Heavybird's New Album"
-description: 'You know Heavybird aka Evan Glenn Adams at least since my
-  interview with the multi-instrumentalist last year. Now the time has come:
-  Evan has finished his new album "Pine Trees &amp; The Faint Sound Of Buzzing".
-  He will release it on March, 19th and I had the chance to listen to it now.'
+seoTitle: '"Pine Trees & The Faint Sound Of Buzzing" – Heavybird''s New Album'
+description: 'You know Heavybird aka Evan Glenn Adams at least since my interview with the multi-instrumentalist last year. Now the time has come: Evan has finished his new album "Pine Trees &amp; The Faint Sound Of Buzzing". He will release it on March, 19th and I had the chance to listen to it now.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-01-heavybird-3-l-jpeg-imagine-080808_50669d_1440_1080/640.webp
-copyrigt: Heavybird
+copyright: Heavybird
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-01-heavybird-1-png-l-jpg-imagine-080808_324165_1440_754/640.webp
 labels:
   - Ambient

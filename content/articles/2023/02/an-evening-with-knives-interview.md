@@ -5,16 +5,10 @@ typeName: Interview
 title: An Evening With Knives
 subTitle: '"Wir möchten mit unserer Musik immer eine Geschichte erzählen"'
 seoTitle: Interview mit  An Evening With Knives Sänger Marco
-description: Das neue An Evening With Knives album "FNR Sessions" is
-  spektakulär. Lest jetzt das Interview mit Songwriter, Sänger und Bandgründer
-  Marco.
-excerpt: 'Das neue An Evening With Knives Album "FNR Sessions" ist etwas ganz
-  Besonderes: die Band hat es in ihrer Heimatstadt Eindhoven aufgenommen – an
-  einem Ort der Musik und der Gemeinschaft. Das Ergebnis ist ein wunderbares,
-  energiegeladenes Zusammenspiel komplexer Songstrukturen voll Gefühl, Drive und
-  magischer Momente.'
+description: Das neue An Evening With Knives album "FNR Sessions" is spektakulär. Lest jetzt das Interview mit Songwriter, Sänger und Bandgründer Marco.
+excerpt: 'Das neue An Evening With Knives Album "FNR Sessions" ist etwas ganz Besonderes: die Band hat es in ihrer Heimatstadt Eindhoven aufgenommen – an einem Ort der Musik und der Gemeinschaft. Das Ergebnis ist ein wunderbares, energiegeladenes Zusammenspiel komplexer Songstrukturen voll Gefühl, Drive und magischer Momente.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-1-1-jpg-imagine-080808_503292_1024_768/640.webp
-copyrigt: An Evening With Knives
+copyright: An Evening With Knives
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-og-jpg-imagine-082868_1c3b70_1200_628/640.webp
 labels:
   - An Evening With Knives
@@ -35,6 +29,7 @@ affiliate: false
 language: de
 languageLink: /2023/02/an-evening-with-knives-interview-en/
 ---
+
 **Das neue An Evening With Knives Album "FNR Sessions" ist etwas ganz Besonderes: die Band hat es in ihrer Heimatstadt Eindhoven aufgenommen – an einem Ort der Musik und der Gemeinschaft. Das Ergebnis ist ein wunderbares, energiegeladenes Zusammenspiel komplexer Songstrukturen voll Gefühl, Drive und magischer Momente.**
 
 Zur Feier des Tages habe ich mit Sänger, Gitarrist, Songwriter und Bandgründer Marco telefoniert und mich mit ihm Interview über die Platte, ihre Entstehung und die Entwicklung der Band unterhalten. Dabei habe ich nicht nur einiges über die geplante An Evening With Knives Tour erfahren – Marco hat mir einige spannende Geheimnisse der Band verraten!
@@ -51,7 +46,7 @@ Zur Feier des Tages habe ich mit Sänger, Gitarrist, Songwriter und Bandgründer
 
 ## "Wir haben unser Album im Effenaar in Eindhoven aufgenommen"
 
-![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-3-1-jpg-imagine-181818_3b363a_1024_768/640.webp "An Evening With Knives")
+![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-3-1-jpg-imagine-181818_3b363a_1024_768/640.webp 'An Evening With Knives')
 
 **Marco:** Hier in Eindhoven gibt es diese Hauptkonzerthalle namens Effenaar. Sie haben ein paar Künstler⋆innen die Möglichkeit geboten, im Rahmen eines Projekts Video-Events zu machen. Sie haben uns ihre kleine Halle plus ein Video- und ein Sound-Team zur Verfügung gestellt und wir haben unser komplettes Konzert aufgenommen. Sie haben uns mit den verschiedensten Kameras aus den unterschiedlichsten Blickwinkeln gefilmt und jedes Detail eingefangen. Das war für uns ein großartiges Erlebnis!
 
@@ -81,7 +76,7 @@ Es wird Dich vielleicht auch überraschen, dass ich eine Menge Funk höre. Ich m
 
 ## "Es fühlt sich wie eine neue Ära an"
 
-![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-4-2-jpg-imagine-080808_393533_1024_768/640.webp "An Evening With Knives")
+![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-4-2-jpg-imagine-080808_393533_1024_768/640.webp 'An Evening With Knives')
 
 **Marco:** Ich denke, wir haben einen großen Schritt nach vorn gemacht, als Jarno sich uns als Drummer angeschlossen hat. Wenn Du unsere Musik von damals und heute vergleichst, kannst Du einen großen Unterschied in der Stimmung erkennen. Wir spielen dieselben Songs und der Groove funktioniert besser. Das kannst Du auch bei unseren Live-Shows sehen. Es fühlt sich so an, als wären mehr Emotionen im Spiel – das Publikum geht auch mehr mit.
 
@@ -101,7 +96,7 @@ Wir versuchen mit der Kombination aus Songs außerdem immer eine Geschichte zu e
 
 ## "Unsere Lyrics sind sehr persönlich"
 
-![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-2-1-jpg-imagine-080808_4d4d4d_1024_768/640.webp "An Evening With Knives")
+![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-2-1-jpg-imagine-080808_4d4d4d_1024_768/640.webp 'An Evening With Knives')
 
 **Marco:** Ja, das stimmt. Sie sind sehr persönlich. Für mich ist das eine Möglichkeit, zu verarbeiten, was in meinem Leben passiert. Wenn ich also in meinem Alltag mit irgendeinem Schmerz zu kämpfen habe, habe ich manchmal das Bedürfnis, einen anderen Song auszusuchen und auf der Bühne eine andere Geschichte zu erzählen. Ich mag es, wenn ich spüre, was ich spiele und natürlich – wie ich schon gesagt habe – abhängig von der Stimmung suchst Du Dir aus, was Du spielst.
 
@@ -119,11 +114,27 @@ Darum würde ich auch nicht sagen, dass ich es mag, neue Songs während einer fr
 
 **Marco:** Ganz genau! Ich denke,"Blackout" ist das perfekte Beispiel dafür. Das Stück ist auf unserer "Fade Out" EP und es gibt auch eine Version auf Spotify. Wenn Du Dir die EP-Version anhörst und die neue Live-Version auf "FNR Sessions" kannst Du den Unterschied hören. Es ist derselbe Song mit denselben Lyrics, aber der Groove und das Tempo sind komplett unterschiedlich. Ich mag die EP-Version von "Blackout", aber ich liebe die Live-Version des Songs auf "FNR Sessions". Wenn Du Dir das anhörst, wirst Du den Unterschied sofort erkennen. Sie sind gleich, aber dennoch komplett unterschiedlich.
 
-## An Evening With Knives – "Blackout" EP-Version (2018) vs. "FNR Sessions"  Live-Version (2023)
+## An Evening With Knives – "Blackout" EP-Version (2018) vs. "FNR Sessions" Live-Version (2023)
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3744542769/size=large/bgcol=ffffff/linkcol=5C9B72/tracklist=false/artwork=small/track=3427858990/transparent=true/" seamless><a href="https://aneveningwithknives.bandcamp.com/album/fnr-sessions">FNR Sessions by An Evening With Knives</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3744542769/size=large/bgcol=ffffff/linkcol=5C9B72/tracklist=false/artwork=small/track=3427858990/transparent=true/"
+  seamless
+>
+  <a href="https://aneveningwithknives.bandcamp.com/album/fnr-sessions">
+    FNR Sessions by An Evening With Knives
+  </a>
+</iframe>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=78221626/size=large/bgcol=ffffff/linkcol=5C9B72/tracklist=false/artwork=small/track=716091444/transparent=true/" seamless><a href="https://aneveningwithknives.bandcamp.com/album/fade-out-ep">Fade Out EP by An Evening With Knives</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=78221626/size=large/bgcol=ffffff/linkcol=5C9B72/tracklist=false/artwork=small/track=716091444/transparent=true/"
+  seamless
+>
+  <a href="https://aneveningwithknives.bandcamp.com/album/fade-out-ep">
+    Fade Out EP by An Evening With Knives
+  </a>
+</iframe>
 
 **Anne:** Du hast mir erzählt, dass die Leute, die sich "FNR Sessions" auf CD kaufen, ein besonderer Bonus erwartet. Möchtest Du mir mehr darüber verraten?
 

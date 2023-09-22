@@ -3,17 +3,12 @@ date: 2022-11-09T14:43:32.680Z
 slug: paul-seidel-fern-the-ocean-interview
 typeName: Interview
 title: Paul Seidel von FERN im Interview
-subTitle: "Die zärtliche Seite von Heavy Music "
+subTitle: 'Die zärtliche Seite von Heavy Music '
 seoTitle: Interview mit Paul Seidel von FERN & The Ocean
-description: Ihr wollt mehr über das FERN Album "Intersubjective" erfahren? Lest
-  mein Interview mit FERN Gründer und The Ocean Drummer Paul Seidel!
-excerpt: Paul Seidel hat mit FERN vor Kurzem sein erstes offizielles Album
-  "Intersubjective" veröffentlicht. Der The Ocean Drummer setzt im Projekt auf
-  das Zusammenspiel aus elektronischen Elementen und Instrumenten und verbindet
-  dabei die Welten von Pop und Industrial sehr geschickt miteinander. Ich hatte
-  jetzt die Chance, ihn zu interviewen.
+description: Ihr wollt mehr über das FERN Album "Intersubjective" erfahren? Lest mein Interview mit FERN Gründer und The Ocean Drummer Paul Seidel!
+excerpt: Paul Seidel hat mit FERN vor Kurzem sein erstes offizielles Album "Intersubjective" veröffentlicht. Der The Ocean Drummer setzt im Projekt auf das Zusammenspiel aus elektronischen Elementen und Instrumenten und verbindet dabei die Welten von Pop und Industrial sehr geschickt miteinander. Ich hatte jetzt die Chance, ihn zu interviewen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-jpeg-imagine-080808_606060_1024_768/640.webp
-copyrigt: Paul Seidel
+copyright: Paul Seidel
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-fb-jpeg-imagine-080808_5c5c5c_1200_628/640.webp
 labels:
   - FERN
@@ -36,6 +31,7 @@ affiliate: false
 language: de
 languageLink: /2022/11/paul-seidel-fern-the-ocean-interview-en/
 ---
+
 **Paul Seidel hat mit FERN vor Kurzem sein erstes offizielles Album "Intersubjective" veröffentlicht. Der The Ocean Drummer setzt im Projekt auf das Zusammenspiel aus elektronischen Elementen und Instrumenten und verbindet dabei die Welten von Pop und Industrial sehr geschickt miteinander. Ich hatte jetzt die Chance, ihn zu interviewen.**
 
 **Anne:** Hallo Paul! Danke, dass Du Dir Zeit für das Interview nimmst! Glückwunsch zum neuen FERN Album! Ich freue mich sehr über die Platte und finde, dass "Intersubjective" eine wunderbare Ruhe und Ausgeglichenheit bringt, gleichzeitig aber auch wachrüttelt. Bist Du zufrieden damit?
@@ -46,7 +42,7 @@ languageLink: /2022/11/paul-seidel-fern-the-ocean-interview-en/
 
 ## "Ich habe gelernt, meine Batterien zwischendurch aufzuladen"
 
-![Paul Seidel backstage. Foto: Paul Seidel privat](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-tour-picture-2-jpeg-imagine-080808_6e6f6d_1024_768/640.webp "Paul Seidel backstage. Foto: Paul Seidel privat")
+![Paul Seidel backstage. Foto: Paul Seidel privat](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-tour-picture-2-jpeg-imagine-080808_6e6f6d_1024_768/640.webp 'Paul Seidel backstage. Foto: Paul Seidel privat')
 
 **Paul:** Zugegebenermaßen ist die ganze Überlagerung der vielen Projekte manchmal etwas viel, aber man ist ja seines eigenen Glückes Schmied, wenn ich mich recht entsinne, demnach möchte ich mich nicht beschweren. Ich habe gelernt, die Verschnaufpausen zwischendurch wirklich so gut es geht auszukosten, um die Batterien aufzuladen.
 
@@ -56,14 +52,13 @@ languageLink: /2022/11/paul-seidel-fern-the-ocean-interview-en/
 
 **Anne:** Worum geht es im ersten Song "առաջանալ"? Du hast ihn mit Hayk Karoyi aufgenommen. Ein Freund von Dir?
 
-**Paul:** Ich habe Hayk in Jerewan, der Hauptstadt Armeniens kennengelernt, als er spontan etwas für das letzte The Ocean Album "Phanerozoic II" aufgenommen hat. Er und ich waren danach in stetigem Kontakt und ich wusste bereits 2019, dass ich ihn gerne auf meinem FERN Album als Gast involvieren würde. Der Opener des Albums soll die Idee der digitalen Vereinnahmung und gleichzeitigen Emergenz der Dinge widerspiegeln. Eine Art Wechselspiel zwischen organischer Fragilität und der Entfremdung vom Ursprünglichen. Gleichzeitig wollte ich die Hörer*innen dazu bringen sich fallen
-zu lassen, den Fokus vom Außen auf das Innen zu richten.
+**Paul:** Ich habe Hayk in Jerewan, der Hauptstadt Armeniens kennengelernt, als er spontan etwas für das letzte The Ocean Album "Phanerozoic II" aufgenommen hat. Er und ich waren danach in stetigem Kontakt und ich wusste bereits 2019, dass ich ihn gerne auf meinem FERN Album als Gast involvieren würde. Der Opener des Albums soll die Idee der digitalen Vereinnahmung und gleichzeitigen Emergenz der Dinge widerspiegeln. Eine Art Wechselspiel zwischen organischer Fragilität und der Entfremdung vom Ursprünglichen. Gleichzeitig wollte ich die Hörer\*innen dazu bringen sich fallen zu lassen, den Fokus vom Außen auf das Innen zu richten.
 
-**Anne:** Welche Künstler*innen hast Du Dir neben Hayk Karoyi für Dein Album ins Boot geholt? Wen bekommen wir da alles zu hören? Oder ist FERN ansonsten dieses Mal Paul Seidel pur?
+**Anne:** Welche Künstler\*innen hast Du Dir neben Hayk Karoyi für Dein Album ins Boot geholt? Wen bekommen wir da alles zu hören? Oder ist FERN ansonsten dieses Mal Paul Seidel pur?
 
 ## "Mit Jan Kerscher sind viele Sounds und Details entstanden"
 
-![Paul Seidel an den Drums. Foto: Paul Seidel privat](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-drums-jpeg-imagine-080808_555555_1024_768/640.webp "Paul Seidel an den Drums. Foto: Paul Seidel privat")
+![Paul Seidel an den Drums. Foto: Paul Seidel privat](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-drums-jpeg-imagine-080808_555555_1024_768/640.webp 'Paul Seidel an den Drums. Foto: Paul Seidel privat')
 
 **Paul:** Neben Hayk ist auch die wahnsinnig gute Cellistin Marie-Claire Schlameus auf dem Track "I Am A Transient" zu hören. Sie hat meine Ideen wirklich perfekt umgesetzt und dem Song die nötige Zärtlichkeit verpasst, die zuvor in den programmierten Sounds noch fehlte. Im aufwendigen Aufnahme- und Produktionsprozess mit meinem Freund und Kollegen Jan Kerscher sind auch unzählige weitere Sounds und Details entstanden, die vorher nicht da waren.
 
@@ -77,7 +72,7 @@ Ansonsten gibt es noch den Song "Exnomination", an dem ich mit meinem Bandkolleg
 
 ![FERN – "Intersubjective". Artwork: FERN](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-fern-jpeg-imagine-680808_6d0201_1024_768/640.webp "FERN – \\"Intersubjective\\". Artwork: FERN")
 
-**Paul:** Ich habe dieses Jahr auch eine EP meiner Freundin Emma Kollmorgen coproduziert. Das Projekt trägt den Namen "Kollmorgen", die EP heißt "1243" und umfasst  fünf Songs, die wir im Verlauf der letzten zwei bis drei Jahre verfeinert, vollendet und über Kompakt Records veröffentlicht haben. Wer auf Musik a la Portishead, Ry X oder Kiasmos steht, sollte da mal reinhören.
+**Paul:** Ich habe dieses Jahr auch eine EP meiner Freundin Emma Kollmorgen coproduziert. Das Projekt trägt den Namen "Kollmorgen", die EP heißt "1243" und umfasst fünf Songs, die wir im Verlauf der letzten zwei bis drei Jahre verfeinert, vollendet und über Kompakt Records veröffentlicht haben. Wer auf Musik a la Portishead, Ry X oder Kiasmos steht, sollte da mal reinhören.
 
 **Anne:** Würdest Du sagen, dass die Musik von FERN Deine Ideen am besten verkörpert?
 
@@ -85,14 +80,13 @@ Ansonsten gibt es noch den Song "Exnomination", an dem ich mit meinem Bandkolleg
 
 Ich möchte mich aber auch nicht zu sehr darüber definieren oder darauf festnageln lassen, was FERN sein kann oder zu sein hat. Das Schöne an Fragen ist ja manchmal auch, dass die Reaktionen darauf zu komplex sind, um sie als universelle Antworten gelten zu lassen.
 
-**Anne:** Die Musik von FERN lebt wie bei The Ocean auch von Deinem dynamischen und präzisen Spiel. FERN steht für mich jedoch insgesamt im Kontrast zu dem, was Du mit The Ocean machst. Ich mag die Industrial-Zitate besonders. Ich glaube, wir haben da eventuell ein paar gemeinsame Held*innen. Was mich persönlich auch sehr anspricht, ist die zarte und zugleich sehr direkte Sprache insgesamt. Ist das ein anderer Teil von Dir?
+**Anne:** Die Musik von FERN lebt wie bei The Ocean auch von Deinem dynamischen und präzisen Spiel. FERN steht für mich jedoch insgesamt im Kontrast zu dem, was Du mit The Ocean machst. Ich mag die Industrial-Zitate besonders. Ich glaube, wir haben da eventuell ein paar gemeinsame Held\*innen. Was mich persönlich auch sehr anspricht, ist die zarte und zugleich sehr direkte Sprache insgesamt. Ist das ein anderer Teil von Dir?
 
 ## "Sensibilität erlaubt es uns, die Welt mit all ihren Details wahrzunehmen"
 
-![Paul Seidel auf dem Dunk!festival. Foto: Paul Seidel privat](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-dunk-festival-png-imagine-080808_554442_1024_768/640.webp "Paul Seidel auf dem Dunk!festival. Foto: Paul Seidel privat")
+![Paul Seidel auf dem Dunk!festival. Foto: Paul Seidel privat](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-dunk-festival-png-imagine-080808_554442_1024_768/640.webp 'Paul Seidel auf dem Dunk!festival. Foto: Paul Seidel privat')
 
-**Paul:** Ich denke nicht, dass es ein anderer Teil ist. Der Inhalt wird nur anders formuliert, vielleicht in einer anderen Sprache. Sensibilität ist eine Eigenschaft, die mich bereits seit meiner Kindheit im Positiven wie Negativen beeinflusst und mein Verhalten prägt. Vielleicht ist FERN in der Hinsicht eine Art Tagebuch, um die oft überwältigenden Eindrücke und Gedanken zu extrahieren und zu
-verarbeiten.
+**Paul:** Ich denke nicht, dass es ein anderer Teil ist. Der Inhalt wird nur anders formuliert, vielleicht in einer anderen Sprache. Sensibilität ist eine Eigenschaft, die mich bereits seit meiner Kindheit im Positiven wie Negativen beeinflusst und mein Verhalten prägt. Vielleicht ist FERN in der Hinsicht eine Art Tagebuch, um die oft überwältigenden Eindrücke und Gedanken zu extrahieren und zu verarbeiten.
 
 Es tut gut, diese zärtliche Seite wahrzunehmen und in ihrer Direktheit in etwas Verständliches zu übersetzen. Dafür fehlte mir oft das Bewusstsein. Mittlerweile weiß ich, dass diese Sensibilität mir auch erlaubt, die Welt in all ihren Details wahrzunehmen.
 
@@ -104,10 +98,9 @@ Es tut gut, diese zärtliche Seite wahrzunehmen und in ihrer Direktheit in etwas
 
 ## "Unsere Zeit fasziniert mich"
 
-![Paul Seidel an den Drums. Foto: Paul Seidel privat](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-tour-picture-jpeg-imagine-080808_787878_1024_768/640.webp "Paul Seidel an den Drums. Foto: Paul Seidel privat")
+![Paul Seidel an den Drums. Foto: Paul Seidel privat](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-tour-picture-jpeg-imagine-080808_787878_1024_768/640.webp 'Paul Seidel an den Drums. Foto: Paul Seidel privat')
 
-**Paul:** Mich fasziniert unsere Zeit enorm. Wir hängen stets zwischen etwas Gewesenem und dem noch nicht Geschehenen fest, als Speerspitze einer Zukunft, die wir vermeintlich selbst in der Hand halten. Wir fließen eigentlich permanent als reagierende Wesen durch unsere Wahrnehmung, auf der Suche nach Antworten auf Fragen, die sich durch unsere Antworten ergeben.
-Ich weigere mich, mich der einseitigen Destruktivität und dystopischen Szenarien hinzugeben und beharre lieber darauf, dass das Leben bisher noch immer einen Weg gefunden hat, sich an die widrigsten Umstände anzupassen.
+**Paul:** Mich fasziniert unsere Zeit enorm. Wir hängen stets zwischen etwas Gewesenem und dem noch nicht Geschehenen fest, als Speerspitze einer Zukunft, die wir vermeintlich selbst in der Hand halten. Wir fließen eigentlich permanent als reagierende Wesen durch unsere Wahrnehmung, auf der Suche nach Antworten auf Fragen, die sich durch unsere Antworten ergeben. Ich weigere mich, mich der einseitigen Destruktivität und dystopischen Szenarien hinzugeben und beharre lieber darauf, dass das Leben bisher noch immer einen Weg gefunden hat, sich an die widrigsten Umstände anzupassen.
 
 **Anne:** Wie sehen Deine nächsten Zukunftspläne für FERN aus?
 
@@ -135,8 +128,7 @@ Ich weigere mich, mich der einseitigen Destruktivität und dystopischen Szenarie
 
 **Anne:** Worauf freust Du Dich gerade am meisten?
 
-**Paul:** Ich würde gerne ganz positiv antworten, aber mir fällt es momentan nicht so leicht, mich auf Dinge zu freuen. Demnach möchte ich auch nicht vortäuschen, dass es mir besonders gut geht. Ich freue mich allerdings auf kleine Dinge, wie zum Beispiel Yoga am Morgen, den Kaffee zum Frühstück oder die Möglichkeit abends für ein paar Stunden zu lesen. Das zu Hause sein ist auf
-jeden Fall etwas, das mir Kraft gibt und dabei hilft, mental auf der Höhe zu bleiben.
+**Paul:** Ich würde gerne ganz positiv antworten, aber mir fällt es momentan nicht so leicht, mich auf Dinge zu freuen. Demnach möchte ich auch nicht vortäuschen, dass es mir besonders gut geht. Ich freue mich allerdings auf kleine Dinge, wie zum Beispiel Yoga am Morgen, den Kaffee zum Frühstück oder die Möglichkeit abends für ein paar Stunden zu lesen. Das zu Hause sein ist auf jeden Fall etwas, das mir Kraft gibt und dabei hilft, mental auf der Höhe zu bleiben.
 
 **Anne:** Mein Yoga am Morgen ist für mich auch eine ganz wichtige Energiequelle. Ich wünsche Dir alles Gute! Nochmal vielen Dank für das Interview! Es war mir eine Ehre und hat mir großen Spaß gemacht!
 

@@ -5,13 +5,9 @@ typeName: Review
 title: '"Willebrant – The Pilgrim"'
 subTitle: Eine musikalisches Tauch-Abenteuer
 seoTitle: '"Willebrant – The Pilgrim" – Eine musikalisches Tauch-Abenteuer'
-description: Die neue Willebrant EP "The Pilgrim" handelt vom Weg eines
-  Menschen, der zu einem Abenteuer aufbricht – Die fünf vom El Camino de
-  Santiago inspirierten Songs haben es bei mir jetzt schon auf die Liste der
-  schönsten Ambient-Platten des Jahres geschafft. Ein Klangbad mit Tiefgang
-  erwartet Euch.
+description: Die neue Willebrant EP "The Pilgrim" handelt vom Weg eines Menschen, der zu einem Abenteuer aufbricht – Die fünf vom El Camino de Santiago inspirierten Songs haben es bei mir jetzt schon auf die Liste der schönsten Ambient-Platten des Jahres geschafft. Ein Klangbad mit Tiefgang erwartet Euch.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/willebrant-the-pilgrim-2-jpg-imagine-e8e8e8_b4b4b4_1024_768/640.webp
-copyrigt: Willebrant
+copyright: Willebrant
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/willebrant-the-pilgrim-fb-jpg-imagine-181818_696969_1200_628/640.webp
 labels:
   - Klangbad
@@ -43,7 +39,7 @@ Für mich klingt das nicht nur mystisch, sondern mehr als spannend. Nach einem J
 
 Ich setze meine Kopfhörer auf und es geht los – mit einem Tauchgang. Ich lasse mich in das kühle Nass hinab gleiten und gleichzeitig auf den Sound der Tiefe ein, die ihr Gesicht nach und nach vor meinem inneren Auge enthüllt.
 
-![Willebrant – "The Pilgrim"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/willebrant-the-pilgrim-jpg-imagine-d8d8d8_b8b8b8_700_700/640.webp "Willebrant – \"The Pilgrim\"")
+![Willebrant – "The Pilgrim"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/willebrant-the-pilgrim-jpg-imagine-d8d8d8_b8b8b8_700_700/640.webp 'Willebrant – "The Pilgrim"')
 
 Harmonisch, ätherisch und fragil sind diese Klänge, die unbemerkt in das zweite Stück "Trail" übergehen. Ich sinke weiter. Die Umgebung wird etwas steiniger und steiler. Eine Glocke begleitet mich und führt mich durch das unbekannte Terrain.
 
@@ -63,8 +59,16 @@ Ich breche wieder auf, um weiterzugehen. Über eine Wiese und hinein in einen li
 
 Willebrants neue EP hat es bei mir ohne Umwege in die Kategorie "schönste Ambient-Platten des Jahres" geschafft. Wenn Ihr wie ich gerne mal wieder auf eine Sound-Reise gehen wollt, kann ich sie Euch sehr empfehlen.
 
-[Meine Review zu "Coastal___" von Willebrant findet Ihr hier](/2021/02/willebrant-coastal-en).
+[Meine Review zu "Coastal\_\_\_" von Willebrant findet Ihr hier](/2021/02/willebrant-coastal-en).
 
 ## Willebrant – "The Pilgrim"
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2921636955/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://willebrant.bandcamp.com/album/the-pilgrim">The Pilgrim by Willebrant</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=2921636955/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://willebrant.bandcamp.com/album/the-pilgrim">
+    The Pilgrim by Willebrant
+  </a>
+</iframe>

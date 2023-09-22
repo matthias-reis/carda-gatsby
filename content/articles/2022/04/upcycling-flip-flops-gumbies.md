@@ -5,14 +5,10 @@ typeName: Produkttest
 title: Vegane Upcycling-Flip-Flops von Gumbies
 subTitle: Robustes Profil für alle Füße (und Wege)
 seoTitle: Vegane Upcycling-Flip-Flops von Gumbies
-description: Hier in Hamburg tragen wir von März bis Oktober eigentlich immer
-  Flip-Flops. Ich habe jetzt ein ganz besonderes, neues Paar, das ich Euch gerne
-  zeigen möchte. Es stammt mal wieder aus dem Hause Gumbies.
-excerpt: "Ihr kennt das ja: Hier in Hamburg tragen wir von März bis Oktober
-  eigentlich immer Flip-Flops. Ich habe jetzt ein ganz besonderes, neues Paar,
-  das ich Euch gerne zeigen möchte. Es stammt mal wieder aus dem Hause Gumbies."
+description: Hier in Hamburg tragen wir von März bis Oktober eigentlich immer Flip-Flops. Ich habe jetzt ein ganz besonderes, neues Paar, das ich Euch gerne zeigen möchte. Es stammt mal wieder aus dem Hause Gumbies.
+excerpt: 'Ihr kennt das ja: Hier in Hamburg tragen wir von März bis Oktober eigentlich immer Flip-Flops. Ich habe jetzt ein ganz besonderes, neues Paar, das ich Euch gerne zeigen möchte. Es stammt mal wieder aus dem Hause Gumbies.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-27/2022-04-27-gumbies-08-jpg-imagine-080808_5a6b6f_2048_1536/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-27/upcycling-flip-flops-gumbies-fb-jpg-imagine-080808_627074_1200_628/640.webp
 labels:
   - Upcycling-Flip-Flops
@@ -28,6 +24,7 @@ advertisement: true
 affiliate: false
 language: de
 ---
+
 **Ihr kennt das ja: Hier in Hamburg tragen wir von März bis Oktober eigentlich immer Flip-Flops. Ich habe jetzt ein ganz besonderes neues Paar, das ich Euch gerne zeigen möchte. Es stammt mal wieder aus dem Hause Gumbies.**
 
 Über Gumbies aus Bielefeld habe ich Euch ja hier schon einiges erzählt. Zum Frühling gibt es News vom Upcycling-Start-up. Trekkingsandalen namens "Scrambler", bei denen die Fußriemen aus recycelten PET-Flaschen bestehen, neue Slingback-Modelle mit super weichem Hacken-Riemen und mein Lieblingsmodell in neuen Ausführungen: die Flip-Flops "Duckbill". Bei allen neuen Gumbies sind die Sohlen wie gewohnt aus recycelten Autoreifen.

@@ -5,15 +5,10 @@ typeName: Beitrag
 title: Airline fliegt Affen in Versuchslabore
 subTitle: PETA demonstriert gegen EgyptAirs Affentransporte
 seoTitle: Affentransporte – PETA Demo am Flughafen Düsseldorf
-description: Affentransporte in Tierversuchslabore stoppen – das möchte PETA mit
-  der Demo, die heute am Düsseldorfer Flughafen stattfindet, erreichen. Holt
-  Euch jetzt alle Infos!
-excerpt: PETA demonstriert heute im Terminal des Düsseldorfer Flughafens gegen
-  den Transport von Affen in Versuchslabore. Die Fluggesellschaft EgyptAir hatte
-  das Ende der Flüge eigentlich bereit im August letzten Jahres zugesagt, hält
-  sich jedoch nicht an die Abmachung.
+description: Affentransporte in Tierversuchslabore stoppen – das möchte PETA mit der Demo, die heute am Düsseldorfer Flughafen stattfindet, erreichen. Holt Euch jetzt alle Infos!
+excerpt: PETA demonstriert heute im Terminal des Düsseldorfer Flughafens gegen den Transport von Affen in Versuchslabore. Die Fluggesellschaft EgyptAir hatte das Ende der Flüge eigentlich bereit im August letzten Jahres zugesagt, hält sich jedoch nicht an die Abmachung.
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-19/egyptair-abdelkareem10-pixabay-affentransporte-peta-jpg-imagine-887868_a79a93_1024_768/640.webp
-copyrigt: Abdelkareem10, pixabay
+copyright: Abdelkareem10, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-19/egyptair-abdelkareem10-pixabay-affentransporte-peta-og-jpg-imagine-887868_ab9d94_1200_628/640.webp
 labels:
   - PETA
@@ -27,6 +22,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **PETA demonstriert heute im Terminal des Düsseldorfer Flughafens gegen den Transport von Affen in Versuchslabore. Die Fluggesellschaft EgyptAir hatte das Ende der Flüge eigentlich bereit im August letzten Jahres zugesagt, hält sich jedoch nicht an die Abmachung.**
 
 Aus diesem Grund starteten heute Morgen unter anderem ein⋆e Aktivist⋆in im Affenkostüm zu einer Demo am Flughafen, um die qualvollen Affentransporte aufzuhalten. Fast alle großen Airlines haben das Ausfliegen von Affen in Versuchslabore bereits beendet. Auch darauf möchte PETA mit dieser Aktion noch einmal gezielt hinweisen. Im Presseportal der Tierrechtsorganisation heißt es:
@@ -37,7 +33,7 @@ Aus diesem Grund starteten heute Morgen unter anderem ein⋆e Aktivist⋆in im A
 
 Erst vor Kurzem hatte PETA USA herausgefunden, dass EgyptAir rund 500 Langschwanzmakaken von Mauritius zum New Yorker John F. Kennedy Airport gebracht hatte. Von dort aus sollten die Tiere in ein Versuchslabor transportiert werden. Beobachtungen zufolge stammen die Tiere aus Affenzuchtunternehmen. Dort hat sich unter anderem Tuberkulose ausgebreitet, die hochzusteckend ist – auch Menschen können sich damit anstecken. Die International Union for Conservation of Nature hatte die Art bereits als gefährdet eingestuft.
 
-Bereits im Mai hatte PETA aufgedeckt, dass die  Fluggesellschaft Hunderte Affe auf dieser Route transportiert hat. Die Primate wurden dabei über 30 Stunden in kleinen Kisten eingesperrt und in den Frachträumen der Flugzeuge transportiert. Für die kleinen Affen  eine traumatische und qualvolle Erfahrung. Den Angaben der Organisation nach hatte man die Tiere in New York ankommend in Lkw verladen und anschließend auf dem Landweg in eine Quarantäneeinrichtung in Texas gebracht – quer durch die USA.
+Bereits im Mai hatte PETA aufgedeckt, dass die Fluggesellschaft Hunderte Affe auf dieser Route transportiert hat. Die Primate wurden dabei über 30 Stunden in kleinen Kisten eingesperrt und in den Frachträumen der Flugzeuge transportiert. Für die kleinen Affen eine traumatische und qualvolle Erfahrung. Den Angaben der Organisation nach hatte man die Tiere in New York ankommend in Lkw verladen und anschließend auf dem Landweg in eine Quarantäneeinrichtung in Texas gebracht – quer durch die USA.
 
 ## 720 Affen an einem Tag
 

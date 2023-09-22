@@ -5,15 +5,10 @@ typeName: Interview
 title: '"Desert of Real"'
 subTitle: Interview With Wanheda Guitarist Jan
 seoTitle: Wanheda – "Desert of Real" – Post-Rock Interview
-description: With their new album, "Desert of Real", the Belgian post-rock
-  collective Wanheda aims to question the vanity and egocentricity of humanity
-  in the present.
-excerpt: With their new album, "Desert of Real", the Belgian post-rock
-  collective Wanheda aims to question the vanity and egocentricity of humanity
-  in the present. It is an indirect continuation of their EP, "Cenozoic
-  Explosion", from 2018.
+description: With their new album, "Desert of Real", the Belgian post-rock collective Wanheda aims to question the vanity and egocentricity of humanity in the present.
+excerpt: With their new album, "Desert of Real", the Belgian post-rock collective Wanheda aims to question the vanity and egocentricity of humanity in the present. It is an indirect continuation of their EP, "Cenozoic Explosion", from 2018.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-jpg-imagine-080808_433e31_1024_768/640.webp
-copyrigt: Wanheda
+copyright: Wanheda
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-fb-png-imagine-080808_3b2c18_1200_628/640.webp
 labels:
   - Wanheda
@@ -32,13 +27,14 @@ affiliate: false
 language: en
 languageLink: /2022/01/wanheda-interview/
 ---
+
 **With their new album, "Desert of Real", the Belgian post-rock collective Wanheda aims to question the vanity and egocentricity of humanity in the present. It is an indirect continuation of their EP, "Cenozoic Explosion", from 2018.**
 
 Back then, the band already worked with the topic of human greed and the influence of our unstoppable destruction of the planet and attracted the attention of the post-music scene.
 
 ## Greek mythology and the present
 
-![Wanheda (group of six people in casual clothes) standing in front of three neon lights on a meadow at night.](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-dark-jpg-imagine-080808_16191a_1024_768/640.webp "Wanheda")
+![Wanheda (group of six people in casual clothes) standing in front of three neon lights on a meadow at night.](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-dark-jpg-imagine-080808_16191a_1024_768/640.webp 'Wanheda')
 
 With "Desert of Real", the six musicians from Leuven deliver a contemporary album full of lively music. Their art is not only reminiscent of Mono's enchanting and heartful sounds. The confidence and energy of the music created by bands like Caspian and This Will Destroy You also shines through. In the creation process of the new record, they focused entirely on the theme of technology addiction and our relationship with social media. They used "The Judgement of Paris" from Greek mythology as the basis for this. For them, it is an allegory for the torment of technology and the self-obsession it can cause.
 
@@ -52,13 +48,13 @@ Wanheda produced their album in a way that is also used, for example, by directo
 
 ## The addiction to social media
 
-**Jan:** "Desert of Real" is about emotions associated with addiction and struggling with addiction. To be more precise: the addiction to social media, smartphones and technology in general. It also deals with the (mental) consequences of addiction to social media and the discord that (the increased use of) social media and technology causes in society. 
+**Jan:** "Desert of Real" is about emotions associated with addiction and struggling with addiction. To be more precise: the addiction to social media, smartphones and technology in general. It also deals with the (mental) consequences of addiction to social media and the discord that (the increased use of) social media and technology causes in society.
 
 **Anne:** You used a classic story as the basis: "The Judgement of Paris" from Greek mythology. Would you like to tell me more about it?
 
 **Jan:** As technology is increasingly becoming the religion of the 21st century, we have given our album a divine intervention. We've used the story of the Judgement of Paris as an allegory of the throes of technology and the self-obsession it induces. Technology and social media are presented as Eris – the ancient Greek goddess of strife and discord – throwing an apple of discord in our society, a gift "to the most beautiful" and thus a breeding ground for narcissism.
 
-![Wanheda (six people in casual clothes) are standing on a meadow in the broad daylight.](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-light-jpg-imagine-f8f8f8_b4ae9e_1024_768/640.webp "Wanheda")
+![Wanheda (six people in casual clothes) are standing on a meadow in the broad daylight.](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-light-jpg-imagine-f8f8f8_b4ae9e_1024_768/640.webp 'Wanheda')
 
 **Anne:** So one could also say the album tells a true story?
 

@@ -5,17 +5,10 @@ typeName: Interview
 title: '"The Puppeteer"'
 subTitle: Das neue Album von Monosphere
 seoTitle: '"The Puppeteer" von Monosphere – Post-Rock Review'
-description: Am 26.11. erscheint das von der Kritik gelobte neue Monosphere
-  Album "The Puppeteer".  Ich hatte jetzt die Gelegenheit, Drummer Rodney zu
-  interviewen. Wir haben uns über Konzeptalben und Veganismus unterhalten.
-excerpt: Am 26. November erscheint das von der Kritik hochgelobte neue
-  Monosphere Album "The Puppeteer". Höchste Zeit für ein Interview mit der
-  Post-Metal/Prog Band aus Mainz. Drummer Rodney hat sich jetzt Zeit genommen
-  und meine Fragen beantwortet. Wir haben uns nicht nur über Musik, sondern auch
-  über Veganismus unterhalten. Er selbst lebt, genau wie ich, seit nahezu zehn
-  Jahren vegan.
+description: Am 26.11. erscheint das von der Kritik gelobte neue Monosphere Album "The Puppeteer".  Ich hatte jetzt die Gelegenheit, Drummer Rodney zu interviewen. Wir haben uns über Konzeptalben und Veganismus unterhalten.
+excerpt: Am 26. November erscheint das von der Kritik hochgelobte neue Monosphere Album "The Puppeteer". Höchste Zeit für ein Interview mit der Post-Metal/Prog Band aus Mainz. Drummer Rodney hat sich jetzt Zeit genommen und meine Fragen beantwortet. Wir haben uns nicht nur über Musik, sondern auch über Veganismus unterhalten. Er selbst lebt, genau wie ich, seit nahezu zehn Jahren vegan.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-title-jpg-imagine-080808_454240_1024_768/640.webp
-copyrigt: Monosphere
+copyright: Monosphere
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-fb-png-imagine-080808_191109_1200_628/640.webp
 labels:
   - Post-Rock
@@ -38,6 +31,7 @@ affiliate: false
 language: de
 languageLink: /2021/11/monosphere-the-puppeteer-en/
 ---
+
 **Am 26. November erscheint das von der Kritik hochgelobte neue Monosphere Album "The Puppeteer". Höchste Zeit für ein Interview mit der Post-Metal/Prog Band aus Mainz. Drummer Rodney hat sich jetzt Zeit genommen und meine Fragen beantwortet. Wir haben uns nicht nur über Musik, sondern auch über Veganismus unterhalten. Er selbst lebt, genau wie ich, seit nahezu zehn Jahren vegan.**
 
 **Anne:** Du hast mir erzählt, dass "The Puppeteer" ein groß angelegtes Konzeptalbum ist. Möchtest Du mir verraten, welches Konzept das ist? Erzählt es eine Geschichte? Wer ist der Puppenspieler?
@@ -54,8 +48,7 @@ Auch die Verknüpfung mit den Musikvideos, den Designs und sogar unser Instagram
 
 **Rodney:** Meine Idee war es, den Prozess festzuhalten und den Menschen die Möglichkeit zu geben, zu verstehen, wie und warum das Album auf diese Art entstanden ist. Ich zeige verschiedene Aspekte auf, die erklären, warum "The Puppeteer" ein Konzeptalbum ist. Es ist teilweise sehr analytisch und auch etwas musiktheoretisch geworden. Es ist auch eher ein Angebot für alle, die gerne tief in das Konzept tauchen wollen. Vorkenntnisse sind dafür nicht zwingend nötig, denn es gibt auch einen Basisteil, in dem die Grundlagen erklärt werden.
 
-Die Arbeit wird am Release-Tag der Platte in gedruckter Buchform erscheinen. Ich suche aber gerade auch noch nach einem Weg, sie auch online zu
-publizieren.
+Die Arbeit wird am Release-Tag der Platte in gedruckter Buchform erscheinen. Ich suche aber gerade auch noch nach einem Weg, sie auch online zu publizieren.
 
 **Anne:** Du findest ja, dass ein Album ohne echtes Konzept kaum Sinn ergibt. Woran erkennt man in Deinen Augen ein konzeptloses Album? Kann es nicht auch schon ein Konzept sein, gemeinsam an etwas zu arbeiten, von dem alle Bandmitglieder überzeugt sind? Oder wäre es für Dich der blanke Albtraum, nicht vorab eine Struktur festzulegen?
 
@@ -73,7 +66,7 @@ Der Begriff "Album" stammt ja eigentlich aus der klassischen Musik, beziehungswe
 
 ## "Wir sind eine DIY-Band"
 
-![Monosphere (Die Band steht hinter dem Eingang einer Beton-Ruine)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-1-jpg-imagine-081838_546173_1024_768/640.webp "Monosphere")
+![Monosphere (Die Band steht hinter dem Eingang einer Beton-Ruine)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-1-jpg-imagine-081838_546173_1024_768/640.webp 'Monosphere')
 
 **Rodney:** Wir haben zwar unser Album selbst produziert, das Mixing und Mastering jedoch an Profis abgegeben. Hier haben wir mit Phil Kaase von The Mixing Mine und Brad Boatright von Audiosiege zusammengearbeitet. Wir hätten das zwar auch selbst machen können, aber um ehrlich zu sein, würde das Album dann bei weitem nicht so gut klingen. Was die Labels betrifft: Wir hatten durchaus Kontakt zu Labels bevor wir uns entschlossen haben, das Album selbst auf den Markt zu bringen. Es ging uns auch darum, uns selbst zu beweisen, dass wir auch ohne Label etwas reißen können. Ein Label würde uns schließlich nicht die Arbeit abnehmen, sondern auch bestimmte Ansprüche an uns stellen. Wir wollten auch keinen Label-Deal eingehen, bei dem wir mehr abgeben, als wir davon haben. Da wir sehr gut vernetzt sind und viele Kontakte haben, lag für uns die Entscheidung, es selbst zu machen, auf der Hand. Wenn sich in Zukunft etwas ergibt, sind wir natürlich potenziell trotzdem nicht abgeneigt. Der Deal sollte insgesamt auf alle Fälle stimmen und das Label muss zu uns passen. Doch im Moment ist das für uns erstmal Zukunftsmusik.
 
@@ -87,8 +80,7 @@ Der Tag und die Nacht zwängen uns in ein System, das einen starken Kontrast vor
 
 **Anne:** Zu Euren Songs produziert Ihr aufwändige Konzept-Videos. Werden wir die auch auf Euren Live-Shows zu sehen bekommen?
 
-**Rodney:** Ja! Wir arbeiten bei unseren Live-Konzerten mit einem Beamer, der während unseres Sets auf uns gerichtet wird und eine Videoprojektion abspielt. Weil die Videos die Geschichte des Albums aufgreifen, ergeben sie eigentlich auch nur zusammen mit den Shows wirklich Sinn. Doch auch fernab der Videos haben
-wir genug Material, für eine durchgängige Projektion.
+**Rodney:** Ja! Wir arbeiten bei unseren Live-Konzerten mit einem Beamer, der während unseres Sets auf uns gerichtet wird und eine Videoprojektion abspielt. Weil die Videos die Geschichte des Albums aufgreifen, ergeben sie eigentlich auch nur zusammen mit den Shows wirklich Sinn. Doch auch fernab der Videos haben wir genug Material, für eine durchgängige Projektion.
 
 Die Monosphere Shows folgen also einem audiovisuellen Konzept. Die bewegten Bilder sollen zusätzlich zur Musik ein besonders Gesamterlebnis erzeugen.
 
@@ -96,7 +88,7 @@ Die Monosphere Shows folgen also einem audiovisuellen Konzept. Die bewegten Bild
 
 ## "In Zukunft vegan zu leben, war die richtige Entscheidung"
 
-![Monosphere stehen vor einer Betonwand](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-2-jpg-imagine-081838_32425a_1024_768/640.webp "Monosphere")
+![Monosphere stehen vor einer Betonwand](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-2-jpg-imagine-081838_32425a_1024_768/640.webp 'Monosphere')
 
 **Rodney:** Ja, das stimmt. Ich habe 2011 angefangen, mich für vegane Ernährung zu interessieren, weil ich auf Konzerten ständig Berührungspunkte damit hatte. Es gab damals überall veganes Chili und ich erinnere mich noch genau, wie ich es am Anfang nicht glauben wollte, dass das wirklich vegan war. Insgesamt war es eine Mischung aus Einflüssen aus der Szene und den Tierrechts-Videos von PETA, die mich aufgeklärt haben. Ich wollte versuchen, so lange wie möglich vegan zu leben. Das Experiment, das ich gemeinsam mit einem Freund gemacht habe, hat dann nur eine Woche lang funktioniert. Allerdings habe ich mich vier Wochen später, nach einer kurzen Zeit als Vegetarier dazu entschieden, dass ich auch [auf Käse verzichten kann und will](LINK).
 
@@ -126,7 +118,7 @@ Weil "The Puppeteer" eine fiktive Geschichte erzählt, ist es in diesem Fall kei
 
 ## "Veganes Junkfood ist am Tag nach einem Auftritt einfach perfekt"
 
-![Monosphere (Sepia-farbenes Foto der Band hinter dem Eingang einer Beton-Ruine)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-3-jpg-imagine-080808_615c59_1024_768/640.webp "Monosphere")
+![Monosphere (Sepia-farbenes Foto der Band hinter dem Eingang einer Beton-Ruine)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-3-jpg-imagine-080808_615c59_1024_768/640.webp 'Monosphere')
 
 **Rodney:** Um ehrlich zu sein, esse ich nach Auftritten meist gar nichts, weil es meist schon zu spät ist. Am nächsten Tag esse ich dafür dann aber umso mehr – am liebsten natürlich irgendetwas Fettiges. Also zum Beispiel Pommes und dazu vielleicht irgendein ausgefallenes Ersatzprodukt, wie Nuggets und ganz viel vegane Mayo! Aber so sehr ich Junkfood manchmal liebe, so sehr liebe ich es auch, selbst zu kochen und da ist Lasagne ein absoluter Garant. Ich habe sie über die Corona-Zeit für mich entdeckt. Nach einem Auftritt muss es aber am besten schnell gehen. Da sind Fritten mit etwas Paniertem für mich die allererste Wahl!
 
@@ -148,13 +140,9 @@ Beinahe hätten wir die Platte sogar erst 2022 veröffentlicht, weil im Moment k
 
 ## "Wir wollen unbedingt auf Tour gehen!"
 
-**Rodney:** Momentan bin ich noch komplett in der Promo fürs Album gefangen und absolut leer, was neue Songs betrifft. Es gibt zwar Skizzen und fertige Demos und das Ziel ist es, so schnell wie möglich weiter daran zu arbeiten, aber ich
-persönlich brauche auch erstmal eine Pause. Ich muss einen gewissen Abstand gewinnen, um mich neuer Musik widmen zu können. Auch, weil wir
-erstmal sehen wollen, wie unsere bisherige Musik aufgenommen wird – daraus wird sich bestimmt auch die ein oder andere Idee ergeben. Für 2022
-haben wir außerdem den Release einer Instrumentalversion der Platte vorgesehen. Eventuell wird es von einigen Tracks eine Piano-Version oder ein paar Remixe geben. Wir haben einige Ideen, die wir gerne ausprobieren wollen.
+**Rodney:** Momentan bin ich noch komplett in der Promo fürs Album gefangen und absolut leer, was neue Songs betrifft. Es gibt zwar Skizzen und fertige Demos und das Ziel ist es, so schnell wie möglich weiter daran zu arbeiten, aber ich persönlich brauche auch erstmal eine Pause. Ich muss einen gewissen Abstand gewinnen, um mich neuer Musik widmen zu können. Auch, weil wir erstmal sehen wollen, wie unsere bisherige Musik aufgenommen wird – daraus wird sich bestimmt auch die ein oder andere Idee ergeben. Für 2022 haben wir außerdem den Release einer Instrumentalversion der Platte vorgesehen. Eventuell wird es von einigen Tracks eine Piano-Version oder ein paar Remixe geben. Wir haben einige Ideen, die wir gerne ausprobieren wollen.
 
-Trotzdem arbeiten wir schon an den Tour-Plänen für
-2022 und haben auch schon zu einigen Bookern Kontakt aufgenommen. Mal sehen, wann es dann so weit ist, wir wollen nächstes Jahr auf jeden Fall auftreten.
+Trotzdem arbeiten wir schon an den Tour-Plänen für 2022 und haben auch schon zu einigen Bookern Kontakt aufgenommen. Mal sehen, wann es dann so weit ist, wir wollen nächstes Jahr auf jeden Fall auftreten.
 
 Monosphere besteht aus Kevin Ernst (Gesang), Max Rossol (Gitarre), Valentin Noack (Gitarre), Marlon Palm (Bass) und Rodney Fuchs (Schlagzeug). "The Puppeteer" ist ein großartiges Album voller Kontraste, über das wir sicher noch die ein oder andere Schlagzeile in den Musikmagazinen lesen werden. Fans von Metalcore und cinematischem Post-Metal und Bands wie Cult of Luna und Between The Buried And Me sollten es sich nicht entgehen lassen.
 

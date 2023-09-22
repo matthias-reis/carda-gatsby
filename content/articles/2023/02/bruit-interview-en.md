@@ -5,17 +5,11 @@ typeName: Interview
 title: Interview with BRUIT ≤ Guitarist Théophile Antolinos
 subTitle: '"Sometimes you need to accept a weakness to turn it into an asset"'
 seoTitle: Interview with BRUIT ≤ Guitarist Théophile Antolinos
-ogTitle: ""
-description: Please enjoy my interview with BRUIT ≤ guitarist Théophile
-  Antolinos and learn everything about the band's protest song and their Spotify
-  boycott. There is also news about the album rumours!
-excerpt: If you've ever listened to French post-music, you probably know BRUIT
-  ≤. They have been causing riots with their impressive, dark sounds and clearly
-  stand out on the European scene. I've had the privilege of seeing them live a
-  few times and have always been thrilled. Now I had the opportunity for an
-  interview, and of course, I took it.
+ogTitle: ''
+description: Please enjoy my interview with BRUIT ≤ guitarist Théophile Antolinos and learn everything about the band's protest song and their Spotify boycott. There is also news about the album rumours!
+excerpt: If you've ever listened to French post-music, you probably know BRUIT ≤. They have been causing riots with their impressive, dark sounds and clearly stand out on the European scene. I've had the privilege of seeing them live a few times and have always been thrilled. Now I had the opportunity for an interview, and of course, I took it.
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-1-jpg-imagine-080808_494949_1024_768/640.webp
-copyrigt: BRUIT ≤
+copyright: BRUIT ≤
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-og-jpg-imagine-080808_494949_1200_628/640.webp
 labels:
   - BRUIT ≤
@@ -31,6 +25,7 @@ affiliate: false
 language: en
 languageLink: /2023/02/bruit-interview/
 ---
+
 **If you've ever listened to French post-music, you probably know BRUIT ≤. They have been causing riots with their impressive, dark sounds and clearly stand out on the European scene. I've had the privilege of seeing them live a few times and have always been thrilled. Now I had the opportunity for an interview with guitarist Théophile Antolinos, and of course, I took it.**
 
 Most recently, BRUIT ≤ attracted attention with their manifesto against the music streaming service Spotify. With "The Boycott Manifesto", they express, among other things, their resentment against the exploitation of artists by the portal and its operator—as well as the arbitrariness of the algorithms, to which everything is at the mercy of today. The topic offers plenty to talk about and, of course, affects us all somewhere. That's why I wanted to look into this point with all its details.
@@ -43,7 +38,7 @@ Most recently, BRUIT ≤ attracted attention with their manifesto against the mu
 
 ## "We needed to release 'The Boycott Manifesto'!"
 
-![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-3-jpg-imagine-282828_6e6e6e_1024_768/640.webp "BRUIT ≤")
+![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-3-jpg-imagine-282828_6e6e6e_1024_768/640.webp 'BRUIT ≤')
 
 **Théophile:** Thank you! We really needed to release this track. With all the messages from people asking us why they can't find us on the platforms, it bothered us to make this choice, and it's always good to clear things up. But instead, we're seeing more of a debate between people, and it's opened up more discussion on the subject in the small sphere of people listening to our music.
 
@@ -53,7 +48,7 @@ We all know that nothing in the way we consume music (and almost everything else
 
 ## "This song is for everyone who subscribes to Spotify out of compulsion and would like a fairer model!"
 
-![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-2-jpg-imagine-282828_2c2c2c_1024_768/640.webp "BRUIT ≤")
+![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-2-jpg-imagine-282828_2c2c2c_1024_768/640.webp 'BRUIT ≤')
 
 You know, if I watch a documentary tomorrow about the damage fossil fuels cause, I share it with people around me, but I drive a diesel and feel out of step with my beliefs and lifestyle. It's never pleasant to step back from one's way of life when one realises it's screwed up. Criticising your lifestyle is to criticise yourself. It calls into question the meaning of your short time on this earth. But this should only provoke rage in us, not embarrassment and shame. This song is for everyone who subscribes to Spotify out of compulsion and would like a fairer model!
 
@@ -67,7 +62,7 @@ You know, if I watch a documentary tomorrow about the damage fossil fuels cause,
 
 **Théophile:** I have no idea. In terms of sales, it would be hard to compare, knowing that the big platforms make almost nothing for the artists, but more people would certainly discover us. So, let's say we focus on the quality of the audience rather than the quantity.
 
-**Anne:**  I think you are excellent role models for young artists with your statements and attitude. I mean: it's your music, so you should be the only ones to decide what happens to it. What advice would you give to a newly founded band? How would you tell them to deal with this stuff?
+**Anne:** I think you are excellent role models for young artists with your statements and attitude. I mean: it's your music, so you should be the only ones to decide what happens to it. What advice would you give to a newly founded band? How would you tell them to deal with this stuff?
 
 **Théophile:** I don't know, I'm young, our band is relatively new, and I don't feel legitimate to give this kind of advice. With this project, we're just trying to get through the day-to-day in a situation where we feel stuck. Spotify and stuff, it all started before I held my first guitar in my hands. Our generation is trapped in this, and every year their monopoly is growing, and they're imposing more and more constraints on artists. So, it's probably going to get even more intense. But maybe with our action we are also shedding some light on this shitty situation in which bands have to build themselves today. That would be great.
 
@@ -75,12 +70,11 @@ You know, if I watch a documentary tomorrow about the damage fossil fuels cause,
 
 ## "Everything seems to be for sale in this system"
 
-![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-5-jpg-imagine-383838_737373_1024_768/640.webp "BRUIT ≤")
+![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-5-jpg-imagine-383838_737373_1024_768/640.webp 'BRUIT ≤')
 
-**Théophile:** I think it's pretty obscure how digital (and even physical) music is distributed. And it's normal. I wouldn't know how to explain the ins and outs of the distribution of textiles, food etc. And I agree:  It should be the musicians themselves who own the means of distribution. The fact that any social predator can invest in a field that doesn't interest them is symptomatic of a system where everything is for sale.
+**Théophile:** I think it's pretty obscure how digital (and even physical) music is distributed. And it's normal. I wouldn't know how to explain the ins and outs of the distribution of textiles, food etc. And I agree: It should be the musicians themselves who own the means of distribution. The fact that any social predator can invest in a field that doesn't interest them is symptomatic of a system where everything is for sale.
 
-**Anne:** You called the song an act of musical vandalism and
-a no-holds-barred Trojan Horse designed to be a parasite that purposefully directs listeners and new fans away from the platform. I think it is a pretty political form of protest, which, if you look back in history, can lead to success if you do it subtly enough and people enjoy the outcome. Are you working toward a goal like that? Are there other artists following you in that fight?
+**Anne:** You called the song an act of musical vandalism and a no-holds-barred Trojan Horse designed to be a parasite that purposefully directs listeners and new fans away from the platform. I think it is a pretty political form of protest, which, if you look back in history, can lead to success if you do it subtly enough and people enjoy the outcome. Are you working toward a goal like that? Are there other artists following you in that fight?
 
 **Théophile:** No, actually, as I said, we don't have any visibility in this story. We're going day by day, and we're not thinking about the next thing we could do to piss off the big platforms.
 
@@ -92,19 +86,19 @@ Today, the ultrarich weigh so much that they can bend the states by snapping the
 
 ## "I love listening to albums from one end to the other"
 
-**Théophile:** I'm making the same observation. I like to listen to albums from one end to the other to know where the bands come from and what their line-up is, and then mainly to see the release dates of the albums. I can only listen to CDs in my car, which brings me a lot. Listening to an album several times in a row, over several days and in different moods is important for our feelings. At home, I never listen to an album twice in a row. I have too many albums waiting. There are so many new releases! 
+**Théophile:** I'm making the same observation. I like to listen to albums from one end to the other to know where the bands come from and what their line-up is, and then mainly to see the release dates of the albums. I can only listen to CDs in my car, which brings me a lot. Listening to an album several times in a row, over several days and in different moods is important for our feelings. At home, I never listen to an album twice in a row. I have too many albums waiting. There are so many new releases!
 
-Today, when you have a musical research process, you feel like an old antique collector in a world that goes too fast. People are not into albums any more, but also less into bands. 
+Today, when you have a musical research process, you feel like an old antique collector in a world that goes too fast. People are not into albums any more, but also less into bands.
 
-I think it's this whole thing: Our current way of life makes the way of consuming music, like in the 90s, obsolete. When you don't have time for anything, an easy-to-identify solo artist, a single, or a mix made for radio that is comfortable from the first listen is perfect. And all those computer-generated playlists avoid all that nerd research work that takes time we don't have any more. Lately, I've been feeling like what I listen to online as if, over the years, it's all losing a bit of consistency. That's because I can listen to anything I want at any time with no limit. It's too much information and dizzying when you realise it. 
+I think it's this whole thing: Our current way of life makes the way of consuming music, like in the 90s, obsolete. When you don't have time for anything, an easy-to-identify solo artist, a single, or a mix made for radio that is comfortable from the first listen is perfect. And all those computer-generated playlists avoid all that nerd research work that takes time we don't have any more. Lately, I've been feeling like what I listen to online as if, over the years, it's all losing a bit of consistency. That's because I can listen to anything I want at any time with no limit. It's too much information and dizzying when you realise it.
 
 ## "Things with meaning don't disappear according to consumer trends"
 
-![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-4-jpg-imagine-080808_454545_1024_768/640.webp "BRUIT ≤")
+![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-4-jpg-imagine-080808_454545_1024_768/640.webp 'BRUIT ≤')
 
-Our brains need limits, constraints, and repetition to assimilate properly. Maybe also to really think about what we are listening to and stimulate our creativity—so,  I bought an old Walkman with some tapes and rechargeable batteries. It probably makes me a bit of a nerd too, but it's given me a new sense of how to listen to music, and it's stupid to say it. Still, I think it's calmed that anxious feeling, like when you've accumulated a lot of shit, you don't know where you stand any more and sorting it all out is good for your brain. But music is made of cycles. Who knows, possibly one day, a new generation will come and want to go and shake their heads in basements in front of walls of amps and spend whole afternoons browsing in independent record shops. Whatever happens, and despite the omnipotence of the industry, I'm sure there will always be a place for this counter-culture because it has a real meaning. Things with meaning don't disappear according to consumer trends.
+Our brains need limits, constraints, and repetition to assimilate properly. Maybe also to really think about what we are listening to and stimulate our creativity—so, I bought an old Walkman with some tapes and rechargeable batteries. It probably makes me a bit of a nerd too, but it's given me a new sense of how to listen to music, and it's stupid to say it. Still, I think it's calmed that anxious feeling, like when you've accumulated a lot of shit, you don't know where you stand any more and sorting it all out is good for your brain. But music is made of cycles. Who knows, possibly one day, a new generation will come and want to go and shake their heads in basements in front of walls of amps and spend whole afternoons browsing in independent record shops. Whatever happens, and despite the omnipotence of the industry, I'm sure there will always be a place for this counter-culture because it has a real meaning. Things with meaning don't disappear according to consumer trends.
 
-**Anne:** That's very well said! 
+**Anne:** That's very well said!
 
 The next question is a bit personal. As a music blogger, I share a lot of music through lists. I create on iTunes, Spotify and YouTube. I share them with my readers, hoping to support artists like you with my posts and make people aware of the more niche types of music I love. And I don't do it without struggling. I really have this inner conflict: Should I use them? Shouldn't I?
 
@@ -120,7 +114,7 @@ On the one hand, the bands suffer from those greedy companies, only getting a fe
 
 ## "Yes! are working on a new album!"
 
-![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-6-jpg-imagine-080808_6d6d6d_1024_768/640.webp "BRUIT ≤")
+![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-6-jpg-imagine-080808_6d6d6d_1024_768/640.webp 'BRUIT ≤')
 
 **Théophile:** 2023 will be a bit special for us. It's a break year—We'd like to concentrate on writing our second album, so we'd rather put the gigs on hold. We won't be releasing any new tracks or EPs until then. It will be good if we write and record a nice album. We have a big blank page in front of us—We don't know at all what the album will be about. We just wanted to get through the first one with the live shows and not think about the future until we've reached the wall. Now it's time for us to close the studio door and get back to work. We'll be back on the road when the time comes to defend the second album live.
 
@@ -130,8 +124,16 @@ We're already looking forward to it, and I hope we'll have the opportunity to re
 
 **Théophile:** Thank you! Thank you for your time and passion and for raising such exciting issues!
 
-Please enjoy BRUIT ≤'s newest EP! They released "Apologie du temps perdu, Vol. 1" on January 27th 2023 – so it is completely fresh material. 
+Please enjoy BRUIT ≤'s newest EP! They released "Apologie du temps perdu, Vol. 1" on January 27th 2023 – so it is completely fresh material.
 
 Don't forget to buy their records!
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1433531461/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bruitofficial.bandcamp.com/album/apologie-du-temps-perdu-vol-1">Apologie du temps perdu, Vol. 1 by BRUIT ≤</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=1433531461/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://bruitofficial.bandcamp.com/album/apologie-du-temps-perdu-vol-1">
+    Apologie du temps perdu, Vol. 1 by BRUIT ≤
+  </a>
+</iframe>

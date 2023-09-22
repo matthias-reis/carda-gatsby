@@ -5,12 +5,9 @@ typeName: Interview
 title: Queen Of The Static Opera
 subTitle: '"Ich wollte schon immer Leute unterhalten"'
 seoTitle: Queen Of The Static Opera – "Ich wollte schon immer Leute unterhalten"
-description: Die Multi-Instrumentalistin Melody alias Queen of the Static Opera
-  habe ich vor einiger Zeit über die sozialen Netzwerke kennengelernt und bin
-  seitdem ein begeisterter Fan. Jetzt haben wir uns zum Interview verabredet und
-  sie hat mir einen Einblick in ihre Kunst und ihr Leben gewährt.
+description: Die Multi-Instrumentalistin Melody alias Queen of the Static Opera habe ich vor einiger Zeit über die sozialen Netzwerke kennengelernt und bin seitdem ein begeisterter Fan. Jetzt haben wir uns zum Interview verabredet und sie hat mir einen Einblick in ihre Kunst und ihr Leben gewährt.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-jpg-imagine-f8f8f8_868183_1024_768/640.webp
-copyrigt: Queen Of The Static Opera
+copyright: Queen Of The Static Opera
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-fb-jpg-imagine-080808_7a7575_1200_628/640.webp
 labels:
   - Queen Of The Static Opera
@@ -47,19 +44,19 @@ languageLink: /2021/08/queen-of-the-static-opera-interview-en/
 
 ---
 
-Melodys Projekt ist mehr als nur vielseitig. Sie verwendet Elemente aus Industrial, Pop, Goth und sogar Elektronik und kombiniert sie zu ihrer außergewöhnlichen und politischen Synthy-Kunst. Sie beschäftigt sich dabei vor allem viel mit intersektionaler Feminismus und Empowerment. Derzeit lebt sie in Los Angeles, ihre Basis ist die Twin Cities Area von Minneapolis und St. Paul. 
+Melodys Projekt ist mehr als nur vielseitig. Sie verwendet Elemente aus Industrial, Pop, Goth und sogar Elektronik und kombiniert sie zu ihrer außergewöhnlichen und politischen Synthy-Kunst. Sie beschäftigt sich dabei vor allem viel mit intersektionaler Feminismus und Empowerment. Derzeit lebt sie in Los Angeles, ihre Basis ist die Twin Cities Area von Minneapolis und St. Paul.
 
 **Anne:** Danke, dass Du Dir die Zeit für dieses Interview nimmst! Wie geht es Dir heute? An welchen Projekten arbeitest Du im Moment?
 
 ## "Ich arbeite an einem Heavy Industrial Album und einer Dance-Pop EP"
 
-**Melody:**  Ich bin gerade von einem Fotoshooting mit einem exzellenten Fotografen zurückgekommen, was mich sehr freut, denn er hat schon für Quentin Tarantino fotografiert, was wirklich cool ist. Ich habe gerade eine Show namens 808s and Wonderland gestartet, in der ich Musik auflege und über Musik, Aliens, Verschwörungen, Hollywood und alles Mögliche rede. Sie läuft jeden Tag um 19 Uhr PST auf Twitch[^1]. Ich helfe einem Freund bei einer Wohltätigkeitsorganisation, die Insassen in Gefängnissen und Reha-Einrichtungen Musik nahebringt. Ich arbeite an einer Dance-Pop-EP und plane außerdem ein Heavy Industrial Album, das auf einem Konzept basiert, das ich um Sharon Tate herum entwickelt habe, nachdem ich ein Jahr lang ziemlich nah an ihrem Grab gelebt habe. 
+**Melody:**  Ich bin gerade von einem Fotoshooting mit einem exzellenten Fotografen zurückgekommen, was mich sehr freut, denn er hat schon für Quentin Tarantino fotografiert, was wirklich cool ist. Ich habe gerade eine Show namens 808s and Wonderland gestartet, in der ich Musik auflege und über Musik, Aliens, Verschwörungen, Hollywood und alles Mögliche rede. Sie läuft jeden Tag um 19 Uhr PST auf Twitch[^1]. Ich helfe einem Freund bei einer Wohltätigkeitsorganisation, die Insassen in Gefängnissen und Reha-Einrichtungen Musik nahebringt. Ich arbeite an einer Dance-Pop-EP und plane außerdem ein Heavy Industrial Album, das auf einem Konzept basiert, das ich um Sharon Tate herum entwickelt habe, nachdem ich ein Jahr lang ziemlich nah an ihrem Grab gelebt habe.
 
 **Anne:** Wow! Das ist wirklich eine ganze Menge! Du hast mir erzählt, dass Du in einer Familie aus Entertainern aufgewachsen bist. Dein Vater war ein Mentor von Prince, und Du hast Produzieren, Tanzen, Schreiben, Singen, Keyboard und Gitarre spielen gelernt, während Du Deine ersten Schritte gemacht hast. Wie war es, Deine Kindheit in einem so produktiven Umfeld zu verbringen? Ich kann mir das ja gleichzeitig ziemlich kreativ und manchmal auch stressig vorstellen.
 
-![Melody aka Queen Of The Static Opera](https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-1-jpg-imagine-887878_ac877c_1024_768/640.webp "Melody aka Queen Of The Static Opera")
+![Melody aka Queen Of The Static Opera](https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-1-jpg-imagine-887878_ac877c_1024_768/640.webp 'Melody aka Queen Of The Static Opera')
 
-**Melody:** Ich denke, ich bin mit einem angeborenen Interesse an Auftritten aufgewachsen, daher war es für mich nicht anstrengend. Ich wollte an Talentshows teilnehmen. Ich wollte Gitarre und Klavier lernen, singen und tanzen. Als ich vier Jahre alt war, wollte ich unbedingt einen Grammy. Ich wollte alles können, weil ich mit einer Bewunderung für geniale Künstler aufgewachsen bin, und mein Vater in gewisser Weise ein Genie war. Ich wusste einfach, dass ich Künstlerin werden wollte, und ich wusste, dass ich alles lernen musste, damit niemals jemand mein Talent anzweifeln würde. Mein Vater hat mir viel über Bühnenpräsenz und Individualität beigebracht. 
+**Melody:** Ich denke, ich bin mit einem angeborenen Interesse an Auftritten aufgewachsen, daher war es für mich nicht anstrengend. Ich wollte an Talentshows teilnehmen. Ich wollte Gitarre und Klavier lernen, singen und tanzen. Als ich vier Jahre alt war, wollte ich unbedingt einen Grammy. Ich wollte alles können, weil ich mit einer Bewunderung für geniale Künstler aufgewachsen bin, und mein Vater in gewisser Weise ein Genie war. Ich wusste einfach, dass ich Künstlerin werden wollte, und ich wusste, dass ich alles lernen musste, damit niemals jemand mein Talent anzweifeln würde. Mein Vater hat mir viel über Bühnenpräsenz und Individualität beigebracht.
 
 Meine Eltern waren beide irgendwie merkwürdig. Künstler⋆innen werden in der realen Welt nicht so gut angenommen, es sei denn, sie sind extrem wohlhabend. Als Künstler⋆in bist Du irgendwie immer so eine Art Alien. In Ateliers und unter Musiker⋆innen aufzuwachsen, war großartig. Ich habe diese Umgebung immer geliebt. Als ich älter wurde, ging das mehr und mehr weg, bis ich angefangen habe, selbst Musik zu machen. Meine Eltern waren in den 1990er Jahren selbst in einer Band aktiv. Ich habe meine Karriere erst nach dem Tod meines Vaters begonnen. Als er starb, war ich ein Teenager.
 
@@ -85,21 +82,21 @@ Ich glaube nicht, dass man schreiben sollte, wenn man nicht inspiriert ist. Man 
 
 **Melody:** Nun, die Streaming-Plattformen haben den größten Teil der Welt ja schon beherrscht. Technologie hat schon immer die Art und Weise beeinflusst, wie Menschen Musik machen. Ich habe schon vor der Pandemie mit anderen Bands zusammengearbeitet, also war das alles nicht neu, aber einige Bands lieben es eben Old School. Sie wollen sich persönlich treffen und gemeinsam in einem Raum jammen. Ich kann das auch verstehen und ich respektiere es auch. Ich sehe den Wert darin. Es kann natürlich auch ein Teil der Substanz verloren gehen, wenn wir die Dinge auf die Hightech-Tour regeln. Das Gleichgewicht zwischen Technologie und menschlicher Kunst – das ist es, worum es geht! In gewisser Weise hat die Pandemie auch das Spielfeld für Social-Media-Künstler⋆innen und Bar-Band-Touren-Typen geebnet.
 
-![Melody aka Queen Of The Static Opera](https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-2-jpg-imagine-989898_a89ca1_1024_768/640.webp "Melody aka Queen Of The Static Opera")
+![Melody aka Queen Of The Static Opera](https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-2-jpg-imagine-989898_a89ca1_1024_768/640.webp 'Melody aka Queen Of The Static Opera')
 
 **Anne:** Auf Deiner Platte beschäftigst Du Dich mit dem Leben als Frau in der Unterhaltungsindustrie. In Deinen Songs geht es um Themen wie Missbrauch, Sucht und Deine Kämpfe im Leben. Ich glaube, damit hast Du den Nagel ziemlich auf den Kopf getroffen. Woran liegt es, dass Frauen mit einer starken Sichtweise nach wie vor so wenig akzeptiert werden?
 
 ## "Es gibt viele starke Frauen in der Musikszene"
 
-**Melody:**  Ich glaube tatsächlich, dass es viele starke Frauen in der Musik gibt. Ich glaube auch, dass es generell viele schlechte Künstler⋆innen gibt. Ich meine, die werden immer da sein. Aber die Dinge sind besser geworden, als sie mal waren. Sicher, es passiert immer wieder derselbe Mist. In der Musikindustrie geht es viel um Politik, soziale Beziehungen und Geld und nicht so sehr um die Kunst selbst. Außerdem will niemand seine Meinung sagen und alles verlieren. Es ist einfach eine ziemlich komplizierte Angelegenheit.  
+**Melody:**  Ich glaube tatsächlich, dass es viele starke Frauen in der Musik gibt. Ich glaube auch, dass es generell viele schlechte Künstler⋆innen gibt. Ich meine, die werden immer da sein. Aber die Dinge sind besser geworden, als sie mal waren. Sicher, es passiert immer wieder derselbe Mist. In der Musikindustrie geht es viel um Politik, soziale Beziehungen und Geld und nicht so sehr um die Kunst selbst. Außerdem will niemand seine Meinung sagen und alles verlieren. Es ist einfach eine ziemlich komplizierte Angelegenheit.
 
 **Anne:** Du bezeichnest Dich selbst als Überlebende. Gibt es einen Ratschlag, den Du Menschen (vor allem jungen Frauen und nicht-binären Menschen) geben möchtest, wie sie mit Dingen wie Mansplaining und Belästigung in ihrem Alltag umgehen können?
 
-**Melody:** In Bezug auf Belästigung bringt es viel, sich zu informieren. Das hilft sowohl bei der Bewusstwerdung als auch bei der Einschätzung, ob der Missbrauch die eigenen Grenzen beeinflusst hat oder nicht. Es hilft einem, Dinge wie das Selbstberuhigungsverhalten zu erkennen – oder den buchstäblichen Kampf- und Fluchtmodus. Und bei PTBS oder Angstzuständen, die durch ein schlimmes Lebensereignis ausgelöst wurden. Wissen kann sehr beruhigend sein. Wir alle haben ständig Zugang zu einer Vielzahl an Informationen – Die kann mensch sogar dazu nutzen, den Heilungsprozess in Gang zu setzen. 
+**Melody:** In Bezug auf Belästigung bringt es viel, sich zu informieren. Das hilft sowohl bei der Bewusstwerdung als auch bei der Einschätzung, ob der Missbrauch die eigenen Grenzen beeinflusst hat oder nicht. Es hilft einem, Dinge wie das Selbstberuhigungsverhalten zu erkennen – oder den buchstäblichen Kampf- und Fluchtmodus. Und bei PTBS oder Angstzuständen, die durch ein schlimmes Lebensereignis ausgelöst wurden. Wissen kann sehr beruhigend sein. Wir alle haben ständig Zugang zu einer Vielzahl an Informationen – Die kann mensch sogar dazu nutzen, den Heilungsprozess in Gang zu setzen.
 
 ## "Es gibt kein Regelbuch für traumatisierte Menschen"
 
-Menschen mit ignoranten Ansichten sind in meinen Augen in ihrer Entwicklung einfach noch nicht so weit, dass sie diese Perspektive verstehen können. Sie sind also die Energie nicht wert. Ich muss mich ihnen gegenüber nicht rechtfertigen. Ich muss ihnen nicht erklären, wie es ist, sich bedroht zu fühlen. Der Polizei zu erzählen, dass man gerade beinahe vergewaltigt worden wäre und zu merken, dass sie daran zweifelt, weil Du nicht hysterisch genug wirkst. Es gibt einfach kein Regelwerk dafür, wie sich traumatisierte Menschen zu verhalten haben. Ich habe wirklich viel Scheiße durchgemacht, über manches davon rede ich gar nicht. Aber ich habe erlebt, dass die Polizei weggefahren ist, als der Mann, der mich vergewaltigen wollte, direkt vor ihnen stand. 
+Menschen mit ignoranten Ansichten sind in meinen Augen in ihrer Entwicklung einfach noch nicht so weit, dass sie diese Perspektive verstehen können. Sie sind also die Energie nicht wert. Ich muss mich ihnen gegenüber nicht rechtfertigen. Ich muss ihnen nicht erklären, wie es ist, sich bedroht zu fühlen. Der Polizei zu erzählen, dass man gerade beinahe vergewaltigt worden wäre und zu merken, dass sie daran zweifelt, weil Du nicht hysterisch genug wirkst. Es gibt einfach kein Regelwerk dafür, wie sich traumatisierte Menschen zu verhalten haben. Ich habe wirklich viel Scheiße durchgemacht, über manches davon rede ich gar nicht. Aber ich habe erlebt, dass die Polizei weggefahren ist, als der Mann, der mich vergewaltigen wollte, direkt vor ihnen stand.
 
 **Anne:** Würdest Du sagen, dass Musik für Dich eine Quelle der Kraft und Positivität ist? Oder benutzt Du sie eher wie ein Ventil? Du weißt schon, um von Zeit zu Zeit Dampf abzulassen?
 
@@ -111,19 +108,19 @@ Menschen mit ignoranten Ansichten sind in meinen Augen in ihrer Entwicklung einf
 
 **Melody:** Ich hatte den Namen Queen Of The Static Opera und viele Ideen, als ich Disraeli begegnet bin. Er hat mich mehr unterstützt und meine Ideen genährt, während ich an meinen frühen Demos wie "Bruises On My Neck" saß. Mein Vater war ein Billboard-Künstler, also hatte ich eine starke Idee und Identität als Künstler, als ich Disraeli traf und wir zusammen Musik gemacht haben. Es hat super viel Spaß gemacht, also haben wir weiter gemacht. Manchmal produziere ich auch alleine. Ich habe schon immer meine eigenen Instrumente gespielt, also war das sowieso der nächste Schritt für mich.
 
-![Melody aka Queen Of The Static Opera](https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-3-jpg-imagine-a89888_a38f8b_1024_768/640.webp "Melody aka Queen Of The Static Opera")
+![Melody aka Queen Of The Static Opera](https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-3-jpg-imagine-a89888_a38f8b_1024_768/640.webp 'Melody aka Queen Of The Static Opera')
 
 **Anne:** Deine Videos und Bilder sind immer sehr stylisch. Das Spiel mit der Mode in ihren Extremen scheint Dein Ding zu sein. Machst Du das alles selbst? Und wer filmt das Material?
 
 **Melody:** Das meiste mache ich tatsächlich selbst. Ich habe manchmal Fotoshootings mit guten Fotografen, aber der Großteil der Aufnahmen ist von mir. Ich habe bei all meinen Musikvideos Regie geführt. Ich mache mein ganzes Styling. Persönlich finde ich ja, man kann alles machen, was man will. Wenn mir irgendwann eine Marmorstatue vorschwebt, werde ich eben lernen, wie man Skulpturen macht. So bin ich nun mal.
 
-**Anne:** Was steht als Nächstes an für Queen Of The Static Opera? 
+**Anne:** Was steht als Nächstes an für Queen Of The Static Opera?
 
-**Melody:**  Mit meinem nächsten Projekt werde ich anfangen, NFTs (digitale, nicht kopierbare Kunst) zu veröffentlichen, und ich werde einen Discord-Kanal starten. Ich möchte ein Rollenspiel für die Welt meiner Musik entwerfen. Irgendwann will ich daraus dann ein richtiges Videospiel machen, für das ich die Musik schreibe und dann möchte ich mit meinen Fans in einer virtuellen Welt leben! Außerdem möchte ich neben den geplanten Musik- und Visual-Alben auch eine Welttournee machen. 
+**Melody:**  Mit meinem nächsten Projekt werde ich anfangen, NFTs (digitale, nicht kopierbare Kunst) zu veröffentlichen, und ich werde einen Discord-Kanal starten. Ich möchte ein Rollenspiel für die Welt meiner Musik entwerfen. Irgendwann will ich daraus dann ein richtiges Videospiel machen, für das ich die Musik schreibe und dann möchte ich mit meinen Fans in einer virtuellen Welt leben! Außerdem möchte ich neben den geplanten Musik- und Visual-Alben auch eine Welttournee machen.
 
 **Anne:** Ich danke Dir für Deine Zeit und dieses Interview!
 
-**Melody:**  Ich danke Dir! 
+**Melody:**  Ich danke Dir!
 
 ## Queen Of The Static Opera - "Make Love To America Gently With A Chainsaw"
 

@@ -7,7 +7,7 @@ subTitle: Ausgewählte Musik von Ranges bis Jerry Cantrell
 seoTitle: Die September-Playlist – ausgewählte Musik von Ranges bis Jerry Cantrell
 description: Die September-Playlist ist fertig. Ihr findet darin 12 ganz besondere Songs, die Euch die nächsten vier Wochen hoffentlich versüßen werden – egal wie das Wetter draußen ist. Von Ranges über Trent Reznor und Leprous bis Thrice und Jerry Cantrell.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/12-songs-september-jpg-imagine-181818_695556_1024_768/640.webp
-copyrigt: ''
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/12-songs-september-fb-png-imagine-181818_695150_1200_628/640.webp
 labels:
   - Ranges

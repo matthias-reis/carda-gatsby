@@ -5,16 +5,10 @@ typeName: Review
 title: '"The death of Death"'
 subTitle: Das neue Album von Playgrounded
 seoTitle: Playgrounded – "The death of Death" – Prog Review
-description: Das neue Playgrounded Album "The death of Death" ist eine Studie
-  der Einheit der Gegensätzlichkeiten. Eine geniale Platte mit einem
-  faszinierenden Background erwartet Euch.
-excerpt: Das neue Playgrounded Album "The death of Death" ist eine Studie der
-  Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung
-  widersprüchlicher Aspekte der Realität und soll ein Ausdruck ihrer Beziehung
-  zueinander sein. Die Platte erscheint am 18. März und verdient definitiv
-  Aufmerksamkeit.
+description: Das neue Playgrounded Album "The death of Death" ist eine Studie der Einheit der Gegensätzlichkeiten. Eine geniale Platte mit einem faszinierenden Background erwartet Euch.
+excerpt: Das neue Playgrounded Album "The death of Death" ist eine Studie der Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung widersprüchlicher Aspekte der Realität und soll ein Ausdruck ihrer Beziehung zueinander sein. Die Platte erscheint am 18. März und verdient definitiv Aufmerksamkeit.
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-10/playgrounded-the-death-of-death-jpg-imagine-080808_110f0e_1024_768/640.webp
-copyrigt: Playgrounded
+copyright: Playgrounded
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-10/playgrounded-fb-png-imagine-080808_110f0e_1200_628/640.webp
 labels:
   - Post-Rock
@@ -31,13 +25,14 @@ affiliate: false
 language: de
 languageLink: /2022/02/playgrounded-the-death-of-death-en/
 ---
+
 **Das neue Playgrounded Album "The death of Death" ist eine Studie der Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung widersprüchlicher Aspekte der Realität und soll ein Ausdruck ihrer Beziehung zueinander sein. Die Platte erscheint am 18. März und verdient defintiv Aufmerksamkeit.**
 
 Die erste vorausgekoppelte Single trägt den Namen des Albums. Der Clip dazu entstand in Zusammenarbeit mit Regisseur Dimitris Anagnostou und Kameramann Yannis Karabatsos. Das Duo erschuf bereits den preisgekrönten Kurzfilm "Mare Nostrum", für das Sänger Stavros die Musik komponierte.
 
 ## "The Swan" und "The death of Death" heißen die ersten Vorauskopplungen
 
-Michael Kotsirakis von Playgrounded erzählte gegenüber Pelagic Records: 
+Michael Kotsirakis von Playgrounded erzählte gegenüber Pelagic Records:
 
 > "Dimitris hatte die Idee, eine Art Bewegungsstudie mit frühen Kinotechniken zu realisieren – inspiriert von der dialektischen Lyrik von Orestis, die die beiden anschließend ins Drehbuch für das Videos aufnahmen. Yannis düstere Bilder tun ihr übriges und erforschen die Bewegung in Widersprüchen aus schwarz und weiß, klarer Richtung und Diffusion, Entfremdung und Kampf, Stille und Leben."
 
@@ -47,7 +42,7 @@ Die zweite Vorauskopplung namens "The Swan" könnt Ihr auch schon hören. Sie ha
 
 <YouTube id="MXqDANwiadQ" />
 
-Insgesamt sind sechs Stücke drauf auf "The death of Death" – eines tiefgründiger als das andere. Beim Hören der Platte als Gesamtes, fiel mir der ausgeprägte Spannungsbogen auf, der sich nicht nur durch die einzelnen Tracks,  sondern durch das gesamte Album, vom ersten Ton des ersten Songs "The Swan" bis zum Schlussakkord des letzten Tracks "Our Fire", zieht. Es ist also durchaus empfehlenswert, nicht nur einzelne Stücke, sondern bei Gelegenheit auch mal das Gesamtwerk zu genießen. Die griechische Band, die den Großteil ihrer Zeit im niederländischen Haarlem verbringt, hat da wirklich etwas Besonderes erschaffen – ihre Leidenschaft am Komponieren kann man förmlich spüren.
+Insgesamt sind sechs Stücke drauf auf "The death of Death" – eines tiefgründiger als das andere. Beim Hören der Platte als Gesamtes, fiel mir der ausgeprägte Spannungsbogen auf, der sich nicht nur durch die einzelnen Tracks, sondern durch das gesamte Album, vom ersten Ton des ersten Songs "The Swan" bis zum Schlussakkord des letzten Tracks "Our Fire", zieht. Es ist also durchaus empfehlenswert, nicht nur einzelne Stücke, sondern bei Gelegenheit auch mal das Gesamtwerk zu genießen. Die griechische Band, die den Großteil ihrer Zeit im niederländischen Haarlem verbringt, hat da wirklich etwas Besonderes erschaffen – ihre Leidenschaft am Komponieren kann man förmlich spüren.
 
 ## Die Leidenschaft fürs Komponieren
 

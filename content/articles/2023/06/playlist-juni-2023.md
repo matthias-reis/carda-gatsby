@@ -5,13 +5,10 @@ typeName: Beitrag
 title: Playlist Juni 2023
 subTitle: Von Sunbeam Overdrive bis Queens of the Stone Age
 seoTitle: Die alternative Playlist für den Juni
-description: Wenn Ihr nach der ultimativen alternativen Playlist für Euren Juni
-  sucht, habt Ihr sie hiermit gefunden. Holt euch jetzt die fertig abspielbare Liste!
-excerpt: Im Mai war einiges los, eine Musikliste gibt es trotzdem. Wenn auch
-  etwas später als sonst, kommt sie dennoch von Herzen und ist randvoll mit
-  großartiger Musik. Ich wünsche Euch viel Spaß beim Hören. Genießt Euren Juni!
+description: Wenn Ihr nach der ultimativen alternativen Playlist für Euren Juni sucht, habt Ihr sie hiermit gefunden. Holt euch jetzt die fertig abspielbare Liste!
+excerpt: Im Mai war einiges los, eine Musikliste gibt es trotzdem. Wenn auch etwas später als sonst, kommt sie dennoch von Herzen und ist randvoll mit großartiger Musik. Ich wünsche Euch viel Spaß beim Hören. Genießt Euren Juni!
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-01/playlist-juni-2023-jpg-imagine-080808_6a5c5d_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-01/playlist-juni-2023-og-jpg-imagine-080808_6b5b5e_1200_628/640.webp
 labels:
   - Musik
@@ -43,9 +40,10 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Im Mai war einiges los, eine Musikliste gibt es trotzdem. Wenn auch etwas später als sonst, kommt sie dennoch von Herzen und ist randvoll mit großartiger Musik. Ich wünsche Euch viel Spaß beim Hören. Genießt Euren Juni!**
 
-Zusammengestellt habe ich die Playlist dieses Mal mit Matze, die Texte in  den Anführungszeichen sind von ihm (bis auf die Band-Zitate natürlich). Wie immer findet Ihr ganz unten die fertigen Playlists für Eure Musik-Streamingdienste.
+Zusammengestellt habe ich die Playlist dieses Mal mit Matze, die Texte in den Anführungszeichen sind von ihm (bis auf die Band-Zitate natürlich). Wie immer findet Ihr ganz unten die fertigen Playlists für Eure Musik-Streamingdienste.
 
 ## The Ocean – "Unconformities" vom Album "Holocene"
 
@@ -57,7 +55,7 @@ Zusammengestellt habe ich die Playlist dieses Mal mit Matze, die Texte in  den A
 
 Spurv aus Oslo haben Ihr Album "Brefjære" für den 22. September angekündigt – auf dem The Ocean Label Pelagic. Ich durfte es schon hören und träume seitdem von den Songs. Was soll ich sagen? Freut Euch darauf, es ist sensationell! Den ersten Song "Å vente er å endre" gibt es schon auf den Streaming-Plattformen, ich kann ihn also an dieser Stelle als Vorgeschmack mit Euch teilen. Verträumter Gesang trifft hier auf gewaltige Soundfelsen – macht Euch auf was gefasst und haltet nach Shows Ausschau. Die Band ist live ein besonderer Genuss!
 
-![Spurv | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/spurv-jpg-imagine-e8e8e8_949494_1024_768/640.webp "Spurv")
+![Spurv | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/spurv-jpg-imagine-e8e8e8_949494_1024_768/640.webp 'Spurv')
 
 <YouTube id="8wYt-TWk4Sc" />
 
@@ -67,7 +65,7 @@ Wenn Ihr meinen Blog schon länger lest, ist Soundkünstler [Zakè](/tag/zake) f
 
 "Drift" ist eine Sammlung von Arrangements, die für die beiden Künstler längst überfällig war. Mit ihren Klanglandschaften zeichnen Zakè und Tyresta ein entspanntes, zeitloses Bild, das irgendwie gleichzeitig fesselt und loslöst. Ihre Melodien leben von ihrer zarten Subtilität. Wer genauer hinhört, erkennt zahlreiche perfekt durchdachte Schichten, die gemeinsam das große Ganze ergeben. Das Duo setzte bei den gemeinsamen Kompositionen auf einen introspektiven und minimalistischen Ansatz. Damit ist es ihnen gelungen, ein gefühlvolles Album zu erschaffen, das man in jeder Situation hören kann – in der einen holt es einen runter und in der anderen beschwingt es einen – Drone Sound Design at its best!
 
-![Zakè & Tyresta | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/zake-jpg-imagine-080808_716a58_1024_768/640.webp "Zakè & Tyresta")
+![Zakè & Tyresta | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/zake-jpg-imagine-080808_716a58_1024_768/640.webp 'Zakè & Tyresta')
 
 <YouTube id="L3NO18Si32k" />
 
@@ -95,7 +93,7 @@ Tanner Thornton (Gitarre), Zephaniah Stake (Drums) und Antonio Guzman (Bass) bra
 
 > "Es ist der vierte Song, den wir für unser kommendes Album geschrieben haben, aber er blieb wirklich bei uns hängen. Wir haben also beschlossen, ihn als eigenständige Single zu priorisieren!"
 
-![Hessdalen Light | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/hessdalen-jpg-imagine-080808_5d2548_3949_3612/640.webp "Hessdalen Light")
+![Hessdalen Light | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/hessdalen-jpg-imagine-080808_5d2548_3949_3612/640.webp 'Hessdalen Light')
 
 <YouTube id="D67KBRpN4G4" />
 
@@ -105,13 +103,13 @@ Tanner Thornton (Gitarre), Zephaniah Stake (Drums) und Antonio Guzman (Bass) bra
 
 <YouTube id="NG4A9T1DGec" />
 
-## Egor Lappo _ "Neverending Storm" vom Album "Abandonend Corners"
+## Egor Lappo \_ "Neverending Storm" vom Album "Abandonend Corners"
 
 [Egor Lappo](/tag/egor-lappo) habe ich hier im Blog schon ein paar Mal gefeaturt. Jetzt hat er ein neues Album am Start, das Ihr ab sofort kaufen könnt. Damit Ihr ein Gefühl dafür bekommt, teile ich an dieser Stelle Track eins mit dem Titel "Neverending Storm" mit Euch. Wie ein nicht enden wollender Sturm, aus dem er nicht ausbrechen kann – so fühlt sich für den Musiker manchmal auch das Leben an. Hoffnung und Licht hört man an jeder Stelle seiner Stücke, die jedem⋆r Gänsehaut verursachen, der⋆die seinen Hintergrund kennt. Egor verspricht hier besonders Fans von Steven Wilson, Marillion, Manic Street Preachers und Peter Gabriel Hörgenuss. Im Gespräch hat er mir folgende Datails über seine neue Platte verraten:
 
 > "Mit Abandoned Corners erforsche ich verschiedene persönliche Motive, was zu einem klanglich insgesamt sehr vielfältigen Album geführt hat. Ich habe mich von Pop-Rock und Synthie-Pop beeinflussen lassen und meinem geliebten, energiegeladenen Progressive Metal natürlich dennoch nicht abgeschworen."
 
-![Egor Lappo | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/egor-lappo-jpg-imagine-d8d8d8_818184_1024_768/640.webp "Egor Lappo")
+![Egor Lappo | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/egor-lappo-jpg-imagine-d8d8d8_818184_1024_768/640.webp 'Egor Lappo')
 
 <YouTube id="8C3w_IYdo6I" />
 
@@ -121,7 +119,7 @@ Das neue Album von Sunbeam Overdrive steht bereits seit dem 11. Mai in den Platt
 
 > "Obwohl wir "Diama" nicht als Konzeptalbum geplant hatten, stellte sich schnell heraus, dass wir eine kohärenten Linie durchziehen würden. Es fühlt sich an wie eine Reihe von Gipfelkämmen. Man könnte es auch so beschreiben: Es ist eine Geschichte des Aufstiegs, der Erhöhung, des Außen und des Innen. Sie übersetzt sich in die quasi filmische Abfolge von Stücken, die eine Initiationsreise durch unsere zehn Songs bilden."
 
-![Sunbeam Overdrive | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/sunbeam-overdrive-jpeg-imagine-282828_857354_2479_2402/640.webp "Sunbeam Overdrive")
+![Sunbeam Overdrive | large](https://storage.googleapis.com/cardamonchai-media/2023-06-01/sunbeam-overdrive-jpeg-imagine-282828_857354_2479_2402/640.webp 'Sunbeam Overdrive')
 
 <YouTube id="m6ry6iX_AVg" />
 
@@ -132,4 +130,11 @@ Das neue Album von Sunbeam Overdrive steht bereits seit dem 11. Mai in den Platt
 
 ## Die Juni-Playlist auf YouTube
 
-<iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUJYtj4Olaj2LyAl0mpJpHxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe
+  style="width: 100%; aspect-ratio: 16 / 9"
+  src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUJYtj4Olaj2LyAl0mpJpHxA"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+></iframe>

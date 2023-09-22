@@ -5,15 +5,10 @@ typeName: Beitrag
 title: Die erste vegane Geige
 subTitle: Instrumentenbauer erhält Veganblume
 seoTitle: Vegane Geigen aus liebevoller Handarbeit
-description: "Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner
-  neuesten Kreation hat er alles, was ihm wichtig ist, miteinander: Musik, seine
-  geliebten Violinen und Tierschutz. "
-excerpt: "Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner
-  neuesten Kreation hat er alles, was ihm wichtig ist, miteinander: Musik, seine
-  geliebten Violinen und Tierschutz. Seine veganen Geigen wurden sogar von der
-  Vegan Society mit der Veganblume zertifiziert."
+description: 'Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner neuesten Kreation hat er alles, was ihm wichtig ist, miteinander: Musik, seine geliebten Violinen und Tierschutz. '
+excerpt: 'Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner neuesten Kreation hat er alles, was ihm wichtig ist, miteinander: Musik, seine geliebten Violinen und Tierschutz. Seine veganen Geigen wurden sogar von der Vegan Society mit der Veganblume zertifiziert.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-19/vegane-geige-padraig-o-dubhlaoidh-jpg-imagine-f8f8f8_bb7448_1024_768/640.webp
-copyrigt: Padraig ó Dubhlaoidh
+copyright: Padraig ó Dubhlaoidh
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-19/vegane-geige-padraig-o-dubhlaoidh-fb-png-imagine-d86828_b76d3f_1200_628/640.webp
 labels:
   - Padraig ó Dubhlaoidh
@@ -29,6 +24,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner neuesten Kreation hat er alles, was ihm wichtig ist, miteinander: Musik, seine geliebten Violinen und Tierschutz. Seine veganen Geigen wurden sogar von der Vegan Society mit der Veganblume zertifiziert.**
 
 Seine Instrumente stellt Padraig in sorgfältiger Handarbeit her. Sie sind das Ergebnis von 40 Jahren Geigenbauerfahrung. Der passionierte Musiker erforschte auf seinem Weg die unterschiedlichsten Geigen – von der Restauration und Konservierung bis zur Entwicklung völlig neuer Modelle. Die Umwelt und der Tierschutz waren ihm dabei besonders wichtig. So entstand schließlich die erste zu 100 Prozent vegane Violine der Welt.
@@ -44,15 +40,14 @@ In die Entwicklung seiner veganen Geigen hat er sein Herzblut gesteckt. Sogar di
 > "Während ich den Klang und das Gefühl erschaffe, die sich ein⋆e Musiker⋆in von einem Instrument wünschen, auch noch etwas für unseren wunderbaren Planeten tun zu können und Menschen, denen er wie mir wichtig ist, damit zu ermöglichen, die Musik zu spielen, die so so sehr lieben, macht mich glücklich."
 
 Geigen und Fiedeln faszinieren ihn seit seiner Kindheit. Während seiner Zeit auf der Folk Music School im Zentrum von Dublin spielte er in zahlreichen Bands und jammte sogar mit Stars wie Johnny Doherty und Brendan Gleeson.
- 
+
 Die irische Fiedel-Legende Tommy Peoples gab die Liebe für den Geigenbau schließlich an ihn weiter. Er studierte am Welsh College Violin Making und ergatterte nach seinem Abschluss eine Stelle als Geigenbauer an einem führenden Konservatorium in Österreich. Dort arbeitete er unter anderem mit der Geigenbau-Koryphäe Professor Eduar Melkus und den Wiener Philharmonikern zusammen.
 
 ## Ein echter Saitenprofi
-​
-Irgendwann entschloss er sich dazu, sich selbstständig zu machen und ließ sich in den britischen Malvern Hills nieder, wo er bis heute seine Werkstatt, den Hibernian Workshop hat. 
 
-An der Oxford University belegte er Kurse in Bogenbau und im Victoria and Albert Museum Instrumenten-Konservierung. Anschließend ernannte ihn das British Museum zum Fachberater für seinen Bereich. Er wurde dazu eingeladen, Instrumente von Stradivari zu untersuchen und zu dokumentieren. Außerdem führte er Restaurationsarbeiten an historischen Instrumenten 
-namhafter Hersteller wie Maggini, Guadagnini, Testore und Gagliano durch.
+​ Irgendwann entschloss er sich dazu, sich selbstständig zu machen und ließ sich in den britischen Malvern Hills nieder, wo er bis heute seine Werkstatt, den Hibernian Workshop hat.
+
+An der Oxford University belegte er Kurse in Bogenbau und im Victoria and Albert Museum Instrumenten-Konservierung. Anschließend ernannte ihn das British Museum zum Fachberater für seinen Bereich. Er wurde dazu eingeladen, Instrumente von Stradivari zu untersuchen und zu dokumentieren. Außerdem führte er Restaurationsarbeiten an historischen Instrumenten namhafter Hersteller wie Maggini, Guadagnini, Testore und Gagliano durch.
 
 Auch die Instrumente zahlreicher bekannter Musiker restaurierte er. Über die Instandhaltung besonderer Instrumente und seine Erfahrungen auf diesem Gebiet schrieb er Artikel für die unterschiedlichsten Musikmagazine.
 

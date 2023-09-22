@@ -8,7 +8,7 @@ seoTitle: MY-HI interview about their studio sessions with Alex Gordon
 description: MY-HI told me about their collaboration with Alex Gordon for their new songs. Please enjoy my interview!
 excerpt: I recently got to know MY-HI through my friends at Memphia Music. After briefly introducing the Brighton-based band in my May playlist, I now had the chance to sit down with them for an interview.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-14/my-hi-band-1-jpg-imagine-080808_272f3a_1024_768/640.webp
-copyrigt: MY-HI
+copyright: MY-HI
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-14/my-hi-og-jpg-imagine-080808_2d333d_1200_628/640.webp
 labels:
   - MY-HI
@@ -24,6 +24,7 @@ affiliate: false
 language: en
 languageLink: /2023/06/my-hi-interview/
 ---
+
 **I recently got to know MY-HI through my friends at Memphia Music. After briefly introducing the Brighton-based band in my May playlist, I now had the chance to sit down with them for an interview.**
 
 Besides their brilliant new song, "Phaser ", and their tour plans, we also talked about the band's collaboration with Alex Gordon (The Cure, Blood-Red Shoes, The Xcerts), their tour plans and life in general.
@@ -40,7 +41,7 @@ Besides their brilliant new song, "Phaser ", and their tour plans, we also talke
 
 ## "Working with Alex is great!"
 
-![MY-HI – "Phaser"](https://storage.googleapis.com/cardamonchai-media/2023-06-14/my-hi-jpeg-imagine-080808_4a3e38_1000_1000/640.webp "MY-HI – \"Phaser\"")
+![MY-HI – "Phaser"](https://storage.googleapis.com/cardamonchai-media/2023-06-14/my-hi-jpeg-imagine-080808_4a3e38_1000_1000/640.webp 'MY-HI – "Phaser"')
 
 **MY-HI:** Working with Alex was great; we have known him for years, and his talent precedes him! He makes the whole process easy and straightforward, and it really is just working with a mate, which is truly relieving when recording.
 
@@ -52,7 +53,7 @@ Besides their brilliant new song, "Phaser ", and their tour plans, we also talke
 
 ## "We may have some new songs coming up soon!"
 
-![MY-HI](https://storage.googleapis.com/cardamonchai-media/2023-06-14/my-hi-band-2-1-jpg-imagine-080808_333a35_1024_768/640.webp "MY-HI")
+![MY-HI](https://storage.googleapis.com/cardamonchai-media/2023-06-14/my-hi-band-2-1-jpg-imagine-080808_333a35_1024_768/640.webp 'MY-HI')
 
 **MY-HI:** Well, earlier, you mentioned recording with Alex Gordon. There may or may not have been a couple more sessions with Alex, and there may or may not be a number of songs in the works.
 

@@ -5,15 +5,10 @@ typeName: Review
 title: '"Corona di Cervo"'
 subTitle: New EP by Ox en Mayo Alto
 seoTitle: Ox en Mayo Alto – "Corona di Cervo" – Post-Rock Review
-description: Ox en Mayo Alto are back. They have just released the first single
-  from their EP "Corona di Cervo", which will be out on 22 April. The first
-  track provides deep insights.
-excerpt: Ox en Mayo Alto are back. They have just released the first single from
-  their EP "Corona di Cervo", which will be out on 22 April. The first track
-  provides deep insights taking their fans' curiosity for the complete work to
-  the extreme.
+description: Ox en Mayo Alto are back. They have just released the first single from their EP "Corona di Cervo", which will be out on 22 April. The first track provides deep insights.
+excerpt: Ox en Mayo Alto are back. They have just released the first single from their EP "Corona di Cervo", which will be out on 22 April. The first track provides deep insights taking their fans' curiosity for the complete work to the extreme.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-jpg-imagine-181818_535f5a_1024_768/640.webp
-copyrigt: Ox en Mayo Alto
+copyright: Ox en Mayo Alto
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-fb-jpg-imagine-181818_404844_1200_628/640.webp
 labels:
   - Mathrock
@@ -37,6 +32,7 @@ affiliate: false
 language: en
 languageLink: /2022/04/ox-en-mayo-alto-corona-di-cervo/
 ---
+
 **Ox en Mayo Alto are back. They have just released the first single from their EP "Corona di Cervo", which will be out on April 22nd. The first track provides deep insights taking their fans' curiosity for the complete work to the extreme.**
 
 "Corona di Cervo" again tells a coherent story that emerges when you listen to the total of five songs in one piece. This is how we know and love the sound collective. The tracks are called:
@@ -46,20 +42,28 @@ languageLink: /2022/04/ox-en-mayo-alto-corona-di-cervo/
 - brañas del bosque, desniveladas, orquídeas ...
 - lo crudo, más tarde, durante el viaje.
 - humedad, bastante...
- 
+
 which means:
- 
+
 - Arnica, eyebright, the...
 - draft from the well with the star dice on top....
 - forest sward, unleveled, orchis and orchis, singly,....
 - raw exchanges, later, while driving, clearly....
 - Humidity, much...
 
-Does this trigger your curiosity? If yes: it is definitely worth it. I have already listened to the songs in their entirety, and I have to say: I am fascinated by the precision with which Ox en Mayo Alto deliver here –  while at the same time telling another story that seems like something out of a fairy tale dream. You can already enjoy the opera's overture via Bandcamp.
+Does this trigger your curiosity? If yes: it is definitely worth it. I have already listened to the songs in their entirety, and I have to say: I am fascinated by the precision with which Ox en Mayo Alto deliver here – while at the same time telling another story that seems like something out of a fairy tale dream. You can already enjoy the opera's overture via Bandcamp.
 
 ## Ox en Mayo Alto – "Corona di Cervo"
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2821923603/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://oxenMayoalto.bandcamp.com/album/corona-di-cervo">Corona di Cervo by Ox en Mayo Alto</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=2821923603/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://oxenMayoalto.bandcamp.com/album/corona-di-cervo">
+    Corona di Cervo by Ox en Mayo Alto
+  </a>
+</iframe>
 
 The names of the songs are based on the poem "Todtnauberg" by the Jewish-Romanian poet Paul Celan. He wrote it after visiting Martin Heidegger after the end of the Second World War. Ox en Mayo Alto used the Spanish translations by Felix Luque and Enrique Foffani for their setting.
 
@@ -68,40 +72,22 @@ The names of the songs are based on the poem "Todtnauberg" by the Jewish-Romania
 The band turned the poem into a post-rock narrative and transposed it into our modern times. The elements from nature, which were also part of Ox en Mayo Alto's predecessors, are also an essential part of the picture again. Just like in Clan's poem:
 
 > ## "Todtnauberg" by Paul Celan
-> 
-> Arnica, eyebright, the
-> draft from the well with the
-> star dice on top,
-> 
-> in the
-> cabin,
-> 
-> written in the book
-> —whose name did it record
-> before mine?—,
-> in this book
-> the line about
-> a hope, today,
-> for a thinker's
-> word
-> to come,
-> in the heart,
-> 
-> forest sward, unleveled,
-> orchis and orchis, singly,
-> 
-> raw exchanges, later, while driving,
-> clearly,
-> 
-> he who drives us, the human,
-> he also hears it,
-> 
-> the half-
-> trod log-
-> trails on the high moor,
-> 
-> humidity,
-> much.
+>
+> Arnica, eyebright, the draft from the well with the star dice on top,
+>
+> in the cabin,
+>
+> written in the book —whose name did it record before mine?—, in this book the line about a hope, today, for a thinker's word to come, in the heart,
+>
+> forest sward, unleveled, orchis and orchis, singly,
+>
+> raw exchanges, later, while driving, clearly,
+>
+> he who drives us, the human, he also hears it,
+>
+> the half- trod log- trails on the high moor,
+>
+> humidity, much.
 
 The complete voice-over, which you will probably notice right away, comes from fragments from films by the Soviet director Andréi Tarkovsky ("Mirror, Stalker" and "Sacrifice"). All elements OEMA picked are about shaping time within a dead world.
 

@@ -5,15 +5,10 @@ typeName: Review
 title: '"Nuit Ensemble"'
 subTitle: Das neue Album von Perry Frank
 seoTitle: Neues Post-Rock/Ambient Album von Perry Frank – "Nuit Ensemble"
-description: '"Nuit Ensemble" ist das ziemlich genial Post-Rock/Ambient Album
-  von Perry Frank. Hört es Euch jetzt an und lest die Review!'
-excerpt: Vor einigen Wochen veröffentlichte Perry Frank sein neues Album. Mit
-  "Nuit Ensemble" beschreitet er neue Wege und mischt seine fabelhaften
-  Ambient-Sounds mit klassischen Elementen aus dem Post-Rock-Genre. Das Album
-  ist also auch etwas für Euch, wenn Ihr Euch in dieser Musikrichtung noch mehr
-  zu Hause fühlt.
+description: '"Nuit Ensemble" ist das ziemlich genial Post-Rock/Ambient Album von Perry Frank. Hört es Euch jetzt an und lest die Review!'
+excerpt: Vor einigen Wochen veröffentlichte Perry Frank sein neues Album. Mit "Nuit Ensemble" beschreitet er neue Wege und mischt seine fabelhaften Ambient-Sounds mit klassischen Elementen aus dem Post-Rock-Genre. Das Album ist also auch etwas für Euch, wenn Ihr Euch in dieser Musikrichtung noch mehr zu Hause fühlt.
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-07/perry-frank-nuit-ensemble-jpg-imagine-086888_315463_1024_768/640.webp
-copyrigt: Perry Frank
+copyright: Perry Frank
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-07/perry-frank-nuit-ensemble-og-jpg-imagine-281818_334f5c_1200_628/640.webp
 labels:
   - Korg Volca Keys
@@ -35,6 +30,7 @@ affiliate: false
 language: de
 languageLink: /2022/12/perry-frank-nuit-ensemble-en/
 ---
+
 **Vor einigen Wochen veröffentlichte Perry Frank sein neues Album. Mit "Nuit Ensemble" beschreitet er neue Wege und mischt seine fabelhaften Ambient-Sounds mit klassischen Elementen aus dem Post-Rock-Genre. Das Album ist also auch etwas für Euch, wenn Ihr Euch in dieser Musikrichtung noch mehr zu Hause fühlt.**
 
 "Nuit Ensemble" ("Nacht-Ensemble") ist Perrys erstes Soloalbum seit 2020. Er schrieb die Stücke Anfang 2022 im Homeland Studio in Iglesias, Sardinien – mit Ausnahme von "Nuit", das er als Single und Teil seiner "Sleep Cycle II" Compilation schon mal veröffentlichte. Das Ergebnis ist eine Auswahl von acht bisher unveröffentlichten Tracks und zwei völlig neuen, die sich zwischen Ambient und Post-Rock bewegen.

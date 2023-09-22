@@ -5,12 +5,9 @@ typeName: Beitrag
 title: Vegane und nachhaltige Schönheit
 subTitle: Beauty-Produkte ohne Tierleid
 seoTitle: Vegane und nachhaltige Schönheit – Beauty-Produkte ohne Tierleid
-description: Vegane und nachhaltige Schönheitsprodukte sind im Trend. Immer mehr
-  Menschen besinnen sich darauf, nicht nur bei ihrer Ernährung und Bekleidung
-  auf Nachhaltigkeit zu achten und Tierleid-freie Produkte zu kaufen, sondern
-  auch bei Kosmetik.
+description: Vegane und nachhaltige Schönheitsprodukte sind im Trend. Immer mehr Menschen besinnen sich darauf, nicht nur bei ihrer Ernährung und Bekleidung auf Nachhaltigkeit zu achten und Tierleid-freie Produkte zu kaufen, sondern auch bei Kosmetik.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/douglas-clean-beauty-jpg-imagine-e8c8b8_967263_1024_768/640.webp
-copyrigt: Douglas/Clean Beauty
+copyright: Douglas/Clean Beauty
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/douglas-clean-beauty-fb-jpg-imagine-e8c8a8_ac8a79_1200_628/640.webp
 labels:
   - Nachhaltige Schönheit
@@ -34,15 +31,15 @@ So gibt es jetzt zum Beispiel auch beim wohl größten bei uns bekannten Beauty-
 
 Was vor Kurzem noch ein Traum war, ist inzwischen Realität geworden: Produkte, die man vor ein paar Jahren noch im Reformhaus oder im Bioladen suchen oder sogar erst bestellen musste, gehören heute zum festen Sortiment großer Drogeriemärkte.
 
-Das Gute daran ist: Auch Menschen, die früher nicht darauf geachtet haben, ob ein Produkt umweltverträglich ist und keine tierischen Inhaltsstoffe drin stecken oder sogar Tierversuche gemacht werden, bevor etwas in den Verkauf kommt,  kommen jetzt mit dem Thema in Berührung. Und worüber sollte das besser funktionieren, als direkt über die Produkte, die sie in den Regalen ihrer Lieblings-Beauty-Boutique finden?
+Das Gute daran ist: Auch Menschen, die früher nicht darauf geachtet haben, ob ein Produkt umweltverträglich ist und keine tierischen Inhaltsstoffe drin stecken oder sogar Tierversuche gemacht werden, bevor etwas in den Verkauf kommt, kommen jetzt mit dem Thema in Berührung. Und worüber sollte das besser funktionieren, als direkt über die Produkte, die sie in den Regalen ihrer Lieblings-Beauty-Boutique finden?
 
 ## Wir beschäftigen uns heute mehr damit, was in unserer Kosmetik steckt
 
-![Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas/Clean Beauty](https://storage.googleapis.com/cardamonchai-media/2021-11-20/douglas-clean-beauty-1-jpg-imagine-f8f8f8_9d7b6f_1024_768/640.webp "Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas/Clean Beauty")
+![Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas/Clean Beauty](https://storage.googleapis.com/cardamonchai-media/2021-11-20/douglas-clean-beauty-1-jpg-imagine-f8f8f8_9d7b6f_1024_768/640.webp 'Nachhaltige Schönheits-Produkte sind im Kommen. Bild: © Douglas/Clean Beauty')
 
 Denn mal ganz ehrlich: Wer möchte schon, dass ein Tier dafür leidet, dass ich eine Bodylotion oder eine Mascara verwenden kann? Niemand. Viele Menschen hatten die Problematik jedoch lange Jahre nicht auf dem Schirm. Wenn man sich nicht damit beschäftigt, kommt man natürlich auch erstmal nicht auf die Idee, die Dinge zu hinterfragen. Wenn man allerdings durch Hinweise wie "Cruelty Free", "Nicht an Tieren getestet" oder "Reine Naturkosmetik" angesprochen wird, ist die Wahrscheinlichkeit groß, dass man sich weiter informiert und in Zukunft mehr darauf achtet, was man in seinen Warenkorb packt.
 
-Es ist eine Sache, sich eine formschöne Sprühdose zu kaufen ohne zu hinterfragen, was wirklich in dem Produkt steckt. Fängt man jedoch an, sich mit dem Thema zu beschäftigen, stellt man sich schnell Fragen wie ["Was steckt eigentlich alles in meiner Gesichtscreme?"](https://www.douglas.de/de/c/clean-beauty/gesicht/1104). 
+Es ist eine Sache, sich eine formschöne Sprühdose zu kaufen ohne zu hinterfragen, was wirklich in dem Produkt steckt. Fängt man jedoch an, sich mit dem Thema zu beschäftigen, stellt man sich schnell Fragen wie ["Was steckt eigentlich alles in meiner Gesichtscreme?"](https://www.douglas.de/de/c/clean-beauty/gesicht/1104).
 
 Wenn man einmal mitbekommen hat, was passieren kann, [wenn Mikroplastik ins Trinkwasser oder ins Meer gerät](/2018/05/mikroplastik-in-der-kosmetik/) oder vom sinnlosen Leid der Tiere in Versuchen weiß, geht aufmerksamer durchs Leben und kauft überlegter ein. Das freut nicht nur die Tiere, sondern auch die Hersteller von [veganer, Bio-, und Naturkosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/). Deren Absatz ist in den letzten Jahren sichtbar gestiegen.
 

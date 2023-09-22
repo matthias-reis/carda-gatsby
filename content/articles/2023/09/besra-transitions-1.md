@@ -5,14 +5,10 @@ typeName: Review
 title: Besra – "Transitions"
 subTitle: '"Change is often painful"'
 seoTitle: Besra – "Transitions" – Post-Metal Review
-description: The upcoming new Besra album, "Transitions" was definitely worth
-  the wait! Read my review now and please enjoy the pre-released first song,
-  "Prison without Locks"!
-excerpt: After their debut album "Anhedonia" in 2018, post-metallers Besra
-  released several EPs and singles. With "Transitions", they're finally about to
-  deliver their second album, and (spoiler alert) It was worth the wait!
+description: The upcoming new Besra album, "Transitions" was definitely worth the wait! Read my review now and please enjoy the pre-released first song, "Prison without Locks"!
+excerpt: After their debut album "Anhedonia" in 2018, post-metallers Besra released several EPs and singles. With "Transitions", they're finally about to deliver their second album, and (spoiler alert) It was worth the wait!
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-12/besra-aleks-talve-jpg-imagine-080808_5f4339_1024_768/640.webp
-copyrigt: Aleks Talve
+copyright: Aleks Talve
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-12/besra-aleks-talve-og-jpg-imagine-080808_5b382e_1200_628/640.webp
 labels:
   - Besra
@@ -31,6 +27,7 @@ affiliate: false
 language: en
 languageLink: /2023/09/besra-transitions/
 ---
+
 **After their debut album "Anhedonia" in 2018, post-metallers Besra released several EPs and singles. With "Transitions", they're finally about to deliver their second album, and (spoiler alert) It was worth the wait!**
 
 "Sentinels" is the first song on the upcoming Besra LP. The emotional shouting immediately draws me in, and I feel the urge to listen to all six tracks without a break. Peaceful and all by myself—with the speakers turned up. I'm sure the song is also a great live piece, by the way! So if you get the chance to listen to it in a venue near you— don't miss it!
@@ -51,11 +48,11 @@ With "Prison Without Locks", the record finally picks up speed. Quiet and though
 
 > "My heart is like an open book. You can read it if you want. Many tells are left untold even though the story ended."
 
-Even if the lyrics here suggest harshness, the piece lives from its playfulness and fragility. Hannes' singing builds the perfect contrast, gently supported by keyboardist Mika Mäkilaakso in the background. In the last third of the track, we *do* get a proper shouting—paired with the sound of all three guitars; it offers us a multi-layered and progressive overall picture of the prison without locks.
+Even if the lyrics here suggest harshness, the piece lives from its playfulness and fragility. Hannes' singing builds the perfect contrast, gently supported by keyboardist Mika Mäkilaakso in the background. In the last third of the track, we _do_ get a proper shouting—paired with the sound of all three guitars; it offers us a multi-layered and progressive overall picture of the prison without locks.
 
 "Landscapes" is the name of the initially gossamer, then post-metallic and gloomy answer to the filigree third piece on the record. Like its predecessors, it surprises with stylish interludes and changes between Besra's music's angry and vulnerable sides.
 
-![Besra – "Transitions"](https://storage.googleapis.com/cardamonchai-media/2023-09-12/besra-transitions-jpeg-imagine-181818_6f4848_425_425/640.webp "Besra – \"Transitions\"")
+![Besra – "Transitions"](https://storage.googleapis.com/cardamonchai-media/2023-09-12/besra-transitions-jpeg-imagine-181818_6f4848_425_425/640.webp 'Besra – "Transitions"')
 
 The brave people who survive changes often arrive on the other side with a different outlook. And that's precisely what the song "Valor" sounds like. The rapids and stones of upheaval grow into the rock in the surf that brings new perspectives. Melodically, the piece is a pleasant highlight before the big finale, "Cries and Lamentations".
 

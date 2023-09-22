@@ -5,15 +5,10 @@ typeName: Review
 title: '"The Shape of Everything"'
 subTitle: The New SOM Album
 seoTitle: SOM – "The Shape of Everything" – Post-Rock Review
-description: '"The Shape Of Everything" is a big album – consisting of eight
-  tracks. With just 34 minutes in total, SOM managed to build a palpable
-  dramaturgy that speaks of the world in our time.'
-excerpt: 'SOM singer and guitarist Will Benoit woke up one night to find an
-  email from guitarist Joel Reynolds in his inbox. Attached was an mp3 called
-  "Animals". It was one of the defining moments in the emergence of the glorious
-  new album "The Shape Of Everything '
+description: '"The Shape Of Everything" is a big album – consisting of eight tracks. With just 34 minutes in total, SOM managed to build a palpable dramaturgy that speaks of the world in our time.'
+excerpt: 'SOM singer and guitarist Will Benoit woke up one night to find an email from guitarist Joel Reynolds in his inbox. Attached was an mp3 called "Animals". It was one of the defining moments in the emergence of the glorious new album "The Shape Of Everything '
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-11/som-the-shape-of-everything-jpg-imagine-181818_2f2f36_1024_768/640.webp
-copyrigt: SOM
+copyright: SOM
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-11/som-the-shape-of-everything-fb-png-imagine-181818_2f2f35_1200_628/640.webp
 labels:
   - SOM
@@ -30,6 +25,7 @@ affiliate: false
 language: en
 languageLink: /2022/01/som-the-shape-of-everything/
 ---
+
 **SOM singer and guitarist Will Benoit woke up one night to find an email from guitarist Joel Reynolds in his inbox. Attached was an mp3 called "Animals". It was one of the defining moments in the emergence of the glorious new album "The Shape Of Everything "**.
 
 Because Joel had sent his message between three and four in the morning, Will knew immediately that it had to be something special. His bandmate certainly wouldn't have been up all night otherwise. Joel was living in Richmond at the time, and it was just the time of the George Floyd/Black Lives Matter protests. The musician was at the forefront the whole time, seeing statues being torn down and witnessing the cultural shifts. He later told the rest of the band how inspiring it was. About the demo tape, Will reports:
@@ -40,7 +36,7 @@ Because Joel had sent his message between three and four in the morning, Will kn
 
 ## "The Shape Of Everything" is a great album.
 
-![SOM - "The Shape Of Everything" artwork (round geometric pattern on an emerald green background)](https://storage.googleapis.com/cardamonchai-media/2022-01-11/som-the-shape-of-everything-jpeg-imagine-182828_44675f_1500_1500/640.webp "SOM - \"The Shape Of Everything\"")
+![SOM - "The Shape Of Everything" artwork (round geometric pattern on an emerald green background)](https://storage.googleapis.com/cardamonchai-media/2022-01-11/som-the-shape-of-everything-jpeg-imagine-182828_44675f_1500_1500/640.webp 'SOM - "The Shape Of Everything"')
 
 "The Shape Of Everything" is a big album – consisting of eight tracks. With just 34 minutes in total, SOM managed to build a palpable dramaturgy that speaks of the world in our time.
 
@@ -50,8 +46,7 @@ Brutal riffs meet heartbreaking lyrics that go deep. Atmospheric sequences repla
 
 # Heaviness, gloom and hope
 
-The record is the band's second complete studio album. SOM are about to release it on January 21st –  just in time for the originally planned extensive tour through Europe tour together with Katatonia and
-Sólstafir.
+The record is the band's second complete studio album. SOM are about to release it on January 21st – just in time for the originally planned extensive tour through Europe tour together with Katatonia and Sólstafir.
 
 Their work sounds round and raw at the same time – dark, emotional, and with a slight touch of romantic melancholy. When recording "The Shape of Everything", the band aimed to express heaviness and gloom and hope – and they did it!
 

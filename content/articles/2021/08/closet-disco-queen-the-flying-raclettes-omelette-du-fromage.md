@@ -5,15 +5,11 @@ typeName: Review
 title: '"Omelette du Fromage"'
 subTitle: Ein spektakuläres Album von Closet Disco Queen & The Flying Raclettes
 seoTitle: Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"
-ogTitle: ""
-description: Am 3. September erscheint ein Album, auf das Ihr Euch freuen könnt.
-  Bei The Flying Raclettes handelt es sich um die Erweiterung des
-  Instrumental-Duos Closet Disco Queen von Luc Hess und Jona Nido, die ihr
-  vermutlich schon von The Ocean, Coilguns, Louis Jucker und anderen Projekten
-  kennt.
-excerpt: ""
+ogTitle: ''
+description: Am 3. September erscheint ein Album, auf das Ihr Euch freuen könnt. Bei The Flying Raclettes handelt es sich um die Erweiterung des Instrumental-Duos Closet Disco Queen von Luc Hess und Jona Nido, die ihr vermutlich schon von The Ocean, Coilguns, Louis Jucker und anderen Projekten kennt.
+excerpt: ''
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-02-closet-disco-queen-flying-raclettes-3-jpeg-imagine-080808_3a3a3a_1440_960/640.webp
-copyrigt: Closet Disco Queen & The Flying Raclettes
+copyright: Closet Disco Queen & The Flying Raclettes
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/closet-disco-queen-the-flying-raclettes-omelette-du-fromage-fb-jpg-imagine-080808_000000_1200_628/640.webp
 labels:
   - 70srock
@@ -57,7 +53,7 @@ Ein besonderes Highlight auf ihrem Weg düfte wohl der Auftritt auf dem Desert F
 
 ## "Omelette du Fromage" ist eine Hommage an "Dexter's Laboratory"
 
-![Closet Disco Queen & The Flying Raclettes](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-02-closet-disco-queen-flying-raclettes-5-jpeg-imagine-080808_313131_1440_2160/640.webp "Closet Disco Queen & The Flying Raclettes")
+![Closet Disco Queen & The Flying Raclettes](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-02-closet-disco-queen-flying-raclettes-5-jpeg-imagine-080808_313131_1440_2160/640.webp 'Closet Disco Queen & The Flying Raclettes')
 
 Das gemeinsame Album trägt den würzigen Titel "Omelette du Fromage". Es erscheint auf Jona Nidos Plattenlabel Hummus Records. Der Albumtitel soll eine direkte Hommage an die Episode "The Big Cheese" der Cartoon Network-Zeichentrickserie "Dexter's Laboratory" von 1996 sein.
 
@@ -65,15 +61,15 @@ In der Folge hält Dexter öffentliche Reden und wird schließlich durch die Wor
 
 ## Ein starkes Stück Musik
 
-Ob Closet Disco Queen & The Flying Raclettes ebenso zwielichtig sind, wie Dexter in der Big Cheese Episode, sollen die Fans selbst entscheiden. 
+Ob Closet Disco Queen & The Flying Raclettes ebenso zwielichtig sind, wie Dexter in der Big Cheese Episode, sollen die Fans selbst entscheiden.
 
 Ich hatte schon die Möglichkeit, es komplett zu hören und bin mir ziemlich sicher, dass das nicht der Fall ist. Die Platte ist alles in allem ein bunter Strauß großartiger verspielter Musik, die alle Schubladen sprengt.
 
-Der zusätzliche Bass und die weitere Gitarre haben den Sound im Vergleich zum letzten, auch schon extrem spannenden Album noch vielschichtiger gemacht. 
+Der zusätzliche Bass und die weitere Gitarre haben den Sound im Vergleich zum letzten, auch schon extrem spannenden Album noch vielschichtiger gemacht.
 
 ## Progressive Elemente und Punk-Attitüde
 
-![Closet Disco Queen & The Flying Raclettes](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-02-closet-disco-queen-flying-raclettes-2-jpeg-imagine-080808_3e3e3e_1440_960/640.webp "Closet Disco Queen & The Flying Raclettes")
+![Closet Disco Queen & The Flying Raclettes](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-02-closet-disco-queen-flying-raclettes-2-jpeg-imagine-080808_3e3e3e_1440_960/640.webp 'Closet Disco Queen & The Flying Raclettes')
 
 Die Band verbindet Elemente aus der progressiven Psych- und Stoner-Welt mit rumpeliger Punk-Attitüde und schier unerschöpflicher Energie, die wir von Gruppen wie The Mars Volta, Goat oder The Hives so lieben.
 
@@ -87,4 +83,12 @@ Geschrieben, aufgenommen und abgemischt haben die vier ihr Album in nur zwei Woc
 
 ## Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1670918056/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://closetdiscoqueen.bandcamp.com/album/omelette-du-fromage">Omelette du Fromage by Closet Disco Queen &amp; The Flying Raclettes</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=1670918056/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://closetdiscoqueen.bandcamp.com/album/omelette-du-fromage">
+    Omelette du Fromage by Closet Disco Queen &amp; The Flying Raclettes
+  </a>
+</iframe>

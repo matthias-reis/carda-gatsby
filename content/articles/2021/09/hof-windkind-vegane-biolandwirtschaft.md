@@ -5,11 +5,9 @@ typeName: Produkttest
 title: Hof Windkind
 subTitle: So betreibt Ihr als Bodenpat⋆innen selbst aktiv Biolandwirtschaft
 seoTitle: Mit Hof Windkind als Bodenpat*in selbst aktiv Biolandwirtschaft betreiben
-description: Mit Hof Windkind verbindet mich inzwischen schon eine langjährige
-  Freundschaft. Das Gründerpaar Silvia und David baut dort bio-vegane Nüsse an,
-  aus denen sie unter anderem hochwertiges Walnussöl herstellen.
+description: Mit Hof Windkind verbindet mich inzwischen schon eine langjährige Freundschaft. Das Gründerpaar Silvia und David baut dort bio-vegane Nüsse an, aus denen sie unter anderem hochwertiges Walnussöl herstellen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-09-22-hof-windkind-walnussoel-3-jpg-imagine-080808_584739_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/hof-windkind-bio-vegane-landwirtschaft-fb-png-imagine-080808_5b4b3f_1200_628/640.webp
 labels:
   - Ernährung & Gesundheit
@@ -72,9 +70,9 @@ Die Patenschaft dauert jeweils ein Jahr. Ob Ihr im nächsten Jahr wieder eine ü
 
 ## Auch Baumpatenschaften sind möglich
 
-Neben den Bodenpatenschaften könnt Ihr bei Hof Windkind auch Baumpatenschaften übernehmen. Ihr adoptiert dann einen Walnuss- oder Haselnussbaum und bekommt die Ernte praktisch in einem Karton verpackt portofrei nach Hause. Solange Euer Baum noch keine Früchte trägt, bekommt Ihr die Nüsse von anderen Windkind Bäumen. Bei der Baumpatenschaft könnt Ihr Euch entscheiden, ob Ihr sie erstmal nur für ein Jahr oder gleich für drei Jahre übernehmen möchtet. 
+Neben den Bodenpatenschaften könnt Ihr bei Hof Windkind auch Baumpatenschaften übernehmen. Ihr adoptiert dann einen Walnuss- oder Haselnussbaum und bekommt die Ernte praktisch in einem Karton verpackt portofrei nach Hause. Solange Euer Baum noch keine Früchte trägt, bekommt Ihr die Nüsse von anderen Windkind Bäumen. Bei der Baumpatenschaft könnt Ihr Euch entscheiden, ob Ihr sie erstmal nur für ein Jahr oder gleich für drei Jahre übernehmen möchtet.
 
-Je mehr Bäume Pat⋆innen haben, desto mehr davon können Silvia und David pflanzen. Das sorgt auch dafür, dass mehr Landschaft renaturiert werden kann. Das Hofgelände soll Tieren und Pflanzen einen Rückzugsort und Lebensraum bieten. Vor Ort leben zahlreiche Insekten, Vögel, Kröten, Eidechsen und andere Tiere. Die Windkinder sichten fast täglich neue tierische Mitbewohner. 
+Je mehr Bäume Pat⋆innen haben, desto mehr davon können Silvia und David pflanzen. Das sorgt auch dafür, dass mehr Landschaft renaturiert werden kann. Das Hofgelände soll Tieren und Pflanzen einen Rückzugsort und Lebensraum bieten. Vor Ort leben zahlreiche Insekten, Vögel, Kröten, Eidechsen und andere Tiere. Die Windkinder sichten fast täglich neue tierische Mitbewohner.
 
 Um das natürliche Gleichgewicht herzustellen, verzichten Silvia und David nicht nur auf tierischen Mist, Mineraldünger, Schlachtabfälle und andere Gifte zur Düngung und Pflege ihrer Bäume. Sie fördern auch die Arten-Vielfalt, indem sie Vogelhäuser aufhängen, Wildblumen aussähen und Holzhaufen anlegen, die den Tieren als nützliche Verstecke dienen. Je mehr Platz sie dafür haben, umso besser.
 
@@ -82,7 +80,7 @@ Um das natürliche Gleichgewicht herzustellen, verzichten Silvia und David nicht
 
 Bio-vegane Landwirtschaft im Einklang mit der Natur also. David freut sich, der Umwelt auf diesem Weg etwas zurückzugeben:
 
-> "Die besten Erzeugnisse entstehen im Einklang mit der Natur. Auf dieser Überzeugung fusst unsere Philosophie. Mit vielfältigen Begrünungen zwischen den  Bäumen, Blühstreifen, Hecken, Sträuchern sowie Unterschlupf-Möglichkeiten für eine vielfältige Fauna inmitten oder an den Rändern unserer Haine fördern wir gezielt die Biodiversität."
+> "Die besten Erzeugnisse entstehen im Einklang mit der Natur. Auf dieser Überzeugung fusst unsere Philosophie. Mit vielfältigen Begrünungen zwischen den Bäumen, Blühstreifen, Hecken, Sträuchern sowie Unterschlupf-Möglichkeiten für eine vielfältige Fauna inmitten oder an den Rändern unserer Haine fördern wir gezielt die Biodiversität."
 
 Hof Windkind soll nach und nach ein Klima-positives Unternehmen werden. Darum stecken David und Silvia auch einen Teil ihrer Erlöse in öko-soziale Projekte, die bei der Einsparung von CO<sub>2</sub> helfen und Menschen unterstützen. Dafür arbeiten sie unter anderem mit dem Naturfreunde Klimafonds zusammen.
 

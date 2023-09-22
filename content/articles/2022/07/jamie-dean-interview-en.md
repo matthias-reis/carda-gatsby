@@ -4,16 +4,11 @@ slug: jamie-dean-interview-en
 typeName: Interview
 title: God Is An Astronaut Member Jamie Dean about his Solo Project
 subTitle: '"There are now Sharks on the Internet"'
-seoTitle: "Post-Rock Interview: God Is An Astronaut Member Jamie Dean"
-description: I interviewed God Is An Astronaut member Jamie Dean about his new
-  solo piece "Mutualism", the ongoing tour and mutualistic relationships.
-excerpt: I mentioned God Is An Astronaut member Jamie Dean's new solo piece in
-  my June playlist some days ago. After he shared my social media posts about
-  it, I asked him for an interview. I am very proud to present it to you today,
-  and I hope you enjoy it. I enjoyed talking to him very much, and I think the
-  outcome is quite exciting.
+seoTitle: 'Post-Rock Interview: God Is An Astronaut Member Jamie Dean'
+description: I interviewed God Is An Astronaut member Jamie Dean about his new solo piece "Mutualism", the ongoing tour and mutualistic relationships.
+excerpt: I mentioned God Is An Astronaut member Jamie Dean's new solo piece in my June playlist some days ago. After he shared my social media posts about it, I asked him for an interview. I am very proud to present it to you today, and I hope you enjoy it. I enjoyed talking to him very much, and I think the outcome is quite exciting.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-2-jpeg-imagine-181818_494949_1440_1440/640.webp
-copyrigt: Jamie Dean
+copyright: Jamie Dean
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-interview-fb-jpeg-imagine-181818_404c4e_1200_628/640.webp
 labels:
   - God Is An Astronaut
@@ -32,6 +27,7 @@ affiliate: false
 language: en
 languageLink: /2022/07/jamie-dean-interview/
 ---
+
 **I mentioned God Is An Astronaut member Jamie Dean's new solo piece in my June playlist some days ago. After he shared my social media posts about it, I asked him for an interview. I am very proud to present it to you today, and I hope you enjoy it. I enjoyed talking to him very much, and I think the outcome is quite exciting.**
 
 **Anne:** Hi Jamie! Thank you very much for taking the time for this interview! It's an honour and a pleasure to get to know you! How are you doing today? Where are you staying at the moment?
@@ -44,13 +40,13 @@ I am doing well. Thank you. I'm currently on tour with the band, and we headline
 
 ## "Marine life is fascinating"
 
-![Jamie Dean](https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-1-jpeg-imagine-181818_2f2f2f_1440_1440/640.webp "Jamie Dean")
+![Jamie Dean](https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-1-jpeg-imagine-181818_2f2f2f_1440_1440/640.webp 'Jamie Dean')
 
 **Jamie:** Thank you! Mutualism can be defined as "a symbiosis which is beneficial to both organisms involved." In an ideal world, every relationship would be mutually beneficial. But, of course, relationships can be mutually destructive too!
 
 **Anne:** There are different forms of mutualism in nature. For example, the red-billed oxpecker lives in a cleaning symbiosis with the impala. It's a relationship that we also know from sharks and cleaner fishes, clown fishes who protect sea anemones, leafcutter ants who take care of their mushrooms and so on. Do you think we can learn from these fascinating creatures?
 
-**Jamie:** I do! I find it fascinating, actually – especially the marine life you mentioned. It's the one area that humans haven't completely changed, and yet there still exists highly complex marine ecosystems. 
+**Jamie:** I do! I find it fascinating, actually – especially the marine life you mentioned. It's the one area that humans haven't completely changed, and yet there still exists highly complex marine ecosystems.
 
 The best part is – there is no internet! I've never seen a shark on Instagram, have you?
 
@@ -70,9 +66,9 @@ In it, two sick people are literally tearing each other apart. Although there is
 
 ## "I played all the instruments for 'mutualism' myself"
 
-**Jamie:** Thank you! Yeah, I either played the instruments or programmed them electronically. There are a number of cool instruments that I used. I wrote the main sections on an electric piano and sculptured the rest of the track around that. I sent the electric piano through my guitar fx board, and into the orange amp to create weird distortions that give it an additional sense of teeth and punch. 
+**Jamie:** Thank you! Yeah, I either played the instruments or programmed them electronically. There are a number of cool instruments that I used. I wrote the main sections on an electric piano and sculptured the rest of the track around that. I sent the electric piano through my guitar fx board, and into the orange amp to create weird distortions that give it an additional sense of teeth and punch.
 
-I also used some analogue synthesizers to give it that big bottom end. The Sequential OB6 and the Roland Jupiter 6 were both used. I'm really happy with the synth bass. It's melodic, but it's also punchy and rhythmic. 
+I also used some analogue synthesizers to give it that big bottom end. The Sequential OB6 and the Roland Jupiter 6 were both used. I'm really happy with the synth bass. It's melodic, but it's also punchy and rhythmic.
 
 I spent a lot of time creating dark, textural stuff too. I mostly used the Doepfer semi-modular for this. I spent a long time creating weird tones using whatever strange guitar pedals I could find. It's a great way to set a tone, and it really helps shape a composition the right way.
 
@@ -80,7 +76,7 @@ The main hook in the chorus is my voice sent into the Roland 201 Space Echo, whi
 
 In terms of the rhythmic end, I combined some twisted samples I found online with the Pulsar-23, which is a really cool semi-modular drum machine I bought recently. It has such an interesting sound, and you can create all sorts of mad stuff with it. It's great!
 
-I'm a bit obsessed with finding new instruments and working out how to play them. So, I recently bought a harmonium and a handpan, which I intend to use on the next track! 
+I'm a bit obsessed with finding new instruments and working out how to play them. So, I recently bought a harmonium and a handpan, which I intend to use on the next track!
 
 **Anne:** That sounds fascinating! And I am definitely curious about your next song! What led to your fascination for music? Did you grow up in a musical environment? Did you always want to make music?
 
@@ -98,7 +94,7 @@ When I was in my teens, I abandoned the piano and focused mainly on the guitar b
 
 **Anne:** If there was one thing you could change or fix to improve the coexistence of humans and animals on this planet. What would it be?
 
-**Jamie:** It's difficult to say. We still have a long way to go in terms of improving how we coexist with other humans! We can learn a lot from animals. Especially dogs! 
+**Jamie:** It's difficult to say. We still have a long way to go in terms of improving how we coexist with other humans! We can learn a lot from animals. Especially dogs!
 
 ## "I want to continue writing"
 
@@ -106,7 +102,7 @@ When I was in my teens, I abandoned the piano and focused mainly on the guitar b
 
 **Anne:** What are your plans for the future? Are there more tracks coming up? A solo album? A tour?
 
-**Jamie:**  For now, the plan is to continue writing. I'm focusing mainly on the Spotify audience for the moment, but if there is enough interest, I would love to take the project on the road and tour it live!
+**Jamie:** For now, the plan is to continue writing. I'm focusing mainly on the Spotify audience for the moment, but if there is enough interest, I would love to take the project on the road and tour it live!
 
 I'm also working on a new God Is An Astronaut record with the guys, and we have quite a hectic touring schedule this year. It's fantastic to be back performing live again! We all really missed it.
 
@@ -114,13 +110,13 @@ I'm also working on a new God Is An Astronaut record with the guys, and we have 
 
 **Jamie:** You can find me on Instagram[^1], and on Spotify[^2] or wherever you usually stream music[^3]. The "Mutualism" music video is available on YouTube on the God Is An Astronaut channel (You can also find it below this interview)!
 
-**Anne:** One more question in addition. Sorry, I needed to ask this. Sadly, you had to postpone your God Is An Astronaut tour gigs from 2020 so often due to Corona. This must have been very stressful for you, and I feel deeply sorry for all the artists who had to endure this. I heard that the gigs now have been added to your ongoing tour. So, the gig in Hamburg, e.g., I have tickets for, is planned for September 9th. Am I right? I am so looking forward to this. 
+**Anne:** One more question in addition. Sorry, I needed to ask this. Sadly, you had to postpone your God Is An Astronaut tour gigs from 2020 so often due to Corona. This must have been very stressful for you, and I feel deeply sorry for all the artists who had to endure this. I heard that the gigs now have been added to your ongoing tour. So, the gig in Hamburg, e.g., I have tickets for, is planned for September 9th. Am I right? I am so looking forward to this.
 
 **Jamie:** Yeah, the whole situation was extremely frustrating. We kept having to postpone shows, but luckily, the fans were extremely patient, and now we get to make up for the lost time! We are focusing all our combined energy on ensuring the live shows have been worth the wait.
 
 The response so far has been outstanding. You can find the full list of our tour dates on Bands in Town[^4]!
 
-**Anne:** Thank you so much for answering my questions, Jamie! It was a pleasure. 
+**Anne:** Thank you so much for answering my questions, Jamie! It was a pleasure.
 
 **Jamie:** Thank you, Anne. I appreciate it a lot. Catch you at the show in September!
 

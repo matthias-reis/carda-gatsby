@@ -5,12 +5,9 @@ typeName: Interview
 title: Home Brewed Universe
 subTitle: '"Fear Of An Obtuse Earth"'
 seoTitle: Home Brewed Universe – "Fear Of An Obtuse Earth"
-description: On January 25th Arka Sengupta aka Home Brewed Universe will release
-  his fifth album "Fear of an obtuse Earth". While we are waiting for our
-  pre-orders, it's time for an interview with the creative multi-instrumentalist
-  from India.
+description: On January 25th Arka Sengupta aka Home Brewed Universe will release his fifth album "Fear of an obtuse Earth". While we are waiting for our pre-orders, it's time for an interview with the creative multi-instrumentalist from India.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-12-home-brewed-1-l-jpeg-imagine-080808_9d9a98_1440_1080/640.webp
-copyrigt: Home Brewed Universe
+copyright: Home Brewed Universe
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-12-home-brewed-fb-png-l-jpg-imagine-d8d8d8_a8a6a3_1440_754/640.webp
 labels:
   - Ambient

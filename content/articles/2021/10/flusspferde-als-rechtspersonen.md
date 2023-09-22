@@ -5,15 +5,10 @@ typeName: Beitrag
 title: US-Gericht erkennt Tiere erstmals als juristische Personen an
 subTitle: Die Flusspferde vom Magdalena River
 seoTitle: US-Gericht erkennt Tiere erstmals als juristische Personen an
-description: Im Rahmen eines laufenden Prozesses in Kolumbien hat ein
-  US-Bezirksgericht die rund 100 Flusspferde am Magdalena River als juristische
-  Personen anerkannt.
-excerpt: Im Rahmen eines laufenden Prozesses in Kolumbien hat ein
-  US-Bezirksgericht die rund 100 Flusspferde, die entlang des Magdalena River
-  leben, als juristische Personen anerkannt. Die Verhandlung geht damit als
-  Meilenstein in die Geschichte ein.
+description: Im Rahmen eines laufenden Prozesses in Kolumbien hat ein US-Bezirksgericht die rund 100 Flusspferde am Magdalena River als juristische Personen anerkannt.
+excerpt: Im Rahmen eines laufenden Prozesses in Kolumbien hat ein US-Bezirksgericht die rund 100 Flusspferde, die entlang des Magdalena River leben, als juristische Personen anerkannt. Die Verhandlung geht damit als Meilenstein in die Geschichte ein.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/flusspferde-jpg-imagine-c8d8d8_7f7a6c_1024_768/640.webp
-copyrigt: |
+copyright: |
   ArtTower, Pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/flusspferde-fb-png-imagine-c8d8d8_767165_1200_628/640.webp
 labels:
@@ -72,9 +67,9 @@ Die Anerkennung von Tieren als Rechtspersonen ist dennoch nicht einzigartig. Imm
 
 ## Tiere haben keine herausragende Rechtsstellung
 
-Der durch das Gesetz neu eingefügte § 90a Bürgerliches Gesetzbuch (BGB[^4]) bestimmt, dass Tiere keine Sachen sind und durch besondere Gesetze geschützt werden. Diese Vorschrift bringt zum Ausdruck, dass Menschen gegenüber Tieren wegen deren Fähigkeit, Schmerz und Leid zu empfinden, zu Schutz und Fürsorge verpflichtet ist. 
+Der durch das Gesetz neu eingefügte § 90a Bürgerliches Gesetzbuch (BGB[^4]) bestimmt, dass Tiere keine Sachen sind und durch besondere Gesetze geschützt werden. Diese Vorschrift bringt zum Ausdruck, dass Menschen gegenüber Tieren wegen deren Fähigkeit, Schmerz und Leid zu empfinden, zu Schutz und Fürsorge verpflichtet ist.
 
-Bei uns haben Tiere somit keine herausragende Rechtsstellung. Es heißt: 
+Bei uns haben Tiere somit keine herausragende Rechtsstellung. Es heißt:
 
 > "Die im Bürgerlichen Recht für Sachen geltenden Vorschriften sind entsprechend auch für Tiere anzuwenden(§ 90a Satz 3 BGB)."
 
@@ -84,7 +79,7 @@ Nach der Einführung des § 90a BGB wurde auch das Zwangsvollstreckungsrecht von
 
 [^1]: [Animal Legal Defense Fund](https://aldf.org/)
 [^2]: [Animal Balance](https://www.animalbalance.org/)
-[^3]: [Bundesgesetzblatt](https://de.wikipedia.org/wiki/Bundesgesetzblatt_(Deutschland))
+[^3]: [Bundesgesetzblatt](<https://de.wikipedia.org/wiki/Bundesgesetzblatt_(Deutschland)>)
 [^4]: [Bürgerliches Gesetzbuch BGB](https://www.gesetze-im-internet.de/bgb/)
 [^5]: [Zivilprozessordnung (ZPO)](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html)
 

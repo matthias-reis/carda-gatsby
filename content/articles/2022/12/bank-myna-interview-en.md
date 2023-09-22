@@ -5,15 +5,10 @@ typeName: Interview
 title: Bank Myna Singer Maud
 subTitle: '"There are exciting times ahead of us!"'
 seoTitle: Interview with Bank Myna singer Maud – Paris post-rock
-description: '"There are exciting times ahead of us!" says Bank Myna singer
-  Maud. Here is why.'
-excerpt: Bank Myna singer Maud texted me to ask me about an interview. That's
-  when I first came in contact with their music. When I listened to their songs,
-  it felt a bit like coming home or arriving at some place I had missed for a
-  long time. Kind of like something that's been apart for quite a while is now
-  whole and put into place again.
+description: '"There are exciting times ahead of us!" says Bank Myna singer Maud. Here is why.'
+excerpt: Bank Myna singer Maud texted me to ask me about an interview. That's when I first came in contact with their music. When I listened to their songs, it felt a bit like coming home or arriving at some place I had missed for a long time. Kind of like something that's been apart for quite a while is now whole and put into place again.
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-jpeg-imagine-080808_111717_1200_919/640.webp
-copyrigt: Bank Myna
+copyright: Bank Myna
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-og-jpg-imagine-080808_101616_1200_628/640.webp
 labels:
   - Bank Myna
@@ -31,23 +26,24 @@ affiliate: false
 language: en
 languageLink: /2022/12/bank-myna-interview/
 ---
+
 **Bank Myna singer Maud texted me to ask me about an interview. That's when I first came in contact with her band's music. When I listened to Bank Myna's songs, it felt a bit like coming home or arriving at some place I had missed for a long time. Kind of like something that's been apart for quite a while is now whole and put into place again.**
 
 The release of the Paris-based project's latest record, "Volaverunt", was quite a success: The haptic version was sold out after just a few days. Bank Myna created a unique universe with their music, in which the world of dark post-rock, drone, sonic experiments, and doom-like incursions come together in a very natural and harmonious way.
 
 Maud's beautiful voice sounds mystical and adds a fairytale-like touch to the droning soundscapes and deep and texture-rich sound of Bank Myna.
 
-**Anne:** Hi, Maud! Thanks so much for inviting me to the world of Bank Myna. I love your music! It is so multifaceted and powerful! 
+**Anne:** Hi, Maud! Thanks so much for inviting me to the world of Bank Myna. I love your music! It is so multifaceted and powerful!
 
 How are you doing today?
 
 ## "We are working on new material"
 
-**Maud:** Thanks for your words! 
+**Maud:** Thanks for your words!
 
 I'm feeling pretty good! We had our last rehearsal of 2022 today with the band, and it was heart-warming. We've had a fierce and full year with the release of our album and many shows. Furthermore, we're finally working on new material with our not-so-new-now drummer, and we have many great things ahead! Thanks for asking!
 
-**Anne:** Your current album is terrific. I enjoy listening to it a lot. You must be delighted with the outcome of your work, are you? 
+**Anne:** Your current album is terrific. I enjoy listening to it a lot. You must be delighted with the outcome of your work, are you?
 
 ![Bank Myna – "Volaverunt"](https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-1-jpeg-imagine-180808_494139_700_700/640.webp "Bank Myna – \\"Volaverunt\\"")
 
@@ -65,11 +61,11 @@ I'm feeling pretty good! We had our last rehearsal of 2022 today with the band, 
 
 ## "Touring with Rook was awesome"
 
-**Maud:** It was pretty grand! We had a couple of shows in France and one in their hometown of Gent. We loved it. When you play several shows with the same band, it creates a sense of belonging. We did not know them very well. I fell in love with their music when I saw them at Dunk!festival in May and offered to organize a few shows in France. We had a couple of Skype calls, and that's all. It was a bit of a leap into the unknown, but it turned out great. They're really remarkable. We loved playing and spending time with them. Plus, they're AMAZING live. 
+**Maud:** It was pretty grand! We had a couple of shows in France and one in their hometown of Gent. We loved it. When you play several shows with the same band, it creates a sense of belonging. We did not know them very well. I fell in love with their music when I saw them at Dunk!festival in May and offered to organize a few shows in France. We had a couple of Skype calls, and that's all. It was a bit of a leap into the unknown, but it turned out great. They're really remarkable. We loved playing and spending time with them. Plus, they're AMAZING live.
 
 **Anne:** Please tell me about the live session you filmed before you started your tour!
 
-**Maud:** One of our labels, Stellar Frequencies, offered us the opportunity to record a live session of one of our tracks. They had already released a few great-looking and sounding videos, so we jumped on the opportunity. We filmed it in an old barn in Haute-Loire (France) which is a meaningful place for us. It's filled with memories. It's large and majestic, draped with old stones—quite mystical. We decided to play "The Open Door" with a brand-new introduction and, of course, with drums. The result is beyond our expectations. You can watch it here: 
+**Maud:** One of our labels, Stellar Frequencies, offered us the opportunity to record a live session of one of our tracks. They had already released a few great-looking and sounding videos, so we jumped on the opportunity. We filmed it in an old barn in Haute-Loire (France) which is a meaningful place for us. It's filled with memories. It's large and majestic, draped with old stones—quite mystical. We decided to play "The Open Door" with a brand-new introduction and, of course, with drums. The result is beyond our expectations. You can watch it here:
 
 <YouTube id="ijNPZmiem0s" />
 
@@ -77,11 +73,11 @@ The label is also preparing a strictly limited lathe-cut vinyl edition, hand-pai
 
 **Anne:** Any other occasions we can see you live on stage these days?
 
-**Maud:** As a matter of fact, yes! Soon! We'll be hitting the stage in Brussels and in Zottegem (near Gent) on the 26th and 27th of January. Again with the mighty ROOK! We're also planning a few gigs in May 2023 in Western France, and that will be it for our "Volaverunt" extended tour! 
+**Maud:** As a matter of fact, yes! Soon! We'll be hitting the stage in Brussels and in Zottegem (near Gent) on the 26th and 27th of January. Again with the mighty ROOK! We're also planning a few gigs in May 2023 in Western France, and that will be it for our "Volaverunt" extended tour!
 
 **Anne:** Did you always want to make doomy and gloomy post-music?
 
-**Maud:** At the beginning, we wanted to be at a crossroads between Sigur Rós, Beach House, and Warpaint, so I wouldn't say that. What we write reflects what we're inspired by at the moment. And it's valid for the three/four of us, since there's no "lead composer" in the group. We write altogether. So, there was never a clear direction pointing towards gloomy music, but that's what influenced us when we recorded "Volaverunt". We were also in a unique and gloomy period as well, with COVID-19 hitting our homes and lives. 
+**Maud:** At the beginning, we wanted to be at a crossroads between Sigur Rós, Beach House, and Warpaint, so I wouldn't say that. What we write reflects what we're inspired by at the moment. And it's valid for the three/four of us, since there's no "lead composer" in the group. We write altogether. So, there was never a clear direction pointing towards gloomy music, but that's what influenced us when we recorded "Volaverunt". We were also in a unique and gloomy period as well, with COVID-19 hitting our homes and lives.
 
 **Anne:** If there was one musician, you could pick to produce some songs with. Who would it be, and why?
 
@@ -103,4 +99,4 @@ The label is also preparing a strictly limited lathe-cut vinyl edition, hand-pai
 
 **Anne:** Thanks so much for answering my questions! Talking to you was an honour!
 
-**Maud:** Thanks a lot. I enjoyed it a lot. Have a lovely holiday season! 
+**Maud:** Thanks a lot. I enjoyed it a lot. Have a lovely holiday season!

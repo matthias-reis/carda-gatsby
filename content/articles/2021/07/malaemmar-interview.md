@@ -7,7 +7,7 @@ subTitle: '"Wir wollen getragen und düster klingen"'
 seoTitle: Interview mit Malämmar – "Wir wollen getragen und düster klingen"
 description: 'Heute habe ich eine große Post-Music Sensation für Euch: Nach der Erwähnung ihres aktuellen Albums "Mazza", das ich zutiefst bewundere und permanent höre, haben sich Malämmar zu einem Interview bereit erklärt! Ich habe mich mit Gründer Xavi Forné (auch bekannt durch Error! Design) unterhalten. '
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-1-jpg-imagine-282828_987967_1024_768/640.webp
-copyrigt: Sergio Albert
+copyright: Sergio Albert
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/mala-mmar-fb-jpg-imagine-282828_8a6a59_1200_628/640.webp
 labels:
   - Malämmar

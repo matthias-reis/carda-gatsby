@@ -5,12 +5,9 @@ typeName: Interview
 title: Kollapse
 subTitle: '"Bei Musik geht es um Emotionen"'
 seoTitle: Kollapse im Interview – "Bei Musik geht es um Emotionen"
-description: Vor ein paar Tagen habe ich Euch das neue Kollapse Album "Sult"
-  empfohlen. Jetzt hatte ich die Gelegenheit, mich mit dem Post-Hardcore Trio
-  aus Dänemark zu unterhalten. Im Interview haben wir auch über die aktuellen
-  Tourpläne der Band gesprochen.
+description: Vor ein paar Tagen habe ich Euch das neue Kollapse Album "Sult" empfohlen. Jetzt hatte ich die Gelegenheit, mich mit dem Post-Hardcore Trio aus Dänemark zu unterhalten. Im Interview haben wir auch über die aktuellen Tourpläne der Band gesprochen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-3-jpg-imagine-484848_000000_1024_768/640.webp
-copyrigt: Kollapse
+copyright: Kollapse
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-fb-1-jpg-imagine-484848_000000_1200_628/640.webp
 labels:
   - Dänemark
@@ -47,7 +44,7 @@ languageLink: /2021/07/kollapse-interview-en/
 
 **Peter L:** Ich bin sehr zufrieden damit. Es war ein wirklich langer Prozess. Nachdem mich die Jungs gefragt hatten, ob ich Teil der neuen Bandkonstellation sein möchte, habe ich viel Zeit damit verbracht, sie kennenzulernen – sowohl musikalisch als auch persönlich. Das Album ist so etwas wie der Höhepunkt von ein paar Jahren Arbeit, in denen wir versucht haben, eine gemeinsame Basis und eine musikalische Grundlage zu finden – und ich denke, wir sind in diesem Prozess sehr weit gekommen.
 
-![Kollapse | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-4-jpg-imagine-080808_000000_1024_768/640.webp "Kollapse")
+![Kollapse | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-4-jpg-imagine-080808_000000_1024_768/640.webp 'Kollapse')
 
 Selbst nachdem wir beschlossen hatten, "jetzt sind wir eine Band" und "jetzt sind wir zu dritt" und tatsächlich mit der Planung der Aufnahmen anfingen, gab es noch Stolpersteine auf dem Weg. Der ganze Weg bis zu diesem Moment war ein bisschen chaotisch – aber es könnte mit dieser Band wahrscheinlich gar nicht anders sein. Ich bin glücklich damit. Ich freue mich, dass wir "Sult" endlich veröffentlicht haben, dass die Platte den Leuten gefällt und dass wir sie zusammen gemacht haben!
 
@@ -55,7 +52,7 @@ Selbst nachdem wir beschlossen hatten, "jetzt sind wir eine Band" und "jetzt sin
 
 **Anne:** Worum geht es auf dem Album? Habt Ihr bei der Aufnahme ein Konzept verfolgt?
 
-**Peter L:** Ich glaube nicht, dass wir beim Schreiben der Songs ein spezielles, durchdachtes Konzept verfolgt haben. Ich denke, aus musikalischer Sicht haben wir einfach versucht, Songs zu schreiben, die uns etwas fühlen lassen – wir wollten mit dem "Hardcore-Format" experimentieren und sehen, wie weit wir uns in dieser Hinsicht treiben lassen. Wir haben aber viel über die Stimmung des Albums und die Themen gesprochen, die es verkörpert. 
+**Peter L:** Ich glaube nicht, dass wir beim Schreiben der Songs ein spezielles, durchdachtes Konzept verfolgt haben. Ich denke, aus musikalischer Sicht haben wir einfach versucht, Songs zu schreiben, die uns etwas fühlen lassen – wir wollten mit dem "Hardcore-Format" experimentieren und sehen, wie weit wir uns in dieser Hinsicht treiben lassen. Wir haben aber viel über die Stimmung des Albums und die Themen gesprochen, die es verkörpert.
 
 Dinge wie Verzweiflung, Angst, Sterblichkeit und Tod nehmen immer einen großen Teil unserer Diskussionen ein. Es sind Themen, die wir selbst interessant finden. Wir haben uns aber nicht hingesetzt und gesagt: "Na gut, lasst uns ein Album über den Tod machen." Ich denke, es hat sich einfach aus der Kombination der Denkweisen von uns dreien ergeben. Textlich gibt es bestimmte Themen, um die sich das Album dreht. Musikalisch geht es auf dem Album aber vor allem um Emotionen – darum, viele unserer Erfahrungen und Emotionen in etwas zu übersetzen, das wir vor anderen Leuten spielen können.
 
@@ -71,7 +68,7 @@ Dinge wie Verzweiflung, Angst, Sterblichkeit und Tod nehmen immer einen großen 
 
 **Thomas:** "Sult" ist fokussiert. "Angst" war ein Sammelsurium aus allem Möglichen und Unmöglichen.
 
-**Peter L:** Ja, was es für mich auszeichnet, ist die Tatsache, dass es gutgetan hat, dieses Album zu schreiben und aufzunehmen und nicht nur zu hören wie das letzte! 
+**Peter L:** Ja, was es für mich auszeichnet, ist die Tatsache, dass es gutgetan hat, dieses Album zu schreiben und aufzunehmen und nicht nur zu hören wie das letzte!
 
 **Anne:** Mir gefällt die düstere Atmosphäre des Albums sehr gut. Es fühlt sich für mich vertraut an, aber es ist auch einzigartig. Was macht es so besonders?
 
@@ -79,19 +76,19 @@ Dinge wie Verzweiflung, Angst, Sterblichkeit und Tod nehmen immer einen großen 
 
 **Peter L:** Das ist eine schwierige Frage. Ich sehe das Album in vielerlei Hinsicht gar nicht als besonders an. Für mich persönlich ist es einzigartig, weil ich diese Songs mit zwei sehr guten Freunden geschrieben habe. Ich bin mir aber auch sehr bewusst, an welchen Stellen die vielen Inspirationen, die ich dazu beigesteuert habe, in den Songs auftauchen. Vielleicht ist es auch genau das, was es dann doch zu etwas Besonderem macht: die Tatsache, dass wir unsere verschiedenen Inspirationen zusammenfließen lassen konnten, ohne uns zu sehr an ein bestimmtes Genre-Format zu halten. Und wir haben auch eine angemessene Zeit mit dem großartigen Produzenten Lucas Illanes, verbracht. Mit ihm haben wir den Sound des Albums ausgefeilt.
 
-Wir haben es "groß" und "bedrohlich" gemacht, ohne dafür vielschichtige Gitarrenspuren zu verwenden. Wir haben uns einfach darauf konzentriert, es präsent klingen zu lassen und viele Akustik im Aufnahmeraum einzufangen. Insgesamt ist dabei ein großer, rauer, geheimnisvoller, "echter" Sound entstanden. Ich denke, das hat dabei geholfen, eine mit den Songs eine Menge Emotionen zu transportieren. Dadurch fühlen sie sich beim Hören sehr nah an. Wir haben versucht, die Tatsache nicht zu verstecken, dass es in unserer Band nur drei Instrumente gibt. Ich glaube, diese Rohheit und Nacktheit, die in dieser Konstellation liegt, hilft dabei sehr. Sie bringt Zerbrechlichkeit und eine Art Co-Abhängigkeit in die Musik und die Band. 
+Wir haben es "groß" und "bedrohlich" gemacht, ohne dafür vielschichtige Gitarrenspuren zu verwenden. Wir haben uns einfach darauf konzentriert, es präsent klingen zu lassen und viele Akustik im Aufnahmeraum einzufangen. Insgesamt ist dabei ein großer, rauer, geheimnisvoller, "echter" Sound entstanden. Ich denke, das hat dabei geholfen, eine mit den Songs eine Menge Emotionen zu transportieren. Dadurch fühlen sie sich beim Hören sehr nah an. Wir haben versucht, die Tatsache nicht zu verstecken, dass es in unserer Band nur drei Instrumente gibt. Ich glaube, diese Rohheit und Nacktheit, die in dieser Konstellation liegt, hilft dabei sehr. Sie bringt Zerbrechlichkeit und eine Art Co-Abhängigkeit in die Musik und die Band.
 
 Einige Kritiker⋆innen haben davon gesprochen, dass die Platte viel von dem erzählt, was gerade auf der Welt passiert. Ich denke, das ist für uns auch etwas Neues, das sie besonders macht. Aber, um das nochmal klar zu sagen: Die Platte handelt nicht von der Pandemie und wir haben sie auch nicht deswegen aufgenommen. Wir haben sie nur zufällig gerade in dem Moment gemacht, als sich die Welt in diesem Ausnahmezustand befand. Ich denke, dass die Platte in irgendeiner Form immer in diesem Licht gesehen werden wird. Wir selbst sehen es nicht so, und wir hatten nicht das Ziel, eine Platte zu machen, die etwas mit Corona zu tun hat. Wir haben die Songs nicht geschrieben, weil die Welt in einem schlechten Zustand ist – wenn überhaupt, COVID den Aufnahmeprozess für uns komplizierter gemacht.
 
 ## "Die Stimmung des Albums spiegelt die Stimmung der Menschen wider"
 
-Ich denke aber, die Stimmung auf dem Album spiegelt die Stimmung vieler Menschen auf der Welt im Moment wider – Verzweiflung, Angst, Furcht, Einsamkeit und so weiter. Und das ist vielleicht auch einer der Gründe, warum es bei den Leuten Resonanz findet. 
+Ich denke aber, die Stimmung auf dem Album spiegelt die Stimmung vieler Menschen auf der Welt im Moment wider – Verzweiflung, Angst, Furcht, Einsamkeit und so weiter. Und das ist vielleicht auch einer der Gründe, warum es bei den Leuten Resonanz findet.
 
 **Thomas:** Ich liebe es, dass Du das Gefühl einer dunklen Atmosphäre als "vertraut" beschreibst. Ich denke, tief im Inneren teilen wir als Menschen viele Kernängste und Befürchtungen. Mir persönlich ist es sehr wichtig, mir selbst treu zu bleiben, egal wie schwerfällig oder prätentiös das auf andere Menschen wirken mag. Wenn sich jemand wirklich mit dem Album verbindet (und ich weiß, dass es nicht für jeden etwas ist), ist das das größte Kompliment, das wir bekommen können. Ich denke, dass wir uns als Band langsam auf etwas zubewegen, das einzigartig für Kollapse ist, und in Zukunft wird sich das noch weiter ausprägen.
 
 **Anne:** Gina Skowz hat ein fantastisches Horror-Artwork für "Sult" gemalt. Es ist so cool! Ich kann mir kein besseres Artwork für dieses Album vorstellen. Seid Ihr mit Ihr befreundet?
 
-![Kollapse – "Sult" Artwork: Gina Skowz](https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-1-jpg-imagine-b88868_8a695b_1080_1080/640.webp "Kollapse – \"Sult\" Artwork: Gina Skowz")
+![Kollapse – "Sult" Artwork: Gina Skowz](https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-1-jpg-imagine-b88868_8a695b_1080_1080/640.webp 'Kollapse – "Sult" Artwork: Gina Skowz')
 
 **Thomas:** Ich bin in den frühen Neunzigern mit Noise-Rock aufgewachsen. Durch das amerikanische Label Amphetamine Reptile Label bin ich auf Gina aufmerksam geworden, da sie irgendwie mit diesen Noise-Rock Fieslingen in Verbindung gebracht wird (lacht). Sie ist eine fantastische Künstlerin.
 
@@ -115,7 +112,7 @@ Wir hatten so viele widersprüchliche Vorstellungen von der Ästhetik und davon,
 
 ## Bei Kollapse fühle ich mich zu Hause"
 
-**Peter L:** Ich fühle mich in dieser Band mittlerweile definitiv zu Hause – ich habe schon in einigen Bands gespielt, und ich spiele auch in einer anderen Band, in der ich mich ebenfalls sehr wohlfühle. 
+**Peter L:** Ich fühle mich in dieser Band mittlerweile definitiv zu Hause – ich habe schon in einigen Bands gespielt, und ich spiele auch in einer anderen Band, in der ich mich ebenfalls sehr wohlfühle.
 
 Als ich zu Kollapse kam, hat es ziemlich schnell Klick gemacht. Ich erinnere mich auch daran, dass ich Peter D mit seiner alten Band Aedra spielen gesehen habe und ziemlich beeindruckt von ihm war. Auch das erste Kollapse Album hat einen sehr guten Eindruck auf mich gemacht. Was sie daraus gemacht haben, hat mich überzeugt. Als Peter D mich gefragt hat, ob ich mitmachen will, war ich gleichzeitig begeistert und erschrocken. Ich bin wirklich froh, dass er es getan hat und dass wir die Band am Leben halten konnten.
 
@@ -127,7 +124,7 @@ Als ich zu Kollapse kam, hat es ziemlich schnell Klick gemacht. Ich erinnere mic
 
 **Peter L:** Ja, ich stimme Peter D zu. Ich glaube nicht, dass wir uns vorgenommen haben, Sludge oder Post-Metal zu machen. Wir sind einfach irgendwie dort gelandet, weil es das war, was für uns beim Schreiben der Platte Sinn ergeben hat. Wir haben eine Menge übereinstimmender musikalischer Interessen und Inspirationen, aber zwischen uns liegen auch viele verschiedene Einflüsse. Ich denke, das trifft es irgendwie. Wir beziehen uns manchmal auf Songs oder Alben und sagen: "Mann, so einen Song würde ich auch gerne mal machen", dann probieren wir es aus, und am Ende kommt etwas ganz anderes dabei heraus. Wir versuchen bewusst, nicht in ein Genre zu passen, sondern mit unserer Maske eine Atmosphäre oder einen Sound zu erzeugen, der uns sinnvoll erscheint.
 
-**Thomas:** Die Kritiker⋆innen sind wahrscheinlich mehr auf Genres fixiert als Musiker. Vielleicht läuft es darauf hinaus, dass es bequem ist, ein Etikett zu vergeben, wenn man sich durch ein eintöniges Album nach dem anderen quälen muss. Ich liebe die Körperlichkeit von schwerer und rauer Musik. Der Scheiß in meinem Kopf eignet sich einfach besser für diese Art von Sound als für das, was man so im Radio hört. 
+**Thomas:** Die Kritiker⋆innen sind wahrscheinlich mehr auf Genres fixiert als Musiker. Vielleicht läuft es darauf hinaus, dass es bequem ist, ein Etikett zu vergeben, wenn man sich durch ein eintöniges Album nach dem anderen quälen muss. Ich liebe die Körperlichkeit von schwerer und rauer Musik. Der Scheiß in meinem Kopf eignet sich einfach besser für diese Art von Sound als für das, was man so im Radio hört.
 
 **Anne:** Was treibt Euch an, wenn Ihr neue Musik macht? Gibt es irgendetwas Bestimmtes, von dem Ihr sagen würdet, dass es Euch die Motivation und Ausdauer gibt, die Dinge in Gang zu bringen?
 
@@ -171,4 +168,10 @@ Wir haben schon angefangen, für das nächste Album zu schreiben und haben sogar
 
 ## Kollapse – "Drift"
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3177854524/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2965997501/transparent=true/" seamless><a href="https://kollapse.bandcamp.com/album/sult">SULT by kollapse</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3177854524/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2965997501/transparent=true/"
+  seamless
+>
+  <a href="https://kollapse.bandcamp.com/album/sult">SULT by kollapse</a>
+</iframe>

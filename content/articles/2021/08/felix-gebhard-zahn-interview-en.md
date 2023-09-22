@@ -5,11 +5,9 @@ typeName: Interview
 title: Interview With Felix Gebhard
 subTitle: '"I Always Wanted To Start A Band Like Zahn"'
 seoTitle: Interview With Felix Gebhard – "I Always Wanted A Band Like Zahn"
-description: In our interview, Felix Gebhard told me he always wanted to start
-  an instrumental band like Zahn. This wish has finally come true. The first
-  album, "Zahn", is really promising. You should definitely go and check it out!
+description: In our interview, Felix Gebhard told me he always wanted to start an instrumental band like Zahn. This wish has finally come true. The first album, "Zahn", is really promising. You should definitely go and check it out!
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zahn-jpg-imagine-484848_000000_1024_768/640.webp
-copyrigt: Zahn
+copyright: Zahn
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zahn-fb-jpg-imagine-080808_000000_1200_628/640.webp
 labels:
   - Einstürzende Neubauten
@@ -40,13 +38,13 @@ languageLink: /2021/08/felix-gebhard-zahn-interview/
 
 **Zahn is the fresh new instrumental (noise) project of Chris Breuer (ex-The Ocean, Heads.), Nic Stockmann (Heads., ex-Eisenvater) and Felix Gebhard (live-Einstürzende Neubauten).**
 
-I got to know Chris through the press work he does for various bands. He has now organised an interview with guitarist Felix for me. 
+I got to know Chris through the press work he does for various bands. He has now organised an interview with guitarist Felix for me.
 
 Influences from sludge and post-rock characterise **Zahn's** music. Some of you might also find some borrowings from the avant-garde niche. With their imaginative riffs and grooves and an incredible sense for abstract patterns and perfect rhythmic interplay, Chris, Nic, and Felix create their own thing on this base. Bone-crushing drums and psychedelic sequences sprinkle sugar on top and illuminate their fascinating sound world.
 
 ## Zahn delivered a grandiose debut
 
-They released their fantastic self-titled debut album on August 20th. I had the honour of listening to it in advance and still do so extensively. Because (I can tell you that much already): It's pretty genius.  Following my interview, you will find a sound sample in form of a music video.
+They released their fantastic self-titled debut album on August 20th. I had the honour of listening to it in advance and still do so extensively. Because (I can tell you that much already): It's pretty genius. Following my interview, you will find a sound sample in form of a music video.
 
 !["Zahn" – Zahn's debut album](https://storage.googleapis.com/cardamonchai-media/2021-11-20/zahn-2-jpg-imagine-c86868_b67879_1080_1080/640.webp "\\"Zahn\\" – Zahn's debut album")
 
@@ -80,10 +78,10 @@ We wanted our band to have a short and catchy name. So it was called **Kran** fo
 
 **Felix:** We are playing some concerts in October and November:
 
-* November 5, Winterthur, Gaswerk, Hathors Noise Fest
-* November 6, Z-Bau with MIIRA, Nuremberg
-* November 26, Leipzig, Mörtelwerk w/Delving
-* November 27, Berlin, Urban Spree w/Delving
+- November 5, Winterthur, Gaswerk, Hathors Noise Fest
+- November 6, Z-Bau with MIIRA, Nuremberg
+- November 26, Leipzig, Mörtelwerk w/Delving
+- November 27, Berlin, Urban Spree w/Delving
 
 **Anne:** You worked with a lot of guest musicians for the album. Felix Gebhard ( live-**Einstürzende Neubauten**) played the electronic parts for "Gyhum" and the piano for "Staub". Peter Voigtmann joined for additional percussion, and Fabian Bremer ("Pavian", "Staub") contributed guitar sound and synthesiser. Just like Wolfgang Möstl ("Zerrung"). Alexander Hacke provided the synthesizer sound in "Lochsonne Schwarz" and "Tseudo". The saxophone for "Gyhum" and "Akroyd" is by Sofia Salvo. It sounds like a gigantic jam session! Do you have to imagine Zahn as some kind of musical collective like **The Ocean**?
 
@@ -99,11 +97,11 @@ We wanted our band to have a short and catchy name. So it was called **Kran** fo
 
 **Anne:** What music, in particular, influenced you when you were writing your songs? Maybe you can name a few bands?
 
-**Felix:** I can't speak for the three of us. I couldn't name any bands or musicians that would have been a particular influence in this case, or that would have consciously served as a template for my work. But, as I said, in my opinion, everything that you create is fed by things that you have received at some point. So that's where things come in that aren't necessarily on my record player all the time right now. 
+**Felix:** I can't speak for the three of us. I couldn't name any bands or musicians that would have been a particular influence in this case, or that would have consciously served as a template for my work. But, as I said, in my opinion, everything that you create is fed by things that you have received at some point. So that's where things come in that aren't necessarily on my record player all the time right now.
 
 I listened to a lot of **Television** in 2020 if I remember correctly, and the last solo record by **Sam Prekop**. I also rediscovered **The** **Replacements** for myself and am gradually working my way through the complete works of **Alice** and **John Coltrane**, there are still a lot of albums I don't know. None of it has anything to do with **Zahn**, but some attitude or expression might find its way from that music into the way I play the guitar with **Zahn**.
 
-![The "Zahn" Vinyl Edition](https://storage.googleapis.com/cardamonchai-media/2021-11-20/zahn-3-jpg-imagine-080808_6c574f_1080_1080/640.webp "The \"Zahn\" Vinyl Edition")
+![The "Zahn" Vinyl Edition](https://storage.googleapis.com/cardamonchai-media/2021-11-20/zahn-3-jpg-imagine-080808_6c574f_1080_1080/640.webp 'The "Zahn" Vinyl Edition')
 
 **Anne:** You are constantly involved with music and meet all kinds of artists. How do you see it with the countless genres in which music is classified nowadays? Does that make sense? Jonas from **[Dimwind](/2021/06/dimwind-interview-en)** said to me the other day, "It seems to be of essential importance to assign your sound to a brand to reach a certain audience". I've never felt like I belong to a specific genre myself, but I think that's pretty obvious. If you want to reach certain people, you have to give your sound a name. Do you see it the same way? Or should there better be no genres at all?
 
@@ -111,7 +109,7 @@ I listened to a lot of **Television** in 2020 if I remember correctly, and the l
 
 **Felix:** I think it can sometimes be helpful to describe music in genres. For example, if I want to explain what kind of music **Zahn** makes, then "instrumental rock music" only roughly describes it. Still, my counterpart can assume that we probably don't have a ska song or a power rock ballad in our repertoire. You can explain further details from there. The genre designations of any streaming services that use them to send their algorithms on the right track to programme their users are, of course, often misleading and stupid.
 
-**Anne:** One last question: Who came up with the idea of the bizarre milk jug on the cover? Does it have a special meaning? 
+**Anne:** One last question: Who came up with the idea of the bizarre milk jug on the cover? Does it have a special meaning?
 
 **Felix:** Chris came up with the idea. I don't know anything about a special meaning. A bit of mystery must remain.
 

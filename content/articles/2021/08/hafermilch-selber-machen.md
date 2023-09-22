@@ -5,12 +5,9 @@ typeName: Rezept
 title: Hafermilch selber machen
 subTitle: Mit dem Nussmilchbeutel Pflanzendrinks zaubern
 seoTitle: Hafermilch selber machen – mit Nussmilchbeutel Pflanzendrinks zaubern
-description: "Hafermilch selber machen – wolltet Ihr das auch schon immer mal
-  ausprobieren? Ich habe gemerkt: Es geht eigentlich ganz einfach. Ihr braucht
-  im Grunde nur zwei Zutaten, Euren Mixer und einen Nussmilchbeutel. Dann kann
-  es auch schon losgehen."
+description: 'Hafermilch selber machen – wolltet Ihr das auch schon immer mal ausprobieren? Ich habe gemerkt: Es geht eigentlich ganz einfach. Ihr braucht im Grunde nur zwei Zutaten, Euren Mixer und einen Nussmilchbeutel. Dann kann es auch schon losgehen.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-03-ecomonkey-12-jpg-imagine-b8b898_aaa699_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/hafermilch-selber-machen-jpg-imagine-c8c8b8_b2afa3_1200_628/640.webp
 labels:
   - Zero Waste
@@ -37,9 +34,9 @@ Hafermilch hat sich zur beliebtesten Milch-Alternative gemausert. Inzwischen ste
 
 ## Hafer ist gut fürs Klima
 
-Im Gegensatz zu, sagen wir mal Kokosnüssen, besitzt Hafer außerdem einen ziemlich gute CO<sub>2</sub>-Bilanz. Man kann ihn so gut wie überall anbauen und er ist ziemlich robust. Daher hat der Hafer, der hierzulande in die Hafermilch kommt, auch meistens keinen besonders weiten Transportweg hinter sich. 
+Im Gegensatz zu, sagen wir mal Kokosnüssen, besitzt Hafer außerdem einen ziemlich gute CO<sub>2</sub>-Bilanz. Man kann ihn so gut wie überall anbauen und er ist ziemlich robust. Daher hat der Hafer, der hierzulande in die Hafermilch kommt, auch meistens keinen besonders weiten Transportweg hinter sich.
 
-Ein weiterer Vorteil ist, dass er ziemlich bekömmlich ist. Er genießt sogar den Ruf, das gesündeste Getreide überhaupt zu sein. So vertragen zum Beispiel viele, die Sojamilch aus gesundheitlichen Gründen nicht trinken können, Hafermilch sehr gut. 
+Ein weiterer Vorteil ist, dass er ziemlich bekömmlich ist. Er genießt sogar den Ruf, das gesündeste Getreide überhaupt zu sein. So vertragen zum Beispiel viele, die Sojamilch aus gesundheitlichen Gründen nicht trinken können, Hafermilch sehr gut.
 
 Mit komplexen Kohlehydraten gibt Euch Hafer Energie für den ganzen Tag. Und Ihr tut Euch mit dem Genuss auch sonst noch etwas Gutes: Ihr nehmt dabei Eisen, Magnesium, Zink sowie die Vitamine B1 und B6 zu Euch. Da klingt gut, oder?
 
@@ -72,7 +69,7 @@ Füllt Eure selbst gemachte Hafermilch in eine Flasche und stellt sie kühl. Wir
 
 ## Hafermilch selber machen – Rezept ohne Kochen
 
-Wenn Ihr Eure Hafermilch ohne Kochen zubereiten wollt, wenn es mal schnell gehen muss, könnt Ihr das Kochen einfach weglassen.  Die Haltbarkeitszeit verkürzt sich dabei ein bisschen und sie ist nicht ganz so fein, aber es funktioniert genauso gut. Püriert einfach alles gut und presst die Hafermilch-Mischung anschließend durch den [Nussmilchbeutel](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Der Punkt mit der Haltbarkeit ist für mich ohnehin nicht so wichtig – so ein Liter Hafermilch ist bei uns schnell weg und neue kann ich in ein paar Minuten herstellen. 
+Wenn Ihr Eure Hafermilch ohne Kochen zubereiten wollt, wenn es mal schnell gehen muss, könnt Ihr das Kochen einfach weglassen. Die Haltbarkeitszeit verkürzt sich dabei ein bisschen und sie ist nicht ganz so fein, aber es funktioniert genauso gut. Püriert einfach alles gut und presst die Hafermilch-Mischung anschließend durch den [Nussmilchbeutel](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fnussmilchbeutel-aus-100-baumwolle-nachhaltig-waschbar-wiederverwendbar%2F). Der Punkt mit der Haltbarkeit ist für mich ohnehin nicht so wichtig – so ein Liter Hafermilch ist bei uns schnell weg und neue kann ich in ein paar Minuten herstellen.
 
 Wir benutzen Hafermilch auch als Sahne-Ersatz und Basis für Saucen aller Art. Weil ich meistens spontan entscheide, was ich koche, nutze ich besonders dann gerne diese Variante.
 

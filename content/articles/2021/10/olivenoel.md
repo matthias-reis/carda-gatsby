@@ -5,12 +5,9 @@ typeName: Beitrag
 title: Olivenöl
 subTitle: Darum ist das Pflanzenöl so wertvoll
 seoTitle: Olivenöl – darum ist das Pflanzenöl so wertvoll
-description: Olivenöl ist ein perfekter Allrounder – nicht nur in der Küche. Ein
-  paar Einsatzmöglichkeiten und Vorteile habe ich jetzt mal zusammengefasst –
-  von Salat-Dressing bis Hautpflege und von Olivenöl-Gewinnung bis
-  DIY-Beauty-Tipps mit Olivenöl.
+description: Olivenöl ist ein perfekter Allrounder – nicht nur in der Küche. Ein paar Einsatzmöglichkeiten und Vorteile habe ich jetzt mal zusammengefasst – von Salat-Dressing bis Hautpflege und von Olivenöl-Gewinnung bis DIY-Beauty-Tipps mit Olivenöl.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-09-28-oele-30-jpg-imagine-b8b8a8_a09c94_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/olivenoel-fb-png-imagine-b8c8d8_959390_1200_628/640.webp
 labels:
   - Olivenöl
@@ -45,7 +42,7 @@ An einem Olivenbaum wachsen je nach Wetter, Wasser und Alter bis zu 300 Kilo Oli
 
 Die Früchte werden für die Ölproduktion geerntet, wenn sie ihre Farbe von grün zu lila oder rot wechseln. Je reifer sie sind, desto mehr Öl kann daraus gewonnen werden. Mein Beispiel ist also nur eine ungefähre Schätzung. Je genauer der Zeitpunkt der Ernte abgepasst wird, desto besser schmeckt das Olivenöl.
 
-Heute werden die Oliven häufig mechanisiert geerntet, da die traditionelle Ernte mit der Hand nicht nur anstrengend, sondern auch kostenintensiv und aufwendig ist. Die Erntehelfer⋆innen breiten dafür Netze unter den Bäumen aus und die Oliven werden  mit Stöcken und Kämmen von den Zweigen gestreift oder – [bei besonders hochwertigen Ölen](https://amzn.to/3vjkxDZ) – sogar komplett von Hand gepflückt.
+Heute werden die Oliven häufig mechanisiert geerntet, da die traditionelle Ernte mit der Hand nicht nur anstrengend, sondern auch kostenintensiv und aufwendig ist. Die Erntehelfer⋆innen breiten dafür Netze unter den Bäumen aus und die Oliven werden mit Stöcken und Kämmen von den Zweigen gestreift oder – [bei besonders hochwertigen Ölen](https://amzn.to/3vjkxDZ) – sogar komplett von Hand gepflückt.
 
 ## Traditionelle und moderne Olivenöl-Gewinnung
 
@@ -69,7 +66,7 @@ Ihr verwendet das native Öl besser für Rohkost und Salate – es ist dann ohne
 
 Das raffinierte Olivenöl wird chemisch verarbeitet und besitzt daher auch kaum noch gesunde Inhaltsstoffe. Dafür könnt Ihr es aber problemlos auf dem Herd und im Ofen erhitzen und als Geschmacksträger fungiert es nach wie vor.
 
-Soviel zum Kochen und Backen. Doch Olivenöl gehört längst nicht nur in die Küche. Es ist auch die Basis vieler [moderner Beauty-Produkte](/2018/03/vegane-kosmetik-und-naturkosmetik/) und hat im Badezimmer durchaus auch einen Stammplatz verdient. Und nicht nur in teurer  Hightech-Kosmetik. Mit ein paar DIY Tipps könnt Ihr auch zu einem wesentlich günstigeren Tarif tolle Ergebnisse erzielen. Es schützt zum Beispiel die Haut vor dem Austrocknen. Wenn Ihr im Winter manchmal rissige Ellbogen habt, probiert es mal mit Olivenöl.
+Soviel zum Kochen und Backen. Doch Olivenöl gehört längst nicht nur in die Küche. Es ist auch die Basis vieler [moderner Beauty-Produkte](/2018/03/vegane-kosmetik-und-naturkosmetik/) und hat im Badezimmer durchaus auch einen Stammplatz verdient. Und nicht nur in teurer Hightech-Kosmetik. Mit ein paar DIY Tipps könnt Ihr auch zu einem wesentlich günstigeren Tarif tolle Ergebnisse erzielen. Es schützt zum Beispiel die Haut vor dem Austrocknen. Wenn Ihr im Winter manchmal rissige Ellbogen habt, probiert es mal mit Olivenöl.
 
 Was bei mir bei rauen Händen Wunder wirkt, ist eine **Overnight-Olivenöl-Kur**. Dazu reibe ich meine Hände sehr großzügig mit Olivenöl ein und ziehe mir ein paar dünne Baumwollhandschuhe über. Am nächsten Morgen ist die Haut wieder wunderbar weich und geschmeidig.
 

@@ -5,11 +5,9 @@ typeName: Review
 title: Zement – "Rohstoff"
 subTitle: Ein Statement an die Musikwelt
 seoTitle: Zement – "Rohstoff" – Ein Statement an die Musikwelt
-description: Zement liefern mit ihrer dritten LP Neo-Krautrock/Psychedelic vom
-  Feinsten ab – perfekt komponiert mit schönen Anleihen aus der Techno-Ecke.
-  "Rohstoff" ist eine durchaus tanzbare Platte, die gut in unsere Zeit passt.
+description: Zement liefern mit ihrer dritten LP Neo-Krautrock/Psychedelic vom Feinsten ab – perfekt komponiert mit schönen Anleihen aus der Techno-Ecke. "Rohstoff" ist eine durchaus tanzbare Platte, die gut in unsere Zeit passt.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-jpg-imagine-181818_5c4a4c_1024_768/640.webp
-copyrigt: Zement
+copyright: Zement
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-fb-png-imagine-f8f8f8_a67460_1200_628/640.webp
 labels:
   - Experimental
@@ -38,19 +36,19 @@ Das neue Album ist alles andere als überproduziert. Ganz im Gegenteil – man e
 
 ## Zement holen einen von der Couch runter
 
-![Zement – "Rohstoff"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-3-jpeg-imagine-080808_552610_800_800/640.webp "Zement – \\\"Rohstoff\\\"")
+![Zement – "Rohstoff"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-3-jpeg-imagine-080808_552610_800_800/640.webp 'Zement – "Rohstoff"')
 
 Dennoch halten sich Christian Büdel (Drums, Percussion) und Philipp Hager (Gitarre, Synths, Drum-Machines, Effekte, Flöten) nicht damit auf, in Erinnerungen zu schwelgen. Sie haben ihren komplett eigenen Stil gefunden und der ist ziemlich cool.
 
 Das Hören löst mehr aus, als nur ein bisschen im Takt mit dem Kopf nicken. Zement holen einen von der Couch runter und das mit einem ordentlichen Drive.
 
-Das Projekt gibt es bereits seit 2014. Seitdem haben die beiden Sound-Bastler musikalisch ganz klar ihre gemeinsame Wellenlänge gefunden. Zement planieren ihren Baustoff nicht, sie formen  fantasievolle Skulpturen daraus, die ein starkes Statement in die Musikwelt senden.
+Das Projekt gibt es bereits seit 2014. Seitdem haben die beiden Sound-Bastler musikalisch ganz klar ihre gemeinsame Wellenlänge gefunden. Zement planieren ihren Baustoff nicht, sie formen fantasievolle Skulpturen daraus, die ein starkes Statement in die Musikwelt senden.
 
 Beim aufmerksamen Erkunden der Songs fallen einem viele liebevolle kleine Details auf – und zwar jedes Mal wieder neue. Der Mix aus derben Sounds, starkem Rhythmus und fast hypnotischen Synth-Parts geht voll auf.
 
 ## Eine vielseitige Platte mit spannenden Details
 
-Zement haben ihr drittes Album mit Florian Helleken bei Hersbrooklyn Recordings aufgenommen.   Das Ergebnis ist keineswegs rohes Material, sondern ziemlich ausgefeilt. Dinge wie kleine eingebaute Gitarren- und Saxofon-Einlagen blühen genau an den richtigen Stellen auf, um dann rechtzeitig wieder im Hintergrund dieser gewaltigen Sound-Wand abzutauchen.
+Zement haben ihr drittes Album mit Florian Helleken bei Hersbrooklyn Recordings aufgenommen. Das Ergebnis ist keineswegs rohes Material, sondern ziemlich ausgefeilt. Dinge wie kleine eingebaute Gitarren- und Saxofon-Einlagen blühen genau an den richtigen Stellen auf, um dann rechtzeitig wieder im Hintergrund dieser gewaltigen Sound-Wand abzutauchen.
 
 Was mir besonders gut gefällt, ist die Vielseitigkeit und Geschwindigkeit der Platte. Anders, als man es vielleicht bei psychedelisch angehauchten Bands erwarten würde, ufern die Stücke weder aus noch gehen sie ohne merkbare Übergänge ineinander über. Alle acht Songs stehen komplett für sich und bilden zusammen dennoch eine runde und spannende Einheit. Hört rein, es lohnt sich!
 

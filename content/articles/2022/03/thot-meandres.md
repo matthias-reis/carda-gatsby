@@ -5,15 +5,10 @@ typeName: Review
 title: '"Méandres"'
 subTitle: Die neue EP von Thot
 seoTitle: Thot – "Méandres" – Post-Music Review
-description: '"Méandres", die neue EP von Thot, ist bereits am 11. März
-  erschienen. Die drei großartigen Songs "Euphrate", "Bateleur" und "Sleep
-  Oddity" sind also bereits digital und auf CD verfügbar.'
-excerpt: '"Méandres", die neue EP von Thot, ist bereits am 11. März erschienen.
-  Die drei Songs "Euphrate", "Bateleur" und "Sleep Oddity" sind also bereits
-  digital und auf CD verfügbar. Unter der Leitung von Thot Gründer Grégoire Fray
-  hat das Post-Music Kollektiv mal wieder etwas Großartiges geschaffen.'
+description: '"Méandres", die neue EP von Thot, ist bereits am 11. März erschienen. Die drei großartigen Songs "Euphrate", "Bateleur" und "Sleep Oddity" sind also bereits digital und auf CD verfügbar.'
+excerpt: '"Méandres", die neue EP von Thot, ist bereits am 11. März erschienen. Die drei Songs "Euphrate", "Bateleur" und "Sleep Oddity" sind also bereits digital und auf CD verfügbar. Unter der Leitung von Thot Gründer Grégoire Fray hat das Post-Music Kollektiv mal wieder etwas Großartiges geschaffen.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-17/thot-meandres-le-bateleur-png-imagine-383838_000000_1024_768/640.webp
-copyrigt: Thot
+copyright: Thot
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-17/thot-meandres-fb-png-imagine-383838_605f60_1200_628/640.webp
 labels:
   - Thot
@@ -30,9 +25,10 @@ affiliate: false
 language: de
 languageLink: /2022/03/thot-meandres-en/
 ---
+
 **"Méandres", die neue EP von Thot, ist bereits am 11. März erschienen. Die drei Songs "Euphrate", "Bateleur" und "Sleep Oddity" sind also bereits digital und auf CD verfügbar. Unter der Leitung von Thot Gründer Grégoire Fray hat das Post-Music Kollektiv mal wieder etwas Großartiges geschaffen.**
 
-Einen [Teaser zur Platte](/2021/12/karin-park-thot-perry-frank/) gab es hier im Blog schon im Dezember. Jetzt könnt Ihr sie endlich komplett hören. 
+Einen [Teaser zur Platte](/2021/12/karin-park-thot-perry-frank/) gab es hier im Blog schon im Dezember. Jetzt könnt Ihr sie endlich komplett hören.
 
 Falls Euch Thot schon ein Begriff sind, werden Euch bei der neuen EP vermutlich zuerst Grégoires französische, Lyrics auffallen. Die großartige Juliette Mauduit unterstützt ihn tatkräftig mit ihrem Gesang. Das Stück "Euphrate" haben die Stimmen des Chors Mystery of the Bulgarian Voices zusätzlich angereichert, was der sonst noch stärker in die Industrial-Ecke tendierenden Band sehr gut zu Gesicht steht. Der harmonische Gesang ergibt eine wunderschöne Einheit mit dem rauen Sound des Kollektivs, der dadurch zu etwas ganz Neuem wird.
 

@@ -5,14 +5,10 @@ typeName: Beitrag
 title: Playlist August 2022
 subTitle: Von The Mars Volta bis Lost in Kiev
 seoTitle: Playlist August 2022 – von The Mars Volta bis Lost in Kiev
-description: Die Musikliste für den August ist kurz und knackig. Matze und ich
-  haben insgesamt acht Songs zusammengestellt, die Euch den nächsten Monat
-  versüßen sollen – von Mars Volta bis Lost in Kiev.
-excerpt: Die Musikliste für den August ist kurz und knackig. Matze und ich haben
-  insgesamt acht Songs zusammengestellt, die Euch den nächsten Monat versüßen
-  sollen – von Mars Volta bis Lost in Kiev – viel Spaß damit!
+description: Die Musikliste für den August ist kurz und knackig. Matze und ich haben insgesamt acht Songs zusammengestellt, die Euch den nächsten Monat versüßen sollen – von Mars Volta bis Lost in Kiev.
+excerpt: Die Musikliste für den August ist kurz und knackig. Matze und ich haben insgesamt acht Songs zusammengestellt, die Euch den nächsten Monat versüßen sollen – von Mars Volta bis Lost in Kiev – viel Spaß damit!
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-27/playlist-august-jpeg-imagine-080808_68625f_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-27/playlist-august-fb-jpeg-imagine-080808_625d5a_1200_628/640.webp
 labels:
   - serie:Playlists 2022
@@ -45,6 +41,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Die Musikliste für den August ist kurz und knackig. Matze und ich haben insgesamt acht Songs zusammengestellt, die Euch den nächsten Monat versüßen sollen – von Mars Volta bis Lost in Kiev – viel Spaß damit!**
 
 Die fertigen Playlists für iTunes und Spotify findet Ihr wie immer im Anschluss an die Videos. Mit den Songs haben Matze und ich uns abgewechselt. Das erste Stück hat er auf die Liste gesetzt.
@@ -59,7 +56,7 @@ Matze findet:
 
 ## Crippled Black Phoenix – "Everything Is Beautiful But Us" (Vorauskopplung vom Album "Banefyre")
 
-Nee, ich lasse Euch nicht mit Crippled Black Phoenix in Ruhe. Und ja, es gibt schon wieder eine neue Single. Eine besonders gute sogar. "Everything Is Beautiful But Us" handelt genau von dem, was Ihr Euch jetzt wahrscheinlich darunter vorstellt. Denn nein, es steht da schon richtig: nicht "bout", sondern "but" (Also nicht alles "an" uns, sondern alles "außer" uns). 
+Nee, ich lasse Euch nicht mit Crippled Black Phoenix in Ruhe. Und ja, es gibt schon wieder eine neue Single. Eine besonders gute sogar. "Everything Is Beautiful But Us" handelt genau von dem, was Ihr Euch jetzt wahrscheinlich darunter vorstellt. Denn nein, es steht da schon richtig: nicht "bout", sondern "but" (Also nicht alles "an" uns, sondern alles "außer" uns).
 
 Alles ist also schön, bis auf uns. Menschen. Die Gedanken, die sich die Mitglieder dieser wunderbaren Band ([mein Interview findet Ihr übrigens hier](/2020/12/crippled-black-phoenix-interview/)) täglich machen, fließen immer wieder in nachdenkliche und politische musikalische Werke ein. Wie schrieben CBP gerade auf ihrem Instagram-Profil "Only an ⋆⋆⋆ doesn't appreciate our natural world. Take humans out of the environment and watch it flourish." ("Nur ein ⋆⋆⋆ weiß unsere Natur nicht zu schätzen. Würde man die Menschen aus der Umwelt herausnehmen, könnte man dabei zusehen, wie sie erblüht.") Belindas großartiger, stimmungsvoller Gesang bringt diese Grundstimmung hier perfekt zum Ausdruck. Das Stück ist Teil des kommenden neuen Albums "Banefyre". Und ich werde nicht müde, jede einzelne CBP Vorauskopplung hier zu feiern. Verlasst Euch drauf!
 
@@ -69,26 +66,15 @@ Alles ist also schön, bis auf uns. Menschen. Die Gedanken, die sich die Mitglie
 
 Matze überlässt die Math-Rock Sparte sonst in der Regel lieber mir. Diesen Song hat allerdings er ausgesucht:
 
-> "Ich bin eigentlich kein großer Math-Rock Fan. Vielleicht habe ich Giraffes? Giraffes! darum trotz einiger Gelegenheiten auf Festivals noch nie live gesehen? Inzwischen weiß ich, was für ein Fehler es war, dieser Band keine Beachtung zu schenken. Das neu veröffentlichte Album ist eine großartige Mischung aus dem rohen Stil des frühen Post-Rocks, einigen Prog/Psychedelic Einlagen und gutem Math-Rock.  Hört Euch auf jeden Fall das ganze Album an. Es ist sehr vielseitig."
+> "Ich bin eigentlich kein großer Math-Rock Fan. Vielleicht habe ich Giraffes? Giraffes! darum trotz einiger Gelegenheiten auf Festivals noch nie live gesehen? Inzwischen weiß ich, was für ein Fehler es war, dieser Band keine Beachtung zu schenken. Das neu veröffentlichte Album ist eine großartige Mischung aus dem rohen Stil des frühen Post-Rocks, einigen Prog/Psychedelic Einlagen und gutem Math-Rock. Hört Euch auf jeden Fall das ganze Album an. Es ist sehr vielseitig."
 
 <YouTube id="sYPHRfS9OO0" />
 
 ## Holy Fawn – "Dimensional Bleed" (Vorauskopplung vom Album "Dimensional Bleed")
+
 An dieser Stelle könnt Ihr ein wirklich episches Stück Post-Music aus dem Hause Holy Fawn erleben. Es ist erst ein paar Tage alt und hat sich bei mir schon ziemlich tief eingeprägt. Ich teile an dieser Stelle einfach mal die Lyrics mit Euch, um das Format hier etwas aufzulockern.
 
-> I don't want to bleed<br/>
-> Alone like this<br/>
-> Wandering this dark forest<br/>
-> While I’m asleep<br/>
-> While i drift farther out<br/>
-> Losing your scent<br/>
-> Surrender to the blackness<br/>
-> While I am<br/>
-> Watching everything growing<br/>
-> All the leaves<br/>
-> Breathing forth<br/>
-> I feel like I am nothing<br/>
-> While they bloom<br/>
+> I don't want to bleed<br/> Alone like this<br/> Wandering this dark forest<br/> While I’m asleep<br/> While i drift farther out<br/> Losing your scent<br/> Surrender to the blackness<br/> While I am<br/> Watching everything growing<br/> All the leaves<br/> Breathing forth<br/> I feel like I am nothing<br/> While they bloom<br/>
 
 OK, ich gebe zu, locker-flockig ist "Dimensional Bleed" eher nicht. Eher düster. Und das ist gut so. Ich freue mich schon auf das für den 9. September angekündigte gleichnamige Album, von dem Ihr insgesamt übrigens bereits zwei Songs hören könnt. Nach Ihrer EP "The Black Moon" vom 17. Januar legt die Band aus Arizona nun dieses Jahr also noch ein Album obendrauf. So kann es doch weitergehen, oder?
 
@@ -120,7 +106,15 @@ Matzes letztes Stück für diesen Monat kommt von Ştiu Nu Ştiu:
 
 Dieses wunderschöne Musikstück ist gerade frisch auf Past Inside The Present erschienen. Es handelt sich um das Solo-Projekt der Künstlerin und Produzentin Marine Eyes aka Cynthia Bernhard, die ihr Debüt im März letzten Jahres auf Stereoscenic Records veröffentlichte. Ihr könnt Euch möglicherweise auch durch [mein Interview mit ihr und Ihrem Mann James](/2021/10/awakened-souls/) an ihren Namen erinnern. Das gemeinsame Musikprojekt der beiden trägt den Namen awakening souls. Cynthia hat unter anderem auch bereits mit Künstler⋆innen wie [Zakè](/2022/05/zake-sound-space-variations/), 36, From [Overseas](/2020/04/from-overseas-interview/) und Pepo Galán zusammengearbeitet. Ihr neuestes Werk lebt von seinen Nature Sounds und dem harmonischen Spiel, mit dem sie Bilder von Wolken, Landschaften und Sonne zeichnet.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2724893815/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://pitp.bandcamp.com/album/chamomile">chamomile by marine eyes</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=2724893815/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://pitp.bandcamp.com/album/chamomile">
+    chamomile by marine eyes
+  </a>
+</iframe>
 
 <Playlist
   spotify="5IegixYN00rbrt7NsIfAOI?si=ea56f9d244d44589"

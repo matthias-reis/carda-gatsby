@@ -5,17 +5,10 @@ typeName: Interview
 title: Dream Vision Founder Jan Oblak
 subTitle: '"Psychology Fascinates Me"'
 seoTitle: Dream Vision Founder Jan – Post-Rock Interview
-description: Dream Vision founder Jan just released his debut album. After
-  starting his solo project in December, he had already released some songs in
-  January. Time for an interview.
-excerpt: Jan Oblak, who you might know as one of the founding members of the
-  atmospheric post-metal project Zorya from Slovenia, started his new solo
-  project Dream Vision last December. His freshly released debut, "Rêves", is a
-  dreamful mix of electronic blackgaze and post-rock music with influences in
-  the post-black and depressive black metal genre. I now had the chance to talk
-  to the multi-instrumentalist who recorded the whole album all by himself.
+description: Dream Vision founder Jan just released his debut album. After starting his solo project in December, he had already released some songs in January. Time for an interview.
+excerpt: Jan Oblak, who you might know as one of the founding members of the atmospheric post-metal project Zorya from Slovenia, started his new solo project Dream Vision last December. His freshly released debut, "Rêves", is a dreamful mix of electronic blackgaze and post-rock music with influences in the post-black and depressive black metal genre. I now had the chance to talk to the multi-instrumentalist who recorded the whole album all by himself.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-30/dream-vision-jan-jpg-imagine-080808_191a12_1024_768/640.webp
-copyrigt: Dream Vision
+copyright: Dream Vision
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-30/dream-vision-jan-fb-jpg-imagine-080808_191a13_1200_628/640.webp
 labels:
   - Dream Vision
@@ -37,6 +30,7 @@ affiliate: false
 language: en
 languageLink: /2022/05/dream-vision-interview/
 ---
+
 **Jan Oblak, who you might know as one of the founding members of the atmospheric post-metal project Zorya from Slovenia, started his new solo project Dream Vision last December. His freshly released debut, "Rêves", is a dreamful mix of electronic blackgaze and post-rock music with influences in the post-black and depressive black metal genre. I now had the chance to talk to the multi-instrumentalist who recorded the whole album all by himself.**
 
 **Anne:** Hey! Thanks for taking the time for this interview! How are you doing at the moment? Congrats on your brand-new album, "Rêves"! It's wonderful!
@@ -47,9 +41,9 @@ languageLink: /2022/05/dream-vision-interview/
 
 ## "I started mixing blackgaze and darkwave metal with elements of post-rock"
 
-![Dream Vision – "Rêves"](https://storage.googleapis.com/cardamonchai-media/2022-05-30/dream-vision-reve-png-imagine-081818_12252f_3000_3000/640.webp "Dream Vision – \"Rêves\"")
+![Dream Vision – "Rêves"](https://storage.googleapis.com/cardamonchai-media/2022-05-30/dream-vision-reve-png-imagine-081818_12252f_3000_3000/640.webp 'Dream Vision – "Rêves"')
 
-**Jan:** No, it doesn't tell one. I searched for a band name, but I didn't know what would be good for my listeners and me. So, I checked countless websites about psychology and finally found these words. 
+**Jan:** No, it doesn't tell one. I searched for a band name, but I didn't know what would be good for my listeners and me. So, I checked countless websites about psychology and finally found these words.
 
 "Dream Vision" has many meanings in psychology. I don't know why I am such a fan of psychology, but if you play metal music, you have at least a 30 per cent chance that your theme is depression or psychology. And yes, you are right: The name of the record is tied to the band name. So, both words have connections in psychology. And I thought "Rêves" would be the perfect fit.
 
@@ -65,7 +59,7 @@ languageLink: /2022/05/dream-vision-interview/
 
 **Jan:** Alcest, Abstract Void, and Dance with the Dead.
 
-**Anne:** You are from Slovenia – I've always wanted to travel there. Any recommendations for my Slovenia trip? 
+**Anne:** You are from Slovenia – I've always wanted to travel there. Any recommendations for my Slovenia trip?
 
 Sorry, I got carried away. What I wanted to ask is: how would you describe the Slovenian music scene? I can imagine it being quite creative and inspiring. Is it?
 

@@ -5,11 +5,10 @@ typeName: Interview
 title: JeGong zum neuen Album "The Complex Inbetween"
 subTitle: '"Das Vergessen von Zeit und Raum zugunsten von Tiefe und Intuition"'
 seoTitle: 'JeGong: Interview "The Complex Inbetween"'
-description: JeGong haben ihr neues Album fertig. Lest jetzt mein Interview und
-  erfahrt alles über "The Complex Inbetween" und ihre Liebe zur Musik!
+description: JeGong haben ihr neues Album fertig. Lest jetzt mein Interview und erfahrt alles über "The Complex Inbetween" und ihre Liebe zur Musik!
 excerpt: Dahm Majuri Cipolla, Schlagzeuger bei Mono (Japan) und Watter gründete gemeinsam mit Reto Mäder von Sum Of R und Ural Umbo JeGong. Schon ihr Debütalbum "I" sorgte für ordentlich Wirbel. Am 9. Juni erscheint ihr neues unter dem Namen "The Complex Inbetween". Ich hatte vorab die Chance für ein Interview und habe mich mit den beiden über ihre Musik unterhalten.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-08/jegong-bw-pelagic-jpg-imagine-080808_1f1f1f_1024_768/640.webp
-copyrigt: JeGong
+copyright: JeGong
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-08/jegong-og-jpg-imagine-080808_2d3430_1200_628/640.webp
 labels:
   - JeGong
@@ -25,7 +24,7 @@ labels:
   - Heavy Music
   - New York
   - Berlin
-  - Reto Mäder 
+  - Reto Mäder
   - Dahm Majuri Cipolla
   - Mono
   - Mono (Japan)
@@ -36,15 +35,16 @@ affiliate: false
 language: de
 languageLink: /2023/06/jegong-interview-en/
 ---
-**Dahm Majuri Cipolla, Schlagzeuger bei Mono (Japan) und Watter gründete gemeinsam mit Reto Mäder von Sum Of R und Ural Umbo JeGong. Schon ihr Debütalbum "I" sorgte über das The Ocean Label Pelagic Records für ordentlich Wirbel.** 
+
+**Dahm Majuri Cipolla, Schlagzeuger bei Mono (Japan) und Watter gründete gemeinsam mit Reto Mäder von Sum Of R und Ural Umbo JeGong. Schon ihr Debütalbum "I" sorgte über das The Ocean Label Pelagic Records für ordentlich Wirbel.**
 
 Am 9. Juni erscheint ihr neues Werk unter dem Namen "The Complex Inbetween". Die ersten Vorauskopplungen sind schon da – eine davon habe ich Euch hier im Blog in der [Mai-Ausgabe der Musikliste](/2023/06/playlist-juni-2023/) vorgestellt. Jetzt hatte ich die Chance für ein Interview und habe mich mit den beiden über ihre Musik und "The Complex Inbetween" unterhalten.
 
 **Anne:** Danke, dass Ihr Euch die Zeit für das Interview nehmt! Ich freue mich sehr, Euch persönlich kennenzulernen! Wie geht es Euch? Womit beschäftigt Ihr Euch im Moment?
 
-**Dahm:** Mir geht es gut. Ich bin gerade nach 29 Shows von der Mono  Tour zurück. Ich versuche jetzt so viel wie möglich Zeit mit meiner Tochter und meiner Frau zu verbringen.
+**Dahm:** Mir geht es gut. Ich bin gerade nach 29 Shows von der Mono Tour zurück. Ich versuche jetzt so viel wie möglich Zeit mit meiner Tochter und meiner Frau zu verbringen.
 
-**Reto:** Danke Dir für das Interesse. Im Gegensatz zu Dahm bin ich bereits seit drei Wochen zurück von der 23 Konzerte umfassenden UK/EU Tour mit Sum Of R. Die Erholung ist abgeschlossen und die Batterien wieder geladen. Die Vorfreude und die Vorbereitungen für die nächsten musikalischen und privaten Abenteuer haben begonnen. Demnach ist alles im Lot und es geht mir gut. 
+**Reto:** Danke Dir für das Interesse. Im Gegensatz zu Dahm bin ich bereits seit drei Wochen zurück von der 23 Konzerte umfassenden UK/EU Tour mit Sum Of R. Die Erholung ist abgeschlossen und die Batterien wieder geladen. Die Vorfreude und die Vorbereitungen für die nächsten musikalischen und privaten Abenteuer haben begonnen. Demnach ist alles im Lot und es geht mir gut.
 
 **Anne:** Gratulation zum neuen Album! Es ist wirklich großartig geworden. Seit ich die Möglichkeit habe, es zu hören, lässt es mich nicht mehr los. Es ist so stark, verspielt, rhythmisch einfach genial und spiegelt ziemlich genau das wider, was ich an Musik so sehr liebe – Unberechenbarkeit und Präzision zugleich. Insgesamt klingt es noch ein bisschen rauer und noisier, als der Vorgänger "I" – ohne, dass Ihr Eurer Musik damit die technoide Seite nehmt. Diese beiden düsteren Welten passen sehr gut zusammen. Mir gefällt dieser unheimliche Unterton. Was hat Euch dazu inspiriert?
 
@@ -78,13 +78,13 @@ Am 9. Juni erscheint ihr neues Werk unter dem Namen "The Complex Inbetween". Die
 
 **Dahm:** Nein, aber Martin ist ein sehr enger Freund von mir und ich habe über die Jahre mit verschiedenen Projekten für insgesamt 12 Platten mit ihm zusammengearbeitet. Er ist ein sehr essenzieller Teil meiner New-York-City-Lebenserfahrungen.
 
-**Reto:** In meiner Plattensammlung hat es einige Alben (inklusive Sonic Youth und Swans), die von Martin Bisi im BC Studio aufgenommen wurden. Und diese Alben stechen bezüglich ihrer Soundästhetik heraus. Ich mag den hohen Anteil an Raumaufnahmen in den Mixes. 
+**Reto:** In meiner Plattensammlung hat es einige Alben (inklusive Sonic Youth und Swans), die von Martin Bisi im BC Studio aufgenommen wurden. Und diese Alben stechen bezüglich ihrer Soundästhetik heraus. Ich mag den hohen Anteil an Raumaufnahmen in den Mixes.
 
 In meiner Assoziierung höre ich förmlich den langen Kellerraum mit den Naturbausteinen und die metallischen Lüftungsrohre an den Decken heraus. Als Dahm für das Album "I" die Drums im BC Studio aufnahm, schickte mir Martin neben den Einzelspuren auch noch seinen persönlichen Rohmix. Da wurde mir klar, wie viel Geschichte auch in Audioaufnahmen enthalten sein kann. Ich mixte dann seinem Rohmix mehr oder weniger "nur" noch die Raumaufnahmen hinzu.
 
-Die Audiorecordings der isolierten, einzelnen Drum-Komponenten blieben also unberührt. Lässt Du die Drums in einem x-Beliebigen Studio aufnehmen, ist normalerweise genau das Gegenteil gefragt. Für die Aufnahmen zu "The Complex Inbetween" waren es verschiedene Studiosituationen und Orte. Alles durfte, nichts musste. 
+Die Audiorecordings der isolierten, einzelnen Drum-Komponenten blieben also unberührt. Lässt Du die Drums in einem x-Beliebigen Studio aufnehmen, ist normalerweise genau das Gegenteil gefragt. Für die Aufnahmen zu "The Complex Inbetween" waren es verschiedene Studiosituationen und Orte. Alles durfte, nichts musste.
 
-So haben wir das Schlagzeug zum größten Teil in Shelbyville, Kentucky von Zack Riles (Grails, Watter) aufgenommen. Einerseits in einem klassischen Studio-Setting, andererseits für eine Splitscreen-Session für die Onlineausgabe des ArcTanGent Festivals 2020. Die Synthesizer, Mellotron und die Gitarren wurden von mir in Bern aufgenommen. Hier entstand auch der Mix des Albums – mit Einbezug der klangästhetischen Erfahrungen vom Debut "I".    
+So haben wir das Schlagzeug zum größten Teil in Shelbyville, Kentucky von Zack Riles (Grails, Watter) aufgenommen. Einerseits in einem klassischen Studio-Setting, andererseits für eine Splitscreen-Session für die Onlineausgabe des ArcTanGent Festivals 2020. Die Synthesizer, Mellotron und die Gitarren wurden von mir in Bern aufgenommen. Hier entstand auch der Mix des Albums – mit Einbezug der klangästhetischen Erfahrungen vom Debut "I".
 
 **Anne:** Die Stücke auf "The Complex Inbetween" und die Namen der einzelnen Titel deuten darauf hin, dass dahinter eine Geschichte stecken könnte. Etwas, das diese Namen vereint und zu einem Gesamtbild macht. Möchtet Ihr sie mir erzählen?
 
@@ -96,11 +96,11 @@ So haben wir das Schlagzeug zum größten Teil in Shelbyville, Kentucky von Zack
 
 **Reto:** Dazu habe ich nichts Weiteres zu sagen, ich lächle nur.
 
-**Anne:** Das klingt sehr gut. Wovon handelt das Stück "Night Screaming Moves"? Ich mag die Drone-Sounds und das Zusammenspiel aus Mellotron und Gitarren-Rückkopplungen sehr. Es hat etwas von düsteren Coen Filmen. War das Euer Ziel? 
+**Anne:** Das klingt sehr gut. Wovon handelt das Stück "Night Screaming Moves"? Ich mag die Drone-Sounds und das Zusammenspiel aus Mellotron und Gitarren-Rückkopplungen sehr. Es hat etwas von düsteren Coen Filmen. War das Euer Ziel?
 
 **Dahm:** Manchmal kann man so müde sein, dass es Dir schwerfällt, einzuschlafen...
 
-**Reto:** ...und dann wachst Du auf und merkst, dass Du sehr wohl geschlafen hast. Und ja, es war unser Ziel, ein Traum- oder Alptraum Szenario zu erschaffen in Anlehnung an Horrorfilm-Soundtracks oder Film-Noir-Plots. Wir sind beide große Fans von Soundtracks.  
+**Reto:** ...und dann wachst Du auf und merkst, dass Du sehr wohl geschlafen hast. Und ja, es war unser Ziel, ein Traum- oder Alptraum Szenario zu erschaffen in Anlehnung an Horrorfilm-Soundtracks oder Film-Noir-Plots. Wir sind beide große Fans von Soundtracks.
 
 **Anne:** Dahm, wenn ich nach den besten Drummern gefragt werde, nenne ich Dich (und natürlich Paul Seidel). Auf den Mono Konzerten, auf denen ich bis jetzt war, hast Du mich immer extrem beeindruckt. Das sind für mich bleibende Erinnerungen, die niemals jemand löschen kann. Möchtest Du mir erzählen, was Dein Spiel geprägt hat und wie Du zu einem der besten Schlagzeuger aller Zeiten wurdest?
 
@@ -110,7 +110,7 @@ So haben wir das Schlagzeug zum größten Teil in Shelbyville, Kentucky von Zack
 
 **Reto:** Ich bin gelernter Hochbauzeichner und Zimmermann. Formen, Strukturen, Funktionalität, Farben, Oberflächen sind für uns im Allgemeinen auch Gesichtspunkte in der Musik. Und im konkreten Fall des Gebäudes auf dem Albumcover gibt es noch eine ganz spezielle Affinität, die gut zu JeGong passt: Das gleiche Gebäude existiert an zwei verschiedenen Orten und hat an beiden Orten ganz verschiedene Zwecke. An einem ist es ein Treffpunkt innerhalb einer Kleinstadt und am anderen eine Abfallverbrennungsanlage.
 
-Der äußere Unterschied liegt lediglich in der Innenhofgestaltung, wo bei der Verbrennungsanlage der Pool fehlt. Dieser kleine, letztlich auch bizarre Unterschied macht es aus, dass sich vermeintlich Gleiches, wie zum Beispiel in Wiederholungen, bei genauer Betrachtung völlig voneinander unterscheiden, ganz mit oder ohne Lächeln.  
+Der äußere Unterschied liegt lediglich in der Innenhofgestaltung, wo bei der Verbrennungsanlage der Pool fehlt. Dieser kleine, letztlich auch bizarre Unterschied macht es aus, dass sich vermeintlich Gleiches, wie zum Beispiel in Wiederholungen, bei genauer Betrachtung völlig voneinander unterscheiden, ganz mit oder ohne Lächeln.
 
 **Anne:** Danke für diesen Einblick! Das ist wirklich eine faszinierende Geschichte! Für Euer letztes Album habt Ihr teilweise remote gearbeitet – Reto, Du hast in der Schweiz aufgenommen und Dahm, Du in den USA. Während der Pandemie haben das ja viele Bands lieben gelernt. Geht es Euch auch so oder arbeitet Ihr lieber gemeinsam in einem Raum? Wie habt Ihr es dieses Mal gehandhabt?
 

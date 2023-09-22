@@ -5,17 +5,10 @@ typeName: Interview
 title: '"Die Stadttauben haben mehr Respekt verdient"'
 subTitle: Interview mit Hamburger Stadttauben e. V. Gründungsmitglied Andrea
 seoTitle: Hamburger Stadttauben e. V. Gründungsmitglied Andrea Interview
-description: Ich habe mich jetzt mit dem Gründungsmitglied des Hamburger
-  Stadttauben e. V. Andrea zu Interview verabredet und dabei einiges über
-  Tauben, ihre Herkunft und ihr trauriges Schicksal erfahren.
-excerpt: Vor einiger Zeit habe ich Euch den Hamburger Stadttauben e. V.
-  vorgestellt. Der Verein kümmert sich bei uns in Hamburger um das Wohlergehen
-  der viel gehassten Stadttauben und betreibt Aufklärung über das traurige
-  Schicksal der Tauben in unseren Städten und wie wir ihnen helfen können. Ich
-  habe mich jetzt mit Gründungsmitglied Andrea zu Interview verabredet und dabei
-  einiges über die Tiere gelernt.
+description: Ich habe mich jetzt mit dem Gründungsmitglied des Hamburger Stadttauben e. V. Andrea zu Interview verabredet und dabei einiges über Tauben, ihre Herkunft und ihr trauriges Schicksal erfahren.
+excerpt: Vor einiger Zeit habe ich Euch den Hamburger Stadttauben e. V. vorgestellt. Der Verein kümmert sich bei uns in Hamburger um das Wohlergehen der viel gehassten Stadttauben und betreibt Aufklärung über das traurige Schicksal der Tauben in unseren Städten und wie wir ihnen helfen können. Ich habe mich jetzt mit Gründungsmitglied Andrea zu Interview verabredet und dabei einiges über die Tiere gelernt.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/stadttauben-jpg-imagine-383838_8c8177_1024_768/640.webp
-copyrigt: Andrea privat
+copyright: Andrea privat
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/stadttauben-fb-png-imagine-484848_9d9082_1200_628/640.webp
 labels:
   - Stadttauben
@@ -50,17 +43,17 @@ Kurz vor der letzten Tauben-Mahnwache am Hamburger Bahnhof Altona kam ich mit An
 
 ## "Wir haben als Kinder keine Tauben aufgeschreckt"
 
-![Zwei Stadttauben sitzen auf einer Dachrinne.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-04-03-voegel-nachbarn-10final-jpg-imagine-686868_807e7f_4608_3456/640.webp "Zwei Stadttauben sitzen auf einer Dachrinne.")
+![Zwei Stadttauben sitzen auf einer Dachrinne.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-04-03-voegel-nachbarn-10final-jpg-imagine-686868_807e7f_4608_3456/640.webp 'Zwei Stadttauben sitzen auf einer Dachrinne.')
 
 **Andrea:** Oh ja, ich bekam meine erste Stadttaube im Alter von zehn Jahren. Sie hieß Nelli und ich pflegte sie gesund – so gut ich das damals konnte. Die Liebe und Achtung zu Tieren ist meiner Meinung nach Erziehungssache. In meiner Familie wurde alles respektiert. So trat man keine Pilze im Wald um und hob Käfer von der Straße auf, um sie ins Gebüsch zu setzen. Wir sind als Kinder auch keinen Tauben hinterhergelaufen, um sie aufzuschrecken.
 
 **Anne:** Die Geschichte unserer heutigen Stadttauben ist eng mit unserer verbunden. Menschen hielten sich bereits 6.000 v. Chr. Tauben als Haustiere. Ab dem Mittelalter wurden sie dann nachweislich nicht nur gezüchtet, gehalten und gegessen, sondern sogar verehrt. Das Ergebnis war, dass ihr Bestand immer weiter zunahm. Auch heute gibt es noch Taubenzüchter⋆innen, die zum Teil Unsummen für bestimmte Tauben zahlen. Dennoch bezeichnen viel Tauben als "die Ratten der Lüfte" und dichten ihnen unter anderem an, sie würden Krankheiten auf Menschen übertragen. Wie kommt es zu dieser Diskrepanz? Warum sind diese wunderbaren Wesen so missverstanden?
 
-**Andrea:** Du solltest mal die Leute draußen beobachten. Wenn ein Schwarm Brieftauben über die Menschen hinweg fliegt, erfreuen sie siech daran. Sobald aber vereinzelt oder in Grüppchen Tauben auf der Straße herumlaufen, sind sie automatisch "die Ratten der Lüfte". 
+**Andrea:** Du solltest mal die Leute draußen beobachten. Wenn ein Schwarm Brieftauben über die Menschen hinweg fliegt, erfreuen sie siech daran. Sobald aber vereinzelt oder in Grüppchen Tauben auf der Straße herumlaufen, sind sie automatisch "die Ratten der Lüfte".
 
 ## "Brieftauben werden geliebt, Stadttauben gehasst"
 
-Hier gilt es zu verstehen, dass es sich bei den einen um "gemeine" Haus- beziehungsweise Stadttauben handelt und bei den anderen um die hochgezüchteten "Sportgeräte" von Taubenzüchter⋆innen. 
+Hier gilt es zu verstehen, dass es sich bei den einen um "gemeine" Haus- beziehungsweise Stadttauben handelt und bei den anderen um die hochgezüchteten "Sportgeräte" von Taubenzüchter⋆innen.
 
 In einigen Ländern wurden oder werden Stadttauben auch verehrt. Muslim⋆innen lernen zum Beispiel durch einige Suren im Koran Achtung vor diesen Tieren. Bei uns ist das leider ziemlich sicher noch nie der Fall gewesen. Die als Haustier oder Nutztier gehaltene Taube (Eier-, Feder- und Fleischlieferant) wurde irgendwann nicht mehr gebraucht, weil die Menschen zu anderen Nutztieren übergingen. Aus diesem Grund ließ man sie einfach fliegen.
 
@@ -70,9 +63,9 @@ Natürlich gab und gibt es für diese Tiere keine adäquate Nahrung. Die Tauben 
 
 ## "Zuchttauben finden den Weg nach Hause nicht"
 
-![Stadttaube](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-28-taube-14-jpg-imagine-888888_8c898b_4608_3456/640.webp "Nahaufnahme von einer Stadttaube.")
+![Stadttaube](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-28-taube-14-jpg-imagine-888888_8c898b_4608_3456/640.webp 'Nahaufnahme von einer Stadttaube.')
 
-Die Brieftauben schließen sich als verirrte Hochleistungstiere der  Masse der Stadttauben an. Zuchttauben und Hochzeitstauben ergeht es ebenso. Zucht- und Hochzeitstauben verfügen über keinen ausgeprägten Orientierungssinn. Wenn sie einmal entflogen sind oder bei Hochzeiten als Friedenssymbol ausgesetzt wurden, finden meistens nie wieder in ihren Heimatschlag zurück.
+Die Brieftauben schließen sich als verirrte Hochleistungstiere der Masse der Stadttauben an. Zuchttauben und Hochzeitstauben ergeht es ebenso. Zucht- und Hochzeitstauben verfügen über keinen ausgeprägten Orientierungssinn. Wenn sie einmal entflogen sind oder bei Hochzeiten als Friedenssymbol ausgesetzt wurden, finden meistens nie wieder in ihren Heimatschlag zurück.
 
 **Anne:** Wie Du gerade berichtet hast, sind die Tauben, die heute in unseren Städten leben, ja nicht nur die Nachkommen der Tauben aus dem Mittelalter. Auch heute kommen immer wieder Nachzügler an. Also zum Beispiel die von Dir erwähnten Brieftauben und Hochzeitstauben, die sich verflogen haben. Wie kann das sein, dass immer noch Tauben nachgezüchtet werden, obwohl es immer heißt, man wolle sie loswerden?
 
@@ -90,19 +83,19 @@ Kaum ein⋆e Züchter⋆in interessiert sich dafür, wenn eine Brieftaube nicht 
 
 ## Der Brutzwang der Stadttauben ist angezüchtet
 
-![Eine Stadttaube sitzt auf einem Blumenkasten.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-13-taube-8-jpg-imagine-484808_767d56_4608_3456/640.webp "Eine Stadttaube sitzt auf einem Blumenkasten.")
+![Eine Stadttaube sitzt auf einem Blumenkasten.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-13-taube-8-jpg-imagine-484808_767d56_4608_3456/640.webp 'Eine Stadttaube sitzt auf einem Blumenkasten.')
 
 **Anne:** Was kann ich in der Großstadt tun, damit es den Tauben in meiner Umgebung besser geht? Leider ist das Füttern ja besonders an Wohnanlagen und Bürogebäuden oft strengstens untersagt. Gibt es trotzdem etwas, das ich für sie tun kann?
 
-**Andrea:** Das ist eine sehr gute Frage! Bitte nicht auf öffentlichem Grund füttern (auch das ist verboten!), wenn möglich auf private Grundstücke ausweichen und die Tauben dort versorgen. Traurigerweise sind Tauben durch das generelle Fütterungsverbot in der Öffentlichkeit von vornherein zum Verhungern verurteilt. 
+**Andrea:** Das ist eine sehr gute Frage! Bitte nicht auf öffentlichem Grund füttern (auch das ist verboten!), wenn möglich auf private Grundstücke ausweichen und die Tauben dort versorgen. Traurigerweise sind Tauben durch das generelle Fütterungsverbot in der Öffentlichkeit von vornherein zum Verhungern verurteilt.
 
-Da früher Tauben als Nutztiere gehalten wurden und unter anderem auch ihre Eier gegessen wurden,  unterliegen Tauben einem angezüchteten Brutzwang. Das bedeutet, dass sie bis zu achtmal in einem Jahr Eier legen – unabhängig davon, wie viel Nahrung ihnen zur Verfügung steht.
+Da früher Tauben als Nutztiere gehalten wurden und unter anderem auch ihre Eier gegessen wurden, unterliegen Tauben einem angezüchteten Brutzwang. Das bedeutet, dass sie bis zu achtmal in einem Jahr Eier legen – unabhängig davon, wie viel Nahrung ihnen zur Verfügung steht.
 
 Die Folge davon ist, dass etwa 90 Prozent aller Nestlinge verhungern, weil die Elterntiere nicht genügend Futter finden. Im Übrigen ist das Tauben-Fütterungsverbot ein Verstoß gegen das Tierschutzgesetz (TSchG). §1 des TSchG besagt nämlich, dass niemand einem Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen darf. Stadttauben auszuhungern und verhungern zu lassen ist alles andere außer Tierschutz-konform.
 
 ## Tauben sind durch das Fütterungsverbot dem Hungertod geweiht
 
-Auf öffentlichem Grund kann man aufmerksam nach kranken Tieren Ausschau halten und diese gegebenenfalls selbst hochnehmen und/oder uns benachrichtigen. 
+Auf öffentlichem Grund kann man aufmerksam nach kranken Tieren Ausschau halten und diese gegebenenfalls selbst hochnehmen und/oder uns benachrichtigen.
 
 **Anne:** Was sollte ich tun, wenn ich eine verletzte Taube finde? Also speziell in Hamburg und auch anderswo.
 
@@ -124,7 +117,7 @@ Wir haben aber selbstverständlich auch Pflegestellen, die kranke Tiere aufnehme
 
 ## "Wer Tauben gesundpflegen möchte, sollte sich von uns beraten lassen"
 
-![Zwei Stadttauben sitzen auf einem Baumstamm.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2018-06-19-kopenhagen-radtour-inkl-tivoli-49jpg-42725166724-o-jpg-imagine-383828_606057_3031_2273/640.webp "Zwei Stadttauben sitzen auf einem Baumstamm.")
+![Zwei Stadttauben sitzen auf einem Baumstamm.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2018-06-19-kopenhagen-radtour-inkl-tivoli-49jpg-42725166724-o-jpg-imagine-383828_606057_3031_2273/640.webp 'Zwei Stadttauben sitzen auf einem Baumstamm.')
 
 **Anne:** Erzähl mir in diesem Zusammenhang doch bitte auch noch, warum davon abzuraten ist, einfach so eine Taube mit nach Hause zu nehmen und aufzupäppeln. Ich denke, das ist ein wichtiger Punkt!
 
@@ -132,7 +125,7 @@ Wir haben aber selbstverständlich auch Pflegestellen, die kranke Tiere aufnehme
 
 **Anne:** Ich glaube, viele kennen das: Irgendjemand berichtet einem im Gespräch, dass ihm⋆ihr Tauben auf dem heimischen Balkon begegnet sind und die nun unbedingt vertrieben werden müssen. Ich alleine könnte Dir unzählige solcher Geschichten erzählen. Wie kann man zum Beispiel seine Nachbarn oder Hausmeister⋆innen davon abhalten, Tauben zu vergrämen? Hast Du ein paar gute Argumente für mich?
 
-**Andrea:** Taubenhasser⋆innen haben die Möglichkeit, sich die Tiere durch ein Netz vom Balkon zu halten. Hat die Taube allerdings schon ein Nest dort gebaut, in welchem Nestlinge sitzen, müssen die Leute lt. TSchG  die Kleinen flügge werden lassen und dürfen erst danach den Balkon Tierschutz-konform vergrämen. 
+**Andrea:** Taubenhasser⋆innen haben die Möglichkeit, sich die Tiere durch ein Netz vom Balkon zu halten. Hat die Taube allerdings schon ein Nest dort gebaut, in welchem Nestlinge sitzen, müssen die Leute lt. TSchG die Kleinen flügge werden lassen und dürfen erst danach den Balkon Tierschutz-konform vergrämen.
 
 Wenn es überhaupt nicht anders geht, versuchen wir die Nestlinge bei unseren Tauben-Ammen unterzubringen. Sie ziehen die Tauben dann groß. Das ist allerdings ein schwieriges Unterfangen und wir versuchen das nur im äußersten Notfall.
 
@@ -146,13 +139,13 @@ Wenn es überhaupt nicht anders geht, versuchen wir die Nestlinge bei unseren Ta
 
 **Andrea:** Sie wird von erfahrenen Mitgliedern erstversorgt und dann falls nötig zu unserer Tierärztin gebracht. Je nachdem, wie es ihr geht, kommt sie dann in eine Pflegestelle, wo sie hoffentlich gesund werden kann.
 
-**Anne:** Wie kann ich mir denn so einen typischen Tagesablauf beim Hamburger Stadttauben e. V. vorstellen? Es gibt ja sicher auch sonst noch wahnsinnig viel zu tun, oder? 
+**Anne:** Wie kann ich mir denn so einen typischen Tagesablauf beim Hamburger Stadttauben e. V. vorstellen? Es gibt ja sicher auch sonst noch wahnsinnig viel zu tun, oder?
 
 ## "Ich bin 24/7/365 für die Tauben da"
 
-**Andrea:** Es kommt immer darauf an, welche Notfälle wann eintreffen und dann natürlich bearbeitet werden müssen.  Ich zum Beispiel stehe 24/7/365 für die Tauben zur Verfügung. Tiere fragen nicht nach Urlauben, Arbeitszeiten oder Feiertagen 
+**Andrea:** Es kommt immer darauf an, welche Notfälle wann eintreffen und dann natürlich bearbeitet werden müssen. Ich zum Beispiel stehe 24/7/365 für die Tauben zur Verfügung. Tiere fragen nicht nach Urlauben, Arbeitszeiten oder Feiertagen
 
-Die Betreuung unseres Lebenshofes für Tiere, die nicht mehr ausgewildert werden können, muss gewährleistet sein. Genauso wie die Betreuung des Taubenschlages im Hauptbahnhof durch ehrenamtliche Helfer. Hinzu kommt die Öffentlichkeitsarbeit wie der Kontakt zu Behörden und natürlich auch Presse, Funk und Fernsehen wird gehalten und ausgeweitet. 
+Die Betreuung unseres Lebenshofes für Tiere, die nicht mehr ausgewildert werden können, muss gewährleistet sein. Genauso wie die Betreuung des Taubenschlages im Hauptbahnhof durch ehrenamtliche Helfer. Hinzu kommt die Öffentlichkeitsarbeit wie der Kontakt zu Behörden und natürlich auch Presse, Funk und Fernsehen wird gehalten und ausgeweitet.
 
 Der Austausch in unseren internen Hilfsgruppen per WhatsApp und Telefon ist täglich notwendig. Unser Taubenschlag von der SAGA (kommunales Wohnungsunternehmen) im Hamburger Stadtteil Mümmelmannsberg wird durch eine 450 Euro-Kraft betreut, mit welcher wir regelmäßig kommunizieren. Darüber hinaus gibt es eine Vielzahl von Aktivitäten intern, um den Taubenverein am Laufen zu halten.
 
@@ -164,7 +157,7 @@ Wir freuen uns über jede⋆n neue⋆n Mitstreiter⋆innen. Wir können es nur g
 
 ## "Das Augsburger Modell hilft auch in Hamburg"
 
-**Andrea:** Auch wir tauschen Taubeneier im Nest gegen Gipseier aus, um die Taubenpopulationen zu verringern. Wir haben ja in Hamburg zwei betreute Taubenschläge nach dem Augsburger Modell, in denen wir die Gelege gegen Gipseier tauschen. Ich bezeichne es einfach mal als natürliche Schwangerschaftsverhütung. 
+**Andrea:** Auch wir tauschen Taubeneier im Nest gegen Gipseier aus, um die Taubenpopulationen zu verringern. Wir haben ja in Hamburg zwei betreute Taubenschläge nach dem Augsburger Modell, in denen wir die Gelege gegen Gipseier tauschen. Ich bezeichne es einfach mal als natürliche Schwangerschaftsverhütung.
 
 Dadurch, dass die Taube auf Kunsteiern weiter brüten kann und ihr Zyklus dadurch nicht gestört wird, bleibt sie auch gesund und im Schlag. Alleine im vergangenen Jahr 2020 haben wir in unserem betreuten Taubenschlag am Hamburger Hauptbahnhof 800 Eier getauscht. Das heißt: 800 Küken und deren Nachkommen sind gar nicht erst geschlüpft. Diese Zahlen sprechen doch für sich.
 
@@ -176,18 +169,10 @@ Dadurch, dass die Taube auf Kunsteiern weiter brüten kann und ihr Zyklus dadurc
 
 Wenn Ihr den Verein gerne mit Spenden unterstützen möchte, könnt Ihr sie an das folgende Konto überweisen:
 
-Hamburger Stadttauben e.V.<br />
-Stichwort: Tierhilfefond Tauben<br />
-Hamburger Sparkasse<br />
-Kontonr. 1244131619<br />
-BLZ 200 505 50<br />
-IBAN DE44200505501244131619<br />
-BIC HASPDEHHXXX<br />
+Hamburger Stadttauben e.V.<br /> Stichwort: Tierhilfefond Tauben<br /> Hamburger Sparkasse<br /> Kontonr. 1244131619<br /> BLZ 200 505 50<br /> IBAN DE44200505501244131619<br /> BIC HASPDEHHXXX<br />
 
 [Meinen Artikel über den Hamburger Stadttauben e. V. findet Ihr hier](/2016/05/hamburger-stadttauben-e-v/).
 
-[^1]: Das Beratungstelefon des Stadttauben e. V. Hamburg lautet:
-040 / 210 401 70
-[^2]: Auch der Hamburger Tierschutzverein kann helfen:
-040 / 211 10 60
+[^1]: Das Beratungstelefon des Stadttauben e. V. Hamburg lautet: 040 / 210 401 70
+[^2]: Auch der Hamburger Tierschutzverein kann helfen: 040 / 211 10 60
 [^3]: Mehr Infos zum Hamburger Stadttauben e. V. [findet Ihr hier](https://www.hamburgerstadttauben.de/).

@@ -5,16 +5,10 @@ typeName: Beitrag
 title: Playlist März 2023
 subTitle: Von BRUIT ≤ bis Zakè
 seoTitle: Alternative Playlist März 2023
-description: Diese zehn Songs solltet Ihr im März nicht verpassen. Von Post-Rock
-  bis Ambient und von Metal bis Stoner. Jetzt hören!
-excerpt: "Es ist so weit: Es geht wieder los mit der nächsten Songrunde. Die
-  insgesamt zehn Stücke, die ich gemeinsam mit meinen beiden Lieblings-Musikfans
-  ausgesucht habe, sollen Euch wie als Anregung dienen, falls vorhanden, die
-  kompletten Platten der erwähnten Bands zu hören – für den vollen Musikgenuss.
-  Trotzdem habe ich weiter unten selbstverständlich wieder fertige Playlists für
-  Spotify und iTunes für Euch – als Inspirationsquelle für den nächsten Monat."
+description: Diese zehn Songs solltet Ihr im März nicht verpassen. Von Post-Rock bis Ambient und von Metal bis Stoner. Jetzt hören!
+excerpt: 'Es ist so weit: Es geht wieder los mit der nächsten Songrunde. Die insgesamt zehn Stücke, die ich gemeinsam mit meinen beiden Lieblings-Musikfans ausgesucht habe, sollen Euch wie als Anregung dienen, falls vorhanden, die kompletten Platten der erwähnten Bands zu hören – für den vollen Musikgenuss. Trotzdem habe ich weiter unten selbstverständlich wieder fertige Playlists für Spotify und iTunes für Euch – als Inspirationsquelle für den nächsten Monat.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-24/playlist-maerz-2023-1-jpg-imagine-080808_606065_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-24/playlist-maerz-2023-og-1-jpg-imagine-080808_606266_1200_628/640.webp
 labels:
   - D﻿epeche Mode
@@ -45,6 +39,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Es ist so weit: Es geht wieder los mit der nächsten Songrunde. Die insgesamt zehn Stücke, die ich gemeinsam mit meinen beiden Lieblings-Musikfans ausgesucht habe, sollen Euch wie immer als Anregung dienen, die kompletten Platten der erwähnten Bands zu hören – für den vollen Musikgenuss. Trotzdem habe ich weiter unten selbstverständlich wieder fertige Playlists für Spotify und iTunes für Euch – als Inspirationsquelle für den nächsten Monat. Sofern die Bands mit ihrer Musik dort vertreten sind, habe ich die Stücke hinzugefügt. Ansonsten findet Ihr sie wie immer auch im Text. Viel Spaß beim Hören.**
 
 Diesen Monat macht Valentin den Anfang mit einer uns allen sehr vertrauten Band. Vorhang auf für Depeche Mode. Ich übergebe das Wort an dieser Stelle an Valentin. Seine drei Songs sind diesen Monat als erste dran.
@@ -71,19 +66,35 @@ Diesen Monat macht Valentin den Anfang mit einer uns allen sehr vertrauten Band.
 
 Habt Ihr [mein BRUIT ≤ Interview hier im Blog schon gelesen](/2023/02/bruit-interview/)? Ich habe mich mit Gitarrist Théophile Antolinos vor ein paar Tagen ausführlich über den Protestsong der Band "The Boycott Manifesto", ihren Spotify-Boykott unterhalten. Das und die Ungerechtigkeit der Algorithmen auf den Streaming-Plattformen und in den sozialen Netzwerken, die heute den Erfolg oder das Scheitern von Musiker⋆innen und anderen Kreativen zu bestimmen scheinen. [Lesen lohnt sich sehr](/2023/02/bruit-interview/) – Im Interview gibt es auch News zu den Album-Gerüchten für Euch!
 
-Hier nochmal der Hinweis (obwohl eingangs schon erwähnt): Den hier angefügten Song "La Sagesse de Nos Aïeux" von der neuen EP "Apologie du temps Perdu Vol.1" solltet Ihr unbedingt zusammen mit dem Rest der Platte zu hören. Es handelt sich dabei um den Opener, der den Grundstein für außergewöhnlichen Hörgenuss legt. Nehmt Euch bitte die Zeit und hört Euch alle drei Stücke an – die Musik dieser Band ist dazu gemacht, von vorn bis hinten gehört zu werden. So erzählt auch "Apologie du temps Perdu Vol.1" eine Geschichte, die sich vermutlich fortsetzen wird. Erkennt Ihr den Cliffhanger?  Hier noch ein paar Insights zur EP: Nachdem das Quartett aus dem französischen Toulouse sich im letzten Jahr auf den Bühnen Europas gezeigt hatte, wurde es Zeit für eine Phase der Ruhe und Meditation. Daraus ist "Apologie du temps Perdu Vol.1" hervorgegangen – eine Ode an die Verschwendung unserer Zeit. Kleiner Tipp: Ihr könnt die komplette EP [unter meinem BRUIT ≤ Interview finden](/2023/02/bruit-interview/) und direkt an Ort und Stelle anhören.
+Hier nochmal der Hinweis (obwohl eingangs schon erwähnt): Den hier angefügten Song "La Sagesse de Nos Aïeux" von der neuen EP "Apologie du temps Perdu Vol.1" solltet Ihr unbedingt zusammen mit dem Rest der Platte zu hören. Es handelt sich dabei um den Opener, der den Grundstein für außergewöhnlichen Hörgenuss legt. Nehmt Euch bitte die Zeit und hört Euch alle drei Stücke an – die Musik dieser Band ist dazu gemacht, von vorn bis hinten gehört zu werden. So erzählt auch "Apologie du temps Perdu Vol.1" eine Geschichte, die sich vermutlich fortsetzen wird. Erkennt Ihr den Cliffhanger? Hier noch ein paar Insights zur EP: Nachdem das Quartett aus dem französischen Toulouse sich im letzten Jahr auf den Bühnen Europas gezeigt hatte, wurde es Zeit für eine Phase der Ruhe und Meditation. Daraus ist "Apologie du temps Perdu Vol.1" hervorgegangen – eine Ode an die Verschwendung unserer Zeit. Kleiner Tipp: Ihr könnt die komplette EP [unter meinem BRUIT ≤ Interview finden](/2023/02/bruit-interview/) und direkt an Ort und Stelle anhören.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1433531461/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=672929186/transparent=true/" seamless><a href="https://bruitofficial.bandcamp.com/album/apologie-du-temps-perdu-vol-1">Apologie du temps perdu, Vol. 1 by BRUIT ≤</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=1433531461/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=672929186/transparent=true/"
+  seamless
+>
+  <a href="https://bruitofficial.bandcamp.com/album/apologie-du-temps-perdu-vol-1">
+    Apologie du temps perdu, Vol. 1 by BRUIT ≤
+  </a>
+</iframe>
 
 ## Zakè + Markus Guentner + James Bernard – "Polar Night" vom Album "Pyramiden"
 
 Zakè, Markus Guentner und James Bernard haben gemeinsam ein neues Album aufgenommen. Den zweiten Song "Polar Night" teile ich an dieser Stelle mit Euch, damit Ihr Euch einen Eindruck verschaffen könnt. Die insgesamt acht von unterschiedlichen Landschaften inspirierten Songs bieten Euch Hörgenuss auf höchstem Niveau. Begebt Euch mit "Pyramiden" auf eine Reise an die abgelegensten Orte und findet Ruhe in der Schönheit der Stille beeindruckender Landschaften und von Nordlicht erhellter Wunder.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1926467933/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=918893232/transparent=true/" seamless><a href="https://zakedrone.bandcamp.com/album/pyramiden">Pyramiden by zakè ◾️ Markus Guentner ◾️ James Bernard</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=1926467933/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=918893232/transparent=true/"
+  seamless
+>
+  <a href="https://zakedrone.bandcamp.com/album/pyramiden">
+    Pyramiden by zakè ◾️ Markus Guentner ◾️ James Bernard
+  </a>
+</iframe>
 
 ## Mono – "Silent Embrace" von EP "Heaven, Vol. I"
 
-Die neue Mono EP "Heaven, Vol. I" ist heute erschienen. Insgesamt sind drei Songs drauf, den dritten teile ich hier mit Euch. Die Band aus Tokio ließ sich ja schon immer gerne von den dunklen und hellen Seiten des Lebens inspirieren. Seit mehr als zwei Jahrzehnten ist sie jetzt unterwegs. Sie kommentieren "Silent Embrace" so: 
+Die neue Mono EP "Heaven, Vol. I" ist heute erschienen. Insgesamt sind drei Songs drauf, den dritten teile ich hier mit Euch. Die Band aus Tokio ließ sich ja schon immer gerne von den dunklen und hellen Seiten des Lebens inspirieren. Seit mehr als zwei Jahrzehnten ist sie jetzt unterwegs. Sie kommentieren "Silent Embrace" so:
 
 > "Es ist Zeit vergangen und wir sind erwachsen geworden. Das Leben erklimmt und überwindet viele steile Berge, aber der Grund, warum wir immer noch dazu in der Lage sind, weiterzugehen, sind unsere Lieben, unsere Kolleg⋆innen, Freund⋆innen und Familien. Sie stehen uns still zur Seite und geben uns Stärke und Kraft. Mit diesem Song wollten wir unsere Dankbarkeit dafür zum Ausdruck bringen."
 
@@ -105,7 +116,7 @@ Weiter geht es mit Matzes Songs. Er hat diesen Monat unter anderem ein bisschen 
 
 ## Stoned Jesus - "Thoughts and Prayers" (Vorauskopplung vom Album "Father Light")
 
-> "Meine Tipps diesen Monat zeichnen eine kleine Weltreise nach. Mit Stoned Jesus sind wir in der Ukraine angelangt. Und gleichzeitig im Stoner Rock Genre. Man kann sich die Songs aber auch gut als Untermalung einer Nachkriegsödnis ('Gardens of Stone') vorstellen. Unbedingt empfehlen und unterstützen! Das Album erscheint im März." 
+> "Meine Tipps diesen Monat zeichnen eine kleine Weltreise nach. Mit Stoned Jesus sind wir in der Ukraine angelangt. Und gleichzeitig im Stoner Rock Genre. Man kann sich die Songs aber auch gut als Untermalung einer Nachkriegsödnis ('Gardens of Stone') vorstellen. Unbedingt empfehlen und unterstützen! Das Album erscheint im März."
 
 <YouTube id="H6kDj-HlQdg" />
 
@@ -122,4 +133,11 @@ Weiter geht es mit Matzes Songs. Er hat diesen Monat unter anderem ein bisschen 
 
 ## Die März-Playlist auf YouTube
 
-<iframe style="aspect-ratio: 16 / 9; width: 100%" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUKhu8bWmyrQPN1LZc2tOMUr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe
+  style="aspect-ratio: 16 / 9; width: 100%"
+  src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUKhu8bWmyrQPN1LZc2tOMUr"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+></iframe>

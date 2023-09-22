@@ -5,16 +5,10 @@ typeName: Produkttest
 title: Ligarti – die Tiermanufaktur
 subTitle: Viel Liebe für Tiere und fürs Detail
 seoTitle: Ligarti – die Tiermanufaktur – Kunst mit Liebe fürs Detail
-description: "Hanna, Alex und Sami haben gemeinsam die Tiermanufaktur Ligarti
-  gegründet. Dahinter steckt ein Projekt, das handgemachte Kunst auf
-  Alltagsgegenstände druckt. Im Mittelpunkt: Tiere und die Liebe fürs Detail."
-excerpt: Ligarti – das sind im Kern Hanna, Alex und Sami. Die drei haben die
-  Tiermanufaktur gegründet und verkaufen handgemachte Kunst, die sie auf die
-  unterschiedlichsten Objekte drucken – wie zum Beispiel T-Shirts. Ich habe mir
-  das Start-up jetzt mal angeschaut und inzwischen selbst eines davon im
-  Schrank.
+description: 'Hanna, Alex und Sami haben gemeinsam die Tiermanufaktur Ligarti gegründet. Dahinter steckt ein Projekt, das handgemachte Kunst auf Alltagsgegenstände druckt. Im Mittelpunkt: Tiere und die Liebe fürs Detail.'
+excerpt: Ligarti – das sind im Kern Hanna, Alex und Sami. Die drei haben die Tiermanufaktur gegründet und verkaufen handgemachte Kunst, die sie auf die unterschiedlichsten Objekte drucken – wie zum Beispiel T-Shirts. Ich habe mir das Start-up jetzt mal angeschaut und inzwischen selbst eines davon im Schrank.
 image: https://storage.googleapis.com/cardamonchai-media/2022-08-08/2022-07-31-ligarti-13-jpg-imagine-080808_565a54_2048_1365/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-08-08/ligarti-die-tiermanufaktur-fb-jpeg-imagine-080808_6f6f6a_1200_628/640.webp
 labels:
   - vegan Beauty
@@ -32,6 +26,7 @@ advertisement: true
 affiliate: false
 language: de
 ---
+
 **Ligarti – das sind im Kern Hanna, Alex und Sami. Die drei haben die Tiermanufaktur gegründet und verkaufen handgemachte Kunst, die sie auf die unterschiedlichsten Objekte drucken – wie zum Beispiel T-Shirts. Ich habe mir das Start-up jetzt mal angeschaut und inzwischen selbst eines davon im Schrank.**
 
 Hanna ist schon ihr ganzes Leben lang Künstlerin. Seit sie denken kann, faszinieren sie besonders Tiere. Neben ihrer Malerei bedruckte sie auch schon vor Ligarti Dinge wie T-Shirts und verkaufte sie unter anderem bei Straßenfesten. Dort lernte sie dann auch Alex kennen. Die beiden gründeten zunächst Animal Hoarding. Hinter diesem Namen steht Hannas Tierwelt, die die beiden auf T-Shirts, Postkarten und Drucken verkauften.
@@ -44,7 +39,7 @@ Schon nach den ersten Messebesuchen stelle sich heraus: Es sollte mehr aus ihrem
 
 Der Name ist eine Kombination aus Hannas Nachnamen Ligarti und dem englischen Wort für Kunst – also "Art". Das Projekt soll nach und nach Hannas Kunstwelt auf hochwertige, handgefertigte Produkte bringen. Massenproduktion kommt für das Dreiergespann nicht infrage.
 
-> "Wir wollen kunstvolle und wertige Dinge erschaffen, an denen sich die Menschen immer wieder erfreuen können," 
+> "Wir wollen kunstvolle und wertige Dinge erschaffen, an denen sich die Menschen immer wieder erfreuen können,"
 
 berichtete mir Alex und ich finde: Das Konzept geht auf. Ich meine, schaut Euch mal den süßen Tukan-Kühlschrank-Magneten auf meinen Bildern an. Großartig, oder? [Bei Ligarti findet Ihr noch viele weitere tolle Motive](https://ligarti.com/collections/magneten). Diese Liebe fürs Detail setzt sich im Artwork auf dem T-Shirt und bei der hübschen [Postkarte](https://ligarti.com/collections/postkarten) mit dem Yoga-Silberfuchs fort – und auf den vielen anderen Produkten, die Ihr [im Ligarti Onlineshop](https://ligarti.com/) findet. Auch den gibt es nämlich inzwischen und das Stöbern dort ist ein echter Genuss.
 
@@ -54,7 +49,7 @@ Kein Wunder: Hanna arbeitet mit viel Feingefühl und bringt filigrane Vogelfeder
 
 Und hier kommt noch ein Geheimtipp für Euren nächsten Wuppertal-Besuch: Schaut dort unbedingt im Ligarti Tiermanufaktur Store vorbei – es lohnt sich wirklich sehr!  Ihr findet dort neben Tassen und Bambus-Postkarten mit Hannas Kunst darauf auch wundervolle Kunstdrucke, Fliesen und viele weitere schöne Dinge. Ihr seid aus Wuppertal und irgendwann weggezogen? In der "Heim-W-Ecke" halten die Ligartis allerlei Schönes mit Wuppertal-Bezug für Euch bereit. Im Laden könnt Ihr übrigens auch direkt einen Kaffee genießen. Klingt gut, oder?
 
-Falls Ihr in naher Zukunft erst mal keine Zeit für eine Reise habt, bleibt Euch natürlich immer noch [der Onlineshop der Tiermanufaktur](https://ligarti.com/collections/postkarten). Ich wünsche Euch viel Spaß beim Stöbern! Alle Motive hat Hanna selbst gestaltet. Die Produkte stellt Ligarti entweder selbst her oder arbeitet mit Partner*innen innerhalb Europas zusammen. Der Versand erfolgt klimaneutral.
+Falls Ihr in naher Zukunft erst mal keine Zeit für eine Reise habt, bleibt Euch natürlich immer noch [der Onlineshop der Tiermanufaktur](https://ligarti.com/collections/postkarten). Ich wünsche Euch viel Spaß beim Stöbern! Alle Motive hat Hanna selbst gestaltet. Die Produkte stellt Ligarti entweder selbst her oder arbeitet mit Partner\*innen innerhalb Europas zusammen. Der Versand erfolgt klimaneutral.
 
 ## Mein T-Shirt von der Tiermanufaktur Ligarti
 
@@ -67,8 +62,3 @@ Es ist von guter Qualität, passt perfekt und der Aufdruck kommt sehr gut raus. 
 Aber, wie gesagt: Schaut am besten einfach mal rein. Falls Ihr auf der Suche nach kleinen Geschenken für Eure Lieben oder Euch selbst seid, werdet Ihr hier auf jeden Fall fündig. Vom [Kunstdruck](https://ligarti.com/collections/kunstdrucke) bis zum [Windlicht](https://ligarti.com/collections/windlichter) findet Ihr hier wirklich alles – mit garantiert viel Liebe zum Tier und zum Detail.
 
 <Gallery name="ligarti-2" />
-
-
-
-
-

@@ -5,16 +5,10 @@ typeName: Review
 title: Seasons By Breaths feat. Chad Kapper & Dimwind
 subTitle: A Very Special Split-EP
 seoTitle: Seasons By Breaths & Dimwind – Post-Rock-Review
-description: Life always has surprises in store. One that really stands out
-  happened to me some days ago when I realised Dimwind and Breaths decided to
-  record a split-EP together after reading my articles about each other on my
-  blog.
-excerpt: For me, as a music blogger, life always has surprises in store. One
-  that really stands out happened to me some days ago when I realised that two
-  of my favourite post-music projects – Dimwind and Breaths – decided to record
-  a split-EP together after reading my articles about each other on my blog.
+description: Life always has surprises in store. One that really stands out happened to me some days ago when I realised Dimwind and Breaths decided to record a split-EP together after reading my articles about each other on my blog.
+excerpt: For me, as a music blogger, life always has surprises in store. One that really stands out happened to me some days ago when I realised that two of my favourite post-music projects – Dimwind and Breaths – decided to record a split-EP together after reading my articles about each other on my blog.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-28/breaths-dimwind-jpg-imagine-080808_4a534c_1024_768/640.webp
-copyrigt: Dimwind/Breaths
+copyright: Dimwind/Breaths
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-28/breaths-dimwind-fb-jpg-imagine-080808_49534b_1200_628/640.webp
 labels:
   - Heavy Music
@@ -35,15 +29,16 @@ affiliate: false
 language: en
 languageLink: /2022/04/breaths-dimwind-seasons/
 ---
+
 **For me, as a music blogger, life always has surprises in store. One that really stands out happened to me some days ago when I realised that two of my favourite post-music projects – Dimwind and Breaths – decided to record a split-EP together after reading my articles about each other on my blog.**
 
-Yes,  you read that right: The split EP "Seasons" by Breaths (feat. Chad Kapper of Frontierer) and Dimwind would certainly not exist without [my interview with Breaths founder Jason](/2021/02/breaths-interview-en), [the one with Dimwind founder Jonas](/2021/06/dimwind-interview-en) and my reviews of their debut records ["Slow Wave Violence" (Dimwind)](/2021/05/dimwind-slow-wave-violence-en) and ["Though Life" (Breaths)](/2021/10/breaths-though-life-en/). 
+Yes, you read that right: The split EP "Seasons" by Breaths (feat. Chad Kapper of Frontierer) and Dimwind would certainly not exist without [my interview with Breaths founder Jason](/2021/02/breaths-interview-en), [the one with Dimwind founder Jonas](/2021/06/dimwind-interview-en) and my reviews of their debut records ["Slow Wave Violence" (Dimwind)](/2021/05/dimwind-slow-wave-violence-en) and ["Though Life" (Breaths)](/2021/10/breaths-though-life-en/).
 
 When I read Jason's message about this, I was pretty overwhelmed. It is a tremendous honour for me, and I am proud of "my" record. I mean: In a way, it totally makes sense. Musicians also read blogs and feel inspired by the music of their colleagues, and it is also apparent that people are texting and exchanging ideas via social networks like all the time. But what a fantastic coincidence that my blog was a decisive part of this chain. I would never have dared to dream that my articles would lead to something great like this EP. To be honest: It feels quite magical.
 
 ## Dimwind and Breaths made a record together after they met over reading my blog
 
-![Dimwind/Breaths (feat. Chad Kapper of Frontierer) – "Seasons"](https://storage.googleapis.com/cardamonchai-media/2022-04-28/seasons-png-imagine-180818_322b3b_3000_3000/640.webp "Dimwind/Breaths (feat. Chad Kapper of Frontierer) – \"Seasons\"")
+![Dimwind/Breaths (feat. Chad Kapper of Frontierer) – "Seasons"](https://storage.googleapis.com/cardamonchai-media/2022-04-28/seasons-png-imagine-180818_322b3b_3000_3000/640.webp 'Dimwind/Breaths (feat. Chad Kapper of Frontierer) – "Seasons"')
 
 I already mentioned "Seasons" briefly in the [Music List for May](/2022/04/playlist-mai-2022/) – the Dimwind track "Window Passed" is part of the playlist. Of course, already had the press release for the record in my inbox by this time. However, I had not yet read Jason's personal message to me. Here's what he texted me:
 
@@ -59,4 +54,12 @@ If you don't know the music of Dimwind and Breaths yet: stylistically, it tends 
 
 The split EP "Seasons" consists of the two songs "Window Passed" (15:38) by Dimwind and "When Soft Voices Die" (14:55) by Breaths featuring Chad Kapper (Frontierer).
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4268057695/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://breaths.bandcamp.com/album/seasons-breaths-dimwind-split">Seasons ( BREATHS / DIMWIND - Split) by BREATHS / DIMWIND</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=4268057695/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://breaths.bandcamp.com/album/seasons-breaths-dimwind-split">
+    Seasons ( BREATHS / DIMWIND - Split) by BREATHS / DIMWIND
+  </a>
+</iframe>

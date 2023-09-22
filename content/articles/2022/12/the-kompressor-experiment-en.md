@@ -5,14 +5,10 @@ typeName: Interview
 title: The Kompressor Experiment
 subTitle: '"The Alternative Music Scene deserves much more Support"'
 seoTitle: The Kompressor Experiment – post-rock interview
-description: Want to know more about the Swiss-based progressive post-music
-  project, The Kompressor Experiment? Read my interview!
-excerpt: The Kompressor Experiment is a progressive post-music project from
-  Switzerland. I now sat down with them to talk about their current album, "Ebb
-  & Flow", which I guess should appeal especially to fans of bands like The
-  Ocean or Russian Circles.
+description: Want to know more about the Swiss-based progressive post-music project, The Kompressor Experiment? Read my interview!
+excerpt: The Kompressor Experiment is a progressive post-music project from Switzerland. I now sat down with them to talk about their current album, "Ebb & Flow", which I guess should appeal especially to fans of bands like The Ocean or Russian Circles.
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-23/the-kompressor-experiment-jpg-imagine-080808_161616_1024_768/640.webp
-copyrigt: The Kompressor Experiment
+copyright: The Kompressor Experiment
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-23/the-kompressor-experiment-og-jpg-imagine-080808_131313_1200_628/640.webp
 labels:
   - The Kompressor Experiment
@@ -30,6 +26,7 @@ affiliate: false
 language: en
 languageLink: 2022/12/the-kompressor-experiment/
 ---
+
 **The Kompressor Experiment is a progressive post-music project from Switzerland. I now sat down with them to talk about their current album, "Ebb & Flow", which I guess should appeal especially to fans of bands like The Ocean or Russian Circles.**
 
 The band's sophisticated, dark sound is beautifully heavy and versatile. On the record, I especially like the sudden mood changes. They perfectly fit with its title: Waves of sound pile up in phases, only to hold back again before finally reappearing and rolling over the melodic beach full force. So let's talk about it and some other Kompressor Experiment-related stuff.
@@ -42,9 +39,9 @@ The band's sophisticated, dark sound is beautifully heavy and versatile. On the 
 
 ## "'2001: A Space Odyssey' and 'Twin Peaks' inspired us"
 
-![The Kompressor Experiment – "Ebb & Flow"](https://storage.googleapis.com/cardamonchai-media/2022-12-23/the-kompressor-experiment-og-jpg-imagine-080808_131313_1200_628/640.webp "The Kompressor Experiment – \"Ebb & Flow\"")
+![The Kompressor Experiment – "Ebb & Flow"](https://storage.googleapis.com/cardamonchai-media/2022-12-23/the-kompressor-experiment-og-jpg-imagine-080808_131313_1200_628/640.webp 'The Kompressor Experiment – "Ebb & Flow"')
 
-**TKE:** We based our last album on the writing of a new score for "2001: A Space Odyssey". This time, we wanted to deal with a more abstract theme and decided on the final concept after we wrote most of the songs. Broadly speaking, the theme of "Ebb & Flow" would be the History of humankind, from its humble beginning to today. The songs speak of many things, such as the early struggles of our civilization, expansion, war, creation, destruction, resilience and so on. 
+**TKE:** We based our last album on the writing of a new score for "2001: A Space Odyssey". This time, we wanted to deal with a more abstract theme and decided on the final concept after we wrote most of the songs. Broadly speaking, the theme of "Ebb & Flow" would be the History of humankind, from its humble beginning to today. The songs speak of many things, such as the early struggles of our civilization, expansion, war, creation, destruction, resilience and so on.
 
 I think the perfect movie would be a time-lapse of the earth from prehistory to today, a distanced and unjudging view of our evolutions, for the better and worse. That, or some surrealist shit: an excellent concrete example would be the fantastic 8th episode of "Twin Peaks: The Return", which perfectly fits "Castle Bravo II'"s ambiance.
 
@@ -58,13 +55,13 @@ I think the perfect movie would be a time-lapse of the earth from prehistory to 
 
 **Anne:**: I'm very much looking forward to listening to "Ebb & Flow" live in its entirety. How was it to record these songs all in one piece?
 
-**TKE:** We had to record each song up to four to five times to get enough video shots, and we chose the best take for the audio. We did it all in one day—which was a bit of a mistake because it was really exhausting. You can see our vital force abandoning us in the last ten minutes of the session. For similar projects in the future, we will definitely split the session into two or three days. In the end, we're really proud of the final result. The light show is stunning, the session sounds excellent, and the editing is quite dynamic. It looks quite professional for 100 per cent self-funded production. We hope people will love it and rediscover our album from a new angle. A little game for the most careful viewers: there is a subliminal image somewhere in this 45 minutes live session. Let us know if you catch it 
+**TKE:** We had to record each song up to four to five times to get enough video shots, and we chose the best take for the audio. We did it all in one day—which was a bit of a mistake because it was really exhausting. You can see our vital force abandoning us in the last ten minutes of the session. For similar projects in the future, we will definitely split the session into two or three days. In the end, we're really proud of the final result. The light show is stunning, the session sounds excellent, and the editing is quite dynamic. It looks quite professional for 100 per cent self-funded production. We hope people will love it and rediscover our album from a new angle. A little game for the most careful viewers: there is a subliminal image somewhere in this 45 minutes live session. Let us know if you catch it
 
 **Anne:**: You released your first record in 2016. Was this also the year of your band foundation?
 
 **TKE:** I guess the foundation year would be 2014, as we began to play structured songs in concerts then. At first, we were more of a jam band. Our founding members first met in 2011. But we sounded nothing like today (laughs).
 
-**Anne:**: Have you always been into momentous and progressive dark post-music? Who are your influences? 
+**Anne:**: Have you always been into momentous and progressive dark post-music? Who are your influences?
 
 ## "We aimed to sound like jazz influenced Pink Floyd"
 

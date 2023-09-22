@@ -3,16 +3,11 @@ date: 2021-07-07T09:20:12.893Z
 slug: amanda-palmer-getting-strangled-as-gracefully-as-possible
 typeName: Beitrag
 title: Amanda Palmer veröffentlicht neue Texte
-subTitle: '"Getting Strangled As Gracefully As Possible, Or A Year In The Belly
-  Of The Whale"'
+subTitle: '"Getting Strangled As Gracefully As Possible, Or A Year In The Belly Of The Whale"'
 seoTitle: Amanda Palmer – "Getting Strangled As Gracefully As Possible"
-description: Nach ihrem grandiosen letzten Album "There Will Be No Intermission"
-  von 2019 meldet sich Amanda Palmer mit neuen Texten und Bildern von ihrem
-  derzeitigen Aufenthaltsort in Neuseeland zurück. "Getting Strangled As
-  Gracefully As Possible, Or A Year In The Belly Of The Whale" ist online frei
-  verfügbar.
+description: Nach ihrem grandiosen letzten Album "There Will Be No Intermission" von 2019 meldet sich Amanda Palmer mit neuen Texten und Bildern von ihrem derzeitigen Aufenthaltsort in Neuseeland zurück. "Getting Strangled As Gracefully As Possible, Or A Year In The Belly Of The Whale" ist online frei verfügbar.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/amanda-palmer-1-jpg-imagine-081828_3a5165_765_693/640.webp
-copyrigt: Amanda Palmer/Duncan Innes
+copyright: Amanda Palmer/Duncan Innes
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/amanda-palmer-fb-jpg-imagine-083858_365064_1200_628/640.webp
 labels:
   - Amanda Palmer
@@ -35,7 +30,7 @@ Die Texte in "Getting Strangled As Gracefully As Possible, Or A Year In the Bell
 
 Das Werk, das sich ein bisschen liest, wie ein Tagebuch, hat sie auf Patreon und auf Medium veröffentlicht. Ihr könnt es also jederzeit lesen, wenn es Euch wie mir geht und ihr gerne erfahren möchtet, wie es der Künstlerin in den letzten Monaten ergangen ist. Oder besser gesagt: vielen Künstler⋆innen, die durch wegfallende Auftritte und Tourneen dazu gezwungen wurden, ihr Leben von einem Tag auf den anderen neu zu erfinden – ohne Vorbereitung oder Vorwarnung
 
-![Amanda Palmer. Foto/picture: © Amanda Palmer/Duncan Innes](https://storage.googleapis.com/cardamonchai-media/2021-11-20/amanda-palmer-2-jpg-imagine-c8d8d8_a8b1b5_1400_1057/640.webp "Amanda Palmer. Foto/picture: © Amanda Palmer/Duncan Innes")
+![Amanda Palmer. Foto/picture: © Amanda Palmer/Duncan Innes](https://storage.googleapis.com/cardamonchai-media/2021-11-20/amanda-palmer-2-jpg-imagine-c8d8d8_a8b1b5_1400_1057/640.webp 'Amanda Palmer. Foto/picture: © Amanda Palmer/Duncan Innes')
 
 "Getting Strangled..." handelt von Brüchen, Veränderung, Trauer und Liebe. Vom Loslassen der persönlichen Gewohnheiten, von Abschied und Neuanfang. Vom Tod und Geburt – von Ideen und von Menschen. Amanda schreibt, sie habe sich während des letzten Jahres gefühlt, wie im dunklen Bauch eines Wales – weit weg von der Gemeinschaft und abgeschnitten von ihrem früheren Alltag.
 

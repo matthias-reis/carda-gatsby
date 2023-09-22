@@ -5,16 +5,10 @@ typeName: Filmtipp
 title: Doku "Slay" zeigt Tierquälerei in der Modeindustrie
 subTitle: Der neue Film von Rebecca Cappelli und Keegan Kuhn
 seoTitle: Doku "Slay" zeigt Tierquälerei in der Modeindustrie
-description: Rebecca Cappelli ("Let us be Heroes") und Keegan Kuhn
-  ("Cowspiracy") haben eine neue Tierrechtsdoku gedreht. In "Slay" geht es um
-  Tierquälerei in der Modeindustrie.
-excerpt: Rebecca Cappelli ("Let us be Heroes") hat gemeinsam mit Keegan Kuhn
-  ("Cowspiracy", "What the Health" und "They're Trying to Kill Us ") eine neue
-  Tierrechtsdoku gedreht. In "Slay" geht es um Tierquälerei in der
-  Modeindustrie. Derzeit finden pro Jahr rund 2,5 Milliarden Tiere für unsere
-  Kleidung den Tod.
+description: Rebecca Cappelli ("Let us be Heroes") und Keegan Kuhn ("Cowspiracy") haben eine neue Tierrechtsdoku gedreht. In "Slay" geht es um Tierquälerei in der Modeindustrie.
+excerpt: Rebecca Cappelli ("Let us be Heroes") hat gemeinsam mit Keegan Kuhn ("Cowspiracy", "What the Health" und "They're Trying to Kill Us ") eine neue Tierrechtsdoku gedreht. In "Slay" geht es um Tierquälerei in der Modeindustrie. Derzeit finden pro Jahr rund 2,5 Milliarden Tiere für unsere Kleidung den Tod.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-leather-made-in-tuscany-jpeg-imagine-080808_4b4332_1024_768/640.webp
-copyrigt: Rebecca Cappelli, Keegan Kuhn, "Slay"
+copyright: Rebecca Cappelli, Keegan Kuhn, "Slay"
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-fb-jpeg-imagine-080808_53504a_1200_628/640.webp
 labels:
   - Rebecca Cappelli
@@ -38,6 +32,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Rebecca Cappelli hat gemeinsam mit Keegan Kuhn eine neue Tierrechtsdoku gedreht. In "Slay" geht es um Tierquälerei in der Modeindustrie. Derzeit finden pro Jahr rund 2,5 Milliarden Tiere für unsere Kleidung den Tod.**
 
 "Slay" deckt in Spielfilmlänge auf, wie grausam dieses Geschäft ist. Rebecca Cappelli und Keegan Kuhn wollen damit innerhalb der Gesellschaft das Bewusstsein für die in der Modebranche weitverbreiteten grausamen Praktiken schärfen.
@@ -50,7 +45,7 @@ Zum Glück wird die Kritik am Modezirkus vor allem, was fehlende Nachhaltigkeit 
 
 ## Menschen und Tiere leiden für die Mode
 
-![Silberfüchse sitzen in aufeinander gestapelten Drahtkäfigen eng an einander.](https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-silverfoxes-fur-farm-china-jpeg-imagine-080808_615f71_1024_768/640.webp "Silberfüchse auf einer Pelzfarm in China. Bild/Picture: \"Slay\"")
+![Silberfüchse sitzen in aufeinander gestapelten Drahtkäfigen eng an einander.](https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-silverfoxes-fur-farm-china-jpeg-imagine-080808_615f71_1024_768/640.webp 'Silberfüchse auf einer Pelzfarm in China. Bild/Picture: "Slay"')
 
 In "Slay" geht es daher um sie – ausgebeutete, vergessene Lebewesen, die für unsere Kleidung gezüchtet werden und ihr kurzes Leben oft unter Qualen und in Dunkelheit fristen müssen. Die Dokumentation zeigt, wie die weltweite Fashion-Industrie der Umwelt und den Menschen massiven Schaden zufügt und in welcher extremen Notlage sich die Tiere innerhalb dieses Feldes befinden.
 
@@ -62,15 +57,15 @@ Im Film kommen Expert⋆innen für nachhaltige Mode und Angehörige der Tierrech
 
 ## Zu Besuch auf Pelz- und Wollfarmen
 
-![Ein hoher Stapel gebündelte Lammfelle mit einem Zettel auf dem "Baby" steht.](https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-baby-lamb-skin-australia-jpeg-imagine-080808_504e42_1024_768/640.webp "Lammfell auf einer Wollfarm in Australien. Bild/Picture: \"Slay\"")
+![Ein hoher Stapel gebündelte Lammfelle mit einem Zettel auf dem "Baby" steht.](https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-baby-lamb-skin-australia-jpeg-imagine-080808_504e42_1024_768/640.webp 'Lammfell auf einer Wollfarm in Australien. Bild/Picture: "Slay"')
 
-Die Filmcrew  drehte unter anderem auf Pelz- und Wollfarmen sowie in Gerbereien. Die tiefen Einblicke helfen zweifellos dabei, die Verbindung herzustellen zwischen einem Lederschuh und einem Kalb, das in einem Verschlag auf sein Schicksal wartet. Rebecca Cappelli ist überzeugt davon, dass vielen Menschen nicht klar ist, für welches Leid sie durch ihr Einkaufsverhalten mitverantwortlich sind. Gegenüber der Presse sagte sie:
+Die Filmcrew drehte unter anderem auf Pelz- und Wollfarmen sowie in Gerbereien. Die tiefen Einblicke helfen zweifellos dabei, die Verbindung herzustellen zwischen einem Lederschuh und einem Kalb, das in einem Verschlag auf sein Schicksal wartet. Rebecca Cappelli ist überzeugt davon, dass vielen Menschen nicht klar ist, für welches Leid sie durch ihr Einkaufsverhalten mitverantwortlich sind. Gegenüber der Presse sagte sie:
 
-> "Ich wünsche mir, dass die Menschen, die 'Slay' sehen, die wahren Auswirkungen ihrer Kaufentscheidungen auf Tiere, den Planeten und ihre Mitmenschen erkennen. Sie sollen die Marketinglügen, die ihnen erzählt wurden und das Greenwashing sehen. Während diese grausame Industrie den Planeten immer mehr zerstört, wird das Leid der Tiere immer wieder vergessen. Wir wollen die Menschen mit 'Slay' dazu auffordern, die Vorstellung, Tierhäute seinen eine Art von  'Stoff' zu hinterfragen."
+> "Ich wünsche mir, dass die Menschen, die 'Slay' sehen, die wahren Auswirkungen ihrer Kaufentscheidungen auf Tiere, den Planeten und ihre Mitmenschen erkennen. Sie sollen die Marketinglügen, die ihnen erzählt wurden und das Greenwashing sehen. Während diese grausame Industrie den Planeten immer mehr zerstört, wird das Leid der Tiere immer wieder vergessen. Wir wollen die Menschen mit 'Slay' dazu auffordern, die Vorstellung, Tierhäute seinen eine Art von 'Stoff' zu hinterfragen."
 
-Sie  hofft, dass ihr neuer Film möglichst vielen dabei hilft, die Augen für die dunkle Realität zu öffnen.
+Sie hofft, dass ihr neuer Film möglichst vielen dabei hilft, die Augen für die dunkle Realität zu öffnen.
 
-Die Ergebnisse ihrer Ermittlungen versuchten  Rebecca Cappelli und Keegan Kuhn bis zuletzt geheim zu halten. Das habe vorwiegend mit der großen Macht der Modeindustrie zu tun, so Cappelli.
+Die Ergebnisse ihrer Ermittlungen versuchten Rebecca Cappelli und Keegan Kuhn bis zuletzt geheim zu halten. Das habe vorwiegend mit der großen Macht der Modeindustrie zu tun, so Cappelli.
 
 Keegan Kuhn beschreibt die neue Doku so:
 
@@ -80,7 +75,14 @@ Um Geld für Filmvorführungen zu sammeln, startete das Filmteam ein Crowdfundin
 
 ## "Slay" – Trailer
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/705023166?h=3e14a9a577" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe
+  title="vimeo-player"
+  src="https://player.vimeo.com/video/705023166?h=3e14a9a577"
+  width="640"
+  height="360"
+  frameborder="0"
+  allowfullscreen
+></iframe>
 
 [Warum Leder so grausam wie Pelz ist](/2020/07/leder-pelz/)
 

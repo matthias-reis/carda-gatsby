@@ -5,13 +5,10 @@ typeName: Review
 title: Augustine – "Proserpine"
 subTitle: Das neue Album der Multi-Instrumentalistin
 seoTitle: Augustine – "Proserpine" – Das neue Album der Multi-Instrumentalistin
-description: Das neue Album von Augustine aka Sara Baggini ist bereits im April
-  erschienen. Höchste Zeit für eine Review zu "Proserpine". Die zweite LP der
-  Dream Pop/Dark Folk Multi-Instrumentalistin und Musik-Producerin hat es
-  nämlich in sich – ich lege sie Euch hiermit ans Herz.
-excerpt: ""
+description: Das neue Album von Augustine aka Sara Baggini ist bereits im April erschienen. Höchste Zeit für eine Review zu "Proserpine". Die zweite LP der Dream Pop/Dark Folk Multi-Instrumentalistin und Musik-Producerin hat es nämlich in sich – ich lege sie Euch hiermit ans Herz.
+excerpt: ''
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-1-jpg-imagine-080808_2d2322_1024_768/640.webp
-copyrigt: Sara Baggini
+copyright: Sara Baggini
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-fb-jpg-imagine-080808_261d1d_1200_628/640.webp
 labels:
   - Augustine
@@ -39,7 +36,7 @@ languageLink: /2021/07/augustine-proserpine-en
 
 Was allgemein unter den Labels "Dream Pop" und "Singer-Songwriter" läuft, ist sehr unterschiedlich. Das betrifft nicht nur die Qualität, sondern auch den Stil der Musik, die allgemein in diese Schubladen eingeordnet wird.
 
-![Bild/picture: Sara Baggini](https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-sara-baggini-jpg-imagine-282818_7d7c72_767_767/640.webp "Augustine – "Proserpine"*. Bild/picture: Sara Baggini")
+![Bild/picture: Sara Baggini](https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-sara-baggini-jpg-imagine-282818_7d7c72_767_767/640.webp "Augustine – "Proserpine"\*. Bild/picture: Sara Baggini")
 
 Die des Ausnahmetalents Augustine ist etwas ganz Besonderes, soviel steht schon mal fest. Ihr zweites Album nach dem gefeierten Debut "Grief and Desire" von 2018 hat die Sängerin und Musikerin aus Leidenschaft über I Dischi del Minollo veröffenlicht.
 
@@ -65,7 +62,7 @@ Ihre introspektive Reise ist ein symbolischer Sturz in die Unterwelt. Mit dem Zi
 
 Die Mystik ihrer Geschichte spiegelt sich in jeder Songzeile wider. Von der Entführung durch Pluto und das Urteil, ein halbes Jahr im Hades verbringen zu müssen, weil sie von einem Granatapfelsamen gekostet hat, bis hin zur Liebe des Adonis und ihre Wiedergeburt im Frühjahr.
 
-![Bild/picture: Sara Baggini | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-2-jpg-imagine-080808_1f1719_1024_768/640.webp "Bild/picture: Sara Baggini")
+![Bild/picture: Sara Baggini | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-2-jpg-imagine-080808_1f1719_1024_768/640.webp 'Bild/picture: Sara Baggini')
 
 Die Höhen und Tiefen der Heldinnenreise drückt Augustine mithilfe lockerer und sonnigen Parts und düsterer, unheimlicher Strecken haben. Das Zusammenspiel zwischen Schönheit und Unruhe, Ruhe und Zerrissenheit ist perfekt ausgeglichen. Die Wechsel zwischen beiden Welten passieren stets im richtigen Moment.
 
@@ -77,13 +74,13 @@ Mit der Dichte und Düsternis bewegt sie sich von Dream Pop weg in Richtung Dark
 
 Sara Baggini komponiert bereits seit ihrer Kindheit. Mit 19 ging sie in Perugia auf die Akademie der schönen Künste, wo sie sich vor allem mit visueller Kunst beschäftige und ihren Abschluss in Malerei machte.
 
-![Bild/picture: Sara Baggini | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-3-jpg-imagine-080808_2a2121_1024_768/640.webp "Bild/picture: Sara Baggini")
+![Bild/picture: Sara Baggini | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-3-jpg-imagine-080808_2a2121_1024_768/640.webp 'Bild/picture: Sara Baggini')
 
 Ihr Pseudonym Agustine nahm die Künstlerin nach ihren Aufnahmen mit One Thin Line (2010) und verschiedenen Zusammenarbeiten mit elektronischen Projekten an. Es stammt aus Georges Didi-Hubermans Essay "Invention of Hysteria".
 
 ## In den Kritiken hochgelobt
 
-Für ihr Video zum Song "Augustine" wurde ihr 2019  beim VIC (Videoclip Italia Contest) der zweite Preis als für das beste selbst produzierte Musikvideo verliehen. Ihr erstes offizielles Album "Grief and Desire" ist als musikalischer autobiografischer Roman konzipiert. Generell zieht sie ihre Ideen gerne aus der Literatur (z. B. Sylvia Plath und Virginia Woolf) und Malerei.
+Für ihr Video zum Song "Augustine" wurde ihr 2019 beim VIC (Videoclip Italia Contest) der zweite Preis als für das beste selbst produzierte Musikvideo verliehen. Ihr erstes offizielles Album "Grief and Desire" ist als musikalischer autobiografischer Roman konzipiert. Generell zieht sie ihre Ideen gerne aus der Literatur (z. B. Sylvia Plath und Virginia Woolf) und Malerei.
 
 Ihre Einflüsse sieht sie vor allem im britischen Post-Punk, Dream Pop und Darkwave der 1980er Jahre. Ihre Verehrung für Größen wie Dead Can Dance, Cocteau Twins, Siouxsie And The Banshees, Sinead O'Connor, PJ Harvey, Agnes Obel und Björk hört man ihrem Stil durchaus an. Doch nicht nur, wenn ihr mit der Musik der genannten Musiker⋆innen und Bands etwas anfangen könnt, solltet Ihr in ihre aktuelle Platte "Proserpine" unbedingt mal reinhören. Ich lege sie Euch hiermit ans Herz.
 

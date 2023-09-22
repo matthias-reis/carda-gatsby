@@ -72,7 +72,7 @@ collections:
       - { label: 'Hauptbild', name: 'image', widget: image }
       - {
           label: 'Copyright Hauptbild',
-          name: 'copyrigt',
+          name: 'copyright',
           widget: text,
           required: false,
         }

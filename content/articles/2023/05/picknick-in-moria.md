@@ -5,16 +5,10 @@ typeName: Filmtipp
 title: '"Picknick in Moria"'
 subTitle: Filmpremiere steht kurz bevor
 seoTitle: '"Picknick in Moria" – Filmtipp'
-description: Der afghanische Filmemacher Talib Shah Hosini tritt mit seiner Frau
-  Yasamin und seinen Töchtern Farima, Parisa und Marjan auf Lesbos in den Kampf
-  gegen die Hoffnungslosigkeit.
-excerpt: Der 37-jährige afghanische Filmemacher Talib Shah Hosini tritt im Film
-  "Picknick in Moria" mit seiner Frau Yasamin und seinen Töchtern Farima, Parisa
-  und Marjan im Film auf Lesbos den Kampf gegen die Hoffnungslosigkeit an, indem
-  er  die Schicksale der vielen Tausenden  Geflüchteter sichtbar macht – indem
-  er einen Film dreht.
+description: Der afghanische Filmemacher Talib Shah Hosini tritt mit seiner Frau Yasamin und seinen Töchtern Farima, Parisa und Marjan auf Lesbos in den Kampf gegen die Hoffnungslosigkeit.
+excerpt: Der 37-jährige afghanische Filmemacher Talib Shah Hosini tritt im Film "Picknick in Moria" mit seiner Frau Yasamin und seinen Töchtern Farima, Parisa und Marjan im Film auf Lesbos den Kampf gegen die Hoffnungslosigkeit an, indem er  die Schicksale der vielen Tausenden  Geflüchteter sichtbar macht – indem er einen Film dreht.
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-25/picknick-in-moria-jpg-imagine-080808_5c5351_1024_768/640.webp
-copyrigt: kinofreund eG 2023
+copyright: kinofreund eG 2023
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-25/picknick-in-moria-og-jpg-imagine-181818_605f67_1200_628/640.webp
 labels:
   - Moria
@@ -28,11 +22,12 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Der 37-jährige afghanische Filmemacher Talib Shah Hosini tritt mit seiner Frau Yasamin und seinen Töchtern Farima, Parisa und Marjan im Film "Picknick in Moria" auf Lesbos den Kampf gegen die Hoffnungslosigkeit an, indem er  die Schicksale der vielen Tausend Geflüchteter sichtbar macht. Mit seiner Kamera filmt er das Leben im gefürchteten Lager Moria. Gemeinsam mit vielen weiteren Asylsuchenden steckte die Familie dort fest.**
+
+**Der 37-jährige afghanische Filmemacher Talib Shah Hosini tritt mit seiner Frau Yasamin und seinen Töchtern Farima, Parisa und Marjan im Film "Picknick in Moria" auf Lesbos den Kampf gegen die Hoffnungslosigkeit an, indem er die Schicksale der vielen Tausend Geflüchteter sichtbar macht. Mit seiner Kamera filmt er das Leben im gefürchteten Lager Moria. Gemeinsam mit vielen weiteren Asylsuchenden steckte die Familie dort fest.**
 
 Talib Shah schreibt, produziert und dreht mit den Bewohner⋆innen des Camps einen Spielfilm über seine geflüchtete Familie. Die Arbeit gestaltet sich nervenaufreibend. Immer wieder werden die Wohnstätten der Menschen von Brandstiftungen bedroht. Angst und Perspektivlosigkeit machen sich breit. Lina Lužytė Talib Shah für Ihre Dokumentation und begleitete sein tägliches Leben und die Aufnahmen.
 
-!["Picknick in Moria"](https://storage.googleapis.com/cardamonchai-media/2023-05-25/picknick-in-moria-filmplakat-jpeg-imagine-181818_606d8a_595_842/640.webp "\"Picknick in Moria\"")
+!["Picknick in Moria"](https://storage.googleapis.com/cardamonchai-media/2023-05-25/picknick-in-moria-filmplakat-jpeg-imagine-181818_606d8a_595_842/640.webp '"Picknick in Moria"')
 
 Trotz all seiner Düsternis ist "Picknick in Moria"[^1] auch ein Werk der Hoffnung und des Triumphs über die Unterdrückung. Unsere Kunst lebt weiter – auch, wenn Ihr uns alles nehmt. Talib Shah ist kurz davor, die Hoffnung zu verlieren, als er beschließt, sein Leben wieder selbst in die Hand zu nehmen. Er beginnt den Film "Picnic" zu drehen, um damit dem Rest der Welt das Leben der geflüchteten Menschen in Moria zu zeigen: die humanitäre Katastrophe, die Abgründe und die Hoffnungslosigkeit.
 
@@ -56,9 +51,9 @@ Die Filmförderungsanstalt FFA und die Film- und Medienstiftung NRW sowie die Mi
 
 <YouTube id="QuEFUgT4wqk" />
 
-!["Picknick in Moria" | large](https://storage.googleapis.com/cardamonchai-media/2023-05-25/picknick-in-moria-2-jpg-imagine-382828_6b666a_1024_768/640.webp "Picknick in Moria")
+!["Picknick in Moria" | large](https://storage.googleapis.com/cardamonchai-media/2023-05-25/picknick-in-moria-2-jpg-imagine-382828_6b666a_1024_768/640.webp 'Picknick in Moria')
 
-!["Picknick in Moria" | large](https://storage.googleapis.com/cardamonchai-media/2023-05-25/picknick-in-moria-1-jpg-imagine-080808_69605b_1024_768/640.webp "Picknick in Moria")
+!["Picknick in Moria" | large](https://storage.googleapis.com/cardamonchai-media/2023-05-25/picknick-in-moria-1-jpg-imagine-080808_69605b_1024_768/640.webp 'Picknick in Moria')
 
 **Bilder:** kinofreund eG 2023
 

@@ -5,17 +5,10 @@ typeName: Review
 title: '"Mot, the Valuator, Incredible God"'
 subTitle: Die neue EP von Ox en Mayo Alto
 seoTitle: '"Mot, the Valuator, Incredible God" – Die neue EP von Ox en Mayo Alto'
-description: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de
-  la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible
-  God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder
-  eine Geschichte.
-excerpt: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la
-  fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible
-  God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder
-  eine Geschichte. Die Band zeigt sich nach wie vor bedeckt – die Künstler⋆innen
-  verbergen ihre Gesichter auch beim neuen Werk wieder hinter Masken.
+description: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder eine Geschichte.
+excerpt: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder eine Geschichte. Die Band zeigt sich nach wie vor bedeckt – die Künstler⋆innen verbergen ihre Gesichter auch beim neuen Werk wieder hinter Masken.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/white-house-stag-jpg-imagine-181808_756f43_1440_960/640.webp
-copyrigt: Ox en Mayo Alto
+copyright: Ox en Mayo Alto
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/ox-en-mayo-alto-png-imagine-181808_726a3d_1200_628/640.webp
 labels:
   - Argentinien
@@ -44,7 +37,7 @@ Die Band zeigt sich nach wie vor bedeckt – die Künstler⋆innen verbergen ihr
 
 Die insgesamt fünf Songs auf der aktuellen Platte heißen "Bläterfall", "Sa voix, virtus dormitiva", "Sideneo 4 y los Pilares del Alba", "De Civitate Dei" und "La Ilamada". Ihr könnt sie bereits auf Spotify konsumieren oder noch besser: als Video.
 
-![Ox en Mayo Alto](https://storage.googleapis.com/cardamonchai-media/2021-11-20/fox-jpg-imagine-080808_161b09_1440_960/640.webp "Ox en Mayo Alto")
+![Ox en Mayo Alto](https://storage.googleapis.com/cardamonchai-media/2021-11-20/fox-jpg-imagine-080808_161b09_1440_960/640.webp 'Ox en Mayo Alto')
 
 Schon die erste audiovisuelle EP von Ox en Mayo Alto war ein Erlebnis – auch die zweite ist ein echter Genuss. Beim Betrachten der Bilder bekommt man genau wie bei "Los famosos días de la fiebre" das Gefühl einem wunderbaren Märchen zu folgen. Dieses Mal handelt es von der Ankunft eines großen Fischgottes auf der Erde.
 
@@ -56,7 +49,7 @@ Auf einen kurzen mystischen Auftakt folgt das erste Kapitel. "Sa voix, virtus do
 
 ## Hauchzart und hart
 
-Das zweite Kapitel "La Ilamada" beginnt hauchzart. Geflüstert Zeilen kündigen den Auftritt des Fischgottes an. Ein Reh huscht durch einen Wald. Die Bilder sind gewaltig und fragil zugleich. Sie scheinen aus einer anderen Zeit zu stammen und bilden mit der verspielten Musik ein farbenfrohes und zugleich nachdenkliches Gesamtkunstwerk. 
+Das zweite Kapitel "La Ilamada" beginnt hauchzart. Geflüstert Zeilen kündigen den Auftritt des Fischgottes an. Ein Reh huscht durch einen Wald. Die Bilder sind gewaltig und fragil zugleich. Sie scheinen aus einer anderen Zeit zu stammen und bilden mit der verspielten Musik ein farbenfrohes und zugleich nachdenkliches Gesamtkunstwerk.
 
 Wir sehen die Erde von oben. Die Tiere, die sie bewohnen und die drohende Zerstörung dieser Wunderwelt durch uns Menschen. Sie schwebt wie ein Damoklesschwert über allem, wird jedoch nicht ausgesprochen – dennoch schwingt sie in jeder Note mit.
 
@@ -70,7 +63,7 @@ Auch, wenn die verfügbare Power nicht voll ausgeschöpft wird, arbeiten Ox en M
 
 Es folgt: Mein Lieblings-Akt der Oper: "De Civitate Dei". Eine kleine Vulkaninsel im Ozean, eingebettet in pink-violettes Licht. Der Sound wird düsterer. Er erzählt die gesamte Menschheitsgeschichte. Oder die einer Welt, in der es uns nie gegeben hat?
 
-![Ox en Mayo Alto](https://storage.googleapis.com/cardamonchai-media/2021-11-20/mot-jpg-imagine-080808_2d3421_1440_960/640.webp "Ox en Mayo Alto")
+![Ox en Mayo Alto](https://storage.googleapis.com/cardamonchai-media/2021-11-20/mot-jpg-imagine-080808_2d3421_1440_960/640.webp 'Ox en Mayo Alto')
 
 "Sideneo 4 y los Pilares del Alba" führt am Ende alle Erzählstränge zusammen. Das Stück bringt Math-Rock Power und Präzision. Das Schlagzeug beeindruckt mich hier besonders.
 
@@ -78,6 +71,6 @@ Für das Genre eher untypisch sind die kurzen Songs – "Sa voix, virtus dormiti
 
 Ich persönlich habe ja ein bisschen das Gefühl, das uns hier bald noch etwas Größeres erwartet. "Mot, the Valuator, Incredible God" fühlt sich wie ein äußerst gelungener Teaser an – das Portal in eine grandiose Fantasiewelt, das sich hoffentlich bald wieder öffnet. Bis es so weit ist, hören wir am besten "Mot, the Valuator, Incredible God" und den Vorgänger ["Los famosos días de la fiebre"](/2020/09/ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review/) hoch und runter und träumen uns hinter den Vorhang wann immer uns danach ist.
 
-Die Reihenfolge der Songs ist übrigens bei den Streaming-Diensten ein bisschen anders, als im Video. Bei genauem Hinhören werdet Ihr feststellen, dass sie ohne das Bildmaterial so ein komplett anderes Gesamtbild ergeben – die Puzzlestücke fügen sich an anderen Stellen perfekt ein und harmonisieren mit dem Rest des Kunstwerks. 
+Die Reihenfolge der Songs ist übrigens bei den Streaming-Diensten ein bisschen anders, als im Video. Bei genauem Hinhören werdet Ihr feststellen, dass sie ohne das Bildmaterial so ein komplett anderes Gesamtbild ergeben – die Puzzlestücke fügen sich an anderen Stellen perfekt ein und harmonisieren mit dem Rest des Kunstwerks.
 
 <YouTube id="M5nTMbdOf4w" />

@@ -5,15 +5,10 @@ typeName: Interview
 title: An Evening With Knives
 subTitle: '"We always want to tell a Story"'
 seoTitle: An Evening With Knives Interview about new album
-description: The new An Evening With Knives album "FNR Sessions" is spectacular.
-  Read the interview with songwriter, singer, and band founder Marco about it
-  now!guitarist
-excerpt: 'The new An Evening With Knives album "FNR Sessions" is a very special
-  one: the band recorded it in their hometown of Eindhoven—in a place of music,
-  community, and gathering. The result is a wonderful, energetic interplay of
-  complex song structures full of feeling, drive, and moments of magic.'
+description: The new An Evening With Knives album "FNR Sessions" is spectacular. Read the interview with songwriter, singer, and band founder Marco about it now!guitarist
+excerpt: 'The new An Evening With Knives album "FNR Sessions" is a very special one: the band recorded it in their hometown of Eindhoven—in a place of music, community, and gathering. The result is a wonderful, energetic interplay of complex song structures full of feeling, drive, and moments of magic.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-1-1-jpg-imagine-080808_503292_1024_768/640.webp
-copyrigt: An Evening With Knives
+copyright: An Evening With Knives
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-og-jpg-imagine-082868_1c3b70_1200_628/640.webp
 labels:
   - An Evening With Knives
@@ -34,6 +29,7 @@ affiliate: false
 language: en
 languageLink: /2023/02/an-evening-with-knives-interview/
 ---
+
 **The new An Evening With Knives album "FNR Sessions" is a very special one: the band recorded it in their hometown of Eindhoven—in a place of music, community, and gathering. The result is a wonderful, energetic interplay of complex song structures full of feeling, drive, and moments of magic.**
 
 To celebrate its release, I had a long phone call with songwriter, singer, guitarist, and band founder Marco Gelissen. I interviewed him about the record, the creative process around it and the band's development. Not only did I learn a lot about the planned An Evening With Knives tour—Marco also shared some big top-secret band news with me!
@@ -50,7 +46,7 @@ To celebrate its release, I had a long phone call with songwriter, singer, guita
 
 ## "We recorded the album at the Effenaar in Eindhoven"
 
-![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-3-1-jpg-imagine-181818_3b363a_1024_768/640.webp "An Evening With Knives")
+![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-3-1-jpg-imagine-181818_3b363a_1024_768/640.webp 'An Evening With Knives')
 
 **Marco:** There is this main concert venue here in Eindhoven called Effenaar. They offered the option to select a few artists for a project to make video events. Luckily, we were one of the selected projects. They provided their small hall plus a video and a sound team, and we were able to record an entire concert. They recorded us with several cameras from all angles and picked up every sound detail. That was a great experience for us!
 
@@ -80,9 +76,9 @@ Moreover, you might be surprised that I listen to funk a lot. I really like the 
 
 ## "It feels like a new era"
 
-![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-4-2-jpg-imagine-080808_393533_1024_768/640.webp "An Evening With Knives")
+![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-4-2-jpg-imagine-080808_393533_1024_768/640.webp 'An Evening With Knives')
 
-**Marco:** I think we made quite a step when Jarno joined us on drums. If you compare our music, you can hear a big difference in the vibe. We're playing the same songs, and the groove works better. You can also see it at our live shows. It feels like there is more emotion and response in the crowd nowadays. 
+**Marco:** I think we made quite a step when Jarno joined us on drums. If you compare our music, you can hear a big difference in the vibe. We're playing the same songs, and the groove works better. You can also see it at our live shows. It feels like there is more emotion and response in the crowd nowadays.
 
 We have these ten new demo songs or so, and if we listen to them, we always think it's a different era now. It's more energetic. We gained some tempo, I guess. Moreover, if you compare our recordings from back in the day with the new ones from our "FNR Sessions", it's kind of like we lifted them up.
 
@@ -92,7 +88,7 @@ We have these ten new demo songs or so, and if we listen to them, we always thin
 
 **Anne:** How do you and the band decide on the set list for your live shows?
 
-**Marco:** It's a lot about the mood. If we feel like playing a song, we put it on the list. For example, we were so happy with the two new pieces because of the new drive, tempo, and spirit, so we decided to play them on stage. 
+**Marco:** It's a lot about the mood. If we feel like playing a song, we put it on the list. For example, we were so happy with the two new pieces because of the new drive, tempo, and spirit, so we decided to play them on stage.
 
 Furthermore, we try to tell a story with a certain combination of songs. There needs to be some kind of thread people can follow. That puts them in the mood, and they enjoy the show. For example, when we go from uptempo to slow and from heavy to calm. Also, if we think a song doesn't fit in, we toss it. We also want to keep it interesting for ourselves and the audience! If you visit two or three shows in a row, they need to be different for you and us to enjoy. Many people come and see us play a lot of times, and we want them to have a good time!
 
@@ -100,7 +96,7 @@ Furthermore, we try to tell a story with a certain combination of songs. There n
 
 ## "Our lyrics are quite personal"
 
-![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-2-1-jpg-imagine-080808_4d4d4d_1024_768/640.webp "An Evening With Knives")
+![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-2-1-jpg-imagine-080808_4d4d4d_1024_768/640.webp 'An Evening With Knives')
 
 **Marco:** You're right. They're quite personal. For me, it's a possibility to process what is going on in my life. So if I have some sort of pain in my daily life, I sometimes feel the urge to pick a different song and tell a different story on stage. I like to feel what I am playing, and of course—like I said—depending on your mood, you choose what to play.
 
@@ -110,7 +106,7 @@ Furthermore, we try to tell a story with a certain combination of songs. There n
 
 **Anne:** So, it's really what you call a creative process. When writing, you don't start with an overall concept or structure but with a blank page. How does this affect your recording process when you're ready to go to the studio?
 
-**Marco:** When we go to the studio, our songs are quite well-prepared. Although our demos still sound different from the final recordings, it helps us see the big picture. We can hear where we need to add something or change a part. 
+**Marco:** When we go to the studio, our songs are quite well-prepared. Although our demos still sound different from the final recordings, it helps us see the big picture. We can hear where we need to add something or change a part.
 
 That's why I wouldn't say I like to share new songs at an early stage. Once we put them on a record, there will always be a better version of them.
 
@@ -118,11 +114,27 @@ That's why I wouldn't say I like to share new songs at an early stage. Once we p
 
 **Marco:** Exactly! I guess "Blackout" is the perfect example of that. It is on our "Fade Out" EP, and it is also on Spotify. If you listen to the EP-Version, and the new live version on "FNR Sessions", you can hear the difference. It's the same song with the same lyrics, but the groove and the tempo are entirely different. I like the EP version of "Blackout", but I love the live version of that song on the "FNR Sessions". If you compare them, you will notice that they are the same but still entirely different.
 
-## An Evening With Knives – "Blackout" EP version (2018) vs. "FNR Sessions"  live version (2023)
+## An Evening With Knives – "Blackout" EP version (2018) vs. "FNR Sessions" live version (2023)
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3744542769/size=large/bgcol=ffffff/linkcol=5C9B72/tracklist=false/artwork=small/track=3427858990/transparent=true/" seamless><a href="https://aneveningwithknives.bandcamp.com/album/fnr-sessions">FNR Sessions by An Evening With Knives</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3744542769/size=large/bgcol=ffffff/linkcol=5C9B72/tracklist=false/artwork=small/track=3427858990/transparent=true/"
+  seamless
+>
+  <a href="https://aneveningwithknives.bandcamp.com/album/fnr-sessions">
+    FNR Sessions by An Evening With Knives
+  </a>
+</iframe>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=78221626/size=large/bgcol=ffffff/linkcol=5C9B72/tracklist=false/artwork=small/track=716091444/transparent=true/" seamless><a href="https://aneveningwithknives.bandcamp.com/album/fade-out-ep">Fade Out EP by An Evening With Knives</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=78221626/size=large/bgcol=ffffff/linkcol=5C9B72/tracklist=false/artwork=small/track=716091444/transparent=true/"
+  seamless
+>
+  <a href="https://aneveningwithknives.bandcamp.com/album/fade-out-ep">
+    Fade Out EP by An Evening With Knives
+  </a>
+</iframe>
 
 **Anne:** You told me there is a special add-on for people who buy "FNR Sessions" on CD. Can you tell me more about it?
 

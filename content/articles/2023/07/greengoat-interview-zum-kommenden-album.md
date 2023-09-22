@@ -5,17 +5,10 @@ typeName: Interview
 title: Greengoat – Interview zum kommenden Album
 subTitle: '"Physische Tonträger haben ihre Magie nicht verloren"'
 seoTitle: Greengoat – Psychedelic/Stoner/Doom-Interview
-description: Greengoat – die Psychedelic/Stoner/Doom-Band aus Madrid hat mir im
-  Interview spannende Details über das kommende Album verraten. Holte Euch jetzt
-  die Insights!
-excerpt: 'Greengoat sind ein Psychedelic/Stoner/Doom-Duo aus Madrid, das ich vor
-  Kurzem kennengelernt habe. Ihr Sound erinnert mich sehr an die "gute alte
-  Zeit" und ist zugleich ziemlich futuristisch. Als ich Ihren aktuellen Song
-  "The Seed" zu meiner Juli-Playlist hinzugefügt hatte, haben die beiden Kontakt
-  mit mir aufgenommen und wir haben uns zu einem Interview verabredet. Voilà:
-  Here we go!'
+description: Greengoat – die Psychedelic/Stoner/Doom-Band aus Madrid hat mir im Interview spannende Details über das kommende Album verraten. Holte Euch jetzt die Insights!
+excerpt: 'Greengoat sind ein Psychedelic/Stoner/Doom-Duo aus Madrid, das ich vor Kurzem kennengelernt habe. Ihr Sound erinnert mich sehr an die "gute alte Zeit" und ist zugleich ziemlich futuristisch. Als ich Ihren aktuellen Song "The Seed" zu meiner Juli-Playlist hinzugefügt hatte, haben die beiden Kontakt mit mir aufgenommen und wir haben uns zu einem Interview verabredet. Voilà: Here we go!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-07-21/greengoat-interview-soundsvegan-jpg-imagine-080808_6b716b_1024_768/640.webp
-copyrigt: Greengoat
+copyright: Greengoat
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-07-21/greengoat-interview-soundsvegan-og-jpg-imagine-080808_6c6f68_1200_628/640.webp
 labels:
   - Greengoat
@@ -35,9 +28,10 @@ affiliate: false
 language: de
 languageLink: /2023/07/greengoat-interview-en/
 ---
+
 **Greengoat sind ein Psychedelic/Stoner-Duo aus Madrid, das ich vor Kurzem kennengelernt habe. Ihr Sound erinnert mich sehr an die "gute alte Zeit" und ist zugleich ziemlich futuristisch. Als ich Ihren aktuellen Song "The Seed" zu meiner Juli-Playlist hinzugefügt hatte, haben Ruth und Ivan Kontakt mit mir aufgenommen und wir haben uns zu einem Interview verabredet. Voilà: Here we go!**
 
-**Anne:** Hi! Danke, dass Ihr Euch die Zeit nehmt! Wie geht es Euch heute? 
+**Anne:** Hi! Danke, dass Ihr Euch die Zeit nehmt! Wie geht es Euch heute?
 
 **Greengoat:** Hi Anne! Danke für die Einladung. Uns geht es sehr gut!
 

@@ -3,19 +3,12 @@ date: 2022-07-12T08:37:15.657Z
 slug: billy-eilish-overheated
 typeName: Beitrag
 title: '"Overheated"'
-subTitle: Billy Eilish veröffentlicht Klima-Dokumentation und veranstaltet
-  großes Klimaschutz-Event
+subTitle: Billy Eilish veröffentlicht Klima-Dokumentation und veranstaltet großes Klimaschutz-Event
 seoTitle: '"Overheated" – Billy Eilish veröffentlicht Klima-Dokumentation'
-description: Billy Eilish macht sich schon lange auch als Tierrechts- und
-  Klima-Aktivistin einen Namen. Jetzt hostet sie in der Londoner O2-Arena ein
-  großes Klimaschutz-Event und veröffentlicht die Dokumentation "Overheated".
-excerpt: Billy Eilish macht sich schon lange auch als Tierrechts- und
-  Klima-Aktivistin einen Namen. Jetzt hostet sie in der Londoner O2-Arena ein
-  großes Klimaschutz-Event und veröffentlicht die Dokumentation "Overheated".
-  Die unter dem gleichen Namen laufende Veranstaltung ist seit Freitag im Gange
-  und dauert insgesamt sechs Tage.
+description: Billy Eilish macht sich schon lange auch als Tierrechts- und Klima-Aktivistin einen Namen. Jetzt hostet sie in der Londoner O2-Arena ein großes Klimaschutz-Event und veröffentlicht die Dokumentation "Overheated".
+excerpt: Billy Eilish macht sich schon lange auch als Tierrechts- und Klima-Aktivistin einen Namen. Jetzt hostet sie in der Londoner O2-Arena ein großes Klimaschutz-Event und veröffentlicht die Dokumentation "Overheated". Die unter dem gleichen Namen laufende Veranstaltung ist seit Freitag im Gange und dauert insgesamt sechs Tage.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-12/overheated-jpeg-imagine-f8f8f8_aeccb0_1024_768/640.webp
-copyrigt: Alba Paris for Overheated
+copyright: Alba Paris for Overheated
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-12/overheated-fb-png-imagine-f8f8f8_c6dcc8_1200_628/640.webp
 labels:
   - Overheated
@@ -30,6 +23,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Billy Eilish macht sich schon lange auch als Tierrechts- und Klima-Aktivistin einen Namen. Jetzt hostet sie in der Londoner O2-Arena ein großes Klimaschutz-Event und veröffentlicht die Dokumentation "Overheated".**
 
 Die unter dem gleichen Namen laufende Veranstaltung [^1] ist seit Freitag im Gange und dauert insgesamt sechs Tage. Im Namen des Klimas treffen dort Aktivist⋆innen auf Pop-Stars, Modedesigner⋆innen und tausende Besucher⋆innen.
@@ -58,6 +52,6 @@ Neben Billy Eilish und Peter McGuiness treffen sich auf der Veranstaltung unter
 
 Artwork: [Alba Paris](https://albaparis.com/) for Overheated
 
-[^1]: [Overheated Homepage](https://www.imoverheated.com/)
-[^2]: [REVERB](https://reverb.org/)
-[^3]: [Overheated Line-up](https://www.imoverheated.com/)
+[^1]: [Overheated Homepage](https://www.imoverheated.com/)
+[^2]: [REVERB](https://reverb.org/)
+[^3]: [Overheated Line-up](https://www.imoverheated.com/)

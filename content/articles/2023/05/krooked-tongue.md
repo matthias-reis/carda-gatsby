@@ -8,7 +8,7 @@ seoTitle: Krooked Tongue – "Deathproof" – Indie Interview
 description: Die Bristoler Indie-Band Krooked Tongue veröffentlichte gerade die neue EP "Deathproof". Lernt sie jetzt im Interview kennen!
 excerpt: Die Bristoler Indie-Band Krooked Tongue präsentierte gerade ihre frisch erschienene EP "Deathproof". Sie folgt dicht auf ihr Debüt "No Vacancy Hotel" und das ebenfalls gerade erschienene Werk "When the Beaches bleed". Nachdem ich Euch die schlagfertigen drei in der Mai-Playlist bereits kurz vorgestellt hatte, wird es jetzt Zeit für ein Interview. Ihr entspannter Festival-Sound ist einfach zu schön, um sich nicht eingehender damit zu beschäftigen.
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-11/krooked-tongue-1-jpg-imagine-181818_2f3332_1024_768/640.webp
-copyrigt: Krooked Tongue
+copyright: Krooked Tongue
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-11/krooked-tongue-og-jpg-imagine-181818_342e2a_1200_628/640.webp
 labels:
   - Krooked Tongue
@@ -25,11 +25,12 @@ affiliate: false
 language: de
 languageLink: /2023/05/krooked-tongue-interview-en/
 ---
+
 **Die Bristoler Indie-Band Krooked Tongue präsentierte gerade ihre frisch erschienene EP "Deathproof". Sie folgt dicht auf ihr Debüt "No Vacancy Hotel" und das ebenfalls gerade erschienene Werk "When the Beaches bleed". Nachdem ich Euch die schlagfertigen drei in der Mai-Playlist bereits kurz vorgestellt hatte, wird es jetzt Zeit für ein Interview. Ihr entspannter Festival-Sound ist einfach zu schön, um sich nicht eingehender damit zu beschäftigen.**
 
 **Anne:** Hi! Danke dass Ihr Euch die Zeit nehmt! Wie geht es Euch im Moment?
 
-**Krooked Tongue:** Hey Anne! Uns geht es gut! Danke für die Einladung! 
+**Krooked Tongue:** Hey Anne! Uns geht es gut! Danke für die Einladung!
 
 **Anne:** Gratulation zu Eurer neuen EP "Deathproof"! Was hat Euch dazu inspiriert?
 
@@ -37,13 +38,13 @@ languageLink: /2023/05/krooked-tongue-interview-en/
 
 **Anne:** Der inspirierendste Song auf der Platte ist für mich "Backseat Therapy". Wollt Ihr mir die Geschichte dahinter verraten?
 
-**Krooked Tongue:** Sehr gerne! Die Idee für "Backside Therapy" ist bei einer Taxifahrt durch die Stadt entstanden. Der Verkehr war sehr stark und der Fahrer entschuldigte sich immer wieder für die Verspätung.  Lange Rede, kurzer Sinn: Er steigerte sich in eine Tirade über seinen Kündigungswunsch und seinen Hass auf Menschen, die ihren Frust über den Verkehr an ihm auslassen, hinein. Ich wurde in seinem Taxi quasi zum Mediator. Das ist der Grund, warum der Song "Backseat Therapy" heißt.
+**Krooked Tongue:** Sehr gerne! Die Idee für "Backside Therapy" ist bei einer Taxifahrt durch die Stadt entstanden. Der Verkehr war sehr stark und der Fahrer entschuldigte sich immer wieder für die Verspätung. Lange Rede, kurzer Sinn: Er steigerte sich in eine Tirade über seinen Kündigungswunsch und seinen Hass auf Menschen, die ihren Frust über den Verkehr an ihm auslassen, hinein. Ich wurde in seinem Taxi quasi zum Mediator. Das ist der Grund, warum der Song "Backseat Therapy" heißt.
 
 **Anne:** Ihr seid gerade auf Tour. Spielt Ihr neben den Stücken auf "Deathproof" auch Eure Songs von Eurem Debüt "No Vacancy Hotel"?
 
 ## "Wir freuen uns auf unsere Gigs in Estland"
 
-![Krooked Tongue](https://storage.googleapis.com/cardamonchai-media/2023-05-11/krooked-tongue-3-jpg-imagine-181818_322d29_1024_768/640.webp "Krooked Tongue")
+![Krooked Tongue](https://storage.googleapis.com/cardamonchai-media/2023-05-11/krooked-tongue-3-jpg-imagine-181818_322d29_1024_768/640.webp 'Krooked Tongue')
 
 **Krooked Tongue:** Ja, inzwischen sind wir mittendrin, es geht auf das Ende der UK-Gigs zu und nächste Woche geht es dann nach Estland. Wir spielen die Songs natürlich. Die Leute feiern sie nach wie vor so sehr, da ist es nur fair, sie ihnen nicht vorzuenthalten und sie live zu spielen!
 
@@ -63,7 +64,7 @@ languageLink: /2023/05/krooked-tongue-interview-en/
 
 ## "Einflüsse sind wichtig"
 
-![Krooked Tongue](https://storage.googleapis.com/cardamonchai-media/2023-05-11/krooked-tongue-2-jpg-imagine-181818_323535_1024_768/640.webp "Krooked Tongue")
+![Krooked Tongue](https://storage.googleapis.com/cardamonchai-media/2023-05-11/krooked-tongue-2-jpg-imagine-181818_323535_1024_768/640.webp 'Krooked Tongue')
 
 **Krooked Tongue:** Es sind einfach zu viele. Unsere All-Time-Favoriten sind aber auf jeden Fall Leute wie Highly Suspect, Death from Above und Demob Happy. Es ist so wichtig, sich von überall Einflüsse zu holen.
 
@@ -73,7 +74,7 @@ languageLink: /2023/05/krooked-tongue-interview-en/
 
 **Anne:** Mit Euren Songs behandelt Ihr immer wieder Themen, über die viele Menschen nicht gerne reden. Ihr schafft es immer, das so entspannt zu vertonen und tragt es auf eine inspirierende Art in die Welt – sehr geradeheraus. Wie schafft Ihr das? Motiviert es Euch, in diesen düsteren, ungewissen und für viele Menschen schweren Zeiten den Mund aufzumachen?
 
-****Krooked Tongue:**** Wir glauben, dass es wichtig ist, eine Vielzahl an Themen abzudecken. Manchmal musst Du auch in die Bereiche gehen, die etwas tabuisierter sind – das ist schließlich die Natur von Kunst. Sie war immer dazu gedacht, der Norm etwas entgegenzusetzen. Das ist etwas, das in den letzten paar Jahren vielleicht auch ein bisschen verloren gegangen ist.
+\***\*Krooked Tongue:\*\*** Wir glauben, dass es wichtig ist, eine Vielzahl an Themen abzudecken. Manchmal musst Du auch in die Bereiche gehen, die etwas tabuisierter sind – das ist schließlich die Natur von Kunst. Sie war immer dazu gedacht, der Norm etwas entgegenzusetzen. Das ist etwas, das in den letzten paar Jahren vielleicht auch ein bisschen verloren gegangen ist.
 
 **Anne:** Würdet Ihr dann sagen, dass Krooked Tongue eine politische Band sind?
 
@@ -94,9 +95,17 @@ languageLink: /2023/05/krooked-tongue-interview-en/
 ### Krooked Tongue sind:
 
 - Oli Rainsford – Gesang, Bass
-- Dan Smith – Gitarre, Backing Vocals 
+- Dan Smith – Gitarre, Backing Vocals
 - Harry Pritchard – Drums
 
 ## Krooked Tongue – "Deathproof"
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=652147401/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://krookedtongue.bandcamp.com/album/deathproof">Deathproof by Krooked Tongue</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=652147401/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://krookedtongue.bandcamp.com/album/deathproof">
+    Deathproof by Krooked Tongue
+  </a>
+</iframe>

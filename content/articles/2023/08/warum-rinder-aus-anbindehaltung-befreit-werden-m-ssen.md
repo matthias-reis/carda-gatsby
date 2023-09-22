@@ -5,15 +5,10 @@ typeName: Beitrag
 title: Warum Rinder aus der Anbindehaltung befreit werden müssen
 subTitle: Tierrechtsorganisation zeigt das Leid der Kühe
 seoTitle: Warum Rinder aus der Anbindehaltung befreit werden müssen
-description: Anbindehaltung sollte längst der Vergangenheit angehören. Dennoch
-  leben auch heute noch zahlreiche Rinder angebunden im Stall.
-excerpt: "Wer sich häufiger mit Tierschutz beschäftigt, weiß: Das Bild der
-  glücklichen Kühe auf üppigen Blumenwiesen gibt es hauptsächlich in der Werbung
-  und damit auch in unseren Köpfen. Anbindehaltung im Stall ist hingegen nach
-  wie vor eine häufige Praxis. Diese gehört längst verboten, findet die Albert
-  Schweitzer Stiftung."
+description: Anbindehaltung sollte längst der Vergangenheit angehören. Dennoch leben auch heute noch zahlreiche Rinder angebunden im Stall.
+excerpt: 'Wer sich häufiger mit Tierschutz beschäftigt, weiß: Das Bild der glücklichen Kühe auf üppigen Blumenwiesen gibt es hauptsächlich in der Werbung und damit auch in unseren Köpfen. Anbindehaltung im Stall ist hingegen nach wie vor eine häufige Praxis. Diese gehört längst verboten, findet die Albert Schweitzer Stiftung.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-08-21/kuehe-in-anbindehaltung-ariwa-animal-rights-watch-jpg-imagine-181818_534943_1024_768/640.webp
-copyrigt: Animal Rights Watch e. V. (ARIWA)
+copyright: Animal Rights Watch e. V. (ARIWA)
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-08-21/kuehe-in-anbindehaltung-ariwa-animal-rights-watch-og-png-imagine-181818_4e453f_1200_628/640.webp
 labels:
   - Animal Rights Watch e. V. (ARIWA)
@@ -31,6 +26,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Wer sich häufiger mit Tierschutz beschäftigt, weiß: Das Bild der glücklichen Kühe auf üppigen Blumenwiesen gibt es hauptsächlich in der Werbung und damit auch in unseren Köpfen. Anbindehaltung im Stall ist hingegen nach wie vor eine häufige Praxis. Diese gehört längst verboten, findet die Albert Schweitzer Stiftung.**
 
 Insgesamt hatten im Jahr 2019 lediglich 31 der Rinder Weidegang. Diese Zahl geht aus der Landwirtschaftszählung[^1] hervor, die das Statistische Bundesamt 2020 herausgab. Das bedeutet jedoch nicht, dass diese 31 Prozent der Tiere ein harmonisches Leben führen. Laut Albert Schweitzer Stiftung können selbst die Rinder, die zeitweise auf eine Weide oder in einen Auslauf dürfen, über Stunden, Tage, Monate oder sogar Jahre im Stall angebunden sein. Zudem bedeutet der Begriff "Auslauf" nicht, dass es sich dabei auch um eine grüne, saftige Wiese handeln muss. Doch das ist ein anderes Thema. In diesem Artikel geht es um die Anbindehaltung. Die, da sind sich Tierrechtsaktivist⋆innen und Tierschützer⋆innen weltweit einig, rückständigste Form der Haltung.
@@ -91,11 +87,7 @@ Weil die angebundenen Rinder oft in ihren Hinterlassenschaften stehen müssen, k
 
 Die harten Gitter, auf denen die Tiere tagein, tagaus stehen müssen, die feuchten Verhältnisse und der Schmutz sorgen für Infektionen der Haut und der Klauen – beides kann äußerst schmerzhaft sein. Die Albert Schweitzer Stiftung hat dazu Zahlen:
 
-Über 80 Prozent der Rinder können von Dermatitis Digitalis betroffen sein,
-bis zu 7,7 Prozent leiden unter Blutungen der Sohlen,
-Sohlenballengeschwüre kommen bei bis zu 4,7 Prozent vor und 
-bis zu 100 Prozent erleiden eine Ballenhornfäule.
-Besonders kritisch ist zudem die hohe Belastung mit Ammoniak, die durch die Zersetzung von Kot und Urin entsteht. Sie belastet die Atemwege der Tiere permanent und kann zu schweren Krankheiten wie der Rindergrippe führen.
+Über 80 Prozent der Rinder können von Dermatitis Digitalis betroffen sein, bis zu 7,7 Prozent leiden unter Blutungen der Sohlen, Sohlenballengeschwüre kommen bei bis zu 4,7 Prozent vor und  bis zu 100 Prozent erleiden eine Ballenhornfäule. Besonders kritisch ist zudem die hohe Belastung mit Ammoniak, die durch die Zersetzung von Kot und Urin entsteht. Sie belastet die Atemwege der Tiere permanent und kann zu schweren Krankheiten wie der Rindergrippe führen.
 
 Neben den Erkrankungen des Bewegungsapparates sind auch Euterenzündungen ein häufig auftretendes Krankheitsbild bei Rindern in Anbindehaltung. Sie kommen bei ihnen nachweislich häufiger vor, als bei Tieren, die in Laufstallhaltung leben. Ist die Anbindehaltung besonders beengt, kann es außerdem passieren, dass sich die Kühe unbeabsichtigt gegenseitig am Euter verletzen oder an Kanten und Gittern hängen bleiben.
 
@@ -138,7 +130,7 @@ Zwar diskutiert man schon seit vielen Jahren, auch das Anbinden von Rindern zu v
 heißt es auf der Webseite der Stiftung für unsere Mitwelt.
 
 > "Der Lebensmitteleinzelhandel geht derweil zumindest in kleinen Schritten voran: In der Haltungsform-Kennzeichnung ist die ganzjährige Anbindehaltung ab Stufe 2 ausgeschlossen, die Kombinationshaltung ab Stufe 3. Mehrere Unternehmen haben angekündigt, unter ihren Eigenmarken in Zukunft keine Trinkmilch mehr aus Stufe 1 und teils auch Stufe 2 anzubieten.
-> 
+>
 > Die Impulse des Handels sind sehr wichtig. Denn wenn keine Produkte mehr aus Anbindehaltung verkauft werden, kann das einiges ins Rollen bringen – wie schon bei der Abschaffung der Käfighaltung von Legehennen. Noch besser und endgültiger wäre jedoch ein baldiges bundesweites Verbot jeglicher Anbindehaltung – ohne Ausnahmen – durch die Politik. Wirklich gut geht es Rindern zwar auch in anderen Haltungsformen der Massentierhaltung nicht. Die Anbindehaltung ist jedoch besonders tierschutzwidrig."
 
 Das derzeitge Handeln der Politik empfinden viele Tierrechtsaktivist⋆innen hingegen eher als Stagnation, wenn nicht sogar als Rückschritt. Die Albert Schweitzer Stiftung sieht das so:
@@ -152,40 +144,21 @@ H﻿offen wir, dass sich bald etwas grundlegend ändert. Je mehr wir darüber re
 **Bild im Titel:** © [Animal Rights Watch e. V. (ARIWA)](https://www.ariwa.org/)
 
 [^1]: [Landwirtschaftszählung des Statistischen Bundesamtes von 2020](https://www.destatis.de/DE/Themen/Branchen-Unternehmen/Landwirtschaft-Forstwirtschaft-Fischerei/Produktionsmethoden/Publikationen/Downloads-Produktionsmethoden/stallhaltung-weidehaltung-tb-5411404209004.pdf;jsessionid=A721125841B9A398DB0E6D7BF08E2FA1.live731?__blob=publicationFile)
-
 [^2]: [Whitepaper der Organisation Expertise for Animals](https://www.expertiseforanimals.com/blog-artikel/jetzt-online-unser-report-zum-ausstieg-aus-der-anbindehaltung)
-
 [^3]: [Beschreibung Kombinationshaltung, bayerisches Landwirtschaftsministerium](https://www.milch.bayern/wp-content/uploads/2019/07/Pressemitteilung-Kombinationshaltung-milch.bayern-bayerisches-Landwirtschaftministerium.pdf)
-
 [^4]: [Anhang 1 Nr. 8 RL 2008/119/EG § 5 Tierschutz-Nutztierhaltungs-Verordnung](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:010:0007:0013:DE:PDF)
-
 [^5]: [Tierschutz-Nutztierhaltungs-Verordnung](https://www.gesetze-im-internet.de/tierschnutztv/__5.html)
-
 [^6]: [Art. 39 VO (EG) Nr. 889/2008](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32008R0889)
-
 [^7]: [Anhang II Teil II Nr. 1.7.5 VO (EG) Nr. 834/2007](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:02018R0848-20220101&from=DE)
-
 [^8]: [Stereoptypie, pschyrembel.de](https://www.pschyrembel.de/Stereotypie/K0LK0)
-
 [^9]: [§ 1 Tierschutzgesetz](https://www.gesetze-im-internet.de/tierschg/__1.html)
-
 [^10]: [§ 2 Nr. 1 Tierschutzgesetz](https://www.gesetze-im-internet.de/tierschg/__2.html)
-
 [^11]: [§ 2 Nr. 2 TierSchG Anhang Punkt 7. RL 98/58/EG](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:31998L0058)
-
 [^12]: [Gutachten Expertise for Animals, Jens Bülte, Barbara Feld, Christoph Maisack Albert Schweitzer Stiftung ](https://www.nomos-elibrary.de/10.5771/9783748928478.pdf?download_full_pdf=1)
-
 [^13]: [Rechtsgutachten Greenpeace](https://www.greenpeace.de/publikationen/Rechtsgutachten%20Milchkuhhaltung.pdf)
-
 [^14]: [Gutachten EFSA](https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2023.7993)
-
 [^15]: [Verbot Anbindehaltung von Hunden, Bundesrat](https://www.bundesrat.de/SharedDocs/drucksachen/2021/0301-0400/394-21.pdf?__blob=publicationFile&v=1)
-
 [^16]: ["BDL fordert gesetzliches Verbot der Anbindehaltung", Top Agrar](https://www.topagrar.com/rind/news/bdl-fordert-gesetzliches-verbot-der-anbindehaltung-9833822.html)
-
 [^17]: ["Urteil zum Kükentöten", Albert Schweitzer Stiftung](https://albert-schweitzer-stiftung.de/aktuell/urteil-kuekentoeten-negatives-positives)
-
 [^18]: ["Ampel und Tierschutz", Albert Schweitzer Stiftung](https://albert-schweitzer-stiftung.de/aktuell/ampel-und-tierschutz)
-
 [^19]: ["Anbindehaltung nicht legitimieren", Albert Schweitzer Stiftung](https://albert-schweitzer-stiftung.de/aktuell/anbindehaltung-nicht-legitimieren)
-

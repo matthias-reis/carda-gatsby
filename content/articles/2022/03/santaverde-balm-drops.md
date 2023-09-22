@@ -5,16 +5,10 @@ typeName: Produkttest
 title: Neuheiten von Santaverde
 subTitle: Allround Balm, Collagen Drops & Probiotic Drops
 seoTitle: Santaverde Allround Balm, Collagen Drops & Probiotic Drops
-description: Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich
-  habe die Collagen Drops, die Probiotic Drops und das Allround Balm getestet
-  und einiges über die veganen Beauty-Produkte in Erfahrung gebracht.
-excerpt: Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich habe
-  die Collagen Drops, die Probiotic Drops und das Allround Balm getestet und
-  einiges über die veganen Beauty-Produkte in Erfahrung gebracht. Wie alles von
-  Santaverde, sind auch die Collagen Drops, die Probiotic Drops und der Allround
-  Balm vegan und mit dem Leaping Bunny und dem Vegan Society Logo ausgezeichnet.
+description: Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich habe die Collagen Drops, die Probiotic Drops und das Allround Balm getestet und einiges über die veganen Beauty-Produkte in Erfahrung gebracht.
+excerpt: Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich habe die Collagen Drops, die Probiotic Drops und das Allround Balm getestet und einiges über die veganen Beauty-Produkte in Erfahrung gebracht. Wie alles von Santaverde, sind auch die Collagen Drops, die Probiotic Drops und der Allround Balm vegan und mit dem Leaping Bunny und dem Vegan Society Logo ausgezeichnet.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-16/santaverde-jpg-imagine-b8b8c8_a08a98_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-16/santaverde-fb-png-imagine-b8b8c8_9e9098_1200_628/640.webp
 labels:
   - Santaverde
@@ -37,11 +31,12 @@ advertisement: true
 affiliate: false
 language: de
 ---
+
 **Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich habe die Collagen Drops, die Probiotic Drops und das Allround Balm getestet und einiges über die veganen Beauty-Produkte in Erfahrung gebracht.**
 
 Den Allround Balm habe ich zuerst ausprobiert. Er kam mir aufgrund meiner trockenen Lippen und Ellenbogen sehr gelegen. Ich war schon länger auf der Suche nach einer Art "Erste-Hilfe-Produkt" für solche Fälle. Und genau als das wird er von Santaverde auch angepriesen: ein SOS-Balsam mit hochwertiger Pflanzenbutter und Ölen. Für mich klingt das ziemlich gut. Und ich muss sagen: Es klappt auch. Mit dem sanft nach Vanille duftenden Balsam fühlen sich meine Lippen gleich viel zarter an und auch die Ellenbogen spannen nach zwei Anwendungen schon viel weniger.
 
-## Reparierender und schützender Allround Balm 
+## Reparierender und schützender Allround Balm
 
 Der Allround Balm soll sofort reparierend und schützend wirken. Die Haut fühlt sich nach dem Auftragen zarter und geschmeidiger an. Für Pflege sorgen Lipide aus Mangokernen und Sheabutter. Baumwollsamenöl soll die Zellerneuerung fördern und raue und rissige Haut glätten. Jojoba-, Avocado- und Hagebuttenöl sollen reparierend und pflegend wirken und die Elastizität der Haut verbessern.
 

@@ -5,14 +5,10 @@ typeName: Review
 title: '"Nuit Ensemble"'
 subTitle: Perry Frank's new Album
 seoTitle: '"Nuit Ensemble" – Post-Rock Review'
-description: Looking for some really great ambient/post-rock sound? Check out my
-  review of Perry Frank's album "Nuit Ensemble".
-excerpt: Some weeks ago, Perry Frank released his new album. With "Nuit
-  Ensemble", he went on a new path, mixing his fabulous ambient sounds with
-  classic elements from the post-rock genre. So, the album is also one for you
-  if you're more into this kind of music.
+description: Looking for some really great ambient/post-rock sound? Check out my review of Perry Frank's album "Nuit Ensemble".
+excerpt: Some weeks ago, Perry Frank released his new album. With "Nuit Ensemble", he went on a new path, mixing his fabulous ambient sounds with classic elements from the post-rock genre. So, the album is also one for you if you're more into this kind of music.
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-07/perry-frank-nuit-ensemble-jpg-imagine-086888_315463_1024_768/640.webp
-copyrigt: Perry Frank
+copyright: Perry Frank
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-07/perry-frank-nuit-ensemble-og-jpg-imagine-281818_334f5c_1200_628/640.webp
 labels:
   - Korg Volca Keys
@@ -34,6 +30,7 @@ affiliate: false
 language: en
 languageLink: /2022/12/perry-frank-nuit-ensemble/
 ---
+
 **Some weeks ago, Perry Frank released his new album. With "Nuit Ensemble", he went on a new path, mixing his fabulous ambient sounds with classic elements from the post-rock genre. So, the album is also one for you if you're more into this kind of music.**
 
 "Nuit Ensemble" ("Night Ensemble") is Perry's first solo album since 2020. He wrote the songs in early 2022 at Homeland Studios in Iglesias, Sardinia—except for "Nuit" which he released as a single and part of his "Sleep Cycle II" compilation earlier on. The outcome is a selection of eight unreleased tracks and two entirely new ones, ranging between Ambient and Post-Rock.
@@ -60,7 +57,7 @@ The opener of "Nuit Ensemble" is the slightly drone-infused track "Disappear"—
 
 For Perry, "Moon Orchestra" is the most symbolic track on the album—especially because of the technique he used to record it: He based the whole song on cassette loops following each other—sustained by drone guitars and soundscapes. The multi-instrumentalist wrote and recorded "Moon Orchestra" at nighttime when it was already dark outside—moonbeams coming through his window, painting an unreal-seaming nocturnal landscape.
 
-It was a Korg Volca Keys on which Perry originally recorded the fourth track, "Isolation", which he dedicated to the lockdown times during the pandemic. For those of you who love to compare sundry instruments (especially the keys are always so exciting to explore!): You can find the first version of the song on Perry's Volca Session, which he released on his YouTube Channel in May 2022. 
+It was a Korg Volca Keys on which Perry originally recorded the fourth track, "Isolation", which he dedicated to the lockdown times during the pandemic. For those of you who love to compare sundry instruments (especially the keys are always so exciting to explore!): You can find the first version of the song on Perry's Volca Session, which he released on his YouTube Channel in May 2022.
 
 There is also a version of the song on the "50th Ambient Guitar Session" recorded at the Ex Nato Military Base on the Limbara Mountain in Sardinia. For Perry, the track is a message of inner peace—against all wars. With the new version, the artist combined two arrangements, starting with a tape loop processed through a bunch of pedal effects, leading to a really great drone sound in the background.
 

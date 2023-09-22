@@ -5,15 +5,10 @@ typeName: Interview
 title: Interview with Solár Drummer Aron about their upcoming Album "Atlas"
 subTitle: '"We love to play in complete Darkness"'
 seoTitle: Interview with the Sweden-based Post-Rock project Solár
-description: The young Sweden-based post-rock project Solár ist about to release
-  its first album "Atlas". Drummer Aron shared the secrets of the record with
-  me.
-excerpt: Solár is a young Sweden-based post-rock project I recently became aware
-  of. They sent me their first album, "Atlas", and I instantly fell in love with
-  their music. Their songs can be described as sophisticated, artsy post-music
-  with a touch of DIY here and a pinch of prog there.
+description: The young Sweden-based post-rock project Solár ist about to release its first album "Atlas". Drummer Aron shared the secrets of the record with me.
+excerpt: Solár is a young Sweden-based post-rock project I recently became aware of. They sent me their first album, "Atlas", and I instantly fell in love with their music. Their songs can be described as sophisticated, artsy post-music with a touch of DIY here and a pinch of prog there.
 image: https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-1-jpeg-imagine-181818_36383c_1024_768/640.webp
-copyrigt: Solár
+copyright: Solár
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-1-fb-jpeg-imagine-181818_383a3d_1200_628/640.webp
 labels:
   - Solár
@@ -39,6 +34,7 @@ affiliate: false
 language: en
 languageLink: /2022/08/solar-interview/
 ---
+
 **Solár is a young Sweden-based post-rock project I recently met. They sent me their first album, "Atlas", and I instantly fell in love with their music. Their songs can be described as sophisticated, artsy post-music with a touch of DIY here and a pinch of prog there. I wanted to know more about them, and I think you guys should, too. So, here is my interview with drummer Aron. Please enjoy!**
 
 But first things first: "Atlas" will be available on all music streaming platforms from September 9th. You can listen to their pre-released single "Nomad" below.
@@ -57,21 +53,21 @@ But first things first: "Atlas" will be available on all music streaming platfor
 
 **Anne:** Will there be any occasions we can enjoy the six fabulous songs on "Atlas" live?
 
-**Aron:** Yes! We will be hosting a release gig on September 10th, here in Stockholm at a local brewery. It's going to be super loud, haha! We are also opening up for 1000Mods here in Sweden in October. We also have plans for festivals in other countries, such as Germany, for 2023. 
+**Aron:** Yes! We will be hosting a release gig on September 10th, here in Stockholm at a local brewery. It's going to be super loud, haha! We are also opening up for 1000Mods here in Sweden in October. We also have plans for festivals in other countries, such as Germany, for 2023.
 
 **Anne:** The songs are named "Nomad", "Sam Francis" (the painter?), "Swarm", "Mesmer" (is it about the mesmerism guy?), "Breach", and "Samarkand" (the name of a city in Uzbekistan?). They sound as if there is a story behind them that puts them all together. Is there? Do you want to share it?
 
 ## A nomad in the sea of dunes
 
-**Aron:** I can probably write endlessly about the meaning and theme of the songs, but the overall concept is, as I said, a journey and an exploration of the mind. The title "Nomad" just came to us when we wanted to describe the bridge in the middle of the song, with the toms being very prominent. That part gave us all a vision of being a Nomad wandering the dune sea, so we named the song "Nomad". 
+**Aron:** I can probably write endlessly about the meaning and theme of the songs, but the overall concept is, as I said, a journey and an exploration of the mind. The title "Nomad" just came to us when we wanted to describe the bridge in the middle of the song, with the toms being very prominent. That part gave us all a vision of being a Nomad wandering the dune sea, so we named the song "Nomad".
 
 "Sam Francis" is named after the painter known as one of the most profound abstract expressionists. Leon Olas Rosén, one of our keyboard players, came from a family of painters and used to listen to the early versions of this song when he painted his work. So, as an abstract painter, he could very much connect the sound with vision and music into colour.
 
-"Swarm" and "Breach" are named after visions and feelings. The intro and outro of "Swarm", where the bass hits you, capture the feeling of being devoured, as a swarm does. "Breach" comes from violating an agreement and being punished for it. The speech in the song is delivered by the late Olof Palme, former prime minister of Sweden, where he talks about how we as a species, especially in the western world, destroy our future. A violation of the agreement to our survival. 
+"Swarm" and "Breach" are named after visions and feelings. The intro and outro of "Swarm", where the bass hits you, capture the feeling of being devoured, as a swarm does. "Breach" comes from violating an agreement and being punished for it. The speech in the song is delivered by the late Olof Palme, former prime minister of Sweden, where he talks about how we as a species, especially in the western world, destroy our future. A violation of the agreement to our survival.
 
 With "Mesmer", we wanted to create a pause to breathe amidst all the chaos. This song features Henrik Wenne on vocals, an exceptional singer and lyricist. He explores the feelings that hurt and scare us the most, only to wake from the hypnosis with an overload of mental impressions.
 
-"Samarkand" is the meaning of transporting you as a listener far, far away. Think of yourself as being in the middle of an endless field or a valley where you wander forever, exhausting all your energy trying to get back to safety. But, if you succeed or fail, we don't know only that the journey ends there. 
+"Samarkand" is the meaning of transporting you as a listener far, far away. Think of yourself as being in the middle of an endless field or a valley where you wander forever, exhausting all your energy trying to get back to safety. But, if you succeed or fail, we don't know only that the journey ends there.
 
 **Anne:** You worked with Sofar Stockholm. They take care of live venues and studios, if I am correctly informed? What are your connections with this gorgeous association?
 
@@ -97,19 +93,19 @@ With "Mesmer", we wanted to create a pause to breathe amidst all the chaos. This
 
 **Anne:** Did you always want to make post-music?
 
-**Aron:** We all studied to become freelance musicians, and the natural line of work here in Sweden for such a professional is to play with pop artists. Playing with artists doesn't always allow for 100 per cent artistic freedom, and the genre can be a bit too generic sometimes and not as unique. We had an urge to play music as far away from the mainstream charts as possible, so we went into a rehearsal room together, cut the lights and started jamming for hours in complete darkness. Eliminating the sense of vision forces us to enhance our hearing and listen to each other. This is still the way we play today to draw out the maximum amount of feelings. 
+**Aron:** We all studied to become freelance musicians, and the natural line of work here in Sweden for such a professional is to play with pop artists. Playing with artists doesn't always allow for 100 per cent artistic freedom, and the genre can be a bit too generic sometimes and not as unique. We had an urge to play music as far away from the mainstream charts as possible, so we went into a rehearsal room together, cut the lights and started jamming for hours in complete darkness. Eliminating the sense of vision forces us to enhance our hearing and listen to each other. This is still the way we play today to draw out the maximum amount of feelings.
 
 **Anne:** Are there any side projects you are involved in or previous bands you want to mention?
 
-**Aron:** I play in a newly started and very angry hardcore project. We don't have a name yet, though. Leon plays with various artists, some of whom come from Swedish Idol, and has his Lo-Fi duo, nap.head. 
+**Aron:** I play in a newly started and very angry hardcore project. We don't have a name yet, though. Leon plays with various artists, some of whom come from Swedish Idol, and has his Lo-Fi duo, nap.head.
 
 **Anne:** You describe your music as dark and atmospheric, which puts it into words pretty well. All these light and heavy moments, sudden changes and emotional paraphrases – Is this how life is?
 
-**Aron:** I would say that it is one aspect of how life is. Every person comes with a backstory and carries some "load" which we don't see at first. Furthermore, you never know what comes next, as life is unfair and unpredictable. 
+**Aron:** I would say that it is one aspect of how life is. Every person comes with a backstory and carries some "load" which we don't see at first. Furthermore, you never know what comes next, as life is unfair and unpredictable.
 
 **Anne:** Is "Atlas" the first record you created?
 
-**Aron:** We have all recorded shorter albums or EPs in earlier projects, but I believe this is our first album that's longer than one hour. 
+**Aron:** We have all recorded shorter albums or EPs in earlier projects, but I believe this is our first album that's longer than one hour.
 
 **Anne:** Did you enjoy the process of writing and recording "Atlas"?
 
@@ -127,6 +123,15 @@ With "Mesmer", we wanted to create a pause to breathe amidst all the chaos. This
 
 ## Solar – "Nomad"
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JJXT5N7i93ENo1RFutDKo?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe
+  style="border-radius:12px"
+  src="https://open.spotify.com/embed/track/5JJXT5N7i93ENo1RFutDKo?utm_source=generator"
+  width="100%"
+  height="380"
+  frameBorder="0"
+  allowfullscreen=""
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+></iframe>
 
-![Solár – "Atlas" | large](https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-jpeg-imagine-080808_1b1c17_4288_1660/640.webp "Solár")
+![Solár – "Atlas" | large](https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-jpeg-imagine-080808_1b1c17_4288_1660/640.webp 'Solár')

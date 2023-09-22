@@ -5,17 +5,11 @@ typeName: Beitrag
 title: Zu Besuch auf Hof Butenland
 subTitle: Kuhaltersheim und Tierschutzhof hautnah
 seoTitle: Butenland live erleben – so ist es auf dem Tierschutzhof
-ogTitle: 
-description: Butenland live zu erleben und das Gründerpaar Karin und Jan
-  kennenzulernen – dieser Traum hat sich für mich jetzt erfüllt. Erfahrt jetzt
-  alles über meinen Besuch!
-excerpt: Butenland besuchen und die Gründer⋆innen Karin und Jan und die
-  Hofbewohner⋆innen kennenlernen – und natürlich mein Patenschwein Frederik –
-  das habe ich mir schon sehr lange gewünscht. Am Wochenende war es endlich so
-  weit. Weil meine Eindrücke noch ganz frisch sind, möchte ich die Gelegenheit
-  nutzen und Euch Butenland nochmal genau vorstellen.
+ogTitle:
+description: Butenland live zu erleben und das Gründerpaar Karin und Jan kennenzulernen – dieser Traum hat sich für mich jetzt erfüllt. Erfahrt jetzt alles über meinen Besuch!
+excerpt: Butenland besuchen und die Gründer⋆innen Karin und Jan und die Hofbewohner⋆innen kennenlernen – und natürlich mein Patenschwein Frederik – das habe ich mir schon sehr lange gewünscht. Am Wochenende war es endlich so weit. Weil meine Eindrücke noch ganz frisch sind, möchte ich die Gelegenheit nutzen und Euch Butenland nochmal genau vorstellen.
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-08/2023-17-2023-17-hof-butenland-anne-reis-sounds-vegan-183-jpg-imagine-080808_646948_2048_1536/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-08/butenland-besuch-og-jpg-imagine-081818_71774b_1200_628/640.webp
 labels:
   - Butenland
@@ -30,6 +24,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Butenland besuchen und die Gründer⋆innen Karin und Jan und die Hofbewohner⋆innen kennenlernen – und natürlich mein Patenschwein Frederik – das habe ich mir schon sehr lange gewünscht. Am Wochenende war es endlich so weit. Weil meine Eindrücke noch ganz frisch sind, möchte ich die Gelegenheit nutzen und Euch Butenland nochmal genau vorstellen.**
 
 Vorneweg: so viele emphatische, liebe und herzliche Tiere und Menschen habe ich noch nie zuvor an einem Ort getroffen. Es war magisch – Das sage ich, ohne zu übertreiben.
@@ -42,11 +37,11 @@ Als wir ankamen, begrüßte uns auf dem in den Bäumen über dem Hoftor ein gro�
 
 Gemeinsam mit einigen anderen Tierschützer⋆innen wurden wir pünktlich um 15 Uhr zum Start der Tour am Parkplatz abgeholt. Karin und Jan begrüßten uns unglaublich herzlich – gemeinsam mit Hofleiter Sir Archie, einem kleinen Pekinesen aus dem Tierschutz sowie seinem Hundefreund Palau. Sir Archie wich uns für die kompletten zweieinhalb Stunden unseres Aufenhalts nicht mehr von der Seite. Er folgte uns über Stock und Stein, zwischen Kuhbeinen hindurch, über Wiesen und den berühmten Kuhdamm – so heißt der schmale geteerte Weg, über den man vom Hof zu den Rinderweiden gelangt.
 
-![Karin auf dem Kuhdamm | large](https://storage.googleapis.com/cardamonchai-media/2023-05-08/2023-05-07-hof-butenland-anne-reis-soundsvegan1043-jpg-imagine-283808_5e694c_2048_1536/640.webp "Karin auf dem Kuhdamm")
+![Karin auf dem Kuhdamm | large](https://storage.googleapis.com/cardamonchai-media/2023-05-08/2023-05-07-hof-butenland-anne-reis-soundsvegan1043-jpg-imagine-283808_5e694c_2048_1536/640.webp 'Karin auf dem Kuhdamm')
 
-![Hofleiter Sir Archie | large](https://storage.googleapis.com/cardamonchai-media/2023-05-08/2023-05-07-hof-butenland-anne-reis-soundsvegan1101-jpg-imagine-282838_636363_2048_1536/640.webp "Hofleiter Sir Archie")
+![Hofleiter Sir Archie | large](https://storage.googleapis.com/cardamonchai-media/2023-05-08/2023-05-07-hof-butenland-anne-reis-soundsvegan1101-jpg-imagine-282838_636363_2048_1536/640.webp 'Hofleiter Sir Archie')
 
-Zuerst ging es in den Stall. Dort lernten wir die beiden Minischweine Eberhardt und Winfried kennen. Das Vater-Sohn-Paar wurde aus dem Tierversuch gerettet. Die beiden sind unzertrennlich. 
+Zuerst ging es in den Stall. Dort lernten wir die beiden Minischweine Eberhardt und Winfried kennen. Das Vater-Sohn-Paar wurde aus dem Tierversuch gerettet. Die beiden sind unzertrennlich.
 
 Im Unibetrieb stand ihnen über Jahre nur eine winzige Strohecke in einem gefliesten Raum zur Verfügung – kein Ort für zwei Schweine. Sohn Winfried verlor durch die Tests im Labor sein Augenlicht und kann heute nur noch Schatten erkennen. Das hat ihn nicht davon abgehalten, auf Butenland zu einem sehr glücklichen Eber zu werden – gemeinsam mit seinem Papa, dem er nicht von der Seite weicht. Inzwischen leben sie seit gut sechs Jahren auf Butenland und fühlen sich dort sauwohl. Das konnten wir live erleben: Als wir die beiden im Garten vor dem Hoftor fanden, kamen sie neugierig zu uns, um uns zu beschnuppern. Anschließend beschloss Eberhard, dass es Zeit für ein Nickerchen wäre und er bat Karin mittels Körpersprache, das Tor für ihn und seinen Sohn zu öffnen. Im kühlen, gemütlichen Inneren angekommen, ging er schnurstracks auf ihr gemütliches, dickes Strohbett zu und fing an, sich einzugraben – dicht gefolgt von Winfried. Die beiden schlafen immer Rüssel an Rüssel.
 
@@ -88,7 +83,7 @@ Besonders gut angefreundet haben wir uns mit dem großen Ochsen Mattis.
 
 <Gallery name="butenland-mattis" />
 
-Alle Tiere auf Butenland haben dramatische Schicksale hinter sich und bevor sie auf den Hof von Karin und Jan kamen, Schlimmes erlebt. Viele von ihnen waren vollkommen traumatisiert, krank oder wurden von ihren ehemaligen Besitzer⋆innen sogar schon als tot erklärt. 
+Alle Tiere auf Butenland haben dramatische Schicksale hinter sich und bevor sie auf den Hof von Karin und Jan kamen, Schlimmes erlebt. Viele von ihnen waren vollkommen traumatisiert, krank oder wurden von ihren ehemaligen Besitzer⋆innen sogar schon als tot erklärt.
 
 Von der Kuh, die mit offenem Bauch im Tierversuch stand, bis zum Huhn, das mit multiplen Brüchen aus der Legehaltung kam. Von der Kuh-Mutter, die hochtragend vom Nachbarhof floh und nun ihrem inzwischen ausgewachsenen Kind nicht mehr von der Seite weicht, weil sie nach Jahren immer noch Angst hat, dass jemand kommt und es ihr wegnimmt bis zum Ochsen, der von einem Restaurant-Besitzer in einer Garage angebunden wurde und sich nun immer in vorsichtigem Sicherheitsabstand zur Herde aufhält. Sie alle haben auf Butenland ein liebevolles, mitfühlendes Zuhause gefunden.
 
@@ -100,7 +95,7 @@ Karin und Jan haben ihr Leben den Tieren gewidmet. Sie kümmern sich mit Herzblu
 
 ## Karin – die Tierpsychologin
 
-Karin Mück ist Tierrechtlerin seit sie denken kann. Als zweite Vorsitzende der Butenland Stiftung führt sie Hof gemeinsam mit ihrem Lebenspartner Jan Gerdes. Sie blickt auf eine 20-jährige Karriere als Krankenschwester zurück und begann schon als Jugendliche, sich für Tiere einzusetzen. Tierversuche und die Fleischindustrie waren für sie schon immer blanker Horror. Zwischen Haustieren und "Nutztieren" sah sie auch als Kind schon keinen Unterschied. Bereits in den 1980er-Jahren machte sie Menschen auf die Missstände im Umgang mit Tieren aufmerksam und wurde sogar verhaftet. 
+Karin Mück ist Tierrechtlerin seit sie denken kann. Als zweite Vorsitzende der Butenland Stiftung führt sie Hof gemeinsam mit ihrem Lebenspartner Jan Gerdes. Sie blickt auf eine 20-jährige Karriere als Krankenschwester zurück und begann schon als Jugendliche, sich für Tiere einzusetzen. Tierversuche und die Fleischindustrie waren für sie schon immer blanker Horror. Zwischen Haustieren und "Nutztieren" sah sie auch als Kind schon keinen Unterschied. Bereits in den 1980er-Jahren machte sie Menschen auf die Missstände im Umgang mit Tieren aufmerksam und wurde sogar verhaftet.
 
 Mit ihrer einfühlsamen Art kümmert sie sich um kranke und traumatisierte Tiere, versorgt Wunden, kümmert sich um die Abstimmung mit dem Tierarzt und schaufelt sich durch Berge von Pferdeäpfeln und Strohballen. Wenn sich zwischendurch die Gelegenheit ergibt, macht sie außerdem die wunderbaren Butenland-Fotos, die ihr auf der Hof-Webseite und in den sozialen Netzwerken bewundern könnt.
 
@@ -110,9 +105,9 @@ Mit ihrer einfühlsamen Art kümmert sie sich um kranke und traumatisierte Tiere
 
 Jan brach 1978 sein Lehramtsstudium für Biologie und Mathematik ab, um auf dem Hof seiner Eltern eine landwirtschaftliche Berufsausbildung zu starten und seine Eltern zu unterstützen. Nach seinem Meisterkurs an der Fachschule für Landwirtschaft wurde er Betriebsleiter auf Hof Butenland und stellte den damaligen Milchbetrieb nach und nach auf Bio-Landwirtschaft um. 1984 legte er seine Landwirtschaftsmeisterprüfung ab. 2001 beendete er den Nutztierbetrieb und wurde zum Veganer.
 
-Seit 2007 ist er der erste Vorsitzende der Tierschutzstiftung Hof Butenland, die er gemeinsam mit Karin gründete. Er kümmert sich um landwirtschaftliche Arbeiten, pflegt die Großtiere und  bewirtschaftet die Weiden und Wiesen von Hof Butenland.
+Seit 2007 ist er der erste Vorsitzende der Tierschutzstiftung Hof Butenland, die er gemeinsam mit Karin gründete. Er kümmert sich um landwirtschaftliche Arbeiten, pflegt die Großtiere und bewirtschaftet die Weiden und Wiesen von Hof Butenland.
 
-![Jan und Ferdinand | large](https://storage.googleapis.com/cardamonchai-media/2023-05-08/2023-05-07-hof-butenland-anne-reis-soundsvegan1017-jpg-imagine-080808_413a31_2048_1536/640.webp "Jan und Ferdinand")
+![Jan und Ferdinand | large](https://storage.googleapis.com/cardamonchai-media/2023-05-08/2023-05-07-hof-butenland-anne-reis-soundsvegan1017-jpg-imagine-080808_413a31_2048_1536/640.webp 'Jan und Ferdinand')
 
 Auf Hof Butenland dürfen alle Tiere so leben, wie sie es sich wünschen. Sie dürfen spielen, alt werden, bei ihren Kindern bleiben und fressen, schlafen und kuscheln, wie es ihnen passt.
 

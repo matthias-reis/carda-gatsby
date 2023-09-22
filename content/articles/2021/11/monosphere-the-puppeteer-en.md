@@ -5,15 +5,10 @@ typeName: Interview
 title: '"The Puppeteer"'
 subTitle: The New Monosphere Album
 seoTitle: '"The Puppeteer" by Monosphere – Post-Rock Review'
-description: The critically acclaimed new Monosphere album "The Puppeteer" will
-  be out on November 26th. I now had the chance to talk to founder and drummer
-  Rodney. We also talked about veganism.
-excerpt: The critically acclaimed new Monosphere album "The Puppeteer" will be
-  out on November 26th. Time for an interview with the post-metal/prog band from
-  Mainz. Drummer Rodney has not only answered my questions about the record. He
-  has been vegan for almost ten years now, so we also talked about that topic.
+description: The critically acclaimed new Monosphere album "The Puppeteer" will be out on November 26th. I now had the chance to talk to founder and drummer Rodney. We also talked about veganism.
+excerpt: The critically acclaimed new Monosphere album "The Puppeteer" will be out on November 26th. Time for an interview with the post-metal/prog band from Mainz. Drummer Rodney has not only answered my questions about the record. He has been vegan for almost ten years now, so we also talked about that topic.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-title-jpg-imagine-080808_454240_1024_768/640.webp
-copyrigt: Monosphere
+copyright: Monosphere
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-fb-png-imagine-080808_191109_1200_628/640.webp
 labels:
   - Post-Rock
@@ -36,6 +31,7 @@ affiliate: false
 language: en
 languageLink: /2021/11/monosphere-the-puppeteer/
 ---
+
 **The critically acclaimed new Monosphere album "The Puppeteer" will be out on November 26th. Time for an interview with the post-metal/prog band from Mainz. Drummer Rodney has not only answered my questions about the record. He has been vegan for almost ten years now, so we also talked about that topic.**
 
 **Anne:** You told me that "The Puppeteer" is a large-scale concept album. Would you like to tell me what concept it is? Does it tell a story? Who is the puppeteer?
@@ -44,7 +40,7 @@ languageLink: /2021/11/monosphere-the-puppeteer/
 
 ## A fictive world
 
-![Monosphere - "The Puppeteer"  cover image (An abstract face build of white cables on a pink background)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-cover-jpg-imagine-e8a898_b184ad_1080_1080/640.webp "Monosphere - \"The Puppeteer\"")
+![Monosphere - "The Puppeteer"  cover image (An abstract face build of white cables on a pink background)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-cover-jpg-imagine-e8a898_b184ad_1080_1080/640.webp 'Monosphere - "The Puppeteer"')
 
 Linking to the music videos, the designs, and even our Instagram channel are also part of the concept we are following with "The Puppeteer". The puppeteer himself is a fictional character. Together with another character, he lives in an imaginary world within the story. You could say it's a love story, but our singer Kevin, who wrote the lyrics, wouldn't necessarily subscribe to that (laughs).
 
@@ -58,7 +54,7 @@ There will be a printed book on the release day of the record. However, I am sti
 
 **Anne:** You told me you think an album without a fundamental concept hardly makes sense. How do you recognise a conceptless album? Can't it already be a concept to work together on something that all band members want to do? Or would it be a nightmare for you not to define a structure in advance?
 
-**Rodney:** For me, every album is based on a concept. After all, something must have prompted me to put a collection of songs on a record. For me, an album without a concept is just a collection of singles someone put on a record –  just for marketing reasons and to generate sales – without a common thread and without the idea behind writing an album. I think in this way, an album can never become an actual album.
+**Rodney:** For me, every album is based on a concept. After all, something must have prompted me to put a collection of songs on a record. For me, an album without a concept is just a collection of singles someone put on a record – just for marketing reasons and to generate sales – without a common thread and without the idea behind writing an album. I think in this way, an album can never become an actual album.
 
 The term "album" actually comes from classical music, or from the time of shellac records, where each side had only three to five minutes of playing time. If you wanted to listen to an entire work, such as a complete symphony, you needed several records collected in large albums. The term derives from the Latin word "albus" ("white") – the backs of the record sleeves were usually white.
 
@@ -66,7 +62,7 @@ The term "album" actually comes from classical music, or from the time of shella
 
 ## "We are a DIY band"
 
-![Monosphere (Picture of the band standing behind the entry of a concrete ruin)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-1-jpg-imagine-081838_546173_1024_768/640.webp "Monosphere")
+![Monosphere (Picture of the band standing behind the entry of a concrete ruin)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-1-jpg-imagine-081838_546173_1024_768/640.webp 'Monosphere')
 
 **Rodney:** Our influences are as varied as our music. Bands like Between The Buried And Me, [The Ocean](/2020/09/the-ocean-robin-staps-interview-en), Rolo Tomassi, Cult Of Luna and Deafheaven, influenced me as well as composers like Philip Glass or Steve Reich did. In addition, neoclassical artists like Joep Beving had a significant impact on our songwriting. You can hear that especially in the track "No Strings Attached".
 
@@ -84,14 +80,13 @@ The rhythm of day and night squeezes us into a system that dictates a strong con
 
 **Anne:** You are producing concept videos for your songs. Will we see them at your live shows as well?
 
-**Rodney:** Yes! We work with a beamer at our live concerts that is pointed at us during our set and plays a video projection. Because the videos pick up the album's story, they only make real sense in combination with the shows. But even apart from the videos,
-enough material for a continuous projection. So the Monosphere shows follow an audiovisual concept. The moving pictures are supposed to create a unique overall experience in addition to the music.
+**Rodney:** Yes! We work with a beamer at our live concerts that is pointed at us during our set and plays a video projection. Because the videos pick up the album's story, they only make real sense in combination with the shows. But even apart from the videos, enough material for a continuous projection. So the Monosphere shows follow an audiovisual concept. The moving pictures are supposed to create a unique overall experience in addition to the music.
 
 **Anne:** You told me that you have also been living vegan for almost ten years. How did that come about? What finally convinced you back then?
 
 ## "Living vegan in the future was the right decision"
 
-![Monosphere (Picture of the band standing in front of a concrete wall)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-2-jpg-imagine-081838_32425a_1024_768/640.webp "Monosphere")
+![Monosphere (Picture of the band standing in front of a concrete wall)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-2-jpg-imagine-081838_32425a_1024_768/640.webp 'Monosphere')
 
 **Rodney:** Yes, that's right. I started getting interested in vegan food in 2011 because I constantly came into contact with it at concerts. There was vegan chilli everywhere at the time, and I still remember how I didn't want to believe it was vegan at first. It ended up being a mixture of influences from the scene and the educational videos from PETA that enlightened me. I wanted to try living vegan for as long as possible. The experiment I did together with a friend only worked for one week. However, four weeks later, after a short time as a vegetarian, I decided that I could and would also give up cheese.
 
@@ -121,13 +116,13 @@ Because "The Puppeteer" tells a fictional story, it's not an issue in this case.
 
 **Anne:** What is your favourite thing to eat after a hard gig?
 
-**Rodney:** To be honest, I usually don't eat anything after a performance because it's usually too late. The next day, however, I eat even more – preferably something greasy, of course. For example french fries, and maybe some fancy substitute like nuggets –  and lots of vegan mayonnaise! But as much as I love junk food sometimes, I also love to cook at home. Lasagne is always a guarantee. I discovered it for myself over the Corona period. After a performance, however, it has to be quick. So fries with some deep-fried stuff are my first choice!
+**Rodney:** To be honest, I usually don't eat anything after a performance because it's usually too late. The next day, however, I eat even more – preferably something greasy, of course. For example french fries, and maybe some fancy substitute like nuggets – and lots of vegan mayonnaise! But as much as I love junk food sometimes, I also love to cook at home. Lasagne is always a guarantee. I discovered it for myself over the Corona period. After a performance, however, it has to be quick. So fries with some deep-fried stuff are my first choice!
 
 **Anne:** Enough about veganism. You formed in 2015 from the progressive deathcore band Lost Without Direction. How did the change come about?
 
 ## "We started our first band when we were about 16 years old"
 
-![Monosphere (Sepia photo of the band standing behind the entry of a concrete ruin)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-3-jpg-imagine-080808_615c59_1024_768/640.webp "Monosphere")
+![Monosphere (Sepia photo of the band standing behind the entry of a concrete ruin)](https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-3-jpg-imagine-080808_615c59_1024_768/640.webp 'Monosphere')
 
 **Rodney:** Lost Without Direction was the band we started making music in 2010. We were just 16 years old at the time, and we put everything into that band. Over time, our taste in music changed a bit. At some point, we reached a point of frustration and wanted to do something new. In the beginning, it was just our singer Kevin and me. Then the rest of the troupe joined relatively quickly.
 
@@ -147,7 +142,7 @@ We almost didn't even release the record until 2022 because there's hardly any t
 
 **Rodney:** At the moment, I'm still entirely caught up in the promo for the album and empty as far as new songs are concerned. There are sketches and finished demos, and the goal is to continue working on them as soon as possible, but I need a break.
 
-I think I need a break first. I need to gain a certain distance to be able to dedicate myself to new music. We also want to see how our previous music is received – this will undoubtedly give rise to one or two ideas. 
+I think I need a break first. I need to gain a certain distance to be able to dedicate myself to new music. We also want to see how our previous music is received – this will undoubtedly give rise to one or two ideas.
 
 For 2022 we plan to release an instrumental version of the record. Maybe there will be a piano version of some tracks or some remixes. So we have some ideas that we would like to try out.
 

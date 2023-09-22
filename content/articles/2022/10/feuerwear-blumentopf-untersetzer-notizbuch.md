@@ -5,17 +5,10 @@ typeName: Produkttest
 title: 3 Herbsthits von Feuerwear
 subTitle: Blumentopf, Untersetzer und Notizbuch aus Feuerwehr-Schlauch
 seoTitle: Blumentopf, Untersetzer und Notizbuch aus Feuerwehr-Schlauch
-description: Ihr seid auf der Suche nach einem schicken Blumentopf, einem
-  Notizbuch oder Untersetzern? Wie wäre es mit veganen nachhaltigen Feuerwear
-  Produkten aus Feuerwehrschlauch?
-excerpt: 'Feuerwear gibt es inzwischen neben Deutschland auch in der Schweiz und
-  sogar schon in Japan. Seit der Gründung von Martin und Robert Klüsener im Jahr
-  2009 hat sich einiges getan und es gibt immer mehr Produkte aus
-  Feuerwehrschlauch. Beim letzten Presseevent habe ich jetzt wieder drei
-  Neuzugänge kennengelernt: das Notizbuch "Percy", das Untersetzer-Set "Jules"
-  und den Blumentopf "Flora".'
+description: Ihr seid auf der Suche nach einem schicken Blumentopf, einem Notizbuch oder Untersetzern? Wie wäre es mit veganen nachhaltigen Feuerwear Produkten aus Feuerwehrschlauch?
+excerpt: 'Feuerwear gibt es inzwischen neben Deutschland auch in der Schweiz und sogar schon in Japan. Seit der Gründung von Martin und Robert Klüsener im Jahr 2009 hat sich einiges getan und es gibt immer mehr Produkte aus Feuerwehrschlauch. Beim letzten Presseevent habe ich jetzt wieder drei Neuzugänge kennengelernt: das Notizbuch "Percy", das Untersetzer-Set "Jules" und den Blumentopf "Flora".'
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-11/2022-10-02-feuerwear0329-jpg-imagine-080808_5e4b41_2048_1536/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-11/feuerwear-produkte-fb-jpeg-imagine-080808_595250_1200_628/640.webp
 labels:
   - Feuerwear
@@ -44,6 +37,7 @@ advertisement: true
 affiliate: false
 language: de
 ---
+
 **Feuerwear gibt es inzwischen neben Deutschland auch in der Schweiz und sogar schon in Japan. Seit der Gründung von Martin und Robert Klüsener im Jahr 2009 hat sich einiges getan und es gibt immer mehr Produkte aus Feuerwehrschlauch. Beim letzten Presseevent habe ich jetzt wieder drei Neuzugänge kennengelernt: das Notizbuch "Percy", das Untersetzer-Set "Jules" und den Blumentopf "Flora".**
 
 Alle drei Feuerwear Produkte werden komplett aus recycelten Materialien hergestellt und sind vegan. Neben Feuerwehrschlauch kommen unter anderem zu Stoff verarbeitete, recycelte PET-Flaschen zu Einsatz. Das berichteten Robert Klüsener und die Produktdesignerinnen Philomena Rieger und Tina Kosch bei der Vorstellung. Ja, Ihr habt richtig gelesen, auch das Feuerwear Team hat Zuwachs bekommen: Mit Tina Kosch gibt es nun eine weitere Person im Design-Team.
@@ -66,7 +60,7 @@ Das Notizbuch "Percy" besteht aus zwei Teilen: dem Umschlag und dem eigentlichen
 
 Der innere Futterstoff ist auch recycelten Plastikflaschen. Im Stiftehalter findet Ihr einen Bleistift. Das Holz stammt aus zertifizierter Waldwirtschaft. Wir haben übrigens direkt in der Pressevorstellung ausprobiert, ob auch dickere Stifte reinpassen – tun sie! Einen Tafelstift von einem bekannten Hersteller konnten wir ganz leicht einfädeln. Ihr bekommt also auf alle Fälle auch Euren Füller oder Kugelschreiber darin unter. Auf der Rückseite innen befindet sich ein kleines Einstecktuch, in dem Ihr zum Beispiel lose Notizen oder Visitenkarten unterbringen könnt.
 
-Was ich sehr praktisch finde: Die Hefte könnt Ihr im Feuerwear Shop nachbestellen. Das funktioniert ganz einfach über den QR-Code auf der Heft-Rückseite. Für die Größenverhältnisse habe ich mein iPad mini mit fotografiert. Das Heft ist DIN A5 – also ein kleines Schulheft. 
+Was ich sehr praktisch finde: Die Hefte könnt Ihr im Feuerwear Shop nachbestellen. Das funktioniert ganz einfach über den QR-Code auf der Heft-Rückseite. Für die Größenverhältnisse habe ich mein iPad mini mit fotografiert. Das Heft ist DIN A5 – also ein kleines Schulheft.
 
 Außen befindet sich ein praktisches Gummiband, mit dem Ihr das Notizbuch verschließen könnt. Das Feuerwear Team hat alle Zusatzmaterialien auf ihre Langlebigkeit getestet: Das Gummiband blieb auch nach 2.000 Mal öffnen stabil.
 

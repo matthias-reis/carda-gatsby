@@ -5,16 +5,10 @@ typeName: Beitrag
 title: Europäer⋆innen essen weniger Fleisch
 subTitle: Neue Umfrageergebnisse machen Hoffnung
 seoTitle: Europäer*innen essen weniger Fleisch – Neue Umfrage
-description: Das Thema Ernährung wird heute immer präsenter und immer mehr
-  Menschen essen weniger Fleisch. Auch der Schritt zum Veganismus ist für viele
-  nicht mehr so undenkbar, wie noch vor wenigen Jahren.
-excerpt: '"Wenn Ihr immer noch Fleisch esst, hört auf über Klimaschutz zu
-  reden!", prangt es in großen Lettern auf Demo-Plakaten bei Fridays for Future.
-  Das Thema Ernährung wird heute immer präsenter und immer mehr Menschen möchten
-  bewusster essen. Der Schritt zum Veganismus ist für viele nicht mehr so
-  undenkbar, wie noch vor wenigen Jahren.'
+description: Das Thema Ernährung wird heute immer präsenter und immer mehr Menschen essen weniger Fleisch. Auch der Schritt zum Veganismus ist für viele nicht mehr so undenkbar, wie noch vor wenigen Jahren.
+excerpt: '"Wenn Ihr immer noch Fleisch esst, hört auf über Klimaschutz zu reden!", prangt es in großen Lettern auf Demo-Plakaten bei Fridays for Future. Das Thema Ernährung wird heute immer präsenter und immer mehr Menschen möchten bewusster essen. Der Schritt zum Veganismus ist für viele nicht mehr so undenkbar, wie noch vor wenigen Jahren.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/essen-weniger-fleisch-the-5th-jpg-imagine-180808_625b5b_1024_768/640.webp
-copyrigt: The 5th, pixabay
+copyright: The 5th, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/essen-weniger-fleisch-the-5th-fb-png-imagine-180808_615959_1200_628/640.webp
 labels:
   - Fleisch essen
@@ -43,8 +37,7 @@ Insgesamt nahmen 7.578 Menschen aus Dänemark, Österreich, Frankreich, Deutschl
 
 Insgesamt 37 Prozent der Befragten bezeichneten sich selbst als Veganer⋆innen, Vegetarier⋆innen oder "Flexetarier⋆innen". Dieser Begriff wurde in den letzten Jahren immer beliebter für Menschen, die von sich sagen, bewusst weniger Fleisch zu essen.
 
-46 Prozent der Teilnehmenden gaben an, ihren Fleischkonsum innerhalb des letzten Jahres reduziert zu haben. Die Anzahl der "Flexetarier⋆innen" verbucht dadurch einen sprunghaften Anstieg. Insgesamt 73 Prozent berichteten, weniger Fleisch- und Wurstprodukte zu sich zu nehmen, als noch vor einem Jahr.
-Wirft man einen Blick auf die Antworten aller Umfrage-Teilnehmer⋆innen, also auch die der Menschen, die sich als Fleischesser⋆innen bezeichnen, fällt außerdem auf, dass rund 30 Prozent die Angabe machten, innerhalb der nächsten sechs Monate weniger Milchprodukte und Fleisch konsumieren zu wollen. Dafür gaben 26 Prozent an, im nächsten halben Jahr mehr vegane Alternativen für Milch- und Fleischprodukte zu sich nehmen zu wollen.
+46 Prozent der Teilnehmenden gaben an, ihren Fleischkonsum innerhalb des letzten Jahres reduziert zu haben. Die Anzahl der "Flexetarier⋆innen" verbucht dadurch einen sprunghaften Anstieg. Insgesamt 73 Prozent berichteten, weniger Fleisch- und Wurstprodukte zu sich zu nehmen, als noch vor einem Jahr. Wirft man einen Blick auf die Antworten aller Umfrage-Teilnehmer⋆innen, also auch die der Menschen, die sich als Fleischesser⋆innen bezeichnen, fällt außerdem auf, dass rund 30 Prozent die Angabe machten, innerhalb der nächsten sechs Monate weniger Milchprodukte und Fleisch konsumieren zu wollen. Dafür gaben 26 Prozent an, im nächsten halben Jahr mehr vegane Alternativen für Milch- und Fleischprodukte zu sich nehmen zu wollen.
 
 ## Die Zukunft ist vegan
 

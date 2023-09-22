@@ -5,15 +5,10 @@ typeName: Filmtipp
 title: The Smell Of Money
 subTitle: Neuer Film von Kate Mara beleuchtet Schweinefleisch-Industrie
 seoTitle: The Smell Of Money – Dokumentation zeigt Schweinefleisch-Industrie
-description: Kate Maras neuer Film "The Smell Of Money" beschäftigt sich mit den
-  schädlichen Auswirkungen der Schweinefleisch-Industrie auf die Umwelt und
-  unsere Gesundheit.
-excerpt: Kate Mara hat ihren neuen Film "The Smell Of Money" gerade auf dem
-  Sarasota Film Festival vorgestellt. Die Dokumentation beschäftigt sich mit den
-  schädlichen Auswirkungen der Schweinefleisch-Industrie auf die Umwelt und
-  unsere Gesundheit.
+description: Kate Maras neuer Film "The Smell Of Money" beschäftigt sich mit den schädlichen Auswirkungen der Schweinefleisch-Industrie auf die Umwelt und unsere Gesundheit.
+excerpt: Kate Mara hat ihren neuen Film "The Smell Of Money" gerade auf dem Sarasota Film Festival vorgestellt. Die Dokumentation beschäftigt sich mit den schädlichen Auswirkungen der Schweinefleisch-Industrie auf die Umwelt und unsere Gesundheit.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-17/the-smell-of-money-jpg-imagine-e8b8b8_79726b_1024_768/640.webp
-copyrigt: The Smell Of Money
+copyright: The Smell Of Money
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-17/the-smell-of-money-fb-jpg-imagine-e8b8b8_7a726b_1200_628/640.webp
 labels:
   - The Smell Of Money
@@ -31,6 +26,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Kate Mara hat ihren neuen Film "The Smell Of Money" gerade auf dem Sarasota Film Festival vorgestellt. Die Dokumentation beschäftigt sich mit den schädlichen Auswirkungen der Schweinefleisch-Industrie auf die Umwelt und unsere Gesundheit.**
 
 Im Mittelpunkt der Doku steht die im letzten Jahr leider verstorbene Elsie Herring, die seit den 1990er-Jahren mit ihrer Gemeinde dagegen ankämpfte, dass sich die wachsenden Tier-Farmen immer mehr Land einverleiben, um dort immer mehr Tiere zu "produzieren".
@@ -39,13 +35,13 @@ Ein Jahrhundert nach der Befreiung ihres Großvaters aus der Sklaverei kämpft E
 
 ## Das Leben neben den Schweine-Farmen stinkt
 
-Die Protagonistin der Dokumentation ist es leid, in ihrer Heimat kaum noch einatmen zu können. 
+Die Protagonistin der Dokumentation ist es leid, in ihrer Heimat kaum noch einatmen zu können.
 
 > "Es ist falsch, das Leben anderer Menschen zum Stinken zu bringen",
 
 findet sie. Ihre Familie lebt bereits seit den 1890er-Jahren in Wallace.
 
-> "Ich muss meine Kleidung immer wieder waschen. Bis sie auseinander fällt, so stinkt es hier", 
+> "Ich muss meine Kleidung immer wieder waschen. Bis sie auseinander fällt, so stinkt es hier",
 
 erzählt sie weiter. Doch nicht nur für sie ist die Schweinezucht am Ort eine Belastung. Die ganze Gemeinde leidet darunter.
 

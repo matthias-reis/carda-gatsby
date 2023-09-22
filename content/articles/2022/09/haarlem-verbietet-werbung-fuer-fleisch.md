@@ -5,15 +5,10 @@ typeName: Beitrag
 title: Haarlem verbietet Werbung für Fleisch
 subTitle: Die erste Stadt ohne Fleischwerbung
 seoTitle: Haarlem verbietet Werbung für Fleisch
-description: Die niederländische Stadt Haarlem ist weltweit die erste Stadt, die
-  Werbung im für Fleisch im öffentlichen Raum ab 2024 verbietet.
-excerpt: Die niederländische Stadt Haarlem ist weltweit die erste Stadt, die
-  Werbung für Fleisch im öffentlichen Raum ab 2024 verbietet. Das Verbot ist
-  eine Reaktion auf die Erkenntnis, dass Fleisch ein großer Treiber des
-  Klimawandels ist. Haarlem möchte versuchen, den Fleischkonsum der Menschen
-  einzuschränken und damit die Treibhausgasemissionen senken.
+description: Die niederländische Stadt Haarlem ist weltweit die erste Stadt, die Werbung im für Fleisch im öffentlichen Raum ab 2024 verbietet.
+excerpt: Die niederländische Stadt Haarlem ist weltweit die erste Stadt, die Werbung für Fleisch im öffentlichen Raum ab 2024 verbietet. Das Verbot ist eine Reaktion auf die Erkenntnis, dass Fleisch ein großer Treiber des Klimawandels ist. Haarlem möchte versuchen, den Fleischkonsum der Menschen einzuschränken und damit die Treibhausgasemissionen senken.
 image: https://storage.googleapis.com/cardamonchai-media/2022-09-21/haarlem-verbietet-fleischwerbung-jpeg-imagine-b8d8f8_97b0ca_1024_768/640.webp
-copyrigt: Hendrik, Pixabay
+copyright: Hendrik, Pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-09-21/haarlem-verbietet-fleischwerbung-fb-jpeg-imagine-b8d8f8_9db3c9_1200_628/640.webp
 labels:
   - Haarlem
@@ -27,6 +22,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Die niederländische Stadt Haarlem ist weltweit die erste Stadt, die Werbung für Fleisch im öffentlichen Raum ab 2024 verbietet. Das Verbot ist eine Reaktion auf die Erkenntnis, dass Fleisch ein großer Treiber des Klimawandels ist. Haarlem möchte versuchen, den Fleischkonsum der Menschen einzuschränken und damit die Treibhausgasemissionen senken.**
 
 Nachdem Fleisch auf die Liste der klimaschädlichsten Produkte gesetzt wurde, möchte die westlich von Amsterdam gelegene 160.000-Einwohner-Stadt mit gutem Beispiel vorangehen. Das Verbot kann aufgrund bereits bestehender Verträge erst ab 2024 anlaufen.

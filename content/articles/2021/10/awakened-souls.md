@@ -5,18 +5,10 @@ typeName: Interview
 title: '"Musik ist unsere Meditation"'
 subTitle: Interview mit awakened souls
 seoTitle: '"Musik ist unsere Meditation" – Interview mit awakened souls'
-description: Vor ein paar Tagen haben ich hier das grandiose Album "Keep The
-  Orange Sun" von awakened souls und From Overseas vorgestellt. Jetzt hatte ich
-  die Gelegenheit mich mit dem kalifornischen Duo awakened souls über die Platte
-  zu unterhalten. Cynthia und James haben mir auch gleich noch verraten, was für
-  eine großartige Überraschung uns nächstes Jahr bevorsteht.
-excerpt: Vor ein paar Tagen haben ich hier das grandiose Album "Keep The Orange
-  Sun" von awakened souls und From Overseas vorgestellt. Jetzt hatte ich die
-  Gelegenheit mich mit dem kalifornischen Duo awakened souls über die Platte zu
-  unterhalten. Cynthia und James haben mir auch gleich noch verraten, was für
-  eine großartige Überraschung uns nächstes Jahr bevorsteht.
+description: Vor ein paar Tagen haben ich hier das grandiose Album "Keep The Orange Sun" von awakened souls und From Overseas vorgestellt. Jetzt hatte ich die Gelegenheit mich mit dem kalifornischen Duo awakened souls über die Platte zu unterhalten. Cynthia und James haben mir auch gleich noch verraten, was für eine großartige Überraschung uns nächstes Jahr bevorsteht.
+excerpt: Vor ein paar Tagen haben ich hier das grandiose Album "Keep The Orange Sun" von awakened souls und From Overseas vorgestellt. Jetzt hatte ich die Gelegenheit mich mit dem kalifornischen Duo awakened souls über die Platte zu unterhalten. Cynthia und James haben mir auch gleich noch verraten, was für eine großartige Überraschung uns nächstes Jahr bevorsteht.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-jpg-imagine-f8f8f8_686b6d_1024_768/640.webp
-copyrigt: awakened souls
+copyright: awakened souls
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-fb-png-imagine-f8f8f8_646766_1200_628/640.webp
 labels:
   - Ambient
@@ -54,7 +46,7 @@ languageLink: /2021/10/awakened-souls-en/
 
 ## "Wir haben sehr unterschiedliche musikalische Hintergründe"
 
-![James, Cynthia und Kévin](https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-from-overseas-png-imagine-082818_6c6f5e_1024_768/640.webp "James, Cynthia und Kévin")
+![James, Cynthia und Kévin](https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-from-overseas-png-imagine-082818_6c6f5e_1024_768/640.webp 'James, Cynthia und Kévin')
 
 **Cynthia und James:** Wir haben alle drei völlig unterschiedliche musikalische Hintergründe. Es war also klar, dass diese Kooperation etwas ganz eigenes werden würde. Wir wollten mehr als nur Ambient machen. Das hat dazu geführt, dass wir IDM, Shoegaze und neoklassische Elemente mit eingebracht haben, die in unserer Musik vorher nicht vorgekommen sind. Neue Ausdrucksformen sind plötzlich und völlig natürlich aufgetaucht und wir waren bereit, uns darauf einzulassen.
 
@@ -66,17 +58,11 @@ languageLink: /2021/10/awakened-souls-en/
 
 ## Die Gewissheit, dass sich das Leben verändert
 
-**Cynthia:** Als wir anfingen, uns über das Gesamtkonzept des Albums zu unterhalten, musste ich an Joseph Campell's Heldenreise denken. Uns wurde bewusst, dass KTOS unsere persönliche Interpretation der vielen Phasen sind, die wir als Menschen durchlaufen. Ich habe während dieser Zeit Maya Angelou gelesen und ihr klassisches Gedicht "Still I Rise" wurde zum Arbeitstitel des Stücks. 
+**Cynthia:** Als wir anfingen, uns über das Gesamtkonzept des Albums zu unterhalten, musste ich an Joseph Campell's Heldenreise denken. Uns wurde bewusst, dass KTOS unsere persönliche Interpretation der vielen Phasen sind, die wir als Menschen durchlaufen. Ich habe während dieser Zeit Maya Angelou gelesen und ihr klassisches Gedicht "Still I Rise" wurde zum Arbeitstitel des Stücks.
 
-> "Just like moons and like suns<br />
-> With the certainty of tides<br />
-> Just like hopes springing high<br />
-> Still I'll rise."
-> 
-> ("Genau wie Monde und Sonnen<br />
-> Mit der Gewissheit der Gezeiten<br />
-> Wie die aufkeimende Hoffnung<br />
-> Stehe ich weiter auf.") 
+> "Just like moons and like suns<br /> With the certainty of tides<br /> Just like hopes springing high<br /> Still I'll rise."
+>
+> ("Genau wie Monde und Sonnen<br /> Mit der Gewissheit der Gezeiten<br /> Wie die aufkeimende Hoffnung<br /> Stehe ich weiter auf.")
 
 Diese Passage wurde während einer unsicheren Zeit für mich zu einer Art Trostspender. Dieses Gedicht hatte definitiv auch Einfluss auf unseren Song "Rise".
 
@@ -92,7 +78,7 @@ Diese Passage wurde während einer unsicheren Zeit für mich zu einer Art Trosts
 
 ## "Wir wollten sofort zusammen jammen"
 
-**Cynthia:** James und ich haben uns 2014 online kennengelernt. In unserem ersten Chat hat er mich gefragt, ob ich "irgendwann mal Bock hätte zu jammen". Ich habe sofort gemerkt, dass er ein schräger Vogel ist und weil ich das auch bin, haben wir uns einen Tag später zum Jammen getroffen. Unsere erste EP war nach sechs Wochen fertig.  Wir haben uns damals den Namen Syntillas gegeben und mehr so etwas in die Indie und Electronic Richtung gemacht.  Ich habe unser erstes Album "Sparks" ein bisschen von der Öffentlichkeit ferngehalten. Ich mochte die Tonhöhenkorrektur, die James an manchen Stellen an meiner Stimme vorgenommen hat, nicht. Dennoch gibt es einige Songs auf der Platte, die ich liebe. Ich bin im Moment dabei, sie als Teil unseres musikalischen Weges zu akzeptieren. Danach haben wir eine Single mit dem Namen "For You" aufgenommen. Ich finde, sie klingt tatsächlich sehr ähnlich wie "Any Of Those Lies".
+**Cynthia:** James und ich haben uns 2014 online kennengelernt. In unserem ersten Chat hat er mich gefragt, ob ich "irgendwann mal Bock hätte zu jammen". Ich habe sofort gemerkt, dass er ein schräger Vogel ist und weil ich das auch bin, haben wir uns einen Tag später zum Jammen getroffen. Unsere erste EP war nach sechs Wochen fertig. Wir haben uns damals den Namen Syntillas gegeben und mehr so etwas in die Indie und Electronic Richtung gemacht. Ich habe unser erstes Album "Sparks" ein bisschen von der Öffentlichkeit ferngehalten. Ich mochte die Tonhöhenkorrektur, die James an manchen Stellen an meiner Stimme vorgenommen hat, nicht. Dennoch gibt es einige Songs auf der Platte, die ich liebe. Ich bin im Moment dabei, sie als Teil unseres musikalischen Weges zu akzeptieren. Danach haben wir eine Single mit dem Namen "For You" aufgenommen. Ich finde, sie klingt tatsächlich sehr ähnlich wie "Any Of Those Lies".
 
 Unseren Bandnamen awakened souls haben wir seit 2017. Er hat mit unserer Verbindung zum buddhistischen Gedanken, insbesondere den Lehren von Pema Chödron, die häufig vom Pfad des Erwachens handeln, zu tun. Wir wussten damals, dass dieses Projekt ein direkter Weg für uns war, Musik zu erschaffen, die dabei hilft, zu heilen und zu verarbeiten.
 
@@ -101,7 +87,6 @@ Unseren Bandnamen awakened souls haben wir seit 2017. Er hat mit unserer Verbind
 **Cynthia und James:** Wir haben jede Menge spannende Projekte für die nächsten Monate geplant. In der ersten Jahreshälfte 2022 wird es unter anderem ein Album auf Past Inside The Present geben. Wir machen außerdem beide unsere Solo-Alben fertig und schauen, wie es 2022 mit der Veröffentlichung weiter geht. Unser Ziel ist es auch, nächstes Jahr hier und da ein paar Shows zu spielen! Es wäre auch ein Traum, mit Kévin aufzutreten!
 
 **Anne:** Vielen Dank für das sympathische Interview!
-
 
 [Hier könnt Ihr meine Review zu "Keep The Orange Sun" lesen](/2021/09/keep-the-orange-sun/).
 

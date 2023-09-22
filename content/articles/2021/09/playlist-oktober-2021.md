@@ -4,17 +4,11 @@ slug: playlist-oktober-2021
 typeName: Beitrag
 title: Playlist Oktober 2021
 subTitle: 12 Songs, die Ihr diesen Monat nicht verpassen solltet
-seoTitle: "Playlist: 12 Songs für den Oktober (Post-Rock, Alternative, Metal)"
-description: Die Oktober-Musikliste bringt Euch wieder die stärksten Songs. Mit
-  dabei sind wieder alle spannenden Genres von Ambient und Alternative Metal bis
-  Blackgaze und Post-Rock.
-excerpt: Im Oktober findet der Übergang zwischen den Jahreszeiten statt. Die
-  Natur zeigt sich von ihrer buntesten Seite und wettertechnisch ist einfach für
-  jeden Geschmack was dabei. Genau, wie bei unserer Musikliste. Hier sind 12
-  Songs aus den Genres Post-Rock, Ambient, Alternative, Metal & Co., die ihr so
-  schnell nicht wieder vergessen werdet.
+seoTitle: 'Playlist: 12 Songs für den Oktober (Post-Rock, Alternative, Metal)'
+description: Die Oktober-Musikliste bringt Euch wieder die stärksten Songs. Mit dabei sind wieder alle spannenden Genres von Ambient und Alternative Metal bis Blackgaze und Post-Rock.
+excerpt: Im Oktober findet der Übergang zwischen den Jahreszeiten statt. Die Natur zeigt sich von ihrer buntesten Seite und wettertechnisch ist einfach für jeden Geschmack was dabei. Genau, wie bei unserer Musikliste. Hier sind 12 Songs aus den Genres Post-Rock, Ambient, Alternative, Metal & Co., die ihr so schnell nicht wieder vergessen werdet.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/12-songs-oktober-jpg-imagine-080808_8d8176_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/12-songs-oktober-fb-png-imagine-080808_8d7f73_1200_628/640.webp
 labels:
   - Musikliste

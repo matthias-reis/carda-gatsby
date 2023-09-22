@@ -5,13 +5,9 @@ typeName: Interview
 title: Interview With Lotus
 subTitle: Post-Rock From India
 seoTitle: Interview With Lotus – Post-Rock From India
-description: The post-rock band Lotus from Pune, India is aiming to push the
-  envelope of genre-based music. The musicians intend to immerse their listeners
-  in cascading waves of rhythmic groove and atmospheric guitars through an ocean
-  of ambient harmonies. You can hear the influences of progressive rock, fusion,
-  and electronic/ambient music in their sound.
+description: The post-rock band Lotus from Pune, India is aiming to push the envelope of genre-based music. The musicians intend to immerse their listeners in cascading waves of rhythmic groove and atmospheric guitars through an ocean of ambient harmonies. You can hear the influences of progressive rock, fusion, and electronic/ambient music in their sound.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-10-lotus-interview-l-jpeg-imagine-282828_5a4e3a_1440_1080/640.webp
-copyrigt: Lotus
+copyright: Lotus
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-10-lotus-interview-fb-png-l-jpg-imagine-282828_574a37_1440_754/640.webp
 labels:
   - Ambient

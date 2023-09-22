@@ -5,16 +5,10 @@ typeName: Interview
 title: A Place To Bury Strangers Gründer Oliver Ackermann
 subTitle: '"Irgendwann werden wir alle vegan leben"'
 seoTitle: A Place To Bury Strangers – Interview – Shoegaze – Vegan
-description: A Place To Bury Strangers Gründer Oliver Ackermann hat sich zu
-  einem Interview bereiterklärt. Wir haben uns ausführlich über das neue Album
-  "See Through You" und seine Entscheidung, vegan zu leben unterhalten.
-excerpt: A Place To Bury Strangers Gründer Oliver Ackermann hat sich zu einem
-  Interview bereiterklärt. Wir haben uns ausführlich über das neue Album "See
-  Through You" unterhalten. Außerdem habe ich ihm einige Fragen zu seiner
-  veganen Lebensweise gestellt und er hat mir verraten, wie die aktuelle Tour
-  läuft und was APTBS als Nächstes geplant haben.
+description: A Place To Bury Strangers Gründer Oliver Ackermann hat sich zu einem Interview bereiterklärt. Wir haben uns ausführlich über das neue Album "See Through You" und seine Entscheidung, vegan zu leben unterhalten.
+excerpt: A Place To Bury Strangers Gründer Oliver Ackermann hat sich zu einem Interview bereiterklärt. Wir haben uns ausführlich über das neue Album "See Through You" unterhalten. Außerdem habe ich ihm einige Fragen zu seiner veganen Lebensweise gestellt und er hat mir verraten, wie die aktuelle Tour läuft und was APTBS als Nächstes geplant haben.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-4-jpg-imagine-080808_000000_1024_768/640.webp
-copyrigt: Nick Sayers, Deathwish Photography
+copyright: Nick Sayers, Deathwish Photography
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-fb-png-imagine-080808_2d2d29_1200_628/640.webp
 labels:
   - A Place To Bury Strangers
@@ -35,6 +29,7 @@ affiliate: false
 language: de
 languageLink: /2022/04/a-place-to-bury-strangers-interview-en/
 ---
+
 **A Place To Bury Strangers Gründer Oliver Ackermann hat sich zu einem Interview bereiterklärt. Wir haben uns ausführlich über das neue Album "See Through You" unterhalten. Außerdem habe ich ihm einige Fragen zu seiner veganen Lebensweise gestellt und er hat mir verraten, wie die aktuelle Tour läuft und was APTBS als Nächstes geplant haben.**
 
 Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Geschichte und ich bin sehr stolz, es Euch heute präsentieren zu können. A Place To Bury Strangers sind eines der vielseitigsten Projekte ihres Genres. Die 2003 in New York gegründete Band ist für ihre überaus intensiven Live-Shows und ihren emotionalen, bildgewaltigen Noise/Shoegaze Sound bekannt.
@@ -43,7 +38,7 @@ Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Gesch
 
 ## "Die Tour ist eine gute Sache"
 
-![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-1-png-imagine-080808_22221a_1024_768/640.webp "A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography")
+![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-1-png-imagine-080808_22221a_1024_768/640.webp 'A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography')
 
 **Oliver:** Hallo Anne! Danke für das Gespräch! Wir sind gerade über den Channel Tunnel nach England gefahren und werden heute Abend in London ankommen. Ich war ziemlich unsicher, was aus dieser Tour werden würde, weil sich nach wie vor weltweit alle Sorgen machen, wie es weitergeht und was als Nächstes passieren wird. Allerdings hat es sich auch so angefühlt, als hätten wir zumindest für einen Moment die Möglichkeit die Realität zu vergessen – was ja auch gut sein kann – und bis jetzt ist es wirklich gut gelaufen. Ich bin der Meinung, wenn sich Dir die Möglichkeit bietet, Dich unterhalten zu lassen, dann ist es eine gute Sache.
 
@@ -55,7 +50,7 @@ Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Gesch
 
 ## "Das neue Album ist die Zusammenfassung einer Reise"
 
-![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-5-jpg-imagine-f8f8f8_848282_1024_768/640.webp "A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography")
+![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-5-jpg-imagine-f8f8f8_848282_1024_768/640.webp 'A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography')
 
 **Oliver:** Vielen Dank. Ich war in einer komischen Stimmung, als wir die Platte gemacht haben und eine Menge davon steckt darin. Ich hatte das Gefühl, von den früheren Bandmitgliedern betrogen und im Stich gelassen worden zu sein. Das Schreiben für diese Platte hat mir wirklich geholfen, was sich da in meinem Kopf abgespielt hat, zu überwinden. Es ist zermürbend, wenn Du Dich von Deinen Freund⋆innen im Stich gelassen fühlst. Es hat mich an frühere Zeiten der Enttäuschung erinnert, aber es war auch wirklich cool, wie viele andere Freunde mir die Hand gereicht und mir während des Prozesses geholfen haben. Ich fühle mich jetzt so viel besser, und das Album fasst diese Reise so zusammen, wie sie sich während der Aufnahmen in Echtzeit abgespielt hat.
 
@@ -67,7 +62,7 @@ Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Gesch
 
 ## "Wir wollen nicht in etwas Leichteres zurückfallen"
 
-![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-2-jpg-imagine-080828_4f2d4e_1024_768/640.webp "A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography")
+![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-2-jpg-imagine-080828_4f2d4e_1024_768/640.webp 'A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography')
 
 **Oliver:** Ich denke, es gibt eine Zeit, in der die Dinge eine angemessene Lautstärke haben, und manchmal funktionieren unsere Shows bis zu diesen Momenten. Diese Art Musik macht A Place To Bury Strangers aus. Es ist eine Art Regel von mir, dass wir mit dieser Band nicht in etwas Leichteres zurückfallen, sondern die Unruhe und Aufregung dieser Musik weiter erforschen werden. Das ist zumindest eines unserer Ziele. Ich habe das Gefühl, dass manche Bands nach einem hervorragenden Album einfach aufgeben und dann die Richtung verlieren und keine weitere anspruchsvolle Platte mehr herausbringen. Wir werden damit vielleicht keinen Erfolg haben, aber wenn ich nicht das Gefühl habe, dass ein neues Album, an dem wir arbeiten, in diesem Moment wichtig ist, würde es einfach nicht erscheinen.
 
@@ -83,7 +78,7 @@ Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Gesch
 
 ## "Die Leute scheine meine Ideen zu mögen"
 
-![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-3-jpg-imagine-080808_000000_1024_768/640.webp "A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography")
+![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-3-jpg-imagine-080808_000000_1024_768/640.webp 'A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography')
 
 **Oliver:** Es war wirklich die Zuversicht, die mit der Veröffentlichung unseres ersten Albums kam – ich hatte das gar nicht geplant.
 
@@ -93,7 +88,7 @@ Ich hatte jahrelang mit meinen eigenen Techniken aufgenommen und dachte, dass mi
 
 ## "Tieren Schmerzen zuzufügen ergibt keinen Sinn"
 
-**Oliver:** Meine Verlobte hatte da einen großen Einfluss auf mich.  Hinzu kamen Dokumentationen wie [Earthlings](/2020/07/earthlings/). Ich glaube, inzwischen sind es fünf Jahre? Ich bin mir nicht sicher, aber es gibt einfach keinen Grund, Tieren wehzutun. Wir müssen das nicht tun. Wir müssen nicht jede Bequemlichkeit haben auf dieser Welt. Ich würde ja auch keiner Kuh ins Gesicht schlagen, wenn ich sie auf einer Wiese an mir vorbeigehen sehe.
+**Oliver:** Meine Verlobte hatte da einen großen Einfluss auf mich. Hinzu kamen Dokumentationen wie [Earthlings](/2020/07/earthlings/). Ich glaube, inzwischen sind es fünf Jahre? Ich bin mir nicht sicher, aber es gibt einfach keinen Grund, Tieren wehzutun. Wir müssen das nicht tun. Wir müssen nicht jede Bequemlichkeit haben auf dieser Welt. Ich würde ja auch keiner Kuh ins Gesicht schlagen, wenn ich sie auf einer Wiese an mir vorbeigehen sehe.
 
 **Anne:** Ich kann mir vorstellen, dass Du eine Menge Menschen triffst, wenn Du auf Tour unterwegs bist oder im Studio arbeitest. Konntest Du einige davon überzeugen, auch vegan zu leben?
 
@@ -103,12 +98,11 @@ Ich hatte jahrelang mit meinen eigenen Techniken aufgenommen und dachte, dass mi
 
 ## "Die Gefühle und Emotionen der Musik verbinden uns mit den Tieren"
 
-![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-6-jpg-imagine-080818_4a3444_1024_768/640.webp "A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography")
+![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-6-jpg-imagine-080818_4a3444_1024_768/640.webp 'A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography')
 
 **Oliver:** Musik hat so viel mit Gefühlen, Emotionen und Schmerzen zu tun. Da ist die Verbindung zu Tieren nicht weit. Wir wollen keine Schmerzen haben und wollen nicht, dass uns jemand welche zufügt. Mit der Musik haben wir dieses Ventil. Dabei treten oft einen Schritt zurück, analysieren die Situation und sehen, wie verkorkst sie ist.
 
-**Anne:** Würdest Du sagen, dass Musik für Dich eine Form von Aktivismus ist? Falls nicht: Kannst Du es Dir vorstellen, sie dazu zu nutzen? Ich habe dieses sehr persönliche [Interview mit
-Belinda und Justin von Crippled Black Phoenix](/2020/12/crippled-black-phoenix-interview/) gemacht. Sie haben mir erzählt, dass sie gerne mehr tun würden, dass es aber auch immer eine Sache der perfekten Dosis ist?
+**Anne:** Würdest Du sagen, dass Musik für Dich eine Form von Aktivismus ist? Falls nicht: Kannst Du es Dir vorstellen, sie dazu zu nutzen? Ich habe dieses sehr persönliche [Interview mit Belinda und Justin von Crippled Black Phoenix](/2020/12/crippled-black-phoenix-interview/) gemacht. Sie haben mir erzählt, dass sie gerne mehr tun würden, dass es aber auch immer eine Sache der perfekten Dosis ist?
 
 **Oliver:** Ich glaube schon, aber auf eine sehr indirekte Weise. Ich glaube beide Wege – der direkte und der indirekte – sind sehr wichtig. Mit Inspiration kannst Du jemanden dazu bringen, an sich selbst zu glauben und rationale Entscheidungen zu seinem persönlichen Wohlergehen zu treffen. Man könnte das als eine von Art Lern-Blöcken bezeichnen. Wenn man eine direkte Methode nutzt, sagt man den Leuten, was sie tun und lassen sollen. Das kann manchmal dazu führen, dass Menschen keine Gefühle investieren, weil sie nicht selbst darauf gekommen sind. Wenn wir ihnen eine schöne und bessere Welt zeigen, kann es passieren, dass sie auch dort leben wollen.
 

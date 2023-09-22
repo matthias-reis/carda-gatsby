@@ -5,15 +5,10 @@ typeName: Beitrag
 title: Fleischverzehr in Deutschland auf Rekordtief
 subTitle: Deutsche essen weniger Fleisch
 seoTitle: Deutsche essen weniger Fleisch – Konsum auf Rekordtief
-description: Deutsche essen weniger Fleisch. Obwohl der weltweite Fleischverzehr
-  doppelt so hoch ist, wie vor 20 Jahren, geht er bei uns zurück. Das liegt
-  nicht nur an den derzeitigen Krisen.
-excerpt: Zwar steigt der Fleischverzehr weltweit weiter, in Deutschland befindet
-  er sich jedoch auf einem Rekordtief. Das berichtete jetzt die Albert
-  Schweitzer Stiftung für unsere Mitwelt. Hierzulande haben die Menschen 2021 so
-  wenig Fleisch zu sich genommen, wie noch nie in den letzten 30 Jahren.
+description: Deutsche essen weniger Fleisch. Obwohl der weltweite Fleischverzehr doppelt so hoch ist, wie vor 20 Jahren, geht er bei uns zurück. Das liegt nicht nur an den derzeitigen Krisen.
+excerpt: Zwar steigt der Fleischverzehr weltweit weiter, in Deutschland befindet er sich jedoch auf einem Rekordtief. Das berichtete jetzt die Albert Schweitzer Stiftung für unsere Mitwelt. Hierzulande haben die Menschen 2021 so wenig Fleisch zu sich genommen, wie noch nie in den letzten 30 Jahren.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-04/deutsche-essen-weniger-fleisch-jpg-imagine-385808_71754d_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-04/deutsche-essen-weniger-fleisch-fb-jpg-imagine-f8f8f8_866c3c_1200_628/640.webp
 labels:
   - Fleisch
@@ -30,6 +25,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Zwar steigt der Fleischverzehr weltweit weiter, in Deutschland befindet er sich jedoch auf einem Rekordtief. Das berichtete jetzt die Albert Schweitzer Stiftung für unsere Mitwelt[^1]. Hierzulande haben die Menschen 2021 so wenig Fleisch zu sich genommen, wie noch nie in den letzten 30 Jahren.**
 
 Pro Kopf verzeichnete die Bundesanstalt für Landwirtschaft und Ernährung (BLE)[^2] letztes Jahr rund 55 Kilogramm Fleisch. Das sind immerhin ganze 2,1 Kilogramm weniger, als im Jahr 2020, dem Jahr mit dem letzten Rekordtief. Die BLE zeichnet seit 1991 Daten auf. Am höchsten war der Fleischverzehr zwei Jahre später. Damals lag er bei 64,4 Kilogramm pro Kopf im Jahr. Zwar schenkte der Wert zwischendurch immer mal wieder, insgesamt sank er jedoch stetig.
@@ -38,7 +34,7 @@ Das ist zumindest ein kleiner Hoffnungsschimmer, betrachtet man den weltweiten F
 
 ## Die Deutschen essen vor allem weniger Schweinefleisch
 
-Den größten Teil des Rückgangs im Vergleich zum Vorjahr macht bei uns in Deutschland Schweinefleisch mit 1,2 Kilogramm aus. Dicht gefolgt von Rindfleisch mit 600 Gramm und Geflügelfleisch mit 200 Gramm. Vor allem der Rückgang beim Geflügelfleisch ist, im Hinblick auf die weltweite Entwicklung, beachtlich. 
+Den größten Teil des Rückgangs im Vergleich zum Vorjahr macht bei uns in Deutschland Schweinefleisch mit 1,2 Kilogramm aus. Dicht gefolgt von Rindfleisch mit 600 Gramm und Geflügelfleisch mit 200 Gramm. Vor allem der Rückgang beim Geflügelfleisch ist, im Hinblick auf die weltweite Entwicklung, beachtlich.
 
 Die Albert Schweitzer Stiftung stellte für den Rückgang im Vergleich zum letzten Jahr unterschiedliche Ursachen fest. Zum einen scheinen die fortlaufenden Krisen das allgemeine Bewusstsein für die negativen Auswirkungen des Fleischkonsums zu steigern. So erkennen immer mehr Menschen das Leid der "Nutztiere" und die Auswirkungen der industriellen Tierhaltung auf die Umwelt, das Klima und den Welthunger. Mehr als die Hälfte der Deutschen (rund 55 Prozent) bezeichnen sich heute laut Ernährungsreport des Bundesministeriums für Ernährung und Landwirtschaft (BMEL)[^4] als Flexitarier – diese Gruppe verzichtet zumindest zeitweise bewusst auf Fleischprodukte.
 
@@ -59,9 +55,6 @@ Es sieht ganz danach aus, als wäre der Trend in Richtung weniger Fleisch in Deu
 Zwar ist eine Entwicklung, wie die in Deutschland, eher selten, allerdings zeichnet sich auch in anderen Industrienationen wie Belgien, Dänemark, Finnland, Italien und Frankreich eine Tendenz hin zu einem geringeren Fleischkonsum ab. Daraus lässt sich ableiten, dass der Verzehr tierischer Lebensmittel zwar mit steigendem Wohlstand steigt, was jedoch in Kombination mit wachsender Aufklärung und Allgemeinbildung auch zu einem kritischen Umgang mit der Industrie führt.
 
 [^1]: [Bericht der Albert Schweitzer Stiftung für unsere Mitwelt zum Fleischverzehr](https://albert-schweitzer-stiftung.de/aktuell/rekordtief-fleischverzehr?utm_source=nl22-09&utm_medium=email&utm_campaign=w-nl)
-
 [^2]: [Versorgungsbilanz der Bundesanstalt für Landwirtschaft und Ernährung](https://www.ble.de/SharedDocs/Pressemitteilungen/DE/2022/220330_Versorgungsbilanz-Fleisch.html)
-
 [^3]: [Fleisch-Atlas Heinrich-Böll-Stiftung](https://www.boell.de/sites/default/files/2022-01/Boell_Fleischatlas2021_V01_kommentierbar.pdf)
-
 [^4]: [Ernährungsreport Bundesministerium für Landwirtschaft und Ernährung](https://www.bmel.de/DE/themen/ernaehrung/ernaehrungsreport2020.html)

@@ -5,17 +5,10 @@ typeName: Filmtipp
 title: Hai-Trilogie "Sharkwater" jetzt kostenlos streamen
 subTitle: Rob Stewards Vermächtnis auf WaterBear
 seoTitle: Rob Stewards Hai-Trilogie "Sharkwater" jetzt streamen
-description: Der kanadische Filmemacher und Naturschutz-Biologe Rob Steward kam
-  2017 unter tragischen Umständen auf See ums Leben. Jetzt ist sein Vermächtnis
-  – eine Trilogie über den Schutz der Haie – auf WaterBear verfügbar.
-excerpt: "Der kanadische Filmemacher und Naturschutz-Biologe Rob Steward kam
-  2017 unter tragischen Umständen auf See ums Leben. Jetzt ist sein Vermächtnis
-  – eine Trilogie über den Schutz der Haie – auf WaterBear verfügbar. Mit seinem
-  Mentor, dem Sea Shepherd Gründer Paul Watson, beteiligte sich Rob aktiv am
-  Kampf gegen illegalen Haifang. Er begleitete den Aktivisten und filmte seine
-  Einsätze. "
+description: Der kanadische Filmemacher und Naturschutz-Biologe Rob Steward kam 2017 unter tragischen Umständen auf See ums Leben. Jetzt ist sein Vermächtnis – eine Trilogie über den Schutz der Haie – auf WaterBear verfügbar.
+excerpt: 'Der kanadische Filmemacher und Naturschutz-Biologe Rob Steward kam 2017 unter tragischen Umständen auf See ums Leben. Jetzt ist sein Vermächtnis – eine Trilogie über den Schutz der Haie – auf WaterBear verfügbar. Mit seinem Mentor, dem Sea Shepherd Gründer Paul Watson, beteiligte sich Rob aktiv am Kampf gegen illegalen Haifang. Er begleitete den Aktivisten und filmte seine Einsätze. '
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-14/sharkwater-rob-steward-jpg-imagine-0868a8_197da7_1024_768/640.webp
-copyrigt: sharkwater.com
+copyright: sharkwater.com
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-14/sharkwater-rob-steward-fb-png-imagine-1878b8_1879a7_1200_628/640.webp
 labels:
   - Haie
@@ -31,9 +24,10 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Der kanadische Filmemacher und Naturschutz-Biologe Rob Steward kam 2017 unter tragischen Umständen auf See ums Leben. Jetzt ist sein Vermächtnis – eine Trilogie über den Schutz der Haie – auf der Aktivismus-Streaming-Plattform WaterBear verfügbar.**
 
-Mit seinem Mentor, dem Sea Shepherd Gründer Paul Watson, beteiligte sich Rob aktiv am Kampf gegen illegalen Haifang. Er begleitete den Aktivisten und filmte seine Einsätze. 
+Mit seinem Mentor, dem Sea Shepherd Gründer Paul Watson, beteiligte sich Rob aktiv am Kampf gegen illegalen Haifang. Er begleitete den Aktivisten und filmte seine Einsätze.
 
 In Toronto aufgewachsen, begann er bereits im zarten Alter von 13 Jahren mit Fotografie und spezialisierte sich sehr bald auf Unterwasserfotografie und marine Videoaufnahmen. Nachdem er kurze Zeit als Tauchtrainer gearbeitet hatte, wurde er Fotograf für verschiedene Naturmagazine und machte seinen Abschluss in Biologie an der University of Western Ontario.
 
@@ -53,7 +47,7 @@ Vor der faszinierenden und vielseitigen Kulisse des Meeres und im Angesicht dies
 
 ## "Sharkwater – Extinction"
 
-"Sharkwater – Extinction" berichtet von der Ausbeutung und der grausamen Industrie rund um den Handel mit Haiflossen. Rob hat hier nicht nur gefilmt, sondern selbst politische Korruption aufgedeckt und war selbst einer Verschwörung, die zum Aussterben vieler Haiarten geführt hat, auf der Spur. Mit seiner Kameraausrüstung taucht er vor den Küsten Westafrikas, Spaniens, Panamas, Costa Ricas, Frankreichs und Großbritanniens. 
+"Sharkwater – Extinction" berichtet von der Ausbeutung und der grausamen Industrie rund um den Handel mit Haiflossen. Rob hat hier nicht nur gefilmt, sondern selbst politische Korruption aufgedeckt und war selbst einer Verschwörung, die zum Aussterben vieler Haiarten geführt hat, auf der Spur. Mit seiner Kameraausrüstung taucht er vor den Küsten Westafrikas, Spaniens, Panamas, Costa Ricas, Frankreichs und Großbritanniens.
 
 ## "Sharkwater – Revolution"
 

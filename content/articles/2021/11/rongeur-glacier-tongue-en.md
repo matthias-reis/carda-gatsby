@@ -5,15 +5,10 @@ typeName: Review
 title: '"Glacier Tongue"'
 subTitle: The New Rongeur Album
 seoTitle: '"Glacier Tongue" By Rongeur – Sludge Review'
-description: Four years after their first official album, "An Asphyxiating
-  Embrace", Rongeur released a new record. If you like your music raw and heavy
-  or are a fan of bands like Neurosis, you shouldn't miss "Glacier Tongue".
-excerpt: Four years after their first official album, "An Asphyxiating Embrace",
-  Rongeur released a new record on November 5th. If you like your music raw and
-  heavy or are a fan of bands like Neurosis and High on Fire, you shouldn't miss
-  "Glacier Tongue".
+description: Four years after their first official album, "An Asphyxiating Embrace", Rongeur released a new record. If you like your music raw and heavy or are a fan of bands like Neurosis, you shouldn't miss "Glacier Tongue".
+excerpt: Four years after their first official album, "An Asphyxiating Embrace", Rongeur released a new record on November 5th. If you like your music raw and heavy or are a fan of bands like Neurosis and High on Fire, you shouldn't miss "Glacier Tongue".
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/glacier-tongue-1-jpg-imagine-080808_000000_1024_768/640.webp
-copyrigt: Rongeur
+copyright: Rongeur
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/glacier-tongue-fb-png-imagine-080808_5c6d75_1200_628/640.webp
 labels:
   - Sludge
@@ -43,9 +38,9 @@ In the meantime, the band from Oslo has landed on Fysisk Format. They also relea
 
 ## "Glacier Tongue" is an angry statement
 
-![Rongeur – "Glacier Tongue"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/823618-jpeg-imagine-081828_537584_425_425/640.webp "Rongeur – \"Glacier Tongue\"")
+![Rongeur – "Glacier Tongue"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/823618-jpeg-imagine-081828_537584_425_425/640.webp 'Rongeur – "Glacier Tongue"')
 
-"Glacier Tongue" offers a total of eight songs full of raw and harsh beauty. The record is political, straightforward and quite brutal. 
+"Glacier Tongue" offers a total of eight songs full of raw and harsh beauty. The record is political, straightforward and quite brutal.
 
 Rongeur have put to music precisely what we have all missed so badly within this year full of questions. Their record sets a dark and accusatory statement that critically questions the human existence and the cruelty in which we exploit our planet.
 
@@ -55,7 +50,7 @@ Bassist and singer Dag Ole H. Huseby, drummer and singer Jon Dahl Tveter and gui
 
 ## Rongeur have become more versatile
 
-![Rongeur](https://storage.googleapis.com/cardamonchai-media/2021-11-20/glacier-tongue-2-jpg-imagine-080808_000000_768_1024/640.webp "Rongeur")
+![Rongeur](https://storage.googleapis.com/cardamonchai-media/2021-11-20/glacier-tongue-2-jpg-imagine-080808_000000_768_1024/640.webp 'Rongeur')
 
 "Glacier Tongue" is a wildly rotating musical maelstrom. If you compare the record with the previous album, you will notice that the trio has gained even more drive and versatility. Rongeur are in the fast lane at full speed and ready to take on the genre's giants. With that slight touch of punk attitude, sludge really gets you going.
 

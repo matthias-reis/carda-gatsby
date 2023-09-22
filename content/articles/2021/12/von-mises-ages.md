@@ -5,15 +5,10 @@ typeName: Review
 title: Von Mises – "Ages"
 subTitle: Post-Rock aus Köln
 seoTitle: '"Ages" von Von Mises – Post-Rock Review'
-description: Von Mises aus Köln machen melodischen Post-Rock. Dabei setzen sie
-  auf die klassische Bandbesetzung, bestehend aus Rhythmusgruppe, Gitarre und
-  elektronischer Sektion. Das Album "Ages" hat es musikalisch in sich.
-excerpt: Von Mises aus Köln machen melodischen Post-Rock. Dabei setzen sie auf
-  die klassische Bandbesetzung, bestehend aus Rhythmusgruppe, Gitarre und
-  elektronischer Sektion. Am 22. Oktober haben Jens, Mike und Gunther ihr Album
-  "Ages" veröffentlicht, das es musikalisch in sich hat.
+description: Von Mises aus Köln machen melodischen Post-Rock. Dabei setzen sie auf die klassische Bandbesetzung, bestehend aus Rhythmusgruppe, Gitarre und elektronischer Sektion. Das Album "Ages" hat es musikalisch in sich.
+excerpt: Von Mises aus Köln machen melodischen Post-Rock. Dabei setzen sie auf die klassische Bandbesetzung, bestehend aus Rhythmusgruppe, Gitarre und elektronischer Sektion. Am 22. Oktober haben Jens, Mike und Gunther ihr Album "Ages" veröffentlicht, das es musikalisch in sich hat.
 image: https://storage.googleapis.com/cardamonchai-media/2021-12-16/von-mises-jpg-imagine-f8f8f8_000000_1024_768/640.webp
-copyrigt: Von Mises
+copyright: Von Mises
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-12-16/von-mises-fb-png-imagine-f8f8f8_a1a1a1_1200_628/640.webp
 labels:
   - Von Mises
@@ -31,6 +26,7 @@ affiliate: false
 language: de
 languageLink: /2021/12/von-mises-ages-en/
 ---
+
 **Von Mises aus Köln machen melodischen Post-Rock. Dabei setzen sie auf die klassische Bandbesetzung, bestehend aus Rhythmusgruppe, Gitarre und elektronischer Sektion. Am 22. Oktober haben Jens, Mike und Gunther ihr Album "Ages" veröffentlicht, das es musikalisch in sich hat.**
 
 Die insgesamt acht Stücke auf "Ages" bewegen sich zwischen dramatischen Momenten und ruhigen Sequenzen hin und her. Das Konzeptalbum ist für die Band ein Experiment mit Rock- und Synthesizer-Sounds. Den dreien gelingt es gut, daraus bewegende und vielfältige Klanglandschaften zu gestalten.

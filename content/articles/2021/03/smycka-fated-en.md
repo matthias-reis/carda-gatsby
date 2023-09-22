@@ -5,13 +5,9 @@ typeName: Review
 title: Smyčka
 subTitle: The New Post-Rock Beauty
 seoTitle: Smyčka – The New Post-Rock Beauty
-description: Smyčka is, without a doubt, one of my most beautiful post-rock
-  discoveries of the last weeks. Due to personnel disruptions within the band,
-  it only came out now that they have finished their first album – even though
-  it is already available since February. "Fated" is playing on a continuous
-  loop for me at the moment.
+description: Smyčka is, without a doubt, one of my most beautiful post-rock discoveries of the last weeks. Due to personnel disruptions within the band, it only came out now that they have finished their first album – even though it is already available since February. "Fated" is playing on a continuous loop for me at the moment.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-smycka-l-jpeg-imagine-181818_22252a_1440_1080/640.webp
-copyrigt: Smyčka
+copyright: Smyčka
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-smycka-fb-png-l-jpg-imagine-181818_212329_1440_754/640.webp
 labels:
   - Bands

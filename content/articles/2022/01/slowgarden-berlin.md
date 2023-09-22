@@ -5,16 +5,10 @@ typeName: Beitrag
 title: Mehr als "nur" ein Gemüsegarten
 subTitle: Slowgarden Berlin stellt sich vor
 seoTitle: Mehr als "nur" Gemüsegarten – Slowgarden Berlin stellt sich vor
-description: Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem
-  Anbau – frisch auf den Tisch. Alle können anbauen, was sie wollen. Für den
-  Dünger und die Bewässerung sorgt Slowgarden.
-excerpt: Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem Anbau –
-  frisch auf den Tisch. Gründer David sieht sein Projekt als Lebenseinstellung.
-  Für den Bio-Bauern ist Gemüseanbau mehr als eine Checkliste abzuarbeiten. Er
-  wünscht sich, dass Gärtner⋆innen nicht nur Gemüse, Kräuter und Obst, sondern
-  auch Wohlbefinden ernten.
+description: Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem Anbau – frisch auf den Tisch. Alle können anbauen, was sie wollen. Für den Dünger und die Bewässerung sorgt Slowgarden.
+excerpt: Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem Anbau – frisch auf den Tisch. Gründer David sieht sein Projekt als Lebenseinstellung. Für den Bio-Bauern ist Gemüseanbau mehr als eine Checkliste abzuarbeiten. Er wünscht sich, dass Gärtner⋆innen nicht nur Gemüse, Kräuter und Obst, sondern auch Wohlbefinden ernten.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-ernte-jpg-imagine-587828_736738_1024_768/640.webp
-copyrigt: Slowgarden
+copyright: Slowgarden
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-fb-png-imagine-587828_786b31_1200_628/640.webp
 labels:
   - Slow gardening
@@ -31,6 +25,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem Anbau – frisch auf den Tisch. Gründer David sieht sein Projekt als Lebenseinstellung. Für den Bio-Bauern ist Gemüseanbau mehr als eine Checkliste abzuarbeiten. Er wünscht sich, dass Gärnter⋆innen nicht nur Gemüse, Kräuter und Obst, sondern auch Wohlbefinden ernten.**
 
 Im Rahmen von [Slowgarden](https://www.slowgarden.de/) können alle, die es interessiert, ab März 2022 vor den Toren Berlins einen Gemüsegarten innerhalb eines Permakultur-Gartens mieten. Für die Bepflanzung ist jede⋆r selbst verantwortlich, für die Bewässerung sorgt Slowgarden. Doch es geht längst nicht nur um den Anbau. David erzählt:
@@ -41,17 +36,17 @@ Bei seinem Projekt können alle anpflanzen, was sie möchten – je vielseitiger
 
 ## Bio-veganes Gemüse im Slowgarden Berlin selbst anbauen
 
-![Slowgarden Gründer David (langes, aschblondes Haar und Bart) steht lächelnd auf einer grünen Wiese. Im Hintergrund sind junge Bäume zu sehen.](https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-david-jpg-imagine-b8d8f8_83866e_1024_768/640.webp "Slowgarden Gründer David auf Hof Windkind.")
+![Slowgarden Gründer David (langes, aschblondes Haar und Bart) steht lächelnd auf einer grünen Wiese. Im Hintergrund sind junge Bäume zu sehen.](https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-david-jpg-imagine-b8d8f8_83866e_1024_768/640.webp 'Slowgarden Gründer David auf Hof Windkind.')
 
 Wenn Ihr hier schon länger mitlest, habt Ihr David vielleicht schon kennengelernt. Auf dem bio-veganen [Hof Windkind](https:///2019/09/hof-windkind-walnuss-baum-adoptieren/), den er mit seiner Partnerin Silvia führt, baut er Walnüsse und Haselnüsse an. Wer einen Baum adoptiert, bekommt Nüsse oder wertvolles [Walnussöl](https:///2020/10/walnussoel-hof-windkind/) geliefert.
 
-Mit seinem neuen Projekt Slowgarden möchte David Familien, Paaren, Singles und Wohngemeinschaften dabei unterstützen, lokales und saisonales Gemüse zu ernten und zu konsumieren. Er wünscht sich, dass seine Garten-Idee zu einer großen Gemeinschaft heranwächst. 
+Mit seinem neuen Projekt Slowgarden möchte David Familien, Paaren, Singles und Wohngemeinschaften dabei unterstützen, lokales und saisonales Gemüse zu ernten und zu konsumieren. Er wünscht sich, dass seine Garten-Idee zu einer großen Gemeinschaft heranwächst.
 
 Damit der Anbau gelingt, stellt er allen Gärtner⋆innen den besten bio-veganen Dünger für ihr Gemüse zur Verfügung. Außerdem dürfen sich alle an gemeinschaftlichen Obstbäumen und Kräuterbeeten, in denen David auch mal so ausgefallene Gewächse wie Ysop anpflanzt, bedienen. Für Inspiration ist also auch gesorgt.
 
 ## Mit den Öffentlichen zum eigenen Gemüsegarten
 
-![Eine Parzelle des Slowgarden Berlin aus der Vogelperspektive. Mehrere Reihen mit Gemüse auf einem Acker sind zu sehen. Eine männlich gelesene Person untersucht ein paar Pflanzen. ](https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-parzelle-von-oben-jpg-imagine-083808_345024_768_1024/640.webp "So schön kann Gemüseanbau sein.")
+![Eine Parzelle des Slowgarden Berlin aus der Vogelperspektive. Mehrere Reihen mit Gemüse auf einem Acker sind zu sehen. Eine männlich gelesene Person untersucht ein paar Pflanzen. ](https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-parzelle-von-oben-jpg-imagine-083808_345024_768_1024/640.webp 'So schön kann Gemüseanbau sein.')
 
 Was David bei der Planung besonders wichtig war, ist die Erreichbarkeit mit öffentlichen Verkehrsmitteln. Was nutzt einem das tollste Bio-Beet, wenn man ein Auto braucht, um es zu erreichen? Vom der S-Bahn-Station Oranienburg fahrt Ihr mit dem Bus 802 in Richtung Löwenberg bis zur Haltestelle "Nassenheide Kirche". Von dort aus sind es noch ungefähr zehn Minuten zu Fuß. Falls Ihr auf den Bus verzichten wollt, erreicht Ihr den Slowgarden mit dem Fahrrad vom Bahnhof Nassenheide aus in ein paar Minuten.
 
@@ -61,7 +56,7 @@ Nach getaner Arbeit im Gemüsebeet könnt Ihr dann mit dem Fahrrad oder zu Fuß 
 
 ## Leckeres Gemüse ernten
 
-![Gemüsepflanzen wachsen auf einem Feld.](https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-parzelle-jpg-imagine-a88888_77885a_1024_768/640.webp "So ähnlich könnte Eure Parzelle im Slowgarden Berlin aussehen.")
+![Gemüsepflanzen wachsen auf einem Feld.](https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-parzelle-jpg-imagine-a88888_77885a_1024_768/640.webp 'So ähnlich könnte Eure Parzelle im Slowgarden Berlin aussehen.')
 
 Der Ertrag kann pro Saison durchaus bei Gemüse im Wert von mehreren hundert Euro liegen. Dazu kommen dann natürlich auch noch Eure Erzeugnisse aus dem Gemeinschafts-Bereich. David schreibt dazu auf seiner Webseite:
 
@@ -73,7 +68,7 @@ Im Moment ist das Slowgarden Team mit Umgraben, Hämmern, Sägen, Pflügen und P
 
 ## Eine Saison lang einen Biogarten erleben
 
-![Reife Gurken und Tomaten hängen an Sträuchern.](https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-gurken-tomaten-jpg-imagine-182808_7d903a_1024_768/640.webp "Wie wäre es mit Gurken und Tomaten aus eigenem Anbau?")
+![Reife Gurken und Tomaten hängen an Sträuchern.](https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-gurken-tomaten-jpg-imagine-182808_7d903a_1024_768/640.webp 'Wie wäre es mit Gurken und Tomaten aus eigenem Anbau?')
 
 Wenn Euch das Projekt anspricht und Ihr Euch vorstellen könnt, Teil davon zu werden, könnt Ihr Euch jetzt auf Davids Seite bereits in die Interessent⋆innenliste[^1]eintragen. Dort könnt Ihr auch seinen Newsletter abonnieren, um nichts zu verpassen.
 

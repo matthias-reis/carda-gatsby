@@ -5,12 +5,9 @@ typeName: Review
 title: '"Omelette du Fromage"'
 subTitle: A spectacular album from Closet Disco Queen & The Flying Raclettes
 seoTitle: Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"
-description: On September 3rd, there will be an album release that you really
-  can look forward to. The Flying Raclettes extends Luc Hess's and Jona Nido's
-  instrumental duo Closet Disco Queen. You may probably know the two from their
-  work with The Ocean, Coilguns, Louis Jucker and other projects.
+description: On September 3rd, there will be an album release that you really can look forward to. The Flying Raclettes extends Luc Hess's and Jona Nido's instrumental duo Closet Disco Queen. You may probably know the two from their work with The Ocean, Coilguns, Louis Jucker and other projects.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-02-closet-disco-queen-flying-raclettes-3-jpeg-imagine-080808_3a3a3a_1440_960/640.webp
-copyrigt: Closet Disco Queen & The Flying Raclettes
+copyright: Closet Disco Queen & The Flying Raclettes
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/closet-disco-queen-the-flying-raclettes-omelette-du-fromage-fb-jpg-imagine-080808_000000_1200_628/640.webp
 labels:
   - 70srock
@@ -44,7 +41,7 @@ Live and studio sound engineer and guitarist Kevin Galland, who also played with
 
 ## Closet Disco Queen look back on exciting stories
 
-![Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/closet-disco-queen-omelette-du-fromage-jpeg-imagine-78b8b8_808f85_700_700/640.webp "Closet Disco Queen & The Flying Raclettes – \"Omelette du Fromage\"")
+![Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/closet-disco-queen-omelette-du-fromage-jpeg-imagine-78b8b8_808f85_700_700/640.webp 'Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"')
 
 Closet Disco Queen formed in 2014 during a quiet period with Coilguns. Their stated goal at that time was: to become a less talented version of The Mars Volta.
 
@@ -52,7 +49,7 @@ In the meantime, Luc and Jona look back on three years full of exciting tour sto
 
 A special highlight on their way must have been their performance at the Berlin-based Desert Fest. Closet Disco Queen have also toured various festivals in Switzerland. It was one sunny day at the Palp Festival when the Flying Raclettes were born.
 
-![Closet Disco Queen & The Flying Raclettes](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-02-closet-disco-queen-flying-raclettes-5-jpeg-imagine-080808_313131_1440_2160/640.webp "Closet Disco Queen & The Flying Raclettes")
+![Closet Disco Queen & The Flying Raclettes](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-02-closet-disco-queen-flying-raclettes-5-jpeg-imagine-080808_313131_1440_2160/640.webp 'Closet Disco Queen & The Flying Raclettes')
 
 ## "Omelette du Fromage" is a homage to "Dexter's Laboratory"
 
@@ -62,15 +59,15 @@ Dexter makes public speeches in the episode and eventually becomes a star by say
 
 ## A powerful piece of music
 
-Whether Closet Disco Queen & The Flying Raclettes are as shady as Dexter in the Big Cheese episode is for fans to decide for themselves. 
+Whether Closet Disco Queen & The Flying Raclettes are as shady as Dexter in the Big Cheese episode is for fans to decide for themselves.
 
 I've already had the chance to listen to it in its entirety, and I'm pretty sure that this is not the case. Overall, the record is a colourful bouquet of great playful sound that blows up all of these tiny little boxes we use to put music into.
 
-The additional bass and guitar have made the sound even more multi-layered compared to the last album, which also was extremely exciting. 
+The additional bass and guitar have made the sound even more multi-layered compared to the last album, which also was extremely exciting.
 
 ## Progressive elements and punk attitude
 
-![Closet Disco Queen & The Flying Raclettes](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-02-closet-disco-queen-flying-raclettes-2-jpeg-imagine-080808_3e3e3e_1440_960/640.webp "Closet Disco Queen & The Flying Raclettes")
+![Closet Disco Queen & The Flying Raclettes](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-02-closet-disco-queen-flying-raclettes-2-jpeg-imagine-080808_3e3e3e_1440_960/640.webp 'Closet Disco Queen & The Flying Raclettes')
 
 The band combines elements from the progressive psych and stoner world with rough punk attitude and sheer inexhaustible energy, which we love so much from groups like The Mars Volta, Goat or The Hives.
 
@@ -84,4 +81,12 @@ The four wrote, recorded and mixed their album in only two weeks in the Swiss st
 
 ## Closet Disco Queen & The Flying Raclettes – "Omelette du Fromage"
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1670918056/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://closetdiscoqueen.bandcamp.com/album/omelette-du-fromage">Omelette du Fromage by Closet Disco Queen &amp; The Flying Raclettes</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=1670918056/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://closetdiscoqueen.bandcamp.com/album/omelette-du-fromage">
+    Omelette du Fromage by Closet Disco Queen &amp; The Flying Raclettes
+  </a>
+</iframe>

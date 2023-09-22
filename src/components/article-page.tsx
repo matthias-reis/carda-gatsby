@@ -101,20 +101,22 @@ export const ArticlePage: React.FC<ArticleProps> = ({
               {formattedDate} &mdash; Lesezeit: {meta.timeToRead} min
             </div>
           </Meta>
-          {meta.frontmatter.languageLink && meta.frontmatter.language === 'en' && (
-            <LanguageArea>
-              <Language to={meta.frontmatter.languageLink}>
-                Deutsche&nbsp;Version&nbsp;lesen
-              </Language>
-            </LanguageArea>
-          )}
-          {meta.frontmatter.languageLink && meta.frontmatter.language === 'de' && (
-            <LanguageArea>
-              <Language to={meta.frontmatter.languageLink}>
-                🇬🇧&nbsp;Read&nbsp;English&nbsp;Version
-              </Language>
-            </LanguageArea>
-          )}
+          {meta.frontmatter.languageLink &&
+            meta.frontmatter.language === 'en' && (
+              <LanguageArea>
+                <Language to={meta.frontmatter.languageLink}>
+                  Deutsche&nbsp;Version&nbsp;lesen
+                </Language>
+              </LanguageArea>
+            )}
+          {meta.frontmatter.languageLink &&
+            meta.frontmatter.language === 'de' && (
+              <LanguageArea>
+                <Language to={meta.frontmatter.languageLink}>
+                  🇬🇧&nbsp;Read&nbsp;English&nbsp;Version
+                </Language>
+              </LanguageArea>
+            )}
         </MetaArea>
         <ImageContainer>
           {meta.frontmatter.image && (
@@ -129,6 +131,11 @@ export const ArticlePage: React.FC<ArticleProps> = ({
               src={meta.frontmatter.remoteImage}
               alt={fixSoftHyphens(meta.frontmatter.title)}
             />
+          )}
+          {meta.frontmatter.copyright && (
+            <ImageContainerCopyright>
+              Bild/Picture: &copy; {meta.frontmatter.copyright}
+            </ImageContainerCopyright>
           )}
         </ImageContainer>
         <div>{children}</div>
@@ -229,6 +236,11 @@ const ArticleFooter = styled.div`
 const ImageContainer = styled.div`
   margin-top: ${space[2]};
   margin-bottom: ${space[3]};
+`;
+const ImageContainerCopyright = styled.div`
+  font-size: ${fontSize[1]};
+  margin-top: ${space[1]};
+  text-align: right;
 `;
 
 const AdAndAffiliateTeaser = styled.a`

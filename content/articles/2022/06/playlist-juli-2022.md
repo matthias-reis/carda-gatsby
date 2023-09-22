@@ -5,15 +5,10 @@ typeName: Beitrag
 title: Playlist Juli 2022
 subTitle: Von Russian Circles bis Mono
 seoTitle: Playlist Juli – Von Russian Circles bis Mono
-description: Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich für Euch
-  wieder 12 Songs selektiert, die es ganz schön in sich haben – von Post-Rock
-  über Post-Metal bis Ambient und Emo.
-excerpt: "Was in vier Wochen alles passieren kann – ich sage es  Euch. Man sieht
-  das auch perfekt an der Zahl der Songs und Alben, die schon wieder neu
-  erschienen sind: Wie soll man da noch hinterherkommen? 12 Stück davon habe ich
-  gemeinsam mit meinen beiden Lieblings-Musikfans für Euch selektiert."
+description: Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich für Euch wieder 12 Songs selektiert, die es ganz schön in sich haben – von Post-Rock über Post-Metal bis Ambient und Emo.
+excerpt: 'Was in vier Wochen alles passieren kann – ich sage es  Euch. Man sieht das auch perfekt an der Zahl der Songs und Alben, die schon wieder neu erschienen sind: Wie soll man da noch hinterherkommen? 12 Stück davon habe ich gemeinsam mit meinen beiden Lieblings-Musikfans für Euch selektiert.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-06-28/12-songs-juli-jpeg-imagine-181818_6f6361_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-06-28/12-songs-juli-fb-jpeg-imagine-181818_6a6061_1200_628/640.webp
 labels:
   - Jaani Peuhu
@@ -48,7 +43,8 @@ advertisement: false
 affiliate: false
 language: de
 ---
-**Was in vier Wochen alles passieren kann – ich sage es  Euch. Man sieht das auch perfekt an der Zahl der Songs und Alben, die schon wieder neu erschienen sind: Wie soll man da noch hinterherkommen? 12 Stück davon habe ich gemeinsam mit meinen beiden Lieblings-Musikfans für Euch selektiert.**
+
+**Was in vier Wochen alles passieren kann – ich sage es Euch. Man sieht das auch perfekt an der Zahl der Songs und Alben, die schon wieder neu erschienen sind: Wie soll man da noch hinterherkommen? 12 Stück davon habe ich gemeinsam mit meinen beiden Lieblings-Musikfans für Euch selektiert.**
 
 Was passiert, wenn Post-Rock auf Metal trifft, und wie da auch noch Ambient ins Bild passt, erfahrt ihr im Rest des Beitrags. Ganz unten findet Ihr dann wie gewohnt die Playlists für iTunes uns Spotify. Ihr braucht also im Grunde nur noch loszuhören. Viel Spaß!
 
@@ -92,7 +88,7 @@ Diese guten alten Bekannten hat Matze auf die Liste gesetzt:
 
 Auch diesen Song hat Matze auf die Liste gesetzt:
 
-> "'Final Light' ist der Projekt- und Albumname einer Kooperation zwischen dem französischen Synth-Waver Perturbator aka James Kent und Cult of Luna Sänger Johannes Persson. Die Platte ist Mitte Juni erschienen und ist es würdig, in Dauerschleife gehört zu werden. Es klingt ein bisschen wie Sludge-Metal auf Keyboards und Synths – abgefahren. Entsprechend findet man mehr Hooks und Nuancen als bei den für Cult of Luna. Die harten, treibenden Doppeldrums fehlen dafür fast ein bisschen.  OK, ich gebe zu: Das ist Kritik auf einem verdammt hohen Niveau".
+> "'Final Light' ist der Projekt- und Albumname einer Kooperation zwischen dem französischen Synth-Waver Perturbator aka James Kent und Cult of Luna Sänger Johannes Persson. Die Platte ist Mitte Juni erschienen und ist es würdig, in Dauerschleife gehört zu werden. Es klingt ein bisschen wie Sludge-Metal auf Keyboards und Synths – abgefahren. Entsprechend findet man mehr Hooks und Nuancen als bei den für Cult of Luna. Die harten, treibenden Doppeldrums fehlen dafür fast ein bisschen. OK, ich gebe zu: Das ist Kritik auf einem verdammt hohen Niveau".
 
 <YouTube id="h0TC4I_SImg" />
 
@@ -112,7 +108,15 @@ Ihren Soundtrack zum Film "My Story, The Burak Story" haben Mono am 27. Mai ver�
 
 Perry Franks neue EP "Siberia" handelt von der schmelzenden Welt des ewigen Eises. "Polar Twilight" ist das zweite Stück auf dem insgesamt fünf Songs umfassenden Tonträger. Ich habe es auf die Liste gesetzt, weil er ein schöner Einstieg in die Welt des Musikers ist. Der Klangbastler schafft es mit "Siberia" erneut, die Bilder einer ganz besonderen Landschaft zu vertonen. Ich denke, dass es genau das ist, was mich an seiner Musik schon so lange fasziniert: Seine Fähigkeit, visuelle Eindrücke in Klang umzuwandeln. Ob das ewige Eis wirklich für die Ewigkeit gemacht ist, kann heute kein Mensch mehr sagen. Perry Frank hat die Bilder davon in Form von Noten für immer konserviert.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3797020282/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=459187871/transparent=true/" seamless><a href="https://perryfrank.bandcamp.com/album/siberia">Siberia by AstroPilot, Perry Frank</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3797020282/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=459187871/transparent=true/"
+  seamless
+>
+  <a href="https://perryfrank.bandcamp.com/album/siberia">
+    Siberia by AstroPilot, Perry Frank
+  </a>
+</iframe>
 
 ## Editors – "Karma Climb" (Vorauskopplung vom Album "EBM")
 
@@ -140,5 +144,3 @@ Weltmythologie – wenn Ihr mit diesem Begriff etwas anfangen könnt, kommt Ihr 
   spotify="6vM6BFDMXv7NSrJdkV9Llc?si=6c32d758e771487e"
   itunes="2022-07-01-rock-n-roll-vegan/pl.u-o959h3ye8ea"
 />
-
-

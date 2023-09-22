@@ -5,13 +5,10 @@ typeName: Beitrag
 title: Seide ist nicht vegan
 subTitle: Das steckt hinter der Seidenindustrie
 seoTitle: Seide ist nicht vegan – das steckt hinter der Seidenindustrie
-description: Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen
-  gewonnen und der Prozess ist alles andere als tierfreundlich. Doch was genau
-  steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung gemacht?
-  Ich habe mal ein paar Fakten für Euch zusammengetragen.
-excerpt: ""
+description: Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen gewonnen und der Prozess ist alles andere als tierfreundlich. Doch was genau steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung gemacht? Ich habe mal ein paar Fakten für Euch zusammengetragen.
+excerpt: ''
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/seidenraupen-zucht-jpg-imagine-b8b8b8_8a8a88_1024_768/640.webp
-copyrigt: LoggaWiggler, pixabay
+copyright: LoggaWiggler, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/seidenraupen-zucht-fb-jpg-imagine-b8b8b8_91908d_1200_628/640.webp
 labels:
   - Seide
@@ -59,7 +56,7 @@ Wenn die Seidenraupen ein Alter von 35 Tagen erreicht haben, beginnen sie, ihre 
 
 In der Natur würden die Raupen nach 16 Tagen aus ihren Kokons ausschlüpfen und ihr Leben als Motten (Seidenspinner) weiterführen. Doch auf den Seidenfarmen kommt es nicht so weit.
 
-![Seidenraupen im Kochtopf. Bild: Glady, pixabay](https://storage.googleapis.com/cardamonchai-media/2021-11-20/seidenraupen-kochtopf-jpg-imagine-a89878_998b6d_1024_768/640.webp "Seidenraupen im Kochtopf. Bild: Glady, pixabay")
+![Seidenraupen im Kochtopf. Bild: Glady, pixabay](https://storage.googleapis.com/cardamonchai-media/2021-11-20/seidenraupen-kochtopf-jpg-imagine-a89878_998b6d_1024_768/640.webp 'Seidenraupen im Kochtopf. Bild: Glady, pixabay')
 
 Die verpuppten Seidenspinner werden in kochendes Wasser geschüttet und gekocht. Bei diesem Vorgang platzen die Puppen auf und aus jeder von ihnen wird ein langer Seidenfaden, der im Anschluss zu Stoff gesponnen wird.
 
@@ -79,7 +76,7 @@ Studien zum Schmerzempfinden von Seidenraupen scheint es noch keine zu geben. Al
 
 ## Ist Seide nachhaltig?
 
-Immer häufiger findet man heute auch im Fair Fashion Bereich Kleidung mit den Labels "aus kontrolliert biologischer Seide", "aus kontrolliert biologischem Anbau" oder "aus nachhaltiger Seide". Das ist meistens höchstens ein Hinweis darauf, dass die Maulbeerbäume, von deren Blättern sich die Seidenraupen ernähren, biologisch angebaut werden. Den weiteren Verarbeitungsprozess, wie zum Beispiel den Färbungsvorgang, sollte man sich, wie bei allen anderen Textilien auch, genau anschauen. 
+Immer häufiger findet man heute auch im Fair Fashion Bereich Kleidung mit den Labels "aus kontrolliert biologischer Seide", "aus kontrolliert biologischem Anbau" oder "aus nachhaltiger Seide". Das ist meistens höchstens ein Hinweis darauf, dass die Maulbeerbäume, von deren Blättern sich die Seidenraupen ernähren, biologisch angebaut werden. Den weiteren Verarbeitungsprozess, wie zum Beispiel den Färbungsvorgang, sollte man sich, wie bei allen anderen Textilien auch, genau anschauen.
 
 Entgegen der Behauptung einiger Beführworter⋆innen einer neuen und angeblich "aus Tiersicht vertretbaren" Seidengewinnungs-Variante, bei der die Motten kurz vor dem Schlupf aus ihren Kokons geschnitten werden, gibt es keine Tierleid-freie Seide. Auch bei diesem Vorgehen werden Tiere verletzt und getötet. Außerdem handelt es sich auch hier natürlich (ich wiederhole mich) um ein tierisches Produkt. Das wäre auch dann der Fall, würde man die Puppen der Falter nach dem Ausschlüpfen vom Boden aufsammeln und verarbeiten. Die Tiere müssten auch hierfür gezüchtet werden, was einen menschlichen Eingriff in die Natur bedeutet. Die Seidenstränge hingegen sind nach dem natürlichen Schlüpfen oder Aufschneiden der Puppen außerdem wesentlich kürzer. Dadurch sinkt die Qualität und die Seide verkauft sich schlechter.
 

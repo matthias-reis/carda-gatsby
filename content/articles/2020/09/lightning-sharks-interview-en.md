@@ -5,14 +5,9 @@ typeName: Interview
 title: Lightning Sharks
 subTitle: '"Screaming In Bolsonaros Face"'
 seoTitle: Lightning Sharks  – "Screaming In Bolsonaros Face"
-description: Lightning Sharks, post-hardcore newcomers from Bristol should have
-  let this year's ArcTanGent Festival shake. Because of Corona, it couldn't take
-  place so they decided to move their concert into their rehearsal room and
-  shared the event with the whole world. I've invited the guys for an interview
-  and we talked about their idea, their music, and the current worldwide
-  situation.
+description: Lightning Sharks, post-hardcore newcomers from Bristol should have let this year's ArcTanGent Festival shake. Because of Corona, it couldn't take place so they decided to move their concert into their rehearsal room and shared the event with the whole world. I've invited the guys for an interview and we talked about their idea, their music, and the current worldwide situation.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-09-lightning-sharks-l-jpeg-imagine-080808_3f3c31_1440_1080/640.webp
-copyrigt: Lightning Sharks
+copyright: Lightning Sharks
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-09-lightning-sharks-fb-png-l-jpg-imagine-181818_2e2e2e_1440_754/640.webp
 labels:
   - ArcTanGent

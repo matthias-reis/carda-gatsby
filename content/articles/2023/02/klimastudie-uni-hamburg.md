@@ -4,17 +4,11 @@ slug: klimastudie-uni-hamburg
 typeName: Beitrag
 title: 1,5-Grad-Ziel nicht plausibel
 subTitle: Neue Klimastudie der Uni Hamburg
-seoTitle: "Klima: Studie Uni Hamburg – 1,5 Grad Ziel nicht plausibel"
-description: "Aus der neuen Klimastudie der Uni Hamburg geht hervor: Das
-  1,5-Grad-Ziel ist nicht plausibel. Lest jetzt, was die Forschenden
-  herausgefunden haben."
-excerpt: 'Die Autor⋆innen der neuesten Klimastudie "Hamburg Climate Futures
-  Outlook" sehen es klar: Wenn wir uns ausschließlich auf die vereinbarten
-  Bestrebungen konzentrieren, werden wir das 1,5-Grad-Ziel nicht erreichen. Die
-  Forschenden der Uni Hamburg sehen die Verantwortung bei Unternehmen, Medien
-  sowie Konsument⋆innen.'
+seoTitle: 'Klima: Studie Uni Hamburg – 1,5 Grad Ziel nicht plausibel'
+description: 'Aus der neuen Klimastudie der Uni Hamburg geht hervor: Das 1,5-Grad-Ziel ist nicht plausibel. Lest jetzt, was die Forschenden herausgefunden haben.'
+excerpt: 'Die Autor⋆innen der neuesten Klimastudie "Hamburg Climate Futures Outlook" sehen es klar: Wenn wir uns ausschließlich auf die vereinbarten Bestrebungen konzentrieren, werden wir das 1,5-Grad-Ziel nicht erreichen. Die Forschenden der Uni Hamburg sehen die Verantwortung bei Unternehmen, Medien sowie Konsument⋆innen.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-02/klimastudie-uni-hamburg-jpg-imagine-5898c8_5a8eb3_2048_1536/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-02/klima-studie-der-uni-hamburg-jpg-imagine-5898c8_6792b2_1200_628/640.webp
 labels:
   - Klimastudie
@@ -28,6 +22,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Die Autor⋆innen der neuesten Klimastudie "Hamburg Climate Futures Outlook" sehen es klar: Wenn wir uns ausschließlich auf die vereinbarten Bestrebungen konzentrieren, werden wir das 1,5-Grad-Ziel nicht erreichen. Die Forschenden der Uni Hamburg sehen die Verantwortung bei Unternehmen, Medien sowie Konsument⋆innen.**
 
 Aus der offiziellen Mitteilung[^1] zur Arbeit der Hochschule geht folgendes hervor:
@@ -51,14 +46,14 @@ Rund 60 Natur- und Sozialwissenschaftler⋆innen arbeiteten die gestern veröffe
 - Wissensproduktion
 - Medien
 
-Zusammengefasst lauten die Erkenntnisse der Forschenden wie folgt: 
+Zusammengefasst lauten die Erkenntnisse der Forschenden wie folgt:
 
 > "Das Erreichen des Pariser Temperaturziels von 1,5 °C ist nicht plausibel. Die Begrenzung des globalen Temperaturanstiegs auf deutlich unter 2°C kann plausibel werden, wenn wir Ambitionen, Umsetzungs- und Wissenslücken schließen.
-> 
+>
 > Keiner der zehn sozialen Treiber unterstützt eine umfassende Dekarbonisierung bis 2050. Die treibenden Kräfte der Unternehmen sowie unsere Konsummuster untergraben weiterhin die Wege zur Dekarbonisierung und machen eine umfassende Dekarbonisierung unmöglich.
-> 
+>
 > Durch die physikalischen Prozesse Permafrost-Auftauen, AMOC-Instabilität und Amazonas-Waldsterben können die Plausibilität des Erreichens der Temperaturziele des Pariser Abkommens moderat beeinträchtigt werden.
-> 
+>
 > Die Bewertungen der sozialer Treiber zeigen, dass menschliches Handeln großes Potenzial besitzt, die Entwicklung der Klimazukunft zu gestalten. Dieses wird jedoch stark von Ungerechtigkeiten und sozialen Ungleichheiten geprägt, die die soziale Dynamik hin zu einer umfassenden Dekarbonisierung bis 2050 hemmen."
 
 **Sprich:** Wenn wir nicht alle dazu bereit sind, etwas zu tun, ist es zu spät und: Wir müssen uns gegenseitig unterstützen. Die reichen Industrieländer die armen und die großen Konzerne und Mächtigen dieser Welt müssen mit allen gemeinsam an einem Strang ziehen.
@@ -71,11 +66,9 @@ Interessant ist, dass die Wissenschaftler⋆innen die fortschreitenden physikali
 
 Hier ist es von großer Wichtigkeit, einen kritischen Punkt nicht zu vergessen: der soziale Wandel und unser Verhalten haben große Auswirkungen auf das Klima. Dass das Abschmelzen des Eises möglicherweise für keinen großen Rückkopplungseffekt sorgt, wird die Klimakatastrophe nicht stoppen.
 
-Laut Anita Engels befinden wir uns nicht mal ansatzweise auf dem richtigen Weg. Hinzu kommt, dass die staatlichen Investitionen zur Milderung der Folgen der Corona-Krise und des russischen Einmarsches in die Ukraine die Abhängigkeit von
-fossilen Brennstoffen noch verfestigt haben. Sie sagt:
+Laut Anita Engels befinden wir uns nicht mal ansatzweise auf dem richtigen Weg. Hinzu kommt, dass die staatlichen Investitionen zur Milderung der Folgen der Corona-Krise und des russischen Einmarsches in die Ukraine die Abhängigkeit von fossilen Brennstoffen noch verfestigt haben. Sie sagt:
 
-> "Wenn wir unsere gesteckten Klimaziele verfehlen, ist es 
-> umso wichtiger, dass wir uns an die Folgen anpassen."
+> "Wenn wir unsere gesteckten Klimaziele verfehlen, ist es umso wichtiger, dass wir uns an die Folgen anpassen."
 
 Ihr Kollege Jochem Marotzke betont außerdem:
 
@@ -87,10 +80,9 @@ Bei dieser Art Rückkopplungen sprechen die Forschenden von Klimasensitivität. 
 
 ## Wir alle müssen etwas tun, um die Klimakatastrophe zu stoppen
 
-Die Forschungsgruppe findet, es hätte sich einiges bewegt. Allerdings bremse das Verhalten der Unternehmen und Konsument⋆innen den so dringend notwendigen Klimaschutz aus. Die notwendige umfassende Dekarbonisierung verliefe nach wie vor viel zu langsam. Dekarbonisierung bedeutet die Reduktion von Kohlendioxid-Emissionen, erklärt Anita Engels. 
+Die Forschungsgruppe findet, es hätte sich einiges bewegt. Allerdings bremse das Verhalten der Unternehmen und Konsument⋆innen den so dringend notwendigen Klimaschutz aus. Die notwendige umfassende Dekarbonisierung verliefe nach wie vor viel zu langsam. Dekarbonisierung bedeutet die Reduktion von Kohlendioxid-Emissionen, erklärt Anita Engels.
 
 Wir alle müssen demnach unser Verhalten ändern und mit offenen Augen durchs Leben gehen. Sachliche Berichterstattung auf der Basis wissenschaftlicher Fakten und das entsprechende Handeln der Politik kann auf Dauer außerdem den entscheidenden Beitrag zur Rettung des Klimas leisten. Um das zu schaffen, sind vor allem zwei Dinge wichtig: Aufklärung unter Bereitstellung aller wichtigen Fakten, ohne die Beeinflussung durch Lobbys und persönliche Meinungen und eine laute, offene Debatte über die Klimakatastrophe und wie welche Schritte wir alle gehen müssen, um sie zu stoppen.
 
 [^1]: [Offizielle Mitteilung zur Studie](https://www.cliccs.uni-hamburg.de/results/hamburg-climate-futures-outlook.html)
-
 [^2]: [Studie der Uni Hamburg](https://attachment.rrz.uni-hamburg.de/8c8af471/CLICCS-Hamburg-Climate-Futures-Outlook-2023.pdf)

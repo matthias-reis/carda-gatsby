@@ -5,15 +5,10 @@ typeName: Interview
 title: Barrens im Interview
 subTitle: '"Endlich können wir unsere Musik live spielen"'
 seoTitle: Barrens – "Endlich können wir live performen!" - Post-Rock Interview
-description: Barrens arbeiten derzeit an einem neuen Album. Ihr Vorgängerwerk
-  "Penumbra" ist auf Pelagic Records erschienen und fand live großen Anklang.
-  Ich hatte jetzt die Gelegenheit, sie zu interviewen.
-excerpt: Barrens haben gerade ihre verschobene Tour mit God Is An Astronaut
-  abgeschlossen. Das Post-Rock Trio aus Schweden arbeitet derzeit an einem neuen
-  Album. Ihr Vorgängerwerk "Penumbra" ist auf Pelagic Records erschienen und
-  fand live großen Anklang. Ich hatte jetzt die Gelegenheit, sie zu interviewen.
+description: Barrens arbeiten derzeit an einem neuen Album. Ihr Vorgängerwerk "Penumbra" ist auf Pelagic Records erschienen und fand live großen Anklang. Ich hatte jetzt die Gelegenheit, sie zu interviewen.
+excerpt: Barrens haben gerade ihre verschobene Tour mit God Is An Astronaut abgeschlossen. Das Post-Rock Trio aus Schweden arbeitet derzeit an einem neuen Album. Ihr Vorgängerwerk "Penumbra" ist auf Pelagic Records erschienen und fand live großen Anklang. Ich hatte jetzt die Gelegenheit, sie zu interviewen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-29/barrens-interview-jpg-imagine-080808_000000_1024_768/640.webp
-copyrigt: Barrens
+copyright: Barrens
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-29/barrens-interview-fb-jpg-imagine-080808_000000_1200_628/640.webp
 labels:
   - Barrens
@@ -35,6 +30,7 @@ affiliate: false
 language: de
 languageLink: /2022/04/barrens-interview-en/
 ---
+
 **Barrens haben gerade ihre verschobene Tour mit God Is An Astronaut abgeschlossen. Das Post-Rock Trio aus Schweden arbeitet derzeit an einem neuen Album. Ihr Vorgängerwerk "Penumbra" ist auf Pelagic Records erschienen und fand live großen Anklang. Ich hatte jetzt die Gelegenheit, sie zu interviewen.**
 
 **Anne:** Hallo! Wie geht es Euch heute? Danke, dass Ihr Euch die Zeit für dieses Interview nehmt!
@@ -59,7 +55,7 @@ languageLink: /2022/04/barrens-interview-en/
 
 ## Ein hoffnungsvolles Licht
 
-**Barrens:** Außer vielleicht bei ein paar Dingen, haben wir in der Regel keinen Masterplan, was den Sound angeht. Wir wollten Synthesizer benutzen und uns gefällt Instrumentalmusik. Also wollten wir sehen, was wir als Trio in die Richtung machen können. Stimmungsmäßig befanden wir uns alle in einer transformativen Phase unseres Lebens. Das Konzept der Metamorphose/Veränderung/Navigation durch blendendes Licht/Dunkelheit hat sich also ganz von alleine ergeben. Das ist natürlich zum Teil vom Zeitgeist beeinflusst, führte aber auch in vielerlei Hinsicht in die folgenden Jahre. Es kann keine Dunkelheit ohne Licht geben und umgekehrt – das ist eine grundlegende Wahrheit. Wir gehen durch dunkle Zeiten, aber es gibt verschiedene Grade und Schattierungen von Dunkelheit und ein hoffnungsvolles Licht, das nie erlischt. 
+**Barrens:** Außer vielleicht bei ein paar Dingen, haben wir in der Regel keinen Masterplan, was den Sound angeht. Wir wollten Synthesizer benutzen und uns gefällt Instrumentalmusik. Also wollten wir sehen, was wir als Trio in die Richtung machen können. Stimmungsmäßig befanden wir uns alle in einer transformativen Phase unseres Lebens. Das Konzept der Metamorphose/Veränderung/Navigation durch blendendes Licht/Dunkelheit hat sich also ganz von alleine ergeben. Das ist natürlich zum Teil vom Zeitgeist beeinflusst, führte aber auch in vielerlei Hinsicht in die folgenden Jahre. Es kann keine Dunkelheit ohne Licht geben und umgekehrt – das ist eine grundlegende Wahrheit. Wir gehen durch dunkle Zeiten, aber es gibt verschiedene Grade und Schattierungen von Dunkelheit und ein hoffnungsvolles Licht, das nie erlischt.
 
 Nach mehr als 20 bis 25 Jahren in unterschiedlichen Bands, sind wir mehr oder weniger wir selbst geblieben. Wir machen Musik, weil wir es müssen. Wir verdienen kein Geld damit. Wir kommen viel ärmer nach Hause, als wir gegangen sind, aber so ist es nun mal. Wenn der Tag kommt, an dem das für uns nicht mehr machbar ist, werden wir entscheiden müssen, was wir dann tun. Aber im Moment ist es in Ordnung. Wir haben das Glück, verständnisvolle Partner⋆innen und Familien zu haben, die uns und unsere Arbeit unterstützen und wir haben Jobs, bei denen wir uns zum Spielen freinehmen können. Das ist für uns in dieser Situation von grundlegender Bedeutung. Eine Band wie unsere kann nicht von der Musik leben. Es geht um Hingabe, harte Arbeit, Aufopferung und an den Glauben daran, dass ich alles zum Besten entwickelt. Ich denke, das spiegelt sich auch in unserer Musik wider.
 
@@ -77,7 +73,7 @@ Nach mehr als 20 bis 25 Jahren in unterschiedlichen Bands, sind wir mehr oder we
 
 ## "Mit Barrens haben unsere Ideen endlich ein Zuhause bekommen"
 
-**Barrens:** Nein, Barrens ist keine Fortsetzung von Scraps Of Tape. Barrens ist ein neues Projekt, in dem bestimmte Ideen und Stile, die bei S.o.T. nicht funktionieren, ein Zuhause gefunden. 
+**Barrens:** Nein, Barrens ist keine Fortsetzung von Scraps Of Tape. Barrens ist ein neues Projekt, in dem bestimmte Ideen und Stile, die bei S.o.T. nicht funktionieren, ein Zuhause gefunden.
 
 Als wir Barrens gestartet haben, hatten wir bestimmte Ideen, die wir erforschen wollten. Leider musste Scraps Of Tape aus verschiedenen Gründen pausieren. Diese Auszeit haben wir genutzt, um sie zu erforschen und zu entdecken, was aus Barrens werden kann.
 
@@ -98,5 +94,3 @@ Als wir Barrens gestartet haben, hatten wir bestimmte Ideen, die wir erforschen 
 ## Barrens – "Atomos"
 
 <YouTube id="BEm8kpL8HbI" />
-
-

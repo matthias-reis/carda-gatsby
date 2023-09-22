@@ -8,7 +8,7 @@ seoTitle: Transparente Solarmodule als Fensterersatz
 description: Transparente Solarmodule könnten den Energiemarkt schon bald revolutionieren. Die ersten Gebäude wurden bereits mit Solar-Fenstern bestückt.
 excerpt: 'Bereits 2014 fanden Forschende an der Michigan State University heraus: transparente Solarmodule könnten schon bald weltweit in Gebäuden als Fensterersatz dienen. Das würde die Einsatzmöglichkeiten natürlich um ein Vielfaches vergrößern.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-09-06/transparente-solarzellen-msu-jpeg-imagine-78a8e8_908d93_1024_768/640.webp
-copyrigt: Michigan State University, MSU Today
+copyright: Michigan State University, MSU Today
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-09-06/transparente-solarzellen-msu-fb-jpeg-imagine-c8c8c8_8e8c93_1200_628/640.webp
 labels:
   - MSU

@@ -5,14 +5,10 @@ typeName: Beitrag
 title: Playlist Dezember 2022
 subTitle: Von Brutus bis Wang Wen
 seoTitle: Playlist Dezember 2022 – Post-Rock & Co.
-description: Auf der Suche nach neuer Musik aus Post-Rock & Co.? Diese Playlist
-  liefert Euch Bands von Wang Wen bis Brutus.
-excerpt: "Es ist so weit und ich möchte gar nicht lange um die heißen Tracks
-  herumreden: Die Musikliste für den Dezember steht für Euch bereit und möchte
-  gehört werden. Alle Fans von Post-Musik aller Art und Freund⋆innen der
-  vielschichtigen Seite der Musik sollten hier also unbedingt weiterlesen."
+description: Auf der Suche nach neuer Musik aus Post-Rock & Co.? Diese Playlist liefert Euch Bands von Wang Wen bis Brutus.
+excerpt: 'Es ist so weit und ich möchte gar nicht lange um die heißen Tracks herumreden: Die Musikliste für den Dezember steht für Euch bereit und möchte gehört werden. Alle Fans von Post-Musik aller Art und Freund⋆innen der vielschichtigen Seite der Musik sollten hier also unbedingt weiterlesen.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-11-29/musikliste-dezember-jpg-imagine-f8f8f8_8c807d_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-29/musikliste-dezember-fb-jpg-imagine-f8f8f8_867a78_1200_628/640.webp
 labels:
   - Band
@@ -49,6 +45,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Es ist so weit und ich möchte gar nicht lange um die heißen Tracks herumreden: Die Musikliste für den Dezember steht für Euch bereit und möchte gehört werden. Alle Fans von Post-Musik aller Art und Freund⋆innen der vielschichtigen Seite der Musik sollten hier also unbedingt weiterlesen.**
 
 Die fertigen Playlisten für iTunes und Spotify habe ich wie immer ganz unten für Euch eingefügt. Doch nun erstmal zu den Videos inklusive Empfehlungen. Zusammengestellt habe ich die Liste wie jeden Monat gemeinsam mit Valentin und Matze.
@@ -62,6 +59,7 @@ Die verzauberte Ballade handelt von der urbanen Einsamkeit, schlaflosen Nächste
 <YouTube id="Fq4GpBiR-jk" />
 
 ## 36 & Zaké – "Stage 5" vom Album "Stasis Sounds For Long-Distance Space Travel II"
+
 Meinen zweiten Song diesen Monat haben 36 & Zaké gemeinsam aufgenommen. Es handelt sich um den ersten Track des Anfang des Monats erschienenen gemeinsamen Album der beiden – ein sechsminütiges Ambient-Stück mit Charakter. Es lädt dazu ein, die Welt von oben zu betrachten und damit der eigenen Persönlichkeit ein Stückchen näherzukommen. Wie alle Platten aus dem Hause Past Inside the Present könnt Ihr auch diese als Vinyl-Version erwerben. Die Minimalist⋆innen unter Euch können das Stück natürlich auch auf allen bekannten Streaming-Plattformen und auf Bandcamp anhören.
 
 <YouTube id="4o0VYVOe2K4" />
@@ -90,7 +88,7 @@ Das neue Album von Psychonaut erschien am 28. Oktober auf Pelagic Records. Ich h
 
 ## Valentins Songs
 
-### FJØRT – "nichts" vom Album "nichts" 
+### FJØRT – "nichts" vom Album "nichts"
 
 > Diesen Monat habe ich Post-Hardcore aus Aachen für Euch, denn FJØRT haben endlich ein neues Album und es führt die Stärke des Vorgängers 'Couleur' weiter. Nachdem ich im letzten Monat schon Die Nerven auf der Liste hatte, freue ich mich sehr, dass ich einen Monat später gleich mit einer weiteren wichtigen Band aus unseren Breiten weitermachen kann. 'nichts' ist bereits das fünfte Album der Band, deren letzte vier alle beim Traditionslabel Grand Hotel van Cleef erschienen sind. Am meisten begeistern wieder die sozialkritischen aber auch hoffnungsvollen Texte, mit denen man sich lange beschäftigen kann. Die Energie der Musik tut ihr übriges. Ich habe mich für den Titelsong 'nichts' entschieden aber am besten hört ihr euch das komplette Album, und wenn ihr FJØRT noch nicht kennt, auch die davor erschienenen Sachen an.
 
@@ -135,4 +133,11 @@ Das neue Album von Psychonaut erschien am 28. Oktober auf Pelagic Records. Ich h
 
 ## Die Dezember-Playlist auf YouTube
 
-<iframe style="aspect-ratio: 16 / 9; width: 100%" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUJioJXp-AxNs_cdc14GsN8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe
+  style="aspect-ratio: 16 / 9; width: 100%"
+  src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUJioJXp-AxNs_cdc14GsN8f"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>

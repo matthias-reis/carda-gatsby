@@ -5,14 +5,10 @@ typeName: Produkttest
 title: Neue Motive von der Tiermanufaktur Ligarti
 subTitle: Emaille-Tassen mit Fischen und Vögeln
 seoTitle: Emaille-Tassen, T-Shirts & Co mit kunstvollen Tierdrucken | Sounds Vegan
-description: Ihr seid auf der Suche nach schönen Geschenken? Die Tiermanufaktur
-  Ligarti hat jetzt neue Motive auf Tassen, T-Shirts und vieles mehr gedruckt.
-  Vorbeischauen lohnt sich!
-excerpt: An Ligarti könnt Ihr Euch ganz bestimmt noch erinnern. Das Start-up aus
-  Wuppertal stellt tolle Stücke für den Alltag her – bedruckt mit wundervollen
-  Bildern der Künstlerin Hanna. Jetzt gibt es neue Motive.
+description: Ihr seid auf der Suche nach schönen Geschenken? Die Tiermanufaktur Ligarti hat jetzt neue Motive auf Tassen, T-Shirts und vieles mehr gedruckt. Vorbeischauen lohnt sich!
+excerpt: An Ligarti könnt Ihr Euch ganz bestimmt noch erinnern. Das Start-up aus Wuppertal stellt tolle Stücke für den Alltag her – bedruckt mit wundervollen Bildern der Künstlerin Hanna. Jetzt gibt es neue Motive.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-22/2022-10-22-ligarti-006-jpg-imagine-d8c8b8_977862_2048_1536/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-22/ligarti-neue-motive-fb-jpeg-imagine-784828_8c7c71_1200_628/640.webp
 labels:
   - Ligarti
@@ -30,11 +26,12 @@ advertisement: true
 affiliate: false
 language: de
 ---
+
 **An Ligarti könnt Ihr Euch ganz bestimmt noch erinnern. Das Start-up aus Wuppertal stellt tolle Stücke für den Alltag her – bedruckt mit wundervollen Bildern der Künstlerin Hanna.**
 
-Alles über die Tiermanufaktur Ligarti erfahrt [in meinem ersten Artikel zum Thema](/2022/08/ligarti-die-tiermanufaktur/). Er ist im August entstanden. An dem Tag hatte ich seit langer Zeit mal wieder ein Fotoshooting und mit trotz angenehmer 30 Grad sehr wohlgefühlt im hübschen Ligarti T-Shirt mit Kranich-Print. 
+Alles über die Tiermanufaktur Ligarti erfahrt [in meinem ersten Artikel zum Thema](/2022/08/ligarti-die-tiermanufaktur/). Er ist im August entstanden. An dem Tag hatte ich seit langer Zeit mal wieder ein Fotoshooting und mit trotz angenehmer 30 Grad sehr wohlgefühlt im hübschen Ligarti T-Shirt mit Kranich-Print.
 
-Jetzt gibt es neue Motive von Hanna, die ich Euch heute gerne vorstellen möchte. Neben verschiedenen Vögeln, die Hanna, genau wie mich, schon immer begeistern, zeichnet sie jetzt auch Unterwasser-Bewohner. Der Schwertfisch ist wirklich zauberhaft, oder? 
+Jetzt gibt es neue Motive von Hanna, die ich Euch heute gerne vorstellen möchte. Neben verschiedenen Vögeln, die Hanna, genau wie mich, schon immer begeistern, zeichnet sie jetzt auch Unterwasser-Bewohner. Der Schwertfisch ist wirklich zauberhaft, oder?
 
 ## Mehr als Urlaubsbegleiter und Stiftehalter
 
@@ -52,7 +49,7 @@ Solltet Ihr noch Anregungen benötigen, was man außer Tee trinken noch alles mi
 
 Die Becher gibt es in zwei Größen – 300 und 500 Milliliter. Damit sie möglichst lange schön bleiben, solltet Ihr sie am besten von Hand spülen. Wie alles von Ligarti, sind auch die Tassen vollständig vegan und werden in Handarbeit bedruckt.
 
-Mit in meinem Päckchen lag dieses Mal auch wieder eine liebevollst von Hanna gestaltete Karte – dieses Mal mit einem Eulen-Print. Sie ist natürlich sofort auf der Wand über meinem Schreibtisch eingezogen. Dort kann die Zeichnung nun täglich für  Inspiration sorgen.
+Mit in meinem Päckchen lag dieses Mal auch wieder eine liebevollst von Hanna gestaltete Karte – dieses Mal mit einem Eulen-Print. Sie ist natürlich sofort auf der Wand über meinem Schreibtisch eingezogen. Dort kann die Zeichnung nun täglich für Inspiration sorgen.
 
 Hannas Motive findet Ihr außer auf Tassen und auf Karten auch noch auf Magneten, Taschen, Trinkflaschen, Untersetzern, T-Shirts, Notizblöcken und vielem mehr. Ein Besuch im [Onlineshop](https://ligarti.com/) lohnt sich wirklich immer. Im Moment testet Hanna gerade eine neue Technik und arbeitet mit Ölfarben. Ihr dürft also gespannt sein!
 

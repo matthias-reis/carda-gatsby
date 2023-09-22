@@ -5,16 +5,10 @@ typeName: Interview
 title: God Is An Astronaut Mitglied Jamie Dean über sein Solo-Projekt
 subTitle: '"Ich bin in einer musikalischen Familie aufgewachsen"'
 seoTitle: 'Interview: Jamie Dean von God Is An Astronaut über "Mutualism"'
-description: Ich habe mich mit God Is An Astronaut Mitglied Jamie Dean zum
-  Interview verabredet. Wir haben uns über sein Soloprojekt und die laufende
-  Tour unterhalten – und was wir vom Mutualismus im Tierreich lernen können.
-excerpt: Vor ein paar Tagen habe ich das neue Solo-Stück von God Is An Astronaut
-  Mitglied Jamie Dean in meiner Juni-Playlist erwähnt. Nachdem er meine Social
-  Media Posts dazu geteilt hatte, fragte ich ihn, ob er Lust auf ein Interview
-  hätte. Ich bin sehr stolz, es Euch heute präsentieren zu können. Ich habe die
-  Unterhaltung mit Jamie sehr genossen und wünsche Euch viel Freude beim Lesen.
+description: Ich habe mich mit God Is An Astronaut Mitglied Jamie Dean zum Interview verabredet. Wir haben uns über sein Soloprojekt und die laufende Tour unterhalten – und was wir vom Mutualismus im Tierreich lernen können.
+excerpt: Vor ein paar Tagen habe ich das neue Solo-Stück von God Is An Astronaut Mitglied Jamie Dean in meiner Juni-Playlist erwähnt. Nachdem er meine Social Media Posts dazu geteilt hatte, fragte ich ihn, ob er Lust auf ein Interview hätte. Ich bin sehr stolz, es Euch heute präsentieren zu können. Ich habe die Unterhaltung mit Jamie sehr genossen und wünsche Euch viel Freude beim Lesen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-2-jpeg-imagine-181818_494949_1440_1440/640.webp
-copyrigt: Jamie Dean
+copyright: Jamie Dean
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-interview-fb-jpeg-imagine-181818_404c4e_1200_628/640.webp
 labels:
   - God Is An Astronaut
@@ -33,19 +27,20 @@ affiliate: false
 language: de
 languageLink: /2022/07/jamie-dean-interview-en/
 ---
+
 **Vor ein paar Tagen habe ich das neue Solo-Stück von God Is An Astronaut Mitglied Jamie Dean in meiner Juni-Playlist erwähnt. Nachdem er meine Social Media Posts dazu geteilt hatte, fragte ich ihn, ob er Lust auf ein Interview hätte. Ich bin sehr stolz, es Euch heute präsentieren zu können. Ich habe die Unterhaltung mit Jamie sehr genossen und wünsche Euch viel Freude beim Lesen.**
 
 **Anne:** Hi Jamie! Danke, dass Du Dir die Zeit für dieses Interview nimmst! Es ist mir eine Ehre und eine Freude, Dich kennenzulernen. Wie geht es Dir heute? Wo bist Du gerade unterwegs?
 
 **Jamie:** Hey! Danke Dir, Anne. Ich freue mich über das Interview und Deine Worte.
 
-Mir geht es gut, danke. Im Moment bin ich mit der Band auf Tour, wir waren gestern die Headliner bei Rock in Roma. Es war  eine wundervolle Show. Es hat angefangen zu regnen und während unseres gesamten Auftritts hat es geblitzt. Die Energie war wirklich unglaublich!
+Mir geht es gut, danke. Im Moment bin ich mit der Band auf Tour, wir waren gestern die Headliner bei Rock in Roma. Es war eine wundervolle Show. Es hat angefangen zu regnen und während unseres gesamten Auftritts hat es geblitzt. Die Energie war wirklich unglaublich!
 
 **Anne:** Gratulation zu seiner neuen Single "Mutualism"! Der Song ist fantastisch! Ich finde es großartig, dass es endlich einen Song zu diesem Thema gibt – die Fähigkeit lebender Wesen, auf positive Art zu interagieren und Beziehungen einzugehen – sogar zwischen unterschiedlichen Spezies. Ich glaube, auf eine Art ist es das, was die Welt zusammenhält. Es ist faszinierend! Wie bist Du auf die Idee gekommen, darüber zu schreiben?
 
 ## "Meeresbewohner sind faszinierend"
 
-![Jamie Dean](https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-1-jpeg-imagine-181818_2f2f2f_1440_1440/640.webp "Jamie Dean")
+![Jamie Dean](https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-1-jpeg-imagine-181818_2f2f2f_1440_1440/640.webp 'Jamie Dean')
 
 **Jamie:** Danke Dir! Genau, Mutualismus kann man als "Symbiose, die beiden Organismen Vorzüge bietet" bezeichnen. In einer idealen Welt hätte jede Beziehung mutuale (gegenseitige) Vorteile. Beziehungen können aber natürlich auch mutual destruktiv sein.
 
@@ -107,7 +102,7 @@ Als Teenie habe ich das Piano vernachlässigt und mich vor allem auf die Gitarre
 
 **Anne:** Wie sehen Deine Zukunftspläne aus? Wird es mehr Songs von Dir geben? Ein Solo-Album? Eine Tour?
 
-**Jamie:**  Im Moment ist der Plan, weiter Musik zu schreiben. Gerade konzentriere ich mich vor allem auf das Spotify Publikum. Falls dort genug Interesse besteht, möchte ich gerne mit dem Projekt auf Tour gehen und meine Musik live spielen!
+**Jamie:** Im Moment ist der Plan, weiter Musik zu schreiben. Gerade konzentriere ich mich vor allem auf das Spotify Publikum. Falls dort genug Interesse besteht, möchte ich gerne mit dem Projekt auf Tour gehen und meine Musik live spielen!
 
 Ich arbeite auch mit der Band an der neuen God Is An Astronaut Platte und wir haben dieses Jahr einen ganz schön hektischen Tourplan. Es ist fantastisch, endlich wieder live zu spielen! Wir haben es alle sehr vermisst.
 
@@ -115,7 +110,7 @@ Ich arbeite auch mit der Band an der neuen God Is An Astronaut Platte und wir ha
 
 **Jamie:** Ihr findet mich bei Instagram[^1], Spotify[^2] und wo Ihr sonst Eure Musik streamt[^3]. Das Musikvideo zu "Mutualism" ist auf dem God Is An Astronaut Kanal verfügbar (Ihr findet es auch direkt unter diesem Interview).
 
-**Anne:** Eine Frage habe ich noch an Dich. Sorry, ich muss sie einfach stellen. Ihr musstet Eure ursprünglich für 2020 geplanten God Is An Astronaut Tour Konzerte wegen Corona ja leider ziemlich oft verschieben. Das muss ziemlich stressig für Euch gewesen sein. Ich fühle mit allen Künstler⋆innen, die das erleben mussten. Ich habe mitbekommen, dass die Konzerte nun zur Eurer laufenden Tour hinzugefügt wurden. Der Gig hier in Hamburg, für den ich Karten habe, findet dann zum Beispiel am 9. September statt. Stimmt das? Ich freue mich so sehr darauf. 
+**Anne:** Eine Frage habe ich noch an Dich. Sorry, ich muss sie einfach stellen. Ihr musstet Eure ursprünglich für 2020 geplanten God Is An Astronaut Tour Konzerte wegen Corona ja leider ziemlich oft verschieben. Das muss ziemlich stressig für Euch gewesen sein. Ich fühle mit allen Künstler⋆innen, die das erleben mussten. Ich habe mitbekommen, dass die Konzerte nun zur Eurer laufenden Tour hinzugefügt wurden. Der Gig hier in Hamburg, für den ich Karten habe, findet dann zum Beispiel am 9. September statt. Stimmt das? Ich freue mich so sehr darauf.
 
 **Jamie:** Ja, die ganze Situation war extrem frustrierend. Wir mussten unsere Shows immer wieder verschieben. Glücklicherweise waren unsere Fans sehr verständnisvoll und wir haben die Möglichkeit, alles nachzuholen! Wir stecken all unsere Energie in die Konzerte, damit sich das Warten gelohnt hat.
 

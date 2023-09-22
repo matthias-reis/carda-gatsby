@@ -5,14 +5,10 @@ typeName: Interview
 title: The Kompressor Experiment
 subTitle: '"Die alternative Musik-Szene verdient mehr Aufmerksamkeit"'
 seoTitle: The Kompressor Experiment – Post-Rock Interview
-description: Wenn Ihr mehr über das progressive Schweizer Post-Music Projekt The
-  Kompressor Experiment erfahren wollte, solltet Ihr mein Interview lesen!
-excerpt: The Kompressor Experiment ist ein progressives Musik-Projekt aus der
-  Schweiz. Ich habe mich jetzt mit ihnen über ihr aktuelles Album "Ebb & Flow"
-  unterhalten, das meiner Meinung nach vor allem Fans von Bands wie The Ocean
-  und Russian Circles ansprechen wird.
+description: Wenn Ihr mehr über das progressive Schweizer Post-Music Projekt The Kompressor Experiment erfahren wollte, solltet Ihr mein Interview lesen!
+excerpt: The Kompressor Experiment ist ein progressives Musik-Projekt aus der Schweiz. Ich habe mich jetzt mit ihnen über ihr aktuelles Album "Ebb & Flow" unterhalten, das meiner Meinung nach vor allem Fans von Bands wie The Ocean und Russian Circles ansprechen wird.
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-23/the-kompressor-experiment-jpg-imagine-080808_161616_1024_768/640.webp
-copyrigt: The Kompressor Experiment
+copyright: The Kompressor Experiment
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-23/the-kompressor-experiment-og-jpg-imagine-080808_131313_1200_628/640.webp
 labels:
   - The Kompressor Experiment
@@ -30,6 +26,7 @@ affiliate: false
 language: de
 languageLink: /2022/12/the-kompressor-experiment-interview-en/
 ---
+
 **The Kompressor Experiment ist ein progressives Musik-Projekt aus der Schweiz. Ich habe mich jetzt mit ihnen über ihr aktuelles Album "Ebb & Flow" unterhalten, das meiner Meinung nach vor allem Fans von Bands wie The Ocean und Russian Circles ansprechen wird.**
 
 Der düstere, wunderbar harte und vielseitige Sound der Band berührt mich sehr. Auf der Platte faszinieren mich die plötzlichen Stimmungswechsel besonders. Sie passen perfekt zum Titel des Albums: Sound-Wellen türmen sich phasenweise auf, um sich wieder zurückzuziehen und schließlich und endlich mit voller Kraft über einen wunderschönen Strand der Melodien zu rollen. Lasst uns über "Ebb & Flow" und einige weitere Kompressor Experiment Themen sprechen.
@@ -46,7 +43,7 @@ Der düstere, wunderbar harte und vielseitige Sound der Band berührt mich sehr.
 
 **TKE:** Unser letztes Album haben wir auf einem neuen Soundtrack für "2001: A Space Odyssey" basiert. Dieses Mal haben wir uns ein abstrakteres Thema gewünscht und haben uns erst für ein finales Konzept entschieden, nachdem wir einen Großteil der Songs schon geschrieben hatten.
 
-Grob gesagt geht es auf "Ebb & Flow" um die Geschichte der Menschheit von ihren bescheidenen Anfängen bis heute. Die Songs handeln von den unterschiedlichsten Dingen, wie den frühen Kämpfen unserer Zivilisation, Expansion, Krieg, Schöpfung, Zerstörung, Widerstandsfähigkeit und so weiter. 
+Grob gesagt geht es auf "Ebb & Flow" um die Geschichte der Menschheit von ihren bescheidenen Anfängen bis heute. Die Songs handeln von den unterschiedlichsten Dingen, wie den frühen Kämpfen unserer Zivilisation, Expansion, Krieg, Schöpfung, Zerstörung, Widerstandsfähigkeit und so weiter.
 
 Ich denke , der perfekte Film wäre wohl eine Zeitraffer-Aufnahme der Erde von der Vorgeschichte bis heute. Ein distanzierter und unvoreingenommener Blick auf unsere Entwicklung, zum Guten und zum Schlechten. Das oder irgendein surrealistischer Scheiß: ein hervorragendes konkretes Beispiel wäre die fantastische achte Episode von "Twin Peaks": Die Rückkehr", die perfekt zum Ambiente von "Castle Bravo II" passt.
 
@@ -68,7 +65,7 @@ Man kann sehen, wie uns in den letzten zehn Minuten der Session die Lebenskraft 
 
 **TKE:** Ich schätze, unser Gründungsjahr war 2014, denn da haben wir angefangen, bei Konzerten strukturierte Songs zu spielen. Am Anfang waren wir eher eine Jam-Band. Unsere Gründungsmitglieder haben sich erst 2011 kennengelernt. Aber wir klangen nicht so wie heute (lacht).
 
-**Anne:**: Habt ihr Euch schon immer für bedeutsame und progressive dunkle Post-Musik interessiert? Wo liegen Eure Einflüsse? 
+**Anne:**: Habt ihr Euch schon immer für bedeutsame und progressive dunkle Post-Musik interessiert? Wo liegen Eure Einflüsse?
 
 ## "Wir wollten wie von Jazz inspirierte Pink Floyd klingen"
 
@@ -94,4 +91,12 @@ Man kann sehen, wie uns in den letzten zehn Minuten der Session die Lebenskraft 
 
 ## The Kompressor Experiment - Ebb & Flow - Live Session Bandcamp
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=943880191/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://kompexp.bandcamp.com/album/ebb-flow-live-session">Ebb &amp; Flow - Live Session by The Kompressor Experiment</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=943880191/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://kompexp.bandcamp.com/album/ebb-flow-live-session">
+    Ebb &amp; Flow - Live Session by The Kompressor Experiment
+  </a>
+</iframe>

@@ -5,16 +5,10 @@ typeName: Review
 title: Angry Youth Elite – "All Riot"
 subTitle: Hardcore Punk gegen Polizeigewalt
 seoTitle: Angry Youth Elite – "All Riot" – Hardcore Punk Review
-description: "Angry Youth Elite sagen es, wie es ist: \"We don't give a f***\"
-  schallt es gleich beim ersten Song ihres neuen Albums \"All Riot\" aus den
-  Boxen. Erfahre jetzt alles über das neue Album!"
-excerpt: "Angry Youth Elite sagen es, wie es ist: \"We don't give a f⋆⋆⋆\"
-  schallt es gleich beim ersten Song ihres neuen Albums \"All Riot\" aus den
-  Boxen. Wenn Ihr Fans von politischem Punk und Hardcore seid, solltet Ihr
-  definitiv reinhören – es lohnt sich wirklich, das Statement gegen
-  Polizeigewalt hat es in sich!"
+description: 'Angry Youth Elite sagen es, wie es ist: "We don''t give a f***" schallt es gleich beim ersten Song ihres neuen Albums "All Riot" aus den Boxen. Erfahre jetzt alles über das neue Album!'
+excerpt: 'Angry Youth Elite sagen es, wie es ist: "We don''t give a f⋆⋆⋆" schallt es gleich beim ersten Song ihres neuen Albums "All Riot" aus den Boxen. Wenn Ihr Fans von politischem Punk und Hardcore seid, solltet Ihr definitiv reinhören – es lohnt sich wirklich, das Statement gegen Polizeigewalt hat es in sich!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-17/angry-youth-riot-jpg-imagine-080808_473224_1024_768/640.webp
-copyrigt: Angry Youth Elite
+copyright: Angry Youth Elite
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-17/angry-youth-riot-og-jpg-imagine-181818_483a2f_1200_628/640.webp
 labels:
   - Angry Youth Elite
@@ -29,6 +23,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Angry Youth Elite sagen es, wie es ist: "We don't give a f⋆⋆⋆" schallt es gleich beim ersten Song ihres neuen Albums "All Riot" aus den Boxen. Wenn Ihr Fans von politischem Punk und Hardcore seid, solltet Ihr definitiv reinhören – es lohnt sich wirklich, das Statement gegen Polizeigewalt hat es in sich!**
 
 Sie wollten "was mit Schmackes" machen und den Leuten mit ihrer Musik ihre Meinung sagen und das ist der Band aus dem Ruhrpott so was von gelungen. Das Album erscheint im Juni auf Bakraufarfita, der gleichnamige Song, bei dem es sich um das Intro der Platte handelt, am 21. April. Also: Watch out!

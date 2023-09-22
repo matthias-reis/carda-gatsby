@@ -5,14 +5,11 @@ typeName: Beitrag
 title: Playlist Oktober 2022
 subTitle: Von Huracán bis Stryfe
 seoTitle: Playlist Oktober 2022 – von Post-Rock bis Industrial Pop
-ogTitle: ""
-description: "Es ist wieder so weit: Die frischen Songs sind da – von
-  experimentellem Post-Rock über Post-Metal bis Industrial Pop."
-excerpt: "Es ist so weit: Die frischen Songs sind da! Gemeinsam mit Matze und
-  Valentin habe ich wieder in den unterschiedlichsten Genres nachgehört und
-  diese knackige Liste für Euch zusammengestellt."
+ogTitle: ''
+description: 'Es ist wieder so weit: Die frischen Songs sind da – von experimentellem Post-Rock über Post-Metal bis Industrial Pop.'
+excerpt: 'Es ist so weit: Die frischen Songs sind da! Gemeinsam mit Matze und Valentin habe ich wieder in den unterschiedlichsten Genres nachgehört und diese knackige Liste für Euch zusammengestellt.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-04/playlist-oktober-1-jpeg-imagine-080808_6b4d48_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-04/playlist-oktober-fb-jpeg-imagine-080808_6f4e4a_1200_628/640.webp
 labels:
   - Flogging Molly
@@ -41,6 +38,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Es ist so weit: Die frischen Songs sind da! Gemeinsam mit Matze und Valentin habe ich wieder in den unterschiedlichsten Genres nachgehört und diese knackige Liste für Euch zusammengestellt.**
 
 Die Playlists für Spotify und iTunes findet Ihr wie immer ganz unten.
@@ -103,7 +101,7 @@ Und hier wieder ein Song von Matzes Liste:
 
 Valentin hatte die Ehre, diesen freundlichen Herrn auf unsere Liste zu setzen:
 
-> "Ein neues Stück von Ozzy Osbourne durfte auf unserer Monatsliste natürlich nicht fehlen. Trotz vieler gesundheitlicher Probleme in den letzten Jahren hat Ozzy ein wunderbares Album mit Gitarrengrößen wie Jeff Beck, Mike McCready, seinem langjährigen Begleiter Zakk Wylde sowie Tony Iommi, dem wohl härtesten Gitarristen aller Zeiten, aufgenommen. Außerdem hören wir an den Drums unter anderem Chad Smith von den Red Hot Chili Peppers sowie den kürzlich verstorbenen Taylor Hawkins, sowie Robert Trujillo von Metallica und Duff McKagan am Bass. Das nenne ich mal ein Ozzys Allstar Album! Der Song 'No Escape From Now' hätte, finde ich, übrigens auch auf eines der ersten fünf Black Sabbath Alben gepasst, die absolut besten Alben der Band, bei denen Anthony Frank 'Tony" Iommi  in der Originalbesetzung dabei war. "
+> "Ein neues Stück von Ozzy Osbourne durfte auf unserer Monatsliste natürlich nicht fehlen. Trotz vieler gesundheitlicher Probleme in den letzten Jahren hat Ozzy ein wunderbares Album mit Gitarrengrößen wie Jeff Beck, Mike McCready, seinem langjährigen Begleiter Zakk Wylde sowie Tony Iommi, dem wohl härtesten Gitarristen aller Zeiten, aufgenommen. Außerdem hören wir an den Drums unter anderem Chad Smith von den Red Hot Chili Peppers sowie den kürzlich verstorbenen Taylor Hawkins, sowie Robert Trujillo von Metallica und Duff McKagan am Bass. Das nenne ich mal ein Ozzys Allstar Album! Der Song 'No Escape From Now' hätte, finde ich, übrigens auch auf eines der ersten fünf Black Sabbath Alben gepasst, die absolut besten Alben der Band, bei denen Anthony Frank 'Tony" Iommi in der Originalbesetzung dabei war. "
 
 <YouTube id="BpXFViPuhk8" />
 

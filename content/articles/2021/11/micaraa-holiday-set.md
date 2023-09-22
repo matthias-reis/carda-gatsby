@@ -5,15 +5,10 @@ typeName: Produkttest
 title: Vegan Beauty Geschenktipp
 subTitle: Das Holiday Set von MICARAA
 seoTitle: Das Holiday Set von MICARAA – Vegan Beauty Geschenktipp
-description: Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit,
-  über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps
-  vorbereitet. Mein erster ist das Holiday Set von MICARAA.
-excerpt: "Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit,
-  über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps
-  vorbereitet. Mein erster kommt von MICARAA: Mit dem Holiday Set könnt Ihr
-  einem lieben Menschen eine schöne Freude machen."
+description: Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit, über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps vorbereitet. Mein erster ist das Holiday Set von MICARAA.
+excerpt: 'Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit, über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps vorbereitet. Mein erster kommt von MICARAA: Mit dem Holiday Set könnt Ihr einem lieben Menschen eine schöne Freude machen.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-titel-jpg-imagine-e8c8b8_c0a08e_1024_768/640.webp
-copyrigt: MICARAA
+copyright: MICARAA
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-fb-1-png-imagine-e8c8a8_bf937c_1200_628/640.webp
 labels:
   - Micaraa
@@ -26,6 +21,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
+
 **Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit, über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps vorbereitet. Mein erster kommt von MICARAA: Mit dem Holiday Set könnt Ihr einem lieben Menschen eine schöne Freude machen.**
 
 ---
@@ -40,16 +36,15 @@ Die Produkte im [Geschenk-Set](https://tidd.ly/3KHb28o) sind für alle Hauttypen
 
 ## Gesunde MICARAA Pflege für alle Hauttypen
 
-![Das MICARAA Holiday Set bestehend aus Peeling, einem Gesichtsöl, und einem Gesichtsserum liegt auf dem Tisch neben der rosa Geschenkbox aus Graspapier. Drumherum liegen ein paar Grashalme.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-2-jpg-imagine-d8b8a8_bc9b89_1024_768/640.webp "Das MICARAA Holiday Set bestehend aus Peeling, einem Gesichtsöl, und einem Gesichtsserum.")
+![Das MICARAA Holiday Set bestehend aus Peeling, einem Gesichtsöl, und einem Gesichtsserum liegt auf dem Tisch neben der rosa Geschenkbox aus Graspapier. Drumherum liegen ein paar Grashalme.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-2-jpg-imagine-d8b8a8_bc9b89_1024_768/640.webp 'Das MICARAA Holiday Set bestehend aus Peeling, einem Gesichtsöl, und einem Gesichtsserum.')
 
-Die wichtigsten Inhaltsstoffe sind neben der bereits erwähnten 
-Hyaluronsäure, Ectoin, AHA- und BHA-Säure, Aloe Vera, Radicare Gold sowie Traubenkernextrakt. [Wie ich Euch schon erzählt habe](/2021/07/micaraa-calm/), verzichtet MICARAA bewusst auf Mikroplastik, Silikone, Parabene, Mineralöle, synthetischen Konservierungsstoffen und Sulfate. Außerdem ist alles komplett vegan.
+Die wichtigsten Inhaltsstoffe sind neben der bereits erwähnten Hyaluronsäure, Ectoin, AHA- und BHA-Säure, Aloe Vera, Radicare Gold sowie Traubenkernextrakt. [Wie ich Euch schon erzählt habe](/2021/07/micaraa-calm/), verzichtet MICARAA bewusst auf Mikroplastik, Silikone, Parabene, Mineralöle, synthetischen Konservierungsstoffen und Sulfate. Außerdem ist alles komplett vegan.
 
 Das Peeling kann ein bis zweimal pro Woche aufgetragen werden. Es sollte dann idealerweise fünf Minuten einwirken, bevor es mit Wasser abgewaschen wird. Anschließend kommen das Serum und die Gesichtscreme zum Einsatz. Beides sollte sanft einmassiert werden und zweimal am Tag verwendet werden.
 
 ## Wertvolle Inhaltsstoffe
 
-Die enthaltene hoch- und niedermolekulare Hyaluronsäure hydriert die Haut, wirkt entzündungshemmend  und soll aufpolsternd und straffend wirken sowie die Bildung neuer Hautzellen anregen.
+Die enthaltene hoch- und niedermolekulare Hyaluronsäure hydriert die Haut, wirkt entzündungshemmend und soll aufpolsternd und straffend wirken sowie die Bildung neuer Hautzellen anregen.
 
 Bei der beigefügten AHA-Säure handelt es sich um eine vegane Milchsäure. Sie soll auch die tieferliegenden Zellen regenerieren, die Neubildung gesunder Zellen anregen und frühzeitiger Hautalterung entgegenwirken. Außerdem erfrischt sie beim Auftragen wunderbar, was dafür sorgt, dass sich die Haut sofort entspannter anfühlt.
 
@@ -57,7 +52,7 @@ Der Anti-Aging-Wirkstoff Radicare Gold imitiert eine Süßwasseralge. Er soll wi
 
 ## Nachhaltig und fair schenken
 
-![Die Geschenk-Box aus Graspapier liegt auf dem Tisch zwischen Grashalmen.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-3-jpg-imagine-e8c8a8_c09580_1024_768/640.webp "Die Geschenk-Box aus Graspapier.")
+![Die Geschenk-Box aus Graspapier liegt auf dem Tisch zwischen Grashalmen.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-3-jpg-imagine-e8c8a8_c09580_1024_768/640.webp 'Die Geschenk-Box aus Graspapier.')
 
 Für jedes verkaufte Geschenk-Set spendet MICARAA einen Euro an die Münchner Kindertafel. So haben die Kleinsten auch noch was von Eurem Einkauf.
 

@@ -5,15 +5,10 @@ typeName: Beitrag
 title: Kanada steigt aus Tierversuchen für Chemikalien aus
 subTitle: Humane Society International feiert Erfolg
 seoTitle: Kanada – Tierversuche für Chemikalien sollen aufhören
-description: Kanada – Tierversuche für Chemikalien sollen dort schon bald der
-  Vergangenheit angehören. Erfahrt jetzt alles über die Gesetzänderung.
-excerpt: "In Bill S-5 des kanadischen Umweltschutzgesetzes steht es jetzt
-  schwarz auf weiß: Das Land steigt aus den gefährlichen Toxin-Tests für
-  Chemikalien mit Tieren aus. Den Beschluss für diese historischen Maßnahmen
-  veröffentlichte die kanadische Regierung vor ein paar Tagen. Humane Society
-  Canada berichtete über den bahnbrechenden Erfolg."
+description: Kanada – Tierversuche für Chemikalien sollen dort schon bald der Vergangenheit angehören. Erfahrt jetzt alles über die Gesetzänderung.
+excerpt: 'In Bill S-5 des kanadischen Umweltschutzgesetzes steht es jetzt schwarz auf weiß: Das Land steigt aus den gefährlichen Toxin-Tests für Chemikalien mit Tieren aus. Den Beschluss für diese historischen Maßnahmen veröffentlichte die kanadische Regierung vor ein paar Tagen. Humane Society Canada berichtete über den bahnbrechenden Erfolg.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-15/tierversuche-kaninchen-png-imagine-080808_6a7d83_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-15/tierversuche-maus-og-jpg-imagine-f8f8f8_979bab_1200_628/640.webp
 labels:
   - Kanada
@@ -27,6 +22,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **In Bill S-5 des kanadischen Umweltschutzgesetzes steht es jetzt schwarz auf weiß: Das Land steigt aus den gefährlichen Toxin-Tests für Chemikalien mit Tieren aus. Den Beschluss für diese historischen Maßnahmen veröffentlichte die kanadische Regierung vor ein paar Tagen. Humane Society Canada berichtete über den bahnbrechenden Erfolg.**
 
 Aus den Änderungen des kanadischen Umweltschutzgesetzes geht hervor, dass in Zukunft im Land **keine Tiere mehr für chemische Toxizitätstests** eingesetzt werden dürfen. Der Ausstieg soll schrittweise vonstattengehen. Der kanadische Senat führte am 13. Juni 2023 die dritte und letzte Sitzung zur neuen Gesetzesvorlage S-5 durch.
@@ -39,7 +35,7 @@ Shaarika Sarasija, Senior Strategist Research and Regulatory Science bei Humane 
 
 Bei konventionellen Toxizitätstests werden Ratten, Mäuse, Kaninchen, Fische, Vögel und andere Tiere durch Zwangsfütterung, [Inhalation](/2018/01/tierversuche-in-der-autoindustrie/) oder Hautabsorption über Tage, Monate oder sogar Jahre hinweg mit Chemikalien vergiftet, um festzustellen, inwieweit die normalen Körperfunktionen gestört werden. Schmerzlindernde Mittel werden ihnen bei diesen grausamen Verfahren nicht verabreicht.
 
-Nach Angaben des Canadian Council von Animal Care litt die Hälfte der mehr als 150.000 Tiere, die 2021 in Kanada für behördliche Tests eingesetzt wurden, unter **"mäßigen bis starken Schmerzen"** bis hin zu **"starken Schmerzen nahe, an oder über der Schmerztoleranzschwelle"**. 
+Nach Angaben des Canadian Council von Animal Care litt die Hälfte der mehr als 150.000 Tiere, die 2021 in Kanada für behördliche Tests eingesetzt wurden, unter **"mäßigen bis starken Schmerzen"** bis hin zu **"starken Schmerzen nahe, an oder über der Schmerztoleranzschwelle"**.
 
 Viele der Tests dieser Art wurden vor Jahrzehnten entwickelt und spiegeln eine veraltete Wissenschaft wider, die bestenfalls unvollständige oder nicht schlüssige Daten liefert und den Tieren unnötiges Leid zufügt.
 
@@ -60,4 +56,3 @@ Humane Society International Canada[^1] setzt sich gemeinsam mit der kanadischen
 Im Angesicht der Tatsache, dass es schon heute zahlreiche effizientere Tests gibt, schwingt in den Nachrichten der Tierschutzorganisationen zur aktuellen Entscheidung in Kanada auch eine große Hoffnung mit: Die Versuchslabore könnten die Qualen für die Tiere schon wesentlich schneller beenden.
 
 [^1]: ["Canadian Government passes provisions to phase out the use of animals in chemical toxicity testing", Humane Society International Canada](https://www.hsi.org/news-resources/victory-canadian-government-passes-provisions-to-phase-out-the-use-of-animals-in-chemical-toxicity-testing/)
-

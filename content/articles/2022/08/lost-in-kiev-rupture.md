@@ -5,14 +5,10 @@ typeName: Review
 title: Lost in Kiev – "Rupture"
 subTitle: Das vierte Album der Pariser Post-Rock-Band
 seoTitle: Lost in Kiev – "Rupture" – Post-Rock Review
-description: Das neue Lost in Kiev Album "Rupture" erscheint am 7. Oktober.
-  Vorbestellungen werden ab dem 4. August möglich sein. Ich habe es schon gehört
-  und rate Euch hiermit dazu, den Kauf in Erwägung zu ziehen.
-excerpt: Das neue Lost in Kiev Album "Rupture" erscheint am 7. Oktober.
-  Vorbestellungen werden ab dem 4. August möglich sein. Ich habe es schon gehört
-  und rate Euch hiermit dazu, den Kauf in Erwägung zu ziehen.
+description: Das neue Lost in Kiev Album "Rupture" erscheint am 7. Oktober. Vorbestellungen werden ab dem 4. August möglich sein. Ich habe es schon gehört und rate Euch hiermit dazu, den Kauf in Erwägung zu ziehen.
+excerpt: Das neue Lost in Kiev Album "Rupture" erscheint am 7. Oktober. Vorbestellungen werden ab dem 4. August möglich sein. Ich habe es schon gehört und rate Euch hiermit dazu, den Kauf in Erwägung zu ziehen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-08-02/lost-in-kiev-stephane-burlot-jpeg-imagine-282828_42454a_1440_958/640.webp
-copyrigt: Stephane Burlot
+copyright: Stephane Burlot
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-08-02/lost-in-kiev-rupture-picture-by-stephane-burlot-jpeg-imagine-282828_414449_1200_628/640.webp
 labels:
   - Cyber-Punk
@@ -33,6 +29,7 @@ affiliate: false
 language: de
 languageLink: /2022/08/lost-in-kiev-rupture-en/
 ---
+
 **Das neue Lost in Kiev Album "Rupture" erscheint am 7. Oktober. Vorbestellungen werden ab dem 4. August möglich sein. Ich habe es schon gehört und rate Euch hiermit dazu, den Kauf in Erwägung zu ziehen.**
 
 Die erste Vorauskopplung "Solastalgia" habe ich Euch hier vor ein paar Tagen bereits in der Musikliste für den August gezeigt, was kein Grund ist, sie hier nicht noch mal mit Euch zu teilen. Sie ist tatsächlich eine hervorragende Wahl für den Erstkontakt der Fans mit der neuen Platte, da sie einen wunderbaren Vorgeschmack auf das Gesamtwerk gibt.
@@ -41,7 +38,7 @@ Lost in Kiev blicken inzwischen auf über zehn Jahre Bandgeschichte zurück, in 
 
 ## "Rupture" von Lost in Kiev ist ein weiterer Höhepunkt der Bandgeschichte
 
-![Lost in Kiev – "Rupture"](https://storage.googleapis.com/cardamonchai-media/2022-08-02/lost-in-kiev-rupture-jpeg-imagine-080808_4b4b4b_440_440/640.webp "Lost in Kiev – \"Rupture\"")
+![Lost in Kiev – "Rupture"](https://storage.googleapis.com/cardamonchai-media/2022-08-02/lost-in-kiev-rupture-jpeg-imagine-080808_4b4b4b_440_440/640.webp 'Lost in Kiev – "Rupture"')
 
 Mit ihren Alben erzählen Lost in Kiev gerne ihre persönlichen Geschichten. Während es auf "Persona" um die wachsende Macht künstlicher Intelligenz ging, dreht sich dieses Mal alles um die Gefühle der Bandmitglieder zu den extremen Umweltveränderungen, die überall auf der Welt immer spürbarer werden. "Existentieller Stress, ausgelöst durch eine Veränderung der äußeren Umstände" – so lautet die Bedeutung für "Sostalgia".
 
@@ -55,7 +52,7 @@ Auf ihrem vierten Studioalbum haben die Pariser ihre charakteristische Balance z
 
 ## Fantasievolle Sound-Strukturen
 
-![Lost in Kiev – "Rupture"](https://storage.googleapis.com/cardamonchai-media/2022-08-02/lost-in-kiev-rupture-2-png-imagine-f8f8f8_b8b8b3_800_800/640.webp "Lost in Kiev – \"Rupture\"")
+![Lost in Kiev – "Rupture"](https://storage.googleapis.com/cardamonchai-media/2022-08-02/lost-in-kiev-rupture-2-png-imagine-f8f8f8_b8b8b3_800_800/640.webp 'Lost in Kiev – "Rupture"')
 
 Die Jahre der Pandemie sind, genau wie an uns allen, auch an Lost in Kiev nicht spurlos vorbeigegangen. Das lässt die Band jedoch kaum nachdenklicher klingen. Viel mehr sind ihre Sound-Strukturen wohlüberlegt und ergeben ein imposant präzises Bild unserer Zeit.
 

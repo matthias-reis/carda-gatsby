@@ -5,15 +5,10 @@ typeName: Review
 title: '"Meandering Soul"'
 subTitle: Das neue Album von Djiin
 seoTitle: '"Meandering Soul" von Djiin – Prog Review'
-description: Djiin haben mit Season Of Mist ein Album aufgenommen, dass Ihr Euch
-  mal anhören solltet, wenn Ihr mit Prog, Stoner Rock und Doom was anfangen
-  könnt – und mit den frühen Sachen von Black Sabbath.
-excerpt: Djiin haben mit Season Of Mist eine neue Platte gemacht. Das klingt
-  doch, als sollte man da mal reinhören, oder? Ich habe das getan und habe hier
-  die wichtigsten Rahmendaten für das Ende der Woche erscheinende Album
-  "Meandering Soul" für Euch.
+description: Djiin haben mit Season Of Mist ein Album aufgenommen, dass Ihr Euch mal anhören solltet, wenn Ihr mit Prog, Stoner Rock und Doom was anfangen könnt – und mit den frühen Sachen von Black Sabbath.
+excerpt: Djiin haben mit Season Of Mist eine neue Platte gemacht. Das klingt doch, als sollte man da mal reinhören, oder? Ich habe das getan und habe hier die wichtigsten Rahmendaten für das Ende der Woche erscheinende Album "Meandering Soul" für Euch.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/djiin-2-jpeg-imagine-280808_614f44_800_533/640.webp
-copyrigt: Djiin
+copyright: Djiin
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/djiin-fb-png-imagine-c8c8c8_656565_1200_628/640.webp
 labels:
   - Djiin
@@ -43,9 +38,9 @@ Die Entwicklung von Season Of Mist verfolge ich ja schon längere Zeit. Inzwisch
 
 ## Prog meets Stoner Rock
 
-![Djiin](https://storage.googleapis.com/cardamonchai-media/2021-11-20/djiin-3-jpeg-imagine-281808_503a1f_800_1000/640.webp "Djiin")
+![Djiin](https://storage.googleapis.com/cardamonchai-media/2021-11-20/djiin-3-jpeg-imagine-281808_503a1f_800_1000/640.webp 'Djiin')
 
-In der Regel findet Ihr bei mir im Blog wenig Klassisches wie von den 1970ern beeinflussten Prog. Für Djiin scheint diese Musikrichtung zwar die Basis zu sein, gemischt wird jedoch mit schwer verdaulichem, psychedelischen Stoner Rock, irgendwas in die Kraut-Richtung und Doom. Und da wird es für mich schon wieder interessant. 
+In der Regel findet Ihr bei mir im Blog wenig Klassisches wie von den 1970ern beeinflussten Prog. Für Djiin scheint diese Musikrichtung zwar die Basis zu sein, gemischt wird jedoch mit schwer verdaulichem, psychedelischen Stoner Rock, irgendwas in die Kraut-Richtung und Doom. Und da wird es für mich schon wieder interessant.
 
 Wenn Ihr Lust habt, ein farbenfrohes und zugleich düsteres schwer duftendes Potpourri zu entdecken, könntet Ihr mit dieser Band Eure Freude haben. Als Vorbilder nennen die vier unter anderem die frühen Black Sabbath – auf moderne Referenzen verzichten sie auf ihrer LP dennoch nicht. Warum sollte man auch alles in Genre-Schubladen stecken? Irgendwann geben die Zwischenböden sowieso nach und alles mischt sich miteinander. Und so funktioniert Musik doch am Ende auch am besten, oder?
 

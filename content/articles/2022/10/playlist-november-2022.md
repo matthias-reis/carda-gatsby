@@ -5,14 +5,10 @@ typeName: Beitrag
 title: Playlist November 2022
 subTitle: Von EF bis Thrice
 seoTitle: Playlist November 2022 – von Post-Rock bis Prog
-description: Auf der Suche nach neuen Songs? Diese Liste bringt Euch die
-  aktuellsten Perlen von Post-Rock bis Prog.
-excerpt: Der November kratzt schon an der Tür und draußen stapelt sich das
-  Herbstlaub immer höher. Zeit für eine neue, bunte Musikliste von Ambient bis
-  Post-Rock und von Prog bis Post-Metal und ein paar spannende News aus der
-  Musik-Szene.
+description: Auf der Suche nach neuen Songs? Diese Liste bringt Euch die aktuellsten Perlen von Post-Rock bis Prog.
+excerpt: Der November kratzt schon an der Tür und draußen stapelt sich das Herbstlaub immer höher. Zeit für eine neue, bunte Musikliste von Ambient bis Post-Rock und von Prog bis Post-Metal und ein paar spannende News aus der Musik-Szene.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-26/musikliste-november-2022-jpeg-imagine-080808_56545c_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-26/musikliste-november-fb-jpeg-imagine-080808_54545e_1200_628/640.webp
 labels:
   - Post-Rock
@@ -41,6 +37,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Der November kratzt schon an der Tür und draußen stapelt sich das Herbstlaub immer höher. Zeit für eine neue, bunte Musikliste. Die fertigen Playlist November 2022 für Spotify und iTunes findet Ihr wie immer ganz unten im Anschluss an die Videos – inkl. einer Überraschung.**
 
 ## Perry Frank – "When We Collide" vom Album "Nuit Example"
@@ -118,4 +115,11 @@ Valentin und Matze haben wie jeden Monat ihre derzeitigen Hör-Favoriten beigest
 
 Letzten Monat habe ich mal was Neues ausprobiert und unsere Playlist auch auf YouTube verfügbar gemacht. Weil das gut funktioniert hat, teile ich die aktuelle hiermit auch dort mit Euch. Ich verspreche jetzt mal noch nicht, dass ich das immer machen werde, ich finde es für den Moment aber eine ziemlich schöne Sache. Was meint Ihr?
 
-<iframe style="aspect-ratio: 16 / 9; width: 100%" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUKNaB3oO215-3sv0ph13QP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe
+  style="aspect-ratio: 16 / 9; width: 100%"
+  src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUKNaB3oO215-3sv0ph13QP4"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>

@@ -5,15 +5,10 @@ typeName: Beitrag
 title: Eric Adams wird New Yorks erste veganer Bürgermeister
 subTitle: Politiker kämpft für pflanzliche Ernährung und gegen Rassismus
 seoTitle: Eric Adams wird New Yorks erste veganer Bürgermeister
-description: Eric Adams wurde vor zwei Tagen offiziell zum neuen Bürgermeister
-  von New York ernannt und ist der erste Veganer im Amt. In New York setzt er
-  sich seit Jahren für Gesundheitskampagnen und gegen Rassismus ein.
-excerpt: Sicher habt Ihr schon von Eric Adams gehört. Er wurde vor zwei Tagen
-  offiziell zum neuen Bürgermeister von New York ernannt und ist der erste
-  Veganer im Amt. In New York setzt er sich seit Jahren für Gesundheitskampagnen
-  und gegen Rassismus ein.
+description: Eric Adams wurde vor zwei Tagen offiziell zum neuen Bürgermeister von New York ernannt und ist der erste Veganer im Amt. In New York setzt er sich seit Jahren für Gesundheitskampagnen und gegen Rassismus ein.
+excerpt: Sicher habt Ihr schon von Eric Adams gehört. Er wurde vor zwei Tagen offiziell zum neuen Bürgermeister von New York ernannt und ist der erste Veganer im Amt. In New York setzt er sich seit Jahren für Gesundheitskampagnen und gegen Rassismus ein.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/eric-adams-jpg-imagine-987858_7b635a_1024_768/640.webp
-copyrigt: |
+copyright: |
   Eric Adams, Wikimedia Commons
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/eric-adams-fb-jpg-imagine-987858_89654e_1200_628/640.webp
 labels:
@@ -34,7 +29,7 @@ Der ehemalige Präsident von Brooklyn Borough gewann den Wahlkampf gegen seinen 
 
 Im Mittelpunkt des Wahlkampfs standen dieses Mal vor allem Themen wie Impfvorschriften für städtische Angestellte, Hilfe für obdachlose Menschen und Maßnahmen im Kampf gegen die Klimakatastrophe. Adams und Sliwa hatten über diesen Themen die ganze Zeit über im Clinch gelegen.
 
-## Innige Tierliebe verbindet zwei politische Gegner 
+## Innige Tierliebe verbindet zwei politische Gegner
 
 Was die beiden jedoch vereint, ist ihre innige Tierliebe. Sliwa teilt sich sein Zuhause mit 16 geretteten Katzen und machte sich unter anderem für den Ausbau der New Yorker Tierheime und das Verbot von Pferdekutschen stark.
 
@@ -68,9 +63,9 @@ Als Bürgermeister der Stadt New York möchte Eric Adams seine Erfahrungen bei d
 
 > "Ich finde nicht, dass die Regierung den Menschen vorschreiben sollte, was sie am Samstagabend auf ihren Grill legen. Was sie aber sehr wohl tun sollte, ist, Krisen nicht auch noch zu befeuern. Es kann nicht sein, dass wir ein Ministerium für Gesundheit und Mental Health haben, das gegen Adipositas, Diabetes und Asthma kämpft, während das Ministerium für Bildung jeden Tag 960.000 Malzeiten zubereitet, die eben diese Krankheiten bei Kindern auslösen. Es bleibt also den Menschen auch weiterhin überlassen, was sie mit ihrem Geld machen. Aber mit dem Geld der Steuerzahler⋆innen eine Gesundheitskrise auszulösen, kann nicht der richtige Weg sein."
 
-Vor Kurzem veröffentlichte der engagierte New Yorker sein Buch "Healthy At Last". Darin beschreibt er seinen Weg zum Veganer. Außerdem arbeitet er das Problem ernährungsbedingter, chronischer Krankheiten auf, von denen in den USA hauptsächlich BIPoC betroffen sind. In seinem Werk findet man außerdem mehr als 50 vegane Rezepte aus seiner Feder. 
+Vor Kurzem veröffentlichte der engagierte New Yorker sein Buch "Healthy At Last". Darin beschreibt er seinen Weg zum Veganer. Außerdem arbeitet er das Problem ernährungsbedingter, chronischer Krankheiten auf, von denen in den USA hauptsächlich BIPoC betroffen sind. In seinem Werk findet man außerdem mehr als 50 vegane Rezepte aus seiner Feder.
 
-Er möchte pflanzliche Ernährung zu einem landesweiten Thema machen. Im Gespräch mit US-Präsident Joe Biden sagte er im Januar: 
+Er möchte pflanzliche Ernährung zu einem landesweiten Thema machen. Im Gespräch mit US-Präsident Joe Biden sagte er im Januar:
 
 > "Wir brauchen einen Dialog über vegane Ernährung."
 

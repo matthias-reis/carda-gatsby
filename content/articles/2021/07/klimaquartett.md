@@ -5,13 +5,9 @@ typeName: Beitrag
 title: Das Klimaquartett
 subTitle: Neues Kartenspiel für Umweltschützer*innen
 seoTitle: Das Klimaquartett – neues Kartenspiel für Umweltschützer*innen
-description: "Womit fasst man Daten und Fakten besser zusammen, als mit
-  Quartett-Karten? Was die meisten aus ihrer Kindheit mit Superheld⋆innen,
-  Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umwelt und
-  Nachhaltigkeit: Beim Klimaquartett lernt Ihr beim Spielen ganz nebenbei, wie
-  Ihr das Klima schützt."
+description: 'Womit fasst man Daten und Fakten besser zusammen, als mit Quartett-Karten? Was die meisten aus ihrer Kindheit mit Superheld⋆innen, Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umwelt und Nachhaltigkeit: Beim Klimaquartett lernt Ihr beim Spielen ganz nebenbei, wie Ihr das Klima schützt.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/klimaquartett-jpg-imagine-385848_627b69_1024_768/640.webp
-copyrigt: Ann Christin Müller
+copyright: Ann Christin Müller
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/klimaquartett-fb-png-imagine-385848_7c8762_1200_628/640.webp
 labels:
   - Klimaquartett
@@ -47,7 +43,7 @@ Die sieben Kategorien heißen "Wohnen", "Ernährung", "Transport", "Urlaub", "Ho
 
 <Gallery name="klimaquartett-oben" />
 
-Beim Klimaquartett gibt es keine belehrenden Zeigefinger. Man erfährt eher ganz beiläufig, wie man selbst in seinem täglichen Handeln Verantwortung für das Klima übernehmen kann. Die Spieldesigner und Entwicklerin des Klimaquartetts  findet:
+Beim Klimaquartett gibt es keine belehrenden Zeigefinger. Man erfährt eher ganz beiläufig, wie man selbst in seinem täglichen Handeln Verantwortung für das Klima übernehmen kann. Die Spieldesigner und Entwicklerin des Klimaquartetts findet:
 
 > "Ein Bewusstsein für unser Handeln zu entwickeln, ist ein erster Schritt auf dem Weg, neue Entscheidungen zu treffen und Veränderung zuzulassen",
 
@@ -85,4 +81,4 @@ Wenn durch das Spiel einige Menschen sensibler werden und ein paar Leute mehr ve
 
 <Gallery name="klimaquartett-unten" />
 
- Illustrationen: Ann Christin Müller
+Illustrationen: Ann Christin Müller

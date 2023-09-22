@@ -5,11 +5,9 @@ typeName: Review
 title: '"Acid Air"'
 subTitle: The New Album By Magnus Josefsson
 seoTitle: '"Acid Air" By Magnus Josefsson – Ambient Review'
-description: Magnus Josefsson has announced his first official album for
-  December under his self-founded label The Mirror Factory. I had the chance to
-  listen to "Acid Air" upfront, and now I want to share my experience with you.
+description: Magnus Josefsson has announced his first official album for December under his self-founded label The Mirror Factory. I had the chance to listen to "Acid Air" upfront, and now I want to share my experience with you.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-jpg-imagine-080808_824e37_1024_768/640.webp
-copyrigt: Magnus Josefsson
+copyright: Magnus Josefsson
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-fb-png-imagine-080808_a15e42_1200_628/640.webp
 labels:
   - Post-Rock
@@ -60,7 +58,7 @@ But "Snow" also has something special. When I close my eyes, I can see the snowf
 
 The next piece, "Ostrava", tells a hopeful story about the summer without worries that we are waiting for so longingly. The next highlight of the record, "The Pond", closes the album. You could describe the piece with words like sonorous, diverse and organic. But this would not even hint at what lies beneath the reflective surface of this multifaceted pond of sound.
 
-Magnus recorded his album with guest musicians, including Christoffer Gunrup (The Amazing) on bass and guitar and Sylvester Schlegel (The Ark) on lap steel guitar, drums and synths. 
+Magnus recorded his album with guest musicians, including Christoffer Gunrup (The Amazing) on bass and guitar and Sylvester Schlegel (The Ark) on lap steel guitar, drums and synths.
 
 You can also hear Magnus Olsson (Melissa Horn) on drums and Andreas Stellan (Dungen) on synths. Helen Phillips (Starry Skies from Glasgow) contributed her choir vocals. Simon Scott (Slowdive) did the mastering for the record.
 
@@ -88,13 +86,24 @@ The new album "Acid Air" will be released in mid-November. Today I want to share
 
 ## Magnus Josefsson - "December"
 
-<iframe src="https://open.spotify.com/embed/track/7xszkGtIHgsUV13hrLlrAd?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe
+  src="https://open.spotify.com/embed/track/7xszkGtIHgsUV13hrLlrAd?theme=0"
+  width="100%"
+  height="380"
+  frameBorder="0"
+  allowtransparency="true"
+  allow="encrypted-media"
+></iframe>
 
 ## Magnus Josefsson - "The Map
 
-<iframe src="https://open.spotify.com/embed/album/4yVbtU1shhqshix3ep8rtb?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe
+  src="https://open.spotify.com/embed/album/4yVbtU1shhqshix3ep8rtb?theme=0"
+  width="100%"
+  height="380"
+  frameBorder="0"
+  allowtransparency="true"
+  allow="encrypted-media"
+></iframe>
 
-**Cover/Picture:** Nathalia van de Kerst<br /> 
-**Press:** Tobias Isaksson, Aloaded
-
-
+**Cover/Picture:** Nathalia van de Kerst<br /> **Press:** Tobias Isaksson, Aloaded

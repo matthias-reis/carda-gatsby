@@ -5,15 +5,10 @@ typeName: Interview
 title: '"Desert of Real"'
 subTitle: Jan von Wanheda im Interview
 seoTitle: Wanheda – "Desert of Real" – Post-Rock Interview
-description: Mit dem neuen Album "Desert of Real" möchte das belgische Post-Rock
-  Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart
-  hinterfragen.
-excerpt: Mit dem neuen Album "Desert of Real" möchte das belgische Post-Rock
-  Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart
-  hinterfragen. Es ist damit eine indirekte Fortsetzung der 2018 unabhängig
-  davon veröffentlichten EP "Cenozoic Explosion".
+description: Mit dem neuen Album "Desert of Real" möchte das belgische Post-Rock Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart hinterfragen.
+excerpt: Mit dem neuen Album "Desert of Real" möchte das belgische Post-Rock Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart hinterfragen. Es ist damit eine indirekte Fortsetzung der 2018 unabhängig davon veröffentlichten EP "Cenozoic Explosion".
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-jpg-imagine-080808_433e31_1024_768/640.webp
-copyrigt: Wanheda
+copyright: Wanheda
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-fb-png-imagine-080808_3b2c18_1200_628/640.webp
 labels:
   - Wanheda
@@ -32,19 +27,20 @@ affiliate: false
 language: de
 languageLink: /2022/01/wanheda-interview-en/
 ---
+
 **Mit dem neuen Album "Desert of Real" möchte das belgische Post-Rock Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart hinterfragen. Es ist damit eine indirekte Fortsetzung der 2018 unabhängig davon veröffentlichten EP "Cenozoic Explosion".**
 
 Schon damals beschäftigte sich die Band mit der menschlichen Gier und dem Einfluss unserer unaufhaltsamen Zerstörung des Planeten und schaffte es damit, die Aufmerksamkeit der Post-Music Szene auf sich zu ziehen.
 
 ## Griechische Mythologie und Gegenwart
 
-![Wanheda (Gruppe aus sechs Personen in lässiger Kleidung) stehen vor drei Neonleuchten auf einer nächtlichen Wiese.](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-dark-jpg-imagine-080808_16191a_1024_768/640.webp "Wanheda")
+![Wanheda (Gruppe aus sechs Personen in lässiger Kleidung) stehen vor drei Neonleuchten auf einer nächtlichen Wiese.](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-dark-jpg-imagine-080808_16191a_1024_768/640.webp 'Wanheda')
 
 Die sechs Musiker aus Leuven liefern mit "Desert of Real" ein zeitgemäßes Album voll lebendiger Musikstücke ab. Ihre Kunst erinnert nicht nur an Monos zauberhafte und wehmütige Klänge, sondern auch an die Zuversicht und Energie der Musik von Bands wie Caspian und This Will Destroy You. Bei der Kreation ihrer Platte haben sie sich dieses Mal komplett auf das Thema Technologie-Abhängigkeit und unsere Beziehung zu den sozialen Netzwerken konzentriert. Als Basis dafür haben sie "das Urteil des Paris" aus der griechischen Mythologie verwendet. Die Geschichte ist eine Allegorie für die Qualen der Technologie und die Selbst-Obsession, die sie hervorrufen kann.
 
 Wanheda haben ihr Album produziert, wie man es zum Beispiel aus der Regiearbeit in der modernen Oper kennt. Sie haben eine klassische Geschichte aufgegriffen und sie in ein modernes Umfeld versetzt. Das Thema und die Erzählung werden dadurch für das Publikum realer und spürbarer. In ihrer Musik spiegelt sich das in Form eines Spiels aus düsteren und trügerisch-schweren Momenten und leichten, hellen und klaren Sequenzen wider. Ihre Einflüsse sehen Bandgründer Jan Verduyckt und seine Crew vor allem im ursprünglichen Post-Metal und Post-Rock, aber auch in Bluesrock und klassischer Gitarrenmusik. Ich habe jetzt die Chance ergriffen und mich mit Gitarrist Jan Boucké zum Interview verabredet.
 
-**Anne:** Hallo Jan! Vielen Dank, dass Du Dir die Zeit für dieses Interview nimmst! Wie geht's? Ich bin mir sicher, Ihr freut Euch schon auf die Veröffentlichung von "Desert of Real" am 2. Februar? Gratulation dazu, übrigens! Ich mag das Album sehr! Es ist wirklich klasse – sehr durchdacht und gleichzeitig zauberhaft! Ich mag die kinematischen Komponenten sehr! 
+**Anne:** Hallo Jan! Vielen Dank, dass Du Dir die Zeit für dieses Interview nimmst! Wie geht's? Ich bin mir sicher, Ihr freut Euch schon auf die Veröffentlichung von "Desert of Real" am 2. Februar? Gratulation dazu, übrigens! Ich mag das Album sehr! Es ist wirklich klasse – sehr durchdacht und gleichzeitig zauberhaft! Ich mag die kinematischen Komponenten sehr!
 
 **Jan:** Danke für die Einladung! Für uns als Band ist das eine besondere Zeit. Wir haben in den letzten Jahren hart an der Veröffentlichung neuer Stücke gearbeitet. Jetzt ist es endlich so weit und wir sind gleichzeitig glücklich und nervös. Es ist immer spannend, neue Musik zu veröffentlichen. Wir sind sehr gespannt, wie unser neues Album ankommen wird. Wir freuen uns wirklich sehr darauf und können kaum noch abwarten, bis es endlich losgeht! Seit wir das letzte Mal live gespielt haben, sind mehr als zwei Jahre vergangen. Nach all dieser Zeit wollen wir endlich wieder auftreten. Wir hoffen sehr, dass unsere geplanten Shows stattfinden können, obwohl COVID ja leider nach wie vor für Schlagzeilen sorgt. Vielen Dank, dass Du Dir die Platte angehört hast und für Deine lieben Worte, Anne!
 
@@ -58,7 +54,7 @@ Wanheda haben ihr Album produziert, wie man es zum Beispiel aus der Regiearbeit 
 
 **Jan:** Da die Technologie zunehmend zur Religion des 21. Jahrhunderts wird, haben wir unserem Album eine göttliche Intervention verpasst. Wir haben die Geschichte als Allegorie für die Qualen der Technologie und Selbst-Obsession, die durch sie hervorgerufen werden kann, verwendet. Die Technologie und die sozialen Medien werden als die altgriechische Göttin des Streits und der Zwietracht Eris dargestellt. Sie wirft den Apfel der Zwietracht in unsere Gesellschaft. Es ist ein Geschenk an "die Schönsten" und dient damit als Nährboden für Narzissmus.
 
-![Wanheda (sechs Personen in lässiger Kleidung) stehen auf einer Wiese. Es ist heller Tag.](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-light-jpg-imagine-f8f8f8_b4ae9e_1024_768/640.webp "Wanheda")
+![Wanheda (sechs Personen in lässiger Kleidung) stehen auf einer Wiese. Es ist heller Tag.](https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-light-jpg-imagine-f8f8f8_b4ae9e_1024_768/640.webp 'Wanheda')
 
 **Anne:** Man könnte also sagen, dass das Album eine wahre Geschichte erzählt?
 
@@ -98,7 +94,7 @@ Wenn man es schafft, sie zu überwinden, stärkt das die Gruppe. Wir sind alle e
 
 **Jan:** Ich kann mir zwar vorstellen, dass dieser Prozess in einer kleineren Gruppe durchaus einfacher sein kann, aber bis jetzt hat es bei uns noch keine größeren Probleme gegeben. JV ist unser Haupt-Songschreiber. Er bringt dadurch auch die meisten musikalischen Ideen ein. Trotzdem haben wir immer genau Raum für Input aus allen Richtungen.
 
-**Anne:** Neben Interviews, Bandcamp und Social Media: Plant Ihr auch noch weitere Events rund um Euren Release? Ich nehme an, Konzerte sind, zumindest im Moment, erstmal keine Option? 
+**Anne:** Neben Interviews, Bandcamp und Social Media: Plant Ihr auch noch weitere Events rund um Euren Release? Ich nehme an, Konzerte sind, zumindest im Moment, erstmal keine Option?
 
 **Jan:** Wir hatten uns für diesen besonderen Moment natürlich eine bessere Situation erhofft. Leider sieht es jedoch ganz danach aus, als würde das Jahr 2022 auch erstmal im Zeichen von Corona stehen. Wir hoffen natürlich trotzdem, dass wir viele Shows spielen werden! Wir haben in den kommenden Monaten einige Auftritte geplant. Der erste sollte am 5. Februar in Ghent stattfinden, wobei immer noch unklar ist, ob er unter den gegebenen Umständen stattfinden kann.
 
@@ -106,7 +102,7 @@ Wenn man es schafft, sie zu überwinden, stärkt das die Gruppe. Wir sind alle e
 
 Unsere Release-Show haben wir für den 26. Februar in unserer Heimatstadt Leuven geplant – mit Capitan als Support. UND: Wir planen eine Tour für Oktober und November. Dann werden wir auf jeden Fall auch in Deutschland spielen!
 
-**Anne:** Vielen Dank für das inspirierende und sympathische Interview! Es war mir eine Freude! Ich wünsche Euch viel Erfolg mit "Desert of Real"! Wir sehen uns auf dem DUNK! 
+**Anne:** Vielen Dank für das inspirierende und sympathische Interview! Es war mir eine Freude! Ich wünsche Euch viel Erfolg mit "Desert of Real"! Wir sehen uns auf dem DUNK!
 
 **Jan:** Vielen Dank, Anne! Hoffentlich auf bald!
 

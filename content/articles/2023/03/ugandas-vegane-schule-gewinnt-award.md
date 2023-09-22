@@ -6,15 +6,10 @@ title: Ugandas vegane Schule gewinnt Award
 subTitle: Tierrechte und Klimaschutz auf dem Lehrplan
 seoTitle: Diese vegane Grundschule in Uganda hat Klimaschutz im Lehrplan
 ogTitle: Vegane Grundschule in Uganda – Klimaschutz im Lehrplan
-description: Die erste vegane Schule in Uganda unterrichtet Mitgefühl und
-  Klimaschutz. Lest jetzt, wie sie gegen Zoonosen und den Welthunger kämpft.
-excerpt: Ugandas erste vegane Schule hat jetzt von der Teach Kind Abteilung von
-  PETA den Compassionate School Award verliehen bekommen. Die
-  Tierrechts-Organisation bedankt sich damit für den Einsatz der Grundschule, in
-  der die Schüler⋆innen vegane Mahlzeiten erhalten und lernen, wie man
-  mitfühlend mit großen und kleinen Arten umgeht und mit ihnen im Einklang lebt.
+description: Die erste vegane Schule in Uganda unterrichtet Mitgefühl und Klimaschutz. Lest jetzt, wie sie gegen Zoonosen und den Welthunger kämpft.
+excerpt: Ugandas erste vegane Schule hat jetzt von der Teach Kind Abteilung von PETA den Compassionate School Award verliehen bekommen. Die Tierrechts-Organisation bedankt sich damit für den Einsatz der Grundschule, in der die Schüler⋆innen vegane Mahlzeiten erhalten und lernen, wie man mitfühlend mit großen und kleinen Arten umgeht und mit ihnen im Einklang lebt.
 image: https://storage.googleapis.com/cardamonchai-media/2023-03-03/vegane-schule-luv4all-jpg-imagine-a8b8c8_887456_1024_768/640.webp
-copyrigt: LUV4ALL
+copyright: LUV4ALL
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-03-03/vegane-schule-luv4all-og-jpg-imagine-d8d8d8_726951_1200_628/640.webp
 labels:
   - vegane Schule
@@ -28,6 +23,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Ugandas erste vegane Schule hat jetzt von der Teach Kind Abteilung von PETA den Compassionate School Award verliehen bekommen. Die Tierrechts-Organisation bedankt sich damit für den Einsatz der Grundschule, in der die Schüler⋆innen vegane Mahlzeiten erhalten und lernen, wie man mitfühlend mit großen und kleinen Arten umgeht und mit ihnen im Einklang lebt.**
 
 Die Atlas Vegan Community School liegt im Kassandra District in Rwamagabo Village. Die Kinder, die dort unterrichtet werden, wohnen in Kafuuda, Lwabaazza, Busuula und Kirundi. Sie würden laut Aussage der Schule sonst keine Bildung erhalten.
@@ -36,11 +32,11 @@ Mit im Preis der Division für humane Bildung bei PETA ist eine Kiste mit kosten
 
 ## Die vegane Schule bereitet die Kinder auf das Leben vor
 
-![Ein schwarzes Metallschild steht auf einer Wiese mit Pflanzen im Hintergrund. Die grüne Aufschrift auf weißem Grund lautet: "Atlas Vegan Community School Nurs & Primary". Darüber ist das Logo der Schule zu sehen: ein Emblem mit einem vierbeinigen Tier und einer lesenden Person](https://storage.googleapis.com/cardamonchai-media/2023-03-03/vegane-schule-luv4all-2-jpg-imagine-d8d8d8_656756_1024_768/640.webp "Die vegane Schule bereitet die Kinder auf das Leben vor. Bild/Picture LUV4ALL")
+![Ein schwarzes Metallschild steht auf einer Wiese mit Pflanzen im Hintergrund. Die grüne Aufschrift auf weißem Grund lautet: "Atlas Vegan Community School Nurs & Primary". Darüber ist das Logo der Schule zu sehen: ein Emblem mit einem vierbeinigen Tier und einer lesenden Person](https://storage.googleapis.com/cardamonchai-media/2023-03-03/vegane-schule-luv4all-2-jpg-imagine-d8d8d8_656756_1024_768/640.webp 'Die vegane Schule bereitet die Kinder auf das Leben vor. Bild/Picture LUV4ALL')
 
 Ins Leben gerufen hat die vegane Schule die Charity-Organisation LUV4ALL[^1]. In der Atlas Vegan Community School lernen die Kinder einen rücksichtsvollen Umgang mit allen Lebewesen und der Umwelt. Der Lehrplan ist speziell an Uganda angepasst. Dort breiten sich die Schlafkrankheit, an der sich Menschen durch den Stich der Tsetse-Fliege anstecken und andere Zoonosen immer rasanter aus. Die Menschen dort sind von den Auswirkungen der Klimakatastrophe nicht nur damit schon heute direkt betroffen. Ein Hauptgrund dafür liegt in der Fleisch-, Milch- und Eierindustrie.
 
-Die Kinder erfahren in der Atlas Vegan Community School, wie sie  durch einen veganen Lebenswandel nachhaltig zu einer gesünderen Welt und zum Klimaschutz beitragen können. Auch der Punkt Lebensmittelverschwendung durch Tierausbeutung steht auf dem Lehrplan. Die Schule erklärt das so:
+Die Kinder erfahren in der Atlas Vegan Community School, wie sie durch einen veganen Lebenswandel nachhaltig zu einer gesünderen Welt und zum Klimaschutz beitragen können. Auch der Punkt Lebensmittelverschwendung durch Tierausbeutung steht auf dem Lehrplan. Die Schule erklärt das so:
 
 > "Wer sich ausschließlich vegan ernährt, verschont nicht nur jedes Jahr zahlreiche Tiere, er⋆sie verringert auch seinen⋆ihren CO<sub>2</sub>-Ausstoß dramatisch und hilft dabei, zukünftige Pandemien zu verhindern."
 
@@ -48,7 +44,7 @@ Viele Forschenden schreiben [COVID-19](/2020/04/inger-andersen-un-covid-19/), [B
 
 ## "Wir können die Zoonosen nur durch den Verzicht auf tierische Lebensmittel stoppen"
 
-![Eine männlich gelesene Person mit schwarzer Hautfarbe steht neben einer Schubkare und einer bunten Schaukel. Sie trägt ein eine Jeans und ein weißes Hemd und hat kurze Haare. Die Schaukel ist blau, gelb und rot. Im Hintergrund sind einige flache, weiße Holzgebäude zu sehen. Die Person steht auf der linken Bildseite und blickt nach links.](https://storage.googleapis.com/cardamonchai-media/2023-03-03/vegane-schule-luv4all-1-jpg-imagine-080808_72664d_1024_768/640.webp "Die vegane Schule befindet sich im Aufbau. Bild: LUV4ALL")
+![Eine männlich gelesene Person mit schwarzer Hautfarbe steht neben einer Schubkare und einer bunten Schaukel. Sie trägt ein eine Jeans und ein weißes Hemd und hat kurze Haare. Die Schaukel ist blau, gelb und rot. Im Hintergrund sind einige flache, weiße Holzgebäude zu sehen. Die Person steht auf der linken Bildseite und blickt nach links.](https://storage.googleapis.com/cardamonchai-media/2023-03-03/vegane-schule-luv4all-1-jpg-imagine-080808_72664d_1024_768/640.webp 'Die vegane Schule befindet sich im Aufbau. Bild: LUV4ALL')
 
 Auf der offiziellen Schulwebseite sprechen sich die Gründer⋆innen der Institution für eine nachhaltige, vegane Zukunft aus:
 

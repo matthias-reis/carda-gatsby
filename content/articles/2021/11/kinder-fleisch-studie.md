@@ -5,17 +5,11 @@ typeName: Beitrag
 title: Kinder wissen oft nicht, dass sie Fleisch essen
 subTitle: Eine Chance für weniger Tierleid und mehr Klimaschutz
 seoTitle: Kinder wissen oft nicht, dass sie Fleisch essen
-ogTitle: ""
-description: Aus einer aktuellen Studie geht jetzt hervor, dass die meisten
-  Kinder in den USA es nicht OK finden, Tiere zu essen. Mit dem Fleisch auf dem
-  Teller bringen sie es jedoch nicht in Zusammenhang.
-excerpt: Die Aufklärung von Kindern und Jugendlichen könnte uns in Sachen
-  Tierleid-freie, nachhaltige und gesunde Ernährung einen großen Schritt
-  voranbringen. Aus einer aktuellen Studie geht jetzt hervor, dass die meisten
-  Kinder in den USA es nicht OK finden, Tiere zu essen. Mit dem Fleisch auf dem
-  Teller bringen sie es jedoch nicht in Zusammenhang.
+ogTitle: ''
+description: Aus einer aktuellen Studie geht jetzt hervor, dass die meisten Kinder in den USA es nicht OK finden, Tiere zu essen. Mit dem Fleisch auf dem Teller bringen sie es jedoch nicht in Zusammenhang.
+excerpt: Die Aufklärung von Kindern und Jugendlichen könnte uns in Sachen Tierleid-freie, nachhaltige und gesunde Ernährung einen großen Schritt voranbringen. Aus einer aktuellen Studie geht jetzt hervor, dass die meisten Kinder in den USA es nicht OK finden, Tiere zu essen. Mit dem Fleisch auf dem Teller bringen sie es jedoch nicht in Zusammenhang.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kinder-wissen-oft-nicht-dass-sie-fleisch-essen-jpg-imagine-384828_60685a_1024_768/640.webp
-copyrigt: filinecek, pixabay
+copyright: filinecek, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kinder-wissen-oft-nicht-dass-sie-fleisch-essen-fb-png-imagine-384828_616a5b_1200_628/640.webp
 labels:
   - Ernährung & Gesundheit
@@ -41,13 +35,13 @@ Science Direct ist sicher, dass die Erforschung kindlicher Überzeugungen Licht 
 
 Die Testgruppe bestand aus 4- bis 7-jährigen Kindern aus den USA. Das Institut deckte bei der Studie große Lücken in der Allgemeinbildung bezüglich Lebensmitteln auf.
 
-Aus tierischen Produkten gewonnene Lebensmittel – insbesondere, aber nicht nur Fleisch – stellten sich als die Lebensmittel heraus, die Kinder am wenigsten verstehen. Bei Science Direct vermutet man nun, dass die erschütternden Ergebnisse auf ein grundlegendes Missverständnis der Kleinen über Nahrungsmittel tierischer Herkunft hindeuten. 
+Aus tierischen Produkten gewonnene Lebensmittel – insbesondere, aber nicht nur Fleisch – stellten sich als die Lebensmittel heraus, die Kinder am wenigsten verstehen. Bei Science Direct vermutet man nun, dass die erschütternden Ergebnisse auf ein grundlegendes Missverständnis der Kleinen über Nahrungsmittel tierischer Herkunft hindeuten.
 
 Mit der Veröffentlichung der Studienergebnisse[^1] legt das Institut daher Gründe dar, warum die Herkunft von Fleisch für Kinder ein so schwieriges Konzept ist. Es wirft zudem einen Blick auf die Rolle, die Kinder im Blick auf den Schutz der Umwelt und des Klimas spielen können.
 
 ## Der menschliche Fleischkonsum kritisch betrachtet
 
-Der menschliche Konsum von Produkten tierischer Herkunft ist einer der Haupttreiber der Klimakatastrophe (Vermueulen, Campbell, & Ingram, 2012[^2]). Die Tierhaltung ist für mindestens 14,5 Prozent der globalen Treibhausgas-Emissionen verantwortlich (Gerber 2013[^3]). 
+Der menschliche Konsum von Produkten tierischer Herkunft ist einer der Haupttreiber der Klimakatastrophe (Vermueulen, Campbell, & Ingram, 2012[^2]). Die Tierhaltung ist für mindestens 14,5 Prozent der globalen Treibhausgas-Emissionen verantwortlich (Gerber 2013[^3]).
 
 Einer der größten Hebel, wäre es also, wenn wir alle auf eine Pflanzen-basierte Ernährung zurückgreifen würden (Hedenus, Wirsenius, Daniel, & Johansson, 2014[^4], IPCC 2020[^5], Stehfest 2009[^6]). Das bedeutet global gesehen, wenn der Konsum tierischer Produkte unverändert bleibt, wird die Klimaerwärmung schnell ein Level von zwei Grad erreicht haben. Menschliches Leid und Tod wären die Folge (Kim, Neff, Santo, & Vignorito 2015[^7]).
 
@@ -91,7 +85,7 @@ Die menschlichen Strategien, negative Gefühle beim Fleischverzehr zu unterdrüc
 
 Ein möglicher Grund könnte sein, dass der Appetit stärker ist, als der Wille zur Verhaltensänderung – obwohl es zu weniger Tierleid und mehr aktivem Umweltschutz führen würde.
 
-Besonders für Erwachsene ist es schwer, die eigenen  Essgewohnheiten dauerhaft zu verändern. Das hängt mit fest etablierten Gewohnheiten und kulturellen Überzeugungen zusammen. Noch heute verbinden viele den Konsum hartnäckig mit Wohlstand, Status oder sogar Männlichkeit.
+Besonders für Erwachsene ist es schwer, die eigenen Essgewohnheiten dauerhaft zu verändern. Das hängt mit fest etablierten Gewohnheiten und kulturellen Überzeugungen zusammen. Noch heute verbinden viele den Konsum hartnäckig mit Wohlstand, Status oder sogar Männlichkeit.
 
 ## Kinder könnten der Schlüssel sein
 
@@ -142,7 +136,7 @@ Bild/picture: [filinecek](https://pixabay.com/photos/goat-kid-animal-goats-pup-3
 [^1]: [Science Direct Studie zum kindlichen Wissen über Lebensmittel und ihre Herkunft](https://www.sciencedirect.com/science/article/pii/S0272494421001584?dgcid=rss_sd_all#bbib10)
 [^2]: [Vermeulen 2012](https://www.annualreviews.org/doi/10.1146/annurev-environ-020411-130608)
 [^3]: [Gerber 2013](https://www.fao.org/3/i3437e/i3437e00.htm)
-[^4]:[Hedenus, Wirsenius, Daniel, & Johansson, 2014](https://link.springer.com/article/10.1007%2Fs10584-014-1104-5)
+[^4]: [Hedenus, Wirsenius, Daniel, & Johansson, 2014](https://link.springer.com/article/10.1007%2Fs10584-014-1104-5)
 [^5]: [IPCC 2020](about:blank)
 [^6]: [Stehfest 2009](https://link.springer.com/article/10.1007%2Fs10584-008-9534-6)
 [^7]: [Kim, Neff, Santo, & Vignorito 2015](https://www.researchgate.net/publication/286920313_The_Importance_of_Reducing_Animal_Product_Consumption_and_Wasted_Food_in_Mitigating_Catastrophic_Climate_Change?channel=doi&linkId=566f719208aecdcd23562960&showFulltext=true)

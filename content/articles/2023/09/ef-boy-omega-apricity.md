@@ -5,15 +5,10 @@ typeName: Review
 title: EF & Boy Omega – "Apricity"
 subTitle: A summer song for the dark season
 seoTitle: EF & Boy Omega – "Apricity" – Review
-description: EF and Boy Omega joined for a new version of the fabulous EF piece
-  "Apricity". Here is why you should listen to it immediately.
-excerpt: 'EF contacted me with a huge surprise this week. I felt pretty
-  flattered when my favourite band asked me: "We have a new single ready. Would
-  you like to take a pre-listen?" Yes, of course, I wanted that! The good news
-  for you guys is that you can also listen to "Apricity" from today. Read my
-  thoughts about it!'
+description: EF and Boy Omega joined for a new version of the fabulous EF piece "Apricity". Here is why you should listen to it immediately.
+excerpt: 'EF contacted me with a huge surprise this week. I felt pretty flattered when my favourite band asked me: "We have a new single ready. Would you like to take a pre-listen?" Yes, of course, I wanted that! The good news for you guys is that you can also listen to "Apricity" from today. Read my thoughts about it!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-01/ef-boy-omega-jpg-imagine-080808_53473b_1024_768/640.webp
-copyrigt: Boy Omega & EF
+copyright: Boy Omega & EF
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-01/ef-boy-omega-og-jpg-imagine-080808_55493d_1200_628/640.webp
 labels:
   - Boy Omega EF
@@ -32,6 +27,7 @@ affiliate: false
 language: en
 languageLink: /2023/09/ef-boy-omega-apricity/
 ---
+
 **EF contacted me with a huge surprise this week. I felt pretty flattered when my favourite band asked me: "We have a new single ready. Would you like to take a pre-listen?" Yes, of course, I wanted that! The good news for you guys is that you can also listen to "Apricity" from today. Here are my thoughts about it so far:**
 
 The Swedes recorded a summerlike, upbeat pop serenade with their good friend Martin Hasselgren, aka Boy Omega. The track, initially released on EF's newest album, "[We Salute You, You And You](/2022/11/ef-interview-en/)", now comes in an entirely different style of playing, contrasting with the original and suiting the song wonderfully.

@@ -5,17 +5,10 @@ typeName: Interview
 title: Interview mit Goodbye Meteor Gitarrist Cedric Pecourt
 subTitle: '"Nachhaltigkeit und Tierrechte sind für uns von grundlegender Bedeutung"'
 seoTitle: Post-Rock Interview mit Goodbye Meteor Gitarrist Cedric Pecourt
-description: Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt".  Im
-  Interview habe ich mich mit dem vegan lebenden Gitarristen der Band Ced über
-  die neue EP "Metanoia" unterhalten.
-excerpt: Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt". Ihre
-  Musik beschreiben sie als "imersiven und solaren Post-Rock, der aus dem Chaos
-  kommt und sich in Richtung Resilienz bewegt". Mit ihren Stücken wollen die
-  vier einen harmonischen Weg zwischen Mensch und Natur aufzeigen. Im Interview
-  habe ich mich mit dem vegan lebenden Gitarristen der Band Ced über die neue EP
-  "Metanoia" unterhalten
+description: Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt".  Im Interview habe ich mich mit dem vegan lebenden Gitarristen der Band Ced über die neue EP "Metanoia" unterhalten.
+excerpt: Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt". Ihre Musik beschreiben sie als "imersiven und solaren Post-Rock, der aus dem Chaos kommt und sich in Richtung Resilienz bewegt". Mit ihren Stücken wollen die vier einen harmonischen Weg zwischen Mensch und Natur aufzeigen. Im Interview habe ich mich mit dem vegan lebenden Gitarristen der Band Ced über die neue EP "Metanoia" unterhalten
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-1-jpg-imagine-080808_191a20_1024_768/640.webp
-copyrigt: Goodbye Meteor
+copyright: Goodbye Meteor
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-fb-jpg-imagine-080808_1e1e24_1200_628/640.webp
 labels:
   - Goodbye Meteor
@@ -34,7 +27,8 @@ affiliate: false
 language: de
 languageLink: /2022/03/goodbye-meteor-en/
 ---
-**Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt". Ihre Musik beschreiben sie als "imersiven und solaren Post-Rock, der aus dem Chaos kommt und sich in Richtung Resilienz bewegt". Die Band sieht sich als "Green Post-Rock-Projekt". Mit ihren Stücken wollen die vier einen harmonischen Weg zwischen Mensch und Natur aufzeigen. Ich habe mich mit Gitarrist Ced über ihre neue EP "Metanoia" unterhalten,  die ab sofort auf Bandcamp verfügbar ist.**
+
+**Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt". Ihre Musik beschreiben sie als "imersiven und solaren Post-Rock, der aus dem Chaos kommt und sich in Richtung Resilienz bewegt". Die Band sieht sich als "Green Post-Rock-Projekt". Mit ihren Stücken wollen die vier einen harmonischen Weg zwischen Mensch und Natur aufzeigen. Ich habe mich mit Gitarrist Ced über ihre neue EP "Metanoia" unterhalten, die ab sofort auf Bandcamp verfügbar ist.**
 
 **Anne:** Hallo! Danke, dass Du Dir die Zeit für dieses Interview nimmst. Wie geht es Euch im Moment? Ich bin mir sicher, dass Ihr mit Eurer neuen EP sehr zufrieden seid – sie gefällt mir wirklich ausgesprochen gut!
 
@@ -48,7 +42,7 @@ languageLink: /2022/03/goodbye-meteor-en/
 
 ## "Wir wollen spontan sein"
 
-![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-metanoia-jpg-imagine-080808_515250_1080_1080/640.webp "Goodbye Meteor – \"Metanoia\"")
+![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-metanoia-jpg-imagine-080808_515250_1080_1080/640.webp 'Goodbye Meteor – "Metanoia"')
 
 **Ced:** Wenn wir komponieren, versuchen wir, uns mit dem gegenwärtigen Moment zu verbinden. Wir wollen uns selbst leeren. Wir planen nichts. Wir denken erst darüber nach, wie wir dem Ganzen eine Bedeutung geben können, wenn wir schon dabei sind. Das Wichtigste für uns vier ist es, ehrlich zu bleiben. "Metanoia" spiegelt das wider, was wir sind und fühlen, wenn wir darüber schreiben.
 
@@ -64,7 +58,7 @@ languageLink: /2022/03/goodbye-meteor-en/
 
 ## "Greta Thunberg inspiriert uns"
 
-![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-3-jpg-imagine-080808_231f1a_1024_768/640.webp "Goodbye Meteor im Studio")
+![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-3-jpg-imagine-080808_231f1a_1024_768/640.webp 'Goodbye Meteor im Studio')
 
 **Ced:** Nachhaltigkeit und Tierrechte sind für uns von grundlegender Bedeutung. Wir haben eines Tages mal aus Spaß über "grünen Post-Rock" gesprochen – irgendwie sind wir dann dabei geblieben.
 
@@ -78,7 +72,7 @@ languageLink: /2022/03/goodbye-meteor-en/
 
 ## Vegan für die Tiere
 
-![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-jpg-imagine-080818_413e48_1024_768/640.webp "Goodbye Meteor live on stage")
+![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-jpg-imagine-080818_413e48_1024_768/640.webp 'Goodbye Meteor live on stage')
 
 **Anne:** Du hast mir erzählt, dass Du auch Veganer bist (und der Rest der Band Vegetarier⋆innen). Seit wann ist das so und was hat Dich überzeugt, vegan zu leben?
 
@@ -92,7 +86,7 @@ languageLink: /2022/03/goodbye-meteor-en/
 
 ## "Gegen Gewalt zu sein ist nicht extrem"
 
-![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-2-jpg-imagine-080808_282b32_1024_768/640.webp "Goodbye Meteor Drummer Laurent Boile")
+![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-2-jpg-imagine-080808_282b32_1024_768/640.webp 'Goodbye Meteor Drummer Laurent Boile')
 
 **Ced:** Ich weiß nicht mehr, wer gesagt hat, dass "Kunst dazu da ist, Fragen zu stellen". Ich denke, dass viele Künstler sich Fragen über die Welt um sie herum stellen, also ist das ziemlich sinnvoll. Ich bin mir sehr sicher, dass es nichts mit dem Essen auf Tour zu tun hat (lacht).
 
@@ -130,4 +124,12 @@ Goodbye Meteor bestehen aus Maxime Picquart (Gitarre), Cedric Pecourt (Gitarre),
 
 ## Goodbye Meteor – "Metanoia"
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1293938673/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://goodbyemeteor.bandcamp.com/album/metanoia">Metanoia by Goodbye Meteor</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=1293938673/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://goodbyemeteor.bandcamp.com/album/metanoia">
+    Metanoia by Goodbye Meteor
+  </a>
+</iframe>

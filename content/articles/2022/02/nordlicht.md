@@ -5,16 +5,10 @@ typeName: Produkttest
 title: Faire und vegane Fashion von Nordlicht
 subTitle: Stirnband Lene und Rucksack Noan
 seoTitle: Faire und vegane Fashion von Nordlicht
-description: "Null Prozent Plastik, faire und nachhaltige Herstellung,
-  Langlebigkeit und zeitlose Styles: dafür steht Nordlicht. Ich habe jetzt zwei
-  vegane Produkte des Slow Fashion Labels getestet."
-excerpt: "Null Prozent Plastik, faire und nachhaltige Herstellung, Langlebigkeit
-  und zeitlose Styles: dafür steht Nordlicht. Ich habe mir jetzt mal zwei
-  Produkte des Slow Fashion Labels aus dem badischen Dossenheim etwas genauer
-  angeschaut – einen Rucksack aus robustem Papier und ein Stirnband. Beide Teile
-  sind Peta approved vegan."
+description: 'Null Prozent Plastik, faire und nachhaltige Herstellung, Langlebigkeit und zeitlose Styles: dafür steht Nordlicht. Ich habe jetzt zwei vegane Produkte des Slow Fashion Labels getestet.'
+excerpt: 'Null Prozent Plastik, faire und nachhaltige Herstellung, Langlebigkeit und zeitlose Styles: dafür steht Nordlicht. Ich habe mir jetzt mal zwei Produkte des Slow Fashion Labels aus dem badischen Dossenheim etwas genauer angeschaut – einen Rucksack aus robustem Papier und ein Stirnband. Beide Teile sind Peta approved vegan.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-07/nordlicht-jpg-imagine-080808_6b6c6b_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-07/nordlicht-fb-png-imagine-080808_5d5f5d_1200_628/640.webp
 labels:
   - Nordlicht
@@ -28,12 +22,13 @@ labels:
   - veganer Rucksack
   - faux leather
   - vegan leather
-  - ""
+  - ''
 focusKeyword: Nordlicht
 advertisement: true
 affiliate: true
 language: de
 ---
+
 **Null Prozent Plastik, faire und nachhaltige Herstellung, Langlebigkeit und zeitlose Styles: dafür steht Nordlicht. Ich habe mir jetzt mal zwei Produkte des Slow Fashion Labels aus dem badischen Dossenheim etwas genauer angeschaut – einen Rucksack aus robustem Papier und ein Stirnband. Beide Teile sind Peta approved vegan.**
 
 Was mir gleich als erstes aufgefallen ist, ist die hochwertige Verarbeitung beider Stücke. Man sieht, dass hier sorgfältige Handarbeit im Spiel ist. Das [Stirnband](https://tidd.ly/3Gvs72b) ist unglaublich weich und sehr angenehm auf der Haut und auch der kleine [Rucksack](https://tidd.ly/35UP3LT) fühlt sich sehr gut an.
@@ -83,4 +78,3 @@ Wenn Euer Rucksack mal schmutzig wird, könnt Ihr ihn sogar waschen. Das Materia
 Insgesamt bin ich rundum zufrieden mit meinem [Stirnband](https://tidd.ly/3Gvs72b) und meinem [Rucksack](https://tidd.ly/35UP3LT). Ich kann mir sehr gut vorstellen, auch noch andere Nordlicht Produkte zu adoptieren und werde den Shop auf jeden Fall im Auge behalten. Besonders, dass die beiden Stücke Peta approved vegan sind und bei der Herstellung auf Nachhaltigkeit geachtet wurde, haben mich überzeugt. Von mir erhaltet Ihr auf jeden Fall eine Empfehlung. Übrigens könnt Ihr im Onlineshop ganz einfach [den Vegan-Filter setzen](https://tidd.ly/3ryUUyW). Auf diese Weise werden Euch ausschließlich die veganen Produkte angezeigt.
 
 <Gallery name="nordlicht-2" />
-

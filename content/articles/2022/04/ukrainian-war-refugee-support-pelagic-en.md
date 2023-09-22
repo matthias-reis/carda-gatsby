@@ -5,14 +5,10 @@ typeName: Review
 title: Ukrainian War Refugee Support
 subTitle: Pelagic Records Releases Sampler To Support Ukrainian War Refugees
 seoTitle: Pelagic Records Releases Sampler To Support Ukrainian War Refugees
-description: Pelagic Records have made a sampler for the refugees from Ukraine
-  with Mono, Year Of No Light, Bruit, SOM, Årabrot, Psychonaut, Nyos, Shy, Low,
-  Enphin, Blessings, Oslo Tapes, Briqueville and Johan G Winther.
-excerpt: Pelagic Records have made a sampler for the refugees from Ukraine with
-  Mono, Year Of No Light, Bruit, SOM, Årabrot, Psychonaut, Nyos, Shy, Low,
-  Enphin, Blessings, Oslo Tapes, Briqueville and Johan G Winther.
+description: Pelagic Records have made a sampler for the refugees from Ukraine with Mono, Year Of No Light, Bruit, SOM, Årabrot, Psychonaut, Nyos, Shy, Low, Enphin, Blessings, Oslo Tapes, Briqueville and Johan G Winther.
+excerpt: Pelagic Records have made a sampler for the refugees from Ukraine with Mono, Year Of No Light, Bruit, SOM, Årabrot, Psychonaut, Nyos, Shy, Low, Enphin, Blessings, Oslo Tapes, Briqueville and Johan G Winther.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-14/pelagic-ukraine-jpeg-imagine-d8d8d8_9fa08e_701_800/640.webp
-copyrigt: Pelagic Records
+copyright: Pelagic Records
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ukrainian-war-refugee-support-pelagic-fb-png-imagine-e8f8f8_9aa286_1200_628/640.webp
 labels:
   - Ukrainian War Refugee Support
@@ -37,6 +33,7 @@ affiliate: false
 language: en
 languageLink: /2022/04/ukrainian-war-refugee-support-pelagic
 ---
+
 **Pelagic Records have made a sampler for the refugees from Ukraine with Mono, Year Of No Light, Bruit, SOM, Årabrot, Psychonaut, Blessings, Nyos, Shy, Low, Enphin, Blessings, Oslo Tapes, Briqueville and Johan G Winther.**
 
 Given the horrific events surrounding the war in Ukraine, the label wants to contribute together with the musicians to support the people who have lost their homes.
@@ -50,4 +47,3 @@ The tapes with a total of 13 songs is currently in production and will be releas
 Pelagic would like to thank all artists, as well as Philipp Welsing from Original Mastering (mastering), Benedikt Demmer from Druckwelle Design (artwork), Riso Club Leipzig (risograph printing) and Prepaid Records (dubbing). There are no plans to release the tapes on vinyl yet. However, the press release for the release says: "You should never say never".
 
 So: [Let's help the people from Ukraine arriving in Berlin by buying these tapes!](https://pelagic-records.com/product/pelagic-records-ukrainian-war-refugee-support-a-pelagic-compilation-2xtape/)
-

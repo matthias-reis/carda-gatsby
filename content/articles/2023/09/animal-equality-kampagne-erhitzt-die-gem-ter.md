@@ -5,16 +5,10 @@ typeName: Beitrag
 title: Animal Equality überzeugt eingefleischte Bacon-Fans
 subTitle: Tierrechts-Video am Times Square
 seoTitle: Animal Equality USA startet starke Kampagne am Times Square
-description: Animal Equality USA startete jetzt eine spektakulären neuen
-  Kampagne gegen die Ausbeutung schwangerer Schweine – am  Times Square. Lest
-  jetzt alles über die Hintergründe.
-excerpt: Animal Equality USA regte jetzt die Tierrechtsdebatte mit einer
-  spektakulären neuen Kampagne an. Mitten am weltberühmten New Yorker Times
-  Square zwischen all den Werbeplakaten und bunt blinkenden Slogans spielte die
-  Organisation ein Video ein, das auf die Missstände bei der amerikanischen
-  Fastfood-Kette Denny's hinweist.
+description: Animal Equality USA startete jetzt eine spektakulären neuen Kampagne gegen die Ausbeutung schwangerer Schweine – am  Times Square. Lest jetzt alles über die Hintergründe.
+excerpt: Animal Equality USA regte jetzt die Tierrechtsdebatte mit einer spektakulären neuen Kampagne an. Mitten am weltberühmten New Yorker Times Square zwischen all den Werbeplakaten und bunt blinkenden Slogans spielte die Organisation ein Video ein, das auf die Missstände bei der amerikanischen Fastfood-Kette Denny's hinweist.
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-01/animal-equality-usa-dannys-jpg-imagine-f8f8f8_7b716d_1024_768/640.webp
-copyrigt: Animal Equality
+copyright: Animal Equality
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-01/animal-equality-usa-dannys-og-jpg-imagine-f8f8f8_8d8582_1200_628/640.webp
 labels:
   - Animal Equality
@@ -28,9 +22,10 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Animal Equality USA regte jetzt die Tierrechtsdebatte mit einer spektakulären neuen Kampagne an. Mitten am weltberühmten New Yorker Times Square zwischen all den Werbeplakaten und bunt blinkenden Slogans spielte die Organisation ein Video ein, das auf die Missstände bei der amerikanischen Fastfood-Kette Denny's hinweist.**
 
-Ein trächtiges Schwein sitzt in einem winzigen Metallkäfig, in dem es weder vor noch zurückkann. Bei dem Anblick stockt den Passant⋆innen der Atem. Direkt neben dem Display, auf dem der kurze Film zu sehen ist, ist das Logo des Fastfood-Lokals zu sehen. Kombiniert mit dem Satz "Tierquälerei ist schlecht fürs Geschäft". 
+Ein trächtiges Schwein sitzt in einem winzigen Metallkäfig, in dem es weder vor noch zurückkann. Bei dem Anblick stockt den Passant⋆innen der Atem. Direkt neben dem Display, auf dem der kurze Film zu sehen ist, ist das Logo des Fastfood-Lokals zu sehen. Kombiniert mit dem Satz "Tierquälerei ist schlecht fürs Geschäft".
 
 Denny's ist mit der Kampagne natürlich überhaupt nicht einverstanden. Kein Wunder: Täglich bleiben tausende Menschen vor der Einblendung stehen und reiben sich die Augen vor Entsetzen.
 
@@ -48,7 +43,7 @@ Um dem Unternehmen das nicht durchgehen zu lassen, setzte Animal Equality auf ei
 
 ## "Tut das Richtige!"
 
-Anzeigen in zahlreichen Lokalzeitungen unterstreichen die Kampagne  von Animal Equality USA zusätzlich. Mit ihnen möchte die Tierrechtsorga die wichtigsten Franchisenehmer⋆innen der Kette persönlich dazu auffordern, ihre Stimme gegen das Vorgehen von Danny's zu nutzen und "das Richtige" zu tun.
+Anzeigen in zahlreichen Lokalzeitungen unterstreichen die Kampagne von Animal Equality USA zusätzlich. Mit ihnen möchte die Tierrechtsorga die wichtigsten Franchisenehmer⋆innen der Kette persönlich dazu auffordern, ihre Stimme gegen das Vorgehen von Danny's zu nutzen und "das Richtige" zu tun.
 
 Die Kernbotschaft könnte nicht klarer sein: Tut etwas gegen die Tierquälerei und helft den Mutterschweinen in ihrer misslichen Lage! Hinzu kommt der immer lauter werdende Ruf nach Alternativen: Speck, Schinken & Co. kann man ganz einfach ersetzen – durch pflanzliche Lebensmittel, für die keine Tierausbeutung nötig ist.
 
@@ -58,5 +53,5 @@ In der Vergangenheit hatte Animal Equality am Times Square auch schon mit einer 
 
 **Quelle Text und Bild:** [Animal Equality](https://animalequality.de/)
 
-[^1]:[Animal Equality USA – "Times Square Billboard Exposes Denny’s Cruelty Toward Mother Pigs"](https://animalequality.org/news/dennys-time-square-billboard/)
-[^2]:[Animal Equality Germany – "Videokampagne gegen Mc Donald's am Times Square"](https://animalequality.de/neuigkeiten/2018/07/20/videokampagne-gegen-mcdonalds-times-square-new-york/)
+[^1]: [Animal Equality USA – "Times Square Billboard Exposes Denny’s Cruelty Toward Mother Pigs"](https://animalequality.org/news/dennys-time-square-billboard/)
+[^2]: [Animal Equality Germany – "Videokampagne gegen Mc Donald's am Times Square"](https://animalequality.de/neuigkeiten/2018/07/20/videokampagne-gegen-mcdonalds-times-square-new-york/)

@@ -4,15 +4,11 @@ slug: paul-seidel-fern-the-ocean-interview-en
 typeName: Interview
 title: Interview with Paul Seidel (FERN, The Ocean) about the new FERN Album
 subTitle: The Tender Side of Heavy Music
-seoTitle: "Interview: Paul Seidel (FERN, The Ocean) about the new FERN Album"
-description: Want to know more about the new FERN album "Intersubjective"? Read
-  my interview with FERN founder and The Ocean Drummer Paul Seidel.
-excerpt: Paul Seidel recently released his first official album,
-  "Intersubjective", with FERN. In his project, the The Ocean drummer focuses on
-  the interplay of electronic elements and instruments, cleverly combining the
-  worlds of pop and industrial. I now had the chance to interview him.
+seoTitle: 'Interview: Paul Seidel (FERN, The Ocean) about the new FERN Album'
+description: Want to know more about the new FERN album "Intersubjective"? Read my interview with FERN founder and The Ocean Drummer Paul Seidel.
+excerpt: Paul Seidel recently released his first official album, "Intersubjective", with FERN. In his project, the The Ocean drummer focuses on the interplay of electronic elements and instruments, cleverly combining the worlds of pop and industrial. I now had the chance to interview him.
 image: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-jpeg-imagine-080808_606060_1024_768/640.webp
-copyrigt: Paul Seidel
+copyright: Paul Seidel
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-fb-jpeg-imagine-080808_5c5c5c_1200_628/640.webp
 labels:
   - FERN
@@ -35,6 +31,7 @@ affiliate: false
 language: en
 languageLink: /2022/11/paul-seidel-fern-the-ocean-interview/
 ---
+
 **Paul Seidel recently released his first official album, "Intersubjective", with FERN. In his project, the The Ocean drummer focuses on the interplay of electronic elements and instruments, cleverly combining the worlds of pop and industrial. I now had the chance to interview him.**
 
 **Anne:** Hello Paul! Thank you for taking the time for this interview! Congratulations on the new FERN album! I enjoy listening to this record very much. I think that "Intersubjective" brings a beautiful calmness and balance, but at the same time, it's also a wake-up call. Are you happy with it?
@@ -45,7 +42,7 @@ languageLink: /2022/11/paul-seidel-fern-the-ocean-interview/
 
 ## "I've learned to recharge my batteries"
 
-![Paul Seidel backstage. Picture: Paul Seidel, private](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-tour-picture-2-jpeg-imagine-080808_6e6f6d_1024_768/640.webp "Paul Seidel backstage. Picture: Paul Seidel, private")
+![Paul Seidel backstage. Picture: Paul Seidel, private](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-tour-picture-2-jpeg-imagine-080808_6e6f6d_1024_768/640.webp 'Paul Seidel backstage. Picture: Paul Seidel, private')
 
 **Paul:** Admittedly, the entire overlay of all the projects can sometimes be a bit much. But everyone is the architect of their luck, if I remember correctly, so I don't want to complain. Instead, I've learned to make the most of the pauses in between to recharge the batteries.
 
@@ -63,7 +60,7 @@ The album's opener is meant to reflect the idea of digital capture and the simul
 
 ## "Jan Kerscher an I created many sounds togehter"
 
-![Paul Seidel at the Drums. Picture: Paul Seidel, private](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-drums-jpeg-imagine-080808_555555_1024_768/640.webp "Paul Seidel at the Drums. Picture: Paul Seidel, private")
+![Paul Seidel at the Drums. Picture: Paul Seidel, private](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-drums-jpeg-imagine-080808_555555_1024_768/640.webp 'Paul Seidel at the Drums. Picture: Paul Seidel, private')
 
 **Paul:** Besides Hayk, you can also listen to the insanely good cellist Marie-Claire Schlameus on the track "I Am A Transient". She really implemented my ideas perfectly and gave the song the necessary tenderness that was missing in the programmed sounds before. In addition, in the elaborate recording and production process with my friend and colleague Jan Kerscher, we also created countless other sounds and details that hadn't been there before.
 
@@ -89,7 +86,7 @@ But I also don't want to define myself too much or be pinned down to what FERN c
 
 ## "Sensitivity allows us to perceive the world with all its details"
 
-![Paul Seidel at Dunk!festival. Picture: Paul Seidel, private](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-dunk-festival-png-imagine-080808_554442_1024_768/640.webp "Paul Seidel at Dunk!festival. Picture: Paul Seidel, private")
+![Paul Seidel at Dunk!festival. Picture: Paul Seidel, private](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-dunk-festival-png-imagine-080808_554442_1024_768/640.webp 'Paul Seidel at Dunk!festival. Picture: Paul Seidel, private')
 
 **Paul:** I don't think it's a different part. The content is just formulated differently, maybe in another language. Sensitivity is a quality that has influenced me since childhood, both positively and negatively, and it shapes my behaviour. So, in this respect, FERN is perhaps a kind of diary to extract and process the often overwhelming impressions and thoughts.
 
@@ -103,7 +100,7 @@ It feels good to perceive this tender side, translating it directly into somethi
 
 ## "Our time fascinates me"
 
-![Paul Seidel at the Drums. Picture: Paul Seidel, privat](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-tour-picture-jpeg-imagine-080808_787878_1024_768/640.webp "Paul Seidel at the Drums. Picture: Paul Seidel, privat")
+![Paul Seidel at the Drums. Picture: Paul Seidel, privat](https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-tour-picture-jpeg-imagine-080808_787878_1024_768/640.webp 'Paul Seidel at the Drums. Picture: Paul Seidel, privat')
 
 **Paul:** I am enormously fascinated by our time. We are always stuck between something that has happened and something that has not yet happened—as the spearhead of a future that we supposedly hold in our hands. Yet, we are actually permanently flowing through our perception as reacting beings, searching for answers to questions that arise through our responses.
 

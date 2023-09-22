@@ -8,7 +8,7 @@ seoTitle: MY-HI im Interview über Studio-Sessions mit Alex Gordon
 description: MY-HI haben mir im Gespräch alles über ihre neuen Songs verraten. Lest jetzt mein Interview.
 excerpt: Über Memphia Music lernte ich vor kurzem MY-HI kennen und lieben. Nachdem ich die Brightoner Band in der Mai-Playliste kurz vorgestellt hatte, bot sich jetzt die Gelegenheit für ein lockeres Interview. Was soll ich sagen? Diese Chance habe ich mir natürlich nicht entgehen lassen.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-14/my-hi-band-1-jpg-imagine-080808_272f3a_1024_768/640.webp
-copyrigt: MY-HI
+copyright: MY-HI
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-14/my-hi-og-jpg-imagine-080808_2d333d_1200_628/640.webp
 labels:
   - MY-HI
@@ -24,6 +24,7 @@ affiliate: false
 language: de
 languageLink: /2023/06/my-hi-interview-en/
 ---
+
 **Über Memphia Music lernte ich vor kurzem MY-HI kennen und lieben. Nachdem ich die Brightoner Band in der Mai-Playliste kurz vorgestellt hatte, bot sich jetzt die Gelegenheit für ein lockeres Interview. Was soll ich sagen? Diese Chance habe ich mir natürlich nicht entgehen lassen.**
 
 Durch meine Recherche über MY-HI für die [Mai-Liste](/2023/04/playlist-mai-2023/) erfuhr ich unter anderem von der Zusammenarbeit der Band mit Alex Gordon (The Cure, Blood-Red Shoes, The Xcerts). Das machte mich natürlich neugierig und bot, neben der großartigen Musik und den Tourplänen des Alternative-Projekts, natürlich jede Menge Gesprächstoff.
@@ -52,11 +53,11 @@ Durch meine Recherche über MY-HI für die [Mai-Liste](/2023/04/playlist-mai-202
 
 ## **MY-HI:** "Wir haben vielleicht bald ein paar neue Songs für Euch!"
 
-![MY-HI](https://storage.googleapis.com/cardamonchai-media/2023-06-14/my-hi-band-2-1-jpg-imagine-080808_333a35_1024_768/640.webp "MY-HI")
+![MY-HI](https://storage.googleapis.com/cardamonchai-media/2023-06-14/my-hi-band-2-1-jpg-imagine-080808_333a35_1024_768/640.webp 'MY-HI')
 
 **MY-HI:** Du hast ja eben bereits erwähnt, dass wir den Song mit Alex Gordon aufgenommen haben. Es kann sein, dass es noch ein paar weitere Sessions mit Alex gab und es kann sein, dass noch weitere Songs in Arbeit sind!
 
-**Anne:** Das sind gute Nachrichten! Das freut mich sehr! 
+**Anne:** Das sind gute Nachrichten! Das freut mich sehr!
 
 Was inspiriert Euch am meisten, wenn Ihr Euch hinsetzt, um Musik und Texte zu schreiben.
 

@@ -5,13 +5,10 @@ typeName: Review
 title: Nyos sind jetzt Teil von Pelagic Records
 subTitle: Instrumental Post-Rock aus Finnland
 seoTitle: Nyos sind jetzt Teil von Pelagic Records – Instrumental Post-Rock Review
-description: "Gerade kam eine schöne Nachricht von Pelagic Records rein: Das
-  finnische Instrumental Duo Nyos hat jetzt beim Berliner Post-Music Label
-  unterschrieben. Das neue (inzwischen fünfte) Nyos Album ist bereits für
-  nächstes Frühjahr angekündigt."
-excerpt: ""
+description: 'Gerade kam eine schöne Nachricht von Pelagic Records rein: Das finnische Instrumental Duo Nyos hat jetzt beim Berliner Post-Music Label unterschrieben. Das neue (inzwischen fünfte) Nyos Album ist bereits für nächstes Frühjahr angekündigt.'
+excerpt: ''
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/nyos-jpg-imagine-c8c8c8_000000_1024_768/640.webp
-copyrigt: Nyos
+copyright: Nyos
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/nyos-png-imagine-c8c8c8_969696_1200_628/640.webp
 labels:
   - Tonehaven Studios
@@ -41,7 +38,7 @@ Solange wir darauf warten, können wir uns die Zeit mit den Vorgängeralben vers
 
 ## Nyos lieben Kaffee und Noise
 
-Die beiden Alben spiegeln die musikalische Entwicklung der Band wider und zeigen die Einflüsse  von Math-Rock über Post-Rock bis Noise. Gitarrist Tom Brooke und Drummer Tuomas Kainulainen lieben es mit Loops und Drone Sounds zu arbeiten und zahlreiche Schichten aus Keys und Samples zu verweben. Das energiegeladene und fantasievoll eingesetzte Schlagzeug bildet dazu den perfekten Kontrast.
+Die beiden Alben spiegeln die musikalische Entwicklung der Band wider und zeigen die Einflüsse von Math-Rock über Post-Rock bis Noise. Gitarrist Tom Brooke und Drummer Tuomas Kainulainen lieben es mit Loops und Drone Sounds zu arbeiten und zahlreiche Schichten aus Keys und Samples zu verweben. Das energiegeladene und fantasievoll eingesetzte Schlagzeug bildet dazu den perfekten Kontrast.
 
 Tuomas und Tom gründeten Nyos 2014. Der Finne und der Brite lernten sich damals kurz nach Toms Umzug nach Finnland kennen. Durch ihre glühende Verehrung für Noise Bands, Kaffee und Konzerte spürten sie sofort eine innige Verbindung. Bereits im Winter desselben Jahres erschien ihr erstes 26-minütiges Stück "Vltava" als Selbstveröffentlichung. Seit 2015 sind die beiden permanent auf Tour – Inzwischen haben sie bereits 200 Konzerte in mehr als 20 Ländern gespielt.
 

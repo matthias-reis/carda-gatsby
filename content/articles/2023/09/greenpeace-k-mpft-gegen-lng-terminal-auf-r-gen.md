@@ -5,16 +5,10 @@ typeName: Beitrag
 title: Greenpeace kämpft gegen LNG-Terminal auf Rügen
 subTitle: '"Die Planung ist massiv überdimensioniert"'
 seoTitle: Greenpeace fordert Aus für LNG-Terminal in Rügen
-description: Greenpeace geht gemeinsam mit zahlreichen anderen Gruppen und
-  Aktivist*innen gegen das geplante LNG-Terminal in Mukran auf Rügen vor. Hier
-  erfahrt Ihr warum.
-excerpt: Das geplante LNG-Terminal in Mukran auf Rügen wird uns heute wie die
-  neue Freiheit verkauft. Freiheit von  Kohle und Öl und Unabhängigkeit von
-  mächtigen politischen Kräften. In diesem Artikel geht es um die Schattenseiten
-  des Projekts. Greenpeace setzt sich gemeinsam mit zahlreichen weiteren Gruppen
-  und Aktivist⋆innen gegen das Projekt ein.
+description: Greenpeace geht gemeinsam mit zahlreichen anderen Gruppen und Aktivist*innen gegen das geplante LNG-Terminal in Mukran auf Rügen vor. Hier erfahrt Ihr warum.
+excerpt: Das geplante LNG-Terminal in Mukran auf Rügen wird uns heute wie die neue Freiheit verkauft. Freiheit von  Kohle und Öl und Unabhängigkeit von mächtigen politischen Kräften. In diesem Artikel geht es um die Schattenseiten des Projekts. Greenpeace setzt sich gemeinsam mit zahlreichen weiteren Gruppen und Aktivist⋆innen gegen das Projekt ein.
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-22/lng-terminal-ruegen-greenpeace-jpg-imagine-080808_204972_1024_768/640.webp
-copyrigt: Greenpeace
+copyright: Greenpeace
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-22/lng-terminal-ruegen-greenpeace-og-jpg-imagine-080808_204364_1200_628/640.webp
 labels:
   - Greenpeace
@@ -29,7 +23,8 @@ advertisement: false
 affiliate: true
 language: de
 ---
-**Das geplante LNG-Terminal in Mukran auf Rügen wird uns heute wie die neue Freiheit verkauft. Freiheit von  Kohle und Öl und Unabhängigkeit von mächtigen politischen Kräften. In diesem Artikel geht es um die Schattenseiten des Projekts. Greenpeace setzt sich gemeinsam mit zahlreichen weiteren Gruppen und Aktivist⋆innen gegen das Projekt ein.**
+
+**Das geplante LNG-Terminal in Mukran auf Rügen wird uns heute wie die neue Freiheit verkauft. Freiheit von Kohle und Öl und Unabhängigkeit von mächtigen politischen Kräften. In diesem Artikel geht es um die Schattenseiten des Projekts. Greenpeace setzt sich gemeinsam mit zahlreichen weiteren Gruppen und Aktivist⋆innen gegen das Projekt ein.**
 
 50 Kilometer lang soll sie sein, die Pipeline, die das LNG (Liquefied Natural Gas) von Mukran bis nach Lubmin bringen soll. Mit Klima-, Meeres- und Umweltschutz ist das nicht vereinbar. Darum trafen sich zuletzt am 7. September zahlreiche Demonstrant⋆innen, um sich gegen den Eingriff in die Natur der Insel Rügen und die Ostsee stark zu machen.
 
@@ -49,7 +44,7 @@ Klimaschützer⋆innen und zahlreiche Forschende sind sich einig, dass LNG nicht
 
 ## "Wir müssen aufhören, auf Kosten der Natur zu leben!"
 
-Und nicht nur die offensichtliche Gegenseite sieht das LNG-Projekt kritisch. Wirtschafts- und Klimaminister Robert Habeck (Bündnis 90/Die Grünen) gab beim energiewirtschaftlichen Institut EWI eine Analyse[^4] in Auftrag, die zu dem Schluss kommt, dass die deutschen Pläne für den LNG-Ausbau klar im Widerspruch zu den Klimazielen stehen. Lediglich Ines der drei modellierten Szenarien zu Angebot und Nachfrage beim Gasangebot ist überhaupt mit dem Pariser Klimaabkommen vereinbar. Würde man danach handeln, dürften die deutschen Terminals im Jahr 2023 nur noch zwischen 13 und 18 Prozent ihrer Kapazität nutzen. 
+Und nicht nur die offensichtliche Gegenseite sieht das LNG-Projekt kritisch. Wirtschafts- und Klimaminister Robert Habeck (Bündnis 90/Die Grünen) gab beim energiewirtschaftlichen Institut EWI eine Analyse[^4] in Auftrag, die zu dem Schluss kommt, dass die deutschen Pläne für den LNG-Ausbau klar im Widerspruch zu den Klimazielen stehen. Lediglich Ines der drei modellierten Szenarien zu Angebot und Nachfrage beim Gasangebot ist überhaupt mit dem Pariser Klimaabkommen vereinbar. Würde man danach handeln, dürften die deutschen Terminals im Jahr 2023 nur noch zwischen 13 und 18 Prozent ihrer Kapazität nutzen.
 
 Wenn wir die Klimaziele erreichen möchten, wäre demnach nur ein Fünftel der möglichen Menge überhaupt zulässig. In Zahlen sind das rund sieben Milliarden Kubikmeter pro Jahr der angenommenen Kapazität an LNG. Ein einziges voll ausgelastetes Terminalschiff würde für diese Menge ausreichen.
 
@@ -88,13 +83,8 @@ Falls es bei Euch noch keine [Wärmepumpe](https://tidd.ly/453DzOM) gibt, [biete
 **Bild/Picture:** [Greenpeace](https://www.greenpeace.de/klimaschutz/energiewende/gasausstieg/kein-lng-terminal-ruegen?utm_term=2023-multi-newsletter-september&utm_campaign=oceans&utm_medium=email&_hsmi=76526218&utm_content=button&utm_source=multi-newsletter)
 
 [^1]: [Deutsches Institut für Wirtschaftsforschung – "Deutschlands Gasversorgung ein Jahr nach russischem Angriff auf Ukraine gesichert, kein weiterer Ausbau von LNG-Terminals nötig"](https://www.diw.de/de/diw_01.c.866810.de/publikationen/diw_aktuell/2023_0086/deutschlands_gasversorgung_ein_jahr_nach_russischem_angriff___ine_gesichert__kein_weiterer_ausbau_von_lng-terminals_noetig.html)
-
 [^2]: [New Climate Institute, –"Deutsche LNG-Ausbaupläne führen zu Überkapazität und gefährden Klimaschutzziele – Review und klimapolitische Einordnung der aktuellen Studienlage"](https://newclimate.org/sites/default/files/2023-03/newclimate_lng_uberkapazitat_deutschland_0.pdf)
-
 [^3]: [Greenpeace – "Kein LNG-Terminal auf Rügen"](https://www.greenpeace.de/klimaschutz/energiewende/gasausstieg/kein-lng-terminal-ruegen?utm_term=2023-multi-newsletter-september&utm_campaign=oceans&utm_medium=email&_hsmi=76526218&utm_content=button&utm_source=multi-newsletter)
-
 [^4]: ["Analyse der globalen Gasmärkte bis 2035 – Szenarienbasierte Modellsimulation und Gasbilanzanalyse" im Auftrag des Bundesministeriums für Wirtschaft und Klimaschutz (BMWK)](https://www.bmwk.de/Redaktion/DE/Publikationen/Studien/20230303-lng-studie.pdf?__blob=publicationFile&v=8)
-
 [^5]: [WWF – "Freiwillige Vereinbarung Greifswalder Bodden"](https://www.wwf.de/themen-projekte/projektregionen/ostsee/freiwillige-vereinbarung-greifswalder-bodden)
-
 [^6]: [Greenpeace – "LNG - sechs Mythen zu Flüssiggasterminals"](https://www.greenpeace.de/klimaschutz/energiewende/gasausstieg/lng-sechs-mythen)

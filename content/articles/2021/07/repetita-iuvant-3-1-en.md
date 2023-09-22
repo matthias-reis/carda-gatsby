@@ -5,12 +5,9 @@ typeName: Beitrag
 title: Repetita Iuvant – "3+1"
 subTitle: Quadrophonic Sound Art
 seoTitle: Repetita Iuvant – "3+1" – Quadrophonic Sound Art – Post-Rock Review
-description: Repetita Iuvant is a group of friends who share their love of music
-  and nature. Their new EP "3+1" for them is their natural, musical and
-  mathematical consequence of their 2020 work "3", opening the next chapter of
-  their trilogy, which together make up their first LP.
+description: Repetita Iuvant is a group of friends who share their love of music and nature. Their new EP "3+1" for them is their natural, musical and mathematical consequence of their 2020 work "3", opening the next chapter of their trilogy, which together make up their first LP.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-2-jpg-imagine-080808_5b5b5b_912_684/640.webp
-copyrigt: Repetita Iuvant
+copyright: Repetita Iuvant
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-fb-png-imagine-f8f8f8_909598_1200_628/640.webp
 labels:
   - Ambient
@@ -34,7 +31,7 @@ languageLink: /2021/07/repetita-iuvant-3-1/
 
 **Repetita Iuvant is a group of friends who found each other through their love for great instrumental music. Their new EP "3+1" is their natural, musical and mathematical consequence of their 2020 work "3". It is also opening the next chapter of their trilogy. All three records combined will make their first LP.**
 
-The post-rock/noise band from La Spezia, Italy, consists of Andrea Testa (drums), Christoforo da Costa (guitar, synthy), and Daniele Isetta (guitar). 
+The post-rock/noise band from La Spezia, Italy, consists of Andrea Testa (drums), Christoforo da Costa (guitar, synthy), and Daniele Isetta (guitar).
 
 ![Repetita Iuvant - "3+1" | small](https://storage.googleapis.com/cardamonchai-media/2021-11-20/3-1-ep-jpg-imagine-c8e8f8_a9b4b9_1433_1444/640.webp "Repetita Iuvant - "3+1"")
 
@@ -48,7 +45,7 @@ The last song on "3+1", "Piuno", was recorded with four ambient microphones and 
 
 Do you think this sounds pretty exciting? Well, it is. Released on June 18th on Loudnessy Sonic Factory, the record is more than just one of those EPs you can listen to once in a while. It opens the door to a diverse world of sound that you want to walk through again and again.
 
-![Repetita Iuvant | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-1-jpg-imagine-c8c8c8_7e7e7e_912_684/640.webp "Repetita Iuvant")
+![Repetita Iuvant | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-1-jpg-imagine-c8c8c8_7e7e7e_912_684/640.webp 'Repetita Iuvant')
 
 ## A colourful overall picture
 
@@ -56,10 +53,9 @@ The first song, "Sagiadi", is electronic, eclectic and versatile. Hypnotic rhyth
 
 The second track, "Polloni", adds a surprising tenderness to the versatility, making this song my favourite on the record. It is pretty challenging to put into words what is happening here; the back and forth between harshness and fragility is reminiscent of the play of tides.
 
-![Repetita Iuvant | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-3-jpg-imagine-f8f8f8_858585_912_684/640.webp "Repetita Iuvant")
+![Repetita Iuvant | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-3-jpg-imagine-f8f8f8_858585_912_684/640.webp 'Repetita Iuvant')
 
 "Metloping" forms a dignified transition to the finale of the record – onomatopoeia included. "Piuno" is, as described above, a quadrophonic experiment – that happens to be a complete success. The 1970ies are sending their regards. Attentive listeners should also immediately notice the changes in perspective. What particularly fascinates me here are the beautiful percussion highlights, which leave some colourful paint splatters on the sound carpet here and there.
-
 
 ## A cliffhanger to the next record
 
@@ -69,4 +65,12 @@ With a total of four pieces, "3+1" tells a story that doesn't need any words at 
 
 ## Repetita Iuvant - "3+1"
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3471970807/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://repetitaiuvant.bandcamp.com/album/3-1">3+1 by Repetita Iuvant</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3471970807/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://repetitaiuvant.bandcamp.com/album/3-1">
+    3+1 by Repetita Iuvant
+  </a>
+</iframe>

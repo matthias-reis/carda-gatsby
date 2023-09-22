@@ -1,9 +1,6 @@
 ---
 ogTitle: Nahrungsergänzungsmittel für Veganer⋆innen – Was empfiehlt sich?
-excerpt: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in
-  irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen? Besonders
-  für Veganer⋆innen? Vitamin B12 ist klar, aber was sollte man noch im Auge
-  behalten?
+excerpt: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen? Besonders für Veganer⋆innen? Vitamin B12 ist klar, aber was sollte man noch im Auge behalten?
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_nahrungsergaenzungsmittel-fb.png__l.jpg
 isAffiliate: false
 path: /2021/04/von-vitamin-b12-bis-d3/
@@ -17,9 +14,8 @@ errors: {}
 title: Von Vitamin B12 bis D3
 subTitle: Nahrungsergänzungsmittel für Veganer*innen
 seoTitle: Nahrungsergänzungsmittel für Veganer⋆innen – Was empfiehlt sich?
-description: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in
-  irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen?
-copyrigt: ""
+description: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen?
+copyright: ''
 labels:
   - B12
   - D3

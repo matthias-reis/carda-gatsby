@@ -5,16 +5,10 @@ typeName: Beitrag
 title: Mikroalgenöl als Palmöl-Alternative
 subTitle: Neue Studie der Nanyang Technological University
 seoTitle: Mikroalgenöl als Palmöl-Alternative – Neue Studie der NTU
-description: Palmöl-Alternativen – wie lange ich in diese Richtung schon
-  recherchiere, kann ich nicht sagen. Jetzt haben Forschende der NTU
-  herausgefunden, dass Mikroalgenöl vielleicht die Lösung sein könnte.
-excerpt: "Palmöl-Alternativen – wie lange ich in diese Richtung schon
-  recherchiere, kann ich nicht sagen. Jetzt haben Forschende möglicherweise
-  tatsächlich ein Öl entdeckt, das bald in großen Mengen verfügbar und ebenso
-  vielseitig einsetzbar sein könnte – ohne, dass dabei Urwälder zerstört werden
-  oder schlagartig alles teurer wird: Mikroalgenöl"
+description: Palmöl-Alternativen – wie lange ich in diese Richtung schon recherchiere, kann ich nicht sagen. Jetzt haben Forschende der NTU herausgefunden, dass Mikroalgenöl vielleicht die Lösung sein könnte.
+excerpt: 'Palmöl-Alternativen – wie lange ich in diese Richtung schon recherchiere, kann ich nicht sagen. Jetzt haben Forschende möglicherweise tatsächlich ein Öl entdeckt, das bald in großen Mengen verfügbar und ebenso vielseitig einsetzbar sein könnte – ohne, dass dabei Urwälder zerstört werden oder schlagartig alles teurer wird: Mikroalgenöl'
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-05/palmoel-alternative-mikroalgenoel-jpg-imagine-f8b808_b87120_1024_768/640.webp
-copyrigt: parkstonephotography, pixabay
+copyright: parkstonephotography, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-05/palmoel-alternative-mikroalgenoel-fb-png-imagine-f8b808_b46e1f_1200_628/640.webp
 labels:
   - NTU
@@ -29,6 +23,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Palmöl-Alternativen – wie lange ich in diese Richtung schon recherchiere, kann ich nicht sagen. Jetzt haben Forschende möglicherweise tatsächlich ein Öl entdeckt, das bald in großen Mengen verfügbar und ebenso vielseitig einsetzbar sein könnte – ohne, dass dabei Urwälder zerstört werden oder schlagartig alles teurer wird: Mikroalgenöl**
 
 Was zuerst ein bisschen wie ein Traum klingt, ist tatsächlich sehr gut denkbar und liegt vielleicht auch gar nicht in so weiter Ferne. Palmöl kommt heutzutage in den unterschiedlichsten Produkten vor – vom Waschmittel über das Shampoo bis zum Brotaufstrich. Dabei ist es nicht nur ungesund – es könnte das Ende der Urwälder bedeuten, wenn nicht bald ein Ersatz gefunden wird. Alternativen ([z. B. auf Hefebasis](/2015/11/forscher-finden-palmoel-ersatz/)) werden zwar verstärkt erforscht, haben sich bislang aber noch nicht durchgesetzt. Falls es also klappt und Palmöl von Mikroalgenöl abgelöst wird, wäre das wirklich großartig.
@@ -68,5 +63,4 @@ Um so wichtiger ist es, dass Forschungsinstitute wie die NTU weiter nach zukunft
 Bild/Picture: [parkstonephotography](https://pixabay.com/photos/oil-abstract-bubble-background-6915740/), pixabay
 
 [^1]: [News zur Mikroalgenöl-Studie](https://www.ntu.edu.sg/docs/default-source/corporate-ntu/hub-news/scientists-led-by-ntu-singapore-produce-oils-from-microalgae-that-could-replace-palm-oil-in-food-production.pdf?sfvrsn=ef60abc6_1)
-
 [^2]: [Studiengang zum Thema Fleischalternativen](https://www.ntu.edu.sg/news/detail/new-undergraduate-course-in-alternative-meats-launched)

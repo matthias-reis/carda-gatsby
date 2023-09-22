@@ -5,17 +5,10 @@ typeName: Produkttest
 title: Die Starter Kits von MICARAA
 subTitle: Wertvolle vegane Kosmetik für unterwegs
 seoTitle: MICARAA Starter Kits – vegane Pflege für unterwegs
-description: MICARAA hat jetzt die neuen Starter Kits vorgestellt. Sie sind
-  besonders unterwegs unglaublich praktisch und auch, wenn Ihr Euch noch nicht
-  ganz sicher seid, welche Pflegeserie die richtig für Euch ist, können sie
-  helfen.
-excerpt: MICARAA hat jetzt die neuen Starter Kits vorgestellt. Gerade, wenn Ihr
-  noch nicht sicher seid, welche Pflegeprodukte sich am besten für Euch eignen,
-  sind die Minis praktisch, weil Ihr so ganz einfach erstmal eine kleine Menge
-  testen könnt. Und auch unterwegs können sie praktisch sein – schließlich
-  nehmen sie nur sehr wenig Platz weg.
+description: MICARAA hat jetzt die neuen Starter Kits vorgestellt. Sie sind besonders unterwegs unglaublich praktisch und auch, wenn Ihr Euch noch nicht ganz sicher seid, welche Pflegeserie die richtig für Euch ist, können sie helfen.
+excerpt: MICARAA hat jetzt die neuen Starter Kits vorgestellt. Gerade, wenn Ihr noch nicht sicher seid, welche Pflegeprodukte sich am besten für Euch eignen, sind die Minis praktisch, weil Ihr so ganz einfach erstmal eine kleine Menge testen könnt. Und auch unterwegs können sie praktisch sein – schließlich nehmen sie nur sehr wenig Platz weg.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-13-jpg-imagine-f8f8f8_9a8f89_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-starter-kit-fb-png-imagine-f8f8f8_878079_1200_628/640.webp
 labels:
   - vegane Kosmetik
@@ -35,23 +28,23 @@ Weil ich selbst zu trockener und empfindlicher Haut neige, nutze ich die [MICARA
 
 ## Praktische kleine Fläschchen
 
-![Mein praktisches MICARAA Starter Kit](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-3-jpg-imagine-88a8a8_868f89_1024_768/640.webp "Mein praktisches MICARAA Starter Kit")
+![Mein praktisches MICARAA Starter Kit](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-3-jpg-imagine-88a8a8_868f89_1024_768/640.webp 'Mein praktisches MICARAA Starter Kit')
 
 Die kleinen Fläschchen passen auch in die kleinste Kosmetiktasche und so habe ich die passende Pflege immer griffbereit.
 
-Mein [MICARAA  Starter Kit](https://tidd.ly/3Gh1MWO) besteht aus dem Vitamin C Eye Serum, dem Hyaluronic Acid Face Serum und der Hydrating Face Cream. Ich kann also unterwegs wie gewohnt, ein Serum für die Augen, eins für die Gesichtshaut und eine Gesichtscreme nutzen.
+Mein [MICARAA Starter Kit](https://tidd.ly/3Gh1MWO) besteht aus dem Vitamin C Eye Serum, dem Hyaluronic Acid Face Serum und der Hydrating Face Cream. Ich kann also unterwegs wie gewohnt, ein Serum für die Augen, eins für die Gesichtshaut und eine Gesichtscreme nutzen.
 
 Auch, wenn Ihr bisher gezögert habt, ob Ihr [MICARAA mal testen](https://tidd.ly/3bcl01z) wollt, sind die Starter Kits ein praktischer Einstieg für Euch. So braucht Ihr nicht gleich die großen Tiegel kaufen und könnt erstmal schauen, wie Euch die Produkte gefallen und welche genau die richtigen für die Bedürfnisse Eurer Haut sind.
 
 ## MICARAA Produkte für unterschiedliche Hauttypen
 
-![Die MICARAA Starter Kits gibt es für unterschiedliche Hauttypen.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-15-jpg-imagine-f8f8f8_a19691_1024_768/640.webp "Die MICARAA Starter Kits gibt es für unterschiedliche Hauttypen.")
+![Die MICARAA Starter Kits gibt es für unterschiedliche Hauttypen.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-15-jpg-imagine-f8f8f8_a19691_1024_768/640.webp 'Die MICARAA Starter Kits gibt es für unterschiedliche Hauttypen.')
 
 Ihr könnt Euer Starter Kit [hier bestellen](https://tidd.ly/3Gh1MWO). Im MICARAA Shop gibt es die praktischen Minis auch für trockene und normale Haut.
 
 Die Produkte von MICARAA gefallen mir deshalb so gut, weil sie meine Haut nicht irritieren. Der für mich eigentlich wichtigste Punkt ist jedoch, dass sie komplett vegan sind. Die Vegan Society hat sie dafür sogar ausgezeichnet. Tierversuche kommen bei MICARAA natürlich auch nicht infrage. Außerdem wird auf Silikon, Mineralöl und Parabene bewusst verzichtet. Wenn Ihr also auf [vegane Naturkosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/) steht und Euch also wichtig ist, was in den Produkten drin ist, die Ihr auf Eure Haut auftragt, seid Ihr hier richtig.
 
-Die Basis der Pflege sind wertvolle, natürliche Inhaltsstoffe. Besonders hervorheben möchte ich hier Vitamin C, Nachtkerzenöl,  Aloe Vera, Hyaluronsäure, Ectoin und Cacayöl.
+Die Basis der Pflege sind wertvolle, natürliche Inhaltsstoffe. Besonders hervorheben möchte ich hier Vitamin C, Nachtkerzenöl, Aloe Vera, Hyaluronsäure, Ectoin und Cacayöl.
 
 ## Vitamin C
 
@@ -75,7 +68,7 @@ Ectoin dient dem natürlichen Zellschutz. Zuerst wurde es bei Bakterien in der W
 
 ## Cacayöl
 
-![Wenn Ihr Euch noch nicht sicher seid, welche Produkte die richtigen für Euch sind, könnte das MICARAA Starter Kit die richtige Wahl für Euch sein.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-jpg-imagine-889898_89928a_1024_768/640.webp "Wenn Ihr Euch noch nicht sicher seid, welche Produkte die richtigen für Euch sind, könnte das MICARAA Starter Kit die richtige Wahl für Euch sein.")
+![Wenn Ihr Euch noch nicht sicher seid, welche Produkte die richtigen für Euch sind, könnte das MICARAA Starter Kit die richtige Wahl für Euch sein.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-jpg-imagine-889898_89928a_1024_768/640.webp 'Wenn Ihr Euch noch nicht sicher seid, welche Produkte die richtigen für Euch sind, könnte das MICARAA Starter Kit die richtige Wahl für Euch sein.')
 
 Kennt Ihr Cacaynüsse? Ich muss gestehen, dass ich davon, bis ich MICARAA vor ein paar Jahren kennengelernt habe, noch nie etwas gehört hatte. Schade eigentlich. Die tollen Nüsse stammen aus Mittelamerika. Sie wachsen dort auf bis zu 40 Meter hohen Bäumen. Ihr Öl steckt voller wertvoller Vitamine. Das soll für eine langanhaltende Durchfeuchtung der Haut und die Förderung der Zellregeneration sorgen. Auch die Bildung neuer Hautzellen wird unterstützt.
 

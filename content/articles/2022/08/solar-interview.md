@@ -5,16 +5,10 @@ typeName: Interview
 title: '"Wir proben in völliger Dunkelheit"'
 subTitle: Interview mit Solár Drummer Aron zum Album "Atlas"
 seoTitle: Solár – "Atlas" – Interview zum Album mit Drummer Aron
-description: 'Solár: "Atlas" – ein Post-Rock Album, das Ihr nicht außer Acht
-  lassen solltet. Ich habe mich mit Drummer Aron über die Platte, die junge
-  Bandgeschichte und die Tourpläne von Solár unterhalten.'
-excerpt: Solár ist ein junges Post-Rock-Projekt aus Schweden, das ich vor
-  einiger Zeit kennenlernen durfte. Die Band war so freundlich, mir ihr erstes
-  Album "Atlas" zuzusenden und ich verliebte mich sofort in ihre Musik. Ihre
-  Songs könnte man als anspruchsvollen, künstlerischen Post-Rock mit einem Touch
-  DIY und einem Hauch Prog beschreiben.
+description: 'Solár: "Atlas" – ein Post-Rock Album, das Ihr nicht außer Acht lassen solltet. Ich habe mich mit Drummer Aron über die Platte, die junge Bandgeschichte und die Tourpläne von Solár unterhalten.'
+excerpt: Solár ist ein junges Post-Rock-Projekt aus Schweden, das ich vor einiger Zeit kennenlernen durfte. Die Band war so freundlich, mir ihr erstes Album "Atlas" zuzusenden und ich verliebte mich sofort in ihre Musik. Ihre Songs könnte man als anspruchsvollen, künstlerischen Post-Rock mit einem Touch DIY und einem Hauch Prog beschreiben.
 image: https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-1-jpeg-imagine-181818_36383c_1024_768/640.webp
-copyrigt: Solár
+copyright: Solár
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-1-fb-jpeg-imagine-181818_383a3d_1200_628/640.webp
 labels:
   - Solár
@@ -40,6 +34,7 @@ affiliate: false
 language: de
 languageLink: /2022/08/solar-atlas-interview-en/
 ---
+
 **Solár ist ein junges Post-Rock-Projekt aus Schweden, das ich vor einiger Zeit kennenlernen durfte. Die Band war so freundlich, mir ihr erstes Album "Atlas" zuzusenden und ich verliebte mich sofort in ihre Musik. Ihre Songs könnte man als anspruchsvollen, künstlerischen Post-Rock mit einem Touch DIY und einem Hauch Prog beschreiben. Mir war sofort klar, dass ich mehr über Solár erfahren wollte. Gut für Euch: viel Spaß meinem Interview mit Drummer Aron.**
 
 Aber, das Wichtigste zuerst! "Atlas" wird am 9. September auf allen Streaming-Plattformen erscheinen. Ihr könnt Euch die vorab veröffentlichte Single "Nomad" unter diesem Artikel anhören.
@@ -120,7 +115,7 @@ Mit "Mesmer" wollten wir zwischen all dem Chaos eine Atempause schaffen. Henrik 
 
 **Anne:** Was steht nach der Veröffentlichung von "Atlas" als Nächstes an für Solár?
 
-**Aron:** Wir werden am 10. September unseren Release-Gig spielen.  Dann werden wir das 1000Mods hier in Schweden eröffnen. Nächstes Jahr werden wir dann auf deutschen Festivals spielen, was großartig wird. Nach der Pandemie, die uns zwei Jahre lang ausgebremst hat, möchten wir unbedingt live spielen, vor allem außerhalb Schwedens. Wer also Interesse hat: Meldet Euch bei uns! Wir kommen vorbei und spielen!
+**Aron:** Wir werden am 10. September unseren Release-Gig spielen. Dann werden wir das 1000Mods hier in Schweden eröffnen. Nächstes Jahr werden wir dann auf deutschen Festivals spielen, was großartig wird. Nach der Pandemie, die uns zwei Jahre lang ausgebremst hat, möchten wir unbedingt live spielen, vor allem außerhalb Schwedens. Wer also Interesse hat: Meldet Euch bei uns! Wir kommen vorbei und spielen!
 
 **Anne:** Danke, dass Du meine Fragen beantwortet hast! Ich wünsche Euch alles Gute für Eure Pläne und natürlich für den Release!
 
@@ -128,6 +123,15 @@ Mit "Mesmer" wollten wir zwischen all dem Chaos eine Atempause schaffen. Henrik 
 
 ## Solar – "Nomad"
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JJXT5N7i93ENo1RFutDKo?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe
+  style="border-radius:12px"
+  src="https://open.spotify.com/embed/track/5JJXT5N7i93ENo1RFutDKo?utm_source=generator"
+  width="100%"
+  height="380"
+  frameBorder="0"
+  allowfullscreen=""
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+></iframe>
 
-![Solár – "Atlas" | large](https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-jpeg-imagine-080808_1b1c17_4288_1660/640.webp "Solár")
+![Solár – "Atlas" | large](https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-jpeg-imagine-080808_1b1c17_4288_1660/640.webp 'Solár')

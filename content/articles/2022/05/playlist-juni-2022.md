@@ -5,14 +5,10 @@ typeName: Beitrag
 title: Playlist Juni 2022
 subTitle: Von Ambient bis Post-Hardcore
 seoTitle: 12 Songs für den Juni – von Ambient bis Post-Hardcore
-description: Die Playlist für den Monat Juni kommt mit 12 ganz besonderen
-  Stücken von Ambient bis Post-Hardcore.
-excerpt: Hallo Ihr Sommermenschen! Von mir hört Ihr im Moment nicht so viel, ich
-  weiß. Hier ist gerade eine ganze Menge los und ich finde nicht jeden Tag die
-  Zeit zum Bloggen. Die Musikliste für den Juni mit Euch zu teilen, lasse ich
-  mir natürlich trotzdem nicht entgehen. Und ich gelobe Besserung! Versprochen!
+description: Die Playlist für den Monat Juni kommt mit 12 ganz besonderen Stücken von Ambient bis Post-Hardcore.
+excerpt: Hallo Ihr Sommermenschen! Von mir hört Ihr im Moment nicht so viel, ich weiß. Hier ist gerade eine ganze Menge los und ich finde nicht jeden Tag die Zeit zum Bloggen. Die Musikliste für den Juni mit Euch zu teilen, lasse ich mir natürlich trotzdem nicht entgehen. Und ich gelobe Besserung! Versprochen!
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-26/12-songs-juni-jpg-imagine-080808_4e4e43_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-26/12-songs-juni-fb-jpg-imagine-080808_515249_1200_628/640.webp
 labels:
   - Post-Hardcore
@@ -51,9 +47,10 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Hallo Ihr Sommermenschen! Von mir hört Ihr im Moment nicht so viel, ich weiß. Hier ist gerade eine ganze Menge los und ich finde nicht jeden Tag die Zeit zum Bloggen. Die Musikliste für den Juni mit Euch zu teilen, lasse ich mir natürlich trotzdem nicht entgehen. Und ich gelobe Besserung! Versprochen!**
 
-An dieser Stelle entschuldige ich mich auch noch mal bei allen Bands, denen ich noch nicht auf ihre Anfragen geantwortet habe. Das hier ist einfach eine Ein-Mensch-Show und ich mache das neben meinem Vollzeitjob. Aber Ihr kennt das ja, Euch geht es ja auch so. 
+An dieser Stelle entschuldige ich mich auch noch mal bei allen Bands, denen ich noch nicht auf ihre Anfragen geantwortet habe. Das hier ist einfach eine Ein-Mensch-Show und ich mache das neben meinem Vollzeitjob. Aber Ihr kennt das ja, Euch geht es ja auch so.
 
 Hier ist jedenfalls schon mal eine kleine Auswahl musikalischer Juwelen, die diesen Monat besonders interessant sind. Bei der Auswahl für die Liste haben mich wie jeden Monat Matze und Valentin unterstützt. Die fertigen Playlists für iTunes und Spotify findet Ihr wie immer ganz unten. Los geht es wie immer mit den Videos plus Anmoderationen.
 
@@ -78,7 +75,7 @@ Weiter geht es mit einer weiteren Perle dieses Jahres (wenn Ihr mich fragt). Mat
 Valentin hat dieses Stück von Kirk Hammett auf die Liste gesetzt. Hier ist seine Lobhudelei:
 
 > "Das erste Soloprojekt eines Metallica-Mitglieds wirft einen meiner absoluten Lieblingsgitarristen, Kirk Hammett, in den Ring. Die EP "Portals" enthält vier Instrumentals, die er zwischen 2017 und 2020 in Hollywood, Paris und seiner Heimat Hawaii aufgenommen hat. Interessantes Personal hat Kirk auch dabei. Zwar hat er die Platte selbst produziert, beim Mix hat er sich den durchaus bekannten Metallica- und The Offspring Produzenten Bob Rock ins Boot geholt.'S&M 2' Dirigent Edwin Outwater hat das Orchester arrangiert.
-> 
+>
 > Musikalisch verbindet Kirk Hammett hier sein außerordentliches Gitarren(-solo)-Spiel mit seiner Vorliebe für klassische Musik und Horrorfilme. Hin und wieder hört man auch ein bisschen Ennio Morricone Filmmusik raus. Ich habe mich für das sehr spannende dritte Stück 'High Planes Drifter' entschieden. Leider ist dann nach 26 Minuten auch schon Schluss. Am liebsten würde ich immer weiter hören. Meinetwegen kann neben neuen Metallica-Alben gerne noch mehr von Kirk kommen. Ich hätte allerdings auch nichts gegen ein Country- und Bluesalbum von James Hetfield oder ein Mariachi-Album von Robert Trujiilo – Mal sehen, was kommt..."
 
 <YouTube id="zwOqs88cHWo" />
@@ -103,7 +100,7 @@ Weiter geht es mit Post-Punk aus Matzes Plattenbox:
 
 Das neue Album von Hiroe erscheint am 8. Juli auf Pelagic Records. Die erste Vorauskopplung "Black Mountain" verspricht Gutes. Die Band erzählt:
 
-> "Die Idee hinter 'The Approach' war ganz einfach der Wunsch danach, Gefühle und Emotionen mithilfe von Musik zum Ausdruck zu bringen. Viele von uns hatten während er Pandemie  Probleme damit und Fragen zu beantworten wie 'Wie sieht diese neue Welt aus?', 'Was tun wir hier', 'Wie bringen wir das hinter und?' und 'Wie werden wir das überstehen?'.
+> "Die Idee hinter 'The Approach' war ganz einfach der Wunsch danach, Gefühle und Emotionen mithilfe von Musik zum Ausdruck zu bringen. Viele von uns hatten während er Pandemie Probleme damit und Fragen zu beantworten wie 'Wie sieht diese neue Welt aus?', 'Was tun wir hier', 'Wie bringen wir das hinter und?' und 'Wie werden wir das überstehen?'.
 
 Die gediegene Post-Rock Atmosphäre zieht sich durch das komplette Album und schafft es hervorragend, die Gefühle der letzten zwei Jahre zum Ausdruck zu bringen – und noch sehr viel mehr. Ihr dürft Euch also freuen. Hier kommt für Euch die Vorauskopplung.
 
@@ -125,13 +122,25 @@ Klingt mystisch, oder? Ist es auch. Für die Band war das Projekt das bisher exp
 
 Breaths Gründer Jason meldete sich letzte Woche bei mir, um mir von der spontanen Veröffentlichung seines Ambient Albums zu berichten. Nicht nur, weil ich von ihm eigentlich härtere Töne gewohnt bin, war ich sehr gespannt darauf, mir die Platte anzuhören. Schließlich hatte er erst vor ein paar Tagen, kurz nach der Veröffentlichung seines [aktuellen Albums](/2021/10/breaths-though-life/) den Release der [gemeinsamen Split-EP mit Dimwind](/2022/04/playlist-mai-2022/) bekannt gegeben (Ja, ich bin immer noch stolz, dass die Platte entstanden ist, weil sich die Musiker⋆innen beider Projekte über mich kennengelernt hatten). Und was soll ich sagen? "Isolera" ist wirklich gut gelungen. Wenn ich ehrlich bin, möchte ich sogar noch mehr hören von dieser ruhigeren Seite des Post-Rock/Doomgaze Künstlers, den Ihr übrigens [hier im Interview](/2021/02/breaths-interview/) kennenlernen könnt. "Isolera" ist ein emotionales Paket voll blühender Soundtrack-Momente.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3897414028/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=3114902617/transparent=true/" seamless><a href="https://breaths.bandcamp.com/album/isolera">Isolera by BREATHS</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3897414028/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=3114902617/transparent=true/"
+  seamless
+>
+  <a href="https://breaths.bandcamp.com/album/isolera">Isolera by BREATHS</a>
+</iframe>
 
 ## Roseneath – "Say Never" (Vorauskopplung von der EP "Shine")
 
-Ihr werdet es nicht glauben, aber auch dieses Stück stammt von Breaths Gründer Jason. Die EP "Shine" hat er gemeinsam mit Brian G. aufgenommen. Auch diese Platte geht in eine andere Richtung, als sein Solo-Projekt Breaths. Die fünf Stücke spielen  sich zwischen Grunge, Shoegaze und Post-Hardcore ab. Wenn Ihr gerne Nirvana, Hum, Slow Crush, Modern Color, Quicksand, Failure und Teenage Wrist hört, ist jetzt also Euer Moment gekommen.
+Ihr werdet es nicht glauben, aber auch dieses Stück stammt von Breaths Gründer Jason. Die EP "Shine" hat er gemeinsam mit Brian G. aufgenommen. Auch diese Platte geht in eine andere Richtung, als sein Solo-Projekt Breaths. Die fünf Stücke spielen sich zwischen Grunge, Shoegaze und Post-Hardcore ab. Wenn Ihr gerne Nirvana, Hum, Slow Crush, Modern Color, Quicksand, Failure und Teenage Wrist hört, ist jetzt also Euer Moment gekommen.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2391740809/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://roseneath.bandcamp.com/album/shine">Shine by Roseneath</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=2391740809/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://roseneath.bandcamp.com/album/shine">Shine by Roseneath</a>
+</iframe>
 
 ## Anna Sage – "Sinner Ablaze" vom Album "Anna Sage"
 

@@ -5,14 +5,10 @@ typeName: Review
 title: '"Acid Air"'
 subTitle: Das neue Album von Magnus Josefsson
 seoTitle: '"Acid Air" von Magnus Josefsson – Ambient Review'
-description: Magnus Josefsson hat für Dezember sein erstes offizielles Album
-  unter seinem selbst gegründeten Label The Mirror Factory angekündigt. Ich habe
-  "Acid Air" schon gehört und möchte es hiermit empfehlen.
-excerpt: Magnus Josefsson hat für Dezember sein erstes offizielles Album unter
-  seinem selbst gegründeten Label The Mirror Factory angekündigt. Ich habe "Acid
-  Air" schon gehört und empfehle es Euch hiermit.
+description: Magnus Josefsson hat für Dezember sein erstes offizielles Album unter seinem selbst gegründeten Label The Mirror Factory angekündigt. Ich habe "Acid Air" schon gehört und möchte es hiermit empfehlen.
+excerpt: Magnus Josefsson hat für Dezember sein erstes offizielles Album unter seinem selbst gegründeten Label The Mirror Factory angekündigt. Ich habe "Acid Air" schon gehört und empfehle es Euch hiermit.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-jpg-imagine-080808_824e37_1024_768/640.webp
-copyrigt: Magnus Josefsson
+copyright: Magnus Josefsson
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-fb-png-imagine-080808_a15e42_1200_628/640.webp
 labels:
   - Post-Rock
@@ -63,7 +59,7 @@ Wobei es auch "Snow" in sich hat. Wenn ich die Augen schließe, kann ich die Sch
 
 Das nächste Stück "Ostrava" erzählt hoffnungsfroh von dem Sommer ohne Sorgen, auf den wir so sehnsüchtig warten. Den Abschluss macht dann das nächste Highlight der Platte "The Pond". Man könnte das Stück mit Worten wie klangvoll, vielfältig und organisch beschreiben. Man würde damit jedoch nicht mal andeuten, was unter der spiegelnden Oberfläche dieses vielfältigen Teichs schlummert.
 
-Magnus hat sein Album mit Gastmusiker⋆innen wie Christoffer Gunrup (The Amazing) an Bass und Gitarre und Sylvester Schlegel (The Ark) an der Lap-Steel-Gitarre, den Drums und den Synthesizern aufgenommen. 
+Magnus hat sein Album mit Gastmusiker⋆innen wie Christoffer Gunrup (The Amazing) an Bass und Gitarre und Sylvester Schlegel (The Ark) an der Lap-Steel-Gitarre, den Drums und den Synthesizern aufgenommen.
 
 Auch Magnus Olsson (Melissa Horn) könnt Ihr an den Drums hören, Andreas Stellan (Dungen) an den Synthesizern. Helen Phillips (Starry Skies from Glasgow) hat den Chorgesang beigesteuert. Das Mastering für die Platte hat Simon Scott (Slowdive) übernommen.
 
@@ -73,7 +69,7 @@ Auch Magnus Olsson (Melissa Horn) könnt Ihr an den Drums hören, Andreas Stella
 
 ## "The Map" – die erste Vorauskopplung
 
-Mit "The Map", der ersten Veröffentlichung von der Platte,  begann für den Künstler eine Reise, auf der er nicht nur seine Musik, sondern auch sich selbst besser kennenlernte.
+Mit "The Map", der ersten Veröffentlichung von der Platte, begann für den Künstler eine Reise, auf der er nicht nur seine Musik, sondern auch sich selbst besser kennenlernte.
 
 > "Der Song begann für mich als eine Entdeckungsreise, entwickelte sich dann aber zu einem Kompass für den Rest des Albums."
 
@@ -91,12 +87,24 @@ Das neue Album "Acid Air" erscheint Mitte November. Die ersten beiden Songs teil
 
 ## Magnus Josefsson – "December"
 
-<iframe src="https://open.spotify.com/embed/track/7xszkGtIHgsUV13hrLlrAd?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe
+  src="https://open.spotify.com/embed/track/7xszkGtIHgsUV13hrLlrAd?theme=0"
+  width="100%"
+  height="380"
+  frameBorder="0"
+  allowtransparency="true"
+  allow="encrypted-media"
+></iframe>
 
 ## Magnus Josefsson – "The Map"
 
-<iframe src="https://open.spotify.com/embed/album/4yVbtU1shhqshix3ep8rtb?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe
+  src="https://open.spotify.com/embed/album/4yVbtU1shhqshix3ep8rtb?theme=0"
+  width="100%"
+  height="380"
+  frameBorder="0"
+  allowtransparency="true"
+  allow="encrypted-media"
+></iframe>
 
-**Cover/Bild:** Nathalia van de Kerst<br /> 
-**Presse:** Tobias Isaksson, Aloaded
-
+**Cover/Bild:** Nathalia van de Kerst<br /> **Presse:** Tobias Isaksson, Aloaded

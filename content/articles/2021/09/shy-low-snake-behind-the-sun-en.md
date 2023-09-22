@@ -5,13 +5,9 @@ typeName: Review
 title: Shy, Low – "Snake Behind The Sun"
 subTitle: '"A Crazy Race"'
 seoTitle: Shy, Low – "Snake Behind The Sun" – Post-Metal Review
-description: Fans of bands like pg.lost, Thrice, Cult Of Luna and Russian
-  Circles should pay attention to this record review. There is an album coming
-  up on October 8th that you should definitely consider listening to. With their
-  new record, "Snake Behind The Sun", the Pelagic signed band Shy, Low really
-  hits the spot.
+description: Fans of bands like pg.lost, Thrice, Cult Of Luna and Russian Circles should pay attention to this record review. There is an album coming up on October 8th that you should definitely consider listening to. With their new record, "Snake Behind The Sun", the Pelagic signed band Shy, Low really hits the spot.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-jpg-imagine-080818_3c362b_1024_768/640.webp
-copyrigt: Shy, Low
+copyright: Shy, Low
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-fb-jpg-imagine-080818_312e28_1200_628/640.webp
 labels:
   - Post-Rock
@@ -38,17 +34,17 @@ languageLink: /2021/09/shy-low-snake-behind-the-sun/
 
 **Fans of bands like pg.lost, Thrice, Cult Of Luna and Russian Circles should pay attention to this record review. There is an album coming up on October 8th that you should definitely consider listening to. With their new record, "Snake Behind The Sun", the Pelagic signed band Shy, Low really hits the spot.**
 
-Shy, Low show other post-music acts how contrasty music should sound.  With the quartet from Richmond, Virginia, everything takes place between hard riffs and filigree melodies. The swelling tension that emerges, again and again, is glorious.
+Shy, Low show other post-music acts how contrasty music should sound. With the quartet from Richmond, Virginia, everything takes place between hard riffs and filigree melodies. The swelling tension that emerges, again and again, is glorious.
 
 ## Sophisticated songwriting
 
 ![Shy, Low – "Snake Behind The Sun"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/shylow1627286341508331-jpg-imagine-d82838_b4252e_440_440/640.webp "Shy, Low – \\"Snake Behind The Sun\\"")
 
-The album is solid and brutal –  You might say: Its sophisticated songwriting has put it to life. "Snake Behind The Sun" is great music for all those who like multi-layered, complex and groovy sounds without wanting to forego any heaviness.
+The album is solid and brutal – You might say: Its sophisticated songwriting has put it to life. "Snake Behind The Sun" is great music for all those who like multi-layered, complex and groovy sounds without wanting to forego any heaviness.
 
 Guitarist Zak Bryant also attributes the fact that the record turned out so good to the well-considered and extensive pre-production. He told Pelagic:
 
-> "We recorded the entire album at home before we went into the studio and reworked some of the songs several times. Only then were they entirely composed for us. 
+> "We recorded the entire album at home before we went into the studio and reworked some of the songs several times. Only then were they entirely composed for us.
 
 At that moment, producer and sound engineer Mike Watts (The Dillinger Escape Plan, Hopesfall, Tides of Man, GlassJaw) came into the picture:
 
@@ -56,7 +52,7 @@ At that moment, producer and sound engineer Mike Watts (The Dillinger Escape Pla
 
 ## Instrumental music at its best
 
-![Shy, Low](https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-1-jpg-imagine-181818_000000_768_1024/640.webp "Shy, Low")
+![Shy, Low](https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-1-jpg-imagine-181818_000000_768_1024/640.webp 'Shy, Low')
 
 The legendary drum room at Vudu Studios and drummer Dylan Partridge's work (he hadn't even been a permanent band member at the time) then did the rest. Zak continued:
 

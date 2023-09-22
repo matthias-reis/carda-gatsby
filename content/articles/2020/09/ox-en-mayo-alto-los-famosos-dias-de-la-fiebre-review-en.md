@@ -5,12 +5,10 @@ typeName: Review
 title: Ox en Mayo alto
 subTitle: '"Los famosos días de la fiebre"'
 seoTitle: Ox en Mayo alto – "Los famosos días de la fiebre"
-description: Today, I want to introduce a band to you that I am currently
-  discovering. It's the post-rock/post-hardcore/mathcore project Ox en Mayo alto
-  from Córdoba, Argentina.
-excerpt: ""
+description: Today, I want to introduce a band to you that I am currently discovering. It's the post-rock/post-hardcore/mathcore project Ox en Mayo alto from Córdoba, Argentina.
+excerpt: ''
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-09-ox-en-mayo-alto-1-l-jpeg-imagine-080808_21272d_1440_1080/640.webp
-copyrigt: Ox en Mayo Alto
+copyright: Ox en Mayo Alto
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-09-ox-en-mayo-alto-fb-png-l-jpg-imagine-181828_444943_1440_754/640.webp
 labels:
   - Argentinien

@@ -5,12 +5,9 @@ typeName: Review
 title: '"Pilgrimage Of The Soul"'
 subTitle: The New Mono Album
 seoTitle: '"Pilgrimage Of The Soul" by Mono – Post-Rock Review'
-description: Mono will release their new album "Pilgrimage Of The Soul" on
-  September 17th. The record is a real milestone of the ongoing music year. You
-  definitely shouldn't miss it. I figure out new details every time I listen to
-  it. I would like to reveal a few of them to you.
+description: Mono will release their new album "Pilgrimage Of The Soul" on September 17th. The record is a real milestone of the ongoing music year. You definitely shouldn't miss it. I figure out new details every time I listen to it. I would like to reveal a few of them to you.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/mono-pilgrimage-of-the-soul-jpg-imagine-080808_4c4e4b_1024_768/640.webp
-copyrigt: Mono Japan
+copyright: Mono Japan
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/mono-pilgrimage-of-the-soul-fb-png-imagine-080808_3b3d3c_1200_628/640.webp
 labels:
   - Mono
@@ -40,7 +37,7 @@ There are so many releases at the moment I can hardly keep up with listening to 
 
 "Pilgrimage Of The Soul" by Mono is a real highlight. I have listened to the record about 15 times over the last few weeks, and I figure out new details constantly. Every time I put it on the songs fascinate me more.
 
-I already presented the pre-released song, "Riptide", to you in the [August issue of my music list](/2021/08/playlist-september-2021/).  The piece is just a tiny stone within a giant colourful mosaic that couldn't be more fascinating.
+I already presented the pre-released song, "Riptide", to you in the [August issue of my music list](/2021/08/playlist-september-2021/). The piece is just a tiny stone within a giant colourful mosaic that couldn't be more fascinating.
 
 "Pilgrimage Of The Soul" is the eleventh studio album by our beloved post-rock legends from Japan. The band recorded it during the darkest phase of the Corona pandemic. Back then, in the summer of 2020, there was no ray of light. We didn't even have a clue that there would be such thing as a vaccination. No one knew what would happen next. Mono created this ray of light for us by recording this album.
 
@@ -54,7 +51,7 @@ Overall, "Pilgrimage Of The Soul" is a bit stormier than its predecessor, "Nowhe
 
 ## Hypnotic and fascinating
 
-I already told you about the opener "Riptide". It opens the door to the fantastic world of Mono. It starts with a hypnotic intro followed by a strong wall of hard drums, playful guitars and synthesizers. 
+I already told you about the opener "Riptide". It opens the door to the fantastic world of Mono. It starts with a hypnotic intro followed by a strong wall of hard drums, playful guitars and synthesizers.
 
 There is no time for a rest after the first track. "Imperfect Things" continues the search for light in a multi-layered way. Now it's time for the electronic elements I just told you about. They are like the golden glue in the porcelain that brings the work of art back to life – the beauty lies in imperfection. But, to be honest: The only thing that is really imperfect here is my amateurish try to describe this perfect song.
 
@@ -78,7 +75,7 @@ The highlight of the album is the track "Hold Infinity In The Palm Of Your Hand"
 
 Mono formed in Tokyo in 1999. Back then, their role models were bands like [Mogwai](/2021/03/as-the-love-continues-mogwai-en) and My Bloody Valentine and great composers like Ennio Morricone and Beethoven. Today they are one of the best-known bands in the experimental sector and have long since carved out their own place in the music world with their diverse and extensive discography. In addition, they inspire millions with their fascinating soundscapes.
 
-The contrasts on "Pilgrimage Of The Soul" reflect the last months in a very empathetic way – after anger comes hope, after sadness comes longing. 
+The contrasts on "Pilgrimage Of The Soul" reflect the last months in a very empathetic way – after anger comes hope, after sadness comes longing.
 
 Please listen to this album. I promise you won't regret it.
 

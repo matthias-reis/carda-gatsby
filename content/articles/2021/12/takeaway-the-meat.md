@@ -5,14 +5,10 @@ typeName: Beitrag
 title: Frisches Fleisch frei Haus
 subTitle: Veganer Werbespot aus Großbritannien sorgt für Wirbel
 seoTitle: Veganer Werbespot aus Großbritannien sorgt für Wirbel
-description: In Großbritannien sorgt jetzt ein veganer Werbespot für
-  Aufmerksamkeit, noch bevor er zum ersten Mal ausgestrahlt wurde.
-  Verantwortlich für den Clip sind die Vegan-Aktivist⋆innen von VIVA!.
-excerpt: In Großbritannien sorgt jetzt ein veganer Werbespot für Aufmerksamkeit,
-  noch bevor er zum ersten Mal ausgestrahlt wurde. Verantwortlich für den Clip
-  sind die Vegan-Aktivist⋆innen von VIVA!.
+description: In Großbritannien sorgt jetzt ein veganer Werbespot für Aufmerksamkeit, noch bevor er zum ersten Mal ausgestrahlt wurde. Verantwortlich für den Clip sind die Vegan-Aktivist⋆innen von VIVA!.
+excerpt: In Großbritannien sorgt jetzt ein veganer Werbespot für Aufmerksamkeit, noch bevor er zum ersten Mal ausgestrahlt wurde. Verantwortlich für den Clip sind die Vegan-Aktivist⋆innen von VIVA!.
 image: https://storage.googleapis.com/cardamonchai-media/2021-12-01/takeaway-the-meat-jpg-imagine-080818_4d3c36_1024_768/640.webp
-copyrigt: VIVA!
+copyright: VIVA!
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-12-01/takeaway-the-meat-fb-png-imagine-080818_483730_1200_628/640.webp
 labels:
   - Tierrechte
@@ -28,15 +24,16 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **In Großbritannien sorgt jetzt ein veganer Werbespot für Aufmerksamkeit, noch bevor er zum ersten Mal ausgestrahlt wurde. Verantwortlich für den Clip sind die Vegan-Aktivist⋆innen von VIVA!.**
 
 Der Vegan-Kurzfilm ist der erste, den die Hilfsorganisation bisher fürs britische Fernsehen produziert hat und er fällt definitiv auf. Geplant ist, ihn vor mehr als 16 Millionen Fernsehzuschauer⋆innen auszustrahlen.
 
-##  Ein Schwein in der Hauptrolle
+## Ein Schwein in der Hauptrolle
 
 Der Spot mit dem Namen "Takeaway the Meat" wurde zu dem Zweck gestaltet, Menschen dazu anzuregen, mehr über die Herkunft ihrer Lebensmittel nachzudenken. Die Hauptrolle spielt ein lebendes Schwein.
 
-In den insgesamt 30 Sekunden dreht sich alles ums Thema Speziesismus. Sprich: die verlorene Verbindung zwischen Tieren und dem Fleisch auf unserem Teller. Oder, wie es die Online-Enzyklopädie sagt: 
+In den insgesamt 30 Sekunden dreht sich alles ums Thema Speziesismus. Sprich: die verlorene Verbindung zwischen Tieren und dem Fleisch auf unserem Teller. Oder, wie es die Online-Enzyklopädie sagt:
 
 > "Die Anschauung, nach der der Mensch allen anderen Arten überlegen und daher berechtigt sei, deren Vertreter nach seinem Gutdünken zu behandeln."
 
@@ -46,7 +43,7 @@ Der Frage "[Warum wir Hunde lieben, Schweine essen und Kühe anziehen](/2019/03/
 
 Der TV-Spot zeigt ein Paar, das täglich Fleisch isst, bei der Entscheidung, welches Essen man sich heute mal liefern lassen könnte. Sie kuscheln gemeinsam mit ihrem Hund auf der Couch. Schließlich entscheiden sie sich dazu, über die App "Just Meat" (die hierzulande wohl bekannteste Liefer-App Lieferando heißt in England "Just Eat"), Pulled Pork zu ordern.
 
-Als die Lieferung kurze Zeit später eintrifft, rennen die beiden gespannt an die Tür und wollen ihren Augen kaum trauen: Neben dem Lieferfahrer, der ein großes Schlachtermesser in seiner Hand hält, steht ein Schwein. Er begrüßt seine Kund⋆innen mit den Worten 
+Als die Lieferung kurze Zeit später eintrifft, rennen die beiden gespannt an die Tür und wollen ihren Augen kaum trauen: Neben dem Lieferfahrer, der ein großes Schlachtermesser in seiner Hand hält, steht ein Schwein. Er begrüßt seine Kund⋆innen mit den Worten
 
 > "Pures Fleisch, frisch und frei Haus geliefert".
 

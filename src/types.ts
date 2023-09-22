@@ -26,6 +26,7 @@ export type Frontmatter = {
   advertisement?: boolean;
   affiliate?: boolean;
   productsProvided?: boolean;
+  copyright?: string;
 };
 
 export type Article = {

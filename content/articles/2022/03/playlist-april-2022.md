@@ -5,15 +5,10 @@ typeName: Beitrag
 title: Playlist April 2022
 subTitle: Von Foo Fighters bis Tool
 seoTitle: Alternative Musikliste für den April – Von Foo Fighters bis Tool
-description: Von And So I Watch You From Afar über Foo Fighter und Tool bis hin
-  zu The Ocean & Lustmord haben wir wieder 12 ganz besondere Songs für Euch
-  selektiert, die diesen Monat auf der Musikliste gelandet sind.
-excerpt: Die Songs für den Monat April stehen bereit und warten darauf, von Euch
-  gehört zu werden. Gemeinsam mit meinen beiden Lieblings-Musik-Fans habe ich
-  wieder 12 Stücke aus den unterschiedlichsten Genres ausgewählt. Von Post-Rock
-  bis Progressive Metal und von And So I Watch You From Afar bis Foo Fighters.
+description: Von And So I Watch You From Afar über Foo Fighter und Tool bis hin zu The Ocean & Lustmord haben wir wieder 12 ganz besondere Songs für Euch selektiert, die diesen Monat auf der Musikliste gelandet sind.
+excerpt: Die Songs für den Monat April stehen bereit und warten darauf, von Euch gehört zu werden. Gemeinsam mit meinen beiden Lieblings-Musik-Fans habe ich wieder 12 Stücke aus den unterschiedlichsten Genres ausgewählt. Von Post-Rock bis Progressive Metal und von And So I Watch You From Afar bis Foo Fighters.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-29/12-songs-april-jpg-imagine-080808_52464e_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-30/12-songs-april-fb-png-imagine-080808_564851_1200_628/640.webp
 labels:
   - Musikliste
@@ -45,6 +40,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Die Songs für den Monat April stehen bereit und warten darauf, von Euch gehört zu werden. Gemeinsam mit meinen beiden Lieblings-Musik-Fans habe ich wieder 12 Stücke aus den unterschiedlichsten Genres ausgewählt. Von Post-Rock bis Progressive Metal. Die fertigen Playlists für Spotify und iTunes findet Ihr wie immer ganz unten im Anschluss an die Videos. Wir wünschen Euch viel Spaß beim Hören!**
 
 ---

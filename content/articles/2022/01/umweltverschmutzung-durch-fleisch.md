@@ -5,15 +5,10 @@ typeName: Beitrag
 title: Studie zeigt Gefahr der Umweltverschmutzung durch Fleischindustrie
 subTitle: Fleischproduktion in China für 90.000 umweltbedingte Todesfälle verantwortlich
 seoTitle: Studie zeigt Gefahr der Umweltverschmutzung durch Fleischindustrie
-description: Einer aktuellen Studie zufolge hat der steigende Fleischkonsum in
-  China zu einem Anstieg der frühzeitigen Todesfälle geführt.  Die Forschenden
-  führen das auf die schädlichen Auswirkungen der Tierhaltung zurück.
-excerpt: Einer aktuellen Studie zufolge hat der steigende Fleischkonsum in China
-  zu einem Anstieg der frühzeitigen Todesfälle geführt.  Die Forschenden führen
-  das auf die schädlichen Auswirkungen der Tierhaltung zurück. Besonders
-  auffällig ist dabei die Verschmutzung durch Ammoniak.
+description: Einer aktuellen Studie zufolge hat der steigende Fleischkonsum in China zu einem Anstieg der frühzeitigen Todesfälle geführt.  Die Forschenden führen das auf die schädlichen Auswirkungen der Tierhaltung zurück.
+excerpt: Einer aktuellen Studie zufolge hat der steigende Fleischkonsum in China zu einem Anstieg der frühzeitigen Todesfälle geführt.  Die Forschenden führen das auf die schädlichen Auswirkungen der Tierhaltung zurück. Besonders auffällig ist dabei die Verschmutzung durch Ammoniak.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-04/luftverschmutzung-jpg-imagine-181818_2c2a29_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-04/luftverschmutzung-fb-png-imagine-181818_282726_1200_628/640.webp
 labels:
   - Fleisch
@@ -27,6 +22,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Einer aktuellen Studie zufolge hat der steigende Fleischkonsum in China zu einem Anstieg der frühzeitigen Todesfälle geführt.  Die Forschenden führen das auf die schädlichen Auswirkungen der Tierhaltung zurück. Besonders auffällig ist dabei die Verschmutzung durch Ammoniak.**
 
 Die Studie ist das Resultat einer Zusammenarbeit der chinesischen Universität in England und der University of Exeter. Das Nature Food Journal veröffentlichte die Ergebnisse im Dezember 2021.
@@ -70,7 +66,6 @@ Die neue Studie ist nicht die erste Arbeit, in der anthropogene Verschmutzung mi
 In China wurden die Menschen im Anschluss an die Studie dazu aufgerufen, ihre Ernährung zu überdenken. Ob und wie weit  sich das positiv auf die Gesundheit des Planeten auswirkt, wird die Zeit zeigen. Fakt ist, dass auch hierzulande endlich ein Umdenken erfolgen muss, wenn wir wirklich etwas für das Klima und die Rechte der Tiere erreichen wollen.
 
 [^1]: [Bericht in der South China Morning Post](https://www.scmp.com/news/hong-kong/health-environment/article/3161318/eating-less-meat-can-help-reduce-75000-premature)
-
 [^2]: [UN-Report](https://www.unep.org/resources/global-environment-outlook-6?_ga=2.134536561.1634057371.1641228843-1321796382.1641228843)
 
 Bild: [Engin_Akyurt](https://pixabay.com/photos/coronavirus-mask-virus-quarantine-4994026/), pixabay

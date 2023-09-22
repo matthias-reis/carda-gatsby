@@ -5,11 +5,9 @@ typeName: Review
 title: Sel Balamir – "Swell"
 subTitle: Ein besonderes Lockdown-Solo-Album
 seoTitle: Sel Balamir – "Swell" – Ein besonderes Lockdown-Solo-Album
-description: Sel Balamir, Amplifier Gründer Sänger und Gitarrist, meldet sich
-  mit einer Solo-Platte zurück. Die Veröffentlichung von "Swell" hat er für den
-  6. September angekündigt. Reinhören könnt Ihr jetzt schon.
+description: Sel Balamir, Amplifier Gründer Sänger und Gitarrist, meldet sich mit einer Solo-Platte zurück. Die Veröffentlichung von "Swell" hat er für den 6. September angekündigt. Reinhören könnt Ihr jetzt schon.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sel-balamir-swell-jpg-imagine-183878_4174a4_1024_768/640.webp
-copyrigt: Sel Balamir
+copyright: Sel Balamir
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sel-balamir-swell-fb-png-imagine-183878_4d78a9_1200_628/640.webp
 labels:
   - Sel Balamir
@@ -53,7 +51,13 @@ Der erste Song "Swell" ist mit einer respektablen Spielzeit von 20:42 das längs
 
 Seine neuen Stücke "Swell", "Jaques Cousteau" und "Seagul" könnt Ihr hier schon anhören:
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2547524849/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://selbalamir.bandcamp.com/album/swell">Swell by Sel Balamir</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=2547524849/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://selbalamir.bandcamp.com/album/swell">Swell by Sel Balamir</a>
+</iframe>
 
 Wenn Ihr Jaques Cousteaus Unterwasser-Welt liebt, und Euch Bilder zu Sel Balamirs neuer Musik wünscht, empfiehlt er Euch dieses passende Video dazu:
 

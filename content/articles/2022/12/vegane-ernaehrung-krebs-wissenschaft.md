@@ -5,15 +5,10 @@ typeName: Beitrag
 title: Schützt vegane Ernährung vor Krebs?
 subTitle: Das sagt die Wissenschaft
 seoTitle: Kann ich mich mit veganer Ernährung vor Krebs schützen?
-description: "Die Beweise verdichten sich immer mehr: Vegane Ernährung kann vor
-  Krebserkrankungen schützen. Jetzt erfahren, was die Forscher sagen!"
-excerpt: "Nun verdichten sich die Beweise einer neuen Studie zufolge weiter:
-  Vegane Ernährung kann vor Krebserkrankungen schützen. BMC Medicine
-  veröffentlichte die Ergebnisse der Untersuchung jetzt. Sie zeigen unter
-  anderem, dass pflanzliche Kost das Risiko von Darmkrebserkrankungen bei
-  Männern um 22 Prozent senken kann."
+description: 'Die Beweise verdichten sich immer mehr: Vegane Ernährung kann vor Krebserkrankungen schützen. Jetzt erfahren, was die Forscher sagen!'
+excerpt: 'Nun verdichten sich die Beweise einer neuen Studie zufolge weiter: Vegane Ernährung kann vor Krebserkrankungen schützen. BMC Medicine veröffentlichte die Ergebnisse der Untersuchung jetzt. Sie zeigen unter anderem, dass pflanzliche Kost das Risiko von Darmkrebserkrankungen bei Männern um 22 Prozent senken kann.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-09/vegane-ernaehrung-krebs-schutz-jpg-imagine-180808_735730_4608_3456/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-09/vegane-ernaehrung-krebs-schutz-og-jpg-imagine-180808_7c5e37_1200_628/640.webp
 labels:
   - Ernährung & Gesunheit
@@ -28,13 +23,14 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Nun verdichten sich die Beweise einer neuen Studie zufolge weiter: Vegane Ernährung kann vor Krebserkrankungen schützen. BMC Medicine veröffentlichte die Ergebnisse der Untersuchung jetzt. Sie zeigen unter anderem, dass pflanzliche Kost das Risiko von Darmkrebserkrankungen bei Männern um 22 Prozent senken kann.**
 
 Wer auf gesunde, vollwertige, vegane Kost setzt, kann sich vor Darmkrebs schützen. Das sagen die Herausgeber⋆innen der Studie[^1]. Laut ihnen handelt es sich bei Darmkrebs um die dritthäufigste Krebserkrankung weltweit – einer von 23 Männern sowie eine von 25 Frauen erkranken einmal in ihrem Leben daran.
 
 ## Schutz vor Darmkrebs durch gesunde, pflanzliche Ernährung
 
-> "Obwohl frühere Forschungen darauf hindeuten, dass pflanzliche Ernährung eine Rolle bei der Vorbeugung von Darmkrebs spielen könnte, war die Auswirkung der Nährstoffqualität pflanzlicher Lebensmittel auf diesen Zusammenhang bisher unklar. Nun deuten auch unsere Ergebnisse klar darauf hin, dass der Verzehr einer gesunden pflanzlichen Ernährung mit einem geringeren Darmkrebsrisiko verbunden ist", 
+> "Obwohl frühere Forschungen darauf hindeuten, dass pflanzliche Ernährung eine Rolle bei der Vorbeugung von Darmkrebs spielen könnte, war die Auswirkung der Nährstoffqualität pflanzlicher Lebensmittel auf diesen Zusammenhang bisher unklar. Nun deuten auch unsere Ergebnisse klar darauf hin, dass der Verzehr einer gesunden pflanzlichen Ernährung mit einem geringeren Darmkrebsrisiko verbunden ist",
 
 sagte Jihye Kim, eine der Autor⋆innen der Studie, in einer Meldung an die Presse.
 
@@ -56,7 +52,7 @@ Die Teilnehmenden gaben zunächst an, welche Nahrungsmittel (einschließlich Get
 
 Bei ihren Berechnungen betrachteten die Wissenschaftler⋆innen unter anderem auch das Alter, die familiäre Vorbelastung mit Darmkrebs, den Tabakkonsum, die Einnahme von Multivitamin-Präparaten sowie den BMI der Proband⋆innen. Bei den weiblichen Teilnehmenden bezogen sie zudem die Anwendung von Hormonersatzpräparaten mit in ihre Forschungen ein. Etwa 2,9 Prozent (4.976) der Proband⋆innen erkrankten im Laufe der Studie an Darmkrebs.
 
-Die aktuelle Studie untermauert die wachsende Gewissheit darüber, dass sich eine gesunde, pflanzliche Ernährung auf das Krebsrisiko auswirkt. Weitere wissenschaftliche Arbeiten kommen immer wieder zu ähnlichen Ergebnissen. 
+Die aktuelle Studie untermauert die wachsende Gewissheit darüber, dass sich eine gesunde, pflanzliche Ernährung auf das Krebsrisiko auswirkt. Weitere wissenschaftliche Arbeiten kommen immer wieder zu ähnlichen Ergebnissen.
 
 ## Weitere Studien zeigen: Vegane Kost kann zur Krebsprävention beitragen
 
@@ -68,7 +64,7 @@ Die ausgewerteten Studien umfassen Daten von 3.059.009 Proband⋆innen. Den Wiss
 
 ## Wissenschaftliche Erkenntnisse zum Fleischkonsum
 
-Auch die Tatsache, dass Fleischkonsum im Umkehrschluss in direktem Zusammenhang mit Krebserkrankungen genannt werden kann, wurde inzwischen wissenschaftlich immer wieder belegt. Hierzu ist unter anderem im Oktober eine Arbeit[^3] auf nature.com erschienen. Diese kommt zu dem Schluss, dass die Charakterisierung der potenziellen gesundheitlichen Auswirkungen von Risikofaktoren wie dem Verzehr von rotem Fleisch ist, für die Gesundheitspolitik und -praxis von wesentlicher Bedeutung sind. 
+Auch die Tatsache, dass Fleischkonsum im Umkehrschluss in direktem Zusammenhang mit Krebserkrankungen genannt werden kann, wurde inzwischen wissenschaftlich immer wieder belegt. Hierzu ist unter anderem im Oktober eine Arbeit[^3] auf nature.com erschienen. Diese kommt zu dem Schluss, dass die Charakterisierung der potenziellen gesundheitlichen Auswirkungen von Risikofaktoren wie dem Verzehr von rotem Fleisch ist, für die Gesundheitspolitik und -praxis von wesentlicher Bedeutung sind.
 
 Eine diesen Februar von BMC Medicine veröffentlichte Studie[^4] bestätigt das. Darin heißt es unter anderem:
 
@@ -78,10 +74,7 @@ Eine diesen Februar von BMC Medicine veröffentlichte Studie[^4] bestätigt das.
 
 Bei einer solchen Vielzahl an gesundheitlichen Argumente, zusätzlich zu den beiden Hauptargumenten, "[Keine Tiere müssen für mein Essen leiden](/tag/tierrechte)" und "[Ich betreibe durch meine Ernährungsweise aktiv Klimaschutz](/2017/02/klimaschutz-und-vegane-ernaehrung/)" fällt es da doch schwer, nicht ab heute vegan zu leben, oder?
 
-[^1]: [BMC Medicine– "Plant-based dietary patterns defined by a priori indices and colorectal cancer risk by sex and race/ethnicity: the Multiethnic Cohort Study"](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02623-7)
-
-[^2]: [Frontiers of Public Health – The Relationship Between Plant-Based Diet and Risk of Digestive System Cancers: A Meta-Analysis Based on 3,059,009 Subjects](https://pubmed.ncbi.nlm.nih.gov/35719615/)
-
+[^1]: [BMC Medicine– "Plant-based dietary patterns defined by a priori indices and colorectal cancer risk by sex and race/ethnicity: the Multiethnic Cohort Study"](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02623-7)
+[^2]: [Frontiers of Public Health – The Relationship Between Plant-Based Diet and Risk of Digestive System Cancers: A Meta-Analysis Based on 3,059,009 Subjects](https://pubmed.ncbi.nlm.nih.gov/35719615/)
 [^3]: [nature.com – Health effects associated with consumption of unprocessed red meat: a Burden of Proof study](https://www.nature.com/articles/s41591-022-01968-z)
-
-[^4]: [BMC Medicine – Science Media Centre – "Expert reaction to study looking at eating meat and risk of cancer"](https://www.sciencemediacentre.org/expert-reaction-to-study-looking-at-eating-meat-and-risk-of-cancer/)
+[^4]: [BMC Medicine – Science Media Centre – "Expert reaction to study looking at eating meat and risk of cancer"](https://www.sciencemediacentre.org/expert-reaction-to-study-looking-at-eating-meat-and-risk-of-cancer/)

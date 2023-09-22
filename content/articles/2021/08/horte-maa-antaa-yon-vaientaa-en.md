@@ -5,11 +5,9 @@ typeName: Review
 title: Horte "Maa antaa yon vaientaa"
 subTitle: Psychedelic Shoegaze From Finnland
 seoTitle: Horte "Maa antaa yon vaientaa" – Psychedelic Shoegaze From Finnland
-description: Psychedelic shoegaze sound with a strong woman at the microphone –
-  If this is your cup of tea, you should definitely carry on reading. Horte's
-  new album is so much more than just this. Here are all the details about it.
+description: Psychedelic shoegaze sound with a strong woman at the microphone – If this is your cup of tea, you should definitely carry on reading. Horte's new album is so much more than just this. Here are all the details about it.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/horte-horte-maa-antaa-yon-vaientaa-jpg-imagine-181818_000000_1024_768/640.webp
-copyrigt: Horte
+copyright: Horte
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/horte-horte-maa-antaa-yon-vaientaa-fb-jpg-imagine-282828_000000_1200_628/640.webp
 labels:
   - Experimental
@@ -40,7 +38,7 @@ languageLink: /2021/08/horte-maa-antaa-yon-vaientaa/
 
 By the way, singer Riikka recorded all lyrics in Finnish. But that doesn't matter at all to those of us who don't understand this beautiful language. The important thing is the feelings that Horte convey, and they are tremendous – I promise you that.
 
-![Horte – "Maa antaa yon vaientaa"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/horte-horte-maa-antaa-yon-vaientaa-jpeg-imagine-787878_696f73_440_440/640.webp "Horte – \\\"Maa antaa yon vaientaa\\\"")
+![Horte – "Maa antaa yon vaientaa"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/horte-horte-maa-antaa-yon-vaientaa-jpeg-imagine-787878_696f73_440_440/640.webp 'Horte – "Maa antaa yon vaientaa"')
 
 The total of seven songs is very tricky to put into words. Distorted soundscapes and dreamlike synthy sequences tell of a world that stands above things – worn and casual at the same time, without unnecessary ornaments and kitsch, but definitely multi-layered.
 
@@ -58,4 +56,4 @@ If that sounds exciting to you, you can listen to the album now; Pelagic Records
 
 <YouTube id="yEnb51a2c_o" />
 
-![Horte – "Maa antaa yon vaientaa" | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/horte-png-imagine-080808_354554_800_535/640.webp "Horte – \\\"Maa antaa yon vaientaa\\\" | large")
+![Horte – "Maa antaa yon vaientaa" | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/horte-png-imagine-080808_354554_800_535/640.webp 'Horte – "Maa antaa yon vaientaa" | large')

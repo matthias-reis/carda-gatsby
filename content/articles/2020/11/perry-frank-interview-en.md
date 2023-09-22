@@ -5,12 +5,9 @@ typeName: Interview
 title: Perry Frank
 subTitle: '"Nature Is An Essential Part Of My Music"'
 seoTitle: Perry Frank – "Nature Is An Essential Part Of My Music"
-description: Francesco Perra started his ambient/post-rock/acoustic/psychedelic
-  project, Perry Frank, in 2005. From that day on, the Sardinian musician dived
-  into music and released several pieces. I now interviewed him to get to know
-  him and his art better.
+description: Francesco Perra started his ambient/post-rock/acoustic/psychedelic project, Perry Frank, in 2005. From that day on, the Sardinian musician dived into music and released several pieces. I now interviewed him to get to know him and his art better.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-11-perry-frank-l-jpeg-imagine-080808_161616_1440_1080/640.webp
-copyrigt: Perry Frank
+copyright: Perry Frank
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-11-perry-frank-fb-png-l-jpg-imagine-080808_181818_1440_754/640.webp
 labels:
   - Ambient

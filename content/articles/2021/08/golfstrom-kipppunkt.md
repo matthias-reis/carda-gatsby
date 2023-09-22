@@ -5,13 +5,9 @@ typeName: Beitrag
 title: Der Golfstrom steht vor dem Kipppunkt
 subTitle: Beschleunigt sich die Klimakatastrophe?
 seoTitle: Golfstrom am Kipppunkt – beschleunigt sich die Klimakatastrophe?
-description: "Die Klimaforscher⋆innen warnen schon lange davor, jetzt passiert
-  es: Der Golfstrom steht vor dem Kipppunkt. Die Meeresströmungen im Atlantik
-  schwächen sich ab. Aus einer aktuellen Studie geht hervor, dass die
-  Kettenreaktion nicht mehr weit entfernt ist. Wenn es so weit ist, wird das
-  extreme Folgen haben."
+description: 'Die Klimaforscher⋆innen warnen schon lange davor, jetzt passiert es: Der Golfstrom steht vor dem Kipppunkt. Die Meeresströmungen im Atlantik schwächen sich ab. Aus einer aktuellen Studie geht hervor, dass die Kettenreaktion nicht mehr weit entfernt ist. Wenn es so weit ist, wird das extreme Folgen haben.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kipppunkte-jpg-imagine-e8f8f8_6d92a4_1024_768/640.webp
-copyrigt: Dassel, pixabay
+copyright: Dassel, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kipppunkte-fb-jpg-imagine-e8f8f8_6b8d9f_1200_628/640.webp
 labels:
   - Golfstrom
@@ -40,7 +36,7 @@ Im letzten Jahrhundert hat die natürliche Zirkulation im Atlantik nachgelassen.
 
 Herausgefunden hat das der Klimaforscher Niklas Boers[^1] vom Institut für Klimafolgenforschung (PIK) in Potsdam[^2]. Seine Studie wurde auf der Seite des Nature Magazins[^3] veröffentlicht.
 
-Der Golfstrom sorgt dafür, dass das Klima in Europa so ist, wie es ist. Er bestimmt die Jahreszeiten und sorgt dafür, dass es bei uns warm wird. Das funktioniert so: 
+Der Golfstrom sorgt dafür, dass das Klima in Europa so ist, wie es ist. Er bestimmt die Jahreszeiten und sorgt dafür, dass es bei uns warm wird. Das funktioniert so:
 
 Der Strom gehört zur Atlantischen Meridionalen Umwälzzirkulation (AMOC), die warmes Salzwasser an der Oberfläche des Meeres richtig Norden spült. Das kühlere Wasser bleibt in der Tiefe. Diese natürliche Umwelzbewegung kann laut den Forscher⋆innen in zwei Richtungen umschlagen. Sie kann zu einer starken Kreisbewegung werden, oder zu einer schwachen. Das wird im Moment ziemlich genau beobachtet.
 
@@ -72,9 +68,9 @@ Das sollte uns auf jeden Fall zu denken geben. Im Moment befinden sie sich berei
 
 ## Hochwasser und Waldbrände sind Zeichen der drohenden Klimakatastrophe
 
-Wenn der Golfstrom stoppt, droht der Kollaps. Länder wie Südamerika, Indien und Westafrika würden durch Dürre Hungersnot drohen und auch der Regenwald im Amazons-Gebiet wäre in Gefahr. [Hochwasser](/2021/07/tiere-als-hochwasser-opfer/) auf der einen Seite, Waldbrände auf der anderen Seite – ganze Länder könnten dadurch unbewohnbar werden. 
+Wenn der Golfstrom stoppt, droht der Kollaps. Länder wie Südamerika, Indien und Westafrika würden durch Dürre Hungersnot drohen und auch der Regenwald im Amazons-Gebiet wäre in Gefahr. [Hochwasser](/2021/07/tiere-als-hochwasser-opfer/) auf der einen Seite, Waldbrände auf der anderen Seite – ganze Länder könnten dadurch unbewohnbar werden.
 
-Boers berichtet: 
+Boers berichtet:
 
 > "Ich hätte die bereits sichtbaren Anzeichen einer Destabilisierung nicht so schnell erwartet. Ich finde das sehr beängstigend. Das ist etwas, wobei man einfach nicht tatenlos zusehen darf."
 
@@ -88,6 +84,6 @@ Mehr über die Kipppunkte erfahrt Ihr unter anderem auch im Buch ["Handeln statt
 
 Bild/picture: Schmelzender Eisberg vor Grönland/Melting iceberg off Greenland [Dassel](https://pixabay.com/photos/iceberg-ice-greenland-frozen-cold-4498548/), pixabay
 
-[^1]:[Climate Change](https://www.nature.com/articles/s41586-018-0872-x)
-[^2]:[Niklas Boers, PIK](https://www.pik-potsdam.de/members/boers)
-[^3]:[Institut für Klimafolgenforschung (PIK) Potsdam](https://www.pik-potsdam.de/en)
+[^1]: [Climate Change](https://www.nature.com/articles/s41586-018-0872-x)
+[^2]: [Niklas Boers, PIK](https://www.pik-potsdam.de/members/boers)
+[^3]: [Institut für Klimafolgenforschung (PIK) Potsdam](https://www.pik-potsdam.de/en)

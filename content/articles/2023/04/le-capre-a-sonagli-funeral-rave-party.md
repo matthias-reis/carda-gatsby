@@ -5,14 +5,10 @@ typeName: Review
 title: Le Capre A Sonagli – "Funeral Rave Party"
 subTitle: Psychedelic Experimental Sounds made in Italy
 seoTitle: Psychedelic Experimental Sounds made in Italy
-description: '"Funeral Rave Party" by Le Capre A Sonagli is the most
-  inspirational psychedelic record of the month. Check it out here!'
-excerpt: "\"Funeral Rave Party\" doesn't just sound like the essence of the two
-  musical styles that probably inspired me the most in the early 2,000s. It's
-  the name of the first EP with English lyrics by the Italian psychedelic band
-  Le Capre A Sonagli."
+description: '"Funeral Rave Party" by Le Capre A Sonagli is the most inspirational psychedelic record of the month. Check it out here!'
+excerpt: '"Funeral Rave Party" doesn''t just sound like the essence of the two musical styles that probably inspired me the most in the early 2,000s. It''s the name of the first EP with English lyrics by the Italian psychedelic band Le Capre A Sonagli.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-2-jpg-imagine-080808_2b272a_800_600/640.webp
-copyrigt: Le Capre A Sonagli
+copyright: Le Capre A Sonagli
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-og-jpg-imagine-080808_211c1f_1200_628/640.webp
 labels:
   - Le Capre A Sonagli
@@ -29,6 +25,7 @@ affiliate: false
 language: en
 languageLink: /2023/04/le-capre-a-sonagli-funeral-rave-party/
 ---
+
 **"Funeral Rave Party" doesn't just sound like the essence of the two musical styles that probably inspired me the most in the early 2,000s. It's the name of the first EP with English lyrics by the Italian psychedelic band Le Capre A Sonagli.**
 
 After enjoying some advanced education in sound engineering and production after their last recording, the artists produced their newest record entirely by themselves. Their goal was to shape everything with their own hands, to rediscover the universe and its complexity in physics and numbers. And it seems their experiment led them to success.
@@ -37,7 +34,7 @@ For the band, "Funeral Rave Party" is one thing above all: a psychedelic-rhythmi
 
 ## A psychedelic journey alongside river Styx
 
-![Le Capre A Sonagli – "Funeral Rave Party" (A dark, abstract, AI-generated picture showing four humans standing in the middle of two trees)](https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-1-jpg-imagine-080808_151208_800_800/640.webp "Le Capre A Sonagli")
+![Le Capre A Sonagli – "Funeral Rave Party" (A dark, abstract, AI-generated picture showing four humans standing in the middle of two trees)](https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-1-jpg-imagine-080808_151208_800_800/640.webp 'Le Capre A Sonagli')
 
 With their songs, they follow the currents of the river Styx through the dark of the abyss, telling stories from their nightmares. So the band name (en: "rattlesnake goats") fits perfectly into this world.
 
@@ -59,7 +56,7 @@ Before the final chord, "Exit" sets another rave-like statement. The band intend
 
 Le Capre A Sonagli officially formed on April 1st 2011, when they released their EP "Le Capre A Sonagli"—which they performed live on stage as an opening act for the Asian Dub Foundation.
 
-In October 2012, the project released its first full-length album, which the music press liked a lot. Then, in April 2013, they reached the finals of Arezzo Wave, and in October 2013, they won the award in the category "best self-production" at the Italian independent music prize PIMI. 
+In October 2012, the project released its first full-length album, which the music press liked a lot. Then, in April 2013, they reached the finals of Arezzo Wave, and in October 2013, they won the award in the category "best self-production" at the Italian independent music prize PIMI.
 
 At the beginning of summer 2014, Le Capre A Sonagli secluded themselves in the studio. When they came out again in March 2015, they had their album, "The Fauno", on which they combined blues and lo-fi with woozy dream sequences, ready to share with the world.
 

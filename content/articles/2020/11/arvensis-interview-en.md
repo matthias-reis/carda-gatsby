@@ -5,12 +5,9 @@ typeName: Interview
 title: Arvensis
 subTitle: '"My Ideas Come From Within"'
 seoTitle: Interview With Arvensis Founder Dani – "My Ideas Come From Within"
-description: Arvensis is an experimental ambient project on the Merigold
-  Independent label. It's avant-garde sounding tones seem to come from a foreign
-  world. Because the project fascinates me so much, I arranged an interview with
-  founder Dani Laubscher.
+description: Arvensis is an experimental ambient project on the Merigold Independent label. It's avant-garde sounding tones seem to come from a foreign world. Because the project fascinates me so much, I arranged an interview with founder Dani Laubscher.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-11-arvensis-l-jpeg-imagine-180808_380a0a_1440_1080/640.webp
-copyrigt: Dani Laubscher
+copyright: Dani Laubscher
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-11-arvensis-fb-png-l-jpg-imagine-080808_320b0a_1440_754/640.webp
 labels:
   - Ambient

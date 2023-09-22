@@ -5,16 +5,10 @@ typeName: Filmtipp
 title: '"Tierleid vom Fließband"'
 subTitle: Greift die Tierrechtsdoku zu kurz?
 seoTitle: '"Tierleid vom Fließband" – Alles über die Tierrechtsdoku'
-description: 'Die Tierrechtsdoku: "Tierleid vom Fließband" zeigt, wie es den
-  Tieren in der Massentierhaltung ergeht. Erfahrt jetzt alles über den Film und
-  was Animal Equality davon hält!'
-excerpt: 'In der Mediathek des Fernsehsenders ARTE gibt es seit Kurzem die
-  Tierrechtsdoku: "Tierleid vom Fließband". Im Film geht es darum, dass weltweit
-  jährlich 70 Milliarden Tiere für den Verzehr geschlachtet werden – und wie es
-  ihnen ergeht. Die Tierrechtsorganisation Animal Equality freut sich über die
-  Dokumentation und warnt zugleich davor, dass sie zu kurz greift.'
+description: 'Die Tierrechtsdoku: "Tierleid vom Fließband" zeigt, wie es den Tieren in der Massentierhaltung ergeht. Erfahrt jetzt alles über den Film und was Animal Equality davon hält!'
+excerpt: 'In der Mediathek des Fernsehsenders ARTE gibt es seit Kurzem die Tierrechtsdoku: "Tierleid vom Fließband". Im Film geht es darum, dass weltweit jährlich 70 Milliarden Tiere für den Verzehr geschlachtet werden – und wie es ihnen ergeht. Die Tierrechtsorganisation Animal Equality freut sich über die Dokumentation und warnt zugleich davor, dass sie zu kurz greift.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-26/tierleid-vom-fliessband-arte-jpg-imagine-888888_9a9390_1024_768/640.webp
-copyrigt: ARTE France
+copyright: ARTE France
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-26/tierleid-vom-fliessband-arte-og-jpg-imagine-888888_938c8a_1200_628/640.webp
 labels:
   - ARTE France
@@ -28,13 +22,14 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **In der Mediathek des Fernsehsenders ARTE gibt es seit Kurzem eine neue Tierrechtsdoku: "Tierleid vom Fließband". Im Film geht es darum, dass weltweit jährlich 70 Milliarden Tiere für den Verzehr geschlachtet werden – und wie es den 80 Prozent davon ergeht, die in der Massentierhaltung aufgezogen werden. Die Tierrechtsorganisation Animal Equality freut sich über eine Dokumentation dieser Art im Fernsehen. Sie warnt jedoch auch davor, dass sie zu kurz greift.**
 
 Gedreht hat ARTE France die Doku 2022 unter der Regie von Caroline Du Saint. Das Filmteam warf dabei bewusst einen Blick hinter die Kulissen der Großbetriebe, in denen die Tiere in überfüllten Stallungen zusammengepfercht, gemästet und geschlachtet werden – ohne dabei jemals das Tageslicht zu sehen. Auch die Erfolgsgeschichte der industriellen Landwirtschaft, in der Tiere zur Ware wurden und unvorstellbares Leid erleben, beleuchtet ARTE.
 
 ## Tiere als Ware
 
-Die Regisseurin stellte sich bei ihrer Arbeit die Frage, wie es dazu kommen konnte, dass die Menschheit "Nutztiere" heute nicht mehr als Lebewesen sieht. Nur mit dieser Voraussetzung konnte es überhaupt erst dazu kommen, dass heute in Deutschland rund 750 Millionen und in Frankreich etwa eine Milliarde Tiere für unseren Konsum getötet werden – Tiere wurden  zum Rohstoff und damit zu einem entmenschlichten Teil unseres Wirtschaftssystems.
+Die Regisseurin stellte sich bei ihrer Arbeit die Frage, wie es dazu kommen konnte, dass die Menschheit "Nutztiere" heute nicht mehr als Lebewesen sieht. Nur mit dieser Voraussetzung konnte es überhaupt erst dazu kommen, dass heute in Deutschland rund 750 Millionen und in Frankreich etwa eine Milliarde Tiere für unseren Konsum getötet werden – Tiere wurden zum Rohstoff und damit zu einem entmenschlichten Teil unseres Wirtschaftssystems.
 
 Für den Film recherchierte und filmte ARTE unter anderem in Deutschland, Polen, den USA und Vietnam und ging dem System hinter der Fleischindustrie auf den Grund. Ziel der Reportage war es nicht nur, Licht ins Dunkel zu bringen, sondern auch den Verantwortlichen auf den Zahn zu fühlen.
 
@@ -54,12 +49,12 @@ Damit spricht die Kommunikation-Managerin den Punkt an, dass ARTE im Film die Au
 
 > "Die Dokumentation 'Tierleid vom Fließband'[^1] leistet gute Arbeit, indem sie zeigt, in welche schreckliche Richtung sich die Tierhaltungsindustrie entwickelt hat. Sie klärt auf, was dort geschieht, aber sie zieht daraus die falschen Schlüsse.
 
-Die Doku geht davon aus, dass Dinge wie verbesserte Haltungsbedingungen, größere Ställe, kleinere Betriebe und Hausschlachtungen ausreichend seid. Die Rede ist hier auch von der Entwicklung "zurück zu eher bäuerlichen Strukturen".  Als problematisch sieht sie lediglich die Industrialisierung des Systems.
+Die Doku geht davon aus, dass Dinge wie verbesserte Haltungsbedingungen, größere Ställe, kleinere Betriebe und Hausschlachtungen ausreichend seid. Die Rede ist hier auch von der Entwicklung "zurück zu eher bäuerlichen Strukturen". Als problematisch sieht sie lediglich die Industrialisierung des Systems.
 
 Der Großteil der Tierrechts- und Tierethik-Aktivist⋆innen und Veganer⋆innen dürfte das anders sehen. So auch Animal Equality[^2]:
 
 > "Das stimmt so nicht! Krankheiten und Verletzungen sind in kleineren Bio-Betrieben nicht unbedingt seltener, den Tieren geht es dort nicht grundsätzlich besser als in den riesigen Fabrikhallen.
-> 
+>
 > Und auch wenn solche Bedingungen für die Tiere besser wären. Macht sie das zu richtigen Bedingungen? Nein, denn es ist nicht notwendig, Tiere zu töten, wenn wir nicht darauf angewiesen sind. Und wir sind nicht darauf angewiesen, weil eine pflanzenbasierte Ernährung wunderbar funktioniert, in jeder Lebensphase. Das ist auch die einzig ethisch richtige Entscheidung.
 
 schreibt Sophie Lemcke.

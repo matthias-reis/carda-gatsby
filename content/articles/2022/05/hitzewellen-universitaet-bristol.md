@@ -5,17 +5,10 @@ typeName: Beitrag
 title: Universität Bristol warnt vor extremen Hitzeereignissen
 subTitle: Aktuelle Studie zeigt unentdeckte Hitzewellen
 seoTitle: Universität Bristol warnt vor extremen Hitzeereignissen
-description: Eine aktuelle Studie der Universität Bristol zeigt, dass fünf der
-  extremsten Hitzewellen übersehen wurden. Die Hochschule warnt davor, ähnliche
-  Ereignisse auch in Zukunft nicht zu tracken.
-excerpt: "Vor zwei Tagen gab die Universität Bristol eine Meldung heraus, die
-  uns aufschrecken sollte: Aus einer aktuellen Studie der Hochschule gehen die
-  intensivsten Hitzewellen aller Zeiten hervor. Einige davon fanden bereits vor
-  Jahrzehnten statt. So fanden fünf der extremsten Hitzeereignisse bisher keine
-  Beachtung. Die Forschenden warnen vor dem Fehler, ähnliche Ereignisse auch in
-  Zukunft nicht zu tracken."
+description: Eine aktuelle Studie der Universität Bristol zeigt, dass fünf der extremsten Hitzewellen übersehen wurden. Die Hochschule warnt davor, ähnliche Ereignisse auch in Zukunft nicht zu tracken.
+excerpt: 'Vor zwei Tagen gab die Universität Bristol eine Meldung heraus, die uns aufschrecken sollte: Aus einer aktuellen Studie der Hochschule gehen die intensivsten Hitzewellen aller Zeiten hervor. Einige davon fanden bereits vor Jahrzehnten statt. So fanden fünf der extremsten Hitzeereignisse bisher keine Beachtung. Die Forschenden warnen vor dem Fehler, ähnliche Ereignisse auch in Zukunft nicht zu tracken.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-05/hitzewelle-geralt-pixabay-jpg-imagine-080808_6a390b_1024_768/640.webp
-copyrigt: geralt, pixabay
+copyright: geralt, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-05/hitzewelle-geralt-pixabay-fb-jpg-imagine-080808_84490d_1200_628/640.webp
 labels:
   - Bristol
@@ -33,6 +26,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Vor zwei Tagen gab die Universität Bristol eine Meldung heraus, die uns aufschrecken sollte: Aus einer aktuellen Studie der Hochschule gehen die intensivsten Hitzewellen aller Zeiten hervor. Einige davon fanden bereits vor Jahrzehnten statt. So fanden fünf der extremsten Hitzeereignisse bisher keine Beachtung. Die Forschenden warnen vor dem Fehler, ähnliche Ereignisse auch in Zukunft nicht zu tracken.**
 
 Die wissenschaftliche Arbeit zeigt auch, dass sich die Hitzewellen durch den voranschreitenden Klimawandel in Zukunft noch verschärfen werden.
@@ -43,7 +37,7 @@ Beispielsweise wurden im Westen Nordamerikas wurden im letzten Sommer rekordverd
 
 Science Advances veröffentlichte die neuen Erkenntnisse. Insgesamt wurden in der Arbeit weltweit fünf weitere Hitzewellen aufgedeckt, die wesentlich heftiger waren, als Berichte bisher vermuten ließen.
 
-Die Hauptautorin der Studie, Klimaforscherin Dr. Vikki Thompson von der Universität Bristol, kommentierte ihre Erkenntnisse so: 
+Die Hauptautorin der Studie, Klimaforscherin Dr. Vikki Thompson von der Universität Bristol, kommentierte ihre Erkenntnisse so:
 
 > "Die jüngste Hitzewelle in Kanada und den Vereinigten Staaten hat die Welt schockiert. Wir können heute jedoch sagen, dass es in den letzten Jahrzehnten noch größere Extreme gegeben hat. Anhand von Klimamodellen haben wir außerdem herausgefunden, dass die extremen Hitzeereignisse im kommenden Jahrhundert wahrscheinlich zunehmen werden – und zwar mit der gleichen Geschwindigkeit wie die lokale Durchschnittstemperatur."
 
@@ -53,13 +47,13 @@ Hitzewellen sind nur eines von vielen verheerenden extremen Wetterereignissen, d
 
 Die Studie, in der die Forschenden auch berechneten, wie extrem die Hitzewellen im Verhältnis zur lokalen Temperatur waren, ergab, dass die drei stärksten Hitzewellen, die in den jeweiligen Regionen jemals gegeben hat, in Südostasien im April 1998 mit 32,8 °C, in Brasilien im November 1985 mit 36,5 °C und im Süden der USA im Juli 1980 mit 38,4 °C stattfanden.
 
-Dr. Vikki Thompson, vom Cabot Institute for the Environment der Universität, sagte dazu: 
+Dr. Vikki Thompson, vom Cabot Institute for the Environment der Universität, sagte dazu:
 
 > "Die Hitzewelle im Westen Nordamerikas wird uns aufgrund der verheerenden Verwüstungen lange in Erinnerung bleiben. Die Studie deckt jedoch weitere, größere meteorologische Extreme in den letzten Jahrzehnten auf, von denen einige weitgehend unter dem Radar geblieben sind. Wahrscheinlich auch, weil sie in ärmeren Ländern aufgetreten sind. Es ist wichtig, den Schweregrad von Hitzewellen anhand der lokalen Temperaturschwankungen zu beurteilen, da sich sowohl der Mensch als auch das natürliche Ökosystem daran anpassen. Das führt dazu, dass in Regionen mit geringeren Schwankungen ein kleineres absolutes Extrem stärkere Auswirkungen haben kann.
 
-Das Forschungsteam nutzte auch ausgefeilte Klimamodell-Projektionen, um die Entwicklung der Hitzewellen für den Rest dieses Jahrhunderts zu prognostizieren. Die Modellierungen ergaben, dass die Intensität der Hitzewellen im Einklang mit den steigenden globalen Temperaturen zunehmen wird. 
+Das Forschungsteam nutzte auch ausgefeilte Klimamodell-Projektionen, um die Entwicklung der Hitzewellen für den Rest dieses Jahrhunderts zu prognostizieren. Die Modellierungen ergaben, dass die Intensität der Hitzewellen im Einklang mit den steigenden globalen Temperaturen zunehmen wird.
 
-![Eine gezeichnete Weltkarte zeigt das Ausmaß des extremsten Hitze-Ereignisse seit 1950 in den unterschiedlichen Regionen, ausgedrückt als Abweichung von den Durchschnittstemperaturen, ohne Berücksichtigung des Trends der Klimaänderung. Die Hitze wird in Rottönen dargestellt. Je dunkler das Rot/Orange, desto stärker die Hitze.](https://storage.googleapis.com/cardamonchai-media/2022-05-05/hitzewellen-university-of-bristol-png-imagine-f8f8f8_ede3d8_480_216/640.webp "Die Karte zeigt das Ausmaß des extremsten Hitze-Ereignisse seit 1950 in den unterschiedlichen Regionen, ausgedrückt als Abweichung von den Durchschnittstemperaturen, ohne Berücksichtigung des Trends der Klimaänderung. Je dunkler die Farben, desto stärker die Hitze.")
+![Eine gezeichnete Weltkarte zeigt das Ausmaß des extremsten Hitze-Ereignisse seit 1950 in den unterschiedlichen Regionen, ausgedrückt als Abweichung von den Durchschnittstemperaturen, ohne Berücksichtigung des Trends der Klimaänderung. Die Hitze wird in Rottönen dargestellt. Je dunkler das Rot/Orange, desto stärker die Hitze.](https://storage.googleapis.com/cardamonchai-media/2022-05-05/hitzewellen-university-of-bristol-png-imagine-f8f8f8_ede3d8_480_216/640.webp 'Die Karte zeigt das Ausmaß des extremsten Hitze-Ereignisse seit 1950 in den unterschiedlichen Regionen, ausgedrückt als Abweichung von den Durchschnittstemperaturen, ohne Berücksichtigung des Trends der Klimaänderung. Je dunkler die Farben, desto stärker die Hitze.')
 
 ## Die am stärksten gefährdeten Regionen müssen geschützt werden
 

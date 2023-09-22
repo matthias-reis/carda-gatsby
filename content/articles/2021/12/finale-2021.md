@@ -8,7 +8,7 @@ seoTitle: Das Finale 2021 – Bitte verzichtet auf Böller!
 description: 'Ich habe eine Weile überlegt, wie der letzte Artikel des Jahres 2021 wohl aussehen könnte. Ein Rückblick? Glückwünsche? Gute Vorsätze für 2022? Nichts von alledem? Oder alles? Eins ist klar: Das Böllerverbot ist gut!'
 excerpt: Ich habe eine Weile überlegt, wie der letzte Artikel des Jahres 2021 wohl aussehen könnte. Ein Rückblick? Glückwünsche? Gute Vorsätze für 2022? Nichts von alledem? Oder alles? Schlussendlich habe ich mich dafür entschieden, einfach drauflos zu schreiben und Euch alles Gute für das neue Jahr zu wünschen. Eigentlich ist der 1. Januar ja ein Tag wie jeder andere, aber ein bisschen Feiern haben wir uns wohl alle verdient.
 image: https://storage.googleapis.com/cardamonchai-media/2021-12-30/finale-2021-jpg-imagine-a8a8a8_88867c_1024_768/640.webp
-copyrigt: ''
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-12-30/finale-2021-fb-png-imagine-a8a8a8_7e7c75_1200_628/640.webp
 labels:
   - Silvester

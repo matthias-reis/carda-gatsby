@@ -5,11 +5,9 @@ typeName: Review
 title: Sel Balamir – "Swell"
 subTitle: A Special Lockdown Solo Album
 seoTitle: Sel Balamir – "Swell"  – A Special Lockdown Solo Album
-description: Sel Balamir, singer and founder of Amplifier, reports back with a
-  solo record. He has announced the release of "Swell" for September 6. If you
-  want, you can already listen to it.
+description: Sel Balamir, singer and founder of Amplifier, reports back with a solo record. He has announced the release of "Swell" for September 6. If you want, you can already listen to it.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sel-balamir-swell-jpg-imagine-183878_4174a4_1024_768/640.webp
-copyrigt: Sel Balamir
+copyright: Sel Balamir
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sel-balamir-swell-fb-png-imagine-183878_4d78a9_1200_628/640.webp
 labels:
   - Sel Balamir
@@ -53,7 +51,13 @@ The first song, "Swell", is with its impressive 20:42, the longest track on the 
 
 You can already listen to his new tracks "Swell", "Jaques Cousteau" and "Seagul" here:
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2547524849/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://selbalamir.bandcamp.com/album/swell">Swell by Sel Balamir</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=2547524849/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://selbalamir.bandcamp.com/album/swell">Swell by Sel Balamir</a>
+</iframe>
 
 If you adore Jaques Cousteau's underwater world and want to accompany Sel Balamir's new music with some moving pictures, he recommends this video to you:
 

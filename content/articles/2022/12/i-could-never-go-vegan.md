@@ -5,15 +5,10 @@ typeName: Filmtipp
 title: '"Ich könnte niemals vegan leben"'
 subTitle: 'Neue Doku: "I Could Never Go Vegan"'
 seoTitle: Argumente gegen Veganismus – "I Could Never Go Vegan"
-description: Auf der Suche nach Argumenten gegen Veganismus? Oder auf Antworten
-  darauf? Dann solltet Ihr diesen Film nicht verpassen!
-excerpt: 'Die neue Doku "I Could Never Go Vegan" ("Ich könnte niemals vegan
-  leben") beleuchtet den Veganismus aus einem anderen Blickwinkel: dem der
-  Zweifelnden. Die beiden Brüder Thomas und James Pickering haben sich die
-  Gegenargumente mal im Detail angesehen. Sie haben ihren Film für den 26.
-  Dezember angekündigt.'
+description: Auf der Suche nach Argumenten gegen Veganismus? Oder auf Antworten darauf? Dann solltet Ihr diesen Film nicht verpassen!
+excerpt: 'Die neue Doku "I Could Never Go Vegan" ("Ich könnte niemals vegan leben") beleuchtet den Veganismus aus einem anderen Blickwinkel: dem der Zweifelnden. Die beiden Brüder Thomas und James Pickering haben sich die Gegenargumente mal im Detail angesehen. Sie haben ihren Film für den 26. Dezember angekündigt.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-05/i-could-never-go-vegan-jpg-imagine-080808_6c4836_1024_768/640.webp
-copyrigt: I Could Never Go Vegan Ltd.
+copyright: I Could Never Go Vegan Ltd.
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-05/i-could-never-go-vegan-fb-jpg-imagine-080808_6e483b_1200_628/640.webp
 labels:
   - Argumente gegen Veganismus
@@ -31,6 +26,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Die neue Doku "I Could Never Go Vegan" ("Ich könnte niemals vegan leben") beleuchtet den Veganismus aus einem anderen Blickwinkel: dem der Zweifelnden. Die beiden Brüder Thomas und James Pickering haben sich die Gegenargumente mal im Detail angesehen. Sie haben ihren Film für den 26. Dezember angekündigt.**
 
 Traditionell verbringen viele inzwischen ja den zweiten Feiertag gerne mit Filmen und Serien auf der Couch – in diesem Jahr verspricht er besonders spannend zu werden. Ich habe "I Could Never Go Vegan" auf jeden Fall schon fest auf meiner Streaming-Liste. Thomas und James Pickering versprechen, die Argumente gegen einen veganen Lebensstil komplett aufzurollen. Zudem gehen sie der Frage auf die Spur, woher diese kommen und ob sie gerechtfertigt sind.
@@ -51,7 +47,7 @@ Die Pickerings möchten mit ihrer Doku Menschen informieren und aufklären, dami
 
 ## "Jeden Tag erzählen mir Menschen ungefragt, dass sie niemals vegan leben könnten"
 
-Mit den typischen Argumenten gegen eine fleischfreie Ernährungsweise kamen Thomas und James Pickering schon sehr früh in Berührung – beide wuchsen als Vegetarier auf und wurde später zu Veganern. 
+Mit den typischen Argumenten gegen eine fleischfreie Ernährungsweise kamen Thomas und James Pickering schon sehr früh in Berührung – beide wuchsen als Vegetarier auf und wurde später zu Veganern.
 
 Den Spruch "Ich könnte niemals Veganer⋆in werden" haben die beiden schon unzählige Male gehört. Im Trailer zum Film sagt Thomas:
 
@@ -59,7 +55,7 @@ Den Spruch "Ich könnte niemals Veganer⋆in werden" haben die beiden schon unz�
 
 Das Mitgefühl gegenüber Tieren wurde den beiden Brüdern in die Wiege gelegt – wofür sie ihren Eltern heute sehr dankbar sind. Für die beiden waren der Hauptgrund für ihren Vegetarismus und später Veganismus von Anfang an die Tiere. Schon als Kindern war ihnen bewusst, dass es keinen Unterschied gibt zwischen einem Huhn und einem Wildvogel – beide haben ein Bewusstsein und können Schmerzen empfinden. Der Umweltschutz kam später mit dazu und bestärkte sie in ihrer Entscheidung.
 
-Auch der gesundheitliche Aspekt spielt für die Pickerings eine Rolle: Beide Brüder treiben seit jungen Jahren Sport und konnten ihre Leistung durch ihre komplett pflanzenbasierte Kost spürbar verbessern. Ihre wichtigsten Anliegen bleiben jedoch die Tiere und die Umwelt: 
+Auch der gesundheitliche Aspekt spielt für die Pickerings eine Rolle: Beide Brüder treiben seit jungen Jahren Sport und konnten ihre Leistung durch ihre komplett pflanzenbasierte Kost spürbar verbessern. Ihre wichtigsten Anliegen bleiben jedoch die Tiere und die Umwelt:
 
 > "Wir müssen unser Verhalten ändern, wenn wir etwas für unseren Planeten tun wollen. Darum wird es Zeit, mit Fehlinformationen und Missverständnissen endgültig aufzuräumen",
 
@@ -67,6 +63,6 @@ sagten sie bei der Vorstellung ihrer Doku gegenüber der Presse.
 
 Wenn Ihr gerne Näheres über die Premiere des Films und wo Ihr ihn streamen könnt, erfahren möchtet, könnt Ihr den Pickering Brüdern unter anderem bei Instagram folgen. Dort teilen sie regelmäßig Updates mit ihren Fans. Alles über den Film [findet Ihr sonst hier](https://icouldnevergovegan.co.uk/).
 
-## "I could never go vegan" –  Trailer
+## "I could never go vegan" – Trailer
 
 <YouTube id="bkUU5geAsiE" />

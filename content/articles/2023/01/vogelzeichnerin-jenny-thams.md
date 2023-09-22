@@ -5,16 +5,10 @@ typeName: Interview
 title: Vogelzeichnerin Jenny Thams
 subTitle: '"Wenn Menschen etwas kennen, sind sie eher bereit es zu schützen"'
 seoTitle: Interview mit Vogelzeichnerin Jenny Thams
-description: Vögel zeichnen – das ist die Lieblingsbeschäftigung von Jenny
-  Thams. Lest jetzt alle über Ihr Ziel alle in Österreich heimischen Vögel zu
-  zeichnen.
-excerpt: "Jenny Thams zeichnet für ihr Leben gern. Vor Kurzem hat sie sich ein
-  ganz besonderes Ziel gesetzt: alle in Österreich heimischen Vogelarten einmal
-  zu zeichnen. Die wunderbaren Kunstwerke, die dabei entstehen, teilt sie über
-  die sozialen Netzwerke. Dort habe ich die Künstlerin kennengelernt und sie
-  kurzerhand zu einem Interview eingeladen."
+description: Vögel zeichnen – das ist die Lieblingsbeschäftigung von Jenny Thams. Lest jetzt alle über Ihr Ziel alle in Österreich heimischen Vögel zu zeichnen.
+excerpt: 'Jenny Thams zeichnet für ihr Leben gern. Vor Kurzem hat sie sich ein ganz besonderes Ziel gesetzt: alle in Österreich heimischen Vogelarten einmal zu zeichnen. Die wunderbaren Kunstwerke, die dabei entstehen, teilt sie über die sozialen Netzwerke. Dort habe ich die Künstlerin kennengelernt und sie kurzerhand zu einem Interview eingeladen.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-31/voegel-zeichnen-jenny-thams-interview-jpg-imagine-f8f8f8_cdc1bc_1024_768/640.webp
-copyrigt: Jenny Thams
+copyright: Jenny Thams
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-31/voegel-zeichnen-jenny-thams-interview-og-jpg-imagine-f8f8f8_cfc7c0_1200_628/640.webp
 labels:
   - Jenny Thams
@@ -28,6 +22,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Jenny Thams zeichnet für ihr Leben gern. Vor Kurzem hat sie sich ein ganz besonderes Ziel gesetzt: alle in Österreich heimischen Vogelarten einmal zu zeichnen. Die wunderbaren Kunstwerke, die dabei entstehen, teilt sie über die sozialen Netzwerke. Dort habe ich die Künstlerin kennengelernt und sie kurzerhand zu einem Interview eingeladen.**
 
 **Anne:** Hallo Jenny, danke, dass Du Dir die Zeit für das Interview nimmst. Ich bin gespannt, mehr über Dich und Deine Kunst zu erfahren. Möchtest Du mir erzählen, wie Du zur Kunst gekommen bist?
@@ -38,19 +33,19 @@ language: de
 
 ## "Ich wollte schon immer Vögel zeichnen"
 
-![Amsel. Bild: Jenny Thams. Bildbeschreibung: Eine Amsel sitzt auf einem Zweig.](https://storage.googleapis.com/cardamonchai-media/2023-01-31/amsel-jenny-thams-jpg-imagine-f8f8f8_bfada8_768_1024/640.webp "Amsel. Bild: Jenny Thams")
+![Amsel. Bild: Jenny Thams. Bildbeschreibung: Eine Amsel sitzt auf einem Zweig.](https://storage.googleapis.com/cardamonchai-media/2023-01-31/amsel-jenny-thams-jpg-imagine-f8f8f8_bfada8_768_1024/640.webp 'Amsel. Bild: Jenny Thams')
 
 **Jenny:** Auf die Idee bin ich vor ungefähr einem halben Jahr gekommen. Ein enger Bekannter hatte mehrere heimische Vogelarten von mir zeichnen lassen. Das hat mich daran erinnert, wie ich als Kind “Vogelmalerin” werden wollte. Die Zeit war gekommen, mir ein Ziel zu setzen – das Ziel, jede österreichische Vogelart einmal zu zeichnen. Es fühlte sich ganz natürlich an. Ich arbeite allerdings erst seit Mitte Dezember 2022 konkret daran – bin also noch ganz frisch dabei.
 
 **Anne:** Du zeichnest fotorealistische Bilder. Welche Technik verwendest Du bei Deinen Zeichnungen und wie lange dauert es in der Regel, ein Bild von einem Vogel zu vollenden?
 
-**Jenny:** Wenn ich mit Farbstiften zeichne, nutze ich hochwertige Polychromos. Vor Kurzem habe ich außerdem begonnen, auch mit Aquarell zu malen – oder sollte ich besser Zeichnen sagen? Ich nutze die Aquarellfarbe ähnlich wie meine Farbstifte. Sie verzeiht jedoch mehr und ich kann Fehler noch ausbessern. Dies funktioniert bei Farbstiften nicht so gut. Ich benötige für ein 24 × 32 cm großes Vogelbild in beiden Techniken rund 10 Stunden. 
+**Jenny:** Wenn ich mit Farbstiften zeichne, nutze ich hochwertige Polychromos. Vor Kurzem habe ich außerdem begonnen, auch mit Aquarell zu malen – oder sollte ich besser Zeichnen sagen? Ich nutze die Aquarellfarbe ähnlich wie meine Farbstifte. Sie verzeiht jedoch mehr und ich kann Fehler noch ausbessern. Dies funktioniert bei Farbstiften nicht so gut. Ich benötige für ein 24 × 32 cm großes Vogelbild in beiden Techniken rund 10 Stunden.
 
 **Anne:** Welche Vogelart ist Dein persönlicher Favorit und warum?
 
 ## "Blaumeisen sind mutig"
 
-![Blaumeise. Bild: Jenny Thams. Bildbeschreibung: Eine Blaumeise sitzt auf einem Zweig.](https://storage.googleapis.com/cardamonchai-media/2023-01-31/blaumeise-jenny-thams-jpg-imagine-f8f8f8_d2d0c4_768_1024/640.webp "Blaumeise. Bild: Jenny Thams")
+![Blaumeise. Bild: Jenny Thams. Bildbeschreibung: Eine Blaumeise sitzt auf einem Zweig.](https://storage.googleapis.com/cardamonchai-media/2023-01-31/blaumeise-jenny-thams-jpg-imagine-f8f8f8_d2d0c4_768_1024/640.webp 'Blaumeise. Bild: Jenny Thams')
 
 Jenny (lacht): Das ist eine schwierige Frage! Sie besitzen alle ihre Besonderheiten und ihre eigene Schönheit. Wenn ich mich entscheiden müsste, dann wohl das Rotkehlchen oder die Blaumeise. Blaumeisen sind klug und sehr mutig. Sie werden häufig unterschätzt.
 
@@ -62,7 +57,7 @@ Jenny (lacht): Das ist eine schwierige Frage! Sie besitzen alle ihre Besonderhei
 
 ## "Alle Vögel verdienen unseren Schutz"
 
-![Schwanzmeise. Bild: Jenny Thams. Bildbeschreibung: Eine Schanzmeise sitzt auf einem Zweig.](https://storage.googleapis.com/cardamonchai-media/2023-01-31/schwanzmeise-jenny-thams-jpg-imagine-f8f8f8_e6e3dd_768_1024/640.webp "Schwanzmeise. Bild: Jenny Thams")
+![Schwanzmeise. Bild: Jenny Thams. Bildbeschreibung: Eine Schanzmeise sitzt auf einem Zweig.](https://storage.googleapis.com/cardamonchai-media/2023-01-31/schwanzmeise-jenny-thams-jpg-imagine-f8f8f8_e6e3dd_768_1024/640.webp 'Schwanzmeise. Bild: Jenny Thams')
 
 **Jenny:** Jeder Vogel ist wunderschön und schützenswert. Wir konzentrieren uns häufig auf die spektakulären Arten wie Adler, Storch oder Geier. Dabei vergessen wir, dass auch die Bestände von den Sperlingen oder den Meisen stetig abnehmen. Ich kombiniere Bild und Wort und gebe zu meinen fertigen Zeichnungen auch immer Informationen über den abgebildeten Vogel. Wenn die Menschen etwas kennen, sind sie eher dazu bereit, es zu schützen. Ich hoffe, ich kann auf diese Weise ein wenig zum Vogelschutz beitragen.
 
@@ -76,7 +71,7 @@ In letzter Zeit habe ich angefangen, die Hintergründe passend zum jeweiligen Vo
 
 ## "Ich bin mit Vögeln aufgewachsen"
 
-![Stieglitz. Bild: Jenny Thams. Bildbeschreibung: Ein Stieglitz sitzt auf einem Ast zwischen Hagebutten.](https://storage.googleapis.com/cardamonchai-media/2023-01-31/stieglitz-jenny-thams-jpg-imagine-f8f8f8_dfd7d2_768_1025/640.webp "Stieglitz. Bild: Jenny Thams")
+![Stieglitz. Bild: Jenny Thams. Bildbeschreibung: Ein Stieglitz sitzt auf einem Ast zwischen Hagebutten.](https://storage.googleapis.com/cardamonchai-media/2023-01-31/stieglitz-jenny-thams-jpg-imagine-f8f8f8_dfd7d2_768_1025/640.webp 'Stieglitz. Bild: Jenny Thams')
 
 **Jenny:** Ich bin tatsächlich mit Vögeln aufgewachsen. Erst waren es Kanarienvögel, die bei uns in einer Voliere zusammenlebten – die paprikarote “Chipsy” gehörte mir. Mir wurde dann schnell klar, dass mein eigentliches Interesse den Sittichen galt. Als Jugendliche hatte ich dann Wellensittiche und Nymphensittiche. Nebenbei habe ich immer gerne Vögel in der Natur beobachtet. Und auf meinen Wanderungen teile ich mir heute noch gerne mal einen Apfel mit einer frechen Alpendohle.
 
@@ -88,7 +83,7 @@ In letzter Zeit habe ich angefangen, die Hintergründe passend zum jeweiligen Vo
 
 **Anne:** Hast Du noch andere Kanäle (also auch offline), über die Du Deine Bilder teilst?
 
-![Kleiber. Bild: Jenny Thams. Bildbeschreibung: Ein Kleiber sitzt auf einem moosigen Untergrund.](https://storage.googleapis.com/cardamonchai-media/2023-01-31/kleiber-jenny-thams-jpg-imagine-f8f8f8_c4c0ae_1080_1080/640.webp "Kleiber. Bild: Jenny Thams")
+![Kleiber. Bild: Jenny Thams. Bildbeschreibung: Ein Kleiber sitzt auf einem moosigen Untergrund.](https://storage.googleapis.com/cardamonchai-media/2023-01-31/kleiber-jenny-thams-jpg-imagine-f8f8f8_c4c0ae_1080_1080/640.webp 'Kleiber. Bild: Jenny Thams')
 
 **Jenny:** Früher habe ich mit einer Galerie zusammengearbeitet, die meine Tierzeichnungen ausgestellt hat. Die Jahre 2019 bis 2022 habe ich mich langwierig vom Karpaltunnelsyndrom erholt. Leider konnte ich dadurch jahrelang nicht zeichnen. In dieser Phase ist alles eingebrochen. Aber ich habe auch festgestellt, dass es Zeit ist, neue Wege zu gehen: weg von der Auftragskunst hin zu mehr freien Werken, die mir tiefe Freude bringen. Daher bin ich gerade dabei, mich hier vollständig umzuorientieren.
 
@@ -100,7 +95,7 @@ In letzter Zeit habe ich angefangen, die Hintergründe passend zum jeweiligen Vo
 
 ## "Ich genieße die Natur jeden Tag"
 
-![Eisvogel. Bild: Jenny Thams. Bildbeschreibung: Ein Eisvogel sitzt auf einem Stamm.](https://storage.googleapis.com/cardamonchai-media/2023-01-31/eisvogel-jenny-thams-jpg-imagine-f8f8f8_c7d0cf_768_1024/640.webp "Eisvogel. Bild: Jenny Thams")
+![Eisvogel. Bild: Jenny Thams. Bildbeschreibung: Ein Eisvogel sitzt auf einem Stamm.](https://storage.googleapis.com/cardamonchai-media/2023-01-31/eisvogel-jenny-thams-jpg-imagine-f8f8f8_c7d0cf_768_1024/640.webp 'Eisvogel. Bild: Jenny Thams')
 
 **Jenny:** Die Natur ist wunderschön in all ihren Facetten. Sie spielt in meinem Leben eine sehr große Rolle. Ich bin der wilden Natur wegen tief ins Gebirge gezogen. Hier oben in unserem Hochtal leben auf viele Kilometer verteilt nur etwa 450 Menschen. Dafür haben wir wilde Orchideen, Feuerlilien und andere seltene Pflanzen. Und ich brauche nur fünf Minuten laufen, um von meinem Haus zu einem Teich zu kommen, an dem im Sommer regelmäßig ein Schwarzstorch zu Gast ist. Zehn Gehminuten weiter finde ich Eisvögel. Ich möchte die Schönheit der Natur, die ich täglich sehe, auch anderen Menschen vermitteln.
 

@@ -49,6 +49,7 @@ query AllPageQuery {
           advertisement
           affiliate
           image
+          copyright
         }
       }
     }

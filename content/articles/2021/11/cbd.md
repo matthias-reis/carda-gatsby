@@ -5,15 +5,10 @@ typeName: Produkttest
 title: CBD – Was ist das eigentlich?
 subTitle: Muskelgel, Spray und Mundöl von CBD Extra
 seoTitle: CBD – Was ist das eigentlich? Mundöl & Co. im Test
-description: CBD soll nicht nur das Gemüt beruhigen und für Entspannung sorgen.
-  Es findet auch viele weitere Anwendungsmöglichkeiten. Doch, was ist das
-  eigentlich?
-excerpt: CBD soll nicht nur das Gemüt beruhigen und für Entspannung sorgen. Es
-  findet auch viele weitere Anwendungsmöglichkeiten. Ich habe jetzt das Spray,
-  das Öl und das Muskelgel von CBD Extra getestet und einiges über den
-  organischen Inhaltsstoff der Hanfpflanze namens CBD gelernt.
+description: CBD soll nicht nur das Gemüt beruhigen und für Entspannung sorgen. Es findet auch viele weitere Anwendungsmöglichkeiten. Doch, was ist das eigentlich?
+excerpt: CBD soll nicht nur das Gemüt beruhigen und für Entspannung sorgen. Es findet auch viele weitere Anwendungsmöglichkeiten. Ich habe jetzt das Spray, das Öl und das Muskelgel von CBD Extra getestet und einiges über den organischen Inhaltsstoff der Hanfpflanze namens CBD gelernt.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-30/2021-10-26-produkttest-31-cbd-jpg-imagine-f8f8f8_7aa4b5_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-30/cbd-fb-png-imagine-0888c8_71a4ba_1200_628/640.webp
 labels:
   - CBD
@@ -26,6 +21,7 @@ advertisement: true
 affiliate: true
 language: de
 ---
+
 **CBD soll nicht nur das Gemüt beruhigen und für Entspannung sorgen. Es findet auch viele weitere Anwendungsmöglichkeiten. Ich habe jetzt das Spray, das Öl und das Muskelgel von CBD Extra getestet.**
 
 Das Hamburger Start-up CBD Extra möchte mit natürlichen Produkten Wohlgefühl verbreiten. Die Preise sollen dabei möglichst moderat bleiben. Dennoch wird auf Zusatzstoffe und Pestizide komplett verzichtet und auf Bekömmlichkeit großer Wert gelegt. Die verwendeten Hanfpflanzen stammen aus ökologischem Anbau innerhalb der EU.
@@ -58,9 +54,9 @@ Was viele vielleicht nicht wissen, ist, dass der Anbau von Hanf weltweit eine gr
 
 Seit den 1970er Jahren ist Hanf auch bei uns Gegenstand zahlreicher Studien. Heute weiß man, dass CBD eines von 100 natürlichen Cannabinoiden ist, die in der Hanfpflanze vorkommen. Sie alle unterscheiden sich in ihrer chemischen Zusammensetzung und Wirkung.
 
-## Das ist CBD (Cannabidiol) 
+## Das ist CBD (Cannabidiol)
 
-CBD oder Cannabidiol und THC sind organische Inhaltsstoffe der Hanfpflanze. Im Gegensatz zu THC besitzt CBD keine psychoaktive oder bewusstseinsverändernde Wirkung. 
+CBD oder Cannabidiol und THC sind organische Inhaltsstoffe der Hanfpflanze. Im Gegensatz zu THC besitzt CBD keine psychoaktive oder bewusstseinsverändernde Wirkung.
 
 Je nachdem, wofür eine Pflanze genutzt werden soll, werden unterschiedliche Sorten mit unterschiedlichem Gehalt zum Beispiel von CBD gezüchtet. Der Nutzhanf für CDB-Öle & Co. kann keinen Rausch hervorrufen. Daher ist der Anbau auch EU-weit offiziell zugelassen.
 

@@ -5,21 +5,17 @@ typeName: Beitrag
 title: Rock 'n' Roll vegan is now Sounds Vegan
 subTitle: Your Hub for Stories about Music & Veganism
 seoTitle: Sounds Vegan – Your hub for stories about music & veganism
-description: Sounds Vegan is your hub for stories about alternative music
-  (post-rock, ambient, post-metal, post-music, hardcore etc.)! Check it out now!
-excerpt: "Today is a big one! I have something to celebrate that I've been
-  preparing for months now. OK, I don't want to keep you guys on the rack. Here
-  is the news: I've decided to rename my blog! So, say hello to Sounds Vegan! I
-  promise you to stick to my topics—veganism and music—but with more style than
-  ever before!"
+description: Sounds Vegan is your hub for stories about alternative music (post-rock, ambient, post-metal, post-music, hardcore etc.)! Check it out now!
+excerpt: "Today is a big one! I have something to celebrate that I've been preparing for months now. OK, I don't want to keep you guys on the rack. Here is the news: I've decided to rename my blog! So, say hello to Sounds Vegan! I promise you to stick to my topics—veganism and music—but with more style than ever before!"
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-15/soundsvegan-new-blog-a-reis-png-imagine-385848_525843_1024_768/640.webp
-copyrigt: Sounds Vegan, Blog, vegan Blog, Zine, Music Blog, Vegan, Music, Musik
+copyright: Sounds Vegan, Blog, vegan Blog, Zine, Music Blog, Vegan, Music, Musik
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-15/soundsvegan-new-blog-og-a-reis-png-imagine-385848_4f5c48_1200_628/640.webp
 advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/04/welcome-sounds-vegan/
 ---
+
 **Today is a big one! I have something to celebrate that I've been preparing for months now. OK, I don't want to keep you guys on the rack. Here is the news: I've decided to rename my blog! So, say hello to Sounds Vegan! I promise you to stick to my topics—veganism and music—but with more style than ever before!**
 
 In case you want to know the reasons I switched to Sounds Vegan, here is why:
@@ -30,7 +26,7 @@ Of course, all those genres have their origins, but so did rock 'n' roll. And, u
 
 ## Sounds Vegan doesn't only sound better!
 
-![The new Art Nouveau design logo gray with green on black in a picture frame on a raw industrial wall. The lettering reads "Sounds Vegan" and above it is the blog's logo: a microphone with a leaf and two purple thistle flowers. | small](https://storage.googleapis.com/cardamonchai-media/2023-04-15/sounds-vegan-png-imagine-181818_8d7e6b_1024_768/640.webp "Sounds Vegan")
+![The new Art Nouveau design logo gray with green on black in a picture frame on a raw industrial wall. The lettering reads "Sounds Vegan" and above it is the blog's logo: a microphone with a leaf and two purple thistle flowers. | small](https://storage.googleapis.com/cardamonchai-media/2023-04-15/sounds-vegan-png-imagine-181818_8d7e6b_1024_768/640.webp 'Sounds Vegan')
 
 Anyhow: It's time for a different chapter, a new era and a little glow-up! Sounds Vegan is now my website and your hub for everything that sounds and tastes good!
 
@@ -38,7 +34,7 @@ Your feedback and my personal impression have also convinced me that the name Ro
 
 I feel like I made the right decision. I think Sounds Vegan it is the perfect fit because when you read through the articles on my site, at some point, you will always find stories about animal rights, vegetables, and climate change—alongside all the music.
 
-And did you know actual vegan sounds are also a topic that is getting bigger and bigger? More and more artists I do interviews with tell me they are vegans as well! It's wonderful, isn't it? The change is happening! 
+And did you know actual vegan sounds are also a topic that is getting bigger and bigger? More and more artists I do interviews with tell me they are vegans as well! It's wonderful, isn't it? The change is happening!
 
 Of course, not all the members of the bands I present on page my are vegans. But I don't have that claim either. For me, it's all about inspiring people and sharing my discoveries with you. I know I can do that by writing about two topics closest to my heart: Music and veganism. Sounds Vegan pretty much sums that up, don't you think? Also: If I decide to write about classical music or singing vegan chefs, I can still keep on using Sounds Vegan!
 
@@ -50,6 +46,4 @@ So, sign up for my newsletter if you haven't already, [meet me on the socials](h
 
 Talk soon!
 
-Anne Reis
-Sounds Vegan
-
+Anne Reis Sounds Vegan

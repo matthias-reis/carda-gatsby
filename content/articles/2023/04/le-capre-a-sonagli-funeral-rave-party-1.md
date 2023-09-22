@@ -5,15 +5,10 @@ typeName: Review
 title: Le Capre A Sonagli – "Funeral Rave Party"
 subTitle: Psychedelische Experimental-Sounds made in Italy
 seoTitle: Le Capre A Sonagli – "Funeral Rave Party" – Review
-description: '"Funeral Rave Party" von  Le Capre A Sonagli ist die
-  psychedelische Platte des Monats. Erfahrt jetzt hier alles darüber und hört
-  gleich rein!'
-excerpt: '"Funeral Rave Party" klingt nicht nur nach der Essenz der beiden
-  Musikstile, die mich wohl Anfang der 2.000er Jahr am meisten beschäftigt
-  haben. Es ist der Name der ersten englischsprachigen EP der italienischen
-  Psychedelic Band Le Capre A Sonagli. Hören lohnt sich!'
+description: '"Funeral Rave Party" von  Le Capre A Sonagli ist die psychedelische Platte des Monats. Erfahrt jetzt hier alles darüber und hört gleich rein!'
+excerpt: '"Funeral Rave Party" klingt nicht nur nach der Essenz der beiden Musikstile, die mich wohl Anfang der 2.000er Jahr am meisten beschäftigt haben. Es ist der Name der ersten englischsprachigen EP der italienischen Psychedelic Band Le Capre A Sonagli. Hören lohnt sich!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-2-jpg-imagine-080808_2b272a_800_600/640.webp
-copyrigt: Le Capre A Sonagli
+copyright: Le Capre A Sonagli
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-og-jpg-imagine-080808_211c1f_1200_628/640.webp
 labels:
   - Le Capre A Sonagli
@@ -30,13 +25,14 @@ affiliate: false
 language: de
 languageLink: /2023/04/le-capre-a-sonagli-funeral-rave-party-en
 ---
+
 **"Funeral Rave Party" klingt nicht nur nach der Essenz der beiden Musikstile, die mich wohl Anfang der 2.000er Jahr am meisten beschäftigt haben. Es ist der Name der ersten englischsprachigen EP der italienischen Psychedelic Band Le Capre A Sonagli. Hören lohnt sich!**
 
 Die Künstler⋆innen haben ihre Platte komplett selbst produziert und aufgenommen, nachdem sie sich nach ihrer letzten Aufnahme in Richtung Tontechnik und Produktion weitergebildet hatten. Das Ziel: alles mit ihren eigenen Händen zu formen, um in der Physik und den Zahlen das Universum und seine Komplexität wieder zu entdecken.
 
-Was soll man sagen? Das Experiment scheint geglückt zu sein. "Funeral Rave Party" ist für die Band vor allem eins: ein psychedelisch-rhythmisches Ritual. Spielen könnte man dieses auf  alternativen Festivals genauso, wie auf einer Underground-Technofete. Klingen tut das ganze wie aus einem Gruselfilm. Inspiration holten sich Capre A Sonagli beim Filmemacher Cronenberg – das scheint also ein klares Ziel gewesen zu sein.
+Was soll man sagen? Das Experiment scheint geglückt zu sein. "Funeral Rave Party" ist für die Band vor allem eins: ein psychedelisch-rhythmisches Ritual. Spielen könnte man dieses auf alternativen Festivals genauso, wie auf einer Underground-Technofete. Klingen tut das ganze wie aus einem Gruselfilm. Inspiration holten sich Capre A Sonagli beim Filmemacher Cronenberg – das scheint also ein klares Ziel gewesen zu sein.
 
-![Le Capre A Sonagli (Ein dunkles, abstraktes, von der KI generiertes Bild, auf dem vier Gestalten zwischen zwei Bäumen stehen.)](https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-1-jpg-imagine-080808_151208_800_800/640.webp "Le Capre A Sonagli")
+![Le Capre A Sonagli (Ein dunkles, abstraktes, von der KI generiertes Bild, auf dem vier Gestalten zwischen zwei Bäumen stehen.)](https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-1-jpg-imagine-080808_151208_800_800/640.webp 'Le Capre A Sonagli')
 
 ## Ein psychedlisches Sound-Erlebnis
 
@@ -60,7 +56,7 @@ Der zweite Song "Funeral Rave Party" ist der namensgebende und zentrale Track de
 
 Le Capre A Sonagli gründeten sich offiziell am 1. April 2011 mit der Veröffentlichung ihrer EP "Le Capre A Sonagli", die sie auch gleich als Vorband der Asian Dub Foundation zum Besten geben gaben.
 
-Im Oktober 2012 veröffentlichte das Projekt das erste Album in voller Länge, das für einigen Applaus in der Musikpresse sorgte. Im April 2013 folgte der Einzug ins Finale von Arezzo Wave, im Oktober 2013 die Auszeichnung in der Kategorie "beste Eigenproduktion" beim italienischen Independent-Musikpreis PIMI. 
+Im Oktober 2012 veröffentlichte das Projekt das erste Album in voller Länge, das für einigen Applaus in der Musikpresse sorgte. Im April 2013 folgte der Einzug ins Finale von Arezzo Wave, im Oktober 2013 die Auszeichnung in der Kategorie "beste Eigenproduktion" beim italienischen Independent-Musikpreis PIMI.
 
 Mit dem Beginn des Sommers 2014 zogen sich Le Capre A Sonagli ins Studio zurück, um im März 2015 mit ihrem Album "The Fauno" wieder herauszukommen, auf dem sich Blues und Lo-fi mit wirren Traumsequenzen mischen.
 

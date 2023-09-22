@@ -1,10 +1,6 @@
 ---
 ogTitle: Stella McCartney kreiert mit Bolt Threads Mode-Linie aus Pilzleder
-excerpt: Stella McCartney hat jetzt die weltweit erste High Fashion
-  Kleidungsstücke aus Mylo – der Name steht für eine vegane Lederalternative auf
-  Basis von Pilzen – kreiert. Die Fair Fashion Designerin hat die Stücke in
-  Kooperation mit Bolt Threads gemacht, einer Firma, die nachhaltige Materialien
-  aus der Natur verarbeitet.
+excerpt: Stella McCartney hat jetzt die weltweit erste High Fashion Kleidungsstücke aus Mylo – der Name steht für eine vegane Lederalternative auf Basis von Pilzen – kreiert. Die Fair Fashion Designerin hat die Stücke in Kooperation mit Bolt Threads gemacht, einer Firma, die nachhaltige Materialien aus der Natur verarbeitet.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_paris-jackson-modelling-screenshot-video-copyright-stellamccartney-fb.png__l.jpg
 isAffiliate: false
 path: /2021/03/stella-mccartney-vegane-lederalternative-pilz/
@@ -21,10 +17,8 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03
 title: Stella McCartney kreiert Mode-Linie aus Pilzleder
 subTitle: Vegane Lederalternative goes High Fashion
 seoTitle: Stella McCartney kreiert mit Bolt Threads Mode-Linie aus Pilzleder
-description: Stella McCartney hat jetzt die weltweit erste High Fashion
-  Kleidungsstücke aus einer vegane Lederalternative auf Basis von Pilzen
-  kreiert.
-copyrigt: ""
+description: Stella McCartney hat jetzt die weltweit erste High Fashion Kleidungsstücke aus einer vegane Lederalternative auf Basis von Pilzen kreiert.
+copyright: ''
 labels:
   - Bolt Threads
   - Fair Fashion

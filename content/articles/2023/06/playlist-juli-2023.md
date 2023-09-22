@@ -5,16 +5,10 @@ typeName: Beitrag
 title: Playlist Juli 2023
 subTitle: Von BEAR bis Bring Me The Horizon
 seoTitle: Alternative Playlist Juli 2023
-description: Alternative Playlist Juli – es ist soweit, sie ist da! Mit dabei
-  sind dieses Mal neben "alten Bekannten" wie Bring Me The Horizon und BEAR auch
-  ein paar echte Geheimtipps.
-excerpt: Bevor ich für zwei Wochen in den Urlaub verdufte, lege ich die Playlist
-  für den Juli noch vor. Die Songs sind so heiß wie das derzeitige Wetter, also
-  vergesst die Elektrolyte nicht! Viel Spaß beim Hören mit Musik von Post-Rock
-  bis Emocore! Die fertigen Playlists für Eure Lieblings-Streaming-Dienste habe
-  ich angefügt.
+description: Alternative Playlist Juli – es ist soweit, sie ist da! Mit dabei sind dieses Mal neben "alten Bekannten" wie Bring Me The Horizon und BEAR auch ein paar echte Geheimtipps.
+excerpt: Bevor ich für zwei Wochen in den Urlaub verdufte, lege ich die Playlist für den Juli noch vor. Die Songs sind so heiß wie das derzeitige Wetter, also vergesst die Elektrolyte nicht! Viel Spaß beim Hören mit Musik von Post-Rock bis Emocore! Die fertigen Playlists für Eure Lieblings-Streaming-Dienste habe ich angefügt.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-26/playlist-juli-2023-jpg-imagine-080808_715f58_1024_768/640.webp
-copyrigt: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-26/playlist-juli-2023-og-png-imagine-080808_715f5a_1200_628/640.webp
 labels:
   - BEAR
@@ -46,6 +40,7 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Bevor ich für zwei Wochen in den Urlaub verdufte, lege ich die Playlist für den Juli noch vor. Die Songs sind so heiß wie das derzeitige Wetter, also vergesst die Elektrolyte nicht! Viel Spaß beim Hören mit Musik von Post-Rock bis Emocore!**
 
 Die fertig zusammengestöpselten Playlists für iTunes & Co. findet Ihr wie immer ganz unten.
@@ -56,9 +51,9 @@ Es ist endlich offiziell! BEAR haben Ihr neues Album angekündigt! "Vanta" soll 
 
 <YouTube id="ejGnJGtHfcc" />
 
-![BEAR | large](https://storage.googleapis.com/cardamonchai-media/2023-06-26/bear-band-jpg-imagine-080808_681a27_800_600/640.webp "BEAR")
+![BEAR | large](https://storage.googleapis.com/cardamonchai-media/2023-06-26/bear-band-jpg-imagine-080808_681a27_800_600/640.webp 'BEAR')
 
-## Soars –  "Old & Heavy" (Vorauskopplung vom Album "Repeater")
+## Soars – "Old & Heavy" (Vorauskopplung vom Album "Repeater")
 
 Fans von God Is An Astronaut, pg.lost, Caspian, Mogwai und Explosions in the Sky aufgepasst: Soars sind wieder da! Das Solo-Projekt von Kristian Karlsson, Synth Player bei Cult of Luna und Sänger und Bassist bei pg.lost hat es in sich. Das Album "Repeater" steckt voller melancholischer Melodien, Delay und tiefen Gefühlen. Kristian formuliert das selbst so:
 
@@ -68,7 +63,7 @@ Während Kristian sein Solo-Debüt 2021 selbst veröffentlichte, erscheint die n
 
 <YouTube id="5VO8_BkUcBY" />
 
-![Soars | large](https://storage.googleapis.com/cardamonchai-media/2023-06-26/soars-band-jpg-imagine-282818_3b341d_800_534/640.webp "Soars")
+![Soars | large](https://storage.googleapis.com/cardamonchai-media/2023-06-26/soars-band-jpg-imagine-282818_3b341d_800_534/640.webp 'Soars')
 
 ## Sigur Rós – "Klettur" vom Album "ÁTTA"
 
@@ -86,9 +81,9 @@ Und noch einer aus Matzes Plattenkiste:
 
 <YouTube id="O0n_N-xGx6o" />
 
-## OK WAIT  – "Horses" (Vorauskopplung vom Album "Signal")
+## OK WAIT – "Horses" (Vorauskopplung vom Album "Signal")
 
-Instrumentaler Noise Rock aus Hamburg kommt von OK Wait. Ihr neues Album "Signal", das am 30.6. erscheint, könnt Ihr schon vorbestellen.  Entstanden sind die ziemlich genialen neun Stücke in der Mühle, die einige von Euch sicher von den legendären The Ocean Sessions kennen. Aufgenommen und co-produziert hat sie Peter Voigtmann. Er ist auch für die Sythesizer verantwortlich. Den Mix hat Scott Evans bei Antisleep gemacht. Ihr findet, irgendwie trägt das Ganze Magnus Lindbergs Handschrift? Kein Wunder. Er hat die Platte in den Redmount Studios gemastert! Insgesamt haltet Ihr damit ganz schön hochkarätige Musik in den Händen. Und OK Wait haben ganze Arbeit geleistet. Mit Ihrem Sound übertreten Sie bewusst Grenzen und bedienen sich in Noise Rock, Shoegaze, Doome und Black Metal. Das führt zu einem ganz besonderen Hörerlebnis, das wir hoffentlich auch bald live haben können.
+Instrumentaler Noise Rock aus Hamburg kommt von OK Wait. Ihr neues Album "Signal", das am 30.6. erscheint, könnt Ihr schon vorbestellen. Entstanden sind die ziemlich genialen neun Stücke in der Mühle, die einige von Euch sicher von den legendären The Ocean Sessions kennen. Aufgenommen und co-produziert hat sie Peter Voigtmann. Er ist auch für die Sythesizer verantwortlich. Den Mix hat Scott Evans bei Antisleep gemacht. Ihr findet, irgendwie trägt das Ganze Magnus Lindbergs Handschrift? Kein Wunder. Er hat die Platte in den Redmount Studios gemastert! Insgesamt haltet Ihr damit ganz schön hochkarätige Musik in den Händen. Und OK Wait haben ganze Arbeit geleistet. Mit Ihrem Sound übertreten Sie bewusst Grenzen und bedienen sich in Noise Rock, Shoegaze, Doome und Black Metal. Das führt zu einem ganz besonderen Hörerlebnis, das wir hoffentlich auch bald live haben können.
 
 <YouTube id="-sgdflFb0mE" />
 
@@ -98,7 +93,7 @@ Nochmal noisy, dieses Mal aus Louisville, Kentucky. Jayle Jayle entstand, als Yo
 
 <YouTube id="iZFcILhreGE" />
 
-![Jayle Jayle | large](https://storage.googleapis.com/cardamonchai-media/2023-06-26/jayle-jayle-band-jpeg-imagine-080808_311c19_705_460/640.webp "Jayle Jayle")
+![Jayle Jayle | large](https://storage.googleapis.com/cardamonchai-media/2023-06-26/jayle-jayle-band-jpeg-imagine-080808_311c19_705_460/640.webp 'Jayle Jayle')
 
 ## Greengoat – "The Seed"
 
@@ -106,7 +101,7 @@ Greengoat – das ist ein Psychedelic-Stoner-Projekt aus dem schönen Madrid. Di
 
 <YouTube id="qWbXvhJrkis" />
 
-![Greengoat | large](https://storage.googleapis.com/cardamonchai-media/2023-06-26/greengoat-band-jpeg-imagine-080808_7b8279_1915_1080/640.webp "Greengoat")
+![Greengoat | large](https://storage.googleapis.com/cardamonchai-media/2023-06-26/greengoat-band-jpeg-imagine-080808_7b8279_1915_1080/640.webp 'Greengoat')
 
 ## Grant the Sun – "Vertigo" vom Album "Voyage"
 
@@ -114,11 +109,11 @@ Das neue Album von Grant the Sun heißt treffender Weise "Voyage". Die insgesamt
 
 <YouTube id="aKozPOr_o2Y" />
 
-![Grant the Sun | large](https://storage.googleapis.com/cardamonchai-media/2023-06-26/grant-the-sun-band-jpeg-imagine-080808_212121_600_429/640.webp "Grant the Sun")
+![Grant the Sun | large](https://storage.googleapis.com/cardamonchai-media/2023-06-26/grant-the-sun-band-jpeg-imagine-080808_212121_600_429/640.webp 'Grant the Sun')
 
 ## The Gorge – "Beneath the Crust" (Vorauskopplung vom Album "Mechanical Fiction")
 
-Mögt Ihr progressiven Metalcore? Dann sind Euch The Gorge aus St Louis vielleicht schon ein Begriff. Geboren aus ihrer gemeinsamen Liebe für Heavy Music veröffentlichen sie jetzt ihr inzwischen viertes gemeinsames Werk: Ihr neues Album "Mechanical Fiction" haben sie für den 28. Juli angekündigt. Zum Glück kann ich es heute schon hören, sonst würde mir definitiv etwas fehlen. Für Euch habe ich die Vorauskopplung "Beneath the Crust" mitgebracht. 
+Mögt Ihr progressiven Metalcore? Dann sind Euch The Gorge aus St Louis vielleicht schon ein Begriff. Geboren aus ihrer gemeinsamen Liebe für Heavy Music veröffentlichen sie jetzt ihr inzwischen viertes gemeinsames Werk: Ihr neues Album "Mechanical Fiction" haben sie für den 28. Juli angekündigt. Zum Glück kann ich es heute schon hören, sonst würde mir definitiv etwas fehlen. Für Euch habe ich die Vorauskopplung "Beneath the Crust" mitgebracht.
 
 <YouTube id="J16k6nA2vOQ" />
 
@@ -135,4 +130,11 @@ Die Entwicklung von Bring Me The Horizon beobachte ich schon lange mit Hingabe. 
 
 ## Die Juli-Playlist auf YouTube
 
-<iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUINwF0NebN-cR6s5OrWuM1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe
+  style="width: 100%; aspect-ratio: 16 / 9"
+  src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUINwF0NebN-cR6s5OrWuM1T"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+></iframe>

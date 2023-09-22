@@ -5,16 +5,10 @@ typeName: Review
 title: '"The death of Death"'
 subTitle: New Album By Playgrounded
 seoTitle: Playgrounded – "The death of Death" – Prog Review
-description: The new Playgrounded album "The death of Death" is a study of unity
-  in opposition. It is about revealing contradictory aspects of reality. An
-  excellent prog record with a fascinating background awaits you.
-excerpt: The new Playgrounded album "The death of Death" is a study of unity in
-  opposition. It is about revealing contradictory aspects of reality. The band
-  sees it as a disclosure of contradictory aspects of reality and an expression
-  of their mutual relationship. The record will be released on March 18th and
-  definitely deserves attention.
+description: The new Playgrounded album "The death of Death" is a study of unity in opposition. It is about revealing contradictory aspects of reality. An excellent prog record with a fascinating background awaits you.
+excerpt: The new Playgrounded album "The death of Death" is a study of unity in opposition. It is about revealing contradictory aspects of reality. The band sees it as a disclosure of contradictory aspects of reality and an expression of their mutual relationship. The record will be released on March 18th and definitely deserves attention.
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-10/playgrounded-the-death-of-death-jpg-imagine-080808_110f0e_1024_768/640.webp
-copyrigt: Playgrounded
+copyright: Playgrounded
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-10/playgrounded-fb-png-imagine-080808_110f0e_1200_628/640.webp
 labels:
   - Post-Rock
@@ -31,13 +25,14 @@ affiliate: false
 language: en
 languageLink: /2022/02/playgrounded-the-death-of-death/
 ---
+
 **The new Playgrounded album "The death of Death" is a study of unity in opposition. It is about revealing contradictory aspects of reality. The band sees it as a disclosure of contradictory aspects of reality and an expression of their mutual relationship. The record will be released on March 18th and definitely deserves attention.**
 
 The first single is also called "The death of Death". Playgrounded created the video for it in collaboration with director Dimitris Anagnostou and cameraman Yannis Karabatsos. The duo already made the award-winning short film "Mare Nostrum", for which singer Stavros composed the music.
 
 ## A very special video
 
-Michael Kotsirakis of Playgrounded told Pelagic Records: 
+Michael Kotsirakis of Playgrounded told Pelagic Records:
 
 > Dimitris's idea about a "study of movement" materialised in early cinema techniques, inspired by Orestis' dialectical lyrics concept, which they eventually adapted into the clip's script. Karabatsos' sinister photography explores movement in contradictions: black and white, direction and diffusion, alienation and struggle, stillness and life."
 

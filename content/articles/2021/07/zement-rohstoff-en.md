@@ -5,11 +5,9 @@ typeName: Review
 title: Zement - "Rohstoff"
 subTitle: A Statement To The Music World
 seoTitle: Zement - "Rohstoff" – A Statement To The Music World
-description: With their third LP, Zement deliver neo-krautrock/psychedelic at
-  its best – perfectly composed with beautiful techno borrowings. "Rohstoff" is
-  a thoroughly danceable record that fits well into our times
+description: With their third LP, Zement deliver neo-krautrock/psychedelic at its best – perfectly composed with beautiful techno borrowings. "Rohstoff" is a thoroughly danceable record that fits well into our times
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-jpg-imagine-181818_5c4a4c_1024_768/640.webp
-copyrigt: Zement
+copyright: Zement
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-fb-png-imagine-f8f8f8_a67460_1200_628/640.webp
 labels:
   - Experimental
@@ -40,7 +38,7 @@ The new album is anything but overproduced. I would even say it's quite the oppo
 
 ![Zement – "Rohstoff"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-3-jpeg-imagine-080808_552610_800_800/640.webp "Zement – \\"Rohstoff\\"")
 
-Nevertheless, Christian Büdel (drums, percussion) and Philipp Hager (guitar, synths, drum machines, effects, flutes) do not limit their music to reminiscing. Instead, they have found their entirely own style, and it's pretty cool, though. 
+Nevertheless, Christian Büdel (drums, percussion) and Philipp Hager (guitar, synths, drum machines, effects, flutes) do not limit their music to reminiscing. Instead, they have found their entirely own style, and it's pretty cool, though.
 
 Listening to it triggers a bit more than just nodding your head in time. Zement get you off the couch, and they do it with a good drive.
 
@@ -50,7 +48,7 @@ When exploring the songs attentively, you will notice many lovely little details
 
 ## A versatile record with exciting details
 
-Zement recorded their third album with Florian Helleken at Hersbrooklyn Recordings.   The result is by no means raw material but quite polished. Things like little built-in guitar and sax interludes blossom and disappear right back into the background of this massive wall of sound in just the right moments.
+Zement recorded their third album with Florian Helleken at Hersbrooklyn Recordings. The result is by no means raw material but quite polished. Things like little built-in guitar and sax interludes blossom and disappear right back into the background of this massive wall of sound in just the right moments.
 
 What I particularly like about "Rohstoff" is the versatility and speed of the record. Unlike what you might expect from psychedelic bands, the pieces neither get out of hand nor do they merge into each other without noticeable transitions. Instead, all eight songs are standing entirely for themselves and, nonetheless, are building precious completeness when you listen to them in a row. So: Go check it out! It's worth it!
 

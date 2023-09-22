@@ -5,12 +5,9 @@ typeName: Review
 title: '"Unmaker" By LLNN'
 subTitle: Post-Apocalyptic Sounds From Copenhagen
 seoTitle: '"Unmaker" By LLNN – Post-Metal Review'
-description: "There is an album release coming up on September 24 that you
-  shouldn't miss in any case: \"Unmaker\" by LLNN is a textbook example of dark
-  and heavy post-metal. If you are enthusiastic about this genre, you should
-  definitely check out this monolith."
+description: 'There is an album release coming up on September 24 that you shouldn''t miss in any case: "Unmaker" by LLNN is a textbook example of dark and heavy post-metal. If you are enthusiastic about this genre, you should definitely check out this monolith.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn-jpg-imagine-181818_000000_1024_768/640.webp
-copyrigt: LLNN
+copyright: LLNN
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn-fb-png-imagine-282828_454545_1200_628/640.webp
 labels:
   - Copenhagen
@@ -37,7 +34,7 @@ The next song is called "Desecrator". LLNN sound designer Ketil G. Sejersen desc
 
 > "In chaotic times, chaotic sonic vibrations sprout in the form of pulverising energy, desperation and heaviness. This song is all about that."
 
-![LLNN – "Unmaker"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn1625512125413194-jpg-imagine-080808_2c241d_440_440/640.webp "LLNN – \"Unmaker\"")
+![LLNN – "Unmaker"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn1625512125413194-jpg-imagine-080808_2c241d_440_440/640.webp 'LLNN – "Unmaker"')
 
 That doesn't only sound crass – it is. The second track on the record lacks ear protection in its 4:13. It picks up the listener in this one place where we all are right now: On a wave of confusion and doubt, uncertain what awaits us behind the next corner. At the same time, it is a gutural invitation to dive further into the sound underground of LLNN and explore the darkness and heaviness that awaits us there.
 
@@ -55,7 +52,7 @@ I like how the record develops. I can hardly add anything to the words of singer
 
 > "It's a song about feeling worthless. Forever doomed to sit with the kids at the dinner table, fed with scraps from banquets of kings."
 
-![LLNN](https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn-1-jpg-imagine-182828_4c453a_1024_768/640.webp "LLNN")
+![LLNN](https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn-1-jpg-imagine-182828_4c453a_1024_768/640.webp 'LLNN')
 
 Each song tells its own story. Altogether, this creates a monumental epos that you definitely should listen to in one piece sometime soon.
 
@@ -65,7 +62,7 @@ Each song tells its own story. Altogether, this creates a monumental epos that y
 
 "Forger" kicks off at full speed, metallic and angry – raw and wonderful. It is followed by the longest song on "Unmaker" with 6:03. It melodically sticks to the storyline and, after a short, almost contemplative opening, immediately ramps up to the usual heaviness, alternating with exciting phases of calm. It is precisely this alternation of solid plateaus and thoughtful moments that makes the track my favourite on the album.
 
-![LLNN](https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn-2-jpg-imagine-2838c8_6d7adf_1024_768/640.webp "LLNN")
+![LLNN](https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn-2-jpg-imagine-2838c8_6d7adf_1024_768/640.webp 'LLNN')
 
 The next song, "Tethers", is an excellent transition – it sets another contrasty landmark. Finally, "Resurrection" provides a dignified epilogue, which seems like the landing after a years-long exploratory flight through the depths of space full of dangerous encounters and adventures.
 

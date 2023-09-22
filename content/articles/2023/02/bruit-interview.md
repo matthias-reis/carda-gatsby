@@ -5,17 +5,10 @@ typeName: Interview
 title: Interview mit BRUIT ≤ Gitarrist Théophile Antolinos
 subTitle: '"Seinen Lebensstil zu hinterfragen, ist eine unbequeme Form der Kritik"'
 seoTitle: Interview mit BRUIT ≤ Gitarrist Théophile Antolinos
-description: Lest jetzt mein Interview mit BRUIT ≤ Gitarrist und erfahrt alles
-  über den Protestsong, den die Band zu ihrem Spotify-Boykott geschrieben hat.
-  Dazu gibt es News zu den Album-Gerüchten!
-excerpt: Wenn Ihr Euch schon mal mit französischer Post-Music beschäftigt habt,
-  sind Euch BRUIT ≤ ein Begriff. Sie sorgen mit ihrem beeindruckenden, düsteren
-  Sound für Aufsehen und stechen damit klar aus der europäischen Szene hervor.
-  Ich hatte schon ein paar Mal das Privileg, sie live erleben zu dürfen und war
-  jedes Mal beeindruckt. Jetzt hatte ich die Gelegenheit Gitarrist Théophile
-  Antolinos für ein Interview zu treffen und habe sie natürlich genutzt.
+description: Lest jetzt mein Interview mit BRUIT ≤ Gitarrist und erfahrt alles über den Protestsong, den die Band zu ihrem Spotify-Boykott geschrieben hat. Dazu gibt es News zu den Album-Gerüchten!
+excerpt: Wenn Ihr Euch schon mal mit französischer Post-Music beschäftigt habt, sind Euch BRUIT ≤ ein Begriff. Sie sorgen mit ihrem beeindruckenden, düsteren Sound für Aufsehen und stechen damit klar aus der europäischen Szene hervor. Ich hatte schon ein paar Mal das Privileg, sie live erleben zu dürfen und war jedes Mal beeindruckt. Jetzt hatte ich die Gelegenheit Gitarrist Théophile Antolinos für ein Interview zu treffen und habe sie natürlich genutzt.
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-1-jpg-imagine-080808_494949_1024_768/640.webp
-copyrigt: BRUIT ≤
+copyright: BRUIT ≤
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-og-jpg-imagine-080808_494949_1200_628/640.webp
 labels:
   - BRUIT ≤
@@ -31,6 +24,7 @@ affiliate: false
 language: de
 languageLink: /2023/02/bruit-interview-en/
 ---
+
 **Wenn Ihr Euch schon mal mit französischer Post-Music beschäftigt habt, sind Euch BRUIT ≤ ein Begriff. Sie sorgen mit ihrem beeindruckenden, düsteren Sound für Aufsehen und stechen damit klar aus der europäischen Szene hervor. Ich hatte schon ein paar Mal das Privileg, sie live erleben zu dürfen und war jedes Mal beeindruckt. Jetzt hatte ich die Gelegenheit Gitarrist Théophile Antolinos für ein Interview zu treffen und habe sie natürlich genutzt.**
 
 Vor Kurzem zogen BRUIT ≤ die Aufmerksamkeit mit ihrem Manifest gegen den Musik-Streaming-Service Spotify auf sich. Mit "The Boycott Manifesto" bringen sie ihren Ärger über die Ausbeutung von Künstler⋆innen durch das Portal und ihren Inhaber zum Ausdruck – und gegen die Ungerechtigkeit des Algorithmus, mit dem heute der Erfolg einer Band steht und fällt. Die Themen bieten natürlich jede Menge Gesprächsmaterial – schließlich betreffen sie uns alle irgendwie. Ich wollte sie mir also mit all ihren Aspekten anschauen.
@@ -43,19 +37,19 @@ Vor Kurzem zogen BRUIT ≤ die Aufmerksamkeit mit ihrem Manifest gegen den Musik
 
 ## "Wir mussten 'The Boycott Manifesto' unbedingt veröffentlichen!"
 
-![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-3-jpg-imagine-282828_6e6e6e_1024_768/640.webp "BRUIT ≤")
+![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-3-jpg-imagine-282828_6e6e6e_1024_768/640.webp 'BRUIT ≤')
 
 **Théophile:** Danke Dir! Wir mussten diesen Track einfach veröffentlichen. Mit all den Nachrichten von Menschen, die uns gefragt haben, wann wir unsere Musik endlich auf diesen Plattformen veröffentlichen werden, gab es für uns keine andere Wahl – schließlich ist es immer gut, für Klarheit zu sorgen. Stattdessen sehen wir heute eine größere Debatte zwischen den Leuten und es gibt mehr Diskussionen zu dem Thema in der kleinen Gemeinschaft aus Menschen, die unsere Musik hören.
 
-Soweit ich die öffentliche Reaktion einschätzen kann, ist es wirklich merkwürdig. Natürlich wollen die Leute uns unterstützen, es fühlen sich aber nicht alle wohl mit dem Stück.  Es kann schon hart für Menschen sein, die eine oder mehrere dieser großen Plattformen abonniert haben, den Song und seine Hintergründe anzunehmen. Ich denke, manche fühlen sich unbeabsichtigt als Ziel unserer Aktion – es fühlt sich für sie wie ein Urteil über ihre Art, Musik zu konsumieren, an. Um uns zu verstehen und uns weiterzubewegen in dieser kopfstehenden Welt, müssen wir uns gegenseitig als willenlose Mitläufer hinter einer gierigen Maschine sehen.
+Soweit ich die öffentliche Reaktion einschätzen kann, ist es wirklich merkwürdig. Natürlich wollen die Leute uns unterstützen, es fühlen sich aber nicht alle wohl mit dem Stück. Es kann schon hart für Menschen sein, die eine oder mehrere dieser großen Plattformen abonniert haben, den Song und seine Hintergründe anzunehmen. Ich denke, manche fühlen sich unbeabsichtigt als Ziel unserer Aktion – es fühlt sich für sie wie ein Urteil über ihre Art, Musik zu konsumieren, an. Um uns zu verstehen und uns weiterzubewegen in dieser kopfstehenden Welt, müssen wir uns gegenseitig als willenlose Mitläufer hinter einer gierigen Maschine sehen.
 
 Wir wissen alle, dass nichts an der Art, auf die wir Musik konsumieren (und so gut wie alles andere) unsere eigene Entscheidung ist. Heute wird alles von den Monopolen gesteuert. Wenn Du Dich selbst von Streaming-Plattformen, Netflix und sozialen Netzwerken abschneiden würdest, würde das fast einem sozialen Selbstmord gleichkommen. Wir wissen das und mit diesem Titel haben wir die Parasiten ins Visier genommen, die uns zwingen, ihre Monopole zu füttern – nicht Menschen wie uns, die von diesen Monopolen leiden. Für eine Band ist es hart, sich von den Plattformen fernzuhalten. Es ist hart für Leute, die Musik lieben, sich nicht dort anzumelden. Wir wissen das und einige von uns hören sich auch Musik auf diesen Plattformen an.
 
 ## "Dieser Song ist für alle, die Spotify aus Zwang abonniert haben und sich ein faireres Modell wünschen!"
 
-![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-2-jpg-imagine-282828_2c2c2c_1024_768/640.webp "BRUIT ≤")
+![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-2-jpg-imagine-282828_2c2c2c_1024_768/640.webp 'BRUIT ≤')
 
-Weißt Du, wenn ich mir morgen eine Dokumentation über die Schäden, die fossile Energie verursacht anschaue, teile ich sie mit den Menschen um mich herum. Ich fahre aber auch einen Diesel  und habe das Gefühl, meine Überzeugungen und mein Lebensstil stehen nicht nur hier im Widerspruch zueinander. Es ist nie angenehm, seine Lebensgewohnheiten zu hinterfragen und zu realisieren, was man alles verbockt hat. Seinen Lebensstil zu kritisieren, ist eine unbequeme Form der Kritik. Es bringt Dich dazu, Dich selbst und Deine kurze Zeit auf diesem Planeten zu hinterfragen. Das sollte jedoch nur Wut in uns provozieren, nicht Scham und Verlegenheit. Dieser Song ist für alle, die Spotify aus Zwang abonniert haben und sich ein faireres Modell wünschen!
+Weißt Du, wenn ich mir morgen eine Dokumentation über die Schäden, die fossile Energie verursacht anschaue, teile ich sie mit den Menschen um mich herum. Ich fahre aber auch einen Diesel und habe das Gefühl, meine Überzeugungen und mein Lebensstil stehen nicht nur hier im Widerspruch zueinander. Es ist nie angenehm, seine Lebensgewohnheiten zu hinterfragen und zu realisieren, was man alles verbockt hat. Seinen Lebensstil zu kritisieren, ist eine unbequeme Form der Kritik. Es bringt Dich dazu, Dich selbst und Deine kurze Zeit auf diesem Planeten zu hinterfragen. Das sollte jedoch nur Wut in uns provozieren, nicht Scham und Verlegenheit. Dieser Song ist für alle, die Spotify aus Zwang abonniert haben und sich ein faireres Modell wünschen!
 
 **Anne:** Ich habe mir schon gedacht, dass ein paar Leute sich davon provoziert fühlen könnten, dass gerade "The Boycott Manifesto" der erste Song ist, den Ihr jemals bei Spotify veröffentlicht habt. Ich glaube aber auch, dass Ihr damit den Nagel auf dem Kopf trefft. Ich mag Deinen Vergleich mit dem Nachhaltigkeit-Thema und ich denke, es ist ähnlich, wie bei Veganismus – Dinge, die Menschen an ihr eigenes Handeln erinnern, neigen dazu, sie zu provozieren. Es führt auf lange Sicht aber auch zu Veränderung und darum ist es gut! Wie seid Ihr denn auf die Idee gekommen? Ich finde sie ziemlich genial, muss ich sagen!
 
@@ -67,15 +61,15 @@ Weißt Du, wenn ich mir morgen eine Dokumentation über die Schäden, die fossil
 
 **Théophile:** Ich habe keine Ahnung. Wenn es um den Verkauf geht, lässt sich das schwer vergleichen, weil man dort als Künstler⋆in so gut wie nichts für seine Musik bekommt. Natürlich würden uns mehr Menschen entdecken. Ich würde also sagen, wir fokussieren uns mehr auf die Qualität als auf die Quantität.
 
-**Anne:**  Ich denke, für junge Künstler⋆innen seid Ihr ziemlich gute Vorbildern mit Euren Statements und Eurer Haltung. Ich meine: Es ist Eure Musik und Ihr allein solltet entscheiden, was damit passiert! Welchen Tipp würdest Du einer frisch gegründeten Band geben? Wie würdest Du Ihnen raten, mit der Sache umzugehen?
+**Anne:** Ich denke, für junge Künstler⋆innen seid Ihr ziemlich gute Vorbildern mit Euren Statements und Eurer Haltung. Ich meine: Es ist Eure Musik und Ihr allein solltet entscheiden, was damit passiert! Welchen Tipp würdest Du einer frisch gegründeten Band geben? Wie würdest Du Ihnen raten, mit der Sache umzugehen?
 
 **Théophile:** Ich weiß es nicht. Ich bin jung, meine Band gibt es noch nicht so lange und ich denke nicht, dass ich das Recht habe, die Art von Ratschlag zu geben. Mit diesem Projekt versuchen wir nur uns aus unserer täglichen Situation zu lösen, in der wir im Moment ein bisschen festsitzen. Spotify und all das gab es schon, bevor ich zum ersten Mal eine Gitarre in die Hand genommen habe. Unsere Generation ist gefangen darin und jedes Jahr wachsen die Monopole weiter, sie gewinnen immer mehr an Bedeutung und haben immer mehr Einfluss auf die Künstler⋆innen. Es wird in Zukunft also vermutlich alles noch viel krasser. Vielleicht sorgt die Aktion ja auch zusätzlich noch für etwas Aufmerksamkeit auf die beschissene Situation, in der sich die Bands heutzutage befinden. Das wäre schön.
 
-**Anne:** Wie ist es möglich, dass Spotify Boss Daniel Ek in KI-Waffen investiert? Sollten nicht Musikfans die Besitzer des größten Tors zur Musikwelt sein? Was meinst Du, warum die Menschen nicht  über derartige Dinge sprechen? Es ist ja mit Musk und Twitter genau dasselbe.
+**Anne:** Wie ist es möglich, dass Spotify Boss Daniel Ek in KI-Waffen investiert? Sollten nicht Musikfans die Besitzer des größten Tors zur Musikwelt sein? Was meinst Du, warum die Menschen nicht über derartige Dinge sprechen? Es ist ja mit Musk und Twitter genau dasselbe.
 
 ## "Ein System, in dem alles käuflich ist"
 
-![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-5-jpg-imagine-383838_737373_1024_768/640.webp "BRUIT ≤")
+![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-5-jpg-imagine-383838_737373_1024_768/640.webp 'BRUIT ≤')
 
 **Théophile:** Ich denke, es ist ziemlich undurchsichtig, wie digitale (und sogar physische) Musik verbreitet wird. Und es ist normal. Ich wüsste nicht, wie ich die Verteilung von Textilien, Lebensmitteln erklären soll. Und ich stimme Dir zu: Es sollten die Musiker⋆innen selbst sein, die ihre Musik verteilen. Die Tatsache, dass jedes soziale Raubtier in einen Bereich investieren kann, der ihm egal ist, ist symptomatisch für ein System, in dem alles käuflich ist.
 
@@ -101,7 +95,7 @@ Es ist dieses ganze Konstrukt: Unser Lebensstil macht die Art, Musik wie in den 
 
 ## Dinge mit Bedeutung verschwinden nicht durch Verbrauchertrends
 
-![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-4-jpg-imagine-080808_454545_1024_768/640.webp "BRUIT ≤")
+![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-4-jpg-imagine-080808_454545_1024_768/640.webp 'BRUIT ≤')
 
 Unsere Gehirne brauchen Grenzen, Beschränkungen und Wiederholungen, um etwas zu verarbeiten. Vielleicht auch, um wirklich darüber nachzudenken, was wir uns anhören und die Kreativität zu stimulieren. Ich habe mir also einen alten Walkman besorgt, mit ein paar Tapes und wiederaufladbaren Batterien. Es macht mich wahrscheinlich zu einem Nerd, aber es hat mir einen neuen Sinn dafür gegeben, wie ich mir Musik anhöre. Das hört sich irgendwie doof an. Ich denke trotzdem, dass es dieses ängstliche Gefühl beruhigt hat. Es ist wie, wenn man eine Menge Mist angesammelt hat und nicht mehr weiß, wo man steht. Das alles zu sortieren, ist gut für das Gehirn. Musik besteht aber aus Zyklen. Wer weiß, vielleicht wird es eines Tages wieder eine neue Generation gegeben, die im Keller vor Verstärkerwänden mit dem Kopf wippt und in unabhängigen Plattenläden stöbert. Was auch immer passiert, und trotz der Allmacht der Industrie bin ich sicher, dass es immer einen Platz für diese Gegenkultur geben wird, weil sie eine echte Bedeutung hat. Dinge mit Bedeutung verschwinden nicht durch Verbrauchertrends.
 
@@ -113,11 +107,11 @@ Einerseits leiden die Bands unter diesen gierigen Firmen. Sie bekommen oft nur e
 
 **Théophile:** Ich kann Dir leider auch keinen guten Ratschlag dazu geben. Natürlich hat diese Situation ihre Nachteile, aber wir tun, was wir können, und es liegt nicht an mir, die Art und Weise zu beurteilen, wie jeder Einzelne damit umgeht. Ich bin mir aber sicher: Dank engagierter Leute wie Dir kann heute überhaupt noch so etwas wie nischige Musik existieren.
 
-**Anne:** Ja, es ist wirklich ein zweischneidiges Schwert. Ich habe eine ähnliche Erfahrung gemacht, als ich Twitter verlassen habe (ich arbeite immer noch daran, meine Inhalte von Facebook zu löschen, was fast unmöglich ist). Tausende Menschen können dort Deine Beiträge lesen und Deine Musik hören, weil sie Dir folgen oder Dich durch Zufall finden (was der Algorithmus dort damit macht, steht wieder auf einer anderen Seite). Wenn Du die Portale verlässt, schneidest Du Dich selbst von den Möglichkeiten ab, die sie Dir bieten. 
+**Anne:** Ja, es ist wirklich ein zweischneidiges Schwert. Ich habe eine ähnliche Erfahrung gemacht, als ich Twitter verlassen habe (ich arbeite immer noch daran, meine Inhalte von Facebook zu löschen, was fast unmöglich ist). Tausende Menschen können dort Deine Beiträge lesen und Deine Musik hören, weil sie Dir folgen oder Dich durch Zufall finden (was der Algorithmus dort damit macht, steht wieder auf einer anderen Seite). Wenn Du die Portale verlässt, schneidest Du Dich selbst von den Möglichkeiten ab, die sie Dir bieten.
 
 Glaubst Du, dass dezentrale Plattformen wie Mastodon und Bandcamp uns vor den toxischen Auswirkungen des Kapitalismus auf die Kultur retten können? Oder ist das eine Mission Impossible? Vielleicht klappt das ja irgendwann?
 
-**Théophile:** Ich denke, es gibt viele verschiedene Möglichkeiten, Musik zu verbreiten. Wenn man sich von den sozialen Netzwerken entfernt, wird es unmöglich und man kann ebenso gut zu Hause sitzen und für sich selbst Musik machen. Aber vielleicht würde es ihre Monopole durchbrechen, wenn alle Bands beschließen würde, nur ein paar davon ihren Vorlieben und Überzeugungen entsprechen zu boykottieren (eine Streaming-Plattform, ein soziales Netzwerk usw.). 
+**Théophile:** Ich denke, es gibt viele verschiedene Möglichkeiten, Musik zu verbreiten. Wenn man sich von den sozialen Netzwerken entfernt, wird es unmöglich und man kann ebenso gut zu Hause sitzen und für sich selbst Musik machen. Aber vielleicht würde es ihre Monopole durchbrechen, wenn alle Bands beschließen würde, nur ein paar davon ihren Vorlieben und Überzeugungen entsprechen zu boykottieren (eine Streaming-Plattform, ein soziales Netzwerk usw.).
 
 Es würde ihnen zumindest einen Teil ihrer Macht nehmen und sie in Konkurrenz zu unabhängigeren Plattformen setzen, die fairere Vergütungsmodelle anbieten. Es ist wahrscheinlich nicht genug, aber es ist etwas, das jede Band auf ihrem Niveau tun kann, um jeder der großen Plattformen einen Teil ihres Publikums zu entziehen.
 
@@ -125,7 +119,7 @@ Es würde ihnen zumindest einen Teil ihrer Macht nehmen und sie in Konkurrenz zu
 
 ## "Ja! Wir wollen ein neues Album herausbringen!"
 
-![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-6-jpg-imagine-080808_6d6d6d_1024_768/640.webp "BRUIT ≤")
+![BRUIT ≤](https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-6-jpg-imagine-080808_6d6d6d_1024_768/640.webp 'BRUIT ≤')
 
 **Théophile:** 2023 wird für uns ein besonderes Jahr. Es ist ein Pausenjahr – wir möchten uns darauf konzentrieren, unser zweites Album zu schreiben, also legen wir die Gigs vorerst lieber auf Eis. Bis es so weit ist, werden wir keine neuen Tracks oder EPs veröffentlichen. Wir freuen uns darauf, ein schönes, neues Album aufzunehmen. Wir haben eine große leere Seite vor uns – wir wissen überhaupt nicht, worum sich das Album drehen wird. Eine Zeit lang wollten wir nur unser erstes Album auf der Bühne spielen und die Zukunft denken, bis wir eines Tages diese Mauer erreicht haben. Jetzt ist es Zeit für uns, die Studiotür zu schließen und uns wieder an die Arbeit zu machen. Wir werden wieder auf Tour gehen, wenn es an der Zeit ist, das zweite Album live zu präsentieren!
 
@@ -135,8 +129,16 @@ Wir freuen uns schon sehr darauf und hoffen, dass wir dann auch wieder beim ArcT
 
 **Théophile:** Danke! Vielen Dank für Deine Zeit und Leidenschaft und dafür, dass Du so spannende Themen mit mir besprochen hast!
 
-Zur Feier des Tages teile ich hier mit Euch die neueste Veröffentlichung von BRUIT ≤  – Die EP "Apologie du temps perdu, Vol. 1" ist am 27. Januar 2023 erschienen. 
+Zur Feier des Tages teile ich hier mit Euch die neueste Veröffentlichung von BRUIT ≤ – Die EP "Apologie du temps perdu, Vol. 1" ist am 27. Januar 2023 erschienen.
 
 Kauft Euch die Platten!
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1433531461/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bruitofficial.bandcamp.com/album/apologie-du-temps-perdu-vol-1">Apologie du temps perdu, Vol. 1 by BRUIT ≤</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=1433531461/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://bruitofficial.bandcamp.com/album/apologie-du-temps-perdu-vol-1">
+    Apologie du temps perdu, Vol. 1 by BRUIT ≤
+  </a>
+</iframe>

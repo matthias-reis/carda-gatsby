@@ -5,11 +5,9 @@ typeName: Interview
 title: '"Valentines Day meets Halloween"'
 subTitle: The Camel City Blackouts
 seoTitle: The Camel City Blackouts – "Valentines Day meets Halloween"
-description: The Camel City Blackouts formed in 2015. Their love for punk rock
-  and having a good time together made them a band. The band from Winston Salem,
-  NC, still consists of the founding members Ryan Sizemore and Derek Gilreath.
+description: The Camel City Blackouts formed in 2015. Their love for punk rock and having a good time together made them a band. The band from Winston Salem, NC, still consists of the founding members Ryan Sizemore and Derek Gilreath.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-the-camel-city-blackouts-l-jpeg-imagine-181818_6c6464_1440_1080/640.webp
-copyrigt: The Camel City Blackouts
+copyright: The Camel City Blackouts
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-the-camel-city-blackouts-fb-png-l-jpg-imagine-181818_595253_1440_754/640.webp
 labels:
   - Bands

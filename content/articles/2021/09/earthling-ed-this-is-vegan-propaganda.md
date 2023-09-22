@@ -5,12 +5,9 @@ typeName: Buchtipp
 title: '"This Is Vegan Propaganda & Other Lies the Meat Industry Tells You"'
 subTitle: Das neue Buch von Earthling Ed
 seoTitle: '"This Is Vegan Propaganda" – Das neue Buch von Earthling Ed – Lesetipp'
-description: Earthling Ed aka Ed Winters hat jetzt sein erstes Buch vorgestellt.
-  Der Tierrechtsaktivist möchte mit "This Is Vegan Propaganda & Other Lies the
-  Meat Industry Tells You" zum "kompletten Lockdown" der Fleischindustrie
-  aufrufen.
+description: Earthling Ed aka Ed Winters hat jetzt sein erstes Buch vorgestellt. Der Tierrechtsaktivist möchte mit "This Is Vegan Propaganda & Other Lies the Meat Industry Tells You" zum "kompletten Lockdown" der Fleischindustrie aufrufen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/this-is-vegan-propaganda-other-lies-the-meat-industry-tells-you-ed-winter-jpg-imagine-080808_616873_1024_768/640.webp
-copyrigt: Ed Winter
+copyright: Ed Winter
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/this-is-vegan-propaganda-other-lies-the-meat-industry-tells-you-ed-winter-fb-png-imagine-282828_58575d_1200_628/640.webp
 labels:
   - Ed Winter
@@ -48,13 +45,13 @@ In einem Pressestatement gegenüber Plant Based News erklärte Ed:
 
 Zunächst geht er auf die Ethik des Veganismus ein – von der Moralphilosophie bis hin zu einer Untersuchung der Tierhaltung. Anschließend wirft er einen Blick auf unsere Gesundheit und den Einfluss der Tierzucht auf die Umwelt und das Klima.
 
-![Ed Winter aka Earthling Ed](https://storage.googleapis.com/cardamonchai-media/2021-11-20/561519880-jpeg-imagine-282828_4b4445_1080_1350/640.webp "Ed Winter aka Earthling Ed")
+![Ed Winter aka Earthling Ed](https://storage.googleapis.com/cardamonchai-media/2021-11-20/561519880-jpeg-imagine-282828_4b4445_1080_1350/640.webp 'Ed Winter aka Earthling Ed')
 
 Auch das Theme Zoonosen, insbesondere natürlich die COVID-19 Pandemie, lässt Ed nicht aus. Hier legt er besonderes Augenmerk auf Infektionskrankheiten und Antiobiotikaresistenz.
 
 Bereits kurz nach der Vorstellung wird das Buch von vielen als unverzichtbare Lektüre bezeichnet. Wenn Ihr es auch gerne lesen wollt: Ihr könnt es [ab sofort vorbestellen](https://amzn.to/3CIWS2s). Die englische Ausgabe wird am 6. Januar im Verlag Penguin Random House erscheinen.
 
-Senior Commissioning EditorSamantha Jackson äußerte sich so zu "This Is Vegan Propaganda & Other Lies the Meat Industry Tells You": 
+Senior Commissioning EditorSamantha Jackson äußerte sich so zu "This Is Vegan Propaganda & Other Lies the Meat Industry Tells You":
 
 > "Von Debatten mit Landwirt⋆innen über die Ethik der Fleisch-, Milch- und Eierindustrie bis hin zu Vorlesungen über Tierethik an der Harvard University arbeitet der vegane Pädagoge und öffentliche Redner Ed Winters unermüdlich daran, den Menschen zu helfen, informierte Entscheidungen zu treffen und den Status quo infrage zu stellen. Wir sind stolz, sein erstes Buch mit ihm zu veröffentlichen. Es soll das Selbstbewusstsein der Leser⋆innen stärken und das wahre Ausmaß und die Komplexität der Ausbeutung von Tieren aufzeigen. Egal, ob Ihr bereits vegan lebt oder Euch dafür interessiert: Dieses Buch zeigt Euch, wie die andere Seite der Geschichte aussieht und was sich viel zu lange im Verborgenen abgespielt hat."
 

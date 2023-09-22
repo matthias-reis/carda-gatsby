@@ -5,17 +5,10 @@ typeName: Review
 title: '"Though Life"'
 subTitle: Das neue Album von Breaths
 seoTitle: '"Though Life" – das neue Album von Breaths – Hardcore Review'
-description: Das neue Breaths Album "Though Life" kündigt sich an und so langsam
-  wird es auch Zeit, dass ich es hier mal vorstelle. Das vegane Post-Music
-  Projekt aus Richmond, Virginia hat die Platte für Anfang nächsten Jahres
-  angekündigt.
-excerpt: Das neue Breaths Album "Though Life" kündigt sich an und so langsam
-  wird es auch Zeit, dass ich es hier mal vorstelle. Das vegane Post-Music
-  Projekt aus Richmond, Virginia hat die Platte für Anfang nächsten Jahres
-  angekündigt. "Though Life" könnte ein Anwärter für Eure Platte des Jahres 2022
-  sein.
+description: Das neue Breaths Album "Though Life" kündigt sich an und so langsam wird es auch Zeit, dass ich es hier mal vorstelle. Das vegane Post-Music Projekt aus Richmond, Virginia hat die Platte für Anfang nächsten Jahres angekündigt.
+excerpt: Das neue Breaths Album "Though Life" kündigt sich an und so langsam wird es auch Zeit, dass ich es hier mal vorstelle. Das vegane Post-Music Projekt aus Richmond, Virginia hat die Platte für Anfang nächsten Jahres angekündigt. "Though Life" könnte ein Anwärter für Eure Platte des Jahres 2022 sein.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-jpg-imagine-080808_587863_1024_768/640.webp
-copyrigt: Breaths
+copyright: Breaths
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-fb-png-imagine-080808_364333_1200_628/640.webp
 labels:
   - Breaths
@@ -39,19 +32,19 @@ languageLink: /2021/10/breaths-though-life-en/
 
 **Das neue Breaths Album "Though Life" kündigt sich an und so langsam wird es auch Zeit, dass ich es hier mal vorstelle. Das vegane Post-Music Projekt aus Richmond, Virginia hat die Platte für Anfang nächsten Jahres angekündigt.**
 
-- - -
+---
 
 **TW:** Trauer, Mobbing, Tod, Selbstzweifel, Sucht
 
-- - -
+---
 
-Gründer Jason ist überzeugt davon, dass harte Musik und Veganismus viel gemeinsam haben. Die Leidenschaft, Empathie und der Bereitschaft, die dazu nötig ist, vegan zu leben, vergleicht er damit, eine Art von Musik zu produzieren, die nicht immer nur förderlich für die Karriere ist. 
+Gründer Jason ist überzeugt davon, dass harte Musik und Veganismus viel gemeinsam haben. Die Leidenschaft, Empathie und der Bereitschaft, die dazu nötig ist, vegan zu leben, vergleicht er damit, eine Art von Musik zu produzieren, die nicht immer nur förderlich für die Karriere ist.
 
 Im [Interview](/2021/02/breaths-interview/) verriet er mir, dass düstere Post-Music für ihn die Dichotomie von Schönheit und Brutalität verkörpert – beides kann zur gleichen Zeit existieren. Was auf den Veganismus ebenso zutrifft: Zwar ist es schön, sich mit gesundem Essen und der Tatsache, dass man die Tiere in Ruhe lässt, zu beschäftigen, den brutalen Bildern aus der Tierhaltung entkommt man dennoch kaum.
 
 ## Jason aka Breaths stellt sich vor
 
-![Breaths – "Though Life"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-though-life-cover-art-png-imagine-080808_0a1111_3600_3600/640.webp "Breaths – \\\"Though Life\\\"")
+![Breaths – "Though Life"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-though-life-cover-art-png-imagine-080808_0a1111_3600_3600/640.webp 'Breaths – "Though Life"')
 
 Mit seiner Musik bringt Jason Roberts aka Breaths genau das zum Ausdruck. Seine Vorbilder Cattle Decapitation und Earth Crisis, die ihm in den 1990ern bereits zeigten, dass der Veganismus starke Wurzeln in der extremen Musik besitzt, hört man seinen Songs genauso an, wie die vielfältigen Welten von Bands wie [The Ocean](/2020/09/the-ocean-robin-staps-interview/), [Deftones](/tag/deftones), Sleep Token und Holy Fawn.
 
@@ -65,17 +58,17 @@ Alles, was er in seinem Leben bis jetzt erfahren hat, taucht auch auf seinem zwe
 
 > "Es ist viel größer, als ich es mir jemals erträumt hätte",
 
-sagt er. Der Sound erinnert definitiv an das Vorgängeralbum "Lined In Silver", ist allerdings noch robuster geworden. Die insgesamt sechs Songs haben nicht nur stimmungstechnisch einiges zu bieten. "The Elders" handelt vom Verlust geliebter Menschen in seinem Leben, von Krebs, Krankheit und Trauer. 
+sagt er. Der Sound erinnert definitiv an das Vorgängeralbum "Lined In Silver", ist allerdings noch robuster geworden. Die insgesamt sechs Songs haben nicht nur stimmungstechnisch einiges zu bieten. "The Elders" handelt vom Verlust geliebter Menschen in seinem Leben, von Krebs, Krankheit und Trauer.
 
 > "Mit drei hatte ich schon die zwei Generationen vor mir verloren und es ging weiter bis ich 23 war – all meine Vorfahren waren gegangen."
 
-brüllt Jason anklagend und voll Schmerz ins Mikro. Einer dieser Menschen taucht anschließend im mit 8:05 längsten Song auf dem Album "The Patriarch" wieder auf: 
+brüllt Jason anklagend und voll Schmerz ins Mikro. Einer dieser Menschen taucht anschließend im mit 8:05 längsten Song auf dem Album "The Patriarch" wieder auf:
 
 > "Ich kann mich kaum noch an Dein Gesicht erinnern. Ich wünschte, ich könnte es sehen. Was wäre dann wohl anders? Bin ich Dir ähnlich? Ich weiß es nicht."
 
 ## Eine schwere Schulzeit
 
-"The Tormented" handelt von Jasons schwerer Schulzeit, von Mobbing, Akzeptanz und dem Wunsch, echte Freunde zu finden: 
+"The Tormented" handelt von Jasons schwerer Schulzeit, von Mobbing, Akzeptanz und dem Wunsch, echte Freunde zu finden:
 
 > "Alles, was ich wollte, war dazuzugehören. Ich wollte akzeptiert werden und nicht gequält."
 

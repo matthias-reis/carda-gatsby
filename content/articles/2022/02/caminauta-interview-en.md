@@ -5,18 +5,10 @@ typeName: Interview
 title: The Infinite Exhale Of The Ocean
 subTitle: Interview With Film Music Composer And Ambient Artist Caminauta
 seoTitle: Interview With Film Music Composer And Ambient Artist Caminauta
-description: Caminauta (Camila) creates film soundtracks, scores and various art
-  projects. She wants to express a wide variety of moods with her work –
-  especially the quiet and reflective moments. I talked to her about her latest
-  project, "As The Seas Exhale".
-excerpt: Caminauta (Camila) creates film soundtracks, scores and various art
-  projects. She wants to express a wide variety of moods with her work –
-  especially the quiet and reflective moments. Therefore, she prefers to work
-  with various elements from the ambient and electronic world and combines them
-  with classical orchestrations. The result is a unique kind of minimalist music
-  that touches the heart and transports feelings.
+description: Caminauta (Camila) creates film soundtracks, scores and various art projects. She wants to express a wide variety of moods with her work – especially the quiet and reflective moments. I talked to her about her latest project, "As The Seas Exhale".
+excerpt: Caminauta (Camila) creates film soundtracks, scores and various art projects. She wants to express a wide variety of moods with her work – especially the quiet and reflective moments. Therefore, she prefers to work with various elements from the ambient and electronic world and combines them with classical orchestrations. The result is a unique kind of minimalist music that touches the heart and transports feelings.
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-jpg-imagine-383828_636463_1024_768/640.webp
-copyrigt: Caminauta
+copyright: Caminauta
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-fb-png-imagine-282828_777b7d_1200_628/640.webp
 labels:
   - Caminauta
@@ -36,6 +28,7 @@ affiliate: false
 language: en
 languageLink: /2022/02/filmmusik-caminauta-interview/
 ---
+
 **Caminauta (Camila) creates film soundtracks, scores and various art projects. She wants to express a wide variety of moods with her work – especially the quiet and reflective moments. Therefore, she prefers to work with various elements from the ambient and electronic world and combines them with classical orchestrations. The result is a unique kind of minimalist music that touches the heart and transports feelings.**
 
 I got to know the artist through the label where she has just released her latest piece on record: The film and ambient composer from Uruguay has joined Merigold Independent, founded by [Samuel Laubscher (Of The Vine)](/2020/05/of-the-vine-interview-en). She has been making music for a long time and not only fascinates film fans with her art. She releases her latest work, "As The Seas Exhale", just as I am writing these lines.
@@ -44,7 +37,7 @@ I got to know the artist through the label where she has just released her lates
 
 ## "The ocean inspires me"
 
-![Camila loves the ocean.](https://storage.googleapis.com/cardamonchai-media/2022-02-17/caminauta-seaside-jpg-imagine-686868_000000_768_1024/640.webp "Camila loves the ocean.")
+![Camila loves the ocean.](https://storage.googleapis.com/cardamonchai-media/2022-02-17/caminauta-seaside-jpg-imagine-686868_000000_768_1024/640.webp 'Camila loves the ocean.')
 
 **Camila:** Hello Anne, Thanks to you for having me! I am doing fine. The release is going well. It's good to know some people already pre-ordered, and I am happy to know it has such a tremendous impact on everyone.
 
@@ -56,7 +49,7 @@ I got to know the artist through the label where she has just released her lates
 
 ## "My ambient experiments helped me to dive deeper into film music"
 
-![Camila aka Caminauta in her studio.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-studio-jpg-imagine-282828_756e71_768_1024/640.webp "Camila aka Caminauta in her studio.")
+![Camila aka Caminauta in her studio.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-studio-jpg-imagine-282828_756e71_768_1024/640.webp 'Camila aka Caminauta in her studio.')
 
 **Camila:** I think what distinguishes them is that the film music part feels like my job. With my experimental/ambient project, Caminauta, I am free to express and show my musical experiments more openly to the community. Of course, they have grown together over the years, and thanks to my curiosity about ambient music, it helped me dive even deeper into composing film music.
 
@@ -72,7 +65,7 @@ The film draws a picture of the tiny world of these brown slugs, who are conside
 
 ## "I always loved being creative"
 
-![Inspired by the beach.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-jpg-imagine-a89888_748388_768_1024/640.webp "Inspired by the beach.")
+![Inspired by the beach.](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-beach-jpg-imagine-a89888_748388_768_1024/640.webp 'Inspired by the beach.')
 
 **Camila:** I really enjoy working with Samuel! He is an outstanding artist and a dear friend. We met on the internet some years ago, and I think he knows every piece of my work from my Ambient excursions till now.
 
@@ -94,7 +87,7 @@ The film draws a picture of the tiny world of these brown slugs, who are conside
 
 ## "My introspective lifestyle helps me to create things"
 
-![Can you feel the infinite exhale of the ocean?](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-waves-jpg-imagine-98b8b8_7c9294_768_1024/640.webp "Can you feel the infinite exhale of the ocean?")
+![Can you feel the infinite exhale of the ocean?](https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-waves-jpg-imagine-98b8b8_7c9294_768_1024/640.webp 'Can you feel the infinite exhale of the ocean?')
 
 **Camila:** I have enough time to do it, live near nature, and have a very introspective life. I think enjoying this lifestyle puts me in the mood to create something.
 
@@ -102,7 +95,7 @@ The film draws a picture of the tiny world of these brown slugs, who are conside
 
 **Camila:** I am on the way to preparing an Ambient/experimental EP with my Casiotone MT-68 and tape loops which I will probably release on some cassette edition next winter.
 
-**Anne:** This sounds terrific! Don't forget to text me once it's ready! 
+**Anne:** This sounds terrific! Don't forget to text me once it's ready!
 
 One last question: If you could name one thing in the world that people need to change, and they changed it. What would it be?
 
@@ -116,4 +109,12 @@ One last question: If you could name one thing in the world that people need to 
 
 <YouTube id="3KDsQd1GCgg" />
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3272757004/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://caminauta.bandcamp.com/album/as-the-seas-exhale-2">As The Seas Exhale by Caminauta</a></iframe>
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3272757004/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://caminauta.bandcamp.com/album/as-the-seas-exhale-2">
+    As The Seas Exhale by Caminauta
+  </a>
+</iframe>
