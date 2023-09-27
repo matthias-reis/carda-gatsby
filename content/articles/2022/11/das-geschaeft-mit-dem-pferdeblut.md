@@ -6,7 +6,7 @@ title: Pferdeblut in der Pharmaindustrie
 subTitle: Die grausame Realität auf den Blutfarmen
 seoTitle: Die grausame Realität auf den Blutfarmen – Pferdeblut als Ware
 description: Das Geschäft mit Pferdeblut ist grausam. Das passiert wirklich auf den Blutfarmen und so könnten sie gestoppt werden.
-excerpt: Tierrechtsaktivist⋆innen berichten immer wieder von Pferdeblutfarmen in Ländern wie Uruguay und Argentinien. Dort werden trächtige Pferde grausam gequält, um an ihr Blut zu kommen. Doch die wenigsten wissen, was auf den Farmen genau passiert.
+excerpt: Tierrechtsaktivist*innen berichten immer wieder von Pferdeblutfarmen in Ländern wie Uruguay und Argentinien. Dort werden trächtige Pferde grausam gequält, um an ihr Blut zu kommen. Doch die wenigsten wissen, was auf den Farmen genau passiert.
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-22/blutfarmen-fb-jpg-imagine-c83828_d14d49_1200_628/640.webp
 templateKey: article
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/listeria-monocytogenes-columbia-horse-blood-agar-detail-jpg-imagine-e81818_d13e3a_1440_1080/640.webp
@@ -28,7 +28,7 @@ labels:
   - Schweinezucht
 ---
 
-**Tierrechtsaktivist⋆innen berichten immer wieder von Pferdeblutfarmen in Ländern wie Uruguay und Argentinien. Dort werden trächtige Pferde grausam gequält, um an ihr Blut zu kommen. Doch die wenigsten wissen, was auf den Farmen genau passiert.**
+**Tierrechtsaktivist\*innen berichten immer wieder von Pferdeblutfarmen in Ländern wie Uruguay und Argentinien. Dort werden trächtige Pferde grausam gequält, um an ihr Blut zu kommen. Doch die wenigsten wissen, was auf den Farmen genau passiert.**
 
 ---
 
@@ -82,7 +82,7 @@ Ein Zusammenschluss aus 14 Tierrechtsorganisationen hat sich mit der Eurogroup f
 >
 > Heute sind die massiven, negativen Effekte der Massentierhaltung im Hinblick auf das Wohl der Tiere, die menschliche Gesundheit, das Klima und die Umwelt den meisten Menschen bewusst. PMSG ist ein Booster für eine fehlgeleitete Landwirtschaftspolitik. Ein Ban von PMSG würde der Logik des europäischen Green Deal und seiner Farm to Fork Strategie folgen."
 
-Anfang des Jahres geriet auch Island als Betreiber von 119 Blutfarmen ins Visier der Aktivist⋆innen. Sie forderten das Land dazu auf, die grausame Tierquälerei zu beenden, bei der dort jedes Jahr mehr als 5.000 halb wild lebende Pferde ausgebeutet werden. Das Europäische Parlament unterstützte die Forderungen nach einem Verbot und die Petition an die EU-Kommission.
+Anfang des Jahres geriet auch Island als Betreiber von 119 Blutfarmen ins Visier der Aktivist\*innen. Sie forderten das Land dazu auf, die grausame Tierquälerei zu beenden, bei der dort jedes Jahr mehr als 5.000 halb wild lebende Pferde ausgebeutet werden. Das Europäische Parlament unterstützte die Forderungen nach einem Verbot und die Petition an die EU-Kommission.
 
 ## Der Versuch, die EU-Kommission zu überzeugen
 

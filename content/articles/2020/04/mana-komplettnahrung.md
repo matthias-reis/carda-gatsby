@@ -60,7 +60,7 @@ Eine Portionsgröße enthält 400 Kalorien - genau richtig für ein leichtes Mit
   Algenprotein), Maltodextrin, pflanzliche Öle (Rapsöl, Mikroalgenöl
   Schizochytrium sp., kaltgepresstes Kokosöl, Sonnenblumenöl, Haferöl,
   kaltgepresstes Leinöl, Vitamin E, Vitamin K1), Betaglucane aus Hafer,
-  Isomaltulose⋆⋆⋆, Inluin, Möhrenfaser, Emulgator (Sojalecithin), Stabilisator
+  Isomaltulose\*\*⋆, Inluin, Möhrenfaser, Emulgator (Sojalecithin), Stabilisator
   (Gummi Arabicum, Xanthan), Vitamine und Mineralien (Natriumchlorid,
   Kaliumcitrat, Kaliumchlorid, Vitamin A, Thiamin, Riboflavin, Niacin,
   Pantothensäure, Vitamin B6, Biotin, Folsäure, Vitamin B12, Vitamin C, Vitamin

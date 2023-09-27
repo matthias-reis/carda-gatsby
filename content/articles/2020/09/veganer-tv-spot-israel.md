@@ -32,7 +32,7 @@ errors: {}
 subTitle: Veganer TV Spot aus Israel geht viral
 ---
 
-**Israels erster pro-veganer TV-Spot hat insgesamt 35 Prozent der dortigen Bevölkerung erreicht. Er wurde während einer der beliebtesten Fernsehsendungen des Landes ausgestrahlt und von den Zuschauer⋆innen sehr positiv angenommen.**
+**Israels erster pro-veganer TV-Spot hat insgesamt 35 Prozent der dortigen Bevölkerung erreicht. Er wurde während einer der beliebtesten Fernsehsendungen des Landes ausgestrahlt und von den Zuschauer\*innen sehr positiv angenommen.**
 
 Der 60-sekündige Einspieler wurde von der gemeinnützigen Organisation Vegan Friendly produziert. Darin ist ein Paar beim Einkauf im Supermarkt zu sehen. Sie begeben sich an die Metzgertheke und fragen nach "extra frischem Fleisch". Auf ihre Bitte hin wird ihnen ein lebendes Lamm in die Arme gelegt. Der Werbespot endet mit der Einblendung des Satzes "Stell die Verbindung her".
 

@@ -28,7 +28,7 @@ subTitle: MusicRadar veröffentlicht Liste
 
 **MusicRadar hat entschieden: Laura-Mary Carter von den Blood Red Shoes ist die beste Alternative Gitarristin der Welt.**
 
-Vor ein paar Tagen kürte MusicRadar die zehn besten Alternative Gitarrist⋆innen der Welt. Die ausgezeichneten Künstler⋆innen waren zuvor von den MusicRadar Leser⋆innen gewählt worden. Ausgezeichnet wurden die innovativsten, kreativsten und fingerfertigsten Spieler⋆innen.
+Vor ein paar Tagen kürte MusicRadar die zehn besten Alternative Gitarrist\*innen der Welt. Die ausgezeichneten Künstler\*innen waren zuvor von den MusicRadar Leser⋆innen gewählt worden. Ausgezeichnet wurden die innovativsten, kreativsten und fingerfertigsten Spieler⋆innen.
 
 Laura-Mary Carter von den [**Blood Red Shoes**](/2012/12/blood-red-shoes-stellen-neue-ep-vor/)  hat es mit ihrer überzeugenden und seit Jahren erstklassigen Technik wohlverdient auf Platz 1 geschafft.
 

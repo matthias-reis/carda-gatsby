@@ -51,7 +51,7 @@ Damit spricht die Kommunikation-Managerin den Punkt an, dass ARTE im Film die Au
 
 Die Doku geht davon aus, dass Dinge wie verbesserte Haltungsbedingungen, größere Ställe, kleinere Betriebe und Hausschlachtungen ausreichend seid. Die Rede ist hier auch von der Entwicklung "zurück zu eher bäuerlichen Strukturen". Als problematisch sieht sie lediglich die Industrialisierung des Systems.
 
-Der Großteil der Tierrechts- und Tierethik-Aktivist⋆innen und Veganer⋆innen dürfte das anders sehen. So auch Animal Equality[^2]:
+Der Großteil der Tierrechts- und Tierethik-Aktivist\*innen und Veganer\*innen dürfte das anders sehen. So auch Animal Equality[^2]:
 
 > "Das stimmt so nicht! Krankheiten und Verletzungen sind in kleineren Bio-Betrieben nicht unbedingt seltener, den Tieren geht es dort nicht grundsätzlich besser als in den riesigen Fabrikhallen.
 >

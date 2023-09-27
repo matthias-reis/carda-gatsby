@@ -43,7 +43,7 @@ Auf ihrem Instagram-Account bedankten sich die Schotten bei ihren Fans:
 
 > "Vielen Dank an alle, die diese Woche 'As The Love Continues' gekauft haben. Es ist unglaublich, dass unser Album in England auf Platz 1 ist! Wir sind so dankbar für Euren Support!"
 
-Unter den Gratulant⋆innen waren neben den Abbey Road Studios sämtliche Post-Rock-Projekte und unzählige Fans.
+Unter den Gratulant\*innen waren neben den Abbey Road Studios sämtliche Post-Rock-Projekte und unzählige Fans.
 
 ## Mogwai und das Post-Rock Wunder
 
@@ -81,7 +81,7 @@ Jakob von [Oh Hiroshima](/2020/06/oh-hiroshima-interview/) sagte mir:
 
 > "Auf jeden Fall! Die Leute sollen hören, was sie hören wollen aber es gibt sicher eine Menge Leute da draußen, denen das Genre sehr gefallen würde, wenn sie ihm eine Chance geben würden."
 
-In der Vergangenheit haben es alle paar Jahre alternative Bands in die Charts geschafft. Bekannte Beispiele sind hier zum Bands wie Oasis, Blur und Pulp, die mit ihrem Übernacht-Erfolg die Brit-Rock(Pop) Ära in Gang setzten. Ähnlich lief es mit Nirvana und der Grunge Szene ab. Bands, die schon viele Jahre Musik machten, tauchten plötzlich ohne Vorwarnung aus dem Untergrund auf und zogen Millionen von Fans an. Vor ihnen waren es Künstler⋆innen wie Lou Reed oder Bob Dylan.
+In der Vergangenheit haben es alle paar Jahre alternative Bands in die Charts geschafft. Bekannte Beispiele sind hier zum Bands wie Oasis, Blur und Pulp, die mit ihrem Übernacht-Erfolg die Brit-Rock(Pop) Ära in Gang setzten. Ähnlich lief es mit Nirvana und der Grunge Szene ab. Bands, die schon viele Jahre Musik machten, tauchten plötzlich ohne Vorwarnung aus dem Untergrund auf und zogen Millionen von Fans an. Vor ihnen waren es Künstler\*innen wie Lou Reed oder Bob Dylan.
 
 ## "As The Love Continues" spiegelt den Zeitgeist wider
 

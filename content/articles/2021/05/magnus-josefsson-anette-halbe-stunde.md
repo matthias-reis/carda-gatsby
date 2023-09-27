@@ -60,7 +60,7 @@ languageLink: /2021/05/magnus-josefsson-anette-halbe-stunde-en
 
 **Magnus:** Mir geht es wunderbar, danke! Ich muss sagen, dass die Situation her die ganze Zeit relativ locker war – gemessen an der weltweiten Lage.
 
-**Anne:** Es ist schön, einen anderen Veganer kennenzulernen, dem gute Musik auch wichtig ist: Also erstmal: Gratulation für Deine Entscheidung, vegan zu leben, Deinen guten Geschmack und Dein Händchen für Musik! Ich finde, das ist eine ziemlich gute Kombination. Glaubst Du, dass es sowas wie "vegane Musik" gibt? Oder "Musik für Veganer⋆innen?
+**Anne:** Es ist schön, einen anderen Veganer kennenzulernen, dem gute Musik auch wichtig ist: Also erstmal: Gratulation für Deine Entscheidung, vegan zu leben, Deinen guten Geschmack und Dein Händchen für Musik! Ich finde, das ist eine ziemlich gute Kombination. Glaubst Du, dass es sowas wie "vegane Musik" gibt? Oder "Musik für Veganer\*innen?
 
 ## "Vegan zu leben, ist eine bewusste Entscheidung"
 
@@ -72,7 +72,7 @@ languageLink: /2021/05/magnus-josefsson-anette-halbe-stunde-en
 
 **Magnus:** Vegan zu leben, ist eine bewusste Entscheidung. Ambient Music und Klanglandschaften hängen stark mit meiner Erfahrung mit meinem Bewusstsein zusammen. Musik besitzt, genau, wie das Bewusstsein keine physische Form.
 
-**Anne:** Was macht uns Veganer⋆innen so nervig? Ich habe mich über die Jahre mit so vielen von uns unterhalten und ich bekomme immer wieder Sätze zu hören wie "Als Veganer⋆in ist es schwierig, Freund⋆innen zu finden. Sobald sie hören, dass Du keine tierischen Lebensmittel zu Dir nimmst, scheinen sie beleidigt zu sein und verabschieden sich." Manchmal stimme ich dem zu und manchmal denke ich mir, es hilft mir dabei, herauszufinden, wer wirklich "Freundschaftsmaterial" ist. Hast Du diese Erfahrungen auch gemacht?
+**Anne:** Was macht uns Veganer\*innen so nervig? Ich habe mich über die Jahre mit so vielen von uns unterhalten und ich bekomme immer wieder Sätze zu hören wie "Als Veganer⋆in ist es schwierig, Freund⋆innen zu finden. Sobald sie hören, dass Du keine tierischen Lebensmittel zu Dir nimmst, scheinen sie beleidigt zu sein und verabschieden sich." Manchmal stimme ich dem zu und manchmal denke ich mir, es hilft mir dabei, herauszufinden, wer wirklich "Freundschaftsmaterial" ist. Hast Du diese Erfahrungen auch gemacht?
 
 ## "Den Menschen steht ihre Identität oft im Weg"
 

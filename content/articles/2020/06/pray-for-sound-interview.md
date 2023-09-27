@@ -51,7 +51,7 @@ Pray For Sound habe ich auf dem [DUNK! Festival 2017](/2017/06/dunk-festival-201
 
 **Anne:** Hi! Danke, dass Ihr Euch die Zeit für das Interview nehmt! ich bin so gespannt darauf, eine meiner liebsten Post-Rock-Bands kennenzulernen. Wie geht es Euch heute?
 
-**Bruce:** Danke für die netten Worte! Mir geht es gut, gemessen an dem, was gerade um uns herum passiert. Keine⋆r meiner engen Freund⋆innen oder Familienmitglieder ist krank und ich bin sehr dankbar dafür.
+**Bruce:** Danke für die netten Worte! Mir geht es gut, gemessen an dem, was gerade um uns herum passiert. Keine\*r meiner engen Freund\*innen oder Familienmitglieder ist krank und ich bin sehr dankbar dafür.
 
 **Steve:** Jupp, es musste erst eine Pandemie kommen, damit ich sehe, wie zurückgezogen ich sowieso schon lebe.
 

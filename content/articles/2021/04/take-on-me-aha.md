@@ -29,7 +29,7 @@ language: de
 
 **Heute findet das inzwischen achte musikalische Blogger Blind Date statt. Natürlich wollte ich es mir nicht entgehen lassen, auch dieses Mal wieder teilzunehmen. Die Musikwahl fiel dieses Mal auf den Song "Take On Me" von a-ha.**
 
-Für diejenigen unter Euch, die es noch nicht kennen: Beim musikalischen Blogger Blind Date verabreden sich Blogger⋆innen, um zu einem vorher verabredeten Zeitpunkt frei zu einem Song zu schreiben. Dabei entstehen ganz unterschiedliche Geschichten. Denn: Niemand weiß, was die anderen schreiben. Alle drücken gleichzeitig auf "veröffentlichen" und dann geht der Spaß so richtig los: Alle schmökern sich genüsslich durch die Geschichten und tauchen in die Welt ihrer Blogger-Kolleg⋆innen ein.
+Für diejenigen unter Euch, die es noch nicht kennen: Beim musikalischen Blogger Blind Date verabreden sich Blogger\*innen, um zu einem vorher verabredeten Zeitpunkt frei zu einem Song zu schreiben. Dabei entstehen ganz unterschiedliche Geschichten. Denn: Niemand weiß, was die anderen schreiben. Alle drücken gleichzeitig auf "veröffentlichen" und dann geht der Spaß so richtig los: Alle schmökern sich genüsslich durch die Geschichten und tauchen in die Welt ihrer Blogger-Kolleg\*innen ein.
 
 ---
 

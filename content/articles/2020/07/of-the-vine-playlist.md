@@ -59,13 +59,13 @@ languageLink: '/2020/07/of-the-vine-playlist-en'
 
 Vor ein paar Wochen lernte ich Sam bei [unserem Interview](/2020/05/of-the-vine/) kennen. Unser Gespräch und meine Fragen nach seinen musikalischen Wurzeln und seinen Lieblingsbands inspirierten ihn dazu, eine Playlist mit Songs zusammenzustellen, die ihm und seiner Band viel bedeuten.
 
-Die Künstler⋆innen sind von ihm und von Of the Vine hochgeschätzt. Ihre Kunst begleitet ihn täglich. Auch, wenn er selbst gerade an neuen Songs schreibt.
+Die Künstler\*innen sind von ihm und von Of the Vine hochgeschätzt. Ihre Kunst begleitet ihn täglich. Auch, wenn er selbst gerade an neuen Songs schreibt.
 
 Das Wort hat ab jetzt Sam. Hier sind für Euch exklusiv 13 Songs aus seiner Plattenkiste:
 
 ## The Twilight Sad - "Reflection Of The Television" vom Album "Forget The Night Ahead"
 
-The Twilight Sad sind wahrscheinlich mit die Künstler, die mich von allen am längsten begleiten. Ich habe gesehen, wie sie 2010 als Vorband von Mono gespielt haben und sie haben mich echt umgehauen. Die Gitarren sind erfrischend laut und dann sind da diese Cosmic Music Style Drums. Ich liebe auch den Gesang von James. In der Regel versuchen Sänger⋆innen ja gerne, ihren Akzent zu verstecken aber er lebt sein kerniges Schottisch voll aus.
+The Twilight Sad sind wahrscheinlich mit die Künstler, die mich von allen am längsten begleiten. Ich habe gesehen, wie sie 2010 als Vorband von Mono gespielt haben und sie haben mich echt umgehauen. Die Gitarren sind erfrischend laut und dann sind da diese Cosmic Music Style Drums. Ich liebe auch den Gesang von James. In der Regel versuchen Sänger\*innen ja gerne, ihren Akzent zu verstecken aber er lebt sein kerniges Schottisch voll aus.
 
 <YouTube id="_n_0THePDIs" />
 

@@ -29,7 +29,7 @@ languageLink: ""
 
 **Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen nachgewiesen. Im chinesischen Jiangsu wurde ein 41-jähriger Mann mit starkem Fieber ins Krankenhaus eingeliefert.**
 
-Weltweit hatten Virologi⋆innen davor gewarnt, nun gibt es tatsächlich einen Fall. Einige Wissenschaftler⋆innen halten weitere Pandemien für "unvermeidlich". Das geht aus einer Pressemitteilung hervor.
+Weltweit hatten Virologi\*innen davor gewarnt, nun gibt es tatsächlich einen Fall. Einige Wissenschaftler\*innen halten weitere Pandemien für "unvermeidlich". Das geht aus einer Pressemitteilung hervor.
 
 ## Virolog\*innen halten eine Grippe-Pandemie für unvermeidlich
 

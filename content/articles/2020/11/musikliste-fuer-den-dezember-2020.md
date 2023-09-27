@@ -50,7 +50,7 @@ subTitle: Die neuen Lieblingsplatten
 
 **Es ist wieder ein Monat vorbei und wir kommen am besten gleich zum Punkt. Ich habe Musik für Euch. Zusammengetragen habe ich die 12 Songs wieder gemeinsam mit meinen Lieblings-Musik-Nerds Matze und Valentin.**
 
-Mit dabei haben wir diesen Monat Shoegaze, Post-Metal, Post-Hardcore, Post-Rock, Experimental, Alternative, Indie und sogar Jazz. Ihr seht: Es ist auf jeden Fall für (fast) jede⋆n wieder etwas dabei. Nehmt Euch also am besten ein paar Momente Zeit, setzt Euch die Kopfhörer auf und vergesst die Welt da draußen. Das darf man im Moment nämlich durchaus ab und zu mal machen. Das ist völlig legitim. Und mit guter Musik klappt das bekanntlich am besten.
+Mit dabei haben wir diesen Monat Shoegaze, Post-Metal, Post-Hardcore, Post-Rock, Experimental, Alternative, Indie und sogar Jazz. Ihr seht: Es ist auf jeden Fall für (fast) jede\*n wieder etwas dabei. Nehmt Euch also am besten ein paar Momente Zeit, setzt Euch die Kopfhörer auf und vergesst die Welt da draußen. Das darf man im Moment nämlich durchaus ab und zu mal machen. Das ist völlig legitim. Und mit guter Musik klappt das bekanntlich am besten.
 
 Da wir in großen Schritten auf das Jahresende zu tänzeln, wird die nächste Musikliste hier im Blog vermutlich schon die "Songs des Jahres Liste" sein. Natürlich werden wir aber trotzdem stabil bleiben und Euch jeden Monat unsere 12 Lieblingsstücke liefern. Bleibt also dran. Jetzt aber erstmal die Musik aufdrehen. Viel Spaß mit den 12 Songs für den Dezember. Im Anschluss an die Videos und unsere Lobhudeleien findet Ihr natürlich auch wieder Playlisten für Spotify und iTunes zum bequemen Musikgenuss an einem Stück.
 

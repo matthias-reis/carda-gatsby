@@ -43,7 +43,7 @@ In ihrer Pressemitteilung schreibt Cameron
 
 ## Veganer Wein ohne Schnickschnack
 
-Mehr als 70 verschiedene Zusatzstoffe dürfen Weinhersteller⋆innen ihrem Wein hinzufügen, um den Geschmack und die Farbe zu beeinflussen. Cameron und Katherine schockte das ziemlich. Sie wünschten sich einen Wein ohne Schnickschnack.
+Mehr als 70 verschiedene Zusatzstoffe dürfen Weinhersteller\*innen ihrem Wein hinzufügen, um den Geschmack und die Farbe zu beeinflussen. Cameron und Katherine schockte das ziemlich. Sie wünschten sich einen Wein ohne Schnickschnack.
 
 Besonders der Klärungsprozess, bei dem häufig Fischblase, Eiweiß (Etwa drei Eiklar auf 100 Liter Wein), Gelatine oder Milchprotein verwendet wird, um den Wein von Schwebstoffen zu befreien, war den Freundinnen ein Dorn im Auge. Sie wollten keine unnötige Rückstände tierischer Produkte in ihrem Wein. Nun übernimmt bei Avaline, wie bei veganen Weinen üblich, Mineralerde den Job des Schönens.
 

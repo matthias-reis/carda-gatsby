@@ -37,7 +37,7 @@ Der WWF hat die Zahlen in einem Zwischenbericht mit dem Titel "Australia's 2019-
 
 ## Schockierende Zahlen
 
-Zehn Wissenschaftler⋆innen der Universitäten Sydney, New South Wales, New Castle Charles Sturt und von BirdLife Australia trugen den größten Teil zu der Arbeit bei. Dr. Lily van Eeden leitet das Projekt. Professor Chris Dickman hat die Aufsicht. Beide arbeiten an der Universität von Sydney.
+Zehn Wissenschaftler\*innen der Universitäten Sydney, New South Wales, New Castle Charles Sturt und von BirdLife Australia trugen den größten Teil zu der Arbeit bei. Dr. Lily van Eeden leitet das Projekt. Professor Chris Dickman hat die Aufsicht. Beide arbeiten an der Universität von Sydney.
 
 Die Ergebnisse werden derzeit noch finalisert. Allerdings ist es sehr unwahrscheinlich, dass die Zahl der Opfer nochmal nach unten korrigiert wird.
 
@@ -45,7 +45,7 @@ Der australische WWF Geschäftsführer Dermot O'Gorman zeigt sich fassungslos.
 
 > "Diese Zwischenergebnisse sind schockierend. Es hat bisher weltweit kein Ereignis gegeben, bei dem eine derart große Anzahl von Tieren getötet oder vertrieben wurden. Es ist eine der größten Wildtier-Katastrophen der Neuzeit."
 
-Die Forscher⋆innen können derzeit nicht genau sagen, wie viele Tiere getötet wurden. Professor Dickman geht davon aus, dass die Chancen, das Inferno zu überleben, gegen null gehen. Die Möglichkeiten Schutz und Nahrung zu finden, sind einfach zu gering.
+Die Forscher\*innen können derzeit nicht genau sagen, wie viele Tiere getötet wurden. Professor Dickman geht davon aus, dass die Chancen, das Inferno zu überleben, gegen null gehen. Die Möglichkeiten Schutz und Nahrung zu finden, sind einfach zu gering.
 
 ## In Zukunft immer mehr Megabrände
 

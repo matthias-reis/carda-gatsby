@@ -89,7 +89,7 @@ Instrumentaler Noise Rock aus Hamburg kommt von OK Wait. Ihr neues Album "Signal
 
 ## Jayle Jayle – "Black Diamonds and Bad Apples" (Vorauskopplung vom Album "Don't Let Your Love Life Get You Down")
 
-Nochmal noisy, dieses Mal aus Louisville, Kentucky. Jayle Jayle entstand, als YoungWidows ihre Aktivitäten herunterfuhren und Sänger und Gitarrist Evan Patterson im selben Moment Lust auf ein Solo-Projekt bekam. Als Freund⋆innen von Projekten wie Lungfish, Spacemen 3 und JJ Cale dürftet Ihr Eure helle Freude mit dieser Platte haben. "Don't Let Your Love Life Get You Down" erscheint am 14. Juli auf Pelagic, Vorbestellungen könnt Ihr schon aufgeben. Eine Vorauskopplung zum Reinhören gibt es auch schon. Und wenn Euch das nicht reicht, kann ich Euch die vier Vorgängerveröffentlichungen von Jayle Jayle sehr empfehlen.
+Nochmal noisy, dieses Mal aus Louisville, Kentucky. Jayle Jayle entstand, als YoungWidows ihre Aktivitäten herunterfuhren und Sänger und Gitarrist Evan Patterson im selben Moment Lust auf ein Solo-Projekt bekam. Als Freund\*innen von Projekten wie Lungfish, Spacemen 3 und JJ Cale dürftet Ihr Eure helle Freude mit dieser Platte haben. "Don't Let Your Love Life Get You Down" erscheint am 14. Juli auf Pelagic, Vorbestellungen könnt Ihr schon aufgeben. Eine Vorauskopplung zum Reinhören gibt es auch schon. Und wenn Euch das nicht reicht, kann ich Euch die vier Vorgängerveröffentlichungen von Jayle Jayle sehr empfehlen.
 
 <YouTube id="iZFcILhreGE" />
 

@@ -74,7 +74,7 @@ Mit dem Untersetzer-Set "Jules" hat Feuerwear eine neue Produktkategorie erschlo
 
 **Fun Fact:** Philomena erzählte uns, dass es sich, prozentual gesehen, bei dem kleinen Untersetzer um das Feuerwear Produkt dem meisten Schlauch handelt. Jeder Untersetzer wird aus zwei Stücken zusammengenäht. Hinzu kommt ein textiles Logo – bisher neu für Feuerwear, doch in der Home-Accessoires-Welt durchaus üblich. Durch die gummierte Schlauchunterseite sind die Untersetzer rutschhemmend.
 
-Ich finde: ein schönes Mitbringsel, oder? Schließlich mischt man sich nicht in die Trink-Gewohnheiten der⋆des Beschenkten ein: Ob die Untersetzer Teebecher oder Saftgläser auf ihre Untersetzer stellt, bleibt ganz allein ihr überlassen.
+Ich finde: ein schönes Mitbringsel, oder? Schließlich mischt man sich nicht in die Trink-Gewohnheiten der\*des Beschenkten ein: Ob die Untersetzer Teebecher oder Saftgläser auf ihre Untersetzer stellt, bleibt ganz allein ihr überlassen.
 
 Die Untersetzer von Feuerwear findet Ihr seit dem 5. Oktober im Onlineshop. Ein Set mit vier Untersetzern kostet 28 Euro.
 

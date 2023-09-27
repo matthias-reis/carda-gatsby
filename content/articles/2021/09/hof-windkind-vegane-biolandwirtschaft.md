@@ -3,7 +3,7 @@ date: 2021-09-22T12:13:00.602Z
 slug: hof-windkind-vegane-biolandwirtschaft
 typeName: Produkttest
 title: Hof Windkind
-subTitle: So betreibt Ihr als Bodenpat⋆innen selbst aktiv Biolandwirtschaft
+subTitle: So betreibt Ihr als Bodenpat*innen selbst aktiv Biolandwirtschaft
 seoTitle: Mit Hof Windkind als Bodenpat*in selbst aktiv Biolandwirtschaft betreiben
 description: Mit Hof Windkind verbindet mich inzwischen schon eine langjährige Freundschaft. Das Gründerpaar Silvia und David baut dort bio-vegane Nüsse an, aus denen sie unter anderem hochwertiges Walnussöl herstellen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-09-22-hof-windkind-walnussoel-3-jpg-imagine-080808_584739_1024_768/640.webp
@@ -46,7 +46,7 @@ Die beiden sind willkommene Gäste auf meiner Seite und melden sich immer wieder
 
 Sie funktioniert so: Silvia und David machen aus kargem Ackerland eine Öko-Oase für Mensch und Tier. Ihr habt dann die Möglichkeit, eine Boden- oder Baumpatenschaft übernehmen.
 
-Als [Bodenpat⋆innen](/2021/04/bodenpatenschaft-hof-windkind/) bekommt Ihr Euren Ernteanteil vom Hof Windkind im Plastik-freien Post-Versand ganz bequem nach Hause geliefert. Anschließend könnt Ihr nach Herzenslust Nüsse oder [Walnussöl](/2020/10/walnussoel-hof-windkind/) schlemmen und die Natur rund um den Hof erholt sich nach und nach.
+Als [Bodenpat\*innen](/2021/04/bodenpatenschaft-hof-windkind/) bekommt Ihr Euren Ernteanteil vom Hof Windkind im Plastik-freien Post-Versand ganz bequem nach Hause geliefert. Anschließend könnt Ihr nach Herzenslust Nüsse oder [Walnussöl](/2020/10/walnussoel-hof-windkind/) schlemmen und die Natur rund um den Hof erholt sich nach und nach.
 
 Ihr tut also etwas Gutes und macht Eure Küche noch schmackhafter und gesünder. Das klingt ziemlich gut, oder?
 
@@ -72,7 +72,7 @@ Die Patenschaft dauert jeweils ein Jahr. Ob Ihr im nächsten Jahr wieder eine ü
 
 Neben den Bodenpatenschaften könnt Ihr bei Hof Windkind auch Baumpatenschaften übernehmen. Ihr adoptiert dann einen Walnuss- oder Haselnussbaum und bekommt die Ernte praktisch in einem Karton verpackt portofrei nach Hause. Solange Euer Baum noch keine Früchte trägt, bekommt Ihr die Nüsse von anderen Windkind Bäumen. Bei der Baumpatenschaft könnt Ihr Euch entscheiden, ob Ihr sie erstmal nur für ein Jahr oder gleich für drei Jahre übernehmen möchtet.
 
-Je mehr Bäume Pat⋆innen haben, desto mehr davon können Silvia und David pflanzen. Das sorgt auch dafür, dass mehr Landschaft renaturiert werden kann. Das Hofgelände soll Tieren und Pflanzen einen Rückzugsort und Lebensraum bieten. Vor Ort leben zahlreiche Insekten, Vögel, Kröten, Eidechsen und andere Tiere. Die Windkinder sichten fast täglich neue tierische Mitbewohner.
+Je mehr Bäume Pat\*innen haben, desto mehr davon können Silvia und David pflanzen. Das sorgt auch dafür, dass mehr Landschaft renaturiert werden kann. Das Hofgelände soll Tieren und Pflanzen einen Rückzugsort und Lebensraum bieten. Vor Ort leben zahlreiche Insekten, Vögel, Kröten, Eidechsen und andere Tiere. Die Windkinder sichten fast täglich neue tierische Mitbewohner.
 
 Um das natürliche Gleichgewicht herzustellen, verzichten Silvia und David nicht nur auf tierischen Mist, Mineraldünger, Schlachtabfälle und andere Gifte zur Düngung und Pflege ihrer Bäume. Sie fördern auch die Arten-Vielfalt, indem sie Vogelhäuser aufhängen, Wildblumen aussähen und Holzhaufen anlegen, die den Tieren als nützliche Verstecke dienen. Je mehr Platz sie dafür haben, umso besser.
 

@@ -114,9 +114,9 @@ Die EP "Emergence" ist ihre erste offizielle Veröffentlichung. Ich habe mich mi
 
 **Siddharth:** Wir hoffen wirklich sehr darauf. Es ist unser Traum, unsere Musik die Welt zu bereisen und unsere Musik mit allen zu teilen, denen wir begegnen. Wenn sich die Lage beruhigt können wir hoffentlich anfangen zu planen und ihn wahr werden lassen!
 
-**Anne:** Könnt Ihr Euch vorstellen, mit anderen Musiker⋆innen zusammenzuarbeiten?
+**Anne:** Könnt Ihr Euch vorstellen, mit anderen Musiker\*innen zusammenzuarbeiten?
 
-**Siddharth:** Absolut. Wir glauben, dass jede⋆r Musiker⋆in seinen ganz persönlichen Stil mitbringt. Wir hoffen auf zahlreiche Kollaborationen in den kommenden Jahren.
+**Siddharth:** Absolut. Wir glauben, dass jede\*r Musiker⋆in seinen ganz persönlichen Stil mitbringt. Wir hoffen auf zahlreiche Kollaborationen in den kommenden Jahren.
 
 ## "Man wird noch viel von uns hören"
 

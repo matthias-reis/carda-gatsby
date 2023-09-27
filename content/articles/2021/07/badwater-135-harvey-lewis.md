@@ -54,6 +54,6 @@ berichtete er. Gegenüber Cincinnati People sagte er, seine fleischfreie Ernähr
 
 Harvey befindet sich in guter Gesellschaft. Die vegan lebende Ultramarathon-Läuferin Catra Corbett stellte 2018 im Alter von 53 Jahren einen neuen Rekord auf dem John Muir Trail auf. Sie absolvierte die 310-Meilen-Strecke innerhalb von nur sieben Tagen und neun Stunden.
 
-Immer mehr Sportler⋆innen stellen inzwischen auf vegan um, weil sie feststellen, dass sie ohne Lebensmittel tierischer Herkunft ihre Leistung steigern können. Tennis-Star Venus Williams und [NBA Star Enes Kanter](/2021/01/enes-kanter-vegan-nba/) setzen genauso auf pflanzliche Kost, wie [Ausnahme-Gewichtheber Patrick Baboumian und Rennfahrer Lewis Hamilton](/2019/11/the-game-changers/).
+Immer mehr Sportler\*innen stellen inzwischen auf vegan um, weil sie feststellen, dass sie ohne Lebensmittel tierischer Herkunft ihre Leistung steigern können. Tennis-Star Venus Williams und [NBA Star Enes Kanter](/2021/01/enes-kanter-vegan-nba/) setzen genauso auf pflanzliche Kost, wie [Ausnahme-Gewichtheber Patrick Baboumian und Rennfahrer Lewis Hamilton](/2019/11/the-game-changers/).
 
 Bild/picture: Mount Whitney, [7921333](https://pixabay.com/photos/mount-whitney-california-lone-pine-4497089/), pixabay

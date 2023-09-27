@@ -27,7 +27,7 @@ language: de
 
 Die Studie ist das Resultat einer Zusammenarbeit der chinesischen Universität in England und der University of Exeter. Das Nature Food Journal veröffentlichte die Ergebnisse im Dezember 2021.
 
-Die Wissenschaftler⋆innen betrachteten den Wandel der Ernährungsgewohnheiten von 1980 bis 2010. Zudem fertigten sie ein genaues Bild der Veränderungen in der Lebensmittelproduktion innerhalb des Zeitraums.
+Die Wissenschaftler\*innen betrachteten den Wandel der Ernährungsgewohnheiten von 1980 bis 2010. Zudem fertigten sie ein genaues Bild der Veränderungen in der Lebensmittelproduktion innerhalb des Zeitraums.
 
 ## Bedenkliche Ammoniak-Emissionen
 
@@ -47,7 +47,7 @@ Die Forschenden schätzen, dass fünf Prozent dieser vorzeitigen Todesfälle auf
 
 ## "Wir sollten uns hauptsächlich von Gemüse ernähren"
 
-Würde sich China an seine Ernährungsrichtlinien von 2016 halten, die auf einem geringen Fleischkonsum basieren, würde die Ammoniakemissionen voraussichtlich um 2,1 Teragramm sinken. Das geht aus den Forschungsergebnissen der britischen Wissenschaftler⋆innen hervor.
+Würde sich China an seine Ernährungsrichtlinien von 2016 halten, die auf einem geringen Fleischkonsum basieren, würde die Ammoniakemissionen voraussichtlich um 2,1 Teragramm sinken. Das geht aus den Forschungsergebnissen der britischen Wissenschaftler\*innen hervor.
 
 Der leitende Autor der Studie, Professor Amos Tai Pui-kuen, berichtete der South China Morning Post[^1]:
 

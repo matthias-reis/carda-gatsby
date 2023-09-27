@@ -25,7 +25,7 @@ language: de
 
 **Animal Equality USA regte jetzt die Tierrechtsdebatte mit einer spektakulären neuen Kampagne an. Mitten am weltberühmten New Yorker Times Square zwischen all den Werbeplakaten und bunt blinkenden Slogans spielte die Organisation ein Video ein, das auf die Missstände bei der amerikanischen Fastfood-Kette Denny's hinweist.**
 
-Ein trächtiges Schwein sitzt in einem winzigen Metallkäfig, in dem es weder vor noch zurückkann. Bei dem Anblick stockt den Passant⋆innen der Atem. Direkt neben dem Display, auf dem der kurze Film zu sehen ist, ist das Logo des Fastfood-Lokals zu sehen. Kombiniert mit dem Satz "Tierquälerei ist schlecht fürs Geschäft".
+Ein trächtiges Schwein sitzt in einem winzigen Metallkäfig, in dem es weder vor noch zurückkann. Bei dem Anblick stockt den Passant\*innen der Atem. Direkt neben dem Display, auf dem der kurze Film zu sehen ist, ist das Logo des Fastfood-Lokals zu sehen. Kombiniert mit dem Satz "Tierquälerei ist schlecht fürs Geschäft".
 
 Denny's ist mit der Kampagne natürlich überhaupt nicht einverstanden. Kein Wunder: Täglich bleiben tausende Menschen vor der Einblendung stehen und reiben sich die Augen vor Entsetzen.
 
@@ -35,7 +35,7 @@ Der Beginn der Kampagne von Animal Equality USA geht bis zum Anfang dieses Jahre
 
 In den USA fanden umfangreiche Proteste dazu statt. Zahlreiche Demonstrierende forderten die Kette dazu auf, ihr Handeln zu überdenken und unterstützten die Kampagne. Im Laufe der Aktionen informierten sich immer mehr Menschen genauer und begannen, die Denny's Lokale zu boykottieren. Die veraltete Tierschutzpolitik der Kette kam für sie nicht infrage.
 
-Während der Aktionen stellte die Aktivist⋆innen von Animal Equality vor Ort pflanzliche Alternativen für Schweinefleischprodukte wie den in Amerika so beliebten Speck (Bacon) vor und erntete damit großen Beifall.
+Während der Aktionen stellte die Aktivist\*innen von Animal Equality vor Ort pflanzliche Alternativen für Schweinefleischprodukte wie den in Amerika so beliebten Speck (Bacon) vor und erntete damit großen Beifall.
 
 Unterdessen weigerte sich Denny's weiterhin strickt, den Tieren zumindest etwas Respekt entgegenzubringen. Die Kette kündigte sogar an, seinen treuesten Kund⋆innen ab sofort kostenlosen Speck zu servieren.
 

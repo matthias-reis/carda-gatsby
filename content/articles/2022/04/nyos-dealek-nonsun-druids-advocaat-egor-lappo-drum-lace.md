@@ -47,7 +47,7 @@ languageLink: /2022/04/nyos-dealek-nonsun-druids-advocaat-egor-lappo-drum-lace-e
 
 **Damit Ihr ein schönes Wochenende habt (und ein kleines bisschen auch aus Eigennutzen) habe ich ein paar Platten für Euch selektiert, denen Ihr Beachtung schenken solltet. Ich habe mich quer durch die Genres gehört und diese Perlen von Nyos, Dälek, Nonsun, Druids, Advocaat, Egor Lappo und Drum & Lace ausgewählt.**
 
-Im Moment ist es mir kaum noch möglich, alle Mitteilungen über neue Releases zu sichten. Heute musste ich mir dann einfach mal einen Überblick verschaffen und zumindest ein paar Nachrichten beantworten. Dabei sind mir sieben ganz besondere Neuheiten aufgefallen. Einige der Künstler⋆innen sind Euch hier im Blog auch durchaus schon mal begegnet.
+Im Moment ist es mir kaum noch möglich, alle Mitteilungen über neue Releases zu sichten. Heute musste ich mir dann einfach mal einen Überblick verschaffen und zumindest ein paar Nachrichten beantworten. Dabei sind mir sieben ganz besondere Neuheiten aufgefallen. Einige der Künstler\*innen sind Euch hier im Blog auch durchaus schon mal begegnet.
 
 ## Nonsun – "That Wich Does Not Kill" vom Album "Blood & Spirit"
 

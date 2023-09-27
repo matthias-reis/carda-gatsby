@@ -59,11 +59,11 @@ Was auf jeden Fall hilft, die derzeitige Situation zu meistern, ist der Abbau vo
 
 Einige Screenreader lesen den Doppelpunkt vor, einige lesen ihn als Pause. Diese ist so lang, dass der Lese- bzw. Informationsfluss gebremst wird. Beim Sternchen passiert in der Regel das, was wir aus den ZDF Heute-Nachrichten kennen und uns gerade selbst angewöhnen: Die Betonung fällt auf den Laut hinter dem Stern.
 
-**Ein Beispiel: Lehrer⋆innen**
+**Ein Beispiel: Lehrer\*innen**
 
 Die Betonung wird, wie gesagt, als Glottisschlag bezeichnet. Auch hier kann es gelegentlich zu Missverständnissen kommen. Eine mögliche Alternative ist der Gender-Gap (\_). Dieser wird zwar auch gelegentlich als Satzzeichen gelesen, das kann in der Regel jedoch ohne Schwierigkeiten korrigiert werden.
 
-Wenn ich keine Gruppe ausschließen möchte, muss ich auch darauf achten, dass meine Texte möglichst barrierefrei sind. Hier bin ich, genau wie viele andere, noch am Anfang und lerne jeden Tag dazu. Wenn ich erfahre, dass ich zum Beispiel einer blinden Person das Lesen erleichtern kann, indem ich mich an ein paar einfache Regeln halte, dann versuche ich mich möglichst danach zu richten. Wie ich schon sagte: Ich selbst möchte nicht ausgeschlossen werden, darum versuche ich mein Möglichstes zu geben um auch selbst keine⋆n zu benachteiligen.
+Wenn ich keine Gruppe ausschließen möchte, muss ich auch darauf achten, dass meine Texte möglichst barrierefrei sind. Hier bin ich, genau wie viele andere, noch am Anfang und lerne jeden Tag dazu. Wenn ich erfahre, dass ich zum Beispiel einer blinden Person das Lesen erleichtern kann, indem ich mich an ein paar einfache Regeln halte, dann versuche ich mich möglichst danach zu richten. Wie ich schon sagte: Ich selbst möchte nicht ausgeschlossen werden, darum versuche ich mein Möglichstes zu geben um auch selbst keine\*n zu benachteiligen.
 
 ## Die ideale Lösung gibt es nicht
 

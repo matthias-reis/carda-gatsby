@@ -35,7 +35,7 @@ month: '02'
 
 Als sie mit sechs Jahren herausfand, woher die Milch stammt, wurde sie von einem Tag auf den anderen zur Veganerin. Für ihren Aktivismus hat die inzwischen 14-Jährige bereits zahlreiche Auszeichnungen bekommen. Unter anderem wurde ihr der Sir Paul McCartney Young Veg Advocate Award und der PETA's Youth Activist of the Year Award verliehen.
 
-Sie ist in den Dokumentationen "Vegan: Everyday Stories", "The Invisible Vegan" und "Cesar Chavez: Respect for All" zu sehen. In "Vegan: Everyday Stories" geht es um das Alltagsleben von Veganer⋆innen, "The Invisible Vegan" handelt vom Leben veganer BIPoC und "Cesar Chavez: Respect for All" dreht sich um das Leben und den Aktivismus ihres Großonkels Cesar Chavez.
+Sie ist in den Dokumentationen "Vegan: Everyday Stories", "The Invisible Vegan" und "Cesar Chavez: Respect for All" zu sehen. In "Vegan: Everyday Stories" geht es um das Alltagsleben von Veganer\*innen, "The Invisible Vegan" handelt vom Leben veganer BIPoC und "Cesar Chavez: Respect for All" dreht sich um das Leben und den Aktivismus ihres Großonkels Cesar Chavez.
 
 Mit Chavez hat Genesis ein starkes Vorbild. Der Menschenrechtsaktivist entschloss sich, vegan zu leben, nachdem er [die Verbindung hergestellt](/2020/07/earthlings/) hatte: Ihm wurde bewusst, dass er seinen Kampf gegen die Ungerechtigkeit nicht auf eine Spezies beschränken wollte. Das erzählte Genesis auf ihrem Instagram Account.
 
@@ -57,7 +57,7 @@ Gegenüber der Presse sagte sie:
 
 > "Ich war noch sehr jung, als ich herausgefunden haben, dass in jedem Tier ein einzigartiges Individuum steckt. Ich wollte alles dafür tun, ihnen zu helfen. Es macht mir Spaß, meine Fans zu motivieren, die Mission von SCIL voranzutreiben. Im Kern arbeitet die Organisation genau an dem, was ich mir wünsche: Jedes Tier zu retten",
 
-Am 27. Februar lebt Genesis bereits acht Jahre vegan. Ihr Berufsziel steht für sie fest: Sie möchte gerne Tierärztin werden. In ihrem Leben will sie so viele Menschen wie möglich dazu inspirieren, wie sie selbst Veganer⋆innen zu werden. Für die Tiere und für die Erde, die durch die intensive Tierhaltung immer mehr zerstört wird.
+Am 27. Februar lebt Genesis bereits acht Jahre vegan. Ihr Berufsziel steht für sie fest: Sie möchte gerne Tierärztin werden. In ihrem Leben will sie so viele Menschen wie möglich dazu inspirieren, wie sie selbst Veganer\*innen zu werden. Für die Tiere und für die Erde, die durch die intensive Tierhaltung immer mehr zerstört wird.
 
 ## Genesis Bulters TEDx Talk
 

@@ -40,9 +40,9 @@ Hinzu kommt, dass sich die Menschen, die sich mit Post-Rock/Post-Metal/Post-Hard
 
 ![AcTanGent 2019](https://storage.googleapis.com/cardamonchai-media/2022-08-10/2019-08-28-arctangent-43-jpeg-imagine-282838_624659_4032_3024/640.webp 'AcTanGent 2019')
 
-Ich freue mich jetzt seit zwei Jahren auf das ArcTanGent Festival. Ja, es ist schon eine ganze Weile her, seit wir das letzte Mal dort waren, denn leider musste es, als COVID einschlug, gleich zweimal verschoben werden. Aber: Während viele andere Festivals eingegangen sind oder von ihrer Vision abweichen mussten, hat es das ArcTanGent geschafft. Die Veranstalter⋆innen sind sich treu geblieben und haben das Event gerettet – mit der Unterstützung der Fans.
+Ich freue mich jetzt seit zwei Jahren auf das ArcTanGent Festival. Ja, es ist schon eine ganze Weile her, seit wir das letzte Mal dort waren, denn leider musste es, als COVID einschlug, gleich zweimal verschoben werden. Aber: Während viele andere Festivals eingegangen sind oder von ihrer Vision abweichen mussten, hat es das ArcTanGent geschafft. Die Veranstalter\*innen sind sich treu geblieben und haben das Event gerettet – mit der Unterstützung der Fans.
 
-Wenn Ihr ArcTanGent Besucher⋆innen seid, kennt Ihr das Crowdfunding-Projekt dazu – es war ein durchschlagender Erfolg. Wir haben das Festival nicht nur gerettet, wir haben es mit unseren Spenden sogar noch besser gemacht. Es wird also mehr Spaß, Komfort, Hygiene und Nachhaltigkeit geben, dieses Jahr.
+Wenn Ihr ArcTanGent Besucher\*innen seid, kennt Ihr das Crowdfunding-Projekt dazu – es war ein durchschlagender Erfolg. Wir haben das Festival nicht nur gerettet, wir haben es mit unseren Spenden sogar noch besser gemacht. Es wird also mehr Spaß, Komfort, Hygiene und Nachhaltigkeit geben, dieses Jahr.
 
 Ich weiß, das klingt vielleicht nach einem kleinen Schritt und ich weiß auch, dass das ArcTanGent nur ein kleines Festival ist, aber es macht mir Hoffnung! Hoffnung, dass da draußen noch mehr Menschen sind, die den guten Zweck unterstützten – mit mehr im Hinterkopf, als der eigenen Zufriedenheiten und materiellen Dingen.
 

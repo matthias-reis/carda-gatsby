@@ -75,7 +75,7 @@ Sänger T.J. lernte über einen gemeinsamen Freund Jakob kennen. Er hatte zu die
 
 **Jakob:** Ich glaube es war so ein Gefühl von "bald geschafft", jedenfalls für mich. Wir haben mit allem Drum und Dran insgesamt drei Jahre lang an dem Album gewerkelt. Dabei ist natürlich ganz schön viel Liebe und Energie hineingeflossen – das ist wie es klingt tatsächlich auch ein bisschen auslaugend. Als es dann auf die Schlusslinie zuging und wir uns auf einen Namen einigen mussten, hat es sich einfach echt gut angefühlt zu sagen, dass es bald endlich soweit ist. Es war ja nicht nur für die Leute, die nach Shows nach einem Album gefragt haben, ein langer Warteprozess, sondern auch für uns. "Soon" hat da irgendwie einfach in die allgemeine Stimmung gepasst, so zwischen absehbarem Abschluss und erhofftem Aufbruch danach.
 
-**Anne:** Wo liegen Eure Einflüsse. Welche Musiker⋆innen und Bands haben Euch am meisten beeindruckt?
+**Anne:** Wo liegen Eure Einflüsse. Welche Musiker\*innen und Bands haben Euch am meisten beeindruckt?
 
 **T. J.:** Also prinzipiell sind wir alle, so wie die meisten in der "Szene", mit den typischen Bands der "Wave" aufgewachsen, also La Dispute, Touché Amoré, Title Fight etc. Wir waren allerdings auch alle große Fans der britischen Math-Rock-Szene, die wahnsinnig kreative Bands wie TTNG und Delta Sleep hervor gebracht hat. Ein Name, der bei uns auch immer wieder fällt und auf den wir uns einigen können, ist Kidcrash. Die haben mich persönlich auch am meisten inspiriert, wenn es bei uns um ruhige Gitarrenzupf-Parts ging. Ich finde, die Melodieführung und die sich gegenseitig ergänzenden Gitarrenlinien auf dem Album "Jokes" sind bis heute ziemlich einzigartig in dieser Gattung von Musik.
 
@@ -104,7 +104,7 @@ Sänger T.J. lernte über einen gemeinsamen Freund Jakob kennen. Er hatte zu die
 
 **T. J.:** Ich denke, im Kern wollen wir einfach alle Spaß an der Sache haben und uns in der Band ausleben, ausprobieren und aus den vielen einzelnen Ideen, die jeder mitbringt, ein schlüssiges Gesamtkonzept kreieren. Wir haben uns sicher alle von den unterschiedlichsten Dingen inspirieren lassen. Bei mir waren es meine Freunde und meine Therapie, die dazu geführt haben, dass die Texte so geworden sind, wie man sie auf der Platte hört.
 
-**Anne:** Was würdet Ihr Politiker⋆innen am liebsten sagen?
+**Anne:** Was würdet Ihr Politiker\*innen am liebsten sagen?
 
 **T. J.:** Kommt darauf an, von welcher Art von Politiker⋆innen wir reden. Mit Faschisten würde ich zum Beispiel gar nicht reden, denn mit Faschisten verhandelt man nicht und man gibt ihnen auch keinen Raum. Ansonsten würde ich gerne darauf hinweisen, dass man bei vielen Themen auf Experten hören sollte, die sich seit Jahrzehnten wissenschaftlich-kritisch mit einem Thema auseinandersetzen. Zum Beispiel, wenn es um die Reduzierung des CO2-Ausstoßes geht.
 

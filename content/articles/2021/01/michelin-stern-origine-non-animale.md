@@ -40,7 +40,7 @@ Vor ein paar Tagen hatte Claire einen Anruf vom Guide Michelin erhalten. Nachdem
 
 > "Es fühlte sich im ersten Moment an, als wäre ich von einem Zug überrollt worden! Das zeigt mir, dass nichts unmöglich ist."
 
-Claire Vallée möchte mit ihrem Essen Menschen neue Geschmacksrichtungen zeigen – von knusprig bis cremig, von roh bis gekocht und von vollmundig bis leicht. Sie wünscht sich, dass ihre Besucher⋆innen voll und ganz in ihrer Mahlzeit im ONA aufgehen. Dabei möchte sie alle Sinne ansprechen und mit frischer, saisonaler, biologischer und leidenschaftlicher Küche überzeugen.
+Claire Vallée möchte mit ihrem Essen Menschen neue Geschmacksrichtungen zeigen – von knusprig bis cremig, von roh bis gekocht und von vollmundig bis leicht. Sie wünscht sich, dass ihre Besucher\*innen voll und ganz in ihrer Mahlzeit im ONA aufgehen. Dabei möchte sie alle Sinne ansprechen und mit frischer, saisonaler, biologischer und leidenschaftlicher Küche überzeugen.
 
 ## Frische vegane Lebensmittel aus der Region
 

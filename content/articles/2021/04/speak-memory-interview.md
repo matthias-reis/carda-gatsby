@@ -35,7 +35,7 @@ languageLink: /2021/04/speak-memory-interview-en
 
 **Speak, Memory beschreiben sich als "irgendwo zwischen dem grenzenlosem Word Building der frühen Explosions in the Sky und den mathematischen Spielereien von American Football" – wenn das nicht neugierig macht. In Kürze erscheint die neue EP der Band aus Oklahoma City. Zeit für ein Interview.**
 
-Mit ihren Songs möchten Speak, Memory ihre Hörer⋆innen auf eine Reise schicken, die ebenso spirituell wie fest in der Realität verankert ist. Ich habe mich mit Gitarrist Tim über die neue EP "Adirondack" und die Entwicklung der Band unterhalten. Das Interview hat sich zu einem äußerst sympathischen und spannenden Gespräch entwickelt, das wir sicher irgendwann fortsetzen werden.
+Mit ihren Songs möchten Speak, Memory ihre Hörer\*innen auf eine Reise schicken, die ebenso spirituell wie fest in der Realität verankert ist. Ich habe mich mit Gitarrist Tim über die neue EP "Adirondack" und die Entwicklung der Band unterhalten. Das Interview hat sich zu einem äußerst sympathischen und spannenden Gespräch entwickelt, das wir sicher irgendwann fortsetzen werden.
 
 **Anne:** Danke, dass Du Dich bei mir gemeldet hast! Ich bin sehr gespannt, Euch besser kennenzulernen! Wie geht es Dir heute? Ich hoffe, bei Euch ist alles gut in diesen wirren Zeiten? Ihr veröffentlicht am 7. Mai Eure EP "Adirondack". Freut Ihr Euch schon?
 
@@ -63,7 +63,7 @@ Mit ihren Songs möchten Speak, Memory ihre Hörer⋆innen auf eine Reise schick
 
 **Anne:** Ihr arbeitet auch mit Clerestory AV, die vor kurzem eine Reissue von Ester Drangs "Goldenwest" Album herausgebracht haben. Es muss großartig sein, seine Arbeit in so guten Händen zu wissen. Wie seid Ihr in Kontakt gekommen?
 
-**Tim:** Ich kenne Clerestory AV seit ein paar Jahren. Seit der Zeit mit Ester Drang, von der ich schon lange ein Fan bin. Wir sind auch mit einigen der Bands und Künstler⋆innen befreundet, die sie herausgebracht haben. Ich habe noch nie etwas Negatives über sie gehört. Als es mit der EP in die heiße Phase ging, habe ich Chris (dem Gründer von Clerestory AV) eine E-Mail geschrieben und ihn gefragt, ob er die Möglichkeit einer Zusammenarbeit bestehen würde. Er war sofort Feuer und Flamme. Der Rest ist Geschichte. Das war es im Grunde. Manchmal reicht es, eine Nachricht zu verschicken und eine Frage zu stellen.
+**Tim:** Ich kenne Clerestory AV seit ein paar Jahren. Seit der Zeit mit Ester Drang, von der ich schon lange ein Fan bin. Wir sind auch mit einigen der Bands und Künstler\*innen befreundet, die sie herausgebracht haben. Ich habe noch nie etwas Negatives über sie gehört. Als es mit der EP in die heiße Phase ging, habe ich Chris (dem Gründer von Clerestory AV) eine E-Mail geschrieben und ihn gefragt, ob er die Möglichkeit einer Zusammenarbeit bestehen würde. Er war sofort Feuer und Flamme. Der Rest ist Geschichte. Das war es im Grunde. Manchmal reicht es, eine Nachricht zu verschicken und eine Frage zu stellen.
 
 **Anne:** Wie wollt Ihr die EP promoten? Wird es online besondere Events geben?
 

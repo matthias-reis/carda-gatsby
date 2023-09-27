@@ -83,9 +83,9 @@ Wir teilen unsere Liebe für Post-Musik und alles Experimentelle. Wolltet ihr sc
 
 **Anne:** Neben Scale & Feather: Du bist auch der Bassist von Standby Red 5. Gibt es noch andere Projekte, die Du erwähnen möchtest? Welches macht Dir am meisten Spaß?
 
-**Curtis:** Ich habe gerne mit den Standby-Leuten gespielt. Viele von uns sind immer noch sehr eng befreundet. Leider sind wir jetzt alle durch die Staaten getrennt. Wir waren also seit 2013 nicht mehr aktiv. Wir würden die Band aber gerne wieder aufleben lassen und zumindest eine Platte aufnehmen, falls sich keine anderen Möglichkeiten bieten. Außerhalb von Standby Red 5 habe ich als Teil des Post Everything Kollektivs Aufnahmen gemacht und liebe es, mit all diesen talentierten Musiker⋆innen zu arbeiten.
+**Curtis:** Ich habe gerne mit den Standby-Leuten gespielt. Viele von uns sind immer noch sehr eng befreundet. Leider sind wir jetzt alle durch die Staaten getrennt. Wir waren also seit 2013 nicht mehr aktiv. Wir würden die Band aber gerne wieder aufleben lassen und zumindest eine Platte aufnehmen, falls sich keine anderen Möglichkeiten bieten. Außerhalb von Standby Red 5 habe ich als Teil des Post Everything Kollektivs Aufnahmen gemacht und liebe es, mit all diesen talentierten Musiker\*innen zu arbeiten.
 
-**Anne:** Du hast insgesamt bereits mit vielen talentierten Künstler⋆innen zusammengearbeitet und mit ihnen eine Menge toller Musik aufgenommen. Wie habt ihr Euch gefunden?
+**Anne:** Du hast insgesamt bereits mit vielen talentierten Künstler\*innen zusammengearbeitet und mit ihnen eine Menge toller Musik aufgenommen. Wie habt ihr Euch gefunden?
 
 ## "Es wird dieses Jahr ein neues Scale & Feather Album geben"
 

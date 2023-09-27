@@ -54,9 +54,9 @@ month: '04'
 
 **Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich sehr viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Entdeckungen gemacht, die wir heute gerne mit Euch teilen.**
 
-Bevor es los geht, möchte ich gerne noch ein paar Sätze loswerden. Es ist wunderbar, dass uns in diesen Zeiten die Musik erhalten bleibt. Wir sollten allerdings auch daran denken, die Künstler⋆innen, die uns ans Herz gewachsen sind, weiterhin zu unterstützen. Es ist natürlich praktisch, Musik einfach zu streamen.
+Bevor es los geht, möchte ich gerne noch ein paar Sätze loswerden. Es ist wunderbar, dass uns in diesen Zeiten die Musik erhalten bleibt. Wir sollten allerdings auch daran denken, die Künstler\*innen, die uns ans Herz gewachsen sind, weiterhin zu unterstützen. Es ist natürlich praktisch, Musik einfach zu streamen.
 
-Bands haben jedoch mehr davon, wenn wir ab und an auch mal eine ihrer Platten kaufen. Besonders, da ja im Moment sämtliche Konzerte und Festivals abgesagt sind. Wer es tatsächlich lieber digital mag, kann sich auch beim Merch ein bisschen umschauen und sich mal wieder ein neues Bandshirt gönnen. Ich weiß, Bandshirts sollte man sich sich eigentlich verdienen, allerdings haben die Musiker⋆innen auch verdient, dass wir ihre Arbeit wertschätzen. Das können wir im Moment am besten tun, indem wir ihre Kunst kaufen.
+Bands haben jedoch mehr davon, wenn wir ab und an auch mal eine ihrer Platten kaufen. Besonders, da ja im Moment sämtliche Konzerte und Festivals abgesagt sind. Wer es tatsächlich lieber digital mag, kann sich auch beim Merch ein bisschen umschauen und sich mal wieder ein neues Bandshirt gönnen. Ich weiß, Bandshirts sollte man sich sich eigentlich verdienen, allerdings haben die Musiker\*innen auch verdient, dass wir ihre Arbeit wertschätzen. Das können wir im Moment am besten tun, indem wir ihre Kunst kaufen.
 
 ## Solidarität in Zeiten von Corona
 

@@ -45,7 +45,7 @@ languageLink: "/2020/08/chris-hunt-torrent-merigold-independent-en"
 
 Für mich ein Angebot, dass ich auf keinen Fall ablehnen konnte. Vor allem, weil mich die Musik nach dem ersten Hören sofort in ihren Bann zog. "Torrent" bringt ätherische Ambient-Klänge, die einen so schnell nicht mehr loslassen.
 
-Ein besonderes Highlight für Sammler⋆innen herausragender Musik: Das Projekt gibt es als limitierte Version auf Kassette inklusive eines Werks des zeitgenössischen Autors Germán Sierra.
+Ein besonderes Highlight für Sammler\*innen herausragender Musik: Das Projekt gibt es als limitierte Version auf Kassette inklusive eines Werks des zeitgenössischen Autors Germán Sierra.
 
 <RemoteImage
 alt={`Chris Hunt Merigold Independent`}

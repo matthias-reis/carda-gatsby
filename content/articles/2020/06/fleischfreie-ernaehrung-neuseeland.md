@@ -31,11 +31,11 @@ subTitle: Neuseelands Schulen gegen den Klimawandel
 
 **Neuseeland möchte, dass Schüler weniger Fleisch essen, um das Klima zu schützen. Darum wird jetzt in den Schulen unterrichtet, wie man sich ohne Fleisch und Milch ernährt.**
 
-Die Nachrichtenagentur Reuters berichtet, dass der neue Lehrplan bereits im Januar eingeführt wurde. Die Sekundarschüler⋆innen sollen auf Grundlage der neuesten Forschungen lernen, wie sich der Klimawandel auf die Erde auswirkt.
+Die Nachrichtenagentur Reuters berichtet, dass der neue Lehrplan bereits im Januar eingeführt wurde. Die Sekundarschüler\*innen sollen auf Grundlage der neuesten Forschungen lernen, wie sich der Klimawandel auf die Erde auswirkt.
 
 ## Vegan für das Klima
 
-Die Schüler⋆innen erfahren außerdem, wie der Verzehr von Fleisch- und Milchprodukten das Klima negativ beeinflusst. Nach Angaben der Ernährungs- und Landwirtschaftsorganisation der UNO ist die Tierhaltung weltweit für 14,5 Prozent aller globalen Treibhausgasemissionen verantwortlich. In reichen Industrieländern ist der Anteil besonders hoch.
+Die Schüler\*innen erfahren außerdem, wie der Verzehr von Fleisch- und Milchprodukten das Klima negativ beeinflusst. Nach Angaben der Ernährungs- und Landwirtschaftsorganisation der UNO ist die Tierhaltung weltweit für 14,5 Prozent aller globalen Treibhausgasemissionen verantwortlich. In reichen Industrieländern ist der Anteil besonders hoch.
 
 Die Tierzucht und -Haltung gilt als eine der Hauptursachen für die Klimakrise. Das UN Umweltprogramm bezeichnete Fleisch als "das dringendste Problem der Welt".
 

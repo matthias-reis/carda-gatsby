@@ -31,9 +31,9 @@ subTitle: Pilze statt Tierhaut
 
 **MycoWorks ist eine Firma, die veganes Leder aus Pilzen herstellt. Natalie Portman und John Legend unterstützen das Unternehmen jetzt.**
 
-MycoWorks hat es geschafft, ein Material, das sich "wie Rindsleder anfühlt" vollständig aus Pilzen herzustellen. Die Idee erfreut sich großer Beliebtheit: In seiner letzten Finanzierungsrunde kam das Unternehmen auf ganze 45 Millionen Dollar. Unter den Investor⋆innen sind auch die Prominenten Natalie Portman und John Legend.
+MycoWorks hat es geschafft, ein Material, das sich "wie Rindsleder anfühlt" vollständig aus Pilzen herzustellen. Die Idee erfreut sich großer Beliebtheit: In seiner letzten Finanzierungsrunde kam das Unternehmen auf ganze 45 Millionen Dollar. Unter den Investor\*innen sind auch die Prominenten Natalie Portman und John Legend.
 
-Die Nachfrage nach dem Produkt steigt trotz der COVID-Pandemie stetig weiter. Daher wurde auch entschieden, das Geld zu nutzen, um die hohe Nachfrage der Kund⋆innen zu erfüllen.
+Die Nachfrage nach dem Produkt steigt trotz der COVID-Pandemie stetig weiter. Daher wurde auch entschieden, das Geld zu nutzen, um die hohe Nachfrage der Kund\*innen zu erfüllen.
 
 ## Technische Innovationen für den Modemarkt
 

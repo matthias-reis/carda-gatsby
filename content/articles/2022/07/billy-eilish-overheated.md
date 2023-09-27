@@ -26,7 +26,7 @@ language: de
 
 **Billy Eilish macht sich schon lange auch als Tierrechts- und Klima-Aktivistin einen Namen. Jetzt hostet sie in der Londoner O2-Arena ein großes Klimaschutz-Event und veröffentlicht die Dokumentation "Overheated".**
 
-Die unter dem gleichen Namen laufende Veranstaltung [^1] ist seit Freitag im Gange und dauert insgesamt sechs Tage. Im Namen des Klimas treffen dort Aktivist⋆innen auf Pop-Stars, Modedesigner⋆innen und tausende Besucher⋆innen.
+Die unter dem gleichen Namen laufende Veranstaltung [^1] ist seit Freitag im Gange und dauert insgesamt sechs Tage. Im Namen des Klimas treffen dort Aktivist\*innen auf Pop-Stars, Modedesigner\*innen und tausende Besucher⋆innen.
 
 ## Billy Eilish trifft beim Overheated Gipfel auf Stars und Aktivist⋆innen
 

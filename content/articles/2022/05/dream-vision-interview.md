@@ -43,7 +43,7 @@ languageLink: /2022/05/dream-vision-interview-en/
 
 ![Dream Vision – "Rêves"](https://storage.googleapis.com/cardamonchai-media/2022-05-30/dream-vision-reve-png-imagine-081818_12252f_3000_3000/640.webp "Dream Vision – \\"Rêves\\"")
 
-**Jan:** Nein, es erzählt keine Geschichte. Ich war auf der Suche nach einem Bandnamen und wusste nicht, was das Beste für mich und meine Zuhörer⋆innen ist. Ich habe also zahllose Websites zum Thema besucht und irgendwann fand ich diese Worte.
+**Jan:** Nein, es erzählt keine Geschichte. Ich war auf der Suche nach einem Bandnamen und wusste nicht, was das Beste für mich und meine Zuhörer\*innen ist. Ich habe also zahllose Websites zum Thema besucht und irgendwann fand ich diese Worte.
 
 "Dream Vision" besitzt innerhalb der Psychologie viele Bedeutungen. Ich weiß nicht, wie es dazu kam, dass ich mich so für Psychologie begeistere, aber wenn Du Dir Metal anhörst, hast Du mindestens eine 30-prozentige Chance, dass es um Depressionen oder Psychologie geht. Und ja, Du hast natürlich recht: Der Name des Albums ist mit dem Bandnamen verknüpft. Beide Worte stammen aus der Psychologie. Und ich habe mir gedacht, "Rêves" passt doch perfekt!
 

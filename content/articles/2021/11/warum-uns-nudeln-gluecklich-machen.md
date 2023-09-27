@@ -36,7 +36,7 @@ Das hat viele Gründe: vor allem könnte es zum Beispiel daran liegen, dass sie 
 
 Der nächste Punkt ist die unglaubliche Vielfältigkeit der Nudeln, die uns heute zur Verfügung stehen und die Kombinationsmöglichkeiten, die sich bieten. Spaghetti mit veganer Bolo, Bandnudeln mit Erbsen, gebratene Ravioli mit Gemüse, Reisnudeln mit Sojasauce, Rigatoni mit Pesto, Farfalle mit Tomatensauce oder [Glasnudelsalat](/2017/03/glasnudelsalat-mit-mango-vegan/) – was kommt heute Abend auf den Tisch?
 
-Schon mit ganz wenig Zutaten lässt sich ein leckeres Gericht zaubern, das durch das Weglassen oder Hinzufügen von Gewürzen und anderen Ingredienzien jedes Mal ein bisschen anders schmeckt und irgendwie noch besser, als letzte Woche. Da fühlt man sich doch gleich wie eine⋆r dieser kreativen Kochbuch-Gourmands, oder?
+Schon mit ganz wenig Zutaten lässt sich ein leckeres Gericht zaubern, das durch das Weglassen oder Hinzufügen von Gewürzen und anderen Ingredienzien jedes Mal ein bisschen anders schmeckt und irgendwie noch besser, als letzte Woche. Da fühlt man sich doch gleich wie eine\*r dieser kreativen Kochbuch-Gourmands, oder?
 
 Doch es ist längst nicht nur das. Es ist auch Chemie im Spiel, wenn wir Nudeln essen. Nudeln essen regt nämlich die Serotonin-Produktion an. Das wiederum sorgt für die sprichwörtlichen Glücksgefühle.
 
@@ -60,7 +60,7 @@ Natürlich gibt es auch noch Dinkel-Vollkorn-Nudeln, Reisnudeln, Buchweizen-Nude
 
 Wir haben also gelernt, dass Nudeln zu rund 70 Prozent aus Kohlenhydraten bestehen. Jetzt wird es interessant (Scotty, Energie!). Es handelt sich dabei um komplexe Kohlenhydrate in Form von Stärke. Weil sie vom menschlichen Organismus langsam verwertet wird, kann ein Energievorrat gebildet werden, den wir so lange anzapfen können, bis er leer ist. Unsere Leistungsfähigkeit wird dadurch gesteigert.
 
-Es ist also gesund, wenn nicht nur Hochleistungssportler⋆innen oder Menschen, die harte körperliche Arbeit leisten, regelmäßig zu Nudeln greifen. Schließlich braucht auch unser Gehirn Energie, damit es funktioniert. Gesunde Kohlenhydrate, wie die aus Nudeln, sind für diesen Zweck weitaus nachhaltiger, als die aus zuckrigen Getränken oder Süßigkeiten. Die schaffen es zwar, uns einen schnellen Energiekick zu verpassen, machen uns jedoch nicht satt und wir müssen schnell nachlegen – was schnell zu einem Kalorienüberschuss führen kann, wenn wir es regelmäßig tun. Und was macht glücklicher als ein voller Magen?
+Es ist also gesund, wenn nicht nur Hochleistungssportler\*innen oder Menschen, die harte körperliche Arbeit leisten, regelmäßig zu Nudeln greifen. Schließlich braucht auch unser Gehirn Energie, damit es funktioniert. Gesunde Kohlenhydrate, wie die aus Nudeln, sind für diesen Zweck weitaus nachhaltiger, als die aus zuckrigen Getränken oder Süßigkeiten. Die schaffen es zwar, uns einen schnellen Energiekick zu verpassen, machen uns jedoch nicht satt und wir müssen schnell nachlegen – was schnell zu einem Kalorienüberschuss führen kann, wenn wir es regelmäßig tun. Und was macht glücklicher als ein voller Magen?
 
 Halten wir also fest: Kohlenhydrate sind wichtig für unseren Energiehaushalt. Aus diesem Grund sollten wir sie täglich zu uns nehmen. Das klappt perfekt in Form von Nudeln. Was zu einer Win-win-Situation führt, denn: Nudeln machen glücklich. Und: Kohlenhydrate sind nicht gleich Kohlenhydrate. Die einen machen satt und glücklich, weil sie den Energiespeicher nachhaltig füllen, die anderen geben einen schnellen Kick, auf den meistens schnell wieder ein knurrender Magen folgt.
 

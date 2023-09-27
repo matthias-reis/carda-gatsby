@@ -30,7 +30,7 @@ Zuallererst noch mal ein große Danke an alle, die vor Ort waren, im Schlamm, au
 
 Beschlossen war das Ganze schon lange. Von einem Konzern, dem das Land um Lützerath inzwischen gehört und der damit ganz offensichtlich anstellen kann, was er möchte. Das Argument: die Energieversorgung sicherstellen. Ob dazu das Abbaggern (für mich übrigens ein klarer Kandidat für das Unwort des Jahres) eines weiteren Ortes und damit das weitere Entfernen vom gemeinsam mit allen Ländern vereinbarten 1,5-Grad-Ziel nötig ist, sei hier mal dahingestellt. Was ist denn eigentlich los mit der Menschheit?
 
-Wer es wieder wunderbar in Worte gefasst hat, war Greta Thunberg (wann lernen Rundfunk-Sprecher⋆innen endlich, ihren Namen auszusprechen, die Frau sollte man sich doch inzwischen wirklich gemerkt haben). Nicht nur in ihrer Rede im Brachland vor der Baggerschaufel, sondern auch im unsäglichen Interview bei und mit Anne Will gestern Abend. So klare, offene Worte findet kaum ein Mensch jemals zu diesem Thema.
+Wer es wieder wunderbar in Worte gefasst hat, war Greta Thunberg (wann lernen Rundfunk-Sprecher\*innen endlich, ihren Namen auszusprechen, die Frau sollte man sich doch inzwischen wirklich gemerkt haben). Nicht nur in ihrer Rede im Brachland vor der Baggerschaufel, sondern auch im unsäglichen Interview bei und mit Anne Will gestern Abend. So klare, offene Worte findet kaum ein Mensch jemals zu diesem Thema.
 
 > "Warum macht Ihr weiter, wenn Ihr doch gesagt habt, Ihr hört auf?"
 

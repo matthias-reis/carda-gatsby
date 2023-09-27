@@ -58,7 +58,7 @@ Ich selbst habe eine Menge Zeit damit verbracht, Sergio die Geschichte hinter di
 
 ## "Velvet Revolution" handelt von der Samtenen Revolution in Armenien
 
-Eine Sache, die wir klarstellen wollen, ist, dass es keinesfalls unsere Intention war, einen Anführer über einen anderen zu stellen oder irgendeine politische Partei zu unterstützen. Wir finden es inspirierend, wenn Menschen die Dinge selbst in die Hand nehmen und für sich, ihre Würde und ihre Rechte eintreten. Der Song ist für die Welt und für alle Menschen, nicht nur für die in Armenien und für Armenier⋆innen.
+Eine Sache, die wir klarstellen wollen, ist, dass es keinesfalls unsere Intention war, einen Anführer über einen anderen zu stellen oder irgendeine politische Partei zu unterstützen. Wir finden es inspirierend, wenn Menschen die Dinge selbst in die Hand nehmen und für sich, ihre Würde und ihre Rechte eintreten. Der Song ist für die Welt und für alle Menschen, nicht nur für die in Armenien und für Armenier\*innen.
 
 **Anne:** System Of A Down haben auch über die Samtene Revolution gesungen. Steht Ihr in Kontakt mit ihnen?
 

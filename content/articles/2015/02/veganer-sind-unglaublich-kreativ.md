@@ -153,7 +153,7 @@ Ich habe mich mit Margit Ricarda Rolf, einer der Gründerinnen unterhalten. Sie 
 
 **Anne:** Woher beziehst du derzeit deine Lebensmittel?
 
-**Ricarda:** Das ist ganz unterschiedlich. Mein Gemüse kaufe ich gern bei einem Gärtner auf dem Wochenmarkt, **Hülsenfrüchte** bei Alnatura, meine Hafersahne und Avokados bekomme ich bei Edeka.  Ich hole mir Anregungen durch [Gruppenbeiträge](https://www.facebook.com/groups/402385362537/?fref=ts) auf Facebook. Die Veganer⋆innen dort diskutieren über alles, was der Markt her gibt. Veganer⋆innen sind unglaublich kreativ.
+**Ricarda:** Das ist ganz unterschiedlich. Mein Gemüse kaufe ich gern bei einem Gärtner auf dem Wochenmarkt, **Hülsenfrüchte** bei Alnatura, meine Hafersahne und Avokados bekomme ich bei Edeka.  Ich hole mir Anregungen durch [Gruppenbeiträge](https://www.facebook.com/groups/402385362537/?fref=ts) auf Facebook. Die Veganer\*innen dort diskutieren über alles, was der Markt her gibt. Veganer\*innen sind unglaublich kreativ.
 
 **Anne:** Was ist von TTIP zu halten? Über die Medien erreichen uns hierzu ja fast täglich neue Hiobsbotschaften, vom **Chlorhuhn** bis zum Gen-Soja. Müssen wir uns große Sorgen machen?
 

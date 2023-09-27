@@ -51,7 +51,7 @@ Ich denke , der perfekte Film wäre wohl eine Zeitraffer-Aufnahme der Erde von d
 
 **TKE:** Es handelt sich dabei um den Namen einer intergalaktischen Periode (vor 130.000 Jahren). Bei dem Song haben wir an kleine Stämme von Menschen gedacht, die mühsam die Erde durchstreifen und unter extrem schwierigen Bedingungen zu kämpfen haben – das verleiht dem Stück seine düstere Stimmung. Aber wir wollen nicht lügen. Wir haben uns auch für diesen Namen entschieden, weil er unglaublich cool klingt.
 
-**Anne:** Heute erscheint Eure Live-Version von "Ebb & Flow". Ich teile sie zusammen mit diesem Interview mit meinen Leser⋆innen. Wann habt Ihr die Songs aufgenommen und wo kann man sie außer bei YouTube noch anhören?
+**Anne:** Heute erscheint Eure Live-Version von "Ebb & Flow". Ich teile sie zusammen mit diesem Interview mit meinen Leser\*innen. Wann habt Ihr die Songs aufgenommen und wo kann man sie außer bei YouTube noch anhören?
 
 **TKE:** Wir haben die Live-Session Ende 2021 hier in einer Location namens "Le Port Franc" aufgenommen. Sie wird schon bald auch auf allen bekannten Streaming-Plattformen verfügbar sein. Natürlich kann man auch die Studio-Version überall anhören.
 
@@ -59,7 +59,7 @@ Ich denke , der perfekte Film wäre wohl eine Zeitraffer-Aufnahme der Erde von d
 
 **TKE:** Tatsächlich mussten wir jeden Song zwischen vier und fünfmal aufnehmen, um genügend Video-Material zu bekommen und uns die besten Takes aussuchen zu können. Wir haben das alles an einem Tag gemacht – was in unseren Augen ein Fehler war, denn es war unglaublich anstrengend.
 
-Man kann sehen, wie uns in den letzten zehn Minuten der Session die Lebenskraft verlässt. Für ähnliche Projekte in der Zukunft werden wir die Aufnahmen definitiv über zwei oder drei Tage verteilen. Am Ende finden wir alle, dass es sich trotz allem gelohnt hat. Die Lightshow ist atemberaubend, die Songs klingen hervorragend und der Schnitt ist sehr dynamisch geworden. Für eine zu 100 Prozent selbstfinanzierte Produktion sieht alles ziemlich professionell aus. Wir hoffen, dass es den Leuten gefällt und sie unser Album aus einem neuen Blickwinkel wieder entdecken. Ein kleines Spiel für die ganz aufmerksamen Zuschauer⋆innen: irgendwo in diesen 45 Minuten Live-Session ist ein unterschwelliges Bild zu sehen. Sagt uns Bescheid, wenn Ihr es entdeckt!
+Man kann sehen, wie uns in den letzten zehn Minuten der Session die Lebenskraft verlässt. Für ähnliche Projekte in der Zukunft werden wir die Aufnahmen definitiv über zwei oder drei Tage verteilen. Am Ende finden wir alle, dass es sich trotz allem gelohnt hat. Die Lightshow ist atemberaubend, die Songs klingen hervorragend und der Schnitt ist sehr dynamisch geworden. Für eine zu 100 Prozent selbstfinanzierte Produktion sieht alles ziemlich professionell aus. Wir hoffen, dass es den Leuten gefällt und sie unser Album aus einem neuen Blickwinkel wieder entdecken. Ein kleines Spiel für die ganz aufmerksamen Zuschauer\*innen: irgendwo in diesen 45 Minuten Live-Session ist ein unterschwelliges Bild zu sehen. Sagt uns Bescheid, wenn Ihr es entdeckt!
 
 **Anne:** Eure erste Platte habt Ihr 2016 veröffentlicht. War das auch Euer Gründungsjahr?
 

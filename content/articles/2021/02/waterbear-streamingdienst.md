@@ -34,7 +34,7 @@ labels:
 
 **"We don't want you to Netflix &amp; chill. We want you to WaterBear and act!" – das sagte Lisa Rose, Head of Impact beim Nachhaltigkeits-Streamingdienst WaterBear gestern Abend in einer digitalen Konferenz.**
 
-WaterBear ist der Gegenentwurf zu Netflix, Prime und Co. Auf der Plattform wird Filmmaterial der unterschiedlichsten Aktivist⋆innen und NGOs gezeigt. Das Start-up aus England ist noch ganz jung und schon weltweit auf dem Vormarsch. Inzwischen gibt es nur noch wenige Länder, in denen das Programm nicht verfügbar ist.
+WaterBear ist der Gegenentwurf zu Netflix, Prime und Co. Auf der Plattform wird Filmmaterial der unterschiedlichsten Aktivist\*innen und NGOs gezeigt. Das Start-up aus England ist noch ganz jung und schon weltweit auf dem Vormarsch. Inzwischen gibt es nur noch wenige Länder, in denen das Programm nicht verfügbar ist.
 
 Bei WaterBear sind alle Mitarbeiter mit Herzblut dabei und das merkt man auch. Lisas Schilderungen sind emotional, ja regelrecht euphorisch. Und das hat einen Grund. Sie ist stolz, auf das was sie tut. Stolz, etwas bewegen zu können. Und das tut sich auch – jeden einzelnen Tag.
 
@@ -56,7 +56,7 @@ Mithilfe von Storytelling etwas in der Welt bewegen: Eine geniale Idee, eigentli
 
 Alle Inhalten auf der digitalen Plattform beschäftigen sich mit der Zukunft unseres Planeten. Die Filme drehen sich um Klimaschutz, Artenvielfalt, Artenerhalt, Nachhaltigkeit, Tierrechte, Vielfalt und Solidarität. Mit dabei sind preisgekrönte und inspirierende Werke, die zum Mitmachen aufrufen.
 
-Das Streaming-Gefühl ist bei WaterBear ganz anders. Man liegt nicht auf dem Sofa, starrt auf den Bildschirm und die Zeit verstreicht sinnlos. Man hat beim Schauen das Gefühl, etwas zu tun. Was ja auch kein Wunder ist: Man bildet sich weiter, erhält tiefe Einblicke in die Arbeit von Aktivist⋆innen und Wissenschaftler⋆innen und wird ganz nebenbei auch noch unterhalten.
+Das Streaming-Gefühl ist bei WaterBear ganz anders. Man liegt nicht auf dem Sofa, starrt auf den Bildschirm und die Zeit verstreicht sinnlos. Man hat beim Schauen das Gefühl, etwas zu tun. Was ja auch kein Wunder ist: Man bildet sich weiter, erhält tiefe Einblicke in die Arbeit von Aktivist\*innen und Wissenschaftler⋆innen und wird ganz nebenbei auch noch unterhalten.
 
 ## Vorort-Berichterstattungen und Reportagen
 

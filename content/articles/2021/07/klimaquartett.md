@@ -5,7 +5,7 @@ typeName: Beitrag
 title: Das Klimaquartett
 subTitle: Neues Kartenspiel für Umweltschützer*innen
 seoTitle: Das Klimaquartett – neues Kartenspiel für Umweltschützer*innen
-description: 'Womit fasst man Daten und Fakten besser zusammen, als mit Quartett-Karten? Was die meisten aus ihrer Kindheit mit Superheld⋆innen, Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umwelt und Nachhaltigkeit: Beim Klimaquartett lernt Ihr beim Spielen ganz nebenbei, wie Ihr das Klima schützt.'
+description: 'Womit fasst man Daten und Fakten besser zusammen, als mit Quartett-Karten? Was die meisten aus ihrer Kindheit mit Superheld*innen, Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umwelt und Nachhaltigkeit: Beim Klimaquartett lernt Ihr beim Spielen ganz nebenbei, wie Ihr das Klima schützt.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/klimaquartett-jpg-imagine-385848_627b69_1024_768/640.webp
 copyright: Ann Christin Müller
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/klimaquartett-fb-png-imagine-385848_7c8762_1200_628/640.webp
@@ -29,7 +29,7 @@ affiliate: false
 language: de
 ---
 
-**Womit fasst man Daten und Fakten besser zusammen, als mit Quartett-Karten? Was die meisten aus ihrer Kindheit mit Superheld⋆innen, Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umweltschutz und Nachhaltigkeit: Das Klimaquartett ist da.**
+**Womit fasst man Daten und Fakten besser zusammen, als mit Quartett-Karten? Was die meisten aus ihrer Kindheit mit Superheld\*innen, Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umweltschutz und Nachhaltigkeit: Das Klimaquartett ist da.**
 
 Ziel des Kartenspiels ist es, Menschen für den Klimaschutz zu sensibilisieren. Es soll ein Gesellschaftsspiel im wahrsten Sinne des Wortes sein. Das Tolle an den Karten ist: Sie enthalten nicht "nur" interessante Fakten und Details, man kann sie auch für viele Kartenspiele und sogar beim Pokern benutzen. Man informiert sich also gleichzeitig über Nachhaltigkeit und kann sein Spiel genießen – lernen nebenbei also.
 
@@ -53,7 +53,7 @@ Statt düsterer Zukunftsszenarios hat Carmen Gloger farbenfrohe Bilder geschaffe
 
 Ihr könnt das Klimaschutz-Quartett nach klassischen Quartett-Regeln oder wie es Euch am besten gefällt, spielen. Beim klassischen Quartett könnt Ihr zum Beispiel ein Hobby wie Radfahren gegen einen Urlaub auf einer Insel im Indischen Ozean antreten lassen.
 
-Auf den Sonder- und Extrakarten findet Ihr Phänomene unserer Zeit wie etwa Einschmelze, Dürre, die Mülllawine und Leugner⋆innen des Klimawandels. Diese unvorhersehbaren Ereignisse sorgen dafür, dass die Karten immer wieder neu gemischt werden – genau, wie es im echte Leben auch passiert.
+Auf den Sonder- und Extrakarten findet Ihr Phänomene unserer Zeit wie etwa Einschmelze, Dürre, die Mülllawine und Leugner\*innen des Klimawandels. Diese unvorhersehbaren Ereignisse sorgen dafür, dass die Karten immer wieder neu gemischt werden – genau, wie es im echte Leben auch passiert.
 
 ## Zusammenarbeit mit der Uni Ulm
 

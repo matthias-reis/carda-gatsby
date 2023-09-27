@@ -35,9 +35,9 @@ errors: {}
 subTitle: Veganes Europa
 ---
 
-**Gerade wurde die Top 10 der vegan-freundlichsten Städte Europas veröffentlicht. Sie basiert auf den Untersuchungen der Verbraucherexpert⋆innen von money.co.uk.**
+**Gerade wurde die Top 10 der vegan-freundlichsten Städte Europas veröffentlicht. Sie basiert auf den Untersuchungen der Verbraucherexpert\*innen von money.co.uk.**
 
-Für ihre Nachforschungen analysierten die Expert⋆innen das Lebensmittel- und Lifestyle-Angebot verschiedener Standorte. Dabei berücksichtigten sie fünf Faktoren: Die Anzahl der Spezialitäten-Restaurants, die Anzahl der Take-Aways, der Preis für ein klassisches Menü für jede Ernährungsform, die Energiekosten für das Kochen einer Mahlzeit und die Anzahl der speziellen Kochkurse.
+Für ihre Nachforschungen analysierten die Expert\*innen das Lebensmittel- und Lifestyle-Angebot verschiedener Standorte. Dabei berücksichtigten sie fünf Faktoren: Die Anzahl der Spezialitäten-Restaurants, die Anzahl der Take-Aways, der Preis für ein klassisches Menü für jede Ernährungsform, die Energiekosten für das Kochen einer Mahlzeit und die Anzahl der speziellen Kochkurse.
 
 Insgesamt sind nur wenige Überraschungen dabei. Mit einigen der zehn Vegan-Favoriten habe ich hingegen fest gerechnet. Was mich besonders freut, ist, dass es Glasgow und [Sevilla](/2020/04/sevilla/) in die Liste geschafft haben. Dafür vermisse ich [Amsterdam](/tag/amsterdam/) und natürlich [Hamburg](/tag/hamburg/). Doch ich möchte Euch nicht länger auf die Folter spannen. Hier sind die zehn vegan-freundlichsten Städte aus der aktuellen Bewertung:
 

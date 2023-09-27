@@ -74,7 +74,7 @@ Habt Ihr gewusst, dass sich im Nordpazifik eine Insel aus Müll gebildet hat, di
 
 Dass heute alle von einem Umdenken reden, hält uns nicht davon ab, immer mehr Plastik zu produzieren. Während im Jahr 1950 jährlich 2,1 Millionen Tonnen Plastik im Jahr produziert wurden, sind wir heute bei über 406 Millionen Tonnen im Jahr angekommen!
 
-Über die Hälfte von diesem Kunststoff kann nicht recycelt werden. Das führt dazu, dass wir im Jahr über 200 Millionen Tonnen Plastikmüll produzieren. Die Gründer⋆innen von puremetics wollten da nicht mehr tatenlos dabei zusehen und sagten sich:
+Über die Hälfte von diesem Kunststoff kann nicht recycelt werden. Das führt dazu, dass wir im Jahr über 200 Millionen Tonnen Plastikmüll produzieren. Die Gründer\*innen von puremetics wollten da nicht mehr tatenlos dabei zusehen und sagten sich:
 
 > "Wir sehen uns der Gesellschaft gegenüber verpflichtet und sehen es als unsere unternehmerische Verantwortung, Umwelt- und Tierschutzprojekte nach besten Möglichkeiten zu fördern und zu unterstützen."
 

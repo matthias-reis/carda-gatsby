@@ -45,7 +45,7 @@ Mit dem ["Maritime Evergreen" Öl von NatuRise](https://t.adcell.com/p/click?pro
 
 ## Warum soll ich Öl schlucken?
 
-Das "Marine Evergreen" Öl von NatuRise enthält pro Tagesportion (also 3 ml) satte 1189 mg DHA, 628 mg EPA und 49 mg DPA auf 2,8 g Algenöl. Das ist richtig gut. Die aktuelle Tagesempfehlung liegt pauschal bei insgesamt 250 mg DHA und EPA. Der Bedarf an Omega-3-Fettsäuren kann aber je nach Aktivität und persönlicher Konstitution stark schwanken. Wie immer lohnt es sich, bevor Ihr mit dem Supplementieren loslegt, einmal mit dem⋆der Ärzt⋆in Eures Vertrauens zu reden, wie viel für Euch sinnvoll ist.
+Das "Marine Evergreen" Öl von NatuRise enthält pro Tagesportion (also 3 ml) satte 1189 mg DHA, 628 mg EPA und 49 mg DPA auf 2,8 g Algenöl. Das ist richtig gut. Die aktuelle Tagesempfehlung liegt pauschal bei insgesamt 250 mg DHA und EPA. Der Bedarf an Omega-3-Fettsäuren kann aber je nach Aktivität und persönlicher Konstitution stark schwanken. Wie immer lohnt es sich, bevor Ihr mit dem Supplementieren loslegt, einmal mit dem\*der Ärzt\*in Eures Vertrauens zu reden, wie viel für Euch sinnvoll ist.
 
 Für meinen persönlichen Bedarf ist das [NatuRise Öl](https://t.adcell.com/p/click?promoId=244963&slotId=80259&param0=https%3A%2F%2Fwww.naturise.de%2Fmarine-evergreen) ideal: Meiner Haut geht es mit Öl besser als ohne und auch sonst fühle ich mich rundum wohl. Meine Werte liegen im Idealbereich.
 

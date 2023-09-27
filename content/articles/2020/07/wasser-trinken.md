@@ -112,4 +112,4 @@ Kopfschmerzen, trockene Haut, Müdigkeit, Abgeschlagenheit, Verstopfung... Die L
 
 Übrigens sollte man auch nicht zu viel trinken. Wer zum Beispiel in Phasen starker körperlicher Anstrengung oder an heißen Tagen "über den Durst hinaus" trinkt und seinem Körper zu viel Wasser zuführt, leitet damit wichtige Elektrolyte aus. Das kann im schlimmsten Fall sogar zum Kollaps führen.
 
-Wenn Ihr zum Beispiel regelmäßig bei Marathons mitlauft oder Surfer⋆innen, Taucher⋆innen oder Crossfitter⋆innen seid, achtet Ihr darum wahrscheinlich schon aus Gewohnheit darauf, möglichst viele kleine Portionen und besonders mineralhaltiges Wasser und/oder isotonische Getränke zu Euch zu nehmen. Die sind im Alltagsleben in der Regel nicht notwendig.
+Wenn Ihr zum Beispiel regelmäßig bei Marathons mitlauft oder Surfer\*innen, Taucher\*innen oder Crossfitter⋆innen seid, achtet Ihr darum wahrscheinlich schon aus Gewohnheit darauf, möglichst viele kleine Portionen und besonders mineralhaltiges Wasser und/oder isotonische Getränke zu Euch zu nehmen. Die sind im Alltagsleben in der Regel nicht notwendig.

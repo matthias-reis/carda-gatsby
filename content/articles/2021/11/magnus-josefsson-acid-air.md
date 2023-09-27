@@ -35,7 +35,7 @@ languageLink: /2021/11/magnus-josefsson-acid-air-en/
 
 Nach einigen selbst veröffentlichten Singles und einem [Mixtape für Anette Records](/2021/05/magnus-josefsson-anette-halbe-stunde/) war für Magnus die Zeit für ein komplettes Album gekommen – ein großer Schritt für den Herzblut-Musiker.
 
-Sein Label gründete Magnus Josefsson in einer alten Spiegelfabrik (daher der Name "Mirrorfactory") im schwedischen Bundesland Småland. Der Ort ist inzwischen zu einem Zuhause für ihn und seine Freund⋆innen geworden, die alle ihre Musik dort aufnehmen.
+Sein Label gründete Magnus Josefsson in einer alten Spiegelfabrik (daher der Name "Mirrorfactory") im schwedischen Bundesland Småland. Der Ort ist inzwischen zu einem Zuhause für ihn und seine Freund\*innen geworden, die alle ihre Musik dort aufnehmen.
 
 Auf "Acid Air" verwebt Magnus Elemente aus Post-Rock, Ambient, Dream Pop und Shoegaze geschickt miteinander. Das Bild, welches dabei entsteht, ist bunt und vielschichtig – nostalgisch und futuristisch zugleich.
 
@@ -59,7 +59,7 @@ Wobei es auch "Snow" in sich hat. Wenn ich die Augen schließe, kann ich die Sch
 
 Das nächste Stück "Ostrava" erzählt hoffnungsfroh von dem Sommer ohne Sorgen, auf den wir so sehnsüchtig warten. Den Abschluss macht dann das nächste Highlight der Platte "The Pond". Man könnte das Stück mit Worten wie klangvoll, vielfältig und organisch beschreiben. Man würde damit jedoch nicht mal andeuten, was unter der spiegelnden Oberfläche dieses vielfältigen Teichs schlummert.
 
-Magnus hat sein Album mit Gastmusiker⋆innen wie Christoffer Gunrup (The Amazing) an Bass und Gitarre und Sylvester Schlegel (The Ark) an der Lap-Steel-Gitarre, den Drums und den Synthesizern aufgenommen.
+Magnus hat sein Album mit Gastmusiker\*innen wie Christoffer Gunrup (The Amazing) an Bass und Gitarre und Sylvester Schlegel (The Ark) an der Lap-Steel-Gitarre, den Drums und den Synthesizern aufgenommen.
 
 Auch Magnus Olsson (Melissa Horn) könnt Ihr an den Drums hören, Andreas Stellan (Dungen) an den Synthesizern. Helen Phillips (Starry Skies from Glasgow) hat den Chorgesang beigesteuert. Das Mastering für die Platte hat Simon Scott (Slowdive) übernommen.
 

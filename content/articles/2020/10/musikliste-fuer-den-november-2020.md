@@ -53,7 +53,7 @@ Wir wünschen Euch viel Spaß beim Hören. Die Playlists für iTunes und Spotify
 
 ## Crippled Black Phoenix – "Everything I Say" vom Album "Ellengæst"
 
-Über dieser Band habt Ihr hier im Blog schon das ein oder andere Mal etwas gelesen und Ihr werdet es schon bald wieder tun. Die erklärten Tierrechtsaktivist⋆innen sorgen jetzt mit ihrem neuen Album "Ellengæst" erneut für Furore. Hier sind Matzes Gedanken dazu:
+Über dieser Band habt Ihr hier im Blog schon das ein oder andere Mal etwas gelesen und Ihr werdet es schon bald wieder tun. Die erklärten Tierrechtsaktivist\*innen sorgen jetzt mit ihrem neuen Album "Ellengæst" erneut für Furore. Hier sind Matzes Gedanken dazu:
 
 > "'Frames' von Oceansize ist ein Album, nachdem ich eine Zeitlang regelrecht süchtig war. Ich konnte wochenlang nichts anderes mehr hören, was für mich eigentlich gar keinen Sinn ergab. Normalerweise reagiere ich schon allergisch, wenn an einem Tag das gleiche Lied ein zweites Mal läuft. Mit dem letzten Freitag erschienenen neuen [Crippled Black Phoenix](/2019/04/crippled-black-phoenix-live-im-hamburger-knust/) Album 'Ellengæst' geht es jetzt genauso los. Ab und zu höre ich mal ein paar Songs zwischendurch, um dann gleich wieder zu diesem monumentalen Album zurückzukehren. "Everything I Say" ist nur eines der vielen Highlights auf der Platte."
 

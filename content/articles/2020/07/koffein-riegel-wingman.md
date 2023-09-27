@@ -61,7 +61,7 @@ Neben dem Koffein geben die Früchte und Nüsse dem Körper Power. Vitamine, Bal
 
 ## Die Gründer
 
-Die Gründer von Wingman sind Fabian und Konstantin aus Nürnberg. Während ihrer Bachelorarbeit waren sie häufig auf der Suche nach Energie. Der Griff zu Energy Drinks und Schokoriegeln lag auf der Hand. Aus diesem Grund kamen die beiden auf die Idee, gemeinsam eine Alternative zu schaffen, die zu 100 Prozent natürlich ist und trotzdem die nötige Power für zeitintensive Projekte wie Abschlussarbeiten, Blogs, Bandproben und Co. gibt. Ihre ersten Riegel bauten sie in ihrer heimischen Küche zusammen. Ihre Kommilitonen⋆innen durften testen.
+Die Gründer von Wingman sind Fabian und Konstantin aus Nürnberg. Während ihrer Bachelorarbeit waren sie häufig auf der Suche nach Energie. Der Griff zu Energy Drinks und Schokoriegeln lag auf der Hand. Aus diesem Grund kamen die beiden auf die Idee, gemeinsam eine Alternative zu schaffen, die zu 100 Prozent natürlich ist und trotzdem die nötige Power für zeitintensive Projekte wie Abschlussarbeiten, Blogs, Bandproben und Co. gibt. Ihre ersten Riegel bauten sie in ihrer heimischen Küche zusammen. Ihre Kommilitonen\*innen durften testen.
 
 Nach über 70 Testvarianten stand das Grundrezept fest - Wingman war geboren. Im Januar 2016 gründeten sie ihr Unternehmen. Mithilfe einer Crowdfunding Kampagne konnten die Energieriegel bald in ganz Deutschland bekannt gemacht werden.
 

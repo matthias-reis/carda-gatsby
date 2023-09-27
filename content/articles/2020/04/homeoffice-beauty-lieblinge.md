@@ -72,7 +72,7 @@ Vorletztes Jahr habe ich mit Santaverde Make-up Fasten gemacht. [Meinen Erfahrun
 ### XINGU Age Perfect Creme
 
 <small>
-  Aloe Vera Saft⋆, Cashew Saft⋆, Kokosöl⋆, Babassuöl⋆, pflanzl. Fettalkohol,
+  Aloe Vera Saft\*, Cashew Saft\*, Kokosöl⋆, Babassuöl⋆, pflanzl. Fettalkohol,
   Natriumlaktat, pflanzl. Emulgator, Paranussöl⋆, Cupuacubutter⋆, Andirobaöl⋆,
   Sonnenblumenöl, ätherische Öle, Jojobaöl⋆, Kakaobutter⋆, Omega 9 Ceramide aus
   Olivenöl, Acaiöl, Lycopin aus Tomaten, Vitamin E, Vitamin C Palmitat, pflanzl.

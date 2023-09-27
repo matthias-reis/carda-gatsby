@@ -105,7 +105,7 @@ Es kommt weiter hart auf hart. Wieder drehe ich das Segel gegen den Wind und leg
 
 ## Will Butler - "Close My Eyes" (Vorauskopplung vom Album "Generations")
 
-Arcade Fire Sänger Will Butler ist der nächste in meiner Liste der Klangmeister⋆innen. Er hat bisher drei Songs seines neuen Soloalbums "Generations" aus dem Hut gezaubert. Die Entscheidung, welches davon auf die Liste kommt, ist mir wirklich schwer gefallen. Ich freue mich auf mehr. Wenn ich die Augen schließe, ist alles gut. Seine Stimme macht wirklich glücklich, oder? Auf Youtube hat Will das Stück vor vier Wochen eingestellt. Abonniert dort am besten gleich mal seinen Kanal. Es lohnt sich.
+Arcade Fire Sänger Will Butler ist der nächste in meiner Liste der Klangmeister\*innen. Er hat bisher drei Songs seines neuen Soloalbums "Generations" aus dem Hut gezaubert. Die Entscheidung, welches davon auf die Liste kommt, ist mir wirklich schwer gefallen. Ich freue mich auf mehr. Wenn ich die Augen schließe, ist alles gut. Seine Stimme macht wirklich glücklich, oder? Auf Youtube hat Will das Stück vor vier Wochen eingestellt. Abonniert dort am besten gleich mal seinen Kanal. Es lohnt sich.
 
 <YouTube id="0Cp8Cs-dWa0" />
 
@@ -131,7 +131,7 @@ JeGongs Album erscheint am 16. Oktober. Der Vorgeschmack macht nicht nur Matze n
 
 Dies ist ein erstes Lebenszeichen von Arab Strap, ein Album ist leider bisher leider nicht in Sicht.
 
-> "Die schottische Chemical Underground Indie Ikonen von Arab Strap waren fast so lange in der Versenkung verschwunden, wie [Tool](/2019/08/das-neue-tool-album-ist-da/). Seit ihrer Hochphase in den 1990er bis 2000er Jahren haben wir von dieser Band nur ab und zu ein paar Bootlegs und B-Sides zu hören bekommen. In letzter Zeit wird es zum Glück wieder etwas lauter um die Soundbastler⋆innen - 'The Turning Of Our Bones'  kam nicht ganz aus heiterem Himmel. Der charakteristische, düsterere Sprechgesang wurde hier über moderne, Elektronik-lastige Indie-Beats gelegt. Die Lyrics klingen ist eine Voodoo-Beschwörungsformel, die Tote erwecken soll."
+> "Die schottische Chemical Underground Indie Ikonen von Arab Strap waren fast so lange in der Versenkung verschwunden, wie [Tool](/2019/08/das-neue-tool-album-ist-da/). Seit ihrer Hochphase in den 1990er bis 2000er Jahren haben wir von dieser Band nur ab und zu ein paar Bootlegs und B-Sides zu hören bekommen. In letzter Zeit wird es zum Glück wieder etwas lauter um die Soundbastler\*innen - 'The Turning Of Our Bones'  kam nicht ganz aus heiterem Himmel. Der charakteristische, düsterere Sprechgesang wurde hier über moderne, Elektronik-lastige Indie-Beats gelegt. Die Lyrics klingen ist eine Voodoo-Beschwörungsformel, die Tote erwecken soll."
 
 <YouTube id="f4CN6sxDvr0" />
 

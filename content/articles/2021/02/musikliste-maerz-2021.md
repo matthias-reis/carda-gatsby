@@ -67,7 +67,7 @@ Matze:
 
 Matze:
 
-> "Unsere gemeinsame Lieblings-Band aus Japan Mono wird vermutlich bald ein monumentales Live-Album abliefern. Gerüchteweise können wir darauf viele spannende Gastmusiker⋆innen erwarten – von Envy und Boris über langjährige Weggefährten wie Jo Quail und A.A. Williams bis hin zu Überraschungen wie Alcest. Ich bin froh, jetzt schon in die Platte reinschnuppern zu dürfen. Meine Empfehlung für Euch: Genießt schon mal 'Meet us Where the Night Ends' und tut Euch mit dem Triple-Gatefold-40-Seiten-Photo-Book-Album etwas Gutes. Vorbestellungen sind ab sofort möglich."
+> "Unsere gemeinsame Lieblings-Band aus Japan Mono wird vermutlich bald ein monumentales Live-Album abliefern. Gerüchteweise können wir darauf viele spannende Gastmusiker\*innen erwarten – von Envy und Boris über langjährige Weggefährten wie Jo Quail und A.A. Williams bis hin zu Überraschungen wie Alcest. Ich bin froh, jetzt schon in die Platte reinschnuppern zu dürfen. Meine Empfehlung für Euch: Genießt schon mal 'Meet us Where the Night Ends' und tut Euch mit dem Triple-Gatefold-40-Seiten-Photo-Book-Album etwas Gutes. Vorbestellungen sind ab sofort möglich."
 
 <YouTube id="xkl40HDiELc" />
 

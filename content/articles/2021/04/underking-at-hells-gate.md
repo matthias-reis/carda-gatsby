@@ -41,7 +41,7 @@ Die von Underking Gründer Maxwell Jeffries aufgezählten Einflüsse Judas Pries
 
 Düster und verspielt zugleich mit spannenden Anleihen aus dem Sci-Fi-Genre schraubt sich die Platte von einem Highlight zum nächsten. Das Werk eignet sich definitiv nicht nur zum nebenbei Hören. Man möchte die Stücke am liebsten live erleben. Möglichst auf einer der ganz großen Festivalbühnen.
 
-Die Kolleg⋆innen, die Solo-Künstler Max für die Umsetzung eines derartigen Projekts brauchen würde, würden sich sicher schnell finden. Mit seinem Stil spricht er Fans der verschiedensten musikalischen Stile an. Die Bandbreite des Multi-Instrumentalisten reicht von kraftvollem Gesang und wilden Riffs bis hin zu einem fesselnden Gesamterlebnis.
+Die Kolleg\*innen, die Solo-Künstler Max für die Umsetzung eines derartigen Projekts brauchen würde, würden sich sicher schnell finden. Mit seinem Stil spricht er Fans der verschiedensten musikalischen Stile an. Die Bandbreite des Multi-Instrumentalisten reicht von kraftvollem Gesang und wilden Riffs bis hin zu einem fesselnden Gesamterlebnis.
 
 ## Sounds der Zukunft und der Vergangenheit
 

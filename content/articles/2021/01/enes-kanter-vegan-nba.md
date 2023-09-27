@@ -60,9 +60,9 @@ Der Basketball-Star hofft nach seiner Umstellung auf Veränderungen in der Gesel
 
 > "Das war das erste Mal, dass ich entschieden habe, etwas zu ändern. Wir brauchen Veränderungen und diese Veränderungen können nicht mehr warten."
 
-**Kommentare von Zweifler⋆innen lassen Enes Kanter kalt:**
+**Kommentare von Zweifler\*innen lassen Enes Kanter kalt:**
 
-> "Einige meiner Freund⋆innen stellen mir Fragen wie 'Meinst Du denn, Du schaffst noch alle Rebounds?' und 'Wirst Du noch dazu in der Lage sein, gegen diese großen Jungs anzutreten?' Aber ich vertraue mir selbst und vertraue der Nahrung, die ich zur mir nehme".
+> "Einige meiner Freund\*innen stellen mir Fragen wie 'Meinst Du denn, Du schaffst noch alle Rebounds?' und 'Wirst Du noch dazu in der Lage sein, gegen diese großen Jungs anzutreten?' Aber ich vertraue mir selbst und vertraue der Nahrung, die ich zur mir nehme".
 
 ## Ein Vorbild für die junge Generation
 

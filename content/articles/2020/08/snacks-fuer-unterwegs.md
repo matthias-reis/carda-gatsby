@@ -1,6 +1,6 @@
 ---
 ogTitle: Snacks für unterwegs - Warum Veganer*innen immer Proviant dabei haben
-excerpt: Ist Euch schon mal aufgefallen, dass wir Veganer⋆innen eigentlich fast
+excerpt: Ist Euch schon mal aufgefallen, dass wir Veganer*innen eigentlich fast
   immer was zum Knabbern auf Tasche haben? Ich verrate Euch jetzt, warum das so
   ist.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_unterwegs-1.png__l.jpg
@@ -14,7 +14,7 @@ fileName: 2020-08---snacks-fuer-unterwegs.md
 slug: snacks-fuer-unterwegs
 errors: {}
 title: Snacks für unterwegs
-subTitle: Warum Veganer⋆innen immer Proviant dabei haben
+subTitle: Warum Veganer*innen immer Proviant dabei haben
 focusKeyword: unterwegs
 affiliate: true
 status: publish
@@ -36,9 +36,9 @@ labels:
   - vegane Snacks
   - Veganer
 ---
-**Ist Euch schon mal aufgefallen, dass wir Veganer⋆innen eigentlich fast immer was zum Knabbern auf Tasche haben? Ich verrate Euch jetzt, warum das so ist.**
+**Ist Euch schon mal aufgefallen, dass wir Veganer\*innen eigentlich fast immer was zum Knabbern auf Tasche haben? Ich verrate Euch jetzt, warum das so ist.**
 
-Es ist wahr: Veganer⋆innen kann man immer nach einen Snack fragen. Wir haben eigentlich fast immer ein paar Nüsse, einen Apfel oder einen [Powerriegel](/2020/07/koffein-riegel-wingman/) im Rucksack. Und das hat einen ganz einfachen Grund: Wir wollen nicht verhungern.
+Es ist wahr: Veganer\*innen kann man immer nach einen Snack fragen. Wir haben eigentlich fast immer ein paar Nüsse, einen Apfel oder einen [Powerriegel](/2020/07/koffein-riegel-wingman/) im Rucksack. Und das hat einen ganz einfachen Grund: Wir wollen nicht verhungern.
 
 In den letzten paar Jahren hat sich einiges getan: In nahezu jedem Provinz-Lokal steht inzwischen (gegen Aufpreis) auch Sojamilch auf der Kaffeekarte und man kann problemlos auch Pizza ohne Käse bestellen. Im Drogeriemarkt ist alles, was vegan ist, auch so beschriftet und auf dem Tresen in der Bäckerei häufig liegt eine Zutatenliste aus.
 

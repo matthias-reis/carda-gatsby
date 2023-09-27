@@ -74,7 +74,7 @@ haben laut Herrn Gysi eine lobbyhörige Koalition hervorgebracht, die die sozial
 
 In vielen Branchen gibt es durch die Ausnahmen für Tarifverträge mit niedrigen Mindestlöhnen keinen Mindestlohn. Die erste Anpassung 2018 ist eine Farce, bei der derzeitigen Inflation kann sich jeder selbst ausrechnen, wie viel 8,50 Euro dann noch wert sein werden.
 
-## Die Bedingungen für Leiharbeiter⋆innen verbessern sich nicht mal im Ansatz.
+## Die Bedingungen für Leiharbeiter\*innen verbessern sich nicht mal im Ansatz.
 
 Gysi beschrieb das sehr schön: "Geht es um Leiharbeit wird immer zunächst vorsichtig die Tür einen Spalt geöffnet, um Auftragsspitzen und krankheitsbedingte Ausfälle abzudecken. Ist dieser Schritt auch nur ansatzweise erfolgt, wird die Tür auch schon komplett aufgerissen und das Drama nimmt seinen Lauf." - Etwaige Betriebskultur wird also systematisch zerstört.
 

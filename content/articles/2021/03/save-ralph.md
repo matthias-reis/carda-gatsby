@@ -71,7 +71,7 @@ Der Comedian macht immer wieder Schlagzeilen mit seinem Einsatz in Sachen Tierre
 
 Das Kaninchen Ralph wird im Film von Oscar Gewinner Taika Waititi gespielt. Er schrieb auf Twitter:
 
-> "Wenn Ihr Euch den Film nicht anschaut oder ihn nicht mögt, hasst Ihr Tiere und seid nicht mehr meine Freund⋆innen."
+> "Wenn Ihr Euch den Film nicht anschaut oder ihn nicht mögt, hasst Ihr Tiere und seid nicht mehr meine Freund\*innen."
 
 ## Tierversuche – die ersten Erfolge
 

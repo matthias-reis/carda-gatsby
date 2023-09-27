@@ -39,7 +39,7 @@ Im November 2020 hatte bereits ein Labor in Hamburg Hinweise auf Rinderwahnsinn 
 
 Die leitende Tierärztin Christine Middlemiss erklärte jetzt gegenüber BBC[^3], das Risiko sei "unter Kontrolle". Es bestehe "kein Risiko" für die öffentliche Gesundheit und kein Grund zur Besorgnis. Wörtlich sagte sie:
 
-> "Wir wissen, dass dies eine traumatische Zeit für die Landwirt⋆innen ist. Und wir stehen ihnen in dieser schwierigen Phase mit Rat und Tat zur Seite".
+> "Wir wissen, dass dies eine traumatische Zeit für die Landwirt\*innen ist. Und wir stehen ihnen in dieser schwierigen Phase mit Rat und Tat zur Seite".
 
 ## "Wir sollten essen, als würde unser Leben davon abhängen, denn das tut es!"
 
@@ -51,7 +51,7 @@ Gegenüber Plant Based News[^4] sagte die Direktorin der Tierrechtsorganisation 
 >
 > Die Fleischproduktion trägt erheblich zum Klimawandel bei. Wir alle sollten esse, als ob unser Leben davon abhängt – denn das tut es."
 
-Auch hierzulande treibt die Sorge über die tödliche Bedrohung nicht nur die Landwirt⋆innen um. In Deutschland hatte es zuletzt 2014 zwei nachgewiesene Fälle von BSE gegeben.
+Auch hierzulande treibt die Sorge über die tödliche Bedrohung nicht nur die Landwirt\*innen um. In Deutschland hatte es zuletzt 2014 zwei nachgewiesene Fälle von BSE gegeben.
 
 Überträgt sich die Zoonose auf den Menschen, wird sie als Creutzfeldt-Jakob-Krankheit bezeichnet. Typische Symptome sind Gedächtnisverlust, Störungen des Seh- und Gleichgewichtssinns sowie ein schnell voranschreitender Verfall der Persönlichkeit bis zur Demenz.
 

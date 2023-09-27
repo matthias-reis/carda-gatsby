@@ -37,7 +37,7 @@ subTitle: '"Musik besitzt eine meditative Kraft"'
 languageLink: '/2020/03/sphaeros-interview-en'
 ---
 
-**Liebhaber⋆innen pulsierender und psychedelischer Musik werden Sphaèros lieben. Mit seinem Soloprojekt kombiniert er Musik, Film und Performance auf seine ganz persönliche Art und Weise.**
+**Liebhaber\*innen pulsierender und psychedelischer Musik werden Sphaèros lieben. Mit seinem Soloprojekt kombiniert er Musik, Film und Performance auf seine ganz persönliche Art und Weise.**
 
 Vor Kurzem habe ich hier im Blog [das neueste Video von Sphaèros](/2020/02/sphaeros-lucifero/) vorgestellt. Jetzt hat sich der Pariser Underground-Künstler zu einem Interview bereiterklärt.
 
@@ -81,7 +81,7 @@ Ich glaube, dass wir das gesamte Universum in uns haben und unsere eigenen Meist
 
 **Sphaèros:** Ich mache seit meiner Kindheit Kunst. Ich denke, dass alles, was ich mache, also Bildhauerei, Musik, Filmen, Fotografie, eine Art Sprache ist. Wirklich gelernt habe ich nie etwas. Ich habe immer alles direkt erforscht. Freie Kunst. Ohne Tradition, Technik oder Schule. Nur meine inneren Emotionen und Gefühle. Ich mag es, die Dinge einfach, klar und direkt zu halten.
 
-**Anne:** Welche Künstler⋆innen haben Dich während Deiner persönlichen Entwicklung am meisten beeinflusst?
+**Anne:** Welche Künstler\*innen haben Dich während Deiner persönlichen Entwicklung am meisten beeinflusst?
 
 ## "Am meisten beeinflusst mich die Natur"
 

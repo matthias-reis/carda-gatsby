@@ -36,7 +36,7 @@ Zu sehen sind Tiere, die vor der Öffentlichkeit versteckt ein trauriges Leben i
 
 ## Hidden zeigt die grausame Realität
 
-"Hidden" wird mit einem Vorwort des Schauspielers und überzeugten Tierrechtsaktivisten [Joaquin Phoenix](/tag/joaquin-phoenix/) eröffnet. Insgesamt enthält das gebundene Werk 200 Bilder von 40 internationalen Fotograf⋆innen.
+"Hidden" wird mit einem Vorwort des Schauspielers und überzeugten Tierrechtsaktivisten [Joaquin Phoenix](/tag/joaquin-phoenix/) eröffnet. Insgesamt enthält das gebundene Werk 200 Bilder von 40 internationalen Fotograf\*innen.
 
 Wilson möchte mit dem Band beweisen, welches grausame Leben in Finsternis die Tiere führen. Sie will zeigen, dass die Tiere, die wir züchten und töten, für Sport und Unterhaltung ausbeuten die gleichen Emotionen wie wir erleben: Trauer, Freude, Schmerz, Angst und Liebe. Daher zeigt sie das Leid ungeschönt.
 
@@ -44,7 +44,7 @@ Wilson möchte mit dem Band beweisen, welches grausame Leben in Finsternis die T
 
 Joaquin Phoenix sagte in einem Statement gegenüber der Presse:
 
-> "Die Fotograf⋆innen haben für 'Hidden' einige der dunkelsten und beunruhigendsten Orte der Welt betreten. Die Bilder, die sie aufgenommen haben, sind eine schmerzvolle Erinnerung an unser unverzeihliches Verhalten gegenüber den Tieren. Das Buch wird für mich in den nächsten Jahren als Leuchtfeuer des Wandels dienen."
+> "Die Fotograf\*innen haben für 'Hidden' einige der dunkelsten und beunruhigendsten Orte der Welt betreten. Die Bilder, die sie aufgenommen haben, sind eine schmerzvolle Erinnerung an unser unverzeihliches Verhalten gegenüber den Tieren. Das Buch wird für mich in den nächsten Jahren als Leuchtfeuer des Wandels dienen."
 
 Das Anthropozän definiert die jüngste geologische Zeitperiode der Erde. Sie wird dadurch bestimmt, dass der Mensch atmosphärische, geologische, hydrologische und biosphärische Prozesse beeinflusst. Daher auch der Titel, der zu Deutsch lautet "Versteckt: Tiere im Anthropozän".
 

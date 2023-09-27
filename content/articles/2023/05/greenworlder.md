@@ -6,7 +6,7 @@ title: Greenworlder
 subTitle: Nachhaltige Social-Media-Plattform gelauncht
 seoTitle: Greenworlder vernetzt Klimaaktivist*innen und Expert*innen
 description: Ihr habt keine Lust mehr, dass ein Algorithmus alles bestimmt und es nur um Likes geht? Dann checkt mal das nachhaltige soziale Netzwerk Greenworlder!
-excerpt: Greenworlder – so lautet der Name eines neuen Social-Media-Netzwerks, das vor ein paar Tagen gestartet ist. Die Gründer⋆innen möchten mit ihrer Plattform die Nachhaltigkeits-Community und ihre Aktivist⋆innen, Expert⋆innen sowie alle Interessierten vernetzen – damit in Zukunft alle ohne Umwege gemeinsam für eine grüne Zukunft kämpfen können.
+excerpt: Greenworlder – so lautet der Name eines neuen Social-Media-Netzwerks, das vor ein paar Tagen gestartet ist. Die Gründer*innen möchten mit ihrer Plattform die Nachhaltigkeits-Community und ihre Aktivist*innen, Expert⋆innen sowie alle Interessierten vernetzen – damit in Zukunft alle ohne Umwege gemeinsam für eine grüne Zukunft kämpfen können.
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-01/greenworlder-jpg-imagine-08e8a8_3de9b9_1024_768/640.webp
 copyright: Greenworlder
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-01/greenworlder-og-jpeg-imagine-08e8a8_3decbc_2048_1075/640.webp
@@ -22,7 +22,7 @@ affiliate: false
 language: de
 ---
 
-**Greenworlder – so lautet der Name eines neuen Social-Media-Netzwerks, das vor ein paar Tagen gestartet ist. Die Gründer⋆innen möchten mit ihrer Plattform die Nachhaltigkeits-Community und ihre Aktivist⋆innen, Expert⋆innen sowie alle Interessierten vernetzen – damit in Zukunft alle ohne Umwege gemeinsam für eine grüne Zukunft kämpfen können.**
+**Greenworlder – so lautet der Name eines neuen Social-Media-Netzwerks, das vor ein paar Tagen gestartet ist. Die Gründer\*innen möchten mit ihrer Plattform die Nachhaltigkeits-Community und ihre Aktivist\*innen, Expert⋆innen sowie alle Interessierten vernetzen – damit in Zukunft alle ohne Umwege gemeinsam für eine grüne Zukunft kämpfen können.**
 
 Ziel von Greenworlder soll es sein, möglichst gut mit den auf der Erde verhandenen Ressourcen umzugehen und mehr als nur Likes und Shares zu sammeln. Im Gegensatz zu anderen sozialen Netzwerken wird es außerdem einen News-Bereich geben, der einen Überblick über die unterschiedlichsten Nachhaltigkeitsthemen bietet – aus den verschiedensten Blickwinkeln und von vielen spannenden Quellen. Der Medienbereich soll sich vorwiegend darauf konzentrieren, den Fokus der Menschen, die das Portal nutzen, zu erweitern und ihn nicht – wie bei anderen Netzwerken üblich – durch einen Algorithmus einzuschränken.
 

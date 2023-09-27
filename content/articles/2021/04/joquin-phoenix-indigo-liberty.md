@@ -34,7 +34,7 @@ language: de
 
 Die Rettung spielte sich im Februar 2020 ab. Jetzt kehrte der Schauspieler an den Ort zurück, um die Tiere zu besuchen. Kurz danach wurde das Video veröffentlicht, das die komplette Geschichte zeigt – unterlegt von Joaquins Bericht über das für ihn sehr prägende Erlebnis.
 
-Dokumentiert hat die Rettungsaktion der Macher des Films [Earthlings](/2020/07/earthlings/) Shaun Monson. Er war, neben Joaquins Verlobter [Rooney Mara](/2020/08/the-end-of-medicine/), der Gründerin von Los Angeles Animal Save, Amy Jean Davis, dem Präsidenten und Mitbegründer von Farm Sanctuary, Gene Baur, sowie einigen anderen Aktivist⋆innen auch an den Verhandlungen um die Freilassung der Tiere beteiligt.
+Dokumentiert hat die Rettungsaktion der Macher des Films [Earthlings](/2020/07/earthlings/) Shaun Monson. Er war, neben Joaquins Verlobter [Rooney Mara](/2020/08/the-end-of-medicine/), der Gründerin von Los Angeles Animal Save, Amy Jean Davis, dem Präsidenten und Mitbegründer von Farm Sanctuary, Gene Baur, sowie einigen anderen Aktivist\*innen auch an den Verhandlungen um die Freilassung der Tiere beteiligt.
 
 ## Joaquin Phoenix' erster Besuch auf einem Schlachthof
 

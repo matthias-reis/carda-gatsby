@@ -77,7 +77,7 @@ Plastiktüten kommen für uns natürlich nicht infrage. Aber auch auf schwere Do
 
 Wir haben beide am Rahmen unserer Fahrräder einen Flaschenhalter befestigt. Sie ermöglichen uns, dass wir sogar während der Fahrt mal einen Schluck trinken können. Die letzte Etappe vor der Badestelle halten wir dann auch mal ohne noch eine weitere Pause durch. Zur Belohnung gibt es dann nach diesem Sprint eine schöne Erfrischung. Im Anschluss füllen wir die Fahrradflaschen [aus den Flaschen in der Packtasche auf](https://t.adcell.com/p/click?promoId=224459&slotId=80259&param0=https%3A%2F%2Fsamebutgreen.com%2Fcollections%2Fdrink-samebutgreen%2Fproducts%2F1-liter-edelstahl-trinkflasche) und es geht weiter. Unterwegs gibt es dann im Auflugslokal nochmal einen Refill.
 
-Demnächst verrate ich Euch, warum Veganer⋆innen immer etwas zu Essen dabei haben. Bleibt also auf jeden Fall dran!
+Demnächst verrate ich Euch, warum Veganer\*innen immer etwas zu Essen dabei haben. Bleibt also auf jeden Fall dran!
 
 [Radwandern an der Elbe](/2018/05/radwandern-an-der-elbe/)
 

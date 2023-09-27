@@ -31,7 +31,7 @@ Trotz des wachsenden öffentlichen und politischen Widerstands gegen Tierversuch
 
 Eine von über 100 Tierschutzgruppen in ganz Europa gegründete Europäische Bürgerinitiative (EBI), sammelte zwischenzeitlich über 800.000 Unterschriften. Damit soll den Versuchen an Tieren innerhalb Europas um bis Ende August ein Ende gesetzt werden.
 
-Als EU-Bürger⋆innen könnt Ihr mit Eurer Unterschrift zur Abschaffung der nutzlosen Tierversuche beitragen. Die EBI ist ein formeller Mechanismus, der die EU beeinflussen kann, indem er die Kommission auffordert, neue Gesetze vorzuschlagen. Ihr könnt die Petition auf der Homepage von End Animal Testing unterzeichnen[^3].
+Als EU-Bürger\*innen könnt Ihr mit Eurer Unterschrift zur Abschaffung der nutzlosen Tierversuche beitragen. Die EBI ist ein formeller Mechanismus, der die EU beeinflussen kann, indem er die Kommission auffordert, neue Gesetze vorzuschlagen. Ihr könnt die Petition auf der Homepage von End Animal Testing unterzeichnen[^3].
 
 Innerhalb des Jahres 2019 wurden 9,3 Millionen (9.339.032) direkte Tierversuche durchgeführt. Weitere 1,2 Millionen (1.207.059) Verfahren betrafen die Verwendung von Tieren mit einer schädlichen genetischen Mutation zur Schaffung oder Erhaltung von Kolonien genetisch veränderter Tiere (GA).
 
@@ -43,7 +43,7 @@ Wie bereits in den Vorjahren, fanden die meisten Tests in Großbritannien (2 304
 
 ## Grausame Tierversuchs-Methoden
 
-Die grausame und archaische Aszites-Methode (auch Antikörper-Methode genannt) zur Herstellung von Antikörpern, die laut den Wissenschaftler⋆innen das schwerste Leid verursacht, wurde 37.477 Mal angewendet. Bei den Hautreizungstests lässt sich gegenüber dem Vorjahr ein Rückgang um 21 Prozent verzeichnen, bei den Augenreizungstests sind es 46 Prozent. Der Rückgang dieser Versuche, für seit Jahren Ersatzmethoden ohne Tierversuche möglich sind[^4], ist zwar ein Fortschritt, es gibt jedoch keine Entschuldigung dafür, dass sie noch immer durchgeführt werden.
+Die grausame und archaische Aszites-Methode (auch Antikörper-Methode genannt) zur Herstellung von Antikörpern, die laut den Wissenschaftler\*innen das schwerste Leid verursacht, wurde 37.477 Mal angewendet. Bei den Hautreizungstests lässt sich gegenüber dem Vorjahr ein Rückgang um 21 Prozent verzeichnen, bei den Augenreizungstests sind es 46 Prozent. Der Rückgang dieser Versuche, für seit Jahren Ersatzmethoden ohne Tierversuche möglich sind[^4], ist zwar ein Fortschritt, es gibt jedoch keine Entschuldigung dafür, dass sie noch immer durchgeführt werden.
 
 Das EU-Parlament stimmte im September 2021 mit überwältigender Mehrheit (667 zu 4) für einen Aktionsplan zur Beschleunigung des Übergangs von der Verwendung von Tieren in der Forschung und bei Versuchen zu einer Human-relevanten Wissenschaft in der gesamten EU. Der daraus hervorgegangene Beschluss forderte einen klaren und ehrgeiziger Zeitplan, Reduktionsziele sowie Meilensteine, um Anreize für echten Fortschritt zu schaffen.
 

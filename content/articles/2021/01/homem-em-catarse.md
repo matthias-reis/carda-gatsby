@@ -56,7 +56,7 @@ In Portugal und Spanien war er bereits mit Größen wie  Micah P. Hinson, And S
 
 Auf Alfonsos aktueller Platte befinden sich zehn kraftvolle und emotionsgeladene instrumentale Dream Gaze Songs, die der Künstler mithilfe eines Pianos und einem virtuosen Zusammenspiel elektronischer Sounds gestaltet hat.
 
-Mich persönlich begeistern vor allem die verträumten Klavier-Passagen. Alfonso mischt auf "Cem Palavras | Sem Palavras" gekonnt atmosphärischen Post-Rock und Shoegaze mit Klassik-Elementen. Freund⋆innen von Nils Frahm, Jónsi und And So I Watch You From Afar werden mit dem Album genauso ihren Spaß haben, wie Chopin Fans. Homem em Catarse liefert Musik zum Genießen – trotz der Ambient-Anleihen sehe ich sie allerdings nicht als Begleitmelodien, sondern als etwas, in dem man, im Moment, in dem man sich damit beschäftigt, vollkommen aufgeht. Sein Ziel, das Universum in einen Raum zu bringen hat der Künstler für mich also klar erreicht. Ich hoffe darauf, Homem em Catarse irgendwann live erleben zu dürfen.
+Mich persönlich begeistern vor allem die verträumten Klavier-Passagen. Alfonso mischt auf "Cem Palavras | Sem Palavras" gekonnt atmosphärischen Post-Rock und Shoegaze mit Klassik-Elementen. Freund\*innen von Nils Frahm, Jónsi und And So I Watch You From Afar werden mit dem Album genauso ihren Spaß haben, wie Chopin Fans. Homem em Catarse liefert Musik zum Genießen – trotz der Ambient-Anleihen sehe ich sie allerdings nicht als Begleitmelodien, sondern als etwas, in dem man, im Moment, in dem man sich damit beschäftigt, vollkommen aufgeht. Sein Ziel, das Universum in einen Raum zu bringen hat der Künstler für mich also klar erreicht. Ich hoffe darauf, Homem em Catarse irgendwann live erleben zu dürfen.
 
 ## Homem em Catarse – "Hotel Saturnyo"
 

@@ -35,11 +35,11 @@ Für seine Doku hat er neben Captain Sensible von The Damned, Dennis Lyxzén, S�
 
 Auf Social Media schreibt der Weltstar, der regelmäßig mit seinen Tierrechts-Aktionen für Wirbel sorgt:
 
-> "Mit dem Film möchte ich die Menschen daran erinnern, wie wichtig und dringend notwendig es ist, die kompromisslose Ethik und die Aktionen der ursprünglichen Punk-Aktivist⋆innen zu übernehmen. Darum möchte ich, dass er nach seiner Uraufführung beim Slamdance Festival Euch gehört.
+> "Mit dem Film möchte ich die Menschen daran erinnern, wie wichtig und dringend notwendig es ist, die kompromisslose Ethik und die Aktionen der ursprünglichen Punk-Aktivist\*innen zu übernehmen. Darum möchte ich, dass er nach seiner Uraufführung beim Slamdance Festival Euch gehört.
 >
 > "Ich möchte ihn verschenken, weil ich nicht guten Gewissens versuchen kann, von etwas zu profitieren, das im Wesentlichen ein Werk der Liebe und des Aktivismus ist."
 
-Gegenüber Progressive Radio Network[^2] erwähnte Moby auch die Hoffnung, die er in die Musiker⋆innen hat:
+Gegenüber Progressive Radio Network[^2] erwähnte Moby auch die Hoffnung, die er in die Musiker\*innen hat:
 
 > "Viele vermuten nicht, dass es darin häufig um Tierrechte geht, wenn sie sich die Aufnahmen von Menschen bei einer Punk-Show ansehen, die sich im Grunde gegenseitig verprügeln und aus vollem Halse schreien.
 >

@@ -53,13 +53,13 @@ Zurück zur Akupressurmatte. Ihr könnt sie immer dann auspacken, wenn Ihr das B
 
 Ich lege meine Lotusmatte am liebsten auf meine [Yogamatte](/2021/02/yoga-stile/). Dann habe ich einen schön stabilen Untergrund. Ihr könnt sie aber genauso gut auf dem Bett oder auf einem Teppich auslegen.
 
-Die Akupressurmatten der unterschiedlichen Hersteller⋆innen unterscheiden sich in kleinen Details. Meistens wird ein Akupressurkissen gleich mitgeliefert. Das war auch bei meinem [Akupressurmatten-Set von Backlaxx](https://t.adcell.com/p/click?promoId=204734&slotId=80259&param0=https%3A%2F%2Fshop.backlaxx.com%2Fproducts%2Fakupressurmatte-verschiedene-farben) der Fall.
+Die Akupressurmatten der unterschiedlichen Hersteller\*innen unterscheiden sich in kleinen Details. Meistens wird ein Akupressurkissen gleich mitgeliefert. Das war auch bei meinem [Akupressurmatten-Set von Backlaxx](https://t.adcell.com/p/click?promoId=204734&slotId=80259&param0=https%3A%2F%2Fshop.backlaxx.com%2Fproducts%2Fakupressurmatte-verschiedene-farben) der Fall.
 
 Die Hülle [meiner Matte](https://t.adcell.com/p/click?promoId=204734&slotId=80259&param0=https%3A%2F%2Fshop.backlaxx.com%2Fproducts%2Fakupressurmatte-verschiedene-farben) besteht zu 45 Prozent aus Baumwolle und zu 55 Prozent aus Leinen. Die Akupressur-Rosetten sind aus Kunststoff und das Futter wurde aus Fasern des Kapokbaums hergestellt.
 
 <Gallery name="akupressurmatte-1-1" />
 
-## Entspannen wie ein⋆e Fakir⋆in
+## Entspannen wie ein\*e Fakir⋆in
 
 Erfunden wurde die Akupressurmatte in Schweden. Dort gibt es inzwischen fast in jedem Haushalt eine. Sie wird übrigens auch als "Fakirmatte" bezeichnet. Allerdings hat sich mit einem Nagelbrett nur entfernte Ähnlichkeiten.
 

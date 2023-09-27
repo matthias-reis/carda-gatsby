@@ -31,7 +31,7 @@ language: de
 
 Egal, welche Größe, welches Alter und welches Geschlecht: In den Yogaklamotten von Darja und Sven sollen sich alle wohlfühlen. Unter dem Label Chakrana bieten die beiden jetzt allerhand Schönes und Praktisches aus nachwachsenden Rohstoffen an.
 
-Die gemütlichen Teile sollen auch Menschen den Zugang zu Yoga ermöglichen, die die Matte bis jetzt aus modischen Gründen gemieden haben. Neben neuen Wellness-Standards wollen die beiden Gründer⋆innen auch die Wertschöpfungskette komplett neu denken.
+Die gemütlichen Teile sollen auch Menschen den Zugang zu Yoga ermöglichen, die die Matte bis jetzt aus modischen Gründen gemieden haben. Neben neuen Wellness-Standards wollen die beiden Gründer\*innen auch die Wertschöpfungskette komplett neu denken.
 
 Ohne Rücksicht auf mögliche Einbußen bei den Margen ist bei ihnen alles "Made in Germany". Tops, Hosen und Co. werden in einem Traditionsunternehmen in Sachsen hergestellt. Dabei kommen ausschließliche vegane und öko-zertifizierte Stoffe zum Einsatz. In der Logistik und im Versand verzichtet man bei Chakrana komplett auf Plastik.
 
@@ -57,7 +57,7 @@ Genau aus diesem Grund ist Darja fest davon überzeugt, dass jeder Mensch Yoga a
 
 > "Yoga ist für alle da. Man muss weder super beweglich noch schlank sein, um davon zu profitieren,"
 
-meint sie. Sie möchte ihre Kund⋆innen bewusst von den üblichen Stereotypen aus der Yogaszene abbringen. Sie findet, dass die super-biegsamen und jugendlichen Menschen mit ihren Ballerina-Bodys auf den Fotos vor allem für Klischees sorgen und viele sogar davon abhalten, sich mit Yoga auseinanderzusetzen.
+meint sie. Sie möchte ihre Kund\*innen bewusst von den üblichen Stereotypen aus der Yogaszene abbringen. Sie findet, dass die super-biegsamen und jugendlichen Menschen mit ihren Ballerina-Bodys auf den Fotos vor allem für Klischees sorgen und viele sogar davon abhalten, sich mit Yoga auseinanderzusetzen.
 
 > "Das Tolle an Yoga ist doch eigentlich, dass es jeden auf seinem persönlichen Level abholen kann. Es gut einfach nur gut. Das Alter, das Gewicht und die körperliche Verfassung spielen da gar keine Rolle."
 

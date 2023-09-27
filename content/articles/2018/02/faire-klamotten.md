@@ -98,7 +98,7 @@ Im Netz unter anderem unter www.armedangels.de zu finden. Vertrieben wird die Ec
 
 ### Bidges &amp; Sons
 
-Wir Hamburger⋆innen haben es mit den Hanseatischen Kultklamotten von Bidges &amp; Sons natürlich gut, denn wir können einfach im Store auf der Reeperbahn vorbeischauen. Aber keine Sorge. Es gibt auch einen tollen Onlineshop:  www.bidges-sons.com
+Wir Hamburger\*innen haben es mit den Hanseatischen Kultklamotten von Bidges &amp; Sons natürlich gut, denn wir können einfach im Store auf der Reeperbahn vorbeischauen. Aber keine Sorge. Es gibt auch einen tollen Onlineshop:  www.bidges-sons.com
 
 ### Merijula
 

@@ -81,7 +81,7 @@ Wenn Ihr bis spätestens September (wenn Kontingent verfügbar ist) ein 26 Quadr
 
 Die Feld-Adoptionen haben für Silvia und David den Vorteil, dass sie übers Jahr sicher planen können, was sie anbauen müssen. So entsteht kein Überschuss und sie können die Produktionsmengen den Anfragen entsprechend anpassen. Ihr wisst dafür ganz genau, wo Eure Lebensmittel herkommen. Auf Zwischenhändler kann bei dieser Art des Anbaus komplett verzichtet werden. Was wiederum bessere Erzeugerpreise und höchste ökologische und soziale Standards ermöglicht.
 
-Langfristig gesehen hilft das dabei, Lebensmittelverschwendung entgegenzuwirken – nicht nur die Windkinder erhalten Planungssicherheit, sondern auch Ihr als Verbraucher⋆innen. Silvia und David freut das sehr:
+Langfristig gesehen hilft das dabei, Lebensmittelverschwendung entgegenzuwirken – nicht nur die Windkinder erhalten Planungssicherheit, sondern auch Ihr als Verbraucher\*innen. Silvia und David freut das sehr:
 
 > "Es ist für uns sehr motivierend, am frühen Morgen auf dem Feld zu stehen und zu wissen, dass Menschen sich auf unsere Produkte freuen und schon drauf warten. Wir wissen, für wen wir unsere Erzeugnisse anbauen: für Familien, für Kinder, für Menschen aus ganz Deutschland und darüber hinaus."
 

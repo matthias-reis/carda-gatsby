@@ -32,7 +32,7 @@ Bei dieser Art der Betrachtung deuten höhere Werte auf eine Ernährung hin, die
 
 ## Ein faszinierendes Ergebnis
 
-Die Wissenschaftler⋆innen untersuchten den Zusammenhang zwischen der Qualität der Nahrung und der Fitness ihrer Probandinnen, nachdem sie andere Faktoren betrachtet hatten. Darunter fallen die Beziehungen, das Geschlecht, die tägliche Kalorienzufuhr, wie viel und ob die Teilnehmenden rauchten, der Blutdruck, der Cholesterinspiegel sowie chronische Erkrankungen wie Diabetes und die Häufigkeit und Stärke regelmäßiger Trainings.
+Die Wissenschaftler\*innen untersuchten den Zusammenhang zwischen der Qualität der Nahrung und der Fitness ihrer Probandinnen, nachdem sie andere Faktoren betrachtet hatten. Darunter fallen die Beziehungen, das Geschlecht, die tägliche Kalorienzufuhr, wie viel und ob die Teilnehmenden rauchten, der Blutdruck, der Cholesterinspiegel sowie chronische Erkrankungen wie Diabetes und die Häufigkeit und Stärke regelmäßiger Trainings.
 
 Das Ergebnis ist ein weiterer Hinweis darauf, wie positiv sich pflanzliche Kost auf die menschliche  Gesundheit auswirkt. Das Fazit der Forschenden lautet: **Wenn wir regelmäßig gesunde, pflanzenbasierte Kost zu uns nehmen, können wir das als Äquivalent für regelmäßig 4.000 Schritte pro Tag werten.** Das ist besonders für Menschen, die in ihrem Alltag in ihrer Mobilität eingeschränkt sind, interessant.
 

@@ -31,7 +31,7 @@ subTitle: Wie vegane Lebensmittel den Markt dominieren werden
 
 **Vegan wird immer beliebter. Die Vegan Society und Business Expert kündigen jetzt sogar die vegane Revolution an: Pflanzliche Produkte sollen schon bald die Wirtschaft dominieren.**
 
-Im Jahr 2020 lebten laut Statista[^1] in Deutschland ziemlich genau 1,13 Millionen Menschen vegan. Das sind 180.000 mehr, als noch im Jahr 2019. 2018 waren es noch 0,8 Millionen gewesen. Weltweit wird die Zahl der Veganer⋆innen und Vegetarier⋆innen derzeit auf eine Milliarde geschätzt.
+Im Jahr 2020 lebten laut Statista[^1] in Deutschland ziemlich genau 1,13 Millionen Menschen vegan. Das sind 180.000 mehr, als noch im Jahr 2019. 2018 waren es noch 0,8 Millionen gewesen. Weltweit wird die Zahl der Veganer\*innen und Vegetarier\*innen derzeit auf eine Milliarde geschätzt.
 
 > "Das Image des Veganismus erfährt den radikalsten Wandel in seiner Geschichte",
 

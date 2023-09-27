@@ -47,7 +47,7 @@ Im Sommer 2020 waren bereits COVID-19-Infektionen auf Nerzfarmen in weiteren Lä
 
 ## Nerze werden unter unmenschlichen Bedingungen gezüchtet
 
-Tierrechtsaktivist⋆innen fordern Politiker⋆innen jetzt weltweit dazu auf, Pelzfarmen zu schließen. In einem Statement der leitenden Gesundheitsforscherin der britischen Gruppe Viva! Justine Butler heißt es:
+Tierrechtsaktivist\*innen fordern Politiker\*innen jetzt weltweit dazu auf, Pelzfarmen zu schließen. In einem Statement der leitenden Gesundheitsforscherin der britischen Gruppe Viva! Justine Butler heißt es:
 
 <blockquote>
 

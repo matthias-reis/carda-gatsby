@@ -42,13 +42,13 @@ subTitle: 2,1 Millionen Euro für pflanzliche Proteinquellen
 
 Tofu und Seitan, also Soja- und Weizenprotein dominieren den Markt für veganen Fleischersatz seit Jahren. Vor Kurzem haben sich auch Produkte aus [Erbsen](/2020/06/erbsen/) und Kichererbsenprotein dazugesellt. In Finnland wird jetzt fieberhaft an weiteren pflanzlichen Alternativen gearbeitet.
 
-Die staatliche Non-Profit-Organisation VTT und die Universität Helsinki haben von Business Finland (einem öffentlichen Innovationsfonds) 2,1 Millionen Euro erhalten. Gemeinsam soll am Aufbau eines nachhaltigen Lebensmittelindustrie-Ökosystems gearbeitet werden. Oberstes Ziel ist es, gesunde, pflanzliche Eiweißprodukte aus heimischen Nutzpflanzen zu entwickeln. Derzeit nehmen die Forscher⋆innen des sogenannten EXPRO-Projekts Fababohnen, Raps und Hafer genauer unter die Lupe.
+Die staatliche Non-Profit-Organisation VTT und die Universität Helsinki haben von Business Finland (einem öffentlichen Innovationsfonds) 2,1 Millionen Euro erhalten. Gemeinsam soll am Aufbau eines nachhaltigen Lebensmittelindustrie-Ökosystems gearbeitet werden. Oberstes Ziel ist es, gesunde, pflanzliche Eiweißprodukte aus heimischen Nutzpflanzen zu entwickeln. Derzeit nehmen die Forscher\*innen des sogenannten EXPRO-Projekts Fababohnen, Raps und Hafer genauer unter die Lupe.
 
 ## Vegane Alternativen bieten eine neue Perspektive
 
 VTT Projektleiterin Nesli Sözer sprach davon, dass sich die finnische Lebensmittelproduktion in einer einzigartigen Position befinde. Sie fügte hinzu
 
-> "Starkes Engagement der Verbraucher⋆innen ist für uns unerlässlich. Wir wollen nicht nur nachhaltige, sondern auch ansprechende Produkte entwicklen - in Bezug auf den Geschmack und das Mundgefühl. Das ist es, was wir mit dem EXPRO-Projekt anstreben."
+> "Starkes Engagement der Verbraucher\*innen ist für uns unerlässlich. Wir wollen nicht nur nachhaltige, sondern auch ansprechende Produkte entwicklen - in Bezug auf den Geschmack und das Mundgefühl. Das ist es, was wir mit dem EXPRO-Projekt anstreben."
 
 Zu den Partner⋆innen des Projekts zählt Gold&amp;Green Foods. Das finnische Start-up entwickelte bereits veganes "Pulled Meat" aus Hafer, Faba Bohnen und Erbsen. Die Fastfoodkette Taco Bell fand das Produkt so gut, dass es in den spanischen und britischen Filialen fest ins Sortiment aufgenommen wurde.
 

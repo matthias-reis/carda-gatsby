@@ -40,7 +40,7 @@ subTitle: '"Vegan auf Rezept"'
 
 ---
 
-**Martin Kamma, niedergelassener Facharzt für Allgemeinmedizin in Lüneburg, lebt seit 2012 vegan. In seinem Blog "Vegan auf Rezept" bringt der Mediziner seitdem fast täglich neue Tipps und Infos rund ums Thema vegan. Die vegane Ernährungsweise ist für ihn die gesündeste, die es gibt, seinen Patient⋆innen rät er daher regelmäßig dazu.**
+**Martin Kamma, niedergelassener Facharzt für Allgemeinmedizin in Lüneburg, lebt seit 2012 vegan. In seinem Blog "Vegan auf Rezept" bringt der Mediziner seitdem fast täglich neue Tipps und Infos rund ums Thema vegan. Die vegane Ernährungsweise ist für ihn die gesündeste, die es gibt, seinen Patient\*innen rät er daher regelmäßig dazu.**
 
 Den Schwerpunkt seines Blogs sieht er in der positiven Berichterstattung aus der Sicht eines Mediziners. Er arbeitet besonders die präventiven und therapeutischen Vorteile der veganen Lebensweise heraus, zeigt aber auch die ethischen und globalen Aspekte. Aufgelockert wird das Ganze mit Küchengeheimnissen und Rezepten. Ich habe mich mit dem Arzt über sein Leben, den Veganismus und die Welt unterhalten. Dabei ist ein überaus interessantes Gespräch entstanden.
 
@@ -48,7 +48,7 @@ Den Schwerpunkt seines Blogs sieht er in der positiven Berichterstattung aus der
 
 ## "Ich fühle mich wohler, seit ich vegan lebe"
 
-**Martin:** Hallo! Seit ich mich vegan ernähre, und das sind jetzt gut drei Jahre, hatte ich keinen Infekt mehr, ich fühle mich frisch, klar, kraftvoll und deutlich jünger als noch vor Jahren. Ich bin fünfundfünfzig. Immer mehr meiner Patient⋆innen hören mir aufmerksam zu, wenn ich über Ernährung spreche. Auffallend finde ich, dass sich viele meiner männlichen Patienten nicht vorstellen können, Fleisch durch andere Proteine zu ersetzen, und für viele meiner Patientinnen ist die Umstellung von Tier- auf Pflanzenmilchprodukten oft schwer vorstellbar.
+**Martin:** Hallo! Seit ich mich vegan ernähre, und das sind jetzt gut drei Jahre, hatte ich keinen Infekt mehr, ich fühle mich frisch, klar, kraftvoll und deutlich jünger als noch vor Jahren. Ich bin fünfundfünfzig. Immer mehr meiner Patient\*innen hören mir aufmerksam zu, wenn ich über Ernährung spreche. Auffallend finde ich, dass sich viele meiner männlichen Patienten nicht vorstellen können, Fleisch durch andere Proteine zu ersetzen, und für viele meiner Patientinnen ist die Umstellung von Tier- auf Pflanzenmilchprodukten oft schwer vorstellbar.
 
 Die Veränderung von Ernährungsverhaltensmustern und Geschmacksgewohnheiten ist sehr oft noch mit Verzicht assoziiert. Wer von schwerer Krankheit betroffen ist oder war, ist unabhängig vom Geschlecht für Veränderungen offener. In der akademischen Medizin wird vegan noch nicht als gesund kommuniziert.
 

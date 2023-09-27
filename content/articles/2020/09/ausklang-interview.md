@@ -96,7 +96,7 @@ Ausklang - was nach dem perfekten Ende eines erfüllten Tages klingt, ist ein au
 
 **Anne:** Ihr habt Euer Video zur zweiten Vorauskopplung "Aufbruch" in einem Gefängnis in Berlin Köpenick aufgenommen. Ich finde, es ist richtig genial geworden. Die Stimmung ist ziemlich düster. Wie war es, dort zu drehen?
 
-**Simon:** Dieses Gefängnis ist schon ein sehr starker Ort. Es ist dort auf der einen Seite bedrückend auf der anderen Seite ist die Architektur total inspirierend. Wir kennen den Ort durch Jail Sessions. Das ist ein Kunst-Projekt, bei dem die einzelnen Zellen von Musiker⋆innen bespielt werden.
+**Simon:** Dieses Gefängnis ist schon ein sehr starker Ort. Es ist dort auf der einen Seite bedrückend auf der anderen Seite ist die Architektur total inspirierend. Wir kennen den Ort durch Jail Sessions. Das ist ein Kunst-Projekt, bei dem die einzelnen Zellen von Musiker\*innen bespielt werden.
 
 **Anne:** Ihr seid in Berlin beheimatet. Wie würdet Ihr die dortige Post-Rock Szene beschreiben?
 
@@ -118,7 +118,7 @@ Wir selbst haben zum Beispiel einen guten Draht zum Duo Ceeys (Contemporary) aus
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcCBP/EACcQAAIBBAECBQUAAAAAAAAAAAECAwAEERIhBUEGEzFxgSJCUWGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIB/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECAxEhEv/aAAwDAQACEQMRAD8Ar8kdta3FotztvcSeXEoAJJ/Pt6f2vdJMtvJKEkCzQqGdB2U5wSPisd8Z3Mzdft9ZWAREMOpxoc+o+cU0s+vXcfiaU3lzI0Ew8sqWygH2jHYDBoKhsWK1wuXUerbSyWTzxGRYwddxttgEjGewPxxWcdeLPcnQEk8cUvjdh1ud1cGdZ2cOBnJDHvTAXSv1OEyH6WkAPtmkmPJLyJ8IPEEyPNbTNgmJxkdyM1HHcksZ4dRP5iyJIzcLrngDHJ5HJooqktkt6Yvt90uXJOWyGY+uc811OcH90UVoZ//Z"
 />
 
-**Anne:** Welche Musiker⋆innen würdet Ihr als Eure wichtigsten Einflüsse bezeichnen?
+**Anne:** Welche Musiker\*innen würdet Ihr als Eure wichtigsten Einflüsse bezeichnen?
 
 **Benjamin:** Wir lieben isländische Bands wie Sigur Rós und Post-Rock Gruppen wie pg.lost und Minor Movements. Diese Bands haben unseren Sound nachhaltig beeinflusst. Hammock sind unsere absoluten Ambient-Helden.
 

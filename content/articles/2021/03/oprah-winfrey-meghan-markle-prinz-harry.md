@@ -27,7 +27,7 @@ subTitle: Oprah Winfrey Interview enthüllt Tierschutz-Engagement
 
 **In ihrem Enthüllungsinterview bei Oprah Winfrey verrieten Meghan Markle und Prinz Harry neben den prekären Details über das britische Königshaus unter anderem auch, dass sie Hühner aus einer Fabrikfarm befreit haben.**
 
-Die beiden wohnen, genau wie Oprah im kalifornischen Montecito. Ein Teil des Interviews fand im Haus gemeinsamer Nachbar⋆innen statt. Die Ex-Royals gewährten dem Kamerateam auch einen kurzen Einblick in ihren Garten. Dort zeigten sie der Talkmasterin ihren großen Hühnerstall, den sie liebevoll nach ihrem gemeinsamen Sohn benannt haben. Das Gebäude trägt die Aufschrift "Archie's Chick Inn – Established 2021".
+Die beiden wohnen, genau wie Oprah im kalifornischen Montecito. Ein Teil des Interviews fand im Haus gemeinsamer Nachbar\*innen statt. Die Ex-Royals gewährten dem Kamerateam auch einen kurzen Einblick in ihren Garten. Dort zeigten sie der Talkmasterin ihren großen Hühnerstall, den sie liebevoll nach ihrem gemeinsamen Sohn benannt haben. Das Gebäude trägt die Aufschrift "Archie's Chick Inn – Established 2021".
 
 Harry erzählte, dass sich Meghan schon immer Hühner gewünscht hatte und diese fügte begeistert hinzu:
 
@@ -39,7 +39,7 @@ Und begrüßte die Hühner mit einem freundlichen "Hi, girls". Die Schauspieleri
 
 Suits Star Markle hatte außerdem 2020 eine unbekannte Summe in das vegane Start-up Clever Blends investiert. Das Unternehmen verkauft Instand-Kaffee-Spezialitäten auf Hafermilch-Basis. Mitbegründerin und CEO Hannah Mendoza zeigte sich dankbar für Meghans Hilfe. Sie könne sich keine besser abgestimmte Partnerschaft vorstellen könne:
 
-> "Gründer⋆innen brauchen Finanzierung, aber sie brauchen auch Berater, die sich mit Leidenschaft um das kümmern, was sie aufbauen. Meghans Leidenschaft für das, was wir tun, ist spürbar."
+> "Gründer\*innen brauchen Finanzierung, aber sie brauchen auch Berater, die sich mit Leidenschaft um das kümmern, was sie aufbauen. Meghans Leidenschaft für das, was wir tun, ist spürbar."
 
 Das skandalöse Interview bei Oprah Winfrey fand am Sonntag statt und sorgte weltweit für Wirbel in der Presse. Meghan hatte die königliche Familie beschuldigt, ihr gegenüber vor der Geburt ihres Sohnes Archie "Bedenken" geäußert zu haben, "wie dunkel" seine Haut wohl sein würde.
 

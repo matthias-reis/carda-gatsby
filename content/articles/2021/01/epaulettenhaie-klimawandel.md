@@ -33,7 +33,7 @@ subTitle: Epaulettenhaie in Entwicklung gestört
 
 **Epaulettenhaie gehören zur Familie der Bambushaie. Ihre Lebensräume befinden sich vor Indonesien, Neuguinea und Nordaustralien. Möglicherweise leben einige von ihnen auch noch in den Gewässern der Salomon-Inseln. Sie gelten eigentlich als besonders robust. Doch jetzt macht der Klimawandel auch ihnen einen Strich durch die Rechnung.**
 
-Der stetige Temperaturanstieg bringt den Lebenszyklus der Meeresbewohner komplett durcheinander. Das geht aus einer wissenschaftlichen Arbeit hervor, die Scientific Reports vor Kurzem veröffentlichte. Die Epaulettenhaie im flachen Wasser des Great Barrier Reef sind besonders betroffen. Ein Team aus Forscher⋆innen unter der Leitung von Carolyn Wheeler von der australischen James Cook Universität fand heraus, dass ihre Jungen 24 Tage früher schlüpfen. Das vermindert ihre Chance zu überleben um ein Vielfaches.
+Der stetige Temperaturanstieg bringt den Lebenszyklus der Meeresbewohner komplett durcheinander. Das geht aus einer wissenschaftlichen Arbeit hervor, die Scientific Reports vor Kurzem veröffentlichte. Die Epaulettenhaie im flachen Wasser des Great Barrier Reef sind besonders betroffen. Ein Team aus Forscher\*innen unter der Leitung von Carolyn Wheeler von der australischen James Cook Universität fand heraus, dass ihre Jungen 24 Tage früher schlüpfen. Das vermindert ihre Chance zu überleben um ein Vielfaches.
 
 Bis zum Jahr 2100 kann sich die Durchschnittstemperatur um vier Grad erhöhen. Das hängt davon ab, ob wir weitermachen, wie bisher oder etwas an unserem Verhalten ändern. Natürlich sollten auch die gefährlichen [Kipppunkte](/2020/07/handeln-statt-hoffen-carola-rackete/), die den Vorgang der Klimaerwärmung auf einen Schlag wesentlich beschleunigen können, nicht außer Acht gelassen werden.
 
@@ -74,7 +74,7 @@ Studienleiterin Wheeler bekräftigt die Aussage ihrer Kollegin:
 
 > "Mit dem erbrachten Beweis dafür, dass Haie bereits von den Klimaveränderungen bedroht sind, zeigt unsere Studie eine besorgniserregende Zukunft. Ohne Raubtiere können ganze Ökosysteme zusammenbrechen. Haie sind wichtige Raubtiere. Sie halten das Ökosystem der Ozeane gesund. Es gilt daher, diese Lebewesen weiterzuerforschen und zu schützen."
 
-Um die Wissenschaftler⋆innen bei dieser wichtigen Arbeit zu unterstützen, müssen wir alle gegen den Klimawandel ankämpfen. Je mehr wir tun, desto besser und am besten so schnell wie möglich. Dass bereits eine der widerstandsfähigsten Arten mit den Auswirkungen zu kämpfen hat, sollte der Menschheit wirklich zu denken geben.
+Um die Wissenschaftler\*innen bei dieser wichtigen Arbeit zu unterstützen, müssen wir alle gegen den Klimawandel ankämpfen. Je mehr wir tun, desto besser und am besten so schnell wie möglich. Dass bereits eine der widerstandsfähigsten Arten mit den Auswirkungen zu kämpfen hat, sollte der Menschheit wirklich zu denken geben.
 
 <YouTube id="mzmO3CpIzHA" />
 

@@ -58,7 +58,7 @@ Wanheda haben ihr Album produziert, wie man es zum Beispiel aus der Regiearbeit 
 
 **Anne:** Man könnte also sagen, dass das Album eine wahre Geschichte erzählt?
 
-**Jan:** Obwohl wir Lust hatten, ein Konzeptalbum zu machen und ihm durch das gewählte Thema eine Bedeutung zu geben, überlassen wir den Hörer⋆innen die Schlussfolgerungen. Uns ging es nicht so sehr darum, von einer drohenden technischen Dystopie zu predigen. Wir wollen vielmehr unsere Gefühle zu diesem Thema erforschen und zum Ausdruck bringen. Es ist uns sehr wichtig, dass unsere Musik Emotion hervorruft – was auch immer eine Person beim Hören unserer Songs fühlen mag.
+**Jan:** Obwohl wir Lust hatten, ein Konzeptalbum zu machen und ihm durch das gewählte Thema eine Bedeutung zu geben, überlassen wir den Hörer\*innen die Schlussfolgerungen. Uns ging es nicht so sehr darum, von einer drohenden technischen Dystopie zu predigen. Wir wollen vielmehr unsere Gefühle zu diesem Thema erforschen und zum Ausdruck bringen. Es ist uns sehr wichtig, dass unsere Musik Emotion hervorruft – was auch immer eine Person beim Hören unserer Songs fühlen mag.
 
 **Anne:** Wie seid Ihr auf die Idee gekommen, diese Geschichte zu verwenden?
 
@@ -86,7 +86,7 @@ Wenn man es schafft, sie zu überwinden, stärkt das die Gruppe. Wir sind alle e
 
 **Anne:** Euer Musikstil ist sehr vielseitig. Ich kann mir vorstellen, dass Ihr damit Fans von Bands wie Mono oder Caspian und anderen emotionalen und melodischen Post-Rock-Bands sehr leicht anstecken könnt. Würdest Du sie als Eure Vorbilder bezeichnen? Gibt es noch weitere?
 
-**Jan:** Es hat alles mit unserem Lead-Gitarristen Jan Verduyckt aka JV angefangen, der ein großer Fan von Bands wie Mono, Sigur Rós und Yndi Halda ist. Andere Bands, die ihn dazu inspiriert haben, Songs für Wanheda zu schreiben sind Pink Floyd, Radiohead und April Rain, aber auch klassische Komponist⋆innen. Wir sind außerdem alle große Fans von Russian Circles und If These Trees Could Talk.
+**Jan:** Es hat alles mit unserem Lead-Gitarristen Jan Verduyckt aka JV angefangen, der ein großer Fan von Bands wie Mono, Sigur Rós und Yndi Halda ist. Andere Bands, die ihn dazu inspiriert haben, Songs für Wanheda zu schreiben sind Pink Floyd, Radiohead und April Rain, aber auch klassische Komponist\*innen. Wir sind außerdem alle große Fans von Russian Circles und If These Trees Could Talk.
 
 **Anne:** Du hast es vorhin schon mal kurz angesprochen: Ihr seid zu sechst. Das sind eine Menge Leute. Ist es da immer einfach, einen gemeinsamen Nenner zu finden und all die kreativen Ideen zu vereinen?
 

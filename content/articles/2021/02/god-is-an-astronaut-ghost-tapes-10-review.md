@@ -38,7 +38,7 @@ labels:
 
 Diesen Moment habe ich sehnsüchtig erwartet. Heute steht sie endlich in den Plattenläden: die neue Scheibe von God Is An Astronaut.
 
-Das neue Werk der irischen Post-Rock Truppe kommt roh und wild daher. Ob es sich tatsächlich auch um das wie die Band es vorab angekündigt hatte "aggressivste Album" ihrer fast 20-jährigen Geschichte handelt, darf jede⋆r für sich entscheiden.
+Das neue Werk der irischen Post-Rock Truppe kommt roh und wild daher. Ob es sich tatsächlich auch um das wie die Band es vorab angekündigt hatte "aggressivste Album" ihrer fast 20-jährigen Geschichte handelt, darf jede\*r für sich entscheiden.
 
 ## "Ghost Tapes #10" ist härter als sein Vorgänger
 
@@ -50,7 +50,7 @@ Ob "Epitaph" und "All Is Violent, All Is Bright" weiter meine Favoriten bleiben?
 
 ## Post-Rock wie er sein sollte
 
-Für mich hat die Platte alles, was guter Post-Rock braucht: Klangbäder und Rundflüge, Melodien und ausgefallene Rhythmen und wogende Wellen. On top gibt es auf "Ghost Tapes #10" sogar ziemlich gekonnte Zweifuß-Technik-Einlagen am Schlagzeug – Freund⋆innen von Hardcore Punk und Metal kommen also durchaus auch auf ihre Kosten ("Spectres").
+Für mich hat die Platte alles, was guter Post-Rock braucht: Klangbäder und Rundflüge, Melodien und ausgefallene Rhythmen und wogende Wellen. On top gibt es auf "Ghost Tapes #10" sogar ziemlich gekonnte Zweifuß-Technik-Einlagen am Schlagzeug – Freund\*innen von Hardcore Punk und Metal kommen also durchaus auch auf ihre Kosten ("Spectres").
 
 Das Zeitalter der Pandemie, des Klimawandels und der politischen Verwirrung ist ganz sicher auch an GOIAA nicht spurlos vorübergezogen. Beim Hören kann man sich gut vorstellen, dass die Eindrücke der letzten Monate und Jahre in die Kompositionen eingeflossen sind. Die hauchigen Ambient-Momente sind weniger geworden, was jedoch nicht stört.
 

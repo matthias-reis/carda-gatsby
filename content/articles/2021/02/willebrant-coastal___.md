@@ -41,7 +41,7 @@ labels:
 
 Karl Willebrand lernte ich vor Kurzem über [Perry Frank](/2020/11/perry-frank-interview/) kennen. Als Bewunderer seiner Musik war er auf meine Seite gestoßen. Ganz nebenbei erfuhr ich dann von seiner neuen EP, wofür ich wirklich dankbar bin – die Platte ist wirklich ein wunderbares Stück Ambient.
 
-"Coastal**\_" ist die zweite Installation einer Fieldwork Serie ("Fern\_\_**" war Teil eins). Mit seinen Klangbädern möchte Karl seine Hörer⋆innen dazu einladen, sich selbst zu verlieren. In der Sound-Szenerie aufzugehen und eine Welt aus Reflexionen und Fantasie zu erschaffen.
+"Coastal**\_" ist die zweite Installation einer Fieldwork Serie ("Fern\_\_**" war Teil eins). Mit seinen Klangbädern möchte Karl seine Hörer\*innen dazu einladen, sich selbst zu verlieren. In der Sound-Szenerie aufzugehen und eine Welt aus Reflexionen und Fantasie zu erschaffen.
 
 ## Synthesizer, Drone-Bässe und Meeresrauschen
 

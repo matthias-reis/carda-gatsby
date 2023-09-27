@@ -43,7 +43,7 @@ Der ehemalige Architekt Hekmat Kaveh, selbst Veganer und Vater von drei Kindern,
 
 Im Buch erfahren die Kids, wie unsere moderne Welt die Ausbeutung der Tiere verschleiert. Kaveh wünscht sich, dass die Kinder durch die Lektüre Mitgefühl gegenüber Tieren entwickeln.
 
-> "Das Buch bietet den Leser⋆innen einfache Schritte, mit denen sie selbst dazu beitragen können, die Erde zu einem freundlicheren Ort zu machen",
+> "Das Buch bietet den Leser\*innen einfache Schritte, mit denen sie selbst dazu beitragen können, die Erde zu einem freundlicheren Ort zu machen",
 
 äußerte sich der Spender.
 

@@ -41,7 +41,7 @@ advertisement: true
 
 ---
 
-**Liebe Leser⋆innen,**
+**Liebe Leser\*innen,**
 
 **heute habe ich etwas ganz Besonderes für Euch vorbereitet. Ich verlose ein lebenslanges _piqd_ -Abo im Wert von 299,00 Euro! Wie das geht und was _piqd_ genau ist, erfahrt Ihr in diesem Artikel.**
 

@@ -6,7 +6,7 @@ title: Natürliche Vitamine mit nachhaltiger Vision
 subTitle: B12, Omega 3 und Eisen von NatuRise
 seoTitle: Veganes B12 Omega 3 und Eisen im Test
 description: Wenn Ihr als Veganer*innen B12, Eisen oder Omega 3 ergänzen müsst, seid Ihr hier richtig! Holt Euch jetzt alle Infos!
-excerpt: B12 ist ein Vitamin, das nicht nur Veganer⋆innen täglich über Nahrungsergänzungsmittel zu sich nehmen sollten. Es empfiehlt sich außerdem, regelmäßig die Eisenwerte zu checken und genügend Omega 3 zu konsumieren. Das Nützliche dabei mit dem Guten zu verbinden, ist eine schöne Vision – NatuRise verfolgt sie seit seiner Gründung.
+excerpt: B12 ist ein Vitamin, das nicht nur Veganer*innen täglich über Nahrungsergänzungsmittel zu sich nehmen sollten. Es empfiehlt sich außerdem, regelmäßig die Eisenwerte zu checken und genügend Omega 3 zu konsumieren. Das Nützliche dabei mit dem Guten zu verbinden, ist eine schöne Vision – NatuRise verfolgt sie seit seiner Gründung.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-29/p6290492-2-jpg-imagine-080808_585b5b_2048_1536/640.webp
 copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-29/naturise-og-jpg-imagine-080808_52595d_1200_628/640.webp
@@ -23,7 +23,7 @@ affiliate: true
 language: de
 ---
 
-**B12 ist ein Vitamin, das nicht nur Veganer⋆innen täglich über Nahrungsergänzungsmittel zu sich nehmen sollten. Es empfiehlt sich außerdem, regelmäßig die Eisenwerte zu checken und genügend Omega 3 zu konsumieren. Das Nützliche dabei mit dem Guten zu verbinden, ist eine schöne Vision – NatuRise verfolgt sie seit seiner Gründung.**
+**B12 ist ein Vitamin, das nicht nur Veganer\*innen täglich über Nahrungsergänzungsmittel zu sich nehmen sollten. Es empfiehlt sich außerdem, regelmäßig die Eisenwerte zu checken und genügend Omega 3 zu konsumieren. Das Nützliche dabei mit dem Guten zu verbinden, ist eine schöne Vision – NatuRise verfolgt sie seit seiner Gründung.**
 
 Von NatuRise habe ich hier im Blog bereits [das D3 und Omega-3-Öl vorgestellt](/2021/09/omega-3-vitamin-d-naturise/). Heute möchte ich Euch die Omega-3-Kapseln sowie die Eisen- und Vitamin-B-12-Tropfen zeigen. Alle drei Produkte habe ich im Moment im Einsatz und ich mag sie wirklich sehr gerne.
 
@@ -45,7 +45,7 @@ Von den Vitamin-B-12-Tropfen nehmt Ihr täglich 3 Tropfen zu Euch und deckt dami
 
 "Nutztiere" bekommen über das Futter Vitamin B12 zugeführt. Darum haben Menschen, die häufig Fleisch essen, manchmal keinen Mangel und müssen das Vitamin nicht über Nahrungsergänzungsmittel zu sich nehmen. Vegan lebende Menschen wie ich sollten generell zu B-12-Supplementen greifen.
 
-Es lohnt sich jedoch auf jeden Fall für alle, regelmäßig die Blutwerte daraufhin zu untersuchen. Dabei solltet Ihr den⋆die Ärzt⋆in Eures Vertrauens darum bitten, besonders auf den Holo-TC-(Holo-Transcobalamin)-Wert zu achten. Es reicht nicht aus, allein den Vitamin-B12-Wert zu checken. Solltet Ihr schon im Mangel liegen, könnt Ihr mit dem⋆der Mediziner⋆in auch überlegen, ob eine Injektion für Euch infrage kommt, damit Ihr schneller wieder in den Normbereich kommt.
+Es lohnt sich jedoch auf jeden Fall für alle, regelmäßig die Blutwerte daraufhin zu untersuchen. Dabei solltet Ihr den\*die Ärzt⋆in Eures Vertrauens darum bitten, besonders auf den Holo-TC-(Holo-Transcobalamin)-Wert zu achten. Es reicht nicht aus, allein den Vitamin-B12-Wert zu checken. Solltet Ihr schon im Mangel liegen, könnt Ihr mit dem⋆der Mediziner⋆in auch überlegen, ob eine Injektion für Euch infrage kommt, damit Ihr schneller wieder in den Normbereich kommt.
 
 **Tipp:** Mehr über Vitamin-B12 erfahrt Ihr in meinem [Artikel](/2014/08/vitamin-b12-mythos-und-wahrheit/) zum Thema.
 

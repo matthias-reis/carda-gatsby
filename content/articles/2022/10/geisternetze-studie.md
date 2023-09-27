@@ -35,13 +35,13 @@ Als ich dieses Jahr in Dänemark war, entdeckte ich ein komplettes Fischernetz i
 
 Die kleinen Fragmente, die ich in meinen Sack packte, fallen, im Gegensatz zu dem tief vergraben liegenden Unrat, kaum ins Gewicht. Ganz zu schweigen natürlich von den Netzen und Seilen, die durch die Meere treiben, wodurch immer wieder Meeresbewohner grausam zu Tode kommen.
 
-Meine Vermutung wurde jetzt durch eine Studie bestätigt. Die Autor⋆innen halten ihre Erkenntnisse für besorgniserregend. Zu dem von mir beschriebenen Müll kommen Fischereigerätschaften wie Reusen, Haken und Fallen inklusive Leinen.
+Meine Vermutung wurde jetzt durch eine Studie bestätigt. Die Autor\*innen halten ihre Erkenntnisse für besorgniserregend. Zu dem von mir beschriebenen Müll kommen Fischereigerätschaften wie Reusen, Haken und Fallen inklusive Leinen.
 
 ## Im Meer dehnen sich Müllteppiche aus
 
 ![Geisternetz in England](https://storage.googleapis.com/cardamonchai-media/2022-10-25/geisternetze-england-jpeg-imagine-b8b8b8_75858c_4752_3168/640.webp 'Geisternetz in England')
 
-Insgesamt schwimmen 25 Millionen Reusen sowie 14 Milliarden Haken im Meer. Nach Ansicht der Studien-Autor⋆innen haben sie enorme und tödliche Auswirkungen auf die Meeresbewohner.
+Insgesamt schwimmen 25 Millionen Reusen sowie 14 Milliarden Haken im Meer. Nach Ansicht der Studien-Autor\*innen haben sie enorme und tödliche Auswirkungen auf die Meeresbewohner.
 
 Dr. Denise Hardesty, eine der Autor⋆innen äußerte sich wie folgt dazu:
 

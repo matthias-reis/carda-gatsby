@@ -41,7 +41,7 @@ language: de
 
 Rebecca Cappelli ("Let us be Heroes") wird im Film auf ihrer dreijährigen Reise begleitet, auf der sie die Herstellung und Verarbeitung von Tierhäuten in der Modeindustrie beleuchtet und [den Ursprüngen von Leder](/2020/07/leder-pelz/), [Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) und [Pelz](/tag/pelz) auf der Spur ist.
 
-Zum Glück wird die Kritik am Modezirkus vor allem, was fehlende Nachhaltigkeit und die ungerechte Behandlung der Arbeiter⋆innen angeht, immer lauter. Ein Punkt, der hier jedoch nicht vergessen werden darf, ist die grausame Ausbeutung von Tieren.
+Zum Glück wird die Kritik am Modezirkus vor allem, was fehlende Nachhaltigkeit und die ungerechte Behandlung der Arbeiter\*innen angeht, immer lauter. Ein Punkt, der hier jedoch nicht vergessen werden darf, ist die grausame Ausbeutung von Tieren.
 
 ## Menschen und Tiere leiden für die Mode
 
@@ -53,7 +53,7 @@ Für "Slay" haben Rebecca Cappelli und Keegan Kuhn (["Cowspiracy"](/2020/04/cows
 
 Neben dem allgegenwärtigen Tierleid begegnete das Filmteam auch permanent Menschen, die der Modeindustrie regelrecht ausgeliefert sind. Sie arbeiten unter schlimmen, häufig sogar gefährlichen Bedingungen weit über jeder zumutbaren Belastungsgrenze und sind gleichzeitig auf ihre Jobs angewiesen.
 
-Im Film kommen Expert⋆innen für nachhaltige Mode und Angehörige der Tierrechtsbewegung zu Wort – darunter bekannte Aktivist⋆innen wie Samata Pattinson, Bandana Tewari, [Melanie Joy](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/), Dana Thomas, Joshua Katcher, Lucy Watson, [Earthling Ed](/tag/earthling-ed), Emma Hakansson und Alexi Lubomirski. Sie zeigen auf, wie es laufen müsste und wie weit wir heute noch von menschen- und tierwürdigen Lösungen entfernt sind.
+Im Film kommen Expert\*innen für nachhaltige Mode und Angehörige der Tierrechtsbewegung zu Wort – darunter bekannte Aktivist⋆innen wie Samata Pattinson, Bandana Tewari, [Melanie Joy](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/), Dana Thomas, Joshua Katcher, Lucy Watson, [Earthling Ed](/tag/earthling-ed), Emma Hakansson und Alexi Lubomirski. Sie zeigen auf, wie es laufen müsste und wie weit wir heute noch von menschen- und tierwürdigen Lösungen entfernt sind.
 
 ## Zu Besuch auf Pelz- und Wollfarmen
 

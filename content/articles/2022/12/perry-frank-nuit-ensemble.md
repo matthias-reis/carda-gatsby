@@ -39,7 +39,7 @@ Der Komponist nahm sein Album zwischen Januar und Juni 2022 auf und veröffentli
 
 ## Harmonisch und durchdacht
 
-Perry erzählte mir, dass er seine Einflüsse in Künstler⋆innen wie Basinski, Brian Eno, Boards of Canada, Fennesz, Tycho, Bonobo, Robin Guthrie und Harold Budd sieht. Aus meiner Sicht hat ihn das zu einer harmonischen Klangwelt voller Erinnerungen daran geführt hat, wie besonders diese Welt ist und dass wir uns um sie kümmern müssen.
+Perry erzählte mir, dass er seine Einflüsse in Künstler\*innen wie Basinski, Brian Eno, Boards of Canada, Fennesz, Tycho, Bonobo, Robin Guthrie und Harold Budd sieht. Aus meiner Sicht hat ihn das zu einer harmonischen Klangwelt voller Erinnerungen daran geführt hat, wie besonders diese Welt ist und dass wir uns um sie kümmern müssen.
 
 Die Tatsache, dass er die meisten Instrumente selbst einspielt, um sie anschließend zu kombinieren und diese inspirierenden Tracks zu kreieren, ist ziemlich beeindruckend. Mit den zehn Songs auf dem Album ist es ihm gelungen, ein wahres Nacht-Ensemble zu erschaffen – energisch, impulsiv und sehr bedeutungsvoll.
 

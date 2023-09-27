@@ -5,8 +5,8 @@ path: '/2018/08/gartenblogger-blind-date/'
 title: Blind Date mit einem Song
 seoTitle: Gartenblogger Blind Date Edition 5 - I Build This Garden For Us
 ogTitle: Gartenblogger Blind Date Edition 5 - I Build This Garden For Us
-description: Was kommt dabei heraus, wenn sich 15 Blogger⋆innen verabreden, gleichzeitig einen Text über einen Song zu veröffentlichen? Das Gartenblogger Blind Date!
-excerpt: Was kommt dabei heraus, wenn sich 15 Blogger⋆innen verabreden, gleichzeitig einen Text über einen Song zu veröffentlichen? Das Gartenblogger Blind Date!
+description: Was kommt dabei heraus, wenn sich 15 Blogger*innen verabreden, gleichzeitig einen Text über einen Song zu veröffentlichen? Das Gartenblogger Blind Date!
+excerpt: Was kommt dabei heraus, wenn sich 15 Blogger*innen verabreden, gleichzeitig einen Text über einen Song zu veröffentlichen? Das Gartenblogger Blind Date!
 fileName: 2018-08---blind-date-mit-einem-song.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__l.jpg
@@ -36,11 +36,11 @@ year: '2018'
 month: '08'
 ---
 
-**Was kommt dabei heraus, wenn 15 Garten-affine Blogger⋆innen verabreden, einen Text über ein Lied zu verfassen und ihn gleichzeitig zu veröffentlichen? Das hat sich Björn vom Blog Gartenbaukunst auch gefragt und das Gartenblogger Blind Date ins Leben gerufen. Es geht jetzt bereits in die fünfte Runde und ich bin stolz, wieder dabei zu sein.**
+**Was kommt dabei heraus, wenn 15 Garten-affine Blogger\*innen verabreden, einen Text über ein Lied zu verfassen und ihn gleichzeitig zu veröffentlichen? Das hat sich Björn vom Blog Gartenbaukunst auch gefragt und das Gartenblogger Blind Date ins Leben gerufen. Es geht jetzt bereits in die fünfte Runde und ich bin stolz, wieder dabei zu sein.**
 
 Dieses Mal fiel die Wahl auf den Song "I Build This Garden For Us" von Lenny Kravitz. Gute Idee, oder? Der Titel passt so schön zu Gärten. Ich bin jetzt das vierte Mal dabei beim Date und finde, dass ich zusammen mit den Songs ["Summerwine"](/2017/07/blind-date-summerwine/) von Nancy Sinatra, ["I Like Birds"](/2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/) von Eels und ["Peaches"](/2018/03/presidents-of-the-united-states-peaches/) von den Presidents Of The United States schon die Grundlage für eine ganz nette Playlist zusammen habe. Ich bin schon gespannt, wie sie sich demnächst erweitern wird.
 
-Vor der Veröffentlichung wusste übrigens auch dieses Mal keine/r von uns, was die anderen geschrieben haben. Die Vorfreude war daher für uns Autor⋆innen wieder mehr als groß. Bereits am 18. August war es soweit und das Geheimnis wurde gelüftet.
+Vor der Veröffentlichung wusste übrigens auch dieses Mal keine/r von uns, was die anderen geschrieben haben. Die Vorfreude war daher für uns Autor\*innen wieder mehr als groß. Bereits am 18. August war es soweit und das Geheimnis wurde gelüftet.
 
 Weil ich nicht zu Hause war, poste ich meinen Text erst heute, er kommt natürlich dennoch von Herzen. Grüße an alle anderen Lieben, die mitgemacht haben! Die Beiträge der anderen Blogger⋆innen habe ich noch nicht gesehen. Umso gespannter bin ich, sie alle zu entdecken. Euch wünsche ich jetzt erstmal viel Spaß mit meinen Assoziationen, die das Lied bei mir hervorgerufen hat. Weiter unten sind dann alle anderen Blogs verlinkt.
 

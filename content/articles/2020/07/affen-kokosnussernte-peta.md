@@ -41,13 +41,13 @@ Einige Händler haben ihre Geschäfte mit den betreffenden Firmen bereits einges
 
 Die Verlobte des britischen Premiers Johnson rief alle Supermärkte auf den Inseln dazu auf, Kokosnuss-Produkte von Produzenten, die mit Affenarbeit in Verbindung gebracht werden können, zu boykottieren.
 
-Die Behörden in Thailand streiten den Missbrauch von Affen und ihren unfreiwilligen Einsatz als Arbeitskräfte unterdessen weiter ab. Thailands Handelsminister Jurin Laksanawisit stellt die von PETA aufgedeckten Beweise infrage. Er behauptete, die Kokosnuss-Industrie in seinem Land würde keine Affen im industriellen Maßstab einsetzen. Er räumte lediglich ein, dass die Praxis in geringem Rahmen zur Unterhaltung von Tourist⋆innen genutzt werde.
+Die Behörden in Thailand streiten den Missbrauch von Affen und ihren unfreiwilligen Einsatz als Arbeitskräfte unterdessen weiter ab. Thailands Handelsminister Jurin Laksanawisit stellt die von PETA aufgedeckten Beweise infrage. Er behauptete, die Kokosnuss-Industrie in seinem Land würde keine Affen im industriellen Maßstab einsetzen. Er räumte lediglich ein, dass die Praxis in geringem Rahmen zur Unterhaltung von Tourist\*innen genutzt werde.
 
 ## Sind Kokos-Produkte fair?
 
 Die Nachforschungen der Tierrechtsorganisation PETA Asia ergaben, dass die großen Kokosnuss-Lieferanten Army-D und Chokoh Affen zur Herstellung ihrer Produkte ausnutzen.
 
-Die Aktivist⋆innen haben insgesamt acht Farmen besucht und sich dort umgesehen. Sie erzählen, wie die Bauern gefesselte Affen zum Pflücken von Kokosnüssen gezwungen hätten. PETA entdeckte außerdem Trainingseinrichtungen für Affen sowie einen Wettbewerb, bei dem Affen Kokosnüsse ernten müssen.
+Die Aktivist\*innen haben insgesamt acht Farmen besucht und sich dort umgesehen. Sie erzählen, wie die Bauern gefesselte Affen zum Pflücken von Kokosnüssen gezwungen hätten. PETA entdeckte außerdem Trainingseinrichtungen für Affen sowie einen Wettbewerb, bei dem Affen Kokosnüsse ernten müssen.
 
 ## Affen werden mit schwerer Folter bestraft
 

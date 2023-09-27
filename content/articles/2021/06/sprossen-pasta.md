@@ -46,7 +46,7 @@ Der Versand ging wie gewohnt blitzschnell. Aus dem Karton kletterten neben [mein
 
 Sprossen-Pasta war für mich etwas komplett Neues. Bis jetzt bin ich nur in den Genuss von klassischer Pasta sowie Nudeln aus Hülsenfrüchten wie Erbsen und Linsen gekommen. Beide esse ich für mein Leben gerne und war daher auch besonders gespannt auf die neue kulinarische Erfahrung.
 
-Die [Dinkelsprossen-Pasta hat](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2Fcollections%2Fgekeimte-nudeln%2Fproducts%2Fdinkelsprossen-pasta) gegenüber anderen Nudeln den Vorteil, dass sie Histamin-arm ist. Besonders für Allergiker⋆innen dürfte sie daher ziemlich interessant sein. Die Garzeit beträgt lediglich fünf Minuten, sie ist also die perfekte Basis für schnelle Gerichte.
+Die [Dinkelsprossen-Pasta hat](https://t.adcell.com/p/click?promoId=248939&slotId=80259&param0=https%3A%2F%2Faho.bio%2Fcollections%2Fgekeimte-nudeln%2Fproducts%2Fdinkelsprossen-pasta) gegenüber anderen Nudeln den Vorteil, dass sie Histamin-arm ist. Besonders für Allergiker\*innen dürfte sie daher ziemlich interessant sein. Die Garzeit beträgt lediglich fünf Minuten, sie ist also die perfekte Basis für schnelle Gerichte.
 
 <Gallery name="sprossen-pasta-1" />
 
@@ -90,7 +90,7 @@ Ihr gemeinsamer Traum, eine dezentralisierte, biologische, Plastik-freie und Res
 
 Ihre Mission, gesunde leckere Produkte zu erschaffen und in möglichst nachhaltiger Form unter die Menschen zu bringen ist in vollem Gange.
 
-Für mich sind die Lebensmittel von Aho eine wirklich runde Sache. Besonders gut gefällt mir, dass alles wirklich sehr transparent zu sein scheint und die Gründer⋆innen sich wirklich für eine grünere Welt einsetzen wollen. Das merkt man nicht nur an der Sorgfalt und Achtsamkeit, mit der die Produkte hergestellt und verpackt werden, sondern auch am ganzen Drumherum mit dem Aufforstungsprojekt, den persönlichen Geschichten auf der Webseite und der Tatsache, dass so viel Wert auf hochwertige Bio-Qualität gelegt wird.
+Für mich sind die Lebensmittel von Aho eine wirklich runde Sache. Besonders gut gefällt mir, dass alles wirklich sehr transparent zu sein scheint und die Gründer\*innen sich wirklich für eine grünere Welt einsetzen wollen. Das merkt man nicht nur an der Sorgfalt und Achtsamkeit, mit der die Produkte hergestellt und verpackt werden, sondern auch am ganzen Drumherum mit dem Aufforstungsprojekt, den persönlichen Geschichten auf der Webseite und der Tatsache, dass so viel Wert auf hochwertige Bio-Qualität gelegt wird.
 
 Wenn sich in Zukunft andere Betriebe in der Lebensmittelindustrie von diesem Vorbild ein kleines Scheibchen abschneiden, kann sich wirklich einiges verändern. Im Moment gilt Aho als das nachhaltigste Food Start-up in ganz Deutschland.
 

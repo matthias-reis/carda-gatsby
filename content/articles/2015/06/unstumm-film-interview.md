@@ -48,7 +48,7 @@ subTitle: Interview mit Alice und Hendrik von Unstumm
 
 ## Unstumm Film bringt Tierrechtsaktionen in die Öffentlichkeit
 
-Alice und Hendrik arbeiten ungeklärte Fragen auf - sie dokumentieren Tierschutzaktionen. Zu den bekannten Werken aus dem Unstumm Studio zählt unter anderem eine zehnminütige Kurzdokumentation über die Blockade eines Megabetriebes der Firma Wiesenhof. Darin werden auch die Beweggründe der Aktivist⋆innen des Aktionsbündnisses "Mastanlagen Widerstand" beleuchtet. Auch der neue Superkurzfilm mit dem Titel "Gute Argumente, Fleisch zu essen" hat sich innerhalb kürzester Zeit wie ein Lauffeuer über das Internet verbreitet.
+Alice und Hendrik arbeiten ungeklärte Fragen auf - sie dokumentieren Tierschutzaktionen. Zu den bekannten Werken aus dem Unstumm Studio zählt unter anderem eine zehnminütige Kurzdokumentation über die Blockade eines Megabetriebes der Firma Wiesenhof. Darin werden auch die Beweggründe der Aktivist\*innen des Aktionsbündnisses "Mastanlagen Widerstand" beleuchtet. Auch der neue Superkurzfilm mit dem Titel "Gute Argumente, Fleisch zu essen" hat sich innerhalb kürzester Zeit wie ein Lauffeuer über das Internet verbreitet.
 
 ## "Wir wollen Menschen ansprechen"
 
@@ -66,7 +66,7 @@ Alice und Hendrik wollen mit ihren Filmen so viele Menschen wie möglich ansprec
 
 **Anne:** Habt Ihr früher schon zusammengearbeitet?
 
-**Alice:** Ja. Wir haben uns vor etwa vier Jahren bei der Tierrechtsiniative Region Stuttgart (TiRS) kennen gelernt, wo wir beide aktiv waren. 2012 haben wir dann zusammen mit einer Gruppe sehr motivierter Freunde und Tierrechtler⋆innen Animal Equality Germany ins Leben gerufen. Dort war erst Hendrik für die Videos zuständig. Er hatte aber noch so viele andere Aufgaben, dass ich den Bereich schließlich übernommen habe.
+**Alice:** Ja. Wir haben uns vor etwa vier Jahren bei der Tierrechtsiniative Region Stuttgart (TiRS) kennen gelernt, wo wir beide aktiv waren. 2012 haben wir dann zusammen mit einer Gruppe sehr motivierter Freunde und Tierrechtler\*innen Animal Equality Germany ins Leben gerufen. Dort war erst Hendrik für die Videos zuständig. Er hatte aber noch so viele andere Aufgaben, dass ich den Bereich schließlich übernommen habe.
 
 **Anne:** Was sind Eure Hauptthemen? Geht es nur um Tierschutz/Veganismus, oder gibt es auch andere Bereiche, über die Ihr berichtet?
 

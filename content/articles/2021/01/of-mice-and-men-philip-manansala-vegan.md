@@ -33,7 +33,7 @@ subTitle: '"Ich glaube an Euch!"'
 
 Auf Twitter ruft Philip alle dazu auf, im Jahr 2021 mindestens für einen Monat veganes Essen auszuprobieren. Mit seinen Tweets erreicht der Musiker über 136.000 Menschen. Außerdem spricht sich sein Aufruf jetzt natürlich auch außerhalb der Social Media Welt wie ein Lauffeuer herum. In seinem Tweet schreibt er:
 
-> "Ich fordere jede⋆n dazu auf, im neuen Jahr mindestens einen Monat lang pflanzlich/vegan zu leben! "Vermutlich gefällt es Euch sogar und Ihr bleibt für längere Zeit dabei! Ich glaube an Euch!"
+> "Ich fordere jede\*n dazu auf, im neuen Jahr mindestens einen Monat lang pflanzlich/vegan zu leben! "Vermutlich gefällt es Euch sogar und Ihr bleibt für längere Zeit dabei! Ich glaube an Euch!"
 
 <RemoteImage
   alt={`Of Mice and Men`}

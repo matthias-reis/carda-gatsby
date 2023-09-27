@@ -28,7 +28,7 @@ language: de
 
 **"The Game Changers 2" wird kommen. Auch, wenn noch nicht klar ist, wie das Sequel heißen wird, ist es endlich offiziell, dass die bahnbrechende vegane Doku einen zweiten Teil bekommt! LeBron James spielt nicht nur im Film eine Rolle – er war es auch, der die Produktion erst möglich machte!**
 
-Vor vier Jahren landete "[The Game Changers](/2019/11/the-game-changers/)" einen Volltreffer – die Doku bewegte weltweit Menschen und überzeugte einige von der veganen Lebensweise. Im Film geht es vor allem für die gesundheitlichen Vorteile veganer Ernährung. Zahlreiche Leistungssportler⋆innen und Athlet⋆innen wie Schauspieler und Bodybuilder Arnold Schwarzenegger, Rekord-Gewichtheber Patrick Baboumian, Formel-1-Fahrer Lewis Hamilton, Radrennfahrerin Dotsie Bausch und Mixed Martial Artist James Wilks teilten in der Doku ihre Erfolge, die sie ihrer verganen Ernährung zuschreiben.
+Vor vier Jahren landete "[The Game Changers](/2019/11/the-game-changers/)" einen Volltreffer – die Doku bewegte weltweit Menschen und überzeugte einige von der veganen Lebensweise. Im Film geht es vor allem für die gesundheitlichen Vorteile veganer Ernährung. Zahlreiche Leistungssportler\*innen und Athlet\*innen wie Schauspieler und Bodybuilder Arnold Schwarzenegger, Rekord-Gewichtheber Patrick Baboumian, Formel-1-Fahrer Lewis Hamilton, Radrennfahrerin Dotsie Bausch und Mixed Martial Artist James Wilks teilten in der Doku ihre Erfolge, die sie ihrer verganen Ernährung zuschreiben.
 
 ## LeBron James und Maverick Carter wollen noch mehr aufklären
 

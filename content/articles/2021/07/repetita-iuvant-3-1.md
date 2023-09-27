@@ -31,7 +31,7 @@ language: de
 languageLink: /2021/07/repetita-iuvant-3-1-en/
 ---
 
-**Repetita Iuvant gründeten sich aus einer Gruppe von Freund⋆innen, die sich durch ihre Liebe für gute Instrumental-Musik gefunden haben. Ihre neue EP "3+1" ist für sie die natürliche, musikalische und mathematische Konsequenz ihres Werks "3" von 2020. Sie schlagen damit das nächste Kapitel ihrer Trilogie auf. Alle drei Platten werden zusammen ihre erste LP ergeben.**
+**Repetita Iuvant gründeten sich aus einer Gruppe von Freund\*innen, die sich durch ihre Liebe für gute Instrumental-Musik gefunden haben. Ihre neue EP "3+1" ist für sie die natürliche, musikalische und mathematische Konsequenz ihres Werks "3" von 2020. Sie schlagen damit das nächste Kapitel ihrer Trilogie auf. Alle drei Platten werden zusammen ihre erste LP ergeben.**
 
 Die im italienischen La Spezia beheimatete Post-Rock/Noise Band Repetita Iuvant besteht aus Andrea Testa (Schlagzeug), Christoforo da Costa (Gitarre, Synthesizer) und Daniele Isetta (Gitarre).
 
@@ -57,7 +57,7 @@ Der zweite Song "Polloni" fügt der Vielseitigkeit eine überraschende Zartheit 
 
 ![Repetita Iuvant | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-3-jpg-imagine-f8f8f8_858585_912_684/640.webp 'Repetita Iuvant')
 
-"Metloping" bildet einen würdevollen Übergang zum Finale der Platte – Lautmalerei eingeschlossen. Bei "Piuno" handelt es sich, wie oben beschrieben, um ein quadrofonisches Experiment – das im übrigen voll aufgegangen ist. Die 1970er lassen grüßen. Aufmerksamen Hörer⋆innen dürften außerdem die Perspektivwechsel sofort auffallen. Was mich hier besonders fasziniert, sind die schönen Percussion-Highlights, die hier und da einen bunten Farbklecks auf dem Klangteppich hinterlassen.
+"Metloping" bildet einen würdevollen Übergang zum Finale der Platte – Lautmalerei eingeschlossen. Bei "Piuno" handelt es sich, wie oben beschrieben, um ein quadrofonisches Experiment – das im übrigen voll aufgegangen ist. Die 1970er lassen grüßen. Aufmerksamen Hörer\*innen dürften außerdem die Perspektivwechsel sofort auffallen. Was mich hier besonders fasziniert, sind die schönen Percussion-Highlights, die hier und da einen bunten Farbklecks auf dem Klangteppich hinterlassen.
 
 ## Ein Cliffhanger zur nächsten Platte
 

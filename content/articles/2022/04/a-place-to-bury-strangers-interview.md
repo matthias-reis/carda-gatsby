@@ -52,11 +52,11 @@ Das Gespräch war für mich ein absolutes Highlight meiner bisherigen Blog-Gesch
 
 ![A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography](https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-5-jpg-imagine-f8f8f8_848282_1024_768/640.webp 'A Place To Bury Strangers, London, 2. April 2022 © Nick Sayers, Deathwish Photography')
 
-**Oliver:** Vielen Dank. Ich war in einer komischen Stimmung, als wir die Platte gemacht haben und eine Menge davon steckt darin. Ich hatte das Gefühl, von den früheren Bandmitgliedern betrogen und im Stich gelassen worden zu sein. Das Schreiben für diese Platte hat mir wirklich geholfen, was sich da in meinem Kopf abgespielt hat, zu überwinden. Es ist zermürbend, wenn Du Dich von Deinen Freund⋆innen im Stich gelassen fühlst. Es hat mich an frühere Zeiten der Enttäuschung erinnert, aber es war auch wirklich cool, wie viele andere Freunde mir die Hand gereicht und mir während des Prozesses geholfen haben. Ich fühle mich jetzt so viel besser, und das Album fasst diese Reise so zusammen, wie sie sich während der Aufnahmen in Echtzeit abgespielt hat.
+**Oliver:** Vielen Dank. Ich war in einer komischen Stimmung, als wir die Platte gemacht haben und eine Menge davon steckt darin. Ich hatte das Gefühl, von den früheren Bandmitgliedern betrogen und im Stich gelassen worden zu sein. Das Schreiben für diese Platte hat mir wirklich geholfen, was sich da in meinem Kopf abgespielt hat, zu überwinden. Es ist zermürbend, wenn Du Dich von Deinen Freund\*innen im Stich gelassen fühlst. Es hat mich an frühere Zeiten der Enttäuschung erinnert, aber es war auch wirklich cool, wie viele andere Freunde mir die Hand gereicht und mir während des Prozesses geholfen haben. Ich fühle mich jetzt so viel besser, und das Album fasst diese Reise so zusammen, wie sie sich während der Aufnahmen in Echtzeit abgespielt hat.
 
 **Anne:** Ich glaube, mein Lieblingsstück auf der Platte ist "I Disappear". Ich liebe seine elektrische Atmosphäre und die greifbare Stimmung. Möchtest Du mir die Geschichte dahinter verraten?
 
-**Oliver:** Es ist der Klang des Zerfließens – unter den Berührungen eines⋆r Geliebten. Befangenheit und Selbstzweifel verschwinden in diesen Momenten einfach. Der Klangteppich ist der Sound des Realitätsverlusts.
+**Oliver:** Es ist der Klang des Zerfließens – unter den Berührungen eines\*r Geliebten. Befangenheit und Selbstzweifel verschwinden in diesen Momenten einfach. Der Klangteppich ist der Sound des Realitätsverlusts.
 
 **Anne:** Ihr habt den Ruf, die lauteste Band New Yorks zu sein – würdest Du sagen, dass es immer zu Deinen Zielen gehört hat, die Lautsprecher zum Bersten zu bringen und Menschen mit extrem lautem Sound zu schockieren?
 

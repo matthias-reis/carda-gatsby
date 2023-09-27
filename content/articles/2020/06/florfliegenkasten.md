@@ -60,7 +60,7 @@ Florfliegen (Chrysopidae) werden durch die weit verbreiten Monokulturen immer me
 
 Die zarten Wesen werden umgangssprachlich auch als "Goldaugen" bezeichnet. Sie gehören zur Familie der Netzflügler. Ihre Flügelspannweite beträgt zwischen sechs und 35 Millimetern. Ein paar tropische Arten können sogar noch größer (bis zu 65 Millimeter Spannweite) werden. Mit ihren durchsichtigen, grün schimmernden Flügeln wirken sie anmutig und filigran. Ein Weibchen kann zwischen 100 und 900 Eier legen. Die Larven können in der 14-tägigen Zeit in diesem Stadium bis zu 500 Blattläuse vertilgen - sie saugen die kleinen Blattfresser einfach aus, sobald sie ihnen begegnen.
 
-Die erwachsenen Florfliegen fliegen am liebsten nachts aus. Sie schätzen es etwas kühler und auf diese Art können sie der prallen Sonne am besten entgehen. Sie besitzen den natürlichen Instinkt, Ihre Eier genau auf den Pflanzen abzulegen, die von Blattläusen befallen sind. Damit ist allen geholfen: den jungen Larven, den Pflanzen und den Gärtner⋆innen, die sich an gesunden Pflanzen und Früchten erfreuen können.
+Die erwachsenen Florfliegen fliegen am liebsten nachts aus. Sie schätzen es etwas kühler und auf diese Art können sie der prallen Sonne am besten entgehen. Sie besitzen den natürlichen Instinkt, Ihre Eier genau auf den Pflanzen abzulegen, die von Blattläusen befallen sind. Damit ist allen geholfen: den jungen Larven, den Pflanzen und den Gärtner\*innen, die sich an gesunden Pflanzen und Früchten erfreuen können.
 
 Den Florfliegenkasten könnt Ihr ein paar Zentimeter bis 1,50 Meter über dem Boden anbringen. Ich habe unseren auf dem Brett unter dem Hochbeet neben die Insektenhotels aufgestellt. Dort befindet er sich in guter Gesellschaft und ist ausreichend vor Wind und Regen geschützt.
 

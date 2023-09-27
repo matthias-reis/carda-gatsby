@@ -90,7 +90,7 @@ Der Konsum dieser Stoffe kann unter anderem zu neurologischen Erkrankungen und E
 
 Ihrer Meinung nach überwiegen die negativen gesundheitlichen, ökologischen und ethischen Aspekte gegenüber den Vorteilen von Fischkonsum. Um den Bedarf an Omega-3-Fettsäure zu decken, rät sie zum [Konsum von Mikroalgenöl](/2020/06/vitamine-fettsaeuren-und-spurenelemente/).
 
-"Die Fische nehmen die wertvollen Fettsäuren durch den Konsum dieser Algen auf. Die Gewinnung von Algenöl ist schadstofffrei, da die Algen oftmals in geschlossenen Systemen gezüchtet werden. Insgesamt lässt sich sagen, dass ein Umdenken in Bezug auf unseren Fischkonsum erfolgen muss. Jede⋆r Verbraucher⋆in sollte bewusst sein, dass unbelasteter Fisch in unserer heutigen Zeit eine Seltenheit sind."
+"Die Fische nehmen die wertvollen Fettsäuren durch den Konsum dieser Algen auf. Die Gewinnung von Algenöl ist schadstofffrei, da die Algen oftmals in geschlossenen Systemen gezüchtet werden. Insgesamt lässt sich sagen, dass ein Umdenken in Bezug auf unseren Fischkonsum erfolgen muss. Jede\*r Verbraucher\*in sollte bewusst sein, dass unbelasteter Fisch in unserer heutigen Zeit eine Seltenheit sind."
 
 Dr. Jenny Volstorf[^5] berichtete im Anschluss an Dr. Kulkes Vortrag aus der Verhaltensforschung. "Fische besitzen unterschiedliche Persönlichkeiten. Sie lernen, planen, kooperieren und empfinden Freude und Schmerz", erzählte sie uns.
 

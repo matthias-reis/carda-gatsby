@@ -68,7 +68,7 @@ Kim hat "Girl In A Band" mit Fotos aus ihrer Kindheit und der Zeit mit Sonic You
 
 Die Tochter einer Schneiderin und eines Soziologie-Professors erzählt von ihrer frühesten Jugendzeit, den zahlreichen Umzügen mit ihrer Familie und der Liebe zu ihrem Bruder Keller, der früh seiner Krankheit erliegt.
 
-Eines der Hauptthemen ist natürlich die Gründung und Entwicklung von Sonic Youth. Kim beschäftigt sich dabei nicht nur mit ihren persönlichen Erfahrungen, sondern geht auf eine sehr emphatische Art auch auf die ihrer Mitmusiker⋆innen ein. Die Autobiografie ist daher sehr lebendig und keinesfalls einseitig.
+Eines der Hauptthemen ist natürlich die Gründung und Entwicklung von Sonic Youth. Kim beschäftigt sich dabei nicht nur mit ihren persönlichen Erfahrungen, sondern geht auf eine sehr emphatische Art auch auf die ihrer Mitmusiker\*innen ein. Die Autobiografie ist daher sehr lebendig und keinesfalls einseitig.
 
 ## Persönliches und Historisches
 

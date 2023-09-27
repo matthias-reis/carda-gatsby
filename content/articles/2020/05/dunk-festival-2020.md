@@ -5,8 +5,8 @@ path: '/2020/05/dunk-festival-2020/'
 title: DUNK!festival 2020
 seoTitle: DUNK! Festival 2020 - 28 ganz besondere Songs
 ogTitle: DUNK! Festival 2020 - 28 ganz besondere Songs
-description: Diese Musikliste besteht aus 28 ganz besonderen Stücken - die Musiker⋆innen wären alle auf dem DUNK! 2020 Festival aufgetreten.
-excerpt: Diese Musikliste besteht aus 28 ganz besonderen Stücken - die Musiker⋆innen wären alle auf dem DUNK! 2020 Festival aufgetreten.
+description: Diese Musikliste besteht aus 28 ganz besonderen Stücken - die Musiker*innen wären alle auf dem DUNK! 2020 Festival aufgetreten.
+excerpt: Diese Musikliste besteht aus 28 ganz besonderen Stücken - die Musiker*innen wären alle auf dem DUNK! 2020 Festival aufgetreten.
 fileName: 2020-05---dunk-festival-2020.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_dunk-2020__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_dunk-2020__l.jpg
@@ -36,7 +36,7 @@ year: '2020'
 month: '05'
 ---
 
-**Heute möchte ich eine Musikliste mit Euch teilen, die für mich eine ganz wichtige Bedeutung hat. Sie besteht aus 28 Songs von Künstler⋆innen, die beim diesjährigen DUNK!festival aufgetreten wären - wenn es stattgefunden hätte.**
+**Heute möchte ich eine Musikliste mit Euch teilen, die für mich eine ganz wichtige Bedeutung hat. Sie besteht aus 28 Songs von Künstler\*innen, die beim diesjährigen DUNK!festival aufgetreten wären - wenn es stattgefunden hätte.**
 
 Geplant war, dass das Festival diese Woche stattfindet. Drei Tage voller Post-Rock, Drone, Math-Rock, Ambient, guter Stimmung, Pommes und Kirschbier. Weil das dieses Jahr leider nicht klappt, verzichte ich nicht auf die Musik und möchte Euch gerne daran teilhaben lassen.
 

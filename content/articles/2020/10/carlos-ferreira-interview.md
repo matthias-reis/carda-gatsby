@@ -97,7 +97,7 @@ Ich bin aber definitiv kein Purist. Alle kreativen Möglichkeiten sind valide un
 
 **Carlos:** Um ehrlich zu sein, kann ich mich nicht mehr genau erinnern. Aber ich glaube, es hat etwas über einen Monat gedauert. Normalerweise sind meine kreativen Prozesse sehr intensiv. Ich mag das Gefühl, komplett abzutauchen, wenn ich mit einem neuen Projekt beginne. Dein Gehirn fängt an in einem anderen Modus zu arbeiten und das Raum-Zeit-Kontinuum verändert sich. Es ist wie Meditation – Dein Geist und Dein Körper betreten einen ganze anderen Bewusstseinsstrom.
 
-**Anne:** Dein Sound lebt von Deinen brillanten Gitarren-Improvisationen. Es klingt so, als hättest Du eine ganz besondere Verbindung zu diesem Instrument. Spielst Du alle Parts auf Deinen Platten selbst oder arbeitest Du mit anderen Musiker⋆innen zusammen?
+**Anne:** Dein Sound lebt von Deinen brillanten Gitarren-Improvisationen. Es klingt so, als hättest Du eine ganz besondere Verbindung zu diesem Instrument. Spielst Du alle Parts auf Deinen Platten selbst oder arbeitest Du mit anderen Musiker\*innen zusammen?
 
 **Carlos:** Vielen Dank für das Kompliment! Die Gitarre war das erste Instrument, mit dem ich in Kontakt gekommen bin. Ich war damals 12 Jahre alt und spürte schon diese besondere Verbindung. Aber ich mag es, die Gitarre auf eine unkonventionelle Art zu betrachten. Es ist ein elektrisches Instrument, das endlose Sound-Möglichkeiten bietet. Ich denke nicht an Tonleitern oder Akkorde. Mich interessieren die Texturen, Farben und Formen viel mehr.
 
@@ -147,7 +147,7 @@ Tatsächlich glaube ich, dass große Verluste Dinge sind, die wir nie verwunden 
 
 Ich finde es sehr egoistisch, zu denken, dass unsere Leben mehr wert sind, als die der Tiere. Wir leben alle zusammen auf diesem Planeten und wir müssen koexistieren.
 
-Allmählich fangen die Menschen an zu verstehen, dass vegan sein weit über eine Gewohnheit hinausgeht. Es ist eine andere Art, die Welt zu betrachten und es ist eine kritische, politische Haltung. Als Veganer⋆in beginnt man, die kapitalistische Gesellschaft noch mehr infrage zu stellen. Man fängt an, dieses unverantwortliche System zu hinterfragen, das dem Profit einen Vorrang vor dem Leben einräumt.
+Allmählich fangen die Menschen an zu verstehen, dass vegan sein weit über eine Gewohnheit hinausgeht. Es ist eine andere Art, die Welt zu betrachten und es ist eine kritische, politische Haltung. Als Veganer\*in beginnt man, die kapitalistische Gesellschaft noch mehr infrage zu stellen. Man fängt an, dieses unverantwortliche System zu hinterfragen, das dem Profit einen Vorrang vor dem Leben einräumt.
 
 **Anne:** Die Lage ist ziemlich klar. Die Tiere leiden in der Massenhaltung. Menschen sterben durch Krankheiten, die aus der Tierhaltung stammen. Der Regenwald wird abgeholzt, weil an seiner Stelle Soja für Tierfutter angebaut wird. Außerdem ist pflanzliche Kost nachweislich gesünder, als Fleisch, Milch, Eier und Co. Der übermäßige Einsatz von Antibiotika bei Tieren, die zur Nahrungsmittelerzeugung genutzt werden, wird für die Zunahme resistenter Bakterien verantwortlich gemacht. Von außen betrachtet, sieht es danach aus, als würden wir uns selbst und diesen Planeten töten. Wie ist es möglich, dass immer noch so viele Menschen die Verbindung nicht herstellen?
 

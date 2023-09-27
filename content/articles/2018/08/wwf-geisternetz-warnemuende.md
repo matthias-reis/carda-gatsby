@@ -43,7 +43,7 @@ Im Vorfeld an das Entfernen des Geisternetzes hatten sie bei einem Erkundungstau
 
 Ein Problem bei der Bergung von Geisternetzen ist nach wie vor die fachgerechte Entsorgung. In den Hafenstädten stehen keine Möglichkeiten zur Verfügung, organisches Material von Wertstoffen zu trennen. Das für die Sinkleinen verwendete Blei ist beispielsweise ein giftiger, jedoch wiederverwertbarer Rohstoff. Das berichtet die Projektmanagerin Andrea Stolte für das Geisternetzprogramm des WWF in der Pressemitteilung.
 
-Eigentlich sind Berufsfischer⋆innen dazu verpflichtet, ihre Netze mit Fahnen oder Bojen zu markieren. An dem aus der Ostsee geborgenen Netz waren keine derartigen Markierungen mehr zu erkennen. So kam es dazu, dass sich über einen langen Zeitraum hinweg unentdeckt Tiere darin verfangen konnten.
+Eigentlich sind Berufsfischer\*innen dazu verpflichtet, ihre Netze mit Fahnen oder Bojen zu markieren. An dem aus der Ostsee geborgenen Netz waren keine derartigen Markierungen mehr zu erkennen. So kam es dazu, dass sich über einen langen Zeitraum hinweg unentdeckt Tiere darin verfangen konnten.
 
 Andrea Stolte erzählt weiter, dass es sich dabei keineswegs um einen Einzelfall handelt. Ganz im Gegenteil: Es passiert einfach immer wieder. 
 
@@ -51,7 +51,7 @@ Andrea Stolte erzählt weiter, dass es sich dabei keineswegs um einen Einzelfall
 
 sagt sie. Sie fordert, dass Markierungsbojen entwickelt werden, die das Auffinden und die Zuordnung von Netzen erleichtern. Viel zu oft reißen die Markierungsbojen ab und Netze driften aufs Meer hinaus.
 
-## Die Meeresschützer⋆innen sind auf Hinweise angewiesen
+## Die Meeresschützer\*innen sind auf Hinweise angewiesen
 
 Das Netz von Warnemünde konnte aufgrund eines Tipps von einem Mitarbeiter der Uni Rostock geortet und entfernt werden. Er hatte es beim Schnorcheln im Meer entdeckt und die Stelle sofort gemeldet. Die Meeresschützer⋆innen von WWF, Sea Shepherd und Co. sind auf derartige Hinweise angewiesen. Je genauer, desto besser.
 

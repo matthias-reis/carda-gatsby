@@ -147,9 +147,9 @@ Alle Songs haben ihren eigenen Hintergrund und das Ergebnis zahlreicher Gespräc
 
 **Anne:** Wessen Stimmen sind das? In einigen Eurer Videos habe ich das Gesicht einer Frau gesehen. "Insomnia" zum Beispiel. In dem Stück, das Ihr mit Ef im Le Batofar in Paris gespielt habt, war sie auch mit Euch auf der Bühne. Ich habe gelesen, sie heißt Nizza? Ist sie ein Mitglied von Lost in Kiev?
 
-## "Wir arbeiten mit Schauspieler⋆innen zusammen"
+## "Wir arbeiten mit Schauspieler\*innen zusammen"
 
-**LIK:** Für "Motions" haben wir die Stimmen von Freund⋆innen (auch die von Nizza) aufgenommen, aber für "Nuit Noire" und "Persona" wollten wir etwas Professionelleres. Wir arbeiten jetzt mit Schauspieler⋆innen zusammen, die unsere Stimm-Samples einsprechen.
+**LIK:** Für "Motions" haben wir die Stimmen von Freund\*innen (auch die von Nizza) aufgenommen, aber für "Nuit Noire" und "Persona" wollten wir etwas Professionelleres. Wir arbeiten jetzt mit Schauspieler⋆innen zusammen, die unsere Stimm-Samples einsprechen.
 
 **Anne:** Die Lage ist im Moment weltweit ziemlich angespannt. Ungeachtet der Pandemie schließen sich immer mehr Menschen Protesten und Demonstrationen an - mit gutem Grund! Überall gibt es Gewalt und wann immer man den Fernseher einschaltet, sieht man Despoten, die ihre Macht demonstrieren. Wenn Ihr die Möglichkeit hättet, eine⋆r Politiker⋆in Eurer Wahl die Meinung zu sagen: Was würdet Ihr ihm⋆ihr sagen?
 

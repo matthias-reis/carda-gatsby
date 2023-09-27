@@ -100,7 +100,7 @@ Wir haben Xavi Forne, aka Error!design 2019 auf dem DUNK! getroffen und haben ü
 
 ## "Im Song 'Third' geht es und die Geburt meines dritten Sohnes"
 
-**Esa:** Der erste Song "Third". Ich finde es wirklich bewegend, dass Iiro den Song inspiriert von der Geburt seines dritten Sohnes geschrieben hat. Ich finde, es verleiht dem Album einen starken Start und eine Storyline, die den⋆die Hörer⋆in durch alle Themen, um die sich das Album dreht, führt. Der letzte Teil des Songs mit der vielschichtigen Percussion-Struktur, dem Bass-Groove und der melodischen Progression ist einer meiner Lieblingsteile.
+**Esa:** Der erste Song "Third". Ich finde es wirklich bewegend, dass Iiro den Song inspiriert von der Geburt seines dritten Sohnes geschrieben hat. Ich finde, es verleiht dem Album einen starken Start und eine Storyline, die den\*die Hörer\*in durch alle Themen, um die sich das Album dreht, führt. Der letzte Teil des Songs mit der vielschichtigen Percussion-Struktur, dem Bass-Groove und der melodischen Progression ist einer meiner Lieblingsteile.
 
 **Anne:** Wie unterscheidet sich das Album von Euren früheren?
 

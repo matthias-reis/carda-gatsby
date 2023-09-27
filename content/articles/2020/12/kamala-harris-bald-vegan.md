@@ -48,9 +48,9 @@ sagt die Präsidentin der Virsa Foundation Nivi Jaswal. Des Weiteren betont sie:
 
 > "Die Zeit, unser Ernährungssystem neu auszurichten und neue Ernährungsrichtlinien zu erlassen ist jetzt. Wir können es damit schaffen bis zu 80 Prozent aller chronischen Erkrankungen zu vermeiden. Außerdem könnten wir dadurch über 250 Milliarden Dollar Gesundheitskosten pro Jahr einsparen.",
 
-I einem Begleitbrief – adressiert sowohl an Harris als auch an den designierten Präsidenten Joe Biden, den Klimabeauftragten des Präsidenten John Kerry, alle Mitglieder des Übergangsteams des Präsidenten und das Biden-Harris COVID-19 Beratungskomitee – fordern die Veranstalter⋆innen die Politik zur Deindustrialisierung der Tierproduktion, der Abschaffung der Massentierhaltung und der Schließung Lebendtier-Märkte auf.
+I einem Begleitbrief – adressiert sowohl an Harris als auch an den designierten Präsidenten Joe Biden, den Klimabeauftragten des Präsidenten John Kerry, alle Mitglieder des Übergangsteams des Präsidenten und das Biden-Harris COVID-19 Beratungskomitee – fordern die Veranstalter\*innen die Politik zur Deindustrialisierung der Tierproduktion, der Abschaffung der Massentierhaltung und der Schließung Lebendtier-Märkte auf.
 
-Aus dem Schreiben geht außerdem der Wunsch nach sicheren, schnellen und effektiven Impfforschungen hervor, die ohne Tierversuche auskommen. Außerdem fordern die Aktivist⋆innen dringend erforderliche Pandemie-Ernährungsrichtlinien, die rund um eine Pflanzen-basierte Vollwertkost formuliert werden soll.
+Aus dem Schreiben geht außerdem der Wunsch nach sicheren, schnellen und effektiven Impfforschungen hervor, die ohne Tierversuche auskommen. Außerdem fordern die Aktivist\*innen dringend erforderliche Pandemie-Ernährungsrichtlinien, die rund um eine Pflanzen-basierte Vollwertkost formuliert werden soll.
 
 ## Kamala Harris als Vorbild
 

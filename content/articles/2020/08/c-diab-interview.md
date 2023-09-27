@@ -79,7 +79,7 @@ Irgendwann löste sich die Band auf und wir alle entwickelten uns weiter. Erst v
 
 **C. Diab:** Am Ende, wenn die Platte fertig ist und bereit, gehört zu werden, gepresst und verschickt wird, kann ich an meinen Ausgangspunkt zurückkehren und sie mir mit frischen Ohren noch mal anhören. Ich lerne sie dann von der anderen Seite kennen. Die Produktion dieses Albums war eine gute Erfahrung für mich. Der Sound-Ingenieur, mit dem ich zusammengearbeitet habe, ist ein wunderbarer Mensch. Ich glaube, dass wir etwas geschaffen haben, auf das ich stolz sein kann. Ich freue mich wirklich sehr über die Veröffentlichung. Allerdings denke ich auch, dass ich nicht mehr daran arbeiten müsste, wenn ich mit meinen Platten immer vollständig zufrieden wäre. Es gibt immer noch so viel zu tun.
 
-**Anne:** Sind außer Dir noch weitere Musiker⋆innen auf "White Whale" zu hören?
+**Anne:** Sind außer Dir noch weitere Musiker\*innen auf "White Whale" zu hören?
 
 **C. Diab:** Ich habe alle Instrumente auf "White Whale" selbst eingespielt. Mein Toningenieur Paul Steward hatte während des Abmischprozesses eine Menge Input. Er hat auch ein paar tolle Sounds hinzugefügt, indem er zum Beispiel Samples von einiges Takes und deren Umgebungsgeräusche aufgenommen, die Tonhöhen mit Filtern bearbeitet und sie anschließend als Ambient Sound wieder hinzugefügt hat. Tatsächlich glaube ich, dass er vielleicht auch den arpeggierten Synthesizer auf "Infernal District" gespielt hat. Das muss ich ihn mal fragen.
 
@@ -89,7 +89,7 @@ Irgendwann löste sich die Band auf und wir alle entwickelten uns weiter. Erst v
 
 **C. Diab:** Ich habe das Album nach dem allgemeinen Gefühl der Entrechtung benannt. Es ist meiner Meinung nach in die Wasserversorgung meiner Generation eingedrungen. Die Dinge scheinen jetzt noch viel düsterer zu werden. Manchmal langsam und manchmal in einem unglaublichen Tempo. "White Whale" (weißer Wal) bezieht sich auf die Träume der Menschen, auf Dinge, die einfach sein sollten - Zufriedenheit und Sicherheit im materiellen Sinne zum Beispiel. Aber auch eine verantwortungsvolle Regierung und das Vertrauen in die Nachbarn. Die Welt wird von rassistischen und blutsaugenden Oligarchen regiert und das oft, weil wir sie tatsächlich gewählt haben. Was ist diese Welt?
 
-**Anne:** Glaubst Du, dass es etwas gibt, das Politiker⋆innen von kreativen Menschen lernen können?
+**Anne:** Glaubst Du, dass es etwas gibt, das Politiker\*innen von kreativen Menschen lernen können?
 
 **C. Diab:** Alle Menschen sind kreativ. Die meisten müssen nur aufwecken, was in ihnen schlummert. Die Ärmel hochkrempeln. Politiker⋆innen können davon profitieren, indem sie aus ihren Fehlern lernen. Aber leider sieht es so aus, als wäre das zu viel verlangt von der politischen Klasse.
 

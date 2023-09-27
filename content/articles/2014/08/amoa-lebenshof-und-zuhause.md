@@ -340,5 +340,5 @@ Ich weiß nicht, wer diese Mythologie mit in die Tierhalterwelt brachte. Auf jed
 <small>
   *diese Mutra (Geste) nennt man auch Anjali oder Namaskaram. Sie bedeutet, dass
   man das Gegenüber in Ehrerbietung grüßt oder verabschiedet. Sie ist die
-  höchste Geste unter Buddhist⋆innen.
+  höchste Geste unter Buddhist\*innen.
 </small>

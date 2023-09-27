@@ -119,7 +119,7 @@ Neben den finsteren Kapiteln, beleuchtet der BUND auch wieder positive Entwicklu
 
 ## Tierleid und schlechte Arbeitsbedingungen in der Fleischindustrie
 
-Das Leid der Tiere und die schlechten Arbeitsverhältnisse in deutschen Schlachthöfen bearbeiten die Autor⋆innen ab Seite 38. Der Ruf nach strengeren Kontrollen wird ja spätestens seit der Corona-Krise immer lauter. Im letzten Kapitel geht es um die Vorschläge und neue Ansätze für Klima- und Umwelt-verträglichere Tierhaltung und Alternativen zum Fleischkonsum.
+Das Leid der Tiere und die schlechten Arbeitsverhältnisse in deutschen Schlachthöfen bearbeiten die Autor\*innen ab Seite 38. Der Ruf nach strengeren Kontrollen wird ja spätestens seit der Corona-Krise immer lauter. Im letzten Kapitel geht es um die Vorschläge und neue Ansätze für Klima- und Umwelt-verträglichere Tierhaltung und Alternativen zum Fleischkonsum.
 
 [Der BUND hat den Fleischatlas hier zum Download bereitgestellt](https://www.bund.net/fileadmin/user_upload_bund/publikationen/massentierhaltung/massentierhaltung_fleischatlas_2021.pdf). Ihr könnt beim BUND auch [eine gedruckte Ausgabe anfordern](https://www.bund.net/service/publikationen/detail/publication/fleischatlas-2021/).
 

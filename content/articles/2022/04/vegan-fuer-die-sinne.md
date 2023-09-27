@@ -69,7 +69,7 @@ Lena Marie Radu traf 2014 die Entscheidung, fortan vegan zu leben. Ein Jahr lang
 
 ![Polenta-Pizza von Lena Marie Radu - Eine angeschnittene Pizza mit Tomaten, Pilzen und grünen Kräutern auf einem dicken, gelblichen Teig auf einem Rost.](https://storage.googleapis.com/cardamonchai-media/2022-04-20/polenta-pizza-jpg-imagine-281808_815731_1024_768/640.webp 'Polenta-Pizza von Lena Marie Radu')
 
-2015 war es dann so weit und Lena Marie eröffnete ihre eigene vegane Kochschule "Veganesha". Dort erklärt sie ihren Schüler⋆innen, wie das Kochen mit ausschließlich pflanzlichen Zutaten funktioniert, liefert Tipps und gibt auch immer wieder mal das ein oder andere Geheimnis aus ihrer Erfahrung in der veganen Kulinarik preis.
+2015 war es dann so weit und Lena Marie eröffnete ihre eigene vegane Kochschule "Veganesha". Dort erklärt sie ihren Schüler\*innen, wie das Kochen mit ausschließlich pflanzlichen Zutaten funktioniert, liefert Tipps und gibt auch immer wieder mal das ein oder andere Geheimnis aus ihrer Erfahrung in der veganen Kulinarik preis.
 
 Zudem bietet sie vegane Caterings an, bei denen sie ihre Gäste mit schmackhafter Feinkost verwöhnt. Während ihrer eigenen Schwangerschaft wurden für die Köchin außerdem die Themen vegane Schwangerschaft, vegane Stillzeit und vegane Kinder zur Herzensangelegenheit. Aus diesem Grund schloss sie auch eine Ausbildung zur veganen Ernährungsberaterin bei der Ecodemy[^1] ab.
 

@@ -57,7 +57,7 @@ Babys und Kinder sind durch ihr niedriges Körpergewicht im Verhältnis zur aufg
 
 ## Wie kann ich den Konsum von Palmöl vermeiden?
 
-Vermeiden ist das Zauberwort. Komplett auf Palmöl zu verzichten, dürfte den meisten schwer fallen. Wir Veganer⋆innen haben hier Glück im Unglück, da wir ja sowieso schon nahezu täglich mit dem Durchlesen von Inhaltsangaben und Zutatenlisten beschäftigt sind, können wir auch genauso gut noch auf Palmöl achten.
+Vermeiden ist das Zauberwort. Komplett auf Palmöl zu verzichten, dürfte den meisten schwer fallen. Wir Veganer\*innen haben hier Glück im Unglück, da wir ja sowieso schon nahezu täglich mit dem Durchlesen von Inhaltsangaben und Zutatenlisten beschäftigt sind, können wir auch genauso gut noch auf Palmöl achten.
 
 Ich versuche, wann immer es sich vermeiden lässt, auf Palmöl zu verzichten. Natürlich kann ich, wenn ich unterwegs irgendwo Pommes esse, nicht immer erwarten, dass der Verkäufer auch weiß, mit welchem Pflanzenöl seine Fritten ausgebacken werden. Doch finde ich im Supermarkt Lebensmittel, bei denen es in der Zutatenliste aufgeführt ist, stelle ich diese grundsätzlich wieder zurück, es lässt sich immer ein Ersatz finden oder selbst herstellen.
 

@@ -113,7 +113,7 @@ Und noch einer aus Matzes Kiste:
 
 ## The Ocean & Lustmord – "Primal (State Of Being)"
 
-[The Ocean](/2020/09/the-ocean-robin-staps-interview/) und [Lustmord](/2021/05/karin-park-lustmord-alter/) haben gemeinsame Sache gemacht. "Primal (State Of Being)" ist ein düsterer Vorgeschmack auf das kommende Lustmord Deconstructed Album "The Others", auf dem noch viele weitere großartige Künstler⋆innen, wie Jo Quail, Mono und auch Årabrot vertreten sind.
+[The Ocean](/2020/09/the-ocean-robin-staps-interview/) und [Lustmord](/2021/05/karin-park-lustmord-alter/) haben gemeinsame Sache gemacht. "Primal (State Of Being)" ist ein düsterer Vorgeschmack auf das kommende Lustmord Deconstructed Album "The Others", auf dem noch viele weitere großartige Künstler\*innen, wie Jo Quail, Mono und auch Årabrot vertreten sind.
 
 <YouTube id="-ZCjgac7FnM" />
 

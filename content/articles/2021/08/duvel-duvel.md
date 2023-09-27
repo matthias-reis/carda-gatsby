@@ -34,7 +34,7 @@ Das selbst betitelte Album besteht aus neun sehr unterschiedlichen Songs. Drei J
 
 ![Duvel – "Duvel"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/duvel-cover-jpeg-imagine-281818_983f11_425_425/640.webp "Duvel – \\"Duvel\\"")
 
-Erschienen ist der Langspieler genau wie "[Sult](/2021/06/kollapse-sult/)" von Kollapse auf Fysisk Format. Ursprünglich gegründet haben das Projekt Zacharias Flaathe (Bass), Brage Lindebrekke (Schlagzeug) und Jack Holldorff (Gitarre und Gesang) 2017. Mit dem Eintritt von Kaspar Nikolaisen Hegre (Keyboards) im Anschluss an das erste Album wurde am Sound gefeilt. Die Keyboards sorgen hier und da für spannende MGMT-Momente und auch My Bloody Valentine meine ich rauszuhören. Für die Shoegaze- und Indietronic Liebhaber⋆innen unter Euch ist also auch was geboten.
+Erschienen ist der Langspieler genau wie "[Sult](/2021/06/kollapse-sult/)" von Kollapse auf Fysisk Format. Ursprünglich gegründet haben das Projekt Zacharias Flaathe (Bass), Brage Lindebrekke (Schlagzeug) und Jack Holldorff (Gitarre und Gesang) 2017. Mit dem Eintritt von Kaspar Nikolaisen Hegre (Keyboards) im Anschluss an das erste Album wurde am Sound gefeilt. Die Keyboards sorgen hier und da für spannende MGMT-Momente und auch My Bloody Valentine meine ich rauszuhören. Für die Shoegaze- und Indietronic Liebhaber\*innen unter Euch ist also auch was geboten.
 
 Insgesamt klingt "Duvel" schön aufmüpfig und zugleich gefühlvoll und durchdacht. So fühlt sich stylischer 80ies angehauchter Sound mit der richtigen Dosis Spontanität an. Obendrauf gibts neben Punk-Attitüde auch einen guten Touch Glamour. Vocalist Jack hat sich übrigens schon beim ersten Hördurchgang in mein Herz gesungen.
 

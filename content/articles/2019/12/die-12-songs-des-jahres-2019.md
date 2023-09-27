@@ -71,7 +71,7 @@ Ziemlich genau vor einem Jahr ist eine Idee entstanden, die meinen Blog auf ein 
 
 Valentin, Matze und ich schlossen einen Pakt und stellten jeden Monat eine Auswahl an Stücken zusammen. Auf diesem Weg sind insgesamt elf Monatslisten entstanden. Gefüllt mit Post-Rock, Grunge, Metal, Post-Metal, Sludge, Alternative, Indie, Elektro, Blues, Rock, Punk, Post-Punk, Progressive Rock, Black Metal und Noise Rock. Bei der Auswahl haben Matze, Valentin und ich uns große Mühe gegeben. Zusammengestellt haben wir nicht nur Neuveröffentlichungen, sondern auch Songs, die uns im jeweiligen Monat besonders bewegt haben. Es ist also ein buntes Potpourri entstanden. Wer Lust hat, kann unsere Listen jederzeit auf iTunes und Spotify hören.
 
-Zum Ende des Jahres haben wir natürlich noch eine ganz besondere Delikatesse für Euch vorbereitet: Die Essenz unserer Monatslisten ergibt unsere 12 Songs des Jahres 2019. Wir möchten hiermit allen Leser⋆innen und Hörer⋆innen danken und wünschen Euch viel Spaß mit den folgenden Meisterwerken.
+Zum Ende des Jahres haben wir natürlich noch eine ganz besondere Delikatesse für Euch vorbereitet: Die Essenz unserer Monatslisten ergibt unsere 12 Songs des Jahres 2019. Wir möchten hiermit allen Leser\*innen und Hörer\*innen danken und wünschen Euch viel Spaß mit den folgenden Meisterwerken.
 
 ## Mono - "After You Comes The Flood" vom Album "Nowhere Now Here"
 

@@ -34,7 +34,7 @@ language: de
 
 **Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen gewonnen und der Prozess ist alles andere als tierfreundlich. Doch was genau steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung gemacht? Ich habe mal ein paar Fakten für Euch zusammengetragen.**
 
-Laut Online-Enzyklopädie versteht man unter Seide einen Faserstoff tierischer Herkunft. Der Name Seide stammt vom mittellateinischen Wort "seta". Der Stoff wird aus den Kokons von Seidenraupen, also Seidenspinner-Larven gewonnen. Seide gilt als die einzige bekannte, in der Natur vorkommende textile Endlos-Faser. Daher ist sie seit Generationen besonders in der hochklassigen Mode sehr beliebt. Im Moment erlebt der feine Stoff, der auch immer wieder Basis für Geschichten ist, ein ziemliches Revival – besonders auch unter Freund⋆innen nachhaltiger Kleidung. Genau aus diesem Grund halte ich es für besonders wichtig, mal ein paar Punkte festzuhalten.
+Laut Online-Enzyklopädie versteht man unter Seide einen Faserstoff tierischer Herkunft. Der Name Seide stammt vom mittellateinischen Wort "seta". Der Stoff wird aus den Kokons von Seidenraupen, also Seidenspinner-Larven gewonnen. Seide gilt als die einzige bekannte, in der Natur vorkommende textile Endlos-Faser. Daher ist sie seit Generationen besonders in der hochklassigen Mode sehr beliebt. Im Moment erlebt der feine Stoff, der auch immer wieder Basis für Geschichten ist, ein ziemliches Revival – besonders auch unter Freund\*innen nachhaltiger Kleidung. Genau aus diesem Grund halte ich es für besonders wichtig, mal ein paar Punkte festzuhalten.
 
 ## Seide ist nicht vegan – eine Faser tierischer Herkunft
 
@@ -42,7 +42,7 @@ Seide ist also eine Faser, die Menschen aus den Larven von Seidenraupen gewinnen
 
 Blusen, Hemden, Kleider, Schals, Tücher, Bettwäsche und zuletzt auch Atemschutzmasken werden aus Seide hergestellt. Die Fashion Industrie denkt sich immer wieder neue Möglichkeiten aus, um den fließenden Stoff in Szene zu setzen.
 
-Dass vegan zu leben nicht "nur" bedeutet, sich von pflanzlichen Lebensmitteln zu ernähren, sollte den meisten inzwischen bewusst sein. Dass Veganer⋆innen keinen [Pelz](/2014/11/fakepelz-echtpelz/) tragen, ist offensichtlich. Einen kleinen Exkurs in [Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) habe ich Euch hier im Blog ja schon gegeben und auch zu [Leder](/2020/07/leder-pelz/) findet Ihr einen Artikel. Doch auch Seide kommt nicht infrage, wenn man keine tierischen Produkte in seinen Alltag einbeziehen möchte.
+Dass vegan zu leben nicht "nur" bedeutet, sich von pflanzlichen Lebensmitteln zu ernähren, sollte den meisten inzwischen bewusst sein. Dass Veganer\*innen keinen [Pelz](/2014/11/fakepelz-echtpelz/) tragen, ist offensichtlich. Einen kleinen Exkurs in [Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) habe ich Euch hier im Blog ja schon gegeben und auch zu [Leder](/2020/07/leder-pelz/) findet Ihr einen Artikel. Doch auch Seide kommt nicht infrage, wenn man keine tierischen Produkte in seinen Alltag einbeziehen möchte.
 
 ## Die Seidenraupen können ihre natürliche Metamorphose nicht erleben
 

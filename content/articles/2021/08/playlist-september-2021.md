@@ -84,7 +84,7 @@ Nach "Hiraeth" von 2015 und der "Burning Day" EP (und einem Holy Fawn Remix im J
 
 ## Annihilus – "The Grand Illusion" vom Album "Follow A Song From The Sky"
 
-Für seine neue Platte hat der Chicagoer Musiker Luca Cimarusti aka Annihilus sich eine Menge toller Künstler⋆innen ins Boot geholt. "The Grand Illusion" ist der düstere und tiefgründige Auftakt eines großartigen Albums. Für Fans von emotionsgeladenem (Post-)Black Metal
+Für seine neue Platte hat der Chicagoer Musiker Luca Cimarusti aka Annihilus sich eine Menge toller Künstler\*innen ins Boot geholt. "The Grand Illusion" ist der düstere und tiefgründige Auftakt eines großartigen Albums. Für Fans von emotionsgeladenem (Post-)Black Metal
 
 <iframe
   style="border: 0; width: 100%; height: 120px;"
@@ -116,7 +116,7 @@ Für Fans von atmosphärischem Black Metal, Black Gaze, Post-Metal und allen Art
 
 Valentin:
 
-> "Diesen Monat stelle ich gleich zwei Songs von Lieblingskünstler⋆innen aus meiner Plattenkiste vor. Der erste kommt von Trent Reznor. Er hat sich für "True" mit Danny Elfman, den wir von seiner herausragenden Filmmusik für zahlreiche Hollywood-Filme (unter anderem "Batman" und "Mission: Impossible") kennen, zusammengetan.
+> "Diesen Monat stelle ich gleich zwei Songs von Lieblingskünstler\*innen aus meiner Plattenkiste vor. Der erste kommt von Trent Reznor. Er hat sich für "True" mit Danny Elfman, den wir von seiner herausragenden Filmmusik für zahlreiche Hollywood-Filme (unter anderem "Batman" und "Mission: Impossible") kennen, zusammengetan.
 >
 > Auch Trent Reznor, den wir hauptsächlich durch [Nine Inch Nails](/tag/nine-inch-nails) kennen, hat in den letzten Jahren (oft gemeinsam mit Atticus Ross) viele Soundtracks geschrieben und dadurch die moderne Filmmusik auf ein neues Level gehoben – nicht ohne Grund gab es dafür schon zweimal den Oscar.
 >

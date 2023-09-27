@@ -36,7 +36,7 @@ Als Nächstes folgt "Desecrator" LLNN Sound Designer Ketil G. Sejersen beschreib
 
 ![LLNN – "Unmaker"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn1625512125413194-jpg-imagine-080808_2c241d_440_440/640.webp 'LLNN – "Unmaker"')
 
-Was krass klingt, ist es auch. Der zweite Track auf der Platte verzichtet in seinen 4:13 auf Gehörschutz. Er holt die Hörer⋆innen da ab, wo wir alle uns gerade befinden: Auf einer Welle der Verwirrung und des Zweifels, ungewiss, was uns an der nächsten Ecke begegnen wird. Gleichzeitig ist er eine guturale Einladung, weiter in den Sounduntergrund von LLNN einzutauchen und die Finsternis und Schwere zu erforschen, die uns dort erwartet.
+Was krass klingt, ist es auch. Der zweite Track auf der Platte verzichtet in seinen 4:13 auf Gehörschutz. Er holt die Hörer\*innen da ab, wo wir alle uns gerade befinden: Auf einer Welle der Verwirrung und des Zweifels, ungewiss, was uns an der nächsten Ecke begegnen wird. Gleichzeitig ist er eine guturale Einladung, weiter in den Sounduntergrund von LLNN einzutauchen und die Finsternis und Schwere zu erforschen, die uns dort erwartet.
 
 ## Klaustrophobie und Futurismus
 
@@ -50,7 +50,7 @@ Weiter geht es mit "Obsidian". Hier bin ich endgültig gelandet in der futuristi
 
 Schön, wie sich die Platte entwickelt. Den Worten von Sänger und Gitarrist Christian Bonnesen zum nächsten Song "Interloper" kann ich wohl kaum noch etwas hinzufügen. LLNN haben seine Worte einfach zu perfekt vertont:
 
-> "In dem Song geht es darum, sich wertlos zu fühlen. Für immer dazu verdammt, mit den Kindern am Esstisch zu sitzen und mit den Resten der Banketts der König⋆innen abgespeist zu werden."
+> "In dem Song geht es darum, sich wertlos zu fühlen. Für immer dazu verdammt, mit den Kindern am Esstisch zu sitzen und mit den Resten der Banketts der König\*innen abgespeist zu werden."
 
 ![LLNN](https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn-1-jpg-imagine-182828_4c453a_1024_768/640.webp 'LLNN')
 

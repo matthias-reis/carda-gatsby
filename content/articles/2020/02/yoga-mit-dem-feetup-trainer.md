@@ -44,7 +44,7 @@ advertisement: true
 
 **Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga einige für mich völlig neue Asanas. Vertraute Übungen wie der Sonnengruß sind damit anspruchsvoller und interessanter geworden.**
 
-Yoga ist für mich etwas ganz Besonderes. Es bereichert mein Leben und ich möchte nicht mehr darauf verzichten. Ich kann mich dabei entspannen und gleichzeitig Kraft aufbauen. Was mir dabei bis jetzt gefehlt hat, war die König⋆innendisziplin: Der Kopfstand. Doch seit Kurzem ist alles anders. Ich kann die Welt aus einer für mich völlig neuen Perspektive betrachten. Das mache ich nach Möglichkeit in schöner Regelmäßigkeit - einmal morgens und einmal abends. Neben dem Schulterstand, der bisher die einzige Umkehrhaltung war, die ich beim Yoga praktiziert habe, schaffe ich es jetzt, dank eines kleinen Helfers, auch in den Kopfstand.
+Yoga ist für mich etwas ganz Besonderes. Es bereichert mein Leben und ich möchte nicht mehr darauf verzichten. Ich kann mich dabei entspannen und gleichzeitig Kraft aufbauen. Was mir dabei bis jetzt gefehlt hat, war die König\*innendisziplin: Der Kopfstand. Doch seit Kurzem ist alles anders. Ich kann die Welt aus einer für mich völlig neuen Perspektive betrachten. Das mache ich nach Möglichkeit in schöner Regelmäßigkeit - einmal morgens und einmal abends. Neben dem Schulterstand, der bisher die einzige Umkehrhaltung war, die ich beim Yoga praktiziert habe, schaffe ich es jetzt, dank eines kleinen Helfers, auch in den Kopfstand.
 
 ## Königin Kopfstand
 
@@ -60,7 +60,7 @@ Der Aufbau ging sehr schnell. Ich glaube, ich habe nicht mehr als fünf Minuten 
 
 Bei den ersten Kopfstand-Versuchen war ich noch etwas zurückhaltend. Zuerst bat ich Matze darum, sich auf der rückwärtigen Seite des Hockers aufzuhalten und mich im Notfall festzuhalten. Irgendwann kam ich dann auf die Idee, die mitgelieferten Tipps zu lesen und stellte den Hocker erstmal an die Wand. Und siehe da: ich traute mich, mit etwas mehr Elan an die Sache heranzugehen. Nach insgesamt nur etwa zehn Versuchen befand ich mich im Kopfstand und konnte mein Glück kaum glauben.
 
-Nachdem es das erste Mal geklappt hatte, konnte ich von einer Minute auf die andere nicht mehr genug kriegen. Ich hatte den Warnhinweis gelesen, dass man als Anfänger⋆in lieber erstmal vorsichtig an die Sache rangeht und immer nur ein paar Sekunden kopfunter auf dem Feetup Trainer verbringt. Darum machte ich in den ersten Tagen lieber viele kurze Kopfstände hintereinander, als einen langen.
+Nachdem es das erste Mal geklappt hatte, konnte ich von einer Minute auf die andere nicht mehr genug kriegen. Ich hatte den Warnhinweis gelesen, dass man als Anfänger\*in lieber erstmal vorsichtig an die Sache rangeht und immer nur ein paar Sekunden kopfunter auf dem Feetup Trainer verbringt. Darum machte ich in den ersten Tagen lieber viele kurze Kopfstände hintereinander, als einen langen.
 
 Mit der täglichen Übung kam mehr Sicherheit. Inzwischen trainiere ich jeden Morgen und jeden Abend ein paar Minuten. Am liebsten mache ich Yoga Flows. Davon befinden sich auf dem Asana-Plakat gleich eine ganze Reihe.
 

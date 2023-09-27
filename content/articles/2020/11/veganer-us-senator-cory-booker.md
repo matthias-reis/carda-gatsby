@@ -52,7 +52,7 @@ Im Mai 2020 machten die Senatorin Elizabeth Warren (D-MA) und die Repräsentanti
 
 Innerhalb eines CAFO befinden sich mehr als 1.000 Tiereinheiten. Eine Tiereinheit entspricht 1.000 Pfund "Lebendtiergewicht". Tausend Tiereinheiten bedeuten 1.000 Fleischrinder, 700 Milchkühe, 2.500 Schweine mit einem Gewicht con über 25 Kilogramm, 125.000 Fleisch-Hühner oder 82.000 Legehennen. In den USA wird die Tierproduktion zunehmend von diesen Anlagen dominiert.
 
-Neben der unmenschlichen Behandlung der Tiere innerhalb der CAFOs sind die Belastungen für die Umwelt, die Gesundheit der Menschen und das Klima enorm. Durch die großen Mengen an tierischen Exkrementen und anderen Abfällen geraten Stoffe wie Phosphor, Stickstoff, Arsen sowie Antibiotika, Pestizide, Wachstumshormone und Krankheitserreger in das Grundwasser. Durch die Emissionen kommt es bei den Anwohner⋆innen der Gebiete rund um die CAFOs immer wieder zu chronischen Atemwegserkrankungen, Augenreizungen und anderen ernstzunehmenden gesundheitlichen Beschwerden.
+Neben der unmenschlichen Behandlung der Tiere innerhalb der CAFOs sind die Belastungen für die Umwelt, die Gesundheit der Menschen und das Klima enorm. Durch die großen Mengen an tierischen Exkrementen und anderen Abfällen geraten Stoffe wie Phosphor, Stickstoff, Arsen sowie Antibiotika, Pestizide, Wachstumshormone und Krankheitserreger in das Grundwasser. Durch die Emissionen kommt es bei den Anwohner\*innen der Gebiete rund um die CAFOs immer wieder zu chronischen Atemwegserkrankungen, Augenreizungen und anderen ernstzunehmenden gesundheitlichen Beschwerden.
 
 ## "Together America We Will Rise"
 

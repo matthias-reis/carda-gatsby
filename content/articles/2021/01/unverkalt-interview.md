@@ -54,7 +54,7 @@ labels:
 
 **George:** Wir kämpfen uns von Tag zu Tag. Wir sind die erste Generation, die so etwas durchmacht. Wir erleben etwas, das es vorher noch nie gegeben hat.
 
-Es ist eine harte Herausforderung und wir rufen jede⋆n dazu auf, weiterzumachen und stärker aus diesen schwierigen Zeiten hervorzugehen. Wir dürfen nicht nachgeben. Wir müssen da jetzt durch. Dann werden wir die Sonne auch wieder über uns scheinen sehen.
+Es ist eine harte Herausforderung und wir rufen jede\*n dazu auf, weiterzumachen und stärker aus diesen schwierigen Zeiten hervorzugehen. Wir dürfen nicht nachgeben. Wir müssen da jetzt durch. Dann werden wir die Sonne auch wieder über uns scheinen sehen.
 
 **Anne:** Ihr habt mir erzählt, dass Eure musikalische Reise vor drei Jahren begonnen hat und eine Form des Eskapismus für Euch ist. Wie muss ich mir das vorstellen?
 
@@ -70,7 +70,7 @@ Es ist eine harte Herausforderung und wir rufen jede⋆n dazu auf, weiterzumache
 
 ## "Jede Art Kunst ist anthropozentrisch"
 
-**George:** Menschliche Erfahrungen nehmen mit der Zeit eine gewisse Form an. Was die künstlerische Welt angeht, ist alles eine Sache von Farben, Formen, Klängen und Vibrationen. Je nachdem, um welche Art Kunst es sich handelt. Jede⋆r Künstler⋆in transformiert menschliche Erfahrungen in Kunst. Darum ist jede Art Kunst anthropozentrisch.
+**George:** Menschliche Erfahrungen nehmen mit der Zeit eine gewisse Form an. Was die künstlerische Welt angeht, ist alles eine Sache von Farben, Formen, Klängen und Vibrationen. Je nachdem, um welche Art Kunst es sich handelt. Jede\*r Künstler⋆in transformiert menschliche Erfahrungen in Kunst. Darum ist jede Art Kunst anthropozentrisch.
 
 **Anne:** Euer Album ist nicht nur eine Platte. Es soll auch eine audiovisuelle Erfahrung für Eure Fans sein. Könnt Ihr mir etwas mehr darüber erzählen?
 

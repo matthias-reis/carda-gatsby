@@ -28,7 +28,7 @@ languageLink: /2023/04/le-capre-a-sonagli-funeral-rave-party-en
 
 **"Funeral Rave Party" klingt nicht nur nach der Essenz der beiden Musikstile, die mich wohl Anfang der 2.000er Jahr am meisten beschäftigt haben. Es ist der Name der ersten englischsprachigen EP der italienischen Psychedelic Band Le Capre A Sonagli. Hören lohnt sich!**
 
-Die Künstler⋆innen haben ihre Platte komplett selbst produziert und aufgenommen, nachdem sie sich nach ihrer letzten Aufnahme in Richtung Tontechnik und Produktion weitergebildet hatten. Das Ziel: alles mit ihren eigenen Händen zu formen, um in der Physik und den Zahlen das Universum und seine Komplexität wieder zu entdecken.
+Die Künstler\*innen haben ihre Platte komplett selbst produziert und aufgenommen, nachdem sie sich nach ihrer letzten Aufnahme in Richtung Tontechnik und Produktion weitergebildet hatten. Das Ziel: alles mit ihren eigenen Händen zu formen, um in der Physik und den Zahlen das Universum und seine Komplexität wieder zu entdecken.
 
 Was soll man sagen? Das Experiment scheint geglückt zu sein. "Funeral Rave Party" ist für die Band vor allem eins: ein psychedelisch-rhythmisches Ritual. Spielen könnte man dieses auf alternativen Festivals genauso, wie auf einer Underground-Technofete. Klingen tut das ganze wie aus einem Gruselfilm. Inspiration holten sich Capre A Sonagli beim Filmemacher Cronenberg – das scheint also ein klares Ziel gewesen zu sein.
 

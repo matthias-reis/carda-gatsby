@@ -92,7 +92,7 @@ Ich denke, dass viele Menschen mir zustimmen würden. Wir fühlen uns alle irgen
 
 **Justin:** Man muss das in den richtigen Kontext stellen und es möglichst behutsam machen. Das ist wirklich wichtig. Ich finde, es ist nichts Provokatives an unserem Video. Alles steht in einem Kontext. Und ich denke, genau auf diese Art und Weise sollten wir es den Menschen vermitteln. Uns ist der Teil mit der Grausamkeit gegenüber Tieren besonders wichtig. Das schockiert uns und macht es schwierig, sich den Clip anzuschauen.
 
-**Anne:** Ihr seid auch beide Veganer⋆innen und engagiert Euch für Themen wie die Klimakatastrophe und die Ausbeutung der Erde. Menschlichkeit und Tierrechte sind häufig Thema Eurer Songs. Selbst, wenn ein Text nicht davon handelt, kann man es in Euren Melodien hören. Macht Ihr Musik, um diese sehr wichtige Message zu verbreiten oder ist es eher andersrum? Sprich: Seht Ihr Euch eher als Aktivist⋆innen oder als Musiker⋆innen?
+**Anne:** Ihr seid auch beide Veganer\*innen und engagiert Euch für Themen wie die Klimakatastrophe und die Ausbeutung der Erde. Menschlichkeit und Tierrechte sind häufig Thema Eurer Songs. Selbst, wenn ein Text nicht davon handelt, kann man es in Euren Melodien hören. Macht Ihr Musik, um diese sehr wichtige Message zu verbreiten oder ist es eher andersrum? Sprich: Seht Ihr Euch eher als Aktivist\*innen oder als Musiker⋆innen?
 
 ## "Wenn ich mich nicht bremse, geht es in jedem Song um die Tiere"
 

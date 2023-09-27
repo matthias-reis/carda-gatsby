@@ -38,7 +38,7 @@ Earth Day Präsident Thomas Dannenmann erklärt das so:
 
 ![Speto-Earth-Day-Art-Original](https://storage.googleapis.com/cardamonchai-media/2021-11-20/speto-earth-day-art-original-1-jpg-imagine-7898b8_8b6b6f_774_1024/640.webp 'Original Earth Day Art © Speto (Link below)')
 
-Mit seinen Worten spricht er alle an. Von uns Verbraucher⋆innen über den Lebensmittelhandel und die Produktion, die Fischerei und die Landwirtschaft. Die Earth Day Aktivist⋆innen pflichten dem bei:
+Mit seinen Worten spricht er alle an. Von uns Verbraucher\*innen über den Lebensmittelhandel und die Produktion, die Fischerei und die Landwirtschaft. Die Earth Day Aktivist\*innen pflichten dem bei:
 
 > "Lebe bewusst und nachhaltig damit sich unsere Erde und das Klima erholen kann."
 

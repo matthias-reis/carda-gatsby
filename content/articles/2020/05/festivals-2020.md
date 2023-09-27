@@ -67,7 +67,7 @@ Darum habe ich vollstes Verständnis für alle Spendenaktionen, T-Shirt-Verkäuf
 
 Mein Aufruf lautet daher: Leute, kauft Musik! Die meisten Bands produzieren im Moment eine Single nach der anderen. Meldet Euch bei Newslettern an, lest die Zines und Kommentarspalten und bestellt Euch Platten, CDs, Kassetten, Digipacks Poster und T-Shirts.
 
-Besucht die Webseiten der Künstler⋆innen und hinterlasst nette Kommentare, spendet für Eure Konzerthallen und fordert bitte das Geld nicht zurück, das Ihr für das Konzert, das nächste Woche stattfinden sollte, bezahlt habt. Ihr habt es doch sowieso schon ausgegeben.
+Besucht die Webseiten der Künstler\*innen und hinterlasst nette Kommentare, spendet für Eure Konzerthallen und fordert bitte das Geld nicht zurück, das Ihr für das Konzert, das nächste Woche stattfinden sollte, bezahlt habt. Ihr habt es doch sowieso schon ausgegeben.
 
 ## "Es ist traurig, die Musikszene so leiden zu sehen"
 
@@ -88,7 +88,7 @@ Mich schmerzt das sehr und ich hoffe wirklich, dass so viele Menschen wie mögli
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGAwL/xAApEAABBAEEAQMEAwEAAAAAAAABAgMEBREABhIhBxMyQSIxUYEVF0Jh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AL6BtNy9qYkldmqOH2kuEx28HsfYEnrXKPD+3HJrs6WuTIkuq5KX6nHPQ6wOtTdFvebXbYr69EOJLlplRIsd2VltlkrV7nSCfaegRjJI6054/wDJ5O3K9u+RMkTA41FckjgsuLcZdfz0RkBKOP5JI+NBXf1vtxKW/UjOL4pCU5c7wPjIGcaWGxNuxwWf40OemlP1OPrJOc4/1/zUfJ8y1k+iu5dA3axrQVjk5lM5oFC8EIBRlRSAgnkQBhWCPg6W2d5RjXFJU1rri7Ldy4fMuJgFbLT3JXFLvADAH0Ekfb850EL41shbKuK+YhieJDRIalgqaUrPQV846B/WqlraEawsq6JZUk6sh4SQmvcSY7boJS2o5BJ+nKe1ZwrOR9tGjQb7g8RvOU8dmvtGFqiUJq2RIaLai4Xy4VqIJAHFSk/P71ltDa1h4y3cpyOF2FJaQ247wjkqcTJSAfaR7CvIBPQCxnGNGjQf/9k="
 />
 
-Anders, als das ArcTanGent Festival, das einen Fundraiser gestartet hat, rief die DUNK Crew heute alle Fans dazu auf, bei der Rückerstattung einen Teil des Betrages zu spenden. Den Rückerstattungsbetrag kann man frei wählen. Jede⋆r, wie er⋆sie kann. Ich hoffe wirklich sehr, dass unsere Festivals am Leben bleiben und dass wir uns nächstes Jahr alle wieder mit unseren Zelten und Rucksäcken vor den Bühnen der Welt versammeln und diese harten Zeiten hinter uns lassen können.
+Anders, als das ArcTanGent Festival, das einen Fundraiser gestartet hat, rief die DUNK Crew heute alle Fans dazu auf, bei der Rückerstattung einen Teil des Betrages zu spenden. Den Rückerstattungsbetrag kann man frei wählen. Jede\*r, wie er⋆sie kann. Ich hoffe wirklich sehr, dass unsere Festivals am Leben bleiben und dass wir uns nächstes Jahr alle wieder mit unseren Zelten und Rucksäcken vor den Bühnen der Welt versammeln und diese harten Zeiten hinter uns lassen können.
 
 Neben der Schadenbegrenzung, an der die Festival-Teams im Moment rund um die Uhr arbeiten, schaffen sie es immer noch, die Meute bei Laune zu halten. Fast stündlich liest man von neuen Live-Übertragungen aus Clubs und Video-Mitschnitten aus vergangenen Festival-Jahren. Das ist nicht selbstverständlich und für mich der Beweis dafür, mit wieviel Liebe jede⋆r in dieser Branche an dem was er⋆sie tut, festhält.
 

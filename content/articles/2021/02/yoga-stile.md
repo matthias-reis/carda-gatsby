@@ -62,7 +62,7 @@ Für welchen Yoga-Stil Ihr Euch entscheidet, hängt von Euren Erwartungen und Eu
 
 ## Yoga-Stile: einfach mal ausprobieren!
 
-Ich kann Euch wirklich empfehlen, Euch auszuprobieren. Nur so werdet Ihr herausfinden, mit welcher Art von Yoga Ihr Euch am wohlsten fühlt. Informiert Euch am besten in einem Yoga-Studio. Es gibt außerdem auch jede Menge tolle Fachliteratur und Videos zum Thema. Falls Ihr eine Yoga-Schule aufsuchen wollt, ist es besonders wichtig, dass die Sympathie stimmt. Wenn Ihr mit Eurem⋆r Lehrer⋆in nicht klarkommt, verliert Ihr ziemlich sicher schnell die Lust und das hat Yoga wirklich nicht verdient. Vereinbart am besten Probestunden und schaut, was so geboten wird.
+Ich kann Euch wirklich empfehlen, Euch auszuprobieren. Nur so werdet Ihr herausfinden, mit welcher Art von Yoga Ihr Euch am wohlsten fühlt. Informiert Euch am besten in einem Yoga-Studio. Es gibt außerdem auch jede Menge tolle Fachliteratur und Videos zum Thema. Falls Ihr eine Yoga-Schule aufsuchen wollt, ist es besonders wichtig, dass die Sympathie stimmt. Wenn Ihr mit Eurem\*r Lehrer\*in nicht klarkommt, verliert Ihr ziemlich sicher schnell die Lust und das hat Yoga wirklich nicht verdient. Vereinbart am besten Probestunden und schaut, was so geboten wird.
 
 Ich habe mal ein paar ausgewählte Yoga-Arten zusammengetragen, die bei uns relativ verbreitet sind, um Euch einen kleinen Überblick zu bieten. Natürlich sind das längst nicht alle Stile. Wenn Ihr Euch länger mit dem Thema beschäftigt, werdet Ihr merken, wie groß die Vielfalt ist und ganz sicher die eine Lieblings-Yoga-Art für Euch finden.
 

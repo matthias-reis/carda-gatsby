@@ -5,8 +5,8 @@ path: /2020/12/earthling-ed-surge-sanctuary/
 title: Surge Sanctuary
 seoTitle: Surge Sanctuary – Tierrechtsaktivist Earthling Ed plant Hof für Tiere
 ogTitle: Surge Sanctuary – Tierrechtsaktivist Earthling Ed plant Hof für Tiere
-description: Gemeinsam mit den Aktivist⋆innen rund um sein veganes Restaurant Unity Diner hat Ed Winters aka Earthling Ed jetzt das Surge Sanctuary gegründet.
-excerpt: Gemeinsam mit den Aktivist⋆innen rund um sein veganes Restaurant Unity Diner hat Ed Winters aka Earthling Ed jetzt das Surge Sanctuary gegründet.
+description: Gemeinsam mit den Aktivist*innen rund um sein veganes Restaurant Unity Diner hat Ed Winters aka Earthling Ed jetzt das Surge Sanctuary gegründet.
+excerpt: Gemeinsam mit den Aktivist*innen rund um sein veganes Restaurant Unity Diner hat Ed Winters aka Earthling Ed jetzt das Surge Sanctuary gegründet.
 fileName: 2020-12---surge-sanctuary.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_surge-sanctuary__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_surge-sanctuary__l.jpg
@@ -28,7 +28,7 @@ errors: {}
 subTitle: Earthling Ed plant Hof für Tiere
 ---
 
-**Gemeinsam mit den Aktivist⋆innen rund um sein veganes Restaurant Unity Diner hat Ed Winters aka Earthling Ed jetzt das Surge Sanctuary gegründet.**
+**Gemeinsam mit den Aktivist\*innen rund um sein veganes Restaurant Unity Diner hat Ed Winters aka Earthling Ed jetzt das Surge Sanctuary gegründet.**
 
 <RemoteImage
   alt={`Surge Sanctuary`}
@@ -40,7 +40,7 @@ subTitle: Earthling Ed plant Hof für Tiere
 
 Ed gab vor Kurzem bekannt, dass er für sein Vorhaben, einen Lebenshof zu gründen, eine Farm samt mehreren umliegenden Feldern erworben hat. Unter anderem nutzte er dazu die Erlöse aus dem Unity Diner.
 
-In einem Video bedankt er sich bei all seinen Unterstützer⋆innen, dass sie dabei geholfen haben, dieses Projekt möglich zu machen.
+In einem Video bedankt er sich bei all seinen Unterstützer\*innen, dass sie dabei geholfen haben, dieses Projekt möglich zu machen.
 
 Der Hof liegt in den britischen Midlands. Das Schaf Eric, die beiden Schweine Pete und Gus, die Truthähne Harold und Fredrick sowie die Hühner Camila und Chloe leben bereits im Surge Sanctuary. Schon bald sollen viele weitere tierische Bewohner⋆innen dazukommen. Sie alle sollen genau wie die Eric, Pete, Gus, Harold, Fredrick, Camila und Chloe aus Schlachthöfen und Farmen im ganzen Vereinigten Königreich gerettet werden.
 

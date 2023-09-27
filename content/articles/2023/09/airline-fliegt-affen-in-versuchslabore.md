@@ -25,7 +25,7 @@ language: de
 
 **PETA demonstriert heute im Terminal des Düsseldorfer Flughafens gegen den Transport von Affen in Versuchslabore. Die Fluggesellschaft EgyptAir hatte das Ende der Flüge eigentlich bereit im August letzten Jahres zugesagt, hält sich jedoch nicht an die Abmachung.**
 
-Aus diesem Grund starteten heute Morgen unter anderem ein⋆e Aktivist⋆in im Affenkostüm zu einer Demo am Flughafen, um die qualvollen Affentransporte aufzuhalten. Fast alle großen Airlines haben das Ausfliegen von Affen in Versuchslabore bereits beendet. Auch darauf möchte PETA mit dieser Aktion noch einmal gezielt hinweisen. Im Presseportal der Tierrechtsorganisation heißt es:
+Aus diesem Grund starteten heute Morgen unter anderem ein\*e Aktivist\*in im Affenkostüm zu einer Demo am Flughafen, um die qualvollen Affentransporte aufzuhalten. Fast alle großen Airlines haben das Ausfliegen von Affen in Versuchslabore bereits beendet. Auch darauf möchte PETA mit dieser Aktion noch einmal gezielt hinweisen. Im Presseportal der Tierrechtsorganisation heißt es:
 
 > "In den Laboren werden die Affen verstümmelt, vergiftet, zeitweise ohne Nahrung und Wasser gehalten, gewaltsam fixiert, mit schmerzhaften und tödlichen Krankheiten infiziert, psychisch gequält oder getötet. Sie dorthin zu befördern, ist durch nichts zu entschuldigen“, so Ayshea Kelly, Aktionskoordinatorin bei PETA. „Die hochintelligenten, sozialen und sensiblen Lebewesen leiden zudem unter dem Stress des langen und zermürbenden Transports in den Frachträumen von Flugzeugen und in Lastwagen. Darüber hinaus können sie Krankheitserreger übertragen. Diese gefährden die öffentliche Gesundheit und Sicherheit – auch die des Luftfahrtpersonals."
 

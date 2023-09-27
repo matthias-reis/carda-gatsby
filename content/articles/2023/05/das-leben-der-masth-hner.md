@@ -6,7 +6,7 @@ title: Das Leben der Masthühner
 subTitle: Sie leiden in der Dunkelheit
 seoTitle: Masthühner leiden in der Dunkelheit
 description: '"Masthühner" leiden ihr ganzes Leben lang. Animal Equality teilt jetzt neue Zahlen und Erkenntnisse. Das könnt Ihr persönlich tun.'
-excerpt: '"Masthühner" – mit dieser Bezeichnung sind Hühner gemeint, die Menschen so züchten, dass sie innerhalb einer möglichst geringen Zeitspanne viel Gewicht zuzulegen. Sie leiden ihr ganzes Leben lang. Mit ihrer Masthuhn-Haltung richtet sich die Industrie noch heute nach einer Entwicklung, die amerikanische Agrarwissenschaftler⋆innen sich in den 1930er und 1940er-Jahren ausgedacht haben.'
+excerpt: '"Masthühner" – mit dieser Bezeichnung sind Hühner gemeint, die Menschen so züchten, dass sie innerhalb einer möglichst geringen Zeitspanne viel Gewicht zuzulegen. Sie leiden ihr ganzes Leben lang. Mit ihrer Masthuhn-Haltung richtet sich die Industrie noch heute nach einer Entwicklung, die amerikanische Agrarwissenschaftler*innen sich in den 1930er und 1940er-Jahren ausgedacht haben.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-15/masthuehner-animal-equality-jpg-imagine-686868_8b817d_1024_768/640.webp
 copyright: Animal Equality
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-15/masthuehner-animal-equality-og-jpg-imagine-887878_928682_1200_628/640.webp
@@ -24,7 +24,7 @@ language: de
 
 **"Masthühner" – mit dieser Bezeichnung sind Hühner gemeint, die Menschen so züchten, dass sie innerhalb einer möglichst geringen Zeitspanne viel Gewicht zuzulegen. Sie leiden ihr ganzes Leben lang.**
 
-Mit ihrer Masthuhn-Haltung richtet sich die Industrie noch heute nach einer Entwicklung, die amerikanische Agrarwissenschaftler⋆innen sich in den 1930er und 1940er-Jahren ausgedacht haben – sie züchteten die erste Masthuhn-Linie. Seit dieser Zeit wächst die Nachfrage nach Hühnerfleisch immer weiter. Daher werden die Tiere immer weiter "optimiert". An der Lebensqualität der Tiere hat sich bis heute allerdings keineswegs etwas verbessert.
+Mit ihrer Masthuhn-Haltung richtet sich die Industrie noch heute nach einer Entwicklung, die amerikanische Agrarwissenschaftler\*innen sich in den 1930er und 1940er-Jahren ausgedacht haben – sie züchteten die erste Masthuhn-Linie. Seit dieser Zeit wächst die Nachfrage nach Hühnerfleisch immer weiter. Daher werden die Tiere immer weiter "optimiert". An der Lebensqualität der Tiere hat sich bis heute allerdings keineswegs etwas verbessert.
 
 ## Immer mehr Hühnerfleisch bedeutet immer mehr Tierleid
 
@@ -66,7 +66,7 @@ Menschen haben diese Tiere auf ihre Wünsche – so billig und so schnell wie m�
 
 ---
 
-Dabei sind besonders Hühner sehr gesellig – und sie fühlen Schmerzen, genau wie wir. Dass viele das auch heute noch anders sehen, kommt der Geflügelindustrie laut Animal Equality sehr gelegen. Wir Verbraucher⋆innen schenken diesen wunderbaren Lebewesen viel zu wenig Aufmerksamkeit und verhindern damit, dass sich für sie etwas zum Besseren ändert.
+Dabei sind besonders Hühner sehr gesellig – und sie fühlen Schmerzen, genau wie wir. Dass viele das auch heute noch anders sehen, kommt der Geflügelindustrie laut Animal Equality sehr gelegen. Wir Verbraucher\*innen schenken diesen wunderbaren Lebewesen viel zu wenig Aufmerksamkeit und verhindern damit, dass sich für sie etwas zum Besseren ändert.
 
 ## Die Werbung führt uns in die Irre
 

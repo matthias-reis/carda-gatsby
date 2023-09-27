@@ -38,7 +38,7 @@ language: de
 
 Jack Hancock-Fairs ist überzeugter Veganer. Es war schon immer sein Wunsch, seine Überzeugung in die Welt hinauszutragen. Spätestens seinem Film "The Dying Trade" ist es ihm nun gelungen.
 
-Das erklärte Ziel des Filmemachers war es das Bewusstsein für das Leid der Mitarbeiter⋆innen auf den Schlachthöfen zu schärfen. Er möchte dabei dazu beitragen, dass sie als Menschen gesehen werden.
+Das erklärte Ziel des Filmemachers war es das Bewusstsein für das Leid der Mitarbeiter\*innen auf den Schlachthöfen zu schärfen. Er möchte dabei dazu beitragen, dass sie als Menschen gesehen werden.
 
 ## Ein Aufruf zum Boykott tierischer Produkte
 
@@ -55,7 +55,7 @@ Mit "The Dying Trade" möchte Hankcock-Fairs der Menschheit einen weiteren Grund
 
 Im Trailer zum Film zeigt er eine Gruppe von Schulkindern, die erzählen, welchen Beruf sie ergreifen möchten, wenn sie erwachsen sind.
 
-"Ich möchte Wissenschaftler⋆in werden", sagt eines der Kinder. "Ich möchte Filmemacher⋆in werden" ein anderes. Eines erzählt, dass es Tieren helfen möchte und eines, dass es glücklich sein möchte.
+"Ich möchte Wissenschaftler\*in werden", sagt eines der Kinder. "Ich möchte Filmemacher⋆in werden" ein anderes. Eines erzählt, dass es Tieren helfen möchte und eines, dass es glücklich sein möchte.
 
 Im Anschluss folgt ein Szenenwechsel. Der Protagonist des Films wird gezeigt. Ein erwachsener Mann geläutert und von posttraumatischem Stress gezeichnet. Sein Tagesablauf beginnt mit Bildern von getöteten Tieren, die vor seinem inneren Auge ablaufen. Auf dem Tisch vor ihm stehen leere Schnaps- und Weinflaschen – ein Hinweis auf die Abhängigkeitsprobleme, mit denen viele der Mitarbeiter⋆innen in den Schlachthöfen kämpfen. Kein Wunder: Die Grausamkeit, der sie sich Tag für Tag stellen, scheint nüchtern schwer zu ertragen.
 

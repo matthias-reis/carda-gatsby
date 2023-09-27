@@ -55,11 +55,11 @@ Die Band ist bisher noch nicht bei einem Plattenlabel untergekommen, sollte aber
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAEAwb/xAAsEAABBAEDAgUCBwAAAAAAAAABAgMEEQUAEiETMQYHFEFRFSIkMnGBkaHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAX/xAAfEQEAAgICAgMAAAAAAAAAAAABAAIDERITITEUgcH/2gAMAwEAAhEDEQA/AAcXuc+ktfiHpPQDqhtShBUWVXuPcCu1+59rOrzRzDWRfhhKIUZ5iQVuuMOOKPUKiKcXZtJTddqrnvoVWcyjczFuYpl3JKcYLa4wPCE7UkDcBe2ySR/nGsHmHK6eJgsFUlnIJ6SpbarAUopNGvkbAOw/vWH0V7Ktnb5gMbavg0MzjJRHJkwRZaPUPvptCTaEgGk7lEWSVV7D9TWrSGdhvSpmJcmtDGvpcS46+/tAA5CQNo7k/cRzXH7WmZNGgYPiWt6GLeG3IuLYck4vEy3llRj71PBCkVVgJqiOe5PtoPzAkTBkIyp8RO15ATfqSslAJvsRzZ/mtOYTKK+k412U5vXI6ixYCVqTvIKqH5jaeT399F+In2HfEEJa5AdbRHW0pCHkpSVdS63HjkfPFDnTq1Oe2TyL1pX3OniiQ/IxUbY/FkYwxwsMsja4klSrWGyeKJKbHxq15d2IOtFR615TaG1kKcG1DZJUAlJuju4o3RvVpnAWVcXLjtD7B/J//9k="
 />
 
-Wer sich jetzt fragt, wer hinter der genialen neuen Combo steckt, kann leider nur rätseln. Die Musiker⋆innen möchten ihre Identitäten geheim halten. Sie verstecken ihre Gesichter hinter Masken: einem Fuchs, einem Hirsch und einem Fisch.
+Wer sich jetzt fragt, wer hinter der genialen neuen Combo steckt, kann leider nur rätseln. Die Musiker\*innen möchten ihre Identitäten geheim halten. Sie verstecken ihre Gesichter hinter Masken: einem Fuchs, einem Hirsch und einem Fisch.
 
 Jedes Bandmitglied spielt eine bestimmte Rolle innerhalb einer Fantasiewelt, von der auch die Songtexte sowie die Videos handeln.
 
-Mit ihrer EP möchten die Künstler⋆innen über den Abriss und Wiederaufbau einer fiktiven Welt erzählen. Dafür nutzen sie Analogien wie die berühmte Rede von Robert Oppenheimer nach dem Abwurf der Atombombe über Hiroshima sowie ein Fragment des Films "The VVitch" von Robert Eggers.
+Mit ihrer EP möchten die Künstler\*innen über den Abriss und Wiederaufbau einer fiktiven Welt erzählen. Dafür nutzen sie Analogien wie die berühmte Rede von Robert Oppenheimer nach dem Abwurf der Atombombe über Hiroshima sowie ein Fragment des Films "The VVitch" von Robert Eggers.
 
 ## Analogien und Mythen
 

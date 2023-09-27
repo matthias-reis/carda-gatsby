@@ -71,7 +71,7 @@ Kaut einfach eine Tablette und putzt mit der angefeuchteten Bürste Eure Zähne.
 
 ## Das steckt hinter der Zero Waste Kosmetik von Hazeva
 
-Hazeva wurde in Hannover gegründet. Einen weiteren Standort des neu gegründeten Unternehmens gibt es auf Mallorca. Ziel des Gründungsteams ist es, den Kund⋆innen ehrliche, kritische und transparente Informationen und Tipps mit allen verkauften Produkten an die Hand zu geben. Die angebotene Kosmetik ist natürlich, vegan und frei von umweltschädlichen Verpackungen.
+Hazeva wurde in Hannover gegründet. Einen weiteren Standort des neu gegründeten Unternehmens gibt es auf Mallorca. Ziel des Gründungsteams ist es, den Kund\*innen ehrliche, kritische und transparente Informationen und Tipps mit allen verkauften Produkten an die Hand zu geben. Die angebotene Kosmetik ist natürlich, vegan und frei von umweltschädlichen Verpackungen.
 
 Das Team legt großen Wert auf Ehrlichkeit und Fairness. Wer im Online-Shop einkauft, soll den Überblick behalten und alles Wissenswerte erfahren.
 

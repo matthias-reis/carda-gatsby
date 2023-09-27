@@ -44,7 +44,7 @@ subTitle: Die drei von der Bande legen auf
 
 **Es ist schon wieder ein Monat vorbei! Wo ist die Zeit nur geblieben? In Musik gerechnet ist ziemlich viel davon vergangen. In Tagen an der frischen Luft eher weniger. Doch was soll's. Hier geht's schließlich um Ersteres.**
 
-Wir haben in den vergangenen Wochen wieder einiges an Musik gehört und lange überlegt und geplant, welche Künstler⋆innen es am Ende in diesen Artikel schaffen. Das Ergebnis stellt uns durchaus zufrieden - doch hört am besten einfach selbst.
+Wir haben in den vergangenen Wochen wieder einiges an Musik gehört und lange überlegt und geplant, welche Künstler\*innen es am Ende in diesen Artikel schaffen. Das Ergebnis stellt uns durchaus zufrieden - doch hört am besten einfach selbst.
 
 Für den Juni haben wir 12 ganz besondere Lieder für Euch zusammengestellt. Ihr findet sie direkt hier samt Beschreibungen und Videos und ganz unten als Playlists für iTunes und Spotify. Bedient haben wir uns wieder in den verschiedensten Musikrichtungen.
 

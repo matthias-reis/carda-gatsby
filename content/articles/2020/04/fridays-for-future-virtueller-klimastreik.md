@@ -31,7 +31,7 @@ subTitle: Fridays For Future goes Livestream
 
 Wir alle müssen Abstand halten. Weil der Schutz der Gesundheit, die Verlangsamung der Ansteckungen und der Kampf gegen das Virus im Moment oberstes Gebot sind, können derzeit auch keine Demonstrationen stattfinden.
 
-Aus diesem Grund findet unter dem bekannten Motto am Freitag, den 24. April 2020 ab 12:00 ein Livestream mit vielen Redner⋆innen und Künstler⋆innen statt.
+Aus diesem Grund findet unter dem bekannten Motto am Freitag, den 24. April 2020 ab 12:00 ein Livestream mit vielen Redner\*innen und Künstler\*innen statt.
 
 ## Fridays For Future live online
 

@@ -6,7 +6,7 @@ title: '"Milked" ab sofort kostenlos streamen'
 subTitle: Neue Dokumentation zeigt "White Washing" der Milchindustrie
 seoTitle: Doku "Milked" zeigt "White Washing" der Milchindustrie
 description: Ursula von der Leyen, bitte tun sie was! – Amy Taylor und Chris Huriwai fordern die EU auf, den Milchviehbestand um 25 % zu reduzieren. Mit "Milked" kämpfen sie gegen die verheerendenn Auswirkungen der Milchwirtschaft.
-excerpt: '"Ursula von der Leyen, bitte tun sie etwas!" – Die Filmemacher⋆innen Amy Taylor und Chris Huriwai fordern die EU auf, ihren Milchviehbestand bis 2025 um 25 Prozent zu reduzieren. Ihre neue Dokumentation "Milked – White Lies in Diary Land" ist Teil einer koordinierten Kampagne zur Verringerung der weltweiten, verheerenden  Auswirkungen der Milchwirtschaft.'
+excerpt: '"Ursula von der Leyen, bitte tun sie etwas!" – Die Filmemacher*innen Amy Taylor und Chris Huriwai fordern die EU auf, ihren Milchviehbestand bis 2025 um 25 Prozent zu reduzieren. Ihre neue Dokumentation "Milked – White Lies in Diary Land" ist Teil einer koordinierten Kampagne zur Verringerung der weltweiten, verheerenden  Auswirkungen der Milchwirtschaft.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-30/milked-jpg-imagine-080808_3b3b5d_1024_768/640.webp
 copyright: milked.film
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-30/milked-fb-png-imagine-080808_545383_1200_628/640.webp
@@ -46,7 +46,7 @@ Auf seiner Reise beleuchtet er nicht nur die offensichtliche Nachhaltigkeitskris
 
 ## Milked – ein Aufruf an die Politik
 
-Produziert hat den Film Amy Taylor von Ahimsa Films. Chris Huriwai ist nicht nur der Haupt-Akteur, sondern auch ihr Co-Producer. Die beiden haben eine weltweite Petition[^1] gestartet, mit deren Hilfe nicht nur der Film mehr Zuschauer⋆innen erreichen soll. Er ist ein Aufruf an führende Politiker⋆innen auf der ganzen Welt.
+Produziert hat den Film Amy Taylor von Ahimsa Films. Chris Huriwai ist nicht nur der Haupt-Akteur, sondern auch ihr Co-Producer. Die beiden haben eine weltweite Petition[^1] gestartet, mit deren Hilfe nicht nur der Film mehr Zuschauer\*innen erreichen soll. Er ist ein Aufruf an führende Politiker\*innen auf der ganzen Welt.
 
 Auf der Petitionsseite schreiben die beiden Filmemacher⋆innen:
 

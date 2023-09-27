@@ -36,7 +36,7 @@ languageLink: /2021/11/monosphere-the-puppeteer-en/
 
 **Anne:** Du hast mir erzählt, dass "The Puppeteer" ein groß angelegtes Konzeptalbum ist. Möchtest Du mir verraten, welches Konzept das ist? Erzählt es eine Geschichte? Wer ist der Puppenspieler?
 
-**Rodney:** Ja, genau. Das Album versteht sich sowohl auf musikalischer, als auch auf textlicher Ebene als Konzeptalbum. Was die Musik betrifft, baut "The Puppeteer" auf verschiedene Trademarks, die im Kanon des Konzeptalbums als konzeptionell aufgegriffen werden. Das sind etwa wiederkehrende Elemente, eine durchkomponierte Struktur, das Aufgreifen verschiedener Motive und weitere Details, wie etwa die Einarbeitung von Sounds, die dem textlichen Plot zugutekommen. In "The Marionette" hört man beispielsweise ein Feuer brennen, im Plot wird hier Protagonist⋆in zwei von Protagonist⋆in eins verbrannt. Wir haben viele Details eingearbeitet, die nur darauf warten, entdeckt zu werden.
+**Rodney:** Ja, genau. Das Album versteht sich sowohl auf musikalischer, als auch auf textlicher Ebene als Konzeptalbum. Was die Musik betrifft, baut "The Puppeteer" auf verschiedene Trademarks, die im Kanon des Konzeptalbums als konzeptionell aufgegriffen werden. Das sind etwa wiederkehrende Elemente, eine durchkomponierte Struktur, das Aufgreifen verschiedener Motive und weitere Details, wie etwa die Einarbeitung von Sounds, die dem textlichen Plot zugutekommen. In "The Marionette" hört man beispielsweise ein Feuer brennen, im Plot wird hier Protagonist\*in zwei von Protagonist\*in eins verbrannt. Wir haben viele Details eingearbeitet, die nur darauf warten, entdeckt zu werden.
 
 ## Eine fiktive Welt
 

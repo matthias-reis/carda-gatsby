@@ -48,7 +48,7 @@ Diese Textzeile aus dem Song inspirierte Grégoire zur Cover-Version, in die Tho
 
 > "Im Februar 2020 kam ich von meiner Solo-Tournee durch Europa zurück und hatte eigentlich vor, dasselbe auch in Asien zu machen. Einen Monat später wurden wir dann alle gebeten zu Hause zu bleiben – die COVID-Pandemie war plötzlich in vollem Gange. Das erinnerte mich an dieses Lied, das ich während meiner Schulzeit in den 1990ern zum ersten Mal gehört hatte. Die dramatische Relevanz von Roger Waters Text faszinierte mich zutiefst.
 
-Thot kündigen mit ihrer Version "What Shall We Do Now?" Ihre Rückkehr an. In den kommenden Monaten wollen sie diverse neue Stücke veröffentlichen, unter anderem auch eine Zusammenarbeit mit den Sänger⋆innen des mehrstimmigen Ensembles "The Mystery of The Bulgarian Voices" – seid gespannt! Ich bleibe auf jeden Fall dran!
+Thot kündigen mit ihrer Version "What Shall We Do Now?" Ihre Rückkehr an. In den kommenden Monaten wollen sie diverse neue Stücke veröffentlichen, unter anderem auch eine Zusammenarbeit mit den Sänger\*innen des mehrstimmigen Ensembles "The Mystery of The Bulgarian Voices" – seid gespannt! Ich bleibe auf jeden Fall dran!
 
 ## "What Shall We Do Now?" streamen
 

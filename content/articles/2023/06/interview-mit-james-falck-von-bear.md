@@ -84,7 +84,7 @@ Statt uns von all dem zerstören zu lassen, sind wir, denke ich, stärker geword
 
 **Jamie:** Also wir sind alle riesengroße Fans der Band Botch, die erst vor Kurzem ihre ersten Shows in Europa seit 22 Jahren gespielt hat. Ich war einer der Glücklichen, die sie zweimal sehen durften. Einmal in Haarlem in den Niederlanden und einmal auf dem Hellfest in Frankreich. BEAR ist definitiv von ihrer Musik inspiriert. Besonders, wenn es um unsere neueren Sachen geht. Ich würde also auf jeden Fall mit ihnen auf Tour gehen wollen.
 
-**Anne:** Neben Musik geht es auf meiner Seite auch um Themen wie Klimaschutz, Nachhaltigkeit und Tierrechte. Möchtest Du zu diesem Kapitel etwas hinzufügen? Vielleicht etwas, das jede Band oder jede⋆r Künstler⋆in tun sollte, um etwas gegen die Klimakatastrophe zu tun?
+**Anne:** Neben Musik geht es auf meiner Seite auch um Themen wie Klimaschutz, Nachhaltigkeit und Tierrechte. Möchtest Du zu diesem Kapitel etwas hinzufügen? Vielleicht etwas, das jede Band oder jede\*r Künstler\*in tun sollte, um etwas gegen die Klimakatastrophe zu tun?
 
 **Jamie:** Das ist sehr cool. Ich denke, für Bands ist es eine echte Herausforderung, besonders, wenn wir über Umweltverschmutzung und den Klimawandel reden. Den CO<sub>2</sub>-Verbrauch als Band zu verkleinern, ist fast unmöglich. Aber ich denke, am besten ist, es so grün und nachhaltig zu leben, wie wir können! Nachhaltigkeit ist etwas, das wir alle in unser Leben integrieren können. Ich glaube vor allem daran, dass der übertriebene Konsum von allem den Planeten zerstört. Das ist also etwas, für das wir alle die Verantwortung übernehmen sollten.
 

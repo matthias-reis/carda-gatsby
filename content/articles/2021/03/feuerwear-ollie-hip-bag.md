@@ -66,7 +66,7 @@ Die Feuerwehrschläuche werden vor der Verarbeitung schonend mit biologischem Wa
 
 Bei Olli lag der Fokus auf der Weiterermittlung der Zusatzmaterialien. So wird das bereits erwähnte PET-Zusatzmaterial im Spinndüsenverfahren gefärbt. Bei diesem schonenden Verfahren mischt die Firma Delcotex [<sup>2</sup>](#2) beim Ausspinnen der Fasern die Farbe gleich mit rein. Dadurch wird weniger Farbe benötigt und auf schädliche Chemikalien kann verzichtet werden. Der Stoff wird von einem unabhängigen Prüflabor getestet.
 
-Der neue Feuerwear Hip Bag ist seit dem 17. März im [Feuerwear Onlineshop](https://www.feuerwear.de/taschen-aus-feuerwehrschlauch/sporttasche-harris) verfügbar. Dort findet Ihr wie immer alle weiteren Infos. Außerdem gibt es auch einige Einzelhändler⋆innen, die Feuerwear Taschen verkaufen.
+Der neue Feuerwear Hip Bag ist seit dem 17. März im [Feuerwear Onlineshop](https://www.feuerwear.de/taschen-aus-feuerwehrschlauch/sporttasche-harris) verfügbar. Dort findet Ihr wie immer alle weiteren Infos. Außerdem gibt es auch einige Einzelhändler\*innen, die Feuerwear Taschen verkaufen.
 
 <Gallery name="feuerwear-ollie-2" />
 

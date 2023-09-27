@@ -29,7 +29,7 @@ Aus den Änderungen des kanadischen Umweltschutzgesetzes geht hervor, dass in Zu
 
 Shaarika Sarasija, Senior Strategist Research and Regulatory Science bei Humane Society International Canada, kommentierte den Beschluss wie folgt:
 
-> "Wir freuen uns über die Verabschiedung des Gesetzentwurfs S-5, der die schrittweise Abschaffung von chemischen Tierversuchen vorsieht. Es ist ein großer und wichtiger Schritt weg von tiergestützten Toxizitätstests, der dafür sorgen wird, dass jedes Jahr Zehntausende von Tieren verschont bleiben. Zudem wird er die öffentliche Gesundheit und den Umweltschutz durch fortschrittlichere und relevante Tests zum Nutzen aller Kanadier⋆innen voranbringen."
+> "Wir freuen uns über die Verabschiedung des Gesetzentwurfs S-5, der die schrittweise Abschaffung von chemischen Tierversuchen vorsieht. Es ist ein großer und wichtiger Schritt weg von tiergestützten Toxizitätstests, der dafür sorgen wird, dass jedes Jahr Zehntausende von Tieren verschont bleiben. Zudem wird er die öffentliche Gesundheit und den Umweltschutz durch fortschrittlichere und relevante Tests zum Nutzen aller Kanadier\*innen voranbringen."
 
 ## Die Ergebnisse aus Tierversuchen sind nicht auf Menschen übertragbar
 

@@ -49,7 +49,7 @@ Die Fähigkeit, Schmerz zu empfinden, ist für ihn die Voraussetzung dafür, Int
 
 In unserer heutigen Gesellschaft verzerrt sich das Bild, das wir von unseren tierischen Mitlebewesen haben, immer mehr. Die wenigsten hinterfragen dabei ihr Handeln. Das begründet der Autor vor allem damit, dass die Distanz der meisten Menschen heute sehr groß ist. So schreibt er auf Seite 125
 
-> "Für die meisten Menschen und insbesondere für diejenigen, die in Städten oder deren Umfeld leben, ist die unmittelbarste Begegnung, mit nichtmenschlichen Tieren eine Mahlzeit: wir essen sie. Diese einfache Tatsache ist der Schlüssel zu unserer Einstellung gegenüber anderen Lebewesen und auch der Schlüssel dazu, was jede⋆r einzelne von uns tun kann, um diese Einstellung zu ändern."
+> "Für die meisten Menschen und insbesondere für diejenigen, die in Städten oder deren Umfeld leben, ist die unmittelbarste Begegnung, mit nichtmenschlichen Tieren eine Mahlzeit: wir essen sie. Diese einfache Tatsache ist der Schlüssel zu unserer Einstellung gegenüber anderen Lebewesen und auch der Schlüssel dazu, was jede\*r einzelne von uns tun kann, um diese Einstellung zu ändern."
 
 ## Tiere begegnen den meisten nur noch als Nahrung auf dem Teller
 

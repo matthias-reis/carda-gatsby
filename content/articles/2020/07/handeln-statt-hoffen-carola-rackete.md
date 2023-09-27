@@ -77,7 +77,7 @@ Mit "Handeln statt hoffen" hat Carola Rackete einen Aufruf veröffentlicht, jetz
 
 > "Wirklich etwas zu ändern, erfordert größeren Kraftaufwand, aber wir haben keine Wahl"
 
-Auf Seite 143 geht sie auf jede⋆n von uns persönlich ein
+Auf Seite 143 geht sie auf jede\*n von uns persönlich ein
 
 > "Wenn Du jung genug bist, um den Klimazusammenbruch mit voller Wucht zu erleben, bist Du aufgefordert, Deine Zukunft zu verteidigen. Wenn Du älter bist, ist dies der Zeitpunkt, um wirklich etwas für nachfolgende Generationen zu tun.
 
@@ -89,7 +89,7 @@ Auf Seite 143 geht sie auf jede⋆n von uns persönlich ein
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggE/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDBAURAAYSIRMxQVEiMpFTYXGy4v/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAiEQACAgECBwEAAAAAAAAAAAABAgADETHwBBMiQWGBodH/2gAMAwEAAhEDEQA/AEHH56SlibzVCFJ2Sbi+AGBPWR/B1oGjsD2Cvnliu1c1pWF5UhDhZABCrhi59SST8DGkndacIu4KYjJp6ouM5zjK/wCtaEjdavYK1M5PI7fzJ+7BBG39dZesPWVPiHwth5jA9s/sqd6sVyoFt12vFbcHt0khWRhIVFQXbCZKyjAxxH0/HWoK2XOhutxu9pWmraaqpIJpOa3CWVD41bP3g+4HWffVt33eaGq21bIEmkaEzwClQ13MhvIpflH7ccdaX+zKGtod47waegqYoXork3keFuOQHxhsYGe9TqjKuTv6Z0L8FvW9MSGmoK2/3S+VlDSypS1kh4eUiMt92CQfQdj8aeezBHDtW22m5VId4qKaCWXlhX5PyCnIPXt6fjRo0xPSZCqCu0uNZ3XC0WR3LPclZiwOeK9fUG/S7wQD3pM38yGGWITVEIjM0aiOcqHjaR2PMDGc8ie/nRo0FNaoMLHsctP/2Q=="
 />
 
-Sie hat bereits in jungen Jahren das ewige Eis schmelzen sehen und war live dabei, als Wissenschaftler⋆innen sprachlos vor den Auswirkungen der Klimakatastrophe standen. Auf Seite 61 beschriebt sie, wie sie gemeinsam mit einem Kollegen das ewige Eis am Nordpol inspizierte.
+Sie hat bereits in jungen Jahren das ewige Eis schmelzen sehen und war live dabei, als Wissenschaftler\*innen sprachlos vor den Auswirkungen der Klimakatastrophe standen. Auf Seite 61 beschriebt sie, wie sie gemeinsam mit einem Kollegen das ewige Eis am Nordpol inspizierte.
 
 "'Das ist einjähriges Eis', sagte der Kapitän zu mir. 'Habe ich noch nie gesehen. Vor 20 Jahren sind wir zusammen mit einem schwedischen Eisbrecher hier gewesen. Das war noch ziemlich schwierig. Jetzt ist kaum noch Eis da.' Wir mussten eine halbe Stunde mit dem Helikopter suchen, um ewiges Eis zu finden."
 

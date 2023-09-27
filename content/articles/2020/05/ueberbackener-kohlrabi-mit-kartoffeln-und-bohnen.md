@@ -67,6 +67,6 @@ Den wunderbaren Kohlrabi und die Kartoffeln aus diesem Rezept habe ich aus unser
 
 Allein in Deutschland gibt es 30 weiße und 14 blaue Kohlrabi-Sorten. Das Gemüse wird traditionell auch "Oberkohlrabi", "Stängelrübe" oder "Kohlrübe" genannt. Regional gibt es noch viele weitere Bezeichnungen. In den zumeist verarbeiteten über der Erde wachsenden Knollen stecken je 100 Gramm rund 380 mg Kalium, 70 mg Kalzium, 50 mg Phosphor, 45 mg Magnesium sowie 0,9 mg Eisen. Außerdem liefern sie rund 65 mg Vitamin C, 0,2 mg Vitamin A, 0,05 mg Vitamin B1, 0,05 mg Vitamin B2 sowie 1,8 mg Niacin bei nur 24 Kalorion pro 100 Gramm. Auf die Kalorien habe ich bei diesem Rezept jedoch nicht geachtet.
 
-Wer sich etwas Gutes tun möchte, packt frische Kohlrabiblätter in einen grünen Smootie. Die Blätter enthalten zehn mal mehr Eisen, doppelt so viel Vitamin C und 100 mal so viel Calcium, wie die Kohlrabi-Knollen. Vorsicht, das klappt nicht mit jeder Sorte. Fragt am besten den⋆die Gemüsehändler⋆in Eures Vertrauens.
+Wer sich etwas Gutes tun möchte, packt frische Kohlrabiblätter in einen grünen Smootie. Die Blätter enthalten zehn mal mehr Eisen, doppelt so viel Vitamin C und 100 mal so viel Calcium, wie die Kohlrabi-Knollen. Vorsicht, das klappt nicht mit jeder Sorte. Fragt am besten den\*die Gemüsehändler\*in Eures Vertrauens.
 
 <Gallery name="kohlrabi" />

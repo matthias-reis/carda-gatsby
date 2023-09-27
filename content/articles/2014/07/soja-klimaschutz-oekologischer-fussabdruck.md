@@ -63,7 +63,7 @@ month: '07'
 
 **Wie versprochen, habe ich zehn Fakten über vegane Ernährung für Euch vorbereitet. Fakten, die zum Nachdenken anregen. Fakten, die jedem von uns bewusst sein sollten.**
 
-Wie schon berichtet, werden mir seit meiner Ernährungsumstellung Fragen über Fragen gestellt, immer häufiger kommt es zu unsachlichen Debatten, ausgelöst von verständnislosen Fleischesser⋆innen, die nur den Kopf über mich schütteln. Das könnte eine Kombination aus Selbstschutz, Verdrängung und schlechtem Gewissen sein, habe ich mir sagen lassen?
+Wie schon berichtet, werden mir seit meiner Ernährungsumstellung Fragen über Fragen gestellt, immer häufiger kommt es zu unsachlichen Debatten, ausgelöst von verständnislosen Fleischesser\*innen, die nur den Kopf über mich schütteln. Das könnte eine Kombination aus Selbstschutz, Verdrängung und schlechtem Gewissen sein, habe ich mir sagen lassen?
 
 Selbstverständlich möchte ich das niemandem unterstellen. Noch weniger möchte ich den Menschen, denen ich begegne, Unwissenheit vorwerfen. Meine Faktensammlung lege ich, [wie schon kurz berichtet](/2014/08/ich-war-so-muede/) in erster Linie an, um meinen Wissensdurst zu stillen und Informationen sind dazu da, sie zu teilen. Was der/die Einzelne mit Ihnen macht, bleibt jedem/r selbst überlassen. Da bereits Fakt 1 ziemlich umfangreich geworden ist und noch neun weitere hochinteressante Themen folgen werden, habe ich mich für eine Artikelserie entschieden. Das hier ist also Teil I. meiner "10 Fakten über vegane Ernährung".
 

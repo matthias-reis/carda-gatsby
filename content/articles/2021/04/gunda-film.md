@@ -43,13 +43,13 @@ Die Bilder wurden in wirkungsvollem Schwarz-Weiß-Stil festgehalten. Die Tonspur
 
 "Gunda" zeigt uns, wie intelligent, sensibel, besonders, neugierig und lebensfroh unsere Mitgeschöpfe sein. Kossakovsky selbst ist laut eigener Aussage überzeugter Vegetarier. Für ihn ist sein Film ein kommentarloser Aufruf an die Menschheit – gespickt mit zahlreichen überzeugenden Argumenten.
 
-Hauptdarstellerin ist die Schweinedame Gunda, die einen Wurf Ferkel zur Welt bringt. Die Schweine werden auf ihrem Bauernhof für sechs Monate von der Kamera begleitet. Durch die nicht vorhandenen Dialoge ist ein einfühlsamer Film entstanden, der Kritiker⋆innen auf der ganzen Welt begeistert.
+Hauptdarstellerin ist die Schweinedame Gunda, die einen Wurf Ferkel zur Welt bringt. Die Schweine werden auf ihrem Bauernhof für sechs Monate von der Kamera begleitet. Durch die nicht vorhandenen Dialoge ist ein einfühlsamer Film entstanden, der Kritiker\*innen auf der ganzen Welt begeistert.
 
 ## Kossakovsky hat auf blutige Bilder verzichtet
 
 ![Gunda Movie. Picture © gunda.movie.com](https://storage.googleapis.com/cardamonchai-media/2021-11-21/gunda-3-jpg-imagine-080808_8f9598_1024_768/640.webp 'Gunda Movie. Picture © gunda.movie.com')
 
-Auf brutale Bilder Victor Kossakovsky im Gegensatz zu anderen Tierrechts-Filmen bewusst verzichtet. Es werden keine Szenen aus der Massentierhaltung oder aus Schlachthören gezeigt. Kossakovsky hat es laut den Kritiker⋆innen dennoch geschafft, seine Aussage klar herauszuarbeiten – ohne dabei für Schuldgefühle oder gar Ekel zu sorgen.
+Auf brutale Bilder Victor Kossakovsky im Gegensatz zu anderen Tierrechts-Filmen bewusst verzichtet. Es werden keine Szenen aus der Massentierhaltung oder aus Schlachthören gezeigt. Kossakovsky hat es laut den Kritiker\*innen dennoch geschafft, seine Aussage klar herauszuarbeiten – ohne dabei für Schuldgefühle oder gar Ekel zu sorgen.
 
 Gegenüber der GQ äußerte sich der Filmemacher so:
 

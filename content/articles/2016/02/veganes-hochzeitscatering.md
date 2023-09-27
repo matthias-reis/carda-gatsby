@@ -81,7 +81,7 @@ Da wir ziemlich schnell sehr viele Aufträge bekamen, holten wir Bastian Wittman
 
 ## "Wir planen, ein Buch zu veröffentlichen"
 
-**Fabian:** Ja, die gibt es. Wir planen, Ende des Jahres ein Alohachérie-Buch zu veröffentlichen. Darin finden die Leser⋆innen nicht nur Rezepte aus Bastis fantastischer Gourmet-Küche, sondern auch Rezepte für Einsteiger, Tipps zur veganen Ernährungsweise in besonderen Lebenssituationen wie zum Beispiel in der Schwangerschaft sowie Informationen zu den heilenden Kräften von Nahrungsmitteln.
+**Fabian:** Ja, die gibt es. Wir planen, Ende des Jahres ein Alohachérie-Buch zu veröffentlichen. Darin finden die Leser\*innen nicht nur Rezepte aus Bastis fantastischer Gourmet-Küche, sondern auch Rezepte für Einsteiger, Tipps zur veganen Ernährungsweise in besonderen Lebenssituationen wie zum Beispiel in der Schwangerschaft sowie Informationen zu den heilenden Kräften von Nahrungsmitteln.
 
 Wir haben erst vor ein paar Tagen entsprechende Rubriken in unserem Blog auf unserer Website neu eingerichtet: "Bastis Küchentricks", "Ewas und Fabis vegane Welt" und "Grüne Apotheke". Außerdem planen wir 2017 eine Kochschule zu eröffnen.
 

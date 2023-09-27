@@ -31,7 +31,7 @@ labels:
 language: de
 ---
 
-**Whoopi Goldberg hat sich jetzt für einen neuen Kurzfilm zum Thema Klimaschutz mit den Aktivist⋆innen von Extinction Rebellion zusammengetan.**
+**Whoopi Goldberg hat sich jetzt für einen neuen Kurzfilm zum Thema Klimaschutz mit den Aktivist\*innen von Extinction Rebellion zusammengetan.**
 
 Der dreiminütige Kurzfilm trägt den Namen "The Gigantic Change". Er zeigt eine Großmutter, gesprochen von Whoopi Goldberg, und ihre Enkeltochter, gesprochen von Livia Nelson, die sich im Jahr 2050 treffen, um eine Geschichte darüber zu lesen, wie die Menschen gegen die Klimakrise gekämpft haben.
 

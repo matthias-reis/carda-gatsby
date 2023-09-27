@@ -66,7 +66,7 @@ Die zweite Platte, die ich Euch heute empfehle, stammt von Maudits. Das ebenfall
 
 ![Maudits – "Angel Mort" Plattencover (Eine Bleistiftzeichnung von einer Hand, die im hohen Gras nach einer zerbrochenen Blume greift)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/maudits-jpeg-imagine-e8e8e8_979797_425_419/640.webp 'Maudits – "Angel Mort"')
 
-COVID-19 und drei Niederlagen, welche die Band hinnehmen musste, verschafften Maudits etwas Zeit, an neuen Stücken zu arbeiten. So schafften die Künstler⋆innen es, sich in Zeiten von Social Distancing so gut es geht abzulenken - und diese Ablenkung klingt wirklich gut! "Angel Mort" ist auf jeden Fall ein würdiger Nachfolger für "Maudits".
+COVID-19 und drei Niederlagen, welche die Band hinnehmen musste, verschafften Maudits etwas Zeit, an neuen Stücken zu arbeiten. So schafften die Künstler\*innen es, sich in Zeiten von Social Distancing so gut es geht abzulenken - und diese Ablenkung klingt wirklich gut! "Angel Mort" ist auf jeden Fall ein würdiger Nachfolger für "Maudits".
 
 Die Platte besteht aus zwei neuen Kompositionen und drei überarbeiteten, neu strukturierten und neu aufgenommenen Songs, die auch bereits auf dem ersten Album zu finden waren. Die Vision war bei der Zusammenarbeit mit den Henosis Studios, die auch schon beim ersten Album im Boot waren, war von Anfang an klar. Diese Neuinterpretation ist so gut gelungen, dass man die Stücke fast als komplett neue Songs bezeichnen könnte.
 

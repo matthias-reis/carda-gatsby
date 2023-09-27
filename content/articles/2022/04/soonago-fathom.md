@@ -35,7 +35,7 @@ Was mir beim ersten Hördurchgang von "Fathom" gleich als Erstes aufgefallen ist
 
 ![SOONAGO – Fathom](https://storage.googleapis.com/cardamonchai-media/2022-04-04/soonago-fathom-png-imagine-d8c8a8_968773_1080_1080/640.webp 'SOONAGO – Fathom')
 
-Mit "Fathom" verarbeiten SOONAGO die politischen Ereignisse der letzten Jahre. Während die Band mit dem Schreiben der Songs beschäftigt war, prasselten permanent Meldungen über die Missstände rund um den Globus auf sie ein – an der Härte einiger Stücke kann man die Gefühle der Musiker⋆innen dazu durchaus erahnen. Besonders "Fathom", "Evac" und "Apophenia" stechen hier hervor. Kurz vor der Veröffentlichung des Albums veröffentlichten SOONAGO dazu dieses klare Statement:
+Mit "Fathom" verarbeiten SOONAGO die politischen Ereignisse der letzten Jahre. Während die Band mit dem Schreiben der Songs beschäftigt war, prasselten permanent Meldungen über die Missstände rund um den Globus auf sie ein – an der Härte einiger Stücke kann man die Gefühle der Musiker\*innen dazu durchaus erahnen. Besonders "Fathom", "Evac" und "Apophenia" stechen hier hervor. Kurz vor der Veröffentlichung des Albums veröffentlichten SOONAGO dazu dieses klare Statement:
 
 > "Wir sind zwar eine Band ohne Gesang, aber nicht ohne Stimme gegen rechts."
 

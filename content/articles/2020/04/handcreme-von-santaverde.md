@@ -65,7 +65,7 @@ Alle Produkte sind Vegan Society zertifiziert und mit dem Siegel für strengste
 ### Santaverde Handcreme Inhaltsstoffe (Volldeklaration)
 
 <small>
-  Aloe Vera Saft⋆, Weingeist⋆, pflanzl. Emulgator, pflanzl. Fettalkohol,
+  Aloe Vera Saft\*, Weingeist\*, pflanzl. Emulgator, pflanzl. Fettalkohol,
   Mandelöl⋆, Sheabutter⋆, pflanzl. Glycerin, Kokosöl⋆, pflanzl. Betain,
   Kakaobutter⋆, Sanddornextrakt⋆, Zistrosenextrakt⋆, Xanthan, Vitamin E,
   Sonnenblumenöl⋆, pflanzl. Anissäure, Vitamin C Palmitat, pflanzl.

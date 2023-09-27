@@ -74,9 +74,9 @@ Dani legte den Grundstein für Arvensis im Jahr 2011. Seit 2013 nimmt sie Platte
 
 **Dani:** Ja, ich glaube, es ist hat auch eine potenziell düsterere Stimmung, als mein Album "Downwards". Ich glaube, es ist eine Vielzahl von Faktoren, die dazu geführt haben. Es hat eine Menge mit der Wahrnehmungen der Welt und meinen persönlichen Gefühlen zu tun. Nachdem ich in meinem Leben unbeabsichtigt an vielen düsteren Orten gewesen bin, habe ich eine gemischte Sicht der Dinge. Obwohl ich im Allgemeinen versuche, positiv zu bleiben. Das hat zur Düsternis und Ernsthaftigkeit des Albums auf jeden Fall beigetragen.
 
-**Anne:** Hast Du für "AXIS" mit anderen Musiker⋆innen zusammengearbeitet?
+**Anne:** Hast Du für "AXIS" mit anderen Musiker\*innen zusammengearbeitet?
 
-## "Ich habe mit wundervollen Künstler⋆innen zusammengearbeitet"
+## "Ich habe mit wundervollen Künstler\*innen zusammengearbeitet"
 
 **Dani:** Ja! Ich hatte die Freude mit zweien meiner Freund⋆innen, beide wundervolle Künstler⋆innen, zusammenzuarbeiten. Der eine ist Murice White of Pyre. Er ist auf "Stasis" und "Wuther" zu hören. Pyre hat einen ziemlichen Lärm gemacht. Er hatte einen ziemlich positiven Einfluss auf meine Musik. Der andere ist [Chris Hunt](/2020/08/chris-hunt-torrent-merigold-independent/), den ich als Künstler sehr verehre. Er ist in meinem Song "At-To-Start" zu hören und bringt meinem Sound den elektronischen Punch mit!
 

@@ -29,7 +29,7 @@ language: de
 
 Im Podcast von Matt Morgan[^1] äußerte sich Noel Gallagher wie folgt zum Thema:
 
-> "Ich habe eine 11-köpfige Band. Nennen wir es doch beim Namen: Sie sind alle Veganer⋆innen und Vegetarier⋆innen und sie sind alle Teil meiner Band!"
+> "Ich habe eine 11-köpfige Band. Nennen wir es doch beim Namen: Sie sind alle Veganer\*innen und Vegetarier\*innen und sie sind alle Teil meiner Band!"
 
 Die Ausstattung, die er selbst auf Tour benötigt, sei hingegen jedoch eher "klassisch" geblieben:
 

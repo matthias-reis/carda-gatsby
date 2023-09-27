@@ -70,7 +70,7 @@ Der Satz "These Are Not Your Dreams" ("Das sind nicht Deine Träume") fasst für
 
 "We suspect our listeners around the world can look at their own situation and reflect on that phrase without needing a specific interpretation from us of what this art 'means.'"
 
-("Wir vermuten, dass unsere Zuhörer⋆innen auf der ganzen Welt ihre persönliche Situation betrachten und über diesen Satz nachdenken können, ohne dabei eine spezifische Interpretation dessen zu benötigen, was Kunst für uns 'bedeutet'")
+("Wir vermuten, dass unsere Zuhörer\*innen auf der ganzen Welt ihre persönliche Situation betrachten und über diesen Satz nachdenken können, ohne dabei eine spezifische Interpretation dessen zu benötigen, was Kunst für uns 'bedeutet'")
 
 </blockquote>
 

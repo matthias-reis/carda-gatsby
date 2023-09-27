@@ -84,7 +84,7 @@ Es gibt ein paar Punk und Dance Elemente, die ihren Weg auf "Look Alive" gefunde
 
 **Jonathon:** Ich habe mir vor eine paar Jahren eine kreative Pause von Unwed Sailor genommen. Ich wollte mich damals kurzfristig auf andere Projekte fokussieren. Wie auch immer: Nach dieser kreativen Pause habe ich realisiert, dass mein Hauptfokus auf Unwed Sailor liegen sollte. Diese Band bringt meine Ideen am besten zum Ausdruck.
 
-**Anne:** Sam von Of The Vine hat mir erzählt, dass Du ein großer Einfluss für ihn und seine Musik bist. Er hat vor allem über die Unwed Sailor Platte "Firecracker" gesprochen. Gibt es Künstler⋆innen, mit denen es Dir ähnlich geht? Musiker⋆innen, die dich besonders beeindruckt oder beeinflusst haben? Ich glaube, ich kann auf der neuen Platte ein paar The Cure Einflüsse hören?
+**Anne:** Sam von Of The Vine hat mir erzählt, dass Du ein großer Einfluss für ihn und seine Musik bist. Er hat vor allem über die Unwed Sailor Platte "Firecracker" gesprochen. Gibt es Künstler\*innen, mit denen es Dir ähnlich geht? Musiker\*innen, die dich besonders beeindruckt oder beeinflusst haben? Ich glaube, ich kann auf der neuen Platte ein paar The Cure Einflüsse hören?
 
 ## "New Order haben mich stark beeinflusst"
 

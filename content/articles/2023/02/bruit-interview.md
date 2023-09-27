@@ -27,7 +27,7 @@ languageLink: /2023/02/bruit-interview-en/
 
 **Wenn Ihr Euch schon mal mit französischer Post-Music beschäftigt habt, sind Euch BRUIT ≤ ein Begriff. Sie sorgen mit ihrem beeindruckenden, düsteren Sound für Aufsehen und stechen damit klar aus der europäischen Szene hervor. Ich hatte schon ein paar Mal das Privileg, sie live erleben zu dürfen und war jedes Mal beeindruckt. Jetzt hatte ich die Gelegenheit Gitarrist Théophile Antolinos für ein Interview zu treffen und habe sie natürlich genutzt.**
 
-Vor Kurzem zogen BRUIT ≤ die Aufmerksamkeit mit ihrem Manifest gegen den Musik-Streaming-Service Spotify auf sich. Mit "The Boycott Manifesto" bringen sie ihren Ärger über die Ausbeutung von Künstler⋆innen durch das Portal und ihren Inhaber zum Ausdruck – und gegen die Ungerechtigkeit des Algorithmus, mit dem heute der Erfolg einer Band steht und fällt. Die Themen bieten natürlich jede Menge Gesprächsmaterial – schließlich betreffen sie uns alle irgendwie. Ich wollte sie mir also mit all ihren Aspekten anschauen.
+Vor Kurzem zogen BRUIT ≤ die Aufmerksamkeit mit ihrem Manifest gegen den Musik-Streaming-Service Spotify auf sich. Mit "The Boycott Manifesto" bringen sie ihren Ärger über die Ausbeutung von Künstler\*innen durch das Portal und ihren Inhaber zum Ausdruck – und gegen die Ungerechtigkeit des Algorithmus, mit dem heute der Erfolg einer Band steht und fällt. Die Themen bieten natürlich jede Menge Gesprächsmaterial – schließlich betreffen sie uns alle irgendwie. Ich wollte sie mir also mit all ihren Aspekten anschauen.
 
 **Anne:** Hi Théo! Danke, dass Du Dir die Zeit für das Gespräch nimmst! Es ist mir eine Ehre, Dich endlich mal persönlich kennenzulernen! Wie geht es Dir heute?
 
@@ -59,7 +59,7 @@ Weißt Du, wenn ich mir morgen eine Dokumentation über die Schäden, die fossil
 
 **Anne:** Den Rest Eures Katalogs kann man nur auf Vinyl oder über Bandcamp kaufen. Und Eure Fans lieben diese Tatsache. Ich denke, die meisten von uns können sich sehr gut mit Eurer Entscheidung, Eure Musik von Spotify & Co. fernzuhalten, identifizieren – und wir respektieren Euch dafür! Denkst Du denn, dass Ihr mehr Musik verkaufen würdet, wenn Ihr auf den Plattformen vertreten wärt?
 
-**Théophile:** Ich habe keine Ahnung. Wenn es um den Verkauf geht, lässt sich das schwer vergleichen, weil man dort als Künstler⋆in so gut wie nichts für seine Musik bekommt. Natürlich würden uns mehr Menschen entdecken. Ich würde also sagen, wir fokussieren uns mehr auf die Qualität als auf die Quantität.
+**Théophile:** Ich habe keine Ahnung. Wenn es um den Verkauf geht, lässt sich das schwer vergleichen, weil man dort als Künstler\*in so gut wie nichts für seine Musik bekommt. Natürlich würden uns mehr Menschen entdecken. Ich würde also sagen, wir fokussieren uns mehr auf die Qualität als auf die Quantität.
 
 **Anne:** Ich denke, für junge Künstler⋆innen seid Ihr ziemlich gute Vorbildern mit Euren Statements und Eurer Haltung. Ich meine: Es ist Eure Musik und Ihr allein solltet entscheiden, was damit passiert! Welchen Tipp würdest Du einer frisch gegründeten Band geben? Wie würdest Du Ihnen raten, mit der Sache umzugehen?
 

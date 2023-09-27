@@ -37,7 +37,7 @@ labels:
   - Nussmilchbeutel
 language: de
 type: Artikel
-description: Als Veganer⋆in hat man eine schier endlose Auswahl an Pflanzendrinks. Nahezu alle Nüsse und Hülsenfrüchte lassen sich zu Milch-Alternativen verarbeiten. Ich verrate Euch heute mein Rezept für selbst gemachte Sojamilch.
+description: Als Veganer*in hat man eine schier endlose Auswahl an Pflanzendrinks. Nahezu alle Nüsse und Hülsenfrüchte lassen sich zu Milch-Alternativen verarbeiten. Ich verrate Euch heute mein Rezept für selbst gemachte Sojamilch.
 ---
 
 **Als Veganer\*in hat man eine schier endlose Auswahl an Pflanzendrinks. Nahezu alle Nüsse und Hülsenfrüchte lassen sich zu Milch-Alternativen verarbeiten. Ich verrate Euch heute mein Rezept für selbst gemachte Sojamilch.**

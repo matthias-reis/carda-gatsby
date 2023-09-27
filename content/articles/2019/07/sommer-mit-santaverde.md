@@ -75,7 +75,7 @@ Normalerweise habe ich in Phasen mit viel Sonne eher raue Haut, auch mal ein paa
 ### Inhaltsstoffe - Das steckt in der Age Protect Intensive Treatment Ampullenkur
 
 <small>
-  Aloe Vera Saft⋆, Aloe Vera Blütenextrakt⋆, Weingeist⋆, Rosenblüten-hydrolat⋆,
+  Aloe Vera Saft\*, Aloe Vera Blütenextrakt\*, Weingeist⋆, Rosenblüten-hydrolat⋆,
   Sanddornextrakt⋆, Apfelextrakt⋆, Lavendelblütenextrakt⋆, Weidenrindenextrakt,
   pflanzl. Glycerin, Wirkstoffkomplex aus Wurzelextrakten, Hyaluronsäure,
   Meeresalgenextrakt, pflanzl. Levulinsäure, pflanzl. Natriumlevulinat, Glucose,

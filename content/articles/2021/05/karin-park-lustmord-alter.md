@@ -38,7 +38,7 @@ languageLink: /2021/05/karin-park-lustmord-alter-en
 
 Gute Kollaborationen haben bei Pelagic Records Tradition. Die Berliner Musikschmiede um die Post-Metal Giganten von [The Ocean](/2020/09/the-ocean-robin-staps-interview/) haben nun mal ein Gespür für hochwertige Musik. Dabei werden vor allem die Post-Musik Genres bedient. Dazu zählt unter anderem auch die Horror Score Ecke.
 
-Freund⋆innen von Portishead, Dead Can Dance und Hans Zimmers Werken werden auf jeden Fall voll auf Ihre Kosten kommen und auch Fans von Tool Kopf und Soundgenie Maynard James Keenan (mit dem Lustmord schon mehrfach zusammengearbeitet hat) und Godspeed You! Black Emporer sollten auf jeden Fall weiterlesen.
+Freund\*innen von Portishead, Dead Can Dance und Hans Zimmers Werken werden auf jeden Fall voll auf Ihre Kosten kommen und auch Fans von Tool Kopf und Soundgenie Maynard James Keenan (mit dem Lustmord schon mehrfach zusammengearbeitet hat) und Godspeed You! Black Emporer sollten auf jeden Fall weiterlesen.
 
 ## Fantasievoll und furchteinflößend
 

@@ -28,7 +28,7 @@ language: de
 
 - - -
 
-**Hinweis:** Weiter unten findet Ihr einen Gutschein für Eure nächste Bestellung bei MICARAA.⋆
+**Hinweis:** Weiter unten findet Ihr einen Gutschein für Eure nächste Bestellung bei MICARAA.\*
 
 - - -
 
@@ -74,6 +74,6 @@ Die von mir getesteten Produkte könnt Ihr im Set oder einzeln kaufen. Mit dem [
 
 Der Leitsatz von MICARAA lautet "Give yourself a moment", also "Gönne Dir einen Moment für Dich selbst". Ich finde, die Calm Serie passt wunderbar zu diesem Credo. Meiner Haut jeden Tag etwas Gutes zu tun, kann für mich genauso entspannend sein, wie ein [Achtsamkeit-Spaziergang](/2020/10/spaziergang-fuer-die-seele/) oder [eine Runde Yoga](/2021/02/yoga-stile/).
 
-⋆Wenn Ihr neugierig geworden seid und die MICARAA Produkte auch mal testen wollt, bekommt Ihr mit meinem persönlichen Gutschein **zehn Prozent Rabatt**. Gebt dafür bei Eurer Bestellung einfach den Gutscheincode **anne10** ein.
+\*Wenn Ihr neugierig geworden seid und die MICARAA Produkte auch mal testen wollt, bekommt Ihr mit meinem persönlichen Gutschein **zehn Prozent Rabatt**. Gebt dafür bei Eurer Bestellung einfach den Gutscheincode **anne10** ein.
 
 <Gallery name="micaraa-calm-2" />

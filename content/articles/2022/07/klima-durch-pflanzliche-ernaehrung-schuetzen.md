@@ -6,7 +6,7 @@ title: Das Klima durch pflanzliche Ernährung schützen
 subTitle: Albert Schweitzer Stiftung klärt auf
 seoTitle: 'Albert Schweitzer Stiftung: Das Klima durch pflanzliche Ernährung schützen'
 description: Die Albert Schweitzer Stiftung veröffentlichte jetzt ein vierminütiges Video zum Thema "Das Klima durch pflanzliche Ernährung schützen". Es bietet einen Überblick über alle wichtigen Punkte.
-excerpt: Die Albert Schweitzer Stiftung veröffentlichte jetzt ein vierminütiges Video, in dem Präsident Mahi Klosterhalfen erklärt, woran es liegt, dass Tierprodukte so eine schlechte Klimabilanz haben und welchen Einfluss jede⋆r Einzelne von uns auf das Klima nehmen kann – vor allem durch die Ernährung.
+excerpt: Die Albert Schweitzer Stiftung veröffentlichte jetzt ein vierminütiges Video, in dem Präsident Mahi Klosterhalfen erklärt, woran es liegt, dass Tierprodukte so eine schlechte Klimabilanz haben und welchen Einfluss jede*r Einzelne von uns auf das Klima nehmen kann – vor allem durch die Ernährung.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-07/klima-durch-pflanzliche-ernaehrung-schuetzen-jpeg-imagine-c8d8d8_948d70_1024_768/640.webp
 copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-07/klima-durch-pflanzliche-ernaehrung-schuetzen-fb-jpeg-imagine-d8e8e8_938d74_1200_628/640.webp
@@ -29,7 +29,7 @@ affiliate: false
 language: de
 ---
 
-**Die Albert Schweitzer Stiftung veröffentlichte jetzt ein vierminütiges Video, in dem Präsident Mahi Klosterhalfen erklärt, woran es liegt, dass Tierprodukte so eine schlechte Klimabilanz haben und welchen Einfluss jede⋆r Einzelne von uns auf das Klima nehmen kann – vor allem durch die Ernährung.**
+**Die Albert Schweitzer Stiftung veröffentlichte jetzt ein vierminütiges Video, in dem Präsident Mahi Klosterhalfen erklärt, woran es liegt, dass Tierprodukte so eine schlechte Klimabilanz haben und welchen Einfluss jede\*r Einzelne von uns auf das Klima nehmen kann – vor allem durch die Ernährung.**
 
 Mahi Klosterhalfen erwähnt unter anderem den aktuellen Bericht des Weltklimarats IPCC, aus dem hervorgeht, dass die Erderhitzung deutlich schneller voranschreitet, als bisher angenommen.
 
@@ -97,7 +97,7 @@ Hinzu kommt natürlich die Energieversorgung der Ställe und Schlachthöfe sowie
 
 Zum Abschluss geht Mahi Klosterhalfen auf die Vorzüge veganer Ernährung ein und rät, sich auch über die weiteren Argumente zu informieren. Sprich: das Leid der Tiere, die bedrohte Artenvielfalt, die sterbende Natur und die menschliche Gesundheit. [Fleisch ist schlecht für das Klima](/2021/09/treibhausgas-emissionen-fleisch/) und es wird wirklich höchste Zeit, dass wir uns nach Alternativen umsehen.
 
-Ich lege Euch Mahi Klosterhalfens Video hiermit ans Herz. Es fasst wirklich alles kurz und knackig zusammen. Daher kann man es zum Beispiel auch wunderbar zum Weiterleiten an Freund⋆innen und Bekannte verwenden. Für mich ist es ein starker Aufruf und eine wunderbare Zusammenfassung aller das Klima betreffenden Argumente für eine vegane Lebensweise. Oder was meint Ihr? Allein die Tatsache, dass der Ausstoß ernährungsbedingter Treibhausgase bei Obst und Gemüse rund 70 Prozent niedriger ist, als bei Lebensmitteln tierischer Herkunft sollte doch als Überzeugung schon reichen?
+Ich lege Euch Mahi Klosterhalfens Video hiermit ans Herz. Es fasst wirklich alles kurz und knackig zusammen. Daher kann man es zum Beispiel auch wunderbar zum Weiterleiten an Freund\*innen und Bekannte verwenden. Für mich ist es ein starker Aufruf und eine wunderbare Zusammenfassung aller das Klima betreffenden Argumente für eine vegane Lebensweise. Oder was meint Ihr? Allein die Tatsache, dass der Ausstoß ernährungsbedingter Treibhausgase bei Obst und Gemüse rund 70 Prozent niedriger ist, als bei Lebensmitteln tierischer Herkunft sollte doch als Überzeugung schon reichen?
 
 **Quelle:** [Albert Schweitzer Stiftung für unsere Mitwelt](https://albert-schweitzer-stiftung.de/). Vielen Dank an Mahi Klosterhalfen und sein Team.
 

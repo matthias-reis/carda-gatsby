@@ -45,7 +45,7 @@ Die Fotos für diesen Artikel und die Anleitung für den Sauerteig stammt von me
 
 - 200 g Roggenmehl Type 997 oder Type 1150
 - 200 ml lauwarmes Wasser
-- 2 EL Sauerteig (selbst angesetzt von einem⋆r Freund⋆in oder getrocknet)
+- 2 EL Sauerteig (selbst angesetzt von einem\*r Freund\*in oder getrocknet)
 
 ## Zutaten für den Hauptteig
 

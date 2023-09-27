@@ -55,7 +55,7 @@ Dem Paar ist es außerdem wichtig, darauf aufmerksam zu machen, dass sich das Pr
 
 ## Drehstart vor Corona
 
-Der Dreh der Dokumentation startete im Oktober 2019. Zu diesem Zeitpunkt war COVID-19 noch kein Thema. Der Film enthält unter anderem Interviews mit einigen der weltweit führenden Wissenschaftler⋆innen. Ihre Forschungen und Aussagen kommen alle zu dem Schluss, dass der Gesundheitsnotstand, mit dem wir uns derzeit konfrontiert sehen, unvermeidbar war und noch lange nicht vorbei ist.
+Der Dreh der Dokumentation startete im Oktober 2019. Zu diesem Zeitpunkt war COVID-19 noch kein Thema. Der Film enthält unter anderem Interviews mit einigen der weltweit führenden Wissenschaftler\*innen. Ihre Forschungen und Aussagen kommen alle zu dem Schluss, dass der Gesundheitsnotstand, mit dem wir uns derzeit konfrontiert sehen, unvermeidbar war und noch lange nicht vorbei ist.
 
 > "Wir werden uns langsam der Bedrohung bewusst, die von Zoonosen ausgeht. Aber unsere Regierungen und die Mainstream-Medien konzentrieren sich nach wie vor auf das Löschen kleiner Brände, anstatt endlich mit der Prävention zu beginnen"
 

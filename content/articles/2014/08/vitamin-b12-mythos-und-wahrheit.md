@@ -6,7 +6,7 @@ title: Vitamin B12 - Mythos und Wahrheit
 seoTitle: Vitamin B12 - Mythos und Wahrheit - das müssen Veganer beachten
 ogTitle: Vitamin B12 - Mythos und Wahrheit - das müssen Veganer beachten
 description: Die DGE (Deutsche Gesellschaft für Ernährung) empfiehlt 3 µg (schwangere Frauen 4 µg) Vitamin B12 pro Tag zu supplementieren.
-excerpt: Die DGE (Deutsche Gesellschaft für Ernährung) empfiehlt 3 µg (schwangere Frauen 4 µg) Vitamin B12 pro Tag zu supplementieren. Das gilt für Veganer⋆innen genau, wie für alle anderen.
+excerpt: Die DGE (Deutsche Gesellschaft für Ernährung) empfiehlt 3 µg (schwangere Frauen 4 µg) Vitamin B12 pro Tag zu supplementieren. Das gilt für Veganer*innen genau, wie für alle anderen.
 fileName: 2014-08---vitamin-b12-mythos-und-wahrheit.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_14598683580_0f1b452d5a_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_14598683580_0f1b452d5a_z__l.jpg

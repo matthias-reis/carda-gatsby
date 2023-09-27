@@ -37,7 +37,7 @@ subTitle: Wo Tiere in Freiheit leben
 
 Auf dem 133.000 Quadratmeter großen Grundstück dürfen die Tiere ihr Leben genießen - ganz ohne dabei als "Nutztiere" ausgebeutet zu werden.
 
-Schulklassen, Veganer⋆innen, vegan-Interessierte und andere Neugierige können die Einrichtung besuchen und dort mit den Tieren in Kontakt treten. Jeden Sonntag finden auf dem Gelände Führungen statt und mehrmals im Jahr gibt es ein großes Fest. Workshops und vegane Kochkurse runden das Programm ab.
+Schulklassen, Veganer\*innen, vegan-Interessierte und andere Neugierige können die Einrichtung besuchen und dort mit den Tieren in Kontakt treten. Jeden Sonntag finden auf dem Gelände Führungen statt und mehrmals im Jahr gibt es ein großes Fest. Workshops und vegane Kochkurse runden das Programm ab.
 
 ## Das Land der Tiere rettet und klärt auf
 
@@ -73,7 +73,7 @@ Nach einem schweren Unfall auf der A24, bei dem drei Menschen ums Leben kamen un
 
 Insgesamt sollen sich in dem dänischen Tiertransporter 600 bis 700 Ferkel befunden haben. Zahlreiche von ihnen starben oder wurden schwer verletzt. Viele liefen geschockt auf der Autobahn herum.
 
-Viele der Tiere auf dem Hof sind der Tierindustrie entkommen. Im Land der Tiere können sie selbstbestimmt leben. Die menschlichen Besucher⋆innen können die Schafe, Schweine, Hühner, Enten, Schildkröten, Agamen, Kaninchen, Puten, Hunde und Katzen und ihre natürlichen Bedürfnisse kennenlernen.
+Viele der Tiere auf dem Hof sind der Tierindustrie entkommen. Im Land der Tiere können sie selbstbestimmt leben. Die menschlichen Besucher\*innen können die Schafe, Schweine, Hühner, Enten, Schildkröten, Agamen, Kaninchen, Puten, Hunde und Katzen und ihre natürlichen Bedürfnisse kennenlernen.
 
 Mit seinem großen Herz für alle Tiere zeigt das Land der Tiere, wie der Umgang, den wir mit unseren Mitlebewesen wirklich aussehen sollte. Wer sieht, wie groß der Unterschied ist zwischen einem Leben zwischen dunklem Stall und Schlachthof und einem in Freiheit, überdenkt häufig seine persönlichen Entscheidungen - Once you see them, you don't eat them.
 

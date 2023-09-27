@@ -79,7 +79,7 @@ Valentins erster Song kommt diesen Monat von seiner heimlichen Lieblingsband Che
 
 <blockquote>
 
-"Am 5. März kommt nach etwas Verzögerung durch die Pandemie endlich das neue, mittlerweile neunte, Chevelle Album 'Niratias' raus. Da die Lyrics der Vorab-Single von Wissenschafts-Kritikern handeln, glaubt man schnell, dass es hier um 2020 und Corona-Leugner⋆innen geht. Das ist allerdings nicht der Fall. Der Song 'Self Destructor' ist bereits im Jahre 2019 entstanden.
+"Am 5. März kommt nach etwas Verzögerung durch die Pandemie endlich das neue, mittlerweile neunte, Chevelle Album 'Niratias' raus. Da die Lyrics der Vorab-Single von Wissenschafts-Kritikern handeln, glaubt man schnell, dass es hier um 2020 und Corona-Leugner\*innen geht. Das ist allerdings nicht der Fall. Der Song 'Self Destructor' ist bereits im Jahre 2019 entstanden.
 
 Sänger und Gitarrist Pete Loeffler besitzt schon immer eine ausgeprägte Faszination für Wissenschafts- und  Weltraum-Themen.  Zudem ist er ein großer Fan des Astronomen Carl Sagan und auch von Elon Musk und anderen Leuten, die uns mit Ihren Entwicklungen in die Zukunft blicken lassen.
 
@@ -117,7 +117,7 @@ Den nächsten Song hat Matze ausgesucht:
 
 ## For Giants – "What Happened To You" vom Album "There There"
 
-Gut, dass es Bands wie For Giants gibt, die es schaffen, einem in der verzwicktesten Situation Momente der Klarheit zu verschaffen. Von dieser Post-Metal Band aus New York wird man sicher noch ganz viel hören. Wer sie noch nicht kennt, sollte sich neben dem neuen Album "There There" auch unbedingt die Vorgänger "The Lucky Ones" (2020) und "Big Sky" (2017) mal anhören. Freund⋆innen von The Mars Volta werden hier genauso glücklich, wie Fans von Billy Talent und [The Ocean](/2020/09/the-ocean-robin-staps-interview/).
+Gut, dass es Bands wie For Giants gibt, die es schaffen, einem in der verzwicktesten Situation Momente der Klarheit zu verschaffen. Von dieser Post-Metal Band aus New York wird man sicher noch ganz viel hören. Wer sie noch nicht kennt, sollte sich neben dem neuen Album "There There" auch unbedingt die Vorgänger "The Lucky Ones" (2020) und "Big Sky" (2017) mal anhören. Freund\*innen von The Mars Volta werden hier genauso glücklich, wie Fans von Billy Talent und [The Ocean](/2020/09/the-ocean-robin-staps-interview/).
 
 <YouTube id="94L-AkC_Bng" />
 

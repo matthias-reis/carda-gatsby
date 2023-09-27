@@ -40,7 +40,7 @@ Nicht nur in den großen Städten gibt es immer mehr [Restaurants und Cafés mit
 
 Im Bachelorstudiengang "B.A. Vegan Food Management" wird dieser aktuelle Trend aufgegriffen. Inhalte des Studiums sind unter anderem Betriebswirtschaft aber auch ernährungswissenschaftliches Wissen sowie Verhaltensforschung.
 
-Wer sich für das Studium entscheidet, lernt Produktions- und Verarbeitungsprozesse, Handel, Lebensmittelforschung und Ernährungslehre. Nach erfolgreichem Abschluss ist darf man sich dann vegan⋆er Foodexpert⋆in nennen und kann bei Themen wie Ethik, Grundlage der nachhaltigen Produkt- und Unternehmensstrategie und Soziologie mitreden.
+Wer sich für das Studium entscheidet, lernt Produktions- und Verarbeitungsprozesse, Handel, Lebensmittelforschung und Ernährungslehre. Nach erfolgreichem Abschluss ist darf man sich dann vegan\*er Foodexpert\*in nennen und kann bei Themen wie Ethik, Grundlage der nachhaltigen Produkt- und Unternehmensstrategie und Soziologie mitreden.
 
 ## Vegan Food Management studieren und die Zukunft gestalten
 

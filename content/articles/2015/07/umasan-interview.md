@@ -96,7 +96,7 @@ Bei der Fashion Week ist die vegane Mode von Umasan dieses Jahr mit einem privat
 
 ## "Fake-Pelz kann eine Alternative sein"
 
-**Anne:** Pelze sind ja (sogar im Sommer) momentan ein großer Modetrend. Dass Veganer⋆innen keinen Pelz tragen, ist klar. Jedoch überschwemmen Pelzimitate jeglicher Art mehr und mehr den Markt. Ein kontroverses, heißdiskutiertes Thema, kann man doch ["echt" nur schlecht von "fake" unterscheiden](/2014/11/fakepelz-echtpelz/). Zudem sind viele der Meinung, auch "fake" setze ein Statement für "echt". Wie seht Ihr das? Was ist Eure Einstellung zu Pelz und zur aufkeimenden, neuen Pelzmode im Allgemeinen?
+**Anne:** Pelze sind ja (sogar im Sommer) momentan ein großer Modetrend. Dass Veganer\*innen keinen Pelz tragen, ist klar. Jedoch überschwemmen Pelzimitate jeglicher Art mehr und mehr den Markt. Ein kontroverses, heißdiskutiertes Thema, kann man doch ["echt" nur schlecht von "fake" unterscheiden](/2014/11/fakepelz-echtpelz/). Zudem sind viele der Meinung, auch "fake" setze ein Statement für "echt". Wie seht Ihr das? Was ist Eure Einstellung zu Pelz und zur aufkeimenden, neuen Pelzmode im Allgemeinen?
 
 **Anja:** Ich denke, dass "fake” ist eine absolute Alternative ist und sehe dies auch nicht negativ. Echter Pelz ist ein absolutes Tabu und durchweg veraltet. Es gibt so viele innovative, neue Materialien, welche eine echte Alternative für die Zukunft sind und individuellen Ansprüchen gerecht werden.
 
@@ -116,7 +116,7 @@ Bei der Fashion Week ist die vegane Mode von Umasan dieses Jahr mit einem privat
 
 **Anne:** Was bietet Eure Kollektion?
 
-## "Unsere Kollektion bietet für jede⋆n etwas"
+## "Unsere Kollektion bietet für jede\*n etwas"
 
 **Anja:** Alles! Von Kleidern und Röcken, über Hosen, Mäntel, Jacken, Blusen und Hemden, Tops und Sweatshirts. Für Herren und Damen. Für jeden ist was dabei.
 

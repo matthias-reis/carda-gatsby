@@ -67,7 +67,7 @@ Hinter der Liebe für bewegte Bilder steckt das persönliche Interesse der Bandm
 
 ![Year Of No Light | small](https://storage.googleapis.com/cardamonchai-media/2021-11-20/year-of-no-light-1-jpeg-imagine-181808_24150e_800_800/640.webp)
 
-Mit "Consolamentum" gehen Year Of No Light noch einen Schritt weiter, als mit ihren Vorgängeralben. Ob die teilweise sehr düsteren, ja beklemmend wirkenden Parts von der derzeitigen Weltlage beeinflusst wurden, mag vage Vermutung sein. Mit dem Thema der Platte haben sich die sechs Musiker⋆innen definitiv eines ausgesucht, das wie für sie gemacht ist. Year Of No Light sagen dazu
+Mit "Consolamentum" gehen Year Of No Light noch einen Schritt weiter, als mit ihren Vorgängeralben. Ob die teilweise sehr düsteren, ja beklemmend wirkenden Parts von der derzeitigen Weltlage beeinflusst wurden, mag vage Vermutung sein. Mit dem Thema der Platte haben sich die sechs Musiker\*innen definitiv eines ausgesucht, das wie für sie gemacht ist. Year Of No Light sagen dazu
 
 > "Für uns ist es eine Frage der musikalischen Hingabe. Wir machen Musik gegen die moderne Zeit. Wir wünschen uns Intensität, Trance, Höhepunkte und Bedrohungen – alles eingebettet in ein bipolares und schwermütiges Ethos."
 

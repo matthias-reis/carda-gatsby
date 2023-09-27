@@ -128,7 +128,7 @@ Die Eukalyptusfaser besitzt ein unübertroffenes Festigkeitsprofil bei gleichzei
 
 ## "Soziale Verantwortung ist uns wichtig"
 
-Für unsere deutsche Bezugsquelle des Eukalyptusfaserträgers spielt neben dem Punkt Nachhaltigkeit auch die soziale Verantwortung gegenüber den Arbeiter⋆innen eine wichtige Rolle. Die textile Kette ist von der Faserproduktion bis hin zur Auslieferung an unser Unternehmen für jede Lieferung nachvollziehbar.
+Für unsere deutsche Bezugsquelle des Eukalyptusfaserträgers spielt neben dem Punkt Nachhaltigkeit auch die soziale Verantwortung gegenüber den Arbeiter\*innen eine wichtige Rolle. Die textile Kette ist von der Faserproduktion bis hin zur Auslieferung an unser Unternehmen für jede Lieferung nachvollziehbar.
 
 Bei der gesamten Herstellung und Verarbeitung müssen soziale Mindestkriterien auf der Grundlage der Kernnormen der Internationalen Arbeiterorganisation (ILO) erfüllt werden. Dazu zählen unter anderem freie Wahl der Beschäftigung, Verbot von Kinderarbeit und Mindestlohn. Darüber hinaus arbeiten wir bereits an der nächsten Kollektion, für die wir Material aus Ananasfasern verwenden und die somit eine absolute Neuheit darstellt.
 
@@ -152,7 +152,7 @@ Bei der gesamten Herstellung und Verarbeitung müssen soziale Mindestkriterien a
 
 ## "Wir haben auch vegane Schuhe im Sortiment"
 
-**Stanley:** Pläne dazu gibt es, ja. Zum einen soll Vegatar der weltweit größte Zulieferer für vegane Materialen und Lederalternativen werden. Zum anderen soll auch die Palette an Produkten aus nachhaltigen Materialien zunehmen. Dabei orientieren wir uns an den Wünschen unserer Kund⋆innen.
+**Stanley:** Pläne dazu gibt es, ja. Zum einen soll Vegatar der weltweit größte Zulieferer für vegane Materialen und Lederalternativen werden. Zum anderen soll auch die Palette an Produkten aus nachhaltigen Materialien zunehmen. Dabei orientieren wir uns an den Wünschen unserer Kund\*innen.
 
 Schuhe haben wir unter anderem schon im Sortiment. Jedoch ist hier der Aufwand noch mal ein anderer, da bekanntlich jeder Fuß ganz individuell ist und der Schuh gut sitzen und passen soll. Diesen Herausforderungen möchten wir gerecht werden. Darum halten wir auch in dem Bereich gezielt Ausschau nach potenziellen Herstellungsfirmen, die auf unsere Wünsche eingehen können.
 

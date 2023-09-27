@@ -42,7 +42,7 @@ An einem Olivenbaum wachsen je nach Wetter, Wasser und Alter bis zu 300 Kilo Oli
 
 Die Früchte werden für die Ölproduktion geerntet, wenn sie ihre Farbe von grün zu lila oder rot wechseln. Je reifer sie sind, desto mehr Öl kann daraus gewonnen werden. Mein Beispiel ist also nur eine ungefähre Schätzung. Je genauer der Zeitpunkt der Ernte abgepasst wird, desto besser schmeckt das Olivenöl.
 
-Heute werden die Oliven häufig mechanisiert geerntet, da die traditionelle Ernte mit der Hand nicht nur anstrengend, sondern auch kostenintensiv und aufwendig ist. Die Erntehelfer⋆innen breiten dafür Netze unter den Bäumen aus und die Oliven werden mit Stöcken und Kämmen von den Zweigen gestreift oder – [bei besonders hochwertigen Ölen](https://amzn.to/3vjkxDZ) – sogar komplett von Hand gepflückt.
+Heute werden die Oliven häufig mechanisiert geerntet, da die traditionelle Ernte mit der Hand nicht nur anstrengend, sondern auch kostenintensiv und aufwendig ist. Die Erntehelfer\*innen breiten dafür Netze unter den Bäumen aus und die Oliven werden mit Stöcken und Kämmen von den Zweigen gestreift oder – [bei besonders hochwertigen Ölen](https://amzn.to/3vjkxDZ) – sogar komplett von Hand gepflückt.
 
 ## Traditionelle und moderne Olivenöl-Gewinnung
 

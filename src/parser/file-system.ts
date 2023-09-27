@@ -54,12 +54,27 @@ export class Markdown {
     }
   }
 
+  changeRawContent(fn: (content: string) => string) {
+    const res = fn(this.rawContent);
+    if (res !== this.rawContent) {
+      this.markDirty();
+      this.rawContent = res;
+    }
+  }
+
+  writeRaw() {
+    if (this.isDirty) {
+      writeFileSync(this.path, this.rawContent, 'utf8');
+    }
+  }
+
   write() {
     if (this.isDirty) {
-      let output = '---\n';
-      output += YAML.stringify(this.attributes);
-      output += '---\n\n';
-      output += this.body;
+      let output = `---
+${YAML.stringify(this.attributes)}
+---
+
+${this.body}`;
 
       prettier.format(output, {
         printWidth: 80,

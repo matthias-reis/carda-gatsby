@@ -43,7 +43,7 @@ Das Unternehmen will in naher Zukunft verschiedene Verpackungen und Produkte auf
 
 ## Klimaschutz im Unternehmen
 
-Darüber, dass die Rolle der Wälder in unserem täglichen Leben groß ist, sind sich die Gründer⋆innen des Bio-Kunststoff Unternehmens laut eigener Aussage sehr bewusst. Sie wollen aktiv am Klimaschutz mitarbeiten. Auf Ihrer Presseseite schreiben sie:
+Darüber, dass die Rolle der Wälder in unserem täglichen Leben groß ist, sind sich die Gründer\*innen des Bio-Kunststoff Unternehmens laut eigener Aussage sehr bewusst. Sie wollen aktiv am Klimaschutz mitarbeiten. Auf Ihrer Presseseite schreiben sie:
 
 > "Die Wälder ermöglichen es uns, auf diesem Planeten zu leben. Sie wandeln Kohlendioxid in Sauerstoff um und sind nach den Ozeanen der zweitgrößte Sequester von Treibhausgas- und Kohlendioxid-Emissionen. Nur die Ozeane binden noch mehr Treibhausgas- und Kohlendioxid-Emissionen als die Wälder. Bäume verhindern die Abnutzung des Bodens, Erosion genannt. Dadurch kann mehr Land für die Landwirtschaft und die Nahrungsmittelproduktion genutzt werden. Darüber hinaus bieten Wälder ein Zuhause für Millionen von Tieren und liefern einen erneuerbaren Rohstoff für die menschliche Nutzung."
 

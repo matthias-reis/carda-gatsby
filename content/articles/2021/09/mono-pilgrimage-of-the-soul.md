@@ -74,7 +74,7 @@ Der Höhepunkt des Albums ist das Stück "Hold Infinity In The Palm Of Your Hand
 
 ## Die Welt von Mono
 
-Mono haben sich 1999 in Tokio gegründet. Ihre erklärten Vorbilder waren damals Bands wie [Mogwai](/2021/03/as-the-love-continues-mogwai/) und My Bloody Valentine sowie große Komponist⋆innen wie Ennio Morricone und Beethoven. Heute gehören sie zu den bekanntesten Bands im Experimental-Sektor und haben sich mit ihrer vielfältigen und umfangreichen Diskografie längst ihren eigenen Platz in der Musikwelt erarbeitet. Mit ihren faszinierenden Klanglandschaften begeistern sie Millionen.
+Mono haben sich 1999 in Tokio gegründet. Ihre erklärten Vorbilder waren damals Bands wie [Mogwai](/2021/03/as-the-love-continues-mogwai/) und My Bloody Valentine sowie große Komponist\*innen wie Ennio Morricone und Beethoven. Heute gehören sie zu den bekanntesten Bands im Experimental-Sektor und haben sich mit ihrer vielfältigen und umfangreichen Diskografie längst ihren eigenen Platz in der Musikwelt erarbeitet. Mit ihren faszinierenden Klanglandschaften begeistern sie Millionen.
 
 Die Kontraste auf "Pilgrimage Of The Soul" spiegeln die letzten Monate auf wunderbare Weise wider. Auf Wut folgt Hoffnung, auf Trauer Sehnsucht. Hört Euch das Album auf jeden Fall an, Ihr werdet es nicht bereuen.
 

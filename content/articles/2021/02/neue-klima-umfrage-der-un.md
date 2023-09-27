@@ -61,7 +61,7 @@ Die beliebtesten Maßnahmen zur Bekämpfung der Klimakatastrophe sind laut der U
 
 Das könnte daran liegen, dass es bislang in vielen Ländern noch nicht so viele pflanzliche Optionen gibt. Viele Menschen finden aber auch, dass ihre Ernährung eine private Entscheidung ist. In Deutschland war sie mit 44 Prozent am beliebtesten, dicht gefolgt von Großbritannien mit 43 Prozent.
 
-UNDP führte die Peoples Climate Vote in 50 Ländern mit hohem, mittlerem und niedrigem Durchschnittseinkommen durch. Dadurch repräsentiert sie mehr als die Hälfte der Weltbevölkerung. Wissenschaftler⋆innen von der Universität Oxford gewichteten die Antworten so, dass sie die Bevölkerung der jeweiligen Nationen widerspiegeln.
+UNDP führte die Peoples Climate Vote in 50 Ländern mit hohem, mittlerem und niedrigem Durchschnittseinkommen durch. Dadurch repräsentiert sie mehr als die Hälfte der Weltbevölkerung. Wissenschaftler\*innen von der Universität Oxford gewichteten die Antworten so, dass sie die Bevölkerung der jeweiligen Nationen widerspiegeln.
 
 ## Die Menschen wünschen sich Klimaschutz
 
@@ -102,7 +102,7 @@ Denn die Wissenschaft ist sich einig: Den Ländern steht nur ein sehr schmales Z
 
 Die Peoples Climate Umfrage ist eine Säule der Mission 1.5-Kampagne des UNDP. Das UN-Entwicklungsprogramm startete sie 2020 gemeinsam mit der Oxford University und verschiedenen NGOs.
 
-Ziel ist es, die Öffentlichkeit mit den politischen Entscheidungsträger⋆innen zu verbinden. Letzteren soll damit auch der Wunsch der Weltbevölkerung nach Veränderung nahegebracht werden.
+Ziel ist es, die Öffentlichkeit mit den politischen Entscheidungsträger\*innen zu verbinden. Letzteren soll damit auch der Wunsch der Weltbevölkerung nach Veränderung nahegebracht werden.
 
 Für einige Länder ist die Aktion die erste Möglichkeit überhaupt, sich mit fundierten analysierten Informationen über die öffentliche Meinung zum Klimawandel und den politischen Lösungsmöglichkeiten auseinanderzusetzen.
 

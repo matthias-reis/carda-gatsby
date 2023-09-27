@@ -31,7 +31,7 @@ languageLink: /2021/09/keep-the-orange-sun-en/
 
 Hinter awakened souls steckt ein musikalisches Paar aus Los Angeles. Die beiden haben bereits drei Platten zusammen aufgenommen. Vor Kurzem lernten sie Kévin über die Ambient Community kennen. Sie waren schon lange Fans seiner Musik und er bewunderte ihre. So kam es dazu, dass sie beschlossen, gemeinsam eine LP auf Past Inside The Present Records aufzunehmen.
 
-Was dabei herausgekommen ist, ist magisch. In der Musik spiegeln sich die intensiven Gespräche der drei Künstler⋆innen wider, die sie bei ihren ersten Begegnungen zu ihren gemeinsamen musikalischen Einflüssen und Inspirationen geführt haben.
+Was dabei herausgekommen ist, ist magisch. In der Musik spiegeln sich die intensiven Gespräche der drei Künstler\*innen wider, die sie bei ihren ersten Begegnungen zu ihren gemeinsamen musikalischen Einflüssen und Inspirationen geführt haben.
 
 ![From Overseas & awakened souls – "Keep The Orange Sun"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/keep-the-orange-sun-jpg-imagine-281818_3c2e26_1200_1200/640.webp 'From Overseas & awakened souls – "Keep The Orange Sun"')
 
@@ -41,7 +41,7 @@ Was dabei herausgekommen ist, ist magisch. In der Musik spiegeln sich die intens
 
 Das neugeborene Trio setzt stilistisch auf Elemente aus Electronic, Shoegaze und Ambient – Jedes Bandmitglied bringt seinen ganz individuellen Fingerabdruck mit ein.
 
-Diese Mischung und die perfekte Harmonie zwischen den Musiker⋆innen liefern ein unglaublich rundes und vielseitiges Gesamtwerk, das Fans aller drei Genres wohlige Schauer über den Rücken jagt.
+Diese Mischung und die perfekte Harmonie zwischen den Musiker\*innen liefern ein unglaublich rundes und vielseitiges Gesamtwerk, das Fans aller drei Genres wohlige Schauer über den Rücken jagt.
 
 ![From Overseas & awakened souls](https://storage.googleapis.com/cardamonchai-media/2021-11-20/ktos2-jpg-imagine-082818_6f7160_3048_2048/640.webp 'From Overseas & awakened souls')
 

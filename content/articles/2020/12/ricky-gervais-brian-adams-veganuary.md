@@ -52,7 +52,7 @@ Der offene Veganuary Brief weist aber nicht nur auf dieses finstere Kapitel der 
 
 ## Ein positiver Blick in die Zukunft
 
-"Wir möchten den Menschen einen positiven Blick in die Zukunft bieten. Wir wollen jede⋆n dazu aufrufen, optimistisch und mit der Entschlossenheit, alles dafür zu geben, unseren Planeten und seine tierischen und menschlichen Bewohner⋆innen zu schützen. Um das zu schaffen, müssen wir unsere Ernährungsweise ändern. Wir möchten die Leute dazu bringen, eine bessere Zukunft aufzubauen, indem sie ab Januar anfangen, vegan zu leben. Gemeinsam können wir eine freundlichere und sicherere Welt für uns alle erschaffen."
+"Wir möchten den Menschen einen positiven Blick in die Zukunft bieten. Wir wollen jede\*n dazu aufrufen, optimistisch und mit der Entschlossenheit, alles dafür zu geben, unseren Planeten und seine tierischen und menschlichen Bewohner\*innen zu schützen. Um das zu schaffen, müssen wir unsere Ernährungsweise ändern. Wir möchten die Leute dazu bringen, eine bessere Zukunft aufzubauen, indem sie ab Januar anfangen, vegan zu leben. Gemeinsam können wir eine freundlichere und sicherere Welt für uns alle erschaffen."
 
 ## So könnt Ihr teilnehmen
 

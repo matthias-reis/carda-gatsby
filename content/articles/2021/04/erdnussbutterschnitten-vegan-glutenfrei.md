@@ -73,7 +73,7 @@ Lasst nun auch die Schokolade in einem Wasserbad zergehen und vermischt sie ansc
 
 ## Rabatt für Zutaten
 
-**Psst:** Für die im Text verlinkten Zutaten erhaltet Ihr als meine Leser⋆innen ab einem Bestellwert von 25 Euro einen Rabatt in Höhe von 5 Euro. Das geht ganz einfach: Beim Bestellen [im Direkt vom Feld Shop](https://t.adcell.com/p/click?promoId=241393&slotId=80259) verwendet Ihr einfach den folgenden Gutschein:
+**Psst:** Für die im Text verlinkten Zutaten erhaltet Ihr als meine Leser\*innen ab einem Bestellwert von 25 Euro einen Rabatt in Höhe von 5 Euro. Das geht ganz einfach: Beim Bestellen [im Direkt vom Feld Shop](https://t.adcell.com/p/click?promoId=241393&slotId=80259) verwendet Ihr einfach den folgenden Gutschein:
 
 <RemoteImage
   size="medium"

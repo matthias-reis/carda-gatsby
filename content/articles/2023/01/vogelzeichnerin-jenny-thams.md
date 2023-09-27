@@ -51,7 +51,7 @@ Jenny (lacht): Das ist eine schwierige Frage! Sie besitzen alle ihre Besonderhei
 
 **Anne:** Ich sollte mich wohl mehr mit Blaumeisen beschäftigen! Welche Herausforderungen hast Du bei der Zeichnung von Vögeln und wie gehst Du damit um?
 
-**Jenny:** Aktuell ist die größte Herausforderung, geeignete Vorlagenfotos zu finden. Es gibt nicht von jeder Art lizenzfreie Fotos, die für eine Zeichnung geeignet wären und ich habe ich nicht die Mittel, die Bildrechte für mehrere Hundert Arten zu kaufen. Zum Glück wächst meine Instagram-Community immer mehr. Einige Fotograf⋆innen haben mir bereits angeboten, ihre Bilder als Vorlagen zu nutzen. Vernetzung ist hier wirklich sehr hilfreich.
+**Jenny:** Aktuell ist die größte Herausforderung, geeignete Vorlagenfotos zu finden. Es gibt nicht von jeder Art lizenzfreie Fotos, die für eine Zeichnung geeignet wären und ich habe ich nicht die Mittel, die Bildrechte für mehrere Hundert Arten zu kaufen. Zum Glück wächst meine Instagram-Community immer mehr. Einige Fotograf\*innen haben mir bereits angeboten, ihre Bilder als Vorlagen zu nutzen. Vernetzung ist hier wirklich sehr hilfreich.
 
 **Anne:** Welches Ziel verfolgst Du mit Deiner Arbeit und auf welche Weise möchtest Du die Menschen damit inspirieren und berühren?
 
@@ -75,7 +75,7 @@ In letzter Zeit habe ich angefangen, die Hintergründe passend zum jeweiligen Vo
 
 **Jenny:** Ich bin tatsächlich mit Vögeln aufgewachsen. Erst waren es Kanarienvögel, die bei uns in einer Voliere zusammenlebten – die paprikarote “Chipsy” gehörte mir. Mir wurde dann schnell klar, dass mein eigentliches Interesse den Sittichen galt. Als Jugendliche hatte ich dann Wellensittiche und Nymphensittiche. Nebenbei habe ich immer gerne Vögel in der Natur beobachtet. Und auf meinen Wanderungen teile ich mir heute noch gerne mal einen Apfel mit einer frechen Alpendohle.
 
-**Anne:** Du nutzt ja wie ich Social Media, um Deine Arbeit zu präsentieren. Ein Mitglied Deiner "Zielgruppe" hast Du ja mit mir schon erreicht, indem Du mich neugierig gemacht hast. Wie schätzt Du die Wirkung der sozialen Netzwerke insbesondere für Künstler⋆innen ein?
+**Anne:** Du nutzt ja wie ich Social Media, um Deine Arbeit zu präsentieren. Ein Mitglied Deiner "Zielgruppe" hast Du ja mit mir schon erreicht, indem Du mich neugierig gemacht hast. Wie schätzt Du die Wirkung der sozialen Netzwerke insbesondere für Künstler\*innen ein?
 
 ## "Ich möchte meine Liebe zur Natur und den Tieren mit anderen teilen"
 

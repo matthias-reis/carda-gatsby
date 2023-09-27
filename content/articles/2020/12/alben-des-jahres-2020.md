@@ -49,7 +49,7 @@ Seit dieser Zeit klingt jedes Deftones Album trotz der Spannungen, die es auch i
 
 Leider musste die Band auch schwere Rückschläge hinnehmen. Im November 2008 wurde [Bassist Chi Cheng](/2013/04/nachruf-deftones-grunder-chi-cheng-ist-tot/)  bei einem Autounfall schwer verletzt. Nach vielen Jahren im Koma verstarb er am 13. April 2013.
 
-Aber Musik ist genauso wie für die Hörer⋆innen auch für die Band Heilung. Als Chi Cheng im Koma lag, kam der langjährige Freund der Band Sergio Vega von Quicksand dazu.
+Aber Musik ist genauso wie für die Hörer\*innen auch für die Band Heilung. Als Chi Cheng im Koma lag, kam der langjährige Freund der Band Sergio Vega von Quicksand dazu.
 
 'Ohms' ist das zweite Album, das mit Vega enstanden ist. Auch beim Vorgänger 'Gore' bewunderte ich schon das kraftvolle Schlagzeug von Abe Cunningham, welches sich auf der aktuellen LP wieder richtig stark anhört.
 
@@ -67,7 +67,7 @@ Man kann nur hoffen, dass nach dem inzwischen neunten Deftones Album, auch in Zu
 
 <blockquote>
 
-"Die Veröffentlichungsdichte in diesem Jahr war nicht so hoch, wie in den vergangenen Jahren. Ich denke, dass könnte damit zusammenhängen, dass sich in Zeiten der Pandemie viele Musiker⋆innen aufs Schreiben und Produzieren konzentriert haben, da sie nicht auf Tour gehen konnten. Nächstes Jahr werden die Zahlen dann bestimmt explodieren – zumindest hoffe ich das.
+"Die Veröffentlichungsdichte in diesem Jahr war nicht so hoch, wie in den vergangenen Jahren. Ich denke, dass könnte damit zusammenhängen, dass sich in Zeiten der Pandemie viele Musiker\*innen aufs Schreiben und Produzieren konzentriert haben, da sie nicht auf Tour gehen konnten. Nächstes Jahr werden die Zahlen dann bestimmt explodieren – zumindest hoffe ich das.
 
 Meine engere Auswahl bestand aus drei Platten, die ich alle als absolute Meisterwerke bezeichnen würde.
 

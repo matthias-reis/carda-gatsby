@@ -2,7 +2,7 @@
 date: 2021-11-11T14:42:04.181Z
 slug: wir-essen-weniger-fleisch
 typeName: Beitrag
-title: Europäer⋆innen essen weniger Fleisch
+title: Europäer*innen essen weniger Fleisch
 subTitle: Neue Umfrageergebnisse machen Hoffnung
 seoTitle: Europäer*innen essen weniger Fleisch – Neue Umfrage
 description: Das Thema Ernährung wird heute immer präsenter und immer mehr Menschen essen weniger Fleisch. Auch der Schritt zum Veganismus ist für viele nicht mehr so undenkbar, wie noch vor wenigen Jahren.
@@ -27,7 +27,7 @@ language: de
 
 **"Wenn Ihr immer noch Fleisch esst, hört auf über Klimaschutz zu reden!", prangt es in großen Lettern auf Demo-Plakaten bei Fridays for Future. Das Thema Ernährung wird heute immer präsenter und immer mehr Menschen möchten bewusster essen. Der Schritt zum Veganismus ist für viele nicht mehr so undenkbar, wie noch vor wenigen Jahren.**
 
-Wurst und Fleisch verkaufen sich natürlich nach wie vor sehr gut. Dennoch lässt sich ein neuer Trend erkennen: Fast die Hälfte der Europäer⋆innen isst weniger Fleisch. Das zeigen auch die Ergebnisse einer Umfrage[^1], für die sich ProVeg International[^2] und Innova Market Insights[^3] mit Expert⋆innen der Universität Kopenhagen und der Universität Gent zusammengetan hatten. Das mit 10 Millionen Euro dotierte Smart Protein Projekt der EU[^4] half bei der Finanzierung.
+Wurst und Fleisch verkaufen sich natürlich nach wie vor sehr gut. Dennoch lässt sich ein neuer Trend erkennen: Fast die Hälfte der Europäer\*innen isst weniger Fleisch. Das zeigen auch die Ergebnisse einer Umfrage[^1], für die sich ProVeg International[^2] und Innova Market Insights[^3] mit Expert\*innen der Universität Kopenhagen und der Universität Gent zusammengetan hatten. Das mit 10 Millionen Euro dotierte Smart Protein Projekt der EU[^4] half bei der Finanzierung.
 
 ## Die Menschen wollen bewusster essen
 

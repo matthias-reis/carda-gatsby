@@ -57,7 +57,7 @@ Und der Körper freut sich auch: Wenn Ihr manchmal Nackenschmerzen habt oder Euc
 
 Das kann man sogar sehen, wenn man eine Pulsuhr trägt. Der positive Effekt kann sogar für mehrere Tage anhalten. Das kann sich zum Beispiel dadurch bemerkbar machen, dass Ihr wieder leistungsfähiger und kreativer seid. Wenn Ihr die Nächte davor nicht gut geschlafen habt, werdet Ihr vielleicht sogar feststellen, dass Ihr nach Eurem Besuch im Wald wieder tiefer und entspannter schlafen könnt.
 
-Wer den Kreislauf und die Fantasie mit Ausflügen in den Wald regelmäßig anregt, kann im besten Fall ernsthafte Erkrankungen vermeiden. Dazu wurden schon die verschiedensten Studien veröffentlicht. Immer mehr Psychiater⋆innen schwören inzwischen auf die Wirkung der Natur auf die Psyche. Sie bauen in die Therapie ihrer Patient⋆innen, die z. B. unter Depressionen und oder Angststörungen leiden, regelmäßige Berührungspunkte mit der Natur ein. Auch in der Trauerbegleitung und Burnout-Behandlung findet die Naturtherapie Einsatz.
+Wer den Kreislauf und die Fantasie mit Ausflügen in den Wald regelmäßig anregt, kann im besten Fall ernsthafte Erkrankungen vermeiden. Dazu wurden schon die verschiedensten Studien veröffentlicht. Immer mehr Psychiater\*innen schwören inzwischen auf die Wirkung der Natur auf die Psyche. Sie bauen in die Therapie ihrer Patient\*innen, die z. B. unter Depressionen und oder Angststörungen leiden, regelmäßige Berührungspunkte mit der Natur ein. Auch in der Trauerbegleitung und Burnout-Behandlung findet die Naturtherapie Einsatz.
 
 ## Einfach mal raus in die Natur
 

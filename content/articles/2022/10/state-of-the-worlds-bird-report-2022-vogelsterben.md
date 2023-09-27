@@ -6,7 +6,7 @@ title: State of the World's Birds Report 2022
 subTitle: Fast die Hälfte aller Vogelarten nimmt ab
 seoTitle: Vogelsterben besorgniserregend
 description: "Der State of the World's Birds Report 2022 zeigt: Fast die Hälfte aller Vogelarten weltweit werden immer weniger. Das Vogelsterben ist besorgniserregend."
-excerpt: Fast die Hälfte aller Vogelarten weltweit werden immer weniger. Das geht aus dem Vogelreport der Naturschutzorganisation BirdLife International für das Jahr 2022 hervor. Naturschützer⋆innen beobachten den Trend mit Sorge.
+excerpt: Fast die Hälfte aller Vogelarten weltweit werden immer weniger. Das geht aus dem Vogelreport der Naturschutzorganisation BirdLife International für das Jahr 2022 hervor. Naturschützer*innen beobachten den Trend mit Sorge.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-10/basstoelpel-jpg-imagine-a8a898_95918b_2048_1536/640.webp
 copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-10/basstoelpel-fb-jpeg-imagine-a8a898_97948f_1200_628/640.webp
@@ -27,7 +27,7 @@ affiliate: false
 language: de
 ---
 
-**Fast die Hälfte aller Vogelarten weltweit werden immer weniger. Das geht aus dem Vogelreport der Naturschutzorganisation BirdLife International für das Jahr 2022 hervor. Naturschützer⋆innen beobachten den Trend mit Sorge.**
+**Fast die Hälfte aller Vogelarten weltweit werden immer weniger. Das geht aus dem Vogelreport der Naturschutzorganisation BirdLife International für das Jahr 2022 hervor. Naturschützer\*innen beobachten den Trend mit Sorge.**
 
 Bei 49 Prozent aller Vogelarten vermindert sich die Population zunehmend, berichtet BirdLife International (BLI). Die NGO veröffentlicht alle vier Jahre einen neuen Bericht. Beim State of the World's Birds Report 2022[^1] handelt es sich um die fünfte bisher erschiene Ausgabe.
 

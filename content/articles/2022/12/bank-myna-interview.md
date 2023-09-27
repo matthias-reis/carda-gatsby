@@ -63,7 +63,7 @@ Wie geht es dir heute?
 
 **Anne:** Bitte erzähl mir von der Live-Session, die Ihr vor Eurer Tournee gefilmt habt!
 
-**Maud:** Eines unserer Labels, Stellar Frequencies, bot uns die Möglichkeit, eine Live-Session zu einem unserer Tracks aufzunehmen. Sie hatten bereits ein paar großartig aussehende und klingende Videos veröffentlicht, also haben wir die Gelegenheit genutzt. Wir haben in einer alten Scheune in Haute-Loire (Frankreich) gefilmt – für uns ein bedeutsamer Ort, der mit zahlreichen Erinnerungen gefüllt ist. Die Scheune ist groß und majestätisch, mit alten Steinen verziert und hat etwas Mystisches. Wir beschlossen, "The Open Door" mit einer brandneuen Einleitung und natürlich mit Schlagzeug zu spielen. Das Ergebnis übertrifft unsere Erwartungen bei Weitem. Deine Leser⋆innen können sich das Video hier ansehen:
+**Maud:** Eines unserer Labels, Stellar Frequencies, bot uns die Möglichkeit, eine Live-Session zu einem unserer Tracks aufzunehmen. Sie hatten bereits ein paar großartig aussehende und klingende Videos veröffentlicht, also haben wir die Gelegenheit genutzt. Wir haben in einer alten Scheune in Haute-Loire (Frankreich) gefilmt – für uns ein bedeutsamer Ort, der mit zahlreichen Erinnerungen gefüllt ist. Die Scheune ist groß und majestätisch, mit alten Steinen verziert und hat etwas Mystisches. Wir beschlossen, "The Open Door" mit einer brandneuen Einleitung und natürlich mit Schlagzeug zu spielen. Das Ergebnis übertrifft unsere Erwartungen bei Weitem. Deine Leser\*innen können sich das Video hier ansehen:
 
 <YouTube id="ijNPZmiem0s" />
 
@@ -75,7 +75,7 @@ Das Label bereitet auch eine streng limitierte, gedrechselte Vinyl-Edition vor, 
 
 **Anne:** Wolltet Ihr schon immer doomige und düstere Post-Musik machen?
 
-**Maud:** Am Anfang wollten wir an einer Kreuzung zwischen Sigur Rós, Beach House und Warpaint stehen, also würde ich das nicht sagen. Was wir schreiben, spiegelt das wider, was uns gerade inspiriert. Für uns drei/vier gibt es keine⋆n "Hauptkomponist⋆in" innerhalb der Band. Wir schreiben alle gemeinsam. Es gab also nie eine klare Bewegung in Richtung düstere Musik, obwohl sie uns beeinflusst hat, als wir "Volaverunt" aufgenommen haben. Wir befanden uns auch in einer einzigartigen und düsteren Zeit, als COVID-19 unser Zuhause und unser Leben heimsuchte.
+**Maud:** Am Anfang wollten wir an einer Kreuzung zwischen Sigur Rós, Beach House und Warpaint stehen, also würde ich das nicht sagen. Was wir schreiben, spiegelt das wider, was uns gerade inspiriert. Für uns drei/vier gibt es keine\*n "Hauptkomponist⋆in" innerhalb der Band. Wir schreiben alle gemeinsam. Es gab also nie eine klare Bewegung in Richtung düstere Musik, obwohl sie uns beeinflusst hat, als wir "Volaverunt" aufgenommen haben. Wir befanden uns auch in einer einzigartigen und düsteren Zeit, als COVID-19 unser Zuhause und unser Leben heimsuchte.
 
 **Anne:** Wenn es eine⋆n Musiker⋆in gäbe, den⋆die Du Dir aussuchen könntest, um mit ihm⋆ihr einige Songs zu produzieren. Wer wäre es, und warum?
 

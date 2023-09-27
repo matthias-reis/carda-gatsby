@@ -59,13 +59,13 @@ Hinzu kommt, das die herkömmlichen Haselnüsse, wie im Lebensmittelanbau üblic
 
 ## Haselnussbaum-Patenschaften
 
-Neben dem bio-veganen Anbau der Nüsse gibt es bei Hof Windkind noch eine Besonderheit: Die Kund⋆innen übernehmen Baumpatenschaften. Vor Kurzem habe ich hier im Blog bereits [über die Walnussbaum-Patenschaften](/2019/09/hof-windkind-walnuss-baum-adoptieren/) berichtet. Mit den Haselnüssen funktioniert es ganz ähnlich:
+Neben dem bio-veganen Anbau der Nüsse gibt es bei Hof Windkind noch eine Besonderheit: Die Kund\*innen übernehmen Baumpatenschaften. Vor Kurzem habe ich hier im Blog bereits [über die Walnussbaum-Patenschaften](/2019/09/hof-windkind-walnuss-baum-adoptieren/) berichtet. Mit den Haselnüssen funktioniert es ganz ähnlich:
 
 Ihr übernehmt eine Baumpatenschaft und Silvia und David pflegen auf Hof Windkind Euren Haselnussbaum. Das klingt spannend, oder? Ihr könnt Eurem Bäumchen sogar einen Namen geben. Vom Namensschild am Baum bekommt Ihr dann ein Foto zugesendet. Außerdem könnt Ihr Euren Haselnussbaum jederzeit besuchen.
 
 Gezahlt wird jeweils für ein Jahr. Danach enden Eure Verpflichtungen. Es sei denn, Ihr möchtet Eure Patenschaft verlängern.
 
-## So könnt Ihr Baumpat⋆innen werden
+## So könnt Ihr Baumpat\*innen werden
 
 <RemoteImage
 alt={`haselnuesse-hof-windkind`}

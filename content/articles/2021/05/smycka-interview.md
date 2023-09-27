@@ -109,7 +109,7 @@ Danach habe ich mir dann "Genesis" von Cult Of Luna angehört und ich war hin un
 
 **Julia:** Ich habe mehr über Post-Metal erfahren, als ich zu Smyčka gekommen bin. Ich habe das Gefühl, dass dieses Genre in Russland nicht besonders beliebt ist.
 
-**Anton:** Ich denke, dass mein nicht vorhandenes Wissen über Post-Rock vor meiner Zeit bei Smyčka spricht Bände. Es ist eine Untergrund-Bewegung. In Russland müssen sich erst Prozesse für derartige Musikrichtungen entwickeln. Im Moment hängt das alles von ein paar Enthusiast⋆innen ab. Das ist nicht unbedingt etwas Schlechtes – es gibt ein paar wirklich starke und engagierte Post-Metal Bands in Russland. Meiner Meinung nach ist Vasily ein echter Guru in diesen Fragen.
+**Anton:** Ich denke, dass mein nicht vorhandenes Wissen über Post-Rock vor meiner Zeit bei Smyčka spricht Bände. Es ist eine Untergrund-Bewegung. In Russland müssen sich erst Prozesse für derartige Musikrichtungen entwickeln. Im Moment hängt das alles von ein paar Enthusiast\*innen ab. Das ist nicht unbedingt etwas Schlechtes – es gibt ein paar wirklich starke und engagierte Post-Metal Bands in Russland. Meiner Meinung nach ist Vasily ein echter Guru in diesen Fragen.
 
 ## "Saint-Petersburg ist die Post-Music-Hauptstadt von Russland"
 
@@ -123,7 +123,7 @@ Danach habe ich mir dann "Genesis" von Cult Of Luna angehört und ich war hin un
 
 **Anne:** Wo wir gerade bei Franz Kafka sind. Ihr habt erzählt, dass Ihr die Konzepte seiner Geschichten in Musik übersetzen wollt. Was verbindet Euch mit ihm und seinen Geschichten?
 
-**Anton:** So viele Dinge, denen wir im Leben begegnen, sind von Natur aus kafkaesk, finde ich. Umstände höherer Gewalt innerhalb des Systems. Geschäftig und ohne Ergebnis. Absurd auf einer täglichen Basis. Die gesamte menschliche Gesellschaftsorganisation führt zu existenziellen Fragen – "Wer bin ich?", "Was bin ich?", "Wo gehöre ich hin?", "Welches Rädchen im Getriebe des Universums bin ich?", "Welcher Teil von mir ist nur ein Abbild der Menschen, die mich umgeben?" – Es gibt so viele Fragen und so viel Zeit zum Nachdenken, aber so wenig Informationen, die unweigerlich zu Angst, Furcht und grimmigen Argumentationen über das Leben führen. Die Statistik des Wachstums der Psychotherapie-Patient⋆innen zeigt uns: Immer mehr Menschen beschäftigen sich mit derartigen Fragen und begeben sich tief auf die Suche nach Antworten. Kafka war der Pionier für die innere Reise – metaphorisch ausgedrückt – in der modernen Zeit.
+**Anton:** So viele Dinge, denen wir im Leben begegnen, sind von Natur aus kafkaesk, finde ich. Umstände höherer Gewalt innerhalb des Systems. Geschäftig und ohne Ergebnis. Absurd auf einer täglichen Basis. Die gesamte menschliche Gesellschaftsorganisation führt zu existenziellen Fragen – "Wer bin ich?", "Was bin ich?", "Wo gehöre ich hin?", "Welches Rädchen im Getriebe des Universums bin ich?", "Welcher Teil von mir ist nur ein Abbild der Menschen, die mich umgeben?" – Es gibt so viele Fragen und so viel Zeit zum Nachdenken, aber so wenig Informationen, die unweigerlich zu Angst, Furcht und grimmigen Argumentationen über das Leben führen. Die Statistik des Wachstums der Psychotherapie-Patient\*innen zeigt uns: Immer mehr Menschen beschäftigen sich mit derartigen Fragen und begeben sich tief auf die Suche nach Antworten. Kafka war der Pionier für die innere Reise – metaphorisch ausgedrückt – in der modernen Zeit.
 
 ## "Franz Kafka hatte großen Einfluss auf mich"
 

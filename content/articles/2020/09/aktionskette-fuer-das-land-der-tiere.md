@@ -34,7 +34,7 @@ subTitle: Hamburger Start-up unterstützt Tierschutzzentrum
 
 Das Land der Tiere steht für die Befreiung von Tier und Mensch. Um die wichtige Arbeit des Tierschutzzentrums zu unterstützen rief das junge Hamburger Start-up Bijou en Bois jetzt eine ganz besondere Spendenaktion ins Leben. Beim Kauf einer Kette mit handgefertigtem Anhänger gehen 20 Euro von insgesamt 30 direkt auf das Konto vom Land der Tiere.
 
-Die Gründer⋆innen von Bijou en Bois wollen den Tieren etwas Gutes tun. Darum findet man auf der Homepage des Labels jetzt den Aufruf, das größte Tierschutzzentrum zwischen Berlin und Hamburg zu unterstützen. Als ich diesen in den sozialen Netzwerken entdeckte, musste ich einfach mitmachen. Ich habe mir eine der Ketten bestellt. Ihr könnt sie auf den Bildern sehen.
+Die Gründer\*innen von Bijou en Bois wollen den Tieren etwas Gutes tun. Darum findet man auf der Homepage des Labels jetzt den Aufruf, das größte Tierschutzzentrum zwischen Berlin und Hamburg zu unterstützen. Als ich diesen in den sozialen Netzwerken entdeckte, musste ich einfach mitmachen. Ich habe mir eine der Ketten bestellt. Ihr könnt sie auf den Bildern sehen.
 
 Der Anhänger hat einen Durchmesse von drei Zentimetern. Er wurde aus Nussbaumholz gefertigt. Das Kernstück aus Holz befindet sich in einer Messingfassung, die auf der Rückseite mit einem schönen Muster verziert ist. Die Kette hat eine Länge von rund 45 Zentimetern. Bei Bijou en Bois wird alles in Handarbeit hergestellt. Alle Produkte sind zu 100 Prozent vegan. In Kürze findet Ihr hier im Blog ein Interview mit den Gründern der neuen Schmuckmarke.
 

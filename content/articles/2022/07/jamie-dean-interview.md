@@ -106,11 +106,11 @@ Als Teenie habe ich das Piano vernachlässigt und mich vor allem auf die Gitarre
 
 Ich arbeite auch mit der Band an der neuen God Is An Astronaut Platte und wir haben dieses Jahr einen ganz schön hektischen Tourplan. Es ist fantastisch, endlich wieder live zu spielen! Wir haben es alle sehr vermisst.
 
-**Anne:** Wo können sich meine Leser⋆innen "Mutualism" anhören und zu neuen Jamie Dean Songs auf dem Laufenden bleiben?
+**Anne:** Wo können sich meine Leser\*innen "Mutualism" anhören und zu neuen Jamie Dean Songs auf dem Laufenden bleiben?
 
 **Jamie:** Ihr findet mich bei Instagram[^1], Spotify[^2] und wo Ihr sonst Eure Musik streamt[^3]. Das Musikvideo zu "Mutualism" ist auf dem God Is An Astronaut Kanal verfügbar (Ihr findet es auch direkt unter diesem Interview).
 
-**Anne:** Eine Frage habe ich noch an Dich. Sorry, ich muss sie einfach stellen. Ihr musstet Eure ursprünglich für 2020 geplanten God Is An Astronaut Tour Konzerte wegen Corona ja leider ziemlich oft verschieben. Das muss ziemlich stressig für Euch gewesen sein. Ich fühle mit allen Künstler⋆innen, die das erleben mussten. Ich habe mitbekommen, dass die Konzerte nun zur Eurer laufenden Tour hinzugefügt wurden. Der Gig hier in Hamburg, für den ich Karten habe, findet dann zum Beispiel am 9. September statt. Stimmt das? Ich freue mich so sehr darauf.
+**Anne:** Eine Frage habe ich noch an Dich. Sorry, ich muss sie einfach stellen. Ihr musstet Eure ursprünglich für 2020 geplanten God Is An Astronaut Tour Konzerte wegen Corona ja leider ziemlich oft verschieben. Das muss ziemlich stressig für Euch gewesen sein. Ich fühle mit allen Künstler\*innen, die das erleben mussten. Ich habe mitbekommen, dass die Konzerte nun zur Eurer laufenden Tour hinzugefügt wurden. Der Gig hier in Hamburg, für den ich Karten habe, findet dann zum Beispiel am 9. September statt. Stimmt das? Ich freue mich so sehr darauf.
 
 **Jamie:** Ja, die ganze Situation war extrem frustrierend. Wir mussten unsere Shows immer wieder verschieben. Glücklicherweise waren unsere Fans sehr verständnisvoll und wir haben die Möglichkeit, alles nachzuholen! Wir stecken all unsere Energie in die Konzerte, damit sich das Warten gelohnt hat.
 

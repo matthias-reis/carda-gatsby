@@ -45,9 +45,9 @@ Ich hatte die Möglichkeit, schon in ein paar der Songs vom neuen Album reinzuh�
 
 **Anne:** Hi, Arka! Wie geht es Dir heute? Danke, dass Du mich um dieses Interview gebeten hast!
 
-**Arka:** Hi Anne! Mir geht es gut! Ich danke Dir für das Interview! Ich hoffe, Deine Leser⋆innen mögen meine Musik!
+**Arka:** Hi Anne! Mir geht es gut! Ich danke Dir für das Interview! Ich hoffe, Deine Leser\*innen mögen meine Musik!
 
-**Anne:** Wie läuft es im Moment bei Euch in Indien? Bei Euch geht es ja mit Corona ziemlich zur Sache. Ich hoffe, Deiner Familie und Deinen Freund⋆innen geht es gut!
+**Anne:** Wie läuft es im Moment bei Euch in Indien? Bei Euch geht es ja mit Corona ziemlich zur Sache. Ich hoffe, Deiner Familie und Deinen Freund\*innen geht es gut!
 
 **Arka:** Indien ist das Land, das nach den USA am härtesten von COVID-19 betroffen ist. Wir haben dieses Jahr wirklich eine harte Zeit durchlebt. Zum Glück ist niemand von meinen Freund⋆innen oder meiner Familie direkt betroffen. Wir können auch einen Rückgang der Zahlen beobachten und die Genesungsraten sind auch ziemlich gut. Es gibt also Hoffnung.
 

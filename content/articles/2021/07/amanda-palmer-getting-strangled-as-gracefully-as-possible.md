@@ -28,7 +28,7 @@ Die Texte in "Getting Strangled As Gracefully As Possible, Or A Year In the Bell
 
 ## Persönliche Texte von Amanda Palmer
 
-Das Werk, das sich ein bisschen liest, wie ein Tagebuch, hat sie auf Patreon und auf Medium veröffentlicht. Ihr könnt es also jederzeit lesen, wenn es Euch wie mir geht und ihr gerne erfahren möchtet, wie es der Künstlerin in den letzten Monaten ergangen ist. Oder besser gesagt: vielen Künstler⋆innen, die durch wegfallende Auftritte und Tourneen dazu gezwungen wurden, ihr Leben von einem Tag auf den anderen neu zu erfinden – ohne Vorbereitung oder Vorwarnung
+Das Werk, das sich ein bisschen liest, wie ein Tagebuch, hat sie auf Patreon und auf Medium veröffentlicht. Ihr könnt es also jederzeit lesen, wenn es Euch wie mir geht und ihr gerne erfahren möchtet, wie es der Künstlerin in den letzten Monaten ergangen ist. Oder besser gesagt: vielen Künstler\*innen, die durch wegfallende Auftritte und Tourneen dazu gezwungen wurden, ihr Leben von einem Tag auf den anderen neu zu erfinden – ohne Vorbereitung oder Vorwarnung
 
 ![Amanda Palmer. Foto/picture: © Amanda Palmer/Duncan Innes](https://storage.googleapis.com/cardamonchai-media/2021-11-20/amanda-palmer-2-jpg-imagine-c8d8d8_a8b1b5_1400_1057/640.webp 'Amanda Palmer. Foto/picture: © Amanda Palmer/Duncan Innes')
 

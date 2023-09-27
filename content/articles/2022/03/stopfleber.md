@@ -24,7 +24,7 @@ language: de
 
 Der Parlaments-Beschluss kommt einem Skandal gleich. Er missachtet alle wissenschaftlichen und rationalen Erkenntnissen und das Parlament widerspricht sich damit selbst.
 
-Die Forschenden und Veterinärmediziner⋆innen sind sich in diesem Punkt sehr einig. Ihre faktenbasierte Position ist eindeutig und belegt ganz klar: Jede erdenkliche Form der Zwangsfütterung ist Tierquälerei. Die Tiere erleiden dadurch Stress, Schmerzen und Verletzungen.
+Die Forschenden und Veterinärmediziner\*innen sind sich in diesem Punkt sehr einig. Ihre faktenbasierte Position ist eindeutig und belegt ganz klar: Jede erdenkliche Form der Zwangsfütterung ist Tierquälerei. Die Tiere erleiden dadurch Stress, Schmerzen und Verletzungen.
 
 ## Enten und Gänse leiden weiter in der Stopfleber-Produktion
 
@@ -32,7 +32,7 @@ Für die Enten und Gänse bedeutet die grausame Praktik nachweislich schwere Qua
 
 Weil das Körpergewicht der Vögel so hoch ist, schaffen es viele von ihnen nicht mehr an ihre Wasserstellen und sterben an Dehydrierung. Durch die brutalen Übergriffe beim Füttern haben sie oft Verletzungen und Infektionen der Speiseröhre, die auch zum Tod führen können.
 
-Auch die Welternährungsorganisation der Vereinten Nationen (FAO) stimmt den Erkenntnissen der Wissenschaftler⋆innen zu. Sie missbilligt die Zwangsfütterung von Vögeln in der Stopfleber-Produktion ebenso.
+Auch die Welternährungsorganisation der Vereinten Nationen (FAO) stimmt den Erkenntnissen der Wissenschaftler\*innen zu. Sie missbilligt die Zwangsfütterung von Vögeln in der Stopfleber-Produktion ebenso.
 
 ## Ein Beschluss gegen alle Moralvorstellungen
 

@@ -50,7 +50,7 @@ Da die Veranstaltungen zur Feier des 50. Earth Day aufgrund der Corona Epidemie 
 
 Weil es keinen Planet B gibt, auf den wir ausweichen können, wenn unsere Natur zerstört ist, gilt es unseren Planeten zu schützen. Darauf wird mit dem Earth Day jedes Jahr aufmerksam gemacht.
 
-Die Städte sollen grüner werden - das haben sich die Organisator⋆innen des Earth Day 2020 auf die Fahnen geschrieben. Auf der Homepage des Aktionstages wird daher auch dazu aufgerufen, Blumenwiesen zu sähen und zur Feier des Tages schöne Naturbilder zu teilen. Außerdem soll an die verschiedenen Naturschutzorganisationen gespendet werden.
+Die Städte sollen grüner werden - das haben sich die Organisator\*innen des Earth Day 2020 auf die Fahnen geschrieben. Auf der Homepage des Aktionstages wird daher auch dazu aufgerufen, Blumenwiesen zu sähen und zur Feier des Tages schöne Naturbilder zu teilen. Außerdem soll an die verschiedenen Naturschutzorganisationen gespendet werden.
 
 ## Urban Gardening
 

@@ -5,8 +5,8 @@ path: /2020/09/meeressaeuger-offener-brief/
 title: Meeressäuger in Gefahr
 seoTitle: Meeressäuger in Gefahr - offener Brief ruft zur Rettung der Wale auf
 ogTitle: Meeressäuger in Gefahr - offener Brief ruft zur Rettung der Wale auf
-description: In einem offenen Brief haben über 300 Walexpert⋆innen ihre Sorge um Wale und Delfine zum Ausdruck gebracht. Sie rufen zur Rettung der Meeressäuger auf.
-excerpt: In einem offenen Brief haben über 300 Walexpert⋆innen ihre Sorge um Wale und Delfine zum Ausdruck gebracht. Sie rufen zur Rettung der Meeressäuger auf.
+description: In einem offenen Brief haben über 300 Walexpert*innen ihre Sorge um Wale und Delfine zum Ausdruck gebracht. Sie rufen zur Rettung der Meeressäuger auf.
+excerpt: In einem offenen Brief haben über 300 Walexpert*innen ihre Sorge um Wale und Delfine zum Ausdruck gebracht. Sie rufen zur Rettung der Meeressäuger auf.
 fileName: 2020-09---meeressaeuger-in-gefahr.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_meeressaeuger__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_meeressaeuger__l.jpg
@@ -30,11 +30,11 @@ errors: {}
 subTitle: Offener Brief ruft zur Rettung der Wale auf
 ---
 
-**In einem offenen Brief haben jetzt über 300 Walexpert⋆innen ihre große Sorge um Wale und Delfine klar zum Ausdruck gebracht. Sie rufen in ihrem Schreiben zu weltweiten Maßnahmen zum Schutz der Meeressäuger auf.**
+**In einem offenen Brief haben jetzt über 300 Walexpert\*innen ihre große Sorge um Wale und Delfine klar zum Ausdruck gebracht. Sie rufen in ihrem Schreiben zu weltweiten Maßnahmen zum Schutz der Meeressäuger auf.**
 
 Der Brief wurde unter anderem auf der Homepage des Mamal Research Institute veröffentlicht. Die Abteilung Meeressäuger wird dort von der Meeresforscherin Dr. Els Vermeulen geleitet.
 
-> "Jeder von uns Wal-Expert⋆innen ist der Meinung, dass dieses Thema genau jetzt von entscheidender Bedeutung ist.",
+> "Jeder von uns Wal-Expert\*innen ist der Meinung, dass dieses Thema genau jetzt von entscheidender Bedeutung ist.",
 
 schreiben die Forscher⋆innen innen in ihrem offenen Brief. Verschickt wurde der Aufruf mit der Betreffzeile "Die reale und unmittelbar bevorstehende Ausrottungsgefahr für Wale, Delfine und Tümmler".
 

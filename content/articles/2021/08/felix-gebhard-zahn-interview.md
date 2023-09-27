@@ -83,7 +83,7 @@ Die Band sollte einen kurzen prägnanten Namen haben. Sie hieß ungefähr eine W
 - 26. November Leipzig, Mörtelwerk w/Delving
 - 27. November Berlin, Urban Spree w/Delving
 
-**Anne:** Ihr habt für das Album mit einer ganzen Menge Gastmusiker⋆innen gearbeitet. Die elektronischen Parts für "Gyhum" und das Piano für "Staub" hat Felix Gebhard ( live **Einstürzende Neubauten**) eingespielt. Peter Voigtmann war für zusätzliche Percussion mit dabei und Fabian Bremer ("Pavian", "Staub") hat Gitarrensound und Synthesizer beigetragen. Genauso wie Wolfgang Möstl ("Zerrung"). Von Alexander Hacke stammt der Synthesizer Sound in "Lochsonne Schwarz" und "Tseudo". Das Saxofon für "Gyhum" und "Akroyd" stammt von Sofia Salvo. Das klingt nach einer gigantischen Jam Session! Muss man sich **Zahn** wie eine Art musikalisches Kollektiv vorstellen? Ähnlich wie bei **The Ocean**?
+**Anne:** Ihr habt für das Album mit einer ganzen Menge Gastmusiker\*innen gearbeitet. Die elektronischen Parts für "Gyhum" und das Piano für "Staub" hat Felix Gebhard ( live **Einstürzende Neubauten**) eingespielt. Peter Voigtmann war für zusätzliche Percussion mit dabei und Fabian Bremer ("Pavian", "Staub") hat Gitarrensound und Synthesizer beigetragen. Genauso wie Wolfgang Möstl ("Zerrung"). Von Alexander Hacke stammt der Synthesizer Sound in "Lochsonne Schwarz" und "Tseudo". Das Saxofon für "Gyhum" und "Akroyd" stammt von Sofia Salvo. Das klingt nach einer gigantischen Jam Session! Muss man sich **Zahn** wie eine Art musikalisches Kollektiv vorstellen? Ähnlich wie bei **The Ocean**?
 
 ## "Wir sind ein Trio"
 
@@ -97,7 +97,7 @@ Die Band sollte einen kurzen prägnanten Namen haben. Sie hieß ungefähr eine W
 
 **Anne:** Welche Musik hat Euch im Besonderen beeinflusst, als Ihr mit dem Schreiben Eurer Songs beschäftigt wart? Vielleicht kannst Du ein paar Bands nennen?
 
-**Felix:** Da kann ich nicht für uns drei sprechen. Ich persönlich könnte Dir keine Bands und Musiker⋆innen nennen, die in diesem Fall ein spezieller Einfluss gewesen wären oder die bewusst als Vorlage für mein Zutun gedient hätten. Wie gesagt, alles, was man kreiert, speist sich meiner Ansicht nach aus Sachen, die man selbst irgendwann mal rezipiert hat. Da fließen dann Sachen ein, die nicht unbedingt jetzt gerade ständig auf meinem Plattenspieler liegen.
+**Felix:** Da kann ich nicht für uns drei sprechen. Ich persönlich könnte Dir keine Bands und Musiker\*innen nennen, die in diesem Fall ein spezieller Einfluss gewesen wären oder die bewusst als Vorlage für mein Zutun gedient hätten. Wie gesagt, alles, was man kreiert, speist sich meiner Ansicht nach aus Sachen, die man selbst irgendwann mal rezipiert hat. Da fließen dann Sachen ein, die nicht unbedingt jetzt gerade ständig auf meinem Plattenspieler liegen.
 
 Ich habe 2020 viel **Television** gehört, wenn ich mich recht erinnere und die letzte Soloplatte von **Sam Prekop**. Ich habe **The Replacements** für mich wiederentdeckt und arbeite mich nach und nach durch das Gesamtwerk von **Alice** und **John** **Coltrane**, da gibt es noch eine Menge Alben, die ich nicht kenne. Das hat alles nicht offensichtlich mit **Zahn** zu tun, aber irgendeine Haltung oder ein Ausdruck findet dann vielleicht seinen Weg aus dieser Musik in die Art, wie ich bei **Zahn** Gitarre spiele.
 

@@ -33,7 +33,7 @@ In seiner Bar Amá in Los Angeles wird ab sofort die vegane Version von Käse se
 
 Josef Centeno wurde 2020 bei den James Beard Awards als bester Chefkoch nominiert. Sein Restaurant & Winston wurde mit einem Michelin-Stern ausgezeichnet.
 
-> "Nachdem ich verschiedene vegane Optionen ausprobiert hatte, wurde mir bewusst, dass es möglich ist, [traditionellen Käse](/2014/11/suechtig-nach-kaese-casomorphine/) durch leckere pflanzliche Alternativen zu ersetzen. Egal, ob Gäste zu mir kommen, die keine Milchprodukte zu sich nehmen, vegan leben oder Vegetarier⋆innen sind: Ich freue mich darauf, ihnen auf meiner Speisekarte etwas anbieten zu können, dass sie ganz sicher nicht enttäuschen wird",
+> "Nachdem ich verschiedene vegane Optionen ausprobiert hatte, wurde mir bewusst, dass es möglich ist, [traditionellen Käse](/2014/11/suechtig-nach-kaese-casomorphine/) durch leckere pflanzliche Alternativen zu ersetzen. Egal, ob Gäste zu mir kommen, die keine Milchprodukte zu sich nehmen, vegan leben oder Vegetarier\*innen sind: Ich freue mich darauf, ihnen auf meiner Speisekarte etwas anbieten zu können, dass sie ganz sicher nicht enttäuschen wird",
 
 berichtete der Restaurant-Chef, als er seine Entscheidung öffentlich machte.
 
@@ -41,7 +41,7 @@ berichtete der Restaurant-Chef, als er seine Entscheidung öffentlich machte.
 
 Das vegane Start-up So Delicious bietet Restaurants und Lebensmittel-Lieferdiensten in den USA kostenlose Proben an. Auf diesem Wege war auch Josef zu seiner Entscheidung gekommen.
 
-> "Ich möchte andere Restaurant-Betreiber⋆innen gerne dazu ermuntern, es selbst mal auszuprobieren. Ihr werdet sehen, dass Ihr Euren Gästen tolle Geschmacksrichtungen und unterschiedliche Sorten anbieten könnt, die sie lieben werden",
+> "Ich möchte andere Restaurant-Betreiber\*innen gerne dazu ermuntern, es selbst mal auszuprobieren. Ihr werdet sehen, dass Ihr Euren Gästen tolle Geschmacksrichtungen und unterschiedliche Sorten anbieten könnt, die sie lieben werden",
 
 erzählte er weiter.
 

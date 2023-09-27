@@ -26,13 +26,13 @@ language: de
 
 **Nun verdichten sich die Beweise einer neuen Studie zufolge weiter: Vegane Ernährung kann vor Krebserkrankungen schützen. BMC Medicine veröffentlichte die Ergebnisse der Untersuchung jetzt. Sie zeigen unter anderem, dass pflanzliche Kost das Risiko von Darmkrebserkrankungen bei Männern um 22 Prozent senken kann.**
 
-Wer auf gesunde, vollwertige, vegane Kost setzt, kann sich vor Darmkrebs schützen. Das sagen die Herausgeber⋆innen der Studie[^1]. Laut ihnen handelt es sich bei Darmkrebs um die dritthäufigste Krebserkrankung weltweit – einer von 23 Männern sowie eine von 25 Frauen erkranken einmal in ihrem Leben daran.
+Wer auf gesunde, vollwertige, vegane Kost setzt, kann sich vor Darmkrebs schützen. Das sagen die Herausgeber\*innen der Studie[^1]. Laut ihnen handelt es sich bei Darmkrebs um die dritthäufigste Krebserkrankung weltweit – einer von 23 Männern sowie eine von 25 Frauen erkranken einmal in ihrem Leben daran.
 
 ## Schutz vor Darmkrebs durch gesunde, pflanzliche Ernährung
 
 > "Obwohl frühere Forschungen darauf hindeuten, dass pflanzliche Ernährung eine Rolle bei der Vorbeugung von Darmkrebs spielen könnte, war die Auswirkung der Nährstoffqualität pflanzlicher Lebensmittel auf diesen Zusammenhang bisher unklar. Nun deuten auch unsere Ergebnisse klar darauf hin, dass der Verzehr einer gesunden pflanzlichen Ernährung mit einem geringeren Darmkrebsrisiko verbunden ist",
 
-sagte Jihye Kim, eine der Autor⋆innen der Studie, in einer Meldung an die Presse.
+sagte Jihye Kim, eine der Autor\*innen der Studie, in einer Meldung an die Presse.
 
 Die Forschenden von der südkoreanischen Kyung Hee Universität fanden bei der Betrachtung der Gruppe aus 79,952 amerikanischen Männern heraus, dass die Teilnehmenden mit dem höchsten Konsum pflanzlicher Lebensmittel pro Tag ein um 22 Prozent geringeres Darmkrebs-Risiko aufwiesen, als jene mit dem geringsten Konsum.
 

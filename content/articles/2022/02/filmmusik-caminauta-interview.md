@@ -56,7 +56,7 @@ Ich habe die Künstlerin über das Label, bei dem sie gerade ihr neuestes Stück
 
 **Anne:** Die Liste der Filme, für die Du Musik komponiert hast, ist ziemlich lang, und Du hast mit Leuten aus der ganzen Welt zusammengearbeitet, von Deutschland ("Hannah", 2018) über Norwegen ("Invasion", 2021) bis in die USA ("Ballad For A Girl In Pain", 2020), nach Dänemark ("Under Overfladen", 2019) und Irland ("Almost Home, 2018") – um nur einige zu nennen. Gibt es ein Projekt, das Du als Dein Lieblingsprojekt bezeichnen würdest? Welche Zusammenarbeit hat Dir bisher am besten gefallen?
 
-**Camila:** Ich denke, jede Zusammenarbeit ist einzigartig und wunderbar. Es gibt einige Regisseur⋆innen, mit denen ich von Zeit zu Zeit immer mal wieder zusammenarbeite. Eines meiner Lieblings-Projekte ist "The Poetic Film Invasion" von Margarida Paiva. Sie ist eine unglaubliche Regisseurin, und ich habe das Gefühl, dass wir durch unsere Arbeit eine wirklich gute Verbindung zueinander haben.
+**Camila:** Ich denke, jede Zusammenarbeit ist einzigartig und wunderbar. Es gibt einige Regisseur\*innen, mit denen ich von Zeit zu Zeit immer mal wieder zusammenarbeite. Eines meiner Lieblings-Projekte ist "The Poetic Film Invasion" von Margarida Paiva. Sie ist eine unglaubliche Regisseurin, und ich habe das Gefühl, dass wir durch unsere Arbeit eine wirklich gute Verbindung zueinander haben.
 
 Der Film zeichnet ein Bild von der winzigen Welt der braunen Nacktschnecken, die als einer von vielen zerstörerischen Schädlingen gelten. Die kleinen Kreaturen wirken wie seltsame schleimige Außerirdische, die in einer traumhaften Atmosphäre gefilmt wurden. Der Film reflektiert unsere Beziehung zu anderen Lebewesen – in diesem Fall zu einem derjenigen, die auf den ersten Blick eher abstoßend auf uns wirken.
 
@@ -80,7 +80,7 @@ Der Film zeichnet ein Bild von der winzigen Welt der braunen Nacktschnecken, die
 
 **Camila:** Um ehrlich zu sein, hätte ich nie gedacht, dass ich mal leidenschaftlich gerne Filmmusik machen würde. Ich habe damit angefangen, darüber nachzudenken, als ich ungefähr 18 Jahre alt war. Seitdem sind acht Jahre vergangen.
 
-**Anne:** Es scheint, dass Du ständig an mehreren Projekten mit vielen verschiedenen Künstler⋆innen gleichzeitig arbeitest. Wie schaffst Du es, Dich auf eine solche Vielfalt an einzigartiger und faszinierender Dinge zu konzentrieren? Was motiviert Dich am meisten?
+**Anne:** Es scheint, dass Du ständig an mehreren Projekten mit vielen verschiedenen Künstler\*innen gleichzeitig arbeitest. Wie schaffst Du es, Dich auf eine solche Vielfalt an einzigartiger und faszinierender Dinge zu konzentrieren? Was motiviert Dich am meisten?
 
 **Camila:** Ich glaube, was mich am meisten motiviert, ist meine Neugier und meine Leidenschaft, etwas zu erschaffen, das es vorher noch nicht gegeben hat. Ich genieße es, mich selbst durch das Unbekannte zu entdecken, es zu manifestieren und jemandes Projekt meinen Mehrwert zu verleihen, etwas Neues zu lernen und verschiedene kreative Prozesse zu erleben. Das macht immer sehr viel Spaß.
 

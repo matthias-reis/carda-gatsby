@@ -41,13 +41,13 @@ subTitle: Neues vom Hof Windkind
 advertisement: true
 
 ---
-**Hof Windkind habe ich hier im Blog bereits vorgestellt. Die Betreiber⋆innen Silvia und David bauen gemeinsam in bio-veganer Landwirtschaft Nüsse an. Für die Bäume kann man Patenschaften übernehmen. Jetzt haben die beiden ein neues Produkt: Walnussöl.**
+**Hof Windkind habe ich hier im Blog bereits vorgestellt. Die Betreiber\*innen Silvia und David bauen gemeinsam in bio-veganer Landwirtschaft Nüsse an. Für die Bäume kann man Patenschaften übernehmen. Jetzt haben die beiden ein neues Produkt: Walnussöl.**
 
 Als mir David schrieb, dass es seit Neuestem auf Hof Windkind auch Walnussöl gibt, war mein Interesse sofort geweckt. Als großer Fan von Silvias und Daniels [Walnüssen](/2019/09/hof-windkind-walnuss-baum-adoptieren/) und [Haselnüssen](/2020/03/haselnuesse-hof-windkind/) musste ich das Öl natürlich unbedingt probieren.
 
 ## So funktioniert die Walnussöl-Patenschaft
 
-Genau, wie die Nüsse, bezieht man das Öl von Hof Windkind über eine Patenschaft. Wenn Ihr eine Ölpatenschaft übernehmt, bekommt Ihr das kaltgepresste Walnussöl im Herbst, gleich im Anschluss an die Ernte und Trocknung der Nüsse nach Hause geschickt. Dank dieses Verfahrens kann die direkte Verbindung zwischen de⋆r Produzent⋆in und de⋆r Verbraucherin hergestellt werden.
+Genau, wie die Nüsse, bezieht man das Öl von Hof Windkind über eine Patenschaft. Wenn Ihr eine Ölpatenschaft übernehmt, bekommt Ihr das kaltgepresste Walnussöl im Herbst, gleich im Anschluss an die Ernte und Trocknung der Nüsse nach Hause geschickt. Dank dieses Verfahrens kann die direkte Verbindung zwischen de\*r Produzent⋆in und de⋆r Verbraucherin hergestellt werden.
 
 Wenn Ihr Euch für eine Patenschaft entscheidet, legt Ihr Euch lediglich für ein Jahr fest. Für das nächste Jahr könnt Ihr wieder frei entscheiden, ob Ihr dabei seid. Vielleicht soll es ja im nächsten Jahr lieber eine [Walnuss-Patenschaft](/2019/09/hof-windkind-walnuss-baum-adoptieren/) oder eine [Haselnuss-Patenschaft](/2020/03/haselnuesse-hof-windkind/) sein?
 

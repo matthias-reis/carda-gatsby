@@ -9,7 +9,7 @@ seoTitle: Lebensmittel retten mit Motatos – Onlineshop gegen Verschwendung
 ogTitle: Lebensmittel retten mit Motatos – Onlineshop gegen Verschwendung
 description: Motatos rettet Lebensmittel und Waren des täglichen Bedarfs vor der Tonne.
   Ich habe den Onlineshop getestet.
-excerpt: Die Motatos Gründer⋆innen hatten keinen Bock mehr darauf, dass ein Drittel
+excerpt: Die Motatos Gründer*innen hatten keinen Bock mehr darauf, dass ein Drittel
   aller Lebensmittel ohne Umweg in den Müll wandert. Sie schrieben sich darum auf
   die Fahnen, Lebensmittel zu retten. Das schaffen sie mit ihrem Onlinehandel ziemlich
   gut.
@@ -36,7 +36,7 @@ advertisement: true
 affiliate: true
 
 ---
-**Die Motatos Gründer⋆innen hatten keinen Bock mehr darauf, dass ein Drittel aller Lebensmittel ohne Umweg in den Müll wandert. Sie schrieben sich darum auf die Fahnen, Lebensmittel zu retten. Das schaffen sie mit ihrem Onlinehandel ziemlich gut.**
+**Die Motatos Gründer\*innen hatten keinen Bock mehr darauf, dass ein Drittel aller Lebensmittel ohne Umweg in den Müll wandert. Sie schrieben sich darum auf die Fahnen, Lebensmittel zu retten. Das schaffen sie mit ihrem Onlinehandel ziemlich gut.**
 
 Ich nutze den Shop schon länger und möchte ihn Euch heute gerne vorstellen. Besonders während der Lockdowns und bei besonders hohen Inzidenzzahlen zieht es mich offen gestanden nicht unbedingt in den Supermarkt. Da kommt mir das Angebot von Motatos sehr gelegen.
 
@@ -44,7 +44,7 @@ Im Onlinegeschäft findet Ihr eigentlich so gut wie alles. Von Tomatenketchup ü
 
 ## Motatos möchte etwas gegen Lebensmittelverschwendung tun
 
-[Bei Motatos möchte man der Lebensmittelverschwendung etwas entgegensetzen](https://dot.motatos.de/t/t?a=1500534338&as=1489826485&t=2&tk=1), indem Waren, die "normalerweise" im Müll landen würden, zum fairen Tarif angeboten werden. Darum geben die Betreiber des Onlineshops auf ihrer Webseite auch das Versprechen ab, sich permanent zu verbessern und den Kund⋆innen zuzuhören, damit Ideen und Vorschläge etwas bewirken können. Ihr Motto lautet: "Where The Revolution Happens".
+[Bei Motatos möchte man der Lebensmittelverschwendung etwas entgegensetzen](https://dot.motatos.de/t/t?a=1500534338&as=1489826485&t=2&tk=1), indem Waren, die "normalerweise" im Müll landen würden, zum fairen Tarif angeboten werden. Darum geben die Betreiber des Onlineshops auf ihrer Webseite auch das Versprechen ab, sich permanent zu verbessern und den Kund\*innen zuzuhören, damit Ideen und Vorschläge etwas bewirken können. Ihr Motto lautet: "Where The Revolution Happens".
 
 Langfristiges Ziel ist, Lebensmittelabfällen und Verschwendung ein Ende zu setzen. Manchmal werden daher auch Waren mit überschrittenem Mindesthaltbarkeitsdatum verkauft. Genießbar sind sie natürlich trotzdem noch. Manchmal reicht auch eine Delle in der Verpackung, damit eine Dose oder ein Karton aussortiert wird. Hier die Gründe, aus denen hochwertige Lebensmittel aussortiert werden:
 

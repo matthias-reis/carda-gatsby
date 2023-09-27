@@ -43,7 +43,7 @@ Für Aho Bio ist es besonders wichtig, aktiv etwas für die Umwelt zu tun. Darum
 
 Parallel dazu wird derzeit auf dem Aho Grundstück einen "Food Forrest" angelegt. In diesem Jahr wurden dort bereits über 20 Obst- und Nussbäume gepflanzt.
 
-Die Gründer⋆innen von Aho Bio nehmen ihre Verantwortung wichtig und wollen daher nicht nur ihren Kund⋆innen sondern auch der Natur etwas Gutes tun.
+Die Gründer\*innen von Aho Bio nehmen ihre Verantwortung wichtig und wollen daher nicht nur ihren Kund\*innen sondern auch der Natur etwas Gutes tun.
 
 ### "Kauf Dir ne Tüte Hanf und ein Baum wird gepflanzt.
 

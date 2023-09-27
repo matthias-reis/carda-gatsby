@@ -55,7 +55,7 @@ Der für seine Exzentrik bekannte Sänger der kanadischen Hardcore-Punk Band SNF
 
 Für 2018 hatte die Band zuerst noch Tourdaten bekannt gegeben, diese jedoch später wieder abgesagt und die Pause bekannt gegeben. Im November gab Chinn dann bekannt, dass er unheilbar erkrankt sei und die Nachricht bekommen habe, dass es keine Heilung für ihn gebe.
 
-Bereits erkrankt nahm er seine 7" Solo-Single auf: eine orchestral Version des auch von Johnny Cash gecoverten Nine Inch Nails Songs "Hurt". Hinzu kam die hier erwähnte Single "Painful Reminder". Chinn wurde 57 Jahre alt. Insgesamt hatten seit der Gründung im Jahr 1981 insgesamt 31 Musiker⋆innen an SNFU mitgewirkt. Chinn war der Einzige, der von Anfang an dabei war. Kurz nach seinem Tod veröffentlichte die Band auf YouTube den akustischen Track "Cement Mixer". Dabei handelt es sich um seine letzte Aufnahme.
+Bereits erkrankt nahm er seine 7" Solo-Single auf: eine orchestral Version des auch von Johnny Cash gecoverten Nine Inch Nails Songs "Hurt". Hinzu kam die hier erwähnte Single "Painful Reminder". Chinn wurde 57 Jahre alt. Insgesamt hatten seit der Gründung im Jahr 1981 insgesamt 31 Musiker\*innen an SNFU mitgewirkt. Chinn war der Einzige, der von Anfang an dabei war. Kurz nach seinem Tod veröffentlichte die Band auf YouTube den akustischen Track "Cement Mixer". Dabei handelt es sich um seine letzte Aufnahme.
 
 [Crippled Black Phoenix im Interview](/2020/12/crippled-black-phoenix-interview/)
 

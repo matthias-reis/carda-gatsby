@@ -66,12 +66,12 @@ Mingalabar Gründer Hartfried Schmid arbeitete von 2005 vis 2014 in Bankok für 
 
 In Thailand wird kaum etwas weggeworfen. Geht etwas kaputt, wird es repariert. Auch Upcycling hat dort Tradition und erfreut sich großer Beliebtheit.
 
-Mit einigen Freund⋆innen rief er dort das Projekt "[Forrest of Peace](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FForest-of-Peace)" ins Leben. Der Forrest ist ein Wald aus 1600 Teakbäumen, die voller Hingabe gepflegt werden. Innerhalb des Waldes wurden mit der Gründung von Mingalabar neue Arbeitsplätze mit fairer Bezahlung geschaffen - im Norden Thailands sind sie bis heute leider Mangelware. Das führt dazu, das immer mehr Menschen in den reichen Süden gehen.
+Mit einigen Freund\*innen rief er dort das Projekt "[Forrest of Peace](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FForest-of-Peace)" ins Leben. Der Forrest ist ein Wald aus 1600 Teakbäumen, die voller Hingabe gepflegt werden. Innerhalb des Waldes wurden mit der Gründung von Mingalabar neue Arbeitsplätze mit fairer Bezahlung geschaffen - im Norden Thailands sind sie bis heute leider Mangelware. Das führt dazu, das immer mehr Menschen in den reichen Süden gehen.
 
 Mit seinem kreativen und nachhaltigen Upcycling-Projekt hatte Hartfried Schmid eine zukunftsträchtige Idee. Mit Mingalabar setzt er ein Zeichen gegen unfaire Arbeitsbedingungen und unsere wachsende Wegwerfmentalität. Gleichzeitig sorgt er dafür, dass Menschen ihre Heimat nicht verlassen müssen.
 
 Neben [Taschen](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FMessenger-Bag) und [Rucksäcken](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2Frucksack) findet Ihr im Mingalabar Onlineshop auch [Geldbörsen](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FPortmonee) und [Fahrradzubehör](https://t.adcell.com/p/click?promoId=229717&slotId=80259&param0=https%3A%2F%2Fmingalabar.shop%2FFahrradzubehoer). Diesen Gutschein im Wert von 5 Euro könnt Ihr bis einschließlich 31.12.2020 um 23:59 Uhr im Mingalabar Onlineshop einlösen:  **icf49zL**
 
-(Der Gutschein kann pro Kund⋆in einmal verwendet werden)
+(Der Gutschein kann pro Kund\*in einmal verwendet werden)
 
 <Gallery name="tube2" />

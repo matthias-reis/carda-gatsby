@@ -23,15 +23,16 @@ async function run() {
   // replace asterisks in title, subTitle, seoTitle, description, excerpt
   markdowns.forEach((md) => {
     md.changeAttribute('title', replace);
-    md.changeAttribute('subTitle', replace);
-    md.changeAttribute('seoTitle', replace);
-    md.changeAttribute('description', replace);
-    md.changeAttribute('excerpt', replace);
-    md.changeContent((old: string) => old.replaceAll('⋆', '\\*'));
+    md.changeRawContent((content) => {
+      let [_e, yaml, ...text] = content.split('---\n');
+      yaml = yaml.replace('⋆', '*');
+      const textString = text.join('---\n').replace('⋆', '\\*');
+      return ['', yaml, textString].join('---\n');
+    });
   });
 
   const dirtyMarkdowns = markdowns.filter((md) => md.isChanged());
-  dirtyMarkdowns.forEach((md) => md.write());
+  dirtyMarkdowns.forEach((md) => md.writeRaw());
   console.log(
     `<asterisk replacement> ${dirtyMarkdowns.length} analysed articles`
   );

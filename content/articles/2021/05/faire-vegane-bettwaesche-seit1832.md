@@ -46,7 +46,7 @@ Alle Stoffe, die seit1832 verarbeitet, haben OEKO TEX 100 Standard. Für die Bau
 
 ![Faire vegane Bettwäsche von seit1832](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-05-seit1832-1-jpg-imagine-e8e8e8_868177_1024_768/640.webp 'Faire vegane Bettwäsche von seit1832')Was die Manufaktur von anderen unterscheidet, ist, dass bewusst darauf geachtet wird, Überproduktion zu vermeiden. Dafür sind [Maßanfertigungen auf Anfrage](https://t.adcell.com/p/click?promoId=196862&slotId=80259&param0=https%3A%2F%2Fseit1832.de%2Fpages%2Fmassanfertigungen) in der Regel immer möglich.
 
-Produziert wird auf Bestellung, damit es nicht zu vollen Lagern kommt. Wenn ein⋆e Kundin mal nicht mit der bestellten Bettwäsche zufrieden ist, besteht die Möglichkeit, die Stücke nachbessern zu lassen, bis sich alles gut anfühlt.
+Produziert wird auf Bestellung, damit es nicht zu vollen Lagern kommt. Wenn ein\*e Kundin mal nicht mit der bestellten Bettwäsche zufrieden ist, besteht die Möglichkeit, die Stücke nachbessern zu lassen, bis sich alles gut anfühlt.
 
 Wenn Ihr bestellt, werdet Ihr beim Auspacken freudig überrascht sein: Im Gegensatz zu den gängigen Bettwäsche-Labels verzichtet seit1832 bewusst auf Plastik. Unnötige Umverpackung gibt es nicht und auch die Verschlüsse der Decken- und Kissenhüllen kommen ohne Kunststoff aus: Statt Plastikknöpfen und Reißverschlüssen werden handgefertigte Zwirnknöpfe verwendet.
 
@@ -76,7 +76,7 @@ Wie ihr wisst, wird Baumwolle vor allem in tropischen und subtropischen Gebieten
 
 ![Faire vegane Bettwäsche von seit1832](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-05-seit1832-6-jpg-imagine-d8d8e8_9f9b93_1024_768/640.webp 'Faire vegane Bettwäsche von seit1832')Neben Leinen und Baumwolle spielt bei seit1832 noch ein dritter Stoff eine tragende Rolle: Hanf. Menschen verwenden die Faser seit Jahrtausenden für ihre Stoffe. Sie erfüllt alle Kriterien, die der Bettwäsche-Manufaktur wichtig sind: Sie ist, umweltfreundlich, robust, langlebig, reißfest und plastikfrei.
 
-Die bis zu vier Meter hohen Pflanzen sind unempfindlich. Man kann sie daher nahezu auf jedem Boden anbauen. Die Transporte bleiben daher kurz. Die Landwirt⋆innen verzichten beim Anbau auf Pestizide – sie sind auch schlicht nicht nötig. Außerdem braucht man auch wesentlich weniger Wasser, als bei Anbau vieler anderer Rohstoffe.
+Die bis zu vier Meter hohen Pflanzen sind unempfindlich. Man kann sie daher nahezu auf jedem Boden anbauen. Die Transporte bleiben daher kurz. Die Landwirt\*innen verzichten beim Anbau auf Pestizide – sie sind auch schlicht nicht nötig. Außerdem braucht man auch wesentlich weniger Wasser, als bei Anbau vieler anderer Rohstoffe.
 
 [Hanf ist ein wahrhaft traumhafter Stoff](https://t.adcell.com/p/click?promoId=196862&slotId=80259&param0=https%3A%2F%2Fseit1832.de%2Fblogs%2Fblog%2Fwarenkunde-hanf-merkmale-und-vorteile) – nicht nur, was die Umweltverträglichkeit angeht. Kaum eine Faser lässt sich so wunderbar weich verarbeiten. Der Stoff ist angenehm kühl auf der Haut und wirkt Temperatur-ausgleichend. Für Bettwäsche ist das natürlich perfekt.
 

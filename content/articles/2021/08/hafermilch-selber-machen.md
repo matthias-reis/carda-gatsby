@@ -75,9 +75,9 @@ Wir benutzen Hafermilch auch als Sahne-Ersatz und Basis für Saucen aller Art. W
 
 **Tipp:** Für "Kochsahne" einfach die doppelte Menge Hafer verwenden.
 
-## Hafermilch für Gluten-Allergiker⋆innen
+## Hafermilch für Gluten-Allergiker\*innen
 
-Ein Hinweis für die Gluten-Allergiker⋆innen unter Euch: Wenn Ihr auch endlich mal Hafermilch trinken wollt, könnt Ihr Euch ganz einfach eine aus Gluten-freiem Hafer zubereiten. Auch das klappt hervorragend!
+Ein Hinweis für die Gluten-Allergiker\*innen unter Euch: Wenn Ihr auch endlich mal Hafermilch trinken wollt, könnt Ihr Euch ganz einfach eine aus Gluten-freiem Hafer zubereiten. Auch das klappt hervorragend!
 
 ## Selbst gemachte Hafermilch ist günstig
 

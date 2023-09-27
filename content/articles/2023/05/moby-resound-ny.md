@@ -50,9 +50,9 @@ Wer Mobys Autobiografie "Porcelain" gelesen hat, weiß, wie sehr der Ausnahme-Mu
 14. "Run on (feat. Danielle Ponder, Elijah Ponder)
 15. "Walk with me (feat. Lady Blackbird)
 
-## Großartige Gastmusiker⋆innen
+## Großartige Gastmusiker\*innen
 
-Nachdem Moby bereits 2021 für sein letztes Album "Reprise" auf die Zusammenarbeit mit Gastmusiker⋆innen wie Kris Kristofferson, Mark Lanegan, Jim James und Skylar Grey gesetzt hatte, geht dieses Konzept auch bei "Resound NY" voll auf.
+Nachdem Moby bereits 2021 für sein letztes Album "Reprise" auf die Zusammenarbeit mit Gastmusiker\*innen wie Kris Kristofferson, Mark Lanegan, Jim James und Skylar Grey gesetzt hatte, geht dieses Konzept auch bei "Resound NY" voll auf.
 
 Viele der Namen werdet Ihr kennen, einige werden mit Sicherheit durch die Platte größere Bekanntheit erlangen. P. T. Banks entdecke Moby zum Beispiel in einer texanischen Hochzeit-Band.
 

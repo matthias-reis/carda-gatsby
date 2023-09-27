@@ -26,13 +26,13 @@ language: de
 
 ---
 
-**Hinweis:** Weiter unten findet Ihr einen Gutschein für Eure nächste Bestellung bei MICARAA.⋆
+**Hinweis:** Weiter unten findet Ihr einen Gutschein für Eure nächste Bestellung bei MICARAA.\*
 
 ---
 
 Das Set, bestehend aus einem Peeling, einem Gesichtsöl, und einem Gesichtsserum, enthält alles, was die Haut im Winter braucht: Hyaluronsäure, milde Fruchtsäuren und natürlich nährende Öle. Mit zum Set dazu gibt es von MICARAA einen 10 Euro Gutschein.
 
-Die Produkte im [Geschenk-Set](https://tidd.ly/3KHb28o) sind für alle Hauttypen geeignet. Es spielt also keine Rolle, ob der⋆die Beschenkte trockene, ölige oder empfindliche Haut hat. Sie spenden intensive Feuchtigkeit und sorgen für reine Haut trotz Kälte und Heizungsluft im Winter.
+Die Produkte im [Geschenk-Set](https://tidd.ly/3KHb28o) sind für alle Hauttypen geeignet. Es spielt also keine Rolle, ob der\*die Beschenkte trockene, ölige oder empfindliche Haut hat. Sie spenden intensive Feuchtigkeit und sorgen für reine Haut trotz Kälte und Heizungsluft im Winter.
 
 ## Gesunde MICARAA Pflege für alle Hauttypen
 

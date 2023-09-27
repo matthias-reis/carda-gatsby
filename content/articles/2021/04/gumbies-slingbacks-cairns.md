@@ -49,7 +49,7 @@ Beide neuen Gumbies passen wie angegossen. Wie immer bei Gumbies üblich, haben 
 
 <Gallery name="gumbies-cairns-slingbacks-1" />
 
-Die Macher von Gumbies möchten ihren Kund⋆innen modernen und zeitgemäßen Lifestyle bieten – möglichst nachhaltig, bequem und farbenfroh. Die [Zehentrenner](/2018/03/gumbies-vegane-strandsandalen/), Slingbacks, [Badelatschen](/2018/12/gumbies-im-winter/), [Pantoletten](/2019/09/huettenschuhe-von-gumbies/) und [Hausschuhe](/2020/10/gumbies-brumby-vegane-huettenschuhe/) eignen sich für alle Lebenslagen. Die Flip-Flops sind so bequem, das man sie nicht nur auf dem Weg von der Umkleide bis zum Schwimmbecken trägt, sondern wie schon angesprochen: den kompletten Sommer lang.
+Die Macher von Gumbies möchten ihren Kund\*innen modernen und zeitgemäßen Lifestyle bieten – möglichst nachhaltig, bequem und farbenfroh. Die [Zehentrenner](/2018/03/gumbies-vegane-strandsandalen/), Slingbacks, [Badelatschen](/2018/12/gumbies-im-winter/), [Pantoletten](/2019/09/huettenschuhe-von-gumbies/) und [Hausschuhe](/2020/10/gumbies-brumby-vegane-huettenschuhe/) eignen sich für alle Lebenslagen. Die Flip-Flops sind so bequem, das man sie nicht nur auf dem Weg von der Umkleide bis zum Schwimmbecken trägt, sondern wie schon angesprochen: den kompletten Sommer lang.
 
 Verarbeitet werden nahezu ausschließlich recycelte Materialien. Der Komfort bleibt dabei nicht auf der Strecke. Ganz im Gegenteil: Seit ich Gumbies trage, habe ich zum Beispiel nie wieder Probleme mit der Bequemlichkeit meiner Flip-Flops gehabt. Die von Gumbies gehören für mich seit Jahren fest zu meiner modischen Grundausstattung. Ein weiterer Pluspunkt: Sie sind schier unverwüstlich.
 
@@ -65,7 +65,7 @@ Das breite Fußbett, das wir von Gumbies schon kennen, macht auch die beiden neu
 
 Beide neuen Modelle gibt es in vielen verschiedenen Farben. Das Modell "Cairns" ist in den Größen 36 bis 46 erhältlich, das Modell "Slingback" in den Größen 36 bis 43.
 
-Bei [den ursprünglichen Gumbies](/2018/03/gumbies-vegane-strandsandalen/) handelte es sich um von Australien inspirierte Strandsandalen. Kein Wunder, dass wir damit während unserer Spanien-Tour vor zwei Jahren selbst auf dem heißesten Asphalt und Sand gut klargekommen sind. Inzwischen gibt es nicht mehr nur Modelle für Strandabenteurer⋆innen. Von der [coolen Sandale](/2018/12/gumbies-im-winter/) bis zur [winterlichen Filzpusche](/2021/04/gumbies-slingbacks-cairns/) findet man im Shop so einiges.
+Bei [den ursprünglichen Gumbies](/2018/03/gumbies-vegane-strandsandalen/) handelte es sich um von Australien inspirierte Strandsandalen. Kein Wunder, dass wir damit während unserer Spanien-Tour vor zwei Jahren selbst auf dem heißesten Asphalt und Sand gut klargekommen sind. Inzwischen gibt es nicht mehr nur Modelle für Strandabenteurer\*innen. Von der [coolen Sandale](/2018/12/gumbies-im-winter/) bis zur [winterlichen Filzpusche](/2021/04/gumbies-slingbacks-cairns/) findet man im Shop so einiges.
 
 Entwickelt wurden die tollen Schuhe auf der robusten Autoreifenbasis von Michel Maurer. Er wanderte im zarten Alter von 16 Jahren nach Australien aus, um dort seine Wanderlust auszuleben. Sein kreativer Drive inspirierte ihn schon bald, etwas ganze Neues und eigenes auf die Beine zu stellen: die perfekte Zehentrenner-Sandale für seine Entdeckungstouren.
 

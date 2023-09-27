@@ -45,7 +45,7 @@ Das erste Stück trägt den Namen "The Hound". Es geht gleich mal so richtig unt
 
 ![Blessings – "Biskopskniven"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/blessings-biskopskniven-cover-jpeg-imagine-181818_565658_1200_1200/640.webp "Blessings – \"Biskopskniven\"")
 
-Den dritten Song auf "Biskopskniven" könnt Ihr Euch genau wie den sechsten ("Iron Heel") jetzt schon anhören. "A Belly Full Of Stone" beginnt mit scheppernden Noise-Effekten und ufert in ein wütendes, treibendes und starkes Stück aus, das die Punk-Freund⋆innen unter Euch erfreuen sollte.
+Den dritten Song auf "Biskopskniven" könnt Ihr Euch genau wie den sechsten ("Iron Heel") jetzt schon anhören. "A Belly Full Of Stone" beginnt mit scheppernden Noise-Effekten und ufert in ein wütendes, treibendes und starkes Stück aus, das die Punk-Freund\*innen unter Euch erfreuen sollte.
 
 "The Whip Hand" ist ein rhythmisches Wunderwerk. Präzise und stimmig peitscht es voran und baut eine tolle Atmosphäre auf. Es bereitet uns auf den Höhepunkt des Albums vor, der sich zwischen Track 5 ("Komskottsknallen") und Track 6 ("Iron Heel") abspielt.
 

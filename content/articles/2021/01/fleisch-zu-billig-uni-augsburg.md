@@ -31,11 +31,11 @@ subTitle: Fleisch müsste 146 Prozent mehr kosten
 
 **Eine neue Studie der Universität Augsburg zeigt, dass für Fleisch ein Preisaufschlag von 146 Prozent nötig wäre, würde man die Zerstörung der Umwelt bei der Herstellung einkalkulieren.**
 
-Die Studie belegt, dass die Umweltzerstörung durch die Lebensmittelindustrie nicht in die Endkosten einbezogen wird. Die Wissenschaftler⋆innen der Augsburger Hochschule veröffentlichten das Ergebnis ihrer Forschungen im Nature Communications Journal.
+Die Studie belegt, dass die Umweltzerstörung durch die Lebensmittelindustrie nicht in die Endkosten einbezogen wird. Die Wissenschaftler\*innen der Augsburger Hochschule veröffentlichten das Ergebnis ihrer Forschungen im Nature Communications Journal.
 
 ## Umweltschäden müssen eingerechnet werden
 
-Würde man die Schäden in der Natur in die Berechnungen mit einfließen lassen, wäre der Fleischpreis bei herkömmlichen Produkten um 146 Prozent höher, der Milchpreis um 91 Prozent. Für die teureren Bio-Lebensmittel ergibt sich immerhin ein Preisaufschlag von 40 Prozent für Bio-Milchprodukte und 71 Prozent für Bio-Fleisch, so die Forscher⋆innen. Sie zeigen sich überrascht:
+Würde man die Schäden in der Natur in die Berechnungen mit einfließen lassen, wäre der Fleischpreis bei herkömmlichen Produkten um 146 Prozent höher, der Milchpreis um 91 Prozent. Für die teureren Bio-Lebensmittel ergibt sich immerhin ein Preisaufschlag von 40 Prozent für Bio-Milchprodukte und 71 Prozent für Bio-Fleisch, so die Forscher\*innen. Sie zeigen sich überrascht:
 
 > "Wir sind selbst erstaunt über den großen Unterschied zwischen den untersuchten Lebensmittelgruppen und den daraus resultierenden Fehlbewertungen, insbesondere von tierischen Lebensmitteln",
 

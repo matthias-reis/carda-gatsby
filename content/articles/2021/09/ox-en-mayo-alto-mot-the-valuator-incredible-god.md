@@ -6,7 +6,7 @@ title: '"Mot, the Valuator, Incredible God"'
 subTitle: Die neue EP von Ox en Mayo Alto
 seoTitle: '"Mot, the Valuator, Incredible God" – Die neue EP von Ox en Mayo Alto'
 description: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder eine Geschichte.
-excerpt: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder eine Geschichte. Die Band zeigt sich nach wie vor bedeckt – die Künstler⋆innen verbergen ihre Gesichter auch beim neuen Werk wieder hinter Masken.
+excerpt: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder eine Geschichte. Die Band zeigt sich nach wie vor bedeckt – die Künstler*innen verbergen ihre Gesichter auch beim neuen Werk wieder hinter Masken.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/white-house-stag-jpg-imagine-181808_756f43_1440_960/640.webp
 copyright: Ox en Mayo Alto
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/ox-en-mayo-alto-png-imagine-181808_726a3d_1200_628/640.webp
@@ -31,7 +31,7 @@ languageLink: /2021/09/ox-en-mayo-alto-mot-the-valuator-incredible-god-en/
 
 **Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder eine Geschichte.**
 
-Die Band zeigt sich nach wie vor bedeckt – die Künstler⋆innen verbergen ihre Gesichter auch beim neuen Werk wieder hinter Masken. Das Mysterium um die Individuen hinter den Instrumenten machen das Musikerlebnis besonders – wer könnte sich hinter den fantasievollen Gestalten verbergen?
+Die Band zeigt sich nach wie vor bedeckt – die Künstler\*innen verbergen ihre Gesichter auch beim neuen Werk wieder hinter Masken. Das Mysterium um die Individuen hinter den Instrumenten machen das Musikerlebnis besonders – wer könnte sich hinter den fantasievollen Gestalten verbergen?
 
 ## Ox en Mayo Alto liefern fünf Songs aus einer anderen Welt
 
@@ -43,7 +43,7 @@ Schon die erste audiovisuelle EP von Ox en Mayo Alto war ein Erlebnis – auch d
 
 ## Die Ankunft des Fischgottes
 
-Die Argentinier⋆innen beweisen mit dem perfekten Zusammenspiel aus Bildern und Ton mal wieder ihre schier grenzenlose Kreativität. Die Regie führte Camila Kutscher, alle anderen am Projekt Beteiligten bleiben weiterhin anonym.
+Die Argentinier\*innen beweisen mit dem perfekten Zusammenspiel aus Bildern und Ton mal wieder ihre schier grenzenlose Kreativität. Die Regie führte Camila Kutscher, alle anderen am Projekt Beteiligten bleiben weiterhin anonym.
 
 Auf einen kurzen mystischen Auftakt folgt das erste Kapitel. "Sa voix, virtus dormitiva" ist ein klangvolles Post-Rock Stück – Spoken Lyrics und Gitarrenwand inklusive.
 

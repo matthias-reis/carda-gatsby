@@ -60,7 +60,7 @@ Unsere Arbeitsweise ist schon ziemlich Pandemie-sicher. Wenn die Drums und die G
 
 **Jonas:** Das war eine weitere Herausforderung für uns: ein Narrativ mit instrumentaler Musik zu erschaffen.
 
-Aber ja – es gibt eine Geschichte. Wir werden sie nicht verraten oder darüber sprechen, aber das Artwork, der Titel und die Aufnahmen gehören fest zusammen. Jede⋆r kann seine ganz persönliche Interpretation davon haben, die sich von unserer unterscheiden kann. Wir finden das ziemlich spannend.
+Aber ja – es gibt eine Geschichte. Wir werden sie nicht verraten oder darüber sprechen, aber das Artwork, der Titel und die Aufnahmen gehören fest zusammen. Jede\*r kann seine ganz persönliche Interpretation davon haben, die sich von unserer unterscheiden kann. Wir finden das ziemlich spannend.
 
 **Anne:** Die Platte lebt von ihren spontan wirkenden Wechseln. Das führt zu einem perfekt ausbalancierten Mix aus Licht und Finsternis. Ist das Leben so?
 
@@ -68,7 +68,7 @@ Aber ja – es gibt eine Geschichte. Wir werden sie nicht verraten oder darüber
 
 **Jonas:** Ich denke schon. Ich bin mir nicht sicher, ob wir das Leben reflektieren oder ihm entfliehen, wenn wir Musik machen. Wir versuchen, so dynamisch wie möglich zu sein, um diese Balance zu finden, die Du beschreibst. Wir mögen es ganz einfach so. Außerdem finden wir, dass das die Musik interessanter macht. Aber unsere Songs können nicht düster genug sein!
 
-**Anne:** Du hast mir erzählt, dass Ihr mit Eurer Musik Grenzen übertreten wollt. Obwohl sie ziemlich in die Post-Metal Richtung geht, habt Ihr Euch auch hörbar von anderen Genres beeinflussen lassen. Mir gefällt das sehr gut. Wie kommt es, dass Musik meistens in irgendeine Art von Genre passen muss, um ein bestimmtes Publikum zu erreichen? Ich kann mir das für Musiker⋆innen ziemlich anstrengend vorstellen. Vor allem, wenn man so viele Arten von Musik liebt. Ich meine, mal ehrlich: Wir hören doch nicht alle nur Musik aus einem Genre, oder? Oder konsumieren die meisten Menschen Musik auf diese Art?
+**Anne:** Du hast mir erzählt, dass Ihr mit Eurer Musik Grenzen übertreten wollt. Obwohl sie ziemlich in die Post-Metal Richtung geht, habt Ihr Euch auch hörbar von anderen Genres beeinflussen lassen. Mir gefällt das sehr gut. Wie kommt es, dass Musik meistens in irgendeine Art von Genre passen muss, um ein bestimmtes Publikum zu erreichen? Ich kann mir das für Musiker\*innen ziemlich anstrengend vorstellen. Vor allem, wenn man so viele Arten von Musik liebt. Ich meine, mal ehrlich: Wir hören doch nicht alle nur Musik aus einem Genre, oder? Oder konsumieren die meisten Menschen Musik auf diese Art?
 
 **Jonas:** Ich bin komplett Deiner Meinung. Der Beiname "Post" – sei es -Rock oder -Metal ist etwas, mit dem wir uns selbst beschreiben. Einfach in Ermangelung besser passender Genres. Wir möchten damit die Hörer⋆innen ansprechen, denen gefallen könnte, was wir machen.
 

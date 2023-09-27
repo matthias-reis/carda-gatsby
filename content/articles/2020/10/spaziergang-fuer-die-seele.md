@@ -56,7 +56,7 @@ Allerdings ist "schlechtes" Wetter eigentlich auch nichts anderes, als eine Ausr
 
 ## Dankbarkeit
 
-Wenn man erstmal draußen ist, ist es herrlich. Die Luft wirkt wie frisch gewaschen. Das Gesicht bekommt eine Frischekur und der frische Wind im Rücken fühlt sich in Wirklichkeit eher beschwingt an, als ungemütlich. Als Belohnung wartet das heimische Sofa. Wer fühlt sich nicht rundum glücklich und zufrieden, wenn er⋆sie nach einem langen Spaziergang an einem kühlen Herbsttag in die warme Wohnung zurückkommt?
+Wenn man erstmal draußen ist, ist es herrlich. Die Luft wirkt wie frisch gewaschen. Das Gesicht bekommt eine Frischekur und der frische Wind im Rücken fühlt sich in Wirklichkeit eher beschwingt an, als ungemütlich. Als Belohnung wartet das heimische Sofa. Wer fühlt sich nicht rundum glücklich und zufrieden, wenn er\*sie nach einem langen Spaziergang an einem kühlen Herbsttag in die warme Wohnung zurückkommt?
 
 Ab einer Geschwindigkeit von sechs Kilometern pro Stunde geht Euer Spaziergang übrigens in eine Wanderung über – das sagen zumindest Sportmediziner.
 
@@ -68,7 +68,7 @@ Beim Spazierengehen entspannen sich die Muskeln und Nerven. Das beugt Haltungssc
 
 > "Sobald sich meine Beine bewegen, beginnen meine Gedanken zu fließen" – Henry David Thoreau, 19. Jh.
 
-Menschen, die regelmäßig spazierengehen leiden im Durchschnitt weniger oft an Burn-out und anderen stressbedingten Krankheiten. Therapeuten raten ihren Patient⋆innen aus gutem Grund dazu, regelmäßig spazieren zu gehen. Es soll sogar Fälle geben, in denen Menschen mit Depressionen dauerhaft auf den Einsatz von Medikamenten verzichten konnten.
+Menschen, die regelmäßig spazierengehen leiden im Durchschnitt weniger oft an Burn-out und anderen stressbedingten Krankheiten. Therapeuten raten ihren Patient\*innen aus gutem Grund dazu, regelmäßig spazieren zu gehen. Es soll sogar Fälle geben, in denen Menschen mit Depressionen dauerhaft auf den Einsatz von Medikamenten verzichten konnten.
 
 Das Robert-Koch-Institut hat dazu eine Studie veröffentlicht, aus der hervorgeht, dass körperliches Training ähnlich wirksam sein kann, wie bestimmte Medikamente. Natürlich sollte man sowas immer vorher genau mit seine⋆r Ärzt⋆in abstimmen.
 

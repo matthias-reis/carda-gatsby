@@ -84,7 +84,7 @@ Könnt Ihr Euch vorstellen, einen Eurer absoluten Lieblings-Musiker zu interview
 
 **Anne:** Wie würdest Du Eure Beziehung mit Dunk!records beschreiben?
 
-**Mark:** Wir lieben Dunk! Wout und Luc und sie alle sind wie eine Familie für uns. Jede⋆r, den⋆die wir jemals von Dunk! getroffen haben oder mit dem⋆der wir zu tun hatten, ist so freundlich und hilfsbereit. Sie sind so begeistert von unserer Band und davon, was wir machen. Sie haben einfach so eine wundervolle, positive Einstellung. Ich kann mir nicht vorstellen, in Europa jemals mit jemand anderem zusammenzuarbeiten. Sie machen sich Gedanken um die Band, ihre Fans und das Festival. Sie nehmen Rücksicht auf das Soziale und die Umwelt – sie sind einfach die Besten.
+**Mark:** Wir lieben Dunk! Wout und Luc und sie alle sind wie eine Familie für uns. Jede\*r, den\*die wir jemals von Dunk! getroffen haben oder mit dem⋆der wir zu tun hatten, ist so freundlich und hilfsbereit. Sie sind so begeistert von unserer Band und davon, was wir machen. Sie haben einfach so eine wundervolle, positive Einstellung. Ich kann mir nicht vorstellen, in Europa jemals mit jemand anderem zusammenzuarbeiten. Sie machen sich Gedanken um die Band, ihre Fans und das Festival. Sie nehmen Rücksicht auf das Soziale und die Umwelt – sie sind einfach die Besten.
 
 **Anne:** Ihr wart in Australien, Europa und China auf Tour. Ich kann mir vorstellen, dass das ziemlich kontrastreich und aufregend sein kann. Würdest Du sagen, dass sich die Musikszenen auf den einzelnen Kontinenten sehr voneinander unterscheiden?
 

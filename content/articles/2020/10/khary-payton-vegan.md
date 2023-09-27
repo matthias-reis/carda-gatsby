@@ -75,7 +75,7 @@ Der Action-Star freut sich über die positiven Effekte, die er bei sich beobacht
 
 > "Ich habe festgestellt, dass mein Blutzucker konstant ist und fühle mich insgesamt leichter. Ich denke, Du kannst mit pflanzenbasierter Ernährung viel mehr Spaß haben. Alles, was Du sonst als Kämpfer isst, sind Hühnchen und Reis."
 
-Alles über die Dokumentation, die die Stars zu Veganer⋆innen macht, [erfahrt Ihr hier](/2019/11/the-game-changers/).
+Alles über die Dokumentation, die die Stars zu Veganer\*innen macht, [erfahrt Ihr hier](/2019/11/the-game-changers/).
 
 Quelle: [Plantbased News](https://plantbasednews.org/news/celebrities/khary-payton-plant-based-after-watching-the-game-changers/)
 

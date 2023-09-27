@@ -43,7 +43,7 @@ labels:
 
 Dave Pen und Mike Bird aka BirdPen haben vor Kurzem die zweite Auskopplung ihres für März anstehenden neuen Albums "All Function One" veröffentlicht (Ihr findet sie in der [Musikliste für den Februar](/2021/01/musikliste-fuer-den-februar-2021/) ). Während die Spannung auf das Gesamtwerk steigt, habe ich mich mit dem Sänger und Gitarristen über die Produktion der insgesamt 12 neuen Songs, seine Erfahrungen mit BirdPen und Archive und das Musiker\*innenleben während der Pandemie unterhalten.
 
-**Anne:** Wie geht es Dir heute? Vielen Dank, dass Du Dir die Zeit für dieses Interview nimmst! Ich weiß es wirklich zu schätzen! Ich bin schon sehr gespannt, einen meiner Lieblings-Musiker⋆innen kennenzulernen! Die Musik von BirdPen und Archive begleitet mich schon seit langer Zeit.
+**Anne:** Wie geht es Dir heute? Vielen Dank, dass Du Dir die Zeit für dieses Interview nimmst! Ich weiß es wirklich zu schätzen! Ich bin schon sehr gespannt, einen meiner Lieblings-Musiker\*innen kennenzulernen! Die Musik von BirdPen und Archive begleitet mich schon seit langer Zeit.
 
 Mit BirdPen habt Ihr ja gerade den zweiten Song Eures neuen Albums "All Function One" veröffentlich, das am 5. März erscheinen soll. Möchtest Du mir erzählen, warum Ihr ausgerechnet "Invisible" und "Function" als Vorauskopplungen ausgewählt habt? Repräsentieren sie das Album insgesamt am besten oder müssen wir uns auf eine große Überraschung gefasst machen, wenn es zur finalen Enthüllung der Platte kommt?
 

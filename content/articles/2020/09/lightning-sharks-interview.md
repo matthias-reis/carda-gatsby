@@ -98,7 +98,7 @@ I've pretty much always had an obsession with extreme music. One of the first re
 
 **Sam:** Ein Mittel gegen COVID-19!
 
-**Anne:** Wenn Ihr die Möglichkeit hättet, mit eine⋆r der Anführer⋆innen dieser Welt zu reden: Wer wäre es und was würdet Ihr ihm⋆ihr sagen?
+**Anne:** Wenn Ihr die Möglichkeit hättet, mit eine\*r der Anführer\*innen dieser Welt zu reden: Wer wäre es und was würdet Ihr ihm⋆ihr sagen?
 
 **Sam:** Oh Gott – der chaotische Punk in mir möchte mit jemandem wie Jair Bolsonaro oder Donald Trump reden. Ihnen einfach ins Gesicht schreien und mal so richtig die Meinung sagen.
 

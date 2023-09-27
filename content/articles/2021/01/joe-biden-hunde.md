@@ -28,7 +28,7 @@ errors: {}
 subTitle: Alles über die Indoguration
 ---
 
-**Joe Biden bringt die Hunde zurück ins Weiße Haus – am 17. Januar findet die Indoguration statt und sein Begleiter Major wird offiziell zum First Dog.** **Noch vor der Amtseinführung des 46. US-amerikanischen Präsidenten am 20. Januar 2021 wird Joe Bidens Rettungshund damit seine Amtseinführung haben. Traditionell sucht in den Staaten jede⋆r gewählte Präsident⋆in einen Hund aus, der dieses wichtige Amt übernimmt. Die Besonderheit dieses Mal: Joe Bidens Hund stammt aus einem Tierheim.**
+**Joe Biden bringt die Hunde zurück ins Weiße Haus – am 17. Januar findet die Indoguration statt und sein Begleiter Major wird offiziell zum First Dog.** **Noch vor der Amtseinführung des 46. US-amerikanischen Präsidenten am 20. Januar 2021 wird Joe Bidens Rettungshund damit seine Amtseinführung haben. Traditionell sucht in den Staaten jede\*r gewählte Präsident\*in einen Hund aus, der dieses wichtige Amt übernimmt. Die Besonderheit dieses Mal: Joe Bidens Hund stammt aus einem Tierheim.**
 
 Der Hund der Bidens ist ein Schäferhund, der zwischen 12 und 13 Jahren alt ist. Der designierte Präsident und seine Familie adoptierten Major 2018 von der Delaware Humane Association (DHA). Das Tier wird gemeinsam mit dem zweiten Familienhund, Schäferhund Champ, zusammen mit den Bidens in Weiße Haus einziehen. Obwohl Champ, der den Politiker bereits seit 2008 begleitet, von Bidens Enkelinnen Maisie, Naomi und Natalie getauft wurde, hat der Name "Champ" für ihren Opa eine ganz besondere Bedeutung. Sein Vater hatte ihm in schwierigen Momenten oft zugerufen "Get up Champ" ("Steh auf, Champ"). Biden hatte diesen Satz auf seiner Wahlkampf-Tour häufig in seine Reden eingebaut.
 

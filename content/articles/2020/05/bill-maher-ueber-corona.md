@@ -63,7 +63,7 @@ Maher berichtete auch von einem tödlich verlaufenden Stamm der Vogelgrippe. Sie
 
 Der Talkmaster zeigte sich besorgt über den unbkümmerten Einsatz von Antibiotika und anderen Medikamenten in der Tierzucht.
 
-> "Wir pumpen die Tiere mit Antibiotika voll und geben die dabei erschaffenen Antibiotika-resistenten Infektionen direkt an den Menschen weiter. Ihr habt Angst, der⋆die Briefträger⋆in könnte Corona haben? Achtzig Prozent der geschlachteten Schweine litten durch die Bedingungen, unter denen sie ihr Leben verbrachten, an Lungenentzündung.
+> "Wir pumpen die Tiere mit Antibiotika voll und geben die dabei erschaffenen Antibiotika-resistenten Infektionen direkt an den Menschen weiter. Ihr habt Angst, der\*die Briefträger\*in könnte Corona haben? Achtzig Prozent der geschlachteten Schweine litten durch die Bedingungen, unter denen sie ihr Leben verbrachten, an Lungenentzündung.
 
 ## "Tut bitte etwas!"
 

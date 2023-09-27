@@ -28,7 +28,7 @@ language: de
 
 ---
 
-**Hinweis:** Weiter unten findet Ihr einen Gutschein für Eure nächste Bestellung bei MICARAA.⋆
+**Hinweis:** Weiter unten findet Ihr einen Gutschein für Eure nächste Bestellung bei MICARAA.\*
 
 ---
 
@@ -76,6 +76,6 @@ Rashid von MICARAA hat mir den Tipp gegeben, das Serum im Kühlschrank aufzubewa
 
 Das [Bakuchiol Face Serum](https://tidd.ly/3bcdlnL) wurde, wie alle Produkte von MICARAA, von der Vegan Society als vegan und frei von Tierversuchen zertifiziert. Es ist zudem frei von Palmöl, Mikroplastik, Silikonen, Parabenen, Mineralöl, synthetischen Konservierungsstoffen und Sulfaten. Es handelt sich um [vegane Naturkosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/).
 
-Wenn Ihr direkt bei MICARAA bestellt, habt Ihr eine 30-tägige Geld-zurück-Garantie. Mit meinem Rabatt-Code⋆ erhaltet Ihr im Onlineshop 10 Prozent Rabatt auf Eure Bestellung.
+Wenn Ihr direkt bei MICARAA bestellt, habt Ihr eine 30-tägige Geld-zurück-Garantie. Mit meinem Rabatt-Code\* erhaltet Ihr im Onlineshop 10 Prozent Rabatt auf Eure Bestellung.
 
 ⋆Wenn Ihr neugierig geworden seid und die [MICARAA Produkte](https://tidd.ly/3bcl01z) auch mal testen wollt, bekommt Ihr mit meinem persönlichen Gutschein **zehn Prozent Rabatt**. Gebt dafür bei Eurer Bestellung einfach den Gutscheincode **anne10** ein.

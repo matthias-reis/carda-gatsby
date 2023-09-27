@@ -32,7 +32,7 @@ subTitle: Joaquin Phoenix, Rooney Mara und Billie Eilish helfen Bedürftigen
 
 **Support + Feed verteilt seit dem Beginn der Corona-Pandemie Essen an Bedürftige. Die Organisation wächst immer weiter und hat jetzt jede Menge prominente Unterstützung bekommen.**
 
-Joaquin Phoenix, Rooney Mara und Billie Eilish haben gemeinsam mit ihren Familien dabei geholfen, vegane Mahlzeiten an die Organisation My Friend's Place in Los Angeles auszuliefern. My Friend's Place setzt sich in LA für jugendliche Angehörige der LGBTQI⋆ Community ein.
+Joaquin Phoenix, Rooney Mara und Billie Eilish haben gemeinsam mit ihren Familien dabei geholfen, vegane Mahlzeiten an die Organisation My Friend's Place in Los Angeles auszuliefern. My Friend's Place setzt sich in LA für jugendliche Angehörige der LGBTQI\* Community ein.
 
 Die Gruppe lieferte zum ersten Geburtstag von Support + Feed von der Fast-Food-Kette Monty's Good Burger gespendete Mahlzeiten. Billie Eilishs Mutter Maggie Baird hatte das Projekt im März vergangenen Jahres gegründet.
 
@@ -42,7 +42,7 @@ Die Gruppe lieferte zum ersten Geburtstag von Support + Feed von der Fast-Food-K
 
 > "Während einer Zeit, in der sich die meisten Menschen Sorgen um ihre eigene Gesundheit und Sicherheit machen, hat Maggie weiter gedacht und sich überlegt, wie sie gesundes Essen zu den Menschen bringen kann, die es am allernötigsten brauchen".
 
-Maggies Ziel ist es, Arbeiter⋆innen an vorderster Front und gefährdete Bevölkerungsgruppen mit Essen zu versorgen und dabei vegane Restaurants zu unterstützen. Sie selbst sagte:
+Maggies Ziel ist es, Arbeiter\*innen an vorderster Front und gefährdete Bevölkerungsgruppen mit Essen zu versorgen und dabei vegane Restaurants zu unterstützen. Sie selbst sagte:
 
 > "Es ist unglaublich. Was als Reaktion auf die COVID-Krise losging und Menschen dabei helfen sollte, eine tägliche Mahlzeit zu erhalten und gleichzeitig kleinen, veganen Restaurants das Überleben sichern sollte, ist zu einer richtigen Bewegung geworden."
 

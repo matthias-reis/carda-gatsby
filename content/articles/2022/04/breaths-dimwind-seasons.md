@@ -34,7 +34,7 @@ languageLink: /2022/04/breaths-dimwind-seasons-en/
 
 Ganz genau: Ihr habt richtig gelesen. Die Split-EP "Seasons" von Breaths (feat. Chad Kapper of Frontierer) und Dimwind würde es ohne [mein Interview mit Breaths Gründer Jason](/2021/02/breaths-interview/) und [das mit Dimwind Gründer Jonas](/2021/06/dimwind-interview/) sowie die Reviews zu ihren Debüt-Platten ["Slow Wave Violence" (Dimwind)](/2021/05/dimwind-slow-wave-violence/) und ["Though Life" (Breaths)](/2021/10/breaths-though-life/) wohl nicht geben. Das berichtete mir Jason vor Kurzem in einer Nachricht.
 
-Für mich ist das eine riesige Ehre und ich bin wirklich stolz auf "meine" Platte. Irgendwie ist es ja klar, dass auch Musiker⋆innen Blogs lesen und sich von der Musik ihrer Kolleg⋆innen inspiriert fühlen. Dass man sich dann gegenseitig über die sozialen Netzwerke anschreibt und austauscht, liegt auch auf der Hand. Dass mein Blog auf diesem Weg allerdings zu neuer Musik führen würde (die obendrein auch noch so großartig ist, wie diese EP), hätte ich allerdings niemals zu träumen gewagt.
+Für mich ist das eine riesige Ehre und ich bin wirklich stolz auf "meine" Platte. Irgendwie ist es ja klar, dass auch Musiker\*innen Blogs lesen und sich von der Musik ihrer Kolleg\*innen inspiriert fühlen. Dass man sich dann gegenseitig über die sozialen Netzwerke anschreibt und austauscht, liegt auch auf der Hand. Dass mein Blog auf diesem Weg allerdings zu neuer Musik führen würde (die obendrein auch noch so großartig ist, wie diese EP), hätte ich allerdings niemals zu träumen gewagt.
 
 ## Dimwind und Breaths haben gemeinsam eine Platte aufgenommen, nachdem sie sich über meinen Blog kennengelernt haben
 

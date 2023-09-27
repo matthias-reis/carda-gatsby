@@ -47,13 +47,13 @@ Kurz vor der letzten Tauben-Mahnwache am Hamburger Bahnhof Altona kam ich mit An
 
 **Andrea:** Oh ja, ich bekam meine erste Stadttaube im Alter von zehn Jahren. Sie hieß Nelli und ich pflegte sie gesund – so gut ich das damals konnte. Die Liebe und Achtung zu Tieren ist meiner Meinung nach Erziehungssache. In meiner Familie wurde alles respektiert. So trat man keine Pilze im Wald um und hob Käfer von der Straße auf, um sie ins Gebüsch zu setzen. Wir sind als Kinder auch keinen Tauben hinterhergelaufen, um sie aufzuschrecken.
 
-**Anne:** Die Geschichte unserer heutigen Stadttauben ist eng mit unserer verbunden. Menschen hielten sich bereits 6.000 v. Chr. Tauben als Haustiere. Ab dem Mittelalter wurden sie dann nachweislich nicht nur gezüchtet, gehalten und gegessen, sondern sogar verehrt. Das Ergebnis war, dass ihr Bestand immer weiter zunahm. Auch heute gibt es noch Taubenzüchter⋆innen, die zum Teil Unsummen für bestimmte Tauben zahlen. Dennoch bezeichnen viel Tauben als "die Ratten der Lüfte" und dichten ihnen unter anderem an, sie würden Krankheiten auf Menschen übertragen. Wie kommt es zu dieser Diskrepanz? Warum sind diese wunderbaren Wesen so missverstanden?
+**Anne:** Die Geschichte unserer heutigen Stadttauben ist eng mit unserer verbunden. Menschen hielten sich bereits 6.000 v. Chr. Tauben als Haustiere. Ab dem Mittelalter wurden sie dann nachweislich nicht nur gezüchtet, gehalten und gegessen, sondern sogar verehrt. Das Ergebnis war, dass ihr Bestand immer weiter zunahm. Auch heute gibt es noch Taubenzüchter\*innen, die zum Teil Unsummen für bestimmte Tauben zahlen. Dennoch bezeichnen viel Tauben als "die Ratten der Lüfte" und dichten ihnen unter anderem an, sie würden Krankheiten auf Menschen übertragen. Wie kommt es zu dieser Diskrepanz? Warum sind diese wunderbaren Wesen so missverstanden?
 
 **Andrea:** Du solltest mal die Leute draußen beobachten. Wenn ein Schwarm Brieftauben über die Menschen hinweg fliegt, erfreuen sie siech daran. Sobald aber vereinzelt oder in Grüppchen Tauben auf der Straße herumlaufen, sind sie automatisch "die Ratten der Lüfte".
 
 ## "Brieftauben werden geliebt, Stadttauben gehasst"
 
-Hier gilt es zu verstehen, dass es sich bei den einen um "gemeine" Haus- beziehungsweise Stadttauben handelt und bei den anderen um die hochgezüchteten "Sportgeräte" von Taubenzüchter⋆innen.
+Hier gilt es zu verstehen, dass es sich bei den einen um "gemeine" Haus- beziehungsweise Stadttauben handelt und bei den anderen um die hochgezüchteten "Sportgeräte" von Taubenzüchter\*innen.
 
 In einigen Ländern wurden oder werden Stadttauben auch verehrt. Muslim⋆innen lernen zum Beispiel durch einige Suren im Koran Achtung vor diesen Tieren. Bei uns ist das leider ziemlich sicher noch nie der Fall gewesen. Die als Haustier oder Nutztier gehaltene Taube (Eier-, Feder- und Fleischlieferant) wurde irgendwann nicht mehr gebraucht, weil die Menschen zu anderen Nutztieren übergingen. Aus diesem Grund ließ man sie einfach fliegen.
 

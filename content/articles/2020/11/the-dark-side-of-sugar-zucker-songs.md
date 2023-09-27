@@ -33,7 +33,7 @@ subTitle: Metal Band covert zuckrige Popsongs
 
 Die Erlöse der Aktion kommen der unabhängigen Organisation diabetesDE – Deutsche Diabetes-Hilfe e.V. zugute. Pünktlich zum Weltdiabetestag veröffentlichten Risen from Shadows mit einem Cover von Frankie Js "Suga Suga" ihr erstes Musikvideo zum Thema.
 
-Die The Dark Side Of Sugar Kampagne soll zugleich Weckruf und Mahnung sein. Viele Lebensmittel, die heute auf unserem täglichen Speiseplan stehen, enthalten versteckten Zucker, der auf Dauer krank machen kann. Die Initiatoren wollen mit der Aktion auf die Tricks der Lebensmittelindustrie hinweisen und die Verbraucher⋆innen schützen.
+Die The Dark Side Of Sugar Kampagne soll zugleich Weckruf und Mahnung sein. Viele Lebensmittel, die heute auf unserem täglichen Speiseplan stehen, enthalten versteckten Zucker, der auf Dauer krank machen kann. Die Initiatoren wollen mit der Aktion auf die Tricks der Lebensmittelindustrie hinweisen und die Verbraucher\*innen schützen.
 
 ## Mit Metal gegen Zucker
 
@@ -51,7 +51,7 @@ Das komplette gleichnamige Album von The Dark Side Of Sugar soll Ende 2020 ersch
 
 Holly Gabriel, Ernährungswissenschaftlerin bei Action on Sugar kommentiert die Kampagne so:
 
-> "Wir fordern mehr Transparenz in der Lebensmittelbranche, zum Beispiel durch eine eindeutige Kennzeichnung der Inhaltsstoffe. Das ist wichtig, damit jede⋆r Verbraucher⋆in ihre⋆seine Kaufentscheidung bewusst treffen kann",
+> "Wir fordern mehr Transparenz in der Lebensmittelbranche, zum Beispiel durch eine eindeutige Kennzeichnung der Inhaltsstoffe. Das ist wichtig, damit jede\*r Verbraucher⋆in ihre⋆seine Kaufentscheidung bewusst treffen kann",
 
 In Großbritannien konnte Action on Sugar durch Aufklärungsarbeit bereits weitreichende Zuckerreformen erwirken. The Dark Side Of Sugar ist die erste Aktion dieser Art in Deutschland.
 

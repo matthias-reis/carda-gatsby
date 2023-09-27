@@ -47,7 +47,7 @@ advertisement: true
 
 Habt Ihr Lust, ein paar tolle gesunde Lebensmittel zu retten, mal was Neues auszuprobieren und in Zukunft noch kreativer zu kochen? Dann solltet Ihr jetzt auf jeden Fall weiterlesen.
 
-etepetete rettet Lebensmittel. Das Unternehmen bezieht seine Ware weitestgehend lokal. Wenn allerdings mal Avocados aus Spanien mit kleinen "Fehlern" in der Schale vor der Verschwendung bewahrt werden können, ist man auch dafür offen. Auf der [Homepage](https://www.adcell.de/promotion/click/promoId/175806/slotId/80259?param0=https%3A%2F%2Fetepetete-bio.de) sowie in den sozialen Netzwerken veröffentlich etepetete wöchentlich Infos über die aktuellen Boxen. Der tatsächliche Inhalt kann leicht abweichen. Die Natur bestimmt, was die Kund⋆innen erhalten.
+etepetete rettet Lebensmittel. Das Unternehmen bezieht seine Ware weitestgehend lokal. Wenn allerdings mal Avocados aus Spanien mit kleinen "Fehlern" in der Schale vor der Verschwendung bewahrt werden können, ist man auch dafür offen. Auf der [Homepage](https://www.adcell.de/promotion/click/promoId/175806/slotId/80259?param0=https%3A%2F%2Fetepetete-bio.de) sowie in den sozialen Netzwerken veröffentlich etepetete wöchentlich Infos über die aktuellen Boxen. Der tatsächliche Inhalt kann leicht abweichen. Die Natur bestimmt, was die Kund\*innen erhalten.
 
 ## etepetete bietet verschiedene Boxen an
 
@@ -63,7 +63,7 @@ Für die Lieferung der Boxen könnt Ihr verschiedene Intervalle wählen. Auch de
 
 <Gallery name="etepetetefamilybox1" />
 
-Ihr könnt die Boxen im ein- oder zweiwöchentlichen Rhythmus beziehen. Bei den Obst- und Gemüse-Boxen und Snackboxen ist auch ein drei- oder vierwöchentlicher Intervall möglich. Nach der ersten Box kann könnt Ihr das Abo beliebig oft und lange pausieren oder kündigen. etepetete arbeitet derzeit an einer Lösung für Kund⋆innen, die den Inhalt ihrer Boxen selbst bestimmen möchten. Ich selbst lasse mich liebend gerne überraschen. Ich kann mir aber vorstellen, dass das zum Beispiel im Fall einer Allergie sehr praktisch sein kann.
+Ihr könnt die Boxen im ein- oder zweiwöchentlichen Rhythmus beziehen. Bei den Obst- und Gemüse-Boxen und Snackboxen ist auch ein drei- oder vierwöchentlicher Intervall möglich. Nach der ersten Box kann könnt Ihr das Abo beliebig oft und lange pausieren oder kündigen. etepetete arbeitet derzeit an einer Lösung für Kund\*innen, die den Inhalt ihrer Boxen selbst bestimmen möchten. Ich selbst lasse mich liebend gerne überraschen. Ich kann mir aber vorstellen, dass das zum Beispiel im Fall einer Allergie sehr praktisch sein kann.
 
 Die Obst- und Snack-Boxen sind sicher auch eine tolle Option für Firmen. Es ist ja stark im Kommen, dass Chefs ihrer Belegschaft gesunde Kleinigkeiten für den Hunger zwischendurch zur Verfügung stellen. Für Abwechslung ist bei etepetete auf jeden Fall gesorgt.
 

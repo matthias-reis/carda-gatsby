@@ -37,9 +37,9 @@ languageLink: /2022/04/ukrainian-war-refugee-support-pelagic-en
 
 **Pelagic Records haben mit Mono, Year Of No Light, Bruit, SOM, Årabrot, Psychonaut, Nyos, Shy, Low, Enphin, Blessings, Oslo Tapes, Briqueville und Johan G Winther einen Doppel-Tape-Sampler für die Geflüchteten aus Ukraine gemacht.**
 
-Angesichts der schrecklichen Ereignisse rund um den Krieg in Ukraine möchte das Label zusammen mit den Musiker⋆innen einen Beitrag zur Unterstützung der Menschen, die ihr Zuhause verloren haben, leisten.
+Angesichts der schrecklichen Ereignisse rund um den Krieg in Ukraine möchte das Label zusammen mit den Musiker\*innen einen Beitrag zur Unterstützung der Menschen, die ihr Zuhause verloren haben, leisten.
 
-Pelagic wandte sich an seine Künstler⋆innen, um einen Doppel-Tape-Sampler mit exklusivem, unveröffentlichtem Material zusammenzustellen. Er ist von Hand nummeriert und auf 200 Exemplare limitiert. Wenn Ihr die haptische Version ergattern wollt, heißt es also schnell sein. [Ihr könnt die Kassetten hier vorbestellen](https://pelagic-records.com/product/pelagic-records-ukrainian-war-refugee-support-a-pelagic-compilation-2xtape/).
+Pelagic wandte sich an seine Künstler\*innen, um einen Doppel-Tape-Sampler mit exklusivem, unveröffentlichtem Material zusammenzustellen. Er ist von Hand nummeriert und auf 200 Exemplare limitiert. Wenn Ihr die haptische Version ergattern wollt, heißt es also schnell sein. [Ihr könnt die Kassetten hier vorbestellen](https://pelagic-records.com/product/pelagic-records-ukrainian-war-refugee-support-a-pelagic-compilation-2xtape/).
 
 ## Die Einnahmen werden komplett an Ukraine Geflüchtete gespendet
 

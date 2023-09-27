@@ -50,7 +50,7 @@ Ein paar weitere kleine Details haben Fabio Ripanucci (zusätzliche Gitarren, Rh
 
 ## Eine perfekt orchestrierte Jam Session
 
-Mit Gastmusiker⋆innen arbeitet Augustine schon immer gerne. Das Zepter behält aber immer sie selbst in der Hand. Das neue Werk klingt wie eine perfekt orchestrierte Jam Session mit lieben Freunden. Insgesamt ist das Album eines zum immer wieder hören. Es vibriert vor Leben und ist dabei angenehm mystisch und finster.
+Mit Gastmusiker\*innen arbeitet Augustine schon immer gerne. Das Zepter behält aber immer sie selbst in der Hand. Das neue Werk klingt wie eine perfekt orchestrierte Jam Session mit lieben Freunden. Insgesamt ist das Album eines zum immer wieder hören. Es vibriert vor Leben und ist dabei angenehm mystisch und finster.
 
 Die Inspiration für die LP fand die Musikerin im Kunstwerk "Proserpine" von Dante Gabriel Rosetti. Ihre Geschichte rankt sich um die Göttin des Jenseits. Alle Songs spielen mit dieser Figur aus der griechischen Mythologie. Die Idee für dieses Ausnahmekonzept kam Augustine während sie im selbst auferlegten Exil die Unerbittlichkeit des zurückgezogenen Lebens kennenlernte. Sie selbst nennt das
 
@@ -82,7 +82,7 @@ Ihr Pseudonym Agustine nahm die Künstlerin nach ihren Aufnahmen mit One Thin Li
 
 Für ihr Video zum Song "Augustine" wurde ihr 2019 beim VIC (Videoclip Italia Contest) der zweite Preis als für das beste selbst produzierte Musikvideo verliehen. Ihr erstes offizielles Album "Grief and Desire" ist als musikalischer autobiografischer Roman konzipiert. Generell zieht sie ihre Ideen gerne aus der Literatur (z. B. Sylvia Plath und Virginia Woolf) und Malerei.
 
-Ihre Einflüsse sieht sie vor allem im britischen Post-Punk, Dream Pop und Darkwave der 1980er Jahre. Ihre Verehrung für Größen wie Dead Can Dance, Cocteau Twins, Siouxsie And The Banshees, Sinead O'Connor, PJ Harvey, Agnes Obel und Björk hört man ihrem Stil durchaus an. Doch nicht nur, wenn ihr mit der Musik der genannten Musiker⋆innen und Bands etwas anfangen könnt, solltet Ihr in ihre aktuelle Platte "Proserpine" unbedingt mal reinhören. Ich lege sie Euch hiermit ans Herz.
+Ihre Einflüsse sieht sie vor allem im britischen Post-Punk, Dream Pop und Darkwave der 1980er Jahre. Ihre Verehrung für Größen wie Dead Can Dance, Cocteau Twins, Siouxsie And The Banshees, Sinead O'Connor, PJ Harvey, Agnes Obel und Björk hört man ihrem Stil durchaus an. Doch nicht nur, wenn ihr mit der Musik der genannten Musiker\*innen und Bands etwas anfangen könnt, solltet Ihr in ihre aktuelle Platte "Proserpine" unbedingt mal reinhören. Ich lege sie Euch hiermit ans Herz.
 
 ## Augustine – "Anemones"
 

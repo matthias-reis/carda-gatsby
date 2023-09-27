@@ -54,7 +54,7 @@ Paul Wesley setzt sich bereits seit vielen Jahren für Tierrechte ein und teilt 
 
 > "Massentierhaltung ist in meinen Augen eines der größten Probleme unserer Zeit – wenn nicht sogar das größte überhaupt. Das unvorstellbare Leid, dem die Industrie lebende Wesen aussetzt, die Ursache für zahlreiche Krankheiten und sogar Pandemien und die größte Ursache für den Klimawandel. Schließt Euch mir an und lebt wie ich vegan."
 
-Neben seinem Aktivismus in den sozialen Netzwerken nutzt der Schauspieler seine Bekanntheit auch dazu, Politiker⋆innen auf die Missstände aufmerksam zu machen. So forderte er die amerikanische Vizepräsidentin Kamala Harris dazu auf, an Thanksgiving vegane Rezepte auszuprobieren, nachdem sie auf Instagram ein Rezept für Maisbrot-Dressing mit Schweinefleisch gepostet hatte. Viele ihrer Follower hatten sie daraufhin nach einer veganen Variante gefragt, darunter auch Paul Wesley, der sie gerade heraus fragte:
+Neben seinem Aktivismus in den sozialen Netzwerken nutzt der Schauspieler seine Bekanntheit auch dazu, Politiker\*innen auf die Missstände aufmerksam zu machen. So forderte er die amerikanische Vizepräsidentin Kamala Harris dazu auf, an Thanksgiving vegane Rezepte auszuprobieren, nachdem sie auf Instagram ein Rezept für Maisbrot-Dressing mit Schweinefleisch gepostet hatte. Viele ihrer Follower hatten sie daraufhin nach einer veganen Variante gefragt, darunter auch Paul Wesley, der sie gerade heraus fragte:
 
 > "Wie wäre es, wenn wir statt Schweinefleisch eine vegane Wurst verwenden und so den Klimawandel bekämpfen?"
 
@@ -74,7 +74,7 @@ Weitere Dokumentation wie "Eating Animals", "[The Game Changers](/2019/11/the-ga
 
 > "Ich bin so stolz drauf, Veganer zu sein. Es war die beste Entscheidung, die ich jemals getroffen habe – für meine Gesundheit und die Welt und um des Anstands und Mitgefühls willen."
 
-Um seine Erfahrungen und Tipps rund um das Thema Veganismus mit anderen zu teilen, nutzt Paul am liebsten Social Media. Er nennt dafür gleich einige Gründe und bestärkt auch andere Social-Media-Nutzer⋆innen und Blogger⋆innen, es ihm gleichzutun:
+Um seine Erfahrungen und Tipps rund um das Thema Veganismus mit anderen zu teilen, nutzt Paul am liebsten Social Media. Er nennt dafür gleich einige Gründe und bestärkt auch andere Social-Media-Nutzer\*innen und Blogger⋆innen, es ihm gleichzutun:
 
 > "Für Aktivist⋆innen sind die sozialen Netzwerke ein wichtiger Hebel. Sie helfen uns dabei, den Menschen die Augen für Grausamkeiten zu öffnen, denen sie sich früher nicht bewusst waren. Wir decken die wahren Bedingungen der Massentierhaltung auf – und den Irrsinn unseres industrialisierten Lebensmittelsystems. Es bricht mir das Herz. Wir dürfen nicht aufhören, uns für Veränderungen einzusetzen und die Menschen aufklären."
 

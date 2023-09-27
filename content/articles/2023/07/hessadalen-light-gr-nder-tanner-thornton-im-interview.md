@@ -50,7 +50,7 @@ Das gemeinsame Album steht in der Startbox, die erste Vorauskopplung "Khajiit H
 
 ![Tanner. Bild/Picture: Hessdalen Light](https://storage.googleapis.com/cardamonchai-media/2023-07-31/hessdalen-light-tanner-guitar-jpg-imagine-080808_3f383c_3531_4414/640.webp 'Tanner. Bild/Picture: Hessdalen Light')
 
-**Tanner:** Ja, wir sind unglaublich stolz, wie die Single geworden und haben bis jetzt ausschließlich positives Feedback dazu erhalten. Der Song hat unsere monatlichen Zahlen beim Spotify von weniger als 100 Hörer⋆innen auf mehr als 700 zur Zeit der Veröffentlichung gebracht. Wir sind überzeugt, dass das nur die Spitze des Eisbergs ist, den wir haben es wirklich geschafft, unseren Groove zu finden und die gesamte Produktionsqualität ist hervorragend.
+**Tanner:** Ja, wir sind unglaublich stolz, wie die Single geworden und haben bis jetzt ausschließlich positives Feedback dazu erhalten. Der Song hat unsere monatlichen Zahlen beim Spotify von weniger als 100 Hörer\*innen auf mehr als 700 zur Zeit der Veröffentlichung gebracht. Wir sind überzeugt, dass das nur die Spitze des Eisbergs ist, den wir haben es wirklich geschafft, unseren Groove zu finden und die gesamte Produktionsqualität ist hervorragend.
 
 Ich muss auch einen großen Shoutout an Hannah Boettinger machen, die Künstlerin, die das Artwork für unsere Single illustriert hat. Ihr buntes und chaotisches Kunstwerk spiegelt die Stimmung des Songs wirklich perfekt wider.
 
@@ -70,7 +70,7 @@ Ich muss auch einen großen Shoutout an Hannah Boettinger machen, die Künstleri
 
 **Tanner:** Wir haben uns für den Songtitel tatsächlich von einer NPC-Zeile aus dem The Elder Scrolls Spiel Skyrim inspirieren lassen. Ich hatte Skyrim zum ersten Mal seit über einem Jahrzehnt durchgespielt, zu der Zeit, als ich den Hauptteil des Songs geschrieben habe. Es hat sich also einfach natürlich zusammengefügt.
 
-**Anne:** Das Stück klingt ziemlich proggig. Ich vermute, Ihr steht ziemlich auf bedeutungsvoll Hymnen und all diese wundervollen, inspirierenden Sounds, die Geschichten erzählen? Welche Künstler⋆innen inspirieren Euch am meisten?
+**Anne:** Das Stück klingt ziemlich proggig. Ich vermute, Ihr steht ziemlich auf bedeutungsvoll Hymnen und all diese wundervollen, inspirierenden Sounds, die Geschichten erzählen? Welche Künstler\*innen inspirieren Euch am meisten?
 
 **Tanner:** Ja, die Natur des Songs ist ziemlich progressiv und ein guter Vorgeschmack auf die nächsten Stücke. Seit ich mich mit Musik beschäftige, haben mich die progressiven Songstrukturen, die nicht nach dem Prinzip Verse-Chorus-Verse funktionieren, schon immer am meisten fasziniert.
 

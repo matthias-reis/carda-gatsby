@@ -40,7 +40,7 @@ Ihren charakteristischen Sound, den À Terre bereits beim Vorgänger "Notre Ciel
 
 Sie selbst sagen über "Traversée":
 
-> "In den Lyrics verbinden wir das Persönliche mit dem Universellen. Wir möchten unsere Hörer⋆innen zur Introspektion und zur Konfrontation mit dieser dunklen und melancholischen Seite, mit der wir alle von Zeit zu Zeit zu kämpfen haben einladen."
+> "In den Lyrics verbinden wir das Persönliche mit dem Universellen. Wir möchten unsere Hörer\*innen zur Introspektion und zur Konfrontation mit dieser dunklen und melancholischen Seite, mit der wir alle von Zeit zu Zeit zu kämpfen haben einladen."
 
 ## Eine zwanzigminütige Reise
 

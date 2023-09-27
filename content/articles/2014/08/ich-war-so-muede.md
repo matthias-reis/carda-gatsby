@@ -44,7 +44,7 @@ year: '2014'
 month: '08'
 ---
 
-## Veganer⋆innen sind einfach gesünder
+## Veganer\*innen sind einfach gesünder
 
 **[Hier geht's zu Teil 1 des Artikels](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) Immer wieder werden Gerüchte wach, Veganer\*innen würden sich ungesund ernähren. Selbst große, angesehene Zeitungen und Magazine berichten darüber. Dies zu dementieren, sind die meisten Veganer\*innen schon müde geworden, doch lässt sich für das ständig neue Aufblühen der Mythen und Weisheiten auch ein Grund vermuten.**
 

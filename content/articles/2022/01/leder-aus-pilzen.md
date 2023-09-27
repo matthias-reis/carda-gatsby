@@ -53,7 +53,7 @@ Im Rahmen der Fashion Voices Konferenz, an der auch Größen, wie die britische 
 
 Der Forscher ist davon überzeugt, dass die Arbeit mit Pilzen die Kreativität und nachhaltiges Denken fördert.
 
-Neben dem Verzicht auf Tierleid und die haptischen Besonderheiten des neuen Materials hat Pilzleder einen weiteren Vorteil gegenüber herkömmlichem Leder. Es kann in Stücken gezüchtet werden, die exakt die Form und Größe besitzen, die ein⋆e Designer⋆in oder Schneider⋆in benötigt, um ein Stück anzufertigen. Es fallen also keine Reste an. Es handelt sich also um veganes Zero Waste Leder.
+Neben dem Verzicht auf Tierleid und die haptischen Besonderheiten des neuen Materials hat Pilzleder einen weiteren Vorteil gegenüber herkömmlichem Leder. Es kann in Stücken gezüchtet werden, die exakt die Form und Größe besitzen, die ein\*e Designer\*in oder Schneider⋆in benötigt, um ein Stück anzufertigen. Es fallen also keine Reste an. Es handelt sich also um veganes Zero Waste Leder.
 
 ## Vom Luxussektor auf den breiten Markt
 

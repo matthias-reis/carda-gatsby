@@ -34,7 +34,7 @@ languageLink: /2021/11/wang-wen-100000-whys-en/
 
 Die stark gefilterten Synthesizer und ausgefransten Bass-Spuren sorgen für einen Hauch 1970er Jahre – trotzdem ist hier gar nichts blumig, kitschig oder überladen. Wang Wen verstehen sich auf den Einsatz ihrer Instrumente und sie nutzen viele davon.
 
-Schicht um Schicht baut sich beim Hören ein elektrifiziertes Meisterwerk auf und ich wünsche mir sofort diese Klangkünstler⋆innen möglichst bald live auf der Bühne erleben zu dürfen.
+Schicht um Schicht baut sich beim Hören ein elektrifiziertes Meisterwerk auf und ich wünsche mir sofort diese Klangkünstler\*innen möglichst bald live auf der Bühne erleben zu dürfen.
 
 ## Wang Wen machen soundtechnisch niemandem etwas vor
 

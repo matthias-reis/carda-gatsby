@@ -112,9 +112,9 @@ Letzte Woche erschien das neue Video von Sâver. Die Norweger sind gerade zu ihr
 
 > "Eine Projektion wunderschöner Klanglandschaften, durchdrungen von höchster Härte und knorrigen Sludge-Riffs. SÂVER sind spirituell verwoben in einem experimentellen Wirbelwind musikalischer Raffinesse in ihrer schwersten und unirdischsten Form."
 
-Klingt mystisch, oder? Ist es auch. Für die Band war das Projekt das bisher experimentellste in der gemeinsamen Geschichte der Mitglieder. Zum allerersten Mal übergaben sie das Steuer und ließen den visuellen Künstler Simon Skari und den ilmemacher Fredrik Harper "Dimension Lost", Obscured by Aeons" interpretieren. Das Ergebnis ist ein kinematisches Erlebnis. Die Idee der Band war es bei dem Projekt, den unbekannten Narrativ ihrer Zuhörer⋆innen zu erkunden – in diesem Fall Skari und Harper. Die Band meint:
+Klingt mystisch, oder? Ist es auch. Für die Band war das Projekt das bisher experimentellste in der gemeinsamen Geschichte der Mitglieder. Zum allerersten Mal übergaben sie das Steuer und ließen den visuellen Künstler Simon Skari und den ilmemacher Fredrik Harper "Dimension Lost", Obscured by Aeons" interpretieren. Das Ergebnis ist ein kinematisches Erlebnis. Die Idee der Band war es bei dem Projekt, den unbekannten Narrativ ihrer Zuhörer\*innen zu erkunden – in diesem Fall Skari und Harper. Die Band meint:
 
-> "Es ist eine düstere und abstrakte Interpretation entstanden, die den Zuschauer⋆innen die Story nicht aufzwingt. Vielmehr stellt sie das visuelle Werkzeug zur Verfügung, das dazu nötig ist, einen eigenen Narrativ zu erschaffen. Das sorgt dafür, dass, abhängig von den Menschen, die es sich ansehen, das Video schön, ominös, klaustrophobisch oder weit und offen sein kann – eine Spanne, die ziemlich genau die Essenz von Sâvers Vorstellung von Musik entspricht."
+> "Es ist eine düstere und abstrakte Interpretation entstanden, die den Zuschauer\*innen die Story nicht aufzwingt. Vielmehr stellt sie das visuelle Werkzeug zur Verfügung, das dazu nötig ist, einen eigenen Narrativ zu erschaffen. Das sorgt dafür, dass, abhängig von den Menschen, die es sich ansehen, das Video schön, ominös, klaustrophobisch oder weit und offen sein kann – eine Spanne, die ziemlich genau die Essenz von Sâvers Vorstellung von Musik entspricht."
 
 <YouTube id="NWqllHdRd3Y" />
 

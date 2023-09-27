@@ -89,7 +89,7 @@ Ich musste mit meiner Arbeit für den Mitternachtsbus aufhören, als ich schwang
 
 **Inbar:** Ich wusste nicht viel über veganen Aktivismus in Hamburg, bevor ich mit Anonymous For The Voiceless angefangen habe. Ich kann also nur über meine Erfahrungen innerhalb dieser Gruppe sprechen.
 
-In Hamburg gibt es eine wunderbare Gemeinschaft von Aktivist⋆innen. Unsere Gruppe ist vielfältig, fleißig und engagiert. Bei uns gibt es eine familiäre Atmosphäre - einladend und unbelastet. Wir haben es geschafft, eine gesunde und nachhaltige Kultur zu schaffen. Das ist besonders für Tierrechts-Aktivist⋆innen sehr wichtig. Immer, wenn wir bei unseren Events Gäste haben, sagen sie uns, wie nett, hilfsbereit und offen wir sind.
+In Hamburg gibt es eine wunderbare Gemeinschaft von Aktivist\*innen. Unsere Gruppe ist vielfältig, fleißig und engagiert. Bei uns gibt es eine familiäre Atmosphäre - einladend und unbelastet. Wir haben es geschafft, eine gesunde und nachhaltige Kultur zu schaffen. Das ist besonders für Tierrechts-Aktivist\*innen sehr wichtig. Immer, wenn wir bei unseren Events Gäste haben, sagen sie uns, wie nett, hilfsbereit und offen wir sind.
 
 **Anne:** Bei den Events, die Du organisierst, schaffst Du es unheimlich viele Leute miteinander zu vernetzen und für die gute Sache zu begeistern. Warst Du schon immer ein kommunikativer Mensch?
 

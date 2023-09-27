@@ -51,7 +51,7 @@ Und nicht nur Upcycling ist ein großes Thema im Green Haven. Alles, was neu ang
 
 Die hauseigene Solaranlage versorgt das Haus bei Sonnenschein mit Strom, wenn das Wetter schlecht ist, wird Ökostrom bezogen. Das Green Haven ist ein Bed &amp; Breakfast der besonderen Art. So werden zum Beispiel auch in regelmäßigen Abständen Veranstaltungen wie Kochkurse und Tauschpartys angeboten.
 
-Natürlich sind nicht nur Veganer⋆innen unter den Gästen, Neugierige sind jederzeit willkommen und welcher Ort eignet sich besser zum Kontakte knüpfen, als ein gemütlicher Treffpunkt an dem Gleichgesinnte bei einem leckeren Frühstück zusammenkommen? Ich habe mich mit Christiane, der Gründerin des Green Haven sehr nett unterhalten.
+Natürlich sind nicht nur Veganer\*innen unter den Gästen, Neugierige sind jederzeit willkommen und welcher Ort eignet sich besser zum Kontakte knüpfen, als ein gemütlicher Treffpunkt an dem Gleichgesinnte bei einem leckeren Frühstück zusammenkommen? Ich habe mich mit Christiane, der Gründerin des Green Haven sehr nett unterhalten.
 
 **Anne:** Guten Morgen, liebe Christiane, wie geht es dir? Schön, dass Du dir die Zeit für das Interview nimmst!
 

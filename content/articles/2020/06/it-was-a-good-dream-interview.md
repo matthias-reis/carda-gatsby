@@ -84,13 +84,13 @@ Welche Festivals mögt Ihr neben dem [DUNK!](/2019/05/dunkfestival-2019/) in Bel
 
 **Alex:** Wie es Chris schon gesagt hat. Wir sind so glücklich mit diesen Leuten zu arbeiten!
 
-**Anne:** Das glaube ich. Wout ist wirklich super. Alle bei DUNK! sind unglaublich nett. Man merkt, dass sie das was sie tun lieben. Jede⋆r geht seiner Aufgabe mit Herzblut nach.
+**Anne:** Das glaube ich. Wout ist wirklich super. Alle bei DUNK! sind unglaublich nett. Man merkt, dass sie das was sie tun lieben. Jede\*r geht seiner Aufgabe mit Herzblut nach.
 
 Wenn Ihr die Zeit zwischen 2018 und heute betrachtet: Was hat sich seitdem für Euch als Band geändert?
 
 ## "Wir finden unsere eigene Stimme"
 
-**Chris:** An unserer Art zu Schreiben hat sich einiges geändert. Wir haben dieses Projekt gestartet, nachdem wir so viele Künstler aus der Post-Rock Szene gehört haben und mitverfolgt haben, was sie tun, um uns Inspiration zu holen. Seitdem haben wir angefangen, unsere eigene Stimme und unsere Art Musik zu schreiben zu finden. Wir haben auch ein Live Setup mit anderen Musiker⋆innen zusammengestellt, um unserem Sound noch mehr Fülle zu verleihen.
+**Chris:** An unserer Art zu Schreiben hat sich einiges geändert. Wir haben dieses Projekt gestartet, nachdem wir so viele Künstler aus der Post-Rock Szene gehört haben und mitverfolgt haben, was sie tun, um uns Inspiration zu holen. Seitdem haben wir angefangen, unsere eigene Stimme und unsere Art Musik zu schreiben zu finden. Wir haben auch ein Live Setup mit anderen Musiker\*innen zusammengestellt, um unserem Sound noch mehr Fülle zu verleihen.
 
 **Alex:** Es ist lustig. Die Band hat sich gegründet ohne wirklich... zu versuchen, eine Band zu sein. Wir hatten eigentlich nur vor, einen Abend gemeinsam zu jammen. Nach diesem Abend haben wir glaube ich für uns entschieden, uns das Ziel zu setzten, zwei gemeinsame Songs zu schreiben. Die nächsten paar Male, die wir uns getroffen haben, wurden aus diesen zwei Songs plötzlich fünf Songs, die sich dann wie von alleine zu unserem Album "Help Me To Recollect" zusammenfügten. Wir hatten damals also nicht wirklich den Bogen raus. Heute ist das ein bisschen anders, weil wir dieses Album schon in der Tasche haben. Jetzt geht es mehr darum, unser Fundament auszubauen und zu erweitern.
 

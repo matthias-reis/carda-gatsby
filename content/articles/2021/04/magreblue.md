@@ -7,9 +7,9 @@ title: Margreblue
 subTitle: Ein Onlineshop zeigt, wie Nachhaltigkeit funktioniert
 seoTitle: Margreblue – ein Onlineshop zeigt, wie Nachhaltigkeit funktioniert
 description: Margreblue ist ein Onlineshop für nachhaltige Produkte. Das
-  erklärte Motto der Betreiber⋆innen lautet "Die Welt etwas blauer gestalten".
+  erklärte Motto der Betreiber*innen lautet "Die Welt etwas blauer gestalten".
 excerpt: Margreblue ist ein Onlineshop für nachhaltige Produkte. Das erklärte
-  Motto der Betreiber⋆innen lautet "Die Welt etwas blauer gestalten". Mit den
+  Motto der Betreiber*innen lautet "Die Welt etwas blauer gestalten". Mit den
   hübsch in blau verpackten festen Shampoos und Seifen gelingt das sehr gut.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-28-magreblue-37-jpg-imagine-d8d8d8_83b0d0_1024_683/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magreblue-fb-png-imagine-0848a8_87889a_1200_628/640.webp
@@ -30,7 +30,7 @@ affiliate: true
 language: de
 ---
 
-**Margreblue ist ein Onlineshop für nachhaltige Produkte. Das erklärte Motto der Betreiber⋆innen lautet "Die Welt etwas blauer gestalten". Mit den hübsch in blau verpackten Shampoos und Seifen gelingt das sehr gut.**
+**Margreblue ist ein Onlineshop für nachhaltige Produkte. Das erklärte Motto der Betreiber\*innen lautet "Die Welt etwas blauer gestalten". Mit den hübsch in blau verpackten Shampoos und Seifen gelingt das sehr gut.**
 
 Was für viele andere noch Zukunftsmusik ist, steht bei Margreblue seit jeher im Vordergrund: Alles ist vegan, fair und Bio. Plastikfreie Verpackungen sind außerdem selbstverständlich und die Kundenorientierung kommt nicht zu kurz.
 

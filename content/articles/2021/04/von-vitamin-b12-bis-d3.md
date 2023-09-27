@@ -1,6 +1,6 @@
 ---
-ogTitle: Nahrungsergänzungsmittel für Veganer⋆innen – Was empfiehlt sich?
-excerpt: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen? Besonders für Veganer⋆innen? Vitamin B12 ist klar, aber was sollte man noch im Auge behalten?
+ogTitle: Nahrungsergänzungsmittel für Veganer*innen – Was empfiehlt sich?
+excerpt: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen? Besonders für Veganer*innen? Vitamin B12 ist klar, aber was sollte man noch im Auge behalten?
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_nahrungsergaenzungsmittel-fb.png__l.jpg
 isAffiliate: false
 path: /2021/04/von-vitamin-b12-bis-d3/
@@ -31,9 +31,9 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04
 language: de
 ---
 
-**Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen? Besonders für Veganer⋆innen?**
+**Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen? Besonders für Veganer\*innen?**
 
-Eines ist schon mal klar: Als Veganer⋆in solltet ihr auf jeden Fall dauerhaft Vitamin B12 einnehmen. Da es dem Futter der Tiere, die wir nicht essen, zugesetzt wird und wir es anders nicht aufnehmen können, ist das der einzige derzeit bekannte sichere Weg, den Vitamin-B12-Speicher stets gut gefüllt zu halten. Das bedeutet natürlich nicht, dass Nicht-Veganer⋆innen keinen B12-Mangel erleiden können. Weil damit nicht zu spaßen ist, lässt man am besten bei jedem Blutbild auch den Holotranscobalamin-Wert (Holo-TC) messen. **Achtung:** Das müsst Ihr auf alle Fälle vorher anmelden und meistens auch selbst bezahlen. Informiert Euch also am besten in der Praxis Eures Vertrauens.
+Eines ist schon mal klar: Als Veganer\*in solltet ihr auf jeden Fall dauerhaft Vitamin B12 einnehmen. Da es dem Futter der Tiere, die wir nicht essen, zugesetzt wird und wir es anders nicht aufnehmen können, ist das der einzige derzeit bekannte sichere Weg, den Vitamin-B12-Speicher stets gut gefüllt zu halten. Das bedeutet natürlich nicht, dass Nicht-Veganer⋆innen keinen B12-Mangel erleiden können. Weil damit nicht zu spaßen ist, lässt man am besten bei jedem Blutbild auch den Holotranscobalamin-Wert (Holo-TC) messen. **Achtung:** Das müsst Ihr auf alle Fälle vorher anmelden und meistens auch selbst bezahlen. Informiert Euch also am besten in der Praxis Eures Vertrauens.
 
 ## Vitamin B12 ist Pflicht
 

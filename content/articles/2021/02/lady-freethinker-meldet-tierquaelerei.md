@@ -41,7 +41,7 @@ Die Netflix-Serie, in der es um die Enttarnung des Mannes geht, der unter andere
 
 ## Lady Freethinker hat eine Petition zum Schutz der Tiere im Netz gestartet
 
-Die Aktivist⋆innen von Lady Freethinker fanden bei ihren Ermittlungen 2020 auf der Video-Plattform Youtube 2.053 Videos, die Missbrauch von Tieren zeigen. Insgesamt 1,2 Milliarden kamen die Videos auf 1,2 Milliarden Aufrufe.
+Die Aktivist\*innen von Lady Freethinker fanden bei ihren Ermittlungen 2020 auf der Video-Plattform Youtube 2.053 Videos, die Missbrauch von Tieren zeigen. Insgesamt 1,2 Milliarden kamen die Videos auf 1,2 Milliarden Aufrufe.
 
 Dabei waren äußerst verstörende Clips, in denen Haustiere, Wildtiere und "Nutztiere" unter anderem bei lebendige Leib verspeist, gefoltert oder bis zur Erschöpfung gejagt wurden. Die Videos wurden auf etwa 146 Kanälen mit insgesamt 30,8 Millionen Abonnenten geteilt.
 
@@ -49,7 +49,7 @@ Die Lady Freethinker Crew meldete Inhalte, die zeigten, wie Tiere absichtlich zu
 
 ## Unterstützt die Aktion jetzt
 
-Stand Februar 2021, stellten die Aktivist⋆innen fest, dass noch mehr als 2.000 der gemeldeten Videos nach wie vor live sind und sogar noch 594 weitere Video hinzugefügt wurden. Darunter fand die Organisation auch wieder gefälschte und inszenierte Tierrettungen. Die Ersteller⋆innen der Clips bringen Haustiere wie Katzen und Hunde in freier Wildbahn in gefährliche Situationen, um sie dann gerade noch rechtzeitig vor Raubtieren wie Schlangen und Krokodilen in Sicherheit zu bringen.
+Stand Februar 2021, stellten die Aktivist\*innen fest, dass noch mehr als 2.000 der gemeldeten Videos nach wie vor live sind und sogar noch 594 weitere Video hinzugefügt wurden. Darunter fand die Organisation auch wieder gefälschte und inszenierte Tierrettungen. Die Ersteller⋆innen der Clips bringen Haustiere wie Katzen und Hunde in freier Wildbahn in gefährliche Situationen, um sie dann gerade noch rechtzeitig vor Raubtieren wie Schlangen und Krokodilen in Sicherheit zu bringen.
 
 Im Rahmen der Aktion ruft Lady Freethinker zu einer absoluten Zero Tolerance Policy auf. Die Organisation hat zu diesem Zweck eine Petition ins Leben gerufen. Darin fordert sie Youtube dazu auf, einen Mechanismus zur schnellen und genauen Aufdeckung von Videos, die Tiermissbrauch enthalten einzusetzen. Die Plattform solle alle Clips, die gegen die strikte Politik verstoßen umgehend entfernen. Lady Freethinker bat YouTube um ein Treffen, in dem die Ergebnisse der Ermittlungsarbeit diskutiert werden soll. Bis jetzt hat Youtube auf die Anfrage noch nicht reagiert.
 

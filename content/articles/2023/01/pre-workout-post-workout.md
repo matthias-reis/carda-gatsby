@@ -36,7 +36,7 @@ Vor dem Workout ist es vor allem (wie zu jedem anderen Zeitpunkt auch) wichtig, 
 
 Weil ich selbst hin und wieder vergesse, genügend Flüssigkeit zu mir zu nehmen, trinke ich vor dem Training bewusst meine 400 Milliliter Wasser. Anschließend bereite ich mir einen Pre-Workout Shake zu. [Der vegane Pre-Workout Booster von Nutri Plus](https://tidd.ly/3XB2575) gefällt mir besonders gut. Er enthält alles, was ich benötige und ist in vielen leckeren Geschmacksrichtungen erhältlich.
 
-Das Granulat könnt Ihr ganz einfach mit Wasser in Euren Shaker geben und gleich trinken. Der Booster erhält Koffein, achtet also an Tagen an, denen ihr ihn zu Euch nehmt, darauf, dafür möglicherweise eine Tasse Kaffee wegzulassen, falls Ihr Kaffeetrinker⋆innen seid.
+Das Granulat könnt Ihr ganz einfach mit Wasser in Euren Shaker geben und gleich trinken. Der Booster erhält Koffein, achtet also an Tagen an, denen ihr ihn zu Euch nehmt, darauf, dafür möglicherweise eine Tasse Kaffee wegzulassen, falls Ihr Kaffeetrinker\*innen seid.
 
 Die Kombination der Inhaltsstoffe soll die Ausdauer im Training und damit die Wirkung verbessern. Wichtige Arminosäuren wie L-Arginin und Beta Alanin unterstützten Euren Muskelaufbau.
 
@@ -66,7 +66,7 @@ Vitamin B6 sorgt für einen normalen Eiweiß- und Glykogenstoffwechsel. Vitamin 
 
 **Tipp:** Nutri Plus rät dazu, den [V-Loader](https://tidd.ly/3H5FpVr) in Kombination mit dem [Nutri Plus V-Booster](https://tidd.ly/3XB2575) zu verwenden, um die ideale Wirkung zu erzielen.
 
-Falls ich beim Training mal wieder an meine Grenzen gegangen bin, hilft mir neben veganem Protein auch die zusätzliche Zufuhr von Magnesium. Ich schaffe es damit, meinen Muskelkater im Rahmen zu halten und Krämpfe zu vermeiden. Im Moment habe ich diese praktischen Retard-Tabletten. Hier wird versprochen, dass über den Tag verteilt eine gewisse Dosis vom Körper aufgenommen wird. Das soll das Produkt bekömmlicher machen. Fragt hier einfach mal in der Apotheke nach, was sich für Sportler⋆innen gut eignet. Ihr werdet jede Menge Infos bekommen.
+Falls ich beim Training mal wieder an meine Grenzen gegangen bin, hilft mir neben veganem Protein auch die zusätzliche Zufuhr von Magnesium. Ich schaffe es damit, meinen Muskelkater im Rahmen zu halten und Krämpfe zu vermeiden. Im Moment habe ich diese praktischen Retard-Tabletten. Hier wird versprochen, dass über den Tag verteilt eine gewisse Dosis vom Körper aufgenommen wird. Das soll das Produkt bekömmlicher machen. Fragt hier einfach mal in der Apotheke nach, was sich für Sportler\*innen gut eignet. Ihr werdet jede Menge Infos bekommen.
 
 ## Veganes Protein für den Muskelaufbau
 

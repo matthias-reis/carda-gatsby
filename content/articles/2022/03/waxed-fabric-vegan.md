@@ -36,7 +36,7 @@ Dabei besitzt das gewachste Gewebe jede Menge überzeugende Vorteile und die bes
 
 ## Waxed Fabric – der Ursprung
 
-Auf ihren Schiffen fanden frühe Segler⋆innen heraus, dass sie mit nassen Segeln wesentlich effizienter unterwegs waren, als mit trockenen. Allerdings wurden ihre Schiffe durch das zusätzliche Gewicht auch langsamer. Mit Beginn des 15. Jahrhunderts begannen sie darum, die schweren Segeltücher mit Fischöl und anderen Fett einzuschmieren. So konnten sie die Meere auch bei trockenem Wetter und ohne beschwerte Segel ökonomisch befahren. Aus den abgenutzten Stoffresten schnitten sie sich wasserdichte Umhänge, um sich auch bei einer steifen Brise trocken halten zu können. Man könnte die Umhänge als die Vorläufer des bei Maritimen aller Couleur beliebten Ölzeugs bezeichnen.
+Auf ihren Schiffen fanden frühe Segler\*innen heraus, dass sie mit nassen Segeln wesentlich effizienter unterwegs waren, als mit trockenen. Allerdings wurden ihre Schiffe durch das zusätzliche Gewicht auch langsamer. Mit Beginn des 15. Jahrhunderts begannen sie darum, die schweren Segeltücher mit Fischöl und anderen Fett einzuschmieren. So konnten sie die Meere auch bei trockenem Wetter und ohne beschwerte Segel ökonomisch befahren. Aus den abgenutzten Stoffresten schnitten sie sich wasserdichte Umhänge, um sich auch bei einer steifen Brise trocken halten zu können. Man könnte die Umhänge als die Vorläufer des bei Maritimen aller Couleur beliebten Ölzeugs bezeichnen.
 
 Der Segelmacher Francis Webster perfektionierte die Waxed Fabric Herstellung dann im Jahr 1795, indem er Flachstücher mit Leinöl tränkte. Der Stoff war wesentlich leichter, als die Segeltücher. Die Royal Navy fand ihn so gut, dass sie ihn auch für ihre Teeklipper verwendete.
 
@@ -46,7 +46,7 @@ Weil die schnellen Segelschiffe auch oft Baumwolle aus Ägypten importierten, la
 
 ## Waxed Fabric ist nachhaltig
 
-Nach und nach fanden sich immer mehr Einsatzgebiete für den wetterfesten Stoff. Sogar im Motorsport (Belstaff und Barbour sind Euch vielleicht ein Begriff) fand er Verwendung und auch britische Soldat⋆innen schützten sich im Einsatz mit Waxed Cotton Jacken vor feuchtem Wetter.
+Nach und nach fanden sich immer mehr Einsatzgebiete für den wetterfesten Stoff. Sogar im Motorsport (Belstaff und Barbour sind Euch vielleicht ein Begriff) fand er Verwendung und auch britische Soldat\*innen schützten sich im Einsatz mit Waxed Cotton Jacken vor feuchtem Wetter.
 
 Im Gegensatz zu Regenkleidung und Taschen aus Kunststoffen sind Produkte aus Waxed Fabric natürlich und nachhaltig. [Mein Rucksack "Kona"](https://tidd.ly/3Nb6xES) ist zum Beispiel aus gewachstem Canvas-Stoff hergestellt.
 

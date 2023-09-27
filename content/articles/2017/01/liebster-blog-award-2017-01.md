@@ -82,7 +82,7 @@ In der Zeit habe ich dann auch angefangen für [Vegan News](/tag/vegan-news/) un
 
 ## Ich zitiere gerne
 
-**Anne:** Ich zitiere dann, wie auch in anderen Situationen, die das Leben so mit sich bringt, immer ganz gerne. Zum Beispiel einen meiner Lieblingsblogger⋆innen, den [Graslutscher](http://graslutscher.de/).
+**Anne:** Ich zitiere dann, wie auch in anderen Situationen, die das Leben so mit sich bringt, immer ganz gerne. Zum Beispiel einen meiner Lieblingsblogger\*innen, den [Graslutscher](http://graslutscher.de/).
 
 > "Immer, wenn jemand "Pflanzen haben auch Gefühle!" sagt, stelle ich mir vor, wie zwei Petunien eng umschlungen im Kino bei Titanic weinen."
 

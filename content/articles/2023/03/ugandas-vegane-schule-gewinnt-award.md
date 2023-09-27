@@ -7,7 +7,7 @@ subTitle: Tierrechte und Klimaschutz auf dem Lehrplan
 seoTitle: Diese vegane Grundschule in Uganda hat Klimaschutz im Lehrplan
 ogTitle: Vegane Grundschule in Uganda – Klimaschutz im Lehrplan
 description: Die erste vegane Schule in Uganda unterrichtet Mitgefühl und Klimaschutz. Lest jetzt, wie sie gegen Zoonosen und den Welthunger kämpft.
-excerpt: Ugandas erste vegane Schule hat jetzt von der Teach Kind Abteilung von PETA den Compassionate School Award verliehen bekommen. Die Tierrechts-Organisation bedankt sich damit für den Einsatz der Grundschule, in der die Schüler⋆innen vegane Mahlzeiten erhalten und lernen, wie man mitfühlend mit großen und kleinen Arten umgeht und mit ihnen im Einklang lebt.
+excerpt: Ugandas erste vegane Schule hat jetzt von der Teach Kind Abteilung von PETA den Compassionate School Award verliehen bekommen. Die Tierrechts-Organisation bedankt sich damit für den Einsatz der Grundschule, in der die Schüler*innen vegane Mahlzeiten erhalten und lernen, wie man mitfühlend mit großen und kleinen Arten umgeht und mit ihnen im Einklang lebt.
 image: https://storage.googleapis.com/cardamonchai-media/2023-03-03/vegane-schule-luv4all-jpg-imagine-a8b8c8_887456_1024_768/640.webp
 copyright: LUV4ALL
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-03-03/vegane-schule-luv4all-og-jpg-imagine-d8d8d8_726951_1200_628/640.webp
@@ -24,7 +24,7 @@ affiliate: false
 language: de
 ---
 
-**Ugandas erste vegane Schule hat jetzt von der Teach Kind Abteilung von PETA den Compassionate School Award verliehen bekommen. Die Tierrechts-Organisation bedankt sich damit für den Einsatz der Grundschule, in der die Schüler⋆innen vegane Mahlzeiten erhalten und lernen, wie man mitfühlend mit großen und kleinen Arten umgeht und mit ihnen im Einklang lebt.**
+**Ugandas erste vegane Schule hat jetzt von der Teach Kind Abteilung von PETA den Compassionate School Award verliehen bekommen. Die Tierrechts-Organisation bedankt sich damit für den Einsatz der Grundschule, in der die Schüler\*innen vegane Mahlzeiten erhalten und lernen, wie man mitfühlend mit großen und kleinen Arten umgeht und mit ihnen im Einklang lebt.**
 
 Die Atlas Vegan Community School liegt im Kassandra District in Rwamagabo Village. Die Kinder, die dort unterrichtet werden, wohnen in Kafuuda, Lwabaazza, Busuula und Kirundi. Sie würden laut Aussage der Schule sonst keine Bildung erhalten.
 
@@ -38,7 +38,7 @@ Ins Leben gerufen hat die vegane Schule die Charity-Organisation LUV4ALL[^1]. In
 
 Die Kinder erfahren in der Atlas Vegan Community School, wie sie durch einen veganen Lebenswandel nachhaltig zu einer gesünderen Welt und zum Klimaschutz beitragen können. Auch der Punkt Lebensmittelverschwendung durch Tierausbeutung steht auf dem Lehrplan. Die Schule erklärt das so:
 
-> "Wer sich ausschließlich vegan ernährt, verschont nicht nur jedes Jahr zahlreiche Tiere, er⋆sie verringert auch seinen⋆ihren CO<sub>2</sub>-Ausstoß dramatisch und hilft dabei, zukünftige Pandemien zu verhindern."
+> "Wer sich ausschließlich vegan ernährt, verschont nicht nur jedes Jahr zahlreiche Tiere, er\*sie verringert auch seinen⋆ihren CO<sub>2</sub>-Ausstoß dramatisch und hilft dabei, zukünftige Pandemien zu verhindern."
 
 Viele Forschenden schreiben [COVID-19](/2020/04/inger-andersen-un-covid-19/), [BSE](/2021/10/rinderwahnsinn/), Ebola, SARS, die [Vogelgrippe](/2021/06/vogelgrippe-h10n3-bei-menschen/) und die Schweinegrippe vor allem der Haltung und Schlachtung von Tieren zu. Zahlreiche Dokumentationen zeigen, [wie die Tierhaltung uns krank macht](/2020/08/the-end-of-medicine/).
 

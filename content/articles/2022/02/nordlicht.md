@@ -35,11 +35,11 @@ Was mir gleich als erstes aufgefallen ist, ist die hochwertige Verarbeitung beid
 
 ## Langlebige Produkte sind nachhaltiger
 
-Die Nordlicht Gründer⋆innen ist überzeugt davon, dass gute Qualität niemals aus der Mode kommen wird. Sie wollen Taschen und Rucksäcke designen, an denen Menschen lange Freude haben. Im Hinblick auf Nachhaltigkeit ist die Langlebigkeit für sie einer der wesentlichen Faktoren.
+Die Nordlicht Gründer\*innen ist überzeugt davon, dass gute Qualität niemals aus der Mode kommen wird. Sie wollen Taschen und Rucksäcke designen, an denen Menschen lange Freude haben. Im Hinblick auf Nachhaltigkeit ist die Langlebigkeit für sie einer der wesentlichen Faktoren.
 
 Alle Produkte werden im Hause Nordlicht aus natürlichen Materialien gefertigt. Plastik kommt nicht in die Tüte. Die Verantwortung gegenüber den Menschen und der Natur steht im Fokus. Auf der Nordlicht Homepage heißt es:
 
-> "Schneller, billiger, mehr – so ist die Klimakrise entstanden! Bei uns gibt es weniger Tempo, weniger Wachstum, aber mehr Qualität. Mehr (Lebens-)Qualität für unsere Kund⋆innen, für Mensch und Natur – und für uns. Wir verstehen uns nicht als 'Hyper-Growth' Start-up und wir wollen auch nicht an die Börse. Wir wollen unsere Produkte verantwortungsvoll entwerfen, herstellen und sie an verantwortungsvolle Menschen verkaufen."
+> "Schneller, billiger, mehr – so ist die Klimakrise entstanden! Bei uns gibt es weniger Tempo, weniger Wachstum, aber mehr Qualität. Mehr (Lebens-)Qualität für unsere Kund\*innen, für Mensch und Natur – und für uns. Wir verstehen uns nicht als 'Hyper-Growth' Start-up und wir wollen auch nicht an die Börse. Wir wollen unsere Produkte verantwortungsvoll entwerfen, herstellen und sie an verantwortungsvolle Menschen verkaufen."
 
 Weil ich finde, dass das gut klingt, habe ich mich mit den Produkten auseinandergesetzt und einen klaren Unterschied erkannt. Dass die Ökobilanz der Modeindustrie schrecklich ist, ist kein Geheimnis. Wenn Menschen dem Trend entgegenwirken und anstatt "Einwegklamotten" Dinge herstellen, die auch in ein paar Jahren noch tragbar sind, beeinflusst das natürlich auch andere. Es regt potenzielle Kund⋆innen und auch andere Hersteller⋆innen zum Umdenken an und setzt ein wertvolles Statement.
 

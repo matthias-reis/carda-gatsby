@@ -91,7 +91,7 @@ Schon in meiner [Musikliste für den April](/2020/03/12-songs-fuer-den-april/) h
 
 La Réunion selbst ist natürlich auch eine große Inspirationsquelle für mich. Es ist ein magischer Ort mit einem einzigartigen Mix aus Kultur und atemberaubender Natur. Maloya Tales ist ein tolles Beispiel. Es befindet sich im Mittelteil des Albums und hat eine andere Klangfarbe und einen anderen Rhythmus, als die anderen Songs. Ich habe einen speziellen Rhythmus verwendet, der in unserer traditionellen Maloya Musik vorkommt. Es ist perkussive Musik. Sie kann Dich wirklich in Trance versetzen. Sie wurde von unseren Vorfahren überliefert und war während der Sklavenzeit ein starkes Ausdrucksmittel. Diese Musik ist wirklich wichtig für unsere heutige Kultur.
 
-## "Ich lasse jede⋆n Hörer⋆in mit meinem Album seine eigene Welt erschafft"
+## "Ich lasse jede\*n Hörer\*in mit meinem Album seine eigene Welt erschafft"
 
 Es gibt natürlich noch viele weitere Bezüge zu Orten und Menschen auf diesem Album, die für mich persönlich eine Bedeutung haben. Ich lasse aber jede⋆r Hörer⋆in mit dem Album seine⋆ihre eigene Welt und Reise erschaffen. Es gibt einen Hidden Track, der nur auf der Vinyl Version drauf ist, der eine Ode an Réunion Island ist und mich meiner Heimat ein Stück näher bringt.
 

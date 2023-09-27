@@ -20,7 +20,7 @@ language: de
 slug: zensur-bei-veganen-produkten-am171
 typeName: ""
 title: Europa lehnt Zensur bei veganen Produkten ab
-subTitle: Verbraucher⋆innen stoppen AM171
+subTitle: Verbraucher*innen stoppen AM171
 seoTitle: Europa lehnt Zensur bei veganen Produkten ab – AM 171 gestoppt
 ogTitle: ""
 description: Die Zensur bei veganen Produkten wurde gestoppt. Europa hat die
@@ -40,9 +40,9 @@ languageLink: ""
 
 **Die Zensur bei veganen Produkten ist gestoppt. Das Europäische Parlament, der Europäische Rat und die Europäische Kommission haben die Klima-feindliche Lebensmittelverordnung AM171 abgelehnt. Das geht aus einer Pressemitteilung vom 25. Mai 2021 hervor.**
 
-Die Verordnung war im Vorfeld von fast einer halben Million Verbraucher⋆innen in einer von ProVeg International gestarteten Petition als Angriff auf die Nachhaltigkeit heftig kritisiert worden.
+Die Verordnung war im Vorfeld von fast einer halben Million Verbraucher\*innen in einer von ProVeg International gestarteten Petition als Angriff auf die Nachhaltigkeit heftig kritisiert worden.
 
-Führende NGOs, darunter Greenpeace, der WWF, bekannte Aktivist⋆innen wie Greta Thunberg und Hersteller von Pflanzenmilch-Produkten wie Upfield, Oatly und Alpro hatten sich ProVeg im Kampf für mehr Nachhaltigkeit angeschlossen, der mit dem Argument der "Zensur pflanzlicher Milchprodukte" begründet worden war.
+Führende NGOs, darunter Greenpeace, der WWF, bekannte Aktivist\*innen wie Greta Thunberg und Hersteller von Pflanzenmilch-Produkten wie Upfield, Oatly und Alpro hatten sich ProVeg im Kampf für mehr Nachhaltigkeit angeschlossen, der mit dem Argument der "Zensur pflanzlicher Milchprodukte" begründet worden war.
 
 ## Europa hat sich für mehr Nachhaltigkeit entschieden
 

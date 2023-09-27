@@ -166,7 +166,7 @@ Once the new organisation that I mentioned before will be launched (in May!), ma
 
 So let me use this interview to call every non-active vegan out there: Go out and do something! Find the activism that resonates with you! Preferably our demos (smiles). Do it. The animals need us! Many of us!
 
-**Anne:** Someone tells you that they would like to be vegan for life, but they don't think they can do it and/or they keep on pretending, that they don't like vegan food. How do you convince him⋆her?
+**Anne:** Someone tells you that they would like to be vegan for life, but they don't think they can do it and/or they keep on pretending, that they don't like vegan food. How do you convince him\*her?
 
 **Inbar:** Listen, if someone puts the taste of vegan food as a reason not to go vegan then this person is not ready for life of compassion and love. Veganism isn't just about what you eat. It is the way we live, life that exclude animal suffering. There is a victim in the picture, so our taste buds aren't really a factor here.
 
@@ -202,7 +202,7 @@ If someone sees vegan cooking as challenging they should come to my cooking even
 
 **Anne:** What are your next steps? What is next on the agenda for you and for "Active Vegans Hamburg”?
 
-**Inbar:** Well, we have our regular weekly demos, almost every Saturday. We are also famous for our "off demo" events, like social events, workshops, training, movie screening, lectures, and many more. Our next workshop is on March 21st⋆, an introduction to Street Activism.
+**Inbar:** Well, we have our regular weekly demos, almost every Saturday. We are also famous for our "off demo" events, like social events, workshops, training, movie screening, lectures, and many more. Our next workshop is on March 21st\*, an introduction to Street Activism.
 
 We are also going to host the second Worldwide Vegan Chalking Night in May like we did last year. In the summer I am hoping to host a non-violent communication (NVC) workshop. We are always eager to learn and evolve as humans and especially as activists!
 

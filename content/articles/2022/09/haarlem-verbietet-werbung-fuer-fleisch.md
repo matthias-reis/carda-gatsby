@@ -31,7 +31,7 @@ Darum wird die Werbung für Fleisch auf öffentlichen Plätzen, in Bussen, an Ha
 
 > "Es kann nicht sein, dass uns eine Stadt vorschreibt, was das Beste für uns ist."
 
-Die jahrzehntelange Forschung der Wissenschaftler⋆innen wurde bei dieser Aussage vermutlich ignoriert. Denn nicht nur die aktuellsten Studien zeigen: Vegane Ernährung ist die beste Möglichkeit, die menschlichen Vitalwerte zu verbessern. Allerdings geht es der Stadt Haarlem vorwiegend um etwas anderes:
+Die jahrzehntelange Forschung der Wissenschaftler\*innen wurde bei dieser Aussage vermutlich ignoriert. Denn nicht nur die aktuellsten Studien zeigen: Vegane Ernährung ist die beste Möglichkeit, die menschlichen Vitalwerte zu verbessern. Allerdings geht es der Stadt Haarlem vorwiegend um etwas anderes:
 
 Erst kürzlich wurde wieder belegt, dass die weltweite Lebensmittelproduktion für ein Drittel aller Treibhausgasemissionen verantwortlich ist. Die Verwertung von Tieren für die Fleischproduktion ist etwa doppelt so belastend für die Umwelt, wie die Produktion pflanzlicher Nahrungsmittel. [Informationen von der Albert Schweitzer Stiftung dazu findet Ihr hier ](/2022/07/klima-durch-pflanzliche-ernaehrung-schuetzen/) und [vom IPCC hier](/2022/06/ipcc-klimaexperte-raet-zu-veganismus/).
 
@@ -43,6 +43,6 @@ Um tierische Lebensmittel wie Fleisch, Wurst und Milchprodukte herzustellen, mü
 
 Falls Ihr findet, das Verbot könnte noch weitergehen: In Haarlem wird ab 2024 nicht nur die Werbung für Fleisch, sondern auch für Urlaubsflüge, fossile Brennstoffe und Autos, die mit fossilen Brennstoffen betrieben werden, verboten sein.
 
-Jetzt lesen: [Gemeinde unterstützt ihre Einwohner⋆innen beim Umstieg auf vegan](/2023/02/altena-vegan/).
+Jetzt lesen: [Gemeinde unterstützt ihre Einwohner\*innen beim Umstieg auf vegan](/2023/02/altena-vegan/).
 
 Bild/Image: [Hendrik](https://pixabay.com/photos/haarlem-water-holland-lake-city-3628302/), Pixabay

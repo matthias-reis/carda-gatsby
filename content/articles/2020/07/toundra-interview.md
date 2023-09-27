@@ -103,7 +103,7 @@ Im Mai 2008 veröffentlichte die Band ihre Debut-EP "I". Inzwischen haben Toundr
 
 **Anne:** Ich habe irgendwo gelesen, dass Ihr Experimente mit Gesang, wie andere Post-Rock-Bands sie von Zeit zu Zeit unternehmen, strickt ausschließt. Stimmt das? Was ist der Grund dafür?
 
-**Esteban:** Sag niemals nie. Wir haben schon Experimente mit Gesang gemacht. Außerdem haben wir ein Nebenprojekt mit dem Namen Exquirla mit dem Flamenco-Sänger Niño de Elche. Wir nehmen Covers mit Sänger⋆innen auf und ich denke, wir werden in Zukunft mit Stimmen arbeiten.
+**Esteban:** Sag niemals nie. Wir haben schon Experimente mit Gesang gemacht. Außerdem haben wir ein Nebenprojekt mit dem Namen Exquirla mit dem Flamenco-Sänger Niño de Elche. Wir nehmen Covers mit Sänger\*innen auf und ich denke, wir werden in Zukunft mit Stimmen arbeiten.
 
 ## Hardcore Punk und Flamenco
 

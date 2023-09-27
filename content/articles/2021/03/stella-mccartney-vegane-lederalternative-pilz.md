@@ -49,7 +49,7 @@ Gegenüber dem veganen Online-Magazin Plant Based News sagte Stella McCartney
 
 <blockquote>
 
-"Wir haben diese wunderbare Innovation von Anfang an unterstützt, weil ich glaube, dass unsere Kund⋆innen niemals zu Kompromissen in Bezug auf die Nachhaltigkeit gezwungen sein sollen. Mylo wird uns dabei helfen, das zur Realität werden zu lassen.
+"Wir haben diese wunderbare Innovation von Anfang an unterstützt, weil ich glaube, dass unsere Kund\*innen niemals zu Kompromissen in Bezug auf die Nachhaltigkeit gezwungen sein sollen. Mylo wird uns dabei helfen, das zur Realität werden zu lassen.
 
 Ich fühle mich geehrt, erneut mit dem Bolt Threads Team zusammenarbeiten zu können. Wir teilen die selben Ansichten. Sie wünschen sich genau wie wir eine nachhaltigere Fashion-Industrie – eine, die für die Geburt schöner und hochwertiger Materialien steht und nicht für den Tod unserer Mitlebewesen und des Planeten."
 

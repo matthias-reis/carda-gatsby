@@ -70,8 +70,8 @@ Das [Haaröl von Acaraa](https://www.awin1.com/cread.php?awinmid=19823&awinaffid
 
 <small>
   Isoamyl Laurate, Squalane, Caryodendron Orinocense Seed Oil, Prunus Amygdalus
-  Dulcis (Sweet Almond) Oil⋆, Argania Spinosa Kernel Oil, Simmondsia Chinensis
-  Oil⋆, Avena Sativa Kernel Oil, Adansonia Digitata Seed Oil, Helianthus Annuuss
+  Dulcis (Sweet Almond) Oil\*, Argania Spinosa Kernel Oil, Simmondsia Chinensis
+  Oil\*, Avena Sativa Kernel Oil, Adansonia Digitata Seed Oil, Helianthus Annuuss
   Seed Oil⋆, Cnidium Monnieri Fruit Extract, Echium Plantagineum Seed Oil,
   Octyldodecanol, Octyldodecyl Oleate, Octyldodecyl Stearoyl Stearate, Alcohol,
   Tocopherol, Caprylic/Capric Triglyceride, Citrus Limon (Lemon) Peel Oil,

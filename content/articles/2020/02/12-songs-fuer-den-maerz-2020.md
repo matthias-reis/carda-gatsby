@@ -121,7 +121,7 @@ Am Valentinstag war es endlich soweit: TWINS präsentierten ihr Album "Soon". An
 
 ### envy - "Statement Of Freedom" vom aktuellen Album "The Fallen Crimson"
 
-"Japanischer und japanischsprachiger Post-Sludge/Metal fasziniert mich im Moment sehr. Für mich ist dieses Stück hier der Gegenpol zu den beiden ruhigeren oben. Vom envy Album 'The Fallen Crimson' hatte ich in der Liste für den Dezember bereits die Vorauskopplung dabei. Jetzt gibt es endlich die ganze Platte und sie läuft bei mir hoch und runter. Man muss es sich unbedingt komplett von vorne bis hinten anhören. 'Statement Of Freedom' ist treibend, Action-geladen, an manchen Stellen etwas kitischig und gar nicht so düster, wie man das vielleicht von einigen Kolleg⋆innen aus Europa erwarten würde."
+"Japanischer und japanischsprachiger Post-Sludge/Metal fasziniert mich im Moment sehr. Für mich ist dieses Stück hier der Gegenpol zu den beiden ruhigeren oben. Vom envy Album 'The Fallen Crimson' hatte ich in der Liste für den Dezember bereits die Vorauskopplung dabei. Jetzt gibt es endlich die ganze Platte und sie läuft bei mir hoch und runter. Man muss es sich unbedingt komplett von vorne bis hinten anhören. 'Statement Of Freedom' ist treibend, Action-geladen, an manchen Stellen etwas kitischig und gar nicht so düster, wie man das vielleicht von einigen Kolleg\*innen aus Europa erwarten würde."
 
 <YouTube id="MmvsnyfeSwg" />
 

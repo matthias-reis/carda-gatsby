@@ -5,8 +5,8 @@ path: /2021/03/usa-covid-vegan-fleisch/
 title: USA kehren Fleischkonsum den Rücken
 seoTitle: 'COVID-19: USA kehren Fleischkonsum den Rücken'
 ogTitle: 'COVID-19: USA kehren Fleischkonsum den Rücken'
-description: Durch COVID ernähren sich immer mehr Amerikaner⋆innen vegan. Das geht aus einer aktuellen Studie von Proagrica hervor.
-excerpt: Durch COVID ernähren sich immer mehr Amerikaner⋆innen vegan. Das geht aus einer aktuellen Studie von Proagrica hervor.
+description: Durch COVID ernähren sich immer mehr Amerikaner*innen vegan. Das geht aus einer aktuellen Studie von Proagrica hervor.
+excerpt: Durch COVID ernähren sich immer mehr Amerikaner*innen vegan. Das geht aus einer aktuellen Studie von Proagrica hervor.
 fileName: 2021-03---usa-kehren-fleischkonsum-den-ruecken.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_vegan-covid__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_vegan-covid__l.jpg
@@ -29,7 +29,7 @@ errors: {}
 subTitle: COVID-Pandemie sorgt für Vegan-Aufschwung
 ---
 
-**Durch COVID ernähren sich immer mehr Amerikaner⋆innen vegan. Das geht aus einer aktuellen Studie von Proagrica hervor, für die mehr als 1.000 erwachsene US-Bürger⋆innen zu ihrem Einkauf- und Essverhalten befragt wurden.**
+**Durch COVID ernähren sich immer mehr Amerikaner\*innen vegan. Das geht aus einer aktuellen Studie von Proagrica hervor, für die mehr als 1.000 erwachsene US-Bürger\*innen zu ihrem Einkauf- und Essverhalten befragt wurden.**
 
 Die weltweite Bedrohung durch das Corona-Virus treibt offenbar den Wandel voran. Laut der Proagrica Studie denken seit Beginn der Krise 39 Prozent der amerikanischen Verbraucher⋆innen darüber nach, in Zukunft vegan oder vegetarisch zu leben. 28 Prozent haben den pflanzlichen Proteinanteil ihrer Nahrung erhöht. 17 Prozent haben innerhalb des Jahres 2020 deutlich weniger Fleisch gegessen, als in den Jahren zuvor. In einem Statement zur Umfrage berichtet die Geschäftsführerin von Proagrica Graeme Mc Cracken:
 

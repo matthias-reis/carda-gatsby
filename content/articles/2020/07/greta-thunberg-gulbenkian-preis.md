@@ -34,7 +34,7 @@ Die portugiesische Gulbenkian-Stiftung hat den Preis für Menschlichkeit das ers
 
 ## Der Gulbenkian Preis geht an die Fridays For Future Gründerin
 
-Greta Thunberg wurde aus insgesamt 136 Nominierten aus 46 Ländern ausgewählt. Jury-Leiter Jorge Sampaio sprach von einer großen Mehrheit für die Fridays For Future Gründerin. Ihr engagierter Einsatz und ihre offene Kritik gegenüber Machthaber⋆innen mache sie zu einer herausragenden Persönlichkeit unserer Zeit.
+Greta Thunberg wurde aus insgesamt 136 Nominierten aus 46 Ländern ausgewählt. Jury-Leiter Jorge Sampaio sprach von einer großen Mehrheit für die Fridays For Future Gründerin. Ihr engagierter Einsatz und ihre offene Kritik gegenüber Machthaber\*innen mache sie zu einer herausragenden Persönlichkeit unserer Zeit.
 
 Über Twitter bedankte sich Greta für den Preis.
 

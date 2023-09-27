@@ -45,7 +45,7 @@ languageLink: /2021/05/align-in-time-interview-en
 
 **![Align in Time – "Men Without Chests & I Go Too" (Acoustic)](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-05-align-in-time-1-jpg-imagine-d8d8e8_adb0a6_1080_1080/640.webp 'Align in Time – "Men Without Chests & I Go Too" (Acoustic)')John:** Ganz schön viel! Ich habe geheiratet, bin einmal quer durchs Land und wieder zurück gezogen und mein erstes Kind ist zur Welt gekommen. Die Welt befindet sich in einer prekäreren Lage als jemals zuvor und je älter ich werde, desto mehr verliere ich meinen Optimismus, wo uns das noch alles hinführen wird. Auch aus musikalischer Sicht hat sich so viel verändert. Als ich "Me & My Arrow" veröffentlicht habe, steckte das Streaming ja quasi noch in den Kinderschuhen!
 
-**Anne:** Ist Align in Time ein One-Person-Projekt? Oder arbeitest Du mit anderen Musiker⋆innen zusammen? Gibt es welche, die Du gerne erwähnen würdest?
+**Anne:** Ist Align in Time ein One-Person-Projekt? Oder arbeitest Du mit anderen Musiker\*innen zusammen? Gibt es welche, die Du gerne erwähnen würdest?
 
 ## "Ich habe mit Bryan Russel und Mike Kalajian zusammengearbeitet"
 
@@ -65,7 +65,7 @@ Vor Kurzem habe ich mich in The 1975, These New Puritans und MUNA verguckt. Ich 
 
 **Anne:** Was ist das Besondere an Post-Rock. Was macht dieses Genre so faszinierend?
 
-**John:** Ich denke, dass der aufregendste Post-Rock an der Peripherie der Szene angesiedelt ist. Es ist eine Art Dekonstruktion anderer Genres in eine Form des instrumentalen Story Tellings. Sie passt nicht in die traditionelle Definition oder den Sound von Post-Rock. Künstler⋆innen wie These New Puritans oder Plini ordnet man nicht in "Post-Rock" ein, ich denke aber, dass sie im selben Bereich spielen – sie setzen die Komponenten des Rock zu etwas Neuem zusammen. Darin liegt, finde ich, der Ursprung des Genres. Es reizt mich auch, Bands zu hören, die das Beste am Post-Rock nehmen und es neu kontextualisieren, "Better" von Caracaras oder "I Lost You" von The Wildlifes.
+**John:** Ich denke, dass der aufregendste Post-Rock an der Peripherie der Szene angesiedelt ist. Es ist eine Art Dekonstruktion anderer Genres in eine Form des instrumentalen Story Tellings. Sie passt nicht in die traditionelle Definition oder den Sound von Post-Rock. Künstler\*innen wie These New Puritans oder Plini ordnet man nicht in "Post-Rock" ein, ich denke aber, dass sie im selben Bereich spielen – sie setzen die Komponenten des Rock zu etwas Neuem zusammen. Darin liegt, finde ich, der Ursprung des Genres. Es reizt mich auch, Bands zu hören, die das Beste am Post-Rock nehmen und es neu kontextualisieren, "Better" von Caracaras oder "I Lost You" von The Wildlifes.
 
 **Anne:** Du kombinierst mit Deiner Musik Post-Rock und Storytelling. Denkst Du Dir gerne Geschichten aus?
 

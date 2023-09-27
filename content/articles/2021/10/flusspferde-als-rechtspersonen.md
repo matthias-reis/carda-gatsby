@@ -29,7 +29,7 @@ language: de
 
 **Im Rahmen eines laufenden Prozesses in Kolumbien hat ein US-Bezirksgericht die rund 100 Flusspferde, die entlang des Magdalena River leben, als juristische Personen anerkannt. Die Verhandlung geht damit als Meilenstein in die Geschichte ein.**
 
-Im Oktober 2021 war es endlich so weit: In den Vereinigen Staaten erkannte ein Gericht zum ersten Mal Tiere als juristische Personen an. Die Tierrechtsorganisation Animal Legal Defense Fund (ALDF)[^1] hatte im Rahmen der Verhandlung einen Antrag auf die Vernehmung von Elizabeth Berkeley und Richard Berlinski, zweier Expert⋆innen für nicht-chirurgische Sterilisation aus Ohio, gestellt. Die Klagenden waren die im Magdalena River lebenden Flusspferde.
+Im Oktober 2021 war es endlich so weit: In den Vereinigen Staaten erkannte ein Gericht zum ersten Mal Tiere als juristische Personen an. Die Tierrechtsorganisation Animal Legal Defense Fund (ALDF)[^1] hatte im Rahmen der Verhandlung einen Antrag auf die Vernehmung von Elizabeth Berkeley und Richard Berlinski, zweier Expert\*innen für nicht-chirurgische Sterilisation aus Ohio, gestellt. Die Klagenden waren die im Magdalena River lebenden Flusspferde.
 
 Als Teil des Gerichtsverfahrens gab das US-Bezirksgericht dem Antrag gemäß 28 U.S.C. § 1782 auf Durchführung von Ermittlungen zur Verwendung in ausländischen Verfahren statt und erkannte damit die Flusspferde als juristische Personen im Sinne dieses Gesetzes an.
 
@@ -41,7 +41,7 @@ Stephen Wells, Executive Director beim ALDF freute sich:
 
 > "Tiere haben das Recht, frei von Grausamkeit und Ausbeutung zu leben. Das Versäumnis der US-Gerichte, ihre Rechte anzuerkennen, behindert die Durchsetzung bestehender gesetzlicher Schutzmaßnahmen. Der Gerichtsbeschluss, der es den Flusspferden erlaubt, ihr Recht auf Informationsbeschaffung in den Vereinigten Staaten auszuüben, ist ein entscheidender Meilenstein im allgemeinen Kampf um die Anerkennung einklagbarer Tierrechte."
 
-Die Geschichte des Prozesses reicht bis in die 1980er Jahre zurück. Damals erwarb der berüchtigte Drogenboss Pablo Escobar vier Nilpferde für seinen privaten Zoo. Nachdem er 1993 verstorben war, wurden die Tiere von der kolumbianischen Regierung auf seinem Grundstück zurückgelassen. Die schlichte Begründung dafür lautete, man sei nicht in der Lage dazu, eine passende neue Unterkunft für sie zu finden. Die Nilpferde machten sich indes auf dem Weg, flohen vom Grundstück des Koks-Barons und ließen sich am Magdalena River nieder. Dort angekommen, begannen sie sich mit (zumindest ist das die Ansicht einiger Ökolog⋆innen) nicht aufhaltbarem Tempo zu vermehren.
+Die Geschichte des Prozesses reicht bis in die 1980er Jahre zurück. Damals erwarb der berüchtigte Drogenboss Pablo Escobar vier Nilpferde für seinen privaten Zoo. Nachdem er 1993 verstorben war, wurden die Tiere von der kolumbianischen Regierung auf seinem Grundstück zurückgelassen. Die schlichte Begründung dafür lautete, man sei nicht in der Lage dazu, eine passende neue Unterkunft für sie zu finden. Die Nilpferde machten sich indes auf dem Weg, flohen vom Grundstück des Koks-Barons und ließen sich am Magdalena River nieder. Dort angekommen, begannen sie sich mit (zumindest ist das die Ansicht einiger Ökolog\*innen) nicht aufhaltbarem Tempo zu vermehren.
 
 ## Die Flusspferde am Magdalena River haben sich vermehrt
 

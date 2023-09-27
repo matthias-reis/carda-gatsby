@@ -34,7 +34,7 @@ Die Forschenden beobachteten in ihrer Studie[^2] sechs Würfe von je zehn bis 12
 
 Das Forschungsteam spielte die etwa drei bis fünf Minuten langen Lieder in zufälliger Reihenfolge, mit jeweils einer dreiminütigen Pause dazwischen ab.
 
-Die Wissenschaftler⋆innen bewerteten die Körpersprache der Tiere anhand von 20 emotionalen Parametern. Dieser Ansatz, bei dem die Reaktionen "zufriedene" und "unruhige" Reaktionen eingeteilt werden, wird als qualitative Verhaltensbeurteilung bezeichnet. Sie steht im Gegensatz zur quantitativen Verhaltensbeurteilung.
+Die Wissenschaftler\*innen bewerteten die Körpersprache der Tiere anhand von 20 emotionalen Parametern. Dieser Ansatz, bei dem die Reaktionen "zufriedene" und "unruhige" Reaktionen eingeteilt werden, wird als qualitative Verhaltensbeurteilung bezeichnet. Sie steht im Gegensatz zur quantitativen Verhaltensbeurteilung.
 
 Bei der qualitativen Verhaltensbeurteilung werden die Körperhaltung, das Verhalten und die allgemeine Interaktion von Tieren innerhalb ihrer Umgebung genau beobachtet. Das hilft dabei, die Stimmung und den emotionalen Zustand der Tiere zu beurteilen.
 
@@ -42,7 +42,7 @@ Die konsonanten Musikstücke lösten bei den Schweinen eindeutig positive Emotio
 
 Die Co-Autorin der Studie, Maria Camila Ceballos, die als Tierwohl-Forscherin an der University of Calgary tätig ist, berichtete:
 
-> "Meine Kolleg⋆innen und ich haben uns für die Erforschung von Schweine-Emotionen entschieden, weil es sich bei ihnen um hochintelligente und soziale Tiere handelt, die in der Massentierhaltung unter schwerwiegenden Missständen leiden."
+> "Meine Kolleg\*innen und ich haben uns für die Erforschung von Schweine-Emotionen entschieden, weil es sich bei ihnen um hochintelligente und soziale Tiere handelt, die in der Massentierhaltung unter schwerwiegenden Missständen leiden."
 
 Vor Kurzem war aus einer anderen Studie[^5] hervorgegangen, dass sich die Laute von Schweinen in positiven und negativen Situationen deutlich unterscheiden. Damit sollte außer Frage stehen, dass Schweine genau wie wir dazu in der Lage sind, Gefühle zu empfinden.
 

@@ -48,11 +48,11 @@ Zur Feier des Tages habe ich mit Sänger, Gitarrist, Songwriter und Bandgründer
 
 ![An Evening With Knives](https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-3-1-jpg-imagine-181818_3b363a_1024_768/640.webp 'An Evening With Knives')
 
-**Marco:** Hier in Eindhoven gibt es diese Hauptkonzerthalle namens Effenaar. Sie haben ein paar Künstler⋆innen die Möglichkeit geboten, im Rahmen eines Projekts Video-Events zu machen. Sie haben uns ihre kleine Halle plus ein Video- und ein Sound-Team zur Verfügung gestellt und wir haben unser komplettes Konzert aufgenommen. Sie haben uns mit den verschiedensten Kameras aus den unterschiedlichsten Blickwinkeln gefilmt und jedes Detail eingefangen. Das war für uns ein großartiges Erlebnis!
+**Marco:** Hier in Eindhoven gibt es diese Hauptkonzerthalle namens Effenaar. Sie haben ein paar Künstler\*innen die Möglichkeit geboten, im Rahmen eines Projekts Video-Events zu machen. Sie haben uns ihre kleine Halle plus ein Video- und ein Sound-Team zur Verfügung gestellt und wir haben unser komplettes Konzert aufgenommen. Sie haben uns mit den verschiedensten Kameras aus den unterschiedlichsten Blickwinkeln gefilmt und jedes Detail eingefangen. Das war für uns ein großartiges Erlebnis!
 
 **Anne:** Kannst Du mir ein paar Details über Eure geplante Tour als Support Eures Live-Albums verraten? Sie beginnt ja mit Eurer Release-Show in Eurer Heimatstadt Eindhoven, oder? Ich bin mir sicher, Ihr habt dort eine Menge Fans, oder?
 
-**Marco:** Ja, Eindhoven ist für uns wie unser zentraler Anlaufpunkt mit vielen Freund⋆innen. Diese Kombination macht es immer zu einem großen Spaß, hier zu spielen!
+**Marco:** Ja, Eindhoven ist für uns wie unser zentraler Anlaufpunkt mit vielen Freund\*innen. Diese Kombination macht es immer zu einem großen Spaß, hier zu spielen!
 
 Wir haben jede Menge Tourdaten auf unserer Webseite gepostet[^1]. Ein paar Shows werden wir auch in Deutschland spielen. Zum Beispiel im Dietrich-Keuning-Haus in Dortmund mit Earthship and Scorched Oak on Saturday am 4. Februar und am 12 Mai mit Weedpecker in Köln. Am 7. Oktober werden wir in Bonn spielen. Hauptsächlich spielen wir zwar in den Niederlanden und in Belgien, aber ein paar Konzerte haben wir auch für Deutschland organisiert.
 

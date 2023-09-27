@@ -48,7 +48,7 @@ languageLink: /2022/03/goodbye-meteor-en/
 
 **Anne:** "Metanoia" ist Euer zweites Projekt mit drei Songs und Ihr habt auch schon eine Remix-Platte gemacht. Ich nehme an, Ihr habt auch vor, irgendwann einen kompletten Langspieler zu produzieren?
 
-**Ced:** Ja, wir wollen ein Album aufnehmen. Wir möchten mit anderen Künstlern zusammenarbeiten. Wir wollen all unsere offiziellen Veröffentlichungen von Künstler⋆innen aus der [Ambient-Szene](/tag/ambient) remixen lassen. Außerdem arbeiten wir auch an unserer nächsten EP, die dieses Mal länger sein wird. Wir planen, sie Ende dieses Jahres zu veröffentlichen. Das Album kommt dann 2023.
+**Ced:** Ja, wir wollen ein Album aufnehmen. Wir möchten mit anderen Künstlern zusammenarbeiten. Wir wollen all unsere offiziellen Veröffentlichungen von Künstler\*innen aus der [Ambient-Szene](/tag/ambient) remixen lassen. Außerdem arbeiten wir auch an unserer nächsten EP, die dieses Mal länger sein wird. Wir planen, sie Ende dieses Jahres zu veröffentlichen. Das Album kommt dann 2023.
 
 **Anne:** Eure Platte ist auf Bandcamp erschienen. Wird sie auch auf anderen Plattformen verfügbar sein oder ist sogar eine haptische Version – zum Beispiel auf Vinyl oder Kassette?
 
@@ -74,7 +74,7 @@ languageLink: /2022/03/goodbye-meteor-en/
 
 ![Goodbye Meteor – "Metanoia"](https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-jpg-imagine-080818_413e48_1024_768/640.webp 'Goodbye Meteor live on stage')
 
-**Anne:** Du hast mir erzählt, dass Du auch Veganer bist (und der Rest der Band Vegetarier⋆innen). Seit wann ist das so und was hat Dich überzeugt, vegan zu leben?
+**Anne:** Du hast mir erzählt, dass Du auch Veganer bist (und der Rest der Band Vegetarier\*innen). Seit wann ist das so und was hat Dich überzeugt, vegan zu leben?
 
 **Ced:** Ich bin für die Tiere vegan. Vor zehn Jahren wurde ich zunächst Vegetarier. Bei Fleisch hatte ich schon immer dieses komische Gefühl. Heute denke ich, dass es Schuld war. Der Veganismus hat für mich auch mit Umweltschutz und Gesundheit zu tun. Trotzdem ist es mehr, als eine Diät oder Politik. Für mich war es immer offensichtlich, dass es sich dabei um eine Lebensweise handelt, für die man sich aus Überzeugung entscheidet.
 

@@ -132,6 +132,6 @@ Es tut gut, diese zärtliche Seite wahrzunehmen und in ihrer Direktheit in etwas
 
 **Anne:** Mein Yoga am Morgen ist für mich auch eine ganz wichtige Energiequelle. Ich wünsche Dir alles Gute! Nochmal vielen Dank für das Interview! Es war mir eine Ehre und hat mir großen Spaß gemacht!
 
-**Paul:** Ebenso! Ich hoffe, Deinen Leser⋆innen geht es ebenso.
+**Paul:** Ebenso! Ich hoffe, Deinen Leser\*innen geht es ebenso.
 
 [Mein Interview mit The Ocean Sänger und Gründer Robin Staps könnt Ihr hier lesen](/2020/09/the-ocean-robin-staps-interview/).

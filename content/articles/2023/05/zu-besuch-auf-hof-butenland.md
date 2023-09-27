@@ -7,7 +7,7 @@ subTitle: Kuhaltersheim und Tierschutzhof hautnah
 seoTitle: Butenland live erleben – so ist es auf dem Tierschutzhof
 ogTitle:
 description: Butenland live zu erleben und das Gründerpaar Karin und Jan kennenzulernen – dieser Traum hat sich für mich jetzt erfüllt. Erfahrt jetzt alles über meinen Besuch!
-excerpt: Butenland besuchen und die Gründer⋆innen Karin und Jan und die Hofbewohner⋆innen kennenlernen – und natürlich mein Patenschwein Frederik – das habe ich mir schon sehr lange gewünscht. Am Wochenende war es endlich so weit. Weil meine Eindrücke noch ganz frisch sind, möchte ich die Gelegenheit nutzen und Euch Butenland nochmal genau vorstellen.
+excerpt: Butenland besuchen und die Gründer*innen Karin und Jan und die Hofbewohner*innen kennenlernen – und natürlich mein Patenschwein Frederik – das habe ich mir schon sehr lange gewünscht. Am Wochenende war es endlich so weit. Weil meine Eindrücke noch ganz frisch sind, möchte ich die Gelegenheit nutzen und Euch Butenland nochmal genau vorstellen.
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-08/2023-17-2023-17-hof-butenland-anne-reis-sounds-vegan-183-jpg-imagine-080808_646948_2048_1536/640.webp
 copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-08/butenland-besuch-og-jpg-imagine-081818_71774b_1200_628/640.webp
@@ -25,7 +25,7 @@ affiliate: false
 language: de
 ---
 
-**Butenland besuchen und die Gründer⋆innen Karin und Jan und die Hofbewohner⋆innen kennenlernen – und natürlich mein Patenschwein Frederik – das habe ich mir schon sehr lange gewünscht. Am Wochenende war es endlich so weit. Weil meine Eindrücke noch ganz frisch sind, möchte ich die Gelegenheit nutzen und Euch Butenland nochmal genau vorstellen.**
+**Butenland besuchen und die Gründer\*innen Karin und Jan und die Hofbewohner\*innen kennenlernen – und natürlich mein Patenschwein Frederik – das habe ich mir schon sehr lange gewünscht. Am Wochenende war es endlich so weit. Weil meine Eindrücke noch ganz frisch sind, möchte ich die Gelegenheit nutzen und Euch Butenland nochmal genau vorstellen.**
 
 Vorneweg: so viele emphatische, liebe und herzliche Tiere und Menschen habe ich noch nie zuvor an einem Ort getroffen. Es war magisch – Das sage ich, ohne zu übertreiben.
 

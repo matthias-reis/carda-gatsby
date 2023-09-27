@@ -60,7 +60,7 @@ Verarbeitet werden Ananasfasern, Kork und Bio-Baumwolle. Das Kunstleder besteht 
 
 ## Faire Herstellung im Familienbetrieb
 
-Auch meine Schuhe wurden in Serbien hergestellt. Sorbas arbeitet dort mit einem Familienbetrieb zusammen, der seit drei Generationen Schuhe herstellt. Die Familie hat vor fünf Jahren angefangen für die Berliner zu arbeiten. Die Löhne der rund zehn angestellten Schuhmacher⋆innen sind seitdem um 50 Prozent gestiegen und dem Betrieb wurde der Zugang zu modernen Materialien ermöglicht. Inzwischen arbeitet das Traditionsunternehmen fast ausschließlich für Sorbas. Im Wesentlichen erfolgt die Fertigung dort nach wie vor in Handarbeit.
+Auch meine Schuhe wurden in Serbien hergestellt. Sorbas arbeitet dort mit einem Familienbetrieb zusammen, der seit drei Generationen Schuhe herstellt. Die Familie hat vor fünf Jahren angefangen für die Berliner zu arbeiten. Die Löhne der rund zehn angestellten Schuhmacher\*innen sind seitdem um 50 Prozent gestiegen und dem Betrieb wurde der Zugang zu modernen Materialien ermöglicht. Inzwischen arbeitet das Traditionsunternehmen fast ausschließlich für Sorbas. Im Wesentlichen erfolgt die Fertigung dort nach wie vor in Handarbeit.
 
 Sorbas wurde 2015 von Eike Vogler in Berlin gegründet. Inzwischen beschäftigt er sechs Mitarbeiter\*innen. Das Start-up finanziert sich seit einiger Zeit vollkommen selbstständig. Verkauft wird zum größten Teil online, was unter anderem dabei hilft, die Preise im Rahmen zu halten.
 

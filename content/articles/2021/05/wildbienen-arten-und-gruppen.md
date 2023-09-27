@@ -49,7 +49,7 @@ Vor Kurzem habe ich ein paar Bilder gemacht, ich teile sie in den beiden Bilderg
 
 Wenn wir die Natur schützen wollen, ist es besonders wichtig, dass wir uns um die Wildbienen sorgen. Viele Sorten sind inzwischen vom Aussterben bedroht oder bereits ausgestorben. [Warum dazu auch die Zucht von Honigbienen beträgt, erfahrt Ihr hier](/2019/07/wie-wildbienen-von-honigbienen-verdraengt-werden/).
 
-Zu den Wildbienen zählen alle Bienenarten der Überfamilie Apoidea. Außer natürlich den Honigbienen und ihren wild lebenden Urformen. Umgangssprachlich ist mit der Bezeichnung "Biene" fast ausschließlich die bekannteste Bienenart, sprich, die Westliche Honigbiene, bekannt. Um sie auszuschließen, hat man sich auf den Begriff "Wildbiene" geeinigt. Biologisch gesehen hat er allerdings keine Relevanz. Zoolog⋆innen bezeichneten sie eine Zeitlang als Blutbienen. Davon ist man inzwischen allerdings wieder abgekommen.
+Zu den Wildbienen zählen alle Bienenarten der Überfamilie Apoidea. Außer natürlich den Honigbienen und ihren wild lebenden Urformen. Umgangssprachlich ist mit der Bezeichnung "Biene" fast ausschließlich die bekannteste Bienenart, sprich, die Westliche Honigbiene, bekannt. Um sie auszuschließen, hat man sich auf den Begriff "Wildbiene" geeinigt. Biologisch gesehen hat er allerdings keine Relevanz. Zoolog\*innen bezeichneten sie eine Zeitlang als Blutbienen. Davon ist man inzwischen allerdings wieder abgekommen.
 
 Anders, als viele vielleicht vermuten, zählen auch die unterschiedlichen Hummelarten sowie Pelzbienen zu den Wildbienen. Diese unterscheiden sich vor allem durch ihre Lebensweise. Insgesamt gibt es drei verschiedene "Bienentypen": Die kollektiv lebenden Bienen, die solitär lebenden Bienen und die Kuckucksbienen.
 

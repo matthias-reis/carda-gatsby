@@ -82,7 +82,7 @@ Sind es Möwen, die in der Ferne zetern? Ab jetzt wird es dramatisch und da sind
 
 Märchenhaft spielt sich "The Echoes Of Acheron" ins Ohr. Höre ich da eine innige Liebe zu Pink Floyd heraus? Beendet wird das Stück mit einem Hauch von 80er Jahre Rock.
 
-"The Loneliness Of The Somnambulist" ist dagegen sehr futuristisch. Post-Rock wie aus dem Lehrbuch. Der⋆die Schlafwandler⋆in ist nicht mehr einsam. Zu ihm⋆ihr gesellt sich eine ganze Schar begeisterter Zuhörer⋆innen.
+"The Loneliness Of The Somnambulist" ist dagegen sehr futuristisch. Post-Rock wie aus dem Lehrbuch. Der\*die Schlafwandler\*in ist nicht mehr einsam. Zu ihm⋆ihr gesellt sich eine ganze Schar begeisterter Zuhörer⋆innen.
 
 Insgesamt sind auf "Quiet Days On Earth" 15 Songs. Echoes In Audio schrieb im Mai "Sorgfältig gearbeiteter, atmosphärischer Prog, der es wert ist, gehört zu werden." Dem schließe ich mich an.
 

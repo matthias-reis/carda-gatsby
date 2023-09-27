@@ -76,6 +76,6 @@ Wenn Ihr unschlüssig seid, welches Set für Euch das richtige ist, könnt Ihr a
 
 Ihr könnt Euer Starter Kit [hier bestellen](https://tidd.ly/3Gh1MWO).
 
-**Psst:** Als Leser⋆innen meines Blogs erhaltet Ihr beim Einkaufen im MICARAA Shop 10 Prozent Rabatt. Ihr müsst dafür nur an der Kasse den Gutscheincode **anne10** angeben.
+**Psst:** Als Leser\*innen meines Blogs erhaltet Ihr beim Einkaufen im MICARAA Shop 10 Prozent Rabatt. Ihr müsst dafür nur an der Kasse den Gutscheincode **anne10** angeben.
 
 Zuletzt habe ich die MICARAA Calm Serie für empfindliche Haut getestet. Alles darüber könnt Ihr [hier nachlesen](http://localhost:8000/2021/07/micaraa-calm/).

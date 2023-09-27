@@ -7,9 +7,9 @@ title: ARTlistic
 subTitle: Ein neues Kunstportal sorgt für Furore
 seoTitle: ARTlistic – ein brandneues Kunstportal sorgt für Furore
 description: "ARTlistic kommt mit einem durchdachten Konzept daher:
-  Künstler⋆innen können ihre Bilder ohne Umwege im Netz verkaufen."
+  Künstler*innen können ihre Bilder ohne Umwege im Netz verkaufen."
 excerpt: "ARTlistic ist neu auf dem Kunstmarkt. Die Plattform kommt mit einem
-  durchdachten Konzept daher: Künstler⋆innen können ihre Kunstwerke ohne
+  durchdachten Konzept daher: Künstler*innen können ihre Kunstwerke ohne
   Zwischenhandel direkt über das Netz verkaufen. Die Idee dafür hatte Gründer
   Sören Tänzer während des ersten COVID-Lockdowns 2020."
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/artlistic-jpg-imagine-181818_746a69_1024_768/640.webp
@@ -26,9 +26,9 @@ affiliate: true
 language: de
 ---
 
-**ARTlistic ist neu auf dem Kunstmarkt. Die Plattform kommt mit einem durchdachten Konzept daher: Künstler⋆innen können ihre Kunstwerke ohne Zwischenhandel direkt über das Netz verkaufen. Die Idee dafür hatte Gründer Sören Tänzer während des ersten COVID-Lockdowns 2020.**
+**ARTlistic ist neu auf dem Kunstmarkt. Die Plattform kommt mit einem durchdachten Konzept daher: Künstler\*innen können ihre Kunstwerke ohne Zwischenhandel direkt über das Netz verkaufen. Die Idee dafür hatte Gründer Sören Tänzer während des ersten COVID-Lockdowns 2020.**
 
-Was mit einem spontanen Einfall losging, erfreut sich inzwischen wachsender Beliebtheit – auf der Seite der Künstler⋆innen und auf der Seite der Käufer⋆innen.
+Was mit einem spontanen Einfall losging, erfreut sich inzwischen wachsender Beliebtheit – auf der Seite der Künstler\*innen und auf der Seite der Käufer⋆innen.
 
 ARTlistic sorgt für Furore, ohne dabei ein großes Tamtam zu machen. Weil die Nachfrage für einen derartigen Service so groß war, läuft die Plattform wie von alleine.
 

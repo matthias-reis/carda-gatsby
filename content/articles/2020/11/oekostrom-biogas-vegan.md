@@ -81,7 +81,7 @@ Wie noch ein paar andere Stromanbieter achtet Green Planet Energy darauf, nur St
 
 Wenn Ihr also auf der Suche nach einem [möglichst veganen Stromanbieter](https://tidd.ly/2UMNfvs) seid, trefft Ihr mit Green Planet Energy auf jeden Fall eine gute Wahl.
 
-Natürlich macht Ihr Euch als Veganer⋆innen neben der Massentierhaltung auch noch Gedanken zu anderen Gesichtspunkten. Wie sieht es zum Beispiel bei den Wind- und Wasserkraftanlagen mit dem Wildtierschutz aus?
+Natürlich macht Ihr Euch als Veganer\*innen neben der Massentierhaltung auch noch Gedanken zu anderen Gesichtspunkten. Wie sieht es zum Beispiel bei den Wind- und Wasserkraftanlagen mit dem Wildtierschutz aus?
 
 Bei Green Planet Energy wird zum Beispiel darauf geachtet, dass die Wasserkraftanlagen mit Fischtreppen ausgestattet sind oder es sonstige Einrichtungen für die Fischwanderung gibt und die Bachläufe durchgängig sind.
 

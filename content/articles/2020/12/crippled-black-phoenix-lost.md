@@ -44,7 +44,7 @@ languageLink: /2021/02/crippled-black-phoenix-lost-en
 
 Diesen Beitrag über ein besonderes Musikvideo, das uns beide sehr beeindruckt hat, hat Matze zum Blog beigesteuert. Von mir bekommt Ihre eine klare Leseempfehlung. Und: schaut Euch das Video an!
 
-Die meisten Veganer⋆innen kennen Filme wie "[Earthlings](/2020/07/earthlings/)" , "[Cowspiracy](/2020/04/cowspiracy-vegane-doku/)" und "[The End of Meat](/2020/02/the-end-of-meat/)" . Sie alle veranschaulichen die globalen Konsequenzen unseres Handelns, insbesondere unserer Ernährung eindrücklich. Sie haben inzwischen viele Zuschauer⋆innen von der guten Sache und vom Veganismus überzeugt.
+Die meisten Veganer\*innen kennen Filme wie "[Earthlings](/2020/07/earthlings/)" , "[Cowspiracy](/2020/04/cowspiracy-vegane-doku/)" und "[The End of Meat](/2020/02/the-end-of-meat/)" . Sie alle veranschaulichen die globalen Konsequenzen unseres Handelns, insbesondere unserer Ernährung eindrücklich. Sie haben inzwischen viele Zuschauer\*innen von der guten Sache und vom Veganismus überzeugt.
 
 Die britisch-schwedische Rockband Crippled Black Phoenix hat nun ein solches Statement in kompakter Form herausgebracht – das Musikvideo zum Song "Lost" zeigt starke, dokumentarische Bilder von den Auswirkungen, die das menschliche Handeln auf der Erde haben – gegenüber der Natur, den Tieren, aber auch den Menschen selbst. Für das Video sind die Musiker⋆innen eine Kooperation mit dem portugiesischen Regisseur Guilherme Henriques eingegangen. Die Band besteht aus bekennenden Veganer⋆innen und veröffentlicht immer wieder Songs mit politischen Statements.
 

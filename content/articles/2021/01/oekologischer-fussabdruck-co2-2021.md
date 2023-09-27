@@ -39,7 +39,7 @@ Für 2021 lautet die Herausforderung, einen Wiederaufschwung der Emissionen zu v
 
 Die Exponential Roadmap Initiative zeigt, dass wir die globale Erwärmung auf 1,5 Grad beschränken können. Dazu müssen wir jedoch unseren CO<sub>2</sub>-Ausstoß alle paar Jahre halbieren. Wenn wir bis 2030 die erste Halbierung schaffen wollen, müssen wir Maßnahmen festlegen und uns strikt daran halten.
 
-Um das zu schaffen, müssen möglichst alle an einem Strang ziehen. Was jede⋆r für sich tun kann ist: auf Produkte und Lebensmittel tierischer Herkunft verzichten, Flugreisen vermeiden und daheim so viel wie möglich mit dem Fahrrad oder zu Fuß zu erledigen. Jede⋆r kann mit gutem Beispiel vorangehen.
+Um das zu schaffen, müssen möglichst alle an einem Strang ziehen. Was jede\*r für sich tun kann ist: auf Produkte und Lebensmittel tierischer Herkunft verzichten, Flugreisen vermeiden und daheim so viel wie möglich mit dem Fahrrad oder zu Fuß zu erledigen. Jede\*r kann mit gutem Beispiel vorangehen.
 
 ## Alle müssen zusammenhalten
 

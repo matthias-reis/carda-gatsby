@@ -29,7 +29,7 @@ language: de
 
 **"The Korean Vegan" heißt eines der als beste Kochbücher des Jahres 2021 ausgezeichneten Werke. Geschrieben hat es Joanne Lee Molinaro, die sich in den sozialen Netzwerken einen Namen als "The Korean Vegan" gemacht hat. Offenheit und Mitgefühl sind Joanne besonders wichtig. Im Fokus stehen bei ihr also längst nicht nur gesundes Essen und tolle Rezepte.**
 
-Als nächsten Comic-Film-Hero wünscht sich Joanne eine⋆n Superhelden⋆in des Mitgefühls, der⋆die mit Freundlichkeit und Empathie die Welt rettet. Das sagte sie gegenüber der Presse. Was sie selbst auf ihrem Blog und ihren Social Media Kanälen veröffentlicht, tendiert sehr stark in diese Richtung.
+Als nächsten Comic-Film-Hero wünscht sich Joanne eine\*n Superhelden\*in des Mitgefühls, der⋆die mit Freundlichkeit und Empathie die Welt rettet. Das sagte sie gegenüber der Presse. Was sie selbst auf ihrem Blog und ihren Social Media Kanälen veröffentlicht, tendiert sehr stark in diese Richtung.
 
 Ob wir die Kochbuch-Autorin demnächst auch auf der Leinwand sehen können, steht in den Sternen. Ihr Buch, sollten wir alle jedoch nicht außer Acht lassen.
 

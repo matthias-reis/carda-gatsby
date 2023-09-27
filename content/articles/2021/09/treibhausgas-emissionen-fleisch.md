@@ -29,13 +29,13 @@ language: de
 
 **Eine neue Studie brachte jetzt ans Tageslicht, dass die weltweite Fleisch-Produktion für 28 Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher Nahrungsmittel. Die Zahlen wurden unter anderem in der aktuellen The Guardian Ausgabe veröffentlicht. Die Ergebnisse der Forschungen decken sich mit denen ähnlicher Studien und zeigen ein weiteres Mal den Handlungsbedarf im Hinblick auf die Änderung unserer Ernährungsgewohnheiten.**
 
-Dass es nicht besonders umweltfreundlich ist, Tiere für den Verzehr zu züchten, ist inzwischen den meisten Menschen klar. Die Autor⋆innen der Studie bringen jetzt weitere schockierende Details ans Tageslicht.
+Dass es nicht besonders umweltfreundlich ist, Tiere für den Verzehr zu züchten, ist inzwischen den meisten Menschen klar. Die Autor\*innen der Studie bringen jetzt weitere schockierende Details ans Tageslicht.
 
 ## Zahlen und Daten aus 200 Ländern
 
 Die Forschenden veröffentlichten ihre Studie, die den Einfluss der globalen Lebensmittel auf das Klima zeigt, zuerst auf nature.com[^1]. Für ihre Arbeit analysierten sie Daten aus mehr als 200 Ländern und bezogen 171 pflanzliche sowie 16 tierische Produkte mit ein.
 
-Das Besondere an der neuen Lebensmittel-Klimastudie ist, dass sie tief in die verschiedenen Bereiche der Lebensmittel-Produktionskette eintaucht – die Pflanzen, die einzig zur Verfütterung an "Nutztiere" angebaut werden, berücksichtigten die Wissenschaftler⋆innen ebenso, wie den Einsatz von Düngemitteln und den Transport der Produkte.
+Das Besondere an der neuen Lebensmittel-Klimastudie ist, dass sie tief in die verschiedenen Bereiche der Lebensmittel-Produktionskette eintaucht – die Pflanzen, die einzig zur Verfütterung an "Nutztiere" angebaut werden, berücksichtigten die Wissenschaftler\*innen ebenso, wie den Einsatz von Düngemitteln und den Transport der Produkte.
 
 ## "Wenn wir Angst vor der Klimakatastrophe haben, müssen wir unsere Ernährungsgewohnheiten ändern"
 

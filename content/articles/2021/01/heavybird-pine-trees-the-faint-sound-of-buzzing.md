@@ -88,7 +88,7 @@ Den Abschluss macht Evan mit "Light, At The End". Gibt es ein Licht am Ende des 
 
 > "Ich habe für das neue Album einen Bassisten, einen Viola-Spieler und einen Cellisten engagiert, die alle wundervolle Dinge beigesteuert haben, die ich nie zu träumen gewagt hätte",
 
-erzählte mir [Evan im Interview](/2020/10/heavybird-interview/). Und ich muss ihm hier eindeutig zustimmen. Doch nicht nur die Gastmusiker⋆innen haben ganze Arbeit geleistet. Das Album ist insgesamt wirklich sehr gelungen – perfekt abgemischt, mit spannenden Phasen, mal verspielt und mal klar. Genau so sollte Musik sein. Eine wunderbare Platte, die es sich wirklich lohnt, vorzubestellen. Den eines kann ich Euch klar und deutlich sagen: Ihr solltet sie auf jeden Fall in ihrer Gesamtheit zu genießen. Die erste Vorauskopplung "Karmic Wheel" könnt Ihr hier schön mal hören:
+erzählte mir [Evan im Interview](/2020/10/heavybird-interview/). Und ich muss ihm hier eindeutig zustimmen. Doch nicht nur die Gastmusiker\*innen haben ganze Arbeit geleistet. Das Album ist insgesamt wirklich sehr gelungen – perfekt abgemischt, mit spannenden Phasen, mal verspielt und mal klar. Genau so sollte Musik sein. Eine wunderbare Platte, die es sich wirklich lohnt, vorzubestellen. Den eines kann ich Euch klar und deutlich sagen: Ihr solltet sie auf jeden Fall in ihrer Gesamtheit zu genießen. Die erste Vorauskopplung "Karmic Wheel" könnt Ihr hier schön mal hören:
 
 <iframe
   src="https://bandcamp.com/EmbeddedPlayer/album=3048004093/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"

@@ -6,7 +6,7 @@ title: Autor Dan Buettner zu Gast in Mobys Podcast
 subTitle: Darum werden die Menschen in den Blue Zones so alt
 seoTitle: Mobys Podcast verrät die Tricks der ältesten Menschen der Welt!
 description: In den von Dan Buettner entdeckten Blue Zones leben die ältesten Menschen der Welt. Lerne jetzt ihre Geheimnisse kennen!
-excerpt: In der heutigen Ausgabe von Mobys Podcast "Moby Pod" unterhalten sich der Musiker und Tierrechtsaktivist Moby und seine Co-Hostin Lindsay Hicks mit Dan Buettner.  Er ist der Entdecker der sogenannten Blue Zones – das sind Zonen auf der Erde, deren Bewohner⋆innen unter anderem aufgrund ihrer vorwiegend pflanzlichen Ernährung besonders lange leben.
+excerpt: In der heutigen Ausgabe von Mobys Podcast "Moby Pod" unterhalten sich der Musiker und Tierrechtsaktivist Moby und seine Co-Hostin Lindsay Hicks mit Dan Buettner.  Er ist der Entdecker der sogenannten Blue Zones – das sind Zonen auf der Erde, deren Bewohner*innen unter anderem aufgrund ihrer vorwiegend pflanzlichen Ernährung besonders lange leben.
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-21/blue-zones-sounds-vegan-anne-reis-jpg-imagine-586888_757270_4464_3348/640.webp
 copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-21/blue-zones-soundsvegan-anne-reis-og-jpg-imagine-888898_80766c_1200_628/640.webp
@@ -26,13 +26,13 @@ affiliate: true
 language: de
 ---
 
-**In der heutigen Ausgabe von Mobys Podcast "Moby Pod" unterhalten sich Musiker und Tierrechtsaktivist Moby und seine Co-Hostin, die Schauspielerin Lindsay Hicks, mit Dan Buettner – dem Entdecker der sogenannten Blue Zones – das sind Zonen auf der Erde, deren Bewohner⋆innen unter anderem aufgrund ihrer vorwiegend pflanzlichen Ernährung besonders lange leben.**
+**In der heutigen Ausgabe von Mobys Podcast "Moby Pod" unterhalten sich Musiker und Tierrechtsaktivist Moby und seine Co-Hostin, die Schauspielerin Lindsay Hicks, mit Dan Buettner – dem Entdecker der sogenannten Blue Zones – das sind Zonen auf der Erde, deren Bewohner\*innen unter anderem aufgrund ihrer vorwiegend pflanzlichen Ernährung besonders lange leben.**
 
 Besonders spannend wird es im Podcast, als Dan beginnt über seine Reisen zu sprechen. Der vegan lebende Abenteurer fuhr unter anderem mit seinem Fahrrad durch die Wüste Sahara und hat noch viele weitere faszinierende Geschichten zu erzählen.
 
 ![Dan Buettner, ein Mann mit grauen, kurzen Haaren steht in einem blauen Jeanshemd und einer sehr hellen Jeans an eine schwarzes Fahrrad gelehnt und lächelt. Im Hintergrund ist das Blau des Himmels zu erkennen.](https://storage.googleapis.com/cardamonchai-media/2023-04-21/the-blue-zones-buch-dan-buettner-jpeg-imagine-f8f8f8_a9b1ba_2016_2560/640.webp 'Dan Buettner – "The Complete Blue Zones: Lessons From the Healthiest Places on Earth (The Blue Zones)"')
 
-Sein erstes Buch "The Blue Zones: Lessons for Living Longer From the People Who've Lived the Longest" sowie das für Mai angekündigte "The Complete Blue Zones: Lessons From the Healthiest Places on Earth (The Blue Zones)" werden im Podcast nur kurz angesprochen. Auf das Thema geht er dennoch intensiv ein und erklärt genau, was die Blue Zones sind und wie wir von ihren Bewohner⋆innen lernen können. Neben der Ernährung betrachtete der Schriftsteller unter anderem auch die Entspannungsmethoden sowie den Umgang der Blue Zones Bewohner⋆innen mit Sport und Meditation.
+Sein erstes Buch "The Blue Zones: Lessons for Living Longer From the People Who've Lived the Longest" sowie das für Mai angekündigte "The Complete Blue Zones: Lessons From the Healthiest Places on Earth (The Blue Zones)" werden im Podcast nur kurz angesprochen. Auf das Thema geht er dennoch intensiv ein und erklärt genau, was die Blue Zones sind und wie wir von ihren Bewohner\*innen lernen können. Neben der Ernährung betrachtete der Schriftsteller unter anderem auch die Entspannungsmethoden sowie den Umgang der Blue Zones Bewohner⋆innen mit Sport und Meditation.
 
 Die folgenden Green Zones benannte Dan Buettner:
 

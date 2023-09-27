@@ -37,7 +37,7 @@ Der Geschäftsführer des isländischen Walfangunternehmens IP-Utgerd teilte der
 
 > "Ich werde nie wieder Wale jagen. Ich höre für immer damit auf."
 
-Tierrechtsaktivist⋆innen weltweit begrüßen diese Entscheidung. So auch Fabienne McLellan, Co-Direktorin für internationale Beziehungen bei der NGO Ocean Care. Gegenüber Reportern des Umweltmagazins Mongabay äußerte sie folgendes:
+Tierrechtsaktivist\*innen weltweit begrüßen diese Entscheidung. So auch Fabienne McLellan, Co-Direktorin für internationale Beziehungen bei der NGO Ocean Care. Gegenüber Reportern des Umweltmagazins Mongabay äußerte sie folgendes:
 
 > "Das sind wirklich gute Nachrichten. Die gefährdeten Finnwale erhalten dadurch das zweite Jahr in Folge eine Gnadenfrist und können sich weiter von den Harpunenangriffen erholen."
 
@@ -60,7 +60,7 @@ Die Walfangkommission IWC hatte bereits 1986 ein weltweites Moratorium für den 
 
 ## Das Töten geht weiter
 
-Walfänger⋆innen verringern die Walpopulation auch heute noch nachhaltig. Mehr als tausend Wale werden jedes Jahr für ihr Fleisch getötet. Hinzu kommt, dass ihre Lebensräume von uns Menschen immer weiter zerstört werden.
+Walfänger\*innen verringern die Walpopulation auch heute noch nachhaltig. Mehr als tausend Wale werden jedes Jahr für ihr Fleisch getötet. Hinzu kommt, dass ihre Lebensräume von uns Menschen immer weiter zerstört werden.
 
 Mit dem Walfang kommt es nicht nur zur Bedrohung dieser faszinierenden Arten. Auch das Klima leidet unter diesen Eingriffen in die Tierwelt.
 

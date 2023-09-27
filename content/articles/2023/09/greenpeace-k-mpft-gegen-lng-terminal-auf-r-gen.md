@@ -6,7 +6,7 @@ title: Greenpeace kämpft gegen LNG-Terminal auf Rügen
 subTitle: '"Die Planung ist massiv überdimensioniert"'
 seoTitle: Greenpeace fordert Aus für LNG-Terminal in Rügen
 description: Greenpeace geht gemeinsam mit zahlreichen anderen Gruppen und Aktivist*innen gegen das geplante LNG-Terminal in Mukran auf Rügen vor. Hier erfahrt Ihr warum.
-excerpt: Das geplante LNG-Terminal in Mukran auf Rügen wird uns heute wie die neue Freiheit verkauft. Freiheit von  Kohle und Öl und Unabhängigkeit von mächtigen politischen Kräften. In diesem Artikel geht es um die Schattenseiten des Projekts. Greenpeace setzt sich gemeinsam mit zahlreichen weiteren Gruppen und Aktivist⋆innen gegen das Projekt ein.
+excerpt: Das geplante LNG-Terminal in Mukran auf Rügen wird uns heute wie die neue Freiheit verkauft. Freiheit von  Kohle und Öl und Unabhängigkeit von mächtigen politischen Kräften. In diesem Artikel geht es um die Schattenseiten des Projekts. Greenpeace setzt sich gemeinsam mit zahlreichen weiteren Gruppen und Aktivist*innen gegen das Projekt ein.
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-22/lng-terminal-ruegen-greenpeace-jpg-imagine-080808_204972_1024_768/640.webp
 copyright: Greenpeace
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-22/lng-terminal-ruegen-greenpeace-og-jpg-imagine-080808_204364_1200_628/640.webp
@@ -24,9 +24,9 @@ affiliate: true
 language: de
 ---
 
-**Das geplante LNG-Terminal in Mukran auf Rügen wird uns heute wie die neue Freiheit verkauft. Freiheit von Kohle und Öl und Unabhängigkeit von mächtigen politischen Kräften. In diesem Artikel geht es um die Schattenseiten des Projekts. Greenpeace setzt sich gemeinsam mit zahlreichen weiteren Gruppen und Aktivist⋆innen gegen das Projekt ein.**
+**Das geplante LNG-Terminal in Mukran auf Rügen wird uns heute wie die neue Freiheit verkauft. Freiheit von Kohle und Öl und Unabhängigkeit von mächtigen politischen Kräften. In diesem Artikel geht es um die Schattenseiten des Projekts. Greenpeace setzt sich gemeinsam mit zahlreichen weiteren Gruppen und Aktivist\*innen gegen das Projekt ein.**
 
-50 Kilometer lang soll sie sein, die Pipeline, die das LNG (Liquefied Natural Gas) von Mukran bis nach Lubmin bringen soll. Mit Klima-, Meeres- und Umweltschutz ist das nicht vereinbar. Darum trafen sich zuletzt am 7. September zahlreiche Demonstrant⋆innen, um sich gegen den Eingriff in die Natur der Insel Rügen und die Ostsee stark zu machen.
+50 Kilometer lang soll sie sein, die Pipeline, die das LNG (Liquefied Natural Gas) von Mukran bis nach Lubmin bringen soll. Mit Klima-, Meeres- und Umweltschutz ist das nicht vereinbar. Darum trafen sich zuletzt am 7. September zahlreiche Demonstrant\*innen, um sich gegen den Eingriff in die Natur der Insel Rügen und die Ostsee stark zu machen.
 
 Zu Wasser und zu Lande protestierten sie gegen die Pipeline und die nicht mehr rückgängig machbaren Veränderungen der Natur vor Ort. Die Umweltschutzorganisation Greenpeace war ganz vorn mit dabei. Auf ihrer Webseite heißt es:
 

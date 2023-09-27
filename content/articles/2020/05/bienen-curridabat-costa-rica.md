@@ -68,7 +68,7 @@ heißt es in einer Pressemitteilung des Bürgermeisterbüros. Dem ehemaligen Bü
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYHCAIEBf/EACwQAAEDAgYABQMFAAAAAAAAAAECAwQFEQAGEiExQQcTIiMyFBVRYXGBkeH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAgT/xAAnEQABAwMCBAcAAAAAAAAAAAABAgMRAAQFITESQXGxExQiUYGR8f/aAAwDAQACEQMRAD8ArLAhmTJaR5Tiy4oISlJ3Uo7Af3h7ofhtUai2p2oNmGlryylDg+aCd+L7gXO+MvC6m02s1J1NRkeVKbLa4w1hJ1Ak3AOyhsBbkc4mpmhSXcyx1sw2vtymHGnnCr3ErJuEJ3+Kj1bvAGVzKbVZZSYIEyfsAddqcx+MS6jx3dUzyPwZ6e1RjnDKcqLLgqp9HZLbRdWlCTq1FPRFhuQLpHfHO2EqvJkVRttqnwgpZXezCdS1X4uBx+2LK1eKWYzq5biA2n1lS17JCbHo8ggD+MK9Qdahv09ymxtM2Y6C5KjkIDCVetQT0D0VHfGfF53zDRLw9Q2jn+VGWs27RQLZkKHakbNcXKsJulTYEF2NPU4y6+lskoCVI1H0quCTYgWtYg46+WM0OszpDInSHGA059MCu4UU/AEH9OsGDEuNBy2h0lUTvr3opD7jKuJtUGmKmyHM0ZdqrDus1BVScjtDSE+ygJNhf8gKJ/3Gkxlx2A1aorcaYYLgLQJCngqxRvxbkHsHBgwTerNvcFlrQaHpMirUS6StZk1//9k="
 />
 
-sagte Edgar Mora weiter. Nachdem er aus einem Bericht erfahren hatte, dass Städter⋆innen dazu neigen, die Natur zu verteidigen, weil sie sich nicht in ihrer unmittelbaren Nähe befindet, hatte ihn das Thema nicht mehr losgelassen.
+sagte Edgar Mora weiter. Nachdem er aus einem Bericht erfahren hatte, dass Städter\*innen dazu neigen, die Natur zu verteidigen, weil sie sich nicht in ihrer unmittelbaren Nähe befindet, hatte ihn das Thema nicht mehr losgelassen.
 
 > "Sie fühlt sich für uns wie ein fernes Konzept an, weil sie so weit weg ist. Wenn es darum geht, die Natur in unserer unmittelbaren Umgebung zu schützen, gehen wir darum nachlässig mit ihr um."
 

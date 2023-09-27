@@ -49,7 +49,7 @@ Das klingt nach dem Beginn einer langen Freundschaft.
 
 Jetzt versprach die Firma, 50 Prozent ihrer durch Online-Verkäufe erzielten Gewinne an die Equal Justice Initiative zu spenden. Diese setzt sich dafür ein, Masseninhaftierungen, exzessive Bestrafungen und Rassenungleichheit zu beenden. Die restlichen 50 Prozent gehen an die Snoop Youth Football League, zu der auch Snoop Special Stars zählt. Bislang wurden über 20.000 Dollar gesammelt. Snoop Dog Fan Glaser findet klare Worte:
 
-> "Wir haben uns entschieden, an die Initiative für Gleichberechtigung zu spenden, weil wir zu unseren farbigen Mitbürger⋆innen stehen und unseren Teil dazu beitragen wollen, dass People of color in Zukunft nicht mehr Opfer von Diskriminierung Missbrauch und Mord werden."
+> "Wir haben uns entschieden, an die Initiative für Gleichberechtigung zu spenden, weil wir zu unseren farbigen Mitbürger\*innen stehen und unseren Teil dazu beitragen wollen, dass People of color in Zukunft nicht mehr Opfer von Diskriminierung Missbrauch und Mord werden."
 
 Bravo! Outstanding Foods geht mit der Aktion mit guten Beispiel voran und ist ein glänzendes Vorbild für andere Unternehmen. Hoffentlich lassen sich viele davon inspirieren und unterstützen den so wichtigen Kampf gegen Rassismus mit ihrem Geld.
 

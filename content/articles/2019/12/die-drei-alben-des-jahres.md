@@ -45,7 +45,7 @@ Die Auswahl ist uns nicht leicht gefallen. Es war noch wesentlich schwieriger, a
 
 ## Unsere Alben des Jahres - gehaltvolle Werke
 
-Anders, als bei unseren Monatslisten, haben wir uns dieses Mal komplett auf Neuveröffentlichungen aus dem Jahr 2019 beschränkt - der Kampf war also auf jeden Fall fair. Alle Alben des Jahres wurden außerdem bereits in unseren Monatslisten erwähnt. Regelmäßige Leser⋆innen meines Blogs werden sie also bekannt vorkommen. Aber vermutlich habt Ihr sie längst auch in Euren Plattenregalen stehen. Ich mache es mal nicht spannender, als es ist. Hier kommen unsere Platten des Jahres 2019.
+Anders, als bei unseren Monatslisten, haben wir uns dieses Mal komplett auf Neuveröffentlichungen aus dem Jahr 2019 beschränkt - der Kampf war also auf jeden Fall fair. Alle Alben des Jahres wurden außerdem bereits in unseren Monatslisten erwähnt. Regelmäßige Leser\*innen meines Blogs werden sie also bekannt vorkommen. Aber vermutlich habt Ihr sie längst auch in Euren Plattenregalen stehen. Ich mache es mal nicht spannender, als es ist. Hier kommen unsere Platten des Jahres 2019.
 
 Übrigens haben wir diese gehaltvolle Shortlist absichtlich nicht nummeriert. Alle drei Alben sind gleichwertig - eine Hitliste ist also gar nicht nötig.
 

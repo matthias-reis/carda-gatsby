@@ -38,7 +38,7 @@ labels:
 ---
 **Francesco Perra startete sein Ambient/Post-Rock/Acoustic/Psychedelic Projekt Perry Frank im Jahr 2005. Vom Tag der Gründung an veröffentlichte er die verschiedensten Werke. Ich habe ihn jetzt interviewt, um ihn und seine Kunst besser kennenzulernen.**
 
-Von der Ein-Mann-Band Perry Frank gibt es bisher die drei Alben "Music To Disappear"(2012), "The Neptune Sessions" (2013), and "Soundscape Box 1" (2014). Francesco arbeitete außerdem bereits mit Künstler⋆innen Chords of Orion, Monochrome Season, PCM, Enrico Venturini, Matteo Cantaluppi, Make Like a Tree und Andrea Carri zusammen. Seine vom frühen Post-Rock und Drone beeinflusste Musik ist nicht sehr Genre-bezogen. Es ist schwierig, sie in eine Schublade zu stecken. Im Juli 2020 veröffentlichte er sein neues Album "Reverie" beim in New York beheimateten Label Dynamo Tapes. Heute ist seine Single "Today Is Long Gone" in allen digitalen Stores erschienen.
+Von der Ein-Mann-Band Perry Frank gibt es bisher die drei Alben "Music To Disappear"(2012), "The Neptune Sessions" (2013), and "Soundscape Box 1" (2014). Francesco arbeitete außerdem bereits mit Künstler\*innen Chords of Orion, Monochrome Season, PCM, Enrico Venturini, Matteo Cantaluppi, Make Like a Tree und Andrea Carri zusammen. Seine vom frühen Post-Rock und Drone beeinflusste Musik ist nicht sehr Genre-bezogen. Es ist schwierig, sie in eine Schublade zu stecken. Im Juli 2020 veröffentlichte er sein neues Album "Reverie" beim in New York beheimateten Label Dynamo Tapes. Heute ist seine Single "Today Is Long Gone" in allen digitalen Stores erschienen.
 
 **Anne:** Hi Francesco! Danke, dass Du Dir die Zeit nimmst! Wie geht es Dir heute? Im Hinblick auf die COVID-Zahlen, die weltweit wieder nach oben gehen, hoffe ich, dass es Dir und Deinen Lieben gut geht?
 
@@ -74,7 +74,7 @@ Ich bin sehr stolz auf das neue Album. Was ich besonders liebe ist das es auch e
 
 **Anne:** Wie bist Du auf den Namen "Reverie" gekommen?
 
-**Francesco:** "Reverie" hat zwei verschiedene Bedeutungen: Zuerst einmal ist es ein Tribut an Debussy, einen meine⋆r Lieblings-Komponist⋆innen. "Reverie" bedeutet "Tagträumen". Als ich die Songs ausgesucht habe, die ich über die Jahre geschrieben hatte, hatte ich immer einen Mann im Kopf, der an einem heißen Sommertag auf einem Feld einschläft. Nur für eine Minute.
+**Francesco:** "Reverie" hat zwei verschiedene Bedeutungen: Zuerst einmal ist es ein Tribut an Debussy, einen meine\*r Lieblings-Komponist⋆innen. "Reverie" bedeutet "Tagträumen". Als ich die Songs ausgesucht habe, die ich über die Jahre geschrieben hatte, hatte ich immer einen Mann im Kopf, der an einem heißen Sommertag auf einem Feld einschläft. Nur für eine Minute.
 
 In dieser Minute träumt er sein ganzes Leben und am Ende kann er nicht sagen, ob er wieder wach ist oder noch schläft. Ob er gelebt hat, oder ob sein ganzes Leben nur ein Traum war.
 

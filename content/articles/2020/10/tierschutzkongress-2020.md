@@ -53,11 +53,11 @@ Initiator Jörg Hartung, Professor für Tierschutz und Tierhygiene der TiHo Hann
 
 > "Dieser Kongress ist der erste seiner Art in Brasilien. Ich freue mich, die deutsch-brasilianischen Beziehungen durch diesen Kongress weiter vertiefen und stärken zu können. Insbesondere in diesen Zeiten ist es wichtig, auch die Gesundheit und das Wohlbefinden unserer Nutz- und Kleintiere nicht aus den Augen zu verlieren. Mit den SprecherInnen des Kongresses machen wir auf Defizite im Tierschutz in beiden Ländern aufmerksam und zeigen rechtliche und innovative Lösungen für die Zukunft."
 
-## Tierschutzkongress 2020 mit 20 Expert⋆innen
+## Tierschutzkongress 2020 mit 20 Expert\*innen
 
 Die Themen landwirtschaftliche Nutztiere und Kleintiere sollen im Mittelpunkt der Veranstaltung stehen. Es sollen unter anderem Fragen wie "Welche Herausforderungen haben sich im Bereich des Tierschutzes während der Pandemie gezeigt?", "Wie wird in traditionellen Medien und Social Media über landwirtschaftliche Nutztiere und Kleintiere berichtet?" Und "Wie werden Tiere in Deutschland und Brasilien in Zukunft besser geschützt?" besprochen werden.
 
-Rund 20 Expert⋆innen werden ihre Forschungsergebnisse rund um die aktuellen Herausforderungen für den Tierschutz in Brasilien und Deutschland während der Pandemie vorstellen. So wird Stefan Timm von der TiHo Hannover zum Beispiel seine Veröffentlichungen zur brasilianischen Tierschutzgesetzgebung Compendium Animalis vorstellen. Professor Dr. Jörg Hartung hat sich im Vorfeld mit der Frage "Pandemie und Tierschutz – welche Lehren ziehen wir?" Beschäftigt und wird diese Thematik vorstellen.
+Rund 20 Expert\*innen werden ihre Forschungsergebnisse rund um die aktuellen Herausforderungen für den Tierschutz in Brasilien und Deutschland während der Pandemie vorstellen. So wird Stefan Timm von der TiHo Hannover zum Beispiel seine Veröffentlichungen zur brasilianischen Tierschutzgesetzgebung Compendium Animalis vorstellen. Professor Dr. Jörg Hartung hat sich im Vorfeld mit der Frage "Pandemie und Tierschutz – welche Lehren ziehen wir?" Beschäftigt und wird diese Thematik vorstellen.
 
 ## Zum Tierschutzkongress 2020 anmelden
 

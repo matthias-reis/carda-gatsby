@@ -33,7 +33,7 @@ subTitle: Von Joy Division bis Idles
 
 **Wer hat Lust auf ein bisschen Post-Punk, No-Wave und New Wave? Ich habe eine Playlist mit 27 Songs für Euch zusammengestellt.**
 
-Es ist schon ein paar Tage her, da schickte mir Valentin den Song "Crystal Machete" von Wes Borland. Weil der Musiker eher für einen ganz anderen Musikstil bekannt ist, wundert es Euch vielleicht, dass mich der Song zu einer Playlist mit New Wave, No-Wave und Post-Punk inspiriert hat. Beim Hören stellt Ihr dann unter Umständen fest, dass das doch eigentlich ziemlich gut zusammenpasst. Vielleicht hat sich Wes ja Inspiration bei eben jenen Musiker⋆innen geholt? Möglich wäre es.
+Es ist schon ein paar Tage her, da schickte mir Valentin den Song "Crystal Machete" von Wes Borland. Weil der Musiker eher für einen ganz anderen Musikstil bekannt ist, wundert es Euch vielleicht, dass mich der Song zu einer Playlist mit New Wave, No-Wave und Post-Punk inspiriert hat. Beim Hören stellt Ihr dann unter Umständen fest, dass das doch eigentlich ziemlich gut zusammenpasst. Vielleicht hat sich Wes ja Inspiration bei eben jenen Musiker\*innen geholt? Möglich wäre es.
 
 ## Post-Punk, New Wave und No-Wave
 
@@ -73,7 +73,7 @@ Die britischen Dark Waver machten mit progressiver und finsterer Musik auf sich 
 
 ## The Cure - "A Forest" vom Album "Seventeen Seconds" (1980)
 
-Robert Smith gründete The Cure im zarten Alter von 17 Jahren. Nach über 40 Jahren Bandgeschichte hat die Gruppe die unterschiedlichsten musikalischen Epochen durchlebt und beeinflusst noch heute zahlreiche Musiker⋆innen.
+Robert Smith gründete The Cure im zarten Alter von 17 Jahren. Nach über 40 Jahren Bandgeschichte hat die Gruppe die unterschiedlichsten musikalischen Epochen durchlebt und beeinflusst noch heute zahlreiche Musiker\*innen.
 
 <YouTube id="xik-y0xlpZ0" />
 

@@ -90,7 +90,7 @@ Der Rest der Songs handelt von den Gefühlen, die durch die Isolation und alles,
 
 Das Album selbst, der Titelsong und auch das letzte Stück "In Response" handeln von meiner Familie, die für mich in dieser finsteren Zeit der Silberstreifen am Horizont ist. Meine Frau und meine Kinder haben mich durch das letzte Jahr gebracht und sie begleiten mich weiter durch diese harten Zeiten. Meine dreijährige Tochter hat übrigens den Songs "Lined in Silver" und "Like Wires" ihre Stimme geliehen.
 
-**Anne:** Deine Musik ist gut komponiert – voll und glatt und gleichzeitig rau und hart. Ich liebe es, wie Du Shouting und Screaming mit harmonischem Gesang vermischst. Ich glaube, das könnte Dein Markenzeichen sein. Mir gefällt auch die kreative Mischung aus Post-Metal, Doomgaze und Post-Rock sehr gut. Wie viele Künstler⋆innen haben auf "Lined in Silver" mitgewirkt oder bist das wirklich alles Du (Bis auf die Songs, bei denen Deine Tochter gesungen hat) oder hast Du mit anderen Musiker⋆innen zusammengearbeitet?
+**Anne:** Deine Musik ist gut komponiert – voll und glatt und gleichzeitig rau und hart. Ich liebe es, wie Du Shouting und Screaming mit harmonischem Gesang vermischst. Ich glaube, das könnte Dein Markenzeichen sein. Mir gefällt auch die kreative Mischung aus Post-Metal, Doomgaze und Post-Rock sehr gut. Wie viele Künstler\*innen haben auf "Lined in Silver" mitgewirkt oder bist das wirklich alles Du (Bis auf die Songs, bei denen Deine Tochter gesungen hat) oder hast Du mit anderen Musiker\*innen zusammengearbeitet?
 
 ## "Mit 16 habe ich angefangen in Bands zu spielen"
 

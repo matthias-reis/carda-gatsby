@@ -58,7 +58,7 @@ languageLink: /2023/05/krooked-tongue-interview/
 
 **Anne:** You founded Krooked Tongue in 2022. I am sure there've been some other projects before. Do you want to name some of them?
 
-**Krooked Tongue:** So we started prior to 2022, but with all the lockdowns and the sh⋆⋆, we only really had our first proper year in 2022.
+**Krooked Tongue:** So we started prior to 2022, but with all the lockdowns and the sh\*\*, we only really had our first proper year in 2022.
 
 **Anne:** Do you have any favourites when it comes to bands, artists, and music in general?
 

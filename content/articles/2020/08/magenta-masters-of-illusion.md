@@ -50,9 +50,9 @@ Die Band, bestehend aus Christina Booth (Lead Vocals), Robert Reed (Keyboards, M
 
 ## Eine neue Prog-Platte
 
-Songwriter Rob Reed gibt unter anderem Renaissance, Genesis, Mike Oldfield, Yes, Björk und Eurythmics als seine musikalischen Einflüsse an. Einige davon hört man der Musik von Magenta durchaus an. Vermutlich haben Herr Reed uns seine Kolleg⋆innen auch ein bisschen Dream Theatre und Pink Floyd gehört.
+Songwriter Rob Reed gibt unter anderem Renaissance, Genesis, Mike Oldfield, Yes, Björk und Eurythmics als seine musikalischen Einflüsse an. Einige davon hört man der Musik von Magenta durchaus an. Vermutlich haben Herr Reed uns seine Kolleg\*innen auch ein bisschen Dream Theatre und Pink Floyd gehört.
 
-Auf "Masters Of Illusion" wirkten John Mitchell: (Vocals auf "A Gift From God"), Peter Jones (Sax auf "Reach For The Moon" und "The Rose" und Troy Donockley (Uilleann Pipes auf "The Rose") als Gastmusiker⋆innen mit. Es ist das 14. Studioalbum der Waliser.
+Auf "Masters Of Illusion" wirkten John Mitchell: (Vocals auf "A Gift From God"), Peter Jones (Sax auf "Reach For The Moon" und "The Rose" und Troy Donockley (Uilleann Pipes auf "The Rose") als Gastmusiker\*innen mit. Es ist das 14. Studioalbum der Waliser.
 
 ## Der Song ist König
 

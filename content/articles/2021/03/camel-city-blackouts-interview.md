@@ -82,7 +82,7 @@ Ich hatte jetzt die Gelegenheit, mit Ryan über das Projekt und die Zukunftsplä
 
 **Anne:** Ihr habt Euch 2015 gegründet. Was hat sich seitdem verändert?
 
-**Ryan:** Eigentlich hat sich gar nicht so viel verändert. Ich denke, wir sind als Menschen reifer geworden und haben viel über unsere Stärken und Schwächen gelernt. Im Moment sind Derek und ich auf der Suche nach einem⋆r Drummer⋆in, der⋆die zu uns passt und mit dem, was wir tun, einverstanden ist. Für uns ist das schon lange ein Thema – eine⋆n Schlagzeuger⋆in zu finden und zu behalten.
+**Ryan:** Eigentlich hat sich gar nicht so viel verändert. Ich denke, wir sind als Menschen reifer geworden und haben viel über unsere Stärken und Schwächen gelernt. Im Moment sind Derek und ich auf der Suche nach einem\*r Drummer\*in, der⋆die zu uns passt und mit dem, was wir tun, einverstanden ist. Für uns ist das schon lange ein Thema – eine⋆n Schlagzeuger⋆in zu finden und zu behalten.
 
 **Anne:** Du hast Euer Album "Possession" als "Valentines Day meets Halloween" beschrieben. Was genau kann ich mir darunter vorstellen? Als ich es gehört habe, kam mir in den Sinn, dass Du damit die Hochs und Tiefs des Lebens meinst? Also zum Beispiel sich zu verlieben und zu trennen, verletzt zu werden und eine gute Zeit zu haben?
 

@@ -11,7 +11,7 @@ description: '"The End Of Meat" ist ein Film, den ich Euch wirklich sehr empfehl
   kann. Das Werk wurde nicht ohne Grund für zahlreiche Preise nominiert.'
 excerpt: Wenn Ihr schon immer wissen wolltet, wie eine Welt ohne den Genuss von Lebensmitteln
   tierischer Herkunft aussehen würde und was eigentlich mit den ganzen "Nutztieren"
-  passieren würde, wenn wir alle Veganer⋆innen wären, solltet Ihr "The End Of Meat"
+  passieren würde, wenn wir alle Veganer*innen wären, solltet Ihr "The End Of Meat"
   auf jeden Fall sehen.
 fileName: 2020-02---the-end-of-meat.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_movie-header.png__m.jpg
@@ -42,7 +42,7 @@ month: '02'
 ---
 **"The End Of Meat" ist ein Film, den ich Euch wirklich sehr empfehlen kann. Das Werk wurde nicht ohne Grund für zahlreiche Preise nominiert.**
 
-Wenn Ihr schon immer wissen wolltet, wie eine Welt ohne den Genuss von Lebensmitteln tierischer Herkunft aussehen würde und was eigentlich mit den ganzen "Nutztieren" passieren würde, wenn wir alle Veganer⋆innen wären, solltet Ihr diesen Film auf jeden Fall sehen.
+Wenn Ihr schon immer wissen wolltet, wie eine Welt ohne den Genuss von Lebensmitteln tierischer Herkunft aussehen würde und was eigentlich mit den ganzen "Nutztieren" passieren würde, wenn wir alle Veganer\*innen wären, solltet Ihr diesen Film auf jeden Fall sehen.
 
 <RemoteImage
 alt={`the-end-of-meat-esther-the-wonderpig`}

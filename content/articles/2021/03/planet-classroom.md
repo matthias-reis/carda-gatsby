@@ -5,7 +5,7 @@ path: /2021/03/planet-classroom/
 title: Das müssen wir für das Klima tun
 seoTitle: Planet Classroom – Bildung für alle – Das müssen wir für das Klima tun
 ogTitle: Planet Classroom – Bildung für alle – Das müssen wir für das Klima tun
-description: 'Planet Classroom bringt Künstler⋆innen und Wissenschaftler⋆innen aus der ganzen Welt zusammen. Mit einem gemeinsamen Ziel: Bildung.'
+description: 'Planet Classroom bringt Künstler*innen und Wissenschaftler*innen aus der ganzen Welt zusammen. Mit einem gemeinsamen Ziel: Bildung.'
 excerpt: 'Planet Classroom bringt Musiker⋆innen, Künstler⋆innen, Filmemacher⋆innen und Wissenschaftler⋆innen aus der ganzen Welt zusammen. Ihre gemeinsamen Ziele: Bildung und Unterhaltung für Jugendliche.'
 fileName: 2021-03---das-muessen-wir-fuer-das-klima-tun.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_planet-classroom-1__m.jpg
@@ -27,7 +27,7 @@ errors: {}
 subTitle: Planet Classroom – Bildung für alle
 ---
 
-**Planet Classroom bringt Musiker⋆innen, Künstler⋆innen, Filmemacher⋆innen und Wissenschaftler⋆innen aus der ganzen Welt zusammen. Ihre gemeinsamen Ziel: Jugendliche zu unterhalten und zu bilden und damit ihr Engagement für die Umwelt zu fördern.**
+**Planet Classroom bringt Musiker\*innen, Künstler\*innen, Filmemacher⋆innen und Wissenschaftler⋆innen aus der ganzen Welt zusammen. Ihre gemeinsamen Ziel: Jugendliche zu unterhalten und zu bilden und damit ihr Engagement für die Umwelt zu fördern.**
 
 Das klingt gut, oder? Die Videos und Podcasts des Netzwerks sind wirklich empfehlenswert. Man lernt beim Hören und Sehen jedes Mal eine Menge. Das Planet Classroom Angebot bietet nicht der jüngeren Generation ein reichhaltiges kulturelles Erlebnis. Gerade in der derzeitigen weltweiten Situation, in der nicht alle Lern- und Kunsteinrichtungen frei zugänglich sind, sind die Beiträge ein wunderbares Hilfsmittel zur Erweiterung der Allgemeinbildung. Bei der Umsetzung des Konzepts haben sich junge Menschen aus der ganzen Welt engagiert und die Vision des Netzwerks gemeinsam auf die Beine gestellt.
 

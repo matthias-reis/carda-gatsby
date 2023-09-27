@@ -50,7 +50,7 @@ Bei der Herstellung von Haferdrink werden 70 Prozent weniger klimaschädliche Ga
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABMDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQDBgIFCP/EACkQAAIBAgUDBAIDAAAAAAAAAAECAwQRAAUSIUEGEyIxUWGBIzJCobH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAgEQACAQMEAwAAAAAAAAAAAAAAARECBDEDEiFxIkJh/9oADAMBAAIRAxEAPwDoujNRWrUtFURKUnkiHi5sQ3jfzHF7jn4tjGHNXPUtXlUUy3hp4Km8kZbZmcML6huQFtwPnEKLTUUk7QZikI7k0jDupp1XAYkE/wAb7+xOFc66fy+pztqyWvkiqXFMGSOZUNkcldjwx2+cSW5LHIUR7FqgeRIgKl0eXe7IhUHfbYk8W5wYTyeADL4wtc9YLt+YuG1eR5G23p9YMUQiVLWPSw1XcilkfvyOqgeq6vf7xXupXzQdRytSRVXaKUY1Rgi9pSSLjgXuR877YtxmVpDeJwQSP1Njv7XtiUyLI3mkhPGhSD/uHU8/hu1rdu5z33IvluYS1tGk7Uk0BYsO23qLMR/dr/eDGzit210gqPY+uDAgqablI//Z"
 />
 
-Die Stiftung Warentest untersuchte unter anderem Produkte von Oatly, Kölln und Alpro sowie die Hausmarken verschiedener Drogeriemärkte, Discounter und Supermärkte. Die beste Note (1,8) bekam der Haferdrink von Kölln. Das Aroma gefiel den Tester⋆innen am besten. Der Hafer wird in Deutschland angebaut und die Hafernote ist vollmundig.
+Die Stiftung Warentest untersuchte unter anderem Produkte von Oatly, Kölln und Alpro sowie die Hausmarken verschiedener Drogeriemärkte, Discounter und Supermärkte. Die beste Note (1,8) bekam der Haferdrink von Kölln. Das Aroma gefiel den Tester\*innen am besten. Der Hafer wird in Deutschland angebaut und die Hafernote ist vollmundig.
 
 ## Haferdrink lässt sich gut aufschäumen
 

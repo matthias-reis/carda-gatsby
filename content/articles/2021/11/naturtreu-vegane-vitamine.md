@@ -36,7 +36,7 @@ Vitamin B12 und D3 mit K2 supplementiere ich jedoch generell. In den Wintermonat
 
 Das alles habe ich selbstverständlich mit meinem Hausarzt abgestimmt, was man immer tun sollte, bevor man zusätzliche Vitamine einnimmt. Ein Blutbild und ein Rundum-Check bringen Aufschluss, ob das überhaupt nötig ist und ob Euch vielleicht etwas ganz Bestimmtes fehlt. Meine momentane Kombination ist perfekt auf meine Bedürfnisse abgestimmt.
 
-Die von mir getesteten Produkte von Naturtreu sind zu 100 Prozent vegan. Auf Tierversuche wird beim Start-up aus Buxtehude bewusst verzichtet. Alles wird in Deutschland hergestellt. Das erklärte Ziel der Gründer⋆innen ist es außerdem, möglichst klimaneutral zu handeln.
+Die von mir getesteten Produkte von Naturtreu sind zu 100 Prozent vegan. Auf Tierversuche wird beim Start-up aus Buxtehude bewusst verzichtet. Alles wird in Deutschland hergestellt. Das erklärte Ziel der Gründer\*innen ist es außerdem, möglichst klimaneutral zu handeln.
 
 ## Zellkraft – Vitamin B12 von Naturtreu
 
@@ -44,7 +44,7 @@ Das Vitamin B12-Präparat von Naturtreu kommt in Tropfenform daher. Ich finde da
 
 Wenn Ihr Euch die [Zellkraft B12-Tropfen](https://t.adcell.com/p/click?promoId=254626&slotId=80259&param0=https%3A%2F%2Fnaturtreu.de%2Fcollections%2Fall%2Fproducts%2Fzellkraft-vitamin-b12-tropfen) besorgt, braucht Ihr Euch keine Gedanken zu machen, ob Ihr die richtige Menge aufnehmt. Es enthält die beiden hoch bioverfügbare Vitamin B12 Formen Methylcobalamin & Adenosylcobalamin im optimalen Verhältnis von 4:1. Mit zwei Tropfen kommt Ihr auf die empfohlenen 500 µg. In der Flasche sind 1700 Tropfen.
 
-Bestimmt habt Ihr auch schon mal gehört, dass man als Veganer⋆in unbedingt Vitamin B12 zu sich nehmen sollte. Das stimmt, weil die meisten Menschen Vitamin B12 nur aufnehmen, weil es den Tieren, deren Fleisch anschließend von Menschen gegessen wird, über das Futter zugeführt wird. Allerdings leiden auch Menschen, die sich nicht vegan ernähren, unter Vitamin B12-Mangel. In Deutschland nehmen etwa 50 Prozent der Frauen und 21 Prozent der Männer zwischen 35 und 50 Jahren zu wenig Vitamin B12 zu sich (Quelle: NVS II, 2008[^1]). Hier erfahrt Ihr [alles über Vitamin B12](/2014/08/vitamin-b12-mythos-und-wahrheit/).
+Bestimmt habt Ihr auch schon mal gehört, dass man als Veganer\*in unbedingt Vitamin B12 zu sich nehmen sollte. Das stimmt, weil die meisten Menschen Vitamin B12 nur aufnehmen, weil es den Tieren, deren Fleisch anschließend von Menschen gegessen wird, über das Futter zugeführt wird. Allerdings leiden auch Menschen, die sich nicht vegan ernähren, unter Vitamin B12-Mangel. In Deutschland nehmen etwa 50 Prozent der Frauen und 21 Prozent der Männer zwischen 35 und 50 Jahren zu wenig Vitamin B12 zu sich (Quelle: NVS II, 2008[^1]). Hier erfahrt Ihr [alles über Vitamin B12](/2014/08/vitamin-b12-mythos-und-wahrheit/).
 
 Weil Vitamin B12 jedoch so wichtig für unsere Zellen ist, ist es essentiell wichtig, dass wir immer genug davon zu uns nehmen, damit der Speicher nicht leer wird. Durch die Tropfenform in diesem Fall nehmt Ihr das B12 bereits über die Mundschleimhaut auf – es kommt also auf jeden Fall an, wo es hinsoll.
 

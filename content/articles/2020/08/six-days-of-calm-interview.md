@@ -121,7 +121,7 @@ Ich habe mich bei "The Ocean's Lullaby" nicht einschränken lassen und konnte de
 
 ## "Sigur Rós und This Will Destroy You haben mich geprägt"
 
-**Anne:** Welche Bands und Musiker⋆innen würdest Du als Deine persönlichen Vorbilder bezeichnen?
+**Anne:** Welche Bands und Musiker\*innen würdest Du als Deine persönlichen Vorbilder bezeichnen?
 
 **Marc:** Hm, Vorbilder ist immer so ein Wort. Schwer zu sagen, ob ich diese Bands oder Menschen als Vorbilder bezeichnen würde. In jedem Fall sind es aber Bands die mich und meine Art Musik zu machen massiv geprägt haben oder die mich überhaupt erst dazu gebracht haben Post-Rock zu hören oder selbst welchen zu machen.
 

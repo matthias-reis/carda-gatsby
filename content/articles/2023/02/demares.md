@@ -66,7 +66,7 @@ Der Hauptbestandteil aller Produkte ist Mastix – dabei handelt es sich um das 
 
 ## Aus Prinzip Unisex
 
-Die Demarés Reihe besteht aus zehn Unisex-Produkten. Binäre Klischees könnt Ihr also lange suchen. Die Demarés Produkte sind für alle – jede⋆r kann sie verwenden. Egal, ob gereizte, unruhige, trockene oder pflegeleichte Haut.
+Die Demarés Reihe besteht aus zehn Unisex-Produkten. Binäre Klischees könnt Ihr also lange suchen. Die Demarés Produkte sind für alle – jede\*r kann sie verwenden. Egal, ob gereizte, unruhige, trockene oder pflegeleichte Haut.
 
 Helen hat das Geschäft gerade frisch von ihrer Mutter übernommen. Mit dem Wechsel kam auch der Umzug von Mallorca nach Hamburg (Mediterrane Komponente 2 😊). Helens Ziel: Ihre Produkte auch in Deutschland bekannter zu machen.
 

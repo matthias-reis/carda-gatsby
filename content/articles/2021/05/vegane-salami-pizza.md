@@ -71,7 +71,7 @@ Auch die tolle Salami-Alternative Sim Sala Mi von Vantastic war für mich neu un
 
 Die "Gemüseparty" fand ich auch super. Ich empfehle Euch, sie mit etwas Salz und Chiliflocken abzuschmecken, wenn Ihr es etwas Herzhafter mögt. Insgesamt hatten wir ein schönes Pizzaerlebnis (das wir übrigens zwei Tage später gleich nochmal wiederholt haben. Es war einfach zuuu lecker).
 
-[Leser⋆innen meines Blogs erhalten im Rahmen der Pizza Pizza Wochen bis einschließlich 31. Mai 2021 glatte 10 Prozent Rabatt bei Vantastic Foods. Dort findet Ihr alle Grundzutaten für Eure vegane Salami-Pizza](https://www.awin1.com/cread.php?awinmid=15953&awinaffid=632580&ued=https%3A%2F%2Fserv.linkster.co%2Fr%2F9a5wSzDd).
+[Leser\*innen meines Blogs erhalten im Rahmen der Pizza Pizza Wochen bis einschließlich 31. Mai 2021 glatte 10 Prozent Rabatt bei Vantastic Foods. Dort findet Ihr alle Grundzutaten für Eure vegane Salami-Pizza](https://www.awin1.com/cread.php?awinmid=15953&awinaffid=632580&ued=https%3A%2F%2Fserv.linkster.co%2Fr%2F9a5wSzDd).
 
 So funktioniert's: Gebt einfach bei Eurem Einkauf den Rabattcode **ANNE-PIZZA** an!
 

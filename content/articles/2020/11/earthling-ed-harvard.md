@@ -40,7 +40,7 @@ Auf seinem Instagram Account schreibt Ed:
 
 > "Ich freue mich so sehr, dass ich von der Harvard Universität eingeladen wurde und dort eine Vorlesung über Tierrechte und Veganismus halten darf! Es wurden auch andere Universitäten, wie zum Beispiel Yale dazu eingeladen daran teilzunehmen. Ist das nicht aufregend?"
 
-Die Veranstaltung findet öffentlich statt. Im Anschluss findet, wie bei Eds Vorträgen üblich ein Q&amp;A statt, bei dem jede⋆r seine⋆ihre Fragen loswerden kann.
+Die Veranstaltung findet öffentlich statt. Im Anschluss findet, wie bei Eds Vorträgen üblich ein Q&amp;A statt, bei dem jede\*r seine\*ihre Fragen loswerden kann.
 
 ## Earthling Ed wird immer bekannter
 

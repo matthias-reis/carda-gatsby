@@ -71,7 +71,7 @@ Mit dem Sound, den Crown in ihrer Gründungsphase um das Jahr 2011 gemacht haben
 
 > "Im Leben ist die Veränderung das Einzige, auf das wir uns immer verlassen können. Genauso ist es auch mit der Musik. Ich bin persönlich beleidigt, wenn eine Band die eigenen Ideen immer wieder wiederkäut und Kopien ihrer alten Alben abliefert. Wieder und wieder. Ich will Risiken eingehen und mich auf Abenteuer und das Erkunden neuer Gefilde einlassen. Alles andere wäre für mich keine Kunst."
 
-Ein schöner Satz, der ziemlich genau in Worte fasst, wie ich über Musik denke. Man muss bereit sein, Veränderungen zuzulassen. Besteht man auf das Althergebrachte, verpasst man die schönsten Momente und zu diesen zählt "The End Of All Things" definitiv. Das Album ist ein Highlight in der Veröffentlichungsliste der kommenden Wochen und ich kann mir gut vorstellen, dass es weitere Künstler⋆innen inspiriert, mal wieder etwas ganz Neues auszuprobieren. Schön wäre es.
+Ein schöner Satz, der ziemlich genau in Worte fasst, wie ich über Musik denke. Man muss bereit sein, Veränderungen zuzulassen. Besteht man auf das Althergebrachte, verpasst man die schönsten Momente und zu diesen zählt "The End Of All Things" definitiv. Das Album ist ein Highlight in der Veröffentlichungsliste der kommenden Wochen und ich kann mir gut vorstellen, dass es weitere Künstler\*innen inspiriert, mal wieder etwas ganz Neues auszuprobieren. Schön wäre es.
 
 [Ihr könnt "The End Of All Things" hier vorbestellen](https://pelagic-records.com/product/crown-the-end-of-all-things-2-lp/).
 

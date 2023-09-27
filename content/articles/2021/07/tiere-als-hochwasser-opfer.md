@@ -30,7 +30,7 @@ Allein bei einem Geflügel-Mastbetrieb in Trasadingen im Schweizer Kanton Schaff
 
 ## 17.000 Hühner im Hochwasser gestorben
 
-Im Landkreis Trier konnten Helfer⋆innen rund 60 Tiere aus dem Hochwasser retten. Darunter waren nicht nur Hunde, Katzen und Kleintiere, die Menschen bei ihrer Flucht aus den volllaufenden Häusern zurücklassen mussten, sondern auch Pferde und Wildtiere wie Rehe.
+Im Landkreis Trier konnten Helfer\*innen rund 60 Tiere aus dem Hochwasser retten. Darunter waren nicht nur Hunde, Katzen und Kleintiere, die Menschen bei ihrer Flucht aus den volllaufenden Häusern zurücklassen mussten, sondern auch Pferde und Wildtiere wie Rehe.
 
 ![Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.](https://storage.googleapis.com/cardamonchai-media/2021-11-20/tierrettung-essen-jpg-imagine-c8b8b8_9e9892_1024_768/640.webp 'Tiere als Hochwasser-Opfer: Ein Hund klammert sich verzweifelt an einer Leitplanke fest. Foto: Feuerwehr Essen.')
 
@@ -38,7 +38,7 @@ Es gingen unzählige Suchmeldungen bei der Polizei und dem Tierschutz ein. Sogar
 
 ## Auch Wildtiere sind in Not
 
-Die Tierrettung Essen war auch eine der ersten, die einen Aufruf mit der Bitte, in den betroffenen Gebieten verbliebene Tiere zu melden, an alle Tierhalter⋆innen sendete. So konnten unter anderem zwei Ponys in Sicherheit gebracht werden.
+Die Tierrettung Essen war auch eine der ersten, die einen Aufruf mit der Bitte, in den betroffenen Gebieten verbliebene Tiere zu melden, an alle Tierhalter\*innen sendete. So konnten unter anderem zwei Ponys in Sicherheit gebracht werden.
 
 Bei guten Nachrichten wie dieser handelt es sich jedoch um Einzelfälle. Auch, wenn sie momentan in den Medien präsenter sind, als die Fälle, in denen es nicht gut ausgegangen ist. Das Ausmaß der Katastrophe ist schrecklich. Bisher lässt sich nur grob schätzen, wie viele Tiere in den Fluten umgekommen sind. Teilweise wurden ganze Ställe einfach davon gerissen und auch viele Wildtiere befinden sich in einer ausweglosen Situation. Auf dem Foto oben seht Ihr ein Rehkitz, das die Feuerwehr Essen aus dem Wasser retten konnte.
 

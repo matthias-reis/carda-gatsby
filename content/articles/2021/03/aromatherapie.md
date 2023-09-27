@@ -54,7 +54,7 @@ Sein Erlebnis inspirierte ihn und er vertiefte seine Forschungen in diese Richtu
 
 Ab 1923 beschäftigte sich Gattefossé nur noch die medizinischen Eigenschaften ätherischer Öle. Er veröffentlichte zahlreiche Publikationen zur Herstellung von Produkten auf deren Basis.
 
-Gattefossés besonderes Augenmerk lag auf der antiseptischen Wirkung der Bergamotte-Essenz. In Zusammenarbeit mit zahlreichen Ärz⋆tinnen und Kliniken entwickelte er verschiedene Hautpflegeprodukte. Im Jahr 1936 veröffentlichte er sein Buch "Physiologische Ästhetik und Schönheitsprodukte". Es wurde in zahlreiche Sprachen übersetzt. 1937 folgen "Essenzielle Antiseptika" und "Aromatherapie". Der Begriff stammt somit von ihm.
+Gattefossés besonderes Augenmerk lag auf der antiseptischen Wirkung der Bergamotte-Essenz. In Zusammenarbeit mit zahlreichen Ärz\*tinnen und Kliniken entwickelte er verschiedene Hautpflegeprodukte. Im Jahr 1936 veröffentlichte er sein Buch "Physiologische Ästhetik und Schönheitsprodukte". Es wurde in zahlreiche Sprachen übersetzt. 1937 folgen "Essenzielle Antiseptika" und "Aromatherapie". Der Begriff stammt somit von ihm.
 
 ## So funktioniert Aromatherapie
 
@@ -128,6 +128,6 @@ Ein Großteil der Aroma-Öle wird heute nicht mehr natürlich gewonnen und statt
 
 ## Wichtige Hinweise
 
-Wenn Ihr bei der Anwendung der Öle ein paar Regeln beachtet, kann Aromatherapie eine echte Bereicherung sein. Denkt daran: Bei starken Schmerzen, Ausschlägen oder sonstigen Irritationen sucht bitte unbedingt eine⋆n Fachärz⋆tinnen auf. Achtet außerdem unbedingt auf die richtige Dosierung. Zu viel des Guten kann zu Nebenwirkungen, allergischen Reaktionen und sogar Vergiftungserscheinungen führen. Vor allem, wenn Ihr schwanger seid, solltet Ihr aufpassen. Außerdem solltet Ihr bei kleinen Kindern besser auf die Anwendung von ätherischen Ölen verzichten.
+Wenn Ihr bei der Anwendung der Öle ein paar Regeln beachtet, kann Aromatherapie eine echte Bereicherung sein. Denkt daran: Bei starken Schmerzen, Ausschlägen oder sonstigen Irritationen sucht bitte unbedingt eine\*n Fachärz⋆tinnen auf. Achtet außerdem unbedingt auf die richtige Dosierung. Zu viel des Guten kann zu Nebenwirkungen, allergischen Reaktionen und sogar Vergiftungserscheinungen führen. Vor allem, wenn Ihr schwanger seid, solltet Ihr aufpassen. Außerdem solltet Ihr bei kleinen Kindern besser auf die Anwendung von ätherischen Ölen verzichten.
 
 Quellen/Sources: [Wikipedia](https://de.wikipedia.org/wiki/Aromatherapie), [Edel Naturwaren](https://t.adcell.com/p/click?promoId=252519&slotId=80259&param0=https%3A%2F%2Fwww.edel-naturwaren.de%2F)

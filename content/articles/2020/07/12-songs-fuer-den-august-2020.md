@@ -132,7 +132,7 @@ Omar Rodríguez-López hat wieder zugeschlagen. Matze hat sich das Ergebnis scho
 
 Dieses geballte Ansammlung von Gefühlen haben Matze und ich diesen Monat beide auf unseren Hörlisten. Matze hat einen Text dazu geschrieben:
 
-"Es ist wirklich kaum zu glauben, dass es sich hierbei um 'Ausschussware' handeln soll. Ein - wie für Emma übliches - sehr intensives, emotionales Stück zwischen Singer-Songwriter Sound und Post-Rock. Wenn man sich den Text näher ansieht, erfährt man, warum sie das Stück gerade jetzt veröffentlicht. Er handelt von den Abgründen des Lebens von Tourmusiker⋆innen - angewiesen auf Live-Auftritte und am Rande der Existenzkrise, wenn genau das unter einem Lockdown auf unbestimmte Zeit wegbricht."
+"Es ist wirklich kaum zu glauben, dass es sich hierbei um 'Ausschussware' handeln soll. Ein - wie für Emma übliches - sehr intensives, emotionales Stück zwischen Singer-Songwriter Sound und Post-Rock. Wenn man sich den Text näher ansieht, erfährt man, warum sie das Stück gerade jetzt veröffentlicht. Er handelt von den Abgründen des Lebens von Tourmusiker\*innen - angewiesen auf Live-Auftritte und am Rande der Existenzkrise, wenn genau das unter einem Lockdown auf unbestimmte Zeit wegbricht."
 
 <YouTube id="nLb1CtsVjf0" />
 

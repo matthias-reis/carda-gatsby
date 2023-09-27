@@ -37,7 +37,7 @@ subTitle: Fließband des Todes
 
 **Die Lederproduktion steht der Pelzproduktion in Sachen Grausamkeit und Umweltverschmutzung in nichts nach. In diesem Artikel möchte ich beleuchten, warum das so ist.**
 
-Viele Menschen finden ihren Einstieg in die Tierethik und in das Thema Tierrechte, wenn sie sich mit Pelz beschäftigen. Auch bei mir war das so. Ich sah die Plakate und ging zu den Demos. Ich regte mich über Pelzträger⋆innen auf und schimpfte wie ein Rohrspatz (OK, das mache ich immer noch). Dabei wurde mir ziemlich schnell klar: Das ist nicht das Ende der Fahnenstange.
+Viele Menschen finden ihren Einstieg in die Tierethik und in das Thema Tierrechte, wenn sie sich mit Pelz beschäftigen. Auch bei mir war das so. Ich sah die Plakate und ging zu den Demos. Ich regte mich über Pelzträger\*innen auf und schimpfte wie ein Rohrspatz (OK, das mache ich immer noch). Dabei wurde mir ziemlich schnell klar: Das ist nicht das Ende der Fahnenstange.
 
 Ich war damals bereits seit langen Jahren Vegetarierin und befand mich auf direktem Wege in den Veganismus. Die Bilder, die (vor allem durch den Film [Earthlings](/2020/07/earthlings/) ) ich aus der Lederindustrie sah, überzeugten mich schließlich, meine Entscheidung, in Zukunft auf Tierisches komplett zu verzichten, sofort und unumkehrbar durchzuführen.
 
@@ -53,7 +53,7 @@ Ich war damals bereits seit langen Jahren Vegetarierin und befand mich auf direk
 
 Leder ist robust und kann zu den verschiedensten Dingen verarbeitet werden: Autositze, Stiefel, Handtaschen, Sofas, Schlüsselanhänger, Federmäppchen, Rucksäcke. Die Liste ist schier endlos.
 
-Was uns die Verkäufer⋆innen, die uns dieses Traditionsprodukt aus vollem Herzen empfehlen, nicht sagen ist, dass Leder grausam ist, der Umwelt schadet und keineswegs (wie das so gerne erzählt wird) ein natürliches Produkt.
+Was uns die Verkäufer\*innen, die uns dieses Traditionsprodukt aus vollem Herzen empfehlen, nicht sagen ist, dass Leder grausam ist, der Umwelt schadet und keineswegs (wie das so gerne erzählt wird) ein natürliches Produkt.
 
 Ebenso ist Leder kein Abfallprodukt aus der Fleischindustrie. Dieses Gerücht hält sich leider sehr hartnäckig, ist aber schlichtweg falsch. Zwar werden auch die Felle von Kühen aus der [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/) zu Leder verarbeitet, sobald sie ihr Soll nicht mehr erfüllen und aussortiert werden. Die Tiere (vor allem Rinder), von denen die Haut stammt, aus der das Leder hergestellt wird, werden jedoch größtenteils eigens zu diesem Zweck gezüchtet.
 

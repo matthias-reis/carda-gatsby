@@ -52,9 +52,9 @@ languageLink: /2023/05/krooked-tongue-interview-en/
 
 **Krooked Tongue:** Dieses Wochenende steht Bristol für uns an. Unsere Homebase sind immer ziemlich wild – es wird also krass werden. Wir freuen uns aber auch schon sehr, nächste Woche nach Tallinn aufzubrechen. Das wird sicher eine wundervolle Erfahrung.
 
-**Anne:** Wie Du gerade erwähnt hast, seid Ihr aus Bristol. Die Stadt ist ja bekannt für ihre großartigen Künstler⋆innen, das wunderbare ArcTanGent Festival findet bei Euch in der Nähe statt und es gibt viele andere tolle Events. Wie würdest Du die Szene bei Euch beschreiben? Warum floriert sie so sehr und was unterscheidet Bristol von anderen Städten im UK oder der EU?
+**Anne:** Wie Du gerade erwähnt hast, seid Ihr aus Bristol. Die Stadt ist ja bekannt für ihre großartigen Künstler\*innen, das wunderbare ArcTanGent Festival findet bei Euch in der Nähe statt und es gibt viele andere tolle Events. Wie würdest Du die Szene bei Euch beschreiben? Warum floriert sie so sehr und was unterscheidet Bristol von anderen Städten im UK oder der EU?
 
-**Krooked Tongue:** Die Szene hier in Bristol ist wirklich schön. Die Stadt beheimatet die unterschiedlichsten Musiker⋆innen. Ich denke, was das ausmacht, ist, dass Du hier einfach die unterschiedlichsten Stile oder Genres spielen kannst und es funktioniert meistens.
+**Krooked Tongue:** Die Szene hier in Bristol ist wirklich schön. Die Stadt beheimatet die unterschiedlichsten Musiker\*innen. Ich denke, was das ausmacht, ist, dass Du hier einfach die unterschiedlichsten Stile oder Genres spielen kannst und es funktioniert meistens.
 
 **Anne:** Ihr habt Krooked Tongue 2022 gegründet. Ich bin mir sicher, dass es davor schon andere Projekte für Euch gegeben hat? Wollt Ihr mir etwas darüber erzählen?
 

@@ -41,13 +41,13 @@ Trotz der weltweiten Bemühungen geht der Waldverlust weiter. Täglich fallen we
 
 Vor allem, da es in Brasilien bislang keine staatliche Forstverwaltung gibt, wäre dieser Hebel jedoch besonders wichtig. Die Commitments können jedoch beim derzeitigen Tempo kaum etwas für den Schutz der biodiversen Ökosysteme ausrichten. Die Bemühungen in diese Richtung kommen schlichtweg zu spät und die Verfahren zur Einführung sind zu kompliziert, um sofort etwas zu bewirken.
 
-Die Autor⋆innen der Studie nutzten bei ihrer Arbeit Zeitreihen mit räumlich expliziten Daten über die Rohstoffbeschaffung von Unternehmen und ZDCs. Damit konnten sie die aktuellen und potenziellen Auswirkungen von ZDCs innerhalb von Soja-Lieferketten im Hinblick auf den Waldverlust und die biologische Vielfalt bewerten.
+Die Autor\*innen der Studie nutzten bei ihrer Arbeit Zeitreihen mit räumlich expliziten Daten über die Rohstoffbeschaffung von Unternehmen und ZDCs. Damit konnten sie die aktuellen und potenziellen Auswirkungen von ZDCs innerhalb von Soja-Lieferketten im Hinblick auf den Waldverlust und die biologische Vielfalt bewerten.
 
 ## "Unternehmen müssen auf die Missstände aufmerksam machen"
 
 Die Forschenden konzentrierten sich auf das brasilianische Amazonasgebiet sowie den Cerradeo. Im Amazonas wurde das erste ZDC Sojamoratorium (SoyM) eingeführt. Im Cerrado führten Unternehmen ZDCs ein, setzten sie jedoch nicht um.
 
-Im Rahmen ihrer Arbeit fanden die Wissenschaftler⋆innen heraus, dass die Unterzeichnenden des SoyM, die den Markt kontrollieren, zwischen 2006 und 2015 in ihren Gebieten einen Rückgang der direkten Entwaldung für Soja um ganze 57 Prozent bewirken konnten.
+Im Rahmen ihrer Arbeit fanden die Wissenschaftler\*innen heraus, dass die Unterzeichnenden des SoyM, die den Markt kontrollieren, zwischen 2006 und 2015 in ihren Gebieten einen Rückgang der direkten Entwaldung für Soja um ganze 57 Prozent bewirken konnten.
 
 Hätten die Unternehmen im Cerrado ihre ZDCs mit der gleichen relativen Wirksamkeit wie im Amazonasgebiet umgesetzt, hätten sie die Abholzung für Soja um 46 Prozent reduzieren können. Die Umsetzung der ZDC im Cerrado mithilfe strenger Überwachung und Durchsetzung könnte somit wesentlich zur Erhaltung der Wälder und Lebensräume beitragen.
 

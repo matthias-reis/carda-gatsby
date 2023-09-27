@@ -83,7 +83,7 @@ Abgesehen davon, wie sie aussieht, kann man die harte Arbeit, die wir hineingest
 
 **Filip:** Mein Favorit ist "Stereo No Aware", weil ich den Groove mag. Aber ich denke, das kommt auf die Stimmung an. An manchen Tagen gefallen mir andere Songs auf dem Album besser.
 
-**Anne:** Ihr habt erzählt, dass Ihr das Schwindelgefühl von As I Watch You From Afar und die Brutalität von Russian Circles genauso mögt, wie den leichten Funk von LCD Soundsystem. Wenn ich mir Eure Songs so anhöre, kann das so unterschreiben. Würdet Ihr sagen, dass diese Musiker⋆innen Eure größten Einflüsse sind? Gibt es noch andere, die für Euch wichtig sind?
+**Anne:** Ihr habt erzählt, dass Ihr das Schwindelgefühl von As I Watch You From Afar und die Brutalität von Russian Circles genauso mögt, wie den leichten Funk von LCD Soundsystem. Wenn ich mir Eure Songs so anhöre, kann das so unterschreiben. Würdet Ihr sagen, dass diese Musiker\*innen Eure größten Einflüsse sind? Gibt es noch andere, die für Euch wichtig sind?
 
 ## "Wir mögen Caspian, Converge und Alcest"
 
@@ -101,7 +101,7 @@ Abgesehen davon, wie sie aussieht, kann man die harte Arbeit, die wir hineingest
 
 **Anne:** Ihr habt 2019 auf dem Dunk!festival gespielt. [Ich habe mich mit Andrew von Solkyri über die besondere Atmosphäre unterhalten](/2020/06/solkyri/). Wir waren uns ziemlich einig, dass wir beide das Festival lieben. Ich mag die Leute, das Essen und die Mittagspausen mit den Bands in der Jugendherberge. Jeder ist so nett und zuvorkommend und die Stimmung ist einfach klasse. Was meint Ihr, was das Event so einzigartig macht? Was unterscheidet es von anderen Festivals?
 
-**Mantis:** Die gesamte Atmosphäre macht es zu so einem großartigen Festival-Erlebnis. Man kann fühlen, dass auf dem Dunk!festival echt Musikliebhaber sind. Es ist nicht nur eine Ausrede dreckig und betrunken zu werden. Uns ist das besonders aufgefallen, als wir 2019 den Opener gespielt haben. Unsere bisherige Festivalerfahrung hatte uns gezeigt, dass die Bands, die ein Festival eröffnen normalerweise nur wenig Publikum haben, aber auf dem Dunk! war das Zelt voller Leute. Nach unserem Auftritt zog dann die ganze Meute zum nächsten Konzert rüber zur Waldbühne. Das ist ein großartiges Gefühl für eine⋆n Künstler⋆in. Außerdem haben wir die 1980er Jahre Musik, die die Dunk!fries Jungs in den Pausen gespielt haben, sehr genossen.
+**Mantis:** Die gesamte Atmosphäre macht es zu so einem großartigen Festival-Erlebnis. Man kann fühlen, dass auf dem Dunk!festival echt Musikliebhaber sind. Es ist nicht nur eine Ausrede dreckig und betrunken zu werden. Uns ist das besonders aufgefallen, als wir 2019 den Opener gespielt haben. Unsere bisherige Festivalerfahrung hatte uns gezeigt, dass die Bands, die ein Festival eröffnen normalerweise nur wenig Publikum haben, aber auf dem Dunk! war das Zelt voller Leute. Nach unserem Auftritt zog dann die ganze Meute zum nächsten Konzert rüber zur Waldbühne. Das ist ein großartiges Gefühl für eine\*n Künstler⋆in. Außerdem haben wir die 1980er Jahre Musik, die die Dunk!fries Jungs in den Pausen gespielt haben, sehr genossen.
 
 **Anne:** Werden wir Euch dort 2021 oder 2022 wiedersehen? Also wann immer COVID uns wieder erlaubt, Festivals zu besuchen?
 

@@ -5,8 +5,8 @@ path: /2020/06/essen-fuer-das-klima/
 title: Essen für das Klima
 seoTitle: Essen für das Klima - Europa will sich nachhaltiger ernähren
 ogTitle: Essen für das Klima - Europa will sich nachhaltiger ernähren
-description: Essen für das Klima - geht da noch was? Oder war das schon alles? Fast 70 Prozent der Europäer⋆innen würden zum Wohle des Planeten ihre Ernährung umstellen.
-excerpt: Essen für das Klima - geht da noch was? Oder war das schon alles? Fast 70 Prozent der Europäer⋆innen würden zum Wohle des Planeten ihre Ernährung umstellen.
+description: Essen für das Klima - geht da noch was? Oder war das schon alles? Fast 70 Prozent der Europäer*innen würden zum Wohle des Planeten ihre Ernährung umstellen.
+excerpt: Essen für das Klima - geht da noch was? Oder war das schon alles? Fast 70 Prozent der Europäer*innen würden zum Wohle des Planeten ihre Ernährung umstellen.
 fileName: 2020-06---essen-fuer-das-klima.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_essen-fuer-das-klima__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_essen-fuer-das-klima__l.jpg
@@ -31,11 +31,11 @@ errors: {}
 subTitle: Europa will sich nachhaltiger ernähren
 ---
 
-**Essen für das Klima - geht da noch was? Oder war das schon alles? Fast 70 Prozent der Europäer** ⋆ **innen würden zum Wohle des Planeten ihre Ernährung umstellen. Sprich: Mehr pflanzenbasierte Nahrung zu sich nehmen, saisonale Produkte kaufen und weniger Lebensmittel verschwenden.**
+**Essen für das Klima - geht da noch was? Oder war das schon alles? Fast 70 Prozent der Europäer** \* **innen würden zum Wohle des Planeten ihre Ernährung umstellen. Sprich: Mehr pflanzenbasierte Nahrung zu sich nehmen, saisonale Produkte kaufen und weniger Lebensmittel verschwenden.**
 
 Rund zwei Drittel der europäischen Bevölkerung (67 Prozent, um genau zu sein) stehen der Veränderung ihrer Essgewohnheiten aus Umweltschutzgründen offen gegenüber. Das geht aus dem Report One Bite At A Time[^1]) hervor. Dieser wurde von der europäischen Consumer Organisation BEUC zusammengestellt und herausgegeben.
 
-## Ernährungsumfrage unter europäischen Konsument⋆innen
+## Ernährungsumfrage unter europäischen Konsument\*innen
 
 Bei der Broschüre handelt es sich um die Analyse einer Umfrage zum Thema nachhaltige Ernährung unter europäischen Konsument⋆innen. BEUC hatte die Umfrage gemeinsam mit 12 Partnerorganisationen in elf europäischen Ländern organisiert. Sie fand im Oktober und November des letzten Jahres statt.
 

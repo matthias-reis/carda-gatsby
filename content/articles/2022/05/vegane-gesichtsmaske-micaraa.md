@@ -31,7 +31,7 @@ language: de
 
 ---
 
-**Hinweis:** Weiter unten findet Ihr einen Gutschein für Eure nächste Bestellung bei MICARAA.⋆
+**Hinweis:** Weiter unten findet Ihr einen Gutschein für Eure nächste Bestellung bei MICARAA.\*
 
 ---
 
@@ -57,7 +57,7 @@ Auftragen könnt Ihr das Produkt ganz einfach mit Eurem Kosmetik-Pinsel (einen v
 
 Die Hauptinhaltsstoffe der Maske sind gelbe Tonerde (die sorgt für den fröhlichen Farbton) und Sanddorn-Extrakt. Die Tonerde reinigt die Haut sanft und ist für ihre antibakterielle Wirkung bekannt, der Sanddorn-Extrakt bietet der Haut Unterstützung beim Loswerden von Giften und beugt zusätzlich Schäden durch Umwelteinflüsse sowie frühzeitiger Hautalterung vor.
 
-Kaufen könnt Ihr die Maske ab heute (30. Mai) [im MICARAA Onlineshop](https://tidd.ly/38Su2n0). Sie ist mit und ohne Pinsel erhältlich. Natürlich könnt Ihr den [Pinsel auch einzeln kaufen](https://tidd.ly/3wZU14Q). Wenn Ihr meinen persönlichen Blog-Gutscheincode⋆ verwendet, erhaltet Ihr dort 10 Prozent Rabatt auf Euren Einkauf.
+Kaufen könnt Ihr die Maske ab heute (30. Mai) [im MICARAA Onlineshop](https://tidd.ly/38Su2n0). Sie ist mit und ohne Pinsel erhältlich. Natürlich könnt Ihr den [Pinsel auch einzeln kaufen](https://tidd.ly/3wZU14Q). Wenn Ihr meinen persönlichen Blog-Gutscheincode\* verwendet, erhaltet Ihr dort 10 Prozent Rabatt auf Euren Einkauf.
 
 ⋆Mein MICARAA Influencer-Gutschein lautet: **anne10**. Damit erhaltet Ihr 10 Prozent Rabatt auf Euren Einkauf bei MICARAA.
 

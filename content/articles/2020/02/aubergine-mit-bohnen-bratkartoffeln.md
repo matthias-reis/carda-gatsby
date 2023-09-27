@@ -39,7 +39,7 @@ subTitle: Veganes Rezept für zwei Personen
 
 **Vor Kurzem hat Matze mich mal wieder mit einem ganz wunderbaren Gericht beglückt. Im Anschluss musste ich ihn einfach darum bitten, das Rezept für mich aufzuschreiben. Ich möchte es heute mit Euch teilen.**
 
-Alle Liebhaber⋆innen guter veganer Hausmannskost mit Bohnen, Kartoffeln, Auberginen und viel Liebe werden voll auf ihre Kosten kommen. Ich wünsche Euch jetzt schon mal ganz viel Spaß beim Schlemmen! Das Rezept besteht aus zwei Komponenten: der geschmorten Aubergine und den Bohnen-Bratkartoffeln.
+Alle Liebhaber\*innen guter veganer Hausmannskost mit Bohnen, Kartoffeln, Auberginen und viel Liebe werden voll auf ihre Kosten kommen. Ich wünsche Euch jetzt schon mal ganz viel Spaß beim Schlemmen! Das Rezept besteht aus zwei Komponenten: der geschmorten Aubergine und den Bohnen-Bratkartoffeln.
 
 ## Zutaten für die Bohnen-Bratkartoffeln
 

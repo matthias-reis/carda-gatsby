@@ -62,7 +62,7 @@ Das Konzept geht wirklich auf, soviel kann ich Euch auf jeden Fall versprechen. 
 
 Zurück zur Bodenpatenschaft. In der ersten Saison bekommt Ihr Euren Ernteanteil und dürft zwischen ungeschälten Bio-Walnüssen und Bio-Haselnüssen und Bio-Walnussöl wählen.
 
-Silvia und David wollen mit dem Bodenpaten-Projekt einen neuen Weg einschlagen. Sie wünschen sich, als Produzent⋆innen in direkter Verbindung zu ihren Endverbraucher⋆innen zu stehen. Zwischenhandel gibt es keinen.
+Silvia und David wollen mit dem Bodenpaten-Projekt einen neuen Weg einschlagen. Sie wünschen sich, als Produzent\*innen in direkter Verbindung zu ihren Endverbraucher\*innen zu stehen. Zwischenhandel gibt es keinen.
 
 ## Die Bodenpatenschaft läuft ein Jahr
 

@@ -64,7 +64,7 @@ Der zweite Song "Knæler" wirkt fast noch kraftvoller als sein Vorgänger und au
 
 ![Kollapse](https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-2-jpg-imagine-080808_56575b_1024_768/640.webp 'Kollapse')
 
-"Libido" zieht die Hörer⋆innen in einen wirbelnden Sog – das Schlagzeug ist wunderbar präzise, schöne Tempowechseln machen den Song zu einem aggressiven Tanz.
+"Libido" zieht die Hörer\*innen in einen wirbelnden Sog – das Schlagzeug ist wunderbar präzise, schöne Tempowechseln machen den Song zu einem aggressiven Tanz.
 
 "Der, hvor jeg tænker, er der altid mørkt" enthält überraschenderweise Trompeten-Sound. Dieser wurde von Dan Hejslet eingespielt. Der sechste und letzte Song auf der Platte besitzt ein nachdenkliches und leicht wirkendes Intro, das von einem durchdachten Zusammenspiel von Drums und Gitarren abgelöst wird, um sich anschließend in einem Meer aus Melodien zu ergießen.
 

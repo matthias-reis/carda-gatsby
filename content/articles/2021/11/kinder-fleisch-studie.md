@@ -99,7 +99,7 @@ Das Wissen von Kindern über die Herstellungsprozesse von Lebensmitteln scheint 
 
 ## Die Kinder wussten nicht, woher die Chicken Nuggets kommen
 
-Die Ergebnisse der Umfrage stimmen mit den Befragungsdaten aus den USA überein. Daraus geht hervor, dass amerikanische Schüler⋆innen in der dritten Schulklasse nur eine sehr ungenaue Vorstellung davon haben, wie Lebensmittel hergestellt werden.
+Die Ergebnisse der Umfrage stimmen mit den Befragungsdaten aus den USA überein. Daraus geht hervor, dass amerikanische Schüler\*innen in der dritten Schulklasse nur eine sehr ungenaue Vorstellung davon haben, wie Lebensmittel hergestellt werden.
 
 Insgesamt wurden 176 Kinder im Alter zwischen vier und sieben Jahren (Altersdurchschnitt 5,83 Jahre), aus den Ballungsgebieten im Südosten der Vereinigten Staaten befragt. Fast die Hälfte konnte auf die Frage "Wie wird Käse gemacht?" keine Antwort geben. 31 Prozent der Kinder wussten nicht, woher das Brot kommt und 40 Prozent konnten nicht erklären, woraus ein Hamburger besteht.
 

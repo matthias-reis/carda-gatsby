@@ -44,7 +44,7 @@ Weltweit gibt es Siegel und Zertifizierungen, die für fair gehandelten und umwe
 
 - Fairtrade kennzeichnet Kaffee aus fairem Handel. Die Kleinbauern erhalten einen etwas höheren Abnahmepreis und werden am  Kaffeemarkt bestmöglich unterstützt. Dieser unterliegt nämlich immer wieder ziemlich starken Schwankungen.
 - Rainforest Alliance bemüht sich um die Beziehung zwischen Kaffeeproduzenten und der Umwelt. Dabei sollen die Nachhaltigkeit und die Landwirtschaft miteinander im Einklang sein. Die Alliance gibt zu diesem Zweck das Wissen über nachhaltige Bewirtschaftung an die Bauern vor Ort weiter.
-- Kaffeesorten, die das EU-Bio-Logo tragen, unterliegen strengen Kriterien. Damit Hersteller⋆innen das Euro-Blatt auf grünem Grund auf ihre Tüten drucken dürfen, müssen sie sich zunächst durch eine Kontrollstelle für ökologischen Landbau zertifizieren lassen. Das Siegel steht für nachhaltigen Anbau im Einklang mit der Natur. Ökologischer Landbau soll die Natur schonen. Der Einsatz von künstlichem Dünger ist verboten. Der Boden soll dadurch dauerhaft fruchtbar bleiben. Rohstoffressourcen sollen geschont und die Artenvielfalt erhalten werden.
+- Kaffeesorten, die das EU-Bio-Logo tragen, unterliegen strengen Kriterien. Damit Hersteller\*innen das Euro-Blatt auf grünem Grund auf ihre Tüten drucken dürfen, müssen sie sich zunächst durch eine Kontrollstelle für ökologischen Landbau zertifizieren lassen. Das Siegel steht für nachhaltigen Anbau im Einklang mit der Natur. Ökologischer Landbau soll die Natur schonen. Der Einsatz von künstlichem Dünger ist verboten. Der Boden soll dadurch dauerhaft fruchtbar bleiben. Rohstoffressourcen sollen geschont und die Artenvielfalt erhalten werden.
 - Bei UTZ Certified stehen die einzelnen Produktionsschritte und das Endprodukt im Fokus. Die Kaffeesorten, die mit diesem Siegel ausgezeichnet werden, werden unter ganz bestimmten Nachhaltigkeit-Standards angebaut. So sind Kinderarbeit und Rodungen strikt untersagt.
 
 ## Support your local coffee dealer
@@ -63,7 +63,7 @@ Vor Kurzem habe ich einen Kaffeeröster kennengelernt, der seine kleine Manufakt
 
 Auch bei der Kaffeezubereitung könnt in Sachen Nachhaltigkeit einiges richtig machen: Auf Kapselautomaten verzichten zum Beispiel. Auch Vollautomaten sind nicht besonders nachhaltig. Eine French Press oder eine formschöne Filterkanne, die sogar ohne Papierfilter auskommt, gibt dann schon mehr Umweltschutz-Punkte. Auch das alte Mokkakännchen, mit dem der Kaffee direkt auf dem Herd zubereitet wird, kommt ohne zusätzlichen Müll aus. Der Kaffee schmeckt dafür um Längen besser, als aus einer Wegwerfkapsel.
 
-Um den optimalen Geschmack zu erzielen, mahlt Ihr den Kaffee daheim selbst. Dem⋆r Bohnendealer⋆in Eures Vertrauens tut Ihr damit auch noch einen Gefallen: Die Schlange vor dem Tresen wird nicht so lang, weil Ihr Ruck zuck fertig seid mit Eurem Einkauf. Vor allem aber hält sich bei der Lagerung das Aroma länger, als bei vorgemahlenem Kaffee. Eigentlich logisch.
+Um den optimalen Geschmack zu erzielen, mahlt Ihr den Kaffee daheim selbst. Dem\*r Bohnendealer⋆in Eures Vertrauens tut Ihr damit auch noch einen Gefallen: Die Schlange vor dem Tresen wird nicht so lang, weil Ihr Ruck zuck fertig seid mit Eurem Einkauf. Vor allem aber hält sich bei der Lagerung das Aroma länger, als bei vorgemahlenem Kaffee. Eigentlich logisch.
 
 ## Auf Kaffeekapseln verzichten
 

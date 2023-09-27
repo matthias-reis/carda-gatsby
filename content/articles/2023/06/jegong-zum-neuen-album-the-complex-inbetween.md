@@ -104,7 +104,7 @@ So haben wir das Schlagzeug zum größten Teil in Shelbyville, Kentucky von Zack
 
 **Anne:** Dahm, wenn ich nach den besten Drummern gefragt werde, nenne ich Dich (und natürlich Paul Seidel). Auf den Mono Konzerten, auf denen ich bis jetzt war, hast Du mich immer extrem beeindruckt. Das sind für mich bleibende Erinnerungen, die niemals jemand löschen kann. Möchtest Du mir erzählen, was Dein Spiel geprägt hat und wie Du zu einem der besten Schlagzeuger aller Zeiten wurdest?
 
-**Dahm:** Das ist ein extrem liebes Kompliment. Ich bin nur ein Student unterschiedlicher Arten von Musik und Musiker⋆innen. Aufrichtigkeit ist für mich die wichtigste Zutat für Musik.
+**Dahm:** Das ist ein extrem liebes Kompliment. Ich bin nur ein Student unterschiedlicher Arten von Musik und Musiker\*innen. Aufrichtigkeit ist für mich die wichtigste Zutat für Musik.
 
 **Anne:** Ich habe gelesen, dass Euer die Architekturfotografin Rachel Bühlmann für Euer Albumcover verantwortlich ist. Das industriell wirkende Bild harmoniert wunderbar mit Euren Songs. Es strahlt diese Energie aus, obwohl keine Personen darauf zu sehen sind. Habt Ihr Berührungspunkte mit der Architekturszene?
 

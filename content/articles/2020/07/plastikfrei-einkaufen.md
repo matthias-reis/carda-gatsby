@@ -1,6 +1,6 @@
 ---
 ogTitle: Plastikfrei einkaufen - 5 praktische Tipps für den Alltag
-excerpt: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
+excerpt: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger*innen
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_plastikfrei-einkaufen-fb.png__l.jpg
 isAffiliate: false
 path: /2020/07/plastikfrei-einkaufen/
@@ -29,7 +29,7 @@ labels:
   - Zero Waste
 language: de
 type: Artikel
-description: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger⋆innen
+description: Plastikfrei einkaufen klingt schwierig? Ist es nicht! Mit diesen fünf Alltagstipps gelingt es ganz einfach - Less Waste für Einsteiger*innen
 ---
 
 **Das Brot kommt in eine Tüte mit Sichtfenster aus Plastik, die Tomaten in einen Plastikbeutel und der Sojajoghurt ist in einem Plastikbecher - einkaufen kann eine ganz schöne Umweltsünde sein. So geht Plastik-frei einkaufen.**
@@ -78,7 +78,7 @@ Es kommt natürlich auch mal vor, dass man etwas einkauft, das man gerne ein bis
 
 [Für solche Fälle nutze ich die unglaublich praktischen Obst- und Gemüsenetze von samebutgreen](https://t.adcell.com/p/click?promoId=224459&slotId=80259&param0=https%3A%2F%2Fsamebutgreen.com%2Fcollections%2Fshop-samebutgreen%2Fproducts%2Funverpackt-taschen-set). Sie gehören zur Grundausstattung unserer Einkaufsrucksäcke. Es gibt sie im praktischen Set aus fünf verschiedenen Größen.
 
-Was klasse ist: Die Dinger sind so leicht, dass sie beim Obst Wiegen an der Kasse nicht ins Gewicht fallen. In der Tasche nehmen sie auch keinen Platz weg. Ein zusätzlicher Pluspunkt der Netze: Beim Einkaufen kann man auch gleich noch das schlechte Gewissen der anderen Kund⋆innen ein bisschen befeuern. [Ich wurde tatsächlich schon gefragt, wo ich die praktischen Beutel gekauft habe](https://t.adcell.com/p/click?promoId=224459&slotId=80259&param0=https%3A%2F%2Fsamebutgreen.com%2Fcollections%2Fshop-samebutgreen%2Fproducts%2Funverpackt-taschen-set). Ihr könnt sie übrigens auf den Fotos sehen, mit denen ich diesen Artikel hier illustriert habe.
+Was klasse ist: Die Dinger sind so leicht, dass sie beim Obst Wiegen an der Kasse nicht ins Gewicht fallen. In der Tasche nehmen sie auch keinen Platz weg. Ein zusätzlicher Pluspunkt der Netze: Beim Einkaufen kann man auch gleich noch das schlechte Gewissen der anderen Kund\*innen ein bisschen befeuern. [Ich wurde tatsächlich schon gefragt, wo ich die praktischen Beutel gekauft habe](https://t.adcell.com/p/click?promoId=224459&slotId=80259&param0=https%3A%2F%2Fsamebutgreen.com%2Fcollections%2Fshop-samebutgreen%2Fproducts%2Funverpackt-taschen-set). Ihr könnt sie übrigens auf den Fotos sehen, mit denen ich diesen Artikel hier illustriert habe.
 
 ## Tipp 3 - Jutebeutel dabeihaben
 
@@ -92,7 +92,7 @@ Habt Ihr auch so viele Jutebeutel? Einen von PETA, einen von den Toten Hosen, ei
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcD/8QALBAAAgEDAgQFAwUAAAAAAAAAAQIDAAQRBQYSEyExIkFRYXEUIzJCoaKx4f/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBAX/xAAfEQABBAIDAQEAAAAAAAAAAAABAAIDBBESEyExBeH/2gAMAwEAAhEDEQA/AEzaGjrd6xphms5JbSSRkYtEWjbwtgE/OK0iDZOixIXmsAEAJZmlkCr/ACqo25uCaDbV7e28cQ+mnW1tbcISQhXwqcdTjv74NW+j7gmkuobOWK3DSIZ3uJDJaopBACnyYnvj2865tq62J+rjhKvV3ZsO1C62Xos6DkWkkLEfnDK2B8Bif6pJ3DsW6thIbGaK6jAOA/23+PQ/tWlrr3DY3cmpCKZoHVg8DAhkLFMAjsc4PXORmq7Wr5G09ZRBdDnDoSV4QD+ri/ypx/SjBAL/AHzP6qPpZHizjautiyt2jMyxPzFmjd14k4uFkIbGSMhuhwcEU12erx6jMLR5bVHOJuZAOaQEPlkBQTkDr69jRRWizSilfzOHYUK1p7BxjxdtybjEFm1jZm0mJuAJVZlmDRqD4XZQFUsT2UZGM+1J2ubiKRxLpJezSMYIecyhunYAgYoopirE8DduUX2ZA4gHC//Z"
 />
 
-Ich habe immer ein bis drei davon in jedem Rucksack. Wenn ich dann unterwegs auf die Idee komme, noch schnell den Einkauf zu erledigen, bin ich gerüstet. Und wenn zufällig gerade ein⋆e Bekannt⋆e mit dabei ist und sich anschließt, kann ich ihm⋆ihr auch gleich noch einen Beutel anbieten. In der Jutebeutel-Schublade lagern wir übrigens inzwischen unser Katzenfutter. Das muss nicht mehr traurig in der Küche rumstehen.
+Ich habe immer ein bis drei davon in jedem Rucksack. Wenn ich dann unterwegs auf die Idee komme, noch schnell den Einkauf zu erledigen, bin ich gerüstet. Und wenn zufällig gerade ein\*e Bekannt⋆e mit dabei ist und sich anschließt, kann ich ihm⋆ihr auch gleich noch einen Beutel anbieten. In der Jutebeutel-Schublade lagern wir übrigens inzwischen unser Katzenfutter. Das muss nicht mehr traurig in der Küche rumstehen.
 
 ## Tipp 4 - Unnötige Umverpackung dalassen
 

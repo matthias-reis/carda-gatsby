@@ -85,7 +85,7 @@ Insgesamt haben mich die Produkte von der Ölmühle Solling sehr überzeugt. Ich
 
 ## Die Ölmühle Solling
 
-Hinter der Ölmühle Solling steht die Familie Baensch aus dem Weserbergland. Gudrun, Werner, Sarah und Sebastian haben ihre Manufaktur 1996 gegründet. Das Familienunternehmen hat heute 60 Mitarbeiter⋆innen.
+Hinter der Ölmühle Solling steht die Familie Baensch aus dem Weserbergland. Gudrun, Werner, Sarah und Sebastian haben ihre Manufaktur 1996 gegründet. Das Familienunternehmen hat heute 60 Mitarbeiter\*innen.
 
 Um die Bioöle in Feinkost-Qualität herzustellen, arbeitet das Team mit kleinen Spindelpressen. Das erklärte Motto lautet "Masse statt Klasse". Darum stellen Gudrun und ihre Crew kleine Chargen her und legen dabei großen Wert auf handwerkliche Tradition.
 
