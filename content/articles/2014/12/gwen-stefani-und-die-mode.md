@@ -2,8 +2,7 @@
 templateKey: article
 title: Gwen Stefani und die Mode
 subTitle: Popikone bringt vegane Schuhkollektion auf den Markt
-description: Endlich gibt es auch vegane High Heels. Entworfen werden die tollen
-  Schuhe von niemand Geringerem als Pop Star Gwen Stefani persönlich.
+description: Endlich gibt es auch vegane High Heels. Entworfen werden die tollen Schuhe von niemand Geringerem als Pop Star Gwen Stefani persönlich.
 date: 2014-12-02T13:57:18.528Z
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/bild-gwenstefani-quelle-zalando-ch-jpg-imagine-b8a8b8_8a777c_572_429/640.webp
 labels:
