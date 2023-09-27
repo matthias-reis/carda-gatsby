@@ -60,7 +60,7 @@ Der Begriff "Album" stammt ja eigentlich aus der klassischen Musik, beziehungswe
 
 **Anne:** Eure Musik spielt sich zwischen Post-Metal, Mathcore und Prog ab. Welche Bands würdest Du hier als Eure größten Einflüsse bezeichnen?
 
-**Rodney:** Unsere Einflüsse sind so vielseitig wie unsere Musik. Neben Bands wie Between The Buried And Me, [The Ocean](/2020/09/the-ocean-robin-staps-interview/), Rolo Tomassi, Cult Of Luna und Deafheaven haben mich persönlich zum Beispiel auch Komponist⋆innen wie Philip Glass oder Steve Reich, beeinflusst. Künstler⋆innen der Neoklassik wie Joep Beving hatten einen großen Einfluss auf das Songwriting. Das kann man besonders im Track "No Strings Attached" hören.
+**Rodney:** Unsere Einflüsse sind so vielseitig wie unsere Musik. Neben Bands wie Between The Buried And Me, [The Ocean](/2020/09/the-ocean-robin-staps-interview/), Rolo Tomassi, Cult Of Luna und Deafheaven haben mich persönlich zum Beispiel auch Komponist\*innen wie Philip Glass oder Steve Reich, beeinflusst. Künstler⋆innen der Neoklassik wie Joep Beving hatten einen großen Einfluss auf das Songwriting. Das kann man besonders im Track "No Strings Attached" hören.
 
 **Anne:** Ihr seid ja eine reine DIY-Band. Ist es Euch wichtig, die komplette Produktion selbst zu machen, oder würdet Ihr zum Beispiel auch mit Sound-Ingenieuren oder einem Label zusammenarbeiten, wenn sich die Gelegenheit bieten würde?
 

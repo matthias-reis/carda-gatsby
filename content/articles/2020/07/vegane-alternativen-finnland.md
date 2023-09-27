@@ -50,7 +50,7 @@ VTT Projektleiterin Nesli Sözer sprach davon, dass sich die finnische Lebensmit
 
 > "Starkes Engagement der Verbraucher\*innen ist für uns unerlässlich. Wir wollen nicht nur nachhaltige, sondern auch ansprechende Produkte entwicklen - in Bezug auf den Geschmack und das Mundgefühl. Das ist es, was wir mit dem EXPRO-Projekt anstreben."
 
-Zu den Partner⋆innen des Projekts zählt Gold&amp;Green Foods. Das finnische Start-up entwickelte bereits veganes "Pulled Meat" aus Hafer, Faba Bohnen und Erbsen. Die Fastfoodkette Taco Bell fand das Produkt so gut, dass es in den spanischen und britischen Filialen fest ins Sortiment aufgenommen wurde.
+Zu den Partner\*innen des Projekts zählt Gold&amp;Green Foods. Das finnische Start-up entwickelte bereits veganes "Pulled Meat" aus Hafer, Faba Bohnen und Erbsen. Die Fastfoodkette Taco Bell fand das Produkt so gut, dass es in den spanischen und britischen Filialen fest ins Sortiment aufgenommen wurde.
 
 ## Starke Partner in der Lebensmittelindustrie
 

@@ -102,7 +102,7 @@ Am 19. März 1911 fand der erste Frauentag in Deutschland, Österreich, der Schw
 
 ## Hauptthema der Proteste: Das Frauenwahlrecht
 
-Hauptthema der Proteste war das Frauenwahlrecht. Bis zu diesem Zeitpunkt war es noch nicht durchgesetzt worden. Die SPD sah in der Einführung des Frauenwahlrechts die Chance, mehr Mitglieder zu gewinnen. Die Partei unterstützte die Aktivist⋆innen daher von Anfang an.
+Hauptthema der Proteste war das Frauenwahlrecht. Bis zu diesem Zeitpunkt war es noch nicht durchgesetzt worden. Die SPD sah in der Einführung des Frauenwahlrechts die Chance, mehr Mitglieder zu gewinnen. Die Partei unterstützte die Aktivist\*innen daher von Anfang an.
 
 Die Zahl der Mitglieder wuchs rasch an. Auch die sozialistische Frauenzeitung Die Gleichheit konnte innerhalb eines Jahres nahezu 10.000 neue Abonnent⋆innen verzeichnen.
 

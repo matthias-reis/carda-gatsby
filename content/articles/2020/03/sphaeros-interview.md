@@ -105,7 +105,7 @@ Ich glaube, dass wir das gesamte Universum in uns haben und unsere eigenen Meist
 
 **Sphaèros:** Ich gehöre nicht zu einer "Szene", also kann ich Dir das nicht genau sagen. Ich liebe Paris für seine Geschichte, seine Museen, seine Architektur und seine besondere Atmosphäre. Ich denke, dass die Pariser Musikszene wirklich schlecht ist. Also bis auf die gute alte Zeit mit Barbara, Edith Piaf and Serge Gainsbourg.
 
-**Anne:** Du hast mir erzählt, dass Du ein kreativer Mensch bist. Dein Kopf hält nie an. Was würdest Du Künstler⋆innen, die sich in einer Schaffenskrise befinden und es nicht schaffen, ihre Werke fertigzustellen, raten?
+**Anne:** Du hast mir erzählt, dass Du ein kreativer Mensch bist. Dein Kopf hält nie an. Was würdest Du Künstler\*innen, die sich in einer Schaffenskrise befinden und es nicht schaffen, ihre Werke fertigzustellen, raten?
 
 ## "Wenn man etwas erschaffen möchte, muss man loslassen können"
 

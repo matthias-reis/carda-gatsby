@@ -68,7 +68,7 @@ Mit dem Walfang kommt es nicht nur zur Bedrohung dieser faszinierenden Arten. Au
 
 Wale senken den Kohlenstoffgehalt in der Atmosphäre, indem sie ihn in ihrem Tran einlagern. Dadurch tragen sie einen erheblichen Teil zum Klimaschutz bei.
 
-Forscher⋆innen fanden heraus, dass der Atmosphäre pro Jahr rund 160.000 Tonnen Kohlendioxid entzogen würden, würde die Walpopulation, würde man es schaffen, die Walpopulation wieder auf das Level vorindustrieller Zeiten anzuheben. So steht es in einem Artikel des Wissenschafts-Magazins PLoS ONE.
+Forscher\*innen fanden heraus, dass der Atmosphäre pro Jahr rund 160.000 Tonnen Kohlendioxid entzogen würden, würde die Walpopulation, würde man es schaffen, die Walpopulation wieder auf das Level vorindustrieller Zeiten anzuheben. So steht es in einem Artikel des Wissenschafts-Magazins PLoS ONE.
 
 ## Hat Island seinen letzten Wal getötet?
 

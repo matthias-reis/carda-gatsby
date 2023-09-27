@@ -45,6 +45,6 @@ Pelagic wandte sich an seine Künstler\*innen, um einen Doppel-Tape-Sampler mit 
 
 Die Tapes mit insgesamt 13 Songs befindet sich momentan in der Produktion und wird am 3. Juni erscheinen. Die Verkaufserlöse spendet Pelagic zu 100 Prozent an den Be An [Angel e. V. Berlin](https://beanangel.direct/en/), der sich dort vor Ort um die ankommenden Menschen aus Ukraine kümmert.
 
-Pelagic dankt allen Künstler⋆innen sowie Philipp Welsing von Original Mastering (Mastering), Benedikt Demmer von Druckwelle Design (Artwork), dem Riso Club Leipzig (Risograph Printing) sowie Prepaid Records (Dubbing). Pläne, die Tapes auch auf Vinyl zu veröffentlichen, gibt es bislang nicht. In der Pressemitteilung zum Release heißt es jedoch: "Man soll niemals nie sagen".
+Pelagic dankt allen Künstler\*innen sowie Philipp Welsing von Original Mastering (Mastering), Benedikt Demmer von Druckwelle Design (Artwork), dem Riso Club Leipzig (Risograph Printing) sowie Prepaid Records (Dubbing). Pläne, die Tapes auch auf Vinyl zu veröffentlichen, gibt es bislang nicht. In der Pressemitteilung zum Release heißt es jedoch: "Man soll niemals nie sagen".
 
 Also: [Also lasst uns den Menschen helfen, die gerade in Berlin ankommen und diese Tapes kaufen](https://pelagic-records.com/product/pelagic-records-ukrainian-war-refugee-support-a-pelagic-compilation-2xtape/)!

@@ -42,7 +42,7 @@ Dieses Mal fiel die Wahl auf den Song "I Build This Garden For Us" von Lenny Kra
 
 Vor der Veröffentlichung wusste übrigens auch dieses Mal keine/r von uns, was die anderen geschrieben haben. Die Vorfreude war daher für uns Autor\*innen wieder mehr als groß. Bereits am 18. August war es soweit und das Geheimnis wurde gelüftet.
 
-Weil ich nicht zu Hause war, poste ich meinen Text erst heute, er kommt natürlich dennoch von Herzen. Grüße an alle anderen Lieben, die mitgemacht haben! Die Beiträge der anderen Blogger⋆innen habe ich noch nicht gesehen. Umso gespannter bin ich, sie alle zu entdecken. Euch wünsche ich jetzt erstmal viel Spaß mit meinen Assoziationen, die das Lied bei mir hervorgerufen hat. Weiter unten sind dann alle anderen Blogs verlinkt.
+Weil ich nicht zu Hause war, poste ich meinen Text erst heute, er kommt natürlich dennoch von Herzen. Grüße an alle anderen Lieben, die mitgemacht haben! Die Beiträge der anderen Blogger\*innen habe ich noch nicht gesehen. Umso gespannter bin ich, sie alle zu entdecken. Euch wünsche ich jetzt erstmal viel Spaß mit meinen Assoziationen, die das Lied bei mir hervorgerufen hat. Weiter unten sind dann alle anderen Blogs verlinkt.
 
 ## Es wird spannend - Die Nadel berührt die Schallplatte...
 

@@ -115,7 +115,7 @@ Die Synthie Popper aus Leeds beispielten Anfang der 1980er die Bühnen. Lange Ze
 
 ## Talking Heads - "Memories Can't Wait" vom Album "Fear of Music" (1979)
 
-Ein paar Kunststudent⋆innen treffen sich auf Rhode Island und gründen eine Band. Der Rest ist Geschichte.
+Ein paar Kunststudent\*innen treffen sich auf Rhode Island und gründen eine Band. Der Rest ist Geschichte.
 
 <YouTube id="nFfPSSLHdQY" />
 

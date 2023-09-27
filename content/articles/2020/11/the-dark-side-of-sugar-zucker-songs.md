@@ -51,7 +51,7 @@ Das komplette gleichnamige Album von The Dark Side Of Sugar soll Ende 2020 ersch
 
 Holly Gabriel, Ernährungswissenschaftlerin bei Action on Sugar kommentiert die Kampagne so:
 
-> "Wir fordern mehr Transparenz in der Lebensmittelbranche, zum Beispiel durch eine eindeutige Kennzeichnung der Inhaltsstoffe. Das ist wichtig, damit jede\*r Verbraucher⋆in ihre⋆seine Kaufentscheidung bewusst treffen kann",
+> "Wir fordern mehr Transparenz in der Lebensmittelbranche, zum Beispiel durch eine eindeutige Kennzeichnung der Inhaltsstoffe. Das ist wichtig, damit jede\*r Verbraucher\*in ihre⋆seine Kaufentscheidung bewusst treffen kann",
 
 In Großbritannien konnte Action on Sugar durch Aufklärungsarbeit bereits weitreichende Zuckerreformen erwirken. The Dark Side Of Sugar ist die erste Aktion dieser Art in Deutschland.
 

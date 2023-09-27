@@ -60,7 +60,7 @@ languageLink: /2023/05/krooked-tongue-interview-en/
 
 **Krooked Tongue:** Wir haben uns eigentlich vor 2022 gefunden, aber mit den ganzen Lockdowns und dem Mist hatten wir unser erstes gutes Jahr 2022.
 
-**Anne:** Habt Ihr im Hinblick auf Bands und Künstler⋆innen Favoriten, die Euch besonders inspirieren?
+**Anne:** Habt Ihr im Hinblick auf Bands und Künstler\*innen Favoriten, die Euch besonders inspirieren?
 
 ## "Einflüsse sind wichtig"
 

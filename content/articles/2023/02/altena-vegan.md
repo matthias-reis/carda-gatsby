@@ -27,7 +27,7 @@ language: de
 
 **Die Gemeinde Altena in der niederländischen Provinz Noord-Brabant möchte ihre Einwohner\*innen dazu ermutigen, sich beim Einkaufen häufiger für pflanzliche Lebensmittel zu entscheiden und sich dauerhaft vegan zu ernähren. Zu diesem Zweck werden sogenannte "Interventionen" in Schulen, Supermärkten und Restaurants durchgeführt. Altena hat dem Projekt den Namen "Gebiedspilot plantaardige eiwitten" gegeben. Das bedeutet so viel wie: "Lokales Pilotprojekt Pflanzenprotein".**
 
-Lokale Botschafter\*innen aus der 57.000-Einwohner⋆innen-Gemeinde unterstützen die Aktion mit dem Slogan "samen plaantardig" ("gemeinsam pflanzenbasiert"). Mit dabei sind unter anderem ein Sportlehrer, ein Stadtrat sowie Volleyball-Star Raïsa Schoon  die auch in einem Kampagnen-Video zu sehen ist. Alle Botschafter⋆innen sollen ihre veganen Lieblingsprodukte in Form inspirierender Rezepte weitergeben.
+Lokale Botschafter\*innen aus der 57.000-Einwohner\*innen-Gemeinde unterstützen die Aktion mit dem Slogan "samen plaantardig" ("gemeinsam pflanzenbasiert"). Mit dabei sind unter anderem ein Sportlehrer, ein Stadtrat sowie Volleyball-Star Raïsa Schoon  die auch in einem Kampagnen-Video zu sehen ist. Alle Botschafter⋆innen sollen ihre veganen Lieblingsprodukte in Form inspirierender Rezepte weitergeben.
 
 Die Aktion soll zur Verwirklichung des Ziels der nationalen Strategie rund um pflanzliches Eiweiß beitragen – dem sogenannten "Bean Deal"[^4]. E﻿r umfasst die Wiederherstellung eines gesunden Gleichgewichts von 50 Prozent tierischem zu 50 Prozent [pflanzlichem Protein](/2022/11/veganes-protein/) in der Ernährung der Niederländer⋆innen.
 

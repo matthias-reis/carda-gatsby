@@ -65,7 +65,7 @@ Marc Pierschel hat sich viel Zeit genommen - über zwei Jahre hat er Karin, Jan 
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgQH/8QAKRAAAgEDAQYGAwAAAAAAAAAAAQIDAAQRIQUSEyIxQQZhcaGxwTIzgf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGhEBAQACAwAAAAAAAAAAAAAAAQACEiExQf/aAAwDAQACEQMRAD8A5p4Tutl2sDDalhDcz7rFuKp5lwAAjKdCDjoc5rFGZLeC3jBYNKSzBe5019etYdiFrgtbby/raZSw/EjGceopu9sZihL8MLp0BPz51HEGi8V7GF551jTmlZiBg5LHPvTa2gcwvCqsZVbO6FycjrShzFaRiNbjMpJw2RoOhNXW/lmRVEz6KEVQxACgY+KcdRJBsB0MXEl5WQGEHuQRkfftTOOVGGNxAuc9j9UUUSWRaoZgqvgLggDH99Km5An3OGV4oOF1xny1oop+QO7/2Q=="
 />
 
-Jede\*r der⋆die den Film bisher gesehen hat, lobt ihn in den höchsten Tönen. Das sagen zum Beispiel die Tierrechtsaktivist⋆innen von PETA:
+Jede\*r der\*die den Film bisher gesehen hat, lobt ihn in den höchsten Tönen. Das sagen zum Beispiel die Tierrechtsaktivist⋆innen von PETA:
 
 > "'Butenland der Film' ist eine einfühlsame Dokumentation, die nicht den Zeigefinger erhebt, sondern an unsere Menschlichkeit appelliert. Wer einmal gesehen hat, wie frei Paul, Uschi, Lillja und die anderen Tiere nach ihrer Zeit als "Nutztiere" leben, kann nicht anders, als sich diese wahr gewordene Utopie für alle Lebewesen zu wünschen."
 

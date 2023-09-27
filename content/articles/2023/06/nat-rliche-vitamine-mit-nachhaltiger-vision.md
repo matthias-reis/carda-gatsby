@@ -45,7 +45,7 @@ Von den Vitamin-B-12-Tropfen nehmt Ihr täglich 3 Tropfen zu Euch und deckt dami
 
 "Nutztiere" bekommen über das Futter Vitamin B12 zugeführt. Darum haben Menschen, die häufig Fleisch essen, manchmal keinen Mangel und müssen das Vitamin nicht über Nahrungsergänzungsmittel zu sich nehmen. Vegan lebende Menschen wie ich sollten generell zu B-12-Supplementen greifen.
 
-Es lohnt sich jedoch auf jeden Fall für alle, regelmäßig die Blutwerte daraufhin zu untersuchen. Dabei solltet Ihr den\*die Ärzt⋆in Eures Vertrauens darum bitten, besonders auf den Holo-TC-(Holo-Transcobalamin)-Wert zu achten. Es reicht nicht aus, allein den Vitamin-B12-Wert zu checken. Solltet Ihr schon im Mangel liegen, könnt Ihr mit dem⋆der Mediziner⋆in auch überlegen, ob eine Injektion für Euch infrage kommt, damit Ihr schneller wieder in den Normbereich kommt.
+Es lohnt sich jedoch auf jeden Fall für alle, regelmäßig die Blutwerte daraufhin zu untersuchen. Dabei solltet Ihr den\*die Ärzt\*in Eures Vertrauens darum bitten, besonders auf den Holo-TC-(Holo-Transcobalamin)-Wert zu achten. Es reicht nicht aus, allein den Vitamin-B12-Wert zu checken. Solltet Ihr schon im Mangel liegen, könnt Ihr mit dem⋆der Mediziner⋆in auch überlegen, ob eine Injektion für Euch infrage kommt, damit Ihr schneller wieder in den Normbereich kommt.
 
 **Tipp:** Mehr über Vitamin-B12 erfahrt Ihr in meinem [Artikel](/2014/08/vitamin-b12-mythos-und-wahrheit/) zum Thema.
 

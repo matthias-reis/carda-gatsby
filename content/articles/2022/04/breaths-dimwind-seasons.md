@@ -44,7 +44,7 @@ Kurz erwähnt habe ich "Seasons" bereits in der [Musikliste für den Mai](/2022/
 
 > "Ich habe tatsächlich das erste Mal auf Deinem Blog etwas über Dimwind gelesen, als Du ihr Debüt reviewt hast. Das war ungefähr zu der Zeit, als Du auch meine erste Platte vorgestellt hast. Ich habe sie einfach über Instagram angeschrieben und ihr Material an Trepanation Recordings geschickt, die mein Album veröffentlicht hatten – der Rest ist Geschichte. Für uns hat es sich einfach natürlich angefühlt, diese Split-EP zusammen zu machen. Wir alle beschäftigen uns stark mit der Klimakatastrophe und unsere musikalischen Stile haben viele Gemeinsamkeiten. Wir teilen unsere Liebe zu dieser Musik und sie verbindet uns."
 
-So kam es dazu, dass ein amerikanisches Blackgaze Projekt und eine Post-Metal Band aus Schweden gemeinsam eine epische EP aufnahmen – "Seasons" war geboren. Mit dem Release wollen uns die Künstler⋆innen daran erinnern, in den Wirren von Kriegen und Pandemie die größte Bedrohung für die Menschheit und den kompletten Planeten nicht aus den Augen zu verlieren – die Klimakatastrophe.
+So kam es dazu, dass ein amerikanisches Blackgaze Projekt und eine Post-Metal Band aus Schweden gemeinsam eine epische EP aufnahmen – "Seasons" war geboren. Mit dem Release wollen uns die Künstler\*innen daran erinnern, in den Wirren von Kriegen und Pandemie die größte Bedrohung für die Menschheit und den kompletten Planeten nicht aus den Augen zu verlieren – die Klimakatastrophe.
 
 ## Die größte Bedrohung der Menschheit
 

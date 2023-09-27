@@ -79,7 +79,7 @@ Damit das Leder im Kleiderschrank und auf den Sitzen von Nobelkarossen nicht ver
 
 Weil die Lederproduktion hoch gesundheitsschädlich ist, haben die großen Industrieländer sie in Länder der Dritten Welt ausgelagert. Man scheißt eben nicht, wo man isst. So ist das mit den reichen Menschen. Feine Lederschuhe möchte man natürlich haben. Dabei zuzuschauen, wie das Material dafür hergestellt wird, erspart man sich lieber.
 
-Eine aktuelle Recherche der Tierrechtsorganisation PETA beförderte auch in Bezug auf die faire Behandlung der Mitarbeiter⋆innen Unmenschliches zutage. Die Aktivist⋆innen besuchten beispielsweise Standorte der wachsenden Lederindustrie in Dhaka, Bangladesch. Im armen Wohnviertel Hazaribagh arbeiten rund 15.000 Menschen in über 200 Gerbereien. Viele davon sind Kinder.
+Eine aktuelle Recherche der Tierrechtsorganisation PETA beförderte auch in Bezug auf die faire Behandlung der Mitarbeiter\*innen Unmenschliches zutage. Die Aktivist⋆innen besuchten beispielsweise Standorte der wachsenden Lederindustrie in Dhaka, Bangladesch. Im armen Wohnviertel Hazaribagh arbeiten rund 15.000 Menschen in über 200 Gerbereien. Viele davon sind Kinder.
 
 ## Grausame Arbeitsbedingungen in der Lederproduktion
 

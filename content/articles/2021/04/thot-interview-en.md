@@ -70,7 +70,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Grégoire:** It originally comes after the name of a character from an old french cartoon that I used to watch on TV as a kid. It was called "Spartakus and the Sun Beneath the Sea" ("Les Mondes Engloutis" in french), and episode number four features a creature called THOT. I have always remembered him since then. Obviously, I'm feeling close to the Egyptian god too.
 
-**Anne:** How are you dealing with this f\*\*⋆⋆⋆⋆ COVID crisis? Are you distracting yourselves by writing new songs?
+**Anne:** How are you dealing with this f\*\*\*⋆⋆⋆ COVID crisis? Are you distracting yourselves by writing new songs?
 
 **Grégoire:** I took the opportunity to re-think what I wanted for the project in the coming years while writing a new album. Simultaneously, I seriously started learning piano again, wrote lyrics in French and bought/sold lots of effects pedals. Besides starting a new job as well.
 

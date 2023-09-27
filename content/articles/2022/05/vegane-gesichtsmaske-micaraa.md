@@ -59,6 +59,6 @@ Die Hauptinhaltsstoffe der Maske sind gelbe Tonerde (die sorgt für den fröhlic
 
 Kaufen könnt Ihr die Maske ab heute (30. Mai) [im MICARAA Onlineshop](https://tidd.ly/38Su2n0). Sie ist mit und ohne Pinsel erhältlich. Natürlich könnt Ihr den [Pinsel auch einzeln kaufen](https://tidd.ly/3wZU14Q). Wenn Ihr meinen persönlichen Blog-Gutscheincode\* verwendet, erhaltet Ihr dort 10 Prozent Rabatt auf Euren Einkauf.
 
-⋆Mein MICARAA Influencer-Gutschein lautet: **anne10**. Damit erhaltet Ihr 10 Prozent Rabatt auf Euren Einkauf bei MICARAA.
+\*Mein MICARAA Influencer-Gutschein lautet: **anne10**. Damit erhaltet Ihr 10 Prozent Rabatt auf Euren Einkauf bei MICARAA.
 
 <Gallery name="micaraa-maske-vegan-2" />

@@ -112,7 +112,7 @@ In der Geschichte hassen alle den Zwerg, was dazu führt, dass er voller Hass is
 
 Man könnte sagen, "Chambers" ist wie eine lange Reise, genau wie die ewige Reise meines Volkes.
 
-Das sind meine Bilder und Erfahrungen mit unserer Musik. Ich bin sicher, dass die anderen ihre eigenen Visionen haben. Genauso, wie ich hoffe, dass unsere Hörer⋆innen ihre eigenen Bilder und Welten erschaffen werden.
+Das sind meine Bilder und Erfahrungen mit unserer Musik. Ich bin sicher, dass die anderen ihre eigenen Visionen haben. Genauso, wie ich hoffe, dass unsere Hörer\*innen ihre eigenen Bilder und Welten erschaffen werden.
 
 **Anne:** Für "We Salute You, You and You!" habt Ihr wieder mit dem großartigen Magnus Lindberg gearbeitet. Ist er ein Freund von Euch?
 

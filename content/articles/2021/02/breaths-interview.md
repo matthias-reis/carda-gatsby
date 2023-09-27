@@ -144,7 +144,7 @@ Ein paar Wochen später habe ich mir dann auf ihre Empfehlung hin "[Earthlings](
 
 **Anne:** Nur ungefähr zwei Prozent der Menschen leben vegan. Sollte es nicht mehr von uns geben?
 
-**Jason:** Ich finde, es sollte ganz natürlich sein, dass wir als Menschen Tieren kein Leid antun wollen. Das Problem ist aber, dass wir durch unsere Kulturen, Traditionen und allgemeinen gesellschaftliche Normen gelernt haben, dass es okay und normal ist, Tiere zu essen. Dass das nicht stimmt, müssen wir erst lernen. Wir Veganer⋆innen haben diese Programmierung verlernt.
+**Jason:** Ich finde, es sollte ganz natürlich sein, dass wir als Menschen Tieren kein Leid antun wollen. Das Problem ist aber, dass wir durch unsere Kulturen, Traditionen und allgemeinen gesellschaftliche Normen gelernt haben, dass es okay und normal ist, Tiere zu essen. Dass das nicht stimmt, müssen wir erst lernen. Wir Veganer\*innen haben diese Programmierung verlernt.
 
 **Anne:** Blackgaze, Shoegaze und Post-Rock: Verdammt großartig und nur wenige Menschen interessieren sich dafür. Ich denke, ich kann eine kleine Ähnlichkeit erkennen. Ist diese Musik der Sound des Veganismus?
 

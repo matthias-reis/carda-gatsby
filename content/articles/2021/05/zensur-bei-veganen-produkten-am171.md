@@ -50,7 +50,7 @@ Insgesamt spielt die Entscheidung den wissenschaftlichen Konsens wider. Er wurde
 
 Jasmijn de Boo, Vize President bei ProVeg International äußerte sich dazu so:
 
-> "Es ist ein Sieg der Logik. Die Bürger, die Industrie und die Expert⋆innen haben gesprochen und die EU hat zugehört. Es wäre absurd, pflanzliche Produkte zu zensieren und gleichzeitig die Verbraucher⋆innen dazu aufzufordern, auf pflanzliche Ernährung umzusteigen. Man muss sich nur mal vorstellen, sie würden Elektroautos oder Recyclingpapier zensieren. Wir applaudieren der EU für ihre Weitsichtigkeit unter dem immensen Druck."
+> "Es ist ein Sieg der Logik. Die Bürger, die Industrie und die Expert\*innen haben gesprochen und die EU hat zugehört. Es wäre absurd, pflanzliche Produkte zu zensieren und gleichzeitig die Verbraucher⋆innen dazu aufzufordern, auf pflanzliche Ernährung umzusteigen. Man muss sich nur mal vorstellen, sie würden Elektroautos oder Recyclingpapier zensieren. Wir applaudieren der EU für ihre Weitsichtigkeit unter dem immensen Druck."
 
 ## AM171 stand im Widerspruch zu den europäischen Nachhaltigkeitszielen
 

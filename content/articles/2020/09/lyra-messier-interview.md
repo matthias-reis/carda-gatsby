@@ -68,7 +68,7 @@ Ich denke, man könnte die Musik, die ich höre, als meine Hauptinspiration betr
 
 **Lyra:** Ich habe mich zwei Jahre lang damit beschäftigt. Es hat vor allem so lange gedauert, weil ich so gerne prokrastiniere. Einige der Songs kommen mir schon richtig alt vor. "Collision” und "Apollo” gab es zum Beispiel in ähnlicher Form schon 2015. Zu 80 Prozent war das Album schon über ein Jahr vor der Veröffentlichung fertig. Ich konnte mich einfach nicht dazu aufraffen, die Projekt-Dateien zu öffnen und ihnen das letzte Finish zu verpassen. Der Lockdown war für mich die perfekte Möglichkeit, mich endlich darum zu kümmern.
 
-**Anne:** Deine Musik klingt sehr durchdacht und klangvoll. Energiegeladene Parts lösen sich mit nachdenklichen Klangbädern ab. Mir gefällt das sehr gut! Wie läuft das bei Dir ab: Hast Du vorher immer einen Plan und baust Deine Songs wie ein\*e Programmierer⋆in auf oder ist es mehr eine Art Jammen? Was passiert, wenn Du mit dem Schreiben eines Songs anfängst?
+**Anne:** Deine Musik klingt sehr durchdacht und klangvoll. Energiegeladene Parts lösen sich mit nachdenklichen Klangbädern ab. Mir gefällt das sehr gut! Wie läuft das bei Dir ab: Hast Du vorher immer einen Plan und baust Deine Songs wie ein\*e Programmierer\*in auf oder ist es mehr eine Art Jammen? Was passiert, wenn Du mit dem Schreiben eines Songs anfängst?
 
 ## "Ich liebe den Flow"
 

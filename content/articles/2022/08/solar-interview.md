@@ -43,7 +43,7 @@ Aber, das Wichtigste zuerst! "Atlas" wird am 9. September auf allen Streaming-Pl
 
 ## "Wir wollen Gefühle hervorrufen"
 
-**Aron:** Hi Anne, danke für die Einladung! Wir freuen uns darauf, "Atlas" endlich zu veröffentlichen und sind sehr zufrieden mit dem Gesamtwerk. Wenn wir über unsere Musik reden, sagen wir oft, dass wir unsere Zuhörer\*innen mit auf eine Reise nehmen und starke Gefühle hervorrufen möchten. Das haben wir im Studio versucht, einzufangen. Als Musiker\*innen sind wir natürlich selbst unsere größten Kritiker⋆innen und wir haben uns diese Songs immer wieder und in den unterschiedlichsten Versionen angehört. Und was soll man sagen? Sie nehmen uns mit auf eine Reise und rufen starke Gefühle in uns hervor.
+**Aron:** Hi Anne, danke für die Einladung! Wir freuen uns darauf, "Atlas" endlich zu veröffentlichen und sind sehr zufrieden mit dem Gesamtwerk. Wenn wir über unsere Musik reden, sagen wir oft, dass wir unsere Zuhörer\*innen mit auf eine Reise nehmen und starke Gefühle hervorrufen möchten. Das haben wir im Studio versucht, einzufangen. Als Musiker\*innen sind wir natürlich selbst unsere größten Kritiker\*innen und wir haben uns diese Songs immer wieder und in den unterschiedlichsten Versionen angehört. Und was soll man sagen? Sie nehmen uns mit auf eine Reise und rufen starke Gefühle in uns hervor.
 
 **Anne:** Wie ist das Feedback zur Vorauskopplung "Nomad" bis jetzt?
 

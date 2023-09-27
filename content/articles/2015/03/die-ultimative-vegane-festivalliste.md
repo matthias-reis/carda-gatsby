@@ -140,7 +140,7 @@ Auch, was das vegane Angebot an den diversen Essenständen angeht, haben die mei
 51. Desinfektionsgel,
 52. Mandeln (nicht nur als Zwischendurch-Snack, die Dinger helfen auch gut gegen evtl. auftretenden Kater, einfach ein paar davon kauen, dann spart Ihr Euch die Aspirin, die im nächsten Punkt trotzdem auf meiner Liste landen, sicher ist sicher).
 53. Aspirin o. Ä.,
-54. Handtuch (Die Antwort ist und bleibt schließlich 42, außerdem kann man es sehr gut als Sonnenschutz, Superheld⋆innen-Umhang, Turban, zum Abtrocknen oder als Kopfkissen verwenden).
+54. Handtuch (Die Antwort ist und bleibt schließlich 42, außerdem kann man es sehr gut als Sonnenschutz, Superheld\*innen-Umhang, Turban, zum Abtrocknen oder als Kopfkissen verwenden).
 55. Kamera (Nehmt bitte nicht Eure superteure, neue SF- Ausrüstung mit, Ihr werdet es nur bereuen. Die lustigsten Festivalfotos entstehen sowieso immer mit der kleinen Klickse),
 56. Handy und Ladekabel (Fall Ihr in den Genuss einer Ladestation kommt) – Nicht wundern, am ersten Tag bricht der Handyempfang traditionell komplett zusammen, weil einfach alle versuchen, sich zu verabreden. Ich empfehle daher schon seit Jahren:
 57. Nehmt eine Uhr mit und sucht Euch schon zu Hause einen Treffpunkt auf dem Geländeplan raus. Das klingt super altmodisch, funktioniert aber in den meisten Fällen erstaunlich gut, später muss man dann (je nachdem, wie gut die Bands sind und mit wem man unterwegs ist) darauf hoffen, dass sich die Kollegen noch an den jeweils vereinbarten Treffpunkt erinnern, aber zur Not findet man sich ja spätestens am Abend vor dem Zelt wieder.

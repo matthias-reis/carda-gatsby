@@ -58,7 +58,7 @@ Der Earth Overshoot Day wird übrigens auch für die einzelnen Länder berechnet
 
 ![Earth Overshoot Day nach Ländern. Grafik/grapic: Global Footprint Network | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/country-overshoot-days-2021-jpeg-imagine-f8f8f8_dde5e9_1000_809/640.webp "Earth Overshoot Day nach Ländern. Grafik/grapic: Global Footprint Network")
 
-Im Verlauf der Jahre kann man sehr gut sehen, wie sich das Datum des Earth Overshoot Day immer weiter nach vorne verschoben hat. Die Menschheit befindet sich seit Anfang der 1970er Jahre  in einem ökologischen Defizit. Die Wissenschaftler⋆innen haben hier auch zurückgerechnet.
+Im Verlauf der Jahre kann man sehr gut sehen, wie sich das Datum des Earth Overshoot Day immer weiter nach vorne verschoben hat. Die Menschheit befindet sich seit Anfang der 1970er Jahre  in einem ökologischen Defizit. Die Wissenschaftler\*innen haben hier auch zurückgerechnet.
 
 ![Der Earth Overshoot Day im Wandel der Jahre. Grafik/grapic: Global Footprint Network | large](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-past-eod-en-sm-jpeg-imagine-f8f8f8_b5b19c_800_580/640.webp "Der Earth Overshoot Day im Wandel der Jahre. Grafik/grapic: Global Footprint Network")
 

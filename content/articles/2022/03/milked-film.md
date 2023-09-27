@@ -48,7 +48,7 @@ Auf seiner Reise beleuchtet er nicht nur die offensichtliche Nachhaltigkeitskris
 
 Produziert hat den Film Amy Taylor von Ahimsa Films. Chris Huriwai ist nicht nur der Haupt-Akteur, sondern auch ihr Co-Producer. Die beiden haben eine weltweite Petition[^1] gestartet, mit deren Hilfe nicht nur der Film mehr Zuschauer\*innen erreichen soll. Er ist ein Aufruf an führende Politiker\*innen auf der ganzen Welt.
 
-Auf der Petitionsseite schreiben die beiden Filmemacher⋆innen:
+Auf der Petitionsseite schreiben die beiden Filmemacher\*innen:
 
 > "Wir haben 'Milked' gemacht, um den wahren Preis der Milchindustrie aufzuzeigen. Wir haben eine echte Horrorgeschichte aufgedeckt, die immer weiter um sich greift."
 

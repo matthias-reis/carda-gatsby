@@ -68,7 +68,7 @@ Silvia und David wollen mit dem Bodenpaten-Projekt einen neuen Weg einschlagen. 
 
 Wenn Ihr eine Patenschaft abschließt, verpflichtet Ihr Euch immer lediglich für ein Jahr. Ob Ihr danach wieder eine eingehen möchtet, entscheidet alleine Ihr. Genauso funktioniert das bei den Baumpatenschaften auch.
 
-Wenn Ihr neugierig seid und gerne sehen möchtet, wo die Nussbäume von Hof Windkind wachsen, könnt Ihr Silvia und David in Brandenburg jederzeit einen Besuch abstatten. Ihre Anbauflächen sind frei zugänglich und auf jeden Fall einen Spaziergang wert. Wenn Ihr Bodenpat⋆innen seid, könnt Ihr außerdem zu kostenlosen Hofführungen vorbeikommen.
+Wenn Ihr neugierig seid und gerne sehen möchtet, wo die Nussbäume von Hof Windkind wachsen, könnt Ihr Silvia und David in Brandenburg jederzeit einen Besuch abstatten. Ihre Anbauflächen sind frei zugänglich und auf jeden Fall einen Spaziergang wert. Wenn Ihr Bodenpat\*innen seid, könnt Ihr außerdem zu kostenlosen Hofführungen vorbeikommen.
 
 Silvia und David sind ein sehr naturverbundenes Paar. Ihren Betrieb Öko-zertifizieren zu lassen, war den beiden von Anfang an sehr wichtig. Neben diesem Siegel trägt er auch das des Ökoverbandes "Naturland e. V.". Auf dem Hof Windkind wird auf tierischen Mist, Mineraldünger, Biodünger und andere Gifte aus Prinzip verzichtet.
 

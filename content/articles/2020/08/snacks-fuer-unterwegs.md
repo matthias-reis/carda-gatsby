@@ -21,7 +21,7 @@ status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-10__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-10__m.jpg
 seoTitle: Snacks für unterwegs - Warum Veganer*innen immer Proviant dabei haben
-description: Ist Euch schon mal aufgefallen, dass wir Veganer⋆innen eigentlich
+description: Ist Euch schon mal aufgefallen, dass wir Veganer*innen eigentlich
   fast immer was zum Knabbern auf Tasche haben? Ich verrate Euch jetzt, warum
   das so ist.
 language: de
@@ -54,7 +54,7 @@ In den letzten paar Jahren hat sich einiges getan: In nahezu jedem Provinz-Lokal
 
 Doch es war nicht immer so. Ich kann mich noch gut an die Zeit erinnern, als man ganz verwirrt angeschaut wurde, wenn man "den großen gemischten Salat" bestellt hat. "Aber ohne das Ei und den Schinken bitte. Ich esse nichts Tierisches" und dann einen großen gemischten Salat mit extra viel Joghurt-Dressing vorgesetzt bekam. Auch die Frage, in welchem Fett die Fritten zubereitet werden, führte noch vor ein paar Sommern häufig zu fragenden Blicken.
 
-Damals (übrigens auch schon seit den langen Jahren, in denen ich mich zuvor als Vegetarierin durchgeschlagen habe) habe ich mir, genau wie viele andere Veganer⋆innen angewöhnt, immer etwas dabei zu haben, das ich im Notfall essen kann.
+Damals (übrigens auch schon seit den langen Jahren, in denen ich mich zuvor als Vegetarierin durchgeschlagen habe) habe ich mir, genau wie viele andere Veganer\*innen angewöhnt, immer etwas dabei zu haben, das ich im Notfall essen kann.
 
 Ich kann mich noch gut an eine zweitägige Überfahrt mit einer Fähre vor einigen Jahren erinnern. Matze und ich hatten nur sehr wenig Proviant dabei, weil wir uns darauf verlassen hatten, dass wir schon "zumindest ein paar Brötchen oder Pommes" finden würden. Weit gefehlt. Die beiden Tage auf dem Schiff haben wir uns von zwei Äpfeln, zwei Bananen, zwei Power-Riegeln, einer Tüte Erdnüssen und ziemlich vielen Softdrinks ernährt. Als die Fähre anlegte, machten wir uns erstmal wie zwei Geier im Sturzflug auf die Suche nach Essen. Alles andere konnte warten.
 

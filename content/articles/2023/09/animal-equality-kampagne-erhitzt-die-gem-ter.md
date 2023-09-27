@@ -35,7 +35,7 @@ Der Beginn der Kampagne von Animal Equality USA geht bis zum Anfang dieses Jahre
 
 In den USA fanden umfangreiche Proteste dazu statt. Zahlreiche Demonstrierende forderten die Kette dazu auf, ihr Handeln zu überdenken und unterstützten die Kampagne. Im Laufe der Aktionen informierten sich immer mehr Menschen genauer und begannen, die Denny's Lokale zu boykottieren. Die veraltete Tierschutzpolitik der Kette kam für sie nicht infrage.
 
-Während der Aktionen stellte die Aktivist\*innen von Animal Equality vor Ort pflanzliche Alternativen für Schweinefleischprodukte wie den in Amerika so beliebten Speck (Bacon) vor und erntete damit großen Beifall.
+Während der Aktionen stellte die Aktivist⋆innen von Animal Equality vor Ort pflanzliche Alternativen für Schweinefleischprodukte wie den in Amerika so beliebten Speck (Bacon) vor und erntete damit großen Beifall.
 
 Unterdessen weigerte sich Denny's weiterhin strickt, den Tieren zumindest etwas Respekt entgegenzubringen. Die Kette kündigte sogar an, seinen treuesten Kund⋆innen ab sofort kostenlosen Speck zu servieren.
 

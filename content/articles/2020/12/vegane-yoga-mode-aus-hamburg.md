@@ -75,7 +75,7 @@ Die Wahl-Hamburgerin hat bereits für verschiedene deutsche Design-Labels gearbe
 
 Die gängigen Ideale aus dem Fashion-Zirkus ließen sie immer mehr kalt. Im Jahr 2017 entschied sie sich schließlich dazu, sich selbstständig zu machen. Ihre beste Freundin, die Yoga-Lehrerin Diana bestärkte sie in ihrer Entscheidung.
 
-Die beiden waren sich schon immer einig, dass es zwar immer mehr neue Sportbekleidung, auch speziell fürs Yoga gab, sich die Menschen in der Praxis jedoch in diesen Outfits unwohl fühlen. Kneifende oder rutschende Klamotten kann man beim Yoga einfach nicht gebrauchen. Außerdem können sie die Unsicherheit ungeübter Yogi⋆nis noch verstärken.
+Die beiden waren sich schon immer einig, dass es zwar immer mehr neue Sportbekleidung, auch speziell fürs Yoga gab, sich die Menschen in der Praxis jedoch in diesen Outfits unwohl fühlen. Kneifende oder rutschende Klamotten kann man beim Yoga einfach nicht gebrauchen. Außerdem können sie die Unsicherheit ungeübter Yogi\*nis noch verstärken.
 
 > "Es gab einfach keine guten Lösungen für unterschiedliche Körpertypen. Das wollte ich unbedingt ändern",
 

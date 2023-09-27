@@ -69,7 +69,7 @@ Natürlich wurde das Klimaquartett auch nachhaltig produziert. Bei der Herstellu
 
 Mit dem Kauf eines Klimaquartetts unterstützt Ihr ausgewählte Klimaprojekte. Welchen Schwerpunkt Ihr dabei gerne fördern möchtet, entscheidet Ihr selbst.
 
-Das Klimaquartett wird für Spieler⋆innen zwischen neun und 99 Jahren empfohlen. Es wurde mit dem Silberstreifen Award 2020 ausgezeichnet. Das Projekt wird auch im Jahr 2021 von der Kreativ Gesellschaft Hamburg und der Behörde und für Kultur und Medien der Freien Hansestadt Hamburg gefördert. An September ist ein Crowdfunding-Projekt für das Klimaquartett geplant.
+Das Klimaquartett wird für Spieler\*innen zwischen neun und 99 Jahren empfohlen. Es wurde mit dem Silberstreifen Award 2020 ausgezeichnet. Das Projekt wird auch im Jahr 2021 von der Kreativ Gesellschaft Hamburg und der Behörde und für Kultur und Medien der Freien Hansestadt Hamburg gefördert. An September ist ein Crowdfunding-Projekt für das Klimaquartett geplant.
 
 ## "Wir wollen zeigen, wie man selbst aktiv sein kann"
 

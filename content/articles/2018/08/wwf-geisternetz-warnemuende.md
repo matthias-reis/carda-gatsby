@@ -53,7 +53,7 @@ sagt sie. Sie fordert, dass Markierungsbojen entwickelt werden, die das Auffinde
 
 ## Die Meeresschützer\*innen sind auf Hinweise angewiesen
 
-Das Netz von Warnemünde konnte aufgrund eines Tipps von einem Mitarbeiter der Uni Rostock geortet und entfernt werden. Er hatte es beim Schnorcheln im Meer entdeckt und die Stelle sofort gemeldet. Die Meeresschützer⋆innen von WWF, Sea Shepherd und Co. sind auf derartige Hinweise angewiesen. Je genauer, desto besser.
+Das Netz von Warnemünde konnte aufgrund eines Tipps von einem Mitarbeiter der Uni Rostock geortet und entfernt werden. Er hatte es beim Schnorcheln im Meer entdeckt und die Stelle sofort gemeldet. Die Meeresschützer\*innen von WWF, Sea Shepherd und Co. sind auf derartige Hinweise angewiesen. Je genauer, desto besser.
 
 >  "Es ist schwierig, ein verlorenes Netz aufzuspüren", meint auch Andrea Stolte. "Wir sind dankbar für jeden Hinweis dieser Art."
 

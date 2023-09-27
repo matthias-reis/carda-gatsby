@@ -56,7 +56,7 @@ Mithilfe von Storytelling etwas in der Welt bewegen: Eine geniale Idee, eigentli
 
 Alle Inhalten auf der digitalen Plattform beschäftigen sich mit der Zukunft unseres Planeten. Die Filme drehen sich um Klimaschutz, Artenvielfalt, Artenerhalt, Nachhaltigkeit, Tierrechte, Vielfalt und Solidarität. Mit dabei sind preisgekrönte und inspirierende Werke, die zum Mitmachen aufrufen.
 
-Das Streaming-Gefühl ist bei WaterBear ganz anders. Man liegt nicht auf dem Sofa, starrt auf den Bildschirm und die Zeit verstreicht sinnlos. Man hat beim Schauen das Gefühl, etwas zu tun. Was ja auch kein Wunder ist: Man bildet sich weiter, erhält tiefe Einblicke in die Arbeit von Aktivist\*innen und Wissenschaftler⋆innen und wird ganz nebenbei auch noch unterhalten.
+Das Streaming-Gefühl ist bei WaterBear ganz anders. Man liegt nicht auf dem Sofa, starrt auf den Bildschirm und die Zeit verstreicht sinnlos. Man hat beim Schauen das Gefühl, etwas zu tun. Was ja auch kein Wunder ist: Man bildet sich weiter, erhält tiefe Einblicke in die Arbeit von Aktivist\*innen und Wissenschaftler\*innen und wird ganz nebenbei auch noch unterhalten.
 
 ## Vorort-Berichterstattungen und Reportagen
 

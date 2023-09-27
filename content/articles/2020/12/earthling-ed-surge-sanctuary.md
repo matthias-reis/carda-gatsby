@@ -42,7 +42,7 @@ Ed gab vor Kurzem bekannt, dass er für sein Vorhaben, einen Lebenshof zu gründ
 
 In einem Video bedankt er sich bei all seinen Unterstützer\*innen, dass sie dabei geholfen haben, dieses Projekt möglich zu machen.
 
-Der Hof liegt in den britischen Midlands. Das Schaf Eric, die beiden Schweine Pete und Gus, die Truthähne Harold und Fredrick sowie die Hühner Camila und Chloe leben bereits im Surge Sanctuary. Schon bald sollen viele weitere tierische Bewohner⋆innen dazukommen. Sie alle sollen genau wie die Eric, Pete, Gus, Harold, Fredrick, Camila und Chloe aus Schlachthöfen und Farmen im ganzen Vereinigten Königreich gerettet werden.
+Der Hof liegt in den britischen Midlands. Das Schaf Eric, die beiden Schweine Pete und Gus, die Truthähne Harold und Fredrick sowie die Hühner Camila und Chloe leben bereits im Surge Sanctuary. Schon bald sollen viele weitere tierische Bewohner\*innen dazukommen. Sie alle sollen genau wie die Eric, Pete, Gus, Harold, Fredrick, Camila und Chloe aus Schlachthöfen und Farmen im ganzen Vereinigten Königreich gerettet werden.
 
 ## Ein Zufluchtsort für Tiere
 

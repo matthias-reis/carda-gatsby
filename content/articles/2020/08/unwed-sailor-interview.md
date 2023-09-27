@@ -98,7 +98,7 @@ Es gibt ein paar Punk und Dance Elemente, die ihren Weg auf "Look Alive" gefunde
 
 **Jonathon:** New Order haben meine Art Songs zu schreiben beeinflusst. Peter Hook, der Bassist von New Order hat mein Bassspiel beeinflusst. Allgemein hat mich die Musik der 1980er Jahre beeinflusst. Alles von Peter Cetera bis zu The Smiths und White Lion. Und ja: The Cure zählt auch dazu (lächelt).
 
-**Anne:** Du warst schon mit Künstler⋆innen wie Sufjan Stevens, Minus The Bear, und Battles auf Tour und hast unter anderem mit Dan Burton von den Early Day Miners, Matt Johnson zusammengearbeitet. Das sind eine ganze Menge Genres. Deine Musik ist auch sehr vielschichtig. Es ist schlichtweg nicht möglich, sie in eine Schublade zu packen. Was sehr gut ist. Gibt es ein Genre, mit dem Du Dich besonders verbunden fühlst?
+**Anne:** Du warst schon mit Künstler\*innen wie Sufjan Stevens, Minus The Bear, und Battles auf Tour und hast unter anderem mit Dan Burton von den Early Day Miners, Matt Johnson zusammengearbeitet. Das sind eine ganze Menge Genres. Deine Musik ist auch sehr vielschichtig. Es ist schlichtweg nicht möglich, sie in eine Schublade zu packen. Was sehr gut ist. Gibt es ein Genre, mit dem Du Dich besonders verbunden fühlst?
 
 ## "Ich mag alle Musikgenres"
 

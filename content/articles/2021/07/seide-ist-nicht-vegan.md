@@ -70,7 +70,7 @@ Der Gedanke, lebendig gekocht oder eingefroren zu werden ist schrecklich. Dennoc
 
 Es stimmt zwar, dass Seidenraupen ein anderes Nervensystem besitzen, als [Menschen, Schweine oder Affen](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/). Das bedeutet jedoch nicht, dass sie keine Schmerzen fühlen können.
 
-Darüber, ob wirbellose Tiere wie Motten dazu in der Lage sind, Dinge wie wir zu empfinden, kann man diskutieren. Allerdings kann auch niemand sicher sagen, dass es nicht so ist. Zahlreiche Wissenschaftler⋆innen sind sich heute darüber einig, dass es möglich ist, dass Insekten die Fähigkeit besitzen, zumindest etwas Ähnliches wie Schmerz bei Säugetieren zu fühlen.
+Darüber, ob wirbellose Tiere wie Motten dazu in der Lage sind, Dinge wie wir zu empfinden, kann man diskutieren. Allerdings kann auch niemand sicher sagen, dass es nicht so ist. Zahlreiche Wissenschaftler\*innen sind sich heute darüber einig, dass es möglich ist, dass Insekten die Fähigkeit besitzen, zumindest etwas Ähnliches wie Schmerz bei Säugetieren zu fühlen.
 
 Studien zum Schmerzempfinden von Seidenraupen scheint es noch keine zu geben. Allerdings geht aus einer in der Zeitschrift Science Advances veröffentlichten Studie hervor, dass zum Beispiel Fruchtfliegen chronische und lang anhaltende Schmerzen empfinden können.
 

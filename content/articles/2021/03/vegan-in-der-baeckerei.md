@@ -29,7 +29,7 @@ subTitle: Albert Schweitzer Stiftung gibt Leitfaden heraus
 
 **Vegan in der Bäckerei – was im erstem Moment einfach klingt, kann manchmal ganz schön kompliziert sein. Die meisten Veganer\*innen kennen das. Um uns den Brotkauf in Zukunft zu erleichtern, hat die Albert Schweitzer Stiftung jetzt einen praktischen Leitfaden für Bäcker\*innen herausgegeben.**
 
-Erlebt Ihr das auch immer wieder? Ihr kommt in eine Bäckerei, in der Ihr sonst nicht einkauft und alles ist anders. Nach der Liste mit den Allergenen müsst Ihr erst fragen und es stellt sich heraus, dass sie unauffindbar ist. Die Waren in den Regalen sind nicht als vegan oder nicht vegan gekennzeichnet. Im besten Fall hilft jetzt eine kurze Anfrage bei einem⋆r der Verkäufer⋆innen. Findet man hier keine Hilfe, kann eine kurze Google-Suche Abhilfe schaffen. Doch leider haben viele Bäckereien auch online keine Zutatenlisten.
+Erlebt Ihr das auch immer wieder? Ihr kommt in eine Bäckerei, in der Ihr sonst nicht einkauft und alles ist anders. Nach der Liste mit den Allergenen müsst Ihr erst fragen und es stellt sich heraus, dass sie unauffindbar ist. Die Waren in den Regalen sind nicht als vegan oder nicht vegan gekennzeichnet. Im besten Fall hilft jetzt eine kurze Anfrage bei einem\*r der Verkäufer⋆innen. Findet man hier keine Hilfe, kann eine kurze Google-Suche Abhilfe schaffen. Doch leider haben viele Bäckereien auch online keine Zutatenlisten.
 
 ## Vegan in der Bäckerei soll einfacher werden
 

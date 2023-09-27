@@ -70,7 +70,7 @@ Auf seiner Webseite schreibt Moby:
 
 Die neuen Stücke verbinden seine musikalische Vergangenheit und Zukunft und unsere Erinnerungen mit dem, was uns ab heute erwartet. "Resound NY" ist ein großartiges Stück Musik, das in Eurer Plattensammlung nicht fehlen sollte – ganz gleich, wie viel Ihr Euch bisher mit Moby und seiner Musik beschäftigt habt und wie viele Erinnerungen ihr mit seinen Songs verbindet. Das liegt sicher vor allem daran, wie viel Liebe der Künstler in jedes Detail gesteckt hat:
 
-> "Ein Orchester kann alles sein – was immer der⋆die Komponist⋆in sich wünscht. Anstatt jedem Song dieselbe orchestrale Behandlung zu verpassen, habe ich gewissermaßen für jeden Song einen maßgeschneiderten Ansatz entwickelt."
+> "Ein Orchester kann alles sein – was immer der\*die Komponist⋆in sich wünscht. Anstatt jedem Song dieselbe orchestrale Behandlung zu verpassen, habe ich gewissermaßen für jeden Song einen maßgeschneiderten Ansatz entwickelt."
 
 Moby hat es geschafft, Nostalgie mit Neugierde auf die Zukunft zu verbinden und damit ein einzigartiges Bild zu erschaffen. Den Punk der 1980er und die Techno-Szene der 1990er und frühen 2000er-Jahre in die heutige Zeit voll Innovationen, Ideen und dem Blick in eine unsichere Zukunft. Besser als Moby selbst kann man es sicher nicht formulieren:
 

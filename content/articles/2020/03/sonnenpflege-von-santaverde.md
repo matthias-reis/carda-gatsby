@@ -57,7 +57,7 @@ Ich mag den Duft aller drei Produkte sehr gerne. Er ist angenehm leicht und somm
 ## Inhaltsstoffe - Das steckt in der After Sun Recovery Lotion von Santaverde
 
 <small>
-  Aloe Vera Saft\*, Kokosöl\*, Weingeist⋆, pflanzl. Lipidkomponente, Mandelöl⋆,
+  Aloe Vera Saft\*, Kokosöl\*, Weingeist\*, pflanzl. Lipidkomponente, Mandelöl⋆,
   pflanzl. Betain, Sheabutter⋆, pflanzl. Glycerinfettsäureester,
   Karottenextrakt⋆,Sanddornextrakt⋆, Lavendelblütenextrakt⋆, Mädesüßextrakt⋆,
   Rosmarinblätterextrakt⋆, Jojobaöl⋆, Vitamin E, Lavendelöl⋆, Sonnenblumenöl⋆,

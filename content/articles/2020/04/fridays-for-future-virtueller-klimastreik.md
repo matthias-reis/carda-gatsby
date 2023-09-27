@@ -35,7 +35,7 @@ Aus diesem Grund findet unter dem bekannten Motto am Freitag, den 24. April 202
 
 ## Fridays For Future live online
 
-Die Veranstalter⋆innen rufen die Teilnehmer⋆innen dazu auf, ein Demoschild vorzubereiten und es am Balkon oder am Fenster anzubringen, damit möglichst viele dabei sind, wenn es heißt: [Fridays For Future](/2019/09/allefuersklima-hamburg/) goes Livestream. Auf einer Klimastreikkarte kann man sich vorab zur Demo anmelden und seine Solidarität zeigen[^1].
+Die Veranstalter\*innen rufen die Teilnehmer⋆innen dazu auf, ein Demoschild vorzubereiten und es am Balkon oder am Fenster anzubringen, damit möglichst viele dabei sind, wenn es heißt: [Fridays For Future](/2019/09/allefuersklima-hamburg/) goes Livestream. Auf einer Klimastreikkarte kann man sich vorab zur Demo anmelden und seine Solidarität zeigen[^1].
 
 Politiker⋆innen können ab sofort nicht mehr in ihren Reden erzählen, die Corona-Krise sei doch eine willkommene Ausrede für die Bewegung. Auch in schwierigen Zeiten wird weiter mobil gemacht und für den Klimaschutz gekämpft.
 

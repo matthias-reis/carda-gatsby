@@ -35,7 +35,7 @@ Weltweit hatten Virologi\*innen davor gewarnt, nun gibt es tatsächlich einen Fa
 
 Der Erkrankte soll inzwischen stabil sein und kurz vor seiner Entlassung stehen. Er war vor ein paar Tagen mit Symptomen wie hohem Fieber in eine Klinik gekommen.
 
-Pekings nationale Gesundheitskommission (NHC) stuft den H10N3-Stamm der Vogelgrippe als "gering pathogen" ein. Das bedeutet, dass es "unwahrscheinlich ist, dass er einen großflächigen Ausbruch verursacht". Dennoch halten zahlreiche Virolog⋆innen eine Grippepandemie für "unvermeidlich". Es wäre möglich, dass Stämme der Vogelgrippe mutieren und dadurch leichter übertragbar werden.
+Pekings nationale Gesundheitskommission (NHC) stuft den H10N3-Stamm der Vogelgrippe als "gering pathogen" ein. Das bedeutet, dass es "unwahrscheinlich ist, dass er einen großflächigen Ausbruch verursacht". Dennoch halten zahlreiche Virolog\*innen eine Grippepandemie für "unvermeidlich". Es wäre möglich, dass Stämme der Vogelgrippe mutieren und dadurch leichter übertragbar werden.
 
 ## Mensch-zu-Mensch-Übertragung
 

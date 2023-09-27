@@ -50,7 +50,7 @@ Der britische Tierrechtsaktivist, Dozent und Filmemacher Earthling Ed erlangte m
 
 Der Vortrag findet heute Abend zwischen 18 und 19 Uhr statt. Wer Interesse hat, [kann sich hier anmelden](https://www.eventbrite.com/e/why-should-we-care-about-animals-a-harvard-talk-by-earthling-ed-tickets-125543091767).
 
-Wer wissen möchte, welche Fragen Earthling Ed mir beantwortet hat und warum es OK ist, ein⋆e wütend⋆e Veganer⋆in zu sein, [klickt am besten hier](/2019/11/earthling-ed-zu-gast-in-hamburg/).
+Wer wissen möchte, welche Fragen Earthling Ed mir beantwortet hat und warum es OK ist, ein\*e wütend⋆e Veganer⋆in zu sein, [klickt am besten hier](/2019/11/earthling-ed-zu-gast-in-hamburg/).
 
 ## Earthling Ed – "It's Time To Change Your Life"
 

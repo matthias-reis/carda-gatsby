@@ -129,7 +129,7 @@ Your first album (After your mysterious teaser single "Forgetting How To Speak" 
 
 **Alex:**  It’s totally like he’s in the band! He’s great at getting these really natural feeling sounds for everything, and always has awesome suggestions for guitar tones. I can say with confidence that our recordings would sound quite different without James’ input.
 
-**Anne:**  An editor from Everything Is Noise said that it rarely occurs, that an album transposes him\*her into a certain atmosphere, irrespective of the state of mind he\*she had when he⋆she started listening to your album. David Zeidler from Young Epoch said you are traveling within a world of delicate textures, contemplative nuance, and passionate outpour. I think this exactly puts it into words, how I feel about "Help Me To Recollect". Where do you get all the creativity and inspiration from, to create music like this?
+**Anne:**  An editor from Everything Is Noise said that it rarely occurs, that an album transposes him\*her into a certain atmosphere, irrespective of the state of mind he\*she had when he\*she started listening to your album. David Zeidler from Young Epoch said you are traveling within a world of delicate textures, contemplative nuance, and passionate outpour. I think this exactly puts it into words, how I feel about "Help Me To Recollect". Where do you get all the creativity and inspiration from, to create music like this?
 
 ## "It means a lot to us when people find kind words for our music"
 

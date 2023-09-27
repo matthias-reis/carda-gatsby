@@ -76,7 +76,7 @@ schreiben sie auf ihrer Webseite.
 
 Das DIQP-Siegel garantiert mit strengen Vorgaben, insbesondere im Bereich des CO₂-Ausstoßes, dass Naturtreu klimaneutral handelt. Im Fokus steht dabei derzeit vor allem das Aufforstungsprojekt "Kikonda Forrest" in Uganda, welches vom Unternehmen finanziell unterstützt wird.
 
-Die Produkte stellt Naturtreu auf der Basis wissenschaftlicher Erkenntnisse in enger Zusammenarbeit mit Ärzten⋆innen in Deutschland her. Alle Präparate enthalten lediglich notwendige Inhaltsstoffe.
+Die Produkte stellt Naturtreu auf der Basis wissenschaftlicher Erkenntnisse in enger Zusammenarbeit mit Ärzten\*innen in Deutschland her. Alle Präparate enthalten lediglich notwendige Inhaltsstoffe.
 
 <Gallery name="naturtreu-vitamine-2" />
 

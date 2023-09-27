@@ -87,7 +87,7 @@ Stark finde ich auch die Liste der veganen Festivals. Einige davon waren mir tat
 
 ## Gute Planung ist alles
 
-Wer gerne reist, weiß, wie wichtig gute Planung ist. Der Lonely Planet für Veganer⋆innen bietet dafür praktische Listen und Erfahrungsberichte. Besonders die Hinweise zum Thema "Worauf sollte ich meine Prioritäten beim Reisebudget setzen" gefallen mir sehr gut.
+Wer gerne reist, weiß, wie wichtig gute Planung ist. Der Lonely Planet für Veganer\*innen bietet dafür praktische Listen und Erfahrungsberichte. Besonders die Hinweise zum Thema "Worauf sollte ich meine Prioritäten beim Reisebudget setzen" gefallen mir sehr gut.
 
 ## Inspiration
 

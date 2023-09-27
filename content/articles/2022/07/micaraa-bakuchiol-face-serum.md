@@ -78,4 +78,4 @@ Das [Bakuchiol Face Serum](https://tidd.ly/3bcdlnL) wurde, wie alle Produkte von
 
 Wenn Ihr direkt bei MICARAA bestellt, habt Ihr eine 30-tägige Geld-zurück-Garantie. Mit meinem Rabatt-Code\* erhaltet Ihr im Onlineshop 10 Prozent Rabatt auf Eure Bestellung.
 
-⋆Wenn Ihr neugierig geworden seid und die [MICARAA Produkte](https://tidd.ly/3bcl01z) auch mal testen wollt, bekommt Ihr mit meinem persönlichen Gutschein **zehn Prozent Rabatt**. Gebt dafür bei Eurer Bestellung einfach den Gutscheincode **anne10** ein.
+\*Wenn Ihr neugierig geworden seid und die [MICARAA Produkte](https://tidd.ly/3bcl01z) auch mal testen wollt, bekommt Ihr mit meinem persönlichen Gutschein **zehn Prozent Rabatt**. Gebt dafür bei Eurer Bestellung einfach den Gutscheincode **anne10** ein.

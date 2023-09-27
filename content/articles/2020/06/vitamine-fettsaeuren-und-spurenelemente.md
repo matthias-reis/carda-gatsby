@@ -106,6 +106,6 @@ Die Hyluronsäure Kapseln und Tabletten von Steiger Naturals sind, wie alles von
 
 Alle von mir erwähnten Produkte könnt Ihr über die Apotheke Eures Vertrauens oder direkt online über den [Steiger Naturals Onlineshop](https://t.adcell.com/p/click?promoId=172934&slotId=80259&param0=https%3A%2F%2Fsteiger-naturals.de%2F) beziehen.
 
-Alles über Vitamin B12 und warum es nicht nur für Veganer⋆innen wichtig ist, [erfahrt Ihr hier](/2014/08/vitamin-b12-mythos-und-wahrheit/).
+Alles über Vitamin B12 und warum es nicht nur für Veganer\*innen wichtig ist, [erfahrt Ihr hier](/2014/08/vitamin-b12-mythos-und-wahrheit/).
 
 <Gallery name="steiger-naturals-2" />

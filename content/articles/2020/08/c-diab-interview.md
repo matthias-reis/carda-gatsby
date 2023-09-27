@@ -91,7 +91,7 @@ Irgendwann löste sich die Band auf und wir alle entwickelten uns weiter. Erst v
 
 **Anne:** Glaubst Du, dass es etwas gibt, das Politiker\*innen von kreativen Menschen lernen können?
 
-**C. Diab:** Alle Menschen sind kreativ. Die meisten müssen nur aufwecken, was in ihnen schlummert. Die Ärmel hochkrempeln. Politiker⋆innen können davon profitieren, indem sie aus ihren Fehlern lernen. Aber leider sieht es so aus, als wäre das zu viel verlangt von der politischen Klasse.
+**C. Diab:** Alle Menschen sind kreativ. Die meisten müssen nur aufwecken, was in ihnen schlummert. Die Ärmel hochkrempeln. Politiker\*innen können davon profitieren, indem sie aus ihren Fehlern lernen. Aber leider sieht es so aus, als wäre das zu viel verlangt von der politischen Klasse.
 
 **Anne:** Deine Musik ist sehr kreativ. Ich mag Deine Art, Elemente aus verschiedenen Musikstilen auf Deine eigene Weise zusammenzufügen. Es ist sehr intensiv und emotional. Das Ergebnis ist eine Sammlung faszinierender Klangwelten. Was versetzt Dich in einen kreativen Zustand? Was hilft Dir dabei, fokussiert zu bleiben?
 

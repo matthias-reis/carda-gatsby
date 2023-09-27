@@ -37,7 +37,7 @@ Rund zwei Drittel der europäischen Bevölkerung (67 Prozent, um genau zu sein) 
 
 ## Ernährungsumfrage unter europäischen Konsument\*innen
 
-Bei der Broschüre handelt es sich um die Analyse einer Umfrage zum Thema nachhaltige Ernährung unter europäischen Konsument⋆innen. BEUC hatte die Umfrage gemeinsam mit 12 Partnerorganisationen in elf europäischen Ländern organisiert. Sie fand im Oktober und November des letzten Jahres statt.
+Bei der Broschüre handelt es sich um die Analyse einer Umfrage zum Thema nachhaltige Ernährung unter europäischen Konsument\*innen. BEUC hatte die Umfrage gemeinsam mit 12 Partnerorganisationen in elf europäischen Ländern organisiert. Sie fand im Oktober und November des letzten Jahres statt.
 
 Die meisten in Europa sind demnach also offen dafür, ihre Essgewohnheiten aus Nachhaltigkeitsgründen zu ändern. Außerdem wollen die Europäer⋆innen weniger Essen wegwerfen, lokal und saisonal einkaufen und mehr Gemüse essen.
 

@@ -49,7 +49,7 @@ Die Lady Freethinker Crew meldete Inhalte, die zeigten, wie Tiere absichtlich zu
 
 ## Unterstützt die Aktion jetzt
 
-Stand Februar 2021, stellten die Aktivist\*innen fest, dass noch mehr als 2.000 der gemeldeten Videos nach wie vor live sind und sogar noch 594 weitere Video hinzugefügt wurden. Darunter fand die Organisation auch wieder gefälschte und inszenierte Tierrettungen. Die Ersteller⋆innen der Clips bringen Haustiere wie Katzen und Hunde in freier Wildbahn in gefährliche Situationen, um sie dann gerade noch rechtzeitig vor Raubtieren wie Schlangen und Krokodilen in Sicherheit zu bringen.
+Stand Februar 2021, stellten die Aktivist\*innen fest, dass noch mehr als 2.000 der gemeldeten Videos nach wie vor live sind und sogar noch 594 weitere Video hinzugefügt wurden. Darunter fand die Organisation auch wieder gefälschte und inszenierte Tierrettungen. Die Ersteller\*innen der Clips bringen Haustiere wie Katzen und Hunde in freier Wildbahn in gefährliche Situationen, um sie dann gerade noch rechtzeitig vor Raubtieren wie Schlangen und Krokodilen in Sicherheit zu bringen.
 
 Im Rahmen der Aktion ruft Lady Freethinker zu einer absoluten Zero Tolerance Policy auf. Die Organisation hat zu diesem Zweck eine Petition ins Leben gerufen. Darin fordert sie Youtube dazu auf, einen Mechanismus zur schnellen und genauen Aufdeckung von Videos, die Tiermissbrauch enthalten einzusetzen. Die Plattform solle alle Clips, die gegen die strikte Politik verstoßen umgehend entfernen. Lady Freethinker bat YouTube um ein Treffen, in dem die Ergebnisse der Ermittlungsarbeit diskutiert werden soll. Bis jetzt hat Youtube auf die Anfrage noch nicht reagiert.
 

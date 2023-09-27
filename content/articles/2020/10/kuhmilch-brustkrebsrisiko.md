@@ -62,7 +62,7 @@ Zum ersten Mal überhaupt stellt eine weitere neue Studie[^3])  jetzt auch eine
 
 Den Forscher\*innen zufolge konsumieren die meisten Menschen in westlichen Kulturen im Laufe ihres Lebens deutlich mehr Kuhmilchprodukte als Muttermilch. Das veranlasste die Wissenschaftler\*innen dazu, zu untersuchen, ob ein Rindervirus ein möglicher Auslöser für Brustkrebs sein kann.
 
-Die Forscher⋆innen kamen zu dem Schluss, dass das Vorhandensein von BLV "signifikant mit Brustkrebs assoziiert" sei. Sie fanden heraus, dass das Vorhandensein von BLV die Wahrscheinlichkeit, an Brustkrebs zu erkranken, um das 3,1-fache erhöht.
+Die Forscher\*innen kamen zu dem Schluss, dass das Vorhandensein von BLV "signifikant mit Brustkrebs assoziiert" sei. Sie fanden heraus, dass das Vorhandensein von BLV die Wahrscheinlichkeit, an Brustkrebs zu erkranken, um das 3,1-fache erhöht.
 
 Gertrude Bühring, die leitende Forscherin der Studie, erklärte, dieses Chancenverhältnis sei höher, als jeder der häufig beschriebenen Risikofaktoren für Brustkrebs. Dazu zählen Adipositas, Alkoholkonsum und die Einnahme von Hormonen nach der Menopause.
 

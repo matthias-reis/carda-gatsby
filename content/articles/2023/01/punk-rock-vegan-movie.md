@@ -43,7 +43,7 @@ Gegenüber Progressive Radio Network[^2] erwähnte Moby auch die Hoffnung, die e
 
 > "Viele vermuten nicht, dass es darin häufig um Tierrechte geht, wenn sie sich die Aufnahmen von Menschen bei einer Punk-Show ansehen, die sich im Grunde gegenseitig verprügeln und aus vollem Halse schreien.
 >
-> Meine Hoffnung ist, dass sich Leute, die den Film sehen sowas denken wie 'Oh, das sind meine musikalischen Held⋆innen! Sie sagen alle irgendwie, dass es keinen Sinn ergibt, Tiere als Nahrungsmittel zu benutzen und das einzige Zuhause, das wir haben, zu zerstören'. Im besten Falle schaffe ich es damit, Menschen zu erreichen und etwas zu verändern."
+> Meine Hoffnung ist, dass sich Leute, die den Film sehen sowas denken wie 'Oh, das sind meine musikalischen Held\*innen! Sie sagen alle irgendwie, dass es keinen Sinn ergibt, Tiere als Nahrungsmittel zu benutzen und das einzige Zuhause, das wir haben, zu zerstören'. Im besten Falle schaffe ich es damit, Menschen zu erreichen und etwas zu verändern."
 
 #﻿# Trailer – "Punk Rock Vegan Movie"
 

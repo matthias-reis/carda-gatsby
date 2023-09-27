@@ -91,7 +91,7 @@ Ihre Lyrics... Ich kann nicht mal ansatzweise verstehen, wie ihr Gehirn funktion
 
 ## Sumac - "Thorn In The Lion's Paw" vom Album "The Deal"
 
-Eine Kollaboration von Aaron Turner von Isis, Nick Yacyshyn von Baptists und Brian Cook von Russian Circles. Wie geschaffen dazu, zermalmende Töne zu kreieren. Ausgestattet mit präzisen und höllisch schweren Drums. Einige der Komplexitäten, die Nick so einfach klingen lässt, verblüffen mich sehr. Ich habe das Gefühl, dass dieser Song für Einsteiger⋆innen eine gute Einführung in die musikalische Welt von Sumac sein könnte.
+Eine Kollaboration von Aaron Turner von Isis, Nick Yacyshyn von Baptists und Brian Cook von Russian Circles. Wie geschaffen dazu, zermalmende Töne zu kreieren. Ausgestattet mit präzisen und höllisch schweren Drums. Einige der Komplexitäten, die Nick so einfach klingen lässt, verblüffen mich sehr. Ich habe das Gefühl, dass dieser Song für Einsteiger\*innen eine gute Einführung in die musikalische Welt von Sumac sein könnte.
 
 <YouTube id="qPFr8jGXSbg" />
 

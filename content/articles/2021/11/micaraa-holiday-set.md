@@ -64,4 +64,4 @@ Für die Umwelt wird für jede Bestellung gemeinsam mit OroVerde ein Baum gepfla
 
 Egal, ob Ihr das [Holiday Set](https://tidd.ly/3KHb28o) jemandem schenkt, oder Euch selbst eine Freude macht: Die Produkte kann ich Euch auf jeden Fall empfehlen. Ich selbst habe sie schon lange Zeit im Einsatz und meiner Haut geht es damit wirklich gut. Wenn Ihr mehr über meine Erfahrungen damit lesen wollt, findet Ihr hier im Blog zum Beispiel [diesen Artikel](/2021/07/micaraa-calm/).
 
-⋆Die vegane Naturkosmetik von MICARAA kennt Ihr als treue Leser⋆innen meines Blogs ja schon. Auch weiterhin gilt für Euch: Mit dem **Rabattcode anne10** erhaltet Ihr auf alle Micaraa Produkte einen Nachlass in Höhe von **10 Prozent**, wenn Ihr direkt im Micaraa Onlineshop einkauft.
+\*Die vegane Naturkosmetik von MICARAA kennt Ihr als treue Leser⋆innen meines Blogs ja schon. Auch weiterhin gilt für Euch: Mit dem **Rabattcode anne10** erhaltet Ihr auf alle Micaraa Produkte einen Nachlass in Höhe von **10 Prozent**, wenn Ihr direkt im Micaraa Onlineshop einkauft.

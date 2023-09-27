@@ -135,7 +135,7 @@ Er hat nur eine etwas spezielle Art, das Leben zu betrachten mit einer ganz best
 
 ## "Wir haben schon neue Songs"
 
-**Anton:** Erfolg. Vielleicht sollte ich sagen, dass es meiner Meinung nach schon ein großer Teil des Erfolges ist, die Musik zu spielen, die man mag, die Emotionen auszudrücken, die man hat. Aber für uns ist es ebenso wichtig, das mit anderen zu teilen. Wir wünschen uns einen Dialog mit den Menschen, die so wie wir fühlen und die sich diese Musik wünschen. Einfacher gesagt: Wir wollen eine Zusammenarbeit mit neuen Freund⋆innen erreichen und einige für uns neue Formate ausprobieren. Lass Dich überraschen! Für uns passiert alles mit dem Ziel, regelmäßig Konzerte zu geben und Platten zu veröffentlichen. Das ist ein ehrgeiziger Plan auf lange Sicht. Aber er ist real, weil es so viel zu sagen, zu diskursivieren und auszudrücken gibt!
+**Anton:** Erfolg. Vielleicht sollte ich sagen, dass es meiner Meinung nach schon ein großer Teil des Erfolges ist, die Musik zu spielen, die man mag, die Emotionen auszudrücken, die man hat. Aber für uns ist es ebenso wichtig, das mit anderen zu teilen. Wir wünschen uns einen Dialog mit den Menschen, die so wie wir fühlen und die sich diese Musik wünschen. Einfacher gesagt: Wir wollen eine Zusammenarbeit mit neuen Freund\*innen erreichen und einige für uns neue Formate ausprobieren. Lass Dich überraschen! Für uns passiert alles mit dem Ziel, regelmäßig Konzerte zu geben und Platten zu veröffentlichen. Das ist ein ehrgeiziger Plan auf lange Sicht. Aber er ist real, weil es so viel zu sagen, zu diskursivieren und auszudrücken gibt!
 
 **Julia:** Etwas komplett Neues, aber mit dem erkennbaren Smyčka Stil.
 

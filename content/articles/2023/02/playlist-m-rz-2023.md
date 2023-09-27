@@ -96,7 +96,7 @@ Zakè, Markus Guentner und James Bernard haben gemeinsam ein neues Album aufgeno
 
 Die neue Mono EP "Heaven, Vol. I" ist heute erschienen. Insgesamt sind drei Songs drauf, den dritten teile ich hier mit Euch. Die Band aus Tokio ließ sich ja schon immer gerne von den dunklen und hellen Seiten des Lebens inspirieren. Seit mehr als zwei Jahrzehnten ist sie jetzt unterwegs. Sie kommentieren "Silent Embrace" so:
 
-> "Es ist Zeit vergangen und wir sind erwachsen geworden. Das Leben erklimmt und überwindet viele steile Berge, aber der Grund, warum wir immer noch dazu in der Lage sind, weiterzugehen, sind unsere Lieben, unsere Kolleg\*innen, Freund⋆innen und Familien. Sie stehen uns still zur Seite und geben uns Stärke und Kraft. Mit diesem Song wollten wir unsere Dankbarkeit dafür zum Ausdruck bringen."
+> "Es ist Zeit vergangen und wir sind erwachsen geworden. Das Leben erklimmt und überwindet viele steile Berge, aber der Grund, warum wir immer noch dazu in der Lage sind, weiterzugehen, sind unsere Lieben, unsere Kolleg\*innen, Freund\*innen und Familien. Sie stehen uns still zur Seite und geben uns Stärke und Kraft. Mit diesem Song wollten wir unsere Dankbarkeit dafür zum Ausdruck bringen."
 
 <YouTube id="B_DMnqXMI1k" />
 

@@ -79,7 +79,7 @@ In letzter Zeit habe ich angefangen, die Hintergründe passend zum jeweiligen Vo
 
 ## "Ich möchte meine Liebe zur Natur und den Tieren mit anderen teilen"
 
-**Jenny:** Das hängt sehr stark davon ab, wie man als Künstler⋆in mit dieser Möglichkeit umgeht. Bleibt man in seiner Bubble und vernetzt sich nur mit anderen Kunstschaffenden? Oder schafft man den Sprung, die Menschen zu erreichen und anzusprechen, die Kunst zwar wunderschön finden, aber sie selbst nicht erschaffen? Beides hat Vor- und Nachteile. Ich habe festgestellt, dass andere Kunstschaffende oft sparsam mit netten Kommentaren und Likes umgehen. Vielleicht spielt hier ein wenig Konkurrenzdenken mit hinein. Mir gefällt es am besten, mich mit Menschen zu vernetzen, die meine Liebe zur Natur und zu den Tieren mit mir teilen.
+**Jenny:** Das hängt sehr stark davon ab, wie man als Künstler\*in mit dieser Möglichkeit umgeht. Bleibt man in seiner Bubble und vernetzt sich nur mit anderen Kunstschaffenden? Oder schafft man den Sprung, die Menschen zu erreichen und anzusprechen, die Kunst zwar wunderschön finden, aber sie selbst nicht erschaffen? Beides hat Vor- und Nachteile. Ich habe festgestellt, dass andere Kunstschaffende oft sparsam mit netten Kommentaren und Likes umgehen. Vielleicht spielt hier ein wenig Konkurrenzdenken mit hinein. Mir gefällt es am besten, mich mit Menschen zu vernetzen, die meine Liebe zur Natur und zu den Tieren mit mir teilen.
 
 **Anne:** Hast Du noch andere Kanäle (also auch offline), über die Du Deine Bilder teilst?
 

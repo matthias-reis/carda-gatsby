@@ -48,7 +48,7 @@ Maggies Ziel ist es, Arbeiter\*innen an vorderster Front und gefährdete Bevölk
 
 ## Support + Feed wächst weiter
 
-Seit dem Start vor einem Jahr hat Maggie bereits in weitere Städte wie New York, Philadelphia und Washington expandiert. Während der Wahlphase im November 2020 arbeitete sie mit einer Reihe von veganen Firmen zusammen, um Wähler⋆innen und Wahlhelfer⋆innen überall in Amerika zu unterstützen. Monty's Good Burger Mitbegründer Nick Adler gab dazu ein Statement ab:
+Seit dem Start vor einem Jahr hat Maggie bereits in weitere Städte wie New York, Philadelphia und Washington expandiert. Während der Wahlphase im November 2020 arbeitete sie mit einer Reihe von veganen Firmen zusammen, um Wähler\*innen und Wahlhelfer⋆innen überall in Amerika zu unterstützen. Monty's Good Burger Mitbegründer Nick Adler gab dazu ein Statement ab:
 
 > "Es gehört zu unseren Grundsätzen, Menschen in Not zu helfen. Unsere Zusammenarbeit mit Support + Feed hat es uns ermöglicht, vegane Mahlzeiten an Familien an unterversorgte Gemeinden zu verteilen. Ich könnte nicht stolzer sein. Die Arbeit, die Maggie und ihr Team innerhalb des letzten Jahres geleistet hat, ist wirklich großartig. Sie und ihre Voluntär⋆innen sind wahre Held⋆innen in Zeiten bitterer Not.
 

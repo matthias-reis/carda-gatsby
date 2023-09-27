@@ -62,7 +62,7 @@ Wir haben jede Menge Tourdaten auf unserer Webseite gepostet[^1]. Ein paar Shows
 
 **Marco:** Es gibt wirklich keine konkrete Antwort auf diese Frage. Heutzutage, mit Jaron am Schlagzeug, bekommen wir mehr diesen Post-Metal-Vibe, glaube ich. Es gibt außerdem eine Menge Stoner-Rock und sogar eine kleine Spur Grunge hier und da. Und Psychedelic Rock. Ich denke, Du kannst jede Menge Boxen anhaken (lacht).
 
-**Anne:** Das klingt gut! Würdest Du also sagen, dass sich alles, was Ihr gerne hört, auf die ein oder andere Art auch in Eurer Musik widerspiegelt? Wer sind denn Eure größten Einflüsse in Richtung Künstler⋆innen und Bands?
+**Anne:** Das klingt gut! Würdest Du also sagen, dass sich alles, was Ihr gerne hört, auf die ein oder andere Art auch in Eurer Musik widerspiegelt? Wer sind denn Eure größten Einflüsse in Richtung Künstler\*innen und Bands?
 
 **Marco:** Ich glaube, da ist es ganz ähnlich. Wir drei haben irgendwann mal in der New Metal/Metal-Ecke angefangen. Wir hören zum Beispiel alle gerne Tool. Ich höre im Moment Lift und Lowrider. Weedpecker ist tatsächlich einer meiner Favoriten. Das ist lustig, weil Weedpecker tatsächlich sehr Gitarren-orientiert sind. Wenn ich mir meine Spotify-Plays des letzten Jahres ansehe, sehe ich auch viele Projekte aus den 1970ern wie The Allman Brothers Band. Als ich Weedpecker letztes Jahr zum ersten Mal live gesehen habe, wusste ich, warum ich diese Band so gerne mag: Es liegt daran, dass eine Menge aus dieser Richtung kommt. Es gibt so viel Gitarren-Sound! Also ja: die Rockmusik der 1970er-Jahre ist ein wichtiger Einfluss für mich.
 

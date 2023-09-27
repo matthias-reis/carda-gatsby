@@ -106,7 +106,7 @@ Sänger T.J. lernte über einen gemeinsamen Freund Jakob kennen. Er hatte zu die
 
 **Anne:** Was würdet Ihr Politiker\*innen am liebsten sagen?
 
-**T. J.:** Kommt darauf an, von welcher Art von Politiker⋆innen wir reden. Mit Faschisten würde ich zum Beispiel gar nicht reden, denn mit Faschisten verhandelt man nicht und man gibt ihnen auch keinen Raum. Ansonsten würde ich gerne darauf hinweisen, dass man bei vielen Themen auf Experten hören sollte, die sich seit Jahrzehnten wissenschaftlich-kritisch mit einem Thema auseinandersetzen. Zum Beispiel, wenn es um die Reduzierung des CO2-Ausstoßes geht.
+**T. J.:** Kommt darauf an, von welcher Art von Politiker\*innen wir reden. Mit Faschisten würde ich zum Beispiel gar nicht reden, denn mit Faschisten verhandelt man nicht und man gibt ihnen auch keinen Raum. Ansonsten würde ich gerne darauf hinweisen, dass man bei vielen Themen auf Experten hören sollte, die sich seit Jahrzehnten wissenschaftlich-kritisch mit einem Thema auseinandersetzen. Zum Beispiel, wenn es um die Reduzierung des CO2-Ausstoßes geht.
 
 ## "Wir wollen auf jeden Fall so viel wie möglich live spielen"
 

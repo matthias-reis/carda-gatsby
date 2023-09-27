@@ -41,7 +41,7 @@ Die Mimin gab ihren 3,5 Millionen Followern auf Instagram bekannt, dass sie dara
 
 schrieb Kat in ihrem Post. Auf Butter könne sie vorerst noch nicht verzichten, fügte die Schauspielerin hinzu. Daraufhin konnte sie vor Vorschlägen für vegane Alternativen kaum noch retten. In ihrer Instagram Story bezeichnete Kat Dennings den Film als "unglaublich" und "lebensverändernd".
 
-Immer mehr bekannte Persönlichkeiten berichten von ihrer Entscheidung für ein veganes Leben. Unter Künstler\*innen, Schauspieler\*innen und Musiker⋆innen wie Moby, [Crippled Black Phoenix](/2019/04/crippled-black-phoenix-live-im-hamburger-knust/), [Joaquin Phoenix](/2020/02/joaquin-phoenix-oscar/), Natalie Portman und Peter Dinklage ist Kat Dennings in guter Gesellschaft.
+Immer mehr bekannte Persönlichkeiten berichten von ihrer Entscheidung für ein veganes Leben. Unter Künstler\*innen, Schauspieler\*innen und Musiker\*innen wie Moby, [Crippled Black Phoenix](/2019/04/crippled-black-phoenix-live-im-hamburger-knust/), [Joaquin Phoenix](/2020/02/joaquin-phoenix-oscar/), Natalie Portman und Peter Dinklage ist Kat Dennings in guter Gesellschaft.
 
 Alles über den Film "Live On Our Planet und wo Ihr ihn stream könnt, erfahrt Ihr in [meinem Artikel zum Film](/2020/08/a-life-on-our-planet/).
 

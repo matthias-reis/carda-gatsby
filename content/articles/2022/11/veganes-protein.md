@@ -30,7 +30,7 @@ affiliate: true
 language: de
 ---
 
-**Eine ausgeglichene, vegane Ernährungsweise beinhaltet von Natur aus bereits viel Protein. Wenn Ihr jedoch täglich hart trainiert, kann es sein, dass Ihr Protein ergänzen müsst. Klärt das am besten vorher mit Eurem\*r Ärzt\*in und/oder Eurem⋆r Trainer⋆in ab. In diesem Artikel möchte ich gerne mal etwas genauer darauf eingehen, warum zum Muskelaufbau Protein notwendig ist und wie es mit veganem Protein aussieht.**
+**Eine ausgeglichene, vegane Ernährungsweise beinhaltet von Natur aus bereits viel Protein. Wenn Ihr jedoch täglich hart trainiert, kann es sein, dass Ihr Protein ergänzen müsst. Klärt das am besten vorher mit Eurem\*r Ärzt\*in und/oder Eurem\*r Trainer⋆in ab. In diesem Artikel möchte ich gerne mal etwas genauer darauf eingehen, warum zum Muskelaufbau Protein notwendig ist und wie es mit veganem Protein aussieht.**
 
 ## Darum ist Protein so wichtig für die Muskeln
 

@@ -46,7 +46,7 @@ Um das zu schaffen, müssen möglichst alle an einem Strang ziehen. Was jede\*r 
 Doch um diesen exponentiellen Wandel voranzutreiben, ist das Zusammenspiel der gesamten sozioökonomischen "Trinität" notwendig:
 
 - Die Legislative (Politiker, Autoritäten) muss kontrollieren, an welchen Stellen der Markt scheitert und Regeln festlegen, die klimafreundlichen Lösungen den Vorrang geben und Vergehen dagegen bestrafen.
-- Die Hersteller (Firmen und der öffentliche Sektor) müssen Verantwortung für die CO<sub>2</sub>-Emissionen übernehmen, die durch ihre Produkte entstehen. Sie müssen sich von fossilen Lösungen verabschieden und einen positiven Einfluss auf ihre Interessenvertreter ausüben. Dazu zählen unter anderem Lieferant⋆innen, Kund⋆innen, Partner⋆innen.
+- Die Hersteller (Firmen und der öffentliche Sektor) müssen Verantwortung für die CO<sub>2</sub>-Emissionen übernehmen, die durch ihre Produkte entstehen. Sie müssen sich von fossilen Lösungen verabschieden und einen positiven Einfluss auf ihre Interessenvertreter ausüben. Dazu zählen unter anderem Lieferant\*innen, Kund⋆innen, Partner⋆innen.
 - Konsument⋆innen (wir alle) müssen sich verantwortungsbewusst verhalten und ihren CO<sub>2</sub>-Verbrauch auf ein Minimum reduzieren. Wir müssen beharrlich nach klimafreundlichen Lösungen verlangen und die Legislative beeinflussen.
 
 Ein erster Schritt in diese Richtung kann das Errechnen des persönlichen CO<sub>2</sub>-Verbrauchs sein. Das könnt Ihr mit dem Carbon Calculator von ClimateHero mit ein paar Klicks erledigen.

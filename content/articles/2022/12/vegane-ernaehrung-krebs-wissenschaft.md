@@ -50,7 +50,7 @@ Die Forschenden analysierten die Daten von Erwachsenen, die sich zwischen 1993 u
 
 Die Teilnehmenden gaben zunächst an, welche Nahrungsmittel (einschließlich Getränken) sie im vergangenen Jahr zu sich genommen hatten. Die Forschenden bewerteten dann, ob sie im Vergleich zu den anderen Teilnehmenden wenig oder viel pflanzliche Lebensmittel zu sich aufgenommen hatten. Anschließend unterteilten sie diese in gesund (Gemüse, Obst, Hülsenfrüchte) und ungesund (raffinierter Zucker, Weißmehl, zuckerhaltige Getränke). Auf der Basis der Daten aus den Krebsregistern errechneten sie nun die Inzidenz neuer Darmkrebsfälle bis 2017.
 
-Bei ihren Berechnungen betrachteten die Wissenschaftler⋆innen unter anderem auch das Alter, die familiäre Vorbelastung mit Darmkrebs, den Tabakkonsum, die Einnahme von Multivitamin-Präparaten sowie den BMI der Proband⋆innen. Bei den weiblichen Teilnehmenden bezogen sie zudem die Anwendung von Hormonersatzpräparaten mit in ihre Forschungen ein. Etwa 2,9 Prozent (4.976) der Proband⋆innen erkrankten im Laufe der Studie an Darmkrebs.
+Bei ihren Berechnungen betrachteten die Wissenschaftler\*innen unter anderem auch das Alter, die familiäre Vorbelastung mit Darmkrebs, den Tabakkonsum, die Einnahme von Multivitamin-Präparaten sowie den BMI der Proband⋆innen. Bei den weiblichen Teilnehmenden bezogen sie zudem die Anwendung von Hormonersatzpräparaten mit in ihre Forschungen ein. Etwa 2,9 Prozent (4.976) der Proband⋆innen erkrankten im Laufe der Studie an Darmkrebs.
 
 Die aktuelle Studie untermauert die wachsende Gewissheit darüber, dass sich eine gesunde, pflanzliche Ernährung auf das Krebsrisiko auswirkt. Weitere wissenschaftliche Arbeiten kommen immer wieder zu ähnlichen Ergebnissen.
 

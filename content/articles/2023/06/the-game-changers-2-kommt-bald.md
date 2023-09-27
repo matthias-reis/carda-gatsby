@@ -32,7 +32,7 @@ Vor vier Jahren landete "[The Game Changers](/2019/11/the-game-changers/)" einen
 
 ## LeBron James und Maverick Carter wollen noch mehr aufklären
 
-LeBron James und Maverick Carter haben sich jetzt mit dem Originalteam des Film zusammengetan und machten es vor Kurzem offiziell: es geht weiter! Auch der zweite Teil wird weiter mit dem Mythos aufräumen, dass [Sportler⋆innen als Eiweißquelle](/2022/11/veganes-protein/) Fleisch, Eier und Milchprodukte benötigen.
+LeBron James und Maverick Carter haben sich jetzt mit dem Originalteam des Film zusammengetan und machten es vor Kurzem offiziell: es geht weiter! Auch der zweite Teil wird weiter mit dem Mythos aufräumen, dass [Sportler\*innen als Eiweißquelle](/2022/11/veganes-protein/) Fleisch, Eier und Milchprodukte benötigen.
 
 Ein professioneller Basketballspieler und ein Sportmarketing-Experte sind da natürlich die perfekte Besetzung. LeBron und Maverick, die gemeinsam als SpringHill Company eine auf Sport spezialisierte Unterhaltungsplattform betreiben, stellen sich dieser Herausforderung gerne.
 

@@ -70,7 +70,7 @@ Kanter möchte laut eigener Aussage ein Vorbild für die Kids sein:
 
 > "Mehr als alles andere möchte ich die junge Generation inspirieren. Ich glaube, dass wir in unserer Gesellschaft eine Menge schaffen können."
 
-Auch anderen Veganer⋆innen legt der Sportler ans Herz, sich zu engagieren:
+Auch anderen Veganer\*innen legt der Sportler ans Herz, sich zu engagieren:
 
 > "Geht raus und versucht so viele Menschen wie möglich zu inspirieren. Unterrichtet so viele Kinder wie möglich. Es kann unseren Planeten nur besser und glücklicher machen."
 

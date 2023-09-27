@@ -51,7 +51,7 @@ Die neue Studie zeigt auch,  dass die Klimaauswirkungen der Landnutzung vor all
 
 ## Fleisch – einer der Haupttreiber des Klimawandels
 
-In Michalkes und Gauglers Fazit zur Studie steht, dass die Landwirtschaft mit einem Anteil von 24 Prozent an den globalen Emissionen eine der Hauptquellen für die von Menschen verursachten Treibhausgase ist. Die Wissenschaftler⋆innen schließen daraus, dass der Anpassungsbedarf groß ist. Sie sehen darin das Potenzial des primären Sektors, die Klimaziele des Pariser Abkommens zu erreichen. Sprich: Die Erderwärmung deutlich unter zwei Grad Celsius zu halten.
+In Michalkes und Gauglers Fazit zur Studie steht, dass die Landwirtschaft mit einem Anteil von 24 Prozent an den globalen Emissionen eine der Hauptquellen für die von Menschen verursachten Treibhausgase ist. Die Wissenschaftler\*innen schließen daraus, dass der Anpassungsbedarf groß ist. Sie sehen darin das Potenzial des primären Sektors, die Klimaziele des Pariser Abkommens zu erreichen. Sprich: Die Erderwärmung deutlich unter zwei Grad Celsius zu halten.
 
 Michalke und Gaugler glauben, dass die Einbeziehung der Umweltauswirkungen in die Kosten von Fleisch und Milchprodukten zur Entschärfung der Klimakrise beitragen können:
 

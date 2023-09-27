@@ -75,7 +75,7 @@ Das Label bereitet auch eine streng limitierte, gedrechselte Vinyl-Edition vor, 
 
 **Anne:** Wolltet Ihr schon immer doomige und düstere Post-Musik machen?
 
-**Maud:** Am Anfang wollten wir an einer Kreuzung zwischen Sigur Rós, Beach House und Warpaint stehen, also würde ich das nicht sagen. Was wir schreiben, spiegelt das wider, was uns gerade inspiriert. Für uns drei/vier gibt es keine\*n "Hauptkomponist⋆in" innerhalb der Band. Wir schreiben alle gemeinsam. Es gab also nie eine klare Bewegung in Richtung düstere Musik, obwohl sie uns beeinflusst hat, als wir "Volaverunt" aufgenommen haben. Wir befanden uns auch in einer einzigartigen und düsteren Zeit, als COVID-19 unser Zuhause und unser Leben heimsuchte.
+**Maud:** Am Anfang wollten wir an einer Kreuzung zwischen Sigur Rós, Beach House und Warpaint stehen, also würde ich das nicht sagen. Was wir schreiben, spiegelt das wider, was uns gerade inspiriert. Für uns drei/vier gibt es keine\*n "Hauptkomponist\*in" innerhalb der Band. Wir schreiben alle gemeinsam. Es gab also nie eine klare Bewegung in Richtung düstere Musik, obwohl sie uns beeinflusst hat, als wir "Volaverunt" aufgenommen haben. Wir befanden uns auch in einer einzigartigen und düsteren Zeit, als COVID-19 unser Zuhause und unser Leben heimsuchte.
 
 **Anne:** Wenn es eine⋆n Musiker⋆in gäbe, den⋆die Du Dir aussuchen könntest, um mit ihm⋆ihr einige Songs zu produzieren. Wer wäre es, und warum?
 

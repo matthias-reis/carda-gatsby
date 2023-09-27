@@ -86,7 +86,7 @@ Tricky hat eine neue EP veröffentlich und was soll ich sagen? Sie hat voll auf 
 
 ## 6. Amanda Palmer - "My Favourite Things (Bushfire Edition)" vom Album "Amanda Palmer &amp; Friends present Forty-Five Degrees: Bushfire Flash Record"
 
-Noch mehr Klaviermusik. Dieses Mal von keiner Geringeren, als Amanda Palmer. Ich verfolge die Werke der New Yorker Künstlerin schon seit ihrer Zeit bei Dresden Dolls und ich muss sagen, dass sie mich bis jetzt noch nie enttäuscht hat. Zuletzt hat mich ihr Album "There Will Be No Intermission" von 2019, in dem sie offen über Themen wie Abtreibung, Fehlgeburt und Mutterschaft singt, sehr beeindruckt. Für die "Bushfire Flash Record" hat sie mit vielen anderen großartigen Künstler\*innen zusammengearbeitet. Es wurde durch den Support von 15.000 Unterstützer⋆innen. Alle Einnahmen für das Werk gehen zu 100 Prozent an das indigene Netzwerk Firesticks Alliance, welches unter anderem die Verwaltung von Kulturlandschaft unterrichtet.
+Noch mehr Klaviermusik. Dieses Mal von keiner Geringeren, als Amanda Palmer. Ich verfolge die Werke der New Yorker Künstlerin schon seit ihrer Zeit bei Dresden Dolls und ich muss sagen, dass sie mich bis jetzt noch nie enttäuscht hat. Zuletzt hat mich ihr Album "There Will Be No Intermission" von 2019, in dem sie offen über Themen wie Abtreibung, Fehlgeburt und Mutterschaft singt, sehr beeindruckt. Für die "Bushfire Flash Record" hat sie mit vielen anderen großartigen Künstler\*innen zusammengearbeitet. Es wurde durch den Support von 15.000 Unterstützer\*innen. Alle Einnahmen für das Werk gehen zu 100 Prozent an das indigene Netzwerk Firesticks Alliance, welches unter anderem die Verwaltung von Kulturlandschaft unterrichtet.
 
 <YouTube id="P_-vkguE8Go" />
 

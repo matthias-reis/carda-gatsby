@@ -96,7 +96,7 @@ Wir haben uns so sehr darauf gefreut, dieses Jahr wiederzukommen und die DUNK! C
 
 **Andrew:** Ich hoffe, dass wir besser geworden sind! Aber ganz im Ernst: Ich glaube, dass die Musik, die wir jetzt schreiben, expansiver und dynamischer ist. Das hat vor allem damit zu tun, dass wir Ryan 2014 als Bandmitglied gewinnen konnten.
 
-**Anne:** Ihr seid eine Instrumentalband und dieses Format passt hervorragend zu Euch als Band. Habt Ihr jemals darüber nachgedacht, mit eine\*r Sänger⋆in zusammenzuarbeiten?
+**Anne:** Ihr seid eine Instrumentalband und dieses Format passt hervorragend zu Euch als Band. Habt Ihr jemals darüber nachgedacht, mit eine\*r Sänger\*in zusammenzuarbeiten?
 
 ## "Wir werden unseren instrumentalen Wurzeln immer treu bleiben"
 

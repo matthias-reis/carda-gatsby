@@ -33,7 +33,7 @@ Das Ziel des zweiten Hamburg Climate Futures Outlook[^2] ist die systematische A
 
 ## Zehn klimarelevante Faktoren
 
-Rund 60 Natur- und Sozialwissenschaftler⋆innen arbeiteten die gestern veröffentlichte Studie gemeinsam aus. Sie betrachteten dabei zehn gesellschaftliche, für das Klima relevante Faktoren:
+Rund 60 Natur- und Sozialwissenschaftler\*innen arbeiteten die gestern veröffentlichte Studie gemeinsam aus. Sie betrachteten dabei zehn gesellschaftliche, für das Klima relevante Faktoren:
 
 - UN-Klimapolitik
 - Klimaschutz-Gesetze

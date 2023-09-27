@@ -93,7 +93,7 @@ La Réunion selbst ist natürlich auch eine große Inspirationsquelle für mich.
 
 ## "Ich lasse jede\*n Hörer\*in mit meinem Album seine eigene Welt erschafft"
 
-Es gibt natürlich noch viele weitere Bezüge zu Orten und Menschen auf diesem Album, die für mich persönlich eine Bedeutung haben. Ich lasse aber jede⋆r Hörer⋆in mit dem Album seine⋆ihre eigene Welt und Reise erschaffen. Es gibt einen Hidden Track, der nur auf der Vinyl Version drauf ist, der eine Ode an Réunion Island ist und mich meiner Heimat ein Stück näher bringt.
+Es gibt natürlich noch viele weitere Bezüge zu Orten und Menschen auf diesem Album, die für mich persönlich eine Bedeutung haben. Ich lasse aber jede\*r Hörer⋆in mit dem Album seine⋆ihre eigene Welt und Reise erschaffen. Es gibt einen Hidden Track, der nur auf der Vinyl Version drauf ist, der eine Ode an Réunion Island ist und mich meiner Heimat ein Stück näher bringt.
 
 **Anne:** Wer hat eigentlich die schönen Bilder aufgenommen, die man im Artwork der Platte und in den Videos sehen kann, die Du zusammen mit dem Album veröffentlicht hast? Wo genau wurden sie aufgenommen?
 

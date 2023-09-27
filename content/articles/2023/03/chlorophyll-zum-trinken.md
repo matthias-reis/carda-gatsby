@@ -69,7 +69,7 @@ Ich habe auf jeden Fall das Gefühl, etwas Gesundes zu mir zu nehmen und dass "G
 
 Da ich durch meine [Endometriose](/2023/02/endometriose/) immer auf meine Eisenwerte achten muss, ist auch der Punkt mit der Förderung der Eisenaufnahme durchaus ein Pluspunkt für mich. Ob das tatsächlich funktioniert, müsste ich nach einer längeren Einnahme der Tropfen auf jeden Fall bei einer Blutuntersuchung testen lassen. Der Tipp, bei schlechten Eisenspeicherwerten mehr grüne Lebensmittel zu mir zu nehmen, ist jedoch auch nicht ganz neu für mich.
 
-Insgesamt kann ich das Chlorophyll-Wasser jedem\*er ans Herz legen, der⋆die auf seine Gesundheit achtet und gerne etwas für sein allgemeines Wohlbefinden und sein Hautbild tun möchte. Um es mal auszuprobieren, seid Ihr mit [den Chlorophyll-Tropfen von Nutri Plus](https://tidd.ly/3JpEvWt) gut beraten.
+Insgesamt kann ich das Chlorophyll-Wasser jedem\*er ans Herz legen, der\*die auf seine Gesundheit achtet und gerne etwas für sein allgemeines Wohlbefinden und sein Hautbild tun möchte. Um es mal auszuprobieren, seid Ihr mit [den Chlorophyll-Tropfen von Nutri Plus](https://tidd.ly/3JpEvWt) gut beraten.
 
 Die Tropfen von Nutri Plus enthalten 50 ml flüssiges Chlorophyll. Es wird aus spanischem Alfalfa gewonnen. In der Flasche befindet sich eine praktische Pipette, mit der ihr die Tropfen ganz einfach dosieren könnt. Zusätze sind keine enthalten, es handelt sich um reines Chlorophyllin – ein Naturprodukt. Wie alles aus dem Hause Nutri Plus sind auch [die Chlorophyll-Tropfen](https://tidd.ly/3JpEvWt) zu 100 Prozent vegan und frei von Laktose, Milcheiweiß oder anderen tierische Inhaltsstoffen.
 

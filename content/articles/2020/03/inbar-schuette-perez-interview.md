@@ -111,7 +111,7 @@ Zunächst mal ist es mir wichtig zu betonen, dass es meiner Meinung nach wichtig
 
 Zu viele Menschen haben Anonymous For The Voiceless verlassen, ohne zu sagen, warum. Sie hatten Angst davor, dass jemand denken könnte, sie würden damit zu einem Drama beitragen oder dass sie nur das Negative sehen würden. Für mich sind Ehrlichkeit und Transparenz wichtiger, als den Frieden zu bewahren. Darum habe ich keine Sekunde gezögert, meine Gründe offenzulegen.
 
-Es ist ebenso wichtig, zu sagen, dass keine Organisatorin für Anonymous For The Voiceless mehr zu sein nicht viel bedeutet. Ich bin immer noch eine Organisatorin und Aktivistin und habe nach wie vor zu meinen Freund⋆innen, die ich über Anonymous For The Voiceless kennengelernt habe, den Organisator⋆innen und Helfer⋆innen. Ich liebe sie alle sehr!
+Es ist ebenso wichtig, zu sagen, dass keine Organisatorin für Anonymous For The Voiceless mehr zu sein nicht viel bedeutet. Ich bin immer noch eine Organisatorin und Aktivistin und habe nach wie vor zu meinen Freund\*innen, die ich über Anonymous For The Voiceless kennengelernt habe, den Organisator⋆innen und Helfer⋆innen. Ich liebe sie alle sehr!
 
 ## "Wir haben Anonymous For The Voiceless als Gruppe verlassen"
 

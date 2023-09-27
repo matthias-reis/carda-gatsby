@@ -51,7 +51,7 @@ Die Forscher\*innen können derzeit nicht genau sagen, wie viele Tiere getötet 
 
 Laut Dr. van Eeden wurde für das Projekt ein von den Bränden betroffenes Gebiet mit einer Größe von 11,46 Millionen Hektar untersucht.
 
-O'Gorman möchte mit den Forschungsergebnissen der Wissenschaftler⋆innen anderen Ländern einen Ausblick auf die Auswirkungen der kommenden Megabrände gibt. Durch den weltweiten Klimawandel wird es derartige Vorkommnisse in Zukunft immer häufiger geben.
+O'Gorman möchte mit den Forschungsergebnissen der Wissenschaftler\*innen anderen Ländern einen Ausblick auf die Auswirkungen der kommenden Megabrände gibt. Durch den weltweiten Klimawandel wird es derartige Vorkommnisse in Zukunft immer häufiger geben.
 
 ## Wissenslücken schließen und Gesetze ändern
 

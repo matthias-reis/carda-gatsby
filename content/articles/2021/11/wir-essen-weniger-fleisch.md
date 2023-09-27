@@ -35,7 +35,7 @@ Insgesamt nahmen 7.578 Menschen aus Dänemark, Österreich, Frankreich, Deutschl
 
 > "Der Verzicht auf Fleisch ist die 'neue Normalität' in Europa."
 
-Insgesamt 37 Prozent der Befragten bezeichneten sich selbst als Veganer⋆innen, Vegetarier⋆innen oder "Flexetarier⋆innen". Dieser Begriff wurde in den letzten Jahren immer beliebter für Menschen, die von sich sagen, bewusst weniger Fleisch zu essen.
+Insgesamt 37 Prozent der Befragten bezeichneten sich selbst als Veganer\*innen, Vegetarier⋆innen oder "Flexetarier⋆innen". Dieser Begriff wurde in den letzten Jahren immer beliebter für Menschen, die von sich sagen, bewusst weniger Fleisch zu essen.
 
 46 Prozent der Teilnehmenden gaben an, ihren Fleischkonsum innerhalb des letzten Jahres reduziert zu haben. Die Anzahl der "Flexetarier⋆innen" verbucht dadurch einen sprunghaften Anstieg. Insgesamt 73 Prozent berichteten, weniger Fleisch- und Wurstprodukte zu sich zu nehmen, als noch vor einem Jahr. Wirft man einen Blick auf die Antworten aller Umfrage-Teilnehmer⋆innen, also auch die der Menschen, die sich als Fleischesser⋆innen bezeichnen, fällt außerdem auf, dass rund 30 Prozent die Angabe machten, innerhalb der nächsten sechs Monate weniger Milchprodukte und Fleisch konsumieren zu wollen. Dafür gaben 26 Prozent an, im nächsten halben Jahr mehr vegane Alternativen für Milch- und Fleischprodukte zu sich nehmen zu wollen.
 

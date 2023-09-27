@@ -126,7 +126,7 @@ If you're small and on a search I've got a feeder for you to perch on I've got a
 
 <YouTube id="HJnbmUnNNYo" />
 
-## Teilnehmer⋆innen beim Blind Date mit "I like birds"
+## Teilnehmer\*innen beim Blind Date mit "I like birds"
 
 [\*Gartenbaukunst](https://gartenbaukunst.wordpress.com/)  
 [Hauptstadtgarten](https://www.hauptstadtgarten.de/)  

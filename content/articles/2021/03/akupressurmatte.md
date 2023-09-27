@@ -59,7 +59,7 @@ Die Hülle [meiner Matte](https://t.adcell.com/p/click?promoId=204734&slotId=802
 
 <Gallery name="akupressurmatte-1-1" />
 
-## Entspannen wie ein\*e Fakir⋆in
+## Entspannen wie ein\*e Fakir\*in
 
 Erfunden wurde die Akupressurmatte in Schweden. Dort gibt es inzwischen fast in jedem Haushalt eine. Sie wird übrigens auch als "Fakirmatte" bezeichnet. Allerdings hat sich mit einem Nagelbrett nur entfernte Ähnlichkeiten.
 

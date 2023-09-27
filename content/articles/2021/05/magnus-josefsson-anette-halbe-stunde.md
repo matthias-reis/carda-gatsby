@@ -72,7 +72,7 @@ languageLink: /2021/05/magnus-josefsson-anette-halbe-stunde-en
 
 **Magnus:** Vegan zu leben, ist eine bewusste Entscheidung. Ambient Music und Klanglandschaften hängen stark mit meiner Erfahrung mit meinem Bewusstsein zusammen. Musik besitzt, genau, wie das Bewusstsein keine physische Form.
 
-**Anne:** Was macht uns Veganer\*innen so nervig? Ich habe mich über die Jahre mit so vielen von uns unterhalten und ich bekomme immer wieder Sätze zu hören wie "Als Veganer⋆in ist es schwierig, Freund⋆innen zu finden. Sobald sie hören, dass Du keine tierischen Lebensmittel zu Dir nimmst, scheinen sie beleidigt zu sein und verabschieden sich." Manchmal stimme ich dem zu und manchmal denke ich mir, es hilft mir dabei, herauszufinden, wer wirklich "Freundschaftsmaterial" ist. Hast Du diese Erfahrungen auch gemacht?
+**Anne:** Was macht uns Veganer\*innen so nervig? Ich habe mich über die Jahre mit so vielen von uns unterhalten und ich bekomme immer wieder Sätze zu hören wie "Als Veganer\*in ist es schwierig, Freund⋆innen zu finden. Sobald sie hören, dass Du keine tierischen Lebensmittel zu Dir nimmst, scheinen sie beleidigt zu sein und verabschieden sich." Manchmal stimme ich dem zu und manchmal denke ich mir, es hilft mir dabei, herauszufinden, wer wirklich "Freundschaftsmaterial" ist. Hast Du diese Erfahrungen auch gemacht?
 
 ## "Den Menschen steht ihre Identität oft im Weg"
 

@@ -53,7 +53,7 @@ Für "Slay" haben Rebecca Cappelli und Keegan Kuhn (["Cowspiracy"](/2020/04/cows
 
 Neben dem allgegenwärtigen Tierleid begegnete das Filmteam auch permanent Menschen, die der Modeindustrie regelrecht ausgeliefert sind. Sie arbeiten unter schlimmen, häufig sogar gefährlichen Bedingungen weit über jeder zumutbaren Belastungsgrenze und sind gleichzeitig auf ihre Jobs angewiesen.
 
-Im Film kommen Expert\*innen für nachhaltige Mode und Angehörige der Tierrechtsbewegung zu Wort – darunter bekannte Aktivist⋆innen wie Samata Pattinson, Bandana Tewari, [Melanie Joy](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/), Dana Thomas, Joshua Katcher, Lucy Watson, [Earthling Ed](/tag/earthling-ed), Emma Hakansson und Alexi Lubomirski. Sie zeigen auf, wie es laufen müsste und wie weit wir heute noch von menschen- und tierwürdigen Lösungen entfernt sind.
+Im Film kommen Expert\*innen für nachhaltige Mode und Angehörige der Tierrechtsbewegung zu Wort – darunter bekannte Aktivist\*innen wie Samata Pattinson, Bandana Tewari, [Melanie Joy](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/), Dana Thomas, Joshua Katcher, Lucy Watson, [Earthling Ed](/tag/earthling-ed), Emma Hakansson und Alexi Lubomirski. Sie zeigen auf, wie es laufen müsste und wie weit wir heute noch von menschen- und tierwürdigen Lösungen entfernt sind.
 
 ## Zu Besuch auf Pelz- und Wollfarmen
 

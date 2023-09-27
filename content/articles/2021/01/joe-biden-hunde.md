@@ -52,7 +52,7 @@ Am Sonntag wird "Jill Martin" von der Today Show für die DHA auf Zoom die "welt
 
 ## Eine Spendenaktion zur Feier der Indoguration
 
-Im Vorfeld der Indoguration können die Teilnehmer⋆innen der Spendenaktion Hunde als "Secretary of Rescue Dogs" in Majors Kabinett nominieren. Special Guest Sir Darius Brown wird fünf Gewinner⋆innen küren. Sie erhalten dann eine von dem Tierrechtsaktivisten und Jung-Unternehmer höchstpersönlich gestaltete Schleife. Sir Darius Brown rührt aktuell die Werbetrommel für die Aktion, indem er die Indoguration-Schleifen online verkauft. Der komplette Erlös kommt der Delaware Humane Association zugute.
+Im Vorfeld der Indoguration können die Teilnehmer\*innen der Spendenaktion Hunde als "Secretary of Rescue Dogs" in Majors Kabinett nominieren. Special Guest Sir Darius Brown wird fünf Gewinner⋆innen küren. Sie erhalten dann eine von dem Tierrechtsaktivisten und Jung-Unternehmer höchstpersönlich gestaltete Schleife. Sir Darius Brown rührt aktuell die Werbetrommel für die Aktion, indem er die Indoguration-Schleifen online verkauft. Der komplette Erlös kommt der Delaware Humane Association zugute.
 
 Der Historiker am Presidential Pet Museum in Williamsburg, Virginia Andrew Hager sagte gegenüber der Washington Post, dass Bidens Entscheidung, einen Hund aus dem Tierschutz zu adoptieren, hervorhebt, wie die Tiere im Weißen Haus historische Trends der amerikanischen Haustierhaltung widerspiegeln.
 

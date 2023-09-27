@@ -140,7 +140,7 @@ Euer erstes Album (Nach Eurer geheimnisvollen Teaser Single "Forgetting How To S
 
 **Alex:** Es fühlt sich wirklich so an, als würde er fest zur Band gehören! Er ist großartig darin, diese wirklich natürlichen und gefühlvollen Klänge herauszuarbeiten und er hat immer großartige Vorschläge für Gitarrentöne. Ich kann mit voller Überzeugung sagen, dass unsere Aufnahmen ohne James' Beitrag ganz anders klingen würden.
 
-**Anne:** Ein⋆e Redakteur⋆in von Everything Is Noise hat gesagt, dass es selten vorkommt, dass ein Album sie⋆ihn in eine andere Atmosphäre transportiert - unabhängig davon, in welchem Geisteszustand sie⋆er sich befand, als sie⋆er Eure Platte auflegte. David Zeidler von Young Epoch hat gesagt, dass Ihr Euch in einer Welt aus zarten Texturen, kontemplativen Nuancen und leidenschaftlichen Ausbrüchen bewegt. Ich denke, dass fasst ziemlich genau in Worte, wie ich über "Help Me To Recollect" fühle. Woher nehmt Ihr all die Kreativität und Inspiration, um Musik wie diese zu komponieren?
+**Anne:** Ein\*e Redakteur⋆in von Everything Is Noise hat gesagt, dass es selten vorkommt, dass ein Album sie⋆ihn in eine andere Atmosphäre transportiert - unabhängig davon, in welchem Geisteszustand sie⋆er sich befand, als sie⋆er Eure Platte auflegte. David Zeidler von Young Epoch hat gesagt, dass Ihr Euch in einer Welt aus zarten Texturen, kontemplativen Nuancen und leidenschaftlichen Ausbrüchen bewegt. Ich denke, dass fasst ziemlich genau in Worte, wie ich über "Help Me To Recollect" fühle. Woher nehmt Ihr all die Kreativität und Inspiration, um Musik wie diese zu komponieren?
 
 ## "Es bedeutet uns eine Menge, wenn die Leute nette Worte für unsere Musik finden"
 

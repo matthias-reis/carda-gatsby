@@ -32,7 +32,7 @@ Besonders spannend wird es im Podcast, als Dan beginnt über seine Reisen zu spr
 
 ![Dan Buettner, ein Mann mit grauen, kurzen Haaren steht in einem blauen Jeanshemd und einer sehr hellen Jeans an eine schwarzes Fahrrad gelehnt und lächelt. Im Hintergrund ist das Blau des Himmels zu erkennen.](https://storage.googleapis.com/cardamonchai-media/2023-04-21/the-blue-zones-buch-dan-buettner-jpeg-imagine-f8f8f8_a9b1ba_2016_2560/640.webp 'Dan Buettner – "The Complete Blue Zones: Lessons From the Healthiest Places on Earth (The Blue Zones)"')
 
-Sein erstes Buch "The Blue Zones: Lessons for Living Longer From the People Who've Lived the Longest" sowie das für Mai angekündigte "The Complete Blue Zones: Lessons From the Healthiest Places on Earth (The Blue Zones)" werden im Podcast nur kurz angesprochen. Auf das Thema geht er dennoch intensiv ein und erklärt genau, was die Blue Zones sind und wie wir von ihren Bewohner\*innen lernen können. Neben der Ernährung betrachtete der Schriftsteller unter anderem auch die Entspannungsmethoden sowie den Umgang der Blue Zones Bewohner⋆innen mit Sport und Meditation.
+Sein erstes Buch "The Blue Zones: Lessons for Living Longer From the People Who've Lived the Longest" sowie das für Mai angekündigte "The Complete Blue Zones: Lessons From the Healthiest Places on Earth (The Blue Zones)" werden im Podcast nur kurz angesprochen. Auf das Thema geht er dennoch intensiv ein und erklärt genau, was die Blue Zones sind und wie wir von ihren Bewohner\*innen lernen können. Neben der Ernährung betrachtete der Schriftsteller unter anderem auch die Entspannungsmethoden sowie den Umgang der Blue Zones Bewohner\*innen mit Sport und Meditation.
 
 Die folgenden Green Zones benannte Dan Buettner:
 

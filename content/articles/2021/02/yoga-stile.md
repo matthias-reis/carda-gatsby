@@ -76,7 +76,7 @@ Der Schweiß gehört auch beim Bikram Yoga® zum Programm. In einem im Idealfall
 
 Hatha Yoga habt Ihr vermutlich schon mal ausprobiert, wenn Ihr in einem größeren Fitness-Studio oder Sportverein angemeldet seid. Beim Hatha Yoga handelt es sich um die in unseren Gefilden bekannteste Yoga-Art. In Deutschland gibt es inzwischen seit gut 50 Jahren Hatha-Schulen. Aus dieser Urform des Yoga haben sich die meisten Traditionen, Stile und Schulen entwickelt. Beim Hatha lernt Ihr Asanas und Pranayama (Atemtechniken), Entspannungstechniken und Meditation. Hatha Yoga eignet sich für Anfänger und Fortgeschrittene. Die Übungen sind relativ langsam und entspannt. Ihr habt also gerade auch am Anfang, wenn Euch noch nicht alle Asanas in Fleisch und Blut übergegangen sind, gut die Möglichkeit, Eure Haltung immer wieder zu beobachten und zu korrigieren. Hatha bedeutet "kraftvoll" und "bewusst". Der Ausdruck steht für das Zusammenspiel von Körper und Geist, von dem Yoga geprägt ist.
 
-Beim Iyengar Yoga lernt Ihr, die einzelnen Asanas statisch zu halten. Iyengar ist daher eher für Yogis⋆ni geeignet, die schon ein paar Stunden hinter sich haben. Der Stil ist besonders körperbetont. Es wird viel Wert auf Dehnung und Präzision gelegt. Ihr übt bei dieser Art genau wie beim Hatha mit Pranayama.
+Beim Iyengar Yoga lernt Ihr, die einzelnen Asanas statisch zu halten. Iyengar ist daher eher für Yogis\*ni geeignet, die schon ein paar Stunden hinter sich haben. Der Stil ist besonders körperbetont. Es wird viel Wert auf Dehnung und Präzision gelegt. Ihr übt bei dieser Art genau wie beim Hatha mit Pranayama.
 
 <Gallery name="yoga-stile-4" />
 

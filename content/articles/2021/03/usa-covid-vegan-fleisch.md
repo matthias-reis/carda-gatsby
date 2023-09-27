@@ -31,7 +31,7 @@ subTitle: COVID-Pandemie sorgt für Vegan-Aufschwung
 
 **Durch COVID ernähren sich immer mehr Amerikaner\*innen vegan. Das geht aus einer aktuellen Studie von Proagrica hervor, für die mehr als 1.000 erwachsene US-Bürger\*innen zu ihrem Einkauf- und Essverhalten befragt wurden.**
 
-Die weltweite Bedrohung durch das Corona-Virus treibt offenbar den Wandel voran. Laut der Proagrica Studie denken seit Beginn der Krise 39 Prozent der amerikanischen Verbraucher⋆innen darüber nach, in Zukunft vegan oder vegetarisch zu leben. 28 Prozent haben den pflanzlichen Proteinanteil ihrer Nahrung erhöht. 17 Prozent haben innerhalb des Jahres 2020 deutlich weniger Fleisch gegessen, als in den Jahren zuvor. In einem Statement zur Umfrage berichtet die Geschäftsführerin von Proagrica Graeme Mc Cracken:
+Die weltweite Bedrohung durch das Corona-Virus treibt offenbar den Wandel voran. Laut der Proagrica Studie denken seit Beginn der Krise 39 Prozent der amerikanischen Verbraucher\*innen darüber nach, in Zukunft vegan oder vegetarisch zu leben. 28 Prozent haben den pflanzlichen Proteinanteil ihrer Nahrung erhöht. 17 Prozent haben innerhalb des Jahres 2020 deutlich weniger Fleisch gegessen, als in den Jahren zuvor. In einem Statement zur Umfrage berichtet die Geschäftsführerin von Proagrica Graeme Mc Cracken:
 
 > "Wir wissen aus unserer persönlichen Erfahrung, dass die Pandemie unseren Umgang mit Lebensmitteln ändert. COVID-19 hat uns die Wichtigkeit einer gesunden Ernährungsweise deutlich vor Augen geführt. Viele sind jetzt bereit, sich auch über den Veganuary hinaus vegan oder vegetarisch zu ernähren."
 

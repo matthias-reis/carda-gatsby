@@ -108,7 +108,7 @@ Es war ein echtes Erlebnis, zu erforschen, in welche Richtung die einzelnen Song
 
 Wenn ich konnte, bin ich außerdem wandern gewesen. Ich wollte so viel Zeit wie möglich im Freien verbringen, um den Kopf frei zu kriegen. Die Bestimmtheit des Waldes diente mir als Inspirationsquelle. Wir haben hier und da sogar ein paar Feldaufnahmen aus der freien Natur über die Platte gestreut. Als eine Hommage an die Art des Waldes, den Geist in einer natürlichen Umgebung zu öffnen und mit einer Art Sinn für Kreativität zu erfüllen.
 
-Ich höre sehr viel Musik, die hauptsächlich aus Gesang besteht. Eine Sache, die mich an unserem Genre wirklich inspiriert, sind seine unendlichen Möglichkeiten, Klang auszufüllen. Eine Sache, die mir beim Schreiben unserer Musik wichtig erscheint ist, dabei einen Sinn für die Melodie zu entwickeln, die die Hörer⋆innen leitet. Ähnlich, wie der Gesang einen in der Musik mit Texte leiten würde.
+Ich höre sehr viel Musik, die hauptsächlich aus Gesang besteht. Eine Sache, die mich an unserem Genre wirklich inspiriert, sind seine unendlichen Möglichkeiten, Klang auszufüllen. Eine Sache, die mir beim Schreiben unserer Musik wichtig erscheint ist, dabei einen Sinn für die Melodie zu entwickeln, die die Hörer\*innen leitet. Ähnlich, wie der Gesang einen in der Musik mit Texte leiten würde.
 
 **Anne:**  Eure Musik ist sehr kreativ. Gibt es Künstler, von denen Ihr sagen würdet, dass sie Euch und Euren Stil beeinflusst haben?
 

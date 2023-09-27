@@ -69,7 +69,7 @@ Die Obst- und Snack-Boxen sind sicher auch eine tolle Option für Firmen. Es ist
 
 ## Frisches Bio-Gemüse direkt vom Feld
 
-etepetete macht den Landwirt⋆innen keine Vorschriften, wie das Gemüse auszusehen hat. Es kommt daher auch häufiger vor, dass "unsortierte Ware" in den Kisten landet. Das Bio-Start-up nimmt die komplette Ernte ab. Es muss nichts vernichtet werden.
+etepetete macht den Landwirt\*innen keine Vorschriften, wie das Gemüse auszusehen hat. Es kommt daher auch häufiger vor, dass "unsortierte Ware" in den Kisten landet. Das Bio-Start-up nimmt die komplette Ernte ab. Es muss nichts vernichtet werden.
 
 Mir persönlich gefällt dieser nachhaltige Ansatz wahnsinnig gut. Manchmal könnt Ihr dem Obst und Gemüse in der Box laut etepetete nicht auf den ersten Blick ansehen, warum es in der Box gelandet ist. In so einem Fall kann es sein, dass Übermengen abgenommen wurden. Die können durchaus mal anfallen, wenn eine Ernte üppiger als geplant ist.
 

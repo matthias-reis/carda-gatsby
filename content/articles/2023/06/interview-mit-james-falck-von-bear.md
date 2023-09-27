@@ -88,7 +88,7 @@ Statt uns von all dem zerstören zu lassen, sind wir, denke ich, stärker geword
 
 **Jamie:** Das ist sehr cool. Ich denke, für Bands ist es eine echte Herausforderung, besonders, wenn wir über Umweltverschmutzung und den Klimawandel reden. Den CO<sub>2</sub>-Verbrauch als Band zu verkleinern, ist fast unmöglich. Aber ich denke, am besten ist, es so grün und nachhaltig zu leben, wie wir können! Nachhaltigkeit ist etwas, das wir alle in unser Leben integrieren können. Ich glaube vor allem daran, dass der übertriebene Konsum von allem den Planeten zerstört. Das ist also etwas, für das wir alle die Verantwortung übernehmen sollten.
 
-Zum Thema Tierrechte kann ich Dir erzählen, dass drei von vier von und Vegetarier⋆innen sind. Ich bin jetzt seit sieben Jahren Veggie und ich versuche bei so vielen Produkten wie möglich zu den veganen Varianten zu greifen. Ich würde tatsächlich auch super gerne schon bald komplett vegan leben!
+Zum Thema Tierrechte kann ich Dir erzählen, dass drei von vier von und Vegetarier\*innen sind. Ich bin jetzt seit sieben Jahren Veggie und ich versuche bei so vielen Produkten wie möglich zu den veganen Varianten zu greifen. Ich würde tatsächlich auch super gerne schon bald komplett vegan leben!
 
 **Anne:** Die erste BEAR Platte kam 2010 raus, wenn ich richtig informiert bin. Gab es für Euch schon andere Projekte vor dieser Zeit?
 

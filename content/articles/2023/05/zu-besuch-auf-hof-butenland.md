@@ -31,7 +31,7 @@ Vorneweg: so viele emphatische, liebe und herzliche Tiere und Menschen habe ich 
 
 <Gallery name="butenland-anne-reis" />
 
-Als wir ankamen, begrüßte uns auf dem in den Bäumen über dem Hoftor ein großer Schwarm Krähen. Sie lassen sich in der Brutzeit jedes Jahr dort nieder und beglücken die Butenländer⋆innen mit ihrem zeternden Gesang. Das erzählten uns Karin und Jan später. Leider fallen jedes Jahr ein paar von ihnen aus dem Nest. Auch kurz vor unserer Ankunft am Hof war das wieder passiert. Jan bereitete den Jungvogel gerade auf seinen Transport in die Wildvogelhilfe vor – wir durften einen kurzen Blick in seine Box werfen.
+Als wir ankamen, begrüßte uns auf dem in den Bäumen über dem Hoftor ein großer Schwarm Krähen. Sie lassen sich in der Brutzeit jedes Jahr dort nieder und beglücken die Butenländer\*innen mit ihrem zeternden Gesang. Das erzählten uns Karin und Jan später. Leider fallen jedes Jahr ein paar von ihnen aus dem Nest. Auch kurz vor unserer Ankunft am Hof war das wieder passiert. Jan bereitete den Jungvogel gerade auf seinen Transport in die Wildvogelhilfe vor – wir durften einen kurzen Blick in seine Box werfen.
 
 ## Eberhard und Winfried kuscheln sich ins Stroh
 

@@ -55,7 +55,7 @@ Kurz vor der letzten Tauben-Mahnwache am Hamburger Bahnhof Altona kam ich mit An
 
 Hier gilt es zu verstehen, dass es sich bei den einen um "gemeine" Haus- beziehungsweise Stadttauben handelt und bei den anderen um die hochgezüchteten "Sportgeräte" von Taubenzüchter\*innen.
 
-In einigen Ländern wurden oder werden Stadttauben auch verehrt. Muslim⋆innen lernen zum Beispiel durch einige Suren im Koran Achtung vor diesen Tieren. Bei uns ist das leider ziemlich sicher noch nie der Fall gewesen. Die als Haustier oder Nutztier gehaltene Taube (Eier-, Feder- und Fleischlieferant) wurde irgendwann nicht mehr gebraucht, weil die Menschen zu anderen Nutztieren übergingen. Aus diesem Grund ließ man sie einfach fliegen.
+In einigen Ländern wurden oder werden Stadttauben auch verehrt. Muslim\*innen lernen zum Beispiel durch einige Suren im Koran Achtung vor diesen Tieren. Bei uns ist das leider ziemlich sicher noch nie der Fall gewesen. Die als Haustier oder Nutztier gehaltene Taube (Eier-, Feder- und Fleischlieferant) wurde irgendwann nicht mehr gebraucht, weil die Menschen zu anderen Nutztieren übergingen. Aus diesem Grund ließ man sie einfach fliegen.
 
 Diese Tauben, die von der Felstaube abstammen, suchten sich dann ihren Platz in den Städten, weil aufgrund der Gegebenheiten (hohe Häuser, große Bahnhöfe) sie ihren Urinstinkt hohes Haus = Fels zum Brüten und Leben ausleben konnten.
 

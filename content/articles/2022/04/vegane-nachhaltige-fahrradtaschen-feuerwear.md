@@ -78,7 +78,7 @@ Hinweis: Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle V
 
 ---
 
-Ihr habt genug gelesen und möchtet die tolle neue Fahrradtasche "Sam" von Feuerwear gerne gewinnen? Dann versucht doch Euer Glück! Sendet einfach **bis einschließlich 26. April 2022** eine E-Mail mit dem Betreff "Fahrradtasche" an anne.reis@soundsvegan.com. Ihr könnt nur einmal teilnehmen. Alle E-Mails mit dem richtigen Betreff landen automatisch im Lostopf. Der\*die Gewinner\*in wird am Morgen des 26. April gezogen. Das Los entscheidet. Ihr werdet dann per E-Mail informiert, ob Ihr gewonnen habt. Behaltet also am besten Euren E-Mail-Posteingang im Blick. Der⋆die Gewinnerin erhält einen Gutscheincode für eine "Sam" und kann sich dann direkt im Onlineshop von Feuerwear sein⋆ihr Lieblings-Einzelstück aussuchen. Ich wünsche Euch viel Glück!
+Ihr habt genug gelesen und möchtet die tolle neue Fahrradtasche "Sam" von Feuerwear gerne gewinnen? Dann versucht doch Euer Glück! Sendet einfach **bis einschließlich 26. April 2022** eine E-Mail mit dem Betreff "Fahrradtasche" an anne.reis@soundsvegan.com. Ihr könnt nur einmal teilnehmen. Alle E-Mails mit dem richtigen Betreff landen automatisch im Lostopf. Der\*die Gewinner\*in wird am Morgen des 26. April gezogen. Das Los entscheidet. Ihr werdet dann per E-Mail informiert, ob Ihr gewonnen habt. Behaltet also am besten Euren E-Mail-Posteingang im Blick. Der\*die Gewinnerin erhält einen Gutscheincode für eine "Sam" und kann sich dann direkt im Onlineshop von Feuerwear sein⋆ihr Lieblings-Einzelstück aussuchen. Ich wünsche Euch viel Glück!
 
 [Hier geht es zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/).
 

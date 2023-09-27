@@ -57,7 +57,7 @@ Die Arbeit schaut auf das Wachstum der veganen Wirtschaft, analysiert die Vorgä
 
 Angesichts des dreiprozentigen Rückgangs des Fleischmarktes (diese Industrie ist 1,8 Billionen Dollar schwer)[^4] kristallisiert sich langsam heraus, dass die vegane Wirtschaft dabei ist, eine wachsende Lücke zu füllen.
 
-Alles deutet darauf hin, dass vor allem die jüngeren Generationen diesen Wandel vorantreiben. Ihr liegen Themen wie Tierrechte, der Kampf gegen die Klimakatastrophe und die persönliche Gesundheit besonders am Herzen. Diese Aspekte stehen für Menschen unter 35 klar vor den Konsumentscheidungen. Innerhalb der Generationen Z und Millennials befinden sich die meisten Veganer⋆innen und Vegetarier⋆innen.
+Alles deutet darauf hin, dass vor allem die jüngeren Generationen diesen Wandel vorantreiben. Ihr liegen Themen wie Tierrechte, der Kampf gegen die Klimakatastrophe und die persönliche Gesundheit besonders am Herzen. Diese Aspekte stehen für Menschen unter 35 klar vor den Konsumentscheidungen. Innerhalb der Generationen Z und Millennials befinden sich die meisten Veganer\*innen und Vegetarier⋆innen.
 
 Laut dem Vegan Trade Journal machen sich 87,5 Prozent der Angehörigen der Generation Z Sorgen um die Umwelt, 41 Prozent sind der Meinung, dass der Klimawandel das wichtigste Thema ist, mit dem wir derzeit konfrontiert sind. 35 Prozent der Generation Z wollten zum Zeitpunkt der Zahlenerhebung bis zum Jahr 2021 fleischfrei sein – die vegane Revolution ist nicht mehr aufzuhalten.
 

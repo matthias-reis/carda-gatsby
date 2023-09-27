@@ -31,7 +31,7 @@ language: de
 Unlängst bekam ich von der lieben queenofnerds den Best Blog Award verliehen. Jetzt wollt Ihr sicher wissen, was es damit auf sich hat und wie man diesen wundervollen Wanderpokal an tolle Blogger\*innen weitergeben kann, oder? Das geht ganz einfach:
 
 - Nominierung in einem Blogartikel veröffentlichen und mit dem "Best Blog Award"-Bild versehen.
-- Dem\*der lieben Blogger⋆in, von dem⋆der man den Award bekommen hat, danken (ist hiermit geschehen)
+- Dem\*der lieben Blogger\*in, von dem⋆der man den Award bekommen hat, danken (ist hiermit geschehen)
 - Ein kleines Interview, bestehend aus 11 Fragen beantworten
 - Den Wanderpokal an 5-76 weitere Blogs verleihen
 - Den Blogger⋆innen Bescheid geben, dass den Blog Award bekommen haben

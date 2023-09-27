@@ -39,7 +39,7 @@ Das Besondere an der neuen Lebensmittel-Klimastudie ist, dass sie tief in die ve
 
 ## "Wenn wir Angst vor der Klimakatastrophe haben, müssen wir unsere Ernährungsgewohnheiten ändern"
 
-Die Wissenschaftler⋆innen fanden unter anderem heraus, dass die Lebensmittelherstellung für mehr als 35 Prozent aller Emissionen verantwortlich ist. Insgesamt sind das pro Jahr 17,3 Milliarden Tonnen Treibhausgas. Zum Vergleich: Die Emissionen der gesamten USA sind nicht mal halb so hoch.
+Die Wissenschaftler\*innen fanden unter anderem heraus, dass die Lebensmittelherstellung für mehr als 35 Prozent aller Emissionen verantwortlich ist. Insgesamt sind das pro Jahr 17,3 Milliarden Tonnen Treibhausgas. Zum Vergleich: Die Emissionen der gesamten USA sind nicht mal halb so hoch.
 
 ![](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-daenemark-243-jpg-imagine-080808_73685d_4267_3200/640.webp)
 

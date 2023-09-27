@@ -36,7 +36,7 @@ Der Brief wurde unter anderem auf der Homepage des Mamal Research Institute ver�
 
 > "Jeder von uns Wal-Expert\*innen ist der Meinung, dass dieses Thema genau jetzt von entscheidender Bedeutung ist.",
 
-schreiben die Forscher⋆innen innen in ihrem offenen Brief. Verschickt wurde der Aufruf mit der Betreffzeile "Die reale und unmittelbar bevorstehende Ausrottungsgefahr für Wale, Delfine und Tümmler".
+schreiben die Forscher\*innen innen in ihrem offenen Brief. Verschickt wurde der Aufruf mit der Betreffzeile "Die reale und unmittelbar bevorstehende Ausrottungsgefahr für Wale, Delfine und Tümmler".
 
 ## Wale und Delfine stehen kurz vor der Ausrottung
 

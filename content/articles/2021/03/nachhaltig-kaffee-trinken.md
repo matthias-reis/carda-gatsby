@@ -63,7 +63,7 @@ Vor Kurzem habe ich einen Kaffeeröster kennengelernt, der seine kleine Manufakt
 
 Auch bei der Kaffeezubereitung könnt in Sachen Nachhaltigkeit einiges richtig machen: Auf Kapselautomaten verzichten zum Beispiel. Auch Vollautomaten sind nicht besonders nachhaltig. Eine French Press oder eine formschöne Filterkanne, die sogar ohne Papierfilter auskommt, gibt dann schon mehr Umweltschutz-Punkte. Auch das alte Mokkakännchen, mit dem der Kaffee direkt auf dem Herd zubereitet wird, kommt ohne zusätzlichen Müll aus. Der Kaffee schmeckt dafür um Längen besser, als aus einer Wegwerfkapsel.
 
-Um den optimalen Geschmack zu erzielen, mahlt Ihr den Kaffee daheim selbst. Dem\*r Bohnendealer⋆in Eures Vertrauens tut Ihr damit auch noch einen Gefallen: Die Schlange vor dem Tresen wird nicht so lang, weil Ihr Ruck zuck fertig seid mit Eurem Einkauf. Vor allem aber hält sich bei der Lagerung das Aroma länger, als bei vorgemahlenem Kaffee. Eigentlich logisch.
+Um den optimalen Geschmack zu erzielen, mahlt Ihr den Kaffee daheim selbst. Dem\*r Bohnendealer\*in Eures Vertrauens tut Ihr damit auch noch einen Gefallen: Die Schlange vor dem Tresen wird nicht so lang, weil Ihr Ruck zuck fertig seid mit Eurem Einkauf. Vor allem aber hält sich bei der Lagerung das Aroma länger, als bei vorgemahlenem Kaffee. Eigentlich logisch.
 
 ## Auf Kaffeekapseln verzichten
 

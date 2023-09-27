@@ -29,13 +29,13 @@ language: de
 
 Im Podcast von Matt Morgan[^1] äußerte sich Noel Gallagher wie folgt zum Thema:
 
-> "Ich habe eine 11-köpfige Band. Nennen wir es doch beim Namen: Sie sind alle Veganer\*innen und Vegetarier\*innen und sie sind alle Teil meiner Band!"
+> "Ich habe eine 11-köpfige Band. Nennen wir es doch beim Namen: Sie sind alle Veganer\*innen und Vegetarier⋆innen und sie sind alle Teil meiner Band!"
 
 Die Ausstattung, die er selbst auf Tour benötigt, sei hingegen jedoch eher "klassisch" geblieben:
 
 > "Eine Flasche Whiskey, jede Menge Biere, Rotwein, Roséwein, Wasser, Chips und Schokolade".
 
-Zum Glück gibt es von diesen Genussmitteln ja heute auch jede Menge vegane Alternativen – so haben auch seine Bandkolleg\*innen was von seinen Tourbus-Vorräten. Und wer weiß: Wenn sie im Gegenzug ihre mit Noel teilen, gibt es bei ihm vielleicht auch schon gelegentlich zwischendurch die vegane Variante von Fish & Chips oder auch mal eine [leckere vegane Pizza](https://cardamonchai.amreis.de/2021/05/vegane-salami-pizza/).
+Zum Glück gibt es von diesen Genussmitteln ja heute auch jede Menge vegane Alternativen – so haben auch seine Bandkolleg⋆innen was von seinen Tourbus-Vorräten. Und wer weiß: Wenn sie im Gegenzug ihre mit Noel teilen, gibt es bei ihm vielleicht auch schon gelegentlich zwischendurch die vegane Variante von Fish & Chips oder auch mal eine [leckere vegane Pizza](https://cardamonchai.amreis.de/2021/05/vegane-salami-pizza/).
 
 ## Von "Was soll Veganismus überhaupt bringen?" zum veganen Tourbus
 

@@ -66,7 +66,7 @@ Alle Teile von Feuerwear sind Einzelstücke. Mit den unterschiedlichen Aufdrucke
 
 ## An der Feuerwear-Verlosung teilnehmen
 
-Ihr habt genug gelesen und möchtet das tolle Portemonnaie-Pärchen gerne gewinnen? Dann nutzt doch Eure Chance! Sendet einfach **bis einschließlich 13. Februar 2020** eine E-Mail mit dem Betreff "Valentins-Paar" an [anne.reis@soundsvegan.com](mailto:anne.reis@soundsvegan.com). Ihr könnt nur einmal teilnehmen. Alle E-Mails mit dem richtigen Betreff landen automatisch im Lostopf. Der\*die Gewinner⋆in wird am Morgen des 14. Februar gezogen. Das Los entscheidet. Am Tag der Liebe erwartet Euch also vielleicht eine schöne Überraschung. Behaltet also am besten Euren E-Mail-Posteingang im Blick.
+Ihr habt genug gelesen und möchtet das tolle Portemonnaie-Pärchen gerne gewinnen? Dann nutzt doch Eure Chance! Sendet einfach **bis einschließlich 13. Februar 2020** eine E-Mail mit dem Betreff "Valentins-Paar" an [anne.reis@soundsvegan.com](mailto:anne.reis@soundsvegan.com). Ihr könnt nur einmal teilnehmen. Alle E-Mails mit dem richtigen Betreff landen automatisch im Lostopf. Der\*die Gewinner\*in wird am Morgen des 14. Februar gezogen. Das Los entscheidet. Am Tag der Liebe erwartet Euch also vielleicht eine schöne Überraschung. Behaltet also am besten Euren E-Mail-Posteingang im Blick.
 
 <Gallery name="feuerwear-verlosung-valentinstag-5" />
 

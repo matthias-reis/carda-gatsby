@@ -35,7 +35,7 @@ language: de
 
 Eds Buch mit dem Titel "This Is Vegan Propaganda & Other Lies The Meat Industry Tells You" ("Das ist vegane Propaganda und andere Lügen, die uns die Fleischindustrie auftischt") ist eine Zusammenfassung seiner Gespräche, die er seit Jahren mit diversen führenden Expert\*innen führt.
 
-Der weltbekannte Aktivist richtet sein Debüt sowohl an Veganer\*innen als auch an Nicht-Veganer⋆innen. Er möchte damit nicht nur über die Fleischindustrie aufklären, sondern auch die globalen Auswirkungen der Tierausbeutung verdeutlichen.
+Der weltbekannte Aktivist richtet sein Debüt sowohl an Veganer\*innen als auch an Nicht-Veganer\*innen. Er möchte damit nicht nur über die Fleischindustrie aufklären, sondern auch die globalen Auswirkungen der Tierausbeutung verdeutlichen.
 
 ## Ein veganes Buch, das jede⋆r gelesen haben sollte
 

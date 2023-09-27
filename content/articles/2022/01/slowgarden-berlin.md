@@ -42,7 +42,7 @@ Wenn Ihr hier schon länger mitlest, habt Ihr David vielleicht schon kennengeler
 
 Mit seinem neuen Projekt Slowgarden möchte David Familien, Paaren, Singles und Wohngemeinschaften dabei unterstützen, lokales und saisonales Gemüse zu ernten und zu konsumieren. Er wünscht sich, dass seine Garten-Idee zu einer großen Gemeinschaft heranwächst.
 
-Damit der Anbau gelingt, stellt er allen Gärtner⋆innen den besten bio-veganen Dünger für ihr Gemüse zur Verfügung. Außerdem dürfen sich alle an gemeinschaftlichen Obstbäumen und Kräuterbeeten, in denen David auch mal so ausgefallene Gewächse wie Ysop anpflanzt, bedienen. Für Inspiration ist also auch gesorgt.
+Damit der Anbau gelingt, stellt er allen Gärtner\*innen den besten bio-veganen Dünger für ihr Gemüse zur Verfügung. Außerdem dürfen sich alle an gemeinschaftlichen Obstbäumen und Kräuterbeeten, in denen David auch mal so ausgefallene Gewächse wie Ysop anpflanzt, bedienen. Für Inspiration ist also auch gesorgt.
 
 ## Mit den Öffentlichen zum eigenen Gemüsegarten
 

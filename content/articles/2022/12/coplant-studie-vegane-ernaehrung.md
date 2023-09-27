@@ -34,7 +34,7 @@ Die Wissenschaftler\*innen wünschen sich vor allem Klarheit über die Vor- und 
 
 Zwar finden die vegane, vegetarische und pescetarische Ernährungsweise in der Gesellschaft immer mehr Anklang, belastbare Daten liegen den Behörden jedoch hierzulande kaum vor. Weil es längst Zeit ist, hier Abhilfe zu schaffen, rief das BfR die COPLANT-Studie ins Leben.
 
-Besonders die vegane Ernährungsweise wurde im deutschsprachigen Raum aus wissenschaftlicher Sicht bisher eher nachlässig behandelt. So schließen die aktuell größten epidemiologischen Projekte in Deutschland derzeit Veganer⋆innen gar nicht erst mit ein. Hinzu kommt, dass die hier eingesetzten Instrumente zur Ernährungserhebung einer komplett pflanzenbasierten Ernährung nicht gerecht werden.
+Besonders die vegane Ernährungsweise wurde im deutschsprachigen Raum aus wissenschaftlicher Sicht bisher eher nachlässig behandelt. So schließen die aktuell größten epidemiologischen Projekte in Deutschland derzeit Veganer\*innen gar nicht erst mit ein. Hinzu kommt, dass die hier eingesetzten Instrumente zur Ernährungserhebung einer komplett pflanzenbasierten Ernährung nicht gerecht werden.
 
 ## Vorteile pflanzenbasierter Ernährung für das Klima und die Gesundheit
 

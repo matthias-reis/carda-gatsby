@@ -142,7 +142,7 @@ Das ging so weit, dass ich 2012 mein Schlagzeug verkaufte und für drei Jahre ka
 
 **Anne:** Arbeitest Du für Heavybird mit anderen Musiker\*innen zusammen?
 
-**Evan:** Früher habe ich das nicht gemacht. Ich hatte einen Freund, der meine Alben abgemischt hat. Für meine neueste Veröffentlichung mache ich das Mixing selbst, aber ich habe einen Bassisten, einen Violinisten und einen Cellisten, die alle wundervolle Dinge beigesteuert haben, die ich nie zu träumen gewagt hätte. Ich habe außerdem wirklich guten Input von einigen befreundeten Musiker⋆innen bekommen. Sie haben mir dabei geholfen, diese Songs auf ein neues Level zu heben.
+**Evan:** Früher habe ich das nicht gemacht. Ich hatte einen Freund, der meine Alben abgemischt hat. Für meine neueste Veröffentlichung mache ich das Mixing selbst, aber ich habe einen Bassisten, einen Violinisten und einen Cellisten, die alle wundervolle Dinge beigesteuert haben, die ich nie zu träumen gewagt hätte. Ich habe außerdem wirklich guten Input von einigen befreundeten Musiker\*innen bekommen. Sie haben mir dabei geholfen, diese Songs auf ein neues Level zu heben.
 
 **Anne:** Welche Künstler⋆innen inspirieren Dich am meisten? Wer hatte den größten Einfluss auf Deine Musik?
 

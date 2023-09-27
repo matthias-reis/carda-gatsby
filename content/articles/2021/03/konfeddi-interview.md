@@ -113,7 +113,7 @@ Du kannst Musik heute sehr gut daheim am PC, zum Beispiel im Schlafzimmer, produ
 
 ## "Wir müssen alle etwas tun"
 
-**Jermaine:** Diese eine klassische Aktion, die wir als Band unterstützen, gibt es im Moment nicht. Uns ist es allerdings auch wichtiger, insgesamt an unserer Einstellung zu arbeiten und damit anfangen nachhaltiger zu leben. Das geht zum Beispiel beim Fleischkonsum los, den wir im vergangenen Jahr deutlich reduziert haben. Wir versuchen unseren Alltag aber auch sonst nachhaltiger zu gestalten. Sicher sind wir nicht die größten Aktivist⋆innen. Wir finden, wenn jede⋆r zu Hause versucht, seinen Alltag umzustellen, wäre auch damit der Welt schon geholfen.
+**Jermaine:** Diese eine klassische Aktion, die wir als Band unterstützen, gibt es im Moment nicht. Uns ist es allerdings auch wichtiger, insgesamt an unserer Einstellung zu arbeiten und damit anfangen nachhaltiger zu leben. Das geht zum Beispiel beim Fleischkonsum los, den wir im vergangenen Jahr deutlich reduziert haben. Wir versuchen unseren Alltag aber auch sonst nachhaltiger zu gestalten. Sicher sind wir nicht die größten Aktivist\*innen. Wir finden, wenn jede⋆r zu Hause versucht, seinen Alltag umzustellen, wäre auch damit der Welt schon geholfen.
 
 **Anne:** Die aktuelle Weltlage ist ziemlich angespannt. Politiker\*innen pochen entweder weiter auf ihre Traditionen oder haben nur jede Menge leere Versprechungen für uns parat. Während Fridays For Future auf die Straße geht und immer mehr Menschen für das Klima kämpfen. Wenn Ihr die Möglichkeit hättet, mit eine⋆r der Anführer⋆innen dieser Welt zu reden: Wer wäre es und was würdet Ihr ihm⋆ ihr sagen?
 

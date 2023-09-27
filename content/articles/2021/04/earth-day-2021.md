@@ -46,7 +46,7 @@ Was wir täglich zu uns nehmen, wirkt sich auf das Klima und die Umwelt aus. Je 
 
 ## Bildung im Bereich Klimaschutz und Ökologie
 
-In Deutschland laufen die Aktionen rund um den Earth Day beim gemeinnützigen Deutschen Komitee e. V. von Earth Day International zusammen. Der Verein arbeitet aktiv für die Bildung, bietet den Aktivist⋆innen eine Plattform und wirbt mit seinem Programm für stärkeres Umwelt-Engagement.
+In Deutschland laufen die Aktionen rund um den Earth Day beim gemeinnützigen Deutschen Komitee e. V. von Earth Day International zusammen. Der Verein arbeitet aktiv für die Bildung, bietet den Aktivist\*innen eine Plattform und wirbt mit seinem Programm für stärkeres Umwelt-Engagement.
 
 Dabei gilt das Grass Roots Prinzip – jede⋆r ist herzlich zum Mitmachen eingeladen. Das kann bedeuten, wie ich über den Earth Day zu berichten, oder zum Beispiel mit daran zu arbeiten, jungen Menschen den Umweltschutzgedanken weiterzugeben.
 

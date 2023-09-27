@@ -224,7 +224,7 @@ But maybe the biggest milestone was to realise, that I have a big part in buildi
 
 **Inbar:** Thank you, Anne!
 
-**⋆Note:** Due to the ongoing Corona Crisis the workshop on March, 21st is cancelled for prevention reasons.
+**\*Note:** Due to the ongoing Corona Crisis the workshop on March, 21st is cancelled for prevention reasons.
 
 [^1]: [Inbars cooking classes at Kurkuma Hamburg](https://www.kurkuma-hamburg.de/israelisch/)
 [^2]: [Mitternachtsbus Hamburg](https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)

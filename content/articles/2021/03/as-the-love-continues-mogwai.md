@@ -85,6 +85,6 @@ In der Vergangenheit haben es alle paar Jahre alternative Bands in die Charts ge
 
 ## "As The Love Continues" spiegelt den Zeitgeist wider
 
-All diese Musiker⋆innen vereint eins: Mit ihren Songs haben sie es geschafft, den jeweiligen Zeitgeist exakt widerzuspiegeln. Und das ist Mogwai mit "As The Love Continues" im Jahr 2021 wieder gelungen – und das ganz ohne Worte.
+All diese Musiker\*innen vereint eins: Mit ihren Songs haben sie es geschafft, den jeweiligen Zeitgeist exakt widerzuspiegeln. Und das ist Mogwai mit "As The Love Continues" im Jahr 2021 wieder gelungen – und das ganz ohne Worte.
 
 Ihr wollt wissen, wie das Album ist? Für mich ist es ganz klar eines der besten, die Mogwai bisher veröffentlicht haben. Ich kann Euch nur raten, es zu hören. Ihr verpasst sonst vielleicht die Platte des Jahres.

@@ -76,7 +76,7 @@ Was ich ganz klar sagen kann, ist, dass mich der Ehrgeiz gepackt hat. Ich meine,
 
 ## Kopfstand-Tipps
 
-Für Kopfstand-Anfänger⋆in können vorbereitende Übungen wie zum Beispiel der Schulterstütz oder das Brett sehr hilfreich sein. Sie helfen, die nötige Stabilität aufzubauen.
+Für Kopfstand-Anfänger\*in können vorbereitende Übungen wie zum Beispiel der Schulterstütz oder das Brett sehr hilfreich sein. Sie helfen, die nötige Stabilität aufzubauen.
 
 Mit dem Kopfstand-Hocker schafft man es definitiv schneller, einen Kopfstand zu machen, als ohne. Dabei sollte man sich am Anfang nicht überfordern und die Übungen zeitlich nicht zu weit ausdehnen. Weniger ist mehr - lieber viele kleine Einheiten, als eine große pro Woche. Nach und nach kann man sich dann steigern und wird immer sicherer.
 

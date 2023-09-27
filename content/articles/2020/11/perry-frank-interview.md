@@ -74,7 +74,7 @@ Ich bin sehr stolz auf das neue Album. Was ich besonders liebe ist das es auch e
 
 **Anne:** Wie bist Du auf den Namen "Reverie" gekommen?
 
-**Francesco:** "Reverie" hat zwei verschiedene Bedeutungen: Zuerst einmal ist es ein Tribut an Debussy, einen meine\*r Lieblings-Komponist⋆innen. "Reverie" bedeutet "Tagträumen". Als ich die Songs ausgesucht habe, die ich über die Jahre geschrieben hatte, hatte ich immer einen Mann im Kopf, der an einem heißen Sommertag auf einem Feld einschläft. Nur für eine Minute.
+**Francesco:** "Reverie" hat zwei verschiedene Bedeutungen: Zuerst einmal ist es ein Tribut an Debussy, einen meine\*r Lieblings-Komponist\*innen. "Reverie" bedeutet "Tagträumen". Als ich die Songs ausgesucht habe, die ich über die Jahre geschrieben hatte, hatte ich immer einen Mann im Kopf, der an einem heißen Sommertag auf einem Feld einschläft. Nur für eine Minute.
 
 In dieser Minute träumt er sein ganzes Leben und am Ende kann er nicht sagen, ob er wieder wach ist oder noch schläft. Ob er gelebt hat, oder ob sein ganzes Leben nur ein Traum war.
 

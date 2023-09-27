@@ -51,7 +51,7 @@ Aus einer Studie der Universität Otago geht hervor, dass die Bevölkerungs-weit
 
 ## "Die Kinder erwarten von uns, dass wir handeln!"
 
-Viele Politiker⋆innen in Neuseeland freuen sich über den neuen Lehrplan für die Schüler⋆innen.
+Viele Politiker\*innen in Neuseeland freuen sich über den neuen Lehrplan für die Schüler⋆innen.
 
 > "Jedes Jahr, das sie bis jetzt erlebt haben, war das heißeste seit Beginn der Aufzeichnungen",
 

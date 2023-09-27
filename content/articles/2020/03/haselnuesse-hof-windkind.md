@@ -107,7 +107,7 @@ Silvia und David informieren Euch im Laufe des Jahres darüber, wie es Eurem Has
 
 ## So geht es weiter
 
-Wenn Euch das Konzept gefällt und die Nüsse geschmeckt haben, könnt Ihr die Patenschaft im nächsten Jahr fortsetzen. Wenn das der Fall ist, bekommt Ihr wieder vier Kilo Nüsse zugesendet. Als waschechte⋆r Baumpat⋆in dieses mal zum Vorzugspreis von 42 Euro.
+Wenn Euch das Konzept gefällt und die Nüsse geschmeckt haben, könnt Ihr die Patenschaft im nächsten Jahr fortsetzen. Wenn das der Fall ist, bekommt Ihr wieder vier Kilo Nüsse zugesendet. Als waschechte\*r Baumpat⋆in dieses mal zum Vorzugspreis von 42 Euro.
 
 Immer nach Ablauf eines Jahres könnt Ihr dann entscheiden, ob Ihr weiter Pat⋆innen bleiben möchtet. Der Preis bleibt ab dem zweiten Jahr unverändert. Für den Versand kommen je nach Land noch ein paar Euro dazu. Die Kartons, in denen die Nüsse verschickt werden, sind zu 100 Prozent biologisch abbaubar und frei von Plastik. Auch die Druckertinte ist umweltfreundlich.
 

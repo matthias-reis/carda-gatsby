@@ -70,7 +70,7 @@ Beim Spazierengehen entspannen sich die Muskeln und Nerven. Das beugt Haltungssc
 
 Menschen, die regelmäßig spazierengehen leiden im Durchschnitt weniger oft an Burn-out und anderen stressbedingten Krankheiten. Therapeuten raten ihren Patient\*innen aus gutem Grund dazu, regelmäßig spazieren zu gehen. Es soll sogar Fälle geben, in denen Menschen mit Depressionen dauerhaft auf den Einsatz von Medikamenten verzichten konnten.
 
-Das Robert-Koch-Institut hat dazu eine Studie veröffentlicht, aus der hervorgeht, dass körperliches Training ähnlich wirksam sein kann, wie bestimmte Medikamente. Natürlich sollte man sowas immer vorher genau mit seine⋆r Ärzt⋆in abstimmen.
+Das Robert-Koch-Institut hat dazu eine Studie veröffentlicht, aus der hervorgeht, dass körperliches Training ähnlich wirksam sein kann, wie bestimmte Medikamente. Natürlich sollte man sowas immer vorher genau mit seine\*r Ärzt⋆in abstimmen.
 
 ## Den Kreislauf in Schwung bringen
 

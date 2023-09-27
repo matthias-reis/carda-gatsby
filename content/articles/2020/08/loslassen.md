@@ -84,7 +84,7 @@ Fragt Euch selbst, was Euch jetzt gut tun würde? Was würde Euch genau in diese
 
 Was ist das Positive an diesem Moment? Was ist gut daran, dass Ihr Euch in Eurem Leben dort befindet, wo Ihr jetzt in diesem Moment seid? Wenn im Leben immer eine Situation oder Begegnung zur nächsten führt: Was könnte sich hinter der nächsten Tür verbergen? Wie könnt Ihr dafür sorgen, diesen Moment so positiv und glücklich wie möglich zu erleben?
 
-Nehmt Euch für die nächsten Tage etwas vor, das Euer Glück verbessern könnte. Das können Kleinigkeiten sein, wie ein Spaziergang mit ein\*er lieben Freund⋆in oder ein selbstgemachtes Eis zum Nachtisch. Tragt Euch diese Kleinigkeiten ruhig in Euren Kalender ein und freut Euch darauf. Sieben Tage lang jeden Tag eine Kleinigkeit ergibt schon eine ganze glückliche Woche.
+Nehmt Euch für die nächsten Tage etwas vor, das Euer Glück verbessern könnte. Das können Kleinigkeiten sein, wie ein Spaziergang mit ein\*er lieben Freund\*in oder ein selbstgemachtes Eis zum Nachtisch. Tragt Euch diese Kleinigkeiten ruhig in Euren Kalender ein und freut Euch darauf. Sieben Tage lang jeden Tag eine Kleinigkeit ergibt schon eine ganze glückliche Woche.
 
 ## Schritt 3 - Verblassen
 

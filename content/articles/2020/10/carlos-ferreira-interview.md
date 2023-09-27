@@ -155,7 +155,7 @@ Allmählich fangen die Menschen an zu verstehen, dass vegan sein weit über eine
 
 **Carlos:** Es ist ein komplexes Problem mit sehr vielen Variablen. Sicherlich gibt es kulturelle Fragen, aber ich denke, dass die Schwierigkeit, dies zu verstehen, direkt mit der intellektuellen Gefangenschaft zusammenhängt, die durch den Kapitalismus verewigt wurde. Tausende von Menschen verhungern weiterhin jeden Tag auf perverse Weise. Das ist kein Zufall. Es ist ein Projekt.
 
-Wenn Du Deinen Profit erhalten möchtest, brauchst Du eine verzweifelte Masse von Menschen, die konsumieren möchten. Es ist ein System, das nur durch seine Ausbeutung von Arbeiter⋆innen, Tieren und des ganzen Planeten bestehen kann.
+Wenn Du Deinen Profit erhalten möchtest, brauchst Du eine verzweifelte Masse von Menschen, die konsumieren möchten. Es ist ein System, das nur durch seine Ausbeutung von Arbeiter\*innen, Tieren und des ganzen Planeten bestehen kann.
 
 **Anne:** Denkst Du, dass wir alle konsequenter werden müssen?
 

@@ -157,7 +157,7 @@ Post-Rock ist in Finnland kein großes Ding. Wenn Du nach Belgien kommst hast Du
 
 **Janne:** Ich denke, die Essenz der kompletten Post-Rock Szene besteht in der Übertragung von Emotionen. Du kannst das an der Atmosphäre dieser Festivals spüren.
 
-**Esa:** Ganze ehrlich: Das komplette Organisations-Team steckt eine Menge Überlegungen und Liebe in den Aufbau dieses Festivals. Man kann wirklich sehen, dass dieses Festival von Post-Liebhaber⋆innen für Post-Liebhaber⋆innen gemacht wird. Sie haben sich dafür entschieden, dass ihnen die Qualität wichtiger als die Quantität ist. Sie stecken viel Liebe und Leidenschaft in jedes Detail. Die DIY-Atmosphäre und die unglaubliche Herzlichkeit in diesem Genre sind sehr schön und berührend. Wenn man das mit den gleichgesinnten Festival-Gästen kombiniert ist das Ergebnis reine Magie.
+**Esa:** Ganze ehrlich: Das komplette Organisations-Team steckt eine Menge Überlegungen und Liebe in den Aufbau dieses Festivals. Man kann wirklich sehen, dass dieses Festival von Post-Liebhaber\*innen für Post-Liebhaber⋆innen gemacht wird. Sie haben sich dafür entschieden, dass ihnen die Qualität wichtiger als die Quantität ist. Sie stecken viel Liebe und Leidenschaft in jedes Detail. Die DIY-Atmosphäre und die unglaubliche Herzlichkeit in diesem Genre sind sehr schön und berührend. Wenn man das mit den gleichgesinnten Festival-Gästen kombiniert ist das Ergebnis reine Magie.
 
 **Anne:** Gibt es andere Post-Rock Events, die Ihr mögt und gerne erwähnen würdet?
 

@@ -83,7 +83,7 @@ Vor Kurzem habe ich mich in The 1975, These New Puritans und MUNA verguckt. Ich 
 
 **John:** Neben meiner Arbeit an der Akustik EP, habe ich auch angefangen an neuen Song-Ideen zu feilen. Es gibt bis jetzt zwei oder drei, die mich wirklich fesseln. Mein Ziel ist, dass es dieses mal nicht wieder acht Jahre dauert, bis ich etwas rausbringe. Ich versuche mich daran zu erinnern!
 
-Als Einstieg in sein letztes Album "On A Spiral" empfiehlt John seinen Hörer⋆innen die Songs "I Go Too" und "Finish It".
+Als Einstieg in sein letztes Album "On A Spiral" empfiehlt John seinen Hörer\*innen die Songs "I Go Too" und "Finish It".
 
 <iframe
   style="border: 0; width: 100%; height: 120px;"

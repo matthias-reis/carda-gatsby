@@ -37,7 +37,7 @@ Auf einen tiefen Einblick in die gesundheitlichen Vor- und Nachteile der untersc
 
 ![Filmplakat "I Could Never Go Vegan": Ein Schwein mit einer brennenden Erdkugel über dem Kopf](https://storage.googleapis.com/cardamonchai-media/2022-12-05/i-could-never-go-vegan-jpeg-imagine-080808_57382c_3508_4961/640.webp "Filmplakat \\\\"I Could Never Go Vegan\\\\". Bild: I Could Never Go Vegan Ltd.")
 
-Thomas Pickering sitzt in der Doku mit unterschiedlichen Menschen zusammen – darunter auch vegane Athlet\*innen, Ernährungswissenschaftler⋆innen und andere Forschende. Gemeinsam mit ihnen geht er den Gegenargumenten auf die Spur und erläutert Themen und beantwortet Fragen zum Thema Veganismus.
+Thomas Pickering sitzt in der Doku mit unterschiedlichen Menschen zusammen – darunter auch vegane Athlet\*innen, Ernährungswissenschaftler\*innen und andere Forschende. Gemeinsam mit ihnen geht er den Gegenargumenten auf die Spur und erläutert Themen und beantwortet Fragen zum Thema Veganismus.
 
 Neben der weltberühmten Tierethik-Aktivistin und Autorin Dr. Melanie Joy kommen auch Olympia-Siegerin Dotsie Bausch, Powerlifting Champion Sophia Ellis, die Rezeptkünstler David und Stephen Flynn sowie der Bestseller-Autor Dr. Alan Desmond zu Wort.
 

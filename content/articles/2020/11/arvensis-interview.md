@@ -78,7 +78,7 @@ Dani legte den Grundstein für Arvensis im Jahr 2011. Seit 2013 nimmt sie Platte
 
 ## "Ich habe mit wundervollen Künstler\*innen zusammengearbeitet"
 
-**Dani:** Ja! Ich hatte die Freude mit zweien meiner Freund⋆innen, beide wundervolle Künstler⋆innen, zusammenzuarbeiten. Der eine ist Murice White of Pyre. Er ist auf "Stasis" und "Wuther" zu hören. Pyre hat einen ziemlichen Lärm gemacht. Er hatte einen ziemlich positiven Einfluss auf meine Musik. Der andere ist [Chris Hunt](/2020/08/chris-hunt-torrent-merigold-independent/), den ich als Künstler sehr verehre. Er ist in meinem Song "At-To-Start" zu hören und bringt meinem Sound den elektronischen Punch mit!
+**Dani:** Ja! Ich hatte die Freude mit zweien meiner Freund\*innen, beide wundervolle Künstler⋆innen, zusammenzuarbeiten. Der eine ist Murice White of Pyre. Er ist auf "Stasis" und "Wuther" zu hören. Pyre hat einen ziemlichen Lärm gemacht. Er hatte einen ziemlich positiven Einfluss auf meine Musik. Der andere ist [Chris Hunt](/2020/08/chris-hunt-torrent-merigold-independent/), den ich als Künstler sehr verehre. Er ist in meinem Song "At-To-Start" zu hören und bringt meinem Sound den elektronischen Punch mit!
 
 **Anne:** Gibt es Künstler⋆innen, die Du als besonderen Einfluss auf Deine Arbeit und Deinen Style bezeichnen würdest?
 

@@ -37,7 +37,7 @@ In den insgesamt 30 Sekunden dreht sich alles ums Thema Speziesismus. Sprich: di
 
 > "Die Anschauung, nach der der Mensch allen anderen Arten überlegen und daher berechtigt sei, deren Vertreter nach seinem Gutdünken zu behandeln."
 
-Der Frage "[Warum wir Hunde lieben, Schweine essen und Kühe anziehen](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)" sind schon große Autor⋆innen nachgegangen und es wurden zahlreiche Bücher dazu geschrieben und Filme gedreht. Das alles kurz und prägnant in lediglich einer halben Minute zusammengefasst zu sehen, lässt einen sprachlos zurück – obwohl im VIVA!-Clip kein Blut fließt.
+Der Frage "[Warum wir Hunde lieben, Schweine essen und Kühe anziehen](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)" sind schon große Autor\*innen nachgegangen und es wurden zahlreiche Bücher dazu geschrieben und Filme gedreht. Das alles kurz und prägnant in lediglich einer halben Minute zusammengefasst zu sehen, lässt einen sprachlos zurück – obwohl im VIVA!-Clip kein Blut fließt.
 
 ## Warum behandeln wir unseren Hund anders, als ein Schwein?
 

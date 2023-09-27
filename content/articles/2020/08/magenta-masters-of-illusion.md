@@ -66,7 +66,7 @@ Auf "Masters Of Illusion" wirkten John Mitchell: (Vocals auf "A Gift From God"),
 
 Sänger Steve Reed sagte gegenüber No Other Press &amp; Publicity:
 
-> "Mein Bruder und ich sind beide große Fans der Classic Hammer und Universal Horrorfilme. Ich erinnere mich daran, wie wir uns als Kinder die 'Horror Double Bills' Specials auf BBC2 mit großer Begeisterung angesehen haben. Als wir auf der Suche nach einem Konzept für unser neues Album waren, kam mir die Idee, es auf meinen Lieblingsschauspieler⋆innen aus diesen Filmen basieren zu lassen. Der Clou ist, dass die Stories sich mehr um ihr Privatleben drehen, als um die Charaktere, die sie in ihren Filmen verkörpern."
+> "Mein Bruder und ich sind beide große Fans der Classic Hammer und Universal Horrorfilme. Ich erinnere mich daran, wie wir uns als Kinder die 'Horror Double Bills' Specials auf BBC2 mit großer Begeisterung angesehen haben. Als wir auf der Suche nach einem Konzept für unser neues Album waren, kam mir die Idee, es auf meinen Lieblingsschauspieler\*innen aus diesen Filmen basieren zu lassen. Der Clou ist, dass die Stories sich mehr um ihr Privatleben drehen, als um die Charaktere, die sie in ihren Filmen verkörpern."
 
 Robert Reed fügte hinzu:
 

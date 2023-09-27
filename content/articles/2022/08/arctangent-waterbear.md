@@ -58,7 +58,7 @@ Falls Ihr WaterBear noch nicht kennt (ich habe [hin](/2021/02/waterbear-streamin
 
 ![WaterBear](https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-02-waterbear-1-l-jpeg-imagine-080808_404243_1440_1080/640.webp 'Der WaterBear Streamingdienst')
 
-Hinter dem Namen WaterBear steckt eine Gruppe passionierter Aktivist⋆innen, die Storytelling dafür nutzen möchten, in einer Welt aus Verschmutzung und Gier einen Unterschied zu machen.
+Hinter dem Namen WaterBear steckt eine Gruppe passionierter Aktivist\*innen, die Storytelling dafür nutzen möchten, in einer Welt aus Verschmutzung und Gier einen Unterschied zu machen.
 
 Sie wollen eine andere Perspektive zeigen und haben aus diesem Grund eine interaktive Streaming-Plattform ins Leben gerufen, die sich um die Zukunft unseres Planeten dreht. Ihr Service gibt Menschen Zugang zu mit Awards ausgezeichneten Inhalten, die dazu bestärken, einen tieferen Blick zu wagen, zu lernen und sich zu engagieren – Biodiversität, Nachhaltigkeit, Gemeinschaft und Vielfalt sind nur einige der auf WaterBear vertretenen Themen.
 

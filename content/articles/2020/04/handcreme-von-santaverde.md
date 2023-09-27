@@ -66,7 +66,7 @@ Alle Produkte sind Vegan Society zertifiziert und mit dem Siegel für strengste
 
 <small>
   Aloe Vera Saft\*, Weingeist\*, pflanzl. Emulgator, pflanzl. Fettalkohol,
-  Mandelöl⋆, Sheabutter⋆, pflanzl. Glycerin, Kokosöl⋆, pflanzl. Betain,
+  Mandelöl\*, Sheabutter⋆, pflanzl. Glycerin, Kokosöl⋆, pflanzl. Betain,
   Kakaobutter⋆, Sanddornextrakt⋆, Zistrosenextrakt⋆, Xanthan, Vitamin E,
   Sonnenblumenöl⋆, pflanzl. Anissäure, Vitamin C Palmitat, pflanzl.
   Levulinsäure, pflanzl. Natriumlevulinat, Natriumhydroxid, Lavendelöl\*,

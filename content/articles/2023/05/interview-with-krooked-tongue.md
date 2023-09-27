@@ -82,7 +82,7 @@ languageLink: /2023/05/krooked-tongue-interview/
 
 ![Krooked Tongue – "Deathproof"](https://storage.googleapis.com/cardamonchai-media/2023-05-11/krooked-tongue-death-proof-jpeg-imagine-080808_3b3839_4000_4000/640.webp "Krooked Tongue – "Deathproof"")
 
-**Krooked Tongue:** Nah, we wouldn't describe ourselves as a political band, even though we do discuss certain topics in that field from time to time. I think it just comes down to being able to know that nothing really ever changes with those in charge. These people don't give a fu⋆⋆ about the general population. So, if nothing else, be aware of that. It's us versus them, as much as they manipulate everyone into picking a side within themselves.
+**Krooked Tongue:** Nah, we wouldn't describe ourselves as a political band, even though we do discuss certain topics in that field from time to time. I think it just comes down to being able to know that nothing really ever changes with those in charge. These people don't give a fu\*⋆ about the general population. So, if nothing else, be aware of that. It's us versus them, as much as they manipulate everyone into picking a side within themselves.
 
 **Anne:** So, after touring the UK you planning to visit the continent? Is there any chance to see you live on stage in Germany? Or are you going back to the studio after the last show?
 

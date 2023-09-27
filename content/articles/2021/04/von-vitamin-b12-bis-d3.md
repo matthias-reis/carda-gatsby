@@ -13,7 +13,7 @@ slug: von-vitamin-b12-bis-d3
 errors: {}
 title: Von Vitamin B12 bis D3
 subTitle: Nahrungsergänzungsmittel für Veganer*innen
-seoTitle: Nahrungsergänzungsmittel für Veganer⋆innen – Was empfiehlt sich?
+seoTitle: Nahrungsergänzungsmittel für Veganer*innen – Was empfiehlt sich?
 description: Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen?
 copyright: ''
 labels:
@@ -33,7 +33,7 @@ language: de
 
 **Nahrungsergänzungsmittel nehmen in der heutigen Zeit die meisten in irgendeiner Form zu sich. Doch welche empfiehlt es sich zu nehmen? Besonders für Veganer\*innen?**
 
-Eines ist schon mal klar: Als Veganer\*in solltet ihr auf jeden Fall dauerhaft Vitamin B12 einnehmen. Da es dem Futter der Tiere, die wir nicht essen, zugesetzt wird und wir es anders nicht aufnehmen können, ist das der einzige derzeit bekannte sichere Weg, den Vitamin-B12-Speicher stets gut gefüllt zu halten. Das bedeutet natürlich nicht, dass Nicht-Veganer⋆innen keinen B12-Mangel erleiden können. Weil damit nicht zu spaßen ist, lässt man am besten bei jedem Blutbild auch den Holotranscobalamin-Wert (Holo-TC) messen. **Achtung:** Das müsst Ihr auf alle Fälle vorher anmelden und meistens auch selbst bezahlen. Informiert Euch also am besten in der Praxis Eures Vertrauens.
+Eines ist schon mal klar: Als Veganer\*in solltet ihr auf jeden Fall dauerhaft Vitamin B12 einnehmen. Da es dem Futter der Tiere, die wir nicht essen, zugesetzt wird und wir es anders nicht aufnehmen können, ist das der einzige derzeit bekannte sichere Weg, den Vitamin-B12-Speicher stets gut gefüllt zu halten. Das bedeutet natürlich nicht, dass Nicht-Veganer\*innen keinen B12-Mangel erleiden können. Weil damit nicht zu spaßen ist, lässt man am besten bei jedem Blutbild auch den Holotranscobalamin-Wert (Holo-TC) messen. **Achtung:** Das müsst Ihr auf alle Fälle vorher anmelden und meistens auch selbst bezahlen. Informiert Euch also am besten in der Praxis Eures Vertrauens.
 
 ## Vitamin B12 ist Pflicht
 

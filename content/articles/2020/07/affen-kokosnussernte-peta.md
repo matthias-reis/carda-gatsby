@@ -51,7 +51,7 @@ Die Aktivist\*innen haben insgesamt acht Farmen besucht und sich dort umgesehen.
 
 ## Affen werden mit schwerer Folter bestraft
 
-Die Ermittler⋆innen veröffentlichten die Ergebnisse ihrer Untersuchungen sowie Bilder und ein Video. Sie sagten aus, sie hätten verängstigte Jungtiere gesehen, die frustrierende und anstrengende Aufgaben ausführen müssen. Sie erzählten außerdem, dass rebellische Affen manchmal mit dem Ziehen von Zähnen bestraft werden.
+Die Ermittler\*innen veröffentlichten die Ergebnisse ihrer Untersuchungen sowie Bilder und ein Video. Sie sagten aus, sie hätten verängstigte Jungtiere gesehen, die frustrierende und anstrengende Aufgaben ausführen müssen. Sie erzählten außerdem, dass rebellische Affen manchmal mit dem Ziehen von Zähnen bestraft werden.
 
 Insgesamt ernten die Affen laut PETA bis zu 1.000 Kokosnüsse pro Tag. Außerdem sollen die Tiere in einigen Fällen vor Besucher⋆innen zum Fahrradfahren und Bälle Werfen gezwungen worden sein.
 

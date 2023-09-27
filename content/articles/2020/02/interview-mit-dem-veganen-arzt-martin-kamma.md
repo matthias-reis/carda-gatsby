@@ -52,7 +52,7 @@ Den Schwerpunkt seines Blogs sieht er in der positiven Berichterstattung aus der
 
 Die Veränderung von Ernährungsverhaltensmustern und Geschmacksgewohnheiten ist sehr oft noch mit Verzicht assoziiert. Wer von schwerer Krankheit betroffen ist oder war, ist unabhängig vom Geschlecht für Veränderungen offener. In der akademischen Medizin wird vegan noch nicht als gesund kommuniziert.
 
-**Anne:** Ich muss Ihnen direkt mal gratulieren. Sie sind einer von wenigen Mediziner⋆innen, die sich für ein veganes Leben entschieden haben. Wie erklären Sie sich, dass es bislang nur so wenige gibt? Vegan hat sich ja eindeutig als die gesündeste Ernährungsweise herausgestellt.
+**Anne:** Ich muss Ihnen direkt mal gratulieren. Sie sind einer von wenigen Mediziner\*innen, die sich für ein veganes Leben entschieden haben. Wie erklären Sie sich, dass es bislang nur so wenige gibt? Vegan hat sich ja eindeutig als die gesündeste Ernährungsweise herausgestellt.
 
 ## "Ernährung gibt es nicht als Studienfach"
 

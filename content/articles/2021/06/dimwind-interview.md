@@ -70,7 +70,7 @@ Aber ja – es gibt eine Geschichte. Wir werden sie nicht verraten oder darüber
 
 **Anne:** Du hast mir erzählt, dass Ihr mit Eurer Musik Grenzen übertreten wollt. Obwohl sie ziemlich in die Post-Metal Richtung geht, habt Ihr Euch auch hörbar von anderen Genres beeinflussen lassen. Mir gefällt das sehr gut. Wie kommt es, dass Musik meistens in irgendeine Art von Genre passen muss, um ein bestimmtes Publikum zu erreichen? Ich kann mir das für Musiker\*innen ziemlich anstrengend vorstellen. Vor allem, wenn man so viele Arten von Musik liebt. Ich meine, mal ehrlich: Wir hören doch nicht alle nur Musik aus einem Genre, oder? Oder konsumieren die meisten Menschen Musik auf diese Art?
 
-**Jonas:** Ich bin komplett Deiner Meinung. Der Beiname "Post" – sei es -Rock oder -Metal ist etwas, mit dem wir uns selbst beschreiben. Einfach in Ermangelung besser passender Genres. Wir möchten damit die Hörer⋆innen ansprechen, denen gefallen könnte, was wir machen.
+**Jonas:** Ich bin komplett Deiner Meinung. Der Beiname "Post" – sei es -Rock oder -Metal ist etwas, mit dem wir uns selbst beschreiben. Einfach in Ermangelung besser passender Genres. Wir möchten damit die Hörer\*innen ansprechen, denen gefallen könnte, was wir machen.
 
 Wir könnten es auch einfach "Heavy Music" nennen. Anstatt den richtigen Begriff zu finden, der zu unserem Ausdruck passt, passen wir uns nicht an, um in irgendeine Form zu passen. Aber es stimmt: Es scheint von essenzieller Wichtigkeit zu sein, Deinem Sound einer Marke zuzuordnen, um ein bestimmtes Publikum zu erreichen.
 

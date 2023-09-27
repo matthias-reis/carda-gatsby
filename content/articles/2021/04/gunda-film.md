@@ -59,7 +59,7 @@ Gegenüber der GQ äußerte sich der Filmemacher so:
 
 ![Gunda Movie. Picture © gunda.movie.com](https://storage.googleapis.com/cardamonchai-media/2021-11-21/gunda-2-jpg-imagine-181818_606669_1024_768/640.webp 'Gunda Movie. Picture © gunda.movie.com')
 
-Egal, ob Veganer⋆innen oder nicht – "Gunda" sollten wir uns auf alle Fälle anschauen. Wenn ich den Trailer so sehe, bin ich mir sicher: Dieser Film geht ans Herz und wir werden sicher alle eine Menge daraus lernen.
+Egal, ob Veganer\*innen oder nicht – "Gunda" sollten wir uns auf alle Fälle anschauen. Wenn ich den Trailer so sehe, bin ich mir sicher: Dieser Film geht ans Herz und wir werden sicher alle eine Menge daraus lernen.
 
 In ausgewählten Kinos in Los Angeles, New York und San Francisco hat der Film bereits Premiere gefeiert. In Deutschland wird er ab dem 25. April zu sehen sein. Den Trailer könnt Ihr Euch jetzt schon anschauen.
 

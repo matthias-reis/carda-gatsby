@@ -33,7 +33,7 @@ Der Frust über Firmen, die Greenwashing betreiben und ihre nicht wirklich nachh
 
 Die Manipulation von Kund\*innen für Kaufentscheidungen, die nicht nur dem Klima, sondern auch der Gesundheit schaden, kommen für die beiden nicht infrage. Alle Produkte auf El Green Mall stammen von kleinen bis mittelgroßen Brands, die Federica, Ignacio und ihre Mitstreiter\*innen sorgfältig anhand von Nachhaltigkeitsaspekten ausgewählt haben. Sie achten bei der Suche nach Kooperationen vor allem auf umweltfreundliche Materialien, Slow-Production-Methoden und den fairen Umgang mit den Mitarbeitenden.
 
-Ihr gemeinsames Projekt ist für die beiden Gründer⋆innen das Ergebnis ihrer jahrelangen Herausforderung, endlich wirklich bewusst zu leben und zu konsumieren. Die Suche nach nachhaltigen Alternativen zu Gebrauchsgegenständen wie Decken, Make-up oder Kleidung mit durchweg fairen Versorgungsketten stand dabei für sie im Mittelpunkt.
+Ihr gemeinsames Projekt ist für die beiden Gründer\*innen das Ergebnis ihrer jahrelangen Herausforderung, endlich wirklich bewusst zu leben und zu konsumieren. Die Suche nach nachhaltigen Alternativen zu Gebrauchsgegenständen wie Decken, Make-up oder Kleidung mit durchweg fairen Versorgungsketten stand dabei für sie im Mittelpunkt.
 
 ## "Nachhaltigkeit ist mehr als die Umweltfaktoren"
 

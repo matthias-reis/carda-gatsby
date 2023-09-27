@@ -114,7 +114,7 @@ Ich arbeite auch mit der Band an der neuen God Is An Astronaut Platte und wir ha
 
 **Jamie:** Ja, die ganze Situation war extrem frustrierend. Wir mussten unsere Shows immer wieder verschieben. Glücklicherweise waren unsere Fans sehr verständnisvoll und wir haben die Möglichkeit, alles nachzuholen! Wir stecken all unsere Energie in die Konzerte, damit sich das Warten gelohnt hat.
 
-Die Reaktionen waren bis jetzt überwältigend. Die kompletten Tourdaten finden Deine Leser⋆innen bei Bands in Town[^4]!
+Die Reaktionen waren bis jetzt überwältigend. Die kompletten Tourdaten finden Deine Leser\*innen bei Bands in Town[^4]!
 
 **Anne:** Vielen Dank, dass Du meine Fragen beantwortet hast, Jamie! Es war mir eine Freude!
 

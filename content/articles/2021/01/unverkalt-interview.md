@@ -70,7 +70,7 @@ Es ist eine harte Herausforderung und wir rufen jede\*n dazu auf, weiterzumachen
 
 ## "Jede Art Kunst ist anthropozentrisch"
 
-**George:** Menschliche Erfahrungen nehmen mit der Zeit eine gewisse Form an. Was die künstlerische Welt angeht, ist alles eine Sache von Farben, Formen, Klängen und Vibrationen. Je nachdem, um welche Art Kunst es sich handelt. Jede\*r Künstler⋆in transformiert menschliche Erfahrungen in Kunst. Darum ist jede Art Kunst anthropozentrisch.
+**George:** Menschliche Erfahrungen nehmen mit der Zeit eine gewisse Form an. Was die künstlerische Welt angeht, ist alles eine Sache von Farben, Formen, Klängen und Vibrationen. Je nachdem, um welche Art Kunst es sich handelt. Jede\*r Künstler\*in transformiert menschliche Erfahrungen in Kunst. Darum ist jede Art Kunst anthropozentrisch.
 
 **Anne:** Euer Album ist nicht nur eine Platte. Es soll auch eine audiovisuelle Erfahrung für Eure Fans sein. Könnt Ihr mir etwas mehr darüber erzählen?
 

@@ -103,7 +103,7 @@ Ich habe 2020 viel **Television** gehört, wenn ich mich recht erinnere und die 
 
 ![Zahn in der Vinyl-Edition](https://storage.googleapis.com/cardamonchai-media/2021-11-20/zahn-3-jpg-imagine-080808_6c574f_1080_1080/640.webp 'Zahn in der Vinyl-Edition')
 
-**Anne:** Du hast ja auch permanent mit Musik zu tun und triffst die unterschiedlichsten Künstler⋆innen. Wie siehst Du das mit den unzähligen Genres, in die Musik heutzutage eingeordnet wird. Ist das sinnvoll? Jonas von **[Dimwind](/2021/06/dimwind-interview/)** meinte neulich zu mir "Es scheint von essenzieller Wichtigkeit zu sein, Deinem Sound einer Marke zuzuordnen, um ein bestimmtes Publikum zu erreichen". Ich selbst habe mich noch nie einem bestimmten Genre zugehörig gefühlt, finde das aber ziemlich einleuchtend. Wenn man bestimmte Leute erreichen möchte, muss man seinem Sound einen Namen geben. Siehst Du das ähnlich? Oder sollte es besser überhaupt keine Genres geben?
+**Anne:** Du hast ja auch permanent mit Musik zu tun und triffst die unterschiedlichsten Künstler\*innen. Wie siehst Du das mit den unzähligen Genres, in die Musik heutzutage eingeordnet wird. Ist das sinnvoll? Jonas von **[Dimwind](/2021/06/dimwind-interview/)** meinte neulich zu mir "Es scheint von essenzieller Wichtigkeit zu sein, Deinem Sound einer Marke zuzuordnen, um ein bestimmtes Publikum zu erreichen". Ich selbst habe mich noch nie einem bestimmten Genre zugehörig gefühlt, finde das aber ziemlich einleuchtend. Wenn man bestimmte Leute erreichen möchte, muss man seinem Sound einen Namen geben. Siehst Du das ähnlich? Oder sollte es besser überhaupt keine Genres geben?
 
 ## "Die Genre-Bezeichnungen der Streaming-Dienste können irreführend sein"
 

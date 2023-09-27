@@ -106,7 +106,7 @@ In Wirklichkeit wurde jedoch längst das Gegenteil bewiesen, meinte sie. "Lynne 
 
 ## Die vegane Alternative von SoFine
 
-Einige Hamburger⋆innen werden sich jetzt sicher fragen "Und was kommt aufs Brötchen, wenn es ab heute keinen Fisch mehr gibt?" - in unserer bunten Stadt an der Elbe gelten Fischbrötchen quasi als Kulturgut. Sie sind einfach nicht wegzudenken.
+Einige Hamburger\*innen werden sich jetzt sicher fragen "Und was kommt aufs Brötchen, wenn es ab heute keinen Fisch mehr gibt?" - in unserer bunten Stadt an der Elbe gelten Fischbrötchen quasi als Kulturgut. Sie sind einfach nicht wegzudenken.
 
 Beim Presseevent in der Kurkuma Kochschule waren auch aus diesem Grund alle mehr als gespannt, die pflanzliche und grätenfreie Fisch-Alternative kennenzulernen. Getestet wurde mit eigens für das Event vorbereiteten Zutaten aus der Kochschule - inklusive Brötchen, Remoulade, Salaten, Gürkchen Zwiebelchen und allem, was zu einem echten Fischbrötchen dazugehört.
 
