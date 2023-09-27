@@ -23,12 +23,27 @@ export class Markdown {
       this.attributes = content.attributes as Attributes;
       this.body = content.body;
     } catch (e) {
-      this.error = e;
+      this.error = e as Error;
     }
+  }
+
+  isChanged() {
+    return this.isDirty;
   }
 
   markDirty() {
     this.isDirty = true;
+  }
+
+  changeAttribute(
+    fieldName: string,
+    fn: (fieldText: string, md: Markdown) => string
+  ) {
+    const res = fn(this.attributes?.[fieldName]?.toString() || '', this);
+    if (res !== this.attributes[fieldName]) {
+      this.markDirty();
+      this.body = res;
+    }
   }
 
   changeContent(fn: (content: string, md: Markdown) => string) {

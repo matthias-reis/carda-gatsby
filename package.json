@@ -84,6 +84,7 @@
     "prefirebase": "cd functions && yarn build",
     "firebase": "firebase deploy --only functions",
     "compress-images": "node ./compress-images",
+    "parser:asterisk": "ts-node ./src/parser/asterisk",
     "parser:imagine": "ts-node ./src/parser/run-imagine",
     "parser:reorg": "ts-node ./src/parser/reorg"
   },
