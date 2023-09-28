@@ -1,10 +1,12 @@
 ---
 ogTitle: Willebrant – "Coastal___" – Ambient aus Australien
 excerpt: 'Die neue EP von Willebrant ist vor allem eins: Herrlich verträumt. Die Musik des Australiers lädt dazu ein, einfach mal nur da zu sein.'
-ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant.png__l.jpg
 isAffiliate: false
 path: /2021/02/willebrant-coastal___/
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQcB/8QAJBAAAQQCAQMFAQAAAAAAAAAAAQIDBBEFIQAGEiITMUFRYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAGBf/EACERAAIBAwMFAAAAAAAAAAAAAAEDAAIRsQQxcSEiUZHh/9oADAMBAAIRAxEAPwDjqCL8hrggFVVzRYlwm20JkY5L6kg2oOlBJvRNC/5+c9fk411ICceuObsrae7iRVAeWvsnl28h2memBPfSsNxw9FXtPcsCj7Eps6PLcrGxl4LFM49KE5P1XRLcXMSoObHYEoBPbXtdC/3hE+e22peMjh2Ni6kSA8gqQtPfptdD2IO9jV75BkOrXstIjCNiIbPpI9NqO0t1aAvQC0JKrSoBNVZFfHCWoDC6vk5O8boYkJUBc9tN/Q2+yG7H3XApSaOhxxxfA86B0TP6bTh2IOUxclT7rhW7KalKSD5aJbNoUQABsfHLEXp3FZDr1qRgZLAx7MUBoZEhlUlw2FI0fEhJsK0K3fHHCGp6Pr5OYsQLIoI8DE//2Q==
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__m.jpg
 typeName: Review
 isWerbung: false
 fileName: 2021-02---willebrant-coastal.md
@@ -14,8 +16,6 @@ date: 2021-02-14T15:13:29.000Z
 focusKeyword: Willebrant
 languageLink: /2021/02/willebrant-coastal-en
 status: publish
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__l.jpg
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__m.jpg
 title: Willebrant – "Coastal___"
 subTitle: Ambient aus Australien
 seoTitle: Willebrant – "Coastal___" – Ambient aus Australien

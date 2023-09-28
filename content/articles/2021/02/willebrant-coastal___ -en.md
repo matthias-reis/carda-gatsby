@@ -6,9 +6,11 @@ title: Willebrant – "Coastal___"
 subTitle: Ambient From Australia
 seoTitle: Willebrant – "Coastal___" – Ambient From Australia
 description: "The new EP by Willebrant is one thing above all: wonderfully dreamy. The Australian's music invites you to drift off into the wide and just be in the now."
-image: /img/2021_02_willebrant-1__l.jpeg
 copyrigt: Willebrant
-ogImage: /img/2021_02_willebrant.png__l.jpg
+ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant.png__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQcB/8QAJBAAAQQCAQMFAQAAAAAAAAAAAQIDBBEFIQAGEiITMUFRYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAGBf/EACERAAIBAwMFAAAAAAAAAAAAAAEDAAIRsQQxcSEiUZHh/9oADAMBAAIRAxEAPwDjqCL8hrggFVVzRYlwm20JkY5L6kg2oOlBJvRNC/5+c9fk411ICceuObsrae7iRVAeWvsnl28h2memBPfSsNxw9FXtPcsCj7Eps6PLcrGxl4LFM49KE5P1XRLcXMSoObHYEoBPbXtdC/3hE+e22peMjh2Ni6kSA8gqQtPfptdD2IO9jV75BkOrXstIjCNiIbPpI9NqO0t1aAvQC0JKrSoBNVZFfHCWoDC6vk5O8boYkJUBc9tN/Q2+yG7H3XApSaOhxxxfA86B0TP6bTh2IOUxclT7rhW7KalKSD5aJbNoUQABsfHLEXp3FZDr1qRgZLAx7MUBoZEhlUlw2FI0fEhJsK0K3fHHCGp6Pr5OYsQLIoI8DE//2Q==
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__l.jpg
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_willebrant-1__m.jpg
 labels:
   - Ambient
   - Australian Post-Rock
@@ -26,7 +28,7 @@ focusKeyword: Willebrant
 advertisement: false
 affiliate: false
 language: en
-languageLink: https://cardamonchai.gatsbyjs.io/2021/02/willebrant-coastal___
+languageLink: /2021/02/willebrant-coastal___
 ---
 
 **The new EP by Willebrant is one thing above all: wonderfully dreamy. The Australian's music invites you to drift off into the wide and just be in the now.**
