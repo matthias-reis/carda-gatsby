@@ -7,8 +7,8 @@ subTitle: Eine musikalisches Tauch-Abenteuer
 seoTitle: '"Willebrant – The Pilgrim" – Eine musikalisches Tauch-Abenteuer'
 description: Die neue Willebrant EP "The Pilgrim" handelt vom Weg eines Menschen, der zu einem Abenteuer aufbricht – Die fünf vom El Camino de Santiago inspirierten Songs haben es bei mir jetzt schon auf die Liste der schönsten Ambient-Platten des Jahres geschafft. Ein Klangbad mit Tiefgang erwartet Euch.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/willebrant-the-pilgrim-2-jpg-imagine-e8e8e8_b4b4b4_1024_768/640.webp
-copyright: Willebrant
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/willebrant-the-pilgrim-fb-jpg-imagine-181818_696969_1200_628/640.webp
+copyright: Willebrant
 labels:
   - Klangbad
   - Ambient

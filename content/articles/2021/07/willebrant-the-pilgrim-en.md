@@ -6,9 +6,9 @@ title: Willebrant – "The Pilgrim"
 subTitle: Diving Into An Ocean Of Sound
 seoTitle: Willebrant – "The Pilgrim" – Diving Into An Ocean Of Sound
 description: Willebrant has a new EP out! "The Pilgrim" is about the journey of someone setting out on an adventure. The five songs which are inspired by the Camino de Santiago already made it to my list of the favourite ambient records of the year. A deep sound bath full of surprises awaits you.
-image: /img/willebrant-the-pilgrim-2-.jpg
+image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/willebrant-the-pilgrim-2-jpg-imagine-e8e8e8_b4b4b4_1024_768/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/willebrant-the-pilgrim-fb-jpg-imagine-181818_696969_1200_628/640.webp
 copyrigt: Willebrant
-ogImage: /img/willebrant-the-pilgrim-fb.jpg
 labels:
   - Soundbath
   - Ambient
@@ -41,7 +41,7 @@ To me, this sounds not only mystical but also pretty exciting. After a year or s
 
 I put on my headphones and start my adventure with a dive. I let myself slide down into the cool water and, at the same time, tune into the sound of the deep, which gradually reveals its face before my inner eye.
 
-![Willebrant – "The Pilgrim"](/img/willebrant-the-pilgrim.jpg "Willebrant – \\"The Pilgrim\\"")
+![Willebrant – "The Pilgrim"](https://storage.googleapis.com/cardamonchai-media/2021-11-20/willebrant-the-pilgrim-jpg-imagine-d8d8d8_b8b8b8_700_700/640.webp 'Willebrant – "The Pilgrim"')
 
 The sounds, which pass unnoticed into the second track, "Trail", are harmonious, ethereal and fragile. I keep on sinking into the ocean. The world that surrounds me becomes a little stonier and steeper now. A bell accompanies me and guides me through the unknown terrain.
 
