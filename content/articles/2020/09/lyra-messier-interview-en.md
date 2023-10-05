@@ -82,21 +82,15 @@ I can’t actually play the guitar, but luckily I was able to steal the talent o
 
 **Lyra:** I’ve been involved with music for about as long as I can remember. I started taking music theory and piano lessons after school when I was about seven years old. It’s always been a big part of who I am. I never really envisioned music being my main job, since it’s still mostly something I use as a creative outlet for myself. It’s always lovely to see that other people are enjoying my work, though.
 
-**Anne:** It's 2020 - Why are there still so few women out there making music?
+**Anne:** Are there any artists you would describe as inspirations for your work? Do you have any role models?
 
-## "Women need to let their creativity flow"
-
-**Lyra:** Honestly, I don’t know. I think women are still not encouraged to let their creativity run free in the same way men are. Luckily I have plenty of female music-making friends, although I’ve noticed that my little niche of solo music production is still extremely male-dominated.
-
-**Anne:** Are there any women that you would describe as inspirations for your work? Do you have any role models?
-
-**Lyra:** Most of my direct musical inspirations are men. Take people like Jon Hopkins, Steven Wilson, and bands such as 65daysofstatic and Everything Everything. I do love plenty of music made by women, though. Nilüfer Yanya and Marika Hackman are two extremely talented artists who I think have released stellar albums in the past few years, which the music press has largely overlooked. Though not as influential on my more progressive instrumental music, I can certainly appreciate their work just as much.
+**Lyra:** People like Jon Hopkins, Steven Wilson, and bands such as 65daysofstatic and Everything Everything. Nilüfer Yanya and Marika Hackman are also two extremely talented artists who I think have released stellar albums in the past few years, which the music press has largely overlooked. Though not as influential on my more progressive instrumental music, I can certainly appreciate their work just as much.
 
 **Anne:** How would you describe your music?
 
-## "It's my personal little genre"
+## "It's my personal genre"
 
-**Lyra:** It feels to me like a natural synthesis of everything I listen to, which comes together to become my personal little genre. Although the songs range from straightforward instrumental rock to abstract electronica, I think you can always tell that they’re mine. Or to put it more bluntly: it’s dance music for introverts who spend all day in their bedroom with the curtains permanently shut.
+**Lyra:** It feels to me like a natural synthesis of everything I listen to, which comes together to become my personal genre. Although the songs range from straightforward instrumental rock to abstract electronica, I think you can always tell that they’re mine. Or to put it more bluntly: it’s dance music for introverts who spend all day in their bedroom with the curtains permanently shut.
 
 **Anne:** You are at a festival listening to a band you love. You are getting the message, that the next act has postponed their show to the next day. The next slot is free. They are looking for a newcomer to step in and play. They are asking you first to do it. You will get all the gear you need for your performance. Do you enter the stage?
 

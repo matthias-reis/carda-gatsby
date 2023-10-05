@@ -96,21 +96,15 @@ Ich kann tatsächlich nicht Gitarre spielen aber ich hatte glücklicherweise die
 
 **Lyra:** Ich habe schon mit Musik zu tun, seit ich denken kann. Mit sieben habe ich angefangen, nach dem Schulunterricht Klavierstunden und Musiktheoriekurse zu belegen. Die Musik war schon immer ein großer Teil von mir. Ich habe nie wirklich darüber nachgedacht, sie zu meinem Hauptjob zu machen. Ich nutze sie eher wie eine Art kreatives Ventil für mich selbst. Es ist natürlich trotzdem immer schön, wenn ich sehe, dass den Menschen meine Arbeit gefällt.
 
-**Anne:** Es ist 2020 - warum gibt es nach wie vor so wenig Frauen da draußen im Musikdschungel?
+**Anne:** Gibt es Künstler\*innen, die Du als Vorbilder bezeichnen würdest?
 
-## "Frauen sollten ihrer Kreativität freien Lauf lassen!"
-
-**Lyra:** Ehrlich gesagt habe ich auch keine Ahnung. Ich glaube, viele Frauen trauen sich nach wie vor nicht, ihrer Kreativität auf dieselbe Weise freien Lauf zu lassen, wie es Männer tun. Zum Glück habe ich zahlreiche Freundinnen, die auch Musik machen. Natürlich ist mir trotzdem aufgefallen, dass meine kleine Solo-Musikproduzent⋆innen-Nische eine ziemliche Männer-Domäne ist.
-
-**Anne:** Gibt es Frauen, die Du als Vorbilder bezeichnen würdest?
-
-**Lyra:** Die meisten meiner direkten musikalischen Vorbilder sind Männer. Nimm zum Beispiel Leute wie Jon Hopkins, Steven Wilson, und bands wie 65daysofstatic und Everything Everything. Ich mag auch viel Musik von Frauen. Nilüfer Yanya and Marika Hackman sind zwei extrem talentierte Künstlerinnen. Sie haben in den letzten Jahren zahlreiche Alben veröffentlicht, die von der Musikpresse einfach übersehen wurden. Auch, wenn sie für meine progressive Instrumentalmusik kein großer Einfluss sind, weiß ich ihre Arbeit sehr zu schätzen.
+**Lyra:** Da sind zum Beispiel Leute wie Jon Hopkins, Steven Wilson, und bands wie 65daysofstatic und Everything Everything. Nilüfer Yanya und Marika Hackman sind ebenfalls zwei extrem talentierte Künstlerinnen. Sie haben in den letzten Jahren zahlreiche Alben veröffentlicht, die von der Musikpresse einfach übersehen wurden. Auch, wenn sie für meine progressive Instrumentalmusik kein großer Einfluss sind, weiß ich ihre Arbeit sehr zu schätzen.
 
 **Anne:** Wie würdest Du selbst Deine Musik beschreiben?
 
 ## "Es ist mein ganz persönliches Genre"
 
-**Lyra:** Für mich fühlt sie sich wie die Synthese aus allem, das ich höre an. Es fließt alles zusammen und wird zu meinem ganz persönlichen kleinen Genre. Obwohl die Songs von geradlinigem Instrumentalrock bis zu Electro reichen, denke ich, dass Du ihnen immer anhörst, dass sie von mir sind. Um es noch etwas unverblümter zu sagen: Es ist Tanzmusik für introvertierte Menschen, die den ganzen Tag bei geschlossenen Vorhängen im Schlafzimmer verbringen möchten.
+**Lyra:** Für mich fühlt sie sich wie die Synthese aus allem, das ich höre an. Es fließt alles zusammen und wird zu meinem ganz persönlichen Genre. Obwohl die Songs von geradlinigem Instrumentalrock bis zu Electro reichen, denke ich, dass Du ihnen immer anhörst, dass sie von mir sind. Um es noch etwas unverblümter zu sagen: Es ist Tanzmusik für introvertierte Menschen, die den ganzen Tag bei geschlossenen Vorhängen im Schlafzimmer verbringen möchten.
 
 **Anne:** Du bist auf einem Festival. Auf der Bühne spielt gerade eine Band, die Dir sehr wichtig ist. Du bekommst die Nachricht, dass der⋆die nächste Künstler⋆in seine⋆ihre Show auf den nächsten Tag verschoben hat. Der nächste Slot ist frei. Die Veranstalter⋆innen sind auf der Suche nach eine⋆r Newcomer⋆in, der⋆die einspringt. Du bist die Erste, die gefragt wird, ob sie spielen möchte. Du bekommst das komplette Equipment, das Du für Deinen Auftritt brauchst. Gehst Du auf die Bühne?
 
