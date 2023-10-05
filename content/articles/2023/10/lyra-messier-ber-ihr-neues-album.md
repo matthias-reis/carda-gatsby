@@ -2,16 +2,16 @@
 date: 2023-10-05T10:48:27.287Z
 slug: lyra-messier-interview-2023
 typeName: Interview
-title: Lyra Messier über ihr neues Album
+title: lyra messier über ihr neues Album
 subTitle: '"Ich war noch nie so glücklich"'
-seoTitle: Lyra Messier im Interview über ihr neues Album
-description: Lyra Messier hat ihr neues Album fertig! Lest jetzt unser Interview und erfahrt alles darüber!
+seoTitle: lyra messier im Interview über ihr neues Album
+description: lyra messier hat ihr neues Album fertig! Lest jetzt unser Interview und erfahrt alles darüber!
 excerpt: Als ich Lyra vor drei Jahren zum ersten Mal online begegnete, verfiel ich sofort ihrer Musik und ihrer schier endlosen, sprühenden Kreativität. Inzwischen hat sich einiges getan und Lyra hat ihr neues Album fertig. Zeit für ein Interview!
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-jpg-imagine-080808_414044_1024_768/640.webp
-copyright: Lyra Messier
+copyright: lyra messier
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-og-jpg-imagine-080808_393638_1200_628/640.webp
 labels:
-  - Lyra Messier
+  - lyra messier
   - Interview
   - Interviews
   - Band
@@ -23,7 +23,7 @@ labels:
   - Experimental
   - Electronic
   - Trance-Rock
-focusKeyword: Lyra Messier Interview
+focusKeyword: lyra messier Interview
 advertisement: false
 affiliate: false
 language: de
@@ -50,7 +50,7 @@ Was die Veränderungen angeht, so hat sich vor allem in meinem Privatleben viel 
 
 **Lyra:** Ich nenne es erst seit Kurzem "Trance-Rock", aber ja, ich denke auch, dass es den Großteil meiner Musik ziemlich gut zusammenfasst. Ich bin damit aufgewachsen, viele Rockbands zu hören, aber auch repetitive elektronische Musik wie Trance und House, und viele der Songstrukturen, die ich bevorzuge, sind eher von dieser elektronischen Seite inspiriert. Ich liebe lange, hypnotische Songs, die eine Weile brauchen, um sich aufzubauen, und die einen wirklich in den Bann ziehen.
 
-Und ja, ich bin sehr zufrieden mit der Platte! Ich glaube, ich habe mich als Produzent wirklich weiterentwickelt und viele neue Ansätze für das Songwriting und die Klanggestaltung ausprobiert. Man kann immer noch deutlich erkennen, dass es sich um eine Lyra Messier Platte handelt, aber die einzelnen Songs sind viel vielfältiger.
+Und ja, ich bin sehr zufrieden mit der Platte! Ich glaube, ich habe mich als Produzent wirklich weiterentwickelt und viele neue Ansätze für das Songwriting und die Klanggestaltung ausprobiert. Man kann immer noch deutlich erkennen, dass es sich um eine lyra messier Platte handelt, aber die einzelnen Songs sind viel vielfältiger.
 
 **Anne:** Wie heißt das Album und was hat Dich zu dem Namen inspiriert?
 
@@ -116,6 +116,6 @@ Hast Du schon konkrete Pläne für nach Deiner anstehenden Veröffentlichung?
 
 **Anne:** Auf jeden Fall! Ich hoffe, ich schaffe es nächstes Jahr zum Dunk!festival!
 
-## Lyra Messier – "Sevastopol"
+## lyra messier – "Sevastopol"
 
 <YouTube id="qwThGCT625s" />

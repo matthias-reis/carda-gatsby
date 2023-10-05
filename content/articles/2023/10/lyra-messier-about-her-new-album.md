@@ -2,16 +2,16 @@
 date: 2023-10-05T11:01:25.196Z
 slug: lyra-messier-interview-2023-en
 typeName: Interview
-title: Lyra Messier about her new Album
+title: lyra messier about her new Album
 subTitle: '"I''ve never been happier before"'
-seoTitle: 'Interview: Lyra Messier about her new album'
-description: Lyra Messina has her new album ready! Read our interview now to find out everything about it!
+seoTitle: 'Interview: lyra messier about her new album'
+description: lyra messier has her new album ready! Read our interview now to find out everything about it!
 excerpt: When I first met Lyra online three years ago, I immediately fell for her music and her seemingly endless, sparkling creativity. In the meantime many things have changed and she has finished her new album. Time for an interview!
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-jpg-imagine-080808_414044_1024_768/640.webp
-copyright: Lyra Messier
+copyright: lyra messier
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-og-jpg-imagine-080808_393638_1200_628/640.webp
 labels:
-  - Lyra Messier
+  - lyra messier
   - Interview
   - Interviews
   - Band
@@ -23,7 +23,7 @@ labels:
   - Experimental
   - Electronic
   - Trance-Rock
-focusKeyword: Interview Lyra Messier
+focusKeyword: Interview lyra messier
 advertisement: false
 affiliate: false
 language: en
@@ -50,7 +50,7 @@ As for what has changed, a lot in my personal life, mainly. I was not in a great
 
 **Lyra:** I've only taken to calling it "trance rock" recently, but yeah, I also think it sums up most of my music pretty well. I grew up listening to a lot of rock bands as well as more repetitive electronic music like trance and house, and especially, a lot of the song structures I tend to go for are more inspired by that electronic side. I love long, hypnotic songs that take a while to build and really suck you in.
 
-And yes, I'm very happy with the record! I think I've really grown as a producer and tried lots of new approaches to songwriting and soundscaping. You can still clearly tell it's a Lyra Messier record, but the individual songs are much more diverse.
+And yes, I'm very happy with the record! I think I've really grown as a producer and tried lots of new approaches to songwriting and soundscaping. You can still clearly tell it's a lyra messier record, but the individual songs are much more diverse.
 
 **Anne:** What's the name of the album, and how did you come up with it?
 
@@ -116,6 +116,6 @@ Any next steps you're planning to go after the release?
 
 **Anne:** Absolutely! I'd love to finally meet you in person, and spend some time! I hope to make it to Dunk!festival next year!
 
-## Lyra Messier – "Sevastopol"
+## lyra messier – "Sevastopol"
 
 <YouTube id="qwThGCT625s" />
