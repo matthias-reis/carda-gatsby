@@ -7,9 +7,9 @@ subTitle: '"I''ve never been happier before"'
 seoTitle: 'Interview: lyra messier about her new album'
 description: lyra messier has her new album ready! Read our interview now to find out everything about it!
 excerpt: When I first met Lyra online three years ago, I immediately fell for her music and her seemingly endless, sparkling creativity. In the meantime many things have changed and she has finished her new album. Time for an interview!
-image: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-jpg-imagine-080808_414044_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-jpg-imagine-080808_37352f_1024_768/640.webp
 copyright: lyra messier
-ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-og-jpg-imagine-080808_393638_1200_628/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-og-jpg-imagine-080808_3b3531_1200_628/640.webp
 labels:
   - lyra messier
   - Interview

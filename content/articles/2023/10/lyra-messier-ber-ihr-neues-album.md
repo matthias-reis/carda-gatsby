@@ -7,9 +7,9 @@ subTitle: '"Ich war noch nie so glücklich"'
 seoTitle: lyra messier im Interview über ihr neues Album
 description: lyra messier hat ihr neues Album fertig! Lest jetzt unser Interview und erfahrt alles darüber!
 excerpt: Als ich Lyra vor drei Jahren zum ersten Mal online begegnete, verfiel ich sofort ihrer Musik und ihrer schier endlosen, sprühenden Kreativität. Inzwischen hat sich einiges getan und Lyra hat ihr neues Album fertig. Zeit für ein Interview!
-image: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-jpg-imagine-080808_414044_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-jpg-imagine-080808_37352f_1024_768/640.webp
 copyright: lyra messier
-ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-og-jpg-imagine-080808_393638_1200_628/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-og-jpg-imagine-080808_3b3531_1200_628/640.webp
 labels:
   - lyra messier
   - Interview
