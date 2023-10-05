@@ -38,7 +38,7 @@ You can definitely look forward to this beautiful nine new songs—the album wil
 
 **Lyra:** I'm doing quite well! I am very excited to be releasing something full-length finally. And yeah, it's lovely to catch up!
 
-**Anne:** Time flies! It's already been three (!) whole years since our last interview! What has changed for you since then?
+**Anne:** Time flies! It's already been three (!) whole years since [our last interview](/2020/09/lyra-messier-interview-en)! What has changed for you since then?
 
 ## "I met some wonderful people"
 
