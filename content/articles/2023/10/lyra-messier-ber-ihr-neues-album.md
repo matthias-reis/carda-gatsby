@@ -42,6 +42,8 @@ Ihr könnt Euch auf diese wunderbaren neun neuen Songs freuen. Das Album erschei
 
 ## "Ich habe wunderbare Menschen kennengelernt"
 
+![lyra messier – "Sevastopol"](https://storage.googleapis.com/cardamonchai-media/2023-10-05/sevastopol-lyra-messier-1-jpeg-imagine-181828_343136_1200_1200/640.webp 'lyra messier – "Sevastopol"')
+
 **Lyra:** Pffhhh wow ja. Ich werde in ein paar Tagen auch 23. Die letzten paar Jahre waren aus offensichtlichen Gründen für jeden verdammt seltsam, also glaube ich nicht, dass wir die Einzigen mit einem schrecklichen Zeitgefühl sind.
 
 Was die Veränderungen angeht, so hat sich vor allem in meinem Privatleben viel getan. Als ich das letzte Album aufnahm, war ich in keiner guten Verfassung, und das spitzte sich im Jahr 2021 zu. Zum Glück habe ich mir Hilfe geholt, und ich kann ehrlich sagen, dass ich noch nie so glücklich und stabil war wie jetzt. Ich habe es geschafft, mich mit wunderbaren Menschen zu umgeben, und ich habe mir eine Art positiv nihilistische Denkweise angeeignet, die dazu führt, dass ich jeden Tag impulsiv das tue, worauf ich wirklich Lust habe. Das bedeutet auch, dass ich mich jeden Monat fast selbst in den Ruin treibe, weil ich mein ganzes Geld für Konzertkarten ausgebe, aber hey, für mich funktioniert es!

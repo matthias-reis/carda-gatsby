@@ -38,9 +38,11 @@ You can definitely look forward to this beautiful nine new songs—the album wil
 
 **Lyra:** I'm doing quite well! I am very excited to be releasing something full-length finally. And yeah, it's lovely to catch up!
 
-**Anne:** Time flies! It's already been three (!) whole years since [our last interview](/2020/09/lyra-messier-interview-en)! What has changed for you since then?
+**Anne:** Time flies! It's already been three (!) whole years since our last interview! What has changed for you since then?
 
 ## "I met some wonderful people"
+
+![lyra messier – "Sevastopol"](https://storage.googleapis.com/cardamonchai-media/2023-10-05/sevastopol-lyra-messier-1-jpeg-imagine-181828_343136_1200_1200/640.webp 'lyra messier – "Sevastopol"')
 
 **Lyra:** Pffhhh wow yeah. I turn 23, too, in a few days. The past few years have been fucking weird for everyone for obvious reasons, so I don't think I'm the only one with an awful sense of time anymore.
 
@@ -90,7 +92,7 @@ I've also grown to have a lot of appreciation for some classic prog rock instrum
 
 One of the most significant similarities we share is our taste in music and also some favourite bands. We both went to the legendary 65daysofstatic "10 years of 'Wild Light'" show some days ago and loved it more than any other concert this year. You can feel that 65daysofstatic is one of your biggest influences when listening to your new songs. Are there more artists you'd like to mention who influenced you on this album and your musical journey to this point?
 
-**Lyra:** Oh yeah, those shows were absolutely incredible. And I say "shows", plural, because I went to four(laughs). As you said, [65daysofstatic](/2023/09/65daysofstatic-hamburg-en/) are one of my biggest influences—you're not the first to tell me how obvious that is, and I'm glad to hear it because a lot of my music is basically a love letter to them!
+**Lyra:** Oh yeah, those shows were absolutely incredible. And I say "shows", plural, because I went to four(laughs). As you said, 65daysofstatic are one of my biggest influences—you're not the first to tell me how obvious that is, and I'm glad to hear it because a lot of my music is basically a love letter to them!
 
 Steven Wilson is another major influence. I followed him around with Porcupine Tree on their recent tour, and am also a massive fan of his solo work. In general, I've been more and more into prog rock and metal recently. "Frighten" also owes a lot to Lunatic Soul, Mariusz Duda of Riverside's mesmerising solo project.
 
