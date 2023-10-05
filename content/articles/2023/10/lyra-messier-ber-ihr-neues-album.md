@@ -38,7 +38,7 @@ Ihr könnt Euch auf diese wunderbaren neun neuen Songs freuen. Das Album erschei
 
 **Lyra:** Es geht mir ziemlich gut! Ich bin sehr aufgeregt, endlich wieder etwas in voller Länge zu veröffentlichen. Und ja, ich freue mich auch über den Austausch!
 
-**Anne:** Die Zeit vergeht wie im Flug! Seit unserem letzten Interview sind schon drei (!) Jahre vergangen! Was hat sich seitdem für Dich verändert?
+**Anne:** Die Zeit vergeht wie im Flug! Seit unserem [letzten Interview](/2020/09/lyra-messier-interview/) sind schon drei (!) Jahre vergangen! Was hat sich seitdem für Dich verändert?
 
 ## "Ich habe wunderbare Menschen kennengelernt"
 
