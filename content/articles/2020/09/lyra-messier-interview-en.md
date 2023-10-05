@@ -106,6 +106,8 @@ I think it would be very cool to play in a more traditional band setting, as lon
 
 **Anne:** Thank you very much for this enchanting interview! It was a pleasure getting to know you! All the best to you and let's keep in touch!
 
+[Interview with Lyra 2023](/2023/10/lyra-messier-interview-2023-en/)
+
 [lyra messier online](https://lyramsr.co/?fbclid=IwAR0JoPkGx6Mlx_RRgnUASfiddrhkIEW-urYNsUA_QE-OLzDL_IdD-Esf0c4)
 
-Pictures: Anne-Leen Declercq
+**Pictures:** Anne-Leen Declercq

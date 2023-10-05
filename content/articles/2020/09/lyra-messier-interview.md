@@ -120,6 +120,8 @@ Ich glaube, es wäre ziemlich cool, mit einem etwas traditionelleren Band-Settin
 
 **Anne:** Vielen Dank für das spannende Interview! Es war mir eine große Freude, Dich kennenzulernen! Ich wünsche Dir alles Gute! Lass uns auf jeden Fall in Kontakt bleiben!
 
-Bilder: Anne-Leen Declercq
+[Interview mit Lyra 2023](/2023/10/lyra-messier-interview-2023-en/)
 
 [lyra messier online](https://lyramsr.co/?fbclid=IwAR0JoPkGx6Mlx_RRgnUASfiddrhkIEW-urYNsUA_QE-OLzDL_IdD-Esf0c4)
+
+**Bilder:** Anne-Leen Declercq
