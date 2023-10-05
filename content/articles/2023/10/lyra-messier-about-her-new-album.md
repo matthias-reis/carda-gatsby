@@ -32,7 +32,7 @@ languageLink: /2023/10/lyra-messier-interview-2023/
 
 **When I first met Lyra online three years ago, I instantly fell for her music and her unlimited and sparkling creativity. Meanwhile, our acquaintanceship has become more than just two people sharing their taste in music, doing an interview every now and then—she is a dear friend! Now that her new album is ready, we met for another interview, and I recommend you to read it and get to know her and her music better wholeheartedly.**
 
-You can definitely look forward to this beautiful nine new songs—the album will be available from October 10th. Lyra pre-released the seventh song on the record today. It is called "Sevastopol", inspired by the terrible aggressive war Russia waged against Ukraine. Have a listen; you can find it below. But first: Enjoy our interview!
+You can definitely look forward to this beautiful nine new songs—the album will be available from November 10th. Lyra pre-released the seventh song on the record today. It is called "Sevastopol", inspired by the terrible aggressive war Russia waged against Ukraine. Have a listen; you can find it below. But first: Enjoy our interview!
 
 **Anne:** Hi Lyra! Thanks for taking the time for this interview! It's so good to talk to you again! How are you doing these days?
 

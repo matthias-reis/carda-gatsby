@@ -32,7 +32,7 @@ languageLink: /2023/10/lyra-messier-interview-2023-en/
 
 **Als ich Lyra online vor drei Jahren zum ersten Mal online begegnete, verfiel ich sofort ihrer Musik und ihrer schier endlosen, sprühenden Kreativität. Inzwischen ist aus unserer Bekanntschaft eine Freundschaft geworden und wir teilen mehr als nur unseren Musikgeschmack. Weil sie gerade ihr neues Album fertiggestellt hat, haben wir uns wieder zu einem Interview verabredet. Ich lege Euch hiermit ans Herz, es zu lesen und sie und ihre Musik noch besser kennenzulernen.**
 
-Ihr könnt Euch auf diese wunderbaren neun neuen Songs freuen. Das Album erscheint am 10. Oktober. Den siebten Song auf der Platte hat Lyra heute bereits vorveröffentlicht. Er heißt "Sevastopol" und ist von dem grausamen Angriffskrieg inspiriert, den Russland gegen Ukraine führt. Hör ihn Euch an, Ihr findet ihn weiter unten. Und jetzt: viel Freude mit dem Interview!
+Ihr könnt Euch auf diese wunderbaren neun neuen Songs freuen. Das Album erscheint am 10. November. Den siebten Song auf der Platte hat Lyra heute bereits vorveröffentlicht. Er heißt "Sevastopol" und ist von dem grausamen Angriffskrieg inspiriert, den Russland gegen Ukraine führt. Hör ihn Euch an, Ihr findet ihn weiter unten. Und jetzt: viel Freude mit dem Interview!
 
 **Anne:** Hallo Lyra. Danke, dass Du Dir die Zeit für das Interview nimmst. Es ist so schön, mal wieder mit Dir zu plaudern! Wie geht es Dir zurzeit?
 
