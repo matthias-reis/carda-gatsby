@@ -2,15 +2,10 @@
 date: 2023-09-25T12:42:47.163Z
 slug: 65daysofstatic-hamburg
 typeName: Konzertbericht
-title: 65daysofstatic und Sugar Horse live @ Kunst Hamburg
+title: 65daysofstatic und Sugar Horse live @ Knust Hamburg
 subTitle: Das beste Konzert des Jahres
-description: 65daysofstatic und Sugar Horse live im Knust Hamburg – das konnte
-  ich mir nicht entgehen lassen. Lest jetzt, was auf dem Konzert des Jahres
-  passierte.
-excerpt: '65daysofstatic und Sugar Horse live im Knust Hamburg – da durften wir
-  natürlich nicht fehlen. In vorderster Reihe konnten wir ein Konzert erleben,
-  das unter die Haut ging und wurden Zeug*innen einer musikalischen Sensation:
-  dem zehnjährigen Jubiläum des 65daysofstatic Albums "Wild Light".'
+description: 65daysofstatic und Sugar Horse live im Knust Hamburg – das konnte ich mir nicht entgehen lassen. Lest jetzt, was auf dem Konzert des Jahres passierte.
+excerpt: '65daysofstatic und Sugar Horse live im Knust Hamburg – da durften wir natürlich nicht fehlen. In vorderster Reihe konnten wir ein Konzert erleben, das unter die Haut ging und wurden Zeug*innen einer musikalischen Sensation: dem zehnjährigen Jubiläum des 65daysofstatic Albums "Wild Light".'
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-25/img-8565-jpg-imagine-080828_451b57_4032_3024/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-25/65daysofstatic-og-jpg-imagine-280848_481f5d_1200_628/640.webp
 labels:
@@ -36,6 +31,7 @@ affiliate: false
 language: de
 languageLink: /2023/09/65daysofstatic-hamburg-en/
 ---
+
 **65daysofstatic und Sugar Horse live im Knust Hamburg – da durften wir natürlich nicht fehlen. In vorderster Reihe konnten wir ein Konzert erleben, das unter die Haut ging und wurden Zeug\*innen einer musikalischen Sensation: dem zehnjährigen Jubiläum des 65daysofstatic Albums "Wild Light".**
 
 Ein "Wild Light" T-Shirt mit dem unvergesslichen Artwort gab es selbstverständlich direkt nach Betreten der Halle. Dann erst mal ein gemütlich im Sitzbereich in der Empore eingenommenes Getränk und ein schöner Rundblick über die FC St. Pauli Fan-Location und schon war es Zeit für die Vorband Sugar Horse.
@@ -68,15 +64,15 @@ Der Höhepunkt war selbstverständlich "Radio Protector". Bis zu diesem Zeitpunk
 
 ## Wohnzimmerfeeling im Hamburger Knust
 
-Mein Fazit? Trotz oder gerade durch die kleine Location mit Wohnzimmeratmosphäre war das 65daysofstatic Konzert in Hamburg klanglich und stimmungstechnisch ein Hochgenuss. Für meine Begleitung und mich war bereits nach dem zweiten Song klar: 
+Mein Fazit? Trotz oder gerade durch die kleine Location mit Wohnzimmeratmosphäre war das 65daysofstatic Konzert in Hamburg klanglich und stimmungstechnisch ein Hochgenuss. Für meine Begleitung und mich war bereits nach dem zweiten Song klar:
 
-> "Das ist das beste Konzert des Jahres." 
+> "Das ist das beste Konzert des Jahres."
 
 Unsere Meinung haben wir bis jetzt nicht geändert. Diesen Sheffielder Jungs strömt die Musikalität aus allen Poren.
 
 Was sich gestern abend auf dieser Bühne abgespielt hat, war hochprofessionell, perfekt auf aufeinander abgestimmt und dennoch erfüllt von Emotion, Empathie und Freude für die Musik und die Menschen, die sie genießen – angereichert mit der richtigen Menge Interaktion und Humor im richtigen Moment.
 
-Danke 65daysofstatic! Ihr habt mein Jahr 2023 ein großes Stück besser gemacht! 
+Danke 65daysofstatic! Ihr habt mein Jahr 2023 ein großes Stück besser gemacht!
 
 ## Sugar Horse live @ Knust, Hamburg
 
