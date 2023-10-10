@@ -8,7 +8,7 @@ seoTitle: 'Studie: Kaufen Cis-Männer durch maskulinere Werbung mehr vegan?'
 description: Männern veganes Essen schmackhaft zu machen – das ist manchmal gar nicht so einfach. Erfahrt jetzt, wie maskulineres Marketing helfen soll.
 excerpt: Müssen vegane Lebensmittel "männlich" sein, damit sich Cis-Männer mehr damit beschäftigen? Eine neue Studie setzt sich damit auseinander, ob "maskulineres" Marketing, dazu führt, dass pflanzenbasierte Lebensmittel auch häufiger im Einkaufswagen von Männern landen.
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-10/maenner-vegan-jpg-imagine-382838_675b55_1024_768/640.webp
-copyright: Gender Studies, Marketing, Veganismus, Ernährung & Gesundheit
+copyright:
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-10/maenner-gemuese-og-jpg-imagine-686878_6f6b53_1200_628/640.webp
 labels:
   - Gender Studies
