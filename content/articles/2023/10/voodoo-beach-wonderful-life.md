@@ -45,7 +45,7 @@ Wer sich im Genre bewegt, kennt Heike möglicherweise noch als Bassistin von ihr
 
 Bei ihrem Gitarrenspiel übernimmt sie heute Stilelemente aus dieser Zeit. So arbeitet sie, wie damals am Bass, viel mit Rückkopplungen. Ihr Spiel ist melodisch, rhyhtmisch und schön noisy.
 
-Teilweise wechselt sich Heike beim Singen mit John ab. Das könnt Ihr zum Beispiel im unten angefügten Klangbeispiel "Wonderful World" erleben, dem namensgebenden siebten Song auf dem Album, in dem es um das menschliche Unvermögen, den drohenden Kollaps zu erkennen und aufzuhalten, geht.
+Im unten angefügten Klangbeispiel, dem für das Album namensgebenden siebten Song "Wonderful World" wechselt sich Heike mit John Moods ab. In dem Stück geht es um das menschliche Unvermögen, den drohenden Kollaps zu erkennen und aufzuhalten.
 
 Düstere Bilder dieser Art greift die Band auf "Wonderful World" immer wieder auf. Allerdings auf erfrischende Art und ohne dabei anzuklagen oder allzu grüblerisch rüberzukommen. Ich habe Euch als zweites Beispiel die Vorauskopplung "Die Hand" (Track 3) mit an diesen Artikel angehängt.
 
