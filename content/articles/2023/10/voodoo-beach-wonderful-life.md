@@ -21,6 +21,8 @@ labels:
   - Reviews
   - Voodoo Beach
   - Berlin
+  - John Moods
+  - Crazysane Records
 focusKeyword: Vooodoo Beach – "Wonderful Life"
 advertisement: false
 affiliate: false
