@@ -82,7 +82,7 @@ Liebt Ihr wie ich [Rührtofu](/2017/10/ruehrtofu-vegan-herzhaft-und-lecker/)? Da
 
 Mir schmecken die veganen Produkte von Greenforce ausgesprochen gut. Mir gefällt, dass ich sie nach Bedarf ganz einfach frisch zubereiten kann und ich so immer genau die Menge parat habe, die ich gerade benötige. **Das Sortiment ist vielseitig** und man findet wirklich für jeden Geschmack was.
 
-**Mein Tipp:** Falls Ihr es süß mögt, schaut Euch mal die [vegane Frikandel zum Selbermachen](https://tidd.ly/3tu2NsT) an!
+**Mein Tipp:** Falls Ihr es süß mögt, schaut Euch mal den [veganen Schokokuchen zum Selbermachen](https://tidd.ly/3txcOpf) an!
 
 Die Inhaltsstoffe sind unbedenklich und das Beste: Alles kommt ohne Plastik aus. Beim Einkaufen und anschließenden Schlemmen schont man also auch die Umwelt.
 
