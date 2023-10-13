@@ -34,7 +34,7 @@ Greenforce findet Ihr (neben dem [Onlineshop](https://tidd.ly/3rOvCj4)) **auch i
 
 Ich zeige Euch heute unter anderem die Streichwurst, die Bratwurst und die **vegane Frühstückseierbox**. Auf meinen Bildern seht Ihr außerdem das praktische [Aufstrichglas](https://tidd.ly/46spD2B).
 
-## Streichwurst
+## Vegane Streichwurst-Alternative
 
 Vor etwa zwei Jahren stand ich in einem Supermarkt und konnte meinen Augen kaum trauen. Da haben wir den Salat! Es gibt jetzt auch eine **vegane Alternative für Streichwurst**! Gekauft habe ich sie bis heute nicht. Ich scheute mich zum einen vor den Zutaten (die, bis auf die tierischen Inhaltsstoffe, denen der direkt daneben liegenden "echten" Streichwurst überraschend ähnlich waren), zum anderen vor der aufwendigen Umverpackung aus Plastik.
 
