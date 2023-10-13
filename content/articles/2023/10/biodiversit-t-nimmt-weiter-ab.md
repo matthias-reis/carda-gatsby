@@ -46,7 +46,7 @@ Hannah Ritchie, Fiona Spooner und Max Roser von Our World in Data fokussieren si
 
 > "Die Dominanz der Menschen ist klar. Allein durch unser Zutun entstand etwa ein Drittel der Säugetier-Biomasse. Das ist fast zehnmal so viel wie bei wild lebenden Säugetieren.
 
-Auch ihre Grafik zeigt: Die Verteilung der Säugetiere auf der Erde ist erschrecken. Die Zahlen belegen es.
+Auch ihre Grafik zeigt: Die Verteilung der Säugetiere auf der Erde ist erschreckend. Die Zahlen belegen es.
 
 ![Grafik Our World In Data – "The biomass distribution on Earth" | large](https://storage.googleapis.com/cardamonchai-media/2023-10-13/distribution-of-earths-mammals-1315x1536-png-imagine-f8f8f8_e1d7d5_1315_1536/640.webp 'Grafik Our World In Data – "The biomass distribution on Earth"')
 
