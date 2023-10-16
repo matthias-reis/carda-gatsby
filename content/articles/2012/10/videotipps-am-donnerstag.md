@@ -34,7 +34,6 @@ labels:
   - Rock
   - Social Media
   - Soziale Netzwerke
-  - Twitter
   - Ulle
   - Video
   - videolink

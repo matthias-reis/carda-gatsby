@@ -32,7 +32,6 @@ labels:
   - Türkei
   - Tweet
   - Tweets
-  - Twitter
   - Urlaub
   - W.C. Williams
   - Worte
@@ -48,7 +47,7 @@ subTitle: Ist der Schachtelsatz vom Aussterben bedroht?
 
 **Eigentlich hatte ich vor, heute ein Rant über moderne Technik zu schreiben, da ich in den letzten Stunden mit Google-Konten, Synchronisierungen, Mobiltelefonen und diversen Netzwerkeinstellungen zu kämpfen hatte. Und natürlich auch mal wieder mit der Frage nach dem richtigen Betriebssystem. Doch ich denke, das überlasse ich lieber anderen.**
 
-Ich habe festgestellt, dass sich meine Aktivität, was das Blogschreiben betrifft, in der letzten Zeit ziemlich reduziert hat. Das mag am erhöhten Termindruck in den letzen Wochen liegen (Was mir, etwas reflektierend betrachtet,  jedoch eher wie eine passende Ausrede vorkommt), vor allem aber an der steigenden Zahl meiner [Tweets](http://twitter.com/#!/Carda_Mon). Twitter läuft nebenbei, sobald mir etwas in den Sinn kommt, habe ich es auch schon geschrieben. Verschenke ich meine Ideen an Twitter? Oder handelt es sich dabei um das ideale Medium, meiner Schreibweise gerecht zu werden, meine Gedanken zum Ausdruck zu bringen? Auch einige meiner Blogeinträge bestehen aus einer Aneinanderreihung kurzer, scheinbar nicht zusammenhängender Sätze. Einige betrachten das Twittern ja auch als Kunst. In 140 Zeichen alles zu sagen, was man der Welt mitteilen möchte. Daraus entstehen sogar lesenswerte [Bücher.](http://haekelschwein.de/buch.htm)
+Ich habe festgestellt, dass sich meine Aktivität, was das Blogschreiben betrifft, in der letzten Zeit ziemlich reduziert hat. Das mag am erhöhten Termindruck in den letzen Wochen liegen (Was mir, etwas reflektierend betrachtet,  jedoch eher wie eine passende Ausrede vorkommt), vor allem aber an der steigenden Zahl meiner Tweets. Twitter läuft nebenbei, sobald mir etwas in den Sinn kommt, habe ich es auch schon geschrieben. Verschenke ich meine Ideen an Twitter? Oder handelt es sich dabei um das ideale Medium, meiner Schreibweise gerecht zu werden, meine Gedanken zum Ausdruck zu bringen? Auch einige meiner Blogeinträge bestehen aus einer Aneinanderreihung kurzer, scheinbar nicht zusammenhängender Sätze. Einige betrachten das Twittern ja auch als Kunst. In 140 Zeichen alles zu sagen, was man der Welt mitteilen möchte. Daraus entstehen sogar lesenswerte [Bücher.](http://haekelschwein.de/buch.htm)
 
 Aber ist es nicht genau das, was wir vermeiden sollten, um unsere Sprache zu erhalten? Kurze, abgehackte, "digitale" Sätze? Ist nicht genau das, was wir früher einmal an guten Romanen geliebt haben der verspielte, ausgeschmückte Schachtelsatz? Ist er in unserer hektischen, elektronischen Welt vom Aussterben bedroht? Ich finde, wir sollten in pflegen. Ihn wieder beleben. Ja, ich bin für die Erhaltung des Schachtelsatzes. Deshalb werde ich auch versuchen, ab heute wieder mehr Texte zu schreiben. In mein Blog. Auf Blöcke. Twitter mit unbegrenzter Zeichenanzahl. Ein Traum eigentlich.
 

@@ -47,7 +47,6 @@ labels:
   - Streik
   - Telefon
   - Titelthemen
-  - Twitter
   - verdeckte Ermittler
   - Volk
   - Wahnsinn

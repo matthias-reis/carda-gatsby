@@ -59,7 +59,6 @@ labels:
   - Täter
   - Terror
   - Trauer
-  - Twitter
   - Utøya
   - Waffen
   - Wut

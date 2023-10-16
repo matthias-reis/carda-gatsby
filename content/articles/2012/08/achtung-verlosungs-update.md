@@ -72,7 +72,7 @@ Nun gibt es etwas Tolles zu Berichten: Gunter vom [Herzberg-Festival-Veranstaltu
 
 [Also macht auf jeden Fall mit, es lohnt sich!](//2012/08/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/)
 
-Ich freue mich natürlich sehr, wenn Ihr das auch weitersagt, Ihr dürft meinen Artikel gerne rebloggen oder auf Facebook oder Twitter teilen.
+Ich freue mich natürlich sehr, wenn Ihr das auch weitersagt, Ihr dürft meinen Artikel gerne rebloggen oder in den sozialen Netzwerken teilen.
 
 ## Gewinnspiel-Regeln
 

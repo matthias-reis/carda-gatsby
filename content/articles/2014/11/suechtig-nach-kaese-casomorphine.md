@@ -1,8 +1,6 @@
 ---
 ogTitle: Süchtig nach Käse durch Casomorphine - wie ich meine Sucht erkannte
-excerpt: Wusstet Ihr, dass man nach Käse richtig süchtig sein kann? Das ist
-  sogar wissenschaftlich erwiesen. Darum fällt es vielen so schwer, darauf zu
-  verzichten.
+excerpt: Wusstet Ihr, dass man nach Käse richtig süchtig sein kann? Das ist sogar wissenschaftlich erwiesen. Darum fällt es vielen so schwer, darauf zu verzichten.
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-11/kaese-vegan-png-imagine-180808_9a5824_1200_628/640.webp
 isAffiliate: false
 path: /2014/11/suechtig-nach-kaese-casomorphine/
@@ -19,9 +17,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11
 title: Süchtig nach Käse durch Casomorphine
 subTitle: Wie ich meine Sucht erkannte
 seoTitle: Süchtig nach Käse durch Casomorphine - wie ich meine Sucht erkannte
-description: Wusstet Ihr, dass man nach Käse richtig süchtig sein kann? Das ist
-  sogar wissenschaftlich erwiesen. Darum fällt es vielen so schwer, darauf zu
-  verzichten.
+description: Wusstet Ihr, dass man nach Käse richtig süchtig sein kann? Das ist sogar wissenschaftlich erwiesen. Darum fällt es vielen so schwer, darauf zu verzichten.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-11/kaese-vegan-jpg-imagine-281808_905322_1024_768/640.webp
 labels:
   - auf Käse verzichten
@@ -50,14 +46,6 @@ Sabine hatte sofort meine Neugier geweckt und so begann ich zu lesen, um möglic
 Ich kann mich noch genau an das Gespräch erinnern, das ich vor rund zwei Jahren mit einer Kollegin führte, die damals schon Veganerin war. Zu dem Zeitpunkt war ich selbst noch Vegetarierin und bewunderte sie sehr. An meine Frage an sie kann ich mich noch sehr genau erinnern: **"Ich kann mir irgendwie nicht vorstellen, auf Käse zu verzichten!** " – ein Satz, den ich später noch von sehr vielen Menschen gehört habe, Menschen, mit denen ich mich über den Veganismus unterhalten habe, Vegan-Interessenten, die kurz vor dem "Absprung" stehen, ein Satz, den auch ich damals durchaus ernst meinte.
 
 Heute ruft schon der Gedanke an Käse, die Käseproduktion oder alles, was mit [Milchprodukten](/2014/09/pflanzenmilch-wieso-denn-blos/) zu tun hat, Ekel in mir hervor. Damals konnte ich mir nicht mal im Traum vorstellen, keinen Käse mehr zu mir zu nehmen. Ich aß überall Käse dazu, alles habe ich überbacken, es gab Käsebrot, Käse im Salat, Käse auf der Pizza und manchmal sogar Käse pur. Als Ofenkäse zum Beispiel oder einfach so, zwischendurch ein Stück Käse aus dem Kühlschrank. Heute kann ich mir eine Pizza mit Käse nicht mehr vorstellen. Der würde ja schließlich auch den ganzen tollen Gemüsegeschmack überdecken.
-
-> Es ist alles wieder gut. Ich hab's mit Käse überbacken. — cardamonchai (@Anne_Reko) [February 13, 2013](https://twitter.com/Anne_Reko/status/301749620604817408?ref_src=twsrc%5Etfw)
-
-<script
-  async
-  src="https://platform.twitter.com/widgets.js"
-  charset="utf-8"
-></script>
 
 So viel zu meiner persönlichen "Käsegeschichte", wie ich schließlich den "Absprung" geschafft habe, weiß ich nicht mehr, vermisst habe ich den Käse bis heute nicht, ich habe weder Heißhungerattacken, noch Schweißausbrüche und im Traum werde ich auch nicht von Käsehäppchen verfolgt. Ich begab mich also auf die Recherche und was ich las, öffnete mir die Augen.
 

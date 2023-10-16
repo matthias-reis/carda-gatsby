@@ -42,7 +42,7 @@ Mein Dienstplan sagte "frei" und die Wettervorhersage erzählte von "mildem Frü
 
 Schon den kompletten Freitag wurde ich von schlimmen Niesanfällen geschüttelt. Davon und auch, dass am Samstagmorgen auch noch Husten dazugekommen war, wollte ich mich nicht unterkriegen lassen und wir fuhren trotzdem.
 
-<a target="_blank" href="https://www.instagram.com/anne_reko/">
+<a target="_blank" href="https://www.instagram.com/sounds_vegan/">
   <RemoteImage
     alt={`Wochenende`}
     size="full"

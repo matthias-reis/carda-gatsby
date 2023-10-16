@@ -13,31 +13,9 @@ remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_f605c3c2
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcGCAECBP/EAC0QAAEDAwIEBQMFAAAAAAAAAAECAwQFBhEAEgcTITEIIkFRcTJD8WKBkaHB/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUAAgP/xAAjEQACAgECBgMAAAAAAAAAAAABAgMRAIHBEiEiMUFhMnGh/9oADAMBAAIRAxEAPwDPEG5aZGveusyeKd105SZa0KhR4Sy2xg9UIO8ZA9wNHjxqsnnVNxVyV5wy3UuJSIS9rICdoSkZ7ep9zpPeJWmNROK9RW0By5aueR+rACv7GdLmBFOXVpGBjBPsNLnEcq23sd9Dh3VGaHrY46Ydy2lDiSG2r2vMh0JTvRTinACNuPr/AH0Vta+bfVddGai35fDpM1tLcV6MAy4VKSkJX5/pJ7/J1GqLwrmzbdhVFdUYimRHefMR7oQEjLfnA2jf174wPfOoHa2yBxBtx95SA21OjOKJIwkB1Oc6iEcVEVlpRJw9Xb6xmeI6kzZPEtaocfnhKQpXUYAUT3+fT41zWNZTD1Pms1ONIZccdbWy6WidhSe2exHzpkXlSavVeJsp5EaaphMkrTiM5yylCQkAqHTHlJ79c6JSI1wNt+aLJCU9AEbgB/KtZQQs7kH4gnWze+MHMaIpItiBpyrbNbru5+DVXHqdRpE5pUdKCluOShJzgkHHsckdjjVeqBR6ieK9KlTafIZjSKk3s3NYHVYPY9PxqwsaJUXASuPL3Eej2P8AdD6zQJS5NIklqbvRVYX3N+QX0JJxk9gSfxoooQ5Y+b/cFmp46HjP/9k=
 ogImage: null
 labels:
-  - Arschhaarzopf
-  - berühmte letzte worte
   - Blog
-  - Einhorn
-  - Einhörner
   - Geschichten & Erlebtes
-  - herzig
-  - Katzen
-  - Leben
-  - Liebe
-  - Love
-  - Me
-  - Mett
-  - neue songs
-  - Nutella
   - Prosa
-  - Sarkasmus
-  - Sätze
-  - Schicksal
-  - Schlaflosigkeit
-  - Sie teilen das Schicksal
-  - Tweets
-  - Twitter
-  - twittern
-  - Vegetarier
   - Wörter
 focusKeyword: Twitter
 status: publish

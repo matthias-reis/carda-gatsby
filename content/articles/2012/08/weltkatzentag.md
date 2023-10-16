@@ -58,4 +58,4 @@ Außerdem war da noch ein Traum von den Katern. Sie schwammen in einer Hotelbade
 
 Aufgewacht. Den Wecker auf später gestellt. Dann ging er gar nicht mehr an. Frühsport: Versucht, mich so schnell wie möglich fertig zu machen, damit ich nicht zu spät komme. Dabei selbstverständlich mehrfach über die eigenen Füße gestolpert.
 
-Ibuprofen, Meeting, Kaffee. Werde [bei Twitter](https://twitter.com/Anne_Reko) entfolgt. Mir egal, mögen die wohl keine Katzen. Heute Abend See mit Milchkaffee. Morgen dann emotional vielleicht wieder weniger am Rande. Vielleicht ein Beitrag mit einem Bild vom See. Oder mit einem Bild von einem Baum. Oder gar kein Beitrag, oder zwei.
+Ibuprofen, Meeting, Kaffee. Werde in Social Media entfolgt. Mir egal, mögen die wohl keine Katzen. Heute Abend See mit Milchkaffee. Morgen dann emotional vielleicht wieder weniger am Rande. Vielleicht ein Beitrag mit einem Bild vom See. Oder mit einem Bild von einem Baum. Oder gar kein Beitrag, oder zwei.

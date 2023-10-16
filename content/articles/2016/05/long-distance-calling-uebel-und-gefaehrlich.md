@@ -42,7 +42,7 @@ Da durften wir natürlich nicht fehlen. In der ersten Reihe wurde die Band gefei
 
 ## Im Anschluss an Long Distance Calling gab es noch was Besonderes
 
-Und im Anschluss ging der Spaß noch weiter: Kein Geringerer, als [Johannes Heil](https://www.instagram.com/p/BE0UZwjQVdK/?taken-by=anne_reko) ließ an Ort und Stelle die Plattenspieler qualmen! Was ein Abend! Hier ein paar Eindrücke.
+Und im Anschluss ging der Spaß noch weiter: Kein Geringerer, als [Johannes Heil](https://www.instagram.com/p/BE0UZwjQVdK/?taken-by=sounds_vegan) ließ an Ort und Stelle die Plattenspieler qualmen! Was ein Abend! Hier ein paar Eindrücke.
 
 <Gallery
   images={[

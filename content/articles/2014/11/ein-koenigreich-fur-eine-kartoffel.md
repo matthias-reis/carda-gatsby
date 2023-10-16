@@ -44,7 +44,7 @@ subTitle: Auflauf mit Pastinaken und Kartoffeln
 
 ## Die Kartoffel - Eine wunderbare Knolle
 
-Da ich die einzelnen Schritte fotografiert habe und ich es für eine Verschwendung halte, die einfach nur in [Instagram](http://instagram.com/anne_reko) zu teilen, habe ich es aufgeschrieben. Wenn Ihr Euch an die Mengenangaben haltet, reicht der Auflauf gut für 2 Personen, eine Person hat am nächsten Tag noch ein schönes Mittagessen (lässt sich prima aufwärmen). Ich wünsche Euch viel Spaß beim Nachkochen.
+Da ich die einzelnen Schritte fotografiert habe und ich es für eine Verschwendung halte, die einfach nur in [Instagram](http://instagram.com/sounds_vegan) zu teilen, habe ich es aufgeschrieben. Wenn Ihr Euch an die Mengenangaben haltet, reicht der Auflauf gut für 2 Personen, eine Person hat am nächsten Tag noch ein schönes Mittagessen (lässt sich prima aufwärmen). Ich wünsche Euch viel Spaß beim Nachkochen.
 
 <RemoteImage
   alt={`Kartoffel`}
@@ -122,7 +122,7 @@ Fertig ist ein winterliches Gericht mit vielen leckeren Zutaten, gesunden Nährs
 
 Servieren und genießen.
 
-Täglich aktuelle Gerichte von mir findet Ihr auch immer in meinem [Instagram-Kanal](http://instagram.com/anne_reko).
+Täglich aktuelle Gerichte von mir findet Ihr auch immer in meinem [Instagram-Kanal](http://instagram.com/sounds_vegan).
 
 Kulinarische Grüße Anne
 

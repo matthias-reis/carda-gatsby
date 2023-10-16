@@ -48,7 +48,7 @@ _Sarah, Ali, Angelika, Ortwin, Kristina, Annett, Florian, Caro, Sandra die mir 
 
 Wer mitmachen möchte, kann ganz einfach per  [E-Mail](mailto:info@soundsvegan.com) meine Adresse anfordern und schon kann es losgehen. Ich bin schon gespannt drauf, wie es weitergeht!
 
-Hier noch ein dickes Sorry dafür, dass ich Euch heute bei [Instagram](http://instagram.com/anne_reko/)  so mit Bildern zuspammen musste, ich bin bei diesem derart hohen Postaufkommen einfach mit dem Abfotografieren nicht mehr hinterhergekommen. Dazu kam noch erschwerend hinzu, dass meine iPhone-Kamera vor ein paar Tagen die Grätsche gemacht hat und ich ja erstmal alles in Instagram sammeln wollte, um dem gewählten Stil treu zu bleiben. Also musste ich da heute eine ganze Menge nachholen.
+Hier noch ein dickes Sorry dafür, dass ich Euch heute bei [Instagram](http://instagram.com/sounds_vegan)  so mit Bildern zuspammen musste, ich bin bei diesem derart hohen Postaufkommen einfach mit dem Abfotografieren nicht mehr hinterhergekommen. Dazu kam noch erschwerend hinzu, dass meine iPhone-Kamera vor ein paar Tagen die Grätsche gemacht hat und ich ja erstmal alles in Instagram sammeln wollte, um dem gewählten Stil treu zu bleiben. Also musste ich da heute eine ganze Menge nachholen.
 
 ## Aus diesen Winkeln der Erde haben mich Eure Postkarten erreicht
 

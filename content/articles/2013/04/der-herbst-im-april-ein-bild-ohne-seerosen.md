@@ -48,7 +48,7 @@ errors: {}
 subTitle: Ein Bild ohne Seerosen
 ---
 
-**Wie geht es Euch? Ich lese täglich Eure [Tweets](https://twitter.com/Anne_Reko) und Blogeinträge und stelle dabei fest: Je länger die inzwischen 7 Monate junge Eiszeit andauert, desto seltener schreibt Ihr über fröhlich bunte Einhörner, Zuckerwatte oder andere schöne Dinge. Immer häufiger scheinen sperrige Themen wie Pontifäxe, Diäten und verrostete Autos die Timelines dieser Welt zu blockieren.**
+**Wie geht es Euch? Ich lese täglich Eure Posts und Blogeinträge und stelle dabei fest: Je länger die inzwischen 7 Monate junge Eiszeit andauert, desto seltener schreibt Ihr über fröhlich bunte Einhörner, Zuckerwatte oder andere schöne Dinge. Immer häufiger scheinen sperrige Themen wie Pontifäxe, Diäten und verrostete Autos die Timelines dieser Welt zu blockieren.**
 
 <RemoteImage
   alt={`Bild: 'Ronnies Flowers' Anne Reko Frühling in London 2009`}

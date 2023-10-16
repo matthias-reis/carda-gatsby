@@ -40,7 +40,6 @@ labels:
   - Schnee
   - Strand
   - Tweets
-  - Twitter
   - warum liegt hier Schnee rum
   - was macht ihr
   - wenn die Hölle zufriert

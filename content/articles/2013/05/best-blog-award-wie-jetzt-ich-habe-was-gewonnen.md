@@ -104,7 +104,7 @@ Lidschatten
 
 _ **11.) Ich verlasse das Haus nie ohne?** _
 
-[Twitter](https://twitter.com/Anne_Reko)
+Buch
 
 Hier sind meine Nominierungen für den Best Blog Award:
 

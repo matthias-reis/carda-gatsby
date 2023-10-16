@@ -118,7 +118,7 @@ Die Flüssigkeit mit dem Seitan könnt Ihr nun vorsichtig in die Vorratsdose fü
 
 ## Seitan in allen Variationen
 
-Ihr könnt das Seitan direkt nach dem Kochen weiterverarbeiten, am besten lasst Ihr es auf einem Küchenkrepp vor dem Braten erstmal gut abtropfen. Ich habe ein paar Serviervorschläge hier mit eingefügt, noch mehr Rezepte findet Ihr täglich frisch in meinem [Instagram-Feed](https://www.instagram.com/anne_reko/).
+Ihr könnt das Seitan direkt nach dem Kochen weiterverarbeiten, am besten lasst Ihr es auf einem Küchenkrepp vor dem Braten erstmal gut abtropfen. Ich habe ein paar Serviervorschläge hier mit eingefügt, noch mehr Rezepte findet Ihr täglich frisch in meinem [Instagram-Feed](https://www.instagram.com/sounds_vegan/).
 
 Ich wünsche Euch viel Spaß beim Kochen und guten Appetit!
 
