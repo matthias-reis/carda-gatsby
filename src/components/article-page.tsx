@@ -138,7 +138,7 @@ export const ArticlePage: React.FC<ArticleProps> = ({
             </ImageContainerCopyright>
           )}
         </ImageContainer>
-        <div>{children}</div>
+        <Content>{children}</Content>
         {isAdOrAffiliate && (
           <>
             <HR />
@@ -256,4 +256,9 @@ const AdAndAffiliateDisclaimer = styled.p`
   font-size: ${fontSize[2]};
   text-decoration: none;
   color: ${color.text30};
+`;
+const Content = styled.div`
+  & .footnote {
+    background: transparent !important;
+  }
 `;
