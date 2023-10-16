@@ -258,7 +258,7 @@ const AdAndAffiliateDisclaimer = styled.p`
   color: ${color.text30};
 `;
 const Content = styled.div`
-  & .footnote {
+  & .footnotes {
     background: transparent !important;
   }
 `;
