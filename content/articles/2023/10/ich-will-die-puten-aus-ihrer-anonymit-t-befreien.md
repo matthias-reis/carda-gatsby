@@ -164,6 +164,8 @@ Unser Ziel wird auf jeden Fall bleiben, die Puten aus ihrer Anonymität zu holen
 
 **Nadine:** Danke für Deine Zeit!
 
+**Bilder:** Federherz e. V.
+
 [^1]: [Federherz e. V.](https://www.federherzev.de/)
 [^2]: [PUTititon](https://l.instagram.com/?u=https%3A%2F%2Fchng.it%2F9RPFdfsqSB&e=AT3XFuMK6N_sxr-VebtKMqxzkP9QLy3OX1w2IoWaEYmxcX7ywnjD-2ZiGIrqu2j4YOeeV7K0icw1cZa2HgeJRuxdz3CHMam3pm3lf3NqfkgQY5Zbu6M8)
 [^3]: [Rettet das Huhn](https://www.rettet-das-huhn.de/)
