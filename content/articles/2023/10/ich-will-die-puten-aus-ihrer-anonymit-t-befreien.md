@@ -118,7 +118,7 @@ Das alles war für uns der Schlüsselmoment, der zu dem führte, was wir heute s
 
 Die Puten, die bei uns in Deutschland in der Regel gehalten werden, sind die "Big 6" von British United Turkeys. Das sind, genau wie bei dem Beispiel mit The Gentle Barn, genetisch veränderte Tiere. Man kann also davon ausgehen, dass sie, wenn sie nicht modifiziert sind, sogar noch älter werden können.
 
-Wir beobachten diese genetischen Veränderungen auch bei uns auf dem Hof. Wir hatten auch schon Puten hier, die erst noch nicht so schwer waren und nach der ersten Mauser noch mal extrem an Gewicht zugelegt haben. Das sind wirklich große Eingriffe in die Natur der Tiere, die bei "Haustieren" vermutlich zu großen Skandalen führen würden. Da wird zum Beispiel auch die Schnabelspitze genetisch angepasst. Dazu stehen auch einige Details im vorletzten Update unserer PUTition[^1].
+Wir beobachten diese genetischen Veränderungen auch bei uns auf dem Hof. Wir hatten auch schon Puten hier, die erst noch nicht so schwer waren und nach der ersten Mauser noch mal extrem an Gewicht zugelegt haben. Das sind wirklich große Eingriffe in die Natur der Tiere, die bei "Haustieren" vermutlich zu großen Skandalen führen würden. Sie werden zum Beispiel auch als Babys in eine Maschine gespannt und ihre Schnäbel werden mit Laser gekürzt. Dazu stehen auch einige Details im vorletzten Update unserer PUTition[^1].
 
 ![Zwei weiße Truthähne stehen sich gegenüber. Ihre Körper und Schnäbel bilden ein Herz.](https://storage.googleapis.com/cardamonchai-media/2023-10-16/elvin-linus-federherz-jpeg-imagine-f8f8e8_b19e90_1024_768/640.webp 'Elvin und Linus. Bild: Federherz e. V.')
 
