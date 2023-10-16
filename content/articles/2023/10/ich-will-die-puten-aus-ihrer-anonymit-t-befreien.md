@@ -124,7 +124,7 @@ Wir beobachten diese genetischen Veränderungen auch bei uns auf dem Hof. Wir ha
 
 **Anne:** Dann sind das sicher auch die häufigsten medizinischen Schwierigkeiten, mit denen Ihr zu tun habt bei Euren Puten, nehme ich an?
 
-## "Die Tierrechtsaktivist\*innen unterstützen uns immer sofort
+## "Die Tierrechtsaktivist\*innen unterstützen uns immer sofort"
 
 **Nadine:** Am häufigsten sind bakterielle Infektionskrankheiten, wie zum Beispiel die Schwarzkopfkrankheit. Hinzu kommen Verletzungen und Veränderungen an den Fußballen und natürlich das extreme Gewicht, das den Tieren zu schaffen macht. Unser Henry war, als er zu uns kam, gar nicht in der Lage, seinen viel zu groß gewachsenen Körper zu tragen und ist andauernd über seine eigenen Füße gestolpert – und er ist ja nach wie vor ein Baby. Die Kaliumunterversorgung trägt dann auch noch ihren Teil dazu bei.
 
