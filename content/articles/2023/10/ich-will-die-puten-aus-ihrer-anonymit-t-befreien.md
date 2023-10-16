@@ -148,7 +148,7 @@ Die Leute vom ZDF, die uns besucht haben, waren auch so tolle Menschen. Wir habe
 
 **Nadine:** Schaut Euch in der ARD Mediathek den Beitrag "Die verborgene Welt der Turboputen"[^5] an und erzählt weiter, wie es diesen Tieren ergeht! Unterschreibt die Putition[^1] und werdet Tierpat\*innen[^6]! Ansonsten sind uns Spenden[^7] natürlich immer willkommen! Die Tierarztkosten sind bei uns, wie man sich vorstellen kann, immer sehr hoch. Das Geld kommt bei uns auch wirklich bei den Tieren an. Wir haben das auch in unserer Satzung stehen. Wir verdienen auch alle kein Geld und machen das alles komplett ehrenamtlich. Unsere Vögel freuen sich sonst immer über eine leckere Portion Geflügelkörnermix mit Mohn, Bierhefe, Hanfsamen, Karotten und Oregano-Öl[^8].
 
-## "Puten sind kleine magische Einhörner"
+## "Puten sind magische kleine Einhörner"
 
 **Anne:** Wann kann man den Federherz e. V. Lebenshof besuchen? Gibt es feste Termine?
 
