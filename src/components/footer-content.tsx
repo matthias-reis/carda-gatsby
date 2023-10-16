@@ -45,7 +45,7 @@ export const FooterContent: React.FC = () => (
         <NetworkList>
           <li>
             <NetworkItem
-              href="https://www.instagram.com/anne_reko/"
+              href="https://www.instagram.com/sounds_vegan/"
               target="_blank"
               onClick={() => event('link/click', 'link', 'footer/instagram')}
             >
