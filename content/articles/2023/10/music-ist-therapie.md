@@ -122,11 +122,19 @@ Würdet Ihr sagen, dass die Musik in Eurem Leben für eine positive Transformati
 
 Besra sind ein experimentelles Post-Metal-Project aus dem finnischen Turku. Die Mitglieder heißen:
 
-Hannes Hietarinta – Lead Vocals, Keyboards Ville Kaisla – Drums Ville Kujansuu – Gitarren Mika Mäkilaakso – Gitarren, Keyboards, Vocals Johannes Nygård – Gitarren Pekko Seppälä – Bass
+- Hannes Hietarinta – Lead Vocals, Keyboards
+- Ville Kaisla – Drums
+- Ville Kujansuu – Gitarren
+- Mika Mäkilaakso – Gitarren, Keyboards, Vocals
+- Johannes Nygård – Gitarren
+- Pekko Seppälä – Bass
 
 Die Besra Diskografie (bis jetzt):
 
-"Anhedonia" (LP / 2018 / Temple of Torturous) "Unsullied" (Single / 2020 / Besra) "Live at Rødhouse Studio" (EP / 2023 / Besra) "Transitions" (LP / 2023 / Suicide Records)
+- "Anhedonia" (LP / 2018 / Temple of Torturous)
+- "Unsullied" (Single / 2020 / Besra)
+- "Live at Rødhouse Studio" (EP / 2023 / Besra)
+- "Transitions" (LP / 2023 / Suicide Records)
 
 ## Besra – "Sentinels"
 
