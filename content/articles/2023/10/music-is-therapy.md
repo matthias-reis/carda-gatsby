@@ -7,9 +7,9 @@ subTitle: Interview with Besra Members Hannes and Ville
 seoTitle: Besra – Post-Metal from Finland – Interview
 description: Besra's newest album, "Transitions", is a story about the pains of change in six beautiful chapters. Read the interview to reveal its secret.
 excerpt: I already took the chance to post my review of Besra's newest album, "Transitions"—a story about the pains of change in six beautiful chapters. After sharing it with the guys, we agreed on an interview, and here we are. Please enjoy it! Hannes, Ville, and I had a pleasant conversation about music and life in general, and they shared lots of precious insights about the record with me.
-image: https://storage.googleapis.com/cardamonchai-media/2023-10-18/besra-interview-soundsvegan-1-jpeg-imagine-282828_504f4e_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2023-10-18/besra-band-interview-soundsvegan-jpeg-imagine-080808_141010_1024_768/640.webp
 copyright: Besra
-ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-18/besra-interview-soundsvegan-og-jpeg-imagine-282828_5c4b4a_1200_630/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-18/besra-band-interview-soundsvegan-og-jpeg-imagine-080808_151111_1200_630/640.webp
 labels:
   - Besra
   - Post-Metal
@@ -120,7 +120,9 @@ Would you say making music transformed your life into something better?
 
 **Ville:** Thank you, Anne, for the great conversation, and all the best to you in Hamburg!
 
-Besra is an experimental post-metal project from Turku, Finland. Members are:
+Besra is an experimental post-metal project from Turku, Finland.
+
+## Band members
 
 - Hannes Hietarinta – lead vocals, keyboards
 - Ville Kaisla – drums
@@ -128,10 +130,11 @@ Besra is an experimental post-metal project from Turku, Finland. Members are:
 - Mika Mäkilaakso – guitars, keyboards, vocals
 - Johannes Nygård – guitars Pekko Seppälä – bass
 
-Their discography (so far):
+## Besra discography (so far):
 
 - "Anhedonia" (LP / 2018 / Temple of Torturous)
-- "Unsullied" (Single / 2020 / Besra) "Live at Rødhouse Studio" (EP / 2023 / Besra)
+- "Unsullied" (Single / 2020 / Besra)
+- "Live at Rødhouse Studio" (EP / 2023 / Besra)
 - "Transitions" (LP / 2023 / Suicide Records)
 
 ## Besra – "Sentinels"

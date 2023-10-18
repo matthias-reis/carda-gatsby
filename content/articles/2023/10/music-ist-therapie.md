@@ -7,9 +7,9 @@ subTitle: Interview mit Ville und Hannes von Besra
 seoTitle: 'Besra –  Interview – Post-Metal aus Finnland '
 description: Das neue Besra Album ist eine Geschichte über den Schmerz der Veränderung in sechs wunderschönen Kapiteln. Lest jetzt das Interview und erfahrt das Geheimnis der Platte.
 excerpt: Vor Kurzem habe ich bereits die Gelegenheit genutzt, meine Review des neuesten Besra Albums "Transitions" zu veröffentlichen – eine Geschichte über den Schmerz der Veränderung in sechs wunderschönen Kapiteln. Jetzt habe ich mich mit Hannes und Ville zum Interview getroffen. Sie haben mir mir zahlreiche tiefe Einblicke in die Entstehung der Platte und Ihr Leben gewährt.
-image: https://storage.googleapis.com/cardamonchai-media/2023-10-18/besra-interview-soundsvegan-1-jpeg-imagine-282828_504f4e_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2023-10-18/besra-band-interview-soundsvegan-jpeg-imagine-080808_141010_1024_768/640.webp
 copyright: Besra
-ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-18/besra-interview-soundsvegan-og-jpeg-imagine-282828_5c4b4a_1200_630/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-18/besra-band-interview-soundsvegan-og-jpeg-imagine-080808_151111_1200_630/640.webp
 labels:
   - Besra
   - Post-Metal
@@ -120,16 +120,17 @@ Würdet Ihr sagen, dass die Musik in Eurem Leben für eine positive Transformati
 
 **Ville:** Danke Dir, Anne, für das gute Gespräch und alles Gute nach Hamburg!
 
-Besra sind ein experimentelles Post-Metal-Project aus dem finnischen Turku. Die Mitglieder heißen:
+Besra sind ein experimentelles Post-Metal-Project aus dem finnischen Turku.
 
-- Hannes Hietarinta – Lead Vocals, Keyboards
-- Ville Kaisla – Drums
-- Ville Kujansuu – Gitarren
-- Mika Mäkilaakso – Gitarren, Keyboards, Vocals
-- Johannes Nygård – Gitarren
-- Pekko Seppälä – Bass
+## Band members
 
-Die Besra Diskografie (bis jetzt):
+- Hannes Hietarinta – lead vocals, keyboards
+- Ville Kaisla – drums
+- Ville Kujansuu – guitars
+- Mika Mäkilaakso – guitars, keyboards, vocals
+- Johannes Nygård – guitars Pekko Seppälä – bass
+
+## Besra Diskografie (bis jetzt):
 
 - "Anhedonia" (LP / 2018 / Temple of Torturous)
 - "Unsullied" (Single / 2020 / Besra)
