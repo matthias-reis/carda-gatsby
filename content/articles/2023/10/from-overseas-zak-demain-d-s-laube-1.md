@@ -30,11 +30,11 @@ language: de
 languageLink: /2023/10/from-overseas-zake-demain-des-l-aube-en/
 ---
 
-**"Demain, dès l'aube" – "Morgen bei Sonnenaufgang" heißt das neue Werk, das aus der Zusammenarbeit meiner Ambient-Lieblinge Kévin Séry aka From Overseas und Zach Frizzell aka Zakè enstanden ist. Die Sound-Künstler erschaffen gemeinsam wunderschöne Klangwelten – oder sollte ich besser sagen die Basis für Träume?**
+**"Demain, dès l'aube" ("Morgen bei Sonnenaufgang") heißt das neue Werk, das aus der Zusammenarbeit meiner Ambient-Lieblinge Kévin Séry aka From Overseas und Zach Frizzell aka Zakè enstanden ist. Erneut haben die Sound-Künstler gemeinsam wunderschöne Klangwelten erschaffen – oder sollte ich besser sagen die Basis für Träume?**
 
 Öffnet man an einem Spätsommermorgen die Tür und betritt, noch barfuß und verschlafen, das taunasse Gras, begegnen einem, neben Insekten und Vögeln, die ersten Gedanken des Tages. Sie befreien sich, genau, wie die Tiere in den umliegenden Bäumen, langsam von der Schwere des Schlafs und suchen ihren Weg nach draußen.
 
-Dieses Bild visualisieren Kévin und Zach beim ersten der insgesamt acht Stücke auf "Demain, dès l'aube" ganz wunderbar mit ihren Instrumenten – zart und spielerisch entwickelt es sich und geht nach 4:55 sanft in das zweite Stück "Heather in Bloom" über.
+Dieses Bild visualisieren [From Overseas](/2020/04/from-overseas-interview/) und Zakè beim ersten der insgesamt acht Stücke auf "Demain, dès l'aube" ganz wunderbar mit ihren Instrumenten – zart und spielerisch entwickelt es sich und geht nach 4:55 sanft in das zweite Stück "Heather in Bloom" über.
 
 ## Der Übergang von Sommer zu Winter in acht Songs
 
@@ -59,3 +59,15 @@ Mit seinem Label [Past Inside the Present](/tag/past-inside-the-present) hat Ké
 Wer auf der Suche nach traumhaften, melodischen und meditativen Klängen ist, wird hier fündig. "Demain, dès l'aube" ist weit entfernt von der lauten, brutalen und grellen Welt, die uns umgibt. Das Album ist viel mehr ein Rückzugsort – ein Safe Space, in dem Träume und Harmonie noch erlaubt sind.
 
 Besonders schön: Die Stücke sind zum Teil etwas länger, als man es vielleicht auch aus diesem Genre gewohnt ist. Mit zwischen knapp fünf bis 21 Minuten bringt "Demain, dès l'aube" acht hochmusikalische Klanginkremente, die durchaus als Untermalung für Meditation-Sessions und kreatives Brainstorming dienen können – sie beflügeln die Fantasie. Insgesamt sind sie die perfekte Begleitmusik für jede Lebenslage. Ihr solltet sie auf jeden Fall immer dabei haben: für all die Momente, in denen ihr Euch eine wohlfühlige musikalische Begleitung wünscht. Damit Ihr Euch nie wieder verloren fühlt.
+
+## From Overseas & Zakè – "Demain, dès l'aube"
+
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3264157945/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://pitp.bandcamp.com/album/demain-d-s-l-aube">
+    Demain, dès l’aube by From Overseas &amp; zakè
+  </a>
+</iframe>
