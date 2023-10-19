@@ -50,7 +50,7 @@ languageLink: /2023/10/besra-interview/
 
 **Ville:** The oldest track, "Landscapes", almost made it onto our first album. We had to draw a line somewhere, and now it's found its place on this album—although we did indeed rework it a couple of times. It would have felt wrong to exclude old songs just because they are older compositions. Our album is like a wine-tasting evening—you are comparing different vintages but still getting intoxicated from the same alcohol!
 
-**Anne:** That's quite a good comparison! One of my absolute favourites on "Transitions" is "Cries and Lamentations"—the middle part is pure magic. Do you want to tell me the story of this grand finale of the record?
+**Anne:** That's quite a good comparison! One of my absolute favourite on "Transitions" is "Cries and Lamentations"—the middle part is pure magic. Do you want to tell me the story of this grand finale of the record?
 
 ## "I had my 'Toto' moment with 'Cries and Lamentations'"
 
