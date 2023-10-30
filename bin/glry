@@ -1,0 +1,5 @@
+#!/bin/bash
+cd /Users/annereis/Documents/carda-gatsby
+export PATH=/usr/local/bin:/opt/homebrew/bin:$PATH
+echo 'glry parameters:' $@
+yarn glry $@

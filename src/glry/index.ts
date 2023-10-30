@@ -12,27 +12,33 @@ import { upload } from './upload';
 const tmpFolder = resolve(tmpdir(), './glry');
 
 const run = async (glryName: string, folder: string) => {
+  log(`using gallery name <${glryName}>`);
+  log(`path <${folder}>`);
   try {
     mkdirSync(tmpFolder);
     log(`[glry publish] running ...`);
     log(`temp folder <${tmpFolder}>`);
 
-    const files = glob.sync(`${folder}/*.jpg`);
+    const files = glob.sync(`${folder}/*.j*g`);
     log(`<${files.length}> files detected`);
 
-    await transform(files, tmpFolder, glryName);
-    log('finished transforming data');
+    if (files.length === 0) {
+      err(`No files found. Stopping!`);
+    } else {
+      await transform(files, tmpFolder, glryName);
+      log('finished transforming data');
 
-    await upload(tmpFolder, glryName);
-    log('finished uploading data');
+      await upload(tmpFolder, glryName);
+      log('finished uploading data');
+    }
   } catch (e) {
     err(e);
   } finally {
-    log('finally');
+    log('ending');
     rimraf.sync(tmpFolder);
   }
 };
 
-const [, , glryName] = process.argv;
+const [, , glryName, cwd] = process.argv;
 
-run(glryName, process.cwd());
+run(glryName, cwd);
