@@ -134,7 +134,7 @@ Das trägt dazu bei, dass FLINTA\* kein Glauben geschenkt wird, weil der Eindruc
 
 ## "Anerkennen, reflektieren und in Zukunft bewusster handeln"
 
-![Text im Bild: "kontroverbal – Legale Abbrüche retten leben". Die Schrift ist weiß auf einem lilafarbenen Hintergrund mit Verlauf, eingerahmt von zwei orangefarbenen Schleifen.](https://storage.googleapis.com/cardamonchai-media/2023-11-01/kontroverbal-j-depp-amber-heard-jpg-imagine-383868_636074_4724_4724/640.webp 'Kampagnenbild von kontroverbal zum Thema "Legale Schwangerschaftsabbrüche". Bild: kontroverbal')
+![Text im Bild: "kontroverbal – Legale Abbrüche retten leben". Die Schrift ist weiß auf einem lilafarbenen Hintergrund mit Verlauf, eingerahmt von zwei orangefarbenen Schleifen.](https://storage.googleapis.com/cardamonchai-media/2023-11-01/kontroverbal-abbrueche-jpg-imagine-f8f8f8_958abb_4724_4724/640.webp 'Kampagnenbild von kontroverbal zum Thema "Legale Schwangerschaftsabbrüche". Bild: kontroverbal')
 
 **N:** Zuerst einmal: Ich hinterfrage es nicht. Es gibt keine Diskussion. Ich nehme die Person ernst. Ich nehme das an, akzeptiere es, ohne Wenn und Aber. Dann entschuldige ich mich für meine aus Unwissenheit entsprungene Ignoranz und dafür, dass ich sie und viele weitere Menschen damit verletzt habe. Und werde natürlich dieses Kleidungsstück so schnell wie möglich entsorgen.
 
