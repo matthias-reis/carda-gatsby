@@ -150,9 +150,7 @@ Und auch wenn das für viele, die nicht von Rassismus betroffen sind, im ersten 
 
 ## "Veganismus und Tierrechte zählen zu unseren wichtigsten Themen"
 
-![Text im Bild: "kontroverbal". Eine weiblich gelesene Person mit schulterlangem Haar, einem grauen T-Shirt, einer schwarzen Hose und einem grünen Hemd steht links neben einer männlich gelesenen Person mit kurzem Haar, einer dunkelblauen Mütze, einem weinroten T-Shirt, einer grauen Hose und einem schwarzen Hemd. Beide sind im Comicstil gezeichnet. Der Hintergrund ist helllila. Beide heben eine Faust und halten sich an den Händen.".](https://storage.googleapis.com/cardamonchai-media/2023-11-01/kontroverbal-j-depp-amber-heard-jpg-imagine-383868_636074_4724_4724/640.webp 'Profilbild von kontroverbal. Bild: kontroverbal')
-
-HIER https://storage.googleapis.com/cardamonchai-media/2023-11-01/kontroverbal-interview-instagram-jpg-imagine-d8b8e8_a693b1_4724_4724/640.webp
+![Text im Bild: "kontroverbal". Eine weiblich gelesene Person mit schulterlangem Haar, einem grauen T-Shirt, einer schwarzen Hose und einem grünen Hemd steht links neben einer männlich gelesenen Person mit kurzem Haar, einer dunkelblauen Mütze, einem weinroten T-Shirt, einer grauen Hose und einem schwarzen Hemd. Beide sind im Comicstil gezeichnet. Der Hintergrund ist helllila. Beide heben eine Faust und halten sich an den Händen.".](https://storage.googleapis.com/cardamonchai-media/2023-11-01/kontroverbal-interview-instagram-jpg-imagine-d8b8e8_a693b1_4724_4724/640.webp 'Profilbild von kontroverbal. Bild: kontroverbal')
 
 **T:** Auf jeden Fall! Bisher haben wir bisher nicht allzu viel zu dem Thema gebracht, weil wir uns mit anderen Dingen beschäftigt haben. Aber als wir kontroverbal gestartet haben, haben wir einen mehrseitigen Content-Plan erstellt und **Veganismus und Tierschutz** haben darauf prominente Plätze. Gerade für N. ist das Thema auch ein Wichtiges, sie lebt schon deutlich länger vegan und sie würde ich da als absolute Expertin heranziehen.
 
