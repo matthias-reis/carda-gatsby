@@ -182,6 +182,6 @@ Bei mir ist das durch die **vegane Szene** immer präsenter geworden. Man hat si
 
 **N:** Danke Anne. Ich wünsche auch Dir viel Kraft. Es ist ermüdend momentan, aber ich bin froh, Menschen wie dich zu kennen, die mir zeigen, dass man nicht allein ist!
 
-**T:** Danke Dir, Anne, und Dir auch viel Kraft und alles Gute für das, was Du demnächst vorhast.
+**T:** Danke Dir! Viel Kraft und alles Gute für Deine Pläne!
 
 [^1]: [kontoverbal auf Instagram](https://www.instagram.com/kontroverbal/)
