@@ -50,7 +50,7 @@ language: de
 
 ## "Haben wir wirklich aus der Vergangenheit gelernt?"
 
-![Text im Bild: "kontroverbal – Alfred Jodocus Quack – die politische Kinderserie der 90er-Jahre." Auf orangem Hintergrund ist die Zeichentrickfigur Alfred Joducus Kwak die Ente zu sehen. Seine Federn sind weiß, sein Schnabel orange.](https://storage.googleapis.com/cardamonchai-media/2023-11-01/kontroverbal-love-bombing-transpi-jpg-imagine-383868_7e6c8c_1024_768/640.webp 'Die Zeichentrickfigur Alfred Jodocus Kwak machte sich schon in den 1990er-Jahren gegen Ungerechtigkeit stark. Bild: kontroverbal')
+![Text im Bild: "kontroverbal – Alfred Jodocus Quack – die politische Kinderserie der 90er-Jahre." Auf orangem Hintergrund ist die Zeichentrickfigur Alfred Joducus Kwak die Ente zu sehen. Seine Federn sind weiß, sein Schnabel orange.](https://storage.googleapis.com/cardamonchai-media/2023-11-01/kontroverbal-alfred-j-quack-jpg-imagine-c8a8d8_d197a7_2362_2362/640.webp 'Die Zeichentrickfigur Alfred Jodocus Kwak machte sich schon in den 1990er-Jahren gegen Ungerechtigkeit stark. Bild: kontroverbal')
 
 Ich persönlich nehme viel aus Bereichen mit, in denen ich gearbeitet habe. Das waren Projekte für Geflüchtete oder in NS-Gedenkstätten; es heißt ja immer so schön: "Aus der Vergangenheit haben wir gelernt". aber aktuell wird's immer deutlicher, dass das bei vielen Menschen vielleicht nur so daher gesagt war. **Sich zu positionieren**, ist wichtiger denn je. Also richten wir den Blick auf aktuelle Geschehnisse und nutzen das für alle der genannten Themen auch als Ventil. Wenn uns was wütend macht, dann muss das irgendwo hin. Bei uns landet's dann in Texten und Illustrationen und wir überlegen auch schon, wie wir neue Formate gestalten können. Wir finden gerade unseren Aktivismus.
 
