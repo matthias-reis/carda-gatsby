@@ -80,18 +80,7 @@ Die Cashewkerne werden zunächst gewaschen und anschließend eingeweicht. Im nä
 
 Genau wie bei klassischem Käse reifen die Dr. Mannah's Produkte anschließend mehrere Wochen, bis sie ihren vollen Geschmack entfaltet haben. Die Käser\*innen wenden sie in dieser Zeit täglich von Hand und begutachten sie genau.
 
-Wenn die veganen Käsealternativen den Verkostungstest bestanden haben, verpacken die Käser\*innen sie sorgfältig und schicken sie an die Lebensmittelgeschäfte oder direkt zu den Kund\*innen nach Hause.
-
-## Vegane Käsealternativen von Dr. Mannah's – Herstellung in Bild und Ton
-
-<iframe
-  src="https://www.ardmediathek.de/embed/Y3JpZDovL2hyLW9ubGluZS8xMDE2OTE"
-  width="640"
-  height="360"
-  allowfullscreen
-  frameBorder="0"
-  scrolling="no"
-></iframe>
+Wenn die veganen Käsealternativen den Verkostungstest bestanden haben, verpacken die Käser\*innen sie sorgfältig und schicken sie an die Lebensmittelgeschäfte oder direkt zu den Kund\*innen nach Hause[^1].
 
 ## Wie sieht es mit der Nachhaltigkeit aus?
 
@@ -102,3 +91,5 @@ Die Isolierverpackung für den Versand sind zu 100 Prozent recyclingfähig und w
 Falls Ihr jetzt neugierig seid und die leckeren Käsealternativen von Dr. Mannah's auch mal probieren wollt: [Hier geht's zum Onlineshop](https://tidd.ly/45LN3Ph).
 
 <Gallery name="dr-mannahs-2" />
+
+[^1]: [Vegane Käsealternativen von Dr. Mannah's – Herstellung in Bild und Ton](https://www.ardmediathek.de/embed/Y3JpZDovL2hyLW9ubGluZS8xMDE2OTE)
