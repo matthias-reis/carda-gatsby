@@ -3,7 +3,7 @@ date: 2023-11-01T08:12:30.766Z
 slug: kontroverbal-interview
 typeName: Interview
 title: Im Gespräch mit kontroverbal
-subTitle: 'Wir sollten Kunst und Künstler*innen nicht trennen!'
+subTitle: '"Wir sollten Kunst und Künstler*innen nicht trennen!"'
 seoTitle: kontroverbal im Interview – "Wir müssen Betroffenen glauben!"
 description: Die Kunst vom Künstler zu trennen ist ein Fehler sagen kontoverbal. Lest jetzt, warum das so ist und was die beiden Aktivist*innen antreibt.
 excerpt: kontoverbal sorgen seit Kurzem auf Instagram ganz schön für Wirbel. Sie klären unter anderem über Rassismus, Faschismus, Queer-Feindlichkeit und Misogynie auf und nehmen dabei kein Blatt vor den Mund. Ich habe das Aktivismus-Duo interviewt und mich mit den beiden über die "woke Bubble" und internalisierten Frauenhass unterhalten – und über ihre Pläne.
