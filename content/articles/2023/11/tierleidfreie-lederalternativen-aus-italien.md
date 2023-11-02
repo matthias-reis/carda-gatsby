@@ -4,7 +4,7 @@ slug: tierleidfreie-lederalternativen-aus-italien
 typeName: Produkttest
 title: Vegane Taschen und Schuhe made in Italy
 subTitle: Tierleidfreie Leder-Alternativen von Noah
-seoTitle: kontroverbal im Interview – "Wir müssen Betroffenen glauben!"
+seoTitle: Tierleidfreie Leder-Alternativen aus Italien
 description: Tierleidfreie Lederalternativen aus Italien – ob hochwertige Schuhe oder stilvolle Taschen. Lest jetzt, was an Noah so besonders ist und warum sich das Stöbern dort lohnt.
 excerpt: Tierleidfreie Lederalternativen aus Italien sind voll Euer Ding? Dann ist Euch Noah möglicherweise bereits ein Begriff. Ich stelle Euch das Unternehmen rund um die überzeugte Veganerin Massimiliana Delù heute vor. Fairness wird für sie schon immer groß geschrieben.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-02/vegane-lederalterntiven-noah-09-jpg-imagine-080808_515b54_2048_1536/640.webp
