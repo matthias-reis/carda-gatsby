@@ -5,10 +5,7 @@ typeName: Produkttest
 title: Ecomonkey
 subTitle: Ein Shop für nachhaltige, vegane Produkte
 seoTitle: Ecomonkey – ein Shop für nachhaltige, vegane Produkte
-description: Ecomonkey ist ein Online-Shop für nachhaltige und vegane Produkte.
-  Weil ich dort bisher nur gute Erfahrungen gemacht habe, möchte ich Euch heute
-  gerne den Gründer vorstellen und Euch ein paar Stücke aus seiner veganen
-  Internet-Boutique zeigen.
+description: Ecomonkey ist ein Online-Shop für nachhaltige und vegane Produkte. Weil ich dort bisher nur gute Erfahrungen gemacht habe, möchte ich Euch heute gerne den Gründer vorstellen und Euch ein paar Stücke aus seiner veganen Internet-Boutique zeigen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-03-ecomonkey-34-jpg-imagine-e8c808_a48141_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/ecomonkey-fb-jpg-imagine-f8f8f8_bba26d_1200_628/640.webp
 labels:
@@ -53,7 +50,7 @@ Dominik gründete Ecomonkey Mitte 2017. Dabei hatte er das klare Ziel, eine nach
 
 ## Geldbörsen und Taschen aus Bananenblättern
 
-Die wunderschönen Geldbörsen aus Bananenblättern hier [die faltbare Variante](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fgeldboerse-vegan-aus-echten-blaettern-in-schwarz%2F), hier [das Münzmodell mit Reißverschluss](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fmuenzportemonnaie-vegan-aus-echten-blaettern-in-gruen%2F), die Ihr auf meinen Fotos seht, gehören genauso zu seiner Produktpalette wie [das nachhaltige Duschstück](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fshampoo-duschstueck-brennnessel-rosmarin%2F), das gleichzeitig als Shampoo und als Spülung dient. Es ist besonders auf Reisen irre praktisch und pflegt Haut und Haare wirklich toll. Ich hatte es bei unserem Surf-Trip an die Nordsee vor ein paar Tagen dabei und habe nichts anderes gebraucht. 
+Die wunderschönen Geldbörsen aus Bananenblättern hier [die faltbare Variante](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fgeldboerse-vegan-aus-echten-blaettern-in-schwarz%2F), hier [das Münzmodell mit Reißverschluss](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fmuenzportemonnaie-vegan-aus-echten-blaettern-in-gruen%2F), die Ihr auf meinen Fotos seht, gehören genauso zu seiner Produktpalette wie [das nachhaltige Duschstück](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fshampoo-duschstueck-brennnessel-rosmarin%2F), das gleichzeitig als Shampoo und als Spülung dient. Es ist besonders auf Reisen irre praktisch und pflegt Haut und Haare wirklich toll. Ich hatte es bei unserem Surf-Trip an die Nordsee vor ein paar Tagen dabei und habe nichts anderes gebraucht.
 
 <Gallery name="ecomonkey-shop-1-final" />
 
@@ -71,9 +68,9 @@ Nehmen wir zum Beispiel [die Bambus-Zahnbürsten](https://t.adcell.com/p/click?p
 
 Ich benutze die Bürsten jetzt seit einiger Zeit und muss sagen, dass sie bei mir wesentlich länger halten, als das Pendant mit Plastikborsten, das bei mir oft schon nach einer Woche regelrecht zerstört aussieht. Die Borsten sind ganz fein und weich und putzen die Zähne richtig gut. Von Belägen spüre ich anschließend nichts mehr.
 
-## Vegane Leder-Alternativen von Ecomonkey
+## Vegane Lederalternativen von Ecomonkey
 
-[Tierhaut muss längst nicht mehr die Lösung sein, wenn es um Leder geht](/2020/07/leder-pelz/) – darüber sind sich auch die meisten Firmen heute einig. Leider hat das auch dazu geführt, dass die meisten Kunstleder-Produkte aus Plastik hergestellt werden. Was anderswo aus Echtleder oder eben zu 100 Prozent aus Kunststoff gefertigt wird,  lässt Dominik aus Blättern herstellen. Auf Plastik kann dabei weitestgehend verzichtet werden. Der Anteil ist nur noch sehr gering. Die Produkte sind dennoch robust und hochwertig. [Ich bin wirklich sehr zufrieden mit meinem Portemonnaie](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fgeldboerse-vegan-aus-echten-blaettern-in-schwarz%2F), Ihr könnt es auf den Fotos bewundern. Besonders gut gefällt mir die Blattstruktur, die auf den meisten Taschen noch gut erkennbar ist. Das macht jede von ihnen zu einem ganz individuellen Stück. Außerdem liegen sie wirklich toll in der Hand.
+[Tierhaut muss längst nicht mehr die Lösung sein, wenn es um Leder geht](/2020/07/leder-pelz/) – darüber sind sich auch die meisten Firmen heute einig. Leider hat das auch dazu geführt, dass die meisten Kunstleder-Produkte aus Plastik hergestellt werden. Was anderswo aus Echtleder oder eben zu 100 Prozent aus Kunststoff gefertigt wird, lässt Dominik aus Blättern herstellen. Auf Plastik kann dabei weitestgehend verzichtet werden. Der Anteil ist nur noch sehr gering. Die Produkte sind dennoch robust und hochwertig. [Ich bin wirklich sehr zufrieden mit meinem Portemonnaie](https://t.adcell.com/p/click?promoId=261734&slotId=80259&param0=https%3A%2F%2Fwww.ecomonkey.de%2Fprodukt%2Fgeldboerse-vegan-aus-echten-blaettern-in-schwarz%2F), Ihr könnt es auf den Fotos bewundern. Besonders gut gefällt mir die Blattstruktur, die auf den meisten Taschen noch gut erkennbar ist. Das macht jede von ihnen zu einem ganz individuellen Stück. Außerdem liegen sie wirklich toll in der Hand.
 
 Neben der Umwelt ist Dominik auch die Fairness wichtig. Die Fabriken, in denen er produzieren lässt, besucht er regelmäßig. Ecomonkey arbeitet ausschließlich mit Betrieben zusammen, die ihre Arbeitnehmer\*innen fair bezahlen. Belegt wird das unter anderem anhand von Zertifikaten durch den TÜV Rheinland.
 

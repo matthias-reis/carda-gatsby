@@ -3,8 +3,8 @@ date: 2023-11-02T08:15:12.766Z
 slug: tierleidfreie-lederalternativen-aus-italien
 typeName: Produkttest
 title: Vegane Taschen und Schuhe made in Italy
-subTitle: Tierleidfreie Leder-Alternativen von Noah
-seoTitle: Tierleidfreie Leder-Alternativen aus Italien
+subTitle: Tierleidfreie Lederalternativen von Noah
+seoTitle: Tierleidfreie Lederalternativen aus Italien
 description: Tierleidfreie Lederalternativen aus Italien – ob hochwertige Schuhe oder stilvolle Taschen. Lest jetzt, was an Noah so besonders ist und warum sich das Stöbern dort lohnt.
 excerpt: Tierleidfreie Lederalternativen aus Italien sind voll Euer Ding? Dann ist Euch Noah möglicherweise bereits ein Begriff. Ich stelle Euch das Unternehmen rund um die überzeugte Veganerin Massimiliana Delù heute vor. Fairness wird für sie schon immer groß geschrieben.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-02/vegane-lederalterntiven-noah-09-jpg-imagine-080808_515b54_2048_1536/640.webp
@@ -14,7 +14,7 @@ labels:
   - Fair Fashion & Beauty
   - Faux Leather
   - vegane Lederalternativen
-  - Leder-Alternative
+  - Lederalternative
   - veganes Leder
   - Fair Fashion
 focusKeyword: tierleidfreie Lederalternativen aus Italien
@@ -37,7 +37,7 @@ Mein "Bellagio" hat die Maße Länge 32 cm x Breite 15 cm x Höhe 35 cm. Für mi
 
 Wie alles von Noah ist auch "Bellagio" PETA approved vegan und pro Bestellung pflanzt Noah einen Baum mit Tree Nation[^1].
 
-Bei der Auswahl der Materialien setzt Noah auf langlebige, kratzfeste, strapazierfähige, atmungsaktive und möglichst recyclingfähige Leder-Alternativen. Alle Produkte – ob [Schuhe](https://t.adcell.com/p/click?promoId=255976&slotId=80259&param0=https%3A%2F%2Fwww.noah-shop.com%2Fvegane-schuhe%2F), [Taschen](https://t.adcell.com/p/click?promoId=255976&slotId=80259&param0=https%3A%2F%2Fwww.noah-shop.com%2Fvegan-accessoires%2Fvegane-taschen-handtaschen%2F) oder [Accessoires](https://t.adcell.com/p/click?promoId=255976&slotId=80259&param0=https%3A%2F%2Fwww.noah-shop.com%2Fvegane-accessoires) – werden in Italien gefertigt. Die Manufakturen, in denen die Noah Kollektionen entstehen, werden regelmäßig untersucht und geprüft.
+Bei der Auswahl der Materialien setzt Noah auf langlebige, kratzfeste, strapazierfähige, atmungsaktive und möglichst recyclingfähige Lederalternativen. Alle Produkte – ob [Schuhe](https://t.adcell.com/p/click?promoId=255976&slotId=80259&param0=https%3A%2F%2Fwww.noah-shop.com%2Fvegane-schuhe%2F), [Taschen](https://t.adcell.com/p/click?promoId=255976&slotId=80259&param0=https%3A%2F%2Fwww.noah-shop.com%2Fvegan-accessoires%2Fvegane-taschen-handtaschen%2F) oder [Accessoires](https://t.adcell.com/p/click?promoId=255976&slotId=80259&param0=https%3A%2F%2Fwww.noah-shop.com%2Fvegane-accessoires) – werden in Italien gefertigt. Die Manufakturen, in denen die Noah Kollektionen entstehen, werden regelmäßig untersucht und geprüft.
 
 **Hinweis:** Unter den Bildern geht es weiter!
 
@@ -47,7 +47,7 @@ Bei der Auswahl der Materialien setzt Noah auf langlebige, kratzfeste, strapazie
 
 Für das Engagement und die hervorragenden Produkte erhielt das Unternehmen 2018 den Veganfach Award für die innovative vegane Tasche "Silva" – sie wird aus Holz hergestellt! Auch mit dem PETA UK und dem PETA Deutschland Award sowie dem Green Product Award wurde Noah bereits ausgezeichnet.
 
-Neben dem [Onlineshop](https://t.adcell.com/p/click?promoId=255976&slotId=80259&param0=https%3A%2F%2Fwww.noah-shop.com%2F) hat Noah einen Blog, auf dem Ihr unter anderem Pflegetipps für Eure Produkte aus veganen Leder-Alternativen findet. Beim Lesen findet man unter anderem heraus, wie viel praktischer und robuster tierleidfreie Schuhe & Co. sein können, wenn sie aus dem richtigen Material gefertigt werden.
+Neben dem [Onlineshop](https://t.adcell.com/p/click?promoId=255976&slotId=80259&param0=https%3A%2F%2Fwww.noah-shop.com%2F) hat Noah einen Blog, auf dem Ihr unter anderem Pflegetipps für Eure Produkte aus veganen Lederalternativen findet. Beim Lesen findet man unter anderem heraus, wie viel praktischer und robuster tierleidfreie Schuhe & Co. sein können, wenn sie aus dem richtigen Material gefertigt werden.
 
 Auch über die Umweltauswirkungen von klassischem Leder klärt Noah auf. Neben den bereits bekannten Problemen mit den giftigen Flüssigkeiten und Dämpfen beim Gerben wird auch die Tragweite der Umweltverschmutzung und Abholzung von Wäldern für die Viehzucht zur Herstellung von Leder thematisiert.
 
