@@ -24,7 +24,7 @@ language: de
 languageLink: /2023/11/grand-aquila-vestiges-en/
 ---
 
-**Grand Aquila feiern heute die Veröffentlichung ihres neuen Albums "Vestiges". Dynamischer Post-Metal voll fesselnder Übergänge, Harmonien und Intensität erwarten Euch. Das Quartett aus Belgien legt mit seinem Debüt ordentlich vor und macht Lust auf mehr und ordentlich Laune!**
+**Grand Aquila feiern heute die Veröffentlichung ihres neuen Albums "Vestiges". Dynamischer Post-Metal voll fesselnder Übergänge, Harmonien und Intensität erwartet Euch. Das Quartett aus Belgien legt mit seinem Debüt ordentlich vor und macht Lust auf mehr und ordentlich Laune!**
 
 Aufgenommen haben Grand Aquila "Vestiges", was so viel bedeutet wie "Überreste" oder "Ruinen", zwischen 2021 und 2022 mit keinem Geringeren als Tobias Stieler von Kokomo! Erschienen ist das ganze digital und als Vinyl-Variante auf Dunk!records.
 
