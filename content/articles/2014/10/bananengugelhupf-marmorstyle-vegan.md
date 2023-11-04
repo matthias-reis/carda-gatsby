@@ -57,7 +57,7 @@ subTitle: Kuchen für alle
 
 Doch dann kam mir der Gedanke, das Brot mit meinem Lieblingskuchen zu kreuzen, die Geburtsstunde meines Bananengugelhupf Marmorstyle.
 
-Das Rezept ist für einen kleinen Kuchen gedacht, von dem zwei Personen ca. 2 Tage lang essen können, natürlich je nach Hunger und Magengröße. Falls ihr einen größeren Gugelhupf backen wollt, verdoppelt einfach die Menge, er passt trotzdem noch in die Form, ich habe nur einen kleinen Teil davon genutzt.
+Das Rezept ist für einen kleinen Kuchen gedacht, von dem zwei Personen etwa zwei Tage lang essen können – natürlich je nach Hunger und Lust auf Süßkram. Falls Ihr einen größeren Gugelhupf backen wollt, verdoppelt einfach die Menge, er passt trotzdem noch in die Form, ich habe nur einen kleinen Teil davon genutzt.
 
 ## Benötigt wird
 
@@ -152,11 +152,11 @@ Das Rezept ist für einen kleinen Kuchen gedacht, von dem zwei Personen ca. 2 Ta
 
 ## Zubereitung
 
-1.  Cookiehose anziehen
-1.  Ofen auf 180 Grad einstellen
-1.  Die Bananen schälen und mit der Gabel in der großen Schüssel zerdrücken. Mir hat dieser Schritt besonders viel Spaß gemacht, ich habe seit ich dem Babysitteralter entwachsen bin, keine Bananen mehr mit der Gabel zerdrückt.
-1.  Die Vanilleschote aufschneiden, das Mark mit dem Messer herauskratzen und zur Bananenmasse geben.
-1.  Haferdrink, Zucker und Distelöl mit dem Quirl unterrühren, bis eine glatte Masse entstanden ist.
+1.  Zieht Eure Cookie-Hose an.
+2.  Heißt den ofen auf 180 Grad vor.
+3.  Schält die Bananen und zerdrückt sie mit der Gabel in der großen Schüssel.
+4.  Schneidet die Vanilleschote aufschneiden, kratzt das Mark heraus und gebt es zu der Bananenmasse.
+5.  Rührt den Haferdrink, den Zucker und das Distelöl mit dem Quirl unter, bis eine glatte Masse entstanden ist.
 
 <Gallery
   images={[
@@ -181,20 +181,18 @@ Das Rezept ist für einen kleinen Kuchen gedacht, von dem zwei Personen ca. 2 Ta
   ]}
 />
 
-1.  Mehl, Salz und Backpulver beimengen und gut verquirlen.
-1.  Das Wasser erhitzen und die Hälfte davon in der kleinen Schüssel zum Anrühren des Kakaos nutzen.
-1.  Etwa 1/4 des Teiges mit dem Esslöffel zum Kakao geben und verrühren.
-1.  Den Rest des Wassers in den "Hauptteig" einrühren.
-1.  Die Backform mit dem Kokosöl (am besten mit den Händen, das hat den positiven Nebeneffekt, dass sie schön geschmeidig werden und obendrein noch gut riechen) großzügig einfetten. Der Gugelhupf lässt sich so nach dem Backen ganz leicht aus der Form lösen und erhält zusätzlich noch eine leckere Kokoskruste.
-1.  Den hellen Teig mit dem Esslöffel gleichmäßig in die Form geben.
-1.  Den dunklen Teig vorsichtig darüber ausbreiten.
-1.  Nun mit der Gabel 1 x im Uhrzeigersinn sanfte wellenförmige Bewegungen durch beide Teigschichten machen, so ergibt sich die weltberühmte Marmorierung.
-1.  Die Schüsseln auskratzen und Löffel und Gabel ordentlich ablecken, der Teig ist LECKER!
-1.  Den Kuchen auf der mittleren Schiene in den Ofen packen und ca. eine Stunde backen.
-1.  Kurz vor Ablauf der Backzeit mit einem Holzstäbchen prüfen, ob der Kuchen schon gar ist.
-1.  Zwischenzeitlich das Schlachtfeld aufräumen und Kaffee aufsetzen, den Kuchen könnt ihr schon nach kurzem Abkühlen genießen.
-
-Zum Bananengugelhupf passt übrigens auch hervorragend Kakao oder heißes Ingwerwasser.
+6.  Mengt das Mehl, das Salz und das Backpulver bei und verquirlt alles gut.
+7.  Erhitzt das Wasser und nutzt die Hälfte davon in der kleinen Schüssel zum Anrühren des Kakaos.
+8.  Gebt etwa ein Viertel des Teiges mit dem Esslöffel zum Kakao hinzu und verührt ihn.
+9.  Den Rest des Wassers könnt Ihr nun in den Hauptteig einrühren.
+10. Fettet die Backform großzügig mit dem Kokosöl (am besten mit den Händen, das hat den positiven Nebeneffekt, dass sie schön geschmeidig werden und obendrein noch gut riechen) großzügig ein. Der Gugelhupf lässt sich so nach dem Backen ganz leicht aus der Form lösen und erhält zusätzlich noch eine leckere Kokoskruste.
+11. Füllt den hellen Teig mit dem Esslöffel gleichmäßig in die Form.
+12. Breitet den dunklen Teig vorsichtig darüber aus.
+13. Mit der Gabel geht Ihr nun einmal im Uhrzeigersinn in sanften wellenförmigen Bewegungen durch beide Teigschichten. Dadurch ergibt sich die weltberühmte Marmorierung.
+14. Kratzt die Schüsseln auskratzen und leckt den Löffel ab – Lecker!
+15. Backt den Kuchen auf der mittleren Schiene im Ofen für rund eine Stunde.
+16. Prüft kurz vor Ablauf der Backzeit sicherheitshalber, ob Euer Kuchen schon fertig ist.
+17. Zwischenzeitlich könnt Ihr das das Back-Equipment aufräumen und Kaffee aufsetzen. Den Kuchen könnt ihr, wenn Ihr wollt, schon nach kurzem Abkühlen genießen.
 
 <RemoteImage
   alt={`Veganer Bananengugelhupf-7`}
