@@ -67,7 +67,7 @@ Das Rezept ist für einen kleinen Kuchen gedacht, von dem zwei Personen etwa zwe
 - Quirl
 - 1 große Schüssel
 - 1 kleine Schüssel
-- Tassen zum Abmessen (ich habe die kleinen Standarttassen aus dem schwedischen Möbelhaus meines Vertrauens genommen, ihr könnt natürlich auch die teuren Porzellantassen aus dem Hochzeitsservice verwenden, wenn ihr wollt)
+- Tassen zum Abmessen
 - 1 kleines Obstmesser
 - 1 Esslöffel
 
