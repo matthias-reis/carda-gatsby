@@ -193,11 +193,3 @@ Das Rezept ist für einen kleinen Kuchen gedacht, von dem zwei Personen etwa zwe
 15. Backt den Kuchen auf der mittleren Schiene im Ofen für rund eine Stunde.
 16. Prüft kurz vor Ablauf der Backzeit sicherheitshalber, ob Euer Kuchen schon fertig ist.
 17. Zwischenzeitlich könnt Ihr das das Back-Equipment aufräumen und Kaffee aufsetzen. Den Kuchen könnt ihr, wenn Ihr wollt, schon nach kurzem Abkühlen genießen.
-
-<RemoteImage
-  alt={`Veganer Bananengugelhupf-7`}
-  size="full"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-7__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-7__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQIEB//EACkQAAIBAwMEAQMFAAAAAAAAAAECAwQFEQASMQYTIUFRFCJhMnGBwdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQYH/8QAIhEAAgIBBAEFAAAAAAAAAAAAAQIAAxESITHwBBNBUXGx/9oADAMBAAIRAxEAPwA6Y6caqIKq24LuKoMkD86u/poYlw8GVBwHx5z8EcjWHSt1giDQpTx1NQ+PuWdogFPAxxgePOfemGshd62EzBoIyO4NzhtuCAD4JPPH7HXP7FJfQ3Pe7zXCzG44nIb5fTHWT2y0W+mvVXBUNBJM85WOHg7WAwWIJKlgwGV96rrrQV9NTiW9WqOggYhfrKCczxRMeO4hZiB+QQfgHjW90Va6ahd7dd6cCtpKgvICxBMoY/dkHyCMH4II+dOl5npnh2OAyygxuvO9WGCuPf8Aurpsqof0lTPyfc9+sQAR7V1lsfkWaBnEm4sHVht2OoZcH+9O9FVsr96Leh3IuS2W9gHPrGPAAwNGjUwkuQWjSoXiVNkehvrCG9W6OoKHME8UjQzQoxJ7Ydf1KPQYHGfGBqXNHbOpaCkt9HgyzdozVEpncAg8Z8D+AD+dGjT/ABXLDDQ1yhTtP//Z"
-/>
