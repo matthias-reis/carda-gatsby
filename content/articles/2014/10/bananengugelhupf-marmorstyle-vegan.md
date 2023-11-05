@@ -78,7 +78,7 @@ Das Rezept ist für einen kleinen Kuchen gedacht, von dem zwei Personen etwa zwe
 - 3/4 Tasse Rohrohrzucker
 - 2 Esslöffel Distelöl
 - 1/2 Tasse Haferdrink
-- 1 Vanilleschote (Wir hatten noch welche von unserem [Bali-Trip](//tag/bali-trip/) übrig, ihr könnt die auch hierzulande auf dem Markt oder im Bioladen kaufen)
+- 1 Vanilleschote
 - 1 Päckchen Backpulver oder 1 Teelöffel Natron
 - 1 Messerspitze Salz
 - 3-4 Esslöffel Kakaopulver
@@ -153,7 +153,7 @@ Das Rezept ist für einen kleinen Kuchen gedacht, von dem zwei Personen etwa zwe
 ## Zubereitung
 
 1.  Zieht Eure Cookie-Hose an.
-2.  Heißt den ofen auf 180 Grad vor.
+2.  Heizt den Ofen auf 180 Grad vor.
 3.  Schält die Bananen und zerdrückt sie mit der Gabel in der großen Schüssel.
 4.  Schneidet die Vanilleschote aufschneiden, kratzt das Mark heraus und gebt es zu der Bananenmasse.
 5.  Rührt den Haferdrink, den Zucker und das Distelöl mit dem Quirl unter, bis eine glatte Masse entstanden ist.
@@ -183,7 +183,7 @@ Das Rezept ist für einen kleinen Kuchen gedacht, von dem zwei Personen etwa zwe
 
 6.  Mengt das Mehl, das Salz und das Backpulver bei und verquirlt alles gut.
 7.  Erhitzt das Wasser und nutzt die Hälfte davon in der kleinen Schüssel zum Anrühren des Kakaos.
-8.  Gebt etwa ein Viertel des Teiges mit dem Esslöffel zum Kakao hinzu und verührt ihn.
+8.  Gebt etwa ein Viertel des Teiges mit dem Esslöffel zum Kakao hinzu und verrührt ihn.
 9.  Den Rest des Wassers könnt Ihr nun in den Hauptteig einrühren.
 10. Fettet die Backform großzügig mit dem Kokosöl (am besten mit den Händen, das hat den positiven Nebeneffekt, dass sie schön geschmeidig werden und obendrein noch gut riechen) großzügig ein. Der Gugelhupf lässt sich so nach dem Backen ganz leicht aus der Form lösen und erhält zusätzlich noch eine leckere Kokoskruste.
 11. Füllt den hellen Teig mit dem Esslöffel gleichmäßig in die Form.
@@ -192,4 +192,4 @@ Das Rezept ist für einen kleinen Kuchen gedacht, von dem zwei Personen etwa zwe
 14. Kratzt die Schüsseln auskratzen und leckt den Löffel ab – Lecker!
 15. Backt den Kuchen auf der mittleren Schiene im Ofen für rund eine Stunde.
 16. Prüft kurz vor Ablauf der Backzeit sicherheitshalber, ob Euer Kuchen schon fertig ist.
-17. Zwischenzeitlich könnt Ihr das das Back-Equipment aufräumen und Kaffee aufsetzen. Den Kuchen könnt ihr, wenn Ihr wollt, schon nach kurzem Abkühlen genießen.
+17. Zwischenzeitlich könnt Ihr das Back-Equipment aufräumen und Kaffee aufsetzen. Den Kuchen könnt ihr, wenn Ihr wollt, schon nach kurzem Abkühlen genießen.
