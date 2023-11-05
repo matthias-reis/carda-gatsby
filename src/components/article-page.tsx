@@ -139,9 +139,9 @@ export const ArticlePage: React.FC<ArticleProps> = ({
           )}
         </ImageContainer>
         <Content>{children}</Content>
+        <HR />
         {isAdOrAffiliate && (
           <>
-            <HR />
             <AdAndAffiliateDisclaimer id="werbung-affiliate">
               Dieser Beitrag enthält {adTeaser}.{' '}
               {meta.frontmatter.productsProvided && (
