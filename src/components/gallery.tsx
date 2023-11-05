@@ -1,6 +1,6 @@
 import * as React from 'react';
 import styled from '@emotion/styled';
-import { space, width } from '../style';
+import { breakpoints, space, width } from '../style';
 import { useKeyboard } from './useKeyboard';
 import { IconChevronLeft, IconChevronRight, IconClose } from './icons';
 import { event } from './analytics';
@@ -244,6 +244,17 @@ const Container = styled.div`
   flex-wrap: wrap;
   justify-content: center;
   gap: ${space[3]};
+
+  @media (max-width: ${breakpoints.smallFold}) {
+    position: static;
+    left: 0;
+    width: 100%;
+    margin-left: 0;
+    & img {
+      width: 100%;
+      height: auto;
+    }
+  }
 `;
 
 const StyledImage = styled.img`
