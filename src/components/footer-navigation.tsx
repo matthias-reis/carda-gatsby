@@ -51,6 +51,7 @@ export const FooterNavigation: React.FC = () => (
 
 const Section = styled.footer`
   background: ${color.background20};
+  margin-bottom: 5rem;
 `;
 
 const Copyright = styled.p`
