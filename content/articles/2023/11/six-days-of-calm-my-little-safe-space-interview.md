@@ -1,6 +1,6 @@
 ---
 date: 2023-11-06T10:14:00.766Z
-slug: six-days-of-calm-my-little-safe-space-interview
+slug: six-days-of-calm-my-little-safe-place-interview
 typeName: Interview
 title: 'My Little Safe Place'
 subTitle: Interview mit Marc von Six Days Of Calm über sein neues Album
@@ -25,7 +25,7 @@ focusKeyword: Six Days Of Calm – "My Little Safe Place"
 advertisement: false
 affiliate: false
 language: de
-languageLink: /2023/11/six-days-of-calm-my-little-safe-space-interview-en/
+languageLink: /2023/11/six-days-of-calm-my-little-safe-place-interview-en/
 ---
 
 **"My Little Safe Place" heißt das neue Album von Six Days Of Calm. Ich habe mich mit Marc über die Entstehung der Platte und seine Inspirationsquellen unterhalten – und darüber, was sich seit unserem letzten Gespräch bei der Veröffentlichung von "The Ocean's Lullaby geändert hat.**
