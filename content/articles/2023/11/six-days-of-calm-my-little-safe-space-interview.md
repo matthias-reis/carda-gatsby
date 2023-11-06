@@ -50,7 +50,7 @@ Das neue Album "My Little Safe Place ist ab sofort im Handel und auf allen Musik
 
 **Anne:** Dann gibt es eine Geschichte, die sich durchzieht und alle sieben Songs miteinander verbindet?
 
-![Six Days Of Calm – "My Little Safe Space"](https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-space-interview-5-jpg-imagine-383838_9e8c51_1024_768/640.webp 'Six Days Of Calm – "My Little Safe Space". Picture: Six Days Of Calm')
+![Six Days Of Calm – "My Little Safe Space"](https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-space-interview-5-jpg-imagine-383838_9e8c51_1024_768/640.webp 'Six Days Of Calm – "My Little Safe Space". Artwork: Hummel Grafik')
 
 **Marc:** Ja und nein. Jeder Song steht mit seiner eigenen Geschichte absolut für sich. Trotzdem sind die Songs auch chronologisch so angeordnet, dass sie schon meine Geschichte erzählen und doch so viel Raum lassen, dass jeder seine eigene Geschichte kreieren kann beim Hören, jeder seine eigenen Bilder im Kopf und Empfindungen zulassen kann. Ich möchte nichts vorgeben, jeder soll das sehen und spüren, was eben kommt beim Anhören und trotzdem ist es auch meine ganz eigene Geschichte, die sich da um meinen eigenen kleinen, sicheren Ort abspielt.
 
@@ -58,7 +58,7 @@ Das neue Album "My Little Safe Place ist ab sofort im Handel und auf allen Musik
 
 ## "Mein 'Little Safe Space' ist ein Ort in meinen Gedanken"
 
-![Six Days Of Calm – "My Little Safe Space"](https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-space-interview-2-jpg-imagine-181808_242112_1024_768/640.webp 'Six Days Of Calm – "My Little Safe Space". Artwork: Hummel Grafik')
+![Six Days Of Calm – "My Little Safe Space"](https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-space-interview-2-jpg-imagine-181808_242112_1024_768/640.webp 'Six Days Of Calm – "My Little Safe Space". Bild/Picture: Six Days Of Calm')
 
 **Marc:** Ich lebe allgemein sehr zurückgezogen, ich meide viele große Gemeinschaften und Ereignisse. Natürlich ist auch eine Veröffentlichung wie diese jetzt schon sehr aufwendig und verlangt mir viel ab. Ich brauche da auch immer eine Menge Ruhe und Entspannung dazwischen und da kommt eben auch mein kleiner, sicherer Ort ins Spiel. Dieser besagte Ort existiert im Grunde in der Realität nicht. Ich habe zwar auch wirklich tolle Rückzugsorte, aber in diesem Fall spreche ich nicht von den real existierenden Safe Spaces. Es geht viel mehr um meinem sehr privaten, ganz eigenen kleinen Ort, an dem nur ich mich gedanklich aufhalte und mich entsprechend wieder regulieren kann.
 
@@ -74,7 +74,7 @@ Auf dem Album habe ich diesmal zudem ein paar tolle Gäste: circle&wind ist mit 
 
 **Anne:** "The Ocean's Lullaby" hast Du mitten in der Pandemie-Zeit aufgenommen. Ich kann mir vorstellen, dass vieles diesmal leichter ging als damals. War der Unterschied für Dich groß?
 
-![Six Days Of Calm – "My Little Safe Space"](https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-space-interview-3-jpg-imagine-282828_756e59_1024_768/640.webp 'Six Days Of Calm – "My Little Safe Space". Picture: Six Days Of Calm')
+![Six Days Of Calm – "My Little Safe Space"](https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-space-interview-3-jpg-imagine-282828_756e59_1024_768/640.webp 'Six Days Of Calm – "My Little Safe Space". Artwork: Hummel Grafik')
 
 **Marc:** Nein, nicht sonderlich. Die einzigen Unterschiede liegen darin, dass ich damals nicht wirklich wusste, was nach den Aufnahmen geschehen wird. Es war nicht abzusehen, wie hart es die Musikszene treffen wird und was das auch für mich als Newcomer in der Postrock-Szene dann bedeuten könnte. Mein Debüt-Album war etwas weniger aufwendig in der Produktion, bei "My Little, Safe Place" waren schon etwas mehr Herausforderungen mit dabei. Allein schon die klassischen Musiker\*innen im Studio, der erste und bis jetzt noch einzige Song mit Vocals, also da waren ein paar neue Herausforderungen, die es gefühlt etwas schwieriger gemacht haben als damals beim ersten Album.
 
@@ -82,7 +82,7 @@ Auf dem Album habe ich diesmal zudem ein paar tolle Gäste: circle&wind ist mit 
 
 ## Die Störgeräusche des Alltags
 
-![Six Days Of Calm – "My Little Safe Space"](https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-space-interview-1-jpg-imagine-080808_130f08_1024_768/640.webp 'Six Days Of Calm – "My Little Safe Space". Artwork: Hummel Grafik')
+![Six Days Of Calm – "My Little Safe Space"](https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-space-interview-1-jpg-imagine-080808_130f08_1024_768/640.webp 'Six Days Of Calm – "My Little Safe Space". Bild/Picture: Six Days Of Calm')
 
 **Marc:** Gar nicht so viel eigentlich. Natürlich hat sich in der Welt viel verändert, allein schon durch diverse Katastrophen wie die Pandemie, die Kriege, das Klima und so weiter. Meine Musik betreffend, war es eher weniger. Ich bin abgekoppelt von vielen Dingen, wenn es um meine Musik geht und lebe da in meiner ganz eigenen Welt. Ansonsten wäre es mir vermutlich gar nicht möglich, diese Klänge zu erschaffen – im täglichen Leben gibt es einfach zu viele "Störgeräusche".
 
