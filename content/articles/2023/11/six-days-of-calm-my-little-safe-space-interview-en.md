@@ -7,9 +7,9 @@ subTitle: 'Interview with Marc from Six Days Of Calm about his new album'
 seoTitle: Post-Rock Interview – Six Days Of Calm - "My Little Safe Place"
 description: The new Six Days Of Calm album "My Little Safe Place" is a post-rock jewel. Read my interview with founder Marc now and get precious insights about the record!
 excerpt: 'Six Days Of Calm founder Marc talked about what his new album title "My Little Safe Place" means to him in our interview. Of course, we also discussed what has changed for him and his music since his debut album back in 2020. And I also have an artsy surprise for you!'
-image: https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-place-interview-header-jpg-imagine-080808_0a1007_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-space-interview-header-jpg-imagine-080808_0a1007_1024_768/640.webp
 copyright: 'Six Days Of Calm'
-ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-place-interview-og-jpg-imagine-080808_13160d_1200_628/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-space-interview-og-jpg-imagine-080808_13160d_1200_628/640.webp
 labels:
   - Band
   - Bands
