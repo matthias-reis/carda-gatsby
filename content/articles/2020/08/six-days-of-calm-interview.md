@@ -3,7 +3,7 @@ date: 2020-08-08T06:18:04.000Z
 slug: six-days-of-calm-interview
 path: /2020/08/six-days-of-calm-interview/
 type: Artikel
-typeName: Review
+typeName: Interview
 title: Six Days Of Calm
 seoTitle: Six Days Of Calm - "The Ocean's Lullaby" - Interview
 ogTitle: Six Days Of Calm - "The Ocean's Lullaby" - Interview
