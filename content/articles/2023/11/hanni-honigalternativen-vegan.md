@@ -30,7 +30,7 @@ language: de
 
 Als ich vor ein paar Wochen Joachim, den CEO von hanni kennenlernte, war sofort klar:
 
-> "Ich muss Eure Produkte probieren! Inzwischen habe ich ja, nach einem Jahrzehnt vegan schon die ein oder andere vegane Honigalternative probiert und bin begeistert, wie gut es auch ohne Bienen geht. Über eine neue Überraschung in diese Richtung freue ich mich immer!"
+> "Ich muss Eure Produkte probieren! Inzwischen habe ich ja, nach einem Jahrzehnt vegan schon die ein oder andere vegane Honigalternative getestet und bin begeistert, wie gut es auch ohne Bienen geht. Über eine neue Überraschung in diese Richtung freue ich mich immer!"
 
 Gesagt, getan. Schon ein paar Tage später hatte ich zwei Honiggläser auf dem Frühstückstisch stehen:
 
