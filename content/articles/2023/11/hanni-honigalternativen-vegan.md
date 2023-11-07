@@ -45,7 +45,7 @@ Zuerst kam bei mir die "hanni Honig-Alternative cremig" aufs Brot und überzeugt
 
 ## hanni Honig-Alternative flüssig
 
-Als Nächstes probierte ich die "hanni Honig-Alternative flüssig" und meine Begeisterung hörte nicht auf. Ich konnte mich kaum entscheiden, welches von denen Produkten mir am besten schmeckt. Insgesamt ist die Konsistenz bei diesem Produkt, das erkennt man ja auch schon am Namen, flüssiger. Daher könnt Ihr die Hanni Honig-Alternative flüssig auch gut zum Süßen Eurer Kuchen und Nachspeisen nutzen.
+Als Nächstes probierte ich die "hanni Honig-Alternative flüssig" und meine Begeisterung hörte nicht auf. Ich konnte mich kaum entscheiden, welches von denen Produkten mir am besten schmeckt. Insgesamt ist die Konsistenz bei diesem Produkt, das erkennt man ja auch schon am Namen, flüssiger. Daher könnt Ihr die Hanni Honig-Alternative flüssig auch gut zum Süßen Eurer [Kuchen](/2014/10/bananengugelhupf-marmorstyle-vegan/) und Nachspeisen nutzen.
 
 **Mein Tipp:** Süßt Euren Obstsalat mit der Hanni Honig-Alternative flüssig – schmeckt wirklich traumhaft!
 
