@@ -24,6 +24,12 @@ language: de
 
 **"Käse vegan machen, wenn das einer schafft, dann hält mich nichts mehr davon ab, mich vegan zu ernähren!" Wisst Ihr, wie oft ich diesen Satz schon gehört habe? Ich sage Euch dazu jetzt mal was: Mit der veganen Käsealternative, die ich Euch heute vorstelle, werdet Ihr Ernst machen!**
 
+---
+
+**Hinweis:** Dr. Mannah's wurde vor Kurzem von Veganz übernommen. [Alle Infos zum Thema findet Ihr hier](/2023/11/dr-mannahs-veganz/). Die gute Nachricht dazu lautet: Es wird die Produkte weiterhin geben!
+
+---
+
 Dr. Mannah's steht für glücklichen Genuss – 100 Prozent pflanzlich und frei von Tierleid und künstlichen Inhaltsstoffen. Die pflanzlichen Alternativen zu Milchprodukten haben es in sich: Sie sind natürlich und extrem schmackhaft. Hinter dem Namen steckt tatsächlich ein Mediziner: der Gründer des Unternehmens, Dr. Mudar Mannah. Zu seinen Produkten sagt er:
 
 > "Mir als Arzt ist es wichtig, dass in Dr. Mannah's Produkte nur das reinkommt, was glücklich macht. Unsere Produkte stehen für sorgfältig ausgewählte Rohstoffe, kurze Zutatenlisten, ohne hierbei einen Kompromiss in Sachen Geschmack einzugehen. Denn davon bin ich überzeugt: Lecker in vegan und gesund: Das geht!"
