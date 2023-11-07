@@ -5,7 +5,7 @@ typeName:
 title: 'hanni Honig-Alternativen vegan von bee neo'
 subTitle: 'Lecker süß kochen, backen und schlemmen ohne Bienen'
 seoTitle: 'hanni Honigalternativen vegan aus Hamburg'
-description: '"hanni Honigalternativen vegan" – googelt mal das, landet man beim Hamburger Start-up bee neo. Erfahrt jetzt alles über die Produkte und das Unternehmen!'
+description: 'hanni Honigalternativen vegan – googelt mal das, landet man beim Hamburger Start-up bee neo. Erfahrt jetzt alles über die Produkte und das Unternehmen!'
 excerpt: 'Die hanni Honigalternativen – vegan und ohne raffinierten Zucker – haben es ganz schön in sich. Ich habe sie probiert und für gut befunden. Ganz nebenbei habe ich mir das Hamburger Start-up bee neo, von dem die hanni-Produkte stammen, auch direkt mal näher angeschaut.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-07/hanni-honigalternativen-30-jpg-imagine-080808_8b6552_2048_1536/640.webp
 copyright: ''
