@@ -51,6 +51,7 @@ labels:
   - Veganica Bio-Manufaktur
   - Vet
   - Vonig
+  - Bienen
 focusKeyword: Vegablum
 status: publish
 isWerbung: false

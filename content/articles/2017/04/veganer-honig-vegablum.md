@@ -27,6 +27,7 @@ labels:
   - veganer Met
   - Vet
   - Vonig
+  - Bienen
 focusKeyword: Veganer Honig
 status: publish
 isWerbung: false

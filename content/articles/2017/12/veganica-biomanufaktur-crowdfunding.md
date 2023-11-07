@@ -14,6 +14,8 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Veganica__l.jpg
 labels:
   - Ernährung & Gesundheit
+  - vegane Honigalternative
+  - Bienen
 focusKeyword: Veganica Biomanufaktur
 status: publish
 isWerbung: false

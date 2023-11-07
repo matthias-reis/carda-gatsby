@@ -64,9 +64,13 @@ month: '10'
 
 **[Hier geht's zu Teil 6 des Artikels](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) "Das ist doch jetzt wirklich nicht dein Ernst, dass du nicht mal mehr Honig zu dir nehmen willst?!" - Doch, das ist mein voller Ernst. Warum das so ist, lässt sich in ein paar Sätzen erklären. Ein Beispiel nehmen hat nämlich nichts mit wegnehmen zu tun.**
 
-Die Bienen sterben, weil wir ihren natürlich Lebensraum zerstören und sie ausbeuten, auch indem wir ihnen _ihren_   **Honig** wegnehmen.
+Die Bienen sterben, weil wir ihren natürlichen Lebensraum zerstören und sie ausbeuten, auch indem wir ihnen ihren **Honig** wegnehmen.
 
-> "Wer seinen Wohlstand vermehren möchte, der sollte sich an den Bienen ein Beispiel nehmen. Sie sammeln den Honig, ohne die Blumen zu zerstören. Sie sind sogar nützlich für die Blumen. Sammle deinen Reichtum, ohne seine Quellen zu zerstören, dann wird er beständig zunehmen." - Buddha
+---
+
+> "Wer seinen Wohlstand vermehren möchte, der sollte sich an den Bienen ein Beispiel nehmen. Sie sammeln den Honig, ohne die Blumen zu zerstören. Sie sind sogar nützlich für die Blumen. Sammle deinen Reichtum, ohne seine Quellen zu zerstören, dann wird er beständig zunehmen." – Buddha
+
+---
 
 ### Was ist eigentlich Honig?
 
@@ -79,9 +83,9 @@ Die Bienen sterben, weil wir ihren natürlich Lebensraum zerstören und sie ausb
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKBAAAgEDBAEEAgMBAAAAAAAAAQIDBAURAAYSITEHIkFRExQjMlJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAJBEAAQQBAwMFAAAAAAAAAAAAAQIDBBEABSExE8HxFEFRYXH/2gAMAwEAAhEDEQA/AMe6+iV7u4pJqKSyx0sUQdudS8jSt0eDMq4XIwMk6d92QbXp9x2SR6VXitsElE9vp4cRohBZARkZKN1wB7ByD1g66wWq1UFnqa+yRXuirI42lllpa5UiDqnjJwW+Pbg4GkS/3Co/FE9KWkhY+7hnJbHk/OPP/dY8+WqMhtLIBKt7PArzm2xCa6JfdBPGwyiCx7U3JG01P+nG0WDAQVikSTgCCVOce9iB5A4gfGue927Zu9FNHTXB5GghlnhWSRDlmjY81EmOJwesBj5GO9WL0/ti1+67NNUQB5Yw7tHL2COPXtVgWIPeO9UP1fttpm2TK1YlxgkpFZ6QUURSKOUhumUe3BJOSe/o58tHfVLa9QQARY/fvJdTiJaIWj3F+cTBv6lp4aWmrWjoLW8bCYRj+WVuPUKY/qp/18j6HlC2xZ6y/wBuqKumuVqhiUNI1O785qccmCDGPsAZ8d6NGqGEiYgdcXz2yiHJcJq/ntlRodr7fs8MLvczLVfhEq1DVCI0YYAgkZwpBwVYjHZB6Opz6l7w3HAK7Z9wrI6yhkCVH7c78ZY1Vuag49yNkfZGPBwdGjSvtpbbpAqhhag4pxNqO+f/2Q=="
 />
 
-Zunächst ein paar Grundlagen. _Natürliche_ Vorgänge, wie sie von Mutter Natur vorgesehen sind.
+Zunächst ein paar Grundlagen. Natürliche Vorgänge, wie sie von Mutter Natur vorgesehen sind.
 
-Als Honig bezeichnet man eine von Honigbienen sowie einigen Ameisenarten _zur eigenen Nahrungsversorgung erzeugte,_ süße Masse aus dem **Nektar** von Blüten oder den zuckerhaltigen Ausscheidungsprodukten verschiedener Insekten (Honigtau).
+Als Honig bezeichnet man eine von Honigbienen sowie einigen Ameisenarten zur eigenen Nahrungsversorgung erzeugte, süße Masse aus dem **Nektar** von Blüten oder den zuckerhaltigen Ausscheidungsprodukten verschiedener Insekten (Honigtau).
 
 ### Die Nahrung der Bienen
 
@@ -134,7 +138,7 @@ In der Steinzeit begannen die Menschen Honig als Nahrungsmittel zu nutzen. Die H
 
 Bevor man Zucker aus Zuckerrüben gewinnen konnte, war Honig nahezu das einzige bekannte, Süßungsmittel.
 
-### Honig weltweit - Aktuelle Zahlen
+### Honig weltweit - aktuelle Zahlen
 
 Der Ertrag der deutschen Honigproduktion rund 16.000 Tonnen. Weltweit werden pro Jahr rund 1.650.000 Tonnen produziert (Food Agriculture Organization of the United Nations). Die Deutschen nehmen rund 85.000 Tonnen Honig pro Jahr zu sich (Bundeswirtschaftsministerium), das ist mehr als 1 Kilo pro Einwohner. Davon wird nur ca. 1/5 durch deutschen Honig gedeckt[^4].
 
@@ -147,7 +151,7 @@ Der Ertrag der deutschen Honigproduktion rund 16.000 Tonnen. Weltweit werden pro
   loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAVCAIAAACor3u9AAAACXBIWXMAAAsTAAALEwEAmpwYAAAEYElEQVQ4jZWV61MbVRiHGf8HxxkdnerICLVMqVYDVRsoyW5CGUyn6IeUQisozFQgF9JEaSlTEErHUiqGlnRC0ZKwgTRcBKbiQNlYhBBu2cCES1qDIE1YEhIyFLLZzWqyGCgYaH+fzp5z3n3OeznnDSNDy+fz7bJKkiROEHhAu+wJ2znlxQkP7vMRGE4Q6xju9fo/dic9LwDHCcy7cRyjcQK1O6mxz0cG57fKNIsakXEjgmBe796AYEA8BNlgdva3VinvqqWd01OWxeAGgnjGFfNf9plp85TJhHmxPQDU3wmCKO5DwvMuvySW37ySnnlW8PIp5YHU6s8KmxHzBuZF5QcQgRCvutYK0n6MLqiNLquOLFdXyi5/e76UJmxnC+vfy6iN4NZotJOBs2waz+t1ExMmBDGaTJOhCiIs6PTFrJozRy5I0qTgnc6DP/dKpOViYcn7eW0sgYItguJy69/m3nponKNSRZm4LI/m5xcePbZY/rSE9IAqsi71cHxEGifhSzGnPDtbGlXX9YVMJhaWfMBrYQkUDH4DSwTRsuoSRSrKbFsy9ggRSZIXzl3PZFzLSa7OPVktSb7KuaTgKO5+LaqIzdMAfoCSKYBYItX+07I+ZD7oxOyTsf7+AS2sRZfsoah+gGt1oaj2aOnN1MJCoSizVMCpzAFqUq6qPr8oP5qrAgRKBl8J5DfGpha/Ss8pVw5Qd4UkSYdrwWZb/HtuzuVaoe7dVm0CLE/GRNLDpUqgogX4vgksq0spqsiSFBYlfgPReY1+gCDgQT508Iws58ZvW9PwXCGatSLp5yPPFdCv1HNKmj8ta02skoKd3EN5aUU0cRvAUzAEDQy+MlGkis6o5f2wCUAGTVpYiyCIYcwwqNN1dXXrBv4Y0g+OjoxotfDaOrYBWF13Xqqnl7YnlzedqP4uSXkSaIxldtBiq05wYyQdAF/BDABYIigq/XalWh8ELDvcS0uoMyCHw2G3O+woumx3OJ1Om83mDZTPRpKlqvTrwo8bk8FmWpz6k3gITFAz6feYcSBfQRc2UQwwH3rn1K2xGduLhYgIPCOW+7/WvvLGvWNMCExQgccagQSIybhPP/xVZlmM+BeAp2DnQ9EZ8tTiVsqMyiE8bYFhuPfBg0HdINzbM2YwUEvbk0ypRySQRbylOc7SsAE1mACBjPb4D6+lnKVJOpLyIVp23aEMucXqoqqFMnGtYy7n8rJj2e12u5xO18pKiHvwn0EPP0+67/WcN/fd+OhIy3G2BoxvYgN0XkP4aXlMdt3otNX/UhB7NIn/A1AvckAzba0NSezb70bcidovPxDZFP4al1so/Em/4l7d2YLck9rxcX8NDY2Mjo8bDYbRtXXPthu3GSICx4MYp9n8uKN9qllj6/8de/qUmtyZWMxt7+7u0ev0fQ/7YBgeHhrG8e3+PdNwCJ8P93h2hgDDiVBlg6LoEoqiizar1Wq3O0KHaIt8BIFjGI55cI/HP9il5e7VtP8F/APWQYqRJFGklQAAAABJRU5ErkJggg=="
 />
 
-Hauptimportländer sind hierzulande Mexico und Argentinien. 2012 wurden u. a. 15\.000 Tonnen aus Mexico und 13.000 Tonnen aus Argentinien nach Deutschland importiert[^2]. Fast 50 Prozent des Honigs auf der Welt stammen aus Asien, 23 Prozent aus Europa, 12 Prozent aus Afrika, 10  Prozent aus Nord- und Mittelamerika, 8 Prozent aus Südamerika und 2 Prozent aus Australien und Neuseeland[^4].
+Hauptimportländer sind hierzulande Mexiko und Argentinien. 2012 wurden u. a. 15.000 Tonnen aus Mexiko und 13.000 Tonnen aus Argentinien nach Deutschland importiert[^2]. Fast 50 Prozent des Honigs auf der Welt stammen aus Asien, 23 Prozent aus Europa, 12 Prozent aus Afrika, 10  Prozent aus Nord- und Mittelamerika, 8 Prozent aus Südamerika und 2 Prozent aus Australien und Neuseeland[^4].
 
 ### Honigarten und Honigproduktion heute
 
@@ -191,7 +195,7 @@ Sie brechen in Panik aus, der Instinkt bringt sie dazu, möglichst viel Nahrung 
 
 ### Ausschwärmen wird verhindert
 
-Ihrer Natur gemäß, schwärmen Bienen meist in den Monaten Mai und Juni aus. Dies erfolgt, sobald in einem Bienenstock mehr als eine Königin sitzt. Imker versuchen dies zu verhindern, um sich nicht den Honig dieser besonders ertragsreichen Zeit entgehen zu lassen.
+Ihrer Natur gemäß schwärmen Bienen meist in den Monaten Mai und Juni aus. Dies erfolgt, sobald in einem Bienenstock mehr als eine Königin sitzt. Imker versuchen dies zu verhindern, um sich nicht den Honig dieser besonders ertragsreichen Zeit entgehen zu lassen.
 
 <RemoteImage
   alt={`Biene im Flug`}
@@ -223,9 +227,9 @@ Die natürliche Lebenserwartung einer Bienenkönigin beträgt 6 Jahre, in einem 
 
 Seit Jahrzehnten warnen Wissenschaftler vor dem Bienensterben. Sterben die Bienen, findet keine Bestäubung mehr statt, was verheerende Folgen für die Natur nach sich zieht.
 
-Schuld am Tod der Bienen sind sicherlich in Teilen auch die von der Honigindustrie angegebenen Gründe, der Einsatz von Pestiziden, Milben, sowie die **Klimaerwärmung** . Der Kern des Problems sitzt jedoch wesentlich tiefer.
+Schuld am Tod der Bienen sind sicherlich in Teilen auch die von der Honigindustrie angegebenen Gründe, der Einsatz von Pestiziden, Milben sowie die **Klimaerwärmung** . Der Kern des Problems sitzt jedoch wesentlich tiefer.
 
-Die Bienen leiden durch den Honigraub des Menschen vom Larvenstadium an an Eiweißmangel[^1] und sind somit nicht mehr gegen Angreifer wie beispielsweise die Varroamilbe, die derzeit ganze Bienenvölker ausrottet[^7].  Die Natur ist in ein Ungleichgewicht geraten, Schuld ist wie so oft der Mensch.
+Die Bienen leiden durch den Honigraub des Menschen vom Larvenstadium an Eiweißmangel[^1] und sind somit nicht mehr gegen Angreifer wie beispielsweise die Varroamilbe, die derzeit ganze Bienenvölker ausrottet[^7].  Die Natur ist in ein Ungleichgewicht geraten, schuld ist wie so oft der Mensch.
 
 ### Frieden für die Honigbienen
 
@@ -253,9 +257,9 @@ Es gibt bestimmt einige, wenige **Imker** , die versuchen, den Bienen nicht zu 
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECB//EACcQAAIBBAEDAwUBAAAAAAAAAAECAwAEBRESMVFhBiFBEyJCcaHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EAB0RAAIDAAMBAQAAAAAAAAAAAAECAAMRBCEiEiP/2gAMAwEAAhEDEQA/AOg4WwjkjUuoIddEeajQ4y/sMjdX8+VlmsH5LFZNEvGNjrjpup1o677qTjcgk2P+zZcLsa60l9TTccbd3bytxjtCBEk5AViOIbjr3P7PtrdDkWFR5j0LpyMLtFku7eJhtJlkJ5KeqqCNbA7nvVL9TYpY+RQean4rPDKZKw4SBmt7aT6gHy54A67/ADW/qW4VoG+GHQ1k4jWGr9Tp2VuVQ/kZ1K5Z3zvaNbyBmikHFgHKnXgj3FJc5AceUia4uZ7aWNnSN5NlNdQdgg+Doa80UVd1DDuV4lz1OPg5MYTDxXFqmRLtEfxWEcGA7F/8Aphl76WXfI/2iiiqhehEvte1vZ2f/9k="
 />
 
-Tolle Alternativen sind übrigens u. a. Ahornsirup oder für alle, die es etwas weniger würzig mögen, **Agavendicksaft** . Etwas fruchtiger und sehr lecker ist Apfelsüße, ich habe das für Euch getestet.
+Tolle tierleidfreie Alternativen sind übrigens neben veganen Honigalternativen auch Ahornsirup oder für alle, die es etwas weniger würzig mögen, **Agavendicksaft**. Etwas fruchtiger und sehr lecker ist zum Beispiel Apfelsüße.
 
-Honig lässt sich im Übrigen auch ganz leicht selbst und ohne den Umweg über die Bienen herstellen. Hier ein Rezept:
+Eine einfache vegane Honigalternative könnt Ihr Übrigen auch ganz einfach selbst und ohne den Umweg über die Bienen herstellen. Hier ein Rezept:
 
 ### Selbstgemachter Gänseblümchenhonig
 
@@ -268,7 +272,7 @@ Honig lässt sich im Übrigen auch ganz leicht selbst und ohne den Umweg über d
 
 #### Zubereitung
 
-Das Wasser zusammen mit den Blumen aufkochen und im Anschluss für ca. 3-4 Stunden ziehen lassen. Den Sud durch ein Sieb drücken und mit dem Zitronensaft und dem Zucker einkochen, bis er dickflüssig wird. In ein großes oder zwei kleine Marmeladengläser abfüllen und fertig ist der Gänseblümchenhonig.
+Das Wasser zusammen mit den Blumen aufkochen und im Anschluss für etwa drei bis vier Stunden ziehen lassen. Den Sud durch ein Sieb drücken und mit dem Zitronensaft und dem Zucker einkochen, bis er dickflüssig wird. In ein großes oder zwei kleine Marmeladengläser abfüllen und fertig ist der Gänseblümchenhonig.
 
 [Hier geht's zu Teil 8 des Artikels](/2014/11/fakepelz-echtpelz/)
 

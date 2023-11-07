@@ -28,6 +28,7 @@ labels:
   - vegane Metalternative
   - Veganfach
   - Wonig
+  - Bienen
 focusKeyword: Vegablum
 status: publish
 isWerbung: false
