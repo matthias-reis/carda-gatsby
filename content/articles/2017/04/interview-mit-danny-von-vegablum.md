@@ -62,7 +62,7 @@ subTitle: Wir möchten Gutes tun und keinen Benz kaufen
 advertisement: true
 ---
 
-**Was genau [Vonig](/2017/04/veganer-honig-vegablum/) ist und wie der [vegane Honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) hergestellt wird, habe ich Euch vor Kurzem schon verraten. Jetzt habe ich mich mit der Gründerin der veganen Manufaktur Vegablum zum Interview verabredet.**
+**Was genau [Vonig](/2017/04/veganer-honig-vegablum/) ist und wie der [vegane Honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/) hergestellt wird, habe ich Euch vor Kurzem schon verraten. Jetzt habe ich mich mit der Gründerin der veganen Manufaktur Vegablum zum Interview verabredet.**
 
 Weil mein Artikel über Dannys Produkte so gut angekommen ist und auch ich gerne noch mehr über Vonig und VET (Veganer ElfenTrunk) erfahren möchte, habe ich mich entschieden, sie um ein Interview zu bitten. Sie hat zugesagt und wie Ihr Euch vielleicht schon vorstellen könnt, habe ich sie nicht nur über ihre Arbeit befragt.
 
@@ -92,7 +92,7 @@ Weil mein Artikel über Dannys Produkte so gut angekommen ist und auch ich gerne
 
 **Danny:** Einerseits habe ich den Met vermisst. Den habe ich immer super gerne getrunken, gerade auf Mittelalter-Märkten beim Lagern. Der fiel ja durch meine Umstellung auf vegan weg, also habe ich mich schlau gemacht. Als erstes musste eine vegane Honig-Alternative her. Irgendwann bin ich auf Löwenzahnhonig gestoßen. Von da an nahm alles seinen Lauf. Wir haben viel herumexperimentiert und verschiedene Sorten entwickelt. Als der Vonig dann fertig war, haben wir daraus den VET produziert.
 
-Weitere wichtige Punkte sind das [Bienensterben](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) und die Massenproduktion von Honig. Das wird ein immer größeres Thema, das man nicht außer Acht lassen sollte. Durch unsere Produkte können wir die Menschen gleich an unseren Ständen darüber aufklären und zum Nachdenken anregen.
+Weitere wichtige Punkte sind das [Bienensterben](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/) und die Massenproduktion von Honig. Das wird ein immer größeres Thema, das man nicht außer Acht lassen sollte. Durch unsere Produkte können wir die Menschen gleich an unseren Ständen darüber aufklären und zum Nachdenken anregen.
 
 ## Danny lebt seit vier Jahren vegan
 

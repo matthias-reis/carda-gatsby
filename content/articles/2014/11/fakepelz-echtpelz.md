@@ -42,7 +42,7 @@ month: '11'
 
 ## Die finsteren Machenschaften der Modeindustrie
 
-**[Hier geht's zu Teil 7 des Artikels](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) Vegan leben bedeutet natürlich auch, auf das Tragen von Pelz und Leder, sprich das Fell und die Haut von Tieren zu verzichten. Pelzmäntel sieht man heute kaum noch, die Grausamkeit um ihre Herstellung ist von diversen Tierrechtsaktionen in den Köpfen der Menschen eingebrannt.**
+**[Hier geht's zu Teil 7 des Artikels](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/) Vegan leben bedeutet natürlich auch, auf das Tragen von Pelz und Leder, sprich das Fell und die Haut von Tieren zu verzichten. Pelzmäntel sieht man heute kaum noch, die Grausamkeit um ihre Herstellung ist von diversen Tierrechtsaktionen in den Köpfen der Menschen eingebrannt.**
 
 Pelz gilt nach wie vor als Luxusware, ganz anders als zum Beispiel Leder und [Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/), Materialien, die die Menschen als alltäglich ansehen, aus dem Alltag sind sie für die meisten von uns nur schwer wegzudenken.
 

@@ -38,7 +38,7 @@ subTitle: Das fleißige Blümchen aus Meerbusch
 advertisement: true
 ---
 
-**Ein paar von Euch können sich vielleicht noch an meinen [Honigartikel](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) erinnern. Darin erklärte ich unter anderem, wie der Honig ins Glas kommt und warum er normalerweise nicht vegan ist.**
+**Ein paar von Euch können sich vielleicht noch an meinen [Honigartikel](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/) erinnern. Darin erklärte ich unter anderem, wie der Honig ins Glas kommt und warum er normalerweise nicht vegan ist.**
 
 Auch ein kleines Rezept, mit dem man zu Hause ganz hemdsärmelig selbst so etwas wie Honigersatz herstellen kann, kam darin vor. Das hat Euch noch nicht gereicht? Dann habe ich jetzt was ganz Besonderes für Euch.
 
@@ -118,7 +118,7 @@ Genau aus dem einen Grund, dass bei  _Vonig_ und  _Vet_ eben nicht die Bienen 
 
 Ich plane im Moment ein großes Interview mit Danny. Sobald es fertig ist, wird es hier im Blog erscheinen. Alle  _Vegablum_ -Produkte findet ihr in Dannys Online-Shop. [Bitte einfach hier klicken](http://vegablum.de/).
 
-[Mehr über die Honigproduktion und warum Veganer keinen echten Honig essen, erfahrt Ihr hier.](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+[Mehr über die Honigproduktion und warum Veganer keinen echten Honig essen, erfahrt Ihr hier.](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/)
 
 <Gallery
   images={[

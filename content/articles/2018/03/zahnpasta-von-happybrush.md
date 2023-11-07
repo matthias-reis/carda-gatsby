@@ -45,7 +45,7 @@ advertisement: true
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYF/8QAKBAAAgEEAAUDBQEAAAAAAAAAAQIDAAQFEQYSFCExEyJBByNRYXGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACEQNR/9oADAMBAAIRAxEAPwBCWcaErzUwWxmJ6PDF4GjNxjop2eFdl2+4rb7+SQDvXxqlVFdMAKY9rO9zheE2BY7szAOU6OxcSqBv/abliR0No5BsNiZuDI8xFkwLkRxbtn5dyOzMHH5XXt18EAnzWPvIkGypqPPrkMUkWGyMBgnsJnV1LBtOdt5Hbw3xuub1LCP3GmlsSbUsaWlNDqtfw5xPc40YuJ7WzubazmDoJIh6gBcsQsnle5JooqbAyjyV/qNmF4g4xvsn03TtJyBk9QybIXW9kfzt+qzDndFFKmAET//Z"
 />
 
-Wenn sich einige jetzt fragen: Was kann denn an Zahnpasta nicht vegan sein? Herkömmlichen Zahnpasten wird beispielsweise Lactoferin zugesetzt. Dieser Stoff wird aus Kuhmilch gewonnen und soll angeblich Bakterien im Mund bekämpfen. Außerdem ist gerne mal Glycerin aus tierischen Fetten drin und auch [Bienenprodukte](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) finden Verwendung.
+Wenn sich einige jetzt fragen: Was kann denn an Zahnpasta nicht vegan sein? Herkömmlichen Zahnpasten wird beispielsweise Lactoferin zugesetzt. Dieser Stoff wird aus Kuhmilch gewonnen und soll angeblich Bakterien im Mund bekämpfen. Außerdem ist gerne mal Glycerin aus tierischen Fetten drin und auch [Bienenprodukte](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/) finden Verwendung.
 
 ## Kein Gedöns
 

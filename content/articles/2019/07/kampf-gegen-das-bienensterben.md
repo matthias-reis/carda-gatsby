@@ -5,12 +5,8 @@ path: /2019/07/kampf-gegen-das-bienensterben/
 title: Kampf gegen das Bienensterben
 seoTitle: Kampf gegen das Bienensterben - Milben, Pflanzenschutzmittel, Honig
 ogTitle: Kampf gegen das Bienensterben - Milben, Pflanzenschutzmittel, Honig
-description: "Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir
-  sind diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit
-  drängt."
-excerpt: "Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind
-  diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit
-  drängt."
+description: 'Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit drängt.'
+excerpt: 'Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit drängt.'
 fileName: 2019-07---kampf-gegen-das-bienensterben.md
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_07_bienen-fb-1.png__l.jpg
 labels:
@@ -33,8 +29,8 @@ language: de
 errors: {}
 subTitle: Milben, Pflanzenschutzmittel und Honigproduktion
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-05-2020-04-10-bienenbalkon-44-jpeg-imagine-180808_656758_1024_768/640.webp
-year: "2019"
-month: "07"
+year: '2019'
+month: '07'
 ---
 
 **Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind diejenigen, die dafür die Verantwortung übernehmen sollten und das so schnell wie möglich. Die Zeit drängt und es steht einiges auf dem Spiel.**
@@ -60,7 +56,7 @@ Die Bienen bilden mit den Pflanzen eine perfekte Symbiose: Sie benötigen den Ne
 
 Seit einigen Jahren kommt es zu einem massenhaften Bienensterben. Immer wieder sind ganze Völker davon betroffen und es werden immer mehr. Um das Geschehen genauer zu verstehen, muss man sich näher mit den fleißigen Insekten beschäftigen.
 
-Honig ist die von Insekten [zur eigenen Nahrungsversorgung](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) hergestellte Masse aus ihren Ausscheidungsprodukten: Honigtau und Blütennektar. Die Bienen nehmen Blütennektar, Honigtau verschiedener Lausarten und Pflanzensaft auf und reichern ihn mit ihren körpereigenen Säften an. Sie speichern ihn in Waben, der Honig reift heran.
+Honig ist die von Insekten [zur eigenen Nahrungsversorgung](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/) hergestellte Masse aus ihren Ausscheidungsprodukten: Honigtau und Blütennektar. Die Bienen nehmen Blütennektar, Honigtau verschiedener Lausarten und Pflanzensaft auf und reichern ihn mit ihren körpereigenen Säften an. Sie speichern ihn in Waben, der Honig reift heran.
 
 ## Die Nährstoffe im Honig stärken das Immunsystem der Bienen
 

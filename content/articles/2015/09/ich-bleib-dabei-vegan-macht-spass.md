@@ -185,7 +185,7 @@ So, Schluss mit der Lobhudelei, ich muss kochen, heute gibt es was wirklich Leck
 
 [^1]: [Tierrechte](/2014/08/blutige-zahlen/)
 [^2]: [Soja & Klimaschutz](/2014/07/soja-klimaschutz/)
-[^3]: [Honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+[^3]: [Honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/)
 [^4]: [Die Wahrheit über Milch](/2014/09/pflanzenmilch-wieso-denn-blos/)
 [^5]: [Johanna im Interview](/2014/08/der-schutz-und-die-rechte-der-tiere-stehen-an-erster-stelle/)
 [^6]: [Sebastian im Interview](/2015/01/ich-hatte-noch-nie-heimweh/)

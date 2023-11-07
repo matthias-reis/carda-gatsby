@@ -125,7 +125,7 @@ Falls Du [Rezeptideen](/tag/vegan/vegane-rezepte/) oder Einkaufstipps brauchst: 
 3.  [Fleischproduktion - Zahlen und Fakten](/2014/08/blutige-zahlen/)
 4.  [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/)
 5.  [Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-6.  [Honig und Bienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+6.  [Honig und Bienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/)
 7.  [Interview mit der veganen Ärztin Dr. Barbara Gorissen](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/)
 8.  [Weltwassertag](/2017/03/der-internationale-weltwassertag-2017/)
 9.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)

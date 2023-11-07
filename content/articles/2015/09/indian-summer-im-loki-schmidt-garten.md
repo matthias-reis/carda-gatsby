@@ -45,7 +45,7 @@ month: '09'
 
 **Nicht nur in voller Blüte oder als Knospe sehen Rosen toll aus. Auch ihre Hagebutten sind von wilder Schönheit. Wusstet Ihr, dass jede Rosensorte ihre ganz eigenen, für sie charakteristischen Hagebutten hervorbringt?**
 
-Die wenigstens sind übrigens orange und auch in der Form unterscheiden sie sich stark. Im Botanischen Garten gibt es im Herbst natürlich noch vieles mehr zu sehen. Es tummeln sich dort z. B. auch jede Menge [Bienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) und Hummeln.
+Die wenigstens sind übrigens orange und auch in der Form unterscheiden sie sich stark. Im Botanischen Garten gibt es im Herbst natürlich noch vieles mehr zu sehen. Es tummeln sich dort z. B. auch jede Menge [Bienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/) und Hummeln.
 
 Hier sind meine Eindrücke aus dem Loki Schmidt Garten
 

@@ -6,7 +6,7 @@ title: Vegane Kosmetik, Biokosmetik und Naturkosmetik
 seoTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede
 ogTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede
 description: Vegane Kosmetik, Naturkosmetik, Biokosmetik, vegane Naturkosmetik, vegane Biokosmetik, vegane, herkömmliche Kosmetik. Was sind eigentlich die Unterschiede?
-excerpt: "Naturkosmetik, vegane Naturkosmetik, vegane Kosmetik und Biokosmetik: Heute zeige ich Euch genau, wo die Unterschiede liegen und worauf Ihr im Hinblick auf Tierversuche und Allergien achten solltet."
+excerpt: 'Naturkosmetik, vegane Naturkosmetik, vegane Kosmetik und Biokosmetik: Heute zeige ich Euch genau, wo die Unterschiede liegen und worauf Ihr im Hinblick auf Tierversuche und Allergien achten solltet.'
 fileName: 2018-03---vegane-kosmetik-biokosmetik-und-naturkosmetik.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_vase-3242871_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_vase-3242871_640__l.jpg
@@ -49,7 +49,7 @@ Das wurde ich vor Kurzem gefragt. Und es stimmt: So klar sind die Unterschiede z
 
 Doch das bedeutet nicht immer auch, dass es sich um Naturkosmetik handelt und umgekehrt ist das genau so. Naturkosmetik kann auch durchaus nicht vegane Inhaltsstoffe enthalten. So kommt in vielen Produkten beispielsweise Bienenwachs oder Wollwachs (Lanolin) zum Einsatz.
 
-Bei "Cera Flava" (Bienenwachs) handelt es sich um die Ausscheidung der Honigbienen. Von den [Bienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) wird es zur Produktion der Waben genutzt. Kosmetikfirmen geben es zum Beispiel gerne in Coldcreams oder andere reichhaltige Pflegeprodukte. Echtes "Karmin" wird aus weiblichen Schildläusen gewonnen, es gibt eine starke rote Farbe ab und wird daher gerne zum Färben (Rheumabäder, Mundspülung) verwendet. "Keratin" wird aus Horn, Hufen, [Schuppen](/2016/05/pangolin-ein-vergessenes-schuppentier/), Federn und Hörnern gewonnen. Es wird für Haarpflegeprodukte verwendet. "Lanolin", auch Wollwachs genannt, stammt aus den Talgdrüsen von Schafen und wird für Salben, Cremes und Lotionen verwendet.
+Bei "Cera Flava" (Bienenwachs) handelt es sich um die Ausscheidung der Honigbienen. Von den [Bienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/) wird es zur Produktion der Waben genutzt. Kosmetikfirmen geben es zum Beispiel gerne in Coldcreams oder andere reichhaltige Pflegeprodukte. Echtes "Karmin" wird aus weiblichen Schildläusen gewonnen, es gibt eine starke rote Farbe ab und wird daher gerne zum Färben (Rheumabäder, Mundspülung) verwendet. "Keratin" wird aus Horn, Hufen, [Schuppen](/2016/05/pangolin-ein-vergessenes-schuppentier/), Federn und Hörnern gewonnen. Es wird für Haarpflegeprodukte verwendet. "Lanolin", auch Wollwachs genannt, stammt aus den Talgdrüsen von Schafen und wird für Salben, Cremes und Lotionen verwendet.
 
 Neben Naturkosmetik gibt es auch noch Biokosmetik. Ferner: vegane Naturkosmetik, vegane Biokosmetik, vegane herkömmliche Kosmetik und naturnahe Kosmetik. Doch was sind hier neben den bereits beschriebenen Inhaltsstoffen die Unterschiede?
 

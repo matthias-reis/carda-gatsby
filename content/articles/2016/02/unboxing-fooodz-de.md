@@ -99,7 +99,7 @@ Es besteht fast vollständig aus Weizeneiweiß, sprich Gluten und ist im Geschma
 
 Die Tortilla Chips haben wir auf einen Schlag aufgefuttert, sie waren wunderbar kross und gut gewürzt. Für meinen Geschmack hätten sie etwas mehr Chili und dafür etwas weniger Knoblauch enthalten können, aber das ist auch wieder mal nur eine Nuance, die anderen evtl. gar nicht aufgefallen wäre.
 
-Der Kokosblütensirup landet derzeit jeden Tag in meinem Tee. Ich finde ihn sehr angenehm, er schmeckt ein bisschen fruchtig, erinnert mehr an [Kräuterblütensirup](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/), als an Kokos. Eine willkommene Abwechslung zu meiner Apfelsüße.
+Der Kokosblütensirup landet derzeit jeden Tag in meinem Tee. Ich finde ihn sehr angenehm, er schmeckt ein bisschen fruchtig, erinnert mehr an [Kräuterblütensirup](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/), als an Kokos. Eine willkommene Abwechslung zu meiner Apfelsüße.
 
 Interessant fand ich das Fertig-Gyros. Die Sojaschnetzel waren, anders als "normale" Sojaschnetzel, im heißen Wasser schon nach wenigen Minuten weich und konnten weiterverarbeitet werden. Ich habe sie mit Zucchini und grüner Paprika angebraten, dazu habe ich roten Reis serviert. Sie schmecken sicher auch gut mit selbst gemachten Pommes und Tsatsiki.
 

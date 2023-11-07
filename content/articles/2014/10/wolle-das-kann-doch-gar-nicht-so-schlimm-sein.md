@@ -303,7 +303,7 @@ Immerhin haben in den letzten Jahren schon mal einige Firmen zumindest Angora un
 
 Schwer zu sagen, wenn man derzeit die Kunstfell-Kragen, -Schals und \-Mützenbommel sieht, die leider in den seltensten Fällen auch aus Kunststoff bestehen, doch dazu mehr im achten Teil meiner Serie.
 
-[Hier geht's zu Teil 7 des Artikels](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+[Hier geht's zu Teil 7 des Artikels](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/)
 
 ## Quellen
 
