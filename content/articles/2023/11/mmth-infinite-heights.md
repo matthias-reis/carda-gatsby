@@ -35,7 +35,7 @@ Wenn ätherisch anmutender Shoegaze-Sound das Beste ist, was Ihr aus den 1980er-
 
 ![MMTH – "Infinite Heights"](https://storage.googleapis.com/cardamonchai-media/2023-11-08/infinite-heights-mmth-jpg-imagine-b83818_b76853_440_440/640.webp 'MMTH – "Infinite Heights""')
 
-Bernd Frikke, Carlo Persh, Hanno Janßen und Jan R. Haneborger veröffentlichen ihr neuestes klangliches Meisterwerk am 17. November. Die ersten Vorauskopplungen gibt es schon, Ihr könnt Euch also bereits einen Vorgeschmack holen (siehe unten). Komplett in einem Rutsch gehört, entwickelt das Album jedoch seine ganze Tragweite und Ihr könnt die bewegende Geschichte in ihrer ganzen Schönheit genießen. Verpasst dieses Erlebnis auf keinen Fall! Die zwei Jahre im Studio haben sich gelohnt.
+Bernd Frikke, Patrick Büch, Hanno Janßen und Jan R. Haneborger veröffentlichen ihr neuestes klangliches Meisterwerk am 17. November. Die ersten Vorauskopplungen gibt es schon, Ihr könnt Euch also bereits einen Vorgeschmack holen (siehe unten). Komplett in einem Rutsch gehört, entwickelt das Album jedoch seine ganze Tragweite und Ihr könnt die bewegende Geschichte in ihrer ganzen Schönheit genießen. Verpasst dieses Erlebnis auf keinen Fall! Die Zeit im Studio hat sich gelohnt.
 
 Verglichen werden MMTH mit Projekten wie Tides from Nebula, Long Distance Calling oder Slowdive. Umfangreiche Bühnenerfahrung sammelten Sie im Anschluss an ihr 2017 erschienenes Album "Paternoster" unter anderem gemeinsam mit Rosetta, Public Service, Broadcasting, Hemelbestormer, Coastlands, The Clouds Will Clear und Spoiwo.
 
