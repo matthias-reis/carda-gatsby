@@ -33,7 +33,7 @@ languageLink: /2023/11/mmth-infinite-heights/
 
 If ethereal shoegaze sound is your dearest souvenir from the 1980s, and you enjoy heaviness and playfulness in the form of instrumental experiments, you should give MMTH a chance. The new album by the Aurich-based post-music project is of brute beauty—it lives from its well-considered progressiveness. What I mean by that is that the six tracks don't get lost in krautrocky fiddling or stodginess. MMTH understand how to place accents and hints—always at the right moment.
 
-Bernd Frikke, Carlo Persh, Hanno Jansen and Jan R. Haneborger will release their latest sonic masterpiece on November 17th. The first two singles are already available, so you can get a taste of what's to come below. If you listen to it in one go, however, the album develops its full scope, and you can savour the moving story in all its beauty. Please don't miss out on this experience! The two years in the studio have been worth it.
+Bernd Frikke, Carlo Persh, Hanno Jansen and Jan R. Haneborger will release their latest musical masterpiece on November 17th. The first two singles are already available, so you can get a taste of what's to come below. If you listen to it in one go, however, the album develops its full scope, and you can savour the moving story in all its beauty. Please don't miss out on this experience! The two years in the studio have been worth it.
 
 ![MMTH – "Infinite Heights"](https://storage.googleapis.com/cardamonchai-media/2023-11-08/infinite-heights-mmth-jpg-imagine-b83818_b76853_440_440/640.webp 'MMTH – "Infinite Heights""')
 
