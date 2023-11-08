@@ -7,7 +7,7 @@ subTitle: 'Experimentell, instrumental und geradeheraus'
 seoTitle: MMTH – "Infinite Heights" – Post-Rock-Review
 description: Das neue MMTH Album "Infinite Heights" ist ziemlich genialer Post-Rock. Lest jetzt, warum Ihr es auf keinen Fall verpassen solltet!
 excerpt: '"Infinite Heights" von MMTH ist ein großartiges Post-Rock-Album, das von seiner Vielseitigkeit lebt – Tremolo und kinematische Momente inklusive. Kommt mit auf einen spannenden Roadtrip voll Überraschungen und Verspieltheit!'
-image: https://storage.googleapis.com/cardamonchai-media/2023-11-08/mmth-infinite-heights-3-jpg-imagine-080808_656565_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2023-11-08/mmth-infinite-heights-4-jpg-imagine-080808_656565_1024_768/640.webp
 copyright: 'MMTH'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-08/mmth-infinite-heights-2-og-jpg-imagine-989898_746d6c_1200_628/640.webp
 labels:
