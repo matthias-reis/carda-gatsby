@@ -16,7 +16,6 @@ labels:
   - Review
   - Reviews
   - Shoegaze
-  - Pelagic
   - Post-Music
   - Post-Rock
   - Experimental
