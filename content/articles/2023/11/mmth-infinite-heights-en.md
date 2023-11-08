@@ -4,7 +4,7 @@ slug: mmth-infinite-heights-en
 typeName: Review
 title: MMTH – "Infinites Heights"
 subTitle: 'Experimental, Instrumental, Straightforward Post-Rock Sound'
-seoTitle: MMTH – "Infitinite Heights" – Post-Rock-Review
+seoTitle: MMTH – "Infitinite Heights" – Post Rock Review
 description: MMTH are going the release their brand-new album "Infinites Heights" on November 17th. Find out why you should definitely listen to it an what is so fascinating about it!
 excerpt: MMTH's brand-new album "Infinite Heights" is a schoolbook example of great self-produced post-music. Please don't miss out and listen to this record! Find out what it has in common with excellent 1980s shoegaze and some more also quite fascinating insights and details.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-08/mmth-infinite-heights-jpg-imagine-a8a8a8_747474_1024_768/640.webp
