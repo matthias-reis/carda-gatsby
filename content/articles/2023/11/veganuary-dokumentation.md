@@ -25,7 +25,7 @@ affiliate: false
 language: de
 ---
 
-**Sage und schreibe zehn Jahre gibt es die weltweite Veganuary Kampagne jetzt schon. Seit ihrem Start im Jahr 2013 wurden durch sie tausende Menschen auf den Veganismus aufmerksam, beschäftigten sich näher mit der Thematik und wurden selbst zu Veganer\*innen. Zur Feier des Tages gibt es jetzt eine Dokumentation.**
+**Sage und schreibe zehn Jahre gibt es die weltweite Veganuary Kampagne jetzt bereits. Seit ihrem Start im Jahr 2013 wurden durch sie tausende Menschen auf den Veganismus aufmerksam, beschäftigten sich näher mit der Thematik und wurden selbst zu Veganer\*innen. Zur Feier des Tages gibt es jetzt eine Dokumentation.**
 
 Bis Januar 2023 hatte Veganuary[^1] bereits 706.600 Teilnehmende gezählt. Nächsten Januar dürften es noch mal bedeutend mehr sein, denn die Aktion nimmt mit jedem Jahr noch mehr Fahrt auf. So hatten sich im ersten Jahr gerade mal 3.000 Menschen angemeldet. Im Gegensatz zu 2023 sind das natürlich Peanuts und man kann hier geradezu von einer exponentiellen Steigerung sprechen. Dennoch waren es auch schon 2013 weit mehr, als die aus Großbritannien stammenden Gründer\*innen Jane Land und Matthew Glover zu träumen gewagt hatten. Inzwischen gibt es die Kampagne bis auf Nordkorea und den Vatikan in allen Ländern der Erde.
 
