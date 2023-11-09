@@ -31,7 +31,7 @@ languageLink: /2023/11/your-best-imaginary-friend-i-completely-disagree/
 
 **It's already been a few years since we've seen Jonathan Råsmark together with EF. The former member of the iconic Swedish post-rock project (2006 to 2008) has now released a wonderful album with his solo project, Your Best Imaginary Friend. "I completely disagree" goes straight to the heart with subtle electronic sounds and invites you to dream.**
 
-EF's former cellist and guitarist, Jonathan, moves just as skilfully through the world of electronic instruments, opening up a new colourful playground that has now become his musical home, as he tells me. Nevertheless, you can also sense his past in the ranks of the post-rock titans here—this may also have something to do with the fact that none other than EF member Daniel is involved in the drum tracks on "I completely disagree".
+[EF](/2022/11/ef-interview-en/)'s former cellist and guitarist, Jonathan, moves just as skilfully through the world of electronic instruments, opening up a new colourful playground that has now become his musical home, as he tells me. Nevertheless, you can also sense his past in the ranks of the post-rock titans here—this may also have something to do with the fact that none other than EF member Daniel is involved in the drum tracks on "I completely disagree".
 
 Overall, the record is a very well-balanced work—filled with tons of beautiful soundscapes. When you put it on your player, you will instantly feel immersed in a multi-faceted world of harmony, introversion, and reflection. The ten tracks on "I completely disagree" deal with sudden realisations, the possibility of discarding ideas and the conviction of not agreeing with the general opinion.
 
