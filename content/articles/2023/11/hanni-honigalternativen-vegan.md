@@ -1,7 +1,7 @@
 ---
 date: 2023-11-07T15:15:00.766Z
 slug: hanni-honigalternativen-vegan
-typeName:
+typeName: Produkttest
 title: 'hanni Honig-Alternativen vegan von bee neo'
 subTitle: 'Lecker süß kochen, backen und schlemmen ohne Bienen'
 seoTitle: hanni Honigalternativen vegan aus Hamburg
