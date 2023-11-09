@@ -6,7 +6,7 @@ title: 10 Jahre Veganuary
 subTitle: Vegane Organisation feiert mit Filmveröffentlichung
 seoTitle: 10 Jahre Veganuary – Filmpremiere steht kurz bevor
 description: 10 Jahre Veganuary – und es fühlt sich so an, als wäre es erst gestern gewesen. Erfahrt jetzt alles über die Filmpremiere und das Jubiläum!
-excerpt: 10 Jahre Veganuary – dieses besondere Jubiläum feiert die vegane Community mit einer einer Dokumentation. Im Film, an dem zahlreiche Prominente mitgewirkt haben, geht es unter anderem darum, wie viele Menschen sich inzwischen der Bewegung angeschlossen haben.
+excerpt: Zehn Jahre Veganuary – dieses besondere Jubiläum feiert die vegane Community mit einer einer Dokumentation. Im Film, an dem zahlreiche Prominente mitgewirkt haben, geht es unter anderem darum, wie viele Menschen sich inzwischen der Bewegung angeschlossen haben.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-09/veganuary-dokumentation-1-jpg-imagine-181818_7f7668_1024_768/640.webp
 copyright: 'Veganuary'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-09/veganuary-dokumentation-og-jpg-imagine-d8c8a8_807768_1200_628/640.webp
