@@ -88,7 +88,7 @@ Dafür sind die "Get Closer G4" trotz ihrer sehr hellen Farbgebung äußerst pfl
 
 **Tipp:** [Praktische Pflegehinweise](https://tidd.ly/3MERswG) für Eure veganen Schuhe findet Ihr im Anifree Shoes Blog!
 
-## Slow Fashion Shoes aus Düsseldorf
+### Slow Fashion Shoes aus Düsseldorf
 
 Hinter Noanymlz steckt eine vegane Modemarke aus Düsseldorf. Gründer Stefan Michalski stellt aus Überzeugung tierleidfreie Schuhe her und möchte damit Käufer\*innen ansprechen, die einen ethischen Lebensstil pflegen, sowohl umwelt- als auch modebewusst sind. Um diesen Überzeugungen zu entsprechen, sind die gewählten Materialien und damit auch die Schuhe besonders langlebig.
 
