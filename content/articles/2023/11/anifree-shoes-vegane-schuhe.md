@@ -1,5 +1,5 @@
 ---
-date: 2023-11-13T12:15:12.766Z
+date: 2023-11-13T11:15:12.766Z
 slug: anifree-shoes-vegane-schuhe
 typeName: Produkttest
 title: Anifree Shoes
