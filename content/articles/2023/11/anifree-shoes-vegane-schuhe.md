@@ -92,7 +92,7 @@ Dafür sind die "Get Closer G4" trotz ihrer sehr hellen Farbgebung äußerst pfl
 
 Hinter Noanymlz steckt eine vegane Modemarke aus Düsseldorf. Gründer Stefan Michalski stellt aus Überzeugung tierleidfreie Schuhe her und möchte damit Käufer\*innen ansprechen, die einen ethischen Lebensstil pflegen, sowohl umwelt- als auch modebewusst sind. Um diesen Überzeugungen zu entsprechen, sind die gewählten Materialien und damit auch die Schuhe besonders langlebig.
 
-## Natural Cork – veganes Portemonnaie
+### Natural Cork – veganes Portemonnaie
 
 Mein [Portemonnaie aus Cork](https://tidd.ly/467ppg9) liegt sehr gut in der Hand. Es ist optisch ein echtes Highlight und punktet durch das nachhaltige Material. Innen hat es acht Kartenfächer und zwei weitere Innenfächer, in die Ihr zum Beispiel Belege, Visitenkarten oder Fotos stecken könnt. Mit zehn Zentimetern Höhe und 20 Zentimetern Breite ist es nicht zu groß und passt auch in kleine Handtaschen. Dennoch habt Ihr Platz für alles und könnt sogar Euer Smartphone darin unterbringen, wenn Ihr wollt.
 
