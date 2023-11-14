@@ -93,7 +93,7 @@ Musikalisch sind die drei Zahn Mitglieder keineswegs unbeschriebene Blätter. So
 
 **Anne:** Was hat sich seit Eurem Debut 2021 für Euch verändert?
 
-**Felix:** Wir sind als Band gereift und haben unseren Horizont noch mehr erweitert, als er ohnehin von vorneherein war. Und wir haben festgestellt, dass wir künstlerisch mit Zahn alles machen können, worauf wir drei Lust haben. Um es mit Tom Petty zu sagen : "The sky is the limit."
+**Felix:** Wir sind als Band gereift und haben unseren Horizont noch mehr erweitert, als er ohnehin von vorneherein war. Und wir haben festgestellt, dass wir künstlerisch mit Zahn alles machen können, worauf wir drei Lust haben. Um es mit Tom Petty zu sagen : "The sky is the limit".
 
 **Anne:** Chris, die Musik ist Dein Leben. Wenn Du nicht selbst gerade Songs schreibst oder mit Deiner Band probst, stellst Du bei Crazysane andere Künstler\*innen ins Rampenlicht. Wusstest Du schon immer, dass es so kommen würde? Wie alt warst Du, als dieser "magische Sog" anfing, Dich anzuziehen?
 
