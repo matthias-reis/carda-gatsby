@@ -13,8 +13,8 @@ ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of
 labels:
   - Band
   - Bands
-  - Review
-  - Reviews
+  - Interview
+  - Interviews
   - Hummel Grafik
   - Six Days Of Calm
   - Post-Rock
