@@ -57,7 +57,7 @@ Musically, the three Zahn members are anything but newbies to the business. Amon
 
 ![Zahn – "Adria"](https://storage.googleapis.com/cardamonchai-media/2023-11-14/zahn-adria-interview-1-jpg-imagine-8898a8_868d8d_1024_768/640.webp 'Zahn – "Adria"')
 
-**Felix:** After our first album, numerous new musical instruments found their way into our rehearsal room—especially various synthesisers. It turned out that trying out these new instruments determined the direction of most of the pieces. The better we got to know them over time, the more extensive our musical language became, and so various other sounds and musical structures gained weight with the new pieces.
+**Felix:** After our first album, numerous new musical instruments found their way into our rehearsal room—especially various synthesisers. It turned out that trying out these new instruments set the direction of most of the pieces. The better we got to know them over time, the more extensive our musical language became, and so various other sounds and musical structures gained weight with the new pieces.
 
 **Anne:** There are three of you. Do you write all of your songs together, or does everyone come up with some of the parts, and then you combine and finalise everything, refining and tweaking the songs?
 
