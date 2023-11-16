@@ -46,12 +46,6 @@ const defaults = {
   hr: HR,
   img: Image,
   blockquote: BlockQuote,
-  wrapper: ({ children, ...props }) => {
-    children.map((child) => {
-      console.log(child);
-    });
-    return <>{children}</>;
-  },
 };
 
 const ArticleController: React.FC<{
