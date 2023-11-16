@@ -3,10 +3,10 @@ date: 2023-11-16T15:30:12.766Z
 slug: tessa-the-turkey-peta-kurzfilm
 typeName:
 title: '"Tessa the Turkey"'
-subTitle: PETA Zeichentrickfilm stellt Weihnachts-Traditionen infrage
-seoTitle: PETA Kurzfilm "Tessa the Turkey" hinterfragt Weihnachts-Traditionen
-description: Neben dem Schlachten von Puten, Enten und anderen Vögeln, stellt der PETA Kurzfilm "Tessa the Turkey" noch andere Weihnachtstraditionen infrage. Jetzt hier sehen!
-excerpt: Der PETA Kurzfilm "Tessa the Turkey" ist ab sofort verfügbar. Ihr könnt Ihn Euch jetzt hier direkt anschauen und alles über die Kampagne dahinter erfahren und warum sie, neben dem Schlachten von Puten und anderen Vögeln, noch andere Feiertagstraditionen infrage stellt.
+subTitle: PETA-Zeichentrickfilm stellt Weihnachts-Traditionen infrage
+seoTitle: PETA-Kurzfilm "Tessa the Turkey" hinterfragt Weihnachts-Traditionen
+description: Neben dem Schlachten von Puten, Enten und anderen Vögeln, stellt der PETA-Kurzfilm "Tessa the Turkey" noch andere Weihnachtstraditionen infrage. Jetzt hier sehen!
+excerpt: Der PETA-Kurzfilm "Tessa the Turkey" ist ab sofort verfügbar. Ihr könnt Ihn Euch jetzt hier direkt anschauen und alles über die Kampagne dahinter erfahren und warum sie, neben dem Schlachten von Puten und anderen Vögeln, noch andere Feiertagstraditionen infrage stellt.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-16/tessa-the-turkey-soundsvegan-peta-jpg-imagine-080808_38352e_1024_768/640.webp
 copyright: 'PETA UK'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-16/tessa-the-turkey-soundsvegan-peta-og-jpg-imagine-080808_33342d_1200_628/640.webp
@@ -58,7 +58,7 @@ Das möchte ich an dieser Stelle gerne so stehen lassen und damit einen kleinen 
 
 !["Tessa the Turkey". Bild/Picture: PETA UK](https://storage.googleapis.com/cardamonchai-media/2023-11-16/tessa-the-turkey-soundsvegan-peta-2-jpg-imagine-181818_725d63_1024_768/640.webp '"Tessa the Turkey". Bild/Picture: PETA UK')
 
-Jane Horrocks ist stolz auf ihre Rolle in dem PETA Clip.
+Jane Horrocks ist stolz auf ihre Rolle in dem PETA-Clip.
 
 > "Tessa ist eine neugierige junge Pute, die sich fragt, warum Menschen Jahr für Jahr so viele Vögel töten, obwohl es so viele andere Möglichkeiten gibt.
 >
