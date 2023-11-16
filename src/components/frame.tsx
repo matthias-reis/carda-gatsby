@@ -149,6 +149,8 @@ export const Frame: React.FC<{ skipLogo: boolean }> = ({
 
             .footnotes {
               font-size: ${fontSize[2]};
+              background: none !important;
+              height: auto !important;
             }
             .footnotes ol:before {
               display: block;
