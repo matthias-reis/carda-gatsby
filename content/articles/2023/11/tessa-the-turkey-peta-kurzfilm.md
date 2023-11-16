@@ -6,7 +6,7 @@ title: '"Tessa the Turkey"'
 subTitle: PETA-Zeichentrickfilm stellt Weihnachts-Traditionen infrage
 seoTitle: PETA-Kurzfilm "Tessa the Turkey" hinterfragt Weihnachts-Traditionen
 description: Neben dem Schlachten von Puten, Enten und anderen Vögeln, stellt der PETA-Kurzfilm "Tessa the Turkey" noch andere Weihnachtstraditionen infrage. Jetzt hier sehen!
-excerpt: Der PETA-Kurzfilm "Tessa the Turkey" ist ab sofort verfügbar. Ihr könnt Ihn Euch jetzt hier direkt anschauen und alles über die Kampagne dahinter erfahren und warum sie, neben dem Schlachten von Puten und anderen Vögeln, noch andere Feiertagstraditionen infrage stellt.
+excerpt: Der PETA-Kurzfilm "Tessa the Turkey" ist ab sofort verfügbar. Ihr könnt Ihn Euch jetzt hier direkt anschauen und alles über die Kampagne dahinter und warum sie, neben dem Schlachten von Puten und anderen Vögeln, noch andere Feiertagstraditionen infrage stellt, erfahren.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-16/tessa-the-turkey-soundsvegan-peta-jpg-imagine-080808_38352e_1024_768/640.webp
 copyright: 'PETA UK'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-16/tessa-the-turkey-soundsvegan-peta-og-jpg-imagine-080808_33342d_1200_628/640.webp
