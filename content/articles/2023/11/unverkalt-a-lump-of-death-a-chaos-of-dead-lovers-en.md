@@ -27,7 +27,7 @@ language: en
 languageLink: /2023/11/unverkalt-a-lump-of-death-a-chaos-of-dead-lovers/
 ---
 
-**Three years after the release of their debut album, Unverkalt have now finished their second full-length, "A Lump of Death: A Chaos of Dead Lovers". You remember: The five-piece post-rock project from Athens with beautiful vocals that likes to mix elements of doom, post-metal and avant-garde rock into their songs. "A Lump of Death: A Chaos of Dead Lovers" will be released on 20 November. You can get a taste of it here**.
+**Three years after the release of their debut album, Unverkalt have now finished their second full-length, "A Lump of Death: A Chaos of Dead Lovers". You remember: The five-piece post-rock project from Athens with beautiful vocals that likes to mix elements of doom, post-metal and avant-garde rock into their songs. "A Lump of Death: A Chaos of Dead Lovers" will be released on November 20th. You can get a taste of it here**.
 
 Since the release of "L'origine du Monde" in 2020 and [my interview with the band](/2021/01/unverkalt-interview-en/) two years ago, the Unverkalt members had a lot on their plates, including moving to Berlin with the entire band.
 
@@ -35,7 +35,7 @@ Since the release of "L'origine du Monde" in 2020 and [my interview with the ban
 
 ![Unverkalt – "A Lump of Death: A Chaos of Dead Lovers"](https://storage.googleapis.com/cardamonchai-media/2023-11-17/unverkalt-a-lump-of-death-a-chaos-of-dead-lovers-soundsvega-review-jpg-imagine-281808_684426_425_425/640.webp 'Unverkalt – "A Lump of Death: A Chaos of Dead Lovers"')
 
-One thing they stayed true to is their style and way of making music. They still draw their influences from European cinema, art and personal experiences. These things are the sources of their raw, eclectic style. Their songs from their romance, big feelings and emotions and, just as life goes, these worlds of love and strife, peace and turmoil, light and shadow. Singer Dimitra Kalavrezou made all of this palpable with her magnificent voice—supported by heavy walls of guitars and the band's also quite sophisticated sound and rhythm work. Their new bassist, Spyros, Olivotos, recently joined them—just in time to add the final touch to the album.
+One thing they stayed true to is their style and way of making music. They still draw their influences from European cinema, art and personal experiences. These things are the sources of their raw, eclectic style. Their songs live from their romance, big feelings and emotions and, just as life goes, these worlds of love and strife, peace and turmoil, light and shadow. Singer Dimitra Kalavrezou made all of this palpable with her magnificent voice—supported by heavy walls of guitars and the band's also quite sophisticated sound and rhythm work. Their new bassist, Spyros, Olivotos, recently joined them—just in time to add the final touch to the album.
 
 With "A Lump of Death: A Chaos of Dead Lovers", Unverkalt developed the style we've loved since their debut. They have skilfully and thoughtfully recorded a story that belongs on the big stages. Argonauts Records will release the album. It will be available on all music platforms upon release. The recording sessions took place in their new home base, Berlin.
 
