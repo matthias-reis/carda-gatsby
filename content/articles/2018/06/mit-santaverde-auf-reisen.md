@@ -38,7 +38,6 @@ affiliate: true
 language: de
 errors: {}
 subTitle: Urlaubsbegleiter aus der Beauty-Ecke
-advertisement: true
 ---
 
 **Wir gehen in Kürze wieder auf Reisen. Wir mieten ein Auto und fahren los. Wo genau es hingehen wird, verrate ich Euch später, was ich mitnehme, erfahrt Ihr schon heute.**
