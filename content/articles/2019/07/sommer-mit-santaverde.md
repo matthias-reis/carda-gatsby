@@ -45,7 +45,7 @@ Damit sich die Haut am Abend schön entspannen konnte, hatte ich ein paar Sachen
 
 - [Bodylotion Sensitive](https://tidd.ly/49WOq0W)
 - [Aloe Vera Gel Pur](https://tidd.ly/47kK3e9)
-- [Age Protect Cream(https://tidd.ly/47JFBFA)
+- [Age Protect Cream](https://tidd.ly/47JFBFA)
 - [Age Protect Intensive Treatment Ampullenkur](https://tidd.ly/3G5AzHX)
 
 Alle vier Produkte habe ich in den insgesamt 17 Tagen genauestens unter die Lupe genommen und ausprobiert. Bei im Durchschnitt 35 Grad (an zwei Tagen sogar zwischen 45 und 48 Grad) ein echter Härtetest.
