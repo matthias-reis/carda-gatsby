@@ -24,12 +24,11 @@ labels:
   - veganer Sonnenschutz
 focusKeyword: Santaverde
 status: publish
-isWerbung: false
-isAffiliate: false
+advertisement: true
+affiliate: true
 language: de
 errors: {}
 subTitle: Sehnsucht nach dem Sommer
-advertisement: true
 ---
 
 **Sehnt Ihr Euch auch so nach der Sonne? Dann geht es Euch wie mir. Nach sieben Tagen in der Wohnung scheint die Natur ziemlich weit entfernt zu sein.**
@@ -94,7 +93,7 @@ Die Sun Protect Lotion lässt sich superschnell verteilen. Sie klebt nicht und p
   Natriumlevulinat. ⋆Aus kontrolliert biologischem Anbau
 </small>
 
-Genau wie alle Produkte von Santaverde ist auch die Sonnenschutzlinie NATRUE-zertifiziert, trägt das Tierschutzsiegel gegen Tierversuche Leaping Bunny. Außerdem ist es nach den Richtlinien der Vegan Society zertifziert. Kaufen könnt Ihr die Produkte im  [Santaverde Onlineshop](https://www.santaverde.de/produkte/produktlinien/sun-protect/) oder in verschiedenen Bioläden, Apotheken und Reformhäusern.
+Genau wie alle Produkte von Santaverde ist auch die Sonnenschutzlinie NATRUE-zertifiziert, trägt das Tierschutzsiegel gegen Tierversuche Leaping Bunny. Außerdem ist es nach den Richtlinien der Vegan Society zertifziert. Kaufen könnt Ihr die Produkte im  [Santaverde Onlineshop](https://tidd.ly/46pBspa) oder in verschiedenen Bioläden, Apotheken und Reformhäusern.
 
 Die Pflanzen für die Naturkosmetik von Santaverde wachsen auf der Finca Verde. Wenn Ihr mehr darüber erfahren möchtet, [lest gerne meinen Bericht](/2019/07/santaverde-finca-aloe-vera/), ich habe sie letzten Sommer besucht.
 
