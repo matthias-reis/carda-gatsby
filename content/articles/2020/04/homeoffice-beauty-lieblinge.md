@@ -62,7 +62,7 @@ Das Fluid soll eine wirksame Anti-Ageing Pflege mit leichtem Lichtschutz verbind
 
 Santaverde ist ein kleines, inhabergeführtes Naturkosmetik-Unternehmen. Die für alle Produkte verwendete Aloe Vera wird auf einer Finca in Andalusien angebaut. Ich habe sie schon besucht. [Meinen Bericht könnt Ihr hier im Blog lesen](/2019/07/santaverde-finca-aloe-vera/). Alle Produkte von Santaverde sind zu 100 Prozent vegan, Tierleid-frei, von der Vegan Society und NATRUE zertifiziert. Außerdem tragen sie das Leaping Bunny Label. Dabei handelt es sich um das Tierschutzsiegel gegen Tierversuche.
 
-Vorletztes Jahr habe ich mit Santaverde Make-up Fasten gemacht. [Meinen Erfahrungsbericht findet Ihr hier](/2018/07/make-up-fasten/).
+Vorletztes Jahr habe ich mit Santaverde Make-up-Fasten gemacht. [Meinen Erfahrungsbericht findet Ihr hier](/2018/07/make-up-fasten/).
 
 <Gallery name="ageprotectxingu2" />
 

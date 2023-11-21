@@ -1,14 +1,12 @@
 ---
 ogTitle: Make-up-Fasten - Einfach mal auf Schminke verzichten
-excerpt: Ich liebe Make-up und trage es schon seit meiner frühesten Jugend
-  täglich. Doch ab und zu genieße ich es auch, mal ein paar Tage darauf zu
-  verzichten – vor Kurzem hieß es für mich mal wieder Make-up-Fasten.
+excerpt: Ich liebe Make-up und trage es schon seit meiner frühesten Jugend täglich. Doch ab und zu genieße ich es auch, mal ein paar Tage darauf zu verzichten – vor Kurzem hieß es für mich mal wieder Make-up-Fasten.
 ogImage: null
 isAffiliate: false
 path: /2018/07/make-up-fasten/
 remoteLoadingImage: data:image/jpeg;base64,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
 advertisement: true
-isWerbung: false
+affiliate: true
 fileName: 2018-07---make-up-fasten.md
 slug: make-up-fasten
 errors: {}
@@ -20,9 +18,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07
 title: Make-up-Fasten
 subTitle: Einfach mal auf Schminke verzichten
 seoTitle: Make-up-Fasten - Einfach mal auf Schminke verzichten
-description: Auf die gewohnte Reinigung sollte man während der Zeit des
-  Make-up-Fastens nicht verzichten. Auch die zum Hauttyp passende Pflege sollte
-  nicht zu kurz kommen. Am ersten Tag kann man eine klärende Maske auflegen.
+description: Auf die gewohnte Reinigung sollte man während der Zeit des Make-up-Fastens nicht verzichten. Auch die zum Hauttyp passende Pflege sollte nicht zu kurz kommen. Am ersten Tag kann man eine klärende Maske auflegen.
 labels:
   - Aloe Vera
   - auf Make-up verzichten
@@ -48,6 +44,7 @@ labels:
   - vegan beauty
 language: de
 ---
+
 **Ich liebe Make-up und trage es schon seit meiner frühesten Jugend täglich. Doch ab und zu genieße ich es auch, mal ein paar Tage lang darauf zu verzichten. Inzwischen macht mir das richtig Spaß.**
 
 <RemoteImage
@@ -65,9 +62,9 @@ Verzichtet man eine Zeit lang aufs Schminken, gibt man der Haut eine Chance, auf
 
 ## Gesunde Pflege
 
-Auf die gewohnte Reinigung sollte man jedoch auch während der Zeit des Make-up-Fastens nicht verzichten. Auch die zum Hauttyp passende Pflege sollte nicht zu kurz kommen. Am ersten Tag kann man [eine Feuchtigkeit spendende oder klärende Maske](/2018/05/hej-organic-kosmetik-im-test/) auflegen. Morgens sollte man das Gesicht wie gewohnt mit einem milden, seifenfreien Waschstück oder einer Emulsion reinigen. Mein Favorit ist auf diesem Gebiet im Moment die Aloe Vera Reinigungsemulsion von [Santaverde](/2018/01/santaverde/).
+Auf die gewohnte Reinigung sollte man jedoch auch während der Zeit des Make-up-Fastens nicht verzichten. Auch die zum Hauttyp passende Pflege sollte nicht zu kurz kommen. Am ersten Tag kann man [eine Feuchtigkeit spendende oder klärende Maske](/2018/05/hej-organic-kosmetik-im-test/) auflegen. Morgens sollte man das Gesicht wie gewohnt mit einem milden, seifenfreien Waschstück oder einer Emulsion reinigen. Mein Favorit ist auf diesem Gebiet im Moment die [Aloe Vera Reinigungsemulsion](https://tidd.ly/47nwF9i) von [Santaverde](/2018/01/santaverde/).
 
-Anschließend sprühe ich den Aloe Vera Toner aus der "Pure" Serie auf. Er beugt Hautunreinheiten vor und kühlt schön. Das ist übrigens auch mein absoluter Geheimtipp für zwischendurch. Vielleicht kennt Ihr das ja auch. Gerade wenn es so warm ist, wie im Moment, neigt meine Rosacea-Haut zu Flushs. Gerade um die Mittagszeit. Ich sprühe dann einfach einmal kurz und schon fühlt sich alles wieder viel entspannter an. Das klappt auch nach scharfem Essen gut und funktioniert natürlich auch mit Eurem liebsten milden Toner.
+Anschließend sprühe ich den [Aloe Vera Toner aus der "Pure" Serie](https://tidd.ly/3QNoGv2) auf. Er beugt Hautunreinheiten vor und kühlt schön. Das ist übrigens auch mein absoluter Geheimtipp für zwischendurch. Vielleicht kennt Ihr das ja auch. Gerade wenn es so warm ist, wie im Moment, neigt meine Rosacea-Haut zu Flushs. Gerade um die Mittagszeit. Ich sprühe dann einfach einmal kurz und schon fühlt sich alles wieder viel entspannter an. Das klappt auch nach scharfem Essen gut und funktioniert natürlich auch mit Eurem liebsten milden Toner.
 
 ## Make-up-freie Morgenroutine
 
@@ -80,7 +77,7 @@ Anschließend sprühe ich den Aloe Vera Toner aus der "Pure" Serie auf. Er beugt
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIAwUG/8QALBAAAgEDAwMCBAcAAAAAAAAAAQIDBAURAAYhEhMxB1EUQWGBFSIjJFJz8P/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAIREAAQQBBAMBAAAAAAAAAAAAAQACBBESAyFRsSIxofD/2gAMAwEAAhEDEQA/AElRW7uU8cncCfmLKvScoP49WeB9NUBs7adlod6bgtQt8DYp4alDURrUdOGKMAXyRkkHHjgaUPpnQw1O/bbDcY6aeGaRy6sCULdtjypODjVEUdBSWfcdL+G0MKPUJKjiJQhIChv8NNSH4+ICzYWlnbyb3/d/FxPq/tKKOy0cG37DG80tQzzNQ25C/SqHAPSvGS2efbSAulvltc86VdMYpqc9hknjKPG2M8/Pq59tWlO8clekciSKxHAJwCPsdSDvqoFVui81YmjX97PIMf2MADznwNRovsYlWksxfkD72WT0/ulJbt1Wysr5hHSxSMXZgf01KMMdXJxyPlp8LvWyT11vuNJcKdqejMncw/TkOvTwWx48+Ppo0aDKcaBCYhNFkVz0to27KBty19PUXSjhiipIZVb4lUBYtJlSSeTgKfuPfUsXKeWpqKieSGSNp5TI+WYZBJOjRoui2gl5DySL5K//2Q=="
 />
 
-Doch zurück zur Morgenroutine in der Make-up-Fastenzeit. Im Anschluss an den Toner kommt mein Aloe Vera Serum "pure refining" zum Einsatz. Im Gegensatz zur kalten Jahreszeit benötige ich im Sommer keine reichhaltige Pflege. Das Serum ist schön leicht, beruhigt, spendet Feuchtigkeit und soll Rötungen entgegenwirken.
+Doch zurück zur Morgenroutine in der Make-up-Fastenzeit. Im Anschluss an den Toner kommt mein [Aloe Vera Serum "Pure Refining"](https://tidd.ly/3QRZkw2) zum Einsatz. Im Gegensatz zur kalten Jahreszeit benötige ich im Sommer keine reichhaltige Pflege. Das Serum ist schön leicht, beruhigt, spendet Feuchtigkeit und soll Rötungen entgegenwirken.
 
 Auf eine zusätzliche Creme kann ich im Moment gut verzichten. Außer natürlich, ich habe vor, mich nach draußen zu begeben. Dann trage ich einen leicht texturierten Sonnenschutz mit hohem Lichtschutzfaktor auf. Wenn ich den ganzen Tag zu Hause am Schreibtisch sitze, brauche ich das nicht. Anders ist es im Urlaub, da würde ich auf diesen Schritt natürlich nicht verzichten.
 
@@ -99,11 +96,11 @@ Bei empfindlicher Haut und Rosacea ist guter UV-Schutz unerlässlich, egal bei w
 
 Abends wasche ich mein Gesicht mit lauwarmem Wasser, sprühe erneut den Toner auf und lege mich ins Bett. Das wars auch schon. Mühsames Abschminken fällt natürlich auch aus.
 
-Ich gebe zu, dass es am Anfang Überwindung kostet, auf Make-up zu verzichten, aber es bringt wirklich einige Vorteile. Auch, wenn man zu Beginn ab und zu in den Spiegel blickt und sich denkt "Wer ist diese Frau mit den roten Punkten auf der Stirn?", irgendwann genießt man es nur noch, fühlt sich frei und  stellt nach und nach immer mehr positive Veränderungen fest.
+Ich gebe zu, dass es am Anfang Überwindung kostet, auf Make-up zu verzichten, aber es bringt wirklich einige Vorteile. Auch, wenn man zu Beginn ab und zu in den Spiegel blickt und sich denkt "Wer ist diese Person mit den roten Punkten auf der Stirn?", irgendwann genießt man es nur noch, fühlt sich frei und  stellt nach und nach immer mehr positive Veränderungen fest.
 
-## Frau lernt sich selbst kennen
+## Sich selbst kennenlernen
 
-Ich meine: Es ist doch auch irgendwie klar, dass man sich erst mal selbst kennenlernen muss, wenn man es seit Jahrzehnten gewohnt ist, nur in voller Kriegsbemalung vor die Tür zu gehen? Ladys, lasst Euch eins gesagt sein: Ihr seid auch ohne Mascara, Camouflage und Lippenstift schön! Frau lernt sich selbst kennen so ganz ohne Tusche im Gesicht. Und lieben! Versprochen! Außerdem gibt es noch viele weitere tolle Effekte, die Ihr feststellen werdet:
+Ich meine: Es ist doch auch irgendwie klar, dass man sich erst mal selbst kennenlernen muss, wenn man es seit Jahrzehnten gewohnt ist, nur in voller Kriegsbemalung vor die Tür zu gehen? Ladys, lasst Euch eins gesagt sein: Ihr seid auch ohne Mascara, Camouflage und Lippenstift schön! Man lernst sich selbst kennen, so ganz ohne Tusche im Gesicht. Und lieben! Versprochen! Außerdem gibt es noch viele weitere tolle Effekte, die Ihr feststellen werdet:
 
 <RemoteImage
   alt={`Gewohnte Reinigung`}
