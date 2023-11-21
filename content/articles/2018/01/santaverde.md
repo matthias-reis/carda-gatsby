@@ -48,8 +48,8 @@ labels:
   - vegane Pflege
 focusKeyword: Santaverde
 status: publish
-isWerbung: true
-isAffiliate: true
+advertisement: true
+affiliate: true
 language: de
 errors: {}
 subTitle: Zertifizierte vegane Schönheitspflege auf Aloe Vera Basis
