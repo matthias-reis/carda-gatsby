@@ -33,17 +33,16 @@ labels:
   - vegane Pflege
 focusKeyword: Homeoffice
 status: publish
-isWerbung: false
-isAffiliate: false
+advertisement: true
+affiliate: true
 language: de
 errors: {}
 subTitle: Age Protect Fluid und XINGU Age Perfect
-advertisement: true
 ---
 
 **Wisst Ihr, was ich im Moment sehr genieße? Freiheit für die Haut! Während der Zeit im Homeoffice verzichte ich komplett auf Make-up. Dabei habe ich zwei neue Beauty Lieblinge für mich entdeckt, die ich Euch gerne vorstellen möchte.**
 
-Meine neuen täglichen Begleiter in unseren zwei Zimmern mit Balkon sind die XINGU Age Perfect Creme und das Age Protect Fluid (leicht getönte Tagescreme mit LSF 6) von Santaverde. Ich habe etwas gesucht, das meinen Fältchen entgegenwirkt und meine vom Winter noch recht schroffe Haut aufpeppt.
+Meine neuen täglichen Begleiter in unseren zwei Zimmern mit Balkon sind die [XINGU Age Perfect Creme](https://tidd.ly/3MPJelq) und das Age Protect Fluid (leicht getönte Tagescreme mit LSF 6) von Santaverde. Ich habe etwas gesucht, das meinen Fältchen entgegenwirkt und meine vom Winter noch recht schroffe Haut aufpeppt.
 
 Die XINGU Age Perfect Creme ist erstaunlich leicht und hinterlässt keinen Film auf der Haut. Ich finde, sie erfrischt schön und fühlt sich auf der Haut sehr angenehm an. Sie ist leicht rosafarben und duftet sehr leicht. Meine Haut wirkt nach dem Auftragen direkt strahlender und glatter. Ich nutze die Creme direkt morgens im Anschluss an die Reinigung und das Auftragen meines [Toners](/2018/12/neues-von-santaverde/). Im Homeoffice und ohne viel frische Luft um die Nase ist meine Haut ziemlich gereizt und kann die intensive Pflege gut gebrauchen.
 
