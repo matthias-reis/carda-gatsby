@@ -24,17 +24,16 @@ labels:
   - vegane Naturkosmetik
 focusKeyword: Handcreme von Santaverde
 status: publish
-isWerbung: false
-isAffiliate: false
+advertisement: true
+affiliate: true
 language: de
 errors: {}
 subTitle: Handcreme von Santaverde
-advertisement: true
 ---
 
 **Häufiges Waschen und Desinfizieren der Hände schützt nicht nur vor Corona. Doch leider leidet die Haut schnell unter dieser Praktik. Was hilft, ist eine gute Handcreme. Ich habe jetzt die von Santaverde ausprobiert.**
 
-Die intensive Aufbaupflege kommt mit Aloe Vera Saft und reichhaltigen Ölen daher. Beim ersten Auftragen habe ich gleich festgestellt, wie wunderbar schnell sie einzieht. Es ist also kein Problem im Anschluss an die Handpflege [die Computertastatur wieder anzufassen](/2020/04/homeoffice-beauty-lieblinge/). Außerdem lässt sich die Handcreme von Santaverde sehr gut verteilen. Auch das ist für mich ein großer Pluspunkt.
+Die intensive Aufbaupflege kommt mit Aloe Vera Saft und reichhaltigen Ölen daher. Beim ersten Auftragen habe ich gleich festgestellt, wie wunderbar schnell sie einzieht. Es ist also kein Problem im Anschluss an die Handpflege [die Computertastatur wieder anzufassen](/2020/04/homeoffice-beauty-lieblinge/). Außerdem lässt sich die [Handcreme von Santaverde](https://tidd.ly/47ohcpl) sehr gut verteilen. Auch das ist für mich ein großer Pluspunkt.
 
 <RemoteImage
   alt={`handcreme-von-santaverde`}
@@ -58,7 +57,7 @@ Die Produkte von Santaverde werden nach dem Prinzip "Aloe statt Aqua" hergestell
 
 Alle Produkte sind Vegan Society zertifiziert und mit dem Siegel für strengste internationale Standards für echte Naturkosmetik NATRUE augezeichnet. Außerdem tragen sie das Tierschutzsiegel Leaping Bunny. Dieses schließt Tierversuche an einzelnen Rohstoffen und an Fertigprodukten auch in Nicht-EU-Ländern wirksam aus.
 
-[Mehr über Santaverde erfahrt Ihr hier](/tag/santaverde/). Die Handcreme könnt Ihr, wie alles von Santaverde, direkt [beim Hersteller online](https://www.santaverde.de/?gclid=EAIaIQobChMI8aK3w6n36AIVWeDtCh1LSQZJEAAYASAAEgL_xvD_BwE) oder in ausgesuchten Biosupermärkten, Reformhäusern und Apotheken erwerben.
+[Mehr über Santaverde erfahrt Ihr hier](/tag/santaverde/). Die Handcreme könnt Ihr, wie alles von Santaverde, direkt [im Onlineshop](https://tidd.ly/46pBspa) oder in ausgesuchten Biosupermärkten, Reformhäusern und Apotheken erwerben.
 
 <small></small>
 
