@@ -1,48 +1,45 @@
 ---
 date: 2019-04-05T09:41:40.000+00:00
 slug: santaverde-aloe-vera-reinigungsemulsion
-path: "/2019/04/santaverde-aloe-vera-reinigungsemulsion/"
+path: '/2019/04/santaverde-aloe-vera-reinigungsemulsion/'
 type: Artikel
 typeName: Produkttest
 title: Aloe Vera Reinigungsemulsion von Santaverde
 seoTitle: Aloe Vera Reinigungsemulsion von Santaverde - Beauty-Liebling
 ogTitle: Aloe Vera Reinigungsemulsion von Santaverde - Beauty-Liebling
-description: Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von Santaverde
-  vor - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
-excerpt: Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von Santaverde vor
-  - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
+description: Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von Santaverde vor - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
+excerpt: Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von Santaverde vor - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
 fileName: 2019-04---aloe-vera-reinigungsemulsion-von-santaverde.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQASIQYxQQciYRMUUXGBobHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUCBAb/xAAhEQACAQMDBQAAAAAAAAAAAAABAgADERIEITEFEyJx0f/aAAwDAQACEQMRAD8AUbhJDUZRHLUjYT8KBT/mrt0Nh8fPhOPORIqpTD6mXHFMhaqICk9+BwSP21WEWYKy4UIUQ25RUBSklJP9HU76d5NDPUWVhIebLbzIe9yTVoV2HztX/GhJbLeExJUkTnWds9d5iMNrj7s3c23RBIUUpoVwKA80NRWRkMGI5SGYbjyCpxSiUchexICiSFqoWarv+mnupWkSPUufvlFpO9DyUKRbavYTauQfGqhkZciNj24zUh4Bnem7FEK7gJN121RYnuHePKXS9ZUpLWRPC3Nx99zd1Lm4uUzbEXFyNgS+pLqr2AeTRvgElXOscz1dIhmDIZkLbl19wQ06UlR7c1f4J+QfHbRo0fG7xG+z4xTI9UuZTqpM92K3FLkdCfpIWVV7SRZPmlajspJBbUb8aNGoMoyBm00dd10bIOAZ/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde-4__l.jpg
 labels:
-- Aloe Vera
-- Aloe Vera Reinigungsemulsion
-- Andalusien
-- Cruelty Free
-- Fair Fashion & Beauty
-- Finka Verde
-- Hamburg
-- Leaping Bunny
-- Reinigungsemulsion
-- Santaverde
-- vegan
-- vegan beauty
-- vegana Kosmetik
+  - Aloe Vera
+  - Aloe Vera Reinigungsemulsion
+  - Andalusien
+  - Cruelty Free
+  - Fair Fashion & Beauty
+  - Finka Verde
+  - Hamburg
+  - Leaping Bunny
+  - Reinigungsemulsion
+  - Santaverde
+  - vegan
+  - vegan beauty
+  - vegana Kosmetik
 focusKeyword: Aloe Vera Reinigungsemulsion
 status: publish
-isWerbung: false
-isAffiliate: false
+advertisement: true
+affiliate: true
 language: de
 errors: {}
 subTitle: Beauty-Liebling für frische Gesichtshaut
-advertisement: true
-
 ---
+
 **Meine treuen Leser\*innen wissen, dass ich die Produkte von Santaverde seit langer Zeit nutze und schätze. Heute stelle ich Euch einen meiner absoluten All Time Favourites vor: Die Aloe Vera Reinigungsemulsion hat die Bezeichnung "Beauty-Liebing" definitiv verdient.**
 
-Was ich daran so besonders toll finde? Ich brauche keine zusätzlichen Reinigungsprodukte wie Abschminktücher oder Augen-Make-up-Entferner mehr. Das spart Zeit und Geld und sorgt dafür, dass im Bad weniger Müll anfällt. Ich trage die Emulsion einfach mit den Händen auf das Gesicht auf und nehme sie mit einem Waschlappen und etwas lauwarmem Wasser wieder ab - fertig. Mein Make-up ist danach komplett verschwunden, die Haut fühlt sich frisch an und ist gut auf die anschließende Pflege vorbereitet.
+Was ich daran so besonders toll finde? mit der [Aloe Vera Reinigungsemulsion](https://tidd.ly/49IQCZN) von Santaverde brauche ich keine zusätzlichen Reinigungsprodukte wie Abschminktücher oder Augen-Make-up-Entferner mehr. Das spart Zeit und Geld und sorgt dafür, dass im Bad weniger Müll anfällt. Ich trage die Emulsion einfach mit den Händen auf das Gesicht auf und nehme sie mit einem Waschlappen und etwas lauwarmem Wasser wieder ab - fertig. Mein Make-up ist danach komplett verschwunden, die Haut fühlt sich frisch an und ist gut auf die anschließende Pflege vorbereitet.
 
 ## Make-up einfach abwaschen
 
@@ -93,9 +90,7 @@ Mit ihrer cremigen Textur löst die Aloe Vera Reinigungsemulsion Make-up (inkl. 
   *Aus kontrolliert biologischem Anbau
 </small>
 
-Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen interessant ist. [Ihr findet es hier](http://www.santaverde.de/inhaltsstoffe).
-
-Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren möchte, [findet hier eine Liste der Bezugsquellen](http://www.santaverde.de/bezugsquellen).
+Ihr braucht mehr Infos? Hier gehts zum [Santaverde Onlineshop](https://tidd.ly/46pBspa).
 
 <Gallery
   images={[
