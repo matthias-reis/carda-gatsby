@@ -1,49 +1,46 @@
 ---
 date: 2021-03-02T15:07:37.000+00:00
 slug: hyaluron-ampullen-enzym-peeling-santaverde
-path: "/2021/03/hyaluron-ampullen-enzym-peeling-santaverde/"
+path: '/2021/03/hyaluron-ampullen-enzym-peeling-santaverde/'
 type: Artikel
 typeName: Produkttest
 title: Frühlingserwachen für die Haut
 seoTitle: Hyaluron-Ampullen und Enzym Peeling von Santaverde
 ogTitle: Hyaluron-Ampullen und Enzym Peeling von Santaverde
-description: Hyaluron-Ampullen sorgen für Frische und können den Feuchtigkeitsgehalt
-  der Haut verbessern. Ein leichtes Peeling bereitet die Haut vor.
-excerpt: Hyaluron-Ampullen sorgen für Frische und können den Feuchtigkeitsgehalt der
-  Haut verbessern. Ein leichtes Peeling mit Enzymen ist die perfekte Vorbereitung.
+description: Hyaluron-Ampullen sorgen für Frische und können den Feuchtigkeitsgehalt der Haut verbessern. Ein leichtes Peeling bereitet die Haut vor.
+excerpt: Hyaluron-Ampullen sorgen für Frische und können den Feuchtigkeitsgehalt der Haut verbessern. Ein leichtes Peeling mit Enzymen ist die perfekte Vorbereitung.
 fileName: 2021-03---fruehlingserwachen-fuer-die-haut.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-11__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-11__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQgDBv/EACoQAAICAQMDAgUFAAAAAAAAAAECAwQFABEhBhIxE0EHIlFxgRQjMjNy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIhAxESIjH/2gAMAwEAAhEDEQA/APKYDpjGRVoHsY+Cx2xKZFklkHc2wJIKuNufxq6q9IRSABemKEyluJZcg6/KffsG/j6eeNMbpyBJcRXkigj7/Shm/bqlzyoPtphwO4riULaWLcMGaKOAEH/RGkXIfqIuz0N05CkqvhcfLJId41dG7x9diW5Hv41mvPUI6mVvV6conrQzvHHKOQyhiAd9bIny0Vzq6CpYyFazLAzMw9dJljj7W8hDx9vOoXW8yR4n0o6tSzXlVhNGlcKjRhSSD3kbgge3OuiVaZut+CNxPUl+StDTuZvJfo1URosdlkVF8BeCONWcFqjG3pWNp5B/F5ZQ/cPzvzo0aiyWU46JOJ6iXA5+PJ42rX9REaMxL8gcEEbkjkbbnY/fXPq34kZPJVpEkrVIgUdP72bYMpUkb++x0aNEJyVJhOCds//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_hyaluron-ampullen-fb.png__l.jpg
 labels:
-- Aloe Vera
-- Ampullenkur
-- Enzyme
-- Fair Fashion & Beauty
-- Hyaluron
-- Hyaluron Ampullen
-- Hyaluron vegan
-- Hyaluronsäure
-- Santaverde
-- vegane Ampullenkur
-- vegane Hyaluron Ampullen
-- veganes Hyaluron
+  - Aloe Vera
+  - Ampullenkur
+  - Enzyme
+  - Fair Fashion & Beauty
+  - Hyaluron
+  - Hyaluron Ampullen
+  - Hyaluron vegan
+  - Hyaluronsäure
+  - Santaverde
+  - vegane Ampullenkur
+  - vegane Hyaluron Ampullen
+  - veganes Hyaluron
 focusKeyword: Hyaluron-Ampullen
 status: publish
-isWerbung: false
-isAffiliate: false
+advertisement: true
+affiliate: true
 language: de
 errors: {}
 subTitle: Hyaluron-Ampullen und Enzym Peeling von Santaverde
-advertisement: true
-
 ---
+
 **Hyaluron-Ampullen sorgen für Frische und können den Feuchtigkeitshaushalt der Haut nach einer Durststrecke wieder auf wieder auffüllen. Dafür ist ein leichtes Peeling mit Enzymen eine gute Vorbereitung.**
 
 Könnt Ihr auch schon den Frühling riechen? Die schönste Jahreszeit ist ganz klar auf dem Weg zu uns. Nicht nur die Natur gönnt sich jetzt eine Frischekur – auch die Haut kann eine gebrauchen. Mit den beiden Newcomern von Santaverde klappt das hervorragend.
 
-Als sich Caro von Santaverde mit der Nachricht über neue Produkte bei mir meldete, war ich natürlich gleich neugierig, was mich da erwarten würde. Als sich herausstellte, dass es um ein tolles Fruchtenzym-Peeling und vegane Hyaluron-Ampullen geht, war es um mich geschehen. Natürlich musste ich beides unbedingt ausprobieren!
+Als sich Caro von Santaverde mit der Nachricht über neue Produkte bei mir meldete, war ich natürlich gleich neugierig, was mich da erwarten würde. Als sich herausstellte, dass es um ein tolles [Fruchtenzym-Peeling](https://tidd.ly/47nGIei) und [vegane Hyaluron-Ampullen](https://tidd.ly/47nGtjo) geht, war es um mich geschehen. Natürlich musste ich beides unbedingt ausprobieren!
 
 Das Peeling kommt in einem Tiegel, der zu 100 Prozent kompostierbar ist. Ihr könnt es täglich anwenden, da es sehr mild ist. Dafür gebt Ihr einfach einen halben Teelöffel des Pulvers in die Handfläche und mischt es mit etwas frischem Wasser, Toner oder Aloe Vera Saft. Dabei ergibt sich eine wunderbar samtige Peeling-Creme. Tragt sie in kreisenden Bewegungen auf das Gesicht auf und lasst sie für zwei bis drei Minuten einwirken.
 
@@ -77,6 +74,6 @@ Wenn Ihr die Döschen bei Euch daheim bei Raumtemperatur aufhebt, bleiben sie im
 
 Ich bin mit beiden Produkten rundum zufrieden und werde mir auf jeden Fall Nachschub besorgen. Sie haben meine Winter-blasse Haut wieder schön rosig gemacht und ergänzen meine tägliche [Pflegeroutine](/2019/02/santaverde-pure/) ganz toll. Besonders gut gefällt mir, dass ich verschiedene Möglichkeiten habe, das Peeling anzurühren. So kann ich meiner Haut hin und wieder gleich beim Peelen eine Extraportion Feuchtigkeit mitgeben.
 
-Ab Mitte März findet Ihr beide Produkte im Handel – online auf [santaverde.de](https://www.santaverde.de) und in autorisierten Reformhäusern, Biomärkten sowie ausgewählten Parfümerien und Apotheken.
+Ab Mitte März findet Ihr beide Produkte im Handel – online auf [santaverde.de](https://tidd.ly/46pBspa) und in autorisierten Reformhäusern, Biomärkten sowie ausgewählten Parfümerien und Apotheken.
 
 <Gallery name="hyaluron-ampullen-2" />
