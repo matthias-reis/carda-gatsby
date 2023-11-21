@@ -30,14 +30,13 @@ labels:
   - serie:Spanien 2019
 focusKeyword: Santaverde Finca
 status: publish
-isWerbung: false
-isAffiliate: false
+advertisement: true
+affiliate: true
 language: de
 errors: {}
 subTitle: Aloe Vera Pflanzen im Herzen von Andalusien
 year: '2019'
 month: '07'
-advertisement: true
 ---
 
 **Vor Kurzem haben wir die Aloe Vera Finca von Santaverde im spanischen Estepona besucht. Dabei haben wir einiges über den biologischen Anbau der beliebten Pflanze erfahren.**
@@ -52,7 +51,7 @@ Im Vorfeld unserer Spanienreise im Juni hatte ich bei Santaverde angefragt, ob i
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKhAAAQMDAgUDBQEAAAAAAAAAAQIDEQQFIQASBhMxQVEUI4EVIiRhcTL/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQABv/EACARAAEFAAEFAQAAAAAAAAAAAAEAAgMRIfAxMlFxgaH/2gAMAwEAAhEDEQA/AIrXalJucPVC2qYtbeeun5aUBIVDZTJndAG4HudW7HRpqWLJTsp959tttG4gCXG4UDOB00/WRFqqWVAOJWtLZKuYyAvCVEA4jB7wMxpCoq9j01ieodxdp6Zh18f5hxBIP9ERn+652OVzxvNC3a0i7ulv8TWFqzNvOPUzLbhCuQEJBLknYkGOvc/A0r3Sy2YUexADhp0Nte2iVOr6hMfJz0088S3RjiXi9SGHm2rfaaZbrtQtZCNyZlUwcblCMZ2/vVK18KsfTEv1tOFtuNfjNlZFQygZ3ntvVgnwIHnVAma2VxvBg9Dn4ij6kkWuXWDiyroOVy/vZIKnEhxKioFJ3dT4xjt+9Z9pvRoluIfIVTqb2iTEJyY+ZGjRpjImgkgIGNAH1NtkurdM260v05JcbqXKfmby8Rlpox2BO8gT0AOm93jVs0cXS3VCX2kElTcqUsE/ECc5jofOjRqcRtw+U6KwSv/Z"
 />
 
-Die liebe Caro von Santaverde war sofort begeistert von meinem Vorschlag und knüpfte den Kontakt zu Carmen, die vor Ort für den Verkauf und die Führungen verantwortlich ist. Ich hatte im Vorfeld schon so einiges über die Finca gelesen. Besonders ein Satz von Santaverde Gründerin Sabine machte mich mehr als neugierig:
+Die liebe Caro von [Santaverde](https://tidd.ly/46pBspa) war sofort begeistert von meinem Vorschlag und knüpfte den Kontakt zu Carmen, die vor Ort für den Verkauf und die Führungen verantwortlich ist. Ich hatte im Vorfeld schon so einiges über die Finca gelesen. Besonders ein Satz von Santaverde Gründerin Sabine machte mich mehr als neugierig:
 
 > "Das klare scharfe Licht des Winters und die flirrende Hitze des Sommers auf der Finca verzaubern mich. Von unserer Terrasse aus sehen wir den Felsen von Gibraltar und die Hügel des Atlasgebirges von Marokko."
 

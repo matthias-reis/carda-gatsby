@@ -93,7 +93,7 @@ Das Santaverde-Konzept beinhaltet immer ein Reinigungsprodukt, ein tonisierendes
 
 ## Echte Naturkosmetik
 
-Bei allen Produkten von Santaverde handelt es sich um echte Naturkosmetik. Das bedeutet, dass alle Rezepturen aus reinen Pflanzensäften, -ölen, zarten Hydrolaten sowie gehaltvollen Pflanzenextrakten zusammengesetzt sind. Chemisch-synthetische Duft-, Farb- und Konservierungsstoffe, Mineralöle und Parabene kommen in den Produkten nicht vor. Sie sind mit dem international anerkannten NATRUE-Gütesiegel[^1] für zertifizierte Naturkosmetik ausgezeichnet.
+Bei allen Produkten von [Santaverde](https://tidd.ly/46pBspa) handelt es sich um echte Naturkosmetik. Das bedeutet, dass alle Rezepturen aus reinen Pflanzensäften, -ölen, zarten Hydrolaten sowie gehaltvollen Pflanzenextrakten zusammengesetzt sind. Chemisch-synthetische Duft-, Farb- und Konservierungsstoffe, Mineralöle und Parabene kommen in den Produkten nicht vor. Sie sind mit dem international anerkannten NATRUE-Gütesiegel[^1] für zertifizierte Naturkosmetik ausgezeichnet.
 
 ## Tierleidfrei
 
