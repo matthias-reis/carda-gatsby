@@ -31,7 +31,6 @@ affiliate: true
 language: de
 errors: {}
 subTitle: Sanfte Pflege nach Sonnenbad und Wassersport
-advertisement: true
 ---
 
 **Vor Kurzem ging es für uns in den sonnigen Süden: Strand, Wellen, Sonne und Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht fehlen.**
