@@ -33,17 +33,16 @@ labels:
   - vegane Pflege bei Rosacea
 focusKeyword: Santaverde
 status: publish
-isWerbung: false
-isAffiliate: false
+advertisement: true
+affiliate: true
 language: de
 errors: {}
 subTitle: Pure Naturkosmetik für klare Haut
-advertisement: true
 ---
 
 **Der Frühling ist da. Frische Blüten knospen auf, es duftet, die Sonne scheint und es gibt was Neues von Santaverde!**
 
-Die Pure-Serie hatte ich hier im Blog schon mal kurz vorgestellt. Neben den schon bekannten Produkten (Toner, Fluid und Serum) gibt es jetzt auch ein Anti-Pickel-Gel und ein Reinigungsgel. Beides habe ich selbstverständlich gleich mal getestet.
+Die Pure-Serie hatte ich hier im Blog schon mal kurz vorgestellt. Neben den schon bekannten Produkten (Toner, Fluid und Serum) gibt es jetzt auch ein [Anti-Pickel-Gel](https://tidd.ly/3GagqAw) und ein [Reinigungsgel](https://tidd.ly/3RiKP69). Beides habe ich selbstverständlich gleich mal getestet.
 
 Das Reinigungsgel (auch "Cleanser" genannt) ist ölfrei und soll die Haut besonders sanft pflegen. Es soll Reizen entgegenwirken und porentief reinigen. Ich benutze es abends, um mein Make-up zu entfernen. Dazu trage ich es auf das Gesicht auf und nehme es mit einem Waschlappen und lauwarmem Wasser ab. Das Make-up verschwindet so restlos. Was besonders schön ist: Die Haut trocknet nicht zu stark aus. Eine leichte Pflege, wie zum Beispiel das Serum aus der Pure-Reihe, reicht im Anschluss vollkommen aus. Zumindest ist das bei meiner **Mischhaut** so.
 
