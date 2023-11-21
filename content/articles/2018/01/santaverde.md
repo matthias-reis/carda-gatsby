@@ -48,8 +48,8 @@ labels:
   - vegane Pflege
 focusKeyword: Santaverde
 status: publish
-isWerbung: false
-isAffiliate: false
+isWerbung: true
+isAffiliate: true
 language: de
 errors: {}
 subTitle: Zertifizierte vegane Schönheitspflege auf Aloe Vera Basis
@@ -68,13 +68,13 @@ Klingt plausibel, was mir da vor Kurzem geraten wurde, oder? Stellt sich nur die
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBAEG/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBRIhBhMiMTJBUQcUYSRSgZHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAMEBv/EACARAAICAQQDAQAAAAAAAAAAAAECABEDBAUSIRQxUcH/2gAMAwEAAhEDEQA/ALR051Jp3U1s97ot00tokrQNvhKMHGM8N7cj2pvA7zRdzvyBhIwGAuFwSPLFSv6UJNYXeo2MDlLF3injZ1CgschkAAwpHh49xzXvNNlZrO8cNMplutvDZCZ/aPnNAaxcp1On8fKU+Tdc3kb301gbgS3iIk/aJ2lYvTu4wBlif6NdW1RSrlAnjD8St6s/Hl50nazEXVV5qNv3Jrw2ENrL3DhXVX3KR8Nyc0w1tEuNPiWYSoouIpMDgkowcfxlRQACe4hgBVSVaXKdO1xILAvD40LPvJZiGIJJ/Oc02u+qNZtfqxe6ML+RdNaKKSOGGONNhbg5O0kn3zmiipgSFNTWbhjVsychdg/kx33VetQdR6KfvO5BqE7CaN4k9Pf7KgMBngDOfn8cVWWsnZf1Vw0u0kABdo/2iin4e1szP7kioV4ivc//2Q=="
 />
 
-Ich habe mir ein paar Produkte angesehen und mich schlussendlich dazu entschieden, die Naturkosmetik von Santaverde aus Hamburg mal zu testen. Auf den Prüfstand kamen neben dem Aloe Vera Sensitive Toner, der dafür sorgen soll, dass die Haut die Feuchtigkeit aus der vorangegangenen Pflege zu halten auch noch das Aloe Vera Repair Gel sowie die Aloe Vera Gesichtscreme Medium und die Aloe Vera Reinigungsemulsion.
+Ich habe mir ein paar Produkte angesehen und mich schlussendlich dazu entschieden, die Naturkosmetik von Santaverde aus Hamburg mal zu testen. Auf den Prüfstand kamen neben dem [Aloe Vera Sensitive Toner](https://tidd.ly/3uhsGfF), der dafür sorgen soll, dass die Haut die Feuchtigkeit aus der vorangegangenen Pflege zu halten auch noch das Aloe Vera Repair Gel sowie die Aloe Vera Gesichtscreme Medium und die Aloe Vera Reinigungsemulsion. Das Gel, die Creme und die Emulision seht Ihr in den Bildern als praktisches [Set zum Ausprobieren](https://tidd.ly/3sFDTGB).
 
 ## Trockene Haut durch Kälte und Heizungsluft
 
-Getestet habe ich ausgiebig bei einem Wechsel aus Heizungsluft und starker Kälte. Zum Einsatz kam als erstes die Reinigungsemulsion. Kurz in der Hand mit Wasser vermischt, auf dem geschminkten Gesicht verteilt  und mit einem feuchten Waschlappen abgenommen, reinigt es toll, frischt die Haut auf und macht sie bereit für die anschließende Pflege. Abends habe ich mich hier für das leichte Repair Gel entschieden und anschließend den Toner aufgesprüht.
+Getestet habe ich ausgiebig bei einem Wechsel aus Heizungsluft und starker Kälte. Zum Einsatz kam als erstes die [Reinigungsemulsion](https://tidd.ly/3QRda1S). Kurz in der Hand mit Wasser vermischt, auf dem geschminkten Gesicht verteilt  und mit einem feuchten Waschlappen abgenommen, reinigt es toll, frischt die Haut auf und macht sie bereit für die anschließende Pflege. Abends habe ich mich hier für das leichte [Repair Gel](https://tidd.ly/46jEgo5) entschieden und anschließend den Toner aufgesprüht.
 
-Morgens habe ich auf die Reinigungsemulsion verzichtet und nach dem Waschen mit kühlem, klarem Wasser lediglich die Gesichtscreme und danach den Toner benutzt, etwas gewartet und mein Make-up wie gewohnt aufgetragen, was gut funktionierte: Die Creme zieht gut ein und hinterlässt keinen Fettfilm.
+Morgens habe ich auf die Reinigungsemulsion verzichtet und nach dem Waschen mit kühlem, klarem Wasser lediglich die [Gesichtscreme](https://tidd.ly/49WFAjM) und danach den Toner benutzt, etwas gewartet und mein Make-up wie gewohnt aufgetragen, was gut funktionierte: Die Creme zieht gut ein und hinterlässt keinen Fettfilm.
 
 ## Santaverde auf dem Prüfstand
 
