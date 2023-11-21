@@ -152,8 +152,6 @@ Aloe Vera wird seit Jahrhunderten für ihre regenerierenden, Feuchtigkeit spende
 
 Tests haben ergeben, dass die in Andalusien angebauten Aloe Vera Pflanzen einen besonders hohen Aloverose-Anteil haben. Durch die speziellen Temperaturunterschiede zwischen den Jahreszeiten sind sie wenigen Reizen ausgesetzt und können sich besser entwickeln, als das beispielsweise in tropischen Anbaugebieten der Fall ist.
 
-Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen interessant ist. [Ihr findet es hier](http://www.santaverde.de/inhaltsstoffe).
-
 <RemoteImage
   alt={`Santaverde`}
   size="full"
@@ -161,8 +159,6 @@ Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches Inhaltss
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-13__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKBAAAQMDAwQCAgMAAAAAAAAAAQIDBAAFEQYhMRITQYEiURUjMmHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAEQMEEyESIjFRYf/aAAwDAQACEQMRAD8A3mRfHFwy6W1pIH8c7n7pcg3db/cUlfSe4firnxXKu4Q1xXEtz0uqYf8A2KaJWlGCer5AY2pVi362/mhARMLcySpTjQdaKDhQ+Oc7Dq5AOM0RYE1Ktl6PaY36s1JJs+mZc1l4IfbKO2sjOCVAcezTRpfULlytUGU+32XX2kuKb+if8PPukm6xUXCKzGkoadT3ErWgkKBKdxkAnz4NX1rjyFqSVD3xSDyYZZdoLXN3fz1ILroKJb7dd1QpjzTUwOOBvGzRVurpwRsT4/ulGDomDfLtNukt13JUwgI5KUpSVYCuR4Hqiij6AHErTU5ThZi3ImmQLSw0gdsJSFb4SgCryFBaRg80UUszp//Z"
 />
-
-Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren möchte, [findet hier eine Liste der Bezugsquellen](http://www.santaverde.de/bezugsquellen).
 
 [^1]: [Infos über NATRUE-Gütesiegel](http://www.natrue.org)
 [^2]: [Alles über das Leaping Bunny Siegel](http://www.leapingbunny.org)
