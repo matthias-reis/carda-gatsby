@@ -23,27 +23,26 @@ labels:
   - Wellness
 focusKeyword: Santaverde
 status: publish
-isWerbung: false
-isAffiliate: false
+advertisement: true
+affiliate: true
 language: de
 errors: {}
 subTitle: Vegane Geschenkidee
-advertisement: true
 ---
 
 **Weihnachten steht vor der Tür. So langsam wird es Zeit, sich Gedanken über die passenden Geschenke zu machen. Das Santaverde Pflegeset zum Kennenlernen ist eine schöne Idee für alle Vegan Beauties.**
 
-Oder vielleicht habt Ihr ja auch Lust, jemand ganz besonderes von toller veganer Naturkosmetik zu überzeugen? Auch dann bietet sich das Kennenlern-Set an.
+Oder vielleicht habt Ihr ja auch Lust, jemand ganz besonderes von toller veganer Naturkosmetik zu überzeugen? Auch dann bietet sich das [Set zum Kennenlernen](https://tidd.ly/3GtzOst) an.
 
-Im dekorativen Kartönchen stecken Produkte für ein frisches und gepflegtes Hautbild. Vielleicht hat Euer bester Freund, Eure Mutter, Freundin oder Tante bereits die nächste Reise geplant? Super. Die kleinen Tuben passen perfekt ins Gepäck.
+Im dekorativen Karton stecken Produkte für ein frisches und gepflegtes Hautbild. Vielleicht hat Euer bester Freund, Eure Mutter, Freundin oder Tante bereits die nächste Reise geplant? Super. Die kleinen Tuben passen perfekt ins Gepäck.
 
 ## Das Santaverde Kennenlernen-Set
 
 Im Set enthalten sind
 
-- Cleansing emulsion (15 ml)
-- Cream Medium (15 ml)
-- Hydro Repair Gel (15 ml)
+- [Cleansing emulsion](https://tidd.ly/3G7AdQY) (15 ml)
+- [Cream Medium](https://tidd.ly/47kdWeE) (15 ml)
+- [Hydro Repair Gel](https://tidd.ly/3GbDcYw) (15 ml)
 
 ## Ein frisches Hautgefühl
 
@@ -77,4 +76,4 @@ Neben feuchtigkeitsspendendem Aloe Vera Saft und Hyaluron stecken im Hydro Repai
 
 <Gallery name="weihnachtensantaverde" />
 
-Wer jetzt neugierig geworden ist: Alles über Santaverde könnt Ihr [hier im Blog erfahren](/tag/santaverde/). Die Santaverde Produkte findet Ihr in autorisierten Reformhäusern, Biomärkten sowie verschiedenen Apotheken, Parfümerien und direkt auf [santaverde.de](https://www.santaverde.de/).
+Wer jetzt neugierig geworden ist: Alles über Santaverde könnt Ihr [hier im Blog erfahren](/tag/santaverde/). Die Santaverde Produkte findet Ihr in autorisierten Reformhäusern, Biomärkten sowie verschiedenen Apotheken, Parfümerien und direkt auf [santaverde.de](https://tidd.ly/46pBspa).
