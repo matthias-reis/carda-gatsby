@@ -49,7 +49,7 @@ Treibt man die Berechnung noch weiter und geht davon aus, dass wir komplett auf 
 
 Eine Kohlenstoffsenke von der Größe Indiens würde sich allein schon durch eine 30-prozentige Einsparung tierischer Lebensmittel ergeben. Die Flächen, die für den Anbau des Tierfutters sowie die Haltung der "Nutztiere" gebraucht wird, könnten schrittweise an die Natur zurückgehen. Dort könnten wir die Artenvielfalt fördern und etwa [Moore](/2019/01/koenigsmoor-moorfutures/) und Urwälder renaturieren.
 
-Rund 1,4 Kilo Fleisch nimmt ein*e Europäer*in in Durchschnitt pro Woche zu sich – rund 80 Prozent mehr als der weltweite Durchschnitt. Würde man 30 Prozent davon durch pflanzliches Protein, zum Beispiel aus Bohnen, Linsen oder Soja ersetzen, könnten wir 18,9 Kubikkilometer Wasser pro Jahr sparen. Das wären die eingangs beschriebenen 7,5 Millionen olympischen Schwimmbecken.
+Rund 1,4 Kilo Fleisch nimmt ein\*e Europäer\*in in Durchschnitt pro Woche zu sich – rund 80 Prozent mehr als der weltweite Durchschnitt. Würde man 30 Prozent davon durch pflanzliches Protein, zum Beispiel aus Bohnen, Linsen oder Soja ersetzen, könnten wir 18,9 Kubikkilometer Wasser pro Jahr sparen. Das wären die eingangs beschriebenen 7,5 Millionen olympischen Schwimmbecken.
 
 Madre Brava konzentrierte sich bei der Studie vor allem auf die erheblichen Umweltauswirkungen, die unsere derzeitigen Ernährungsgewohnheiten nach sich ziehen. Der kleine Schritt, auf Fleisch zu verzichten und damit Tieren unendliches Leid zu ersparen und etwas für die persönliche Gesundheit zu tun, könnte gleichzeitig das Klima retten und etwas gegen die Wasserknappheit tun.
 
