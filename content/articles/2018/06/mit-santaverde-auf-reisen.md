@@ -105,5 +105,3 @@ Was ich an Santaverde besonders schätze, ist die Transparenz. Das konntet Ihr a
 Alle Produkt sind vegan und werden in Deutschland hergestellt. Sie tragen das Siegel der Vegan Society, das Leaping Bunny Siegel sowie das NATRUE Siegel für geprüfte zertifizierte [Naturkosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/).
 
 Die beiden Tübchen wandern jetzt in mein Reisegepäck. Ihr habt hiermit meine Empfehlung, sie auch auf Eure nächste Reise mitzunehmen. Vor der Urlaubspause wird es hier im Blog noch ein zwei weitere spannende Artikel für Euch geben. Und im Anschluss hoffentlich wieder eine bildreiche [Reisereportage](/tag/irland2017/). Bleibt also dran! Es bleibt spannend!
-
-Wer gerne auch mal im Santaverde Shop stöbern möchte, [kann das hier tun](https://santaverde.shop/).
