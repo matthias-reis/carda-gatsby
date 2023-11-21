@@ -53,7 +53,6 @@ affiliate: true
 language: de
 errors: {}
 subTitle: Zertifizierte vegane Schönheitspflege auf Aloe Vera Basis
-advertisement: true
 ---
 
 **"Deine Haut braucht Feuchtigkeit! Versuch doch mal, was zu finden, mit dem sie die nach dem Eincremen auch hält! Dann strahlt sie bestimmt bald wieder!"**
