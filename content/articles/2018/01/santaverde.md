@@ -121,7 +121,7 @@ Die Anwendung der Santaverde Produkte erfolgt je nach Hautbild. Die von mir gew�
 
 ## Wertvoller Aloe Vera Saft
 
-Die Basis aller Pflegeprodukte ist der enthaltene naturreine Aloe Vera Saft. Die Pflanzen werden auf der Santa Verde Farm "Finca Verde" in Andalusien angebaut. Das Produktionslabor befindet sich inmitten der Aloe Vera Felder. Die Pflanzen können somit an Ort und Stelle untersucht werden.
+Die Basis aller Pflegeprodukte ist der enthaltene naturreine Aloe Vera Saft. Die Pflanzen werden auf der Santaverde Farm "Finca Verde" in Andalusien angebaut. Das Produktionslabor befindet sich inmitten der Aloe Vera Felder. Die Pflanzen können somit an Ort und Stelle untersucht werden.
 
 <RemoteImage
   alt={`Santaverde`}

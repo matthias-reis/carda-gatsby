@@ -20,7 +20,7 @@ labels:
   - Fair Fashion & Beauty
   - Fernweh
   - Finca
-  - Finca Santa Verde
+  - Finca Santaverde
   - Naturkosmetik
   - Santaverde
   - Santaverde Finca
