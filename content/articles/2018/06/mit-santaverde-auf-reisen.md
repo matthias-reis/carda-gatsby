@@ -33,8 +33,8 @@ labels:
   - vegane Naturkosmetik
 focusKeyword: Santaverde
 status: publish
-isWerbung: false
-isAffiliate: false
+advertisement: true
+affiliate: true
 language: de
 errors: {}
 subTitle: Urlaubsbegleiter aus der Beauty-Ecke
@@ -59,7 +59,7 @@ Die Produkte von Santaverde habe ich hier im Blog [bereits gezeigt](/2018/01/san
 
 Besonders wenn man im Urlaub jeden Tag an der frischen Luft ist und viel Sonne abbekommt, ist gute Hautpflege essentiell. Für mich ist in diesen Phasen neben einem tollen [Toner](/2018/01/santaverde/), den ich morgens und Abends als Vorbereitung auf die weitere Pflege verwende, auch ein gutes Repair-Produkt wichtig.
 
-Das Aloe Vera Hydro Repair Gel von Santaverde kommt mir da sehr gelegen. Nach meinem Test im Januar habe ich es immer wieder wieder verwendet, wenn meine Haut mal wieder "ihre fünf Minuten hatte". Sprich: Jedes Mal, wenn ich gemerkt habe, es geht wieder los, die Rötungen breiten sich langsam über meine Nase und meine Wangen aus, habe ich es ausgepackt und nach ein zwei Tagen wurde es besser.
+Das Aloe Vera [Hydro Repair Gel](https://tidd.ly/3SON8Pe) von Santaverde kommt mir da sehr gelegen. Nach meinem Test im Januar habe ich es immer wieder wieder verwendet, wenn meine Haut mal wieder "ihre fünf Minuten hatte". Sprich: Jedes Mal, wenn ich gemerkt habe, es geht wieder los, die Rötungen breiten sich langsam über meine Nase und meine Wangen aus, habe ich es ausgepackt und nach ein zwei Tagen wurde es besser.
 
 Das vom Hautarzt verschriebene Produkt liegt seither in der Schublade. Darüber bin ich sehr froh, denn es sorgte zwar dafür, dass mein Rötungen nachließen, dafür fettete es jedoch stark, was zu Pickelchen und Schwitzen führte. Auch nicht schön.
 
@@ -75,7 +75,7 @@ Das vom Hautarzt verschriebene Produkt liegt seither in der Schublade. Darüber 
 
 Bei den rein natürlichen Produkten von Santaverde passiert mir so etwas nicht. Sie kommen ohne beschwerende Inhaltsstoffe aus und die schützende Aloe Vera scheint für mich genau das Richtige zu sein.
 
-Im Onlineshop von Santaverde gibt es im Moment tolle Vorteils-Kombipacks. Das bedeut, dass ich zu meiner 30 ml Tube Hydro Repair Gel auch noch eine 15 ml Tube Pure Mattifying Fluid dazu bekommen habe. Als Alternative gibt es auch die Aloe Vera Creme in Kombination mit einem Pure Refining Serum. Hört sich gut an, oder?
+Im Onlineshop von Santaverde gibt es im Moment tolle Vorteils-Kombipacks. Das bedeut, dass ich zu meiner 30 ml Tube Hydro Repair Gel auch noch eine 15 ml Tube [Pure Mattifying Fluid](https://tidd.ly/47yGEZ4) dazu bekommen habe. Als Alternative gibt es auch die Aloe Vera Creme in Kombination mit einem Pure Refining Serum. Hört sich gut an, oder?
 
 Das Pure Mattifying Fluid kommt genau wie das Aloe Vera Hydro Repair Gel ohne Duftstoffe aus. Es soll Unreinheiten entgegenwirken und ihrer Neuentstehung vorbeugen. Enthalten sind reiner Aloe Vera Saft sowie pflanzliches Hyaluron.
 
