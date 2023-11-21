@@ -28,13 +28,13 @@ labels:
   - vegane Pflege
 focusKeyword: Santaverde
 advertisement: true
-affiliate: false
+affiliate: true
 language: de
 ---
 
 **Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich habe die Collagen Drops, die Probiotic Drops und das Allround Balm getestet und einiges über die veganen Beauty-Produkte in Erfahrung gebracht.**
 
-Den Allround Balm habe ich zuerst ausprobiert. Er kam mir aufgrund meiner trockenen Lippen und Ellenbogen sehr gelegen. Ich war schon länger auf der Suche nach einer Art "Erste-Hilfe-Produkt" für solche Fälle. Und genau als das wird er von Santaverde auch angepriesen: ein SOS-Balsam mit hochwertiger Pflanzenbutter und Ölen. Für mich klingt das ziemlich gut. Und ich muss sagen: Es klappt auch. Mit dem sanft nach Vanille duftenden Balsam fühlen sich meine Lippen gleich viel zarter an und auch die Ellenbogen spannen nach zwei Anwendungen schon viel weniger.
+Den [Allround Balm](https://tidd.ly/3G67uvY) habe ich zuerst ausprobiert. Er kam mir aufgrund meiner trockenen Lippen und Ellenbogen sehr gelegen. Ich war schon länger auf der Suche nach einer Art "Erste-Hilfe-Produkt" für solche Fälle. Und genau als das wird er von Santaverde auch angepriesen: ein SOS-Balsam mit hochwertiger Pflanzenbutter und Ölen. Für mich klingt das ziemlich gut. Und ich muss sagen: Es klappt auch. Mit dem sanft nach Vanille duftenden Balsam fühlen sich meine Lippen gleich viel zarter an und auch die Ellenbogen spannen nach zwei Anwendungen schon viel weniger.
 
 ## Reparierender und schützender Allround Balm
 
@@ -46,7 +46,7 @@ Was mir besonders gut gefällt, ist hier der zu 100 Prozent kompostierbare Tiege
 
 ## Collagen Drops für ein glattes Hautbild
 
-Produkte mit pflanzlichem Kollagen habe ich bisher noch nicht getestet und so war ich besonders gespannt auf die Collagen Drops. Das Kollagen soll den Feuchtigkeitsverlust der Haut vermindern und die Hautdichte verbessern. Der enthaltene Spirulinaextrakt soll die Kollagensynthese fördern und die Spannkraft der Haut erhalten. Aloe Vera Saft und Hyaluron sollen nachhaltig Feuchtigkeit spenden.
+Produkte mit pflanzlichem Kollagen habe ich bisher noch nicht getestet und so war ich besonders gespannt auf die [Collagen Drops](https://tidd.ly/3QRoLhv). Das Kollagen soll den Feuchtigkeitsverlust der Haut vermindern und die Hautdichte verbessern. Der enthaltene Spirulinaextrakt soll die Kollagensynthese fördern und die Spannkraft der Haut erhalten. Aloe Vera Saft und Hyaluron sollen nachhaltig Feuchtigkeit spenden.
 
 Ich habe den Tipp bekommen, täglich ein bis zwei Drops mit meiner Augencreme zu mischen. Das mache ich, seitdem ich sie habe und ich muss sagen, dass sie mir ein schön erfrischtes Gefühl geben. Ich trage sie außerdem direkt auf die kleinen Fältchen auf meiner Stirn und an den Schläfen auf.
 
@@ -60,7 +60,7 @@ Mit pflanzlichem Kollagen könnt Ihr also etwas den Feuchtigkeitsverlust Eurer H
 
 ## Probiotic Drops
 
-Genau wie die Collagen Drops kommen auch die Probiotic Drops ohne Duftstoffe aus und sind gut für sensible Haut geeignet. Sie enthalten natürliche Probiotika und sollen das Mikrobiom der Haut stärken. Dadurch soll die Haut nach und nach ausgeglichener wirken. Aloe Vera Saft und Lindenblütenhydrolat helfen gegen Rötungen und Entzündungen. Pflanzliches Hyaluron soll die Feuchtigkeit in der Haut binden und ihre natürliche Barrierefunktion stabilisieren.
+Genau wie die Collagen Drops kommen auch die [Probiotic Drops](https://tidd.ly/3R6EmLm) ohne Duftstoffe aus und sind gut für sensible Haut geeignet. Sie enthalten natürliche Probiotika und sollen das Mikrobiom der Haut stärken. Dadurch soll die Haut nach und nach ausgeglichener wirken. Aloe Vera Saft und Lindenblütenhydrolat helfen gegen Rötungen und Entzündungen. Pflanzliches Hyaluron soll die Feuchtigkeit in der Haut binden und ihre natürliche Barrierefunktion stabilisieren.
 
 Kennt Ihr schon den Begriff "Maskne"? Er beschreibt, die sich durch langes Maskentragen unter der Nase und entlang der Maskenkante bildenden Pickelchen. Durch die Stärkung der natürlichen Hautbarriere mit den Probiotic Drops könnt Ihr laut Santaverde etwas dagegen tun.
 
