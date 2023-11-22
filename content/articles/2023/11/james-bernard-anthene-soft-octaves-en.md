@@ -43,7 +43,7 @@ The harmony we all long for in these times (according to James, the main inspira
 
 The composer has been making music for almost 30 years and has worked with various genres and projects, engineering, patch-building and mastering for a wide range of bands and labels. His sound art has become an integral part of his life, and his experience with a wide range of instruments, from the six-string electric bass to the cello and various synths, is constantly growing. You can hear this in his latest work, which he created with anthéne. The six-string, in particular, provides impressive drone sounds and effects. With the help of his volume pedal, he rounded off the corners and gave the whole thing a harmonious glamour. The occasional cello and woodwind elements provide further relaxed highlights.
 
-What is particularly interesting here is that James and Brad recorded each of the pieces in just one take each. Nevertheless, everything has found its perfect place—nothing seems overproduced, and the tempo is intuitive and natural.
+What is particularly interesting here is that James and Brad recorded each of the pieces in just one take. Nevertheless, everything has found its perfect place—nothing seems overproduced, and the tempo is intuitive and natural.
 
 And Brad's role in "Soft Octaves" is also essential. His lyrical slow-motion melodies and pedal steel guitar add an otherworldly, orchestral sound to the tracks, making the record unique. The head of Polar Seas Recordings likes to enrich his music, which he prefers to create based on field recordings in northern latitudes with analogue synths. You can also experience them in all nine songs on this LP.
 
