@@ -5,10 +5,10 @@ typeName: Review
 title: 'Unverkalt – "A Lump of Death: A Chaos of Dead Lovers"'
 subTitle: Das zweite Unverkalt Album ist da!
 seoTitle: Unverkalt – "A Lump of Death" – Post-Metal Review
-description: '"A Lump of Death: A Chaos of Dead Lovers" von Unverkalt ist ein düsteres Post-Metal Album. Hört jetzt rein und erfahrt alles über die Platte!"'
+description: '"A Lump of Death: A Chaos of Dead Lovers" von Unverkalt ist ein düsteres Post-Metal Album. Hört jetzt rein und erfahrt alles über die Platte!'
 excerpt: Unverkalt haben drei Jahre nach ihrem Debüt-Album ihre zweite LP fertig. "A Lump of Death" ist düster bis dystopisch und inspiriert von einigen finsteren Momenten der 1970er-Jahre. Erfahrt jetzt alles über die Platte und hört schon mal rein!
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-17/unverkalt-a-lump-of-death-a-chaos-of-dead-lovers-soundsvega-review-1-jpg-imagine-180808_5f1111_1024_768/640.webp
-copyright: 'Your Best Imaginary Friend'
+copyright: 'Unverkalt'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-17/unverkalt-a-lump-of-death-a-chaos-of-dead-lovers-soundsvega-review-og-jpg-imagine-a81818_6e1814_1200_628/640.webp
 labels:
   - Band
