@@ -55,7 +55,7 @@ Anyone wondering who the voice in the fourth song, "Trembling House", comes from
 
 Even if the record and its creation are closely linked to a snapshot in time, the pieces on it still seem timeless and create a framework for new ideas and experiences. The notes always resonate with hope for peace, light, and better times.
 
-"Soft Octaves" is a multi-layered, open-minded and artistic work of art that reflects the diversity of the world and its contrasts—in a meditative and subliminal way. If you want to get involved in the sound experience, you can pre-order the album now on all music platforms and listen to it below.
+"Soft Octaves" is a multi-layered, open-minded and artsy piece that reflects the diversity of the world and its contrasts—in a meditative and subliminal way. If you want to get involved in the sound experience, you can pre-order the album now on all music platforms and listen to it below.
 
 ## James Bernard & anthéne feat. marine eyes – "Trembling House"
 
