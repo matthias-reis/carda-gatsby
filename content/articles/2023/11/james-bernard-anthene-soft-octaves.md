@@ -23,6 +23,7 @@ labels:
   - marine eyes
   - anthéne
   - Brad Deschamps
+  - Polar Seas Recordings
 focusKeyword: Soft Octaves
 advertisement: false
 affiliate: false
@@ -46,7 +47,7 @@ Besonders interessant ist hier, dass James und Brad alle Stücke in nur jeweils 
 
 Und auch Brads Rolle in "Soft Octaves" ist eine Tragende. Seine lyrischen Slow-Motion-Melodien und seine Pedal-Steel-Gitarre fügen den Stücken einen überirdischen, orchestralen Sound hinzu, der die Platte einzigartig macht.
 
-Der Kopf von Polar Seas Recording reichert seine Musik, die er am liebsten auf der Basis von Feldaufnahmen in nördlichen Breitengraden kreiert, gerne mit analogen Synthesizern an. Auch diese kann man auf der LP in allen neun Songs erleben.
+Der Kopf von Polar Seas Recordings reichert seine Musik, die er am liebsten auf der Basis von Feldaufnahmen in nördlichen Breitengraden kreiert, gerne mit analogen Synthesizern an. Auch diese kann man auf der LP in allen neun Songs erleben.
 
 Im titelgebenden sechsten Stück auf der Platte enthüllen die beiden Klangtalente laut eigener Aussage einen Vorhang, der langsam und stetig ein von Tageslicht überflutetes Panorama freigibt. Dieses haben sie mit organischem Rauschen, dem Nachhall von Gitarrenwänden sowie subtiler digitaler Körnung dargestellt. Wie herausragend es ihnen an dieser Stelle gelingt, ohne die Hilfe von Worten ein Bild plakativ sichtbar zu machen, ist beeindruckend.
 
