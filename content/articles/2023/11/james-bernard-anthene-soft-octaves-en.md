@@ -49,7 +49,7 @@ And Brad's role in "Soft Octaves" is also essential. His lyrical slow-motion mel
 
 In the eponymous sixth track, the two sound talents unveil a curtain that slowly and steadily reveals a panorama flooded with daylight. They have depicted this with organic noise, the reverberation of guitar walls and subtle digital grain. It is impressive how outstandingly they succeed in visualising an image without the help of words.
 
-## Opposites and the dream of harmony
+## Contrasts and the dream of harmony
 
 Anyone wondering who the voice in the fourth song, "Trembling House", comes from: It's no other than Cynthia Bernard, aka marine eyes, who I mentioned earlier. With her words, she moulds the thoughts that arise when listening to the track—to let the sound carry them away gently.
 
