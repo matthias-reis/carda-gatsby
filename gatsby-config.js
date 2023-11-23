@@ -2,6 +2,9 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 require('dotenv').config();
 exports.default = {
+    flags: {
+        DEV_SSR: true,
+    },
     siteMetadata: {
         title: 'Sounds Vegan',
         description: '',
@@ -92,7 +95,7 @@ ${((_j = edge.node.frontmatter) === null || _j === void 0 ? void 0 : _j.language
   }
 }`,
                         output: '/rss.xml',
-                        title: "soundsvegan.com",
+                        title: 'soundsvegan.com',
                     },
                 ],
             },

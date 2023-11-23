@@ -1,6 +1,9 @@
 require('dotenv').config();
 
 export default {
+  flags: {
+    DEV_SSR: true,
+  },
   siteMetadata: {
     title: 'Sounds Vegan',
     description: '',
@@ -100,7 +103,7 @@ ${
   }
 }`,
             output: '/rss.xml',
-            title: "soundsvegan.com",
+            title: 'soundsvegan.com',
           },
         ],
       },

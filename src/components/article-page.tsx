@@ -258,7 +258,28 @@ const AdAndAffiliateDisclaimer = styled.p`
   color: ${color.text30};
 `;
 const Content = styled.div`
-  & .footnotes {
+  & div:last-child {
     background: transparent !important;
+    aspect-ratio: auto !important;
+    font-size: ${fontSize[2]};
+  }
+  & div:last-child ol:before {
+    display: block;
+    content: 'Fußnoten:';
+    font-size: ${fontSize[3]};
+  }
+  & div:last-child ol a:last-child {
+    text-decoration: none;
+    display: inline-block;
+    color: ${color.green10};
+    font-size: ${fontSize[1]};
+    margin-left: ${space[2]};
+    &:before {
+      content: 'zurück';
+      margin-right: ${space[0]};
+    }
+    &:hover {
+      color: ${color.green30};
+    }
   }
 `;
