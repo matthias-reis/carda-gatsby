@@ -53,7 +53,7 @@ Im titelgebenden sechsten Stück auf der Platte lüften die beiden Klangtalente 
 
 ## Der Gegensätze und der Traum von Harmonie
 
-Wer sich fragt, von wem die Stimme im vierten Song "Trembling House" stammt: Das ist die oben bereits erwähnte Cynthia Bernard aka marine eyes. Sie formt mit ihren Worten die Gedanken, die beim Hören des Stücks aufkommen – der Sound trägt sich anschließend sanft davon.
+Wer sich fragt, von wem die Stimme im vierten Song "Trembling House" stammt: Das ist die oben bereits erwähnte Cynthia Bernard aka marine eyes. Sie formt mit ihren Worten die Gedanken, die beim Hören des Stücks aufkommen – der Sound trägt sich anschließend sanft davon. Übrigens: Von Cynthia stammt auch das Artwork der Platte!
 
 Auch wenn die Platte sowie ihre Entstehung eng mit einer Momentaufnahme verknüpft sind, wirken die Stücke darauf dennoch zeitlos und schaffen einen Rahmen für neue Ideen und Erlebnisse. In den Noten schwingt immer die Hoffnung mit nach Frieden, Licht und besseren Zeiten.
 

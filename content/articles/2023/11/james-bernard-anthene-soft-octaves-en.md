@@ -51,7 +51,7 @@ In the eponymous sixth track, the two sound talents unveil a curtain that slowly
 
 ## Contrasts and the dream of harmony
 
-Anyone wondering who the voice in the fourth song, "Trembling House", comes from: It's no other than Cynthia Bernard, aka marine eyes, who I mentioned earlier. With her words, she moulds the thoughts that arise when listening to the track—to let the sound carry them away gently.
+Anyone wondering who the voice in the fourth song, "Trembling House", comes from: It's no other than Cynthia Bernard, aka marine eyes, who I mentioned earlier. With her words, she moulds the thoughts that arise when listening to the track—to let the sound carry them away gently. Btw: She also did the artwork!
 
 Even if the record and its creation are closely linked to a snapshot in time, the pieces on it still seem timeless and create a framework for new ideas and experiences. The notes always resonate with hope for peace, light, and better times.
 
