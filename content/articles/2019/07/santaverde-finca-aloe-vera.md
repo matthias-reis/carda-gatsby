@@ -114,7 +114,3 @@ Bei allen Produkten von Santaverde handelt es sich um reine Naturkosmetik. Sie s
 [Wenn Ihr gerne mehr über die Unterschiede zwischen veganer Kosmetik, Biokosmetik und Naturkosmetik erfahren wollt, habe ich hier einen Beitrag für Euch](/2018/03/vegane-kosmetik-und-naturkosmetik/).
 
 <Gallery name="santaverdefincaanne2019" />
-
-Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen interessant ist. [Ihr findet es hier](http://www.santaverde.de/inhaltsstoffe).
-
-Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren möchte, [findet hier eine Liste der Bezugsquellen](http://www.santaverde.de/bezugsquellen).

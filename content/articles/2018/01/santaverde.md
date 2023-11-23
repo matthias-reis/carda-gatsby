@@ -162,4 +162,4 @@ Tests haben ergeben, dass die in Andalusien angebauten Aloe Vera Pflanzen einen 
 [^1]: [Infos über NATRUE-Gütesiegel](http://www.natrue.org)
 [^2]: [Alles über das Leaping Bunny Siegel](http://www.leapingbunny.org)
 [^3]: [Infos über das Label der Vegan Society](http://www.vegansociety.com)
-[^4]: [Homepage Santaverde](http://www.santaverde.de)
+[^4]: [Homepage Santaverde](https://tidd.ly/3QQ1axx)
