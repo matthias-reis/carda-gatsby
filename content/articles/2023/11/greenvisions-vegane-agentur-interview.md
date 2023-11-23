@@ -4,7 +4,7 @@ slug: greenvisions-vegane-agentur-interview
 typeName:
 title: '"Eine vegane Agentur ist eine kleine Revolution"'
 subTitle: Im Gespräch mit GreenVisions Gründerin Soraya
-seoTitle: Interview – Gründerin der veganen Agentur GreenVisions
+seoTitle: Vegane Agentur GreenVisions – Interview mit Gründerin Soraya Garcia
 description: Eine vegane Agentur – was klingt, wie eine Zukunftsvision, ist längst Realität. Erfahrt jetzt von GreenVisions Gründerin Soraya alles über ihr Start-up!
 excerpt: Eine vegane Agentur für vegane Marken. Klingt das für Euch revolutionär? Das ist es auch! Ich habe mich mit Soraya Garcia, der Gründerin von GreenVisions, über ihre Arbeit und ihre Pläne für das nächste Jahr unterhalten. Und Sie hat mir einiges über ihr Musikprojekt erzählt!
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-23/soraya-garcia-greenvisions-jpg-imagine-080808_424242_1024_768/640.webp
