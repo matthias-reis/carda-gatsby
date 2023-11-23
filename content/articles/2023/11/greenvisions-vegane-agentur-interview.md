@@ -84,9 +84,9 @@ Als Texterin komme ich immer wieder mit Leuten in Berührung, die nicht "vegan" 
 
 **Soraya:** Ich habe leider selbst bei einer tollen Bäckerei-Kette hier in Hannover festgestellt, dass das Wort "vegan" viele Kund\*innen der – nennen wir es mal "alten Schule" provozieren kann. Das geht dann so weit, dass sich beschwert wird, und die herkömmliche Variante des Produkts zurückgefordert wird.
 
-Bedauerlicherweise ist der Begriff vegan für diese Gruppe von Kund\*innen scheinbar mit negativen Klischees verbunden und kann Trotzreaktionen hervorrufen – ähnlich, wie der Begriff Klimaschutz Menschen dieser Art zu provozieren scheint.
+Bedauerlicherweise ist der Begriff "vegan" für diese Gruppe von Kund\*innen scheinbar mit negativen Klischees verbunden und kann Trotzreaktionen hervorrufen – ähnlich, wie der Begriff Klimaschutz Menschen dieser Art zu provozieren scheint.
 
-Im Rahmen der New Food Conference fiel in diesem Zusammenhang auch der Begriff "Newphobia": Menschen, die am Alten hängen, und, wie der Name schon sagt, Angst vor Neuem haben. Finde ich persönlich sehr schade, aber ist ein tiefgehendes Problem, das sich aktuell auch politisch zeigt.
+Im Rahmen der New Food Conference fiel in diesem Zusammenhang auch der Begriff "Newphobia": Menschen, die am Alten hängen, und, wie der Name schon sagt, Angst vor Neuem haben. Ich persönlich finde das sehr schade, aber ist ein tiefgehendes Problem, das sich aktuell auch politisch zeigt.
 
 Um Deine Frage noch etwas präziser zu beantworten: Ich denke, viele Hersteller*innen verzichten auf die Kennzeichnung, um genau diese Zielgruppen nicht zu vergraulen. Der Hinweis "rein pflanzlich" würde uns Veganer*innen aber definitiv weiterhelfen, findest Du nicht auch?
 
