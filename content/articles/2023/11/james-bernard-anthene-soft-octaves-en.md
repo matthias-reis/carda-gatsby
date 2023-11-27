@@ -5,8 +5,8 @@ typeName: Review
 title: '"Soft Octaves" by James Bernard and anthéne'
 subTitle: A Sonorous and Hopeful Musical Image of Our Time
 seoTitle: Ambient Review – James Bernard & anthéne – "Soft Octaves"
-description: 'James Bernard and anthéne are about to release an album together that you can look forward to: Nine wonderfully dreamy tracks to make you think and simultaneously ease your tension await you. The total of 40 minutes brings a nice break from the turbulences of our everyday life—six-string bass included.'
-excerpt: 'James Bernard and anthénet just finished their album, "Soft Octaves". The record is one you should definitely listen to. Find out why!'
+description: 'James Bernard and anthénet just finished their album, "Soft Octaves". The record is one you should definitely listen to. Find out why!'
+excerpt: 'James Bernard and anthéne are about to release an album together that you can look forward to: Nine wonderfully dreamy tracks to make you think and simultaneously ease your tension await you. The total of 40 minutes brings a nice break from the turbulences of our everyday life—six-string bass included.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-22/james-bernard-anthene-jpg-imagine-e8c8c8_c3b9bd_1024_768/640.webp
 copyright: 'James Bernard & anthéne'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-22/james-bernard-anthene-og-jpg-imagine-e8c8c8_cfc0c1_1200_628/640.webp
