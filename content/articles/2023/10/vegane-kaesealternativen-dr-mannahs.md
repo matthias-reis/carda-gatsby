@@ -8,7 +8,7 @@ seoTitle: Vegane Käsealternativen, die Käsefans wirklich überzeugen
 description: Vegane Käsealternativen gibt es immer mehr. Erfahrt jetzt, welche davon echte Käsefans wirklich überzeugen, warum das so ist und wie sie schmecken!
 excerpt: Vegane Käsealternativen gibt es inzwischen sehr viele. Diese hier überzeugen eingefleischte Käsefans wirklich und sind damit die perfekte Basis für Euren Vegan-Einstieg. Sie sind zu 100 Prozent pflanzlich und frei von Tierleid und schmecken einfach himmlisch.
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-27/vegane-kaesealternativen-dr-mannahs-14-jpg-imagine-d8d8d8_a68a75_1024_768/640.webp
-copyright: Sponchia, pixabay
+copyright:
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-27/vegane-kaesealternativen-og-jpeg-imagine-987858_897c71_1200_630/640.webp
 labels:
   - Ernährung & Gesundheit
