@@ -90,7 +90,7 @@ Hier kommt das oben bereits kurz erwähnte GOT BAG Clean-up-Programm zum Einsatz
 
 ## Vegan und nachhaltig
 
-Weil das hier ein veganer Blog ist, achte ich natürlich auch auf dieses Detail immer sehr genau. Bei GOT BAG sind alle Produkte Peta approved vegan. Ihr könnt Euch also darauf verlassen, dass keine tierischen Stoffe, Kleber oder Ähnliches verwendet werden.
+Weil das hier ein veganer Blog ist, achte ich natürlich auch auf dieses Detail immer sehr genau. Bei GOT BAG sind alle Produkte PETA approved vegan. Ihr könnt Euch also darauf verlassen, dass keine tierischen Stoffe, Kleber oder Ähnliches verwendet werden.
 
 Wollt Ihr wissen, mit welchem Produkt von GOT BAG ich als Nächstes liebäugle? Mit [dem coolen Moonbag](https://tidd.ly/49RmsUb) zum Umhängen! Ich meine, wie schick und absolut alltagstauglich ist der bitte? Doch mehr dazu gibt es dann beim nächsten Mal.
 
