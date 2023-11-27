@@ -43,7 +43,7 @@ When a few people from the electronic and metal world met one fateful day, this 
 
 The mystery surrounding the identities of the Belgians is fascinating. Anyone who sets out to investigate will quickly lose their way and get lost in the intricate network of the post-music scene.
 
-Strings break through the walls of guitars heralding the abyss while glockenspiel joins in like a hopeful glimmer on the horizon. Will they solve the mystery? Short and subtle moments of relaxation only make the disaster seem more frightening.
+Strings break through the walls of guitars, heralding the abyss while glockenspiel joins in like a hopeful glimmer on the horizon. Will they solve the mystery? Short and subtle moments of relaxation only make the disaster seem more frightening.
 
 ## Briqueville – "IIII"
 
