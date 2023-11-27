@@ -1,5 +1,5 @@
 ---
-date: 2023-11-27T11:20:04.014Z
+date: 2023-11-27T14:10:04.014Z
 slug: got-bag
 typeName: Produkttest
 title: GOT BAG stellt sich vor
