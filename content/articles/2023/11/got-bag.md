@@ -96,7 +96,7 @@ Wollt Ihr wissen, mit welchem Produkt von GOT BAG ich als Nächstes liebäugle? 
 
 Wenn Ihr jetzt neugierig geworden seid und stöbern wollt oder gerade auf der Suche nach passenden Geschenken für Eure Lieben seid, habe ich hier noch eine Überraschung für Euch:
 
-\*Mit dem Gutscheincode SOUNDSVEGAN-10 erhaltet Ihr 10 Prozent auf Eure Bestellung bei GOT BAG! Happy Shopping!
+\*Mit dem GOT BAG Rabattcode **SOUNDSVEGAN-10** erhaltet Ihr 10 Prozent auf Eure Bestellung bei GOT BAG! Happy Shopping!
 
 <Gallery name="got-bag-2" />
 
