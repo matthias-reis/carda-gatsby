@@ -43,7 +43,7 @@ Als ein paar Menschen aus der Elektro- und Metal-Welt an einem schicksalshaften 
 
 Das Rätsel um die Identitäten der Belgier\*innen ist faszinierend und wer sich auf die Suche begibt, wird schnell vom Weg abkommen und sich im verzweigten Netzwerk der Post-Music-Szene verlaufen.
 
-Streichinstrumente durchdringen die Gitarrenwände und künden vom Abgrund während sich Glockenspiel wie ein hoffnungsvoller Schimmer am Horizont einmischt. Werden sie das Rätsel lüften? Kurze und subtile Momente der Entspannung lassen das Unheil nur noch furchterregender erscheinen.
+Streichinstrumente dringen durch Gitarrenwände und künden vom Abgrund während sich Glockenspiel wie ein hoffnungsvoller Schimmer am Horizont einmischt. Werden sie das Rätsel lüften? Kurze und subtile Momente der Entspannung lassen das Unheil nur noch furchterregender erscheinen.
 
 ## Briqueville – "IIII"
 
