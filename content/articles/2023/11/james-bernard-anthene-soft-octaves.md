@@ -1,5 +1,5 @@
 ---
-date: 2023-11-27T10:38:00.766Z
+date: 2023-11-22T12:38:00.766Z
 slug: james-bernard-anthene-soft-octaves
 typeName: Review
 title: '"Soft Octaves" von James Bernard und anthéne'
