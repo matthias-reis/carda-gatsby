@@ -6,7 +6,7 @@ title: 'Briqueville – "IIII"'
 subTitle: Dark Doom Sounds from the Underworld
 seoTitle: Post-Metal Review – Briqueville – "IIII"
 description: 'The new Briqueville album, "IIII", is out! Check it out here, and take advantage of their mystery and gloom!'
-excerpt: 'With their new album, "IIII", Briqueville delivered nothing less than the soundtrack of the year. The five pieces are of heavy darkness and beauty. Listen right here now and maybe find out some of the band‘s secrets.'
+excerpt: 'With their new album, "IIII", Briqueville delivered nothing less than the soundtrack of the year. The five pieces are of heavy darkness and bittersweet beauty. Listen right here now and maybe find out some of the band‘s secrets.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-27/briqueville-iiii-png-imagine-181818_494949_1024_768/640.webp
 copyright: 'Briqueville'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-27/briqueville-iiii-og-png-imagine-181818_383839_1200_628/640.webp

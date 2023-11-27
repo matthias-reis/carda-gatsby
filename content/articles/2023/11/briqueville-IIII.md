@@ -6,7 +6,7 @@ title: 'Briqueville – "IIII"'
 subTitle: Düstere Doom-Sounds aus der Unterwelt
 seoTitle: Briqueville – "IIII" – Post-Metal-Review
 description: 'Briqueville haben ihr neues Album "IIII". Hört Euch jetzt den Soundtrack des Jahres an!'
-excerpt: Briqueville haben mit ihrem neuen Album "IIII" nicht weniger als den Soundtrack des Jahres geliefert. Die fünf Stücke sind von schwerer Düsternis und Schönheit. Hört jetzt hier direkt rein und erfahrt möglicherweise das Geheimnis hinter der Band.
+excerpt: Briqueville haben mit ihrem neuen Album "IIII" nicht weniger als den Soundtrack des Jahres geliefert. Die fünf Stücke sind von schwerer Düsternis und bittersüßer Schönheit. Hört jetzt hier direkt rein und erfahrt möglicherweise das Geheimnis hinter der Band.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-27/briqueville-iiii-png-imagine-181818_494949_1024_768/640.webp
 copyright: 'Briqueville'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-27/briqueville-iiii-og-png-imagine-181818_383839_1200_628/640.webp
