@@ -31,7 +31,7 @@ language: de
 
 Das klingt nach einem bahnbrechenden Filmprojekt, oder? Co-Regisseur Cameron Waters verspricht in seinem Kickstarter-Video zur Doku, dass der Film unser Verhältnis Tieren grundlegend verändern wird. Er rät allen Interessierten, den Film im Auge zu behalten und das Projekt weiter zu unterstützen.
 
-In der neuen Dokumentation mit dem Titel "Christspiracy" geht es um Themen, mit dem sich die "[Seaspiracy](/2021/02/seaspiracy/)" und "[Cowspiracy](/2020/04/cowspiracy-vegane-doku/)" Crew in ihren Filmen bislang noch nicht eingehend beschäftigt hat: Wie die Religion unseren Umgang mit Tieren bis heute prägt.
+In der neuen Dokumentation mit dem Titel "Christspiracy" geht es um Themen, mit dem sich die "[Seaspiracy](/2021/02/seaspiracy/)" und "[Cowspiracy](/2020/04/cowspiracy-vegane-doku/)" Crew in ihren Filmen bislang noch nicht eingehend beschäftigt hat: Wie die Religion unseren Umgang mit Tieren bis heute prägt und ob es eine friedliche Art gibt, Tiere zu töten zum Beispiel.
 
 ## "Wir können Milliarden von Menschen erreichen"
 
@@ -54,6 +54,10 @@ Mit dem ersten Zwischenziel finanzierte die Gruppe die Grundproduktion ihres Fil
 schreibt Cameron Waters. Das neue Ziel, dass sich die Crew nun gesteckt hat, liegt bei 500.000 US-Dollar. Mit einer Summe in dieser Höhe könnten die Filmer\*innen die Kinostarts auf satte 100 erhöhen und das Marketing für ihre neue Doku auf ein neues Level heben – Milliarden Menschen könnten so auf das Projekt aufmerksam werden. Zudem könnten sie den Film in bis zu fünf Sprachen synchronisieren.
 
 Falls Ihr das Projekt jetzt noch unterstützen wollt, findet Ihr den Link zum Kickstarter-Profil[^1] in den Fußnoten.
+
+## "Christspiracy" Trailer
+
+<YouTube id="yOzQs4JZTGc" />
 
 ## "Christspiracy" Kickstarter-Video
 
