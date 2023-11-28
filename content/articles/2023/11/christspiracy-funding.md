@@ -9,7 +9,7 @@ description: 'Es ist offiziell – die "Seaspiracy” & “Cowspiracy" Crew wird
 excerpt: 'Die "Seaspiracy" und "Cowspiracy" Crew hat einen neuen Film in der Mache. Jetzt haben die Filmer*innen das Fundingziel erreicht und starten voll durch. Hier erfahrt Ihr alles darüber, wie Ihr das Projekt noch unterstützen könnt und worum es in "Christspiracy" geht.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-28/christspiracy-neue-seaspiracy-doku-soundsvegan-2-jpg-imagine-d8d8d8_73726f_1024_768/640.webp
 copyright: 'Christspiracy'
-ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-28/christspiracy-neue-seaspiracy-doku-soundsvegan-og-jpg-imagine-283838_605957_1200_628/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-28/christspiracy-neue-seaspiracy-doku-soundsvegan-og-png-imagine-283838_5f5857_1200_628/640.webp
 labels:
   - Vegan Celebrities
   - Vegan News
