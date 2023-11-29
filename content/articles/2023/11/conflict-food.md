@@ -32,7 +32,7 @@ Die beiden Schwestern Keo und Malika setzen sich dort mit ihrer regenerativen La
 
 ## Roter Kampot Pfeffer
 
-Neben vielen anderen Pflanzenarten gedeiht hier auch [Kampot Pfeffer](https://t.adcell.com/p/click?promoId=344158&slotId=80259&param0=https%3A%2F%2Fconflictfood.com%2Fpfeffer%2F). Das ist eine der besten Pfeffersorten überhaupt. Nachdem er gepflückt wurde, wird er fein säuberlich sortiert und besonders schonend weiterverarbeitet. Dadurch unterscheidet er sich deutlich von anderen Pfeffersorten.
+Neben vielen anderen Pflanzenarten gedeiht in ihrem Garten auch [Kampot Pfeffer](https://t.adcell.com/p/click?promoId=344158&slotId=80259&param0=https%3A%2F%2Fconflictfood.com%2Fpfeffer%2F). Das ist eine der besten Pfeffersorten überhaupt. Nachdem er gepflückt wurde, wird er fein säuberlich sortiert und besonders schonend weiterverarbeitet. Dadurch unterscheidet er sich deutlich von anderen Pfeffersorten.
 
 Die fruchtigen Noten und ätherischen Öle bleiben bei diesem Verfahren erhalten. Das kann man riechen und vor allem schmecken. Als das Paket von Conflict Food bei mir zu Hause eintraf, kam ich aus dem Schnuppern gar nicht mehr raus und musste natürlich sofort probieren – pur auf die Hand. Was bei anderen Pfefferarten undenkbar klingt, war mit dem Kampot Pfeffer ein tolles Geschmackserlebnis. Er schmeckt aromatisch und richtig schön fruchtig – die Schärfe entfaltet sich erst ganz zum Schluss.
 
