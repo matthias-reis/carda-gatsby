@@ -24,7 +24,7 @@ affiliate: true
 language: de
 ---
 
-**Mit Lebensmitteln etwas für den Frieden in von Krisen gebeutelten Gebieten tun – das hat sich Conflict Food vorgenommen. Ich stelle Euch die Fair-Trade-Marke heute vor und zeige Euch zwei ganz besondere Produkte, die ich ausprobiert habe – Freekeh und Kampot Pfeffer.**
+**Mit fair und direkt gehandelten Lebensmitteln etwas für den Frieden in von Krisen gebeutelten Gebieten tun – das hat sich Conflict Food vorgenommen. Ich stelle Euch die Fair-Trade-Marke heute vor und zeige Euch zwei ganz besondere Produkte, die ich ausprobiert habe – Freekeh und Kampot Pfeffer.**
 
 Kampot Pfeffer ist eine kulinarische Spezialität aus Kambodscha. Dort hat der Raubbau an der Natur allein innerhalb der letzten vier Jahre um 85 Prozent des Regenwaldes zerstört. Die Konzerne, die dafür verantwortlich sind, machen den Wald dem Erdboden gleich und hinterlassen nichts als Wüste.
 
