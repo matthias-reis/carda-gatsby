@@ -76,7 +76,7 @@ Insgesamt arbeiten inzwischen fünf Personen im Conflict Food Büro in Berlin. N
 
 Indem Salem, Gernot und ihr Team handeln, wo es keine Selbstverständlichkeit ist, können sie Waren direkt von den Erzeuger\*innen beziehen und dabei persönlich an mehr Selbstbestimmung und Gerechtigkeit mitarbeiten.
 
-Auf einer gemeinsamen Reise nach Afghanistan lernten die beiden Gründer in Herat ein unabhängiges Frauenkollektiv kennen. Die Frau ernteten feinen Safran und hatten sich selbstbestimmt aus mafiösen Strukturen befreit – zuvor wurden sie im Opiumanbau ausgenutzt. Diese Inspiration war für Salem und Gernot der Start ihres Projekts, das bis heute läuft und immer weitere Gebiete und Delikatessen mit aufnimmt.
+Auf einer gemeinsamen Reise nach Afghanistan lernten die beiden Gründer in Herat ein unabhängiges Frauenkollektiv kennen. Die Frauen ernteten feinen Safran und hatten sich selbstbestimmt aus mafiösen Strukturen befreit – zuvor wurden sie im Opiumanbau ausgenutzt. Diese Inspiration war für Salem und Gernot der Start ihres Projekts, das bis heute läuft und immer weitere Gebiete und Delikatessen mit aufnimmt.
 
 Neben mehr Wertschätzung und Fairness schafft Conflict Food dabei vorwiegend eins: Verständnis für Kulturen, Länder und Menschen – über ihr Krisenimage hinweg. Durch die partnerschaftliche Zusammenarbeit mit den erzeugenden Betrieben gelingt die soziale Wertschöpfungskette vorbildlich und als Kund\*innen können wir die leckeren Produkte, auf ihrem Weg vom Anbau bis zum fertigen Produkt nachvollziehen.
 
