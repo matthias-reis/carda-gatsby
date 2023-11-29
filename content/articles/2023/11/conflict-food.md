@@ -5,8 +5,8 @@ typeName: Produkttest
 title: Conflict Food stellt sich vor
 subTitle: Pfeffer und Freekeh für den Frieden
 seoTitle: Conflict Food liefert Pfeffer und Freekeh für den Frieden
-description: Conflict Food Feekeh - kennt Ihr das Superfood schon? Erfahrt hier, wie es schmeckt und wie es mit dem fairen Handel aussieht.
-excerpt: Das Berliner Start-up Conflict Food möchte mit fair gehandelten Lebensmitteln aus Krisenregionen etwas für den Frieden tun. Ich habe das Trend-Food Feekeh sowie roten Pfeffer aus Kambodscha probiert und erzähle Euch hier alles darüber.
+description: Conflict Food Freekeh - kennt Ihr das Superfood schon? Erfahrt hier, wie es schmeckt und wie es mit dem fairen Handel aussieht.
+excerpt: Das Berliner Start-up Conflict Food möchte mit fair gehandelten Lebensmitteln aus Krisenregionen etwas für den Frieden tun. Ich habe das Trend-Food Freekeh sowie roten Pfeffer aus Kambodscha probiert und erzähle Euch hier alles darüber.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-29/conflict-food-jpg-imagine-f8e8c8_a58d6f_1024_768/640.webp
 copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-29/conflict-food-og-jpg-imagine-e8d8c8_a28b6d_1200_628/640.webp
@@ -18,7 +18,7 @@ labels:
   - Start-up
   - Ernährung & Gesundheit
   - vegane Rezepte
-focusKeyword: Conflict Food Feekeh
+focusKeyword: Conflict Food Freekeh
 advertisement: true
 affiliate: true
 language: de
@@ -32,7 +32,7 @@ Die beiden Schwestern Keo und Malika setzen sich dort mit ihrer regenerativen La
 
 ## Roter Kampot Pfeffer
 
-Neben vielen anderen Pflanzenarten gedeiht hier auch [Kampot Pfeffer](https://t.adcell.com/p/click?promoId=344158&slotId=80259&param0=https%3A%2F%2Fconflictfood.com%2Fpfeffer%2F). Das ist eine der besten Pfeffersorten überhaupt. Nachdem er gepflückt wurde, wird er feinsäuberlich sortiert und besonders schonend weiterverarbeitet. Dadurch unterscheidet er sich deutlich von anderen Pfeffersorten.
+Neben vielen anderen Pflanzenarten gedeiht hier auch [Kampot Pfeffer](https://t.adcell.com/p/click?promoId=344158&slotId=80259&param0=https%3A%2F%2Fconflictfood.com%2Fpfeffer%2F). Das ist eine der besten Pfeffersorten überhaupt. Nachdem er gepflückt wurde, wird er fein säuberlich sortiert und besonders schonend weiterverarbeitet. Dadurch unterscheidet er sich deutlich von anderen Pfeffersorten.
 
 Die fruchtigen Noten und ätherischen Öle bleiben bei diesem Verfahren erhalten. Das kann man riechen und vor allem schmecken. Als das Paket von Conflict Food bei mir zu Hause eintraf, kam ich aus dem Schnuppern gar nicht mehr raus und musste natürlich sofort probieren – pur auf die Hand. Was bei anderen Pfefferarten undenkbar klingt, war mit dem Kampot Pfeffer ein tolles Geschmackserlebnis. Er schmeckt aromatisch und richtig schön fruchtig – die Schärfe entfaltet sich erst ganz zum Schluss.
 
@@ -48,9 +48,9 @@ Aus Region Palästina, dazu zählen Teile der Gebiete der heutigen Staaten Israe
 
 Und das nicht ohne Grund: Die schmackhaften Körner enthalten doppelt so viel Eiweiß wie Quinoa und viermal so viele Ballaststoffe wie brauner Reis. Ihr rauchiges Aroma macht sie zu einer echten Delikatesse.
 
-Genau wie auch der Pfeffer, ist auch das Freekeh fair und direkt gehandelt und stammt aus kontrolliert biologischem Anbau. Ihr könnt es als Beilage zu Euren Hauptgerichten oder als Basis für Bowls und Salate verwenden. Besonders gut schmeckt mir Freekeh Salat mit einem leichten Dressing, ein paar Minzblättern, Rosinen, Mandeln und Tomaten.
+Genau wie der Pfeffer ist auch das Freekeh fair und direkt gehandelt und stammt aus kontrolliert biologischem Anbau. Ihr könnt es als Beilage zu Euren Hauptgerichten oder als Basis für Bowls und Salate verwenden. Besonders gut schmeckt mir Freekeh Salat mit einem leichten Dressing, ein paar Minzblättern, Rosinen, Mandeln und Tomaten.
 
-Ihr könnt natürlich auch viele weitere Varianten ausprobieren und das Getreide direkt nach dem Kochen warm oder abgekühlt verzehren. Feekeh ist nicht nur lecker, sondern auch äußerst gesund: Neben Protein und Ballaststoffen stecken darin wertvolle Mineralstoffe und Spurenelemente wie Kalzium, Zink und Eisen.
+Ihr könnt natürlich auch viele weitere Varianten ausprobieren und das Getreide direkt nach dem Kochen warm oder abgekühlt verzehren. Freekeh ist nicht nur lecker, sondern auch äußerst gesund: Neben Protein und Ballaststoffen stecken darin wertvolle Mineralstoffe und Spurenelemente wie Kalzium, Zink und Eisen.
 
 ## Freekeh – ein sagenumwobenes Getreide
 
