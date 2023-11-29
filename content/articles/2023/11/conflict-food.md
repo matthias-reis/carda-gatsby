@@ -82,7 +82,7 @@ Neben mehr Wertschätzung und Fairness schafft Conflict Food dabei vorwiegend ei
 
 ## Und wie sieht es mit Nachhaltigkeit aus?
 
-Weil Conflict Food kein klassisches, einseitiges Hilfsangebot ist und der Handel direkt erfolgt, können Salem und Gernot auch Aspekte wie die Nachhaltigkeit direkt beeinflussen. Im Nachhaltigkeitsbericht[^1] des Start-ups aus Berlin steht genau, welche Faktoren, neben den offensichtlichen, wie der Verpackung hier noch mit reinspielen.
+Weil Conflict Food kein klassisches, einseitiges Hilfsangebot ist und der Handel direkt erfolgt, können Salem und Gernot auch Aspekte wie die Nachhaltigkeit direkt beeinflussen. Im Nachhaltigkeitsbericht[^1] des Start-ups aus Berlin steht genau, welche Faktoren, neben den offensichtlichen, wie der Verpackung, hier noch eine Rolle spielen.
 
 Wenn Ihr jetzt neugierig geworden seid und den Kampot Pfeffer und das Freekeh auch mal testen wollt, schaut Euch am besten direkt mal auf der [Conflict Food Webseite](https://t.adcell.com/p/click?promoId=344158&slotId=80259&param0=https%3A%2F%2Fconflictfood.com%2F) um.
 
