@@ -62,7 +62,7 @@ Genau das möchte Conflict Food tun, indem Landwirt\*innen die Möglichkeit erha
 
 ## Wer ist eigentlich Conflict Food?
 
-Conflict Food gibt es seit 2016. Das Ziel war von Anfang an, Menschen in Konfliktregionen eine Perspektive, langfristige Partnerschaften aufzubauen und die Geschichten der Menschen in den Ländern, deren Namen wir täglich in den Nachrichten hören, zu erzählen. Geschäftsführer und Mitbegründer Salem El-Mogaddedi beschreibt das sehr treffend mit den Worten:
+Conflict Food gibt es seit 2016. Das Ziel war von Anfang an, Menschen in Konfliktregionen eine Perspektive zu bieten, langfristige Partnerschaften aufzubauen und die Geschichten der Menschen in den Ländern, deren Namen wir täglich in den Nachrichten hören, zu erzählen. Geschäftsführer und Mitbegründer Salem El-Mogaddedi beschreibt das sehr treffend mit den Worten:
 
 > "Ich wünsche mir eine Welt frei von Geiz und Gier."
 
