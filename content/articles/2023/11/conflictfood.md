@@ -1,6 +1,6 @@
 ---
 date: 2023-11-29T15:15:12.766Z
-slug: conflict-food
+slug: conflictfood
 typeName: Produkttest
 title: Conflictfood stellt sich vor
 subTitle: Pfeffer und Freekeh für den Frieden
