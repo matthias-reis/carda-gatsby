@@ -33,7 +33,7 @@ languageLink: /2023/11/carlos-ferreira-isolationism/
 
 We stayed in contact after [my interview with Carlos](/2020/10/carlos-ferreira-interview-en/) in 2020. I was thrilled to hear the news about his next step in his musical career a few weeks ago. He wrote:
 
-> "Isolationism is a transitional album, the start of a new phase of what interests me. It uses space in a new way, not only as a ground for all of the development and decay of the resonances to be heard but also as its own expressive arrangement."
+> "Isolationism[^1] is a transitional album, the start of a new phase of what interests me. It uses space in a new way, not only as a ground for all of the development and decay of the resonances to be heard but also as its own expressive arrangement."
 
 The album lives from its textures, the gentle transitions between the eight tracks and the clearly recognizable common thread. The themes range from relaxed moments to claustrophobic images, which Carlos skilfully incorporates here and there.
 
@@ -54,3 +54,5 @@ Carlos Ferreira is an experimental guitarist and composer. He says he uses his w
 ## Carlos Ferreira feat. Lucas Protti – "Living A Metaphor"
 
 <YouTube id="sIYBhCm6Ul8" />
+
+[^1]: [Isolationism on Bandcamp](https://carlosferreira.bandcamp.com/album/isolationism)
