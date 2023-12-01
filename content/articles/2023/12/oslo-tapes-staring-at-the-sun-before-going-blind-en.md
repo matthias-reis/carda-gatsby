@@ -28,7 +28,7 @@ language: en
 languageLink: /2023/12/oslo-tapes-staring-at-the-sun-before-goin-blind/
 ---
 
-**Oslo Tapes aka Marco Campitelli releases his new, now fourth album, "Staring At The Sun Before Goin‘ Blind," today. It is an exceptional work that comes just in time for the end of this year. They made it with Echodelick, Sound Effect, and Grazil Records. Besides the digital version, you can get your copy as an LP or CD.**‘
+**Oslo Tapes aka Marco Campitelli releases his new, now fourth album, "Staring At The Sun Before Goin‘ Blind," today. It is an exceptional work that comes just in time for the end of this year. They made it with Echodelick, Sound Effect, and Grazil Records. Besides the digital version, you can get your copy as an LP or CD.**
 
 With "Staring At The Sun Before Goin' Blind", the project from Italy releases a very personal version of an acoustic mirage of disorientation and restlessness. The record is a successful mixture of post-, art-, kraut- and noise rock—as if made for our times of confusion and confusion. Here is what Marco said:
 
