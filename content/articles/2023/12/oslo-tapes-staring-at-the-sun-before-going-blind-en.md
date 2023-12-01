@@ -2,9 +2,9 @@
 date: 2023-12-01T10:00:00.766Z
 slug: oslo-tapes-staring-at-the-sun-before-goin-blind-en
 typeName: Review
-title: 'Oslo Tapes – "Staring Into The Sun Before Goin‘ Blind"'
+title: 'Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"'
 subTitle: The Beauty of Disorientation
-seoTitle: Oslo Tapes – "Staring Into The Sun Before Goin‘ Blind"
+seoTitle: Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"
 description: 'The new Oslo Tapes album, "Staring At The Sun Before Goin‘ Blind", is out! Check it out here, and find out some fascination insights about it!'
 excerpt: 'With the new album, "Staring At The Sun Before Goin‘ Blind", Oslo Tapes releases a true masterpiece today. The eight songs are a very personal interpretation an acoustic mirage of disorientation and restlessness. You better listen to it right now!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-jpg-imagine-181808_575443_1024_768/640.webp
@@ -44,7 +44,7 @@ Because this puts it into words so wonderfully, there's almost nothing more to s
 
 If you love the music of bands like God Is An Astronaut, Neu!, Can, Porno For Pyros, Nine Inch Nails and Angel Of Light, you'll probably already be familiar with Oslo Tapes. If not, you're welcome. Here's your newest brilliant discovery!
 
-![Oslo Tapes – "Staring Into The Sun Before Goin' Blind"](https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-3-jpg-imagine-181828_6b5166_1080_1080/640.webp 'Oslo Tapes – "Staring Into The Sun Before Goin' Blind". Bild/Picture: Oslo Tapes')
+![Oslo Tapes – "Staring At The Sun Before Goin' Blind"](https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-3-jpg-imagine-181828_6b5166_1080_1080/640.webp 'Oslo Tapes – "Staring At The Sun Before Goin' Blind". Bild/Picture: Oslo Tapes')
 
 Staring at the Sun Before Goin' Blind" is the follow-up to the successful third Oslo Tapes album "ØR", which they released on Pelagic in 2021. The restlessness and disorientation mentioned above take hold of you as you listen and spread further and further as the playing time progresses. At the same time, curiosity grows as to what will develop next from the fireworks of metronomic rhythm patterns, flowing bass and melodically enraptured synths. The image of the mirage that Oslo Tapes chose to describe the record is more than fitting.
 

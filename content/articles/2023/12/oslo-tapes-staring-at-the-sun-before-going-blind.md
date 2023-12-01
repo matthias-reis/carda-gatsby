@@ -2,9 +2,9 @@
 date: 2023-12-01T10:00:00.766Z
 slug: oslo-tapes-staring-at-the-sun-before-goin-blind
 typeName: Review
-title: 'Oslo Tapes – "Staring Into The Sun Before Goin‘ Blind"'
+title: 'Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"'
 subTitle: Die Schönheit der Desorientierung
-seoTitle: Oslo Tapes – "Staring Into The Sun Before Goin‘ Blind"
+seoTitle: Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"
 description: 'Oslo Tapes aka Marco Campitelli hat sein neues Album "Staring At The Sun Before Goin‘ Blind" fertig. Hört hier direkt rein und holt Euch spannende Details zur Platte!'
 excerpt: Mit dem "Staring At The Sun Before Goin‘ Blind" veröffentlicht Oslo Tapes heute ein wahres Meisterwerk. Die acht songs sind eine sehr persönliche Version einer akustischen Fata Morgana der Desorientierung und Ruhelosigkeit. Hört am besten direkt rein!
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-jpg-imagine-181808_575443_1024_768/640.webp
@@ -21,7 +21,7 @@ labels:
   - Experimental
   - Oslo Tapes
   - Post-Rock
-focusKeyword: Oslo Tapes – "Staring Into The Sun Before Goin' Blind"
+focusKeyword: Oslo Tapes – "Staring At The Sun Before Goin' Blind"
 advertisement: false
 affiliate: false
 language: de
@@ -44,7 +44,7 @@ Weil das alles so wundervoll in Worte fasst, gibt es hier fast nicht viel mehr z
 
 Wenn Ihr die Musik von Bands wie God Is An Astronaut, Neu!, Can, Porno For Pyros, Nine Inch Nails und Angel Of Light zu schätzen wisst, werden Euch Oslo Tapes vermutlich schon ein Begriff sein. Falls nicht: Gerne geschehen, hier ist Eure nächste geniale Neuentdeckung!
 
-![Oslo Tapes – "Staring Into The Sun Before Goin' Blind"](https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-3-jpg-imagine-181828_6b5166_1080_1080/640.webp 'Oslo Tapes – "Staring Into The Sun Before Goin' Blind". Bild/Picture: Oslo Tapes')
+![Oslo Tapes – "Staring At The Sun Before Goin' Blind"](https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-3-jpg-imagine-181828_6b5166_1080_1080/640.webp 'Oslo Tapes – "Staring At The Sun Before Goin' Blind". Bild/Picture: Oslo Tapes')
 
 Staring at the Sun Before Goin' Blind" ist der Nachfolger des erfolgreichen dritten Oslo Tapes Albums "ØR", das 2021 auf Pelagic erschien. Die oben bereits angesprochenen Unruhe und Orientierungslosigkeit ergreift einen beim Hören und breitet sich mit dem Fortschreiten der Spielzeit immer weiter aus. Gleichzeitig wächst die Neugierde auf das, was sich wohl als Nächstes aus dem Feuerwerk aus metronomischen Rhythmusmustern, fließenden Bässen und melodisch verzückten Synths herausentwickeln wird. Das Bild der Fata Morgana, das Oslo Tapes für die Beschreibung der Platte wählte, ist mehr als stimmig.
 
