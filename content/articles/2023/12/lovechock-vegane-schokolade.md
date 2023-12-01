@@ -1,6 +1,6 @@
 ---
 date: 2023-12-01T08:09:53.766Z
-slug: gekochte-erdnuesse-whacky
+slug: lovechock-vegane-schokolade
 typeName: Produkttest
 title: '"Cacao Magic"'
 subTitle: Neue vegane Schokolade von Lovechock
