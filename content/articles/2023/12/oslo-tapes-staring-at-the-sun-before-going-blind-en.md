@@ -6,7 +6,7 @@ title: 'Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"'
 subTitle: The Beauty of Disorientation
 seoTitle: Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"
 description: 'The new Oslo Tapes album, "Staring At The Sun Before Goin‘ Blind", is out! Check it out here, and find out some fascination insights about it!'
-excerpt: 'With the new album, "Staring At The Sun Before Goin‘ Blind", Oslo Tapes releases a true masterpiece today. The eight songs are a very personal interpretation an acoustic mirage of disorientation and restlessness. You better listen to it right now!'
+excerpt: 'With the new album, "Staring At The Sun Before Goin‘ Blind", Oslo Tapes releases a true masterpiece today. The eight songs are a very personal interpretation of an acoustic mirage of disorientation and restlessness. You better listen to it right now!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-jpg-imagine-181808_575443_1024_768/640.webp
 copyright: 'Briqueville'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-og-jpg-imagine-181808_615155_1200_628/640.webp
