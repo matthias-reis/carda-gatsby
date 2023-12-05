@@ -32,6 +32,8 @@ labels:
   - vegane Landwirtschaft
   - Walnüsse
   - Walnussöl
+  - bio-vegane Landwirtschaft
+  - bio-veganer Anbau
 focusKeyword: Hof Windkind
 advertisement: true
 affiliate: false

@@ -20,6 +20,8 @@ labels:
   - Garten
   - Ernährung & Gesundheit
   - Achtsamkeit
+  - bio-vegane Landwirtschaft
+  - bio-veganer Anbau
 focusKeyword: Slowgarden Berlin
 advertisement: false
 affiliate: false

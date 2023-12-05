@@ -6,12 +6,8 @@ typeName: Produkttest
 title: Bodenpatenschaft für bio-vegane Nüsse
 subTitle: Hof Windkind macht Ackerflächen klimafreundlich
 seoTitle: Bodenpatenschaft bei Hof Windkind übernehmen und Nüsse bekommen
-description: Wenn Ihr eine Bodenpatenschaft bei Hof Windkind übernehmt, bekommt
-  Ihr bio-vegan angebaute Haselnüsse, Walnüssen oder hochwertiges Walnussöl.
-excerpt: Hof Windkind steht für bio-vegane Nüsse in hoher Qualität. Das
-  Highlight dabei ist, dass man einen Baum adoptieren kann und dann die Nüsse
-  erhält. Seit neuestem ist jetzt auch eine Bodenpatenschaft möglich. Ich
-  erzähle Euch, wie das funktioniert.
+description: Wenn Ihr eine Bodenpatenschaft bei Hof Windkind übernehmt, bekommt Ihr bio-vegan angebaute Haselnüsse, Walnüssen oder hochwertiges Walnussöl.
+excerpt: Hof Windkind steht für bio-vegane Nüsse in hoher Qualität. Das Highlight dabei ist, dass man einen Baum adoptieren kann und dann die Nüsse erhält. Seit neuestem ist jetzt auch eine Bodenpatenschaft möglich. Ich erzähle Euch, wie das funktioniert.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-04-26-hof-windkind-33-jpg-imagine-d8d8d8_bd9c82_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/bodenpatenschaft-fb-jpg-imagine-d8c8b8_b3886a_1200_628/640.webp
 labels:
@@ -36,6 +32,8 @@ labels:
   - vegane Landwirtschaft
   - Walnüsse
   - Walnussöl
+  - bio-vegane Landwirtschaft
+  - bio-veganer Anbau
 focusKeyword: Bodenpatenschaft
 advertisement: true
 affiliate: false
@@ -84,22 +82,22 @@ Wenn Ihr eine Patenschaft abschließen wollt, habt Ihr verschiedene Möglichkeit
 
 Bei einer Bodenpatenschaft für fünf Quadratmeter habt Ihr folgende Option:
 
-* 500 ml Bio-Walnussöl für 33,90 Euro⋆
+- 500 ml Bio-Walnussöl für 33,90 Euro⋆
 
 Bei zehn Quadratmetern könnt Ihr zwischen folgenden Möglichkeiten wählen:
 
-* 4 kg Walnüsse für 42,90 Euro⋆
-* 2,5 kg Haselnüsse für 31,15 Euro⋆
-* 2 x 500 ml Bio-Walnussöl für 60,90 Euro⋆
+- 4 kg Walnüsse für 42,90 Euro⋆
+- 2,5 kg Haselnüsse für 31,15 Euro⋆
+- 2 x 500 ml Bio-Walnussöl für 60,90 Euro⋆
 
 Wenn Ihr 16 Quadratmeter "adoptiert", erhaltet Ihr
 
-* 4 kg Haselnüsse für 48,90 Euro.⋆
+- 4 kg Haselnüsse für 48,90 Euro.⋆
 
 Wenn Ihr ganze 20 Quadratmeter nehmt, bekommt Ihr
 
-* 8 kg Walnüsse für 78,90 Euro⋆ oder
-* 4 x 500 ml Bio-Walnussöl für 114,90 Euro⋆.
+- 8 kg Walnüsse für 78,90 Euro⋆ oder
+- 4 x 500 ml Bio-Walnussöl für 114,90 Euro⋆.
 
 ⋆Alle Preise sind inklusive Mehrwertsteuer und Versand innerhalb Deutschlands.
 
@@ -131,4 +129,4 @@ Land OT Neuendorf
 
 [Hier könnt Ihr Bodenpat⋆innen werden](https://www.hofwindkind.com/info/bodenpatenschaft.html).
 
-Weitere Details zur Werbekennzeichnung in diesem Beitrag: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/tipps/werbekennzeichnung/ "Werbekennzeichnung Trusted Blogs")
+Weitere Details zur Werbekennzeichnung in diesem Beitrag: [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/tipps/werbekennzeichnung/ 'Werbekennzeichnung Trusted Blogs')

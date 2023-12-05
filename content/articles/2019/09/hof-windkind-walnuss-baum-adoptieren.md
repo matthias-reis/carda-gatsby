@@ -38,6 +38,8 @@ labels:
   - Walnussbäume
   - Walnüsse
   - Walnüsse direkt vom Erzeuger
+  - bio-vegane Landwirtschaft
+  - bio-veganer Anbau
 focusKeyword: Hof Windkind
 status: publish
 isWerbung: false

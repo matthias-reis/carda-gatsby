@@ -25,6 +25,8 @@ labels:
   - vegane Ernährung
   - Ernährung & Gesundheit
   - Klima & Umweltschutz
+  - bio-vegane Landwirtschaft
+  - bio-veganer Anbau
 focusKeyword: Feld adoptieren
 advertisement: true
 affiliate: false
