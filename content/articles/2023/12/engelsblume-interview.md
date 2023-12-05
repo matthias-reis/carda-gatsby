@@ -127,7 +127,7 @@ Ihr betreibt biologischen Landbau. Geht Ihr hier nach der klassischen Methode vo
 
 Kann man die SoLaWi unterstützen?
 
-**Katja:**Wer in der Region Alfeld/Leine oder in Hannover wohnt, kann gerne einen Ernteanteil bei uns beziehen. Wir haben für nächste Saison noch ein paar Anteile frei.
+**Katja:** Wer in der Region Alfeld/Leine oder in Hannover wohnt, kann gerne einen Ernteanteil bei uns beziehen. Wir haben für nächste Saison noch ein paar Anteile frei.
 
 **Anne:** Vielen Dank für diesen Austausch! Ich wünsche Dir alles Gute für Deine Pläne und die Zukunft!
 
