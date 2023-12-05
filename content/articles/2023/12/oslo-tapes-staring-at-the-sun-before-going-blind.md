@@ -6,7 +6,7 @@ title: 'Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"'
 subTitle: Die Schönheit der Desorientierung
 seoTitle: Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"
 description: 'Oslo Tapes aka Marco Campitelli hat sein neues Album "Staring At The Sun Before Goin‘ Blind" fertig. Hört hier direkt rein und holt Euch spannende Details zur Platte!'
-excerpt: Mit dem "Staring At The Sun Before Goin‘ Blind" veröffentlicht Oslo Tapes heute ein wahres Meisterwerk. Die acht songs sind eine sehr persönliche Version einer akustischen Fata Morgana der Desorientierung und Ruhelosigkeit. Hört am besten direkt rein!
+excerpt: Mit dem "Staring At The Sun Before Goin‘ Blind" veröffentlicht Oslo Tapes heute ein wahres Meisterwerk. Die acht Songs sind eine sehr persönliche Version einer akustischen Fata Morgana der Desorientierung und Ruhelosigkeit. Hört am besten direkt rein!
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-jpg-imagine-181808_575443_1024_768/640.webp
 copyright: 'Briqueville'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-og-jpg-imagine-181808_615155_1200_628/640.webp
