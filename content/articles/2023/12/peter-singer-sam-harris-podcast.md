@@ -43,7 +43,7 @@ Neben "Animal Liberation" hat Peter Singer noch zahlreiche weitere Bücher verfa
 
 Der Ethiker studierte an der University of Melbourne und der University of Oxford und ist derzeit Ira W. DeCamp Professor für Bioethik am Center for Human Values der Princeton University. Er lebt mit seiner Frau Renata abwechselnd in Princeton und Melbourne. Wenn Ihr nach dem Podcast noch mehr von Peter Singer konsumieren möchtet, kann ich Euch seine neuesten Bücher "[Animal Liberation Now: The Definitive Classic Renewed](https://amzn.to/3Rcl1Hc)" (Harper, 23. Mai) und "[The Buddhist and the Ethicist: Conversations on Effective Altruism, Engaged Buddhism, and How to Build a Better World](https://amzn.to/417AcpO)" (Shambhala, 12. Dezember) von 2023 empfehlen.
 
-Peter Singers Podcast findet Ihr überall, wo es Podcasts gibt. Hier zum Beispiel der [Link zu Apple Podcasts](https://podcasts.apple.com/de/podcast/342-animal-minds-moral-truths/id733163012?i=1000636715842).
+Peter Singers Podcast findet Ihr überall, wo es Podcasts gibt.
 
 **Bild/Picture:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Peter_Singer_no_Fronteiras_do_Pensamento_Porto_Alegre_%289616396635%29.jpg), Peter Singer, Porto Alegre
 
