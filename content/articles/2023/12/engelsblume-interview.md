@@ -47,7 +47,7 @@ Präventionsmaßnahmen und psychotherapeutische Behandlung beim Gärtnern: Weil 
 
 **Anne:** Der Winter steht vor der Tür: Gibt es im Moment im Garten noch viel zu tun oder ruht der erst mal bis zum Frühling?
 
-## Kurz vor den Feiertagen wird geerntet
+## Bis kurz vor den Feiertagen wird geerntet
 
 **Katja:** Wir ernten bis kurz vor Weihnachten. Also gibt es rund ums Gemüse bis dahin immer was zu tun. Dann gehen wir in eine unbezahlte Winterpause bis zum 1. Mai. In der Gärtnerei gibt es aber natürlich trotzdem immer etwas zu tun: Baumschnitt, Planung für die neue Saison und im Februar geht auch schon die Jungpflanzenanzucht wieder los!
 
