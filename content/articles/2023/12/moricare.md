@@ -4,7 +4,7 @@ slug: moricare
 typeName: Produkttest
 title: 'Moricare stellt sich vor'
 subTitle: 10% Rabatt plus Geschenkverpackung zu den Feiertagen
-seoTitle: 'Moricare – Vegane Beauty-Produkte mit Geschenkverpackung'
+seoTitle: 'Moricare – vegane Beauty-Produkte mit Geschenkverpackung'
 description: Moricare vegane Beauty-Produkte an den Feiertagen verschenken? Holt Euch hier satte 10 Prozent Rabatt plus Geschenkverpackung!
 excerpt: Die vegane Beauty-Brand Moricare hat sie jetzt kurz vor den Feiertagen eine schöne Rabattaktion für Euch ausgedacht – zusätzlich zur festlichen Verpackung in Rot und Gold erhaltet Ihr zehn Prozent Rabatt! In diesem Artikel lernt Ihr Moricare kennen und stelle ich Euch eines meiner Lieblings-Produkte vor – das Hyaluronserum.
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-07/moricare-hyaruron-serum-jpg-imagine-585858_7c413e_1024_768/640.webp
