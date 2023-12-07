@@ -51,7 +51,7 @@ Ich mag es, das Serum morgens direkt nach der Reinigung und Tonisierung aufzutra
 
 Die Anwendung funktioniert ganz einfach: Ich gebe ein paar Tropfen auf meine Fingerkuppen und massiere sie ganz leicht mit klopfenden Bewegungen ein. Danach habe ich das Gefühl, dass meine Haut den ganzen Tag über einen natürlichen Glow behält und nicht so schnell austrocknet. Besonders in der kalten Winterzeit ist das überaus angenehm und klappt auch hervorragend zum Auffrischen zwischendurch – wenn Ihr zum Beispiel von einer langen Hunderunde in der Kälte zurückkommt.
 
-Im Moricare Shop findet Ihr Beauty-Produkte aus den Kategorien
+Im Moricare Onlineshop findet Ihr Beauty-Produkte aus den Kategorien
 
 - [Gesichtspflege](https://tidd.ly/3uTW6AK)
 - [Anti Aging](https://tidd.ly/3t5jIC8)
