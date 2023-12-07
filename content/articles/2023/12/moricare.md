@@ -43,7 +43,7 @@ Wie alles von Moricare ist auch das Hyaluron-Serum zu 100 Prozent vegan. Es soll
 
 Das "Mori" in Moricare steht für natürliches Moringa. Dieses ist auch im Hyaluron-Serum enthalten. Hinzu kommen veganes Hyaluron sowie Auszüge aus Seidenbaum, Aloe Vera und Arnika.
 
-Ich mag es, das Serum morgens direkt nach der Reinigung und Tonisierung aufzutragen. Es gibt mir einfach wunderbaren Frischekick und zieht dabei extrem schnell ein. Anders als andere Hyaluron-Produkte dieser Art klebt nach dem Auftragen nichts und ich kann sofort mit meiner Beauty-Routine fortfahren und Tagespflege, Augencreme und UV-Schutz benutzen.
+Ich mag es, das Serum morgens direkt nach der Reinigung und Tonisierung aufzutragen. Es gibt mir einen wunderbaren Frischekick und zieht dabei ganz fix ein. Anders als andere Hyaluron-Produkte dieser Art klebt nach dem Auftragen nichts und ich kann sofort mit meiner Beauty-Routine fortfahren und Tagespflege, Augencreme und UV-Schutz benutzen.
 
 ## Perfekt zum Auffrischen am Morgen und Zwischendurch
 
