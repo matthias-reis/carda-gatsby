@@ -1,9 +1,9 @@
 ---
-date: 2023-12-07T:12:53.766Z
+date: 2023-12-07T13:00:00.766Z
 slug: moricare
 typeName: Produkttest
 title: 'Moricare stellt sich vor'
-subTitle: 10 % Rabatt plus Geschenkverpackung zu den Feiertagen
+subTitle: 10% Rabatt plus Geschenkverpackung zu den Feiertagen
 seoTitle: 'Moricare – Vegane Beauty-Produkte mit Geschenkverpackung'
 description: Moricare vegane Beauty-Produkte an den Feiertagen verschenken? Holt Euch hier satte 10 Prozent Rabatt plus Geschenkverpackung!
 excerpt: Die vegane Beauty-Brand Moricare hat sie jetzt kurz vor den Feiertagen eine schöne Rabattaktion für Euch ausgedacht – zusätzlich zur festlichen Verpackung in Rot und Gold erhaltet Ihr zehn Prozent Rabatt. In diesem Artikel stelle ich Euch eines meiner Lieblings-Produkte vor.
