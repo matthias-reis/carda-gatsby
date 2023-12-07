@@ -83,4 +83,4 @@ Moricare verpackt alle Cremes & Co. besonders edel in Gold und Rot. Wenn Ihr meh
 
 ![Moricare Hyaluron-Serum | large](https://storage.googleapis.com/cardamonchai-media/2023-12-07/moricare-anne-reis-soundsvegan-com-5-jpg-imagine-080808_675e5e_2048_1536/640.webp 'Moricare Hyaluron-Serum im nachhaltigen Karton')
 
-[^1]: Das Angebot gilt bis zum 23. Dezember 2023.
+[^1]: Das Angebot gilt bis zum 23. Dezember 2023 EOD.
