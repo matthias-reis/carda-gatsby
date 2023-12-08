@@ -27,7 +27,7 @@ language: de
 
 Lokale Unternehmen unterstützten sich gegenseitig und helfen den Kommunen dabei, neue Wege bei der Steuerung und Führung zu gehen. Das sorgt unter anderem dafür, dass sich neue, innovative Lösungen, die Emissionen spürbar reduzieren können, schneller verbreiten und auch die Ideen der Bürger\*innen zum Klimaschutz gehört werden.
 
-Der heutige European Viable Cities Day (Europäischer Tag der realisierbaren Städte) ist der Feier von Erfolgen durch diese Bestrebungen sowie der Schärfung der anstehenden Aktionen geschärft.
+Der heutige European Viable Cities Day (Europäischer Tag der realisierbaren Städte) ist der Feier von Erfolgen durch diese Bestrebungen sowie der Schärfung der anstehenden Aktionen geschärft. Das geht aus einer Pressemeldung von Cision[^1] hervor.
 
 In Schweden setzen sich von Skellefteå im Norden bis [Malmö](/2018/07/malmoe-zu-fuss/) im Süden Großstädte wie [Stockholm](/2018/09/zu-besuch-in-stockholm/) ebenso ein wie ländliche Gemeinden wie Mariestad. Insgesamt arbeiten 23 Städte, die 40 Prozent der schwedischen Bevölkerung repräsentieren, gemeinsam mit sechs Regierungsbehörden, am Ausbau der Vorreiterrolle in den Bestrebungen, die Klimakatastrophe aufzuhalten.
 
@@ -112,3 +112,5 @@ Nachdem 2020 die ersten neun Städte einen Klimastadtvertrag unterzeichnet hatte
 ## Wer ist Viable Cities?
 
 Viable Cities ist eine schwedische Plattform, die sich auf Innovationen für klimaneutrale und nachhaltige Städte konzentriert. Im Rahmen der Initiative "Klimaneutrale Städte 2030" arbeitet das Programm mit dem Tool "Klimastadtvertrag 2030" mit 23 Städten und sechs Regierungsbehörden zusammen, um die Klimawende zu beschleunigen. Die Arbeit von Viable Cities entstand im Einklang mit der europäischen Mobilisierung rund um die "Mission Climate Neutral and Smart Cities 2030". Der schwedische Forschungsrat für nachhaltige Entwicklung Formas fördert das Viable Cities als strategisches Innovationsprogramm von der schwedischen Energieagentur, Vinnova. Das KTH finanziert und das Royal Institute of Technologie koordiniert das Projekt.
+
+[^1]: [Cision – "Radical implementation for climate cities"](https://news.cision.com/viable-cities/r/radical-implementation-for-climate-neutral-cities,c3890510)
