@@ -8,7 +8,7 @@ ogTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede
 description: Vegane Kosmetik, Naturkosmetik, Biokosmetik, vegane Naturkosmetik, vegane Biokosmetik, vegane, herkömmliche Kosmetik. Was sind eigentlich die Unterschiede?
 excerpt: 'Naturkosmetik, vegane Naturkosmetik, vegane Kosmetik und Biokosmetik: Heute zeige ich Euch genau, wo die Unterschiede liegen und worauf Ihr im Hinblick auf Tierversuche und Allergien achten solltet.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-08/naturkosmetik-soundsvegan-jpg-imagine-f8e8d8_bbb19c_1024_768/640.webp
-copyright: Sponchia, pixabay
+copyright:
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-08/naturkosmetik-soundsvegan-og-jpg-imagine-f8e8d8_b8ae97_1200_628/640.webp
 labels:
   - Biokosmetik
