@@ -7,11 +7,9 @@ seoTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede
 ogTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede
 description: Vegane Kosmetik, Naturkosmetik, Biokosmetik, vegane Naturkosmetik, vegane Biokosmetik, vegane, herkömmliche Kosmetik. Was sind eigentlich die Unterschiede?
 excerpt: 'Naturkosmetik, vegane Naturkosmetik, vegane Kosmetik und Biokosmetik: Heute zeige ich Euch genau, wo die Unterschiede liegen und worauf Ihr im Hinblick auf Tierversuche und Allergien achten solltet.'
-fileName: 2018-03---vegane-kosmetik-biokosmetik-und-naturkosmetik.md
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_vase-3242871_640__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_vase-3242871_640__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgX/xAAqEAACAQMEAgAEBwAAAAAAAAABAgMEBREABhIhMUETFFFxBwgWIjJCkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQD/xAAoEQACAQIEAwkAAAAAAAAAAAABAgMABBEhMVEicYEFEiMzYrHB0vD/2gAMAwEAAhEDEQA/ALnHZoaW7iar5JMapJqeQnnGzEhTgkZVsE4UnA8j3pXd2w7dui6xR36or6iEyNJHGs3BUQpgxjA6BKjwcnv767u6qqoTbNy+QkCXAUsklP8AtDHmq5BwfPeNT22fiTVVlxnmnpKeSKKhttZEschDMJ+YZj9mJAGPppa3t17PQtBwganPHrvrWklI42NUy+VdPaLcaqRQEgQiNFA5ZxgBR9fQ0pZVpZLNG1DTS08LZYpKhVyx8s2eySffvSsu4KSS/VkM8To1sdE58eWfiBvAHf8AUf5pOigtke5rjXR1Xx7g8aoWlnyyjkegnrriPHrRRyrJIe6Rll+20I6UbIVGDZVgPzJI/wCjrFcYJXgq6O6K0csbFWHKNsgMCCP4jU721umqq33Kt+jjua0tI3GVgI52WKrCohlUZIAY4znHWjRo7nyX5GlJj4Z5fFU2/wBJPa7pcJYa2Zo67LlG7KsmeLcvJ8n6daw2160X3e2+2q1kh+YSOPFO4UIp5Agcg2B0Do0anW6Kt1IB6fdqrhiY3J2+tf/Z
-ogImage: null
+image: https://storage.googleapis.com/cardamonchai-media/2023-12-08/naturkosmetik-soundsvegan-jpg-imagine-f8e8d8_bbb19c_1024_768/640.webp
+copyright: Sponchia, pixabay
+ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-08/naturkosmetik-soundsvegan-og-jpg-imagine-f8e8d8_b8ae97_1200_628/640.webp
 labels:
   - Biokosmetik
   - COSMOS
@@ -162,5 +160,3 @@ Zum Glück gibt es aber auch einige, die es anders machen, sich bewusst für ein
 Ich halte es für besonders wichtig, dass man Produkte bewusst wählt und achtsam verwendet. Wenn Ihr Eure Tiegel, Tuben und Fläschchen immer komplett leer macht und Euch vor der Verwendung mit den Inhaltsstoffen und der herstellenden Firma auseinandergesetzt habt, seid Ihr auf einem sehr guten Weg.
 
 Lest gerne, [in meiner Rubrik Vegan Beauty weiter](/tag/vegan-2/vegan-beauty/), wenn Ihr einige Brands, die ich Euch mit gutem Gewissen empfehlen kann, kennenlernen möchtet.
-
-**Foto "Blumen in Reagenzgläsern":** [Rawpixel](https://pixabay.com/de/users/rawpixel-4283981/), Pixabay, Foto Reagenzgläser: CC, Pixabay
