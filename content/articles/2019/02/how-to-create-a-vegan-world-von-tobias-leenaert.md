@@ -25,7 +25,6 @@ labels:
   - go vegan
   - How To Create A Vegan World
   - Melanie Joy
-  - Peter Singer
   - ProVeg
   - ProVeg International
   - Tierethik
@@ -93,7 +92,7 @@ Das ergibt doch Sinn, oder? Warum sollte man immer das tun, was alle tun? Tobias
 
 ## Mit "Animal Liberation" wurden die Zweifel lauter
 
-Auf der Uni las er das Buch " **Animal Liberation** " von **Peter Singer** (von keinem Geringeren stammt übrigens das Vorwort in "How To Create A Vegan World") und sein innerer Konflikt wuchs weiter. Er schloss eine Wette mit einem Freund ab, der selbst Fleisch aß und seine Zweifel kannte. Würde er es schaffen, einen kompletten Monat auf Fleisch zu verzichten, würde er ihm 25 Dollar geben.
+Auf der Uni las er zahlreiche Bücher und sein innerer Konflikt wuchs weiter. Er schloss eine Wette mit einem Freund ab, der selbst Fleisch aß und seine Zweifel kannte. Würde er es schaffen, einen kompletten Monat auf Fleisch zu verzichten, würde er ihm 25 Dollar geben.
 
 Zunächst aß Leenaert weiter Fleisch, dabei beschränkte er sich auf das in den Pastagerichten, die es in der Mensa gab, sowie Fisch. Nach und nach gab er auch das auf - bis er zwei Jahre nach der Wette zum Veganer wurde.
 

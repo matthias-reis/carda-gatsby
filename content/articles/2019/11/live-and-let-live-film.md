@@ -42,7 +42,7 @@ subTitle: Eine vegane Dokumentation
 
 **Heute möchte ich Euch einen ganz besonderen Film ans Herz legen. "Live And Let Live" wurde von Filmemacher und Regisseur Marc Pierschel gedreht. In der Doku zeigen Veganer\*innen ihre Gründe für ein Leben ohne Tierleid.**
 
-Es kommen unter anderen die Autorin des Buchs "[Warum wir Hunde lieben, Schweine essen und Kühe anziehen](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)" Melanie Joy, der Professor für Bio-Chemie und Verfasser der "China Study" T. Colin Campbell sowie Bio-Ethik Professor Peter Singer und der vegane Radsportler Jack Lindquist zu Wort.
+Es kommen unter anderen die Autorin des Buchs "[Warum wir Hunde lieben, Schweine essen und Kühe anziehen](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)" Melanie Joy, der Professor für Bio-Chemie und Verfasser der "China Study" T. Colin Campbell sowie der vegane Radsportler Jack Lindquist zu Wort.
 
 ## Einfühlsame Berichterstattung
 
