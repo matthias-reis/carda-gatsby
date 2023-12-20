@@ -1,6 +1,5 @@
 import * as React from 'react';
 import styled from '@emotion/styled';
-import { DiscussionEmbed } from 'disqus-react';
 import { Container } from './container';
 import { H3 } from './typo';
 import { color } from '../style';
