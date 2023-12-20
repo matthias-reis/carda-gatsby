@@ -2,18 +2,26 @@ import { KeyboardDoubleArrowLeft } from '@mui/icons-material';
 import { AppBar, Box, IconButton, TextField, Toolbar } from '@mui/material';
 import { FC, useEffect, useCallback, useRef } from 'react';
 import { useEditor } from './logic/editor';
-import { useViewer } from './logic/viewer';
+import { useViewerPath, useSetViewerPath } from './logic/viewer';
+import { useAddMessage } from './logic/messages';
+import { useRoute } from './logic/route';
 
 export const ViewerModule: FC = () => {
   const previewEl = useRef<HTMLIFrameElement>(null);
-  const { isEditable, path, url, setPath } = useViewer();
+  const { isEditable, path, url } = useViewerPath();
+  const setPath = useSetViewerPath();
+  const addMessage = useAddMessage();
+  const { setLeftRoute } = useRoute();
 
   const handleMessage = useCallback(
     (ev: MessageEvent<string>) => {
-      setPath(ev.data);
+      if (typeof ev.data === 'string') {
+        setPath(ev.data);
+      }
     },
     [setPath]
   );
+
   useEffect(() => {
     if (previewEl.current) {
       window.addEventListener('message', handleMessage, false);
@@ -22,7 +30,16 @@ export const ViewerModule: FC = () => {
     return () => window.removeEventListener('message', handleMessage);
   }, [previewEl]);
 
+  useEffect(() => {
+    addMessage('viewer', `visit <${path}>${isEditable ? ' (EDITABLE)' : ''}`);
+  }, [path, isEditable]);
   const { setSlug } = useEditor();
+
+  const handleEdit = useCallback(() => {
+    setSlug(path);
+    setLeftRoute('editor');
+    addMessage('viewer', `loading <${path}>`);
+  }, [path]);
 
   return (
     <Box sx={{ flex: '4 0 auto', height: '100vh' }}>
@@ -31,7 +48,7 @@ export const ViewerModule: FC = () => {
           <IconButton
             sx={{ mm: 4 }}
             disabled={!isEditable}
-            onClick={() => setSlug(path)}
+            onClick={handleEdit}
           >
             <KeyboardDoubleArrowLeft />
           </IconButton>
@@ -50,7 +67,7 @@ export const ViewerModule: FC = () => {
       </AppBar>
       <Box sx={{ position: 'relative', height: 'calc(100% - 64px)' }}>
         <iframe
-          src="http://localhost:8000"
+          src={url}
           ref={previewEl}
           style={{
             position: 'absolute',

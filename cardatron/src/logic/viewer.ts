@@ -1,21 +1,20 @@
-import { atom, useAtom } from 'jotai';
+import { atom, useAtomValue, useSetAtom } from 'jotai';
 import { previewUrl } from './constants';
 
 const viewerPathAtom = atom<string>('/');
 
-const viewerUrlAtom = atom<string>((get) => {
-  return `${previewUrl}${get(viewerPathAtom)}`;
-});
+export const useViewerPath = () => {
+  const path = useAtomValue(viewerPathAtom);
+  const url = `${previewUrl}${path}`;
+  const isEditable = !!path.match(/\/\d\d\d\d\/\d\d\/.*/); // urls are like /2021/01/foobar
+  return { path, url, isEditable };
+};
 
-const isEditableAtom = atom<boolean>((get) => {
-  console.log('isEditable', get(viewerPathAtom));
-  return !!get(viewerPathAtom).match(/\/\d\d\d\d\/\d\d\/.*/);
-});
-
-export const useViewer = () => {
-  const [path, setPath] = useAtom(viewerPathAtom);
-  const [url] = useAtom(viewerUrlAtom);
-  const [isEditable] = useAtom(isEditableAtom);
-
-  return { path, url, isEditable, setPath };
+export const useSetViewerPath = () => {
+  const setPath = useSetAtom(viewerPathAtom);
+  return (newPath: unknown) => {
+    if (typeof newPath === 'string') {
+      setPath(newPath);
+    }
+  };
 };

@@ -4,8 +4,8 @@ import {
   Image,
   Visibility,
   Terminal,
-  KeyboardDoubleArrowLeft,
-  KeyboardDoubleArrowRight,
+  JoinLeft,
+  JoinRight,
 } from '@mui/icons-material';
 import {
   Divider,
@@ -36,7 +36,7 @@ const leftItems: Item[] = [
 
 const rightItems: Item[] = [
   {
-    name: 'Neuer Beitrag',
+    name: 'Browser',
     icon: Visibility,
     route: 'viewer',
   },
@@ -62,7 +62,7 @@ export const Navigation: FC = () => {
         <List sx={{ mt: 4 }}>
           <Divider sx={{ my: 2 }} />
           <ListItem>
-            <KeyboardDoubleArrowLeft sx={{ opacity: 0.5 }} />
+            <JoinLeft sx={{ opacity: 0.3 }} />
           </ListItem>
           {leftItems.map((item) => {
             const Icon = item.icon;
@@ -101,7 +101,7 @@ export const Navigation: FC = () => {
           <Divider sx={{ my: 2 }} />
 
           <ListItem>
-            <KeyboardDoubleArrowRight sx={{ opacity: 0.5 }} />
+            <JoinRight sx={{ opacity: 0.3 }} />
           </ListItem>
           {rightItems.map((item) => {
             const Icon = item.icon;

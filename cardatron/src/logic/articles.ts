@@ -17,6 +17,26 @@ export async function readArticle(path: string): Promise<Article> {
   return { ...attributes, body };
 }
 
+export async function newArticle(date: Date, title: string): Promise<string> {
+  const article: Article = {
+    date: date.toISOString(),
+    title,
+    subTitle: '',
+    type: 'article',
+    typeName: 'Artikel',
+    description: '',
+    labels: [],
+    slug: slugify(title),
+    body: '',
+  };
+
+  const path = pathFromSlug(getSlug(article));
+
+  await writeArticle(article, '');
+
+  return path;
+}
+
 export async function writeArticle(
   article: Article | string,
   initialArticle: Article | string
@@ -75,3 +95,21 @@ ${body}
     plugins: [parserMd],
   });
 };
+
+export const slugify = (s: string) =>
+  s
+    .toString()
+    .toLowerCase()
+    .replace(/&/g, ' und ')
+    .replace(/è/g, 'e')
+    .replace(/'/g, '')
+    .replace(/é/g, 'e')
+    .replace(/ä/g, 'ae')
+    .replace(/ö/g, 'oe')
+    .replace(/ø/g, 'oe')
+    .replace(/ü/g, 'ue')
+    .replace(/ß/g, 'ss')
+    .replace(/[^a-z0-9]/g, ' ')
+    .trim()
+    .replace(/\s+/g, ' ')
+    .replace(/ /g, '-');

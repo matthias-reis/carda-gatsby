@@ -3,26 +3,27 @@ import { FC } from 'react';
 import { LeftRoute, RightRoute, useRoute } from './logic/route';
 import { EditorModule } from './EditorModule';
 import { MediaModule } from './MediaModule';
+import { WaitModule } from './WaitModule';
 import { SplashModule } from './SplashModule';
 import { NewModule } from './NewModule';
 import { ViewerModule } from './ViewerModule';
 import { ProtocolModule } from './ProtocolModule';
 
 const leftModules: Record<LeftRoute, FC> = {
+  wait: WaitModule,
   splash: SplashModule,
   editor: EditorModule,
   new: NewModule,
 };
 const rightModules: Record<RightRoute, FC> = {
+  wait: WaitModule,
   viewer: ViewerModule,
   media: MediaModule,
   protocol: ProtocolModule,
 };
 
 export const WorkplaceLeft: FC = () => {
-  const {
-    route: [leftRoute],
-  } = useRoute();
+  const { leftRoute } = useRoute();
 
   const LeftModule = leftModules[leftRoute];
 
@@ -42,9 +43,7 @@ export const WorkplaceLeft: FC = () => {
 };
 
 export const WorkplaceRight: FC = () => {
-  const {
-    route: [_leftRoute, rightRoute],
-  } = useRoute();
+  const { rightRoute } = useRoute();
 
   const RightModule = rightModules[rightRoute];
 

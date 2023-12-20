@@ -2,18 +2,14 @@ import { atom, useAtom } from 'jotai';
 import {
   getPath,
   getRelativePath,
+  newArticle,
   readArticle,
   writeArticle,
 } from './articles';
 import { Article } from './types';
 import { simpleGit } from 'simple-git';
-import { parse } from 'node:path';
-
-export type Message = {
-  level: 'info' | 'warn' | 'error';
-  time: number; // timestamp
-  message: string;
-};
+import { useAddMessage } from './messages';
+import { useRoute } from './route';
 
 const git = simpleGit();
 
@@ -21,7 +17,6 @@ const git = simpleGit();
 const currentSlugAtom = atom<string>('');
 const loadedArticlesAtom = atom<Record<string, Article | string>>({});
 const modifiedArticlesAtom = atom<Record<string, Article | string>>({});
-const messagesAtom = atom<Message[]>([]);
 
 const setCurrentSlugAtom = atom(null, async (_, set, slug: string) => {
   // we're setting the current atom to the value handed over
@@ -59,10 +54,27 @@ export const useEditor = () => {
   return { setSlug, slug, slugPath, slugIdentifier, path, relativePath };
 };
 
+export const useNewArticle = () => {
+  const addMessage = useAddMessage();
+  const { setLeftRoute } = useRoute();
+  const { setSlug } = useEditor();
+
+  const createArticle = async (title: string, date: Date) => {
+    const path = await newArticle(date, title);
+    addMessage('editor', `article created under <${path}>`);
+    const slug = path.split('/articles/')[1].replace('.md', '/');
+    console.log(slug);
+    setSlug(slug);
+    setLeftRoute('editor');
+  };
+
+  return { createArticle };
+};
+
 export const useCurrentArticle = () => {
   const { slug } = useEditor();
   const [modifiedArticles, setModifiedArticles] = useAtom(modifiedArticlesAtom);
-  const [messages, setMessages] = useAtom(messagesAtom);
+  const addMessage = useAddMessage();
   const [loadedArticles, setLoadedArticles] = useAtom(loadedArticlesAtom);
   const [_, setCurrentSlug] = useAtom(setCurrentSlugAtom);
 
@@ -94,22 +106,15 @@ export const useCurrentArticle = () => {
     // then reload it from scratch by re-setting the slug
     setCurrentSlug(newSlug);
     // and add a message
-    setMessages([
-      ...messages,
-      {
-        level: 'info',
-        time: Date.now(),
-        message: `Article saved ${newSlug}`,
-      },
-    ]);
+    addMessage('editor', `Article saved ${newSlug}`);
   };
 
   const publish = async () => {
     // commit the state
     await git.stash(['-u']);
-    await git.stash(['pop']);
     const status = await git.status();
     console.log(status);
+    await git.stash(['pop']);
     // await git.add('.');
     // const files = status.modified
     //   .filter((f) => f.endsWith('.md'))
