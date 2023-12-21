@@ -16,7 +16,7 @@ productsProvided: false
 excerpt: Vor Kurzem traf hier wieder eine schöne Lieferung mit Impericon Bandshirts ein. Dieses Mal von La Dispute und Being As An Ocean. Sie sind aus Bio-Baumwolle und insgesamt wesentlich nachhaltiger, als andere Bandshirts. Holt Euch hier alle Infos über die Bands, die Shirts und den Metal-Merch-Shop.
 ---
 
-**Impericon hat hier vor Kurzem wieder eine schöne T-Shirt-Lieferung dagelassen – dieses Mal gibt erinnern mich zwei wunderschöne Artworks daran, die Musik der beiden Melodic-Hardcore/Post-Hardcore und Post-Punk-Bands Being As An Ocean und La Dispute endlich mal wieder häufiger zu genießen. Beide Shirts stammen übrigens aus dem nachhaltigen Sortiment des offiziellen Merchandise und Fashion Shops.**
+**Impericon hat hier vor Kurzem wieder eine schöne T-Shirt-Lieferung dagelassen – dieses Mal erinnern mich zwei wunderschöne Artworks daran, die Musik der beiden Melodic-Hardcore/Post-Hardcore und Post-Punk-Bands Being As An Ocean und La Dispute endlich mal wieder häufiger zu genießen. Beide Shirts stammen übrigens aus dem nachhaltigen Sortiment des offiziellen Merchandise und Fashion Shops.**
 
 Die T-Shirts wurden aus 100 Prozent Bio-Baumwolle gefertigt und das Material ist wunderbar weicher Jersey-Stoff. Sie fallen daher ausgesprochen gut und tragen sich zu Hosen und Röcken ganz hervorragend. Ich habe ein paar Fotos gemacht, ich denke, man kann es ganz gut sehen. Es handelt sich um Unisex-Produkte, daher könnt Ihr Euch ganz einfach an den Größen orientieren, die ihr sonst so im Kleiderschrank habt. Ich trage auf den Bildern M. Mit meinen 1,68 m sitzen sie so schön locker und ich kann, falls es draußen frisch ist, einfach auch noch einen Rolli oder etwas Ähnliches drunter tragen.
 
