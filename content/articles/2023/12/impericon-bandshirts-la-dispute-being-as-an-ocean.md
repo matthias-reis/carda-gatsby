@@ -55,6 +55,8 @@ Die Melodic-Hardcore-Band Being As An Ocean gibt es seit 2011. Das letzte Album 
 
 Ihr Bandname ist von Gandhis Spruch "You must not lose faith in humanity. Humanity is like an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty." inspiriert. Laut eigener Aussage möchte die Band mit ihrer Musik "Eine Brücke zwischen Post-Hardcore, Screamo, Metalcore und manchmal auch Pop schlagen." Ich höre da noch einiges mehr heraus, lauscht am besten einfach mal.
 
+[Mehr über Impericon könnt Ihr hier erfahren](/2022/12/nachhaltige-bandshirts/).
+
 ## Being As An Ocean – Dear G-d 10 Year Anniversary | EU/UK Winter 2023
 
 <YouTube id="LkMXj8ZNnik" />
