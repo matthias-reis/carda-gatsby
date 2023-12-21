@@ -4,7 +4,7 @@ slug: china-study-hoerbuch
 typeName: Hörbuchtipp
 title: 'Die China Study – das Hörbuch'
 subTitle: Fakten zu veganer Ernährung – gesprochen von Christoph Maria Herbst
-seoTitle: 'Bandshirts von Impericon gibt es auch in nachhaltig'
+seoTitle: 'China Study Hörbuch – Lesen lohnt sich – nicht nur für Veganer*innen'
 description: China Study Hörbuch – ja, Ihr könnt Euch die berühmteste Studie, über die in der veganen Community so viel geredet wird auch einfach anhören. Es lohnt sich! Holt Euch jetzt hier die Infos!
 excerpt: Die China Study gibt es auch als Hörbuch! Falls Ihr vegan lebt, habt Ihr sicher schon mal was von der bahnbrechenden Arbeit gehört. Immer mehr Forschende finden, sie sollte die Basis für unsere heutige innere Medizin sein. Erfahrt jetzt alles über das Hörbuch und warum sich das Hören lohnt!
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-21/china-study-audible-soundsvegan-jpg-imagine-e8d8c8_beb47b_1024_768/640.webp
