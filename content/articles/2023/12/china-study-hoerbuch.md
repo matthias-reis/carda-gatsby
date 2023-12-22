@@ -29,7 +29,7 @@ Das [China Study Hörbuch](https://c.trackmytarget.com/?a=05r4f0&i=ollnc3&r=http
 
 Audible schreibt zur China Study Hörbuch
 
-> "Vorsicht: Dieses Hörbuch wird dich unter Umständen gesünder machen!"
+> "Vorsicht: Dieses Hörbuch wird Dich unter Umständen gesünder machen!"
 
 Ich kann Euch sagen: Da ist was Wahres dran. Als ich damals vegan wurde, habe ich mir das Buch aufmerksam durchgelesen und es hat mich definitiv in meiner Entscheidung bestärkt. Die China Study liefert die Antwort auf so viele Fragen, die unsere Ernährung, unsere Gesundheit und die Zusammenhänge dazwischen betreffen. Gleichzeitig fühlt sie sich beim Lesen fast wie ein Aufruf dazu an, letzterem noch viel mehr Beachtung zu schenken – als menschliches Individuum und aus medizinischer und professioneller Sicht. Das Hörbuch verstärkt diesen Effekt noch zusätzlich. T. Colin Campbell und Thomas M. Campbell haben hier wirklich ein wegweisendes Werk geschaffen. In den Augen vieler Forschender und Mediziner wie Neal D. Barnard, dem Gründer des Physicians Committee for Responsible Medicine sollte es ein wichtiger Pfeiler innerhalb der Basis für unsere heutige innere Medizin sein. Dies bestätigen auch die Forschungen rund um die sogenannten [Blue Zones](/2023/04/blue-zones/), in denen die Menschen aufgrund ihrer Ernährung ein besonders hohes Alter erreichen – eine davon lieferte das Material für die China Study.
 
