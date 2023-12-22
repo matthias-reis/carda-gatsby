@@ -40,7 +40,7 @@ Auf "Geschäftsmodell Hass" geht es unter anderem um das Nein Sagen in einer Wel
 
 ![Die Dorks – "Geschäftsmodell Hass"](https://storage.googleapis.com/cardamonchai-media/2023-12-22/die-dorks-soundsvegan-com-4-jpg-imagine-98d8f8_6f96a9_2048_1536/640.webp 'Die Dorks – "Geschäftsmodell Hass"')
 
-Sauber platzierte Bassläufe und präzises Schlagzeugspiel treiben die Stücke voran und halten die in elf Titel aufgeteilten knapp 43 Minuten zusammen, ohne sich dabei zu sehr in den Mittelpunkt zu spielen. Ganz Punk bleibt alles kurz, prägnant und geradeheraus. Handwerklich macht dem Trio dabei keine\*r etwas vor. Die feinen Andeutungen in Richtung ausproduzierten Melodic Metal und Crossover sind klar erkennbar und kommen immer im passenden Moment zum Einsatz. So sind sie, die Dorks: Sie lassen sich in keine Schublade einordnen und das ist gut so.
+Sauber platzierte Bassläufe und präzises Schlagzeugspiel treiben die Stücke voran und halten die in elf Titel aufgeteilten knapp 43 Minuten zusammen, ohne sich dabei zu sehr in den Mittelpunkt zu spielen. Ganz Punk bleibt alles kurz, prägnant und geradeheraus. Handwerklich macht dem Trio dabei keine\*r etwas vor. Die feinen Andeutungen in Richtung ausproduziertem Melodic Metal und Crossover sind klar erkennbar und kommen immer im passenden Moment zum Einsatz. So sind sie, die Dorks: Sie lassen sich in keine Schublade einordnen und das ist gut so.
 
 Holt Euch das Album, Ihr werdet es nicht bereuen! Konzerte wird es mit Sicherheit auch schon bald wieder geben, denn die Dorks touren für ihr Leben gerne. Auf ihrer Bandwebseite[^1] halten Euch Liz, Bons und Mark auf dem Laufenden!
 
