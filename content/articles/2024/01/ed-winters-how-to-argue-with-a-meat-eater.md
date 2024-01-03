@@ -54,7 +54,7 @@ Ed schreibt:
 
 Wenn mich jemand mit den Sätzen anspricht, wie:
 
-> - "Ich finde das ja toll, dass Du das machst, ich könnte das ja nie!"
+> - "Ich finde das ja toll, dass Du das machst, aber ich könnte das nie!"
 > - "Bekommst Du dann eigentlich genug [Protein](/2022/11/veganes-protein/)/Vitamin [B12](/2014/08/vitamin-b12-mythos-und-wahrheit/)/Kalzium/...?"
 > - "Mir wäre das ja viel zu kompliziert/teuer...
 > - "[Auf Käse könnte ich persönlich ja niemals verzichten](/2014/11/suechtig-nach-kaese-casomorphine/)!"
