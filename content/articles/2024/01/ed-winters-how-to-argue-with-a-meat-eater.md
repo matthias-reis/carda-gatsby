@@ -18,6 +18,8 @@ labels:
   - Vegan Celebrities
   - vegane Bücher
   - Veganismus Bücher
+  - Ed Winters
+  - Earthling Ed
 focusKeyword: 'How to Argue With a Meat Eater'
 advertisement: false
 affiliate: true

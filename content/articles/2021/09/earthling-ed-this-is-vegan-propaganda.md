@@ -10,7 +10,7 @@ image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/this-is-vega
 copyright: Ed Winter
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/this-is-vegan-propaganda-other-lies-the-meat-industry-tells-you-ed-winter-fb-png-imagine-282828_58575d_1200_628/640.webp
 labels:
-  - Ed Winter
+  - Ed Winters
   - Earthling Ed
   - vegane Bücher
   - Bücher
@@ -45,7 +45,7 @@ In einem Pressestatement gegenüber Plant Based News erklärte Ed:
 
 Zunächst geht er auf die Ethik des Veganismus ein – von der Moralphilosophie bis hin zu einer Untersuchung der Tierhaltung. Anschließend wirft er einen Blick auf unsere Gesundheit und den Einfluss der Tierzucht auf die Umwelt und das Klima.
 
-![Ed Winter aka Earthling Ed](https://storage.googleapis.com/cardamonchai-media/2021-11-20/561519880-jpeg-imagine-282828_4b4445_1080_1350/640.webp 'Ed Winter aka Earthling Ed')
+![Ed Winters aka Earthling Ed](https://storage.googleapis.com/cardamonchai-media/2021-11-20/561519880-jpeg-imagine-282828_4b4445_1080_1350/640.webp 'Ed Winters aka Earthling Ed')
 
 Auch das Theme Zoonosen, insbesondere natürlich die COVID-19 Pandemie, lässt Ed nicht aus. Hier legt er besonderes Augenmerk auf Infektionskrankheiten und Antiobiotikaresistenz.
 

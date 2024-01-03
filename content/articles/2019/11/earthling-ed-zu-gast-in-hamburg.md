@@ -23,7 +23,7 @@ labels:
   - AV
   - Earthling Ed
   - Earthlings
-  - Ed Winter
+  - Ed Winters
   - Ernährung & Gesundheit
   - furfree Fashion Week
   - Land Of Hope And Glory
@@ -89,7 +89,7 @@ Ich bin sehr froh, dass ich dabei sein konnte und ein bisschen stolz, das Ed sic
 
 ## Earthling Ed - ein veganer Aktivist
 
-Earthling Ed aka Ed Winter ist ein britischer Tierrechtsaktivist, Filmemacher und Dozent. Mithilfe seiner Accounts in den sozialen Netzwerken macht auf auf Missstände in der Tierhaltung und Gewalt gegen Tiere in unserer heutigen Gesellschaft aufmerksam.
+Earthling Ed aka Ed Winters ist ein britischer Tierrechtsaktivist, Filmemacher und Dozent. Mithilfe seiner Accounts in den sozialen Netzwerken macht auf auf Missstände in der Tierhaltung und Gewalt gegen Tiere in unserer heutigen Gesellschaft aufmerksam.
 
 Earthling Ed lebt in London. 2014 wurde er Vegetarier, nachdem er einen Artikel über einen Geflügeltruck gelesen hatte, der bei Manchester verunglückt war. Kurze Zeit später sah er mit seiner Freundin [die Dokumentation "Earthlings"](/2020/07/earthlings/). Seit diesem Zeitpunkt leben die beiden vegan.
 

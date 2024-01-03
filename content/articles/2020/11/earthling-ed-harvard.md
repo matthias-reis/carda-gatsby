@@ -14,6 +14,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_earthling-ed-fb.png__l.jpg
 labels:
   - Earthling Ed
+  - Ed Winters
   - Harvard
   - Tierrechte
   - Tierrechte

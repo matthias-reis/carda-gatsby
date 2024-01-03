@@ -19,6 +19,7 @@ labels:
   - Surge Sanctuary
   - Tierrechte
   - vegan
+  - Ed Winters
 focusKeyword: Surge Sanctuary
 status: publish
 isWerbung: false
