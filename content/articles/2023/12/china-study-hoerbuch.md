@@ -18,7 +18,7 @@ labels:
   - Forschung
   - Bücher & Filme
 focusKeyword: China Study Hörbuch
-advertisement: true
+advertisement: false
 affiliate: true
 language: de
 ---
