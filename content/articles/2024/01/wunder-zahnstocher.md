@@ -25,7 +25,7 @@ affiliate: true
 language: de
 ---
 
-**Wie jetzt Zahnstocher? Das ist doch so ein Relikt aus längst vergangenen Zeiten? Weit gefehlt! Früher hatten sie vielleicht ein angestaubtes Image, doch mit Wunder haben sie dieses längst abgelegt. Die tollen Stäbchen sorgen unterwegs, wann immer man ihn braucht, für guten Atem und ein gutes Mundgefühl.**
+**Wie jetzt Zahnstocher? Das sind doch Relikte aus längst vergangenen Zeiten? Weit gefehlt! Früher hatten sie vielleicht ein angestaubtes Image, doch mit Wunder haben sie dieses längst abgelegt. Die tollen Stäbchen sorgen unterwegs, wann immer man ihn braucht, für guten Atem und ein gutes Mundgefühl.**
 
 ---
 
