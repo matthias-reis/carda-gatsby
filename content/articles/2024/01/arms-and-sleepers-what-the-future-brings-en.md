@@ -5,7 +5,7 @@ typeName: Preview
 title: 'Arms and Sleepers – "What Tomorrow Brings"'
 subTitle: Musically Precise Memories and Future Perspectives
 seoTitle: Preview – Arms and Sleepers – "What Tomorrow Brings"
-description: 'The new Arms and Sleepers album, "Staring At The Sun Before Goin‘ Blind", is coming soon! Get a first taste here, and find out some fascination insights about it!'
+description: 'The new Arms and Sleepers album, "What Tomorrow Brings", is coming soon! Get a first taste here, and find out some fascination insights about it!'
 excerpt: 'What Tomorrow Brings"—Arms and Sleepers is back with the question of the uncertainty of the future and delivered a sensational album right at the beginning of the year. Get a first taste in the form of two pre-released songs here—and some exciting details about the record!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-05/arms-and-sleepers-what-the-future-brings-jpg-imagine-585858_7b7b7b_1024_768/640.webp
 copyright: 'Arms and Sleepers'
