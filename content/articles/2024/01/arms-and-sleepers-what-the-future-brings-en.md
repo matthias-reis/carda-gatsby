@@ -55,7 +55,7 @@ The titles "Innocence", "Melancholy", "Rupture", and "Reflection" mark the four 
 
 ![Arms and Sleepers – "What The Future Brings"](https://storage.googleapis.com/cardamonchai-media/2024-01-05/arms-and-sleepers-what-the-future-brings-vinyl-jpg-imagine-181818_413327_1024_768/640.webp 'Arms and Sleepers – "What The Future Brings"')
 
-Fans of projects like Caspian, Mogwai, Morcheeba, DJ Krush, Portishead, Nightmares on Wax and Moloko are sure to enjoy this incredible work of art, which holds up a mirror to our times in a transparent yet playful way. The clear accents in the direction of jazz and post-rock emphasise the longing we all yearn for club nights in times of harmony—in decades long past and in those yet to come.
+Fans of projects like Caspian, Mogwai, Morcheeba, DJ Krush, Portishead, Nightmares on Wax, and Moloko are sure to enjoy this incredible work of art, which holds up a mirror to our times in a transparent yet playful way. The clear accents in the direction of jazz and post-rock emphasise the longing we all yearn for club nights in times of harmony—in decades long past and in those yet to come.
 
 Arms and Sleepers created his musical painting with impressive precision. The relaxed ambient sound, with its drum breaks and surprising moments, is a constant source of pleasant surprises. If you want to let yourself be carried away by the music, you will always get a friendly, thought-provoking impulse between the bars.
 
