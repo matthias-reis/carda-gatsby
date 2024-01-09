@@ -3,7 +3,7 @@ date: 2024-01-09T11:32:12.086Z
 slug: the-next-girl
 typeName: Filmtipp
 title: '"The Next Girl"'
-subTitle: 'Preisgekrönten veganer Kurzfilm jetzt streamen!'
+subTitle: 'Preisgekrönten veganen Kurzfilm jetzt streamen!'
 seoTitle: 'Veganen Kurzfilm "The Next Girl" jetzt streamen!'
 description: 'Holt Euch jetzt hier alle wichtigen Infos zum preisgekrönten veganen Kurzfilm "The Next Girl". Anschließend hier direkt streamen!'
 excerpt: '"The Next Girl" heißt der neue, preisgekrönte vegane Kurzfilm. Holt Euch jetzt hier alle Infos und erfahrt, warum Ihr ihn auf jeden Fall sehen solltet! Mich hat er sofort überzeugt und ich bin schon gespannt, wem es noch so gehen wird.'
