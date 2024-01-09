@@ -40,7 +40,7 @@ language: de
 
 ---
 
-Nicht ohne Grund erhielt der von Vkind Studios produzierte Film zahlreiche Awards (u. a. Best Indie Short beim Canens World Film Festival, Best Short Film bei Carpe Diem und Best Short Film beim Better Earth International Film Festival). "The Next Girl" hinterlässt einen bleibenden Eindruck.
+Nicht ohne Grund erhielt der von Vkind Studios produzierte Film zahlreiche Awards (u. a. Best Indie Short beim Cannes World Film Festival, Best Short Film bei Carpe Diem und Best Short Film beim Better Earth International Film Festival). "The Next Girl" hinterlässt einen bleibenden Eindruck.
 
 Der Kurzfilm spielt in einer dystopischen Welt, in der junge Frauen versklavt und dazu gezwungen werden, ihr Leben in körperlicher Abhängigkeit zu führen. Sie werden genötigt, Kinder zu gebären, von denen sie anschließend getrennt werden. Die Kinder wachsen in Isolation auf und durchleben denselben grausamen Kreislauf, wie ihre Mütter. Die Analogie zur [Milchwirtschaft](/2014/09/pflanzenmilch-wieso-denn-bloss/) wird von Minute zu Minute klarer und die Skrupellosigkeit geht einem beim Zuschauen durch Mark und Bein.
 
