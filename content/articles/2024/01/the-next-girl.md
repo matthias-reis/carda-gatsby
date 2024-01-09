@@ -21,7 +21,7 @@ labels:
   - Vkind Studios
   - Dystopie
   - Jamie Logan
-  - Terra Bennet Smith
+  - Terrah Bennet Smith
   - Lisa DeCrescente
   - Star Simmons
   - VKind Immersive Experience
@@ -50,7 +50,7 @@ Im Mittelpunkt der Geschichte steht die Schauspielerin Jamie Logan ("Pet Shop Da
 
 Irgendwann wird die Protagonistin selbst Mutter. Als sie ihr Kind an sich drückt, wird sie von Gefühlen überflutet – Liebe, Verbundenheit und Unsicherheit. In diesem Moment wird auch sie Teil des traurigen Schicksals, dem sich alle weiblichen Wesen im Film stellen müssen: Sie wird dazu gezwungen, dem Baby ein Amulett um den Hals zu legen. Auch sie muss Ihr Kind abgeben. Es wird getrennt von seiner Mutter leben.
 
-Die Regisseurin Terra Bennet Smith und die Drehbuchautorin und ausführende Produzentin Lisa DeCrescente wollen mit ihrem Kurzfilm eine Welt aufzeigen, die viel zu oft ignoriert und missverstanden wird. Den meisten von uns bleibt sie durch Verdrängung und ein perfides Zusammenspiel aus Werbung und die unüberwindbaren Mauern der Tierindustrie verborgen.
+Die Regisseurin Terrah Bennet Smith und die Drehbuchautorin und ausführende Produzentin Lisa DeCrescente wollen mit ihrem Kurzfilm eine Welt aufzeigen, die viel zu oft ignoriert und missverstanden wird. Den meisten von uns bleibt sie durch Verdrängung und ein perfides Zusammenspiel aus Werbung und die unüberwindbaren Mauern der Tierindustrie verborgen.
 
 ## "Warum sehen wir das Leid nicht?"
 
