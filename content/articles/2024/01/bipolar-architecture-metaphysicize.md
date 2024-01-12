@@ -4,7 +4,7 @@ slug: bipolar-architecture-metaphysicize
 typeName: Preview
 title: 'Bipolar Architecture – "Metaphysicize"'
 subTitle: Post-Metal wie wir ihn uns wünschen
-seoTitle: Arms and Sleepers – "What Tomorrow Brings" – Preview
+seoTitle: Bipolar Architecture – "Metaphysicize" – Post-Metal-Preview
 description: 'Bipolar Architecture – "Metaphysicize" Merkt Euch diese Post-Metal-Platte schon mal! Hört jetzt hier rein und holt Euch vorab alle Insights!'
 excerpt: 'Bipolar Architecture haben was für Euch vorbereitet: Am 2. Februar erscheint mit "Metaphysicize" das zweite, sehnsüchtig erwartete Album der Band aus Istanbul und Berlin auf Pelagic Records! Holt Euch jetzt hier alle Infos dazu und hört schon mal rein. Ich finde, es lohnt sich!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-12/bipolar-architecture-soundsvegan-com-jpg-imagine-081818_151c1b_1024_768/640.webp
