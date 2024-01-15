@@ -47,7 +47,7 @@ The lead single on "Metaphysicize" is called "Death of The Architect". You can a
 
 The second pre-release, "Metaphysicize", just popped up a few hours ago—it also comes with a video. Frontman Sarp shared the following words about it with Pelagic Records:
 
-> "Metaphysicize" was the first song we wrote for this album. It then served as a vital source of inspiration for all other pieces. The song's different perspectives, reflected in Fatih's jazz-influenced drumming, made writing the entire album an eye-opening experience for all of us.
+> "'Metaphysicize' was the first song we wrote for this album. It then served as a vital source of inspiration for all other pieces. The song's different perspectives, reflected in Fatih's jazz-influenced drumming, made writing the entire album an eye-opening experience for all of us.
 >
 > The first song of the album and its namesake, 'Metaphysicize', continues the introspective work of our previous album, 'Depressionland'. However, this time, we're taking control of these dark emotions and exploring the idea of them as cosmic signs of our collective inter-being. The video for 'Metaphysicize' sees three characters take destiny in their hands as their mobile phones become compasses, helping them find inner balance in a world intent on pulling our attention away from ourselves."
 

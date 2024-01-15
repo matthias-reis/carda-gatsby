@@ -47,7 +47,7 @@ Die Lead Single auf "Metaphysicize" heißt "Death of The Architect" und kann ber
 
 Gerade frisch erschienen ist die zweite Vorauskopplung "Metaphysicize" – auch diese gibt es samt offiziellem Video. Frontman Sarp findet dazu folgende Worte:
 
-> "Metaphysicize" war der erste Song, den wir für dieses Album geschrieben haben. Anschließend diente er uns als Inspirationsquelle für alle weiteren Stücke. Die verschiedenen Blickwinkel des Songs, die sich in Fatihs von Jazz beeinflusstem Schlagzeugspiel widerspiegeln, machten das Schreiben des gesamten Albums zu einer augenöffnenden Erfahrung für uns alle.
+> "'Metaphysicize' war der erste Song, den wir für dieses Album geschrieben haben. Anschließend diente er uns als Inspirationsquelle für alle weiteren Stücke. Die verschiedenen Blickwinkel des Songs, die sich in Fatihs von Jazz beeinflusstem Schlagzeugspiel widerspiegeln, machten das Schreiben des gesamten Albums zu einer augenöffnenden Erfahrung für uns alle.
 >
 > Mit diesem ersten Song auf der Platte und seinem Namensgeber setzen wir die introspektive Arbeit unseres ersten Albums 'Depressionland' fort. Das Video zu "Metaphysicize" zeigt drei Charaktere, die ihr Schicksal selbst in die Hand nehmen, indem sie ihre Mobiltelefone als Kompassen nutzen. Sie helfen, ihr inneres Gleichgewicht in einer Welt zu finden, die unsere Aufmerksamkeit von uns selbst ablenkt."
 
