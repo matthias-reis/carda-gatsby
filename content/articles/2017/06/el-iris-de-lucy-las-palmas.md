@@ -113,7 +113,7 @@ Kurze Zeit nach ihrer Taufe wurde sie durch die Ätiopier der Region Afar in _Di
 
 "Du bist wunderbar" sagen diese Kunstwerke. Sie regen zum Denken an und zeigen Afrika aus dem Blickwinkel von Frauen, die einen großen Beitrag leisten beim kulturellen Aufbau ihres Kontinents. Transportiert werden ihre Aussagen mit Hilfe von Instalationen, Fotos, Bildern, Zeichnungen, Skulpturen und Videokunst.
 
-Die Künstlerinnen bringen die unterschiedlichsten Hintergründe mit. Mit ihrer Kunst hinterfragen sie Geschlechterrollen, Identitiäten, Ethnien, Körper, Grenzen, den Feminismus, die Gegenwart sowie postkoloniale Fragestellungen, Migration und Gefühle.
+Die Künstlerinnen bringen die unterschiedlichsten Hintergründe mit. Mit ihrer Kunst hinterfragen sie Geschlechterrollen, Identitiäten, Körper, Grenzen, den Feminismus, die Gegenwart sowie postkoloniale Fragestellungen, Migration und Gefühle.
 
 Ausgestellt wurden die Künstlerinnen Jane Alexander, Ghada Amer, Berry Bickle, Zoulikha Bouabdellah, Loulou Cherinet, Teresa Correa, Safaa Erruas, Pélagie Gbaguidi, Amal Kenawy, Kapwani Kiwanga, Nicène Kossentini, Mwangi Hutter, Michèle Magema, Fatima Mazmouz, Julie Mehretu, Myriam Mihindou, Aida Muluneh, Wangechi Mutu, Otobong Nkanga, Yapci Ramos, Tracey Rose, Berni Searle, Sue Williamson, Billie Zangewa und Amina Zoubir.
 
