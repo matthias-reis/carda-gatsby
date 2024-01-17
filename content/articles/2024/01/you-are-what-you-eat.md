@@ -41,7 +41,7 @@ Eine besonders wichtige Erkenntnis der Forschungsarbeit liegt für die Wissensch
 
 Loma Linda ist Euch vielleicht schon als [Blue Zone](/2023/04/blue-zones/) ein Begriff geworden – die Menschen erreichen dort aufgrund ihrer Ernährung ein besonders hohes Alter. Die Bewohner gelangen sehr einfach an gesunde und pflanzliche Vollwertkost. In San Bernadino ist hingegen genau das Gegenteil der Fall. Der Gründungsort von Mac Donald's ist bekannt für seine "Lebensmittelwüsten". Es gibt dort vor allem verarbeitete Lebensmittel und Fast Food, während man Obst und Gemüse nur sporadisch findet.
 
-Der Begriff "Lebensmittelwüsten" fällt auch immer wieder im Kontext von Forschungen rund um die in den USA immer weiter vordringende "Lebensmittel-Apartheid". Die Lebensmittelgerechtigkeits-Expertin Karen Washington prägte den Begriff. Sie äußerte sich dazu gegenüber dem Guardian wie folgt:
+Der Begriff "Lebensmittelwüsten" fällt auch immer wieder im Kontext von Forschungen rund um die in den USA immer weiter vordringende "Lebensmittel-Apartheid". Die Lebensmittelgerechtigkeits-Expertin Karen Washington prägte den Begriff. Sie äußerte sich dazu gegenüber dem Guardian[^2] wie folgt:
 
 > "Wenn man sich mit der'Lebensmittel-Apartheid' beschäftigt, kommt man der Ursache einiger Probleme im Zusammenhang mit dem Lebensmittelsystem auf die Spur. Betrachtet man das gesamte Lebensmittelsystem hinsichtlich Ethnie, Geografie, Glaube und Wirtschaft, stellt man fest, dass einer von fünf Haushalten von BIPoC in den USA lebt in einer "Lebensmittelwüste lebt."
 
@@ -100,3 +100,4 @@ Neben diesen beiden gesundheitlichen Aspekten gibt es noch viele weitere, die la
 Wenn Ihr neugierig geworden seid und Euch "You Are What You Eat" gerne anschauen möchtet: Die Food-Dokureihe ist seit dem 1. Januar auf Netflix verfügbar.
 
 [^1]: [Studie Science Daily: "Twin research indicates that a vegan diet improves cardiovascular health"](https://www.sciencedaily.com/releases/2023/11/231130113042.htm)
+[^2]: [Guardian Artikel: "Food apartheid: the root of the problem with America's groceries"](/society/2018/may/15/food-apartheid-food-deserts-racism-inequality-america-karen-washington-interview)
