@@ -43,7 +43,7 @@ Loma Linda ist Euch vielleicht schon als [Blue Zone](/2023/04/blue-zones/) ein B
 
 Der Begriff "Lebensmittelwüsten" fällt auch immer wieder im Kontext von Forschungen rund um die in den USA immer weiter vordringende "Lebensmittel-Apartheid". Die Lebensmittelgerechtigkeits-Expertin Karen Washington prägte den Begriff. Sie äußerte sich dazu gegenüber dem Guardian[^2] wie folgt:
 
-> "Wenn man sich mit der'Lebensmittel-Apartheid' beschäftigt, kommt man der Ursache einiger Probleme im Zusammenhang mit dem Lebensmittelsystem auf die Spur. Betrachtet man das gesamte Lebensmittelsystem hinsichtlich Ethnie, Geografie, Glaube und Wirtschaft, stellt man fest, dass einer von fünf Haushalten von BIPoC in den USA lebt in einer "Lebensmittelwüste lebt."
+> "Wenn man sich mit der'Lebensmittel-Apartheid' beschäftigt, kommt man der Ursache einiger Probleme im Zusammenhang mit dem Lebensmittelsystem auf die Spur. Betrachtet man das gesamte Lebensmittelsystem hinsichtlich Bevölkerungsgruppen, Geografie, Glaubensrichtungen und Wirtschaft, stellt man fest, dass einer von fünf Haushalten von BIPoC in den USA lebt in einer "Lebensmittelwüste lebt."
 
 ## Lebensmittelproduktionssysteme sind ethisch bedenklich und gefährlich
 
