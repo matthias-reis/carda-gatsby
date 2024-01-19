@@ -4,7 +4,7 @@ slug: a-burial-at-sea-interview-en
 typeName: Interview
 title: 'A Burial At Sea About Their New Album, "Close To Home"'
 subTitle: '"The biggest motivation is our love for our band!"'
-seoTitle: 'A Burial At Sea - Interview - "Close To Home" - Post Metal'
+seoTitle: 'A Burial At Sea - Interview - "Close To Home" - Post Rock'
 description: 'The new A Burial At Sea album, "Close To Home", is ready! Read my interview with Dara and Patrick and get all the insights!'
 excerpt: 'A Burial At Sea are back with their new album, "Close To Home"! I had the chance to interview Dara and Patrick. We talked about their creative process, the album concept and their tour plans. Get all the details here!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-19/a-burial-at-sea-interview-soundsvegan-com-jpg-imagine-e8e8e8_9f9f9f_1024_768/640.webp
@@ -20,7 +20,7 @@ labels:
   - A Burial At Sea
   - Post-Rock
   - Pelagic
-  - Post-Metal
+  - Post-Rock
   - Heavy Music
   - Interview
   - Interviews

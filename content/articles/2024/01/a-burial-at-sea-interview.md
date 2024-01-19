@@ -4,7 +4,7 @@ slug: a-burial-at-sea-interview
 typeName: Interview
 title: 'A Burial At Sea über ihr neues Album "Close To Home"'
 subTitle: '"Die Liebe zu unserer Band ist unsere größte Motivation"'
-seoTitle: 'A Burial At Sea – Interview – Post-Metal – "Close To Home"'
+seoTitle: 'A Burial At Sea – Interview – Post-Rock – "Close To Home"'
 description: 'A Burial At Sea sind mit ihrem neuen Album "Close To Home" zurück. Lest jetzt das Interview und holt Euch spannende Insights über den Entstehungsprozess der Platte!'
 excerpt: 'A Burial At Sea sind wieder da und haben ihr neues Album "Close To Home" dabei! Ich habe mich mit Dara und Patrick unterhalten und einiges über ihren kreativen Prozess und ihre Motivation erfahren – und über die Idee für das Albumkonzept! Holt Euch hier alle Infos und hört direkt rein!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-19/a-burial-at-sea-interview-soundsvegan-com-jpg-imagine-e8e8e8_9f9f9f_1024_768/640.webp
@@ -20,7 +20,7 @@ labels:
   - A Burial At Sea
   - Post-Rock
   - Pelagic
-  - Post-Metal
+  - Post-Rock
   - Heavy Music
   - Interview
   - Interviews - Tom Peters

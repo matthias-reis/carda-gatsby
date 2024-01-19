@@ -1,7 +1,7 @@
 {
   "name": "carda-gatsby",
   "description": "Blog project for soundsvegan.com - based on gatsby and netlify cms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Matthias Reis",
   "dependencies": {
     "@ctrl/tinycolor": "^3.4.0",
