@@ -58,6 +58,8 @@ Das hört und das spürt man: Die teilweise zarten und bis ins Melancholische re
 
 Das Ganze geschieht in einer Geschwindigkeit und Präzision, die einem beim Hören den Atem raubt. A Burial At Sea spielen mit einer derartigen Begeisterung und fühlen sich absolut sicher in dem, was sie tun. Es ist eine Freude, dieser Band beim Spielen zuzuhören – fühlt sich an, wie nach Hause kommen.
 
+**Tipp:** Verpasst nicht mein [Interview mit A Burial At Sea](/2024/01/a-burial-at-sea-interview/)! Ihr könnt es direkt hier lesen!
+
 ## "A Burial At Sea – "páirc béal uisce"
 
 <iframe

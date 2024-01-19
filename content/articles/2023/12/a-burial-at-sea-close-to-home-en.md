@@ -58,6 +58,8 @@ You can hear and feel this: the melodies, some of them delicate, and melancholic
 
 The whole thing happens quickly and precisely, taking your breath away as you listen. A Burial At Sea play with such infecting enthusiasm, feeling absolutely confident in what they do. Listening to this band is pure joy—feels like coming home!
 
+**Reading recommendation:** Don't miss my [interview with A Burial At Sea](/2024/01/a-burial-at-sea-interview-en/)! You can check it out here!
+
 ## "A Burial At Sea – "páirc béal uisce"
 
 <iframe
