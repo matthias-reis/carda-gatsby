@@ -3,7 +3,7 @@ date: 2024-01-19T12:30:00.766Z
 slug: a-burial-at-sea-interview-en
 typeName: Interview
 title: 'A Burial At Sea About Their New Album, "Close To Home"'
-subTitle: '"The biggest motivation is our love for our band!"'
+subTitle: '"The Biggest Motivation Is Our Love for Our Band!"'
 seoTitle: 'A Burial At Sea - Interview - "Close To Home" - Post Rock'
 description: 'The new A Burial At Sea album, "Close To Home", is ready! Read my interview with Dara and Patrick and get all the insights!'
 excerpt: 'A Burial At Sea are back with their new album, "Close To Home"! I had the chance to interview Dara and Patrick. We talked about their creative process, the album concept and their tour plans. Get all the details here!'
