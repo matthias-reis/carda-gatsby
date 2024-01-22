@@ -36,7 +36,7 @@ Die Firma fährt eine Tierschutz-Strategie, die leider weiterhin die Verarbeitun
 
 ## Begriffe werden gedehnt
 
-H&amp;M spricht sich nicht als veganer Konzern aus, nutzt aber Worte wie "umweltbewusst" und "cruelty-free" für seine Werbekampagnen. Das kann zu Verwirrung der Konsumenten führen, die sich auf derartige Label verlassen. [Wer auf der Suche nach Alternativen ist und gerne wirklich tierleidfreie und nachhaltige Kleidung kaufen möchte, findet hier einige Beispiele](/2018/02/faire-klamotten/).
+H&amp;M spricht sich nicht als veganer Konzern aus, nutzt aber Worte wie "umweltbewusst" und "cruelty free" für seine Werbekampagnen. Das kann zu Verwirrung der Konsumenten führen, die sich auf derartige Label verlassen. [Wer auf der Suche nach Alternativen ist und gerne wirklich tierleidfreie und nachhaltige Kleidung kaufen möchte, findet hier einige Beispiele](/2018/02/faire-klamotten/).
 
 [H&amp;M baut Tierrechtsstandards aus](/2015/09/hm-baut-tierrechtsstandards-aus/)
 
