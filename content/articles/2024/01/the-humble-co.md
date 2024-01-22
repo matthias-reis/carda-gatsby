@@ -45,7 +45,7 @@ Während seiner Zeit als Volontär in Jamaika stellte der Zahnarzt Noel Abdayem 
 
 Seine Lösung war eine Zahnbürste aus ökologischen Materialien, die ebenso gut putzt, wie konventionelle Zahnbürsten. Gleichzeitig wollte er Menschen in Not mit der NGO Humble Smile Foundation unterstützen.
 
-Seitdem hat The Humble Co. über 60 Millionen Produkte verkauft. Ihr findet sie neben dem stationären Einzelhandel zum Beispiel auch online bei [The Big Green Smile](https://tidd.ly/493Ym7y).
+Seitdem hat The Humble Co. über 60 Millionen Produkte verkauft. Ihr findet sie neben dem stationären Einzelhandel zum Beispiel auch online bei [Big Green Smile](https://tidd.ly/493Ym7y).
 
 ## The Humble Co Zahnpasta im Glas – frische Minze mit Fluorid 50 ml
 
