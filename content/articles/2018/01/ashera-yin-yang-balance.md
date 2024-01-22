@@ -1,8 +1,6 @@
 ---
 ogTitle: Ashéra Cosmetics - Mein Produkttest - Luxus ohne Tierversuche
-excerpt: "Ich habe jetzt die Ashéra Yin Yang Balance Produkte getestet. Der
-  Clou: Ihr könnt ein luxuriöses Pflegeset gewinnen. Kommentiert am besten
-  einfach!"
+excerpt: 'Ich habe jetzt die Ashéra Yin Yang Balance Produkte getestet. Der Clou: Ihr könnt ein luxuriöses Pflegeset gewinnen. Kommentiert am besten einfach!'
 ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_6__l.jpg
 isAffiliate: false
 path: /2018/01/ashera-yin-yang-balance/
@@ -38,9 +36,7 @@ labels:
   - Yin Yang Balance
 language: de
 type: Artikel
-description: "Ich habe jetzt die Ashéra Yin Yang Balance Produkte getestet. Der
-  Clou: Ihr könnt ein luxuriöses Pflegeset gewinnen. Kommentiert am besten
-  einfach!"
+description: 'Ich habe jetzt die Ashéra Yin Yang Balance Produkte getestet. Der Clou: Ihr könnt ein luxuriöses Pflegeset gewinnen. Kommentiert am besten einfach!'
 ---
 
 **Ich habe jetzt zwei Produkte von Ashéra Cosmetics getestet. Wie sie bei mir angekommen sind, möchte ich Euch heute gerne verraten. Außerdem verlose ich ein luxuriöses Pflegepaket! Wie Ihr gewinnen könnt, erfahrt Ihr weiter unten\*.**
@@ -57,7 +53,7 @@ Vor Kurzem las ich mit großem Interesse über zwei für mich komplett neue Kosm
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAoEAACAQQABQQCAwAAAAAAAAABAgMABAUREhMhMTIGQVFhBxVxkdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUABP/EAB8RAQACAQQDAQAAAAAAAAAAAAEAAhESEyExBBRxkf/aAAwDAQACEQMRAD8A5ni8Y8jRpFbySsx0qIpJY/A13qlt/T99zxb/AKbIC5KlxE0EgYga2QCNnX1U5Y5O4u4FhtFkkluIxoqxMgBG979te/8AFOj+SMtjYGimOPuISY+QJINiGRT0aEA+XyRXFuZeZfPMTqp+xpd4K4g5a3WJnti0YdA6spZd+X3v5pJf4WVwxS3k18BSdVRwXWI9R2k9+kMEXqbiXmxTruGUa0qqGJKDSjWug4j096i8tNjsixJx6WssZYTRSdFQjy2BrXai3Am94TDXn7IC/wAi9pBbRQovG8Wy7dRo/X+0tgyE8V6l3IedIvbjooptaVx1I+p5m23ztyl/BcRAIVAQqD5DfT+t9KrMkj5u0uJGlkt7lQUkkjY6lUDsy+/aiil3CqBC1KZZ/9k="
 />
 
-Da für mich an erster Stelle immer steht, ob ein Produkt vegan und crueltyfree ist, startete ich als erstes eine Produktanfrage. Ich teilte Ashera Cosmetics mit, dass ich sehr an einem Test der Produkte interessiert wäre, insofern das Produkt selbst sowie natürlich die Inhaltsstoffe frei von Inhaltsstoffen tierischer Herkunft sind und nicht an Tieren getestet wurden. Die Antwort kam prompt und fiel direkt aus:
+Da für mich an erster Stelle immer steht, ob ein Produkt vegan und cruelty free ist, startete ich als erstes eine Produktanfrage. Ich teilte Ashera Cosmetics mit, dass ich sehr an einem Test der Produkte interessiert wäre, insofern das Produkt selbst sowie natürlich die Inhaltsstoffe frei von Inhaltsstoffen tierischer Herkunft sind und nicht an Tieren getestet wurden. Die Antwort kam prompt und fiel direkt aus:
 
 <blockquote>
 

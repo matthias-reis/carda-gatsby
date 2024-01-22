@@ -16,7 +16,7 @@ labels:
   - antoni
   - bayerischer Bauernverband
   - Chocjes
-  - crueltyfree
+  - cruelty free
   - Ernährung & Gesundheit
   - Gerald Scarfe
   - go vegan

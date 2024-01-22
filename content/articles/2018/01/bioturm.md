@@ -17,7 +17,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_
 labels:
   - Bioturm
   - Bodylotion
-  - crueltyfree
+  - cruelty free
   - Duschgel
   - Fair Fashion & Beauty
   - gegen Tierversuche

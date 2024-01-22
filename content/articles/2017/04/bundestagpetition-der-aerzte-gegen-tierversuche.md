@@ -15,7 +15,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_101
 labels:
   - Ärzte gegen Tierversuche
   - Bundestag
-  - crueltyfree
+  - cruelty free
   - go vegan
   - Tierrechte
   - Tierrechte

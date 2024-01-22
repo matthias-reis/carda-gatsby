@@ -14,7 +14,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage:
 labels:
   - Antifaschismus & Feminismus
-  - crueltyfree
+  - cruelty free
   - Deutsche Umwelthilfe e. V.
   - Klima- & Umweltschutz
   - Meeresschutz

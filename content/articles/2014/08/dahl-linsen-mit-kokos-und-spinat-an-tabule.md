@@ -18,7 +18,7 @@ labels:
   - Anne kocht
   - Bulgur
   - Couscous
-  - crueltyfree
+  - cruelty free
   - Dahl-Linsen
   - Essen
   - foodblog

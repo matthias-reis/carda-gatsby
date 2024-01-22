@@ -14,7 +14,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage: null
 labels:
   - California Market Center
-  - crueltyfree
+  - cruelty free
   - Emmanuelle Rienda
   - Fair Fashion & Beauty
   - L.A.

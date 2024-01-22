@@ -16,7 +16,7 @@ labels:
   - Aloe Vera
   - Anti-Aging
   - Cruelty Free
-  - crueltyfree
+  - cruelty free
   - empfindliche Haut
   - Fair Fashion & Beauty
   - Homeoffice

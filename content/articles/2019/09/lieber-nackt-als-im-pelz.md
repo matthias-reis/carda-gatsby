@@ -15,7 +15,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2019_09_Design-ohne-
 labels:
   - '1994'
   - Cruelty Free
-  - crueltyfree
+  - cruelty free
   - Emily Lucia Harnack
   - Emma Sjöberg
   - Fabienne Terwinghe

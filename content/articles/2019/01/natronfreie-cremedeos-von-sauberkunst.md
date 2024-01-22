@@ -17,7 +17,7 @@ ogImage:
 labels:
   - Cremedeos ohne Natron
   - Cruelty Free
-  - crueltyfree
+  - cruelty free
   - Deo ohne Aluminium
   - Deocreme
   - Deocremes

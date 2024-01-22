@@ -14,7 +14,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage:
 labels:
   - Aktivismus
-  - crueltyfree
+  - cruelty free
   - Earthlings
   - Ernährung & Gesundheit
   - govegan

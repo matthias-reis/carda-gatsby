@@ -30,7 +30,7 @@ labels:
   - Berlin Blogger Event
   - Bloggerevent
   - Cruelty Free
-  - crueltyfree
+  - cruelty free
   - Deocreme
   - Duft
   - Fair Fashion & Beauty

@@ -63,7 +63,7 @@ advertisement: true
 
 **Wie viele von Euch mitbekommen haben, habe ich eine Schwäche für Belgien. Seit ich das erste Mal dort war, bin ich fasziniert und auch [aufs Festival](/tag/dunk/) zieht es mich dort immer wieder. Ich mag die Filme, das Bier, die Schokolade, die Menschen und die Kultur. Jetzt habe ich die Belgische Versandapotheke Newpharma, die jetzt auch bei uns Fuß fassen möchte, dem Vegan-Test unterzogen.**
 
-Als Allererstes möchte ich den freundlichen persönlichen Kontakt erwähnen, der mir bei der Auswahl meiner Produkte sehr geholfen hat. Derzeit ist im Shop noch nicht alles beschriftet, die Inhaltsstoff-Listen fehlen zum Teil noch und es ist noch nicht alles gekennzeichnet, was vegan und crueltyfree ist. Mitarbeiterin Julie hat mir sehr geholfen, trotzdem fündig zu werden. Vielen Dank an dieser Stelle!
+Als Allererstes möchte ich den freundlichen persönlichen Kontakt erwähnen, der mir bei der Auswahl meiner Produkte sehr geholfen hat. Derzeit ist im Shop noch nicht alles beschriftet, die Inhaltsstoff-Listen fehlen zum Teil noch und es ist noch nicht alles gekennzeichnet, was vegan und cruelty free ist. Mitarbeiterin Julie hat mir sehr geholfen, trotzdem fündig zu werden. Vielen Dank an dieser Stelle!
 
 <RemoteImage
   alt={`Newpharma`}
@@ -73,7 +73,7 @@ Als Allererstes möchte ich den freundlichen persönlichen Kontakt erwähnen, de
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAgCBgMEB//EAC4QAAIBAgQGAAMJAAAAAAAAAAECAwQRAAUGIQcSEyIxQQgUcUJRU2GBkZKTwf/EABcBAQEBAQAAAAAAAAAAAAAAAAQCAwb/xAAeEQACAgICAwAAAAAAAAAAAAAAAQMRAgQhMRITQv/aAAwDAQACEQMRAD8AXTTOnsz1LmYy/JKUVNYY2l6fUSPtXybsQPeLXLwj1rFGWlyaNVvyk/PU/vb8T78Z/h4qAvE2jU+HpalT/UT/AJhpq2JflbrFCbODdkF73vf9Di0rJb5ormV0wGm9PR5k4psxgoooKuHkLXlRQrXYG3gA7YVXiJPNV64z2eoUI71cll27Uv2D+PLhiNUZnUJWV8KTW72MaljytdFPaea3nC+cTKGootW1ks3TaGrYzwPG4YMhNh9DtuDvgseXlJkq6GSa0mEaka4ZoaE1DLpXUtNm8FPHUvCsidKRiqsHQodxv9rHVpuPWYyxKr5FQFR6Woff9xgwYQm0EpMlTZkc/oYamlrY4eq/NURQSFGCshBUkC9gfVt9/wAsUriZHDUwU1SGSKSEFEjtbnXmHj3fcn6ecGDGP0dTtSezRvJdpH//2Q=="
 />
 
-Die folgenden Produkte sind bei Newpharma vegan und crueltyfree, können also bedenkenlos bestellt werden:
+Die folgenden Produkte sind bei Newpharma vegan und cruelty free, können also bedenkenlos bestellt werden:
 
 - Omuh
 - Lady Green
@@ -101,7 +101,7 @@ Ich persönlich habe mich für die folgenden Produkte entschieden:
 
 Wie Ihr seht, kann kostenfrei an einen Paketshop, nach Hause oder ins Büro bestellt werden. Berufstätige haben also nicht das Problem, ihr Paket in einer Postfiliale am anderen Ende der Stadt abholen zu müssen, sondern können selbst entscheiden, wohin geliefert wird.
 
-Nach einem Tag erhielt ich eine Nachricht von Mitarbeiterin Julie. Zwei der von mir bestellten Produkte, die Wimperntusche von Lady Green und die Sheabutter von Karethic, waren nicht mehr lieferbar. Kein Problem. Sie hatte sofort einen weiteren veganen Hersteller für meinen Test parat, der zu einem Großteil mit natürlichen Inhaltsstoffen arbeitet. Anstatt der beiden von mir ausgesuchten Produkte packte Julie nun ein Produktpaket von Nuxe mit ein. Zuvor wurde noch mit dem Retail Manager aus dem Hause Nuxe Kontakt aufgenommen, der uns bestätigte, dass die Produkte vegan und crueltyfree sind. Auch auf [Mikroplastik](/2018/05/mikroplastik-in-der-kosmetik/) wird verzichtet.
+Nach einem Tag erhielt ich eine Nachricht von Mitarbeiterin Julie. Zwei der von mir bestellten Produkte, die Wimperntusche von Lady Green und die Sheabutter von Karethic, waren nicht mehr lieferbar. Kein Problem. Sie hatte sofort einen weiteren veganen Hersteller für meinen Test parat, der zu einem Großteil mit natürlichen Inhaltsstoffen arbeitet. Anstatt der beiden von mir ausgesuchten Produkte packte Julie nun ein Produktpaket von Nuxe mit ein. Zuvor wurde noch mit dem Retail Manager aus dem Hause Nuxe Kontakt aufgenommen, der uns bestätigte, dass die Produkte vegan und cruelty free sind. Auch auf [Mikroplastik](/2018/05/mikroplastik-in-der-kosmetik/) wird verzichtet.
 
 ## Das Paket von Newpharma ist da
 

@@ -18,7 +18,7 @@ labels:
   - After Sun
   - after sun vegan
   - Aloe Vera
-  - crueltyfree
+  - cruelty free
   - Fair Fashion & Beauty
   - Gesichtspflege
   - Santaverde

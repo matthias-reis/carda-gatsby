@@ -14,7 +14,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 ogImage:
 labels:
   - 10 Fakten über Veganismus
-  - crueltyfree
+  - cruelty free
   - Ernährung
   - Ernährung & Gesundheit
   - Gerüchte Veganer

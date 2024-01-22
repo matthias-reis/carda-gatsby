@@ -15,7 +15,7 @@ ogImage: null
 labels:
   - Beauty-Wahnsinn
   - Botox
-  - crueltyfree
+  - cruelty free
   - Fair Fashion & Beauty
   - Gift
   - Mäuse
