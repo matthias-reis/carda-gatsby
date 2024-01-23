@@ -23,7 +23,7 @@ labels:
   - Meine Kartenmanufaktur
 
 focusKeyword: 'Nachhaltige Druckverfahren'
-advertisement: true
+advertisement: false
 affiliate: false
 language: de
 ---
