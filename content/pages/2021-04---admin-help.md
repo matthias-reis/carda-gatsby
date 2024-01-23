@@ -14,10 +14,31 @@ status: publish
 
 ### Einfache Markdown-Auszeichnungen
 
-- Auszeichnung Fett: `**fetter text**` **fetter text**
-- Auszeichnung kursiv wird nicht unterstützt
-- Interner Link: `[Link-Text](/linkziel/)` [Link-Text](/admin-help/)
-- Externer Link (genauso): `[Link-Text](https://www.google.de)` [Link-Text](https://www.google.de)
+Auszeichnung Fett: **fetter text**
+
+```md
+**fetter text**
+```
+
+Auszeichnung kursiv wird nicht unterstützt
+
+Interner Link: [Link-Text](/admin-help/)
+
+```md
+[Link-Text](/linkziel/)
+```
+
+Externer Link (genauso): [Link-Text](https://www.google.de)
+
+```md
+[Link-Text](https://www.google.de)
+```
+
+Externer Link mit Do-Follow Policy: [Link-Text](https://www.google.de 'follow')
+
+```md
+[Link-Text](https://www.google.de 'follow')
+```
 
 ### Absätze
 
@@ -138,7 +159,14 @@ Aktuell werden Playlisten von Sptify und Apple unterstützt. Man kann auch beide
 
 **YouTube iframe immer so wie hier einbinden**
 
-<iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUJYtj4Olaj2LyAl0mpJpHxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe
+  style="width: 100%; aspect-ratio: 16 / 9"
+  src="https://www.youtube.com/embed/videoseries?list=PLGfxe66d_oUJYtj4Olaj2LyAl0mpJpHxA"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+></iframe>
 
 ### Bedingter Trennstrich
 

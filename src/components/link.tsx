@@ -38,7 +38,14 @@ const ExternalLink: React.FC<{
   </StyledExternalLink>
 );
 
-export const Link: React.FC<{ href: string }> = ({ href, children }) => {
+export const Link: React.FC<{ href: string; title?: string }> = ({
+  href,
+  children,
+  title,
+}) => {
+  // title notation is being used as a hint for the links referrer status
+  const rel =
+    title === 'follow' ? 'noopener' : 'noreferrer, noopener, nofollow';
   if (
     (href || '').startsWith('http') ||
     (href || '').startsWith('mailto') ||
@@ -49,7 +56,7 @@ export const Link: React.FC<{ href: string }> = ({ href, children }) => {
         href={href}
         target="_blank"
         onClick={() => event('link/click/external', 'link', href)}
-        rel="noreferrer, noopener, nofollow"
+        rel={rel}
       >
         {children}
       </ExternalLink>
