@@ -4,7 +4,7 @@ slug: nachhaltige-druckverfahren
 typeName:
 title: 'Nachhaltige Druckverfahren bei der Digital Print Group'
 subTitle: 'Klimaschutz für Grußkarten, Zeitschriften & Co.'
-seoTitle: 'Nachhaltige Druckverfahren – Vegane Grußkarten von Meine Kartenmanufaktur'
+seoTitle: 'Nachhaltige Druckverfahren – vegane Grußkarten von Meine Kartenmanufaktur'
 description: 'Nachhaltige Druckverfahren gehören zu aktivem Klimaschutz dazu. Erfahrt hier, wie Ihr Eure Karten und Kalender mit pflanzlichen Farben drucken lassen könnt – in hervorragender Qualität!'
 excerpt: 'Nachhaltige Druckverfahren gehören zu aktivem Klimaschutz dazu. Wenn Ihr auf der Suche nach einer Druckerei seid, die Eure Grußkarten und Kalender so nachhaltig wie möglich ausdruckt - mit pflanzlichen Farben – habe ich etwas für Euch. In diesem Artikel stelle ich Euch die Digital Print Group und Meine Kartenmanufaktur vor.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-23/nachhaltige-druckverfahren-digital-print-group-meine-kartenmanufaktur-soundsvegan-com-jpg-imagine-f8f8f8_c2b1b3_1024_768/640.webp
