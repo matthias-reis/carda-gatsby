@@ -24,7 +24,7 @@ labels:
 
 focusKeyword: 'Nachhaltige Druckverfahren'
 advertisement: true
-affiliate: true
+affiliate: false
 language: de
 ---
 
