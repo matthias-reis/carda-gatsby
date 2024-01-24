@@ -19,7 +19,7 @@ export const FooterContent: React.FC = () => (
         <Image src={signatureImage} />
       </div>
       <div>
-        <H3Deco>Über mich</H3Deco>
+        <H3Deco>Motto</H3Deco>
         <p>
           Sounds Vegan ist für mich zum Lebensmotto geworden. In meinem Blog
           dreht sich alles um veganes Leben, Tierrechte, Klimaschutz und Musik –
