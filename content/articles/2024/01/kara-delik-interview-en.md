@@ -33,7 +33,7 @@ language: en
 languageLink: /2024/01/kara-delik-interview/
 ---
 
-**Kara Delik is the already legendary international trio that has conquered the Berlin music scene in the blink of an eye. The band, consisting of Barış Öner (Istanbul Ghetto Club, [saz]), Andi Sommer (Henry Fonda, Yacht Communism, [bass, synths]) Eilis Frawley (Anika, Laura Lee & The Jettes, [drums]), combines complex rhythms with exciting soundscapes and effects. The three skilfully enrich the whole thing with their personal mixture of post-punk and Anatolian sounds. They recently celebrated a great success with their album "All The Singularities (I – IV)" and will soon be on tour—time for an interview on Sounds Vegan!**
+**Kara Delik is this international trio you certainly heard of that has concered the Berlin music scene in the blink of an eye. The band, consisting of Barış Öner (Istanbul Ghetto Club, [saz]), Andi Sommer (Henry Fonda, Yacht Communism, [bass, synths]) Eilis Frawley (Anika, Laura Lee & The Jettes, [drums]), combines complex rhythms with exciting soundscapes and effects. The three skilfully enrich the whole thing with their personal mixture of post-punk and Anatolian sounds. They recently celebrated a great success with their album "All The Singularities (I – IV)" and will soon be on tour—time for an interview on Sounds Vegan!**
 
 **Anne:** Hello! Thank you for taking the time for this interview! How has your day been so far? What are your plans for today?
 
