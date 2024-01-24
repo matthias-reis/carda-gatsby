@@ -13,8 +13,8 @@ ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-19/a-burial-a
 labels:
   - Band
   - Bands
-  - Review
-  - Reviews
+  - Interview
+  - Interviews
   - Post-Music
   - Experimental
   - A Burial At Sea
@@ -22,8 +22,6 @@ labels:
   - Pelagic
   - Post-Rock
   - Heavy Music
-  - Interview
-  - Interviews
   - Tom Peters
   - Rachel Dover
   - John Naylor

@@ -29,6 +29,7 @@ labels:
   - Psychische Gesundheit
   - Mentale Gesundheit
   - Interview
+  - Interviews
   - Mental Health
   - Katja Blume
 focusKeyword: Psychologie
