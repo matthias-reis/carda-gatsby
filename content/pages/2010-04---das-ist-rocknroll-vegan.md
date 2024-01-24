@@ -94,9 +94,9 @@ Wer sich jetzt angesprochen fühlt und gerne möchte, dass ich seine Produkte vo
 
 Und nicht nur für **Sounds Vegan** bin ich immer an neuen Kontakten interessiert. Als Freelancerin bin ich immer auf der Suche nach spannenden Textaufträgen. Ihr benötigt starken Content zu einem bestimmten Thema? Ihr seid auf der Suche nach jemandem, der zuverlässig Eure Texte in Eure Homepage oder Euren Shop einpflegt und das fehlerfrei? Dann seid Ihr bei mir an der richtigen Adresse.
 
-Weil ich sehr neugierig bin und liebend gerne neue Produkte ausprobiere, bewerte ich diese nicht nur hier auf Sounds Vegan. Als [offizielle Produktexpertin für idealo.de](https://tidd.ly/3Swfz3O) nehme ich regelmäßig vegane Brands unter die Lupe und schreibe Expertenmeinungen über ihre veganen Produkte. Mein Spezialgebiet: Körper & Pflege – natürlich vegan!
+Weil ich sehr neugierig bin und liebend gerne neue Produkte ausprobiere, bewerte ich diese nicht nur hier auf Sounds Vegan. Als [offizielle Produktexpertin für idealo.de](https://tidd.ly/492ImCI) nehme ich regelmäßig vegane Brands unter die Lupe und schreibe Expertenmeinungen über ihre veganen Produkte. Mein Spezialgebiet: Körper & Pflege – natürlich vegan!
 
-![Produktexpertin Körper & Pflege](https://storage.googleapis.com/cardamonchai-media/2024-01-24/idealo-produktexpertin-anne-reis-soundsvegan-com-jpg-imagine-181818_565a5f_1024_768/640.webp 'Produktexpertin Körper & Pflege')
+![Produktexpertin Körper & Pflege](https://storage.googleapis.com/cardamonchai-media/2024-01-24/idealo-produktexpertin-anne-reis-soundsvegan-com-jpg-imagine-181818_565c63_1024_768/640.webp 'Produktexpertin Körper & Pflege')
 
 ## Alles beginnt mit dem passenden Text
 
