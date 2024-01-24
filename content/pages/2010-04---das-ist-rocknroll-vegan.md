@@ -102,7 +102,7 @@ Weil ich sehr neugierig bin und liebend gerne neue Produkte ausprobiere, bewerte
 
 Ich schreibe, seit ich Buchstaben zu Papier bringen kann. Seit ich denken kann, ist es meine Leidenschaft, Wörter in eine Reihenfolge zu bringen und mit Leben zu bringen. Als meine Leidenschaft dann vor einiger Zeit auch noch zu meinem Beruf wurde, ging für mich ein Traum in Erfüllung, der mich schon lange begleitete.
 
-Der passende Text ist wichtig: Er kann ein Aushängeschild sein, eine Meinung zum Ausdruck bringen oder ein Produkt beschreiben, Geschichten erzählen, Fakten umschreiben und Nachrichten übermitteln. Mein Motto lautet daher "Alles beginnt mit dem richtigen Text". Meine Texte, die online erscheinen, optimiere ich gerne auf Keywords. Doch nicht nur der SEO-Bereich ist mir ein Begriff, auch was HTML, Bildbearbeitung und diverse Content-Management-Systemen angeht, kenne ich mich aus.
+Der passende Text ist wichtig: Er kann ein Aushängeschild sein, eine Meinung zum Ausdruck bringen oder ein Produkt beschreiben, Geschichten erzählen, Fakten umschreiben und Nachrichten übermitteln. Meine Devise lautet daher "Alles beginnt mit dem richtigen Text". Meine Texte, die online erscheinen, optimiere ich gerne auf Keywords. Doch nicht nur der SEO-Bereich ist mir ein Begriff, auch was HTML, Bildbearbeitung und diverse Content-Management-Systemen angeht, kenne ich mich aus.
 
 ## Schreiben ist meine Leidenschaft
 
