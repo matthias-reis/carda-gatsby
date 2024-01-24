@@ -1,11 +1,11 @@
 ---
 title: Das ist Sounds Vegan
-seoTitle: Über Sounds Vegan
+seoTitle: Über Sounds Vegan – Portfolio
 slug: das-ist-sounds-vegan
 path: /das-ist-sounds-vegan/
 fileName: 2010-04---das-ist-rocknroll-vegan.md
-description: Wer schon immer mal einen Blick hinter die Kulissen von Sounds Vegan werfen wollte, hat hier die Chance, mehr über meine Arbeit zu erfahren.
-excerpt: Wer schon immer mal einen Blick hinter die Kulissen von Sounds Vegan werfen wollte, hat hier die Chance, mehr über meine Arbeit zu erfahren.
+description: Sounds Vegan – hier bekommt Ihr einen Blick hinter die Kulissen und erfahrt einiges über meine Erfahrungen als Texterin, was mich antreibt und wie Ihr mit mir in Kontakt treten könnt.
+excerpt: Sounds Vegan – wenn das nach Euch klingt, schaut am besten gleich hier, wie ich Euch mit meinen Texten und meinem Know-How zu veganen Produkte unterstüzten kann!
 focusKeyword: cardamonchai
 labels: []
 type: null
@@ -15,23 +15,13 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors: {}
-thumbnailId: '26234'
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-08-01-anne-reis-tobias-hess-photography-13__m.jpg
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-08-01-anne-reis-tobias-hess-photography-13__l.jpg
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcCBggD/8QALBAAAgEDAgUCBgMBAAAAAAAAAQIDBAURACEGEhMxQVFxBxQiQmHBFSMyM//EABcBAAMBAAAAAAAAAAAAAAAAAAIFBgH/xAAiEQACAQIFBQAAAAAAAAAAAAABAgADBBETIWHwEiMxUbH/2gAMAwEAAhEDEQA/AM+XdFFktDcoyQ2T5Oy6HsdNFWVnSlk5FVGk5PMnKCeQHwTqwPblruHqMLK4khIVEVAWk5vwfbxrvw9/H2K4iaZJaypjP1RYVVGxI2+7fI9NEgJXTeDUID4nb5LrwPwhZ79T1EdVTVlNVpG88UlvlMW6RswibLHmVsbHAYEd8HTVt9dT2z4X2W4W+KskmEIpVgh/syykgk53A2ySM9+2+lVYuKZbLZjcII4kascFekgkCI/MCUzuCvb2yNQYU01HFG1ROWYMsRDsiorFGP0nYPnvg+NbQLBSTCuVTqAT1BRwlHN8tKkktNyZUdJsd/wfbR9ztNNbIDFd0knp6iMSUtdMAzQVCBsjPflxykqdiCfTVutn/KIeO+juNaGmq+BL6tTCsgjpTOme6uv+WB9RpJRvXzgh8R1WtEFIsBrM/QXWSb5e11CxfKQExr0vuw3fPY+ffTR4Cjs9VV3q33WOh6dFUO8bT00sgjQqDnMZHKuRuT+tI+3swracg4PN+tNr4bRLcuJeMUq2kIe2GVum7Rkt9HlSPU7dtUJHbPN5OqxzBjrzCf/Z
+image: https://storage.googleapis.com/cardamonchai-media/2024-01-24/anne-reis-soundsvegan-com-4-jpg-imagine-181818_343434_1024_768/640.webp
+copyright: 'A Burial At Sea'
+ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-24/anne-reis-soundsvegan-com-og-jpg-imagine-484848_525254_1200_628/640.webp
 subTitle: Mein Portfolio
 ---
 
-**Moin! Ich bin Anne! Auf meiner Webseite dreht sich alles um veganen Lifestyle, Musik, Slow Fashion, vegan Beauty, vegane Trends und Slow Travel. Ich veröffentliche Artikel, Interviews, Fotostrecken und Rezepte. Tierrechte, Klimaschutz und Nachhaltigkeit liegen mir besonders am Herzen – daher findet Ihr zu diesen Themen auch immer wieder Beiträge hier auf Sounds Vegan.**
-
-<RemoteImage
-  alt="anne-bloggt-cardamonchai-rock-n-roll-vegan"
-  size="medium"
-  title="Ein Blick hinter die Kulissen"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-08-22-marwood-hill-gardens-135__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-08-22-marwood-hill-gardens-135__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQcG/8QAKBAAAgEDBAEEAgMBAAAAAAAAAQIDBAURABIhMQYHFCJRQWETQmKx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQX/xAAcEQACAwADAQAAAAAAAAAAAAABAgADERITMkH/2gAMAwEAAhEDEQA/AKv02Sle4LTyUrSFSiSqrEBCwBB654znnWgWrx9Frr7do6cBlX2oQqNxUc5z+OyP3nXM+kM5S9XSKspoJWaddryL8m+PxPHB611/n0LW/wAMu1fTyNRmOqilBQFOFkTOPvgdazG0DI0mFtMenk10s9gLS223+2pqaOOlTexaU4ACn/QAJIGsi9d79UXaKgQQQQ0UU38mY+WmJ45OelHOPs6keV+R0Ivq22ouwVSrL7hEKoVPYXI2bgcfMHrOqTyF47n41LGHVoaeVWiqC2ctuCsox+x2BjBHWme6ziAxgrqK1bU+TNbZ5VdqZ90d2q43I270nZTj6JzqSL1VSSP7ieWYE7iZJC/P3ydGjT6wJirldpZaaJFkVhC4eMk8xtn+p/A+xpdJfdpENQ8uxTtK792Oe1J/4dGjVOob0JJ//9k="
-/>
+**Moin! Ich bin Anne! Auf meiner Webseite Sounds Vegan dreht sich alles um veganen Lifestyle, Musik, Slow Fashion, vegan Beauty, vegane Trends und Slow Travel. Ich veröffentliche Artikel, Interviews, Fotostrecken und Rezepte. Tierrechte, Klimaschutz und Nachhaltigkeit liegen mir besonders am Herzen – daher findet Ihr zu diesen Themen auch immer wieder Beiträge hier auf Sounds Vegan.**
 
 Ich schaffe es nicht immer, topaktuell zu sein, aber ich denke, diesem Anspruch muss eine persönliche Webseite auch nicht zwingend entsprechen, oder?
 
@@ -56,6 +46,8 @@ Wusstet Ihr, dass ich mein erstes Festival im zarten Alter von ein paar Monaten 
 
 Das ist nur ein kleiner Ausschnitt aus der Musikrubrik auf meiner Seite. Ihr seid herzlich willkommen, hier zu stöbern und meine monatlichen Musiklisten, weitere spannende Interviews mit herausragenden Künstler⋆innen und Albumtipps zu entdecken!
 
+![Unterwegs für eine Reportage auf Hof Butenland](https://storage.googleapis.com/cardamonchai-media/2024-01-24/anne-reis-soundsvegan-com-2-jpg-imagine-080808_767c3d_1024_768/640.webp 'Unterwegs für eine Reportage auf Hof Butenlande')
+
 ## Vegan
 
 Mein Leben lebe ich seit dem 13. Juni 2014 [vegan](/tag/vegan). Ich kann mir das so gut merken, weil ich an diesem Tag mit meinen beiden Lieblings-Musikfans auf dem Black Sabbath Konzert am Münchner Königsplatz war. Seit ich vegan lebe, hat sich mein Blick auf die Welt und darauf, wie wir mit Tieren und unserem Klima umgehen, geändert. Im Laufe der Jahre habe ich meine Erfahrungen aufgeschrieben und hier auf Sounds Vegan veröffentlicht. Ihr findet also zahlreiche Buchtipps, Rezepte und Interviews zum Thema hier. Ein paar Tipps kann ich Euch an dieser Stelle gerne schon mal geben.
@@ -65,26 +57,20 @@ Mein Leben lebe ich seit dem 13. Juni 2014 [vegan](/tag/vegan). Ich kann mir das
 - [Soja & Klimaschutz – 10 Fakten über Veganismus (Teil 1/10)](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
 - [Studie: "Kinder wissen oft nicht, dass sie Fleisch essen](/2021/11/kinder-fleisch-studie/)
 - [Warum wir zum Muskelaufbau Pflanzenprotein brauchen](/2022/11/veganes-protein/)
+- [Zu Gast auf Hof Butenland](/2023/05/butenland-besuch/)
 - [Interview mit der Tierrechtsaktivistin Kara Schott – Die Tiertafel Hamburg stellt sich vor](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/)
 - [Interview mit Andrea vom Stadttauben e. V. Hamburg](https://soundsvegan.com/2021/11/hamburger-stadttauben-interview/)
 - [Interview mit dem veganen Internisten Dr. Hanno Platz](/2019/06/veganer-arzt-interview-dr-hanno-platz/)
 - [Interview mit Vegan-Aktivistin Inbar Schütte-Perez](/2020/03/inbar-schuette-perez-interview/)
 - [Earthling Ed zu Gast in Hamburg](/2019/11/earthling-ed-zu-gast-in-hamburg/)
 
-## Meine Homebase Hamburg
+## Homebase Hamburg
 
 Meine Homebase habe ich inzwischen in Hamburg gefunden, wo ich mich zusammen mit meinem Partner und unseren beiden tierischen Mitbewohnern niedergelassen habe. Hier entstehen meine Ideen und von hier aus arbeite ich.
 
-<RemoteImage
-  alt="anne-bloggt-cardamonchai-rock-n-roll-vegan"
-  size="medium"
-  title="Homebase Hamburg"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-08-01-anne-reis-tobias-hess-photography-21__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-08-01-anne-reis-tobias-hess-photography-21__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKhAAAgEDBAIABQUBAAAAAAAAAQIDBAURAAYSIRMxBxQiQVEVM1NxkeH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIDEUESMaHBEyFh/9oADAMBAAIRAxEAPwCfxp2RQXnfltpopI/PJTqkyyI3GE/yAKwLErwHfX0/f1pHi2XFtvfG3oqMU93pXkLeOppXjB6f9yNuwoIY5zjC50ybn3FX7x3jZ7hRRwc3t8qTSU8LJ5FDjxc1LHI5esfk96rKLcF7a7rems1uq6ClaSGaGOpL8QiESOytk8SGGcZ61Nsr5JNQ2VfHE2CjvhaJZfg7tjcEU1ff7bO1zL+KVDVkKnFRjj4sDBB+5J0azun3Zddvyy2my3s2S25+djVZFxI8pPMKx9qpTA947GjWwOAFVwsNfeVybUv9FZF3J+mVMC3GaGOjt9M+WkJZ2PkY+sIvWfyB1qmu1VNtqW207iF4ZopYzGECqV6XLBfZIzn86RIajjuqodGyObDl/WDpx3xV0tbaqOqhmWSWAhW4k/SxYf8Af90o2AEuGekZHkgMOOyqv4kUBiuFsNElN8g1CjUoEgkfgWYkyY9N5DJ0e8Y0aNxRTNabCa6Px5pmeLBALKzk5OPv36PrrRqdtwmA4+yv/9k="
-/>
-
 Dabei entstehen genauso Fotostrecken von [Ausstellungen](/2015/12/brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg/) oder Serien aus [botanischen Gärten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/), wie Berichterstattungen über den [G-20-Gipfel](/2017/07/nog20/) oder die [bunten Paraden](/2017/06/weisse-parade-stamp-festival-altona/), die wir hier immer wieder genießen dürfen. Ich liebe [die Elbe](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/), [die Alster](/2016/05/alsterschwaene/) und die [Kunst auf der Straße](/2017/01/hamburger-streetart/) und ich berichte auch gerne über [Hamburger Persönlichkeiten](/2017/02/fahrgast-aus-dem-bus-geschmissen-hamburger-hochbahn/), [Museen](/2016/01/das-internationale-maritime-museum-hamburg/) und hanseatische Traditionen wie den [Hafengeburtstag](/2016/05/hafengeburtstag-in-hamburg/) oder [die alte Liebe, die niemals rostet](/2016/05/millerntor-stadion-hamburg/).
+
+![Sounds vegan!](https://storage.googleapis.com/cardamonchai-media/2024-01-24/anne-reis-soundsvegan-com-1-jpg-imagine-585858_605f63_1024_768/640.webp 'Sounds vegan!')
 
 ## Ich packe meinen Festivalrucksack
 
@@ -114,15 +100,6 @@ Weil ich sehr neugierig bin und liebend gerne neue Produkte ausprobiere, bewerte
 
 ## Alles beginnt mit dem passenden Text
 
-<RemoteImage
-  alt="anne-bloggt-cardamonchai-rock-n-roll-vegan"
-  size="medium"
-  title="Mein Blog ist meine Ideensammlung"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-08-01-anne-reis-tobias-hess-photography-4__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-08-01-anne-reis-tobias-hess-photography-4__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBgcI/8QAJxAAAgEDBAEDBQEAAAAAAAAAAQIDAAQRBQYSMSFBUWETIiRxkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBCERMTJB/9oADAMBAAIRAxEAPwDmMX8h8SpBKM5++Jc/0YNNtrW1jq942nT2n5dy6iCZHICd5HHODnvz7UgCE030jSp3hXUBIsUUMgIPkucEZIwPT59qaoTpRuE2KOC51L/v7benaFp6SaUvC6hiEpmmsjF9RQeJUq2Ry9cj46rLriea6kMlxM8sh8cnYscVqm+rRtW12ayttStGjFsWZ405RgkhgCV6YrxyR+sVlc0LQTSRPjlGxQgHPkHFCtGChmHcd9iGwonyQoq1bbTnp11IWfMERKAMQMnPfvRRWvH9TDkeYwkgW329JPCzo/HoMQPLAdddf6apd4S1zKx7LEmiiq5PUljd8z//2Q=="
-/>
-
 Ich schreibe, seit ich Buchstaben zu Papier bringen kann. Seit ich denken kann, ist es meine Leidenschaft, Wörter in eine Reihenfolge zu bringen und mit Leben zu bringen. Als meine Leidenschaft dann vor einiger Zeit auch noch zu meinem Beruf wurde, ging für mich ein Traum in Erfüllung, der mich schon lange begleitete.
 
 Der passende Text ist wichtig: Er kann ein Aushängeschild sein, eine Meinung zum Ausdruck bringen oder ein Produkt beschreiben, Geschichten erzählen, Fakten umschreiben und Nachrichten übermitteln. Mein Motto lautet daher "Alles beginnt mit dem richtigen Text". Meine Texte, die online erscheinen, optimiere ich gerne auf Keywords. Doch nicht nur der SEO-Bereich ist mir ein Begriff, auch was HTML, Bildbearbeitung und diverse Content-Management-Systemen angeht, kenne ich mich aus.
@@ -134,6 +111,8 @@ Ich liebe es, beim Schreiben immer wieder die Perspektive zu wechseln, mich in M
 Wo wir schon bei fiktionalen Texten sind: Die Erfüllung eines weiteren Traums kam 2019 mit dem [Roman "Die Hermetiker"](https://amreis.de/hermetiker/?h=ha118) für mich dazu, den ich mit dem Menschen an meiner Seite Matze geschrieben habe. Kurz zuvor hatten wir unsere [Kurzgeschichte "Die vierte Welle"](https://amreis.de/#stories) in Druck geschickt.
 
 Was das Medium betrifft, bin ich nicht festgelegt. Print fasziniert mich genauso wie Online. So habe ich zum Beispiel lange Zeit für das **Welt Vegan Magazin** als Textchefin gearbeitet. Auch im Bereich [Lokaljournalismus](/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/) habe ich bereits gearbeitet. Beruflich bin ich als Content Writer unterwegs und schreibe (SEO-)Texte für viele spannende Kund⋆innen.
+
+![Mit Sir Archie auf Hof Butenland](https://storage.googleapis.com/cardamonchai-media/2024-01-24/anne-reis-soundsvegan-com-3-jpg-imagine-383838_737373_1024_768/640.webp 'Mit Sir Archie auf Hof Butenland')
 
 ## Sounds Vegan Texte auch für Dich
 
