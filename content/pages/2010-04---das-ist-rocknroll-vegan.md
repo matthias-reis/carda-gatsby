@@ -124,7 +124,7 @@ Ich bin gespannt auf Eure Zuschriften! Wir lesen uns!
 
 Anne Reis [info@soundsvegan.com](mailto:info@soundsvegan.com)
 
-Wenn Euch meine Texte gefallen und Ihr ab jetzt nichts mehr verpassen möchtet, [Abnnoniert gerne meinen Newsletter](https://mailchi.mp/ed81963a5b3f/soundsvegan)!
+Wenn Euch meine Texte gefallen und Ihr ab jetzt nichts mehr verpassen möchtet, [Abonniert gerne meinen Newsletter](https://mailchi.mp/ed81963a5b3f/soundsvegan)!
 
 ## Kaffeekasse
 
