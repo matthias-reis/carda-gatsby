@@ -5,7 +5,7 @@ typeName: Interview
 title: '"A Cat that Loves to Dance"'
 subTitle: Kara Delik about their Album "All The Singularities (I – IV)"
 seoTitle: Kara Delik – Interview – "All The Singularities (I – IV)"
-description: 'Kara Delik interview – They tor down borders with their album "All The Singularities (I - IV)". Find out everything you need to know about the outstanding band from Berlin and their signature style.'
+description: 'Kara Delik interview – They tore down borders with their album "All The Singularities (I - IV)". Find out everything you need to know about the outstanding band from Berlin and their signature style.'
 excerpt: '"All The Singularities (I – IV)" combines all of Kara Delik‘s outstanding "Singulary" EPs. I had the chance to interview them and find out some secrets about theyr signature style. Read the story now and find out some fascinating insights about the record!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-24/kara-delik-interview-soundsvegan-com-jpg-imagine-080808_5d4430_1024_768/640.webp
 copyright: 'Kara Delik'
