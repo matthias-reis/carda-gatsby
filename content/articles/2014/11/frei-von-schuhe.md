@@ -191,7 +191,7 @@ Anne: Eine Sache, die wirklich jeder Mensch tun sollte, um die Welt ein bisschen
 
 ## "Wir können es nicht mehr erwarten, in die Produktion zu gehen!"
 
-**Sarah:** Sofort die Produktion starten, damit all unsere tollen Unterstützer, so schnell wie möglich, ihre Dankeschöns bekommen. Weiter nach nachhaltigerem Kunstleder suchen und dafür Kooperationspartner gewinnen. Das Schuhrecycling in Deutschland verbessern.
+**Sarah:** Sofort die Produktion starten, damit all unsere tollen Unterstützer, so schnell wie möglich, ihre Dankeschöns bekommen. Weiter nach nachhaltigerem Kunstleder suchen und dafür Kooperationspartner\*innen gewinnen. Das Schuhrecycling in Deutschland verbessern.
 
 **Anne:** Die Schuhe stehen in den Läden und sind ein Verkaufsrenner. Was kommt als nächstes? Vegane Oberbekleidung?
 

@@ -7,12 +7,8 @@ typeName: Interview
 title: Grégoire von Thot im Interview
 seoTitle: Grégoire von Thot im Interview – 10 Jahre "Obscured By The Wind"
 ogTitle: Grégoire von Thot im Interview – 10 Jahre "Obscured By The Wind"
-description: Thot haben zum 10jährigen Jubiläum ihres Debütalbums "Obscured By
-  The Wind" einiges geplant. Zeit für ein Interview mit der Post-Rock-Band.
-excerpt: English & German – Thot sollten den meisten, die sich mit Post-Rock
-  beschäftigen, ein Begriff sein. Zum 10jährigen Jubiläum ihres Debütalbums
-  "Obscured By The Wind" hat die Band aus Belgien so einige Highlights für uns
-  geplant. Zeit für ein Interview mit der Post-Rock-Band.
+description: Thot haben zum 10jährigen Jubiläum ihres Debütalbums "Obscured By The Wind" einiges geplant. Zeit für ein Interview mit der Post-Rock-Band.
+excerpt: English & German – Thot sollten den meisten, die sich mit Post-Rock beschäftigen, ein Begriff sein. Zum 10jährigen Jubiläum ihres Debütalbums "Obscured By The Wind" hat die Band aus Belgien so einige Highlights für uns geplant. Zeit für ein Interview mit der Post-Rock-Band.
 fileName: 2021-04---gregoire-von-thot-im-interview.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_thot-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_thot-1__l.jpg
@@ -58,7 +54,7 @@ Wobei, ehrlich gesagt war das ja komplett umgekehrt. Ich glaube es zwar selbst n
 
 ![Grégoire. Bild/Picture: Thot](https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-2-jpeg-imagine-080808_16110e_1440_810/640.webp 'Grégoire. Bild/Picture: Thot')
 
-**Grégoire:** Ja, wir wollen diesen Meilenstein gebührend feiern. Damals gab es das Album nur auf CD und in der digitalen Version. Das zehnjährige Jubiläum ist also ein guter Anlass für einen Vinyl-Neuveröffentlichung mit einigen der Designs, die wir bis jetzt nicht genutzt haben. Außerdem gibt es diese 10th Anniversary Live Performance in einer sehr intimen Version. Zu diesem einzigartigen Anlass bestand unser Line-up aus mir am Piano, an der Gitarre und den Lead Vocals, unseren langjährigen Freundinnen und Kooperationspartnerinnen Lucie Lefauconnier an Gitarre und Gesang und Catherine Graindorge an Violine und Soundscape. Wir haben das Konzert gerade letzten Sonntag während dem ersten Frühlings-Vollmond aufgenommen. Die Performance wird schon bald online verfügbar sein. Jede\*r der\*die es miterleben möchte, kann auf unserer Bandcamp-Seite ein Ticket erwerben.
+**Grégoire:** Ja, wir wollen diesen Meilenstein gebührend feiern. Damals gab es das Album nur auf CD und in der digitalen Version. Das zehnjährige Jubiläum ist also ein guter Anlass für einen Vinyl-Neuveröffentlichung mit einigen der Designs, die wir bis jetzt nicht genutzt haben. Außerdem gibt es diese 10th Anniversary Live Performance in einer sehr intimen Version. Zu diesem einzigartigen Anlass bestand unser Line-up aus mir am Piano, an der Gitarre und den Lead Vocals, unseren langjährigen Freundinnen und Kooperationspartner\*innen Lucie Lefauconnier an Gitarre und Gesang und Catherine Graindorge an Violine und Soundscape. Wir haben das Konzert gerade letzten Sonntag während dem ersten Frühlings-Vollmond aufgenommen. Die Performance wird schon bald online verfügbar sein. Jede\*r der\*die es miterleben möchte, kann auf unserer Bandcamp-Seite ein Ticket erwerben.
 
 **Anne:** Was hat sich seit 2011 verändert? Für Euch als Band und für die Post-Rock Szene?
 

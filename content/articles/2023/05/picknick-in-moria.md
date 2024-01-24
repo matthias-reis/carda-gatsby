@@ -51,7 +51,7 @@ Ab dem 8. Juni läuft "Picknick in Moria" von Lina Lužytė in verschiedenen Kin
 
 ## Filmstart und Premierentermine
 
-Am 6. Juni um 18:30 findet in Kooperation mit Resqship und dem Flüchtlingsrat Baden-Württemberg e. V. die Premiere im Atelier am Bollwerk in Stuttgart statt. Am 7. Juni um 20 Uhr geht es im Kölner Odeon mit Unterstützung der Kooperationspartner Seebrücke Köln und Kölner Spendenkonvoi e. V. weiter. Am offiziellen Starttag findet dann im Bochumer Endstation Kino in Kooperation mit dem Flüchlingsrat NRW, Amnesty Bochum und Grenzenlose Wärme – Flüchtlingshilfe e. V. die letzte Premieren-Veranstaltung statt.
+Am 6. Juni um 18:30 findet in Kooperation mit Resqship und dem Flüchtlingsrat Baden-Württemberg e. V. die Premiere im Atelier am Bollwerk in Stuttgart statt. Am 7. Juni um 20 Uhr geht es im Kölner Odeon mit Unterstützung der Kooperationspartner\*innen Seebrücke Köln und Kölner Spendenkonvoi e. V. weiter. Am offiziellen Starttag findet dann im Bochumer Endstation Kino in Kooperation mit dem Flüchlingsrat NRW, Amnesty Bochum und Grenzenlose Wärme – Flüchtlingshilfe e. V. die letzte Premieren-Veranstaltung statt.
 
 Zusätzlich zu den Premieren wird es unter anderem in Bremen, Aschaffenburg, Oberhausen und Ulm einige Sonderveranstaltungen mit Kooperationspartnern aus den Bereichen Menschenrechte, Flucht und Migration geben.
 
