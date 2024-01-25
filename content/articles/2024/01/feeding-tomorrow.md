@@ -7,7 +7,7 @@ subTitle: 'Neue Food-Doku ruft zu nachhaltiger Lebensmittel-Produktion auf'
 seoTitle: '"Feeding Tomorrow" – Food-Doku zeigt, was wir an unseren Ernährungssystemen ändern müssen'
 description: '"Feeding Tomorrow" ist eine großartige neue Food-Doku, die uns zeigt, was wir an unseren Ernährungssystemen ändern müssen. Schaut hier direkt rein!'
 excerpt: '"Feeding Tomorrow" ist ein Aufruf zur Veränderung unserer bestehenden Ernährungssysteme. Wie das genau funktionieren kann, zeigt die Filmcrew anhand konkreter Beispiele aus den USA. Der Film ist definitiv ein Must-see – er liefert wertvolle Argumente dafür, warum planzliche Lebensmittel auf Dauer den Hunger der Weltbevölkerung stillen und das Klima retten können.'
-image: https://storage.googleapis.com/cardamonchai-media/2024-01-25/feeding-tomorrow-soundsvegan-com-1-jpg-imagine-181818_775f49_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2024-01-25/feeding-tomorrow-soundsvegan-com-3-jpg-imagine-b87858_a0785b_1024_768/640.webp
 copyright: Feeding Tomorrow
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-25/feeding-tomorrow-soundsvegan-com-og-jpg-imagine-f8f8d8_9c7a5d_1200_628/640.webp
 labels:
