@@ -8,7 +8,7 @@ seoTitle: 'Interview – Mike Vennart – "Forgiveness & The Grain"'
 description: 'Interview – Mike Vennart neuen Album "Forgiveness & The Grain" zurück. Lest jetzt mein Interview und erfahrt alles über die Platte!'
 excerpt: '"Interview Mike Vennart" – ja, Ihr habt richtig gelesen! Ich hatte die Gelegenheit, mich mit dem musikalischen Mastermind Mike Vennart (Vennart, Oceansize, Biffy Clyro) über sein kommendes (2. Februar) neues Album "Forgiveness & The Grain" zu unterhalten. Wir haben auch über die aktuelle Weltlage gesprochen – und wie man sich selbst motiviert, wenn man in einen kreativen Prozess startet.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-7-jpg-imagine-585858_898989_1024_768/640.webp
-copyright: 'A Burial At Sea'
+copyright: 'Mike Vennart'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-og-jpg-imagine-282828_656565_1200_628/640.webp
 labels:
   - Band
