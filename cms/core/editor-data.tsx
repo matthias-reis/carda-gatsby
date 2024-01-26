@@ -1,11 +1,11 @@
-import { atom, useAtomValue, useSetAtom } from 'jotai';
+import { atom, useAtom, useAtomValue, useSetAtom } from 'jotai';
 import { Article } from './types';
 import { useLeftPanel } from './workspaces-data';
 import { log } from './log';
 
 type State = 'loading' | 'available' | 'dirty' | 'error';
 type Entry = [State, Article | null];
-type Entries = Record<string, [State, Article | null]>;
+type Entries = Record<string, Entry>;
 
 const currentSlugAtom = atom<string>('');
 const articlesAtom = atom<Entries>({});
@@ -22,7 +22,7 @@ const setCurrentSlugAtom = atom(null, async (get, set, slug: string) => {
   }
 
   // if not, it's being loaded
-  let article: Entry = articles[slug] || ['loading', null];
+  let article: Entry = articles[slug] || ['loading', null, null];
   article[0] = 'loading';
   set(articlesAtom, { ...articles, [slug]: article });
 
@@ -44,10 +44,23 @@ async function readArticle(slug: string): Promise<Article> {
   return article;
 }
 
+export async function writeArticle(
+  article: Article | string,
+  initialArticle: Article | string
+): Promise<string> {
+  if (typeof article === 'string') return '';
+  const result = await fetch('/article', {
+    method: 'POST',
+    body: JSON.stringify({ article, initialArticle }),
+  }).then((res) => res.json());
+
+  return result.slug;
+}
+
 // HOOKS
 export const useArticle = () => {
-  const slug = useAtomValue(currentSlugAtom);
-  const articles = useAtomValue(articlesAtom);
+  const [slug, setSlug] = useAtom(currentSlugAtom);
+  const [articles, setArticles] = useAtom(articlesAtom);
 
   let article: Entry = ['error', null];
 
@@ -57,7 +70,37 @@ export const useArticle = () => {
     article = articles[slug];
   }
 
-  return { slug, state: article[0], article: article[1] };
+  const change = (changeFn: (a: Article) => Article) => {
+    if (article[1]) {
+      const changedArticle: Entry = ['dirty', changeFn(article[1])];
+
+      setArticles({ ...articles, [slug]: changedArticle });
+    }
+  };
+
+  const save = async () => {
+    if (article[0] !== 'dirty') return;
+
+    // save the article
+    try {
+      const newSlug = await writeArticle(article[1]!, slug);
+      if (newSlug !== slug) {
+        // if the slug has changed, we need to delete the old one
+        delete articles[slug];
+      }
+      articles[newSlug] = ['available', article[1]];
+      setArticles(articles);
+      // then reload it from scratch by re-setting the slug
+      setSlug(newSlug);
+
+      log('editor/saveArticle', `Article saved ${newSlug}`);
+    } catch (e) {
+      log('editor/saveArticle', `could not save article`, e as Error);
+      return;
+    }
+  };
+
+  return { slug, state: article[0], article: article[1], save, change };
 };
 
 export const useSetEditorSlug = () => {

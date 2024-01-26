@@ -18,7 +18,7 @@ const states = {
 };
 
 export const EditorPanel: FC = () => {
-  const { slug, state, article } = useArticle();
+  const { slug, state, article, change } = useArticle();
 
   let title = article ? article.title : 'Bitte warten ...';
 
@@ -62,7 +62,7 @@ export const EditorPanel: FC = () => {
       {state === 'error' && <Error />}
       {state === 'loading' && <Loading />}
       {(state === 'available' || state === 'dirty') && (
-        <EditorContent article={article!} />
+        <EditorContent article={article!} change={change} />
       )}
     </div>
   );

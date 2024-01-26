@@ -34,20 +34,32 @@ export async function GET(request: Request) {
 }
 
 export async function POST(request: Request) {
-  const { article, initialArticle } = await request.json();
+  const { article, initialSlug } = await request.json();
+  if (!article) {
+    console.log('[article/post] 🛑 no article provided in request');
+    return new Response('no article provided', { status: 400 });
+  }
+
   const newSlug = getSlug(article);
   const newPath = pathFromSlug(newSlug);
-  console.log(`[article/post] save article under <${newPath}>`);
-  if (initialArticle && typeof initialArticle !== 'string') {
-    const oldPath = pathFromSlug(getSlug(initialArticle));
 
-    if (oldPath !== newPath) {
-      console.log(`[article/post] moving article from <${oldPath}>`);
-      // move
+  console.log(`[article/post] save article under <${newPath}>`);
+
+  if (initialSlug && initialSlug !== newSlug) {
+    const oldPath = pathFromSlug(initialSlug);
+    console.log(`[article/post] moving article from <${oldPath}>`);
+    // move
+    try {
       mkdirp(dirname(newPath));
       await rename(oldPath, newPath);
+    } catch (e) {
+      console.log(
+        `[article/post] 🛑 could not move <${oldPath}> to <${newPath}>`
+      );
+      return new Response(`could not move file <${oldPath}>`, { status: 500 });
     }
   }
+
   const content = createFileContent(article);
   try {
     await writeFile(newPath, content, 'utf-8');

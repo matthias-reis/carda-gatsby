@@ -51,7 +51,7 @@ export const ViewerPanel: FC = () => {
       </div>
       <div className="flex-1">
         <iframe
-          src="http://localhost:8000"
+          src="http://localhost:3335"
           ref={previewEl}
           className="w-full h-full border-0"
         />

@@ -5,7 +5,7 @@ const viewerPathAtom = atom<string>('/');
 
 export const useViewerPath = () => {
   const path = useAtomValue(viewerPathAtom);
-  const url = `http://localhost:8000${path}`;
+  const url = `http://localhost:3335${path}`;
   const isEditable = !!path.match(/\/\d\d\d\d\/\d\d\/.*/); // urls are like /2021/01/foobar
   return { path, url, isEditable };
 };
