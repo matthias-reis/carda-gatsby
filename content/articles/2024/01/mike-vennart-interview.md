@@ -40,7 +40,7 @@ languageLink: /2024/01/mike-vennart-interview-en/
 
 ## "Die Welt scheint immer grausamer zu werden"
 
-!["Mike Vennart. Bild/Picture: Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-6-jpg-imagine-282828_767676_1024_768/640.webp 'Mike Vennart. Bild/Picture: Mike Vennart')
+!["Mike Vennart. Bild/Picture: © Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-6-jpg-imagine-282828_767676_1024_768/640.webp 'Mike Vennart. Bild/Picture: © Mike Vennart')
 
 **Mike:** Nun, Vergebung ist nicht etwas, das man sich einfach so leisten kann. Erlösung ist heutzutage in der Geschichte von niemandem wirklich üblich. Die Welt scheint einfach immer grausamer zu werden. Immer nachtragender. Die Bereitschaft zu zerstören wächst. Diese Platte bettelt förmlich um Demut – gegen den Strom zu schwimmen.
 
@@ -54,7 +54,7 @@ Es ist der psychedelischste Song des Albums, weil er üppig und verwirbelt ist, 
 
 ## "Den Song 'R U The Future??' Habe ich geschrieben, als ich die Oldham Street in Manchester entlanggelaufen bin"
 
-!["Mike Vennart. Bild/Picture: Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-5-jpg-imagine-282828_717171_1024_768/640.webp 'Mike Vennart. Bild/Picture: Mike Vennart')
+!["Mike Vennart. Bild/Picture: © Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-5-jpg-imagine-282828_717171_1024_768/640.webp 'Mike Vennart. Bild/Picture: © Mike Vennartt')
 
 **Mike:** Es ist um ehrlich zu sein ganz einfach. Eine Platte allein zu veröffentlichen bedeutet für mich, dass ich das Geld mache – _das ganze Geld_. Ich kann also für meine steigende Miete aufkommen. Als ich Platten auf Label veröffentlicht habe – auch auf Major Labels – habe ich keinen verdammten Penny verdient.
 
@@ -68,7 +68,7 @@ Es war schwer, loszulegen, denn ich war sehr stolz auf "In The Dead, Dead Wood".
 
 ## "Inspiration muss Dich beschäftigen"
 
-!["Mike Vennart. Bild/Picture: Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-3-jpg-imagine-383838_767676_1024_768/640.webp 'Mike Vennart. Bild/Picture: Mike Vennart')
+!["Mike Vennart. Bild/Picture: © Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-3-jpg-imagine-383838_767676_1024_768/640.webp 'Mike Vennart. Bild/Picture: © Mike Vennartt')
 
 **Mike:** Es kann alles sein, aber es hat eine Weile gedauert, bis ich gelernt habe, tatsächlich anzufangen. Inspiration muss einen beschäftigen. Ich habe herumgesessen und den ganzen Tag Dope geraucht und darauf gewartet, dass mich die Inspiration voll erwischt. Das ist nicht wirklich passiert. Ich habe also angefangen zu improvisieren, mal die Gitarre eingestöpselt oder einen Synth, ein paar Pedale und einfach ein bisschen Zeug gefunden.
 
@@ -84,7 +84,7 @@ Es war schwer, loszulegen, denn ich war sehr stolz auf "In The Dead, Dead Wood".
 
 ## "Jess kümmert sich um die Artworks und den Shop"
 
-!["Mike Vennart. Bild/Picture: Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-2-jpg-imagine-282828_676767_1024_768/640.webp 'Mike Vennart. Bild/Picture: Mike Vennart')
+!["Mike Vennart. Bild/Picture: © Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-2-jpg-imagine-282828_676767_1024_768/640.webp 'Mike Vennart. Bild/Picture: © Mike Vennart')
 
 **Mike:** Das ist im Grunde gar nicht so viel. Es ist eine Menge Arbeit und meine Partnerin Jess ist da viel sachlicher unterwegs als ich – und zudem unglaublich künstlerisch. Jess kümmert sich um all die Artworks, den Shop und den Rest. Das hilft mir ganz enorm, weil ich nicht wirklich gut darin bin, Sachen zu lesen oder im Internet zu arbeiten.
 
@@ -92,7 +92,7 @@ Es war schwer, loszulegen, denn ich war sehr stolz auf "In The Dead, Dead Wood".
 
 **Mike:** Na ja, die "Backseat Hards" Geschichte war nur eine spontane, improvisierte Ideensammlung aus dem Tourbus. Die Tournee geriet aufgrund unterschiedlich schwerer Erkrankungen einige Male ins Stocken, und da es unsere erste Tournee seit der Pandemie war, war sie mit gemischten Gefühlen behaftet. Diese EP habe ich auf einem ausgedehnten Trip durch Mittelamerika gemacht, mit meiner Elektro-Akustik Fender, ein paar seltsame Pedalen und meinem iPhone. Die Feldaufnahmen habe ich in Roadside Motels, Backstage und in meiner Koje gemacht. "Forgiveness & The Grain" sind hingegen echte Songs mit Melodien und Worten.
 
-!["Mike Vennart. Bild/Picture: Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-4-jpg-imagine-f8f8f8_8d8d8d_1024_768/640.webp 'Mike Vennart. Bild/Picture: Mike Vennart')
+!["Mike Vennart. Bild/Picture: © Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-4-jpg-imagine-f8f8f8_8d8d8d_1024_768/640.webp 'Mike Vennart. Bild/Picture: © Mike Vennart')
 
 **Anne:** Die Umstände haben sich verändert und sind gerade in den vergangenen Jahren immer schlimmer geworden. Angefangen mit dem Krieg überall auf der Welt, den Menschen, die jeden Tag im Mittelmeer ertrinken und der Nazi-Krankheit, über die in Deutschland wieder wuchert, bis zum Brexit und an den traurigen Geschichten, die ihn umgeben in Großbritannien. Wie gehst Du mit diesem ganzen Mist um?
 
@@ -110,7 +110,7 @@ Ich denke, all die Themen, die ich gerade angesprochen habe, sind Gründe, laut 
 
 ## "Ich arbeite an einer Solo-Show"
 
-!["Mike Vennart. Bild/Picture: Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-1-jpg-imagine-282828_767676_1024_768/640.webp 'Mike Vennart. Bild/Picture: Mike Vennart')
+!["Mike Vennart. Bild/Picture: © Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-1-jpg-imagine-282828_767676_1024_768/640.webp 'Mike Vennart. Bild/Picture: © Mike Vennart')
 
 **Anne:** "Forgiveness & The Grain" erscheint am 2. Februar. Wow, die Zeit rennt! Ich freue mich wirklich sehr darauf. Die vorab veröffentlichte Single "Fractal" ist sehr vielversprechend. Sehr aussagekräftig und politisch. Wie sehen Deine Pläne für danach aus? Ich würde Dich wirklich gerne bald wieder live sehen und ich wette, es geht sehr vielen Menschen genauso! Werden wir Dich hier auf dem Kontinent bald wieder spielen hören?
 
