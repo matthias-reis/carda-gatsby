@@ -8,7 +8,7 @@ seoTitle: 'Mike Vennart – Interview – "Forgiveness & The Grain"'
 description: 'Mike Vennart – Interview about his new album "Forgiveness & The Grain". Read it now and discover why it‘s the musical mastermind‘s most emotive record so far!'
 excerpt: '"Mike Vennart Interview"—yes, you read that right! I had the opportunity to talk to musical mastermind Mike Vennart (Vennart, Oceansize, Biffy Clyro) about his upcoming (February 2nd) new album, "Forgiveness & The Grain". We also talked about the current world situation and how to motivate yourself when starting a creative process. Please enjoy!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-7-jpg-imagine-585858_898989_1024_768/640.webp
-copyright: 'A Burial At Sea'
+copyright: 'Mike Vennart'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-og-jpg-imagine-282828_656565_1200_628/640.webp
 labels:
   - Band
@@ -40,7 +40,7 @@ languageLink: /2024/01/mike-vennart-interview/
 
 ## "The world seems to get crueller and crueller"
 
-!["Mike Vennart. Bild/Picture: Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-6-jpg-imagine-282828_767676_1024_768/640.webp 'Mike Vennart. Bild/Picture: Mike Vennart')
+!["Mike Vennart. Bild/Picture: © Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-6-jpg-imagine-282828_767676_1024_768/640.webp 'Mike Vennart. Bild/Picture: © Mike Vennart')
 
 **Mike:** Well, forgiveness isn't something easily afforded. Redemption isn't a common arc in the story of anyone these days really. The world just seems to get crueller and crueller. More resentful. More willing to destroy. This record is kind of begging for humility—to go against the current grain.
 
@@ -54,7 +54,7 @@ It's the most psychedelic song on the record in that it's lush and all swirly, b
 
 ## "I wrote the song 'R U The Future??' while walking down Oldham Street"
 
-!["Mike Vennart. Bild/Picture: Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-5-jpg-imagine-282828_717171_1024_768/640.webp 'Mike Vennart. Bild/Picture: Mike Vennart')
+!["Mike Vennart. Bild/Picture: © Mike Vennartt](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-5-jpg-imagine-282828_717171_1024_768/640.webp 'Mike Vennart. Bild/Picture: © Mike Vennart')
 
 **Mike:** It's fairly simple—releasing the records myself means I make all the money—_all_ of it. That means I can pay my ever-increasing rent. When I've released records on labels—including major labels—I haven't made a fucking penny.
 
@@ -66,7 +66,7 @@ It's the most psychedelic song on the record in that it's lush and all swirly, b
 
 ## "Inspiration must find you busy"
 
-!["Mike Vennart. Bild/Picture: Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-3-jpg-imagine-383838_767676_1024_768/640.webp 'Mike Vennart. Bild/Picture: Mike Vennart')
+!["Mike Vennart. Bild/Picture: © Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-3-jpg-imagine-383838_767676_1024_768/640.webp 'Mike Vennart. Bild/Picture: © Mike Vennart')
 
 **Mike:** It can be anything, but it took a while to learn to actually show up. Inspiration must find you busy. I used to just sit around smoking dope all day, waiting for inspiration to strike. It rarely did. So I tend to just improvise, plug in a guitar or a synth, a couple of pedals and just find stuff.
 
@@ -82,7 +82,7 @@ It's the most psychedelic song on the record in that it's lush and all swirly, b
 
 ## "Jess takes care of the artwork and the shop"
 
-!["Mike Vennart. Bild/Picture: Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-2-jpg-imagine-282828_676767_1024_768/640.webp 'Mike Vennart. Bild/Picture: Mike Vennart')
+!["Mike Vennart. Bild/Picture: © Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-2-jpg-imagine-282828_676767_1024_768/640.webp 'Mike Vennart. Bild/Picture: © Mike Vennart')
 
 **Mike:** There's not much to it. It's a lot of work, and my partner Jess is a lot more level-headed than I am and hugely artistic. Jess takes care of all the artwork and the shop end of stuff. That helps me enormously because I'm not very good at reading stuff or working the internet.
 
@@ -90,7 +90,7 @@ It's the most psychedelic song on the record in that it's lush and all swirly, b
 
 **Mike:** Well, the "Backseat Hards" thing was just a spontaneous, improvised collection of ideas I made on the tour bus. The tour hit the skids a couple of times due to illnesses of varying severity, and, being our first tour since the pandemic, it was full of mixed emotions. That EP was made during an enforced trip across middle America, using an electro-acoustic Fender guitar, a couple of mad pedals and my iPhone. Field recordings were from roadside motels, the back lounge and my bunk. "Forgiveness & The Grain" is actual songs, with tunes and words.
 
-!["Mike Vennart. Bild/Picture: Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-4-jpg-imagine-f8f8f8_8d8d8d_1024_768/640.webp 'Mike Vennart. Bild/Picture: Mike Vennart')
+!["Mike Vennart. Bild/Picture: © Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-4-jpg-imagine-f8f8f8_8d8d8d_1024_768/640.webp 'Mike Vennart. Bild/Picture: © Mike Vennart')
 
 **Anne:** Things have changed and become much worse over the last few years. Starting with war all over the world, people drowning in the Mediterranean Sea to the nazi disease growing again over here in Germany and Brexit and all the sad stories around it in Britain. How are you dealing with all this shit?
 
@@ -108,7 +108,7 @@ I think all of the topics I brought up in my previous question are reasons to ra
 
 ## "I'm working on a solo show"
 
-!["Mike Vennart. Bild/Picture: Mike Vennart](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-1-jpg-imagine-282828_767676_1024_768/640.webp 'Mike Vennart. Bild/Picture: Mike Vennart')
+!["Mike Vennart. Bild/Picture: © Mike Vennartt](https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-1-jpg-imagine-282828_767676_1024_768/640.webp 'Mike Vennart. Bild/Picture: © Mike Vennart')
 
 **Anne:** Your release day for "Forgiveness & The Grain" is February 2nd. Wow, time is running so fast! I'm really looking forward to it. The pre-released single "Fractal" is very promising. Really, heavy-weighted and also political. It is also a great contrast to your 2020 EP, "Backseat Hards", which was based on field recordings combined with your voice and your Fender Acoustasonic. I like that a lot! What are your plans for after the release? I'd love to see you live on stage soon, and I am sure many, many people feel that way, too! Will we meet you on the continent again soon?
 
