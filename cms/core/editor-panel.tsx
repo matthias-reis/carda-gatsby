@@ -9,6 +9,7 @@ import { Button } from '@/components/ui/button';
 import { Wait } from '@/components/wait';
 import { log } from './log';
 import { EditorContent } from './editor-content';
+import { useSetViewerPath } from './viewer-data';
 
 const states = {
   loading: 'Wird geladen ...',
@@ -19,7 +20,7 @@ const states = {
 
 export const EditorPanel: FC = () => {
   const { slug, state, article, change, save } = useArticle();
-
+  const setViewerPath = useSetViewerPath();
   let title = article ? article.title : 'Bitte warten ...';
 
   if (state === 'error') {
@@ -48,7 +49,7 @@ export const EditorPanel: FC = () => {
           <Button size="sm" variant="secondary" onClick={console.log}>
             <PublishIcon />
           </Button>
-          <Button size="sm" onClick={console.log}>
+          <Button size="sm" onClick={() => setViewerPath(slug)}>
             <ViewIcon />
           </Button>
         </div>
