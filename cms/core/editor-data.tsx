@@ -46,12 +46,12 @@ async function readArticle(slug: string): Promise<Article> {
 
 export async function writeArticle(
   article: Article | string,
-  initialArticle: Article | string
+  initialSlug: string
 ): Promise<string> {
   if (typeof article === 'string') return '';
   const result = await fetch('/article', {
     method: 'POST',
-    body: JSON.stringify({ article, initialArticle }),
+    body: JSON.stringify({ article, initialSlug }),
   }).then((res) => res.json());
 
   return result.slug;
@@ -83,6 +83,7 @@ export const useArticle = () => {
 
     // save the article
     try {
+      log('editor/saveArticle', `saving <${slug}>`);
       const newSlug = await writeArticle(article[1]!, slug);
       if (newSlug !== slug) {
         // if the slug has changed, we need to delete the old one
@@ -93,7 +94,7 @@ export const useArticle = () => {
       // then reload it from scratch by re-setting the slug
       setSlug(newSlug);
 
-      log('editor/saveArticle', `Article saved ${newSlug}`);
+      log('editor/saveArticle', `saved under <${newSlug}>`);
     } catch (e) {
       log('editor/saveArticle', `could not save article`, e as Error);
       return;

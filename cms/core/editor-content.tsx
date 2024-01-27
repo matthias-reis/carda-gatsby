@@ -9,11 +9,15 @@ import { format } from 'date-fns';
 import { Textarea } from '@/components/ui/textarea';
 import { TagCloud } from '@/components/tag-cloud';
 import { ToggleGroup, ToggleGroupItem } from '@/components/ui/toggle-group';
+import Editor from 'react-simple-code-editor';
+import hl from 'highlight.js';
 
 export const EditorContent: FC<{
   article: Article;
   change: (changeFn: (a: Article) => Article) => void;
-}> = ({ article, change }) => {
+  save: () => void;
+}> = ({ article, change, save }) => {
+  const flag = article.language === 'en' ? '🇬🇧' : '🇩🇪';
   return (
     <div className="p-3 font-condensed">
       <Tabs defaultValue="meta">
@@ -22,7 +26,7 @@ export const EditorContent: FC<{
             Meta
           </TabsTrigger>
           <TabsTrigger value="text" className="font-condensed">
-            Text [{article.language || 'de'}]
+            Text {flag}
           </TabsTrigger>
         </TabsList>
         <TabsContent value="meta">
@@ -38,7 +42,6 @@ export const EditorContent: FC<{
                   }}
                 />
               </Field>
-
               <Field label="Datum">
                 <DatePicker
                   id="Datum"
@@ -70,8 +73,7 @@ export const EditorContent: FC<{
               />
             </Field>
             <Field label="Typ">
-              <Textarea
-                rows={2}
+              <Input
                 id="Typ"
                 value={article.typeName}
                 onChange={(ev) => {
@@ -111,9 +113,11 @@ export const EditorContent: FC<{
                   const ogTitle = ev.target.value;
                   change((a: Article) => ({ ...a, ogTitle }));
                 }}
-                className="mb-6"
               />
             </Field>
+
+            <Spacer />
+
             <Field label="Description">
               <Textarea
                 id="Description"
@@ -129,7 +133,6 @@ export const EditorContent: FC<{
               <Textarea
                 id="Excerpt"
                 rows={6}
-                className="mb-6"
                 value={article.excerpt}
                 onChange={(ev) => {
                   const excerpt = ev.target.value;
@@ -137,6 +140,20 @@ export const EditorContent: FC<{
                 }}
               />
             </Field>
+            <Field label="Focus Keyword">
+              <Input
+                id="Focus Keyword"
+                value={article.focusKeyword}
+                onChange={(ev) => {
+                  const focusKeyword = ev.target.value;
+                  change((a: Article) => ({ ...a, focusKeyword }));
+                }}
+                className="mb-6"
+              />
+            </Field>
+
+            <Spacer />
+
             <Field label="Bild">
               <div className="flex gap-2">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -156,18 +173,9 @@ export const EditorContent: FC<{
                 />
               </div>
             </Field>
-            <Field label="Bild Copyright">
-              <Input
-                id="Bild Copyright"
-                value={article.imageCopyright}
-                onChange={(ev) => {
-                  const imageCopyright = ev.target.value;
-                  change((a: Article) => ({ ...a, imageCopyright }));
-                }}
-              />
-            </Field>
+
             <Field label="Social Bild">
-              <div className="flex gap-2 mb-6">
+              <div className="flex gap-2">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={article.ogImage}
@@ -185,15 +193,31 @@ export const EditorContent: FC<{
                 />
               </div>
             </Field>
+            <Field label="Bild Copyright">
+              <Input
+                id="Bild Copyright"
+                value={article.imageCopyright}
+                onChange={(ev) => {
+                  const imageCopyright = ev.target.value;
+                  change((a: Article) => ({ ...a, imageCopyright }));
+                }}
+              />
+            </Field>
+
+            <Spacer />
+
             <Field label="Stichwörter">
               <TagCloud
-                className="mb-6"
+                className=""
                 value={article.labels}
                 onChange={(labels) => {
                   change((a: Article) => ({ ...a, labels }));
                 }}
               />
             </Field>
+
+            <Spacer />
+
             <Field label="Werbung">
               <ToggleGroup
                 type="multiple"
@@ -219,8 +243,62 @@ export const EditorContent: FC<{
             </Field>
           </div>
         </TabsContent>
-        <TabsContent value="text">Text</TabsContent>
+        <TabsContent value="text">
+          <div className="max-w-3xl mx-auto">
+            <Editor
+              value={article.body}
+              className="hljs"
+              onValueChange={(body) => {
+                change((a: Article) => ({ ...a, body }));
+              }}
+              highlight={(code) => {
+                const highlighted = hl.highlight(code, {
+                  language: 'markdown',
+                });
+                return highlighted.value;
+              }}
+              onKeyDownCapture={(ev, ...rest) => {
+                if (ev.key === 's' && ev.metaKey) {
+                  ev.preventDefault();
+                  save();
+                }
+                if (ev.key === 'b' && ev.metaKey) {
+                  ev.preventDefault();
+                  const activeEl =
+                    document?.activeElement as HTMLTextAreaElement;
+                  const a = activeEl.selectionStart;
+                  const b = activeEl.selectionEnd;
+                  if (a === b) return;
+                  const before = article.body.slice(0, a);
+                  const highlighted = article.body.slice(a, b);
+                  const after = article.body.slice(b);
+                  const newText = `${before}__${highlighted}__${after}`;
+                  change((a) => ({ ...a, body: newText }));
+                }
+                if (ev.key === 'i' && ev.metaKey) {
+                  ev.preventDefault();
+                  const activeEl =
+                    document?.activeElement as HTMLTextAreaElement;
+                  const a = activeEl.selectionStart;
+                  const b = activeEl.selectionEnd;
+                  if (a === b) return;
+                  const before = article.body.slice(0, a);
+                  const highlighted = article.body.slice(a, b);
+                  const after = article.body.slice(b);
+                  const newText = `${before}_${highlighted}_${after}`;
+                  change((a) => ({ ...a, body: newText }));
+                }
+              }}
+              tabSize={2}
+              insertSpaces={true}
+              ignoreTabKey={false}
+              padding={4}
+            />
+          </div>
+        </TabsContent>
       </Tabs>
     </div>
   );
 };
+
+const Spacer = () => <div className="h-8" />;

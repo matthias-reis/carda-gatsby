@@ -1,9 +1,9 @@
 ---
 date: 2024-01-25T12:00:12.086Z
-slug: feeding-tomorrow
+slug: feeding-tomorrows
 typeName: Filmtipp
 title: '"Feeding Tomorrow"'
-subTitle: 'Neue Food-Doku ruft zu nachhaltiger Lebensmittel-Produktion auf'
+subTitle: Neue Food-Doku ruft zu nachhaltiger Lebensmittel-Produktion auf
 seoTitle: '"Feeding Tomorrow" – Food-Doku zeigt, was wir an unseren Ernährungssystemen ändern müssen'
 description: '"Feeding Tomorrow" ist eine großartige neue Food-Doku, die uns zeigt, was wir an unseren Ernährungssystemen ändern müssen. Schaut hier direkt rein!'
 excerpt: '"Feeding Tomorrow" ist ein Aufruf zur Veränderung unserer bestehenden Ernährungssysteme. Wie das genau funktionieren kann, zeigt die Filmcrew anhand konkreter Beispiele aus den USA. Der Film ist definitiv ein Must-see – er liefert wertvolle Argumente dafür, warum planzliche Lebensmittel auf Dauer den Hunger der Weltbevölkerung stillen und das Klima retten können.'
@@ -21,7 +21,7 @@ labels:
   - Veganismus Filme
   - Food-Doku
   - Landwirtschaft
-focusKeyword: 'Feeding Tomorrow'
+focusKeyword: Feeding Tomorrow
 advertisement: false
 affiliate: false
 language: de

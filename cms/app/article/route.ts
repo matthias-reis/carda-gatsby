@@ -35,6 +35,7 @@ export async function GET(request: Request) {
 
 export async function POST(request: Request) {
   const { article, initialSlug } = await request.json();
+  console.log(`[article/post] save request for <${initialSlug}>`);
   if (!article) {
     console.log('[article/post] 🛑 no article provided in request');
     return new Response('no article provided', { status: 400 });
@@ -43,7 +44,7 @@ export async function POST(request: Request) {
   const newSlug = getSlug(article);
   const newPath = pathFromSlug(newSlug);
 
-  console.log(`[article/post] save article under <${newPath}>`);
+  console.log(`[article/post] try to save <${newPath}>`);
 
   if (initialSlug && initialSlug !== newSlug) {
     const oldPath = pathFromSlug(initialSlug);
@@ -63,6 +64,7 @@ export async function POST(request: Request) {
   const content = createFileContent(article);
   try {
     await writeFile(newPath, content, 'utf-8');
+    console.log(`[article/post] saved <${newPath}>`);
   } catch (error) {
     console.log(`[article/post] 🛑 could not write <${newPath}>`);
     return new Response(`could not write file <${newPath}>`, { status: 500 });
