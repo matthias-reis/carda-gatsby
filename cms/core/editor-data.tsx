@@ -115,3 +115,8 @@ export const useSetEditorSlug = () => {
   };
   return setSlug;
 };
+
+export const useAllArticles = () => {
+  const articles = useAtomValue(articlesAtom);
+  return articles;
+};

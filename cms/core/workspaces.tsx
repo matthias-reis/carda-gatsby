@@ -25,6 +25,7 @@ import { ViewerPanel } from './viewer-panel';
 import { MediaPanel } from './media-panel';
 import { WaitPanel } from './wait-panel';
 import { SplashPanel } from './splash-panel';
+import { ListPanel } from './list-panel';
 
 const titles: Record<LeftPanel | RightPanel, string> = {
   splash: '',
@@ -40,6 +41,7 @@ const panels = {
   viewer: <ViewerPanel />,
   media: <MediaPanel />,
   splash: <SplashPanel />,
+  list: <ListPanel />,
 };
 
 export const LeftWorkspace: FC = () => {
@@ -111,7 +113,7 @@ export const RightWorkspace: FC = () => {
             <ToggleGroupItem value="media">
               <MediaIcon />
             </ToggleGroupItem>
-            <ToggleGroupItem value="log">
+            <ToggleGroupItem value="list">
               <LogIcon />
             </ToggleGroupItem>
           </ToggleGroup>

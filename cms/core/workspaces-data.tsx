@@ -2,7 +2,7 @@ import { atom, useAtom } from 'jotai';
 
 export type LeftPanel = 'splash' | 'editor' | 'new';
 
-export type RightPanel = 'viewer' | 'media';
+export type RightPanel = 'viewer' | 'media' | 'list';
 
 const leftPanelAtom = atom<[LeftPanel, boolean]>(['splash', true]);
 
