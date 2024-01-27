@@ -18,7 +18,7 @@ const states = {
 };
 
 export const EditorPanel: FC = () => {
-  const { slug, state, article, change } = useArticle();
+  const { slug, state, article, change, save } = useArticle();
 
   let title = article ? article.title : 'Bitte warten ...';
 
@@ -39,13 +39,13 @@ export const EditorPanel: FC = () => {
         <div className="flex gap-1">
           <Button
             size="sm"
-            variant="outline"
-            onClick={console.log}
+            variant="secondary"
+            onClick={() => save()}
             disabled={state !== 'dirty'}
           >
             <SaveIcon />
           </Button>
-          <Button size="sm" variant="outline" onClick={console.log}>
+          <Button size="sm" variant="secondary" onClick={console.log}>
             <PublishIcon />
           </Button>
           <Button size="sm" onClick={console.log}>
@@ -62,7 +62,7 @@ export const EditorPanel: FC = () => {
       {state === 'error' && <Error />}
       {state === 'loading' && <Loading />}
       {(state === 'available' || state === 'dirty') && (
-        <EditorContent article={article!} change={change} />
+        <EditorContent article={article!} change={change} save={save} />
       )}
     </div>
   );
