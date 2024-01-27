@@ -206,6 +206,32 @@ export const EditorContent: FC<{
 
             <Spacer />
 
+            <Field label="Sprache">
+              <ToggleGroup
+                className="justify-start"
+                type="single"
+                value={article.language}
+                onValueChange={(language: 'de' | 'en') =>
+                  change((a: Article) => ({ ...a, language }))
+                }
+              >
+                <ToggleGroupItem value="de">🇩🇪</ToggleGroupItem>
+                <ToggleGroupItem value="en">🇬🇧</ToggleGroupItem>
+              </ToggleGroup>
+            </Field>
+            <Field label="Sprachlink">
+              <Input
+                id="Sprachlink"
+                value={article.languageLink}
+                onChange={(ev) => {
+                  const languageLink = ev.target.value;
+                  change((a: Article) => ({ ...a, languageLink }));
+                }}
+              />
+            </Field>
+
+            <Spacer />
+
             <Field label="Stichwörter">
               <TagCloud
                 className=""
@@ -220,6 +246,7 @@ export const EditorContent: FC<{
 
             <Field label="Werbung">
               <ToggleGroup
+                className="justify-start"
                 type="multiple"
                 variant="outline"
                 onValueChange={(value) => {
