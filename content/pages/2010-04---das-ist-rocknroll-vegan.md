@@ -31,16 +31,19 @@ Im Grunde ist **Sounds Vegan** für mich eine persönliche Sammlung. Ein bissche
 
 Wusstet Ihr, dass ich mein erstes Festival im zarten Alter von ein paar Monaten besuchte? Daran kann ich mich heute nicht mehr erinnern, aber es scheint prägend gewesen zu sein. Musik ist ein wichtiger Bestandteil meines Lebens (da gehören Konzerte und Festivals selbstverständlich dazu). Ganz ehrlich? Ich kann mir gar nicht vorstellen, wie es ohne Musik wäre. Seit ich denken kann, beschäftige ich mich unglaublich gerne damit und lerne die unterschiedlichsten Genres und Stile kennen. Besonders faszinieren mich Post-Rock, Post-Hardcore, Post-Metal, Ambient, DIY und alles, was in Richtung Alternative und Indie geht. Ich schreibe auch immer wieder Reviews und mache [Interviews](/tag/interviews). Mir ist es sogar schon gelungen, einige meiner absoluten Lieblings-Bands zu interviewen. Richtig stolz bin ich zum Beispiel auf diese Interviews:
 
+- [Mike Vennart (Vennart, Oceansize, Biffy Clyro)](/2024/01/mike-vennart-interview/)
 - [Paul Seidel (Fern, The Ocean)](/2022/11/paul-seidel-fern-the-ocean-interview/)
+- [God Is An Astronaut Mitglied Jamie Dean](/2022/07/jamie-dean-interview/)
 - [EF](/2022/11/ef-interview/)
-- [A Place To Bury Strangers](/2022/04/a-place-to-bury-strangers-interview/)
-- [Dave Pen (BirdPen, Archive)](/2021/02/dave-pen-birdpen-archive-interview/)
 - [We Lost The Sea](/2021/01/we-lost-the-sea-interview/)
 - [Robin Staps (The Ocean)](/2020/09/the-ocean-robin-staps-interview/)
+- [BRUIT ≤ Gitarrist Théophile Antolinos](/2023/02/bruit-interview/)
+- [Dave Pen (BirdPen, Archive)](/2021/02/dave-pen-birdpen-archive-interview/)
+- [A Place To Bury Strangers](/2022/04/a-place-to-bury-strangers-interview/)
 - [Unwed Sailor](/2020/08/unwed-sailor-interview/)
 - [Lost in Kiev](/2020/07/lost-in-kiev-interview/)
+- [James Falck von BEAR](/2023/06/bear-interview/)
 - [Fly Pan Am](/2020/07/fly-pan-am-interview/)
-- [Oh Hiroshima]()
 - [Solkyri](/2020/06/solkyri/)
 - [Of the Vine](/2020/05/of-the-vine/)
 
@@ -52,17 +55,17 @@ Das ist nur ein kleiner Ausschnitt aus der Musikrubrik auf meiner Seite. Ihr sei
 
 Mein Leben lebe ich seit dem 13. Juni 2014 [vegan](/tag/vegan). Ich kann mir das so gut merken, weil ich an diesem Tag mit meinen beiden Lieblings-Musikfans auf dem Black Sabbath Konzert am Münchner Königsplatz war. Seit ich vegan lebe, hat sich mein Blick auf die Welt und darauf, wie wir mit Tieren und unserem Klima umgehen, geändert. Im Laufe der Jahre habe ich meine Erfahrungen aufgeschrieben und hier auf Sounds Vegan veröffentlicht. Ihr findet also zahlreiche Buchtipps, Rezepte und Interviews zum Thema hier. Ein paar Tipps kann ich Euch an dieser Stelle gerne schon mal geben.
 
+- [Zu Gast auf Hof Butenland](/2023/05/butenland-besuch/)
+- ["Ich will die Puten aus ihrer Anonymität befreien!" Interview mit Federherz e. V. Gründerin Federherz Nadine](/2023/10/federherz-interview/)
+- [Interview mit Andrea vom Stadttauben e. V. Hamburg](https://soundsvegan.com/2021/11/hamburger-stadttauben-interview/)
+- [Interview mit dem veganen Internisten Dr. Hanno Platz](/2019/06/veganer-arzt-interview-dr-hanno-platz/)
+- [Interview mit Vegan-Aktivistin Inbar Schütte-Perez](/2020/03/inbar-schuette-perez-interview/)
+- [Earthling Ed zu Gast in Hamburg](/2019/11/earthling-ed-zu-gast-in-hamburg/)
 - [Buchtipp: "Warum wir Hunde lieben, Schweine essen und Kühe anziehen" von Melanie Joy](2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)
 - [Filmtipp: "Earthlings": Der Film, der mein Leben veränderte](/2020/07/earthlings/)
 - [Soja & Klimaschutz – 10 Fakten über Veganismus (Teil 1/10)](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
 - [Studie: "Kinder wissen oft nicht, dass sie Fleisch essen](/2021/11/kinder-fleisch-studie/)
 - [Warum wir zum Muskelaufbau Pflanzenprotein brauchen](/2022/11/veganes-protein/)
-- [Zu Gast auf Hof Butenland](/2023/05/butenland-besuch/)
-- [Interview mit der Tierrechtsaktivistin Kara Schott – Die Tiertafel Hamburg stellt sich vor](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/)
-- [Interview mit Andrea vom Stadttauben e. V. Hamburg](https://soundsvegan.com/2021/11/hamburger-stadttauben-interview/)
-- [Interview mit dem veganen Internisten Dr. Hanno Platz](/2019/06/veganer-arzt-interview-dr-hanno-platz/)
-- [Interview mit Vegan-Aktivistin Inbar Schütte-Perez](/2020/03/inbar-schuette-perez-interview/)
-- [Earthling Ed zu Gast in Hamburg](/2019/11/earthling-ed-zu-gast-in-hamburg/)
 
 ## Homebase Hamburg
 
