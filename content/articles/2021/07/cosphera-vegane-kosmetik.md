@@ -5,11 +5,7 @@ typeName: Produkttest
 title: Vitamine für die Haut
 subTitle: Meine Erfahrungen – Cosphera Kosmetik
 seoTitle: Vitamine für die Haut  – Meine Erfahrungen – Cosphera Kosmetik
-description: Vegane Kosmetik, die mit modernen und hochwertigen Wirkstoffen
-  dafür sorgt, dass die Haut strahlt. Hergestellt in Deutschland. Das verspricht
-  Cosphera. Ich habe jetzt die Hyaluron Performance Creme, die Vitamin C
-  Performance Creme, das Vitamin C Performance Serum und das Wimpernserum
-  getestet
+description: Vegane Kosmetik, die mit modernen und hochwertigen Wirkstoffen dafür sorgt, dass die Haut strahlt. Hergestellt in Deutschland. Das verspricht Cosphera. Ich habe jetzt die Hyaluron Performance Creme, die Vitamin C Performance Creme, das Vitamin C Performance Serum und das Wimpernserum getestet
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-07-27-cosphera-38-jpg-imagine-c8c8c8_91899a_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/cosphera-fb-jpg-imagine-886858_917762_1200_628/640.webp
 labels:
@@ -49,7 +45,7 @@ Ich persönlich mag das Vitamin C Serum wirklich gerne. Die Anwendung ist einfac
 
 Von Cosphera habe ich den Tipp bekommen, anschließend direkt die [Vitamin C Performance Creme](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2Fproduct%2Fvitamin-c-creme%2F) aufzutragen, um den Effekt noch zu optimieren. Sie hat eine sehr leichte Konsistenz und duftet ganz leicht und angenehm fruchtig.
 
-Ich mag es, dass sie sich so schön verteilen lässt und ich auch mit dem starken Sonnenschutz, den ich aktuell etwas später auftrage, sehr gut verträgt. Anders, als bei den meisten Cremes hat man das Gefühl, dass sie die Haut leicht kühlt. Sie wurde speziell für Mischhaut entwickelt und enthält spezielle Inhaltsstoffe gegen Hautunreinheiten. Möglicherweise sind auch aus diesem Grund meine Rötungen zurückgegangen. Vitamin C und Resveratrol wirken stabilisierend und antioxidativ. Die hauteigene Kollagen-Synthese wird angekurbelt. Neben dem von mir beschriebenen  Anwendungsfall soll die Creme auch bei trockener Haut, Fältchen, Augenringen und Altersflecken gut wirken.
+Ich mag es, dass sie sich so schön verteilen lässt und ich auch mit dem starken Sonnenschutz, den ich aktuell etwas später auftrage, sehr gut verträgt. Anders, als bei den meisten Cremes hat man das Gefühl, dass sie die Haut leicht kühlt. Sie wurde speziell für Mischhaut entwickelt und enthält spezielle Inhaltsstoffe gegen Hautunreinheiten. Möglicherweise sind auch aus diesem Grund meine Rötungen zurückgegangen. Vitamin C und Resveratrol wirken stabilisierend und antioxidativ. Die hauteigene Kollagen-Synthese wird angekurbelt. Neben dem von mir beschriebenen Anwendungsfall soll die Creme auch bei trockener Haut, Fältchen, Augenringen und Altersflecken gut wirken.
 
 ## Ein verfeinertes Hautbild und mehr Feuchtigkeit
 
@@ -59,21 +55,21 @@ Nach dem Auftragen habe ich ein angenehm gepflegtes Gefühl, ohne dass sich mein
 
 ## Meine Erfahrungen – Cosphera Hyaluron Performance Creme
 
-Die [Hyaluron Performance Creme](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2Fproduct%2Fhyaluron-creme%2F) könnt Ihr sowohl als Tages- als auch als Nachtcreme verwenden. Die Hyaluronsäure soll die Haut elastischer machen. Dadurch wirkt sich frischer und gepflegter. Neben veganem Hyaluron stecken auch Vitamin C, E, B3 sowie Retinol, OPC, Resaveatrol, Bio-Traubenkernöl und Shea Butter darin. Genau wie das Vitamin C Performance Serum und die Vitamin C Performance Creme, kommt die Hyaluron Performance Creme in einem praktischen Spender, den Ihr auch super in den Kulturbeutel packen könnt, ohne, dass etwas ausläuft. Die Konsistenz ist etwas dichter, als die der Vitamin C Performance Creme, dennoch zieht sie schnell ein und hinterlässt keinen Film auf der Haut. 
+Die [Hyaluron Performance Creme](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2Fproduct%2Fhyaluron-creme%2F) könnt Ihr sowohl als Tages- als auch als Nachtcreme verwenden. Die Hyaluronsäure soll die Haut elastischer machen. Dadurch wirkt sich frischer und gepflegter. Neben veganem Hyaluron stecken auch Vitamin C, E, B3 sowie Retinol, OPC, Resaveatrol, Bio-Traubenkernöl und Shea Butter darin. Genau wie das Vitamin C Performance Serum und die Vitamin C Performance Creme, kommt die Hyaluron Performance Creme in einem praktischen Spender, den Ihr auch super in den Kulturbeutel packen könnt, ohne, dass etwas ausläuft. Die Konsistenz ist etwas dichter, als die der Vitamin C Performance Creme, dennoch zieht sie schnell ein und hinterlässt keinen Film auf der Haut.
 
 <Gallery name="cosphera-1" />
 
 ## Hyaluron – das steckt dahinter
 
-Eine Zutat kommt in allen drei von mir getesteten Hautpflegeprodukten vor: Hyaluronsäure. Man findet sie im Körper überall dort, wo größere Mengen Feuchtigkeit gebunden werden müssen. Also zum Beispiel im Bindegewebe und in der Haut. In der Hyaluron Performance Creme ist sowohl hochmolekulares als auch niedermolekulares Hyaluron enthalten. Ersteres kann tiefer vordringen, zweiteres bindet weiter oben Feuchtigkeit. Weil die Creme außerdem weder komedogen noch fettend ist,  eignet sie sich gut für empfindliche Mischhaut.
+Eine Zutat kommt in allen drei von mir getesteten Hautpflegeprodukten vor: Hyaluronsäure. Man findet sie im Körper überall dort, wo größere Mengen Feuchtigkeit gebunden werden müssen. Also zum Beispiel im Bindegewebe und in der Haut. In der Hyaluron Performance Creme ist sowohl hochmolekulares als auch niedermolekulares Hyaluron enthalten. Ersteres kann tiefer vordringen, zweiteres bindet weiter oben Feuchtigkeit. Weil die Creme außerdem weder komedogen noch fettend ist, eignet sie sich gut für empfindliche Mischhaut.
 
 Und nun zum [Wimpernserum](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2Fproduct%2Fwimpernserum%2F). Ich war wirklich sehr gespannt auf dieses Produkt. Ich hatte schon lange die Augen offengehalten, aber nie ein veganes Wimpernserum gefunden, das mich auch, was die Inhaltsstoffe angeht, überzeugt hätte. Schließlich trägt man es direkt auf den Wimpernkranz auf. Da möchte ich schon sicher gehen, dass es wirklich verträglich ist und ohne Hormone oder andere fragwürdige Inhaltsstoffe auskommt.
 
 ## Veganes Wimpernserum von Cosphera
 
-Das [vegane Wimpernserum von Cosphera](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2Fproduct%2Fwimpernserum%2F) ist nicht nur für Wimpern, sondern auch für Augenbrauen geeignet. Wenn Ihr Euch also mal verzupft hat, könnte es das Mittel der Wahl für Euch sein. 
+Das [vegane Wimpernserum von Cosphera](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2Fproduct%2Fwimpernserum%2F) ist nicht nur für Wimpern, sondern auch für Augenbrauen geeignet. Wenn Ihr Euch also mal verzupft hat, könnte es das Mittel der Wahl für Euch sein.
 
-Es soll die Wimpern verdichten und stärken. Eine Wirkung soll man bereits nach sechs Wochen erkennen. So lange nutze ich es noch nicht, aber ich muss sagen, dass es mir gut gefällt. Ich kann es ganz leicht in meine Abendroutine im Bad integrieren. Mit dem Applikator kann ich es ganz präzise entlang der Wimpern auftragen, ohne, dass etwas daneben geht. Genauso könnt Ihr es auch bei den Augenbrauen machen. 
+Es soll die Wimpern verdichten und stärken. Eine Wirkung soll man bereits nach sechs Wochen erkennen. So lange nutze ich es noch nicht, aber ich muss sagen, dass es mir gut gefällt. Ich kann es ganz leicht in meine Abendroutine im Bad integrieren. Mit dem Applikator kann ich es ganz präzise entlang der Wimpern auftragen, ohne, dass etwas daneben geht. Genauso könnt Ihr es auch bei den Augenbrauen machen.
 
 Die Inhaltsstoffe sind zu 100 Prozent natürlich: Rotklee-Extrakt soll die Haarwurzeln stärken, Mungobohnen-Extrakt soll die Wimpern fester machen und Magnolienrinden-Extrakt soll sich als antioxidativer Schutz um die Haarwurzel legen.
 
@@ -89,7 +85,6 @@ Insgesamt bin ich sehr zufrieden mit der [Kosmetik von Cosphera](https://t.adcel
 
 Was ich ziemlich gut finde, ist, dass man bei Cosphera [ohne Risiko bestellen](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2F) kann: Wenn man mal mit etwas nicht zufrieden ist, kann man es ohne Erklärung zurückschicken. Dafür gibt es sogar eine Garantie. Gerade bei Kosmetik gibt einem das doch ein Gefühl von Sicherheit.
 
+Lest hier [meine Expertenmeinung auf idealo.de](https://tidd.ly/3HBqdjD) über die Hyaluron Performance Creme.
 
-<Gallery name="cosphera-2" />
-
-
+Hier findet Ihr [meine ausführliche Bewertung](https://tidd.ly/3u0veiM), die ich als offizielle idealo.de Expertin über die Vitamin C Performance Creme von Cosphera geschrieben habe.
