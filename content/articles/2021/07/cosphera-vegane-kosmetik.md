@@ -85,6 +85,8 @@ Insgesamt bin ich sehr zufrieden mit der [Kosmetik von Cosphera](https://t.adcel
 
 Was ich ziemlich gut finde, ist, dass man bei Cosphera [ohne Risiko bestellen](https://t.adcell.com/p/click?promoId=243730&slotId=80259&param0=https%3A%2F%2Fcosphera.net%2F) kann: Wenn man mal mit etwas nicht zufrieden ist, kann man es ohne Erklärung zurückschicken. Dafür gibt es sogar eine Garantie. Gerade bei Kosmetik gibt einem das doch ein Gefühl von Sicherheit.
 
+---
+
 Lest hier [meine Expertenmeinung auf idealo.de](https://tidd.ly/3HBqdjD) über die Hyaluron Performance Creme.
 
 Hier findet Ihr [meine ausführliche Bewertung](https://tidd.ly/3u0veiM), die ich als offizielle idealo.de Expertin über die Vitamin C Performance Creme von Cosphera geschrieben habe.
