@@ -198,6 +198,10 @@ Für alle, die das Aloe Vera Gel Pur auch mal testen möchten, habe ich eine kle
 
 In Kürze zeige ich Euch hier im Blog, wo die Aloe Vera für die Santaverde Produkte angebaut werden. Ich war direkt vor Ort auf der **Finka Santaverde** und habe mich dort mit der lieben Carmen unterhalten und so einige Fotos gemacht. Bleibt also dran. Es bleibt auf alle Fälle spannend.
 
+---
+
+[Hier findet Ihr meine Expertenmeinung, die ich als idealo.de Expertin über das Aloe Vera Pur Gel geschrieben habe](https://tidd.ly/42jySkv).
+
 <Gallery
   images={[
     {
