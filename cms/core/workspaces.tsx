@@ -23,7 +23,6 @@ import { EditorPanel } from './editor-panel';
 import { NewPanel } from './new-panel';
 import { ViewerPanel } from './viewer-panel';
 import { MediaPanel } from './media-panel';
-import { WaitPanel } from './wait-panel';
 import { SplashPanel } from './splash-panel';
 import { ListPanel } from './list-panel';
 
@@ -33,6 +32,7 @@ const titles: Record<LeftPanel | RightPanel, string> = {
   new: 'Neu',
   viewer: 'Vorschau',
   media: 'Medien',
+  list: 'Geladene Beiträge',
 };
 
 const panels = {
