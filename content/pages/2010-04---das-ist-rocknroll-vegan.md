@@ -48,7 +48,7 @@ Wusstet Ihr, dass ich mein erstes Festival im zarten Alter von ein paar Monaten 
 - [Solkyri](/2020/06/solkyri/)
 - [Of the Vine](/2020/05/of-the-vine/)
 
-Das ist nur ein kleiner Ausschnitt aus der Musikrubrik auf meiner Seite. Ihr seid herzlich willkommen, hier zu stöbern und meine monatlichen Musiklisten, weitere spannende Interviews mit herausragenden Künstler⋆innen und Albumtipps zu entdecken!
+Das ist nur ein kleiner Ausschnitt aus der Musikrubrik auf meiner Seite. Ihr seid herzlich eingeladen, hier zu stöbern und meine monatlichen Musiklisten, weitere spannende Interviews mit herausragenden Künstler⋆innen und Albumtipps zu entdecken!
 
 ![Unterwegs für eine Reportage auf Hof Butenland](https://storage.googleapis.com/cardamonchai-media/2024-01-24/anne-reis-soundsvegan-com-2-jpg-imagine-080808_767c3d_1024_768/640.webp 'Unterwegs für eine Reportage auf Hof Butenlande')
 
