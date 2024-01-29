@@ -5,10 +5,10 @@ typeName: Interview
 title: '"Diese Katze steht nur auf, wenn es ans Tanzen geht!"'
 subTitle: Kara Delik über ihr Album "All The Singularities (I – IV)"
 seoTitle: Interview – Kara Delik – "All The Singularities (I – IV)"
-description: 'Kara Delik haben mit ihrem Album "All The Singularities (I – IV)" ordentlich vorgelegt. Erfahrt jetzt alles über die grandiose Band aus Berlin und ihren Stilmix.'
-excerpt: 'Kara Delik haben die Berliner Musikszene im Sturm erobert. Ich hatte jetzt die Gelegenheit sie zu interviewen und dabei einige spannende Insights über die Bandgeschichte und ihren unvergleichlichen Sound erhalten. Wir haben uns außerdem über eine ganz besondere schwarze Katze unterhalten.'
+description: Kara Delik haben mit ihrem Album "All The Singularities (I – IV)" ordentlich vorgelegt. Erfahrt jetzt alles über die grandiose Band aus Berlin und ihren Stilmix.
+excerpt: Kara Delik haben die Berliner Musikszene im Sturm erobert. Ich hatte jetzt die Gelegenheit sie zu interviewen und dabei einige spannende Insights über die Bandgeschichte und ihren unvergleichlichen Sound erhalten. Wir haben uns außerdem über eine ganz besondere schwarze Katze unterhalten.
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-24/kara-delik-interview-soundsvegan-com-jpg-imagine-080808_5d4430_1024_768/640.webp
-copyright: 'Kara Delik'
+copyright: Kara Delik
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-24/kara-delik-interview-soundsvegan-com-og-jpg-imagine-383838_5b4e44_1200_628/640.webp
 labels:
   - Band
@@ -23,19 +23,20 @@ labels:
   - Krautrock
   - No Wave
   - Post-Punk
-  - Punk
   - Turkish Rock
   - Heavy Music
+  - Punk
 focusKeyword: Interview Kara Delik
-advertisement: false
+advertisement: true
 affiliate: false
 language: de
 languageLink: /2024/01/kara-delik-interview-en/
+productsProvided: false
 ---
 
 **Kara Delik – das ist das sagenhafte internationale Trio, das die Berliner Musikszene im Sturm erobert hat. Die Band, bestehend aus Barış Öner (Istanbul Ghetto Club, [Saz]), Andi Sommer (Henry Fonda, Yacht Communism, [Bass, Synths]) Eilis Frawley (Anika, Laura Lee & The Jettes, [Drums]), verbindet komplexe Rhythmen mit spannenden Soundscapes und Effekten. Das Ganze reichern die drei gekonnt mit einer Mischung aus Post-Punk und anatolischen Sounds an. Erst kürzlich feierten sie mit ihrem Album "All The Singularities (I – IV)" einen großen Erfolg und gehen demnächst auf Tour – Zeit für ein Interview auf Sounds Vegan!**
 
-**Anne:** Hallo! Danke, dass Ihr Euch die Zeit für Euch nehmt! Wie war Euer Tag bis jetzt und was habt Ihr heute noch vor?
+**Anne:** Hi! Danke, dass Ihr Euch die Zeit für Euch nehmt! Wie war Euer Tag bis jetzt und was habt Ihr heute noch vor?
 
 **Andi:** Hi! Für mich war es bis jetzt ein ziemlich entspannter Sonntag, aber ich spreche jetzt mit Dir aus dem Waschsalon und wasche nebenbei meine Wäsche (lacht).
 
@@ -55,7 +56,7 @@ Ihr seid drei Freund\*innen, die 2020 zusammen eine Band gegründet haben – au
 
 ## "Viele Menschen aus den unterschiedlichsten Szenen kommen zusammen"
 
-![Kara Delik. Bild/Picture: Kara Delik](https://storage.googleapis.com/cardamonchai-media/2024-01-24/kara-delik-interview-1-soundsvegan-com-jpg-imagine-383838_5a5a5a_1024_768/640.webp 'Kara Delik. Bild/Picture: Kara Delik')
+![Kara Delik. Bild/Picture: Kara Delik](https://storage.googleapis.com/cardamonchai-media/2024-01-24/kara-delik-interview-1-soundsvegan-com-jpg-imagine-383838_5a5a5a_1024_768/640.webp "Kara Delik. Bild/Picture: Kara Delik")
 
 **Andi:** Bis jetzt ist es überwältigend, um ehrlich zu sein. In unserem ersten Jahr haben wir ein paar "Berlin Tours" gemacht – wir haben übers Wochenende zahlreiche Shows in unterschiedlichen Venues in Berlin gespielt. Während wir gedacht haben, dass das nur wieder eine unserer dummen Ideen ist, stellte sich heraus, dass die Shows alles andere als das waren. Sie waren angenehm und echt überraschend! Was am Anfang besonders faszinierend war, ist, wie viele unserer Freund\*innen aus den unterschiedlichsten Szenen und mit verschiedenen Backgrounds etwas daran finden, das ihnen gefällt (und sie kommen wieder, haha).
 
@@ -71,7 +72,7 @@ Ihr seid drei Freund\*innen, die 2020 zusammen eine Band gegründet haben – au
 
 ## "Das türkisfarbene Vinyl erinnert mich an die Ägäis"
 
-![Kara Delik. Bild/Picture: Kara Delik](https://storage.googleapis.com/cardamonchai-media/2024-01-24/kara-delik-interview-2-soundsvegan-com-jpg-imagine-181818_404040_1024_768/640.webp 'Kara Delik. Bild/Picture: Kara Delik')
+![Kara Delik. Bild/Picture: Kara Delik](https://storage.googleapis.com/cardamonchai-media/2024-01-24/kara-delik-interview-2-soundsvegan-com-jpg-imagine-181818_404040_1024_768/640.webp "Kara Delik. Bild/Picture: Kara Delik")
 
 **Barış:** Sie sind alle unsere Babys. Ich mache Witze. Ich mag "Singularities III" am liebsten, weil wir uns für türkisfarbenes Vinyl entschieden haben und diese Farbe erinnert mich an das ägäische Meer.
 
@@ -133,4 +134,4 @@ Eilis Frawley (Anika, Laura Lee & The Jettes) – Drums
 
 <YouTube id="wB2McSenAMw" />
 
-![Kara Delik – Tourdaten. Bild/Picture: Kara Delik | large](https://storage.googleapis.com/cardamonchai-media/2024-01-24/kara-delik-tourplan-jpeg-imagine-181818_2c2728_565_800/640.webp 'Kara Delik – Tourdaten. Bild/Picture: Kara Delik')
+![Kara Delik – Tourdaten. Bild/Picture: Kara Delik | large](https://storage.googleapis.com/cardamonchai-media/2024-01-24/kara-delik-tourplan-jpeg-imagine-181818_2c2728_565_800/640.webp "Kara Delik – Tourdaten. Bild/Picture: Kara Delik")
