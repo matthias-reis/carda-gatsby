@@ -34,6 +34,7 @@ Wusstet Ihr, dass ich mein erstes Festival im zarten Alter von ein paar Monaten 
 - [Mike Vennart (Vennart, Oceansize, Biffy Clyro)](/2024/01/mike-vennart-interview/)
 - [Paul Seidel (Fern, The Ocean)](/2022/11/paul-seidel-fern-the-ocean-interview/)
 - [God Is An Astronaut Mitglied Jamie Dean](/2022/07/jamie-dean-interview/)
+- [Crippled Black Phoenix](/2020/12/crippled-black-phoenix-interview/)
 - [EF](/2022/11/ef-interview/)
 - [We Lost The Sea](/2021/01/we-lost-the-sea-interview/)
 - [Robin Staps (The Ocean)](/2020/09/the-ocean-robin-staps-interview/)
