@@ -82,3 +82,9 @@ Alle hier vorgestellten Produkte sind vegan, tierversuchsfrei und nicht komedoge
 Wenn Ihr noch mehr über die Produkte von Cosphera erfahren wollt, lest gerne [meinen Artikel über das Wimpernserum und die Vitamin-C-Serie](/2021/07/cosphera-vegane-kosmetik/).
 
 <Gallery name="vegane-hyaluronsaeure-cosphera-1" />
+
+---
+
+- [Lest hier meine Expertenmeinung auf idealo.de über die Hyaluron Performance Creme von Cosphera](https://tidd.ly/3HBqdjD).
+- [Hier findet Ihr meine ausführliche Bewertung, die ich als offizielle idealo.de Expertin über das Hyluron Performance Serum von Cosphera geschrieben habe](https://tidd.ly/3Om5OD1).
+- [Meine idealo.de Expertenmeinung über die Hyaluron Performance Nachtcreme von Cosphera ist hier zu finden](https://tidd.ly/3Olt6ZK).
