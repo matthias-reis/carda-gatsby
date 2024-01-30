@@ -3,9 +3,9 @@ date: 2023-12-07T13:00:00.766Z
 slug: moricare
 typeName: Produkttest
 title: 'Moricare stellt sich vor'
-subTitle: 10% Rabatt plus Geschenkverpackung zu den Feiertagen
+subTitle: Hochwertige natürliche Pflege zu den Feiertagen
 seoTitle: 'Moricare – vegane Beauty-Produkte mit Geschenkverpackung'
-description: Moricare vegane Beauty-Produkte an den Feiertagen verschenken? Holt Euch hier satte 10 Prozent Rabatt plus Geschenkverpackung!
+description: Moricare vegane Beauty-Produkte an den Feiertagen verschenken? Holt Euch jetzt hochwertige natürliche Pflege plus Geschenkverpackung!
 excerpt: Die vegane Beauty-Brand Moricare hat sie jetzt kurz vor den Feiertagen eine schöne Rabattaktion für Euch ausgedacht – zusätzlich zur festlichen Verpackung in Rot und Gold erhaltet Ihr zehn Prozent Rabatt! In diesem Artikel lernt Ihr Moricare kennen und stelle ich Euch eines meiner Lieblings-Produkte vor – das Hyaluronserum.
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-07/moricare-hyaruron-serum-jpg-imagine-585858_7c413e_1024_768/640.webp
 copyright: ''
@@ -74,3 +74,5 @@ Moricare verpackt alle Cremes & Co. besonders edel in Gold und Rot. Wenn Ihr meh
 ![Moricare Hyaluron-Serum | large](https://storage.googleapis.com/cardamonchai-media/2023-12-07/moricare-anne-reis-soundsvegan-com-3-jpg-imagine-f80808_893d35_2048_1536/640.webp 'Moricare Beauty-Produkt in rot-goldener Geschenkverpackung')
 
 ![Moricare Hyaluron-Serum | large](https://storage.googleapis.com/cardamonchai-media/2023-12-07/moricare-anne-reis-soundsvegan-com-5-jpg-imagine-080808_675e5e_2048_1536/640.webp 'Moricare Hyaluron-Serum im nachhaltigen Karton')
+
+[^1]: Die Rabatt-Aktion ist am 23.12. 2023 abgelaufen.
