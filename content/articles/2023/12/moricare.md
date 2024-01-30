@@ -29,12 +29,6 @@ language: de
 
 **Die vegane Beauty-Brand Moricare hat gerade eine schöne Aktion gestartet: zusätzlich zur festlichen Verpackung zu den Feiertagen gibt es jetzt auch noch zehn Prozent Rabatt[^1]. Für mich ein weiterer Grund, Euch die Marke und eines meiner Lieblingsprodukte hier endlich mal vorzustellen.**
 
----
-
-**Hinweis:** Unten findet Ihr Euren 10-Prozent-Rabattcode\*!
-
----
-
 Die Feiertage stehen vor der Tür und hierzulande sind viele Menschen gerade auf der Suche nach den passenden Geschenken für ihre Lieben. Wie wäre es denn dieses Jahr zum Beispiel mit toller, veganer Kosmetik? Ich kann Euch zum Beispiel das [Hyaluron-Serum von Moricare](https://tidd.ly/3uNR7BQ) sehr empfehlen.
 
 ![Moricare Hyaluron-Serum](https://storage.googleapis.com/cardamonchai-media/2023-12-07/moricare-anne-reis-soundsvegan-com-8-jpg-imagine-3878d8_5e799a_2048_1536/640.webp 'Moricare Hyaluron-Serum')
@@ -75,12 +69,8 @@ Nach diesem Leitsatz handelt die Brand konsequent. Das bedeutet auch, dass alle 
 
 In den Bereichen, in denen das Gewicht laut Angabe von Moricare gegen Glas sprach, entschied sich die Brand für recycelten Kunststoff aus dem Gelben Sack – auch bekannt als PCR. Die in der Beauty-Branche weitverbreitete Show-Verpackungen lehnt Moricare ab – die Verpackungen sind daher bei gleichem Inhalt um bis zu 40 Prozent kleiner, als Ihr es von anderen Brands kennt. Die Verpackungsmaterialen bestehen insgesamt zum größten Teil aus Recyclingmaterial und Ihr könnt sie, sobald sie leer sind, wieder dem Recycling-Kreislauf zuführen. Derzeit arbeitet das Unternehmen daran, dass bald alle Verpackungen zu 100 Prozent aus recycelten Wertstoffen bestehen werden.
 
-\*Wenn Ihr jetzt bei Moricare bestellt, könnt Ihr die Produkte direkt an die Menschen verschicken lassen, die Ihr gerne beschenken möchtet. Die wunderschöne Geschenkverpackung gibt es mit dazu und Ihr erhaltet mit dem Rabattcode **Weihnacht23** noch satte zehn Prozent Rabatt[^1]. Das lohnt sich doch, oder?
-
 Moricare verpackt alle Cremes & Co. besonders edel in Gold und Rot. Wenn Ihr mehr wissen wollt, findet Ihr alle Infos auch im [Moricare Shop](https://tidd.ly/47Jh9o9).
 
 ![Moricare Hyaluron-Serum | large](https://storage.googleapis.com/cardamonchai-media/2023-12-07/moricare-anne-reis-soundsvegan-com-3-jpg-imagine-f80808_893d35_2048_1536/640.webp 'Moricare Beauty-Produkt in rot-goldener Geschenkverpackung')
 
 ![Moricare Hyaluron-Serum | large](https://storage.googleapis.com/cardamonchai-media/2023-12-07/moricare-anne-reis-soundsvegan-com-5-jpg-imagine-080808_675e5e_2048_1536/640.webp 'Moricare Hyaluron-Serum im nachhaltigen Karton')
-
-[^1]: Das Angebot gilt bis zum 23. Dezember 2023.
