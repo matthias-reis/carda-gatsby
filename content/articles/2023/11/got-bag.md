@@ -15,6 +15,7 @@ labels:
   - Rucksäcke
   - vegan
   - vegane Lederalternativen
+  - veganes Leder
   - Upcycling
   - Ocean Impact Plastic
   - Got Bag
