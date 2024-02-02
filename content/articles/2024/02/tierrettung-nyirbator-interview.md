@@ -250,7 +250,7 @@ Das ist generell im Tierschutz mit das Wichtigste: Den passenden Hund zum passen
 
 ## Der Hund sollte zum Menschen passen
 
-![Lena. Bild/Picture: © Lena, Tierrettung Nyirbator](https://storage.googleapis.com/cardamonchai-media/2024-02-02/tierrettung-nyirbator-lena-interview-soundsvegan-com-1-jpg-imagine-a89888_877d73_768_1024/640.webp 'Lena. Bild/Picture: © Lena, Tierrettung Nyirbator')
+![Lena. Bild/Picture: © Lena, Tierrettung Nyirbator](https://storage.googleapis.com/cardamonchai-media/2024-02-02/tierrettung-nyirbator-lena-interview-soundsvegan-com-231-jpg-imagine-080808_79705e_768_1024/640.webp 'Lena. Bild/Picture: © Lena, Tierrettung Nyirbator')
 
 Zusammenfassend würde ich sagen, es ist nicht jede\*r für einen Hund aus dem Tierschutz geeignet, es ist nicht jede\*r für einen Hund aus dem Tierheim geeignet. Es ist generell nicht jede\*r für einen Hund geeignet. Aber es ist immer wichtig, dass man darauf achtet, dass man einen Hund sucht, der zu einem passt.
 
@@ -286,7 +286,7 @@ Viele wollen sich auch einfach nicht mit dem Thema auseinandersetzen und zum Bei
 
 ## "Ich wünsche mir, dass die Menschen ihr Handeln mehr hinterfragen
 
-![Lena. Bild/Picture: © Lena, Tierrettung Nyirbator](https://storage.googleapis.com/cardamonchai-media/2024-02-02/tierrettung-nyirbator-lena-interview-soundsvegan-com-131-jpg-imagine-484848_496d6a_1024_768/640.webp 'Lena. Bild/Picture: © Lena, Tierrettung Nyirbator')
+![Lena. Bild/Picture: © Lena, Tierrettung Nyirbator](https://storage.googleapis.com/cardamonchai-media/2024-02-02/tierrettung-nyirbator-lena-interview-soundsvegan-com-232-jpg-imagine-181818_887060_768_1024/640.webp 'Lena. Bild/Picture: © Lena, Tierrettung Nyirbator')
 
 **Lena:** Ich würde mich sehr freuen, wenn die Menschen anfangen würden, Dinge vernünftig zu hinterfragen. Wir sind glücklicherweise in einem Zeitalter angekommen, in dem sich jede\*r die Informationen besorgen kann, die er\*sie benötigt; das Internet ist groß und sehr reichhaltig gefüllt, dann sollte man diesen Schatz auch nutzen.
 
