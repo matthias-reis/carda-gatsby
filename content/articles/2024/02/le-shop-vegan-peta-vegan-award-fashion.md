@@ -5,7 +5,7 @@ typeName:
 title: 'Le Shop Vegan erhält PETA Vegan Award Fashion 2024'
 subTitle: 'Bester veganer Onlineshop im Bereich Fashion'
 seoTitle: 'Le Shop Vegan wird mit PETA Vegan Award Fashion ausgezeichnet'
-description: 'Le Shop Vegan hat jetzt von PETA offiziell Vegan Award für den Bereich Fashion erhalten. Holt Euch hier spannende Insights!'
+description: 'Le Shop Vegan hat jetzt von PETA offiziell den Vegan Award für den Bereich Fashion erhalten. Holt Euch hier spannende Insights!'
 excerpt: 'PETA hat Le Shop Vegan offiziell den PETA Vegan Award Fashion verliehen. Ich nehme das heute zum Anlass, Euch meinen veganen Lieblingsshop für faire Slow Fashion endlich mal genauer vorzustellen und zu erzählen, was genau hinter dem Namen und dem Onlinestore steckt.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-01/peta-vegan-award-soundsvegan-com-jpg-imagine-080808_4b1950_1024_768/640.webp
 copyright:
