@@ -308,7 +308,7 @@ Vielen Dank, dass Du Dir die Zeit genommen hast! Alles Gute, wir bleiben in Kont
 
 ## Spendenaufruf
 
-Die Tierrettung Nyirbator freut sich über Eure Unterstützung! Bitte überweist Eure Spenden unter dem Verwendungszweck "Nyirbator" an das folgende Konto:
+Die Tierrettung Nyirbator freut sich über Eure Unterstützung! Bitte überweist Eure Spenden unter dem **Verwendungszweck "Nyirbator"** an das folgende Konto:
 
 **Tierhilfe born to live e.V**<br></br> **Konto: Postbank**<br></br> **IBAN: DE81 1001 0010 0922 9151 00**<br></br> **BIC: PBNKDEFF**
 
