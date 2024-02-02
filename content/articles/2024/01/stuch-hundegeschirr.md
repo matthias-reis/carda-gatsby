@@ -1,5 +1,5 @@
 ---
-date: 2024-01-31T14:00:12.086Z
+date: 2024-02-01T13:00:12.086Z
 slug: stuch-hundegeschirr
 typeName: Produkttest
 title: 'STUCH Tierliebe stellt sich vor'
