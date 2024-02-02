@@ -220,7 +220,7 @@ Für mich war natürlich nach meinem Besuch nichts mehr wie vorher, aber wir hab
 
 **Tierhilfe born to live e.V**<br></br> **Konto: Postbank**<br></br> **IBAN: DE81 1001 0010 0922 9151 00**<br></br> **BIC: PBNKDEFF**
 
-Oder direkt an Henrietta in Ungarn über **Paypal**. Die E-Mail-Adresse ist hier **paypal.me/borntolive**.
+Oder direkt an Henrietta in Ungarn über **Paypal**. Die E-Mail-Adresse ist hier **nyirbatorigazdakeresok@gmail.com**.
 
 Wer sich als Helfer\*in melden möchte und sich der Verantwortung bewusst ist, kann sich auch über unsere Webseite bei uns melden.
 
@@ -312,7 +312,7 @@ Die Tierrettung Nyirbator freut sich über Eure Unterstützung! Bitte überweist
 
 **Tierhilfe born to live e.V**<br></br> **Konto: Postbank**<br></br> **IBAN: DE81 1001 0010 0922 9151 00**<br></br> **BIC: PBNKDEFF**
 
-Oder sende Euer Geld direkt über **Paypal** an Henrietta in Nyirbator. Die E-Mail-Adresse ist hier **paypal.me/borntolive**.
+Oder sende Euer Geld direkt über **Paypal** an Henrietta in Nyirbator. Die E-Mail-Adresse ist hier **nyirbatorigazdakeresok@gmail.com**.
 
 [^1]: [Tierrettung Nyirbator – Hundevermittlung](https://www.tierrettung-nyirbator.com/vermittlung-hunde/)
 [^2]: [Susi Utzinger Stiftung](https://www.susyutzinger.ch/)
