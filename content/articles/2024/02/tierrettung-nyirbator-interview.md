@@ -308,5 +308,11 @@ Vielen Dank, dass Du Dir die Zeit genommen hast! Alles Gute, wir bleiben in Kont
 
 ## Spendenaufruf
 
-[^1]: [Tierrettung Nyirbator Hundevermittlung](https://www.tierrettung-nyirbator.com/vermittlung-hunde/)
+Die Tierrettung Nyirbator freut sich über Eure Unterstützung! Bitte überweist Eure Spenden an das folgende Konto:
+
+**Tierhilfe born to live e.V**<br></br> **Konto: Postbank**<br></br> **IBAN: DE81 1001 0010 0922 9151 00**<br></br> **BIC: PBNKDEFF**
+
+Oder sende Euer Geld direkt über **Paypal** an Henrietta in Nyirbator. Die E-Mail-Adresse ist hier **paypal.me/borntolive**.
+
+[^1]: [Tierrettung Nyirbator – Hundevermittlung](https://www.tierrettung-nyirbator.com/vermittlung-hunde/)
 [^2]: [Susi Utzinger Stiftung](https://www.susyutzinger.ch/)
