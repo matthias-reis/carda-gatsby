@@ -3,7 +3,7 @@ date: 2024-02-02T10:00:12.086Z
 slug: tierrettung-nyirbator-interview
 typeName: Interview
 title: 'Interview mit Lena von der Tierrettung Nyirbator'
-subTitle: '"Man lernt, seine eigenen Bedürfnisse hinten anzustellen"'
+subTitle: '"Man lernt, seine eigenen Bedürfnisse hintanzustellen"'
 seoTitle: 'Tierrettung Nyirbator – Interview mit Lena'
 description: 'Im Interview hat mir Lena von der Tierrettung Nyirbator verraten, wie für sie Tierschutz aussieht. Erfahrt jetzt alles über die Hundevermittlung!'
 excerpt: 'Lena von der Tierrettung Nyirbator hat mir im Interview verraten, wie der Tierschutz-Alltag in Ost-Ungarn aussieht, wir haben darüber unterhalten, warum der Tierschutz aus ihrem Leben nicht mehr wegzudenken ist und wieso der Veganismus dabei eine tragende Rolle spielt.'
@@ -204,7 +204,7 @@ Ich denke allerdings auch, dass es wichtig ist, dass das nicht aufhört, einem n
 
 Für mich ist es auch mein absoluter Albtraum, meine Pflegehündin wieder abzugeben, aber ich weiß, dass es noch so viele gibt, die warten; und ich möchte diesen Platz unbedingt frei machen. Auch, wenn sie mir schon so stark ans Herz gewachsen ist.
 
-Man lernt, seine eigenen Bedürfnisse hinten anzustellen und zu sagen, dass es Lebewesen gibt, die Hilfe benötigen. Mein damaliger Freund hat mir etwas Schönes gesagt, als ich das erste Mal in Rumänien war:
+Man lernt, seine eigenen Bedürfnisse hintanzustellen und zu sagen, dass es Lebewesen gibt, die Hilfe benötigen. Mein damaliger Freund hat mir etwas Schönes gesagt, als ich das erste Mal in Rumänien war:
 
 > "Du fährst jetzt eine Woche lang da hin und dann kommst Du wieder heim und legst Dich in Dein schönes Bett und diese Hunde fragt niemand, ob sie da leben wollen. Für sie ist das keine Woche Urlaub, der ein bisschen anstrengend wird, die sie da machen."
 
