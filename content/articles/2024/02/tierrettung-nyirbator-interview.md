@@ -206,7 +206,7 @@ Für mich ist es auch mein absoluter Albtraum, meine Pflegehündin wieder abzuge
 
 Man lernt, seine eigenen Bedürfnisse hinten anzustellen und zu sagen, dass es Lebewesen gibt, die Hilfe benötigen. Mein damaliger Freund hat mir etwas Schönes gesagt, als ich das erste Mal in Rumänien war:
 
-> "Du fährst jetzt eine Woche lang da hin und dann kommst Du wieder heim und legst Dich in Dein schönes Bett und diese Hunde fragt niemand, ob sie da leben wollen. Für sie ist das keine Woche Urlaub, der ein bisschen anstrengend wird, die sie da machen.
+> "Du fährst jetzt eine Woche lang da hin und dann kommst Du wieder heim und legst Dich in Dein schönes Bett und diese Hunde fragt niemand, ob sie da leben wollen. Für sie ist das keine Woche Urlaub, der ein bisschen anstrengend wird, die sie da machen."
 
 Für mich war natürlich nach meinem Besuch nichts mehr wie vorher, aber wir haben immer noch die Möglichkeit frei zu entscheiden und das haben diese Tiere nicht.
 
