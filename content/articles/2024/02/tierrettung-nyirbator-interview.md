@@ -3,7 +3,7 @@ date: 2024-02-02T10:00:12.086Z
 slug: tierrettung-nyirbator-interview
 typeName: Interview
 title: 'Interview mit Lena von der Tierrettung Nyirbator'
-subTitle: 'Man lernt, seine eigenen Bedürfnisse hinten anzustellen'
+subTitle: '"Man lernt, seine eigenen Bedürfnisse hinten anzustellen"'
 seoTitle: 'Tierrettung Nyirbator – Interview mit Lena'
 description: 'Im Interview hat mir Lena von der Tierrettung Nyirbator verraten, wie für sie Tierschutz aussieht. Erfahrt jetzt alles über die Hundevermittlung!'
 excerpt: 'Lena von der Tierrettung Nyirbator hat mir im Interview verraten, wie der Tierschutz-Alltag in Ost-Ungarn aussieht, wir haben darüber unterhalten, warum der Tierschutz aus ihrem Leben nicht mehr wegzudenken ist und wieso der Veganismus dabei eine tragende Rolle spielt.'
