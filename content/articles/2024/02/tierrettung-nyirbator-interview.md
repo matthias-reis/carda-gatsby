@@ -1,7 +1,7 @@
 ---
 date: 2024-02-02T10:00:12.086Z
 slug: tierrettung-nyirbator-interview
-typeName:
+typeName: Interview
 title: 'Interview mit Lena von der Tierrettung Nyirbator'
 subTitle: 'Man lernt, seine eigenen Bedürfnisse hinten anzustellen'
 seoTitle: 'Tierrettung Nyirbator – Interview mit Lena'
