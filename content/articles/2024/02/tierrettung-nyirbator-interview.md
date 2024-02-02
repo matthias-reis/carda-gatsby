@@ -106,7 +106,7 @@ Natürlich steht es jedem\*r frei, einen Hund aus einer Tötungsstation zu adopt
 
 ## "Es liegt meist nicht an den Hunden, dass sie zu 'Wanderpokalen' werden
 
-![Lena. Bild/Picture: © Lena, Tierrettung Nyirbator](https://storage.googleapis.com/cardamonchai-media/2024-02-02/tierrettung-nyirbator-lena-interview-soundsvegan-com-6-jpg-imagine-a8a898_888273_768_1024/640.webp 'Lena. Bild/Picture: © Lena, Tierrettung Nyirbator')
+![Lena. Bild/Picture: © Lena, Tierrettung Nyirbator](https://storage.googleapis.com/cardamonchai-media/2024-02-02/tierrettung-nyirbator-lena-interview-soundsvegan-com-300-jpg-imagine-a8a898_898374_768_1024/640.webp 'Lena. Bild/Picture: © Lena, Tierrettung Nyirbator')
 
 **Lena:** Leider treffen Menschen in solchen Situationen häufig die unüberlegtesten Entscheidungen überhaupt. Ich möchte auch nicht wissen, wie viele von ihnen ihre Entscheidungen bereuen.
 
