@@ -58,7 +58,7 @@ Zusammen mit dem Statement veröffentlichte die Band ein Video mit dem Titel "Su
 
 ## Eine Post-Music-Tour der Superlative
 
-![sleepmakeswaves – "It's Here, But I Have No Names For It". Bild/Picture: © sleepmakeswaves](https://storage.googleapis.com/cardamonchai-media/2024-02-06/sleepmakeswaves-its-here-but-i-have-no-names-for-it-soundsvegan-com-preview-jpg-imagine-685838_6c8076_1195_1200/640.webp 'sleepmakeswaves. Bild/Picture: © sleepmakeswaves')
+![sleepmakeswaves – "It's Here, But I Have No Names For It". Bild/Picture: © sleepmakeswaves](https://storage.googleapis.com/cardamonchai-media/2024-02-06/sleepmakeswaves-its-here-but-i-have-no-names-for-it-soundsvegan-com-preview-jpg-imagine-685838_6c8076_1195_1200/640.webp 'sleepmakeswaves – "It's Here, But I Have No Names For It". Bild/Picture: © sleepmakeswaves')
 
 Direkt im Anschluss an die Veröffentlichung geht die Tour in Australien los und führt die Band von Melbourne über Sydney nach Brisbane – in Begleitung der taiwanesischen Math-Rock-Legenden Elephant Gym sowie der australischen Post-Rocker Meniscus – eine Post-Musik-Tour der Superlative.
 
