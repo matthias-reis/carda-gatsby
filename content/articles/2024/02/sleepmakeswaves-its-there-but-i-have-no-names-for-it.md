@@ -1,6 +1,6 @@
 ---
 date: 2024-02-06T10:00:00.766Z
-slug: sleepmakeswaves-its-there-but-i-have-no-names-for-it.md
+slug: sleepmakeswaves-its-there-but-i-have-no-names-for-it
 typeName: Preview
 title: '"It‘s Here, But I Have No Names For It"'
 subTitle: sleepmakeswaves kündigen neues Album an
