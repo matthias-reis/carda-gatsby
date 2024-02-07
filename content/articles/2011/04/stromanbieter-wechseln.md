@@ -1,7 +1,6 @@
 ---
 ogTitle: Atomkraft, nein danke! Stromanbieter jetzt wechseln!
-excerpt: "Die Mehrheit ist inzwischen dafür, doch viele fragen sich auch: Was
-  kann ich persönlich dafür tun, damit der Wandel beschleunigt wird?"
+excerpt: 'Die Mehrheit ist inzwischen dafür, doch viele fragen sich auch: Was kann ich persönlich dafür tun, damit der Wandel beschleunigt wird?'
 ogImage: null
 isAffiliate: false
 path: /2011/04/stromanbieter-wechseln/
@@ -19,8 +18,7 @@ remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_04_Atomkraf
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_04_Atomkraft_Nein_Danke.png__m.jpg
 subTitle: Atomausstieg jetzt!
 seoTitle: Atomkraft, nein danke! Stromanbieter jetzt wechseln!
-description: "Die Mehrheit ist inzwischen dafür, doch viele fragen sich auch:
-  Was kann ich persönlich dafür tun, damit der Wandel beschleunigt wird?"
+description: 'Die Mehrheit ist inzwischen dafür, doch viele fragen sich auch: Was kann ich persönlich dafür tun, damit der Wandel beschleunigt wird?'
 labels:
   - AKW
   - alternative Energien
@@ -98,6 +96,7 @@ labels:
   - verstrahlt
   - Xenon
   - Xenon 133
+  - Ökostrom
 language: de
 ---
 

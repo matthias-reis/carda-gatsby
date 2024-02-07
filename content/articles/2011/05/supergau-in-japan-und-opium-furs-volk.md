@@ -94,6 +94,7 @@ labels:
   - Volk
   - Xenon
   - Xenon 133 | veröffentlicht inBlog
+  - Ökostrom
 focusKeyword: Supergau
 status: publish
 isWerbung: false

@@ -1,7 +1,6 @@
 ---
 ogTitle: Veganer Ökostrom und veganes Biogas - so viel ist möglich
-excerpt: Fragt Ihr Euch manchmal, ob es auch möglich ist, veganen Ökostrom und
-  veganes Biogas für  Eure Wohnung zu beziehen? Hier kommt die Antwort.
+excerpt: Fragt Ihr Euch manchmal, ob es auch möglich ist, veganen Ökostrom und veganes Biogas für  Eure Wohnung zu beziehen? Hier kommt die Antwort.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_oekostrom-hamburg-hafen-fb.png__l.jpg
 isAffiliate: false
 path: /2020/11/oekostrom-biogas-vegan/
@@ -19,8 +18,7 @@ remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hamburg-
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hamburg-hafen__m.jpg
 subTitle: So viel ist möglich
 seoTitle: Veganer Ökostrom und veganes Biogas - so viel ist möglich
-description: Fragt Ihr Euch manchmal, ob es auch möglich ist, veganen Ökostrom
-  und veganes Biogas für Eure Wohnung zu beziehen? Hier kommt die Antwort.
+description: Fragt Ihr Euch manchmal, ob es auch möglich ist, veganen Ökostrom und veganes Biogas für Eure Wohnung zu beziehen? Hier kommt die Antwort.
 labels:
   - Biogas
   - Erdwärme
@@ -39,8 +37,11 @@ labels:
   - Wärmetauscher
   - Windgas
   - Windstrom
+  - Ökostrom
+  - Ökogas
 language: de
 ---
+
 **Schon seit langen Jahren beziehe ich Strom über Green Planet Energy (früher Greenpeace Energy). Das hat verschiedene Gründe. Unter anderem möchte ich natürlich meinen CO<sub>2</sub>-Verbrauch gering halten und die Atomlobby nicht unterstützen. Der Ökostrom ist für mich aber auch direkt mit Ethik und Tierrechten verbunden. Hier ein paar Fakten dazu.**
 
 Von Kochen ohne Knochen, der Albert Schweitzer Stiftung, den Ärzten gegen Tierversuchen und Veganbox wird Green Planet Energy als veganer Stromanbieter empfohlen. Aber warum ist das so?

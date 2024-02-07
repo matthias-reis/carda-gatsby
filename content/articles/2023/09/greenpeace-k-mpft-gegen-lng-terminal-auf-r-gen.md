@@ -18,6 +18,8 @@ labels:
   - LNG-Terminal
   - Rügen
   - Klima- & Umweltschutz
+  - Ökogas
+  - Ökostrom
 focusKeyword: LNG-Terminal Rügen
 advertisement: false
 affiliate: true
