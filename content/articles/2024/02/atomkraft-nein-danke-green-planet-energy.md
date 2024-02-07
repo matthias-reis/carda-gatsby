@@ -3,7 +3,7 @@ date: 2024-02-07T12:30:12.086Z
 slug: green-planet-energy-atomkraft-nein-danke
 typeName:
 title: '"Atomkraft? Nein Danke!"'
-subTitle: 'Darum lehnt Green Planet Energy Atomkraft ab'
+subTitle: 'Darum lehnt Green Planet Energy Atomstrom ab'
 seoTitle: '"Atomkraft? Nein Danke!" – Green Planet Energy zeigt Alternativen'
 description: '"Atomkraft? Nein Danke!" sagt Green Planet Energy. Erfahrt jetzt, warum das so ist und wie Ihr die Alternativen jetzt schon nutzen könnt."'
 excerpt: '"Atomkraft? Nein Danke!" – wenn Ihr Greenpeace und damit auch Green Planet Energy folgt, ist dieser Satz für Euch nicht neu. Dennoch hat er in den letzten Wochen und Monaten wieder an Bedeutung gewonnen. Warum Sönke Tangermann, Vorstand bei Green Planet Energy die Atomkraft für eine Sackgasse hält, erfahrt Ihr in diesem Artikel.'
