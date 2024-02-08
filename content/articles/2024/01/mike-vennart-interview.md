@@ -32,7 +32,7 @@ languageLink: /2024/01/mike-vennart-interview-en/
 
 **"Mike Vennart Interview" - ja, ihr habt richtig gelesen! Ich habe heute etwas wirklich Tolles für Euch: Das musikalische Mastermind Mike Vennart (Vennart, Oceansize, Biffy Clyro) hat sich Zeit für ein Interview genommen. Ich habe ihm Fragen über sein neues, am 2. Februar erscheinendes Album "Forgiveness & The Grain" gestellt. Außerdem haben wir uns über die Tatsache unterhalten, dass die Welt im Moment immer grausamer zu werden scheint – und darüber, wie man sich selbst motiviert, wenn man in einen kreativen Prozess startet. Ich wünsche Euch viel Freude beim Lesen!**
 
-**Anne:** Mike! Gleich zuallererst: Danke, dass Du mir die Möglichkeit gibst, Dich zu interviewen! Für mich als großen Fan von Vennart, Oceansize, Biffy Clyro, Empire State Bastard, and British Theatre bedeutet mir das unendlich viel und es ist eine große Ehre für mich, Dich als Gast begrüßen zu dürfen! Wie geht es Dir heute? Du freust Dich sicher auf die Veröffentlichung Deines neuen Solo-Albums "Forgiveness & The Grain", oder?
+**Anne:** Mike! Gleich zuallererst: Danke, dass Du mir die Möglichkeit gibst, Dich zu interviewen! Für mich als großen Fan von Vennart, Oceansize, Biffy Clyro, Empire State Bastard, and British Theatre bedeutet mir das unendlich viel und es ist eine große Ehre für mich, Dich als Gast begrüßen zu dürfen! Wie geht es Dir heute? Du freust Dich sicher auf die Veröffentlichung Deines neuen Soloalbums "Forgiveness & The Grain", oder?
 
 **Mike:** Hi Anne. Mir geht es gut. Ich freue mich wirklich darauf, diese Platte zu veröffentlichen. Das brodelt schon so lange vor sich hin!
 

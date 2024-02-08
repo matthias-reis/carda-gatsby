@@ -1,8 +1,6 @@
 ---
 ogTitle: '"Girl In A Band " von Kim Gordon - Autobiografie einer Ikone'
-excerpt: In ihrem Buch "Girl In A Band" beschreibt die Sängerin und Künstlerin
-  Kim Gordon ihr Leben und die Sonic Youth Bandgeschichte auf autobiografische
-  Weise.
+excerpt: In ihrem Buch "Girl In A Band" beschreibt die Sängerin und Künstlerin Kim Gordon ihr Leben und die Sonic Youth Bandgeschichte auf autobiografische Weise.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_girl-in-a-band-fb.png__l.jpg
 isAffiliate: false
 path: /2020/09/girl-in-a-band-kim-gordon/
@@ -21,9 +19,7 @@ status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-04-girl-in-a-band-01__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-04-girl-in-a-band-01__m.jpg
 seoTitle: '"Girl In A Band " von Kim Gordon - Autobiografie einer Ikone'
-description: In ihrem Buch "Girl In A Band" beschreibt die Sängerin und
-  Künstlerin Kim Gordon ihr Leben und die Sonic Youth Bandgeschichte auf
-  autobiografische Weise.
+description: In ihrem Buch "Girl In A Band" beschreibt die Sängerin und Künstlerin Kim Gordon ihr Leben und die Sonic Youth Bandgeschichte auf autobiografische Weise.
 language: de
 type: Artikel
 labels:
@@ -91,7 +87,7 @@ Ich würde "Girl In A Band" immer wieder lesen und lege das Buch allen ans Herz,
 
 Als Bassistin, Sängerin und Songwriterin war Kim Gordon das Herz von Sonic Youth und über viele Jahre nicht nur mein erklärtes Vorbild. Die Indie Band hatte ihre Hochphase in den 1980er und 1990er Jahren. Zusammen mit Gruppen wie Nirvana, Hole, Pixies und The Smashing Pumpkins war sie Teil einer großen Welle. Musikalisch in Gefilden wie No Wave, Punk, Noise und Avantgarde angesiedelt, hoben sich Sonic Youth jedoch immer von allem ab. Wer einmal Sonic Youth gehört hat, wird in einen Strudel gezogen und wird nie wieder aufhören, diese ganz besondere Musik zu konsumieren.
 
-Letztes Jahr veröffentlichte Kim Gordon ihr erstes Solo-Album "No Home Record". Das Stück "Murdered Out" von dieser Platte hat es 2019 auf meine [Songs des Jahres Liste](/2019/12/die-12-songs-des-jahres-2019/) geschafft.
+Letztes Jahr veröffentlichte Kim Gordon ihr erstes Soloalbum "No Home Record". Das Stück "Murdered Out" von dieser Platte hat es 2019 auf meine [Songs des Jahres Liste](/2019/12/die-12-songs-des-jahres-2019/) geschafft.
 
 Die gebundene deutsche Ausgabe von "Girl In A Band ist unter der ISBN 9780062295897 am 2. April 2015 im Verlag Kiepenheuer &amp; Witsch erschienen. [Ihr könnt das Buch hier bestellen](https://amzn.to/2Xipsse).
 

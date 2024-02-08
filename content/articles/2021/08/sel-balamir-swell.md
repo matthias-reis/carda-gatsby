@@ -3,9 +3,9 @@ date: 2021-08-25T13:26:02.029Z
 slug: sel-balamir-swell
 typeName: Review
 title: Sel Balamir – "Swell"
-subTitle: Ein besonderes Lockdown-Solo-Album
-seoTitle: Sel Balamir – "Swell" – Ein besonderes Lockdown-Solo-Album
-description: Sel Balamir, Amplifier Gründer Sänger und Gitarrist, meldet sich mit einer Solo-Platte zurück. Die Veröffentlichung von "Swell" hat er für den 6. September angekündigt. Reinhören könnt Ihr jetzt schon.
+subTitle: Ein besonderes Lockdown-Soloalbum
+seoTitle: Sel Balamir – "Swell" – Ein besonderes Lockdown-Soloalbum
+description: Sel Balamir, Amplifier Gründer Sänger und Gitarrist, meldet sich mit einer Soloplatte zurück. Die Veröffentlichung von "Swell" hat er für den 6. September angekündigt. Reinhören könnt Ihr jetzt schon.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sel-balamir-swell-jpg-imagine-183878_4174a4_1024_768/640.webp
 copyright: Sel Balamir
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sel-balamir-swell-fb-png-imagine-183878_4d78a9_1200_628/640.webp
@@ -27,11 +27,11 @@ language: de
 languageLink: /2021/08/sel-balamir-swell-en/
 ---
 
-**Sel Balamir, Amplifier Gründer Sänger und Gitarrist, meldet sich mit einer Solo-Platte zurück. Die Veröffentlichung von "Swell" hat er für den 6. September angekündigt. Reinhören könnt Ihr jetzt schon.**
+**Sel Balamir, Amplifier Gründer Sänger und Gitarrist, meldet sich mit einer Soloplatte zurück. Die Veröffentlichung von "Swell" hat er für den 6. September angekündigt. Reinhören könnt Ihr jetzt schon.**
 
 Das Album "Swell" besteht aus drei für Sel ganz besonderen Songs. Sie sind während der Corona-Lockdowns im Jahr 2020 entstanden. In seinem Newsletter schreibt er:
 
-> "Ich habe wie eine ganze Menge Leute letztes Jahr ein Solo-Album aufgenommen – weil man das zu Hause tun kann. Als wir alle wieder arbeiten konnten, habe ich es fertiggestellt. Hört es Euch an, ich mag es wirklich – es ist ein bisschen anders, als die Sachen, die ich mit Amplifier mache. Ich lebe am Strand, also verbringe ich eine Menge Zeit dort. Wenn Ihr ganz genau hinhört, könnt Ihr das Seegras riechen."
+> "Ich habe wie eine ganze Menge Leute letztes Jahr ein Soloalbum aufgenommen – weil man das zu Hause tun kann. Als wir alle wieder arbeiten konnten, habe ich es fertiggestellt. Hört es Euch an, ich mag es wirklich – es ist ein bisschen anders, als die Sachen, die ich mit Amplifier mache. Ich lebe am Strand, also verbringe ich eine Menge Zeit dort. Wenn Ihr ganz genau hinhört, könnt Ihr das Seegras riechen."
 
 Das klingt herrlich, oder? Ab und zu träumen wir uns doch alle gerne ans Meer. Mit der richtigen Musik klappt das natürlich noch viel besser.
 

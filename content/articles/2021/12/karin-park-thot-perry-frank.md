@@ -5,12 +5,8 @@ typeName: Review
 title: Karin Park, Thot & Perry Frank
 subTitle: Drei Platten fürs Wochenende
 seoTitle: Post-Music Tipps von Karin Park, Thot & Perry Frank
-description: Um Euch das Wochenende zu versüßen, habe ich noch drei Musiktipps
-  für Euch vorbereitet, bevor ich mir die letzten paar Tage Resturlaub für
-  dieses Jahr gönne. Sie kommen dieses Mal von Perry Frank, Thot und Karin Park.
-excerpt: Um Euch das Wochenende zu versüßen, habe ich noch drei Musiktipps für
-  Euch vorbereitet, bevor ich mir die letzten paar Tage Resturlaub für dieses
-  Jahr gönne. Sie kommen dieses Mal von Perry Frank, Thot und Karin Park.
+description: Um Euch das Wochenende zu versüßen, habe ich noch drei Musiktipps für Euch vorbereitet, bevor ich mir die letzten paar Tage Resturlaub für dieses Jahr gönne. Sie kommen dieses Mal von Perry Frank, Thot und Karin Park.
+excerpt: Um Euch das Wochenende zu versüßen, habe ich noch drei Musiktipps für Euch vorbereitet, bevor ich mir die letzten paar Tage Resturlaub für dieses Jahr gönne. Sie kommen dieses Mal von Perry Frank, Thot und Karin Park.
 image: https://storage.googleapis.com/cardamonchai-media/2021-12-03/karin-park-thot-perry-frank-jpg-imagine-181818_494b4a_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-12-03/karin-park-thot-perry-frank-fb-png-imagine-181818_505252_1200_628/640.webp
 labels:
@@ -35,6 +31,7 @@ affiliate: false
 language: de
 languageLink: /2021/12/karin-park-thot-perry-frank-en/
 ---
+
 **Um Euch das Wochenende zu versüßen, habe ich noch drei Musiktipps für Euch vorbereitet, bevor ich mir die letzten paar Tage Resturlaub für dieses Jahr gönne. Sie kommen dieses Mal von Perry Frank, Thot und Karin Park.**
 
 ## Perry Frank – "Morning View" (EP)
@@ -69,7 +66,7 @@ Auf der Thot Homepage[^1] findet Ihr alle Infos über die EP und wo Ihr sie beko
 
 ## Karin Park – "Church of Imagination" (LP)
 
-Nächsten Freitag wird es endlich so weit sein: Nach [großartigen Aufnahmen mit Lustmord](/2021/05/karin-park-lustmord-alter/) und ausverkauften Performances mit Årabrot veröffentlicht Karin Park endlich ihr neues Solo-Album "Church Of Imagination". Und das nächste hat sie für 2022 auch schon angekündigt. Der erste Teaser für "Church Of Imagination" hat Karin bereits veröffentlicht. Ich kann nur so viel verraten: Wenn Euch "Shape Of A Child" gefällt, solltet Ihr Euch den Rest der Platte auf keinen Fall entgehen lassen. Sie steckt voller Überraschungen und ist so vielseitig, wie Karin selbst. Ihre Musik bewegt, begeistert und berührt. 
+Nächsten Freitag wird es endlich so weit sein: Nach [großartigen Aufnahmen mit Lustmord](/2021/05/karin-park-lustmord-alter/) und ausverkauften Performances mit Årabrot veröffentlicht Karin Park endlich ihr neues Soloalbum "Church Of Imagination". Und das nächste hat sie für 2022 auch schon angekündigt. Der erste Teaser für "Church Of Imagination" hat Karin bereits veröffentlicht. Ich kann nur so viel verraten: Wenn Euch "Shape Of A Child" gefällt, solltet Ihr Euch den Rest der Platte auf keinen Fall entgehen lassen. Sie steckt voller Überraschungen und ist so vielseitig, wie Karin selbst. Ihre Musik bewegt, begeistert und berührt.
 
 Zum kürzlich veröffentlichten Video zu Track zwei auf der Platte sagt Karin Park:
 
