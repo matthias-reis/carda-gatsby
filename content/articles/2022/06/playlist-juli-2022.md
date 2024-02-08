@@ -66,7 +66,7 @@ Soviel ist sicher: Wenn Valentin eine Cover-Version auf die Liste setzt, ist es 
 
 # Billy Howerdel – "Ani" vom Album "What Normal Was"
 
-Billy Howerdel von A Perfect Circle hat eine neue Solo-Platte draußen. Sie trägt den unglaublich passenden Titel "What Normal Was" und könnte zum Soundtrack des Jahres werden. Die insgesamt zehn Songs sind überraschend kurz und dadurch nicht weniger einprägsam. Sie gehen alle unglaublich unter die Haut. Entsprechend schwer ist es mir gefallen, einen davon für unsere Liste zu selektieren. Hier ist für Euch der dritte Track "Ani".
+Billy Howerdel von A Perfect Circle hat eine neue Soloplatte draußen. Sie trägt den unglaublich passenden Titel "What Normal Was" und könnte zum Soundtrack des Jahres werden. Die insgesamt zehn Songs sind überraschend kurz und dadurch nicht weniger einprägsam. Sie gehen alle unglaublich unter die Haut. Entsprechend schwer ist es mir gefallen, einen davon für unsere Liste zu selektieren. Hier ist für Euch der dritte Track "Ani".
 
 <YouTube id="58KZvD9nm_M" />
 

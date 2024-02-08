@@ -100,7 +100,7 @@ Als Teenie habe ich das Piano vernachlässigt und mich vor allem auf die Gitarre
 
 ![Jamie Dean – "Mutualism"](https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-mutualism-jpeg-imagine-081818_34494e_2400_2400/640.webp "Jamie Dean – \\"Mutualism\\"")
 
-**Anne:** Wie sehen Deine Zukunftspläne aus? Wird es mehr Songs von Dir geben? Ein Solo-Album? Eine Tour?
+**Anne:** Wie sehen Deine Zukunftspläne aus? Wird es mehr Songs von Dir geben? Ein Soloalbum? Eine Tour?
 
 **Jamie:** Im Moment ist der Plan, weiter Musik zu schreiben. Gerade konzentriere ich mich vor allem auf das Spotify Publikum. Falls dort genug Interesse besteht, möchte ich gerne mit dem Projekt auf Tour gehen und meine Musik live spielen!
 
