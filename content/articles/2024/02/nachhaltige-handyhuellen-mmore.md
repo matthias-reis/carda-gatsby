@@ -1,5 +1,5 @@
 ---
-date: 2024-02-08T15:30:12.086Z
+date: 2024-02-08T09:30:12.086Z
 slug: nachhaltige-handyhüllen-mmore
 typeName:
 title: 'Handyhüllen aus Lavendel, Holz und Stein'
