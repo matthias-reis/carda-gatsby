@@ -24,15 +24,17 @@ async function run() {
     const rawContent = await readFile(file, 'utf-8');
     const content = fm<{ date: string; slug: string }>(rawContent);
     const { date, slug } = content.attributes;
-    const d = dayjs(date);
-    const month = `00${d.month() + 1}`.slice(-2);
-    const year = d.year();
-    // const url = `https://cardamonchai.com/${year}/${month}/${slug}`;
+    if (slug) {
+      const d = dayjs(date);
+      const month = `00${d.month() + 1}`.slice(-2);
+      const year = d.year();
+      // const url = `https://cardamonchai.com/${year}/${month}/${slug}`;
 
-    const newPath = join(DEST_FOLDER, `/${year}/${month}/${slug}.md`);
-    mkdirp(dirname(newPath));
+      const newPath = join(DEST_FOLDER, `/${year}/${month}/${slug}.md`);
+      mkdirp(dirname(newPath));
 
-    await rename(file, newPath);
+      await rename(file, newPath);
+    }
   }
 }
 

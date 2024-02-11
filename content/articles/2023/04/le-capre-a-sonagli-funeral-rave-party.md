@@ -1,12 +1,12 @@
 ---
-date: 2023-04-21T11:25:11.008Z
-slug: le-capre-a-sonagli-funeral-rave-party-en
+date: 2023-04-21T11:42:56.174Z
+slug: le-capre-a-sonagli-funeral-rave-party
 typeName: Review
 title: Le Capre A Sonagli – "Funeral Rave Party"
-subTitle: Psychedelic Experimental Sounds made in Italy
-seoTitle: Psychedelic Experimental Sounds made in Italy
-description: '"Funeral Rave Party" by Le Capre A Sonagli is the most inspirational psychedelic record of the month. Check it out here!'
-excerpt: '"Funeral Rave Party" doesn''t just sound like the essence of the two musical styles that probably inspired me the most in the early 2,000s. It''s the name of the first EP with English lyrics by the Italian psychedelic band Le Capre A Sonagli.'
+subTitle: Psychedelische Experimental-Sounds made in Italy
+seoTitle: Le Capre A Sonagli – "Funeral Rave Party" – Review
+description: '"Funeral Rave Party" von  Le Capre A Sonagli ist die psychedelische Platte des Monats. Erfahrt jetzt hier alles darüber und hört gleich rein!'
+excerpt: '"Funeral Rave Party" klingt nicht nur nach der Essenz der beiden Musikstile, die mich wohl Anfang der 2.000er Jahr am meisten beschäftigt haben. Es ist der Name der ersten englischsprachigen EP der italienischen Psychedelic Band Le Capre A Sonagli. Hören lohnt sich!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-2-jpg-imagine-080808_2b272a_800_600/640.webp
 copyright: Le Capre A Sonagli
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-og-jpg-imagine-080808_211c1f_1200_628/640.webp
@@ -19,57 +19,57 @@ labels:
   - Psychedelic
   - Review
   - Reviews
-focusKeyword: Le Capre A Sonagli
+focusKeyword: Funeral Rave Party
 advertisement: false
 affiliate: false
-language: en
-languageLink: /2023/04/le-capre-a-sonagli-funeral-rave-party/
+language: de
+languageLink: /2023/04/le-capre-a-sonagli-funeral-rave-party-en
 ---
 
-**"Funeral Rave Party" doesn't just sound like the essence of the two musical styles that probably inspired me the most in the early 2,000s. It's the name of the first EP with English lyrics by the Italian psychedelic band Le Capre A Sonagli.**
+**"Funeral Rave Party" klingt nicht nur nach der Essenz der beiden Musikstile, die mich wohl Anfang der 2.000er Jahr am meisten beschäftigt haben. Es ist der Name der ersten englischsprachigen EP der italienischen Psychedelic Band Le Capre A Sonagli. Hören lohnt sich!**
 
-After enjoying some advanced education in sound engineering and production after their last recording, the artists produced their newest record entirely by themselves. Their goal was to shape everything with their own hands, to rediscover the universe and its complexity in physics and numbers. And it seems their experiment led them to success.
+Die Künstler\*innen haben ihre Platte komplett selbst produziert und aufgenommen, nachdem sie sich nach ihrer letzten Aufnahme in Richtung Tontechnik und Produktion weitergebildet hatten. Das Ziel: alles mit ihren eigenen Händen zu formen, um in der Physik und den Zahlen das Universum und seine Komplexität wieder zu entdecken.
 
-For the band, "Funeral Rave Party" is one thing above all: a psychedelic-rhythmic ritual. You could play it at an alternative festival as well as at an underground techno party. The whole thing sounds like something out of a horror movie. Capre A Sonagli drew some of their inspiration from the art of filmmaker Cronenberg—I think they clearly reached that goal, too.
+Was soll man sagen? Das Experiment scheint geglückt zu sein. "Funeral Rave Party" ist für die Band vor allem eins: ein psychedelisch-rhythmisches Ritual. Spielen könnte man dieses auf alternativen Festivals genauso, wie auf einer Underground-Technofete. Klingen tut das ganze wie aus einem Gruselfilm. Inspiration holten sich Capre A Sonagli beim Filmemacher Cronenberg – das scheint also ein klares Ziel gewesen zu sein.
 
-## A psychedelic journey alongside river Styx
+![Le Capre A Sonagli (Ein dunkles, abstraktes, von der KI generiertes Bild, auf dem vier Gestalten zwischen zwei Bäumen stehen.)](https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-1-jpg-imagine-080808_151208_800_800/640.webp 'Le Capre A Sonagli')
 
-![Le Capre A Sonagli – "Funeral Rave Party" (A dark, abstract, AI-generated picture showing four humans standing in the middle of two trees)](https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-1-jpg-imagine-080808_151208_800_800/640.webp 'Le Capre A Sonagli')
+## Ein psychedlisches Sound-Erlebnis
 
-With their songs, they follow the currents of the river Styx through the dark of the abyss, telling stories from their nightmares. So the band name (en: "rattlesnake goats") fits perfectly into this world.
+Mit ihren Songs verfolgen sie die Ströme des Flusses Styx durch die Abgründe und erzählen Geschichten aus ihren Alpträumen. Der Bandname (übersetzt bedeutet er sowie wie "Klapperschlangenziegen") passt also auch hier perfekt zum Programm.
 
-The band already revealed the following secret about the record:
+Fragt man die Band, erfährt man folgendes:
 
-> "'Funeral Rave Party' is the first volume of a larger body of work whose stylistic code rests on the foundation of doubt and deception, lenses through which to view the entire sonic world of Le Capre A Sonagli."
+> "'Funeral Rave Party' ist der erste Band eines größeren Werks, dessen stilistischen Code auf dem Fundament von Zweifel und Täuschung ruht, Linsen, durch die man die gesamte Klangwelt von Le Capre A Sonagli betrachten kann."
 
-So the scary movie continues! In the meantime, to build up our tension to infinity, we can listen to Le Capre A Sonagli's gripping soundtrack to the apocalypse. That's precisely how "Funeral Rave Party" sounds to me. Darkness subtly embedded into a psychedelic sea of sounds and musical excess.
+Der Spuk geht also weiter! Um die Spannung bis ins Unermessliche aufzubauen, können wir uns bis dahin den packenden Soundtrack zur Apokalypse von Le Capre A Sonagli anhören. Genau so klingt "Funeral Rave Party" für mich. Finsternis eingebettet in ein psychedelisches Meer aus Klang, Feingefühl und musikalischen Exzess.
 
-The sound experience starts with an "Overture" of a special kind. The theme of the song is Virgil from the divine "Capresque" ("Goatesque") comedy. Bass and drums pave a winding path full of imaginative mythical creatures whose faces emerge from the fog of the underworld song by song.
+## Der Soundtrack für die Apokalypse
 
-The second song, "Funeral Rave Party", is the EP's eponymous and central track. The exciting and dark atmosphere peaks here, mixing with harmonic, playful world music elements before the song once again develops into the direction of mystical and psychedelic chasms.
+Das Sound-Erlebnis startet mit einer Ouvertüre der besonderen Art. Thema des Songs ist der Virgil aus der göttlichen "Capresque" ("Goatesque") Komödie. Bass und Schlagzeug ebnen einen gewundenen Pfad voll phantasievoller Fabelwesen, deren Gesichter sich Song für Song aus dem Nebel der Unterwelt lösen.
 
-## The soundtrack for the apocalypse
+Der zweite Song "Funeral Rave Party" ist der namensgebende und zentrale Track der EP. Die spannende und düstere Atmosphäre erreicht hier ihren Höhepunkt und mischt sich mit harmonischen, verspielten Weltmusik-Elementen bevor sich der Song wieder in Richtung mystischer und psychedelischer Klänge entwickelt.
 
-Before the final chord, "Exit" sets another rave-like statement. The band intends the track as a tribute to the spontaneous and alternative expression of raves:
+"Exit" setzt vor dem Schlussakkord noch ein raviges Statement. Das Stück ist von der Band als eine Hommage an den spontanen und alternativen Ausdruck von Raves gedacht. Ihre Worte dazu:
 
-> "We chopped up our acoustic sounds and got a dirty, rhythmic, and wild electronic mass. Our goal is to encourage loss of self through redundancy and obsession to get you high with straight-kick drumming. Lose your ego!"
+> "Wir haben unsere akustischen Klänge zerhackt und eine dreckige, rhythmische und wilde elektronische Masse erhalten. Das erklärte Ziel ist es, durch Redundanz und Besessenheit zum Selbstverlust anzuregen, um dich mit geradlinigem Kick-Drumming high zu machen. Verliere Dein Ego!"
 
-Le Capre A Sonagli officially formed on April 1st 2011, when they released their EP "Le Capre A Sonagli"—which they performed live on stage as an opening act for the Asian Dub Foundation.
+Le Capre A Sonagli gründeten sich offiziell am 1. April 2011 mit der Veröffentlichung ihrer EP "Le Capre A Sonagli", die sie auch gleich als Vorband der Asian Dub Foundation zum Besten geben gaben.
 
-In October 2012, the project released its first full-length album, which the music press liked a lot. Then, in April 2013, they reached the finals of Arezzo Wave, and in October 2013, they won the award in the category "best self-production" at the Italian independent music prize PIMI.
+Im Oktober 2012 veröffentlichte das Projekt das erste Album in voller Länge, das für einigen Applaus in der Musikpresse sorgte. Im April 2013 folgte der Einzug ins Finale von Arezzo Wave, im Oktober 2013 die Auszeichnung in der Kategorie "beste Eigenproduktion" beim italienischen Independent-Musikpreis PIMI.
 
-At the beginning of summer 2014, Le Capre A Sonagli secluded themselves in the studio. When they came out again in March 2015, they had their album, "The Fauno", on which they combined blues and lo-fi with woozy dream sequences, ready to share with the world.
+Mit dem Beginn des Sommers 2014 zogen sich Le Capre A Sonagli ins Studio zurück, um im März 2015 mit ihrem Album "The Fauno" wieder herauszukommen, auf dem sich Blues und Lo-fi mit wirren Traumsequenzen mischen.
 
-## A fresh start for Le Capre A Sonagli
+## Ein spannender Neustart für Le Capre A Sonagli
 
-After a restart from this point, numerous collaborations, performances, awards, and various other productions and sound experiments were awaiting them. Since 2017, Le Capre A Sonagli have been signed to the Italian indie label Woodworm, where they released their stoner-folk record "Cannibale" in March 2017.
+Auf einen Neustart ab diesem Zeitpunkt folgten zahlreiche Kollaborationen, Auftritte und Auszeichnungen sowie diverse weitere Produktions- und Sound-Experimente. Seit 2017 sind Le Capre A Sonagli bei italienischen Indie-Label Woodworm unter Vertrag, wo sie im März 2017 ihre Stoner-Folk-Platte "Cannibale" veröffentlichten.
 
-After two subsequent years on tour, they released eight more tracks in March 2019 under the name "Garagara Yagi". It's the band's answer to what would happen if Gorillaz, C.C.C.P. and QOTSA were on stage together.
+Nach zwei anschließenden Jahren auf Tour brachten sie im März 2019 unter dem Namen "Garagara Yagi" acht weitere Tracks heraus. Für die Band die Antwort auf die Frage, was passieren würde, würden Gorillaz, C.C.C.P. und QOTSA gemeinsam auf der Bühne stehen.
 
-Le Capre A Sonagli released their EP "Funeral Rave Party" at the end of March. It's available on all music platforms.
+Die neue Le Capre A Sonagli EP "Funeral Rave Party" ist Ende März erschienen. Ihr findet sie auf allem bekannten Plattformen.
 
-In case you've been wondering: The band uses AI-created images for their artworks. I think it's another proof not everything about this scary futuristic stuff leads to something bad, don't you think?
+Falls Ihr Euch das schon gefragt habt: Für ihre Artworks nutzt die Band von der KI kreierte Bilder.
 
-## Le Capre a Sonagli - "Funeral Rave Party"
+## Le Capre a Sonagli – "Funeral Rave Party"
 
 <YouTube id="7qUM9yj1kSM" />
