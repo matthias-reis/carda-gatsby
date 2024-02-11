@@ -1,3 +1,4 @@
+'use client';
 import { FC } from 'react';
 import { Article } from './types';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
@@ -9,8 +10,7 @@ import { format } from 'date-fns';
 import { Textarea } from '@/components/ui/textarea';
 import { TagCloud } from '@/components/tag-cloud';
 import { ToggleGroup, ToggleGroupItem } from '@/components/ui/toggle-group';
-import Editor from 'react-simple-code-editor';
-import hl from 'highlight.js';
+import { EditorEngine } from './editor-engine';
 
 export const EditorContent: FC<{
   article: Article;
@@ -272,54 +272,10 @@ export const EditorContent: FC<{
         </TabsContent>
         <TabsContent value="text">
           <div className="max-w-3xl mx-auto">
-            <Editor
-              value={article.body}
-              className="hljs"
-              onValueChange={(body) => {
-                change((a: Article) => ({ ...a, body }));
-              }}
-              highlight={(code) => {
-                const highlighted = hl.highlight(code, {
-                  language: 'markdown',
-                });
-                return highlighted.value;
-              }}
-              onKeyDownCapture={(ev, ...rest) => {
-                if (ev.key === 's' && ev.metaKey) {
-                  ev.preventDefault();
-                  save();
-                }
-                if (ev.key === 'b' && ev.metaKey) {
-                  ev.preventDefault();
-                  const activeEl =
-                    document?.activeElement as HTMLTextAreaElement;
-                  const a = activeEl.selectionStart;
-                  const b = activeEl.selectionEnd;
-                  if (a === b) return;
-                  const before = article.body.slice(0, a);
-                  const highlighted = article.body.slice(a, b);
-                  const after = article.body.slice(b);
-                  const newText = `${before}__${highlighted}__${after}`;
-                  change((a) => ({ ...a, body: newText }));
-                }
-                if (ev.key === 'i' && ev.metaKey) {
-                  ev.preventDefault();
-                  const activeEl =
-                    document?.activeElement as HTMLTextAreaElement;
-                  const a = activeEl.selectionStart;
-                  const b = activeEl.selectionEnd;
-                  if (a === b) return;
-                  const before = article.body.slice(0, a);
-                  const highlighted = article.body.slice(a, b);
-                  const after = article.body.slice(b);
-                  const newText = `${before}_${highlighted}_${after}`;
-                  change((a) => ({ ...a, body: newText }));
-                }
-              }}
-              tabSize={2}
-              insertSpaces={true}
-              ignoreTabKey={false}
-              padding={4}
+            <EditorEngine
+              markdown={article.body}
+              onChange={() => console.log('changed')}
+              className="h-full p-3"
             />
           </div>
         </TabsContent>
