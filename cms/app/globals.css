@@ -81,38 +81,18 @@
   }
 }
 
-.hljs {
-  font-family: var(--font-mono);
-  font-size: 1rem;
-  color: #bbb;
+.editor h2 {
+  @apply text-2xl font-bold mt-5 mb-2;
 }
 
-.hljs textarea {
-  border: 0;
-  outline: 0;
+.editor h3 {
+  @apply text-xl font-bold mt-4 mb-1;
 }
 
-.hljs .hljs-strong {
-  font-weight: bold;
+.editor p {
+  @apply mt-2;
 }
-.hljs .hljs-emphasis {
-  font-style: italic;
-}
-.hljs .hljs-section {
-  font-weight: bold;
-  color: #fff;
-}
-.hljs .hljs-bullet {
-  color: #5c9b72;
-}
-.hljs .hljs-link {
-  color: #96c6a7;
-  text-decoration: underline;
-}
-.hljs .hljs-tag {
-  color: #fff;
 
-  .hljs-string {
-    color: #96c6a7;
-  }
+.editor blockquote {
+  @apply mt-2 border-l-4 border-l-orange-600 pl-2;
 }
