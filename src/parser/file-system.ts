@@ -46,6 +46,13 @@ export class Markdown {
     }
   }
 
+  deleteAttribute(fieldName: string) {
+    if (this.attributes[fieldName]) {
+      delete this.attributes[fieldName];
+      this.markDirty();
+    }
+  }
+
   changeContent(fn: (content: string, md: Markdown) => string) {
     const res = fn(this.body, this);
     if (res !== this.body) {

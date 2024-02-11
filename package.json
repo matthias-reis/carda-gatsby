@@ -90,7 +90,8 @@
     "compress-images": "node ./compress-images",
     "parser:asterisk": "ts-node ./src/parser/asterisk",
     "parser:imagine": "ts-node ./src/parser/run-imagine",
-    "parser:reorg": "ts-node ./src/parser/reorg"
+    "parser:reorg": "ts-node ./src/parser/reorg",
+    "parser:clean-fm": "ts-node ./src/parser/clean-fm"
   },
   "devDependencies": {
     "@types/cors": "^2.8.12",
