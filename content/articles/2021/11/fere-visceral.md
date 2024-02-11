@@ -1,12 +1,17 @@
 ---
 date: 2021-11-27T04:00:16.882Z
-slug: fere-visceral
 typeName: Review
 title: '"Visceral"'
 subTitle: Das neue Album von Fere
 seoTitle: '"Visceral" von Fere – Post-Rock Review'
-description: Das neue Fere Album "Visceral" ist am 20. November auf Raging Records erschienen. Die Platte hat mich bis ins Mark erschüttert. Die Band liefert uns instrumentalen Post-Rock vom Feinsten.
-excerpt: Findet Ihr nicht auch, dass es mal wieder Zeit wird, eine neue, furchtbar schöne Post-Rock Platte zu entdecken? Ich möchte ja nicht angeben, aber es könnte sein, dass ich genau das heute getan habe. Das neue Album von Fere ist am 20. November bei Raging Records erschienen. Die Musik auf "Visceral" hat mich ins Mark getroffen.
+description: Das neue Fere Album "Visceral" ist am 20. November auf Raging
+  Records erschienen. Die Platte hat mich bis ins Mark erschüttert. Die Band
+  liefert uns instrumentalen Post-Rock vom Feinsten.
+excerpt: Findet Ihr nicht auch, dass es mal wieder Zeit wird, eine neue,
+  furchtbar schöne Post-Rock Platte zu entdecken? Ich möchte ja nicht angeben,
+  aber es könnte sein, dass ich genau das heute getan habe. Das neue Album von
+  Fere ist am 20. November bei Raging Records erschienen. Die Musik auf
+  "Visceral" hat mich ins Mark getroffen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-26/fere-visceral-header-jpg-imagine-080808_000000_1024_768/640.webp
 copyright: Fere
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-26/fere-visceral-fb-png-imagine-080808_1a1a1a_1200_628/640.webp
@@ -32,6 +37,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/11/fere-visceral-en/
+
 ---
 
 **Findet Ihr nicht auch, dass es mal wieder Zeit wird, eine neue, furchtbar schöne Post-Rock Platte zu entdecken? Ich möchte ja nicht angeben, aber es könnte sein, dass ich genau das heute getan habe. Das neue Album von Fere ist am 20. November bei Raging Records erschienen. Die Musik auf "Visceral" hat mich ins Mark getroffen.**

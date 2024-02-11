@@ -5,15 +5,10 @@ excerpt: Französische Stopfleber-Produzenten fordern jetzt die Keulung vieler
   wütet.
 ogImage: null
 isAffiliate: false
-path: /2021/01/vogelgrippe-stopfleber/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQgG/8QAKBAAAQMDBAEEAgMAAAAAAAAAAQIDBAUGEQASITEHExRRYSJBMkJi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDPtLksx5LS0grKSN4AwUqORtB/fefrTtt+mVSvLekQKcgR2AEuvuLSlsLCRkBWTzjHAB0o6DbVXrVWEGiMrmyFpC/QAIKUZB3E4wkf6JAxrXNrWzLpFuIVeVVTNdQ3lxps7WGR2Ru7V9ngcdagprHkptOYzKqjzceS6wfUiqSBtbUcIK1kgDKhnA5x86urzsSGxTE1S3UKXGKQp1j+eEEE70nv41nnz27Q7mudM+l1B1VSX6bRBwuKGACE4I/JKhwSMEEHsEYL78d+RbStTx9RqbPuAux4rZitzHW1qS+U8qAwDtA3ABJ5AAGqEtYXlmsWjTxT5sFM+lJRtj5UlC2vyzjdglSeTgHr9amvryZNumEmHBJhwzlMgFQ3uA/1+QMd/OdGjUC8VGaCQ2mKhSQrPfZxroIVafYhwGJVLpMuNF3+393GClMkq3E5zgAqPagc/eNGjQf/2Q==
 isWerbung: false
-fileName: 2021-01---weltweit-ausbrueche-toedlicher-vogelgrippe.md
-slug: vogelgrippe-stopfleber
-errors: {}
 date: 2021-01-16T17:00:36.000Z
 focusKeyword: Vogelgrippe
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_vogelgrippe-2__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_vogelgrippe-2__m.jpg
 title: Weltweit Ausbrüche tödlicher Vogelgrippe
@@ -29,6 +24,7 @@ labels:
   - Vogelgrippe
   - Zoonosen
 language: de
+
 ---
 
 **Französische Stopfleber-Produzenten fordern jetzt die Keulung vieler tausend Enten. Sie fürchten einen Vogelgrippe-Stamm, der derzeit im Land wütet. Das berichtete jetzt der Guardian.**

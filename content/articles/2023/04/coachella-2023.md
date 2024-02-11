@@ -1,13 +1,18 @@
 ---
 date: 2023-04-14T16:43:51.929Z
-slug: coachella-2023
 typeName: Beitrag
 title: Coachella Festival fährt veganes 4-Gänge-Dinner auf
 subTitle: Los Angeles neuestes Plant-Based-Restaurant startet mit großem Auftritt
-description: Auf dem Coachella Festival wird ein veganes 4-Gänge Dinner serviert! Erfahre jetzt alle Details über das Food Event vom Gourmet-Koch!
-excerpt: Das Coachella ist inzwischen mehr als eine Legende – alle mit Rang und Namen besuchen das Festival in Kalifornien einmal im Jahr. Fast ebenso berühmt, wie das Open-Air-Event ist das sogenannte Outstanding in the Field Dinner, an dem VIPs und Glückliche, die einen Platz an der langen Tafel ergattern können, auf dem Coachella teilnehmen können. Dieses Jahr ist es komplett vegan.
+description: Auf dem Coachella Festival wird ein veganes 4-Gänge Dinner
+  serviert! Erfahre jetzt alle Details über das Food Event vom Gourmet-Koch!
+excerpt: Das Coachella ist inzwischen mehr als eine Legende – alle mit Rang und
+  Namen besuchen das Festival in Kalifornien einmal im Jahr. Fast ebenso
+  berühmt, wie das Open-Air-Event ist das sogenannte Outstanding in the Field
+  Dinner, an dem VIPs und Glückliche, die einen Platz an der langen Tafel
+  ergattern können, auf dem Coachella teilnehmen können. Dieses Jahr ist es
+  komplett vegan.
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-14/coachella-veganes-menu-midjourney-jpg-imagine-080808_69484c_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-14/coachella-veganes-menu-midjourney-og-jpg-imagine-080818_735152_1200_628/640.webp
 labels:
   - Festival
@@ -20,6 +25,7 @@ focusKeyword: Coachella veganes Dinner
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Das Coachella ist inzwischen mehr als eine Legende – alle mit Rang und Namen besuchen das Festival in Kalifornien einmal im Jahr – vom 14. bis zum 23. April 2023 findet es wieder statt. Fast ebenso berühmt, wie das Open-Air-Event ist das sogenannte Outstanding in the Field Dinner, an dem VIPs und Glückliche, die einen Platz an der langen Tafel ergattern können, auf dem Coachella teilnehmen können. Dieses Jahr fährt Jared Simon, Executive Chef des veganen Nic's on Beverly sowie des neuesten Plant-Based-Lokals in LA Argento dort ein exklusives 4-gängiges veganes Dinner auf.**

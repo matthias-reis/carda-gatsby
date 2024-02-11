@@ -1,15 +1,15 @@
 ---
 date: 2015-08-27T12:43:37.000Z
-slug: rocknheim-festival-2015
-path: /2015/08/rocknheim-festival-2015/
 type: Galerie
 typeName: Galerie
 title: Rock'n'Heim Festival 2015
 seoTitle: Rock'n'Heim 2015 - Wir haben den Hockenheim gerockt
 ogTitle: Rock'n'Heim 2015 - Wir haben den Hockenheim gerockt
-description: Wie schon kurz berichtet, habe ich vor kurzem bei einem Gewinnspiel Tickets für das Rock'n'Heim 2015 gewonnen. Ein actionreiches Wochenende liegt hinter uns
-excerpt: Wie schon kurz berichtet, habe ich vor Kurzem bei einem Seat-Gewinnspiel Tickets für das Rock'n'Heim 2015 gewonnen.
-fileName: 2015-08---rocknheim-festival-2015.md
+description: Wie schon kurz berichtet, habe ich vor kurzem bei einem Gewinnspiel
+  Tickets für das Rock'n'Heim 2015 gewonnen. Ein actionreiches Wochenende liegt
+  hinter uns
+excerpt: Wie schon kurz berichtet, habe ich vor Kurzem bei einem
+  Seat-Gewinnspiel Tickets für das Rock'n'Heim 2015 gewonnen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20734788478_8a63138a02_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20734788478_8a63138a02_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKxAAAgIBAgUDAwUBAAAAAAAAAQIDBBEABQYSEyExFCJBYYGRQlFTccHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwECBP/EAB4RAAICAgIDAAAAAAAAAAAAAAABAhESIRNRMXGR/9oADAMBAAIRAxEAPwDnN+gHr+5T28f7qfgjb69Xc/WWUl6ERbDRgF1JTsRn5H/HV+xzz7eZ1RugJBH1Me3mIJC/3gE/bVvZo7EtRK9GBpZJ5elH+kM2ATg/QHOut0BNZQx7M/henHY4r3O6scYEaSyop8DLdsZz3/OnsxwJs1O5tlaxPW9JHXPrKzIsgkkQyI4IAYMXkIJJUgdvA0jbL16W+Wqk0PJaaN0Ecn8inm5T+CPvphk4sktU6cEliLEXJXLeqCuYgRj2eVlQRxr4IbGdHJdBxvlcfXzYkbNxFZfaodlG0TTx27BU2FUFmcKT7ScAFR38+AQfOoqvFe51aFrb9qg545WdobcYYtFKD0zJ84JQlR+2c98aNGsuTemP4dotrLZspPbhqTPd6Su080RHJL8tGvOpLE8mM9xljjWTxFvd1L9tI4RUn5YsinCuZOTsJMj5Zst9M/TRo1G7KlvZ/9k=
@@ -28,12 +28,11 @@ labels:
   - Seat Cupra Camp
   - seatcupracamp
 focusKeyword: Rock'n'Heim
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Wir haben den Hockenheimring gerockt
+
 ---
 
 **Wie schon kurz berichtet, habe ich vor Kurzem bei einem Seat-Gewinnspiel Tickets für das Rock'n'Heim 2015 gewonnen.**

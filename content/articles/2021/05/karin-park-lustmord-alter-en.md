@@ -14,7 +14,6 @@ labels:
   - English & German
   - English & German
 language: en
-slug: karin-park-lustmord-alter-en
 typeName: Review
 title: '"Alter" By Karin Park & Lustmord'
 subTitle: Fascinating Horror Movie Sounds
@@ -33,6 +32,7 @@ focusKeyword: Karin Park
 advertisement: false
 affiliate: false
 languageLink: /2021/05/karin-park-lustmord-alter
+
 ---
 
 **All those of you who can relate to the more dark sounds should definitely pay attention to this music tip. A new gem in this field will soon hit the record stores – "Alter" is a collaboration between Lustmord and Karin Park from Årabrot.**

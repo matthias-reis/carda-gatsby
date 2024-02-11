@@ -5,17 +5,12 @@ excerpt: Kennt Ihr schon Inaska? Der Name steht für nachhaltige Sportbikinis au
   Lieblingsmodell zu testen.
 ogImage: null
 isAffiliate: false
-path: /2018/06/inaska-sportbikinis/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcI/8QAJhAAAgIBAwQCAwEBAAAAAAAAAQIDBBEABQYSEyExImEHQVEUQv/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDIRESMYFRsfD/2gAMAwEAAhEDEQA/AKLS3rj0Ntq97c46vbDdTCCSYhh/zhB7z96X3ue7VAZEo1LFggkKZEEYb7xkkaabj+K7292Y932pwtCzfjq2UWNpJYmZep5EQeXAGT0jzn+6v268V4tx7lPDqlDaKm4ce3eq232u70ylmEmUsMffcDM2SCCFDDxjAYXgUliPa8rFTzPdLjSSVKcEUMC92f3IAmQP3jHsevOrKl2veqUpqtmpYaaDuyRxEq9d8lWjdT5BGAc+iCCNN/yPUXgFff8AZ+PxXE2vdLwqvAUWSEEQ9RjDnJBy6Y85+J/ms52/jVhDHZed0tIVxFXhaUoW9CRh8VyB+9MZG6RuzePvNLMskcRDSbPfrJ74XVHBqK2OE1I7CsO48ljp9E9YKq2fBBA8g/3TSLhGz/7/APVLXksPKZO6ZrEjsVLP6Pc+JIIGRgk+T7OjRqIk5KpAoKdW43t9XbYaIqwtRQyNJUkjWSKYuUOZOpiXYfL5Ek+/rKPku1Q0eAbht0K1Yq8WJ41giEaIQ4LHA++o/QOP1o0aIJRIX//Z
 typeName: Produkttest
 advertisement: true
 isWerbung: false
-fileName: 2018-06---nachhaltige-sportbikinis-von-inaska-im-test.md
-slug: inaska-sportbikinis
-errors: {}
-date: 2018-06-05T05:41:43.000+00:00
+date: 2018-06-05T05:41:43.000Z
 focusKeyword: Inaska
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27662954187_dee18fc9af_z__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27662954187_dee18fc9af_z__m.jpg
 title: Nachhaltige Sportbikinis von Inaska im Test
@@ -52,7 +47,9 @@ labels:
   - surfridereu
   - Surfwear
   - vegan
+
 ---
+
 **Kennt Ihr schon Inaska? Der Name steht für nachhaltige Sportbikinis aus Fischernetzen und anderem [Meeresmüll](/2017/08/kenia-sagt-plastiktueten-nein-danke/). Ich hatte jetzt Gelegenheit, mein Lieblingsmodell zu testen.**
 
 Das Besondere: Oberteil und Höschen werden getrennt von einander ausgesucht. Dadurch kann man ganz nach Figurtyp und persönlichen Vorzügen kombinieren.

@@ -1,13 +1,14 @@
 ---
 date: 2016-05-24T10:45:38.000Z
-slug: pangolin-ein-vergessenes-schuppentier
-path: /2016/05/pangolin-ein-vergessenes-schuppentier/
 title: Pangolin
 seoTitle: Pangolin - Ein vergessenes Schuppentier in Gefahr
 ogTitle: Pangolin - Ein vergessenes Schuppentier in Gefahr
-description: Das Pangolin ist akut vom Aussterben bedroht. Das schuppige Tier wird von Menschen gejagt, die sein Fleisch für eine Delikatesse halten. Hilfe muss her.
-excerpt: Das Pangolin ist akut vom Aussterben bedroht. Das schuppige Tier wird von Menschen gejagt, die sein Fleisch für eine Delikatesse halten. Hilfe muss her.
-fileName: 2016-05---pangolin.md
+description: Das Pangolin ist akut vom Aussterben bedroht. Das schuppige Tier
+  wird von Menschen gejagt, die sein Fleisch für eine Delikatesse halten. Hilfe
+  muss her.
+excerpt: Das Pangolin ist akut vom Aussterben bedroht. Das schuppige Tier wird
+  von Menschen gejagt, die sein Fleisch für eine Delikatesse halten. Hilfe muss
+  her.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_Pangolin_defending_itself_from_lions_Gir_Forest_Gujarat_India-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_Pangolin_defending_itself_from_lions_Gir_Forest_Gujarat_India-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAYHBf/EACsQAAICAQMCBQIHAAAAAAAAAAECAwQRAAUxEiEGEyJBURQVMkJhcYGhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAGxEAAwACAwAAAAAAAAAAAAAAAAECAxIRIjH/2gAMAwEAAhEDEQA/AKfS8VVOkKm3yg+xjUFh+2rR4akm3uWvFTh3B3MyQuHIUqD+YgngZznWc7dvcqWAJJpol7dTRVgGBxzx84/g60vwVvduC1RkcNcD1bVp5p4z6OgMEJ4PIwF9wc6z8uNJdUXotv06S1q/3Oet9NI6xT+S06N6CQcHB+M55+NQKMlKXfty2yKKystHs8kjBgO+AAc+/Ix2xnS95F2DefuHnrNtU1iJ5IBCVldWCNKSoOBnLY/3VU8Tbgu6X0tUr8Mzzosdr6Zh1FwWYHpAGFCMi5PDBhpKjYbtwaHXQGInsMDPYDTZLSdHWzeo9wDjjGjRpYQ1ajiaF/MhjdSvdWXIP6ajJ5daPprwV41A/CkSqP6GjRqKCR//2Q==
@@ -22,12 +23,11 @@ labels:
   - Tierrechte
   - Tierschutz
 focusKeyword: Pangolin
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Schuppentiere in Gefahr
+
 ---
 
 **Das Pangolin, auch Tannenzapfentier oder Schuppentier (Mandiae) genannt, zählt zu den bedrohten Arten und ist akut vom Aussterben bedroht.**

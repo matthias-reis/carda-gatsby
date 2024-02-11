@@ -1,13 +1,14 @@
 ---
-date: 2016-12-22T08:52:56.000+00:00
-slug: unboxing-vegan-beauty-basket-weihnachtsedition
-path: '/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/'
+date: 2016-12-22T08:52:56.000Z
 title: Unboxing Vegan Beauty Basket
 seoTitle: Unboxing Vegan Beauty Basket - Die Weihnachtsedition
 ogTitle: Unboxing Vegan Beauty Basket - Die Weihnachtsedition
-description: Ein himmlischer Duft liegt in der Luft beim Unboxing der Weihnachtsedition des Vegan Beauty Basket. Jede Menge Überraschungen für jeden Geschmack.
-excerpt: Ein himmlischer Duft liegt in der Luft beim Unboxing der Weihnachtsedition des Vegan Beauty Basket. Jede Menge Überraschungen für jeden Geschmack.
-fileName: 2016-12---unboxing-vegan-beauty-basket.md
+description: Ein himmlischer Duft liegt in der Luft beim Unboxing der
+  Weihnachtsedition des Vegan Beauty Basket. Jede Menge Überraschungen für jeden
+  Geschmack.
+excerpt: Ein himmlischer Duft liegt in der Luft beim Unboxing der
+  Weihnachtsedition des Vegan Beauty Basket. Jede Menge Überraschungen für jeden
+  Geschmack.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31634726512_d35014953f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31634726512_d35014953f_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwABBAUG/8QAKhAAAgEDAwMCBgMAAAAAAAAAAQIDAAQRBRIhBjFBInEjMkJRYdFigbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGREBAQEBAQEAAAAAAAAAAAAAAQACERIh/9oADAMBAAIRAxEAPwAu6PtYbzWLGORzLEsisxJ8kgbTzTbYaDolnBI5sLWJPmdmBA9yc0XdO6dZm90+eELCsbq/w/US4IxuI4Hn9UnXatKwk4mjjBYQ8g7sjBA7MRz3qWHldyaQXl0rjRdMmImFlbFyuA4XuP8AKNdf6ZbZfXVsojsIGYCMQkkNz2/HHfP9UgaW86vLPPuhSUDbbly5H8m8KfwK0OotRDW9w04EcKxlImab0yEZGDj38famfsrnw8HsYaMrB4drDbLhsEbtp78Z9q9Ppmp311dtbiZUwT69gJ+r9VVVJnLA1e/nkZFmEZjDEkIDuxXCuryVrUT7iEyWEYwRkDznP2qqrSL/2Q==
@@ -25,13 +26,12 @@ labels:
   - Wellness
   - serie:Vegan Beauty Basket
 focusKeyword: Vegan Beauty Basket
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die Weihnachtsedition
 advertisement: true
+
 ---
 
 **Als mir die liebe Ina von** [**Vegan Beauty Basket**](/2016/09/vegan-beauty-basket-im-test/) **von ihrer Weihnachtsbox erzählt, ist mich sofort klar: Die muss ich testen! Schon ein paar Tage später ist es dann soweit und ein kleines, hübsches Päckchen kommt aus Berlin bei mir an.**

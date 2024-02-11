@@ -1,12 +1,17 @@
 ---
 date: 2022-01-04T15:31:30.552Z
-slug: slowgarden-berlin
 typeName: Beitrag
 title: Mehr als "nur" ein Gemüsegarten
 subTitle: Slowgarden Berlin stellt sich vor
 seoTitle: Mehr als "nur" Gemüsegarten – Slowgarden Berlin stellt sich vor
-description: Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem Anbau – frisch auf den Tisch. Alle können anbauen, was sie wollen. Für den Dünger und die Bewässerung sorgt Slowgarden.
-excerpt: Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem Anbau – frisch auf den Tisch. Gründer David sieht sein Projekt als Lebenseinstellung. Für den Bio-Bauern ist Gemüseanbau mehr als eine Checkliste abzuarbeiten. Er wünscht sich, dass Gärtner*innen nicht nur Gemüse, Kräuter und Obst, sondern auch Wohlbefinden ernten.
+description: Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem
+  Anbau – frisch auf den Tisch. Alle können anbauen, was sie wollen. Für den
+  Dünger und die Bewässerung sorgt Slowgarden.
+excerpt: Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem Anbau –
+  frisch auf den Tisch. Gründer David sieht sein Projekt als Lebenseinstellung.
+  Für den Bio-Bauern ist Gemüseanbau mehr als eine Checkliste abzuarbeiten. Er
+  wünscht sich, dass Gärtner*innen nicht nur Gemüse, Kräuter und Obst, sondern
+  auch Wohlbefinden ernten.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-ernte-jpg-imagine-587828_736738_1024_768/640.webp
 copyright: Slowgarden
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-04/slowgarden-berlin-fb-png-imagine-587828_786b31_1200_628/640.webp
@@ -26,6 +31,7 @@ focusKeyword: Slowgarden Berlin
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Slowgarden steht für lokale, saisonale Lebensmittel aus eigenem Anbau – frisch auf den Tisch. Gründer David sieht sein Projekt als Lebenseinstellung. Für den Bio-Bauern ist Gemüseanbau mehr als eine Checkliste abzuarbeiten. Er wünscht sich, dass Gärnter\*innen nicht nur Gemüse, Kräuter und Obst, sondern auch Wohlbefinden ernten.**

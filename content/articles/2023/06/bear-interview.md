@@ -1,12 +1,15 @@
 ---
 date: 2023-06-30T12:25:40.819Z
-slug: bear-interview
 typeName: Interview
 title: Interview mit James Falck von BEAR
-subTitle: '"Mit ''Vanta'' haben wir Fahrt aufgenommen!"'
+subTitle: "\"Mit 'Vanta' haben wir Fahrt aufgenommen!\""
 seoTitle: BEAR – Interview zum neuen Album "Vanta"
-description: BEAR haben ihr neues Album "Vanta" angekündigt! Lest jetzt mein Interview mit Gitarrist James Falck!
-excerpt: BEAR haben ihr neues Album angekündigt! Es ist endlich offiziell! "Vanta" erscheint am 29. September. Die vorab veröffentlichte Single "Piece" könnt Ihr Euch bereits auf allen Musik-Streaming-Plattformen anhören. Damit Ihr sie nicht verpasst, füge ich sie als Video zu diesem Interview hinzu.
+description: BEAR haben ihr neues Album "Vanta" angekündigt! Lest jetzt mein
+  Interview mit Gitarrist James Falck!
+excerpt: BEAR haben ihr neues Album angekündigt! Es ist endlich offiziell!
+  "Vanta" erscheint am 29. September. Die vorab veröffentlichte Single "Piece"
+  könnt Ihr Euch bereits auf allen Musik-Streaming-Plattformen anhören. Damit
+  Ihr sie nicht verpasst, füge ich sie als Video zu diesem Interview hinzu.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-26/bear-band-jpg-imagine-080808_681a27_800_600/640.webp
 copyright: BEAR
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-30/bear-interview-og-jpg-imagine-080808_621925_1200_628/640.webp
@@ -26,6 +29,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/06/bear-interview-en/
+
 ---
 
 **BEAR haben ihr neues Album angekündigt! Es ist endlich offiziell! "Vanta" erscheint am 29. September. Die vorab veröffentlichte Single "Piece" könnt Ihr Euch bereits auf allen Musik-Streaming-Plattformen anhören. Damit Ihr sie nicht verpasst, füge ich sie als Video zu diesem Interview hinzu. Ja, Ihr habt richtig gelesen! Ich hatte die Möglichkeit, mich mit dem selbsternannten "Guitar Killer" James "Jamie" Falck über das Album, die Zukunftspläne der Band und ihre persönlichen Herausforderungen der letzten Jahre unterhalten. Viel Freude beim Lesen!**

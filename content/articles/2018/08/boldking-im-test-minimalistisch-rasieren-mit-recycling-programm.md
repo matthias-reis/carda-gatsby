@@ -1,17 +1,18 @@
 ---
-date: 2018-08-23T15:47:19.000+00:00
-slug: boldking-im-test-minimalistisch-rasieren-mit-recycling-programm
-path: '/2018/08/boldking-im-test-minimalistisch-rasieren-mit-recycling-programm/'
+date: 2018-08-23T15:47:19.000Z
 title: Boldking im Test
 seoTitle: Boldking im Test - Minimalistisch rasieren mit Recycling-Programm
 ogTitle: Boldking im Test - Minimalistisch rasieren mit Recycling-Programm
-description: Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst umweltfreundlich? Dieser Frage bin ich mal nachgegangen und dabei auf Boldking gestoßen.
-excerpt: Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst umweltfreundlich? Dieser Frage bin ich mal nachgegangen und dabei auf Boldking gestoßen.
-fileName: 2018-08---boldking-im-test.md
+description: Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst
+  umweltfreundlich? Dieser Frage bin ich mal nachgegangen und dabei auf Boldking
+  gestoßen.
+excerpt: Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst
+  umweltfreundlich? Dieser Frage bin ich mal nachgegangen und dabei auf Boldking
+  gestoßen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_44220183921_6291186304_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_44220183921_6291186304_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAApEAABAwIFBAICAwAAAAAAAAABAgMEBREABhIhMQcTIkEUUSMycYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABoRAAMBAQEBAAAAAAAAAAAAAAABEQIhMWH/2gAMAwEAAhEDEQA/AIwKaTKQ5H7IquhKmVvo0NSgfV72S7sRzvv/ADh56esKk5rhpraYrTclK2mYiWyX1IsCpStzoF03APNv9z5IgUasvuokTJ0LMQBCQ9T/AJJRHQlNnGyLNp3PFjxtuRh8g0vJdMo1NqbFbMisQWruSJUtMd1wEnVrbvwAVBNwf7JvjedpaQa6oT/qvTKe5mBbDsfRT2UobC2EKL7BUT5kW80/YH16vfCtPp85qLqlTogpqDqTIiJT+ZB2QhA9G+obgAXtcjDbnas0WdS3J9O1Tn5cztKLhUGwEC6bkgFQsrgFO/v1jl0SLU8xUdVTTKhw4LcgQVxSgdpV0lQCWyLelEm4NhycO31ss+JG7ovmrL2WZtVTmF2agyGw0y+iMrsNA3Uobq1Jv4nj1hrp1U6T02rvVF9b9TlvKLaEzYJLUZBBV46whG4NwSSd/QwYMc5Ritgx97phmZLdPjKpDUiOolhmyoZC1Abp1BKVahbcFV8SXqBKoVMqIyxR2mjEhPGU733lKa+QRYi5/YgbW4HlgwYpHB+n/9k=
-ogImage:
+ogImage: null
 labels:
   - Boldking
   - Fair Fashion & Beauty
@@ -23,15 +24,13 @@ labels:
   - shaving
   - vegan beauty
 focusKeyword: Boldking
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image that could not be found
 subTitle: Minimalistisch rasieren mit Recycling-Programm
 advertisement: true
 affiliate: true
+
 ---
 
 **Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst umweltfreundlich? Dieser Frage bin ich mal nachgegangen und dabei auf Boldking gestoßen.**

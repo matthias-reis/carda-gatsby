@@ -1,13 +1,12 @@
 ---
 date: 2019-09-20T14:48:24.000Z
-slug: allefuersklima-hamburg
-path: /2019/09/allefuersklima-hamburg/
-title: '#allefuersklima - 100.000 demonstrieren in Hamburg'
-seoTitle: '#allefuersklima - 100.000 Menschen streiken in Hamburg fürs Klima'
-ogTitle: '#allefuersklima - 100.000 Menschen streiken in Hamburg fürs Klima'
-description: '100.000 Menschen streiken heute unter dem Motto #allefuersklima in Hamburg. Das macht Mut und lässt auf Änderungen hoffen.'
-excerpt: '100.000 Menschen streiken heute unter dem Motto #allefuersklima in Hamburg. Das macht Mut und lässt auf Änderungen hoffen.'
-fileName: 2019-09---allefuersklima-100-000-demonstrieren-in-hamburg.md
+title: "#allefuersklima - 100.000 demonstrieren in Hamburg"
+seoTitle: "#allefuersklima - 100.000 Menschen streiken in Hamburg fürs Klima"
+ogTitle: "#allefuersklima - 100.000 Menschen streiken in Hamburg fürs Klima"
+description: "100.000 Menschen streiken heute unter dem Motto #allefuersklima in
+  Hamburg. Das macht Mut und lässt auf Änderungen hoffen."
+excerpt: "100.000 Menschen streiken heute unter dem Motto #allefuersklima in
+  Hamburg. Das macht Mut und lässt auf Änderungen hoffen."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-20-allefuersklima-8__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-20-allefuersklima-8__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAj/xAAsEAABAwMCBAUEAwAAAAAAAAABAgMEBRESADEGEyEiB0FhcYEUFTJRJDNS/8QAGAEBAAMBAAAAAAAAAAAAAAAABAECAwb/xAAlEQABAwIFBAMAAAAAAAAAAAABAAIDESEEEjFBgQUTInEjkfD/2gAMAwEAAhEDEQA/AFTg4yYPFUFcSQqJIiSghxd/6vJYON7jG4+fXTvxvJp6akiTT0zFyHkq/kyHlpQi6u4JJJP4nYW3H71LvDCvT01AxW2fqUqyW0gBIAdUAkm5Bt0Av7X091GqLemc6TNa+lY6dkVcpxCTjcgfik7bC+hmTtDKXcftlpK6TN8Ta212VD8JZ1VgzWYlSmMPofhpaZQtXUrC7pyxBIuknqok7aodUqkNhguSjynE5BUe2bmQ3skb++1iNQChPSapJ5rTaEMokF4POJIW02CFAgkjr+ibW2vrTxDxzPkRZjzDMd90rTmpp3MKKySoYgjYEdLmwI66Pg8e5xkbKR4mlffKmWF1BkFSub2azJjyErQVHl5Wue0G+4Hl6gdDqw0biSnOKpsmoRmY1QkYvBKWuWlarhPfb/ViRlf40aNK6lhY8RGXP1AOluPSrDIWm26cHHYlUor9Jefwiy5CFONFyxeQhQUUA+uISfnS9xxVI329UtluKw8k2DTTaW0qBb3sLbW3Pl7aNGuKgaTK2MkkVr9p7rXC/9k=
@@ -24,12 +23,11 @@ labels:
   - Tierrechte
   - Tierrechtsaktivistenbündnis
 focusKeyword: allefuersklima
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Globaler Klimastreik gut besucht
+
 ---
 
 **100.000 Menschen streiken heute unter dem Motto #allefuersklima in Hamburg. Das macht Mut und lässt auf Änderungen hoffen. Gemeinsam mit dem veganen Block waren auch wir bis vor ein paar Minuten noch mitten drin in der Demo.**

@@ -1,6 +1,5 @@
 ---
 date: 2023-09-26T13:45:01.217Z
-slug: veganer-zwetschgenkuchen
 typeName: Rezept
 title: Veganer Zwetschgenkuchen
 subTitle: Rezept für 1 Blech oder 2 kleine Kuchen
@@ -26,7 +25,9 @@ focusKeyword: Veganer Zwetschgenkuchen
 advertisement: false
 affiliate: false
 language: de
+
 ---
+
 **Die Zwetschgenzeit ist da! Für Euch habe ich ein schmackhaftes Rezept für veganen Zwetschgenkuchen vorbereitet. Es gelingt vor allem mit sehr reifen Zwetschgen hervorragend und ich muss aus eigener Erfahrung sagen: Dieser Datschi macht echt glücklich!**
 
 Kennt Ihr die Zeit, in der die Zwetschgen langsam von säuerlich-frisch in süßlich-weich übergehen? Das ist der Moment, in dem Euer veganer Zwetschgenkuchen seinen Auftritt hat. Mit diesem Rezept gelingt er. Ich wünsche Euch viel Spaß beim Backen.

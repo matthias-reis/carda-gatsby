@@ -1,14 +1,18 @@
 ---
 date: 2023-12-22T14:00:00.766Z
-slug: a-burial-at-sea-close-to-home-en
 typeName: Review
-title: 'A Burial At Sea – "Close To Home"'
-subTitle: 'The Post-Rock Collective is Back!'
-seoTitle: 'A Burial At Sea – "Close To Home" – Post-Rock Review'
-description: 'The new A Burial At Sea album, "Close To Home", is coming up soon, and it is magnificent! Check it out here and find some fascinating insights about it!'
-excerpt: 'You can already listen to the lead single, and the new album will be out in February! A Burial At Sea are back! I’ve already listened to the LP and can’t stop raving about it. So there’s no way around it—mark your calenders! You definitely don’t want to miss this record!'
+title: A Burial At Sea – "Close To Home"
+subTitle: The Post-Rock Collective is Back!
+seoTitle: A Burial At Sea – "Close To Home" – Post-Rock Review
+description: The new A Burial At Sea album, "Close To Home", is coming up soon,
+  and it is magnificent! Check it out here and find some fascinating insights
+  about it!
+excerpt: You can already listen to the lead single, and the new album will be
+  out in February! A Burial At Sea are back! I’ve already listened to the LP and
+  can’t stop raving about it. So there’s no way around it—mark your calenders!
+  You definitely don’t want to miss this record!
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-22/a-burial-at-sea-jpg-imagine-e8e8e8_aaaaaa_1024_768/640.webp
-copyright: 'A Burial At Sea'
+copyright: A Burial At Sea
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-22/a-burial-at-sea-og-jpg-imagine-e8e8e8_87898a_1200_628/640.webp
 labels:
   - Band
@@ -26,6 +30,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/12/a-burial-at-sea-close-to-home/
+
 ---
 
 **You can already listen to the lead single, and the new album will be out in February! A Burial At Sea are back! I've already listened to the LP and can't stop raving about it. So there's no way around it: Mark your calenders! You definitely don't want to miss this record!**

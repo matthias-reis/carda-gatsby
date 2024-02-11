@@ -4,17 +4,12 @@ excerpt: Lightning Sharks liefern mit ihrer Debut-EP den Sound für das Jahr 202
   – Noisecore mit H. P. Lovecraft Zitaten.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_lightning-sharks-fb.png__l.jpg
 isAffiliate: false
-path: /2021/04/lightning-sharks-life-is-a-hideous-thing/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QALhAAAQQBAwMCAgsAAAAAAAAAAQIDBBEFAAYxEhMhIlFBYQcUIyUycYGhscHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMf27lc2X/rECTkFQWnacabldRCeQKJ/fTSxuLeUVqTNyED7sZNrDrALoSeAKIJ+auNJm3MomBi5DMVIU+4oLcWQPsk0ASkX6vf+tMY3dDw7LkVxl7IokxlB5XdADyzws3x+nwrxoLS/pGiye2qRjJcaWy30sqjOJUQo2FEpIHiieTeoZXLRNwyMYIUNcda5KUuMdvpCh7XZu/N6SozT785l94oeVJQp5RYWFFs0T6uenwk2K8aa35DOGxj2UVcLJymEpjMGrYQrx1pQD+MgG74BGgzkIcNEpqiQOoULHIs/L+dOStpvyQrtP1MMRh94uU0y2FA+nq4PgAe93o0aChtltGKky8vKfQW4Sy20hpwHvLIIr8vj/muNlMjNmS3pM8IU8/ypSBYF+ADzQ0aNB//Z
 typeName: Review
 isWerbung: false
-fileName: 2021-04---lightning-sharks-life-is-a-hideous-thing.md
-slug: lightning-sharks-life-is-a-hideous-thing
-errors: {}
 date: 2021-04-02T04:00:16.000Z
 focusKeyword: Lightning Sharks
 languageLink: /2021/04/lightning-sharks-life-is-a-hideous-thing-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-1__m.jpg
 title: Lightning Sharks – "Life Is A Hideous Thing"
@@ -32,7 +27,9 @@ labels:
   - Lightning Sharks
   - Noisecore
   - Post-Everything
+
 ---
+
 **Könnt Ihr Euch noch an mein Interview mit Lightning Sharks erinnern? Ihr wisst schon, die Noisecore Leute, die gerne mal Bolsonaro ins Gesicht schreien würden. Jetzt hat die Combo aus Bristol ihre Debüt-EP fertig. Ich habe sie angehört.**
 
 <blockquote>

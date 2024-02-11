@@ -1,14 +1,18 @@
 ---
 date: 2021-09-28T14:48:24.074Z
-slug: omega-3-vitamin-d-naturise
 typeName: Produkttest
 title: Gesunde Öle mit öko-sozialem Impact
-subTitle: 'Omega-3-Algenöl und Vitamin D3/K2 von NaturRise '
-seoTitle: 'Omega-3-Algenöl und Vitamin D3/K2 von NaturRise '
-description: Gesunde Öle stärken das Immunsystem und halten uns gesund. Hochwertige, pflanzliche Öle können außerdem als Träger für wichtige Vitamine wie Vitamin D3 und K2 verwendet werden.
-excerpt: Gesunde Öle sollte man nach Möglichkeit täglich zu sich nehmen. Mit ihnen führen wir unserem Körper wichtige Fettsäuren zu und stärken unser Immunsystem. Hochwertige, pflanzliche Öle können außerdem als Träger für wichtige Nährstoffe und Vitamine wie Vitamin D3 und K2 verwendet werden.
+subTitle: "Omega-3-Algenöl und Vitamin D3/K2 von NaturRise "
+seoTitle: "Omega-3-Algenöl und Vitamin D3/K2 von NaturRise "
+description: Gesunde Öle stärken das Immunsystem und halten uns gesund.
+  Hochwertige, pflanzliche Öle können außerdem als Träger für wichtige Vitamine
+  wie Vitamin D3 und K2 verwendet werden.
+excerpt: Gesunde Öle sollte man nach Möglichkeit täglich zu sich nehmen. Mit
+  ihnen führen wir unserem Körper wichtige Fettsäuren zu und stärken unser
+  Immunsystem. Hochwertige, pflanzliche Öle können außerdem als Träger für
+  wichtige Nährstoffe und Vitamine wie Vitamin D3 und K2 verwendet werden.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-09-28-oele-52-jpg-imagine-f8f8f8_989394_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/oele-fb-png-imagine-f8f8f8_a8a9aa_1200_628/640.webp
 labels:
   - Omega 3
@@ -35,6 +39,7 @@ focusKeyword: Omega 3
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Gesunde Öle sollte man nach Möglichkeit täglich zu sich nehmen. Mit ihnen führen wir unserem Körper wichtige Fettsäuren zu und stärken unser Immunsystem. Hochwertige, pflanzliche Öle können außerdem als Träger für wichtige Nährstoffe und Vitamine wie Vitamin D3 und K2 verwendet werden.**

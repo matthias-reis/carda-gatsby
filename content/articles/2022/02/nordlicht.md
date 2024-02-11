@@ -1,14 +1,19 @@
 ---
 date: 2022-02-07T11:45:27.289Z
-slug: nordlicht
 typeName: Produkttest
 title: Faire und vegane Fashion von Nordlicht
 subTitle: Stirnband Lene und Rucksack Noan
 seoTitle: Faire und vegane Fashion von Nordlicht
-description: 'Null Prozent Plastik, faire und nachhaltige Herstellung, Langlebigkeit und zeitlose Styles: dafür steht Nordlicht. Ich habe jetzt zwei vegane Produkte des Slow Fashion Labels getestet.'
-excerpt: 'Null Prozent Plastik, faire und nachhaltige Herstellung, Langlebigkeit und zeitlose Styles: dafür steht Nordlicht. Ich habe mir jetzt mal zwei Produkte des Slow Fashion Labels aus dem badischen Dossenheim etwas genauer angeschaut – einen Rucksack aus robustem Papier und ein Stirnband. Beide Teile sind Peta approved vegan.'
+description: "Null Prozent Plastik, faire und nachhaltige Herstellung,
+  Langlebigkeit und zeitlose Styles: dafür steht Nordlicht. Ich habe jetzt zwei
+  vegane Produkte des Slow Fashion Labels getestet."
+excerpt: "Null Prozent Plastik, faire und nachhaltige Herstellung, Langlebigkeit
+  und zeitlose Styles: dafür steht Nordlicht. Ich habe mir jetzt mal zwei
+  Produkte des Slow Fashion Labels aus dem badischen Dossenheim etwas genauer
+  angeschaut – einen Rucksack aus robustem Papier und ein Stirnband. Beide Teile
+  sind Peta approved vegan."
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-07/nordlicht-jpg-imagine-080808_6b6c6b_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-07/nordlicht-fb-png-imagine-080808_5d5f5d_1200_628/640.webp
 labels:
   - Nordlicht
@@ -22,11 +27,12 @@ labels:
   - veganer Rucksack
   - faux leather
   - vegan leather
-  - ''
+  - ""
 focusKeyword: Nordlicht
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Null Prozent Plastik, faire und nachhaltige Herstellung, Langlebigkeit und zeitlose Styles: dafür steht Nordlicht. Ich habe mir jetzt mal zwei Produkte des Slow Fashion Labels aus dem badischen Dossenheim etwas genauer angeschaut – einen Rucksack aus robustem Papier und ein Stirnband. Beide Teile sind Peta approved vegan.**

@@ -1,12 +1,17 @@
 ---
 date: 2023-10-17T13:35:15.714Z
-slug: from-overseas-zake-demain-des-l-aube
 typeName: Review
 title: From Overseas & Zakè – "Demain, dès l'aube"
 subTitle: Die neue Ambient-Perlen der Sound-Künstler
 seoTitle: From Overseas & Zakè – "Demain, dès l'aube" – Ambient Review
-description: "„Demain, dès l'aube‟ ist das fantastische neue Ambient Album von From Overseas und Zakè. Erfahrt jetzt alles über die Platte und hört direkt hier rein!"
-excerpt: '„Demain, dès l`aube‟ – „Morgen bei Sonnenaufgang‟ ist der Titel des neuen Albums von Kévin Séry aka From Overseas und Zach Frizzell aka Zakè. Dahinter verbirgt sich die großartige Ambient-Vertonung des natürlichen Wandels von Sommer bis Winter. Mein Tipp: Ihr solltet diese acht Songs immer griffbereit haben.'
+description: „Demain, dès l'aube‟ ist das fantastische neue Ambient Album von
+  From Overseas und Zakè. Erfahrt jetzt alles über die Platte und hört direkt
+  hier rein!
+excerpt: "„Demain, dès l`aube‟ – „Morgen bei Sonnenaufgang‟ ist der Titel des
+  neuen Albums von Kévin Séry aka From Overseas und Zach Frizzell aka Zakè.
+  Dahinter verbirgt sich die großartige Ambient-Vertonung des natürlichen
+  Wandels von Sommer bis Winter. Mein Tipp: Ihr solltet diese acht Songs immer
+  griffbereit haben."
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-17/from-overseas-zake-demain-des-l-aube-jpeg-imagine-181818_534943_1024_768/640.webp
 copyright: Overseas & Zakè
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-17/from-overseas-zake-demain-des-l-aube-og-2-jpeg-imagine-181818_403934_1200_630/640.webp
@@ -28,6 +33,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/10/from-overseas-zake-demain-des-l-aube-en/
+
 ---
 
 **"Demain, dès l'aube" ("Morgen bei Sonnenaufgang") heißt das neue Werk, das aus der Zusammenarbeit meiner Ambient-Lieblinge Kévin Séry aka From Overseas und Zach Frizzell aka Zakè enstanden ist. Erneut haben die Sound-Künstler gemeinsam wunderschöne Klangwelten erschaffen – oder sollte ich besser sagen die Basis für Träume?**

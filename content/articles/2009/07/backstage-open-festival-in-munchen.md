@@ -1,13 +1,12 @@
 ---
 date: 2009-07-05T20:19:56.000Z
-slug: backstage-open-festival-in-munchen
-path: /2009/07/backstage-open-festival-in-munchen/
 title: Backstage Open Festival in München
 seoTitle: Backstage Open Festival 2009 in München mit Anajo
 ogTitle: Backstage Open Festival 2009 in München mit Anajo
-description: Am Freitag, 3. Juli und Samstag 4. Juli 2009 fand auf dem Backstage Werksgelände wieder das BACKSTAGE OPEN-Festival statt.
-excerpt: Am Freitag, 3. Juli und Samstag 4. Juli 2009 fand auf dem Backstage Werksgelände wieder das BACKSTAGE OPEN-Festival statt.
-fileName: 2009-07---backstage-open-festival-in-muenchen.md
+description: Am Freitag, 3. Juli und Samstag 4. Juli 2009 fand auf dem Backstage
+  Werksgelände wieder das BACKSTAGE OPEN-Festival statt.
+excerpt: Am Freitag, 3. Juli und Samstag 4. Juli 2009 fand auf dem Backstage
+  Werksgelände wieder das BACKSTAGE OPEN-Festival statt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_07_9825435906_7ea22de70b_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_07_9825435906_7ea22de70b_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYI/8QAJxAAAgEDBAECBwAAAAAAAAAAAQIDAAQREiExQQUTFBYyUWFxweH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQADBv/EACARAAICAQMFAAAAAAAAAAAAAAEDAAIRBDHxEhMhIlH/2gAMAwEAAhEDEQA/AOe7a3DsABvWr+HIIvAwXzXsHuXlZGtCpDqoAIfPBB3GOdqq7Fo4iNgz9Cnb25YRq4USMDj5cgDH8rcKRRdD9gdmWtcAbRNrJ0cTRwN6BchDIgYHHR6J3Gae8b4gtbtM7RKFdV0s4DtnO4XkgY3PWRUkZeXycrQDTaoiqwycatAyADvzmnRJHHvkZH3plogtleuU6pbRY1G0x9qyiVyOSBk/Xmrm0lt3UQ3MywiR1XWWwQMNnBOw63NFFKWEhBI8cwtGO6MjPErbe5lkuvXbCR4ICq3X7/NMPeADqiiitNchWBIwe2Z//9k=
@@ -20,12 +19,11 @@ labels:
   - Festivals
   - München
 focusKeyword: Anajo
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Von Anajo bis Tito And Tarantula
+
 ---
 
 <RemoteImage

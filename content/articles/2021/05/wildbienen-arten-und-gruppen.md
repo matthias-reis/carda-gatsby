@@ -16,20 +16,25 @@ labels:
   - Tierrechte
   - serie:Wildbienen
 language: de
-slug: wildbienen-arten-und-gruppen
-typeName: ''
+typeName: ""
 title: Wildbienen Arten und Gruppen
 subTitle: Neues vom Bienenbalkon
 seoTitle: Wildbienen Arten und Gruppen – Neues vom Bienenbalkon
-ogTitle: ''
-description: 'Die Wildbienen sind wieder da! Beziehungsweise: Sie sind aufgewacht. Insgesamt gibt es drei Wildbienen-Gruppen. Hier findet Ihr alle Infos dazu.'
-excerpt: 'Die Wildbienen sind wieder da! Beziehungsweise: Sie sind aufgewacht. Nach und nach krabbeln die unterschiedlichsten Arten aus unseren Insektenhotels und erkunden ihre Umgebung. Insgesamt gibt es drei Wildbienen-Gruppen. Hier findet Ihr alle Infos dazu.'
+ogTitle: ""
+description: "Die Wildbienen sind wieder da! Beziehungsweise: Sie sind
+  aufgewacht. Insgesamt gibt es drei Wildbienen-Gruppen. Hier findet Ihr alle
+  Infos dazu."
+excerpt: "Die Wildbienen sind wieder da! Beziehungsweise: Sie sind aufgewacht.
+  Nach und nach krabbeln die unterschiedlichsten Arten aus unseren
+  Insektenhotels und erkunden ihre Umgebung. Insgesamt gibt es drei
+  Wildbienen-Gruppen. Hier findet Ihr alle Infos dazu."
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-05-wildbienen-jpeg-imagine-c8d8d8_a18067_1440_1080/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-05-wildbienen-fb-jpg-imagine-d8e8e8_bd997a_1200_628/640.webp
 focusKeyword: Wildbienen
 advertisement: false
 affiliate: false
-languageLink: ''
+languageLink: ""
+
 ---
 
 **Die Wildbienen sind wieder da! Genauer gesagt: Sie sind aufgewacht. Eine nach der anderen krabbeln die unterschiedlichsten Arten aus unseren Insektenhotels und erkunden ihre Umgebung.**

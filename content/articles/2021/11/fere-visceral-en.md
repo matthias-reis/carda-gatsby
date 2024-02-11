@@ -1,12 +1,16 @@
 ---
 date: 2021-11-27T04:00:06.292Z
-slug: fere-visceral-en
 typeName: Review
 title: '"Visceral"'
 subTitle: The new album by Fere
 seoTitle: '"Visceral" by Fere – Post-Rock Review'
-description: Fere's new album "Visceral" is out on November 20th on Raging Records. The record hit me to the core. It is instrumental Post-Rock at its best.
-excerpt: I am sure you agree with me that it's about time to discover one more beautiful post-rock record? I don't want to brag, but I might have done just that today. Fere's new album came out on November 20th on Raging Records. The music on "Visceral" hit me to the core.
+description: Fere's new album "Visceral" is out on November 20th on Raging
+  Records. The record hit me to the core. It is instrumental Post-Rock at its
+  best.
+excerpt: I am sure you agree with me that it's about time to discover one more
+  beautiful post-rock record? I don't want to brag, but I might have done just
+  that today. Fere's new album came out on November 20th on Raging Records. The
+  music on "Visceral" hit me to the core.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-26/fere-visceral-header-jpg-imagine-080808_000000_1024_768/640.webp
 copyright: Fere
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-26/fere-visceral-fb-png-imagine-080808_1a1a1a_1200_628/640.webp
@@ -32,6 +36,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/11/fere-visceral/
+
 ---
 
 **I am sure you agree with me that it's about time to discover one more beautiful post-rock record? I don't want to brag, but I might have done just that today. Fere's new album came out on November 20th on Raging Records. The music on "Visceral" hit me to the core.**

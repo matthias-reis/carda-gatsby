@@ -1,15 +1,16 @@
 ---
-date: 2018-01-24T17:18:29.000+00:00
-slug: lieber-besuch-in-hamburg
-path: /2018/01/lieber-besuch-in-hamburg/
+date: 2018-01-24T17:18:29.000Z
 type: Galerie
 typeName: Gedicht
 title: Das Herz des Leuchtturms
 seoTitle: Das Herz des Leuchtturms - Lieber Besuch in Hamburg - Gedicht
 ogTitle: Das Herz des Leuchtturms - Lieber Besuch in Hamburg - Gedicht
-description: Neulich hatten wir lieben Besuch bei uns in Hamburg. Gemeinsam haben wir das Herz der Stadt erkundet. Das hat mich zu einem neuen Gedicht inspiriert.
-excerpt: Neulich hatten wir lieben Besuch bei uns in Hamburg. Gemeinsam haben wir das Herz der Stadt erkundet. Das hat mich zu einem neuen Gedicht inspiriert.
-fileName: 2018-01---das-herz-des-leuchtturms.md
+description: Neulich hatten wir lieben Besuch bei uns in Hamburg. Gemeinsam
+  haben wir das Herz der Stadt erkundet. Das hat mich zu einem neuen Gedicht
+  inspiriert.
+excerpt: Neulich hatten wir lieben Besuch bei uns in Hamburg. Gemeinsam haben
+  wir das Herz der Stadt erkundet. Das hat mich zu einem neuen Gedicht
+  inspiriert.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38803224095_9cbeba0d6d_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38803224095_9cbeba0d6d_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUBA//EACgQAAIBAwMDAwUBAAAAAAAAAAECAwAEEQUhMQYSQRNRYQcUIzJxsf/EABcBAQEBAQAAAAAAAAAAAAAAAAUBAwT/xAAcEQACAgMBAQAAAAAAAAAAAAABAgAhAxESFAT/2gAMAwEAAhEDEQA/AKPVaW+h6e13cwyyDOyRLlsD9mPsqjcmo3eiqN1UMDuCByPFbp6s0d9OkvruI/dzRMWhlV0WCNRkRFmj7cscljxnbgCvW66k0WXRo722uLecvAr4SRcBzkY/ikbmmcf1Lu4VkwNqojTaR3DKKGzxjg1jx2Kzw+pCyyL5K+D7H2PxVCT6kwXMUcd/Yi3kK7y2k7AHPIKjH+1zRuotLk1ZDbsqlmIZpl7AQTuTgkk1PcjEVUvkYA3cUIprk20kCzvGkg7T+Vm24IxsNx8Uz9J6gbOxuYJ50eAYwkzYVQc92FA3z58UUUYCVsRFh1RiPNpsJJaOdimT2gpwM8c1BLH01L9plCjIQ53PgYoorlV2m3In/9k=
@@ -36,14 +37,13 @@ labels:
   - Suchmaschine
   - serie:Flarf-Gedichte
 focusKeyword: Herz
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Lieber Besuch in Hamburg
-year: '2018'
-month: '01'
+year: "2018"
+month: "01"
+
 ---
 
 **Neulich hatten wir lieben Besuch bei uns in Hamburg. Das hat mich zu einem kleinen Gedicht inspiriert, welches, wie ich finde, gut zu den Bildern passt, die ich während der Streifzüge mit den Besuchern aufgenommen habe.**

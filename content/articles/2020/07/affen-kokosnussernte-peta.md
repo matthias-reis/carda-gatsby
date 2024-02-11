@@ -1,13 +1,12 @@
 ---
 date: 2020-07-08T15:28:56.000Z
-slug: affen-kokosnussernte-peta
-path: /2020/07/affen-kokosnussernte-peta/
 title: Affen ernten Kokosnüsse
 seoTitle: Affen ernten Kokosnüsse - PETA klärt auf
 ogTitle: Affen ernten Kokosnüsse - PETA klärt auf
-description: 'Eine aktuelle PETA Recherche zeigt: Zwei der größten Kokosmilch-Produzenten in Thailand zwingen Affen, Kokosnüsse zu ernten.'
-excerpt: 'Eine aktuelle PETA Recherche zeigt: Zwei der größten Kokosmilch-Produzenten in Thailand zwingen Affen, Kokosnüsse zu ernten.'
-fileName: 2020-07---affen-ernten-kokosnuesse.md
+description: "Eine aktuelle PETA Recherche zeigt: Zwei der größten
+  Kokosmilch-Produzenten in Thailand zwingen Affen, Kokosnüsse zu ernten."
+excerpt: "Eine aktuelle PETA Recherche zeigt: Zwei der größten
+  Kokosmilch-Produzenten in Thailand zwingen Affen, Kokosnüsse zu ernten."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_affen-kokosnuesse-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_affen-kokosnuesse-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAcGAQIEBQj/xAArEAABBAEDAgUDBQAAAAAAAAABAgMEEQUABiESFAcTMTJBUXGRIzNSYcH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIRIQMSIjFB/9oADAMBAAIRAxEAPwDnNvHyFPLjuop5vgtq9bBoj86cq8UzI8KWpPcKxMXCt+SAyVFU2W6LIUv6fFaWKSqRK7l8hUl9alE10qUtRviv7Omps/bOWlZSNhdxksbfZV3MuO5ObKk1wLSCaUSQLHIBOgcnV19ksWt6mJ4HR8bhJbm6chHE55pZjxoYX0dNAlTh4PV7SAAOKJNcav8AHtqbkNzrzIcbXEfDYbLKVFDSCOEqP8hzZHB+NN7crUZL0diEexgMlLcbtUhISDwpKUp5Ar86gG7ls5JMqduR6RgYT7xJxwA852MmvKCW7/SuiSpdevA1tfMRdSvJUMAbkGYn4mMhuDDwsdEN1otqmuWqSsFNKBUbCSefaBWt/FnIYTFGaK8fFZbCUuKct8tgUEIa6qSDwepQHpo0aBUdsr3a4qSme8WH1IMfbEfthXSZJNuq+P3KFfZAH3OlrOMnIOl3IPqdUT1EE8X9a/310aNIJrP/2Q==
@@ -25,12 +24,11 @@ labels:
   - PETA Asia
   - Tierrechte
 focusKeyword: Affen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: PETA klärt auf
+
 ---
 
 **Eine aktuelle PETA Recherche zeigt: Zwei der größten Kokosnuss-Produzenten in Thailand zwingen Affen, Kokosnüsse zu ernten. Es drängt sich die Frage auf: Sind Kokos-Produkte fair?**

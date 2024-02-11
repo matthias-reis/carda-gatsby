@@ -1,11 +1,12 @@
 ---
 date: 2021-08-23T13:18:53.372Z
-slug: felix-gebhard-zahn-interview-en
 typeName: Interview
 title: Interview With Felix Gebhard
 subTitle: '"I Always Wanted To Start A Band Like Zahn"'
 seoTitle: Interview With Felix Gebhard – "I Always Wanted A Band Like Zahn"
-description: In our interview, Felix Gebhard told me he always wanted to start an instrumental band like Zahn. This wish has finally come true. The first album, "Zahn", is really promising. You should definitely go and check it out!
+description: In our interview, Felix Gebhard told me he always wanted to start
+  an instrumental band like Zahn. This wish has finally come true. The first
+  album, "Zahn", is really promising. You should definitely go and check it out!
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zahn-jpg-imagine-484848_000000_1024_768/640.webp
 copyright: Zahn
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zahn-fb-jpg-imagine-080808_000000_1200_628/640.webp
@@ -34,6 +35,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/08/felix-gebhard-zahn-interview/
+
 ---
 
 **Zahn is the fresh new instrumental (noise) project of Chris Breuer (ex-The Ocean, Heads.), Nic Stockmann (Heads., ex-Eisenvater) and Felix Gebhard (live-Einstürzende Neubauten).**

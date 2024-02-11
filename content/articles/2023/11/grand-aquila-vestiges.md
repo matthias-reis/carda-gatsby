@@ -1,14 +1,17 @@
 ---
 date: 2023-11-03T08:14:00.766Z
-slug: grand-aquila-vestiges
 typeName: Review
 title: Grand Aquila – "Vestiges"
 subTitle: '"Architekten einer Klangreise"'
 seoTitle: Grand Aquila – "Vestiges" – Post-Metal-Review
-description: Grand Aquila liefern mit ihrem Debüt-Album "Vestiges" großartigen Post-Metal ab. Erfahrt jetzt alle wichtigen Insights über die Platte!
-excerpt: Grand Aquila begeistern die Post-Metal-Welt mit ihrem Debüt-Album "Vestiges". Dynamischer Sound voll fesselnder Übergänge, Harmonien und Intensität erwartet Euch. Das Quartett aus Belgien macht mit diesem äußerst kreativen musikalischen Highlight Lust auf mehr und ordentlich Laune!
+description: Grand Aquila liefern mit ihrem Debüt-Album "Vestiges" großartigen
+  Post-Metal ab. Erfahrt jetzt alle wichtigen Insights über die Platte!
+excerpt: Grand Aquila begeistern die Post-Metal-Welt mit ihrem Debüt-Album
+  "Vestiges". Dynamischer Sound voll fesselnder Übergänge, Harmonien und
+  Intensität erwartet Euch. Das Quartett aus Belgien macht mit diesem äußerst
+  kreativen musikalischen Highlight Lust auf mehr und ordentlich Laune!
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-03/grand-aquila-vestiges-og-1-png-imagine-f8f8f8_ccc9c8_1024_768/640.webp
-copyright: 'Grand Aquila'
+copyright: Grand Aquila
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-03/grand-aquila-vestiges-og-2-png-imagine-f8f8f8_7c756f_1200_630/640.webp
 labels:
   - Band
@@ -22,6 +25,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/11/grand-aquila-vestiges-en/
+
 ---
 
 **Grand Aquila feiern heute die Veröffentlichung ihres neuen Albums "Vestiges". Dynamischer Post-Metal voll fesselnder Übergänge, Harmonien und Intensität erwartet Euch. Das Quartett aus Belgien legt mit seinem Debüt ordentlich vor und macht Lust auf mehr und ordentlich Laune!**

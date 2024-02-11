@@ -1,13 +1,10 @@
 ---
 date: 2013-04-15T10:01:24.000Z
-slug: nachruf-deftones-grunder-chi-cheng-ist-tot
-path: /2013/04/nachruf-deftones-grunder-chi-cheng-ist-tot/
 title: Deftones-Gründer Chi Cheng ist tot
 seoTitle: Deftones-Gründer Chi Cheng ist tot
 ogTitle: Deftones-Gründer Chi Cheng ist tot
 description: Im Alter von 42 Jahren wurde Chi Cheng von uns genommen - Ein Nachruf
 excerpt: Am Samstag gegen 3 Uhr wurde Chi Cheng im Alter von 42 Jahren von uns genommen.
-fileName: 2013-04---deftones-gruender-chi-cheng-ist-tot.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_04_Chi_Cheng__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_04_Chi_Cheng__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwID/8QALhAAAQQBAgUCAwkAAAAAAAAAAQIDBBEABRIGEyExQRQiBxVRJDJCYYGRoaLR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EACERAAIBAwMFAAAAAAAAAAAAAAABAgMRMQQSIiEjQZGx/9oADAMBAAIRAxEAPwDF9P0xUOI8uY1TjjyCVIPU96JP79sQyoim4jsyNIU3IjvVyQgmrNA7u36Y9+JcPU9G1RqFqKeSi1bEJdBUSDRKgO35X/uRhBKzSiDe73ecRRhK25vJXqKkdzhbAydWlTjbzhS2FEHlgdAR/OVs5tUeZMWlwqfa1kq3KokENOEH+oNeMilLdkMlKGit1RCAUA9ST0qvN1mrv8LyQNUna683ocNzU1Ps+sV71KDboCFJTZHuIvyBfTHRXhkzd+qPH49Q9k2NK5qlfa3UbFAH7yQu772LrIybwv6bgXS+JTM3idPMP0vKrYBZ3b769u1DvhhgpvgM1C7nr4OURInCZTqsRjnzIxLjRdVaUqs0dv1Gd6068/8AOdzpAVMbRtT7UABqR+EdPAJ+pwwzSyCb4pH/2Q==
@@ -27,12 +24,11 @@ labels:
   - Musik
   - RIP Chi Cheng
 focusKeyword: Chi Cheng
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Nachruf
+
 ---
 
 **Am Samstag gegen 3 Uhr wurde Chi Cheng im Alter von 42 Jahren von uns genommen.**

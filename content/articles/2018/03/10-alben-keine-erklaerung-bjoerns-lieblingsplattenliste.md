@@ -1,13 +1,14 @@
 ---
 date: 2018-03-13T18:42:06.000Z
-slug: 10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste
-path: /2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/
 title: 10 Alben - Keine Erklärung - Teil 2/3
 seoTitle: 10 Alben - Keine Erklärung - Die Lieblingsplattenliste eines Gartenbloggers
 ogTitle: 10 Alben - Keine Erklärung - Die Lieblingsplattenliste eines Gartenbloggers
-description: Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung" stelle ich Euch die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid gespannt!
-excerpt: Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung" stelle ich Euch die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid gespannt!
-fileName: 2018-03---10-alben-keine-erklaerung-teil-2-3.md
+description: Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung"
+  stelle ich Euch die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid
+  gespannt!
+excerpt: Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung" stelle
+  ich Euch die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid
+  gespannt!
 labels:
   - Bands
   - Beach House
@@ -40,13 +41,12 @@ labels:
   - serie:Playlists 2018
   - serie:Alben ohne Erklärung
 focusKeyword: 10 Alben
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Lieblingsplattenliste eines Gartenbloggers
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-alben-keine-erklaerung-2-jpeg-imagine-f8f8f8_a37674_1200_800/640.webp
+
 ---
 
 > **10 LPs that make the "favourites" playlist. Post a cover a day, no explanation, nominate a person a day."  - 10 Alben, die Deine All-Time-Favoritenliste ergeben. Keine Erklärung. Nominiere jeden Tag eine andere Person"**

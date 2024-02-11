@@ -8,7 +8,7 @@ seoTitle: 'Nachhaltige Handyhüllen – MMORE zeigt wie es wirklich geht'
 description: 'Nachhaltige Handyhüllen – MMORE stellt sie unter anderem aus Lavendel und Holz her. Erfahrt hier alles über das Start-up!'
 excerpt: 'Nachhaltige Handyhüllen – MMORE beweist mit Cases aus Lavendel, Holz und Stein, dass es auch anders geht – sogar kompostierbar! In diesem Artikel erfahrt Ihr, was hinter dem Start-up aus dem slowenischen Ljubljana steckt.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-08/mmore-cases-soundsvegan-com-jpg-imagine-887868_696874_1024_768/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-08/mmore-cases-soundsvegan-com-og-png-imagine-887868_696571_1200_628/640.webp
 labels:
   - Handyhüllen

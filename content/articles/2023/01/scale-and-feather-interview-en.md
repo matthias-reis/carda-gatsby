@@ -1,12 +1,17 @@
 ---
 date: 2023-01-06T12:16:32.956Z
-slug: scale-and-feather-interview-en
 typeName: Interview
 title: Scale & Feather
 subTitle: '"There used to be a Place of thoughtful Exchange"'
 seoTitle: Scale & Feather – Post-Rock Interview
-description: Scale & Feather founder Curtis Rockhold told me about his future plans, his upcoming album, and his guitars. Read my interview now!
-excerpt: 'Scale & Feather is a Tucson, Arizona-based post-rock project founded by multi-instrumentalist Curtis Rockhold. Over the last twelve months, the artist released several outstanding singles, and I immensely enjoyed them. I mentioned some of them in the monthly music lists I publish here on my blog, which is how I came in contact with Curtis. Long story short: I asked him for an interview!'
+description: Scale & Feather founder Curtis Rockhold told me about his future
+  plans, his upcoming album, and his guitars. Read my interview now!
+excerpt: "Scale & Feather is a Tucson, Arizona-based post-rock project founded
+  by multi-instrumentalist Curtis Rockhold. Over the last twelve months, the
+  artist released several outstanding singles, and I immensely enjoyed them. I
+  mentioned some of them in the monthly music lists I publish here on my blog,
+  which is how I came in contact with Curtis. Long story short: I asked him for
+  an interview!"
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-06/scale-and-feather-curtis-rockhold-4-jpg-imagine-181818_79736b_1024_768/640.webp
 copyright: Scale & Feather
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-06/scale-and-feather-curtis-rockhold-og-1-jpeg-imagine-181818_7c7469_1200_628/640.webp
@@ -27,6 +32,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/01/scale-and-feather-interview/
+
 ---
 
 **Scale & Feather is a Tucson, Arizona-based post-rock project founded by multi-instrumentalist Curtis Rockhold. Over the last twelve months, the artist released several outstanding singles, and I immensely enjoyed them. I mentioned some of them in the monthly music lists I publish here on my blog, which is how I came in contact with Curtis. Long story short: I asked him for an interview!**

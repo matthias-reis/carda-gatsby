@@ -1,12 +1,15 @@
 ---
 date: 2022-11-09T15:10:37.964Z
-slug: paul-seidel-fern-the-ocean-interview-en
 typeName: Interview
 title: Interview with Paul Seidel (FERN, The Ocean) about the new FERN Album
 subTitle: The Tender Side of Heavy Music
-seoTitle: 'Interview: Paul Seidel (FERN, The Ocean) about the new FERN Album'
-description: Want to know more about the new FERN album "Intersubjective"? Read my interview with FERN founder and The Ocean Drummer Paul Seidel.
-excerpt: Paul Seidel recently released his first official album, "Intersubjective", with FERN. In his project, the The Ocean drummer focuses on the interplay of electronic elements and instruments, cleverly combining the worlds of pop and industrial. I now had the chance to interview him.
+seoTitle: "Interview: Paul Seidel (FERN, The Ocean) about the new FERN Album"
+description: Want to know more about the new FERN album "Intersubjective"? Read
+  my interview with FERN founder and The Ocean Drummer Paul Seidel.
+excerpt: Paul Seidel recently released his first official album,
+  "Intersubjective", with FERN. In his project, the The Ocean drummer focuses on
+  the interplay of electronic elements and instruments, cleverly combining the
+  worlds of pop and industrial. I now had the chance to interview him.
 image: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-jpeg-imagine-080808_606060_1024_768/640.webp
 copyright: Paul Seidel
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-fb-jpeg-imagine-080808_5c5c5c_1200_628/640.webp
@@ -30,6 +33,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/11/paul-seidel-fern-the-ocean-interview/
+
 ---
 
 **Paul Seidel recently released his first official album, "Intersubjective", with FERN. In his project, the The Ocean drummer focuses on the interplay of electronic elements and instruments, cleverly combining the worlds of pop and industrial. I now had the chance to interview him.**

@@ -1,13 +1,12 @@
 ---
-date: 2020-07-10T15:17:53.000+02:00
-slug: of-the-vine-playlist
-path: '/2020/07/of-the-vine-playlist/'
+date: 2020-07-10T13:17:53.000Z
 title: Exklusive Playlist von Of the Vine
 seoTitle: Exklusive Playlist von Of the Vine - "Diese Musik hat uns geprägt"
 ogTitle: Exklusive Playlist von Of the Vine - "Diese Musik hat uns geprägt"
-description: Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv eine Playlist für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
-excerpt: Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv eine Playlist für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
-fileName: 2020-07---exklusive-playlist-von-of-the-vine.md
+description: Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv
+  eine Playlist für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
+excerpt: Kein Geringerer als Samuel Laubscher von Of the Vine hat exklusiv eine
+  Playlist für meinen Blog zusammengestellt. Von Ben Frost bis Mogwai.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_of-the-vine-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIDBAUH/8QAKBAAAgEDAwQBBAMAAAAAAAAAAQIDAAQREiFBBRMikTEUUWFxBqLx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDwodQjSQpKbhycqe2PW5/FbLe/S2EyzWq3Ck6UkIwRoO3GORkc4FVMFjBMwuZWYkHZn06CT4tuN8cjFaT1ntfxybpKLE8L3XfE+Nw2gDb9gc+quYy5F11C4vYljlICIchVUAZPyQOKe8a3eIfT5LBgcdrToXSNied/v9vzTW5WVZ7uCCOOOKTyMjFlGRsv9T7q0/WcQJF09PpdceJWUAMTz5DcjPHFBKG5ks5pDbRpJcshVXUl8Z+diMHb1WO6upIJ4naIqAmCmMbYwP8AaKKUNLem+RnfSrq2yjbxIyP3g591S8W3iIitZBOCqs8pXHlj4GfgCiikI//Z
@@ -46,13 +45,12 @@ labels:
   - Unwed Sailor
   - Playlist
 focusKeyword: Of The Vine
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Diese Musik hat uns geprägt"'
-languageLink: '/2020/07/of-the-vine-playlist-en'
+languageLink: /2020/07/of-the-vine-playlist-en
+
 ---
 
 **Kein Geringerer als Of the Vine Gitarrist Samuel Laubscher hat eine Playlist für meinen Blog zusammengestellt. Es ist mir eine große Ehre, sie Euch heute präsentieren zu dürfen.**

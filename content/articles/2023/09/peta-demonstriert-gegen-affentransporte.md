@@ -1,12 +1,16 @@
 ---
 date: 2023-09-19T09:36:54.950Z
-slug: peta-demonstriert-gegen-affentransporte
 typeName: Beitrag
 title: Airline fliegt Affen in Versuchslabore
 subTitle: PETA demonstriert gegen EgyptAirs Affentransporte
 seoTitle: Affentransporte – PETA Demo am Flughafen Düsseldorf
-description: Affentransporte in Tierversuchslabore stoppen – das möchte PETA mit der Demo, die heute am Düsseldorfer Flughafen stattfindet, erreichen. Holt Euch jetzt alle Infos!
-excerpt: PETA demonstriert heute im Terminal des Düsseldorfer Flughafens gegen den Transport von Affen in Versuchslabore. Die Fluggesellschaft EgyptAir hatte das Ende der Flüge eigentlich bereit im August letzten Jahres zugesagt, hält sich jedoch nicht an die Abmachung.
+description: Affentransporte in Tierversuchslabore stoppen – das möchte PETA mit
+  der Demo, die heute am Düsseldorfer Flughafen stattfindet, erreichen. Holt
+  Euch jetzt alle Infos!
+excerpt: PETA demonstriert heute im Terminal des Düsseldorfer Flughafens gegen
+  den Transport von Affen in Versuchslabore. Die Fluggesellschaft EgyptAir hatte
+  das Ende der Flüge eigentlich bereit im August letzten Jahres zugesagt, hält
+  sich jedoch nicht an die Abmachung.
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-19/egyptair-abdelkareem10-pixabay-affentransporte-peta-jpg-imagine-887868_a79a93_1024_768/640.webp
 copyright: Abdelkareem10, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-19/egyptair-abdelkareem10-pixabay-affentransporte-peta-og-jpg-imagine-887868_ab9d94_1200_628/640.webp
@@ -21,6 +25,7 @@ focusKeyword: Affentransporte
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **PETA demonstriert heute im Terminal des Düsseldorfer Flughafens gegen den Transport von Affen in Versuchslabore. Die Fluggesellschaft EgyptAir hatte das Ende der Flüge eigentlich bereit im August letzten Jahres zugesagt, hält sich jedoch nicht an die Abmachung.**

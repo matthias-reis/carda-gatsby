@@ -1,12 +1,18 @@
 ---
 date: 2021-09-07T02:00:00.000Z
-slug: ox-en-mayo-alto-mot-the-valuator-incredible-god
 typeName: Review
 title: '"Mot, the Valuator, Incredible God"'
 subTitle: Die neue EP von Ox en Mayo Alto
 seoTitle: '"Mot, the Valuator, Incredible God" – Die neue EP von Ox en Mayo Alto'
-description: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder eine Geschichte.
-excerpt: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder eine Geschichte. Die Band zeigt sich nach wie vor bedeckt – die Künstler*innen verbergen ihre Gesichter auch beim neuen Werk wieder hinter Masken.
+description: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de
+  la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible
+  God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder
+  eine Geschichte.
+excerpt: Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la
+  fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible
+  God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder
+  eine Geschichte. Die Band zeigt sich nach wie vor bedeckt – die Künstler*innen
+  verbergen ihre Gesichter auch beim neuen Werk wieder hinter Masken.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/white-house-stag-jpg-imagine-181808_756f43_1440_960/640.webp
 copyright: Ox en Mayo Alto
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/ox-en-mayo-alto-png-imagine-181808_726a3d_1200_628/640.webp
@@ -27,6 +33,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/09/ox-en-mayo-alto-mot-the-valuator-incredible-god-en/
+
 ---
 
 **Ox en Mayo Alto haben neue Musik für uns! Nach "Los famosos días de la fiebre" präsentieren sie jetzt ihre neue EP "Mot, the Valuator, Incredible God". Sie ist nicht weniger spektakulär, als der Vorgänger und erzählt wieder eine Geschichte.**

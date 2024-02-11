@@ -1,15 +1,15 @@
 ---
 date: 2016-01-25T18:08:57.000Z
-slug: seitan-grundrezept
-path: /2016/01/seitan-grundrezept/
 type: Artikel
 typeName: Rezept
 title: Seitan Grundrezept
 seoTitle: Seitan Grundrezept - Vleisch für Braten und mehr
 ogTitle: Seitan Grundrezept - Vleisch für Braten und mehr
-description: Immer wieder bekomme ich Anfragen, wie wir unseren leckeren Seitan herstellen. Heute lüfte ich das Geheimnis und verrate Euch unser Grundrezept.
-excerpt: Immer wieder bekomme ich Anfragen, wie wir unsere leckeren Seitan-Variationen herstellen. Heute lüfte ich das Geheimnis und verrate Euch unser Grundrezept.
-fileName: 2016-01---seitan-grundrezept.md
+description: Immer wieder bekomme ich Anfragen, wie wir unseren leckeren Seitan
+  herstellen. Heute lüfte ich das Geheimnis und verrate Euch unser Grundrezept.
+excerpt: Immer wieder bekomme ich Anfragen, wie wir unsere leckeren
+  Seitan-Variationen herstellen. Heute lüfte ich das Geheimnis und verrate Euch
+  unser Grundrezept.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_16568799048_6c90266715_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_16568799048_6c90266715_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYIBP/EACoQAAEEAQMEAQQCAwAAAAAAAAECAwQRBQAGEiEiMUFhBxMUUSMycZGx/8QAGQEAAgMBAAAAAAAAAAAAAAAABAYAAQIF/8QAIxEAAQMEAQQDAAAAAAAAAAAAAQACAxESITFBBBMycdHh8P/aAAwDAQACEQMRAD8APyN2MbwzcAfhpSxFlhhMyOpfBSg2VAUrp0VQuvelzMxoWy8nIXFmy4rUlD8lpsuj7fPiVLbsDtSrr0Iq/wDOs7O08vlX31wcsIcBExSm4qopShwDqeKaCkpvtBPoXXrSrv5mflGzjpMZ/wDJiOJQ884suJbABIHL2CCDZ6+j4Gk8C+Wpdg7+9Z9Jqo0MoONJpx26W8TvaHl1ynJqIfeplC0j+NaCFIN+OJIN/Ghub+qe4nd+tZaPJkw8aXGXm4RkEoDXaCgDx3p6kkEWqx60oPRmG48ZxkOqe+wfvKkjlxXZrgAP6kcK5G/7fGh8hmZl8tGgwG3fyuX2uNG1miK/4K+ddCGOwBnCvts83DPKsbdW3ISpOT3FMmy22kQ+TrTfWigG1pPIV20K6C+up33fvZrJYiJhdvwZMPHpkmY+886FvSlKFAdnSug6WfA/WqsiSUPNBKuJSoUQfBHzqI9+sOrymTfkwUxHVSlhDDDYZaQoLrgED0En15sHrZ0QYmXXAZKE6GUMreK00g82c+2ptUmepKlAtltI9Xdivd1ZOnz6F4R/I73byL5S5EgoL6ivttwiklI8mj5P+9CPpf8ATfIZ/LsrlwZLEMAPGU4lSELRyrsURxJ/Q+DqnMZhsZhWQ3j4rLNICCUpHJVftXk60aDAUnnGWtG/j96X/9k=
@@ -27,12 +27,11 @@ labels:
   - vegane Rezepte
   - Vleisch
 focusKeyword: Seitan
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Vleisch für Braten oder mehr
+
 ---
 
 <RemoteImage

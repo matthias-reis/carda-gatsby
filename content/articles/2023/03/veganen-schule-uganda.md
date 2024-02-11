@@ -1,13 +1,17 @@
 ---
 date: 2023-03-03T11:05:00.417Z
-slug: veganen-schule-uganda
 typeName: Beitrag
 title: Ugandas vegane Schule gewinnt Award
 subTitle: Tierrechte und Klimaschutz auf dem Lehrplan
 seoTitle: Diese vegane Grundschule in Uganda hat Klimaschutz im Lehrplan
 ogTitle: Vegane Grundschule in Uganda – Klimaschutz im Lehrplan
-description: Die erste vegane Schule in Uganda unterrichtet Mitgefühl und Klimaschutz. Lest jetzt, wie sie gegen Zoonosen und den Welthunger kämpft.
-excerpt: Ugandas erste vegane Schule hat jetzt von der Teach Kind Abteilung von PETA den Compassionate School Award verliehen bekommen. Die Tierrechts-Organisation bedankt sich damit für den Einsatz der Grundschule, in der die Schüler*innen vegane Mahlzeiten erhalten und lernen, wie man mitfühlend mit großen und kleinen Arten umgeht und mit ihnen im Einklang lebt.
+description: Die erste vegane Schule in Uganda unterrichtet Mitgefühl und
+  Klimaschutz. Lest jetzt, wie sie gegen Zoonosen und den Welthunger kämpft.
+excerpt: Ugandas erste vegane Schule hat jetzt von der Teach Kind Abteilung von
+  PETA den Compassionate School Award verliehen bekommen. Die
+  Tierrechts-Organisation bedankt sich damit für den Einsatz der Grundschule, in
+  der die Schüler*innen vegane Mahlzeiten erhalten und lernen, wie man
+  mitfühlend mit großen und kleinen Arten umgeht und mit ihnen im Einklang lebt.
 image: https://storage.googleapis.com/cardamonchai-media/2023-03-03/vegane-schule-luv4all-jpg-imagine-a8b8c8_887456_1024_768/640.webp
 copyright: LUV4ALL
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-03-03/vegane-schule-luv4all-og-jpg-imagine-d8d8d8_726951_1200_628/640.webp
@@ -22,6 +26,7 @@ focusKeyword: vegane Schule
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Ugandas erste vegane Schule hat jetzt von der Teach Kind Abteilung von PETA den Compassionate School Award verliehen bekommen. Die Tierrechts-Organisation bedankt sich damit für den Einsatz der Grundschule, in der die Schüler\*innen vegane Mahlzeiten erhalten und lernen, wie man mitfühlend mit großen und kleinen Arten umgeht und mit ihnen im Einklang lebt.**

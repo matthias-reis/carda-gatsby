@@ -1,13 +1,13 @@
 ---
 date: 2009-07-22T07:42:07.000Z
-slug: mering
-path: /2009/07/mering/
 title: Mering
 seoTitle: Mering - Die Geschichte einer Bayerischen Marktgemeinde
 ogTitle: Mering - Die Geschichte einer Bayerischen Marktgemeinde
-description: Mering ist nach Friedberg der zweitgrößte Ort im Landkreis Friedberg. Ökonomisch stellt die Marktgemeinde das Unterzentrum des Landkreises dar.
-excerpt: Mering ist nach Friedberg der zweitgrößte Ort im Landkreis Friedberg. Ökonomisch stellt die Marktgemeinde das Unterzentrum des Landkreises dar.
-fileName: 2009-07---mering.md
+description: Mering ist nach Friedberg der zweitgrößte Ort im Landkreis
+  Friedberg. Ökonomisch stellt die Marktgemeinde das Unterzentrum des
+  Landkreises dar.
+excerpt: Mering ist nach Friedberg der zweitgrößte Ort im Landkreis Friedberg.
+  Ökonomisch stellt die Marktgemeinde das Unterzentrum des Landkreises dar.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_07_12992364485_e6c8a117ee_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_07_12992364485_e6c8a117ee_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYF/8QALBAAAgECBgECBAcAAAAAAAAAAQIDBBEABQYSITFBE1EUYZGhByIjMkJx0f/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAD/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADESEx/9oADAMBAAIRAxEAPwAC0xp+bNMxpUiiaZKieOndtjbUZyABcWA88H2w2aJ0Dp2o0rRZrmRqEqJnkM1OyKm1VJCbSw6YWO4/PvEJojMpdNUCuN3omRJHIlsPVAJjIBF7WLDnzhHrdahMsky+koIHoZVCmBoDIuwgi25j7X575HWI3vRD32NXUz9EgvxDyCnytEnooY/Tlk234IWw45HY/wAGDTMYI4UG0lncbmZxa3Pt4wqZ5L8dGS1FLEjfuSJVjB77uD9vkMRlbp16yjqDThklUqzGZ9zEXsALcDyx+gwK7g7YJnqdemWgzimp1haoy+CsEUBnBkjZ9oQ9WBAvc8YT6KKjqKSGeaipxJJGJLLCFAZuTxzbvAPLHNZ4JGVfiKERWdL7Q7BweDyLAfPnCpRagg+EjG+1kC2Lc3AA68D2xSUHuRATNXULRUeTVFTCkEUkX5gBCtyB3/EjBZn2pCYcyhqnvHDFGVt6f6hkW/AUC3gc/wB4rNTZqlTRVFMXUGVCp2kcAj6dYIs1IEztfefQSFSyKLFQBfg+w++GyDuz/9k=
@@ -20,12 +20,11 @@ labels:
   - Mering
   - Reiseführer Bayern
 focusKeyword: Mering
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Eine Marktgemeinde im Wandel der Zeit
+
 ---
 
 **Mering ist nach Friedberg der zweitgrößte Ort im Landkreis Friedberg. Ökonomisch stellt die Marktgemeinde das Unterzentrum des Landkreises dar.**

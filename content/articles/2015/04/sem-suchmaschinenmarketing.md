@@ -4,15 +4,10 @@ excerpt: SEM steht für Search Engine Marketing, was übersetzt soviel bedeutet,
   wie Suchmaschinenmarketing.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2012_07_P8310050__l.jpg
 isAffiliate: false
-path: /2015/04/sem-suchmaschinenmarketing/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUH/8QAJxAAAgEEAgIBAwUAAAAAAAAAAQIDAAQFEQYhEjETI5GhByJBUdH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAwAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERITH/2gAMAwEAAhEDEQA/AGWBAV9UpYHE4vMc35dJkxEWhCfD5xCTZG11663r8VtRZ2wjQk3UXQ37P+Um8hxkUeZvpoRhy0jeYlustJBIwYBiGVCuhsnQosJ9Mf8AU/EWVtg7iWG1hjkUr4MsQU7J9bAp5t5RcYuznHYlt43+6A1z7LWGPuWWH5eLsXUKDLlbmRw56/b9QimiHN4u2xlrb2s6yRQxLCDCWkQFVAZQx7Oj/ffqlM0iMsNNKjLFZE7GtiEmrF3kOR3vipwnHyqABWuMMsrHQA2WZuzoUUUQmnCsknMIfI2sGCtievoYS2Xf3U1GYcpvYXhyzpcxFg4WKwhh0w/naID+aKKDrWf/2Q==
 isWerbung: false
-fileName: 2015-04---sem.md
-slug: sem-suchmaschinenmarketing
-errors: {}
 date: 2015-04-02T15:00:14.000Z
 focusKeyword: SEM
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_P8310050__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_P8310050__m.jpg
 title: SEM
@@ -41,7 +36,9 @@ labels:
   - Suchmaschinenwerbung
   - Webseiten bauen
 language: de
+
 ---
+
 **SEM steht für Search Engine Marketing, was übersetzt soviel bedeutet, wie Suchmaschinenmarketing. Als fester Bestandteil des modernen Online Marketings beinhaltet SEM sämtliche Werbemaßnahmen, die über Suchmaschinen laufen.**
 
 **SEM** ist unterteilt in [SEO](/2012/07/seo/), Search Engine Optimisation, zu deutsch Suchmaschinenoptimierung und [SEA](/2012/07/sea/), Search Engine Advertising, übersetzt Suchmaschinenwerbung.

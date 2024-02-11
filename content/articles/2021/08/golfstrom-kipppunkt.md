@@ -1,11 +1,14 @@
 ---
 date: 2021-08-06T10:06:26.217Z
-slug: golfstrom-kipppunkt
 typeName: Beitrag
 title: Der Golfstrom steht vor dem Kipppunkt
 subTitle: Beschleunigt sich die Klimakatastrophe?
 seoTitle: Golfstrom am Kipppunkt – beschleunigt sich die Klimakatastrophe?
-description: 'Die Klimaforscher*innen warnen schon lange davor, jetzt passiert es: Der Golfstrom steht vor dem Kipppunkt. Die Meeresströmungen im Atlantik schwächen sich ab. Aus einer aktuellen Studie geht hervor, dass die Kettenreaktion nicht mehr weit entfernt ist. Wenn es so weit ist, wird das extreme Folgen haben.'
+description: "Die Klimaforscher*innen warnen schon lange davor, jetzt passiert
+  es: Der Golfstrom steht vor dem Kipppunkt. Die Meeresströmungen im Atlantik
+  schwächen sich ab. Aus einer aktuellen Studie geht hervor, dass die
+  Kettenreaktion nicht mehr weit entfernt ist. Wenn es so weit ist, wird das
+  extreme Folgen haben."
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kipppunkte-jpg-imagine-e8f8f8_6d92a4_1024_768/640.webp
 copyright: Dassel, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kipppunkte-fb-jpg-imagine-e8f8f8_6b8d9f_1200_628/640.webp
@@ -26,6 +29,7 @@ focusKeyword: Kipppunkt
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die Klimaforscher\*innen warnen schon lange davor, jetzt passiert es vor unseren eigenen Augen: Der Golfstrom steht vor dem Kipppunkt. Die Meeresströmungen im Atlantik schwächen sich ab. Aus einer aktuellen Studie geht hervor, dass die gefürchtete Kettenreaktion nicht mehr weit entfernt ist. Wenn es so weit ist, wird das extreme Folgen haben.**

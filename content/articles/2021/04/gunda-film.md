@@ -1,7 +1,6 @@
 ---
 templateKey: article
 date: 2021-04-19T10:03:22.633Z
-slug: gunda-film
 typeName: Filmtipp
 title: '"Gunda" – ein einfühlsamer Tierrechts-Film'
 subTitle: Das Leben der Schweine
@@ -27,6 +26,7 @@ focusKeyword: Gunda
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **"Gunda" heißt der neue Tierrechts-Film von Victor Kossakovsky. Produziert hat ihn Anita Rehoff Larsen. Schauspieler und Vegan-Aktivist Joaquin Phoenix ist der ausführende Produzent.**

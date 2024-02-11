@@ -1,25 +1,24 @@
 ---
 ogTitle: Galathain - "And The Rain Tasted Like Blood" - Interview
-excerpt: Galathain mischt Doom-Elemente mit Ambient. Ich habe Klaus im Interview gefragt, wie es zu seinem Projekt kam, und wo seine musikalischen Wurzeln liegen.
+excerpt: Galathain mischt Doom-Elemente mit Ambient. Ich habe Klaus im Interview
+  gefragt, wie es zu seinem Projekt kam, und wo seine musikalischen Wurzeln
+  liegen.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-fb.png__l.jpg
 isAffiliate: false
-path: /2020/07/galathain-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAECAwcEBQb/xAAnEAACAQMDAwMFAAAAAAAAAAABAgMABBEGMUESIVETYXEVIjJCgf/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAH/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQMRAhMx/9oADAMBAAIRAxEAPwCqYNR2v01fSJF5bu07OI0xICB9rHkZ4PFTJrG3a0uESCIXd9hgRCmE8BAACg9hVYwXLxvkHAx37b1K12WXpZmKAgnHzSdZSpmy1G1ekKw3TssTiP0WjQRyRsgO23Jxkec+a10mtZUs47Z+ieeOcymSVQCV36c/3bauBnmVldYvwVFzkAnc+PkVhm4YsSGOds+1CjsMpWuEP69hSE5yOKKKcTD4ZWiYsjYJGNuKYd8gUUUG2f/Z
 typeName: Interview
 isWerbung: false
-fileName: 2020-07---galathain.md
-slug: galathain-interview
-errors: {}
 date: 2020-07-31T08:31:06.000Z
 focusKeyword: Galathain
 languageLink: /2020/07/galathain-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_galathain-1__m.jpg
 title: Galathain
 subTitle: '"And The Rain Tasted Like Blood"'
 seoTitle: Galathain - "And The Rain Tasted Like Blood" - Interview
-description: Galathain mischt Doom-Elemente mit Ambient. Ich habe Klaus im Interview gefragt, wie es zu seinem Projekt kam, und wo seine musikalischen Wurzeln liegen.
+description: Galathain mischt Doom-Elemente mit Ambient. Ich habe Klaus im
+  Interview gefragt, wie es zu seinem Projekt kam, und wo seine musikalischen
+  Wurzeln liegen.
 language: de
 type: Artikel
 labels:
@@ -36,6 +35,7 @@ labels:
   - Madrid
   - Post-Rock
   - Shoegaze
+
 ---
 
 **Wer Galathain noch nicht kennt, sollte das auf jeden Fall nachholen. Der Post-Rocker aus Venezuela mischt Doom-Elemente mit Ambient. Ich habe Klaus im Interview gefragt, wie es zu dem Projekt kam, und wo seine musikalischen Wurzeln liegen.**

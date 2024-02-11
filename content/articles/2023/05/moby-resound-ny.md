@@ -1,12 +1,17 @@
 ---
 date: 2023-05-21T15:17:49.537Z
-slug: moby-resound-ny
 typeName: Review
 title: Moby – "Resound NY"
 subTitle: Diese Songs verbinden Vergangenheit und Zukunft
 seoTitle: Moby – "Resound NY" – Sounds Vegan Review
-description: Moby hat sein neues Album "Resound NY" gerade veröffentlicht. Ich habe mir die orchestralen Versionen seiner Stücke angehört. Lest jetzt meine Review.
-excerpt: 'Moby veröffentlichte am 12. Mai 15 seiner Songs neu. Das Besondere: Bei "Resound NY" handelt es sich um beeindruckende, orchestrale Versionen der Stücke, die der Künstler gemeinsam mit Marisha Wallace auf Deutsche Grammophon aufgenommen hat. Die Platte ist eine Hommage an seine Herzstadt New York City und unsere Welt als Ganzes.'
+description: Moby hat sein neues Album "Resound NY" gerade veröffentlicht. Ich
+  habe mir die orchestralen Versionen seiner Stücke angehört. Lest jetzt meine
+  Review.
+excerpt: 'Moby veröffentlichte am 12. Mai 15 seiner Songs neu. Das Besondere:
+  Bei "Resound NY" handelt es sich um beeindruckende, orchestrale Versionen der
+  Stücke, die der Künstler gemeinsam mit Marisha Wallace auf Deutsche Grammophon
+  aufgenommen hat. Die Platte ist eine Hommage an seine Herzstadt New York City
+  und unsere Welt als Ganzes.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-21/moby-resound-ny-jpg-imagine-080808_5d6c5c_1024_768/640.webp
 copyright: Moby
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-21/moby-resound-ny-og-jpg-imagine-789878_697666_1200_628/640.webp
@@ -26,6 +31,7 @@ focusKeyword: Moby – "Resound NY"
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Moby veröffentlichte am 12. Mai 15 seiner Songs neu. Das Besondere: Bei "Resound NY" handelt es sich um beeindruckende, orchestrale Versionen der Stücke, die der Künstler gemeinsam mit Marisha Wallace auf Deutsche Grammophon aufgenommen hat. Die Platte ist eine Hommage an seine Herzstadt New York City und unsere Welt als Ganzes.**

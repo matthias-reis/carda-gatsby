@@ -1,6 +1,5 @@
 ---
 date: 2023-09-23T14:01:10.328Z
-slug: spurv-brevjaere
 typeName: Review
 title: Spurv – "Brevjære"
 subTitle: Dieses Album solltet Ihr immer wieder hören
@@ -30,7 +29,9 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/09/spurv-brevjaere-en/
+
 ---
+
 **"Brevjære" heißt das neue Album der norwegischen Post-Rock-Größen Spurv. Die Platte beginnt mit einem Knall und das Sextett erreicht mit "Brevjære" neue, grenzenlose Höhen. Eines ist sicher: Ihr solltet dieses Album immer wieder hören. Heute verrate ich Euch, warum. Hier kommt meine Empfehlung.**
 
 "Brevjære" bedeutet übersetzt so viel wie "Brotkrumen". Diese hat die Band über das ganze Album verteilt. Sie erzählen eine Geschichte, die uns an unbekannte Orte führt, mit ihren insgesamt acht neuen Songs.

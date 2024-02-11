@@ -1,15 +1,14 @@
 ---
 date: 2010-08-06T15:27:18.000Z
-slug: hassliebe-veroffentlichen-am-3-september-ihre-neue-platte-muhackl-die-boarische-ep-ich-habe-schon-mal-reingehort
-path: /2010/08/hassliebe-veroffentlichen-am-3-september-ihre-neue-platte-muhackl-die-boarische-ep-ich-habe-schon-mal-reingehort/
 type: Artikel
 typeName: Review
 title: '"Muhackl"'
 seoTitle: Hassliebe veröffentlichen neue Platte
 ogTitle: Hassliebe veröffentlichen neue Platte
-description: Die neue Platte "Muhackl - Die boarische EP" von Hassliebe kommt sehr kraftvoll und energiegeladen. Das Trio hat einige der Lieblingslieder.
-excerpt: Die neue Platte "Muhackl - Die boarische EP" von Hassliebe kommt sehr kraftvoll und energiegeladen. Das Trio hat einige der Lieblingslieder.
-fileName: 2010-08---muhackl.md
+description: Die neue Platte "Muhackl - Die boarische EP" von Hassliebe kommt
+  sehr kraftvoll und energiegeladen. Das Trio hat einige der Lieblingslieder.
+excerpt: Die neue Platte "Muhackl - Die boarische EP" von Hassliebe kommt sehr
+  kraftvoll und energiegeladen. Das Trio hat einige der Lieblingslieder.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2010_08_hassliebe__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2010_08_hassliebe__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEFBgcICf/EACsQAAIBAwMDAgYDAQAAAAAAAAECAwQFEQAGIQcSMRNRCBQiMkFhJHFy8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCvOoW76Pdu79yXOeqhbFVLFQSsjF4IolAjeNgw7c4JHHLNzrTXw6b9k3z0+pnuMwkvVB/HqyfufH2SH/Q8n3DawFLKXLEZHccsP3qa9L+oN82TeRJZKmKBZ19GVZYRKjAkYJXIJwfHPGT+8h0Z1QHxc3uIdOaKnttXC8st09KQxyAleyGQsv0nhuVGD4z/AFqi6HqpvPbt99C3Xp5lnWV3NUhlQtMQ7uEZiOCvHt9XudQG63admq0mYOamY1cnbEsaeo4IOFHCjB/GPGPbQP1m3ltylskFJXbHt9ZWw0/oGs+YKM5y572XtILfUBnzhRzpg3ReLfdtwQ1lnssFmpgka/KxSGRe4eWyQDzo0aBbg5eqojIS8pDAufJwf+6arg/qyliACFGcfnnRo0H/2Q==
@@ -27,12 +26,11 @@ labels:
   - Ska-Band
   - Südpol Records
 focusKeyword: Hassliebe
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Neue EP von Hassliebe
+
 ---
 
 **2006 wurde von Sänger Daniel Frisch, Schlagzeuger Klaus Müller und Gitarrist Manuel Gläser in Donauwörth die Band HASSLIEBE gegründet. Noch im selben Jahr gewann die Band den Bandkontest "RT 1 Nordschwaben Top Act Festival" und den Wettbewerb "Kulturspektakel" in München.**

@@ -13,7 +13,6 @@ labels:
   - An Evening With Knives
   - English & German
 language: de
-slug: an-evening-with-knives-sense-of-gravity
 typeName: Review
 title: An Evening With Knives
 subTitle: '"Sense of Gravity"'
@@ -32,6 +31,7 @@ focusKeyword: An Evening With Knives
 advertisement: false
 affiliate: false
 languageLink: /2021/06/an-evening-with-knives-sense-of-gravity-en
+
 ---
 
 **An Evening With Knives ist eine der Bands, die man auf gar keinen Fall außer Acht lassen sollte. Ihre aktuelle Platte "Sense of Gravity" ist erst ein paar Monate alt und verdient es unbedingt gehört zu werden.**

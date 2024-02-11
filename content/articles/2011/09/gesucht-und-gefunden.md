@@ -1,13 +1,12 @@
 ---
 date: 2011-09-08T13:14:01.000Z
-slug: gesucht-und-gefunden
-path: /2011/09/gesucht-und-gefunden/
 title: Gesucht und gefunden?
 seoTitle: Gesucht und gefunden? Wo ist mein Song nur geblieben?
 ogTitle: Gesucht und gefunden? Wo ist mein Song nur geblieben?
-description: Gesucht wird ein wundervoller Song. Falls ihn jemand findet, bitte bei mir abgeben! Es ist mir wirklich ganz besonders wichtig!
-excerpt: Gesucht wird ein wundervoller Song. Falls ihn jemand findet, bitte bei mir abgeben! Es ist mir wirklich ganz besonders wichtig!
-fileName: 2011-09---gesucht-und-gefunden.md
+description: Gesucht wird ein wundervoller Song. Falls ihn jemand findet, bitte
+  bei mir abgeben! Es ist mir wirklich ganz besonders wichtig!
+excerpt: Gesucht wird ein wundervoller Song. Falls ihn jemand findet, bitte bei
+  mir abgeben! Es ist mir wirklich ganz besonders wichtig!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_09_28076_r_by_brit-berlin_pixelio-de__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_09_28076_r_by_brit-berlin_pixelio-de__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAnEAABAwQCAgIBBQAAAAAAAAABAgMEABESIQUGBzETFFEiIzJBYf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAgP/xAAgEQACAQMEAwAAAAAAAAAAAAABAgADBCERIoGhMVGR/9oADAMBAAIRAxEAPwCR9W8YrmcW3yfKyS1EcywDaFuFWIudJBIA/JxFUSH4u4CLNnxHGC79XixyHyEbKjicSCToZVq9ValTem8dEbW8zHShTpLeYDqcRlfE7A3fWqY3zMcRI+X67D7kZDTjimHc3GEWUnI7SEmybkC5AqE9zVL5PcvUrdQMAfNecgznJ8TwIMt6M5ESllstmLIbBAWFuJQAbHRGWxSx3boj0WByE6PyBW1DUtlYWnJKVIBJTuxFwDY7vVHiSOXiIkFchQZempkFt1hamg5mFjEDaclXsP7A/NZHf5b46hzwe+BlDrUiQptppYzdLaslEqJ2Lj9II9+qbRvKqeG7h6tsrDeo4GnqTjond2oXC8dCdgF0NMrbJzADiXEgEK1ewtfRFPCe2Q5TKUKjPokqiIircFikpFhkE3uFWFvdqKKHcoFbEVbKCupm8rucf7apqIah++062iwGJQLWJH8gd+/R2KRPIHZIR6ZzUSFHkNNrYecsshRLi043J1YAf5RRXOhlszdwiom2f//Z
@@ -32,13 +31,12 @@ labels:
   - Sherlock Holmes
   - The Black Angels
   - Welcher Song von den Black Angels könnte das sein?
-focusKeyword: ''
-status: publish
+focusKeyword: ""
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Lied gesucht
+
 ---
 
 **Gesucht wird ein wundervoller Song. Falls ihn jemand findet, bitte bei mir abgeben!**

@@ -1,19 +1,20 @@
 ---
-date: 2016-09-27T09:09:51.000+00:00
-slug: interview-lovely-day-botanicals
-path: '/2016/09/interview-lovely-day-botanicals/'
+date: 2016-09-27T09:09:51.000Z
 type: Artikel
 typeName: Interview
 title: Lovely Day Botanicals Gründerin Josy
 seoTitle: Lovely Day Botanicals Gründerin Josy im Interview - Kosmetik mit Liebe
 ogTitle: Lovely Day Botanicals Gründerin Josy im Interview - Liebe für vegane Kosmetik
-description: Josy von Lovely Day Botanicals ist eine ganz besondere Frau. Sie stellt Kosmetik her, setzt sich gegen Tierquälerei ein und hat einen tollen Musikgeschmack.
-excerpt: Josy von Lovely Day Botanicals ist eine ganz besondere Frau. Sie stellt Kosmetik her, setzt sich gegen Tierquälerei ein und hat obendrein einen wundervollen Musikgeschmack - Ein Interview
-fileName: 2016-09---lovely-day-botanicals-gruenderin-josy.md
+description: Josy von Lovely Day Botanicals ist eine ganz besondere Frau. Sie
+  stellt Kosmetik her, setzt sich gegen Tierquälerei ein und hat einen tollen
+  Musikgeschmack.
+excerpt: Josy von Lovely Day Botanicals ist eine ganz besondere Frau. Sie stellt
+  Kosmetik her, setzt sich gegen Tierquälerei ein und hat obendrein einen
+  wundervollen Musikgeschmack - Ein Interview
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_09_Beautyblog_Beauty_Blog_Blogger_bare-minds_Elina_Neumann_Lovely-Days-Botanicals_5-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_09_Beautyblog_Beauty_Blog_Blogger_bare-minds_Elina_Neumann_Lovely-Days-Botanicals_5-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAT/xAArEAABBAEDAgUDBQAAAAAAAAABAgMEBREAEiEGEwciMUFhFRdRI0JDcZH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUBAv/EAB8RAAICAQQDAAAAAAAAAAAAAAECABESAwQhMRNBYf/aAAwDAQACEQMRAD8AoPh5LbFkWJqITMFGyKICYrBHc243lYTvU4doJ5x5jx6apiE1EiKWY0SNsdTkJDACT8+mNY9ouqWqDxesZVxJbcqmbB5xKlp3oGE/pkBPwcAj2UfXWt6mygPVbTyYzjW8t7Slgnb3SCnHGcDeMnAAwScY0JWYNTH7CsFxtRz1Emxq+k12TQai1KXJveQ1GciNpU+pogLW2CMkAA5xwfX+266ho+21gYrDIlJqnS0raAQsNHac+3ONT7qPxC6PanIgXbNnCmNWn05oraQhbZP87ahyGxwCU/nGCNUCzlI+h2dMxIcKmISmXHsJ3o3IUEqP7d2BkDHPGmCwNCaxHixXuY/s5Ums65n3NXIXCmB3tp7ISEpSEJTgAg+wH+aunhR4hXE2HVxJrcOQ4CGlSnGz3nMA+ZRCsFXzjRo10wAuKKzEgE+509YdA03VM1ibaiQZERZcQW1hO45HCuORxppvrhb9TaoXEi+ZguKISrKlAHaTzzjAxn8aNGpm2JPBlTXUY3P/2Q==
-ogImage:
+ogImage: null
 labels:
   - Berlin
   - Fair Fashion & Beauty
@@ -28,13 +29,12 @@ labels:
   - veganes Hyaloron
   - Wellness
 focusKeyword: Lovely Day Botanicals
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Don't be Eye Candy, be Soul Food
 advertisement: true
+
 ---
 
 **Josy von Lovely Day Botanicals aus Berlin ist eine ganz besondere Frau. Sie stellt ihre eigene Kosmetik her und lässt sich dabei nicht reinreden. Sie setzt sich gegen Tierquälerei ein und hat obendrein einen wundervollen Musikgeschmack. Jetzt habe ich mich mit ihr zum Interview verabredet.**

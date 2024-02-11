@@ -1,13 +1,16 @@
 ---
 templateKey: article
 date: 2021-04-24T10:10:00.000Z
-slug: playlist-mai-2021
 typeName: Beitrag
 title: Musikliste für den Mai
 subTitle: 12 Songs für mehr Hoffnung
 seoTitle: Musikliste für den Mai – 12 Songs für mehr Hoffnung
-description: Die Musikliste für den Mai hat es in sich. Um Euch ein bisschen Auftrieb zu geben, haben wir wieder 12 besondere Songs für Euch selektiert.
-excerpt: Die Musikliste für den Mai hat es in sich. Um Euch ein bisschen Auftrieb zu geben, haben wir wieder 12 besondere Songs für Euch selektiert. Dann nagt die derzeitige Situation hoffentlich nicht mehr allzu sehr an Euren Nerven.
+description: Die Musikliste für den Mai hat es in sich. Um Euch ein bisschen
+  Auftrieb zu geben, haben wir wieder 12 besondere Songs für Euch selektiert.
+excerpt: Die Musikliste für den Mai hat es in sich. Um Euch ein bisschen
+  Auftrieb zu geben, haben wir wieder 12 besondere Songs für Euch selektiert.
+  Dann nagt die derzeitige Situation hoffentlich nicht mehr allzu sehr an Euren
+  Nerven.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/12-songs-mai-blog-jpg-imagine-f8f8f8_7f8476_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/musikliste-mai-fb-png-imagine-f8f8f8_7d8475_1200_628/640.webp
 labels:
@@ -43,6 +46,7 @@ focusKeyword: Musikliste
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Der Mai steht vor der Tür! Wie geht es Euch? Hoffentlich nagt die derzeitige Situation nicht zu sehr an Euren Nerven. Um Euch ein bisschen Auftrieb zu geben und etwas Schwung reinzubringen, haben wir wieder 12 besondere Songs für Euch selektiert.**

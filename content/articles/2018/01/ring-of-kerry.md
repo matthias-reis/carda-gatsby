@@ -1,41 +1,37 @@
 ---
-date: 2018-01-03T22:42:42.000+00:00
-slug: ring-of-kerry
-path: "/2018/01/ring-of-kerry/"
+date: 2018-01-03T22:42:42.000Z
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Abenteuer auf dem Ring Of Kerry
 seoTitle: Ring Of Kerry - Irlands windigste Straße - wild und schön
 ogTitle: Ring Of Kerry - Irlands windigste Straße - wild und schön
-description: Bei unserer Fahrt über den Ring Of Kerry zeigte sich uns die grüne Insel
-  von ihrer wildschönen Seite. Rau und eindrucksvoll.
-excerpt: Bei unserer Fahrt über den Ring Of Kerry zeigte sich uns die grüne Insel
-  von ihrer wildschönen Seite. Rau und eindrucksvoll.
-fileName: 2018-01---abenteuer-auf-dem-ring-of-kerry.md
+description: Bei unserer Fahrt über den Ring Of Kerry zeigte sich uns die grüne
+  Insel von ihrer wildschönen Seite. Rau und eindrucksvoll.
+excerpt: Bei unserer Fahrt über den Ring Of Kerry zeigte sich uns die grüne
+  Insel von ihrer wildschönen Seite. Rau und eindrucksvoll.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_25610419388_ac95a11884_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_25610419388_ac95a11884_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKRAAAgEDAwIGAwEBAAAAAAAAAQIDBAURABIhBjEHEyJBUWEUI3GRof/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIREiExQf/aAAwDAQACEQMRAD8AzG2+Jt4jIK01CEzwnln/ADOc6bOn/FW4NfKZa6BDQvGY3hiJU79ww6knvzjBODrHOnKG43irSltlM1TKOSq8YHyzdgPs6ZOqLHWdN1UNNcjC8ckQeN4Msu7JypyB9/8ADqxkPUmvt1ItYkkaPDUnY6hlKyMSQffA51W1092jRpKGS6be+9WaNP7knWX2br56TwyMMdVLFVwSC3iYr+3DKW3KAcZVfSCfo6h2iupq+xRuJaiVQPIEdbn9aIFXYuDgjA799SckfZ9CUXoqdLFaI6emgjZiBJLIeGkY+5/g402VVyo615fzbZFNuhEZy5GFJB4+Dkdxo0ayK8qlQ1MFMwp0t8clHTqzzTJ5nmNKSuMbiPTwvt86K/qaR6H8YUkCxIPSAOAPjGNGjSuTC3//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_25610419388_ac95a11884_z__l.jpg
 labels:
-- Britische Inseln
-- Irland
-- Irland2017
-- Reisblog
-- Reisen
-- Ring Of Kerry
-- travelling
-- serie:Irland 2017
+  - Britische Inseln
+  - Irland
+  - Irland2017
+  - Reisblog
+  - Reisen
+  - Ring Of Kerry
+  - travelling
+  - serie:Irland 2017
 focusKeyword: Ring Of Kerry
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Irlands windigste Straße
-year: '2018'
-month: '01'
+year: "2018"
+month: "01"
 
 ---
+
 **Irland ist nicht nur grün und gemütlich. Die Insel ist auch windig. Die volle Breitseite bekamen wir auf unserer Fahrt über den Skellig Ring und den Ring of Kerry in Richtung Dingle Halbinsel ab.**
 
 Die Landschaft zeigte sich uns am 10. September bei wechselhaftem Wetter wildschön und abwechslungsreich.

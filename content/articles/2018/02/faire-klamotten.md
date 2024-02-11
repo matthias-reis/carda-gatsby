@@ -1,13 +1,12 @@
 ---
-date: 2018-02-16T08:09:58.000+00:00
-slug: faire-klamotten
-path: '/2018/02/faire-klamotten/'
+date: 2018-02-16T08:09:58.000Z
 title: Faire Klamotten
 seoTitle: Faire Klamotten - Diese Modelabels achten auf die Mitwelt
 ogTitle: Faire Klamotten - Diese Modelabels achten auf die Mitwelt
-description: Immer wieder werde ich nach Tipps für faire Klamotten gefragt. Ich habe sie jetzt für Euch zusammengestellt und eine tolle Liste daraus gemacht.
-excerpt: Immer wieder werde ich nach Tipps für faire Klamotten gefragt. Ich habe sie jetzt für Euch zusammengestellt und eine tolle Liste daraus gemacht.
-fileName: 2018-02---faire-klamotten.md
+description: Immer wieder werde ich nach Tipps für faire Klamotten gefragt. Ich
+  habe sie jetzt für Euch zusammengestellt und eine tolle Liste daraus gemacht.
+excerpt: Immer wieder werde ich nach Tipps für faire Klamotten gefragt. Ich habe
+  sie jetzt für Euch zusammengestellt und eine tolle Liste daraus gemacht.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_11354942696_e0f3122d35_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_11354942696_e0f3122d35_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwj/xAAqEAABAwMDAwMEAwAAAAAAAAABAgMEAAURBhIhEzFBByKRFCNRcWGB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAQP/xAAeEQACAgICAwAAAAAAAAAAAAABAgARITEDgRMiYf/aAAwDAQACEQMRAD8A6DjzUrAwsfNIPUy8SrZpF923TVwpTriWUSUJQotZySoBfHj9/jmka5zcVhTr6kNtJGSSQBUxqvVEedYksQ1F8PvdNaSnPT2JK8qSePAxng0XYAEXmPjFsLGJL+huutZS/Uk6fvMyVdYLrbq5BfVv+n2JJS6hR5CScDHncOMit/g3uJNutyt0dLxk28oS+VJASCoZABz3+K5G0jqB2Fcbld2GQl3b9kD2hvJPBx+P9rUNH6zlwJ95nXABbt5LEtp1lsYc2NdPasnsrI/XOawPW+4nUn2HUz17VE+6KbVcSl0YWpCUjYEEAYwP770v1Ffn7azFagISkPErc6vvyAnGPGM/NFFQhR5b+SgORxHOpOMyUz4hjxmG4RWvc4ptSlBRyewUTjz80zhLdK0ReqQhIGCCQeD/AAaKKTsczgGJ3P/Z
@@ -48,14 +47,12 @@ labels:
   - vegane Schuhe
   - Zündstoff
 focusKeyword: Faire Klamotten
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image that could not be found
 subTitle: Diese Modelabels achten auf die Mitwelt
 affiliate: true
+
 ---
 
 **Ich werde immer wieder gefragt, ob ich nicht mal Lust habe, eine Liste mit fairen und veganen Modelabels zusammenzustellen. "Du kennst Dich doch da aus! Du hast selbst immer so tolle Biobaumwoll-Sachen an!"**

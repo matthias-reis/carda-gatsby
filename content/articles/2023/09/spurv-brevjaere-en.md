@@ -1,6 +1,5 @@
 ---
 date: 2023-09-23T13:45:22.248Z
-slug: spurv-brevjaere-en
 typeName: Review
 title: Spurv – "Brevjære"
 subTitle: An Album you should listen to again and again
@@ -31,7 +30,9 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/09/spurv-brevjaere/
+
 ---
+
 **"Brevjære" is the title of Norway's post-rock titans Spurv's new album. The record starts with a bang, and the sextet reaches new, boundless heights with "Brevjære". One thing is for sure: You should listen to this record all over again! Here is my review and recommendation for you!**
 
 "Brevjære" translates as "breadcrumbs". The band has scattered these throughout the whole album. Their eight new songs tell a story that takes us to unknown places.

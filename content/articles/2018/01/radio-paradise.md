@@ -1,17 +1,18 @@
 ---
-date: 2018-01-14T14:57:08.000+00:00
-slug: radio-paradise
-path: '/2018/01/radio-paradise/'
+date: 2018-01-14T14:57:08.000Z
 title: Radio Paradise
 seoTitle: Radio Rock Revolution - Radio Paradise aus Kalifornien sorgt für Furore
 ogTitle: Radio Rock Revolution - Radio Paradise aus Kalifornien sorgt für Furore
-description: 'Ich rege mich ja gerne mal übers Radio auf. Doch nörgeln kann jeder. Heute möchte ich Euch mal einen tollen Sender empfehlen: Radio Paradise.'
-excerpt: 'Ich rege mich ja gerne mal übers Radio auf. Doch nörgeln kann jeder. Heute möchte ich Euch mal einen ganz besonders tollen Sender empfehlen, den sogar ich gerne höre: Radio Paradise.'
-fileName: 2018-01---radio-rock-revolution.md
+description: "Ich rege mich ja gerne mal übers Radio auf. Doch nörgeln kann
+  jeder. Heute möchte ich Euch mal einen tollen Sender empfehlen: Radio
+  Paradise."
+excerpt: "Ich rege mich ja gerne mal übers Radio auf. Doch nörgeln kann jeder.
+  Heute möchte ich Euch mal einen ganz besonders tollen Sender empfehlen, den
+  sogar ich gerne höre: Radio Paradise."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Radio-Paradise__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Radio-Paradise__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAKRAAAgIBAwIFBAMAAAAAAAAAAQIDEQQABTEGExIUIUFRBxYigUJh0f/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAHhEAAwABBAMAAAAAAAAAAAAAAAECMQMEIVEUMkH/2gAMAwEAAhEDEQA/ALx3b6n9F7UzruvUm1KjDxxtFMJQy8EfjfqDyPijqAzfqN0LnZ8mHhbxj5UsYSSRomBRYmWzL4uCq8MOR7jWIoZou6B2DRPqikAk1X+amcLbpxgtlbVI2QysYplhsOh4orzR9f61JOpwL4r2Rofrvq3ZIhjPsWZj7hAJYzLPCwMTK0gTwhjz/ImuKHrzpHzc7bvurJ831bgLhYod1VGCpkIzHwxlCLDx0Qxuz+IA50obDNuGQ7wpPgvlRUo80nesk2AGF0RV2LHrqfwOj8feo8iTdtpGJmtK0k0zSOhlJsl1YWAv6o2NF7vUhunfXAfGi0kp7Erpsnyu5S2e6iIqv7qCGsA+2u3CjSM4vbRV78Eay0K7gMi2G+f3o0aVGGMWUW11EiQ7VlrEqoqRqFCigos8aVYZ5pA6ySyMrtCrBmJDAutg/N6NGs+fhao//9k=
-ogImage:
+ogImage: null
 labels:
   - Alternative
   - Bands
@@ -40,14 +41,13 @@ labels:
   - Rock Radio
   - Rockmusik
 focusKeyword: Radio Paradise
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Internet-Radiosender zeigt, wie Musik geht
-year: '2018'
-month: '01'
+year: "2018"
+month: "01"
+
 ---
 
 **Ich bin ja durchaus dafür bekannt, mich gerne mal über die** [**Musik im Radio aufzuregen**](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)**. Oder über Radiosender generell. Aber meckern kann ja jeder. Heute möchte ich mal einen Radiosender loben. Für sein abwechslungsreiches Programm, für seine Kreativität und für die Liebe zum Detail.**

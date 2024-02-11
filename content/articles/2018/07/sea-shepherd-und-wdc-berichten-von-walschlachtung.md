@@ -1,13 +1,12 @@
 ---
 date: 2018-07-13T07:00:13.000Z
-slug: sea-shepherd-und-wdc-berichten-von-walschlachtung
-path: /2018/07/sea-shepherd-und-wdc-berichten-von-walschlachtung/
 title: Blauwal geschlachtet - Sea Shepherd und WDC berichten
 seoTitle: Blauwal geschlachtet - Sea Shepherd und WDC berichten
 ogTitle: Blauwal geschlachtet - Sea Shepherd und WDC berichten
-description: 'Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der Walschutzorganisation WDC rein: In Island wurde ein Blauwal geschlachtet.'
-excerpt: 'Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der Walschutzorganisation WDC rein: In Island wurde ein Blauwal geschlachtet.'
-fileName: 2018-07---blauwal-geschlachtet-sea-shepherd-und-wdc-berichten.md
+description: "Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der
+  Walschutzorganisation WDC rein: In Island wurde ein Blauwal geschlachtet."
+excerpt: "Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der
+  Walschutzorganisation WDC rein: In Island wurde ein Blauwal geschlachtet."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_blue-whale-1198719_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_blue-whale-1198719_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUHAv/EACUQAAIBAwMEAgMAAAAAAAAAAAECAwAEEQUSIRMxQVEGYRQjQv/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAECMf/aAAwDAQACEQMRAD8AwSG1eaLMZBfPbPYVJtdGuby9W1t2g6zLuUSSBN30Ca6+P86hHEQW6h24HutBv7/RvjWk21nHqUq61KjyXNxb2u/YHJ/WrEqchQozyMk4xV1rNmS9ZzFpUoimmvGFpBEhJLqSzN/KqvfJPGe3moTujKhRCrgAN6b7+jVrrOr2l7bmG0078cdQMHeVncgDGSSe588Y4AqnA5zjt7pixL06+uLB5XtCiTOuzqlcsg87fRPump5HlcGR2Zu2WOaKKEYYPBIpSxOPGfVFFBv/2Q==
@@ -23,12 +22,11 @@ labels:
   - Walfang
   - WDC
 focusKeyword: Blauwal
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Traurige Nachricht aus Island
+
 ---
 
 **Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der Walschutzorganisation WDC (Whale and Dolphin Conservation) rein: Offenbar wurde in Island ein Blauwal geschlachtet und zerlegt.**

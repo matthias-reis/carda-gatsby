@@ -1,19 +1,20 @@
 ---
-date: 2019-01-02T18:31:03.000+00:00
-slug: das-seelenleben-der-tiere-peter-wohlleben
-path: '/2019/01/das-seelenleben-der-tiere-peter-wohlleben/'
+date: 2019-01-02T18:31:03.000Z
 type: Artikel
 typeName: Buchtipp
 title: '"Das Seelenleben der Tiere"'
 seoTitle: Das Seelenleben der Tiere von Peter Wohlleben - meine Kritik
 ogTitle: Das Seelenleben der Tiere von Peter Wohlleben - meine Kritik
-description: Empfinden Tiere Liebe, Trauer und Mitgefühl? Dieser Frage geht Autor Peter Wohlleben in seinem Buch "Das Seelenleben der Tiere nach". Ich habe es gelesen.
-excerpt: Affiliate Link - "Empfinden Tiere Liebe, Trauer und Mitgefühl?" - Dieser Frage geht Autor Peter Wohlleben in seinem Buch "Das Seelenleben der Tiere nach". Ich habe es gelesen.
-fileName: 2019-01---das-seelenleben-der-tiere.md
+description: Empfinden Tiere Liebe, Trauer und Mitgefühl? Dieser Frage geht
+  Autor Peter Wohlleben in seinem Buch "Das Seelenleben der Tiere nach". Ich
+  habe es gelesen.
+excerpt: Affiliate Link - "Empfinden Tiere Liebe, Trauer und Mitgefühl?" -
+  Dieser Frage geht Autor Peter Wohlleben in seinem Buch "Das Seelenleben der
+  Tiere nach". Ich habe es gelesen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_das-seelenleben-der-tiere-peter-wohlleben.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_das-seelenleben-der-tiere-peter-wohlleben.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,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
-ogImage:
+ogImage: null
 labels:
   - Bücher & Filme
   - Das Seelenleben der Tiere
@@ -23,13 +24,12 @@ labels:
   - Tierrechte
   - Tierschutz
 focusKeyword: Das Seelenleben der Tiere
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Buch von Peter Wohlleben
 affiliate: true
+
 ---
 
 **"Empfinden Tiere Liebe, Trauer und Mitgefühl?" - Dieser Frage geht Autor Peter Wohlleben in seinem Buch "Das Seelenleben der Tiere nach". Seine Sammlung wissenschaftlicher Erkenntnisse ist garniert mit zahlreichen persönlichen Beobachtungen und Erfahrungen.**

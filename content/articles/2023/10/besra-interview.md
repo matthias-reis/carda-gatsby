@@ -1,12 +1,17 @@
 ---
 date: 2023-10-18T15:14:44.649Z
-slug: besra-interview
 typeName: Interview
 title: '"Musik ist Therapie!"'
 subTitle: Interview mit Ville und Hannes von Besra
-seoTitle: 'Besra –  Interview – Post-Metal aus Finnland '
-description: Das neue Besra Album ist eine Geschichte über den Schmerz der Veränderung in sechs wunderschönen Kapiteln. Lest jetzt das Interview und erfahrt das Geheimnis der Platte.
-excerpt: Vor Kurzem habe ich bereits die Gelegenheit genutzt, meine Review des neuesten Besra Albums "Transitions" zu veröffentlichen – eine Geschichte über den Schmerz der Veränderung in sechs wunderschönen Kapiteln. Jetzt habe ich mich mit Hannes und Ville zum Interview getroffen. Sie haben mir mir zahlreiche tiefe Einblicke in die Entstehung der Platte und Ihr Leben gewährt.
+seoTitle: "Besra –  Interview – Post-Metal aus Finnland "
+description: Das neue Besra Album ist eine Geschichte über den Schmerz der
+  Veränderung in sechs wunderschönen Kapiteln. Lest jetzt das Interview und
+  erfahrt das Geheimnis der Platte.
+excerpt: Vor Kurzem habe ich bereits die Gelegenheit genutzt, meine Review des
+  neuesten Besra Albums "Transitions" zu veröffentlichen – eine Geschichte über
+  den Schmerz der Veränderung in sechs wunderschönen Kapiteln. Jetzt habe ich
+  mich mit Hannes und Ville zum Interview getroffen. Sie haben mir mir
+  zahlreiche tiefe Einblicke in die Entstehung der Platte und Ihr Leben gewährt.
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-18/besra-band-interview-soundsvegan-jpeg-imagine-080808_141010_1024_768/640.webp
 copyright: Besra
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-18/besra-band-interview-soundsvegan-og-jpeg-imagine-080808_151111_1200_630/640.webp
@@ -24,6 +29,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/10/besra-interview-en/
+
 ---
 
 **Besra sind eine der Post-Metal-Bands, die immer ein Feature in meinem Blog bekommen, wenn sie neues Material herausbringen. Ihre Musik ist einfach zu gut, um sie für mich zu behalten. Ich muss sie mit Euch teilen! Vor Kurzem habe ich bereits die Gelegenheit genutzt, meine Review ihres neuesten Albums "Transitions" zu veröffentlichen – eine Geschichte über den Schmerz der Veränderung in sechs wunderschönen Kapiteln. Nachdem ich es mit den Jungs geteilt habe, haben wir uns zu einem Interview verabredet. Hier ist es! Viel Freude damit! Hannes (Hietarinta, Leadgesang, Keyboards), Ville (Kaisla, Drums) und ich hatten ein sehr persönliches Gespräch, in dem sie mir zahlreiche tiefe Einblicke in "Transitions" gewährt haben.**

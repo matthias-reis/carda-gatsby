@@ -12,14 +12,19 @@ labels:
   - Phanerozoic I
   - Phanerozoic II
 language: en
-slug: the-ocean-robin-staps-interview-en
 typeName: Interview
 title: The Ocean Collective Founder Robin Staps
 subTitle: '"Our new album is a journey"'
 seoTitle: The Ocean Founder Robin Staps – "Our new album is a journey"
-ogTitle: ''
-description: On 25 September, the second part of The Ocean's acclaimed album "Phanerozoic" will be released. We have all been eagerly awaiting this moment. I now had the honour to talk to The Ocean founder Robin Staps about making "Phanerozoic" and the band's Berlin-based post-rock label Pelagic.
-excerpt: On 25 September, the second part of The Ocean's acclaimed album "Phanerozoic" will be released. We have all been eagerly awaiting this moment. I now had the honour to talk to The Ocean founder Robin Staps about making "Phanerozoic" and the band's Berlin-based post-rock label Pelagic.
+ogTitle: ""
+description: On 25 September, the second part of The Ocean's acclaimed album
+  "Phanerozoic" will be released. We have all been eagerly awaiting this moment.
+  I now had the honour to talk to The Ocean founder Robin Staps about making
+  "Phanerozoic" and the band's Berlin-based post-rock label Pelagic.
+excerpt: On 25 September, the second part of The Ocean's acclaimed album
+  "Phanerozoic" will be released. We have all been eagerly awaiting this moment.
+  I now had the honour to talk to The Ocean founder Robin Staps about making
+  "Phanerozoic" and the band's Berlin-based post-rock label Pelagic.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/the-ocean-collective-jpeg-imagine-080808_292929_1024_768/640.webp
 copyright: The Ocean Collective
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/robin-staps-the-ocean-png-imagine-080808_292929_1200_628/640.webp
@@ -27,6 +32,7 @@ focusKeyword: The Ocean
 advertisement: false
 affiliate: false
 languageLink: /2020/09/the-ocean-robin-staps-interview
+
 ---
 
 **On 25 September, the second part of The Ocean's acclaimed album "Phanerozoic" will be released. We have all been eagerly awaiting this moment. I now had the honour to talk to The Ocean founder Robin Staps about making "Phanerozoic" and the band's Berlin-based post-rock label Pelagic.**

@@ -1,12 +1,16 @@
 ---
 date: 2024-02-07T12:30:12.086Z
-slug: green-planet-energy-atomkraft-nein-danke
-typeName:
+typeName: null
 title: '"Atomkraft? Nein Danke!"'
-subTitle: 'Darum lehnt Green Planet Energy Atomstrom ab'
+subTitle: Darum lehnt Green Planet Energy Atomstrom ab
 seoTitle: '"Atomkraft? Nein Danke!" – Green Planet Energy zeigt Alternativen'
-description: '"Atomkraft? Nein Danke!" sagt Green Planet Energy. Erfahrt jetzt, warum das so ist und wie Ihr die Alternativen jetzt schon nutzen könnt."'
-excerpt: '"Atomkraft? Nein Danke!" – wenn Ihr Greenpeace und damit auch Green Planet Energy folgt, ist dieser Satz für Euch nicht neu. Dennoch hat er in den letzten Wochen und Monaten wieder an Bedeutung gewonnen. Warum Sönke Tangermann, Vorstand bei Green Planet Energy die Atomkraft für eine Sackgasse hält, erfahrt Ihr in diesem Artikel.'
+description: '"Atomkraft? Nein Danke!" sagt Green Planet Energy. Erfahrt jetzt,
+  warum das so ist und wie Ihr die Alternativen jetzt schon nutzen könnt."'
+excerpt: '"Atomkraft? Nein Danke!" – wenn Ihr Greenpeace und damit auch Green
+  Planet Energy folgt, ist dieser Satz für Euch nicht neu. Dennoch hat er in den
+  letzten Wochen und Monaten wieder an Bedeutung gewonnen. Warum Sönke
+  Tangermann, Vorstand bei Green Planet Energy die Atomkraft für eine Sackgasse
+  hält, erfahrt Ihr in diesem Artikel.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-07/windpark-ketzin-green-planet-energy-soundsvegan-com-jpg-imagine-c8c8c8_a8afc0_1024_768/640.webp
 copyright: Green Planet Energy
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-07/windpark-buchhain-green-planet-energy-soundsvegan-com-og-jpg-imagine-c8c8d8_8d9170_1200_628/640.webp
@@ -22,10 +26,11 @@ labels:
   - Stromanbieter
   - Ökostrom
   - Ökogas
-focusKeyword: 'Atomkraft nein danke'
+focusKeyword: Atomkraft nein danke
 advertisement: false
 affiliate: true
 language: de
+
 ---
 
 **Sönke Tangermann, Vorstand bei Green Planet Energy äußerte sich jetzt zum Bau neuer Atomkraftwerke: "Es ist an der Zeit, sich endlich von der teuren und gefährlichen Atomenergie zu verabschieden!" Auslöser für sein Statement war das neue Atomkraftwerk Hinkley Point C, welches der französische Konzern Électricité de France (EDF) im Süden Englands baut. Die Arbeiten am Meiler verzögern sich derzeit immer weiter.**

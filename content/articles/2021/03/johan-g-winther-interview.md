@@ -1,25 +1,22 @@
 ---
 ogTitle: Johan G. Winther im Interview – "Ich nehme meine Musik im Wald auf"
-excerpt: Johan G. Winther veröffentlicht am 26. März sein Album "The Rupturing Sowle" auf Vinyl. Ich habe mich mit ihm zum Interview verabredet.
+excerpt: Johan G. Winther veröffentlicht am 26. März sein Album "The Rupturing
+  Sowle" auf Vinyl. Ich habe mich mit ihm zum Interview verabredet.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter-fb.png__l.jpg
 isAffiliate: false
-path: /2021/03/johan-g-winther-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAKhAAAQMCBgEDBAMAAAAAAAAAAQIDBAURAAYHEiExEyJBURYyYYFCcaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAwEBAAAAAAAAAAAAAAAAAREhAjH/2gAMAwEAAhEDEQA/AKVOr0ulUbxpAkCPATDSiU9ytyxBXu5JIFiOL8W/ONNo1mujfTlFfnTkNuQmCiQkhXkSbWSfe4N1fvCy1syZNokaDVGUxRSVu7A5HcKgta0rULAC4AQ2e8M7TvT+kUTJ1GqOaJUOK9LiBxbTzQS8lSr22ubt19u30ge+MTVEWo6nqU8ajWJ1ZgrMUyPJFbhupKkI3hACgeFHkKvxYkjEeoZ1azBJQpMaapyA35QzJYYKFBIv96Vg3sT2D+jiXmXLmUC9NYprVacjKKXHXhJSErUTuABWgm5I6/zGYVEotNTIVTqDWi+4hTJcenocRtVwQQhAI677FsXC5RM8ZqnuZKTSXo7bsV59MmOpPJSfG62Rz2PX+ORhgaj6erzYxDruXak5KqAYZShmVIPidCUBJKfg8X+MGDE6zYOd9LiRUazRogiTGp9OW27ZSXtyCggfxB4X/Yv7m5x1pddmuSW25UkIddVs86Eha1It6SbHkDs9lIGDBjSP/9k=
 typeName: Interview
 isWerbung: false
-fileName: 2021-03---johan-g-winther.md
-slug: johan-g-winther-interview
-errors: {}
 date: 2021-03-11T16:24:02.000Z
 focusKeyword: Johan G. Winther
 languageLink: /2021/03/johan-g-winther-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_johan-g-winter__m.jpg
 title: Johan G. Winther
 subTitle: '"Ich nehme meine Musik im Wald auf"'
 seoTitle: Johan G. Winther im Interview – "Ich nehme meine Musik im Wald auf"
-description: Johan G. Winther veröffentlicht am 26. März sein Album "The Rupturing Sowle" auf Vinyl. Ich habe mich mit ihm zum Interview verabredet.
+description: Johan G. Winther veröffentlicht am 26. März sein Album "The
+  Rupturing Sowle" auf Vinyl. Ich habe mich mit ihm zum Interview verabredet.
 language: de
 type: Artikel
 labels:
@@ -40,6 +37,7 @@ labels:
   - Recording
   - Scraps of Tape
   - Zeon Light Kassett
+
 ---
 
 **Am 26. März erscheint Johan G. Winthers Album "The Rupturing Sowle" auf Vinyl. Ich habe mich schon jetzt mit ihm zum Interview verabredet, um mit ihm über die Platte zu plaudern.**

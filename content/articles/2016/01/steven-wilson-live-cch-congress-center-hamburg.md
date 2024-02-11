@@ -1,15 +1,16 @@
 ---
 date: 2016-01-27T10:27:46.000Z
-slug: steven-wilson-live-cch-congress-center-hamburg
-path: /2016/01/steven-wilson-live-cch-congress-center-hamburg/
 type: Artikel
 typeName: Konzertbericht
 title: Steven Wilson live @ CCH Congress Center Hamburg
 seoTitle: Steven Wilson live @ CCH Congress Center Hamburg
 ogTitle: Steven Wilson live @ CCH Congress Center Hamburg
-description: Das komplette Hand. Cannot. Erase. Album spielte Steven Wilson mit Band kurz vor der Veröffentlichung seines neuen Albums auf seinem Konzert in Hamburg.
-excerpt: Das komplette Hand. Cannot. Erase. Album spielte Steven Wilson mit Band kurz vor der Veröffentlichung seines neuen Albums auf seinem Konzert in Hamburg.
-fileName: 2016-01---steven-wilson-live-cch-congress-center-hamburg.md
+description: Das komplette Hand. Cannot. Erase. Album spielte Steven Wilson mit
+  Band kurz vor der Veröffentlichung seines neuen Albums auf seinem Konzert in
+  Hamburg.
+excerpt: Das komplette Hand. Cannot. Erase. Album spielte Steven Wilson mit Band
+  kurz vor der Veröffentlichung seines neuen Albums auf seinem Konzert in
+  Hamburg.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24263494609_f6f826725a_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24263494609_f6f826725a_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYI/8QAKRAAAQMDAwMCBwAAAAAAAAAAAQIDBAAFERIhMQYTQRQyIiNRYYGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EAB8RAAEEAQUBAAAAAAAAAAAAAAEAAgMRIQQSMVHwQf/aAAwDAQACEQMRAD8A5fA+GoEb70wtdvdnuNtM6e4o4AJxqJOAB++a2L9nskK2xkLfWHRKUHHgCl1aMDCVIOyVA8aSRyT4rSZpnSixgIweUr6S6Uk3Sa02Yr61qAUGw0onSeDjnB8fWt91TY4HSMCSxe7ypMxxnDdot6kl1KvHqHPahPnSnKjxSGd19coUiPGsN1mw4fa0F5Q0OqQVEhJUCcpGTuMe47YAqi5IigtPrkd9bgd1N6xk6k+c7kb/AJyeK14YWtBYw1XJ989aN+tEbBtbk+5SG1IajwXZXaQ44hAOHCSDkZ3GaoXB5brSSo8AKH2zRRUDcQGukswotUNXyWVEBRA0778Hah2S420SjSCo4JxyNv7RRSPNR2OgpQLOe1//2Q==
@@ -32,12 +33,11 @@ labels:
   - Steven Wilson Setlist
   - Storm Corrosion
 focusKeyword: Steven Wilson
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Perfekt. Nachdenklich. Unvergesslich.
+
 ---
 
 **Nachdem es vom letzten Steven Wilson Konzert vor zwei Jahren in München keinen Bericht gab, habe ich dieses Mal wenigstens ein paar Erinnerungen mitgebracht.**

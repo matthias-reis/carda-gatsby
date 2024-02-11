@@ -1,15 +1,16 @@
 ---
 date: 2019-04-15T08:35:05.000Z
-slug: ranges-planen-neues-album
-path: /2019/04/ranges-planen-neues-album/
 type: Artikel
 typeName: Review
 title: Ranges planen neues Album
 seoTitle: Ranges planen neues Album - "Babel" kommt im September
 ogTitle: Ranges planen neues Album - "Babel" kommt im September
-description: Die Instrumental Post-Rock-Band Ranges aus Montana hat pünktlich zum Record Store Day am Samstag ein neues Album mit dem Titel "Babel" angekündigt.
-excerpt: Die Instrumental Post-Rock-Band Ranges aus Montana hat pünktlich zum Record Store Day am Samstag ein neues Album mit dem Titel "Babel" angekündigt. Der Nachfolger von "The Ancensionist" soll am 30. September erscheinen.
-fileName: 2019-04---ranges-planen-neues-album.md
+description: Die Instrumental Post-Rock-Band Ranges aus Montana hat pünktlich
+  zum Record Store Day am Samstag ein neues Album mit dem Titel "Babel"
+  angekündigt.
+excerpt: Die Instrumental Post-Rock-Band Ranges aus Montana hat pünktlich zum
+  Record Store Day am Samstag ein neues Album mit dem Titel "Babel" angekündigt.
+  Der Nachfolger von "The Ancensionist" soll am 30. September erscheinen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2017-09-irland-408jpg_26349583628_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2017-09-irland-408jpg_26349583628_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFAwT/xAAnEAABAwMEAQQDAQAAAAAAAAABAgMRAAQFBhITITFRcYGxQUJhkf/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAP/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQJRERKxMf/aAAwDAQACEQMRAD8AQ4XFv3TwW40011AHEgpiPBSCPqk1pirdveFsWaVBJUUqtnBMeyqOad07etNcidVvuqIgJUEuJ8ekiPitZWkl3O9y51FkUumY2GUn4ChHtVW8bMNZUd7nDWdwxyNYSzIUYJHX2mgmttPss26lNMKQjbJS2owP8FLXdKZZNs4hjUroKZ40L37YnrcQrr4FHc/p3OIslBOXx7rxknc2fH9JPZpqcE/eianXArYZhdsoFLKCPQ1v2+YW8DLQT1+iiKqqmRSee+yYDSjwmfyeQzQbUd1zSSFiB1LhNVVGBn//2Q==
@@ -23,12 +24,11 @@ labels:
   - Postrock
   - Ranges
 focusKeyword: ranges
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Babel" kommt im September'
+
 ---
 
 **Die Instrumental Post-Rock-Band Ranges aus Montana hat pünktlich zum Record Store Day am Samstag ein neues Album mit dem Titel "Babel" angekündigt. Der Nachfolger von "The Ancensionist" soll am 30. September erscheinen.**

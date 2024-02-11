@@ -5,20 +5,15 @@ excerpt: Auf Tagestouren ist es immer gut, etwas zu Trinken dabei zu haben. Ich
   perfekt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_wasser-fb.png__l.jpg
 isAffiliate: false
-path: /2020/07/wasser-trinken/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYC/8QAKRAAAgIBBAECBQUAAAAAAAAAAQIDBBEABRIhMQZBExVRYaEiMnGR0f/EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECESEDQf/aAAwDAQACEQMRAD8AZ20RwJHxQhcdYBxj/Nd7k8sk7xbBHBa3Gu8S2IpFLiOOU9E+2TjOsvU3gxjBXiP3EkfcDVHBbt/MN4ty/GryWb1XoMR0qlQAR5GB+dc3NN0bUGtNXvPrf07tl96FtrC2oX+DMz1GwjA9gnzj38HrvUzd6lWarHNVqbfKrRthpVP6lIyvEr7fyNKn1htdu96o3aaCjYnklnbDnGG6Azybwf60zNukmh2mlRushtQ1445CpBXkqjIyPxj6aF02hOHouYfUMNWvyBXoYA9z9hqLPvl/cLEccMcIgV0kw2crx+/ecg6NGpm60pirw1dTeykjNMiszN2oVRyJ8jJ+mc+dW015GilUOFUE8eAA4j20aNEBdD//2Q==
-date: 2020-07-27T13:09:13.000+00:00
+date: 2020-07-27T13:09:13.000Z
 typeName: Artikel
 advertisement: true
 isWerbung: false
-fileName: 2020-07---wasser-trinken.md
-slug: wasser-trinken
-errors: {}
 title: Wasser trinken
 subTitle: Trinkroutine und Flaschen für unterwegs und daheim
 focusKeyword: Wasser
 affiliate: true
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-19__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-06-28-same-but-green-19__m.jpg
 seoTitle: Wasser trinken - Trinkroutine und Flaschen für unterwegs und daheim
@@ -37,7 +32,9 @@ type: Artikel
 description: Auf Tagestouren ist es immer gut, etwas zu Trinken dabei zu haben.
   Ich nehme mir am liebsten Wasser mit. Das ist natürlich und stillt den Durst
   perfekt.
+
 ---
+
 **Auf Tagesausflügen ist es immer gut, etwas zu Trinken dabei zu haben. Ich nehme mir am liebsten Wasser mit. Das ist am natürlichsten und stillt den Durst am besten.**
 
 Je nach Gusto kann es auch gerne mal mit einem [leckeren selbst gemachten Sirup](/2020/06/rosmarin-ingwer-sirup/) angereichert sein. Zum Wohle der Umwelt ist es mir auf jeden Fall besonders wichtig, meine eigene Flasche dabei zu haben. Die kann ich, falls sie leer wird, unterwegs am Wasserhahn auffüllen und komme nicht in die Verlegenheit, mir eine [PET-Flasche](/2018/07/glas-statt-plastik/) kaufen zu müssen - Der ein oder andere Kiosk führt zwar auch Glas-Pfandflaschen, aber Ihr wisst, was ich meine. Sparsamer ist Leitungswasser natürlich obendrein.

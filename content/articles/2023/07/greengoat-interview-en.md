@@ -1,12 +1,16 @@
 ---
 date: 2023-07-21T11:01:54.683Z
-slug: greengoat-interview-en
 typeName: Beitrag
 title: Greengoat – Interview about "The Seed"
 subTitle: '"The Physical Format still has that Magic"'
 seoTitle: Greengoat – psychedelic/stoner/doom interview
-description: I talked to Greengoat about their upcoming album and their tour plans. Read my interview with the psychedelic/stoner/doom duo from Madrid now!
-excerpt: 'Greengoat are a psychedelic/stoner/doom duo from Madrid whose music I recently discovered. Their sound reminds me a lot of the "good old times", but it is also quite futuristic. When I added their latest song, "The Seed", to my July playlist, they contacted me, and I asked for an interview. Voilà: Here we go!'
+description: I talked to Greengoat about their upcoming album and their tour
+  plans. Read my interview with the psychedelic/stoner/doom duo from Madrid now!
+excerpt: 'Greengoat are a psychedelic/stoner/doom duo from Madrid whose music I
+  recently discovered. Their sound reminds me a lot of the "good old times", but
+  it is also quite futuristic. When I added their latest song, "The Seed", to my
+  July playlist, they contacted me, and I asked for an interview. Voilà: Here we
+  go!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-07-21/greengoat-interview-soundsvegan-jpg-imagine-080808_6b716b_1024_768/640.webp
 copyright: Greengoat
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-07-21/greengoat-interview-soundsvegan-og-jpg-imagine-080808_6c6f68_1200_628/640.webp
@@ -27,6 +31,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/07/greengoat-interview/
+
 ---
 
 **Greengoat are a psychedelic/stoner duo from Madrid whose music I recently discovered. Their sound reminds me a lot of the "good old times", but it is also quite futuristic. When I added their latest song, "The Seed", to my July playlist, Ruth and Ivan contacted me, and I asked them for an interview. Voilà: Here we go!**

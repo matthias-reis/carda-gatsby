@@ -1,12 +1,16 @@
 ---
 date: 2022-11-09T14:43:32.680Z
-slug: paul-seidel-fern-the-ocean-interview
 typeName: Interview
 title: Paul Seidel von FERN im Interview
-subTitle: 'Die zärtliche Seite von Heavy Music '
+subTitle: "Die zärtliche Seite von Heavy Music "
 seoTitle: Interview mit Paul Seidel von FERN & The Ocean
-description: Ihr wollt mehr über das FERN Album "Intersubjective" erfahren? Lest mein Interview mit FERN Gründer und The Ocean Drummer Paul Seidel!
-excerpt: Paul Seidel hat mit FERN vor Kurzem sein erstes offizielles Album "Intersubjective" veröffentlicht. Der The Ocean Drummer setzt im Projekt auf das Zusammenspiel aus elektronischen Elementen und Instrumenten und verbindet dabei die Welten von Pop und Industrial sehr geschickt miteinander. Ich hatte jetzt die Chance, ihn zu interviewen.
+description: Ihr wollt mehr über das FERN Album "Intersubjective" erfahren? Lest
+  mein Interview mit FERN Gründer und The Ocean Drummer Paul Seidel!
+excerpt: Paul Seidel hat mit FERN vor Kurzem sein erstes offizielles Album
+  "Intersubjective" veröffentlicht. Der The Ocean Drummer setzt im Projekt auf
+  das Zusammenspiel aus elektronischen Elementen und Instrumenten und verbindet
+  dabei die Welten von Pop und Industrial sehr geschickt miteinander. Ich hatte
+  jetzt die Chance, ihn zu interviewen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-jpeg-imagine-080808_606060_1024_768/640.webp
 copyright: Paul Seidel
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-09/paul-seidel-interview-fb-jpeg-imagine-080808_5c5c5c_1200_628/640.webp
@@ -30,6 +34,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/11/paul-seidel-fern-the-ocean-interview-en/
+
 ---
 
 **Paul Seidel hat mit FERN vor Kurzem sein erstes offizielles Album "Intersubjective" veröffentlicht. Der The Ocean Drummer setzt im Projekt auf das Zusammenspiel aus elektronischen Elementen und Instrumenten und verbindet dabei die Welten von Pop und Industrial sehr geschickt miteinander. Ich hatte jetzt die Chance, ihn zu interviewen.**

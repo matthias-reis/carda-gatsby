@@ -1,15 +1,16 @@
 ---
 date: 2021-03-23T09:30:08.000Z
-slug: konfeddi-interview
-path: /2021/03/konfeddi-interview/
 type: Artikel
 typeName: Interview
 title: 10 Fragen an Konfeddi
 seoTitle: Konfeddi im Interview – "Wir müssen nachhaltiger leben"
 ogTitle: Konfeddi im Interview – "Wir müssen nachhaltiger leben"
-description: Konfeddi haben gerade ihre neue Single "Deine neuen Sneaker" veröffentlicht. Darin geht es um den Zwiespalt der Generation Y.
-excerpt: 'Konfeddi haben gerade ihre neue Single "Deine neuen Sneaker" veröffentlicht. Darin geht es um den Zwiespalt der Generation Y. Ich habe Konfeddi Sänger Jermaine zehn Fragen dazu gestellt und gelernt: Popmusik und Gesellschaftskritik passen gut zusammen.'
-fileName: 2021-03---10-fragen-an-konfeddi.md
+description: Konfeddi haben gerade ihre neue Single "Deine neuen Sneaker"
+  veröffentlicht. Darin geht es um den Zwiespalt der Generation Y.
+excerpt: 'Konfeddi haben gerade ihre neue Single "Deine neuen Sneaker"
+  veröffentlicht. Darin geht es um den Zwiespalt der Generation Y. Ich habe
+  Konfeddi Sänger Jermaine zehn Fragen dazu gestellt und gelernt: Popmusik und
+  Gesellschaftskritik passen gut zusammen.'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_konfeddi-christian-wasenmueller__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_konfeddi-christian-wasenmueller__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBAECBv/EACcQAAICAQUAAQIHAAAAAAAAAAECAxEEAAUSITETIlEGMkFSYcHw/8QAGQEAAQUAAAAAAAAAAAAAAAAAAQACAwQG/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECESESAxP/2gAMAwEAAhEDEQA/AO/j+QbZMcOOKTLEbmFJDSs9HiCftdaj/Cm4nc9ljmyDDJkh2jd4sdolJB/a119vT5rZBPDvMIidRiNjklPjB+oenl6D2td0RfV6bRzOygHs32CdVUrd2aKc3eFVUyTuvwCCMYoQN8hJ5MTd1+gA6Hft/wAammUC1NXrKuTGJSFJZgocelbsA6o4eJJDJuGQZsmX55S4E0xcKvo4rdIBdUAOquz3pJ0w9bon2vcZpZslZ1ZEVgYmI/MKH96Yw5jcj7w+njfvnd6NGjZJ8o9WLtzm3BcKVY3ScGuCpFTBqNkkH/Xq+m4MMRWaw54hlb0Du9GjTedC/NNo/9k=
@@ -24,12 +25,11 @@ labels:
   - Interviews
   - Konfeddi
 focusKeyword: Konfeddi
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Wir müssen nachhaltiger leben"'
+
 ---
 
 **Konfeddi haben gerade ihre neue Single "Deine neuen Sneaker (Schneeweiß)" veröffentlicht. Im Song geht es um die Gleichgültigkeit der Menschen gegenüber dem Planeten und vermeintlichen Heldentaten für das Klima. Ich habe Konfeddi Sänger Jermaine zehn Fragen dazu gestellt.**

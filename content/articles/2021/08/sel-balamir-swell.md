@@ -1,11 +1,12 @@
 ---
 date: 2021-08-25T13:26:02.029Z
-slug: sel-balamir-swell
 typeName: Review
 title: Sel Balamir – "Swell"
 subTitle: Ein besonderes Lockdown-Soloalbum
 seoTitle: Sel Balamir – "Swell" – Ein besonderes Lockdown-Soloalbum
-description: Sel Balamir, Amplifier Gründer Sänger und Gitarrist, meldet sich mit einer Soloplatte zurück. Die Veröffentlichung von "Swell" hat er für den 6. September angekündigt. Reinhören könnt Ihr jetzt schon.
+description: Sel Balamir, Amplifier Gründer Sänger und Gitarrist, meldet sich
+  mit einer Soloplatte zurück. Die Veröffentlichung von "Swell" hat er für den
+  6. September angekündigt. Reinhören könnt Ihr jetzt schon.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sel-balamir-swell-jpg-imagine-183878_4174a4_1024_768/640.webp
 copyright: Sel Balamir
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sel-balamir-swell-fb-png-imagine-183878_4d78a9_1200_628/640.webp
@@ -25,6 +26,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/08/sel-balamir-swell-en/
+
 ---
 
 **Sel Balamir, Amplifier Gründer Sänger und Gitarrist, meldet sich mit einer Soloplatte zurück. Die Veröffentlichung von "Swell" hat er für den 6. September angekündigt. Reinhören könnt Ihr jetzt schon.**

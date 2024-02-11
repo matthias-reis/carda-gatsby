@@ -1,7 +1,5 @@
 ---
 date: 2020-12-02T09:34:42.000Z
-slug: crippled-black-phoenix-lost
-path: /2020/12/crippled-black-phoenix-lost/
 type: Artikel
 typeName: Gastbeitrag
 title: '"Lost" von Crippled Black Phoenix'
@@ -11,7 +9,6 @@ description: Das Video zum Crippled Black Phoenix Song "Lost" ist ein Statement
   zu all dem von Menschen verursachten Leid. Es rüttelt auf und es schockiert.
 excerpt: Das Video zum Crippled Black Phoenix Song "Lost" ist ein Statement zu
   all dem von Menschen verursachten Leid. Es rüttelt auf und es schockiert.
-fileName: 2020-12---lost-von-crippled-black-phoenix.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_lost-crippled-black-phoenix__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_lost-crippled-black-phoenix__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYDBwIEBQj/xAArEAACAgEDAwEHBQAAAAAAAAABAgMEEQAFIQYSMRMHFBVBUWFxIiQzUoH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgX/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIRAyExof/aAAwDAQACEQMRAD8A8/8ATsE0W70zeS8laOVMpDWaQyIHVuwePONWJ1J1BTTdqh2nZXswT4nm9Ol7sMMwGWUKcsMcHj/dMO8LfuqkdeS2tqDIjCM/aU/Crksfqx+fGmHpe1sVOhFLB8X+LWHaBJZbE6GtF9BnIYDA54J7gMcaz7chZ7Jo1o0MGMfQfS8Fj2NxTRVJrIrvZsLFBAxlskOzDtXuXk58H56gpbXsHWViGntclizLuFGaKYCs0T0Y1jKt6wc4Vi5CgYOfPIGdVN1NvG5nqu9ct1twtxlpVRWZi0alwVGBkZUDHH31Hv1yONKqw3Xumeh67RRxyft5WH8DN/cdvPHkgaj13I9hm/JkaE+92tpNyWwKsdpjLGbDRkxuUH6nzx4z9h+da3UUx2Oaba6F7cIaj345IoYr5cxxjjHcGYeeSMnzo0aaroRuHuRi9qu6RJvrLtu5pJD3OM17xkGQTknDcHnXF6Wmfc91qVbG7e6wyyBWnmsMFQfMk50aNQ1lbP/Z
@@ -31,13 +28,12 @@ labels:
   - Vegane Filme
   - Klima- & Umweltschutz
 focusKeyword: Crippled Black Phoenix
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Veganes Musikvideo zeigt menschliche Abgründe
 languageLink: /2021/02/crippled-black-phoenix-lost-en
+
 ---
 
 **Das Video zum Crippled Black Phoenix Song "Lost" ist ein Statement zu all dem von Menschen verursachten Leid – zusammengefasst in acht Minuten. Es rüttelt auf und schockiert.**

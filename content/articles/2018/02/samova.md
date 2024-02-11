@@ -1,15 +1,14 @@
 ---
-date: 2018-02-19T17:24:15.000+00:00
-slug: samova
-path: '/2018/02/samova/'
+date: 2018-02-19T17:24:15.000Z
 type: Artikel
 typeName: Produkttest
 title: Samova im Test
 seoTitle: Samova - Nachhaltiger Tee aus Hamburg - Teetesterin für eine Woche
 ogTitle: Samova - Nachhaltiger Tee aus Hamburg - Teetesterin für eine Woche
-description: Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen Teesorten von Samova aus Hamburg. Gerade im richtigen Moment!
-excerpt: Werbung - Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen Teesorten von Samova aus Hamburg. Gerade im richtigen Moment!
-fileName: 2018-02---samova-im-test.md
+description: Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen
+  Teesorten von Samova aus Hamburg. Gerade im richtigen Moment!
+excerpt: Werbung - Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen
+  Teesorten von Samova aus Hamburg. Gerade im richtigen Moment!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25408637847_9cf3279cee_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25408637847_9cf3279cee_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBwID/8QAJRAAAgEDBAICAwEAAAAAAAAAAQIDAAQRBRIhMQZRIkETFBZx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIRBDEDEyH/2gAMAwEAAhEDEQA/AJmG5RVDbhWl2Lxtoam7fSLi6ZSDC7IrEjgcn32eOfqsGa/cssajJb4jJ98Vdap4ZrN3rcl9FplskbTwTFS0BcGIAYDbsgHHqhSk/SQO77U45ruWUpFES2CkWNoxxxjj6pV7+E5UMM491KavcSafql3Z3IWKSGVlZQ4O05JxkcHulf3t6DaRx3g0bEZ6QwKzBjgMhDAgeuarriKwupJLiSO+DSsZCFu8AFjnA+HXNFFJJJ7NOPmc2K30yq9in97e6LcTKtpaPDLIWUrGqSqOgGfB3ddkUhrHlr+QWwtpbCBWB3fncK0v+Bgq0UUUiiU29n//2Q==
@@ -35,13 +34,12 @@ labels:
   - vegan
   - vegane Ernährung
 focusKeyword: Samova
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Nachhaltiger Tee aus Hamburg
 advertisement: true
+
 ---
 
 **Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen Teesorten von Samova aus Hamburg. Gerade im richtigen Moment, denn: Die Erkältung hatte gerade voll zugeschlagen.**

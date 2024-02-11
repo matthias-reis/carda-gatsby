@@ -1,14 +1,18 @@
 ---
 date: 2023-12-08T13:00:00.766Z
-slug: viable-cities
-typeName:
-title: 'Warum es für klimaneutrale Städte Radikalität braucht'
+typeName: null
+title: Warum es für klimaneutrale Städte Radikalität braucht
 subTitle: 23 schwedische Pionierstädte zeigen mit Viable Cities, wie nachhaltig geht
-seoTitle: 'Viable Cities in Schweden – Klimaneutralität braucht Radikalität!'
-description: Viable Cities in Schweden macht es vor – wenn wir bis 2030 klimaneutrale Städte wollen, müssen wir radikal sein. Erfahrt jetzt, warum genau!
-excerpt: Das Projekt Viable Cities zeigt in Schweden, dass klimaneutrale Städte möglich sind. Am heutigen Viable Cities Day wird der Maßnahmenplan nachgezurrt und ein bisschen gefeiert – zu Recht, denn die teilnehmenden Pionierstädte haben bereits Großes geleistet!
+seoTitle: Viable Cities in Schweden – Klimaneutralität braucht Radikalität!
+description: Viable Cities in Schweden macht es vor – wenn wir bis 2030
+  klimaneutrale Städte wollen, müssen wir radikal sein. Erfahrt jetzt, warum
+  genau!
+excerpt: Das Projekt Viable Cities zeigt in Schweden, dass klimaneutrale Städte
+  möglich sind. Am heutigen Viable Cities Day wird der Maßnahmenplan nachgezurrt
+  und ein bisschen gefeiert – zu Recht, denn die teilnehmenden Pionierstädte
+  haben bereits Großes geleistet!
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-08/klimaneutrale-stadt-soundsvegan-viable-cities-jpg-imagine-f8e8d8_9e9980_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-08/klimaneutrale-stadt-soundsvegan-viable-cities-og-jpg-imagine-f8e8d8_a29c83_1200_628/640.webp
 labels:
   - Viable Cities
@@ -21,6 +25,7 @@ focusKeyword: Viable Cities
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Um das Ziel "klimaneutrale Städte bis 2030" zu erreichen, bleiben nur noch sieben Jahre Zeit. Weil dafür ein straffer Maßnahmenplan nötig ist, zeigen jetzt 23 schwedische Pionierstädte, wie es dennoch funktionieren kann. Die Menschen dort arbeiten jeden Tag auf unterschiedliche Art daran, den Übergang zur Neutralität so fließend wie möglich zu gestalten.**

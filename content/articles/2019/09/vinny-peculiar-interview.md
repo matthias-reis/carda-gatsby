@@ -1,15 +1,14 @@
 ---
-date: 2019-09-23T14:54:59+02:00
-slug: vinny-peculiar-interview
-path: '/2019/09/vinny-peculiar-interview/'
+date: 2019-09-23T12:54:59.000Z
 type: Artikel
 typeName: Interview
 title: Singer-Songwriter Vinny Peculiar im Interview
 seoTitle: Singer-Songwriter Vinny Peculiar im Interview - "While You Still Can"
 ogTitle: Singer-Songwriter Vinny Peculiar im Interview - "While You Still Can"
-description: Ich habe mich mit Singer Songwriter Vinny Peculiar über sein neues Album While You Still Can" unterhalten, dass bald erscheinen wird.
-excerpt: Ich habe mich mit Singer Songwriter Vinny Peculiar über sein neues Album While You Still Can" unterhalten, das bald erscheinen wird.
-fileName: 2019-09---singer-songwriter-vinny-peculiar-im-interview.md
+description: Ich habe mich mit Singer Songwriter Vinny Peculiar über sein neues
+  Album While You Still Can" unterhalten, dass bald erscheinen wird.
+excerpt: Ich habe mich mit Singer Songwriter Vinny Peculiar über sein neues
+  Album While You Still Can" unterhalten, das bald erscheinen wird.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAFa0lEQVRIiX1WSVBUVxT9Pf2e6Impme2GBidmkUFMNBQRQQQFFGKMxDGDoI1EsKMyOEKgkCgIWik1FZOoSVU0g4tUNmGRhbFiZZO4cZGqVKqSqlRWWZ/Uvd2vef1tsjj1p/f+Oefe++57isFggNFohMlkYqiqCrPZDIvFwrBarQybzRaF3W6PC/Gdxov59D8CcRCIj6DX6xmKIBcDZWItWUJCQhQOh+M5iG9CjKqa+d5iCZsQIoQQFqAllx0vRep0OqNwuVwxz+I7kWdlZSI9IwPLfMtQUlyIxMRENitHQokXctmx7FAQynC73VHI7/V6I+amRnBj9gKaGutRXVURiUrYbIwAi+RcS651K8g8Hg9D+0xj6Kro9Dh3KojB4EEEArnIzMqE3++D0+GM1htFQiH38cL+f44FmQCFlpCUlMTwpqZCURQketzo7GhB9642bNlcB4fTBa83NVaARSo4rQCCNsyyAJmUQMWmKDrYbHYYTSr8vhx8dfc6nv74EFcmTsNudyAtLY35yHhUgLbgtO5lcuFWkCc4HLDa7Oy4qHAlGhvqsK56DVasKOB3ne3N+OHbOzj61l4oigEOpxMm1czfuAa0AuSCi5drQZycnAy32wOzxYqJs4O4cXWcwzxz6Rz+/esXhPrfQEF+Ho/1+Xxo2lSHgeAhHA8exK4drcjLXcYiFG3u4xVdvHynpqbApFqw8YUa/PF0AaPvBlGQH8BLL9bgs9vz+Of3nxHqP4xtWxvwyo4WjIR68eDTGUyeG8DYSD8jkOePFUCQK18WQKTagqNw5vl92Nm2BUWFq3D86AFMnh/Aib5DGDh6EJUVZRg60YOHn8/jyzuzuDo1hP7e/Qi+/Tq6Opphs9ufj4Cc/6UqnshTUlKQnp4WDqOioPvVNhbQ2b4Vu7u2w2BSUVy4EgsPb+PerUu4OjWMY7370PvmHoyPvsPp4blyDWibTjjvsQKIOBx+M3R6A3KyMjBx/iRuXZvEge4ubG2s5znlZcUYDR3B13fnMTc9gqkLIZw/3YebcxcwNNjDK4aLUHRBEqHtfG6XC0mSY7oaTeEKLi5ahenx03i88AB///YYfz57hGdPvsP+1zpQt3E9trc0IjfXj4b6Dbg5dxEff/AepsdPYnoshP17OvgfOp0uthNqRVCOjEYVqtkCRW+EojOgpGg1rr9/Fj99/wXOnOrDxZF+TF8M4fL4Kdz7cBrzl0YxNHgYzZvrYLXZmKi2ei2GQ704c/IIhk/0oCA/d3EZqpG9QLRhEXqHw8mON9RWYW15CdpbNuOjaxN4snAfM5PDWFNWjPW1VWio34iy0hLUVK9Fa/MmtLc2YWw4iAPdHbwZ6fUGJvN6vWjZ8jJKSwqjdROzF8grgIipo9VUluH+J1dwrGcfbsyO4frls1ztNDk7O5t7e2JSEnJyshEI5CEzKwvLl+djZ1sT9u7axuNIgIG23QipAIWft2NyT6EncqpwapV+X7hJlJesxq+PvuEqpioXHYzGkkhrpHYMRmNkz7exgYyMdNTWVCAj3Rt1ymQsSM/kzwmwWq0cds69jXq6ArfLyWt2U11tTNjMZguqKyvQd3gfdneFnYpTkNhmXW4X93oiomdByoUXiQDf0yBxPBIT5FCpZitysrNRsaaUQx7ecBTeA0pLi7Fq5XKeqz1oyOTim+w+KsAQGbwowhA9MFCY21qb0NnegnU1lfD7fBwh8XOdbjG38llP3Mti4pGzAEGsnSBcVleVIz/gR16un7sjpUzMET+NrulIjrXvudql4osRoJMe5B+LvNKGQYXl8bg5lFonMfnUEMgC4rmPjFlUr51MbpOTwwcNuicBS42PRywvt6XG/gfP9wYby9YGYAAAAABJRU5ErkJggg==
@@ -31,13 +30,12 @@ labels:
   - Worcestershire
   - Singer-Songwriter
 focusKeyword: Vinny Peculiar
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Die Menschen sind frustriert und wütend"'
-languageLink: '/2019/09/vinny-peculiar-interview-en'
+languageLink: /2019/09/vinny-peculiar-interview-en
+
 ---
 
 **Ich habe mich mit Singer-Songwriter Vinny Peculiar über sein neues Album "While You Still Can" unterhalten, das bald erscheinen wird.**

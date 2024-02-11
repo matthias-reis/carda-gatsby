@@ -1,11 +1,15 @@
 ---
 date: 2023-09-25T12:42:47.163Z
-slug: 65daysofstatic-hamburg
 typeName: Konzertbericht
 title: 65daysofstatic und Sugar Horse live @ Knust Hamburg
 subTitle: Das beste Konzert des Jahres
-description: 65daysofstatic und Sugar Horse live im Knust Hamburg – das konnte ich mir nicht entgehen lassen. Lest jetzt, was auf dem Konzert des Jahres passierte.
-excerpt: '65daysofstatic und Sugar Horse live im Knust Hamburg – da durften wir natürlich nicht fehlen. In vorderster Reihe konnten wir ein Konzert erleben, das unter die Haut ging und wurden Zeug*innen einer musikalischen Sensation: dem zehnjährigen Jubiläum des 65daysofstatic Albums "Wild Light".'
+description: 65daysofstatic und Sugar Horse live im Knust Hamburg – das konnte
+  ich mir nicht entgehen lassen. Lest jetzt, was auf dem Konzert des Jahres
+  passierte.
+excerpt: '65daysofstatic und Sugar Horse live im Knust Hamburg – da durften wir
+  natürlich nicht fehlen. In vorderster Reihe konnten wir ein Konzert erleben,
+  das unter die Haut ging und wurden Zeug*innen einer musikalischen Sensation:
+  dem zehnjährigen Jubiläum des 65daysofstatic Albums "Wild Light".'
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-25/img-8565-jpg-imagine-080828_451b57_4032_3024/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-25/65daysofstatic-og-jpg-imagine-280848_481f5d_1200_628/640.webp
 labels:
@@ -30,6 +34,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/09/65daysofstatic-hamburg-en/
+
 ---
 
 **65daysofstatic und Sugar Horse live im Knust Hamburg – da durften wir natürlich nicht fehlen. In vorderster Reihe konnten wir ein Konzert erleben, das unter die Haut ging und wurden Zeug\*innen einer musikalischen Sensation: dem zehnjährigen Jubiläum des 65daysofstatic Albums "Wild Light".**

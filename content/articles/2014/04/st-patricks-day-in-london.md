@@ -1,13 +1,12 @@
 ---
 date: 2014-04-09T09:08:29.000Z
-slug: st-patricks-day-in-london
-path: /2014/04/st-patricks-day-in-london/
 title: St. Patrick's Day in London
 seoTitle: St. Patrick's Day in London - Kunst und Kultur an der Themse
 ogTitle: St. Patrick's Day in London - Kunst und Kultur an der Themse
-description: St. Patrick's Day in London - Das war schon immer ein Trau. Zum Geburtstag meiner Mutter haben wir ihn erfüllt und wir haben einiges erlebt!
-excerpt: St. Patrick's Day in London - Das war schon immer ein Trau. Zum Geburtstag meiner Mutter haben wir ihn erfüllt und wir haben einiges erlebt!
-fileName: 2014-04---st-patricks-day-in-london.md
+description: St. Patrick's Day in London - Das war schon immer ein Trau. Zum
+  Geburtstag meiner Mutter haben wir ihn erfüllt und wir haben einiges erlebt!
+excerpt: St. Patrick's Day in London - Das war schon immer ein Trau. Zum
+  Geburtstag meiner Mutter haben wir ihn erfüllt und wir haben einiges erlebt!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_04_13543507523_7cf0cfa41d__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_04_13543507523_7cf0cfa41d__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAEBgP/xAAlEAABAwMEAgIDAAAAAAAAAAABAgMEABESBRMhMQZRYYEicaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAb/xAAeEQACAwABBQAAAAAAAAAAAAABEQACA1EEITGx8P/aAAwDAQACEQMRAD8ANhRMgCRSrcRAHVeUAjAVqSHGypx6Q3sJBJugJt936rTNTOgOc55XLiMQ3o6J7cWSLKUvBSwlI5UDj0SKI0zxtq7cqQ8iaHUAtpCbNYcKyF7kn9/NKpgeO6rrjrja2n33MnFoLijuKHZxNuAB0O6fZDTUZ11xtO1ltttJ4SbC3HodDj1Rmxtrf194iWIrnRwuG8pNrVq1BtGpae7Ek7gacAyLasVcG/Bt8VVUkQwjDQUXOe0zSoWlREakhnflqbH5vHIpyI69cG1OuKIZZZuShDSUjn2Ln+3P3VVUfT1AuhxLdrE178z/2Q==
@@ -73,12 +72,11 @@ labels:
   - Wachsfiguren
   - Westminster
 focusKeyword: St. Patrick's Day
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Von Jamie Oliver, Agatha Christie und  Kunst an der Themse
+
 ---
 
 <RemoteImage

@@ -1,15 +1,16 @@
 ---
 date: 2019-10-07T18:22:08.000Z
-slug: ein-tag-im-wald
-path: /2019/10/ein-tag-im-wald/
 type: Galerie Rechts
 typeName: Galerie Rechts
 title: Ein Tag im Wald
 seoTitle: Ein Tag im Wald - einfach mal abschalten und die Natur genießen
 ogTitle: Ein Tag im Wald - einfach mal abschalten und die Natur genießen
-description: '"Was machst Du am Wochenende?" - die logische Antwort war für mich dieses Mal "Ich gehe in den Wald". Fazit nach Planumsetzung: Das sollte ich häufiger tun!'
-excerpt: '"Was machst Du am Wochenende?" - die logische Antwort war für mich dieses Mal "Ich gehe in den Wald". Fazit nach Planumsetzung: Das sollte ich häufiger tun!'
-fileName: 2019-10---ein-tag-im-wald.md
+description: '"Was machst Du am Wochenende?" - die logische Antwort war für mich
+  dieses Mal "Ich gehe in den Wald". Fazit nach Planumsetzung: Das sollte ich
+  häufiger tun!'
+excerpt: '"Was machst Du am Wochenende?" - die logische Antwort war für mich
+  dieses Mal "Ich gehe in den Wald". Fazit nach Planumsetzung: Das sollte ich
+  häufiger tun!'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAGB//EACkQAAIBAwQBAwMFAAAAAAAAAAECAwQFEQASITEGE0FxFCNRFTJCYeH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwIG/8QAIBEAAQQCAgMBAAAAAAAAAAAAAgABAxEEIRITMVFhcf/aAAwDAQACEQMRAD8AE8Bnt4slfMzPVSAl4qWQFIIxlRkn+TEkAD8Kes6zdysfkFwrp6h7RTQwqAF9FyqMo4ySc5PH+a6XYfF7cnjVqplqXguRri1axfJjAUgRqhO05O3k886Hv3kdlt83qx1ME30SAilSST7rliNmcdrgEj5wdcmDmRvw2qQYkmU7tGN1X41o+ksLXQqUaFbnJvd4JMMUEY5JPQHz+Nao/pNHY6WkmZ6+pqZ4oQalwFRJJAgZnPSDJwOSf6Gi7S1puFFT32uqpG9fcsjnLKJVUHYB2QARn4POjvMYrJcvGqmro6qkppJWWCctGziRSckpnO0r7jOMHjRgapOB6p6U5o3iN4i9+0Na7jFdZqhJ6tXhB9WpMO5hCA37c9Mx9sHGBz1o+9UttukFXU2qnlVIKcLHSTvJu3ZAEileMk84Jxz1xq1abIHRI5R6qk2eQsXKLq1V/b1e7Sj0V7PhlNUvdKOpmSH7gMhWVU79NgeDg+/vnvWZ8YvVRR3D6E3GmoqOuYJUmeMMjIOx1xnrjHfOrVrcIifK287QGdzayfwv/9k=
@@ -29,12 +30,11 @@ labels:
   - Waldpark Marienhöhe
   - Wandern
 focusKeyword: Tag im Wald
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Einfach mal abschalten
+
 ---
 
 **"Und, was machst Du am Wochenende?" - die logische Antwort war für mich dieses Mal "Ich gehe in den Wald". Mein Fazit nach erfolgreicher Umsetzung dieses Plans: Das sollte ich häufiger tun!**

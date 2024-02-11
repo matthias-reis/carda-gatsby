@@ -1,15 +1,15 @@
 ---
-date: 2017-11-16T08:01:25.000+00:00
-slug: rock-of-cashel
-path: '/2017/11/rock-of-cashel/'
+date: 2017-11-16T08:01:25.000Z
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Rock Of Cashel
 seoTitle: Rock Of Cashel - Ein geschichtsträchtiger Ort - Geschichte & Fotos
 ogTitle: Rock Of Cashel - Ein geschichtsträchtiger Ort - Geschichte & Fotos
-description: Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene Zeiten, Macht und Ohnmacht spiegeln sich in ihm wieder. Raben ziehen ihre Kreise.
-excerpt: Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene Zeiten, Macht und Ohnmacht spiegeln sich in ihm wieder. Raben ziehen ihre Kreise.
-fileName: 2017-11---rock-of-cashel.md
+description: Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene
+  Zeiten, Macht und Ohnmacht spiegeln sich in ihm wieder. Raben ziehen ihre
+  Kreise.
+excerpt: Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene Zeiten,
+  Macht und Ohnmacht spiegeln sich in ihm wieder. Raben ziehen ihre Kreise.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Rock-Of-Cashel-Duo__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Rock-Of-Cashel-Duo__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBgEFCP/EACkQAAEEAAUDBAIDAAAAAAAAAAECAwQRAAUGEiEiMUEUMlFxExUjgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAIF/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAEQQDEiFxMbHB/9oADAMBAAIRAxEAPwBq5fIh/r4qVTGGX5kj07CF8KecA9iSe5q/gcYsq8uddgNxpJaQ04tPG8KJN+2q8jyDYwlddnUMfU+WrnlLUSO6h3L3QXLcd2kKPQD1bjXk1soUVHDo01PXmem8uezR+KuW4hv1AjnpQ4UhSkfKeDyPvxhmajUNRYuc56i0IliWrNYLe7KnXiV0D/CSo3fgJs0MRntFxnHpDgcZCENpc4Vu3WCD37cj+sMPTmpZC9MxMtTCZnMJZ/AVlzqeqwTR88HjGIyYEhAC4LAQ/ACm0mk1tWD0q4smzx5rDJmhmVe7+QmxSoZuor9XZ3EkIyVl5ZeUiQVqTJfXJURae4UTxV8cXjTaq1jl8R9EDIkiWynMDIW4uOmOiiaDaAOraO3J7cVgwY42km5EYknz7lTGjQkzQWogdXxcvlkvoL5bYVQIaVsUgn64P+4vDE15qG27DkRW5jaHOlbe9ujxtAChQvBgxSeCCJocggz/2Q==
@@ -33,14 +33,13 @@ labels:
   - St. Patrick
   - serie:Irland 2017
 focusKeyword: Rock Of Cashel
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ein geschichtsträchtiger Ort
-year: '2017'
-month: '11'
+year: "2017"
+month: "11"
+
 ---
 
 **Raben kreisen um die Zinnen der alten Gemäuer. Ein kühles Lüftchen zieht durch die Nischen und Ecken. Der Rock Of Cashel ist ein mystischer Ort, von dem eine gewaltige Kraft auszugehen scheint. Längst vergangene Zeiten, Macht und Ohnmacht spiegeln sich in ihm wieder.**

@@ -1,13 +1,14 @@
 ---
-date: 2020-04-24T08:16:25.000+00:00
-slug: 12-songs-fuer-den-mai-2020
-path: '/2020/04/12-songs-fuer-den-mai-2020/'
+date: 2020-04-24T08:16:25.000Z
 title: 12 Songs für den Mai
 seoTitle: 12 Songs für den Mai - aufgelegt von den drei von der Bande
 ogTitle: 12 Songs für den Mai - aufgelegt von den drei von der Bande
-description: Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich sehr viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Stücke entdeckt.
-excerpt: Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich sehr viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Stücke entdeckt.
-fileName: 2020-04---12-songs-fuer-den-mai.md
+description: Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir
+  natürlich sehr viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare
+  Stücke entdeckt.
+excerpt: Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich
+  sehr viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Stücke
+  entdeckt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-fuer-den-mai-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_12-songs-fuer-den-mai-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBwEEBv/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABREGEiEiMUEHExRhMlFScoH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAX/xAAjEQABBAIBAwUAAAAAAAAAAAABAAIDESExExIiQSNxgZHB/9oADAMBAAIRAxEAPwBPqNyQ9ZUNSRIebnITGW04642lKgSFKwO6urjgg/rzTm2xGpVnTHgvKUmIFF1sub1YbxlPA5USR08earR71ilXVlEB207UvuMha0yCtXCwTtG3yfGfqtu4+patKXG4WZi0ofjR5CgXWpHtlboVkrJCD1cYIycbaMsrhFbGguvV17HVY+NWpooHCXoce2t/d+bz+quGUhW0EgZHfFZWkJUQCD94rrdPaMF0huyHriYzSFhtJEVTuVHycHpTnA3VHqTRr9jlhlySHmyncHEt4845GeOc4/eKImYX8d5V3BJV0knpPB+VrOLIU3vbgIXMOfxSUJJSSf7YP+UmvxeiuyLfMazJQ8pxbvvbtxVznjg5BFFFLygrg0tfpsK1piRQ02tQIQ6prlKc/wAidp7k9vHY1DqEe0tSbhK+ZPdcSoODJS2Aeeojk4IHYD6FFFShoE+BV5WoR6ZX/9k=
@@ -42,14 +43,13 @@ labels:
   - Support your favourite bands
   - Vinyl
 focusKeyword: Songs
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Aufgelegt von den drei von der Bande
-year: '2020'
-month: '04'
+year: "2020"
+month: "04"
+
 ---
 
 **Jetzt sind wir schon seit fünf Wochen daheim. Da hatten wir natürlich sehr viel Zeit, Musik zu hören. Dabei haben wir ein paar wunderbare Entdeckungen gemacht, die wir heute gerne mit Euch teilen.**

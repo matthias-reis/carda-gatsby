@@ -1,12 +1,15 @@
 ---
 date: 2023-10-27T10:22:46.203Z
-slug: mehr-tierwohl-eurobarometer
-typeName:
+typeName: null
 title: Eurobarometer bestätigt Ruf nach Tierrechten
 subTitle: Die Menschen in der EU wünschen sich besseren Tierschutz
 seoTitle: "Mehr Tierwohl: Eurobarometer zeigt: Menschen wollen Tierschutz"
-description: Mehr Tierwohl in der Haltung – das fordern die Menschen in Europa. Erfahrt jetzt alle Details zum Thema.
-excerpt: Mehr Tierwohl – das wünschen sich die Menschen in Europa. Das Eurobarometer zeigt genau, welche Schritte sie fordern und wie wir damit für ein Ende des Käfigzeitalters sorgen könnten. Doch wie geht die Europäische Union damit um?
+description: Mehr Tierwohl in der Haltung – das fordern die Menschen in Europa.
+  Erfahrt jetzt alle Details zum Thema.
+excerpt: Mehr Tierwohl – das wünschen sich die Menschen in Europa. Das
+  Eurobarometer zeigt genau, welche Schritte sie fordern und wie wir damit für
+  ein Ende des Käfigzeitalters sorgen könnten. Doch wie geht die Europäische
+  Union damit um?
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-27/kaefighaltung-jpeg-imagine-184858_827464_1024_768/640.webp
 copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-27/kaefighaltung-og-2-jpeg-imagine-184858_827768_1200_630/640.webp
@@ -19,10 +22,12 @@ labels:
   - Maroš Šefčovič
   - Humane Society International
 focusKeyword: Käfighaltung
-advertisement:
-affiliate:
+advertisement: null
+affiliate: null
 language: de
+
 ---
+
 **Die Forderung an die Kommission, ihr Versprechen endlich einzulösen, für mehr Tierwohl zu sorgen und die Käfighaltung von "Nutztieren" EU-weit zu verbieten, wird immer lauter. Das geht aus den Ergebnissen der Eurobarometer-Umfrage[^1] zur Einstellung der EU-Bürger\*innen zum Thema Tierschutz hervor, welche die Europäische Kommission kürzlich veröffentlichte. Die Humane Society International[^2] gab dazu jetzt eine Mitteilung heraus.**
 
 Den Erwartungen der Organisation sowie zahlreicher Tierrechtsaktivsmus-Gruppen entsprechend bestätigen die Umfragedaten, dass die große Mehrheit der Europäer\*innen (84 Prozent) und damit auch der Deutschen (90 Prozent) finden, dass das Wohlergehen der "Nutztiere" besser geschützt werden muss.

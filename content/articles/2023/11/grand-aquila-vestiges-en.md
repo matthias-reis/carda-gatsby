@@ -1,14 +1,17 @@
 ---
 date: 2023-11-03T08:14:00.766Z
-slug: grand-aquila-vestiges-en
 typeName: Review
 title: Grand Aquila – "Vestiges"
 subTitle: '"Architects of a Sonic Journey"'
 seoTitle: Grand Aquila – "Vestiges" – Post-Metal-Review
-description: Grand Aquila deliver great post-metal with their debut album "Vestiges". Find out all the important insights about the record now!
-excerpt: Grand Aquila inspire the post-metal world with their debut album "Vestiges". A dynamic sound full of captivating transitions, harmonies and intensity awaits you. With this extremely creative musical highlight, the quartet from Belgium makes you want more and puts you in a good mood!
+description: Grand Aquila deliver great post-metal with their debut album
+  "Vestiges". Find out all the important insights about the record now!
+excerpt: Grand Aquila inspire the post-metal world with their debut album
+  "Vestiges". A dynamic sound full of captivating transitions, harmonies and
+  intensity awaits you. With this extremely creative musical highlight, the
+  quartet from Belgium makes you want more and puts you in a good mood!
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-03/grand-aquila-vestiges-og-1-png-imagine-f8f8f8_ccc9c8_1024_768/640.webp
-copyright: 'Grand Aquila'
+copyright: Grand Aquila
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-03/grand-aquila-vestiges-og-2-png-imagine-f8f8f8_7c756f_1200_630/640.webp
 labels:
   - Band
@@ -22,6 +25,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/11/grand-aquila-vestiges/
+
 ---
 
 **Grand Aquila are celebrating the release of their new album "Vestiges" today. Dynamic post-metal full of captivating transitions, harmonies, and intensity awaits you. The quartet from Belgium knows how to impress with a debut album, making room for an adventurous departure.**

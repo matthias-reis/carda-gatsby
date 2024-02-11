@@ -1,12 +1,17 @@
 ---
 date: 2022-04-04T13:32:05.073Z
-slug: soonago-fathom-en
 typeName: Review
 title: '"Fathom" By SOONAGO'
 subTitle: Post-Rock Against Racism
 seoTitle: '"Fathom" By SOONAGO – Post-Rock Against Racism'
-description: SOONAGO recently presented their new album "Fathom". It has been released on Kapitän Platte and is available on CD and vinyl in addition to the digital version, which you can find on all music streaming platforms.
-excerpt: Today, I'd like to introduce you to a post-rock band from my former home town Bielefeld. SOONAGO got together in 2014. Recently they presented their new album "Fathom". It has been released on Kapitän Platte and is available on CD and vinyl in addition to the digital version, which you can find on all music streaming platforms.
+description: SOONAGO recently presented their new album "Fathom". It has been
+  released on Kapitän Platte and is available on CD and vinyl in addition to the
+  digital version, which you can find on all music streaming platforms.
+excerpt: Today, I'd like to introduce you to a post-rock band from my former
+  home town Bielefeld. SOONAGO got together in 2014. Recently they presented
+  their new album "Fathom". It has been released on Kapitän Platte and is
+  available on CD and vinyl in addition to the digital version, which you can
+  find on all music streaming platforms.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-04/soonago-jpg-imagine-181818_21201f_1024_768/640.webp
 copyright: SOONAGO
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-04/soonago-fb-jpg-imagine-181818_232221_1200_628/640.webp
@@ -25,6 +30,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/04/soonago-fathom/
+
 ---
 
 **Today, I'd like to introduce you to a post-rock band from my former home town Bielefeld. SOONAGO got together in 2014. Recently they presented their new album "Fathom". It has been released on Kapitän Platte and is available on CD and vinyl in addition to the digital version, which you can find on all music streaming platforms.**

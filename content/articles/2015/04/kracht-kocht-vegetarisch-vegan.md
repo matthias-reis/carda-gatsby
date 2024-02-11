@@ -1,41 +1,37 @@
 ---
-date: 2015-04-17T09:05:33.000+00:00
-slug: kracht-kocht-vegetarisch-vegan
-path: "/2015/04/kracht-kocht-vegetarisch-vegan/"
+date: 2015-04-17T09:05:33.000Z
 type: Artikel
 typeName: Buchtipp
 title: '"Kracht kocht vegetarisch vegan"'
 seoTitle: '"Kracht kocht" - vegane und vegetarische Küche statt "Traumschiff"'
 ogTitle: '"Kracht kocht" - vegane und vegetarische Küche statt "Traumschiff"'
-description: Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und "Traumschiff".
-  Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
-excerpt: Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und "Traumschiff".
-  Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
-fileName: 2015-04---kracht-kocht-vegetarisch-vegan.md
+description: Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und
+  "Traumschiff". Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
+excerpt: Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und
+  "Traumschiff". Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_soup-2897649_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_soup-2897649_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECA//EACYQAAICAgICAgICAwAAAAAAAAECAwQFEQASBiExQRMiUYFSYcH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAIFBv/EACQRAAICAQIFBQAAAAAAAAAAAAECAAMRBBITITFB4WGBodHw/9oADAMBAAIRAxEAPwB+ku4W7EBANE84+YY/IXMN43UqOyzVactmRAnc9JJO6g/YHRd/XyORbWbw2LASGxBn8kXCQ1ajMapkJ9GWYgBlHyVT517YDlYxdvzFvPLVmeeCzesokhaW3GkMiuevQjemQ60QAdAa16HMxp6XCtvOP2fqAUcE5cdY1wseTnSaKvXjsvDGzFUlKdvY6gMQR2O9dSdn+uZjzMMV1qlmrZrXA4jNaePqwf8AxI/7yR5eMrg8LPPisrXW1YeQ38VSY94h2/Qwx6DEBTog+wdkHR9aeTYrJ1YMd5FYs0MhFajhgaeu25U0ml79gd+gRsaOwB/vi1qKEDZ5npCWauxDmoch7xX4fi4IJTkrlcS1KAEjRE+ppGVlji/sks38KjH+OQrGGuW8ktuGZEURhBHohQoJICb2fs/O/ne+HDk+O9e3afX58S5trWzO4Zls8MzdelPdTLKe7Rj8M8EZdmKr+ySkfHoAjfogjetcZzPFZxeNendWXH5ANLdo/gTuku/QZhplCE/B398OHFHqVLA47+YkaEDg4n//2Q==
-ogImage: 
+ogImage: null
 labels:
-- Bücher & Filme
-- Ernährung & Gesundheit
-- Kracht kocht
-- Kracht kocht vegetarisch vegan
-- Marion Kracht
-- Traumschiff
-- vegan celebrities
-- vegane Stars
+  - Bücher & Filme
+  - Ernährung & Gesundheit
+  - Kracht kocht
+  - Kracht kocht vegetarisch vegan
+  - Marion Kracht
+  - Traumschiff
+  - vegan celebrities
+  - vegane Stars
 focusKeyword: Kracht kocht
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Internationale Küche statt "Traumschiff"
 advertisement: false
 affiliate: true
 
 ---
+
 **Marion Kracht ist eine deutsche Schauspielerin. Bekannt wurde sie u. a. mit "Wer zuletzt lacht, lacht am besten", "Aktenzeichen XY ungelöst" und "Traumschiff".**
 
 ## Friends? Not food, OK?

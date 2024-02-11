@@ -1,13 +1,14 @@
 ---
 date: 2018-03-02T08:08:35.000Z
-slug: meine-ultimative-lieblingsplatten-liste
-path: /2018/03/meine-ultimative-lieblingsplatten-liste/
 title: 10 Alben - Keine Erklärung - Teil 1/3
 seoTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
 ogTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
-description: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen werde.
-excerpt: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen werde.
-fileName: 2018-03---10-alben-keine-erklaerung-teil-1-3.md
+description: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten.
+  Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie
+  vergessen werde.
+excerpt: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese
+  Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen
+  werde.
 ogImage: null
 labels:
   - A Perfect Circle
@@ -39,13 +40,12 @@ labels:
   - serie:Playlists 2018
   - serie:Alben ohne Erklärung
 focusKeyword: Lieblingsplatten
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Meine ultimative Lieblingsplatten-Liste aller Zeiten
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-alben-keine-erklaerung-1-jpeg-imagine-f8f8f8_928b8c_800_533/640.webp
+
 ---
 
 > **10 LPs that make the "favourites" playlist. Post a cover a day, no explanation, nominate a person a day."  - 10 Alben, die Deine All-Time-Favoritenliste ergeben. Keine Erklärung. Nominiere jeden Tag eine andere Person"**

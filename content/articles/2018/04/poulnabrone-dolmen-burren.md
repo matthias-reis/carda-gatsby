@@ -1,19 +1,18 @@
 ---
-date: 2018-04-25T06:20:09.000+00:00
-slug: poulnabrone-dolmen-burren
-path: '/2018/04/poulnabrone-dolmen-burren/'
+date: 2018-04-25T06:20:09.000Z
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Burren und Poulnabrone Dolmen
 seoTitle: Burren und Poulnabrone Dolmen - Mondlandschaft mit mystischen Steinen
 ogTitle: Burren und Poulnabrone Dolmen - Mondlandschaft mit mystischen Steinen
-description: Der Poulnabrone-Dolmen inmitten des Burren ist ein sogenannter Portal Tomb. Er wird auch "Hole Of Sorrows" (Loch der Sorgen) genannt.
-excerpt: Der Poulnabrone-Dolmen inmitten des Burren ist ein sogenannter Portal Tomb. Er wird auch "Hole Of Sorrows" (Loch der Sorgen) genannt.
-fileName: 2018-04---burren-und-poulnabrone-dolmen.md
+description: Der Poulnabrone-Dolmen inmitten des Burren ist ein sogenannter
+  Portal Tomb. Er wird auch "Hole Of Sorrows" (Loch der Sorgen) genannt.
+excerpt: Der Poulnabrone-Dolmen inmitten des Burren ist ein sogenannter Portal
+  Tomb. Er wird auch "Hole Of Sorrows" (Loch der Sorgen) genannt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39516177774_9949272337_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39516177774_9949272337_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAoEAACAgEDBAEDBQAAAAAAAAABAgMEEQAFIQYHEjETFCJBUVJhcYH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAAIDBf/EABsRAAMBAQEBAQAAAAAAAAAAAAABAwIhMTJC/9oADAMBAAIRAxEAPwCs06ZkKDHsgaQpO5VAfNGNslMkTsjD5hjKkj9v8arNNHUqfFh4nJwM8/nXL3WWx3Ni6s3KPcUihEs0s8ESzLJ5Rs5KlgORwcgEDSaU1+Q85p/Q0N3e2/L/AD7NKQB9ojmxn+8jW10zvV7qWn9adhn26gyFobUkysJj5Ywi4DY98+uNQjd6U3TXUUUdhIrDV3WUxyoGWRSAwBU8EFSPf6668knotRjkqUoFryxI8KjIWOMqCoUDAAwdWlXTfSWllLhMZO6++yTTNTgo1q6syrGYjI3HGSxOCcnPoalfcPcrc26Lulmd57V9C0xfHJGBxgcDGOPxjjRo1w53o6JNjt4SXBJ3rcrm5WRau2GmmKLH5sBnxVQqgke8KoH+a3ou7fVlSlWojcWWvWhWKERRxqQirgAkoxPoc6NGnZ02Y++n/9k=
-ogImage:
+ogImage: null
 labels:
   - Britische Inseln
   - Burren
@@ -38,14 +37,13 @@ labels:
   - Stechpalmen
   - serie:Irland 2017
 focusKeyword: Poulnabrone Dolmen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Mondlandschaft mit mystischen Steinen
-year: '2018'
-month: '04'
+year: "2018"
+month: "04"
+
 ---
 
 **Die nächste Sehenswürdigkeit, die uns auf unserer Reise durch Irland letzten Herbst erwartete, war der Poulnabrone-Dolmen. Es handelt sich dabei um einen sogenannten Portal Tomb. Er wird auch "Hole Of Sorrows" (Loch der Sorgen) genannt.**

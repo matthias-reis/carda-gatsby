@@ -5,17 +5,12 @@ excerpt: "Alle, denen die Gruselserie etwas sagt, dürfen sich jetzt freuen: Die
   handsignierte Folgen!"
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_07_VERLOSUNG1.png__l.jpg
 isAffiliate: false
-path: /2019/07/die-gruselserie-ist-wieder-da/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAQMDAwQBBQAAAAAAAAABAgMEERIABSEGEzEUIkFRYQczcYGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EACURAAEDAwMDBQAAAAAAAAAAAAECAxEABCESMUETUWEycaGx8P/aAAwDAQACEQMRAD8A450z0NW7zske509XTrCzOmBjkdgVYA3xBt5v/Gm8/wCn81IlH6rcqeI1BZQJIXXEr5uDYj/NTe0bvSw9IVW3ztWJW95pKd4v27MFvl7gfg2Fj5v8aw0k2+GX1NKtY6kEZuncBHzbIEf3pbPWDmtxY0ycRvvGZ9qcpgvI0sAlfgTGc1Y0vQ9PVhgm8IhC5AyUzDPzewy/H3pV1F0cu1bHJuB3OCUpIkfZ7eLNl8r7jwPnUzT1tZHuec01WjZh5ApxYkHIfQ886ZdW7om8TmoVJYpmYEq2JUcc2t9m2tuVuqfT0TCOeee/n4qe3ZW2gh9UqntH7mp4SntkDzbT5uoEp3RIp5pQqraRSyc4i/B54PH5to0aNbaV+oVba3z9oSWVRO+x+6W19f62pRlRkjRMVLnlubknWaWW486NGiSkJECkvvruHC64ZJr/2Q==
 typeName: Hörtipp & Verlosung
 advertisement: true
 isWerbung: false
-fileName: 2019-07---die-gruselserie-ist-wieder-da.md
-slug: die-gruselserie-ist-wieder-da
-errors: {}
-date: 2019-07-15T14:44:16.000+00:00
+date: 2019-07-15T14:44:16.000Z
 focusKeyword: Die Gruselserie
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie__m.jpg
 title: Die Gruselserie ist wieder da!
@@ -44,6 +39,7 @@ labels:
   - Hörspiele
   - TKKG
   - Verlosung
+
 ---
 
 **Alle, jenen die Gruselserie etwas sagt, dürfen sich jetzt freuen: Die kultige Hörspielreihe aus den 1980er Jahren ist jetzt wieder da! Ich war bei einem wunderbar gruseligen Presse-Event und habe einiges über die Neuauflage in Erfahrung gebracht.**

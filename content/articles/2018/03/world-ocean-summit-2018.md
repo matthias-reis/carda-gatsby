@@ -1,13 +1,14 @@
 ---
 date: 2018-03-15T14:00:24.000Z
-slug: world-ocean-summit-2018
-path: /2018/03/world-ocean-summit-2018/
 title: World Ocean Summit 2018
 seoTitle: World Ocean Summit 2018 - Aufruf zur Säuberung der Meere
 ogTitle: World Ocean Summit 2018 - Aufruf zur Säuberung der Meere
-description: Neuer Dokumentarfilm zeigt, wie der Kampf gegen Plastik die Gemüter erhitzt - In Mexico trafen sich Aktivisten und Politiker zur World Ocean Summit 2018.
-excerpt: Neuer Dokumentarfilm zeigt, wie der Kampf gegen Plastik die Gemüter erhitzt - In Mexico trafen sich Aktivisten und Politiker zur World Ocean Summit 2018.
-fileName: 2018-03---world-ocean-summit-2018.md
+description: Neuer Dokumentarfilm zeigt, wie der Kampf gegen Plastik die Gemüter
+  erhitzt - In Mexico trafen sich Aktivisten und Politiker zur World Ocean
+  Summit 2018.
+excerpt: Neuer Dokumentarfilm zeigt, wie der Kampf gegen Plastik die Gemüter
+  erhitzt - In Mexico trafen sich Aktivisten und Politiker zur World Ocean
+  Summit 2018.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_garbage-2369821_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_garbage-2369821_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIEBQYD/8QALBAAAQMDAgQDCQAAAAAAAAAAAQIDEQAEEgUhBiIxcRNBURQVI0JScpGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIBAP/EABkRAAMBAQEAAAAAAAAAAAAAAAABAhNBUf/aAAwDAQACEQMRAD8A1aOIXFN5+DaskkpAKlHm9Oorm5xDeAABtlW5GSCe/mZrGe9GpQEJBXISotvBe8/SAO0TJ9RU7WWXLG6Z8V1ppKkg4peSsgdYEKJP20NaFki/VrWouIJSppAHU5nbv/KqLviC6TklWoW8id0FRntI3pUtXOKmEQhAIzbEqMHcAiYH4mm9lcSssvYFZcOainGIE45D5Rt5GtpXpVCG09u2cLaEMBu2QJSymEiYgE4gT0qQ9prbmnsuoSw0VxkW2ubm3G5J6UUUOC6TzZp0gWpCpVc/ByZAaUCeqid8v1WN424luNO1q40+zbCGmbggkqklRTzKHpJEkb0UVZYWj//Z
@@ -26,12 +27,11 @@ labels:
   - World Ocean Summit
   - zerowaste
 focusKeyword: World Ocean Summit
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Aufruf zur Säuberung der Meere
+
 ---
 
 **Mehr als 400 Entscheider, darunter Präsidenten, Konzernchefs und Umweltaktivisten, haben sich in Mexico getroffen. Ihr erklärtes Ziel: Endlich den Weg zur einem nachhaltigeren Umgang mit den Weltmeeren einzuschlagen.**

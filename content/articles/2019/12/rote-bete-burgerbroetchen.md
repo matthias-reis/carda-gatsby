@@ -1,15 +1,14 @@
 ---
 date: 2019-12-16T18:50:07.000Z
-slug: rote-bete-burgerbroetchen
-path: /2019/12/rote-bete-burgerbroetchen/
 type: Artikel
 typeName: Rezept
 title: Rote Bete Burgerbrötchen
 seoTitle: Rote Bete Burgerbrötchen - vegan, leicht und lecker
 ogTitle: Rote Bete Burgerbrötchen - vegan, leicht und lecker
-description: Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch teilen. Sie sehen nicht nur toll aus - sie sind auch unglaublich lecker!
-excerpt: Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch teilen. Sie sehen nicht nur toll aus - sie sind auch unglaublich lecker!
-fileName: 2019-12---rote-bete-burgerbroetchen.md
+description: Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch
+  teilen. Sie sehen nicht nur toll aus - sie sind auch unglaublich lecker!
+excerpt: Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch
+  teilen. Sie sehen nicht nur toll aus - sie sind auch unglaublich lecker!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-07-rote-bete-broetchen-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-07-rote-bete-broetchen-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAoEAABAwMDBAEFAQAAAAAAAAABAgMRBAUSAAYhEzFBUSIHFFJxkYH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAECBQb/xAAeEQACAgICAwAAAAAAAAAAAAACAwABBCERMSJBUf/aAAwDAQACEQMRAD8AmFjttA1QIqXEAqDgSnqmQoxzx5gGY012zoKYARTvVIgJcyV0kEg9sR3j/dc7djVIjcdZR2qnapKKjUltDTIgAwMzHtR1stFaAwglnPNWCQHCPlPI450i3x7nUYQgSqMvcybwtKGrWivttMhpzhJQk5TJAAVA78ggx2mdL+4rJVUwAZUw62EDEdTkj8zx3mf1xp7uN0wedp4eZfyxUhJKVkmQQSfPPf0dS+/Nll1aTcmnlhS2l5EJUlSDHMH+HzoSzstXK5IUO5Qd22gXZJvljcIrQkGoaQeVxHySPJ9jSlS3ZhL+VQnpYzLWMJyPcj0Z5g+dGjTr11cw8N5hqo47WtDl5qmXG6R/7YQXKyrlLfJlRkwVH0B57nXT+pG2Nm1SHF0lOaB+Sc6YyDPtJkfyNGjUpUIjz9g8nJYw+Lvqf//Z
@@ -28,15 +27,13 @@ labels:
   - vegane Burgerbrötchen
   - vegane Kochschule
   - vegane Rezepte
-
   - veganes Brötchenrezept
 focusKeyword: Burgerbrötchen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Nach einem Rezept aus der Kurkuma Kochschule
+
 ---
 
 **Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch teilen. Die pinken Rundstücke sind nicht nur besonders lecker, sie kommen auch mit einem speziellen Twist - sie werden mit Rote Bete Saft verfeinert.**

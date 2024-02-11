@@ -1,15 +1,14 @@
 ---
 date: 2018-10-14T16:40:02.000Z
-slug: wahlsonntag
-path: /2018/10/wahlsonntag/
 type: Galerie Rechts
 typeName: Gedicht
 title: Wahlsonntag
 seoTitle: Wahlsonntag - Statements und Prognosen - Lyrisch betrachtet
 ogTitle: Wahlsonntag - Statements und Prognosen - Lyrisch betrachtet
-description: Ein Gedicht zum Wahlsonntag - Grenzen sind dazu da, sie zu überwinden. Sie abzureißen und durch Verbindungswege zu ersetzen.
-excerpt: Gedicht - Grenzen sind dazu da, sie zu überwinden. Sie abzureißen und durch Verbindungswege zu ersetzen. Das haben die Menschen klar entschieden.
-fileName: 2018-10---wahlsonntag.md
+description: Ein Gedicht zum Wahlsonntag - Grenzen sind dazu da, sie zu
+  überwinden. Sie abzureißen und durch Verbindungswege zu ersetzen.
+excerpt: Gedicht - Grenzen sind dazu da, sie zu überwinden. Sie abzureißen und
+  durch Verbindungswege zu ersetzen. Das haben die Menschen klar entschieden.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_September-29-2018-at-06_15PM__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_September-29-2018-at-06_15PM__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QALBAAAQMEAQMCBAcAAAAAAAAAAQIDEQAEBSESBhQxQWEHEzJxIiMkUYKhsf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAmEQACAQIEBQUAAAAAAAAAAAABAhEAIQMFEmEEQXGR8RNRgbHh/9oADAMBAAIRAxEAPwBc+KHTCVN57qVp9aXrfMjGu2xXzCBwHEJJ/EIIiCfBERqkDGd8XP0inm3Drklwtz/KR/ddg6uzGLvMdmMWbF1vJqu238h3bn5anUAJKkhSipRPER9zukwZC0Q0lDFpJbHL5rYCYIP0jWvuD7VZlmY4qYOgiY+oHSquPy5DiagQAd/NbfT6c+xiUsDEWzpKXA/cXV6QXkKVJB4nwdDckx5g1BY2l6hNpjnbG2x2CfdSq4ZRxuOWhsHcGAAII3uqlzeXykF24LbAiZXC1JMf6fHr5qXDPZB28ZNlyYtWlj5iioIVx1ImJJO4n9/FaOKjMz6RJ9ySJveCSJvvHIUpuH9NQrubbR+36fNK/U/UDGU6kyF+q6vktvMCFuDgskJSS2YklIUFJBPpFZ9vk1v3LXYMrZWiQlR5OqAKYiJj0HkxRRSAo0T4oLjsohe/PvTb03jGVuuO5q5uW1qjg5pxSNGQoaIB19Gx71q3ncW1ky4y2WrVwHgsbQsg7HIan2O6KKAF5pDMTc1//9k=
@@ -28,13 +27,12 @@ labels:
   - Wahl in Bayern
   - Wahlsonntag
   - wir sind mehr
-focusKeyword: ''
-status: publish
+focusKeyword: ""
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Statements und Prognosen
+
 ---
 
 <blockquote>

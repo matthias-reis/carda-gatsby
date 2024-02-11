@@ -1,14 +1,19 @@
 ---
 date: 2024-01-26T10:30:00.766Z
-slug: mike-vennart-interview-en
 typeName: Interview
-title: 'Mike Vennart Interview'
+title: Mike Vennart Interview
 subTitle: '"Forgiveness & The Grain" might be the most emotive record I‘ve ever made"'
-seoTitle: 'Mike Vennart – Interview – "Forgiveness & The Grain"'
-description: 'Mike Vennart – Interview about his new album "Forgiveness & The Grain". Read it now and discover why it‘s the musical mastermind‘s most emotive record so far!'
-excerpt: '"Mike Vennart Interview"—yes, you read that right! I had the opportunity to talk to musical mastermind Mike Vennart (Vennart, Oceansize, Biffy Clyro) about his upcoming (February 2nd) new album, "Forgiveness & The Grain". We also talked about the current world situation and how to motivate yourself when starting a creative process. Please enjoy!'
+seoTitle: Mike Vennart – Interview – "Forgiveness & The Grain"
+description: Mike Vennart – Interview about his new album "Forgiveness & The
+  Grain". Read it now and discover why it‘s the musical mastermind‘s most
+  emotive record so far!
+excerpt: '"Mike Vennart Interview"—yes, you read that right! I had the
+  opportunity to talk to musical mastermind Mike Vennart (Vennart, Oceansize,
+  Biffy Clyro) about his upcoming (February 2nd) new album, "Forgiveness & The
+  Grain". We also talked about the current world situation and how to motivate
+  yourself when starting a creative process. Please enjoy!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-7-jpg-imagine-585858_898989_1024_768/640.webp
-copyright: 'Mike Vennart'
+copyright: Mike Vennart
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-og-jpg-imagine-282828_656565_1200_628/640.webp
 labels:
   - Band
@@ -28,6 +33,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2024/01/mike-vennart-interview/
+
 ---
 
 **"Mike Vennart Interview"—yes, you read that right! I interviewed the musical mastermind Mike Vennart (Vennart, Oceansize, Biffy Clyro) about his upcoming (February 2nd) new solo album, "Forgiveness & The Grain". We also talked about the world getting crueller and crueller these days and how to motivate yourself when starting a creative process. Please enjoy!**

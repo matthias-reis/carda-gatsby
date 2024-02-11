@@ -1,12 +1,17 @@
 ---
 date: 2022-02-10T15:16:19.135Z
-slug: playgrounded-the-death-of-death
 typeName: Review
 title: '"The death of Death"'
 subTitle: Das neue Album von Playgrounded
 seoTitle: Playgrounded – "The death of Death" – Prog Review
-description: Das neue Playgrounded Album "The death of Death" ist eine Studie der Einheit der Gegensätzlichkeiten. Eine geniale Platte mit einem faszinierenden Background erwartet Euch.
-excerpt: Das neue Playgrounded Album "The death of Death" ist eine Studie der Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung widersprüchlicher Aspekte der Realität und soll ein Ausdruck ihrer Beziehung zueinander sein. Die Platte erscheint am 18. März und verdient definitiv Aufmerksamkeit.
+description: Das neue Playgrounded Album "The death of Death" ist eine Studie
+  der Einheit der Gegensätzlichkeiten. Eine geniale Platte mit einem
+  faszinierenden Background erwartet Euch.
+excerpt: Das neue Playgrounded Album "The death of Death" ist eine Studie der
+  Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung
+  widersprüchlicher Aspekte der Realität und soll ein Ausdruck ihrer Beziehung
+  zueinander sein. Die Platte erscheint am 18. März und verdient definitiv
+  Aufmerksamkeit.
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-10/playgrounded-the-death-of-death-jpg-imagine-080808_110f0e_1024_768/640.webp
 copyright: Playgrounded
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-10/playgrounded-fb-png-imagine-080808_110f0e_1200_628/640.webp
@@ -24,6 +29,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/02/playgrounded-the-death-of-death-en/
+
 ---
 
 **Das neue Playgrounded Album "The death of Death" ist eine Studie der Einheit der Gegensätzlichkeiten. Es handelt von der Offenlegung widersprüchlicher Aspekte der Realität und soll ein Ausdruck ihrer Beziehung zueinander sein. Die Platte erscheint am 18. März und verdient defintiv Aufmerksamkeit.**

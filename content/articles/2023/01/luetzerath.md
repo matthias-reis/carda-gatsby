@@ -1,12 +1,16 @@
 ---
 date: 2023-01-16T15:50:29.498Z
-slug: luetzerath
 typeName: Beitrag
 title: Lützerath
 subTitle: Was nach der Demo bleibt
 seoTitle: Das bleibt nach der Demo in Lützerath
-description: Nach der Demo in Lützerath bleibt vieles wie es ist und einiges ändert sich. Wer sich wie ich vor den Kopf gestoßen fühlt, sollte das hier lesen.
-excerpt: Lützerath – dieser Ortsname wird uns wohl allen für immer in Erinnerung bleiben. Die Bundesregierung wollte laut eigener Aussage hier ein Zeichen für das Ende der schmutzigen Energiegewinnung setzen und erreichte wohl eher das Gegenteil. Das macht nicht nur nachdenklich sondern auch traurig und wütend.
+description: Nach der Demo in Lützerath bleibt vieles wie es ist und einiges
+  ändert sich. Wer sich wie ich vor den Kopf gestoßen fühlt, sollte das hier
+  lesen.
+excerpt: Lützerath – dieser Ortsname wird uns wohl allen für immer in Erinnerung
+  bleiben. Die Bundesregierung wollte laut eigener Aussage hier ein Zeichen für
+  das Ende der schmutzigen Energiegewinnung setzen und erreichte wohl eher das
+  Gegenteil. Das macht nicht nur nachdenklich sondern auch traurig und wütend.
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-16/luetzi-bleibt-jpg-imagine-080808_5c5350_1024_768/640.webp
 copyright: Lützi bleibt
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-16/luetzi-bleibt-og-jpg-imagine-080808_67686d_1200_628/640.webp
@@ -20,6 +24,7 @@ focusKeyword: Lützerath
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Lützerath – dieser Ortsname wird uns wohl allen für immer in Erinnerung bleiben. Die Bundesregierung wollte laut eigener Aussage hier ein Zeichen für das Ende der schmutzigen Energiegewinnung setzen und erreichte wohl eher das Gegenteil. Das kann einen nicht nur nachdenklich machen – ich zumindest habe mich als unbedeutender, viel zu inaktiver Teil der Klimabewegung in den vergangenen Stunden traurig, wütend, betrübt, sauer, ignoriert und – entschuldigt meine Wortwahl – verarscht gefühlt.**

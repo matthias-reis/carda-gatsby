@@ -1,59 +1,56 @@
 ---
-date: 2019-12-03T07:55:46.000+01:00
-slug: shana-falana-interview
-path: "/2019/12/shana-falana-interview/"
+date: 2019-12-03T06:55:46.000Z
 type: Artikel
 typeName: Interview
 title: Shana Falana im Interview
 seoTitle: Shana Falana im Interview - "Druggy Music By Sober People"
 ogTitle: Shana Falana im Interview - "Druggy Music By Sober People"
-description: Shana Falana hat vor Kurzem ihr Album "Darkest Light" veröffentlicht.
+description: Shana Falana hat vor Kurzem ihr Album "Darkest Light"
+  veröffentlicht. Jetzt habe ich mich mit der New Yorker Musikerin zum Interview
+  verabredet.
+excerpt: Shana Falana hat vor Kurzem ihr Album "Darkest Light" veröffentlicht.
   Jetzt habe ich mich mit der New Yorker Musikerin zum Interview verabredet.
-excerpt: Shana Falana hat vor Kurzem ihr Album "Darkest Light" veröffentlicht. Jetzt
-  habe ich mich mit der New Yorker Musikerin zum Interview verabredet.
-fileName: 2019-12---shana-falana-im-interview.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-6__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcD/8QAKBAAAQMEAgEDBAMAAAAAAAAAAQIDBAAFESEGEjEHFDITIkFhI4Gx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDBrNapt6uTMC1x1yJbxCUoT/pPgD9mtCj8HkQL41xmM/Z2+SJwua/c2wWUdgP4Wu6SlQSCFKXjecJOjVj0o5fEtVvYtMCPHhXh18rcnvqGHQTrBx9qgnQB15Pk073CDYVTbXe2uUsQJ0aeVLakTm3vbpeUS4UrOzhBUpIJICs63TbdXIyfl3GI6WrrcbM5FQ3a5HsrlFCw2lt8KKO0fsolbayOwSNoyRsAGkkj8U8cxtjaOSswLbfYvIoLhXMbcacCjnKsocIHzwNnO851mqvqRY4NjusBFsSW2ZUJuSWTI+sUFXnfUEAnOAc+PNVBhZbKEgAg/wBGoqdIyEKV184zqiiqDn3Oc/n9VFSiflvWBRRWZ//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-8.png__l.jpg
 labels:
-- 80ies
-- 90ies
-- Bands
-- Brooklyn
-- Bull In The Heather
-- Darkest Light
-- English & German
-- Everyone Is Gonna Be OK
-- Free Kitten
-- Hudson Valley
-- Inspiration
-- Interview
-- Interviews
-- Kim Gordon
-- New York
-- PJ Harvey
-- Post-Rock
-- Ram Dass
-- Reverb
-- San Francisco
-- Shana Falana
-- Shoegaze
-- Skirt
-- Sludge
-- Sonic Youth
-- Williamsburg
+  - 80ies
+  - 90ies
+  - Bands
+  - Brooklyn
+  - Bull In The Heather
+  - Darkest Light
+  - English & German
+  - Everyone Is Gonna Be OK
+  - Free Kitten
+  - Hudson Valley
+  - Inspiration
+  - Interview
+  - Interviews
+  - Kim Gordon
+  - New York
+  - PJ Harvey
+  - Post-Rock
+  - Ram Dass
+  - Reverb
+  - San Francisco
+  - Shana Falana
+  - Shoegaze
+  - Skirt
+  - Sludge
+  - Sonic Youth
+  - Williamsburg
 focusKeyword: Shana Falana
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Druggy music by sober people"'
-languageLink: "/2019/12/shana-falana-interview-en"
+languageLink: /2019/12/shana-falana-interview-en
 copyright: Monik Giesel
 
 ---
+
 **Shana Falana habe ich erst vor Kurzem für mich entdeckt. In der [Musikliste für den Dezember](/2019/11/13-songs-fuer-den-dezember/) habe ich Euch ihr Shoegazer Projekt vorgestellt. Jetzt haben wir uns zum Interview verabredet.**
 
 Shana stammt ursprünglich aus Brooklyn. Inzwischen hat sie sich im New Yorker Stadtteil Kingston niedergelassen. Am 25. Oktober hat sie ihr drittes Studioalbum "Darkest Light" bei Arrowhawk Records veröffentlicht.

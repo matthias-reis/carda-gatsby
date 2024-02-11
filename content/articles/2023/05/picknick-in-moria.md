@@ -1,12 +1,17 @@
 ---
 date: 2023-05-25T15:38:03.385Z
-slug: picknick-in-moria
 typeName: Filmtipp
 title: '"Picknick in Moria"'
 subTitle: Filmpremiere steht kurz bevor
 seoTitle: '"Picknick in Moria" – Filmtipp'
-description: Der afghanische Filmemacher Talib Shah Hosini tritt mit seiner Frau Yasamin und seinen Töchtern Farima, Parisa und Marjan auf Lesbos in den Kampf gegen die Hoffnungslosigkeit..
-excerpt: Der 37-jährige afghanische Filmemacher Talib Shah Hosini tritt im Film "Picknick in Moria" mit seiner Frau Yasamin und seinen Töchtern Farima, Parisa und Marjan im Film auf Lesbos den Kampf gegen die Hoffnungslosigkeit an, indem er  die Schicksale der vielen Tausenden  Geflüchteter sichtbar macht – indem er einen Film dreht.
+description: Der afghanische Filmemacher Talib Shah Hosini tritt mit seiner Frau
+  Yasamin und seinen Töchtern Farima, Parisa und Marjan auf Lesbos in den Kampf
+  gegen die Hoffnungslosigkeit..
+excerpt: Der 37-jährige afghanische Filmemacher Talib Shah Hosini tritt im Film
+  "Picknick in Moria" mit seiner Frau Yasamin und seinen Töchtern Farima, Parisa
+  und Marjan im Film auf Lesbos den Kampf gegen die Hoffnungslosigkeit an, indem
+  er  die Schicksale der vielen Tausenden  Geflüchteter sichtbar macht – indem
+  er einen Film dreht.
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-25/picknick-in-moria-jpg-imagine-080808_5c5351_1024_768/640.webp
 copyright: kinofreund eG 2023
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-25/picknick-in-moria-og-jpg-imagine-181818_605f67_1200_628/640.webp
@@ -21,6 +26,7 @@ focusKeyword: Picknick in Moria
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 <<<<<<< HEAD **Der 37-jährige afghanische Filmemacher Talib Shah Hosini tritt mit seiner Frau Yasamin und seinen Töchtern Farima, Parisa und Marjan im Film "Picknick in Moria" auf Lesbos den Kampf gegen die Hoffnungslosigkeit an, indem er die Schicksale der vielen Tausend Geflüchteter sichtbar macht. Mit seiner Kamera filmt er das Leben im gefürchteten Lager Moria. Gemeinsam mit vielen weiteren Asylsuchenden steckte die Familie dort fest.**

@@ -1,13 +1,14 @@
 ---
 date: 2021-03-23T16:32:59.000Z
-slug: playlist-april-2021
-path: /2021/03/playlist-april-2021/
 title: Playlist April
 seoTitle: Playlist April – 12 Songs zum Davonträumen (Post-Rock bis Jazz Core)
 ogTitle: Musikliste April – 12 Songs zum Davonträumen (Post-Rock bis Jazz Core)
-description: Die Playlist für den April ist fertig! Wir haben 12 Songs aus den unterschiedlichsten alternativen Genres für Euch zusammengestellt.
-excerpt: Hier sind wieder 12 ganz besonderes Songs für Euch. Bei unserer Auswahl haben wir uns in den verschiedensten Genres ausgetobt – Es werden also nicht nur Post-Rock Fans glücklich. Die Stücke laden Euch dazu ein, Euch von Zeit zu Zeit ein bisschen davon zu träumen
-fileName: 2021-03---playlist-april.md
+description: Die Playlist für den April ist fertig! Wir haben 12 Songs aus den
+  unterschiedlichsten alternativen Genres für Euch zusammengestellt.
+excerpt: Hier sind wieder 12 ganz besonderes Songs für Euch. Bei unserer Auswahl
+  haben wir uns in den verschiedensten Genres ausgetobt – Es werden also nicht
+  nur Post-Rock Fans glücklich. Die Stücke laden Euch dazu ein, Euch von Zeit zu
+  Zeit ein bisschen davon zu träumen
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_12-songs-april-blog__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_12-songs-april-blog__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIBAUG/8QALBAAAQMCBQMEAAcAAAAAAAAAAQIDBAURAAYSITETQVEHFBUiFiQzYXGx8P/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAL/xAAiEQABBAECBwAAAAAAAAAAAAABAAIDESEiMUFRYXGBwfD/2gAMAwEAAhEDEQA/ANhkv1Jbq8aVHzc5T22246QwllrpF5zUSom5tcJHGwN/OFW4qZMUgXmp6MzcWUAft58WxiNM5Za9LJMp+k/mFshtqWoK63u7A3vwEdvHbDNmQaa36ExKd826wtCOr1Q8oqUrxpBtpvwDf+RhEE4mJBaRRrv1wUyaEgDIOLSS6lFOXHUlyOKiIoIT0V9Qve4418fp/wBYZeS5kao195zMmXHpjSmyI8iNLEdJISn6qSSBa4N1c3I7Yo6jSM2v5irseYVMxOoDCU6x9ABa4Cha4II87pViWPduKpq4y7hCXNSVH9k8cf4DC3PLbDL4nPpURvZWscqrzv8ABUN6eZIYelx8x1GZUkviQX4TPyDujRuLONqA3uONx35vjnPxrBcyimAmIFPFosgOJuz9dNioJ3AINwO5BGDBglcWALcLGzuLiK22UzTHKO5RlymKbGbeKioNiSClJCLE6b3IJNwDiunZU92QG5MCnxqehC0qdYXGU4uwOhWytYJOnYDvvgwYpcVBa//Z
@@ -47,12 +48,11 @@ labels:
   - Tomahawk
   - Warren Ellis
 focusKeyword: Playlist
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: 12 Songs zum Davonträumen
+
 ---
 
 **Die Playlist für den April ist fertig! Das ging ganz schön schnell, oder? Man kann wirklich kaum glauben, dass schon wieder ein Monat vorbei ist.**

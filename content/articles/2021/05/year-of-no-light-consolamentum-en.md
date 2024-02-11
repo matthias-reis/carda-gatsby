@@ -1,6 +1,5 @@
 ---
 date: 2021-05-02T17:21:42.000Z
-slug: year-of-no-light-consolamentum-en
 typeName: Review
 title: Year Of No Light – "Consolamentum"
 subTitle: Stories From The Dark Side
@@ -28,6 +27,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/05/year-of-no-light-consolamentum/
+
 ---
 
 **Year Of No Light have finished their new album! "Consolamentum" will be hitting your records store soon. I already had the chance to listen to it, and I concluded: It is an extraordinary record. You should definitely consider adding it to your collection.**

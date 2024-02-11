@@ -1,13 +1,12 @@
 ---
 date: 2012-08-01T10:23:03.000Z
-slug: von-fenstern-kaffee-und-won-kar-wai
-path: /2012/08/von-fenstern-kaffee-und-won-kar-wai/
 title: Von Fensterräubern und Füllfederhaltern
 seoTitle: Von Fenster, Kaffee und Won Kar Wai - Tagebucheintrag
 ogTitle: Von Fenster, Kaffee und Won Kar Wai - Tagebucheintrag
-description: Heute ist also der 1. August. Noch zehn Monate, dann ist wieder Sommer. Der Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen.
-excerpt: Heute ist also der 1. August. Noch zehn Monate, dann ist wieder Sommer. Der Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen.
-fileName: 2012-08---von-fensterraeubern-und-fuellfederhaltern.md
+description: Heute ist also der 1. August. Noch zehn Monate, dann ist wieder
+  Sommer. Der Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen.
+excerpt: Heute ist also der 1. August. Noch zehn Monate, dann ist wieder Sommer.
+  Der Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120801_094736__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120801_094736__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYABAcC/8QAMBAAAgEDAwIDBQkBAAAAAAAAAQIDBAURAAYhEjETIlEHMkFh8BQWIyVScYGh0fH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABsRAAIDAQEBAAAAAAAAAAAAAAABAhESITJB/9oADAMBAAIRAxEAPwA7NW7mq963v85qlpI6+WOOJKp1WONWYBQg47Af3plpprz4hL3JxF6GocsPXVDoiXcl4ZKCoZpKyUSSBD5h1n4+muhX22jlnpammgjlpyPHGeoRxMQFlOeeg5AJ+B4OONTtBywhWy3UK0kV3lWM4Cgyvx3zkg/WNA6CtvsO6bSxvtRNC1ZFFLEJnZCGYBgQSQRg40yI0VRCTHTxvSgDwmBUqw+WOMdtBoYZFvlqMdBTRD7bCWPWM46xzwPlosdFC7XhYb1dqemqmMyVkxd8eWLz+7n1/wB1nm7bjUX+ppqWzl4q38VUq0YqxUriTjt0Hs2cg8DuNTcth3Z9+9yq1gvD2prjNMjU9M7CqV3LKFdQRggjJ+Hbg6dttWi7w0slVNZKiCukVUjiNMypCgzhR5f+nU28dXSkLMPtW6bxsO5GlllmktjMVBic9OP1R5zjGc9J/nI1sW39x2q83+wzW17jVK9bAetnbpBMg94cDj6zoZ7RNs3i/WyXFirZJUCv0R0spDHBzgdPDDSj7PrBvWLfm2Yn23eqegp6+BnlmonijjhVwXJYgDGAe/f99XdTjr6Dy6Z//9k=
@@ -54,13 +53,12 @@ labels:
   - White Rabbits
   - Wong Kar Wai
   - Zitat
-focusKeyword: ''
-status: publish
+focusKeyword: ""
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ein ganz normaler Mittwoch
+
 ---
 
 **Heute ist also der 1. August. Noch zehn Monate, dann ist wieder Sommer. Der Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen. Da habe ich mir wirklich lange Zeit was wirklich Gutes entgehen lassen.**

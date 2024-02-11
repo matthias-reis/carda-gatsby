@@ -1,15 +1,15 @@
 ---
-date: 2021-04-17T17:58:42.000+00:00
-slug: sauerteig-grundrezept
-path: '/2021/04/sauerteig-grundrezept/'
+date: 2021-04-17T17:58:42.000Z
 type: Artikel
 typeName: Rezept
 title: Sauerteig Grundrezept
 seoTitle: Sauerteig Grundrezept – Brot backen leicht gemacht
 ogTitle: Sauerteig Grundrezept – Brot backen leicht gemacht
-description: Das Grundrezept für Sauerteig ist im Grunde ganz einfach und mit ein paar Tricks gelingt er gleich beim ersten Versuch. Das Grundrezept.
-excerpt: Brotrezepte habe ich ja hier schon einige veröffentlicht. Doch wie funktioniert das eigentlich mit dem Sauerteig? Wenn man ein paar Schritte verinnerlicht, geht es eigentlich ganz einfach. Hier kommt das Grundrezept.
-fileName: 2021-04---sauerteig-grundrezept.md
+description: Das Grundrezept für Sauerteig ist im Grunde ganz einfach und mit
+  ein paar Tricks gelingt er gleich beim ersten Versuch. Das Grundrezept.
+excerpt: Brotrezepte habe ich ja hier schon einige veröffentlicht. Doch wie
+  funktioniert das eigentlich mit dem Sauerteig? Wenn man ein paar Schritte
+  verinnerlicht, geht es eigentlich ganz einfach. Hier kommt das Grundrezept.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_12-fertg.jpeg__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_12-fertg.jpeg__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAQIDBv/EACsQAAIBAwMDAgUFAAAAAAAAAAECAwQRIQASMQVBUQYTFCNhkbEVIjKBof/EABYBAQEBAAAAAAAAAAAAAAAAAAQDBv/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMRBBITISIFYYH/2gAMAwEAAhEDEQA/APUwda6hTSCEmOf5Syl0R4/bBIuGFzjPPODrv1n1jLFvpY90krFgjghkKjG69vNxb6HUOP1MqSvHffEgUiWNrpc8gtwDz9tSZ6yXq1V8QwPzLpErcIvk/k6rl5e2ygKJUcXD1vsmwErPLPNVmSsY1IRLKNu3PYC1rcC2smnn/TPeSrkqqd7ESLDtdD33Di3g9+9tNwASSgRj9i4YuRuCA5LDsWP21RjoBD6H6hVzrtEuxIlBO4KGuzAD/O2M6zj4zKHX7N/EryeHDsmQinBRJ+sxVNG9O9A6RSKxHs1HAClr7SPAU/3pFWUQiM1FZCo/ntCXbJxe+Bi9sfXjRo0lzi488orMqVg6lbydSp6IieOGqqTay72GxTbB5znS569V1jmkrnCLtASONjaIgi5I7m48Y/Jo0eWQ6S0cBQyZnzN7m1//2Q==
@@ -22,17 +22,14 @@ labels:
   - Sauerteig Grundrezept
   - Sauerteigbrot
   - vegane Rezepte
-
 focusKeyword: Sauerteig
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image that could not be found
 subTitle: Veganes Brot backen leicht gemacht
-year: '2021'
-month: '04'
+year: "2021"
+month: "04"
+
 ---
 
 **Brotrezepte habe ich ja hier schon einige veröffentlicht. Doch wie funktioniert das eigentlich mit dem Sauerteig? Wenn Ihr ein paar Schritte verinnerlicht, klappt es schon beim ersten Mal. Hier kommt das Grundrezept.**

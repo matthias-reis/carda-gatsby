@@ -1,12 +1,16 @@
 ---
 date: 2021-11-04T14:47:25.391Z
-slug: eric-adams
 typeName: Beitrag
 title: Eric Adams wird New Yorks erste veganer Bürgermeister
 subTitle: Politiker kämpft für pflanzliche Ernährung und gegen Rassismus
 seoTitle: Eric Adams wird New Yorks erste veganer Bürgermeister
-description: Eric Adams wurde vor zwei Tagen offiziell zum neuen Bürgermeister von New York ernannt und ist der erste Veganer im Amt. In New York setzt er sich seit Jahren für Gesundheitskampagnen und gegen Rassismus ein.
-excerpt: Sicher habt Ihr schon von Eric Adams gehört. Er wurde vor zwei Tagen offiziell zum neuen Bürgermeister von New York ernannt und ist der erste Veganer im Amt. In New York setzt er sich seit Jahren für Gesundheitskampagnen und gegen Rassismus ein.
+description: Eric Adams wurde vor zwei Tagen offiziell zum neuen Bürgermeister
+  von New York ernannt und ist der erste Veganer im Amt. In New York setzt er
+  sich seit Jahren für Gesundheitskampagnen und gegen Rassismus ein.
+excerpt: Sicher habt Ihr schon von Eric Adams gehört. Er wurde vor zwei Tagen
+  offiziell zum neuen Bürgermeister von New York ernannt und ist der erste
+  Veganer im Amt. In New York setzt er sich seit Jahren für Gesundheitskampagnen
+  und gegen Rassismus ein.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/eric-adams-jpg-imagine-987858_7b635a_1024_768/640.webp
 copyright: |
   Eric Adams, Wikimedia Commons
@@ -21,6 +25,7 @@ focusKeyword: Eric Adams
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Sicher habt Ihr schon von Eric Adams gehört. Er wurde vor zwei Tagen offiziell zum neuen Bürgermeister von New York ernannt und ist der erste Veganer im Amt. In New York setzt er sich seit Jahren für Gesundheitskampagnen und gegen Rassismus ein.**

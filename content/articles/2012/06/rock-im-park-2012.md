@@ -1,21 +1,20 @@
 ---
 date: 2012-06-05T14:39:45.000Z
-slug: rock-im-park-2012
-path: /2012/06/rock-im-park-2012/
 type: Galerie
 typeName: Galerie
 title: Rock im Park 2012
 seoTitle: Rock im Park 2012 - mein Nachbericht zum Festival
 ogTitle: Rock im Park 2012 - mein Nachbericht zum Festival
-description: Nach drei Jahren Schlammfestivals eine echte Wohltat, bei Rock im Park mal wieder in der Sonne feiern zu können.
-excerpt: Nach drei Jahren Schlammfestivals eine echte Wohltat, bei Rock im Park mal wieder in der Sonne feiern zu können.
-fileName: 2012-06---rock-im-park-2012.md
+description: Nach drei Jahren Schlammfestivals eine echte Wohltat, bei Rock im
+  Park mal wieder in der Sonne feiern zu können.
+excerpt: Nach drei Jahren Schlammfestivals eine echte Wohltat, bei Rock im Park
+  mal wieder in der Sonne feiern zu können.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_06_p1080070__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_06_p1080070__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKxAAAQMDAgYABgMAAAAAAAAAAQIDBAAFEQYhBxITMUFRFBUWMlKhImGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwH/xAAfEQACAQQCAwAAAAAAAAAAAAABAgADESExEhMiQVH/2gAMAwEAAhEDEQA/AObLxc5l5ukm43F1T0qQsrWs/oD0ANgPAFPXC6JZZNwSLrZ0zFLWhgKdcUWkFQOSEDcq7bk4Hqt5tXBfTEvTD0SRaxGlwQolxmQXH3t8p6wwAP8AMbUi8P7DFjcSLRGidIMMyw88VDlSltpKnDnPjl9/1QrUFS66hFijA2mocLeHlsfiSZkN6OIpcKWA1hR5QdivHZXcH3gZqBr+ZGtry4iT0wj+OT5NKP1pPtN7nu2uchjTvxbvQWxt1wpRPKhOMnIIOew/VKL69SascXLgQlSIDCiyFNhSwjBzhSvyxvk0gbgPI4hVWU6lW7xd1TE0/bLYue4beEuc5SOVTgVvur7jso+d+9SYer1QPlb0u3Prt0xALktSSkLV9qklX457jyKKKPrVcj3EP2U/FX5i3CtE6RGEaJLbHwag0UHppSCUHPblBbPshQO+9JVhnvpmoYMyUxGUFEpafLYziiikXIlsADP/2Q==
 ogImage: null
 labels:
-  - '2012'
+  - "2012"
   - As I Lay Dying
   - Band
   - Bands & Reviews
@@ -50,12 +49,11 @@ labels:
   - Wellies
   - Wolken
 focusKeyword: Rock im Park 2012
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Festivalbericht mit Bildergalerie
+
 ---
 
 **In der Nacht von Sonntag auf Montag zurückgekommen aus dem Park. Trotz zweier größerer Regenschauer jeweils beim Auf- und beim Abbau der Zelte haben wir insgesamt dieses Mal Glück gehabt, Rah war uns freundlich gestimmt.**

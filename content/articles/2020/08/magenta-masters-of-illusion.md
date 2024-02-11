@@ -1,15 +1,15 @@
 ---
 date: 2020-08-21T10:17:46.000Z
-slug: magenta-masters-of-illusion
-path: /2020/08/magenta-masters-of-illusion/
 type: Artikel
 typeName: Review
 title: '"Masters Of Illusion"'
 seoTitle: '"Masters Of Illusion" - Das neue Album von Magenta'
 ogTitle: '"Masters Of Illusion" - Das neue Album von Magenta'
-description: Magenta sind wieder da. Die preisgekrönte Prog-Band liefert nach "We Are Legend" von 2017 mit "Masters Of Illusion" ein glorioses neues Album ab.
-excerpt: Magenta sind wieder da. Die preisgekrönte Prog-Band liefert nach "We Are Legend" von 2017 mit "Masters Of Illusion" ein glorioses neues Album ab.
-fileName: 2020-08---masters-of-illusion.md
+description: Magenta sind wieder da. Die preisgekrönte Prog-Band liefert nach
+  "We Are Legend" von 2017 mit "Masters Of Illusion" ein glorioses neues Album
+  ab.
+excerpt: Magenta sind wieder da. Die preisgekrönte Prog-Band liefert nach "We
+  Are Legend" von 2017 mit "Masters Of Illusion" ein glorioses neues Album ab.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-21-magenta-01__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-08-21-magenta-01__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQMEB//EACsQAAIBAwIDCAIDAAAAAAAAAAECAwQFEQASBhMhIjFBUWFxgaEVIzKiwf/EABYBAQEBAAAAAAAAAAAAAAAAAAADAv/EAB0RAQACAgIDAAAAAAAAAAAAAAEAAjHxEWEhcZH/2gAMAwEAAhEDEQA/AESv2JYFljpwea8R6nAXOHP05Hzpn4MnrrbSyz1VpZaWOkijkMquoVY2PaJ29Mq39R56rKXlz8JUYfGHhjK+m0f7yjq8pIpL3a6BqyrqSI6gJKzftf8Agd2Fzk+JHtqJh71LGTrcp7pJDUOtwo0gqBRUsUcoDOhcocoeq5yV3DyGNI17hhrZYZY4DFIshidO8AGPaDnA7yAddDnt0dEl2dJJZKeBo0Zmg5fZlDqCVyTkBs9D4jSrcI41sq1ceWZCUkBGDldrr9Fh8a3QBIstq2D382wtf5YcOJBFabi8yqqhRAxIO+T62udbVPbeIufzEsNwbJ6g0pwRgjrkeujRoHEmsiezcRNIzyWC5DOAVSmIGB7awyUl1Thk08lor46oTFmWWFhuA7jn2Yj40aNafMVs1Z//2Q==
@@ -26,12 +26,11 @@ labels:
   - Progressive Rock
   - Rob Reed
 focusKeyword: Magenta
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Das neue Album von Magenta
+
 ---
 
 **Magenta sind wieder da. Die preisgekrönte Prog-Band legt nach ihrem gloriosen Werk "We Are Legend" von 2017 nach und liefert mit "Masters Of Illusion endlich ein neues Album.**

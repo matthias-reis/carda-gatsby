@@ -1,46 +1,44 @@
 ---
-date: 2018-12-11T07:14:41.000+00:00
-slug: geschenkidee-moleskine-recipe-journal
-path: "/2018/12/geschenkidee-moleskine-recipe-journal/"
+date: 2018-12-11T07:14:41.000Z
 type: Galerie Rechts
 typeName: Produkttest
-title: 'Geschenkidee: Moleskine Recipe Journal'
-seoTitle: 'Geschenkidee: Moleskine Recipe Journal für persönliche Rezeptsammlung'
-ogTitle: 'Geschenkidee: Moleskine Recipe Journal für persönliche Rezeptsammlung'
-description: Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das
-  Recipe Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte ausdenken.
-excerpt: Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das Recipe
-  Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte ausdenken.
-fileName: 2018-12---geschenkidee-moleskine-recipe-journal.md
+title: "Geschenkidee: Moleskine Recipe Journal"
+seoTitle: "Geschenkidee: Moleskine Recipe Journal für persönliche Rezeptsammlung"
+ogTitle: "Geschenkidee: Moleskine Recipe Journal für persönliche Rezeptsammlung"
+description: Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet.
+  Das Recipe Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte
+  ausdenken.
+excerpt: Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das
+  Recipe Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte
+  ausdenken.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-moleskine-koch-journal16__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-moleskine-koch-journal16__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgED/8QAKBAAAgECBQIGAwAAAAAAAAAAAQIDBBEABRIhMRNBBhQiUXGBMmGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgUDBv/EACURAAIABQIGAwAAAAAAAAAAAAECAAMEETEhYQUGEhNxgUFRof/aAAwDAQACEQMRAD8AzHhExxymU5XM7WEYjhmAcltvRte/b+4ueI6nzUAp8vSenQapKi2kkn0iysLkjc345G4xJyyWbXJOr3aUs2piWI1G/wAX+tsOSUaVbqKkdQsy3JNibHjbt+uMRaquLsQDHX8L5YSRJW6gHOeq9/OnjPuPOCaPL5koqiXpxTRFxzIy6m4Y72IAG4wvnIy8uhNdTFCpCuHOwBOxGnb79++HpKVZZZ2SODW5JclTqb5PfEDxHpiy2olg6XVgkTWVG1ibEHAlTO5ZTn7gV/LrS0eahHSBe3ga7b2GgwIoRUFdlcPUqlgWnZgFKSg3c3NgOdwCeOxw/S1SNNFcjm+DBjOrlqHi9wCpeopbv8G3rSOZjUgsPLkLKQQZNQFh7fJ7YzeZVMMNGkSreM/ksgBJ97jBgw6YWYbRXqEDymU4II/I/9k=
-ogImage: 
+ogImage: null
 labels:
-- Bücher & Filme
-- Journal
-- Kochbuch
-- Moleskine
-- Moleskine Recipe Journal
-- Passion Journals
-- Recipe Journal
-- Rezeptbuch
-- Rezepte
-- Rezepte merken
-- Rezeptsammlung
-- Scrapbook
-- Scrapbooking
+  - Bücher & Filme
+  - Journal
+  - Kochbuch
+  - Moleskine
+  - Moleskine Recipe Journal
+  - Passion Journals
+  - Recipe Journal
+  - Rezeptbuch
+  - Rezepte
+  - Rezepte merken
+  - Rezeptsammlung
+  - Scrapbook
+  - Scrapbooking
 focusKeyword: Moleskine
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Rezepte sammeln wie die Profis
 advertisement: true
 affiliate: true
 
 ---
+
 **Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das Recipe Journal von Moleskine ist genau das Richtige für alle, die sich gerne Rezepte ausdenken und sie nicht mehr vergessen möchten.**
 
 Das Buch zum selber schreiben ist ein Teil der neuen Moleskine Notizbuch-Kollektion "Passion Journals". Zu haben sind sie in den Varianten "Recipe Journal", "Wine Journal", "Wedding Journal", "Baby Journal", "Wellness Journal", Traveler's Journal" und "Book Journal". Es kommen also nicht nur Hobby-Köch\*innen, sondern unter anderem auch Weinkenner, Wellness-Junkies und Buchwürmer auf ihre Kosten.

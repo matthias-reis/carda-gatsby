@@ -1,19 +1,19 @@
 ---
-date: 2019-02-27T16:32:04.000+00:00
-slug: santaverde-pure
-path: '/2019/02/santaverde-pure/'
+date: 2019-02-27T16:32:04.000Z
 type: Artikel
 typeName: Produkttest
 title: Neues von Santaverde
 seoTitle: Neues von Santaverde - pure Naturkosmetik gegen unreine Haut
 ogTitle: Neues von Santaverde - pure Naturkosmetik gegen unreine Haut
-description: Der Frühling ist da. Frische Blüten knospen auf, es duftet, die Sonne scheint und es gibt was Neues von Santaverde - pure Naturkosmetik gegen unreine Haut
-excerpt: Der Frühling ist da. Frische Blüten knospen auf, es duftet, die Sonne scheint und es gibt was Neues von Santaverde!
-fileName: 2019-02---neues-von-santaverde.md
+description: Der Frühling ist da. Frische Blüten knospen auf, es duftet, die
+  Sonne scheint und es gibt was Neues von Santaverde - pure Naturkosmetik gegen
+  unreine Haut
+excerpt: Der Frühling ist da. Frische Blüten knospen auf, es duftet, die Sonne
+  scheint und es gibt was Neues von Santaverde!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFB//EACcQAAIBAwMDBAMBAAAAAAAAAAECAwQFEQAGEgchMRMiQVEjQvBx/8QAFgEBAQEAAAAAAAAAAAAAAAAABQIG/8QAJhEAAQQBAgQHAAAAAAAAAAAAAQACAxExBCEGwdHxEiJBYYGRof/aAAwDAQACEQMRAD8A19+2UXXbEk7kQ3Ohj/CsKB2liB9wkI/VRk/YwdKrIouljoa71wGliHICMZJAwTk+DyB1nU1ypoaCKSCKZZ443Esz44AcTnsPvv3PwNY/Ru+RSbZrKCqk4y0FSy5lbHtcBh5wfJbWA4cfJboyLA59v1J6mNkb7wT8Y7pPtmkjXcF7hkmmmaeYriSfiiAAAAKAAcnzk5+tcW6rx33bW4J5au2erS1DvO0hiBQ+4d0K9lx8EHPfuPOUt43JU0O6r9SLFyiNerllPuA4qQcfOOR0I6hbhe+UwoaC5PPC59Qq5BDOHIBX6UgD6PnOdI6WGVurcJRbT7mgPrKV0xYWuMLvMRWN9vS+iLXDdNTcbdHSXyd2WLIWohyrkMACr4xyH93096E3CSh3VuC1NI8iRx/jck+EcgD/ADDDVq0/DBHGKYKG/LqgZCfFZR7qjfq+g31XRW+ZYXnMbFgoJwyrjyOxyPI+NYcMa0yvJMiNKfBxn+76tWqfG1tUMqHyOxa//9k=
-ogImage:
+ogImage: null
 labels:
   - Aloe Vera
   - der Duft der Orangen
@@ -32,12 +32,11 @@ labels:
   - vegane Naturkosmetik
   - vegane Pflege bei Rosacea
 focusKeyword: Santaverde
-status: publish
 advertisement: true
 affiliate: true
 language: de
-errors: {}
 subTitle: Pure Naturkosmetik für klare Haut
+
 ---
 
 **Der Frühling ist da. Frische Blüten knospen auf, es duftet, die Sonne scheint und es gibt was Neues von Santaverde!**

@@ -1,12 +1,16 @@
 ---
 date: 2021-11-11T11:25:19.862Z
-slug: rongeur-glacier-tongue
 typeName: Review
 title: '"Glacier Tongue"'
 subTitle: Das neue Album von Rongeur
 seoTitle: '"Glacier Tongue" von Rongeur – Sludge Review'
-description: Fans von Bands wie Neurosis und High on Fire und alle, die es gerne roh mögen, sollten das neue Rongeur Album "Glacier Tongue" auf keinen Fall verpassen.
-excerpt: Rongeur haben am 5. November, vier Jahre nach ihrem ersten Album "An Asphyxiating Embrace", eine neue Platte herausgebracht. Fans von Bands wie Neurosis und High on Fire und alle, die es gerne roh mögen, sollten es nicht verpassen, mal in "Glacier Tongue" reinzuhören.
+description: Fans von Bands wie Neurosis und High on Fire und alle, die es gerne
+  roh mögen, sollten das neue Rongeur Album "Glacier Tongue" auf keinen Fall
+  verpassen.
+excerpt: Rongeur haben am 5. November, vier Jahre nach ihrem ersten Album "An
+  Asphyxiating Embrace", eine neue Platte herausgebracht. Fans von Bands wie
+  Neurosis und High on Fire und alle, die es gerne roh mögen, sollten es nicht
+  verpassen, mal in "Glacier Tongue" reinzuhören.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/glacier-tongue-1-jpg-imagine-080808_000000_1024_768/640.webp
 copyright: Rongeur
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/glacier-tongue-fb-png-imagine-080808_5c6d75_1200_628/640.webp
@@ -28,6 +32,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/11/rongeur-glacier-tongue-en/
+
 ---
 
 **Rongeur haben am 5. November, vier Jahre nach ihrem ersten Album "An Asphyxiating Embrace", eine neue Platte herausgebracht. Fans von Bands wie Neurosis und High on Fire und alle, die es gerne roh mögen, sollten es nicht verpassen, mal in "Glacier Tongue" reinzuhören.**

@@ -1,12 +1,17 @@
 ---
 date: 2023-09-22T15:47:28.873Z
-slug: lng-terminal-ruegen-greenpeace
 typeName: Beitrag
 title: Greenpeace kämpft gegen LNG-Terminal auf Rügen
 subTitle: '"Die Planung ist massiv überdimensioniert"'
 seoTitle: Greenpeace fordert Aus für LNG-Terminal in Rügen
-description: Greenpeace geht gemeinsam mit zahlreichen anderen Gruppen und Aktivist*innen gegen das geplante LNG-Terminal in Mukran auf Rügen vor. Hier erfahrt Ihr warum.
-excerpt: Das geplante LNG-Terminal in Mukran auf Rügen wird uns heute wie die neue Freiheit verkauft. Freiheit von  Kohle und Öl und Unabhängigkeit von mächtigen politischen Kräften. In diesem Artikel geht es um die Schattenseiten des Projekts. Greenpeace setzt sich gemeinsam mit zahlreichen weiteren Gruppen und Aktivist*innen gegen das Projekt ein.
+description: Greenpeace geht gemeinsam mit zahlreichen anderen Gruppen und
+  Aktivist*innen gegen das geplante LNG-Terminal in Mukran auf Rügen vor. Hier
+  erfahrt Ihr warum.
+excerpt: Das geplante LNG-Terminal in Mukran auf Rügen wird uns heute wie die
+  neue Freiheit verkauft. Freiheit von  Kohle und Öl und Unabhängigkeit von
+  mächtigen politischen Kräften. In diesem Artikel geht es um die Schattenseiten
+  des Projekts. Greenpeace setzt sich gemeinsam mit zahlreichen weiteren Gruppen
+  und Aktivist*innen gegen das Projekt ein.
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-22/lng-terminal-ruegen-greenpeace-jpg-imagine-080808_204972_1024_768/640.webp
 copyright: Greenpeace
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-22/lng-terminal-ruegen-greenpeace-og-jpg-imagine-080808_204364_1200_628/640.webp
@@ -24,6 +29,7 @@ focusKeyword: LNG-Terminal Rügen
 advertisement: false
 affiliate: true
 language: de
+
 ---
 
 **Das geplante LNG-Terminal in Mukran auf Rügen wird uns heute wie die neue Freiheit verkauft. Freiheit von Kohle und Öl und Unabhängigkeit von mächtigen politischen Kräften. In diesem Artikel geht es um die Schattenseiten des Projekts. Greenpeace setzt sich gemeinsam mit zahlreichen weiteren Gruppen und Aktivist\*innen gegen das Projekt ein.**

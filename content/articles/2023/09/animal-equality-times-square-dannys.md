@@ -1,12 +1,17 @@
 ---
 date: 2023-09-01T12:24:24.021Z
-slug: animal-equality-times-square-dannys
 typeName: Beitrag
 title: Animal Equality überzeugt eingefleischte Bacon-Fans
 subTitle: Tierrechts-Video am Times Square
 seoTitle: Animal Equality USA startet starke Kampagne am Times Square
-description: Animal Equality USA startete jetzt eine spektakulären neuen Kampagne gegen die Ausbeutung schwangerer Schweine – am  Times Square. Lest jetzt alles über die Hintergründe.
-excerpt: Animal Equality USA regte jetzt die Tierrechtsdebatte mit einer spektakulären neuen Kampagne an. Mitten am weltberühmten New Yorker Times Square zwischen all den Werbeplakaten und bunt blinkenden Slogans spielte die Organisation ein Video ein, das auf die Missstände bei der amerikanischen Fastfood-Kette Denny's hinweist.
+description: Animal Equality USA startete jetzt eine spektakulären neuen
+  Kampagne gegen die Ausbeutung schwangerer Schweine – am  Times Square. Lest
+  jetzt alles über die Hintergründe.
+excerpt: Animal Equality USA regte jetzt die Tierrechtsdebatte mit einer
+  spektakulären neuen Kampagne an. Mitten am weltberühmten New Yorker Times
+  Square zwischen all den Werbeplakaten und bunt blinkenden Slogans spielte die
+  Organisation ein Video ein, das auf die Missstände bei der amerikanischen
+  Fastfood-Kette Denny's hinweist.
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-01/animal-equality-usa-dannys-jpg-imagine-f8f8f8_7b716d_1024_768/640.webp
 copyright: Animal Equality
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-01/animal-equality-usa-dannys-og-jpg-imagine-f8f8f8_8d8582_1200_628/640.webp
@@ -21,6 +26,7 @@ focusKeyword: Animal Equality Times Square
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Animal Equality USA regte jetzt die Tierrechtsdebatte mit einer spektakulären neuen Kampagne an. Mitten am weltberühmten New Yorker Times Square zwischen all den Werbeplakaten und bunt blinkenden Slogans spielte die Organisation ein Video ein, das auf die Missstände bei der amerikanischen Fastfood-Kette Denny's hinweist.**

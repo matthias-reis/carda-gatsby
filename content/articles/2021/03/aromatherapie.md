@@ -1,17 +1,17 @@
 ---
-date: 2021-03-22T09:55:11.000+00:00
-slug: aromatherapie
-path: '/2021/03/aromatherapie/'
+date: 2021-03-22T09:55:11.000Z
 title: Aromatherapie
 seoTitle: Aromatherapie - Mit ätherischen Ölen das Wohlbefinden steigern
 ogTitle: Aromatherapie - Wohlfühlen mit ätherischen Ölen
-description: Mit Aromatherapie könnt Ihr Euer Wohlbefinden steigern und unter Umständen sogar bestimmte Symptome wie beispielsweise Kopfschmerzen lindern
-excerpt: 'Aromatherapie – was nach Wellness im Kurort klingt, könnt Ihr mit ein paar Tricks und Kniffen daheim ausprobieren. Macht Euch bereit: Euch erwartet die pure Entspannung – und zwar ganz ohne Ortswechsel und Reisekosten.'
-fileName: 2021-03---aromatherapie.md
+description: Mit Aromatherapie könnt Ihr Euer Wohlbefinden steigern und unter
+  Umständen sogar bestimmte Symptome wie beispielsweise Kopfschmerzen lindern
+excerpt: "Aromatherapie – was nach Wellness im Kurort klingt, könnt Ihr mit ein
+  paar Tricks und Kniffen daheim ausprobieren. Macht Euch bereit: Euch erwartet
+  die pure Entspannung – und zwar ganz ohne Ortswechsel und Reisekosten."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-21-edel-naturwaren-3__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBP/EACgQAAEDAwMDBAMBAAAAAAAAAAECAxEABAUGEiEHIjETQVFhFSPwMv/EABYBAQEBAAAAAAAAAAAAAAAAAAECBP/EABoRAAMBAQEBAAAAAAAAAAAAAAABAjEDERL/2gAMAwEAAhEDEQA/ALKyoqUlPyYpJ6cdVsdrbUFziWcZf2DjDCn/AFHilQWErCSAB79wpxachEgpkc+KjFp0qcxORyTmM1Dd2dxdS2XmLdDa2wVhztIVKZ2x2kccVH0hUsfOpfVDF6ByNlZXdjkL9d0wbgG3CE7E7ynkE/VOj6+4xULyfTy1yj2Oa1PqnIXzzMJZeeLZWQtW4oKiFFQBHEkgSauJTt3gmYMeB7Ch0tKcP3wyI3hMlIiPI/v77pEubrV/5C4dtsbiv1rKketdKhYmEbgEApBG7iSZ9qKKyV0qcNMwq0zA68XdsvItsJYgJQFsJddUGgP8wQO4mTIMR81Sw4VJVuKeV7ZHMqPmiiielVpVQlh//9k=
-ogImage:
+ogImage: null
 labels:
   - Achtsamkeit
   - Aroma-Öle
@@ -28,14 +28,13 @@ labels:
   - Ylang Ylang
   - Ylang Ylang-Öl
 focusKeyword: Aromatherapie
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Wohlfühlen mit ätherischen Ölen
 advertisement: true
 affiliate: true
+
 ---
 
 **Aromatherapie – was nach Wellness im Kurort klingt, könnt Ihr mit ein paar Tricks und Kniffen daheim ausprobieren. Macht Euch bereit: Euch erwartet die pure Entspannung – und zwar ganz ohne Ortswechsel und Reisekosten.**

@@ -1,12 +1,16 @@
 ---
 date: 2022-01-18T16:10:50.745Z
-slug: wanheda-interview
 typeName: Interview
 title: '"Desert of Real"'
 subTitle: Jan von Wanheda im Interview
 seoTitle: Wanheda – "Desert of Real" – Post-Rock Interview
-description: Mit dem neuen Album "Desert of Real" möchte das belgische Post-Rock Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart hinterfragen.
-excerpt: Mit dem neuen Album "Desert of Real" möchte das belgische Post-Rock Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart hinterfragen. Es ist damit eine indirekte Fortsetzung der 2018 unabhängig davon veröffentlichten EP "Cenozoic Explosion".
+description: Mit dem neuen Album "Desert of Real" möchte das belgische Post-Rock
+  Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart
+  hinterfragen.
+excerpt: Mit dem neuen Album "Desert of Real" möchte das belgische Post-Rock
+  Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart
+  hinterfragen. Es ist damit eine indirekte Fortsetzung der 2018 unabhängig
+  davon veröffentlichten EP "Cenozoic Explosion".
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-jpg-imagine-080808_433e31_1024_768/640.webp
 copyright: Wanheda
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-18/wanheda-interview-fb-png-imagine-080808_3b2c18_1200_628/640.webp
@@ -26,6 +30,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/01/wanheda-interview-en/
+
 ---
 
 **Mit dem neuen Album "Desert of Real" möchte das belgische Post-Rock Kollektiv Wanheda die Eitelkeit und Egozentrik der Menschheit in der Gegenwart hinterfragen. Es ist damit eine indirekte Fortsetzung der 2018 unabhängig davon veröffentlichten EP "Cenozoic Explosion".**

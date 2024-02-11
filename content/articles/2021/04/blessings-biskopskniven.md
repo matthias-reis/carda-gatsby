@@ -1,6 +1,5 @@
 ---
 date: 2021-04-27T16:16:36.963Z
-slug: blessings-biskopskniven
 typeName: Review
 title: '"Biskopskniven" von Blessings'
 subTitle: Post-Hardcore vom Feinsten
@@ -36,7 +35,9 @@ focusKeyword: Biskopskniven
 affiliate: false
 language: de
 languageLink: /2021/04/blessings-biskopskniven-en
+
 ---
+
 **Von Blessings erscheint am 21. Mai ein neues musikalisches Highlight aus der Post-Music Ecke. Verantwortlich für das neue Album "Biskopskniven" ist das The Ocean Label Pelagic Records. Ich habe schon mal reingehört.**
 
 Das erste Stück trägt den Namen "The Hound". Es geht gleich mal so richtig unter die Haut – Post-Hardcore, wie wir ihn lieben und wie wir ihn uns gewünscht haben. Der Gesang bauscht sich auf, um dann von heulenden Lauten abgebrochen zu werden. Ein wildes und spannendes Spiel beginnt – kurz und prägnant. Das Statement kommt an. Helle und harte Gitarrenklänge mischen mich mit Shouts, die ins Ohr gehen – aus beiden Richtungen und wunderbar spannend akzentuiert. Irgendwann verlangsamt sich das Tempo auf ein Minimum und erstickt schließlich im anständigen Chaos des Breakdowns von "Strings Of Read", dem zweiten Song auf der Platte.

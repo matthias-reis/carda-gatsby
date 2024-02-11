@@ -1,12 +1,16 @@
 ---
 date: 2022-12-21T16:50:42.592Z
-slug: bank-myna-interview-en
 typeName: Interview
 title: Bank Myna Singer Maud
 subTitle: '"There are exciting times ahead of us!"'
 seoTitle: Interview with Bank Myna singer Maud – Paris post-rock
-description: '"There are exciting times ahead of us!" says Bank Myna singer Maud. Here is why.'
-excerpt: Bank Myna singer Maud texted me to ask me about an interview. That's when I first came in contact with their music. When I listened to their songs, it felt a bit like coming home or arriving at some place I had missed for a long time. Kind of like something that's been apart for quite a while is now whole and put into place again.
+description: '"There are exciting times ahead of us!" says Bank Myna singer
+  Maud. Here is why.'
+excerpt: Bank Myna singer Maud texted me to ask me about an interview. That's
+  when I first came in contact with their music. When I listened to their songs,
+  it felt a bit like coming home or arriving at some place I had missed for a
+  long time. Kind of like something that's been apart for quite a while is now
+  whole and put into place again.
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-jpeg-imagine-080808_111717_1200_919/640.webp
 copyright: Bank Myna
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-og-jpg-imagine-080808_101616_1200_628/640.webp
@@ -25,6 +29,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/12/bank-myna-interview/
+
 ---
 
 **Bank Myna singer Maud texted me to ask me about an interview. That's when I first came in contact with her band's music. When I listened to Bank Myna's songs, it felt a bit like coming home or arriving at some place I had missed for a long time. Kind of like something that's been apart for quite a while is now whole and put into place again.**

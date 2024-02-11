@@ -1,48 +1,44 @@
 ---
-date: 2017-12-27T09:28:03.000+00:00
-slug: alkmene-der-ultimative-produkttest
-path: "/2017/12/alkmene-der-ultimative-produkttest/"
+date: 2017-12-27T09:28:03.000Z
 type: Artikel
 typeName: Produkttest
 title: Alkmene im Test
 seoTitle: Alkmene - Natürliche Pflegeprodukte auf dem Prüfstand
 ogTitle: alkmene - Natürliche Pflegeprodukte auf dem Prüfstand
-description: Ich habe die natürlichen Pflegeprodukte aus dem Hause Alkmene jetzt einem
-  Test unterzogen. Meinen Bericht möchte ich mit Euch teilen.
-excerpt: Ich habe die natürlichen Pflegeprodukte aus dem Hause Alkmene jetzt einem
-  Test unterzogen. Meinen Bericht möchte ich mit Euch teilen.
-fileName: 2017-12---alkmene-im-test.md
+description: Ich habe die natürlichen Pflegeprodukte aus dem Hause Alkmene jetzt
+  einem Test unterzogen. Meinen Bericht möchte ich mit Euch teilen.
+excerpt: Ich habe die natürlichen Pflegeprodukte aus dem Hause Alkmene jetzt
+  einem Test unterzogen. Meinen Bericht möchte ich mit Euch teilen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_DSC01973_0__A5.6_T1-80s-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_DSC01973_0__A5.6_T1-80s-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYI/8QAKxAAAgEDAwMDAgcAAAAAAAAAAQIDBAURAAYSByExE0GRImEIFBZRcaHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAHxEBAAICAQUBAAAAAAAAAAAAAQACAxExISJBcaHB/9oADAMBAAIRAxEAPwDn+3Wt59l1Vy9BOJr4KaKRiATJxcuo98YZCfbxqymscrSw2pXgWuWocSRyNhoSqFeLnwMsDjufY+CNWfTmx/qO3PaKm7zU9HEr18MUQVg8h4I3YnyBjx9tNCz7K2nSXWqFwp2uSRflzNWVAeQNKUJlUsBjkOx457Z1KyNMU+ytrVG8L5R0lFJTQpNFMY5agkIWROTDsCR2YDx5Gp796WXfa9plu1XPbZKJXVOdPVhyWY4AC4BPg/Gnvs2r2zTUtju6Q0FKkhaGGRYF5/V6nbkozgKAME6X34mdw09ZQ2S3UFRFUQyM9VI8TZUlfoHwS4x+40K326m2OE4iHp6iVFKxvxGD/v6GnJtDrULTs9bZdLe1fUQq9PFGjCGFoXUhhIqjDYyPucnJ0aNNrW3Sxvj47IseRxq18zC9PdzzbXu1TUUUNI8tTC8CpUw+qqK3ckZ8HAx475/nWdutzrbtKk1wqHmdEEacj2Rck8QPYZJ+dGjRKhZZJ2D7/J//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_12_DSC01973_0__A5.6_T1-80s-1__l.jpg
 labels:
-- alkemene
-- beauty
-- Bio
-- Biokosmetik
-- Duschgel
-- Fair Fashion & Beauty
-- Haarpflege
-- Haarspülung
-- Handcreme
-- Kosmetik
-- Pflege
-- Shampoo
-- vegan beauty
-- vegane Haarspülung
-- vegane Kosmetik
-- Wellness
+  - alkemene
+  - beauty
+  - Bio
+  - Biokosmetik
+  - Duschgel
+  - Fair Fashion & Beauty
+  - Haarpflege
+  - Haarspülung
+  - Handcreme
+  - Kosmetik
+  - Pflege
+  - Shampoo
+  - vegan beauty
+  - vegane Haarspülung
+  - vegane Kosmetik
+  - Wellness
 focusKeyword: alkmene
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Natürliche Pflege für Körper und Haar
 advertisement: true
 
 ---
+
 **Ich habe Alkmene getestet. Zu welchem Ergebnis ich dabei gekommen bin, möchte ich Euch heute gerne erzählen. Auf den Prüfstand kamen ein Shampoo, eine Haarspülung sowie ein Duschgel und eine Handcreme.**
 
 Vor Kurzem lief ich bei uns durch den Drogeriemarkt und war verzückt: Eine für mich neue vegane Produktserie aus natürlichen Zutaten war in die Regale eingezogen: Alkmene.

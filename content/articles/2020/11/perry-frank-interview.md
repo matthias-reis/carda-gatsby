@@ -4,17 +4,12 @@ excerpt: Francesco Perra startete sein Ambient/Post-Rock/Acoustic/Psychedelic
   Projekt Perry Frank im Jahr 2005. Heute erscheint seine neue Single.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank-fb.png__l.jpg
 isAffiliate: false
-path: /2020/11/perry-frank-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAQj/xAAnEAACAQQBAgUFAAAAAAAAAAABAgMABAUREiExBhMUUXEHFTKR0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDmOmOCw93nL9LLHRvLdSfgirvf8pdVr9OcpZ4y7gleK5e6FyvMRTCLcXYjkdAb3rr70E5l8Jf4nMS4u7hPrY5PKaNNk8unb52OtL5Y3ileOVGSRGKsjDRUjuCKucl4lTD+Jrv7fHcOBwi53mnlUBdFW99E1P8AjHJ2mXzHqrKJkHlKkjsADK47tofr4AoElarFTtSQaKKAZizFmOyeprKKKD//2Q==
 typeName: Interview
 isWerbung: false
-fileName: 2020-11---perry-frank.md
-slug: perry-frank-interview
-errors: {}
 date: 2020-11-09T15:16:58.000Z
 focusKeyword: Perry Frank
 languageLink: /2020/11/perry-frank-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_perry-frank__m.jpg
 title: Perry Frank
@@ -35,7 +30,9 @@ labels:
   - Perry Frank
   - Post-Rock
   - Sardinien
+
 ---
+
 **Francesco Perra startete sein Ambient/Post-Rock/Acoustic/Psychedelic Projekt Perry Frank im Jahr 2005. Vom Tag der Gründung an veröffentlichte er die verschiedensten Werke. Ich habe ihn jetzt interviewt, um ihn und seine Kunst besser kennenzulernen.**
 
 Von der Ein-Mann-Band Perry Frank gibt es bisher die drei Alben "Music To Disappear"(2012), "The Neptune Sessions" (2013), and "Soundscape Box 1" (2014). Francesco arbeitete außerdem bereits mit Künstler\*innen Chords of Orion, Monochrome Season, PCM, Enrico Venturini, Matteo Cantaluppi, Make Like a Tree und Andrea Carri zusammen. Seine vom frühen Post-Rock und Drone beeinflusste Musik ist nicht sehr Genre-bezogen. Es ist schwierig, sie in eine Schublade zu stecken. Im Juli 2020 veröffentlichte er sein neues Album "Reverie" beim in New York beheimateten Label Dynamo Tapes. Heute ist seine Single "Today Is Long Gone" in allen digitalen Stores erschienen.

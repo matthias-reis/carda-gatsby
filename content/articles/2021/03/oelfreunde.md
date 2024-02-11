@@ -1,57 +1,54 @@
 ---
-date: 2021-03-30T15:53:48.000+00:00
-slug: oelfreunde
-path: "/2021/03/oelfreunde/"
+date: 2021-03-30T15:53:48.000Z
 type: Artikel
 typeName: Produkttest
 title: Die Ölfreunde
 seoTitle: Die Ölfreunde – Kaltgepresste Öl-Spezialitäten seit 2019
 ogTitle: Die Ölfreunde – Kaltgepresste Öl-Spezialitäten seit 2019
-description: Kennt Ihr die Ölfreunde? Der Familienbetrieb liefert leckere kaltgepresste
-  Öle. Ich habe sie probiert und mir das Start-up mal angeschaut.
-excerpt: Kennt Ihr die Ölfreunde? Der Familienbetrieb liefert leckere kaltgepresste
-  Öle. Ich habe sie probiert und mir das Start-up mal angeschaut. Gründer Paul ist
-  die Qualität besonders wichtig. Er möchte ausschließlich gesunde Produkte ohne Schnickschnack
-  verkaufen. Was ihm außerdem am Herzen liegt, ist die Umwelt
-fileName: 2021-03---die-oelfreunde.md
+description: Kennt Ihr die Ölfreunde? Der Familienbetrieb liefert leckere
+  kaltgepresste Öle. Ich habe sie probiert und mir das Start-up mal angeschaut.
+excerpt: Kennt Ihr die Ölfreunde? Der Familienbetrieb liefert leckere
+  kaltgepresste Öle. Ich habe sie probiert und mir das Start-up mal angeschaut.
+  Gründer Paul ist die Qualität besonders wichtig. Er möchte ausschließlich
+  gesunde Produkte ohne Schnickschnack verkaufen. Was ihm außerdem am Herzen
+  liegt, ist die Umwelt
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-30-oelfreunde-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-30-oelfreunde-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUIBwb/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREABhIHEyEUIkFRFjEjYfH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwABBP/EABoRAAIDAQEAAAAAAAAAAAAAAAECABESITH/2gAMAwEAAhEDEQA/AN26iXwWnZ95rmqGgWnp2cyr5K+R/mkVn3CavYtluxqKh4fSw1MkiDDygKcjGPkgZGub6lbbruotJNbrbe1t1LSpHNKGhduZYyDzggY9oPn61OOzX3NPJdLJteumucKdx4AsnAMFkRFeMM4ALFlODn48HQMO2JFPKMqnbu86DcNpprg9a0K1ULRdgN2ivvJzkkecYzj9Z/vXcWu6RTxKYJopY19vKOQOAQP1kE6ijptaKKsuFzo96Q0/8EJgpFr6jgqSq45hQHGTkjIB+dUB0elssH5LFYI6SltkVxSKPsueEjLCodgSTkcsgEePGrUZNH2Gy2uhH3VLZ9yuVnlexQS1INK8fpoK5qN2bkuE5DClcGTPI/X3rANu7J3htmshhgor5ZpYKGRJ65LdJVI87yK/bxEG9gCrh8Ecl+saNGjBoiKC+mKa/prumtjgo0s9/uCwTSSrUCh7KMJCCeKy8WJ9uT9Hxrc+kWzpNsbVja/Q+llhlkK07OjMYfGBJxJUMSTkZOMgfGjRpbnTWZoVyqZE/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_oelfreunde-fb.png__l.jpg
 labels:
-- Bruschetta
-- Chiliöl
-- Dressing
-- Ernährung & Gesundheit
-- Fettsäuren
-- Hanf
-- Hanföl
-- Hanfprotein
-- Leindotteröl
-- Leinöl
-- Öl
-- Ölfreunde
-- Ölmühle
-- Omega-3
-- Omega-3 vegan
-- Omega-3-Fettsäuren
-- Omega-6
-- Protein
-- Rapsöl
-- Schwarzkümmel
-- Schwarzkümmelöl
-- Speiseöl
-- Würzöl
+  - Bruschetta
+  - Chiliöl
+  - Dressing
+  - Ernährung & Gesundheit
+  - Fettsäuren
+  - Hanf
+  - Hanföl
+  - Hanfprotein
+  - Leindotteröl
+  - Leinöl
+  - Öl
+  - Ölfreunde
+  - Ölmühle
+  - Omega-3
+  - Omega-3 vegan
+  - Omega-3-Fettsäuren
+  - Omega-6
+  - Protein
+  - Rapsöl
+  - Schwarzkümmel
+  - Schwarzkümmelöl
+  - Speiseöl
+  - Würzöl
 focusKeyword: Ölfreunde
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Kaltgepresste Öl-Spezialitäten seit 2019
 advertisement: true
 
 ---
+
 **Kennt Ihr schon die Ölfreunde? Der Familienbetrieb um Teenager Paul liefert leckere kaltgepresste Öle. Ich habe sie probiert und mir das Start-up mal genauer angeschaut.**
 
 Ansässig sind die Ölfreunde im Herzen des Naturparks Obere Donau. In der Manufaktur werden regionale Saaten in schonender Verarbeitung und ohne Zusatzstoffe zu hochwertigen Ölen gepresst.

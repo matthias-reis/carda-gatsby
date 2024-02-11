@@ -1,17 +1,18 @@
 ---
-date: 2018-04-26T06:59:28.000+00:00
-slug: 5-alben-im-april
-path: '/2018/04/5-alben-im-april/'
+date: 2018-04-26T06:59:28.000Z
 title: 5 Alben im April
 seoTitle: 5 Alben im April - Ich stelle Euch meine musikalischen Favoriten vor
 ogTitle: 5 Alben im April - Ich stelle Euch meine musikalischen Favoriten vor
-description: Der April ist ein sehr musikalischer Monat. Zahlreiche tolle Alben haben das Licht der Welt erblickt. Ich stelle Euch heute meine fünf Favoriten vor.
-excerpt: Der April ist ein sehr musikalischer Monat. Zahlreiche tolle Alben haben das Licht der Welt erblickt. Ich stelle Euch heute meine fünf Favoriten vor.
-fileName: 2018-04---5-alben-im-april.md
+description: Der April ist ein sehr musikalischer Monat. Zahlreiche tolle Alben
+  haben das Licht der Welt erblickt. Ich stelle Euch heute meine fünf Favoriten
+  vor.
+excerpt: Der April ist ein sehr musikalischer Monat. Zahlreiche tolle Alben
+  haben das Licht der Welt erblickt. Ich stelle Euch heute meine fünf Favoriten
+  vor.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_Alben-im-April__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_Alben-im-April__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgME/8QAKRAAAQQBAwMDBAMAAAAAAAAAAQIDBBEFAAYSByFhEzFBFCIjoTIzUf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAyEEIjHR/9oADAMBAAIRAxEAPwCi9QMpuiLu7GsYZTzcNZSnikI/KDRUfezXnj7eb1n1U3lK225g4rOOVkXpzoQ3BU8GQ64bJK/hQSEVwviVLFnsNTXL78zzeTkImqaLimwVK+lCOSFJoeyuNEdr8/5rg3Lmchv/ABrOL3MzHksiSkxzEjJRIAVxpCTZ+42AQPcgaxwPjCuw0RKNyceXohsj0VVfY7Tep2YyuxN0PSYsvCLx8yNEWmA4hySy2XmgpSTXFKlNuVVmiDR70FTae/Zm2ckwcdkFTG8lkExX2pshTqVOqWgqWlBIUhXE1yVV3/Ekdmjon6m1pr+AxbTbcC33nUvMASC6iqC1eKIqu2mfC4zbUXfD8/H4Fg5SWVS3Jbh9T0XSOSihKieBN9yn5VpTuTsXUiUZrHZfHty5MEoV9KFlLL6kBQs2D++/wDWt23ec7c2EkJdca9GawUovkPtUK/Q0aNO7MVomBVUGwI+7Faca6rZdxT61h5cxziQKBsapMPEsxcvKntkcn2m2UpI/rCSSaPkkdvGjRpV8EJG5/9k=
-ogImage:
+ogImage: null
 labels:
   - A Perfect Circle
   - Aaron Dressner
@@ -41,12 +42,11 @@ labels:
   - Playlist
   - serie:Playlists 2018
 focusKeyword: Alben
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Musikalischen Favoriten
+
 ---
 
 **Der April ist in diesem Jahr ein sehr musikalischer Monat. Viele Bands haben neue Alben veröffentlicht und einige stehen kurz davor. Eine davon zählt zu meinen absoluten Favoriten und hat zum Glück bereits zwei Vorveröffentlichungen ins Netz gestellt, die bei mir jetzt hoch und runterlaufen. Mit den Irischen Post-Rockern möchte ich auch gerne meine kleine aber feine Liste einläuten.**

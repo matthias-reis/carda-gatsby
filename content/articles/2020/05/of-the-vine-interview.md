@@ -1,15 +1,16 @@
 ---
-date: 2020-05-28T13:17:45.000+02:00
-slug: of-the-vine-interview
-path: '/2020/05/of-the-vine/'
+date: 2020-05-28T11:17:45.000Z
 type: Artikel
 typeName: Interview
 title: Of the Vine
 seoTitle: Of the Vine über ihr neues Album "Left Alone" - Interview
 ogTitle: Of the Vine über ihr neues Album "Left Alone" - Interview
-description: Of the Vine sind eine von mir hoch geschätzte Post-Rock-Band. Ich hatte die Gelegenheit, mit Gitarrist Samuel über das neue Album "Left Alone" zur reden.
-excerpt: Of the Vine sind eine von mir hoch geschätzte Post-Rock-Band. Ich hatte die Gelegenheit, mit Gitarrist Samuel über das neue Album "Left Alone" zur reden.
-fileName: 2020-05---of-the-vine.md
+description: Of the Vine sind eine von mir hoch geschätzte Post-Rock-Band. Ich
+  hatte die Gelegenheit, mit Gitarrist Samuel über das neue Album "Left Alone"
+  zur reden.
+excerpt: Of the Vine sind eine von mir hoch geschätzte Post-Rock-Band. Ich hatte
+  die Gelegenheit, mit Gitarrist Samuel über das neue Album "Left Alone" zur
+  reden.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_of-the-vine__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQGB//EACUQAAIBAwQCAgMBAAAAAAAAAAECAwAEEQUSITETQQZRMmFxof/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOQafpl1d2lxPAjtDAcFnYpk8naM4ycDPFP0jRZ9UmkBeOBI8Zeb8RnrjOSf0ATyOKuaLrscUMFkyhbe2kklG9fJ5pW4XI4OAoHRHRqprN7YSWMZ0xhBJASpUnO9S2cj2pzk+++60y0HxG+l0qz2JJbSpHd+Yq4YMAVaMlAPeMtg89cUnyTVbjWNMvUvGslKSB4lSUvIQCVwc9Z799eqx91qkt14POVUxJsV4gFPZ7+++/8Aao3Lgz7w7Nu53N2CTzQEu4XLqXG5GxuXvI+jUbklssc80UVFMxljip4xGYwsiPuY8N1j+fdFFB//2Q==
@@ -27,13 +28,12 @@ labels:
   - Of the Vine
   - Post-Rock
 focusKeyword: Of The Vine
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Auf der Bühne leben wir unsere Kindheitsträume"'
-languageLink: '/2020/05/of-the-vine-interview-en'
+languageLink: /2020/05/of-the-vine-interview-en
+
 ---
 
 **Of the Vine sind eine von mir hoch geschätzte Post-Rock-Band. Ich hatte jetzt die Gelegenheit, Gitarrist Samuel Laubscher zu interviewen.**

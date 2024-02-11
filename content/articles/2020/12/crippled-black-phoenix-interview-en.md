@@ -14,7 +14,6 @@ labels:
   - Progressive
   - Bristol
 language: en
-slug: crippled-black-phoenix-interview-en
 typeName: Interview
 title: Interview with Crippled Black Phoenix
 subTitle: '"We are sure as hell going to try"'
@@ -35,6 +34,7 @@ focusKeyword: Crippled Black Phoenix
 advertisement: false
 affiliate: false
 languageLink: /2020/12/crippled-black-phoenix-interview
+
 ---
 
 **Crippled Black Phoenix is one of the bands who always know how to impress me – Most recently with their current album "Ellengæst". Now I could arrange an interview with songwriter and singer Belinda Kordic and bandleader Justin Greaves via video call.**

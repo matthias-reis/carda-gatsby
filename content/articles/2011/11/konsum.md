@@ -1,15 +1,16 @@
 ---
 date: 2011-11-23T22:00:52.000Z
-slug: konsum
-path: /2011/11/konsum/
 type: Artikel
 typeName: Kurzgeschichte
 title: Konsum
 seoTitle: Konsum - eine kurze Geschichte aus dem Alltagsleben
 ogTitle: Konsum - eine kurze Geschichte aus dem Alltagsleben
-description: Aus Versehen hast Du Klopapier mit Weihnachtsduft gekauft. Warum nur wird so etwas hergestellt? Es wird nun zum Auswischen der Katzentoilette verwendet.
-excerpt: Aus Versehen hast Du Klopapier mit Weihnachtsduft gekauft. Warum nur wird so etwas hergestellt? Es wird nun zum Auswischen der Katzentoilette verwendet, um Allergien zu vermeiden.
-fileName: 2011-11---konsum.md
+description: Aus Versehen hast Du Klopapier mit Weihnachtsduft gekauft. Warum
+  nur wird so etwas hergestellt? Es wird nun zum Auswischen der Katzentoilette
+  verwendet.
+excerpt: Aus Versehen hast Du Klopapier mit Weihnachtsduft gekauft. Warum nur
+  wird so etwas hergestellt? Es wird nun zum Auswischen der Katzentoilette
+  verwendet, um Allergien zu vermeiden.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_11_img_2654__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_11_img_2654__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURAAYSITETIkEHIzJRYoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABoRAQADAQEBAAAAAAAAAAAAAAEAAhEhQSL/2gAMAwEAAhEDEQA/AF1Hs9LLNLuS81MFVboHc8YZFZGJBCGR28cvAUKSSfI860TZtet3IpVSmKxrH60MNS5KBQCOyAyoRxXAOD7gRpFsZLFVOIaa+VdfVUrFONTMtLHIrAlogrHMkeQOypx1/RBc7LZ7xV0u35nWt5o9QqzGSOYr7WhVyueIZ8kjskHB+NSPnHyVVtp7H1z21T3G4tDabFQW9Q8kdRXyzAhlHDLKvu/jxJwVwegNPNh3a222lloKeoaoZV5t6SEoCDjAb8S3YyF66yNVm7bwrrJe2pdxUSNbnjVZBRkiNSBkEM2OWQR7Rjx86m2U1NHuGqpLFUx1tCaYSjP2+IbMhBUdcgSM466HXWiIW0gxa9mO36gW132NRIzlpBIGUcCo5EYB/eB51LU1FNTRTx0lEkTyiRlkLklY1lJVMdDORksAM/rRo1ntzSaa9Blirt03B7RXWKYpNQS8jH6uWeE5RxxOfA5MPHz513/SFma9yktj1AUPEYyp4kgnz31/mjRp6OpsSwA5P//Z
@@ -29,13 +30,12 @@ labels:
   - Punsch
   - Verstehen
   - Weihnachtsmarkt
-focusKeyword: ''
-status: publish
+focusKeyword: ""
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Eine Geschichte aus dem Leben
+
 ---
 
 Warum der Trend bei gut betuchten Damen mittleren Alters zu immer größeren, sperrigeren Autos mit immer höherem Benzinverbrauch geht, mit denen sie im Feierabendverkehr zum Einkaufen aufbrechen und Ihre Kinder vom Gesangsunterricht abholen, muss sich einem nicht erschließen.

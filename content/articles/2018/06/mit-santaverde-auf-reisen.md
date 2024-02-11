@@ -1,19 +1,18 @@
 ---
-date: 2018-06-15T06:49:02.000+00:00
-slug: mit-santaverde-auf-reisen
-path: '/2018/06/mit-santaverde-auf-reisen/'
+date: 2018-06-15T06:49:02.000Z
 type: Artikel
 typeName: Produkttest
 title: Mit Santaverde auf Reisen
 seoTitle: Mit Santaverde auf Reisen - Urlaubsbegleiter aus der Beauty-Ecke
 ogTitle: Mit Santaverde auf Reisen - Urlaubsbegleiter aus der Beauty-Ecke
-description: Wir gehen in Kürze wieder auf Reisen. Heute stelle ich Euch zwei meiner Urlaubsbegleiter vor. sie sind von Santaverde und besonders reizarm.
-excerpt: Wir gehen in Kürze wieder auf Reisen. Heute stelle ich Euch zwei meiner Urlaubsbegleiter vor. sie sind von Santaverde und besonders reizarm.
-fileName: 2018-06---mit-santaverde-auf-reisen.md
+description: Wir gehen in Kürze wieder auf Reisen. Heute stelle ich Euch zwei
+  meiner Urlaubsbegleiter vor. sie sind von Santaverde und besonders reizarm.
+excerpt: Wir gehen in Kürze wieder auf Reisen. Heute stelle ich Euch zwei meiner
+  Urlaubsbegleiter vor. sie sind von Santaverde und besonders reizarm.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_28936663148_eddc48a424_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_28936663148_eddc48a424_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACkQAAIBAgYBAwQDAAAAAAAAAAECAwQRAAUGEiExE0FhgSJCUXEyobH/xAAZAQACAwEAAAAAAAAAAAAAAAABAwIEBQb/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIDBBEhEjGhBRNRYfD/2gAMAwEAAhEDEQA/ANAyuWc0TVCUtH4wm0B4u9xsbH2A49zhGZ5+2mtKvVx5ea5mkWIQqxaRBa3NgxNiOQPza+K9ledQRRHaplYsoCXBY2Itz0ALf7hGfy01W1GIY1Dorgk25u3p/eOVoa6SWdsRGHb+cDj72iwB2E80lrWq1BWV1HUaZqsuigo2KVFTuHkJb+HKjns+vWJqqgF1hYmMJsY8i33D9+n64xUMszCamzaqlrJac0lTtihGz61a3JY/Hxidqs1iathckCNZLhma3Q5B9r8/GKnVbMqe20WbYcotsVhuWakdI1tJIXCb2MbW2Hcej10LYaNrCuh3zRzJAY2upaETEA9ggnjv07wYMbMELGSagMpTMG4XTPdcUValKMuSaGWOfzFmQL2CPyebnCjqszKV89lje5+3abc/FyORgwYdV07JDqcMqbtl/9k=
-ogImage:
+ogImage: null
 labels:
   - Aloe Vera
   - empfindliche Haut
@@ -32,12 +31,11 @@ labels:
   - vegane Kosmetik
   - vegane Naturkosmetik
 focusKeyword: Santaverde
-status: publish
 advertisement: true
 affiliate: true
 language: de
-errors: {}
 subTitle: Urlaubsbegleiter aus der Beauty-Ecke
+
 ---
 
 **Wir gehen in Kürze wieder auf Reisen. Wir mieten ein Auto und fahren los. Wo genau es hingehen wird, verrate ich Euch später, was ich mitnehme, erfahrt Ihr schon heute.**

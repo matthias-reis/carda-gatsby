@@ -1,15 +1,14 @@
 ---
 date: 2015-08-12T16:20:05.000Z
-slug: green-haven-hamburg-gruenderin-christiane
-path: /2015/08/green-haven-hamburg-gruenderin-christiane/
 type: Artikel
 typeName: Interview
 title: Green Haven Hamburg Gründerin Christiane
 seoTitle: Green Haven Hamburg Gründerin Christiane im Interview
 ogTitle: Green Haven Hamburg Gründerin Christiane im Interview
-description: Vor Kurzem eröffnete mit dem Green Haven Hamburgs erste rein vegane Unterkunft. Das Green Haven bietet auch veganes Frühstück an.
-excerpt: Vor Kurzem eröffnete mit dem Green Haven Hamburgs erste rein vegane Unterkunft. Das Green Haven bietet auch veganes Frühstück an.
-fileName: 2015-08---green-haven-hamburg-gruenderin-christiane.md
+description: Vor Kurzem eröffnete mit dem Green Haven Hamburgs erste rein vegane
+  Unterkunft. Das Green Haven bietet auch veganes Frühstück an.
+excerpt: Vor Kurzem eröffnete mit dem Green Haven Hamburgs erste rein vegane
+  Unterkunft. Das Green Haven bietet auch veganes Frühstück an.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Christiane-Bors__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Christiane-Bors__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAwQHCP/EACoQAAICAQMCBQMFAAAAAAAAAAECAwQRAAUSBiEUIjEyURNBYRUjQoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAABAUGAv/EACQRAAICAQMCBwAAAAAAAAAAAAECAxEABCFBofAFBhQiYXGx/9oADAMBAAIRAxEAPwCLitwJvAinrnbg6MpdIlkCcQcAcgQDkAnGfdqikqvs63G2C6YpJxwCLku6FVZguCQDn7j7Z0hl+pDXqWYK9ePbynsFj1bk4V1cjuAwYfPfBJ1v9YLZ8TtNRbEXipa7t4uOFuRVsjufjkGHb86TCEsQFHff3itFO5rGMvSu93Oh4+sZLwrxwUDy8SeUkkOAOYXGVBUgZJ9uMAajenJK46nqSx2USOMqhUcyhOCvlOQexHp+deg9l3Qx9CX7v6LG5q0wVo+E5Jy+mqlQfRgSB2BORrgW02eoLO629u3CbPB82IjGqAOrjAUKAB3+AdEKp3oVh80SRlCnOXkW1V9w3KoWsQbVaNR0hjgpgI+QWHZSVwWBJ8oPbSIbW9i1JX3v9zcoYTV8kjCNI+RbiqjA9TnP50aNa8u+6dlbcAWPjfJ7xCV10xKmjY/DjelXvVa5pxblZSsKyKI1OP4ofnH3b/dYjXRbJtwvOLdfsvKVmUgnHcfPp3/rRo1Uzxo0LWOL6Yn088nqUa+QOuf/2Q==
@@ -25,12 +24,11 @@ labels:
   - veganes Frühstück
   - veganes Hotel
 focusKeyword: Green Haven
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ganzheitlich vegan übernachten
+
 ---
 
 **Vor Kurzem eröffnete mit dem Green Haven Hamburgs erste rein vegane Unterkunft. Das Green Haven bietet Übernachtungen in gemütlicher Atmosphäre und veganes Frühstück.**

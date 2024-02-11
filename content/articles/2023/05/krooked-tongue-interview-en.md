@@ -1,12 +1,17 @@
 ---
 date: 2023-05-11T14:41:48.050Z
-slug: krooked-tongue-interview-en
 typeName: Interview
 title: Interview with Krooked Tongue
-subTitle: '"We''ve been dying to get back into the Live Scene"'
+subTitle: "\"We've been dying to get back into the Live Scene\""
 seoTitle: Interview with Krooked Tongue – "Deathproof"
-description: The bristol-based indie band Krooked Tongue just released their new EP "Deathproof". Get to know them in my interview!
-excerpt: The Bristol-based indie band Krooked Tongue is currently on tour, presenting their new album, "Deathproof". It follows its predecessor, "No Vacancy Hotel", and the piece, "When The Beaches Bleed", which they also just released, very closely. After introducing the three quick-witted lads to you in my playlist for May, it's time for an interview now. Their relaxed festival sound is simply too beautiful not to dive deeper into it.
+description: The bristol-based indie band Krooked Tongue just released their new
+  EP "Deathproof". Get to know them in my interview!
+excerpt: The Bristol-based indie band Krooked Tongue is currently on tour,
+  presenting their new album, "Deathproof". It follows its predecessor, "No
+  Vacancy Hotel", and the piece, "When The Beaches Bleed", which they also just
+  released, very closely. After introducing the three quick-witted lads to you
+  in my playlist for May, it's time for an interview now. Their relaxed festival
+  sound is simply too beautiful not to dive deeper into it.
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-11/krooked-tongue-1-jpg-imagine-181818_2f3332_1024_768/640.webp
 copyright: Krooked Tongue
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-11/krooked-tongue-og-jpg-imagine-181818_342e2a_1200_628/640.webp
@@ -24,6 +29,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/05/krooked-tongue-interview/
+
 ---
 
 **The Bristol-based indie band Krooked Tongue is currently on tour, presenting their new album, "Deathproof". It follows its predecessor, "No Vacancy Hotel", and the piece, "When The Beaches Bleed", which they also just released, very closely. After introducing the three quick-witted lads to you in my playlist for May, it's time for an interview now. Their relaxed festival sound is simply too beautiful not to dive deeper into it.**

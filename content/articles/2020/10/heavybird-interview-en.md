@@ -1,11 +1,14 @@
 ---
 date: 2020-10-08T07:11:00.000Z
-slug: heavybird-interview-en
 typeName: Interview
 title: Heavybird
 subTitle: '"Instruments Are Like Family Members"'
 seoTitle: Heavybird Founder Glenn Adams – "Instruments Are Like Family Members"
-description: Do you know Heavybird? Evan Glenn Adams is the man behind this name.  He is the picture book example of a multi-instrumentalist. The creative musician from Woodstock, New York masters numerous instruments – in a virtuoso manner. He also works as a sound engineer and is involved in various music projects.
+description: Do you know Heavybird? Evan Glenn Adams is the man behind this
+  name.  He is the picture book example of a multi-instrumentalist. The creative
+  musician from Woodstock, New York masters numerous instruments – in a virtuoso
+  manner. He also works as a sound engineer and is involved in various music
+  projects.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-10-heavybird-evan-glenn-adams-1-l-jpeg-imagine-283848_786257_1440_1080/640.webp
 copyright: Heavybird
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-10-heavybird-evan-glenn-adams-fb-png-l-jpg-imagine-283848_6d5a50_1440_754/640.webp
@@ -41,6 +44,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2020/10/heavybird-interview
+
 ---
 
 **Do you know Heavybird? Evan Glenn Adams is the man behind this name.  He is the picture book example of a multi-instrumentalist. The creative musician from Woodstock, New York masters numerous instruments – in a virtuoso manner. He also works as a sound engineer and is involved in various music projects.**

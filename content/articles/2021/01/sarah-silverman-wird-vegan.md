@@ -1,13 +1,12 @@
 ---
 date: 2021-01-07T15:11:20.000Z
-slug: sarah-silverman-wird-vegan
-path: /2021/01/sarah-silverman-wird-vegan/
 title: Sarah Silverman wird vegan
 seoTitle: Sarah Silverman wird vegan – Das Ziel einer Reise
 ogTitle: Sarah Silverman wird vegan – Das Ziel einer Reise
-description: Die Komikerin, Schauspielerin, Schriftstellerin und Podcasterin Sarah Silverman lebt ab sofort vegan. Das gab sie in ihrem Podcast bekannt.
-excerpt: Die Komikerin, Schauspielerin, Schriftstellerin und Podcasterin Sarah Silverman lebt ab sofort vegan. Das gab sie in ihrem Podcast bekannt.
-fileName: 2021-01---sarah-silverman-wird-vegan.md
+description: Die Komikerin, Schauspielerin, Schriftstellerin und Podcasterin
+  Sarah Silverman lebt ab sofort vegan. Das gab sie in ihrem Podcast bekannt.
+excerpt: Die Komikerin, Schauspielerin, Schriftstellerin und Podcasterin Sarah
+  Silverman lebt ab sofort vegan. Das gab sie in ihrem Podcast bekannt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_sarah-silverman-vegan__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_sarah-silverman-vegan__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAAoEAACAQMEAQMEAwAAAAAAAAABAgMEBREABhIhMQcTQRQVIlEyYYH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAL/xAAcEQACAgMBAQAAAAAAAAAAAAABAgADBBESISL/2gAMAwEAAhEDEQA/AI0BH9ulCOGx3+LDPkaUUtsuO4a809tjUQqHZ5XYhFCAc3Pk4GR8E6ySgk9aqHpVXVdplhf6p6NZnb6ebwI3AU5/fFus/vGjyLCB0I2NULH5Mc3bZFJtra9uvdv3BTXiiuLiBuERQo5DEFcnJXKsOwDrnteq2tb6Orm3NTyz1Lsq0wRhxVcHl0fknGPnrS/1l3XS3aoo4LfLDU1lEcT3KHC+72xSPC4U8eTfkPPLydZKwutXc4Xq+a1Dg4GOOFOMMhP+6IM7VfUVkQXcrLj6abV2l9npvpbQtdcWlkgkqLhFxHujiYypY8eJPXHr+XYOnEG1UrrnRxXGz1FHbGpmaKvglheNGWnbr2484IKkecggdfo0axaNqdyuv4OhMxF6RW+/bGqKuntdVQXuOmZ45pJ1jimki6bMZJwHXDZGME+B8ymDetdLQW+23laWqt9M8bwPLTq8sCp2ER/KqegR/Q0aNOno0ZHkaWzwT//Z
@@ -18,12 +17,11 @@ labels:
   - Tierrechte
   - vegan celebrities
 focusKeyword: Sarah Silverman
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Das Ziel einer Reise
+
 ---
 
 **Die Schauspielerin, Komikerin, Schriftstellerin und Podcasterin Sarah Silverman lebt ab sofort vegan. Das gab sie jetzt in einer Folge von "The Sarah Silverman Podcast" bekannt.**

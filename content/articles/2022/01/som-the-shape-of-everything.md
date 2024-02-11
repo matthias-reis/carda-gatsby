@@ -1,12 +1,18 @@
 ---
 date: 2022-01-11T16:14:50.305Z
-slug: som-the-shape-of-everything
 typeName: Review
 title: '"The Shape of Everything"'
 subTitle: Das neue Album von SOM
 seoTitle: SOM – "The Shape of Everything" – Post-Rock Review
-description: SOM haben mit den insgesamt acht Titeln auf "The Shape Of Everything" ein großes Album geschaffen. In gerade mal 34 Minuten Gesamtspielzeit ist es der Band gelungen, eine spürbare Dramaturgie aufzubauen.
-excerpt: SOM Sänger und Gitarrist Will Benoit wachte eines Nachts auf und sah, dass er eine E-Mail von Gitarrist Joel Reynolds im Postfach hatte. Im Anhang befand sich eine mp3 mit dem Namen "Animals". Es war einer der prägenden Momente in der Entstehungsgeschichte des grandiosen neuen Albums "The Shape Of Everything".
+description: SOM haben mit den insgesamt acht Titeln auf "The Shape Of
+  Everything" ein großes Album geschaffen. In gerade mal 34 Minuten
+  Gesamtspielzeit ist es der Band gelungen, eine spürbare Dramaturgie
+  aufzubauen.
+excerpt: SOM Sänger und Gitarrist Will Benoit wachte eines Nachts auf und sah,
+  dass er eine E-Mail von Gitarrist Joel Reynolds im Postfach hatte. Im Anhang
+  befand sich eine mp3 mit dem Namen "Animals". Es war einer der prägenden
+  Momente in der Entstehungsgeschichte des grandiosen neuen Albums "The Shape Of
+  Everything".
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-11/som-the-shape-of-everything-jpg-imagine-181818_2f2f36_1024_768/640.webp
 copyright: SOM
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-11/som-the-shape-of-everything-fb-png-imagine-181818_2f2f35_1200_628/640.webp
@@ -24,6 +30,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/01/som-the-shape-of-everything-en/
+
 ---
 
 **SOM Sänger und Gitarrist Will Benoit wachte eines Nachts auf und sah, dass er eine E-Mail von Gitarrist Joel Reynolds im Postfach hatte. Im Anhang befand sich eine mp3 mit dem Namen "Animals". Es war einer der prägenden Momente in der Entstehungsgeschichte des grandiosen neuen Albums "The Shape Of Everything".**

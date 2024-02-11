@@ -1,15 +1,16 @@
 ---
-date: 2020-10-22T12:55:06.000+00:00
-slug: 15-jahre-feuerwehr
-path: '/2020/10/15-jahre-feuerwehr/'
+date: 2020-10-22T12:55:06.000Z
 type: Artikel
 typeName: Produkttest
 title: 15 Jahre Feuerwehr
 seoTitle: 15 Jahre Feuerwear - Jubiläum beim Upcycling-Startup
 ogTitle: 15 Jahre Feuerwear - Jubiläum beim Upcycling-Startup
-description: Feuerwear – das Label mit den genialen Taschen aus recycelten Feuerwehrschläuchen – wird 20 Jahre alt! Zur Feier des Tages gibt es brandheiße Insights.
-excerpt: Feuerwear – das Label mit den genialen Taschen aus recycelten Feuerwehrschläuchen – wird 15 Jahre alt! Zur Feier des Tages gibt es brandheiße Insights.
-fileName: 2020-10---15-jahre-feuerwehr.md
+description: Feuerwear – das Label mit den genialen Taschen aus recycelten
+  Feuerwehrschläuchen – wird 20 Jahre alt! Zur Feier des Tages gibt es
+  brandheiße Insights.
+excerpt: Feuerwear – das Label mit den genialen Taschen aus recycelten
+  Feuerwehrschläuchen – wird 15 Jahre alt! Zur Feier des Tages gibt es
+  brandheiße Insights.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_feuerwear__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_feuerwear__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBAYF/8QAKhAAAQMDBAEDAwUAAAAAAAAAAQIDBAUGEQASITEiBxRBEzKRQmFyosH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AtpoAECS3TFxokqK8CFqjB7wV5AAEgcgkZz+nVijxWo9SqsWHMk+9alNS3wltJCm1pwnv4G0ggf7rrvVBFNfdqUhBRFDTqHhuOcICloV/VYH8xpb2V60xpteqbN17abTpaECItpBcEYpyClZHkoK3Ak/BHQHQaC7KWoUO7yX1vqbP1ELUlKTuLZyDt75I0q73tuUamgsLX9NJKFpB6SnHf4Oj1BvQV68Sm1n3m6XuZjtn7fcLBwpwpPW4qxyOQBnTNu5LYceTsWgZOcubt2Scn9us40ExrwgXNbT0CRNbEuXHcjOIcQkBDu0jPHOOlfjSEue1JFv1NiDJmR3Hnd4XsyEt4OOzjOR1o0aDWvTqC/c9vOxYbbCveN7FMpCFeLgwF4PnwASopBJJHxnTAvWahbxbLZaDbhdQAfuA43DnrJI0aNB//9k=
@@ -35,13 +36,12 @@ labels:
   - veganes Leder
   - Feuerwear
 focusKeyword: Feuerwear
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Jubiläum beim Upcycling Start-up
 advertisement: true
+
 ---
 
 **Feuerwear – das Label mit den genialen Taschen aus recycelten Feuerwehrschläuchen – wird 15 Jahre alt! Zur Feier des Tages möchte ich Euch gerne ein paar Insights eines meiner nachhaltigen Lieblings-Labels erzählen.**

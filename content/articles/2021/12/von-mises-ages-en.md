@@ -1,12 +1,17 @@
 ---
 date: 2021-12-16T14:11:20.874Z
-slug: von-mises-ages-en
 typeName: Review
 title: Von Mises – "Ages"
 subTitle: Post-Rock from Cologne
 seoTitle: '"Ages" by Von Mises – Post-Rock Review'
-description: Von Mises are making melodic post-rock. They rely on the classic band line-up consisting of rhythm and electronic section and guitar. On October 22nd, Jens, Mike, and Gunther released their first official album, "Ages".
-excerpt: Von Mises from Cologne are making melodic post-rock. They rely on the classic band line-up consisting of rhythm and electronic section and guitar. On October 22nd, Jens, Mike, and Gunther released their first official album, "Ages".
+description: Von Mises are making melodic post-rock. They rely on the classic
+  band line-up consisting of rhythm and electronic section and guitar. On
+  October 22nd, Jens, Mike, and Gunther released their first official album,
+  "Ages".
+excerpt: Von Mises from Cologne are making melodic post-rock. They rely on the
+  classic band line-up consisting of rhythm and electronic section and guitar.
+  On October 22nd, Jens, Mike, and Gunther released their first official album,
+  "Ages".
 image: https://storage.googleapis.com/cardamonchai-media/2021-12-16/von-mises-jpg-imagine-f8f8f8_000000_1024_768/640.webp
 copyright: Von Mises
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-12-16/von-mises-fb-png-imagine-f8f8f8_a1a1a1_1200_628/640.webp
@@ -25,6 +30,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/12/von-mises-ages/
+
 ---
 
 **Von Mises from Cologne are making melodic post-rock. They rely on the classic band line-up consisting of rhythm and electronic section and guitar. On October 22nd, Jens, Mike, and Gunther released their first official album, "Ages".**

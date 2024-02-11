@@ -1,13 +1,14 @@
 ---
 date: 2014-11-11T12:47:28.000Z
-slug: auf-dem-weg-zur-tiefenentspannung
-path: /2014/11/auf-dem-weg-zur-tiefenentspannung/
 title: Auf dem Weg zur Tie&shy;fen&shy;ent&shy;span&shy;nung
 seoTitle: Tiefenentspannung mit Thai Massage und TCM
 ogTitle: Tiefenentspannung mit Thai Massage und TCM
-description: Wie man Tiefenentspannung mit Hilfe von Thai Massage und Traditioneller Chinesischer Medizin erfahren kann - Ein Selbstversuch mit überraschendem Ausgang.
-excerpt: Wie man Tiefenentspannung mit Hilfe von Thai Massage und Traditioneller Chinesischer Medizin erfahren kann - Ein Selbstversuch mit überraschendem Ausgang.
-fileName: 2014-11---auf-dem-weg-zur-tie-fen-ent-span-nung.md
+description: Wie man Tiefenentspannung mit Hilfe von Thai Massage und
+  Traditioneller Chinesischer Medizin erfahren kann - Ein Selbstversuch mit
+  überraschendem Ausgang.
+excerpt: Wie man Tiefenentspannung mit Hilfe von Thai Massage und Traditioneller
+  Chinesischer Medizin erfahren kann - Ein Selbstversuch mit überraschendem
+  Ausgang.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9587716867_268c9cfda2_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9587716867_268c9cfda2_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURAAYSEyExByJRI0FxFDJCYYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIhETFB/9oADAMBAAIRAxEAPwDrestXR0G5LZBZZFAS3rIZFkDdRmbC8jnL4Cdgewzntqhsjcdfbbo7VM88KT1QlJA+nyPYjsey4IOB8HzpdvNvrbFVrabzBGrwxL02KrCpUAlSq47+fOc/OpqYdCGP9OWENUkIIj4j+LN3P2b3HRfZEN8bdlur5nRrsKasSRV6EZIaNW/a/Hy3LB/rz8aQdy2O70+8jdtvQXEU8lUoklp1jfhzUKX5dmBGTyAzgfOkytrLhc6KmtdTZpblcKcu9uM8YEkaRryYDByzH7A5Bx2GcaZtvDcFJu+SguUclHcYmgd26sRK04b3vzYMuAn++4gYPgxUst8NMppJIu+tEz3ePZVRU8DS1aSSCmKhhFKoB6gJ85DFcEeNZtbqVOGYMQCUGTig7A8VJ/OfGjRpxvZlLYx7BpKqa4XKB6qN6UUy1PSkiJ4/V4EIQwKnB89/xrd9k7StFgs/Kkp+rUVih6mpqD1JZsnIDMfIGcY8dtGjVdUJH//Z
@@ -57,12 +58,11 @@ labels:
   - Verspannung
   - Verspannungen loswerden
 focusKeyword: Tiefenentspannung
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Von Thai Massage und traditioneller chinesischer Medizin
+
 ---
 
 **Schon seit einiger Zeit leide ich unter schlimmen Verspannungen in meinen Schultern, die dazu führen, dass mir extrem schwindelig wird und ich Schmerzen in den Armen habe.**

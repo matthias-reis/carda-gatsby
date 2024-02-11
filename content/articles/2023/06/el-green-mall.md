@@ -1,14 +1,19 @@
 ---
 date: 2023-06-21T12:19:10.597Z
-slug: el-green-mall
 typeName: Beitrag
 title: El Green Mall stellt sich vor
 subTitle: Green Marketplace gegründet
 seoTitle: El Green Mall – der neue Green Marketplace
-description: El Green Mall ist ein neuer Green Marketplace aus Berlin mit vielen veganen Marken. Lest jetzt alles über das Eco-Start-up!
-excerpt: El Green Mall ist ein Green Marketplace – eine Shopping-Plattform, die öko-soziale Produkte von zahlreichen europäischen Brands anbietet. Ein nachhaltiger, digitaler Marktplatz mit vielen veganen Produkten und einer klimafreundlichen Vision –  Weil mich das sehr neugierig gemacht hat, habe ich mich mit Mitgründern Federica Moreno Casañas über ihr grünes Start-up unterhalten.
+description: El Green Mall ist ein neuer Green Marketplace aus Berlin mit vielen
+  veganen Marken. Lest jetzt alles über das Eco-Start-up!
+excerpt: El Green Mall ist ein Green Marketplace – eine Shopping-Plattform, die
+  öko-soziale Produkte von zahlreichen europäischen Brands anbietet. Ein
+  nachhaltiger, digitaler Marktplatz mit vielen veganen Produkten und einer
+  klimafreundlichen Vision –  Weil mich das sehr neugierig gemacht hat, habe ich
+  mich mit Mitgründern Federica Moreno Casañas über ihr grünes Start-up
+  unterhalten.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-21/federica-el-green-mall-jpeg-imagine-d8d8d8_a2a3a1_1024_768/640.webp
-copyright: 'El Green Mall, '
+copyright: "El Green Mall, "
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-21/el-green-mall-og-jpeg-imagine-d8d8d8_a6a8a6_1200_630/640.webp
 labels:
   - Start-up
@@ -19,6 +24,7 @@ focusKeyword: El Green Mall
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **El Green Mall ist ein Green Marketplace – eine Shopping-Plattform, die öko-soziale Produkte von zahlreichen europäischen Brands anbietet. Ein nachhaltiger, digitaler Marktplatz mit vielen veganen Produkten und einer klimafreundlichen Vision – Weil mich das sehr neugierig gemacht hat, habe ich mich mit Mitgründern Federica Moreno Casañas über ihr grünes Start-up unterhalten.**

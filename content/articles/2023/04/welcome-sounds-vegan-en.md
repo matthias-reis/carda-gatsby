@@ -1,12 +1,16 @@
 ---
 date: 2023-04-19T12:51:10.176Z
-slug: welcome-sounds-vegan-en
 typeName: Beitrag
 title: Rock 'n' Roll vegan is now Sounds Vegan
 subTitle: Your Hub for Stories about Music & Veganism
 seoTitle: Sounds Vegan – Your hub for stories about music & veganism
-description: Sounds Vegan is your hub for stories about alternative music (post-rock, ambient, post-metal, post-music, hardcore etc.)! Check it out now!
-excerpt: "Today is a big one! I have something to celebrate that I've been preparing for months now. OK, I don't want to keep you guys on the rack. Here is the news: I've decided to rename my blog! So, say hello to Sounds Vegan! I promise you to stick to my topics—veganism and music—but with more style than ever before!"
+description: Sounds Vegan is your hub for stories about alternative music
+  (post-rock, ambient, post-metal, post-music, hardcore etc.)! Check it out now!
+excerpt: "Today is a big one! I have something to celebrate that I've been
+  preparing for months now. OK, I don't want to keep you guys on the rack. Here
+  is the news: I've decided to rename my blog! So, say hello to Sounds Vegan! I
+  promise you to stick to my topics—veganism and music—but with more style than
+  ever before!"
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-15/soundsvegan-new-blog-a-reis-png-imagine-385848_525843_1024_768/640.webp
 copyright: Sounds Vegan, Blog, vegan Blog, Zine, Music Blog, Vegan, Music, Musik
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-15/soundsvegan-new-blog-og-a-reis-png-imagine-385848_4f5c48_1200_628/640.webp
@@ -14,6 +18,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/04/welcome-sounds-vegan/
+
 ---
 
 **Today is a big one! I have something to celebrate that I've been preparing for months now. OK, I don't want to keep you guys on the rack. Here is the news: I've decided to rename my blog! So, say hello to Sounds Vegan! I promise you to stick to my topics—veganism and music—but with more style than ever before!**

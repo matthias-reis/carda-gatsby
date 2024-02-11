@@ -1,19 +1,20 @@
 ---
-date: 2012-08-03T16:15:47.000+00:00
-slug: eden-project-2
-path: '/2012/08/eden-project-2/'
+date: 2012-08-03T16:15:47.000Z
 type: Galerie
 typeName: Galerie
 title: Eden Project
 seoTitle: Eden Project - neue Impressionen
 ogTitle: Eden Project - neue Impressionen
-description: Auch in diesem Jahr war es wieder wunderbar, im Eden Project St. Austell durch die verschiedenen Klimazonen zu wandern. Hier kommen meine Bilder.
-excerpt: Auch in diesem Jahr war es wieder wunderbar, im Eden Project St. Austell durch die verschiedenen Klimazonen zu wandern. Hier kommen meine Bilder.
-fileName: 2012-08---eden-project.md
+description: Auch in diesem Jahr war es wieder wunderbar, im Eden Project St.
+  Austell durch die verschiedenen Klimazonen zu wandern. Hier kommen meine
+  Bilder.
+excerpt: Auch in diesem Jahr war es wieder wunderbar, im Eden Project St.
+  Austell durch die verschiedenen Klimazonen zu wandern. Hier kommen meine
+  Bilder.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_img_0060__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_img_0060__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAEAf/EACwQAAEDAgUDAwMFAAAAAAAAAAECAwQFEQAGEiExExRxIkFhBxVRIzJCUqH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAL/xAAlEQACAQIEBgMAAAAAAAAAAAABAgMAERITMcEEIkFRcfAh0fH/2gAMAwEAAhEDEQA/AEzNOYXafNMGII620NpU4XLFQVa9tyBa1vnfGBjOVRZ0MP1At6G0pSlISAB5A8YP88tv06tVJx5aXHgrrGOlpanXCqxV6hsEpuN1ePjGvLFGqda7x+FLjCIwemmRYOFatdiNF0lIBvuefbABXa5v4pWKDTf6Pvam/I+Y40uDK7qcVupev+qu50lIt4HP+4sCwzDMyOH/ALnS49WdfkuR9bO2jpaf7G1iHAdvm/tixQsbWHzQu3Ny6Vhq77WYlSHuiZ/ekqUmPI2av/E88WTsduLY7TaXSWYIWItQjFRStxttzSkFJ/cU6Rcp53/GC51pt2ploNwi6NSymQ4pBJ1HVpcR7m4Ivcjj2xmpU+pNTyunTqulltYKxGdU4pLe29gb2AP4xqCRWYDb83qdo5MGvvbrTpKk5QVIcTWqm6uS4oyT3JQgEucqSEpI3sL+BiwYVn6l1BCI5i+ts6glx6+pYBABPG/kX4xYWXMDHLYAeKXh44TGM4ti62tbav/Z
-ogImage:
+ogImage: null
 labels:
   - aussterbende Arten
   - Botanik
@@ -34,12 +35,11 @@ labels:
   - St. Austell
   - serie:England 2012
 focusKeyword: Eden Project
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 7/9
+
 ---
 
 [_Teil 6/9_](/2012/07/aloa-cornwall/) Impressionen aus dem Eden Projekt

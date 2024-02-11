@@ -1,12 +1,17 @@
 ---
 date: 2023-03-07T15:10:31.438Z
-slug: give-up-to-failure-interview-en
 typeName: Interview
 title: Give Up To Failure
 subTitle: '"We must become the Change we want to see in the World"'
 seoTitle: Give Up To Failure – Post-Rock Interview
-description: '"We must become the change we want to see in the world", says Give Up To Failure songwriter and singer Mark. Read my interview with him and his band mate Krzysiek about their album "Cocoon".'
-excerpt: I had an inspiring chat with Mark and Krzysiek from Give Up To Failure. The band of five from Wrocław, Poland, delivers great post-music influenced by several fascinating genres. Their current album, "Cocoon", is about love, depression, self-destruction, insomnia, crying for help, and trying to find yourself and becoming a better human.
+description: '"We must become the change we want to see in the world", says Give
+  Up To Failure songwriter and singer Mark. Read my interview with him and his
+  band mate Krzysiek about their album "Cocoon".'
+excerpt: I had an inspiring chat with Mark and Krzysiek from Give Up To Failure.
+  The band of five from Wrocław, Poland, delivers great post-music influenced by
+  several fascinating genres. Their current album, "Cocoon", is about love,
+  depression, self-destruction, insomnia, crying for help, and trying to find
+  yourself and becoming a better human.
 image: https://storage.googleapis.com/cardamonchai-media/2023-03-07/give-up-to-failure-jpg-imagine-080808_0f1818_1024_768/640.webp
 copyright: Give Up To Failure
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-03-07/give-up-to-failure-og-jpg-imagine-080808_10313b_1200_628/640.webp
@@ -22,6 +27,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/03/give-up-to-failure-interview/
+
 ---
 
 **I had an inspiring chat with Mark and Krzysiek from Give Up To Failure. The band of five from Wrocław, Poland, delivers great post-music influenced by several fascinating genres. Their current album, "Cocoon", is about love, depression, self-destruction, insomnia, crying for help, and trying to find yourself and becoming a better human.**

@@ -1,15 +1,16 @@
 ---
 date: 2021-04-13T12:19:07.000Z
-slug: aprikosen-cashew-wuerfel
-path: /2021/04/aprikosen-cashew-wuerfel/
 type: Artikel
 typeName: Rezept
 title: Rohe Aprikosen-Cashew-Würfel
 seoTitle: Rohe Aprikosen-Cashew-Würfel – vegane Powerpakete für zwischendurch
 ogTitle: Rohe Aprikosen-Cashew-Würfel – vegane Powerpakete für zwischendurch
-description: Aprikosen-Cashew-Würfel sind perfekt, wenn Ihr mal wieder Lust auf was Süßes habt aber auf Zucker gerade möglichst verzichten möchtet.
-excerpt: Aprikosen-Cashew-Würfel sind perfekt, wenn Ihr mal wieder Lust auf was Süßes habt aber auf Zucker gerade möglichst verzichten möchtet. Sie sind nicht nur besonders nahrhaft und liefern zwischendurch Energie, sondern auch noch unheimlich lecker. Ich verrate Euch heute mein Rezept.
-fileName: 2021-04---rohe-aprikosen-cashew-wuerfel.md
+description: Aprikosen-Cashew-Würfel sind perfekt, wenn Ihr mal wieder Lust auf
+  was Süßes habt aber auf Zucker gerade möglichst verzichten möchtet.
+excerpt: Aprikosen-Cashew-Würfel sind perfekt, wenn Ihr mal wieder Lust auf was
+  Süßes habt aber auf Zucker gerade möglichst verzichten möchtet. Sie sind nicht
+  nur besonders nahrhaft und liefern zwischendurch Energie, sondern auch noch
+  unheimlich lecker. Ich verrate Euch heute mein Rezept.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_aprikosen-cashew-wuerfel__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_aprikosen-cashew-wuerfel__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAP/xAAqEAACAgICAQIGAQUAAAAAAAABAgMEBREAIRIHIgYTFBUxQVEyQkNhkf/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAiH/2gAMAwEAAhEDEQA/ALe78UQV45Pn0ZFMKSSmWacRoUQMT+t7Pj0P35Dvsci8f6uSWLsUOUqJViMrKvg4cknZSIgL04Dn9/2jfEnqUt+78M5b7PEi1tpLPY27fMBUeabI0CPEdD/vfMbz4/HYqjPjmo2TDjyFhkZZGSUDpmi/zN2dbBI3r8DfKC3qKs0HldiKv4X9UfqLFPCZIWpb6/Oaad4RGjINsDs6/Slehr+N824b1TbN59cTHhPp42iHk81gRkN+SQrgM3+lUb/PIrNZ3D28DUpVsotm20i2WaMsCrHZ8VX+lQnS+DBiQTojlHVmguZCreSvLJYjcq1uxTEMiFl6R9EDzKsewp6A7HCtOykNZUsO+ZxlqejeSzadaaRvLHXZ9JI7bL79pJLAa/gnQ664nDyU61nE/aEGPjsx2EjsVkkVpPEhmdd79ux4gEDfZ3w4cVIuD1HqMTWqSRYevUGLsppIo9pKHUmNgxPiV2m9gg7J/IPKuvkpcrnGspB5rJ7XjMQiKsAAkr69rMoBA8QNDQ4cOEDyj//Z
@@ -19,14 +20,12 @@ labels:
   - Aprikosen-Cashew-Würfel
   - Cashew-Kerne
   - vegane Rezepte
-
 focusKeyword: Aprikosen-Cashew-Würfel
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Vegane Powerpakete für zwischendurch
+
 ---
 
 **Aprikosen-Cashew-Würfel sind perfekt, wenn Ihr mal wieder Lust auf was Süßes habt aber auf Zucker gerade möglichst verzichten möchtet. Sie sind nicht nur besonders nahrhaft und liefern zwischendurch Energie, sondern schmecken auch noch ziemlich lecker. Ich verrate Euch heute mein Rezept.**

@@ -1,17 +1,17 @@
 ---
-date: 2016-11-27T19:26:29.000+00:00
-slug: welt-vegan-magazin-42016-textchefin
-path: '/2016/11/welt-vegan-magazin-42016-textchefin/'
+date: 2016-11-27T19:26:29.000Z
 title: Welt Vegan Magazin 4/2016
 seoTitle: Welt Vegan Magazin 4/2016 - Ratet mal, wer die neue Textchefin ist...
 ogTitle: Welt Vegan Magazin 4/2016 - Ratet mal, wer die neue Textchefin ist...
-description: Das Welt Vegan Magazin ist wieder da! Die neue Ausgabe liegt ab sofort in den Regalen der Zeitschriftenläden. Ratet mal, wer die neue Textchefin ist.
-excerpt: Das Welt Vegan Magazin ist wieder da! Die neue Ausgabe liegt ab sofort in den Regalen der Zeitschriftenläden. Ratet mal, wer die neue Textchefin ist.
-fileName: 2016-11---welt-vegan-magazin-4-2016.md
+description: Das Welt Vegan Magazin ist wieder da! Die neue Ausgabe liegt ab
+  sofort in den Regalen der Zeitschriftenläden. Ratet mal, wer die neue
+  Textchefin ist.
+excerpt: Das Welt Vegan Magazin ist wieder da! Die neue Ausgabe liegt ab sofort
+  in den Regalen der Zeitschriftenläden. Ratet mal, wer die neue Textchefin ist.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30456563464_a16fb6791b_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30456563464_a16fb6791b_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAQIE/8QAJRAAAgEEAQMEAwAAAAAAAAAAAQIDAAQFERIGEzEhMlFhFVKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAHBEBAAICAwEAAAAAAAAAAAAAAQACAxEhMUEy/9oADAMBAAIRAxEAPwBfgsUJOJYelUtxFjcTaGXJ994ZFSNUWIjbtoAIVGyxP3WnT/DtLrVSfWAml6nhs7WG55pcRXjiaXaBR6cgObAAhvPEe7wKyyVtbRWVVN89S1tEsMlBZz4tClsWeN1dSr7BIKsCPQggil+bxSrGSAPFY6H7lraNDexyPdfkJJpJYW4x6k2y63rajxrXkGmeduEEJBI8UYhGxZ9g/TqR2Nv5Y7div6/NMLmxtcpkL25uY3R5So5RSFGGgR7h87/g+KKK3hOmyhhxFu6WSyad+4xllZyToDyT9UjzWRmYEE0UVOja+so6Cf/Z
-ogImage:
+ogImage: null
 labels:
   - Carmen Hercegfi
   - Emma Heming Willis
@@ -24,12 +24,11 @@ labels:
   - Welt Vegan Magazin
   - serie:Welt Vegan Magazin
 focusKeyword: Textchefin
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ratet mal, wer die neue Textchefin ist...
+
 ---
 
 **Das neue Welt Vegan Magazin ist da! Die Ausgabe 4/2016 liegt ab sofort in den Regalen der Zeitschriftenläden.**

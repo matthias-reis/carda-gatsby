@@ -1,15 +1,17 @@
 ---
 date: 2022-10-04T09:44:10.762Z
-slug: playlist-oktober-2022
 typeName: Beitrag
 title: Playlist Oktober 2022
 subTitle: Von Huracán bis Stryfe
 seoTitle: Playlist Oktober 2022 – von Post-Rock bis Industrial Pop
-ogTitle: ''
-description: 'Es ist wieder so weit: Die frischen Songs sind da – von experimentellem Post-Rock über Post-Metal bis Industrial Pop.'
-excerpt: 'Es ist so weit: Die frischen Songs sind da! Gemeinsam mit Matze und Valentin habe ich wieder in den unterschiedlichsten Genres nachgehört und diese knackige Liste für Euch zusammengestellt.'
+ogTitle: ""
+description: "Es ist wieder so weit: Die frischen Songs sind da – von
+  experimentellem Post-Rock über Post-Metal bis Industrial Pop."
+excerpt: "Es ist so weit: Die frischen Songs sind da! Gemeinsam mit Matze und
+  Valentin habe ich wieder in den unterschiedlichsten Genres nachgehört und
+  diese knackige Liste für Euch zusammengestellt."
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-04/playlist-oktober-1-jpeg-imagine-080808_6b4d48_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-04/playlist-oktober-fb-jpeg-imagine-080808_6f4e4a_1200_628/640.webp
 labels:
   - Flogging Molly
@@ -37,6 +39,7 @@ focusKeyword: Playlist Oktober 2022
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Es ist so weit: Die frischen Songs sind da! Gemeinsam mit Matze und Valentin habe ich wieder in den unterschiedlichsten Genres nachgehört und diese knackige Liste für Euch zusammengestellt.**

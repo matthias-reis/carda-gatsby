@@ -1,11 +1,14 @@
 ---
 date: 2021-08-30T12:37:28.753Z
-slug: queen-of-the-static-opera-interview-en
 typeName: Interview
 title: Queen Of The Static Opera
 subTitle: '"I Always Wanted To Entertain People"'
-seoTitle: An Interview With Queen Of The Static Opera – "I Always Wanted To Entertain People"
-description: I got to know the multi-instrumentalist Melody, aka Queen of the Static Opera, some time ago via social networks, and I am an enthusiastic follower ever since. So now, I have invited her for an interview to get some more insights into her art and life.
+seoTitle: An Interview With Queen Of The Static Opera – "I Always Wanted To
+  Entertain People"
+description: I got to know the multi-instrumentalist Melody, aka Queen of the
+  Static Opera, some time ago via social networks, and I am an enthusiastic
+  follower ever since. So now, I have invited her for an interview to get some
+  more insights into her art and life.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-jpg-imagine-f8f8f8_868183_1024_768/640.webp
 copyright: Queen Of The Static Opera
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/queen-of-the-static-opera-fb-jpg-imagine-080808_7a7575_1200_628/640.webp
@@ -34,6 +37,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/08/queen-of-the-static-opera-interview/
+
 ---
 
 **I got to know the multi-instrumentalist Melody, aka Queen of the Static Opera, some time ago via social networks, and I am an enthusiastic follower ever since. So now, I have invited her for an interview to get some more insights into her art and life.**

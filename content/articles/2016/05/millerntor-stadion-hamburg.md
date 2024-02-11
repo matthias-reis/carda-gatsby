@@ -1,15 +1,14 @@
 ---
 date: 2016-05-05T10:28:50.000Z
-slug: millerntor-stadion-hamburg
-path: /2016/05/millerntor-stadion-hamburg/
 type: Galerie
 typeName: Galerie
 title: Millerntor-Stadion St. Pauli
 seoTitle: Millerntor-Stadion Hamburg - Ein Rundgang
 ogTitle: Millerntor-Stadion Hamburg - Ein Rundgang
-description: Das Millerntor-Stadion auf dem Heiligengeistfeld in Hamburg St. Pauli ist etwas ganz Besonderes - "You'll never walk alone!"
-excerpt: Das Millerntor-Stadion auf dem Heiligengeistfeld in Hamburg St. Pauli ist etwas ganz Besonderes - "You'll never walk alone!"
-fileName: 2016-05---millerntor-stadion-st-pauli.md
+description: Das Millerntor-Stadion auf dem Heiligengeistfeld in Hamburg St.
+  Pauli ist etwas ganz Besonderes - "You'll never walk alone!"
+excerpt: Das Millerntor-Stadion auf dem Heiligengeistfeld in Hamburg St. Pauli
+  ist etwas ganz Besonderes - "You'll never walk alone!"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26812621535_fdc68b33a1_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26812621535_fdc68b33a1_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUGBwgD/8QAKhAAAQMEAQMDAwUAAAAAAAAAAQIDBAAFESESBhMxIjJRB0FxI2GRsdH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwABBP/EAB8RAAICAgEFAAAAAAAAAAAAAAECAAMRIQQSMUGB8P/aAAwDAQACEQMRAD8AXQbvZpCSkSYXJQOAVhO+K/8ARTR55U2amFau00pxSgZClhKcZWSQfjCz++tVB+kZsG4REuRY7Md9oBLiEJ2k/Ofg7/qnzt+sbDDkByHNVd23GkiQHsNpU4f0/T9xo7HilW8hiSi6mqjiKqiyzeew196jx3pm3xbE673TJund4YbWngnHkgFQUoY3yxjH4qhupmHET7oWPcJSsYAOuVa3X0vBlMxb4EyFvrjJceaU8U5QGyfRge4jCRk4+9ZX6tcxd7suEEozKWttLpzhPLQPzoj+KiqAdSy7OpzOvTtqeisw7kxNUh1bqmigI9JTvR3vOKltzkw1tSExIRZnvBpYlLd7gSUEb4YGTgkA5wM+M7oopjKOoQKiTUSfBkve+qV9iWmO02zbz2YZBKmlEK4pIGuWtDfne9eKpufcZ0d9yS26yV91TeFshSQFICjo/k0UUSjDRecpP//Z
@@ -23,12 +22,11 @@ labels:
   - Millerntor-Stadion
   - St. Pauli
 focusKeyword: Millerntor-Stadion
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
-subTitle: '"You''ll never walk alone!"'
+subTitle: "\"You'll never walk alone!\""
+
 ---
 
 **Das Millerntor-Stadion auf dem Heiligengeistfeld in Hamburg ist eines der wenigen Fußballstadien in Deutschland, das nicht nach einem Werbeträger benannt ist.**

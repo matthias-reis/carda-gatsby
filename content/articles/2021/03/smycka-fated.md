@@ -5,17 +5,12 @@ excerpt: Smyčka ist eine meiner schönsten Post-Rock Entdeckungen der letzten
   erst jetzt herausstellte, ist es bereits im Februar erschienen.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_smycka-fb.png__l.jpg
 isAffiliate: false
-path: /2021/03/smycka-fated/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAQIH/8QAJxAAAgECBQQBBQAAAAAAAAAAAQIDABEEBRIhQRMiMWFxBjJRgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AOKwydrBO5xx+apY6BsEyxzvG0hUMQhJ0+jceanQvGPphpU6AnL62azazvYC/gfFTJszllk1TOzufJY3NdGVaKAYxpV6ojCLq43NJZtlDQZQMUZYZAQG7JRcX4Knf+VOOM1FjppvNMwKZWsAkhcMgu6qL353834/VQILhseuEkUxP0wQSLE7+qUPUT70cfIooqVWYknmOmNGN/VbTZZIhBnOheTbxRRQf//Z
 typeName: Review
 isWerbung: false
-fileName: 2021-03---smy-ka.md
-slug: smycka-fated
-errors: {}
 date: 2021-03-31T12:46:56.000Z
 focusKeyword: Smyčka
 languageLink: /2021/03/smycka-fated-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_smycka__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_smycka__m.jpg
 title: Smyčka
@@ -33,7 +28,9 @@ labels:
   - Post-Rock
   - Release
   - Smyčka
+
 ---
+
 **Smyčka ist zweifelsfrei eine meiner schönsten Post-Rock Entdeckungen der letzten Wochen. Durch personelles Hin und Her in der Band kam erst jetzt heraus, dass sie ein Album fertig hat – das bereits im Februar fertig war. "Fated" läuft bei mir im Moment in Dauerschleife.**
 
 Wenn Ihr von Battle Of Mice und Cult Of Luna seid, seid Ihr bei Smyčka auf jeden Fall richtig. Der emotionsgeladene Sound der Gruppe aus Moskau sorgt für Gänsehaut. Ganz ehrlich: Würden mehr Menschen diese Musik hören, wäre die Welt ein friedlicherer Ort.

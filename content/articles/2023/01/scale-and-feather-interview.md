@@ -1,12 +1,18 @@
 ---
 date: 2023-01-06T12:34:36.798Z
-slug: scale-and-feather-interview
 typeName: Interview
 title: Scale & Feather
 subTitle: '"Es wird bald ein neues Album geben"'
 seoTitle: Scale & Feather – Post-Rock Interview
-description: Ich habe mich mit Scale & Feather Gründer Curtis Rockhold über seine Pläne für sein neues Album und seine Gitarren unterhalten. Lest jetzt das Interview!
-excerpt: 'Scale & Feather ist ein Post-Rock-Projekt aus Tucson, Arizona, gegründet von Multi-Instrumentalist Curtis Rockhold. Der Künstler veröffentlichte in den vergangenen zwölf Monaten einige großartige Singles, die mir sehr gefallen. Einige davon habe in meinen monatlichen Playlists veröffentlicht und kam darüber mit Curtis in Kontakt. Lange Rede, kurzer Sinn: Wir haben uns zu einem Interview verabredet!'
+description: Ich habe mich mit Scale & Feather Gründer Curtis Rockhold über
+  seine Pläne für sein neues Album und seine Gitarren unterhalten. Lest jetzt
+  das Interview!
+excerpt: "Scale & Feather ist ein Post-Rock-Projekt aus Tucson, Arizona,
+  gegründet von Multi-Instrumentalist Curtis Rockhold. Der Künstler
+  veröffentlichte in den vergangenen zwölf Monaten einige großartige Singles,
+  die mir sehr gefallen. Einige davon habe in meinen monatlichen Playlists
+  veröffentlicht und kam darüber mit Curtis in Kontakt. Lange Rede, kurzer Sinn:
+  Wir haben uns zu einem Interview verabredet!"
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-06/scale-and-feather-curtis-rockhold-4-jpg-imagine-181818_79736b_1024_768/640.webp
 copyright: Scale & Feather
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-06/scale-and-feather-curtis-rockhold-og-1-jpeg-imagine-181818_7c7469_1200_628/640.webp
@@ -27,6 +33,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/01/scale-and-feather-interview-en/
+
 ---
 
 **Scale & Feather ist ein Post-Rock-Projekt aus Tucson, Arizona, gegründet von Multi-Instrumentalist Curtis Rockhold. Der Künstler veröffentlichte in den vergangenen zwölf Monaten einige großartige Singles, die mir sehr gefallen. Einige davon habe in meinen monatlichen Playlists veröffentlicht und kam darüber mit Curtis in Kontakt. Lange Rede, kurzer Sinn: Wir haben uns zu einem Interview verabredet!**

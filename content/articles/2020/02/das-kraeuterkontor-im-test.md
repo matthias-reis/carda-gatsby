@@ -1,19 +1,20 @@
 ---
-date: 2020-02-16T15:21:48.000+00:00
-slug: das-kraeuterkontor-im-test
-path: '/2020/02/das-kraeuterkontor-im-test/'
+date: 2020-02-16T15:21:48.000Z
 type: Artikel
 typeName: Produkttest
 title: Das Kräuterkontor im Test
 seoTitle: Das Kräuterkontor im Test - Tee und Kräuter in Bio-Qualität
 ogTitle: Das Kräuterkontor im Test - Tee und Kräuter in Bio-Qualität
-description: Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel und verschiedene Pflegeprodukte im Angebot. Ich habe das Versandhaus jetzt getestet.
-excerpt: Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel und verschiedene Pflegeprodukte im Angebot. Ich habe das Versandhaus jetzt getestet.
-fileName: 2020-02---das-kraeuterkontor-im-test.md
+description: Das Kräuterkontor hat Bio-Heilkräuter, Tees,
+  Nahrungsergänzungsmittel und verschiedene Pflegeprodukte im Angebot. Ich habe
+  das Versandhaus jetzt getestet.
+excerpt: Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel
+  und verschiedene Pflegeprodukte im Angebot. Ich habe das Versandhaus jetzt
+  getestet.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2020-02-09-kraeuterkontor-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2020-02-09-kraeuterkontor-4__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgj/xAAtEAABAgQFAwIGAwAAAAAAAAABAgMEBQYRABIhMUEHE2EjURQiMjNCkVJx0f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQEC/8QAIBEAAgEDBAMAAAAAAAAAAAAAAQIAAxIhBBETMTJBYf/aAAwDAQACEQMRAD8Am0BKDnSl1GTOjOkrFsyf5DxvivdNachIiXqd+QOFQQ9dWpF/blOgtbS+H6Sg4CawDcFGQ3eQpKEtIcSMySBYZbbf1+8Pzil5rSkTDxktU496gzOApLakG10nnbg7ca64jCmyG85EqrUSqlpwfsaqinWp12IKFhe8E5syQcpsRa+bg6C2Obq2pt6STB5Lt1NqUe2vLa/gjhQ5GOsKWqaWTeDiWGCpmYMrIdYWmyioe4Oug29xqOcZTqjJoadQ7zoLfxCkXdBISHQBcHwoDUHkb4f4w63oYnyGk1jiTOhq4VT8a0uLhlRcG3dILZ9RkHS4H5AfsecX+U1xKJtJ2zBRDUVDuCxuMwJJ+kjg73HAGDBgWkqHKHqZqkAF47kQ6z1fKpDUMJDU6lSpgiy4hwK+yL3CARrqdbcW03xla66kxEZLW2k3VEPJzOJItcnlf+DQ7+MGDHXi+y+4QAMgJyRP/9k=
-ogImage:
+ogImage: null
 labels:
   - Albert Schweitzer Stiftung
   - Berberitzen
@@ -34,15 +35,13 @@ labels:
   - Ringelblume
   - Tee
 focusKeyword: Kräuterkontor
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image that could not be found
 subTitle: Tee und Kräuter in Bio-Qualität
 advertisement: true
 affiliate: true
+
 ---
 
 **Das Kräuterkontor hat Bio-Heilkräuter, Tees, Nahrungsergänzungsmittel und verschiedene Pflegeprodukte im Angebot. Ich habe das Berliner Versandhaus jetzt getestet.**

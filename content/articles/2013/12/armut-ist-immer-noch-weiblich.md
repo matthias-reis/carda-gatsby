@@ -4,15 +4,10 @@ excerpt: Am Montagabend hielt Gregor Gysi im Rahmen der jährlichen
   Betriebsrats-Tage in München einen Vortrag zum Thema "Wie weiter?".
 ogImage: null
 isAffiliate: false
-path: /2013/12/armut-ist-immer-noch-weiblich/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwUI/8QAKxAAAgECBgEDAgcAAAAAAAAAAQIDBBEABQYSITFBBxNhkcEUI1FxcqGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwYCBP/EACYRAAEDAwEIAwAAAAAAAAAAAAEAAgMEESEFEhMiMTIzUXFBgcH/2gAMAwEAAhEDEQA/AJ5p/S0ks0dQGBSQjabixPV/vbFFeaakDRU6nbEoVT0Dx8c8f3hS03WMmRQtFBOVNUCn5d1C/wAjYG32xrNaasWgzSTLg+YzLAhSaAVu0M7AEXkVA1gPC/XE1u3zyEHNlWPmZTRgswCnfSOoavNkqKOspoy7jasiR+2XRm2kX/UMFIPwcXSm01TyRrXRASFXaWxa20+2yjrvscfF8co5HqIadoZs8p7fizJHHTRupKuWAaQ98qoBFu7sMWH079aYc3lKZnQCid6aZEiiqC0czIrOTYgEGy2B58jzhDEWG9uHPL4+ly1kokIDOpJFBNtEw2IUiguinocEn/BiE1dVNX189TUNummk3u3yTgwYXTQLvPpa1o9se/xN+cUC0WliFkeQIx2+4AbXsDbjjq+MGUVb0lDlcihW5B8g8zFTY/sx+uDBh4ztR58oKpojqCG+F//Z
 isWerbung: false
-fileName: 2013-12---armut-ist-immer-noch-weiblich.md
-slug: armut-ist-immer-noch-weiblich
-errors: {}
 date: 2013-12-04T13:15:14.000Z
 focusKeyword: armut
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__m.jpg
 title: '"Armut ist immer noch weiblich"'
@@ -40,7 +35,9 @@ labels:
   - Politiker
   - Wahl
 language: de
+
 ---
+
 **Am Montagabend hielt Gregor Gysi im Rahmen der jährlichen Betriebsrats-Tage in München einen Vortrag zum Thema "Wie weiter? – Umdenken bei Leiharbeit und Werkverträgen". Ich war mit meiner Kamera dabei.**
 
 Die Location: Königlicher Hirschgarten in München. Berühmt für den größten Biergarten Münchens, ruhig gelegen, eingebettet in ein Wohngebiet am Rande eines Naherholungsgebietes. Natürlich um diese Jahreszeit schon "hübsch" weihnachtlich dekoriert. Ich bewundere ja immer diesen ganz besonderen Stil, der gerne von Gasthöfen dieser Art gepflegt wird, dessen Alleinstellungsmerkmal darin besteht, die jahreszeitenbezogene Dekoration so früh, wie nur möglich, über die bereits vorhandene, durchaus opulente Ganzjahresdekoration zu drapieren, um dort so lange wie möglich zu prangen und möglichst viel Staub aufzusammeln. Doch ich schweife aus.

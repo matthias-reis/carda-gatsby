@@ -1,15 +1,15 @@
 ---
 date: 2019-11-04T19:08:26.000Z
-slug: golden-silence-festival-muenster
-path: /2019/11/golden-silence-festival-muenster/
 type: Artikel
 typeName: Konzertbericht
 title: Golden Silence Festival Münster
 seoTitle: Das Golden Silence Festival in Münster - sanglos aber nicht klanglos
 ogTitle: Das Golden Silence Festival in Münster - sanglos aber nicht klanglos
-description: Musik ohne Gesang - unter diesem Motto stand das erste Golden Silence Festival, das am Samstag in Münster stattfand. Hier ist mein Nachbericht.
-excerpt: Musik ohne Gesang - unter diesem Motto stand das erste Golden Silence Festival, das am Samstag in Münster stattfand.
-fileName: 2019-11---golden-silence-festival-muenster.md
+description: Musik ohne Gesang - unter diesem Motto stand das erste Golden
+  Silence Festival, das am Samstag in Münster stattfand. Hier ist mein
+  Nachbericht.
+excerpt: Musik ohne Gesang - unter diesem Motto stand das erste Golden Silence
+  Festival, das am Samstag in Münster stattfand.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-10-21-kuf-golden-silence-festival-anne-reis-rock-n-roll-vegan-cardamonchai__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-10-21-kuf-golden-silence-festival-anne-reis-rock-n-roll-vegan-cardamonchai__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMHBAX/xAAqEAACAQMDAgYBBQAAAAAAAAABAgMEBREAEiEGQQcTIjJhcTEUQmKBof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABkRAAMBAQEAAAAAAAAAAAAAAAABAhFBIf/aAAwDAQACEQMRAD8Aj3TfhxerzIoggiRTyWmlWNQPs6ptp8BJWtzVVxvdtpo+zRHzV+y3AA+edTamvskcSyVcklQVHpj5wT8/Gl3zqu419A9P+sYRuB5kaSgHbxhVXPtzjOstO28RolSvWUWz9I9B2beeoKgV9T5jRxlWJjOB7toxxnGM6Tt6Uo+pIobTRRvGyqZ5VclA+0gqg/AGcf3qVQQzNK8UdTEzIu9sSEDH3g8/emR3VIn2QJGGhVULQsxEh7sQRwf80Yiu1o7qeLDIlvkFMJnqNsEPO9nJUZ4/bnGtCWqmjerJeK6Kka7J6apKRo5/A5X1n+PH3o0arrzSTlJoxCnnkqHBLBwQzO49QYDvz3PGuos1wvdRT0b1KM1OnlxrLEka+7OMqMkZ7nPB0aNNAZ//2Q==
@@ -30,12 +30,11 @@ labels:
   - Post-Rock Festival
   - Skaters Palace
 focusKeyword: Golden Silence Festival
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Sanglos aber nicht klanglos
+
 ---
 
 **Musik ohne Gesang - unter diesem Motto stand das erste Golden Silence Festival, das am Samstag in Münster stattfand. Auch ich war dabei und habe ein paar Eindrücke mitgebracht.**

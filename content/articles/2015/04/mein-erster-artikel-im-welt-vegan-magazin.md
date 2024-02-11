@@ -1,13 +1,12 @@
 ---
-date: 2015-04-08T08:11:48.000+00:00
-slug: mein-erster-artikel-im-welt-vegan-magazin
-path: '/2015/04/mein-erster-artikel-im-welt-vegan-magazin/'
+date: 2015-04-08T08:11:48.000Z
 title: Mein erster Artikel im Welt Vegan Magazin
 seoTitle: Mein erster Artikel im Welt Vegan Magazin - Premiere
 ogTitle: Mein erster Artikel im Welt Vegan Magazin - Premiere
-description: Es gibt eine Premiere zu feiern! Letzte Woche erschien mein erster Artikel im Welt Vegan Magazin! Darin dreht sich alles um Superfoods...
-excerpt: Es gibt eine Premiere zu feiern! Letzte Woche erschien mein erster Artikel in der zweiten Ausgabe des Welt Vegan Magazins.
-fileName: 2015-04---mein-erster-artikel-im-welt-vegan-magazin.md
+description: Es gibt eine Premiere zu feiern! Letzte Woche erschien mein erster
+  Artikel im Welt Vegan Magazin! Darin dreht sich alles um Superfoods...
+excerpt: Es gibt eine Premiere zu feiern! Letzte Woche erschien mein erster
+  Artikel in der zweiten Ausgabe des Welt Vegan Magazins.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_04_Welt-Vegan-Magazin-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_04_Welt-Vegan-Magazin-4__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAApEAACAQMEAAYCAwEAAAAAAAABAgMEBREABhIhExQiMUFRQmFicYGS/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQUAAgP/xAAgEQEAAgAGAwEAAAAAAAAAAAABAAIDERIhMVFBgeHw/9oADAMBAAIRAxEAPwDRkgWC31FQ7hFiiaTkwyBgZ9tcKu3JBHT08dFSQ3etnqBTxQx1CxLyKuwzgenpfn+tUVWRPt+4RKiszU0oCsFYE8Cewwwf91ilyrr3PQUNxq38rt+KqilQ+VhlIkQ8geKhB74GMj570jrUY2xLWLnUv5XrLzt68Papaq3XceJFHSvIJGpqiLiWVePLKlScfeR8jT9hjnrts0j3PwpK1E8KdlcSK7D8gf5KVP32dZfu24UG7N0U9ws8lwt01Y1PE06BFRWB9bYTLMckYyfrPWrvbSy2fc18gqqppYLmVqKeLweAhKLxb9AH1DGPxXs51LVRB64+zXArqrbTvlv68/idilr5EhJCq3RGG7B+MH20su2oGjQjytPGiBAlNSqOs5758wT+8Z0aNULJxCg8xtbdTQw8OVVIi+yvUMq/8pxXH6xpOqEUBURQRr89DRo0c1hAn//Z
@@ -23,12 +22,11 @@ labels:
   - Zeitschriften
   - serie:Welt Vegan Magazin
 focusKeyword: Welt Vegan Magazin
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Printpremiere für Sounds Vegan
+
 ---
 
 **Es gibt eine Premiere zu feiern! Letzte Woche erschien mein erster Artikel in der zweiten Ausgabe des Welt Vegan Magazins! Mein erster Printartikel überhaupt für ein grosses, überregionales Magazin! Ich freue mich sehr!**

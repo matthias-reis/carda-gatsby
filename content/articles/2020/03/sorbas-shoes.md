@@ -22,11 +22,9 @@ labels:
   - vegane Schuhe
   - veganes Leder
 focusKeyword: Sorbas
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Faire vegane Schuhe aus Berlin
 advertisement: true
 affiliate: true

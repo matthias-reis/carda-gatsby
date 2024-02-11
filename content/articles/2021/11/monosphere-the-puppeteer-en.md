@@ -1,12 +1,16 @@
 ---
 date: 2021-11-23T13:19:07.498Z
-slug: monosphere-the-puppeteer-en
 typeName: Interview
 title: '"The Puppeteer"'
 subTitle: The New Monosphere Album
 seoTitle: '"The Puppeteer" by Monosphere – Post-Rock Review'
-description: The critically acclaimed new Monosphere album "The Puppeteer" will be out on November 26th. I now had the chance to talk to founder and drummer Rodney. We also talked about veganism.
-excerpt: The critically acclaimed new Monosphere album "The Puppeteer" will be out on November 26th. Time for an interview with the post-metal/prog band from Mainz. Drummer Rodney has not only answered my questions about the record. He has been vegan for almost ten years now, so we also talked about that topic.
+description: The critically acclaimed new Monosphere album "The Puppeteer" will
+  be out on November 26th. I now had the chance to talk to founder and drummer
+  Rodney. We also talked about veganism.
+excerpt: The critically acclaimed new Monosphere album "The Puppeteer" will be
+  out on November 26th. Time for an interview with the post-metal/prog band from
+  Mainz. Drummer Rodney has not only answered my questions about the record. He
+  has been vegan for almost ten years now, so we also talked about that topic.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-title-jpg-imagine-080808_454240_1024_768/640.webp
 copyright: Monosphere
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-fb-png-imagine-080808_191109_1200_628/640.webp
@@ -30,6 +34,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/11/monosphere-the-puppeteer/
+
 ---
 
 **The critically acclaimed new Monosphere album "The Puppeteer" will be out on November 26th. Time for an interview with the post-metal/prog band from Mainz. Drummer Rodney has not only answered my questions about the record. He has been vegan for almost ten years now, so we also talked about that topic.**

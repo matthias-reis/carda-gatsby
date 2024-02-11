@@ -1,15 +1,14 @@
 ---
 date: 2012-09-04T14:00:49.000Z
-slug: deftones-stellen-zwei-neue-songs-vor-album-im-november
-path: /2012/09/deftones-stellen-zwei-neue-songs-vor-album-im-november/
 type: Artikel
 typeName: Review
 title: Deftones stellen zwei neue Songs vor
 seoTitle: Deftones stellen zwei neue Songs vor
 ogTitle: Deftones stellen zwei neue Songs vor
-description: Die Deftones stellen nicht ein, sondern gleich zwei neue Songs vor und kündigen gleich noch ein Album an!
-excerpt: Es ist soweit! Die Deftones haben für November ihr neues Album angekündigt! Was wirklich ein Grund ist, komplett aus dem Häuschen zu geraten.
-fileName: 2012-09---deftones-stellen-zwei-neue-songs-vor.md
+description: Die Deftones stellen nicht ein, sondern gleich zwei neue Songs vor
+  und kündigen gleich noch ein Album an!
+excerpt: Es ist soweit! Die Deftones haben für November ihr neues Album
+  angekündigt! Was wirklich ein Grund ist, komplett aus dem Häuschen zu geraten.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQMGCP/EACoQAAEDAwMCBgIDAAAAAAAAAAECAwQFERIABiETQQcUFSIxYTKBUVKh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAiEQACAQIFBQAAAAAAAAAAAAABAgADEQQFEkGBExRR8PH/2gAMAwEAAhEDEQA/AIPhZAV5WCog4+eXiAnv0135/f8Av3ptIp6iL4KsPrSR29uiJtgMrfeaDofStppcZSlEXUlwBQI5xULX4vrFuap17e+848zbNbnU9h1bbdNhNukHEEBLjiQrG5Vkog3sBbnS+lWREGowros5OkR7CJbto1eMxHhGZEstqkBCQ6W/xK7e4j6vfRo/SZhOOd8xl+tJkJ60mlm7UdzA43SbrA4/sFc25BB7au/Ax6PD3pFnyHYnkI7gTJWuQ2lwpCFuICUqUFKupI5At/NtbBAhtsbk3CxJkGOxTlCpRQgXslQOabE8gi4+OP3qPR6RtuoQKa/Ho7MOlopjDT63yOrIk+4rcJSfixA+7kEaQpiVWmS+1ud41OHJcBN7x40TxN23Pg9SXPQ3IyWQ22y6bozOHBFwvDFRT2v30aQ3qCKhTqnIgUrNyRUW1sTG0qQ+EoZKFHIEHFVxYDjg350ascwrLYAjn7I7SkfPvE//2Q==
@@ -33,12 +32,11 @@ labels:
   - neues Album Deftones
   - roller derby
 focusKeyword: Deftones
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Album im November
+
 ---
 
 **Und nun zu meiner besonderen Spezialität, die ich so groß angekündigt habe, ich möchte sie Euch natürlich nicht vorenthalten.**

@@ -1,11 +1,12 @@
 ---
 date: 2021-01-08T12:13:07.047Z
-slug: we-lost-the-sea-interview-en
 typeName: Interview
 title: We Lost The Sea
 subTitle: '"Post-Rock Transcends Barriers"'
 seoTitle: We Lost The Sea – "Post-Rock Transcends Barriers"
-description: 'For the start of 2021, I have prepared a very special sensation. I recently met Mark Owen from We Lost The Sea via social media. He asked me for an interview and voilá: here it is!'
+description: "For the start of 2021, I have prepared a very special sensation. I
+  recently met Mark Owen from We Lost The Sea via social media. He asked me for
+  an interview and voilá: here it is!"
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-01-wlts-l-jpeg-imagine-282828_494644_1440_960/640.webp
 copyright: We Lost The Sea
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-01-we-lost-the-sea-fb-png-l-jpg-imagine-080808_414141_1440_754/640.webp
@@ -24,6 +25,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/01/we-lost-the-sea-interview
+
 ---
 
 **For the start of 2021, I have prepared a very special sensation. I recently met Mark Owen from We Lost The Sea via social media. He asked me for an interview and voilá: here it is!**

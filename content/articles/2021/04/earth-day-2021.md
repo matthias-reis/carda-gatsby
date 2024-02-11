@@ -1,7 +1,6 @@
 ---
 templateKey: article
 date: 2021-04-20T14:55:00.000Z
-slug: earth-day-2021
 typeName: Beitrag
 title: '"Restore Our Earth"'
 subTitle: Earth Day 2021
@@ -24,6 +23,7 @@ focusKeyword: Earth Day
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Am 22. April ist wieder Earth Day. Er jährt sich 2021 zum 51. Mal. Wie schon 2020 werden sich viele Aktionen rund um den Aktionstag vor allem online abspielen.**

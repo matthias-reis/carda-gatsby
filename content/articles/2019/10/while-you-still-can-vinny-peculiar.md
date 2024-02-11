@@ -1,15 +1,16 @@
 ---
 date: 2019-10-08T17:13:56.000Z
-slug: while-you-still-can-vinny-peculiar
-path: /2019/10/while-you-still-can-vinny-peculiar/
 type: Artikel
 typeName: Review
 title: Das neue Album von Vinny Peculiar
 seoTitle: '"While You Still Can" - das neue Album von Vinny Peculiar'
 ogTitle: '"While You Still Can" - das neue Album von Vinny Peculiar'
-description: '"While You Still Can" - das neue Vinny Peculiar Album kann ab sofort vorbestellt werden. Ich habe es schon angehört und lege es Euch hiermit ans Herz.'
-excerpt: '"While You Still Can" - das neue Vinny Peculiar Album kann ab sofort vorbestellt werden. Ich habe es schon angehört und lege es Euch hiermit ans Herz.'
-fileName: 2019-10---das-neue-album-von-vinny-peculiar.md
+description: '"While You Still Can" - das neue Vinny Peculiar Album kann ab
+  sofort vorbestellt werden. Ich habe es schon angehört und lege es Euch hiermit
+  ans Herz.'
+excerpt: '"While You Still Can" - das neue Vinny Peculiar Album kann ab sofort
+  vorbestellt werden. Ich habe es schon angehört und lege es Euch hiermit ans
+  Herz.'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-3__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAsEAACAQMDAgMIAwAAAAAAAAABAgMEBREABhIhMQcTgRQVIiMyUWGRcbHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAAH/xAAfEQACAQQCAwAAAAAAAAAAAAAAAQIEERITMUEhUeH/2gAMAwEAAhEDEQA/AOKbc2fHX0dPO00ymROWAFwP3qsp9gUyqeU0z/wyj/NTtqvdVRW+0GmqhGvUGMJy6AnJIx6apKbddRzrfNuM3GKNWQpSrHl2zkYweQHTr01Pnsb5CrEesnhza7nfKG2T+3RmoZgZY50+EBS3bh+PvqX8XNh0O0GoxQVFXMZmZW8/iewzkYA1u7a3+lm3fbKy419dWLTyMssaxKqPyjZcgAZABYH00n46b4tW57jbo7SkvCnWRpHdcZLYx/R/elbVKqoJXx79d/Ay16pN8nOLZcZacBVHJc9i2Brd9/StDw8tO2Pq0aNU5xVxVMw6j5swfKxsG5c0Y8tJXCQSStIxJc92J76NGuxXkx//2Q==
@@ -23,12 +24,11 @@ labels:
   - Vinny Peculiar
   - While You Still Can
 focusKeyword: While You Still Can
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"While You Still Can"'
+
 ---
 
 **Das neue Album von Vinny Peculiar kann ab sofort online vorbestellt werden. Ich durfte es schon hören und möchte Euch an meiner Freude über die gute Musik gerne teilhaben lassen.**

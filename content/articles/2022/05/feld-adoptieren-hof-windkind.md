@@ -1,12 +1,17 @@
 ---
 date: 2022-05-03T16:55:45.635Z
-slug: feld-adoptieren-hof-windkind
 typeName: Produkttest
 title: Ein Feld adoptieren und die Ernte bekommen
 subTitle: Mit Hof Windkind bio-vegane Lebensmittel genießen
 seoTitle: Bei Hof Windkind ein Feld adoptieren und die Ernte bekommen
-description: Ihr würdet am liebsten ein Feld adoptieren, weil Ihr so gerne Linsen, Hafer oder Buchweizen esst? Genau das ist jetzt mit dem wunderbaren Projekt von David und Silvia von Hof Windkind möglich.
-excerpt: Hof Windkind ist das Projekt von Silvia und David. Die beiden haben sich ihren Traum erfüllt und vor den Toren der Stadt Berlin einen bio-veganen Hof gegründet. Dort bauen sie unter fairen und sozialen Bedingungen Lebensmittel an – dass alles vegan und frei von Plastik ist, versteht sich für sie von selbst. Wenn Ihr wollt, könnt Ihr von den beiden ein Feld adoptieren.
+description: Ihr würdet am liebsten ein Feld adoptieren, weil Ihr so gerne
+  Linsen, Hafer oder Buchweizen esst? Genau das ist jetzt mit dem wunderbaren
+  Projekt von David und Silvia von Hof Windkind möglich.
+excerpt: Hof Windkind ist das Projekt von Silvia und David. Die beiden haben
+  sich ihren Traum erfüllt und vor den Toren der Stadt Berlin einen bio-veganen
+  Hof gegründet. Dort bauen sie unter fairen und sozialen Bedingungen
+  Lebensmittel an – dass alles vegan und frei von Plastik ist, versteht sich für
+  sie von selbst. Wenn Ihr wollt, könnt Ihr von den beiden ein Feld adoptieren.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-03/hof-windkind-jpg-imagine-d8d8b8_807b6c_1024_768/640.webp
 copyright: Hof Windkind
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-03/hof-windkind-fb-jpg-imagine-d8d8b8_767262_1200_628/640.webp
@@ -31,6 +36,7 @@ focusKeyword: Feld adoptieren
 advertisement: true
 affiliate: false
 language: de
+
 ---
 
 **Hof Windkind ist das Projekt von Silvia und David. Die beiden haben sich ihren Traum erfüllt und vor den Toren der Stadt Berlin einen bio-veganen Hof gegründet. Dort bauen sie unter fairen und sozialen Bedingungen Lebensmittel an – dass alles vegan und frei von Plastik ist, versteht sich für sie von selbst.**

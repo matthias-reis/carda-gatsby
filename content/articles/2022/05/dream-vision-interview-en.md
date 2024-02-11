@@ -1,12 +1,18 @@
 ---
 date: 2022-05-30T15:54:32.513Z
-slug: dream-vision-interview-en
 typeName: Interview
 title: Dream Vision Founder Jan Oblak
 subTitle: '"Psychology Fascinates Me"'
 seoTitle: Dream Vision Founder Jan – Post-Rock Interview
-description: Dream Vision founder Jan just released his debut album. After starting his solo project in December, he had already released some songs in January. Time for an interview.
-excerpt: Jan Oblak, who you might know as one of the founding members of the atmospheric post-metal project Zorya from Slovenia, started his new solo project Dream Vision last December. His freshly released debut, "Rêves", is a dreamful mix of electronic blackgaze and post-rock music with influences in the post-black and depressive black metal genre. I now had the chance to talk to the multi-instrumentalist who recorded the whole album all by himself.
+description: Dream Vision founder Jan just released his debut album. After
+  starting his solo project in December, he had already released some songs in
+  January. Time for an interview.
+excerpt: Jan Oblak, who you might know as one of the founding members of the
+  atmospheric post-metal project Zorya from Slovenia, started his new solo
+  project Dream Vision last December. His freshly released debut, "Rêves", is a
+  dreamful mix of electronic blackgaze and post-rock music with influences in
+  the post-black and depressive black metal genre. I now had the chance to talk
+  to the multi-instrumentalist who recorded the whole album all by himself.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-30/dream-vision-jan-jpg-imagine-080808_191a12_1024_768/640.webp
 copyright: Dream Vision
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-30/dream-vision-jan-fb-jpg-imagine-080808_191a13_1200_628/640.webp
@@ -29,6 +35,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/05/dream-vision-interview/
+
 ---
 
 **Jan Oblak, who you might know as one of the founding members of the atmospheric post-metal project Zorya from Slovenia, started his new solo project Dream Vision last December. His freshly released debut, "Rêves", is a dreamful mix of electronic blackgaze and post-rock music with influences in the post-black and depressive black metal genre. I now had the chance to talk to the multi-instrumentalist who recorded the whole album all by himself.**

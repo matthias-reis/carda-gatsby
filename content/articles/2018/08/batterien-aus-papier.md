@@ -1,17 +1,18 @@
 ---
-date: 2018-08-14T15:47:23.000+00:00
-slug: batterien-aus-papier
-path: '/2018/08/batterien-aus-papier/'
+date: 2018-08-14T15:47:23.000Z
 title: Kompostierbare Batterien aus Papier
 seoTitle: Kompostierbare Batterien aus Papier - Nachhaltige Entwicklung
 ogTitle: Kompostierbare Batterien aus Papier - Nachhaltige Entwicklung
-description: 'Forscher aus den USA haben Batterien aus Papier entwickelt. Der Clou: Sie können sich im Wasser vollständig auflösen und sind vollkommen ungiftig.'
-excerpt: 'Anzeige & Affiliate Link - Forscher aus den USA haben Batterien aus Papier entwickelt. Der Clou: Sie können sich im Wasser vollständig auflösen und sind vollkommen ungiftig.'
-fileName: 2018-08---kompostierbare-batterien-aus-papier.md
+description: "Forscher aus den USA haben Batterien aus Papier entwickelt. Der
+  Clou: Sie können sich im Wasser vollständig auflösen und sind vollkommen
+  ungiftig."
+excerpt: "Anzeige & Affiliate Link - Forscher aus den USA haben Batterien aus
+  Papier entwickelt. Der Clou: Sie können sich im Wasser vollständig auflösen
+  und sind vollkommen ungiftig."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_canvas-1340211_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_canvas-1340211_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIFBgcIA//EACgQAAIBAwQBBAEFAAAAAAAAAAECAwQFEQAGITESBxMiQWEIMlFxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAaEQADAQADAAAAAAAAAAAAAAAAAQIRITFB/9oADAMBAAIRAxEAPwDQNFtSjSBA0ShgM5A01X2s25tumWmr4ad1HHgy4UHvGAOT0dT3641lr9Q1l3BNffdoKeeqiQuzwwgs/gzlkkCjllwSpx0V5+tPW3hpL3svWwX2w7iAFNHACx8Q0fHy7weAQf4z3pN9sULQsVQcEDJGPxqivQW0XymuOa+nqKV6qSIQwTAq/gjh3lKnlVAGATjJbjWmq1fdUqOvyONOaynI6SzRopb7J4nMQP3+7UF9W90LSW+lmkt0E5jmCjzbnDA9HHHQ0aNVXC0j067FvixW5ZqegpoJJ8M7RjBb+z2f9OpHcdwTCBgIgMjn5aNGiUDbP//Z
-ogImage:
+ogImage: null
 labels:
   - Batterien
   - Batterien aus Papier
@@ -25,15 +26,13 @@ labels:
   - Zero Waste
   - zerowaste
 focusKeyword: Batterien aus Papier
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image that could not be found
 subTitle: Nachhaltige Entwicklung endlich da
 advertisement: true
 affiliate: true
+
 ---
 
 **Fernbedienungen, Taschenlampen, Hörgeräte, Handys, Uhren, Radios: Für alles braucht man Batterien. Diese belasten irgendwann die Umwelt. Egal, ob Einwegzelle oder Akku. Das Material ist hochgiftig und wird meist unter schlimmen Arbeitsbedingungen in großen Minen abgebaut. Die Vereinten Nationen warnten bereits vor immer bedenklicher werdenden Umständen.**

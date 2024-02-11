@@ -1,11 +1,14 @@
 ---
 date: 2021-01-22T05:00:00.000Z
-slug: breaths-the-forgotten-ones-en
 typeName: Review
 title: Breaths – "The Forgotten Ones"
 subTitle: '"A Vegan Anthem"'
 seoTitle: Breaths – "The Forgotten Ones" – "A Vegan Anthem"
-description: Breaths is a post-rock project from Richmond, Virginia. Founder Jason now introduced me to the latest single from his debut album "Lined In Silver", which he will release in March. The song "The Forgotten Ones" is about the relationship between humans and animals. Jason and his family have been living vegan for four years now.
+description: Breaths is a post-rock project from Richmond, Virginia. Founder
+  Jason now introduced me to the latest single from his debut album "Lined In
+  Silver", which he will release in March. The song "The Forgotten Ones" is
+  about the relationship between humans and animals. Jason and his family have
+  been living vegan for four years now.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_breaths-the-forgotten-ones.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAArEAABAwMDAwMDBQAAAAAAAAABAgMEBQYRABIhBzFBExQVUWGBFiJxkfD/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABwRAQACAwADAAAAAAAAAAAAAAEAAgMRIRJB4f/aAAwDAQACEQMRAD8A81BhyQ4hthBW4ohKUgZyTwB/emhUunNOo3VSPbtQkq+PbZbckLcd2FaxH9RSArHAKwR9hrDo5RZFdptysGY/GpkYMTpYZXsWotIkKbwfBCgNTPXiuSaT1US9BQwt9pEZ9C3mw4FENpwFJJIP3z3zo9eEWyqLFVc9MYgVqWzDJ9slwhsEklI+hyAf447EajG0KSkkj9pOAcf766v9Ptxy73JdRjNswBI3mNCaXu9R5KNy8Z5AOCceO3jXHdEKJE6eWg4yoe9lyZ78lBGFIGGEtg/hJP5OpXYAy3tW13xmiz7wn2zRLkhU9lkiqxg26+4kktJSlxPHOOQ4e+eQNXC57Qqcz9PSrhdUJ86FGmLCXEJcVuWRsGRgK9NKMDBGVc+dGjSr7gzcrVjBZtm1KA98dQai+LqmtrpsJl5CDhTgG/K0AhJ2bhuzxnjvpWdY40qhooFrVBEf3NIbeUp5p9bhcDqkqTkK4GAAAQBnRo0cJuismfmSocPiz//Z
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_the-forgotten-ones-breaths-1__l.jpg
@@ -28,6 +31,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/01/breaths-the-forgotten-ones
+
 ---
 
 **Breaths is a post-rock project from Richmond, Virginia. Founder Jason now introduced me to the latest single from his debut album "Lined In Silver", which he will release in March. The song "The Forgotten Ones" is about the relationship between humans and animals. Jason and his family have been living vegan for four years now.**

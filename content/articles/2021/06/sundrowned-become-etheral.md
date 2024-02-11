@@ -16,7 +16,6 @@ labels:
   - Metal
   - Sundrowned
 language: de
-slug: sundrowned-become-etheral
 typeName: Review
 title: '"Become Etheral" von Sundrowned'
 subTitle: Post-Black-Metal aus Norwegen
@@ -34,6 +33,7 @@ focusKeyword: Sundrowned
 advertisement: false
 affiliate: false
 languageLink: /2021/06/sundrowned-become-etheral-en
+
 ---
 
 **Am Freitag erscheint "Become Etheral" von Sundrowned Ich habe schon mal reingehört und empfehle Euch das Album hiermit. Es handelt sich dabei um ein grandioses Gesamtwerk, das Ihr unbedingt anhören solltet.**

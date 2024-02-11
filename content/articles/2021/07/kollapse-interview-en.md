@@ -1,11 +1,12 @@
 ---
 date: 2021-07-14T11:39:32.822Z
-slug: kollapse-interview-en
 typeName: Interview
 title: Kollapse
 subTitle: '"Music Is All About Emotions"'
 seoTitle: Interview with Kollapse – "Music Is All About Emotions"
-description: Some days ago I reviewed the new Kollapse album "Sult". Now I had the chance to talk to the post-hardcore trio from Danmark. In our interview, we also talked about the band's tour plans.
+description: Some days ago I reviewed the new Kollapse album "Sult". Now I had
+  the chance to talk to the post-hardcore trio from Danmark. In our interview,
+  we also talked about the band's tour plans.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-3-jpg-imagine-484848_000000_1024_768/640.webp
 copyright: Kollapse
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-fb-1-jpg-imagine-484848_000000_1200_628/640.webp
@@ -26,6 +27,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/07/kollapse-interview/
+
 ---
 
 **Some days ago I reviewed the new Kollapse album "Sult". Now I had the chance to talk to the post-hardcore trio from Danmark. In our interview, we also talked about the band's tour plans.**

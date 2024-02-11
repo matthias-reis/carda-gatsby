@@ -1,49 +1,45 @@
 ---
-date: 2018-02-06T08:58:03.000+00:00
-slug: gruen-wann-kommst-du
-path: "/2018/02/gruen-wann-kommst-du/"
+date: 2018-02-06T08:58:03.000Z
 type: Artikel
 typeName: Gedicht
 title: Grün, wann kommst Du?
 seoTitle: Grün, wann kommst Du? Vorfreude auf den Frühling
 ogTitle: Grün, wann kommst Du? Vorfreude auf den Frühling
-description: Wie durch Zauberhand wurde das Wasser plötzlich grün. Das Laub spiegelt
+description: Wie durch Zauberhand wurde das Wasser plötzlich grün. Das Laub
+  spiegelt sich im Wasser. Das Wasser ist im Winter knapp. Grün, wann kommst Du?
+excerpt: Wie durch Zauberhand wurde das Wasser plötzlich grün. Das Laub spiegelt
   sich im Wasser. Das Wasser ist im Winter knapp. Grün, wann kommst Du?
-excerpt: Wie durch Zauberhand wurde das Wasser plötzlich grün. Das Laub spiegelt sich
-  im Wasser. Das Wasser ist im Winter knapp. Grün, wann kommst Du?
-fileName: 2018-02---gruen-wann-kommst-du.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Wasserfall-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Wasserfall-1-von-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABwAFBgj/xAAqEAABBAEDAgYBBQAAAAAAAAABAgMEEQUAEiEGUQcTFDFBYXEiMoGhsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAAF/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECAxEhBDH/2gAMAwEAAhEDEQA/AADBqcSF7FbABa75Ne1UeDpd6A6ibxw2+mK3FJCGykKOwK7DkAnvodisuSmG22I5W+k0l1IUoqHbaP50hdEdGdU5BtuVCwsuQm6bVu8pIUFDn9Q9h2PyPrUPowvKtISp2KPXuSiSsYyztEfam1L2kOr5Firrtz+NFGWjoUhSxvU1VFSlUVH472ef81tviF01nOn4XrJwmvkNbXFtxnKbAI4UaqvsHmvjRjmso9FcZZMtTxS3SkBO2iR+0cHnnU8Yck8o0prg2dMoZkuxMNmGhJ3xUPOPxUohqcUq7JLab+O/N6X8PAx0PH+TCiGMyTtKGnVC+bv86tWuxSHRlcpBg5nErhTovmshJRTjiiSD9gg/3rnPxW8N8YJTL+MWITJQGEsBG8Dn3smzq1aH19Do/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Wasserfall-1-von-1__l.jpg
 labels:
-- Britische Inseln
-- Erinnerung
-- Flarf
-- Foto
-- Frühling
-- Geschichten & Erlebtes
-- grün
-- Irland
-- Irland2017
-- Langzeitbelichtung
-- Liebe
-- Wanderung
-- wann kommst Du
-- Wasser
-- serie:Irland 2017
-- serie:Flarf-Gedichte
+  - Britische Inseln
+  - Erinnerung
+  - Flarf
+  - Foto
+  - Frühling
+  - Geschichten & Erlebtes
+  - grün
+  - Irland
+  - Irland2017
+  - Langzeitbelichtung
+  - Liebe
+  - Wanderung
+  - wann kommst Du
+  - Wasser
+  - serie:Irland 2017
+  - serie:Flarf-Gedichte
 focusKeyword: Grün
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Sehnsucht nach dem Frühling
-year: '2018'
-month: '02'
+year: "2018"
+month: "02"
 
 ---
+
 <blockquote>
 
 Wie durch Zauberhand wird das Wasser plötzlich grün Das Laub spiegelt sich im Wasser

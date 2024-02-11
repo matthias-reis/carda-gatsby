@@ -1,17 +1,16 @@
 ---
-date: 2016-08-09T17:50:15.000+00:00
-slug: vegan-beauty-basket-gratis-aktion
-path: '/2016/08/vegan-beauty-basket-gratis-aktion/'
+date: 2016-08-09T17:50:15.000Z
 title: Vegan Beauty Basket geschenkt*
 seoTitle: Vegan Beauty Basket verschenkt Gratis Box zum 3er Abo
 ogTitle: Vegan Beauty Basket verschenkt Gratis Box zum 3er Abo
-description: Es gibt Neuigkeiten rund um den Vegan Beauty Basket! Als besondere Geburtstagsüberraschung gibt es zum 3er-Abo eine Gratisbox dazu!
-excerpt: Es gibt Neuigkeiten rund um den Vegan Beauty Basket! Als besondere Geburtstagsüberraschung gibt es zum 3er-Abo eine Gratisbox dazu!
-fileName: 2016-08---vegan-beauty-basket-geschenkt.md
+description: Es gibt Neuigkeiten rund um den Vegan Beauty Basket! Als besondere
+  Geburtstagsüberraschung gibt es zum 3er-Abo eine Gratisbox dazu!
+excerpt: Es gibt Neuigkeiten rund um den Vegan Beauty Basket! Als besondere
+  Geburtstagsüberraschung gibt es zum 3er-Abo eine Gratisbox dazu!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_13735606_660201287462253_6990305577054252335_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_13735606_660201287462253_6990305577054252335_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUHBAj/xAAnEAACAQMEAQMFAQAAAAAAAAABAgMEBREABhIhMRNBcRQiMlFhNP/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAEC/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECEQMSISIxQWH/2gAMAwEAAhEDEQA/AOlSeZBbpR5I0SR4k8dkYzgfvx3rNBUgPIHjMcCR8xLyBVwBk/GOvnS2/wBxltNGszWitr6eWOV6lqFfWkiPEcFWNe3zkgY8cf7q7IgF7a4TXNIOUrWioCoXgUZXJwfuGT2M5PWOtMrVAaajWGaOKF1Z8RxPyUDkSO8DvH80n2TuLb90gahs91WprY8mWlqA0NSp9y0MgDgf3Bz+9OYJ5RJPE8CIwOE4nOceSf17aHCGr2b8mp1fBEN677+jrbWwarit7Va1NRSo3HmqL/lOBk4qEdTgHKjHfWqVZ5bjdr3t281tZUUr/RTM9sh5JCfVIKtJnssAuAGHR8Ad6kiVt+nvmdvUkjXN/M0NKhaIE5ZuZGCzEkn7h+R1YtnWu622ljfcd4a6XR4kV3ESKEx3xHEDOM45HzjPWlMDnkm5c0Bxe2zdvC2bdvVoebcttgraWHw8kLPLEScZQqOanPupB0YQeg9AbfHFNRLH6LzvOzyKirhcE55E47LHPzolXbqeeOoDQozTsrvzJOWX8WwesjWCW0QxUcgiqJqWoI7qKduDk5znoYJ+RpztfwKz/9k=
-ogImage:
+ogImage: null
 labels:
   - beauty
   - Beauty Box
@@ -22,13 +21,12 @@ labels:
   - vegane Kosmetik
   - serie:Vegan Beauty Basket
 focusKeyword: Vegan Beauty Basket
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Box ab jetzt alle zwei Monate
 advertisement: true
+
 ---
 
 **Vielleicht haben es einige ja schon mitbekommen – es gibt Neuigkeiten rund um den Vegan Beauty Basket! Die vegane Kosmetik-Box erscheint ab sofort alle zwei Monate. Die nächste  Ausgabe wird somit im September verschickt!**

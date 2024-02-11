@@ -1,11 +1,12 @@
 ---
 date: 2021-03-09T09:58:00.000Z
-slug: baulta-another-second-chance-en
 typeName: Review
 title: '"Another Second Chance"'
 subTitle: The New Baulta Album
 seoTitle: '"Another Second Chance" – The New Baulta Album'
-description: Baulta have released their new album "Another Second Chance". With this record, the Finns manage to express everything we have experienced in the last few months – in a highly musical way.
+description: Baulta have released their new album "Another Second Chance". With
+  this record, the Finns manage to express everything we have experienced in the
+  last few months – in a highly musical way.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-baulta-another-second-chance-l-jpeg-imagine-484838_665e55_1440_1080/640.webp
 copyrigt: Baulta
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-baulta-another-second-chance-fb-png-l-jpg-imagine-483838_6d655c_1440_754/640.webp
@@ -22,6 +23,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/03/another-second-chance
+
 ---
 
 **Baulta have released their new album "Another Second Chance". With this record, the Finns manage to express everything we have experienced in the last few months – in a highly musical way.**

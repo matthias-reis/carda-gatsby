@@ -1,12 +1,17 @@
 ---
 date: 2021-06-28T12:35:34.767Z
-slug: playlist-juli-2021
 typeName: Beitrag
 title: Juli-Musikliste
 subTitle: Acht Sommer-Songs
 seoTitle: Juli-Musikliste – Acht Sommer-Songs zum nie wieder vergessen
-description: Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber nicht weniger gut. Mit Matze habe ich acht Songs rausgesucht, die uns nicht nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden.
-excerpt: Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber nicht weniger gut. Mit Matze habe ich acht Songs rausgesucht, die uns nicht nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden. Unter den Videos findet Ihr unsere Playlist wie immer fertig aufbereitet für Spotify und iTunes.
+description: Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber
+  nicht weniger gut. Mit Matze habe ich acht Songs rausgesucht, die uns nicht
+  nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden.
+excerpt: Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber
+  nicht weniger gut. Mit Matze habe ich acht Songs rausgesucht, die uns nicht
+  nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden.
+  Unter den Videos findet Ihr unsere Playlist wie immer fertig aufbereitet für
+  Spotify und iTunes.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sommer-songs-1-jpg-imagine-080808_6c5a64_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sommer-songs-fb-1-png-imagine-080808_6d606a_1200_628/640.webp
 labels:
@@ -34,6 +39,7 @@ focusKeyword: Sommer-Songs
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die Musikliste für den Juli ist etwas kürzer, als gewöhnlich, aber nicht weniger gut. Mit Matze habe ich acht Songs rausgesucht, die uns nicht nur die nächsten vier Wochen, sondern noch lange Zeit beschäftigen werden.**

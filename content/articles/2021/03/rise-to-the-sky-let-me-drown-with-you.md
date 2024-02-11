@@ -1,25 +1,23 @@
 ---
 ogTitle: Rise to the Sky - das neue Album "Let Me Drown With You"
-excerpt: Rise to the Sky steht für starken Doom Metal mit Gefühl. Mit "Let Me Drown With You" bringt Sergio die Trauer um seinen plötzlich verstorbenen Vater zum Ausdruck.
+excerpt: Rise to the Sky steht für starken Doom Metal mit Gefühl. Mit "Let Me
+  Drown With You" bringt Sergio die Trauer um seinen plötzlich verstorbenen
+  Vater zum Ausdruck.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_rise-to-the-sky-fb.png__l.jpg
 isAffiliate: false
-path: /2021/03/rise-to-the-sky-let-me-drown-with-you/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBwgJ/8QAKRAAAQMDAgYCAgMAAAAAAAAAAQIDBAAFEQYhEhMUIjFBB1EIY3GB8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBr8UEp3agxozS/IZGKn3R+8RPmq3wnLjKhw34rC4DCXUoakqK8O8xJSSs+sbesGkjGoF6e0Qpy0JDl7ljpre0EFRU+rYHABzjOfonhHus+IuGo4F4uZVcX0XjLrEt9boU8COJK0pcOSCe4HhO+aDosIjKh3IGxyMjelN/tkdcZTnKClAfVUL+OGrNay9N3GzxYbt1WzJSI864vnkQ0FPclasla9wkpbSPZyUirZ03pS+Wy4ybpqnV068vq4g0w2OnjNpP6gcE/yT4oMpI1HKYhWiXbnJLUuNJKUvxyCtpKkbqAIIO4Sf8AaWaQtt0692W3GgTpK1uE9dk87i9n6O5P90UUGxdGssWu0R3OTBhLcjtcbMVAQhBCB2g+SB4BPqpF21E0WH20uJJAx4znaiig/9k=
 typeName: Review
 isWerbung: false
-fileName: 2021-03---let-me-drown-with-you.md
-slug: rise-to-the-sky-let-me-drown-with-you
-errors: {}
 date: 2021-03-15T15:18:21.000Z
 focusKeyword: Rise to the Sky
 languageLink: /2021/03/rise-to-the-sky-let-me-drown-with-you-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_rise-to-the-sky-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_rise-to-the-sky-1__m.jpg
 title: '"Let Me Drown With You"'
 subTitle: Das neue Album von Rise To The Sky ist da
 seoTitle: Rise to the Sky - das neue Album "Let Me Drown With You"
-description: Rise to the Sky steht für starken Doom Metal mit Gefühl. Mit "Let Me Drown With You" bringt Sergio die Trauer um seinen Vater zum Ausdruck.
+description: Rise to the Sky steht für starken Doom Metal mit Gefühl. Mit "Let
+  Me Drown With You" bringt Sergio die Trauer um seinen Vater zum Ausdruck.
 language: de
 type: Artikel
 labels:
@@ -32,6 +30,7 @@ labels:
   - Metal
   - Review
   - Rise to the Sky
+
 ---
 
 **Rise to the Sky ist ein One-Person Doom Metal Projekt aus Santiago, Chile. Sänger Sergio gründete die Band 2019 mit dem Release seines ersten Albums "Moonlight". Jetzt ist die neue Platte "Let Me Drown With You" da.**

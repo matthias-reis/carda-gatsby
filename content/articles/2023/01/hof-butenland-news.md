@@ -1,12 +1,15 @@
 ---
 date: 2023-01-07T14:08:13.083Z
-slug: hof-butenland-news
 typeName: Beitrag
 title: Neues von Hof Butenland
 subTitle: Frederik das Glücksschwein
 seoTitle: Tierpatenschaft bei Hof Butenland
-description: Es gibt News von meiner Tierpatenschaft auf Hof Butenland! Frederik dem Schwein geht es gut! Jetzt lesen und alle Details erfahren!
-excerpt: 'Heute habe ich eine gute Nachricht von Hof Butenland bekommen: Frederik geht es gut und er hat eine beste Freundin gefunden! Wenn alles klappt, werde ich die beiden und alle anderen Bewohner*innen des Lebenshofs in Butjadingen schon bald besuchen. Der Tag steht auch schon fest.'
+description: Es gibt News von meiner Tierpatenschaft auf Hof Butenland! Frederik
+  dem Schwein geht es gut! Jetzt lesen und alle Details erfahren!
+excerpt: "Heute habe ich eine gute Nachricht von Hof Butenland bekommen:
+  Frederik geht es gut und er hat eine beste Freundin gefunden! Wenn alles
+  klappt, werde ich die beiden und alle anderen Bewohner*innen des Lebenshofs in
+  Butjadingen schon bald besuchen. Der Tag steht auch schon fest."
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-07/frederik-rosa-mariechen-hof-butenland-jpg-imagine-988888_8d7d6f_1024_768/640.webp
 copyright: Hof Butenland
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-07/frederik-hof-butenland-og-jpg-imagine-988888_8c7966_1200_628/640.webp
@@ -22,6 +25,7 @@ focusKeyword: Tierpatenschaft
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Heute habe ich eine gute Nachricht von Hof Butenland bekommen: Frederik geht es gut und er hat eine beste Freundin gefunden! Wenn alles klappt, werde ich die beiden und alle anderen Bewohner\*innen des Lebenshofs in Butjadingen schon bald besuchen. Der Tag steht auch schon fest.**

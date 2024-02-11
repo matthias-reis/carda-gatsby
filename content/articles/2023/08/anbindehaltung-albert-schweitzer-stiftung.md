@@ -1,12 +1,16 @@
 ---
 date: 2023-08-21T12:51:38.215Z
-slug: anbindehaltung-albert-schweitzer-stiftung
 typeName: Beitrag
 title: Warum Rinder aus der Anbindehaltung befreit werden müssen
 subTitle: Tierrechtsorganisation zeigt das Leid der Kühe
 seoTitle: Warum Rinder aus der Anbindehaltung befreit werden müssen
-description: Anbindehaltung sollte längst der Vergangenheit angehören. Dennoch leben auch heute noch zahlreiche Rinder angebunden im Stall.
-excerpt: 'Wer sich häufiger mit Tierschutz beschäftigt, weiß: Das Bild der glücklichen Kühe auf üppigen Blumenwiesen gibt es hauptsächlich in der Werbung und damit auch in unseren Köpfen. Anbindehaltung im Stall ist hingegen nach wie vor eine häufige Praxis. Diese gehört längst verboten, findet die Albert Schweitzer Stiftung.'
+description: Anbindehaltung sollte längst der Vergangenheit angehören. Dennoch
+  leben auch heute noch zahlreiche Rinder angebunden im Stall.
+excerpt: "Wer sich häufiger mit Tierschutz beschäftigt, weiß: Das Bild der
+  glücklichen Kühe auf üppigen Blumenwiesen gibt es hauptsächlich in der Werbung
+  und damit auch in unseren Köpfen. Anbindehaltung im Stall ist hingegen nach
+  wie vor eine häufige Praxis. Diese gehört längst verboten, findet die Albert
+  Schweitzer Stiftung."
 image: https://storage.googleapis.com/cardamonchai-media/2023-08-21/kuehe-in-anbindehaltung-ariwa-animal-rights-watch-jpg-imagine-181818_534943_1024_768/640.webp
 copyright: Animal Rights Watch e. V. (ARIWA)
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-08-21/kuehe-in-anbindehaltung-ariwa-animal-rights-watch-og-png-imagine-181818_4e453f_1200_628/640.webp
@@ -25,6 +29,7 @@ focusKeyword: Anbindehaltung
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Wer sich häufiger mit Tierschutz beschäftigt, weiß: Das Bild der glücklichen Kühe auf üppigen Blumenwiesen gibt es hauptsächlich in der Werbung und damit auch in unseren Köpfen. Anbindehaltung im Stall ist hingegen nach wie vor eine häufige Praxis. Diese gehört längst verboten, findet die Albert Schweitzer Stiftung.**

@@ -1,11 +1,13 @@
 ---
 date: 2021-09-23T12:42:44.975Z
-slug: keep-the-orange-sun-en
 typeName: Review
 title: '"Keep The Orange Sun"'
 subTitle: New Album By From Overseas & awakened souls
 seoTitle: From Overseas & awakened souls – "Keep The Orange Sun"
-description: awakened souls recorded a fantastic new album in cooperation with From Overseas aka Kévin Séry. It will be released tomorrow, so I'll take the chance to introduce it to you today. For me, "Keep The Orange Sun" is solid gold – it definitely needs to be part of my vinyl collection.
+description: awakened souls recorded a fantastic new album in cooperation with
+  From Overseas aka Kévin Séry. It will be released tomorrow, so I'll take the
+  chance to introduce it to you today. For me, "Keep The Orange Sun" is solid
+  gold – it definitely needs to be part of my vinyl collection.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/ktos3-jpg-imagine-a8d8f8_787b82_5118_3555/640.webp
 copyright: From Overseas & awakened souls
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/keep-the-orange-sun-fb-png-imagine-080808_6c6061_1200_628/640.webp
@@ -25,6 +27,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/09/keep-the-orange-sun/
+
 ---
 
 **awakened souls recorded a fantastic new album in cooperation with From Overseas aka Kévin Séry. It will be released tomorrow, so I'll take the chance to introduce it to you today. For me, "Keep The Orange Sun" is solid gold – it definitely needs to be part of my vinyl collection.**

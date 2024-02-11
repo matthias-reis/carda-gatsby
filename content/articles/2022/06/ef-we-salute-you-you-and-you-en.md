@@ -1,12 +1,15 @@
 ---
 date: 2022-06-23T14:06:05.139Z
-slug: ef-we-salute-you-you-and-you-en
 typeName: Review
 title: ef are back
 subTitle: Post-rock pioneers announce new album
 seoTitle: ef announce new Album "We Salute You, You and You!"
-description: After taking a long hiatus, ef are finally back! The Swedes have announced a new album. It's called "We Salute You, You and You!" and will be released on November 4th.
-excerpt: After taking a long hiatus, ef are finally back! The Swedes have announced a new album. It's called "We Salute You, You and You!" and will be released on November 4th.
+description: After taking a long hiatus, ef are finally back! The Swedes have
+  announced a new album. It's called "We Salute You, You and You!" and will be
+  released on November 4th.
+excerpt: After taking a long hiatus, ef are finally back! The Swedes have
+  announced a new album. It's called "We Salute You, You and You!" and will be
+  released on November 4th.
 image: https://storage.googleapis.com/cardamonchai-media/2022-06-23/ef-are-back-jpeg-imagine-181828_7f7b77_1024_768/640.webp
 copyright: ef
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-06-23/ef-are-back-fb-jpeg-imagine-181828_787673_1200_628/640.webp
@@ -23,6 +26,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/06/ef-we-salute-you-you-and-you/
+
 ---
 
 **After taking a long hiatus, ef are finally back! The Swedes have announced a new album. It's called "We Salute You, You and You!" and will be released on November 4th.**

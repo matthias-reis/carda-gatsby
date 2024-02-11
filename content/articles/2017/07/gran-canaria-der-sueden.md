@@ -1,15 +1,16 @@
 ---
-date: 2017-07-27T11:27:40.000+00:00
-slug: gran-canaria-der-sueden
-path: '/2017/07/gran-canaria-der-sueden/'
+date: 2017-07-27T11:27:40.000Z
 type: Galerie
 typeName: Galerie
 title: Gran Canaria - der Süden
 seoTitle: Gran Canaria - der Süden - Mit dem Boot von Bucht zu Bucht
 ogTitle: Gran Canaria - der Süden - Mit dem Boot von Bucht zu Bucht
-description: Gran Canaria ist spannend und vielfältig. Wir haben mit dem Boot den Süden erkundet und dabei von Arguineguín bis Puerto de Mogan so einiges entdeckt.
-excerpt: Gran Canaria ist spannend und vielfältig. Wir haben mit dem Boot den Süden erkundet und dabei von Arguineguín bis Puerto de Mogan so einiges entdeckt.
-fileName: 2017-07---gran-canaria-der-sueden.md
+description: Gran Canaria ist spannend und vielfältig. Wir haben mit dem Boot
+  den Süden erkundet und dabei von Arguineguín bis Puerto de Mogan so einiges
+  entdeckt.
+excerpt: Gran Canaria ist spannend und vielfältig. Wir haben mit dem Boot den
+  Süden erkundet und dabei von Arguineguín bis Puerto de Mogan so einiges
+  entdeckt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35393139313_ae535773b8_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35393139313_ae535773b8_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwcG/8QAKhAAAQMDAwIGAgMAAAAAAAAAAQIDBAAFIQYREhMxIjJBUWGhB0KBkdH/xAAYAQACAwAAAAAAAAAAAAAAAAAFBgECA//EAB0RAAEEAwEBAAAAAAAAAAAAAAEAAgMRBBIhMUH/2gAMAwEAAhEDEQA/AM+RZFnPD6q0WNe/k+qYRdUvqQCmBFIPwv8A2rXtUPBHER4LSifMCSf6JNMu4HxLnSfVEPR8yUypxlhStiBx4nP80+smlJ8BaHFzI8QKO6kEFavjAx90tb1ZLcjFKVpQvsVN7gnFJVzJUhtxt+7z1cjuSXNiPgUOlmkdYpEoY4xRtRZtDaivCWCsIgxCArrTnCCsnuUoyoj0GAMV0SNB2qA2Bdbup1bfFKksp6Y6hV4UgHcq5Hvj2Aoooa7Mlc4sugFeOBm3QrtQfjB6O26bFcRJ3X4W5KumpIz+wwfb09Kza5G6WRx2NdY8iO834wHUghScA7HbYjtkGiipxcl8hLX9WZaB0L//2Q==
@@ -28,14 +29,13 @@ labels:
   - travelling
   - serie:Gran Canaria 2017
 focusKeyword: Gran Canaria
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Mit dem Boot von Bucht zu Bucht
-year: '2017'
-month: '07'
+year: "2017"
+month: "07"
+
 ---
 
 **Eines ganz besonderen Tages im Mai beschlossen wir, uns aufs Wasser zu begeben und den Süden von Gran Canaria zu erkunden. Auf unserem Ausflug entdeckten wir nicht nur jede Menge Canarische Kultur, sondern auch Finnische, Irische und Niederländische. Ihr seid gespannt? Dann lest weiter.**

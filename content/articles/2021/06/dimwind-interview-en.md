@@ -16,7 +16,6 @@ labels:
   - Post-Hardcore
   - Post-Music
 language: en
-slug: dimwind-interview-en
 typeName: Interview
 title: Dimwind Founder Jonas
 subTitle: "\"We've Got To Take Care Of This Planet\""
@@ -34,6 +33,7 @@ focusKeyword: Dimwind
 advertisement: false
 affiliate: false
 languageLink: /2021/06/dimwind-interview
+
 ---
 
 **Dimwind recently released their great debut album "Slow Wave Violence". Because I was so enthusiastic about the record, I decided I needed to do an interview with founder Jonas. We talked about the album, climate change and the connection between heavy music and veganism.**

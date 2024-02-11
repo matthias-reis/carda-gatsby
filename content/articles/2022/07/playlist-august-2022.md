@@ -1,14 +1,17 @@
 ---
 date: 2022-07-27T15:06:00.772Z
-slug: playlist-august-2022
 typeName: Beitrag
 title: Playlist August 2022
 subTitle: Von The Mars Volta bis Lost in Kiev
 seoTitle: Playlist August 2022 – von The Mars Volta bis Lost in Kiev
-description: Die Musikliste für den August ist kurz und knackig. Matze und ich haben insgesamt acht Songs zusammengestellt, die Euch den nächsten Monat versüßen sollen – von Mars Volta bis Lost in Kiev.
-excerpt: Die Musikliste für den August ist kurz und knackig. Matze und ich haben insgesamt acht Songs zusammengestellt, die Euch den nächsten Monat versüßen sollen – von Mars Volta bis Lost in Kiev – viel Spaß damit!
+description: Die Musikliste für den August ist kurz und knackig. Matze und ich
+  haben insgesamt acht Songs zusammengestellt, die Euch den nächsten Monat
+  versüßen sollen – von Mars Volta bis Lost in Kiev.
+excerpt: Die Musikliste für den August ist kurz und knackig. Matze und ich haben
+  insgesamt acht Songs zusammengestellt, die Euch den nächsten Monat versüßen
+  sollen – von Mars Volta bis Lost in Kiev – viel Spaß damit!
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-27/playlist-august-jpeg-imagine-080808_68625f_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-27/playlist-august-fb-jpeg-imagine-080808_625d5a_1200_628/640.webp
 labels:
   - serie:Playlists 2022
@@ -40,6 +43,7 @@ focusKeyword: Playlist August 2022
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die Musikliste für den August ist kurz und knackig. Matze und ich haben insgesamt acht Songs zusammengestellt, die Euch den nächsten Monat versüßen sollen – von Mars Volta bis Lost in Kiev – viel Spaß damit!**

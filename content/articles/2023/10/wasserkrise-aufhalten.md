@@ -1,13 +1,18 @@
 ---
 date: 2023-10-13T12:47:21.076Z
-slug: wasserkrise-aufhalten
 typeName: Beitrag
 title: Die Wasserkrise mit pflanzlichen Lebensmitteln abwenden
 subTitle: Mit Agrarökologie gegen Lebensmittelknappheit und Klimakollaps
-description: Wasserkrise – wie bedrohlich sie werden kann, haben wir hierzulande noch nicht erkannt. Lest jetzt, warum uns Agrarökologie und pflanzliche Lebensmittel vor Dürren, Hunger und andere Katastrophen bewahren könnten.
-excerpt: Die weltweite Wasserkrise macht sich immer mehr bemerkbar. Dürren, Hunger und Flucht sind die Folgen. Die Lösung liegt in einer Mischung aus nachhaltiger Agrarökologie und pflanzlichen Ernährung. Ich habe die Zahlen der Slow Food Netzwerke sowie den Wasserverbrauch bei der Herstellung unterschiedlicher Lebensmittel für euch aufgelistet.
+description: Wasserkrise – wie bedrohlich sie werden kann, haben wir hierzulande
+  noch nicht erkannt. Lest jetzt, warum uns Agrarökologie und pflanzliche
+  Lebensmittel vor Dürren, Hunger und andere Katastrophen bewahren könnten.
+excerpt: Die weltweite Wasserkrise macht sich immer mehr bemerkbar. Dürren,
+  Hunger und Flucht sind die Folgen. Die Lösung liegt in einer Mischung aus
+  nachhaltiger Agrarökologie und pflanzlichen Ernährung. Ich habe die Zahlen der
+  Slow Food Netzwerke sowie den Wasserverbrauch bei der Herstellung
+  unterschiedlicher Lebensmittel für euch aufgelistet.
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-13/wasserkrise-soundsvegan-jpg-imagine-f8f8f8_707982_4752_3168/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-13/wasserkrise-soundsvegan-og-jpeg-imagine-f8f8f8_7b858e_1200_800/640.webp
 labels:
   - Wasserknappheit
@@ -26,6 +31,7 @@ focusKeyword: Wasserkrise
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die Wasserkrise wird immer allgegenwärtiger. Die Slow Food Netzwerke sind sich sicher, dass der Schutz des Wassers ein wichtiger und wesentlicher Bestandteil nachhaltiger Landwirtschaft ist. Sie sehen Agrarökologie als Antwort auf die Wasserkrise und zur Gewährleistung der Ernährungssicherheit.**

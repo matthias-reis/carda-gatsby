@@ -1,15 +1,14 @@
 ---
-date: 2015-08-12T14:39:49.000+00:00
-slug: get-well-soon-live-a-summers-tale-festival-2015
-path: '/2015/08/get-well-soon-live-a-summers-tale-festival-2015/'
+date: 2015-08-12T14:39:49.000Z
 type: Galerie
 typeName: Konzertbericht
 title: Get Well Soon live @ A Summer's Tale Festival 2015
 seoTitle: Get Well Soon live @ A Summer's Tale Festival 2015
 ogTitle: Get Well Soon live @ A Summer's Tale Festival 2015
-description: Get Well Soon sorgten beim neuen A Summer's Tale Festival für Stimmung. Ich habe ein paar Eindrücke fotografisch für Euch festgehalten.
-excerpt: Get Well Soon - Normalerweise sind das Konstatin Gropper und seine Schwester Verena zusammen mit ihrer Band.
-fileName: 2015-08---get-well-soon-live-a-summers-tale-festival-2015.md
+description: Get Well Soon sorgten beim neuen A Summer's Tale Festival für
+  Stimmung. Ich habe ein paar Eindrücke fotografisch für Euch festgehalten.
+excerpt: Get Well Soon - Normalerweise sind das Konstatin Gropper und seine
+  Schwester Verena zusammen mit ihrer Band.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20489421176_0ed5ebcd74_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20489421176_0ed5ebcd74_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAsEAABAwIFBAECBwAAAAAAAAABAgMEBREABhIhMQcTQWFRFJEVJDJCcYHx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUA/8QAIhEAAQMEAgIDAAAAAAAAAAAAAQIDEQAEIXExMiJB0eHx/9oADAMBAAIRAxEAPwDllpJKhtf1g/ApyHocpQvqQgqG3I03++2BMVPGGvLZdUHWmWO+t1jSE+RbVcj+AMMtEJU4Arg/FY9cVv6bZHgZrfqf4lUHoTMOP3QlhkLW4o3sLmyQBpPJ32A5wmZgpL9Fq0qBJsXGFlGoCwUOQoeiCD/eLJ0BiMuS6jUXpTTDcRIUtS7myO2rVZP7ibgW8c4L9dssUZ/p7GzLQ24ji0TUIMlkaVrjLbAQHB8pUkD/AHEM3ZRdltR8Tgbx91TXaoNslxPb3rNQWmRJUoflor7wHJbaUoD7DDrkOPIi5jp7Utl+P9U242nW0oFYIP6QRve9tsD8s1eTScvPdtLQbebUEqsQpQvZQJvb5HGNCs1uvUiFT40dmLBa7tnUPKLxWpI1kFWySoAcDwMUrW6U28FxhJoSmwUxPIqt5RjSYVBpIjREM112O5Efjv6UoHaTZCl2N0qUnTYcqscT3qcitU2hMNyJTa4UpRQ5HDOhTJBBTcX2va/rbzhOR2pbk2Mp+SGmWlPpSHrgqA2BBFrnYX9YIVSfBkUV6HEgsMqbQpsrbRoLmnSQpW+5+fYPF8BNqhlzIkzOta9U03S3URMYjf7X/9k=
@@ -26,12 +25,11 @@ labels:
   - Rock
   - serie:A Summer's Tale 2015
 focusKeyword: Get Well Soon
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Von Feen und Harmonie
+
 ---
 
 **Get Well Soon - Normalerweise sind das Konstatin Gropper und seine Schwester Verena zusammen mit ihrer Band. Da sich Verena gerade in der Babypause befindet, brachte Konstantin seine nicht weniger begabte, wunderschöne Kollegin Alex Mayr mit, die Verena als Duettpartnerin und multiinstrumental begabte Unterstützung würdig vertrat.**

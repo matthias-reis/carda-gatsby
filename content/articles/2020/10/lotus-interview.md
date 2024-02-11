@@ -1,25 +1,24 @@
 ---
 ogTitle: Lotus – Interview mit der Post-Rock-Band aus Indien
-excerpt: Das erklärte Ziel der indischen Post-Rock-Band Lotus ist es, die Grenzen Genre-basierter Musik aufzulösen. In Kürze veröffentlichen sie ihr erstes Album.
+excerpt: Das erklärte Ziel der indischen Post-Rock-Band Lotus ist es, die
+  Grenzen Genre-basierter Musik aufzulösen. In Kürze veröffentlichen sie ihr
+  erstes Album.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_lotus-interview-fb.png__l.jpg
 isAffiliate: false
-path: /2020/10/lotus-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QAKRAAAgECBQQBBAMAAAAAAAAAAQIDBBEABQYSIRMUIjFBFWFxgRYyUf/EABcBAAMBAAAAAAAAAAAAAAAAAAACBAP/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADEQQSITETImFR/9oADAMBAAIRAxEAPwCkayk1rHBS1mrKclGl2xTSup2vt/qVBtyF92+PeK5HXSyosfWqOoHDcHeoVRyTjTNX0EU2ls0qv5FVZnRSSiqo0mO4AAkqUYn2QbWAHF/nGVRh6dbBm6LN0+pGfEsLFh97XGIkYMvXIlWor8Z46nZJmEqGVxLUFpSsiX8FYej+/vh66vqsnkH0OXtp+mEkqmHnIRbn/AL+vxzziOn3MZYlkkkgibzkYWCqbLcj49jGi6H0plGX6dXUOb5920ayWqqaPY4qItwIjFzySD65+CMNlVGSIlKM5wJCU2l88znTxvBTdRJzJ2vEbOSpG9V4DNx6A9DDKeDsaVIIqFWkgbeysvCPYBiUNhcgAXPJ/WDBjCz2qDfTG1PFuz4Iyqk7hKl8wpYkE3DvYKrhSDyBw3kAefziv0eUZnT00WdZXB39JDUPC0UDnfC4VbNYcrdWsCL+jgwYKzsQuP2FCBmxP//Z
 typeName: Interview
 isWerbung: false
-fileName: 2020-10---lotus.md
-slug: lotus-interview
-errors: {}
 date: 2020-10-14T09:01:03.000Z
 focusKeyword: Lotus
 languageLink: /2020/10/lotus-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_lotus-interview__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_lotus-interview__m.jpg
 title: Lotus
 subTitle: Post-Rock aus Indien
 seoTitle: Lotus – Interview mit der Post-Rock-Band aus Indien
-description: Das erklärte Ziel der indischen Post-Rock-Band Lotus ist es, die Grenzen Genre-basierter Musik aufzulösen. In Kürze veröffentlichen sie ihr erstes Album.
+description: Das erklärte Ziel der indischen Post-Rock-Band Lotus ist es, die
+  Grenzen Genre-basierter Musik aufzulösen. In Kürze veröffentlichen sie ihr
+  erstes Album.
 language: de
 type: Artikel
 labels:
@@ -34,6 +33,7 @@ labels:
   - Post-Rock
   - Robert Alex
   - Siddharth Amarnath
+
 ---
 
 **Das erklärte Ziel der Post-Rock-Band Lotus aus dem indischen Pune ist es, die Grenzen Genre-basierter Musik aufzulösen. Die Musiker möchten ihre Zuhörer in ein rauschendes Wellenmeer aus rhythmischen Grooves und atmosphärischen Gitarren eintauchen lassen. Ihrem einzigartigen Sound kann man Einflüsse aus Progressive Rock, Fusion und elektronischem Ambient anhören.**

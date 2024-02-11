@@ -1,15 +1,16 @@
 ---
-date: 2020-04-05T14:07:09+02:00
-slug: from-overseas-interview
-path: '/2020/04/from-overseas-interview/'
+date: 2020-04-05T12:07:09.000Z
 type: Artikel
 typeName: Interview
 title: From Overseas
 seoTitle: From Overseas im Interview - Post-Rock aus La Réunion
 ogTitle: From Overseas im Interview - Post-Rock aus La Réunion
-description: Der Musiker Kévin Séry kommt aus La Réunion. Mit seiner Gitarre und seinen ausgefeilten Loop-Techniken erzeugt er seinen magischen From Overseas Sound.
-excerpt: English & German - Der Musiker Kévin Séry kommt aus La Réunion. Mit seiner Gitarre und seinen ausgefeilten Loop-Techniken erzeugt er seinen magischen From Overseas Sound.
-fileName: 2020-04---from-overseas.md
+description: Der Musiker Kévin Séry kommt aus La Réunion. Mit seiner Gitarre und
+  seinen ausgefeilten Loop-Techniken erzeugt er seinen magischen From Overseas
+  Sound.
+excerpt: English & German - Der Musiker Kévin Séry kommt aus La Réunion. Mit
+  seiner Gitarre und seinen ausgefeilten Loop-Techniken erzeugt er seinen
+  magischen From Overseas Sound.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAAqEAABBAEDAgUEAwAAAAAAAAABAgMEEQUABiESMQcTIjJxFEFRYSORof/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAP/EACERAAEEAQQDAQAAAAAAAAAAAAEAAgMRISIxQWESMlFx/9oADAMBAAIRAxEAPwDmNMYhqipCXSoAtm+r9cf7rT4DCxXMnATlkp+loBxN0FVz34ri/k6Uw2SqSy0w04sqR5xJABUOkn7nsAFf1ppiJ0iaphlEYyFqcAbQhJUpZvhIA5v41J7PPTshOnfG4PaLA+rRbmTj8luU43bWBLUVqKHCqOkNKlDp9alIKuLUQAAbFXRutTiU+w57WlNqoAt1wkjvR78/Gq0Z+KhSJZyZkxsyWRDWyqOoPMr6QfTyCk3x2/GspI8PJeHiR8nu+WiBDkEpQ21/LKec7ltKPsoWLKiALAu+NGixK5psAVXeM/qeGiaNst6jd1xnGOEoy0dxssOKeCgYyQEhtKKSTVemvzq6+DeRwr7UV+JtjHwsi9EWTJaJPSUqCFUDyOq79360aNUk9r7UogCACNwpzvPfM/DbvyogRYLWTWtCXciGreKQhICUE35YAAHHPF3epzNycuctp6VIfekN+1511S1gCqAJNijZ+SdGjSaFkrMOkBf/2Q==
@@ -32,13 +33,12 @@ labels:
   - Studio Schwebung
   - You're Jovian
 focusKeyword: From Overseas
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Post-Rock aus La Réunion
-languageLink: '/2020/04/from-overseas-interview-en'
+languageLink: /2020/04/from-overseas-interview-en
+
 ---
 
 **From Overseas - was für ein wunderbarer Name für ein Musikprojekt. Der Musiker Kévin Séry kommt aus dem französischen Übersee-Departement La Réunion. Mit seiner Gitarre und seinen ausgefeilten Loop-Techniken erzeugt er einen magischen Sound.**

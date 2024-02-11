@@ -1,15 +1,14 @@
 ---
 date: 2012-11-30T15:25:02.000Z
-slug: blind-pilot-live-muffathalle-munchen-29-11-2012
-path: /2012/11/blind-pilot-live-muffathalle-munchen-29-11-2012/
 type: Galerie
 typeName: Konzertbericht
 title: Blind Pilot live @Muffathalle München 29.11.2012
 seoTitle: Blind Pilot live @ Muffathalle
 ogTitle: Blind Pilot live @ Muffathalle
-description: 'Eine tolle Überraschung: Blind Pilot als Vorband von Calexico! Ich liebe die Band und meine Erwartungen wurden bei weitem übertroffen...'
-excerpt: Das war eine tolle Überraschung, als sich herausstellte, das Blind Pilot als Vorband von Calexico auftreten würden.
-fileName: 2012-11---blind-pilot-live-muffathalle-muenchen-29-11-2012.md
+description: "Eine tolle Überraschung: Blind Pilot als Vorband von Calexico! Ich
+  liebe die Band und meine Erwartungen wurden bei weitem übertroffen..."
+excerpt: Das war eine tolle Überraschung, als sich herausstellte, das Blind
+  Pilot als Vorband von Calexico auftreten würden.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_11_dsc3216__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_11_dsc3216__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAnEAACAQMDAwMFAAAAAAAAAAABAgMABAUREiExQVEGB2ETMnGxwf/EABkBAAIDAQAAAAAAAAAAAAAAAAIEAQMFBv/EACMRAAICAQMDBQAAAAAAAAAAAAECAAMRBCFBBSKxMVFhcYH/2gAMAwEAAhEDEQA/AOEwR1p43HTZTIW1jbAfWnfYvgd9aThAHcAfNP4fJw43IxXLxLLtJBDjcNpBB478U2chSVG85+sCy0BzgZ3MVzOJjtVmEV4s0sDFZYjGUZfkcnWpqVfNXgwOW9RGbIY+ASM7tojOFZ+NeNfA/AFRF5E8EzxTIySISrK3UGiUhlzzzHFqNTFckjgn1x+TXOqxgg/dWz7f2UGV9ZY62vUWS33NI8bDUPtUsFPxqBrRRVN7FamI9j4gaFQ1yBhyPMus5KtrlmitIxGBeFpz1M+6JioPhV7L071xnMSGSYynhixB/f8AaKKjp29D/SzW1w7gPkz/2Q==
@@ -36,12 +35,11 @@ labels:
   - Musik Portland Oregon
   - portland oregon
 focusKeyword: Blind Pilot
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Konzert mit Calexico
+
 ---
 
 **Das war eine tolle Überraschung, als sich herausstellte, das Blind Pilot als Vorband von Calexico auftreten würden. Ich mag die Band sehr, bisher hatte sich allerdings noch keine Gelegenheit ergeben, sie live zu genießen. Bis gestern.**

@@ -16,21 +16,23 @@ labels:
   - English & German
   - Jone Amundsen Piscopo
 language: en
-slug: sundrowned-become-etheral-en
 typeName: Review
 title: Sundrowned – "Become Etheral"
 subTitle: Post-Black Metal From Norway
 seoTitle: Sundrowned – "Become Etheral" – Post-Black Metal From Norway
-ogTitle: ''
-description: On Friday, Sundrowned will release their debut album "Become Etheral". I have already listened to it and strongly recommend it to you. It is a marvellous piece of work that you definitely shouldn't miss.
-excerpt: ''
+ogTitle: ""
+description: On Friday, Sundrowned will release their debut album "Become
+  Etheral". I have already listened to it and strongly recommend it to you. It
+  is a marvellous piece of work that you definitely shouldn't miss.
+excerpt: ""
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/473924-jpg-imagine-0878b8_067cb7_1440_1080/640.webp
 copyright: Sundrowned
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sundrowned-fb-jpg-imagine-0868a8_087cb6_1200_628/640.webp
-focusKeyword: ''
+focusKeyword: ""
 advertisement: false
 affiliate: false
 languageLink: /2021/06/sundrowned-become-etheral
+
 ---
 
 **On Friday, Sundrowned will release their debut album "Become Etheral". I have already listened to it and strongly recommend it to you. It is a marvellous piece of work that you definitely shouldn't miss.**

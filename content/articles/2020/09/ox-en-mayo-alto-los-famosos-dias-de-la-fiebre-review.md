@@ -5,17 +5,12 @@ excerpt: "Heute möchte ich Euch gerne von einer Neuentdeckung erzählen: der
   Córdoba."
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-fb.png__l.jpg
 isAffiliate: false
-path: /2020/09/ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgIECP/EACoQAAIBAwIFAgcBAAAAAAAAAAECAwAEEQUSBhMhMVFBYQciMkJxgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAD/8QAGhEBAQEAAwEAAAAAAAAAAAAAAREAAiEiMf/aAAwDAQACEQMRAD8A570PRp72RJZG3Rj7FHnp39qYxWMMMCtd3AjR+gLEDPsBjJrW4ZgaXiHSThlTaFLkHbuJYDJ/YqxcMXUMnHnDumX1tFLbHUVs7hZOqSI7BHHnGPXv2rWdE2V+3LTpsE1s72lwsqx9G2kHB8EYpdremtZXUsawvsXADZ+o/wAp5ZawL661AclObdXBCsmFUYyAPxUfEaSSC6jgimCjnyrJs9SGAx/tEo5WJNUOGr5rTVrVizctZAxG44GD3oudQuItUF7auyTpO0scg7q27IYe9FFI+dIXZaVftFdiR+p3qflXA6YphxTfSalqlxIrLyua7LnyxycUUUclOKmp3v/Z
 typeName: Review
 isWerbung: false
-fileName: 2020-09---ox-en-mayo-alto.md
-slug: ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review
-errors: {}
 date: 2020-09-29T14:10:54.000Z
 focusKeyword: Ox en Mayo alto
 languageLink: /2020/09/ox-en-mayo-alto-los-famosos-dias-de-la-fiebre-review-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_ox-en-mayo-alto-1__m.jpg
 title: Ox en Mayo alto
@@ -38,7 +33,9 @@ labels:
   - Post-Rock
   - Review
   - Rezension
+
 ---
+
 **Heute möchte ich Euch gerne von einer Neuentdeckung erzählen, die mich seit ein paar Tagen schwer beschäftigt: Die Post-Rock/Post-Hardcore/Mathcore Band Ox en Mayo alto aus dem argentinischen Córdoba.**
 
 Erst vor Kurzem erreichte mich die Nachricht über die Veröffentlichung ihres ersten Sound-Materials. Es handelt sich dabei um eine Video-EP mit dem Titel "Los famosos días de la fiebre".

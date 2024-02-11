@@ -1,13 +1,15 @@
 ---
 date: 2019-04-24T14:30:19.000Z
-slug: 10-tipps-wie-du-deine-nerven-schonst
-path: /2019/04/10-tipps-wie-du-deine-nerven-schonst/
 title: 10 Tipps, wie Du Deine Nerven schonst
 seoTitle: 10 Tipps, wie Du Deine Nerven schonst
 ogTitle: 10 Tipps, wie Du Deine Nerven schonst
-description: Kaum hat man sich was Tolles vorgenommen, kommt ein*e Kritiker*in daher und die Motivation ist weg - Ich habe 10 Tipps für Dich, was Du jetzt tun kannst.
-excerpt: 'Wer kennt das nicht: Kaum hat man sich etwas Tolles vorgenommen, kommen die Kritiker*innen um die Ecke und vorbei ist es mit der Motivation - doch wie kommt man aus der grauen Wolke wieder raus? Ich habe zehn Ideen zusammengestellt.'
-fileName: 2019-04---10-tipps-wie-du-deine-nerven-schonst.md
+description: Kaum hat man sich was Tolles vorgenommen, kommt ein*e Kritiker*in
+  daher und die Motivation ist weg - Ich habe 10 Tipps für Dich, was Du jetzt
+  tun kannst.
+excerpt: "Wer kennt das nicht: Kaum hat man sich etwas Tolles vorgenommen,
+  kommen die Kritiker*innen um die Ecke und vorbei ist es mit der Motivation -
+  doch wie kommt man aus der grauen Wolke wieder raus? Ich habe zehn Ideen
+  zusammengestellt."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_wildling-sandale-windlass-effekt__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_wildling-sandale-windlass-effekt__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EACoQAAEDAwIFBAIDAAAAAAAAAAECAwQFBhEAIRITMUFxByJhgRQVM1Fi/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAyEEEUEFEqEiMXGx0f/aAAwDAQACEQMRAD8ArXa3bMFD7rtMmJbZjcwLVLXhTnFwJScHbiIPTO2+NLl9ypVEq1Mag1aXNEtlEgPxlNqipyrGEtEFRQMEZUrORvprqttzItoT5bsZUduKyqU4oBClLVgICRkEABKid+mBjfXI6Lbxltfhw3JcirOOjko4+FtKVKIXk56n2b/J+NObSoVJVFxzsMeIPutqcCxmG/BJz5xNe4PUCt1HlxIa40drGAuHGS248T3JxxfQxqO3Llq0GeI9SjCospVh6LLZBWAepCiMpPnbUFryo9uXe3Jq0WSlMZbjLrLZHMZUAU7Z7g9vPTVt6k3nGrdfYk0VLyW2Y5YW++gJXIJWVZUB/WcDJzoigLYAw9MUxJQ9pzH6u06szEL5VZmVJhY9yHHlIV4KFK4T9H61j6eR3KVLqMiTBf8AyFJSyw44gpQ2QpKjxZ37AbaNGjP1fUNQwwNtuJovT6luViSfky0vS2aLd0x2dMBgVJX8kmNk84/7QrYnHcYPnSnTrSt635YmOyP2clr3NolYQ2FDoeFJ3Pk4+NGjUtdZe5y31+SgaK19ln//2Q==
@@ -33,12 +35,11 @@ labels:
   - Vorfreude ist die beste Freude
   - Vorfreue
 focusKeyword: Nerven
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Alltag für Fortgeschrittene
+
 ---
 
 **Ist das dieses Leben, von dem alle sprechen? Überall fliegen die Fetzen, es ist laut und ständig nervt jemand mit Fragen. Wie soll man denn da die Ruhe bewahren?**

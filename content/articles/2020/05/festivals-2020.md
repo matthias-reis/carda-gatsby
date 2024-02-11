@@ -1,13 +1,14 @@
 ---
-date: 2020-05-14T15:10:01.000+00:00
-slug: festivals-2020
-path: '/2020/05/festivals-2020/'
+date: 2020-05-14T15:10:01.000Z
 title: Festivals 2020
 seoTitle: Festivals 2020 - Veranstalter in Not
 ogTitle: Festivals 2020 - Veranstalter in Not
-description: Festivals werden wie es aussieht diesen Sommer nicht stattfinden. Viele Veranstalter stehen jetzt vor dem Aus. Das können wir tun, um sie zu unterstützen.
-excerpt: Festivals werden wie es aussieht diesen Sommer nicht stattfinden. Viele Veranstalter stehen jetzt vor dem Aus. Das können wir tun, um sie zu unterstützen.
-fileName: 2020-05---festivals-2020.md
+description: Festivals werden wie es aussieht diesen Sommer nicht stattfinden.
+  Viele Veranstalter stehen jetzt vor dem Aus. Das können wir tun, um sie zu
+  unterstützen.
+excerpt: Festivals werden wie es aussieht diesen Sommer nicht stattfinden. Viele
+  Veranstalter stehen jetzt vor dem Aus. Das können wir tun, um sie zu
+  unterstützen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-dunk.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_pray-for-sound-dunk.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAGgklEQVRIiU2WZYhWXRSFr47d3YoxxtjdMQZYY+GI2GJhgIHdivVDUcEeRx27u7sDGxXFQgUDf4hggCKy5FmfZz5fONx7z3vPWWuvvfY+N8qUKZOyZs2q7NmzK2fOnMqXL5+KFSumUqVKKS4uTrVq1VLDhg0VHx+v1q1bq3PnzurTp49Gjx6t6dOna+rUqZo2bZrHlClTNGnSJE2YMEFjx47VqFGjPCZOnOi1devWVZ06ddSgQYPU+wjwAFyoUCGVKFFCFSpUULVq1Qzctm1bde/eXf369dOIESM0efJkzZkzRytXrtTmzZu1bds2X7ds2aKUlBTPb9iwQQcPHtTq1au1bt06ff36VZcvXzbZTp06qUOHDt43ISFBUY4cOZQ3b14VLlxYJUuWVKVKlVS/fn21atVKXbp00aBBgxwBoEuXLvWmSUlJ2r59u86dO6crV67o/Pnzevv2rcfhw4d1584d8Tt9+rT27t2rV69emeiYMWNSwbmiYpQnTx5HDjiRI027du3Uu3dvRzx37lytWrXKkTB27dqlkydPGvT79+/69u2bHj58qN+/f+vHjx+6ePGiST148MAEtm7daoUIpFu3blYS8K5du2rHjh2KChYs6JyXL19eNWvWVPPmzdW3b1/LBTCybtq0STdv3tSxY8d0+/Ztffr0SdeuXdPPnz/15csXXb9+Xbdu3dLVq1d1/PhxHT161ErwvG/fPqs1fPhwE0BNrh07dtS8efMUBcNVrlzZ5mjfvr3mz5+vNWvW6P79+3rz5o12795t0Hv37nnjS5cuWX7IPHv2zGoAeujQIQMS2c6dO+0L5iBFQD179tSwYcOUmJioFi1aOM0RTq9evbrBmeAlwJH61KlTlhNDITuSsiEDIkeOHDEZ5sP7zAGIIs+fP9fnz5/14sULrVixQgMGDNCQIUOchnr16nlETZs2tTPJ98yZM2008rh//35vSkQQCIBceQ7jyZMnVuHx48f69euXnzEj4OFHmghq6NChGjhwoP1FuqtWraqIuh43bpxzfeLECa1fv17v37+33MgK6J49e0yGVHCPsw8cOODoP3z4YH9gutevX9sPZ8+e9VrUowJevnyp5cuXa/DgwS49MEl52bJlFSEHf5LvR48eae3atVaAHBMtgOQSI3Ilv5BBIYDIPyZDjTNnzujp06dOBc+spSQ/fvyoRYsWOXLSjOqlS5d26UfkhtoGkAV0NHJKBICw+caNGz0oKZ4hgApUwrt373yPLyCOehcuXDBZAuA/glu2bJnLmzJH+qJFiyp37tz/KUBrHT9+vFPRv39/A5ASokV2nhk4m4bCPSmAJGYjFZgUqZEcUjdu3HB/QCGUgiwmRHYip/PS/iM6X+PGjW1EKgCWtFJUQTY8QfRIGqQPpUbUACA9XqEsabl37951+QLMutCmCZR+AwnAM2fOrCi0YA6dli1bqkaNGj5kAO/Vq5fvGaQqOTk5tbNxJWUAQIqBWqhEmoJRufI+FUCV9ejRw8Hmz59f6dOnV5QrVy7LQU5gVqZMGddnmzZtfILRtWgcLBw5cqSWLFmSakrAAECxkDKIAAiJf9XCfBkyZFCRIkVsQg7BmJiY/0/DcCYUL17cJCBDapo1a+bDic4FczrZ4sWLDYwfaDqUL5W0YMECn4aUH/MQhQBppNlx1nAAsT+fASaADGnTptW/3wUogkSUCm2aNLGYUyyckAsXLvRm5JzaxyfkmG8CGg/lN3v2bPuD/zneoyjyetwPpgmkSZMm1ZHIEz5MIMOLWbJkUbZs2XzPdwFqcJJRLTNmzPCBQ/REjE9mzZplfwDOAcS5QrPCAxDAhOwZAo84DTkHACFaUtCoUSObkqiRi7ZJ9BxUvE96qGeeyS2l3KRJE+ec/HLSsRbZSS3egTCABJYxY0bfE7w94IYQRY6eDxS8wAYQ4zlUCvNUCYsp39jYWH/McKJi5gIFCvjdKlWqGBwliZa15cqV816YHUzArQDAzkUUmS0LAjsUgRR+YGH4cKF+eZeow7cEm0KANeS7YsWK9hAKpkuXzhhEjtLcM5i3B5CVjYMJ+RMSbMYi0sKxHZoHhoUw3uEaiAYQ5oKiQfIQKPsCzLACzkMUmTURIiVzvFC7dm33BBSAJNGgEHISCfKzFqkdzV9Q6p13Icg973GFCOYLRIwd5GcTwLn/mxsPn1h/7wEN5cmmrGVD5gGABKlinhTxHoT4/989GYBD4A8cO4z+eSjA+wAAAABJRU5ErkJggg==
@@ -26,14 +27,13 @@ labels:
   - Pray for Sound
   - serie:DUNK!festival
 focusKeyword: Festivals
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Veranstalter in Not
-year: '2020'
-month: '05'
+year: "2020"
+month: "05"
+
 ---
 
 **Der Festivalsommer 2020 sieht wie vieles in diesem Jahr traurig aus. Ein Open Air nach der anderen wird abgesagt. Die Veranstalter geraten zusehends in Not.**

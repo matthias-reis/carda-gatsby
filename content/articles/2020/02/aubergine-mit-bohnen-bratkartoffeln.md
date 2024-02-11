@@ -1,15 +1,15 @@
 ---
 date: 2020-02-16T17:17:19.000Z
-slug: aubergine-mit-bohnen-bratkartoffeln
-path: /2020/02/aubergine-mit-bohnen-bratkartoffeln/
 type: Artikel
 typeName: Rezept
 title: Aubergine mit Bohnen-Bratkartoffeln
 seoTitle: Aubergine mit Bohnen-Bratkartoffeln - vegan
 ogTitle: Aubergine mit Bohnen-Bratkartoffeln - vegan
-description: Heute verrät uns Matze sein grandioses Rezept für geschmorte Aubergine mit mit Bohnen-Bratkartoffeln. Ich wünsche Euch viel Spaß beim Schlemmen.
-excerpt: Heute verrät uns Matze sein grandioses Rezept für geschmorte Aubergine mit mit Bohnen-Bratkartoffeln. Ich wünsche Euch viel Spaß beim Schlemmen.
-fileName: 2020-02---aubergine-mit-bohnen-bratkartoffeln.md
+description: Heute verrät uns Matze sein grandioses Rezept für geschmorte
+  Aubergine mit mit Bohnen-Bratkartoffeln. Ich wünsche Euch viel Spaß beim
+  Schlemmen.
+excerpt: Heute verrät uns Matze sein grandioses Rezept für geschmorte Aubergine
+  mit mit Bohnen-Bratkartoffeln. Ich wünsche Euch viel Spaß beim Schlemmen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2020-02-09-matzes-gericht-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2020-02-09-matzes-gericht-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwME/8QAKhAAAgEDAwMCBgMAAAAAAAAAAQIDBAURACExBhITB0EUFSIkUYFicZH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQAD/8QAJBEAAQMDAwQDAAAAAAAAAAAAAQIDEQAEIRMx8AUiQWFxgaH/2gAMAwEAAhEDEQA/AMBsNsWedPmFLI3mIkQoxLvlgB9I5BbY7e/Gq22yW2e8NSqsMJziOFgI2icLl05BIJyCQR/WpGyXR47zQ1FXUnw00wkMcLMGxxkdv45GqiWenhqqOpp5T4pyWbzOzR93dncDdPY8HUO6Ssr7p2xG1U0qShGMDEmPHPymlHb6qE/dWpJ5ZJY6g5jEQ7hntKq2FUEBgzAlc440h6iWKgua3ewT0sAaRo5KZJVklSUFu8SICQVJ4IO/t7A6RI0N1qVk+NhqYYd6SogqGEiudnKSDGBzsdj+NQPW/T1NaoqmalqHeBJO1o5EywzufqG3BOD74X8aNZuEuw5gnEeOfXqmPt6ttqtQUifRxzO9dOiPUZ7M3wtspLVRRyDt7jDgk/yPP7J506uvqXW1UtEsbWmeFWy0ZgTAbYEhsZBIJP8AmjRpz9m0FkxRWk6zcHm1Mbb6p0lmqaiEx0I8zeRvtgwjbPAXHPv+9eLrb1GtPU/T9bRVlFQy1ZVkhlFKY3jfG5DADGBnOc7baNGs105oQ4CZ+a5POluUJGK//9k=
@@ -25,16 +25,14 @@ labels:
   - Tomaten
   - vegan kochen
   - vegane Rezepte
-
   - Veganes Essen
   - veganes Rezept mit Bohnen
 focusKeyword: Aubergine
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Veganes Rezept für zwei Personen
+
 ---
 
 **Vor Kurzem hat Matze mich mal wieder mit einem ganz wunderbaren Gericht beglückt. Im Anschluss musste ich ihn einfach darum bitten, das Rezept für mich aufzuschreiben. Ich möchte es heute mit Euch teilen.**

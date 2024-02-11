@@ -1,6 +1,5 @@
 ---
 date: 2023-10-27T08:55:46.730Z
-slug: moby-we-re-going-wrong
 typeName: Review
 title: "\"We're Going Wrong\""
 subTitle: Moby veröffentlicht Cream Song neu
@@ -33,7 +32,9 @@ focusKeyword: Moby – "We're Going Wrong"
 advertisement: false
 affiliate: false
 language: de
+
 ---
+
 **"We're Going Wrong" heißt die neue Single von Moby und Brie O'Banion. Der erstmals von Cream im Jahr 1967 veröffentlichte Song könnte nicht aktueller sein. Die neue Downtempo-Variante des Stücks erschien am 17. Oktober auf Moby Plattenlabel Always Centered At Night.**
 
 Vor ein paar Jahren bereitete sich Moby auf den Verkauf einiger Sammlerstücke an das Physicians Committee for Responsible Medicine vor. Beim Durchstöbern der alten Vinylplatten kam er dann auf die Idee, eine Version des Songs "We're going Wrong" in seinem ganz persönlichen Stil zu produzieren.

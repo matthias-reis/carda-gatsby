@@ -1,14 +1,18 @@
 ---
 date: 2023-04-15T16:31:31.546Z
-slug: welcome-sounds-vegan
 typeName: Beitrag
 title: Rock 'n' Roll vegan wird zu Sounds Vegan
 subTitle: Neuer Blogname – vertraute Themen
 seoTitle: Sounds Vegan – Blog über Veganismus und alternative Musik
-description: Erfahrt alles über Sounds Vegan – Eure erste Anlaufstelle, wenn es um vegane Themen und alternative Musik geht. Jetzt gleich checken!
-excerpt: 'Es ist soweit, heute lasse ich die Katze aus dem Jutebeutel: nach langem Hin- und Her Überlegen habe ich mich dazu entschieden, meinem Blog einen neuen Namen zu geben. Sagt hallo zu Sounds Vegan! Meine Themen werden sich weiter wie gewohnt um Veganismus und Musik drehen – und alles was damit zusammenhängt.'
+description: Erfahrt alles über Sounds Vegan – Eure erste Anlaufstelle, wenn es
+  um vegane Themen und alternative Musik geht. Jetzt gleich checken!
+excerpt: "Es ist soweit, heute lasse ich die Katze aus dem Jutebeutel: nach
+  langem Hin- und Her Überlegen habe ich mich dazu entschieden, meinem Blog
+  einen neuen Namen zu geben. Sagt hallo zu Sounds Vegan! Meine Themen werden
+  sich weiter wie gewohnt um Veganismus und Musik drehen – und alles was damit
+  zusammenhängt."
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-15/soundsvegan-new-blog-a-reis-png-imagine-385848_525843_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-15/soundsvegan-new-blog-og-a-reis-png-imagine-385848_4f5c48_1200_628/640.webp
 labels:
   - Sounds Vegan
@@ -23,6 +27,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/04/welcome-sounds-vegan-en/
+
 ---
 
 **Es ist so weit, heute lasse ich die Katze aus dem Jutebeutel: nach langem Überlegen habe ich mich dazu entschieden, meinem Blog einen neuen Namen zu geben. Sagt hallo zu Sounds Vegan! Meine Themen werden sich weiter wie gewohnt um Veganismus und Musik drehen – und alles, was damit zusammenhängt.**

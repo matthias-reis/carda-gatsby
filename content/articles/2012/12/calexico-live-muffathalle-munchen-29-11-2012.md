@@ -1,47 +1,43 @@
 ---
-date: 2012-12-03T18:35:20.000+00:00
-slug: calexico-live-muffathalle-munchen-29-11-2012
-path: "/2012/12/calexico-live-muffathalle-munchen-29-11-2012/"
+date: 2012-12-03T18:35:20.000Z
 type: Galerie
 typeName: Konzertbericht
 title: Calexico live @Muffathalle München 29.11.2012
 seoTitle: Calexico live in der Münchener Muffathalle - mein Konzertbericht
 ogTitle: Calexico live in der Münchener Muffathalle - mein Konzertbericht
-description: Hier nun endlich die langersehnten Bilder vom Calexico-Konzert letzten
+description: Hier nun endlich die langersehnten Bilder vom Calexico-Konzert
+  letzten Donnerstag in der Münchner Muffathalle direkt aus meinem Fotolabor.
+excerpt: Hier nun endlich die langersehnten Bilder vom Calexico-Konzert letzten
   Donnerstag in der Münchner Muffathalle direkt aus meinem Fotolabor.
-excerpt: Hier nun endlich die langersehnten Bilder vom Calexico-Konzert letzten Donnerstag
-  in der Münchner Muffathalle direkt aus meinem Fotolabor.
-fileName: 2012-12---calexico-live-muffathalle-muenchen-29-11-2012.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_12_dsc3704__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_12_dsc3704__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcCBP/EACgQAAEDAwMDAwUAAAAAAAAAAAECAwQABRESEyEGMVEVIkFhcYHR8P/EABcBAQEBAQAAAAAAAAAAAAAAAAQDBQb/xAAfEQACAQQCAwAAAAAAAAAAAAABAgADESExIrEyQWH/2gAMAwEAAhEDEQA/AMUjksp5ruFH9SucaLrQgOuBGtZwlI+SaWOPq1KQFaikkYA7/qrB0nNdt01mQkN6+UrVpySk5yB/c4q5BRGZd2xE0grVFV9XzIb1Bbs1zehqG8G1adwApyO+efpXtZjo2ULzlJGQakuinrw9srQtOp3dUQkleMYJPnAp5cLI43b3pNsaflWiOvaTMQ0dvAA7+PBJ4yDzUlqOyAPv3E1qAUlqY4zL4xyeasdtISRx2oopDnEEkeXVTkFbMiE4ppx6KsLz7gdIOOPuc/gU26eusiD1RCiJWsxHHkwHGQrCVtqGn3D5880UVkjlYn73On8LhcDHU//Z
-ogImage: 
+ogImage: null
 labels:
-- 12 Songs
-- Blog
-- Calexico
-- Calexico Muffathalle
-- Calexico Muffathalle 2012
-- Concert
-- ich
-- Konzert
-- Konzerte
-- live
-- Love
-- Me
-- Muffathalle
-- Musik
-- serie:Calexico
-- Bands
+  - 12 Songs
+  - Blog
+  - Calexico
+  - Calexico Muffathalle
+  - Calexico Muffathalle 2012
+  - Concert
+  - ich
+  - Konzert
+  - Konzerte
+  - live
+  - Love
+  - Me
+  - Muffathalle
+  - Musik
+  - serie:Calexico
+  - Bands
 focusKeyword: Calexico
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Fotogalerie
 
 ---
+
 **Hier nun endlich die langersehnten Bilder vom Calexico-Konzert letzten Donnerstag in der Münchner Muffathalle direkt aus meinem Fotolabor.**
 
 Calexico überraschten nicht nur mit einer [besonderen Vorband](/2012/11/blind-pilot-live-muffathalle-munchen-29-11-2012/), sondern auch mit einer teilweise neuen Besetzung. Was die tollen Stimmung im Wohnzimmer der Band keinesfalls störte.

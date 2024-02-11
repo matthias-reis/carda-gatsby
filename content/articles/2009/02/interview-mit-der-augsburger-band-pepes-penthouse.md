@@ -1,15 +1,14 @@
 ---
 date: 2009-02-09T16:55:31.000Z
-slug: interview-mit-der-augsburger-band-pepes-penthouse
-path: /2009/02/interview-mit-der-augsburger-band-pepes-penthouse/
 type: Artikel
 typeName: Interview
 title: Pepes Penthouse
 seoTitle: Interview mit der Augsburger Band Pepes Penthouse
 ogTitle: Interview mit der Augsburger Band Pepes Penthouse
-description: Am Sonntag, 08.02.2009 um 18:00 hatte ich eine Verabredung zum Interview mit den Jungs von der Augsburger Band Pepes Penthouse.
-excerpt: Am Sonntag, 08.02.2009 um 18:00 hatte ich eine Verabredung zum Interview mit den Jungs von der Augsburger Band Pepes Penthouse.
-fileName: 2009-02---pepes-penthouse.md
+description: Am Sonntag, 08.02.2009 um 18:00 hatte ich eine Verabredung zum
+  Interview mit den Jungs von der Augsburger Band Pepes Penthouse.
+excerpt: Am Sonntag, 08.02.2009 um 18:00 hatte ich eine Verabredung zum
+  Interview mit den Jungs von der Augsburger Band Pepes Penthouse.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22961__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22961__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EACwQAAEEAQQBAgMJAAAAAAAAAAECAwQFEQAGEiExE0EUUXEVIiQyQmFigYL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4Hd3VwI1fMjy5MWPJY69BwtpK0qIVgA59x3qTc8O5q7SXX2lo/LXGCeakyVrQQpAV1k/y8a16eGbOksH5T/BqojIMZsNBQccceACFePOVHPf5QNN91Vv7gsG3Kx9Mh2XhHpPKKFJSlpasjP6EobIyexgZ6I0CjebesaJ+NHtYimHZMZuW0OQXyaWMpV0T/Y8jVHJhOttB1Ta/S5cOfE8eXyz4zjTpYfau5qxdu8qM41RwocQgDi4WisttYT2Vqyez7dfTUbEu7m7OZpGoj79XLn/ABLYaSola0pwpCCAQfYnzjr56CKklt19ZK+GY4LW+2nkFnrirIP7+Tq42/Nkzd0OBLqm3XIcg+qTyUn8M4g8fYZCzo0aDKsSul2/ZKYcJcfdYHMDBSllK3QB9VhB/wA6Xdw7rs5dbCgNOiJAUwFFiP8AdSskYVy+eceOh460aNB//9k=
@@ -24,12 +23,11 @@ labels:
   - Interviews
   - Pepes Penthouse
 focusKeyword: Augsburger Band
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Wir wollten was ganz Eigenes machen!"'
+
 ---
 
 **Am Sonntag, 08.02.2009 um 18:00 hatte ich eine Verabredung mit den Jungs von der Augsburger Band PEPES PENTHOUSE.**

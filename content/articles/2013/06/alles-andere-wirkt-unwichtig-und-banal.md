@@ -1,15 +1,14 @@
 ---
 date: 2013-06-11T13:28:34.000Z
-slug: alles-andere-wirkt-unwichtig-und-banal
-path: /2013/06/alles-andere-wirkt-unwichtig-und-banal/
 type: Artikel
 typeName: Interview
 title: Zwei Filmemacherinnen aus Istanbul
 seoTitle: '"Alles andere wirkt banal" - Interview mit zwei Filmemacherinnen'
 ogTitle: '"Alles andere wirkt banal" - Interview mit zwei Filmemacherinnen'
-description: Interview zur aktuellen Lage in der Türkei mit den Filmemacherinnen Carolin Winterholler und Marie Hartlieb aus Istanbul
-excerpt: Interview zur aktuellen Lage in der Türkei mit den Filmemacherinnen Carolin Winterholler und Marie Hartlieb aus Istanbul.
-fileName: 2013-06---zwei-filmemacherinnen-aus-istanbul.md
+description: Interview zur aktuellen Lage in der Türkei mit den Filmemacherinnen
+  Carolin Winterholler und Marie Hartlieb aus Istanbul
+excerpt: Interview zur aktuellen Lage in der Türkei mit den Filmemacherinnen
+  Carolin Winterholler und Marie Hartlieb aus Istanbul.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_969752_593296170689248_1481661969_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_969752_593296170689248_1481661969_n__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwUCBAYI/8QAKxAAAgEDAwMCBQUAAAAAAAAAAQIDBAURABIhBiIxE2EHFCNBUQhCUoHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACURAAICAQIEBwAAAAAAAAAAAAEDAAIRBBITUaGxITFBYZHB8P/aAAwDAQACEQMRAD8Af5Kko0mO4qT2ryT/AFqfdLwaRPq088CmP1XrJEBhp1GCxk7sqducDH499SPiGt1q+mrrT2CqrKa6Komp5KPAdtpy0Y9yu4D3xoHtd96uguFwNuuFZerdJMFmBk+uCAFKvG2CDjgjGsKNDZ6zehGR6H98TQ14pYVM9J0F/o61BUU80L0U8jpSzCZWFQqDudMeVDZGfvjPgjVBnzIM+cgaF+haw3vqy30EFHX01vs9DMsJqid8jsyq0Y3E7Y1C4AGOc6WIFlE0IdXTaw5b93jUXo4RA8jyPTpKKZuHOYTFaSWdpIvULyFgoYg8n21wPxJsFLXdTdP1dLTU0d0nEqTM1UaczRoIyqkgdzjJA++CeeNJixR/MGQl92TwSSNQuo7dLVXWkmp1pG+Wj2OsyEsBLIqmRTkYKhCfz9hjzp9K8rYCPftFcsWrNfpuxLQXm5VcMcSyVJy8BmyYyeS3A7Sf4+ODq7I2yWFvT2MZApBkzkE6IbJcKyD9RC04VoqGqtxjjCgBZo0hJSQhSQMlWIzzgjS5XMGnhBhlJDqRIqEgc8Zx/ujqE2TsrY5zUdsfUCbCwJAx4z//2Q==
@@ -36,12 +35,11 @@ labels:
   - Tränengas
   - Türkei
 focusKeyword: Türkei
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Alles andere wirkt unwichtig und banal"'
+
 ---
 
 **Vor Kurzem berichtete ich hier über [das ganz besondere Projekt](/2013/06/istanbul-mit-anderen-augen/) zweier junger, deutscher Filmemacherinnen in Istanbul. Durch die derzeitige Lage hat sich für Marie und Carolin einiges verändert.**

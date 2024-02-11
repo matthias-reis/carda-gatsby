@@ -1,13 +1,12 @@
 ---
 date: 2019-06-19T13:29:07.000Z
-slug: earthship
-path: /2019/06/earthship/
 title: Leben im Earthship
 seoTitle: Leben im Earthship - ein Haus aus Recyclingmaterial
 ogTitle: Leben im Earthship - ein Haus aus Recyclingmaterial
-description: Ein Earthship ist ein Haus aus Recyclingmaterial, dessen Bewohner völlig autark als Selbstversorger leben - back to nature also.
-excerpt: Ein Earthship ist ein Haus aus Recyclingmaterial, dessen Bewohner völlig autark als Selbstversorger leben - back to nature also.
-fileName: 2019-06---leben-im-earthship.md
+description: Ein Earthship ist ein Haus aus Recyclingmaterial, dessen Bewohner
+  völlig autark als Selbstversorger leben - back to nature also.
+excerpt: Ein Earthship ist ein Haus aus Recyclingmaterial, dessen Bewohner
+  völlig autark als Selbstversorger leben - back to nature also.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_Euro-exterior-despeckled-638x300__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_Euro-exterior-despeckled-638x300__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACwQAAIBAwMDAgQHAAAAAAAAAAECAwQFEQASIQYTMQdRFEFhcRUyQkNykcH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgQAA//EABwRAAMAAgMBAAAAAAAAAAAAAAABAhESAwRBIf/aAAwDAQACEQMRAD8A0bqzoG3iKe4C5i2uBuCRRrHHvHsM5/rVTuHUF2DUtupbxaKlFpzK0sEhmkZgcdp0XGz3388fLTO3dPVN4pxcL81a9VKMYafLEfTIO3Wd+pPQtHYr/bai3xzU8csoHdV9rhsjJG3GPPH20a7l1KmvDkuJbZXpeeoVqKiWNhAWSeJJom7m5gGH5WA5yOfGQQM6ibVZ7hXVvYgEWQQN5m2Lzz5OPY6tVvqaiv6MQLTxVVfR1jUL9w/tsx2swXnkbgf5Z03u09RHCtN+GmarQFDVxwOgLAgq6nOeVDH7sBrRm0mNthCG9T6NIWhp7fuQNkS/HRxF0HurYZQeMjURf7/beqUpYK+nKxIwZWgrYgQfHncf8+WjRqKiqZSGiU1ts3eksr3eepkLdxErQXTC8MMIAT9N2uyXWSXu9u4zozuzLHPFLvA/SCB5GDzydGjQT2+MdrV5R//Z
@@ -25,12 +24,11 @@ labels:
   - Nachhaltigkeit
   - Recycling-Haus
 focusKeyword: earthship
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ein Haus aus Recyclingmaterial
+
 ---
 
 **"Es ist Zeit für echte Experiment", heißt es auf der Earthship Homepage. Ein Earthship ist ein Haus aus Recyclingmaterial, dessen Bewohner völlig autark als Selbstversorger leben - back to nature also.**

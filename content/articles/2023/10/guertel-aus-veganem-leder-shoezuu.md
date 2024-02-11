@@ -1,6 +1,5 @@
 ---
 date: 2023-10-04T12:29:18.668Z
-slug: guertel-aus-veganem-leder-shoezuu
 typeName: Produkttest
 title: Gürtel aus veganem Leder – endlich gefunden
 subTitle: Tierleidfreie Schuhe und T-Shirts mit Statement von Shoezuu
@@ -28,7 +27,9 @@ focusKeyword: Gürtel aus veganem Leder
 advertisement: true
 affiliate: true
 language: de
+
 ---
+
 **"Gürtel aus veganem Leder" — Wie oft habe ich das schon gegoogelt? Bei Shoezuu bin ich nun endlich fündig geworden. Ihr kennt den Online-Shop vielleicht: Er startete 2015 mit veganen Schuhen. Seit der Gründung erfreue ich mich am Sortiment des Start-ups. Heute möchte ich es endlich mal genauer vorstellen. Dazu habe ich mich mit Gründer Keith Gelfert ausgetauscht und teste gerade fleißig zwei wunderschöne Shoezuu Teile: einen Gürtel aus veganem Leder und ein T-Shirt mit Tierrechts-Slogan.**
 
 **Ökologischer und fairer, als vergleichbare Produkte** aus dem konventionellen Handel sollten sie sein, die Dinge im Shoezuu Store — und natürlich komplett vegan. Das war Keith bei seiner Gründung im Jahr 2015 wichtig.

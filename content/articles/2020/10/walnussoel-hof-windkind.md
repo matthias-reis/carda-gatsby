@@ -1,15 +1,16 @@
 ---
-date: 2020-10-05T12:23:19.000+00:00
-slug: walnussoel-hof-windkind
-path: '/2020/10/walnussoel-hof-windkind/'
+date: 2020-10-05T12:23:19.000Z
 type: Artikel
 typeName: Produkttest
 title: Bio-veganes Walnussöl
 seoTitle: Bio-veganes Walnussöl – Neues vom Hof Windkind
 ogTitle: Bio-veganes Walnussöl – Neues vom Hof Windkind
-description: Silvia und David vom Hof Windkind stellen jetzt auch leckeres kaltgepresstes Walnussöl her. Genau, wie für die Nüsse, könnt Ihr eine Patenschaft übernehmen.
-excerpt: Silvia und David vom Hof Windkind stellen jetzt auch leckeres kaltgepresstes Walnussöl her. Genau, wie für die Nüsse, könnt Ihr eine Patenschaft übernehmen.
-fileName: 2020-10---bio-veganes-walnussoel.md
+description: Silvia und David vom Hof Windkind stellen jetzt auch leckeres
+  kaltgepresstes Walnussöl her. Genau, wie für die Nüsse, könnt Ihr eine
+  Patenschaft übernehmen.
+excerpt: Silvia und David vom Hof Windkind stellen jetzt auch leckeres
+  kaltgepresstes Walnussöl her. Genau, wie für die Nüsse, könnt Ihr eine
+  Patenschaft übernehmen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-hof-windkind-01__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-hof-windkind-01__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgADBAcF/8QAJhAAAgEDAwQDAAMAAAAAAAAAAQIDBAURABIhBhMiMRRBURUzkf/EABYBAQEBAAAAAAAAAAAAAAAAAAECBv/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMSMQQRIUH/2gAMAwEAAhEDEQA/AAVit5/jppJjTjZKo7EK90R7guGZh9LwxHI0oko4ILhtKVkkeVQx06CV0ym1WKDls8nA/R9jWl04YZVgCSR1bHuyNFFGAzRhcMceg+TwD7xro3R9zpLP1TLVVNNPFLJEkFXcGBMcXIO5XPtjwGAHHv17zaFXuxs0ZorAyVZV7EHGwQ1JaERxzFAqlWHkjsCwOAeNp2gk+udGeobVuNQaeiZiC4WWIKsWAVUHjJIDbh+H3nXWOurlQy1Ud5tlEJLMzvTVdUjs4jn3Adx4wMkbR++YOdBLjUhUnkif5k0bvHG1vQlJEJUAMrnwClwPWM8/Wptpfj2dH0fDKquTkJ2PCNiHbDeZaD480fc4LPLFSybpJZSByAMeIA+z696TWK51jxw/Femk2SGqlkkqWO7uFsBCR5EcDIwOeNWrRcihSeo1MSRMU1bkVktBc5aS01H94BDyTSxtudAvCqFIO0nP+a8SuuUS080VveR6eAtuSqBMkzkK25yT4jJ4A4yOBxq1apFy2deQY4nz7P/Z
@@ -32,13 +33,12 @@ labels:
   - bio-vegane Landwirtschaft
   - bio-veganer Anbau
 focusKeyword: Walnussöl
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Neues vom Hof Windkind
 advertisement: true
+
 ---
 
 **Hof Windkind habe ich hier im Blog bereits vorgestellt. Die Betreiber\*innen Silvia und David bauen gemeinsam in bio-veganer Landwirtschaft Nüsse an. Für die Bäume kann man Patenschaften übernehmen. Jetzt haben die beiden ein neues Produkt: Walnussöl.**

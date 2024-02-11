@@ -1,11 +1,12 @@
 ---
 date: 2021-07-21T09:32:19.526Z
-slug: zement-rohstoff
 typeName: Review
 title: Zement – "Rohstoff"
 subTitle: Ein Statement an die Musikwelt
 seoTitle: Zement – "Rohstoff" – Ein Statement an die Musikwelt
-description: Zement liefern mit ihrer dritten LP Neo-Krautrock/Psychedelic vom Feinsten ab – perfekt komponiert mit schönen Anleihen aus der Techno-Ecke. "Rohstoff" ist eine durchaus tanzbare Platte, die gut in unsere Zeit passt.
+description: Zement liefern mit ihrer dritten LP Neo-Krautrock/Psychedelic vom
+  Feinsten ab – perfekt komponiert mit schönen Anleihen aus der Techno-Ecke.
+  "Rohstoff" ist eine durchaus tanzbare Platte, die gut in unsere Zeit passt.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-jpg-imagine-181818_5c4a4c_1024_768/640.webp
 copyright: Zement
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-fb-png-imagine-f8f8f8_a67460_1200_628/640.webp
@@ -28,6 +29,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/07/zement-rohstoff-en/
+
 ---
 
 **Zement liefern mit ihrer dritten LP Neo-Krautrock/Psychedelic vom Feinsten ab – perfekt komponiert mit schönen Anleihen aus der technoiden Welt. "Rohstoff" ist eine durchaus tanzbare Platte, die gut in unsere Zeit passt.**

@@ -1,13 +1,14 @@
 ---
 date: 2014-07-24T12:15:29.000Z
-slug: my-vegan-diary-mein-veganes-tagebuch
-path: /2014/07/my-vegan-diary-mein-veganes-tagebuch/
 title: Mein veganes Tagebuch
 seoTitle: My Vegan Diary - Mein veganes Tagebuch
 ogTitle: My Vegan Diary - Mein veganes Tagebuch
-description: My Vegan Diary - In dieser Rubrik zeige ich Euch mein Essen und berichte aus meinem veganen Leben. Das Tiereessen habe ich schon früh an den Nagel gehängt.
-excerpt: My Vegan Diary - In dieser Rubrik zeige ich Euch mein Essen und berichte aus meinem veganen Leben. Das Tiereessen habe ich schon früh an den Nagel gehängt.
-fileName: 2014-07---mein-veganes-tagebuch.md
+description: My Vegan Diary - In dieser Rubrik zeige ich Euch mein Essen und
+  berichte aus meinem veganen Leben. Das Tiereessen habe ich schon früh an den
+  Nagel gehängt.
+excerpt: My Vegan Diary - In dieser Rubrik zeige ich Euch mein Essen und
+  berichte aus meinem veganen Leben. Das Tiereessen habe ich schon früh an den
+  Nagel gehängt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_07_14672621431_3670de427f_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_07_14672621431_3670de427f_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBBAcC/8QALhAAAQMDAwMCBAcBAAAAAAAAAQIDBAURIQAGEhMxcQciQVFS8BQVMjNhgZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACQRAAIBBAECBwAAAAAAAAAAAAECAwAEESExQaEFEyJRgcHw/9oADAMBAAIRAxEAPwBqQhLobSn3WIBPnUSIln2220nqFfH29ye1tLe4d1PbdcSIrMaS68kKCHiQAkHPbPKwNvsa4TvxtvnUIBC5RW4vouAdRJCDYW85BH06wCWpZQx60zLZzxxCdkIQ8H9296FeodcXSZTTCao8y7HIDrLJ93I3tfGcA/8AdEqXu6TUJCYIhSo7tgFlZAURb9Q+Vxcg6u7v2O/uqqUqrwB1YFQMVb5xdKFG6iT9IB8g21IZj0+oSqtPCIP4t51QLwsQ2F8GxnIHFKRo80IiiHp3QTCVyTQn1aprP5bSprCE2Q2EcgORzn786zyhxJbu8dto6ToadkhtYKT+2tQTnxc+Na5WaY1XqEuE3JkRXhxJLZ7m+Rb4X/rOr2ztuw6JteU7FdL0m6mi8TdeCDk/Aj5fwNPC6R1yByNj4wauXXj3mWQtgu9diD9VrcOjsUiixoTaUoSyhLaUDKUgCwA8aQPUvbceoOQKjIW4RGX0g1y9i7m4JHzGf90SkbjqL7EdK3YwkBtKlKWk+7HcgEZvofJmzJYaRUQw820okcBa57ciDot3ewvEVTOelSGmVkxzX//Z
@@ -39,12 +40,11 @@ labels:
   - Veganfoodblog
   - Veganfoodporn
 focusKeyword: Vegan Diary
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Esst Blumen und keine Hühnerbabies
+
 ---
 
 <RemoteImage

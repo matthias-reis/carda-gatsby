@@ -1,12 +1,17 @@
 ---
 date: 2022-07-19T11:49:48.056Z
-slug: rebecca-cappelli-slay
 typeName: Filmtipp
 title: Doku "Slay" zeigt Tierquälerei in der Modeindustrie
 subTitle: Der neue Film von Rebecca Cappelli und Keegan Kuhn
 seoTitle: Doku "Slay" zeigt Tierquälerei in der Modeindustrie
-description: Rebecca Cappelli ("Let us be Heroes") und Keegan Kuhn ("Cowspiracy") haben eine neue Tierrechtsdoku gedreht. In "Slay" geht es um Tierquälerei in der Modeindustrie.
-excerpt: Rebecca Cappelli ("Let us be Heroes") hat gemeinsam mit Keegan Kuhn ("Cowspiracy", "What the Health" und "They're Trying to Kill Us ") eine neue Tierrechtsdoku gedreht. In "Slay" geht es um Tierquälerei in der Modeindustrie. Derzeit finden pro Jahr rund 2,5 Milliarden Tiere für unsere Kleidung den Tod.
+description: Rebecca Cappelli ("Let us be Heroes") und Keegan Kuhn
+  ("Cowspiracy") haben eine neue Tierrechtsdoku gedreht. In "Slay" geht es um
+  Tierquälerei in der Modeindustrie.
+excerpt: Rebecca Cappelli ("Let us be Heroes") hat gemeinsam mit Keegan Kuhn
+  ("Cowspiracy", "What the Health" und "They're Trying to Kill Us ") eine neue
+  Tierrechtsdoku gedreht. In "Slay" geht es um Tierquälerei in der
+  Modeindustrie. Derzeit finden pro Jahr rund 2,5 Milliarden Tiere für unsere
+  Kleidung den Tod.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-leather-made-in-tuscany-jpeg-imagine-080808_4b4332_1024_768/640.webp
 copyright: Rebecca Cappelli, Keegan Kuhn, "Slay"
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-fb-jpeg-imagine-080808_53504a_1200_628/640.webp
@@ -31,6 +36,7 @@ focusKeyword: Tierquälerei in der Modeindustrie
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Rebecca Cappelli hat gemeinsam mit Keegan Kuhn eine neue Tierrechtsdoku gedreht. In "Slay" geht es um Tierquälerei in der Modeindustrie. Derzeit finden pro Jahr rund 2,5 Milliarden Tiere für unsere Kleidung den Tod.**

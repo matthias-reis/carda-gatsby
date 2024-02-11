@@ -1,25 +1,22 @@
 ---
 ogTitle: Interview mit Breaths – Harte Musik und Veganismus
-excerpt: Darüber, dass harte Musik und Veganismus viel gemeinsam haben, waren Jason von Breaths und ich uns einig. Mein Interview zum Debütalbum.
+excerpt: Darüber, dass harte Musik und Veganismus viel gemeinsam haben, waren
+  Jason von Breaths und ich uns einig. Mein Interview zum Debütalbum.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-lined-in-silver.png__l.jpg
 isAffiliate: false
-path: /2021/02/breaths-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggE/8QAKRAAAQMCBQMEAwEAAAAAAAAAAQIDBAURAAYHEkETITEiI1FhMkJDcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDj1bra6zT48BpoqLjiW0rHF+T9dsXPQSA5l7LFSLjqHEtPl1TrP7I2pc7X5scILMGZHJlVkxyhCobLykJLSiha9qiAsK4vb45w3NDc2LlUTMdInttIeeivTYdr+4AhSVN/dg2LW4BwDkp+ZoNfjITHcktyVj0JWs+fP+HtxjLmqodpepNY6JAt0B+IP8UHnD108y3UKHmiDHfQFsyYomqdRctp9JBQCeQSB99jip6s6aVitZxqdShOwBHeLe0OOqCvS2lJuAk8g4DOS3mmZMgFjrHeemd5CbX82HnDt0OzHRYEFtLlYixK648QIsllJQNp9vpk2sSPhV8GDAMHKWZGcpVCtU0Vmis00ONyQpYfeeccdTc33OkC23vbyTxiPNWeaRNgOJTVojrj7zTR6QU0SlTiQoWJPkXub/ODBgP/2Q==
 typeName: Interview
 isWerbung: false
-fileName: 2021-02---breaths-im-interview.md
-slug: breaths-interview
-errors: {}
 date: 2021-02-11T10:38:09.000Z
 focusKeyword: Musik und Veganismus
 languageLink: /2021/02/breaths-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_breaths-interview__m.jpg
 title: Breaths im Interview
 subTitle: '"Harte Musik und Veganismus haben viel gemeinsam"'
 seoTitle: Harte Musik und Veganismus – Interview mit Breaths
-description: Darüber, dass harte Musik und Veganismus viel gemeinsam haben, waren Jason von Breaths und ich uns einig. Mein Interview zum Debütalbum.
+description: Darüber, dass harte Musik und Veganismus viel gemeinsam haben,
+  waren Jason von Breaths und ich uns einig. Mein Interview zum Debütalbum.
 language: de
 type: Artikel
 labels:
@@ -38,6 +35,7 @@ labels:
   - Subcore
   - Tierrechte
   - vegan celebrities
+
 ---
 
 **Im März erscheint das Debütalbum von Breaths. Gründer Jason hat sich jetzt meinem Interview gestellt. Wir haben uns über Musik und Veganismus unterhalten. Und seine ganz persönliche Art, mit der Pandemie umzugehen.**

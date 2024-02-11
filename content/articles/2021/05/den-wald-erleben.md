@@ -8,7 +8,6 @@ labels:
   - Meditation
   - Ausflug
 language: de
-slug: den-wald-erleben
 typeName: ""
 title: Den Wald erleben
 subTitle: Das passiert an einem Tag in der Natur
@@ -27,6 +26,7 @@ focusKeyword: Den Wald erleben
 advertisement: false
 affiliate: false
 languageLink: ""
+
 ---
 
 **Den Wald erleben – mit allen Sinnen vom Morgen bis in die Dämmerung. All seine Bewohner, die Pflanzen, die frische Luft, den Tau auf den Blättern, das plätschernde Wasser in seinen Bachläufen genießen und das alles für möglichst lange Zeit abspeichern. Ein Tag in der Natur ist etwas Wertvolles und seine Wirkung sollte man niemals unterschätzen.**

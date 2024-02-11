@@ -1,13 +1,13 @@
 ---
 date: 2017-09-03T16:14:59.000Z
-slug: ahoi-urlaub-in-sicht
-path: /2017/09/ahoi-urlaub-in-sicht/
 title: Ahoi! Urlaub in Sicht!
 seoTitle: Ahoi! Urlaub in Sicht! Ich melde mich mal kurz ab...
 ogTitle: Ahoi! Urlaub in Sicht! Ich melde mich mal kurz ab...
-description: ... komme aber bald wieder. Mit vielen Fotos und Geschichten im Gepäck. Versprochen! Um Euch die Wartezeit zu verkürzen, habe ich was Tolles für Euch!
-excerpt: ... komme aber bald wieder. Mit vielen Fotos und Geschichten im Gepäck. Versprochen! Um Euch die Wartezeit zu verkürzen, habe ich was Tolles für Euch!
-fileName: 2017-09---ahoi-urlaub-in-sicht.md
+description: ... komme aber bald wieder. Mit vielen Fotos und Geschichten im
+  Gepäck. Versprochen! Um Euch die Wartezeit zu verkürzen, habe ich was Tolles
+  für Euch!
+excerpt: ... komme aber bald wieder. Mit vielen Fotos und Geschichten im Gepäck.
+  Versprochen! Um Euch die Wartezeit zu verkürzen, habe ich was Tolles für Euch!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBhMxIkFRgRQyQlJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUC/8QAHREAAgMBAAMBAAAAAAAAAAAAAQIAAxESEzFR8P/aAAwDAQACEQMRAD8AQ9RPN1VWpW11L+G6jNRPSbGmk2gdvg8HBAJAHONQ2qnmTiy1EEMIiVGdTsWQlV3HGPcrn71U6fvk1e0XducqzUbrO0clGMl12hQpi9hz5HIJ1YVo7lViolmeN5wx7qFgnczk5P34IHt40vWN1AWtmThhn77GvZro0LVdTSTIo4BQlvgeoYPkj3+dXD1LdLPSiRLhI8arlo5QJ08A8bjuHn+2lDWdZKBp7dcKWvb9SKar3OzHjHbbBJ8j0k86yt7lkSF6ekd3lmk2ypIcbSFxjJJ/lxrDYx9RUXlRhnWLT0zaaCBiKKKV1JQswwWHwSPP3rOdS2W209RTzpRQlArN2myQx+Tk86NGp9bHyZKNqjiLZKS3Cl7cNqt0T1DoWkWmXcDkDzj/ADOtTeuj6SjsfdpZXinSHJYD0twSfTnHOjRprnZWXDApUMhJn//Z
@@ -21,12 +21,11 @@ labels:
   - Liebe
   - Urlaub
 focusKeyword: Urlaub
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ich melde mich mal kurz ab...
+
 ---
 
 **... bin aber bald wieder da. Versprochen! Wir werden die nächsten beiden Wochen auf der Insel weilen und die Seele ein bisschen baumeln lassen.  Urlaub! Wir haben ihn uns verdient, jawoll! Wir lesen uns dann bald wieder und ich werde sicher jede Menge Fotos und Geschichten für Euch im Gepäck haben.**

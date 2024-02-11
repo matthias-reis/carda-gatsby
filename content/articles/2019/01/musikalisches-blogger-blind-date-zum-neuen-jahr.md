@@ -1,29 +1,29 @@
 ---
-date: 2019-01-01T11:00:35.000+00:00
-slug: musikalisches-blogger-blind-date-zum-neuen-jahr
-path: '/2019/01/musikalisches-blogger-blind-date-zum-neuen-jahr/'
+date: 2019-01-01T11:00:35.000Z
 title: Musikalisches Blogger Blind Date
 seoTitle: Musikalisches Blogger Blind Date zum neuen Jahr - My Dear Acqaintance
 ogTitle: Musikalisches Blogger Blind Date zum neuen Jahr - My Dear Acqaintance
-description: Frohes neues Jahr! Hier kommt die erste Blogger Blind Date Ausgabe des Jahres 2019! Mein lieber Herr Gesangsverein - das ist eine interessante Nummer!
-excerpt: Frohes neues Jahr! Hier kommt die erste Blogger Blind Date Ausgabe des Jahres 2019! Mein lieber Herr Gesangsverein - das ist eine interessante Nummer!
-fileName: 2019-01---musikalisches-blogger-blind-date.md
+description: Frohes neues Jahr! Hier kommt die erste Blogger Blind Date Ausgabe
+  des Jahres 2019! Mein lieber Herr Gesangsverein - das ist eine interessante
+  Nummer!
+excerpt: Frohes neues Jahr! Hier kommt die erste Blogger Blind Date Ausgabe des
+  Jahres 2019! Mein lieber Herr Gesangsverein - das ist eine interessante
+  Nummer!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_Mackenzies-Salon-Shindig.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_Mackenzies-Salon-Shindig.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,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
-ogImage:
+ogImage: null
 labels:
   - Bands
-  - 'serie: Musikalisches Blind Date'
+  - "serie: Musikalisches Blind Date"
 focusKeyword: blogger blind date
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
-subTitle: 'Mein*e liebe*r Bekannte*r oder: My dear mister singing club'
-year: '2019'
-month: '01'
+subTitle: "Mein*e liebe*r Bekannte*r oder: My dear mister singing club"
+year: "2019"
+month: "01"
+
 ---
 
 **So viele tolle Songvorschläge wurden eingereicht von den Teilnehmer\*innen des aktuellen, inzwischen sechsten Blogger Blind Dates. Und welcher ist es geworden? Regina Spektors "My Dear Acqaintance".**

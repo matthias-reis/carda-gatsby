@@ -1,40 +1,36 @@
 ---
-date: 2020-06-08T09:45:07.000+00:00
-slug: little-lunch
-path: "/2020/06/little-lunch/"
+date: 2020-06-08T09:45:07.000Z
 type: Artikel
 typeName: Produkttest
 title: Little Lunch
 seoTitle: Neue vegane Sommersuppen von Little Lunch im Test
 ogTitle: Neue vegane Sommersuppen von Little Lunch im Test
-description: Von Little Lunch aus Augsburg gibt es jetzt neue vegane Sommersuppen.
+description: Von Little Lunch aus Augsburg gibt es jetzt neue vegane
+  Sommersuppen. Ich habe die beiden Sorten "Kräutergarten" und "Gemüsegarten"
+  probiert.
+excerpt: Von Little Lunch aus Augsburg gibt es jetzt neue vegane Sommersuppen.
   Ich habe die beiden Sorten "Kräutergarten" und "Gemüsegarten" probiert.
-excerpt: Von Little Lunch aus Augsburg gibt es jetzt neue vegane Sommersuppen. Ich
-  habe die beiden Sorten "Kräutergarten" und "Gemüsegarten" probiert.
-fileName: 2020-06---little-lunch.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-30-little-lunch-17__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-30-little-lunch-17__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgMECP/EACsQAAIBAwMCBQMFAAAAAAAAAAECAwQFEQAGIRJBEzFRgZEHFWEiI1Rxgv/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAQIE/8QAIREAAgIABgMBAAAAAAAAAAAAAQIAAwQFERIxcSFBUeH/2gAMAwEAAhEDEQA/AMP0v+mNFLQUlw3EslRLUIJYqFWKKqHlTIRySRz0jGB5502KeLalpU0/h7fpSBgx+BExH98E/OlZBvAXvblPJa5SjyKkddEhw8DKgBU45CEjIbyI49RrWhqPB4AGMaUZjmjYew1qOPsNTSHXcY1rltbau4aJytHQMv8AKt/SkkZ9crx7MNc+b523Pt691VumZZFj6WjmC4EsbDKt+DjOR6g6vlBcJLbVpXxzpSpEcySyMEjCdw5PGMdvjnUfdL3BuysuNzjj6rS6JRUniLzKkWf3CD5ZZmI7gY/OjYPM2sqNjLxp0epJwwZwoMRlJUvFVw1VK/h1CcdQYrkdwSDke2rdBu2rWLDz1bYHl1xvj/RGfnRo0xYKw0YA9iZwPYk7QWSa/wBvkud9Yw26mjMiwSSmR5nA4BY8AZxkLjHc58l194rqeCRKO4VdPHMS7pHJ+kk88Dt7aNGi2qNoTTwPyVqYgkgz/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_vegane-suppe-facebook.png__l.jpg
 labels:
-- Bio-Suppe
-- Ernährung & Gesundheit
-- Gemüsesuppe
-- Little Lunch
-- vegane Fertiggerichte
-- vegane Suppe
+  - Bio-Suppe
+  - Ernährung & Gesundheit
+  - Gemüsesuppe
+  - Little Lunch
+  - vegane Fertiggerichte
+  - vegane Suppe
 focusKeyword: Sommersuppen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image that could not be found
 subTitle: Neue vegane Sommersuppen
 affiliate: true
 advertisement: true
 
 ---
+
 **Von Little Lunch aus Augsburg gibt es jetzt neue vegane Sommersuppen. Ich habe die beiden Sorten "Kräutergarten" und "Gemüsegarten" probiert.**
 
 Little Lunch kenne und schätze ich schon länger. Wenn es mittags mal schnell gehen muss, sind die Bio-Suppen eine gesunde und leckere Option für mich. Es lohnt sich wirklich, immer ein Glas davon im Büroschrank zu haben.

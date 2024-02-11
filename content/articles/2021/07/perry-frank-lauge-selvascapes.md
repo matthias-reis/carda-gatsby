@@ -1,12 +1,14 @@
 ---
 date: 2021-07-28T16:19:57.783Z
-slug: perry-frank-lauge-selvascapes
 typeName: Review
 title: '"Selvascapes"'
 subTitle: Das neue Album von Perry Frank und Lauge
 seoTitle: '"Selvascapes" – Das neue Album von Perry Frank und Lauge'
-description: Das neue Perry Frank Album "Selvascapes" ist eine Kollaboration mit dem dänischen Ambient Producer und Sound-Künstler Henrik Laugesen aka Lauge. Die CD ist am 24. Juli erschienen und ein echter Geheimtipp. Für Fans von traumhaften Sound-Landschaften. Ich habe sie schon gehört.
-excerpt: ''
+description: Das neue Perry Frank Album "Selvascapes" ist eine Kollaboration mit
+  dem dänischen Ambient Producer und Sound-Künstler Henrik Laugesen aka Lauge.
+  Die CD ist am 24. Juli erschienen und ein echter Geheimtipp. Für Fans von
+  traumhaften Sound-Landschaften. Ich habe sie schon gehört.
+excerpt: ""
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/selvascapes-perry-frank-lauge-jpg-imagine-080808_48463a_1024_768/640.webp
 copyright: Perry Frank & Lauge
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/selvascapes-perry-frank-lauge-fb-png-imagine-080808_504f45_1200_628/640.webp
@@ -28,6 +30,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/07/perry-frank-lauge-selvascapes-en/
+
 ---
 
 **Das neue Perry Frank Album "Selvascapes" ist eine Kollaboration mit dem dänischen Ambient Producer Lauge. Die CD ist am 24. Juli erschienen und ein echter Geheimtipp für Fans von traumhaften Sound-Landschaften.**

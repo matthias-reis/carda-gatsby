@@ -1,19 +1,20 @@
 ---
-date: 2015-08-14T12:01:16.000+00:00
-slug: calexico-live-a-summers-tale-festival-2015
-path: '/2015/08/calexico-live-a-summers-tale-festival-2015/'
+date: 2015-08-14T12:01:16.000Z
 type: Galerie
 typeName: Konzertbericht
 title: Calexico live @ A Summer's Tale Festival 2015
 seoTitle: Calexico live @ A Summer's Tale Festival 2015
 ogTitle: Calexico live @ A Summer's Tale Festival 2015
-description: Endlich war es wieder soweit! Calexico spielten live auf dem A Summer's Tale Festival 2015. Dieses Mal habe ich ein paar ganz besondere Bilder für Euch.
-excerpt: Und dann ist der Tag gekommen. Endlich wirst Du Calexico wieder live hören und sehen. Du stehst wieder vorne links an der Bande und "Deine" Band steht oben auf der Bühne.
-fileName: 2015-08---calexico-live-a-summers-tale-festival-2015.md
+description: Endlich war es wieder soweit! Calexico spielten live auf dem A
+  Summer's Tale Festival 2015. Dieses Mal habe ich ein paar ganz besondere
+  Bilder für Euch.
+excerpt: Und dann ist der Tag gekommen. Endlich wirst Du Calexico wieder live
+  hören und sehen. Du stehst wieder vorne links an der Bande und "Deine" Band
+  steht oben auf der Bühne.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_19944984023_35d6de4f85_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_19944984023_35d6de4f85_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGBf/EACsQAAIBAwMDAwIHAAAAAAAAAAECAwQFEQASIQYTQRQiMUJxByMyM1Fhsf/EABkBAAIDAQAAAAAAAAAAAAAAAAIEAQMFBv/EACIRAAICAQQBBQAAAAAAAAAAAAECAAMRBEGhwRITMTIzUf/aAAwDAQACEQMRAD8AgOmbNdOo4vV2i3GprKaESsqMFJjzyMnyfpHJJ+AdR/VrSSXOeMQtTzx/u00qlJFYfPtIHPnVj0N1Xa7bWU/dqvTpGElZaiByhdM7CwX3AAkncCcfJU44xfxMudnm6ka4UtLJXVNSiT1ArJH7SyfUqD2s65BwzY48a6u3XGhjpNP9agAY33PJ4iKq1qi635E56HEl6OskpqoSrlMna2DjB8fbS9zq0qt75jilb9ShQFkx/Q4Da2bFeaejuK3WtSoDKrbPS7faRjHDg8AMR50p1LV08VTVx0dO0cMknc7EsKoVXGATt+Dz4x9tJ6itbnzjGBknqW02GtfH927jEXUlogj/AC1uwmljQVDpMqh2BOcgqc+P40rX3OgFgtb0s8U1zGRPHLS4aLDZXa5yGGOMaNGsv1mY5MMVKPaLWS+RUhX1UEEhVuNy8bS2SBjgZ/zRd4lFDTVVRLT1E1XHu3JVLK8eCAAwByhx4PJHOjRonvdwAZArVWLCf//Z
-ogImage:
+ogImage: null
 labels:
   - A Summer's Tale
   - ASummersTale15
@@ -29,12 +30,11 @@ labels:
   - serie:Calexico
   - Bands
 focusKeyword: Calexico
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ein krönender Abschluss
+
 ---
 
 **Und dann ist der Tag gekommen. Endlich wirst Du Calexico wieder live hören und sehen. Du stehst wieder vorne links an der Bande und "Deine" Band steht oben auf der Bühne.**

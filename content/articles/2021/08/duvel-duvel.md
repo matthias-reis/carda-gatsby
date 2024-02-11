@@ -1,11 +1,13 @@
 ---
 date: 2021-08-02T16:43:25.645Z
-slug: duvel-duvel
 typeName: Review
 title: Duvel
 subTitle: Die Post-Punk-Überraschung aus Norwegen
 seoTitle: Duvel – Die Post-Punk Überraschung aus Norwegen
-description: Liebt Ihr guten Post-Punk im Stil von Siouxsie and the Banshees und Savages? Dann solltet Ihr der neuen Platte von Duvel auf jeden Fall eine Chance geben. Die Band aus Oslo hat es am 2. Juli veröffentlicht. Das selbst betitelte Album besteht aus neun sehr vielseitigen Songs.
+description: Liebt Ihr guten Post-Punk im Stil von Siouxsie and the Banshees und
+  Savages? Dann solltet Ihr der neuen Platte von Duvel auf jeden Fall eine
+  Chance geben. Die Band aus Oslo hat es am 2. Juli veröffentlicht. Das selbst
+  betitelte Album besteht aus neun sehr vielseitigen Songs.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/duvel-jpeg-imagine-180808_46392e_800_553/640.webp
 copyright: Duvel
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/duvel-fb-jpg-imagine-180808_413328_1200_628/640.webp
@@ -24,6 +26,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/08/duvel-duvel-en/
+
 ---
 
 **Liebt Ihr guten Post-Punk im Stil von Siouxsie and the Banshees und Savages? Dann solltet Ihr der neuen Platte von Duvel auf jeden Fall eine Chance geben. Die Band aus Oslo hat es am 2. Juli veröffentlicht.**

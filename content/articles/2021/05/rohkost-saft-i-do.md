@@ -8,7 +8,6 @@ labels:
   - Saft
   - Rohkost-Saft
 language: de
-slug: rohkost-saft-i-do
 typeName: Produkttest
 title: Rohkost-Saft von I·DO
 subTitle: Münchner Start-up mischt den Saftmarkt auf
@@ -27,6 +26,7 @@ focusKeyword: Rohkost-Saft
 advertisement: true
 affiliate: true
 languageLink: ""
+
 ---
 
 **Der Name I·DO steht für ein ziemlich freshes Start-up aus München. Im Mittelpunkt des Geschehens steht veganer Rohkost-Saft in Bio-Qualität. Er wird ausschließlich aus frischem Gemüse, Obst und Früchten hergestellt. Ich habe probiert.**

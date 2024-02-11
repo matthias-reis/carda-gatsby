@@ -1,12 +1,17 @@
 ---
 date: 2023-05-30T09:10:29.804Z
-slug: paul-wesley-vegan-captain-kirk
 typeName: Serientipp
 title: Der vegane Captain Kirk
 subTitle: Paul Wesley, Star Trek und die Tierrechte
 seoTitle: Paul Wesley ist der erste vegane Captain Kirk
-description: 'Der vegan lebende Paul Wesley, bekannt aus "Vampire Diaries" spielt in der zweiten Staffel von "Star Trek: Strange New Worlds" Captain Kirk! Erfahrt jetzt alle Details!'
-excerpt: 'In der zweiten Staffel der Paramount+ Serie "Star Trek: Strange New Worlds" spielt Paul Wesley, bekannt durch "The Vampire Diaries" keinen Geringeren als Captain Kirk. Aus dem Vampir wird also eine Weltraum-Ikone. Paul Wesley verzichtet übrigens auch im wahren Leben gerne auf Blut – er lebt seit vielen Jahren vegan.'
+description: 'Der vegan lebende Paul Wesley, bekannt aus "Vampire Diaries"
+  spielt in der zweiten Staffel von "Star Trek: Strange New Worlds" Captain
+  Kirk! Erfahrt jetzt alle Details!'
+excerpt: 'In der zweiten Staffel der Paramount+ Serie "Star Trek: Strange New
+  Worlds" spielt Paul Wesley, bekannt durch "The Vampire Diaries" keinen
+  Geringeren als Captain Kirk. Aus dem Vampir wird also eine Weltraum-Ikone.
+  Paul Wesley verzichtet übrigens auch im wahren Leben gerne auf Blut – er lebt
+  seit vielen Jahren vegan.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-30/paul-wesley-kirk-paramount-jpg-imagine-080808_624a31_1024_768/640.webp
 copyright: Paramount
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-30/paul-wesley-kirk-paramount-og-jpg-imagine-080808_5e4a33_1200_628/640.webp
@@ -15,7 +20,7 @@ labels:
   - Paul Wesley
   - Vampire Diaries
   - Star Trek
-  - 'Star Trek: Strange New Worlds'
+  - "Star Trek: Strange New Worlds"
   - Paramount+
   - Vegan Celebrities
   - Wild Earth
@@ -26,6 +31,7 @@ focusKeyword: Paul Wesley vegan
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **In der zweiten Staffel der Paramount+ Serie "Star Trek: Strange New Worlds" spielt Paul Wesley, bekannt durch "The Vampire Diaries" keinen Geringeren als Captain Kirk. Aus dem Vampir wird also eine Weltraum-Ikone. Paul Wesley verzichtet übrigens auch im wahren Leben gerne auf Blut – er lebt seit vielen Jahren vegan.**

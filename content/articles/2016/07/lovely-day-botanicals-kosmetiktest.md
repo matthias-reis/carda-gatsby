@@ -1,13 +1,14 @@
 ---
-date: 2016-07-26T11:41:49.000+00:00
-slug: lovely-day-botanicals-kosmetiktest
-path: '/2016/07/lovely-day-botanicals-kosmetiktest/'
+date: 2016-07-26T11:41:49.000Z
 title: Lovely Day Botanicals im Test
 seoTitle: Lovely Day Botanicals - Kosmetiktest
 ogTitle: Lovely Day Botanicals - Kosmetiktest
-description: Lovely Day Botanicals ist ein junges Beauty Start-up aus Berlin, das ausschließlich vegane Naturkosmetik herstellt. Ich habe die Produkte für Euch getestet.
-excerpt: Lovely Day Botanicals ist ein junges Beauty Start-up aus Berlin, das ausschließlich vegane Naturkosmetik herstellt. Ich habe die Produkte für Euch getestet.
-fileName: 2016-07---lovely-day-botanicals-im-test.md
+description: Lovely Day Botanicals ist ein junges Beauty Start-up aus Berlin,
+  das ausschließlich vegane Naturkosmetik herstellt. Ich habe die Produkte für
+  Euch getestet.
+excerpt: Lovely Day Botanicals ist ein junges Beauty Start-up aus Berlin, das
+  ausschließlich vegane Naturkosmetik herstellt. Ich habe die Produkte für Euch
+  getestet.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27942594343_72af97f2c6_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27942594343_72af97f2c6_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwf/xAAoEAACAQQABQMFAQAAAAAAAAABAgMABAURBhIhMUEHEyJRcZGhsfD/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAgED/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECAxExEv/aAAwDAQACEQMRAD8A6ThsQvIGKj8U1y1xjeH8JNkMpIkNtENbPUu2uiKPLH6VtiZFaFCD4qN9RsIt/eR5DM281xY2EcjxCC4ZQo1sn2wpJcfv7ClvSJt15bjo/wAPfYnibEm8xciSoPjJH054X1vkceD/AHxUtxNhwquUHTRNT/pW8d1k7u94esri3W4PNNPK49v2tkKGTuSQOgJ357VccTzoIXG+pB1W43sjFdXCddMsTkZQi60Phunr3hubGSKZNo66Yb1RRS+HUV2MNvgsTHYYyARW8YJ6ttmY92Y+SajOIchK+9/7tRRTGNJLSP/Z
@@ -23,13 +24,12 @@ labels:
   - vegane Kosmetik
   - veganes Hyaluron
 focusKeyword: Lovely Day
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Naturkosmetik aus Berlin
 advertisement: true
+
 ---
 
 **Kennt Ihr schon Lovely Day Botanicals? Die Gründerin Josy und ich folgen uns schon länger auf Instagram. Sie macht Furore mit ihren selbst hergestellten Kosmetikprodukten.**

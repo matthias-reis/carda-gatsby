@@ -1,11 +1,12 @@
 ---
 date: 2021-10-18T05:00:41.549Z
-slug: thot-what-shall-we-do-now
 typeName: Review
 title: '"What Shall We Do Now?"'
 subTitle: Thot veröffentlichen Pink Floyd Cover
 seoTitle: '"What Shall We Do Now?" – Thot veröffentlichen Pink Floyd Cover'
-description: Thot zählen die legendären Pink Floyd klar zu ihren Vorbildern. Jetzt hat sich das Post-Music Kollektiv aus Belgien an eine Neu-Interpretation von "What Shall We Do Now" rangetraut und dabei alles richtig gemacht.
+description: Thot zählen die legendären Pink Floyd klar zu ihren Vorbildern.
+  Jetzt hat sich das Post-Music Kollektiv aus Belgien an eine Neu-Interpretation
+  von "What Shall We Do Now" rangetraut und dabei alles richtig gemacht.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-what-should-we-do-now-jpg-imagine-181818_5d615e_1024_768/640.webp
 copyright: Thot
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-what-should-we-do-now-fb-png-imagine-181818_535754_1200_628/640.webp
@@ -26,6 +27,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/10/thot-what-shall-we-do-now-en/
+
 ---
 
 **Thot zählen die legendären Pink Floyd klar zu ihren Vorbildern. Jetzt hat sich das Post-Music Kollektiv aus Belgien an eine Neu-Interpretation von "What Shall We Do Now" rangetraut und dabei alles richtig gemacht.**

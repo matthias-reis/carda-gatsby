@@ -1,12 +1,13 @@
 ---
 date: 2021-01-28T11:04:00.000Z
-slug: homem-em-catarse-en
 typeName: Review
 title: Homem em Catarse
 subTitle: Dream Gaze From Portugal
 seoTitle: Homem em Catarse – Dream Gaze From Portugal
-ogTitle: ''
-description: Do you know Homem em Catarse? The dream gaze/slowcore project from Portugal released a great new album in 2020, which I would like to introduce to you today.
+ogTitle: ""
+description: Do you know Homem em Catarse? The dream gaze/slowcore project from
+  Portugal released a great new album in 2020, which I would like to introduce
+  to you today.
 copyrigt: Homem em Catarse
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Homem-em-Catarse-Cem-Palavras-_-Sem-Palavras-FB.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAgUD/8QAKRAAAgEDAgUDBQEAAAAAAAAAAQIDAAQRBSEGEjFBURNhcRVCwdHh8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBU4csbQRGSYOSq42Xp7+PFM8LW0QXmSZQDjYgE5P8AlYWhQXK20j5UAqMc7ADGOxre0PSE1Kd45pkgkIDoqnnz579vzQQktq8o9SBjysQcEEn23z+qSeKLO3S4liSMKSmQMfNOnEVlDoslrm99WaUswR1xkDbOQfJxik/iBpzMs0cYaERMrMnTr/aCmga0vorG01oy9t2XPsTiuuvajImmXzWd9AkptpEQRSkspI+3bY4FFFBbTNQg1fhrRfqd+Dd2duI+eV8liQDuOuwwOu+KxtceDBEV5blevKkeAfneiig//9k=
@@ -28,6 +29,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/01/homem-em-catarse
+
 ---
 
 **Do you know Homem em Catarse? The dream gaze/slowcore project from Portugal released a great new album in 2020, which I would like to introduce to you today.**

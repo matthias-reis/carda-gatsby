@@ -1,14 +1,17 @@
 ---
 date: 2024-02-06T10:00:00.766Z
-slug: sleepmakeswaves-its-there-but-i-have-no-names-for-it-en
 typeName: Preview
 title: '"It‘s Here, But I Have No Names For It"'
 subTitle: sleepmakeswaves about to release new album
-seoTitle: 'sleepmakeswaves – "It‘s Here, But I Have No Names For It"'
-description: 'sleepmakeswaves are back with their new album, "It‘s Here, But I Have No Names For It". Check it out here and find out some details about their tour with Meniscus!'
-excerpt: '"It‘s Here, But I Have No Names For It" is the name of sleepmakeswaves‘ outstanding upcoming album. Don‘t miss out on it and find out everything about their planned word tour with other post-music giants!'
+seoTitle: sleepmakeswaves – "It‘s Here, But I Have No Names For It"
+description: sleepmakeswaves are back with their new album, "It‘s Here, But I
+  Have No Names For It". Check it out here and find out some details about their
+  tour with Meniscus!
+excerpt: '"It‘s Here, But I Have No Names For It" is the name of
+  sleepmakeswaves‘ outstanding upcoming album. Don‘t miss out on it and find out
+  everything about their planned word tour with other post-music giants!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-06/sleepmakeswaves-its-here-but-i-have-no-names-for-it-soundsvegan-com-jpg-imagine-080818_455253_1024_768/640.webp
-copyright: 'sleepmakeswaves'
+copyright: sleepmakeswaves
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-06/sleepmakeswaves-its-here-but-i-have-no-names-for-it-soundsvegan-com-og-jpg-imagine-080818_455151_1200_628/640.webp
 labels:
   - Band
@@ -25,11 +28,12 @@ labels:
   - Experimental
   - Instrumental
   - Heavy Music
-focusKeyword: "It's Here, But I Have No Names For It"
+focusKeyword: It's Here, But I Have No Names For It
 advertisement: false
 affiliate: false
 language: en
 languageLink: /2024/02/sleepmakeswaves-its-there-but-i-have-no-names-for-it/
+
 ---
 
 **The Australian post-rock band sleepmakeswaves has announced a new album called "It's Here, But I Have No Names For It" for April 12th. It will be the start of a giant tour that will take sleepmakeswaves through Australia, Europe, and the US.**

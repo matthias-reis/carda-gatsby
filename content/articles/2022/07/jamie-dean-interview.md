@@ -1,12 +1,17 @@
 ---
 date: 2022-07-14T07:55:57.878Z
-slug: jamie-dean-interview
 typeName: Interview
 title: God Is An Astronaut Mitglied Jamie Dean über sein Solo-Projekt
 subTitle: '"Ich bin in einer musikalischen Familie aufgewachsen"'
 seoTitle: 'Interview: Jamie Dean von God Is An Astronaut über "Mutualism"'
-description: Ich habe mich mit God Is An Astronaut Mitglied Jamie Dean zum Interview verabredet. Wir haben uns über sein Soloprojekt und die laufende Tour unterhalten – und was wir vom Mutualismus im Tierreich lernen können.
-excerpt: Vor ein paar Tagen habe ich das neue Solo-Stück von God Is An Astronaut Mitglied Jamie Dean in meiner Juni-Playlist erwähnt. Nachdem er meine Social Media Posts dazu geteilt hatte, fragte ich ihn, ob er Lust auf ein Interview hätte. Ich bin sehr stolz, es Euch heute präsentieren zu können. Ich habe die Unterhaltung mit Jamie sehr genossen und wünsche Euch viel Freude beim Lesen.
+description: Ich habe mich mit God Is An Astronaut Mitglied Jamie Dean zum
+  Interview verabredet. Wir haben uns über sein Soloprojekt und die laufende
+  Tour unterhalten – und was wir vom Mutualismus im Tierreich lernen können.
+excerpt: Vor ein paar Tagen habe ich das neue Solo-Stück von God Is An Astronaut
+  Mitglied Jamie Dean in meiner Juni-Playlist erwähnt. Nachdem er meine Social
+  Media Posts dazu geteilt hatte, fragte ich ihn, ob er Lust auf ein Interview
+  hätte. Ich bin sehr stolz, es Euch heute präsentieren zu können. Ich habe die
+  Unterhaltung mit Jamie sehr genossen und wünsche Euch viel Freude beim Lesen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-2-jpeg-imagine-181818_494949_1440_1440/640.webp
 copyright: Jamie Dean
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-interview-fb-jpeg-imagine-181818_404c4e_1200_628/640.webp
@@ -26,6 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/07/jamie-dean-interview-en/
+
 ---
 
 **Vor ein paar Tagen habe ich das neue Solo-Stück von God Is An Astronaut Mitglied Jamie Dean in meiner Juni-Playlist erwähnt. Nachdem er meine Social Media Posts dazu geteilt hatte, fragte ich ihn, ob er Lust auf ein Interview hätte. Ich bin sehr stolz, es Euch heute präsentieren zu können. Ich habe die Unterhaltung mit Jamie sehr genossen und wünsche Euch viel Freude beim Lesen.**

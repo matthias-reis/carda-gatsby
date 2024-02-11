@@ -1,13 +1,12 @@
 ---
 date: 2013-09-25T19:27:32.000Z
-slug: die-traurige-geschichte-eines-tapferen-katers
-path: /2013/09/die-traurige-geschichte-eines-tapferen-katers/
 title: Die traurige Geschichte eines tapferen Katers
 seoTitle: Die traurige Geschichte eines tapferen Katers - Teil I / IV
 ogTitle: Die traurige Geschichte eines tapferen Katers - Teil I / IV
-description: Heute erzähle ich Euch die Geschichte, die wir mit Kater Chili beim Tierarzt erlebt haben. Holt Euch immer eine zweite Meinung ein!
-excerpt: Heute erzähle ich Euch die Geschichte, die wir mit Kater Chili beim Tierarzt erlebt haben. Holt Euch immer eine zweite Meinung ein!
-fileName: 2013-09---die-traurige-geschichte-eines-tapferen-katers.md
+description: Heute erzähle ich Euch die Geschichte, die wir mit Kater Chili beim
+  Tierarzt erlebt haben. Holt Euch immer eine zweite Meinung ein!
+excerpt: Heute erzähle ich Euch die Geschichte, die wir mit Kater Chili beim
+  Tierarzt erlebt haben. Holt Euch immer eine zweite Meinung ein!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_9588574715_b8fb54fbc8_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_9588574715_b8fb54fbc8_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAQFBgcCAwj/xAApEAABAwQCAQMDBQAAAAAAAAABAgMEAAUGESFBMQcSURMiMmFxkbHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABgRAQEBAQEAAAAAAAAAAAAAAAABESEx/9oADAMBAAIRAxEAPwDL0uwTFcUmvyby/HukgMpDcZCA4gK1tSlLPBJ8BI4GiTT1mXqtb24Bbt1nQw7HcO0uDXuGhopIGvPzxVaAX+6TpMXF7RLnKbBUp5GiTrsAHgdDv+a1y8Wyyfhxvt1VuE44WWWGkn79HRX+IIAII5758Cstq0ntbjGR24zA20palEOJKQCD2CP8KhWV4lbpwdU0hLToOgtCTwfgnxSywMzIWONIlKebU6o/U0NEgEgf1S6xQWok1C45V7lr5QHD7XBx+Y7HHdIGj0Hz+Za7q8yYrb760hIfUrSgP21XQyr6udDW2624UvbK/c7sHfnqiiq8uCKbzvHo0Oa7Kty1x0uJ2WdkoBB8jnjfxVRT8luNqMmPDfWkyFFSlqIUR+idjiiilJ0q/9k=
@@ -32,13 +31,12 @@ labels:
   - Tierklinik Bewertung
   - Tierklinik Kritik
   - Tierrechte
-focusKeyword: ''
-status: publish
+focusKeyword: ""
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Eine Tierarztodyssee
+
 ---
 
 **Mit diesem Artikel möchte ich zeigen, wie wichtig es ist, eine zweite Meinung einzuholen, wenn ein Tier krank wird. Wie aus unserem stolzen Feliden innerhalb einer Woche ein Häufchen Elend wurde.**

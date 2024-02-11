@@ -1,13 +1,12 @@
 ---
 date: 2013-05-31T13:31:43.000Z
-slug: regen-am-freitag
-path: /2013/05/regen-am-freitag/
 title: Regen am Freitag
 seoTitle: Regen am Freitag - Mit musikalischer Untermalung
 ogTitle: Regen am Freitag - Mit musikalischer Untermalung
-description: Regen am Freitag - Ich tauche ein in Musik von Dave, Trent und Josh und wünsche Euch ein tolles Wochenende!
-excerpt: Regen am Freitag - Ich tauche ein in Musik von Dave, Trent und Josh und wünsche Euch ein tolles Wochenende!
-fileName: 2013-05---regen-am-freitag.md
+description: Regen am Freitag - Ich tauche ein in Musik von Dave, Trent und Josh
+  und wünsche Euch ein tolles Wochenende!
+excerpt: Regen am Freitag - Ich tauche ein in Musik von Dave, Trent und Josh und
+  wünsche Euch ein tolles Wochenende!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_5505__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_5505__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUDBgcI/8QAKhAAAgEDAgYBAwUAAAAAAAAAAQIDBAUGABEHEiExQWETFCKhFiNxgbP/xAAYAQACAwAAAAAAAAAAAAAAAAAABAECA//EABoRAQEBAQEBAQAAAAAAAAAAAAECABEDMSH/2gAMAwEAAhEDEQA/ANZju7VVbexBXs9TSvOFhaRlUFN9l2HjoO2qDbuOImgiV7MRUlRzH6xuTm9dN9Znl97q7dnWVCmlaMvX1ce6kjoXYePWgMbsq1CNJWFkQ7fHseUj2fW2kzyJ605yZHdN4DcZ75bTUy1UryOWYpzn9vc9F7+B501niq4bjSulVPyfKoZS5IIJ6gjWN43f1xP6mmp6hHjn+6Nix5oj721cLRmVTV3uhoZ5UZ2ljDbfcCCw22J8HcddY1L3pprzQ7z83PfEGZf15k/q6VP+jaMslxjkpOdSrOPtHN2B1FxDxDLjxAyaSDGbzUU81xnmimgpHkjdHcsrBlBB3BGgbVhmWU6iVMfv0UzdwbfJsPxpygTEpntTVQPIJSiu67Dm5u/sjt40zsl2SfLsS6D5WuNNTEjwFmVh+GA/rVdrMbycwGNMVvpk67MKGU7/AM9NSYJiWXHiFjLy43eYKWC5QTyzT0jxxoiuGZmZgAOgOiQ+uvVDP3f/2Q==
@@ -41,12 +40,11 @@ labels:
   - Wetter
   - Wochenende
 focusKeyword: Regen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Mit musikalischer Untermalung
+
 ---
 
 ## Meine Lieben,

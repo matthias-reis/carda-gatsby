@@ -1,14 +1,17 @@
 ---
 date: 2023-12-21T10:38:20.589Z
-slug: impericon-bandshirts-la-dispute-being-as-an-ocean
 typeName: Produkttest
-title: 'Neue nachhaltige Bandshirts von Impericon'
+title: Neue nachhaltige Bandshirts von Impericon
 subTitle: La Dispute & Being As An Ocean auf der Haut
-seoTitle: 'Bandshirts von Impericon gibt es auch in nachhaltig'
-description: Bandshirts von Impericon gibt es auch in nachhaltig und Bio – Tragt schon bald La Dispute und Being As An Ocean direkt auf der Haut!
-excerpt: Vor Kurzem traf hier wieder eine schöne Lieferung mit Impericon Bandshirts ein. Dieses Mal von La Dispute und Being As An Ocean. Sie sind aus Bio-Baumwolle und insgesamt wesentlich nachhaltiger, als andere Bandshirts. Holt Euch hier alle Infos über die Bands, die Shirts und den Metal-Merch-Shop.
+seoTitle: Bandshirts von Impericon gibt es auch in nachhaltig
+description: Bandshirts von Impericon gibt es auch in nachhaltig und Bio – Tragt
+  schon bald La Dispute und Being As An Ocean direkt auf der Haut!
+excerpt: Vor Kurzem traf hier wieder eine schöne Lieferung mit Impericon
+  Bandshirts ein. Dieses Mal von La Dispute und Being As An Ocean. Sie sind aus
+  Bio-Baumwolle und insgesamt wesentlich nachhaltiger, als andere Bandshirts.
+  Holt Euch hier alle Infos über die Bands, die Shirts und den Metal-Merch-Shop.
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-21/impericon-being-as-an-ocean-la-dispute-anne-reis-soundsvegan-com-20-jpg-imagine-080808_363f64_2048_1536/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-21/faire-bandshirts-anne-reis-soundsvegan-com-og-jpg-imagine-080808_3e414f_1200_628/640.webp
 labels:
   - Impericon
@@ -26,6 +29,7 @@ focusKeyword: Impericon Bandshirts
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Impericon hat hier vor Kurzem wieder eine schöne T-Shirt-Lieferung dagelassen – dieses Mal erinnern mich zwei wunderschöne Artworks daran, die Musik der beiden Melodic-Hardcore/Post-Hardcore und Post-Punk-Bands Being As An Ocean und La Dispute endlich mal wieder häufiger zu genießen. Beide Shirts stammen übrigens aus dem nachhaltigen Sortiment des offiziellen Merchandise und Fashion Shops.**

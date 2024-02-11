@@ -1,11 +1,12 @@
 ---
 date: 2021-11-02T16:01:25.610Z
-slug: magnus-josefsson-acid-air-en
 typeName: Review
 title: '"Acid Air"'
 subTitle: The New Album By Magnus Josefsson
 seoTitle: '"Acid Air" By Magnus Josefsson – Ambient Review'
-description: Magnus Josefsson has announced his first official album for December under his self-founded label The Mirror Factory. I had the chance to listen to "Acid Air" upfront, and now I want to share my experience with you.
+description: Magnus Josefsson has announced his first official album for
+  December under his self-founded label The Mirror Factory. I had the chance to
+  listen to "Acid Air" upfront, and now I want to share my experience with you.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-jpg-imagine-080808_824e37_1024_768/640.webp
 copyright: Magnus Josefsson
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-fb-png-imagine-080808_a15e42_1200_628/640.webp
@@ -28,6 +29,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/11/magnus-josefsson-acid-air/
+
 ---
 
 **Magnus Josefsson has announced his first official album for December under his self-founded label The Mirror Factory. I had the chance to listen to "Acid Air" upfront, and now I want to share my experience with you.**

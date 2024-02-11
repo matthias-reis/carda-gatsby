@@ -1,13 +1,14 @@
 ---
 date: 2012-08-11T15:58:42.000Z
-slug: muell
-path: /2012/08/muell/
 title: So viel Müll produzieren wir
 seoTitle: Müll - So viel produzieren wir - da sollte man man drüber nachdenken
 ogTitle: Müll - So viel produzieren wir - da sollte man man drüber nachdenken
-description: Das durchschnittliche Pro-Kopf-Aufkommen an Haushaltsabfällen in Deutschland liegt bei 450 Kilogramm. Das ist vielmehr, als die Umwelt verträgt.
-excerpt: Das durchschnittliche Pro-Kopf-Aufkommen an Haushaltsabfällen in Deutschland liegt bei 450 Kilogramm. Insgesamt wurden im Jahr 2011 36,8 Millionen Tonnen Abfälle bei den Haushalten gesammelt.
-fileName: 2012-08---soviel-muell-produzieren-wir.md
+description: Das durchschnittliche Pro-Kopf-Aufkommen an Haushaltsabfällen in
+  Deutschland liegt bei 450 Kilogramm. Das ist vielmehr, als die Umwelt
+  verträgt.
+excerpt: Das durchschnittliche Pro-Kopf-Aufkommen an Haushaltsabfällen in
+  Deutschland liegt bei 450 Kilogramm. Insgesamt wurden im Jahr 2011 36,8
+  Millionen Tonnen Abfälle bei den Haushalten gesammelt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0213__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0213__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQcI/8QAKBAAAQQBBAEDBAMAAAAAAAAAAQIDBBEFAAYSITETFEEHImFxFlFS/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREBAQADAQAAAAAAAAAAAAAAAQACETEh/9oADAMBAAIRAxEAPwBPFOS5sadjMLPdi5VtAkR20SFMIdF04lZTZH22oV31qSdqJjTU/wAt3dimHk2VMNtvvuqBHR5OEGvnx3rJJealY7JMvPSUS2o8oSG1JcAcICgbUE9A1Yr961r6oOlW6Yzsb1HESYLLqA2kmwSqvH4rVOljlfof2g4/Irjm57kBLCEPwuDNsIcXyFj7SoAAkf5FaoXp7G7Pp7GnMmYtuUtTai60KsWXUlKSQUg8AATfEX50ltjFZRWZiypGLmtY9v1C8+62W0pQWli+6PyPGmZDEnbO0Nn4bGve0kpYL7j6JHoKDz3fkdG09UR31oUJxaWMibByJ9BWxGmuCuHJORcs18nr5+f71oeVcdwmxslkcVIkI9pGT6LT6kuBKUCgnkEhR6Fdk/GjRrJ8qudJH1Ky+5pyI08r9o4E2ylYrl5s9WfPj8aZbxjKm3/dEvpLp4pUpVI/QvrRo1OfQk5f/9k=
@@ -29,12 +30,11 @@ labels:
   - Umweltverschmutzung
   - Wohlstandsmüll
 focusKeyword: Müll
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Da sollte man mal drüber nachdenken
+
 ---
 
 **Das durchschnittliche Pro-Kopf-Aufkommen an Haushaltsabfällen in Deutschland liegt bei 450 Kilogramm. Insgesamt wurden im Jahr 2011 36,8 Millionen Tonnen Abfälle bei den Haushalten gesammelt.**

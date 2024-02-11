@@ -1,13 +1,13 @@
 ---
 date: 2015-11-18T19:32:52.000Z
-slug: diy-upcycling-armstulpen
-path: /2015/11/diy-upcycling-armstulpen/
 title: DIY Upcycling Armstulpen
 seoTitle: DIY Upcycling Armstulpen
 ogTitle: DIY Upcycling Armstulpen
-description: Wie versprochen zeige ich Euch heute, wie Ihr mit ganz wenig Aufwand ein paar tolle Armstulpen herstellen könnt
-excerpt: Vor Kurzem hatte ich hier die Anleitung für einen hübschen Loopschal mit Euch geteilt und Euch versprochen, dass es dazu auch noch Stulpen geben würde.
-fileName: 2015-11---diy-upcycling-armstulpen.md
+description: Wie versprochen zeige ich Euch heute, wie Ihr mit ganz wenig
+  Aufwand ein paar tolle Armstulpen herstellen könnt
+excerpt: Vor Kurzem hatte ich hier die Anleitung für einen hübschen Loopschal
+  mit Euch geteilt und Euch versprochen, dass es dazu auch noch Stulpen geben
+  würde.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAmEAABAwQCAgICAwAAAAAAAAABAgMEAAURIRIxBhNBcRRRIoGx/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAgEQACAgICAgMAAAAAAAAAAAABAgADBBESIQVBExQx/9oADAMBAAIRAxEAPwDn4/b2ZGGygLUcDgBmmaUbdZfSzPkR4T7xPBD6whRx3o/6dVi2K5Q4cYvXB1hqMn+K1rZU4kZ1sJIP9/FTPz+6++7Xp+P6PWy4I0ZbQUQGQRjZJyN57+alsbG+w2mMr8m74ELgfkrdyjsSYvuYIebcJ4rSQoKHQ2O6S/MWoluYSZDrbPMHilR2fod0nQrrJtUFxmDNdZSo8FcFHBJ7P3j5H7pduTw4KAWpRwdqOScnJOfs0hX4wq2y3ULfy210F7lNtVxdbbSU6yDqs7yqzN3dS5iXVsOqZQ2sABSVJSMJ1rBAooo5WNdnJOjFiosr4v2IuOeOlnx/84TXFLacKQko1s9996pOluuZIKs8R+u6KKVxbXctyPuEZdFagaHqf//Z
@@ -20,12 +20,11 @@ labels:
   - Stulpen
   - Upcycling
 focusKeyword: Armstulpen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Strick mit bunten Manschetten
+
 ---
 
 **Vor Kurzem hatte ich hier die Anleitung für einen hübschen Loopschal mit Euch geteilt und Euch versprochen, dass es dazu auch noch Stulpen geben würde. Hiermit löse ich das Versprechen ein.**

@@ -1,14 +1,17 @@
 ---
 date: 2022-05-26T13:56:05.972Z
-slug: playlist-juni-2022
 typeName: Beitrag
 title: Playlist Juni 2022
 subTitle: Von Ambient bis Post-Hardcore
 seoTitle: 12 Songs für den Juni – von Ambient bis Post-Hardcore
-description: Die Playlist für den Monat Juni kommt mit 12 ganz besonderen Stücken von Ambient bis Post-Hardcore.
-excerpt: Hallo Ihr Sommermenschen! Von mir hört Ihr im Moment nicht so viel, ich weiß. Hier ist gerade eine ganze Menge los und ich finde nicht jeden Tag die Zeit zum Bloggen. Die Musikliste für den Juni mit Euch zu teilen, lasse ich mir natürlich trotzdem nicht entgehen. Und ich gelobe Besserung! Versprochen!
+description: Die Playlist für den Monat Juni kommt mit 12 ganz besonderen
+  Stücken von Ambient bis Post-Hardcore.
+excerpt: Hallo Ihr Sommermenschen! Von mir hört Ihr im Moment nicht so viel, ich
+  weiß. Hier ist gerade eine ganze Menge los und ich finde nicht jeden Tag die
+  Zeit zum Bloggen. Die Musikliste für den Juni mit Euch zu teilen, lasse ich
+  mir natürlich trotzdem nicht entgehen. Und ich gelobe Besserung! Versprochen!
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-26/12-songs-juni-jpg-imagine-080808_4e4e43_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-26/12-songs-juni-fb-jpg-imagine-080808_515249_1200_628/640.webp
 labels:
   - Post-Hardcore
@@ -46,6 +49,7 @@ focusKeyword: Post-Hardcore
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Hallo Ihr Sommermenschen! Von mir hört Ihr im Moment nicht so viel, ich weiß. Hier ist gerade eine ganze Menge los und ich finde nicht jeden Tag die Zeit zum Bloggen. Die Musikliste für den Juni mit Euch zu teilen, lasse ich mir natürlich trotzdem nicht entgehen. Und ich gelobe Besserung! Versprochen!**

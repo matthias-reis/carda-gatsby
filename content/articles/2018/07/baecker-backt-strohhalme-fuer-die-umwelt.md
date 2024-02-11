@@ -1,13 +1,13 @@
 ---
 date: 2018-07-20T14:40:47.000Z
-slug: baecker-backt-strohhalme-fuer-die-umwelt
-path: /2018/07/baecker-backt-strohhalme-fuer-die-umwelt/
 title: Bäcker backt Strohhalme für die Umwelt
 seoTitle: Bäcker backt Strohhalme für die Umwelt - Nudeln statt Plastik
 ogTitle: Bäcker backt Strohhalme für die Umwelt - Nudeln statt Plastik
-description: In einer Bäckerei in Bielefeld hat man sich jetzt etwas ganz Besonderes für die Kunden ausgedacht, die ihren Kaffee gerne durch Strohhalme trinken.
-excerpt: In einer Bäckerei in Bielefeld hat man sich jetzt etwas ganz Besonderes für die Kunden ausgedacht, die ihren Kaffee gerne durch Strohhalme trinken.
-fileName: 2018-07---baecker-backt-strohhalme-fuer-die-umwelt.md
+description: In einer Bäckerei in Bielefeld hat man sich jetzt etwas ganz
+  Besonderes für die Kunden ausgedacht, die ihren Kaffee gerne durch Strohhalme
+  trinken.
+excerpt: In einer Bäckerei in Bielefeld hat man sich jetzt etwas ganz Besonderes
+  für die Kunden ausgedacht, die ihren Kaffee gerne durch Strohhalme trinken.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_noodles-2329766_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_noodles-2329766_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAArEAACAQMCAwYHAAAAAAAAAAABAgMABBEFEiExQQYTFCJhkQcVI1FxgaH/xAAZAQABBQAAAAAAAAAAAAAAAAADAAIEBgf/xAAhEQABAwMEAwAAAAAAAAAAAAABAAIhAxExEhNRYXGh0f/aAAwDAQACEQMRAD8A2Wm2XiJUjN0Q55YUgcvenbu3FrJGsskckjg7QqEtgcyT05io+m6varqZhEu6S3kjSUKCdpkVio9lJ4ZxUr4oaLqGuwaLbabcXFpcPP30ksUjRmOAMVclvvnGBxz09M+p0HOMwM3PpWIkD4tIE7/f4dJXCjLFI9wH7pSeP6edjv6oB/RnhTmg6d8ttI7a21i+MYG17q6K3Eu0cceYYBOB0IFZpm1GLtVOvfT3OmCBle6ktltkaZZPK0ahiTuQ8SABwFM2g9utr8eAkTaCFXtZGSRoxtyp27gMZApg5ZN6HYcZI5g4ooqCHESjkXXCO5faHXKn81zuVS7ikaRAGA4kdaKKPUie0JvC/9k=
@@ -32,12 +32,11 @@ labels:
   - Zero Waste
   - zerowaste
 focusKeyword: Strohhalme
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Nudeln statt Plastik
+
 ---
 
 **Das Thema Umweltverschmutzung durch Kunststoff ist im Moment ganz groß in der Presse. Was sehr gut ist. Besonders für Aufmerksamkeit gesorgt haben in letzter Zeit Strohalme aus Plastik. Sie werden nur einmal benutzt und landen dann oft in der Natur.**

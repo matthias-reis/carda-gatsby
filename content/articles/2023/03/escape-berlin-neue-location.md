@@ -1,14 +1,19 @@
 ---
 date: 2023-03-30T09:52:22.574Z
-slug: escape-berlin-neue-location
 typeName: Beitrag
 title: '"Sherlocks Traum"'
 subTitle: Escape Game mit Gruselfaktor
 seoTitle: Spannende Escape Games in Berlin entdecken
-description: Lust auf ein spannendes Escape Game in Berlin? Escape Berlin wartet Euch auf! Mit spannenden Räumen von Party bis Horror!
-excerpt: 'Die Nachricht, dass meine Lieblings-Escape-Games von Escape Berlin in eine neue Location umgezogen sind, erreichte mich schon vor einigen Monaten. Jetzt hatte ich endlich die Gelegenheit, sie mir anzusehen. Wie bei meiner ersten "zu zweit im Escape Game Challenge" waren wir wieder zu zweit. Spoiler Alert: wir haben es wieder geschafft, zu entkommen! Dieses Mal sogar ein bisschen schneller, als beim ersten Mal!'
+description: Lust auf ein spannendes Escape Game in Berlin? Escape Berlin wartet
+  Euch auf! Mit spannenden Räumen von Party bis Horror!
+excerpt: 'Die Nachricht, dass meine Lieblings-Escape-Games von Escape Berlin in
+  eine neue Location umgezogen sind, erreichte mich schon vor einigen Monaten.
+  Jetzt hatte ich endlich die Gelegenheit, sie mir anzusehen. Wie bei meiner
+  ersten "zu zweit im Escape Game Challenge" waren wir wieder zu zweit. Spoiler
+  Alert: wir haben es wieder geschafft, zu entkommen! Dieses Mal sogar ein
+  bisschen schneller, als beim ersten Mal!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-03-30/escape-berlin-jpg-imagine-08f888_2a786a_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-03-30/escape-berlin-og-jpg-imagine-181818_6a5a74_1200_628/640.webp
 labels:
   - Escape Game
@@ -24,6 +29,7 @@ focusKeyword: Escape Berlin
 advertisement: true
 affiliate: false
 language: de
+
 ---
 
 **Die Nachricht, dass meine Lieblings-Escape-Games von Escape Berlin in eine neue Location umgezogen sind, erreichte mich schon vor einigen Monaten. Jetzt hatte ich endlich die Gelegenheit, sie mir anzusehen. Wie bei meiner ersten "zu zweit im Escape Game Challenge" waren wir wieder zu zweit. Spoiler Alert: wir haben es wieder geschafft, zu entkommen! Dieses Mal sogar ein bisschen schneller als beim ersten Mal!**

@@ -1,12 +1,18 @@
 ---
 date: 2021-11-23T13:52:01.505Z
-slug: monosphere-the-puppeteer
 typeName: Interview
 title: '"The Puppeteer"'
 subTitle: Das neue Album von Monosphere
 seoTitle: '"The Puppeteer" von Monosphere – Post-Rock Review'
-description: Am 26.11. erscheint das von der Kritik gelobte neue Monosphere Album "The Puppeteer".  Ich hatte jetzt die Gelegenheit, Drummer Rodney zu interviewen. Wir haben uns über Konzeptalben und Veganismus unterhalten.
-excerpt: Am 26. November erscheint das von der Kritik hochgelobte neue Monosphere Album "The Puppeteer". Höchste Zeit für ein Interview mit der Post-Metal/Prog Band aus Mainz. Drummer Rodney hat sich jetzt Zeit genommen und meine Fragen beantwortet. Wir haben uns nicht nur über Musik, sondern auch über Veganismus unterhalten. Er selbst lebt, genau wie ich, seit nahezu zehn Jahren vegan.
+description: Am 26.11. erscheint das von der Kritik gelobte neue Monosphere
+  Album "The Puppeteer".  Ich hatte jetzt die Gelegenheit, Drummer Rodney zu
+  interviewen. Wir haben uns über Konzeptalben und Veganismus unterhalten.
+excerpt: Am 26. November erscheint das von der Kritik hochgelobte neue
+  Monosphere Album "The Puppeteer". Höchste Zeit für ein Interview mit der
+  Post-Metal/Prog Band aus Mainz. Drummer Rodney hat sich jetzt Zeit genommen
+  und meine Fragen beantwortet. Wir haben uns nicht nur über Musik, sondern auch
+  über Veganismus unterhalten. Er selbst lebt, genau wie ich, seit nahezu zehn
+  Jahren vegan.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-title-jpg-imagine-080808_454240_1024_768/640.webp
 copyright: Monosphere
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-23/monosphere-the-puppeteer-fb-png-imagine-080808_191109_1200_628/640.webp
@@ -30,6 +36,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/11/monosphere-the-puppeteer-en/
+
 ---
 
 **Am 26. November erscheint das von der Kritik hochgelobte neue Monosphere Album "The Puppeteer". Höchste Zeit für ein Interview mit der Post-Metal/Prog Band aus Mainz. Drummer Rodney hat sich jetzt Zeit genommen und meine Fragen beantwortet. Wir haben uns nicht nur über Musik, sondern auch über Veganismus unterhalten. Er selbst lebt, genau wie ich, seit nahezu zehn Jahren vegan.**

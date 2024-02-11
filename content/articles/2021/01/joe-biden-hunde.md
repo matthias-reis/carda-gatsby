@@ -1,13 +1,13 @@
 ---
 date: 2021-01-14T11:48:01.000Z
-slug: joe-biden-hunde
-path: /2021/01/joe-biden-hunde/
 title: Joe Biden bringt Hunde zurück ins Weiße Haus
 seoTitle: Joe Biden bringt Hunde zurück ins Weiße Haus – Indoguration am 17. 1.
 ogTitle: Joe Biden bringt Hunde zurück ins Weiße Haus – Indoguration am 17. 1.
-description: Joe Biden bringt die Hunde zurück ins Weiße Haus – am 17. Januar findet die Indoguration statt und sein Begleiter Major wird offiziell zum First Dog.
-excerpt: Joe Biden bringt die Hunde zurück ins Weiße Haus – am 17. Januar findet die Indoguration statt und sein Begleiter Major wird offiziell zum First Dog.
-fileName: 2021-01---joe-biden-bringt-hunde-zurueck-ins-weisse-haus.md
+description: Joe Biden bringt die Hunde zurück ins Weiße Haus – am 17. Januar
+  findet die Indoguration statt und sein Begleiter Major wird offiziell zum
+  First Dog.
+excerpt: Joe Biden bringt die Hunde zurück ins Weiße Haus – am 17. Januar findet
+  die Indoguration statt und sein Begleiter Major wird offiziell zum First Dog.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Joe-Biden-mit-seinem-Hund-Major_Joe-Biden-with-his-dog-Major.-Bild_picture_-Delaware-Humane-Associaton__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Joe-Biden-mit-seinem-Hund-Major_Joe-Biden-with-his-dog-Major.-Bild_picture_-Delaware-Humane-Associaton__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHCP/EACsQAAIBAwMDAwIHAAAAAAAAAAECAwQFEQAGEiExQQciYRNRFSMkMnGR4f/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAQP/xAAeEQACAgICAwAAAAAAAAAAAAABAgADESESMjFBgf/aAAwDAQACEQMRAD8AqlzvFkjukN7q6i9wClQoFkoapIByBTkVMeOXuxn+NLG/fWqwWKlgio46qtqp8lRDC0QQAgFmMgHzgAHt402bqairKZbZcXIp5x9WRvrCLiqMMYJ7ktxwPIB+2swer1qgg3miU0k01IsEYQYBD5LFsOPucAdPPxqNaw3f1KGsOiJZtl+r23b/AGmehuM9xoayFieRheQuvMlXUxgkeOhAx86cKXc9r/DoDRC6VFOVyky2yoIfqcnPDr1zrOtMdu27cdmg25A9GTbP1lTV1atHOz8XU8s+1hhh2HYdB5tOxbry21TUzmImNZWR4pA6Mgmde/ggkZHyPvrLKFTaxLcxHBvGc/ZMt8W2/VlRbGud8evb8wQCSLOMFCxx27Ekf7pUe3Swbtgpamd0aopiiSrThl6sP3J19oAJJAyAM6NGnSTgTna2TEfiYL7LTRTpVKZ2jWoiXCyjlgOB4BxkD51RNtUV7pa+oFJdpqGpaFRIACA3JyfHTrxH9aNGnd1hrYq2p//Z
@@ -20,12 +20,11 @@ labels:
   - Tierrechte
   - Weißes Haus
 focusKeyword: Joe Biden
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Alles über die Indoguration
+
 ---
 
 **Joe Biden bringt die Hunde zurück ins Weiße Haus – am 17. Januar findet die Indoguration statt und sein Begleiter Major wird offiziell zum First Dog.** **Noch vor der Amtseinführung des 46. US-amerikanischen Präsidenten am 20. Januar 2021 wird Joe Bidens Rettungshund damit seine Amtseinführung haben. Traditionell sucht in den Staaten jede\*r gewählte Präsident\*in einen Hund aus, der dieses wichtige Amt übernimmt. Die Besonderheit dieses Mal: Joe Bidens Hund stammt aus einem Tierheim.**

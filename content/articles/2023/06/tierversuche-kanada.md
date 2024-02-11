@@ -1,14 +1,18 @@
 ---
 date: 2023-06-15T11:07:22.712Z
-slug: tierversuche-kanada
 typeName: Beitrag
 title: Kanada steigt aus Tierversuchen für Chemikalien aus
 subTitle: Humane Society International feiert Erfolg
 seoTitle: Kanada – Tierversuche für Chemikalien sollen aufhören
-description: Kanada – Tierversuche für Chemikalien sollen dort schon bald der Vergangenheit angehören. Erfahrt jetzt alles über die Gesetzänderung.
-excerpt: 'In Bill S-5 des kanadischen Umweltschutzgesetzes steht es jetzt schwarz auf weiß: Das Land steigt aus den gefährlichen Toxin-Tests für Chemikalien mit Tieren aus. Den Beschluss für diese historischen Maßnahmen veröffentlichte die kanadische Regierung vor ein paar Tagen. Humane Society Canada berichtete über den bahnbrechenden Erfolg.'
+description: Kanada – Tierversuche für Chemikalien sollen dort schon bald der
+  Vergangenheit angehören. Erfahrt jetzt alles über die Gesetzänderung.
+excerpt: "In Bill S-5 des kanadischen Umweltschutzgesetzes steht es jetzt
+  schwarz auf weiß: Das Land steigt aus den gefährlichen Toxin-Tests für
+  Chemikalien mit Tieren aus. Den Beschluss für diese historischen Maßnahmen
+  veröffentlichte die kanadische Regierung vor ein paar Tagen. Humane Society
+  Canada berichtete über den bahnbrechenden Erfolg."
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-15/tierversuche-kaninchen-png-imagine-080808_6a7d83_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-15/tierversuche-maus-og-jpg-imagine-f8f8f8_979bab_1200_628/640.webp
 labels:
   - Kanada
@@ -21,6 +25,7 @@ focusKeyword: Kanada Tierversuche
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **In Bill S-5 des kanadischen Umweltschutzgesetzes steht es jetzt schwarz auf weiß: Das Land steigt aus den gefährlichen Toxin-Tests für Chemikalien mit Tieren aus. Den Beschluss für diese historischen Maßnahmen veröffentlichte die kanadische Regierung vor ein paar Tagen. Humane Society Canada berichtete über den bahnbrechenden Erfolg.**

@@ -1,15 +1,16 @@
 ---
-date: 2021-03-02T15:07:37.000+00:00
-slug: hyaluron-ampullen-enzym-peeling-santaverde
-path: '/2021/03/hyaluron-ampullen-enzym-peeling-santaverde/'
+date: 2021-03-02T15:07:37.000Z
 type: Artikel
 typeName: Produkttest
 title: Frühlingserwachen für die Haut
 seoTitle: Hyaluron-Ampullen und Enzym Peeling von Santaverde
 ogTitle: Hyaluron-Ampullen und Enzym Peeling von Santaverde
-description: Hyaluron-Ampullen sorgen für Frische und können den Feuchtigkeitsgehalt der Haut verbessern. Ein leichtes Peeling bereitet die Haut vor.
-excerpt: Hyaluron-Ampullen sorgen für Frische und können den Feuchtigkeitsgehalt der Haut verbessern. Ein leichtes Peeling mit Enzymen ist die perfekte Vorbereitung.
-fileName: 2021-03---fruehlingserwachen-fuer-die-haut.md
+description: Hyaluron-Ampullen sorgen für Frische und können den
+  Feuchtigkeitsgehalt der Haut verbessern. Ein leichtes Peeling bereitet die
+  Haut vor.
+excerpt: Hyaluron-Ampullen sorgen für Frische und können den Feuchtigkeitsgehalt
+  der Haut verbessern. Ein leichtes Peeling mit Enzymen ist die perfekte
+  Vorbereitung.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-11__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-11__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQgDBv/EACoQAAICAQMDAgUFAAAAAAAAAAECAwQFABEhBhIxE0EHIlFxgRQjMjNy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIhAxESIjH/2gAMAwEAAhEDEQA/APKYDpjGRVoHsY+Cx2xKZFklkHc2wJIKuNufxq6q9IRSABemKEyluJZcg6/KffsG/j6eeNMbpyBJcRXkigj7/Shm/bqlzyoPtphwO4riULaWLcMGaKOAEH/RGkXIfqIuz0N05CkqvhcfLJId41dG7x9diW5Hv41mvPUI6mVvV6conrQzvHHKOQyhiAd9bIny0Vzq6CpYyFazLAzMw9dJljj7W8hDx9vOoXW8yR4n0o6tSzXlVhNGlcKjRhSSD3kbgge3OuiVaZut+CNxPUl+StDTuZvJfo1URosdlkVF8BeCONWcFqjG3pWNp5B/F5ZQ/cPzvzo0aiyWU46JOJ6iXA5+PJ42rX9REaMxL8gcEEbkjkbbnY/fXPq34kZPJVpEkrVIgUdP72bYMpUkb++x0aNEJyVJhOCds//Z
@@ -28,12 +29,11 @@ labels:
   - vegane Hyaluron Ampullen
   - veganes Hyaluron
 focusKeyword: Hyaluron-Ampullen
-status: publish
 advertisement: true
 affiliate: true
 language: de
-errors: {}
 subTitle: Hyaluron-Ampullen und Enzym Peeling von Santaverde
+
 ---
 
 **Hyaluron-Ampullen sorgen für Frische und können den Feuchtigkeitshaushalt der Haut nach einer Durststrecke wieder auf wieder auffüllen. Dafür ist ein leichtes Peeling mit Enzymen eine gute Vorbereitung.**

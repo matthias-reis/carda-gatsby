@@ -1,14 +1,17 @@
 ---
 date: 2023-11-17T13:38:00.766Z
-slug: unverkalt-a-lump-of-death-a-chaos-of-dead-lovers-en
 typeName: Review
 title: '"A Lump of Death: A Chaos of Dead Lovers"'
 subTitle: Unverkalt About to Release Their Second Album
 seoTitle: Unverkalt – "A Lump of Death" – Post-Metal Review
-description: 'Unverkalt are about to release their second album, "A Lump of Death: A Chaos of Dead Lovers" Check it out now and find out some details about the now Berlin-based band.'
-excerpt: 'Unverkalt just finished their second album, "A Lump of Death: A Chaos of Dead Lovers". The band is now based in Berlin three years after their debut and ready to start another level. Find out why!'
+description: 'Unverkalt are about to release their second album, "A Lump of
+  Death: A Chaos of Dead Lovers" Check it out now and find out some details
+  about the now Berlin-based band.'
+excerpt: 'Unverkalt just finished their second album, "A Lump of Death: A Chaos
+  of Dead Lovers". The band is now based in Berlin three years after their debut
+  and ready to start another level. Find out why!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-17/unverkalt-a-lump-of-death-a-chaos-of-dead-lovers-soundsvega-review-1-jpg-imagine-180808_5f1111_1024_768/640.webp
-copyright: 'Unverkalt'
+copyright: Unverkalt
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-17/unverkalt-a-lump-of-death-a-chaos-of-dead-lovers-soundsvega-review-og-jpg-imagine-a81818_6e1814_1200_628/640.webp
 labels:
   - Band
@@ -25,6 +28,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/11/unverkalt-a-lump-of-death-a-chaos-of-dead-lovers/
+
 ---
 
 **Three years after the release of their debut album, Unverkalt have now finished their second full-length, "A Lump of Death: A Chaos of Dead Lovers". You remember: The five-piece post-rock project from Athens with beautiful vocals that likes to mix elements of doom, post-metal and avant-garde rock into their songs. "A Lump of Death: A Chaos of Dead Lovers" will be released on November 20th. You can get a taste of it here**.

@@ -1,19 +1,18 @@
 ---
-date: 2018-10-28T16:03:30.000+00:00
-slug: kushel-im-test
-path: '/2018/10/kushel-im-test/'
+date: 2018-10-28T16:03:30.000Z
 type: Artikel
 typeName: Produkttest
 title: Kushel im Test
 seoTitle: Kushel im Test - Nachhaltige Handtücher aus Holz
 ogTitle: Kushel im Test - Nachhaltige Handtücher aus Holz
-description: Dass ich immer neugierig auf interessante nachhaltige Start-ups bin, ist kein Geheimnis. Vor Kurzem habe ich "Kushel" für mich entdeckt.
-excerpt: Dass ich immer neugierig auf interessante nachhaltige Start-ups bin, ist kein Geheimnis. Vor Kurzem habe ich "Kushel" für mich entdeckt.
-fileName: 2018-10---kushel-im-test.md
+description: Dass ich immer neugierig auf interessante nachhaltige Start-ups
+  bin, ist kein Geheimnis. Vor Kurzem habe ich "Kushel" für mich entdeckt.
+excerpt: Dass ich immer neugierig auf interessante nachhaltige Start-ups bin,
+  ist kein Geheimnis. Vor Kurzem habe ich "Kushel" für mich entdeckt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-003__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-003__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHCAb/xAArEAACAQMEAQIEBwAAAAAAAAABAgMEBREABhIxIQdBExVRsSIyYYGhssH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQA/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSUSH/2gAMAwEAAhEDEQA/AIPtvbl1vkpjtFuqatgASY0/CAfqxwP5128/pZfrdanuF1Wmo6dCA2Gad1z7kRq2B47Pga1BtC3Natv2u2sYJzR0sdOZQOPMooXlx9s4zp5UrUmmlWn+AjsjKpPWSMefGg34YwrFTI0chMiBgATCQeTD9PbP+aW1jU0kZVIxHgZVyxIf6YHt++etVS9+m70FwudVfbu0NNTMUkeIZkqXC5bGcAIMjvJPnU13fbIrXPHHbq5au3StyB4cWRwPysOuuiPHep4m3XahVx2ntGlrV6l7JSMH5vcE6OGjlz/XTZvVrZsKDjdLg/thaeQ/ddGjVWBI/wCpO8LZU7qkrNv1rSCpgUzNWRtw55OQMjx0D1jzqUbpudRdapWmmEpXyzqCFzjAAyB4A++jRoLwffmn/9k=
-ogImage:
+ogImage: null
 labels:
   - Baumwolle
   - Fair Fashion & Beauty
@@ -24,13 +23,12 @@ labels:
   - Tencel
   - Towel
 focusKeyword: Kushel
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Nachhaltige Handtücher als Holz
 advertisement: true
+
 ---
 
 **Dass ich immer neugierig auf interessante neue Start-ups bin, ist kein Geheimnis. Spätestens, wenn sich ihre Ideen als nachhaltig erweisen, ist mein Interesse geweckt. So geschehen bei "Kushel".**

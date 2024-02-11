@@ -1,6 +1,5 @@
 ---
 date: 2021-03-03T10:14:00.000Z
-slug: as-the-love-continues-mogwai-en
 typeName: Review
 title: '"As The Love Continues" Hits No. 1 In England'
 subTitle: Music Of The Introverts In Charts
@@ -24,6 +23,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/03/as-the-love-continues-mogwai
+
 ---
 
 **With their new album "As The Love Continues", Mogwai have achieved something that no post-rock band has managed before: they have landed at number 1 hit in the British charts with the record.**

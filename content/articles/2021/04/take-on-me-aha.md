@@ -1,7 +1,6 @@
 ---
 templateKey: article
 date: 2021-04-25T16:00:00.000Z
-slug: take-on-me-aha
 typeName: Beitrag
 title: Musikalisches Blind Date
 subTitle: a-ha – "Take On Me"
@@ -25,6 +24,7 @@ focusKeyword: Take On Me
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Heute findet das inzwischen achte musikalische Blogger Blind Date statt. Natürlich wollte ich es mir nicht entgehen lassen, auch dieses Mal wieder teilzunehmen. Die Musikwahl fiel dieses Mal auf den Song "Take On Me" von a-ha.**

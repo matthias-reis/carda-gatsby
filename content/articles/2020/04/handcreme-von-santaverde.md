@@ -1,13 +1,13 @@
 ---
-date: 2020-04-21T15:33:08.000+00:00
-slug: handcreme-von-santaverde
-path: '/2020/04/handcreme-von-santaverde/'
+date: 2020-04-21T15:33:08.000Z
 title: Wellness für die Hände
 seoTitle: Handcreme von Santaverde - Wellness für die Hände
 ogTitle: Handcreme von Santaverde - Wellness für die Hände
-description: Häufiges Händewaschen schützt nicht nur vor Corona. Leider leidet die Haut unter dieser Praktik. Ich habe jetzt die Handcreme von Santaverde ausprobiert.
-excerpt: Häufiges Händewaschen schützt nicht nur vor Corona. Leider leidet die Haut unter dieser Praktik. Was hilft, ist eine gute Handcreme.
-fileName: 2020-04---wellness-fuer-die-haende.md
+description: Häufiges Händewaschen schützt nicht nur vor Corona. Leider leidet
+  die Haut unter dieser Praktik. Ich habe jetzt die Handcreme von Santaverde
+  ausprobiert.
+excerpt: Häufiges Händewaschen schützt nicht nur vor Corona. Leider leidet die
+  Haut unter dieser Praktik. Was hilft, ist eine gute Handcreme.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_santaverde-handcreme221__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_santaverde-handcreme221__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBgcD/8QALBAAAQMDAgMHBQEAAAAAAAAAAQIDBAAFERIhBhMxFCJBUXGBsQcjMmHB4f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBQEG/8QAJhEAAQIFAwMFAAAAAAAAAAAAAQIRAAMEEjEFIWETUYEGFCJx0f/aAAwDAQACEQMRAD8A0uBbmbpfo0VvmIC15dRrJ7qd1H+e9PJ/BbMxKpFlkmGrUrQ06SttQBIBB6p8fOldrvESwqnPyGJipT6Q0lbDaV8pI6nGoHc/AppE+onCwjFlidy32mzpYkoUypRA6d4YqnUTZqVOl2jh9F06gn05TOtKiXyxHbnnzFSulsvdnBMyK4lAOee39xvHr4e+KlbJ61lIWsFaUnCidiP36ZrRI3EaZcaEWghCpROyVagkasDfzxk1y4xs1oTZZtw7Mht9KMpWydGVHZOQNjuRRyq1zZMTvxCdQ9L9JBn00z4gOyuw3yPzzFTvLL0ftTiYq3klOUaRlOcfifKsyujcviDWw5Z5zWnKmFtxSSlQ6ZOf8wfCiijt6qQ5aJ1PU+zmqtSCdiCcjOGIh/ZuBpMZht3WqBKGkKXFdKMqxuSEnHzVqtkW8OMmHc7hJlQQoLw6Ek5HQ6uuN870UVpIAcDEKUVqVaVFlZD7fTYbiP/Z
@@ -23,12 +23,11 @@ labels:
   - vegane Kosmetik
   - vegane Naturkosmetik
 focusKeyword: Handcreme von Santaverde
-status: publish
 advertisement: true
 affiliate: true
 language: de
-errors: {}
 subTitle: Handcreme von Santaverde
+
 ---
 
 **Häufiges Waschen und Desinfizieren der Hände schützt nicht nur vor Corona. Doch leider leidet die Haut schnell unter dieser Praktik. Was hilft, ist eine gute Handcreme. Ich habe jetzt die von Santaverde ausprobiert.**

@@ -1,15 +1,14 @@
 ---
 date: 2012-08-24T12:40:38.000Z
-slug: blood-red-shoes-stellen-neues-video-vor
-path: /2012/08/blood-red-shoes-stellen-neues-video-vor/
 type: Artikel
 typeName: Review
 title: Blood Red Shoes stellen neues Video vor
 seoTitle: Blood Red Shoes stellen neues Video vor - Regen ist abgesagt
 ogTitle: Blood Red Shoes stellen neues Video vor - Regen ist abgesagt
-description: Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts aus, weil die BLOOD RED SHOES heute ihr neues Video vorgestellt haben.
-excerpt: Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts aus, weil die BLOOD RED SHOES heute ihr neues Video vorgestellt haben.
-fileName: 2012-08---blood-red-shoes-stellen-neues-video-vor.md
+description: Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts
+  aus, weil die BLOOD RED SHOES heute ihr neues Video vorgestellt haben.
+excerpt: Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts
+  aus, weil die BLOOD RED SHOES heute ihr neues Video vorgestellt haben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_15695_105416536147151_5021614_n-e1587460509836__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_15695_105416536147151_5021614_n-e1587460509836__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKRAAAQMCBgEDBQEAAAAAAAAAAQIDBAURAAYHEiExIkFRkRMUIzJSwf/EABYBAQEBAAAAAAAAAAAAAAAAAAQBA//EAB0RAAIDAAMBAQAAAAAAAAAAAAECAAMRBBIhEzH/2gAMAwEAAhEDEQA/AHPVfULM2W8yT4VLlNojstIUN0UOEFQJ7+MKC9W87C77NRiLYZTudSYSfa45HXGM7X1ou5wqISPIMsLF1WCtoJI+MQaZDrFRrza4jEpbKtm0t+KUotY7hew9b3wIsxY+5HhVCA9dnSuXdRq/UYJnyqzFRFbaS879GGlRSFJJA5Nyoke2KPRqlUZdTjNOySvhSvJsJHXRtiOaatNIbZjOONxaW1EQXGCo/le3WNx/I6AvwBi0ZbMNVRZVGeaWshRG039PfBQ7PYFJObN7K0RDgG5FbPWnFRzTmGZLbqDEdtaG2+Qdwte5HY6/3C+1olPbUstVCAyQnahaGyVkXJ8yU89/GDBh60Kf2A+7jwTe0DTKsU9ITMqkOQAgN2DSv1Bukdjgc/OHnLlFepiI33ag/JQgIW8lISm9rcC9xgwYq8etT2AkbkWMMJn/2Q==
@@ -40,12 +39,11 @@ labels:
   - Video-Premiere
   - voices in time
 focusKeyword: Blood Red Shoes
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Regen am Freitag macht mir nichts aus
+
 ---
 
 **Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts aus, weil die ♥BLOOD RED SHOES♥ heute ihr neues Video vorgestellt haben. Und es ist toll! Laura und Steven hatten ja schon angekündigt, dass es was ganz Besonderes werden sollte.**

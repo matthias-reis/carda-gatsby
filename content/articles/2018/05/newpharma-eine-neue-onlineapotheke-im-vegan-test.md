@@ -1,19 +1,18 @@
 ---
-date: 2018-05-23T06:13:37.000+00:00
-slug: newpharma-eine-neue-onlineapotheke-im-vegan-test
-path: '/2018/05/newpharma-eine-neue-onlineapotheke-im-vegan-test/'
+date: 2018-05-23T06:13:37.000Z
 type: Artikel
 typeName: Produkttest
 title: Newpharma im Vegan-Test
 seoTitle: Newpharma - Eine neue Onlineapotheke aus Belgien im Vegan-Test
 ogTitle: Newpharma - Eine neue Onlineapotheke im Vegan-Test - Post aus Belgien
-description: Ich habe jetzt die Belgische Onlineapotheke Newpharma dem Vegan-Test unterzogen. Kann man dort vegan und cruelty free bestellen?
-excerpt: Ich habe jetzt die Belgische Onlineapotheke Newpharma dem Vegan-Test unterzogen. Kann man dort vegan und cruelty free bestellen?
-fileName: 2018-05---newpharma-im-vegan-test.md
+description: Ich habe jetzt die Belgische Onlineapotheke Newpharma dem
+  Vegan-Test unterzogen. Kann man dort vegan und cruelty free bestellen?
+excerpt: Ich habe jetzt die Belgische Onlineapotheke Newpharma dem Vegan-Test
+  unterzogen. Kann man dort vegan und cruelty free bestellen?
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_42239376191_919712c1da_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_42239376191_919712c1da_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwL/xAApEAACAQMEAAUEAwAAAAAAAAABAgMEBREABhIhExQxQXEHUYGhIjKR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAIREAAQQCAgIDAAAAAAAAAAAAAQACAxEEMRIhQZHR4fD/2gAMAwEAAhEDEQA/AMAtsMPixNOpeMMCyqcEjPYB+NaZXWbb1DSQVL7fuyxTYEbPMwDk9gKSMHr7aSbds9hl221ZWVVx86FyqRBBGCf65J7wPf8AWrq4X5qnadgWaKJ/L1NRTqWPWFwoYD26Pto5Uga2wT19K8eNI2nOG9er+Ejo9oUlZZDdYrNFHRASFvErirjgcHPZ77H+6Sb92vFtygJqLbBDNI7RRmOrMpUrgk4+2D+9WFTc3o9lXakijUwE8jx9MNxyTjoemlP1SuUF12/SVE9SrVcUoUQ+6owBLfkgayQSiVwon2qTwOYCXD94UXtbctLbrBJQVMHiNLyBdFHIAjGDlTnHqMa6sG5hAwp7lCXR5mxKW/iitjrs9dgZOjRrfxBNntGLKkYRSpn3lQ0KrSiN5oOL8o4GHA8l44YZ+cZzjOoW9XhK20pT+HwnCojEHK4Uk5+TkD8aNGgY2kg1pXzcqSQ8DodL/9k=
-ogImage:
+ogImage: null
 labels:
   - beauty
   - Belgien
@@ -52,13 +51,12 @@ labels:
   - Weleda vegan
   - Yogi Tea
 focusKeyword: Newpharma
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Onlineapotheke ausprobiert
 advertisement: true
+
 ---
 
 **Wie viele von Euch mitbekommen haben, habe ich eine Schwäche für Belgien. Seit ich das erste Mal dort war, bin ich fasziniert und auch [aufs Festival](/tag/dunk/) zieht es mich dort immer wieder. Ich mag die Filme, das Bier, die Schokolade, die Menschen und die Kultur. Jetzt habe ich die Belgische Versandapotheke Newpharma, die jetzt auch bei uns Fuß fassen möchte, dem Vegan-Test unterzogen.**

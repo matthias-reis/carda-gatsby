@@ -1,14 +1,19 @@
 ---
 date: 2022-12-28T13:02:32.276Z
-slug: playlist-januar-2023
 typeName: Beitrag
 title: Playlist Januar 2023
 subTitle: Von BRUIT ≤ bis Zeal & Ardor
 seoTitle: Alternative Musikliste Januar 2023 – von BRUIT ≤ bis Zeal & Ardor
-description: Die Musikliste für Januar 2023 steht bereit und will gehört werden. Lasst Euch den Start ins neue Jahr Bands von BRUIT ≤ bis Zeal & Ardor versüßen!
-excerpt: Musikliste Januar – soweit ist es also schon. Das Jahr ist vorbei und das nächste steht schon in den Startlöchern. Allerdings möchte ich 2022 nicht sang- und klanglos ziehen lassen. Aus diesem Grund stammen die Songs in dieser Liste auch alle noch aus dem "alten Jahr". Dennoch werden sie Euch den Januar gehörig versüßen. Ihr werdet schon sehen.
+description: Die Musikliste für Januar 2023 steht bereit und will gehört werden.
+  Lasst Euch den Start ins neue Jahr Bands von BRUIT ≤ bis Zeal & Ardor
+  versüßen!
+excerpt: Musikliste Januar – soweit ist es also schon. Das Jahr ist vorbei und
+  das nächste steht schon in den Startlöchern. Allerdings möchte ich 2022 nicht
+  sang- und klanglos ziehen lassen. Aus diesem Grund stammen die Songs in dieser
+  Liste auch alle noch aus dem "alten Jahr". Dennoch werden sie Euch den Januar
+  gehörig versüßen. Ihr werdet schon sehen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-28/playlist-januar-2023-jpg-imagine-f8f8e8_847969_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-28/playlist-januar-2023-og-jpg-imagine-080808_796e60_1200_628/640.webp
 labels:
   - Bruit
@@ -35,6 +40,7 @@ focusKeyword: Alternative Musikliste Januar 2023
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Musikliste Januar – soweit ist es also schon. Das Jahr ist vorbei und das nächste steht schon in den Startlöchern. Allerdings möchte ich 2022 nicht sang- und klanglos ziehen lassen. Aus diesem Grund stammen die Songs in dieser Liste auch alle noch aus dem "alten Jahr". Dennoch werden sie Euch den Januar gehörig versüßen. Ihr werdet schon sehen.**

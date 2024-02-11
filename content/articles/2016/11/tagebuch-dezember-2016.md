@@ -1,13 +1,14 @@
 ---
 date: 2016-11-27T11:45:03.000Z
-slug: tagebuch-dezember-2016
-path: /2016/11/tagebuch-dezember-2016/
 title: So ist es mir ergangen
 seoTitle: Tagebuch - So ist es mir ergangen - Arbeit und Vergnügen
 ogTitle: Tagebuch - So ist es mir ergangen - Arbeit und Vergnügen
-description: Dass ich kurz weg war, hat verschiedene Gründe. Einer davon ist, dass ich wieder in meinem alten Job arbeite. Ich freue mich auf Eure Schreibaufträge
-excerpt: Dass ich kurz weg war, hat verschiedene Gründe. Einer davon ist, dass ich wieder in meinem alten Job arbeite. Ich freue mich auf Eure Schreibaufträge.
-fileName: 2016-11---so-ist-es-mir-ergangen.md
+description: Dass ich kurz weg war, hat verschiedene Gründe. Einer davon ist,
+  dass ich wieder in meinem alten Job arbeite. Ich freue mich auf Eure
+  Schreibaufträge
+excerpt: Dass ich kurz weg war, hat verschiedene Gründe. Einer davon ist, dass
+  ich wieder in meinem alten Job arbeite. Ich freue mich auf Eure
+  Schreibaufträge.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_11_28685182794_941911b31f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_11_28685182794_941911b31f_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYH/8QALhAAAgEEAQMABwkAAAAAAAAAAQIDBAURIQAGEjEHE0FCUWHDFBUWIiMygaOx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EACARAAICAQMFAAAAAAAAAAAAAAECABEDEiFRQaHR4fH/2gAMAwEAAhEDEQA/ALTpSlo7f1AtZVXWORolkmAkymXxgHLlQTls44u3NZKG622qnvdOggqEkYvJEgJznLEy+Png8qK7pq2W+01vrbHbUkpUSJ5PsSdsrkgs6tk6w6rgDAIOyc8iQ0tltaU7Gjt88kqASoYEwpwCQBgFf4J8ed8aOpNM1fJnkKY1snf3U0txvHSlRJVF73TxmeR2ytXT+8c6/Of85sKf0ndMLSw5vlvMixBHBkkc5GvcjIOsbB5hbPV01RWR09Hb6RJUjkZFCBUP7fOj8DvPLuGpqaWQic08JmZUiWCmZu1gC5OvIwMeNfHkvlCvpU32l40Vk1t5nB3r5ZRiZLAVk0fWXdmU79o9fscdHULEv6P4TX5LWEfW4cOLfpKjvvGUdnenSrDZ1VK2P7uSBdAoGaXpFte3sb6/Dhws8wocT//Z
@@ -21,12 +22,11 @@ labels:
   - Redakteurin
   - Tagebuch
 focusKeyword: Tagebuch
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Eine Seite aus dem Tagebuch
+
 ---
 
 **Euch ist vielleicht aufgefallen, dass ich lange Zeit nicht besonders viel gebloggt habe.**

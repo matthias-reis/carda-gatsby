@@ -1,15 +1,20 @@
 ---
 date: 2023-05-08T17:37:46.363Z
-slug: butenland-besuch
 typeName: Beitrag
 title: Zu Besuch auf Hof Butenland
 subTitle: Kuhaltersheim und Tierschutzhof hautnah
 seoTitle: Butenland live erleben – so ist es auf dem Tierschutzhof
-ogTitle:
-description: Butenland live zu erleben und das Gründerpaar Karin und Jan kennenzulernen – dieser Traum hat sich für mich jetzt erfüllt. Erfahrt jetzt alles über meinen Besuch!
-excerpt: Butenland besuchen und die Gründer*innen Karin und Jan und die Hofbewohner*innen kennenlernen – und natürlich mein Patenschwein Frederik – das habe ich mir schon sehr lange gewünscht. Am Wochenende war es endlich so weit. Weil meine Eindrücke noch ganz frisch sind, möchte ich die Gelegenheit nutzen und Euch Butenland nochmal genau vorstellen.
+ogTitle: null
+description: Butenland live zu erleben und das Gründerpaar Karin und Jan
+  kennenzulernen – dieser Traum hat sich für mich jetzt erfüllt. Erfahrt jetzt
+  alles über meinen Besuch!
+excerpt: Butenland besuchen und die Gründer*innen Karin und Jan und die
+  Hofbewohner*innen kennenlernen – und natürlich mein Patenschwein Frederik –
+  das habe ich mir schon sehr lange gewünscht. Am Wochenende war es endlich so
+  weit. Weil meine Eindrücke noch ganz frisch sind, möchte ich die Gelegenheit
+  nutzen und Euch Butenland nochmal genau vorstellen.
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-08/2023-17-2023-17-hof-butenland-anne-reis-sounds-vegan-183-jpg-imagine-080808_646948_2048_1536/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-08/butenland-besuch-og-jpg-imagine-081818_71774b_1200_628/640.webp
 labels:
   - Butenland
@@ -23,6 +28,7 @@ focusKeyword: Butenland
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Butenland besuchen und die Gründer\*innen Karin und Jan und die Hofbewohner\*innen kennenlernen – und natürlich mein Patenschwein Frederik – das habe ich mir schon sehr lange gewünscht. Am Wochenende war es endlich so weit. Weil meine Eindrücke noch ganz frisch sind, möchte ich die Gelegenheit nutzen und Euch Butenland nochmal genau vorstellen.**

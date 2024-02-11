@@ -2,13 +2,13 @@
 date: 2024-01-05T15:00:00.766Z
 slug: arms-and-sleepers-what-tomorrow-brings
 typeName: Preview
-title: 'Arms and Sleepers – "What Tomorrow Brings"'
+title: Arms and Sleepers – "What Tomorrow Brings"
 subTitle: Musikalische Erinnerungen und Ausblicke
 seoTitle: Arms and Sleepers – "What Tomorrow Brings" – Preview
 description: 'Arms and Sleepers aka Mirza Ramic hat sein neues Album "What Tomorrow Brings" fertig. Hört hier direkt rein und holt Euch spannende Details zur Platte!'
 excerpt: '"What Tomorrow Brings" – Arms and Sleepers ist mit der Frage nach der Ungewissheit der Zukunft zurück und liefert gleich zu Beginn des Jahres ein sensationelles Album ab. Offiziell wird es am 1. März erscheinen. Ihr bekommt heute hier schon einen Vorgeschmack und spannende Details zur Platte!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-05/arms-and-sleepers-what-the-future-brings-jpg-imagine-585858_7b7b7b_1024_768/640.webp
-copyright: 'Arms and Sleepers'
+copyright: Arms and Sleepers
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-05/arms-and-sleepers-what-the-future-brings-og-jpg-imagine-f8e8f8_cfc8d9_1200_628/640.webp
 labels:
   - Band

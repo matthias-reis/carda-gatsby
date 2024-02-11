@@ -1,6 +1,5 @@
 ---
 date: 2022-04-08T09:32:37.105Z
-slug: nyos-dealek-nonsun-druids-advocaat-egor-lappo-drum-lace-en
 typeName: Review
 title: Seven Records For Your Weekend
 subTitle: Nyos, Dälek, Nonsun, Druids, Advocaat, Egor Lappo And Drum & Lace
@@ -46,7 +45,9 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/04/nyos-dealek-nonsun-druids-advocaat-egor-lappo-drum-lace/
+
 ---
+
 **I selected seven records that I want to recommend to you to ensure you have a lovely weekend (and somehow also a bit for my personal benefit). I have listened across the genres and put together these gems by Nyos, Dälek, Nonsun, Druids, Advocaat, Egor Lappo, and Drum & Lace.**
 
 At the moment, it's hardly possible for me to see through all the messages about new releases, so today, I just sat down to get an overview and answer at least a few emails. Seven exceptional new releases caught my eye (or should I say ear?).

@@ -1,13 +1,14 @@
 ---
 date: 2011-05-09T08:52:21.000Z
-slug: zensus-2011
-path: /2011/05/zensus-2011/
 title: Zensus 2011
 seoTitle: Zensus 2011 - einfach alles hinnehmen?
 ogTitle: Zensus 2011 - einfach alles hinnehmen?
-description: Zensus steht für Volkszählung. Warum gibt es den Zensus? Und was muss ich bei einem Zensus beachten? Bin ich verpflichtet, bei einem Zensus mitzumachen?
-excerpt: Zensus steht für Volkszählung. Warum gibt es den Zensus? Und was muss ich bei einem Zensus beachten? Bin ich verpflichtet, bei einem Zensus mitzumachen?
-fileName: 2011-05---zensus-2011.md
+description: Zensus steht für Volkszählung. Warum gibt es den Zensus? Und was
+  muss ich bei einem Zensus beachten? Bin ich verpflichtet, bei einem Zensus
+  mitzumachen?
+excerpt: Zensus steht für Volkszählung. Warum gibt es den Zensus? Und was muss
+  ich bei einem Zensus beachten? Bin ich verpflichtet, bei einem Zensus
+  mitzumachen?
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_05_507526_r_b_by_gerd-altmann_allsilhouettes-com_pixelio-de__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_05_507526_r_b_by_gerd-altmann_allsilhouettes-com_pixelio-de__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACsQAAEDAgUDAQkAAAAAAAAAAAECAwQFEQAGEiExByJBURMjMjWBkZKh0v/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQb/xAAjEQACAQEHBQAAAAAAAAAAAAABAgMRAAQFEkGh0SExkcHw/9oADAMBAAIRAxEAPwALM6N0uhwFyns1GQlG2hqlruT+eCtI6ZRlvoafqciCox25SFO05RBSs7C4VztxiKVGNIchxTDkuR1dwVpWQCNvTDDkTLtZqE+7dV92lp86HFE3IZWQb28Hf7emI8rwsmdl3PFty0t+wqqLMQBTqEQ9wDqa62pS+m1PcSb1OoHa/wAoV/fOMDnRenT1lKcyvx+0kl6krAG/Hx84VM+ZSqVNlVFIq7q0NziltWshWn2QJB+p/V/OFSC3OTEdbluNuspACTqOoc38b4CF4lGdV3PFni8XnFVCvLQGtDkX0a/eP//Z
@@ -31,12 +32,11 @@ labels:
   - Zensus
   - Zensus 2011
 focusKeyword: Zensus
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Einfach als gegeben hinnehmen?
+
 ---
 
 **Zensus oder Census (der) steht für Volkszählung, Zensus Rom (lat. "Begutachtung", "Schätzung"): Die römischen Bürger sollten erfasst werden. Hierbei ging es um die direkte Besteuerung  nach Vermögen, die Einberufung zum Militär und um die Revision des vorangegangenen Zensus.**

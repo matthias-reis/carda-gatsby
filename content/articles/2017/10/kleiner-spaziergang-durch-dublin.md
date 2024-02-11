@@ -1,15 +1,16 @@
 ---
-date: 2017-10-06T15:03:46.000+00:00
-slug: kleiner-spaziergang-durch-dublin
-path: '/2017/10/kleiner-spaziergang-durch-dublin/'
+date: 2017-10-06T15:03:46.000Z
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Spaziergang durch Dublin
 seoTitle: Spaziergang durch Dublin - Fröhliche Menschen und altehrwürdige Bauten
 ogTitle: Spaziergang durch Dublin - Fröhliche Menschen und altehrwürdige Bauten
-description: In Dublin fielen uns zuerst die fröhlichen Menschen auf. Überall in der Stadt wird man mit offenen Armen empfangen. Im Blog findet Ihr meine Bilderserie.
-excerpt: In Dublin fielen uns zuerst die fröhlichen Menschen auf. Überall in der Stadt wird man mit offenen Armen empfangen. Im Blog findet Ihr meine Bilderserie.
-fileName: 2017-10---spaziergang-durch-dublin.md
+description: In Dublin fielen uns zuerst die fröhlichen Menschen auf. Überall in
+  der Stadt wird man mit offenen Armen empfangen. Im Blog findet Ihr meine
+  Bilderserie.
+excerpt: In Dublin fielen uns zuerst die fröhlichen Menschen auf. Überall in der
+  Stadt wird man mit offenen Armen empfangen. Im Blog findet Ihr meine
+  Bilderserie.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_36828633353_d7e6a62388_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_36828633353_d7e6a62388_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQFEQASIQYTMRQiQTJRYQcjQpGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKGOSop+jikNIaqNIonqFcEBEJJBH593BGdeFFdrZdKyzU9ZULRUlvjKyRbgZpSxypBYc4JG7bgDU231dVcOhqmkWKVJPTwhlZWBZRgYHGfPwP61nAqkTqONFpEkRpTF21cqjhgVZSPJBPHnQbVU2uhlX0tJb7lOMM5EKMzccbjtjP4Hj50rXujoun6SSoqrTdgJj6dUmpuSPq3ATBQCNuMrk886WEuV3pry1JS3apM8UskcG4tltgHHAzg+MEfxzptud6unUPT5k6gh9dXKxlikiAA98Z25Rhjgjkg87sDGNAzWTr2RgkcduRGLFN/dLEfGRkcHVVSfo7SDbcoL3WCWDdPGJY0f3J7huPGeRz40aNBE6Yt8dyulSGd4KeCXuyQQnaszuDlvuvBIO3Gfvru4Xymu92u9nqLZGILardv9zcpwVX6SMDz/AJo0aD//2Q==
@@ -37,14 +38,13 @@ labels:
   - Trinity College
   - serie:Irland 2017
 focusKeyword: Dublin
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Fröhliche Menschen und altehrwürdige Bauten
-year: '2017'
-month: '10'
+year: "2017"
+month: "10"
+
 ---
 
 **Wie schon im letzten Beitrag erwähnt, starteten wir unseren diesjährigen Roadtrip durch Irland in Dublin. Die zwei Tage, die wir dort hatten, nutzten wir vor allem für ausgedehnte Spaziergänge.**

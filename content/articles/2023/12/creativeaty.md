@@ -1,14 +1,18 @@
 ---
 date: 2023-12-11T15:09:53.766Z
-slug: creativeaty
 typeName: Produkttest
-title: 'Creativeaty — das neue vegane Start-up'
+title: Creativeaty — das neue vegane Start-up
 subTitle: '"Ein ganzheitliches Ernährungssystem ist möglich!"'
-seoTitle: 'Creativeaty – dieses vegane Start-up solltet Ihr Euch merken!'
-description: Creativeaty steht für natürliche, unfassbar leckere vegane Fleischalternativen und ehrliche Packungsgrößen. Erfahrt jetzt alles über das Start-up!
-excerpt: Creativeaty stellt leckere Fleischalternativen ohne unnötige Zusatzstoffe her – in ordentlichen Mengen. Ist das was für Euch? Dann solltet Ihr weiterlesen. Ich erzähle Euch heute alles über das bayerisch-schwäbische Start-up. Lesenswert, kennenlernenswert und super schmackhaft!
+seoTitle: Creativeaty – dieses vegane Start-up solltet Ihr Euch merken!
+description: Creativeaty steht für natürliche, unfassbar leckere vegane
+  Fleischalternativen und ehrliche Packungsgrößen. Erfahrt jetzt alles über das
+  Start-up!
+excerpt: Creativeaty stellt leckere Fleischalternativen ohne unnötige
+  Zusatzstoffe her – in ordentlichen Mengen. Ist das was für Euch? Dann solltet
+  Ihr weiterlesen. Ich erzähle Euch heute alles über das bayerisch-schwäbische
+  Start-up. Lesenswert, kennenlernenswert und super schmackhaft!
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-11/creativeaty-titel-anne-reis-soundsvegan-com-7-jpg-imagine-b8a8a8_8c6d5b_2048_1536/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-11/creativeaty-anne-reis-soundvegan-og-jpg-imagine-c8b8b8_846d58_1200_628/640.webp
 labels:
   - Fleischalternativen
@@ -20,6 +24,7 @@ focusKeyword: vegane Schokolade
 advertisement: true
 affiliate: false
 language: de
+
 ---
 
 **Leckere Fleischalternativen ohne unnötige Zusatzstoffe und dafür in ordentlichen Mengen? Falls Ihr so etwas sucht, seid Ihr bei Creativeaty genau richtig. Das vegane Start-up aus Königsbrunn bei Augsburg hat nicht nur tolle Produkte im Angebot, es hat auch eine echt spannende Geschichte, die ich Euch in diesem Artikel erzähle.**

@@ -1,7 +1,5 @@
 ---
 date: 2016-01-08T17:36:42.000Z
-slug: moewen-auf-der-bruecke
-path: /2016/01/moewen-auf-der-bruecke/
 type: Galerie
 typeName: Fotogalerie und Gedicht
 title: Möwen auf der Brücke
@@ -11,7 +9,6 @@ description: Sind sie nicht hübsch die Möwen, wie sie alle nebeneinander auf d
   Geländer der Brücke sitzen und eine nach der anderen losziehen?
 excerpt: Sind sie nicht hübsch die Möwen, wie sie alle nebeneinander auf dem
   Geländer der Brücke sitzen und eine nach der anderen losziehen?
-fileName: 2016-01---moewen-auf-der-bruecke.md
 ogImage: null
 labels:
   - Ausflug
@@ -24,15 +21,14 @@ labels:
   - serie:Möwen
   - serie:Planten un Blomen
 focusKeyword: Brücke
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ein inspirierender Spaziergang
 year: "2016"
 month: "01"
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/moewen-auf-der-bruecke-jpeg-imagine-484848_6e6e6e_1154_923/640.webp
+
 ---
 
 **Auf dem Geländer der Brücke sitzen die Möwen eine neben der anderen. Sind sie nicht hübsch, wie sie die Köpfe zusammenstecken und eine nach der anderen aufbrechen?**

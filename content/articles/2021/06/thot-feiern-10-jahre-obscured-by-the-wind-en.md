@@ -12,7 +12,6 @@ labels:
   - Full Moon
   - English & German
 language: en
-slug: thot-feiern-10-jahre-obscured-by-the-wind-en
 typeName: Review
 title: Thot celebrate 10 years "Obscured by the Wind"
 subTitle: '"Blue & Green (are melting down in a new seed)"'
@@ -29,6 +28,7 @@ focusKeyword: Obscured by the Wind
 advertisement: false
 affiliate: false
 languageLink: /2021/06/thot-feiern-10-jahre-obscured-by-the-wind
+
 ---
 
 **Thot are celebrating the 10th anniversary of their milestone album "Obscured by the Wind" with a breathtaking live recording of their song "Blue & Green (are melting down in a new seed)". The video is available online now.**

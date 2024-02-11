@@ -1,14 +1,17 @@
 ---
 date: 2022-10-26T13:02:48.239Z
-slug: playlist-november-2022
 typeName: Beitrag
 title: Playlist November 2022
 subTitle: Von EF bis Thrice
 seoTitle: Playlist November 2022 – von Post-Rock bis Prog
-description: Auf der Suche nach neuen Songs? Diese Liste bringt Euch die aktuellsten Perlen von Post-Rock bis Prog.
-excerpt: Der November kratzt schon an der Tür und draußen stapelt sich das Herbstlaub immer höher. Zeit für eine neue, bunte Musikliste von Ambient bis Post-Rock und von Prog bis Post-Metal und ein paar spannende News aus der Musik-Szene.
+description: Auf der Suche nach neuen Songs? Diese Liste bringt Euch die
+  aktuellsten Perlen von Post-Rock bis Prog.
+excerpt: Der November kratzt schon an der Tür und draußen stapelt sich das
+  Herbstlaub immer höher. Zeit für eine neue, bunte Musikliste von Ambient bis
+  Post-Rock und von Prog bis Post-Metal und ein paar spannende News aus der
+  Musik-Szene.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-26/musikliste-november-2022-jpeg-imagine-080808_56545c_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-26/musikliste-november-fb-jpeg-imagine-080808_54545e_1200_628/640.webp
 labels:
   - Post-Rock
@@ -36,6 +39,7 @@ focusKeyword: Playlist November 2022
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Der November kratzt schon an der Tür und draußen stapelt sich das Herbstlaub immer höher. Zeit für eine neue, bunte Musikliste. Die fertigen Playlist November 2022 für Spotify und iTunes findet Ihr wie immer ganz unten im Anschluss an die Videos – inkl. einer Überraschung.**

@@ -1,13 +1,14 @@
 ---
 date: 2021-01-01T16:15:38.000Z
-slug: fleisch-zu-billig-uni-augsburg
-path: /2021/01/fleisch-zu-billig-uni-augsburg/
 title: Fleisch bald teurer?
 seoTitle: Fleisch bald teurer? Neue Studie der Uni Augsburg
 ogTitle: Fleisch bald teurer? Neue Studie der Uni Augsburg
-description: Fleisch ist zu billig. Wenn wir das Klima retten wollen, müssen wir für erheblich höhere Preise sorgen. Das geht aus einer Studie der Uni Augsburg hervor.
-excerpt: Fleisch ist zu billig. Wenn wir das Klima retten wollen, müssen wir für erheblich höhere Preise sorgen. Das geht aus einer Studie der Uni Augsburg hervor.
-fileName: 2021-01---fleisch-bald-teurer.md
+description: Fleisch ist zu billig. Wenn wir das Klima retten wollen, müssen wir
+  für erheblich höhere Preise sorgen. Das geht aus einer Studie der Uni Augsburg
+  hervor.
+excerpt: Fleisch ist zu billig. Wenn wir das Klima retten wollen, müssen wir für
+  erheblich höhere Preise sorgen. Das geht aus einer Studie der Uni Augsburg
+  hervor.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_fleisch__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_fleisch__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQDBQEHCP/EACoQAAEDAwMDAQkAAAAAAAAAAAECBBEAAwUTITESFHFhFSIjJTNBY5Gh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgUG/8QAHhEBAAIBBAMAAAAAAAAAAAAAAQACBAMRMVESMpH/2gAMAwEAAhEDEQA/ANsN2BgQBTaWJHKQafsZLDdIV7SZRwDrJ3/tNJyeF2+ZMpPHxU1Ztk26kGuGdyp7TpmbQjxULlnbUn6Q/VXwymGgLRkmgkSDqp4pZxk8MpR6skz6j+UCaNch34jtiG3M5pRcUs2ld84CxAJDkp1AI2O+9TBWqoQ7Wu2eUJcEoPrPM0UVhL6tx9mU/AmPctqkuriEKglAuGFHyTM+D9qidZZo0tIW41LdveVG8sngxAn0oop1HUQsv2FAn//Z
@@ -21,12 +22,11 @@ labels:
   - Tierrechte
   - Universität Augsburg
 focusKeyword: Fleisch
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Fleisch müsste 146 Prozent mehr kosten
+
 ---
 
 **Eine neue Studie der Universität Augsburg zeigt, dass für Fleisch ein Preisaufschlag von 146 Prozent nötig wäre, würde man die Zerstörung der Umwelt bei der Herstellung einkalkulieren.**

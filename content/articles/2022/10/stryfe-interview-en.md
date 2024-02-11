@@ -1,13 +1,16 @@
 ---
 date: 2022-10-13T15:40:27.440Z
-slug: stryfe-interview-en
 typeName: Interview
-title: 'Interview with the L.A.-based Metal Band Stryfe '
+title: "Interview with the L.A.-based Metal Band Stryfe "
 subTitle: '"We played our Album Release Show at the Whiskey A Go Go"'
-seoTitle: 'Interview with the L.A.-based Metal Band Stryfe '
-ogTitle: ''
-description: Want to know more about the L.A.-based Metal Band Stryfe? Check out my interview!
-excerpt: Stryfe describe themselves as a metal band with a vibrant sound of heavy rock accents, mellifluous chord arrangements, and powerfully captivating vocals. Their progressive sound is melodic and emotional—stylistically influenced by genres from death metal to Armenian classical and folk.
+seoTitle: "Interview with the L.A.-based Metal Band Stryfe "
+ogTitle: ""
+description: Want to know more about the L.A.-based Metal Band Stryfe? Check out
+  my interview!
+excerpt: Stryfe describe themselves as a metal band with a vibrant sound of
+  heavy rock accents, mellifluous chord arrangements, and powerfully captivating
+  vocals. Their progressive sound is melodic and emotional—stylistically
+  influenced by genres from death metal to Armenian classical and folk.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-13/stryfe-interview-jpeg-imagine-080808_302c2a_1024_768/640.webp
 copyright: Stryfe
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-13/stryfe-interview-fb-jpeg-imagine-080808_34302e_1200_628/640.webp
@@ -24,11 +27,12 @@ labels:
   - Bands
   - Jens Bogren
   - Fascination Street Studios
-focusKeyword: 'Metal Band Stryfe '
+focusKeyword: "Metal Band Stryfe "
 advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/10/stryfe-interview/
+
 ---
 
 **Stryfe describe themselves as a metal band with a vibrant sound of heavy rock accents, mellifluous chord arrangements, and powerfully captivating vocals. Their progressive sound is melodic and emotional—stylistically influenced by genres from death metal to Armenian classical and folk.**

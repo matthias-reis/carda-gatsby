@@ -1,12 +1,18 @@
 ---
 date: 2021-11-17T15:33:13.313Z
-slug: wang-wen-100000-whys
 typeName: Review
 title: '"100.000 Whys"'
 subTitle: Das neue Album von Wang Wen
 seoTitle: '"100.000 Whys" von Wang Wen – Post-Rock Review'
-description: '"100.000 Whys" von Wang Wen erscheint offiziell am 24. November und schlägt voll in die Vintage-Kerbe  – ohne dabei wehmütig zu werden. Euch erwartet qualitativ hochwertiger Sound und eine gefühlvolle Klangerfahrung.'
-excerpt: Die wohl bekannteste chinesische Post-Rock-Band Wang Wen ist jetzt bei Pelagic Records und mit dem Umzug zum neuen Label kommt standesgemäß irgendwann auch ein neues Album. "100.000 Whys" erscheint offiziell am 24. November und schlägt voll in die Vintage-Kerbe  – ohne dabei wehmütig zu werden. Euch erwartet qualitativ hochwertiger Sound und eine gefühlvolle Klangerfahrung.
+description: '"100.000 Whys" von Wang Wen erscheint offiziell am 24. November
+  und schlägt voll in die Vintage-Kerbe  – ohne dabei wehmütig zu werden. Euch
+  erwartet qualitativ hochwertiger Sound und eine gefühlvolle Klangerfahrung.'
+excerpt: Die wohl bekannteste chinesische Post-Rock-Band Wang Wen ist jetzt bei
+  Pelagic Records und mit dem Umzug zum neuen Label kommt standesgemäß
+  irgendwann auch ein neues Album. "100.000 Whys" erscheint offiziell am 24.
+  November und schlägt voll in die Vintage-Kerbe  – ohne dabei wehmütig zu
+  werden. Euch erwartet qualitativ hochwertiger Sound und eine gefühlvolle
+  Klangerfahrung.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/wang-wen-stadion-jpg-imagine-080808_757575_800_600/640.webp
 copyright: Wang Wen
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/wang-wen-fb-png-imagine-080808_686868_1200_628/640.webp
@@ -28,6 +34,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/11/wang-wen-100000-whys-en/
+
 ---
 
 **Die wohl bekannteste chinesische Post-Rock-Band Wang Wen ist jetzt bei Pelagic Records und mit dem Umzug zum neuen Label kommt standesgemäß irgendwann auch ein neues Album. "100.000 Whys" erscheint offiziell am 24. November und schlägt voll in die Vintage-Kerbe – ohne dabei wehmütig zu werden. Euch erwartet qualitativ hochwertiger Sound und eine gefühlvolle Klangerfahrung.**

@@ -1,14 +1,18 @@
 ---
 date: 2023-12-01T10:00:00.766Z
-slug: oslo-tapes-staring-at-the-sun-before-goin-blind
 typeName: Review
-title: 'Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"'
+title: Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"
 subTitle: Die Schönheit der Desorientierung
 seoTitle: Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"
-description: 'Oslo Tapes aka Marco Campitelli hat sein neues Album "Staring At The Sun Before Goin‘ Blind" fertig. Hört hier direkt rein und holt Euch spannende Details zur Platte!'
-excerpt: Mit dem "Staring At The Sun Before Goin‘ Blind" veröffentlicht Oslo Tapes heute ein wahres Meisterwerk. Die acht Songs sind eine sehr persönliche Version einer akustischen Fata Morgana der Desorientierung und Ruhelosigkeit. Hört am besten direkt rein!
+description: Oslo Tapes aka Marco Campitelli hat sein neues Album "Staring At
+  The Sun Before Goin‘ Blind" fertig. Hört hier direkt rein und holt Euch
+  spannende Details zur Platte!
+excerpt: Mit dem "Staring At The Sun Before Goin‘ Blind" veröffentlicht Oslo
+  Tapes heute ein wahres Meisterwerk. Die acht Songs sind eine sehr persönliche
+  Version einer akustischen Fata Morgana der Desorientierung und Ruhelosigkeit.
+  Hört am besten direkt rein!
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-jpg-imagine-181808_575443_1024_768/640.webp
-copyright: 'Oslo Tapes'
+copyright: Oslo Tapes
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-og-jpg-imagine-181808_615155_1200_628/640.webp
 labels:
   - Band
@@ -25,6 +29,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/12/oslo-tapes-staring-at-the-sun-before-goin-blind-en/
+
 ---
 
 **Oslo Tapes aka Marco Campitelli veröffentlicht heute sein neues, inzwischen viertes Album "Staring At The Sun Before Goin' Blind" – ein Ausnahmewerk, das zum Endes dieses Jahres gerade richtig kommt. Erschienen ist es auf Echodelick Records, Sound Effect Records, Grazil Records und Ihr könnt es Euch neben der digitalen Version auch als LP oder CD organisieren.**

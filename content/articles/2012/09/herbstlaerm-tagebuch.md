@@ -1,13 +1,12 @@
 ---
 date: 2012-09-26T16:55:52.000Z
-slug: herbstlaerm-tagebuch
-path: /2012/09/herbstlaerm-tagebuch/
 title: Herbstlärm
 seoTitle: Herbstlärm - ein Eintrag ins Tagebuch
 ogTitle: Herbstlärm - ein Eintrag ins Tagebuch
-description: Nachdem ich lange Zeit nichts mehr zu Papier gebracht habe, möchte ich heute mal wieder ein paar Gedankenfragmente notieren.
-excerpt: Nachdem ich lange Zeit nichts mehr zu Papier gebracht habe, möchte ich heute mal wieder ein paar Gedankenfragmente notieren.
-fileName: 2012-09---herbstlaerm.md
+description: Nachdem ich lange Zeit nichts mehr zu Papier gebracht habe, möchte
+  ich heute mal wieder ein paar Gedankenfragmente notieren.
+excerpt: Nachdem ich lange Zeit nichts mehr zu Papier gebracht habe, möchte ich
+  heute mal wieder ein paar Gedankenfragmente notieren.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_09_img_01621__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_09_img_01621__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABwEDBAUIBv/EACwQAAIBAwQBAgMJAAAAAAAAAAECAwQFEQAGEiEHMUETFFEIFiIkJUJTouH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwUE/8QAIxEAAQMDAgcAAAAAAAAAAAAAAQACAxESITFBBBNCUWGR0f/aAAwDAQACEQMRAD8A0tLcIYZJfjTKgV+OWbAz9O9TY3DqCGyD3rNO8fI0V1vd2s5oXX5W4SKJDIGDhGZM4wCPr7+mia296a0WmllrqpIXMcY4ujZLFR1gD39vrrQDBIKRvFdwgcHLS+mETRpdAofaDsK3mS3vJGqxxlzUMjhCR+0e5OO/TT22/P8AZrvuWC3TU0lJRzHhHWzvwUvkAKUwSAc4Bz69YGkkNHUPaDG4IJeTI4dseQ7wZrXSTPNUy1LfmfiJh5XIBUY4kDHXtpyv3la7zFVR3Wkp14cBEHPIFQg4nBOMj00/5E2NuWv33uSaktV9NM9xneNoaJ+LKXJBD47BzqmqNpbqigf9AvMiAAH5mmkYjCgdEKNR43lklx1zt9VJsr7LW6dkNb3URC45o46eNB/Go7/zXVePqyS6+VttO8FLClRdKcPDTxLHGPxAYCDoamfdK+zM7CyV0QGDxkpHJH9Oxq48c7Qv0fkXa0tTa544EudPIXagZDxVwxIPHHQGc5601soJAIylclwb4K//2Q==
@@ -68,12 +67,11 @@ labels:
   - Walze
   - Wetter
 focusKeyword: Herbstlärm
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Tagebucheintrag
+
 ---
 
 **Nachdem ich lange Zeit nichts mehr zu Papier gebracht habe, möchte ich heute mal wieder ein paar Gedankenfragmente notieren.**

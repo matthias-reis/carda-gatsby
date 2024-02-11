@@ -1,13 +1,12 @@
 ---
 date: 2013-08-20T21:21:05.000Z
-slug: rocknheim-2013
-path: /2013/08/rocknheim-2013/
 title: Rock'n'Heim 2013
 seoTitle: Rock'n'Heim Festival feiert Premiere - wir sind auch dabei
 ogTitle: Rock'n'Heim Festival feiert Premiere - wir sind auch dabei
-description: "In diesem Jahr hat sich die MLK zusätzlich zu Festivals wie RIP und RAR was ganz Neues für Konzertfans einfallen lassen: Rock'n'Heim"
-excerpt: "In diesem Jahr hat sich die MLK zusätzlich zu Festivals wie RIP und RAR was ganz Neues für Konzertfans einfallen lassen: Rock'n'Heim."
-fileName: 2013-08---rocknheim-2013.md
+description: "In diesem Jahr hat sich die MLK zusätzlich zu Festivals wie RIP
+  und RAR was ganz Neues für Konzertfans einfallen lassen: Rock'n'Heim"
+excerpt: "In diesem Jahr hat sich die MLK zusätzlich zu Festivals wie RIP und
+  RAR was ganz Neues für Konzertfans einfallen lassen: Rock'n'Heim."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_55901__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_55901__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwUIBAb/xAAuEAACAQMCBAUCBwEAAAAAAAABAgMEBREAIQYSMUEHExQiUTJhFRYjcYGRkqH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAEQMSIWFBUdHw8f/aAAwDAQACEQMRAD8AHOEbHc+KKyqioGijSkh81nmZgp9wUL7QTk83x2Pxq5UcIcR0NG9etOtRToRn0dQszAYzkqp5guD1x/Wvc+ClKv5TM0QjM082GETDnVEGRzY3GWduvxpYpaYSBErIi57GQK3Ltg4bGen3zqdgp2qUZ8ao+mZTiuUwm/VkcR5w7Kfcq9z+4/7q/eozSXoLRmrSApHIDVKUZjvjAKrsRg9O+N8afeJbDw1VoRdqaOSSFGnUupeQKN8K/wBQPt2HNolWC5cTW+as4knqLfNbJ2pofVI3mMzZlZHU7kgFcMBn3AaU2AEWoiRg1oWUix08d+ZB8GbMlRc562shkaL0cqxSBsKCJFXYjcMCT/Gneloqr0hEVbU8g+kVHLOi/fBww/1rM1luE9ssEtTYbpU0d2gfmljjfAaPm7gjlYdNtyTnbVO0cbcY3W5Rxm+1DcsTMUEy0okAG45lUDPffsDqonmMema22r37G3jSsulHap5qa20dxqpQsCtFVYiwMEkowDg4HQMRnXGlU91tNueWaL8RpaZ6yvCJhkqCwBHK++QQig79NjoUi8TOLYp2eC7z+UzZ8qRVlAGflgSdu+r9448vEkMFTbRPT0tWjrLNNSxlpsvzFB1yoI67ZIztrDErQAgJG5n/2Q==
@@ -24,12 +23,11 @@ labels:
   - Rocknheim
   - wave goodbye
 focusKeyword: Rock'n'Heim
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die Bildergalerie
+
 ---
 
 **In diesem Jahr hat sich die MLK zusätzlich zu Festivals wie [RIP](//2012/06/rock-im-park-2012/) und RAR was ganz Neues für Konzertfans einfallen lassen: Rock'n'Heim feierte vom 16. bis 18. August 2013 seine Premiere.**

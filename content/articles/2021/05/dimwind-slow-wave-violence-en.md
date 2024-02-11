@@ -13,7 +13,6 @@ labels:
   - Post-Hardcore
   - Post-Music
 language: en
-slug: dimwind-slow-wave-violence-en
 typeName: Review
 title: Dimwind - "Slow Wave Violence"
 subTitle: Post-Metal without borders
@@ -34,6 +33,7 @@ focusKeyword: Dimwind
 advertisement: false
 affiliate: false
 languageLink: /2021/05/dimwind-slow-wave-violence
+
 ---
 
 **Dimwind have recently released their debut album "Slow Wave Violence". The music of the Gothenburg based post-metal duo is definitely worth listening to – seven great songs are waiting to get under your skin.**

@@ -1,14 +1,18 @@
 ---
 date: 2022-05-04T07:18:06.396Z
-slug: deusche-essen-weniger-fleisch
 typeName: Beitrag
 title: Fleischverzehr in Deutschland auf Rekordtief
 subTitle: Deutsche essen weniger Fleisch
 seoTitle: Deutsche essen weniger Fleisch – Konsum auf Rekordtief
-description: Deutsche essen weniger Fleisch. Obwohl der weltweite Fleischverzehr doppelt so hoch ist, wie vor 20 Jahren, geht er bei uns zurück. Das liegt nicht nur an den derzeitigen Krisen.
-excerpt: Zwar steigt der Fleischverzehr weltweit weiter, in Deutschland befindet er sich jedoch auf einem Rekordtief. Das berichtete jetzt die Albert Schweitzer Stiftung für unsere Mitwelt. Hierzulande haben die Menschen 2021 so wenig Fleisch zu sich genommen, wie noch nie in den letzten 30 Jahren.
+description: Deutsche essen weniger Fleisch. Obwohl der weltweite Fleischverzehr
+  doppelt so hoch ist, wie vor 20 Jahren, geht er bei uns zurück. Das liegt
+  nicht nur an den derzeitigen Krisen.
+excerpt: Zwar steigt der Fleischverzehr weltweit weiter, in Deutschland befindet
+  er sich jedoch auf einem Rekordtief. Das berichtete jetzt die Albert
+  Schweitzer Stiftung für unsere Mitwelt. Hierzulande haben die Menschen 2021 so
+  wenig Fleisch zu sich genommen, wie noch nie in den letzten 30 Jahren.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-04/deutsche-essen-weniger-fleisch-jpg-imagine-385808_71754d_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-04/deutsche-essen-weniger-fleisch-fb-jpg-imagine-f8f8f8_866c3c_1200_628/640.webp
 labels:
   - Fleisch
@@ -24,6 +28,7 @@ focusKeyword: Deutsche essen weniger Fleisch
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Zwar steigt der Fleischverzehr weltweit weiter, in Deutschland befindet er sich jedoch auf einem Rekordtief. Das berichtete jetzt die Albert Schweitzer Stiftung für unsere Mitwelt[^1]. Hierzulande haben die Menschen 2021 so wenig Fleisch zu sich genommen, wie noch nie in den letzten 30 Jahren.**

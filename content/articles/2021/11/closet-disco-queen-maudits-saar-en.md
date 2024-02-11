@@ -1,12 +1,16 @@
 ---
 date: 2021-11-19T15:32:37.306Z
-slug: closet-disco-queen-maudits-saar-en
 typeName: Review
 title: Closet Disco Queen, Maudits & SaaR
 subTitle: Three records for the weekend
 seoTitle: Closet Disco Queen, Maudits & SaaR – records for the weekend
-description: For a relaxed weekend, I have three quick music tips from Klonosphere Records for you. They come from Closet Disco Queen, Maudits and SaaR. All three bands have recently released new records.
-excerpt: For a relaxed weekend, I have three quick music tips for you today – Klonosphere Records dropped me a line and send them over. They come from Closet Disco Queen, Maudits and SaaR. All three bands have recently released new records.
+description: For a relaxed weekend, I have three quick music tips from
+  Klonosphere Records for you. They come from Closet Disco Queen, Maudits and
+  SaaR. All three bands have recently released new records.
+excerpt: For a relaxed weekend, I have three quick music tips for you today –
+  Klonosphere Records dropped me a line and send them over. They come from
+  Closet Disco Queen, Maudits and SaaR. All three bands have recently released
+  new records.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/musik-wochenende-jpg-imagine-080808_625b52_1024_768/640.webp
 copyrigt: Closet Disco Queen, SaaR, Maudits
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/musik-wochenende-fb-1-png-imagine-080808_5c5750_1200_628/640.webp
@@ -30,6 +34,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/11/closet-disco-queen-maudits-saar/
+
 ---
 
 **For a relaxed weekend, I have three quick music tips for you today – Klonosphere Records dropped me a line and send them over. They come from Closet Disco Queen, Maudits and SaaR. All three bands have recently released new records.**

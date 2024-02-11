@@ -1,15 +1,14 @@
 ---
-date: 2017-09-01T08:18:25.000+00:00
-slug: fopo-rettet-aussortierte-fruechte
-path: '/2017/09/fopo-rettet-aussortierte-fruechte/'
+date: 2017-09-01T08:18:25.000Z
 type: Artikel
 typeName: Produkttest
 title: FoPo aus Bremen
 seoTitle: FoPo aus Bremen rettet aussortierte Früchte - Ich habe getestet
 ogTitle: FoPo aus Bremen rettet aussortierte Früchte - Ich habe getestet
-description: Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen stellen sie leckere Produkte her. Ich habe sie getestet und habe auch für Euch welche!
-excerpt: Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen stellen sie leckere Produkte her. Ich habe sie getestet und habe auch für Euch welche!
-fileName: 2017-09---fopo-aus-bremen.md
+description: Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen stellen
+  sie leckere Produkte her. Ich habe sie getestet und habe auch für Euch welche!
+excerpt: Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen stellen sie
+  leckere Produkte her. Ich habe sie getestet und habe auch für Euch welche!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36120796434_a5e06c5c5e_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36120796434_a5e06c5c5e_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGA//EACkQAAIBAwMCBQUBAAAAAAAAAAECAwAEEQUSIQYxEzJBUXEVI2GRsdH/xAAYAQACAwAAAAAAAAAAAAAAAAADBgIEBf/EACMRAAECBgICAwAAAAAAAAAAAAECAwAEERIhQTFhBXEiUcH/2gAMAwEAAhEDEQA/AK3Q7Tlbq1RScbGjlGQAff8A2qKVpLSHx5obOXaA7oEzhfU598dvikvTuogR7Y4IvuALhiW/tZ6/rF1aloIrgeCc4EQ2gjtjPf8AWKDNPlkX63+RKXbDhpuNuptNa5txbWjGKd5hIkxOVxnPBHYVO6vERcrIcM4bPI9aoelNXnlTbPJvjRSkaMM4AX80pmkC3izPgRxMH5PB9hVSRbtveuJvNc66HUEfQAoJApTHvuIbReu9gmI0xAwiYqRN5T2z5acLq31GFGuITtVCwCvg/GcUUUOfeWHEo0ecCGHw8iw9LLdWn5A4NT9e4x0jqgW2swwR2QEaSOuBKeeCPUUt1nXp3ZZJFzGp4jVscZ+KKK1GUiziF9/Cqdx//9k=
@@ -34,13 +33,12 @@ labels:
   - Thought For Food
   - Wasser sparen
 focusKeyword: FoPo
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Trockenfrüchte fürs Klima
 advertisement: true
+
 ---
 
 **Die Gründer von _FoPo_ haben es sich zur Aufgabe gemacht, aussortierte Früchte zu retten. Aus ihnen stellen sie leckeres Fruchtpulver und Trockenobst her, das man zum Beispiel zur Herstellung von Smoothies verwenden kann. Ich habe die _FoPo_ Produkte jetzt mal getestet.**

@@ -1,12 +1,15 @@
 ---
 date: 2023-10-05T10:48:27.287Z
-slug: lyra-messier-interview-2023
 typeName: Interview
 title: lyra messier über ihr neues Album
 subTitle: '"Ich war noch nie so glücklich"'
 seoTitle: lyra messier im Interview über ihr neues Album
-description: lyra messier hat ihr neues Album fertig! Lest jetzt unser Interview und erfahrt alles darüber!
-excerpt: Als ich Lyra vor drei Jahren zum ersten Mal online begegnete, verfiel ich sofort ihrer Musik und ihrer schier endlosen, sprühenden Kreativität. Inzwischen hat sich einiges getan und Lyra hat ihr neues Album fertig. Zeit für ein Interview!
+description: lyra messier hat ihr neues Album fertig! Lest jetzt unser Interview
+  und erfahrt alles darüber!
+excerpt: Als ich Lyra vor drei Jahren zum ersten Mal online begegnete, verfiel
+  ich sofort ihrer Musik und ihrer schier endlosen, sprühenden Kreativität.
+  Inzwischen hat sich einiges getan und Lyra hat ihr neues Album fertig. Zeit
+  für ein Interview!
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-jpg-imagine-080808_37352f_1024_768/640.webp
 copyright: lyra messier
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-og-jpg-imagine-080808_3b3531_1200_628/640.webp
@@ -28,6 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/10/lyra-messier-interview-2023-en/
+
 ---
 
 **Als ich Lyra online vor drei Jahren zum ersten Mal online begegnete, verfiel ich sofort ihrer Musik und ihrer schier endlosen, sprühenden Kreativität. Inzwischen ist aus unserer Bekanntschaft eine Freundschaft geworden und wir teilen mehr als nur unseren Musikgeschmack. Weil sie gerade ihr neues Album fertiggestellt hat, haben wir uns wieder zu einem Interview verabredet. Ich lege Euch hiermit ans Herz, es zu lesen und sie und ihre Musik noch besser kennenzulernen.**

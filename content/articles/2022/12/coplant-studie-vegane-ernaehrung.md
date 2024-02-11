@@ -1,14 +1,18 @@
 ---
 date: 2022-12-22T15:12:01.771Z
-slug: coplant-studie-vegane-ernaehrung
 typeName: Beitrag
 title: COPLANT-Studie soll vegane Ernährung erforschen
-subTitle: Bundesinstitut für Risikobewertung untersucht die Vorteile pflanzenbasierter Kost
+subTitle: Bundesinstitut für Risikobewertung untersucht die Vorteile
+  pflanzenbasierter Kost
 seoTitle: COPLANT – diese Studie zeigt die Vorteile veganer Ernährung
-description: Vegane Ernährung hat viele Vorteile. Im Rahmen der COPLANT-Studie sollen sie nun bewiesen werden. Jetzt Details erfahren.
-excerpt: Die bisher größte Kohortenstudie zu veganer Ernährung innerhalb des deutschsprachigen Raums soll schon bald neue Erkenntnisse bringen. Der Start ist für 2023 geplant. Das geht aus einer aktuellen Pressemitteilung des Bundesinstitut für Risikobewertung (BfR) hervor.
+description: Vegane Ernährung hat viele Vorteile. Im Rahmen der COPLANT-Studie
+  sollen sie nun bewiesen werden. Jetzt Details erfahren.
+excerpt: Die bisher größte Kohortenstudie zu veganer Ernährung innerhalb des
+  deutschsprachigen Raums soll schon bald neue Erkenntnisse bringen. Der Start
+  ist für 2023 geplant. Das geht aus einer aktuellen Pressemitteilung des
+  Bundesinstitut für Risikobewertung (BfR) hervor.
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-22/coplant-studie-jpg-imagine-788898_7c7064_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-22/coplant-studie-og-jpg-imagine-181818_837363_1200_628/640.webp
 labels:
   - vegan
@@ -20,6 +24,7 @@ focusKeyword: COPLANT-Studie
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die bisher größte Kohortenstudie zu veganer Ernährung innerhalb des deutschsprachigen Raums soll schon bald neue Erkenntnisse bringen. Der Start ist für 2023 geplant. Das geht aus einer aktuellen Pressemitteilung des Bundesinstitut für Risikobewertung (BfR)[^1] hervor.**

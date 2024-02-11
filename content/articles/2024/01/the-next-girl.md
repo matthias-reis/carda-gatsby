@@ -1,12 +1,15 @@
 ---
 date: 2024-01-09T11:32:12.086Z
-slug: the-next-girl
 typeName: Filmtipp
 title: '"The Next Girl"'
-subTitle: 'Preisgekrönten veganen Kurzfilm jetzt streamen!'
-seoTitle: 'Veganen Kurzfilm "The Next Girl" jetzt streamen!'
-description: 'Holt Euch jetzt hier alle wichtigen Infos zum preisgekrönten veganen Kurzfilm "The Next Girl". Anschließend hier direkt streamen!'
-excerpt: '"The Next Girl" heißt der neue, preisgekrönte vegane Kurzfilm. Holt Euch jetzt hier alle Infos und erfahrt, warum Ihr ihn auf jeden Fall sehen solltet! Mich hat er sofort überzeugt und ich bin schon gespannt, wem es noch so gehen wird.'
+subTitle: Preisgekrönten veganen Kurzfilm jetzt streamen!
+seoTitle: Veganen Kurzfilm "The Next Girl" jetzt streamen!
+description: Holt Euch jetzt hier alle wichtigen Infos zum preisgekrönten
+  veganen Kurzfilm "The Next Girl". Anschließend hier direkt streamen!
+excerpt: '"The Next Girl" heißt der neue, preisgekrönte vegane Kurzfilm. Holt
+  Euch jetzt hier alle Infos und erfahrt, warum Ihr ihn auf jeden Fall sehen
+  solltet! Mich hat er sofort überzeugt und ich bin schon gespannt, wem es noch
+  so gehen wird.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-09/the-next-girl-soundsvegan-com-1-jpg-imagine-181818_2d2928_1024_768/640.webp
 copyright: VKind Immersive Experience
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-09/the-next-girl-soundsvegan-com-og-1-jpg-imagine-181818_2b2827_1200_628/640.webp
@@ -25,11 +28,11 @@ labels:
   - Lisa DeCrescente
   - Star Simmons
   - VKind Immersive Experience
-
-focusKeyword: 'The Next Girl veganer Film'
+focusKeyword: The Next Girl veganer Film
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Der preisgekrönte Kurzfilm, der im Herbst 2023 beim ersten immersiven veganen Event[^1] zu sehen war, ist ab sofort kostenlos verfügbar. In diesem Artikel erzähle ich Euch alle Hintergründe dazu. Anschließend könnt Ihr ihn hier direkt an Ort und Stelle streamen.**

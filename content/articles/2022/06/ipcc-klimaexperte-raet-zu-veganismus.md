@@ -1,14 +1,18 @@
 ---
 date: 2022-06-30T15:33:20.215Z
-slug: ipcc-klimaexperte-raet-zu-veganismus
 typeName: Beitrag
 title: IPCC-Klimaexperte rät zu veganem Lebensstil
 subTitle: '"Pflanzliche Ernährung ist überlebenswichtig"'
 seoTitle: IPCC-Klimaexperte hält Veganismus für überlebenswichtig
-description: Der IPCC-Klimaexperte Dr. Peter Carter hält den veganen Lebensstil für überlebenswichtig. Gemeinsam mit anderen Experten warnte er jetzt vor der Fortführung des Konsums tierischer Produkte.
-excerpt: Laut dem PCC-Klimaexperten Dr. Peter Carter ist es wichtig, dass wir vegan leben. Der Gutachter warnte davor, dass es um Leben und Tod ginge. Seine Aussage "Veganer Lebensstil ist überlebenswichtig" macht im Moment weltweit Schlagzeilen.
+description: Der IPCC-Klimaexperte Dr. Peter Carter hält den veganen Lebensstil
+  für überlebenswichtig. Gemeinsam mit anderen Experten warnte er jetzt vor der
+  Fortführung des Konsums tierischer Produkte.
+excerpt: Laut dem PCC-Klimaexperten Dr. Peter Carter ist es wichtig, dass wir
+  vegan leben. Der Gutachter warnte davor, dass es um Leben und Tod ginge. Seine
+  Aussage "Veganer Lebensstil ist überlebenswichtig" macht im Moment weltweit
+  Schlagzeilen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-06-30/ipcc-jpeg-imagine-d8d8e8_8da6c2_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-06-30/ipcc-fb-jpeg-imagine-b8c8d8_87a2c1_1200_628/640.webp
 labels:
   - Pflanzliche Ernährung
@@ -24,6 +28,7 @@ focusKeyword: Pflanzliche Ernährung
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Laut einem IPCC-Klimaexperten ist es wichtig, dass wir vegan leben. Der Gutachter warnte davor, dass es um Leben und Tod ginge. Seine Aussage "Veganer Lebensstil ist überlebenswichtig" macht im Moment weltweit Schlagzeilen.**

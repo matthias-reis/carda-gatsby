@@ -1,6 +1,5 @@
 ---
 date: 2023-06-08T15:37:32.494Z
-slug: jegong-interview-en
 typeName: Interview
 title: JeGong on their new Album "The Complex Inbetween"
 subTitle: '"The Forgetting of Time and Space in Favor of Depth and Intuition"'
@@ -29,7 +28,7 @@ labels:
   - Heavy Music
   - New York
   - Berlin
-  - Reto Mäder 
+  - Reto Mäder
   - Dahm Majuri Cipolla
   - Mono
   - Mono (Japan)
@@ -39,7 +38,9 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/06/jegong-interview/
+
 ---
+
 **Dahm Majuri Cipolla, drummer of Mono (Japan) and Watter founded JeGong together with Reto Mäder from Sum Of R and Ural Umbo. Their debut album, "I", already caused quite a stir via The Ocean's label Pelagic Records. The new album, "The Complex Inbetween", will be released on June 9th. Now I had the chance to interview them about their music and "The Complex Inbetween".**
 
 **Anne:** Thank you for taking the time for this interview! I am delighted to meet you in person! How are you doing? What are you busy with at the moment?

@@ -1,13 +1,12 @@
 ---
 date: 2012-08-09T09:20:20.000Z
-slug: sommersonne-gipfelkreuze
-path: /2012/08/sommersonne-gipfelkreuze/
 title: Ein ganz normaler Donnerstag
 seoTitle: Sommersonne und Gipfelkreuze
 ogTitle: Sommersonne und Gipfelkreuze
-description: Jetzt kann das Wetter hier meinetwegen machen, was es will. Ich werde dieses Jahr auf jeden Fall noch die Sonne sehen.
-excerpt: Jetzt kann das Wetter hier meinetwegen machen, was es will. Ich werde dieses Jahr auf jeden Fall noch die Sonne sehen.
-fileName: 2012-08---ein-ganz-normaler-donnerstag.md
+description: Jetzt kann das Wetter hier meinetwegen machen, was es will. Ich
+  werde dieses Jahr auf jeden Fall noch die Sonne sehen.
+excerpt: Jetzt kann das Wetter hier meinetwegen machen, was es will. Ich werde
+  dieses Jahr auf jeden Fall noch die Sonne sehen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120809_103929__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120809_103929__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwUCBAYH/8QALRAAAgECBAUDAgcAAAAAAAAAAQIDBAUAERIhBhMUMVEiI0FhoTJxcoGxwdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFBv/EABwRAQEBAQACAwAAAAAAAAAAAAECABEDEhMhQf/aAAwDAQACEQMRAD8A6hf7lco79cViuFWkazsqqspAAHwBhc9wr5VIkrapwe4aUnPB76Qb5cD399+/54WVc3LpnKD3D6UHljsPucc7atP3+7agkkebOVF0vE15boDcJqQSxiXRUZLGukDMDsezHLyBjTcOXG7DiK0J1dz5AqAHWaUBCDltkDkd/p84oqiU1dFBFGqRvE24yGplK9/JyJwwtLLFeaB2IAWojJJ/UMTLU0ccXxiPTH4gkCX2vUkAmpdQPJ1HbCiCdamp1a2CRMVQfh1uNmb6gdh++G3EvD9xq+Irg8lJVS07VLuvLhYBBqzBDDck7b/AzwKS2VYhCtbarlqMgpgYgfbFPklKcMV7BqdXEsyrn6ZEOuN9OZRvOD2JjLxBRQShdXURHYbMpb/RliHRVMaBVoahFHYclh/WJWqjrBxXYHNFVBDVhWcRMNK5Z5nbt6f4wgFsOZlISu//2Q==
@@ -38,12 +37,11 @@ labels:
   - Wetter
   - Wochenende
 focusKeyword: Sommersonne
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Von Sommersonne und Gipfelkreuzen
+
 ---
 
 **Ich fliege in den Süden! Am 21. Oktober geht es los. Eine Woche Türkei mit Hoochi. Ich freue mich sehr.  Jetzt kann das Wetter hier meinetwegen machen, was es will. Ich werde dieses Jahr auf jeden Fall noch die Sonne sehen.**

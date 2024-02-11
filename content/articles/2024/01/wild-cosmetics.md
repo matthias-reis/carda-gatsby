@@ -1,6 +1,5 @@
 ---
 date: 2024-01-10T14:32:12.086Z
-slug: wild-cosmetics
 typeName: Produkttest
 title: 'Wild Cosmetics'
 subTitle: 'Vegane Beauty-Produkte ohne Einwegplastik'
@@ -8,7 +7,7 @@ seoTitle: 'Deo und Duschgel von Wild - vegane Beauty-Produkte ohne Plastik'
 description: 'Wenn Ihr auf Social Media unterwegs seid, seid Ihr den veganen Deos und Duschgels von Wild sicher schon mal begegnet. Holt Euch jetzt 20 % Rabatt und erfahrt, was sie taugen!'
 excerpt: 'Die veganen Deos und Duschgels von Wild sind Euch sicher ein Begriff, solltet Ihr wie ich viel in den sozialen Netzwerken unterwegs sein. Ich habe sie jetzt getestet und mir genau angeschaut, was hinter der Brand steckt. Holt Euch jetzt alle Infos und 20 Prozent Rabatt auf alles aus dem Wild Onlineshop!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-10/wild-cosmetics-soundsvegan-com-09-jpg-imagine-080868_476899_2048_1536/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-10/wild-cosmetics-soundsvegan-com-og-jpg-imagine-f8f8f8_528399_1200_628/640.webp
 labels:
   - Vegan
@@ -17,8 +16,7 @@ labels:
   - Deo
   - Duschgel
   - cruelty free
-
-focusKeyword: 'Wild Cosmetics Test'
+focusKeyword: Wild Cosmetics Test
 advertisement: true
 affiliate: true
 language: de

@@ -1,14 +1,21 @@
 ---
 date: 2021-12-22T15:50:04.576Z
-slug: playlist-januar-2022
 typeName: Beitrag
 title: Playlist Januar 2022
 subTitle: 12 Songs für den Start in 2022
-seoTitle: 'Von Post-Rock bis Prog: 12 Songs für den Januar 2022'
-description: Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück – als Ablenkung vom turbulenten Weltgeschehen derzeit taugt Musik wohl am besten. Auch diesen Monat habe ich wieder das Beste von Post-Rock bis Prog für Euch.
-excerpt: Das Jahr bewegt sich mit großen Schritten seinem Ende entgegen. Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück – als Ablenkung vom turbulenten Weltgeschehen derzeit taugt Musik wohl am besten. Auch diesen Monat habe ich gemeinsam mit Valentin und Matze für Euch wieder eine Liste zusammengestellt – für einen guten Start in ein hoffentlich gutes neues Jahr 2022.
+seoTitle: "Von Post-Rock bis Prog: 12 Songs für den Januar 2022"
+description: Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück –
+  als Ablenkung vom turbulenten Weltgeschehen derzeit taugt Musik wohl am
+  besten. Auch diesen Monat habe ich wieder das Beste von Post-Rock bis Prog für
+  Euch.
+excerpt: Das Jahr bewegt sich mit großen Schritten seinem Ende entgegen.
+  Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück – als Ablenkung
+  vom turbulenten Weltgeschehen derzeit taugt Musik wohl am besten. Auch diesen
+  Monat habe ich gemeinsam mit Valentin und Matze für Euch wieder eine Liste
+  zusammengestellt – für einen guten Start in ein hoffentlich gutes neues Jahr
+  2022.
 image: https://storage.googleapis.com/cardamonchai-media/2021-12-22/12-songs-januar-jpg-imagine-080808_5d5554_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-12-22/12-songs-januar-fb-png-imagine-080808_5e5554_1200_628/640.webp
 labels:
   - Bands
@@ -38,6 +45,7 @@ focusKeyword: Post-Rock
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Das Jahr bewegt sich mit großen Schritten seinem Ende entgegen. Musikalisch hatte 2021 ja einiges für uns auf Lager. Zum Glück – als Ablenkung vom turbulenten Weltgeschehen derzeit taugt Musik wohl am besten. Auch diesen Monat habe ich gemeinsam mit Valentin und Matze für Euch wieder eine Liste zusammengestellt – für einen guten Start in ein hoffentlich gutes neues Jahr 2022.**

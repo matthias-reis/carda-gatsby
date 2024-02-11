@@ -1,12 +1,16 @@
 ---
 date: 2022-01-31T14:47:47.350Z
-slug: a-terre-traversee
 typeName: Review
 title: '"Traversée"'
 subTitle: Die neue EP von À Terre
 seoTitle: '"Traversée" von À Terre – Post-Metal Review'
-description: À Terre haben ihre neue EP "Traversée" fertig. Sie erscheint am 21. Februar in digitaler Form. Die CD folgt am 14. März. Post-Metal vom Feinsten erwartet Euch.
-excerpt: À Terre haben ihre neue EP "Traversée" fertig. Sie erscheint am 21. Februar in digitaler Form. Die CD folgt am 14. März. Ich konnte es natürlich nicht erwarten, schon mal reinzuhören und möchte Euch die Platte hiermit empfehlen. Eine Hörprobe habe ich natürlich auch für Euch.
+description: À Terre haben ihre neue EP "Traversée" fertig. Sie erscheint am 21.
+  Februar in digitaler Form. Die CD folgt am 14. März. Post-Metal vom Feinsten
+  erwartet Euch.
+excerpt: À Terre haben ihre neue EP "Traversée" fertig. Sie erscheint am 21.
+  Februar in digitaler Form. Die CD folgt am 14. März. Ich konnte es natürlich
+  nicht erwarten, schon mal reinzuhören und möchte Euch die Platte hiermit
+  empfehlen. Eine Hörprobe habe ich natürlich auch für Euch.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-31/a-terre-traversee-jpg-imagine-080808_000000_1024_768/640.webp
 copyright: À Terre
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-31/a-terre-traversee-fb-png-imagine-080808_0d0d0d_1200_628/640.webp
@@ -24,6 +28,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/01/a-terre-traversee-en/
+
 ---
 
 **À Terre haben ihre neue EP "Traversée" fertig. Sie erscheint am 21. Februar in digitaler Form. Die CD folgt am 14. März. Ich konnte es natürlich nicht erwarten, schon mal reinzuhören und möchte Euch die Platte hiermit empfehlen. Eine Hörprobe habe ich natürlich auch für Euch.**

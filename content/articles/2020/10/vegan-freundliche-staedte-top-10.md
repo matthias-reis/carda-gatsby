@@ -1,13 +1,12 @@
 ---
 date: 2020-10-01T07:30:22.000Z
-slug: vegan-freundliche-staedte-top-10
-path: /2020/10/vegan-freundliche-staedte-top-10/
 title: Top 10 vegan-freundliche Städte
 seoTitle: Die Top 10 der vegan-freundlichen Städte – Veganes Europa
 ogTitle: Die Top 10 der vegan-freundlichen Städte – Veganes Europa
-description: Vegan-freundliche Städte gibt es viele. Doch welche sind eigentlich in Europa die zehn Favoriten? Diese Liste gibt Aufschluss.
-excerpt: Vegan-freundliche Städte gibt es viele. Doch welche sind eigentlich in Europa die zehn Favoriten? Diese Liste gibt Aufschluss.
-fileName: 2020-10---top-10-vegan-freundliche-staedte.md
+description: Vegan-freundliche Städte gibt es viele. Doch welche sind eigentlich
+  in Europa die zehn Favoriten? Diese Liste gibt Aufschluss.
+excerpt: Vegan-freundliche Städte gibt es viele. Doch welche sind eigentlich in
+  Europa die zehn Favoriten? Diese Liste gibt Aufschluss.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_vegane-staedte__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_vegane-staedte__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAApEAACAQMDAgYCAwAAAAAAAAABAgQDBREAEiEGMQcTIkFRYTKBcZGh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQAAQMF/8QAIxEAAQMDAwUBAAAAAAAAAAAAAQACAwQREgUxsRMhYYHR4f/aAAwDAQACEQMRAD8AU6fiwq8yHRM/zayOamxcx0DKfSQ248sGbj6HHfVS9UqtquNR0pA26Q5qx324yp5xn2bk/wB/Q1f6V8P1td4oNIvrtMnAijRMZE3rTUBlGScgAgn9aziPaOubjJg2e5VTNiMHktUhMKbkMynAL4/InQ9NxBVl4uAFA8xamHJVirZJPBzzn+Ccnge7j41jKiq1QN5QElvSp3bCxY5wTkYDdz8B10jaeooV0glqcGbHkU2YJUSQisQvGQSCCAR27jOc6Sm3llAWqspaYUptp7BkHOc+x7/4PjRU9DUVIyhFwPI+rKWtghNpHW9Fc9S8Up0rqmD1BKpxTKh0THSigZaZG0pkgue+7Jx3xqt4Tdb23pjqafKuUjasqlwqKSXbfwoHPue5+NGjTWIe3AqA4HMKHaLwtqurRY1cCC8keaGO47cnICjjOQdVbNcq8+DUrSjRq1qdb0YprtKd1yOx/ejRp3RSWShg2N+PxcjWgG0znjftyv/Z
@@ -27,12 +26,11 @@ labels:
   - Vegane Lokale
   - Wien
 focusKeyword: vegan-freundliche Städte
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Veganes Europa
+
 ---
 
 **Gerade wurde die Top 10 der vegan-freundlichsten Städte Europas veröffentlicht. Sie basiert auf den Untersuchungen der Verbraucherexpert\*innen von money.co.uk.**

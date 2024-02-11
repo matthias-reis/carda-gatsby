@@ -1,14 +1,19 @@
 ---
 date: 2022-05-18T15:21:58.846Z
-slug: buchweizen-risotto
 typeName: Rezept
 title: Buchweizen-Risotto mit Gemüse-Topping
 subTitle: Veganes Rezept für vier Portionen
 seoTitle: Veganes Buchweizen-Risotto mit Gemüse-Topping
-description: 'Buchweizen-Risotto ist eine leckere und gesunde Alternative zu klassischem Risotto. Der Clou: Ihr könnt es im Handumdrehen zubereiten. Die Zutaten lassen sich wunderbar variieren'
-excerpt: 'Buchweizen-Risotto ist eine leckere und gesunde Alternative zu klassischem Risotto. Der Clou: Ihr könnt es im Handumdrehen zubereiten. Die Zutaten lassen sich wunderbar variieren. Wir haben es zuletzt mit Sojafleisch gekocht. Ihr könnt aber genauso gut Räuchertofu oder Seitanstreifen verwenden.'
+description: "Buchweizen-Risotto ist eine leckere und gesunde Alternative zu
+  klassischem Risotto. Der Clou: Ihr könnt es im Handumdrehen zubereiten. Die
+  Zutaten lassen sich wunderbar variieren"
+excerpt: "Buchweizen-Risotto ist eine leckere und gesunde Alternative zu
+  klassischem Risotto. Der Clou: Ihr könnt es im Handumdrehen zubereiten. Die
+  Zutaten lassen sich wunderbar variieren. Wir haben es zuletzt mit Sojafleisch
+  gekocht. Ihr könnt aber genauso gut Räuchertofu oder Seitanstreifen
+  verwenden."
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-18/buchweizen-risotto-jpg-imagine-782808_9d663f_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-18/buchweizen-risotto-fb-jpg-imagine-782808_a75e2b_1200_628/640.webp
 labels:
   - Buchweizen
@@ -17,11 +22,12 @@ labels:
   - vegan
   - Vegane Rezepte
   - veganes Rezept
-  - ''
+  - ""
 focusKeyword: Buchweizen-Risotto
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Buchweizen-Risotto ist eine leckere und gesunde Alternative zu klassischem Risotto. Der Clou: Ihr könnt es im Handumdrehen zubereiten. Die Zutaten lassen sich wunderbar variieren. Wir haben es zuletzt mit Sojafleisch gekocht. Ihr könnt aber genauso gut Räuchertofu oder Seitanstreifen verwenden.**
