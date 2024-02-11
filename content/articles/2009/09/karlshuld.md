@@ -1,13 +1,11 @@
 ---
 date: 2009-09-26T06:37:03.000Z
-slug: karlshuld
-path: /2009/09/karlshuld/
 title: Karlshuld
 seoTitle: Karlshuld - Eine Gemeinde mit vielen Teilen
 ogTitle: Karlshuld - Eine Gemeinde mit vielen Teilen
-description: Die Gemeinde Karlshuld liegt im Landkreis Neuburg an der Donau/Schrobenhausen. Die Geschichte hielt Hochs und Tiefs für den Ort bereit.
+description: Die Gemeinde Karlshuld liegt im Landkreis Neuburg an der
+  Donau/Schrobenhausen. Die Geschichte hielt Hochs und Tiefs für den Ort bereit.
 excerpt: Die Gemeinde Karlshuld liegt im Landkreis Neuburg an der Donau/Schrobenhausen.
-fileName: 2009-09---karlshuld.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_09_14363522247_d6b9ee50ec_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_09_14363522247_d6b9ee50ec_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDAAQRBRITIQYHIjFRcYEyQXKhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMCBP/EABsRAAIDAQEBAAAAAAAAAAAAAAABAgMRIQRB/9oADAMBAAIRAxEAPwCi0DzfUr+4VLfxAjAy0k19xov3PH/lPMfkl20ZhtorK2uYwplWHMzLnsduB0f40iwaslnp8126O6RIDtUdnvHWev3qdBctcX+oi1BjdDGszSKvv9uVwQM9Drull6LZLG+AqmtPcNN0fzxF5INSsLe54mCSSWh43Q4BwVb25wQeiKY7K70/WrWa40p5GWFgkiSRFGRiMgHPR6+hNYWNXjtZr3fC7yieKOZl2qHZhjf8Z6AA7rUfS3U8Q6vp23MW4XAcH4OAuPzii79F4citaLHZOyyzblXdnkbv+6vbOxhe3wxnLEEFuZs5+vzRRWSTZoSRL0+xhbT4GkMryOgZmMrZJI+9NfonFEvlEYkjWaUSTyLLLlmTjO0Bc/H6s/iiirqb0ma4f//Z
@@ -18,12 +16,11 @@ labels:
   - Karlshuld
   - Reiseführer Bayern
 focusKeyword: Karlshuld
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Eine Gemeinde mit vielen Teilen
+
 ---
 
 **Die Gemeinde Karlshuld liegt im Landkreis Neuburg an der Donau/Schrobenhausen.**

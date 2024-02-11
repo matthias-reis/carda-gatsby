@@ -1,13 +1,14 @@
 ---
 date: 2013-11-14T18:10:09.000Z
-slug: da-ist-musik-drin
-path: /2013/11/da-ist-musik-drin/
 title: Da ist Musik drin
 seoTitle: Da ist Musik drin - Die Post war da
 ogTitle: Da ist Musik drin - Die Post war da
-description: Das ist Musik drin! - Heute bin ich meinem Kollegen um den Hals gefallen, dabei kam er nur um die Ecke und meinte, er hätte Post für mich.
-excerpt: Ich bin meinem Kollegen heute um den Hals gefallen. Dabei kam er einfach nur um die Ecke und meinte, er hätte Post für mich. Er wusste gar nicht, wie ihm geschieht, meinte wohl, es handelt sich nur um so ein langweiliges Paket mit irgendwelchem langweiligen Schnickschnack.
-fileName: 2013-11---da-ist-musik-drin.md
+description: Das ist Musik drin! - Heute bin ich meinem Kollegen um den Hals
+  gefallen, dabei kam er nur um die Ecke und meinte, er hätte Post für mich.
+excerpt: Ich bin meinem Kollegen heute um den Hals gefallen. Dabei kam er
+  einfach nur um die Ecke und meinte, er hätte Post für mich. Er wusste gar
+  nicht, wie ihm geschieht, meinte wohl, es handelt sich nur um so ein
+  langweiliges Paket mit irgendwelchem langweiligen Schnickschnack.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_11_chico__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_11_chico__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QAKRAAAQQBAwMEAQUAAAAAAAAAAQIDBBEFAAYhEhMxFCIyQQcjUXGBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAUEAf/EACURAAEEAAMJAQAAAAAAAAAAAAEAAgMRIVGBEhMxMjNBcZHwof/aAAwDAQACEQMRAD8AvsvMK6WglxPQlBUpDba1UP8ATZF1elbryyER8JCzePlysfLlhUb0TyCKT7rcQpHxAJujdHVRbXg8pt5iRLyMvFrD6W30Oh0uNKCj0rtKRYJAUQOPGkbmzWQ21uSJPjSWdzNyYKS0/DkU6ypJSXHuyQAFLAAsE8fRqtDCDHbHHEZfqsjdZ3OqlM2dsFuVj4zk/EK623yW8W482lpQtKVAWQTRP8HjWdZLaO18nk1Px8rhslIceSpd5D0SlixdtOURwKocknS8Lu7JZiVm8s8+69PkSWU9RUEEhtsJABFfQ/uz96Tl81HmTUqy8BspTFUz2loT+ou+FKNceKvzz51TCyRshAd9Q8E+1s0YAAA7aLPctuTMN4hiG3kH0MAuMe0gLLYCaQV/Ip5Iomq1ZfyPJe7EGnCKQkCuPLYvRo0s9rQRQzUDXGwb+pcm0B2luobsJ7gNX+7adS8slc9sKogqogjjzo0aKl6hTbORf//Z
@@ -19,12 +20,11 @@ labels:
   - Musik
   - Schallplatten
 focusKeyword: Musik
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die Post war da
+
 ---
 
 **Ich bin meinem Kollegen heute um den Hals gefallen. Dabei kam er einfach nur um die Ecke und meinte, er hätte Post für mich. Er wusste gar nicht, wie ihm geschieht, meinte wohl, es handelt sich nur um so ein langweiliges Paket mit irgendwelchem langweiligen Schnickschnack.**

@@ -5,15 +5,10 @@ excerpt: Stadttauben haben eine traurige Geschichte. Der Hamburger Stadttauben
   kümmern.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2016_05_stadttauben.png__l.jpg
 isAffiliate: false
-path: /2016/05/hamburger-stadttauben-e-v/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAsEAACAgEDAgMHBQAAAAAAAAABAgMEBQAGEQchEhMxFCJBUWGBoRUWcXKx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAE/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACISJh/9oADAMBAAIRAxEAPwBu6oT2sBQxlvCTtRsW7ZSd4VVWmRYyQGJB+fY/DU4wvVDI43c2Qoby3LkoaCBfKmoV4JHiZveAZWj5K+E8HjvyAfjq0742dZ3PhKMVW8EtUnaSMTjlZfEoHDMPQ9ux41y11N2xPS3BKtyKWhkygeaKwpEcvooaJx2bkDvwSP8ANaeWnsz9F/J0fjt04DI1Uah1QrSA/C1TrCQ/ypRD+NZs8+Cq5b9Th39to3pIzE7tj4EeVOQfCzJICe4Hf1Gp/wBN+n+V29LHlNybaztorEPZIajBFBPDBmKyrJyCB7oGrTDmd25GsbH7UxsEnPPlW7b15U+xiP4J0BjjJQuAKAx1idUbSwbHv3ovK9qp+XNXd41k8tvGoJAYH1BIPzB0aNQaSXGTbbvVPLWr6Vnk2zTkPCxPchmjj/oGQkJ9wB9dON7L7/8ABwmL2pOnrzHemXn69xo0adwq5BRU2f/Z
 isWerbung: false
-fileName: 2016-05---hamburger-stadttauben-e-v.md
-slug: hamburger-stadttauben-e-v
-errors: {}
 date: 2016-05-26T07:00:34.000Z
 focusKeyword: Stadttauben
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_20058512143_51595b7228_z__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_20058512143_51595b7228_z__m.jpg
 title: Hamburger Stadttauben e. V.
@@ -32,7 +27,9 @@ labels:
   - Tierrechte
   - Tierschutz
 language: de
+
 ---
+
 **Wie einige von Euch schon wissen, liegen mir aus verschiedenen Gründen Tauben sehr am Herzen. Besonders die Stadttauben, die immer um uns herumfliegen, aber trotzdem von kaum einem wahrgenommen werden.**
 
 Ihre Geschichte ist eng mit der der Menschen verwoben, sie begleiten uns schon seit langer Zeit. Umso widersprüchlicher ist es, dass sie heutzutage so wenig geliebt sind.

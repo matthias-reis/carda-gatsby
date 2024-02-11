@@ -1,15 +1,15 @@
 ---
-date: 2020-05-04T15:37:31.000+00:00
-slug: bio-gemuese-von-etepetete
-path: '/2020/05/bio-gemuese-von-etepetete/'
+date: 2020-05-04T15:37:31.000Z
 type: Artikel
 typeName: Produkttest
 title: Bio-Gemüse von etepetete
 seoTitle: Bio-Gemüse von etepetete - Vitamine aus der Box
 ogTitle: Bio-Gemüse von etepetete - Vitamine aus der Box
-description: etepetete ist mir schon vor einiger Zeit aufgefallen. Jetzt habe ich mir jetzt eine Box mit "nicht perfektem" Bio-Gemüse und -Obst liefern lassen.
-excerpt: etepetete ist mir schon vor einiger Zeit aufgefallen. Jetzt habe ich mir jetzt eine Box mit "nicht perfektem" Bio-Gemüse und -Obst liefern lassen.
-fileName: 2020-05---bio-gemuese-von-etepetete.md
+description: etepetete ist mir schon vor einiger Zeit aufgefallen. Jetzt habe
+  ich mir jetzt eine Box mit "nicht perfektem" Bio-Gemüse und -Obst liefern
+  lassen.
+excerpt: etepetete ist mir schon vor einiger Zeit aufgefallen. Jetzt habe ich
+  mir jetzt eine Box mit "nicht perfektem" Bio-Gemüse und -Obst liefern lassen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-04-28-etepetete-13__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-04-28-etepetete-13__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAj/xAApEAACAQMCBQQCAwAAAAAAAAABAgMEBREABhIhMUFRBxMikRRhFSNx/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAkEQABAwMDBAMAAAAAAAAAAAABAgMEABExBSFhEiJBoVFx8P/aAAwDAQACEQMRAD8As99vLrK9QgfCt7MbeQBjP6yT9aQ7nvG5NXRhViMQLKY2XBTlgHI55BHfT9u23i225qidiYFBLFfiEPQZPg5x9aiO6LVd6GQ1X5lBFHWz/F6qb21DNnBPI5555dTpdLmlLoZb2Po0bFiAtF5y1vYp3tm7prrBO8jRngqooPguQTxxnI79M6erLd4ZaGaUFMSTPIGI6j3CCeeuW7JuG47fhdf44VKrIJTMImZhLkksOxzy/WNWTZ9bJUWmn/tHtPTUbMuc8JYsWB8Hsc+NFRHw92HI5zzWM6MI6uxQUD8fubfYO1NnqptK6bhqVeAGppVA4IfcxwuCDnB/ztrHv7YS7otkFOKpqSrhqI542ZcjiRsgMM8x1HLzo0aW6iwhAS4nN6vDJBUnwc0mWf0s3ZxNI1TDGwbhHCwKYBPk5+xrbSbF3BabvTP+Mg6GRkXKufGVPxPfPLRo1I06O40FlO9gaAcYQlR6fFf/2Q==
@@ -29,14 +29,12 @@ labels:
   - Retter-Box
   - vegane Snacks
 focusKeyword: Bio-Gemüse
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image that could not be found
 subTitle: Vitamine aus der Box
 advertisement: true
+
 ---
 
 **etepetete ist mir schon vor einiger Zeit aufgefallen. Jetzt habe ich mir eine Box mit "nicht perfektem" Bio-Gemüse und -Obst liefern lassen und den Service des nachhaltigen Start-ups getestet.**

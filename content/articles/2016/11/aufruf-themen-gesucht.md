@@ -1,13 +1,14 @@
 ---
 date: 2016-11-24T11:07:28.000Z
-slug: aufruf-themen-gesucht
-path: /2016/11/aufruf-themen-gesucht/
 title: Themen gesucht
 seoTitle: Themen gesucht - Aufruf an meine Leser - Interviewpartner gesucht!
 ogTitle: Themen gesucht - Aufruf an meine Leser - Interviewpartner gesucht!
-description: Jetzt seid Ihr dran! Ich suche Interviewpartner, Themen und frisches Seemannsgarn für mein Blog cardamonchai! Ich freue mich auf Eure Zuschriften!
-excerpt: Jetzt seid Ihr dran! Ich suche Interviewpartner, Themenvorschläge und frisches Seemannsgarn für mein Blog cardamonchai! Ich freue mich auf Eure Zuschriften!
-fileName: 2016-11---themen-gesucht.md
+description: Jetzt seid Ihr dran! Ich suche Interviewpartner, Themen und
+  frisches Seemannsgarn für mein Blog cardamonchai! Ich freue mich auf Eure
+  Zuschriften!
+excerpt: Jetzt seid Ihr dran! Ich suche Interviewpartner, Themenvorschläge und
+  frisches Seemannsgarn für mein Blog cardamonchai! Ich freue mich auf Eure
+  Zuschriften!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30090473655_3c92758a3b_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30090473655_3c92758a3b_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAcIAgMEBf/EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASIQYxBxMiURRBYXHBFkKRsfD/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgD/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAMCETEhE//aAAwDAQACEQMRAD8A4ehOpLVS9B09RVGnKQwRxzRv5akKI5csMc/vPbngjWFR1681wrpf1BU0azy7/JobhJDGh99vkMdxGM5Py1vqOjFs/hHfkqHQzRW53Vwx3DaMgZ/kY+v10haH4pT5kZbYhJ4LEH7qDoaq/mrrsSzNyA3G/dr3FUVsVVL1DcGniIKTzXRywUHPpzT5/vTvsNzuNx6cWru/TVbSySU+/e8i+oeXneQANuTk4789h21Gcj10KZJqSqqVRn34GeOM8DV019QGtJVwCxgCn77MacN8gvkT/X1xqajw0ubRFIjIkaMCCwKtIgI7j376mdbsyytvhR2U/PBHB9iPzo0auwBk1qns9Sz3L4q40tM1JTLDNNFE6KpUFS4BGAR/hqvpqx5KQIoC49IzzwOPxo0a2HJWXZ//2Q==
@@ -22,12 +23,11 @@ labels:
   - Themen
   - vegan
 focusKeyword: Themen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Leseraufruf
+
 ---
 
 **Kennt Ihr noch meine Ode an die [herbstliche Schreibblockade](/2013/10/dieser-song-ist-fur-dich-herbstliche-schreibblockade/) ? Drei Jahre ist es jetzt her, seit ich Sie hier im Blog veröffentlicht habe. Seitdem habe ich zu den verschiedensten Themen berichtet, Leute interviewt und Bildergalerien gezeigt.**

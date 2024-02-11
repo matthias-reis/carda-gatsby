@@ -22,7 +22,6 @@ labels:
   - Dunk Records
 language: en
 date: 2020-06-05T18:41:00.000Z
-slug: pray-for-sound-interview-en
 typeName: Interview
 title: Pray For Sound
 subTitle: '"These Songs are like a Therapy"'
@@ -38,6 +37,7 @@ focusKeyword: Pray For Sound
 advertisement: false
 affiliate: false
 languageLink: /2020/06/pray-for-sound-interview
+
 ---
 
 **Today I have prepared a very special interview for you. None other than the wonderful post-rock band Pray for Sound answered my questions.**

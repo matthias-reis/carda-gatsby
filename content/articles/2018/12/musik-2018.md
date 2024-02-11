@@ -1,17 +1,18 @@
 ---
-date: 2018-12-27T16:12:41.000+00:00
-slug: musik-2018
-path: '/2018/12/musik-2018/'
+date: 2018-12-27T16:12:41.000Z
 title: Eure Musik 2018
 seoTitle: Musik 2018 - Ein musikalischer Rückblick mit Videos
 ogTitle: Musik 2018 - Ein musikalischer Rückblick mit Videos
-description: Wie angekündigt möchte ich Euch im zweiten Teil noch ein paar weitere musikalische Juwelen aus dem vergangenen Jahr präsentieren. Eure Musik 2018!
-excerpt: Wie angekündigt, möchte ich Euch im zweiten Teil noch ein paar weitere musikalische Juwelen aus dem vergangenen Jahr präsentieren. Eure Musik 2018 auf dem Plattenteller.
-fileName: 2018-12---eure-musik-2018.md
+description: Wie angekündigt möchte ich Euch im zweiten Teil noch ein paar
+  weitere musikalische Juwelen aus dem vergangenen Jahr präsentieren. Eure Musik
+  2018!
+excerpt: Wie angekündigt, möchte ich Euch im zweiten Teil noch ein paar weitere
+  musikalische Juwelen aus dem vergangenen Jahr präsentieren. Eure Musik 2018
+  auf dem Plattenteller.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-eure-songs__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-eure-songs__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACkQAAIBAwQCAgIBBQAAAAAAAAECAwQFEQAGEiETMUFRFCIHIyQzYYH/xAAXAQEBAQEAAAAAAAAAAAAAAAACBAMF/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAEQMEIRLw/9oADAMBAAIRAxEAPwBsm9N/WLeEsNzWSaN28ogEMMYljHk5Ny7A6EfrsfOpTdBut5uVFuLcJpaminjaGCvqIY4v8c0oA8R9gIR3g56Peoumv9wd1kqVpfPMWZ04ElmbP6gMxyRyH0AxGO9IL1vK9Q1vgnakaDBZHNKH/UsXEi8yTkls+/8AXxoEBhQmqOVPoy3t1LJ+ctyttHQTULu0EktPJ4guR0Sq9gcUzgD2dXNLTUlvt1yul2WniaojSOPx1zNHGmcIC3EFSWJOWABwCB3rL/4o3Cb3vUUN3VBRtBMQ9OfxHLYABLL339fJOtQjq9p3GxPHe7VXUltqlioeriFj/pAeJCQSWYBwC+MZIz8anya7seSzFuIi0bv6pg1BdgKeJKiOSRkBUurqD6wCCyMQ3HAyPoH3pHNcS1dLPMJcuhRRDJw4IRx4A4PQXrGjRqrHw2Jz75HOx5mq9xVEkZIdKJj/AHGJs8OPH2B6IU/81qNJRSy2va9vllgeiq6l5Wi8AA58YMNkHOevvHr60aNMmzZhM//Z
-ogImage:
+ogImage: null
 labels:
   - Bands
   - Dave Grohl
@@ -28,12 +29,11 @@ labels:
   - Playlist
   - serie:Playlists 2018
 focusKeyword: Musik 2018 - Ein Rückblick
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ihr habt sie gewählt, ich spiele sie für Euch!
+
 ---
 
 **Meine [10 Songs 2018](/2018/12/meine-10-songs-2018/) kennt Ihr ja schon. Wie angekündigt, möchte ich Euch im zweiten Teil noch ein paar weitere musikalische Juwelen aus dem vergangenen Jahr präsentieren. Ihr habt sie selbst ausgewählt.**

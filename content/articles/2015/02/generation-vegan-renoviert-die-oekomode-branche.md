@@ -1,13 +1,14 @@
 ---
 date: 2015-02-12T13:10:21.000Z
-slug: generation-vegan-renoviert-die-oekomode-branche
-path: /2015/02/generation-vegan-renoviert-die-oekomode-branche/
 title: Generation Vegan renoviert die Ökomode-Branche
 seoTitle: Generation Vegan renoviert die Modebranche - vegane Mode gesucht!
 ogTitle: Generation Vegan renoviert die Modebranche - vegane Mode gesucht!
-description: Ökomode gibt es schon ziemlich lange. Leider kommen hier immernoch Materialien wie Leder, Wolle und Daunen zum Einsatz - vegane Mode braucht das Land!
-excerpt: Ökomode gibt es schon ziemlich lange. Leider kommen hier immernoch Materialien wie Leder, Wolle und Daunen zum Einsatz - vegane Mode braucht das Land!
-fileName: 2015-02---generation-vegan-renoviert-die-oekomode-branche.md
+description: Ökomode gibt es schon ziemlich lange. Leider kommen hier immernoch
+  Materialien wie Leder, Wolle und Daunen zum Einsatz - vegane Mode braucht das
+  Land!
+excerpt: Ökomode gibt es schon ziemlich lange. Leider kommen hier immernoch
+  Materialien wie Leder, Wolle und Daunen zum Einsatz - vegane Mode braucht das
+  Land!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_girl-1026246_1280__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_girl-1026246_1280__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAnEAABAwQBAwQDAQAAAAAAAAABAgMEAAUREgYTIXEUMUGBIlFhkf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABwRAQEBAAEFAAAAAAAAAAAAAAECAAMREiExgf/aAAwDAQACEQMRAD8AzTjlwisraK7THOSBlcogDJ+TrVhyG6R3LFLitWS1IU8jppU04VqyFD2IT3P3UtaIbDsVxtcLrtuKClNtqQFHHwCa7vVW7i8G6SZDTqbwpvrsIUEdNlBVonQA5BycZ8/qhyUxPcPzZxBdButURPHuNOqcjxHpJkYLSFa6A/w9+39rM+RXUy3kF6K7DcAIKUIwkj77mthtFttnMbauQ7Kedeby1I0VqVKzgLPkJ+8VLco4PDhsqGXJLaclAdeUNSfnIqcXWoHK2ZtNOWy5BrGWArys0v51KjyW4zhiBMpwBHV6ijqhOTgJ9u5PuaKK2fWIec14PdHeO2lU2EnL8oaObEkajYDA/fznxTG7cqW/GQH2pCncfkr1GAo+Ne3+0UUJVNEF3//Z
@@ -18,12 +19,11 @@ labels:
   - Ökomode
   - vegane Mode
 focusKeyword: Vegane Mode
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Vegane Mode braucht das Land
+
 ---
 
 **Bei ökologisch nachhaltiger Mode ging es bisher in erster Linie um eines: so wenig wie möglich Chemikalien zum Einsatz zu bringen. Die bekannten Ökokleidungs-Brands verwendeten jedoch weiter munter Leder, Wolle und Co. für ihre Kollektionen.**

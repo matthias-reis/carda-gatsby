@@ -1,15 +1,14 @@
 ---
 date: 2019-11-08T06:58:50.000Z
-slug: refused-thrice-petrol-girls-live-grosse-freiheit-36
-path: /2019/11/refused-thrice-petrol-girls-live-grosse-freiheit-36/
 type: Artikel
 typeName: Konzertbericht
 title: Refused, Thrice & Petrol Girls live @ Große Freiheit 36
 seoTitle: Refused, Thrice & Petrol Girls live @ Große Freiheit 36
 ogTitle: Refused, Thrice & Petrol Girls live @ Große Freiheit 36
-description: Am 05. November war es endlich soweit - Refused, Thrice und die Petrol Girls hatten in die Große Freiheit 36 geladen - ein genialer Abend.
-excerpt: Am 05. November war es endlich soweit - Refused, Thrice und die Petrol Girls hatten in die Große Freiheit 36 geladen - ein genialer Abend.
-fileName: 2019-11---refused-thrice-und-petrol-girls-live-grosse-freiheit-36.md
+description: Am 05. November war es endlich soweit - Refused, Thrice und die
+  Petrol Girls hatten in die Große Freiheit 36 geladen - ein genialer Abend.
+excerpt: Am 05. November war es endlich soweit - Refused, Thrice und die Petrol
+  Girls hatten in die Große Freiheit 36 geladen - ein genialer Abend.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-05-refused-thrice-petrol-girls-8__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-05-refused-thrice-petrol-girls-8__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKBAAAQQBBAEEAQUAAAAAAAAAAQIDBBEABRIhQRMGIjFhFkJRcYGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABoRAAMBAQEBAAAAAAAAAAAAAAABAhEhEzH/2gAMAwEAAhEDEQA/AMNgRZkjTVyGHWUstgb90lIJJ+KCkfXWJJpdEjastqKhdBaSK/mhmpelpMIwdOjcrVpzSnWb4BJQQSod98dHFnqHTIH5Cma68EuJSErbr2qNcGvoH4zBWk+o1c8+lE06OuRK2eNtW7ityRV/3nRrelyNFdchzmPG8k8gAKr/AHNSa0SKrTgwUx9z3g2LSgApC1GrIHW3KN60lNTJAksqSp1CbUUoATRPFjs3lek0+LEKozuieDrr8FxPjKNlKSULTwQoUQe+R95JquuHUpqpbjbbK1myhu9ooAdk/thhjxE6M43rSSxBZYaajoW0GwHSkqV7N1XZr9R6yuzJvm3BVc1Z+PjDDBSkG6f/2Q==
@@ -27,12 +26,11 @@ labels:
   - Straight Edge
   - Thrice
 focusKeyword: Refused
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: (Post-)Hardcore in Hamburg
+
 ---
 
 **Am 05. November war es endlich soweit - der Konzertabend, auf den wir uns schon so lange gefreut hatten, stand an. Refused und Thrice hatten in die Große Freiheit 36 geladen.**

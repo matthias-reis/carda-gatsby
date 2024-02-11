@@ -1,13 +1,14 @@
 ---
 date: 2016-11-26T08:34:58.000Z
-slug: von-blankenese-nach-altona
-path: /2016/11/von-blankenese-nach-altona/
 title: Von Blankenese nach Altona
 seoTitle: Von Blankenese nach Altona - Winterlicher Spaziergang an der Elbe
 ogTitle: Von Blankenese nach Altona - Winterlicher Spaziergang an der Elbe
-description: Was ich in Blankenese gemacht habe? Nicht so wichtig. Aber meinen Spaziergang an der Elbe möchte ich Euch nicht vorenthalten. Hier sind meine Bilder.
-excerpt: Was ich in Blankenese gemacht habe? Nicht so wichtig. Aber meinen Spaziergang an der Elbe möchte ich Euch nicht vorenthalten. Hier sind meine Bilder.
-fileName: 2016-11---von-blankenese-nach-altona.md
+description: Was ich in Blankenese gemacht habe? Nicht so wichtig. Aber meinen
+  Spaziergang an der Elbe möchte ich Euch nicht vorenthalten. Hier sind meine
+  Bilder.
+excerpt: Was ich in Blankenese gemacht habe? Nicht so wichtig. Aber meinen
+  Spaziergang an der Elbe möchte ich Euch nicht vorenthalten. Hier sind meine
+  Bilder.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_11_31117999676_031983210c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_11_31117999676_031983210c_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABhIhMUEHE2FRkSMzQlJxgcH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAcEQEAAwACAwAAAAAAAAAAAAABAAIREiEDE0H/2gAMAwEAAhEDEQA/AGNvntosyGalmWqIHunjkHP6lOO2Rp9t6hpq6NUoD+KewlLL0+vYAnUI2hcr/bnRdqX2ppW4HlBJmRCAc/lkMME/GqfBfN8PDckuMtFLNBAGU04anYsQT2ZSvbPgaVfN7DqS1ODjNvb9hVE19aou1PTiBenIxA8wfls/5rTRbRsFvqpHWGCNSpaSIw8lzjy5H8dANQ+9eot5s7yCttF0hlijVpS9QiqoYsFPIR4IODg5xrg/qDFXV9HTywQyGRWkdzc5Gj4cSADxToc48fTxrKze0QBJ7s29RWWukkLuqshWZlXLMPA+NaWj3upq6qcSB0liEXBnz+8E/Yj7aNGhyQyNBY+sPqS0W4quvqo6Z6OemgiaNwGASNpT/fVuoOlLbX2bX3lZIbzWQUdUj8o4wg9hirMDyPcBsdCvbz00aNLOtIPs/9k=
@@ -21,12 +22,11 @@ labels:
   - Treppenviertel
   - Winter
 focusKeyword: Blankenese
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Winterliche Elbe
+
 ---
 
 **"Was macht Anne in Blankenese? Ist sie jetzt unter die Reichen und Schönen gegangen?" - Ihr müsst mich jetzt nicht stalken, ich gehöre nach wie vor zum Pöbel. Nach Blankenese führte mich am Montag lediglich ein Arzttermin.**

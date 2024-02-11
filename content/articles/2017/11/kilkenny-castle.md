@@ -1,15 +1,16 @@
 ---
-date: 2017-11-05T19:48:02.000+00:00
-slug: kilkenny-castle
-path: '/2017/11/kilkenny-castle/'
+date: 2017-11-05T19:48:02.000Z
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Kilkenny Castle
 seoTitle: Kilkenny Castle - Ein Schloss mit vielen Gesichtern
 ogTitle: Kilkenny Castle - Ein Schloss mit vielen Gesichtern
-description: Das weltberühmte Kilkenny Castle befindet sich auf einer leichten Anhöhe oberhalb der Stadt. Es blickt auf eine lange, bewegte Geschichte zurück.
-excerpt: Das weltberühmte Kilkenny Castle befindet sich auf einer leichten Anhöhe oberhalb der Stadt. Es blickt auf eine lange, bewegte Geschichte zurück.
-fileName: 2017-11---kilkenny-castle.md
+description: Das weltberühmte Kilkenny Castle befindet sich auf einer leichten
+  Anhöhe oberhalb der Stadt. Es blickt auf eine lange, bewegte Geschichte
+  zurück.
+excerpt: Das weltberühmte Kilkenny Castle befindet sich auf einer leichten
+  Anhöhe oberhalb der Stadt. Es blickt auf eine lange, bewegte Geschichte
+  zurück.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_24313563518_96f22f71cc_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_24313563518_96f22f71cc_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYHCAIDBf/EACgQAAIBAgUDAwUAAAAAAAAAAAECBAMRAAUGEiExQVEUIuETMmGB8P/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgQF/8QAHxEAAgIBBAMAAAAAAAAAAAAAAAECAwQREjGRFCEy/9oADAMBAAIRAxEAPwCXtLy8rgRGWM1I0Tep9W4YbR1N/A84Z1zKm9IOjKVPIIPFuxxTLTuXal9VA2tDWFRcs9BpPBVuGWy9VPcYdtOUNYxGmvPzWmzyGV91KUw3WFgPt4AFrDtir5+Ovqa7HoWDzGejBQ7MjOwVCeNzHoB5PHTCZq6dFy+E8nM8wFKlYkhha9uw7k/gYjOZC1JIzChMrTKLtRsabGSzPTIN/adotziO9Q5Pqd65ecvqfcam95gaxJF7A9zYfwGE8+jiMl2LazDK83kJt2EqPF/jDJSz6ZSpg7wR4wYMYF9cdeCRrrallsxHnjr8Y5M/M5NVSzMP1gwYK64J+kB//9k=
@@ -30,14 +31,13 @@ labels:
   - travelling
   - serie:Irland 2017
 focusKeyword: Kilkenny Castle
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ein Schloss mit vielen Gesichtern
-year: '2017'
-month: '11'
+year: "2017"
+month: "11"
+
 ---
 
 **Das weltberühmte Kilkenny Castle steht auf einer leichten Anhöhe oberhalb der Stadt. Wir haben es bei unserer Irlandreise besucht und dabei einiges gelernt.**

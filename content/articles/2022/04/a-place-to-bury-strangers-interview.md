@@ -1,12 +1,17 @@
 ---
 date: 2022-04-06T14:49:10.567Z
-slug: a-place-to-bury-strangers-interview
 typeName: Interview
 title: A Place To Bury Strangers Gründer Oliver Ackermann
 subTitle: '"Irgendwann werden wir alle vegan leben"'
 seoTitle: A Place To Bury Strangers – Interview – Shoegaze – Vegan
-description: A Place To Bury Strangers Gründer Oliver Ackermann hat sich zu einem Interview bereiterklärt. Wir haben uns ausführlich über das neue Album "See Through You" und seine Entscheidung, vegan zu leben unterhalten.
-excerpt: A Place To Bury Strangers Gründer Oliver Ackermann hat sich zu einem Interview bereiterklärt. Wir haben uns ausführlich über das neue Album "See Through You" unterhalten. Außerdem habe ich ihm einige Fragen zu seiner veganen Lebensweise gestellt und er hat mir verraten, wie die aktuelle Tour läuft und was APTBS als Nächstes geplant haben.
+description: A Place To Bury Strangers Gründer Oliver Ackermann hat sich zu
+  einem Interview bereiterklärt. Wir haben uns ausführlich über das neue Album
+  "See Through You" und seine Entscheidung, vegan zu leben unterhalten.
+excerpt: A Place To Bury Strangers Gründer Oliver Ackermann hat sich zu einem
+  Interview bereiterklärt. Wir haben uns ausführlich über das neue Album "See
+  Through You" unterhalten. Außerdem habe ich ihm einige Fragen zu seiner
+  veganen Lebensweise gestellt und er hat mir verraten, wie die aktuelle Tour
+  läuft und was APTBS als Nächstes geplant haben.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-4-jpg-imagine-080808_000000_1024_768/640.webp
 copyright: Nick Sayers, Deathwish Photography
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-fb-png-imagine-080808_2d2d29_1200_628/640.webp
@@ -28,6 +33,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/04/a-place-to-bury-strangers-interview-en/
+
 ---
 
 **A Place To Bury Strangers Gründer Oliver Ackermann hat sich zu einem Interview bereiterklärt. Wir haben uns ausführlich über das neue Album "See Through You" unterhalten. Außerdem habe ich ihm einige Fragen zu seiner veganen Lebensweise gestellt und er hat mir verraten, wie die aktuelle Tour läuft und was APTBS als Nächstes geplant haben.**

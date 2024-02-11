@@ -1,14 +1,19 @@
 ---
 date: 2023-12-22T10:32:12.086Z
-slug: die-dorks-geschaeftsmodell-hass
 typeName: Review
-title: 'Die Dorks – "Geschäftsmodell Hass"'
+title: Die Dorks – "Geschäftsmodell Hass"
 subTitle: Hardcore/Metal mit anspruchsvollen Punk-Elementen
-seoTitle: 'Die Dorks – "Geschäftsmodell Hass" – Hardcore/Metal Review'
-description: Mit ihrem neuen Album "Geschäftsmodell Hass" spielen sich die Dorks ihre Wut von der Seele. Reinhören lohnt sich! Holt Euch jetzt hier spannende Insights!
-excerpt: Die Dorks haben ihr neues Album "Geschäftsmodell Hass" fertig. Es ist ihr inzwischen achter Langspieler. In diesem Artikel verrate ich Euch spannende Insights über die Band. Besonders, wenn Ihr Euch gerne mit Hardcore, Metal und Punk beschäftigt, wird Euch die Musik des Projekts aus Reut ganz sicher begeistern. Meine Empfehlung habt Ihr also schon mal.
+seoTitle: Die Dorks – "Geschäftsmodell Hass" – Hardcore/Metal Review
+description: Mit ihrem neuen Album "Geschäftsmodell Hass" spielen sich die Dorks
+  ihre Wut von der Seele. Reinhören lohnt sich! Holt Euch jetzt hier spannende
+  Insights!
+excerpt: Die Dorks haben ihr neues Album "Geschäftsmodell Hass" fertig. Es ist
+  ihr inzwischen achter Langspieler. In diesem Artikel verrate ich Euch
+  spannende Insights über die Band. Besonders, wenn Ihr Euch gerne mit Hardcore,
+  Metal und Punk beschäftigt, wird Euch die Musik des Projekts aus Reut ganz
+  sicher begeistern. Meine Empfehlung habt Ihr also schon mal.
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-22/die-dorks-soundsvegan-com-3-jpg-imagine-c8d8d8_a1b7c0_2048_1536/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-22/die-dorks-soundsvegan-com-og-jpg-imagine-c8d8d8_99adb4_1200_628/640.webp
 labels:
   - Band
@@ -24,6 +29,7 @@ focusKeyword: Die Dorks – "Geschäftsmodell Hass"
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die Dorks haben mir ihr inzwischen achtes Album "Geschäftsmodell Hass" zugesendet und ich habe es mir selbstverständlich angehört. An Euch geht hiermit eine Empfehlung raus. Einordnen lässt sich die Band aus Reut nicht wirklich, Ihr werdet Euch mit ihrer Musik wohlfühlen, wenn Ihr Euch gerne mit Hardcore, Metal, Punk oder dem Crossover der späten 1990er-Jahre beschäftigt.**

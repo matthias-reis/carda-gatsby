@@ -1,13 +1,13 @@
 ---
 date: 2020-12-17T11:12:22.000Z
-slug: kamala-harris-bald-vegan
-path: /2020/12/kamala-harris-bald-vegan/
 title: Kamala Harris bald vegan?
 seoTitle: Kamala Harris bald vegan? Petition fordert Vize-Präsidentin heraus
 ogTitle: Kamala Harris bald vegan? Petition fordert Vize-Präsidentin heraus
-description: Die gewählte Vize-Präsidentin der USA Kamala Harris soll sich ab Januar 2021 vegan ernähren. Das fordert eine kürzlich veröffentlichte Petition.
-excerpt: Die gewählte Vize-Präsidentin der USA Kamala Harris soll sich ab Januar 2021 vegan ernähren. Das fordert eine kürzlich veröffentlichte Petition.
-fileName: 2020-12---kamala-harris-bald-vegan.md
+description: Die gewählte Vize-Präsidentin der USA Kamala Harris soll sich ab
+  Januar 2021 vegan ernähren. Das fordert eine kürzlich veröffentlichte
+  Petition.
+excerpt: Die gewählte Vize-Präsidentin der USA Kamala Harris soll sich ab Januar
+  2021 vegan ernähren. Das fordert eine kürzlich veröffentlichte Petition.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_kamala-harris-wikimedia-commons__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_kamala-harris-wikimedia-commons__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAHBQj/xAAqEAABBAEDAwIGAwAAAAAAAAABAgMEEQUAEiEGEzEHQRQVIiMyUWGBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EACIRAAIBAwIHAAAAAAAAAAAAAAECAAMEESExEiIjQYGh0f/aAAwDAQACEQMRAD8AeZ+d8rkRQ/kIOPxbrZC3XgpLoc5KUpPAAISrjzxoiz1zEjYtuO5HhOZybk1w09+EF/aNLU8UirNGttjnz41kfqlmJSsP0/iXpanokd5SiEjg7aoWeTW9YF+LrRTKdSzMjMZkFSU/CvrfYCUhW0qq7v8AK9ou+Nb1mdWYA9hLVkIAI2M9KR3BnoOVgPqjpex7wa77McNhbRAWhRbBO0kWCAaNWPNaDvxg4qm0lalcAJFk/wBavTMzGOsHVZBzuKy0dGQYfaa7bTsdKSBSfAojaR7c67iXXGc628zIZZdQ+FJfbA2IN/kB4rSbRy1IcW8HUVUuGVNAdYOxMeNlpcSI7jo+QdQsr7LtLSdvmj/IH+azbruVCmdZ5aTh4bcGAt6mo7SQlKAkBJoAACyCa9r1atDruWfBGwHvPyJUYXzHfo9n5xKo778ZyNiojzUSO4PrqQ6hTlftILZNexWf3pc4oBJ8atWnWw6cORzkz//Z
@@ -20,12 +20,11 @@ labels:
   - vegan
   - vegan celebrities
 focusKeyword: Kamala Harris
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Petition fordert Vize-Präsidentin heraus
+
 ---
 
 **Die gewählte Vize-Präsidentin der USA Kamala Harris soll sich ab Januar 2021 vegan ernähren. Das fordert eine kürzlich veröffentlichte Petition.**

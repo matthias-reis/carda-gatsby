@@ -1,13 +1,13 @@
 ---
 date: 2020-12-22T17:12:17.000Z
-slug: musikliste-fuer-den-januar-2021
-path: /2020/12/musikliste-fuer-den-januar-2021/
 title: Musikliste für den Januar
 seoTitle: 12 Songs zum Start ins Jahr 2021 – Musikliste für den Januar
 ogTitle: 12 Songs zum Start ins Jahr 2021 – Musikliste für den Januar
-description: Die Musikliste für den Januar ist natürlich eine ganz besondere – von Post-Rock über Ambient bis hin zu Prog sind ausschließlich Highlights dabei.
-excerpt: Die Musikliste für den Januar ist natürlich eine ganz besondere – von Post-Rock über Ambient bis hin zu Prog sind ausschließlich Highlights dabei.
-fileName: 2020-12---musikliste-fuer-den-januar.md
+description: Die Musikliste für den Januar ist natürlich eine ganz besondere –
+  von Post-Rock über Ambient bis hin zu Prog sind ausschließlich Highlights
+  dabei.
+excerpt: Die Musikliste für den Januar ist natürlich eine ganz besondere – von
+  Post-Rock über Ambient bis hin zu Prog sind ausschließlich Highlights dabei.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_12-songs-januar__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_12-songs-januar__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKhAAAgEDAwQABQUAAAAAAAAAAQIDBAURABIxBhMhQQciUWGBFDJCUnH/xAAZAQABBQAAAAAAAAAAAAAAAAAAAQIDBAX/xAAjEQACAQIEBwAAAAAAAAAAAAABAgADIREiMXEEEkFhgaHB/9oADAMBAAIRAxEAPwDNCtVBZrmLhcWq3WhIgFRGH7QUjcFBOY/lK48Yb8DVU/XQU3TktLPRyd6qeOpWoZVwAjELt9qCN3PJI9andS9+RLjWRuwNOIaV40ZmCxngMT918D+O3GldHMklg7FSizmbDxSfteEgsu3PJU8kfYfTQubSKQRrI1pqWpKlJU27l/sMjW1P8V4ZOkhbJ7fDKka7chArE4HscZPk/wCax82iOW5ikt1WZ0aQRxySRiLeT4zjccD86cWzpla23V0kFyimkpghaGNCWBMjIRz6ClieMEfXTC6gYmWqfA16jcqDE7j1e/iLbrcWp7KsbK0lLVrH3o1lYCVl8gk+8Fm9c6X1TRRxUz0sZiglX5It27Z7IJ9+SdGjRSkVS5lio5Kbp7q2PvVLPRx4VqiOPLIxTzge8Z1zoKmeLqMXBZswAr3JHIDyQO2wlscnGM/TGjRoZQcx62mmrlKzUlsqMWG4+W37z//Z
@@ -44,12 +44,11 @@ labels:
   - Wes Borland
   - Wolf & Cub
 focusKeyword: Musikliste für den Januar – 12 Songs für den Start ins Jahr 2021
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: 12 Songs zum Start ins Jahr 2021
+
 ---
 
 **Kurz vor Abschluss des Jahres melden wir uns nochmal mit den Songs des Monats für Euch. Wir wünschen Euch einen guten Start in 2021 mit viel guter Musik.**

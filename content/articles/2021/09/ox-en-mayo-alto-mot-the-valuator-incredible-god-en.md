@@ -1,11 +1,12 @@
 ---
 date: 2021-09-07T02:00:56.517Z
-slug: ox-en-mayo-alto-mot-the-valuator-incredible-god-en
 typeName: Review
 title: '"Mot, the Valuator, Incredible God"'
 subTitle: New EP By Ox en Mayo Alto
 seoTitle: '"Mot, the Valuator, Incredible God" – New EP By Ox en Mayo Alto'
-description: The mathcore/post-rock band Ox en Mayo Alto just released a new EP!  "Mot, the Valuator, Incredible God" is no less spectacular than its predecessor "Los famosos días de la fiebre" and it also tells a big story.
+description: The mathcore/post-rock band Ox en Mayo Alto just released a new
+  EP!  "Mot, the Valuator, Incredible God" is no less spectacular than its
+  predecessor "Los famosos días de la fiebre" and it also tells a big story.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/white-house-stag-jpg-imagine-181808_756f43_1440_960/640.webp
 copyright: Ox en Mayo Alto
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/ox-en-mayo-alto-png-imagine-181808_726a3d_1200_628/640.webp
@@ -26,6 +27,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/09/ox-en-mayo-alto-mot-the-valuator-incredible-god/
+
 ---
 
 **The mathcore/post-rock band Ox en Mayo Alto just released a new EP! "Mot, the Valuator, Incredible God" is no less spectacular than its predecessor "Los famosos días de la fiebre" and it also tells a big story.**

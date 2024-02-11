@@ -1,14 +1,19 @@
 ---
 date: 2022-03-16T15:12:57.944Z
-slug: santaverde-balm-drops
 typeName: Produkttest
 title: Neuheiten von Santaverde
 subTitle: Allround Balm, Collagen Drops & Probiotic Drops
 seoTitle: Santaverde Allround Balm, Collagen Drops & Probiotic Drops
-description: Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich habe die Collagen Drops, die Probiotic Drops und das Allround Balm getestet und einiges über die veganen Beauty-Produkte in Erfahrung gebracht.
-excerpt: Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich habe die Collagen Drops, die Probiotic Drops und das Allround Balm getestet und einiges über die veganen Beauty-Produkte in Erfahrung gebracht. Wie alles von Santaverde, sind auch die Collagen Drops, die Probiotic Drops und der Allround Balm vegan und mit dem Leaping Bunny und dem Vegan Society Logo ausgezeichnet.
+description: Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich
+  habe die Collagen Drops, die Probiotic Drops und das Allround Balm getestet
+  und einiges über die veganen Beauty-Produkte in Erfahrung gebracht.
+excerpt: Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich habe
+  die Collagen Drops, die Probiotic Drops und das Allround Balm getestet und
+  einiges über die veganen Beauty-Produkte in Erfahrung gebracht. Wie alles von
+  Santaverde, sind auch die Collagen Drops, die Probiotic Drops und der Allround
+  Balm vegan und mit dem Leaping Bunny und dem Vegan Society Logo ausgezeichnet.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-16/santaverde-jpg-imagine-b8b8c8_a08a98_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-16/santaverde-fb-png-imagine-b8b8c8_9e9098_1200_628/640.webp
 labels:
   - Santaverde
@@ -30,6 +35,7 @@ focusKeyword: Santaverde
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Der Frühling ist da und mit ihm die Neuheiten von Santaverde. Ich habe die Collagen Drops, die Probiotic Drops und das Allround Balm getestet und einiges über die veganen Beauty-Produkte in Erfahrung gebracht.**

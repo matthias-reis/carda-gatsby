@@ -1,13 +1,12 @@
 ---
 date: 2015-08-17T09:39:09.000Z
-slug: ein-meer-aus-farben-fuer-die-tiere
-path: /2015/08/ein-meer-aus-farben-fuer-die-tiere/
 title: Ein Meer aus Farben für die Tiere
 seoTitle: Ein Meer aus Farben für die Tiere Bilder von Denise Slapansky
 ogTitle: Ein Meer aus Farben für die Tiere Bilder von Denise Slapansky
-description: Denise Slapansky setzt sich für die Rechte sogeannter "Nutztiere" ein. Ihre Kunstwerke zeigen sie in einem Meer aus Farben.
-excerpt: Denise Slapansky setzt sich für die Rechte sogeannter "Nutztiere" ein. Ihre Kunstwerke zeigen sie in einem Meer aus Farben.
-fileName: 2015-08---ein-meer-aus-farben-fuer-die-tiere.md
+description: Denise Slapansky setzt sich für die Rechte sogeannter "Nutztiere"
+  ein. Ihre Kunstwerke zeigen sie in einem Meer aus Farben.
+excerpt: Denise Slapansky setzt sich für die Rechte sogeannter "Nutztiere" ein.
+  Ihre Kunstwerke zeigen sie in einem Meer aus Farben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11868764_1006379319408813_651879278_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11868764_1006379319408813_651879278_n__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAsEAABBAAFAgUDBQAAAAAAAAABAgMEEQAFBhIhEzEUMlFhkQcVQRciI0Ji/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQCBQYH/8QAKxEAAgADBQUJAAAAAAAAAAAAAQIAETEDBCFB0QUSE1GRFCJhcYGiwfDx/9oADAMBAAIRAxEAPwDs2sM6cy98BtTheLW5tHUKUlQs/uIxNoz6Y9ODMVyUVNJSp5Tq3CgnmwkDkgjmx24w51S2zK1GyhbjltRd5aTwFWSLv8mrFdsQeoJr2R6mlTIp3LkMspS2TRcUAsUCB3pPxjmd9mb9aqGM5kjE8xhLl9pFyrFbEMKT+NZwwXquVJYklmY9DlOsnYlTwcS2sCyRZFiiPnDLRuZuSs9ZblZvKkT/AAKVvRlKIaCSBSgntd/m+cRP3FyPEktyVIZkpBStrppWFFY5Cu57ivc4Z/TNQGqY5LSG3Pt6m17E0m07eAfXmyB2v3w5s9G7TZkMZTGdeuUoFagIm+alSPcMqZ+cXmoNPLn59HzRucphTbHR6Yb3BQ55u/8AWE+b6KOcrjKk5htMcf1Y8x2FF+bjgn5wYMbEbKulq3FdO9zmdfGFCx3eHlrGD9Mm/HrmnNnC6tvpq/hHqST5vQkYZ6a0ejT8pl1qYp1DKFoQ2W9tb6vm/YfGDBgq7LutmQ6piKYnL1iDMXM2r+aDpH//2Q==
@@ -22,12 +21,11 @@ labels:
   - Tierrechte
   - Tierschutz
 focusKeyword: Tiere
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Bilder von Denise Slapansky
+
 ---
 
 **Vor Kurzem berichtete ich hier im Blog über eine sehr liebe Dame, die vegane Häkelmützen mit Statement[^1] herstellt und sich für die Rechte der Tiere einsetzt. Denise Slapansky stellte mir jetzt ihr neuestes Projekt vor.**

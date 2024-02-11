@@ -1,13 +1,14 @@
 ---
-date: 2017-07-22T08:00:08.000+00:00
-slug: blind-date-summerwine
-path: '/2017/07/blind-date-summerwine/'
+date: 2017-07-22T08:00:08.000Z
 title: Blind Date mit einem Song
 seoTitle: Blind Date mit einem Song - Summerwine von Nancy Sinatra
 ogTitle: Blind Date mit einem Song - Summerwine von Nancy Sinatra
-description: Während ich diese Zeilen schreibe, habe ich ein Blind Date. Wie es dazu kam? Man lud mich ein, einen Song zu hören und eine Geschichte darüber zu schreiben.
-excerpt: Während ich diese Zeilen schreibe, habe ich ein Blind Date. Wie es dazu kam? Man lud mich ein, einen Song zu hören und eine Geschichte darüber zu schreiben.
-fileName: 2017-07---blind-date-mit-einem-song.md
+description: Während ich diese Zeilen schreibe, habe ich ein Blind Date. Wie es
+  dazu kam? Man lud mich ein, einen Song zu hören und eine Geschichte darüber zu
+  schreiben.
+excerpt: Während ich diese Zeilen schreibe, habe ich ein Blind Date. Wie es dazu
+  kam? Man lud mich ein, einen Song zu hören und eine Geschichte darüber zu
+  schreiben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_agriculture-2178352_1920__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_agriculture-2178352_1920__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgECB//EACkQAAIBAwMDBAEFAAAAAAAAAAECAwQFEQAGIRIxQRMUIlFhBxUyUqH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQP/xAAhEQACAgIBBAMAAAAAAAAAAAABAgADESHBBBIxUWGR8P/aAAwDAQACEQMRAD8AxV1VgmvRrLY9PXW/PufTWYNLFhgHXLgA9zgc9WPxpfc3tbZa4LlZqJ3pax5UhllMaimmYL8iGHTn+XGMDB57a3msVVUQiaikV3c+pKxhVV57AFeG7LyMDk/WrHvCirbhtFLTHFEsEcYaCeCINJG6gggseQWJxkLxxoq3IpUA5k5K3ZiXGOYtbI7ZVbY23Pc6VOudWZlokQc/IkY+sleCcjJ+jhuooo7PtHZxqJY453cH1nkWIyscs8Cj+nHGfOqJZ/3WXclthu0Ettno6ZfSDIWKJHTllRR4JHyIOckn8jU/vTaEVJtilmu1QatHV56dmVZOtWjDfFjgpz4zk9PfSGpAYb+fuJQYrY48kSdq7DbLVMjW2GeNKOBaaNZahpcIWdSq57DCA455OdKQXOoiv1Ba2cuKmogeCUgA04LHK4x8lzGCM8jJ5OjRoC7sYH9uPZR2qfZ4kJ+plwna42y4QiKCpvVtmjlZFJ6SrkFuTySOPGBjXTdtbdtlbsjb01XFPJKlNT1St7h8CQeQucAHyMYP+6NGqIcnpkPscTE1qLnXGsz/2Q==
@@ -23,16 +24,15 @@ labels:
   - Sommer
   - Song
   - Summerwine
-  - 'serie: Musikalisches Blind Date'
+  - "serie: Musikalisches Blind Date"
 focusKeyword: Blind Date
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Summerwine" von Nancy Sinatra'
-year: '2017'
-month: '07'
+year: "2017"
+month: "07"
+
 ---
 
 **Während ich diese Zeilen schreibe, habe ich ein Blind Date. Wie es dazu kam? Jüngst wurde ich von Björn von Gartenbaukunst _\*_ eingeladen, bei einer ganz besonderen Bloggeraktion mitzuwirken. Es geht dabei um Musik und was sie mit einem macht. Für mich war also von Anfang an klar, dass ich mitmachen würde.**

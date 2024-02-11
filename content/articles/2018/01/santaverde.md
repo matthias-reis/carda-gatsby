@@ -1,19 +1,22 @@
 ---
-date: 2018-01-22T06:47:08.000+00:00
-slug: santaverde
-path: '/2018/01/santaverde/'
+date: 2018-01-22T06:47:08.000Z
 type: Artikel
 typeName: Produkttest
 title: Santaverde Naturkosmetik
-seoTitle: Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf Aloe Vera Basis
-ogTitle: Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf Aloe Vera Basis
-description: Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich habe die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein Testbericht.
-excerpt: Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich habe die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein Testbericht.
-fileName: 2018-01---santaverde-naturkosmetik.md
+seoTitle: Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf
+  Aloe Vera Basis
+ogTitle: Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf
+  Aloe Vera Basis
+description: Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich
+  habe die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein
+  Testbericht.
+excerpt: Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich
+  habe die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein
+  Testbericht.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-8__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-8__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBggH/8QAKBAAAQQBBAEDBAMAAAAAAAAAAQIDBAURAAYSITEHQVETFSIyYaGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBP/EABwRAQACAgMBAAAAAAAAAAAAAAEAAgMRBBIhIv/aAAwDAQACEQMRAD8A0hLllOe9UDcfqVWUd9JqpkaYp5hpp1TjakcSHCQMAqz5GPGmG8b+TXykwq6K09KUElTjyjwbBz2QOyQB/Y1yfdt1t6Xeyn7iuD8iRFaBUh7gGi3lZHf7AHx/ujubCab8TLTEZrHyy5QfWanlbhg0rVbbImzHW2Eqc+lwbWvxywrPXvjXTa2a649xddCsJPQQEj21l+iu9pztwQrGr2rKrVNWkVa7GW+C2xlffI598jWka1C0LCnCgKII/E9e3zp79mfSG2NrKmr5qwuXEZdWBjkod4+MjUH7TDZADMdlsJ8BKB1o0aZKclkKq6kWZtmmsnQuxrIUtYIPJ5hKj14z84/nT6NDZRjihIAGAAnGNGjQyVXxn//Z
-ogImage:
+ogImage: null
 labels:
   - Aloe Vera
   - aloepur
@@ -47,12 +50,11 @@ labels:
   - Vegan Society
   - vegane Pflege
 focusKeyword: Santaverde
-status: publish
 advertisement: true
 affiliate: true
 language: de
-errors: {}
 subTitle: Zertifizierte vegane Schönheitspflege auf Aloe Vera Basis
+
 ---
 
 **"Deine Haut braucht Feuchtigkeit! Versuch doch mal, was zu finden, mit dem sie die nach dem Eincremen auch hält! Dann strahlt sie bestimmt bald wieder!"**

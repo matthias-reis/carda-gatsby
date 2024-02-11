@@ -1,13 +1,14 @@
 ---
 date: 2020-06-04T09:42:23.000Z
-slug: fleischfreie-ernaehrung-neuseeland
-path: /2020/06/fleischfreie-ernaehrung-neuseeland/
 title: Fleischfreie Ernährung
 seoTitle: Fleischfreie Ernährung - neuer Unterricht in Neuseelands Schulen
 ogTitle: Fleischfreie Ernährung - neuer Unterricht in Neuseelands Schulen
-description: Fleischfreie Ernährung und Klimaschutz steht jetzt in Neuseelands Sekundarschulen fest auf dem Stundenplan. Die Initiative ist Teil eines neuen Programms.
-excerpt: Fleischfreie Ernährung und Klimaschutz steht jetzt in Neuseelands Sekundarschulen fest auf dem Stundenplan. Die Initiative ist Teil eines neuen Programms.
-fileName: 2020-06---fleischfreie-ernaehrung.md
+description: Fleischfreie Ernährung und Klimaschutz steht jetzt in Neuseelands
+  Sekundarschulen fest auf dem Stundenplan. Die Initiative ist Teil eines neuen
+  Programms.
+excerpt: Fleischfreie Ernährung und Klimaschutz steht jetzt in Neuseelands
+  Sekundarschulen fest auf dem Stundenplan. Die Initiative ist Teil eines neuen
+  Programms.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_fleischfreie-ernaehrung__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_fleischfreie-ernaehrung__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABhIhMUETIoEHURQjMmFxscH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQAC/8QAHBEAAgMBAAMAAAAAAAAAAAAAAAECAxEhBDFx/9oADAMBAAIRAxEAPwDBsiPMFLkgMEUfOAf91a9uUivajkYZSeo1C9sbitkECpLLHFnvyB7gkj+8fGnal+odFTbiskUP4xqMGZ5kp2QRzErxAIcjITBboe5+NBY9foOt9GO6UUkU2QuEGcHwf4++phv6FFKsD0J6/bXcXftnbct6rKiiCTvF6PFKw1CFYyPTfgD7S3JvGMAde+lLct/obgF/PKDGfeMfOpVumlInlPE8EccrpJl/0q6EY8ee+u9b6KKsvNtStlUGBJFbOcgtgL0I64OTo0aO2Tbz6GnhpqbHa7ff7hVwTz1C1SAKw4hVfl7u3gLjH7nSlcnjjdwjBVyfby86NGuvHk2usr6f/9k=
@@ -21,12 +22,11 @@ labels:
   - vegan
   - vegane Ernährung
 focusKeyword: fleischfreie Ernährung
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Neuseelands Schulen gegen den Klimawandel
+
 ---
 
 **Neuseeland möchte, dass Schüler weniger Fleisch essen, um das Klima zu schützen. Darum wird jetzt in den Schulen unterrichtet, wie man sich ohne Fleisch und Milch ernährt.**

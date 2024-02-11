@@ -1,11 +1,13 @@
 ---
 date: 2021-04-14T10:52:41.547Z
-slug: yagow-the-mess-review-en
 typeName: Review
 title: '"The Mess"'
 subTitle: New Yagow Album In June
 seoTitle: '"The Mess" – New Yagow Album In June'
-description: Yagow are planning a release for June that really has it all. I have already listened to "The Mess", and I have to say that I am fascinated by the album's versatility. After "s/t" from 2017, "The Mess" is the second LP by the German band from Saarbrücken.
+description: Yagow are planning a release for June that really has it all. I
+  have already listened to "The Mess", and I have to say that I am fascinated by
+  the album's versatility. After "s/t" from 2017, "The Mess" is the second LP by
+  the German band from Saarbrücken.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-04-yagow-l-jpeg-imagine-d8c8d8_959098_1440_1080/640.webp
 copyright: Yagow
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-04-yagow-fb-png-l-jpg-imagine-080808_6f6363_1440_754/640.webp
@@ -32,6 +34,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/04/yagow-the-mess-review
+
 ---
 
 ## "The Mess" – new album by Yagow

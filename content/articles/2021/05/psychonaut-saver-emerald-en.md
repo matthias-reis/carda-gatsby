@@ -1,7 +1,6 @@
 ---
 templateKey: article
 date: 2021-05-06T13:14:08.239Z
-slug: psychonaut-saver-emerald-en
 typeName: Review
 title: '"Emerald" by Psychonaut & Sâver'
 subTitle: The new Pelagic split LP
@@ -38,6 +37,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/05/psychonaut-saver-emerald
+
 ---
 
 **Psychonaut and Sâver have joined forces to release an excellent split LP on Pelagic Records on May 14th. The result of their collaboration is called "Emerald" - I've already had a listen.**

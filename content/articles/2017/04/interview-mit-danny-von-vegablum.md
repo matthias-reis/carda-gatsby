@@ -1,15 +1,18 @@
 ---
-date: 2017-04-19T09:40:43.000+00:00
-slug: interview-mit-danny-von-vegablum
-path: '/2017/04/interview-mit-danny-von-vegablum/'
+date: 2017-04-19T09:40:43.000Z
 type: Artikel
 typeName: Interview
 title: Vegablum Gründerin Danny
-seoTitle: Vegablum Gründerin Danny im Interview - "Wir möchten etwas Gutes tun, keinen Benz kaufen"
-ogTitle: Vegablum Gründerin Danny im Interview - "Wir möchten etwas Gutes tun, keinen Benz kaufen"
-description: Wie verrückt habt Ihr meinen Blog gestürmt, als der Produkttest zu Vegablum (veganer Honig) erschien. Daher gibt es heute ein Interview mit Gründerin Danny.
-excerpt: Wie verrückt habt Ihr meinen Blog gestürmt, als der Produkttest zu Vegablum (veganer Honig) erschien. Daher gibt es heute ein Interview mit Gründerin Danny.
-fileName: 2017-04---vegablum-gruenderin-danny.md
+seoTitle: Vegablum Gründerin Danny im Interview - "Wir möchten etwas Gutes tun,
+  keinen Benz kaufen"
+ogTitle: Vegablum Gründerin Danny im Interview - "Wir möchten etwas Gutes tun,
+  keinen Benz kaufen"
+description: Wie verrückt habt Ihr meinen Blog gestürmt, als der Produkttest zu
+  Vegablum (veganer Honig) erschien. Daher gibt es heute ein Interview mit
+  Gründerin Danny.
+excerpt: Wie verrückt habt Ihr meinen Blog gestürmt, als der Produkttest zu
+  Vegablum (veganer Honig) erschien. Daher gibt es heute ein Interview mit
+  Gründerin Danny.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_34095028326_e784ddd282_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_34095028326_e784ddd282_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEAgX/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGIjEHE1EVQWEjMpGh8f/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAgEQABAwQCAwAAAAAAAAAAAAABAAIDERIh0TGxQYGh/9oADAMBAAIRAxEAPwAZF0kl6MiWa22iV4EVpKWCICRhuUHJJDDkEeDzr1OqenuiOnqmqpp6OKRkpX9oSIY2Zy+EbdgFiD5xxjHwTrZLYL3NcnrZ6uB5nYuQ1ZVSNuJOcd4OT4xofX3aK53VPrFSyPT9lUlQqvBNjJVWcg7SM/c4PzxqGaOQEEuPo6VkD43EkN+bW2l9Pun7vNItNXJb4+JYleF5d6iMGTJyD2kNnHBxxrNcPTygold1rEkgK5VolmifdjJ4YlQB8ZzpNa556qkp6qO900COMJHJC0uNoxx+pwDjyFAP51xdbhPKns1XUMRZmGAlMFLHzjlif80xkUxzf1pKc+OtLe9o7brlS01VBUx2yEyQlir1Fc7/ALvOQFAP3xkcZ40Dr71cayurKzAAkBRkK+F7nA/J88+eNWrW2moygcYCS0XqHdjTIDXSGaIHB2byq7RjuPKoMYx/GlNqudZdJI54aierVFZmQbIpGUZyUOzIxyc/1zq1aXO8sFQhxbTyV//Z
@@ -53,13 +56,12 @@ labels:
   - Vonig
   - Bienen
 focusKeyword: Vegablum
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Wir möchten Gutes tun und keinen Benz kaufen
 advertisement: true
+
 ---
 
 **Was genau [Vonig](/2017/04/veganer-honig-vegablum/) ist und wie der [vegane Honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/) hergestellt wird, habe ich Euch vor Kurzem schon verraten. Jetzt habe ich mich mit der Gründerin der veganen Manufaktur Vegablum zum Interview verabredet.**

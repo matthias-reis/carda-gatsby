@@ -1,19 +1,18 @@
 ---
-date: 2012-08-04T13:35:18.000+00:00
-slug: fabelwesen
-path: '/2012/08/fabelwesen/'
+date: 2012-08-04T13:35:18.000Z
 type: Galerie
 typeName: Galerie
 title: Fabelwesen
 seoTitle: Wilde Fabelwesen im Eden Project im englischen St. Austell
 ogTitle: Wilde Fabelwesen im Eden Project im englischen St. Austell
-description: Im Eden Projekt in St. Austell sind mir ein paar sehr interessante Fabelwesen begegnet. Sie haben sich sogar fotografieren lassen.
-excerpt: Im Eden Projekt in St. Austell sind mir ein paar sehr interessante Fabelwesen begegnet. Sie haben sich sogar fotografieren lassen.
-fileName: 2012-08---fabelwesen.md
+description: Im Eden Projekt in St. Austell sind mir ein paar sehr interessante
+  Fabelwesen begegnet. Sie haben sich sogar fotografieren lassen.
+excerpt: Im Eden Projekt in St. Austell sind mir ein paar sehr interessante
+  Fabelwesen begegnet. Sie haben sich sogar fotografieren lassen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0159__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0159__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKRAAAQMCBQIHAQEAAAAAAAAAAQIDBAURAAYSITETFAcVIjJBUXEjYf/EABgBAAIDAAAAAAAAAAAAAAAAAAAEAQID/8QAHhEAAgAGAwAAAAAAAAAAAAAAAAECAxESEyExQVH/2gAMAwEAAhEDEQA/ANzBqMKAw7kxK1pVI1zkOn+KZDafU4kXF9QVbjnfewINKiNETmeTQGGnJtDkUzv2Y8l9SkRurILWs6N72SmwvqSDzfbGhz9l9qZkOPmalvSPNKSUVJmU0twrUCg9RItaybLJskD2/wC4U/hE69Vc6VHzBh15x6BIb7iQAz7VpdSTckgXSSeSL/N8LY6LZJCrFNVFmKEdlMqMonQOi46hshRulKhz8XP3+YMNGp5WeTUCtFIZlMONIUymbLcR00bgBISL72J9VuRtzgxha1oCqzl4jZjiZJitU3puSagt/SmKkFbcRlHrXp3CTYE23AAJ3vjmeozlyKm4+4txepQWVPr1G4FtRP5h2UWuxILMypQpFORVWmTES/JCnEdBwgnSkbXVa1yDsLYU1Zy9Kdlq7dEdMQ7IAcAVY8k/ZwzKmOJKvPYDryufEKj5OoveUJyuQZjPdxFCQFLYSuxKVhSklNxoVbcb/BuMGNflPOzE+nIdeVSIpbQhhEWRKJU0hAsm5UBuR9bcYMMYYXupS5+H/9k=
-ogImage:
+ogImage: null
 labels:
   - Bilder
   - Britische Inseln
@@ -27,12 +26,11 @@ labels:
   - Kunst
   - serie:England 2012
 focusKeyword: Fabelwesen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 8/9
+
 ---
 
 _ [Teil 7/9](/2012/08/eden-project-2/) _ Gesehen im Eden Project, St. Austell, England 6/2012

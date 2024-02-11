@@ -1,23 +1,20 @@
 ---
 ogTitle: Abschied von Wordpress
-excerpt: Nicht nur mein Blog zieht um, sondern auch Matze und ich. Vom Süden geht es in den hohen Norden.
+excerpt: Nicht nur mein Blog zieht um, sondern auch Matze und ich. Vom Süden
+  geht es in den hohen Norden.
 ogImage: null
 isAffiliate: false
-path: /2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAtEAACAgEDAgMGBwAAAAAAAAABAgMEEQAFEgYhE0FhFCIxUXGBBxUjJKHB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhEhAxL/2gAMAwEAAhEDEQA/ALr4ASIyFHcL34opYn7DWcer7FmS9c/MEstdFhGlsw5Zqp84lyceY7DGPnrU9ZAAn1Gp10RDWg2bdLu6LFExuT+I8oChMOc5z/est+VY+YM/CbqNOoaVjbpJWlmoIoV7B/cSJk+84yR8hkf7pm3SmEzjS3Hf2ur1psr12gSe7IUXgvFpUIx6dvh/GnbdUBjbTTvQzVMO1pA0YPloH1BQry0LMYrQWo5GLtFIAVZvXSXb3y027bTxkPCfxlKq3uBePJfqRx+PqdHN337hWYV1Usi5AJxkny1GUrxFYR86BCiX+sthprSFZtvh/VlaIKhUYIWMn1AGnPd5OMb8uxxqZeyWrrS+3W+c/YcweXEDvrk6Pv2aaTbbYsvNEhnVQ7ZwVkPw+x1SLyg9Fen/2Q==
 isWerbung: false
-fileName: 2015-03---zum-abschied-sag-ich-ganz-laut-tschuess.md
-slug: zum-abschied-sag-ich-ganz-laut-tschuess
-errors: {}
 date: 2015-03-04T11:31:39.000Z
 focusKeyword: Abschied
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__m.jpg
 title: Zum Abschied sag' ich ganz laut tschüss!
-subTitle: 'Teil IV: Der Abschied'
+subTitle: "Teil IV: Der Abschied"
 seoTitle: Abschied von Wordpress
-description: Zum Abschied sage ich tschüss, wie man das in Hamburg eben so tut - Doch es ist kein richtiger Abschied...
+description: Zum Abschied sage ich tschüss, wie man das in Hamburg eben so tut -
+  Doch es ist kein richtiger Abschied...
 labels:
   - Abschied
   - Abschied von Wordpress
@@ -31,6 +28,7 @@ labels:
   - vegan
   - verabschieden
 language: de
+
 ---
 
 ## soundsvegan.com schon bald in neuem Gewand

@@ -1,14 +1,18 @@
 ---
 date: 2022-06-28T15:23:10.949Z
-slug: playlist-juli-2022
 typeName: Beitrag
 title: Playlist Juli 2022
 subTitle: Von Russian Circles bis Mono
 seoTitle: Playlist Juli – Von Russian Circles bis Mono
-description: Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich für Euch wieder 12 Songs selektiert, die es ganz schön in sich haben – von Post-Rock über Post-Metal bis Ambient und Emo.
-excerpt: 'Was in vier Wochen alles passieren kann – ich sage es  Euch. Man sieht das auch perfekt an der Zahl der Songs und Alben, die schon wieder neu erschienen sind: Wie soll man da noch hinterherkommen? 12 Stück davon habe ich gemeinsam mit meinen beiden Lieblings-Musikfans für Euch selektiert.'
+description: Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich für Euch
+  wieder 12 Songs selektiert, die es ganz schön in sich haben – von Post-Rock
+  über Post-Metal bis Ambient und Emo.
+excerpt: "Was in vier Wochen alles passieren kann – ich sage es  Euch. Man sieht
+  das auch perfekt an der Zahl der Songs und Alben, die schon wieder neu
+  erschienen sind: Wie soll man da noch hinterherkommen? 12 Stück davon habe ich
+  gemeinsam mit meinen beiden Lieblings-Musikfans für Euch selektiert."
 image: https://storage.googleapis.com/cardamonchai-media/2022-06-28/12-songs-juli-jpeg-imagine-181818_6f6361_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-06-28/12-songs-juli-fb-jpeg-imagine-181818_6a6061_1200_628/640.webp
 labels:
   - Jaani Peuhu
@@ -42,6 +46,7 @@ focusKeyword: Von Russian Circles bis Mono
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Was in vier Wochen alles passieren kann – ich sage es Euch. Man sieht das auch perfekt an der Zahl der Songs und Alben, die schon wieder neu erschienen sind: Wie soll man da noch hinterherkommen? 12 Stück davon habe ich gemeinsam mit meinen beiden Lieblings-Musikfans für Euch selektiert.**

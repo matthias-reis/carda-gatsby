@@ -1,44 +1,41 @@
 ---
-date: 2018-05-02T05:25:56.000+00:00
-slug: naturehome-rosenseife
-path: "/2018/05/naturehome-rosenseife/"
+date: 2018-05-02T05:25:56.000Z
 type: Artikel
 typeName: Produkttest
 title: Naturehome
 seoTitle: Beauty-Liebling - Rosenseife von Naturehome - Bio Damaszener Rosen
 ogTitle: Beauty-Liebling - Rosenseife von Naturehome - Bio Damaszener Rosen
-description: Habt Ihr auch solche Beauty-Lieblinge, an denen ihr Euch jeden Tag neu
-  erfreuen könnt? Für mich ist die Rosenhandseife aus dem Hause Naturehome so ein
-  Fall.
-excerpt: Habt Ihr auch Beauty-Lieblinge, an denen ihr Euch jeden Tag neu erfreuen
-  könnt? Für mich ist die Rosenhandseife aus dem Hause Naturehome so ein Fall.
-fileName: 2018-05---naturehome.md
+description: Habt Ihr auch solche Beauty-Lieblinge, an denen ihr Euch jeden Tag
+  neu erfreuen könnt? Für mich ist die Rosenhandseife aus dem Hause Naturehome
+  so ein Fall.
+excerpt: Habt Ihr auch Beauty-Lieblinge, an denen ihr Euch jeden Tag neu
+  erfreuen könnt? Für mich ist die Rosenhandseife aus dem Hause Naturehome so
+  ein Fall.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_40776722755_001dac257f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_40776722755_001dac257f_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEESEABRIGEzEiQXEHFFGBFTJh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgb/xAAkEQABAgUEAgMAAAAAAAAAAAABAgMABBExQQUSIVGB8BNhsf/aAAwDAQACEQMRAD8Ag9r27uqSyqnMAILM3qP5B8XCm585xqmpunIpI1RZEFY0qKtMoJ5KVJYm+BxOPnSdDukG1bXOsc0TGsiSN0ZCTMg9RwTgg2yAB+9VnTm6RpV0s8EtMJYY07ID2aQknLgYLAcvSc5uL6KVJSkkYiKNPm3wh3YfjUQK04qSc+L2xzl/6i9O06UFE9EjRwdlIpVKGwe4sbW/rk3zfA1ku87LDGkjO/bqLoyQ8Cbq2WBvheIIP7FtbP1j1HuY2OaRCkKshQkXcEMLG4a44/n/ADWYzzx/xcEU6FU5GSRTEQSLcQFyDxxn599ZaO5JgmotKlHwDkeOvr3uGukl6bXpakO8GGavmN3M0hV0k5XCjOE9vHi+rHet92VZY02+ipjUpGjl6aNCkVnAMfPHt40aNJCXBWaqMdAufeYlwpJtS/uMRzutNyNbTQ03beKQlWZZ08Le3IqTkX9vfUDXzLSSfbRkyCJ1F3HEG1+QK5OSTi/x4GjRptlO1MQp15Uw8FLuOP2P/9k=
-ogImage: 
+ogImage: null
 labels:
-- Beauty-Lieblinge
-- Bio-Kosmetik
-- Damaszener Rosen
-- Fair Fashion & Beauty
-- Flüssigseife vegan
-- Handseife
-- Naturehome
-- Naturehome Seife
-- Naturkosmetik
-- vegan
-- vegan beauty
+  - Beauty-Lieblinge
+  - Bio-Kosmetik
+  - Damaszener Rosen
+  - Fair Fashion & Beauty
+  - Flüssigseife vegan
+  - Handseife
+  - Naturehome
+  - Naturehome Seife
+  - Naturkosmetik
+  - vegan
+  - vegan beauty
 focusKeyword: Naturehome
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Vegane Rosenseife
 advertisement: true
 
 ---
+
 **Habt Ihr auch Beauty-Lieblinge, an denen ihr Euch einfach jeden Tag neu erfreuen könnt? Für mich ist die Rosenhandseife aus dem Hause Naturehome so ein Fall.**
 
 <RemoteImage

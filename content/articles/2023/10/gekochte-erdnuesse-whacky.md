@@ -1,14 +1,17 @@
 ---
 date: 2023-10-11T08:09:53.766Z
-slug: gekochte-erdnuesse-whacky
 typeName: Produkttest
 title: Whacky Peanuts
 subTitle: Gekochte Erdnüsse für mehr Geschmack
-seoTitle: 'Gekochte Erdnüsse von Whacky: So schmecken sie'
-description: Gekochte Erdnüsse sind ein neuer Streetfood-Trend, den Ihr jetzt auch zu Hause genießen könnt. Erfahrt jetzt alles über den gesunden Snack.
-excerpt: Gekochte Erdnüsse – schon mal gehört? Whacky hat dafür gesorgt, dass der beliebte Streetfood-Trend endlich auch zu uns rübergeschwappt ist. Ich habe die Sorten "Salted Caramel", "Umami" und "Teryaki" probiert. Sie sind nicht nur gesund, sondern obendrein ziemlich lecker.
+seoTitle: "Gekochte Erdnüsse von Whacky: So schmecken sie"
+description: Gekochte Erdnüsse sind ein neuer Streetfood-Trend, den Ihr jetzt
+  auch zu Hause genießen könnt. Erfahrt jetzt alles über den gesunden Snack.
+excerpt: Gekochte Erdnüsse – schon mal gehört? Whacky hat dafür gesorgt, dass
+  der beliebte Streetfood-Trend endlich auch zu uns rübergeschwappt ist. Ich
+  habe die Sorten "Salted Caramel", "Umami" und "Teryaki" probiert. Sie sind
+  nicht nur gesund, sondern obendrein ziemlich lecker.
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-11/gekochte-erdnuesse-09-jpg-imagine-e8e8e8_96854a_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-11/gekochte-erdnuesse-og-jpeg-imagine-080808_8a8177_1200_630/640.webp
 labels:
   - Protein
@@ -19,6 +22,7 @@ focusKeyword: gekochte Erdnüsse
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Gekochte Erdnüsse – schon mal gehört? Whacky hat dafür gesorgt, dass der beliebte Streetfood-Trend endlich auch zu uns rübergeschwappt ist. Ich habe die Sorten "Salted Caramel", "Umami" und "Teryaki" probiert.**

@@ -1,11 +1,13 @@
 ---
 date: 2021-07-14T11:39:27.875Z
-slug: kollapse-interview
 typeName: Interview
 title: Kollapse
 subTitle: '"Bei Musik geht es um Emotionen"'
 seoTitle: Kollapse im Interview – "Bei Musik geht es um Emotionen"
-description: Vor ein paar Tagen habe ich Euch das neue Kollapse Album "Sult" empfohlen. Jetzt hatte ich die Gelegenheit, mich mit dem Post-Hardcore Trio aus Dänemark zu unterhalten. Im Interview haben wir auch über die aktuellen Tourpläne der Band gesprochen.
+description: Vor ein paar Tagen habe ich Euch das neue Kollapse Album "Sult"
+  empfohlen. Jetzt hatte ich die Gelegenheit, mich mit dem Post-Hardcore Trio
+  aus Dänemark zu unterhalten. Im Interview haben wir auch über die aktuellen
+  Tourpläne der Band gesprochen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-3-jpg-imagine-484848_000000_1024_768/640.webp
 copyright: Kollapse
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-fb-1-jpg-imagine-484848_000000_1200_628/640.webp
@@ -26,6 +28,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/07/kollapse-interview-en/
+
 ---
 
 **Vor ein paar Tagen habe ich Euch das neue Kollapse Album "Sult" empfohlen. Jetzt hatte ich die Gelegenheit, mich mit dem Post-Hardcore Trio aus Dänemark zu unterhalten. Im Interview haben wir auch über die Tourpläne der Band gesprochen.**

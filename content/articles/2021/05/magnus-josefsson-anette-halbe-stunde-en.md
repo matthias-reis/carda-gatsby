@@ -32,7 +32,6 @@ labels:
   - Vegan Artists
   - The Mirror Factory
 language: en
-slug: magnus-josefsson-anette-halbe-stunde-en
 typeName: Interview
 title: '"Anette Halbe Stunde"'
 subTitle: Interview With (Sound) Architect Magnus Josefsson
@@ -56,6 +55,7 @@ focusKeyword: Anette Halbe Stunde
 advertisement: false
 affiliate: false
 languageLink: /2021/05/magnus-josefsson-anette-halbe-stunde
+
 ---
 
 **When I asked Magnus Josefsson what topics he would like to discuss in our interview, he brought up the Bullerby Syndrome. Not only was I curious about his connection to Astrid Lindgren, but I also wanted to know a bit more about the vegan (sound) architect from Sweden who has worked with so many exceptional artists and lived in Weimar once.**

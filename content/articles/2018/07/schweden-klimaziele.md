@@ -1,13 +1,12 @@
 ---
 date: 2018-07-24T14:54:12.000Z
-slug: schweden-klimaziele
-path: /2018/07/schweden-klimaziele/
 title: Schweden zeigt, dass die EU-Klimaziele schaffbar sind
 seoTitle: Schweden zeigt, dass die EU-Klimaziele schaffbar sind
 ogTitle: Schweden zeigt, dass die EU-Klimaziele schaffbar sind
-description: Schweden erreicht die bis 2030 gesteckten Klimaziele allem Anschein nach bereits in diesem Jahr. Daran sollten wir uns ein Beispiel nehmen.
-excerpt: Schweden erreicht die bis 2030 gesteckten Klimaziele allem Anschein nach bereits in diesem Jahr. Daran sollten wir uns ein Beispiel nehmen.
-fileName: 2018-07---schweden-zeigt-dass-die-eu-klimaziele-schaffbar-sind.md
+description: Schweden erreicht die bis 2030 gesteckten Klimaziele allem Anschein
+  nach bereits in diesem Jahr. Daran sollten wir uns ein Beispiel nehmen.
+excerpt: Schweden erreicht die bis 2030 gesteckten Klimaziele allem Anschein
+  nach bereits in diesem Jahr. Daran sollten wir uns ein Beispiel nehmen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_windrader-1048981_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_windrader-1048981_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIHBAMG/8QALRAAAQIEBAMHBQAAAAAAAAAAAQIDAAQRIQUHEjEGMnETFRYiQVFhI4GTodH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EACARAAEEAQQDAAAAAAAAAAAAAAABAgORBBEUIeEyQUL/2gAMAwEAAhEDEQA/APNTXAmLy7RccdbSgcylOIASPcmth8xiVwjiaUgl1qh2PapFf3Fun8ssYmG9PeRc1ocQoaykeZNPa8czllPl1KHDrtdWu23SKo83ITze2jMsGL8MdaEQc4VxBIqZhj8yf7CeF5okaplr5+qmLZMZdPMuIbUwSoipNbD7xlksv5pYfKpZagl1SQbco29L9Yfvn6cuSuxCQR+mLfRdhf1h0io3MEEcgsUUig3J6wQQQFCh/9k=
@@ -31,12 +30,11 @@ labels:
   - Windräder
   - Windturbinen
 focusKeyword: Klimaziele
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: 2018 statt 2030
+
 ---
 
 **Dem Klima geht es schlecht. Das lässt sich nicht nur an den derzeit herrschenden Temperaturen in Nord- und Mitteleuropa unschwer erkennen. Der Meeresspiegel steigt unaufhaltsam, es kommt zu Überschwemmungen, Bränden und weiteren dramatischen Auswirkungen der Klimaerwärmung.**

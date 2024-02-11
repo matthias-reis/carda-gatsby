@@ -1,11 +1,11 @@
 ---
 date: 2021-01-29T11:56:06.282Z
-slug: perry-frank-landforms-en
 typeName: Review
 title: '"Landforms"'
 subTitle: Perry Frank's New Single
-seoTitle: '"Landforms" – Perry Frank''s New Single'
-description: Perry Frank has released a new single! "Landforms" is available now on all download platforms. Here comes my recommendation.
+seoTitle: "\"Landforms\" – Perry Frank's New Single"
+description: Perry Frank has released a new single! "Landforms" is available now
+  on all download platforms. Here comes my recommendation.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-01-landforms-perry-frank-2-l-jpeg-imagine-383828_8a8a62_1440_1080/640.webp
 copyright: Perry Frank
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-01-perry-frank-landforms-fb-png-l-jpg-imagine-f8f8f8_9b977d_1440_756/640.webp
@@ -22,6 +22,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/01/perry-frank-landforms
+
 ---
 
 **Perry Frank has released a new single! "Landforms" is available now on all download platforms. Here comes my recommendation.**

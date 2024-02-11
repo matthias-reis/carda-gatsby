@@ -1,20 +1,19 @@
 ---
 date: 2013-05-24T07:00:09.000Z
-slug: towel-day
-path: /2013/05/towel-day/
 title: Keine Panik! Am 25. Mai ist Towel Day!
 seoTitle: Keine Panik! Am 25. April ist Towel Day!
 ogTitle: Keine Panik! Am 25. April ist Towel Day!
-description: Der International Towel Day wird am 25. April wieder zu Ehren von Sir Douglas Adams gefeiert. Höchste Zeit, die Vorbereitungen dafür zu treffen!
-excerpt: Der International Towel Day wird am 25. April wieder zu Ehren von Sir Douglas Adams gefeiert. Höchste Zeit, die Vorbereitungen dafür zu treffen!
-fileName: 2013-05---keine-panik-am-25-mai-ist-towel-day.md
+description: Der International Towel Day wird am 25. April wieder zu Ehren von
+  Sir Douglas Adams gefeiert. Höchste Zeit, die Vorbereitungen dafür zu treffen!
+excerpt: Der International Towel Day wird am 25. April wieder zu Ehren von Sir
+  Douglas Adams gefeiert. Höchste Zeit, die Vorbereitungen dafür zu treffen!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKRAAAgIBAwMDAwUAAAAAAAAAAQIDEQQABSESEzEGQVEiYYEycXKx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAEDAAQGB//EACMRAAEEAQQBBQAAAAAAAAAAAAEAAgMRMQQFIUESUXGBsdH/2gAMAwEAAhEDEQA/AEWFj5eTK0OBgrlCHHGRJ0qSwWhbHn5I8DTAYOenQJdmylJCsKVyaIsHwfbVXYt3Ozbg2QMZMh3xowgZygR1dXVuAbAZBxxfzrQT+sMjJ2vOwMfC7QzFZnZJWZlkZ+tnWhwLJoewJFnVA+PNldI0u2slgiIgaQWt5weQLPBv9SyaGWBpFysDNgeMhXVozakiwCCBVgWPkDUDduX6R3A1Hh468Amr092/1Jm4WTlTR4FrkyJM6P1VSxFALq656vwPbUW/eo232bG6sbsGJX4WXqVrVuSK/V9/3+dSh6pWs2WARvcIappNh2CBeCT2seixTdpjMyssYQqsdmwT9xq9CkUZtZ5gfH0qAT+erRo0CBdrPQ79roo2xMfQArA69wrAWA+87fykH+a5YwxcpGAaIssSRY5/vRo0BlJn3jWzNLXyGj8fVL//2Q==
 ogImage: null
 labels:
   - 25. Mai
-  - '42'
+  - "42"
   - Arthur Dent Hitchhikers Guide Through The Galaxy
   - Bücher & Filme
   - Die Antwort auf alle Fragen
@@ -29,12 +28,11 @@ labels:
   - Per Anhalter durch die Galaxis
   - Towel Day
 focusKeyword: Towel Day
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die Sache mit den Handtüchern
+
 ---
 
 **Wie jedes Jahr am 25. Mai, wird auch morgen wieder weltweit der Towel Day zu Ehren des britischen Autors Douglas Adams gefeiert.**

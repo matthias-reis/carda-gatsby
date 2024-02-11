@@ -1,6 +1,5 @@
 ---
 date: 2021-06-23T14:02:34.386Z
-slug: sommerliches-walnussbrot
 typeName: Beitrag
 title: Sommerliches Walnussbrot
 subTitle: Saftiger Sauerteig-Genuss
@@ -27,6 +26,7 @@ focusKeyword: Walnussbrot
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Walnussbrot, auch "Wurzelbrot" genannt, gehört für mich zum Sommer dazu. Am besten schmeckt es in Kombination mit einem richtig schönen knackigen Salat. Vorzugsweise bei einem Picknick im Grünen.**

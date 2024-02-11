@@ -1,14 +1,18 @@
 ---
 date: 2022-03-23T13:30:09.225Z
-slug: waxed-fabric-vegan
 typeName: Produkttest
 title: Veganes Waxed Fabric im Alltagstest
 subTitle: Mein neuer Nordlicht Rucksack
 seoTitle: Veganes Waxed Fabric im Alltagstest mit Nordlicht
-description: Waxed Fabric (gewachster Stoff) wird traditionell für Taschen, Jacken und Regenkleidung verwendet. Ich habe jetzt eine vegane Variante getestet.
-excerpt: Waxed Fabric (gewachster Stoff) kommt vor allem bei der Herstellung von Taschen, Jacken und Regenkleidung zum Einsatz. Die Produkte sind in der Regel sehr langlebig und für ihre Robustheit besonders bei Outdoor Fans sehr beliebt. Heute möchte ich Euch eine vegane Variante davon vorstellen.
+description: Waxed Fabric (gewachster Stoff) wird traditionell für Taschen,
+  Jacken und Regenkleidung verwendet. Ich habe jetzt eine vegane Variante
+  getestet.
+excerpt: Waxed Fabric (gewachster Stoff) kommt vor allem bei der Herstellung von
+  Taschen, Jacken und Regenkleidung zum Einsatz. Die Produkte sind in der Regel
+  sehr langlebig und für ihre Robustheit besonders bei Outdoor Fans sehr
+  beliebt. Heute möchte ich Euch eine vegane Variante davon vorstellen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-23/waxed-fabric-anne-reis-1-jpg-imagine-080808_444345_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-23/waxed-fabric-anne-reis-fb-png-imagine-080808_504d46_1200_628/640.webp
 labels:
   - Waxed Fabric
@@ -26,6 +30,7 @@ focusKeyword: Waxed Fabric
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Waxed Fabric (gewachster Stoff) wird heute vor allem für die Herstellung von Taschen, Jacken und Regenkleidung verwendet. Die Produkte sind in der Regel sehr langlebig und für ihre Robustheit besonders bei Outdoor Fans sehr beliebt. Traditionell wird dafür Baumwolle mit Bienenwachs oder Paraffin getränkt. Manchmal wird das Wachs auch direkt verwebt oder aufgetragen. Heute gibt es davon auch vegane und nachhaltige Varianten. Eine davon möchte ich Euch heute anhand meines neuen Rucksacks aus dem Hause Nordlicht vorstellen.**

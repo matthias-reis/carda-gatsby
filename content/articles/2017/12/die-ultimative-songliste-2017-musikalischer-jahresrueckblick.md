@@ -1,17 +1,18 @@
 ---
-date: 2017-12-16T08:39:47.000+00:00
-slug: die-ultimative-songliste-2017-musikalischer-jahresrueckblick
-path: '/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/'
+date: 2017-12-16T08:39:47.000Z
 title: Die ultimative Songliste 2017
 seoTitle: Die ultimative Songliste 2017 - Musikalischer Jahresrückblick
 ogTitle: Die ultimative Songliste 2017 - Musikalischer Jahresrückblick
-description: Ich möchte Euch den musikalischen Jahresrückblick der besonderen Art bieten. Musik abseits von Airplay-Listen und Charts. Die ultimative Songliste 2017.
-excerpt: Ich möchte Euch den musikalischen Jahresrückblick der besonderen Art bieten. Musik abseits von Airplay-Listen und Charts. Die ultimative Songliste 2017.
-fileName: 2017-12---die-ultimative-songliste-2017.md
+description: Ich möchte Euch den musikalischen Jahresrückblick der besonderen
+  Art bieten. Musik abseits von Airplay-Listen und Charts. Die ultimative
+  Songliste 2017.
+excerpt: Ich möchte Euch den musikalischen Jahresrückblick der besonderen Art
+  bieten. Musik abseits von Airplay-Listen und Charts. Die ultimative Songliste
+  2017.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Songliste-2017__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Songliste-2017__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIEBQYDCP/EAC0QAAEEAQMDAgMJAAAAAAAAAAECAwQRBQASIQYTQSIxFFGBByMyQ2FicXKh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAQP/xAAfEQACAgIBBQAAAAAAAAAAAAABAgADETESEyEyQaH/2gAMAwEAAhEDEQA/APPszCPY3NfDy1x3e20HSWnN6TRIqx5sEfTT5RvvhpTA9C1JCL453Vzrao6VnZEycg/1h0xLSUpbLyJTiikjxXbvyfHnS5LoPISG4zR6k6dGw7w6qQ6L54/L+eu9rVlyVPbM2qu3pgN5fJafZ1mJfTb8mE/CYfDDa5BVHc+/3LtKRZNbbvgC72665jO43PqmqZjJjKOyO2F1bbwpZWkJ45o/xZ1m2pz3T+XbyWRltzpqV7WXWLUKBuze0KBFgf2vUPLdRNTpDwUmV8Ev1dsttiqO7aOfYKF378V7aC5kaximsmAiuqgWb9y5g9Ixy4XXpqm1gGtqQojjnnjjTtMNMOESY8iZtAKVNr2UPp89GjU3my6MritSNSgjRmYspDuVYT2Cn0JdY743WD+FN+NTMi508Y6ksNxFFSAqhiHEEEfu+X6/5o0aYqJZNxC8APP/2Q==
-ogImage:
+ogImage: null
 labels:
   - A Perfect Circle
   - Alternative
@@ -74,12 +75,11 @@ labels:
   - Playlist
   - serie:Playlists 2017
 focusKeyword: Songliste
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Musikalischer Jahresrückblick
+
 ---
 
 **Heute möchte ich Euch einen musikalischen Jahresrückblick der besonderen Art bieten. Besonders darum, weil er mit den Listen, die Fernseh- und Radiosender zum Jahresende so zu veröffentlichen pflegen, so gar nichts zu tun hat. Hier ist meine persönliche Songliste 2017**

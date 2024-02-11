@@ -1,25 +1,24 @@
 ---
 ogTitle: Ausklang im Interview - "Gute Musik braucht Zeit zum Reifen"
-excerpt: Vor Kurzem habe ich die Post-Rock-Band Ausklang kennengelernt. Ihre Musik gefiel mir so gut, dass ich sie kurzerhand zu einem Interview eingeladen habe.
+excerpt: Vor Kurzem habe ich die Post-Rock-Band Ausklang kennengelernt. Ihre
+  Musik gefiel mir so gut, dass ich sie kurzerhand zu einem Interview eingeladen
+  habe.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_ausklang-fb.png__l.jpg
 isAffiliate: false
-path: /2020/09/ausklang-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMGBwgCBAX/xAAqEAACAQIFAgYCAwAAAAAAAAABAgMEEQAFEiExBxMGIjJBUWEUI4GR4f/EABcBAQEBAQAAAAAAAAAAAAAAAAQAAwX/xAAeEQADAAIBBQAAAAAAAAAAAAAAAQIDIUESIjEyUf/aAAwDAQACEQMRAD8AVziVKDPaHOsui7UrGKJqdR5ZaU6BHEwG2tVZWDDgtbjE0QZrEoMUSSDsgqrMlr32O/8AF8Vf6352Fjpad1lSedmqWjW6KjbhwwvvZjoHx2740s46kT9vIaeQSVNXlslNM0olYI5RBwb6mv7k/fzjnSr8yNcy1tkvdRJoqqIjuA3JHq9X1iv1aiiesAHFRILD4v8A7jt9S/G0ecnK6mgRo2j/AHqXUXRzyB8jYf1hpQ5r+RDJLOpMsshdtFgLkD724xnjx2u58iOuElHwX6nVdTV+JVlrZI3mWEI2gWAYO2o876mu19h5uBhu1VWs1HSARaZIiys4ctr4I2J2tvsNsGDDce5QO9NilZM7UFEpY6bGwOMsuAkjEaugYtYM7BVt7Ek7DBgxP1Lk/9k=
 typeName: Interview
 isWerbung: false
-fileName: 2020-09---ausklang.md
-slug: ausklang-interview
-errors: {}
 date: 2020-09-01T11:14:11.000Z
 focusKeyword: Ausklang
 languageLink: /2020/09/ausklang-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-4__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_ausklang-4__m.jpg
 title: Ausklang
 subTitle: '"Gute Musik braucht Zeit zum Reifen"'
 seoTitle: Ausklang im Interview - "Gute Musik braucht Zeit zum Reifen"
-description: Vor Kurzem habe ich die Post-Rock-Band Ausklang kennengelernt. Ihre Musik gefiel mir so gut, dass ich sie kurzerhand zu einem Interview eingeladen habe.
+description: Vor Kurzem habe ich die Post-Rock-Band Ausklang kennengelernt. Ihre
+  Musik gefiel mir so gut, dass ich sie kurzerhand zu einem Interview eingeladen
+  habe.
 language: de
 type: Artikel
 labels:
@@ -36,6 +35,7 @@ labels:
   - Release
   - Slot Art
   - SlotArt
+
 ---
 
 **Die Post-Rock-Band Ausklang habe ich vor Kurzem über From Overseas Gründer und Past Inside The Present Label Manager Kévin Séry kennengelernt. Die Musik der Berliner gefiel mir so gut, dass ich sie kurzerhand zu einem Interview eingeladen habe.**

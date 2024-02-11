@@ -1,12 +1,18 @@
 ---
 date: 2024-01-25T12:00:12.086Z
-slug: feeding-tomorrows
 typeName: Filmtipp
 title: '"Feeding Tomorrow"'
 subTitle: Neue Food-Doku ruft zu nachhaltiger Lebensmittel-Produktion auf
-seoTitle: '"Feeding Tomorrow" – Food-Doku zeigt, was wir an unseren Ernährungssystemen ändern müssen'
-description: '"Feeding Tomorrow" ist eine großartige neue Food-Doku, die uns zeigt, was wir an unseren Ernährungssystemen ändern müssen. Schaut hier direkt rein!'
-excerpt: '"Feeding Tomorrow" ist ein Aufruf zur Veränderung unserer bestehenden Ernährungssysteme. Wie das genau funktionieren kann, zeigt die Filmcrew anhand konkreter Beispiele aus den USA. Der Film ist definitiv ein Must-see – er liefert wertvolle Argumente dafür, warum planzliche Lebensmittel auf Dauer den Hunger der Weltbevölkerung stillen und das Klima retten können.'
+seoTitle: '"Feeding Tomorrow" – Food-Doku zeigt, was wir an unseren
+  Ernährungssystemen ändern müssen'
+description: '"Feeding Tomorrow" ist eine großartige neue Food-Doku, die uns
+  zeigt, was wir an unseren Ernährungssystemen ändern müssen. Schaut hier direkt
+  rein!'
+excerpt: '"Feeding Tomorrow" ist ein Aufruf zur Veränderung unserer bestehenden
+  Ernährungssysteme. Wie das genau funktionieren kann, zeigt die Filmcrew anhand
+  konkreter Beispiele aus den USA. Der Film ist definitiv ein Must-see – er
+  liefert wertvolle Argumente dafür, warum planzliche Lebensmittel auf Dauer den
+  Hunger der Weltbevölkerung stillen und das Klima retten können.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-25/feeding-tomorrow-soundsvegan-com-3-jpg-imagine-b87858_a0785b_1024_768/640.webp
 copyright: Feeding Tomorrow
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-25/feeding-tomorrow-soundsvegan-com-og-jpg-imagine-f8f8d8_9c7a5d_1200_628/640.webp
@@ -25,6 +31,7 @@ focusKeyword: Feeding Tomorrow
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Woher stammen die Lebensmittel, die wir täglich zu uns nehmen? Welche Wege haben sie hinter sich und wie funktioniert unser modernes Ernährungssystem insgesamt? Diesen Fragen geht die neue Dokumentation, die Ihr ab sofort auf Prime und Apple TV streamen könnt, nach. Die Details, welche die Filmcrew bei ihrer Arbeit ans Tageslicht beförderten, sind erschreckend und lassen einen das eigene Handeln noch einmal hinterfragen.**

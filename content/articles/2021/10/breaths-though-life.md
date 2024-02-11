@@ -1,12 +1,18 @@
 ---
 date: 2021-10-19T11:37:23.428Z
-slug: breaths-though-life
 typeName: Review
 title: '"Though Life"'
 subTitle: Das neue Album von Breaths
 seoTitle: '"Though Life" – das neue Album von Breaths – Hardcore Review'
-description: Das neue Breaths Album "Though Life" kündigt sich an und so langsam wird es auch Zeit, dass ich es hier mal vorstelle. Das vegane Post-Music Projekt aus Richmond, Virginia hat die Platte für Anfang nächsten Jahres angekündigt.
-excerpt: Das neue Breaths Album "Though Life" kündigt sich an und so langsam wird es auch Zeit, dass ich es hier mal vorstelle. Das vegane Post-Music Projekt aus Richmond, Virginia hat die Platte für Anfang nächsten Jahres angekündigt. "Though Life" könnte ein Anwärter für Eure Platte des Jahres 2022 sein.
+description: Das neue Breaths Album "Though Life" kündigt sich an und so langsam
+  wird es auch Zeit, dass ich es hier mal vorstelle. Das vegane Post-Music
+  Projekt aus Richmond, Virginia hat die Platte für Anfang nächsten Jahres
+  angekündigt.
+excerpt: Das neue Breaths Album "Though Life" kündigt sich an und so langsam
+  wird es auch Zeit, dass ich es hier mal vorstelle. Das vegane Post-Music
+  Projekt aus Richmond, Virginia hat die Platte für Anfang nächsten Jahres
+  angekündigt. "Though Life" könnte ein Anwärter für Eure Platte des Jahres 2022
+  sein.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-jpg-imagine-080808_587863_1024_768/640.webp
 copyright: Breaths
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/breaths-fb-png-imagine-080808_364333_1200_628/640.webp
@@ -28,6 +34,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/10/breaths-though-life-en/
+
 ---
 
 **Das neue Breaths Album "Though Life" kündigt sich an und so langsam wird es auch Zeit, dass ich es hier mal vorstelle. Das vegane Post-Music Projekt aus Richmond, Virginia hat die Platte für Anfang nächsten Jahres angekündigt.**

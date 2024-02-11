@@ -1,13 +1,14 @@
 ---
 date: 2012-09-04T12:59:58.000Z
-slug: konzerte-und-alben
-path: /2012/09/konzerte-und-alben/
 title: Konzerte und Alben
 seoTitle: Konzerte und Alben
 ogTitle: Konzerte und Alben
-description: Heute ist ein guter Tag. Ich freue mich auf tolle, neue Musik. Leider hat das Versandhaus bei der Bearbeitung meiner Bestellung so einiges durcheinander gebracht.
-excerpt: Heute ist ein guter Tag. Ich freue mich auf tolle, neue Musik. Leider hat das Versandhaus bei der Bearbeitung meiner Bestellung so einiges durcheinander gebracht.
-fileName: 2012-09---konzerte-und-alben.md
+description: Heute ist ein guter Tag. Ich freue mich auf tolle, neue Musik.
+  Leider hat das Versandhaus bei der Bearbeitung meiner Bestellung so einiges
+  durcheinander gebracht.
+excerpt: Heute ist ein guter Tag. Ich freue mich auf tolle, neue Musik. Leider
+  hat das Versandhaus bei der Bearbeitung meiner Bestellung so einiges
+  durcheinander gebracht.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_09_p7090053-e1587460346204__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_09_p7090053-e1587460346204__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQcIAv/EACYQAAICAgEEAgIDAQAAAAAAAAECAwQFEQAGEiExExRRYSJScaH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAADBQb/xAAmEQACAQIFAgcAAAAAAAAAAAABAhEAAwQhQWGRUaESEyMxUnGx/9oADAMBAAIRAxEAPwDLI44rQGTvbaaQd5DHWxvzrnCooH5P/OT3SUNtctHkKkMMpx+rkiza+MIrAfyB9jZA0NnkYwJo1EmKsbH43pypjLONkMEF750R7CRszp3KDrZB0AfYAO+73xc90HOpzGZxX0p8RFZYha7naRkAhgCBtRs7160fGuRj5KvmcrBbzn2o7EUUcH28eIwzqo0oddBGIGgCCpI1vZ5aWM6kxeNx9QULsVyjatwV7FWzTaCxEVDHvGmZWQqCp/398pseK1dgZhiZ225rU8ixirHqZMICx7HWTl03rNEMAaZYFRmlMgXYbxv12gf7rzyycD0vbhtWacFqB64rq1loJAUZ+7Xb67vf6143w4cDFOURiNBPcUtg7YZkJ1MdjTDr3A1sZD89K2teOSujtTabvc7bwV8+VPgjfHnTv20pJJaqxyVNLK0vyhdf17m/Hn1++HDiwvMxBPyj8roMBYVQ4UnJJ5nrx9V//9k=
@@ -48,13 +49,12 @@ labels:
   - The Second Law Muse
   - The Unwinding Hours
   - versandhaus
-focusKeyword: ''
-status: publish
+focusKeyword: ""
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Konzertplanung & Plattenkauf
+
 ---
 
 **Heute ist ein guter Tag. Ich freue mich auf tolle, neue Musik. Leider hat das Versandhaus bei der Bearbeitung meiner Bestellung so einiges durcheinander gebracht, weshalb ich jetzt auf einige CDs etwas länger warten muss, als geplant.**

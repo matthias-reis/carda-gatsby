@@ -1,12 +1,15 @@
 ---
 date: 2022-11-07T16:22:49.192Z
-slug: veganes-protein
 typeName: Produkttest
 title: Warum wir zum Muskelaufbau Protein brauchen
 subTitle: Vegane Protein-Produkte im Trainingseinsatz
 seoTitle: Warum veganes Protein zum Muskelaufbau unerlässlich ist
-description: Eiweiß ist zur Erhaltung und zum Aufbau der Muskeln unerlässliche. Darum solltet Ihr niemals auf veganes Protein verzichten.
-excerpt: Eine ausgeglichene, vegane Ernährungsweise beinhaltet von Natur aus bereits viel Protein. Wenn Ihr jedoch täglich hart trainiert, kann es sein, dass Ihr Protein ergänzen müsst. Ich habe mir mal ganz genau angeschaut, was es dabei zu beachten gibt.
+description: Eiweiß ist zur Erhaltung und zum Aufbau der Muskeln unerlässliche.
+  Darum solltet Ihr niemals auf veganes Protein verzichten.
+excerpt: Eine ausgeglichene, vegane Ernährungsweise beinhaltet von Natur aus
+  bereits viel Protein. Wenn Ihr jedoch täglich hart trainiert, kann es sein,
+  dass Ihr Protein ergänzen müsst. Ich habe mir mal ganz genau angeschaut, was
+  es dabei zu beachten gibt.
 image: https://storage.googleapis.com/cardamonchai-media/2022-11-07/veganes-protein-jpeg-imagine-c8c8c8_827d62_1024_768/640.webp
 copyright: ivabalk, Pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-07/veganes-protein-fb-jpeg-imagine-080808_797356_1200_628/640.webp
@@ -28,6 +31,7 @@ focusKeyword: veganes Protein
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Eine ausgeglichene, vegane Ernährungsweise beinhaltet von Natur aus bereits viel Protein. Wenn Ihr jedoch täglich hart trainiert, kann es sein, dass Ihr Protein ergänzen müsst. Klärt das am besten vorher mit Eurem\*r Ärzt\*in und/oder Eurem\*r Trainer⋆in ab. In diesem Artikel möchte ich gerne mal etwas genauer darauf eingehen, warum zum Muskelaufbau Protein notwendig ist und wie es mit veganem Protein aussieht.**

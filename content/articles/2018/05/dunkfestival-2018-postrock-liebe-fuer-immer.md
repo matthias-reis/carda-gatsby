@@ -1,20 +1,18 @@
 ---
-date: 2018-05-16T15:40:07.000+00:00
-slug: dunkfestival-2018-postrock-liebe-fuer-immer
-path: '/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/'
+date: 2018-05-16T15:40:07.000Z
 title: Dunk!festival 2018
 seoTitle: Dunk!festival 2018 - 36 Post-Rock-Bands in 3 Tagen
 ogTitle: Dunk!festival 2018 - Liebe für immer - 36 Post-Rock-Bands in 3 Tagen
-description: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock-Bands auf.
-excerpt: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock-Bands auf.
+description: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von
+  Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock-Bands auf.
+excerpt: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von
+  Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock-Bands auf.
 month: "05"
 ogImage: null
 isAffiliate: false
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKRAAAgEDAgUEAgMAAAAAAAAAAQIDBAURABITITFBUQYiYXEUMlKB4f/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAAIDBf/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAgMRIUGREvD/2gAMAwEAAhEDEQA/AMJtVkNTTxyNLCplJ2IXBbA6nb1Gmeg9IolOJ2j9rZCvJyDY641zKD1fbkuMLy0MkdLFnYwILAkBdzD6HbT5cLhT0UEFXWIyQTkiPhe5nwAc5PLuD/ejirsV/EtnsDUp2HvfkWpPTUQUsY9w84wv+6oVVhG3CKGP8UGtBtVPHcbZFVtUKlE2QskjdcE5AHkHr86juN1tdqjdqZnmcrtbifry7gedbmI1t4irld/NeWYJC6JKiOqeyQHL5II7gjxpqNZBc7HR2+Ztn4m8Qz8RjuJbkCpOAoUYH3nno0aSyKV4Z0sBW1wsSnDdIqOkEKTVTKCSsXFIEZ79OoJ58tVGrI5ZS1W0pQMu5VODt+Cc47aNGoVgtbrU/9k=
 isWerbung: false
-fileName: 2018-05---dunk-festival-2018.md
 focusKeyword: Postrock
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__m.jpg
 labels:
@@ -60,9 +58,9 @@ labels:
   - Zottegem
   - serie:DUNK!festival
 language: de
-errors: {}
 subTitle: 36 Post-Rock-Bands in drei Tagen
-year: '2018'
+year: "2018"
+
 ---
 
 **Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag, den 10. Mai bis Samstag, den 12. Mai 36 Post-Rock-Bands auf. 26 davon haben wir live gesehen. Zwar konnte ich die Musik nicht mit nach Hause nehmen, es sind mir jedoch mit meiner kleinen Konzertklickse ein paar Schnappschüsse gelungen, die ich Euch gerne zeigen möchte.**

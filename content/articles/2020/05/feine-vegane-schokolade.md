@@ -5,14 +5,10 @@ excerpt: Wenn Ihr auf der Suche nach feiner veganer Schokolade seid, habe ich
   wiederentdeckt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_chocqlate-fb.png__l.jpg
 isAffiliate: false
-path: /2020/05/feine-vegane-schokolade/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACoQAAEEAAUCBQUBAAAAAAAAAAECAwQRAAUSITFBUQYTIpGxFCNCYYHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUDBAb/xAAgEQACAQUAAgMAAAAAAAAAAAABAhEAAwQhMWGhEkFx/9oADAMBAAIRAxEAPwDn0Vlb7OlwaFadDhbbGlSQRQUeqifjfF21CkNILzMqQyy2oAutgoQHL2JsUN6F107Y2ogNs5vL0PvhKnfMLIX9s36hQN1/K4xYFpS3UNiapKwdSWwpAIFHfT13PKgeKvFJlKa5T3Bt4TlXROiebnxS9Oy4JLrDqlOuqa176ndZIv1LoCrBvqD3xTZvlkdMZuVGbipacSUKjoeOoab34rc8Xh2lOIjuKlTInmtqpAQ0g6m1fipRG6q7874WsyTHfbeXFW0poIIDrzIaWqhuP32BI9sAPlO6eHIsLbLIB4qTP8QRmFRn5bpTbQQNCSoqKCb460fbGTPij67S3l+SS5pUKBcbAB+TzgwYNjusHbyXTHkdE+pqVJPi12GXzCiZeANw6rUpO9cX234wt5rFzAtuIn5yFJX6illsCyL61e3+4MGBPJqYXHOWcdmJUj8IkfUR7kV//9k=
-date: 2020-05-18T19:30:34.000+00:00
+date: 2020-05-18T19:30:34.000Z
 advertisement: true
 isWerbung: false
-fileName: 2020-05---feine-vegane-schokolade.md
-slug: feine-vegane-schokolade
-errors: {}
 title: Feine vegane Schokolade
 subTitle: Chocqlate im Test
 seoTitle: Feine vegane Schokolade - Chocqlate im Test
@@ -28,11 +24,12 @@ labels:
   - Virgin Schokolade
 focusKeyword: Feine vegane Schokolade
 affiliate: true
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-27-chocqlate-01__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-27-chocqlate-01__m.jpg
 language: de
+
 ---
+
 **Wenn Ihr auf der Suche nach feiner veganer Schokolade seid, habe ich jetzt einen Tipp für Euch. Ich habe einige Sorten von Chocqlate getestet und dabei eine alte Liebe neu entdeckt.**
 
 Ich esse schon eine Zeitlang kaum noch Süßigkeiten. Erst habe ich darauf geachtet, keinen raffinierten Zucker mehr zu mir zu nehmen und irgendwann hatte ich dann einfach keine Lust mehr drauf. Das Einzige, was ich mir hin und wieder gönne, ist ein schönes Stück feine vegane Schokolade. Allerdings habe ich auch darauf in den letzten Wochen verzichtet.

@@ -1,12 +1,15 @@
 ---
 date: 2022-03-15T17:35:39.562Z
-slug: awakened-souls-night-songs-en
 typeName: Review
 title: '"Night Songs" by awakened souls – A Yoga Nidra Soundtrack'
 subTitle: A Yoga Nidra Soundtrack
 seoTitle: A Yoga Nidra Soundtrack
-description: On March 18th, awakened souls will release their new record, "Night Songs". It is the first solo awakened souls record since "How We Heal". The duo recorded it to help people sleep better in times of fear and confusion.
-excerpt: On March 18th, awakened souls will release their new record, "Night Songs". It is the first solo awakened souls record since "How We Heal". The duo recorded it to help people sleep better in times of fear and confusion.
+description: On March 18th, awakened souls will release their new record, "Night
+  Songs". It is the first solo awakened souls record since "How We Heal". The
+  duo recorded it to help people sleep better in times of fear and confusion.
+excerpt: On March 18th, awakened souls will release their new record, "Night
+  Songs". It is the first solo awakened souls record since "How We Heal". The
+  duo recorded it to help people sleep better in times of fear and confusion.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-15/awakened-souls-night-songs-jpg-imagine-585858_525456_1024_768/640.webp
 copyright: awakened souls
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-15/awakened-souls-night-songs-fb-png-imagine-585858_4f5052_1200_628/640.webp
@@ -30,6 +33,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/03/awakened-souls-night-songs/
+
 ---
 
 **On March 18th, awakened souls will release their new record, "Night Songs". It is the first solo awakened souls record since "How We Heal". The duo recorded it to help people sleep better in times of fear and confusion.**

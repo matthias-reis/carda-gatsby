@@ -8,7 +8,6 @@ labels:
   - Finnland
   - Bio-Kunststoff
 language: de
-slug: plastik-auf-holz-basis
 typeName: ""
 title: Plastik auf Holz-Basis
 subTitle: Bio-Kunststoff-Start-up erhält Millionen-Finanzierung
@@ -27,6 +26,7 @@ focusKeyword: Bio-Kunststoff
 advertisement: false
 affiliate: false
 languageLink: ""
+
 ---
 
 **Bio-Kunststoff könnte die Lösung des weltweiten Plastik-Problems sein. Das finnische Unternehmen Woodly Ltd. hat jetzt eine Wachstumsfinanzierung in Höhe von drei Millionen Euro erhalten. Das Start-up arbeitet an einem außergewöhnlichen und völlig neuen Ansatz.**

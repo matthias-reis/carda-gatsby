@@ -1,12 +1,15 @@
 ---
 date: 2022-12-07T15:42:00.450Z
-slug: perry-frank-nuit-ensemble-en
 typeName: Review
 title: '"Nuit Ensemble"'
 subTitle: Perry Frank's new Album
 seoTitle: '"Nuit Ensemble" – Post-Rock Review'
-description: Looking for some really great ambient/post-rock sound? Check out my review of Perry Frank's album "Nuit Ensemble".
-excerpt: Some weeks ago, Perry Frank released his new album. With "Nuit Ensemble", he went on a new path, mixing his fabulous ambient sounds with classic elements from the post-rock genre. So, the album is also one for you if you're more into this kind of music.
+description: Looking for some really great ambient/post-rock sound? Check out my
+  review of Perry Frank's album "Nuit Ensemble".
+excerpt: Some weeks ago, Perry Frank released his new album. With "Nuit
+  Ensemble", he went on a new path, mixing his fabulous ambient sounds with
+  classic elements from the post-rock genre. So, the album is also one for you
+  if you're more into this kind of music.
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-07/perry-frank-nuit-ensemble-jpg-imagine-086888_315463_1024_768/640.webp
 copyright: Perry Frank
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-07/perry-frank-nuit-ensemble-og-jpg-imagine-281818_334f5c_1200_628/640.webp
@@ -29,6 +32,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/12/perry-frank-nuit-ensemble/
+
 ---
 
 **Some weeks ago, Perry Frank released his new album. With "Nuit Ensemble", he went on a new path, mixing his fabulous ambient sounds with classic elements from the post-rock genre. So, the album is also one for you if you're more into this kind of music.**

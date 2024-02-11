@@ -1,13 +1,14 @@
 ---
-date: 2017-04-05T14:20:14.000+00:00
-slug: veganer-honig-vegablum
-path: '/2017/04/veganer-honig-vegablum/'
+date: 2017-04-05T14:20:14.000Z
 title: Veganer "Honig" von Vegablum
 seoTitle: Veganer Honig und Met von Vegablum - Der ultimative Test
 ogTitle: Veganer Honig und Met - Vegablum - Das fleißige Blümchen aus Meerbusch
-description: Veganer Honig und Met geht nicht? Geht eben doch! Danny von Vegablum aus Meerbusch beweist das mit ihren Produkten Vonig und Vet eindrucksvoll - Produkttest
-excerpt: Veganer Honig und Met geht nicht? Geht eben doch! Danny von Vegablum aus Meerbusch beweist das mit ihren Produkten Vonig und Vet eindrucksvoll  - Mein Produkttest
-fileName: 2017-04---veganer-honig-von-vegablum.md
+description: Veganer Honig und Met geht nicht? Geht eben doch! Danny von
+  Vegablum aus Meerbusch beweist das mit ihren Produkten Vonig und Vet
+  eindrucksvoll - Produkttest
+excerpt: Veganer Honig und Met geht nicht? Geht eben doch! Danny von Vegablum
+  aus Meerbusch beweist das mit ihren Produkten Vonig und Vet eindrucksvoll  -
+  Mein Produkttest
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33012977454_189f4d92a2_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33012977454_189f4d92a2_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACoQAAEDBAICAAQHAAAAAAAAAAECAwQABRESBiETMQdBUWEUFSIlMkJx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMFBv/EACMRAAICAgECBwAAAAAAAAAAAAECAxEAEiExwTJBUXGBkaH/2gAMAwEAAhEDEQA/AH+N8UeIzJ6XY17ZLymSygfh3nSFqIwcaeqWL/aOQIfcYkc3u61pK06sRVNIGSexjGDVgiSrS3LMKPHT520hburIHjB9bY9E/IHs/TFQ/kHJP3IoJjvNocXsuO82olP9U6lQIPvOceqjO9UAcUcmvQYuv8evi1Hflt0UlavGdnXVbnJyNSoA5+lSfmHErrCuUhLEKc/GQoavLaOXOu1dDHf2qtPcmjNvts6fqJPt1tOoIIxjYnNV6wc94hPs9vtv5jFMtuM02WFgNlR1AIBWACQaUUhsgtidKXfWh65iWiKbJFJhT7khSMrUQ8kBSj2TjTHeP9+9J1q49aeUceizbzDS/cbi87Icl9JcypxXWQBkACiiufSRhGTfmO+YokZVJU0bHfM7kvw3gWdy6sQZj7a4yVFJCUhCwEhWFJxk59e6TIMONc7EidHZRAWw94yhj+JUADsM9g9/MmiiquxAlo+FgB+/fzlTK77bMTR4598//9k=
@@ -29,13 +30,12 @@ labels:
   - Vonig
   - Bienen
 focusKeyword: Veganer Honig
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Das fleißige Blümchen aus Meerbusch
 advertisement: true
+
 ---
 
 **Ein paar von Euch können sich vielleicht noch an meinen [Honigartikel](/2014/10/honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder/) erinnern. Darin erklärte ich unter anderem, wie der Honig ins Glas kommt und warum er normalerweise nicht vegan ist.**

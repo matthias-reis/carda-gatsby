@@ -1,14 +1,16 @@
 ---
 date: 2018-03-26T06:10:10.000Z
-slug: vegane-kosmetik-und-naturkosmetik
-path: /2018/03/vegane-kosmetik-und-naturkosmetik/
 title: Vegane Kosmetik, Biokosmetik und Naturkosmetik
 seoTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede
 ogTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede
-description: Vegane Kosmetik, Naturkosmetik, Biokosmetik, vegane Naturkosmetik, vegane Biokosmetik, vegane, herkömmliche Kosmetik. Was sind eigentlich die Unterschiede?
-excerpt: 'Naturkosmetik, vegane Naturkosmetik, vegane Kosmetik und Biokosmetik: Heute zeige ich Euch genau, wo die Unterschiede liegen und worauf Ihr im Hinblick auf Tierversuche und Allergien achten solltet.'
+description: Vegane Kosmetik, Naturkosmetik, Biokosmetik, vegane Naturkosmetik,
+  vegane Biokosmetik, vegane, herkömmliche Kosmetik. Was sind eigentlich die
+  Unterschiede?
+excerpt: "Naturkosmetik, vegane Naturkosmetik, vegane Kosmetik und Biokosmetik:
+  Heute zeige ich Euch genau, wo die Unterschiede liegen und worauf Ihr im
+  Hinblick auf Tierversuche und Allergien achten solltet."
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-08/naturkosmetik-soundsvegan-jpg-imagine-f8e8d8_bbb19c_1024_768/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-08/naturkosmetik-soundsvegan-og-jpg-imagine-f8e8d8_b8ae97_1200_628/640.webp
 labels:
   - Biokosmetik
@@ -21,12 +23,11 @@ labels:
   - vegan beauty
   - vegane Kosmetik
 focusKeyword: Vegane Kosmetik
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die Unterschiede
+
 ---
 
 **"Du schreibst über Naturkosmetik, vegane Naturkosmetik und vegane Kosmetik. Hin und wieder geht es auch um Biokosmetik. Ich finde das ziemlich cool. Aber etwas verwirrend finde ich es auch. Kannst Du vielleicht mal genau erklären, wo die Unterschiede liegen?"**

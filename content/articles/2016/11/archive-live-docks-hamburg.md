@@ -1,15 +1,15 @@
 ---
 date: 2016-11-23T16:22:33.000Z
-slug: archive-live-docks-hamburg
-path: /2016/11/archive-live-docks-hamburg/
 type: Artikel
 typeName: Konzertbericht
 title: Archive live @ Docks Hamburg 22.11.2016
 seoTitle: Archive live @ Docks Hamburg - Kings Of The False Foundation Tour
 ogTitle: Archive live @ Docks Hamburg - Kings Of The False Foundation Tour
-description: Archive spielten gestern Abend live im Docks auf der Reeperbahn und wir waren live dabei. Das Konzert war wirklich großartig. Hier ein paar Fotos für Euch
-excerpt: Archive spielten gestern Abend live im Docks auf der Reeperbahn und wir waren live dabei. Das Konzert war wirklich großartig.
-fileName: 2016-11---archive-live-docks-hamburg-22-11-2016.md
+description: Archive spielten gestern Abend live im Docks auf der Reeperbahn und
+  wir waren live dabei. Das Konzert war wirklich großartig. Hier ein paar Fotos
+  für Euch
+excerpt: Archive spielten gestern Abend live im Docks auf der Reeperbahn und wir
+  waren live dabei. Das Konzert war wirklich großartig.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30823080470_b3a0fdc169_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30823080470_b3a0fdc169_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQEEBgcCAwj/xAAtEAACAQIFAgQFBQAAAAAAAAABAgMFEQAEBiExEhMUIkFRFjJhcYEjQpGSof/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAwYH/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMEBRIUITFRgf/aAAwDAQACEQMRAD8A5w0xR5Kpm7/LDGOp3tfpG29vXkYn1VpsEFFzOXLiCJDIwJBbh0sPuTthdK5PsUGmCJVHfiMkp2v5mIv/AIuCGoo3zNMmSBHkkcAhFFybuhOEufMXyj6Bmg8foprahFWzCz+i6lS52ImUWH7eB+cN+x9V/tiydH6CGpJstJmqiuVgcp5Io+uToLEFtyF9DYXJNuMGfgnSK+VqzTI2GxTMVpY5FPs69ryt7j0OCjuoh6/JEqubWBckyN03UZgpWShhgjLQwLEXZi38Abc74aZrUNQUER5loeoH5B0mxttf8DEEBtjYJ5ALCR/tfEniLdwgc9lKBCKoV6hupVbM+AyUKdcfhW/TlUkG9ywsRbgm49cDJc/JNK8s4jlmclnkkQMzseSSeSffDVpGYWbf64xucELjCiKcuwXfsJ//2Q==
@@ -27,12 +27,11 @@ labels:
   - Reeperbahn
   - The False Foundation
 focusKeyword: Archive
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Kings Of The False Foundation Tour
+
 ---
 
 **Gestern Abend war endlich mal wieder ein Konzertbesuch an der Reihe. Die Ehre gaben sich keine Geringeren, als Archive aus London.**

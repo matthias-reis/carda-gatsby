@@ -1,15 +1,14 @@
 ---
 date: 2014-12-17T10:33:04.000Z
-slug: rainer-von-der-vegan-sneaker-connection-im-interview
-path: /2014/12/rainer-von-der-vegan-sneaker-connection-im-interview/
 type: Artikel
 typeName: Interview
 title: Rainer von der Vegan Sneaker Connection
 seoTitle: Rainer von der Vegan Sneaker Connection im Interview
 ogTitle: Rainer von der Vegan Sneaker Connection im Interview
-description: Ich habe mich mit Rainer von der Vegan Sneaker Connection zum Interview verabredet und er hat mir einiges über vegane Schuhe verraten.
-excerpt: Ich habe mich mit Rainer von der Vegan Sneaker Connection zum Interview verabredet und er hat mir einiges über vegane Schuhe verraten.
-fileName: 2014-12---rainer-von-der-vegan-sneaker-connection.md
+description: Ich habe mich mit Rainer von der Vegan Sneaker Connection zum
+  Interview verabredet und er hat mir einiges über vegane Schuhe verraten.
+excerpt: Ich habe mich mit Rainer von der Vegan Sneaker Connection zum Interview
+  verabredet und er hat mir einiges über vegane Schuhe verraten.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_Rainer3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_Rainer3__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwj/xAAtEAACAgECBAUBCQAAAAAAAAABAgMEEQAFBhIhMQcTIkFhkRQjM1FxgYKhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EAB0RAAICAgMBAAAAAAAAAAAAAAABAgMRIRIiMfD/2gAMAwEAAhEDEQA/ANE4QSlJNPVSYyywxwuefqzIUGGJ98n+9V96attW027z1rFhK0TStDVi8yVwB1Cr0yfjXPfhv4hXK9mWtugZ1dTISCXbnACgZJ7ekfHUnVHP4p7ikrxrRp+W2VwZGYAYwcuCBn/dPhOXhq4DvbfEfaOKeMdop0qO9VPsoszyRSQhjYQw8q8qxs3MQxBwe3fTvfK+93kcbdQh2yEj8fcpfMk/UQx9v5N+2sG4O4in4b4hpbhHXWV1LwKmVUFSvrUsffA9vy1Q8YeNG6xSmCtBXqdcjn+8Zl9snt1+NK6myKTS0ZCde0ZvwrYevGrRZUk4ODpjZ3WaCnCq8x81xn1nA9Y0aNUqeMAktE3u88qbmj87Ma8ysuWJzzdCPjodL+K7LSyVJiBmSJgVPUd8j6En66NGr3PrJfekYLaP/9k=
@@ -23,12 +22,11 @@ labels:
   - vegane Schuhe
   - vegane Sneakers
 focusKeyword: Vegan Sneaker
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Vegane Turnschuhe für alle
+
 ---
 
 **Einige von Euch sind beim Stöbern durch die veganen Facebook-Gruppen sicher schon mal über die Vegan Sneaker Connection gestolpert.**

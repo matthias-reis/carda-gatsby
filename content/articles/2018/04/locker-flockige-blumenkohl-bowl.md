@@ -1,15 +1,15 @@
 ---
 date: 2018-04-04T07:30:25.000Z
-slug: locker-flockige-blumenkohl-bowl
-path: /2018/04/locker-flockige-blumenkohl-bowl/
 type: Artikel
 typeName: Rezept
 title: Locker-flockige Blumenkohl-Bowl
 seoTitle: Locker-flockige Blumenkohl-Bowl - Frisch, köstlich und vegan
 ogTitle: Locker-flockige Blumenkohl-Bowl - Frisch, köstlich und vegan
-description: Blumenkohl gefällig? In einer schmackhaften Bowl? Es wird sowieso mal wieder Zeit für ein schmackhaftes Rezept, oder? Viel Spaß beim Kochen!
-excerpt: Na was meint Ihr? Es wird mal wieder Zeit für ein Rezept, oder? Meine Blumenkohl-Bowl ist ganz spontan entstanden. Sie ist ganz schnell zubereitet, leicht und lecker!
-fileName: 2018-04---locker-flockige-blumenkohl-bowl.md
+description: Blumenkohl gefällig? In einer schmackhaften Bowl? Es wird sowieso
+  mal wieder Zeit für ein schmackhaftes Rezept, oder? Viel Spaß beim Kochen!
+excerpt: Na was meint Ihr? Es wird mal wieder Zeit für ein Rezept, oder? Meine
+  Blumenkohl-Bowl ist ganz spontan entstanden. Sie ist ganz schnell zubereitet,
+  leicht und lecker!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41169032582_474ff2e2f0_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41169032582_474ff2e2f0_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUH/8QAKxAAAgECBQMCBgMAAAAAAAAAAQIDBBEABRIhMRNBYQYyFCJCUXGhgZHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQBBf/EACcRAAIBAwIEBwEAAAAAAAAAAAECBAARIQMSMUFhkRMUUYGhwdHw/9oADAMBAAIRAxEAPwDDyKN6LMFeExp1EMbSMAQgPg/f/MMFPRyU6GDSoMftsmhQ6gqQQRv3Pm/kYVqaog6h6wBAXgkAkXH1Hjth4ekpswqEgoalZpYIo3KVEnuLfQtxYkcam348YgmvK8AJGa3XvXZExo6LYYI+z+nvS5ndPUU0NRKsUA6SJCXWMXjUMWD88b2/eEb1enxVc0zIqu6g7KAG5sRjpFdmRjhkXMFlRJY5KczIqI6mwuWGkar3FrjvzhGzVqg5W7z/ACRdcrHC0NnIAtdm/gbD74WD5p9AiQ263T+61rSHlabbhgc7e9vi9ZtbO0TjQBZex8YhPUVdTQMVkJbU7lr2JJsf1v8A3gwYZGK8KmiMS2w5GcceVD+qKieonmMZMmnShkkL6LgDv+NsU63MKmvqnqap9Ulr7bDfbYfgDBgwj6jFQt8U0wlVVV9K/9k=
@@ -27,16 +27,14 @@ labels:
   - vegan
   - vegane Bowl
   - vegane Rezepte
-
   - Vinaigrette
   - wenig Salz
 focusKeyword: Blumenkohl
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Frisch, köstlich und vegan
+
 ---
 
 **Na was meint Ihr? Es wird mal wieder Zeit für ein Rezept, oder? Dieses hier habe ich mir gestern Abend ganz spontan ausgedacht, es ist ganz schnell zubereitet, leicht und schmackhaft.**

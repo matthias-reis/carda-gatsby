@@ -1,13 +1,14 @@
 ---
 date: 2017-12-13T20:49:12.000Z
-slug: weihnachtsfutterausgabe-bei-der-tiertafel-hamburg
-path: /2017/12/weihnachtsfutterausgabe-bei-der-tiertafel-hamburg/
 title: Tiertafel Hamburg
 seoTitle: Weihnachts-Futterausgabe der Tiertafel Hamburg - Herz für Tier & Mensch
 ogTitle: Weihnachts-Futterausgabe der Tiertafel Hamburg - Herz für Tier & Mensch
-description: Heute fand die Weihnachts-Futterausgabe der Tiertafel Hamburg statt. Vor allem Spezialfutter war sehr gefragt. Spendet für die nächste Ausgabe im Januar!
-excerpt: Heute fand die Weihnachts-Futterausgabe der Tiertafel Hamburg statt. Vor allem Spezialfutter war sehr gefragt. Spendet für die nächste Ausgabe im Januar!
-fileName: 2017-12---tiertafel-hamburg.md
+description: Heute fand die Weihnachts-Futterausgabe der Tiertafel Hamburg
+  statt. Vor allem Spezialfutter war sehr gefragt. Spendet für die nächste
+  Ausgabe im Januar!
+excerpt: Heute fand die Weihnachts-Futterausgabe der Tiertafel Hamburg statt.
+  Vor allem Spezialfutter war sehr gefragt. Spendet für die nächste Ausgabe im
+  Januar!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Tiertafel__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Tiertafel__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgEDBP/EACcQAAICAgICAQMFAQAAAAAAAAECAwQFEQAhBhIxExRBByJRYXFi/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIRITEDEv/aAAwDAQACEQMRAD8AVEOJ8eBkjEuTMBUTEJIPWMgfuHQJbX86HO+b9NMjfxNbJeP2ZLlWZiFWePTKVbR7HyN/nQ5jx/GBL33s16GtiUtRRTTM/YWQHZUf1o9/50eMDB5nHeMeI5Sbw7LWspZt3Eix1KxFopYcgAAH56PsT0DodDfJz7Hsou1TRK753NjI8jlsf47WIq2Mm7SztuOaZtklUHuQYg5JA9fbe/gEjlZq47NYilj76yW6T2GFGpKEZfRUJLjZ6O99jf8AvLj5TUStgpURleSvetTJ7SEGRjI31B7BTrXR11yMpRZqPxi9TmzFSvRW2ZpKFxGiEugAsiswJVT2PkbA3+ebe2DcPG5VykWuQvzy0qkDECMuXIG+yAR/PJTxm/NA6mPQdGDRv8Mh/wCT+N8OHHW5FEZOTrLPnLVd2cQ/dTEoD0wMh2D/AEea/JHc1fos7Mkp0wY7674cOcsDs//Z
@@ -26,12 +27,11 @@ labels:
   - Tiertafel Hamburg
   - Tiertafel Hamburg e. V.
 focusKeyword: Tiertafel Hamburg
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Weihnachts-Futterausgabe
+
 ---
 
 **Ein Herz für Tiere und Menschen bewiesen alle, die in den letzten Wochen für die Tiertafel Hamburg gespendet haben und damit die Weihnachts-Futterausgabe möglich gemacht haben. Zahlreiche freiwillige HelferInnen packten mit an und verteilten Futter, Spielzeug, Decken, Leckerlis und Streicheleinheiten.**

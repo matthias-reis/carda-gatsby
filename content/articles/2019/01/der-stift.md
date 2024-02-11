@@ -1,13 +1,13 @@
 ---
 date: 2019-01-16T07:16:44.000Z
-slug: der-stift
-path: /2019/01/der-stift/
 title: Der Stift
 seoTitle: Der Stift - Anfang einer Geschichte, die spannend werden könnte
 ogTitle: Der Stift - Anfang einer Geschichte, die spannend werden könnte
-description: Aus einer Laune heraus kaufte sie sich einen schwarzen Stift, den sie sehr liebte und alsbald verlor. Der alte blaue Stift konnte ihn nicht ersetzen.
-excerpt: Wie ein Stift einen zum Schreiben motivieren kann, was der Strand damit zu tun hat und wie eine Geschichte losgeht.
-fileName: 2019-01---der-stift.md
+description: Aus einer Laune heraus kaufte sie sich einen schwarzen Stift, den
+  sie sehr liebte und alsbald verlor. Der alte blaue Stift konnte ihn nicht
+  ersetzen.
+excerpt: Wie ein Stift einen zum Schreiben motivieren kann, was der Strand damit
+  zu tun hat und wie eine Geschichte losgeht.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2018-11-00-aegypten-92__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2018-11-00-aegypten-92__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAqEAACAQMDAgMJAAAAAAAAAAABAgMABBEFEiEGMUFhkQcTFCIjM1GBof/EABgBAAMBAQAAAAAAAAAAAAAAAAQFBgID/8QAJREAAAUBCAMBAAAAAAAAAAAAAAECAwQRBSEiQXGBodESFDGx/9oADAMBAAIRAxEAPwCY9mWjxQdOWFyYF+KmR33KSu5CxwGHj2710O1to3T7TcDB3VFdN9XWum6DptqUuJVtoI4WkFs+NwAzzjtmnq9fWb/TFrcyvgfIsBDehI/INAeytOfIqSjsGkrq7H0NWoWIbLNhvIc4qb1HTY5gS4VcnAAGeabv1vp7RuUtJsLkDMWN3GcDJ7+RpBqfWVg0zwtZPHIcgGQBcY/fHh610XMUoqJO/UYaiR0qqo/3oTFhrGiXMSBJZomXYHaNSPeZ7rgA8j+1T23UUFpBKC8+Flj2EqH3qCvgOcYB70UU5hRGpDfk4Vdz7EdNtKRGWZNKpsXQxXeuLJHOoDSszyEBpmUEHsfI0q1LW9Lltr1mZIwSN5VwzJgDK5PJziiijpEKO0nCgs+AtiWrMdXjcM/nOg//2Q==
@@ -20,12 +20,11 @@ labels:
   - Strand
   - Ufer
 focusKeyword: Stift
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Anfang einer Geschichte
+
 ---
 
 Aus einer guten Laune heraus kaufte sie sich einen schwarzen Stift, den sie sehr liebte und alsbald verlor. Der alte blaue Stift, welcher noch zu Hause in der Schublade lag, konnte ihn nicht ersetzen.

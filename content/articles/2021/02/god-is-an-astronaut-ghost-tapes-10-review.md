@@ -5,17 +5,12 @@ excerpt: 'Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr zehntes
   entdeckt.'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/god-is-an-astronaut-ghost-tapes-fb-png-imagine-f8f8f8_dddbd5_1200_628/640.webp
 isAffiliate: false
-path: /2021/02/god-is-an-astronaut-ghost-tapes-10-review/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAArEAABAwMCBAUFAQAAAAAAAAABAgMEAAYRBSEIEjFBMlFhhMMHExQjM1T/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAABACEx/9oADAMBAAIRAxEAPwBj4YA4W7sDKyhwiJhQAOP7ee1Um5rk1bQIDklelz5SWzkqbUyQRueg33GO3ap3wseO6dv8nzVRrks6HKfanae5+KG3fvPtoUotuhOTsnOAc5Hluaw9qXPsy8NUuqE1Kj6bqcVlxBWlx8xwhQHcbc2OnakXifDgatEPKKnMS+YnHX9PkMUz/SSwGY+gQ9Q1yQrUlPoRJjMuKWW2EqAUE8pOCRt6elLnFP1tX3fw1TsY4WPFdXtPmq3yg85zsFlC2XElKlBXLsQcjrmiiouws9PZXHix4iI6Y8ZlAaQOfPKlIASOvpiopxUHKrV938NFFB2N/9k=
 typeName: Review
 isWerbung: false
-fileName: 2021-02---god-is-an-astronaut-ghost-tapes-10.md
-slug: god-is-an-astronaut-ghost-tapes-10-review
-errors: {}
 date: 2021-02-12T05:00:38.000Z
 focusKeyword: God Is An Astronaut
 languageLink: /2021/02/god-is-an-astronaut-ghost-tapes-10-review-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_god-is-an-astronaut-ghost-tapes-10__m.jpg
 title: 'God Is An Astronaut – "Ghost Tapes #10"'
@@ -32,6 +27,7 @@ labels:
   - God Is An Astronaut
   - Jo Quail
   - Post-Rock
+
 ---
 
 **Es ist so weit: Heute veröffentlichen God Is An Astronaut ihr zehntes Album "Ghost Tapes #10". Ich habe die Platte gehört und dabei einige interessante Details entdeckt.**

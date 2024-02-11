@@ -1,13 +1,12 @@
 ---
-date: 2020-04-01T14:51:50.000+00:00
-slug: second-life-fashion
-path: '/2020/04/second-life-fashion/'
+date: 2020-04-01T14:51:50.000Z
 title: Second Life Fashion
 seoTitle: Second Life Fashion - Kleidung ein zweites Leben schenken
 ogTitle: Second Life Fashion - Kleidung ein zweites Leben schenken
-description: Das Second-Hand Start-up Second Life Fashion möchte mit bereits vorhandenen Ressourcen auskommen. Ich habe dort jetzt ein Outfit bestellt.
-excerpt: Das Second-Hand Start-up Second Life Fashion möchte mit bereits vorhandenen Ressourcen auskommen. Ich habe dort jetzt ein Outfit bestellt.
-fileName: 2020-04---second-life-fashion.md
+description: Das Second-Hand Start-up Second Life Fashion möchte mit bereits
+  vorhandenen Ressourcen auskommen. Ich habe dort jetzt ein Outfit bestellt.
+excerpt: Das Second-Hand Start-up Second Life Fashion möchte mit bereits
+  vorhandenen Ressourcen auskommen. Ich habe dort jetzt ein Outfit bestellt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_secondlife-fashion__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_secondlife-fashion__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwECCP/EACgQAAIBAwMEAQQDAAAAAAAAAAECAwQFEQASIQYTMUFRBxQioWGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMABf/EABwRAAICAgMAAAAAAAAAAAAAAAABAgMEISJRYf/aAAwDAQACEQMRAD8AdW3piCko6Y1FMihGBV/tlDEe92RyPYznW19sCyKInrt0LP8AijqQoGc8cHH9caWW7r2rp1JjorfschDhZPj0N3wRqON9S7vVXi5xy26iFLTzJGqpFvWPGMkZIPPk+f1qI6GuXXVHaYpJ7jSz0tOkgRpGqIdu4k45Zh8ahVJ9UaG79azJYqiWaGFN0vdK9vasb8AqTwXIy3PjHvWOt1p6Wmeeo2yLSzK7HAbADckZ9kDVZ9B9P1Nxo6y5yxJHNV1LzZjKnIZ2OByCACBpWtbCj4IqaSRoVzJvKybiIUaQ+PHA88fvSmWmrqSmVoqaqczVDSs8sRUruf4Bzx/OjRohS7PqB9zcum67sJ2FRhHJUE/hHk/6WPoDnPwNQ633M2i3NT0iyxr3mlUxsuVB52YYEY0aNI+jNybZVviz/9k=
@@ -19,14 +18,13 @@ labels:
   - Second Life Fashion
   - Second-Hand
 focusKeyword: Second-Hand
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Kleidung ein zweites Leben schenken
 advertisement: true
 affiliate: true
+
 ---
 
 **Second Life Fashion ist ein Online Second-Hand Shop. Das Start-up möchte mit den Ressourcen auskommen, die bereits existieren. Ich habe dort jetzt ein Outfit bestellt.**

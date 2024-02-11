@@ -1,17 +1,16 @@
 ---
-date: 2017-09-30T07:00:28.000+00:00
-slug: i-like-birds-blind-date-mit-einem-ganz-besonderen-song
-path: '/2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/'
+date: 2017-09-30T07:00:28.000Z
 title: Blind Date mit einem ganz besonderen Song
 seoTitle: '"I like birds" - Blind Date mit einem besonderen Song - Eels für die Seele'
 ogTitle: '"I like birds" - Blind Date mit einem besonderen Song - Eels für die Seele'
-description: '"I like birds" ist ein ganz besonderer Song. Ein Song für ein Blind Date. Von meiner Erfahrung damit möchte ich Euch heute berichten.'
-excerpt: '"I like birds" ist ein ganz besonderer Song. Ein Song für ein Blind Date. Von meiner Erfahrung damit möchte ich Euch heute berichten.'
-fileName: 2017-09---blind-date-mit-einem-ganz-besonderen-song.md
+description: '"I like birds" ist ein ganz besonderer Song. Ein Song für ein
+  Blind Date. Von meiner Erfahrung damit möchte ich Euch heute berichten.'
+excerpt: '"I like birds" ist ein ganz besonderer Song. Ein Song für ein Blind
+  Date. Von meiner Erfahrung damit möchte ich Euch heute berichten.'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_swallows-2637187_1280__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_swallows-2637187_1280__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYF/8QAKBAAAQMCBAYCAwAAAAAAAAAAAQIDBAURAAYSIRMUIjFBYQcjJFFx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQAAf/EAB4RAAIBAwUAAAAAAAAAAAAAAAABAhETYTEyM0GB/9oADAMBAAIRAxEAPwBxhJAJtsBck9gPeONOzHCjo/DS/VHtzw4CQ4AASCVLvoSAQbknwdjbC2+S5dbTR4LlYeYb5x3mmWC4ppbLegfUtjTayV9lqUokgCw8a9VJpsalx5efV0uKtDinGYzcgtxUoISE2a2C1Hz0nvbfDXnKTiugLaSTZRn12ZV5EByn802pbpYQKUjmFN3UA4HZF+CiwAPTqI33840Ay3JMx8pqKmIC0LS8ppJVMfSb24kpRukC/ZIA2xWi5jkS9UXKWW5Tsds6DIlI5GOgkdJCSNa0/uwBsPYxXdybUa6y0c5Vt6TsrXCpt48dJ8AHusbb6hv63vtcna0wLjOVTbqbMpDDDkeRHrMmLJkrfLrktTbSLLVcWSLLICQLAAYb+VMs06A0zU+GqVUJLTLwlS1F95ocNNkpWq5A/lhfwMGDAQ5ZeCy2I0bhKj1KKj7N8Qt7wYMUk7P/2Q==
-ogImage:
+ogImage: null
 labels:
   - Achtsamkeit
   - Bands
@@ -22,16 +21,15 @@ labels:
   - Menschen
   - Musik
   - Stadt
-  - 'serie: Musikalisches Blind Date'
+  - "serie: Musikalisches Blind Date"
 focusKeyword: I like birds
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"I like birds" von Eels'
-year: '2017'
-month: '09'
+year: "2017"
+month: "09"
+
 ---
 
 **"I like birds" von Eels war jahrelang mein Lieblingslied und das nicht nur, weil der Name des Songs ziemlich gut zu mir passt. Auch heute noch steht das Lied in den Listen meiner am häufigsten gehörten und am heißesten geliebten Songs ganz oben.**

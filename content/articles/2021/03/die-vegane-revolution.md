@@ -1,13 +1,13 @@
 ---
 date: 2021-03-01T16:41:50.000Z
-slug: die-vegane-revolution
-path: /2021/03/die-vegane-revolution/
 title: Die vegane Revolution
 seoTitle: Die vegane Revolution – wie sich vegane Lebensmittel ausbreiten
 ogTitle: Die vegane Revolution – wie sich vegane Lebensmittel ausbreiten
-description: Die vegane Revolution ist nicht mehr aufzuhalten. Laut Vegan Society und Business Expert sollen pflanzliche Produkte schon bald dominieren.
-excerpt: Die vegane Revolution ist nicht mehr aufzuhalten. Laut Vegan Society und Business Expert sollen pflanzliche Produkte schon bald den Markt dominieren.
-fileName: 2021-03---die-vegane-revolution.md
+description: Die vegane Revolution ist nicht mehr aufzuhalten. Laut Vegan
+  Society und Business Expert sollen pflanzliche Produkte schon bald dominieren.
+excerpt: Die vegane Revolution ist nicht mehr aufzuhalten. Laut Vegan Society
+  und Business Expert sollen pflanzliche Produkte schon bald den Markt
+  dominieren.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_die-vegane-revolution-1.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_die-vegane-revolution-1.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAHGElEQVRIiZWWW2xU1xWGz1OfkSpR9bV5jZQqL1VbqVWFVKlPkdqHqiVRVVRa1AhCarUkhTYRkDQBY2yDb+PbeG4ez80z45nxGF/Gcz9zs+dmMNjgIcSOsU2g4WKM8XzV3jOejiGqmi0tnX323metf/9rnbWW0hLW0xYfpCVq4GJooCbNIR0tYR3NYd1/18I6mkJamoJauS/WxJm2qIn22GDt+U1E6UwMMbOQZ0ydwpT3MVyYwJ6/IsWWv8LIXIDh4gRD2VG55ypOyqc152d0PsxwYVyCuRw1SgD18n8B0M46UQtp/NFJDHkv1qwfS84vDZpmPQzOeqUx8W7O+rDlxyQ444xHzsW+RrXQk7DtYeJ/ST1binCBJmGhNWKgI26Wyjpig3TGh+R7pzpEl2qhLVb5WOx1xMxSxJpQIoz3JuzfyAU1AO2xQS7V0SeACF8LAz2qlaGUh76ola7YEKb0CAKwoPtSxIA24ZDr4ptdFwh9Yi7WLkXEOSOXhUQrzxdZUupRCaXyZlUg7Qkz7SEjrdM6NDN2nPkJbLN+uS9ACwCauGXPzYWOClNmLoZ1tMYMUkSQd2WstMerDFTZU3aRCMo/meqmuLqAGDvlHT5bvsOt5RJPtjY5o2+iMdyPMT1CX8JevbWpKkaprDNu5tx0L9M3k+yO1bVVFkqLPHu+TbO5iwshrbRVc0FbDYCZfwW6mblVrADY2WE6GGYqEJLvHzSd5ZNQr4yJ/oQDc8Yr40GXctZoFzo+ne5hYi5WA6AmUox4R+W8ub2VD32X6Enb9wJoj1YouRgcIKhGYYeXxuLNRU47W+lKWxlIDuMvBulWrTiyYwyknLRG9JL2C2EtvtAE25vPXtJxf+NLThnOoZmxvQAgNkhLRE9v3MbNG4tsb2/LD8rlMlvPtuR8Y/kuDY2n6JixoFUdEoA478j4uXIjKnNBa9Qg6S3MFdnafFphcnub8lZFhxi//8uf6Jy10h4x0bYLoBIwAzLK179Y5WnVqIiD2njwjD+ePo51fhxfYRpPIUBsIUPu9lVptDWslxcZVN0s37nD1vPqJaqyO37z59+hyTto+zoAhpSb1c9X9tAWLmX5ge4wjb4+TjT+g66sna6omfhSlgdPH7L+6EsG0k7562oTdnpDQ5Rul5D3X1mhfPQo5b+fhJZmqe9gwxE0ObsEUHPBLgB90snDtfuElmbY2tlGvVOkKWrigPkY0XyKhnMnJYBzUz34roW49/gBdx/ew5udkjWhO25BEzNT2ljnaTYLr79OWVEoHz4M7x6HhhMcPHUcTdb2dQB0aBPD7Nx/gu96lF9a3sM9H9rrgjPH6ckP0xjoQ5sa5sZ6CXVxBnPcTX/KgU510KvaKC3dqjCwtkb5wAHKV67AdiUoDx47VHPBHgBNVRc8WN1gc2uTX9tO7XHF+vJdCUCTc9ATt+KbD8nAc8yOMVKcwqg6MUUcMkcsLdyoAEgmKwwoCrzxRgXA2yIGXnBBe2xQMmCb8XNXxMBOJWzKO2UebT6R83sraxw+8w59BRejhSB9STv6lIvx+SiO9Chm1U1rSE93wkrp1s0KgI0NyufPs3PmDLicUs9vJYAXGOiMD2HMeKTClTufw/OXE8HjtX/zh9PH6M45cGUncGXHcc2OY0l4sCY8EtD5UH+FgdISjx8/fjmZAG++6IL2ahYzpN2Sgc2Nr+TBT6N6mgMGLvj76cy7+Gr9Pu+cf5/+gpuxubD8/42RYfqmzNiSXoYzfnqiFnRJJyulzyrWMhn4+CPW29rYbDwPyRne/GcD3bm6ILwcMXIhqJUAxMKQ347Bb0f5uYLymoLyqoLyU4V3/9bA8XPvM7IYxJkewxgdZjDmwp7wYkq6ZVz0xW20xAz0jxrwFQs8+snPUBWFDxQFr6Iwvm8/Pz56CH3RxeWQoQKgI2aWjcf49Rh9aYcMxrPuNva//SP2vfV99h/5Id/6xSu8dfKIrAHu3CS2lA9PboqR3ASWjFemcZEFZUmOmWgOa/nruIaBQ7/Ctu/bGF/5Ht7vfJf3XnuVE34N/TN1Lhi9GpKZzVcM4p8L4clPEVhQCeQjTM6GCBZiBK+phG9n8F0NSuPC8FDaQ0d0sFYV68u67CWyTlqvefk47+Js0cWHWRsXsg66Zh3VXqFSthVT1Ik2YEEXtGEIO9CH7AwEbRhjTqxpH678BL5rQbzFaUayk4yIAJwdr926vsPZIxEjHbLQGdGlh/FeDdCbsMqmpDdpl12WAKFYVA+OzBju3AQj+SlJrTAgjeUmK+wUAnhyk1gzPkwpN/2qvdYD1Buvb7VEnpf5JajFkR/nybNN/PNhrq8tMbt8jfwXN2RvqQxmPLKwiN9IoLJnxxibC8mn6AkHkk6MKTddouBEDBX6dlu4ap9Yk2qXUw9IuEe0cdbcmPxW9I+ib9CoVumC/wCqM2nxbh78VwAAAABJRU5ErkJggg==
@@ -21,12 +21,11 @@ labels:
   - vegane Lebensmittel
   - vegane Revolution
 focusKeyword: vegane Revolution
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Wie vegane Lebensmittel den Markt dominieren werden
+
 ---
 
 **Vegan wird immer beliebter. Die Vegan Society und Business Expert kündigen jetzt sogar die vegane Revolution an: Pflanzliche Produkte sollen schon bald die Wirtschaft dominieren.**

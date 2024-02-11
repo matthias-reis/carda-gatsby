@@ -1,13 +1,12 @@
 ---
 date: 2011-08-18T15:35:10.000Z
-slug: ein-tag-im-august
-path: /2011/08/ein-tag-im-august/
 title: Ein Tag im August
 seoTitle: Ein Tag im August - kurzer Tagebucheintrag
 ogTitle: Ein Tag im August - kurzer Tagebucheintrag
-description: Neben mir ein Kleinlaster einer Möbelhauskette. Die mit dem völlig unsinnigen Werbeslogan, bei dem ich immer an Krankheiten denken muss.
-excerpt: Neben mir ein Kleinlaster einer Möbelhauskette. Die mit dem völlig unsinnigen Werbeslogan, bei dem ich immer an Krankheiten denken muss.
-fileName: 2011-08---ein-tag-im-august.md
+description: Neben mir ein Kleinlaster einer Möbelhauskette. Die mit dem völlig
+  unsinnigen Werbeslogan, bei dem ich immer an Krankheiten denken muss.
+excerpt: Neben mir ein Kleinlaster einer Möbelhauskette. Die mit dem völlig
+  unsinnigen Werbeslogan, bei dem ich immer an Krankheiten denken muss.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_dame1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_dame1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMABBEFEiEHMUEGExQiYaFCUYGRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAcEQACAwADAQAAAAAAAAAAAAABAgADEQQSIQX/2gAMAwEAAhEDEQA/AJd0m0pW1W0v2dy2+YBeNudmM/0asfxxjt+KR+md6NTkgmMSQ5mdSFyQAEHOad9Hu7u7nuhdwRRwo5RNodXRgcbXDDB4wQy8HNNVgARNySfYreuozDbWzKdrF25/iiujqU3tQWB2hss/BGfAooNjY0vfPrBoBI2LPSCUixteST8qbuMfpWqJqF5uglkg92Z4nRkigkAcsrcjngD9wfAqEejdXOk6hbLcSSCxBkLr3H1L3wPOQKfpfV+iyoI5J1KYxtMbAD8UZGHX2QnQ9ppdRxe3ltpwtrZpZQzGRY19wJkDz/tFYMvUDToZ2UJcSx7RtaJBgfbBI+1FZZVY7sf4/MtorCKoM//Z
@@ -39,13 +38,12 @@ labels:
   - Supermarkt
   - Tagebuch
   - Urlaub
-focusKeyword: ''
-status: publish
+focusKeyword: ""
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Auf dem Weg ins Büro
+
 ---
 
 **Erste Ampel: Neben mir: Mercedes. Baujahr 1976, Fahrer Baujahr 1978. Zieht an seiner Zigarette. Fliegersonnenbrille. Blondes Haar. Lächelt rüber. Ich lächle zurück. Die Ampel grün.**

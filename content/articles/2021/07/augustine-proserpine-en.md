@@ -1,11 +1,13 @@
 ---
 date: 2021-07-05T14:44:47.618Z
-slug: augustine-proserpine-en
 typeName: Review
 title: Augustine – "Proserpine"
 subTitle: The Multi-Instrumentalist Has A New Album
 seoTitle: Augustine – "Proserpine" – Review On An Exceptional Album
-description: Augustine, aka Sara Baggini, already released her new album in April. Although it's been some days since then, I didn't want to miss writing a review on "Proserpine". Her second long-player has a lot going for it and is definitely worth to be mentioned on this blog. I highly recommend it to you.
+description: Augustine, aka Sara Baggini, already released her new album in
+  April. Although it's been some days since then, I didn't want to miss writing
+  a review on "Proserpine". Her second long-player has a lot going for it and is
+  definitely worth to be mentioned on this blog. I highly recommend it to you.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-1-jpg-imagine-080808_2d2322_1024_768/640.webp
 copyright: Sara Baggini
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-fb-jpg-imagine-080808_261d1d_1200_628/640.webp
@@ -29,6 +31,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/07/augustine-proserpine
+
 ---
 
 **Augustine, aka Sara Baggini, already released her new album in April. Although it's been some days since then, I didn't want to miss writing a review on "Proserpine". Her second long-player has a lot going for it and is definitely worth to be mentioned on this blog.**

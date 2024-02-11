@@ -1,13 +1,12 @@
 ---
 date: 2012-02-22T12:21:18.000Z
-slug: so-du
-path: /2012/02/so-du/
 title: So Du
 seoTitle: So Du - Lyrik oder so
 ogTitle: So Du - Lyrik oder so
-description: Ich kann das ganz alleine, ich brauche keinen Profi, hm, jetzt ist es kaputt, ach macht nichts, lass uns einfach was anderes daraus bauen.
-excerpt: Ich kann das ganz alleine, ich brauche keinen Profi, hm, jetzt ist es kaputt, ach macht nichts, lass uns einfach was anderes daraus bauen.
-fileName: 2012-02---so-du.md
+description: Ich kann das ganz alleine, ich brauche keinen Profi, hm, jetzt ist
+  es kaputt, ach macht nichts, lass uns einfach was anderes daraus bauen.
+excerpt: Ich kann das ganz alleine, ich brauche keinen Profi, hm, jetzt ist es
+  kaputt, ach macht nichts, lass uns einfach was anderes daraus bauen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_02_img_8807__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_02_img_8807__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwMECP/EACsQAAEDAgUDAgcBAAAAAAAAAAECAxEABAUGEiExB0FRE2EUIzJxgZGh8P/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAD/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADESES/9oADAMBAAIRAxEAPwC5G+qmVGR83Mtk/ICgUN6QATE8/n7U4wnP2V8Svba1w7GLR9+7XCEtq3UqJgjsfauX2Mg5RXoSEOlekzpccIKu0bceamOVOkWWry/YSg3bYMaixckK4MxtPMUr1so3Zq7FY5kuXGup+VMKV6a8YtXrj1SyWG1grBEkz7CP3FYU9TsuuvOBnELdxtDXqrClaFJlQSBvsZnt2qj8Y6Q4DbXC2303JdSsgk3KgCJPlPiKUu9K8uoMLkbcfEk+dx/P7RWp2G+oHsVTmSQMP/TsQNQGyqf4RjVxZJ1sQOOSf92ooquwAjsnqJB5NLFsYcfuAlxpJKgd5NKXLqJ0oggc6jRRTIAAMgsJJ7P/2Q==
@@ -51,13 +50,12 @@ labels:
   - Wasser
   - Winter
   - Zukunft
-focusKeyword: ''
-status: publish
+focusKeyword: ""
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Prosa oder so
+
 ---
 
 **Molekularbiologie und Backgammon, Wolkenfotos und Kochexperimente, Festivalsommer und Tretbootausflüge, Flohmarktbummel und Kunst aus Resten, Zukunftsmusik und Gegenwartsträume, die Suche nach dem einen, dem schäfsten Gewürz auf Erden, "Ich kann das ganz alleine, ich brauche keinen Profi, hm, jetzt ist es kaputt, ach macht nichts, lass uns einfach was anderes daraus bauen".**

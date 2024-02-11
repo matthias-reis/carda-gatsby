@@ -1,13 +1,13 @@
 ---
 date: 2018-04-18T16:15:42.000Z
-slug: forscher-hoffen-auf-plastikfressendes-enzym
-path: /2018/04/forscher-hoffen-auf-plastikfressendes-enzym/
 title: Forscher hoffen auf plastikfressendes Enzym
 seoTitle: Forscher hoffen auf plastikfressendes Enzym - Serendipitiy Meeresretter?
-ogTitle: Forscher hoffen auf plastikfressendes Enzym - Serendipitiy vielleicht Retter der Weltmeere
-description: Berichten von CNN zufolge haben Forscher durch Zufall ein Enzym entwickelt, welches in der Lage dazu ist, Kunststoffe zu fressen.
-excerpt: Berichten von CNN zufolge haben Forscher durch Zufall ein Enzym entwickelt, welches in der Lage dazu ist, Kunststoffe zu fressen.
-fileName: 2018-04---forscher-hoffen-auf-plastikfressendes-enzym.md
+ogTitle: Forscher hoffen auf plastikfressendes Enzym - Serendipitiy vielleicht
+  Retter der Weltmeere
+description: Berichten von CNN zufolge haben Forscher durch Zufall ein Enzym
+  entwickelt, welches in der Lage dazu ist, Kunststoffe zu fressen.
+excerpt: Berichten von CNN zufolge haben Forscher durch Zufall ein Enzym
+  entwickelt, welches in der Lage dazu ist, Kunststoffe zu fressen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_11355109883_b10e2b2963_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_11355109883_b10e2b2963_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYCB//EACkQAAIBAwQBAgYDAAAAAAAAAAECAwQREgAFITFBBiITFBVCcYFRYtH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAwIEBf/EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDEiExUZHR/9oADAMBAAIRAxEAPwB1PCsTwpnIEQqEUMBb+p7ybjk66eRJFiZHMhU5K2WBa1r2HRGo6qQT0p+UkiSeNzGFcN5PJWwNzfoG/eo6TaqitjlpIEieekxvNKgSJC5PvtyCbC3P7GmOUVbY1EDYngRTvzPVinp5Yw6FsiGF7m3QN+blh+hrMz0Uwqt4o46ZxU/Jj3M9zI5OQBA4U2448EaebvvS+md6edUhrKqAFMgfZkCMj13Zh+OdK6Devrv1SrnkDJAokeWUjNSDmVaw+1QbfkDvTMG24rqu/chlrU+b+T0hdipopfie263XhACV7sT/AJbx51l29URJOMNuCyFsA/xQx46JyU3OjRo1B7ELMrVXo1N8mbcZdyq0llNyrWZRY+Bx/J1VO2LsFNS7XTSs77jKwlqTw+Ma5kcc3IXG9+ATxo0a0mxImIMooyimRnzFWNif/9k=
@@ -40,12 +40,11 @@ labels:
   - USA
   - Zero Waste
 focusKeyword: Enzym
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Serendipity vielleicht Retter der Weltmeere
+
 ---
 
 **Berichten von CNN zufolge haben Forscher durch Zufall ein Enzym entwickelt, welches dazu in der Lage ist, Kunststoffe zu fressen. Dies könnte ein Vorstoß in Sachen Reinigung der von Plastik verseuchten Weltmeere bedeuten und vielleicht sogar die Lösung eines der größten Umweltprobleme aller Zeiten sein.**

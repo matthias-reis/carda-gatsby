@@ -1,22 +1,19 @@
 ---
 ogTitle: Vegan radwandern - Essen und trinken unterwegs
-excerpt: Vegan radwandern - damit würde ich am liebsten den halben Sommer verbringen. Heute zeige ich Euch, was wir auf unseren Fahrradtouren im Gepäck haben.
+excerpt: Vegan radwandern - damit würde ich am liebsten den halben Sommer
+  verbringen. Heute zeige ich Euch, was wir auf unseren Fahrradtouren im Gepäck
+  haben.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegane-radtour.png__l.jpg
 isAffiliate: false
-path: /2020/08/vegan-radwandern/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMEESEABRIGMQdBUWETFiNxgSIyUqHx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAwX/xAAcEQEAAwADAQEAAAAAAAAAAAABAAIRAxIhQQT/2gAMAwEAAhEDEQA/AIWjTgqAMyXIBVv5eQPp9+x7i+msTIrs6zRsQtkYvYC3+ab+HNV01BuMqdTRmVPg/QWQF0FssCB3uCD5jB1qlPvvhtRR/S2ihewP7Nvv/bDXIPzV5DuWwfkDRX2ZT0/tlRuG901NRQrWys4cRMocMtrkkHBHrpb1xt81FvtXSNRLQzgKGjij4KoIP6lW5yw7D1ucAE6roaraarrKv+WYqilpYuCWJClSzC4XicLZTj2OpTqSd6vea6okZ6gq4QMZCxWwsbZxm/vpmtOCg29dh6eYSdo6ymWKENE7g5LqMixsfsfL8++m3KiSUiHmxJDAySE2Bz+RbRo1PYzSWdvk6aDdGo5lqKVY4+S8SoawJANrYz3PfSKqqomdZSCzg8wWsSTm+PP10aNKGmMzQyf/2Q==
-date: 2020-08-04T11:01:38.000+00:00
+date: 2020-08-04T11:01:38.000Z
 typeName: Artikel
 advertisement: true
 isWerbung: false
-fileName: 2020-08---vegan-radwandern.md
-slug: vegan-radwandern
-errors: {}
 title: Vegan radwandern
 subTitle: Essen und trinken unterwegs
 focusKeyword: vegan radwandern
 affiliate: true
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-21__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_%EF%BF%BC2020-06-28-same-but-green-21__m.jpg
 seoTitle: Vegan radwandern - Essen und trinken unterwegs
@@ -30,7 +27,10 @@ labels:
   - veganes Proviant
 language: de
 type: Artikel
-description: Vegan radwandern - damit würde ich am liebsten den halben Sommer verbringen. Heute zeige ich Euch, was wir auf unseren Fahrradtouren im Gepäck haben.
+description: Vegan radwandern - damit würde ich am liebsten den halben Sommer
+  verbringen. Heute zeige ich Euch, was wir auf unseren Fahrradtouren im Gepäck
+  haben.
+
 ---
 
 **Ich weiß nicht, wie es Euch geht: Wir lieben unsere veganen Ausritte - gemütliche Tagestouren mit dem Fahrrad mit Badezeug und Snacks im Gepäck. Uns einfach mal treiben lassen und den Alltag für ein paar Stunden hinter uns lassen.**

@@ -1,12 +1,16 @@
 ---
 date: 2024-01-24T14:30:00.766Z
-slug: kara-delik-interview
 typeName: Interview
 title: '"Diese Katze steht nur auf, wenn es ans Tanzen geht!"'
 subTitle: Kara Delik über ihr Album "All The Singularities (I – IV)"
 seoTitle: Interview – Kara Delik – "All The Singularities (I – IV)"
-description: Kara Delik haben mit ihrem Album "All The Singularities (I – IV)" ordentlich vorgelegt. Erfahrt jetzt alles über die grandiose Band aus Berlin und ihren Stilmix.
-excerpt: Kara Delik haben die Berliner Musikszene im Sturm erobert. Ich hatte jetzt die Gelegenheit sie zu interviewen und dabei einige spannende Insights über die Bandgeschichte und ihren unvergleichlichen Sound erhalten. Wir haben uns außerdem über eine ganz besondere schwarze Katze unterhalten.
+description: Kara Delik haben mit ihrem Album "All The Singularities (I – IV)"
+  ordentlich vorgelegt. Erfahrt jetzt alles über die grandiose Band aus Berlin
+  und ihren Stilmix.
+excerpt: Kara Delik haben die Berliner Musikszene im Sturm erobert. Ich hatte
+  jetzt die Gelegenheit sie zu interviewen und dabei einige spannende Insights
+  über die Bandgeschichte und ihren unvergleichlichen Sound erhalten. Wir haben
+  uns außerdem über eine ganz besondere schwarze Katze unterhalten.
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-24/kara-delik-interview-soundsvegan-com-jpg-imagine-080808_5d4430_1024_768/640.webp
 copyright: Kara Delik
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-24/kara-delik-interview-soundsvegan-com-og-jpg-imagine-383838_5b4e44_1200_628/640.webp
@@ -32,6 +36,7 @@ affiliate: false
 language: de
 languageLink: /2024/01/kara-delik-interview-en/
 productsProvided: false
+
 ---
 
 **Kara Delik – das ist das sagenhafte internationale Trio, das die Berliner Musikszene im Sturm erobert hat. Die Band, bestehend aus Barış Öner (Istanbul Ghetto Club, [Saz]), Andi Sommer (Henry Fonda, Yacht Communism, [Bass, Synths]) Eilis Frawley (Anika, Laura Lee & The Jettes, [Drums]), verbindet komplexe Rhythmen mit spannenden Soundscapes und Effekten. Das Ganze reichern die drei gekonnt mit einer Mischung aus Post-Punk und anatolischen Sounds an. Erst kürzlich feierten sie mit ihrem Album "All The Singularities (I – IV)" einen großen Erfolg und gehen demnächst auf Tour – Zeit für ein Interview auf Sounds Vegan!**

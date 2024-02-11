@@ -1,14 +1,19 @@
 ---
 date: 2023-11-06T10:14:00.766Z
-slug: six-days-of-calm-my-little-safe-place-interview
 typeName: Interview
-title: 'My Little Safe Place'
+title: My Little Safe Place
 subTitle: Interview mit Marc von Six Days Of Calm über sein neues Album
 seoTitle: Six Days Of Calm - "My Little Safe Place" – Post-Rock Interview
-description: Das neue Six Days Of Calm Album "My Little Safe Place" ist ein Post-Rock-Juwel. Lest jetzt mein Interview mit Gründer Marc und erfahrt alles über die Platte!
-excerpt: '"My Little Safe Place" – was dieser Albumtitel für ihn bedeutet und wie die Platte entstanden ist – darüber habe ich mich mit Six Days Of Calm Gründer Marc unterhalten. Wir haben natürlich auch darüber geplaudert, was sich seit seinem Debüt-Album 2020 für ihn uns seine Musik geändert hat. Eine künstlerische Überraschung gibt es on top für Euch.'
+description: Das neue Six Days Of Calm Album "My Little Safe Place" ist ein
+  Post-Rock-Juwel. Lest jetzt mein Interview mit Gründer Marc und erfahrt alles
+  über die Platte!
+excerpt: '"My Little Safe Place" – was dieser Albumtitel für ihn bedeutet und
+  wie die Platte entstanden ist – darüber habe ich mich mit Six Days Of Calm
+  Gründer Marc unterhalten. Wir haben natürlich auch darüber geplaudert, was
+  sich seit seinem Debüt-Album 2020 für ihn uns seine Musik geändert hat. Eine
+  künstlerische Überraschung gibt es on top für Euch.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-space-interview-header-jpg-imagine-080808_0a1007_1024_768/640.webp
-copyright: 'Six Days Of Calm'
+copyright: Six Days Of Calm
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-06/sixdays-of-calm-my-little-safe-space-interview-og-jpg-imagine-080808_13160d_1200_628/640.webp
 labels:
   - Band
@@ -26,6 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/11/six-days-of-calm-my-little-safe-place-interview-en/
+
 ---
 
 **"My Little Safe Place" heißt das neue Album von Six Days Of Calm. Ich habe mich mit Marc über die Entstehung der Platte und seine Inspirationsquellen unterhalten – und darüber, was sich seit unserem letzten Gespräch bei der Veröffentlichung von "The Ocean's Lullaby geändert hat.**

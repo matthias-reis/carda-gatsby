@@ -1,12 +1,17 @@
 ---
 date: 2022-04-05T12:52:23.945Z
-slug: palmoel-alternative-mikroalgenoel-ntu
 typeName: Beitrag
 title: Mikroalgenöl als Palmöl-Alternative
 subTitle: Neue Studie der Nanyang Technological University
 seoTitle: Mikroalgenöl als Palmöl-Alternative – Neue Studie der NTU
-description: Palmöl-Alternativen – wie lange ich in diese Richtung schon recherchiere, kann ich nicht sagen. Jetzt haben Forschende der NTU herausgefunden, dass Mikroalgenöl vielleicht die Lösung sein könnte.
-excerpt: 'Palmöl-Alternativen – wie lange ich in diese Richtung schon recherchiere, kann ich nicht sagen. Jetzt haben Forschende möglicherweise tatsächlich ein Öl entdeckt, das bald in großen Mengen verfügbar und ebenso vielseitig einsetzbar sein könnte – ohne, dass dabei Urwälder zerstört werden oder schlagartig alles teurer wird: Mikroalgenöl'
+description: Palmöl-Alternativen – wie lange ich in diese Richtung schon
+  recherchiere, kann ich nicht sagen. Jetzt haben Forschende der NTU
+  herausgefunden, dass Mikroalgenöl vielleicht die Lösung sein könnte.
+excerpt: "Palmöl-Alternativen – wie lange ich in diese Richtung schon
+  recherchiere, kann ich nicht sagen. Jetzt haben Forschende möglicherweise
+  tatsächlich ein Öl entdeckt, das bald in großen Mengen verfügbar und ebenso
+  vielseitig einsetzbar sein könnte – ohne, dass dabei Urwälder zerstört werden
+  oder schlagartig alles teurer wird: Mikroalgenöl"
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-05/palmoel-alternative-mikroalgenoel-jpg-imagine-f8b808_b87120_1024_768/640.webp
 copyright: parkstonephotography, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-05/palmoel-alternative-mikroalgenoel-fb-png-imagine-f8b808_b46e1f_1200_628/640.webp
@@ -22,6 +27,7 @@ focusKeyword: Palmöl-Alternative
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Palmöl-Alternativen – wie lange ich in diese Richtung schon recherchiere, kann ich nicht sagen. Jetzt haben Forschende möglicherweise tatsächlich ein Öl entdeckt, das bald in großen Mengen verfügbar und ebenso vielseitig einsetzbar sein könnte – ohne, dass dabei Urwälder zerstört werden oder schlagartig alles teurer wird: Mikroalgenöl**

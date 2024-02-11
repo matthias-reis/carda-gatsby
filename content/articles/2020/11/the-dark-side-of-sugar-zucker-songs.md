@@ -1,13 +1,12 @@
 ---
 date: 2020-11-18T09:53:32.000Z
-slug: the-dark-side-of-sugar-zucker-songs
-path: /2020/11/the-dark-side-of-sugar-zucker-songs/
 title: The Dark Side Of Sugar
 seoTitle: The Dark Side Of Sugar – Metal Band covert zuckrige Songs
 ogTitle: The Dark Side Of Sugar – Metal Band covert zuckige Pop-Songs
-description: Die frisch gegründete Metal Band Risen From Shadows macht mit einer ganz besonderen Aktion auf die Gefahren von Zucker aufmerksam.
-excerpt: Die frisch gegründete Metal Band Risen From Shadows macht mit einer ganz besonderen Aktion auf die Gefahren von Zucker aufmerksam.
-fileName: 2020-11---the-dark-side-of-sugar.md
+description: Die frisch gegründete Metal Band Risen From Shadows macht mit einer
+  ganz besonderen Aktion auf die Gefahren von Zucker aufmerksam.
+excerpt: Die frisch gegründete Metal Band Risen From Shadows macht mit einer
+  ganz besonderen Aktion auf die Gefahren von Zucker aufmerksam.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_dark-side-of-sugar-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_dark-side-of-sugar-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAEBQj/xAAoEAACAgIBAwMEAwEAAAAAAAABAgMEBREABhIhEyIxB0FRYQgUMnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AX7WFTHY9WqY+e4/eqelD27AJ8t514Hzzl525hsJjZchk4xVrxiH5YFyzglk7VBO1A3+96+3Ea61apVmt2ZAteBGmdh5CqoJJ8fOgDzyV9Q+qDk1pZypgLNavbnlsJLNV9GuygBUjC697KPcX+CznWwOA/wAtOpJiMdextGzkorgidBV7G1G+vedke0b865pynQ9G5E6FA2wR/kcOf40dX2L39bpi76RiqUZ54JDvuZfWQdmz40u2+Pz+uO+VqRW661pzIFlJQKrlO46J14/5wCSr9bumbQQHLUKsizsvoAu/roEb5dlURnetHzsjX34bfXvrqv1EOn4o2rW8QZltqazszNE20ZGf4Ukq3gAEa/Xm5cA+zy4XGZ6lXs35s3XrDtlgxE7RxRe4u0aOx+wYDY8Egn53zDk+obDZCOuLHUJxcMvdSqyX2ZoYjvSbB13At4b8eNcuXA//2Q==
@@ -21,12 +20,11 @@ labels:
   - Risen From Shadows
   - Zucker
 focusKeyword: Zucker
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Metal Band covert zuckrige Popsongs
+
 ---
 
 **Die Metal Band Risen from Shadows macht anlässlich des Weltdiabetestages am 14. November gemeinsam mit Mokoh Music Berlin, Simon&amp;Paul und der britischen Non-Profit-Organisation Action on Sugar sowie den Agenturen Serviceplan Berlin und Mediaplus mit einer besonderen Kampagne auf die Gefahren von Zucker aufmerksam.**

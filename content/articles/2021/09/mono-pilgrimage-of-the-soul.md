@@ -1,12 +1,14 @@
 ---
 date: 2021-09-09T11:39:55.611Z
-slug: mono-pilgrimage-of-the-soul
 typeName: Review
 title: '"Pilgrimage Of The Soul"'
 subTitle: Das neue Album von Mono
 seoTitle: '"Pilgrimage Of The Soul" – Das neue Album von Mono Postrock-Review'
-ogTitle: ''
-description: Mono veröffentlichen am 17. September ihr neues Album "Pilgrimage Of The Soul". Die Platte ist ein echter Meilenstein dieses Musikjahres. Ihr solltet sie also auf keinen Fall verpassen. Ich finde bei jedem Hördurchgang neue Details. Ein paar davon möchte ich Euch verraten.
+ogTitle: ""
+description: Mono veröffentlichen am 17. September ihr neues Album "Pilgrimage
+  Of The Soul". Die Platte ist ein echter Meilenstein dieses Musikjahres. Ihr
+  solltet sie also auf keinen Fall verpassen. Ich finde bei jedem Hördurchgang
+  neue Details. Ein paar davon möchte ich Euch verraten.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/mono-pilgrimage-of-the-soul-jpg-imagine-080808_4c4e4b_1024_768/640.webp
 copyright: Mono Japan
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/mono-pilgrimage-of-the-soul-fb-png-imagine-080808_3b3d3c_1200_628/640.webp
@@ -28,6 +30,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/09/mono-pilgrimage-of-the-soul-en/
+
 ---
 
 **Mono veröffentlichen am 17. September ihr neues Album "Pilgrimage Of The Soul". Die Platte ist ein echter Meilenstein dieses Musikjahres. Ihr solltet sie also auf keinen Fall verpassen.**

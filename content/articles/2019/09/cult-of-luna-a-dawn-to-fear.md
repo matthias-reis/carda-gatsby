@@ -1,15 +1,16 @@
 ---
 date: 2019-09-23T15:48:01.000Z
-slug: cult-of-luna-a-dawn-to-fear
-path: /2019/09/cult-of-luna-a-dawn-to-fear/
 type: Artikel
 typeName: Review
 title: '"A Dawn To Fear"'
 seoTitle: '"A Dawn To Fear" - Das neue Album von Cult Of Luna'
 ogTitle: '"A Dawn To Fear" - Das neue Album von Cult Of Luna'
-description: Das neue Album von Cult Of Luna heißt "A Dawn To Fear". Genauso eindrucksvoll, wie der Titel ist die Musik, die es auf der Scheibe zu hören gibt.
-excerpt: Das neue Album von Cult Of Luna heißt "A Dawn To Fear". Genauso eindrucksvoll, wie der Titel ist die Musik, die es auf der Scheibe zu hören gibt.
-fileName: 2019-09---a-dawn-to-fear.md
+description: Das neue Album von Cult Of Luna heißt "A Dawn To Fear". Genauso
+  eindrucksvoll, wie der Titel ist die Musik, die es auf der Scheibe zu hören
+  gibt.
+excerpt: Das neue Album von Cult Of Luna heißt "A Dawn To Fear". Genauso
+  eindrucksvoll, wie der Titel ist die Musik, die es auf der Scheibe zu hören
+  gibt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-anne-reis-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-anne-reis-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCCP/EACgQAAEDAwMCBgMAAAAAAAAAAAECAwQABREGEiETMRQVIkFRcSOx8P/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAgT/xAAdEQACAgMAAwAAAAAAAAAAAAAAAQIDBBEhEhMx/9oADAMBAAIRAxEAPwDzvMty2wcgg5qCuG5uAxyauL1qVmVMcMWHtYzxvXyofOB2rtsGXDiT2PxbXiyoE8hWAc/WD+67H658iQ8px7Io3YbqDhSFD7FRnGyk8inzN0cyLCq49ZDgS6GVtpGSDgk/wpU36A21Ic6eVDPwRWbakuoartvTM202p11LSE5cWraOfc8U37w7EZ0/Etdv8rgMMyOuoRmFOOFwtBJy64fUPT7JABNFFOPFNNhkP4jaRdaw42nfLAtlXJX4jYlK1r4ySR847dqVmqLq3LeeK1BZUe9FFVslpEa1tn//2Q==
@@ -23,12 +24,11 @@ labels:
   - Schweden
   - Umeå
 focusKeyword: Cult Of Luna
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Das neue Album von Cult Of Luna
+
 ---
 
 **Das neue Album von Cult Of Luna heißt "A Dawn To Fear". Genauso eindrucksvoll, wie der Titel ist die Musik, die es auf der Scheibe zu hören gibt.**

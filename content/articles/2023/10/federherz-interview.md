@@ -1,12 +1,17 @@
 ---
 date: 2023-10-16T13:06:35.318Z
-slug: federherz-interview
 typeName: Interview
 title: '"Ich will die Puten aus ihrer Anonymität befreien"'
 subTitle: Federherz e. V. Gründerin Nadine
 seoTitle: Federherz e. V. Gründerin Nadine kämpft für die Puten – Interview
-description: Federherz e. V. – dieser Name steht für Tierliebe und Mitgefühl. Erfahrt jetzt, warum Gründerin Nadine Nitz Puten aus ihrer Anonymität befreien möchte!
-excerpt: Der Verein Federherz e. V. setzt sich ehrenamtlich für Tiere aus der Massentierhaltung ein. Gründerin Nadine Nitz hat mir im Interview einiges über Puten und Truthähne und warum ihr größtes Ziel ist, diese Tiere aus ihrer Anonymität retten möchte, erzählt. Sie leiden ungesehen hinter den Mauern der Industrie und haben keine Stimme.
+description: Federherz e. V. – dieser Name steht für Tierliebe und Mitgefühl.
+  Erfahrt jetzt, warum Gründerin Nadine Nitz Puten aus ihrer Anonymität befreien
+  möchte!
+excerpt: Der Verein Federherz e. V. setzt sich ehrenamtlich für Tiere aus der
+  Massentierhaltung ein. Gründerin Nadine Nitz hat mir im Interview einiges über
+  Puten und Truthähne und warum ihr größtes Ziel ist, diese Tiere aus ihrer
+  Anonymität retten möchte, erzählt. Sie leiden ungesehen hinter den Mauern der
+  Industrie und haben keine Stimme.
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-16/federherz-nadine-nitz-jpeg-imagine-181818_907e79_1024_768/640.webp
 copyright: Federherz e. V.
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-16/federherz-nadine-nitz-og-2-jpeg-imagine-181818_937670_1200_630/640.webp
@@ -24,6 +29,7 @@ focusKeyword: Federherz e. V.
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Federherz e. V. – dieser Name steht für Tierliebe und Mitgefühl. Gründerin Nadine Nitz und ihr Team kümmern sich auf ihrem Lebenshof ehrenamtlich um die unterschiedlichsten Tiere. Bei ihnen leben Puten, Truthähne, Hühner, Schweine und Kaninchen friedlich zusammen. Nadines größtes Ziel ist es, die Puten aus ihrer Anonymität zu befreien. Die Tiere leiden still hinter den Mauern der Industrie. Ich habe mich mit ihr zum Interview verabredet und dabei einiges über die gefiederten Einhörnchen gelernt.**

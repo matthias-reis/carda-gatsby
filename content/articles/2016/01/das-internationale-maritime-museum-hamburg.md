@@ -1,15 +1,16 @@
 ---
 date: 2016-01-19T17:11:11.000Z
-slug: das-internationale-maritime-museum-hamburg
-path: /2016/01/das-internationale-maritime-museum-hamburg/
 type: Galerie
 typeName: Galerie
 title: Das Internationale Maritime Museum Hamburg
 seoTitle: Das Internationale Maritime Museum in Hamburg
 ogTitle: Das Internationale Maritime Museum in Hamburg
-description: Vor ein paar Tagen haben wir uns das Internationale Maritime Museum in Hamburg angesehen. Ein wirklich lohnender Besuch, im Museum kann man alles über die Seefahrt und ihre Geschichte erfahren.
-excerpt: Vor ein paar Tagen haben wir uns das Internationale Maritime Museum in Hamburg angesehen. Ein wirklich lohnender Besuch, im Museum kann man alles über die Seefahrt und ihre Geschichte erfahren.
-fileName: 2016-01---das-internationale-maritime-museum-hamburg.md
+description: Vor ein paar Tagen haben wir uns das Internationale Maritime Museum
+  in Hamburg angesehen. Ein wirklich lohnender Besuch, im Museum kann man alles
+  über die Seefahrt und ihre Geschichte erfahren.
+excerpt: Vor ein paar Tagen haben wir uns das Internationale Maritime Museum in
+  Hamburg angesehen. Ein wirklich lohnender Besuch, im Museum kann man alles
+  über die Seefahrt und ihre Geschichte erfahren.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24399557911_726382707e_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24399557911_726382707e_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAACAQMDAwMEAwEAAAAAAAABAgMEBREAEiEGBzETQWEUIlGRIzIzcf/EABgBAQADAQAAAAAAAAAAAAAAAAUBAgME/8QAIREAAgIBAwUBAAAAAAAAAAAAAQIAAyEEETEFE0FhsVH/2gAMAwEAAhEDEQA/AFbs1YqRrHNdrPTrPf6eZoKhqmoaEQI4/j9I7SpDAYbdg+QONPVJHe4KqoqLq9JS5jndImlkknO0E715xtBHuAPf8DWF2n6cmpFr5apXWjrKfYypKInBU7gwYg/djcAPnT1czb4Kapho4JKP6qnKTVG0yzOAuAPux5HGR4zk4xoztV3hnGSIkWellU4ibaevKOWOCCC5GsqKmMBYo1y7Oy8qAMkn41wdyrHequmt1wuVsn9GGAsSkil4c7c7xnKEAD+wxp37LdA2zo+yUdyd1qL9WQq4q5U/wRuPTj87c8gt5J44HGm67SfTtLLUrG+UKJKow6D5GDxn/uqtplGUHEkahuG8zGgENJYamYQiRIIX2xsePcfv3/WpK3WF0ulRJAnoU8a5yQhZjjwQcjB5840aNYdOciltv2dGrQNcN5Qe2XUNfN0hLFUOrmllaOFlXbtTJwp/OCDz8/GpZ3V60u0t0rLYs7RU0AG8oxDyblzjd7DnwPOjRpWs7jPv7DrQAxA9fJ//2Q==
@@ -25,12 +26,11 @@ labels:
   - Seefahrt
   - Speicherstadt
 focusKeyword: Das Internationale Maritime Museum
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die Geschichte der Seefahrt
+
 ---
 
 **Vor ein paar Tagen haben wir uns das Internationale Maritime Museum in der Hamburger Speicherstadt angesehen. Ein wirklich lohnender Besuch, im Museum kann man alles über die Seefahrt und ihre Geschichte erfahren.**

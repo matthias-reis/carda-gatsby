@@ -1,14 +1,19 @@
 ---
 date: 2023-02-09T16:41:43.473Z
-slug: endometriose
 typeName: Beitrag
 title: Endometriose
 subTitle: Wie es sich anfühlt damit zu leben
 seoTitle: So fühlt es sich an mit Endometriose zu leben
-description: Wie fühlt es sich an mit Endometriose zu leben? Welche Behandlungsmöglichkeiten gibt es? Hier erfährst Du alles!
-excerpt: 'Tun wir doch mal etwas, das viel zu selten passiert: Sprechen wir über Endometriose. Die weitverbreitete Krankheit betrifft etwa zehn Prozent der Menschen mit Uterus und ist leider noch viel zu wenig erforscht. Schon die Diagnose ist unglaublich aufwendig, schmerzhaft und führt im schlimmsten Fall nicht mal zu einem Ergebnis. Was dann folgt, ist die nicht weniger aufwendige und häufig nicht sehr erfolgreiche Behandlung.'
+description: Wie fühlt es sich an mit Endometriose zu leben? Welche
+  Behandlungsmöglichkeiten gibt es? Hier erfährst Du alles!
+excerpt: "Tun wir doch mal etwas, das viel zu selten passiert: Sprechen wir über
+  Endometriose. Die weitverbreitete Krankheit betrifft etwa zehn Prozent der
+  Menschen mit Uterus und ist leider noch viel zu wenig erforscht. Schon die
+  Diagnose ist unglaublich aufwendig, schmerzhaft und führt im schlimmsten Fall
+  nicht mal zu einem Ergebnis. Was dann folgt, ist die nicht weniger aufwendige
+  und häufig nicht sehr erfolgreiche Behandlung."
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-09/2023-02-09-micaraa-014-jpg-imagine-585858_636363_2048_1536/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-09/endometriose-og-jpg-imagine-480818_825769_1200_628/640.webp
 labels:
   - Endometriose
@@ -25,6 +30,7 @@ focusKeyword: Endometriose
 advertisement: false
 affiliate: true
 language: de
+
 ---
 
 **Tun wir doch mal etwas, das viel zu selten passiert: Sprechen wir über Endometriose. Die weitverbreitete Krankheit betrifft etwa zehn Prozent der Menschen mit Uterus und ist leider noch viel zu wenig erforscht. Schon die Diagnose ist unglaublich aufwendig, schmerzhaft und führt im schlimmsten Fall nicht mal zu einem Ergebnis. Was dann folgt, ist die nicht weniger aufwendige und häufig nicht sehr erfolgreiche Behandlung.**

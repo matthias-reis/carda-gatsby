@@ -1,11 +1,13 @@
 ---
 date: 2021-09-17T14:40:17.773Z
-slug: llnn-unmaker-en
 typeName: Review
 title: '"Unmaker" By LLNN'
 subTitle: Post-Apocalyptic Sounds From Copenhagen
 seoTitle: '"Unmaker" By LLNN – Post-Metal Review'
-description: 'There is an album release coming up on September 24 that you shouldn''t miss in any case: "Unmaker" by LLNN is a textbook example of dark and heavy post-metal. If you are enthusiastic about this genre, you should definitely check out this monolith.'
+description: "There is an album release coming up on September 24 that you
+  shouldn't miss in any case: \"Unmaker\" by LLNN is a textbook example of dark
+  and heavy post-metal. If you are enthusiastic about this genre, you should
+  definitely check out this monolith."
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn-jpg-imagine-181818_000000_1024_768/640.webp
 copyright: LLNN
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn-fb-png-imagine-282828_454545_1200_628/640.webp
@@ -22,6 +24,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/09/llnn-unmaker/
+
 ---
 
 **There is an album release coming up on September 24 that you shouldn't miss in any case: "Unmaker" by LLNN is a textbook example of dark and heavy post-metal. If you are enthusiastic about this genre, you should definitely check out this monolith.**

@@ -1,12 +1,17 @@
 ---
 date: 2023-10-13T11:20:04.014Z
-slug: biodiversität-nimmt-ab
 typeName: Beitrag
 title: Biodiversität nimmt weiter ab
 subTitle: Nur 4 Prozent der Säugetiere sind Wildtiere
 seoTitle: Biodiversität nimmt weiter ab – 60 Prozent der Säugetiere "Nutztiere"
-description: Die Biodiversität nimmt weltweit immer weiter ab. Schon heute leben 60 Prozent aller Säugetiere in Nutztierhaltung. Erfahrt alles über die erschreckende Schieflage.
-excerpt: Die Biodiversität ist schon lange keine Vielfalt mehr. Die Forschenden sind sich einig, dass wir unsere Ressourcen schon lange ausgereizt und die Natur damit aus dem Gleichgewicht gebracht haben. Weil aktuell in Deutschland mal wieder aktiv Jagd auf Wildtiere gemacht wird, habe ich mir die Zahlen mal genauer angeschaut.
+description: Die Biodiversität nimmt weltweit immer weiter ab. Schon heute leben
+  60 Prozent aller Säugetiere in Nutztierhaltung. Erfahrt alles über die
+  erschreckende Schieflage.
+excerpt: Die Biodiversität ist schon lange keine Vielfalt mehr. Die Forschenden
+  sind sich einig, dass wir unsere Ressourcen schon lange ausgereizt und die
+  Natur damit aus dem Gleichgewicht gebracht haben. Weil aktuell in Deutschland
+  mal wieder aktiv Jagd auf Wildtiere gemacht wird, habe ich mir die Zahlen mal
+  genauer angeschaut.
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-13/biodiversitaet-jpeg-imagine-080808_574e46_1024_768/640.webp
 copyright: Sponchia, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-13/biodiversitaet-og-jpeg-imagine-080808_584f47_1200_630/640.webp
@@ -22,6 +27,7 @@ focusKeyword: Biodiversität
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die Biodiversität nimmt weiter ab. Da sind sich die Forschenden einig. Angesichts der Tatsache, dass in Deutschland gerade mal wieder aktiv Jagd auf Wölfe gemacht wird, habe ich mir die Zahlen mal genauer angeschaut und Erschreckendes festgestellt: Anders, als viele vielleicht vermuten würden, handelte sich bei den meisten Säugetieren auf der Erde nicht um wild lebende Tiere, sondern um "Nutztiere".**

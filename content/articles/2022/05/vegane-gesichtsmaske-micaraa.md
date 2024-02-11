@@ -1,12 +1,15 @@
 ---
 date: 2022-05-30T04:41:38.894Z
-slug: vegane-gesichtsmaske-micaraa
 typeName: Produkttest
 title: Die Cleansing Face Mask von MICARAA
 subTitle: Vegane Gesichtsmaske im Test
-seoTitle: 'Vegane Gesichtsmaske: Die Cleansing Face Mask von MICARAA'
-description: Die vegane Gesichtsmaske "Cleansing Face Mask! von MICARAA hält, was sie verspricht.
-excerpt: 'Ich habe die neue Cleansing Face Mask von MICARAA sozusagen unter Extrembedingungen getestet – meinen Erfahrungsbericht möchte ich heute mit Euch teilen. Nur soviel schon mal vorab: Ich finde, sie hält, was sie verspricht.'
+seoTitle: "Vegane Gesichtsmaske: Die Cleansing Face Mask von MICARAA"
+description: Die vegane Gesichtsmaske "Cleansing Face Mask! von MICARAA hält,
+  was sie verspricht.
+excerpt: "Ich habe die neue Cleansing Face Mask von MICARAA sozusagen unter
+  Extrembedingungen getestet – meinen Erfahrungsbericht möchte ich heute mit
+  Euch teilen. Nur soviel schon mal vorab: Ich finde, sie hält, was sie
+  verspricht."
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-30/2022-05-27-micaraa-05-jpg-imagine-e8c808_82b9a7_2048_1536/640.webp
 copyright: vegane Gesichtsmaske
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-30/vegane-gesichtsmaske-micaraa-fb-jpg-imagine-e8c808_86ab8a_1200_628/640.webp
@@ -25,6 +28,7 @@ labels:
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Ich habe die neue Cleansing Face Mask von MICARAA sozusagen unter Extrembedingungen getestet – meinen Erfahrungsbericht möchte ich heute mit Euch teilen. Nur soviel schon mal vorab: Ich finde, sie hält, was sie verspricht.**

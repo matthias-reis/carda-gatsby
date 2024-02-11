@@ -1,15 +1,14 @@
 ---
 date: 2014-05-02T14:40:59.000Z
-slug: fast-ein-bisschen-nostalgie
-path: /2014/05/fast-ein-bisschen-nostalgie/
 type: Artikel
 typeName: Konzertbericht
 title: Dredg live @ Theaterfabrik München
 seoTitle: Dredg live @ Theaterfabrik München - Etwas Nostalgie
 ogTitle: Dredg live @ Theaterfabrik München - Etwas Nostalgie
-description: Am Dienstag wurden wir endlich für unsere Geduld belohnt. Dredg gaben sich in München die Ehre und da mussten wir natürlich dabei sein.
-excerpt: Am Dienstag wurden wir endlich für unsere Geduld belohnt. Dredg gaben sich in München die Ehre und da mussten wir natürlich dabei sein.
-fileName: 2014-05---dredg-live-theaterfabrik-muenchen.md
+description: Am Dienstag wurden wir endlich für unsere Geduld belohnt. Dredg
+  gaben sich in München die Ehre und da mussten wir natürlich dabei sein.
+excerpt: Am Dienstag wurden wir endlich für unsere Geduld belohnt. Dredg gaben
+  sich in München die Ehre und da mussten wir natürlich dabei sein.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1093__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1093__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAwQH/8QAKhAAAgIBAwMDAgcAAAAAAAAAAQIDBBEABSEGEjETQVEiYSMyYnGRofH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBgP/xAAnEQACAQMCBAcBAAAAAAAAAAABAgMABBEhMQUSUWETQYGRweHw8f/aAAwDAQACEQMRAD8AiDsS097r3IfwzDKsgI47cEc6edZ3tp23fNv6jSZoLNlFs+lGh9Q+MtgeOfnWluzG88sceGeIKzfAz4H9ak+qalzctyG4iRJzHEQ8A4aOFeO79QySTjx76kLS654/Cm86l+CXjXVq9jKM5we47j93p9sMk3WG2Xb2/XK1y3LKXRUiVGjTnk49vHkex5OsaFKxsFqRFy9Kc9skZ5BHzpT0XFfFure26BZKDSPUnZm7AI+GDgng4JI/3XoF61HYqvBJUaEV8BZWABm7sknHnA4wffnQbyZ45mA1Dbjp9/3rWXFbCQXLvzKsLAHJOmdAcDViTvkAjPrUhc3ENcnbCIGVT2qMDOW0lvWe2SKxSMr38kL2vhVTByCP5+xB0aNMhjVdR0+Kx4YgWdWG5xXbtu72DWrC9Mk6EKY1T6FjUjAXH2/bVXPeqU6cckMaKPy9xBaQnIOSMge+jRo1zCpdRtrVRc28civI4y2Nzv71/9k=
@@ -26,12 +25,11 @@ labels:
   - Theaterfabrik
   - Theaterfabrik München
 focusKeyword: Dredg
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Fast ein bisschen Nostalgie
+
 ---
 
 **Am Dienstag wurden wir endlich für unsere Geduld belohnt. Dredg gaben sich in München die Ehre und da durften wir natürlich nicht durch Abwesenheit enttäuschen.**

@@ -1,12 +1,16 @@
 ---
 date: 2022-01-19T15:03:11.282Z
-slug: vegane-geigen
 typeName: Beitrag
 title: Die erste vegane Geige
 subTitle: Instrumentenbauer erhält Veganblume
 seoTitle: Vegane Geigen aus liebevoller Handarbeit
-description: 'Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner neuesten Kreation hat er alles, was ihm wichtig ist, miteinander: Musik, seine geliebten Violinen und Tierschutz. '
-excerpt: 'Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner neuesten Kreation hat er alles, was ihm wichtig ist, miteinander: Musik, seine geliebten Violinen und Tierschutz. Seine veganen Geigen wurden sogar von der Vegan Society mit der Veganblume zertifiziert.'
+description: "Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner
+  neuesten Kreation hat er alles, was ihm wichtig ist, miteinander: Musik, seine
+  geliebten Violinen und Tierschutz. "
+excerpt: "Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner
+  neuesten Kreation hat er alles, was ihm wichtig ist, miteinander: Musik, seine
+  geliebten Violinen und Tierschutz. Seine veganen Geigen wurden sogar von der
+  Vegan Society mit der Veganblume zertifiziert."
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-19/vegane-geige-padraig-o-dubhlaoidh-jpg-imagine-f8f8f8_bb7448_1024_768/640.webp
 copyright: Padraig ó Dubhlaoidh
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-19/vegane-geige-padraig-o-dubhlaoidh-fb-png-imagine-d86828_b76d3f_1200_628/640.webp
@@ -23,6 +27,7 @@ focusKeyword: vegane Geige
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Padraig ó Dubhlaoidh ist Geigenbauer aus Leidenschaft. Mit seiner neuesten Kreation hat er alles, was ihm wichtig ist, miteinander: Musik, seine geliebten Violinen und Tierschutz. Seine veganen Geigen wurden sogar von der Vegan Society mit der Veganblume zertifiziert.**

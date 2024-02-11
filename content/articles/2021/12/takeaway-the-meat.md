@@ -1,12 +1,15 @@
 ---
 date: 2021-12-01T14:20:24.033Z
-slug: takeaway-the-meat
 typeName: Beitrag
 title: Frisches Fleisch frei Haus
 subTitle: Veganer Werbespot aus Großbritannien sorgt für Wirbel
 seoTitle: Veganer Werbespot aus Großbritannien sorgt für Wirbel
-description: In Großbritannien sorgt jetzt ein veganer Werbespot für Aufmerksamkeit, noch bevor er zum ersten Mal ausgestrahlt wurde. Verantwortlich für den Clip sind die Vegan-Aktivist*innen von VIVA!.
-excerpt: In Großbritannien sorgt jetzt ein veganer Werbespot für Aufmerksamkeit, noch bevor er zum ersten Mal ausgestrahlt wurde. Verantwortlich für den Clip sind die Vegan-Aktivist*innen von VIVA!.
+description: In Großbritannien sorgt jetzt ein veganer Werbespot für
+  Aufmerksamkeit, noch bevor er zum ersten Mal ausgestrahlt wurde.
+  Verantwortlich für den Clip sind die Vegan-Aktivist*innen von VIVA!.
+excerpt: In Großbritannien sorgt jetzt ein veganer Werbespot für Aufmerksamkeit,
+  noch bevor er zum ersten Mal ausgestrahlt wurde. Verantwortlich für den Clip
+  sind die Vegan-Aktivist*innen von VIVA!.
 image: https://storage.googleapis.com/cardamonchai-media/2021-12-01/takeaway-the-meat-jpg-imagine-080818_4d3c36_1024_768/640.webp
 copyright: VIVA!
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-12-01/takeaway-the-meat-fb-png-imagine-080818_483730_1200_628/640.webp
@@ -23,6 +26,7 @@ focusKeyword: Takeaway The Meat
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **In Großbritannien sorgt jetzt ein veganer Werbespot für Aufmerksamkeit, noch bevor er zum ersten Mal ausgestrahlt wurde. Verantwortlich für den Clip sind die Vegan-Aktivist\*innen von VIVA!.**

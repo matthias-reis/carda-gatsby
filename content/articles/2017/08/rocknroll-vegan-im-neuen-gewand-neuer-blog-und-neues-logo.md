@@ -1,13 +1,13 @@
 ---
 date: 2017-08-06T15:55:45.000Z
-slug: rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo
-path: /2017/08/rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo/
 title: Sounds Vegan im neuen Gewand
 seoTitle: Sounds Vegan im neuen Gewand
 ogTitle: Sounds Vegan im neuen Gewand
-description: Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht. Feierlich enthülle ich heute das neue Design meines Blogs - Mehr RSounds Vegan!
-excerpt: Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht. Feierlich enthülle ich heute das neue Design meines Blogs - Mehr Sounds Vegan!
-fileName: 2017-08---rock-n-roll-vegan-im-neuen-gewand.md
+description: Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues
+  Gesicht. Feierlich enthülle ich heute das neue Design meines Blogs - Mehr
+  RSounds Vegan!
+excerpt: Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht.
+  Feierlich enthülle ich heute das neue Design meines Blogs - Mehr Sounds Vegan!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_17991553_1440986475923477_2158274734981065272_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_17991553_1440986475923477_2158274734981065272_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcEBQADCP/EAC0QAAICAQMCBAMJAAAAAAAAAAECAwQRAAUhBhIHEzFBQlFxFBUyQ2FikaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAHREBAAICAwEBAAAAAAAAAAAAAQACAyEEETESQf/aAAwDAQACEQMRAD8A5ZUF2AXlj6aaPSnQUFyFVsBnlIyecaFKGxPR6vsbdbAdqcjDOOH7TwfoeDpr9P71Bt9uNrHloF/LedEdh8wpOTqd+/CXwlXbJ2weFVKzM8MbyidQGQ92Dj0P6HB9jow6apWtorPtF4lpaTdiMfijPK/xyNW9u9Vj6aTqfbZHD1iECrG0nmFiB2FV5J+n+ayz9vuzVt6u1GqG3EYXhdChBRjhsEn1Df1p4LIw8ylWih5ENsU24dRw2OoLsCIzSlFK8AoB6AfIZxn30aUY6H3NZnevCLH4O9Yx3v8AtzqLbv0KUI2+v5a+UgVa8XwA5x9PfWqJxLtUtCdD2SFWRwSpRgcg5GjlAdexcS6mzX5GZ4Jy52zeKkylIQqyqZBhB8zk8cav94vCbb6cHlmN0eRmGc++Mg+4OMg6i+ENUSbY1eyIZInI8xSmSSCPUentngaALHiPVu9b2Nk3WrZo7stp6ZQ4eJXRioUPwecDBx76WE32zObZ+PgPZ//Z
@@ -27,12 +27,11 @@ labels:
   - vegane Blogger
   - Webdesign
 focusKeyword: Logo
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Mein Blog sieht jetzt anders aus
+
 ---
 
 **Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht. Nachdem sich nach und nach herauskristallisiert hat, in welche Richtung es gehen wird mit [_Sounds Vegan_](), habe ich mich auch für ein neues Outfit inklusive Logo entschieden.**

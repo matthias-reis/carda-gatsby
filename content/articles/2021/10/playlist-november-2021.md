@@ -1,14 +1,19 @@
 ---
 date: 2021-10-27T13:44:52.214Z
-slug: playlist-november-2021
 typeName: Beitrag
 title: Playlist November 2021
 subTitle: 10 Songs für den Winteranfang
 seoTitle: Playlist November – Post-Rock, Post-Metal & Co.
-description: Hier kommt das Beste aus Post-Rock, Post-Metal & Co. Für den November haben wir zehn ganz besondere Stücke ausgewählt, die wir sicher noch länger hören werden - Von Maybeshewill bis Toundra.
-excerpt: Wie schnell das Jahr vergeht! Eigentlich war doch gerade noch Sommer, oder? Plötzlich sind wir mitten im Spätherbst angekommen und es gibt schon die November-Playlist! Hier kommt das Beste aus Post-Rock, Post-Metal & Co. Für den November haben wir zehn ganz besondere Stücke ausgewählt, die wir sicher noch länger hören werden - Von Maybeshewill bis Toundra.
+description: Hier kommt das Beste aus Post-Rock, Post-Metal & Co. Für den
+  November haben wir zehn ganz besondere Stücke ausgewählt, die wir sicher noch
+  länger hören werden - Von Maybeshewill bis Toundra.
+excerpt: Wie schnell das Jahr vergeht! Eigentlich war doch gerade noch Sommer,
+  oder? Plötzlich sind wir mitten im Spätherbst angekommen und es gibt schon die
+  November-Playlist! Hier kommt das Beste aus Post-Rock, Post-Metal & Co. Für
+  den November haben wir zehn ganz besondere Stücke ausgewählt, die wir sicher
+  noch länger hören werden - Von Maybeshewill bis Toundra.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-songs-november-jpg-imagine-f8f8f8_777374_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-songs-november-fb-1-png-imagine-080808_676161_1200_628/640.webp
 labels:
   - TesseracT
@@ -43,6 +48,7 @@ focusKeyword: Playlist
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Wie schnell das Jahr vergeht! Eigentlich war doch gerade noch Sommer, oder? Plötzlich sind wir mitten im Spätherbst angekommen und es gibt schon die Playlist für den November!**

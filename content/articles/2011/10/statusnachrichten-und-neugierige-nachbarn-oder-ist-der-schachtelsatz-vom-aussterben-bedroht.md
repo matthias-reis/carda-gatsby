@@ -1,13 +1,14 @@
 ---
 date: 2011-10-13T17:46:40.000Z
-slug: statusnachrichten-und-neugierige-nachbarn-oder-ist-der-schachtelsatz-vom-aussterben-bedroht
-path: /2011/10/statusnachrichten-und-neugierige-nachbarn-oder-ist-der-schachtelsatz-vom-aussterben-bedroht/
 title: Tweets und neugierige Nachbarn
 seoTitle: Tweets und Nachbarn - ist der Schachtelsatz vom Aussterben bedroht?
 ogTitle: Tweets und Nachbarn - ist der Schachtelsatz vom Aussterben bedroht?
-description: Alles in Allem bin ich zu dem Schluss gekommen, dass beides wichtig ist. Lange, wohlüberlegte Sätze und kurze Statusnachrichten. Beides zu seiner Zeit.
-excerpt: Alles in Allem bin ich zu dem Schluss gekommen, dass beides wichtig ist. Lange, wohlüberlegte Sätze und kurze Statusnachrichten. Beides zu seiner Zeit.
-fileName: 2011-10---tweets-und-neugierige-nachbarn.md
+description: Alles in Allem bin ich zu dem Schluss gekommen, dass beides wichtig
+  ist. Lange, wohlüberlegte Sätze und kurze Statusnachrichten. Beides zu seiner
+  Zeit.
+excerpt: Alles in Allem bin ich zu dem Schluss gekommen, dass beides wichtig
+  ist. Lange, wohlüberlegte Sätze und kurze Statusnachrichten. Beides zu seiner
+  Zeit.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_10_shot_1318522744788__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_10_shot_1318522744788__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAwT/xAArEAABAwMDAgUEAwAAAAAAAAABAgMEBQYRABIhBzETFCIyQSMzUXFCYYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAAxETIQQS/9oADAMBAAIRAxEAPwAM5Tpi7prCJF2qpxRKcQW1l4JQndwMoSU47aTt2rVHIwWzfbLiCMBXmJIHbt9s6QRZ8en1yusx1NuVB119YS9D3FpIUSpTakkZ9p7g86SSK7akuzXWWqUlioBISt0MEbV45V7txHf51FdKFRyatfYGPZIqrbdWYT4j18UtI75cqbySf8LejaG61FuCAU3RFnhUhAU0zUVOFwE8jaUjOdOLpqNjTW47U56rNORhhctlP1F+z0qB7gBOE5yQCc886nbwoyr9paLYq1SnU8PsqAmtIS4TkbvaRkZ/rP776b01qhOIL6LGYDkrqYlvSLmq3iJjNVHzLyS80t1t3knOFJcHPz2GiiKzRrLjVSD5iFVqrH2OmRKkqR6VIGC0EkhSsqOU/GCcHJ1uuXvf9qXZWm6Paj06CZjhZdcZeWhxG7KVDaccj8a4J6idSFMKZRZ8wJKHEE7JRIC3fFODvGCDwPwnjWS2L8jJl6mJJAk0p9cXd91NwpNN86mQotrLBQ3hGeVp9GE8ckn9nW/VemZte8qFPpDsh+mImNF0ydiVt/U7gpOFDGOeDn40sndSepj8aS0u0pCWnw8F7Wpgx4qgpWD4uU4I9OPaCQO+vOLp6i3fclvxa1bzsWCiY0FPIhvNpbQCAVKJXggAfy02dSpwYamBBM//2Q==
@@ -36,13 +37,12 @@ labels:
   - W.C. Williams
   - Worte
   - Wörter
-focusKeyword: ''
-status: publish
+focusKeyword: ""
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ist der Schachtelsatz vom Aussterben bedroht?
+
 ---
 
 **Eigentlich hatte ich vor, heute ein Rant über moderne Technik zu schreiben, da ich in den letzten Stunden mit Google-Konten, Synchronisierungen, Mobiltelefonen und diversen Netzwerkeinstellungen zu kämpfen hatte. Und natürlich auch mal wieder mit der Frage nach dem richtigen Betriebssystem. Doch ich denke, das überlasse ich lieber anderen.**

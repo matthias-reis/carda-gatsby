@@ -1,15 +1,14 @@
 ---
 date: 2015-12-30T20:25:24.000Z
-slug: brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg
-path: /2015/12/brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg/
 type: Galerie
 typeName: Galerie
 title: '"Brave New Worlds" by Affenfaust Galerie im Volt Hamburg'
 seoTitle: '"Brave New Worlds" by Affenfaust Galerie im Volt Hamburg'
 ogTitle: '"Brave New Worlds" by Affenfaust Galerie im Volt Hamburg'
-description: '"Brave New Worlds" - eine Galerie mit Kunstwerken, die sich mit Science-fiction auseinandersetzen - Hier sind meine Eindrücke für Euch.'
-excerpt: '"Brave New Worlds" - eine Galerie mit Kunstwerken, die sich mit Science-fiction auseinandersetzen - Hier sind meine Eindrücke für Euch.'
-fileName: 2015-12---brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg.md
+description: '"Brave New Worlds" - eine Galerie mit Kunstwerken, die sich mit
+  Science-fiction auseinandersetzen - Hier sind meine Eindrücke für Euch.'
+excerpt: '"Brave New Worlds" - eine Galerie mit Kunstwerken, die sich mit
+  Science-fiction auseinandersetzen - Hier sind meine Eindrücke für Euch.'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23771184650_64f0a51bf2_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23771184650_64f0a51bf2_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBwP/xAAtEAABAwQBAgQEBwAAAAAAAAABAgMEBQYREgAhMQcTFHEiQVFhIzIzUmKis//EABcBAQADAAAAAAAAAAAAAAAAAAQBAgP/xAAkEQEAAQQBAQkAAAAAAAAAAAABAgADETEEUQUSQWGBkcHh8P/aAAwDAQACEQMRAD8AU7Eo9ut+INyVK53GnYEF+QhcJTe5kPF9aQnXuoBI2OPtnoDw1cz1sXUzIgKYoVChoaU5FbgwktrStKFaeY+UAFRJ6Np79sk8R7xgpcuqurB0aXKqDjeEZ3BLgUQfn8QwfYcVn4jZDqw6QnVkAk5zhwD5+/NedFvxiigdNfl3TbFptEnAr136fdKzivMbJV0OpwCfty2rVttS7Yo6gPzQ2T/QcmhQorNqyTUZMV+YqM60mPGKQWnAAE5RptsVpCttgB8XQ5wbXs9CRaVEGo6QWP8ANPBXMIYo91ll726i6/ay3Tr7qCJCVPRmatLUpG22qVvbHVJ6fXpnGeFrgrtq3KuOwzJ9LDelNp9QmChl5pKclKQnYjGT3zjmfXfGk1W+q6lKtnXKg/qkhRV+oogAAHmoWOlNIp8dqg0ZHrwx+PLltNrUQrBUfqU57Z7DHK9ochhCJvHmGPelcOUsyPB65+K5Vvw7pVOhyZCqlPKwk9QY69lqzjOHCSD1zgcqe2pKUW5SkpUNUxGgPbQcnqpXC/TIhVNfhpkhJCfJYCQgftHTtkcd6LcijR4JSo48hvGD/EcBxuU3lXVTzoEIRDdf/9k=
@@ -22,12 +21,11 @@ labels:
   - Hamburg
   - Kunst
 focusKeyword: Brave New Worlds
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Instagram-Galerie
+
 ---
 
 **Endlich gibts mal wieder ein bisschen Kunst hier im Blog. Heute, am letzten Tag der Ausstellung, haben wir es endlich zu "Brave New Worlds" ins Volt (U-Werk Karoline, Messehallen) geschafft.**

@@ -1,19 +1,20 @@
 ---
-date: 2018-01-26T16:16:49.000+00:00
-slug: the-thread-that-keeps-us-calexico
-path: '/2018/01/the-thread-that-keeps-us-calexico/'
+date: 2018-01-26T16:16:49.000Z
 type: Artikel
 typeName: Review
 title: The Thread That Keeps Us ist da!
 seoTitle: '"The Thread That Keeps Us" ist da - Die neue Calexico Platte rockt!'
 ogTitle: '"The Thread That Keeps Us" ist da - Die neue Calexico Platte rockt!'
-description: Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico schaffen und das ist der Band mit "The Thread That Keeps Us" eindeutig gelungen!
-excerpt: Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico schaffen und das ist der Band mit "The Thread That Keeps Us" eindeutig gelungen!
-fileName: 2018-01---the-thread-that-keeps-us-ist-da.md
+description: Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten
+  Calexico schaffen und das ist der Band mit "The Thread That Keeps Us"
+  eindeutig gelungen!
+excerpt: Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico
+  schaffen und das ist der Band mit "The Thread That Keeps Us" eindeutig
+  gelungen!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACgQAAIBAwMEAgEFAAAAAAAAAAECAwAEEQUSIQYiMUEUUXETQ2GBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQGAwX/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESEEMUNRkeH/2gAMAwEAAhEDEQA/AE6f6YtprNJWiBkA7y0rMW95VVwAP9p507o0Gs2c8kSTW7Quyk7jxgnHY3njHgiqTo/UmpaOUS2l3wj9uVNwH49j+qcaX1RfwWKx2CRhI4VztEj7VHGSNx4/moazj88MxBB9fssRbQRrX2T0twdN1N7C5ID4BjkUZRifGR5wfv0amLS7WSHLZHHcSKzK96j+UZJZZ995vUq/K4xnkcYA4HFPYur2mgEEkMMbSEAzRMVGc+15GPxiujTS/k7h7ypXKGZ8Zp7WCw+LKYy1qGYnu3Z3Eg59VZ+krq5lMvxbiaxm/RBSe2cpIFbI2kg8jgfWaKKdbpCw7hawC6qepWL6aZ5FkuJWmkdAzO5yT9ZPvzXC3uHEgT0TiiilqBiYMcan/9k=
-ogImage:
+ogImage: null
 labels:
   - Bands
   - Bonustracks
@@ -35,12 +36,11 @@ labels:
   - Vinyl
   - serie:Calexico
 focusKeyword: The Thread That Keeps Us
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die neue Platte von Calexico rockt!
+
 ---
 
 **Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico schaffen und das ist der Band mit "The Thread That Keeps Us" definitiv gelungen! Schon die Vorauskopplungen "[End Of The World With You](/2017/10/calexico-the-thread-that-keeps-us/)" und "[Voices In The Field](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)" ließen die Herzen der Fans höher schlagen und machten Hoffnung auf ein weiteres sensationelles Album der [Tucson Dessert Rocker](/2009/07/calexico-live-muffathalle-munchen/). **

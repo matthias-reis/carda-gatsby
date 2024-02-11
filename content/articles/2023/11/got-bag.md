@@ -1,14 +1,17 @@
 ---
 date: 2023-11-27T14:10:04.014Z
-slug: got-bag
 typeName: Produkttest
 title: GOT BAG stellt sich vor
 subTitle: Nachhaltige Rucksäcke, Taschen und Accessoires aus Ocean Impact Plastic
 seoTitle: Ocean Impact Plastic Rucksäcke und Taschen von GOT BAG
-description: Ihr seid auf der Suche nach einem komplett veganen Rucksack, der möglichst nachhaltig ist? Entdeckt hier die Modelle von GOT BAG und staubt einen Gutschein ab!
-excerpt: Vegane Rucksäcke, Taschen und Accessoires stellt GOT BAG aus Ocean Impact Plastic her. Ich habe jetzt zwei Exemplare getestet. Im Artikel erfahrt Ihr Insights über die Brand und könnt einen Gutschein abstauben.
+description: Ihr seid auf der Suche nach einem komplett veganen Rucksack, der
+  möglichst nachhaltig ist? Entdeckt hier die Modelle von GOT BAG und staubt
+  einen Gutschein ab!
+excerpt: Vegane Rucksäcke, Taschen und Accessoires stellt GOT BAG aus Ocean
+  Impact Plastic her. Ich habe jetzt zwei Exemplare getestet. Im Artikel erfahrt
+  Ihr Insights über die Brand und könnt einen Gutschein abstauben.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-27/got-bag-jpg-imagine-080808_a69365_1024_768/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-27/got-bag-og-jpg-imagine-080808_62593f_1200_628/640.webp
 labels:
   - Rucksack
@@ -25,6 +28,7 @@ focusKeyword: Got Bag Rucksack
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Von GOT BAG habt Ihr bestimmt schon mal gehört, oder? Hinter dem Namen steckt eine Brand, die nachhaltige Taschen und praktische, stylishe Accessoires herstellt. Weil sie auch vegan sind und mir das Konzept gefällt, habe ich sie ausprobiert und möchte sie Euch heute vorstellen.**

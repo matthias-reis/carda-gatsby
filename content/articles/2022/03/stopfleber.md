@@ -1,14 +1,22 @@
 ---
 date: 2022-03-03T15:18:51.070Z
-slug: stopfleber
 typeName: Beitrag
 title: EU-Parlament beschließt die Fortführung der Stopfleber-Produktion
 subTitle: Tierrechtsorganisationen und Wissenschaft schockiert
 seoTitle: EU-Parlament beschließt die Fortführung der Stopfleber-Produktion
-description: Acht Monate nach der Aufforderung des EU-Parlaments an die EU-Kommission, die Zwangsfütterung von Enten und Gänsen für die Produktion von Stopfleber als "grausame und unnötige" Praxis so schnell wie möglich zu verbieten, passierte das Undenkbare.
-excerpt: 'Acht Monate nach der Aufforderung des EU-Parlaments an die EU-Kommission, die Zwangsfütterung von Enten und Gänsen für die Produktion von Stopfleber als "grausame und unnötige" Praxis so schnell wie möglich zu verbieten, passierte jetzt etwas Undenkbares: Die Kommission beschloss (so wörtlich), "dass die Erzeugung von Stopfleber auf landwirtschaftlichen Verfahren beruht, bei denen die Tierwohlkriterien eingehalten werden." Das berichtete Animal Equality diese Woche.'
+description: Acht Monate nach der Aufforderung des EU-Parlaments an die
+  EU-Kommission, die Zwangsfütterung von Enten und Gänsen für die Produktion von
+  Stopfleber als "grausame und unnötige" Praxis so schnell wie möglich zu
+  verbieten, passierte das Undenkbare.
+excerpt: 'Acht Monate nach der Aufforderung des EU-Parlaments an die
+  EU-Kommission, die Zwangsfütterung von Enten und Gänsen für die Produktion von
+  Stopfleber als "grausame und unnötige" Praxis so schnell wie möglich zu
+  verbieten, passierte jetzt etwas Undenkbares: Die Kommission beschloss (so
+  wörtlich), "dass die Erzeugung von Stopfleber auf landwirtschaftlichen
+  Verfahren beruht, bei denen die Tierwohlkriterien eingehalten werden." Das
+  berichtete Animal Equality diese Woche.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-03/stopfleber-jpg-imagine-283818_667268_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-03/stopfleber-fb-png-imagine-283818_67736b_1200_628/640.webp
 labels:
   - Stopfleber
@@ -18,6 +26,7 @@ focusKeyword: Stopfleber
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Acht Monate nach der Aufforderung des EU-Parlaments an die EU-Kommission, die Zwangsfütterung von Enten und Gänsen für die Produktion von Stopfleber als "grausame und unnötige" Praxis so schnell wie möglich zu verbieten, passierte jetzt etwas Undenkbares: Die Kommission beschloss (so wörtlich), "dass die Erzeugung von Stopfleber auf landwirtschaftlichen Verfahren beruht, bei denen die Tierwohlkriterien eingehalten werden." Das berichtete Animal Equality diese Woche.**

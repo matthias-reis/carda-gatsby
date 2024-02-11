@@ -1,15 +1,14 @@
 ---
 date: 2016-07-28T08:51:54.000Z
-slug: miniaturwunderland-hamburg
-path: /2016/07/miniaturwunderland-hamburg/
 type: Galerie
 typeName: Galerie
 title: Mi&shy;ni&shy;a&shy;tur&shy;wun&shy;der&shy;land Ham&shy;burg
 seoTitle: Miniaturwunderland Hamburg - Festivalbilder mal anders
 ogTitle: Miniaturwunderland Hamburg - Festivalbilder mal anders
-description: Mit unseren Hamburg-Besuchern haben wir uns das Miniaturwunderland angeschaut. Dabei sind sogar ein paar Festivalbilder entstanden.
-excerpt: Mit unseren Hamburg-Besuchern haben wir uns das Miniaturwunderland angeschaut. Dabei sind sogar ein paar Festivalbilder entstanden.
-fileName: 2016-07---mi-ni-a-tur-wun-der-land-ham-burg.md
+description: Mit unseren Hamburg-Besuchern haben wir uns das Miniaturwunderland
+  angeschaut. Dabei sind sogar ein paar Festivalbilder entstanden.
+excerpt: Mit unseren Hamburg-Besuchern haben wir uns das Miniaturwunderland
+  angeschaut. Dabei sind sogar ein paar Festivalbilder entstanden.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27968967344_8628024046_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27968967344_8628024046_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGAgUH/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDBAURABIhBjFBEyJhkUJRwYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAaEQEBAQEAAwAAAAAAAAAAAAABABECEyFR/9oADAMBAAIRAxEAPwCbo+iqpJ2W4NAySqHMscLKgPBAUkZLDJz8Ea1YbNNQ3WnirFgSeoTkl9+Np4ClRwSPcT40vR3OT0lJYMc4UbguR/Pr9abkr8MhkhbAk9pbJ2nzkfQ0TCvHavHSlTPC7GstbNv3rBFE6sgOScPnJbknwMZzqB6gt11ssS1VVGjye2ESxjeEU/iSDycZ4x/uvSaCarq5zSUSPNO25gEHuOOS2c9u+udWtcHDVe0RspRl5yCwPxwMYJxnnnQfsznkoClu10lqVgpy8ID49NFWQqfrkdz/ADV5abnSSl2rpqy3O0bh6ylCyug2kZRRghgePgEnRo033kQ0mqzqiySUTx9K3GeeSCFjIs1L6DSjnDKyvnPYnkecairXdorjXCmqhNBvBIDSbQXPGQABgdj50aNDtQQszL//2Q==
@@ -22,12 +21,11 @@ labels:
   - Miniaturwunderland Hamburg
   - Speicherstadt
 focusKeyword: Miniaturwunderland
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Festivalbilder mal anders
+
 ---
 
 **Was haben Modelleisenbahnen mit Festivals zu tun? So allerhand, wie Ihr gleich merken werdet!**

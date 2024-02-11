@@ -1,14 +1,18 @@
 ---
 date: 2022-01-04T15:56:02.003Z
-slug: umweltverschmutzung-durch-fleisch
 typeName: Beitrag
 title: Studie zeigt Gefahr der Umweltverschmutzung durch Fleischindustrie
 subTitle: Fleischproduktion in China für 90.000 umweltbedingte Todesfälle verantwortlich
 seoTitle: Studie zeigt Gefahr der Umweltverschmutzung durch Fleischindustrie
-description: Einer aktuellen Studie zufolge hat der steigende Fleischkonsum in China zu einem Anstieg der frühzeitigen Todesfälle geführt.  Die Forschenden führen das auf die schädlichen Auswirkungen der Tierhaltung zurück.
-excerpt: Einer aktuellen Studie zufolge hat der steigende Fleischkonsum in China zu einem Anstieg der frühzeitigen Todesfälle geführt.  Die Forschenden führen das auf die schädlichen Auswirkungen der Tierhaltung zurück. Besonders auffällig ist dabei die Verschmutzung durch Ammoniak.
+description: Einer aktuellen Studie zufolge hat der steigende Fleischkonsum in
+  China zu einem Anstieg der frühzeitigen Todesfälle geführt.  Die Forschenden
+  führen das auf die schädlichen Auswirkungen der Tierhaltung zurück.
+excerpt: Einer aktuellen Studie zufolge hat der steigende Fleischkonsum in China
+  zu einem Anstieg der frühzeitigen Todesfälle geführt.  Die Forschenden führen
+  das auf die schädlichen Auswirkungen der Tierhaltung zurück. Besonders
+  auffällig ist dabei die Verschmutzung durch Ammoniak.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-04/luftverschmutzung-jpg-imagine-181818_2c2a29_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-04/luftverschmutzung-fb-png-imagine-181818_282726_1200_628/640.webp
 labels:
   - Fleisch
@@ -21,6 +25,7 @@ focusKeyword: Umweltverschmutzung durch Fleisch
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Einer aktuellen Studie zufolge hat der steigende Fleischkonsum in China zu einem Anstieg der frühzeitigen Todesfälle geführt.  Die Forschenden führen das auf die schädlichen Auswirkungen der Tierhaltung zurück. Besonders auffällig ist dabei die Verschmutzung durch Ammoniak.**

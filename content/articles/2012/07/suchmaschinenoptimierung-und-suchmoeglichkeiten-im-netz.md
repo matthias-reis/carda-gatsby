@@ -1,13 +1,14 @@
 ---
 date: 2012-07-30T10:46:09.000Z
-slug: suchmaschinenoptimierung-und-suchmoeglichkeiten-im-netz
-path: /2012/07/suchmaschinenoptimierung-und-suchmoeglichkeiten-im-netz/
 title: Gesucht und gefunden
 seoTitle: Suchmaschinenoptimierung und Suchmaschinen im Netz
 ogTitle: Suchmaschinenoptimierung und Suchmaschinen im Netz
-description: Die Bewertungsverfahren werden immer umfangreicher. Bei Google spricht man von über 200 verschiedenen Faktoren. Viel Spaß bei der Suchmaschinenoptimierung.
-excerpt: Die Bewertungsverfahren werden immer umfangreicher. Bei Google spricht man von über 200 verschiedenen Faktoren. Viel Spaß bei der Suchmaschinenoptimierung.
-fileName: 2012-07---gesucht-und-gefunden.md
+description: Die Bewertungsverfahren werden immer umfangreicher. Bei Google
+  spricht man von über 200 verschiedenen Faktoren. Viel Spaß bei der
+  Suchmaschinenoptimierung.
+excerpt: Die Bewertungsverfahren werden immer umfangreicher. Bei Google spricht
+  man von über 200 verschiedenen Faktoren. Viel Spaß bei der
+  Suchmaschinenoptimierung.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_418948_web_r_b_by_dieter-schc3bctz_pixelio-de__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_418948_web_r_b_by_dieter-schc3bctz_pixelio-de__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAJRAAAgEDAwMFAQAAAAAAAAAAAQIDAAQRBRIxEyFBBlFhcYGS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAv/EABsRAAMBAQADAAAAAAAAAAAAAAABAgMRBBIh/9oADAMBAAIRAxEAPwDd2OGkABYgkYBOcU31sxLNCHRztTGV28fZ71n9CnElzCD5IzU9fvt+osFfeoABUMMA+2AM1Jzh8bK10vh2nuLcEjoH+uKTag8KwvLJBIigjzyDwRVC8vRk9UZweWX3qkJkWCZZgmwgZKn78D8oNtyzS4xt6auM3WfCqTS3X9USO4llQ5BYd07g/Pbmiiqmcr1E9KfTI3mtguwAbPzn85qNnqKOrFSwkOOGGefFFFJeRCQfGmz/2Q==
@@ -68,12 +69,12 @@ labels:
   - Werbung
   - www
 focusKeyword: Suchmaschinenoptimierung
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
-subTitle: Such&shy;ma&shy;schi&shy;nen&shy;op&shy;ti&shy;mie&shy;rung und Such&shy;mög&shy;lich&shy;kei&shy;ten im Netz
+subTitle: Such&shy;ma&shy;schi&shy;nen&shy;op&shy;ti&shy;mie&shy;rung und
+  Such&shy;mög&shy;lich&shy;kei&shy;ten im Netz
+
 ---
 
 **Die Bewertungsverfahren der Suchmaschinen werden immer umfangreicher. Bei Google spricht man von über 200 verschiedenen Faktoren, die die Bewertung beeinflussen. Eine Seite kann auf vier verschiedene Arten gesucht und gefunden werden:**

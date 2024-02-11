@@ -1,19 +1,18 @@
 ---
-date: 2020-03-04T16:59:27.000+00:00
-slug: haselnuesse-hof-windkind
-path: '/2020/03/haselnuesse-hof-windkind/'
+date: 2020-03-04T16:59:27.000Z
 type: Artikel
 typeName: Produkttest
 title: Bio-vegane Haselnüsse
 seoTitle: Bio-vegane Hasenüsse - Baumpatenschaft
 ogTitle: Bio-vegane Hasenüsse - Baumpatenschaft
-description: Vor den Toren Berlins liegt der bio-vegane Hof Windkind. Seit kurzem kann man dort eine Patenschaft für einen Haselnussbaum übernehmen.
-excerpt: Vor den Toren Berlins liegt der bio-vegane Hof Windkind. Seit kurzem kann man dort eine Patenschaft für einen Haselnussbaum übernehmen.
-fileName: 2020-03---bio-vegane-haselnuesse.md
+description: Vor den Toren Berlins liegt der bio-vegane Hof Windkind. Seit
+  kurzem kann man dort eine Patenschaft für einen Haselnussbaum übernehmen.
+excerpt: Vor den Toren Berlins liegt der bio-vegane Hof Windkind. Seit kurzem
+  kann man dort eine Patenschaft für einen Haselnussbaum übernehmen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-04-hof-windkind-haselnuesse__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-04-hof-windkind-haselnuesse__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAJhAAAgIBAwQCAgMAAAAAAAAAAQIDEQQFEiEABiIxExQjQTKBkf/EABcBAAMBAAAAAAAAAAAAAAAAAAAEBQL/xAAkEQABAwMDBAMAAAAAAAAAAAABAAIDBBEhEkGxBTFRgTJhwf/aAAwDAQACEQMRAD8AzdEyjlN9btvR3zJwo2yz/jQ3VUKtgbHrjm762ou3ZtQZJdY1X7aeJGBGpxoAWYqm9gSzqSDQHJAJ9dS6JFDg4uZj52XtEAWOQfFcbMiiRFQBT4kNe1Rfs8k2GtszIGWPpwZ2ZlTTrLkEZILwgkkhlY2KVlX1tXdz6rrM9dPISy9lPoeg0MAEobqJzc5SVldsQIMfGjTEihZ2ST4gV8Qx/hzt5I4vk3+gOEHuPRd7SCWOFMit0qGRSy/pVYLZujdAcAWSbPXYcuOSHEUywyNllyUVFAVix2qioyAKAlACrBQWLIpM7mgxIYJMfGWMQ7AIgLIICMxPNWzcMSAVtVH6PSYcSbAq04BouVMdWxZtNwtTXlozFh5KA+LW22J3I52C2UjkHxBB9dXZdfhaIR0I0MaxQ4zSfGklMZCW3haG9q3FSt3QNAA6Og30MP1wSPxL0/zkZsDyAeSVR1nu3D0/POqZGS/nHjqBIW3v8SEqqRnkKWeyeL28jrjndfec2oqMbCQQY6oI/GvkcAUNzez/AL/fR0dPOjbDYN8d91Np5XVpc6U4BONsHxv79L//2Q==
-ogImage:
+ogImage: null
 labels:
   - Berlin
   - bio-vegan
@@ -25,13 +24,12 @@ labels:
   - veganer Anbau
   - Walnüsse
 focusKeyword: Haselnüsse
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Neues von Hof Windkind
 advertisement: true
+
 ---
 
 **Silvia und David haben gemeinsam vor den Toren Berlins den bio-veganen Hof Windkind gegründet. Neben Walnüssen bauen die beiden dort seit Kurzem auch Haselnüsse an. Der Anbau und der Versand erfolgen vor Ort, bio-vegan, fair, sozial und plastikfrei.**

@@ -5,15 +5,10 @@ excerpt: Kenianische Künstlerinnen stellen Armbänder her, die zur Beendigung d
   gegründet.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_armband-frauenrechte-fb.png__l.jpg
 isAffiliate: false
-path: /2020/05/ein-armband-fuer-die-frauenrechte/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMGBwgCBAX/xAAoEAACAQIGAQQCAwAAAAAAAAABAwIEEQAFBhIhQTEHEyJRFCMykaH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAAMF/8QAIxEAAQQBAgcBAAAAAAAAAAAAAQACAxEhEnEEIjFBUbHB8P/aAAwDAQACEQMRAD8Aln059THahVVMzWkUmmUbLqkkiMz3HaSTcffjrDuZrDKYjl8uTYfHvFXvT/PyrQtIinU6TQWmRiLXO4ng4WqdWPkj9sVxS6B3GEjIxHIN4+SR9YjnWTQVjhFG0andR+yrF0OtaZj65VVNcAt1kzWQdy7Ai/P8uJX6xyJ+otLOszCjqSlEUg+033RdhvxEA+Zcg2H0cV/hqpOdIqp/i0dIrL0b5Pi6MG1AJtG0CQTLgmw3d8jGvRaxpVVrZT3NQlW2IMCCyJFvkSSb7j5vwMAkklLtOk1YvY4TIIo3NNkXRI3GfiYOiM9emhfQ/lNVGN5qjADyfN8IZ7VVC86eyErSbtnLb4NwCf8Ab4MGHO5ZMI+HxUfKzybIMwzOqbKK/YiYcybeAIkev6PWJK0t6fUbqi2bNYynCjCYRZYnITFvlzLokkgdAYMGM6eZ94KfwzGtaTXb2v/Z
 isWerbung: false
-fileName: 2020-05---ein-armband-fuer-die-frauenrechte.md
-slug: ein-armband-fuer-die-frauenrechte
-errors: {}
 date: 2020-05-14T06:49:55.000Z
 focusKeyword: Armband
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-13-armband-un-women-06__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-13-armband-un-women-06__m.jpg
 title: Ein Armband für die Frauenrechte
@@ -33,7 +28,9 @@ labels:
   - UN Women
   - UNiTE
 language: de
+
 ---
+
 **Heute möchte ich Euch ein Projekt vorstellen, das mir sehr am Herzen liegt. Es wurde von UN Women zur Beendigung von Gewalt gegen Frauen ins Leben gerufen.**
 
 Jede dritte Frau wird Opfer körperlicher oder psychischer Gewalt. Bis heute wurde zudem in keinem Land der Welt die Gleichstellung der Geschlechter erreicht. Initiativen, die sich gegen die Gewalt und für ein Leben ohne Diskriminierung, Angst und Armut einsetzen, sind daher von großer Bedeutung.

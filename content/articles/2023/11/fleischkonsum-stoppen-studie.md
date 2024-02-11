@@ -1,14 +1,20 @@
 ---
 date: 2023-11-21T14:15:12.766Z
-slug: fleischkonsum-stoppen-studie
-typeName:
-title: Verzicht auf 30 Prozent Fleisch spart 2,7 Millionen olympische Schwimmbecken Wasser
-subTitle: Studie zu Fleischkonsum, Wasserverbrauch und Emissionen spricht von drastischen Verbesserungen durch vegane Ernährung
+typeName: null
+title: Verzicht auf 30 Prozent Fleisch spart 2,7 Millionen olympische
+  Schwimmbecken Wasser
+subTitle: Studie zu Fleischkonsum, Wasserverbrauch und Emissionen spricht von
+  drastischen Verbesserungen durch vegane Ernährung
 seoTitle: Warum wir unseren Fleischkonsum stoppen müssen – Studie
-description: Fleischkonsum stoppen – was drastisch klingt ist nüchtern betrachtet eine kluge Klimaschutzmaßnahme. Erfahrt jetzt alles über die neue Studie zum Thema.
-excerpt: Fleischkonsum stoppen. Klingt das für Euch nach einer drastischen Maßnahme? So extrem ist die Idee tatsächlich nicht, wenn man darüber nachdenkt, dass wir damit basically nicht nur eine Menge Leid vermeiden, sondern obendrein auch noch das Klima retten würden.
+description: Fleischkonsum stoppen – was drastisch klingt ist nüchtern
+  betrachtet eine kluge Klimaschutzmaßnahme. Erfahrt jetzt alles über die neue
+  Studie zum Thema.
+excerpt: Fleischkonsum stoppen. Klingt das für Euch nach einer drastischen
+  Maßnahme? So extrem ist die Idee tatsächlich nicht, wenn man darüber
+  nachdenkt, dass wir damit basically nicht nur eine Menge Leid vermeiden,
+  sondern obendrein auch noch das Klima retten würden.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-21/fleischkonsum-stoppen-jpg-imagine-585868_757888_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-21/fleischkonsum-stoppen-og-jpg-imagine-585868_747487_1200_628/640.webp
 labels:
   - Ernährung & Gesundheit
@@ -23,6 +29,7 @@ focusKeyword: Fleischkonsum stoppen
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Würden wir auf ein komplett pflanzliches Ernährungssystem setzen, würden wir dem Klima und uns selbst einen riesigen Gefallen tun. Das geht jetzt aus einer neuen von Madre Brava veröffentlichten Studie hervor. Sie spricht davon, dass schon ein Verzicht auf 30 Prozent des Fleischs 2,7 Millionen Swimmingpools Wasser einsparen würde. Und das ist längst nicht alles.**

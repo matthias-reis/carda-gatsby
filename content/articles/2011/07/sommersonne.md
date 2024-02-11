@@ -1,13 +1,14 @@
 ---
 date: 2011-07-04T15:08:18.000Z
-slug: sommersonne
-path: /2011/07/sommersonne/
 title: Sommersonne
 seoTitle: Sommersonne - Tagebucheintrag an einem schönen Tag
 ogTitle: Sommersonne - Tagebucheintrag an einem schönen Tag
-description: Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied weiter südlich.
-excerpt: Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied weiter südlich.
-fileName: 2011-07---sommersonne.md
+description: Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen
+  spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied weiter
+  südlich.
+excerpt: Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen
+  spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied weiter
+  südlich.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_07_light__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_07_light__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcGCAMEBf/EACoQAAIBAwMCBgEFAAAAAAAAAAECAwQFEQAGEiFBBxMUMVFxgRUiIzOR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EACIRAAIBAgUFAAAAAAAAAAAAAAABAiGhAxITMVIRFJGx8f/aAAwDAQACEQMRAD8AbtBuW5XKomntV0o6iKQs/oqlIpvJHQhOULZH55a3/wBZAkCXOwzRsR/bbpVnX7Kni/4CnSRp/FKCorFg3jteKplWQxyVcDRzMD3JBCn/AAjTCir7ZJ6aooq2726mkUsjOZPKIJJGBKjJjrjodX6ajtTyvZM3m3rcncBt9TTJUU9YRCzFR50DxsCMZBBAPcdtGuVZ2avp2eHcVDUojcOLBAV75/a+MnPwPbRoNWXOxnbw43KZ3BalLpVfzmQiRwZZaYZcfPJcZ1I9lb53BtqQx0FZBNRcuTU00kkaP168c5Kt9fPfURq7eErZhFCkUXNuLIWGB26YwNYxEQSGMi46qBK+cfR0zP0+sJFwNiXOXcu34rjTbYtVzSVi3OeqTzEPsVblF8g6NJ3wX8RrdtizVdu3PJePKV1el9DM4xnkXDYYD3xj7OjUWMpSm2h0Wkqn/9k=
@@ -42,12 +43,11 @@ labels:
   - Urlaub
   - verreisen
 focusKeyword: Sommersonne
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Tagebucheintrag
+
 ---
 
 **Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied lieber weiter südlich.**

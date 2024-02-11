@@ -1,14 +1,18 @@
 ---
 date: 2023-05-20T13:13:01.313Z
-slug: gemuese-essen-fitness
 typeName: Beitrag
 title: Regelmäßig Gemüse essen ist wie täglich 4.000 Schritte mehr
 subTitle: Neue Studie bringt Fitness mit Ernährung in Zusammenhang
 seoTitle: Gemüse essen ist wie 4.000 Schritte täglich
-description: Wenn Ihr regelmäßig Gemüse esst, tut Ihr ebenso viel für Eure Gesundheit, wie mit 4.000 Schritten pro Tag. Lest jetzt alles über die Studie, aus der das hervorgeht.
-excerpt: Eine neue Studie fand jetzt heraus, dass Menschen, die regelmäßig viel Gemüse essen, ebenso viel für Ihre Gesundheit tun, als würden Sie 4.000 Schritte zusätzlich pro Tag gehen. Das European Journal of Preventive Cardiology und Oxford Academic berichteten.
+description: Wenn Ihr regelmäßig Gemüse esst, tut Ihr ebenso viel für Eure
+  Gesundheit, wie mit 4.000 Schritten pro Tag. Lest jetzt alles über die Studie,
+  aus der das hervorgeht.
+excerpt: Eine neue Studie fand jetzt heraus, dass Menschen, die regelmäßig viel
+  Gemüse essen, ebenso viel für Ihre Gesundheit tun, als würden Sie 4.000
+  Schritte zusätzlich pro Tag gehen. Das European Journal of Preventive
+  Cardiology und Oxford Academic berichteten.
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-20/pflanzliche-ernaehrung-jpg-imagine-487808_668f2a_4608_3456/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-20/pflanzliche-ernaehrung-og-jpeg-imagine-487808_679029_1200_628/640.webp
 labels:
   - Gemüse essen
@@ -20,6 +24,7 @@ focusKeyword: Gemüse essen
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Eine neue Studie fand jetzt heraus, dass Menschen, die regelmäßig viel Gemüse essen, ebenso viel für Ihre Gesundheit tun, als würden Sie 4.000 Schritte zusätzlich pro Tag gehen. Das European Journal of Preventive Cardiology und Oxford Academic berichteten.**

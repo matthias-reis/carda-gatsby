@@ -1,13 +1,12 @@
 ---
 date: 2011-07-20T15:16:19.000Z
-slug: nach-dem-regen
-path: /2011/07/nach-dem-regen/
 title: Nach dem Regen
 seoTitle: Nach dem Regen - Prosa ohne Wolken
 ogTitle: Nach dem Regen - Prosa ohne Wolken
-description: Es hat aufgehört zu regnen. Alles ist viel klarer jetzt. Ganz anders, als wenn es langsam nachlässt.
-excerpt: Es hat aufgehört zu regnen. Alles ist viel klarer jetzt. Ganz anders, als wenn es langsam nachlässt.
-fileName: 2011-07---nach-dem-regen.md
+description: Es hat aufgehört zu regnen. Alles ist viel klarer jetzt. Ganz
+  anders, als wenn es langsam nachlässt.
+excerpt: Es hat aufgehört zu regnen. Alles ist viel klarer jetzt. Ganz anders,
+  als wenn es langsam nachlässt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_07_papastrand__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_07_papastrand__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAj/xAAkEAACAgICAQQDAQAAAAAAAAABAgMEABEFEiEGMUFRBxNhIv/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAZEQADAQEBAAAAAAAAAAAAAAAAAhEBEjH/2gAMAwEAAhEDEQA/AOp1YMuxifl4Vn7ePBzXYu06c9WC1bhimsllgR3AMhVSxC/egCcV89zvGcfSsyvdq/sjjZkRpB/pgDoffvi9T02Ugn5t9QCibHAVI2Wd0U2Jj40rDYVdfJ+T9HWc+8ipG9e7ZR/yHy9jn+ds8lZiSKabqvSMHqoVQBrfn2GTvk1Y6Cqd69v7k3fXajqvOFH5b1Vcv2qNgzCSWq7sHlJYjsvU6OYbPPzz9jJMWPxhhk4VEtm8zMdyN/POK7E/be28/OGGAH//2Q==
@@ -50,13 +49,12 @@ labels:
   - Trennung
   - Wolken
   - Yellow Belly
-focusKeyword: ''
-status: publish
+focusKeyword: ""
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Lyrik ohne Wolken
+
 ---
 
 > Es hat aufgehört zu regnen Alles ist viel klarer jetzt Ganz anders, als wenn es langsam nachlässt

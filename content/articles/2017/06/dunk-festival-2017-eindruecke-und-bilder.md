@@ -1,15 +1,16 @@
 ---
-date: 2017-06-05T14:23:24.000+00:00
-slug: dunk-festival-2017-eindruecke-und-bilder
-path: '/2017/06/dunk-festival-2017-eindruecke-und-bilder/'
+date: 2017-06-05T14:23:24.000Z
 type: Galerie
 typeName: Galerie
 title: Dunk!festival 2017
 seoTitle: Dunk!festival 2017 - Liebe auf den ersten Blick - Unser Dunk!festival
 ogTitle: Dunk!festival 2017 - Liebe auf den ersten Blick - Unser Dunk!festival
-description: Schon ewig liege ich Euch mit den Dunk!festival in den Ohren. Heute sind endlich meine Fotos fertig geworden und ich möchte ein paar Eindrücke teilen.
-excerpt: Schon ewig liege ich Euch mit dem Dunk!festival in den Ohren. Heute sind endlich meine Fotos fertig geworden und ich möchte ein paar Eindrücke teilen.
-fileName: 2017-06---dunk-festival-2017.md
+description: Schon ewig liege ich Euch mit den Dunk!festival in den Ohren. Heute
+  sind endlich meine Fotos fertig geworden und ich möchte ein paar Eindrücke
+  teilen.
+excerpt: Schon ewig liege ich Euch mit dem Dunk!festival in den Ohren. Heute
+  sind endlich meine Fotos fertig geworden und ich möchte ein paar Eindrücke
+  teilen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35114934275_5fcb6939a7_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35114934275_5fcb6939a7_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACUQAAIBAwMEAgMAAAAAAAAAAAECAwAEEQUSIQYTMXEiUUFhgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAgEQABBAIBBQAAAAAAAAAAAAABAAIDESExBBJBUYHB/9oADAMBAAIRAxEAPwDzPHGWIBPir8FoJASCchedv145qW006SVQwDAAZz44rS6T0s11bLM1wiITjkZPP9FUvicwXW1lJyI4hbzXo/FkpLVV4wc5NVZotjAjB9V1JOhhIvyu8gKCMRheM+TuYYP6rJdT6XDYRMYpe7tYKGBBBHsVKCSSPCVvMheQBedYKQW+rTwOjQsFKjByoOaaz9VXl1NGZuysUY2qiRhcL780UUxe4kOvIVVYI7KPUuoJbqUDuExKQV45/GTSi7u2lYgM2z63HFFFEyOLekpBG0aX/9k=
@@ -57,14 +58,13 @@ labels:
   - Zottegem
   - serie:DUNK!festival
 focusKeyword: Dunk!festival
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Liebe auf den ersten Blick
-year: '2017'
-month: '06'
+year: "2017"
+month: "06"
+
 ---
 
 **Schon ewig liege ich Euch mit dem [Dunk!festival](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) in den Ohren. Schon Wochen bevor es losging, habe ich Euch Euch mit den ersten Details genervt.**

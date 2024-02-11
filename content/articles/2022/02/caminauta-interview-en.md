@@ -1,12 +1,19 @@
 ---
 date: 2022-02-16T15:50:20.011Z
-slug: caminauta-interview-en
 typeName: Interview
 title: The Infinite Exhale Of The Ocean
 subTitle: Interview With Film Music Composer And Ambient Artist Caminauta
 seoTitle: Interview With Film Music Composer And Ambient Artist Caminauta
-description: Caminauta (Camila) creates film soundtracks, scores and various art projects. She wants to express a wide variety of moods with her work – especially the quiet and reflective moments. I talked to her about her latest project, "As The Seas Exhale".
-excerpt: Caminauta (Camila) creates film soundtracks, scores and various art projects. She wants to express a wide variety of moods with her work – especially the quiet and reflective moments. Therefore, she prefers to work with various elements from the ambient and electronic world and combines them with classical orchestrations. The result is a unique kind of minimalist music that touches the heart and transports feelings.
+description: Caminauta (Camila) creates film soundtracks, scores and various art
+  projects. She wants to express a wide variety of moods with her work –
+  especially the quiet and reflective moments. I talked to her about her latest
+  project, "As The Seas Exhale".
+excerpt: Caminauta (Camila) creates film soundtracks, scores and various art
+  projects. She wants to express a wide variety of moods with her work –
+  especially the quiet and reflective moments. Therefore, she prefers to work
+  with various elements from the ambient and electronic world and combines them
+  with classical orchestrations. The result is a unique kind of minimalist music
+  that touches the heart and transports feelings.
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-jpg-imagine-383828_636463_1024_768/640.webp
 copyright: Caminauta
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-fb-png-imagine-282828_777b7d_1200_628/640.webp
@@ -27,6 +34,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/02/filmmusik-caminauta-interview/
+
 ---
 
 **Caminauta (Camila) creates film soundtracks, scores and various art projects. She wants to express a wide variety of moods with her work – especially the quiet and reflective moments. Therefore, she prefers to work with various elements from the ambient and electronic world and combines them with classical orchestrations. The result is a unique kind of minimalist music that touches the heart and transports feelings.**

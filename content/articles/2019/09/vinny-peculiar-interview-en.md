@@ -18,7 +18,6 @@ labels:
   - Worcestershire
 language: en
 date: 2019-09-23T12:54:00.000Z
-slug: vinny-peculiar-interview-en
 typeName: Interview
 title: Interview With Singer-Songwriter Vinny Peculiar
 subTitle: '"People are frustrated and angry"'
@@ -36,6 +35,7 @@ focusKeyword: Vinny Peculiar
 advertisement: false
 affiliate: false
 languageLink: /2019/09/vinny-peculiar-interview
+
 ---
 
 **I talked to singer-songwriter Vinny Peculiar about his new album "While You Still Can", which he will release soon.**

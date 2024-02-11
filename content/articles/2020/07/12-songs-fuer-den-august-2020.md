@@ -1,13 +1,13 @@
 ---
-date: 2020-07-28T10:55:54.000+00:00
-slug: 12-songs-fuer-den-august-2020
-path: '/2020/07/12-songs-fuer-den-august-2020/'
+date: 2020-07-28T10:55:54.000Z
 title: 12 Songs für den August
 seoTitle: 12 Songs für den August - Die Sommer-Musikliste 2020
 ogTitle: 12 Songs für den August - Die Sommer-Musikliste 2020
-description: Der Sommer ist da und mit ihm eine Tonne neuer Singles, Alben, EPs und Vorauskopplungen, die Lust auf mehr machen. Hier kommt die Sommer-Musikliste
-excerpt: Der Sommer ist da und mit ihm eine Tonne neuer Singles, Alben, EPs und Vorauskopplungen, die Lust auf mehr machen. Hier kommt die Sommer-Musikliste
-fileName: 2020-07---12-songs-fuer-den-august.md
+description: Der Sommer ist da und mit ihm eine Tonne neuer Singles, Alben, EPs
+  und Vorauskopplungen, die Lust auf mehr machen. Hier kommt die
+  Sommer-Musikliste
+excerpt: Der Sommer ist da und mit ihm eine Tonne neuer Singles, Alben, EPs und
+  Vorauskopplungen, die Lust auf mehr machen. Hier kommt die Sommer-Musikliste
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_12-songs-fuer-den-august__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_12-songs-fuer-den-august__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCCAQGB//EACsQAAIBAwMDAgUFAAAAAAAAAAECAwQFEQAGIQcSEzFBFTJRcYEiI1Jhkf/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAgMG/8QAIxEAAQMDBAIDAAAAAAAAAAAAAQACAxESIQRBUXEUFTGR0f/aAAwDAQACEQMRAD8Aydx01rfqHt2GnVaGpVnnleFR2l5ffI4Ykr3Ee2dPtv3PatHuaoqLnDDW3Ax989Qw7iWVQpJQqOSQMcD1/Otf210f81XS3h941bVk0glWGa1eSaQZx3MqzMQucgk4xg5xplszp0+5Ke5XSpnks1Xc2monp6q3+QoFkx3R/qUrnsHJH1HOlwhkbOZLailNlIAOgEeAQa56VebxNb7FuqqiTb9TEklOqQwXGmHfFkckJwGzzhvyDp11BtC7Xue3b4TbLtFW0UdYUSJFBV8j9xAzH1OAxGCVI9jqNq2puG80PwmO4y1MDEzJFLEr+EqCxKOzZTIBzggHHOcDTKt2bcq3ZNpo5qyGWCJpZqOcR4aKJ2PkhYZ+XvUOOeCzfy4ceLLW2mewgfYactLg7HR/FZDp7fKjct4rNxNfpfA8Qin24WR46WUEAOD8wBC59+Wb7acUF7uV537c7VPYKiCipHhkhrhMrRzxkAnjgg+vAz6YOD6mjVCMXBai4QV1pppbZJZcscvDKy5jIyMfRlIOcY4/zTuyd9TA1JWNt6ljUFC1KXQn+sDKkfbGjRp49rbgaZ53WNOpkbcwHHG318L/2Q==
@@ -40,14 +40,13 @@ labels:
   - Vinyl
   - Vinyladdict
 focusKeyword: Sommer-Musikliste
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die Sommer-Musikliste 2020
-year: '2020'
-month: '07'
+year: "2020"
+month: "07"
+
 ---
 
 **Der Sommer ist da und mit ihm eine Tonne neuer Singles, Alben, EPs und Vorauskopplungen, die Lust auf mehr machen. Valentin, Matze und ich haben wieder eine Liste für Euch zusammengestellt.**

@@ -1,13 +1,12 @@
 ---
 date: 2015-04-18T18:19:28.000Z
-slug: wie-ich-zu-zoos-stehe
-path: /2015/04/wie-ich-zu-zoos-stehe/
 title: Wie ich zu Zoos stehe
 seoTitle: Wie ich als Veganerin zu Zoos stehe - Tierquälerei oder Artenerhalt?
 ogTitle: Wie ich als Veganerin zu Zoos stehe - Tierquälerei oder Artenerhalt?
-description: 'Vegan und jetzt? Wie stehst Du zu Zoos? Eines ist mal sicher: Enge Gehege sind nicht der richtige Ort für Bären, Tiger und Löwen.'
-excerpt: 'Vegan und jetzt? Wie stehst Du zu Zoos? Eines ist mal sicher: Enge Gehege sind nicht der richtige Ort für Bären, Tiger und Löwen.'
-fileName: 2015-04---wie-ich-zu-zoos-stehe.md
+description: "Vegan und jetzt? Wie stehst Du zu Zoos? Eines ist mal sicher: Enge
+  Gehege sind nicht der richtige Ort für Bären, Tiger und Löwen."
+excerpt: "Vegan und jetzt? Wie stehst Du zu Zoos? Eines ist mal sicher: Enge
+  Gehege sind nicht der richtige Ort für Bären, Tiger und Löwen."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_img_3952__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_img_3952__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgIDBQcE/8QAMBAAAQQBAwIDBAsAAAAAAAAAAQIDBBEFABIhBjE1QbITIlFyFTZSYXFzgYKRorP/xAAYAQADAQEAAAAAAAAAAAAAAAACBAUAA//EAB4RAAEEAgMBAAAAAAAAAAAAAAEAAgMREiExQfAE/9oADAMBAAIRAxEAPwAdNwTIkTRcbaGNiU7t1KttN8A+ZP8AOmPT609NQMZilR48lbi1OS0qbUtKUrcopBCaJAAsntxryT8Y4JORBebYUQAhwOC0kujaf6jSadESl3HRWyhUVvaHV7iC64HABXHPIUT95GpsGiSqX1OtoCLdXuYqR0pDjY5tMWA2+j2YbbKgbS5Z5I5JN970dKIX0kQXXCpyL5JQAQY/za3G3DAh5PG5R7FxkmQ2W3FQjOaQn3gnchVEK4uwTXw1VmE9JB3GM40z5GV2tpVNEdDLTrZQU8Ngg8jtYFa0jA+nEjpHDI5gxo97XVHsCFZNS0NsrUyGnQku1dLJ5v4d/wBNGuo5CY8rE74a2pAXsoPtlabVaSobgPteRNHjSjP+Iv8A5TXpVrk+Z+uf7onpOiMgGqXAx2MiVl42JMf6ffcnlpMhxxokqfR2tdc2fKtSTAAy+EUp+Ik7Y6eHbJ98jigdXwfBnvnY9K9SV4jgvxj/AOp0mH2br1p9vGPuF//Z
@@ -27,12 +26,11 @@ labels:
   - Zoo
   - Zoos
 focusKeyword: Zoos
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Tierquälerei oder Artenerhalt?
+
 ---
 
 **Noch bis vor Kurzem war mir in Bezug auf Tierrechte einiges nicht bewusst. Doch durch das Schreiben und Recherchieren für meine Seite und die beiden veganen Magazine, für die ich aktuell schreibe, lerne ich jeden Tag dazu.**

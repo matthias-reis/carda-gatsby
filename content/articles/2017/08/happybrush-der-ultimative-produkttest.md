@@ -1,15 +1,16 @@
 ---
-date: 2017-08-07T16:00:23.000+00:00
-slug: happybrush-der-ultimative-produkttest
-path: '/2017/08/happybrush-der-ultimative-produkttest/'
+date: 2017-08-07T16:00:23.000Z
 type: Artikel
 typeName: Produkttest
 title: Happybrush
 seoTitle: happybrush - Der ultimative Produkttest - Meine neue Schallzahnbürste
 ogTitle: happybrush - Der ultimative Produkttest - Meine neue Schallzahnbürste
-description: Heute möchte ich mit Euch meine Erfahrungen mit der happybrush teilen. Bilder vom Unboxing sowie einen umfassenden Testbericht gibt es natürlich auch.
-excerpt: Heute möchte ich mit Euch meine Erfahrungen mit der happybrush teilen. Bilder vom Unboxing sowie einen umfassenden Testbericht gibt es natürlich auch.
-fileName: 2017-08---happybrush.md
+description: Heute möchte ich mit Euch meine Erfahrungen mit der happybrush
+  teilen. Bilder vom Unboxing sowie einen umfassenden Testbericht gibt es
+  natürlich auch.
+excerpt: Heute möchte ich mit Euch meine Erfahrungen mit der happybrush teilen.
+  Bilder vom Unboxing sowie einen umfassenden Testbericht gibt es natürlich
+  auch.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36290591961_98e0cdac7c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36290591961_98e0cdac7c_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYF/8QAKBAAAQMDAwQCAgMAAAAAAAAAAQIDBAURIQASMQYHE0FRcRQiI4Gx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwECBP/EACMRAAICAQMDBQAAAAAAAAAAAAECAAMREjFBBCFhIkKB0fD/2gAMAwEAAhEDEQA/AMN23rUyMjx0xhMtwSGWUrkqUlCkDddtCR8AH5zxpm9F0qn90IcqqdQRjMMJ9yGWY6/CLK/ZJAtgm5BvnAOldEjMyOlqfHmqWtKZPlU8lwI2ltsq3kkX24UCBnItrtdoq5Mi9UVBcGG9IVJe/JTHYbX4y9nlKcjahShxj/SazQoJGYdrlEZxwfoRa1ijNRq1UozLjzCGJLzSUlZUUhK1AJPs8Wv/AHqKhxkxuoKaXn1ONOveFQVuxuBSDkW5OmFVqDCl90a3Gq1VkUptUiS+tKWw6WirapIsM8r9jgHN9ZyTQDHq8ZqZXFyI6JVygtlCigG6TgnafZzgHTLYmQZTW7DHH7xKTdQLcBqM8y0+ylwObVj7v9HOD6tq707XX+nZyZ8QvH+IsqR5iCpJ4G61/Q+b20aNaoHpDcicnWHLmn2nf538y5K65kul9UeI0068QVuOHyKwCBYkXtk44N+NZqdX3pEp14MstuOElRSn2RY4P0NGjUZQx1HeLUTWorXsB2n/2Q==
@@ -31,14 +32,12 @@ labels:
   - vegane Zahnpasta
   - Zahnpasta
 focusKeyword: happybrush
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image that could not be found
 subTitle: Schallzahnbürste unter der Lupe
 advertisement: true
+
 ---
 
 **Weil ich so gerne [Produkte teste](/tag/vegan/vegane-produkte/) und Ihr meine Testberichte auch jedes Mal fleißig lest und weitergebt, möchte ich auch diesen Test mit Euch teilen. Auf dem Prüfstand stand dieses Mal die Schallzahnbürste samt Zahncreme aus dem Hause Happybrush.**

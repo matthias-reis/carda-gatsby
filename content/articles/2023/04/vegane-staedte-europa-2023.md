@@ -1,6 +1,5 @@
 ---
 date: 2023-04-20T08:43:59.340Z
-slug: vegane-staedte-europa-2023
 typeName: Beitrag
 title: Berlin auf Platz 3 der veganen Städte in Europa
 subTitle: loveholidays veröffentlicht Top 30 plant-based Hotspots
@@ -17,7 +16,9 @@ ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-20/vegane-sta
 advertisement: false
 affiliate: false
 language: de
+
 ---
+
 **London wurde jetzt von loveholidays zur plant-based Hauptstadt von Europa ernannt. Auf Platz 2 und 3 befinden sich Paris und Berlin. Als zweite deutsche Stadt ist München auf Platz 19 aufgeführt. Insgesamt haben es 50 Städte auf die Liste geschafft. loveholidays bewertete dafür die unterschiedlichsten. Kategorien.**
 
 Insgesamt sind ein paar Überraschungen mit auf der Liste der Plant-based Hotspots. Dass Bristol mit Platz 8 relativ weit oben dabei ist, freut mich sehr und ich würde das definitiv so bestätigen. Amsterdam (Platz 5) hätte ich vermutlich noch etwas weiter oben erwartet. Athen (Platz 9) und Manchester (Platz 11) sollte ich wohl bald mal einen Besuch abstatten. Wobei mich letztes kaum überrascht, insgesamt kamen mir die UK in den letzten Jahren immer wie ein kleines Vegan Wonderland vor – bei jedem Besuch wurde es noch vielseitiger und vor allem selbstverständlicher, dass selbst im kleinsten Pub ein veganes Gericht auf der Speisekarte zu finden ist.

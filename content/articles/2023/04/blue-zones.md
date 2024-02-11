@@ -1,14 +1,18 @@
 ---
 date: 2023-04-21T13:24:40.605Z
-slug: blue-zones
 typeName: Buchtipp
 title: Autor Dan Buettner zu Gast in Mobys Podcast
 subTitle: Darum werden die Menschen in den Blue Zones so alt
 seoTitle: Mobys Podcast verrät die Tricks der ältesten Menschen der Welt!
-description: In den von Dan Buettner entdeckten Blue Zones leben die ältesten Menschen der Welt. Lerne jetzt ihre Geheimnisse kennen!
-excerpt: In der heutigen Ausgabe von Mobys Podcast "Moby Pod" unterhalten sich der Musiker und Tierrechtsaktivist Moby und seine Co-Hostin Lindsay Hicks mit Dan Buettner.  Er ist der Entdecker der sogenannten Blue Zones – das sind Zonen auf der Erde, deren Bewohner*innen unter anderem aufgrund ihrer vorwiegend pflanzlichen Ernährung besonders lange leben.
+description: In den von Dan Buettner entdeckten Blue Zones leben die ältesten
+  Menschen der Welt. Lerne jetzt ihre Geheimnisse kennen!
+excerpt: In der heutigen Ausgabe von Mobys Podcast "Moby Pod" unterhalten sich
+  der Musiker und Tierrechtsaktivist Moby und seine Co-Hostin Lindsay Hicks mit
+  Dan Buettner.  Er ist der Entdecker der sogenannten Blue Zones – das sind
+  Zonen auf der Erde, deren Bewohner*innen unter anderem aufgrund ihrer
+  vorwiegend pflanzlichen Ernährung besonders lange leben.
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-21/blue-zones-sounds-vegan-anne-reis-jpg-imagine-586888_757270_4464_3348/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-21/blue-zones-soundsvegan-anne-reis-og-jpg-imagine-888898_80766c_1200_628/640.webp
 labels:
   - Dan Buettner
@@ -24,6 +28,7 @@ focusKeyword: Blue Zones
 advertisement: false
 affiliate: true
 language: de
+
 ---
 
 **In der heutigen Ausgabe von Mobys Podcast "Moby Pod" unterhalten sich Musiker und Tierrechtsaktivist Moby und seine Co-Hostin, die Schauspielerin Lindsay Hicks, mit Dan Buettner – dem Entdecker der sogenannten Blue Zones – das sind Zonen auf der Erde, deren Bewohner\*innen unter anderem aufgrund ihrer vorwiegend pflanzlichen Ernährung besonders lange leben.**

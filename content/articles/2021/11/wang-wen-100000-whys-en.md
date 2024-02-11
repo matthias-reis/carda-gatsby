@@ -1,12 +1,17 @@
 ---
 date: 2021-11-17T15:19:49.128Z
-slug: wang-wen-100000-whys-en
 typeName: Review
 title: '"100,000 Whys"'
 subTitle: The New Album By Wang Wen
 seoTitle: '"100,000 Whys" By Wang Wen – Post-Rock Review'
-description: '"100,000 Whys" by Wang Wen, which will officially be released on November 24th, hits the vintage spot - without getting too nostalgic. High-quality sound and a soulful music experience await you.'
-excerpt: 'The probably best-known Chinese post-rock band Wang Wen is now on Pelagic Records, and we all know: With the move to a new label comes a new album at some point. "100,000 Whys", which will officially be released on November 24th, hits the vintage spot - without getting too nostalgic. High-quality sound and a soulful music experience await you.'
+description: '"100,000 Whys" by Wang Wen, which will officially be released on
+  November 24th, hits the vintage spot - without getting too nostalgic.
+  High-quality sound and a soulful music experience await you.'
+excerpt: 'The probably best-known Chinese post-rock band Wang Wen is now on
+  Pelagic Records, and we all know: With the move to a new label comes a new
+  album at some point. "100,000 Whys", which will officially be released on
+  November 24th, hits the vintage spot - without getting too nostalgic.
+  High-quality sound and a soulful music experience await you.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/wang-wen-stadion-jpg-imagine-080808_757575_800_600/640.webp
 copyright: Wang Wen
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/wang-wen-fb-png-imagine-080808_686868_1200_628/640.webp
@@ -28,6 +33,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/11/wang-wen-100000-whys/
+
 ---
 
 **The probably best-known Chinese post-rock band Wang Wen is now on Pelagic Records, and we all know: With the move to a new label comes a new album at some point. "100,000 Whys", which will officially be released on November 24th, hits the vintage spot - without getting too nostalgic. High-quality sound and a soulful music experience await you.**

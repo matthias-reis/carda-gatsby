@@ -1,12 +1,16 @@
 ---
 date: 2022-08-31T14:46:53.069Z
-slug: solar-atlas-interview-en
 typeName: Interview
 title: Interview with Solár Drummer Aron about their upcoming Album "Atlas"
 subTitle: '"We love to play in complete Darkness"'
 seoTitle: Interview with the Sweden-based Post-Rock project Solár
-description: The young Sweden-based post-rock project Solár ist about to release its first album "Atlas". Drummer Aron shared the secrets of the record with me.
-excerpt: Solár is a young Sweden-based post-rock project I recently became aware of. They sent me their first album, "Atlas", and I instantly fell in love with their music. Their songs can be described as sophisticated, artsy post-music with a touch of DIY here and a pinch of prog there.
+description: The young Sweden-based post-rock project Solár ist about to release
+  its first album "Atlas". Drummer Aron shared the secrets of the record with
+  me.
+excerpt: Solár is a young Sweden-based post-rock project I recently became aware
+  of. They sent me their first album, "Atlas", and I instantly fell in love with
+  their music. Their songs can be described as sophisticated, artsy post-music
+  with a touch of DIY here and a pinch of prog there.
 image: https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-1-jpeg-imagine-181818_36383c_1024_768/640.webp
 copyright: Solár
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-1-fb-jpeg-imagine-181818_383a3d_1200_628/640.webp
@@ -33,6 +37,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/08/solar-interview/
+
 ---
 
 **Solár is a young Sweden-based post-rock project I recently met. They sent me their first album, "Atlas", and I instantly fell in love with their music. Their songs can be described as sophisticated, artsy post-music with a touch of DIY here and a pinch of prog there. I wanted to know more about them, and I think you guys should, too. So, here is my interview with drummer Aron. Please enjoy!**

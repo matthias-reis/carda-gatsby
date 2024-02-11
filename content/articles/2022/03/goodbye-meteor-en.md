@@ -1,12 +1,17 @@
 ---
 date: 2022-03-24T14:09:33.960Z
-slug: goodbye-meteor-en
 typeName: Interview
 title: Interview With Goodbye Meteor Guitarist Ced
 subTitle: '"Ecology And Animal Rights Are Fundamental To Us"'
 seoTitle: Post-Rock Interview With Goodbye Meteor Guitarist Ced
-description: Goodbye Meteor claim to be a "green post-rock project" – wanting to unveil the way to harmony between humanity and nature. I now talked to guitarist Ced about their new EP "Metanoia".
-excerpt: Goodbye Meteor call their music "immersive and solar post-rock, coming out of chaos heading towards resilience". They also claim to be a "green post-rock project" – wanting to unveil the way to harmony between humanity and nature. I talked to guitarist Ced – who also happens be vegan for the animals – about their new EP "Metanoia", which is now available on Bandcamp.
+description: Goodbye Meteor claim to be a "green post-rock project" – wanting to
+  unveil the way to harmony between humanity and nature. I now talked to
+  guitarist Ced about their new EP "Metanoia".
+excerpt: Goodbye Meteor call their music "immersive and solar post-rock, coming
+  out of chaos heading towards resilience". They also claim to be a "green
+  post-rock project" – wanting to unveil the way to harmony between humanity and
+  nature. I talked to guitarist Ced – who also happens be vegan for the animals
+  – about their new EP "Metanoia", which is now available on Bandcamp.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-1-jpg-imagine-080808_191a20_1024_768/640.webp
 copyright: Goodbye Meteor
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-fb-jpg-imagine-080808_1e1e24_1200_628/640.webp
@@ -26,6 +31,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/03/goodbye-meteor/
+
 ---
 
 **Goodbye Meteor call their music "immersive and solar post-rock, coming out of chaos heading towards resilience". They also claim to be a "green post-rock project" – wanting to unveil the way to harmony between humanity and nature. I talked to guitarist Ced – who also happens be vegan for the animals – about their new EP "Metanoia", which is now available on Bandcamp.**

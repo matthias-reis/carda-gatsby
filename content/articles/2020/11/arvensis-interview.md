@@ -5,17 +5,12 @@ excerpt: Arvensis ist ein experimentelles Ambient-Projekt auf Merigold
   Ich habe mich mit Gründer Dani Laubscher unterhalten.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis-fb.png__l.jpg
 isAffiliate: false
-path: /2020/11/arvensis-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAEDAgQI/8QAKBAAAgEDAgUDBQAAAAAAAAAAAQIDAAQREiEFEzFBYSIygUJRkbHR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIBBv/EACARAAEEAgEFAAAAAAAAAAAAAAEAAhEhAxLBMWFxkdH/2gAMAwEAAhEDEQA/AOdJgI7WWVzqkOF8Iud8VK9Rg0wkyMnAVPbjJ/PStg2/Njk3eT0nC6vH2ouZeXaLIVV8gKQw6/yiB1ros2KWEmhH2Z9qUE86Lc6ubMzxaAZW2UfPbxTneGLirxWdxPLYI7LDzRpJHX25IG5P7rKd44JUe3lSeJogHBQtpO2R6gOh6GozoicRRYV04CMN85JUE5z5zV1aDbtexjlXMj294VmRyvKZivTbBwRSueU3CIQSwOR9OTnttRRUkdClsyOIyMdYAPChbrIE5aMyh1YMruF9OASDnsSAfiqXFtPDIkksUhSViQzqMNjByD3oorZtHLADr4X/2Q==
 typeName: Interview
 isWerbung: false
-fileName: 2020-11---arvensis.md
-slug: arvensis-interview
-errors: {}
 date: 2020-11-17T09:09:12.000Z
 focusKeyword: Arvensis
 languageLink: /2020/11/arvensis-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_arvensis__m.jpg
 title: Arvensis
@@ -41,7 +36,9 @@ labels:
   - Post-Rock
   - Post-Music
   - Duluth
+
 ---
+
 **Arvensis – das ist ein experimentelles Ambient-Projekt auf Merigold Independent. Die avantgardistischen Klänge wirken wie aus einer fremden Welt. Weil mich das Projekt so fasziniert hat, habe ich mich mit Gründerin Dani Laubscher zum Interview verabredet.**
 
 Dani legte den Grundstein für Arvensis im Jahr 2011. Seit 2013 nimmt sie Platten auf. Inzwischen umfasst ihre Discografie 14 Alben. Das vierzehntente trägt den Namen "AXIS" und ist erst vor ein paar Tagen erschienen.

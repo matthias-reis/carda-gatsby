@@ -1,13 +1,12 @@
 ---
 date: 2009-08-16T18:24:05.000Z
-slug: wiley-open-air-2009-ulm
-path: /2009/08/wiley-open-air-2009-ulm/
 title: Wiley Open Air 2009 Ulm
 seoTitle: Wiley Open Air 2009 Ulm
 ogTitle: Wiley Open Air 2009 Ulm
-description: Am Samstag, 15. August 2009 fand in Neu-Ulm auf dem Gelände der Wileys das erste Mal das Wiley Open Air statt.
-excerpt: Am Samstag, 15. August 2009 fand in Neu-Ulm auf dem Gelände der Wileys das erste Mal das Wiley Open Air statt.
-fileName: 2009-08---wiley-open-air-2009-ulm.md
+description: Am Samstag, 15. August 2009 fand in Neu-Ulm auf dem Gelände der
+  Wileys das erste Mal das Wiley Open Air statt.
+excerpt: Am Samstag, 15. August 2009 fand in Neu-Ulm auf dem Gelände der Wileys
+  das erste Mal das Wiley Open Air statt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_08_9914469843_d4bb3ef343_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_08_9914469843_d4bb3ef343_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKhAAAgIBAwMCBQUAAAAAAAAAAQIDEQQAEiEFEzEGIjJBUWFxFIGRseH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFBv/EAB8RAAIBBAIDAAAAAAAAAAAAAAABAgMFESEEQSJRcf/aAAwDAQACEQMRAD8A6MGPBm4eLMSs2VvEQ2k2VAJH24/rTCTpywwvK+0Rxgu7H5KBZOsT0jPzA7ZLPlmbHSXtM5EgiUkbiL+IbSnI4POtHmepPUGXhT4eS+CsYxjvkhxIyVFksDtFN7fb9KN+edVK5dk7t8vYxXBhmw48qIgwvGJQ/gbSLu9V36ZuUsFpQLs0AR9fxpDD6yyk6WnTsZelZeK8Qx1iXEUnZtrtgqb+YBbzz++k6+s+pYqQY8TYscWMRGyzRkbKAHbbkV+Ls6JXDOmA+C86YphZs+TKimmO5N9PR7RkUm0Oz4SbNcVz5HOpMCKeLDniy53VmY7XjmZ6HG0lS1UKoqRXj76NGudqSdJtL4aMV4qRHjSdoTieSpXpiYlUKW4IFVwBzVfzqh1D9LJuaeOL3tubuEAubuyPmf8ANGjSlOU3hsV2f//Z
@@ -21,12 +20,11 @@ labels:
   - Wiley
   - Wiley Open Air
 focusKeyword: Wiley Open Air
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die Toten Hosen als Headliner
+
 ---
 
 **Am Samstag, 15. August 2009 fand in Neu-Ulm auf dem Gelände der Wileys das erste Mal das Wiley Open Air statt.**

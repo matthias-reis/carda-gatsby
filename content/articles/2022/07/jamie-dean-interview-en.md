@@ -1,12 +1,16 @@
 ---
 date: 2022-07-14T08:11:38.957Z
-slug: jamie-dean-interview-en
 typeName: Interview
 title: God Is An Astronaut Member Jamie Dean about his Solo Project
 subTitle: '"There are now Sharks on the Internet"'
-seoTitle: 'Post-Rock Interview: God Is An Astronaut Member Jamie Dean'
-description: I interviewed God Is An Astronaut member Jamie Dean about his new solo piece "Mutualism", the ongoing tour and mutualistic relationships.
-excerpt: I mentioned God Is An Astronaut member Jamie Dean's new solo piece in my June playlist some days ago. After he shared my social media posts about it, I asked him for an interview. I am very proud to present it to you today, and I hope you enjoy it. I enjoyed talking to him very much, and I think the outcome is quite exciting.
+seoTitle: "Post-Rock Interview: God Is An Astronaut Member Jamie Dean"
+description: I interviewed God Is An Astronaut member Jamie Dean about his new
+  solo piece "Mutualism", the ongoing tour and mutualistic relationships.
+excerpt: I mentioned God Is An Astronaut member Jamie Dean's new solo piece in
+  my June playlist some days ago. After he shared my social media posts about
+  it, I asked him for an interview. I am very proud to present it to you today,
+  and I hope you enjoy it. I enjoyed talking to him very much, and I think the
+  outcome is quite exciting.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-2-jpeg-imagine-181818_494949_1440_1440/640.webp
 copyright: Jamie Dean
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-14/jamie-dean-interview-fb-jpeg-imagine-181818_404c4e_1200_628/640.webp
@@ -26,6 +30,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/07/jamie-dean-interview/
+
 ---
 
 **I mentioned God Is An Astronaut member Jamie Dean's new solo piece in my June playlist some days ago. After he shared my social media posts about it, I asked him for an interview. I am very proud to present it to you today, and I hope you enjoy it. I enjoyed talking to him very much, and I think the outcome is quite exciting.**

@@ -1,59 +1,55 @@
 ---
-date: 2018-09-07T13:50:50.000+00:00
-slug: zu-besuch-in-stockholm
-path: "/2018/09/zu-besuch-in-stockholm/"
+date: 2018-09-07T13:50:50.000Z
 type: Galerie
 typeName: Galerie
 title: Zu Besuch in Stockholm
 seoTitle: Zu Besuch in Stockholm - Sonne, Kunst und Geschichte
 ogTitle: Zu Besuch in Stockholm - Sonne, Kunst und Geschichte
-description: Bei unserem Besuch in Stockholm konnten wir Sonnenschein und strahlend
+description: Bei unserem Besuch in Stockholm konnten wir Sonnenschein und
+  strahlend blauen Himmel genießen. Und wir haben einiges entdeckt.
+excerpt: Bei unserem Besuch in Stockholm konnten wir Sonnenschein und strahlend
   blauen Himmel genießen. Und wir haben einiges entdeckt.
-excerpt: Bei unserem Besuch in Stockholm konnten wir Sonnenschein und strahlend blauen
-  Himmel genießen. Und wir haben einiges entdeckt.
-fileName: 2018-09---zu-besuch-in-stockholm.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29594140167_b907693522_z-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29594140167_b907693522_z-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAAnEAACAQIGAgICAwAAAAAAAAABAgMEEQAFBhIhMRRBEyIHI1Jhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAEF/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAwQREwUhIjFx/9oADAMBAAIRAxEAPwBa5Jk0rBpYHAmVSrfPMqd2LFbgc3H94YelvxbVZlOZa6oqqcICbxlSCe1AkBPd/QxSK3WNDRhX0zQrFOzX86oPySLxf9am6qfZNjbgd4msq11qGjy6NnzaqmeRZGtUMJwPsRu+4O3mwuCO8ab8hSprqthgRBbGo7bLg5P2elNL5SuVUiwSPPK6EWaaczEWAH1JAsO+P9x0TVtJQeTXTI8V3u8k5sFPQIueAb+hhFZV+Tp0po6DOakwGQlVq4YdszkCwLKD9jxYkc9cYxz7VGnlox5ufZhNvQyBVVQev4fZlHPNwMJBg/kTGyCvQET1Zl9Es8wTNCh3MSlMgkQ7rnaOdqgXt2b3xspsqSRZJfMn3kKB0sam4uTe5t7wYMBVQo6h2Yn3JnM9NZhRRK8KtWw2VmmpqhjIDbnavVifYxR6jLPGqZVlTZI72+OpiJAJPd79+uTgwYiMZTCf/9k=
-ogImage: 
+ogImage: null
 labels:
-- Bergung Vasa
-- Fernweh
-- Galeone
-- Gamla Stan
-- Give Peas a Chance
-- Pendeltåg
-- Reiseblog
-- Reisen
-- Restauration
-- Rucksack
-- Schweden2018
-- Segelschiff
-- Skandinavien
-- Skandinavien
-- Södermalm
-- Stadtbesichtigung
-- Städtetrip
-- Stockholm
-- Stockholm vegan
-- travelling
-- Tunnelbana
-- U-Bahn Stockholm
-- Vasa
-- Vasa Museum
-- vegan in Schweden
-- vegan Reisen
-- vegan travelling
-- serie:Schweden 2018
+  - Bergung Vasa
+  - Fernweh
+  - Galeone
+  - Gamla Stan
+  - Give Peas a Chance
+  - Pendeltåg
+  - Reiseblog
+  - Reisen
+  - Restauration
+  - Rucksack
+  - Schweden2018
+  - Segelschiff
+  - Skandinavien
+  - Skandinavien
+  - Södermalm
+  - Stadtbesichtigung
+  - Städtetrip
+  - Stockholm
+  - Stockholm vegan
+  - travelling
+  - Tunnelbana
+  - U-Bahn Stockholm
+  - Vasa
+  - Vasa Museum
+  - vegan in Schweden
+  - vegan Reisen
+  - vegan travelling
+  - serie:Schweden 2018
 focusKeyword: Stockholm
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Sonne, Kunst und Geschichte
 
 ---
+
 **Während unserer Schwedenreise im Juni meinte es das Wetter wirklich gut mit uns. Auch bei unserem Besuch in Stockholm konnten wir Sonnenschein und strahlend blauen Himmel genießen. Man Fazit dieser Tour verrate ich Euch einfach schon mal als Erstes: Schade, dass ein Tag nur 24 Stunden hat!**
 
 Auf den Spuren der Königsdynastie Vasa begaben wir uns auch ins gleichnamige Museum. Nach einer Wartezeit von etwa 15 Minuten bekamen wir die Gelegenheit, das einzige verbliebene Schiff aus dieser Zeit zu bewundern.

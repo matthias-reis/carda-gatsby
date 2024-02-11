@@ -1,14 +1,17 @@
 ---
 date: 2023-11-30T14:00:00.766Z
-slug: carlos-ferreira-isolationism-en
 typeName: Review
-title: 'Carlos Ferreira –  "Isolationism"'
+title: Carlos Ferreira –  "Isolationism"
 subTitle: The Start of a New Era
 seoTitle: Ambient Review – Carlos Ferreira – "Isolationism"
-description: 'The new Carlos Ferreira album, "Isolationism", is out! Check it out here, and find out some exclusive insights about it!'
-excerpt: 'With his new album, "Isolationism", Carlos Ferreira delivered one of the most beautiful ambient records of this year. The eight pieces tell of lightness, thoughtfulness, hope, and sadness. Listen to it right here and find out some fascinating details about it.'
+description: The new Carlos Ferreira album, "Isolationism", is out! Check it out
+  here, and find out some exclusive insights about it!
+excerpt: With his new album, "Isolationism", Carlos Ferreira delivered one of
+  the most beautiful ambient records of this year. The eight pieces tell of
+  lightness, thoughtfulness, hope, and sadness. Listen to it right here and find
+  out some fascinating details about it.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-30/carlos-ferreira-isolationism-3-jpg-imagine-080808_30302b_1024_768/640.webp
-copyright: 'Carlos Ferreira'
+copyright: Carlos Ferreira
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-30/carlos-ferreira-isolationism-og-jpg-imagine-080808_464541_1200_628/640.webp
 labels:
   - Band
@@ -27,6 +30,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/11/carlos-ferreira-isolationism/
+
 ---
 
 **The new Carlos Ferreira album, "Isolationism", is a musical treat I want to share with you. The album marks the dawn of a new era for the experimental guitarist.**

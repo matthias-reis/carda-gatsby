@@ -5,16 +5,11 @@ excerpt: Greenpeace produzierte jetzt gemeinsam mit dem Animationsstudio
   in our oceans".
 ogImage: null
 isAffiliate: false
-path: /2020/01/the-crisis-in-our-oceans/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBQcE/8QAJxAAAgEEAgEDBAMAAAAAAAAAAQIDBAURIQASBhMxQRQyUVIkQmH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECAwb/xAAkEQABBAECBgMAAAAAAAAAAAABAAIRIQMEEiIxUWFxgRPR8P/aAAwDAQACEQMRAD8AZ1pLfLT2qG7T2N0qIDO8VQrQyMcsmgPdQOwwM5I/3lrZK7x2hpTNJdKOuknLSsY26qgVRhI1f+oBHucnI3zFLlU1wvU1dPVLdpQVnSmSqVgCSNEnJ65OyDo/jPOqmqRSTUa32jzFHKySUkLAyMrYPXBI0MjJPx8fHBWaIOzuzZJjmBX6vSXnUvDYEUO5ntRryaTndrm1/ugrbXT3E21iEijiGxKiYbqqk5YZzr43zSS1HPb1lmp0pkhKFCQCxKpns4wd/drmF2ryOSg8piisElZB9PIZhHcFEsK9h0clwMqCMaA2QCN8tZPJor1Q19JeK2Chmlr4j/HiBjYKDH+gABYg5IB4yzOd8XCBIRjdZj1LWYMvCBRIomvB6Dn1SPJ9HDWxGRIXlUoJI5p8kQtFgjR+8PvGda1y/wDE2tlVfI7bXPTQwPF608k0fqNJgEhEzrfcZI/Xhw5aAYXPbyT6+lF2Fitd1empHSSKVhICV6+3uuQfxkjPsRxGq6povVSsqiVeYielZe4UAErlj9w+AQd4zrhw5LhtmFpjt0L/2Q==
 typeName: Filmtipp
 isWerbung: false
-fileName: 2020-01---the-crisis-in-our-oceans.md
-slug: the-crisis-in-our-oceans
-errors: {}
 date: 2020-01-17T20:10:02.000Z
 focusKeyword: the crisis in our oceans
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_oceans__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_oceans__m.jpg
 title: '"The crisis in our oceans"'
@@ -34,6 +29,7 @@ labels:
   - Tierrechte
   - wallace & gromit
 language: de
+
 ---
 
 **Die Ozeane beherbergen Milliarden von Lebewesen. Doch ihre natürlichen Habitate sind bedroht: Klimawandel, Plastikflut, Umweltverschmutzung, gnadenlose Überfischung und Ölbohrungen sorgen dafür, dass ihre Lebensräume immer weiter schrumpfen.**

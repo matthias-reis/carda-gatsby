@@ -1,12 +1,17 @@
 ---
 date: 2022-12-21T16:39:15.170Z
-slug: bank-myna-interview
 typeName: Interview
 title: Bank Myna Sängerin Maud
 subTitle: '"Vor uns liegen spannende Zeiten!"'
 seoTitle: Bank Myna Interview – Post-Rock aus Paris
-description: Bank Myna Sängerin Maud erzählte mir im Interview, dass sie mit Ihrer Band an neuer Musik arbeitet. Erfahre jetzt die spektakulären Details!
-excerpt: Bank Myna Sängerin Maud kontaktierte mich vor Kurzem und fragte nach einem Interview. So kam ich auch zum ersten Mal mit der Musik ihrer Band in Kontakt. Die Songs klingen für mich ein bisschen, als würde ich nach Hause kommen. Oder an einen Ort, den ich über einen langen Zeitraum vermisst habe. Als ob etwas, das eine ganze Weile getrennt war, jetzt wieder ganz und an seinem Platz ist.
+description: Bank Myna Sängerin Maud erzählte mir im Interview, dass sie mit
+  Ihrer Band an neuer Musik arbeitet. Erfahre jetzt die spektakulären Details!
+excerpt: Bank Myna Sängerin Maud kontaktierte mich vor Kurzem und fragte nach
+  einem Interview. So kam ich auch zum ersten Mal mit der Musik ihrer Band in
+  Kontakt. Die Songs klingen für mich ein bisschen, als würde ich nach Hause
+  kommen. Oder an einen Ort, den ich über einen langen Zeitraum vermisst habe.
+  Als ob etwas, das eine ganze Weile getrennt war, jetzt wieder ganz und an
+  seinem Platz ist.
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-jpeg-imagine-080808_111717_1200_919/640.webp
 copyright: Bank Myna
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-21/bank-myna-og-jpg-imagine-080808_101616_1200_628/640.webp
@@ -25,6 +30,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/12/bank-myna-interview-en/
+
 ---
 
 **Bank Myna Sängerin Maud kontaktierte mich vor Kurzem und fragte nach einem Interview. So kam ich auch zum ersten Mal mit der Musik ihrer Band in Kontakt. Die Songs klingen für mich ein bisschen, als würde ich nach Hause kommen. Oder an einen Ort, den ich über einen langen Zeitraum vermisst habe. Als ob etwas, das eine ganze Weile getrennt war, jetzt wieder ganz und an seinem Platz ist.**

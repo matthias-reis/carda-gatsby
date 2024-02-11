@@ -1,15 +1,15 @@
 ---
-date: 2020-07-17T08:21:01.000+00:00
-slug: lost-in-kiev-interview
-path: '/2020/07/lost-in-kiev-interview/'
+date: 2020-07-17T08:21:01.000Z
 type: Artikel
 typeName: Interview
 title: Lost in Kiev
 seoTitle: Lost in Kiev im Interview - "Die Post-Rock Szene ist etwas Besonderes"
 ogTitle: Lost in Kiev im Interview - "Die Post-Rock Szene ist etwas Besonderes"
-description: Lost in Kiev haben sich zu einem Interview bereiterklärt. Die Post-Rock-Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.
-excerpt: English & German - Lost in Kiev haben sich zu einem Interview bereiterklärt. Die Post-Rock-Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.
-fileName: 2020-07---lost-in-kiev.md
+description: Lost in Kiev haben sich zu einem Interview bereiterklärt. Die
+  Post-Rock-Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.
+excerpt: English & German - Lost in Kiev haben sich zu einem Interview
+  bereiterklärt. Die Post-Rock-Band aus Paris zeigte sich meinen Fragen
+  gegenüber sehr offen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_lost-in-kiev__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYEBQf/xAAtEAACAQMDAwIDCQAAAAAAAAABAgMEBREABiEHEjETMhQWUSIjQVJhcYKS0f/EABgBAQADAQAAAAAAAAAAAAAAAAUBAgME/8QAIxEAAgIBAgYDAAAAAAAAAAAAAQIDEQATIQQSMUFRkXHB8P/aAAwDAQACEQMRAD8AzDZfRS83tWqqyopqKiSMSrK7Bgwxk5/bT1sjamwrveLpa6C1rcnttLG8lyjlLUkrNghRz7vP9W+nMXeu5KvbHSSK20UE5qq9fhJ5ZMkQrIpJ/k6hgB9Mn6aW+kVVeNnWyS4QWI3GkviCFZYKpfUjK9xGEPH6c/lPOnZGWCbRiFD2fvC4+aaLVc7+h++ca92Xi17Uq6WyXi2rDb6qmY/FQ5MSSZOE7cE8YHP4ZHBGsh35ZqeApW2/Dwv9osvIZTyDq+3lJfLvtCe47iWjWCEpHS9k3pkyd+CSmCzuVDeWAUBjjkaiUFtra3p/TzFHKozLh+D2AjGM+Rzwf81sZhxReBu4sec5dI8MUmU1vRHasYrH1GpazqNbY71PT/Kdsnnro0KY9SZIH7GLEdzEtgAHjkDGrGr3fbtg2XYiUsNNeZqWijqXiWZfTWST12kXuUkhgJ0XwfaR50aNDNKz2564usarSDpiVX7voNwQPLdKXLU1BURw0ryfdLM0caJKMYy2TI2COML5wdKkm6Ls8UMJq3FPDEkKwj2dqrgZGjRqus6UUNE+MnSR9mF5/9k=
@@ -27,13 +27,12 @@ labels:
   - Lost in Kiev Interview
   - Post-Rock
 focusKeyword: Lost in Kiev
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Die Post-Rock Szene ist etwas Besonderes"'
-languageLink: '/2020/07/lost-in-kiev-interview-en'
+languageLink: /2020/07/lost-in-kiev-interview-en
+
 ---
 
 **Es ist etwas passiert, das ich kaum zu Träumen gewagt hatte: Lost in Kiev haben sich zu einem Interview bereiterklärt. Die Post-Rock-Band aus Paris zeigte sich meinen Fragen gegenüber sehr offen.**

@@ -1,12 +1,15 @@
 ---
 date: 2022-10-06T14:51:03.655Z
-slug: from-overseas-city-of-dawn-misty-memories-en
 typeName: Review
 title: '"Misty Memories"'
 subTitle: New Album by From Overseas & City of Dawn
 seoTitle: '"Misty Memories" – From Overseas & City of Dawn'
-description: Care for some brilliant ambient/drone sound? Kévin Sery, aka From Overseas and City of Dawn just released their album "Misty Memories".
-excerpt: Kévin Sery, aka From Overseas, will always be one of my favourite artists from the ambient genre. The sound artist from La Réunion has now recorded a new album with City of Dawn. "Misty Memories" is the first collaboration between the two projects.
+description: Care for some brilliant ambient/drone sound? Kévin Sery, aka From
+  Overseas and City of Dawn just released their album "Misty Memories".
+excerpt: Kévin Sery, aka From Overseas, will always be one of my favourite
+  artists from the ambient genre. The sound artist from La Réunion has now
+  recorded a new album with City of Dawn. "Misty Memories" is the first
+  collaboration between the two projects.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-06/from-overseas-city-of-dawn-misty-memories-jpg-imagine-f8f8f8_f5f2e9_1024_768/640.webp
 copyright: From Overseas & City of Dawn
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-06/from-overseas-city-of-dawn-misty-memories-fb-jpeg-imagine-f8f8f8_dedbd4_1200_628/640.webp
@@ -30,6 +33,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/10/from-overseas-city-of-dawn-misty-memories/
+
 ---
 
 **Kévin Sery, aka From Overseas, will always be one of my favourite artists from the ambient genre. The sound artist from La Réunion has now recorded a new album with City of Dawn. "Misty Memories" is the first collaboration between the two projects.**

@@ -1,15 +1,15 @@
 ---
 date: 2014-11-12T12:29:16.000Z
-slug: wirsing-kartoffelkuchen-aus-der-pfanne
-path: /2014/11/wirsing-kartoffelkuchen-aus-der-pfanne/
 type: Artikel
 typeName: Rezept
 title: Wirsing-Kartoffelkuchen aus der Pfanne
 seoTitle: Kartoffelkuchen mit Wirsing aus der Pfanne - Veganes Rezept
 ogTitle: Kartoffelkuchen mit Wirsing aus der Pfanne - Veganes Rezept
-description: Kartoffelkuchen mit Wirsing aus der Pfanne - Ein ganz traditionelles Rezept aus Andorra stelle ich Euch heute in der veganen Variante vor.
-excerpt: Kartoffelkuchen mit Wirsing aus der Pfanne - Ein ganz traditionelles Rezept aus Andorra stelle ich Euch heute in der veganen Variante vor.
-fileName: 2014-11---wirsing-kartoffelkuchen-aus-der-pfanne.md
+description: Kartoffelkuchen mit Wirsing aus der Pfanne - Ein ganz
+  traditionelles Rezept aus Andorra stelle ich Euch heute in der veganen
+  Variante vor.
+excerpt: Kartoffelkuchen mit Wirsing aus der Pfanne - Ein ganz traditionelles
+  Rezept aus Andorra stelle ich Euch heute in der veganen Variante vor.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACwQAAEDAgYBAgUFAAAAAAAAAAECAwQFEQAGEiExQRNRcQcUFSIjMmFigbH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQEDBv/EAB8RAAIDAAEFAQAAAAAAAAAAAAECAAMRBBIhIkFxUf/aAAwDAQACEQMRAD8AU8stx6svxrqaBBQCHXWxx/EEdn3AH77YseVWaUiGiNHQhuKwhSkqf3IHZ44Fubn3xH6NmNxTVktpihAF9ICUge/Q9v7OKhkN2nSKTKqNXUlWpTkbxBz7jbZWvg73O3X+YvlOaj1t2AjvjI3V4iJmbPidSWJniotMbnM3suS8S02bdJ2J39TYe+M1yVAzA0p2C8kSEp8iozjYQtsHr0UB6jDU7kbJcLKrkqp0qXFYluq+WnqkqOhKjdH2g2AsQBqFztfnErylAl07MDi6ghYghtxLbyk6QoKsBzxcC+4wbx76rlJq0Ff33DCHBxxoMo+WsjZW1hxVKU6rY/lkLIuONhbDpJyrQZzyVuwFtpXs40xIW2292dYH6ieze57wYMIL+RaW7sYwalEGqM+TMnU2oLq4o/1ZTdIaAdbZbZGtCRwkLJI2sN9J4wtSsmeOspqNSq82qJZH42pSUdG41KSBqt6HbBgxbVc9ZCqc35JrrWwa3qf/2Q==
@@ -27,17 +27,15 @@ labels:
   - vegan
   - vegan kochen
   - vegane Rezepte
-
   - Wirsing
   - Wirsing anbraten
   - Wirsing-Kartoffelkuchen
 focusKeyword: Kartoffelkuchen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Nach einem traditionellen Rezept aus Andorra
+
 ---
 
 **Vor Kurzem sah ich im Fernsehen eine Sendung über die Bewohner von Andorra, in der unter Anderem auch gekocht wurde. Ein Rezept für Kartoffelkuchen hat mich besonders inspiriert.**

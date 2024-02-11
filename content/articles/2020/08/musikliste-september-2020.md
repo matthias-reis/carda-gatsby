@@ -1,13 +1,12 @@
 ---
 date: 2020-08-24T10:37:00.000Z
-slug: musikliste-september-2020
-path: /2020/08/musikliste-september-2020/
 title: Musikliste für den September
 seoTitle: Musikliste für den September - frisch selektiert und aufgelegt
 ogTitle: Musikliste für den September - frisch selektiert und aufgelegt
-description: 'Es ist soweit: Die Musikliste für den September ist bereit. Ihr findet darin unsere aktuellen Highlights aus Ambient, Post-Rock, Prog und Co.'
-excerpt: 'Es ist soweit: Die Musikliste für den September ist bereit. Ihr findet darin unsere aktuellen Highlights aus Ambient, Post-Rock, Prog und Co.'
-fileName: 2020-08---musikliste-fuer-den-september.md
+description: "Es ist soweit: Die Musikliste für den September ist bereit. Ihr
+  findet darin unsere aktuellen Highlights aus Ambient, Post-Rock, Prog und Co."
+excerpt: "Es ist soweit: Die Musikliste für den September ist bereit. Ihr findet
+  darin unsere aktuellen Highlights aus Ambient, Post-Rock, Prog und Co."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_musikliste-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_musikliste-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQMEB//EACkQAAIBAwQBAwMFAAAAAAAAAAECAwQREgAFITEGEyJBQlGxMoGRweH/xAAXAQEBAQEAAAAAAAAAAAAAAAACBQME/8QAHxEAAQQDAAMBAAAAAAAAAAAAAQACESEDBDESQVGh/9oADAMBAAIRAxEAPwDhsS407MrEOSALH86n0TOuXqlvdY/ViLX/AK1j27169HhhhBCDMu0mIQDsnjRHu0tGpjeISIQfr9p4IB675vfWRwZPiYe3icYtn2Sj26sk3KCpqKoY4LBMI1p0IN5WuLucioCD76p91qVroaJkjKwh1hci/wCoAd8DkXsRpz2PYa7eYYamOoiRa+MRGEgqFNymWV73FgePm2qrdfEJ6PYtwkaqikeOSRWIDOgIYIcOeT85fvoZXNOwQDLpoSK9VaOsfHXl1CLN9SXTUk1LSRVEr3oywc2bo9cqfzrc3WmaWnAAjwYZLaMKf9PX86NGrDewuRzjRTh4b5dFT1m1LVVeNHTnOEM+IuAWC83+b9ffVp5R5htsnj7UdHGlOjXEpFQ0gZWs17ccZDRo1AOFrtoZD2ZVotA1ywciPxf/2Q==
@@ -35,12 +34,11 @@ labels:
   - Thrash Metal
   - Unkle
 focusKeyword: Musikliste
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Frisch selektiert und aufgelegt
+
 ---
 
 **Es ist wieder so weit. Die Musikliste für den nächsten Monat ist fertig. Wie schnell dieser musikalische Sommer doch vergeht, oder? Und das ganz ohne Festivals und Konzerte. Neue Musik gibt es ja glücklicherweise trotzdem.**

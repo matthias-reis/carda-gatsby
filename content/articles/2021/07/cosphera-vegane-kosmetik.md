@@ -1,11 +1,14 @@
 ---
 date: 2021-07-27T12:23:34.605Z
-slug: cosphera-vegane-kosmetik
 typeName: Produkttest
 title: Vitamine für die Haut
 subTitle: Meine Erfahrungen – Cosphera Kosmetik
 seoTitle: Vitamine für die Haut  – Meine Erfahrungen – Cosphera Kosmetik
-description: Vegane Kosmetik, die mit modernen und hochwertigen Wirkstoffen dafür sorgt, dass die Haut strahlt. Hergestellt in Deutschland. Das verspricht Cosphera. Ich habe jetzt die Hyaluron Performance Creme, die Vitamin C Performance Creme, das Vitamin C Performance Serum und das Wimpernserum getestet
+description: Vegane Kosmetik, die mit modernen und hochwertigen Wirkstoffen
+  dafür sorgt, dass die Haut strahlt. Hergestellt in Deutschland. Das verspricht
+  Cosphera. Ich habe jetzt die Hyaluron Performance Creme, die Vitamin C
+  Performance Creme, das Vitamin C Performance Serum und das Wimpernserum
+  getestet
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-07-27-cosphera-38-jpg-imagine-c8c8c8_91899a_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/cosphera-fb-jpg-imagine-886858_917762_1200_628/640.webp
 labels:
@@ -21,6 +24,7 @@ focusKeyword: Erfahrungen Cosphera
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Vegane Kosmetik, die mit modernen und hochwertigen Wirkstoffen dafür sorgt, dass die Haut schön strahlt. Hergestellt in Deutschland. Das verspricht Cosphera. Ich habe jetzt die Hyaluron Performance Creme, die Vitamin C Performance Creme, das Vitamin C Performance Serum und das Wimpernserum getestet.**

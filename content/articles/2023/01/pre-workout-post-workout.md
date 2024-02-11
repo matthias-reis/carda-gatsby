@@ -1,14 +1,20 @@
 ---
 date: 2023-01-24T14:57:37.695Z
-slug: pre-workout-post-workout
 typeName: Produkttest
 title: Von Pre-Workout bis Post-Workout
 subTitle: Die verschiedenen Trainingsphasen
 seoTitle: Muskelaufbau mit veganem Protein Pre- und Post-Workout
-description: Wenn Ihr auf der Suche nach den passenden veganen Produkten für den Muskelaufbau seid und die Unterschiede von Pre- und Post-Workout kennenlernen wollt, solltet ihr das lesen.
-excerpt: 'Workout und Muskelaufbau mit veganem Protein – zu diesem Thema habe ich vor Kurzem einen Artikel gepostet und damit regen Anklang gefunden und auch ein paar Nachrichten mit Fragen zum Thema. Eine davon hat mich selbst besonders beschäftigt und darum bin ich ihr einfach mal nachgegangen. Sie lautet: Was muss ich vor, nach und während meinem Training beachten, wenn ich gesund und dauerhaft Muskeln aufbauen möchte?'
+description: Wenn Ihr auf der Suche nach den passenden veganen Produkten für den
+  Muskelaufbau seid und die Unterschiede von Pre- und Post-Workout kennenlernen
+  wollt, solltet ihr das lesen.
+excerpt: "Workout und Muskelaufbau mit veganem Protein – zu diesem Thema habe
+  ich vor Kurzem einen Artikel gepostet und damit regen Anklang gefunden und
+  auch ein paar Nachrichten mit Fragen zum Thema. Eine davon hat mich selbst
+  besonders beschäftigt und darum bin ich ihr einfach mal nachgegangen. Sie
+  lautet: Was muss ich vor, nach und während meinem Training beachten, wenn ich
+  gesund und dauerhaft Muskeln aufbauen möchte?"
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-24/2023-01-22-nutri-plus-032-jpg-imagine-180808_53343f_2048_1536/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-24/pre-workout-post-workout-og-jpg-imagine-280808_61414e_1200_628/640.webp
 labels:
   - Post-Workout
@@ -24,6 +30,7 @@ focusKeyword: Post-Workout
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Workout und Muskelaufbau mit veganem Protein – zu diesem Thema habe ich vor Kurzem einen Artikel gepostet und damit regen Anklang gefunden und auch ein paar Nachrichten mit Fragen zum Thema. Eine davon hat mich selbst besonders beschäftigt und darum bin ich ihr einfach mal nachgegangen. Sie lautet: Was muss ich vor, nach und während meinem Training beachten, wenn ich gesund und dauerhaft Muskeln aufbauen möchte?**

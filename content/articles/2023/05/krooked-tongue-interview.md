@@ -1,12 +1,17 @@
 ---
 date: 2023-05-11T14:41:54.705Z
-slug: krooked-tongue-interview
 typeName: Interview
 title: Krooked Tongue
 subTitle: '"Wir wollen unseren Fans nichts vorenthalten"'
 seoTitle: Krooked Tongue – "Deathproof" – Indie Interview
-description: Die Bristoler Indie-Band Krooked Tongue veröffentlichte gerade die neue EP "Deathproof". Lernt sie jetzt im Interview kennen!
-excerpt: Die Bristoler Indie-Band Krooked Tongue präsentierte gerade ihre frisch erschienene EP "Deathproof". Sie folgt dicht auf ihr Debüt "No Vacancy Hotel" und das ebenfalls gerade erschienene Werk "When the Beaches bleed". Nachdem ich Euch die schlagfertigen drei in der Mai-Playlist bereits kurz vorgestellt hatte, wird es jetzt Zeit für ein Interview. Ihr entspannter Festival-Sound ist einfach zu schön, um sich nicht eingehender damit zu beschäftigen.
+description: Die Bristoler Indie-Band Krooked Tongue veröffentlichte gerade die
+  neue EP "Deathproof". Lernt sie jetzt im Interview kennen!
+excerpt: Die Bristoler Indie-Band Krooked Tongue präsentierte gerade ihre frisch
+  erschienene EP "Deathproof". Sie folgt dicht auf ihr Debüt "No Vacancy Hotel"
+  und das ebenfalls gerade erschienene Werk "When the Beaches bleed". Nachdem
+  ich Euch die schlagfertigen drei in der Mai-Playlist bereits kurz vorgestellt
+  hatte, wird es jetzt Zeit für ein Interview. Ihr entspannter Festival-Sound
+  ist einfach zu schön, um sich nicht eingehender damit zu beschäftigen.
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-11/krooked-tongue-1-jpg-imagine-181818_2f3332_1024_768/640.webp
 copyright: Krooked Tongue
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-11/krooked-tongue-og-jpg-imagine-181818_342e2a_1200_628/640.webp
@@ -24,6 +29,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/05/krooked-tongue-interview-en/
+
 ---
 
 **Die Bristoler Indie-Band Krooked Tongue präsentierte gerade ihre frisch erschienene EP "Deathproof". Sie folgt dicht auf ihr Debüt "No Vacancy Hotel" und das ebenfalls gerade erschienene Werk "When the Beaches bleed". Nachdem ich Euch die schlagfertigen drei in der Mai-Playlist bereits kurz vorgestellt hatte, wird es jetzt Zeit für ein Interview. Ihr entspannter Festival-Sound ist einfach zu schön, um sich nicht eingehender damit zu beschäftigen.**

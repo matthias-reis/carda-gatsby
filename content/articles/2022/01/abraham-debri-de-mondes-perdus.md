@@ -1,12 +1,16 @@
 ---
 date: 2022-01-06T13:34:02.368Z
-slug: abraham-debri-de-mondes-perdus
 typeName: Review
 title: '"Débris de mondes perdus" von Abraham'
 subTitle: Zurück zu den Wurzeln der Zukunft
 seoTitle: Abraham – "Débris de mondes perdus" – Post-Metal Review
-description: Das neue Abraham Album "Débris de mondes perdus" erscheint am 25. Februar Die Pelagic Band verzaubert mit der Platte vor allem Fans von Bands wie Cult of Luna und The Ocean.
-excerpt: Das neue Abraham Album "Débris de mondes perdus" erscheint am 25. Februar. Die Band hat es mit den insgesamt acht Songs geschafft, etwas ganz Neues zum Post-Metal Genre hinzuzufügen, das Fans von Bands wie Cult of Luna besonders verzaubern wird.
+description: Das neue Abraham Album "Débris de mondes perdus" erscheint am 25.
+  Februar Die Pelagic Band verzaubert mit der Platte vor allem Fans von Bands
+  wie Cult of Luna und The Ocean.
+excerpt: Das neue Abraham Album "Débris de mondes perdus" erscheint am 25.
+  Februar. Die Band hat es mit den insgesamt acht Songs geschafft, etwas ganz
+  Neues zum Post-Metal Genre hinzuzufügen, das Fans von Bands wie Cult of Luna
+  besonders verzaubern wird.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-06/abraham-jpg-imagine-b8d808_788e09_1024_768/640.webp
 copyright: Abraham
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-06/abraham-fb-png-imagine-a8c808_6e8208_1200_628/640.webp
@@ -29,6 +33,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/01/abraham-debri-de-mondes-perdus-en
+
 ---
 
 **Das neue Abraham Album "Débris de mondes perdus" erscheint am 25. Februar. Die Band hat es mit den insgesamt acht Songs geschafft, etwas ganz Neues zum Post-Metal Genre hinzuzufügen, das Fans von Bands wie Cult of Luna besonders verzaubern wird.**

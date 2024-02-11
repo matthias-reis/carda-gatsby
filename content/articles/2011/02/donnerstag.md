@@ -1,13 +1,14 @@
 ---
 date: 2011-02-17T07:40:25.000Z
-slug: donnerstag
-path: /2011/02/donnerstag/
 title: Donnerstag
 seoTitle: Donnerstag - Tagebucheintrag
 ogTitle: Donnerstag - Tagebucheintrag
-description: Inzwischen bin ich mit meinem Umzug bei April 2009 angelangt. Es liegt also noch eine ganze Menge vor mir. Es ist interessant, die alten Artikel nochmal durchzugehen.
-excerpt: Inzwischen bin ich mit meinem Umzug bei April 2009 angelangt. Es liegt also noch eine ganze Menge vor mir. Es ist interessant, die alten Artikel nochmal durchzugehen.
-fileName: 2011-02---donnerstag.md
+description: Inzwischen bin ich mit meinem Umzug bei April 2009 angelangt. Es
+  liegt also noch eine ganze Menge vor mir. Es ist interessant, die alten
+  Artikel nochmal durchzugehen.
+excerpt: Inzwischen bin ich mit meinem Umzug bei April 2009 angelangt. Es liegt
+  also noch eine ganze Menge vor mir. Es ist interessant, die alten Artikel
+  nochmal durchzugehen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_02_img_7594__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_02_img_7594__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAAnEAACAgEDBAEFAQEAAAAAAAABAgMEEQAFBhIhMUETBxRRYXEikf/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAL/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIRMQP/2gAMAwEAAhEDEQA/AMMtXK9zbKVaKBImphollVMNMjsThznyuSox6PfVdti2eRXUqzvHJblmQfK5J6iRjHUD2wAuMD1pDnvANx4nzKvsna3NOodDAxOWK5ZfAPYEeveuzx2lG1pZ5GAksxARLIpDIesRdzjscjAP476h9texKZEeY/e0azPa3N7kiygQOHWQqD0l8uO+M98fkA+RqXWC1uy2Zw3X9vEZJGd/9dK+WAzk92BOAT71QfVw2afLbVCejDQnjWKKWvC/UnyYA6hgkANrh7LtN25WkeksUksMo6o/eVPkY/Zwf7oLObaAJKrh9DePqPy/b4dx5BZSwinpsTJ87qD5Ayw8/wB1o0n09i4/K89fdbbWo43lMwVQWbOfeceB/wA0aNPqHZQBMt5Rt72JTuRtzC6Ss7Sk5LMO4J/Y0rsXPt+2ZRWWataqKXk+GzVjkVi5JYHK5IJJyM6NGi9RMZhNn//Z
@@ -15,12 +16,11 @@ ogImage: null
 labels:
   - Geschichten & Erlebtes
 focusKeyword: Donnerstag
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Blog-Umzug
+
 ---
 
 **Inzwischen bin ich mit meinem Blog-Umzug bei April 2009 angelangt. Es liegt also noch eine ganze Menge vor mir. Es ist interessant, die alten Artikel nochmal durchzugehen.**

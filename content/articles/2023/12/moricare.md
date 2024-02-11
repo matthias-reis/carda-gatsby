@@ -1,14 +1,18 @@
 ---
 date: 2023-12-07T13:00:00.766Z
-slug: moricare
 typeName: Produkttest
-title: 'Moricare stellt sich vor'
+title: Moricare stellt sich vor
 subTitle: Hochwertige natürliche Pflege zu den Feiertagen
-seoTitle: 'Moricare – vegane Beauty-Produkte mit Geschenkverpackung'
-description: Moricare vegane Beauty-Produkte an den Feiertagen verschenken? Holt Euch jetzt hochwertige natürliche Pflege plus Geschenkverpackung!
-excerpt: Die vegane Beauty-Brand Moricare hat sie jetzt kurz vor den Feiertagen eine schöne Rabattaktion für Euch ausgedacht – zusätzlich zur festlichen Verpackung in Rot und Gold erhaltet Ihr zehn Prozent Rabatt! In diesem Artikel lernt Ihr Moricare kennen und stelle ich Euch eines meiner Lieblings-Produkte vor – das Hyaluronserum.
+seoTitle: Moricare – vegane Beauty-Produkte mit Geschenkverpackung
+description: Moricare vegane Beauty-Produkte an den Feiertagen verschenken? Holt
+  Euch jetzt hochwertige natürliche Pflege plus Geschenkverpackung!
+excerpt: Die vegane Beauty-Brand Moricare hat sie jetzt kurz vor den Feiertagen
+  eine schöne Rabattaktion für Euch ausgedacht – zusätzlich zur festlichen
+  Verpackung in Rot und Gold erhaltet Ihr zehn Prozent Rabatt! In diesem Artikel
+  lernt Ihr Moricare kennen und stelle ich Euch eines meiner Lieblings-Produkte
+  vor – das Hyaluronserum.
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-07/moricare-hyaruron-serum-jpg-imagine-585858_7c413e_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-07/moricare-hyaruron-serum-og-1-jpg-imagine-484848_7c4e4b_1200_628/640.webp
 labels:
   - Moricare
@@ -25,6 +29,7 @@ focusKeyword: Moricare vegane Beauty-Produkte
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Die vegane Beauty-Brand Moricare hat gerade eine schöne Aktion gestartet: zusätzlich zur festlichen Verpackung zu den Feiertagen gibt es jetzt auch noch zehn Prozent Rabatt[^1]. Für mich ein weiterer Grund, Euch die Marke und eines meiner Lieblingsprodukte hier endlich mal vorzustellen.**

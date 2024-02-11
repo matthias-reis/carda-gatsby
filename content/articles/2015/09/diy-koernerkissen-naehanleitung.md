@@ -1,13 +1,12 @@
 ---
 date: 2015-09-18T14:57:28.000Z
-slug: diy-koernerkissen-naehanleitung
-path: /2015/09/diy-koernerkissen-naehanleitung/
 title: DIY Körnerkissen
 seoTitle: DIY Körnerkissen - Meine Nähanleitung
 ogTitle: DIY Körnerkissen - Meine Nähanleitung
-description: Heute möchte ich Euch zeigen, wie Ihr Euch im Handumdrehen ein schmerzlinderndes, schlafförderdes Körnerkissen schneidern könnt.
-excerpt: Mein geliebtes Körnerkissen hat vor Kurzem das Zeitliche gesegnet, also war es an der Zeit, ein neues zu nähen.
-fileName: 2015-09---diy-koernerkissen.md
+description: Heute möchte ich Euch zeigen, wie Ihr Euch im Handumdrehen ein
+  schmerzlinderndes, schlafförderdes Körnerkissen schneidern könnt.
+excerpt: Mein geliebtes Körnerkissen hat vor Kurzem das Zeitliche gesegnet, also
+  war es an der Zeit, ein neues zu nähen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-47-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-47-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcDBAYI/8QAKRAAAQMCBQQCAgMAAAAAAAAAAQIDBAURAAYSITEHE0FhFDJCURVikf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAQT/xAAjEQABAwIGAwEAAAAAAAAAAAACAQMRADESEyEyQVEiYXHw/9oADAMBAAIRAxEAPwAPRsiUl7LjVbq9YkIp6mw6lSLMixGw3BUSTwOcXIIyHDjMvPUarORHCUtPSUqdQoj7fmOL/rA+LDk17p/TkJFTd/jS4y0xEjB1C3O4q61quLBKLJAAJufeLlLprudqzApoo0ClwadZuSqAhLLxSr8j3FFS1HTfgkC5wFwuJ4rV0IR3Jx+7rcwcu5Sq9JakUumMvR3FawUM9tTaUkEk6gFW/wBBBwlK1TUU2pS4jbJK47y0alC4AvcWv6I4x0XAyYqEtphdXlyIcOOllltaEjSgkci29lccWBws+s1IbhVpmclkx2pKOyVpcKkOOoG6vRKSNv6nDbERHS9chG7mqhbeKj6YZqjUzKkmK6ADGlOPq1Gw0K0XKQLk239cY3r9Rp0fOVLmhp0SWkOR/l6B2nm1JvYqAJ2ITa9uf1hH9OarRafVpSsw6QyptJZcCFLKFg7iyRcgjkehjb5v6gUWsMJTBbnOSO1uoIDKNQ+oVq3NvQ8YIMgp4yWKT7rgNwyOJYW6x8j5zN+IvTPm5vgwoc5595PyoaVXYBJK/CSCB9bkXPjHP2Yq7JrEyU5Pk/KV21BJKlFrUjjSLWFxtwOd8QS6tPmQlRXpqktEEaG7b8EXPm1v1gHLWE2a8ga06je5tviiwhLhtWs4skc3frPXqNOr+6//2Q==
@@ -45,12 +44,11 @@ labels:
   - Verspannung heilen
   - Wärmekissen
 focusKeyword: Körnerkissen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Nähanleitung
+
 ---
 
 **Mein geliebtes Körnerkissen hat vor Kurzem das Zeitliche gesegnet, also war es an der Zeit, ein neues zu nähen. Wie ich das gemacht habe, habe ich Schritt für Schritt festgehalten, sicher ist auch unter Euch der/die ein oder andere, der/die ab und zu mit Verspannungen oder Bauchweh zu kämpfen hat.**

@@ -1,14 +1,18 @@
 ---
 date: 2023-11-14T13:14:00.766Z
-slug: zahn-adria-interview
 typeName: Interview
-title: 'Im Gespräch mit Felix und Chris von Zahn'
+title: Im Gespräch mit Felix und Chris von Zahn
 subTitle: '"Bei unserem neuen Album haben die Instrumente die Richtung vorgegeben"'
-seoTitle: 'Zahn – "Adria" – Experimental-Rock-Interview'
-description: Das neue Zahn Album "Adria" ist da und begeistert ab der ersten Note. Lest jetzt mein Interview mit Felix und Chris und erfahrt alles über die Platte!
-excerpt: '"Adria" heißt das neue Zahn Album. Ich habe mich mit Felix Gebhard und Chris Breuer zum Interview verabredet und mir alle wichtigen Details dazu geholt. Heute teile ich sie mit Euch und die beiden verraten Euch unter anderem, wie es zu dem sensationellen Artwork kam.'
+seoTitle: Zahn – "Adria" – Experimental-Rock-Interview
+description: Das neue Zahn Album "Adria" ist da und begeistert ab der ersten
+  Note. Lest jetzt mein Interview mit Felix und Chris und erfahrt alles über die
+  Platte!
+excerpt: '"Adria" heißt das neue Zahn Album. Ich habe mich mit Felix Gebhard und
+  Chris Breuer zum Interview verabredet und mir alle wichtigen Details dazu
+  geholt. Heute teile ich sie mit Euch und die beiden verraten Euch unter
+  anderem, wie es zu dem sensationellen Artwork kam.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-14/zahn-adria-interview-2-jpg-imagine-181818_656063_1024_768/640.webp
-copyright: 'Zahn'
+copyright: Zahn
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-14/zahn-adria-interview-og-jpg-imagine-081818_8c7f7a_1200_628/640.webp
 labels:
   - Band
@@ -29,6 +33,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/11/zahn-adria-interview-en/
+
 ---
 
 **Zahn habt Ihr hier im Blog schon kennengelernt. Unter anderem durch mein Interview mit Felix (Gebhard) zur selbst betitelten Debüt-Platte. Weil jetzt das neue Album "Adria" in der Startgasse steht, haben wir uns wieder zum Gespräch verabredet. Chris (Breuer) war dieses Mal auch dabei.**

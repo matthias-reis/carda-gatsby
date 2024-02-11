@@ -1,24 +1,21 @@
 ---
 ogTitle: WaterBear Streamingdienst – Das Videoportal für modernen Aktivismus
-excerpt: WaterBear ist ein kostenloser Streamingdienst für Themen wie Nachhaltigkeit, Tierrechte, Artenschutz und Klimaaktivismus.
+excerpt: WaterBear ist ein kostenloser Streamingdienst für Themen wie
+  Nachhaltigkeit, Tierrechte, Artenschutz und Klimaaktivismus.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-fb.png__l.jpg
 isAffiliate: false
-path: /2021/02/waterbear-streamingdienst/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAJxAAAQMEAQMEAwEAAAAAAAAAAQIDBAAFESESBjFBEyJhcRQzQoH/xAAYAQEAAwEAAAAAAAAAAAAAAAABAAIDBP/EAB4RAAICAgMBAQAAAAAAAAAAAAECABEDEiEiMROx/9oADAMBAAIRAxEAPwDPyeqYE+5pamQrUzEXwShUeMVOcuYB5EtlOCddxjPeuf3213VEtz1YkrLa1fpSvijKieAGNU3dpknp26RFwZMiYy4tKjHe4todxnAPE5x8+av3+s7DGhwTDtN+/LWjlOWZDRSXdbbwNpyT332z5pDtUXRNiB5MLCvTkRtbM56QlHL1OKyo5IOhkgkgEfVTIv8Acro9HYt8h124KWEtMIBBWFd8qBGPHf57VbEW2Vbmpb8S8qLLRShRfjqSdkpz/SfnG/NbXpa33RuytOyen0SWXgX1rCWV5K9hOCckYHbxSzIw0yVUxGNlOyWZy9FxtYkui4RVvNA4ZCCSGzk6931TZi2KRbFyobZQ4wObiAotZ12SSd+4j/KKKb661LHnkye5RIMe0SJ1udeDTLYWkrdScqOgOJ9xGx4pS09SSYPTpaU62iLJc4LbSwS4EnRUhwnAIA0PqiiuRH+t7Dw1+SY8rdqn/9k=
 isWerbung: false
-fileName: 2021-02---waterbear-streamingdienst.md
-slug: waterbear-streamingdienst
-errors: {}
 date: 2021-02-19T10:59:23.000Z
 focusKeyword: WaterBear
 languageLink: /2021/02/waterbear-streaming-platform
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_waterbear-1__m.jpg
 title: WaterBear Streamingdienst
 subTitle: Das Videoportal für modernen Aktivismus
 seoTitle: WaterBear Streamingdienst – Das Videoportal für modernen Aktivismus
-description: WaterBear ist ein kostenloser Streamingdienst für Themen wie Nachhaltigkeit, Tierrechte, Artenschutz und Klimaaktivismus.
+description: WaterBear ist ein kostenloser Streamingdienst für Themen wie
+  Nachhaltigkeit, Tierrechte, Artenschutz und Klimaaktivismus.
 language: de
 type: Artikel
 labels:
@@ -30,6 +27,7 @@ labels:
   - Streamingdienst
   - WaterBear
   - WaterBear Network
+
 ---
 
 **"We don't want you to Netflix &amp; chill. We want you to WaterBear and act!" – das sagte Lisa Rose, Head of Impact beim Nachhaltigkeits-Streamingdienst WaterBear gestern Abend in einer digitalen Konferenz.**

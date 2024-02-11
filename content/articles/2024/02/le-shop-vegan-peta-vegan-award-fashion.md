@@ -1,14 +1,17 @@
 ---
 date: 2024-02-01T12:00:12.086Z
-slug: le-shop-vegan-peta-vegan-award-fashion
-typeName:
-title: 'Le Shop Vegan erhält PETA Vegan Award Fashion 2024'
-subTitle: 'Bester veganer Onlineshop im Bereich Fashion'
-seoTitle: 'Le Shop Vegan wird mit PETA Vegan Award Fashion ausgezeichnet'
-description: 'Le Shop Vegan hat jetzt von PETA offiziell den Vegan Award für den Bereich Fashion erhalten. Holt Euch hier spannende Insights!'
-excerpt: 'PETA hat Le Shop Vegan offiziell den PETA Vegan Award Fashion verliehen. Ich nehme das heute zum Anlass, Euch meinen veganen Lieblingsshop für faire Slow Fashion endlich mal genauer vorzustellen und zu erzählen, was genau hinter dem Namen und dem Onlinestore steckt.'
+typeName: null
+title: Le Shop Vegan erhält PETA Vegan Award Fashion 2024
+subTitle: Bester veganer Onlineshop im Bereich Fashion
+seoTitle: Le Shop Vegan wird mit PETA Vegan Award Fashion ausgezeichnet
+description: Le Shop Vegan hat jetzt von PETA offiziell den Vegan Award für den
+  Bereich Fashion erhalten. Holt Euch hier spannende Insights!
+excerpt: PETA hat Le Shop Vegan offiziell den PETA Vegan Award Fashion
+  verliehen. Ich nehme das heute zum Anlass, Euch meinen veganen Lieblingsshop
+  für faire Slow Fashion endlich mal genauer vorzustellen und zu erzählen, was
+  genau hinter dem Namen und dem Onlinestore steckt.
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-01/peta-vegan-award-soundsvegan-com-jpg-imagine-080808_4b1950_1024_768/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-01/peta-vegan-award-soundsvegan-com-og-jpg-imagine-080808_471852_1200_628/640.webp
 labels:
   - PETA Vegan Award
@@ -19,10 +22,11 @@ labels:
   - vegan
   - Vegan Fashion
   - Slow Fashion
-focusKeyword: 'Le Shop Vegan Peta Vegan Award'
+focusKeyword: Le Shop Vegan Peta Vegan Award
 advertisement: false
 affiliate: true
 language: de
+
 ---
 
 **Le Shop Vegan wurde von PETA offiziell mit dem PETA Vegan Award ausgezeichnet. Wie ich finde: verdient! Und weil das so ist, nehme ich mir heute endlich mal Zeit, Euch meinen veganen Lieblings-Shop für Klamotten & Co. mal etwas genauer vorzustellen.**

@@ -1,15 +1,16 @@
 ---
 date: 2017-04-21T13:24:56.000Z
-slug: erbsensuppe-wie-bei-oma
-path: /2017/04/erbsensuppe-wie-bei-oma/
 type: Artikel
 typeName: Rezept
 title: Erbsensuppe wie bei Oma
 seoTitle: Erbsensuppe wie bei Oma - Grünes Protein für alle
 ogTitle: Erbsensuppe wie bei Oma - Grünes Protein für alle
-description: Meine Erbsensuppe hat bei Instagram voll abgeräumt. Deshalb präsentiere ich Euch heute das Rezept. Die Suppe ist lecker, Kalorien-arm und reich an Protein.
-excerpt: Meine Erbsensuppe hat bei Instagram voll abgeräumt. Deshalb präsentiere ich Euch heute das Rezept. Die Suppe ist lecker, Kalorien-arm und reich an Protein.
-fileName: 2017-04---erbsensuppe-wie-bei-oma.md
+description: Meine Erbsensuppe hat bei Instagram voll abgeräumt. Deshalb
+  präsentiere ich Euch heute das Rezept. Die Suppe ist lecker, Kalorien-arm und
+  reich an Protein.
+excerpt: Meine Erbsensuppe hat bei Instagram voll abgeräumt. Deshalb präsentiere
+  ich Euch heute das Rezept. Die Suppe ist lecker, Kalorien-arm und reich an
+  Protein.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33985853262_4637f5bfe8_b__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33985853262_4637f5bfe8_b__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEB//EACwQAAIBAgUCBAYDAAAAAAAAAAECAwQRAAUGEiExQQcTIjIUJFFhkaEzQnH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHBEAAwACAwEAAAAAAAAAAAAAAQIDABEEEiET/9oADAMBAAIRAxEAPwAzpLS8r0MdXmweNHUOtOpCvY+0ux9tyLWAJFxe18Ws8ovgMqlloKMwFF3rKg2uLc3BYlr3AOF+ZVMMtb5kaIqkb0HUi/8Aa/cnrew7X6YJ69z56WCKlom+amuW4BKrbsD1v0/OJW5JZ+i5TOWxvJtH4rZpQjbmFJDXHp5rsUkP+kcH8Yzag1hBqak845fPTVManzSJAY1QGy9gbm98atOZJl+rIK6trKZcthhCorU5LB5LXJseLdOB0vjTQ5FDTM0UEYcGNgytyvTkHvtYclQRz3thUExTwabN6VoEIb0Yy1Zlz5XnXlOPQyjYbcFRcC3pUfToLY57rjKqutraSqoYHqAI/JkjBFl5uD+/1jsuS6i094j6ZFRQTB3QbpoXb5ikaw/lHubm4Ur6fxbEuo0fJHUBIq2MHcU9YBsVTc3IPQH03t98CnHoj95jYyeV1A02DNPZY2SZNHSzSo8hLSSeV7bseg+3GK9PT7oviGWNRyoZ7LuZrKACylbn6G3bti9S6XEbK1XUKwCxyMFXedr8XsOu1jb6EXwE8U9c0umqSpyfKKhZc+fdEWhl3fCJYqTK6+mSQgDaLXXv05MOOwf6UxbWDjouf//Z
@@ -35,17 +36,15 @@ labels:
   - Trockenerbsen
   - vegan
   - vegane Rezepte
-
   - veganerezepte
   - wheredoyougetyourprotein
   - Zwiebeln
 focusKeyword: Erbsensuppe
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Grünes Protein für alle
+
 ---
 
 **Ich will nicht angeben, aber: Meine Erbsensuppe hat bei Instagram voll abgeräumt. Ich habe gleich ein paar Nachrichten mit der Frage nach dem Rezept bekommen. Hiermit verrate ich es Euch.**

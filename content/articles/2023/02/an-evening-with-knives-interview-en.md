@@ -1,12 +1,16 @@
 ---
 date: 2023-02-03T07:49:26.394Z
-slug: an-evening-with-knives-interview-en
 typeName: Interview
 title: An Evening With Knives
 subTitle: '"We always want to tell a Story"'
 seoTitle: An Evening With Knives Interview about new album
-description: The new An Evening With Knives album "FNR Sessions" is spectacular. Read the interview with songwriter, singer, and band founder Marco about it now!guitarist
-excerpt: 'The new An Evening With Knives album "FNR Sessions" is a very special one: the band recorded it in their hometown of Eindhoven—in a place of music, community, and gathering. The result is a wonderful, energetic interplay of complex song structures full of feeling, drive, and moments of magic.'
+description: The new An Evening With Knives album "FNR Sessions" is spectacular.
+  Read the interview with songwriter, singer, and band founder Marco about it
+  now!guitarist
+excerpt: 'The new An Evening With Knives album "FNR Sessions" is a very special
+  one: the band recorded it in their hometown of Eindhoven—in a place of music,
+  community, and gathering. The result is a wonderful, energetic interplay of
+  complex song structures full of feeling, drive, and moments of magic.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-1-1-jpg-imagine-080808_503292_1024_768/640.webp
 copyright: An Evening With Knives
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-og-jpg-imagine-082868_1c3b70_1200_628/640.webp
@@ -28,6 +32,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/02/an-evening-with-knives-interview/
+
 ---
 
 **The new An Evening With Knives album "FNR Sessions" is a very special one: the band recorded it in their hometown of Eindhoven—in a place of music, community, and gathering. The result is a wonderful, energetic interplay of complex song structures full of feeling, drive, and moments of magic.**

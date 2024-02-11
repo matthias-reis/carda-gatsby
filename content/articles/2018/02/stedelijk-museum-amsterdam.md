@@ -1,19 +1,18 @@
 ---
-date: 2018-02-15T12:57:46.000+00:00
-slug: stedelijk-museum-amsterdam
-path: '/2018/02/stedelijk-museum-amsterdam/'
+date: 2018-02-15T12:57:46.000Z
 type: Galerie
 typeName: Galerie
 title: Stedelijk Museum Amsterdam
 seoTitle: Stedelijk Museum Amsterdam - Moderne Kunst hautnah
 ogTitle: Stedelijk Museum Amsterdam - Moderne Kunst hautnah
-description: Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu besuchen. Für uns ein echtes Highlight unseres Kurztripps nach Amsterdam.
-excerpt: Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu besuchen. Für uns ein echtes Highlight unseres Kurztripps nach Amsterdam.
-fileName: 2018-02---stedelijk-museum-amsterdam.md
+description: Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu
+  besuchen. Für uns ein echtes Highlight unseres Kurztripps nach Amsterdam.
+excerpt: Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu
+  besuchen. Für uns ein echtes Highlight unseres Kurztripps nach Amsterdam.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38470388620_e6fe43e7b2_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38470388620_e6fe43e7b2_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAUSAAYRByExQVFxgRNhFDKR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//EACYRAAEDAwMCBwAAAAAAAAAAAAECAwQAESEScfAFgRQxMlGRwfH/2gAMAwEAAhEDEQA/AOUvubcJ3DXW2101HM1PLIoDQ+FU9uTkB7fetV013Bcr7ea+hu8FPE1NDmUSExsrZgcHkn0OkrPQM98v8tIM5VrZWmRYizMMQU7j0HJPj10/sWN6fqLXrPL+SoktSPKTHgQ35F4BHPnHjU7M9Tktce2AO/ObVPQdEVL+c/FLdTtw3Wx7gobfZ0gf+RThxG1OJGZy7Dt9AazVHuHcTbmo7Zd0p4xNIAwWBRkvfuGHx6a2u8KQ1vUKnjp2cVxtiCnwjzbkzsGxHuRwPs6o7vRzUu9rElcskUondkikjxKrgeSDz3BPH+HRXOUJgjgYt9X5y+yOmAwFSycjb3tv+jtNZmuFuvt4rKQSoayReHVlKlMQP6n98+f1qx2pb6qj3jUXWqZ5BU0jJNLIw7vmuIA59l+PGjRp0RUIeL4J1HzqZUpamQwfSKN1w1ku86W60SNjBRCOOVJMSsmbHx58HsffVHWx3Kv3Pb7nXvJLJT5K0ksnJCYkAAfJ0aNMY6S8HiTcYpxMcEfwwtpOa//Z
-ogImage:
+ogImage: null
 labels:
   - Amsterdam
   - Amsterdam2018
@@ -36,12 +35,11 @@ labels:
   - Zeitgenössische Kunst
   - serie:Amsterdam 2018
 focusKeyword: Stedelijk Museum
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Moderne Kunst hautnah
+
 ---
 
 **Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu besuchen. Da wir beide von moderner Kunst magisch angezogen werden, war das für uns ein besonderes Highlight unserer Kurzreise nach Amsterdam.**

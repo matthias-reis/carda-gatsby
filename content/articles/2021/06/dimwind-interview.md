@@ -16,7 +16,6 @@ labels:
   - Post-Hardcore
   - Post-Music
 language: de
-slug: dimwind-interview
 typeName: Interview
 title: Dimwind Gründer Jonas
 subTitle: '"Wir müssen uns um diesen Planeten kümmern"'
@@ -24,10 +23,10 @@ seoTitle: Dimwind Gründer Jonas im Interview – Schwedischer Post-Metal
 ogTitle: ""
 description: Dimwind Gründer Jonas hat mir im Interview einiges über den
   Entstehungsprozess des Debütalbums "Slow Wave Violence" verraten.
-excerpt: Dimwind haben vor Kurzem ihr grandioses Debütalbum "Slow Wave
-  Violence" veröffentlicht. Weil mich die Platte so begeistert hat, habe ich
-  mich kurzerhand mit Gründer Jonas zum Interview verabredet. Wir haben uns über
-  das Album, das Klima und die Verbindung zwischen harter Musik und Veganismus
+excerpt: Dimwind haben vor Kurzem ihr grandioses Debütalbum "Slow Wave Violence"
+  veröffentlicht. Weil mich die Platte so begeistert hat, habe ich mich
+  kurzerhand mit Gründer Jonas zum Interview verabredet. Wir haben uns über das
+  Album, das Klima und die Verbindung zwischen harter Musik und Veganismus
   unterhalten.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/dimwind-jpg-imagine-181818_686868_1024_768/640.webp
 copyright: Dimwind
@@ -36,6 +35,7 @@ focusKeyword: Dimwind
 advertisement: false
 affiliate: false
 languageLink: /2021/06/dimwind-interview-en
+
 ---
 
 **Dimwind haben vor Kurzem ihr grandioses Debütalbum "Slow Wave Violence" veröffentlicht. Weil ich so von der Platte begeistert bin, habe ich mich kurzerhand mit Gründer Jonas zum Interview verabredet. Wir haben uns über das Album, das Klima und die Verbindung zwischen harter Musik und Veganismus unterhalten.**

@@ -2,12 +2,14 @@
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/arvensis-do-no-harm-fb-png-imagine-080808_6b5555_1024_768/640.webp
 TW: Psychische Gesundheit, Angst, Selbstverletzung
 date: 2021-10-15T11:35:18.749Z
-slug: arvensis-do-no-harm-interview
 typeName: Interview
 title: '"Do No Harm" – Das neue Album von Arvensis'
 subTitle: Interview mit Dani Laubscher
 seoTitle: '"Do No Harm" – Das neue Album von Arvensis (Interview)'
-description: Vor ein paar Tagen, schrieb mir Dani von Arvensis und teilte mir die gute Nachricht mit, dass das neue Album "Do No Harm" fertig ist. Ich habe meine Chance ergriffen und Dani ein paar Fragen dazu gestellt, um unser Interview von November 2020 fortzuführen.
+description: Vor ein paar Tagen, schrieb mir Dani von Arvensis und teilte mir
+  die gute Nachricht mit, dass das neue Album "Do No Harm" fertig ist. Ich habe
+  meine Chance ergriffen und Dani ein paar Fragen dazu gestellt, um unser
+  Interview von November 2020 fortzuführen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/arvensis-dani-jpg-imagine-282838_714d4f_1024_768/640.webp
 copyright: Arvensis
 labels:
@@ -30,6 +32,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/10/arvensis-do-no-harm-interview-en/
+
 ---
 
 **Vor ein paar Tagen, schrieb mir Dani von Arvensis, um eine gute Nachricht mit mir zu teilen: "Mein neues Album 'Do No Harm' ist fertig!" Ich habe meine Chance ergriffen und Dani ein paar Fragen dazu gestellt, um unser Interview von November 2020 fortzuführen.**

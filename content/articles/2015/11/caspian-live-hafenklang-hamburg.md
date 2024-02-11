@@ -1,15 +1,15 @@
 ---
 date: 2015-11-11T13:13:37.000Z
-slug: caspian-live-hafenklang-hamburg
-path: /2015/11/caspian-live-hafenklang-hamburg/
 type: Galerie
 typeName: Konzertbericht
 title: Caspian live @ Hafenklang Hamburg
 seoTitle: Caspian live @ Hafenklang Hamburg
 ogTitle: Caspian live @ Hafenklang Hamburg
-description: 'Gestern war der große Tag endlich gekommen: Caspian spielten live im Hafenklang in Hamburg.'
-excerpt: 'Gestern stand für uns ein echtes Highlight an: Das Caspian Konzert im Hafenklang in Hamburg. Schon seit Wochen hatten wir uns drauf gefreut, endlich war der Tag gekommen.'
-fileName: 2015-11---caspian-live-hafenklang-hamburg.md
+description: "Gestern war der große Tag endlich gekommen: Caspian spielten live
+  im Hafenklang in Hamburg."
+excerpt: "Gestern stand für uns ein echtes Highlight an: Das Caspian Konzert im
+  Hafenklang in Hamburg. Schon seit Wochen hatten wir uns drauf gefreut, endlich
+  war der Tag gekommen."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22547749049_b55cb368b4_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22547749049_b55cb368b4_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAACAEDBQb/xAAsEAABAwMCBQMDBQAAAAAAAAABAgMEAAURBiEHEiIxQRNRYRQycRZSkbHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ACwgISVB0q2BwE47423rQttul326MW+xw5cuc+pQajsp51qAGdgO+ACSfYfFZmBgHO/mmfwH0nA0ZpXREyQhJu1+fcnOO8gKgj6R5SGwe4SEHOP3KPxQF7VnDnVmjmmn9SWKVDjrUEh08rjWT2BWgkAnB2JBrk1p5UoJBHMMj53p76AmRNUcHrBA1Qlck3mB6L59IuDqWUpUo46SVYwT5/GaB9ybVHluxV/cwtTZ+SDigpcQAEKT2UP4po8PdW2K/wCkuGjDV0hw5sKK9DcDjqQphxuKWckKPkqSR7g0KqvbbQWypTqQewTgk/1j/fNAxP1jpvQ/BiyTWbpb5t5gW9MSMIMsuJXJxnC0AjmCSebqG2TjfFDpbTimjIdOAtWxUd1nyR7/AJqtW3TkEA9xUKUVfcSfG9B//9k=
@@ -23,12 +23,11 @@ labels:
   - live
   - liveinkonzert
 focusKeyword: Caspian
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Konzert ohne Kamera
+
 ---
 
 **Gestern stand für uns ein echtes Highlight an: Das Caspian Konzert im Hafenklang in Hamburg. Schon seit Wochen hatten wir uns drauf gefreut, endlich war der Tag gekommen.**

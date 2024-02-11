@@ -18,24 +18,26 @@ labels:
   - VIVID Music
   - VIVID Post-Rock
 language: en
-date: 2020-06-27T13:45:00+02:00
-slug: oh-hiroshima-interview-en
+date: 2020-06-27T11:45:00.000Z
 typeName: Interview
 title: Oh Hiroshima
 subTitle: '"We recorded the drums in a church"'
 seoTitle: Oh Hiroshima – "We recorded the drums in a church"
-ogTitle: ''
-description: If you love Swedish post-rock, you can't get past Oh Hiroshima. I had the opportunity to get to know the band better during an interview with singer Jakob.
-excerpt: ''
+ogTitle: ""
+description: If you love Swedish post-rock, you can't get past Oh Hiroshima. I
+  had the opportunity to get to know the band better during an interview with
+  singer Jakob.
+excerpt: ""
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_OH-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_OH-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAT/xAArEAACAQMDAwMCBwAAAAAAAAABAgMABBEFEiEGMUEiUaETgQcUFlJisfD/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRIWH/2gAMAwEAAhEDEQA/AKfR+qI0/Ji5uSheACOVnydxZSQB96rG6rtLLUb2WbUImga3jZFOeWL4wMA84MfA59Q96zXfdTjT59ONthxbxhf3DH0jkf1Szo3qe9mtNV1G/v5jcwwySQKG2xqVRD2A/iij2796zLFhQpvTSOodTWtziS2lIjKGUsrYG3djBA85x81y/rCxtbZ4o5Bn6ixMGfIViwX/AHes93f4m3l1pRtzDbiNy0m5EOdzD1E5Y4OeTjg4B80t1fWpruaSUyDbMN4wfOBj5BpXQlwnmWUkku/I7n2rlsLpLbS9ZhKuJZwqRkDggN6lPwftRRTV4AtjBYMg84AyccnxT2NSkYUHgDbRRULP/9k=
 copyright: Oh Hiroshima
-ogImage: ''
+ogImage: ""
 focusKeyword: Oh Hiroshima – "We recorded the drums in a church"
 advertisement: false
 affiliate: false
-languageLink: '/2020/06/oh-hiroshima-interview/'
+languageLink: /2020/06/oh-hiroshima-interview/
+
 ---
 
 **If you love Swedish post-rock, you can't get past Oh Hiroshima. I had the opportunity to get to know the band better during an interview with singer Jakob.**

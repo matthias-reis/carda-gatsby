@@ -1,13 +1,12 @@
 ---
 date: 2019-05-21T05:45:08.000Z
-slug: orte-der-kindheit
-path: /2019/05/orte-der-kindheit/
 title: Orte der Kindheit
 seoTitle: Orte der Kindheit - zu Besuch in Bielefeld
 ogTitle: Orte der Kindheit - zu Besuch in Bielefeld
-description: 'Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht. Eines ist aber mehr als sicher: Es war die richtige Entscheidung, es zu tun.'
-excerpt: 'Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht. Eines ist aber mehr als sicher: Es war die richtige Entscheidung, es zu tun.'
-fileName: 2019-05---orte-der-kindheit.md
+description: "Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht.
+  Eines ist aber mehr als sicher: Es war die richtige Entscheidung, es zu tun."
+excerpt: "Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht.
+  Eines ist aber mehr als sicher: Es war die richtige Entscheidung, es zu tun."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-11__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-11__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFBP/EACcQAAIBAwMDBAMBAAAAAAAAAAECAwQFEQASIRMxQQYiUcFhYpFx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMABAb/xAAgEQACAgEDBQAAAAAAAAAAAAABAgARBQMEURIhMTJC/9oADAMBAAIRAxEAPwCsVjj6akxjt+NbtwgprVbWqZEQhTtxx8E/Wh9uo6GOlgkhqadYWUBZulgFz+/Ct/eNdV7hLWmhpXkgUVdbEhMeA+CCpOPjkH4/untk19b7xK436PiNKm1RFcBI8EcdtDvUtiBU7pYKeA5BO4BmJHAyfrW9XelbvKahmp3mYZCKknS6oGPcAxx2PjH3oFfRA9MBFAC4L7m65I9px7c8E8fPnUORXpgpsQzUCDUOQ1EkhVaiVntMMpEYjYlgnhuTnnnjHGtkoatzU01bDFSvhQgiO7Cjzz3wM99WrWVXULmiOZfVySBxOy8eoqx3ggnuDybY2AbfgbSRn/PGil1vMeXiiEanbtJXuxBz38atWmqgYgmEXKmhP//Z
@@ -23,12 +22,11 @@ labels:
   - Ostwestfalen
   - Teutoburger Wald
 focusKeyword: Bielefeld
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Zu Besuch in Bielefeld
+
 ---
 
 **Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht. Eines ist aber mehr als sicher: Es war die richtige Entscheidung, es zu tun.**

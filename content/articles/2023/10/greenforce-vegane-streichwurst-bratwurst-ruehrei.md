@@ -1,14 +1,18 @@
 ---
 date: 2023-10-13T08:15:04.287Z
-slug: greenforce-vegane-streichwurst-bratwurst-ruehrei
 typeName: Produkttest
 title: Greenforce stellt sich vor
 subTitle: Vegane Bratwurst-, Streichwurst- und Rührei-Alternativen zum Selbermachen
 seoTitle: Vegane Streichwurst zum Selbermachen jetzt kennenlernen!
-description: Vegane Streichwurst, Bratwurst und Rührei mit Speck zum Selbermachen und das ganz ohne Plastik und möglichst nachhaltig? Erfahrt jetzt, wie es gelingt!
-excerpt: Eure Streichwurst-Alternative könnt Ihr jetzt ganz einfach selbst zubereiten – ganz ohne Plastikverpackung und unnötige Zutaten. Neben der veganen Streichwurst nach Leberwurst-Art habe ich noch ein paar weitere Produkte von Greenforce getestet, die ich Euch heute vorstelle.
+description: Vegane Streichwurst, Bratwurst und Rührei mit Speck zum
+  Selbermachen und das ganz ohne Plastik und möglichst nachhaltig? Erfahrt
+  jetzt, wie es gelingt!
+excerpt: Eure Streichwurst-Alternative könnt Ihr jetzt ganz einfach selbst
+  zubereiten – ganz ohne Plastikverpackung und unnötige Zutaten. Neben der
+  veganen Streichwurst nach Leberwurst-Art habe ich noch ein paar weitere
+  Produkte von Greenforce getestet, die ich Euch heute vorstelle.
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-13/gekochte-erdnuesse-30-jpg-imagine-f8f8f8_b59f7b_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-13/greenforce-og-jpeg-imagine-081818_896d51_1200_630/640.webp
 labels:
   - vegane Streichwurst
@@ -24,6 +28,7 @@ focusKeyword: vegane Streichwurst
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Eine pflanzliche Streichwurst-Alternative selbst zubereiten? Das geht! Und zwar ganz ohne Plastikverpackung, unnötige Zutaten und vor allem ohne viel Aufwand. Die vegane Streichwurst nach Leberwurst-Art ist nur eines von vielen spannenden Greenforce Produkten, die ich Euch heute vorstelle.**

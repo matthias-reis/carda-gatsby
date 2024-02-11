@@ -6,15 +6,10 @@ excerpt: Veganer*innen essen nicht nur kein Fleisch und keine Eier, verzichten
   Aber warum denn eigentlich?
 ogImage: null
 isAffiliate: false
-path: /2014/09/pflanzenmilch-wieso-denn-bloss/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAMF/8QAKRAAAQQBAgUEAgMAAAAAAAAAAQIDBBEFAAYHEhMhMRRBUWEiQjNikf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAP/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMREhMyBCEx/9oADAMBAAIRAxEAPwBJwi0zHW2YzS3HmuZxbaCkKUEiyAT7kdh9jVO4bcIIu48dlMpmstJTAybikNRIhSFIAPKorUoEXzA0Eih8m6Chwz2+pxfr3ELAkq6ZaS4b6fMOava67Dz59jpzXxDdx+5GIk2RkIYihfSx7AbQ0q+yUufsQnz2q/jQfHQKSDKVLpXkfTJBM27g8DvMy9szpjuMivLZLeSQG3gsAgiwACk0SDQNJNi6vfnZyspAYnTYjUR5fUSpDalL5hznlUSR5IoV/X2vXvPxMRvbiLPS2toMojB95Da0rHqFLqgCaBoWSBrVmYEaJIVEJbTCP4LWQFEIoXZHk9j31mt1sKy2gKA4kV2Vk1xNzwXUoLiJDiY0hDir6rbh5VAmvu/ojVNhZqfhMjuFqJOlty0zl9F5otBLaUnkA5VNqJ7V+3t486NGm29IRe0Ztgbk3PknX0ZDcMhZ9A3KQpqNHbpSlEEGm/yF9/8Addt4bgzeOxcqS1lnVrSk9lxo1E2Bf8Xyb0aNCFjc+M+okqvHnE//2Q==
 isWerbung: false
-fileName: 2014-09---pflanzenmilch-wieso-denn-bloss.md
-slug: pflanzenmilch-wieso-denn-bloss
-errors: {}
-date: 2014-09-09T10:42:30.000+00:00
+date: 2014-09-09T10:42:30.000Z
 focusKeyword: Pflanzenmilch
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_drei-tage-alt-und-noch-ohne-ohrmarken__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_drei-tage-alt-und-noch-ohne-ohrmarken__m.jpg
 title: Pflanzenmilch? Wieso denn bloß?
@@ -54,6 +49,7 @@ labels:
   - serie:10 Fakten über Veganismus
 language: de
 year: "2014"
+
 ---
 
 ## Von besamten Kühen und einsamen Kälbchen

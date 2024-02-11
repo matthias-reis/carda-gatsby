@@ -1,13 +1,14 @@
 ---
 date: 2021-09-22T12:13:00.602Z
-slug: hof-windkind-vegane-biolandwirtschaft
 typeName: Produkttest
 title: Hof Windkind
 subTitle: So betreibt Ihr als Bodenpat*innen selbst aktiv Biolandwirtschaft
 seoTitle: Mit Hof Windkind als Bodenpat*in selbst aktiv Biolandwirtschaft betreiben
-description: Mit Hof Windkind verbindet mich inzwischen schon eine langjährige Freundschaft. Das Gründerpaar Silvia und David baut dort bio-vegane Nüsse an, aus denen sie unter anderem hochwertiges Walnussöl herstellen.
+description: Mit Hof Windkind verbindet mich inzwischen schon eine langjährige
+  Freundschaft. Das Gründerpaar Silvia und David baut dort bio-vegane Nüsse an,
+  aus denen sie unter anderem hochwertiges Walnussöl herstellen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-09-22-hof-windkind-walnussoel-3-jpg-imagine-080808_584739_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/hof-windkind-bio-vegane-landwirtschaft-fb-png-imagine-080808_5b4b3f_1200_628/640.webp
 labels:
   - Ernährung & Gesundheit
@@ -38,6 +39,7 @@ focusKeyword: Hof Windkind
 advertisement: true
 affiliate: false
 language: de
+
 ---
 
 **Mit Hof Windkind verbindet mich inzwischen schon eine langjährige Freundschaft. Das Gründerpaar Silvia und David baut dort bio-vegane Nüsse an, aus denen sie unter anderem hochwertiges Walnussöl herstellen.**

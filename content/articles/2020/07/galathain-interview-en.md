@@ -1,12 +1,14 @@
 ---
 date: 2020-07-31T11:05:35.724Z
-slug: galathain-interview-en
 typeName: Interview
 title: Galathain
 subTitle: '"And The Rain Tasted Like Blood"'
 seoTitle: Galathain – "And The Rain Tasted Like Blood"
-ogTitle: ''
-description: If you're into dark and heavy Post-Rock you should listen to Galathain. The post-rock Project from Venezuela just released the first teaser for the upcoming EP "And The Rain Tasted Like Blood". You can find it in my [music list for August](/2020/07/12-songs-fuer-den-august/).
+ogTitle: ""
+description: If you're into dark and heavy Post-Rock you should listen to
+  Galathain. The post-rock Project from Venezuela just released the first teaser
+  for the upcoming EP "And The Rain Tasted Like Blood". You can find it in my
+  [music list for August](/2020/07/12-songs-fuer-den-august/).
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-07-galathain-1-l-jpeg-imagine-080808_241916_1440_1080/640.webp
 copyright: Galathain
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-07-galathain-fb-png-l-jpg-imagine-080808_0f0908_1440_754/640.webp
@@ -29,6 +31,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2020/07/galathain-interview
+
 ---
 
 **If you're into dark and heavy Post-Rock you should listen to Galathain. The post-rock Project from Venezuela just released the first teaser for the upcoming EP "And The Rain Tasted Like Blood". You can find it in my [music list for August](/2020/07/12-songs-fuer-den-august/).**

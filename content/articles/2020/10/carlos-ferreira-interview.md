@@ -1,25 +1,22 @@
 ---
 ogTitle: Carlos Ferreira im Interview - Musikpostkarten aus Porto Alegre
-excerpt: Carlos Ferreira veröffentlicht im November sein neues Album. Wir haben über seine Musik und seine Entscheidung, vegan zu leben gesprochen.
+excerpt: Carlos Ferreira veröffentlicht im November sein neues Album. Wir haben
+  über seine Musik und seine Entscheidung, vegan zu leben gesprochen.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira-fb.png__l.jpg
 isAffiliate: false
-path: /2020/10/carlos-ferreira-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAgCB//EACgQAAIBAwQBAwQDAAAAAAAAAAECAwQFEQAGEiFBEzFhBxQiwTJRgf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABcRAQEBAQAAAAAAAAAAAAAAAAABITH/2gAMAwEAAhEDEQA/APW5W9OPI48iQq8jgFj0AT4ycD/dJe0N0TXPfd9tMjxvBTwRyxiJ/UVJBgSANgdZYD5K9aq71+oe26S7Ltat51LVUi0tdIrcI6NWIBLP78hkHr29yesaT7heh9JN81U90je7QXaNVD+uv3UMEf8AFuIAUgk+cZ45B1mdWnbVHR0y86SOY+ZJuyf1qW77XpjSpNawEqeQDQBvxZf7GfYjTY9EqjCIAF61GIOxnojRNRbWd9+W252vdd1S+RKlXUTPUnjIJAyyMxBBH770t1UrMC7lnbAGWJJwOgMn40aNK2oqO33TbsIhq3Sspw2A61BZ0GM4II+NV6+4VkVV0tOEKFhDLlJD5/HwT8Zz8aNGpmDr/9k=
 typeName: Interview
 isWerbung: false
-fileName: 2020-10---carlos-ferreira-im-interview.md
-slug: carlos-ferreira-interview
-errors: {}
 date: 2020-10-21T16:38:11.000Z
 focusKeyword: Carlos Ferreira
 languageLink: /2020/10/carlos-ferreira-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_carlos-ferreira__m.jpg
 title: Carlos Ferreira im Interview
 subTitle: Musikpostkarten aus Porto Alegre
 seoTitle: Carlos Ferreira im Interview - Musikpostkarten aus Porto Alegre
-description: Carlos Ferreira veröffentlicht im November sein neues Album. Wir haben über seine Musik und seine Entscheidung, vegan zu leben gesprochen.
+description: Carlos Ferreira veröffentlicht im November sein neues Album. Wir
+  haben über seine Musik und seine Entscheidung, vegan zu leben gesprochen.
 language: de
 type: Artikel
 labels:
@@ -35,6 +32,7 @@ labels:
   - Past Inside The Present
   - Post-Rock
   - Recording
+
 ---
 
 **Carlos Ferreira wird im November sein neues Album bei Past Inside The Present veröffentlichen. Es ist ein Tape mit dem Namen "Six Postcards &amp; Other Stories". Ich habe mich mit ihm über seine Musik und seine Entscheidung für ein veganes Leben unterhalten.**

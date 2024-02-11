@@ -1,12 +1,17 @@
 ---
 date: 2021-11-22T09:00:48.497Z
-slug: color-of-time-en
 typeName: Review
 title: '"Color of Time"'
 subTitle: The New Album By Tyresta & From Overseas
 seoTitle: '"Color of Time" By Tyresta & From Overseas – Ambient Review'
-description: Fans of drone sounds and ambient should check out the new album by From Overseas and Tyresta. "Color of Time" is an absolute highlight and a must-hear for his month. The story it tells doesn't need any words.
-excerpt: 'Although the year is almost over, From Overseas has good news for us once again. The fantastic album Kévin recorded with awakened souls is just a few days old, and here we go again: The next great collaboration popped out of the vinyl press on November 19th: "Color of Time" emerged in cooperation with Tyresta.'
+description: Fans of drone sounds and ambient should check out the new album by
+  From Overseas and Tyresta. "Color of Time" is an absolute highlight and a
+  must-hear for his month. The story it tells doesn't need any words.
+excerpt: 'Although the year is almost over, From Overseas has good news for us
+  once again. The fantastic album Kévin recorded with awakened souls is just a
+  few days old, and here we go again: The next great collaboration popped out of
+  the vinyl press on November 19th: "Color of Time" emerged in cooperation with
+  Tyresta.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/color-of-time-2-jpg-imagine-283828_483a24_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/color-of-time-fb-1-png-imagine-b8c898_a2ac86_1200_628/640.webp
 labels:
@@ -39,6 +44,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/11/color-of-time/
+
 ---
 
 **Although the year is almost over, From Overseas has good news for us once again. The fantastic album Kévin recorded with awakened souls is just a few days old, and here we go again: The next great collaboration popped out of the vinyl press on November 19th: "Color of Time" emerged in cooperation with Tyresta.**

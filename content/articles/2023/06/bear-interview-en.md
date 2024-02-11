@@ -1,12 +1,16 @@
 ---
 date: 2023-06-30T12:39:59.728Z
-slug: bear-interview-en
 typeName: Interview
 title: Interview with James Falck from BEAR
-subTitle: '"I feel like we really hit our Stride with ''Vanta''"'
+subTitle: "\"I feel like we really hit our Stride with 'Vanta'\""
 seoTitle: BEAR – Interview about the new album "Vanta"
-description: BEAR have announced their new album! They are going to release "Vanta" on September 29th. Read my interview now!
-excerpt: It's finally official! BEAR have announced their new album! They are going to release "Vanta" on September 29th. And yes, you read that right! I had the chance to interview guitar killer James Falck about the album, the band's plans for the future and the personal trials they had to deal with over the last few years. Please enjoy the read!
+description: BEAR have announced their new album! They are going to release
+  "Vanta" on September 29th. Read my interview now!
+excerpt: It's finally official! BEAR have announced their new album! They are
+  going to release "Vanta" on September 29th. And yes, you read that right! I
+  had the chance to interview guitar killer James Falck about the album, the
+  band's plans for the future and the personal trials they had to deal with over
+  the last few years. Please enjoy the read!
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-26/bear-band-jpg-imagine-080808_681a27_800_600/640.webp
 copyright: BEAR
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-30/bear-interview-og-jpg-imagine-080808_621925_1200_628/640.webp
@@ -26,6 +30,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/06/bear-interview/
+
 ---
 
 **It's finally official! BEAR have announced their new album! They are going to release "Vanta" on September 29th. You can already listen to their pre-released Single "Piece" on all music streaming platforms. I'll add it to this interview so you don't miss it! Yes, you read that right! I had the chance to talk to the self-proclaimed "guitar killer" James "Jamie" Falck about the album, the band's plans for the future and the personal trials they had to deal with over the last few years. Please enjoy the read!**

@@ -1,7 +1,6 @@
 ---
 templateKey: article
 date: 2021-04-23T15:26:41.676Z
-slug: magreblue
 typeName: Produkttest
 title: Margreblue
 subTitle: Ein Onlineshop zeigt, wie Nachhaltigkeit funktioniert
@@ -28,6 +27,7 @@ focusKeyword: Margreblue
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Margreblue ist ein Onlineshop für nachhaltige Produkte. Das erklärte Motto der Betreiber\*innen lautet "Die Welt etwas blauer gestalten". Mit den hübsch in blau verpackten Shampoos und Seifen gelingt das sehr gut.**

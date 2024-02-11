@@ -1,14 +1,19 @@
 ---
 date: 2022-04-19T11:58:49.392Z
-slug: vegane-nachhaltige-fahrradtaschen-feuerwear
 typeName: Produkttest
 title: Vegane, nachhaltige Fahrradtaschen von Feuerwear
-subTitle: ' Sam kommt mit Klickfix-System'
+subTitle: " Sam kommt mit Klickfix-System"
 seoTitle: Vegane, nachhaltige Fahrradtaschen von Feuerwear
-description: 'Jetzt ist es endlich offiziell: Von Feuerwear gibt es ab sofort auch vegane, nachhaltige Fahrradtaschen! Hergestellt werden sie, wie alles von Feuerwear, aus ausgemusterten Feuerwehrschläuchen.'
-excerpt: 'Jetzt ist es endlich offiziell: Von Feuerwear gibt es ab sofort auch vegane, nachhaltige Fahrradtaschen! Hergestellt werden sie, wie alles von Feuerwear, aus ausgemusterten Feuerwehrschläuchen. Jedes Stück ist wie immer ein Unikat. Der Clou: Die Tasche "Sam" ist sogar mit Klickfix-System für bequemes und einfaches Anbringen am Gepäckträger ausgestattet!'
+description: "Jetzt ist es endlich offiziell: Von Feuerwear gibt es ab sofort
+  auch vegane, nachhaltige Fahrradtaschen! Hergestellt werden sie, wie alles von
+  Feuerwear, aus ausgemusterten Feuerwehrschläuchen."
+excerpt: 'Jetzt ist es endlich offiziell: Von Feuerwear gibt es ab sofort auch
+  vegane, nachhaltige Fahrradtaschen! Hergestellt werden sie, wie alles von
+  Feuerwear, aus ausgemusterten Feuerwehrschläuchen. Jedes Stück ist wie immer
+  ein Unikat. Der Clou: Die Tasche "Sam" ist sogar mit Klickfix-System für
+  bequemes und einfaches Anbringen am Gepäckträger ausgestattet!'
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-19/2022-04-19-feuerwehr-fahrradtasche-nachhaltig-16-jpg-imagine-f8f8f8_7e795a_2048_1536/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-19/feuerwehr-fahrradtasche-fb-jpeg-imagine-181818_7e734f_1200_628/640.webp
 labels:
   - Feuerwear
@@ -34,6 +39,7 @@ focusKeyword: Nachhaltige Fahrradtasche
 advertisement: true
 affiliate: false
 language: de
+
 ---
 
 **Jetzt ist es endlich offiziell: Von Feuerwear gibt es ab sofort auch vegane, nachhaltige Fahrradtaschen! Hergestellt werden sie, wie alles von Feuerwear, aus ausgemusterten Feuerwehrschläuchen. Jedes Stück ist wie immer ein Unikat, denn jeder Zentimeter Schlauch ist anders. Der Clou: Die Tasche "Sam" ist sogar mit Klickfix-System für bequemes und einfaches Anbringen am Gepäckträger ausgestattet!**

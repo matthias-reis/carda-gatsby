@@ -1,13 +1,14 @@
 ---
 date: 2021-02-24T17:03:04.000Z
-slug: lady-freethinker-meldet-tierquaelerei
-path: /2021/02/lady-freethinker-meldet-tierquaelerei/
 title: Wie tierfreundlich sind Internetportale?
 seoTitle: Lady Freethinker meldet 2.000 YouTube Videos wegen Tierquälerei
 ogTitle: Lady Freethinker meldet 2.000 YouTube Videos wegen Tierquälerei
-description: Die Tierschutzorganisation Lady Freethinker fand eine beunruhigende Anzahl von YouTube-Videos, in denen Tiere gequält werden.
-excerpt: Die Tierschutzorganisation Lady Freethinker fand eine beunruhigende Anzahl von YouTube-Videos, in denen Tiere gequält werden. Die Aktivist*innen haben jetzt eine Petition gestartet, mit deren Hilfe sie die Video-Plattform zum Löschen der Inhalte bringen wollen.
-fileName: 2021-02---wie-tierfreundlich-sind-internetportale.md
+description: Die Tierschutzorganisation Lady Freethinker fand eine beunruhigende
+  Anzahl von YouTube-Videos, in denen Tiere gequält werden.
+excerpt: Die Tierschutzorganisation Lady Freethinker fand eine beunruhigende
+  Anzahl von YouTube-Videos, in denen Tiere gequält werden. Die Aktivist*innen
+  haben jetzt eine Petition gestartet, mit deren Hilfe sie die Video-Plattform
+  zum Löschen der Inhalte bringen wollen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_lady-freethinker__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_lady-freethinker__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QAKxAAAQQBAwIFAwUAAAAAAAAAAQIDBBEFACExBhIHEyJBURQVMmGBkaHx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARAkH/2gAMAwEAAhEDEQA/AL1GayswKTHYUm696AH8agzLOS+zTpUiW62lllTgLZNlQHpHwd6Fa3MGC2hIppJI/MFVkD9tL3xq6okYtmNjBGabx0kJcEjuUVKWgk9p9qBCdtZcJDWUSusM1K+lkl1LbIcCS2mgpagfWlXxV3Wn10rAxeewcfIxmaQu0qQSbQscix/R+Nc95LDRJa5stE5uGpA+o8txpS7Bq+0pva/c/Onj4FrWnon8EgCRQ7/VZCRZA9uedTx0LPRlsBJEwB6KyJDyFlq3yW0pI2UTQ3F3VXqt67xI6nwT8CUtCGa70qLd9ihwef8ARo0afIkZk+hMxHjN4sN+ah1ztiyioJU0QbVaL3TXdtudv00wvDNM3p7HycdnIdsMruPIaWlSH75pA4V6QeeDo0aoMNjdcv/Z
@@ -21,12 +22,11 @@ labels:
   - Twitch
   - Twitter
 focusKeyword: Lady Freethinker
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Lady Freethinker meldet 2.000 YouTube Videos wegen Tierquälerei
+
 ---
 
 **Die Tierschutzorganisation Lady Freethinker fand eine beunruhigende Anzahl von YouTube-Videos, in denen Tiere gequält werden. Sie werden bei lebendigem Leib verspeist und von Raubtieren gejagt. Auch inszenierte Tierrettungen sind unter den Beiträgen. Die Aktivist\*innen haben jetzt eine Petition gestartet, mit deren Hilfe sie die Video-Plattform zum Löschen der Inhalte bringen wollen.**

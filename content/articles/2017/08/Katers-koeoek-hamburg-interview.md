@@ -1,25 +1,23 @@
 ---
 ogTitle: Interview mit Lani vom Katzencafé "Katers Köök" in Hamburg
-excerpt: Ich habe mich mit Lani vom Katers Köök Hamburg zum Frühstück getroffen. Im Interview hat Sie mir einiges zum Thema Tierschutz und ihr Katzencafé verraten.
+excerpt: Ich habe mich mit Lani vom Katers Köök Hamburg zum Frühstück getroffen.
+  Im Interview hat Sie mir einiges zum Thema Tierschutz und ihr Katzencafé
+  verraten.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403920_ad9c4bc347_k__l.jpg
 isAffiliate: false
-path: /2017/08/katzentempel-hamburg-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAQQBAwMEAQUAAAAAAAAAAQIDBBEFAAYhEjFRBxMiYUEjMnGBsv/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAAL/xAAeEQACAgICAwAAAAAAAAAAAAABAgADESEEQRIiMf/aAAwDAQACEQMRAD8A69nZMuDgZsrHspdltN20lY4skCz/ABZP9ah2dBWzhn2nH5M1NB73ZST1hZJ+NmwRXjtqs5AXL2w2h19SJEolxB6ikUDxYvseLH3pVmWVxMajDbfkIh5yOhEhDbbxZTINEKa6rHJT1Ec1YHnQFCWDdRhYgQr3mdIabSFMe2y2sFA/AI7itZXNuJlTRKbBDJAb+SSk9QUqxR8VrF7C3ZnJe0ZUbMIUzMgyURmVuoLbntqCldSyTRI6e/gayu3t9xHc2vGbofU2w+Fue+44UBCgFEgUf3GxyB9c3qTm2eviozNSSjy3mfV1cB9iMcG28pr9FLhlKSQAQfwn6Goctu6HkpcqJLwEZUic00pclLygofNKE8eBd0CAa7aNGnYne5VWigLr7E2A3dOyOckY98FMWHDcZSylxRboE2oJVdKVYs2eAAK0p9BcPA3RuvIjPxxODPTISHTfyDiq/wAjRo10ADnMCwCf/9k=
 typeName: Interview
 isWerbung: false
-fileName: 2017-08---lani-vom-katzentempel-hamburg.md
-slug: Katers-koeoek-hamburg-interview
-errors: {}
 date: 2017-08-23T16:04:28.000Z
 focusKeyword: Katzentempel
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403920_ad9c4bc347_k__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403920_ad9c4bc347_k__m.jpg
 title: Lani vom Katers Köök Hamburg
 subTitle: Frühstück mit Interview im Katers Köök
 seoTitle: Interview mit Lani vom Katzencafé "Katers Köök" in Hamburg
-description: Ihr möchtet mehr über das Katers Köök Hamburg erfahren? Gründerin Lani hat mir im Interviews viele Details über das Katzencafé verraten.
-copyright: ''
+description: Ihr möchtet mehr über das Katers Köök Hamburg erfahren? Gründerin
+  Lani hat mir im Interviews viele Details über das Katzencafé verraten.
+copyright: ""
 language: de
 type: Artikel
 labels:
@@ -42,6 +40,7 @@ labels:
   - Tierrechte
   - Tierrettung
   - Tierschutz
+
 ---
 
 **Im Katers Köök[^1] am Kleinen Schäferkamp 24 in Hamburg kann man nicht nur Frühstück, Mittag und Abendessen genießen, sondern dabei auch noch sechs Samtpfoten begegnen. Die Betreiberin Rilana Rentsch habe ich dort jetzt zum Interview getroffen.**

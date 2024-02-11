@@ -1,13 +1,16 @@
 ---
-date: 2018-03-22T08:18:13.000+00:00
-slug: 10-alben-keine-erklaerung-teil-3
-path: '/2018/03/10-alben-keine-erklaerung-teil-3/'
+date: 2018-03-22T08:18:13.000Z
 title: 10 Alben - Keine Erklärung - Teil 3/3
-seoTitle: 10 Alben - Keine Erklärung - Lieblingsschallplatten eines ganz besonderen Menschen
-ogTitle: 10 Alben - Keine Erklärung - Lieblingsschallplatten eines ganz besonderen Menschen
-description: Vor sieben Jahren fing alles damit an, dass Du meine Lieblingsplatten in den höchsten Tönen gelobt hast. Hier sind Deine liebsten 10 Alben aller Zeiten.
-excerpt: Vor sieben Jahren fing alles damit an, dass Du meine Lieblingsplatten in den höchsten Tönen gelobt hast. Hier sind Deine liebsten 10 Alben aller Zeiten.
-fileName: 2018-03---10-alben-keine-erklaerung-teil-3-3.md
+seoTitle: 10 Alben - Keine Erklärung - Lieblingsschallplatten eines ganz
+  besonderen Menschen
+ogTitle: 10 Alben - Keine Erklärung - Lieblingsschallplatten eines ganz
+  besonderen Menschen
+description: Vor sieben Jahren fing alles damit an, dass Du meine
+  Lieblingsplatten in den höchsten Tönen gelobt hast. Hier sind Deine liebsten
+  10 Alben aller Zeiten.
+excerpt: Vor sieben Jahren fing alles damit an, dass Du meine Lieblingsplatten
+  in den höchsten Tönen gelobt hast. Hier sind Deine liebsten 10 Alben aller
+  Zeiten.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_Matze__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_Matze__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAb/xAArEAACAQMEAgADCQAAAAAAAAABAgMEBREABhIhMUETIqEUFjJCUWFxscH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQEG/8QAIhEAAQMDAwUAAAAAAAAAAAAAAQACAwQREiExYQUTMoHR/9oADAMBAAIRAxEAPwCJbe2jQ3K0rWc53ndBxpgD8x7BIPsAj666nZyQWKyVi1DQgx1rxhalevwqcdjoj/fGldv2tEtHTSQ0255uCh5JKVhDGGOCVRXXl1nBPs+BpJPV1dtuc9ntlTJMssw4tLTnMiN2WYN2CMdjHrzjW1E8M0eEYsRvrwkQ00tM/uS+J4VPkv8ABZqyjqblQEU7grKkScWaNxhZF6wQRnrP9a4vcu3/ALBdZqyKsirbVP1Syxg/EZCnJS0ZGRgdH9D51m3BWVz3IUUk8NzSCm+SePlEPhRnirIRg4B5dd/TT7ZVDb73WNT7hprxXuxQU9PS3F1LyZx5fP5R1479ganhuJzvb4lXMl8Wk2Sb78bskpzG+4K1knghgbLdhI8FAD5BBAORgn3pLd79dbzuKS73iterrHQUzuQE5Jxxjr9jo0aY4CxRXE6LBbZmqbwrdqixmNVLFsLy8ZP86pmyq+Sz3yCvgUNJD2FPv1o0an1m3pdD0JofG8OX/9k=
@@ -47,12 +50,11 @@ labels:
   - serie:Playlists 2018
   - serie:Alben ohne Erklärung
 focusKeyword: 10 Alben
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Matzes ultimative Lieblingsplattenliste
+
 ---
 
 > **10 LPs that make the "favourites" playlist. Post a cover a day, no explanation, nominate a person a day."  - 10 Alben, die Deine All-Time-Favoritenliste ergeben. Keine Erklärung. Nominiere jeden Tag eine andere Person"**

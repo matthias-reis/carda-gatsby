@@ -1,13 +1,12 @@
 ---
 date: 2018-07-30T07:13:16.000Z
-slug: produkteinfuehrungen-vegan
-path: /2018/07/produkteinfuehrungen-vegan/
 title: Vegan setzt sich weiter durch
-seoTitle: 'Neue Studie zeigt: Vegan setzt sich weiter durch - Produkteinführungen'
-ogTitle: 'Neue Studie zeigt: Vegan setzt sich weiter durch - Produkteinführungen'
-description: Eine neue Mintel-Studie beweist, dass Deutschland weiterhin den größten Anteil an veganen Lebensmitteleinführungen hat. Und das weltweit.
-excerpt: Eine neue Mintel-Studie beweist, dass Deutschland weiterhin den größten Anteil an veganen Lebensmitteleinführungen hat. Und das weltweit.
-fileName: 2018-07---vegan-setzt-sich-weiter-durch.md
+seoTitle: "Neue Studie zeigt: Vegan setzt sich weiter durch - Produkteinführungen"
+ogTitle: "Neue Studie zeigt: Vegan setzt sich weiter durch - Produkteinführungen"
+description: Eine neue Mintel-Studie beweist, dass Deutschland weiterhin den
+  größten Anteil an veganen Lebensmitteleinführungen hat. Und das weltweit.
+excerpt: Eine neue Mintel-Studie beweist, dass Deutschland weiterhin den größten
+  Anteil an veganen Lebensmitteleinführungen hat. Und das weltweit.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_vegetables-752153_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_vegetables-752153_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgMH/8QAKBAAAgECBAYDAAMAAAAAAAAAAQIDBBEABRIhBhMUMVFxIkJhQYGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIFAQT/xAAhEQABBAEDBQAAAAAAAAAAAAABAAIDETEEUfASISJBgf/aAAwDAQACEQMRAD8A85ooXlroIIEaSSZAqJHuWK7iw9E4br8tzGKiAkyvMVnlGmMdM5ZyraGsALne2IlJxC+V1FLL0cVTEjNrVkBa9u4v32PY7esaip47EfJWeqYVFNN1CDQXsWW1xpuR9TpJI+I94nSyuY8NqwUdTBQN2U3T8GU7VAo6qOtNTca3KNGQqhbryz2FyN+7A7DxEzbLFpgaqjmMlOSVRZI2XcqezHZv5/dj4OHqrj2mzyrpIoI4oswWNubUToIFftfcXvv2FvzYYkdXV5hHLLUZgJYElK041voKqD8wGJP2I2/ccmmbqTJ5Gtxn3zZD9JNGGzF9tPOVj6sRUzS8pp6hldA1mQLYH1494ResDFuWh0sdi7E2/rBgxYDQcrbpc21POqk3kYX8KMXRM1JTRq8skllHwA0Ko8bbn/MGDD1WEh7r/9k=
@@ -30,12 +29,11 @@ labels:
   - vegane Produkteinführungen
   - vegetarisch
 focusKeyword: Produkteinführungen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Neue Studie
+
 ---
 
 **Heute Morgen erreichte mich eine frische Pressemitteilung aus dem Hause Mintel.  Ihr zufolge hat sich Deutschland zu einer führenden Kraft in der "veganen Revolution" entwickelt.**

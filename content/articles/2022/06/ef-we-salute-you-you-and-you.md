@@ -1,12 +1,15 @@
 ---
 date: 2022-06-23T14:37:36.643Z
-slug: ef-we-salute-you-you-and-you
 typeName: Review
 title: EF sind zurück
 subTitle: Post-Rock Pioniere kündigen neues Album an
 seoTitle: EF melden sich mit "We Salute You, You and You!" zurück
-description: Nach einigen Jahren Auszeit sind EF endlich zurück! Die Schweden haben ein neues Album angekündigt. Es trägt den Namen "We Salute You, You and You!" und soll am 4. November erscheinen.
-excerpt: Nach einigen Jahren Auszeit sind EF endlich zurück! Die Schweden haben ein neues Album angekündigt. Es trägt den Namen "We Salute You, You and You!" und soll am 4. November erscheinen.
+description: Nach einigen Jahren Auszeit sind EF endlich zurück! Die Schweden
+  haben ein neues Album angekündigt. Es trägt den Namen "We Salute You, You and
+  You!" und soll am 4. November erscheinen.
+excerpt: Nach einigen Jahren Auszeit sind EF endlich zurück! Die Schweden haben
+  ein neues Album angekündigt. Es trägt den Namen "We Salute You, You and You!"
+  und soll am 4. November erscheinen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-06-23/ef-are-back-jpeg-imagine-181828_7f7b77_1024_768/640.webp
 copyright: ef
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-06-23/ef-are-back-fb-jpeg-imagine-181828_787673_1200_628/640.webp
@@ -23,6 +26,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/06/ef-we-salute-you-you-and-you-en/
+
 ---
 
 **Nach einigen Jahren Auszeit sind EF endlich zurück! Die Schweden haben ein neues Album angekündigt. Es trägt den Namen "We Salute You, You and You!" und soll am 4. November erscheinen.**

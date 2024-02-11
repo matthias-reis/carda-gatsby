@@ -1,14 +1,17 @@
 ---
 date: 2022-10-22T13:53:33.221Z
-slug: tiermanufaktur-ligarti-neue-motive
 typeName: Produkttest
 title: Neue Motive von der Tiermanufaktur Ligarti
 subTitle: Emaille-Tassen mit Fischen und Vögeln
 seoTitle: Emaille-Tassen, T-Shirts & Co mit kunstvollen Tierdrucken | Sounds Vegan
-description: Ihr seid auf der Suche nach schönen Geschenken? Die Tiermanufaktur Ligarti hat jetzt neue Motive auf Tassen, T-Shirts und vieles mehr gedruckt. Vorbeischauen lohnt sich!
-excerpt: An Ligarti könnt Ihr Euch ganz bestimmt noch erinnern. Das Start-up aus Wuppertal stellt tolle Stücke für den Alltag her – bedruckt mit wundervollen Bildern der Künstlerin Hanna. Jetzt gibt es neue Motive.
+description: Ihr seid auf der Suche nach schönen Geschenken? Die Tiermanufaktur
+  Ligarti hat jetzt neue Motive auf Tassen, T-Shirts und vieles mehr gedruckt.
+  Vorbeischauen lohnt sich!
+excerpt: An Ligarti könnt Ihr Euch ganz bestimmt noch erinnern. Das Start-up aus
+  Wuppertal stellt tolle Stücke für den Alltag her – bedruckt mit wundervollen
+  Bildern der Künstlerin Hanna. Jetzt gibt es neue Motive.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-22/2022-10-22-ligarti-006-jpg-imagine-d8c8b8_977862_2048_1536/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-22/ligarti-neue-motive-fb-jpeg-imagine-784828_8c7c71_1200_628/640.webp
 labels:
   - Ligarti
@@ -25,6 +28,7 @@ focusKeyword: Emailletassen
 advertisement: true
 affiliate: false
 language: de
+
 ---
 
 **An Ligarti könnt Ihr Euch ganz bestimmt noch erinnern. Das Start-up aus Wuppertal stellt tolle Stücke für den Alltag her – bedruckt mit wundervollen Bildern der Künstlerin Hanna.**

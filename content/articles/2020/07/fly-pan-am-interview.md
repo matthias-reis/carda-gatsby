@@ -1,25 +1,23 @@
 ---
 ogTitle: Fly Pan Am im Interview - Kreativität gibt der Welt einen Sinn
-excerpt: Fly Pan Am gehören zu den wohl bekanntesten Post-Rock-Bands überhaupt. Die Band wurde 1996 in Montréal, Quebec gegründet. Ich habe sie interviewt.
+excerpt: Fly Pan Am gehören zu den wohl bekanntesten Post-Rock-Bands überhaupt.
+  Die Band wurde 1996 in Montréal, Quebec gegründet. Ich habe sie interviewt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_fly-pan-am-fb.png__l.jpg
 isAffiliate: false
-path: /2020/07/fly-pan-am-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAApEAACAQMEAQIGAwAAAAAAAAABAgMABBEFEiExBmGBBxMiMkFxUbHh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAYAAgP/xAAjEQACAgEDAwUAAAAAAAAAAAABAgADEQQTIRIiMUFRYXHB/9oADAMBAAIRAxEAPwBn+IN5rXj9vbSx6lC2n3CqxjlAyM9sWHIwfx1Ulv7hL+ymVruBZLAq0YIOZC0n2r/PefelHyvy7UL5pra8lYtHK6lSxODuIPf6rFtNYjVjuLIShUYHRx+eeqrTrL+d/u8w7YoqI2AF+o3adqkJu7mCCR2dvlpvPHIk3NjHGMAD2qz6X4vPFocGssbc2qybeGyw9c/v+q5q0++2XizOQoZQ5xxzj/Kp2geYXl3oVxpiTyCNQZI4weMgGhHvs6yPeO+h2W0ilWVSDzkZ7fXEnvxL0eLSvJpYrJXEDwrP9TFj2QxyfUUsMiq6AFzuVdx242k949KKKmnYtWuYlWcOZox2vzJy0LFoY7hIlMiYyCeMj26rfubKaw82a3S3DmSfMcSDav1ngADoZOMUUVgznrx8H8hSuQmRP//Z
 typeName: Interview
 isWerbung: false
-fileName: 2020-07---fly-pan-am.md
-slug: fly-pan-am-interview
-errors: {}
 date: 2020-07-03T09:30:10.000Z
 focusKeyword: Fly Pan Am
 languageLink: /2020/07/fly-pan-am-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_fly-pan-am-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_fly-pan-am-1__m.jpg
 title: Fly Pan Am
 subTitle: '"Kreativität gibt der Welt einen Sinn"'
 seoTitle: Fly Pan Am im Interview - Kreativität gibt der Welt einen Sinn
-description: Fly Pan Am gehören zu den wohl bekanntesten Post-Rock-Bands überhaupt. Die Band wurde 1996 in Montréal, Quebec gegründet. Ich habe sie interviewt.
+description: Fly Pan Am gehören zu den wohl bekanntesten Post-Rock-Bands
+  überhaupt. Die Band wurde 1996 in Montréal, Quebec gegründet. Ich habe sie
+  interviewt.
 language: de
 type: Artikel
 labels:
@@ -50,6 +48,7 @@ labels:
   - Shoegaze
   - Sic Sic tapes
   - Tranquility Tapes
+
 ---
 
 **Heute habe ich eine kleine Sensation für Euch. Fly Pan Am haben sich zu einem Interview bereit erklärt und einiges über ihre Musik und ihre Beziehung zur Post-Rock Gemeinde verraten.**

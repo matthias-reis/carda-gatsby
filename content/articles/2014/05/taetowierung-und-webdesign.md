@@ -1,11 +1,12 @@
 ---
 title: Tätowierung und Webdesign
 seoTitle: Tätowierung und Webdesign
-slug: taetowierung-und-webdesign
-path: /2014/05/taetowierung-und-webdesign/
-fileName: 2014-05---taetowierung-vom-meister-und-webdesign-made-bei-anne-und-matze.md
-description: Aus einer einer Tätowierung und ein paar hübschen Zutaten wird eine neue Homepage - Begleitet mich auf dem Weg von der Tätowierung bis zum Layout...
-excerpt: Seit nunmehr fast drei Jahren feilen Matze und ich an einer Idee, die jetzt, nachdem das letzte Großprojekt so gut wie abgeschlossen ist immer mehr Form annimmt.
+description: Aus einer einer Tätowierung und ein paar hübschen Zutaten wird eine
+  neue Homepage - Begleitet mich auf dem Weg von der Tätowierung bis zum
+  Layout...
+excerpt: Seit nunmehr fast drei Jahren feilen Matze und ich an einer Idee, die
+  jetzt, nachdem das letzte Großprojekt so gut wie abgeschlossen ist immer mehr
+  Form annimmt.
 focusKeyword: Tätowierung
 labels:
   - basteln
@@ -23,15 +24,14 @@ labels:
   - Tättowierung
   - Webdesign
 date: 2014-05-20T11:46:53.000Z
-status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
-thumbnailId: '7985'
+thumbnailId: "7985"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_05_11355170514_4a7012511b_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_05_11355170514_4a7012511b_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcI/8QALBAAAQMDAwIFAwUAAAAAAAAAAQIDBAUGEQASIQcxCBMUImFBUXEWMkKhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAA//EABoRAQACAwEAAAAAAAAAAAAAAAABEQISMUH/2gAMAwEAAhEDEQA/AC++ot2Rur1UodLuBVPp7chMdpLjCQ00kIBWexUo/Ofr2Gme5bluW3KeZlJuWZWwhHqpjEuO2C0wCApbam08AEgFKiTjn76yDxBwJ8PqbWJTSlhpb/qmwDgpIAST8ft/zUVp3pCkRZ8CawmHR3YhLdPihavMm4IDhUSVEqzlRUcds5xrbGuSHSMiVcUllxlmpz21ON+1xpCN6QRwpOUEf1pV/X9UR1Lt63EzZLqXJiWJRcKdpBQolBG0EngHPGDqPpdeT9XkimVCrRYj6Gm22mlsBStrJSSsEnu4glJH8Skn40uxqE5R/E3Sn30FyjTpb0uFIJynzHGlHZ+Uq3YH2wdM+xSXfWXpjdl71pTtNhQPSokqcQ+uSlBcaKE4TjaSkhW/PJB40l0Lw9Xaw8pcuNAbaKVJCG5xKskYCs7fpk/nRo1lsV3C6M31b9ai1ChSYcp1lW5z1DvlIeGeUEAqKkEcEKx31p1FtStitwX67EiiBDWiVHKJHmOMuAEBo+0Z27iAoHkdwDo0ad54qf/Z
-subTitle: 'Teil I: Die Idee'
+subTitle: "Teil I: Die Idee"
+
 ---
 
 **Seit nunmehr fast drei Jahren feilen Matze und ich an einer Idee, die jetzt, nachdem das letzte Großprojekt so gut wie abgeschlossen ist immer mehr Form annimmt.**

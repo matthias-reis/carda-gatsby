@@ -1,12 +1,16 @@
 ---
 date: 2021-11-16T09:10:00.000Z
-slug: micaraa-holiday-set
 typeName: Produkttest
 title: Vegan Beauty Geschenktipp
 subTitle: Das Holiday Set von MICARAA
 seoTitle: Das Holiday Set von MICARAA – Vegan Beauty Geschenktipp
-description: Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit, über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps vorbereitet. Mein erster ist das Holiday Set von MICARAA.
-excerpt: 'Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit, über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps vorbereitet. Mein erster kommt von MICARAA: Mit dem Holiday Set könnt Ihr einem lieben Menschen eine schöne Freude machen.'
+description: Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit,
+  über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps
+  vorbereitet. Mein erster ist das Holiday Set von MICARAA.
+excerpt: "Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit,
+  über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps
+  vorbereitet. Mein erster kommt von MICARAA: Mit dem Holiday Set könnt Ihr
+  einem lieben Menschen eine schöne Freude machen."
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-titel-jpg-imagine-e8c8b8_c0a08e_1024_768/640.webp
 copyright: MICARAA
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-fb-1-png-imagine-e8c8a8_bf937c_1200_628/640.webp
@@ -20,6 +24,7 @@ focusKeyword: Holiday Set
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Das Jahr neigt sich dem Ende zu und so langsam wird es wieder Zeit, über Geschenke nachzudenken. Natürlich habe ich für Euch wieder Tipps vorbereitet. Mein erster kommt von MICARAA: Mit dem Holiday Set könnt Ihr einem lieben Menschen eine schöne Freude machen.**

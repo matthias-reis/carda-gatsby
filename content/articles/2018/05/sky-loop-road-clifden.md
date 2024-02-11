@@ -1,19 +1,20 @@
 ---
-date: 2018-05-14T05:34:57.000+00:00
-slug: sky-loop-road-clifden
-path: '/2018/05/sky-loop-road-clifden/'
+date: 2018-05-14T05:34:57.000Z
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Sky Loop Road Clifden
 seoTitle: Sky Loop Road Clifden - Panoramastraße über dem Meer
 ogTitle: Sky Loop Road Clifden - Panoramastraße über dem Meer
-description: In Clifden im County Connemara beginnt und endet mit der Sky Loop Road eine Panoramastraße, die man auf der Durchreise auf keinen Fall verpassen sollte.
-excerpt: In Clifden im County Connemara beginnt und endet mit der Sky Loop Road eine Panoramastraße, die man auf der Durchreise auf keinen Fall verpassen sollte.
-fileName: 2018-05---sky-loop-road-clifden.md
+description: In Clifden im County Connemara beginnt und endet mit der Sky Loop
+  Road eine Panoramastraße, die man auf der Durchreise auf keinen Fall verpassen
+  sollte.
+excerpt: In Clifden im County Connemara beginnt und endet mit der Sky Loop Road
+  eine Panoramastraße, die man auf der Durchreise auf keinen Fall verpassen
+  sollte.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25392225977_19bddc7e2e_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25392225977_19bddc7e2e_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAqEAABAwMDAgUFAQAAAAAAAAABAgMEAAURBhIhEzEiYXGhsRVBQ1Fygf/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgUG/8QAHREAAgIDAAMAAAAAAAAAAAAAAQIAEQMhMRJBUf/aAAwDAQACEQMRAD8As4Nht0pTgWtlwoUUlRbHOO+KeGnbE6yI6YYUckLU2NvvSTtvZjkPx7fMnqSASWVOZJ8kgHNZyr/ao73TlW6/Q5GQelseB9dvGfUCnF1HTF0x4I9dtEafTGCmoyWXs+FS3SM/7moPU2g4be10XVAZ/IcqJT/PHzV79QjSI7i2xPQ2EklM5DraMeZWjHvXPdSa2tzSnIqwRhPLkR9DqDnt2x80fJPZgpjwTnluadYS0tuZKSQM+Be3Jx34qgK5rcJ59VymLLLO4BbpOf2MntRRWcfI11ctVRfkx5klayjrAPJA3lLilEHPPbNTk64rUyNrTKEONHwJQMDnz+9FFPx7O5B9T//Z
-ogImage:
+ogImage: null
 labels:
   - Aussicht
   - Britische Inseln
@@ -29,14 +30,13 @@ labels:
   - travelling
   - serie:Irland 2017
 focusKeyword: Sky Loop Road
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Panoramastraße über dem Meer
-year: '2018'
-month: '05'
+year: "2018"
+month: "05"
+
 ---
 
 **In Clifden in Connemara im County Galway beginnt und endet eine Panoramastraße, die man auf der Durchreise auf keinen Fall verpassen sollte.**

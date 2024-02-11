@@ -1,19 +1,20 @@
 ---
-date: 2017-06-21T12:58:43.000+00:00
-slug: piqd-abo-verlosung
-path: '/2017/06/piqd-abo-verlosung/'
+date: 2017-06-21T12:58:43.000Z
 type: Artikel
 typeName: Verlosung
 title: piqd Verlosung
 seoTitle: Piqd Abo zu gewinnen! Erlebe guten Journalismus so lang Du lebst!
 ogTitle: Verlosung! Gewinne ein lebenslanges piqd-Abo! - Erlebe guten Journalismus
-description: Heute habe ich etwas ganz Besonderes für meine Leser vorbereitet. Ich verlose ein lebenslanges piqd-Abo im Wert von 299,00 €. Wie das geht, erfahrt Ihr hier
-excerpt: Heute habe ich etwas ganz Besonderes für meine Leser vorbereitet. Ich verlose ein lebenslanges piqd-Abo im Wert von 299,00 €. Wie das geht, erfahrt Ihr hier
-fileName: 2017-06---piqd-verlosung.md
+description: Heute habe ich etwas ganz Besonderes für meine Leser vorbereitet.
+  Ich verlose ein lebenslanges piqd-Abo im Wert von 299,00 €. Wie das geht,
+  erfahrt Ihr hier
+excerpt: Heute habe ich etwas ganz Besonderes für meine Leser vorbereitet. Ich
+  verlose ein lebenslanges piqd-Abo im Wert von 299,00 €. Wie das geht, erfahrt
+  Ihr hier
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwUH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBjFBExQVUSJCcoHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQFBgf/xAAkEQABBAEDAwUAAAAAAAAAAAABAAIDEQQFElEhMcFhobHR8P/aAAwDAQACEQMRAD8AVi4Bx51J0bdtQiQ7d34ZPj/NUSPjO3GfJ1sdPr7562NKINHHAWDe7EKxcAbyW4OD4P2dWWeYxiwLWeYmM2d4a40tTry1260fHPbt8aTxsZN8u5SVIGVP96WQfvTRfrj01eoKCC5XQfItFLJG0Su60y78D1MAjBOOMZxyM9irVFPJQVc1HOMSQOYm78EHHnnS+BkmSMbrv1T2tYQgnLo62niq9uascqyWnpKfp+S41j1LSSmVKWOALj1IwhJkLfqd6jjnvqXS3Sd0Noh6gulEldDOElWCOdVkjiI3CQBhtP8AEt28E6NGkMyV4cBff7KmtIx43MJ29QB8A+V0egs9u9nS3W626oQxyQvlJlcCGQBw44U8sVypGR3551zS4RVDXe5LM0ksyTSPK8rhmJ3HJJ8nnRo0HBeWFxH7qjaxC2RsbD2vwV//2Q==
-ogImage:
+ogImage: null
 labels:
   - Antifaschismus & Feminismus
   - Grimme Award
@@ -28,13 +29,12 @@ labels:
   - testen
   - Verlosung
 focusKeyword: piqd
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Lebenslanges Abo gewinnen
 advertisement: true
+
 ---
 
 **Hinweis:** Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).

@@ -1,13 +1,13 @@
 ---
 date: 2019-08-13T08:52:08.000Z
-slug: das-gluecksferkel-von-hof-butenland
-path: /2019/08/das-gluecksferkel-von-hof-butenland/
 title: Das Glücksferkel von Hof Butenland
 seoTitle: Sprung vom Tiertransporter - das Glücksferkel von Hof Butenland
 ogTitle: Sprung vom Tiertransporter - das Glücksferkel von Hof Butenland
-description: 'Frederik brachte ein Abenteuer auf Hof Butenland: Das Ferkel rettete sich durch einen Sprung vom Tiertransporter - bei 90 km/h auf der Autobahn.'
-excerpt: 'Frederik brachte ein Abenteuer auf Hof Butenland: Das Ferkel rettete sich durch einen Sprung vom Tiertransporter - bei 90 km/h auf der Autobahn.'
-fileName: 2019-08---das-gluecksferkel-von-hof-butenland.md
+description: "Frederik brachte ein Abenteuer auf Hof Butenland: Das Ferkel
+  rettete sich durch einen Sprung vom Tiertransporter - bei 90 km/h auf der
+  Autobahn."
+excerpt: "Frederik brachte ein Abenteuer auf Hof Butenland: Das Ferkel rettete
+  sich durch einen Sprung vom Tiertransporter - bei 90 km/h auf der Autobahn."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_67964794_2344267435611164_4129658634751705088_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_67964794_2344267435611164_4129658634751705088_n__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAdACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAABwgGAQIDBAX/xAArEAABBAEDAwMEAgMAAAAAAAABAgMEEQUAEiEGMUETFFEHFTJhIoFCcZH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAHhEAAgEEAwEAAAAAAAAAAAAAAQIAAxEhYQQxQfD/2gAMAwEAAhEDEQA/ACu1h8hJSq0sNPIFKAVxfya83rgdeY+fHwqEln1EF9AcLY3GiCLH91okY2XGYxkdb6w0p1CXHEu8KClAEhQ8EXX9apmp8WLARJccQWl/gUmyryNvzqMoCO5ct0a5EW7qSf8AYHIDDzDkeQ/bqEOsbd6AaV355OtZzOsSVOsxnGnHI6tq6QFKC/CdoHGsPX+bk9UZRt/KRo6Go7qjHQlZUUjsLPg131FZ2RjsMTjFnNFsEb0uqJUlW3bt2Ag38KSOw50kqRNzg0uPVBNRRjZ3uNVnYzWQ/ghZdWp0oS2hW31HD2ClDkJA5P61BMs07OyMjGZHJTGXIbKVPDHp2NoUqglI3BQJ5PIo1onIgx5Mr3pQUSQn24cQog7T4Pg9z4v96H/WuQmYuVFYkONS25Mn29FoN7KSVAijz+I40ToRI6RBwTgQM/U/C5DCPMwYEf0YxpxE17cpTnHKVGqCr5qgKqh30PuoulsvipePlZXHE/cm0yIpCvUS+njkVz/sED/mmOyS5nUD8WE4+y17anlKUyVh1QINlJVVkgfOr/qjlYsGSxLn4mJksgmGdrrwpIG0naEj/Gz2v4+NMUkLb2GtNC936+8M/9k=
@@ -31,12 +31,11 @@ labels:
   - vegan
   - veganfortheanimals
 focusKeyword: Tiertransporter
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Frederiks Sprung vom Tiertransporter
+
 ---
 
 **Frederik hat ein nervenaufreibendes Abenteuer auf den Lebenshof Butenland gebracht: Das Ferkel rettete sich durch einen Sprung vom Tiertransporter - bei 90 km/h auf der Autobahn.**

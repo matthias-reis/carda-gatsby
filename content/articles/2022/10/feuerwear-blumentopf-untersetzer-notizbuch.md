@@ -1,14 +1,20 @@
 ---
 date: 2022-10-12T08:15:43.604Z
-slug: feuerwear-blumentopf-untersetzer-notizbuch
 typeName: Produkttest
 title: 3 Herbsthits von Feuerwear
 subTitle: Blumentopf, Untersetzer und Notizbuch aus Feuerwehr-Schlauch
 seoTitle: Blumentopf, Untersetzer und Notizbuch aus Feuerwehr-Schlauch
-description: Ihr seid auf der Suche nach einem schicken Blumentopf, einem Notizbuch oder Untersetzern? Wie wäre es mit veganen nachhaltigen Feuerwear Produkten aus Feuerwehrschlauch?
-excerpt: 'Feuerwear gibt es inzwischen neben Deutschland auch in der Schweiz und sogar schon in Japan. Seit der Gründung von Martin und Robert Klüsener im Jahr 2009 hat sich einiges getan und es gibt immer mehr Produkte aus Feuerwehrschlauch. Beim letzten Presseevent habe ich jetzt wieder drei Neuzugänge kennengelernt: das Notizbuch "Percy", das Untersetzer-Set "Jules" und den Blumentopf "Flora".'
+description: Ihr seid auf der Suche nach einem schicken Blumentopf, einem
+  Notizbuch oder Untersetzern? Wie wäre es mit veganen nachhaltigen Feuerwear
+  Produkten aus Feuerwehrschlauch?
+excerpt: 'Feuerwear gibt es inzwischen neben Deutschland auch in der Schweiz und
+  sogar schon in Japan. Seit der Gründung von Martin und Robert Klüsener im Jahr
+  2009 hat sich einiges getan und es gibt immer mehr Produkte aus
+  Feuerwehrschlauch. Beim letzten Presseevent habe ich jetzt wieder drei
+  Neuzugänge kennengelernt: das Notizbuch "Percy", das Untersetzer-Set "Jules"
+  und den Blumentopf "Flora".'
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-11/2022-10-02-feuerwear0329-jpg-imagine-080808_5e4b41_2048_1536/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-11/feuerwear-produkte-fb-jpeg-imagine-080808_595250_1200_628/640.webp
 labels:
   - Feuerwear
@@ -36,6 +42,7 @@ focusKeyword: Feuerwear Produkte
 advertisement: true
 affiliate: false
 language: de
+
 ---
 
 **Feuerwear gibt es inzwischen neben Deutschland auch in der Schweiz und sogar schon in Japan. Seit der Gründung von Martin und Robert Klüsener im Jahr 2009 hat sich einiges getan und es gibt immer mehr Produkte aus Feuerwehrschlauch. Beim letzten Presseevent habe ich jetzt wieder drei Neuzugänge kennengelernt: das Notizbuch "Percy", das Untersetzer-Set "Jules" und den Blumentopf "Flora".**

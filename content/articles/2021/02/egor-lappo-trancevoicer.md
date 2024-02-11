@@ -4,17 +4,12 @@ excerpt: Das neue Album von Egor Lappo "Trancevoicer" erscheint am 19. März. Ic
   habe es schon gehört und empfehle es hiermit
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo-fb.png__l.jpg
 isAffiliate: false
-path: /2021/02/egor-lappo-trancevoicer/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAj/xAAoEAACAQMDAgUFAAAAAAAAAAABAgMABBEFITESUQYHE2GhCBQVIkL/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAxESEzFB/9oADAMBAAIRAxEAPwCC+h+vFK/s5b/UltrcAuTtk4A96dzTIkTMx2Ayasvld5Ma3FaWfieW+sEuLu3Lx6ZLGxZ45FyvVIDhGIweDjOCa0Xdalj78l94XQs53RDHdqjMDhsdSnIPvTyWIKopdr0xOs3TugRllZSg/nBxj4pi0oeFD3FPs0gGTLmkRddTdUTL32NWHQfqC1fTPDFrpv4u2l1G0t/RhvDJhCVAVGZMchRvvuQON6KKJqEsTGHkF3POQ+8cvMzO3W7Eszd2O5+a3LNiNVzwAKKKa40CApn/2Q==
 typeName: Review
 isWerbung: false
-fileName: 2021-02---trancevoicer-von-egor-lappo.md
-slug: egor-lappo-trancevoicer
-errors: {}
 date: 2021-02-22T05:00:12.000Z
 focusKeyword: Egor Lappo
 languageLink: /2021/02/egor-lappo-trancevoicer-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_egor-lappo__m.jpg
 title: '"Trancevoicer" von Egor Lappo'
@@ -39,7 +34,9 @@ labels:
   - Release
   - Review
   - Trancevoicer
+
 ---
+
 **Mit "Trancevoicer" veröffentlicht Egor Lappo am 19. März sein drittes Album. Ich habe es jetzt schon angehört und verrate Euch, was Euch erwartet**
 
 Egor Lappos Musik erinnert mich in Teilen stark an Porcupine Tree. Hier und bei Projekten wie Lonely Robot, Ghost und Devin Townsend hat der Sankt Petersburger klare Einflüsse.

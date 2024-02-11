@@ -1,15 +1,14 @@
 ---
 date: 2020-03-14T17:31:26.000Z
-slug: futurium-berlin
-path: /2020/03/futurium-berlin/
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Futurium Berlin
 seoTitle: Futurium Berlin - das Haus der Zukünfte
 ogTitle: Futurium Berlin - das Haus der Zukünfte
-description: Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen des interaktiven Museums zeigen verschiedene Zukünfte.
-excerpt: Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen des interaktiven Museums zeigen verschiedene Zukünfte.
-fileName: 2020-03---futurium-berlin.md
+description: Vor Kurzem haben wir in Berlin das Futurium besucht. Die
+  Ausstellungen des interaktiven Museums zeigen verschiedene Zukünfte.
+excerpt: Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen
+  des interaktiven Museums zeigen verschiedene Zukünfte.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-06-08-berlin-83__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-06-08-berlin-83__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgj/xAArEAACAQMDAwMCBwAAAAAAAAABAwIEBREABiESMUEHE1EUIkJDYZGh0fH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAcEQACAwEAAwAAAAAAAAAAAAABAgARIQMSMUH/2gAMAwEAAhEDEQA/AEvTHY66ap3ddCoMdRuklCzwBwCSeOfBx+mdWa27XtcrExAU1SGMUySfdMhGcZxJIGMjMgD/AJrBel+6Urvm67VUzh7L7gAoCH3GTI9Pf44Gq1dKOvdaZooa1vulypdZJAwJDIEvjHjtqfMs2E1dQNAXVzGt2zCNBTXBqDGtpvqKfrMwD7ZkRHGRgcxBGRxp9mw3X+61bXsXT2/FPGAAzMmEDmQHjPUP21qGMD7XVrq2SexSphgiOoZEsjHHJ7f1pmhuIpbRcHylkql1R6Rn8uJwPnvoGwKgGcYel26bXQb+dd7zBk1rDJrnBZmVsIIE+PgEjk/zjXTdl3NTs25V3eoWbelr1zip0pGYiTGMO4/FjIA+dGjV3AXmGHvBMrr+HyTmW5KhV6qKCqUUwatlV1lbAGyPQTEwHfiee2fOqdQ3akdsS4TXKMpdQiyGcmJKl5yMZ89iPPbRo1LpiiplTbGf/9k=
@@ -25,12 +24,11 @@ labels:
   - Zukunft
   - Zukunftsstudien
 focusKeyword: Futurium
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Das Haus der Zukünfte
+
 ---
 
 **Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen des interaktiven Museums zeigen verschiedene Zukünfte.**

@@ -1,11 +1,12 @@
 ---
 date: 2020-12-28T12:56:00.000Z
-slug: mantis-interview-en
 typeName: Interview
 title: Post-Everything Band Mantis
 subTitle: We Love Working With The Dunk!team
 seoTitle: Post-Everything Band Mantis – "We Love Working With The Dunk!team"
-description: Mantis call themselves a "post-everything" band, and this describes their music quite perfectly. On the 27th of November, they released their brand new album "Glint". I now had the chance to talk to them about it.
+description: Mantis call themselves a "post-everything" band, and this describes
+  their music quite perfectly. On the 27th of November, they released their
+  brand new album "Glint". I now had the chance to talk to them about it.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-12-mantis-1-l-jpeg-imagine-d8d8d8_cab7a9_1440_1080/640.webp
 copyright: Mantis
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-12-mantis-fb-png-l-jpg-imagine-e8e8d8_cfbcae_1440_754/640.webp
@@ -31,6 +32,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2020/12/mantis-interview
+
 ---
 
 **Mantis call themselves a "post-everything" band, and this describes their music quite perfectly. On the 27th of November, they released their brand new album "Glint". I now had the chance to talk to them about it.**

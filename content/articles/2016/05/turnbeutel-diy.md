@@ -1,13 +1,13 @@
 ---
 date: 2016-05-12T09:17:49.000Z
-slug: turnbeutel-diy
-path: /2016/05/turnbeutel-diy/
 title: DIY Turnbeutel für den Sommer
 seoTitle: Turnbeutel - Neu in meiner Sammlung
 ogTitle: Turnbeutel - Neu in meiner Sammlung
-description: Heute zeige ich Euch, wie mein neuer Turnbeutel aus einem weggeworfenen Stoff aus dem Sperrmüll entstanden ist. Mit Nähanleitung und Video.
-excerpt: Heute zeige ich Euch, wie mein neuer Turnbeutel aus einem weggeworfenen Stoff aus dem Sperrmüll entstanden ist. Mit Nähanleitung und Video.
-fileName: 2016-05---diy-turnbeutel-fuer-den-sommer.md
+description: Heute zeige ich Euch, wie mein neuer Turnbeutel aus einem
+  weggeworfenen Stoff aus dem Sperrmüll entstanden ist. Mit Nähanleitung und
+  Video.
+excerpt: Heute zeige ich Euch, wie mein neuer Turnbeutel aus einem weggeworfenen
+  Stoff aus dem Sperrmüll entstanden ist. Mit Nähanleitung und Video.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26936181195_c900928012_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26936181195_c900928012_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAAsEAACAQMDAwIEBwAAAAAAAAABAgMEBREAEiEGMXETIgcUQVEWMlJhgbHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB8RAAEEAgIDAAAAAAAAAAAAAAEAAgMRBBIhQXGRof/aAAwDAQACEQMRAD8A53UN4mqXio4n3QpMBJEBncQPzEfUA/7qh/A+8MKupsldUGQ5ElNI5OHxwQuexxg7fOONLNq6XRm9ZraXVAF3bTluOWJz9899NHTtpFuuFPPBQiPbKrM2B7QP0nuO2fOpGhwNrblfC6DTi/Kl9zjX8B3GoRfdNFCqePTJ/t9DUFGk9PC2SrGIRNjvjGCNd+ejaspaahG00hXJeNuX4wAq4yNFQ2u32Oa11VyVIIvmY0ZJmJYKSPeyHkAY78cnSXO1BKOTIiEQB7AHxTLp6tjlljlR5UuRI3cF1ZsY7fY85862qaJIa6gekdoZZawReiTlcMPY6n6qSSpzyCP30HZZoKd4iJVjjYEhgCMYOOceNE9UXiOeek9OJhJ7JklC7FwpJAC+Qf5J08tcDwkZWTFLDr2FcmtsHUFHQWqo6qqqK92lI6iihWYRSOQjJujZyFZeWUkA4AH3GVDqyntPTFTc6ee+G9XuaCNBT0yNN8uMYLSy7sBj35x47a2o/iPabjbPkaq2pXVz0M880FTTxvTqqpvZAX752ggDgcZ5Gkq+3OyT3S4Utrtj0drTa8UFNGoU5GTmM9t3POcgdtTYksxipzKNm/alycaJ8ludx1S//9k=
@@ -21,12 +21,11 @@ labels:
   - sewing
   - Turnbeutel
 focusKeyword: Turnbeutel
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Aus alt mach neu
+
 ---
 
 **Wie einige unter Euch schon wissen, bin ich ein Fan von Turnbeuteln. Die Dinger sehen nicht nur toll aus, sie sind auch noch super praktisch.**

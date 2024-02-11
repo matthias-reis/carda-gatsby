@@ -1,25 +1,23 @@
 ---
 ogTitle: '"Another Second Chance" – Das neue Album von Baulta'
-excerpt: Baulta haben ihr neues Album "Another Second Chance" veröffentlicht. Die Platte fasst viele Momentaufnahmen des letzten Jahres perfekt in Noten.
+excerpt: Baulta haben ihr neues Album "Another Second Chance" veröffentlicht.
+  Die Platte fasst viele Momentaufnahmen des letzten Jahres perfekt in Noten.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-another-second-chance-fb.png__l.jpg
 isAffiliate: false
-path: /2021/03/another-second-chance/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAoEAABAwMDAgcBAQAAAAAAAAABAgMRAAQFBiExEhMUFSJBYXGBUZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAAUH/2gAMAwEAAhEDEQA/AJwxa+KyC2i+0wjqUVOuyQkA7mACT9CqTYaE05c4S+yHmL7draIjxji0qDqokKDaRsniBJJmpzjyjzIh5oPIBUoiJ2Ez+H9pwx+cvU2LrTVvbs4ltKZtnWysKSqEhoHnrJjcn5isK1jDkMLbYTGK7WaadfvG5W20wCOgpJSEqMncTsIpTLIbuG0Jebckj1NzHPyKp+k9JPvZtT/exjdwkEsI7qnCrqEAAqEAInnmRtSXrXIm81Lett9g29vcrQyptPtIBhR3KSQVCf6T70HFeHRcudBIhaoI55NbLa9dS12y+kIK57bglA9MBf3yPo0UUFDvNbJRiMgMaG22blIQltlMmzSRCgk7GCAqCJjaYkVOLxto37YZdLgUUg8EJ3EAEe0f5RRU1cf/2Q==
 typeName: Review
 isWerbung: false
-fileName: 2021-03---another-second-chance.md
-slug: another-second-chance
-errors: {}
 date: 2021-03-09T09:58:31.000Z
 focusKeyword: Baulta
 languageLink: /2021/03/baulta-another-second-chance-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-another-second-chance__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-another-second-chance__m.jpg
 title: '"Another Second Chance"'
 subTitle: Das neue Album von Baulta
 seoTitle: '"Another Second Chance" – Das neue Album von Baulta'
-description: Baulta haben ihr neues Album "Another Second Chance" veröffentlicht. Die Platte fasst Momentaufnahmen des letzten Jahres perfekt in Noten.
+description: Baulta haben ihr neues Album "Another Second Chance"
+  veröffentlicht. Die Platte fasst Momentaufnahmen des letzten Jahres perfekt in
+  Noten.
 language: de
 type: Artikel
 labels:
@@ -30,6 +28,7 @@ labels:
   - DUNK!records
   - English & German
   - Post-Rock
+
 ---
 
 **Baulta haben ihr neues Album "Another Second Chance" veröffentlicht. Mit der Platte schaffen es die Finnen, alles, was wir in den letzten Monaten erlebt haben, zum Ausdruck zu bringen – auf höchst musikalische Art und Weise.**

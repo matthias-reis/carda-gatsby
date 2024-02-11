@@ -1,12 +1,18 @@
 ---
 date: 2023-07-31T11:07:51.697Z
-slug: hessdalen-light-interview
 typeName: Interview
 title: Hessdalen Light Gründer Tanner Thornton im Interview
-subTitle: '"In der Instrumental- und Progressive-Rock-Szene findet man die größten musikalischen Talente"'
+subTitle: '"In der Instrumental- und Progressive-Rock-Szene findet man die
+  größten musikalischen Talente"'
 seoTitle: Hessdalen Light Prog Rock Interview
-description: Hessdalen Light Gründer Tanner Thornton hat mir alles über das kommende Album und die aktuelle Single "Khajiit Has Wares, If You Have Coin" verraten – und wir haben über Skyrim gesprochen!
-excerpt: Das neue Hessdalen Light Album steht in der Startbox, die erste Vorauskopplung "Khajiit Has Wares, If You Have Coin" ist vielversprechend. Die drei fanden das Stück so charakteristisch für ihren neuen Stil, dass sie beschlossen, es als eigenständige Single erst mal zu priorisieren. Zeit für ein Interview mit Bandgründer Tanner.
+description: Hessdalen Light Gründer Tanner Thornton hat mir alles über das
+  kommende Album und die aktuelle Single "Khajiit Has Wares, If You Have Coin"
+  verraten – und wir haben über Skyrim gesprochen!
+excerpt: Das neue Hessdalen Light Album steht in der Startbox, die erste
+  Vorauskopplung "Khajiit Has Wares, If You Have Coin" ist vielversprechend. Die
+  drei fanden das Stück so charakteristisch für ihren neuen Stil, dass sie
+  beschlossen, es als eigenständige Single erst mal zu priorisieren. Zeit für
+  ein Interview mit Bandgründer Tanner.
 image: https://storage.googleapis.com/cardamonchai-media/2023-07-31/hessdalen-light-interview-soundsvegan-jpg-imagine-181818_484639_1024_768/640.webp
 copyright: Hessdalen Light
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-07-31/hessdalen-light-interview-soundsvegan-og-jpg-imagine-181818_575344_1200_628/640.webp
@@ -26,6 +32,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/07/hessdalen-light-interview-en/
+
 ---
 
 **Als Tanner Thornton  2015  sein Musikprojekt aus seinem Schlafzimmer in seiner Wohnung in Dallas, Texas heraus startete, träumte er von der Band, die für ihn heute Realität ist: Hessdalen Light haben sich inzwischen auch Zephaniah Stake (Drums) und Antonio Guzman (Bass) angeschlossen. Ihre gemeinsame musikalische Reise führt Sie an Orte, welche die Fantasie beflügeln und ihre Musik immer weiter wachsen lassen. Weit über die Grenzen der Pläne aus Tanners Musik-und Traumzentrale zu Beginn.**

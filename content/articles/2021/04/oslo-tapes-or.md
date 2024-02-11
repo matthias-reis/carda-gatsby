@@ -6,17 +6,12 @@ excerpt: Am 4. Juni erscheint auf Pelagic Records eine neue Platte von Oslo
   sich freuen.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_oslo-tapes.png__l.jpg
 isAffiliate: false
-path: /2021/04/oslo-tapes-or/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBwQGCP/EACcQAAEDAwQBBAMBAAAAAAAAAAECAwQABRESEyExBwYUIlFBYZGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EAB0RAAMAAQUBAAAAAAAAAAAAAAABEfACITFBYZH/2gAMAwEAAhEDEQA/AMy3eeLWx5Hv6Jd9kPenX9pMJzZUptKgv5FIwFIToOD94zS21eW/S0fyXFv8WTfXWZ6n405TrQSE61oSyVDOnbQlIKQDqHOe8VQTSIMG4xXFof3FOqLkdxQOlr8IJGDqIyCfwFdZpjcrtZJSYjNrsHtNoq3GpMpb6QM5BBynV30QMYHfdJPC673Rd3l/zJa5F/at9scuzRss5JkSokoNailxIXtpCsO8BSflgfLPXNbF6u80WaQ/ZxYZsVbcx5CnUu8qbbVpJSoA/AgKPPOCnH3XM7c2DFbti5MBu46oZbQpxZQWF7isAYOFAfsZ5/VLLzOke7ksF/fa3CQHm0nBPJxxxyT1WpMLpUeZ9FrhbJ1B0KUec85BpwpiG6y7LTcozL5jFwR1JUTrCgNGeskZUP5RRTcEqKfcj2bbKhnbXqSQeh9f7UJT+/KcdxgKOQM0UUUD/9k=
 typeName: Review
 isWerbung: false
-fileName: 2021-04---oslo-tapes-oer.md
-slug: oslo-tapes-or
-errors: {}
 date: 2021-04-06T08:44:16.000Z
 focusKeyword: Oslo Tapes
 languageLink: /2021/04/oslo-tapes-or-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_oslo-tapes__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_oslo-tapes__m.jpg
 title: Oslo Tapes – "Ør"
@@ -37,7 +32,9 @@ labels:
   - Post-Rock
   - Review
   - Shoegaze
+
 ---
+
 **Am 4. Juni erscheint auf Pelagic Records eine neue Platte von Oslo Tapes.  Ich habe schon mal rein gehört und bin begeistert. Besonders Fans von Nine Inch Nails, Massive Attack, My Bloody Valentine und Portishead dürfen sich freuen.**
 
 Das Album hat es wirklich in sich: Präzise Drums und verspielte Basslinien kombiniert mit New Wave Synthesizern und psychedelischem Gitarrenspiel ziehen einen in einen beeindruckenden Klangsog. Der zum Teil schemenhafte fast gespenstisch wirkende Gesang rundet die acht Meisterwerke auf "Ør" ab.

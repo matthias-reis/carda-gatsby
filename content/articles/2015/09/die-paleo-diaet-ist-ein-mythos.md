@@ -1,13 +1,12 @@
 ---
 date: 2015-09-17T17:01:14.000Z
-slug: die-paleo-diaet-ist-ein-mythos
-path: /2015/09/die-paleo-diaet-ist-ein-mythos/
 title: '"Die Paleo Diät ist ein Mythos"'
 seoTitle: '"Die Paleo Diät ist ein Mythos" - Forscher decken auf'
 ogTitle: '"Die Paleo Diät ist ein Mythos" - Forscher decken auf'
-description: '"Unsere Vorfahren haben Getreide statt Fleisch gegessen!" Das haben jetzt Forscher in Italien herausgefunden. Der New Scientist berichtet.'
-excerpt: '"Unsere Vorfahren haben Getreide statt Fleisch gegessen!" Das haben jetzt Forscher in Italien herausgefunden. Der New Scientist berichtet.'
-fileName: 2015-09---die-paleo-diaet-ist-ein-mythos.md
+description: '"Unsere Vorfahren haben Getreide statt Fleisch gegessen!" Das
+  haben jetzt Forscher in Italien herausgefunden. Der New Scientist berichtet.'
+excerpt: '"Unsere Vorfahren haben Getreide statt Fleisch gegessen!" Das haben
+  jetzt Forscher in Italien herausgefunden. Der New Scientist berichtet.'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_oats-8946_1280__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_oats-8946_1280__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwUC/8QAKBAAAgIBAwIFBQEAAAAAAAAAAQIDBBEABRITMSEiQVFhFDIzgZFx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAQACBQb/xAAZEQADAQEBAAAAAAAAAAAAAAAAAREhMUH/2gAMAwEAAhEDEQA/AGJZoE6cF0tLUMrSKq9zheSk/s+Pvq6J3tvVVpE6cyRIZGj8ygleJx6jJABGkLcMUtvcMTD6KCGK0J4vEmKX8jjP3DBAz37eo1l1Zodt3zabRnktQN1NvcSMeBUyARlfVSAMfBGdcut6bchtbnUqVqixPM5gnlfk5PEuB4gj+jSiCxZmSGS0BPHG8bzKpHJIxklgP8A/en4p7NTadwhtyR7jItYKmYznJKszZ9j5VGPjU7NbcbXStt9HFbsxLUnR8ckbzkkk+GGXAPyBqJwq0Jyx8tooblAgcrCYDApADxnIKrjsvHjj5x2Ouneg816HbKrzxMhlDunjgeZx/F79++jRoeCXQXoqytQsKywBOhXV0JKD7kZR6+VgBn1A1O2pRl29hDXUz9SKKUzRhVaQhT1AD2YsHHtnvo0aPKJ//9k=
@@ -20,12 +19,11 @@ labels:
   - Paleo Diät
   - vegane Ernährung
 focusKeyword: Paleo Diät
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Forscher decken auf
+
 ---
 
 **"Unsere Vorfahren haben Getreide statt Fleisch gegessen!" Das haben jetzt Forscher in Italien herausgefunden. Laut eines aktuellen Berichts im New Scientist[^1] sind die bisherigen Annahmen, unsere Vorfahren hätten sich hauptsächlich von Fleisch ernährt, falsch.**

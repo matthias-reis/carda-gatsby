@@ -1,15 +1,15 @@
 ---
 date: 2015-05-31T17:33:54.000Z
-slug: ein-sonntag-in-travemuende
-path: /2015/05/ein-sonntag-in-travemuende/
 type: Galerie
 typeName: Galerie
 title: Ein Sonntag in Travemünde
 seoTitle: Ein Sonntag in Travemünde
 ogTitle: Ein Sonntag in Travemünde
-description: Letzten Sonntag machten wir einen Tagesausflug nach Travemünde. Das Wetter war ein einziger Traum und das Fernweh vorprogrammiert. Hier sind meine Eindrücke
-excerpt: 'Letzten Sonntag machten wir einen wunderschönen Ausflug. Unser Ziel: Travemünde an der Ostsee.'
-fileName: 2015-05---ein-sonntag-in-travemuende.md
+description: Letzten Sonntag machten wir einen Tagesausflug nach Travemünde. Das
+  Wetter war ein einziger Traum und das Fernweh vorprogrammiert. Hier sind meine
+  Eindrücke
+excerpt: "Letzten Sonntag machten wir einen wunderschönen Ausflug. Unser Ziel:
+  Travemünde an der Ostsee."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_05_18051831415_eacb0b396d_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_05_18051831415_eacb0b396d_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQHBQb/xAArEAABAwMBBgUFAAAAAAAAAAABAgMEAAURMQYSEyFBUQcUFUJhIlJicZH/xAAXAQEBAQEAAAAAAAAAAAAAAAAGBAEF/8QAIhEAAQMDAwUAAAAAAAAAAAAAAQACAwUREhQh0RMiMVHw/9oADAMBAAIRAxEAPwCLot6j7aL6cr7a7duAyUg9Doca0yxbGnHEJAB3lBOuNTjXpS/UMsjfeTZT5VuWPbQ/TlqOAnmfnFWmfsFLhvKbkR4aVp1CZS1D+hoisfaLZh21JjmW2w0JLfEbLb4cSpIx+IxqKjbUopDi1dGWnywsL3OBt6vwt2NZWmYyBHekF9uKI6FLeIGRz38aBROMkdKHbIzbXo719vbZkssobfaD4Sy84VDeWQcZ6DkBT7UhIAJVpSF7s9t2gipYuTa3Eg5SpLhC0HuD0oS3EOufvPKRZnGyre0G5GEiU47IJK9xLTQQStWgAz+upqSeI9xuq3bRLtNuCxCiPNFp3hSOISUhKgnRRASrkRqRgGuYd8OLSysqg3C5x3CMA8YKA+dB271s2O3u2aC/C80JTTrwkFbyPrCwCMgg9QeY7iqtS0bgrOnG6Mhw3K//2Q==
@@ -27,12 +27,11 @@ labels:
   - Tagesausflug
   - Travemünde
 focusKeyword: Travemünde
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Bildergalerie aus der Hafenstadt an der Ostsee
+
 ---
 
 **Letzten Sonntag machten wir einen wunderschönen Ausflug. Unser Ziel: Travemünde an der Ostsee. Das Wetter war ein einziger Traum und das Fernweh war vorprogrammiert.**

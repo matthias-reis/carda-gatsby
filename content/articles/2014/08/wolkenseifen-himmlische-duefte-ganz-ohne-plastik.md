@@ -1,17 +1,17 @@
 ---
-date: 2014-08-29T11:51:56.000+00:00
-slug: wolkenseifen-himmlische-duefte-ganz-ohne-plastik
-path: '/2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/'
+date: 2014-08-29T11:51:56.000Z
 title: Wolkenseifen
 seoTitle: Wolkenseifen - Himmlische Düfte ganz ohne Plastik
 ogTitle: Wolkenseifen - Himmlische Düfte ganz ohne Plastik
-description: Wolkenseifen bietet himmlische Düfte ganz ohne Plastik an. Ich habe mal einen kleinen Produkttest gemacht und mir die Sachen etwas genauer angeschaut.
-excerpt: Wolkenseifen bietet himmlische Düfte ganz ohne Plastik an. Ich habe mal einen kleinen Produkttest gemacht und mir die Sachen etwas genauer angeschaut.
-fileName: 2014-08---wolkenseifen.md
+description: Wolkenseifen bietet himmlische Düfte ganz ohne Plastik an. Ich habe
+  mal einen kleinen Produkttest gemacht und mir die Sachen etwas genauer
+  angeschaut.
+excerpt: Wolkenseifen bietet himmlische Düfte ganz ohne Plastik an. Ich habe mal
+  einen kleinen Produkttest gemacht und mir die Sachen etwas genauer angeschaut.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_img_1695__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_img_1695__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwIIAwUG/8QALRAAAgEDAQcDAwUBAAAAAAAAAQIDBAURIQAGBxITMUEUUWFSYpEjMkJxwdH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgQF/8QAHBEAAgMBAAMAAAAAAAAAAAAAAQIAAxIEEUHw/9oADAMBAAIRAxEAPwAm4d8OIt6HkqKmSaC2wkLLNzalj/BdNW/6PfZssvC7d+kgRKewUfTIBE10bmkf3OG7afAH42zcLYaKks9qtihG9NSpUzr9UsgySfcZJ01Gnxt3DVED1Mi1DTerJQdMjKg/VjGSCMeex25/R0NvImqqk2khfUOKzhnujf6WR6eit4ljk6ZmtVSGVTy5PMFOB50Pgd9hniHuXT7twM8MacpKskqOWWRCcZBJPx/W1s93t2qega4VqVDzpWxQxtTOq9ONVD6KB4JY6Y2JuONsEu498i/c9tljliY9xGXGV7k9j8dhjZovIbJjaorcoD5Ehw5vtOtJFO8sKRFVgc9Mc/OAAOZvCgYPfyNNky4SQPJQ1s7FEp/0pjjIMZyAxx7E7U+3S3lqbTLI6RpICAZoWPKkyjz9rjvkdxnyNV60cQ6D00cQub0iSDAp6uLqAZxoMZz2P52vo5SzbWRTc1L7X4SxvqaentmUkBiChmk8YHbGwXx0u6xbiXViwWS5yIkSYw3IHUkn30Hf7gNtnLv5ZRbFpKyspamWEh0R16aggDAOAQoznwcAjQ42D+JW8NffJah7kIVOOWEQSdSIIGBwp9/JyAf8nn5m1p4MxcljP//Z
-ogImage:
+ogImage: null
 labels:
   - Badezusatz
   - Badezusatz vegan
@@ -47,13 +47,12 @@ labels:
   - Wolkenseifen Review
   - Wolkenseifen vegan
 focusKeyword: Wolkenseifen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Himmlische Düfte ganz ohne Plastik
 advertisement: true
+
 ---
 
 **Vor Kurzem berichtete ich hier im Blog über den** [**biologischen Fussabdruck**](/2014/07/10-fakten-uber-vegane-ernahrung/) **und wie man ihn mit der Umstellung auf eine vegane Ernährungsweise verkleinern kann. Der Verzicht auf Tierisches trägt einen großen Teil dazu bei, ist aber bei weitem nicht das Einzige, was man tun kann, um unseren blauen Planeten so bewusst wie möglich zu begehen.**

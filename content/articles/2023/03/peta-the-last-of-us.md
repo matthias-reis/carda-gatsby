@@ -1,12 +1,16 @@
 ---
 date: 2023-03-13T10:16:40.952Z
-slug: peta-the-last-of-us
 typeName: Beitrag
 title: '"The Last of Us"'
 subTitle: Veganer Werbespot richtet sich an Horror- und Science-Fiction-Fans
 seoTitle: '"The Last of Us" – Veganer Werbespot polarisiert mit apokalyptischen Bildern'
-description: Die Tierrechtsorganisation PETA spricht mit ihrem neuen Werbespot gezielt Fans von Horror und dystopischer Science-Fiction an. Erfahrt jetzt alles über den gruseligen Clip!
-excerpt: Die Tierrechtsorganisation PETA stellte vor Kurzem ihren neuen veganen Werbespot vor. Er soll schon bald auf dem US-amerikanischen Horror-, Science-Fiction- und Fantasy-Sender SYFY laufen. Im Spot ruft PETA Eltern dazu auf, ihre Kinder vegan zu ernähren.
+description: Die Tierrechtsorganisation PETA spricht mit ihrem neuen Werbespot
+  gezielt Fans von Horror und dystopischer Science-Fiction an. Erfahrt jetzt
+  alles über den gruseligen Clip!
+excerpt: Die Tierrechtsorganisation PETA stellte vor Kurzem ihren neuen veganen
+  Werbespot vor. Er soll schon bald auf dem US-amerikanischen Horror-,
+  Science-Fiction- und Fantasy-Sender SYFY laufen. Im Spot ruft PETA Eltern dazu
+  auf, ihre Kinder vegan zu ernähren.
 image: https://storage.googleapis.com/cardamonchai-media/2023-03-13/veganer-werbespot-peta-jpg-imagine-182838_3f4c54_1024_768/640.webp
 copyright: PETA
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-03-13/veganer-werbespot-peta-og-jpg-imagine-181828_3d4951_1200_628/640.webp
@@ -22,6 +26,7 @@ focusKeyword: Veganer Werbespot The Last of Us
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die Tierrechtsorganisation PETA stellte vor Kurzem ihren neuen veganen Werbespot vor. Er soll schon bald auf dem US-amerikanischen Horror-, Science-Fiction- und Fantasy-Sender SYFY laufen.**

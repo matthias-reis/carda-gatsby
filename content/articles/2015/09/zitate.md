@@ -1,15 +1,16 @@
 ---
 date: 2015-09-04T08:00:53.000Z
-slug: zitate
-path: /2015/09/zitate/
 type: Galerie
 typeName: Galerie
 title: Weise Worte
 seoTitle: Weise Worte - Zitate in meinem Blog
 ogTitle: Zitate in meinem Blog - Sammelartikel
-description: Sicher ist Euch schon die Rubrik "Weise Worte" in meinem Blog aufgefallen. Hier teile ich Zitate berühmter und weniger berühmter Menschen mit Euch.
-excerpt: Sicher sind Euch schon mal die Zitate aufgefallen, die ich in unregelmäßigen Abständen im Blog einblende und als Meme in Facebook poste. Hier sammle ich sie alle.
-fileName: 2015-09---weise-worte.md
+description: Sicher ist Euch schon die Rubrik "Weise Worte" in meinem Blog
+  aufgefallen. Hier teile ich Zitate berühmter und weniger berühmter Menschen
+  mit Euch.
+excerpt: Sicher sind Euch schon mal die Zitate aufgefallen, die ich in
+  unregelmäßigen Abständen im Blog einblende und als Meme in Facebook poste.
+  Hier sammle ich sie alle.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Zitat__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Zitat__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwUGAAME/8QAKxAAAgEDBAADCAMAAAAAAAAAAQIDBAURAAYSIRMxUQcUMkFhcYGRFiIl/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUAAQMG/8QAIxEAAQMDAwUBAAAAAAAAAAAAAQACAwQRQRIhUQUTMWHBMv/aAAwDAQACEQMRAD8ATLZura1a8eLjHE3S+GyMufzjULb73Wv7H4rkK6RrtIOQm4jl3VcB8sfD1rbT+zQZV3uEUtQoVmLyeGVH6Ofpo/sdc8limgqry9NarCkfO3QsvjVRDqzOV8zGGPyyQRnrGnU0dM0AwvvzdJaaepcSJ2aePuT6SdvVGO7tu01POI6WrerSaMDCvxjyCfXB70Z7kstxuhkhtPgyUkHPErkYJyegfIeWPpqe24q7nvdluNTcWrzVe8f5sGXWjjEfweefEII5MfPSTdoKW3UIWGmekXiFVWjK8R6eWMdHQtwANO6NDif1sq/a/arSyQYkt14H9cMXp0OOjk9N39dHzjZwsNqvjWytW7ssBdEif3d3d1DHHk2VYj0Ppo/prhJFBIRJgcGPX2OsNyI2rZo+Z6kox+mXXOtrpstHkfVuWuOEq7frtn7e3PSVFpgudEJ/e/FSqV+04gKqgdgAn7jPZ1YrrufaLpKslzVmGWUvHKFU+gULnP70L3a6t/IrWysciGpxg+vAa5a25SSE8ppvwTq4+ozWbduOfZU7d9rL/9k=
@@ -20,12 +21,11 @@ labels:
   - Weise Worte
   - Zitate
 focusKeyword: Zitate
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Zitate in meinem Blog
+
 ---
 
 **Sicher sind Euch die Zitate schon aufgefallen, die ich in unregelmäßigen Abständen in meinem Blog einblende und über die sozialen Netzwerke teile. Diese sogenannten Memes habe ich jetzt mal für Euch gesammelt und zu dieser Galerie zusammengefügt.**

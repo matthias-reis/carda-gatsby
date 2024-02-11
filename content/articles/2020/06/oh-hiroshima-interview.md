@@ -1,15 +1,15 @@
 ---
-date: 2020-06-27T13:54:37+02:00
-slug: oh-hiroshima-interview
-path: '/2020/06/oh-hiroshima-interview/'
+date: 2020-06-27T11:54:37.000Z
 type: Artikel
 typeName: Interview
 title: Oh Hiroshima
 seoTitle: Oh Hiroshima - Interview mit der schwedischen Post-Rock-Band
 ogTitle: Oh Hiroshima - Interview mit der schwedischen Post-Rock-Band
-description: Wer schwedischen Post-Rock liebt, kommt an Oh Hiroshima nicht vorbei. Ich hatte jetzt das Glück, die Band bei einem Interview besser kennenzulernen.
-excerpt: Wer schwedischen Post-Rock liebt, kommt an Oh Hiroshima nicht vorbei. Ich hatte jetzt das Glück, die Band bei einem Interview besser kennenzulernen.
-fileName: 2020-06---oh-hiroshima.md
+description: Wer schwedischen Post-Rock liebt, kommt an Oh Hiroshima nicht
+  vorbei. Ich hatte jetzt das Glück, die Band bei einem Interview besser
+  kennenzulernen.
+excerpt: Wer schwedischen Post-Rock liebt, kommt an Oh Hiroshima nicht vorbei.
+  Ich hatte jetzt das Glück, die Band bei einem Interview besser kennenzulernen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_OH-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_OH-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAT/xAArEAACAQMDAwMCBwAAAAAAAAABAgMABBEFEiEGMUEiUaETgQcUFlJisfD/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRIWH/2gAMAwEAAhEDEQA/AKfR+qI0/Ji5uSheACOVnydxZSQB96rG6rtLLUb2WbUImga3jZFOeWL4wMA84MfA59Q96zXfdTjT59ONthxbxhf3DH0jkf1Szo3qe9mtNV1G/v5jcwwySQKG2xqVRD2A/iij2796zLFhQpvTSOodTWtziS2lIjKGUsrYG3djBA85x81y/rCxtbZ4o5Bn6ixMGfIViwX/AHes93f4m3l1pRtzDbiNy0m5EOdzD1E5Y4OeTjg4B80t1fWpruaSUyDbMN4wfOBj5BpXQlwnmWUkku/I7n2rlsLpLbS9ZhKuJZwqRkDggN6lPwftRRTV4AtjBYMg84AyccnxT2NSkYUHgDbRRULP/9k=
@@ -33,13 +33,12 @@ labels:
   - VIVID Festival
   - VIVID Post-Rock
 focusKeyword: Oh Hiroshima
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Die Drums haben wir in einer Kirche aufgenommen"'
-languageLink: '/2020/06/oh-hiroshima-interview-en'
+languageLink: /2020/06/oh-hiroshima-interview-en
+
 ---
 
 **Wer schwedischen Post-Rock liebt, kommt an Oh Hiroshima nicht vorbei. Ich hatte jetzt das Glück, die Band bei einem Interview mit Sänger Jakob besser kennenzulernen.**

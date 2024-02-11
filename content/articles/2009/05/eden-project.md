@@ -5,16 +5,11 @@ excerpt: 1995 hatte der britische Archäologe und Gärtner Tim Smith die Idee, i
   anzulegen - das Eden Project war geboren.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11503038676_01cd4d6690_z__l.jpg
 isAffiliate: false
-path: /2009/05/eden-project/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMHBgUI/8QAJxAAAgEDBAEEAgMAAAAAAAAAAQIDBAURABIhMUEGByJRE2EUFZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oADAMBAAIRAxEAPwCUXT3CrqK5vFBChosbVjbkMmeG3L3nHjjx+9UKW+T1Fptdf/DahkqCWje4EsCuQC2MnKgnjjoHjUKo5oprjSs4/HFAzviNFZ89jPW7oA+eDr1VYZrBFb7dVRVEUkhgjQ1ciyDeDht4yBtUHpT9f7htPLLenK6a6y1dGKeIsXMklXAcQquMBiuAQDjHXkaR6x9I014hikmnqKCz00Tl3BAml+IKsMj5/XJxj61vL1e7TZ6qFapoGhlG/wCIbcZDyskgCt8SFb448akXv3WXAU0f9e9QtoLmGWZWjVZJNo3R4Rs7OsK6ryDxpsSh8TEDKNhsjkdjXXgvtekX42q5CmwRqG52gNnjPXnnRo1LElSXisYxqamaRIiWTexIBPZx9+c/rTL56juF2o4KasrKmWGPBCSSkru63Y+9GjQgX//Z
 typeName: Galerie
 isWerbung: false
-fileName: 2009-05---eden-project.md
-slug: eden-project
-errors: {}
-date: 2009-05-17T15:09:11.000+00:00
+date: 2009-05-17T15:09:11.000Z
 focusKeyword: Eden Project
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11503038676_01cd4d6690_z__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11503038676_01cd4d6690_z__m.jpg
 title: Eden Project
@@ -53,6 +48,7 @@ labels:
   - serie:England 2009
 language: de
 type: Galerie
+
 ---
 
 **\_** [**Teil 12/17**](/2009/05/st-ives-cornwall-16-05-2009/) **\_ 1995 hatte der britische Archäologe und Gärtner Tim Smith die Idee, in einer stillgelegten Kaolingrube einen botanischen Garten der besonderen Art anzulegen. Im März 2001 wurde dann das Eden Project eröffnet.**

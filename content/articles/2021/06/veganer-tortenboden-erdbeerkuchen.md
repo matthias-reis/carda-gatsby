@@ -9,7 +9,6 @@ labels:
   - Erdbeeren
   - veganer Obstboden
 language: de
-slug: veganer-tortenboden-erdbeerkuchen
 typeName: Rezept
 title: Erdbeerkuchen – Veganer Tortenboden
 subTitle: Klassisch und lecker
@@ -27,6 +26,7 @@ focusKeyword: veganer Tortenboden
 advertisement: false
 affiliate: false
 languageLink: ""
+
 ---
 
 **Erdbeerkuchen gehört zum Juni einfach dazu – die Basis sollte natürlich ein veganer Tortenboden sein. Es stimmt doch, oder? Was wäre der erste richtige Sommermonat ohne Erdbeerkuchen? Seit ich denken kann, habe ich einmal im Jahr den Wunsch nach Erdbeerkuchen. Dieses kulinarische Highlight ist und bleibt für mich etwas ganz Besonderes.**

@@ -1,11 +1,13 @@
 ---
 date: 2021-08-23T12:53:03.894Z
-slug: felix-gebhard-zahn-interview
 typeName: Interview
 title: Felix Gebhard im Interview
 subTitle: '"Eine Band wie Zahn habe ich mir schon immer gewünscht"'
 seoTitle: Felix Gebhard im Interview – "Wir mussten einfach ein Album machen"
-description: Felix Gebhard hat mir im Interview verraten, dass er schon immer in einer Instrumental-Band wie Zahn spielen wollte. Dieser Wunsch ist nun endlich in Erfüllung gegangen. Das erste Album "Zahn" ist draußen und verspricht einiges. Ihr solltet unbedingt reinhören!
+description: Felix Gebhard hat mir im Interview verraten, dass er schon immer in
+  einer Instrumental-Band wie Zahn spielen wollte. Dieser Wunsch ist nun endlich
+  in Erfüllung gegangen. Das erste Album "Zahn" ist draußen und verspricht
+  einiges. Ihr solltet unbedingt reinhören!
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zahn-jpg-imagine-484848_000000_1024_768/640.webp
 copyright: Zahn
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zahn-fb-jpg-imagine-080808_000000_1200_628/640.webp
@@ -34,6 +36,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/08/felix-gebhard-zahn-interview-en/
+
 ---
 
 **Zahn ist das großartige Instrumental (Noise) Projekt von Chris Breuer (ehem. The Ocean, Heads.), Nic Stockmann (Heads., ehem. Eisenvater) und Felix Gebhard (live Einstürzende Neubauten).**

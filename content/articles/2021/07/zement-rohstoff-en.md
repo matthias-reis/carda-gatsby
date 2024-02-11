@@ -1,11 +1,12 @@
 ---
 date: 2021-07-21T09:38:36.056Z
-slug: zement-rohstoff-en
 typeName: Review
 title: Zement - "Rohstoff"
 subTitle: A Statement To The Music World
 seoTitle: Zement - "Rohstoff" – A Statement To The Music World
-description: With their third LP, Zement deliver neo-krautrock/psychedelic at its best – perfectly composed with beautiful techno borrowings. "Rohstoff" is a thoroughly danceable record that fits well into our times
+description: With their third LP, Zement deliver neo-krautrock/psychedelic at
+  its best – perfectly composed with beautiful techno borrowings. "Rohstoff" is
+  a thoroughly danceable record that fits well into our times
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-jpg-imagine-181818_5c4a4c_1024_768/640.webp
 copyright: Zement
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zement-rohstoff-fb-png-imagine-f8f8f8_a67460_1200_628/640.webp
@@ -28,6 +29,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/07/zement-rohstoff/
+
 ---
 
 **With their third LP, Zement deliver neo-krautrock/psychedelic at its best – perfectly composed with beautiful techno borrowings. "Rohstoff" is a thoroughly danceable record that fits well into our times**.

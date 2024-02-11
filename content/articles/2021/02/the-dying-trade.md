@@ -4,16 +4,11 @@ excerpt: Der neueste Tierrechtsfilm trägt den Namen "The Dying Trade" ("Das
   Geschäft mit dem Tod). Produziert hat ihn der Sohn einer Metzger-Familie.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_the-dying-trade-fb.png__l.jpg
 isAffiliate: false
-path: /2021/02/the-dying-trade/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBgcF/8QAKxAAAgEDAgUDAwUAAAAAAAAAAQIDBAURABIGEyExUQdBgSIjwRQVFjKR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQBAwX/xAAfEQACAgIBBQAAAAAAAAAAAAABAgADESESMTNRccH/2gAMAwEAAhEDEQA/AIUNfXCppoqegji5e2MsWyzxqv8AbOep8nJ1xPVey86C0syzfttsYRyhTtEheYAYPtgA5OOm4edK8O8VtWXK2TRWWTZO5oIfvAjewywx3zjr7eNaLd+E4alkqKuvrZ4W+5KrMOzYI2jHYHuD+NZldbK/LpiHZcmgRK9w7wv/ABc3KFIzUUsxiMAVsjLA8wAnuAQp+DpmMTyRSS1GKmc8/bGjAb1fGMeO2PjV7nmjt9qg/XKro7qksZAKhm6ED/CPjWTcfT3uh4kqbPQmCJaRjUU8iLtcw8sspJJwSF3dPIOoepmPImAlqsSoGpWvTSkjgNqm50c7QziueCJvqTfG8YBHsw+g9POfY61a9cS0jXCemWpQnkRjljLSZPc7QOoyB1GffRo01YcMSINdQtbDRa83Ghrr7urr3T0FDRxpWMs25nZ3JYEgAfAP50v6sUcVTWWyotbs91eJo5KhSEUwHp9bdsnLKO56nRo1Y64rV/MSbvPUNAE+9YP2f//Z
 typeName: Filmtipp
 isWerbung: false
-fileName: 2021-02---the-dying-trade.md
-slug: the-dying-trade
-errors: {}
 date: 2021-02-08T11:54:17.000Z
 focusKeyword: The Dying Trade
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_the-dying-trade-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_the-dying-trade-1__m.jpg
 title: '"The Dying Trade"'
@@ -32,6 +27,7 @@ labels:
   - Tierrechtsfilm
   - Vegane Filme
 language: de
+
 ---
 
 **Der neueste Tierrechtsfilm trägt den Namen "The Dying Trade" ("Das Geschäft mit dem Tod). Produziert hat ihn der Sohn eines Schlachthof-Mitarbeiters.**

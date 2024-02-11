@@ -1,15 +1,15 @@
 ---
 date: 2015-09-09T12:09:31.000Z
-slug: jeder-kanns-brot-veganes-vollkornbrot-rezept
-path: /2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/
 type: Artikel
 typeName: Rezept
 title: Jederkanns-Brot
 seoTitle: Jederkanns-Brot - Veganes Vollkornbrot-Rezept
 ogTitle: Jederkanns-Brot - Veganes Vollkornbrot-Rezept
-description: Heute habe ich mir ein Vollkornbrot ausgedacht, das wirklich jeder innerhalb kurzer Zeit mit geringem Aufwand nachbacken kann. Natürlich ist es vegan.
-excerpt: Heute Abend gibt es bei uns Zucchinisuppe. Als Beilage habe ich mir ein kleines Vollkornbrot ausgedacht, das Ihr ganz schnell nachbacken könnt.
-fileName: 2015-09---jederkanns-brot.md
+description: Heute habe ich mir ein Vollkornbrot ausgedacht, das wirklich jeder
+  innerhalb kurzer Zeit mit geringem Aufwand nachbacken kann. Natürlich ist es
+  vegan.
+excerpt: Heute Abend gibt es bei uns Zucchinisuppe. Als Beilage habe ich mir ein
+  kleines Vollkornbrot ausgedacht, das Ihr ganz schnell nachbacken könnt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0343__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0343__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAArEAACAQMEAQMCBwEAAAAAAAABAgMEBREAEiExFAYTIkGBIzJCUVJhcaH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAUG/8QAIBEAAgIDAAEFAAAAAAAAAAAAAQMAAhESMRMhQVGR8P/aAAwDAQACEQMRAD8A0u0s1yukor7i1ZUOQz0sK7BsByPj2gQggAnH3JJU1E9XHeIbfR0E8rqfIjMcIVGVj+YbiFI7GTyCeuRrGjWZ7slxeSDyY1kX3FYuzg7gATuAI74OT113pfHUV9VXR1ck/jrRxF4vbjba7qp+LLk565Ck4A1hNsWn15++50SFhQz7/Md2WS+zS1PuQ0Ih3HfLIWJhQjOMjh+OsZOf80VcUauqqqm8Z5YhGvlU8sLujqFwWJI545AUjk/7o30pdrfakVZqhVgrWZ0dwFX3SOURgRnPPGOP+aLuF4tV0iano6qGWXeuY4pMGIZILMT9+u8canBK77VEa9Q2utpz6V556uoSkZGqEMqphsqxbPxP0IwR1yDyNUfpC6oaRoKcSykFGKCNVdMqAVwBjO4HI4J0n9S0nlTw1lJNH5M3aM7Ak95yowqd7WwcZ+2kkNb7chmeqlt9bLEaeUsuGOf5EYyMdMP3OrHJxzkmQ8XGD2Ul0NooPUED/gxrJBJDXRVUWYwuwHcq9DvnB7A75OqZ4YWoFipIKVITsYGenHxIIIyOC3XQ61BXt47la44KCRlqbare3GJFZJYmTDIDzySAeR2P70yp7m1Lb0NS8jT7ERSqh3BOAGUfqXJORj6Y0fhszGsWzqqB2n//2Q==
@@ -22,7 +22,6 @@ labels:
   - Rezept Brot
   - Rezept Brot vegan
   - vegan
-
   - veganes Brot
   - veganes Vollkornbrot
   - Vollkornbrot
@@ -30,12 +29,11 @@ labels:
   - Vollkornbrot Rezept leicht
   - Vollkornbrot Rezept vegan
 focusKeyword: Vollkornbrot
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Einfaches veganes Vollkornbrot
+
 ---
 
 **Heute Abend gibt es bei uns Zucchinisuppe. Als Beilage habe ich mir ein kleines Vollkornbrot ausgedacht, das Ihr ganz schnell nachbacken könnt. Ich habe ihm den klangvollen Namen Jederkanns-Brot gegeben.**

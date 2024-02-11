@@ -1,15 +1,16 @@
 ---
 date: 2014-09-10T07:14:18.000Z
-slug: sulawesi-on-the-road-and-inside-indonesia
-path: /2014/09/sulawesi-on-the-road-and-inside-indonesia/
 type: Artikel
 typeName: Interview
 title: Indojunkie Gründerin Petra Hess
 seoTitle: Sulawesi - On The Road And Inside Indonesia - Interview
 ogTitle: Sulawesi - On The Road And Inside Indonesia
-description: Sulawesi - Die Liebe zu dieser ganz besonderen Insel in Indonesien verbindet die beiden Reisebloggerinnen Petra und Melissa. Ich habe sie interviewt.
-excerpt: Sulawesi - Die Liebe zu dieser ganz besonderen Insel in Indonesien verbindet die beiden Reisebloggerinnen Petra und Melissa. Ich habe sie interviewt.
-fileName: 2014-09---indojunkie-gruenderin-petra-hess.md
+description: Sulawesi - Die Liebe zu dieser ganz besonderen Insel in Indonesien
+  verbindet die beiden Reisebloggerinnen Petra und Melissa. Ich habe sie
+  interviewt.
+excerpt: Sulawesi - Die Liebe zu dieser ganz besonderen Insel in Indonesien
+  verbindet die beiden Reisebloggerinnen Petra und Melissa. Ich habe sie
+  interviewt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_img_6860__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_img_6860__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBgcF/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDBBEABRIGIUEHFDEiIzJRYXGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAMFAv/EACYRAAECAgkFAAAAAAAAAAAAAAEAAgNxBBESEyEzYYHBMkGx0fD/2gAMAwEAAhEDEQA/ALnZq79WWJ9oo2rSMgZhLLHyRiewxxyxHz/GdZ5J6mXozDJLQlaWxlqyQPGC6g/UeQjPfzjxpuj17ZtxK098115gfngk98Y+dO16Ow2aa9QxWZKsgDU5oMq4y6ZaVFYHGWw2MDJ7HUa1d4OH2yoQgIpKbtesCx7ZEu27PbaNFEsstmcBpYsgDgUVvqZiRg4A7asPTG5WuqtuS/faXb66yyJJQgSMtlSuPujschvkAH5HbVN6q27puPbUr7IKlnaHgXjMzF7UUyEBQG7FQwLdx5GNTv7nNU6W9ztrSBqcwjdRkgJwDFuRzyOTknwM/rRW2IGluFeiHCwDosgusyMQhKgoSQDjJ7a1Do+GKOToaWONElkuWubqoBbiX45PnHj9aNGm0vLO/gpNC6zLkLs+qteCr75qsMcLSGmzmNQpYmUZJx8nTVXv6SQufzM0ZLeSTIqn/VJH9EjRo1mHltl7Tn958Bf/2Q==
@@ -33,12 +34,11 @@ labels:
   - Sulawesi
   - Traveller
 focusKeyword: Sulawesi
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Sulawesi - On The Road And Inside Indonesia
+
 ---
 
 **Petra und Melissa sind zwei Bloggerinnen, die eine große Schwäche für Indonesien vereint. Sie haben das Land bereist, seine Natur, die Leute und die Besonderheiten kennengelernt.**

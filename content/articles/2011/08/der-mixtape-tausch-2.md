@@ -1,19 +1,20 @@
 ---
-date: 2011-08-28T10:51:38.000+00:00
-slug: der-mixtape-tausch-2
-path: '/2011/08/der-mixtape-tausch-2/'
+date: 2011-08-28T10:51:38.000Z
 title: Die Post ist da!
 seoTitle: Die Post ist da - Mixtape-Tausch Teil 2/2
 ogTitle: Die Post ist da - Mixtape-Tausch Teil 2/2
-description: Die meisten Bands kannte ich noch nicht, also eine wunderbare Möglichkeit für mich neue Musik kennen zu lernen und meinen musikalischen Horizont zu erweitern.
-excerpt: Die meisten Bands kannte ich noch nicht, also eine wunderbare Möglichkeit für mich neue Musik kennen zu lernen und meinen musikalischen Horizont zu erweitern.
-fileName: 2011-08---die-post-ist-da.md
+description: Die meisten Bands kannte ich noch nicht, also eine wunderbare
+  Möglichkeit für mich neue Musik kennen zu lernen und meinen musikalischen
+  Horizont zu erweitern.
+excerpt: Die meisten Bands kannte ich noch nicht, also eine wunderbare
+  Möglichkeit für mich neue Musik kennen zu lernen und meinen musikalischen
+  Horizont zu erweitern.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_10__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_10__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcI/8QAKBAAAgEEAAYCAQUAAAAAAAAAAQIDAAQFEQYSEyExURRBMiJhYnKB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQQAAgMF/8QAIBEAAgICAAcAAAAAAAAAAAAAAAECERIhAxMxQYGx8P/aAAwDAQACEQMRAD8A56sYYjDG8sYZXdkLnyp+qcuFstLhbqBldxZR87vGjlUJK6/Het+O9KmGZfikMGJ2SfXnt/tWE3UWC4WccnTXmBJ/JaXdt0dSCiuC97a+XmvaseMNnMxc4+O/kyIV764kgjhnVemESMyHRHffMVUD78VfcKXd9lseDHDE9xbGMPzMArhgWBBPg71sVRQ/GsLW1s52UXFphldFZOZutcSguw9Mqug99+1OfB+NxknClqoDoXZ5C6uqOdO4Gz/X37+qkpYoSUXJ0YRYTJbY6MCIM5DNzE/yIqCTIPcr0XRe/wCgN9gHtRRWmK6h5s6xvQ5ZbJXS3c8N2YpWmuflStGhjDERhEXWzpV1sCtxx9okcEUKFlSJFQaJ8Aa9/tRRQaKx7n//2Q==
-ogImage:
+ogImage: null
 labels:
-  - '2011'
+  - "2011"
   - Bands
   - Beastie Boys
   - Beulah
@@ -58,12 +59,11 @@ labels:
   - Yo La Tengo
   - serie:Playlists
 focusKeyword: Mixtape
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Der Mixtape-Tausch Teil 2/2
+
 ---
 
 ** [...Teil 1](/2011/08/der-mixtape-tausch/) Erstmal ein ganz großes Dankeschön an Ginsberg für sein wunderbares Mixtape. Die Musik darauf trifft wirklich sehr genau meinen Geschmack. Die meisten Bands kannte ich noch nicht, also eine wunderbare Möglichkeit für mich neue Musik kennen zu lernen und meinen musikalischen Horizont zu erweitern.**

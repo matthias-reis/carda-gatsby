@@ -21,7 +21,6 @@ labels:
   - You're Jovian
 language: en
 date: 2020-04-05T12:07:09.000Z
-slug: from-overseas-interview-en
 typeName: Interview
 title: From Overseas
 subTitle: Post-Rock From La Réunion
@@ -38,6 +37,7 @@ focusKeyword: From Overseas
 advertisement: false
 affiliate: false
 languageLink: /2020/04/from-overseas-interview
+
 ---
 
 **From Overseas - what a beautiful name for a music project. Musician Kévin Séry is originally from the French overseas territory La Réunion. With his guitar and his sophisticated loop techniques, he creates a magical sound.**

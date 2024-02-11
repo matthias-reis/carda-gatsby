@@ -1,13 +1,13 @@
 ---
 date: 2017-03-22T11:30:27.000Z
-slug: der-internationale-weltwassertag-2017
-path: /2017/03/der-internationale-weltwassertag-2017/
 title: Der Internationale Weltwassertag 2017
 seoTitle: Der Internationale Weltwassertag 2017 - Abwasser als Ressource
 ogTitle: Der Internationale Weltwassertag 2017 - Abwasser als Ressource
-description: Jedes Jahr findet am 22. März der Internationale Weltwassertag statt. Der diesjährige Weltwassertag steht unter dem Motto "Abwasser als Ressource".
-excerpt: Jedes Jahr findet am 22. März der Internationale Weltwassertag statt. Der diesjährige Weltwassertag steht unter dem Motto "Abwasser als Ressource".
-fileName: 2017-03---der-internationale-weltwassertag-2017.md
+description: Jedes Jahr findet am 22. März der Internationale Weltwassertag
+  statt. Der diesjährige Weltwassertag steht unter dem Motto "Abwasser als
+  Ressource".
+excerpt: Jedes Jahr findet am 22. März der Internationale Weltwassertag statt.
+  Der diesjährige Weltwassertag steht unter dem Motto "Abwasser als Ressource".
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_9571503392_a58c4b6d6c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_9571503392_a58c4b6d6c_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBgEEBf/EACgQAAEEAAUDAwUAAAAAAAAAAAECAwQRAAUSITEGE0EiYXEHFFGBof/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAQIDBv/EACMRAAAEBQQDAAAAAAAAAAAAAAABAgMEBREhQRIxgfAicbH/2gAMAwEAAhEDEQA/AO9G66hxpbbOiLIOo3pSBqvwSdhXxiePOaS+SpyyoXoINgkXXzhfSjGWSUqTGYQe2VNLB1enfarHG/nfGVSG2Y0mfDbKUxY5UFpcWFagPQTqPk8kD9YfNxCU1Mi9jnly7TYld5DUbk6WlqUtptJOwWa8cj840c76hXkzbCghKO8SgLcSSkCvYX5GFLL6kyyR1vlmZ/eZqjIER0MriSwguly7KqbJTV76udqxf/qjIbyrN40dLusqaS8lbagSklRqieKF2DzizUch9KtOBLstchnEEvY+AoI7iHIzymEKYUXkpBSsmticSSHVuZeGXVFbNBGmyPN6uebHIwYMYpKtjyDHPGhlgVW+5mEdg7I7prfgb0P7hl9X5mvNJ0VUhAHbaLQCa4Hi6urF+14MGAZbbXTu4YTe6mzPFfhD/9k=
@@ -27,12 +27,11 @@ labels:
   - Wasser sparen
   - Weltwassertag
 focusKeyword: Weltwassertag
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Abwasser als Ressource
+
 ---
 
 **Seit 1993 findet jedes Jahr am 22. März der Internationale Weltwassertag statt. Damit soll daran erinnert werden, dass Wasser die Grundlage für das Leben auf der Erde ist.**

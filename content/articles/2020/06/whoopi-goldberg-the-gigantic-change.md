@@ -4,16 +4,11 @@ excerpt: Whoopi Goldberg hat jetzt dem Klimakurzfilm vom Extinction Rebellion
   "The Gigantic Change" ihre Stimme geliehen. Er spielt im Jahr 2050.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_06_whoopi-goldberg-fb.png__l.jpg
 isAffiliate: false
-path: /2020/06/whoopi-goldberg-the-gigantic-change/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwUICf/EACoQAAIBAwMEAQIHAAAAAAAAAAECAwQFEQAGIQcSMUEiE1EVMjNCYYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADETESQf/aAAwDAQACEQMRAD8AXeuO7RV0FutNnmjNvm7pKtoRw7rjsjLexjLY98fbSHSWExWA3QVpWvQmSOnXyVGCPHOTyNO3VTaMlkse1jcKwh7rVSNIqrhYYwi9vny3yJ/vGNQoUq/wWUWmohSFKaSSGWaYL+mMlQQMMTjAz744zolzFSFWLorVgzMJE6g3KnvN8lqCsRieGLsSkRYVz9MHPx5zzjzpUgqlppO+KEhghT5TOw7SPBBOD/mrGtvTWS5dFJt3QTutbTrLVpGD3CaBGKurKfysvYxBB5HBHsU+9YCcg5H3xp4KeQMk4q+9m5m/9hw712tt+mutUYqq2TorSiLvWQMBHIGGRgHAOc8axWzemVusW8VEarLa7U08ZglQuZDJ2MjH1gePH7dGjRmUEjY0MQDn2P8AeqOksuxLtTW6mWOhpbfVMlPGMjBjdiAP5JOufy0tQqopgkBCjIIx60aNIrUN2GsbDP/Z
 typeName: Filmtipp
 isWerbung: false
-fileName: 2020-06---whoopi-goldberg-in-extinction-rebellion-film.md
-slug: whoopi-goldberg-the-gigantic-change
-errors: {}
 date: 2020-06-18T07:37:32.000Z
 focusKeyword: Whoopi Goldberg
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_whoopi-goldberg__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_whoopi-goldberg__m.jpg
 title: Whoopi Goldberg in Extinction Rebellion Film
@@ -29,6 +24,7 @@ labels:
   - Klimawandel
   - Whoopi Goldberg
 language: de
+
 ---
 
 **Whoopi Goldberg hat sich jetzt für einen neuen Kurzfilm zum Thema Klimaschutz mit den Aktivist\*innen von Extinction Rebellion zusammengetan.**

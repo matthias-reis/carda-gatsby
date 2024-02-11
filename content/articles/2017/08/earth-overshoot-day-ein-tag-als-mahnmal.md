@@ -1,13 +1,14 @@
 ---
 date: 2017-08-02T14:50:44.000Z
-slug: earth-overshoot-day-ein-tag-als-mahnmal
-path: /2017/08/earth-overshoot-day-ein-tag-als-mahnmal/
 title: Earth Overshoot Day 2017
 seoTitle: Earth Overshoot Day - Ein Tag als Mahnmal - Wir beuten unsere Erde aus
 ogTitle: Earth Overshoot Day - Ein Tag als Mahnmal - Wir beuten unsere Erde aus
-description: Heute ist Earth Overshoot Day - Zeit, über unser Verhalten nachzudenken. Wir leben, als hätten wir 1,7 Erden zur Verfügung. Das kann nicht so weitergehen.
-excerpt: Heute ist Earth Overshoot Day - Zeit, über unser Verhalten nachzudenken. Wir leben, als hätten wir 1,7 Erden zur Verfügung. Das kann nicht so weitergehen.
-fileName: 2017-08---earth-overshoot-day-2017.md
+description: Heute ist Earth Overshoot Day - Zeit, über unser Verhalten
+  nachzudenken. Wir leben, als hätten wir 1,7 Erden zur Verfügung. Das kann
+  nicht so weitergehen.
+excerpt: Heute ist Earth Overshoot Day - Zeit, über unser Verhalten
+  nachzudenken. Wir leben, als hätten wir 1,7 Erden zur Verfügung. Das kann
+  nicht so weitergehen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_16268715501_7356eaa87c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_16268715501_7356eaa87c_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMHBgUI/8QALBAAAgIBBAEDAgUFAAAAAAAAAQIDEQQABRIhMQYTQQdRFBUiI3EzQmGxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAACBAH/xAAgEQACAQIHAQAAAAAAAAAAAAABAgADBBESEyEiMUHw/9oADAMBAAIRAxEAPwDzvgbPPmRR/uqhkBKRtYsfHfjvv+KJPjXSm9MssqAO7K7cxIsdK0Nf1E+4JBA++rhNsPpn03JFj7heWshJ4wkBxyAjTsCgOHK/HZBrs3kt9gxtvzHEUkkuHEQyOzEc1quJ+QRXHrxWpa1fT4rhj95HDTPbP9Nc/OjV0hR1yFLKGJHsx8lqVj8X/wB+9DVDk+jG1SQti7PI+Xm46c8iampnIYgBR0BYoEMe/tVFuw7/AJmJtkMeFBHinITl7zI0zceuhYsKGBurvx8aNq3ncY5chcjccSOci44poDBGRyJNMK66Bo14A7rS293TJys3KIWMf6DjXHg/O5wuVlhmaMTAMqsP7iDfI/zpHqLfW3b1HmSZ2LBI2ExEZqiSqnyR5Fm6/wAaNGpCMtJQPYJuZRMFkXbpsf209oRxo6BQFZQWIUCv0rXVD/eonvW+wYma65eB+LgNq0XvcFstQK0LFXo0at0UcgsOpq7z/9k=
@@ -21,12 +22,11 @@ labels:
   - overshoot
   - vegan
 focusKeyword: Earth Overshoot Day
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ein Tag als Mahnmal
+
 ---
 
 **Die Menschheit lebt, als hätte sie 1,7 Erden zur Verfügung. Am heutigen Earth Overshoot Day überschreitet die globale Nachfrage nach Ressourcen die "Nachproduktion" der Erde.**

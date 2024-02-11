@@ -1,13 +1,12 @@
 ---
 date: 2021-01-06T18:00:28.000Z
-slug: mikroben-protein-als-fleischersatz
-path: /2021/01/mikroben-protein-als-fleischersatz/
 title: Mikroben-Protein als Fleischersatz
 seoTitle: Mikroben-Protein als Fleischersatz – Das Nahrungsmittel der Zukunft?
 ogTitle: Mikroben-Protein als Fleischersatz – Das Nahrungsmittel der Zukunft?
-description: Lust, im neuen Jahr mal was richtig Ausgefallenes zu probieren? Wie wäre es mit Mikroben-Protein? Es wurde jetzt als Fleischersatz entdeckt.
-excerpt: Lust, im neuen Jahr mal was richtig Ausgefallenes zu probieren? Wie wäre es mit Mikroben-Protein? Es wurde jetzt als Fleischersatz entdeckt.
-fileName: 2021-01---mikroben-protein-als-fleischersatz.md
+description: Lust, im neuen Jahr mal was richtig Ausgefallenes zu probieren? Wie
+  wäre es mit Mikroben-Protein? Es wurde jetzt als Fleischersatz entdeckt.
+excerpt: Lust, im neuen Jahr mal was richtig Ausgefallenes zu probieren? Wie
+  wäre es mit Mikroben-Protein? Es wurde jetzt als Fleischersatz entdeckt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_mikroben-protein__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_mikroben-protein__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECA//EACsQAAEDAwMCBAcBAAAAAAAAAAIBAwQABREGEiExQRRRYYEVFiIjMnGxc//EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAmEQACAQMCBAcAAAAAAAAAAAABAhEAAyEEBRIVkbFBUWFxweHw/9oADAMBAAIRAxEAPwCtFYLdNistu3l4haFSEmYSFz7H0wnetHLBp+a66yt0uG40EtgwQZHhMdVJf7VqKdHFFS4wZUtwFzgmVEc9sjnCUjK4zpE5CBmJCBeAJIIfTjp68edZ7maliEXA8SY7A1c2jZRJE+32RS2fpHwcNuKE+W6Djm8CbKOhblXd3LrxU+JpeKWCuTs8jaRDEzjMlt48hdHK9efWrDYNQ3O3EpXh5mbHX8TbijgU8+EytO/GxtSOg2y004G7cf2lEcftelTvud1bkcIK+c46wO1Nt6RHGQQf3r80hgTtcMstNvWW5pxjiS2WE9EJahvydUuvkMyy3NBwqZ8EDme/VEXPtRRVb7PpYkLQpuV4GMdK5fNl1iRgZixrgyjabjD4bwiZ/wA6xd9TXs7eDkhq6Nx3MjuSOTaL7Jj+UUUq3t1m2eJRmmPrbj4IFf/Z
@@ -27,12 +26,11 @@ labels:
   - Vulkan-Pilze
   - Wissenschaft
 focusKeyword: Mikroben-Protein
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Das Nahrungsmittel der Zukunft?
+
 ---
 
 **Habt Ihr Lust, im neuen Jahr mal was richtig Ausgefallenes zu probieren? Wie wäre es mit Mikroben-Protein? Das Nachhaltigkeit-Start-up Nature's Fynd entwickelt derzeit veganen Fleischersatz auf dieser Basis.**

@@ -1,13 +1,14 @@
 ---
-date: 2017-12-13T07:46:33.000+00:00
-slug: veganes-essen-liefern-lassen
-path: '/2017/12/veganes-essen-liefern-lassen/'
+date: 2017-12-13T07:46:33.000Z
 title: Veganes Essen liefern lassen - Geht das?
 seoTitle: Veganes Essen liefern lassen - Geht das? Mein Erfahrungsbericht
 ogTitle: Veganes Essen liefern lassen - Geht das? Mein Erfahrungsbericht
-description: Veganes Essen liefern lassen - Geht das? Hier ist meine Antwort. Sie wird einige erstaunen und viele erfreuen. Ich wünsche Euch allen einen guten Appetit.
-excerpt: Veganes Essen liefern lassen - Geht das? Hier ist meine Antwort. Sie wird einige erstaunen und viele erfreuen. Ich wünsche Euch allen einen guten Appetit.
-fileName: 2017-12---veganes-essen-liefern-lassen-geht-das.md
+description: Veganes Essen liefern lassen - Geht das? Hier ist meine Antwort.
+  Sie wird einige erstaunen und viele erfreuen. Ich wünsche Euch allen einen
+  guten Appetit.
+excerpt: Veganes Essen liefern lassen - Geht das? Hier ist meine Antwort. Sie
+  wird einige erstaunen und viele erfreuen. Ich wünsche Euch allen einen guten
+  Appetit.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Veganes-Essen-liefern-lassen__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Veganes-Essen-liefern-lassen__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDBAURAAYhEhMHFDFRcQgiQRYyYZGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgQFAf/EACMRAAEEAQMEAwAAAAAAAAAAAAEAAgMRBBMhQRIiMjNhofD/2gAMAwEAAhEDEQA/ALVt3xYt72Kske1T0qW6MmrnraeCo6i69KJFIW4bPU3K8AZz7qtq8ONu170f6dTzksUkTO/m2dkHUp6mwQPT2XGlnZlFT3Hw0hV55Ye1ep2lZG6QG7EfbJPsQHHPHrrrtdq+3zQz0ZjcCuTuVFPSrE4RnXI4OSv249salSyuZII4zX75tOOx3uh1z4jbj7VfctbQXG7z1S7et7U4mkMVLIT1JF1kEsTjnPPAORpJrrZQywyiBkhcxYCxKQOon8kAcfOQdNm5rOLfdLmok6xPO0sHJw6FycKecDP+/GqW3bRW3e8U9Kru8kmS6A4RMfj4xz/GgAMfa01SbdR3I2UP0/1k8m8JrCzZt11pZhOmBkNHGzo6n8MCCM+zEae9oW2nm3NCJFLferjJ9GVhzj00aNFme5izCF40t8UsZk3Vc6GWrtyyJNRrNIY45lz2j1H9hGCvxnGtZ+nmuao8QnjaCBU8l3FCqftYsORkn+tGjTzwNUFTuo6JFr//2Q==
@@ -24,13 +25,12 @@ labels:
   - Veganes Essen
   - veganes Essen liefern lassen
 focusKeyword: Veganes Essen liefern lassen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Mein Erfahrungsbericht
 affiliate: true
+
 ---
 
 **"Kannst Du Dir als Veganerin dann auch einfach mal ne Pizza bestellen, wenn Du nach einem langen Tag abends keine Lust mehr hast, was zu kochen?". Das wurde ich unlängst gefragt. Die gute Nachricht ist: Ja, das geht. Immer besser sogar!**

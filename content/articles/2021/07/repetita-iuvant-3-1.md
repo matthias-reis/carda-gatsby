@@ -1,12 +1,14 @@
 ---
 templateKey: article
 date: 2021-07-23T09:48:05.001Z
-slug: repetita-iuvant-3-1
 typeName: Beitrag
 title: Repetita Iuvant – "3+1"
 subTitle: Quadrofonische Klangkunst
 seoTitle: Repetita Iuvant – "3+1" – Quadrofonische Klangkunst – Post-Rock Review
-description: Die neue EP von Repetita Iuvant "3+1" ist für die Post-Rock-Band die natürliche, musikalische und mathematische Konsequenz ihres Werks "3" von 2020. Sie schlagen damit das nächste Kapitel ihrer Trilogie auf, die zusammen ihre erste LP ergibt.
+description: Die neue EP von Repetita Iuvant "3+1" ist für die Post-Rock-Band
+  die natürliche, musikalische und mathematische Konsequenz ihres Werks "3" von
+  2020. Sie schlagen damit das nächste Kapitel ihrer Trilogie auf, die zusammen
+  ihre erste LP ergibt.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-2-jpg-imagine-080808_5b5b5b_912_684/640.webp
 copyright: Repetita Iuvant
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-fb-png-imagine-f8f8f8_909598_1200_628/640.webp
@@ -29,6 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/07/repetita-iuvant-3-1-en/
+
 ---
 
 **Repetita Iuvant gründeten sich aus einer Gruppe von Freund\*innen, die sich durch ihre Liebe für gute Instrumental-Musik gefunden haben. Ihre neue EP "3+1" ist für sie die natürliche, musikalische und mathematische Konsequenz ihres Werks "3" von 2020. Sie schlagen damit das nächste Kapitel ihrer Trilogie auf. Alle drei Platten werden zusammen ihre erste LP ergeben.**

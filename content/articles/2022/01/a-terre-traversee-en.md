@@ -1,12 +1,16 @@
 ---
 date: 2022-01-31T14:53:29.778Z
-slug: a-terre-traversee-en
 typeName: Review
 title: '"Traversée"'
 subTitle: The new À Terre EP
 seoTitle: À Terre – "Traversée" – Post-Metal Review
-description: À Terre just finished their new EP "Traversée". They are going to release the digital version on February 21st. The CD will follow on March 14th. I was one of the lucky ones who already had the chance to listen to the three songs, and I would now like to recommend them to you.
-excerpt: À Terre just finished their new EP "Traversée". They are going to release the digital version on February 21st. The CD will follow on March 14th. Post-Metal at its best awaits you.
+description: À Terre just finished their new EP "Traversée". They are going to
+  release the digital version on February 21st. The CD will follow on March
+  14th. I was one of the lucky ones who already had the chance to listen to the
+  three songs, and I would now like to recommend them to you.
+excerpt: À Terre just finished their new EP "Traversée". They are going to
+  release the digital version on February 21st. The CD will follow on March
+  14th. Post-Metal at its best awaits you.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-31/a-terre-traversee-jpg-imagine-080808_000000_1024_768/640.webp
 copyright: À Terre
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-31/a-terre-traversee-fb-png-imagine-080808_0d0d0d_1200_628/640.webp
@@ -24,6 +28,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/01/a-terre-traversee/
+
 ---
 
 **À Terre just finished their new EP "Traversée". They are going to release the digital version on February 21st. The CD will follow on March 14th. I was one of the lucky ones who already had the chance to listen to the three songs, and I would now like to recommend them to you.**

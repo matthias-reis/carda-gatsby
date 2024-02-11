@@ -5,17 +5,12 @@ excerpt: Daniel von Smecket hat mir so einiges über die Teemanufaktur und sein
   Interview
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_05_gruener-tee-zitronengrass-minze_800x800__l.jpg
 isAffiliate: false
-path: /2017/05/interview-mit-daniel-weiss-von-smecket/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAGBAj/xAAlEAACAQMEAgIDAQAAAAAAAAABAgMEBREABhIhMUEHExQiMlH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAEQMhEjFRobH/2gAMAwEAAhEDEQA/AFoN73faO25qamt5r4GczEMXDRghPBUeOx5HvXJt/wCQbrvNnsUtsoKCCag4rPXvI8LGMhxy6A4nABwD0dAburDepIpLXUvBIXl4hXaGSUM364OCvSgZBx7OgNk2uStqrhUXWuMtuFO1K3OaScszsAFUxphOx/WesaXkZVW76gXyYl8nVu8t7fdtm9UlioJKKsWT6oCwYlUYCQLgsIypP7YAPj1rAJtW8wR00tC9ueKcBElp8sByOCTyGcjsdePHvXptPjjbt7t1JcK2joLpPGClTNWyzyT/AGKewJFYHoYGDoLdOw9tWe3fm7dtJtlTxTgVYuHYt2q8st4HLz1gD3qQnmdmx6+xoVHNR7ae36CluC1IgRmCu6LxwF45IGsrct0zbVtoqo6Omq0gKSLFLkAYXJ9+Se848941atV5BqplN9zebGvpqrFVTRRzKtVIZyksqycHb+uOFXAPXX+6B3VvvP5tmjto+toWWRpZ+Sno9qoUcTnvIOrVpIATQhxot1P/2Q==
 typeName: Interview
 advertisement: true
 isWerbung: false
-fileName: 2017-05---smecket-gruender-daniel.md
-slug: interview-mit-daniel-weiss-von-smecket
-errors: {}
-date: 2017-05-10T13:04:50.000+00:00
+date: 2017-05-10T13:04:50.000Z
 focusKeyword: Smecket
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_gruener-tee-zitronengrass-minze_800x800__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_gruener-tee-zitronengrass-minze_800x800__m.jpg
 title: Smecket Gründer Daniel
@@ -50,7 +45,9 @@ labels:
   - vegan
   - vegane Ernährung
   - Weißer Tee
+
 ---
+
 **Mein Testbericht zu den tollen Bio-Tees von Smecket fand hier regen Anklang. Somit bin nicht nur ich neugierig, wer genau die Manufaktur in Seelze betreibt und was seine Philosophie ist.**
 
 Ich habe mich daher jetzt mit Daniel zum Interview verabredet und ihm dabei mal ein paar Detailfragen gestellt. Für ihn geht es also in diesem Artikel ums Ganze.

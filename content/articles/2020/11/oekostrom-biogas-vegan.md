@@ -1,24 +1,21 @@
 ---
 ogTitle: Veganer Ökostrom und veganes Biogas - so viel ist möglich
-excerpt: Fragt Ihr Euch manchmal, ob es auch möglich ist, veganen Ökostrom und veganes Biogas für  Eure Wohnung zu beziehen? Hier kommt die Antwort.
+excerpt: Fragt Ihr Euch manchmal, ob es auch möglich ist, veganen Ökostrom und
+  veganes Biogas für  Eure Wohnung zu beziehen? Hier kommt die Antwort.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_11_oekostrom-hamburg-hafen-fb.png__l.jpg
 isAffiliate: false
-path: /2020/11/oekostrom-biogas-vegan/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcB/8QAKBAAAgEDAwQCAQUAAAAAAAAAAQIDAAQRBRIhBhMiMUFRgRUjMjOh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQQCAwX/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIDEf/aAAwDAQACEQMRAD8A2e2sAmwJNyfQI+ab2kMqv/aSAM4+6TyvH+nzFWZSVX+EnIyyjII9YzTiBe3fhYW8RE52ZznzHJPus81MObix2tpejt2kMc8ivISkQBYcBmz9+s/eKo3XstvJ2tL1aS4eO6TcrKgWGQhl8PHlWz5DPGARkVZtY1yzsuqNKsruVI3uY3jVXVt29iNgBHAzg/5Va601Wx0rqfSbK9nRFnVwhwe7A5OFIwCCG8gcj0T8UFiFhNj1a0qMwZMxAEhgqhhnH3U9n1lNHOGnmPaDFDHsH4xt/HNFFMGSq9p9Q6x/fjfvOpOxuVcg7TkZOeCDSfV+u725m79vdFGVkI3O7lNhypwSccn4ooqZzzB03//Z
 isWerbung: false
-fileName: 2020-11---veganer-oekostrom-und-veganes-biogas.md
-date: 2020-11-20T15:03:29.000+00:00
-slug: oekostrom-biogas-vegan
-errors: {}
+date: 2020-11-20T15:03:29.000Z
 title: Veganer Ökostrom und veganes Biogas
 focusKeyword: Ökostrom
 affiliate: true
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hamburg-hafen__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_hamburg-hafen__m.jpg
 subTitle: So viel ist möglich
 seoTitle: Veganer Ökostrom und veganes Biogas - so viel ist möglich
-description: Fragt Ihr Euch manchmal, ob es auch möglich ist, veganen Ökostrom und veganes Biogas für Eure Wohnung zu beziehen? Hier kommt die Antwort.
+description: Fragt Ihr Euch manchmal, ob es auch möglich ist, veganen Ökostrom
+  und veganes Biogas für Eure Wohnung zu beziehen? Hier kommt die Antwort.
 labels:
   - Biogas
   - Erdwärme
@@ -40,6 +37,7 @@ labels:
   - Ökostrom
   - Ökogas
 language: de
+
 ---
 
 **Schon seit langen Jahren beziehe ich Strom über Green Planet Energy (früher Greenpeace Energy). Das hat verschiedene Gründe. Unter anderem möchte ich natürlich meinen CO<sub>2</sub>-Verbrauch gering halten und die Atomlobby nicht unterstützen. Der Ökostrom ist für mich aber auch direkt mit Ethik und Tierrechten verbunden. Hier ein paar Fakten dazu.**

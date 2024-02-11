@@ -1,12 +1,16 @@
 ---
 date: 2022-10-13T15:59:19.992Z
-slug: stryfe-interview
 typeName: Interview
 title: Stryfe im Interview
 subTitle: Unsere Release-Show haben wir im Whiskey A Go Go gespielt
 seoTitle: Stryfe – "Cursed Theatre" – Metal Interview
-description: Stryfe aus L. A. werden in einem Satz mit Bands wie Tool, System Of A Down oder Karnivool genannt. Jetzt Interview lesen.
-excerpt: Stryfe beschreiben sich selbst als Metal-Band mit lebendigen Sound, geprägt von Heavy Rock Akzenten mit einschmeichelnden Akkordarrangements und kraftvollen, fesselnden Vocals. Ihr progressiver Sound ist melodisch und emotional – stilistisch beeinflusst von Genres wie Death Metal bis hin zu armenischer Klassik- und Folk-Musik.
+description: Stryfe aus L. A. werden in einem Satz mit Bands wie Tool, System Of
+  A Down oder Karnivool genannt. Jetzt Interview lesen.
+excerpt: Stryfe beschreiben sich selbst als Metal-Band mit lebendigen Sound,
+  geprägt von Heavy Rock Akzenten mit einschmeichelnden Akkordarrangements und
+  kraftvollen, fesselnden Vocals. Ihr progressiver Sound ist melodisch und
+  emotional – stilistisch beeinflusst von Genres wie Death Metal bis hin zu
+  armenischer Klassik- und Folk-Musik.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-13/stryfe-interview-jpeg-imagine-080808_302c2a_1024_768/640.webp
 copyright: Stryfe
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-13/stryfe-interview-fb-jpeg-imagine-080808_34302e_1200_628/640.webp
@@ -28,6 +32,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/10/stryfe-interview-en/
+
 ---
 
 **Stryfe beschreiben sich selbst als Metal-Band mit lebendigen Sound, geprägt von Heavy Rock Akzenten mit einschmeichelnden Akkordarrangements und kraftvollen, fesselnden Vocals. Ihr progressiver Sound ist melodisch und emotional – stilistisch beeinflusst von Genres wie Death Metal bis hin zu klassischen armenischen Klängen.**

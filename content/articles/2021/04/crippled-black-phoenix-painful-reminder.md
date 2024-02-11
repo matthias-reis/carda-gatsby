@@ -1,7 +1,6 @@
 ---
 templateKey: article
 date: 2021-04-29T11:19:12.000Z
-slug: crippled-black-phoenix-painful-reminder
 typeName: Review
 title: '"Painful Reminder" von Crippled Black Phoenix'
 subTitle: Erinnerung an SNFU Sänger Mr. Chi Pig
@@ -33,6 +32,7 @@ affiliate: false
 language: de
 languageLink: /2021/04/crippled-black-phoenix-painful-reminder-en
 copyright: Crippled Black Phoenix
+
 ---
 
 **Crippled Black Phoenix haben gerade ihre neue Single "Painful Reminder" veröffentlicht. Dabei handelt es sich um eine Cover-Version des SNFU Songs. Für die Umsetzung haben sich CBP Unterstützung vom Sänger und Texter Joel Segerstedt geholt, der nun festes Mitglied der Band ist.**

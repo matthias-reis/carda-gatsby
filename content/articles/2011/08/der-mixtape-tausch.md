@@ -1,19 +1,19 @@
 ---
-date: 2011-08-28T07:42:07.000+00:00
-slug: der-mixtape-tausch
-path: '/2011/08/der-mixtape-tausch/'
+date: 2011-08-28T07:42:07.000Z
 title: Die Bastelei
 seoTitle: Der Mixtape-Tausch Teil 1/2 - Die Bastelei
 ogTitle: Der Mixtape-Tausch Teil 1/2 - Die Bastelei
 description: Mit einem anderen Blogger ein Mixtape tauschen. Was für eine geniale Idee!
-excerpt: Nachdem ich mich mit einem anderen Blogger eine ganze Zeit lang über Musik unterhalten hatte und wir uns auch den ein oder anderen Musiktipp via youtube-Link geschickt hatten, kamen wir auf die Idee, wie in den guten alten Zeiten ein Mixtape zusammenzustellen.
-fileName: 2011-08---die-bastelei.md
+excerpt: Nachdem ich mich mit einem anderen Blogger eine ganze Zeit lang über
+  Musik unterhalten hatte und wir uns auch den ein oder anderen Musiktipp via
+  youtube-Link geschickt hatten, kamen wir auf die Idee, wie in den guten alten
+  Zeiten ein Mixtape zusammenzustellen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_img_8192__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_img_8192__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFAwf/xAAnEAACAQMEAgIBBQAAAAAAAAABAgMEBREAEiExBkEUUSITMmFxsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAX/xAAeEQACAgICAwAAAAAAAAAAAAABAgADETEEIUFR8P/aAAwDAQACEQMRAD8AIUNcYVqUr5YRT7gr7iCIZNucn6A4PHr+takkUdwSOSaoYtE0bqI3AV32neG7z2ONHornZaW4z1dUI565oVk2xxBSVz0AeCWyvfoa9I8WNGfE6/yiliqkqKl3nIAQygRnZtAwVAwvOOcDvQRArDA6gp5DlXLecTJtlBBLOV/Sp8lWP5RA4IGfrSnxm2235pkuFrt9fACBtlplkPK9kH1n1/Gu1jkj8g8aW71eVqIZ/wAJGQIxAIBGRgMpz3gc5Gjy36GlrUSWREKuFJIYHAO04xxyBnT3EBg2JXWDZUVH2oNhoKSGKArArFMqrSEuwGOsn1rXhna3QK8WdqZwinaBnvGOs6tWlY4EyuH2Dn3FtP5F8OFhJTNKEXIAl2/6DoJ5Xflut3etamaMmFI9hk3ftz72j761atT2u2pp0qNz/9k=
-ogImage:
+ogImage: null
 labels:
-  - '2011'
+  - "2011"
   - analog
   - And You Will Know Us By The Trail Of Dead
   - Angus & Julia Stone
@@ -56,12 +56,11 @@ labels:
   - Walkman
   - Playlist
 focusKeyword: Mixtape
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Der Mixtape-Tausch Teil 1/2
+
 ---
 
 **Nachdem ich mich mit einem anderen Blogger eine ganze Zeit lang über Musik unterhalten hatte und wir uns auch den ein oder anderen Musiktipp via youtube-Link geschickt hatten, kamen wir auf die Idee, wie in den guten alten Zeiten ein Mixtape zusammenzustellen.**

@@ -1,12 +1,16 @@
 ---
 date: 2023-04-21T11:42:56.174Z
-slug: le-capre-a-sonagli-funeral-rave-party
 typeName: Review
 title: Le Capre A Sonagli – "Funeral Rave Party"
 subTitle: Psychedelische Experimental-Sounds made in Italy
 seoTitle: Le Capre A Sonagli – "Funeral Rave Party" – Review
-description: '"Funeral Rave Party" von  Le Capre A Sonagli ist die psychedelische Platte des Monats. Erfahrt jetzt hier alles darüber und hört gleich rein!'
-excerpt: '"Funeral Rave Party" klingt nicht nur nach der Essenz der beiden Musikstile, die mich wohl Anfang der 2.000er Jahr am meisten beschäftigt haben. Es ist der Name der ersten englischsprachigen EP der italienischen Psychedelic Band Le Capre A Sonagli. Hören lohnt sich!'
+description: '"Funeral Rave Party" von  Le Capre A Sonagli ist die
+  psychedelische Platte des Monats. Erfahrt jetzt hier alles darüber und hört
+  gleich rein!'
+excerpt: '"Funeral Rave Party" klingt nicht nur nach der Essenz der beiden
+  Musikstile, die mich wohl Anfang der 2.000er Jahr am meisten beschäftigt
+  haben. Es ist der Name der ersten englischsprachigen EP der italienischen
+  Psychedelic Band Le Capre A Sonagli. Hören lohnt sich!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-2-jpg-imagine-080808_2b272a_800_600/640.webp
 copyright: Le Capre A Sonagli
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-21/le-capre-a-sonagli-og-jpg-imagine-080808_211c1f_1200_628/640.webp
@@ -24,6 +28,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/04/le-capre-a-sonagli-funeral-rave-party-en
+
 ---
 
 **"Funeral Rave Party" klingt nicht nur nach der Essenz der beiden Musikstile, die mich wohl Anfang der 2.000er Jahr am meisten beschäftigt haben. Es ist der Name der ersten englischsprachigen EP der italienischen Psychedelic Band Le Capre A Sonagli. Hören lohnt sich!**

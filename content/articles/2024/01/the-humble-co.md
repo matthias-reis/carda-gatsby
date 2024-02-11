@@ -1,14 +1,19 @@
 ---
 date: 2024-01-22T14:32:12.086Z
-slug: the-humble-co
 typeName: Produkttest
-title: 'Vegane Zahnpasta von The Humble Co.'
-subTitle: 'Frische Zähne mit minziger Zahncreme im Glas und in der Tube'
-seoTitle: 'Vegane Zahnpasta von The Humble Co. im Test'
-description: 'Vegane Zahnpasta mit schonenden Inhaltstoffen und einem ordentlichen Flourid-Gehalt, die von Zahnmediziner*innen empfohlen wird – Ihr habt sie gefunden! Holt Euch letzt alle Infos!'
-excerpt: 'Vegane Zahnpasta mit schonenden Inhaltstoffen und einem ordentlichen Flourid-Gehalt – danach bin ich immer auf der Suche. Die Zahncreme, die ich für diesen Artikel getestet habe, wird sogar von Zahnärzt*innen empfohlen und Ihr spendet beim Kauf einen kleinen Betrag. Lest am besten gleich hier, was es damit auf sich hat.'
+title: Vegane Zahnpasta von The Humble Co.
+subTitle: Frische Zähne mit minziger Zahncreme im Glas und in der Tube
+seoTitle: Vegane Zahnpasta von The Humble Co. im Test
+description: Vegane Zahnpasta mit schonenden Inhaltstoffen und einem
+  ordentlichen Flourid-Gehalt, die von Zahnmediziner*innen empfohlen wird – Ihr
+  habt sie gefunden! Holt Euch letzt alle Infos!
+excerpt: Vegane Zahnpasta mit schonenden Inhaltstoffen und einem ordentlichen
+  Flourid-Gehalt – danach bin ich immer auf der Suche. Die Zahncreme, die ich
+  für diesen Artikel getestet habe, wird sogar von Zahnärzt*innen empfohlen und
+  Ihr spendet beim Kauf einen kleinen Betrag. Lest am besten gleich hier, was es
+  damit auf sich hat.
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-22/the-humble-co-sounds-vegan-com-2-jpg-imagine-181828_76736f_2048_1536/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-22/the-humble-co-soundsvegan-com-og-jpg-imagine-181828_8c8980_1200_628/640.webp
 labels:
   - Zahnpasta
@@ -19,10 +24,11 @@ labels:
   - Zahngesundheit
   - Zähne
   - vegan
-focusKeyword: 'Vegane Zahnpasta'
+focusKeyword: Vegane Zahnpasta
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **The Humble Co. ist ein schwedisches Unternehmen, bei dem sich alles um Nachhaltigkeit dreht. Es geht schon von Anfang an darum, möglichst umweltfreundliche Produkte zu entwickeln und den Planeten damit etwas schöner zu machen. Ihr kennt vermutlich schon das Signature-Produkt von The Humble Co. – die kompostierbare Zahnbürste. Heute möchte ich Euch passend dazu mal zwei verschiedene Zahncremes vorstellen und etwas mehr über The Humble Co. erzählen.**

@@ -1,12 +1,16 @@
 ---
 date: 2023-10-17T13:35:58.902Z
-slug: from-overseas-zake-demain-des-l-aube-en
 typeName: Review
 title: From Overseas & Zakè - "Demain, dès l'aube"
 subTitle: New ambient Pearls for the Dark Season
-seoTitle: 'Ambient Review: From Overseas & Zakè – "Demain, dès l''aube"'
-description: "„Demain, dès l'aube‟ - „Tomorrow at Sunrise‟ is a magnificent new album by From Overseas and Zakè. Please enjoy the review and have a listen!"
-excerpt: "„Demain, dès l'aube‟ - „Tomorrow at Sunrise‟ is the powerful new ambient LP by my ambient favourites Kévin Séry, aka From Overseas and Zach Frizzell, aka Zakè. Please enjoy my review and learn more about their way of combining the light sights of life with the darker ones in the most beautiful way."
+seoTitle: "Ambient Review: From Overseas & Zakè – \"Demain, dès l'aube\""
+description: „Demain, dès l'aube‟ - „Tomorrow at Sunrise‟ is a magnificent new
+  album by From Overseas and Zakè. Please enjoy the review and have a listen!
+excerpt: „Demain, dès l'aube‟ - „Tomorrow at Sunrise‟ is the powerful new
+  ambient LP by my ambient favourites Kévin Séry, aka From Overseas and Zach
+  Frizzell, aka Zakè. Please enjoy my review and learn more about their way of
+  combining the light sights of life with the darker ones in the most beautiful
+  way.
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-17/from-overseas-zake-demain-des-l-aube-jpeg-imagine-181818_534943_1024_768/640.webp
 copyright: Overseas & Zakè
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-17/from-overseas-zake-demain-des-l-aube-og-2-jpeg-imagine-181818_403934_1200_630/640.webp
@@ -28,6 +32,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/10/from-overseas-zake-demain-des-l-aube/
+
 ---
 
 **"Demain, dès l'aube" ("Tomorrow at Sunrise") is the name of the new album as a result of the collaboration between my ambient favourites Kévin Séry, aka From Overseas and Zach Frizzell, aka Zakè. The sound artists once again created some beautiful soundscapes—or should I say the base for some beautiful dreams?**

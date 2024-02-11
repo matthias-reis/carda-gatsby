@@ -1,13 +1,14 @@
 ---
 date: 2019-07-16T12:45:29.000Z
-slug: deutscher-selfpublishing-preis-2019-wir-sind-dabei
-path: /2019/07/deutscher-selfpublishing-preis-2019-wir-sind-dabei/
 title: Deutscher Selfpublishing Preis 2019 - wir sind dabei!
 seoTitle: Deutscher Selfpublishing Preis 2019 - "Die Hermetiker" ist dabei!
 ogTitle: Deutscher Selfpublishing Preis 2019 - "Die Hermetiker" ist dabei!
-description: Insgesamt 1.810 Titel wurden für den Deutschen Selfpublishing Preis angemeldet. Um so stolzer wir mit unserem Roman "Die Hermetiker" dabei zu sein.
-excerpt: Insgesamt 1.810 Titel wurden für den Deutschen Selfpublishing Preis angemeldet. Um so stolzer wir mit unserem Roman "Die Hermetiker" dabei zu sein.
-fileName: 2019-07---deutscher-selfpublishing-preis-2019-wir-sind-dabei.md
+description: Insgesamt 1.810 Titel wurden für den Deutschen Selfpublishing Preis
+  angemeldet. Um so stolzer wir mit unserem Roman "Die Hermetiker" dabei zu
+  sein.
+excerpt: Insgesamt 1.810 Titel wurden für den Deutschen Selfpublishing Preis
+  angemeldet. Um so stolzer wir mit unserem Roman "Die Hermetiker" dabei zu
+  sein.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-06-die-hermetiker__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-06-die-hermetiker__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBAMHCP/EACUQAAICAQQBBAMBAAAAAAAAAAECAwQABQYRIRITIjFhI0FRkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABwRAAMBAAIDAAAAAAAAAAAAAAABAhEiYTFRkf/aAAwDAQACEQMRAD8A5uroOBjbtrTbViFHg0rTr0ckjIosxoWZgByFJYH9j/cRop2A6OO+0NyxUtHejLFM7mw0p8VSVWUqo4Mbqw68T2OPn6GbhzL21q+BUVayKUv21pc3VQSDQHeztenpFgWYRDZgWQeqpEnkPczKelHwcQ7CDjnHve+4at/Z9OpUlIaK96jxCqIFX8RAPTEE9kdAfGa6kmZsKct8Fi7KZuVltN9eCKZajdBCw8E9RTyrgsG7+weMMMBMbu7A+cjPyefcee/7ldzhhkR//9k=
@@ -27,12 +28,11 @@ labels:
   - Spannung
   - Urban Fantasy Thriller
 focusKeyword: Deutscher Selfpublishing Preis
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Die Hermetiker" unter den Grafik-Finalist*innen im Juni'
+
 ---
 
 **Insgesamt 1.810 Titel wurden für die Teilnahme am diesjährigen Deutschen Selfpublishing Preis von BOD angemeldet. Um so stolzer sind Matze und ich, dass wir es im Juni mit unserem Roman "Die Hermetiker" es im Juni unter die VLB-TIX Buchvorschau-Finalist\*innen geschafft haben.**

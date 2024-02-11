@@ -1,13 +1,13 @@
 ---
 date: 2015-10-14T10:39:23.000Z
-slug: diy-lippenpflege
-path: /2015/10/diy-lippenpflege/
 title: DIY Lippenpflege
 seoTitle: DIY Lippenpflege - Peeling aus Kokosöl und Rohrzucker
 ogTitle: DIY Lippenpflege - Peeling aus Kokosöl und Rohrzucker
-description: 'Heute verrate ich Euch ein echtes Beautygeheimnis: Meine DIY Lippenpflege aus Kokosöl und Rohrzucker wirkt bei spröden Lippen einfach Wunder!'
-excerpt: Heute möchte ich Euch zeigen, wie Ihr aus ein paar Zutaten eine tolle und sehr wirksame Lippenpflege herstellen könnt.
-fileName: 2015-10---diy-lippenpflege.md
+description: "Heute verrate ich Euch ein echtes Beautygeheimnis: Meine DIY
+  Lippenpflege aus Kokosöl und Rohrzucker wirkt bei spröden Lippen einfach
+  Wunder!"
+excerpt: Heute möchte ich Euch zeigen, wie Ihr aus ein paar Zutaten eine tolle
+  und sehr wirksame Lippenpflege herstellen könnt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Lippenpflege-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Lippenpflege-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYBBQcI/8QAKhAAAQQABQMDBAMAAAAAAAAAAQIDBBEABRIhMQYiQQcTkRQyUXGDobL/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBgME/8QAIBEAAQQCAgMBAAAAAAAAAAAAAQACAxESIQThE1Gx8P/aAAwDAQACEQMRAD8AIUj3g8CuIxBeZUwhbaWUuoABClgj7dRsUPG/4wFmErI88TlBydlCYsZwh5LbegKVSUJQE1WtZB8cnEZ5BhSYmuM0qK42g6Q6pTajwAaIHcdXHmjtQOBjm0XIJEJkH2GYiEyVQi3oX7tdq97Fkrs78fAO3elTxTBtPB2sg6iynMmJrsYsLe+ncUkJRZSg6jY+cAOR1R4TLr1peX9mkBLgJJHdfKf7w1dXZ27IkzHml61S1hwkbEp8gAbcp5/Bwnyluy3fdckqQ4V9xPHgDbnxjqaRQKTmMOPkYS5xA9UD1+ql2/meTZXJyt1yU1TTLalqRYo0Lo3wNqNcjbFOqFGQ2Q2wwHHDqWrQO44u2Fokw3WJA1NvNltYvwoUaxm8/O5uQNvNTopf9gGne4BSR5NAjjB/IDnAYqWgduilD1l6TjERZ8UtMOqcKHihPIqwa8kEH5wtsenKswnZpFYnuOmC8G2k/T6rSsau43sL/eLPqLPJuevMS5SA3BDC3mkAlIcJtAoGjQpW55OH/paW211f1FFQNCHmI0lI/jTf+8awuc0AEpd+UfGyBo7+t7X/2Q==
@@ -32,12 +32,11 @@ labels:
   - vegane Kosmetik
   - vegane Lippenpflege
 focusKeyword: DIY Lippenpflege
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Peeling aus Kokosöl und Rohrzucker
+
 ---
 
 **Ihr kennt das: Kaum wird es draußen kalt und man dreht die Heizung wieder auf, bekommt man spröde Lippen.**

@@ -1,12 +1,17 @@
 ---
 date: 2022-04-04T13:46:57.322Z
-slug: soonago-fathom
 typeName: Review
 title: '"Fathom" von SOONAGO'
 subTitle: Post-Rock gegen rechts
 seoTitle: '"Fathom" von SOONAGO – Post-Rock gegen rechts'
-description: Vor Kurzem haben SOONAGO ihr neues Album "Fathom" vorgestellt. Es ist auf Kapitän Platte erschienen und ist neben der digitalen Version, die es bei allen Musik-Streaming-Plattformen gibt, auch auf CD und Vinyl erhältlich.
-excerpt: Heute stelle ich Euch mal eine Post-Rock-Band aus meiner alten Heimat Bielefeld vor. SOONAGO gibt es seit 2014. Vor Kurzem haben sie ihr neues Album "Fathom" vorgestellt. Es ist auf Kapitän Platte erschienen und ist neben der digitalen Version, die es bei allen Musik-Streaming-Plattformen gibt, auch auf CD und Vinyl erhältlich.
+description: Vor Kurzem haben SOONAGO ihr neues Album "Fathom" vorgestellt. Es
+  ist auf Kapitän Platte erschienen und ist neben der digitalen Version, die es
+  bei allen Musik-Streaming-Plattformen gibt, auch auf CD und Vinyl erhältlich.
+excerpt: Heute stelle ich Euch mal eine Post-Rock-Band aus meiner alten Heimat
+  Bielefeld vor. SOONAGO gibt es seit 2014. Vor Kurzem haben sie ihr neues Album
+  "Fathom" vorgestellt. Es ist auf Kapitän Platte erschienen und ist neben der
+  digitalen Version, die es bei allen Musik-Streaming-Plattformen gibt, auch auf
+  CD und Vinyl erhältlich.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-04/soonago-jpg-imagine-181818_21201f_1024_768/640.webp
 copyright: SOONAGO
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-04/soonago-fb-jpg-imagine-181818_232221_1200_628/640.webp
@@ -25,6 +30,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/04/soonago-fathom-en
+
 ---
 
 **Heute stelle ich Euch mal eine Post-Rock-Band aus meiner alten Heimat Bielefeld vor. SOONAGO gibt es seit 2014. Vor Kurzem haben sie ihr neues Album "Fathom" vorgestellt. Es ist auf Kapitän Platte erschienen und ist neben der digitalen Version, die es bei allen Musik-Streaming-Plattformen gibt, auch auf CD und Vinyl erhältlich.**

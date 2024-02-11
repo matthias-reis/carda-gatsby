@@ -1,13 +1,12 @@
 ---
 date: 2015-10-01T13:53:26.000Z
-slug: diy-handytasche-mit-zugmechanismus
-path: /2015/10/diy-handytasche-mit-zugmechanismus/
 title: DIY Handytasche mit Zugmechanismus
 seoTitle: Handytasche mit Zugmechanismus selber nähen
 ogTitle: Handytasche mit Zugmechanismus selber nähen
-description: Wie versprochen zeige ich Euch heute, wie meine neue Handytasche entstanden ist. Ihr könnt Euch auch ganz leicht selbst eine nähen.
-excerpt: Ich hatte ja schon angekündigt, dass es ich Euch meine neue Handytasche präsentieren würde. Sie ist nun fertig und bereit ins Rampenlicht zu treten.
-fileName: 2015-10---diy-handytasche-mit-zugmechanismus.md
+description: Wie versprochen zeige ich Euch heute, wie meine neue Handytasche
+  entstanden ist. Ihr könnt Euch auch ganz leicht selbst eine nähen.
+excerpt: Ich hatte ja schon angekündigt, dass es ich Euch meine neue Handytasche
+  präsentieren würde. Sie ist nun fertig und bereit ins Rampenlicht zu treten.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Handytasche-2-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Handytasche-2-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUDBgcC/8QAKhAAAgEDAgUEAgMBAAAAAAAAAQIDBAURBiEAEhMxQRQiMlFSgUJhkaH/xAAXAQEBAQEAAAAAAAAAAAAAAAABBQID/8QAIhEAAgMAAQIHAAAAAAAAAAAAAQIAAxEhEkEEMXGhsdHw/9oADAMBAAIRAxEAPwCbUFNXU+pdOyW6vmp4EdzVRbMjIRsSufcdth/3hvYrRqGutRequfp1ednEEk/O4BO3vQAKPpMfvPAOl7caC8y3C8JNJPUuZOjPEB1GX4nm/Fc5GNu3fi8ajuFLQUVZd4k64jp+r01YKWYZwM+CdhxE0BMyXa0ay0DYFrUX6CwU8OmJrcLmHjjklrnX4Y3YKTuc4752z3PCq6XiusVp9VfaWGY09IJqyWmcIvOMAqgP3kkMduHOj9TLqGwxVktJBQ9QlRFzBjIAdpNwDv8A2PHAeqjd2tE1t9DFWLKwgKyKAuH2XLHbvv8ArjCsHboHaNiNWTvtKjDU6iuN6rTQR0luSnxETInPJIGAydgwwe2R+Iz5HHU2nr9JK9UZLXPO6BGlVum7KNgD7R53wfORsMYyW5X2pTVVRc6SplhdpCIyrkMqLsMjtg4JA41XR2vqa8r6S49KG4cvyU4WYDyPo+cf5weJW+sdacj4nCpK3OEkH1/CRVGn7jBLSyVdmt1bMiloC9WZCigjsC42B3xgd/449ze9a7vdppwbraliSHLlmkDK4BGxbJGe+MYyQAM52ZVV7pKOmlAqI4kZGB3G+Rjih3Gqi1bDQ2wxypTNApaaOUB2CKp5QCMDtjJ+uCi5rRpBwecXpFbYH5Pbj6n/2Q==
@@ -25,12 +24,11 @@ labels:
   - Schneidern
   - Tasche Handy
 focusKeyword: Handytasche
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Zum Schutz vor Kratzern und aus Stylegründen
+
 ---
 
 **Ich hatte ja schon angekündigt, dass es ich Euch meine neue Handytasche präsentieren würde. Sie ist nun fertig und bereit ins Rampenlicht zu treten.**

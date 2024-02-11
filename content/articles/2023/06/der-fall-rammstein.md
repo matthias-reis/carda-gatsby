@@ -1,14 +1,17 @@
 ---
 date: 2023-06-18T16:52:50.783Z
-slug: der-fall-rammstein
 typeName: Gastbeitrag
 title: Was der Fall Rammstein mit der Musikwelt macht
 subTitle: Wie machen wir weiter?
 seoTitle: Der Fall Rammstein und die Musikwelt – Gastbeitrag
-description: Der Fall Rammstein hat nicht nur die Musikwelt in Aufruhr versetzt. Lest jetzt ein Statement zum Thema aus einer neuen Sichtweise.
-excerpt: Wann gilt die Unschuldsvermutung endlich auch für Überlebende? Genau das ist der Gedanke, der mir, seit ich das erste Mal von Shelby Lynns Schilderungen hörte und ihre Bilder sah und Texte las, durch den Kopf geht. Lest jetzt einen Gastbeitrag zum Thema.
+description: Der Fall Rammstein hat nicht nur die Musikwelt in Aufruhr versetzt.
+  Lest jetzt ein Statement zum Thema aus einer neuen Sichtweise.
+excerpt: Wann gilt die Unschuldsvermutung endlich auch für Überlebende? Genau
+  das ist der Gedanke, der mir, seit ich das erste Mal von Shelby Lynns
+  Schilderungen hörte und ihre Bilder sah und Texte las, durch den Kopf geht.
+  Lest jetzt einen Gastbeitrag zum Thema.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-18/statement-header-jpg-imagine-181818_2a1416_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-18/statement-og-jpg-imagine-181818_321214_1200_630/640.webp
 labels:
   - Musik
@@ -20,6 +23,7 @@ labels:
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 ---

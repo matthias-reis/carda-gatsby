@@ -1,13 +1,15 @@
 ---
 date: 2021-08-03T13:44:46.507Z
-slug: hafermilch-selber-machen
 typeName: Rezept
 title: Hafermilch selber machen
 subTitle: Mit dem Nussmilchbeutel Pflanzendrinks zaubern
 seoTitle: Hafermilch selber machen – mit Nussmilchbeutel Pflanzendrinks zaubern
-description: 'Hafermilch selber machen – wolltet Ihr das auch schon immer mal ausprobieren? Ich habe gemerkt: Es geht eigentlich ganz einfach. Ihr braucht im Grunde nur zwei Zutaten, Euren Mixer und einen Nussmilchbeutel. Dann kann es auch schon losgehen.'
+description: "Hafermilch selber machen – wolltet Ihr das auch schon immer mal
+  ausprobieren? Ich habe gemerkt: Es geht eigentlich ganz einfach. Ihr braucht
+  im Grunde nur zwei Zutaten, Euren Mixer und einen Nussmilchbeutel. Dann kann
+  es auch schon losgehen."
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-03-ecomonkey-12-jpg-imagine-b8b898_aaa699_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/hafermilch-selber-machen-jpg-imagine-c8c8b8_b2afa3_1200_628/640.webp
 labels:
   - Zero Waste
@@ -26,6 +28,7 @@ focusKeyword: Hafermilch selber machen
 advertisement: false
 affiliate: true
 language: de
+
 ---
 
 **Hafermilch selber machen – wolltet Ihr das auch schon immer mal ausprobieren? Ich habe gemerkt: Es geht eigentlich ganz einfach. Ihr braucht im Grunde nur zwei Zutaten, Euren Mixer und einen Nussmilchbeutel. Dann kann es auch schon losgehen.**

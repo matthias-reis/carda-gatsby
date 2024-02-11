@@ -1,14 +1,18 @@
 ---
 date: 2023-11-07T15:15:00.766Z
-slug: hanni-honigalternativen-vegan
 typeName: Produkttest
-title: 'hanni Honig-Alternativen vegan von bee neo'
-subTitle: 'Lecker süß kochen, backen und schlemmen ohne Bienen'
+title: hanni Honig-Alternativen vegan von bee neo
+subTitle: Lecker süß kochen, backen und schlemmen ohne Bienen
 seoTitle: hanni Honigalternativen vegan aus Hamburg
-description: hanni Honigalternativen vegan – googelt mal das, landet man beim Hamburger Start-up bee neo. Erfahrt jetzt alles über die Produkte und das Unternehmen!
-excerpt: 'Die hanni Honigalternativen (vegan und ohne raffinierten Zucker) haben es ganz schön in sich. Ich habe sie probiert und für gut befunden. Ganz nebenbei habe ich mir das Hamburger Start-up bee neo, von dem die hanni-Produkte stammen, auch direkt mal näher angeschaut.'
+description: hanni Honigalternativen vegan – googelt mal das, landet man beim
+  Hamburger Start-up bee neo. Erfahrt jetzt alles über die Produkte und das
+  Unternehmen!
+excerpt: Die hanni Honigalternativen (vegan und ohne raffinierten Zucker) haben
+  es ganz schön in sich. Ich habe sie probiert und für gut befunden. Ganz
+  nebenbei habe ich mir das Hamburger Start-up bee neo, von dem die
+  hanni-Produkte stammen, auch direkt mal näher angeschaut.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-07/hanni-honigalternativen-30-jpg-imagine-080808_8b6552_2048_1536/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-07/hanni-honigalternativen-vegan-og-jpg-imagine-080808_b48259_1200_628/640.webp
 labels:
   - Ernährung & Gesundheit
@@ -24,6 +28,7 @@ focusKeyword: hanni Honigalternativen vegan
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Wer vegan lebt und es auch gerne mal süß mag, sollte jetzt besser weiterlesen: Ich habe eine sensationell leckere vegane Honig-Alternative entdeckt – sie kommt sogar vollständig ohne raffinierten Zucker aus! Die hanni Produkte von bee neo entstehen auf der Basis von Agavendicksaft und sorgen beim Frühstück für einen sweeten Kick!**

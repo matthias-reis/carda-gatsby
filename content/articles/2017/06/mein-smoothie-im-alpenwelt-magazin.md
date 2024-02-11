@@ -1,13 +1,13 @@
 ---
 date: 2017-06-28T08:15:32.000Z
-slug: mein-smoothie-im-alpenwelt-magazin
-path: /2017/06/mein-smoothie-im-alpenwelt-magazin/
 title: Mein Smoothie im Alpenwelt Magazin
 seoTitle: Mein Smoothie im Alpenwelt Magazin - Sounds Vegan goes Berge
 ogTitle: Mein Smoothie im Alpenwelt Magazin - Sounds Vegan goes Berge
-description: Das Alpenwelt Magazin hat an meine digitale Tür geklopft und gefragt, ob ich einen Smoothie zu ihrem aktuellen Artikel beitragen möchte.
-excerpt: Niemand Geringeres als das Alpenwelt Magazin hat an meine digitale Tür geklopft und gefragt, ob ich vielleicht einen Smoothie zu ihrem aktuellen Artikel beitragen möchte. Natürlich habe ich nicht nein gesagt.
-fileName: 2017-06---mein-smoothie-im-alpenwelt-magazin.md
+description: Das Alpenwelt Magazin hat an meine digitale Tür geklopft und
+  gefragt, ob ich einen Smoothie zu ihrem aktuellen Artikel beitragen möchte.
+excerpt: Niemand Geringeres als das Alpenwelt Magazin hat an meine digitale Tür
+  geklopft und gefragt, ob ich vielleicht einen Smoothie zu ihrem aktuellen
+  Artikel beitragen möchte. Natürlich habe ich nicht nein gesagt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-28-um-10.29.35.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-28-um-10.29.35.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,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
@@ -25,12 +25,11 @@ labels:
   - vegane Rezepte
   - Wandern
 focusKeyword: Alpenwelt Magazin
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Sounds Vegan goes Berge
+
 ---
 
 **Immer wieder kommt es im Internet zu zauberhaften Begegnungen. So klopfte vor kurzem niemand Geringeres als das _Alpenwelt Magazin_ an meine digitale Tür und fragte an, ob ich vielleicht einen Smoothie zu ihrem aktuellen Artikel beisteuern möchte. Natürlich sagte ich nicht nein.**

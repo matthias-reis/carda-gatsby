@@ -1,12 +1,17 @@
 ---
 date: 2021-11-22T09:00:22.688Z
-slug: color-of-time
 typeName: Review
 title: '"Color of Time"'
 subTitle: Das neue Album von Tyresta und From Overseas
 seoTitle: Tyresta und From Overseas – "Color of Time" – Ambient Review
-description: Fans von Ambient und Drone sollten sich das neue Album von From Overseas und Tyresta anhören. "Color of Time" ist ein echtes Highlight und Must-Hear. Für die Geschichte, die es erzählt, sind keine Worte nötig.
-excerpt: 'Bei From Overseas geben sich die guten Nachrichten die Klinke in die Hand. Die gemeinsame LP mit awakened souls ist gerade ein paar Tage alt, da kommt schon die nächste großartige  Kooperation aus der Vinylpresse: "Color of Time" ist in Zusammenarbeit mit Tyresta entstanden. Das Album ist am 19. November erschienen.'
+description: Fans von Ambient und Drone sollten sich das neue Album von From
+  Overseas und Tyresta anhören. "Color of Time" ist ein echtes Highlight und
+  Must-Hear. Für die Geschichte, die es erzählt, sind keine Worte nötig.
+excerpt: 'Bei From Overseas geben sich die guten Nachrichten die Klinke in die
+  Hand. Die gemeinsame LP mit awakened souls ist gerade ein paar Tage alt, da
+  kommt schon die nächste großartige  Kooperation aus der Vinylpresse: "Color of
+  Time" ist in Zusammenarbeit mit Tyresta entstanden. Das Album ist am 19.
+  November erschienen.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/color-of-time-2-jpg-imagine-283828_483a24_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/color-of-time-fb-1-png-imagine-b8c898_a2ac86_1200_628/640.webp
 copyright: Tyresta & From Overseas
@@ -40,6 +45,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/11/color-of-time-en/
+
 ---
 
 **Bei From Overseas geben sich die guten Nachrichten die Klinke in die Hand. Die gemeinsame LP mit awakened souls ist gerade ein paar Tage alt, da kommt schon die nächste großartige Kooperation aus der Vinylpresse: "Color of Time" ist in Zusammenarbeit mit Tyresta entstanden. Das Album ist am 19. November erschienen.**

@@ -5,15 +5,10 @@ excerpt: Die Frauenrechte sollten heute im Fokus stehen. Weltweit wird der
   Geschichte.
 ogImage: null
 isAffiliate: false
-path: /2013/03/die-geschichte-der-frauenrechte/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAmEAACAQMDBAMAAwAAAAAAAAABAgMEBREAEiEGEzFBIiNhFIGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwUBBP/EACARAAAFBAMBAAAAAAAAAAAAAAABAgMRBBIhMRRBYcH/2gAMAwEAAhEDEQA/ANVU2V5qX+bPe7gisrSt9zBUGSTzu8DUa5o1BQJVwXavmQSRAE1DFSC4Ho/uq1VNHWWGK3TglJ4JFl2+Qm5lyB7IJB/rUq/0ENP0fJHTvJM0fa+2QgM+2VMk449f7qXxmzbmMwKpVbhPWzifov3SnmitLXW4dQNR0zSugDSSk53kAALyxOPABOl7UFqY3q6O/mqWkmjEse+ZXB3qMFWwR5zyOR410rb9LabLbu3OkEgmmk7ojDMi91txUH8yOCDjOsjaurJ7lWVMddUmslqJ0ijnBHxxIpKKSSSmeRz7OBoW6FpTRKjMTvwIuudS8aJxMa9DtsvElvnlaqpro2EeLYlBIcHuscg45GNKXjqU11uqaMWm89ydtiMaJ9o+YKknRo10JcMytGKYTN/ew5epDUW6iNMLhBdqJ51xJb5JYJUeRjg4wQeeGH6OdZ/pmmEdzp5rna5YJEdUpoKC3yBN7MF3ySPyQM+AMe/WjRoGqhcEjrQRdK2ZmvvY/9k=
 isWerbung: false
-fileName: 2013-03---die-geschichte-der-frauenrechte.md
-slug: die-geschichte-der-frauenrechte
-errors: {}
 date: 2013-03-08T13:30:13.000Z
 focusKeyword: Frauenrechte
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_neu2__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_neu2__m.jpg
 title: Die Geschichte der Frauenrechte
@@ -42,6 +37,7 @@ labels:
   - Pinakothek der Moderne München
   - Sexismus
 language: de
+
 ---
 
 **Heute sollen die Rechte aller Frauen im Mittelpunkt stehen. Weltweit wird der Internationale Frauentag gefeiert. Zeit für einen kleinen Ausflug in die Geschichte und eine Bestandsaufnahme.**

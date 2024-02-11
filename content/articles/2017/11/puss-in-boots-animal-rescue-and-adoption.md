@@ -4,16 +4,11 @@ excerpt: Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles über
   die Irische Tier-Auffangstation Puss in Boots Animal Rescue and Adoption.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-Puss-In-Boots__l.jpg
 isAffiliate: false
-path: /2017/11/puss-in-boots-animal-rescue-and-adoption/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUHBv/EACoQAAICAQIFBAICAwAAAAAAAAECAwQRAAUGEyEiQQcSMVEjcRQVYXKh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBAgX/xAAiEQACAQIFBQAAAAAAAAAAAAABAgADcQQRITIzEjFRwfD/2gAMAwEAAhEDEQA/AK5/a3NwlrT0dsq8jHfCsbMz4ViQXHah7T95/wCajXGvrTWkW3tNbaoYjNEytMjcxo8jwCVz08+P86Zeo3Hc2w7RsknCqzV7tIzQ3WyQGAUOh+iCWfBPUYI+PmM0eFbfEO72+IHMG3bDKWtvcsDlRr7upCqRlsEkdvTxnQlxLnJuvSQ+Cpg6oM5RNjgi2XZZbEhSzbr1uU0EuBCvM97Fyp8fR8/Omuw15+GuITZ2h4XzRrsP5Cl1cyQo7EgEEdxOB4A/elPFF2ltDpSrzSpPKkPLJwCylWHeT0UfYOkNZ7dSApPZZmlGZ3YgllIwoBAGMKAOnxoTICgZDkTr93tLsxAI8GbB40u7jsda4i2K89r8sUo96yYzj3A9DjxnTTewLO/0YLA5sAtQ4jfuXpKcdD06YGNGjSK8dO8ercj2mD9USW9RIvd1/Anz+pdZTfJHjqKY3ZP9Tjxo0aebetvZmeNxn//Z
 typeName: Interview
 isWerbung: false
-fileName: 2017-11---tierrechtsaktivistin-kara-schott.md
-slug: puss-in-boots-animal-rescue-and-adoption
-errors: {}
 date: 2017-11-12T11:51:27.000Z
 focusKeyword: Puss In Boots
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-Puss-In-Boots__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-Puss-In-Boots__m.jpg
 title: Tierrechtsaktivistin Kara Schott
@@ -39,6 +34,7 @@ labels:
   - Tierschutz
 language: de
 type: Artikel
+
 ---
 
 **( [Hier geht's zu Teil 1/2 des Interviews](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/) ) Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles über die Irische Tier-Auffangstation Puss In Boots, die sie gemeinsam mit ihrer Mutter ins Leben gerufen hat.**

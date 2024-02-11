@@ -1,55 +1,53 @@
 ---
-date: 2018-01-26T11:53:22.000+00:00
-slug: wellness-mit-alkmene
-path: "/2018/01/wellness-mit-alkmene/"
+date: 2018-01-26T11:53:22.000Z
 type: Artikel
 typeName: Produkttest
 title: Wellness-Auszeit mit Alkmene
 seoTitle: Wellness-Auszeit mit Alkmene - Vegane Badezusätze & Lotions im Test
 ogTitle: Wellness-Auszeit mit alkmene - Vegane Badezusätze & Lotions im Test
-description: Ich bin ein großer Badefan. Gerade wenn es draußen so richtig grau ist.
-  Darum hatte ich sehr viel Spaß beim Testen der Alkmene Badezusätze und Lotions.
-excerpt: Ich bin ein großer Badefan. Gerade wenn es draußen so richtig grau ist. Darum
-  hatte ich sehr viel Spaß beim Testen der Alkmene Badezusätze und Lotions.
-fileName: 2018-01---wellness-auszeit-mit-alkmene.md
+description: Ich bin ein großer Badefan. Gerade wenn es draußen so richtig grau
+  ist. Darum hatte ich sehr viel Spaß beim Testen der Alkmene Badezusätze und
+  Lotions.
+excerpt: Ich bin ein großer Badefan. Gerade wenn es draußen so richtig grau ist.
+  Darum hatte ich sehr viel Spaß beim Testen der Alkmene Badezusätze und
+  Lotions.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38980942055_2f1099af36_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38980942055_2f1099af36_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBgECBP/EACYQAAEEAQMEAwADAAAAAAAAAAECAwQRBQAGIRIxQVEHExQjcbH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQA/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAAxEhMZH/2gAMAwEAAhEDEQA/AKZgtiQxtV/N592Qww6AiElki1qNgKII7EjtxxZvVCkrZYnxGFqbCXwbA5KFeib93p5ZZnHzvj7HMY5tTrUZDaUJdUpSujpBtQ48n+vWqRg/jTC5iNDzEzISEFUhxLyEKT0KDayLBqwKAB783yNT1PYzHI1uNtUBgq8x3ydu/fjvHbY29IyrWaalhl9LKmzSTar86XDLLRix3JD7KXHSUDpUClSgaoEWNPDcuKh7r29AxuTEhpHSt8uIdQOpSBQoi+AVEmx596RWe2tksW81Lxjb7+CSsrjyCsKFdRBKqAqyg+PWm1sxG5Opz2Qyc1kpURqK/OkuRmkBtDRdPQlI4ArtWsRJkqPGVHjy5TMdRJU028pKDffgHz596NGmwhNn5shaGgqRI/iv6yHlgovvRvi9QHI5AYz8H7nzA5P0FVjm7/06NGtgQZ//2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38980942055_2f1099af36_z__l.jpg
 labels:
-- Badezusatz
-- Bodylotion
-- Bodypump
-- Botanicals
-- Entspannung
-- Entspannungsbad
-- Fair Fashion & Beauty
-- Fitness
-- Heilkräuter
-- Kosmetik
-- Lavendel
-- Malve
-- Muskelkater
-- Muskelkater loswerden
-- Olive
-- Relax
-- Rosskastanie
-- vegan
-- vegan beauty
-- vegane Kosmetik
-- veganer Badezusatz
-- Wellness
-- Workout
+  - Badezusatz
+  - Bodylotion
+  - Bodypump
+  - Botanicals
+  - Entspannung
+  - Entspannungsbad
+  - Fair Fashion & Beauty
+  - Fitness
+  - Heilkräuter
+  - Kosmetik
+  - Lavendel
+  - Malve
+  - Muskelkater
+  - Muskelkater loswerden
+  - Olive
+  - Relax
+  - Rosskastanie
+  - vegan
+  - vegan beauty
+  - vegane Kosmetik
+  - veganer Badezusatz
+  - Wellness
+  - Workout
 focusKeyword: alkmene
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Vegane Badezusätze und Bodylotions
 advertisement: true
 
 ---
+
 **Mein [Artikel](/2017/12/alkmene-der-ultimative-produkttest/) über die veganen Pflegeprodukte von Alkmene hier im Blog erfreut sich großer Beliebtheit. Doch nicht nur aus diesem Grund, habe ich mich entschlossen, noch weitere Produkte des Herstellers genauer unter die Lupe zu nehmen.**
 
 Ich bin ein großer Badefan. Gerade wenn es draußen so richtig schön eklig grau ist, sind kleine Wellness-Auszeiten mit Badewanne, reichhaltigen Lotions und viel [Tee](/2017/04/smecket-tee/) genau das Richtige.

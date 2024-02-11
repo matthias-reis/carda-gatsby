@@ -12,7 +12,6 @@ labels:
   - Hanfbrot
   - Brot mit Hanfmehl
 language: de
-slug: dinkelbrot-mit-hanfmehl
 typeName: Rezept
 title: Dinkelbrot mit Hanfmehl
 subTitle: Veganes Protein-Brot
@@ -31,6 +30,7 @@ focusKeyword: Hanfmehl
 advertisement: false
 affiliate: false
 languageLink: ""
+
 ---
 
 **Dinkelbrot könnt Ihr in den verschiedensten Varianten zubereiten. Ich teile heute mein Rezept mit Hanfmehl mit Euch. Die Zubereitung gelingt ganz einfach. Am besten nehmt Ihr Euch einen Nachmittag am Wochenende Zeit dafür.**

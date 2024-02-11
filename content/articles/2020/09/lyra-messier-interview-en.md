@@ -1,11 +1,13 @@
 ---
 date: 2020-09-09T14:49:00.000Z
-slug: lyra-messier-interview-en
 typeName: Interview
 title: lyra messier
 subTitle: '"Dance Music For The Introverted"'
 seoTitle: lyra messier – "Dance Music For The Introverted"
-description: I've talked to Lyra, who performs as lyra messier. The multi-talented ambient music artist has just released her self-titled album. In our interview, she gave me some insights into her life and music. Please enjoy reading!
+description: I've talked to Lyra, who performs as lyra messier. The
+  multi-talented ambient music artist has just released her self-titled album.
+  In our interview, she gave me some insights into her life and music. Please
+  enjoy reading!
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-09-lyra-messier-1-l-jpeg-imagine-a84858_8c3f4c_1440_1080/640.webp
 copyright: Anne-Leen Declercq
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2020-09-lyra-messier-fb-png-l-jpg-imagine-a84858_903e49_1440_754/640.webp
@@ -25,6 +27,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2020/09/lyra-messier-interview
+
 ---
 
 **I've talked to Lyra, who performs as lyra messier. The multi-talented ambient music artist has just released her self-titled album. In our interview she gave me some insights into her life and music. Please enjoy reading!**

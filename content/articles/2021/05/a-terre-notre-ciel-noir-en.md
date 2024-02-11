@@ -1,6 +1,5 @@
 ---
 date: 2021-05-19T06:00:42.000Z
-slug: a-terre-notre-ciel-noir-en
 typeName: Review
 title: '"Notre Ciel Noir" by À Terre'
 subTitle: '"The soundtrack of a catharsis screamed in French"'
@@ -26,6 +25,7 @@ focusKeyword: ""
 affiliate: false
 language: en
 languageLink: /2021/05/a-terre-notre-ciel-noir/
+
 ---
 
 **À Terre have dedicated themselves to post-metal. With their self-released debut EP "Notre Ciel Noir", the musicians from Nouvelle-Aquitaine, France, have proven their knowledge about how the genre works.**

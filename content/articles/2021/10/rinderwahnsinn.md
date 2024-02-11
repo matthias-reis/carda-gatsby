@@ -1,13 +1,14 @@
 ---
 date: 2021-10-15T15:06:50.527Z
-slug: rinderwahnsinn
 typeName: Beitrag
 title: Neue Fälle von Rinderwahnsinn (BSE)
 subTitle: China stoppt Einfuhr aus Großbritannien
 seoTitle: Rinderwahnsinn (BSE) – China stoppt Einfuhr aus Großbritannien
-description: China hat sein Einfuhrverbot für britisches Rindfleisch aufgrund eines erneuten Ausbruchs von BSE, auch bekannt als "Rinderwahnsinn" erneuert. Auch in vielen anderen Ländern wird jetzt über einen Bann diskutiert.
+description: China hat sein Einfuhrverbot für britisches Rindfleisch aufgrund
+  eines erneuten Ausbruchs von BSE, auch bekannt als "Rinderwahnsinn" erneuert.
+  Auch in vielen anderen Ländern wird jetzt über einen Bann diskutiert.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/rinderwahnsin-bse-jpg-imagine-080808_828062_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/rinderwahnsin-bse-fb-jpg-imagine-e8d8a8_918c72_1200_628/640.webp
 labels:
   - Zoonosen
@@ -19,6 +20,7 @@ focusKeyword: Rinderwahnsinn
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **China hat sein Einfuhrverbot für britisches Rindfleisch aufgrund eines erneuten Ausbruchs der bovinen spongiformen Enzephalopathie (BSE), auch bekannt als "Rinderwahnsinn", erneuert. In weiteren Ländern wird jetzt über einen Bann diskutiert.**

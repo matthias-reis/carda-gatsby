@@ -5,17 +5,12 @@ excerpt: Die Post-Hardcore Band Lightning Sharks aus Bristol will es bei
   interviewt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks-fb.png__l.jpg
 isAffiliate: false
-path: /2020/09/lightning-sharks-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAj/xAAnEAACAQMEAgIBBQAAAAAAAAABAgMEBREABhIhMVETQSIHFDJCYf/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAL/xAAcEQACAwEAAwAAAAAAAAAAAAABAgARIRIDE0H/2gAMAwEAAhEDEQA/AOdNriCe9UQqYkniWVWkgbIEqg9pn6yM6d26yVMT3ileiNZMUEFO6xOwRmkGHBHoKy9+9JNqRslxhqzLHBGkgVZZo2dPkwWVTx774kde9WP7OGqEldZa1hcIqWWW5KjTxPJIWZiBkAAqOuOf6+/KpRpEW/IpltVTHthrhweKqSuNPJGzKVSMKOTMv8gAxxnx59au96x7bt2wbS1rulomutMzPOI2cy1eWwQp4DIXPWSOgdaNkbarKuwNSU8lugaJqmnmmq52UrN8aeFwQyq6uMnrLeOgdSH6lRV1BVra7sI3qI+RMi4IP5EddD7BGpR5FZuVMoKitimw22tjhWmuJqKGgikWocTDirsD0VJIw2PsZ1e2Q1Nv2NUMlvudfUV0ThFVWkGZOWXb8sk4wCcf7o0aGc1M+sE1JGw3TcdBdayenmrAckO0sXN0cKDkxlTk4xnI76yc6s71aju/aluVRLU3NiJmrWjRGKktlcHBJOe/A6HX2TRoduVsDY1TpqJyf//Z
 typeName: Interview
 isWerbung: false
-fileName: 2020-09---lightning-sharks.md
-slug: lightning-sharks-interview
-errors: {}
 date: 2020-09-24T07:00:07.000Z
 focusKeyword: Lightning Sharks
 languageLink: /2020/09/lightning-sharks-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lightning-sharks__m.jpg
 title: Lightning Sharks
@@ -39,7 +34,9 @@ labels:
   - Noise Core
   - Noisecore
   - Post-Hardcore
+
 ---
+
 **Die Post-Hardcore Newcomer von Lightning Sharks aus Bristol sollten es beim diesjährigen ArcTanGent Festival so richtig krachen lassen. Weil das durch Corona leider nicht klappte, verlegten sie das Konzert kurzerhand in ihren Proberaum und teilten das Ereignis mit der ganzen Welt. Ich habe die kreative Combo jetzt zum Interview eingeladen.**
 
 **Anne:** Hi! Danke, dass Ihr Euch die Zeit für das Interview nehmt! Wie geht es Euch heute?

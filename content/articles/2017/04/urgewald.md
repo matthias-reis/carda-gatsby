@@ -1,13 +1,13 @@
 ---
 date: 2017-04-12T07:56:25.000Z
-slug: urgewald
-path: /2017/04/urgewald/
-title: 'urgewald klärt auf: Die Geschäfte der Banken'
-seoTitle: 'urgewald klärt auf: Fair Trade, Fair Banking? Was macht eigentlich mein Geld?'
+title: "urgewald klärt auf: Die Geschäfte der Banken"
+seoTitle: "urgewald klärt auf: Fair Trade, Fair Banking? Was macht eigentlich mein Geld?"
 ogTitle: Fair Trade, Fair Banking? Was macht eigentlich mein Geld? - urgewald klärt auf
-description: urgewald klärt darüber auf, was Banken und Versicherungen mit unserem Geld machen und kämpft an vorderster Front für mehr Menschlichkeit.
-excerpt: Kennt Ihr urgewald? Der Verein klärt darüber auf, was Banken und Versicherungen mit unserem Geld machen und kämpft an vorderster Front für mehr Menschlichkeit.
-fileName: 2017-04---urgewald-klaert-auf-die-geschaefte-der-banken.md
+description: urgewald klärt darüber auf, was Banken und Versicherungen mit
+  unserem Geld machen und kämpft an vorderster Front für mehr Menschlichkeit.
+excerpt: Kennt Ihr urgewald? Der Verein klärt darüber auf, was Banken und
+  Versicherungen mit unserem Geld machen und kämpft an vorderster Front für mehr
+  Menschlichkeit.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33146508594_383360feab_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33146508594_383360feab_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAHBf/EACcQAAIBAwMEAgIDAAAAAAAAAAECAwQFEQAGIRITMUEiYQcUFlFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/8QAHBEAAgMAAwEAAAAAAAAAAAAAAAECAxESIjEy/9oADAMBAAIRAxEAPwATsG622107QXKlopQzGXqmolmbHAwCTnHHjWr2q97Zqrd+xRWezTSfBRHJQLEwJznJKkADGfJznWY7Ktk1XFDUUJR6gLzHIF6cAn2QdJ71uWawW5I5rLB3yCqO8jPEG9MydI++M+ho1VJwTZpZZ3aQkq9z21bjR09Dty3TQywymXs0saSdxcYSIMoEgxyT6+veLfkGmnuW7bhLa6aSnSOVeil7ahk6lDZAXgAsW8f1pF/KBUVMdRcUpp5VmEkMawNFFA2OWwCcg4AI950U3ZuSnp9wvU2iNII5osAU7Mi5BJBKn18vH1pKCC5HS2PfJqKFIRGjqVyCfI402vNGt/qrBS10khhw0kqrgdxRj48AY/3Vq0oeIE/rRLVWSw0VRlLTG8ZdZljdvijgYyMDxgePGso/LG3qKoMd1o0FI7MQ0SjKEkE5xxjx61atDk2WYf/Z
@@ -20,12 +20,11 @@ labels:
   - Menschlichkeit
   - urgewald
 focusKeyword: urgewald
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Teil 1/2 - Fair Trade, Fair Banking? Was macht eigentlich mein Geld?
+
 ---
 
 **"Was macht eigentlich mein Geld?" - Das hatten sich die Aktivisten von urgewald schon sehr lange gefragt und gründeten deshalb 1992 den Verein. Mit einer umfangreichen Broschüre klären sie jetzt Verbraucher/innen über das Geschäft mit unserem Geld auf.**

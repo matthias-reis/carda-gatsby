@@ -5,19 +5,14 @@ excerpt: In meinem Bücherregal darf natürlich auch eine Ausgabe von Jonathan
   sofort, nachdem ich vegan wurde zugelegt.
 ogImage: null
 isAffiliate: false
-path: /2019/02/tiere-essen-von-jonathan-safran-foer/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKxAAAgIBAwMDAgcBAAAAAAAAAQIDBBEABRIGEyEiMUEUYQcjMkJRcYGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAJREAAQMEAQIHAAAAAAAAAAAAAQACAwURITFBBBITUXHB0eHw/9oADAMBAAIRAxEAPwCXy77TsXKMFGruDSzsEkls8VXyTgrjz7AnzqhdNU6aUYlIXjwD45Dz6if+ED/NK+31unrfVfTNbYp2C2JeViESF07ajIckZI/cCM+PsBq/xJaFJmtVKECjkod6+GUiQRrjzj1dzOMnGPGTqfTyDF3NBHrvam1UOd1FncC+NJFjigSaIEd5IZeUTnBKuCCp9/HnGP61gwdYx7xGrRGOGzzVfpLcILyvjPIFcZPnP2AzqtxU52uhWqUG/O49woyh/TzHxgDJKe/8a5y6nt2to3zcZaF+UA92lZMgAaJgeJKqBnAUY8eQME6wqYlJYYiQc8m3GD+v5JNKIiLmv0ftLP4Y0jsnW1e1vdcJSgrzOrhgySsEPFVYZBJOANXOnvGwNsqg2Nv+ressgR5SpDZjzzz6eQbuYHuAPT8aNGnueWktUqoSnxyCBr4Ws6w6gpLu7PsdnnVeELwimfH63BBGfkAHA+Dn3J1N916sajv+8VoqcEhvgMbMrElAyAsB8Els+ffxo0aHNGycFsgxtaUaUnqCbcH2X//Z
-date: 2019-02-25T10:56:16.000+00:00
+date: 2019-02-25T10:56:16.000Z
 typeName: Buchtipp
 isWerbung: false
-fileName: 2019-02---tiere-essen.md
-slug: tiere-essen-von-jonathan-safran-foer
-errors: {}
 title: '"Tiere essen"'
 subTitle: Buch von Jonathan Safran Foer
 focusKeyword: Tiere essen
 affiliate: true
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-1__m.jpg
 seoTitle: Buchtipp - "Tiere essen" von Jonathan Safran Foer
@@ -43,6 +38,7 @@ labels:
   - Vegan Leben
   - vegane Bücher
   - veganforlife
+
 ---
 
 **In meinem Bücherregal darf natürlich auch eine Ausgabe von Jonathan Safran Foers "Tiere essen" nicht fehlen. Das Buch habe ich mir ziemlich sofort, nachdem ich vegan wurde zugelegt.**

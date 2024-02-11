@@ -1,12 +1,17 @@
 ---
 date: 2022-05-27T14:03:53.795Z
-slug: baerengalle-vietnam
 typeName: Beitrag
 title: Das Ende der Bärengalle-Farmen in Vietnam
 subTitle: '"Kein Bär bleibt zurück"'
 seoTitle: Das Ende der Bärengalle-Farmen in Vietnam
-description: Vietnamn möchte jetzt gemeinsam mit Animals Asia mit gutem Beispiel vorangehen. Die letzen 310 Bären, die sich dort in Bärengalle-Farmen befinden, sollen befreit werden.
-excerpt: Zehntausende Bären – hauptsächlich Mondbären, aber auch Sonnenbären und Braunbären – werden auf Bärengalle-Farmen in Asien gefangen gehalten. Ein Land möchte jetzt gemeinsam mit Animals Asia mit gutem Beispiel vorangehen. Die letzen 310 Bären, die sich in vietnamesischen Bärengalle-Farmen befinden, sollen jetzt befreit werden.
+description: Vietnamn möchte jetzt gemeinsam mit Animals Asia mit gutem Beispiel
+  vorangehen. Die letzen 310 Bären, die sich dort in Bärengalle-Farmen befinden,
+  sollen befreit werden.
+excerpt: Zehntausende Bären – hauptsächlich Mondbären, aber auch Sonnenbären und
+  Braunbären – werden auf Bärengalle-Farmen in Asien gefangen gehalten. Ein Land
+  möchte jetzt gemeinsam mit Animals Asia mit gutem Beispiel vorangehen. Die
+  letzen 310 Bären, die sich in vietnamesischen Bärengalle-Farmen befinden,
+  sollen jetzt befreit werden.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-27/animals-asia-baeren-jpg-imagine-282838_797d7c_1024_768/640.webp
 copyright: Animals Asia
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-27/animals-asia-baeren-fb-jpg-imagine-282838_7f827f_1200_628/640.webp
@@ -24,6 +29,7 @@ focusKeyword: Bärengalle
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Zehntausende Bären – hauptsächlich Mondbären, aber auch Sonnenbären und Braunbären – werden auf Bärengalle-Farmen in Asien gefangen gehalten. Ein Land möchte jetzt gemeinsam mit Animals Asia mit gutem Beispiel vorangehen. Die letzen 310 Bären, die sich in vietnamesischen Bärengalle-Farmen befinden, sollen jetzt befreit werden.**

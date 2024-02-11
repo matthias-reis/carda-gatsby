@@ -1,15 +1,15 @@
 ---
 date: 2016-02-18T14:14:32.000Z
-slug: my-little-pony-zu-gewinnen-verlosung
-path: /2016/02/my-little-pony-zu-gewinnen-verlosung/
 type: Artikel
 typeName: Verlosung
 title: My Little Pony zu gewinnen!
 seoTitle: My Little Pony zu gewinnen! Neue Verlosung!
 ogTitle: Verlosung! My Little Pony zu gewinnen!
-description: Mach schnell mit bei meinem Gewinnspiel! Zu gewinnen gibt es jede Menge My Little Pony Pferdchen aus meiner Herde! Nostalgie natürlich inklusive!
-excerpt: Mach schnell mit bei meinem Gewinnspiel! Zu gewinnen gibt es jede Menge My Little Pony Pferdchen aus meiner Herde! Nostalgie natürlich inklusive!
-fileName: 2016-02---my-little-pony-zu-gewinnen.md
+description: Mach schnell mit bei meinem Gewinnspiel! Zu gewinnen gibt es jede
+  Menge My Little Pony Pferdchen aus meiner Herde! Nostalgie natürlich
+  inklusive!
+excerpt: Mach schnell mit bei meinem Gewinnspiel! Zu gewinnen gibt es jede Menge
+  My Little Pony Pferdchen aus meiner Herde! Nostalgie natürlich inklusive!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_25013593161_b4c2156ddc_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_25013593161_b4c2156ddc_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAwQFCP/EACkQAAEDBAEDAwQDAAAAAAAAAAECAwQABREhBhITMQciQRQjQlFSYXH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECESExA1H/2gAMAwEAAhEDEQA/AIj3EuoKSMKSSP8Aaf8Aivp9Bu3FId7vD0uDGckPMJVGa7i5OMFKsK0kZ6kg/lj481NBKZQkYcCj5Jqg+mlznX7kNvt8m6q+mixymMgnAbKRhGAP45OznVU2+BNxGa9OCvy3is2wSZCJDL3Yb6CHltFIIUkEZIyAd4Iz5pcYWEt+wg9Svj+q9B3DkDMe6zmLfdXVpRIbEha29LKkK7xKVeB7UkE/KakHNH7Y7dUzLcuOtx9H3gyAE9Q/PA0CrOwMbGcbrEt8ZKbTU/WIiD3ygq0ScHFdvhnKpXE5smbCYYeeeZ7ILoyUbzkHyP1qiihlcZ0YZ3I510Drayhpp7AWlA2d5Pu8nJrVa0kdOsfqiikNviP/2Q==
@@ -20,12 +20,11 @@ labels:
   - My Little Pony
   - Verlosung
 focusKeyword: Little Pony
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ponys aus meiner Herde gehen auf Reisen
+
 ---
 
 ---

@@ -1,13 +1,16 @@
 ---
 date: 2023-06-07T12:16:54.469Z
-slug: the-game-changers-2
 typeName: Filmtipp
 title: '"The Game Changers 2" kommt!'
 subTitle: Basketball-Legende LeBron James ermöglicht Sequel
 seoTitle: '"The Game Changers 2" ist angekündigt – Filmtipp'
-ogTitle: ''
-description: '"The Game Changers 2" kommt! Es ist endlich offiziell! Erfahrt jetzt, Basketball-Legende LeBron James das Sequel möglich macht!'
-excerpt: '"The Game Changers 2" wird kommen. Auch, wenn noch nicht klar ist, wie das Sequel heißen wird, ist es endlich offiziell, dass die bahnbrechende vegane Doku einen zweiten Teil bekommt! LeBron James spielt nicht nur im Film eine Rolle – er war es auch, der die Produktion erst möglich machte!'
+ogTitle: ""
+description: '"The Game Changers 2" kommt! Es ist endlich offiziell! Erfahrt
+  jetzt, Basketball-Legende LeBron James das Sequel möglich macht!'
+excerpt: '"The Game Changers 2" wird kommen. Auch, wenn noch nicht klar ist, wie
+  das Sequel heißen wird, ist es endlich offiziell, dass die bahnbrechende
+  vegane Doku einen zweiten Teil bekommt! LeBron James spielt nicht nur im Film
+  eine Rolle – er war es auch, der die Produktion erst möglich machte!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-07/the-game-changers-2-jpg-imagine-181808_2e311a_1024_768/640.webp
 copyright: The Game Changers
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-07/the-game-changers-og-jpg-imagine-f8f8f8_917b56_1200_628/640.webp
@@ -24,6 +27,7 @@ focusKeyword: The Game Changers 2
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **"The Game Changers 2" wird kommen. Auch, wenn noch nicht klar ist, wie das Sequel heißen wird, ist es endlich offiziell, dass die bahnbrechende vegane Doku einen zweiten Teil bekommt! LeBron James spielt nicht nur im Film eine Rolle – er war es auch, der die Produktion erst möglich machte!**

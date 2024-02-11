@@ -1,12 +1,17 @@
 ---
 date: 2023-01-17T09:14:54.855Z
-slug: punk-rock-vegan-movie
 typeName: Filmtipp
 title: '"Punk Rock Vegan Movie"'
 subTitle: Moby kündigt Film an
 seoTitle: Mobys bahnbrechender Film "Punk Rock Vegan Movie"
-description: Im Trailer zu Mobys Film "Punk Rock Vegan Movie" sind Bands wie Bands wie Refused, Rise Against The Damned zu sehen. Holt Euch jetzt hier alle Infos!
-excerpt: Mobys Film "Punk Rock Vegan Movie" verspricht spannend zu werden. Im Trailer sind unter anderem Bands wie Refused, Rise Against und The Damned zu sehen – alles Wegbereiter der veganen Szene. Mit ihrer Hilfe möchte der Künstler die inspirierende Verbindung zwischen der Welt des Punk und der der Tierrechte beleuchten.
+description: Im Trailer zu Mobys Film "Punk Rock Vegan Movie" sind Bands wie
+  Bands wie Refused, Rise Against The Damned zu sehen. Holt Euch jetzt hier alle
+  Infos!
+excerpt: Mobys Film "Punk Rock Vegan Movie" verspricht spannend zu werden. Im
+  Trailer sind unter anderem Bands wie Refused, Rise Against und The Damned zu
+  sehen – alles Wegbereiter der veganen Szene. Mit ihrer Hilfe möchte der
+  Künstler die inspirierende Verbindung zwischen der Welt des Punk und der der
+  Tierrechte beleuchten.
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-17/punkrock-vegan-movie-jpg-imagine-080808_62725c_1024_768/640.webp
 copyright: Punk Rock Vegan Movie
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-17/punkrock-vegan-movie-og-jpg-imagine-080808_606d5c_1200_628/640.webp
@@ -21,6 +26,7 @@ focusKeyword: Punk Rock Vegan Movie
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Mobys Film "Punk Rock Vegan Movie" verspricht spannend zu werden. Im Trailer sind unter anderem Bands wie Refused, Rise Against und The Damned zu sehen – alles Wegbereiter der veganen Szene.**

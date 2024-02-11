@@ -1,42 +1,40 @@
 ---
-date: 2018-06-16T07:17:55.000+00:00
-slug: urlaubsbegleiter-aus-der-food-ecke
-path: "/2018/06/urlaubsbegleiter-aus-der-food-ecke/"
+date: 2018-06-16T07:17:55.000Z
 type: Artikel
 typeName: Produkttest
 title: Urlaubsbegleiter aus der Food-Ecke
 seoTitle: Konjak-Nudeln von Vitanu - Urlaubsbegleiter aus der Food-Ecke
 ogTitle: Konjak-Nudeln von Vitanu - Urlaubsbegleiter aus der Food-Ecke
-description: Wir fahren in Kürze in den Urlaub. Mit im Gepäck sind auch Konjak-Nudeln.
-  Sie lassen sich ganz leicht zubereiten und passen so gut wie zu allem.
-excerpt: Wir fahren in Kürze in den Urlaub. Mit im Gepäck sind auch Konjak-Nudeln.
-  Sie lassen sich ganz leicht zubereiten und passen so gut wie zu allem.
-fileName: 2018-06---urlaubsbegleiter-aus-der-food-ecke.md
+description: Wir fahren in Kürze in den Urlaub. Mit im Gepäck sind auch
+  Konjak-Nudeln. Sie lassen sich ganz leicht zubereiten und passen so gut wie zu
+  allem.
+excerpt: Wir fahren in Kürze in den Urlaub. Mit im Gepäck sind auch
+  Konjak-Nudeln. Sie lassen sich ganz leicht zubereiten und passen so gut wie zu
+  allem.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_28936656928_cf15964f15_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_28936656928_cf15964f15_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAGAwT/xAApEAACAgEDBAECBwAAAAAAAAABAgMRBAAFIQYSMUFhE1EUIiMycYGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBAgX/xAAmEQABAwMCBQUAAAAAAAAAAAABAgMRAAQxIUEFEhMikTJRcYHB/9oADAMBAAIRAxEAPwAqDHXJynX6EuWCzfkjpQlVTFuO0sPHwNNYGZi7I6xpDmPnygquO0gcnijTjgAez5vWe6Y3OGDJMY7VYyASqQwZUANmgDzx709Pmbeu5rPi5g/XuP6TWB3GqFUAOR5+dYlrbtuJBUnm9x5gmrFuECRE4MZ86GvVvG9SYir2YuSoYAlBKhr+D750pk5S/hjkwCZmnBpbux2+/APu+NZl912rKw0llnjWSg0ikdxj5/aWU168XoHM6nhM7CIlcZSVVKIIFcADyB7/AL9aDxGyU2lJaRAB2EZE/lQtTZSIzWf6V3KRNwyd33X6scWRMVWRe0ADwbLcVdcfGlurt123P22SGDOxZZe1pFCNGxZgvAFUfNf5q1adt20kq0xj6orVw4nsB0+BXHpjPxBtGO2VmQ46IoosqRlDZsW1mwb5AH30H1JlRS5+Tlba5yMdlRXkYlixAN0TR+32+NWrTV3cLcSArc0r0kN+kV//2Q==
-ogImage: 
+ogImage: null
 labels:
-- Camping
-- Ernährung & Gesundheit
-- Essen
-- glutenfrei
-- Konjak
-- Konjak-Nudeln
-- Nudeln
-- Pasta
-- Teufelszunge
-- vegan
+  - Camping
+  - Ernährung & Gesundheit
+  - Essen
+  - glutenfrei
+  - Konjak
+  - Konjak-Nudeln
+  - Nudeln
+  - Pasta
+  - Teufelszunge
+  - vegan
 focusKeyword: Konjak-Nudeln
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Konjak-Nudeln von Vitanu
 advertisement: true
 
 ---
+
 **Wir fahren in Kürze in den Urlaub. Wir mieten ein Auto und fahren los. Wo genau es hingehen wird, verrate ich Euch später, was ich mitnehme, erfahrt Ihr schon heute.**
 
 Gestern habe ich Euch zwei besondere [Urlaubsbegleiter aus der Beauty-Ecke](/2018/06/mit-santaverde-auf-reisen/) vorgestellt, heute lernt Ihr einen aus der Food-Ecke kennen.

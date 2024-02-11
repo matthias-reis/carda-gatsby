@@ -1,14 +1,19 @@
 ---
 date: 2022-09-06T10:05:15.981Z
-slug: playlist-september-2022
 typeName: Beitrag
 title: Playlist September 2022
 subTitle: 9 Songs zum Herbstanfang – von Post-Rock bis Prog
 seoTitle: 9 Songs zum Herbstanfang – von Post-Rock bis Prog
-description: Von Post-Rock bis Prog die Playlist September hat es in sich. Mit dabei sind unter anderem Russian Circles und Tides of Nebula. Hört mal rein, es lohnt sich!
-excerpt: Die September-Playlist kommt etwas später als gewohnt, aber dafür nicht weniger von Herzen. Nach einer ausgedehnten Großbritannien-Tour inklusive Festival-Besuch, alles zusammen inkl. Anreise in zwei Wochen gequetscht, hat es etwas gedauert, bis ich mich wieder sortiert hatte. Gemeinsam mit Valentin und Matze habe ich diese neun Songs für Euch selektiert.
+description: Von Post-Rock bis Prog die Playlist September hat es in sich. Mit
+  dabei sind unter anderem Russian Circles und Tides of Nebula. Hört mal rein,
+  es lohnt sich!
+excerpt: Die September-Playlist kommt etwas später als gewohnt, aber dafür nicht
+  weniger von Herzen. Nach einer ausgedehnten Großbritannien-Tour inklusive
+  Festival-Besuch, alles zusammen inkl. Anreise in zwei Wochen gequetscht, hat
+  es etwas gedauert, bis ich mich wieder sortiert hatte. Gemeinsam mit Valentin
+  und Matze habe ich diese neun Songs für Euch selektiert.
 image: https://storage.googleapis.com/cardamonchai-media/2022-09-06/playlist-september-jpeg-imagine-f8f8f8_806158_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-09-06/playlist-september-fb-jpeg-imagine-584848_7f6056_1200_628/640.webp
 labels:
   - serie:Playlists 2022
@@ -38,6 +43,7 @@ focusKeyword: Playlist September
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die September-Playlist kommt etwas später als gewohnt, aber dafür nicht weniger von Herzen. Nach einer ausgedehnten Großbritannien-Tour inklusive Festival-Besuch, alles zusammen inkl. Anreise in zwei Wochen gequetscht, hat es etwas gedauert, bis ich mich wieder sortiert hatte. Gemeinsam mit Valentin und Matze habe ich diese neun Songs für Euch selektiert.**

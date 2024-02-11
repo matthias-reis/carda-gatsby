@@ -1,15 +1,14 @@
 ---
 date: 2015-09-14T08:09:03.000Z
-slug: fluessiges-glueck-enno-bunger-veroeffentlicht-neue-platte
-path: /2015/09/fluessiges-glueck-enno-bunger-veroeffentlicht-neue-platte/
 type: Artikel
 typeName: Review
 title: '"Flüssiges Glück" - Enno Bunger veröffentlicht neue Platte'
 seoTitle: '"Flüssiges Glück" - Enno Bunger veröffentlicht neue Platte'
 ogTitle: '"Flüssiges Glück" - Enno Bunger veröffentlicht neue Platte'
-description: Endlich ist es soweit! Enno Bunger bringt eine neue Platte auf den Markt! Ich habe für Euch schon mal reingehört.
-excerpt: Enno Bunger begegnete mir zum ersten Mal auf dem Backstage Open Festival in München 2009.
-fileName: 2015-09---fluessiges-glueck-enno-bunger-veroeffentlicht-neue-platte.md
+description: Endlich ist es soweit! Enno Bunger bringt eine neue Platte auf den
+  Markt! Ich habe für Euch schon mal reingehört.
+excerpt: Enno Bunger begegnete mir zum ersten Mal auf dem Backstage Open
+  Festival in München 2009.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_790x790xEnno_Bunger_Fluessiges_Glueck_Cover_lo-790x790.pagespeed.ic_.TXm8av8_Qs.jpg__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_790x790xEnno_Bunger_Fluessiges_Glueck_Cover_lo-790x790.pagespeed.ic_.TXm8av8_Qs.jpg__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABwgCBQb/xAApEAABBAEDBAEDBQAAAAAAAAABAgMEEQUABiEHEjFBYRNRcRQjMlKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AJkKedUF006T4TIbFiT80H3J2QR+pSptfaGkH+CR9+OTfs/Gp+c5Cj6r1qm4QXE2ztnHHOSWn8xHhpQmMe0MtpQnv7OeAbAvjVqwKdVdqN7VzqUxJDr0Z4A/uUVJv0T78H1riVp8GxRANjS91zxMTHSYzKsg7MnOJSCpQ7QAD5Is/evOivLMsRZ78eG8JDDZCQ7/AGNc18XerEYFNDSlgszAG2sQMrJyIfaSFIMaX2FtLfDfaKu6J9j4vRU4qjXk6c+g2y4WYwuQyuVYjSWlfTisoea7gFC1L5qrpSBf50oJNwZSfn5zz0h52UokAuLAs0KF/JrWhUCPI8aqSX0uxsR5KYzLLMdbneW0JUonmhzX5OgPqXEYib+zkaKAllqQUAAVRCQD/t6aP//Z
@@ -25,12 +24,11 @@ labels:
   - Rezension
   - Rezi
 focusKeyword: Enno Bunger
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: So klingt die Vorauskopplung "Renn!"
+
 ---
 
 **Enno Bunger begegnete mir zum ersten Mal auf dem Backstage Open Festival in München 2009. Seither habe ich den Musiker, das muss ich leider zugeben, ein bisschen aus den Augen verloren.**

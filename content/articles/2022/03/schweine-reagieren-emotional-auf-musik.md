@@ -1,12 +1,17 @@
 ---
 date: 2022-03-31T15:01:41.040Z
-slug: schweine-reagieren-emotional-auf-musik
 typeName: Beitrag
 title: Schweine reagieren emotional auf Musik
-subTitle: 'Neue Studie zeigt: Borstentiere sind den Menschen ähnlicher, als vermutet'
-seoTitle: 'Neue Studie: Schweine reagieren emotional auf Musik'
-description: 'Eine neue Studie hat jetzt gezeigt: Schweine reagieren emotional auf Musik. Damit wird ein weiteres mal belegt, dass sie zu einem breiten Spektrum an Gefühlen fähig sind.'
-excerpt: 'Eine neue Studie hat jetzt ein weiteres Mal belegt, dass Schweine zu einem breiten Spektrum an Emotionen fähig sind. Sie sind uns Menschen also ganz schön ähnlich. Bei der Forschungsarbeit kam heraus: Schweine reagieren emotional auf Musik. Harmonische Musik wirkt auf sie entspannend, schrille Musik macht sie unruhig.'
+subTitle: "Neue Studie zeigt: Borstentiere sind den Menschen ähnlicher, als vermutet"
+seoTitle: "Neue Studie: Schweine reagieren emotional auf Musik"
+description: "Eine neue Studie hat jetzt gezeigt: Schweine reagieren emotional
+  auf Musik. Damit wird ein weiteres mal belegt, dass sie zu einem breiten
+  Spektrum an Gefühlen fähig sind."
+excerpt: "Eine neue Studie hat jetzt ein weiteres Mal belegt, dass Schweine zu
+  einem breiten Spektrum an Emotionen fähig sind. Sie sind uns Menschen also
+  ganz schön ähnlich. Bei der Forschungsarbeit kam heraus: Schweine reagieren
+  emotional auf Musik. Harmonische Musik wirkt auf sie entspannend, schrille
+  Musik macht sie unruhig."
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-31/schweine-reagieren-emotional-auf-musik-jpg-imagine-c8b8a8_a17b66_1024_768/640.webp
 copyright: RoyBuri, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-31/schweine-reagieren-emotional-auf-musik-fb-png-imagine-c8b8a8_a27a66_1200_628/640.webp
@@ -17,11 +22,12 @@ labels:
   - Forschung
   - Studie
   - Musik
-  - ''
+  - ""
 focusKeyword: Schweine reagieren emotional auf Musik
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Eine neue Studie hat jetzt ein weiteres Mal belegt, dass Schweine zu einem breiten Spektrum an Emotionen fähig sind. Sie sind uns Menschen also ganz schön ähnlich. Bei der Forschungsarbeit kam heraus: Schweine reagieren emotional auf Musik. Harmonische Musik wirkt auf sie entspannend, schrille Musik macht sie unruhig.**

@@ -1,11 +1,13 @@
 ---
 date: 2021-10-19T07:48:51.969Z
-slug: wetell-nachhaltiger-mobilfunk
 typeName: Produkttest
 title: Ist nachhaltiger Mobilfunk möglich?
 subTitle: WEtell will die mobile Kommunikation grün machen
 seoTitle: WEtell will die mobile Kommunikation nachhaltig machen
-description: So nachhaltig wie möglich telefonieren und mobil im Internet surfen – wie geht das eigentlich? Was mit der Bank und der Versicherung heutzutage zum Glück schon gut funktioniert, soll jetzt auch mit dem Handy-Vertrag klappen. Ich habe mir WEtell mal genauer angeschaut.
+description: So nachhaltig wie möglich telefonieren und mobil im Internet surfen
+  – wie geht das eigentlich? Was mit der Bank und der Versicherung heutzutage
+  zum Glück schon gut funktioniert, soll jetzt auch mit dem Handy-Vertrag
+  klappen. Ich habe mir WEtell mal genauer angeschaut.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/wetell-jpg-imagine-080808_000000_1024_768/640.webp
 copyright: WEtell
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/wetell-fb-png-imagine-080808_6d726c_1200_628/640.webp
@@ -25,6 +27,7 @@ focusKeyword: WEtell
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **So nachhaltig wie möglich telefonieren und mobil im Internet surfen – wie geht das eigentlich? Was mit der Bank und der Versicherung heutzutage zum Glück schon gut funktioniert, soll jetzt auch mit dem Handy-Vertrag klappen. Ich habe mir WEtell mal genauer angeschaut.**

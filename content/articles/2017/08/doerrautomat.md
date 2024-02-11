@@ -1,13 +1,13 @@
 ---
 date: 2017-08-15T14:44:30.000Z
-slug: doerrautomat
-path: /2017/08/doerrautomat/
 title: Unser Dörrautomat
 seoTitle: Unser Dörrautomat - Neueste Errungenschaft in der Küche
 ogTitle: Unser Dörrautomat - Neueste Errungenschaft in der Küche
-description: Ein Dörrautomat - Was ist das eigentlich? Ich habe mir jetzt selbst einen zugelegt und lüfte das Geheimnis hiermit für Euch. Spannend, oder?
-excerpt: Werbung - Ständig lese ich in online und in Rezeptbüchern über Dörrautomaten und möchte schon lange selbst mal einen ausprobieren. Jetzt ist es soweit.
-fileName: 2017-08---unser-doerrautomat.md
+description: Ein Dörrautomat - Was ist das eigentlich? Ich habe mir jetzt selbst
+  einen zugelegt und lüfte das Geheimnis hiermit für Euch. Spannend, oder?
+excerpt: Werbung - Ständig lese ich in online und in Rezeptbüchern über
+  Dörrautomaten und möchte schon lange selbst mal einen ausprobieren. Jetzt ist
+  es soweit.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYABAECB//EACwQAAEEAQIFAgUFAAAAAAAAAAECAwQRBQAhBhITMUEiUQcjMmFxFBZCgcH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIRAyExEv/aAAwDAQACEQMRAD8ALTPiBjcU6tx515bbaeYoPkfZI9R/OgeQ+JbcnJtQ42FcK5KAWHUqCrJTfrRVora7Ngb6TuJOFDPxsfN4yXDnIkp+QtRKC0RupBPhQPnfz22OgUpEyHj3HHo77uUlWkyGl9MgWDSQdyNjuavUWp1jLqnpOhHjDKOYpp79uOtykyOjI66w202mha0nuR+a8d9VofHWLlSX25YOPQh4sNuSFAh0jf08t7VW9VuN9JOdTHxvDTTa5a/1chsOPuqcUepf8FVQrtXbt39xUxiW/iIbMKMX2VpLpcaaCFhRJsgE/TXne970NeKqRWyHsjWVl4syHcY8+xBedPKSPlqNDZQNi6oWe9avucbTFxiiVDjPAgjmaUpsm/wSNJOQy5lxUx+RTICrWArZR8Ej3GsuyYKYDYZW91+n6kEbFe3b2H9eO+ma72w/oDCNeV4ybecRzY2QhTZT6S4kgAePp/zWj3G7zDamEwGFFI5ed10qB+9CtISnQSSCa++otxTqgVqU4vYbmzrSoGSF12f/2Q==
@@ -32,12 +32,11 @@ labels:
   - Trockenobst
   - vegan
 focusKeyword: Dörrautomat
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Neueste Errungenschaft in der Küche
+
 ---
 
 **Ständig lese ich online und in Rezeptbüchern über Dörrautomaten. Bei niedriger Temperatur getrocknetes Obst und Gemüse, das nicht nur schmackhaft ist, sondern obendrein auch noch bekömmlich und vitaminreich. Irgendwie klingt das doch ziemlich gut, oder?**

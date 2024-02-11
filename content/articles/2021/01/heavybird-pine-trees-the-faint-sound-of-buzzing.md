@@ -1,25 +1,22 @@
 ---
 ogTitle: '"Pine Trees & The Faint Sound Of Buzzing" - neues Heavybird Album'
-excerpt: Heavybird schlägt mit dem tiefgründigen neuen Album "Pine Trees & The Faint Sound Of Buzzing" neue Töne an.
+excerpt: Heavybird schlägt mit dem tiefgründigen neuen Album "Pine Trees & The
+  Faint Sound Of Buzzing" neue Töne an.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_heavybird-1.png__l.jpg
 isAffiliate: false
-path: /2021/01/heavybird-pine-trees-the-faint-sound-of-buzzing/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAH/xAAlEAABBAEEAgIDAQAAAAAAAAABAgMEEQUAEiExExQGYSJxgSP/xAAXAQEBAQEAAAAAAAAAAAAAAAAABgMF/8QAJhEAAQMDAwIHAAAAAAAAAAAAAQIDEQQhMQAFIgZxEyNBUZGh8P/aAAwDAQACEQMRAD8ASTfmOBx3jRJzMZ5Tl164LyU89qUOr1myEiNlGx60llTKgQHLBCv0dcl4jGxMXHxU6BGK4oc9Z15hS0r8hNOWkHeaIHNkV1Y0gnQcjipcGMnZGxMpxSmmFN7pDKEgd31fJCTZSCB9Dt7PtVKl9Fak+Y4OJSZNwLkG3685GLfUVV4qm1iQkkEKECAYsQJ+Z9sxqgx8iLi2z7MllLKQB5LACf2daYXzHA5HyIj5mM0pur9gFlKue0qPdaloMHI5WXOjK2ScTFcSp1hLe2Q8hQPVd1wSkUVAEfRfxMRjZmLkYuBAjBcoN+y6ywpCUeMi3LUBsNAjiib6s6bxtVKp9dao+Y2ORUYNhkAW/Wj1OdRVXipbQICiAAkSIJi5In4j2zOql0Ez0EObWWCQAUkAEfZ7Oov5hNiPBTzu+2Wyoqe/Egnm67H80aNU1Bt9OhQfCeTSITmAMxGLxf11I0ddUOLU2pVnCCqwknvE/caPh02IyA81v/2bCgpn8iSObrs/3Vo0KnrJc3MvkAgJJBJ+x0dGjSv2+nWovlPJ1EKzBGYjFp76VldUNqQ2lVmySmwkHvE/ev/Z
 typeName: Review
 isWerbung: false
-fileName: 2021-01---pine-trees-und-the-faint-sound-of-buzzing.md
-slug: heavybird-pine-trees-the-faint-sound-of-buzzing
-errors: {}
 date: 2021-01-24T16:05:37.000Z
 focusKeyword: Heavybird
 languageLink: /2021/01/heavybird-pine-trees-the-faint-sound-of-buzzing-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_heavybird-3__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_heavybird-3__m.jpg
 title: '"Pine Trees & The Faint Sound Of Buzzing"'
 subTitle: Das neue Album von Heavybird
 seoTitle: '"Pine Trees & The Faint Sound Of Buzzing" - neues Heavybird Album'
-description: Heavybird schlägt mit dem tiefgründigen neuen Album "Pine Trees & The Faint Sound Of Buzzing" neue Töne an.
+description: Heavybird schlägt mit dem tiefgründigen neuen Album "Pine Trees &
+  The Faint Sound Of Buzzing" neue Töne an.
 language: de
 type: Artikel
 labels:
@@ -30,6 +27,7 @@ labels:
   - Indie
   - Post-Rock
   - Review
+
 ---
 
 **Heavybird aka Evan Glenn Adams kennt Ihr spätestens seit meinem Interview mit dem Multiinstrumentalisten im letzten Jahr. Jetzt ist es so weit: Evan hat sein neues Album fertig. Es wird am 19. März erscheinen und ich hatte jetzt schon die Möglichkeit, es anzuhören.**

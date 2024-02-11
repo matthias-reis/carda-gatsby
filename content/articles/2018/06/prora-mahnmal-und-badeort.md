@@ -1,13 +1,13 @@
 ---
 date: 2018-06-13T05:09:43.000Z
-slug: prora-mahnmal-und-badeort
-path: /2018/06/prora-mahnmal-und-badeort/
 title: Prora - Mahnmal und Badeort
 seoTitle: Prora - Mahnmal und Badeort - Beton und Sand auf Rügen im Wandel
 ogTitle: Prora - Mahnmal und Badeort - Beton und Sand auf Rügen im Wandel
-description: '"Macht Urlaub!" prangt es in großen Lettern auf einer Wand gegenüber des Besucherparkplatzes. Daneben die "Diskothek Miami". Wir sind in Prora.'
-excerpt: '"Macht Urlaub!" prangt es in großen Lettern auf einer Wand gegenüber des Besucherparkplatzes. Daneben die "Diskothek Miami". Wir sind in Prora.'
-fileName: 2018-06---prora-mahnmal-und-badeort.md
+description: '"Macht Urlaub!" prangt es in großen Lettern auf einer Wand
+  gegenüber des Besucherparkplatzes. Daneben die "Diskothek Miami". Wir sind in
+  Prora.'
+excerpt: '"Macht Urlaub!" prangt es in großen Lettern auf einer Wand gegenüber
+  des Besucherparkplatzes. Daneben die "Diskothek Miami". Wir sind in Prora.'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27860666027_13e67c1f41_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27860666027_13e67c1f41_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFAwT/xAApEAACAgEEAQIFBQAAAAAAAAABAgMEEQAFEiEGIlETI0FhcRUygYKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAMB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIDIQARBBITMWFx4f/aAAwDAQACEQMRAD8Az9v8Vglas5sTA1wFj7GMci3fv2TpJL41VtOskkkiMiSRgIQAQw4n/NCqtq626bXGsFk02SD4z8G4Bsnlk/brOm28ySx7jQEauUdZRIVBIX0HiT/bGrssvkAL3d7yKmPxkhKqtZzp+M1KFOSCFpGjdifmNkgkYODoxe8Kq15KkqWbJeqoVCWXGASexjv9x0g8Le9JBP8AqqOtro+rIyOx9dEd+s7kaKLHBccrPPG4UN2gKlT+O2H8HRUkLsvcfN+8M8YRW6fVes2KHkNWCaKNpcuwUqoU5wwBH09jpMu814pK8DvlpmKoB2M6tWj8VRIqbN4Tks0bPoVnng8jo3WdK0xfivMkrxA9h+dHN+8wowrZEsj/ACJRBKFjJw5BIH36B1atDxlExj2dD8zRyGMQk1Zz/9k=
@@ -30,12 +30,11 @@ labels:
   - Strand
   - Wellen
 focusKeyword: Prora
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Beton und Sand auf Rügen im Wandel
+
 ---
 
 **"Macht Urlaub!" prangt es in großen Lettern auf einer Wand gegenüber des Besucherparkplatzes. Daneben reckt sich die seit 2016 geschlossene "Diskothek Miami" bunkerartig in die Höhe. Wir sind am ehemaligen KDF-Bad Prora angekommen.**

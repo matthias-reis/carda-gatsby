@@ -4,17 +4,12 @@ excerpt: 'The Ocean spielen jetzt ihr sensationelle Album "Phanerozoic I" live.
   Das Konzert findet in Bremen statt. Der Clou: Wir können alle dabei sein!'
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-fb.png__l.jpg
 isAffiliate: false
-path: /2021/03/the-ocean-phanerozoic-bremen-live/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwMECP/EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQRIQAFEgYiMRMUQSMzUUJhcYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOYNsplqJwGsQpBK57hfxjU+afpqnajnj6blQRTCWo41rlWiDMjoCR2m7x/k9v74rqCVo+XEkEjBHkHUo20bXOYKLdV3RqpSV9PtVAzG5NxkfBzoJVCvSkVF7Y9N1ksonV2X3hj5W9MFedifPIeB9wH9I1XW9rGakywhQkjMQoN+IvgX+bfnTnqKpoYK6ZaN61awN3GSRWS+L3uLnwP80k3aKRDHKy8YZy0kVjcEXzn+fjQakLKA4YZIwdP9irKCOukmqFoVTAVKxZmU3xy+n5tbIPm+jRoMnU9fts9atTtsVFCXjHKKkWQKri927wPN7WGMaT7nWCphpY1sBCpWw/rRo0H/2Q==
 typeName: Beitrag
 isWerbung: false
-fileName: 2021-03---the-ocean-spielen-phanerozoic-i.md
-slug: the-ocean-phanerozoic-bremen-live
-errors: {}
 date: 2021-03-17T13:01:45.000Z
 focusKeyword: The Ocean
 languageLink: /2021/03/the-ocean-phanerozoic-bremen-live-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_the-ocean-1__m.jpg
 title: The Ocean spielen "Phanerozoic I"
@@ -33,7 +28,9 @@ labels:
   - Post-Rock
   - The Ocean
 language: de
+
 ---
+
 **The Ocean spielen jetzt ihr sensationelle Album "Phanerozoic I" live. Das Konzert findet in Bremen statt. Der Clou: Wir können dabei sein! Um endlich mal wieder in den Genuss von Live-Musik zu kommen, könnt Ihr Euch ab sofort zum Online-Event anmelden.**
 
 Am Donnerstag, 25. März um 20 Uhr ist es so weit: The Ocean streamen live vom Pier2 in Bremen. Das Konzert wird außerdem 48 Stunden lang on demand verfügbar sein. Danach ist es vorbei und für weitere Events dieser Art gibt es im Moment noch keine Pläne. Es lohnt sich also, wenn Ihr Euch anmeldet!

@@ -1,13 +1,12 @@
 ---
 date: 2019-12-09T18:12:57.000Z
-slug: die-12-songs-des-jahres-2019
-path: /2019/12/die-12-songs-des-jahres-2019/
 title: Die 12 Songs des Jahres 2019
 seoTitle: Die 12 Songs des Jahres 2019 - präsentiert von den drei von der Bande
 ogTitle: Die 12 Songs des Jahres 2019 - präsentiert von den drei von der Bande
-description: 'Es ist so weit: die Songs 2019 stehen fest. Diese 12 Stücke sind die besten des Jahres. Wir haben sie exklusiv für Euch zusammengestellt.'
-excerpt: 'Es ist so weit: die Songs 2019 stehen fest. Diese 12 Stücke sind die besten des Jahres. Wir haben sie exklusiv für Euch zusammengestellt.'
-fileName: 2019-12---die-12-songs-des-jahres-2019.md
+description: "Es ist so weit: die Songs 2019 stehen fest. Diese 12 Stücke sind
+  die besten des Jahres. Wir haben sie exklusiv für Euch zusammengestellt."
+excerpt: "Es ist so weit: die Songs 2019 stehen fest. Diese 12 Stücke sind die
+  besten des Jahres. Wir haben sie exklusiv für Euch zusammengestellt."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Its-always-coffee-oclock.-1.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Its-always-coffee-oclock.-1.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,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
@@ -55,12 +54,11 @@ labels:
   - Unkle
   - Vinyl
 focusKeyword: Songs des Jahres
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Präsentiert von den drei von der Bande
+
 ---
 
 **Es ist so weit: unsere Songs 2019 stehen fest. Valentin, Matze und ich haben unsere Monatslisten nochmal durchgewälzt und uns entschieden - diese 12 Stücke sind für uns die besten des Jahres.**

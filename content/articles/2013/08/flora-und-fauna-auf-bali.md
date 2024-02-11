@@ -1,17 +1,17 @@
 ---
-date: 2013-08-02T15:24:29.000+00:00
-slug: flora-und-fauna-auf-bali
-path: '/2013/08/flora-und-fauna-auf-bali/'
+date: 2013-08-02T15:24:29.000Z
 title: Flora und Fauna auf Bali
 seoTitle: Flora und Fauna auf Bali
 ogTitle: Flora und Fauna auf Bali
-description: Die Tier- und Planzenwelt auf Bali ist wirklich faszinierend - Eine Bildergalerie
-excerpt: Auf unserer Rundreise ist uns von den typischen Tempelkatzen, Bali-Affen bis zu Seesternen und Bananenspinnen so einiges über den Weg gelaufen.
-fileName: 2013-08---flora-und-fauna-auf-bali.md
+description: Die Tier- und Planzenwelt auf Bali ist wirklich faszinierend - Eine
+  Bildergalerie
+excerpt: Auf unserer Rundreise ist uns von den typischen Tempelkatzen,
+  Bali-Affen bis zu Seesternen und Bananenspinnen so einiges über den Weg
+  gelaufen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_5380__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_5380__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAUI/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDBAURAAYSITEHE0EUMlFhcYGh8f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIREiEDE//aAAwDAQACEQMRAD8AdNzeoN3udYy2h/pqWIkliPgZ/HZ/rS/FdLos7+68kjsxemqamoPEDiSWABwMHrxrJR0zIHDx+1TQMVlySD35z8/5rXXKsbUEjV8lHGsvAzQxiXKH7cDxg4wfxnU4tlzGoHSLlXvKWas4xX9aYsg5rHL7nOQMAGXHRGC3ZI1RvTve12sNqqZ99XGhkp43MfKByxUjz+5OR0M6l++Z7JdbpBEtWU9unMStTxgO8nM8AylR0SzE/wAa6O3ruRXQ2qe1CGej5OfosGCZZeixRh0x/Ts4Peleu9Q+bNaNlno7cO07Zc6aflEIXfLM0Yxk48nUy3ZtBYLdDDT10kccUQIURjB+Pz5+c6NGq8disxTtXp3FdLzBUXC61MzmRWOUHeNXHbOy7TaSlQsQnqOiJJBkjGjRodRt2HsleT//2Q==
-ogImage:
+ogImage: null
 labels:
   - Bali
   - Bali Fauna
@@ -38,12 +38,11 @@ labels:
   - Tiere Bali
   - serie:Bali 2013
 focusKeyword: Flora und Fauna auf Bali
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Unsere große Reise - Teil V
+
 ---
 
 ## **Von den Reisfeldern im Norden zu den Krabbenfischern an der Südküste der Insel**

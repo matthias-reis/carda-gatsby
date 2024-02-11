@@ -1,15 +1,16 @@
 ---
-date: 2016-08-16T11:46:37.000+00:00
-slug: auf-jeder-statue-eine-moewe
-path: '/2016/08/auf-jeder-statue-eine-moewe/'
+date: 2016-08-16T11:46:37.000Z
 type: Galerie
 typeName: Galerie
 title: Seevögel in Helsinki
 seoTitle: Seevögel in Helsinki - Auf jeder Statue eine Möwe
 ogTitle: Seevögel in Helsinki - Auf jeder Statue eine Möwe
-description: Seevögel zu fotografieren macht in Helsinki besonders großen Spaß. Auf jeder Statue (u. davon gibt es viele) scheint sich eine Möwe niedergelassen zu haben.
-excerpt: Seevögel zu fotografieren macht in Helsinki besonders großen Spaß. Auf jeder Statue (und davon gibt es viele) scheint sich eine Möwe niedergelassen zu haben.
-fileName: 2016-08---seevoegel-in-helsinki.md
+description: Seevögel zu fotografieren macht in Helsinki besonders großen Spaß.
+  Auf jeder Statue (u. davon gibt es viele) scheint sich eine Möwe
+  niedergelassen zu haben.
+excerpt: Seevögel zu fotografieren macht in Helsinki besonders großen Spaß. Auf
+  jeder Statue (und davon gibt es viele) scheint sich eine Möwe niedergelassen
+  zu haben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28806792052_72102ee632_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28806792052_72102ee632_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAEBgj/xAAqEAABAwMDAgYCAwAAAAAAAAABAgMEAAURBiExBxITFCJBUWEWI3GBof/EABcBAQEBAQAAAAAAAAAAAAAAAAMBAAL/xAAaEQACAwEBAAAAAAAAAAAAAAAAAREhMQIi/9oADAMBAAIRAxEAPwARuVpV+RT2YjSUtsv9oTnYZ3A/2mno3pNm9WufMnOLhxPF8u4Uo7luqSkelP0nJzn3Iri9OwFXm/3lEJpbqjMjPp7RnAwArJ4A5r0l0/0y9Z7M83LkMOIemvymxHOQhLigrBJG5znjaolUmbuA41VZ7bC07GkQ/M3y3Oj9b7TZbcaIPpK21YVzsFAY29tqNrtf4K4ZZSFtyUcq7kpKVDnbOR/FNnWLTkOTcrFMuJkyoS1LjKb8ZTfY4R3JXlBBIIBG+cYoq1HpOwx7vGeehsvImZZKnnlr7FgekkkknIGP6qXN4drJRkb1C9bmQxb2GY0dKiS02MBX2fk/ZpQ6Ra0mSnnYT7KFNKUSnBx24G/tvzVVSII2dcJ7irbbGEDwyp1xwLHKSlIIxRLLmm62ZkSW0jzLaVqKdiFcgj4xVVRvR+H5P//Z
@@ -27,14 +28,13 @@ labels:
   - serie:Möwen
   - serie:Finnland 2016
 focusKeyword: Seevögel
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Auf jeder Statue eine Möwe
-year: '2016'
-month: '08'
+year: "2016"
+month: "08"
+
 ---
 
 **Was mir in Helsinki gleich aufgefallen ist? Die Möwen sind kein bisschen menschenscheu! Ganz im Gegenteil, sie kommen einem fast zutraulich vor, ganz anders als bei uns in Hamburg.**

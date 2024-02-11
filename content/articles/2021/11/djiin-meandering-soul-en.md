@@ -1,12 +1,16 @@
 ---
 date: 2021-11-10T14:09:50.016Z
-slug: djiin-meandering-soul-en
 typeName: Review
 title: '"Meandering Soul"'
 subTitle: The New Djiin Album
 seoTitle: '"Meandering Soul" – The New Djiin Album – Prog Review'
-description: Djiin recorded an album with Season Of Mist – The outcome is a colourful and heavy scenting potpourri of sounds between prog, stoner and doom. Please have a listen.
-excerpt: Djiin recorded an album with Season Of Mist – Because this sounds like we should give them a listen, I did that, and of course, I have put together all essential details about "Meandering Soul", which will be released by the end of this week.
+description: Djiin recorded an album with Season Of Mist – The outcome is a
+  colourful and heavy scenting potpourri of sounds between prog, stoner and
+  doom. Please have a listen.
+excerpt: Djiin recorded an album with Season Of Mist – Because this sounds like
+  we should give them a listen, I did that, and of course, I have put together
+  all essential details about "Meandering Soul", which will be released by the
+  end of this week.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/djiin-2-jpeg-imagine-280808_614f44_800_533/640.webp
 copyright: |
   Djiin
@@ -31,6 +35,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/11/djiin-meandering-soul/
+
 ---
 
 **Djiin recorded an album with Season Of Mist – Because this sounds like we should give them a listen, I did that, and of course, I have put together all essential details about "Meandering Soul", which will be released by the end of this week.**

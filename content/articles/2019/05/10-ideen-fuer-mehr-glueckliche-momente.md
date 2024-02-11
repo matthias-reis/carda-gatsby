@@ -1,13 +1,13 @@
 ---
 date: 2019-05-07T19:03:13.000Z
-slug: 10-ideen-fuer-mehr-glueckliche-momente
-path: /2019/05/10-ideen-fuer-mehr-glueckliche-momente/
 title: 10 Ideen für mehr glückliche Momente
 seoTitle: 10 Ideen für mehr glückliche Momente - den Alltag genießen
 ogTitle: 10 Ideen für mehr glückliche Momente - den Alltag genießen
-description: 'Eins haben wir wohl alle gemeinsam: Wir sehnen uns danach, glücklich zu sein. Ich habe einige Ideen für mehr glückliche Momente zusammengestellt.'
-excerpt: 'Eins haben wir wohl alle gemeinsam: Wir sehnen uns danach, glücklich zu sein. Ich habe einige Ideen für mehr glückliche Momente zusammengestellt.'
-fileName: 2019-05---10-ideen-fuer-mehr-glueckliche-momente.md
+description: "Eins haben wir wohl alle gemeinsam: Wir sehnen uns danach,
+  glücklich zu sein. Ich habe einige Ideen für mehr glückliche Momente
+  zusammengestellt."
+excerpt: "Eins haben wir wohl alle gemeinsam: Wir sehnen uns danach, glücklich
+  zu sein. Ich habe einige Ideen für mehr glückliche Momente zusammengestellt."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_bielefeld-022__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_bielefeld-022__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcB/8QAJxAAAgIBAwQBBAMAAAAAAAAAAQIDEQQABRIGITFRExQiQZEHcoH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQA/8QAIREAAgIABQUAAAAAAAAAAAAAAQIAAwQFESExIjJhcbH/2gAMAwEAAhEDEQA/AEAdXbft2Zj40u1zt8lfeJFAAJr1p1xt5gc8MXbC5AJPOUKK/Wsf6riR2gmg5MEZo1IFWKtTX+WdaJgD6P6SWeRI8jKSX5MaVuEkSgKVYg3QYtQFfi79HZmN4UaHmJTAVMx6eJbZ3UrY+LLMdnVRGpamkIuh/XXJZzlYME8sUUPyorEKGcCwDV0PdapepchhseWhlR41hkINxkg17Xv+xqKDc8LGkxnnxFaAqFaJjL3Wh4JJAPYnv7rQJmFw7m1hthKQdlkmwph7bmYGW+M+RxyIQ6PJ2YFxY8drr141X7tntuP8pPt8qU3JXlnB+6RaY8B6A50PNV+dGjWVQaSffyNLEOAPEZ9w6ZhSN8lZ2aMEFopF5Bh5omxpZzHD4YlAIvvV2L0aNQrKGE//2Q==
@@ -33,12 +33,11 @@ labels:
   - Stress vermeiden
   - Zufriedenheit
 focusKeyword: glückliche Momente
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Achtsamkeit im Alltag
+
 ---
 
 **Eins haben wir wohl alle gemeinsam: Wir sehnen uns danach, glücklich zu sein. Leider ist das nicht immer so einfach - darum habe ich einige Ideen für mehr glückliche Momente zusammengestellt.**

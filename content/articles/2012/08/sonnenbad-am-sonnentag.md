@@ -1,13 +1,14 @@
 ---
 date: 2012-08-15T18:15:14.000Z
-slug: sonnenbad-am-sonnentag
-path: /2012/08/sonnenbad-am-sonnentag/
 title: Sonnenbad am Sonnentag
 seoTitle: Sonnenbad am Sonnentag
 ogTitle: Sonnenbad am Sonnentag - Tagebucheintrag
-description: 'Feiertage sind was Schönes: Man kann den ganzen Tag sinnlos in der Gegend rumliegen, ohne sich Gedanken zu machen, dass man draußen was verpassen könnte.'
-excerpt: 'Feiertage sind was Schönes: Man kann den ganzen Tag sinnlos in der Gegend rumliegen, ohne sich Gedanken zu machen, dass man draußen was verpassen könnte.'
-fileName: 2012-08---sonnenbad-am-sonnentag.md
+description: "Feiertage sind was Schönes: Man kann den ganzen Tag sinnlos in der
+  Gegend rumliegen, ohne sich Gedanken zu machen, dass man draußen was verpassen
+  könnte."
+excerpt: "Feiertage sind was Schönes: Man kann den ganzen Tag sinnlos in der
+  Gegend rumliegen, ohne sich Gedanken zu machen, dass man draußen was verpassen
+  könnte."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Eis__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Eis__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBQgE/8QAKhAAAgIBBAEDBAEFAAAAAAAAAQIDBBEABRIhBgciURQxQWETMjRDcYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQAD/8QAIxEAAQMDBAIDAAAAAAAAAAAAAQACAwQRQQUSEyExUYGR8P/aAAwDAQACEQMRAD8AS8m21Jdv3K1FVWCWvFzhkjUoG7HIMCDn251TbVRlhaG/bVoK14OYJnXKOqsFYqT8EEH/AHoiZpgCoZij+1lz0QfuDrh9R5tqsw7cNm276GOOWfkAOKuGKlSFycY7H/BqPBK5x4jnPrpXNS08Ue117q/8n8T27dN322XxqGzObkMslivAAyCRWGSuSAP6uxno4wMarotihihat9HDclkYJOIpnL13znDdhRgDHX71N4bWuzVKe2Uo5rAtB8xw8vcruOR9vZHFBn9DWp/MPHdps+N7X9RXicVCs68V48mVeIyR2QB+DoklTJANpNw3Pz++kPjY83AtdZj2HbLW4X6cCtEkdpwgsOfZEpxl2+SFOQoyT11jTL3P0H2i/WlTbfI71gooeAS0+OTnsHoZyPt199Nf0MpVbPpV4qtmtBMv8aviSMMOX8P37/P70UXYo696uIESLCtjgOP+Q/Gmsj2uIC61NU+qcJJMYwgP088Kq+BbVetF2t2BTWJ7KIYWrRqvuEYdTlie8nGcDrU0/l/jW8+Pxttu5cjG0cEqWgIGjZh7S/LCqDjOc4+NNOl/d2T+SEyfnrQlum30m89lhanXMT7fWDIYl4sBNIBkY761qqmaYww+D0jRSFz75X//2Q==
@@ -48,12 +49,11 @@ labels:
   - Wetter
   - Wolken
 focusKeyword: Sonnenbad
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Tagebucheintrag
+
 ---
 
 **Feiertage sind was Schönes: Man kann den ganzen Tag sinnlos in der Gegend rumliegen, ohne sich Gedanken zu machen, dass man draußen was verpassen könnte. Oder man fährt (wenn es das Wetter zulässt) mit lieben Leuten an einen schönen See und lässt die Seele baumeln. Heute so geschehen.**

@@ -1,14 +1,18 @@
 ---
 date: 2023-12-05T10:30:53.766Z
-slug: engelsblume-interview
 typeName: Interview
-title: 'Bio-veganer Gemüseanbau und Psychotherapie'
+title: Bio-veganer Gemüseanbau und Psychotherapie
 subTitle: Interview mit Psychologin (M.Sc.) und Bio-Gärtnerin Katja Blume
-seoTitle: 'Bio-veganer Gemüseanbau und Psychotherapie – EngelsBlume Interview'
-description: Bio-veganer Gemüseanbau und Psychotherapie gehen gut zusammen. Das beweist EngelsBlume Gründerin Katja. Erfahrt jetzt alles über das Projekt!
-excerpt: Biogemüse und Resilienztraining passen hervorragend zusammen. Katja Blume ist die Gründerin von EngelsBlume. Wer zu ihr nach Brüggen kommt, kann am therapeutischen Gärtnern teilnehmen und dabei sich selbst besser kennenlernen. Ich habe sie getroffen und mich mit ihr über dieses wunderbare Projekt unterhalten.
+seoTitle: Bio-veganer Gemüseanbau und Psychotherapie – EngelsBlume Interview
+description: Bio-veganer Gemüseanbau und Psychotherapie gehen gut zusammen. Das
+  beweist EngelsBlume Gründerin Katja. Erfahrt jetzt alles über das Projekt!
+excerpt: Biogemüse und Resilienztraining passen hervorragend zusammen. Katja
+  Blume ist die Gründerin von EngelsBlume. Wer zu ihr nach Brüggen kommt, kann
+  am therapeutischen Gärtnern teilnehmen und dabei sich selbst besser
+  kennenlernen. Ich habe sie getroffen und mich mit ihr über dieses wunderbare
+  Projekt unterhalten.
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-05/katja-blume-engelsblume-interview-soundsvegan-jpg-imagine-f8f8f8_717053_1024_768/640.webp
-copyright: 'Katja Blume'
+copyright: Katja Blume
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-05/katja-blume-engelsblume-interview-soundsvegan-og-jpg-imagine-080808_696443_1200_628/640.webp
 labels:
   - EngelsBlume
@@ -36,6 +40,7 @@ focusKeyword: Psychologie
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Biogemüse und Resilienztraining: Ihr findet, das passt nicht zusammen? Und ob es das tut! Ich habe Katja, die Betreiberin von EngelsBlume kennengelernt – sie bietet in Brüggen therapeutisches Gärtnern und Counseling im Grünen an und hilft damit Menschen in schwierigen Phasen ihres Lebens.**

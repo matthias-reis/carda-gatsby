@@ -1,13 +1,13 @@
 ---
 date: 2016-08-05T12:11:19.000Z
-slug: diy-tisch-aus-weinkiste
-path: /2016/08/diy-tisch-aus-weinkiste/
 title: DIY Tisch
 seoTitle: DIY Tisch aus Weinkiste - So funktioniert es
 ogTitle: DIY Tisch aus Weinkiste - So funktioniert es
-description: Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt sich dabei um einen Tisch aus einer Weinkiste, den ich gebaut habe.
-excerpt: Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt sich dabei um einen Tisch aus einer Weinkiste, den ich gestern mal eben schnell gebaut habe.
-fileName: 2016-08---diy-tisch.md
+description: Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt
+  sich dabei um einen Tisch aus einer Weinkiste, den ich gebaut habe.
+excerpt: Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt sich
+  dabei um einen Tisch aus einer Weinkiste, den ich gestern mal eben schnell
+  gebaut habe.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28496346770_120947d206_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28496346770_120947d206_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAoEAACAgIBAwMDBQAAAAAAAAABAgMEBREABhIhEyIxB0FRFEJhcZH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAYCBf/EABsRAAMAAwEBAAAAAAAAAAAAAAABAgMREkEx/9oADAMBAAIRAxEAPwDYdRVd4CJQzIfWiJKkg/J15HEXUvWWU6d6fo+lDRui1KYiLcRcEBd/Yj+OO+o70cXS0tiaRECFZveQu+0hiBv5OgeS3rdrWVq4IYRbFtVWSaP0YzIr7C6LeNa1+SOTjmqzToo1UrE9+DLFfU/OWbN2GPH44LFWaUxxCUgsPbGoBcgbdlHN9hLGSyWPyE2SSsqw2nqwmBWHeE8Mx2T+7YGvxye9E42LHSfqMnapUbcjR90dhRLKrBjpIzF7SNhT7tkEedfJbZzNXMXhkpY3IyRwVu702RQrOSSSW+dkkk8Ycua14B6mp2vpEp7Ni5GGszyTP590rFyNf3zhF2/Tpwx1L9iGFkkTsVjoL3g6H2Hnhw48jntsc9K33hlUkF3B7+92JYnX3J4zzeUnmibuJ/3hw5hpdBJb5P/Z
@@ -22,12 +22,11 @@ labels:
   - Tisch
   - Weinkiste
 focusKeyword: Weinkiste
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Aus Weinkiste wird Möbelstück
+
 ---
 
 **Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt sich dabei um einen Tisch aus einer Weinkiste, den ich gestern mal eben schnell gebaut habe.**

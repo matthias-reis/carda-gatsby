@@ -1,25 +1,22 @@
 ---
 ogTitle: C. Diab im Interview - "Musik ist eine tiefere Kommunikationsform"
-excerpt: '"White Whale" von C. Diab ist vor Kurzem erschienen. Ich habe micht jetzt mit dem Ausnahmemusiker aus Vancouver zum Interview verabredet.'
+excerpt: '"White Whale" von C. Diab ist vor Kurzem erschienen. Ich habe micht
+  jetzt mit dem Ausnahmemusiker aus Vancouver zum Interview verabredet.'
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_c.diab-fb.png__l.jpg
 isAffiliate: false
-path: /2020/08/c-diab-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBAMFBv/EACwQAAICAgEDAgUDBQAAAAAAAAECAwQFEQAGEiEiMQcTFEFRMlKhYXGBkbH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUG/8QAJREAAgEBBwQDAAAAAAAAAAAAAQIAAwQRITFBUaEFEzJhscHw/9oADAMBAAIRAxEAPwBk1JYMTjXvWVaOnSrsGmWSOdnd2Ud3pC7IVVHkDx/bnB9d5yzey+PmxtqzGKyQyVZe1o/qDvZdUI+/qXx7EcadbHQ38Y9bLVlmSdw0ke9gka0dgj9oPF63WdOrnpMdDdhrYnB+kvFPpYO1xot3b79+V0Nn/vM8abVT3MyTnphLFFlpm7SS+IOKvdRdc1MZjo/U8RlKtpe3wv6j/Gvzyv1jckq5B8daXUyKzdoZtIyHY7QB6jtRst49Q1rk7XxBoWeqZTTK/SfOjZLbBiJQuiGUKD9wNb1+ebGxUr5G3LYnsWLcVh+5og+ozs+dhdFh/QniCMtEAVk3uy1PBhSpbxO0pfEvqzI46CviMFFDJbvRMHmlPakC71suSAv39+Ju90PZgo2rkWWxd1azoZEruzuEZgC58aABPnz7Anhw5bsoC0lI/YxQIHLBvfxMQy2RxNKP6R68i12IUmMEMinSt/n346sfY+XOxYr3FNtrxs7Xz/J/3w4cmdTRQFIGJv8AqMWck8T/2Q==
 typeName: Interview
 isWerbung: false
-fileName: 2020-08---c-diab.md
-slug: c-diab-interview
-errors: {}
 date: 2020-08-21T07:12:02.000Z
 focusKeyword: C. Diab
 languageLink: /2020/08/c-diab-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_photo-by-ian-william-craig-2-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_photo-by-ian-william-craig-2-1__m.jpg
 title: C. Diab
 subTitle: '"Musik ist eine tiefere Kommunikationsform"'
 seoTitle: C. Diab im Interview - "Musik ist eine tiefere Kommunikationsform"
-description: '"White Whale" von C. Diab ist vor Kurzem erschienen. Ich habe micht jetzt mit dem Ausnahmemusiker aus Vancouver zum Interview verabredet.'
+description: '"White Whale" von C. Diab ist vor Kurzem erschienen. Ich habe
+  micht jetzt mit dem Ausnahmemusiker aus Vancouver zum Interview verabredet.'
 language: de
 type: Artikel
 labels:
@@ -33,6 +30,7 @@ labels:
   - Paul Steward
   - Post-Rock
   - Vancouver
+
 ---
 
 **C. Diab habe ich Euch in meiner [Musikliste für den Juli](/2020/06/12-songs-fuer-den-juli/) vorgestellt. Der Ausnahmemusiker aus Vancouver möchte die Menschen mit seiner Musik zum Träumen anregen.**

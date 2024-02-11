@@ -1,13 +1,14 @@
 ---
 date: 2015-12-28T18:57:20.000Z
-slug: silvester-auf-boeller-verzichten
-path: /2015/12/silvester-auf-boeller-verzichten/
 title: Silvester auf Böller verzichten
 seoTitle: Silverster auf Böller verzichten - Für Tiere und Menschen
 ogTitle: Silverster auf Böller verzichten - Für Tiere und Menschen
-description: Auf Böller verzichten bedeutet Mitgefühl und Empathie. Für die Tiere und die Menschen sollte man sich dies zu Herzen nehmen.
-excerpt: Auf Böller zu verzichten, bedeutet Mitgefühl und Empathie. Für die Tiere und die Menschen sollte man sich das zu Herzen nehmen. Stellt Euch vor, Euer Haus wäre einer Bombe zum Opfer gefallen und Eure neuen Nachbarn zünden Böller an.
-fileName: 2015-12---silvester-auf-boeller-verzichten.md
+description: Auf Böller verzichten bedeutet Mitgefühl und Empathie. Für die
+  Tiere und die Menschen sollte man sich dies zu Herzen nehmen.
+excerpt: Auf Böller zu verzichten, bedeutet Mitgefühl und Empathie. Für die
+  Tiere und die Menschen sollte man sich das zu Herzen nehmen. Stellt Euch vor,
+  Euer Haus wäre einer Bombe zum Opfer gefallen und Eure neuen Nachbarn zünden
+  Böller an.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_Rose1-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_Rose1-1-von-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACgQAAIBAwMEAQQDAAAAAAAAAAECAwQFEQASMQYTIUFhIiMyUVKB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAbEQADAAMBAQAAAAAAAAAAAAAAAQIDESExQf/aAAwDAQACEQMRAD8ATLVaqe0316R7fb5FjnCIyxhtqKFIfJBzksOec6s1ptNVdDcoDR2yqqp8ysyxRhseg+QMeTqDdIzNf+oKmK011LSyV6L2ErEZERkIbBJ8EYy2ByQBq9Q3K42jpesNcsUU7yxs9VAAzOTnbuC+AMD1zuz4405MkqeDMPfSC9WdMNTpcqG40KUFxiqWYwFQCqeQpB4x7zxg6Sp6Iy0kbrkhlEcTDOAgHx/Zzq9dTXymqIrbNJI5uMfchRgof7bDJR1/ic+B8nUqum611lXtC03ZkCOoxs+No9DBGuapbWzQxraai5WG6GaoLQKyxduRQ+CBuDKfG3j1petl1r4g0KVlR2fz7ZkJQsB4JHBI0aNUvGVXxjFJ1FcVpO3NIlQnJ7yZOV/RGMaxqm8zVhklkQAyxsxAY4H1f5o0aF0qvdH/2Q==
@@ -24,12 +25,11 @@ labels:
   - spenden
   - Tierschutz
 focusKeyword: auf Böller verzichten
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Für Tiere und Menschen
+
 ---
 
 **Hört Ihr auch schon seit Tagen immer wieder Böller und Raketen, die "zur Probe" angezündet werden von Menschen, die Silvester nicht erwarten können? Ich wurde sogar schon ein paar Mal davon aus dem Schlaf gerissen und kann es einfach nicht verstehen.**

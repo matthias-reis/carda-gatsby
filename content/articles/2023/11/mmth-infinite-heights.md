@@ -1,14 +1,17 @@
 ---
 date: 2023-11-08T08:14:00.766Z
-slug: mmth-infinite-heights
 typeName: Review
 title: MMTH – "Infinite Heights"
-subTitle: 'Experimentell, instrumental und geradeheraus'
+subTitle: Experimentell, instrumental und geradeheraus
 seoTitle: MMTH – "Infinite Heights" – Post-Rock-Review
-description: Das neue MMTH Album "Infinite Heights" ist ziemlich genialer Post-Rock. Lest jetzt, warum Ihr es auf keinen Fall verpassen solltet!
-excerpt: '"Infinite Heights" von MMTH ist ein großartiges Post-Rock-Album, das von seiner Vielseitigkeit lebt – Tremolo und kinematische Momente inklusive. Kommt mit auf einen spannenden Roadtrip voll Überraschungen und Verspieltheit!'
+description: Das neue MMTH Album "Infinite Heights" ist ziemlich genialer
+  Post-Rock. Lest jetzt, warum Ihr es auf keinen Fall verpassen solltet!
+excerpt: '"Infinite Heights" von MMTH ist ein großartiges Post-Rock-Album, das
+  von seiner Vielseitigkeit lebt – Tremolo und kinematische Momente inklusive.
+  Kommt mit auf einen spannenden Roadtrip voll Überraschungen und
+  Verspieltheit!'
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-08/mmth-infinite-heights-4-jpg-imagine-080808_656565_1024_768/640.webp
-copyright: 'MMTH'
+copyright: MMTH
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-08/mmth-infinite-heights-2-og-jpg-imagine-989898_746d6c_1200_628/640.webp
 labels:
   - Band
@@ -27,6 +30,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/11/mmth-infinite-heights-en/
+
 ---
 
 **MMTH setzen mit "Infinite Heights" neue Standards in Sachen Klang. Kommt mit auf einen vielseitigen Roadtrip in die unendlichen Berge der Resonanz und die Tiefen der Gitarrenwände – inklusive Tremolo und kinematischer Momente.**

@@ -1,13 +1,12 @@
 ---
 date: 2012-11-22T17:35:49.000Z
-slug: das-pony-im-waschetrockner-oder-wie-ich-meine-eltern-in-die-gesellschaft-einfuhrte
-path: /2012/11/das-pony-im-waschetrockner-oder-wie-ich-meine-eltern-in-die-gesellschaft-einfuhrte/
 title: Das Pony im Wäschetrockner
 seoTitle: Das Pony im Wäschetrockner - Die Einführung in die Gesellschaft
 ogTitle: Das Pony im Wäschetrockner - Die Einführung in die Gesellschaft
-description: Heute möchte ich Euch die Geschichte vom Pony im Wäschetrockner erzählen. Es ist eine sehr ernste Geschichte. Kein Auge wird trocken bleiben.
-excerpt: Heute möchte ich Euch die Geschichte vom Pony im Wäschetrockner erzählen. Es ist eine sehr ernste Geschichte. Kein Auge wird trocken bleiben.
-fileName: 2012-11---das-pony-im-waeschetrockner.md
+description: Heute möchte ich Euch die Geschichte vom Pony im Wäschetrockner
+  erzählen. Es ist eine sehr ernste Geschichte. Kein Auge wird trocken bleiben.
+excerpt: Heute möchte ich Euch die Geschichte vom Pony im Wäschetrockner
+  erzählen. Es ist eine sehr ernste Geschichte. Kein Auge wird trocken bleiben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_11_img_1239__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_11_img_1239__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQP/xAAvEAACAQMCBQEFCQAAAAAAAAABAgMEBQYAEQcSITFBIhMUFWFxFhcjMlGBkbGz/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EABsRAQACAwEBAAAAAAAAAAAAAAEAAgMSIREx/9oADAMBAAIRAxEAPwCd5jmOVTcSsmjXJb3FTU9wqkSKGtkjjSON2VVCqQAAANH41leRxUiSVN/vUs08Q5UkrZWK9e59Xc6UM3Bi4g5ox7m51W37zHQtLfvc6WljWkXmhjKtIXIMhLE8x2Hz21J6zvqAEsv2muskPu8F5ub1Y23BrJB46+dYdhyfIYuJuMUy5FeGjevgjnierkeJ0ZwpUqx5SCD367fXU9pMurY5ZpIIadSF2DOWY7Hv/WmPEoJ/vDxaoaYAyXOjflXfYfiLv50Q1exWBr8ixxGJOeZT1JPxWr/2bWtiNigmEiVbqKz2Qkii5VJ+hLdPOnfK+DGT12ZXu4UywSQ1NwnqoxzlfS8hYfmUDyPOudv4b5laK8VcloqZpPVzSRRrL3HbZWPy8alnttTyj2bhtUTaTvIrWkFW60/KJCnMyD9Ovjc9dN+IQVNdf8LrfZB4RcaXmZJACCJVB5kPU9vGhZcEyhnrKiWy3Z6t3JVI6R+o8dwP41t8ObDlcOQ47SVWN3inSG4xSySS0jxxogkDMxYjYADfzoWb6nnUjbVsPZ//2Q==
@@ -29,12 +28,11 @@ labels:
   - Stimmung
   - Traum
 focusKeyword: Wäschetrockner
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
-subTitle: 'Oder: Wie ich meine Eltern in die Gesellschaft einführte'
+subTitle: "Oder: Wie ich meine Eltern in die Gesellschaft einführte"
+
 ---
 
 **Herbst. Winter schon fast. Es ist kalt und eklig. Der Nebel wird von Tag zu Tag undurchdringlicher. Ich sitze, überlege, arbeite, denke, schreibe. Vermutlich wird das Buch den Titel 'Das Pony im Wäschetrockner - Oder: Wie ich meine Eltern in die Gesellschaft einführte' tragen. Man darf gespannt sein.**

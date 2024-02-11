@@ -1,15 +1,14 @@
 ---
-date: 2020-04-30T06:31:46.000+00:00
-slug: vegane-moehrensuppe
-path: '/2020/04/vegane-moehrensuppe/'
+date: 2020-04-30T06:31:46.000Z
 type: Artikel
 typeName: Rezept
 title: Vegane Möhrensuppe
 seoTitle: Vegane Möhrensuppe mit Süßkartoffeln und Kokosmilch
 ogTitle: Vegane Möhrensuppe mit Süßkartoffeln und Kokosmilch
-description: Lust auf ein Süppchen? Ich habe mir vor Kurzem ein leckeres veganes Rezept ausgedacht, dass ich gerne mit Euch teilen möchte.
-excerpt: Lust auf ein Süppchen? Ich habe mir vor Kurzem ein leckeres veganes Rezept ausgedacht, dass ich gerne mit Euch teilen möchte.
-fileName: 2020-04---vegane-moehrensuppe.md
+description: Lust auf ein Süppchen? Ich habe mir vor Kurzem ein leckeres veganes
+  Rezept ausgedacht, dass ich gerne mit Euch teilen möchte.
+excerpt: Lust auf ein Süppchen? Ich habe mir vor Kurzem ein leckeres veganes
+  Rezept ausgedacht, dass ich gerne mit Euch teilen möchte.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-28-moehrensuppe-04__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_%EF%BF%BC2020-04-28-moehrensuppe-04__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAgQH/8QALRAAAgECBQIFAgcAAAAAAAAAAQIDBBEABQYSITFBBxMicYFRkRQyQlJhYrH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAIFBv/EACIRAAEEAQQCAwAAAAAAAAAAAAEAAgMEEQUTMUEUIWFx8P/aAAwDAQACEQMRAD8A6JmszUPl0kJX8VKNzyBeFAFrgfQWso6ADC0T0VKpkqLO45MkvrJ+Tjf1rSvTaifdwrxqV9un+4hc4pG3mUmW1x6i9rD+BjCXLjpbj45DgNOB++Vf1IA2Fpb2FV+dTzwipoiImNyGj9N/cd/nDDL5TmVKwdEaoQFdrflYEcqf6sOD9OvUDETp6d5ae0bbogSCB0xc6KpHnziRVB2LHdvuLYNC5JFeEAOQfWELkLXQFx5CYZBmuUeI+nYJKSeOnzWkULJC7euE/tbuUP6X7+98Jc60xXpE8NXSSbTxuVSyn5GDBh/X9Phx5Tch/rhKafYe07XSw07pOs2COlo5eTyzKVX7nFNnOY5X4f6cmNTLHUZlVAhYlazTNa21e4Qd27c97DBgxLQaERHluyXnPPX0hfsPJ2ul/9k=
@@ -20,15 +19,13 @@ labels:
   - Möhrensuppe Rezept
   - Suppe
   - vegane Rezepte
-
 focusKeyword: Möhren
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Mit Süßkartoffeln und Kokosmilch
 affiliate: true
+
 ---
 
 **Lust auf ein Süppchen? Ich habe mir vor Kurzem ein leckeres veganes Rezept ausgedacht, dass ich gerne mit Euch teilen möchte. Ihr braucht dafür nur ein paar Zutaten.**

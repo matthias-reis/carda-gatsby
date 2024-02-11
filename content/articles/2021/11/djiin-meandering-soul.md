@@ -1,12 +1,16 @@
 ---
 date: 2021-11-10T14:19:27.784Z
-slug: djiin-meandering-soul
 typeName: Review
 title: '"Meandering Soul"'
 subTitle: Das neue Album von Djiin
 seoTitle: '"Meandering Soul" von Djiin – Prog Review'
-description: Djiin haben mit Season Of Mist ein Album aufgenommen, dass Ihr Euch mal anhören solltet, wenn Ihr mit Prog, Stoner Rock und Doom was anfangen könnt – und mit den frühen Sachen von Black Sabbath.
-excerpt: Djiin haben mit Season Of Mist eine neue Platte gemacht. Das klingt doch, als sollte man da mal reinhören, oder? Ich habe das getan und habe hier die wichtigsten Rahmendaten für das Ende der Woche erscheinende Album "Meandering Soul" für Euch.
+description: Djiin haben mit Season Of Mist ein Album aufgenommen, dass Ihr Euch
+  mal anhören solltet, wenn Ihr mit Prog, Stoner Rock und Doom was anfangen
+  könnt – und mit den frühen Sachen von Black Sabbath.
+excerpt: Djiin haben mit Season Of Mist eine neue Platte gemacht. Das klingt
+  doch, als sollte man da mal reinhören, oder? Ich habe das getan und habe hier
+  die wichtigsten Rahmendaten für das Ende der Woche erscheinende Album
+  "Meandering Soul" für Euch.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/djiin-2-jpeg-imagine-280808_614f44_800_533/640.webp
 copyright: Djiin
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/djiin-fb-png-imagine-c8c8c8_656565_1200_628/640.webp
@@ -30,6 +34,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/11/djiin-meandering-soul-en/
+
 ---
 
 **Djiin haben mit Season Of Mist eine neue Platte gemacht. Das klingt doch, als sollte man da mal reinhören, oder? Ich habe das getan und habe hier die wichtigsten Rahmendaten für das Ende der Woche erscheinende Album "Meandering Soul" für Euch.**

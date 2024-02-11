@@ -1,24 +1,24 @@
 ---
-ogTitle: Ethnotek und Viva con Agua - Eine besondere Kooperation - Das steckt in meinem neuen Rucksack drin
-excerpt: Mein neuer Rucksack ist etwas ganz Besonderes. Unterstützt werden durch den Kauf Künstler und Handwerker in Indien sowie der Verein Viva con Agua.
+ogTitle: Ethnotek und Viva con Agua - Eine besondere Kooperation - Das steckt in
+  meinem neuen Rucksack drin
+excerpt: Mein neuer Rucksack ist etwas ganz Besonderes. Unterstützt werden durch
+  den Kauf Künstler und Handwerker in Indien sowie der Verein Viva con Agua.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Etnothek-5__l.jpg
 isAffiliate: false
-path: /2017/06/ethnotek-viva-con-agua/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYE/8QAKxAAAQQBAwMCBQUAAAAAAAAAAQIDBBEFABIhBjFBEyIHFFFScSMyYZHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAEQMSITFx/9oADAMBAAIRAxEAPwAGfzBBkbkF5l2QAoBzaRtA5Bo0a4vxpZ6JxXw+yWNbfajlLi/e6zkFBa9wPYKNFQv7dCUaBJmBHy7a17nij2EXYSPr+dIGM6ZyuHiwZwyrEGMslt5QKlLQtXIHtT5o/wBasWI+SIQeX2I3Vyo0zGycdHivxWnUeoh9ygNzYNbQSDRBqgOOK0e4aN8xk8fEDTjTbq7cbUoKSABZP+nVzh4mEakNzJkiVkpIs7njsSb4ICeVHzxxqAwmFlL68fx8d0RkictJBHZBV2ryNtcaaNZhZaHJKYFb8Ca7KMSRIYiLLjiWXC2pJCTZvxVWfxWmDpXKL6tVLwS44dgzLQp5aylbCNoU2tP3Uqj/ABZ51N4w43BYyc3Hbbm5Sen5cREOWdhFKUs87E89yOa0bYbNTfVjQnpElyEgKSWUq8V5+tV57DWZcm4sCamTQ0YpdLZKJi8guO02FTm1lpaGv1F2DtI4vyD3VWt07DzJGYe6ggIRsbkMiXHaXudbQpQIdVXZN+2xxwdT3SjOTy7qGunsUoIVQL8khDSR9aHB0hROjslh+v8AFvtZITJSYiH50h1v00+kpbiCyhI/ek0r2q7UlV+NNcmnTJHHuaE//9k=
 advertisement: true
 isWerbung: false
-fileName: 2017-06---ethnotek-und-viva-con-agua.md
-slug: ethnotek-viva-con-agua
-errors: {}
-date: 2017-06-27T08:15:20.000+00:00
+date: 2017-06-27T08:15:20.000Z
 focusKeyword: Ethnotek
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34723873994_e2e2bdfa3c_z__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34723873994_e2e2bdfa3c_z__m.jpg
 title: Ethnotek und Viva con Agua
 subTitle: Mein neuer Rucksack ist da
-seoTitle: Ethnotek und Viva con Agua - Eine besondere Kooperation - Das steckt in meinem neuen Rucksack drin
-description: Mein Ethnotek Rucksack ist etwas ganz Besonderes. Unterstützt werden durch den Kauf Künstler und Handwerker in Indien sowie der Verein Viva con Agua.
+seoTitle: Ethnotek und Viva con Agua - Eine besondere Kooperation - Das steckt
+  in meinem neuen Rucksack drin
+description: Mein Ethnotek Rucksack ist etwas ganz Besonderes. Unterstützt
+  werden durch den Kauf Künstler und Handwerker in Indien sowie der Verein Viva
+  con Agua.
 labels:
   - Antifaschismus & Feminismus
   - Charity
@@ -40,6 +40,7 @@ labels:
   - Wasser
   - Wasser für alle
 language: de
+
 ---
 
 **"Dein neuer Rucksack? Musst Du jetzt wirklich alles im Internet posten?" - Nein. Aber weil es sich bei diesem Rucksack um ein ganz besonderes Stück, besser gesagt eine Gemeinschaftsproduktion von  _Ethnotek_ und  _Viva con Agua_ handelt, muss ich das jetzt einfach mit Euch teilen.**

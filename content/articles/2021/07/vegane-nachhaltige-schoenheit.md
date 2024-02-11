@@ -1,11 +1,13 @@
 ---
 date: 2021-07-13T14:54:13.231Z
-slug: vegane-nachhaltige-schoenheit
 typeName: Beitrag
 title: Vegane und nachhaltige Schönheit
 subTitle: Beauty-Produkte ohne Tierleid
 seoTitle: Vegane und nachhaltige Schönheit – Beauty-Produkte ohne Tierleid
-description: Vegane und nachhaltige Schönheitsprodukte sind im Trend. Immer mehr Menschen besinnen sich darauf, nicht nur bei ihrer Ernährung und Bekleidung auf Nachhaltigkeit zu achten und Tierleid-freie Produkte zu kaufen, sondern auch bei Kosmetik.
+description: Vegane und nachhaltige Schönheitsprodukte sind im Trend. Immer mehr
+  Menschen besinnen sich darauf, nicht nur bei ihrer Ernährung und Bekleidung
+  auf Nachhaltigkeit zu achten und Tierleid-freie Produkte zu kaufen, sondern
+  auch bei Kosmetik.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/douglas-clean-beauty-jpg-imagine-e8c8b8_967263_1024_768/640.webp
 copyright: Douglas/Clean Beauty
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/douglas-clean-beauty-fb-jpg-imagine-e8c8a8_ac8a79_1200_628/640.webp
@@ -19,6 +21,7 @@ focusKeyword: Nachhaltige Schönheit
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Vegane und nachhaltige Schönheitsprodukte sind im Trend. Immer mehr Menschen besinnen sich darauf, nicht nur bei ihrer Ernährung und Bekleidung auf Nachhaltigkeit zu achten und Tierleid-freie Produkte zu kaufen, sondern auch bei Kosmetik.**

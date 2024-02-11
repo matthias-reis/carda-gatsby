@@ -1,12 +1,17 @@
 ---
 date: 2022-03-10T10:37:52.506Z
-slug: patience-of-the-trail-rite
 typeName: Review
 title: Patience Of The Trail – "Rite"
 subTitle: Die Debüt-EP des Post-Rock Duos
 seoTitle: Patience Of The Trail – "Rite" – Post-Rock Review
-description: Jan Wiesinger gründete Patience Of The Trail 2019 zunächst als Solo-Projekt. Inzwischen ist das Projekt ein Duo und hat die wunderbare Debüt-EP "Rite" veröffentlicht.
-excerpt: Jan Wiesinger gründete Patience Of The Trail 2019 zunächst als Solo-Projekt. Inspirieren ließ er sich von Bands wie I Hear Sirens, If These Trees Could Talk und pg.lost. Als das Ziel, eine Platte aufzunehmen, 2020 immer ernster wurde, stieg Drummer Pascal Schwimmer mit ein und die ersten Demos entstanden. Die erste EP "Rite" nahm das Duo im Oktober 2021 auf.
+description: Jan Wiesinger gründete Patience Of The Trail 2019 zunächst als
+  Solo-Projekt. Inzwischen ist das Projekt ein Duo und hat die wunderbare
+  Debüt-EP "Rite" veröffentlicht.
+excerpt: Jan Wiesinger gründete Patience Of The Trail 2019 zunächst als
+  Solo-Projekt. Inspirieren ließ er sich von Bands wie I Hear Sirens, If These
+  Trees Could Talk und pg.lost. Als das Ziel, eine Platte aufzunehmen, 2020
+  immer ernster wurde, stieg Drummer Pascal Schwimmer mit ein und die ersten
+  Demos entstanden. Die erste EP "Rite" nahm das Duo im Oktober 2021 auf.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-10/patience-of-the-trail-jpg-imagine-080808_63686d_1024_768/640.webp
 copyright: Patience Of The Trail
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-10/patience-of-the-trail-fb-png-imagine-080808_53585d_1200_628/640.webp
@@ -25,6 +30,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/03/patience-of-the-trail-rite-en/
+
 ---
 
 **Jan Wiesinger gründete Patience Of The Trail 2019 zunächst als Solo-Projekt. Inspirieren ließ er sich von Bands wie I Hear Sirens, If These Trees Could Talk und pg.lost. Als das Ziel, eine Platte aufzunehmen, 2020 immer ernster wurde, stieg Drummer Pascal Schwimmer mit ein und die ersten Demos entstanden. Die erste EP "Rite" nahm das Duo im Oktober 2021 auf.**

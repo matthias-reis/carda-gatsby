@@ -1,11 +1,13 @@
 ---
 date: 2021-07-01T23:00:48.583Z
-slug: live-at-dafestival-gregoire-thot
 typeName: Review
 title: '"Live at daFestival"'
 subTitle: Grégoire von Thot veröffentlicht Solo-EP
 seoTitle: '"Live at daFestival" – Grégoire von Thot veröffentlicht Solo-EP'
-description: Grégoire Fray von Thot hat eine Solo-Live-EP aufgenommen, die heute veröffentlicht wird. Ich durfte schon vorab in "Live at daFestival" reinhören und bin begeistert. Die Aufnahme für "Live at daFestival 2020" fand während des ersten Lockdowns für ein Youtube Event des Belgischen Zines daMusic statt.
+description: Grégoire Fray von Thot hat eine Solo-Live-EP aufgenommen, die heute
+  veröffentlicht wird. Ich durfte schon vorab in "Live at daFestival" reinhören
+  und bin begeistert. Die Aufnahme für "Live at daFestival 2020" fand während
+  des ersten Lockdowns für ein Youtube Event des Belgischen Zines daMusic statt.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/gregoire-fray-jpg-imagine-080808_6f6e6f_1024_768/640.webp
 copyright: Grégoire Fray
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/gregoire-fray-fb-jpg-imagine-080808_7a797b_1200_628/640.webp
@@ -27,6 +29,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/07/live-at-dafestival-gregoire-thot-en
+
 ---
 
 **Grégoire Fray von Thot hat eine Solo-Live-EP aufgenommen, die heute veröffentlicht wird. Ich durfte schon vorab in "Live at daFestival" reinhören und bin begeistert.**

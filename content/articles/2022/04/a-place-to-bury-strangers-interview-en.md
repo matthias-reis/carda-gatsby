@@ -1,12 +1,16 @@
 ---
 date: 2022-04-06T15:03:28.942Z
-slug: a-place-to-bury-strangers-interview-en
 typeName: Interview
 title: A Place To Bury Strangers Founder Oliver Ackermann
 subTitle: '"People Will Eventually All Go Vegan"'
 seoTitle: A Place To Bury Strangers – Interview – Shoegaze – Vegan
-description: I talked to Place To Bury Strangers founder Oliver Ackermann about the new album "See Through You", his vegan lifestyle, and he revealed how the current tour is going and what's next on the APTBS schedule.
-excerpt: A Place To Bury Strangers founder Oliver Ackermann agreed to an interview. We talked about the new album "See Through You". I also asked him some questions about his vegan lifestyle, and he revealed how the current tour is going and what's next on the APTBS schedule.
+description: I talked to Place To Bury Strangers founder Oliver Ackermann about
+  the new album "See Through You", his vegan lifestyle, and he revealed how the
+  current tour is going and what's next on the APTBS schedule.
+excerpt: A Place To Bury Strangers founder Oliver Ackermann agreed to an
+  interview. We talked about the new album "See Through You". I also asked him
+  some questions about his vegan lifestyle, and he revealed how the current tour
+  is going and what's next on the APTBS schedule.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-4-jpg-imagine-080808_000000_1024_768/640.webp
 copyright: Nick Sayers, Deathwish Photography
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-06/a-place-to-bury-strangers-nick-sayers-fb-png-imagine-080808_2d2d29_1200_628/640.webp
@@ -28,6 +32,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/04/a-place-to-bury-strangers-interview/
+
 ---
 
 **A Place To Bury Strangers founder Oliver Ackermann agreed to an interview. We talked about the new album "See Through You". I also asked him some questions about his vegan lifestyle, and he revealed how the current tour is going and what's next on the APTBS schedule.**

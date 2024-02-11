@@ -9,7 +9,6 @@ labels:
   - vegane Salami-Pizza
   - Rezepte
 language: de
-slug: vegane-salami-pizza
 typeName: Rezept
 title: Vegane Salami-Pizza
 subTitle: Einfaches Rezept für ein Blech
@@ -27,6 +26,7 @@ advertisement: true
 affiliate: true
 productsProvided: true
 languageLink: ""
+
 ---
 
 **Vegane Salami-Pizza geht nicht? Geht doch! Hier kommt der Beweis! Ich habe ein einfaches und schönes Einstiegsrezept für Euch aufgeschrieben. Die Zutaten könnt Ihr je nach Geschmack variieren.**

@@ -1,15 +1,16 @@
 ---
 date: 2018-06-06T06:42:14.000Z
-slug: kartoffelsalat-mit-superfruits-und-zuckerschoten
-path: /2018/06/kartoffelsalat-mit-superfruits-und-zuckerschoten/
 type: Artikel
 typeName: Rezept
 title: Kartoffelsalat mit Superfruits und Zuckerschoten
 seoTitle: Kartoffelsalat mit Superfruits und Zuckerschoten - Rezept für 4 Portionen
 ogTitle: Kartoffelsalat mit Superfruits und Zuckerschoten - Rezept für 4 Portionen
-description: Sommer bedeutet Picknick. Da ist es gut, wenn man Essen vorbereitet, das man gut mitnehmen kann. Wie wäre es zum Beispiel mit Kartoffelsalat?
-excerpt: Sommer bedeutet Picknick. Da ist es gut, wenn man Essen vorbereitet, das man gut mitnehmen kann. Wie wäre es zum Beispiel mit einem tollen Kartoffelsalat?
-fileName: 2018-06---kartoffelsalat-mit-superfruits-und-zuckerschoten.md
+description: Sommer bedeutet Picknick. Da ist es gut, wenn man Essen
+  vorbereitet, das man gut mitnehmen kann. Wie wäre es zum Beispiel mit
+  Kartoffelsalat?
+excerpt: Sommer bedeutet Picknick. Da ist es gut, wenn man Essen vorbereitet,
+  das man gut mitnehmen kann. Wie wäre es zum Beispiel mit einem tollen
+  Kartoffelsalat?
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_42532458091_fd8e1ed41c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_42532458091_fd8e1ed41c_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBwIDBP/EACwQAAEEAQMCBQIHAAAAAAAAAAECAwQRBQAGEiExBxQiQVETQhUXI1JhYnH/xAAZAQACAwEAAAAAAAAAAAAAAAACBQEDBAb/xAAmEQABAwIFAwUAAAAAAAAAAAABAAIDBBEFITFBoRIT8BRhgZHR/9oADAMBAAIRAxEAPwBy2xh8Vs3b/Ntr0oQFLcLfreVXQkfuJ7J7Jv5sne/vqXEW2tzCPx47tKZ8yppKymwkqWnnYANnoD7A6Xt8xlZDOYNtpCn3HWpX00c6Q6SlFA2QOxuzZ0v47bhyCTkcg5IVAQ+W3IYeQlV8bKL70SRyCSB6RQ6nXPYhXGGQxg9LR9nkJnSMFQ8yTXcTv5wnn8xk49tEiXOYfjTEpMb6jXEi02D0ruft9gLOubxB2xG3lsSLmmYiY84x/MNcR2PU8R/VVdvYqB+bryM+iXmoUfFGPKi81NrbkxrUXOSipLayAV8RRrt8ki9PuJ3DKxuB3lPzrTjcWLwW28pPBt0pTy4pHblZQk10tQGow2aQvETyXAg6nTi99tUc7mRO7sGRaR8+36lPbPiliZcQY7d6hEkKTw85wJaWT91pBLa/c0OJNn03WsdxSc/lX534Blttqx0kji4zlGFFPsVcVEcVV/v86NGmL6GCqIklbcjLzZFibfSTujhNgc1C85hsVtmNjtyZrGR24jnoYxsoTJKkgggJU1QSo11KlCrNaq/xN8SZG7WmcZjY5x234x/SjcrW6R2U4fc9Sa+SSST10aNXU9JFSgiMarG0lzQXG9l//9k=
@@ -34,15 +35,13 @@ labels:
   - Superfruits
   - vegan
   - vegane Rezepte
-
   - Zuckerschoten
 focusKeyword: Kartoffelsalat
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Vegan, leicht und lecker
+
 ---
 
 **Der Sommer ist da und das bedeutet: Picknicks und Abende im Park oder auf dem Balkon stehen an. Da ist es gut, wenn man Essen vorbereitet, das man gut mitnehmen kann. Lecker schmecken sollte es natürlich nach Möglichkeit auch noch.**

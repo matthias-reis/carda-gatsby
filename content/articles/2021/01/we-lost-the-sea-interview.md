@@ -1,25 +1,23 @@
 ---
 ogTitle: We Lost The Sea – "Post-Rock löst Grenzen auf" – Interview mit Mark
-excerpt: We Lost The Sea ist eine der großartigsten Post-Rock-Bands. Ihre Musik ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist Mark interviewt.
+excerpt: We Lost The Sea ist eine der großartigsten Post-Rock-Bands. Ihre Musik
+  ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist Mark interviewt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_we-lost-the-sea-fb.png__l.jpg
 isAffiliate: false
-path: /2021/01/we-lost-the-sea-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgT/xAAoEAABAwMDAQkBAAAAAAAAAAABAgMEAAURBhIhMQcTFDJBUWGBkXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIvpKzrvt8t1vbQ46qVJQxsbICiCecZ6cZ5qgjQky1x9Txzb2ptmak903NwkutZBAUR5gMFJOOMopZ7Nb3E05clXGUXS4gYbS23u2kkDcf0/lN7Wv1Bm8PM3SUy67MalqbW3y62FHLQ6jGPrkVFcKOz24S4On0SIKINqlTe68YpILpTtAzt684Wr+rHtSXreyCwX64W8JWhMaQtpIc8xAPGfrFU7VfaHHujEVdvuL7CYjLwZQEkEOFQQHB8gZIz81Odc3JF5nOTvFCQ68tTi3FJ2qWeAcj0yQTj5NArBZHqeRjrW1OrUnzHBxkZ9qKKoz3ijnnjHSskn9ooqD//Z
 typeName: Interview
 isWerbung: false
-fileName: 2021-01---we-lost-the-sea.md
-slug: we-lost-the-sea-interview
-errors: {}
 date: 2021-01-08T13:38:42.000Z
 focusKeyword: We Lost The Sea
 languageLink: /2021/01/we-lost-the-sea-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_wlts__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_wlts__m.jpg
 title: We Lost The Sea
 subTitle: '"Post-Rock löst Grenzen auf"'
 seoTitle: We Lost The Sea – "Post-Rock löst Grenzen auf" – Interview mit Mark
-description: We Lost The Sea ist eine der großartigsten Post-Rock-Bands. Ihre Musik ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist Mark interviewt.
+description: We Lost The Sea ist eine der großartigsten Post-Rock-Bands. Ihre
+  Musik ist live und auf Platte ein Hochgenuss. Ich habe Gitarrist Mark
+  interviewt.
 language: de
 type: Artikel
 labels:
@@ -32,6 +30,7 @@ labels:
   - Post-Rock
   - Sydney
   - WE LOST THE SEA
+
 ---
 
 **Zum Start in 2021 habe ich eine ganz besondere Sensation vorbereitet. Vor Kurzem habe ich über Social Media Mark Owen von We Lost The Sea kennengelernt. Er fragte mich nach einem Interview und voilá: hier ist es!**

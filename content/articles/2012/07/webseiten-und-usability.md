@@ -1,13 +1,13 @@
 ---
 date: 2012-07-16T12:30:19.000Z
-slug: webseiten-und-usability
-path: /2012/07/webseiten-und-usability/
 title: Webseiten und Usability
 seoTitle: Webseiten und Usability - nach allen Regeln der Kunst
 ogTitle: Webseiten und Usability - nach allen Regeln der Kunst
-description: Usability steht für die Ergonomie, Alltagstauglichkeit / Bedienerfreundlichkeit einer Seite, Anwendung oder Software. Ein Beitrag über die Gestaltgesetze
-excerpt: Usability steht für die Ergonomie bzw. Alltagstauglichkeit / Bedienerfreundlichkeit einer Homepage, Anwendung oder Software.
-fileName: 2012-07---webseiten-und-usability.md
+description: Usability steht für die Ergonomie, Alltagstauglichkeit /
+  Bedienerfreundlichkeit einer Seite, Anwendung oder Software. Ein Beitrag über
+  die Gestaltgesetze
+excerpt: Usability steht für die Ergonomie bzw. Alltagstauglichkeit /
+  Bedienerfreundlichkeit einer Homepage, Anwendung oder Software.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_15868435754_dc31171cdd_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_15868435754_dc31171cdd_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCAwcF/8QALxAAAgEDAgMFBwUAAAAAAAAAAQIDBAURACEGEjETFCJBUQcVYXGBkaEyQlKy8P/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAX/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIDERIhMf/aAAwDAQACEQMRAD8Arqai5cW373jeWysZwlMjExU8RPRB0J6ZbqSPTTRLFDY7PVyR0/eZaSmlZkyFUgKzAFvUhcbD7aHscS0lErqgR1ACrJ+wn+yef00j3bjuur6+ejsdIZaSMlcySFBMfNmKYZifQEDz89RcORmh0VOT5NVliqZ4A7TRwCRQWMdOh5Rkb+IHOFV/xrjXOmqld0eGlrVkHjSRBBKpzkgSJgDkQjmJB3OMazyLiapt86verPNSrzDNVbaiQOvzRyQw+GR56f7HdY7nEBPPT1KOiyQ1QUmOdOY4yvUkNnMY3L9dhpOTFr1IC7vyA0FQarhuQU+NkIATnwpKkbAgY674JGkjgrh+43Z4rZbJI6RliEtRNJ4cZJAH3B2A1TwTxn7tdUm8SA9CzOflueUD5jWl2e32uuLXqzVVZaKmZyhMUfbU8oJzspG2/mcD01ZerQdRdchv2JNLDL2lZbbi4m7PtE53H6WXYjB/3TbqNS9nFLLRC4MjydiKgiIDn6nkU45PFucjb+J+Oml7ZTR94ZKszPK57aeMLPM7Hc7LkDf8emhrlV0tuTuY7tStnKU9aJ6d5SdsnHKN87dR9c6nbKIRiik//9k=
@@ -38,12 +38,11 @@ labels:
   - Wahrnehmung
   - Webdesign
 focusKeyword: Usability
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Nach allen Regeln der Kunst
+
 ---
 
 **Usability steht für die Ergonomie bzw. Alltagstauglichkeit / Bedienerfreundlichkeit einer Homepage, Anwendung oder Software.**

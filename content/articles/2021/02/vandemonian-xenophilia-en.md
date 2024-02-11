@@ -1,12 +1,13 @@
 ---
 date: 2021-02-18T15:23:00.000Z
-slug: vandemonian-xenophilia-en
 typeName: Review
 title: Vandemonian – "Xenophilia"
 subTitle: The Debut Of The Hamburg Post-Rock Band
 seoTitle: Vandemonian – "Xenophilia" – The Debut Of The Hamburg Post-Rock Band
-ogTitle: ''
-description: This Saturday, Vandemonian from Hamburg will release their long-awaited debut album "Xenophilia". Progressive, political post-rock with cinematic touches awaits you.
+ogTitle: ""
+description: This Saturday, Vandemonian from Hamburg will release their
+  long-awaited debut album "Xenophilia". Progressive, political post-rock with
+  cinematic touches awaits you.
 copyrigt: Vandemonian
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_vandemonian-1.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMFBgIEB//EACYQAAICAQMDBAMBAAAAAAAAAAECAwQRAAUGEiExBxNBURQVgSP/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgAB/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAAyExERIjMmHR/9oADAMBAAIRAxEAPwDi3BNih5Fvn4Vu09SusLzPLGgZgFx2AJH3/NR24Vv1961UmdGavK0ZZWBBwfvWHFZ7a8jovt1aK1OrlVSUOVwRgsxQ9QABzkeNWz04uS0/UuY7jRSK04l6YlrB0ifHV2VskDA8+e+dJYzVln2OItapYFTRJ3KWSCMqQR5Bzp24bbcp1a1qzWlir2uowSOpCydPnH3jUrzyOJOXbpHRiaNRJke4AepiASxGMYJPjGNSPqByNeQbbx9VeIy1q5EypEUKvhV7/HwT2JHg9tUGd+hUYP5IKIndWORr7mV3mbQLulRKsEcCLQrgmJQvukx5LnHyc4/mtKpZatLHJWleGWEho3jbpZSPkEdwdGjWT0E6x8jRl+9NauWLVqd5rUztJJI5yXYnvnSJp/8AHyMY0aNNXgcCDbk8mf/Z
@@ -31,6 +32,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/02/vandemonian-xenophilia
+
 ---
 
 **This Saturday, Vandemonian from Hamburg will release their long-awaited debut album "Xenophilia". Progressive, political post-rock with cinematic touches awaits you.**

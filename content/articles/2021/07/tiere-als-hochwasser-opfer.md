@@ -1,11 +1,13 @@
 ---
 date: 2021-07-20T10:59:15.121Z
-slug: tiere-als-hochwasser-opfer
 typeName: Beitrag
 title: Tiere als Hochwasser-Opfer
 subTitle: Hier könnt Ihr spenden
 seoTitle: Tiere als Hochwasser-Opfer – hier könnt Ihr spenden
-description: 'Sie leiden besonders: Tiere als Hochwasser-Opfer. Während der aktuellen Lage rund um das verheerende Hochwasser in Europa werden sie leider dennoch viel zu selten erwähnt. Viele von ihnen sind unbemerkt ertrunken. So könnt Ihr denen, die überlebt haben, helfen.'
+description: "Sie leiden besonders: Tiere als Hochwasser-Opfer. Während der
+  aktuellen Lage rund um das verheerende Hochwasser in Europa werden sie leider
+  dennoch viel zu selten erwähnt. Viele von ihnen sind unbemerkt ertrunken. So
+  könnt Ihr denen, die überlebt haben, helfen."
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/feuerwehr-essen-jpg-imagine-080808_818669_1024_768/640.webp
 copyright: Feuerwehr Essen
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/tierrettung-essen-png-imagine-c8b8b8_93927d_1200_628/640.webp
@@ -22,6 +24,7 @@ focusKeyword: Tiere als Hochwasser-Opfer
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Sie leiden besonders: Tiere als Hochwasser-Opfer. Während der aktuellen Lage rund um das verheerende Hochwasser in Europa werden sie leider dennoch viel zu selten erwähnt. Viele von ihnen sind unbemerkt ertrunken. So könnt Ihr denen, die überlebt haben, helfen.**

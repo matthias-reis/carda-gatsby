@@ -1,13 +1,16 @@
 ---
 date: 2021-05-25T15:43:42.000Z
-slug: musikliste-juni-2021
-typeName: ''
+typeName: ""
 title: Musikliste Juni
 subTitle: Von eisig bis dornig
 seoTitle: Musikliste für den Juni – von eisig bis dorning – Post-Rock bis Prog
-ogTitle: ''
-description: Die Musikliste, die wir diesen Monat für Euch selektiert haben, hat es in sich. von Post-Rock bis Prog wird es dieses Mal eisig bis dornig.
-excerpt: Die Musikliste, die wir diesen Monat für Euch vorbereitet haben, hat es in sich. von Post-Rock bis Prog wird es dieses Mal eisig bis dornig. Natürlich gibt es auch wieder Videos und Playlists für Spotify und iTunes für Euch. Viel Spaß mit der Musik!
+ogTitle: ""
+description: Die Musikliste, die wir diesen Monat für Euch selektiert haben, hat
+  es in sich. von Post-Rock bis Prog wird es dieses Mal eisig bis dornig.
+excerpt: Die Musikliste, die wir diesen Monat für Euch vorbereitet haben, hat es
+  in sich. von Post-Rock bis Prog wird es dieses Mal eisig bis dornig. Natürlich
+  gibt es auch wieder Videos und Playlists für Spotify und iTunes für Euch. Viel
+  Spaß mit der Musik!
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/12-songs-juni-blog-jpg-imagine-080808_62605e_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/12-songs-juni-fb-jpg-imagine-080808_5e5d5b_1200_628/640.webp
 labels:
@@ -39,11 +42,12 @@ labels:
   - Drone
   - Instrumental
 advertisement: false
-copyright: ''
+copyright: ""
 focusKeyword: Musikliste
 affiliate: false
 language: de
-languageLink: ''
+languageLink: ""
+
 ---
 
 **Die Musikliste, die wir diesen Monat für Euch vorbereitet haben, hat es in sich. Mit dabei sind einige besonders hochwertige Post-Rock Stücke und mal wieder mehr "hartes Zeug".**

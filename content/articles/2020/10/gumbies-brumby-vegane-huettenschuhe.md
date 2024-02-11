@@ -5,16 +5,11 @@ excerpt: 'Von Gumbies gibt es jetzt etwas Neues: gemütliche Hüttenschuhe. Das
   bequem.'
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_10_brumby-veganer-fleece-fb.png__l.jpg
 isAffiliate: false
-path: /2020/10/gumbies-brumby-vegane-huettenschuhe/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwQH/8QAKhAAAQQBBAECBQUAAAAAAAAAAQIDBBEFAAYSITETQSJhcYGxBxUyUWL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACMRAAICAQMDBQAAAAAAAAAAAAECAxEABDFBE5HBISJR0fD/2gAMAwEAAhEDEQA/AJ/AbYisxFrkt0UIKuh0qhf20md/T5nNZuRIU48w20yJEjgm7URXFIHYNAn38fPVy5MUxFVKhcTGbZBLXC23VKUAAR/VHu+qvWfHLViIgmQWV+s9LW0X08lfCpuknkQR8IPSb8Ho6g6jWN03WAUxoA8fJ/fWPTTNayE2o38ZIytqwXchjce1CcSxAcSuQPRPEch1Z8HkSmuz0dKc9tuClC1Rg0tKhYKACK/P511t2Y1+2zZEI2486lERt9sAlaOXpIKE1yBKSn/Ng+PEfuXGQ1Y5UmKtdyD6xUDy4kj+NewFVXf10OTXSzSAv6UAO2Ii06RqQOTffIrPbmgxIsR1NmWltZpKjXfaQfqb1VY3ckTDbchWw05GcSH2pXMlxTpAJpPhJBJ8ew70aNWhCrCGM7WT5wJc1I3NVmvs3PtOYqbkVrQHJT4AR5LfBJTfyJ5H7VpLuPNIJV6L46HkGtGjUt16mpd23vHJ7IlUbVn/2Q==
 advertisement: true
 isWerbung: false
-fileName: 2020-10---neue-hausschuhe-von-gumbies.md
-slug: gumbies-brumby-vegane-huettenschuhe
-errors: {}
-date: 2020-10-12T11:19:56.000+00:00
+date: 2020-10-12T11:19:56.000Z
 focusKeyword: veganer Fleece
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-gumbies-13__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-gumbies-13__m.jpg
 title: Neue Hausschuhe von Gumbies
@@ -33,6 +28,7 @@ labels:
   - vegane Hüttenschuhe
   - veganer Filz
 language: de
+
 ---
 
 **Von Gumbies gibt es jetzt etwas Neues: gemütliche Hüttenschuhe. Das neue Modell ist geschlossen, kuschelig warm und sieht einfach nur toll aus.**

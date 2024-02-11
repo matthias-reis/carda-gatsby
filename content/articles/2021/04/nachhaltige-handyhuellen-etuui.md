@@ -1,7 +1,6 @@
 ---
 templateKey: article
 date: 2021-04-17T14:48:00.000Z
-slug: nachhaltige-handyhuellen-etuui
 typeName: Produkttest
 title: Nachhaltige Handyhüllen von Etuui
 subTitle: Schick, praktisch und kompostierbar
@@ -29,6 +28,7 @@ focusKeyword: Nachhaltige Handyhülle
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Eine nachhaltige Handyhülle wäre schön, oder? Heutzutage verzichtet schließlich kaum noch jemand aufs Smartphone. Hübsch verpackt macht das Teil natürlich noch viel mehr Spaß. Aber klappt das auch ohne Umweltsünden? Die gute Nachricht ist: Ja, das geht. Ich habe mir jetzt die Hüllen von Etuui mal genauer angeschaut.**

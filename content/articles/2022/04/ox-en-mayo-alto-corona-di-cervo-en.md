@@ -1,12 +1,16 @@
 ---
 date: 2022-04-14T13:14:49.467Z
-slug: ox-en-mayo-alto-corona-di-cervo-en
 typeName: Review
 title: '"Corona di Cervo"'
 subTitle: New EP by Ox en Mayo Alto
 seoTitle: Ox en Mayo Alto – "Corona di Cervo" – Post-Rock Review
-description: Ox en Mayo Alto are back. They have just released the first single from their EP "Corona di Cervo", which will be out on 22 April. The first track provides deep insights.
-excerpt: Ox en Mayo Alto are back. They have just released the first single from their EP "Corona di Cervo", which will be out on 22 April. The first track provides deep insights taking their fans' curiosity for the complete work to the extreme.
+description: Ox en Mayo Alto are back. They have just released the first single
+  from their EP "Corona di Cervo", which will be out on 22 April. The first
+  track provides deep insights.
+excerpt: Ox en Mayo Alto are back. They have just released the first single from
+  their EP "Corona di Cervo", which will be out on 22 April. The first track
+  provides deep insights taking their fans' curiosity for the complete work to
+  the extreme.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-jpg-imagine-181818_535f5a_1024_768/640.webp
 copyright: Ox en Mayo Alto
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-fb-jpg-imagine-181818_404844_1200_628/640.webp
@@ -31,6 +35,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/04/ox-en-mayo-alto-corona-di-cervo/
+
 ---
 
 **Ox en Mayo Alto are back. They have just released the first single from their EP "Corona di Cervo", which will be out on April 22nd. The first track provides deep insights taking their fans' curiosity for the complete work to the extreme.**

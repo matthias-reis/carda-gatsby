@@ -1,40 +1,37 @@
 ---
-date: 2013-08-03T18:16:16.000+00:00
-slug: dubai-und-bali-in-polaroids
-path: "/2013/08/dubai-und-bali-in-polaroids/"
+date: 2013-08-03T18:16:16.000Z
 type: Galerie
 typeName: Galerie
 title: Dubai und Bali in Polaroids - Eine Instagram-Reise
 seoTitle: Dubai und Bali in Polaroids - Der Zauber des Augenblicks
 ogTitle: Dubai und Bali in Polaroids - Der Zauber des Augenblicks
-description: Dubai und Bali in Polaroids - Der siebte Teil unserer großen Reise -
-  Eine Bildergalerie zeigt Euch den Zauber des Augenblicks.
-excerpt: Vom Zauber des Augenblicks berichten diese Polaroids aus Dubai und Bali,
-  die ich im Laufe unserer in meinem Instagram-Account veröffentlicht habe.
-fileName: 2013-08---dubai-und-bali-in-polaroids-eine-instagram-reise.md
+description: Dubai und Bali in Polaroids - Der siebte Teil unserer großen Reise
+  - Eine Bildergalerie zeigt Euch den Zauber des Augenblicks.
+excerpt: Vom Zauber des Augenblicks berichten diese Polaroids aus Dubai und
+  Bali, die ich im Laufe unserer in meinem Instagram-Account veröffentlicht
+  habe.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_2013-07-14_1373807441__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_2013-07-14_1373807441__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABgcEAgUI/8QAKRAAAQQBAwMDBQEBAAAAAAAAAQIDBBEFABIhBjFREyJhBxRBcZEyof/EABkBAAIDAQAAAAAAAAAAAAAAAAMFAAECBP/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMRIRIxEyIy/9oADAMBAAIRAxEAPwDk30/j3OmJH2ASuNkZcdIPlJdaTXxyDrNjPp7EbwUNeTiJbfguuggAe9pSqO6u4Asj9aGZmTmoWKx+GTPjojqW046sAItxLwCdriRdgCyeKF9zevQb+XxjnTsSe8EhjIJAASv1E7FClKSscKAvvxz+L40689TH2HQih1sT5PZk2yf0vgNtt+mX1Icmsl8lYBS1/ik+AN133uvGjfXvSo6UxGQ+wU7ILvpqbW+3vcbG4AgOXz3VQrgpvzp/P61ek4sRoEVp11yOQJCFbk70Cjd+Sn47jnRzrVp/My25mRmrcguBIS2SUNEEpsJBHevU+TxWue40uDwGDCUm5WBc6k9nInKmEPZMFKXkpLitpog1Z/RPf8m77aeZefm8vgoan8rwyyENPJjAEp28J9qQD3/uofk8xIklEgts2DuJSKsg8H/vbSWRlpC8ZFbVKtxpASoJtKKrngd+PydStVORiEsDa3EfTEmZHdQhjJNbXCWJPoxU7G2iFccjv7SCa4vxrs3crnzhHi9JcXJShsMtOR2SmwkenZPA9nBI55rU1jOy4ca4jntcb2qSTyonz/a1on9SlC2WHd5SypKhaiCSCOb+E2AfnWeAVd6l4Ytrc//Z
-ogImage: 
+ogImage: null
 labels:
-- Bali
-- Dubai
-- Fernweh
-- Hochzeitsreise
-- ich
-- Instagram
-- Reise
-- Tagebuch
-- serie:Bali 2013
+  - Bali
+  - Dubai
+  - Fernweh
+  - Hochzeitsreise
+  - ich
+  - Instagram
+  - Reise
+  - Tagebuch
+  - serie:Bali 2013
 focusKeyword: Dubai
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Unsere große Reise - Teil VII
 
 ---
+
 ## Über Dubai nach Bali - Der Zauber des Augenblicks
 
 Vom Zauber des Augenblicks berichten diese Polaroids aus Dubai und Bali, die ich im Laufe unserer in meinem Instagram-Account veröffentlicht habe.

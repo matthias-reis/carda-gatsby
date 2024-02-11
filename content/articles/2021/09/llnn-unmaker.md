@@ -1,11 +1,13 @@
 ---
 date: 2021-09-17T14:32:45.926Z
-slug: llnn-unmaker
 typeName: Review
 title: '"Unmaker" von LLNN'
 subTitle: Post-apokalyptischer Sound aus Kopenhagen
 seoTitle: '"Unmaker" von LLNN – Post-Metal Review'
-description: 'Am 24. September erscheint ein Album, dass Ihr Euch auf alle Fälle schon mal vormerken solltet: "Unmaker" von LLNN ist ein Paradebeispiel für düsteren, harten Post-Metal. Wenn Euch dieses Genre begeistert, führt kein Weg an diesem Monolithen vorbei.'
+description: 'Am 24. September erscheint ein Album, dass Ihr Euch auf alle Fälle
+  schon mal vormerken solltet: "Unmaker" von LLNN ist ein Paradebeispiel für
+  düsteren, harten Post-Metal. Wenn Euch dieses Genre begeistert, führt kein Weg
+  an diesem Monolithen vorbei.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn-jpg-imagine-181818_000000_1024_768/640.webp
 copyright: LLNN
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/llnn-fb-png-imagine-282828_454545_1200_628/640.webp
@@ -22,6 +24,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/09/llnn-unmaker-en/
+
 ---
 
 **Am 24. September erscheint ein Album, dass Ihr Euch auf alle Fälle schon mal vormerken solltet: "Unmaker" von LLNN ist ein Paradebeispiel für düsteren, harten Post-Metal. Wenn Euch dieses Genre begeistert, führt kein Weg an diesem Monolithen vorbei.**

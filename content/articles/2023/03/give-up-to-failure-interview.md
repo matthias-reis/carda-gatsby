@@ -1,12 +1,18 @@
 ---
 date: 2023-03-07T15:23:11.286Z
-slug: give-up-to-failure-interview
 typeName: Interview
 title: Give Up To Failure
 subTitle: '"Wir selbst müssen der Wandel werden, den wir in der Welt sehen wollen"'
 seoTitle: Give Up To Failure – Post-Rock Interview
-description: '"Wir selbst müssen der Wandel werden, den wir in der Welt sehen wollen", sagt Give Up To Failure Songschreiber Mark. Lest jetzt mein Interview mit ihm uns seinem Bandkollegen Krzysiek über das Album "Cocoon".'
-excerpt: Ich habe ein inspirierendes Gespräch mit Mark und Krzysiek von Give Up To Failure geführt. Die insgesamt fünf Musiker*innen aus Wrocław, Polen liefern großartige Post-Music – geprägt von den faszinierendsten Genres. Ihr aktuelles Album "Cocoon" handelt von Liebe, Depressionen, Selbstzerstörung, Schlaflosigkeit, Hilfeschreien und dem Versuch, sich selbst zu finden und ein besser Mensch zu werden.
+description: '"Wir selbst müssen der Wandel werden, den wir in der Welt sehen
+  wollen", sagt Give Up To Failure Songschreiber Mark. Lest jetzt mein Interview
+  mit ihm uns seinem Bandkollegen Krzysiek über das Album "Cocoon".'
+excerpt: Ich habe ein inspirierendes Gespräch mit Mark und Krzysiek von Give Up
+  To Failure geführt. Die insgesamt fünf Musiker*innen aus Wrocław, Polen
+  liefern großartige Post-Music – geprägt von den faszinierendsten Genres. Ihr
+  aktuelles Album "Cocoon" handelt von Liebe, Depressionen, Selbstzerstörung,
+  Schlaflosigkeit, Hilfeschreien und dem Versuch, sich selbst zu finden und ein
+  besser Mensch zu werden.
 image: https://storage.googleapis.com/cardamonchai-media/2023-03-07/give-up-to-failure-jpg-imagine-080808_0f1818_1024_768/640.webp
 copyright: Give Up To Failure
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-03-07/give-up-to-failure-og-jpg-imagine-080808_10313b_1200_628/640.webp
@@ -22,6 +28,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/03/give-up-to-failure-interview-en/
+
 ---
 
 **Ich habe ein inspirierendes Gespräch mit Mark und Krzysiek von Give Up To Failure geführt. Die insgesamt fünf Musiker\*innen aus Wrocław, Polen liefern großartige Post-Music – geprägt von den faszinierendsten Genres. Ihr aktuelles Album "Cocoon" handelt von Liebe, Depressionen, Selbstzerstörung, Schlaflosigkeit, Hilfeschreien und dem Versuch, sich selbst zu finden und ein besser Mensch zu werden.**

@@ -1,13 +1,14 @@
 ---
 date: 2020-02-20T16:28:07.000Z
-slug: 12-songs-fuer-den-maerz-2020
-path: /2020/02/12-songs-fuer-den-maerz-2020/
 title: 12 Songs für den März
 seoTitle: 12 Songs für den März - frisch gehört und für gut befunden
 ogTitle: 12 Songs für den März - frisch gehört und für gut befunden
-description: Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür! Musikalisch bringt er ganz schön was mit. Hinter jeder Ecke lauern Neuveröffentlichungen!
-excerpt: Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür! Musikalisch bringt er ganz schön was mit. Hinter jeder Ecke lauern Neuveröffentlichungen!
-fileName: 2020-02---12-songs-fuer-den-maerz.md
+description: Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür!
+  Musikalisch bringt er ganz schön was mit. Hinter jeder Ecke lauern
+  Neuveröffentlichungen!
+excerpt: Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür!
+  Musikalisch bringt er ganz schön was mit. Hinter jeder Ecke lauern
+  Neuveröffentlichungen!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_12-Songs-Header__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_12-Songs-Header__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHCAMF/8QALBAAAQMCBAUDBAMAAAAAAAAAAQIDBAURAAYSIQcTIjFBFFGBIzJhoUJSYv/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAeEQACAgICAwAAAAAAAAAAAAABAgADESEEEhMxQf/aAAwDAQACEQMRAD8AltNo4iZYhR5rUmDUZklMpEgs8xuRFWgJ5ZA/qRe3+vfDmqkpZ4bPxQw2uWiO+y0OQC7cu7AbahcBJ+BjlTY706nUhhuPJU7Gjoad5qultKF6gUW33He/kDD3CcYMYl1tRcB6elwhW53uFC3e3xheythgtrMFdy/EeqgHUhmR8uvRqZW5lUos9+QEsxmYqkloqStd1uC6STp0pFgP5Xx5mdY9PRQ6K9GjvRZoXIjOtLc1hSEKBSsnSmyiVHa17De22NDz3o6WFFlBJJuolLidAFjtdW/bz74lSeEU6v12rQKdmSguTWnPWPQwt4uMBZuNQ0W21AG17E2OCq3aDovNhIPyPOXs9wHaczSvTQUpKkhNmbqNxb77/s+ThBz1mj6jzcGY40ltJ2aJaI6uxPn8H4wYMU7WymxMrSosmhuJlRZydSXJ9PyO1VmGWi9JkaGmmWBcJAJIKid7mwNh+oFkDiRIp/EekVGqRWhHJcgvJYsk6H1jqUoglWg6T+QnxgwYnjXqM9FGwJ//2Q==
@@ -57,12 +58,11 @@ labels:
   - Vinyl
   - VÖ
 focusKeyword: Songs für den März
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Frisch zusammengestellt von den drei von der Bande
+
 ---
 
 **Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür! Musikalisch bringt er ganz schön was mit. Ich für meinen Teil konnte beim Hören in den letzen Wochen gar nicht genug kriegen. Hinter jeder Ecke lauerte eine Neuveröffentlichung auf mich.**

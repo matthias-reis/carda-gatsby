@@ -1,19 +1,18 @@
 ---
-date: 2020-12-04T16:13:29.000+00:00
-slug: oelmuehle-solling
-path: '/2020/12/oelmuehle-solling/'
+date: 2020-12-04T16:13:29.000Z
 type: Artikel
 typeName: Produkttest
 title: Die Ölmühle Solling
 seoTitle: Die Ölmühle Solling - leckeres aus dem Familienbetrieb
 ogTitle: Die Ölmühle Solling - leckeres aus dem Familienbetrieb
-description: Die Ölmühle Solling ist ein biologischer Familienbetrieb aus dem Weserbergland. Ich hatte jetzt die Möglichkeit einige Produkte zu testen.
-excerpt: Die Ölmühle Solling ist ein biologischer Familienbetrieb aus dem Weserbergland. Ich hatte jetzt die Möglichkeit einige Produkte zu testen.
-fileName: 2020-12---die-oelmuehle-solling.md
+description: Die Ölmühle Solling ist ein biologischer Familienbetrieb aus dem
+  Weserbergland. Ich hatte jetzt die Möglichkeit einige Produkte zu testen.
+excerpt: Die Ölmühle Solling ist ein biologischer Familienbetrieb aus dem
+  Weserbergland. Ich hatte jetzt die Möglichkeit einige Produkte zu testen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_2020-12-04-oelmuehle-solling-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_2020-12-04-oelmuehle-solling-4__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKBAAAgEEAQQABgMAAAAAAAAAAQIDBAURIQAGEhMxBxQiQWFxUZGh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUAAQP/xAAdEQACAgMBAQEAAAAAAAAAAAABAgADERIhcQRR/9oADAMBAAIRAxEAPwDFrpWW6Lqi4K0leyeYoDGNE+SMkLn8Cb+hxlt6XO5dLUPyNsqAKGCNCzuqtOQe1uxT/B95I0OaD0n07R3G0dPVEtTblFVA8MiTxsoDCNhgk5B2P94//DesjoLFfaWqmM0VurpVTxD6fECSe3HvJOR++CvYpQNsMe8z+ezdRhiF6ROfZqeuqqSopqyWWhYgMRIwyGVgQBjO9frlVU3etS11dOt2kkiqgDnC9svY2RjWNEc0W44nnNwqEDI5ZC6th43ILsBhsHWiDr36zxQuFDTC0FUiiZGcyo0zCN3ONYC6J2AfyPW+RcjkZt8oIke1fKmSOVZJ4pe7u745mQjXsYPHLpq/1tqo7hT0Vc3inLM/lVZGcnW2IJ4cOI7y2uhPITXWhO2ozISX2kJpFnWWCojUjzPGD2tpR9f3BUAEEfc8Ueq72JZ4ntbeAMGMiLghMn0MaOffrWB+OHDjCm5nTJlXHXgn/9k=
-ogImage:
+ogImage: null
 labels:
   - Dressing
   - Ernährung & Gesundheit
@@ -35,14 +34,13 @@ labels:
   - Vitamin C
   - Würzöl
 focusKeyword: Ölmühle
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Leckeres aus dem Bio-Familienbetrieb
 advertisement: true
 affiliate: true
+
 ---
 
 **Ich hatte jetzt die Möglichkeit, die Produkte von der Ölmühle Solling zu testen. Probiert habe ich das Bio-Hagebuttenpulver, das Bio-Kokosöl, das mediterrane Würzöl, das Leinöl sowie die Bio-Dattel-Essigcreme.**

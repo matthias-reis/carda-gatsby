@@ -1,15 +1,16 @@
 ---
-date: 2020-03-05T09:00:48+01:00
-slug: sphaeros-interview
-path: '/2020/03/sphaeros-interview/'
+date: 2020-03-05T08:00:48.000Z
 type: Artikel
 typeName: Interview
 title: Sphaèros im Interview
 seoTitle: Performance-Künstler Sphaèros im Interview
 ogTitle: Performance-Künstler Sphaèros im Interview
-description: Der Pariser Underground-Künstler Sphaèros sagt "Nicht mal in einer Zelle würde ich aufhören kreativ zu sein". Ich habe mich jetzt mit ihm unterhalten.
-excerpt: Der Pariser Underground-Künstler Sphaèros sagt "Nicht mal in einer Zelle würde ich aufhören kreativ zu sein". Ich habe mich jetzt mit ihm unterhalten.
-fileName: 2020-03---sphaeros-im-interview.md
+description: Der Pariser Underground-Künstler Sphaèros sagt "Nicht mal in einer
+  Zelle würde ich aufhören kreativ zu sein". Ich habe mich jetzt mit ihm
+  unterhalten.
+excerpt: Der Pariser Underground-Künstler Sphaèros sagt "Nicht mal in einer
+  Zelle würde ich aufhören kreativ zu sein". Ich habe mich jetzt mit ihm
+  unterhalten.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_sphaeros__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_sphaeros__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAYHAgMEBQj/xAAnEAACAQQBAwQCAwAAAAAAAAABAgMABAUREgYhMRMiQVEHcTKSof/EABcBAQADAAAAAAAAAAAAAAAAAAIAAQP/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIDETEh/9oADAMBAAIRAxEAPwDlZF5OqkhdnWz4FP8A009lZT4GO9tBLBNcnuIwTLFy48hsd9sCN/sa7VH48ipJs8Tay4rB3K3WRS8CvDdRSQLHFAgVp19KTZ/mG3rQ0Sd/G8snSWpXHZmX+Wulsfhup8jYWkSQiHV17H5ARMoIUH9sAKiyReDsv0dUxdS5Ka8uppLm6a4nkHH1lYqrqTyJ1/Ua8DVLrEsxJ8mlQSE4G96lNMuQzEzYTGi0uUie3ZlkEcjcmfiFEmj49gC9vkH7ooqXqKMY+JNDc3Es/BZmLemvBd+QNnt/pqxRRTgAOT//2Q==
@@ -28,13 +29,12 @@ labels:
   - Sphaèros
   - Experimental
 focusKeyword: Sphaèros
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Musik besitzt eine meditative Kraft"'
-languageLink: '/2020/03/sphaeros-interview-en'
+languageLink: /2020/03/sphaeros-interview-en
+
 ---
 
 **Liebhaber\*innen pulsierender und psychedelischer Musik werden Sphaèros lieben. Mit seinem Soloprojekt kombiniert er Musik, Film und Performance auf seine ganz persönliche Art und Weise.**

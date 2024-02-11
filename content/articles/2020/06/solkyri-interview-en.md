@@ -16,7 +16,6 @@ labels:
   - Sidney
 language: en
 date: 2020-06-12T19:00:00.000Z
-slug: solkyri-interview-en
 typeName: Interview
 title: Solkyri
 subTitle: '"Post-rock leaves a lot open to the imagination"'
@@ -33,6 +32,7 @@ focusKeyword: Solkyri
 advertisement: false
 affiliate: false
 languageLink: /2020/06/solkyri-interview
+
 ---
 
 **Recently the Australian post-rock band Solkyri released their sensational new album "Mount Pleasant". Andrew Pearsall (bass, percussion, synthesizer) talked to me about it.**

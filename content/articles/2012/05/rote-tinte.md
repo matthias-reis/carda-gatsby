@@ -1,13 +1,12 @@
 ---
 date: 2012-05-29T12:22:17.000Z
-slug: rote-tinte
-path: /2012/05/rote-tinte/
 title: Rote Tinte
 seoTitle: Rote Tinte
 ogTitle: Rote Tinte
-description: Du sitzt in der Badewanne und weinst. Wäschst Dir den Staub aus den Haaren. Du hast immer gekämpft dafür - Rote Tinte
-excerpt: Du sitzt in der Badewanne und weinst. Wäschst Dir den Staub aus den Haaren. Du hast immer gekämpft dafür.
-fileName: 2012-05---rote-tinte.md
+description: Du sitzt in der Badewanne und weinst. Wäschst Dir den Staub aus den
+  Haaren. Du hast immer gekämpft dafür - Rote Tinte
+excerpt: Du sitzt in der Badewanne und weinst. Wäschst Dir den Staub aus den
+  Haaren. Du hast immer gekämpft dafür.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120529_140555__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120529_140555__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBwL/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMEBREABgcSIRMxQVEiYWJxgRQVI1Kh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgUBBP/EAB8RAAICAgIDAQAAAAAAAAAAAAECAyEAEgQREzFRcf/aAAwDAQACEQMRAD8AZNu8mtDydvi0bj3FHQUFNXtFQx1AcgMDg/yZ+BMKMDyyxxjS/wAh3/kqjSa4rWCexjuKmyziaBF+sj4l7erDHz06b42xHcl3NTwdpK/xQfqbORn8jUqVFtqbRUTQlipGUZcFTj1Bx6fI6jtL5CVevl5WggZV3W/tZrWy+Yr7SXSnS7V89XQswWRJCC2D2yD55GqXt9fJLNTNHUO8TspU9Rwyny/zUCpOySA4XsfbVi8RXJK7Z23pGmR5lQK4DgkdLkdx9saUJZH17o5nIVXTcCxiS/LEEnKF225c7X+hiS4S0cFWJerrdXIHUMYAOPQ9sjXfJVq2JOaaXdNT+31tWSIZqXq8WTHmSoBBA9yNCNx8WXW4bv3O9Y1abbWXd6+JaelYsjdZIZXPYEg4OAdC+T+P7zuSspKmCkq1np0MS+LTyeGUzkjIU4OTn8nXLJyUE2vVXfRo44Y5RGWBv9FjB+9eMbHb9jTbg2zdq65BGUqSUeMpnDZwMgjt9vUaTeK7rPFv7bVNFUSIs1xp42VWIyGcAjWv7B2XcNtwvJ4lc71MPTVUZiZqaQ/26XGc47emj22+NdsSbrttyWyVdHWw1Uc6KjyJGGVgwZR7DGcacXIjlfQjsYm3VNvRz//Z
@@ -48,12 +47,11 @@ labels:
   - Wut
   - Zweifel
 focusKeyword: Rote Tinte
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Heute mal wieder Prosa
+
 ---
 
 Sie klauen Dir Deine Wünsche. Nehmen Dir Deinen Traum weg. Leben ihn aus. Du fühlst Dich betrogen. Bist wütend. Entfernst Dich von Ihnen. Oder bist nur noch irgendwie oberflächlich für sie da. Innerlich blüht eine sehr heiße Flamme in Deiner Seele. Du weißt nicht, ob es Hass ist, aber es fühlt sich so an. Wahrscheinlich ist es wohl eher so etwas wie Neid. Unsicherheit und Zweifel an Dir selbst. Du nimmst Dir vor, nichts mehr zu erzählen. Alles für Dich zu behalten. Ein wichtiger Teil von Dir. Dein Tagtraum, in dem jetzt jemand anders lebt. Wenn Du sie siehst, siehst Du Dich. Wie Du geworden währst, hätte man Dir nicht immer wieder Felsen in den Weg gelegt und dich mit aller Macht daran gehindert. Sie essen Deine Torte und trinken Deinen Wein. Sie bekommen Deinen Applaus und Deine Anfragen. Sie werden auf Deine Party eingeladen. Gehen Deinen Weg.

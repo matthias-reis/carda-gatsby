@@ -1,13 +1,18 @@
 ---
 date: 2023-02-22T15:51:36.342Z
-slug: bruit-interview-en
 typeName: Interview
 title: Interview with BRUIT ≤ Guitarist Théophile Antolinos
 subTitle: '"Sometimes you need to accept a weakness to turn it into an asset"'
 seoTitle: Interview with BRUIT ≤ Guitarist Théophile Antolinos
-ogTitle: ''
-description: Please enjoy my interview with BRUIT ≤ guitarist Théophile Antolinos and learn everything about the band's protest song and their Spotify boycott. There is also news about the album rumours!
-excerpt: If you've ever listened to French post-music, you probably know BRUIT ≤. They have been causing riots with their impressive, dark sounds and clearly stand out on the European scene. I've had the privilege of seeing them live a few times and have always been thrilled. Now I had the opportunity for an interview, and of course, I took it.
+ogTitle: ""
+description: Please enjoy my interview with BRUIT ≤ guitarist Théophile
+  Antolinos and learn everything about the band's protest song and their Spotify
+  boycott. There is also news about the album rumours!
+excerpt: If you've ever listened to French post-music, you probably know BRUIT
+  ≤. They have been causing riots with their impressive, dark sounds and clearly
+  stand out on the European scene. I've had the privilege of seeing them live a
+  few times and have always been thrilled. Now I had the opportunity for an
+  interview, and of course, I took it.
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-1-jpg-imagine-080808_494949_1024_768/640.webp
 copyright: BRUIT ≤
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-og-jpg-imagine-080808_494949_1200_628/640.webp
@@ -24,6 +29,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/02/bruit-interview/
+
 ---
 
 **If you've ever listened to French post-music, you probably know BRUIT ≤. They have been causing riots with their impressive, dark sounds and clearly stand out on the European scene. I've had the privilege of seeing them live a few times and have always been thrilled. Now I had the opportunity for an interview with guitarist Théophile Antolinos, and of course, I took it.**

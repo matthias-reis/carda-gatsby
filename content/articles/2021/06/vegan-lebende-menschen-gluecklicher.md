@@ -1,6 +1,5 @@
 ---
 date: 2021-06-08T11:32:42.000Z
-slug: vegan-lebende-menschen-gluecklicher
 typeName: ""
 title: Vegan lebende Menschen sind glücklicher
 subTitle: US-Studie liefert spannende Fakten
@@ -28,6 +27,7 @@ focusKeyword: Vegan lebende Menschen
 affiliate: false
 language: de
 languageLink: ""
+
 ---
 
 **Eine Studie, für die mehr als 11.000 Amerikaner\*innen befragt wurden, bringt es jetzt ans Tageslicht: Veganer\*innen sind offenbar glücklicher, als Menschen, die regelmäßig tierische Produkte konsumieren. Außerdem ist es bei glücklichen Menschen wahrscheinlicher, dass sie sich für den veganen Lebensstil entscheiden.**

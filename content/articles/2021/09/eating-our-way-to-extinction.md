@@ -1,12 +1,17 @@
 ---
 date: 2021-09-08T16:00:21.929Z
-slug: eating-our-way-to-extinction
 typeName: Filmtipp
 title: '"Eating Our Way To Extinction"'
 subTitle: Die neue Umwelt-Doku mit Kate Winslet
 seoTitle: '"Eating Our Way To Extinction" – neue Umwelt-Doku mit Kate Winslet'
-description: Kate Winslet hat jetzt der neuen Umwelt-Dokumentation "Eating Our Way To Extinction"  ihre Stimme verliehen. Die Academy Award Gewinnerin bringt damit zum Ausdruck, wie wichtig ihr der Kampf gegen den Klimawandel ist.
-excerpt: Kate Winslet hat jetzt der neuen Umwelt-Dokumentation "Eating Our Way To Extinction"  ihre Stimme verliehen. Die Academy Award Gewinnerin bringt damit zum Ausdruck, wie wichtig ihr der Kampf gegen den Klimawandel ist. Der Film bietet nicht nur einen finsteren Blick in die Zukunft, sondern auch Anregungen, wie wir es besser machen können.
+description: Kate Winslet hat jetzt der neuen Umwelt-Dokumentation "Eating Our
+  Way To Extinction"  ihre Stimme verliehen. Die Academy Award Gewinnerin bringt
+  damit zum Ausdruck, wie wichtig ihr der Kampf gegen den Klimawandel ist.
+excerpt: Kate Winslet hat jetzt der neuen Umwelt-Dokumentation "Eating Our Way
+  To Extinction"  ihre Stimme verliehen. Die Academy Award Gewinnerin bringt
+  damit zum Ausdruck, wie wichtig ihr der Kampf gegen den Klimawandel ist. Der
+  Film bietet nicht nur einen finsteren Blick in die Zukunft, sondern auch
+  Anregungen, wie wir es besser machen können.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/eating-our-way-to-extinction-jpg-imagine-080808_121414_1024_768/640.webp
 copyright: Eating Our Way To Extinction
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/eating-our-way-to-extinction-fb-jpg-imagine-080808_0c0e0e_1200_628/640.webp
@@ -23,6 +28,7 @@ focusKeyword: Eating Our Way To Extinction
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Kate Winslet hat jetzt der neuen Umwelt-Dokumentation "Eating Our Way To Extinction" ihre Stimme verliehen. Die Academy Award Gewinnerin bringt damit zum Ausdruck, wie wichtig ihr der Kampf gegen den Klimawandel ist.**

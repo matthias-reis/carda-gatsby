@@ -1,13 +1,12 @@
 ---
 date: 2011-09-19T14:22:11.000Z
-slug: kalte-piraten-und-ein-netzfundstuck
-path: /2011/09/kalte-piraten-und-ein-netzfundstuck/
 title: Piraten, Dauerregen und Netzfundstücke
 seoTitle: Piraten, Dauerregen und Netzfundstücke - Tagebucheintrag
 ogTitle: Piraten, Dauerregen und Netzfundstücke - Tagebucheintrag
-description: Heute ist internationaler "Talk Like A Pirate Day" - Zeit, über das Wahlergebnis zu reden. Und für einen sehr persönlichen Tagebucheintrag.
-excerpt: Heute ist internationaler "Talk Like A Pirate Day" - Zeit, über das Wahlergebnis zu reden. Und für einen sehr persönlichen Tagebucheintrag.
-fileName: 2011-09---piraten-dauerregen-und-netzfundstuecke.md
+description: Heute ist internationaler "Talk Like A Pirate Day" - Zeit, über das
+  Wahlergebnis zu reden. Und für einen sehr persönlichen Tagebucheintrag.
+excerpt: Heute ist internationaler "Talk Like A Pirate Day" - Zeit, über das
+  Wahlergebnis zu reden. Und für einen sehr persönlichen Tagebucheintrag.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_09_11511644313_78f57ffe6e_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_09_11511644313_78f57ffe6e_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAJhAAAQQBBAICAgMAAAAAAAAAAQIDBBEFABIhMQZBE2EUIhVRcf/EABgBAAMBAQAAAAAAAAAAAAAAAAMFBgAE/8QAJxEAAQQAAwcFAAAAAAAAAAAAAQACAxEEBSEiIzFRYdHwMkGBkbH/2gAMAwEAAhEDEQA/AJ/IshLzaGP4KCmNmI7/AMQUxPU2GmK49Hca7vgUa1d/EivTcfCg4lt7AundLcEwqK1JPJPF7t1UTya9esJvySZh5GWL0dvJy3QUtnYhGw2b3JBpXd9jqtRQPMsnh8dNcciRJ7jikKaQ2yGyzyAokchQr1V8Hnm9QDmzvbsgdNefb2vrxVw7Blu0xprzz8Wz43AbjZ/MzZeGjNRWyqOyt6SVKCQb27tt7Txaj0DpWmRo8OFl2cr4lj5JeccUyWn7Uhwk2SAnkftd/XXOmTCypT3jUxmW3EdL5UphSN7aQhdAFaTZPPNbvrVfC5LKwYcovwsPMWUBLLAS42pBBoA2Du9cCuho8AlBcauqFAkcOWv2uee3mza5DjfO/nCkLxo+VRsOfNyCe+CnTLisp+TuPxFJAPa918H60aNPMXhoo/SFstzLEzjeOv4HZOEeRufjBCSlDiACi/1oEgev6Hf3qFQcakJksuqSpbm0iyQCSRddX/o0aNLYdCUZ4X//2Q==
@@ -46,12 +45,11 @@ labels:
   - Wahlparty
   - Wochenende
 focusKeyword: Netzfundstücke
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Tagebucheintrag
+
 ---
 
 **Heute ist ["International Talk Like A Pirate Day"](http://de.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day), was nach dem Erfolg der [Piratenpartei](http://www.sueddeutsche.de/politik/ueberraschungserfolg-in-berlin-was-die-piraten-wollen-1.1145851) bei den [Wahlen in Berlin](http://www.taz.de/Wahl-in-Berlin/!78344/)  ziemlich passend ist. Quasi aus dem Nichts tauchten die Piraten auf und enterten mit 8,9 Prozent der Wählerstimmen das Berliner Abgeordnetenhaus.**

@@ -1,14 +1,17 @@
 ---
 date: 2023-12-01T10:00:00.766Z
-slug: oslo-tapes-staring-at-the-sun-before-goin-blind-en
 typeName: Review
-title: 'Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"'
+title: Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"
 subTitle: The Beauty of Disorientation
 seoTitle: Oslo Tapes – "Staring At The Sun Before Goin‘ Blind"
-description: 'The new Oslo Tapes album, "Staring At The Sun Before Goin‘ Blind", is out! Check it out here, and find out some fascination insights about it!'
-excerpt: 'With the new album, "Staring At The Sun Before Goin‘ Blind", Oslo Tapes releases a true masterpiece today. The eight songs are a very personal interpretation of an acoustic mirage of disorientation and restlessness. You better listen to it right now!'
+description: The new Oslo Tapes album, "Staring At The Sun Before Goin‘ Blind",
+  is out! Check it out here, and find out some fascination insights about it!
+excerpt: With the new album, "Staring At The Sun Before Goin‘ Blind", Oslo Tapes
+  releases a true masterpiece today. The eight songs are a very personal
+  interpretation of an acoustic mirage of disorientation and restlessness. You
+  better listen to it right now!
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-jpg-imagine-181808_575443_1024_768/640.webp
-copyright: 'Oslo Tapes'
+copyright: Oslo Tapes
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-01/oslo-tapes-og-jpg-imagine-181808_615155_1200_628/640.webp
 labels:
   - Band
@@ -25,6 +28,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/12/oslo-tapes-staring-at-the-sun-before-goin-blind/
+
 ---
 
 **Oslo Tapes aka Marco Campitelli releases his new, now fourth album, "Staring At The Sun Before Goin‘ Blind," today. It is an exceptional work that comes just in time for the end of this year. They made it with Echodelick, Sound Effect, and Grazil Records. Besides the digital version, you can get your copy as an LP or CD.**

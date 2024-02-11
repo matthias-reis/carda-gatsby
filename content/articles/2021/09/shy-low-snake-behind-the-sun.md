@@ -1,11 +1,13 @@
 ---
 date: 2021-09-29T14:41:05.962Z
-slug: shy-low-snake-behind-the-sun
 typeName: Review
 title: Shy, Low – "Snake Behind The Sun"
 subTitle: '"Plötzlich begann ein verrückter Wettlauf"'
 seoTitle: Shy, Low – "Snake Behind The Sun" – Post-Metal Review
-description: Fans von Bands wie pg.lost, Thrice, Cult Of Luna und Russian Circles sollten jetzt weiterlesen. Am 8. Oktober erscheint ein Album, dass Ihr Euch mal anhören solltet. "Snake Behind The Sun" von der unter Pelagic gesignten Band Shy, Low hat es echt in sich.
+description: Fans von Bands wie pg.lost, Thrice, Cult Of Luna und Russian
+  Circles sollten jetzt weiterlesen. Am 8. Oktober erscheint ein Album, dass Ihr
+  Euch mal anhören solltet. "Snake Behind The Sun" von der unter Pelagic
+  gesignten Band Shy, Low hat es echt in sich.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-jpg-imagine-080818_3c362b_1024_768/640.webp
 copyright: Shy, Low
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-fb-jpg-imagine-080818_312e28_1200_628/640.webp
@@ -30,6 +32,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/09/shy-low-snake-behind-the-sun-en/
+
 ---
 
 **Fans von Bands wie pg.lost, Thrice, Cult Of Luna und Russian Circles sollten jetzt weiterlesen. Am 8. Oktober erscheint ein Album, dass Ihr Euch mal anhören solltet. "Snake Behind The Sun" von der unter Pelagic gesignten Band Shy, Low hat es echt in sich.**

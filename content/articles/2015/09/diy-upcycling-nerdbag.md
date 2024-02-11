@@ -1,13 +1,14 @@
 ---
 date: 2015-09-24T12:55:36.000Z
-slug: diy-upcycling-nerdbag
-path: /2015/09/diy-upcycling-nerdbag/
 title: DIY Upcycling Nerdbag
 seoTitle: DIY Upcycling Nerdbag
 ogTitle: DIY Upcycling Nerdbag
-description: Habt Ihr auch so viele T-Shirts zu Hause liegen, die Ihr nicht wegwerfen wollt? Ich zeige Euch, wie Ihr mit Upcycling noch was Schönes daraus machen könnt.
-excerpt: Wie Ihr aus den Dingern doch noch was machen könnt, möchte ich Euch gerne zeigen. In Teil 1 zeige ich Euch, wie Ihr innerhalb kürzester Zeit Euren ganz persönlichen Nerdbag kreieren könnt.
-fileName: 2015-09---diy-upcycling-nerdbag.md
+description: Habt Ihr auch so viele T-Shirts zu Hause liegen, die Ihr nicht
+  wegwerfen wollt? Ich zeige Euch, wie Ihr mit Upcycling noch was Schönes daraus
+  machen könnt.
+excerpt: Wie Ihr aus den Dingern doch noch was machen könnt, möchte ich Euch
+  gerne zeigen. In Teil 1 zeige ich Euch, wie Ihr innerhalb kürzester Zeit Euren
+  ganz persönlichen Nerdbag kreieren könnt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-24-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-24-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcDBv/EAC0QAAEDAgUBBwQDAAAAAAAAAAECAwQFEQAGEiExEwcUIiNRYYEkMkHBcZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEF/8QAIxEAAgIABQQDAAAAAAAAAAAAAQIAAwQRMVGxBUGhwRITIf/aAAwDAQACEQMRAD8A3dy/Ej5TColUl1FxZbDynG0ADncBPiAvtYk4kFUmZdlU5+lv1EtBtF23Wo6nNS03ITcfkq+AMWKdTGZuRavFVI6XUjrcChe6dAKwLncbjn3weINQcpiCGGGUSb+J9aNTgF72F/t9LjfGJgh9wLjUdpuYtzUBX2Oco3Ypm2kZXpHd6xEnpU/KU45MSxqZYQUpQkqN78ggkDa+L2oBTTbsZxK21pCkrQQpK0ncG/BBwaqvEqSoFMqdSYabpEiQwlwMy1uLcacUSQSDYAi/zbCMy8uIKaqmRY7cXuHkd3QnSkIudKkj0P8At8KblZhuc/EBamCnYZeZw1fcXH7Pa2vW6hxMFelQ5BJA/eDlJJ6SHSbldwSTfcE7/OE1MTGl0qXBc1KakMONatQVyk/vBmjxn51MfdjMOONxEdWQ4lN0tAnbUcD0lgEYHfmL1NT81I24mT8+U9HbYckvuMsjym1OEpRb0HAwqKXKdk1aiT4ah9S2hTt9gppSNStr39/5xDMndnoqsKBVZtQSiA8kuFpps9U2URpufCL253xZspiLEDzqCBGp8UMpWs6lAWtuo8nSk/3i4p67bkSvVSc/fEuGR66nZ9CPz1zP/9k=
@@ -26,12 +27,11 @@ labels:
   - Tasche aus T-Shirt nähen
   - Upcycling
 focusKeyword: Upcycling
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Aus T-Shirt mach Tasche Teil 1
+
 ---
 
 **Habt Ihr auch so viele T-Shirts zu Hause rumliegen, die Ihr nicht mehr anzieht, weil sie nicht mehr so schön aussehen? Ihr wollt Euch aber  aufgrund des Aufdrucks und der vielen tollen Erinnerungen nicht davon trennen? Dann geht es Euch so wie mir.**

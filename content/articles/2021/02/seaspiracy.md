@@ -5,16 +5,11 @@ excerpt: Mit "Seaspiracy" kommt nach "Cowspiracy" Kip Andersens zweite
   verfügbar und kann jetzt schon zur Watchlist hinzugefügt werden.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_seaspiracy.png__l.jpg
 isAffiliate: false
-path: /2021/02/seaspiracy/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcGCAIDBf/EACgQAAEDAwMDAwUAAAAAAAAAAAECAxEABAUGEiEHEzEUQVEiIzJhkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABwRAAICAwEBAAAAAAAAAAAAAAECABESISIxQf/aAAwDAQACEQMRAD8Af9m6DchFyhC0pjYZHJ+JpeW/WDG2N++wccF3iBD4VdQm3PJDc7JJjniR45pinHtrKSlcKEHcnmI+RVSszgm7LWGfIu1MPpyFwFJJHH3DxHuCDNCCp+zbK9cywWnNc2+ps0hnH2Ab7xWbhHdKlNFKJDn4gQYA8ySfFSO5AQo0kuj7fY1Lkb1d2p170G0q4iS4njj3+k0zlZUGdyppVGW18hklQA3s6Frk7pxQQyiDEQohJ/vvUR1f09xGpMkvJ5Vm7tb5wBK7myeA7sQBvSQQTHE+YFFFCT1VRVuruYYXA4nTts9a4hl8pUR3HnjvW4R4kwBH6AFbw0pwkIQqfmaKKoBxGpOwyNmf/9k=
 typeName: Filmtipp
 isWerbung: false
-fileName: 2021-02---seaspiracy-auf-netflix.md
-slug: seaspiracy
-errors: {}
 date: 2021-02-26T13:51:47.000Z
 focusKeyword: Seaspiracy
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_seaspiracy-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_seaspiracy-1__m.jpg
 title: '"Seaspiracy" auf Netflix'
@@ -30,6 +25,7 @@ labels:
   - Tierrechte
   - Vegane Filme
 language: de
+
 ---
 
 **"Seaspiracy" ist nach "Cowspiracy" Kip Andersens zweite Tierrechtsdokumentation in Spielfilmlänge. Das Werk wird ab dem 24. März bei Netflix verfügbar sein.**

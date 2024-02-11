@@ -1,13 +1,14 @@
 ---
 date: 2017-08-24T10:37:08.000Z
-slug: klimaretter-sparbuch
-path: /2017/08/klimaretter-sparbuch/
 title: Anjas Siegesmund
 seoTitle: Anjas Klimaretter-Sparbuch - Grüne Politikerin stellt neues Projekt vor
 ogTitle: Anjas Klimaretter-Sparbuch - Grüne Politikerin stellt neues Projekt vor
-description: Anja Siegesmund von Bündnis 90/Die Grünen stellte jetzt das Klimaretter-Sparbuch vor. Sie möchte damit einen Einreiz bieten und die Möglichkeit zu sparen.
-excerpt: Anja Siegesmund von Bündnis 90/Die Grünen stellte jetzt das Klimaretter-Sparbuch vor. Sie möchte damit einen Einreiz bieten und die Möglichkeit zu sparen.
-fileName: 2017-08---anjas-siegesmund.md
+description: Anja Siegesmund von Bündnis 90/Die Grünen stellte jetzt das
+  Klimaretter-Sparbuch vor. Sie möchte damit einen Einreiz bieten und die
+  Möglichkeit zu sparen.
+excerpt: Anja Siegesmund von Bündnis 90/Die Grünen stellte jetzt das
+  Klimaretter-Sparbuch vor. Sie möchte damit einen Einreiz bieten und die
+  Möglichkeit zu sparen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_21785516756_65f679d8c0_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_21785516756_65f679d8c0_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAqEAACAgEEAAUCBwAAAAAAAAABAgMEEQAFBiESEzFBYRRRByJxkaHB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAQCBf/EACcRAAEDAgMIAwAAAAAAAAAAAAECAxEABAUTIQYSIjFBUWFxgZHR/9oADAMBAAIRAxEAPwCk8Nn3pqlazeslGmcSJXQYZwR7n5PoP31tycoq1LYhlliWeVvyLI4VifcYJ9R11896WtvtPcrfQzW1nVIlEZjQEHABABKk/wAH41I/xC4Pd3/kMVpr8kSh2rgz5YkK3ZXvrBOP80TaF91lxKUry0kHUCfVVhTSHWyTxEdJq/3+QVq9iOzBFD57LiYIwyxwO2+3fvrLhn5LyGxIdsL1qrt4TM/UYwOwDj+tdOE8QrNQcXhP4oyoOMDxEDsE+5xg5H31Q6pruhr1GiH04EZiQ9x/BHqNZuB3N+sIcuFjciBIEq8mRP1E+qq8YbDiko5eDUd2eF6sl2CpO8MsMPnJNgMek8WCGyMe2kwcn3qbkNSrY3B50UMg82OMgCTPphQRj9cfGjRpG1Di89KZMFM/Peh2XCgx3NVPYV3GXhW+2E3i5HIGDREEEx+BQzAfDZx8AaVeI7ta3Tnq7NuM889ezTksyOZnVi0ZHgwVIPWT74P20aNZTIzH7bf1lJOuvU/tLIgGK//Z
@@ -27,12 +28,11 @@ labels:
   - Thüringen
   - Umweltschutz
 focusKeyword: Klimaretter-Sparbuch
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Das Klimaretter-Sparbuch
+
 ---
 
 **Anja Siegesmund von Bündnis 90/Die Grünen Thüringen stellte am 21. August das Klimaretter-Sparbuch vor.**

@@ -13,7 +13,6 @@ labels:
   - Experimental
 language: en
 date: 2020-03-05T07:00:00.000Z
-slug: sphaeros-interview-en
 typeName: Interview
 title: Interview With Sphaèros
 subTitle: '"My life is creation"'
@@ -31,6 +30,7 @@ focusKeyword: Sphaèros
 advertisement: false
 affiliate: false
 languageLink: /2020/03/sphaeros-interview
+
 ---
 
 **Recently I presented the latest of Sphaèros videos here on the blog. Now the exceptional artist has agreed to an interview.**

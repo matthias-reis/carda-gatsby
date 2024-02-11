@@ -1,15 +1,16 @@
 ---
-date: 2017-10-18T07:03:05.000+00:00
-slug: calexico-the-thread-that-keeps-us
-path: '/2017/10/calexico-the-thread-that-keeps-us/'
+date: 2017-10-18T07:03:05.000Z
 type: Artikel
 typeName: Review
 title: Calexico kündigen neue Platte "The Thread That Keeps Us" an
 seoTitle: Calexico kündigen neue Platte an - "The Tread That Keeps Us"
 ogTitle: Calexico kündigen neue Platte an - "The Tread That Keeps Us"
-description: Die erste Auskopplung der neuen Calexico Platte "The Thread That Keeps Us" ist da. Und was soll man sagen? "End Of The World With You" macht Fans glücklich.
-excerpt: Die erste Auskopplung der neuen Calexico Platte "The Thread That Keeps Us" ist da. Und was soll man sagen? "End Of The World With You" macht Fans glücklich.
-fileName: 2017-10---calexico-kuendigen-neue-platte-the-thread-that-keeps-us-an.md
+description: Die erste Auskopplung der neuen Calexico Platte "The Thread That
+  Keeps Us" ist da. Und was soll man sagen? "End Of The World With You" macht
+  Fans glücklich.
+excerpt: Die erste Auskopplung der neuen Calexico Platte "The Thread That Keeps
+  Us" ist da. Und was soll man sagen? "End Of The World With You" macht Fans
+  glücklich.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us3__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQBBgIFB//EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEEQUSBhMhMUEUImEHIzJDUXGhwv/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAQP/xAAcEQEAAgMAAwAAAAAAAAAAAAABAAIREiEDQsH/2gAMAwEAAhEDEQA/AOnLqujaTYWRu4Gm9ROluqSTRxxq5ydxZyABgHv56DqRWKcfcJIzPp8EMz86KFSZoYdxeWSMt7mGFUx5J/Z1x3p8WkN9bp6+yDhG34V0lBPg4zk/3TVpp+kgbVSAuP03jVQT8+2pbhmHw2CoJ8lbT6icMXQR5NLlUSuCWNxD45gOcN+X222p3fIx3q28E6zZa9oz3+lwPBHzWiZGlSRcgA5VkJVhhh1B6HIPUVNwpsl3vo1tLEACWidVz/GfNP6bqMEiqsFvbwRnqUDKCCfhRXG7yU1abcOzRo7SSY5xKjwyq3+Qai4mkhtyCysG+KKKHtiLQ1WKeqeSPY9vbkDru5YzTtlqM8chRlh2+NkYBoorWpiCnEn/2Q==
@@ -34,12 +35,11 @@ labels:
   - serie:Calexico
   - Calexico
 focusKeyword: The Thread That Keeps Us
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Auskopplung "End Of The World With You"
+
 ---
 
 **Calexico habe ich als produktive Band kennengelernt. Kaum hatte man sich an den Gedanken gewöhnt, dass es wieder ein neues, geniales Album gibt, wurde auch schon wieder ein neues vorgestellt. Das ist auch jetzt wieder der Fall. In Kürze soll "The Thread That Keeps Us" in die Plattenregale einziehen. Die Vorab-Auskopplung "End Of The World With You" verspricht einiges.**

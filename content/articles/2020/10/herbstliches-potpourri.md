@@ -1,13 +1,14 @@
 ---
 date: 2020-10-06T11:12:12.000Z
-slug: herbstliches-potpourri
-path: /2020/10/herbstliches-potpourri/
 title: Herbstliches Potpourri
 seoTitle: Herbstliches Potpourri – bunte Farben fürs Wohnzimmer
 ogTitle: Herbstliches Potpourri – bunte Farben fürs Wohnzimmer
-description: Der Herbst ist bunt und das sollten wir zu unserem Vorteil nutzen! Ich habe jetzt zum Beispiel ein farbenfrohes Potpourri gebastelt – das hebt die Stimmung!
-excerpt: Der Herbst ist bunt und das sollten wir zu unserem Vorteil nutzen! Ich habe jetzt zum Beispiel ein farbenfrohes Potpourri gebastelt – das hebt die Stimmung!
-fileName: 2020-10---herbstliches-potpourri.md
+description: Der Herbst ist bunt und das sollten wir zu unserem Vorteil nutzen!
+  Ich habe jetzt zum Beispiel ein farbenfrohes Potpourri gebastelt – das hebt
+  die Stimmung!
+excerpt: Der Herbst ist bunt und das sollten wir zu unserem Vorteil nutzen! Ich
+  habe jetzt zum Beispiel ein farbenfrohes Potpourri gebastelt – das hebt die
+  Stimmung!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-herbstliches-potpourri-06__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_%EF%BF%BC2020-10-04-herbstliches-potpourri-06__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQASIQYTMQdRYRQiMkEVcYH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAb/xAAjEQACAQIGAgMAAAAAAAAAAAABAgMAEQQSITFBUQWBE5Hh/9oADAMBAAIRAxEAPwBounrBBBf4hE9NWWWcFlaNcTxEDDKykj94Ye4PnjSX1T6nPItnem+plk771SwxIeFLFRHJkYZQeP8ARrTufRU9BNO97o7H360b4DCcdtgcFVXAHscA6S79DXiaWltKTQFlGS1YYJIdzLuWNCCcYA+BnJ+cgTFLKYnG3ZtvSuGDBCzi9WG09UiS5UzVdI8AlhebYJlXaAAxAjyCPGB78+MabunepYqh6WEVMLTzg4jX7tpHJUsuRkePPnUd6Qudmt9+KxUNcKcU5Z56mneWV3c7CRJuwVAGG4xnka2LvcbpRGCjstJRO1RzBMWTfIqtyxJAwcENwBoePNBKEW4vwfvmq3VSNeav9wtVFXUxhraWKoj87ZEBAPv8f3qG+oPSc8F5X+FjeBN/bZ+xvacNsYAZBGAV/I4P2n20aNavyqqPjIG5A9G9F4aUo3dLsV0oqWO7i2QvVSUcElRV1pjaQpLgbYE2Ha2W/IA+AedNXSNhvvUl36cv1zpKNaOOjLkIpDdxj4GRuUBf0SQSeMaNGhlwiLJ2Rpf1+1c7ZEzAa1//2Q==
@@ -23,12 +24,11 @@ labels:
   - Potpourri
   - Selbstliebe
 focusKeyword: Potpourri
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Farbe fürs Wohnzimmer
+
 ---
 
 **Der Herbst ist bunt und wisst Ihr was? Das sollten wir zu unserem Vorteil nutzen! Ich habe jetzt zum Beispiel ein farbenfrohes Potpourri gebastelt – das sorgt für fröhliche Stimmung.**

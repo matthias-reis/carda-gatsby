@@ -1,23 +1,21 @@
 ---
 ogTitle: Vegane Yoga-Mode aus Hamburg – Chakrana Crowdfunding gestartet
-excerpt: Darja und Sven machen zeitgemäße vegane Yogamode für alle – unabhängig von Figur, Geschlecht und Größe. Das Crowdfunding ist gerade gestartet.
+excerpt: Darja und Sven machen zeitgemäße vegane Yogamode für alle – unabhängig
+  von Figur, Geschlecht und Größe. Das Crowdfunding ist gerade gestartet.
 ogImage: null
 isAffiliate: false
-path: /2020/12/vegane-yoga-mode-aus-hamburg/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAArEAACAgEDAwEHBQAAAAAAAAABAgMEEQAFBhIhMRMHFBUiI0FRMmFxkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQP/xAAiEQACAgEDBAMAAAAAAAAAAAABAgADEQQSMQUTIUFRwfH/2gAMAwEAAhEDEQA/AN32a177Qr23glqvMgkeGdSrxk5yrA9+xzpRyXkcXG5FlFOB+iCS2Qr5eYRkZA7/AC9u5JB8aUbna3Cja2WnRuVoon6Mm03XLJ1MATlj3OB9hpvyl6V/Z7UF96sInZqVWWSRVZi2Oykn9RAJx5xo4LMDj1EBVUgtwY6obxHu+3G23px+mHikZW+QkhWDKfwwYEZ1zvbggkkFa0oOQSscoBfAHj/dZL7IK8FbiG6/B5q0ltL1n1Fik9RYyp6YgT4ZQqAgjIwf50w9nzb3Yu2xuaW2hkk9VZLMhYGTuMRjJAXGT2/I0a61gRX8+5ulCsGcHiT3MOOVG5Bx/lO2pbbdKNquskBdOiaFScsmTlXA/vOs3q8T5XS2C7Vq9UtN70i/DrCpIXjZT9USMMK/ZQenB+/7aNGo79TuoOxQCBjn9lBdIjjccymv895JsGwvHT4dXo2wFVriw/SQhQnUqplPCp5OMjx3xq241cmGxUoN12+zLukcfXZuLGYYZMklVVR5IGMnAHbONGjTKtSdSF7ijzn6h7KRTu2Ez//Z
 isWerbung: false
-fileName: 2020-12---vegane-yoga-mode-aus-hamburg.md
-slug: vegane-yoga-mode-aus-hamburg
-errors: {}
 date: 2020-12-10T15:10:43.000Z
 focusKeyword: Yoga-Mode
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_shakrana-yoga-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_shakrana-yoga-1__m.jpg
 title: Vegane Yoga-Mode aus Hamburg
 subTitle: Chakrana Crowdfunding gestartet
 seoTitle: Vegane Yoga-Mode aus Hamburg – Chakrana Crowdfunding gestartet
-description: Darja und Sven machen zeitgemäße vegane Yogamode für alle – unabhängig von Figur, Geschlecht und Größe. Das Crowdfunding ist gerade gestartet.
+description: Darja und Sven machen zeitgemäße vegane Yogamode für alle –
+  unabhängig von Figur, Geschlecht und Größe. Das Crowdfunding ist gerade
+  gestartet.
 labels:
   - Achtsamkeit
   - Chakrana
@@ -25,6 +23,7 @@ labels:
   - Fair Fashion & Beauty
   - Yoga
 language: de
+
 ---
 
 **Darja Nowschenko und Sven Schipper hatten einen gemeinsamen Wunsch: Zeitgemäße Yogamode für alle zu erschaffen. Dem Paar ist das jetzt gelungen – das Crowdfunding ist gerade gestartet.**

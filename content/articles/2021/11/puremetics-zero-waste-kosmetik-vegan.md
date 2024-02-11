@@ -1,6 +1,5 @@
 ---
 date: 2021-11-09T12:49:32.762Z
-slug: puremetics-zero-waste-kosmetik-vegan
 typeName: Produkttest
 title: Vegane Zero Waste Kosmetik ohne Plastik
 subTitle: Die puremetics Basics stellen sich vor
@@ -31,6 +30,7 @@ focusKeyword: Zero Waste Kosmetik
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Heute nehme ich mir mal die Zeit dafür, Euch ein Beauty-Label zu zeigen, das mich mit seinen veganen Zero Waste Kosmetik Produkten ziemlich überzeugt hat. Die Rede ist von puremetics – beim Start-up aus Isernhagen kommt grundsätzlich alles ohne Plastik aus. Klingt gut, oder?**

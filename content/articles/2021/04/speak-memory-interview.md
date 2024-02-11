@@ -1,7 +1,6 @@
 ---
 templateKey: article
 date: 2021-04-20T08:12:27.696Z
-slug: speak-memory-interview
 typeName: Interview
 title: Speak, Memory
 subTitle: Gitarrist Tim über die EP "Adirondack"
@@ -31,6 +30,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/04/speak-memory-interview-en
+
 ---
 
 **Speak, Memory beschreiben sich als "irgendwo zwischen dem grenzenlosem Word Building der frühen Explosions in the Sky und den mathematischen Spielereien von American Football" – wenn das nicht neugierig macht. In Kürze erscheint die neue EP der Band aus Oklahoma City. Zeit für ein Interview.**

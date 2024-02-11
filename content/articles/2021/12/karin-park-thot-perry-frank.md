@@ -1,12 +1,15 @@
 ---
 date: 2021-12-03T09:56:00.204Z
-slug: karin-park-thot-perry-frank
 typeName: Review
 title: Karin Park, Thot & Perry Frank
 subTitle: Drei Platten fürs Wochenende
 seoTitle: Post-Music Tipps von Karin Park, Thot & Perry Frank
-description: Um Euch das Wochenende zu versüßen, habe ich noch drei Musiktipps für Euch vorbereitet, bevor ich mir die letzten paar Tage Resturlaub für dieses Jahr gönne. Sie kommen dieses Mal von Perry Frank, Thot und Karin Park.
-excerpt: Um Euch das Wochenende zu versüßen, habe ich noch drei Musiktipps für Euch vorbereitet, bevor ich mir die letzten paar Tage Resturlaub für dieses Jahr gönne. Sie kommen dieses Mal von Perry Frank, Thot und Karin Park.
+description: Um Euch das Wochenende zu versüßen, habe ich noch drei Musiktipps
+  für Euch vorbereitet, bevor ich mir die letzten paar Tage Resturlaub für
+  dieses Jahr gönne. Sie kommen dieses Mal von Perry Frank, Thot und Karin Park.
+excerpt: Um Euch das Wochenende zu versüßen, habe ich noch drei Musiktipps für
+  Euch vorbereitet, bevor ich mir die letzten paar Tage Resturlaub für dieses
+  Jahr gönne. Sie kommen dieses Mal von Perry Frank, Thot und Karin Park.
 image: https://storage.googleapis.com/cardamonchai-media/2021-12-03/karin-park-thot-perry-frank-jpg-imagine-181818_494b4a_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-12-03/karin-park-thot-perry-frank-fb-png-imagine-181818_505252_1200_628/640.webp
 labels:
@@ -30,6 +33,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/12/karin-park-thot-perry-frank-en/
+
 ---
 
 **Um Euch das Wochenende zu versüßen, habe ich noch drei Musiktipps für Euch vorbereitet, bevor ich mir die letzten paar Tage Resturlaub für dieses Jahr gönne. Sie kommen dieses Mal von Perry Frank, Thot und Karin Park.**

@@ -1,19 +1,18 @@
 ---
-date: 2018-08-31T09:11:40.000+00:00
-slug: rohveganes-herbstmenue
-path: '/2018/08/rohveganes-herbstmenue/'
+date: 2018-08-31T09:11:40.000Z
 type: Artikel
 typeName: Rezept
 title: Rohveganes Herbstmenü
 seoTitle: Rohveganes Herbstmenü - Buntes für die kühle Jahreszeit
 ogTitle: Rohveganes Herbstmenü - Buntes für die kühle Jahreszeit
-description: Lust auf etwas Buntes auf dem Teller? Ich auch! Darum habe ich mir ein rohveganes Herbstmenü ausgedacht, bei dem es so richtig farbenfroh wird!
-excerpt: Lust auf etwas Buntes auf dem Teller? Ich auch! Darum habe ich mir ein rohveganes Herbstmenü ausgedacht, bei dem es so richtig farbenfroh wird!
-fileName: 2018-08---rohveganes-herbstmenue.md
+description: Lust auf etwas Buntes auf dem Teller? Ich auch! Darum habe ich mir
+  ein rohveganes Herbstmenü ausgedacht, bei dem es so richtig farbenfroh wird!
+excerpt: Lust auf etwas Buntes auf dem Teller? Ich auch! Darum habe ich mir ein
+  rohveganes Herbstmenü ausgedacht, bei dem es so richtig farbenfroh wird!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_harvest-3611940_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_harvest-3611940_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYIB//EACwQAAICAQMDAQYHAAAAAAAAAAECAwQRAAUhBhIxQRMUIiNCUQcVMmGBocH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUE/8QAIBEAAQQCAgMBAAAAAAAAAAAAAQACAxEEIRKBBUFRcf/aAAwDAQACEQMRAD8Are39HR07AsQb2Qsakey92GCD5zzzp7QoNsBfbzK25WkhMshuDsjiUZ7I2X6iME58qqnAJ40tcL1nhmkUtEkiPIvcV7lHJBI/bOkpa8v5juT13t2JobzKjRnLSiON5IQmD8wkEfSwOM5BJOo/kHmJgLdWq3i2YvIuyjTR6+3+bTdYogoq2lTa1tSiAT15jLDDOTwskb57SwGQVOP059dSs34eMYpIReqH2oZZC1L4iPIGc8fFznH28evPd6F/cN/bbt0aQ25LgbNSF2mDshEyYf4ec5zlgpHHGtC+7iQez+aq4Kh1IY/bk/7p+PHyYOZu+lkzJYpXkwtod11e1nEda9R2dsS3Jdq4MgXs9zTwQfX+NNl6quWK0U24QVbKmMKoUNC8anOQrowODzwcjnjRo02Y6pTpHFo0prYOr9xSVH22ChUVe1ULxvPIqduAod3JxjjA1b7nWfUVKMM1unL2nHNRVznx4Ppn+tGjQQfExji4WV//2Q==
-ogImage:
+ogImage: null
 labels:
   - Herbst
   - kochen Rezepte
@@ -22,15 +21,13 @@ labels:
   - Salat
   - vegan
   - vegane Rezepte
-
 focusKeyword: rohveganes
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Buntes für die kühle Jahreszeit
 affiliate: true
+
 ---
 
 **Hand aufs Herz: Wer hat schon mal etwas gegessen, weil es so schön bunt war? Das geht wohl so ziemlich jedem so, oder? Ich bekenne mich jedenfalls offen dazu: Ich stehe auf farbenfrohes Essen. Farben machen eben glücklich. Das wusste schließlich auch schon Frederik die Maus.**

@@ -1,13 +1,14 @@
 ---
 date: 2020-03-03T19:05:54.000Z
-slug: post-punk
-path: /2020/03/post-punk/
 title: Post-Punk & Co.
 seoTitle: Post-Punk und Co. - Playlist von Joy Division bis Idles
 ogTitle: Post-Punk und Co. - Playlist von Joy Division bis Idles
-description: Habt Ihr Lust auf ein bisschen Post-Punk, No Wave und New Wave? Ich habe eine umfangreiche Playlist zusammengestellt, die keine Wünsche offen lässt.
-excerpt: Habt Ihr Lust auf ein bisschen Post-Punk, No Wave und New Wave? Ich habe eine umfangreiche Playlist zusammengestellt, die keine Wünsche offen lässt.
-fileName: 2020-03---post-punk-und-co.md
+description: Habt Ihr Lust auf ein bisschen Post-Punk, No Wave und New Wave? Ich
+  habe eine umfangreiche Playlist zusammengestellt, die keine Wünsche offen
+  lässt.
+excerpt: Habt Ihr Lust auf ein bisschen Post-Punk, No Wave und New Wave? Ich
+  habe eine umfangreiche Playlist zusammengestellt, die keine Wünsche offen
+  lässt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_12-Songs-Header__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKRAAAgEDBAAFBAMAAAAAAAAAAQIDBAURAAYSIQcTFCIxQUJRYXGB0v/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAQL/xAAgEQACAgIABwAAAAAAAAAAAAABAgARAyEEEhMxQVHR/9oADAMBAAIRAxEAPwDB9nWujuclw9cjusEKyKA5UZLYOcfrRuCwmO48bLTTy0vlqcg8/d9RnT/SeFd9sMNTOm49vJyQiSESsZJAo58FBTpiB8alpHtqwRIhSSRk7IiqFdiQTjCtjOSBkfgdaQvR1CQBl1O3si5WylnuLXSqjpkdE8sygjkQTnHWmy6WyimtNPPHGjtLMzK4+SnBSP67zrOLk1venqY+YilVmZC8dRkDiDjDMfrkdjr8nrWxUO17hV2O1MlXSovp1k95b7o48D4/Wp2x32jc7XqJdj8Ro7lY4bbLC0txqB6RYUhKxkMCOZwD2B10Rq7E+xodwpZayxQQ1EkgginKkxGTA9pIbK9nHY+dGjWEnqiImNV4R69/I+jZmzHh5tt+3EEZPTf61frK2nioVioWjWKFFRVU9KoGAB/AGjRqrxOQNz//2Q==
@@ -23,12 +24,11 @@ labels:
   - Post-Punk Liste
   - Punk
 focusKeyword: Post-Punk
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Von Joy Division bis Idles
+
 ---
 
 **Wer hat Lust auf ein bisschen Post-Punk, No-Wave und New Wave? Ich habe eine Playlist mit 27 Songs für Euch zusammengestellt.**

@@ -1,25 +1,24 @@
 ---
 ogTitle: Baulta im Interview – "Post-Rock transportiert Emotionen"
-excerpt: Baulta haben sich zu einem Interview bereiterklärt! Wir haben uns lange über den Entstehungsprozess ihres aktuellen Albums "Another Second Chance" und ihre Entwicklung als Band unterhalten. Dabei habe ich einiges über die vier Finnen und ihre Beziehung zum Post-Rock erfahren.
+excerpt: Baulta haben sich zu einem Interview bereiterklärt! Wir haben uns lange
+  über den Entstehungsprozess ihres aktuellen Albums "Another Second Chance" und
+  ihre Entwicklung als Band unterhalten. Dabei habe ich einiges über die vier
+  Finnen und ihre Beziehung zum Post-Rock erfahren.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_baulta-fb-Baulta.-Picture_-Antti-Varhe-_-AVAGraphy.png__l.jpg
 isAffiliate: false
-path: /2021/03/baulta-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBgcBBAj/xAAoEAACAgEEAQIGAwAAAAAAAAABAgMEEQUGEiEAMVEUIiMyQWEHE8H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Aed4bA2XYWLX9tWRFUlTnJ/SnNJCWxyHXIHPWAPXPkt2xep7KTS6FKjZklvzqJp4KTzKkQ+4sU7U+mMj/AHyq9wauKFPTKW631OhGBJbZIAwMzCQ/SkKkMAVYno5GVOD4zbr1DV6us6GBNfkg01Ri1LJxZ3JWSVef3cQCq4bOB758Dp/fO66236lSWyq8Z5hGrSOERfQ5JP6z36e58iH8mbo023SEceoRyaJMSkstOUO95sZ+HiKn7cEGR8gAHjkZJFPXbm5dd0bWxua5HpOnWGKxV9QElWNp+LuGVQpaXgSnLrHa+2PMXn2jtN9NTaWnQbps/DpNddbvONHGQzBW6Bb8fL0FGR4CO+dN1DdW754tPuRyyItaSKlLLxjdgnfEthQeznvJ9vNXV9I3DrlSJDo1Gq1BZpRVMTQvJ6FjgllkIPfr3+/Dw8CD7j1bUbLSLdvX7UAb6JtE55dZIXJwfx14nt+1Xp14LMMiNqAtFpFZMFY+BCgHPzKT2fY+Hh4H/9k=
 typeName: Interview
 isWerbung: false
-fileName: 2021-03---baulta-im-interview.md
-slug: baulta-interview
-errors: {}
 date: 2021-03-26T16:24:39.000Z
 focusKeyword: Baulta
 languageLink: /2021/03/baulta-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2-1__m.jpg
 title: Baulta im Interview
 subTitle: '"Post-Rock transportiert Emotionen"'
 seoTitle: Baulta im Interview – "Post-Rock transportiert Emotionen"
-description: Baulta haben sich zu einem Interview bereiterklärt! Wir haben uns über ihr aktuelles Albums "Another Second Chance" unterhalten.
+description: Baulta haben sich zu einem Interview bereiterklärt! Wir haben uns
+  über ihr aktuelles Albums "Another Second Chance" unterhalten.
 language: de
 type: Artikel
 labels:
@@ -37,6 +36,7 @@ labels:
   - Interviews
   - Jyväskylä
   - Post-Rock
+
 ---
 
 **Baulta haben sich zu einem Interview bereiterklärt! Wir haben uns lange über den Entstehungsprozess ihres aktuellen Albums "Another Second Chance" und ihre Entwicklung als Band unterhalten. Dabei habe ich einiges über die vier Finnen und ihre Beziehung zum Post-Rock erfahren.**

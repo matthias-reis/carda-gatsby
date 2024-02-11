@@ -1,15 +1,14 @@
 ---
 date: 2016-02-24T12:40:19.000Z
-slug: hochzeitsfotografin-petra-fritzi-hennemann-im-interview
-path: /2016/02/hochzeitsfotografin-petra-fritzi-hennemann-im-interview/
 type: Artikel
 typeName: Interview
 title: Fo&shy;to&shy;gra&shy;fin Pe&shy;tra Fritzi Hen&shy;ne&shy;mann
 seoTitle: Hochzeitsfotografin Petra Fritzi Hennemann im Interview
 ogTitle: Hochzeitsfotografin Petra Fritzi Hennemann im Interview
-description: Hochzeitsfotografin Petra Fritzi Hennmann meint, dass Aufregung etwas ganz Normales ist. Im Interview hat sie mir noch vieles mehr verraten.
-excerpt: Hochzeitsfotografin Petra Fritzi Hennmann meint, dass Aufregung etwas ganz Normales ist. Im Interview hat sie mir noch vieles mehr verraten.
-fileName: 2016-02---fo-to-gra-fin-pe-tra-fritzi-hen-ne-mann.md
+description: Hochzeitsfotografin Petra Fritzi Hennmann meint, dass Aufregung
+  etwas ganz Normales ist. Im Interview hat sie mir noch vieles mehr verraten.
+excerpt: Hochzeitsfotografin Petra Fritzi Hennmann meint, dass Aufregung etwas
+  ganz Normales ist. Im Interview hat sie mir noch vieles mehr verraten.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_25205156946_95777fe967_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_25205156946_95777fe967_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBwgCBAb/xAAqEAABBAEDAwMDBQAAAAAAAAABAgMEEQUABjESISITQVEjgZEHFUJhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AddvbNiRIoUWm0oQnqUpVAJA5JPsNPWJjYnJeqnFy4Uws0XBHdSsoB4JA4B+dQExu3I7vgQ4uZ3T9EqJkRFRw2lISe6z0CliqoKvvfYVesGo0zD5OBnsdk3Ykd19TUadGBAJ6q+o4oBIQa4oir5q9KLI/sbZFekk/bTHntsNPMLBZSbHxpPHfqIGno8HdSMYGH1CPImQpvQWbB6luIrxSB/JKux4o6281vR2AwlLmCPoI7F52enyQLpaQEkq7C+f9Ogppi8hJxk5qXCcLbzagQeQf6I4IPBB7Ealvb8ReVwMPM55xubEHUI+PQ0GW49BVdJHt4AVX50aNBwjW6X5OPOPejtOKS6XI0pYBeY5JHVXl9+D+NLP5/MbxlxImXnqccZAS28UAqFmiT8ny5v2GjRoP/9k=
@@ -29,12 +28,11 @@ labels:
   - Petra Hennemann
   - Schokolinse
 focusKeyword: Hochzeitsfotografin
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Aufregung ist etwas ganz Normales"'
+
 ---
 
 **Petra Fritzi Hennemann hat sich als Fotografin längst einen Namen gemacht. Das Braut &amp; Bräutigam Magazin, Wedding Style, Hochzeitsgezwitscher, Frieda Therés und Hochzeitswahn berichten regelmäßig über die talentierte Münchenerin und ihre Kunden loben sie in den höchsten Tönen.**

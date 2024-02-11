@@ -1,13 +1,13 @@
 ---
 date: 2012-08-16T16:35:12.000Z
-slug: verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen
-path: /2012/08/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/
 title: Verlosung
 seoTitle: Verlosung! Exklusives Vinyl zu gewinnen!
 ogTitle: Verlosung! Exklusives Vinyl zu gewinnen!
-description: Heute gibt es auf meiner Seite eine ganz besondere Verlosung und es gibt tolle Platten zu gewinnen!
-excerpt: Mein wundervolles, neues Marc Lanegan T-Shirt hat mich auf die Idee gebracht, mal wieder eine Mitmach-Aktion auf soundsvegan.com zu veranstalten. Dieses Mal soll es nicht nur eine einfache Verlosung sein.
-fileName: 2012-08---verlosung.md
+description: Heute gibt es auf meiner Seite eine ganz besondere Verlosung und es
+  gibt tolle Platten zu gewinnen!
+excerpt: Mein wundervolles, neues Marc Lanegan T-Shirt hat mich auf die Idee
+  gebracht, mal wieder eine Mitmach-Aktion auf soundsvegan.com zu veranstalten.
+  Dieses Mal soll es nicht nur eine einfache Verlosung sein.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwME/8QAKhAAAgIBAwIEBgMAAAAAAAAAAQIDBBEABSEGEgcTMVEUIjJBcYEjYZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAhEQACAQMDBQAAAAAAAAAAAAABAgADBCEREjIiUWFx4f/aAAwDAQACEQMRAD8A9dinu6yXJl3O+wM8ihEuycDvPp83r+OOMZ0vlrbrBWkdN2vrYUCVWa7I7KgdQcoW9mHrqkYietJMIbDh2lWRC+XGGPIPHP8AY0l2LFjqmvBPt0Nem0c0EKuql5Pkz392Tn6cYH50drVFUED7JFxUY6Ey/wDDeHcN82a1at3Lcky2TGW+LcDiNDwOcDn00aqvDeg+1bVeq1SssQuMRngrmNMqffHv7Y0aPtQcRj3N97nkczI47FWJG83uAEkqqG55727jxx9wP3rjSgjSxV3HbHiZK9geZGnAcfccc57SdMr/AIS9bTW5mjTphoAzLArWZk7ELE5wI/qOeTnSObwM6/kMnlW+nawkcSERXLHysue0r/HxjJ049SAdsQgpsHPmav0BvLTbfuDPJEXW4yMxcKWKoi5I/X+Y0alejfCvrTa6Vxd23WhYsz2TMZFtSHI7EXk+WOcqdGhG2YnEargDQz//2Q==
@@ -77,12 +77,11 @@ labels:
   - Vinyl-Verlosung
   - Weezer
 focusKeyword: Verlosung
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Exklusives Vinyl, CD und T-Shirt zu gewinnen
+
 ---
 
 ---

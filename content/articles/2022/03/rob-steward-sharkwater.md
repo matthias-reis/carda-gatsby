@@ -1,12 +1,18 @@
 ---
 date: 2022-03-14T16:46:12.929Z
-slug: rob-steward-sharkwater
 typeName: Filmtipp
 title: Hai-Trilogie "Sharkwater" jetzt kostenlos streamen
 subTitle: Rob Stewards Vermächtnis auf WaterBear
 seoTitle: Rob Stewards Hai-Trilogie "Sharkwater" jetzt streamen
-description: Der kanadische Filmemacher und Naturschutz-Biologe Rob Steward kam 2017 unter tragischen Umständen auf See ums Leben. Jetzt ist sein Vermächtnis – eine Trilogie über den Schutz der Haie – auf WaterBear verfügbar.
-excerpt: 'Der kanadische Filmemacher und Naturschutz-Biologe Rob Steward kam 2017 unter tragischen Umständen auf See ums Leben. Jetzt ist sein Vermächtnis – eine Trilogie über den Schutz der Haie – auf WaterBear verfügbar. Mit seinem Mentor, dem Sea Shepherd Gründer Paul Watson, beteiligte sich Rob aktiv am Kampf gegen illegalen Haifang. Er begleitete den Aktivisten und filmte seine Einsätze. '
+description: Der kanadische Filmemacher und Naturschutz-Biologe Rob Steward kam
+  2017 unter tragischen Umständen auf See ums Leben. Jetzt ist sein Vermächtnis
+  – eine Trilogie über den Schutz der Haie – auf WaterBear verfügbar.
+excerpt: "Der kanadische Filmemacher und Naturschutz-Biologe Rob Steward kam
+  2017 unter tragischen Umständen auf See ums Leben. Jetzt ist sein Vermächtnis
+  – eine Trilogie über den Schutz der Haie – auf WaterBear verfügbar. Mit seinem
+  Mentor, dem Sea Shepherd Gründer Paul Watson, beteiligte sich Rob aktiv am
+  Kampf gegen illegalen Haifang. Er begleitete den Aktivisten und filmte seine
+  Einsätze. "
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-14/sharkwater-rob-steward-jpg-imagine-0868a8_197da7_1024_768/640.webp
 copyright: sharkwater.com
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-14/sharkwater-rob-steward-fb-png-imagine-1878b8_1879a7_1200_628/640.webp
@@ -23,6 +29,7 @@ focusKeyword: Rob Steward
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Der kanadische Filmemacher und Naturschutz-Biologe Rob Steward kam 2017 unter tragischen Umständen auf See ums Leben. Jetzt ist sein Vermächtnis – eine Trilogie über den Schutz der Haie – auf der Aktivismus-Streaming-Plattform WaterBear verfügbar.**

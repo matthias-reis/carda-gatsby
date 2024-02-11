@@ -1,13 +1,13 @@
 ---
 date: 2021-01-27T11:55:00.000Z
-slug: chevelle-niratias-titelliste
-path: /2021/01/chevelle-niratias-titelliste/
 title: Chevelle enthüllen Titelliste für "Niratias"
 seoTitle: Chevelle enthüllen Titelliste für "Niratias" – Neues Album am 5. März
 ogTitle: Chevelle enthüllen Titelliste für "Niratias" – Neues Album am 5. März
-description: Am 5. März veröffentlichen Chevelle ihr langersehntes neues Album "Niratias". Die Band hat jetzt die komplette Track-Liste bekannt gegeben.
-excerpt: Am 5. März veröffentlichen Chevelle ihr langersehntes neues Album "Niratias". Die Band hat jetzt die komplette Track-Liste bekannt gegeben. Die Platte soll die bislang provokativste der Chicagoer Band werden.
-fileName: 2021-01---chevelle-enthuellen-titelliste-fuer-niratias.md
+description: Am 5. März veröffentlichen Chevelle ihr langersehntes neues Album
+  "Niratias". Die Band hat jetzt die komplette Track-Liste bekannt gegeben.
+excerpt: Am 5. März veröffentlichen Chevelle ihr langersehntes neues Album
+  "Niratias". Die Band hat jetzt die komplette Track-Liste bekannt gegeben. Die
+  Platte soll die bislang provokativste der Chicagoer Band werden.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_chevelle__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_chevelle__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAQIDCP/EACMQAAIBAwQCAwEAAAAAAAAAAAECEQADBAUSIUExcSJRYbH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgMEBf/EACMRAAEDAwMFAQAAAAAAAAAAAAEAAhEDBDFBcfAFEhMhUWH/2gAMAwEAAhEDEQA/APNJk3FXgSYkngVX1DSFwdITIFxmv8C4RcDKwYdDrmoTAlj84ETVXXdRx8zHsW8ZL9tQCXVmlVbx8fse6ao9xIhaNnRtmUqvlEmIG/3GnNUzbxMR9GbKdkW6H3G5yWWD4jxEf2lkjkVHYbEbc0q4kEeDH5TWl33abTGdolfX1Ulu6CZOVQ6kWvZT7WBpa0Axr+nfhSS3CtzcI9RWGuEcgCTPVFFApA4jBWjOWAB6rrhNtyFPXM0UUrcoP9gyv//Z
@@ -25,12 +25,11 @@ labels:
   - Niratias
   - Rock
 focusKeyword: Chevelle
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Neues Album am 5. März
+
 ---
 
 **Am 5. März veröffentlichen Chevelle ihr langersehntes neues Album "Niratias". Die Band hat jetzt die komplette Track-Liste bekannt gegeben. Die Platte soll die bislang provokativste der Chicagoer Band werden.**

@@ -1,6 +1,5 @@
 ---
 date: 2022-01-21T05:30:11.503Z
-slug: playlist-februar-2022
 typeName: Beitrag
 title: Playlist Februar 2022
 subTitle: Starke Neuheiten von Post-Rock bis Progressive Metal
@@ -45,6 +44,7 @@ focusKeyword: ""
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Das neue Jahr geht gut los. Aus allen Richtungen hagelt es starke Neuveröffentlichungen. Man kommt mit dem Hören kaum noch hinterher. Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich 12 ganz besondere Juwelen für Euren Februar ausgesucht – von Post-Rock bis Progressive Metal.**

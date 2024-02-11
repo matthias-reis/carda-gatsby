@@ -1,25 +1,24 @@
 ---
 ogTitle: lyra messier im Interview - "Tanzmusik für Introvertierte"
-excerpt: Die hochtalentierte Ambient-Künstlerin lyra messier hat vor Kurzem ihr Album veröffentlicht. Im Interview hat sie mir einen Einblick in ihre Musik gegeben.
+excerpt: Die hochtalentierte Ambient-Künstlerin lyra messier hat vor Kurzem ihr
+  Album veröffentlicht. Im Interview hat sie mir einen Einblick in ihre Musik
+  gegeben.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lyra-messier-fb.png__l.jpg
 isAffiliate: false
-path: /2020/09/lyra-messier-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFBP/EACwQAAIBAgUDAwIHAAAAAAAAAAECAwQRAAUSEyEGMVEUInEHoSMyQWGBwfD/xAAZAQACAwEAAAAAAAAAAAAAAAADBAABAgb/xAAeEQADAAIBBQAAAAAAAAAAAAAAAQIRIQMEEkFRwf/aAAwDAQACEQMRAD8AyPSyxinKPuyBjfbFwR8+b476eTcfZq42jEdyysxHx8jGZk1Q6wMaiZY3jkKuUN7nwB255ucaC14/FNYyLTKCXdxe6+OP9zhU7bxk5/qT1JT5bk1KlPCs1QeQGHPPAB/Y2J/gYMZMK+qozX18M8ssgjRtBD8cXAAPtGm2okgntg51Tm0lf1JTS0PsdJrxo5BXSAB2Pfi+EaZtt5HUpU07Uz00Y3HVrRFWe5PkNx3N+L43jCE5tVb3pBeLPK2oQrT0suouSePaLm9v7wuz7Lol6elmXMtqohswjlZdqzWDa3C/mU6TYXABAv8ArixYt6YLjbvidUwavTSzUaSZhUmWoqC3pHpQJFYrwLltI0knnm4+2Lp/puoOfyQVlNMtHDEzyRyRnRIyglA3YFdXg/bnFixO5g56aKpN+/mT/9k=
 typeName: Interview
 isWerbung: false
-fileName: 2020-09---lyra-messier.md
-slug: lyra-messier-interview
-errors: {}
 date: 2020-09-09T14:49:01.000Z
 focusKeyword: lyra messier
 languageLink: /2020/09/lyra-messier-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lyra-messier-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_lyra-messier-1__m.jpg
 title: lyra messier
 subTitle: '"Tanzmusik für Introvertierte"'
 seoTitle: lyra messier im Interview - "Tanzmusik für Introvertierte"
-description: Die hochtalentierte Ambient-Künstlerin lyra messier hat vor Kurzem ihr Album veröffentlicht. Im Interview hat sie mir einen Einblick in ihre Musik gegeben.
+description: Die hochtalentierte Ambient-Künstlerin lyra messier hat vor Kurzem
+  ihr Album veröffentlicht. Im Interview hat sie mir einen Einblick in ihre
+  Musik gegeben.
 language: de
 type: Artikel
 labels:
@@ -33,6 +32,7 @@ labels:
   - Interviews
   - lyra messier
   - Music
+
 ---
 
 **Ich habe mich mit lyra messier unterhalten. Die hochtalentierte Ambient-Künstlerin hat vor Kurzem ein Album veröffentlicht. Im Interview hat sie mir einen Einblick in ihr Leben und Ihre Musik gegeben. Ich wünsche Euch viel Spaß beim Lesen.**

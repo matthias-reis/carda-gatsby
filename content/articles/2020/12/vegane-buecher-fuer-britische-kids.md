@@ -1,20 +1,21 @@
 ---
 date: 2020-12-08T13:35:00.000Z
-slug: vegane-buecher-fuer-britische-kids
-path: /2020/12/vegane-buecher-fuer-britische-kids/
 title: Vegane Bücher für britische Kids
 seoTitle: Britische Schulkinder bekommen vegane Bücher zu Weihnachten
 ogTitle: Britische Schulkinder bekommen vegane Bücher zu Weihnachten
-description: 'Im englischen Gloucestershire erhalten die Schulkinder in diesem Jahr ein besonderes Geschenk: Vegane Bücher sollen sie zu Mitgefühl inspirieren.'
-excerpt: 'Im englischen Gloucestershire erhalten die Schulkinder in diesem Jahr ein besonderes Geschenk: Vegane Bücher sollen sie zu Mitgefühl inspirieren.'
-fileName: 2020-12---vegane-buecher-fuer-britische-kids.md
+description: "Im englischen Gloucestershire erhalten die Schulkinder in diesem
+  Jahr ein besonderes Geschenk: Vegane Bücher sollen sie zu Mitgefühl
+  inspirieren."
+excerpt: "Im englischen Gloucestershire erhalten die Schulkinder in diesem Jahr
+  ein besonderes Geschenk: Vegane Bücher sollen sie zu Mitgefühl inspirieren."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_animalkind-peta-vegane-buecher__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_animalkind-peta-vegane-buecher__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAQj/xAAkEAACAQQCAgIDAQAAAAAAAAABAgMABAUREiExQQYTIlFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAwDAQACEQMRAD8A6pNLcpkGto3S2ikluV4kL9LldbG+wNb1v35piamsj8ht45ckj2N00tn9ixEjityyRLIVU9+mI8eVb9VFA7AV5MRkHmyNpHEsscTiTkJE4ltBSCN9+6aipH47mY87HgL6NDG0kM3OJl4lG0uwQarhVHTYmONhpTlcJZ5Bw81tAzgk8mQE71rf9oopJcmCksMjZTYmMKQGFxJNISCNdaGz32fH+1TR8gv5EFvZFFFJf//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_animalkind-peta-vegane-buecher-fb.png__l.jpg
 labels:
   - Animalkind
-  - 'Animalkind: Remarkable Discoveries About Animals and Revolutionary New Ways to Show Them Compassion'
+  - "Animalkind: Remarkable Discoveries About Animals and Revolutionary New Ways
+    to Show Them Compassion"
   - Elisa Allen
   - Gloucestershire
   - Hekmat Kaveh
@@ -25,12 +26,11 @@ labels:
   - Tierrechte
   - vegane Bücher
 focusKeyword: vegane Bücher
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Architekt spendet PETA-Bücher an Schulkinder
+
 ---
 
 **Im englischen Gloucestershire erhalten die Schulkinder in diesem Jahr ein besonderes Geschenk: Vegane Bücher sollen sie zu Mitgefühl gegenüber Tieren inspirieren.**

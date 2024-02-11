@@ -1,12 +1,17 @@
 ---
 date: 2023-05-15T15:28:49.860Z
-slug: masthuehner
 typeName: Beitrag
 title: Das Leben der Masthühner
 subTitle: Sie leiden in der Dunkelheit
 seoTitle: Masthühner leiden in der Dunkelheit
-description: '"Masthühner" leiden ihr ganzes Leben lang. Animal Equality teilt jetzt neue Zahlen und Erkenntnisse. Das könnt Ihr persönlich tun.'
-excerpt: '"Masthühner" – mit dieser Bezeichnung sind Hühner gemeint, die Menschen so züchten, dass sie innerhalb einer möglichst geringen Zeitspanne viel Gewicht zuzulegen. Sie leiden ihr ganzes Leben lang. Mit ihrer Masthuhn-Haltung richtet sich die Industrie noch heute nach einer Entwicklung, die amerikanische Agrarwissenschaftler*innen sich in den 1930er und 1940er-Jahren ausgedacht haben.'
+description: '"Masthühner" leiden ihr ganzes Leben lang. Animal Equality teilt
+  jetzt neue Zahlen und Erkenntnisse. Das könnt Ihr persönlich tun.'
+excerpt: '"Masthühner" – mit dieser Bezeichnung sind Hühner gemeint, die
+  Menschen so züchten, dass sie innerhalb einer möglichst geringen Zeitspanne
+  viel Gewicht zuzulegen. Sie leiden ihr ganzes Leben lang. Mit ihrer
+  Masthuhn-Haltung richtet sich die Industrie noch heute nach einer Entwicklung,
+  die amerikanische Agrarwissenschaftler*innen sich in den 1930er und
+  1940er-Jahren ausgedacht haben.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-15/masthuehner-animal-equality-jpg-imagine-686868_8b817d_1024_768/640.webp
 copyright: Animal Equality
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-15/masthuehner-animal-equality-og-jpg-imagine-887878_928682_1200_628/640.webp
@@ -20,6 +25,7 @@ labels:
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **"Masthühner" – mit dieser Bezeichnung sind Hühner gemeint, die Menschen so züchten, dass sie innerhalb einer möglichst geringen Zeitspanne viel Gewicht zuzulegen. Sie leiden ihr ganzes Leben lang.**

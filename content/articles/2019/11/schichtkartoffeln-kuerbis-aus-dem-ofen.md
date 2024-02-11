@@ -1,19 +1,20 @@
 ---
-date: 2019-11-18T17:27:53.000+00:00
-slug: schichtkartoffeln-kuerbis-aus-dem-ofen
-path: '/2019/11/schichtkartoffeln-kuerbis-aus-dem-ofen/'
+date: 2019-11-18T17:27:53.000Z
 type: Artikel
 typeName: Rezept
 title: Schichtkartoffeln & Kürbis
 seoTitle: Schichtkartoffeln und Kürbis aus dem Ofen
 ogTitle: Schichtkartoffeln und Kürbis aus dem Ofen
-description: Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel Schichtkartoffeln aus dem Ofen. Sie schmecken besonders mit Kürbis gut - hier ist mein Rezept.
-excerpt: Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel Schichtkartoffeln aus dem Ofen. Sie schmecken besonders mit Kürbis gut - hier ist mein Rezept.
-fileName: 2019-11---schichtkartoffeln-und-kuerbis.md
+description: Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel
+  Schichtkartoffeln aus dem Ofen. Sie schmecken besonders mit Kürbis gut - hier
+  ist mein Rezept.
+excerpt: Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel
+  Schichtkartoffeln aus dem Ofen. Sie schmecken besonders mit Kürbis gut - hier
+  ist mein Rezept.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-9__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-9__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIDB//EACoQAAICAQIFAwMFAAAAAAAAAAECAwQRAAUGEhMhMRQicUFRYTJCUnKB/8QAFwEBAQEBAAAAAAAAAAAAAAAABQYCBP/EACQRAAEDAwQBBQAAAAAAAAAAAAECAwQAITEFERJxIkGBseHw/9oADAMBAAIRAxEAPwCqVOKp6yxtFLXpoGAIMIkJGfABGSfnGnElOe5P623dsSNYx7WIAiI7FQP24P01WC1OWxc6e5vVjlcyeigZnVTn9KpjI/r+NP8AguCPadn3RoVaSEyCfpiTmfrchLp3ACt3QEDPf41F6hIdUg+ZN8H137x+xVLpyEtuDinNbaKbjsVq7LtrtPK6E+mlcvFIcdgO+M/bSPiTjOXcJZW2/boFhjC80fRdnYnAOT4UZ5h/msbG6bncuTRmvLDSmKiOKSWMGEkFvaQQPH0JGc5HnSZdwF+ezTgsbjTmqzuqoeWX2kZ5mkx7cnyuSMnXbFdksI4lVrHoVmWy1IWFJTf5q+7ptsHFFRJqt19v3UJyGeI46yfwf7/OoVTY24c4eaPd3NquZnkd4IeVoeYDypPuXt5UnRo0/KgsyEkKHuM0JEmOx1goNQ9440SGpWrVLHNWgmSQIlBYi4ViQhbOcYOPHjXP944paKe/PDCgltSiVuoT2I8AKMdvydGjRsaC0Dsb9/W1KPyVoBUixr//2Q==
-ogImage:
+ogImage: null
 labels:
   - Birkenzucker
   - Butternuss-Kürbis
@@ -25,19 +26,17 @@ labels:
   - Ofenkartoffeln
   - Schichtkartoffeln
   - vegane Rezepte
-
   - Winter
   - winterliche Küche
   - Xucker
 focusKeyword: Schichtkartoffeln
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Winterliches Ofenrezept
 advertisement: true
 affiliate: true
+
 ---
 
 **Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel Schichtkartoffeln aus dem Ofen. Sie lassen sich so gut wie mit allen winterlichen Gerichten gut kombinieren und gelingen ganz leicht.**

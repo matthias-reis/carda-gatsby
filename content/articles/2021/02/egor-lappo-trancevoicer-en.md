@@ -1,12 +1,13 @@
 ---
 templateKey: article
 date: 2021-02-22T05:00:00.000Z
-slug: egor-lappo-trancevoicer-en
 typeName: Review
 title: '"Trancevoicer" By Egor Lappo'
 subTitle: Progressive Metal From St. Petersburg
 seoTitle: '"Trancevoicer" By Egor Lappo – Progressive Metal From St. Petersburg'
-description: On March, 19 Egor Lappo is going to release his third album "Trancevoicer". I already had the chance to listen to it. Here is what can expect
+description: On March, 19 Egor Lappo is going to release his third album
+  "Trancevoicer". I already had the chance to listen to it. Here is what can
+  expect
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-02-egor-lappo-l-jpeg-imagine-080828_332133_1440_1080/640.webp
 copyright: Egor Lappo
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-02-egor-lappo-fb-png-l-jpg-imagine-080828_453a43_1440_756/640.webp
@@ -30,6 +31,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/02/egor-lappo-trancevoicer
+
 ---
 
 **On March, 19 Egor Lappo is going to release his third album "Trancevoicer". I already had the chance to listen to it. Here is what can expect** .

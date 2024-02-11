@@ -1,11 +1,12 @@
 ---
 date: 2021-02-11T10:38:00.000Z
-slug: breaths-interview-en
 typeName: Interview
 title: Interview With Breaths
 subTitle: '"Heavy Music Has A Lot In Common With Veganism"'
 seoTitle: Interview With Breaths – "Heavy Music Has A Lot In Common With Veganism"
-description: The debut album of Breaths will be released in March. I had the chance to talk to founder Jason now. We talked about his music and his vegan life.
+description: The debut album of Breaths will be released in March. I had the
+  chance to talk to founder Jason now. We talked about his music and his vegan
+  life.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-02-breaths-interview-l-jpeg-imagine-181818_828282_1440_1080/640.webp
 copyright: Breaths
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-02-breaths-lined-in-silver-png-l-jpg-imagine-585868_7e7177_1440_756/640.webp
@@ -30,6 +31,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/02/breaths-interview
+
 ---
 
 **The debut album of Breaths will be released in March. I had the chance to talk to founder Jason now. We talked about his music and his vegan life.**

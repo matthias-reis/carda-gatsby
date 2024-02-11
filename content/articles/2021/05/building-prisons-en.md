@@ -9,7 +9,6 @@ labels:
   - Review
   - Reviews
 language: en
-slug: building-prisons-en
 typeName: Review
 title: Building Prisons
 subTitle: New Irish Post-Rock Project
@@ -28,6 +27,7 @@ focusKeyword: Building Prisons
 advertisement: false
 affiliate: false
 languageLink: /2021/05/building-prisons
+
 ---
 
 **Building Prisons is a post-rock project from Cavan in the Republic of Ireland. Rory Mc Donagh (guitar), Peter Denton (guitar), Johno Leader (bass) and Paddy Fitzhenry (drums) name bands like Maybeshewill, This Will Destroy You and Russian Circles as their influences. Their self-titled debut EP makes you want to hear more.**

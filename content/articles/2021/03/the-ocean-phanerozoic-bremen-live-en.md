@@ -1,11 +1,13 @@
 ---
 date: 2021-03-17T12:30:39.889Z
-slug: the-ocean-phanerozoic-bremen-live-en
 typeName: Beitrag
 title: The Ocean Live In Bremen
 subTitle: Sign Up For The Event Now!
 seoTitle: The Ocean Live In Bremen – Sign Up For The Event Now!
-description: 'The Ocean are planning to play their sensational album "Phanerozoic I" live in its entirety. The concert will take place in Bremen. The highlight: We can all meet them there! To finally enjoy live music again, you can register now for the online event.'
+description: 'The Ocean are planning to play their sensational album
+  "Phanerozoic I" live in its entirety. The concert will take place in Bremen.
+  The highlight: We can all meet them there! To finally enjoy live music again,
+  you can register now for the online event.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-the-ocean-1-l-jpeg-imagine-080808_181818_1440_1080/640.webp
 copyright: The Ocean
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-the-ocean-fb-png-l-jpg-imagine-080808_111111_1440_754/640.webp
@@ -24,6 +26,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/03/the-ocean-phanerozoic-bremen-live
+
 ---
 
 **The Ocean are planning to play their sensational album "Phanerozoic I" live in its entirety. The concert will take place in Bremen. The highlight: We can all meet them there! To finally enjoy live music again, you can register now for the online event.**

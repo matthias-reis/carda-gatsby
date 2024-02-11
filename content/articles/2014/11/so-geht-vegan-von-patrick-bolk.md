@@ -1,19 +1,20 @@
 ---
-date: 2014-11-13T11:15:43.000+00:00
-slug: so-geht-vegan-von-patrick-bolk
-path: '/2014/11/so-geht-vegan-von-patrick-bolk/'
+date: 2014-11-13T11:15:43.000Z
 type: Artikel
 typeName: Buchtipp
 title: '"So geht vegan" von Patrick Bolk'
 seoTitle: '"So geht vegan" von Patrick Bolk - ein Buch für Vegan-Einsteiger'
 ogTitle: '"So geht vegan" von Patrick Bolk - ein Buch für Vegan-Einsteiger'
-description: Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo abzunehmen.
-excerpt: Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo abzunehmen.
-fileName: 2014-11---so-geht-vegan-von-patrick-bolk.md
+description: Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen
+  persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo
+  abzunehmen.
+excerpt: Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen
+  persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo
+  abzunehmen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgL/xAAqEAABAwMEAQMDBQAAAAAAAAABAgMEAAURBhIhMVETIkEVYXEHFjKBof/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAAC/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAEgMhERMxMnGB/9oADAMBAAIRAxEAPwDrTGl25cSNIkOlKVp3bAjJx+c+PtWtu+l7b9CkrjsqDzTZdSVLKgSBnBHRFS6z60uqmlFtyHBt7Cyw0pMYvOrAO0YBOM8eKcXS/wB/Fj+pRr7JMUqDT0aTFaSlaVEA7SE88H4qPJmxg1Pr7KFVvKUhWmbYLay2iIkkNpTvUolR9o57qc6xsKLbG9eKVlIWErS4QeCD1x9vnzW+1Vchb9ORJra3SQ0oekmWWQohsEdfyIx1kfOM1Gl60lXZEmFOlPodLZWgKWhSVLTztIIyAfgg5rvqKGrNQlbSZWy6XK3DEOa42gknbgEf7TGfqeXc0x0z1PPqY63OkJVz4AoopoRebcbibHtNTqL9R7tIYFmjtR2GIboSHCn1FL2gj3BXtIOesf3Sr9yT5ZCXGoCdvZQxgkeM7uB+KKKAUHfG4SxGp//Z
-ogImage:
+ogImage: null
 labels:
   - Bücher & Filme
   - Ernährung & Gesundheit
@@ -25,14 +26,13 @@ labels:
   - vegane Kochbücher
   - vegane Rezepte
 focusKeyword: Patrick Bolk
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ein Buch für Vegan-Einsteiger
 advertisement: false
 affiliate: true
+
 ---
 
 **"So geht vegan" von Patrick Bolk hebt sich in einem Punkt von sehr vielen anderen Büchern und Veröffentlichungen des Genres ab: Es ist sehr positiv geschrieben. Bolk ist schon sehr viel weiter, als einige andere Vertreter der Szene. Bei ihm ist der Veganismus bereits in der Mitte der Gesellschaft angekommen.**

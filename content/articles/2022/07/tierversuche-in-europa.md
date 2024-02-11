@@ -1,12 +1,16 @@
 ---
 date: 2022-07-29T15:20:27.847Z
-slug: tierversuche-in-europa
 typeName: Beitrag
-title: 'Tierversuche in Europa  '
+title: "Tierversuche in Europa  "
 subTitle: Aktuelle Auswertungen zeigen kaum Veränderung
 seoTitle: Aktuelle Tierversuchs-Zahlen zeigen kaum Veränderung
-description: Die neuesten Auswertungen der Zahlen zeigen kaum einen Rückgang der Tierversuche in Europa. Öffentlicher Widerstand gegen die Tests wird ignoriert.
-excerpt: Die neuesten Auswertungen der Zahlen zeigen kaum einen Rückgang der Tierversuche in Europa. Öffentlicher Widerstand gegen die Tests wird ignoriert, während in der EU weiterhin über 10 Millionen Tierversuche pro Jahr durchgeführt werden.
+description: Die neuesten Auswertungen der Zahlen zeigen kaum einen Rückgang der
+  Tierversuche in Europa. Öffentlicher Widerstand gegen die Tests wird
+  ignoriert.
+excerpt: Die neuesten Auswertungen der Zahlen zeigen kaum einen Rückgang der
+  Tierversuche in Europa. Öffentlicher Widerstand gegen die Tests wird
+  ignoriert, während in der EU weiterhin über 10 Millionen Tierversuche pro Jahr
+  durchgeführt werden.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-29/tierversuche-in-europa-jpeg-imagine-7888a8_72716f_1024_768/640.webp
 copyright: Cruelty Free International
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-29/tierversuche-in-europa-fb-jpeg-imagine-7888a8_727477_1200_628/640.webp
@@ -15,10 +19,11 @@ labels:
   - EU
   - Tierversuche in Europa
   - Tierrechte
-focusKeyword: ''
+focusKeyword: ""
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die neuesten Auswertungen der Zahlen zeigen kaum einen Rückgang der Tierversuche in Europa. Öffentlicher Widerstand gegen die Tests wird ignoriert, während in der EU weiterhin über 10 Millionen Tierversuche pro Jahr durchgeführt werden.**

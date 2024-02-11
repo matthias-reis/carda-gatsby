@@ -1,13 +1,14 @@
 ---
 date: 2011-06-29T17:58:40.000Z
-slug: abschalten
-path: /2011/06/abschalten/
 title: Abschalten
 seoTitle: Abschalten - Tagebucheintrag
 ogTitle: Abschalten - Tagebucheintrag
-description: Ein Stück Rollrasen auf dem Asphalt. Du denkst Dir eine Stunde lang "Schnäuzen soll helfen", aber Du sagst es ihm nicht. Das Amt will eine Erklärung.
-excerpt: Ein Stück Rollrasen auf dem Asphalt. Du denkst Dir eine Stunde lang "Schnäuzen soll helfen", aber Du sagst es ihm nicht. Das Amt will eine Erklärung.
-fileName: 2011-06---abschalten.md
+description: Ein Stück Rollrasen auf dem Asphalt. Du denkst Dir eine Stunde lang
+  "Schnäuzen soll helfen", aber Du sagst es ihm nicht. Das Amt will eine
+  Erklärung.
+excerpt: Ein Stück Rollrasen auf dem Asphalt. Du denkst Dir eine Stunde lang
+  "Schnäuzen soll helfen", aber Du sagst es ihm nicht. Das Amt will eine
+  Erklärung.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_06_201249_209443655744438_100000364159291_701954_8111703_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_06_201249_209443655744438_100000364159291_701954_8111703_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAArEAACAQMDAgUDBQAAAAAAAAABAgMEBREAEiEGQQcTIjFRFIGRFSQycbH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwB+LqOiszJW1lPTkRqy/toNkzs+FABY4P27aS6k8T4quyyU1hiulNcpXjEUrKmBySRwSckKRjHOsCW526ppKqONPMqqaFiY6tvMgDNKmPSiEoMFufVz8a0qKWxvTg0UNJLMsNUE2Ubhtw9QwxTggEEntrLRHpzxD6rpb3QtdRW1NB5m2WKWFUDAjH8tuQQSD+NUW49bdR0dVF9PY4fIkD7FKvMzYyc+jHGCoP576lS9TGUSQ/prICMKfqWDKcZyR8YH+a7O3XOhe4RyU8E6LG+0edcSQFYMCMHkZwo3D2xz76CArcpqmqnZpahVlLOVWXGAOcZAHx3zpqiqlIKSSXFl5IArMA7uCCNvORj+8aNGqhWMKlY7bcgKuBk8Ed/v30+3UjxBRPHNMIhh2FQUZywPOQOMe+jRoP/Z
@@ -35,14 +36,14 @@ labels:
   - Video
   - Werbespots
   - Wut
-  - Zu Risiken und Nebenwirkungen lesen Sie die Packungsbeilage und fragen Sie Ihren Arzt oder Apotheker
-focusKeyword: ''
-status: publish
+  - Zu Risiken und Nebenwirkungen lesen Sie die Packungsbeilage und fragen Sie
+    Ihren Arzt oder Apotheker
+focusKeyword: ""
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Tagebucheintrag
+
 ---
 
 **Ein Stück Rollrasen auf dem Asphalt. Du denkst Dir eine Stunde lang "Schnäuzen soll helfen", aber Du sagst es ihm nicht. Das Amt will eine Erklärung.**

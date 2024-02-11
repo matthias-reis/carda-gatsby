@@ -1,15 +1,16 @@
 ---
-date: 2016-02-03T12:29:39.000+00:00
-slug: unboxing-fooodz-de
-path: '/2016/02/unboxing-fooodz-de/'
+date: 2016-02-03T12:29:39.000Z
 type: Artikel
 typeName: Produkttest
 title: Unboxing Fooodz
 seoTitle: Unboxing Fooodz.de - Vegane Lebensmittel an die Haustür
 ogTitle: Unboxing Fooodz.de - Vegane Lebensmittel an die Haustür
-description: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage und damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier der Bericht.
-excerpt: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage und damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier mein Bericht.
-fileName: 2016-02---unboxing-fooodz.md
+description: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage
+  und damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier
+  der Bericht.
+excerpt: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage und
+  damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier mein
+  Bericht.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwABAwYF/8QAJhAAAgEDBAEDBQAAAAAAAAAAAQIDAAQRBQYhMRMSIkEyUVJxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwDOxNDEkaSOileO6T7XTI0QAQpR/s6eK6tbdQqMUyeSRjIxnj5Fdxa2kyxqfN6m4B9UjcD+Uhotq1bSIp4WVrdSSDQtv3QRbiQrCQvPRFM+rWiujO3iDc8+44Jxzz+sH70Yb3u1htJY2l8nZBYkmishbldoa3cW6xsg7+M0padue5aBS0YJx+VVVQpeXuLdN0I3CxqPj6qH93a1cTK7Pg9juqqizzf/2Q==
@@ -32,13 +33,12 @@ labels:
   - veganer Shop
   - Veganes Essen
 focusKeyword: Unboxing
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Vegane Lebensmittel bestellen
 advertisement: true
+
 ---
 
 **Vor Kurzem bekam ich eine nette Anfrage für ein Unboxing und damit die Möglichkeit, den veganen Online-Shop Fooodz.de aus Münster zu testen.**

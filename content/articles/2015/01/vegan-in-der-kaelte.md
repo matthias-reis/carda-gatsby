@@ -1,13 +1,12 @@
 ---
 date: 2015-01-24T11:55:03.000Z
-slug: vegan-in-der-kaelte
-path: /2015/01/vegan-in-der-kaelte/
 title: Vegan in der Yakutien
 seoTitle: Vegan in Yakutien - zu Besuch am kältesten Ort der Erde
 ogTitle: Vegan in Yakutien - zu Besuch am kältesten Ort der Erde
-description: Sebastian ist der 333ste Mensch, der den kältesten Ort der Erde in Yakutien bereist hat. Das Wort "vegan" ist dort vollkommen unbekannt.
-excerpt: Sebastian ist der 333ste Mensch, der den kältesten Ort der Erde in Yakutien bereist hat. Das Wort "vegan" ist dort vollkommen unbekannt.
-fileName: 2015-01---vegan-in-der-yakutien.md
+description: Sebastian ist der 333ste Mensch, der den kältesten Ort der Erde in
+  Yakutien bereist hat. Das Wort "vegan" ist dort vollkommen unbekannt.
+excerpt: Sebastian ist der 333ste Mensch, der den kältesten Ort der Erde in
+  Yakutien bereist hat. Das Wort "vegan" ist dort vollkommen unbekannt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQHAQMF/8QAKhAAAgEDAgQEBwAAAAAAAAAAAQIDAAQRBSEGEjFxFBZhkSMyQVFywdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EABsRAAICAwEAAAAAAAAAAAAAAAABAjEDEyFR/9oADAMBAAIRAxEAPwCnDi2f6tAT2P8Aa0ycVXLHaWEdlqbBuRmImZgdsY6VydT1OayvbC2QyzG7mMXMBsu2f37A1fpirIdkmVaXiS8YHFwg7KKX8x3Y+aWN/wAlqXDW5BqD2jxHlTOZ2kULkDJ26054ySUcwQgDOMPnPtRLFHwFzYytwXG3K2PTpSl1bC6uLaaQgNbuXTYY3GKKKeuiKMPp9pIzPLZ2sjnq5QEmldViiMKQmXw8THHwSE6A7Z+3pRRWlxHVZ//Z
@@ -21,12 +20,11 @@ labels:
   - vegan in Yakutien
   - Yakutien
 focusKeyword: Yakutien
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Zu Besuch am kältesten Ort der Erde
+
 ---
 
 **Wer mich kennt weiß, dass ich gerne unterwegs bin. Aus diesem Grund bin ich auch in diversen Reiseforen und -Gruppen Mitglied. Auf einer dieser Seiten habe ich Sebastian kennengelernt.**

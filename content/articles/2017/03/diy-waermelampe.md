@@ -1,13 +1,14 @@
 ---
 date: 2017-03-13T18:44:09.000Z
-slug: diy-waermelampe
-path: /2017/03/diy-waermelampe/
 title: DIY Wärmelampe
 seoTitle: DIY Wärmelampe zum Entspannen - Wellness für zu Hause
 ogTitle: DIY Wärmelampe zum Entspannen - Wellness für zu Hause
-description: Heute möchte ich Euch zeigen, wie Ihr Euch ganz leicht eine hochwertige Wärmelampe für zu Hause bauen könnt. Ihr werdet erstaunt sein, wie leicht es geht.
-excerpt: Heute möchte ich Euch zeigen, wie Ihr Euch ganz leicht eine hochwertige Wärmelampe für zu Hause bauen könnt. Ihr werdet erstaunt sein, wie leicht es geht.
-fileName: 2017-03---diy-waermelampe.md
+description: Heute möchte ich Euch zeigen, wie Ihr Euch ganz leicht eine
+  hochwertige Wärmelampe für zu Hause bauen könnt. Ihr werdet erstaunt sein, wie
+  leicht es geht.
+excerpt: Heute möchte ich Euch zeigen, wie Ihr Euch ganz leicht eine hochwertige
+  Wärmelampe für zu Hause bauen könnt. Ihr werdet erstaunt sein, wie leicht es
+  geht.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_32607263133_d36879fb88_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_32607263133_d36879fb88_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYIB//EACoQAAEEAQQBAwIHAAAAAAAAAAECAwQRBQAGEiFhBzFBExQiMlFxkaHh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAfEQACAQMFAQAAAAAAAAAAAAABAgADERIEEyExUUH/2gAMAwEAAhEDEQA/AEtnbaaW2hx5F+NXkrxeIfgsS+DX3alNtrNcQoAGj3ff6+NVfD7kgpxqkRZCTK4HgAkmj/mmEna690jHSTk30wmUOILyasqvpNH2BPd18amAbilpTuEYL7OlxJWImznYUN9qRIaTzWGkkpQLqyqq99Qu8ttw8hBcQ+ylXXRrtJ8HT30k9O5W3H8mr7pMmNKZpLy2+KlGvyn9ld351J52NkBGcAhOKNEdH30OocBkevhiksWxB5mWnN0OzXQ7GiMQj2D9G7V5N9f1qzbW3nkMLjhEAElhJSW0uGggX2BQ+b99GjTbbYxXqCU7jZN3NGbUzk/6AJU0YjiEuIa4HkgkWfxX3/GnGQzDy0m0jr4vRo1LOsrJTOLexjaem1TkT//Z
@@ -31,12 +32,11 @@ labels:
   - Wärmelampe
   - Wärmetherapie
 focusKeyword: Wärmelampe
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Wellness für zu Hause
+
 ---
 
 **Heute möchte ich Euch gerne zeigen, wie Ihr Euch ganz leicht mit ein paar Handgriffen eine tolle Wärmelampe für zu Hause bauen könnt.**

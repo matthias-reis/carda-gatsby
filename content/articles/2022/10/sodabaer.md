@@ -1,14 +1,18 @@
 ---
 date: 2022-10-05T11:22:27.562Z
-slug: sodabaer
 typeName: Produkttest
 title: Sodabär
 subTitle: Vegane und natürliche Sirup-Variationen
 seoTitle: Vegane und natürliche Sirup-Variationen von Sodabär
-description: Ihr seid auf der Suche nach einem veganen und natürlichen Getränkesirup? Ich zeige Euch meinen Tipp Sodabär und habe praktische Rezepte auf Lager.
-excerpt: Sodabär stellte vegane Sirupe her, die Ihr für Euren Sprudler oder einfach so zum Herstellen von Getränken nutzen könnt. Sechs besonders leckere Sorten habe ich jetzt getestet und dabei nebenbei für Euch ein ein paar Rezepte kreiert.
+description: Ihr seid auf der Suche nach einem veganen und natürlichen
+  Getränkesirup? Ich zeige Euch meinen Tipp Sodabär und habe praktische Rezepte
+  auf Lager.
+excerpt: Sodabär stellte vegane Sirupe her, die Ihr für Euren Sprudler oder
+  einfach so zum Herstellen von Getränken nutzen könnt. Sechs besonders leckere
+  Sorten habe ich jetzt getestet und dabei nebenbei für Euch ein ein paar
+  Rezepte kreiert.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-05/2022-10-02-sodabaer0357-jpg-imagine-080808_56411d_2048_1536/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-05/sodabaer-getraenkesirup-fb-jpeg-imagine-080808_503d19_1200_628/640.webp
 labels:
   - Sodabär
@@ -22,6 +26,7 @@ focusKeyword: Sirup
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Sodabär stellte vegane Sirupe her, die Ihr für Euren Sprudler oder einfach so zum Herstellen von Getränken nutzen könnt. Sechs besonders leckere Sorten habe ich jetzt getestet und dabei nebenbei für Euch ein ein paar Rezepte kreiert.**

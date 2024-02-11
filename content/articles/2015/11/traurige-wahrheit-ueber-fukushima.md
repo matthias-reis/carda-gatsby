@@ -1,13 +1,14 @@
 ---
 date: 2015-11-06T14:06:03.000Z
-slug: traurige-wahrheit-ueber-fukushima
-path: /2015/11/traurige-wahrheit-ueber-fukushima/
 title: Traurige Wahrheit über Fukushima
 seoTitle: Traurige Wahrheit über Fukushima - Kontamination nach wie vor stark
 ogTitle: Traurige Wahrheit über Fukushima - Kontamination nach wie vor stark
-description: Wir alle erinnern uns mit Schrecken an den Supergau im Atomkraftwerk von Fukushima im März 2011. Noch heute ist die Landschaft vor Ort stark verseucht.
-excerpt: Wir alle erinnern uns mit Schrecken an den Supergau im Atomkraftwerk von Fukushima im März 2011. Noch heute ist die Landschaft vor Ort stark verseucht.
-fileName: 2015-11---traurige-wahrheit-ueber-fukushima.md
+description: Wir alle erinnern uns mit Schrecken an den Supergau im
+  Atomkraftwerk von Fukushima im März 2011. Noch heute ist die Landschaft vor
+  Ort stark verseucht.
+excerpt: Wir alle erinnern uns mit Schrecken an den Supergau im Atomkraftwerk
+  von Fukushima im März 2011. Noch heute ist die Landschaft vor Ort stark
+  verseucht.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_fukushima__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_fukushima__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAArEAACAQMDAgUDBQAAAAAAAAABAgMEBREABiESEwcxMkFhIlGRIzOBoeH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEC/9oADAMBAAIRAxEAPwDi21LFJXWS43eN4BTULIk0bEhz1eXTxj+xp+2PDJCB25JpCMlIV6savNq2aK2+Glzp8dVRVBpZRnhynp+McaR8F7hbrXe55LhVw0SGkYBppAisxdDgEe/Hl8aC1lI1tHD2HBTofHAcdDDWTvPZ81ht9BVVE6yS1LOroAQUIwRwf5/GrbxKaju266uogqoVjEIcSM46HZU4UE489Jb63DQXXbFBSr3Hr/0pf28BPowwP3OTrNRJAYzds3UsFPS0eA8Lx9PdQkqG44b7Z50lQ3yajWVpmhmiBMarMQ6jng4YDH5GjRpZHZS8VkNZLTu9LRu6cx4Y4A+MHHt86mLlGXRVijpocZOPUc+/P+aNGrmm/9k=
@@ -19,12 +20,11 @@ labels:
   - Klima- & Umweltschutz
   - Ökostrom
 focusKeyword: Fukushima
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Kontamination nach wie vor dramatisch
+
 ---
 
 **Wir alle erinnern uns mit Schrecken an den Supergau im Atomkraftwerk von Fukushima im März 2011. Der Unfall war durch ein starkes Erdbeben in Folge eines Tsunami ausgelöst worden. Ganze Landstriche wurden damals verseucht, Menschen und Tiere wurden verstrahlt und starben. Durch die extrem hohe Halbwertszeit des radioaktiven Materials ist die Umweltweltkatastrophe auch heute noch längst nicht ausgestanden.**

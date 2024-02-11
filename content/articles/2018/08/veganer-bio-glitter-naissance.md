@@ -1,17 +1,18 @@
 ---
-date: 2018-08-14T05:12:23.000+00:00
-slug: veganer-bio-glitter-naissance
-path: '/2018/08/veganer-bio-glitter-naissance/'
+date: 2018-08-14T05:12:23.000Z
 title: All That Glitter
 seoTitle: All That Glitter And All That Glitter - Veganer Bio-Glitter von Naissance
 ogTitle: All That Glitter And All That Glitter - Veganer Bio-Glitter von Naissance
-description: Glitter ist toll! Glitter macht alles schöner und nicht nur Einhörner glücklich. Ich habe jetzt die biologisch abbaubare Variante getestet. Mein Fazit.
-excerpt: Glitter ist toll! Glitter macht alles schöner und nicht nur Einhörner glücklich. Ich habe jetzt die biologisch abbaubare Variante getestet. Mein Fazit.
-fileName: 2018-08---all-that-glitter.md
+description: Glitter ist toll! Glitter macht alles schöner und nicht nur
+  Einhörner glücklich. Ich habe jetzt die biologisch abbaubare Variante
+  getestet. Mein Fazit.
+excerpt: Glitter ist toll! Glitter macht alles schöner und nicht nur Einhörner
+  glücklich. Ich habe jetzt die biologisch abbaubare Variante getestet. Mein
+  Fazit.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-57__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-57__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggF/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDBAAFEQYSIQciQRQxUWFxoTJykf/EABYBAQEBAAAAAAAAAAAAAAAAAAMCAP/EABsRAAMBAAMBAAAAAAAAAAAAAAABAhEDEtGB/9oADAMBAAIRAxEAPwDOE0ADAqfSttbu2prRbniEtS5bTCyeMJUsA/rNDMSTdZjUW3x3ZMl04Q00kqUo/gVcOmintI9SoEa/25UVx9fpVKktEOMAnBW34J4255GCaRhyW/qvp+zvLlzmUhEopSmO02hSOwdoG0jI4/QBpNtQitR35bOMp4J/34rReutrOo5VxnJ3MvJwwEDKEp2kJGaS7lrUy6sOlbaVOdu7OQM+PzU0kniNxVdTtrPPR1dPLTp3Qun0s3m4wY2pHSiRPTKUAlsbstsBftxjuGf5H6FdzWEq3TIsR1M6LN9OoPR2W0FW97YraSffCcqUAnycmiiq6psN8jU/ShMR75HujUa8SETlNbNyEDlLihwP7Jyc+KYln6fwXY02ZcghapSFBpCTkMZBCiD8knP1RRUMaXqP/9k=
-ogImage:
+ogImage: null
 labels:
   - Blau
   - Color Key
@@ -28,14 +29,12 @@ labels:
   - vegan beauty
   - veganer Glitter
 focusKeyword: Glitter
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image that could not be found
 subTitle: Bio-Glitter von Naissance
 advertisement: true
+
 ---
 
 **Glitter ist toll! Glitter macht alles schöner und nicht nur Einhörner glücklich. Doch leider ist Glitter auch eine Umweltbelastung. Abgespült gelangen die kleinen Partikelchen ins Grundwasser und verbinden sich mit anderen** [**Mikroplastik**](/2018/05/mikroplastik-in-der-kosmetik/) **-Teilchen.**

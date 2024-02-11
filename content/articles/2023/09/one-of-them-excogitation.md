@@ -1,6 +1,5 @@
 ---
 date: 2023-09-28T10:04:21.544Z
-slug: one-of-them-excogitation
 typeName: Review
 title: One Of Them – "Excogitation"
 subTitle: Neue Ambient-Perle auf Artificial Owl Recordings
@@ -30,7 +29,9 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/09/one-of-them-excogitation-en/
+
 ---
+
 **Auf Artificial Owl Recordings ist heute eine ganz besonders schöne neue Ambient-EP erschienen: "Excogitation" von One Of Them holt uns in diesen ungewissen und trübseligen Zeiten alle auf den Teppich zurück und lässt uns über das reflektieren, was war und was kommen wird.**
 
 Die EP gibt es als 12"Vinyl, als Kassette oder über Bandcamp. Yoyaku Distribution vertreibt sie weltweit für das New Yorker Indielabel Artificial Owl. Ich verlinke Euch Bandcamp unten, dann könnt Ihr gleich mal reinhören – es lohnt sich, das sage ich Euch!

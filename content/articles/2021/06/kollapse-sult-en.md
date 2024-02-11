@@ -1,12 +1,17 @@
 ---
 date: 2021-06-23T16:52:46.378Z
-slug: kollapse-sult-en
 typeName: Review
 title: Kollapse – "Sult"
 subTitle: Sludge/Post-Metal Sound From Denmark
 seoTitle: Kollapse – "Sult" – Sludge/Post-Metal sound from Denmark
-description: Kollapse are back. Four years after their debut album "Angst", the sludge/post-metal group from Aalborg, Danmark will release their second record, "Sult", this Friday.
-excerpt: Kollapse are back. Four years after their debut album "Angst", the sludge/post-metal group from Aalborg, Danmark will release their second record, "Sult", this Friday. Because I had the honour to listen to the album already, I'll try to summarise my impressions a bit here for you. Maybe this article will develop into a music tip at one point. But let's see.
+description: Kollapse are back. Four years after their debut album "Angst", the
+  sludge/post-metal group from Aalborg, Danmark will release their second
+  record, "Sult", this Friday.
+excerpt: Kollapse are back. Four years after their debut album "Angst", the
+  sludge/post-metal group from Aalborg, Danmark will release their second
+  record, "Sult", this Friday. Because I had the honour to listen to the album
+  already, I'll try to summarise my impressions a bit here for you. Maybe this
+  article will develop into a music tip at one point. But let's see.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-jpg-imagine-f8f8f8_7c7c7c_1024_768/640.webp
 copyright: Kollapse
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-fb-jpg-imagine-686868_686462_1200_628/640.webp
@@ -28,6 +33,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/06/kollapse-sult
+
 ---
 
 **Kollapse are back. Four years after their debut album "Angst", the sludge/post-metal group from Aalborg, Danmark will release their second record, "Sult", this Friday.**

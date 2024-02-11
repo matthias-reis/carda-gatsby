@@ -1,50 +1,47 @@
 ---
-date: 2017-05-15T13:59:11.000+00:00
-slug: ecotanka-mein-testbericht
-path: "/2017/05/ecotanka-mein-testbericht/"
+date: 2017-05-15T13:59:11.000Z
 type: Artikel
 typeName: Produkttest
 title: Ecotanka im Test
 seoTitle: Ecotanka Trinkflasche aus Edelstahl - Mein Testbericht
 ogTitle: Ecotanka Trinkflasche aus Edelstahl - Mein Testbericht
-description: Mein Test der Ecotanka Trinkflasche ist etwas anders ausgefallen, als
+description: Mein Test der Ecotanka Trinkflasche ist etwas anders ausgefallen,
+  als geplant. Statt Lauftraining, Wandern und Radtour gab es
+  Matratzenhoch-Sport.
+excerpt: Mein Test der Ecotanka Trinkflasche ist etwas anders ausgefallen, als
   geplant. Statt Lauftraining, Wandern und Radtour gab es Matratzenhoch-Sport.
-excerpt: Mein Test der Ecotanka Trinkflasche ist etwas anders ausgefallen, als geplant.
-  Statt Lauftraining, Wandern und Radtour gab es Matratzenhoch-Sport.
-fileName: 2017-05---ecotanka-im-test.md
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34514375832_a819513a1d_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34514375832_a819513a1d_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYDBwgF/8QALRAAAgEDAwIDBwUAAAAAAAAAAQIDBAURABIhEzEGQXEHFSJDUWGhFDKCkdH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAACA//EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMRISIxQVH/2gAMAwEAAhEDEQA/AKctMUqy0CySukQQoemQykqTjnOCRnyxjyzpxesqae2Rv4cuhS4NsSSUS7SpxlmXIO4M27kjSdQ001badwcRCEYPTbnvnj012qOKNXhj3bEI3kEk/FwuR9yBzpY0VlskQCpm5eS2aC93QQUtFeD1Xp6SNz0/2sxwynOOWOBn8asCpkkNNbK651VLHFJUIx6D5Me5XAG3GR3wTpVFqgvlutc1JCtPIadY5SCXVwhChsH7HkaLqaO5QwxL06mFxtCiNQNrDcTjP1HHppislmOepmUZDMueEbkEaohnbprKABk98jH+aarFSC4yrA7yxnYUzGcMM5B/BI0jwVNYQwjfYWGMqi5A/rjTd4Jkmtd4pfeE6uamQKFU7nBJ5LAZIznvqrb3GkOAV+zQ1reuttioILO9FHUlXiVKuQLvQbfhX6ngcaEvnib2h08QlqLVSlI3LqxkRNxwRkAsCe50ctRTxe7evUSKkZmf9LBTM9RK27ClW+WBzz31OwrqiTdR0UNtB+fWN15z/HyPq2opwIG2Z//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34291309300_e761ac4aae_k__l.jpg
 labels:
-- BPA-free
-- Downhill
-- Eco
-- Ecotanka
-- Edelstahl
-- Fair Fashion & Beauty
-- joggen
-- laufen
-- Mountainbiking
-- Radfahren
-- Running
-- Sports Tanka
-- Trekking
-- Umweltschutz
-- vegan
-- Walken
-- Wandern
-- Zero Waste
+  - BPA-free
+  - Downhill
+  - Eco
+  - Ecotanka
+  - Edelstahl
+  - Fair Fashion & Beauty
+  - joggen
+  - laufen
+  - Mountainbiking
+  - Radfahren
+  - Running
+  - Sports Tanka
+  - Trekking
+  - Umweltschutz
+  - vegan
+  - Walken
+  - Wandern
+  - Zero Waste
 focusKeyword: Ecotanka
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Im Bett mit einer Flasche
 advertisement: true
 
 ---
+
 **Mein Test der Ecotanka Trinkflasche ist etwas anders ausgefallen, als geplant. Ich hoffe, dass mein Bericht dennoch kurzweilig ist. Alle Infos, die Ihr braucht, findet Ihr schon mal darin.**
 
 Ursprünglich hatte ich vorgehabt, sie zu einer Wanderung mitzunehmen. Leider bin ich unerwartet krank geworden und daraus wurde nichts. Weil ich zu Bettruhe verdonnert wurde und mir über den Tag schon mal ziemlich langweilig wird, habe ich mich entschlossen, meinen Artikel dennoch in time fertigzustellen. Kleiner Tipp am Rande: Drei Tage lang kann man ununterbrochen Netflix kucken. Dann sollte man sich eine andere Beschäftigung suchen, sonst bekommt man viereckige Augen. Doch nun zur Ecotanka.

@@ -1,13 +1,14 @@
 ---
 date: 2017-04-13T05:53:17.000Z
-slug: alternative-banken-urgewald-informiert
-path: /2017/04/alternative-banken-urgewald-informiert/
-title: 'urgewald informiert: Alternative Banken'
+title: "urgewald informiert: Alternative Banken"
 seoTitle: Alternative Banken - urgewald informiert - Diese Banken machen es anders
 ogTitle: Alternative Banken - urgewald informiert - Diese Banken machen es anders
-description: Heute möchte ich wie versprochen ein paar alternative Banken vorstellen. Diese vier Banken machen es anders. Sie stecken das Geld in nachhaltige Projekte.
-excerpt: Heute möchte ich wie versprochen ein paar alternative Banken vorstellen. Diese vier Banken machen es anders. Sie stecken das Geld in nachhaltige Projekte.
-fileName: 2017-04---urgewald-informiert-alternative-banken.md
+description: Heute möchte ich wie versprochen ein paar alternative Banken
+  vorstellen. Diese vier Banken machen es anders. Sie stecken das Geld in
+  nachhaltige Projekte.
+excerpt: Heute möchte ich wie versprochen ein paar alternative Banken
+  vorstellen. Diese vier Banken machen es anders. Sie stecken das Geld in
+  nachhaltige Projekte.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_19548358703_3424a3edf5_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_19548358703_3424a3edf5_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QAKhAAAgEEAQEGBwEAAAAAAAAAAQIDAAQRIQUSBjFBUYGhEyQzcXOR0bH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECEQMT/9oADAMBAAIRAxEAPwDUcfxtrHbxNaWd9BKo0yysT6qdfqmtonJQZZIHYMcgyFiQfPAOPaqXH9qrhowpvlLfihz7Cmi87cv0/MnXcRDH/KrPacJ+VE2n5mZsYYDCjSsOkLnGD57pR2hs7iaB3dOQEmyAjkgE+OBrFOxzNx1BhcMMY18JP5VC9525CFkvWOifpREHX2orrKepDedZhz/iUeSNWjZI9Z1Ep9O6ngYogLkOSO/pAx7UUVkRZEp7lreJ2UZZBkZxSGbkDOmXTQ8M6/yiiiOj/9k=
@@ -27,12 +28,11 @@ labels:
   - Triodos Bank
   - UmweltBank
 focusKeyword: Alternative Banken
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Teil 2/2 Diese Banken machen es anders
+
 ---
 
 **Wie gestern in [Teil 1](/2017/04/urgewald/) meines Artikels bereits angekündigt, möchte ich Euch heute ein paar alternative Banken vorstellen. Meine Informationen habe ich aus der gestern vorgestellten Broschüre "Was macht eigentlich mein Geld?" sowie von den Infoseiten der verschiedenen Banken.**

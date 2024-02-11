@@ -1,15 +1,14 @@
 ---
 date: 2014-07-01T13:41:19.000Z
-slug: urlaub-ohne-schein
-path: /2014/07/urlaub-ohne-schein/
 type: Artikel
 typeName: Konzertbericht
 title: Urlaub ohne Schein
 seoTitle: Urlaub ohne Schein - Ich melde mich zurück
 ogTitle: Urlaub ohne Schein - Ich melde mich zurück
-description: Heute melde ich mich aus dem Urlaub zurück und teile meine Eindrücke mit Euch - Ich freue mich wie immer auf Eure Zuschriften!
-excerpt: Heute melde ich mich aus dem Urlaub zurück und teile meine Eindrücke mit Euch - Ich freue mich wie immer auf Eure Zuschriften!
-fileName: 2014-07---urlaub-ohne-schein.md
+description: Heute melde ich mich aus dem Urlaub zurück und teile meine
+  Eindrücke mit Euch - Ich freue mich wie immer auf Eure Zuschriften!
+excerpt: Heute melde ich mich aus dem Urlaub zurück und teile meine Eindrücke
+  mit Euch - Ich freue mich wie immer auf Eure Zuschriften!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_07_14207822166_09fc83462f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_07_14207822166_09fc83462f_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKRAAAQMDBAIBAwUAAAAAAAAAAQIDBAAFEQYSEyExQSIVMmEjQnGBof/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAv/EABoRAAMAAwEAAAAAAAAAAAAAAAABAgMEITH/2gAMAwEAAhEDEQA/AH+P9Ikp3yrhEDyMfpPSEslaT+4AkGqGpLnp63tMpkyI8h5akDjacS6rYVYKjg4wAD7pX1iw5qC9XKZp2XHlxYMJpySneAlACFE7PgrccDJBxgmqbOnb5ElymkybdGKYbU0OKkBCFsqJCcni+7OPj+ejSLI58CqFS6aE3ZrZNhbLbdIS4gcKgWpDfSh0e8591G5o1k7pAkNSSU4QecKUnHtPf+Vj0hM59EZ5xLC1SY7z6CtSNwLWcpUOPo9dHvNaDo/UiLToNrmdgyZxcWEx3paWiyg9j4gD4+8DznzWnsU0ZWGV0QLPqZm2qvTFvtbzbU+OY/GlBSlk8RRhXRyewevPjNW7jfbpdH25z1tU82wllhlCAApTTRBSVZI7OVH+/VFFCOc2U68uBFcMN1B4XGth2BSEuHx9357pcusaRJbQ+lplBDTrSmS8gHwQnHf8YooqI//Z
@@ -30,12 +29,11 @@ labels:
   - soundgarden
   - Tagebuch
 focusKeyword: Urlaub ohne Schein
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Eine treulose Tomate meldet sich zurück
+
 ---
 
 **Jetzt ist es schon ganz schön lange her, seit ich mich das letzte Mal bei Euch gemeldet habe. Das mag daran gelegen haben, dass ich mich in der letzten Zeit ein bisschen eingeigelt habe.**

@@ -1,11 +1,12 @@
 ---
 date: 2021-03-15T15:18:00.000Z
-slug: rise-to-the-sky-let-me-drown-with-you-en
 typeName: Review
 title: '"Let Me Drown With You"'
 subTitle: Rise To The Sky
 seoTitle: Rise To The Sky – "Let Me Drown With You"
-description: Rise to the Sky is a one-person doom metal project from Santiago, Chile. Singer Sergio founded the band in 2019 with the release of his first album "Moonlight". Now his new record "Let Me Drown With You" is out.
+description: Rise to the Sky is a one-person doom metal project from Santiago,
+  Chile. Singer Sergio founded the band in 2019 with the release of his first
+  album "Moonlight". Now his new record "Let Me Drown With You" is out.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-rise-to-the-sky-1-l-jpeg-imagine-f8f8f8_9a9a9a_1440_1080/640.webp
 copyright: Rise To The Sky
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-rise-to-the-sky-fb-png-l-jpg-imagine-f8f8f8_9f9f9f_1440_754/640.webp
@@ -24,6 +25,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/03/rise-to-the-sky-let-me-drown-with-you
+
 ---
 
 **Rise to the Sky is a one-person doom metal project from Santiago, Chile. Singer Sergio founded the band in 2019 with the release of his first album "Moonlight". Now his new record "Let Me Drown With You" is out.**

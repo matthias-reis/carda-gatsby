@@ -1,14 +1,18 @@
 ---
 date: 2023-11-13T11:15:12.766Z
-slug: anifree-shoes-vegane-schuhe
 typeName: Produkttest
 title: Anifree Shoes
 subTitle: Vegane Schuhe & Accessoires für alle
 seoTitle: Vegane Schuhe von Anifree Shoes
-description: Vegane Schuhe, Sneakers und Accessoires die sich sehen lassen können und das auch noch in nachhaltig? Hier bekommt Ihr alle Infos über den Anifree Shoes Shop.
-excerpt: Vegane Schuhe, Sneakers, Taschen und Accessoires – bei Anifree Shoes aus Düsseldorf gibt es das alles auch mit einem echten Nachhaltigkeitsapekt und garantiert ohne Vegan Washing. Ich stelle Euch das Unternehmen und den Gründer dahinter vor.
+description: Vegane Schuhe, Sneakers und Accessoires die sich sehen lassen
+  können und das auch noch in nachhaltig? Hier bekommt Ihr alle Infos über den
+  Anifree Shoes Shop.
+excerpt: Vegane Schuhe, Sneakers, Taschen und Accessoires – bei Anifree Shoes
+  aus Düsseldorf gibt es das alles auch mit einem echten Nachhaltigkeitsapekt
+  und garantiert ohne Vegan Washing. Ich stelle Euch das Unternehmen und den
+  Gründer dahinter vor.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-13/anifree-shoes-18-jpg-imagine-080808_6e6763_2048_1536/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-13/anifree-shoes-og-jpg-imagine-080808_716c69_1200_628/640.webp
 labels:
   - Fair Fashion & Beauty
@@ -24,6 +28,7 @@ focusKeyword: vegane Schuhe
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Vegane Sneakers, die so richtig was hermachen, habe ich bei Anifree Shoes gefunden. Der Name des Shops ist Programm: Tierisches kommt hier nicht in den Schuhkarton. Ich zeige Euch heute meine neuen Schuhe und mein Portemonnaie von Anifree Shoes und stelle Euch den Store und den Gründer dahinter vor.**

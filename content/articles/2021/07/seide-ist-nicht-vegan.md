@@ -1,12 +1,14 @@
 ---
 date: 2021-07-08T12:28:13.876Z
-slug: seide-ist-nicht-vegan
 typeName: Beitrag
 title: Seide ist nicht vegan
 subTitle: Das steckt hinter der Seidenindustrie
 seoTitle: Seide ist nicht vegan – das steckt hinter der Seidenindustrie
-description: Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen gewonnen und der Prozess ist alles andere als tierfreundlich. Doch was genau steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung gemacht? Ich habe mal ein paar Fakten für Euch zusammengetragen.
-excerpt: ''
+description: Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen
+  gewonnen und der Prozess ist alles andere als tierfreundlich. Doch was genau
+  steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung gemacht?
+  Ich habe mal ein paar Fakten für Euch zusammengetragen.
+excerpt: ""
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/seidenraupen-zucht-jpg-imagine-b8b8b8_8a8a88_1024_768/640.webp
 copyright: LoggaWiggler, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/seidenraupen-zucht-fb-jpg-imagine-b8b8b8_91908d_1200_628/640.webp
@@ -30,6 +32,7 @@ focusKeyword: Seide ist nicht vegan
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Seide ist nicht vegan – sie wird aus dem Garn der Seidenraupen gewonnen und der Prozess ist alles andere als tierfreundlich. Doch was genau steckt hinter der Seidenindustrie? Was wird bei der Seidengewinnung gemacht? Ich habe mal ein paar Fakten für Euch zusammengetragen.**

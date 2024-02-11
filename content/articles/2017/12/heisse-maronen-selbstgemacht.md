@@ -1,28 +1,27 @@
 ---
 date: 2017-12-14T07:59:36.000Z
-slug: heisse-maronen-selbstgemacht
-path: /2017/12/heisse-maronen-selbstgemacht/
 type: Artikel
 typeName: Rezept
 title: Heiße Maronen selbst gemacht
 seoTitle: Heiße Maronen selbstgemacht - Winterlicher Snack für zwischendurch
 ogTitle: Heiße Maronen selbstgemacht - Winterlicher Snack für zwischendurch
-description: Wer liebt heiße Maronen so sehr wie ich? Sie gehören für mich einfach zum Winter dazu. Ich zeige Euch heute, wie Ihr sie ganz leicht selbst machen könnt.
-excerpt: Wer liebt heiße Maronen so sehr wie ich? Sie gehören für mich einfach zum Winter dazu. Ich zeige Euch heute, wie Ihr sie ganz leicht selbst machen könnt.
-fileName: 2017-12---heisse-maronen-selbst-gemacht.md
+description: Wer liebt heiße Maronen so sehr wie ich? Sie gehören für mich
+  einfach zum Winter dazu. Ich zeige Euch heute, wie Ihr sie ganz leicht selbst
+  machen könnt.
+excerpt: Wer liebt heiße Maronen so sehr wie ich? Sie gehören für mich einfach
+  zum Winter dazu. Ich zeige Euch heute, wie Ihr sie ganz leicht selbst machen
+  könnt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Hei%C3%9Fe-Maronen-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Hei%C3%9Fe-Maronen-1-von-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKBAAAQMDAwIGAwAAAAAAAAAAAQIDBAURIQAGEjFBBxMiUWFxFDKR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEAP/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMRIQQxEkFR/9oADAMBAAIRAxEAPwCsyXoVJp7k6pveTGbAuQkqJv0AA66n3invJtpmit0KRNisvLS7JUpktFxBIKRy+grF76wd7eILVRoL8GHBUGg+kJkuZ5uWVwJ9uhsMjUv3RupyRHhU+RKWYbDDbDilq5FxZA8x04vyuSAfZIGp7HJIC7EpqqHbyhUnfyhWksMPGpwZLxbYivLUXWEhRCVqdI/ZWDbIAsMab6xCj1CjonQ+LkZ5skJc+LhST1FwQR9jXOimqTNc50hLkFph1LbCVulyRJubAkDvjkeyb2F9X/YlQRDpLW2pkf8AHfY5oClTEuLkLUVKS6GyAUpVewtcHB+0TH2G1MbAitU/Dh0wnkyKw0zRTyW88GVKcaKQSAtI79uQNv7pDoUGmsGU7UZLKUPISFl1jznFZxYHoB3yL/OjRo8gBVXHuNxiXJ8t4xNDKpBh1hUmjCzST6HWeXFK7+njfIva4Bzq3bbZmzTBrW4Yy4SoqSY6HkhK3VC3J4p6pGCAO5Vjpo0ayqGCuexFtcqxRejP/9k=
 ogImage: null
-labels:
-
+labels: null
 focusKeyword: Heiße Maronen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Winterlicher Snack für zwischendurch
+
 ---
 
 **Wer liebt heiße Maronen auch so wie ich? Traditionell gibt es die ja auf Weihnachtsmärkten und an kleinen Wägelchen in der Fußgängerzone, wo sie einem von wettergegerbten Menschen mit verkohlten Kellen in kleine Papiertütchen gefüllt werden.**

@@ -1,11 +1,12 @@
 ---
 date: 2021-10-29T15:21:09.439Z
-slug: shy-low-interview-en
 typeName: Interview
 title: Interview With Shy, Low
 subTitle: '"The Danger Behind The Things That Give You Light"'
 seoTitle: Shy, Low – Interview With The Pelagic Band – Post-Rock
-description: Shy, Low recently released their new album "Snake Behind The Sun" on Pelagic. Now I have arranged an interview with the post-rock band from Richmond, Virginia.
+description: Shy, Low recently released their new album "Snake Behind The Sun"
+  on Pelagic. Now I have arranged an interview with the post-rock band from
+  Richmond, Virginia.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-interview-jpg-imagine-181818_000000_1024_768/640.webp
 copyright: Shy, Low
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-interview-fb-png-imagine-181818_232324_1200_628/640.webp
@@ -30,6 +31,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/10/shy-low-interview/
+
 ---
 
 **I am sure you already heard the news that the new Shy, Low record "Snake Behind The Sun" is out. My feature on it received more than just a few visits. So thank you for that! Now I had the chance to talk to the band that people use to mention in one sentence with giants like Cult Of Luna and Russian Circles.**

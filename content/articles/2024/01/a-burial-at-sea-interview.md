@@ -1,14 +1,18 @@
 ---
 date: 2024-01-19T12:15:00.766Z
-slug: a-burial-at-sea-interview
 typeName: Interview
-title: 'A Burial At Sea über ihr neues Album "Close To Home"'
+title: A Burial At Sea über ihr neues Album "Close To Home"
 subTitle: '"Die Liebe zu unserer Band ist unsere größte Motivation"'
-seoTitle: 'A Burial At Sea – Interview – Post-Rock – "Close To Home"'
-description: 'A Burial At Sea sind mit ihrem neuen Album "Close To Home" zurück. Lest jetzt das Interview und holt Euch spannende Insights über den Entstehungsprozess der Platte!'
-excerpt: 'A Burial At Sea sind wieder da und haben ihr neues Album "Close To Home" dabei! Ich habe mich mit Dara und Patrick unterhalten und einiges über ihren kreativen Prozess und ihre Motivation erfahren – und über die Idee für das Albumkonzept! Holt Euch hier alle Infos und hört direkt rein!'
+seoTitle: A Burial At Sea – Interview – Post-Rock – "Close To Home"
+description: A Burial At Sea sind mit ihrem neuen Album "Close To Home" zurück.
+  Lest jetzt das Interview und holt Euch spannende Insights über den
+  Entstehungsprozess der Platte!
+excerpt: A Burial At Sea sind wieder da und haben ihr neues Album "Close To
+  Home" dabei! Ich habe mich mit Dara und Patrick unterhalten und einiges über
+  ihren kreativen Prozess und ihre Motivation erfahren – und über die Idee für
+  das Albumkonzept! Holt Euch hier alle Infos und hört direkt rein!
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-19/a-burial-at-sea-interview-soundsvegan-com-jpg-imagine-e8e8e8_9f9f9f_1024_768/640.webp
-copyright: 'A Burial At Sea'
+copyright: A Burial At Sea
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-19/a-burial-at-sea-interview-soundsvegan-com-og-jpg-imagine-e8e8e8_a5a5a5_1200_628/640.webp
 labels:
   - Band
@@ -34,6 +38,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2024/01/a-burial-at-sea-interview-en/
+
 ---
 
 **A Burial At Sea werden am 23. Februar ihr neues Album "Close To Home" veröffentlichen. Nachdem ich hier schon eine ausführliche Preview veröffentlicht hatte, kam ich mit Dara (Tohill) und Patrick (Blaney) ins Gespräch. Ich habe den beiden einige Fragen zur Entstehung der großartigen Platte gestellt, die jetzt schon weltweit für große Freude bei den Fans sorgt. In diesem Interview erfahrt Ihr alles über die elf Songs – von der Motivation dahinter, über die Inspirationsquellen des Duos bis zu Daras und Patricks Plänen für nach dem Release.**

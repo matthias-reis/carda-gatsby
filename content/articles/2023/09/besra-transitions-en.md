@@ -1,12 +1,15 @@
 ---
 date: 2023-09-12T12:57:26.468Z
-slug: besra-transitions-en
 typeName: Review
 title: Besra – "Transitions"
 subTitle: '"Change is often painful"'
 seoTitle: Besra – "Transitions" – Post-Metal Review
-description: The upcoming new Besra album, "Transitions" was definitely worth the wait! Read my review now and please enjoy the pre-released first song, "Prison without Locks"!
-excerpt: After their debut album "Anhedonia" in 2018, post-metallers Besra released several EPs and singles. With "Transitions", they're finally about to deliver their second album, and (spoiler alert) It was worth the wait!
+description: The upcoming new Besra album, "Transitions" was definitely worth
+  the wait! Read my review now and please enjoy the pre-released first song,
+  "Prison without Locks"!
+excerpt: After their debut album "Anhedonia" in 2018, post-metallers Besra
+  released several EPs and singles. With "Transitions", they're finally about to
+  deliver their second album, and (spoiler alert) It was worth the wait!
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-12/besra-aleks-talve-jpg-imagine-080808_5f4339_1024_768/640.webp
 copyright: Aleks Talve
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-12/besra-aleks-talve-og-jpg-imagine-080808_5b382e_1200_628/640.webp
@@ -26,6 +29,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/09/besra-transitions/
+
 ---
 
 **After their debut album "Anhedonia" in 2018, post-metallers Besra released several EPs and singles. With "Transitions", they're finally about to deliver their second album, and (spoiler alert) It was worth the wait!**

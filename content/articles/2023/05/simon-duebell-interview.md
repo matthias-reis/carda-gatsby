@@ -1,12 +1,17 @@
 ---
 date: 2023-05-10T13:30:32.725Z
-slug: simon-duebell-interview
 typeName: Interview
 title: 'Simon Dübell: "Musik braucht keinen Dresscode"'
 subTitle: Interview mit dem Newcomer aus Berlin
 seoTitle: Simon Dübell – Techno/Electronica/Ambient Interview
-description: Simon Dübell gilt als der Newcomer aus der berliner Electronica-Szene. Lest jetzt mein Interview und erfahrt alles über sein Album!
-excerpt: 'Über Anette Records lernte ich vor Kurzem den talentierten Musiker Simon Dübell kennen. Sein fantastischer neuer Track "Undoing" landete gleich mal in meiner monatlich erscheinenden Playlist und für uns beide war von Anfang an klar: Wir müssen ein Interview machen! Das Ergebnis teile ich an dieser Stelle mit Euch.'
+description: Simon Dübell gilt als der Newcomer aus der berliner
+  Electronica-Szene. Lest jetzt mein Interview und erfahrt alles über sein
+  Album!
+excerpt: 'Über Anette Records lernte ich vor Kurzem den talentierten Musiker
+  Simon Dübell kennen. Sein fantastischer neuer Track "Undoing" landete gleich
+  mal in meiner monatlich erscheinenden Playlist und für uns beide war von
+  Anfang an klar: Wir müssen ein Interview machen! Das Ergebnis teile ich an
+  dieser Stelle mit Euch.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-05-10/simon-duebell-interview-soundsvegan-anne-reis-1-jpg-imagine-b8c898_a6aa87_1024_768/640.webp
 copyright: Simon Dübell
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-05-10/simon-duebell-interview-soundsvegan-anne-reis-og-jpg-imagine-a8b888_a4a284_1200_628/640.webp
@@ -28,6 +33,7 @@ focusKeyword: Simon Dübell Interview
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Über Anette Records lernte ich vor Kurzem den talentierten Musiker Simon Dübell kennen. Sein fantastischer neuer Track "Undoing" landete gleich mal in meiner monatlich erscheinenden Playlist und für uns beide war von Anfang an klar: Wir müssen ein Interview machen! Das Ergebnis teile ich an dieser Stelle mit Euch.**

@@ -1,14 +1,19 @@
 ---
 date: 2023-06-26T11:07:24.155Z
-slug: playlist-juli-2023
 typeName: Beitrag
 title: Playlist Juli 2023
 subTitle: Von BEAR bis Bring Me The Horizon
 seoTitle: Alternative Playlist Juli 2023
-description: Alternative Playlist Juli – es ist soweit, sie ist da! Mit dabei sind dieses Mal neben "alten Bekannten" wie Bring Me The Horizon und BEAR auch ein paar echte Geheimtipps.
-excerpt: Bevor ich für zwei Wochen in den Urlaub verdufte, lege ich die Playlist für den Juli noch vor. Die Songs sind so heiß wie das derzeitige Wetter, also vergesst die Elektrolyte nicht! Viel Spaß beim Hören mit Musik von Post-Rock bis Emocore! Die fertigen Playlists für Eure Lieblings-Streaming-Dienste habe ich angefügt.
+description: Alternative Playlist Juli – es ist soweit, sie ist da! Mit dabei
+  sind dieses Mal neben "alten Bekannten" wie Bring Me The Horizon und BEAR auch
+  ein paar echte Geheimtipps.
+excerpt: Bevor ich für zwei Wochen in den Urlaub verdufte, lege ich die Playlist
+  für den Juli noch vor. Die Songs sind so heiß wie das derzeitige Wetter, also
+  vergesst die Elektrolyte nicht! Viel Spaß beim Hören mit Musik von Post-Rock
+  bis Emocore! Die fertigen Playlists für Eure Lieblings-Streaming-Dienste habe
+  ich angefügt.
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-26/playlist-juli-2023-jpg-imagine-080808_715f58_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-26/playlist-juli-2023-og-png-imagine-080808_715f5a_1200_628/640.webp
 labels:
   - BEAR
@@ -34,11 +39,11 @@ labels:
   - Noise
   - Progressive
   - serie:Playlists 2023
-
 focusKeyword: Alternative Playlist Juli 2023
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Bevor ich für zwei Wochen in den Urlaub verdufte, lege ich die Playlist für den Juli noch vor. Die Songs sind so heiß wie das derzeitige Wetter, also vergesst die Elektrolyte nicht! Viel Spaß beim Hören mit Musik von Post-Rock bis Emocore!**

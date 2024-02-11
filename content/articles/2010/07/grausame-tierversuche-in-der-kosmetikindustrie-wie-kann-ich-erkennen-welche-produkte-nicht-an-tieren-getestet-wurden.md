@@ -1,13 +1,12 @@
 ---
 date: 2010-07-23T15:23:59.000Z
-slug: grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden
-path: /2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/
 title: Grausame Tierversuche in der Kosmetikindustrie
 seoTitle: Tierversuche in der Kosmetikindustrie - diese Produkte sind qualfrei
 ogTitle: Tierversuche in der Kosmetikindustrie - diese Produkte sind qualfrei
-description: Tierversuche sind grausam und unnötig. So lässt sich herausfinden, welche Produkte und Zusatzstoffe wirklich nicht an Tieren getestet werden.
-excerpt: Tierversuche sind grausam und unnötig. So lässt sich herausfinden, welche Produkte  und Zusatzstoffe wirklich nicht an Tieren getestet werden.
-fileName: 2010-07---grausame-tierversuche-in-der-kosmetikindustrie.md
+description: Tierversuche sind grausam und unnötig. So lässt sich herausfinden,
+  welche Produkte und Zusatzstoffe wirklich nicht an Tieren getestet werden.
+excerpt: Tierversuche sind grausam und unnötig. So lässt sich herausfinden,
+  welche Produkte  und Zusatzstoffe wirklich nicht an Tieren getestet werden.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_02_tierversuche-demo-covance-2006-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_02_tierversuche-demo-covance-2006-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQQHCP/EACUQAAEDAwQDAQEBAQAAAAAAAAECAwQFESEABhIxBxNBIpEUFf/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAH/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIRAyFBEiIxMmGBsfD/2gAMAwEAAhEDEQA/AE6lt1BuFXZEd2ahbcsIWkrBW0o8bFXaTkWJPWNFcjVuEtcaVVkPqLa+QASpJSE3434jOTfrrWx9gbapdfLTkmEhqIYiXn2w4pCXSopAKVJJ5BKxknJsPmNXnkbZNBjeM5L9MQn/AKlLjqfE72KK1EkF32HtSVAKOerYtoNO8q4VqUNZpBuZMYwMd5XPjc7cNUqj0ZyrvPvTG24bjbNluvBJJQjifoKjnvJ1Z1aTKitKjt1AqnKd9MiO9ES24weiVC5/oP8ANMGxNtO16WutSalFZYjylj2pZUtTjqkJ5LSk2AHFwgEnBHWmbyDseNEpVNlbZD8wSn1ibIlesvAqsS4FnjcW5AAk2sLDTIGnp8ykOLGvcBx9xf2otjbkakVxELZUphh9yK43/nlOtvpCeXsN7HAB61ceRaluQbNdj1iqUlujzAtLqojQCnvwpXr5KJGePz590aNMcBCmDiblKHgpdXrUWoU+FIZiw0NJluIdaBUXlrU2f2M2CUD89ZvrP8qbo3JtOuUBT87kp6JLCIzf4jocH4SopFyvBBz9t1m5o1jRsCCbr//Z
@@ -21,12 +20,11 @@ labels:
   - Tierschutz
   - Tierversuche
 focusKeyword: Tierversuche
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Wie kann ich erkennen, welche Produkte nicht an Tieren getestet wurden?
+
 ---
 
 **Leider leiden trotz unserer vermeintlich aufgeklärten Gesellschaft noch täglich tausende unschuldige Tiere Höllenqualen.**

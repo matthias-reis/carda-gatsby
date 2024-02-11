@@ -1,12 +1,15 @@
 ---
 date: 2023-10-05T11:01:25.196Z
-slug: lyra-messier-interview-2023-en
 typeName: Interview
 title: lyra messier about her new Album
-subTitle: '"I''ve never been happier before"'
-seoTitle: 'Interview: lyra messier about her new album'
-description: lyra messier has her new album ready! Read our interview now to find out everything about it!
-excerpt: When I first met Lyra online three years ago, I immediately fell for her music and her seemingly endless, sparkling creativity. In the meantime many things have changed and she has finished her new album. Time for an interview!
+subTitle: "\"I've never been happier before\""
+seoTitle: "Interview: lyra messier about her new album"
+description: lyra messier has her new album ready! Read our interview now to
+  find out everything about it!
+excerpt: When I first met Lyra online three years ago, I immediately fell for
+  her music and her seemingly endless, sparkling creativity. In the meantime
+  many things have changed and she has finished her new album. Time for an
+  interview!
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-jpg-imagine-080808_37352f_1024_768/640.webp
 copyright: lyra messier
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-05/lyra-messier-interview-soundsvegan-og-jpg-imagine-080808_3b3531_1200_628/640.webp
@@ -28,6 +31,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/10/lyra-messier-interview-2023/
+
 ---
 
 **When I first met Lyra online three years ago, I instantly fell for her music and her unlimited and sparkling creativity. Meanwhile, our acquaintanceship has become more than just two people sharing their taste in music, doing an interview every now and then—she is a dear friend! Now that her new album is ready, we met for another interview, and I recommend you to read it and get to know her and her music better wholeheartedly.**

@@ -1,15 +1,16 @@
 ---
 date: 2019-07-16T14:40:33.000Z
-slug: jenischpark-hamburg
-path: /2019/07/jenischpark-hamburg/
 type: Galerie
 typeName: Galerie
 title: Der Jenischpark in Hamburg
 seoTitle: Der Jenischpark in Hamburg - einfach mal die Seele baumeln lassen
 ogTitle: Der Jenischpark in Hamburg - einfach mal die Seele baumeln lassen
-description: Wenn man in der Großstadt lebt, ist der Wunsch nach frischer Luft am Wochenende oft groß - der Jenischpark ist in solchen Momenten immer eine gute Idee.
-excerpt: Wenn man in der Großstadt lebt, ist der Wunsch nach frischer Luft am Wochenende oft groß - der Jenischpark ist in solchen Momenten immer eine gute Idee.
-fileName: 2019-07---der-jenischpark-in-hamburg.md
+description: Wenn man in der Großstadt lebt, ist der Wunsch nach frischer Luft
+  am Wochenende oft groß - der Jenischpark ist in solchen Momenten immer eine
+  gute Idee.
+excerpt: Wenn man in der Großstadt lebt, ist der Wunsch nach frischer Luft am
+  Wochenende oft groß - der Jenischpark ist in solchen Momenten immer eine gute
+  Idee.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-27-jenisch-park-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-27-jenisch-park-4__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAHAwX/xAArEAABAwQBAwMCBwAAAAAAAAABAgMEAAURIRIGMUETFCIHgSNCUWFxcqH/xAAYAQADAQEAAAAAAAAAAAAAAAACBAUBA//EAB8RAQACAgICAwAAAAAAAAAAAAEAAgMRBCESFVFhcf/aAAwDAQACEQMRAD8AW9N2plcdl2K624ypIKVjfIUoi2i22p+VMcDLEmb6aXHSkAnjpI0M4zk/ySaw3pS7X1huNHkNtsW+O6l5DSZDSSSDnB3k9gRntTC09YXyLLjtP+0VBWkGS8qUhbq1lWSrn312wBSfsMb0oP7BGvzO31TuUGPdLcmC6iRNaaPJaVAoCSrIH6E6Iwc6Uazm9Wa6z4siXACHm3FF93LiXHVKycZBAx99aGPApV1w5Gvi/dwH0qnckoWlTulIwreyAMfHXnP7UelxLy2x6kSGEpDQRy9w0nkM/wBhqpjycluQu91+p0CtuiAoFywBlPyHnOKS20KlI5vu+g2B+XKlHX+feqqtcFG3ZB42Kt7PlPRZchwmvwlFbx7uLOSaP3qeF8ipYJPk1VUxSgdEoro0T//Z
@@ -29,12 +30,11 @@ labels:
   - Stadtranderholung
   - Wald
 focusKeyword: Jenischpark
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Einfach mal die Seele baumeln lassen
+
 ---
 
 **Wenn man in einer Großstadt wie Hamburg lebt, ist der Wunsch nach frischer Luft und grünen Wiesen und Bäumen am Wochenende oft groß - der Jenischpark ist in solchen Momenten immer eine gute Idee.**

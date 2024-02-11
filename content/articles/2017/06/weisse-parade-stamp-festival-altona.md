@@ -5,16 +5,11 @@ excerpt: Hamburg - Mit einer leuchtenden Parade aus futuristischen Feen und
   Ausklang.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34599807284_8cd2157e77_k__l.jpg
 isAffiliate: false
-path: /2017/06/weisse-parade-stamp-festival-altona/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYDBQcC/8QAKRAAAgIBAwMDBAMBAAAAAAAAAQIDEQQABRITITEGIkFRYYGhJDJxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBgX/xAAoEQABAgUDAQkAAAAAAAAAAAABAgMABBEhMQUSQXETIiNRYYGRofD/2gAMAwEAAhEDEQA/AM0nwJBuTYm7YDvi4/vASWhkGvbTD4ok/itHYOPnxpC0ccTYssagNKaCL5s13qz+/OjNp3VJsaF5pTM+MnCqo8Vsih9O+uTvmVg7BiybZLwkfH6EiE/2RhTAnx8fOnplbrDpDeL85HXy5GYYbQW0p7Y1NL0tXEL+RBHtfqmTH3aTH3QGCR3THjZGJII7XamqPg/GlnJy9uTJlUY8y8XIrmTXf/NbBBtuxYO1QbpkwpkNloYeqqF+yqONixQNE6Ax4/S2TBHOdhWQyqHLmBRysXdcu2jJPcBC085ibm3y3NuJRLOECmMdRf7hQ2lWaOU5PKMTwlFtraiRZ/WocgT9GLDUEhfaJAOxHkk/fUWJl/yekrJ1HHmQ0NNu1+lN13DEyJ2YypHD1AcZg6g8gB4/P/NVb2gSiUpUpW0WuefaDvaqGk+Lk8D98xV47RRwdGaV1iRfbbGrH2+96VnyZYWMSplUh4ikFdtW24w5GDK6TFq+hWjqpaeUsSJzROs7VtAXvC5YgpPqaQzLT7a0VrH/2Q==
 typeName: Galerie
 isWerbung: false
-fileName: 2017-06---welcome-to-the-light-parade.md
-slug: weisse-parade-stamp-festival-altona
-errors: {}
 date: 2017-06-21T07:34:03.000Z
 focusKeyword: parade
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35274863992_fed71f0e24_k__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35274863992_fed71f0e24_k__m.jpg
 title: Welcome to the light parade
@@ -38,6 +33,7 @@ labels:
   - Weiße Parade
 language: de
 type: Galerie
+
 ---
 
 **_Hamburg_ - Mit einer leuchtenden Parade aus futuristischen Feen und Elfen fand am Samstag der ersten Tag des Stamp Festivals in Altona seinen Ausklang.**

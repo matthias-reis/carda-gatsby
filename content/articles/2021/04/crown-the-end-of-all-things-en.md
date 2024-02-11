@@ -1,11 +1,13 @@
 ---
 date: 2021-04-10T11:33:52.624Z
-slug: crown-the-end-of-all-things-en
 typeName: Review
 title: '"The End Of All Things"'
 subTitle: New Crown Album In April
 seoTitle: '"The End Of All Things" – New Crown Album In April'
-description: Crown will release their new album on April 16th. I've already had the chance to listen to "The End Of All Things" and now I want to recommend it to you. As fans of post-rock and industrial, you will definitely get what you want.
+description: Crown will release their new album on April 16th. I've already had
+  the chance to listen to "The End Of All Things" and now I want to recommend it
+  to you. As fans of post-rock and industrial, you will definitely get what you
+  want.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-04-crown-the-end-of-all-things-l-jpeg-imagine-686868_848383_1440_1080/640.webp
 copyright: Crown
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-04-crown-the-end-of-all-things-fb-png-l-jpg-imagine-686868_797979_1440_754/640.webp
@@ -22,6 +24,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/04/crown-the-end-of-all-things
+
 ---
 
 **Crown will release their new album on April 16th. I've already had the chance to listen to "The End Of All Things" and now I want to recommend it to you. As fans of post-rock and industrial, you will definitely get what you want.**

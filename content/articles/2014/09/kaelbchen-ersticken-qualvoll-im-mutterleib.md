@@ -1,13 +1,12 @@
 ---
 date: 2014-09-03T10:46:43.000Z
-slug: kaelbchen-ersticken-qualvoll-im-mutterleib
-path: /2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/
 title: Kälbchen ersticken qualvoll im Mutterleib
 seoTitle: Kälbchen ersticken qualvoll im Mutterleib - das unfassbare Leid der Kühe
 ogTitle: Kälbchen ersticken qualvoll im Mutterleib - das unfassbare Leid der Kühe
-description: Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe sind trächtig - das Leid der älber und ihrer Mütter ist unermesslich.
-excerpt: Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe sind trächtig - das Leid der älber und ihrer Mütter ist unermesslich.
-fileName: 2014-09---kaelbchen-ersticken-qualvoll-im-mutterleib.md
+description: Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe
+  sind trächtig - das Leid der älber und ihrer Mütter ist unermesslich.
+excerpt: Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe sind
+  trächtig - das Leid der älber und ihrer Mütter ist unermesslich.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_kuehe-333x250__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_kuehe-333x250__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwIDBP/EACcQAAIBAwQCAgEFAAAAAAAAAAECAwQFEQAGEiExQRNRYSIyUnGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACIRAAICAQQBBQAAAAAAAAAAAAECAAMRBBIhMQUTQWGB0f/aAAwDAQACEQMRAD8A6rHuC6PEZJ7PVQxDPJpKdUUY85Jb1jTPZ9w1FfdqO2wUEK1NSSEErxr0BljjJOAO9VDbbSlxrbgbr8knGeZIVkkYhVYg5CnrvJ1YrXWotlLPXUwCzpAwj4RBiHK8c8Rj0WHfjz61kWeQdWALnvmHYm/01UTde7vMLlU0UdRUS1kMjI0NFMpxxHfSoeuxqE3DS7jqVWOKGWBZG4pmpSF2wMkftyeu9VxX3a40e8qiqoknpnSVRCFDKAQF7I/PWc/Yzou8+4rjBcrvcqtYknpi9OokMhUMR0v8CR0T5GTp733BsLYcfJMatWn2guvP1+TK3bmrqSZGhjnuMRQIyPOF4jA6z+PRGOvOnnbl4hmiaWS1rSSu/FonqPlLr76zgdEjRo1m6nB5xgyViWOT3I653Gkidq+piKpKjiSRpwVx+kcS33gKT/WlW5b8twp5KKnVFiZubYlJGQc4+seP80aNXVUrYxLe0A7n/9k=
@@ -19,12 +18,11 @@ labels:
   - Tierschutz
   - Tote Kälber
 focusKeyword: Kälbchen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Das unfassbare Leid der Kühe
+
 ---
 
 **Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe sind trächtig, der überwiegende Teil von ihnen befindet sich in einem fortgeschrittenen Trächtigkeitsstadium. Pro Jahr sind davon rund 180.000 Tiere betroffen.**

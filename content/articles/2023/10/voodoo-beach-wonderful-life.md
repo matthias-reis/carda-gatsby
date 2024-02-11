@@ -1,12 +1,16 @@
 ---
 date: 2023-10-12T10:37:41.490Z
-slug: voodoo-beach-wonderful-life
 typeName: Review
 title: Voodoo Beach – "Wonderful Life"
 subTitle: Melodischer Post-Punk & Noise aus Berlin
 seoTitle: Voodoo Beach – "Wonderful Life" – Post-Punk Review
-description: Voodoo Beach haben sich mit ihrem neuen Album "Wonderful Life" Sängerin und Gitarristin Heike Marie Rädeker (18th Dye) ins Boot gehört. Erfahrt jetzt, warum Ihr die Platte nicht verpassen solltet!
-excerpt: '"Wonderful Life" heißt das neue Album von Voodoo Beach. Sängerin und Gitarristin Heike Marie Rädeker überzeugt die  ihrem einfühlsamen Gesang auf ganzer Linie. Die Platte ist zeitlos, genial und wunderbar verspielt. Die ersten Vorauskopplungen könnt Ihr jetzt schon hören.'
+description: Voodoo Beach haben sich mit ihrem neuen Album "Wonderful Life"
+  Sängerin und Gitarristin Heike Marie Rädeker (18th Dye) ins Boot gehört.
+  Erfahrt jetzt, warum Ihr die Platte nicht verpassen solltet!
+excerpt: '"Wonderful Life" heißt das neue Album von Voodoo Beach. Sängerin und
+  Gitarristin Heike Marie Rädeker überzeugt die  ihrem einfühlsamen Gesang auf
+  ganzer Linie. Die Platte ist zeitlos, genial und wunderbar verspielt. Die
+  ersten Vorauskopplungen könnt Ihr jetzt schon hören.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-12/voodoo-beach-wonderful-life-jpg-imagine-d8d8d8_929292_1024_768/640.webp
 copyright: Voodoo Beach
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-12/voodoo-beach-wonderful-life-og-jpg-imagine-e80878_bb4885_1200_630/640.webp
@@ -27,6 +31,7 @@ focusKeyword: Vooodoo Beach – "Wonderful Life"
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **"Wonderful Life" heißt das neue Album von Voodoo Beach. Sängerin und Gitarristin Heike Marie Rädeker überzeugt die ihrem einfühlsamen Gesang auf ganzer Linie. Die Platte ist zeitlos, genial und wunderbar verspielt. Die ersten Vorauskopplungen könnt Ihr jetzt schon hören.**

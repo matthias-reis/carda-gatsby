@@ -1,13 +1,13 @@
 ---
 date: 2015-10-24T16:00:40.000Z
-slug: gruener-kaffee
-path: /2015/10/gruener-kaffee/
 title: Grüner Kaffee
 seoTitle: Grüner Kaffee - gesund und gut für die Figur
 ogTitle: Grüner Kaffee - gesund und gut für die Figur
-description: Grüner Kaffee kann sich positiv auf die Gesundheit auswirken. Das haben Forscher herausgefunden. Ein Portrait über das natürliche "Wundermittel".
-excerpt: Grüner Kaffee kann sich positiv auf die Gesundheit auswirken. Das haben Forscher herausgefunden. Ein Portrait über das natürliche "Wundermittel".
-fileName: 2015-10---gruener-kaffee.md
+description: Grüner Kaffee kann sich positiv auf die Gesundheit auswirken. Das
+  haben Forscher herausgefunden. Ein Portrait über das natürliche
+  "Wundermittel".
+excerpt: Grüner Kaffee kann sich positiv auf die Gesundheit auswirken. Das haben
+  Forscher herausgefunden. Ein Portrait über das natürliche "Wundermittel".
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_coffee-1869340_1280__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_coffee-1869340_1280__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAoEAACAQMDAgYDAQAAAAAAAAABAgMEBREAEiEUUQYTIjEyQSNhcZH/xAAYAQACAwAAAAAAAAAAAAAAAAABAwIEBf/EABwRAAMAAgMBAAAAAAAAAAAAAAABAhEhAwQxEv/aAAwDAQACEQMRAD8ATrA9XSVtK/WdPUVH5YVeCQ7wewAOc9tU6z+LLbX1T0dN633mNZI2G52ChmzGeUAyRk/YxjUlrK+pqoqOsCRU8lKnTL5KHcCvG4k/fbtrrX09XUWqiuqeiJqmQxoGb0EqA2Mkk7iM5POR76zaeLxIvaei5I8ogYQDqS4by1aRYQ5Azty+OSM41iXW+Wq2yQRzrUmoqpii06Dc0bD5BiMjjH1xrGt/iOW4EOLrDIrTTQIK6RKaVZCh2yMyA5hG0DaRkn9aw7zcqi9X6GSWajhuMEarNE6CFmYjllb4HP8AQf1qEcru3NaQXb9Fq2KIqa3JLmVBNuYE43bmJOf9xp+mt8NxohEwEUfIRYxgJj2I0aNWOLf1kEsQwppywgPllHMYI7e3Pf8AmqbT0SrbkRyrSyRqskmwAvx96NGkddJushjxn//Z
@@ -17,12 +17,11 @@ labels:
   - grüner Kaffee
   - Superfood
 focusKeyword: grüner Kaffee
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Gesund und gut für die Figur
+
 ---
 
 **Grüner Kaffee kann sich positiv auf die Gesundheit auswirken. Das haben Forscher herausgefunden. Wer auf der Suche nach einem "Wundermittel" ist, sollte sich erstmal in der Natur umschauen.**

@@ -1,11 +1,13 @@
 ---
 date: 2021-07-23T10:33:57.007Z
-slug: repetita-iuvant-3-1-en
 typeName: Beitrag
 title: Repetita Iuvant – "3+1"
 subTitle: Quadrophonic Sound Art
 seoTitle: Repetita Iuvant – "3+1" – Quadrophonic Sound Art – Post-Rock Review
-description: Repetita Iuvant is a group of friends who share their love of music and nature. Their new EP "3+1" for them is their natural, musical and mathematical consequence of their 2020 work "3", opening the next chapter of their trilogy, which together make up their first LP.
+description: Repetita Iuvant is a group of friends who share their love of music
+  and nature. Their new EP "3+1" for them is their natural, musical and
+  mathematical consequence of their 2020 work "3", opening the next chapter of
+  their trilogy, which together make up their first LP.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-2-jpg-imagine-080808_5b5b5b_912_684/640.webp
 copyright: Repetita Iuvant
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/repetita-iuvant-fb-png-imagine-f8f8f8_909598_1200_628/640.webp
@@ -27,6 +29,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/07/repetita-iuvant-3-1/
+
 ---
 
 **Repetita Iuvant is a group of friends who found each other through their love for great instrumental music. Their new EP "3+1" is their natural, musical and mathematical consequence of their 2020 work "3". It is also opening the next chapter of their trilogy. All three records combined will make their first LP.**

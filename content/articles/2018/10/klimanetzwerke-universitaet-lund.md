@@ -1,13 +1,14 @@
 ---
 date: 2018-10-16T15:50:06.000Z
-slug: klimanetzwerke-universitaet-lund
-path: /2018/10/klimanetzwerke-universitaet-lund/
 title: Klimanetzwerke und ihre Wirkung auf die Regionalpolitik
 seoTitle: Klimanetzwerke und ihre Wirkung auf die Regionalpolitik
 ogTitle: Klimanetzwerke und ihre Wirkung auf die Regionalpolitik
-description: Klimanetzwerke sollen in Zukunft die Kommunen im Kampf gegen den Klimawandel unterstützen. Ihre Vorteile müssen noch klarer kommuniziert werden.
-excerpt: Klimanetzwerke sollen in Zukunft die Kommunen im Kampf gegen den Klimawandel unterstützen. Nachforschungen der Universität Lund haben ergeben, dass ihre Vorteile in Zukunft noch klarer kommuniziert werden müssen.
-fileName: 2018-10---klimanetzwerke-und-ihre-wirkung-auf-die-regionalpolitik.md
+description: Klimanetzwerke sollen in Zukunft die Kommunen im Kampf gegen den
+  Klimawandel unterstützen. Ihre Vorteile müssen noch klarer kommuniziert
+  werden.
+excerpt: Klimanetzwerke sollen in Zukunft die Kommunen im Kampf gegen den
+  Klimawandel unterstützen. Nachforschungen der Universität Lund haben ergeben,
+  dass ihre Vorteile in Zukunft noch klarer kommuniziert werden müssen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_11669229234_dfef7df904_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_11669229234_dfef7df904_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQj/xAAsEAABAwMCBAMJAAAAAAAAAAABAAIDBBEhBxIGIjFBBRMUMkJRYXGBobHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMFBP/EAB8RAAEEAgIDAAAAAAAAAAAAAAIAAQMRBDESUSFBkf/aAAwDAQACEQMRAD8A14RPMGk3Pa9gtCCileMWNuvMMKSmqYg2zj/FZFUwd5hY9iAqEueTNQJA41+SVEdFd23zGbuuHg4ThRAe0oYnwM8SDoAwAwc2xliebBwPktSOS2Qx33UqbMlva1BCHtcxR6kcSMJ2y0QHw9MLD8qiPVLiSMXJoHY705H6chCZd7SWJ2TG6v8AjbHmR9LRueWeWLbwOt79Uip1T4nmaQyajhDh7lOCR9C4lCEeI9N8RYy7X//Z
@@ -22,12 +23,11 @@ labels:
   - Klimanetzwerke
   - Universität Lund
 focusKeyword: Klimanetzwerke
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Neue Forschungsergebnisse der Universität Lund
+
 ---
 
 _Lund –_ **Klimanetzwerke sollen in Zukunft die Kommunen im Kampf gegen den Klimawandel unterstützen. Um ihr volles Potential ausschöpfen zu können, müssen jedoch die Vorteile einer Mitgliedschaft deutlich klarer kommuniziert werden.**

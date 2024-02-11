@@ -1,15 +1,14 @@
 ---
 date: 2020-05-07T10:50:13.000Z
-slug: smashed-potatoes
-path: /2020/05/smashed-potatoes/
 type: Artikel
 typeName: Rezept
 title: Smashed Potatoes
 seoTitle: Smashed Potatoes - rustikale Kartoffeln aus dem Ofen
 ogTitle: Smashed Potatoes - rustikale Kartoffeln aus dem Ofen
-description: Smashed Potatoes zählen seit kurzem zu meinen Lieblingsgerichten. Sie lassen sich ganz leicht zubereiten und schmecken besser als Chips.
-excerpt: Smashed Potatoes zählen seit kurzem zu meinen Lieblingsgerichten. Sie lassen sich ganz leicht zubereiten und schmecken besser als Chips.
-fileName: 2020-05---smashed-potatoes.md
+description: Smashed Potatoes zählen seit kurzem zu meinen Lieblingsgerichten.
+  Sie lassen sich ganz leicht zubereiten und schmecken besser als Chips.
+excerpt: Smashed Potatoes zählen seit kurzem zu meinen Lieblingsgerichten. Sie
+  lassen sich ganz leicht zubereiten und schmecken besser als Chips.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-06-kartoffeln-12__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-06-kartoffeln-12__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAtEAABAwMCBQIFBQAAAAAAAAABAgMEBREhABIGEyIxQRRhBxUjUYEyUmKhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAYFAAH/xAAjEQABBAEDBAMAAAAAAAAAAAABAAIDBBESIVExMkHBgaGx/9oADAMBAAIRAxEAPwCV4WpK+KXJTlJUZb61NhRjhKWG1Jt1LWU2vbG0G58605Pw/boHDznrqmH5k90DlpZs0pwXVclJSbhIIGfwdLKRXXKTT5EKktxmvSobWxsIP09u4mysG/37/nTRqvVSrMrprlSMl4OIdG+OlTY89Dg85It/mjtyavE2XQSZADufB+lXrtnfpc4gN4HCWzKJT4cN5UqU8hvqU4hlHKS5bJwgAq85JN9SdapMJTDi2aE6WSN3MKUbhi1tt9w7dtXFRhpjSmob8ZqQxsC3Zgnqusk4G223vhINxixGdRs7i0pmTKfKTJU6wdqXilI3i+N6r9Kr3BScdgMaN15rTzlry4+d8fntVXsYW5wPlSNA4wZTR/ldZS85BI+k6zcrbH7Sm43Jz27+M+HbHFNKj0aPHhVqG46gneVPcr2Bs5tKTa2M2P8AZo09mpx2HBztiOPaNRWpIRhvQrgqnG1AabcE6oGbZW5LEPesKOOo/pR2Fu/vrPaxxvJcU4mktLhtrJ63F8xzP2NgEn3sVfy0aNaGnDB2BdktSyDBK//Z
@@ -19,14 +18,12 @@ labels:
   - Ofenkartoffeln
   - Smashed Potatoes
   - vegane Rezepte
-
 focusKeyword: Smashed Potatoes
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Rustikale Kartoffeln aus dem Ofen
+
 ---
 
 **Smashed Potatoes zählen seit Kurzem zu meinen Lieblingsgerichten. Sie lassen sich ganz leicht zubereiten, passen fast überall dazu und schmecken besser als Chips.**

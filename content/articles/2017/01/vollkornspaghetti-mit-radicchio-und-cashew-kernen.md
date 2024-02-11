@@ -1,15 +1,16 @@
 ---
 date: 2017-01-26T12:29:28.000Z
-slug: vollkornspaghetti-mit-radicchio-und-cashew-kernen
-path: /2017/01/vollkornspaghetti-mit-radicchio-und-cashew-kernen/
 type: Artikel
 typeName: Rezept
 title: Voll&shy;korn&shy;spa&shy;ghet&shy;ti mit Radicchio und Cashew-Kernen
 seoTitle: Vollkornspaghetti mit Radicchio und Cashew-Kernen
 ogTitle: Vollkornspaghetti mit Radicchio und Cashew-Kernen
-description: Vollkornspaghetti mit Radicchio und Cashew-Kernen gehören zu meinen Alltime-Favorites. Nachdem mein Bild neulich so gut ankam, poste ich heute mein Rezept.
-excerpt: Vollkornspaghetti mit Radicchio und Cashew-Kernen gehören zu meinen Alltime-Favorites. Nachdem mein Bild neulich so gut ankam, teile ich heute mein Rezept mit Euch.
-fileName: 2017-01---voll-korn-spa-ghet-ti-mit-radicchio-und-cashew-kernen.md
+description: Vollkornspaghetti mit Radicchio und Cashew-Kernen gehören zu meinen
+  Alltime-Favorites. Nachdem mein Bild neulich so gut ankam, poste ich heute
+  mein Rezept.
+excerpt: Vollkornspaghetti mit Radicchio und Cashew-Kernen gehören zu meinen
+  Alltime-Favorites. Nachdem mein Bild neulich so gut ankam, teile ich heute
+  mein Rezept mit Euch.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31663435394_114a796024_b__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31663435394_114a796024_b__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcBBQYC/8QAMBAAAQMCBAUCAwkAAAAAAAAAAQIDBAURAAYSIRMUIjFBB1EjYYEVFiRCU3GRkqH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQB/8QAIBEAAQQCAQUAAAAAAAAAAAAAAgABESEDBBITMTJBUf/aAAwDAQACEQMRAD8AR+Q8lVfNrz3JBqPT4pHNVCUSlhi/YXG6lnayE3Jv9cO+kem+VKBF4smCavIQApUira9P7piNEWBH6iyfljay4sPKWV44jRBFjRW/wcMqA4N9tSj+Z5d7qWe17DzdXxMwzxmh+BDkFx6tfBciqfAbQsaVdPglSUlNiCLHziQ8xF4q3Dr87JXv29RmaciTHgU2PEWtxB5ahRVIRoF7qshRAIBtc3OIk0aiVuKlyTl6hTG1pCg7HjGnv2I2IcZNv7IIwbGo0rKSobKaiWU1OS87FbktK0RnAkEoDSVAau59tu21gHTcxzGGURZK26kJKEPAcNQejrJ0gKcQNOk+CR32IwnrE1pxa4eleertcDctEAMl8aglSRbpJHffyL3GE1SprEiuBibFDMZEhCEHTbRtZJKu9yobn5nDC9RC7976qlJCQJSFFYVbSnhDcn2tf/cYyZESVh6khcZtTKi6lZ3dANrFJ/k7bbecYDtcp8QDQtFmaRJzBl+LAqAjs02HMC7hRWpDYISpTayQQrrH0J9sUE6ZEkV9dNjIYp4gkoLzUtSg8lJTYrFurbcC/fvjh6rVVuexFQhM/hMX4PDBKkLFraPNhpN9yNr4DqrJhZnlCPHe4SZPMR/h9DjNgUKTYaj1WBt2BPnAwXaJnv8AV//Z
@@ -23,15 +24,13 @@ labels:
   - Spätschicht in Hamburg
   - vegan
   - vegane Rezepte
-
   - Vollkornspaghetti
 focusKeyword: Vollkornspaghetti
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Post-Spätschicht-Lieblingsessen
+
 ---
 
 **Heute gibt es mal wieder veganes Essen für alle! Nachdem ich am Dienstag völlig ausgehungert von einer heiteren Spätschicht nach Hause kam, musste etwas Rustikales her.**

@@ -1,14 +1,19 @@
 ---
 date: 2023-12-22T14:00:00.766Z
-slug: a-burial-at-sea-close-to-home
 typeName: Review
-title: 'A Burial At Sea – "Close To Home"'
+title: A Burial At Sea – "Close To Home"
 subTitle: Das Post-Rock-Kollektiv ist zurück!
 seoTitle: A Burial At Sea – "Close To Home" – Post-Rock-Review
-description: 'A Burial At Sea haben ihr neues Album "Close To Home" fertig – ein Juwel für die Ohren! Hört hier direkt rein und holt Euch spannende Details zur Platte!'
-excerpt: Die Lead-Single könnt Ihr schon hören und im Februar gibt es dann das neue Album auf die Ohren – A Burial At Sea sind wieder da! Ich habe mir die LP schon angehört und komme aus dem Schwärmen gar nicht mehr heraus. Es führt also kein Weg daran vorbei – merkt Euch diese Platte auf jeden Fall vor. Ihr wollt sie ganz sicher nicht verpassen!
+description: A Burial At Sea haben ihr neues Album "Close To Home" fertig – ein
+  Juwel für die Ohren! Hört hier direkt rein und holt Euch spannende Details zur
+  Platte!
+excerpt: Die Lead-Single könnt Ihr schon hören und im Februar gibt es dann das
+  neue Album auf die Ohren – A Burial At Sea sind wieder da! Ich habe mir die LP
+  schon angehört und komme aus dem Schwärmen gar nicht mehr heraus. Es führt
+  also kein Weg daran vorbei – merkt Euch diese Platte auf jeden Fall vor. Ihr
+  wollt sie ganz sicher nicht verpassen!
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-22/a-burial-at-sea-jpg-imagine-e8e8e8_aaaaaa_1024_768/640.webp
-copyright: 'A Burial At Sea'
+copyright: A Burial At Sea
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-22/a-burial-at-sea-og-jpg-imagine-e8e8e8_87898a_1200_628/640.webp
 labels:
   - Band
@@ -26,6 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/12/a-burial-at-sea-close-to-home-en/
+
 ---
 
 **Die Lead-Single könnt Ihr schon hören und im Februar gibt es dann das neue Album auf die Ohren – A Burial At Sea sind wieder da! Ich habe mir die LP schon angehört und komme aus dem Schwärmen gar nicht mehr heraus. Es führt also kein Weg daran vorbei: Merkt Euch diese Platte auf jeden Fall vor. Ihr wollt sie ganz sicher nicht verpassen!**

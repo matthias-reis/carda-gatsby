@@ -1,14 +1,19 @@
 ---
 date: 2021-10-20T15:04:17.159Z
-slug: feuerwear-rolltop-tasche-ed
 typeName: Produkttest
 title: Ed macht sich auf den Weg
 subTitle: Meine neue Rolltop-Tasche von Feuerwear
 seoTitle: Die nachhaltige Rolltop-Tasche Ed von Feuerwear
-description: Feuerwear macht Taschen aus gebrauchten Feuerwehr-Schläuchen. Einige davon habe ich Euch hier im Blog ja schon vorgestellt. Heute möchte ich Euch die Rolltop-Tasche "Ed" vorstellen.
-excerpt: 'Feuerwear macht Taschen aus gebrauchten Feuerwehr-Schläuchen. Einige davon habe ich Euch hier im Blog ja schon vorgestellt. Jetzt gibt es ein neues Modell, das mir mal wieder besonders gut gefällt: "Ed" ist eine wunderbar praktische Rolltop-Tasche, die ich sowohl als Crossover-Bag als auch als Handtasche tragen kann.'
+description: Feuerwear macht Taschen aus gebrauchten Feuerwehr-Schläuchen.
+  Einige davon habe ich Euch hier im Blog ja schon vorgestellt. Heute möchte ich
+  Euch die Rolltop-Tasche "Ed" vorstellen.
+excerpt: 'Feuerwear macht Taschen aus gebrauchten Feuerwehr-Schläuchen. Einige
+  davon habe ich Euch hier im Blog ja schon vorgestellt. Jetzt gibt es ein neues
+  Modell, das mir mal wieder besonders gut gefällt: "Ed" ist eine wunderbar
+  praktische Rolltop-Tasche, die ich sowohl als Crossover-Bag als auch als
+  Handtasche tragen kann.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-20-feuerwear-4-1-jpg-imagine-080808_826b59_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/ed-feuerwear-fb-png-imagine-080808_84776b_1200_628/640.webp
 labels:
   - Feuerwear
@@ -29,6 +34,7 @@ focusKeyword: Feuerwear
 advertisement: true
 affiliate: false
 language: de
+
 ---
 
 **Feuerwear macht Taschen aus gebrauchten Feuerwehr-Schläuchen. Einige davon habe ich Euch hier im Blog ja schon vorgestellt. Jetzt gibt es ein neues Modell, das mir mal wieder besonders gut gefällt: "Ed" ist eine wunderbar praktische Rolltop-Tasche, die ich sowohl als Crossover-Bag als auch als Handtasche tragen kann.**

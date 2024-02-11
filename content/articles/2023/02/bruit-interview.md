@@ -1,12 +1,18 @@
 ---
 date: 2023-02-22T15:30:37.524Z
-slug: bruit-interview
 typeName: Interview
 title: Interview mit BRUIT ≤ Gitarrist Théophile Antolinos
 subTitle: '"Seinen Lebensstil zu hinterfragen, ist eine unbequeme Form der Kritik"'
 seoTitle: Interview mit BRUIT ≤ Gitarrist Théophile Antolinos
-description: Lest jetzt mein Interview mit BRUIT ≤ Gitarrist und erfahrt alles über den Protestsong, den die Band zu ihrem Spotify-Boykott geschrieben hat. Dazu gibt es News zu den Album-Gerüchten!
-excerpt: Wenn Ihr Euch schon mal mit französischer Post-Music beschäftigt habt, sind Euch BRUIT ≤ ein Begriff. Sie sorgen mit ihrem beeindruckenden, düsteren Sound für Aufsehen und stechen damit klar aus der europäischen Szene hervor. Ich hatte schon ein paar Mal das Privileg, sie live erleben zu dürfen und war jedes Mal beeindruckt. Jetzt hatte ich die Gelegenheit Gitarrist Théophile Antolinos für ein Interview zu treffen und habe sie natürlich genutzt.
+description: Lest jetzt mein Interview mit BRUIT ≤ Gitarrist und erfahrt alles
+  über den Protestsong, den die Band zu ihrem Spotify-Boykott geschrieben hat.
+  Dazu gibt es News zu den Album-Gerüchten!
+excerpt: Wenn Ihr Euch schon mal mit französischer Post-Music beschäftigt habt,
+  sind Euch BRUIT ≤ ein Begriff. Sie sorgen mit ihrem beeindruckenden, düsteren
+  Sound für Aufsehen und stechen damit klar aus der europäischen Szene hervor.
+  Ich hatte schon ein paar Mal das Privileg, sie live erleben zu dürfen und war
+  jedes Mal beeindruckt. Jetzt hatte ich die Gelegenheit Gitarrist Théophile
+  Antolinos für ein Interview zu treffen und habe sie natürlich genutzt.
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-1-jpg-imagine-080808_494949_1024_768/640.webp
 copyright: BRUIT ≤
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-22/bruit-og-jpg-imagine-080808_494949_1200_628/640.webp
@@ -23,6 +29,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/02/bruit-interview-en/
+
 ---
 
 **Wenn Ihr Euch schon mal mit französischer Post-Music beschäftigt habt, sind Euch BRUIT ≤ ein Begriff. Sie sorgen mit ihrem beeindruckenden, düsteren Sound für Aufsehen und stechen damit klar aus der europäischen Szene hervor. Ich hatte schon ein paar Mal das Privileg, sie live erleben zu dürfen und war jedes Mal beeindruckt. Jetzt hatte ich die Gelegenheit Gitarrist Théophile Antolinos für ein Interview zu treffen und habe sie natürlich genutzt.**

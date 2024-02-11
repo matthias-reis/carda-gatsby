@@ -1,14 +1,17 @@
 ---
 date: 2024-02-08T10:00:00.766Z
-slug: beth-gibbons-soloalbum-lives-outgrown
 typeName: Preview
 title: '"Lives Outgrown" – Beth Gibbons von Portishead kündigt Soloalbum an'
-subTitle: 'Single "Floating on a Moment" ist bereits verfügbar'
-seoTitle: 'Beth Gibbons Soloalbum "Lives Outgrown" ist da!'
-description: 'Beth Gibbons Soloalbum "Lives Outgrown" ist da! Erfahrt jetzt alles über die neue Platte der Portishead Musikerin!'
-excerpt: 'Beth Gibbons Soloalbum "Lives Outgrown" ist fertig und erscheint im Mai! Ja, Ihr habt richtig gelesen: Die Portishead Musikerin hat uns diesen langjährigen, tiefen Wunsch nun endlich erfüllt! Erfahrt hier alles über die Platte!'
+subTitle: Single "Floating on a Moment" ist bereits verfügbar
+seoTitle: Beth Gibbons Soloalbum "Lives Outgrown" ist da!
+description: Beth Gibbons Soloalbum "Lives Outgrown" ist da! Erfahrt jetzt alles
+  über die neue Platte der Portishead Musikerin!
+excerpt: 'Beth Gibbons Soloalbum "Lives Outgrown" ist fertig und erscheint im
+  Mai! Ja, Ihr habt richtig gelesen: Die Portishead Musikerin hat uns diesen
+  langjährigen, tiefen Wunsch nun endlich erfüllt! Erfahrt hier alles über die
+  Platte!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-08/beth-gibbons-copyright-netti-habel-soundsvegan-com-jpg-imagine-382818_706855_1024_768/640.webp
-copyright: 'Netti Habel'
+copyright: Netti Habel
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-08/beth-gibbons-copyright-netti-habel-soundsvegan-com-og-jpg-imagine-282828_635743_1200_628/640.webp
 labels:
   - Band
@@ -22,11 +25,12 @@ labels:
   - Portishead
   - Post-Rock
   - Experimental
-focusKeyword: 'Beth Gibbons Soloalbum'
+focusKeyword: Beth Gibbons Soloalbum
 advertisement: false
 affiliate: false
 language: de
 languageLink: /2024/02/beth-gibbons-solo-album-lives-outgrown-en/
+
 ---
 
 **Beth Gibbons von Portishead hat ihr erstes Soloalbum angekündigt! Der Wunsch, den so viele Fans schon so lange teilen, geht damit endlich in Erfüllung! Die erste Single mit dem Titel "Floating on a Moment" könnt Ihr jetzt schon hören, die ganze Platte gibt es dann am 17. Mai. Sie wird den Titel "Lives Outgrown" tragen und analog sowie digital verfügbar sein – die Vorbestellungen laufen bereits.**

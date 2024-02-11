@@ -1,12 +1,17 @@
 ---
 date: 2021-10-16T15:50:22.915Z
-slug: the-korean-vegan
 typeName: Buchtipp
 title: The Korean Vegan
 subTitle: Das vegane Kochbuch des Jahres 2021
 seoTitle: The Korean Vegan – Das vegane Kochbuch des Jahres 2021
-description: '"The Korean Vegan" heißt das wohl beste Kochbuch des Jahres 2021. Geschrieben hat es die Bloggerin Joanne Lee Molinaro. Im Fokus stehen bei ihr längst nicht nur gesundes Essen und tolle Rezepte.'
-excerpt: '"The Korean Vegan" heißt das wohl beste Kochbuch des Jahres 2021. Geschrieben hat es Joanne Lee Molinaro, die sich in den sozialen Netzwerken einen Namen als "The Korean Vegan" gemacht hat. Offenheit und Mitgefühl sind dem Internet-Star besonders wichtig. Im Fokus stehen bei ihr also längst nicht nur gesundes Essen und tolle Rezepte.'
+description: '"The Korean Vegan" heißt das wohl beste Kochbuch des Jahres 2021.
+  Geschrieben hat es die Bloggerin Joanne Lee Molinaro. Im Fokus stehen bei ihr
+  längst nicht nur gesundes Essen und tolle Rezepte.'
+excerpt: '"The Korean Vegan" heißt das wohl beste Kochbuch des Jahres 2021.
+  Geschrieben hat es Joanne Lee Molinaro, die sich in den sozialen Netzwerken
+  einen Namen als "The Korean Vegan" gemacht hat. Offenheit und Mitgefühl sind
+  dem Internet-Star besonders wichtig. Im Fokus stehen bei ihr also längst nicht
+  nur gesundes Essen und tolle Rezepte.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/the-korean-vegan-jpg-imagine-f8f8f8_bbafa5_1024_768/640.webp
 copyright: Joanne Lee Molinaro, Geoff Martin Photography
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/the-korean-vegan-fb-png-imagine-080808_746a62_1200_628/640.webp
@@ -25,6 +30,7 @@ focusKeyword: The Korean Vegan
 advertisement: false
 affiliate: true
 language: de
+
 ---
 
 **"The Korean Vegan" heißt eines der als beste Kochbücher des Jahres 2021 ausgezeichneten Werke. Geschrieben hat es Joanne Lee Molinaro, die sich in den sozialen Netzwerken einen Namen als "The Korean Vegan" gemacht hat. Offenheit und Mitgefühl sind Joanne besonders wichtig. Im Fokus stehen bei ihr also längst nicht nur gesundes Essen und tolle Rezepte.**

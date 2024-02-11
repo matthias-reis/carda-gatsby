@@ -4,15 +4,10 @@ excerpt: Herrenlose Pferde freuen sich über Heuspenden. Ein Heuballen kostet
   lediglich 4 Euro und kann ein Leben retten. Unterstützt jetzt Puss in Boots!
 ogImage: null
 isAffiliate: false
-path: /2017/11/herrenlose-pferde-heuspenden-puss-in-boots/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUH/8QALBAAAQMCBQMDAwUAAAAAAAAAAQIDBAURAAYHEiExQXETFCIIYYEWMkORsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAA//EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDMRMhQf/aAAwDAQACEQMRAD8A3qfT851Ge6aLCoblL+K2pUmQ4gqQQDtKU3O4cjoBhSRqTmB6emmwKI0qeX1RSwGFl1Lo5CShSgeRc3+2Oj6e1dDtMDTawC0n9nS4tfxjA1FVGTnnJeYUyExnROTGkPE/xHuojk7RuHg4uaTWyhijdNCZHy5nXUp9mqofhQkMqCUpWVI+SVWsEJ3dD1JsL8eNHOOWcz0hcr9R15uVGTHLjcaIAgLVzt9QbQbAi/Xm2GL6fZTcPJkksWJ94/uUo3JsohJ8AdvucLOoVbC4slTy1OSpLylKdPBsLAC3i/HYDGUssl1ezVY43oTtPNSYUFUSI+t1lZ2t7nRdHYckdAfHnFfVesCRT00u6FBuWHErQb2SSeT/AHbBgwmqYUyvkHNK6DSPY+slIeU8Ugq22sq3P+/nEMzVczokcsLSfUK3Cb/njBgwJJN2NPw//9k=
 isWerbung: false
-fileName: 2017-11---puss-in-boots-unterstuetzen.md
-slug: herrenlose-pferde-heuspenden-puss-in-boots
-errors: {}
 date: 2017-11-20T17:54:33.000Z
 focusKeyword: Herrenlose Pferde
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Heu-1-von-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Heu-1-von-1__m.jpg
 title: Puss in Boots unterstützen
@@ -36,6 +31,7 @@ labels:
   - Irish Farm of Hope - Animal Rescue
   - Irish Farm of Hope
 language: de
+
 ---
 
 **Es wird geschätzt, dass in Irland zwischen 20.000 und 30.000 herrenlose Pferde leben. Sie alle teilen ein trauriges Schicksal: Sie wurden ausgesetzt und sich selbst überlassen. _Puss In Boots_ kümmert sich um diese Tiere und Ihr habt die Möglichkeit, sie zu unterstützen.**

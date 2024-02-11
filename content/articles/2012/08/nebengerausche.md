@@ -1,13 +1,14 @@
 ---
 date: 2012-08-06T10:39:53.000Z
-slug: nebengerausche
-path: /2012/08/nebengerausche/
 title: Nebengeräusche
 seoTitle: Nebengeräusche - Menschen in der Bahn - Prosa auf dem Heimweg
 ogTitle: Nebengeräusche - Menschen in der Bahn - Prosa auf dem Heimweg
-description: Regentropfen an der Scheibe. Ein Falter hängt in einem Spinnennetz kopfunter an der Decke. Menschen reden. Lesen. Streiten. Nebengeräusche aus der Bahn.
-excerpt: Regentropfen an der Scheibe. Ein Falter hängt in einem Spinnennetz kopfunter an der Decke. Menschen reden. Lesen. Streiten. Nebengeräusche aus der Bahn.
-fileName: 2012-08---nebengeraeusche.md
+description: Regentropfen an der Scheibe. Ein Falter hängt in einem Spinnennetz
+  kopfunter an der Decke. Menschen reden. Lesen. Streiten. Nebengeräusche aus
+  der Bahn.
+excerpt: Regentropfen an der Scheibe. Ein Falter hängt in einem Spinnennetz
+  kopfunter an der Decke. Menschen reden. Lesen. Streiten. Nebengeräusche aus
+  der Bahn.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_img_8941__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_img_8941__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQIE/8QAKhAAAQMDAwMEAQUAAAAAAAAAAQIDBAAFEQYSIQcTMSJBUWEVMoGRscH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAZEQEBAAMBAAAAAAAAAAAAAAAAARExMkH/2gAMAwEAAhEDEQA/AFWFJcttvcW26GN47KnMgEBXkAn5HFF5SZWm4+8HDa5DoA4wVKT5/im7p7N/G3RuR3GGx6gXH4/fSnCFKztyOfTxg+aVr3cJc2E+7JUt8uIXlSkgLPpBB+Pr9qJzVels0T0905qjpxaXLhBAlLaUlbyDySFqGSDwfb2qM2WxMjVFutD6lsx3JzMNzsnaQkubDg+2Tx9Zq49JtQtwdCxW3igkPLSkKcCeMJUQM+f1VI9TF1i+PT47atyZapLOwZJ2P9xOPngVawWttQA7LGBgPuY+uazeEZtkofLav6ooo8TssWDa4yiOdo9+PHmpX1QuctvV4aYkPstNxU7UNOKQMlSsnA9z/lFFM0y//9k=
@@ -25,12 +26,11 @@ labels:
   - Nebengeräusche
   - U-Bahn
 focusKeyword: Nebengeräusche
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Prosa des Alltags
+
 ---
 
 **Regentropfen an der Scheibe. Ein Falter hängt in einem Spinnennetz kopfüber an der Decke. Er dreht sich. Jemand kaut so feste auf seinem Kugelschreiber, dass die Mine schon geplatzt ist.**

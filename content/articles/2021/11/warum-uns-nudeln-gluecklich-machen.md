@@ -1,15 +1,19 @@
 ---
 date: 2021-11-03T10:44:24.886Z
-slug: warum-uns-nudeln-gluecklich-machen
 typeName: Beitrag
 title: Warum uns Nudeln glücklich machen
 subTitle: Einmal Pasta-Himmel und zurück
 seoTitle: Warum uns Nudeln glücklich machen
-ogTitle: ''
-description: Woran liegt es eigentlich, dass Nudeln glücklich machen? Ich habe mal zusammengefasst, woran es liegt, dass man sich nach ein bis drei Tellern Spaghetti oder Fussili so viel besser fühlt, als vorher.
-excerpt: Woran liegt es eigentlich, dass Nudeln glücklich machen? Stimmt das wirklich? Ist es nur ein Gerücht? Aber eigentlich fühlt es sich doch wirklich so an, oder? Ich habe mal zusammengefasst, woran es liegt, dass man sich nach ein bis drei Tellern Spaghetti oder Fussili so viel besser fühlt, als vorher.
+ogTitle: ""
+description: Woran liegt es eigentlich, dass Nudeln glücklich machen? Ich habe
+  mal zusammengefasst, woran es liegt, dass man sich nach ein bis drei Tellern
+  Spaghetti oder Fussili so viel besser fühlt, als vorher.
+excerpt: Woran liegt es eigentlich, dass Nudeln glücklich machen? Stimmt das
+  wirklich? Ist es nur ein Gerücht? Aber eigentlich fühlt es sich doch wirklich
+  so an, oder? Ich habe mal zusammengefasst, woran es liegt, dass man sich nach
+  ein bis drei Tellern Spaghetti oder Fussili so viel besser fühlt, als vorher.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-18-nudeln-1-jpg-imagine-e8e8f8_e4d090_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/nudeln-uns-gluecklich-machen-fb-png-imagine-d8e8f8_e4cd79_1200_628/640.webp
 labels:
   - Nudeln
@@ -22,6 +26,7 @@ focusKeyword: Nudeln glücklich machen
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Woran liegt es eigentlich, dass Nudeln glücklich machen? Stimmt das wirklich? Ist es nur ein Gerücht? Aber eigentlich fühlt es sich doch wirklich so an, oder? Ich habe mal zusammengefasst, woran es liegt, dass man sich nach ein bis drei Tellern Spaghetti oder Fussili so viel besser fühlt, als vorher.**

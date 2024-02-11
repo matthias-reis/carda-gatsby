@@ -1,15 +1,16 @@
 ---
-date: 2021-04-07T13:59:21.000+00:00
-slug: erdnussbutterschnitten-vegan-glutenfrei
-path: '/2021/04/erdnussbutterschnitten-vegan-glutenfrei/'
+date: 2021-04-07T13:59:21.000Z
 type: Artikel
 typeName: Rezept
 title: Vegane Erd&shy;nuss&shy;but&shy;ter&shy;schnit&shy;ten
 seoTitle: Vegane Erdnussbutterschnitten – Glutenfreies Rezept
 ogTitle: Vegane Erdnussbutterschnitten – Glutenfreies Rezept
-description: Erdnussbutterschnitten könnt Ihr ganz leicht mit ein paar Zutaten herstellen. Sie sind vegan, glutenfrei und Ihr braucht nicht mal einen Ofen.
-excerpt: Habt Ihr gerade ein frisches Glas Erdnussbutter im Haus? Dann habe ich ein tolles Rezept für Euch. Erdnussbutterschnitten könnt Ihr ganz leicht mit ein paar Zutaten herstellen. Sie sind vegan, glutenfrei und Ihr braucht nicht mal einen Ofen.
-fileName: 2021-04---vegane-erd-nuss-but-ter-schnit-ten.md
+description: Erdnussbutterschnitten könnt Ihr ganz leicht mit ein paar Zutaten
+  herstellen. Sie sind vegan, glutenfrei und Ihr braucht nicht mal einen Ofen.
+excerpt: Habt Ihr gerade ein frisches Glas Erdnussbutter im Haus? Dann habe ich
+  ein tolles Rezept für Euch. Erdnussbutterschnitten könnt Ihr ganz leicht mit
+  ein paar Zutaten herstellen. Sie sind vegan, glutenfrei und Ihr braucht nicht
+  mal einen Ofen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_erdnussbutterschnitten-direkt-vom-feld__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_erdnussbutterschnitten-direkt-vom-feld__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcGCAEEBf/EACwQAAEDAwMCBAYDAAAAAAAAAAECAwQABREGITEHEhNBQmEUFRYiIzIzUrH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwIF/8QAHhEAAgEFAQEBAAAAAAAAAAAAAQIAAwQRITHBQZH/2gAMAwEAAhEDEQA/ALIdiUkbClL1WddVdsaefQzd28iQp9tSm0o9Kk4OO4EAe1N1Y8s0vuqGn7JcYRnXVuQt5pxxppppaktvrVggOdozjbnIzxR7lSUirNgtTf2Q6ZrjUzAhfDSHZkkpEdpRaCI0vtSfEdUdx6cncEcYBNT3T2rrdfbzGMdampKoymno6yMpUkpUkj+yfuWAr2pWW7VzVi0yufaXXItkJUHWkNZQ4Sez+MjZRJG+36ms9NbO74Xzv6jFxeiKYQ9EVELSQhxYSVFWd+BwfLeo0HYt398iLqkgUnHOY9lhHDnIVitOfDanxpcWQkLaeJIB9wMH/aKKaQDoznBipyIkonR27SmlxLpOtTEE/kFrYz2KUCClRKcFJGOQDzvmu3pLp9M03Gv866y0NMrivdjTTxUhKQklJVsASMA8ck0UVhKSpsSr13cYYz//2Q==
@@ -23,16 +24,13 @@ labels:
   - vegan backen
   - vegane Kuchen
   - vegane Rezepte
-
 focusKeyword: Erdnussbutter
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image that could not be found
 subTitle: Glutenfrei und lecker
 affiliate: true
+
 ---
 
 **Erdnussbutter ist für mich eine ganz besondere Delikatesse. Ich esse wirklich selten Süßes, weil ich vermutlich einfach nicht so einen "Sweet Tooth" habe. Wenn wir allerdings ein frisches Glas Erdnussbutter im Haus haben, kann ich nicht widerstehen.**

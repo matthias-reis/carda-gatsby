@@ -1,6 +1,5 @@
 ---
 date: 2021-06-05T13:03:42.000Z
-slug: zero-waste-kosmetik-von-hazeva
 typeName: Produkttest
 title: Zero Waste Kosmetik von Hazeva
 subTitle: Natürlich und ohne Plastik
@@ -31,6 +30,7 @@ focusKeyword: Zero Waste Kosmetik
 affiliate: true
 language: de
 languageLink: ""
+
 ---
 
 **Hazeva ist noch relativ neu auf dem Markt. Das Start-up bietet Zero Waste Kosmetik an. Ich habe einige der Produkte getestet und möchte sie Euch heute gerne vorstellen. Neben einem Körperöl und einem festen Conditioner habe ich auch die Zahnpflegeprodukte ausprobiert.**

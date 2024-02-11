@@ -1,14 +1,20 @@
 ---
 date: 2024-01-26T10:30:00.766Z
-slug: mike-vennart-interview
 typeName: Interview
-title: 'Mike Vennart im Interview'
-subTitle: '"Forgiveness & The Grain" könnte die emotionalste Platte sein, die ich je gemacht habe"'
-seoTitle: 'Interview – Mike Vennart – "Forgiveness & The Grain"'
-description: 'Interview – Mike Vennart neuen Album "Forgiveness & The Grain" zurück. Lest jetzt mein Interview und erfahrt alles über die Platte!'
-excerpt: '"Interview Mike Vennart" – ja, Ihr habt richtig gelesen! Ich hatte die Gelegenheit, mich mit dem musikalischen Mastermind Mike Vennart (Vennart, Oceansize, Biffy Clyro) über sein kommendes (2. Februar) neues Album "Forgiveness & The Grain" zu unterhalten. Wir haben auch über die aktuelle Weltlage gesprochen – und wie man sich selbst motiviert, wenn man in einen kreativen Prozess startet.'
+title: Mike Vennart im Interview
+subTitle: '"Forgiveness & The Grain" könnte die emotionalste Platte sein, die
+  ich je gemacht habe"'
+seoTitle: Interview – Mike Vennart – "Forgiveness & The Grain"
+description: Interview – Mike Vennart neuen Album "Forgiveness & The Grain"
+  zurück. Lest jetzt mein Interview und erfahrt alles über die Platte!
+excerpt: '"Interview Mike Vennart" – ja, Ihr habt richtig gelesen! Ich hatte die
+  Gelegenheit, mich mit dem musikalischen Mastermind Mike Vennart (Vennart,
+  Oceansize, Biffy Clyro) über sein kommendes (2. Februar) neues Album
+  "Forgiveness & The Grain" zu unterhalten. Wir haben auch über die aktuelle
+  Weltlage gesprochen – und wie man sich selbst motiviert, wenn man in einen
+  kreativen Prozess startet.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-7-jpg-imagine-585858_898989_1024_768/640.webp
-copyright: 'Mike Vennart'
+copyright: Mike Vennart
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-26/mike-vennart-interview-soundsvegan-com-og-jpg-imagine-282828_656565_1200_628/640.webp
 labels:
   - Band
@@ -28,6 +34,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2024/01/mike-vennart-interview-en/
+
 ---
 
 **"Mike Vennart Interview" - ja, ihr habt richtig gelesen! Ich habe heute etwas wirklich Tolles für Euch: Das musikalische Mastermind Mike Vennart (Vennart, Oceansize, Biffy Clyro) hat sich Zeit für ein Interview genommen. Ich habe ihm Fragen über sein neues, am 2. Februar erscheinendes Album "Forgiveness & The Grain" gestellt. Außerdem haben wir uns über die Tatsache unterhalten, dass die Welt im Moment immer grausamer zu werden scheint – und darüber, wie man sich selbst motiviert, wenn man in einen kreativen Prozess startet. Ich wünsche Euch viel Freude beim Lesen!**

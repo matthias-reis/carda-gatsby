@@ -1,15 +1,14 @@
 ---
 date: 2012-10-04T09:49:40.000Z
-slug: deftones-neuer-song
-path: /2012/10/deftones-neuer-song/
 type: Artikel
 typeName: Review
 title: Deftones stellen neuen Song "Tempest" vor
 seoTitle: Deftones stellen neuen Song "Tempest" vom Album "Koi No Yokan" vor
 ogTitle: Deftones stellen neuen Song "Tempest" vom Album "Koi No Yokan" vor
-description: Wie bereits angekündigt, wird am 9. November die neue Platte der Deftones erscheinen. Hier ist eine weitere Songauskopplung.
-excerpt: Wie bereits angekündigt, wird am 9. November die neue Platte  der DEFTONES "Koi No Yokan" auf den Markt kommen.
-fileName: 2012-10---deftones-stellen-neuen-song-tempest-vor.md
+description: Wie bereits angekündigt, wird am 9. November die neue Platte der
+  Deftones erscheinen. Hier ist eine weitere Songauskopplung.
+excerpt: Wie bereits angekündigt, wird am 9. November die neue Platte  der
+  DEFTONES "Koi No Yokan" auf den Markt kommen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_koi-no-yokan__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_koi-no-yokan__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAtEAABAwMBBAkFAAAAAAAAAAABAgMEAAURMQYSQWETFSEiQ1FxkbEUMjRCkv/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAfEQACAgICAwEAAAAAAAAAAAABAgARAxIhQSIxgfD/2gAMAwEAAhEDEQA/AO3WaEw5bWFFpJJSOFHC3xuLKfasdncm0xQNSkCkSdprJ9UhpuchG+t3od5Dud5oZcB5JGM1IANbMrCO96gmUnV0c+Cn2oC9wozdrkrDSchBOnKg2bza0vocXNYCAEOJCXHASFZwcH1HKmm0nZZZeD4Z+KQMjXqQYCrKfIVBrZNiW+xxnZ0lmO3uDvOrCc+nnTgBtxCVpDa0KBKVAAhQVqQeOePnXKL8qctyFLttri3cNx0tNIfk4baJzvlTWRvcOOPaq7Y1KbTbV9YzIypkhfSuIZG421kfYlIOBjlTK/U3yYFXGHDcnr96+yoDDJ8FrQAdwaDQaaCgdo+2yy+PcPxWvW0ED8lv+qWbQ3aCbPKSJLeSg/tyotVcSYXP/9k=
@@ -35,12 +34,11 @@ labels:
   - roller derby
   - Tempest
 focusKeyword: Deftones
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Album "Koi No Yokan" am 9. November
+
 ---
 
 **Wie bereits [angekündigt](/2012/09/deftones-stellen-zwei-neue-songs-vor-album-im-november/), wird am 9. November die neue Platte  der DEFTONES "Koi No Yokan" auf den Markt kommen. Die Herren lassen sich nicht lumpen und koppeln mit 'Tempest' bereits die dritte Single aus.**

@@ -1,14 +1,19 @@
 ---
 date: 2022-02-24T14:25:14.182Z
-slug: playlist-maerz-2022
 typeName: Beitrag
 title: Playlist März 2022
 subTitle: Von Cult of Luna bis Madrugada
 seoTitle: Playlist März – von Cult of Luna bis Madrugada
-description: Von Cult of Luna bis Madrugada habe ich diesen Monat wieder 12 ganz besondere Songs aus Post-Rock, Prog, Ambient und Metal für Euch. Mit dabei sind ein paar gute "alte Bekannte", die neue Alben aufgenommen haben.
-excerpt: Er ist da! Habt Ihr ihn gesehen? Der Frühling steht direkt vor der Tür und klopft an! Um dieses grandiose Ereignis zu feiern und natürlich, weil wieder ein Monat zu Ende geht, habe ich heute wieder 12 besondere Songs für Euch. Zusammengestellt habe ich sie, wie alle vier Wochen, gemeinsam mit meinen beiden Lieblings-Musiknerds.
+description: Von Cult of Luna bis Madrugada habe ich diesen Monat wieder 12 ganz
+  besondere Songs aus Post-Rock, Prog, Ambient und Metal für Euch. Mit dabei
+  sind ein paar gute "alte Bekannte", die neue Alben aufgenommen haben.
+excerpt: Er ist da! Habt Ihr ihn gesehen? Der Frühling steht direkt vor der Tür
+  und klopft an! Um dieses grandiose Ereignis zu feiern und natürlich, weil
+  wieder ein Monat zu Ende geht, habe ich heute wieder 12 besondere Songs für
+  Euch. Zusammengestellt habe ich sie, wie alle vier Wochen, gemeinsam mit
+  meinen beiden Lieblings-Musiknerds.
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-24/12-songs-maerz-jpg-imagine-080808_655d58_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-24/12-songs-maerz-fb-png-imagine-080808_5b534c_1200_628/640.webp
 labels:
   - Cult of Luna
@@ -42,6 +47,7 @@ focusKeyword: Playlist
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Er ist da! Habt Ihr ihn gesehen? Der Frühling steht direkt vor der Tür und klopft an! Um dieses grandiose Ereignis zu feiern und natürlich, weil wieder ein Monat zu Ende geht, habe ich heute wieder 12 besondere Songs für Euch. Zusammengestellt habe ich sie, wie alle vier Wochen, gemeinsam mit meinen beiden Lieblings-Musiknerds.**

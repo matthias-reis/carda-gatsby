@@ -11,7 +11,6 @@ labels:
   - Interviews
   - English & German
 language: de
-slug: smycka-interview
 typeName: Interview
 title: Smyčka im Interview
 subTitle: '"Vieles im Leben ist von Natur aus kafkaesk"'
@@ -29,6 +28,7 @@ focusKeyword: Smyčka
 advertisement: false
 affiliate: false
 languageLink: /2021/05/smycka-interview-en
+
 ---
 
 **Smyčka hatten Lust auf ein Interview. Weil mich die Geschichte der Band ziemlich fasziniert und ich das Debütalbum "Fated" ziemlich klasse finde, habe ich mich sehr darüber gefreut.**

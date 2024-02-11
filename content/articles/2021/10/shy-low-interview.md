@@ -1,12 +1,17 @@
 ---
 date: 2021-10-29T15:09:10.840Z
-slug: shy-low-interview
 typeName: Interview
 title: Shy, Low im Interview
 subTitle: '"Die Gefahr hinter dem Licht"'
 seoTitle: Shy, Low – Interview mit der Pelagic Band – Post-Rock
-description: Vor Kurzem haben Shy, Low Ihr neues Album "Snake Behind The Sun" auf Pelagic veröffentlicht. Jetzt habe ich mich mit der Post-Rock-Band aus Richmond, Virginia zum Interview verabredet.
-excerpt: Dass Shy, Low ihr neues Album "Snake Behind The Sun" veröffentlicht haben, wisst Ihr schon. Mein Feature dazu vor ein paar Tagen kam ganz schön gut an. Jetzt hatte ich die Gelegenheit, mich mit der Band, die in einem Atemzug mit Giganten wie Cult Of Luna und Russian Circles genannt wird, zu unterhalten.
+description: Vor Kurzem haben Shy, Low Ihr neues Album "Snake Behind The Sun"
+  auf Pelagic veröffentlicht. Jetzt habe ich mich mit der Post-Rock-Band aus
+  Richmond, Virginia zum Interview verabredet.
+excerpt: Dass Shy, Low ihr neues Album "Snake Behind The Sun" veröffentlicht
+  haben, wisst Ihr schon. Mein Feature dazu vor ein paar Tagen kam ganz schön
+  gut an. Jetzt hatte ich die Gelegenheit, mich mit der Band, die in einem
+  Atemzug mit Giganten wie Cult Of Luna und Russian Circles genannt wird, zu
+  unterhalten.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-interview-jpg-imagine-181818_000000_1024_768/640.webp
 copyright: Shy, Low
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/shy-low-interview-fb-png-imagine-181818_232324_1200_628/640.webp
@@ -31,6 +36,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/10/shy-low-interview-en/
+
 ---
 
 **Dass Shy, Low ihr neues Album "Snake Behind The Sun" veröffentlicht haben, wisst Ihr schon. Mein Feature dazu vor ein paar Tagen kam ganz schön gut an. Jetzt hatte ich die Gelegenheit, mich mit der Band, die in einem Atemzug mit Giganten wie Cult Of Luna und Russian Circles genannt wird, zu unterhalten.**

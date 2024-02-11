@@ -1,17 +1,16 @@
 ---
-date: 2018-12-31T14:49:58.000+00:00
-slug: matzes-songs-2018
-path: '/2018/12/matzes-songs-2018/'
+date: 2018-12-31T14:49:58.000Z
 title: Matzes Songs 2018
 seoTitle: Matzes Songs 2018 - präsentiert von den drei von der Bande
 ogTitle: Matzes Songs 2018 - präsentiert von den drei von der Bande
-description: Musikalisch hatte es 2018 definitiv in sich. Insgesamt hat Matze 30 Songs zusammengestellt. Seine Songs 2018 könnt Ihr hier direkt anhören.
-excerpt: Musikalisch hatte es 2018 definitiv in sich. Insgesamt hat Matze 30 Songs zusammengestellt. Seine Songs 2018 könnt Ihr hier direkt anhören.
-fileName: 2018-12---matzes-songs-2018.md
+description: Musikalisch hatte es 2018 definitiv in sich. Insgesamt hat Matze 30
+  Songs zusammengestellt. Seine Songs 2018 könnt Ihr hier direkt anhören.
+excerpt: Musikalisch hatte es 2018 definitiv in sich. Insgesamt hat Matze 30
+  Songs zusammengestellt. Seine Songs 2018 könnt Ihr hier direkt anhören.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_matze__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_matze__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcD/8QAKxAAAgIBAwMCBAcAAAAAAAAAAQIDEQQABSEGEjEiQRMUUYEHFkJhkcHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAgX/xAAhEQABAwMEAwAAAAAAAAAAAAABAAIDBBExEhRBgSEiI//aAAwDAQACEQMRAD8Aynas3aoNjjaePFE7FVDmRJKFE2w8jkVVHzrn0RibNvPX7Ye8Pjrt2WwiE9LScX6S3pBIFWfHsL1YOwdMrj4UM2PkRZrondC2abkDXRTihdeD45/bSauGi5WSIxMI17mIWQFiKPkkV9L+9aoYs2KOJC0ew8Ap56vx9l6L6220ydPZSbQkT96Thqy+f0sa44W2Bv1aburOvcrora9i/Lz7fhbfvO0rkNj4Uff8OUsVanYl/uT7HWM4GbLtmXDNMuJmLFGzJDmJ8zEndXPYfTfH+6d8j8SJ912N9s3vG2iT5cpFhwpskHwUU3Z7hTJQoDt886ajq30zQzNu0I0bak68X6SO+6yvlwTso74EKDnyOa/izqEeX6SGjDgsWUOb7WINn6Xo0aC0C6msuyqmJJLl5BR3UAIF4QAUoocChde/nz9dWpYxDOl0zG+arwQP70aNLSn6AcLWp427Yv5uv//Z
-ogImage:
+ogImage: null
 labels:
   - Bands
   - Jack White
@@ -29,12 +28,11 @@ labels:
   - Playlist
   - serie:Playlists 2018
 focusKeyword: songs 2018
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Präsentiert von den drei von der Bande
+
 ---
 
 **Da war ganz schön was los musikalisch die letzten 365 Tage, oder? Einige großartige Bands haben uns mit neuen Werken überrascht. Da reicht eine [Liste mit 10 Songs](/2018/12/meine-10-songs-2018/) einfach nicht aus. Hier kommt Teil 4 meines musikalischen Jahresrückblicks.**

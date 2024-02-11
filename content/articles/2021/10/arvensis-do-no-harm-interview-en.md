@@ -2,12 +2,14 @@
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/arvensis-do-no-harm-fb-jpg-imagine-080808_71706a_1200_628/640.webp
 TW: Mental health, anxiety, self-harm
 date: 2021-10-15T11:41:47.719Z
-slug: arvensis-do-no-harm-interview-en
 typeName: Interview
 title: '"Do No Harm" – New Album By Arvensis'
 subTitle: Interview with Founder Dani Laubscher
 seoTitle: '"Do No Harm" – New Album By Arvensis (Interview)'
-description: 'Just some days ago, Arvensis founder Dani contacted me to share some big news: Their new album "Do No Harm" is out and available on Bandcamp now! I took the chance to ask them a few questions about it and follow up on the interview I did with them in November 2020.'
+description: 'Just some days ago, Arvensis founder Dani contacted me to share
+  some big news: Their new album "Do No Harm" is out and available on Bandcamp
+  now! I took the chance to ask them a few questions about it and follow up on
+  the interview I did with them in November 2020.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/arvensis-do-no-harm-3-jpg-imagine-080808_696767_1024_768/640.webp
 copyright: Arvensis
 labels:
@@ -30,6 +32,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/10/arvensis-do-no-harm-interview/
+
 ---
 
 **Just some days ago, Arvensis founder Dani contacted me to share some big news: Their new album "Do No Harm" is out and available on Bandcamp now! I took the chance to ask them a few questions about it and follow up on the interview I did with them in November 2020.**

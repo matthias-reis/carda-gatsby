@@ -1,13 +1,14 @@
 ---
 date: 2020-11-16T15:31:04.000Z
-slug: veganer-us-senator-cory-booker
-path: /2020/11/veganer-us-senator-cory-booker/
 title: Cory Booker erzielt Stimmen-Rekord
 seoTitle: Veganer US-Senator Cory Booker erzielt Stimmen-Rekord
 ogTitle: Veganer US-Senator Cory Booker erzielt Stimmen-Rekord
-description: Bei seiner Kandidatur für seine dritte Amtszeit als US-Senator hat der vegan lebende Cory Booker in New Jersey über 2,3 Millionen Stimmen erhalten.
-excerpt: Bei seiner Kandidatur für seine dritte Amtszeit als US-Senator hat der vegan lebende Cory Booker in New Jersey über 2,3 Millionen Stimmen erhalten und damit einen neuen Rekord aufgestellt.
-fileName: 2020-11---cory-booker-erzielt-stimmen-rekord.md
+description: Bei seiner Kandidatur für seine dritte Amtszeit als US-Senator hat
+  der vegan lebende Cory Booker in New Jersey über 2,3 Millionen Stimmen
+  erhalten.
+excerpt: Bei seiner Kandidatur für seine dritte Amtszeit als US-Senator hat der
+  vegan lebende Cory Booker in New Jersey über 2,3 Millionen Stimmen erhalten
+  und damit einen neuen Rekord aufgestellt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_cory-booker__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_cory-booker__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAAoEAACAgEDAwMEAwAAAAAAAAABAgMEBQARIQYHEiIjMRNBUWEygZH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAeEQACAwACAwEAAAAAAAAAAAABAgADERIxMkFRYf/aAAwDAQACEQMRAD8A5fUDVa7W4vEL0XkszdwtTK2o7TxOLzhIEiVFPjvywZvJiCoJ9P21HNyPudUPs1evQZi7CZ50w0tSwbgjVXPphdgUVjsX4+fwTpLGaxeKdxKmVG1+ol63xVPFdQTRYuVZcdMi2KxV/LaNxuFJPPHI55221nthuNVzuNiKFTNw4eVIrFfDV1gacJ9OaWR/dfzZSQdmlKjYkenj51MMtWrr79LzSLy8TG7bkfsfkaTkQo2GSNitVLkKPk6qvZa7Vq5uKCd0COk9ZmfYcywOFH9t4jRo1mg5YpH2ZcapH5M91rlrE1y9K0gJszGTgc/yO+kl+MCvME3MZUMpJ3/f+nnRo1N5GXqf/9k=
@@ -28,12 +29,11 @@ labels:
   - vegane Stars
   - Washington D.C.
 focusKeyword: Cory Booker
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Veganer Senator räumt bei US-Wahlen ab
+
 ---
 
 **Bei seiner Kandidatur für seine dritte Amtszeit als US-Senator hat der vegan lebende Cory Booker in New Jersey jetzt über 2,3 Millionen Stimmen erhalten.**

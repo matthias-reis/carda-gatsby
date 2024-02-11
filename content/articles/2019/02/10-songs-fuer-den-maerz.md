@@ -1,13 +1,15 @@
 ---
 date: 2019-02-25T17:04:17.000Z
-slug: 10-songs-fuer-den-maerz
-path: /2019/02/10-songs-fuer-den-maerz/
 title: 10 Songs für den März 2019
 seoTitle: 10 Songs für den März - präsentiert von den drei von der Bande
 ogTitle: 10 Songs für den März - präsentiert von den drei von der Bande
-description: Die drei von der Bande präsentieren Euch heute 10 Songs für den März 2019. Auf die Ohren gibt es jede Menge Postrock, Postpunk, Post-Hardcore und Prog.
-excerpt: Die drei von der Bande präsentieren Euch heute 10 Songs für den März 2019. Bei der Auswahl haben wir uns nicht auf nagelneue Stücke beschränkt, sondern auch Songs aus der Vergangenheit mit ausgesucht, die wir ganz besonders gerne hören.
-fileName: 2019-02---10-songs-fuer-den-maerz-2019.md
+description: Die drei von der Bande präsentieren Euch heute 10 Songs für den
+  März 2019. Auf die Ohren gibt es jede Menge Postrock, Postpunk, Post-Hardcore
+  und Prog.
+excerpt: Die drei von der Bande präsentieren Euch heute 10 Songs für den März
+  2019. Bei der Auswahl haben wir uns nicht auf nagelneue Stücke beschränkt,
+  sondern auch Songs aus der Vergangenheit mit ausgesucht, die wir ganz
+  besonders gerne hören.
 ogImage: null
 labels:
   - serie:Playlists 2019
@@ -62,13 +64,12 @@ labels:
   - Wander
   - White Lies
 focusKeyword: 10 Songs
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Präsentiert von den drei von der Bande
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-songs-fur-den-maerz-png-imagine-484848_565455_1024_768/640.webp
+
 ---
 
 **Die drei von der Bande präsentieren Euch heute 10 Songs für den März 2019. Bei der Auswahl haben wir uns nicht auf nagelneue Stücke beschränkt, sondern auch Stücke aus der Vergangenheit ausgesucht, die wir ganz besonders gerne hören.**

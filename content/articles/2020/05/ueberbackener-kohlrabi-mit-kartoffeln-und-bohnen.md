@@ -1,15 +1,16 @@
 ---
-date: 2020-05-12T07:26:36.000+00:00
-slug: ueberbackener-kohlrabi-mit-kartoffeln-und-bohnen
-path: '/2020/05/ueberbackener-kohlrabi-mit-kartoffeln-und-bohnen/'
+date: 2020-05-12T07:26:36.000Z
 type: Artikel
 typeName: Rezept
 title: Überbackener Kohlrabi
 seoTitle: Überbackener Kohlrabi mit Kartoffeln und Bohnen - vegan
 ogTitle: Überbackener Kohlrabi mit Kartoffeln und Bohnen - vegan
-description: Kohlrabi ist für mich ein Gemüse, das vollkommen unterschätzt wird. Lange Zeit verband mich damit eine Art Hassliebe. Heute ist nur noch die Liebe übrig.
-excerpt: Kohlrabi ist für mich ein Gemüse, das vollkommen unterschätzt wird. Lange Zeit verband mich damit eine Art Hassliebe. Heute ist nur noch die Liebe übrig.
-fileName: 2020-05---ueberbackener-kohlrabi.md
+description: Kohlrabi ist für mich ein Gemüse, das vollkommen unterschätzt wird.
+  Lange Zeit verband mich damit eine Art Hassliebe. Heute ist nur noch die Liebe
+  übrig.
+excerpt: Kohlrabi ist für mich ein Gemüse, das vollkommen unterschätzt wird.
+  Lange Zeit verband mich damit eine Art Hassliebe. Heute ist nur noch die Liebe
+  übrig.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-07-balkon-09__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_%EF%BF%BC2020-05-07-balkon-09__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBgECAwf/xAAlEAACAQMEAgIDAQAAAAAAAAABAgMEBREAEiFBBhMxYTJRcZH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQMG/8QAIxEAAgEDBAEFAAAAAAAAAAAAAQIAAwQREiExQfATIlFhwf/aAAwDAQACEQMRAD8AX3JLvZVqLdQ2u4kTE+qcM4RYjyVUA4J/edM/HvH6uK0VCG11kPswy0rvgytn53AnAHJ+M8abWesirblTQ09wvTVT0gSZJqg8cAHdk5C/kWzxxjjWL3cJoa+CnkW4SWpB63lpwEepk28CMDnGRycfA1zt5WYMRTHe/ncu2SnSB3jMhX+2TW230lNJBXuwI3yKC8IAJIjRcEdnJP8AmqlPViatpglIkdSingOCyoSOsDAHWvRZPL6OjEpikCyLkNFLMZZhIONrN+IAz/eNLq7ymnrKVnktMjExJJNuEe7l9uQDyw5/px1olK5ei2opv88fk3ei7pgjbz7kHy6mtcsS19SriOdRFUPExXJ639EH7xz3zrSguttoKdquFbdJIg9W6LdFOqfatkEdk570aNV7w6DkDmAsGYrjPE7qtnmtFTUV8DrNImyiigdNir2wMbEk98gfH81QLjd5ZK5p6eA020tHTM6+0LEFIUnOTkksSR+wPvRo0Ggi1B7hHeq5JJOZ/9k=
@@ -21,16 +22,13 @@ labels:
   - Kohlrabi
   - Rezept
   - vegane Rezepte
-
 focusKeyword: Kohlrabi
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image that could not be found
 subTitle: Rezept für vier Portionen
 affiliate: true
+
 ---
 
 **Kohlrabi ist für mich ein Gemüse, das vollkommen unterschätzt wird. Lange Zeit verband mich damit eine Art Hassliebe. Heute ist nur noch die Liebe übrig.**

@@ -1,13 +1,12 @@
 ---
-date: 2020-03-20T17:29:37.000+00:00
-slug: sonnenpflege-von-santaverde
-path: '/2020/03/sonnenpflege-von-santaverde/'
+date: 2020-03-20T17:29:37.000Z
 title: Sonnenpflege von Santaverde
 seoTitle: Sonnenpflege von Santaverde - Sehnsucht nach dem Sommer
 ogTitle: Sonnenpflege von Santaverde - Sehnsucht nach dem Sommer
-description: Von Santaverde gibt es jetzt auch Sonnenpflege. Ich habe sie schon mal getestet. Unter etwas anderen Umständen, als zuerst geplant.
-excerpt: Von Santaverde gibt es jetzt auch Sonnenpflege. Ich habe sie schon mal getestet. Unter etwas anderen Umständen, als zuerst geplant.
-fileName: 2020-03---sonnenpflege-von-santaverde.md
+description: Von Santaverde gibt es jetzt auch Sonnenpflege. Ich habe sie schon
+  mal getestet. Unter etwas anderen Umständen, als zuerst geplant.
+excerpt: Von Santaverde gibt es jetzt auch Sonnenpflege. Ich habe sie schon mal
+  getestet. Unter etwas anderen Umständen, als zuerst geplant.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-20-santaverde-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-20-santaverde-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAqEAACAgEDAwIFBQAAAAAAAAABAgMEEQAFIQYSMRNBBxQiQlEjYXGBkf/EABcBAAMBAAAAAAAAAAAAAAAAAAAEBQL/xAAmEQABAgUDAwUAAAAAAAAAAAABAgMABBEhMQUTQaHR8BJRkbHh/9oADAMBAAIRAxEAPwBe2vcptw3tbNlY68gT1CUUIW7DlCQPuAJ85yNadurPf3fbXknMsl2dWacr9UpcEuMnkjAJz7D+dKe19RJDus8fLNAo9GZ0+lQw5Rs8Y4xn840+9ArVfqeSzHPGalasZlVW7+x5FC4z7YHcMamSiVvTKUqwadKn6hWdmthlS8W/B1jrdRbFtUVY7gu4S0BWYyJCCzoGxjKjPBOANSu6qtII3inSYO4hMgL8KuSRjAxjJ86cetrse52vk3sNBRT9SecHtKoCPH7nwBpPnWZKlq3ZpMK6I1alG8gkbJkIV3PtjnnxzpzWVNNuhCRcZ4ufO8I6Gt51jccJIOL8Dv8AFoTOn9whvxihZ7xHM4Rwpy2PtI48g4/rVj+G8ar0Xb3GG/VO63ZnezXAU+kijtQPz3JwD7Hzo0aJdRZfJR7RQmJdt9HocFQfOInNXe7FnrGZ/VHyq5dgjKyhcYViGIHDY/3WjduoENtUqx+u5A7zPJ2FcnOCvgEfj8DRo1PmBvPFxeaVjTbaWkhtGAI//9k=
@@ -23,12 +22,11 @@ labels:
   - vegane Sonnenpflege
   - veganer Sonnenschutz
 focusKeyword: Santaverde
-status: publish
 advertisement: true
 affiliate: true
 language: de
-errors: {}
 subTitle: Sehnsucht nach dem Sommer
+
 ---
 
 **Sehnt Ihr Euch auch so nach der Sonne? Dann geht es Euch wie mir. Nach sieben Tagen in der Wohnung scheint die Natur ziemlich weit entfernt zu sein.**

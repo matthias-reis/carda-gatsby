@@ -1,23 +1,20 @@
 ---
 ogTitle: Liebster Blog Award - die Nominierungen stehen fest
-excerpt: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert. Ich kann es kaum glauben! Was für eine Ehre!
+excerpt: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert. Ich
+  kann es kaum glauben! Was für eine Ehre!
 ogImage: null
 isAffiliate: false
-path: /2014/11/liebster-blog-award/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDBAURAAYSITETIkEHFkJRY3GxsvD/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQP/xAAgEQACAgAGAwAAAAAAAAAAAAABAgADBBESITGxMkHw/9oADAMBAAIRAxEAPwBU+m20LLFE9/3klJTJXTFYKeokMVNjGewxBYnsgN114/LaI7Zs6Jlheh24jhUKLJTQgOGUMvAlfd7cH251yLbcZqSxWuvkqrdTyeskVRUVKyiJldWAWMkhiS3AZHkZ+NXbHu66XUUUEEtonkmaKFZYYquRGdiQzMwHGMHi+M57xnryO1nsJP3URsvElT7V2jeEma22TbVQsfHmyUiADIyO+P8AsaWdx7As0Ks8dosMWPgQ4/gadaY3+73eojpmlpKKZpPTastMqegi4GPUYY5ZViD2CGHnvFisohbre8d13DanZfEjrHG2Mfiy3Z8nOs9bqeZNpldgr79X2qSs+4a6DgRxjhjiUDsAd8M/OtFtO3a+50ETV25rzMT5zUyDORn4YaNGnYgBPEe4axzqylyb6bWtEMtVPUVR/Vdm/sTpT3Zt2x2iJDHbUkdlJ5MQMY/YaNGh132FwCY3C0pYwDdmf//Z
 isWerbung: false
-fileName: 2014-11---liebster-blog-award.md
-slug: liebster-blog-award
-errors: {}
 date: 2014-11-19T11:58:34.000Z
 focusKeyword: Liebster Blog Award
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__m.jpg
 title: Liebster Blog Award
 subTitle: And the nominees are...
 seoTitle: Liebster Blog Award - die Nominierungen stehen fest
-description: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert. Ich kann es kaum glauben! Was für eine Ehre!
+description: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert.
+  Ich kann es kaum glauben! Was für eine Ehre!
 labels:
   - Blog-Award
   - Blogawards
@@ -30,6 +27,7 @@ labels:
   - Links
   - Nominierung
 language: de
+
 ---
 
 **Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert. Ich kann es kaum glauben! Was für eine Ehre! Danke schön!**

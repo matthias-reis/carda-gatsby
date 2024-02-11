@@ -1,13 +1,14 @@
 ---
 date: 2016-01-26T09:19:47.000Z
-slug: initiative-tierwohl
-path: /2016/01/initiative-tierwohl/
 title: Initiative Tierwohl
 seoTitle: Initiative Tierwohl - Tiere schützen und essen - geht das?
 ogTitle: Initiative Tierwohl - Tiere schützen und essen - geht das?
-description: Seit Kurzem gibt es eine neue Tierschutzinitiative. Die Tiere sollen trotzdem gegessen werden und an Haltung und Schlachtung ändert sich auch nicht viel.
-excerpt: Seit Kurzem gibt es eine neue Tierschutzinitiative. Die Tiere sollen trotzdem gegessen werden und an Haltung und Schlachtung ändert sich auch nicht viel.
-fileName: 2016-01---initiative-tierwohl.md
+description: Seit Kurzem gibt es eine neue Tierschutzinitiative. Die Tiere
+  sollen trotzdem gegessen werden und an Haltung und Schlachtung ändert sich
+  auch nicht viel.
+excerpt: Seit Kurzem gibt es eine neue Tierschutzinitiative. Die Tiere sollen
+  trotzdem gegessen werden und an Haltung und Schlachtung ändert sich auch nicht
+  viel.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Initiative-Tierwohl-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Initiative-Tierwohl-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwIDBf/EACwQAAIBAwIDBwQDAAAAAAAAAAECAwAEEQUSBiExBxMiUWFxoRQyM0FCscH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8At2PSokAzbwYP8sAjHvUhLKOGSJO5UvJlVJAPQZ61xeItXtn0C5nKxpbwqQ+eSkHAz80lvfatDw8beTVGVO+ElmjxomEXB25UAnPix0oLP+hllD/mg5spUAITg4zy88cvStM+mXEkYQXOzDZOEGSvl6e9LnZvxPLqdtNBrN0BqMb9zjeCkxUAloz1Y4ZSQPinZbhJVJjcn0Kkf2KCqrC4sOILK64fFxJBIdrEOmHdcg5Tn5qB/lTuLo7bR7C9M7QXd1BBJLY2WwM0rctm1Orc2Siigy7KbG0k0pNalZ571pZ1jkc+FFLD7U6K2BtLDBIGKepZwqkuSxH7IoooP//Z
@@ -22,12 +23,11 @@ labels:
   - Tierschutz
   - Tierwohl
 focusKeyword: Initiative Tierwohl
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Tiere schützen und essen - geht das?
+
 ---
 
 **Seit Kurzem macht eine Organisation von sich reden, die es sich laut eigener Aussage zum Ziel gesetzt hat, Tiere zu schützen. Mit einigen Ausnahmen: Die Tiere sollen trotzdem gegessen werden und an ihrer Haltung und Schlachtung ändert sich auch nicht viel.**

@@ -1,15 +1,14 @@
 ---
 date: 2015-07-27T12:32:04.000Z
-slug: gazpacho-fuer-heisse-sommertage
-path: /2015/07/gazpacho-fuer-heisse-sommertage/
 type: Artikel
 typeName: Rezept
 title: Gazpacho für heiße Sommertage
 seoTitle: Vegane Gazpacho für heiße Sommertage - Vorspeise oder Hauptgericht
 ogTitle: Vegane Gazpacho für heiße Sommertage - Vorspeise oder Hauptgericht
-description: Aus dem Spanien-Urlaub kennt Ihr bestimmt die köstliche kalte Gemüsesuppe mit dem klangvollen Namen Gazpacho. Das Rezept dafür ist vegan.
-excerpt: Aus dem Spanien-Urlaub kennt Ihr bestimmt die köstliche kalte Gemüsesuppe mit dem klangvollen Namen Gazpacho. Das Rezept dafür ist vegan.
-fileName: 2015-07---gazpacho-fuer-heisse-sommertage.md
+description: Aus dem Spanien-Urlaub kennt Ihr bestimmt die köstliche kalte
+  Gemüsesuppe mit dem klangvollen Namen Gazpacho. Das Rezept dafür ist vegan.
+excerpt: Aus dem Spanien-Urlaub kennt Ihr bestimmt die köstliche kalte
+  Gemüsesuppe mit dem klangvollen Namen Gazpacho. Das Rezept dafür ist vegan.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_image11__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_image11__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAfACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAL/xAAsEAABAwIFAwMDBQAAAAAAAAABAgMEBREABhIhMRNBYQcicRQykUJRgaHh/8QAFwEAAwEAAAAAAAAAAAAAAAAABAUGA//EACcRAAICAQEFCQAAAAAAAAAAAAECAxEABAUSEyKRITFBUWFxgbHh/9oADAMBAAIRAxEAPwAZVckUBUhpmlOLgSxGQ6+pxLi2jclIuf0XUBYnYk4XZuWHqNmiHHmpb0rguyEOpPtUnqJSf5BSQf8AcVOiTqfX1JlRAHI0ot3eLQAISnZCuDpub77XthziNUqqzKMy8ww+hAkv2UQrplopKlbdypab9ieRic088hl4bZQTIqRhx6ZIHMgPpiR59SlIprBQSlkshx1d7WJBICdvk+MK1fjtwAVNGSphP3O9FDgHnSFJt+cUrM1Yj5odiLWpEN9LrgU88oltTalexO3BvYcb374T4MWpPzZaXY6Ux2HFNyHLHpte5SRvbfZJ477ckDGg1ZJ5Ry4yXZkaxk6hir/FfvW84yBWPoclRJCJIYTZCQnVcINz7Bfjax82xlyBminUT17alPrQxTqwyqJJIICG3HgBq/YArQgk7fcT2wgU2SyrLz0STd1pelCmlCwulRKSPi5/PzjBUKcKq8+YxS26ylpttBFkqTo48YL08IjlZye+8S6iQyxKgHaK+svtTogpFXmQKspttUQhxtt1orEkJWCkDtuByeLHA3MlVjuTHWqTHEKm6krEdB0pWpKbdQptYG3YbG17X3ws5T9Uq0zCjUDOVBazHGYGhh5b6W5TSRtbqbhQ45sfOD9TzJl9mP1afluWJPPTlyxpQfkav6GBG0TI1KRu45TakM1Szo2+PAVV+fv1q8//2Q==
@@ -23,14 +22,12 @@ labels:
   - vegan essen
   - vegane Gazpacho
   - vegane Rezepte
-
 focusKeyword: Gazpacho
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ice Ice Suppe!
+
 ---
 
 Diesen Beitrag hat meine liebe Caro zum Blog beigetragen

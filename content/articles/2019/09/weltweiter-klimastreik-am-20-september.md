@@ -1,15 +1,16 @@
 ---
 date: 2019-09-19T16:30:15.000Z
-slug: weltweiter-klimastreik-am-20-september
-path: /2019/09/weltweiter-klimastreik-am-20-september/
 type: Artikel
 typeName: Reminder
 title: Weltweiter Klimastreik am 20. September
 seoTitle: Weltweiter Klimastreik am 20.09. - mit Fridaysforfuture auf die Straße
 ogTitle: Weltweiter Klimastreik am 20.09. - mit Fridaysforfuture auf die Straße
-description: 'Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich Klima-Aktivist*innen, um mit den Jugendlichen von Fridaysforfuture zu streiken. Kommt mit!'
-excerpt: 'Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich Klima-Aktivist*innen, um mit den Jugendlichen von Fridaysforfuture zu streiken. Kommt mit!'
-fileName: 2019-09---weltweiter-klimastreik-am-20-september.md
+description: "Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich
+  Klima-Aktivist*innen, um mit den Jugendlichen von Fridaysforfuture zu
+  streiken. Kommt mit!"
+excerpt: "Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich
+  Klima-Aktivist*innen, um mit den Jugendlichen von Fridaysforfuture zu
+  streiken. Kommt mit!"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_Klimastreik_Webbanner_1024x512__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_Klimastreik_Webbanner_1024x512__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURAAYSITEHQVETFSIyFnGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQBAwX/xAAjEQABAwIGAwEAAAAAAAAAAAABAAIDERIEBSExQXEiUbHS/9oADAMBAAIRAxEAPwDoyt3XaaNnWWeRnQuGVIXJBXOfb5UgfJ8ar/5zRPUCGCgubnmU+o1PwjGCASWJ8d/77azar37ZJXnenhujiWUzRhEgiI5MWIy0hJzy+Bj2HenHbaW/cG25L3VG5W6AGTnE86jiqMTnKgdAeO/GgvqmIZsI91jdT2fyPqb6W+Qy7ea7zxS08SQvPJE2GdFTOelJBPXsdKlz9VLVRUU1R9vuTrFnlySOPsdkfk+c9+MaQ9x1tJT7VgqLxdhC1bBLJRWyNnkCq/acuLZPR5MX6yVA6BGq7atb9z3Wai1UtHSqIxJJRuiyI4H4rkyfqzE9lcE4GAcHQ3k7JmXKpntMkbgG67g06B5798rc4bLNTOxpa36KFywRKdAAM549Ade2p13oPudrnopJOCzoY3YLnIIwcDRo1ZQLOZ4GrVlo9E6eW2OldfJp7qOKxVq0yoFQAABo+R5HA85B8fGmDZHplbtt2+409VJFdHriPqSzU4B4AdJ+x6z30R3/AFo0alOPzDESNsc/Rf/Z
@@ -26,12 +27,11 @@ labels:
   - Klimastreik
   - weltweiter Klimastreik
 focusKeyword: Klimastreik
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Mit Fridaysforfuture auf die Straße
+
 ---
 
 **Morgen um 12 Uhr geht es los: Überall auf der Welt treffen sich Klima-Aktivist\*innen, um mit den Jugendlichen von Fridaysforfuture zu streiken.**

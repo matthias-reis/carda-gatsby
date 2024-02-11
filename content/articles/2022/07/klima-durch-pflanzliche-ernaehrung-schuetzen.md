@@ -1,14 +1,18 @@
 ---
 date: 2022-07-07T08:56:49.960Z
-slug: klima-durch-pflanzliche-ernaehrung-schuetzen
 typeName: Beitrag
 title: Das Klima durch pflanzliche Ernährung schützen
 subTitle: Albert Schweitzer Stiftung klärt auf
-seoTitle: 'Albert Schweitzer Stiftung: Das Klima durch pflanzliche Ernährung schützen'
-description: Die Albert Schweitzer Stiftung veröffentlichte jetzt ein vierminütiges Video zum Thema "Das Klima durch pflanzliche Ernährung schützen". Es bietet einen Überblick über alle wichtigen Punkte.
-excerpt: Die Albert Schweitzer Stiftung veröffentlichte jetzt ein vierminütiges Video, in dem Präsident Mahi Klosterhalfen erklärt, woran es liegt, dass Tierprodukte so eine schlechte Klimabilanz haben und welchen Einfluss jede*r Einzelne von uns auf das Klima nehmen kann – vor allem durch die Ernährung.
+seoTitle: "Albert Schweitzer Stiftung: Das Klima durch pflanzliche Ernährung schützen"
+description: Die Albert Schweitzer Stiftung veröffentlichte jetzt ein
+  vierminütiges Video zum Thema "Das Klima durch pflanzliche Ernährung
+  schützen". Es bietet einen Überblick über alle wichtigen Punkte.
+excerpt: Die Albert Schweitzer Stiftung veröffentlichte jetzt ein vierminütiges
+  Video, in dem Präsident Mahi Klosterhalfen erklärt, woran es liegt, dass
+  Tierprodukte so eine schlechte Klimabilanz haben und welchen Einfluss jede*r
+  Einzelne von uns auf das Klima nehmen kann – vor allem durch die Ernährung.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-07/klima-durch-pflanzliche-ernaehrung-schuetzen-jpeg-imagine-c8d8d8_948d70_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-07/klima-durch-pflanzliche-ernaehrung-schuetzen-fb-jpeg-imagine-d8e8e8_938d74_1200_628/640.webp
 labels:
   - Klima durch pflanzliche Ernährung schützen
@@ -27,6 +31,7 @@ focusKeyword: Klima durch pflanzliche Ernährung schützen
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die Albert Schweitzer Stiftung veröffentlichte jetzt ein vierminütiges Video, in dem Präsident Mahi Klosterhalfen erklärt, woran es liegt, dass Tierprodukte so eine schlechte Klimabilanz haben und welchen Einfluss jede\*r Einzelne von uns auf das Klima nehmen kann – vor allem durch die Ernährung.**

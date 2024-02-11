@@ -1,12 +1,16 @@
 ---
 date: 2021-11-19T15:48:54.793Z
-slug: closet-disco-queen-maudits-saar
 typeName: Review
 title: Closet Disco Queen, Maudits & SaaR
 subTitle: Drei Platten fürs Wochenende
 seoTitle: Closet Disco Queen, Maudits & SaaR – Musik fürs Wochenende
-description: Für ein entspanntes Wochenende habe ich drei besondere Platten ausgesucht. Sie kommen von Closet Disco Queen, Maudits und SaaR. Alle drei Bands haben vor Kurzem neue Tonträger veröffentlicht.
-excerpt: Für ein entspanntes Wochenende habe ich heute drei schnelle Musiktipps für Euch, die mir von Klonosphere Records zugespielt wurden. Sie kommen von Closet Disco Queen, Maudits und SaaR. Alle drei Bands haben vor Kurzem neue Tonträger veröffentlicht.
+description: Für ein entspanntes Wochenende habe ich drei besondere Platten
+  ausgesucht. Sie kommen von Closet Disco Queen, Maudits und SaaR. Alle drei
+  Bands haben vor Kurzem neue Tonträger veröffentlicht.
+excerpt: Für ein entspanntes Wochenende habe ich heute drei schnelle Musiktipps
+  für Euch, die mir von Klonosphere Records zugespielt wurden. Sie kommen von
+  Closet Disco Queen, Maudits und SaaR. Alle drei Bands haben vor Kurzem neue
+  Tonträger veröffentlicht.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/musik-wochenende-jpg-imagine-080808_625b52_1024_768/640.webp
 copyright: Closet Disco Queen, SaaR, Maudits
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/musik-wochenende-fb-1-png-imagine-080808_5c5750_1200_628/640.webp
@@ -30,6 +34,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/11/closet-disco-queen-maudits-saar-en/
+
 ---
 
 **Für ein entspanntes Wochenende habe ich heute drei schnelle Musiktipps für Euch, die mir von Klonosphere Records zugespielt wurden. Sie kommen von Closet Disco Queen, Maudits und SaaR. Alle drei Bands haben vor Kurzem neue Tonträger veröffentlicht.**

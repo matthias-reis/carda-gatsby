@@ -1,13 +1,14 @@
 ---
 date: 2015-05-14T16:24:09.000Z
-slug: palmoel
-path: /2015/05/palmoel/
 title: Warum wir auf Palmöl verzichten sollten
 seoTitle: Warum wir auf Palmöl besser verzichten sollten - Regenwaldabholzung
 ogTitle: Warum wir auf Palmöl besser verzichten sollten - Regenwaldabholzung
-description: Durch den Anbau von Palmöl wird nicht nur Regenwald abgeholzt, um Platz für Monoplantagen zu schaffen - Tiere werden aus ihren Lebensräumen vertrieben.
-excerpt: Durch den Anbau von Palmöl wird nicht nur Regenwald abgeholzt, um Platz für Monoplantagen zu schaffen - Tiere werden für immer aus ihren Lebensräumen vertrieben.
-fileName: 2015-05---warum-wir-auf-palmoel-verzichten-sollten.md
+description: Durch den Anbau von Palmöl wird nicht nur Regenwald abgeholzt, um
+  Platz für Monoplantagen zu schaffen - Tiere werden aus ihren Lebensräumen
+  vertrieben.
+excerpt: Durch den Anbau von Palmöl wird nicht nur Regenwald abgeholzt, um Platz
+  für Monoplantagen zu schaffen - Tiere werden für immer aus ihren Lebensräumen
+  vertrieben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_palmoel-sarangib__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_palmoel-sarangib__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcI/8QAJhAAAQQCAQQBBQEAAAAAAAAAAQIDBBEFIQAGEjFBYQcTFlGBMv/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAHxEBAAEEAgMBAAAAAAAAAAAAAQACAxEhBAUSMaHw/9oADAMBAAIRAxEAPwCw/O4LU5xlTaXWnEKXFcbOlVrtVewb9caMHmcdlPtNtOoEhxRSGge4ivFkaF8wDrg45iSZeHefahWVx2Xk2pK1DaVEfOh8AcsOlMjN6WwzcpuO8vJh5LhStdoKABSS3Wj53dj+8Onsrg5qTH71IXi041OjhA+OVXVijjOnpstNpKEf6Aur145nvS31SnDJKXKbfnQXl96kKT2qbu9AnX61+h64xdffUJsYkxMEw6ZEloKD6yEhsGrBFG7Fjz52OUPZ266E9P2LOLUMyDGhE+MWF4+RIcdRaHFqUlIAFiiU7OvPGCPj8/JipmJgAhxVBlTlOti73fm7Irhw5zV98HU0jZGLCYeOw87InsdidKr7ncLI91o+x65HPP49tSgMQ0+tAtKy3pFjyNgfzhw4m2+SrDxpn//Z
@@ -23,12 +24,11 @@ labels:
   - Palmöl-Plantagen
   - Regenwald
 focusKeyword: Palmöl
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Von Regenwaldabholzung bis Cholesterin
+
 ---
 
 **Neulich war ich mit einer Freundin in der nächsten Filiale einer bekannten Drogeriemarktkette einkaufen. Sie sah, dass ich einige der dort auch zum Verkauf angebotenen, veganen Lebensmittel nach dem Durchlesen der Zutatenlisten wieder zurück ins Regal stellte, weil die Produkte Palmöl enthielten.**

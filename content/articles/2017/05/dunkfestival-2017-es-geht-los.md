@@ -1,13 +1,13 @@
 ---
-date: 2017-05-23T14:15:52.000+00:00
-slug: dunkfestival-2017-es-geht-los
-path: '/2017/05/dunkfestival-2017-es-geht-los/'
+date: 2017-05-23T14:15:52.000Z
 title: Dunk!festival 2017
 seoTitle: Dunk!festival 2017 wir kommen! Der Rucksack ist gepackt!
 ogTitle: Dunk!festival 2017 wir kommen! Der Rucksack ist gepackt!
-description: Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit uns zum Dunk!festival 2017 aufzubrechen! Drei Tage Post-Rock pur stehen uns bevor!
-excerpt: Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit uns zum Dunk!festival 2017 aufzubrechen! Drei Tage Post-Rock pur stehen uns bevor!
-fileName: 2017-05---dunk-festival-2017.md
+description: Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit
+  uns zum Dunk!festival 2017 aufzubrechen! Drei Tage Post-Rock pur stehen uns
+  bevor!
+excerpt: Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit uns
+  zum Dunk!festival 2017 aufzubrechen! Drei Tage Post-Rock pur stehen uns bevor!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18527455_10154235663846887_557979204286632137_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18527455_10154235663846887_557979204286632137_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAnEAACAQMDAwQDAQAAAAAAAAABAgMABBEFEjETISIGQVFhI0KBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EAB0RAAICAgMBAAAAAAAAAAAAAAABAgMEIRIiQZH/2gAMAwEAAhEDEQA/AKNqcljpfp+OPURHKjQFOm6ASzknBPbjsec1A9Xgfdt3O0aeKBmJ2r7AVYdbGXu7m9t4pZJI+nGhJAQ4woXvSlrPp1ZdOkvdPmjkt4V/Kzv5KQuSWXGVycgDuD2wa28WUal29+EcpSb14S2VNrViVzXTvIdrmi3sLiS0e4EbLbb+j1SMKXIyFyffAz9VXOsWMtFo1q5N3cSPuzHGSi9+W4Y/zj/aT9SXczA0UUWMupBa3zFm9g8jWCz3MVnJaJMwtpG3NH+pPz9cDj4oorQaTWx63o//2Q==
@@ -71,14 +71,13 @@ labels:
   - Zottegem
   - serie:DUNK!festival
 focusKeyword: festival 2017
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Der Rucksack ist gepackt!
-year: '2017'
-month: '05'
+year: "2017"
+month: "05"
+
 ---
 
 **Die Spannung steigt! Bald brechen wir auf! Der Rucksack ist schon gepackt und wartet darauf, mit uns zum _Dunk!Festival_ 2017 zur reisen!**

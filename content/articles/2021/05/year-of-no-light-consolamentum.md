@@ -1,6 +1,5 @@
 ---
 date: 2021-05-18T06:07:00.000Z
-slug: year-of-no-light-consolamentum
 typeName: Review
 title: Year Of No Light – "Consolamentum"
 subTitle: Geschichten aus der Dunkelheit
@@ -29,6 +28,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/05/year-of-no-light-consolamentum-en/
+
 ---
 
 **Year Of No Light haben ihr neues Album fertig! "Consolamentum" wird diesen Sommer erscheinen. Ich hatte die Gelegenheit, es schon zu hören und muss sagen: Die Platte ist etwas Besonderes. Die Aufnahme in Eure Sammlung solltet Ihr unbedingt in Erwägung ziehen.**

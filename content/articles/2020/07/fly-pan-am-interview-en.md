@@ -1,6 +1,5 @@
 ---
 date: 2020-07-03T08:53:15.098Z
-slug: fly-pan-am-interview-en
 typeName: Interview
 title: Fly Pan Am
 subTitle: "\"We Want To Create Things That We Don't Understand\""
@@ -43,6 +42,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2020/07/fly-pan-am-interview
+
 ---
 
 **Today I have something to share with you that I'm very proud of. Fly Pan Am have agreed to an interview. They have revealed some things about their music and their relationship with the post-rock community.**

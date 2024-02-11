@@ -1,12 +1,14 @@
 ---
 date: 2021-08-06T14:21:03.268Z
-slug: nyos-nature
 typeName: Review
 title: Nyos sind jetzt Teil von Pelagic Records
 subTitle: Instrumental Post-Rock aus Finnland
 seoTitle: Nyos sind jetzt Teil von Pelagic Records – Instrumental Post-Rock Review
-description: 'Gerade kam eine schöne Nachricht von Pelagic Records rein: Das finnische Instrumental Duo Nyos hat jetzt beim Berliner Post-Music Label unterschrieben. Das neue (inzwischen fünfte) Nyos Album ist bereits für nächstes Frühjahr angekündigt.'
-excerpt: ''
+description: "Gerade kam eine schöne Nachricht von Pelagic Records rein: Das
+  finnische Instrumental Duo Nyos hat jetzt beim Berliner Post-Music Label
+  unterschrieben. Das neue (inzwischen fünfte) Nyos Album ist bereits für
+  nächstes Frühjahr angekündigt."
+excerpt: ""
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/nyos-jpg-imagine-c8c8c8_000000_1024_768/640.webp
 copyright: Nyos
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/nyos-png-imagine-c8c8c8_969696_1200_628/640.webp
@@ -30,6 +32,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/08/nyos-nature-en/
+
 ---
 
 **Gerade kam eine schöne Nachricht von Pelagic Records rein: Das finnische Instrumental Duo Nyos hat jetzt beim Berliner Post-Music Label unterschrieben. Das neue (inzwischen fünfte) Nyos Album ist bereits für nächstes Frühjahr angekündigt.**

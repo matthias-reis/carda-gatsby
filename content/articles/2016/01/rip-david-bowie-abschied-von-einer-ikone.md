@@ -1,13 +1,12 @@
 ---
 date: 2016-01-11T10:35:06.000Z
-slug: rip-david-bowie-abschied-von-einer-ikone
-path: /2016/01/rip-david-bowie-abschied-von-einer-ikone/
 title: Nachruf für David Bowie
 seoTitle: RIP David Bowie - Abschied von einer Ikone
 ogTitle: RIP David Bowie - Abschied von einer Ikone
-description: RIP David Bowie - Im Alter von nur 69 Jahren ist die unvergessene Ikone heute von uns gegangen. Seinen Kampf gegen den Krebs hat er verloren.
-excerpt: RIP David Bowie - Im Alter von nur 69 Jahren ist die unvergessene Ikone heute von uns gegangen. Seinen Kampf gegen den Krebs hat er verloren.
-fileName: 2016-01---nachruf-fuer-david-bowie.md
+description: RIP David Bowie - Im Alter von nur 69 Jahren ist die unvergessene
+  Ikone heute von uns gegangen. Seinen Kampf gegen den Krebs hat er verloren.
+excerpt: RIP David Bowie - Im Alter von nur 69 Jahren ist die unvergessene Ikone
+  heute von uns gegangen. Seinen Kampf gegen den Krebs hat er verloren.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_23683931393_361a6ec755_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_23683931393_361a6ec755_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUIBgf/xAAsEAACAQMDAgUCBwAAAAAAAAABAgMEBREABiESMQcIFCJRMnETFSNBQmGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUE/8QAIhEAAgEEAQQDAAAAAAAAAAAAAQIAAwQRIUEFEjHwIoHB/9oADAMBAAIRAxEAPwDnu0Z4abwI3ZNKJetrxTohjYKQ5hYKScdgTnjnjQEFDcLbte33qavqngqY5gtM9WyrKQp9hUHkZwSP5c5xo7ZsCVPl83h+Jn9O7QSqBycrEcaG25uO1R7YSwRQU/VUsrtJMxlYyHuUGPYewGMc99DVzxKNiqk/ID7998czceWOdLnTb1ElPTxOtuCkxJ0hx7yvHYY5HH7HU3qPaPtqmfLjLBBJvOkp6YRE0IlLhiSwwygEdgRk9vnU0J9I+2kTGNTLcKVqEN5nafCy+UNl8Htwy1t5qbVL+b07RNSQLPPIRGxKqjMowRnLE4H99tYwXDbc24jdXlvUIEwn6lhgcl85J6cgDPx20xvW1LNSWd6y0y13r+oBEeRWQZycY6c44+dIa2ydNk9a10omJJJiEYVvpByCBggnjGc5HbWVbmm+xKVt0+4qKxVchd8fuDKF8IqHbNtt13vtn3MayC5UkkBgrlippYWXLHqHXycn4xzwTqUkK9C9u2ndNQW9YkarillJALtHNg5+xXRPo9vnkPVAfBfn/NKKqroAye9J3Pc53P/Z
@@ -21,12 +20,11 @@ labels:
   - Musik
   - RIP David Bowie
 focusKeyword: RIP David Bowie
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Abschied von einer Ikone
+
 ---
 
 **Einer der Größten ist von uns gegangen. David Bowie hat uns im Alter von 69 Jahren verlassen. Seinen 18-monatigen Kampf gegen den Krebs hat er verloren.**

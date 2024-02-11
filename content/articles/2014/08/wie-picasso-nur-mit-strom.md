@@ -1,23 +1,21 @@
 ---
 ogTitle: Wie Picasso - nur mit Strom
-excerpt: Meine neueste Tattooerrungenschaft soll nicht nur meinen Oberarm, sondern auch meinen Blog zieren.
+excerpt: Meine neueste Tattooerrungenschaft soll nicht nur meinen Oberarm,
+  sondern auch meinen Blog zieren.
 ogImage: null
 isAffiliate: false
-path: /2014/08/wie-picasso-nur-mit-strom/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAtEAACAQMDAgQEBwAAAAAAAAABAgMEBREABiESMQcTMlEUIkGRI2GBgqGx0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDD4dwzztJWG5SP8O5i8gjD9uSzZxj24zjTBuDxOu207tb6Sljp5hPG0hjdixkII/CxnjqUNg49WB76yR0EVg37BBTqIrdeoWUIB8qTx8gD2BGfvpK8b6eGnuFpr4m8ySWJ1DKwOWicOhz+5hoFbfVXbKTcNbcLBHFbIZJw0MCyh2GeeuED0IfUAeQGA+mmLbJuu47ZULR+QaenkUxs+QFcjqYhccE9X3+vOp/cRTT0TyTHFQjlo3xy2Tkg+4/M9uNU/Y1slbYaSRV6QVUAkr1QTMkhwvPQMFWwoBKnkgHHYaDqeMN1eK1WGto2C1FPW/EIxB46Vz/YGpdvevkr6uirg/VFMXKgrgLkDIxk9uB/ujRoOJDRyVs4USdJZT8xGcfpqp7Yp4qmz0lstbMLjRyecJZRgVBbOUIHbA9P86NGg//Z
 isWerbung: false
-fileName: 2014-08---wie-picasso-nur-mit-strom.md
-slug: wie-picasso-nur-mit-strom
-errors: {}
 date: 2014-08-21T10:08:27.000Z
 focusKeyword: Picasso
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_tattoo-session-222-e1582811858196__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_tattoo-session-222-e1582811858196__m.jpg
 title: Wie Picasso - nur mit Strom
 subTitle: Teil II - Die Tattoo Session
 seoTitle: Wie Picasso - nur mit Strom
-description: Genau so habe ich mir immer Picasso bei der Arbeit vorgestellt - Voll konzentriert überträgt Mat Reeseman der Tätowierer das Gemälde vom Papier auf die Haut
+description: Genau so habe ich mir immer Picasso bei der Arbeit vorgestellt -
+  Voll konzentriert überträgt Mat Reeseman der Tätowierer das Gemälde vom Papier
+  auf die Haut
 labels:
   - Black Owl Tattoo
   - Brand Ink
@@ -34,7 +32,9 @@ labels:
   - Tätowierer Augsburg
   - Tattoo
 language: de
+
 ---
+
 **[Hier geht's zum ersten Teil des Artikels](/2014/05/taetowierung-und-webdesign/) **Vor Kurzem hatte ich hier von meinem Vorhaben erzählt, etwas mehr Farbe unter meine Haut zu lassen und gleichzeitig am Relaunch von [cardamonchai](/) zu arbeiten.**
 
 <RemoteImage

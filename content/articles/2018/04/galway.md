@@ -1,19 +1,20 @@
 ---
-date: 2018-04-27T07:16:55.000+00:00
-slug: galway
-path: '/2018/04/galway/'
+date: 2018-04-27T07:16:55.000Z
 type: Galerie
 typeName: Galerie
 title: Galway
 seoTitle: Galway - Kunst, Kultur und Livemusik - Sightseeing und Bummel
 ogTitle: Galway - Kunst, Kultur und Livemusik - Sightseeing und Bummel
-description: Galway - Stadt der Kultur und der Tradition. Besonders im Sommer, wenn hier das Arts Festival stattfindet, findet man überall Kunst und Veranstaltungen.
-excerpt: Galway - Stadt der Kultur und der Tradition. Besonders im Sommer, wenn hier das Arts Festival stattfindet, findet man überall Kunst und Veranstaltungen.
-fileName: 2018-04---galway.md
+description: Galway - Stadt der Kultur und der Tradition. Besonders im Sommer,
+  wenn hier das Arts Festival stattfindet, findet man überall Kunst und
+  Veranstaltungen.
+excerpt: Galway - Stadt der Kultur und der Tradition. Besonders im Sommer, wenn
+  hier das Arts Festival stattfindet, findet man überall Kunst und
+  Veranstaltungen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39536387704_b3fe010f51_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39536387704_b3fe010f51_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EAC4QAAICAQMDAQQLAAAAAAAAAAECAwQRAAUSITFBBhMiQlEHFBUjM1JhcYGh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EAB0RAAEEAgMAAAAAAAAAAAAAAAEAAgMRITEEEvD/2gAMAwEAAhEDEQA/AM/TY4jEiPBGQsESFRFyck+c9+3T+NXobdtbfR+tK6jtxiR5o4eIlx7Tp1IPkf1rLYtw3CvSspHJDwgEdWXnJIeQdM/m7DHn5+dWvbrcyVLZpfVUeDb4rRaTm3NmJBjU8uxbAB+RHnSjf0JNbSfE2SgTVG1ffVdOrd9OXomqyWCay+0gRhGzcuJA5YwDqe3dJtk3Dbt02aRGNiBFuUZZQEmAhj4MVPxAfGuPkcjGsutbbLd9P75fnmka0kgEdKOw6I6Yjz7zN45ft0PTXPdNxb09XpXoN0kvTwSR1vZTszBeUKuuDnsvIKR5xn9NOScuGljHxxHm/YTfbPRUcFJ5DuM7CTi5HBepAwMk5z/um8+KkzBC5b7uPPu9oyGXpjwRnRo1M02qXCtJM163Y2KztLW7H2dP+JB7hDYwe/HPcDURuleW+Ilu3J51j4lVbAXKjAJAAycADOjRplFf/9k=
-ogImage:
+ogImage: null
 labels:
   - Britische Inseln
   - Fernweh
@@ -28,14 +29,13 @@ labels:
   - vegan travelling
   - serie:Irland 2017
 focusKeyword: Galway
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Kunst, Kultur und Livemusik
-year: '2018'
-month: '04'
+year: "2018"
+month: "04"
+
 ---
 
 **Galway - Stadt der Kultur und der Tradition. Besonders im Sommer, wenn hier das Arts Festival stattfindet, findet man an jeder Ecke Kunst, Ausstellungen und Veranstaltungen.**

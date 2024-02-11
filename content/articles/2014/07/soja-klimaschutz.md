@@ -1,13 +1,13 @@
 ---
-date: 2014-07-30T07:11:57.000+00:00
-slug: soja-klimaschutz
-path: '/2014/07/soja-klimaschutz/'
+date: 2014-07-30T07:11:57.000Z
 title: Soja und Klimaschutz
 seoTitle: Soja und Klimaschutz
 ogTitle: Soja und Klimasschutz
-description: Soja und Klimaschutz. Wie geht das zusammen? Wenn wir so weitermachen, brauchen wir 2,66 Erden.
-excerpt: Soja und Klimaschutz. Wie geht das zusammen? Wenn wir so weitermachen, brauchen wir 2,66 Erden. So geht es demnach einfach nicht weiter! Vegane Ernährung ist ein wichtiger Baustein der Lösung.
-fileName: 2014-07---soja-klimaschutz-und-oekologischer-fussabdruck.md
+description: Soja und Klimaschutz. Wie geht das zusammen? Wenn wir so
+  weitermachen, brauchen wir 2,66 Erden.
+excerpt: Soja und Klimaschutz. Wie geht das zusammen? Wenn wir so weitermachen,
+  brauchen wir 2,66 Erden. So geht es demnach einfach nicht weiter! Vegane
+  Ernährung ist ein wichtiger Baustein der Lösung.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_07_biogemc3bcseanbau__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_07_biogemc3bcseanbau__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEEQAFIRIxQRMiUQYUcQcVMmGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACARAAICAgAHAAAAAAAAAAAAAAECABEDBAUSFEFRkcH/2gAMAwEAAhEDEQA/AOz7b+1WUVvvq0ecYSVwjHOPB57ka2bW2U6ak2JokA75yT/gGuMHa9hr7lWmN14IoiWlQN1j+lB8ZOPnjVfP9R7dYhjU75Kjys3pxCyEZmHIyoHfjzoX4gVYqT6iseoCtkSklXbWZVEnLnC+3Oc/jSdraIpELwlXXscePzqK3TffQgW7LutmgErySNFYsZfrODGxGAB2I6T5OsXdP1MrbTe2+zHbLWHm9KVHsepGw6AehguccEfJB05N5wfMB9TGwuSFf6g6FaetJA9ZZszFgemMgZVmGOBgfz7cHyNUtLfbh2E0a9GAlCWWQqkkRB9wIUEMec+R20aNZrO3T0VF2O9/KlDMYhfvVZZWl3im0n2yyF3kYsZCwGCqAnpHPc/Gk5ZqFRY026hDH6mZMisB0Enn3EZz30aNTZcjFea4kz//2Q==
@@ -49,14 +49,13 @@ labels:
   - Wasserknappheit
   - serie:10 Fakten über Veganismus
 focusKeyword: Soja und Klimaschutz
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: 10 Fakten über Veganismus - Teil I
-year: '2014'
-month: '07'
+year: "2014"
+month: "07"
+
 ---
 
 ## Veganer setzen sich aktiv für den Umweltschutz ein

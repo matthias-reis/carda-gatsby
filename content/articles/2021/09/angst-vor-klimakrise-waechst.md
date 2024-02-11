@@ -1,6 +1,5 @@
 ---
 date: 2021-09-06T11:50:21.379Z
-slug: angst-vor-klimakrise-waechst
 typeName: Beitrag
 title: Deutsche sorgen sich vor Klimakrise
 subTitle: Die Angst war noch nie so groß
@@ -25,6 +24,7 @@ focusKeyword: Klimakrise
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die Sorge der Deutschen ums Klima befindet sich auf einem Allzeithoch. Das geht aus der aktuellen Ipsos-Studie "What worries the World" hervor. Neben der Angst vor Armut und Corona ist die vor den Folgen des Klimawandels die größte. Die Flutkatastrophe hat das Problembewusstsein geschärft.**

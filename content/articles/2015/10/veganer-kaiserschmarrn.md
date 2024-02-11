@@ -1,15 +1,14 @@
 ---
 date: 2015-10-02T14:30:06.000Z
-slug: veganer-kaiserschmarrn
-path: /2015/10/veganer-kaiserschmarrn/
 type: Artikel
 typeName: Rezept
 title: Veganer Kaiserschmarrn
 seoTitle: Veganer Kaiserschmarrn - Rezept zum Nachmachen
 ogTitle: Veganer Kaiserschmarrn - Rezept zum Nachmachen
-description: Für's Wochenende habe ich wieder ein schönes Frühstücksrezept für Euch. Auf den Tisch kommt veganer Kaiserschmarrn mit Lupinenmehl
-excerpt: Für's Wochenende habe ich wieder ein schönes Frühstücksrezept für Euch. Auf den Tisch kommt veganer Kaiserschmarrn mit Lupinenmehl
-fileName: 2015-10---veganer-kaiserschmarrn.md
+description: Für's Wochenende habe ich wieder ein schönes Frühstücksrezept für
+  Euch. Auf den Tisch kommt veganer Kaiserschmarrn mit Lupinenmehl
+excerpt: Für's Wochenende habe ich wieder ein schönes Frühstücksrezept für Euch.
+  Auf den Tisch kommt veganer Kaiserschmarrn mit Lupinenmehl
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_21751328345_cf99510fbc_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_21751328345_cf99510fbc_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgIEBQP/xAAuEAACAgEDAgMHBAMAAAAAAAABAgMEEQAFIRIxBkFRBxMiIzJhcRQkQoFSYrH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBQEE/8QAJxEAAQMDAgUFAQAAAAAAAAAAAQIDEQAEMRJBEyEikeEUUWFxodH/2gAMAwEAAhEDEQA/ACm3Q7yl1R4dIlnI+OvID0Pj+XUOUI/y7evGldLwBuF6FZtysVNq62ZjWq/u+rPJBY9Kj8Anz0N9p1ezXrUvD21xSOVQ3L00bAK7fSob7Kc9IJwfQnV/2JC1t912uUWQWUX3VsXhG0EfOT05II/rORqU8n07BWoAqGxqy0Tcuy2SlJ/Y39vFIbfhIPIf0G6QRxQfLZlqAyR/ZSGIQn8E6xdz2WakkfvFzCThZFPUp/v1/POlHiPxXJSq7nYgpNKVyEassYJVezsSAxDcEqO3IzrP2/ezb26KXcq6Qz2B0yVwnwn/AFwDz5c9x9tG04LlEqGiMc5HbNa4h60WCOsKzyg/zvFS8S+5n3CKKY14kOTYMkio5AOVwCBnBBOidya1se9V1qPXnvvGBIZFMUcaZyDgHK4U89+40z2bda2/1w00cMm5JH8+F41LOBjMiA9we7Acg/bGitqO3LakNfbXLysoQSxkENg45b+PT5Hz10vt8Q8QGQfigsniyDbrEad5z9VdepBfavKLVhK0LljFCVBlI5HJySoIB5IGuslexZsoYearp1PIkn0y5BZDjlRyeV4OsdqabXfrRXHENuZCZZFfpQIeenn6gCvl5nSHY6S160tmcFOtiGlLZMijlQg9cf8ATnQtMBK4cwKe5uiprUyeo43nbzX/2Q==
@@ -23,16 +22,14 @@ labels:
   - Rezept Frühstück
   - vegan
   - vegane Rezepte
-
   - Veganer
   - veganer Kaiserschmarrn
 focusKeyword: Veganer Kaiserschmarrn
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Vollwertig, lecker und eiweißreich
+
 ---
 
 **Heute habe ich mal wieder ein leckeres Frühstücksrezept für's Wochenende für Euch vorbereitet. Auf den Tisch kommt ein echter Klassiker mal ein bisschen anders. Es gibt: Kaiserschmarrn.**

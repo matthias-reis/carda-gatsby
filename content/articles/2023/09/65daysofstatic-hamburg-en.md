@@ -1,6 +1,5 @@
 ---
 date: 2023-09-25T12:49:13.466Z
-slug: 65daysofstatic-hamburg-en
 typeName: Concert Review
 title: 65daysofstatic & Sugar Horse live in Hamburg
 subTitle: This year's Best Concert
@@ -37,7 +36,9 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/09/65daysofstatic-hamburg/
+
 ---
+
 **65daysofstatic and Sugar Horse live at Knust, Hamburg—We couldn't miss this event. So, we made sure we found a spot in the front row. And what should I say? We were absolutely not disappointed. We experienced a concert that got under our skin and witnessed a musical sensation: the tenth anniversary of the 65daysofstatic album "Wild Light".**
 
 When arriving at the venue, we first saved our "Wild Light" t-shirt with this fabulous artwork we'll never forget—then followed a drink in the comfortable seating area in the upstairs gallery, accompanied by an excellent panoramic view over the FC St. Pauli fan location. After that, it was finally time for the support act, Sugar Horse.

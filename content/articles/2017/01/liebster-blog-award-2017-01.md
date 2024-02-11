@@ -1,23 +1,22 @@
 ---
 ogTitle: Liebster Blog Award - Ich wurde interviewt - Hamburg und mein Blog
-excerpt: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir die Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg unterhalten.
+excerpt: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir die
+  Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg
+  unterhalten.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_01_facebook-1-von-1__l.jpg
 isAffiliate: false
-path: /2017/01/liebster-blog-award-2017-01/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAJxAAAgEDBAIBBAMAAAAAAAAAAQIDBAURAAYSITFBEyIjUXEygZH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAACA//EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDBCEx/9oADAMBAAIRAxEAPwDsOx6FYfnqaku7zyAxguFCADwgHgHPjOsbvfd9XJdam3bWo5BTwExSVCRNKZGBOePRAUEHB7J4507s7clNHFSK1THEVJKhh2+B1n9HP+aoaJbxajNA9Rb4YFkLo7VMaufqcgnkT19xvXvvS1TXInz2sAHkXtNddUqjPuC2zSUQw0tQ8PEwryCliBjKgkZGP7GoN6vSiOoWiaOelWdoVmXjhyO+hnOMHzjGmphNcI5KKK925HqmCPHFN8hcHyoCoBgnGe/Wot6U70tqip6sPFOZQFjdVJZVGC4JHJV9Yzgn9aFqgkPWtZ0XZU25jHJTkAHmOP1AHjkeR+D3rU21ILrJDS19LTyxiVuzGOX8fzo0aozdB8YiIoaa3yS08EUbOyqQq9EHvHeqHc0rzXGdZGYrG7RoCxPFQTgDPrRo1KfYagGE/9k=
 isWerbung: false
-fileName: 2017-01---liebster-blog-award.md
-slug: liebster-blog-award-2017-01
-errors: {}
 date: 2017-01-17T14:53:00.000Z
 focusKeyword: Award
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_liebster-award-clean__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_liebster-award-clean__m.jpg
 title: Liebster Blog Award
 subTitle: Hamburg und mein Blog
 seoTitle: Liebster Blog Award - Ich wurde interviewt - Hamburg und mein Blog
-description: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir die Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg unterhalten.
+description: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir
+  die Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg
+  unterhalten.
 labels:
   - Interview
   - Interviews
@@ -26,6 +25,7 @@ labels:
   - Postrock
   - vegan
 language: de
+
 ---
 
 **Schon zwei Mal wurde ich nominiert. [Einmal](/2014/11/and-the-nominees-are/) für den Liebster Blog Award und [einmal](/2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/) für den Best Blog Award. Beide Male habe ich mich unheimlich gefreut und hatte Gelegenheit, jede Menge spannende Fragen zu beantworten.**

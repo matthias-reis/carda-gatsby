@@ -1,15 +1,14 @@
 ---
 date: 2018-06-04T07:10:32.000Z
-slug: spargelsalat-mit-erdbeeren
-path: /2018/06/spargelsalat-mit-erdbeeren/
 type: Artikel
 typeName: Rezept
 title: Spargelsalat mit Erdbeeren und rotem Feldsalat
 seoTitle: Spargelsalat mit Erdbeeren und rotem Feldsalat - Rezept für 2 Personen
 ogTitle: Spargelsalat mit Erdbeeren und rotem Feldsalat - Rezept für zwei Personen
-description: Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den Spargelsalat mit Erdbeeren könnt Ihr ganz leicht selbst zubereiten.
-excerpt: Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den Spargelsalat mit Erdbeeren könnt Ihr ganz leicht selbst zubereiten.
-fileName: 2018-06---spargelsalat-mit-erdbeeren-und-rotem-feldsalat.md
+description: Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch.
+  Den Spargelsalat mit Erdbeeren könnt Ihr ganz leicht selbst zubereiten.
+excerpt: Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den
+  Spargelsalat mit Erdbeeren könnt Ihr ganz leicht selbst zubereiten.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_41667092854_e157247ae3_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_41667092854_e157247ae3_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgACBAcF/8QAJhAAAgEDBAEFAAMAAAAAAAAAAQIDBAURAAYSIRMHMUFRYSJyof/EABYBAQEBAAAAAAAAAAAAAAAAAAUBAv/EACARAAIBBAEFAAAAAAAAAAAAAAECAAMEESESIjFRYYH/2gAMAwEAAhEDEQA/AHNq2zZKaN7hWcaeBX4uJ5MBDnHDr3+v0YOgN1uVLYblV1C3pJBFM0/iqHDpHEG6ZQpyB/JVKdn3IHXaX1mpo4IFqbmZBb43heIRnBSUcgzg/YGc/wBRrn1/cS2NOYprrcaFmjFJFFJLMAzZDl5MMMqclVLBs9YGjrmmrMEwfkSsiXJywGfMQVm69tXHfJpLsy2yxyUhWKakYyEVGQxZiQTxwCoAGMnsfOvR3T6Z1kdCtbaKhLtRMglCBPHNwIyCF9m6+u/zQyr23YWMVZR3WyJNBIsjUwWUAAdyIUILd46GMA67vsSt8myrZxjmi8cbR+Odg0i4Y9MR1nvHXwBq01Su3Fu/rUlxytsYbM3Y6627gtXjq1pa+imAJKMJEf8Acj5/3RDcXpPtq9NG9PVV9C8QKxcHEqxgnJ4hvbVq0lgNsw0MVOpltz0psFlr4q+SsuNZVxOZEmecxtkjHZXsjHxnGkFxrbPte2TTV9wSCEsXaSplHJj9KABn8AGrVrBRU6wNy8i5AYz/2Q==
@@ -26,15 +25,13 @@ labels:
   - Spargelsalat
   - vegan
   - vegane Rezepte
-
   - veganes Spargelrezept
 focusKeyword: Spargelsalat
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Für zwei Personen
+
 ---
 
 **Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den Spargelsalat hat sich Matze vor Kurzem ausgedacht. Er ist wunderbar aromatisch und einfach perfekt für warme Hochsommerabende.**

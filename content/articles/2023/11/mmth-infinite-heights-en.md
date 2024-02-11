@@ -1,14 +1,18 @@
 ---
 date: 2023-11-08T08:14:00.766Z
-slug: mmth-infinite-heights-en
 typeName: Review
 title: MMTH – "Infinites Heights"
-subTitle: 'Experimental, Instrumental, Straightforward Post-Rock Sound'
+subTitle: Experimental, Instrumental, Straightforward Post-Rock Sound
 seoTitle: MMTH – "Infitinite Heights" – Post Rock Review
-description: MMTH are going the release their brand-new album "Infinites Heights" on November 17th. Find out why you should definitely listen to it an what is so fascinating about it!
-excerpt: MMTH's brand-new album "Infinite Heights" is a schoolbook example of great self-produced post-music. Please don't miss out and listen to this record! Find out what it has in common with excellent 1980s shoegaze and some more also quite fascinating insights and details.
+description: MMTH are going the release their brand-new album "Infinites
+  Heights" on November 17th. Find out why you should definitely listen to it an
+  what is so fascinating about it!
+excerpt: MMTH's brand-new album "Infinite Heights" is a schoolbook example of
+  great self-produced post-music. Please don't miss out and listen to this
+  record! Find out what it has in common with excellent 1980s shoegaze and some
+  more also quite fascinating insights and details.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-08/mmth-infinite-heights-4-jpg-imagine-080808_656565_1024_768/640.webp
-copyright: 'MMTH'
+copyright: MMTH
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-08/mmth-infinite-heights-2-og-jpg-imagine-989898_746d6c_1200_628/640.webp
 labels:
   - Band
@@ -27,6 +31,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/11/mmth-infinite-heights/
+
 ---
 
 **With "Infinite Heights", MMTH set new standards in terms of sound. They invite us on a versatile road trip into the infinite mountains of resonance and the depths of guitar walls—including tremolo and cinematic moments.**

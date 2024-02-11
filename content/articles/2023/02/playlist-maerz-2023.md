@@ -1,14 +1,19 @@
 ---
 date: 2023-02-24T13:20:35.993Z
-slug: playlist-maerz-2023
 typeName: Beitrag
 title: Playlist März 2023
 subTitle: Von BRUIT ≤ bis Zakè
 seoTitle: Alternative Playlist März 2023
-description: Diese zehn Songs solltet Ihr im März nicht verpassen. Von Post-Rock bis Ambient und von Metal bis Stoner. Jetzt hören!
-excerpt: 'Es ist so weit: Es geht wieder los mit der nächsten Songrunde. Die insgesamt zehn Stücke, die ich gemeinsam mit meinen beiden Lieblings-Musikfans ausgesucht habe, sollen Euch wie als Anregung dienen, falls vorhanden, die kompletten Platten der erwähnten Bands zu hören – für den vollen Musikgenuss. Trotzdem habe ich weiter unten selbstverständlich wieder fertige Playlists für Spotify und iTunes für Euch – als Inspirationsquelle für den nächsten Monat.'
+description: Diese zehn Songs solltet Ihr im März nicht verpassen. Von Post-Rock
+  bis Ambient und von Metal bis Stoner. Jetzt hören!
+excerpt: "Es ist so weit: Es geht wieder los mit der nächsten Songrunde. Die
+  insgesamt zehn Stücke, die ich gemeinsam mit meinen beiden Lieblings-Musikfans
+  ausgesucht habe, sollen Euch wie als Anregung dienen, falls vorhanden, die
+  kompletten Platten der erwähnten Bands zu hören – für den vollen Musikgenuss.
+  Trotzdem habe ich weiter unten selbstverständlich wieder fertige Playlists für
+  Spotify und iTunes für Euch – als Inspirationsquelle für den nächsten Monat."
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-24/playlist-maerz-2023-1-jpg-imagine-080808_606065_1024_768/640.webp
-copyrigt: ''
+copyrigt: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-24/playlist-maerz-2023-og-1-jpg-imagine-080808_606266_1200_628/640.webp
 labels:
   - D﻿epeche Mode
@@ -38,6 +43,7 @@ focusKeyword: Playlist Märze 2023
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Es ist so weit: Es geht wieder los mit der nächsten Songrunde. Die insgesamt zehn Stücke, die ich gemeinsam mit meinen beiden Lieblings-Musikfans ausgesucht habe, sollen Euch wie immer als Anregung dienen, die kompletten Platten der erwähnten Bands zu hören – für den vollen Musikgenuss. Trotzdem habe ich weiter unten selbstverständlich wieder fertige Playlists für Spotify und iTunes für Euch – als Inspirationsquelle für den nächsten Monat. Sofern die Bands mit ihrer Musik dort vertreten sind, habe ich die Stücke hinzugefügt. Ansonsten findet Ihr sie wie immer auch im Text. Viel Spaß beim Hören.**

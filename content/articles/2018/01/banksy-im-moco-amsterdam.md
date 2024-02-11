@@ -1,15 +1,15 @@
 ---
-date: 2018-01-23T09:21:08.000+00:00
-slug: banksy-im-moco-amsterdam
-path: '/2018/01/banksy-im-moco-amsterdam/'
+date: 2018-01-23T09:21:08.000Z
 type: Galerie
 typeName: Galerie
 title: Banksy im Moco Amsterdam
 seoTitle: Banksy im Moco in Amsterdam - Sagenumwobene Streetart hautnah
 ogTitle: Banksy im Moco in Amsterdam - Sagenumwobene Streetart hautnah
-description: Um keinen anderen Künstler ranken sich so viele Mythen, wie um Banksy. Wir hatten jetzt in Amsterdam die Gelegenheit seine Werke hautnah zu erleben.
-excerpt: Um keinen anderen Künstler ranken sich so viele Mythen, wie um Banksy. Wir hatten jetzt in Amsterdam die Gelegenheit seine Werke hautnah zu erleben.
-fileName: 2018-01---banksy-im-moco-amsterdam.md
+description: Um keinen anderen Künstler ranken sich so viele Mythen, wie um
+  Banksy. Wir hatten jetzt in Amsterdam die Gelegenheit seine Werke hautnah zu
+  erleben.
+excerpt: Um keinen anderen Künstler ranken sich so viele Mythen, wie um Banksy.
+  Wir hatten jetzt in Amsterdam die Gelegenheit seine Werke hautnah zu erleben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39852061061_b19fb4d9b1_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39852061061_b19fb4d9b1_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMGBAf/xAApEAACAQQCAAUDBQAAAAAAAAABAgMEBRESACEGEyIxYQcUUSMyQVLR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABoRAQEBAAMBAAAAAAAAAAAAAAEAEQISQSH/2gAMAwEAAhEDEQA/AE2KyTTYEoZmY+mPXrX88rqSz09A+n2zF9XyEZVGQpIz79HkXfL3d7NJQzWvy44ftzNNvsgA3C9t/UA9jIyPbJOOborzcKymWep8U2imWID9ql9sgBvVt6FBJGTn2OccscdOzJ28KiqrRbqlXTz2idYlkkzJqEDa6kk4zktgY5E3bwlU0k0skkryKp9KoxyTn5/3menuU8FbW3I3G4VXlTR00usCRiaEg5UOPVqp11AOASPnlpW1FPUWanaWWKZJwskJkqEklY99lQxYHr+fzg8wAdX5MPlzm6Qr4hmqqWsmutMr1IdHhQSAhD6M5ONB3hRjvs5J4+n+m0s8LrV3ioro1X9KOPSnfoHpiUcH3wB18k8OHHAae5KbwXc6S4SVEdZVRxGRWVKqmE+RplshfQSGXroe/wA81+Ho3oap0uEA2JZzNqISXyDnyx0FK9cOHDIHb//Z
@@ -39,12 +39,11 @@ labels:
   - Kunst
   - serie:Amsterdam 2018
 focusKeyword: Banksy
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Sagenumwobene Streetart hautnah
+
 ---
 
 **Um keinen anderen lebenden Künstler ranken sich so viele Mythen, wie um Banksy. In seiner Heimatstadt Bristol hat angeblich sogar jeder seine persönliche Banksy-Geschichte zu erzählen.**

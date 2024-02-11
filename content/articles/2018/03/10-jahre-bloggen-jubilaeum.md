@@ -1,13 +1,13 @@
 ---
 date: 2018-03-19T18:08:11.000Z
-slug: 10-jahre-bloggen-jubilaeum
-path: /2018/03/10-jahre-bloggen-jubilaeum/
 title: 10 Jahre Blog-Jubiläum
 seoTitle: 10 Jahre Blog-Jubiläum
 ogTitle: 10 Jahre Blog-Jubiläum
-description: Jubiläum! Mein Blog wird in diesem Jahr 10 Jahre alt! Zeit für einen Rückblick, eine Bestandsaufnahme und einen kleinen Ausblick auf die Zukunft.
-excerpt: Jubiläum! Mein Blog wird in diesem Jahr 10 Jahre alt! Zeit für einen Rückblick, eine Bestandsaufnahme und einen kleinen Ausblick auf die Zukunft.
-fileName: 2018-03---10-jahre-blog-jubilaeum.md
+description: Jubiläum! Mein Blog wird in diesem Jahr 10 Jahre alt! Zeit für
+  einen Rückblick, eine Bestandsaufnahme und einen kleinen Ausblick auf die
+  Zukunft.
+excerpt: Jubiläum! Mein Blog wird in diesem Jahr 10 Jahre alt! Zeit für einen
+  Rückblick, eine Bestandsaufnahme und einen kleinen Ausblick auf die Zukunft.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27033144708_995a5720d0_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_27033144708_995a5720d0_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYHCAIDBAX/xAAqEAACAQMDBAECBwAAAAAAAAABAgMEBREAEiEGEzFBByJhIzJRUnGBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQGA//EACARAQABAwMFAAAAAAAAAAAAAAEAAgMhBRESBDFRgfD/2gAMAwEAAhEDEQA/AK/W1OxR1c2CSx2KB707/HlmtUsFPW3WNJFdmJ3ttVVB5PJA0mTKDaC7vtClmAPs+ANSF8Z1NJU2yjE1H3oY3ZXhK7iGxzt4yM5/3WXU1r6irVI1bM3/ADN0xb7beaO42cRijrKfayRDKLIqhhtPjBVlOAeCDr16a09qw2jCIwWiJx/J1l8l10S9EdLWbuqauOaaeaEvueIfSqgjAKg7mwMetMDOqWa3q0gGKGMcj9edUOknKyL9mJt0nJlaa6ViipnCj1qROiup6zpGso6mhjhmjh47Ey5Rs+fHOfvnRo1PoPeFtuZx9Z1UtV1VcLpI34lxqTVMv7C3O3PsDwPsNP8AfKmSOzAhvyUiY/qMnRo1RadUtt38RVrCz//Z
@@ -23,12 +23,11 @@ labels:
   - Leidenschaft
   - schreiben
 focusKeyword: Jubiläum
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Rückblick und Bestandsaufnahme
+
 ---
 
 **Seit genau 10 Jahren blogge ich jetzt auf dieser meiner Seite. Schon zuvor hatte ich Texte zum Beispiel auf Plattformen wie myspace ins Netz gestellt und mich mit der Materie beschäftigt, mich sozusagen ein bisschen "eingegroovt". 2008 ging dann cardamonchai an den Start. Mein persönlicher Blog feiert also dieses Jahr sein Jubiläum und ich mit ihm.**

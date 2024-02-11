@@ -1,13 +1,12 @@
 ---
 date: 2020-04-20T08:54:17.000Z
-slug: 50-jahre-earth-day
-path: /2020/04/50-jahre-earth-day/
 title: 50 Jahre Earth Day
 seoTitle: 50 Jahre Earth Day am 22. April 2020 - Stadtnatur
 ogTitle: 50 Jahre Earth Day am 22. April 2020 - Stadtnatur
-description: Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr findet der Aktionstag unter dem Motto "Stadtnatur" statt.
-excerpt: Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr findet der Aktionstag unter dem Motto "Stadtnatur" statt.
-fileName: 2020-04---50-jahre-earth-day.md
+description: Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr
+  findet der Aktionstag unter dem Motto "Stadtnatur" statt.
+excerpt: Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr
+  findet der Aktionstag unter dem Motto "Stadtnatur" statt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_nature-conservation-480985_1280__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_nature-conservation-480985_1280__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAQL/xAArEAABAwMDAwMDBQAAAAAAAAABAgMEAAURBhIhEzFBFCJRQmGRBxVTcYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAIREAAgEEAgIDAAAAAAAAAAAAAQIAAxESQSExBPAUUWH/2gAMAwEAAhEDEQA/AKew5HLhbLrfUH0bhn+qXL9LuKI62IKkuTZLZPTcBQiOg8BZUn3Zz2Hn5ApsdiRLdbplyFuQ+6w0t0IS0VlxWMgYHfJxU+05qGRdYjsu/wAtdvk9crdYcaCQEpIKSE45b8DPkd6zszZhdR7oqknuLs+765066zIfmw5weWQpp/a405j+NKcLRwOeTWP37X96jIbgR246FJ9zsCGSs5871khPHwKaJuoWoOqYLP7b6vqZRtLHub3cBQA425Iyfj71RlNSy0pM1hLSk8DavcPx4oYNkRlx7uUp16ZW5p8+6k0tlh1re1ZuEhFvj55NwkKdWfuGkHH5Irm+fp7fGHlSIrtsvLZI3JSPTyAMEYG8lKgM5xuFFFD4tPvf3GbyXJuQOPyPekLFPiOIm6mubUqShOGozA9jWfKlfWodsDCR3570xzXGi2QjH+UUVdVCiwkXcubmf//Z
@@ -25,12 +24,11 @@ labels:
   - Our planet our health
   - Stadtnatur
 focusKeyword: Earth Day
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Stadtnatur
+
 ---
 
 **Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr steht der Tag unter dem Motto "Stadtnatur".**

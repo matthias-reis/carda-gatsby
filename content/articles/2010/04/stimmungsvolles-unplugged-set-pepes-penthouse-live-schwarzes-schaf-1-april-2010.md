@@ -1,15 +1,14 @@
 ---
 date: 2010-04-03T16:37:31.000Z
-slug: stimmungsvolles-unplugged-set-pepes-penthouse-live-schwarzes-schaf-1-april-2010
-path: /2010/04/stimmungsvolles-unplugged-set-pepes-penthouse-live-schwarzes-schaf-1-april-2010/
 type: Galerie
 typeName: Konzertbericht
 title: Pepes Penthouse live @ Schwarzes Schaf
 seoTitle: Pepes Penthouse im Schwarzen Schaf
 ogTitle: Pepes Penthouse im Schwarzen Schaf
-description: Am 1. April 2010 spielte die Augsburger Band PEPES PENTHOUSE live auf der LEERLAUF EP Release Party im "Schwarzen Schaf".
-excerpt: Am 1. April 2010 spielte die Augsburger Band PEPES PENTHOUSE live auf der LEERLAUF EP Release Party im "Schwarzen Schaf".
-fileName: 2010-04---pepes-penthouse-live-schwarzes-schaf.md
+description: Am 1. April 2010 spielte die Augsburger Band PEPES PENTHOUSE live
+  auf der LEERLAUF EP Release Party im "Schwarzen Schaf".
+excerpt: Am 1. April 2010 spielte die Augsburger Band PEPES PENTHOUSE live auf
+  der LEERLAUF EP Release Party im "Schwarzen Schaf".
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1602__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1602__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBQYHCP/EACUQAAEEAQQBBQEBAAAAAAAAAAECAwQRBQASITEGExRBUWEH0f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQT/xAAiEQABBAAFBQAAAAAAAAAAAAABAAIDEQQSITFxE4GRofD/2gAMAwEAAhEDEQA/AOVtJpxA+NXZHijOO9hHmszpWYcU1KlR2myG40VSd21aqv1FAp64TdcngE1uZMZE+Q00KNmYXGs+Ewcm3OdOUedUFsFCvTCLUBR20VcDons9VqtpJ3Di+evvWseVwpGaTjsQycjBxiX0s4vEPIDz6rBtVkgoF9BRoCzY1VM6pfjTcTHR4SIeUaPuFyt4W+jd0gqAAHG02Pur70x8eXU6LRLCN6oADufuE7D4huN/QVQnih9EN9RrYUpc2HgEXwPy9an56+/h8RIhsy5hkSC5IclB8pWVeorrur6PPNfGjRpsLQX1z6VCA9LBSvZvt5NLKJWMMdluZGlPIdbSl2ybJJ/RR1FyXnspkXpc1wuPvrK1qP3/AJ8Vo0aKdjWuACj2apf/2Q==
@@ -25,12 +24,11 @@ labels:
   - Pepes Penthouse
   - Schwarzes Schaf
 focusKeyword: Pepes Penthouse
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Stimmungsvolles Unplugged-Set
+
 ---
 
 **Am 1. April 2010 spielte die Augsburger Band PEPES PENTHOUSE live auf der LEERLAUF EP Release Party im "Schwarzen Schaf".**

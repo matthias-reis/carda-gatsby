@@ -1,22 +1,23 @@
 ---
 date: 2012-06-15T09:10:52.000Z
-slug: alte-tagebucheintrage-und-urlaub-auf-inseln
-path: /2012/06/alte-tagebucheintrage-und-urlaub-auf-inseln/
 title: Alte Tagebucheinträge und Urlaub auf Inseln
 seoTitle: Alte Tagebucheinträge und Urlaub auf Inseln
 ogTitle: Alte Tagebucheinträge und Urlaub auf Inseln
-description: Interessant, was ich früher so alles in meinem Tagebuch festgehalten habe. Wirklich spannend sind die ersten Aufzeichnungen über das Schreiben an sich.
-excerpt: Interessant, was ich früher so alles in meinem Tagebuch festgehalten habe. Wirklich spannend sind die ersten Aufzeichnungen über das Schreiben an sich.
-fileName: 2012-06---alte-tagebucheintraege-und-urlaub-auf-inseln.md
+description: Interessant, was ich früher so alles in meinem Tagebuch
+  festgehalten habe. Wirklich spannend sind die ersten Aufzeichnungen über das
+  Schreiben an sich.
+excerpt: Interessant, was ich früher so alles in meinem Tagebuch festgehalten
+  habe. Wirklich spannend sind die ersten Aufzeichnungen über das Schreiben an
+  sich.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGB//EACoQAAIBAwMCBQQDAAAAAAAAAAECAwAEEQUSMSFBEyJRYXEUIzJSgZGh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAiEQACAgAEBwAAAAAAAAAAAAABAgARAwQFEiEiMUFhwfD/2gAMAwEAAhEDEQA/AOo6zqrQ3Rjht5H2sUJHGcj0+f8AKrrvVjCgM0PhE46ODz8+1Leu7ahcG2lZB477/tFgWGOme3p703JKrxeI9vJL5sYYMgHTnBJpcxsmFcw7yM2pxygSRh2Gdp2ocZ7jOKcjMYkeRZJCXHDMSB8DgVT3rzRQMEs59xbduRhkjsD0/im7S8lZwk0LQjkbjnvUYblDUvvsTRGTnp3BrNalLFLe3VwySh4CuQsgAbgfrkf3RRQmlKDuvx7hOcYrVfdJRavDb6nLc3sn1KFyMoswx+J48vtU7TNFhtWaSKWUtIBnec4GQfaiimDoAeEwR2n/2Q==
 ogImage: null
 labels:
-  - '1982'
-  - '1992'
-  - '1996'
-  - '1997'
+  - "1982"
+  - "1992"
+  - "1996"
+  - "1997"
   - Adler
   - Album
   - Algiers
@@ -51,12 +52,11 @@ labels:
   - usw
   - Zelt
 focusKeyword: Tagebuch
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Tagebucheintrag
+
 ---
 
 **In den letzten Tagen habe ich mich mit der Planung der Englandreise, die für die nächsten beiden Wochen ansteht, beschäftigt.**

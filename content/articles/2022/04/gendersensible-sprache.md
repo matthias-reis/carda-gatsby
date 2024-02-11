@@ -1,15 +1,20 @@
 ---
 date: 2022-04-13T12:10:33.219Z
-slug: gendersensible-sprache
 typeName: Beitrag
 title: Gendersternchen, gendersensible Sprache und Barrierefreiheit
 subTitle: Darum entgendere ich auf meinem Blog
 seoTitle: Gendersternchen, gendersensible Sprache und Barrierefreiheit
-ogTitle: ''
-description: Immer wieder werde ich darauf angesprochen, heute möchte ich kurz erzählen, warum ich auf meinem Blog gendersensible Sprache in Form möglichst neutraler Formulierungen und des Gendersternchens (Asterisk) nutze.
-excerpt: Weil ich schon von den verschiedensten Menschen auf unterschiedlichste Art und Weise darauf angesprochen wurde, habe ich mich dazu entschieden, einen Artikel darüber zu schreiben, warum ich auf meiner Seite schon seit längerer Zeit entgendere und dazu nicht nur möglichst neutrale Sprache, sondern auch das Gendersternchen (Asterisk) gebrauche.
+ogTitle: ""
+description: Immer wieder werde ich darauf angesprochen, heute möchte ich kurz
+  erzählen, warum ich auf meinem Blog gendersensible Sprache in Form möglichst
+  neutraler Formulierungen und des Gendersternchens (Asterisk) nutze.
+excerpt: Weil ich schon von den verschiedensten Menschen auf unterschiedlichste
+  Art und Weise darauf angesprochen wurde, habe ich mich dazu entschieden, einen
+  Artikel darüber zu schreiben, warum ich auf meiner Seite schon seit längerer
+  Zeit entgendere und dazu nicht nur möglichst neutrale Sprache, sondern auch
+  das Gendersternchen (Asterisk) gebrauche.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-13/entgendern-jpg-imagine-080818_46494f_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-13/entgendern-fb-jpg-imagine-3878d8_5d8bd0_1200_628/640.webp
 labels:
   - gendersensible Sprache
@@ -29,6 +34,7 @@ focusKeyword: gendersensible Sprache
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Weil ich schon von den verschiedensten Menschen auf unterschiedlichste Art und Weise darauf angesprochen wurde, habe ich mich dazu entschieden, einen Artikel darüber zu schreiben, warum ich auf meiner Seite schon seit längerer Zeit entgendere und dazu nicht nur möglichst neutrale Sprache, sondern auch das Gendersternchen gebrauche.**

@@ -1,7 +1,6 @@
 ---
 templateKey: article
 date: 2021-04-29T12:53:38.065Z
-slug: joquin-phoenix-indigo-liberty
 typeName: Beitrag
 title: Joaquin Phoenix rettet Kuh mit Kalb aus Schlachthof
 subTitle: Libertys und Indigos Aufbruch in ihr neues Leben
@@ -28,6 +27,7 @@ focusKeyword: Joaquin Phoenix
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Joaquin Phoenix teilt jetzt unter anderem über Youtube die herzzerreißende Geschichte seiner Rettung einer Kuh und ihres Kälbchens aus einem Schlachtbetrieb. Die beiden leben inzwischen glücklich auf der Farm Sanctuary.**

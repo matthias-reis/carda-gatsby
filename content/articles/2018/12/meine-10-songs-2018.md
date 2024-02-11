@@ -1,17 +1,18 @@
 ---
-date: 2018-12-26T13:51:46.000+00:00
-slug: meine-10-songs-2018
-path: '/2018/12/meine-10-songs-2018/'
+date: 2018-12-26T13:51:46.000Z
 title: Meine 10 Songs 2018
 seoTitle: Meine 10 Songs 2018 - Die ultimative Songliste des Jahres
 ogTitle: Meine 10 Songs 2018 - Die ultimative Songliste des Jahres
-description: Es wird Zeit für meinen musikalischen Jahresrückblick. Das "alte" Jahr steckte voller rhythmischer und melodiöser Überraschungen - Meine 10 Songs 2018
-excerpt: Es wird  so langsam wieder Zeit für meinen musikalischen Jahresrückblick. Das "alte" Jahr steckte voller rhythmischer und melodiöser Überraschungen - Meine 10 Songs 2018
-fileName: 2018-12---meine-10-songs-2018.md
+description: Es wird Zeit für meinen musikalischen Jahresrückblick. Das "alte"
+  Jahr steckte voller rhythmischer und melodiöser Überraschungen - Meine 10
+  Songs 2018
+excerpt: Es wird  so langsam wieder Zeit für meinen musikalischen
+  Jahresrückblick. Das "alte" Jahr steckte voller rhythmischer und melodiöser
+  Überraschungen - Meine 10 Songs 2018
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-songs-long-distance-calling-spurv-god-is-an-astronaut-arstidir-this-will-destroy-you-minsk-zatagrev__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-songs-long-distance-calling-spurv-god-is-an-astronaut-arstidir-this-will-destroy-you-minsk-zatagrev__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAtEAACAgAFAwIEBwEAAAAAAAABAgMEAAUGETEHEiETURQiQXEIFSMyYYGx0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMBBP/EABoRAQADAQEBAAAAAAAAAAAAAAEAAiEDMRP/2gAMAwEAAhEDEQA/AJzDk1eHMGR7q1okPa8JQyOGIO4G3jjG3keYtldWaClG/wAGkkjA9w34BPIG3+/xh/PTzTTP3RyXHnZy7SC628Y9yPqdx/3GwnSnRl6pLfupm3aNy7fmL/tX3AHOIdqmRLcbGsjeb6keOXLXnlRKqTiVvWYeGIJ8bfTc7YcU17QzrLLNeWxVtqE2bsJJQccHgY5OqnT/AEtlvT7K87yqjmdeWzZrxKlm2zMsbhyAV4DeB9t8JnUPpjZ0NWoXJ39VLKkMa8jfoSAD5CT5PI88HyMV61UhfN2WS9mMfod61u2Ub/N3/TbjjjDjo+FM40c9e+itDJYkVkj3UFQysF5324B9/wC8GDA3zyaraRb/ABHztW6e15USNuzM657HXdGAWT5SPb7YhuvNb3tX1qvxEEFWpBEfRrwjwvcVJ3Y+W8qOeMGDFpUQWDZfJ//Z
-ogImage:
+ogImage: null
 labels:
   - 10 Songs
   - Alternative
@@ -34,12 +35,11 @@ labels:
   - Playlist
   - serie:Playlists 2018
 focusKeyword: Songs 2018
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die ultimative Songliste des Jahres
+
 ---
 
 **Es wird so langsam wieder Zeit für meinen musikalischen Jahresrückblick. Das "alte" Jahr steckte voller rhythmischer und melodiöser Überraschungen. 10 meiner Favoriten habe ich für Euch zu einer Liste zusammengefügt.**

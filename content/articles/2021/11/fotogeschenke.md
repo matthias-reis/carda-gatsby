@@ -1,6 +1,5 @@
 ---
 date: 2021-11-24T14:00:19.629Z
-slug: fotogeschenke
 typeName: Produkttest
 title: DIY-Fotogeschenke
 subTitle: Kalender, Fotobücher & Co. für die Liebsten
@@ -31,7 +30,9 @@ advertisement: true
 affiliate: false
 language: de
 languageLink: ""
+
 ---
+
 **Einen Geschenktipp kommt Ihr von mir so gut wie jedes Jahr. Die Rede ist von DIY-Tipps für Foto-Präsente. Heute präsentiere ich Euch Matzes und meine Errungenschaften für dieses Jahr. Wir wollen damit ein paar lieben Menschen eine Freude machen.**
 
 Letztes Jahr hatte ich einen [achtsamen Jahresrückblick](/2020/11/jahresrueckblick-2020-kalender-2021/) in Form eines selbst gestalteten Kalenders kreiert. Dieses Jahr haben wir unterschiedliche Foto-Geschenke vorbereitet: Fotobücher, Kalender, T-Shirts, eine Mütze sowie Weihnachtskarten inklusive Umschläge.

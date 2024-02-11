@@ -4,16 +4,11 @@ excerpt: Wenn wir etwas hören, das uns gefällt, kann uns das sehr glücklich
   machen - die Musik von The Ocean schafft das mehr als gut.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2019_04_Ein-Konzert-zum-Niemals-vergegssen.png__l.jpg
 isAffiliate: false
-path: /2019/04/the-ocean-live-im-hamburger-logo/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAsEAABAwIEBAQHAAAAAAAAAAABAgMRAAQFBhIhIjFBYQcTM1EUFUJxgZGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFvDsAKrhBLZmfatTNOBu2WXLl+2UG3ZSkLjcSenenWzs27dtVw+dLTY1KMdKQc85lurwOW9oFsWKgAplUK1EGZmNvwaDP8ACgJdzN8HwOtvsqWSoFSgUiZ+9V+6y+ny9UTIkbVCsr2oS1f3GH4k5bYk2iEsBGkusH1dK+hG23MiYroXImIu45k63ub51Dt0hSmXD9XDyKh7kb96DJzaQzhTLKSIec37gb/0ipXjzAUpQAoooF35bdoBuWEL0plJWkcpER+pq2+GT5TlOzWrgcaUu2VA9RA4kz3SSYPsYoooP//Z
 typeName: Konzertbericht
 isWerbung: false
-fileName: 2019-04---the-ocean-live-im-hamburger-logo.md
-slug: the-ocean-live-im-hamburger-logo
-errors: {}
 date: 2019-04-09T08:48:46.000Z
 focusKeyword: The Ocean
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-the-ocean-logo-5__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-the-ocean-logo-5__m.jpg
 title: The Ocean live im Hamburger Logo
@@ -32,6 +27,7 @@ labels:
   - The Ocean Collective
 language: de
 type: Artikel
+
 ---
 
 **Wenn wir etwas hören, das uns gefällt, kann uns das sehr glücklich machen - die Musik von The Ocean schafft das mehr als gut.**

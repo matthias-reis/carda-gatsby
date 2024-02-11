@@ -1,11 +1,12 @@
 ---
 date: 2021-10-25T14:46:05.585Z
-slug: awakened-souls-en
 typeName: Interview
 title: The Certainty That Life Is Changing
 subTitle: Interview With awakened souls
 seoTitle: Interview With The Ambient Duo awakened souls
-description: Some days ago I did a feature about "Keep The Orange Sun" by awakened souls and From Overseas. Now I had the opportunity to talk to awakened souls about the record.
+description: Some days ago I did a feature about "Keep The Orange Sun" by
+  awakened souls and From Overseas. Now I had the opportunity to talk to
+  awakened souls about the record.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-jpg-imagine-f8f8f8_686b6d_1024_768/640.webp
 copyright: awakened souls
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-fb-png-imagine-f8f8f8_646766_1200_628/640.webp
@@ -27,6 +28,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/10/awakened-souls/
+
 ---
 
 **Some days ago I did a feature about "Keep The Orange Sun" by awakened souls and From Overseas. Now I had the opportunity to talk to awakened souls about the record. Cynthia and James also told me what a great surprise they have in store for us next year.**

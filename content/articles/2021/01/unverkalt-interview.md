@@ -4,17 +4,12 @@ excerpt: Unverkalt verbinden Post-Metal und Alternative mit Experimental
   Ästhetik und Komplexität. Ich habe die Newcomer-Band jetzt interviewt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_unverkalt-fb.png__l.jpg
 isAffiliate: false
-path: /2021/01/unverkalt-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACwQAAICAQIDBwMFAAAAAAAAAAECAwQRAAUSEyEGIjFBUWGRFHGBIzJCsdH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIREv/aAAwDAQACEQMRAD8A5/q1HsNKqvGjpGXCu2C+P4r6n/NLV9pv2CohquxY4AJAJPtk6c7Je5UyQNBWljkmVzzI8lSPRgQw+dWHs9fsWd/ahuUix1wzs7qAVh6fv9x4A/g6VS0MjVG7Rs0bL17cEkUynBVgev29dFyjYp8o2I+FZUWRGVgysrDI6gkZ9vEa1Ht+Z9t39drmrxJVkmWo8jjiwQRjAPeXAYn8n01me4q9ezLVlwiJIyr06EBiM/3oxv0dnWDM2qTLDYEhB7vhjTmtderZinSQs7KFlL94EZ6qR5jAHxo0aqkaT7T7/Z3+/wA2XAcqP01yqAqvCpXJznhA8/nUNasfUhS6jnAAFvNvvo0aA5K3/9k=
 typeName: Interview
 isWerbung: false
-fileName: 2021-01---unverkalt-im-interview.md
-slug: unverkalt-interview
-errors: {}
 date: 2021-01-18T17:10:30.000Z
 focusKeyword: Unverkalt
 languageLink: /2021/01/unverkalt-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_unverkalt-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_unverkalt-1__m.jpg
 title: Unverkalt im Interview
@@ -33,7 +28,9 @@ labels:
   - Post-Metal
   - Post-Rock
   - Unverkalt
+
 ---
+
 **Unverkalt haben ihren eigenen Musikstil entwickelt. Sie verbinden Post-Metal und Alternative mit Experimental Ästhetik und Komplexität. Ihre Texte sind gerne mal bekennend. Ich hatte jetzt die Möglichkeit, mich mit der Newcomer-Band aus Griechenland zu unterhalten.**
 
 **Anne:** Hi! Danke, dass Ihr Euch Zeit für mich nehmt! Wie geht es Euch? Seid Ihr gerade in Griechenland? Wo kommt Ihr genau her?

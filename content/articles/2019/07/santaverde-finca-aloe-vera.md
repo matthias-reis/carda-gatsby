@@ -1,13 +1,14 @@
 ---
-date: 2019-07-26T11:45:29.000+00:00
-slug: santaverde-finca-aloe-vera
-path: '/2019/07/santaverde-finca-aloe-vera/'
+date: 2019-07-26T11:45:29.000Z
 title: Zu Besuch auf der Santaverde Finca
 seoTitle: Zu Besuch auf der Santaverde Finca in Andalusien
 ogTitle: Zu Besuch auf der Santaverde Finca in Andalusien
-description: Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in Andalusien besucht. Dabei haben wir einiges über den Anbau der beliebten Pflanze erfahren.
-excerpt: Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in Andalusien besucht. Dabei haben wir einiges über den Anbau der beliebten Pflanze erfahren.
-fileName: 2019-07---zu-besuch-auf-der-santaverde-finca.md
+description: Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in
+  Andalusien besucht. Dabei haben wir einiges über den Anbau der beliebten
+  Pflanze erfahren.
+excerpt: Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in Andalusien
+  besucht. Dabei haben wir einiges über den Anbau der beliebten Pflanze
+  erfahren.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-4__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBhMxIjJhgRRxUZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAAH/xAAfEQABAwQDAQAAAAAAAAAAAAAAAQIREhQhoQQFMYH/2gAMAwEAAhEDEQA/AGNqtLsqERttxwxHB+9aOC0SbRtjBUfxydc6tlkucVBttF+rWuEQhl2d14oWQoDsBGdpXjB/zTe133qSi3U13uH4EzIojNSVnVsDb6SQpzjnPOTzp1Oyl1NORCyWJk3D0JKFAs5UgFlLAAkeOBrG3noigq3eWsaukJ8I9S5Uc54GeB+tSpe+pqPe8lzoq9JJe4A1N7VwBtXbjA4+fJ1DW9YXR/QLXbd5J9zSqAP3g6O7Y7Dk0CnGemUKFtu1dTQxxQxRJCo9KCLAH9adx9QTSQmKqpKeWM+VdCQfo6NGpRUE90orXXIvbpmt0inPcoZGiz8EeCPrSGsstKuCl1uUaqpyDOSD8nJ0aNb7tTnh/9k=
@@ -29,14 +30,13 @@ labels:
   - vegane Naturkosmetik
   - serie:Spanien 2019
 focusKeyword: Santaverde Finca
-status: publish
 advertisement: true
 affiliate: true
 language: de
-errors: {}
 subTitle: Aloe Vera Pflanzen im Herzen von Andalusien
-year: '2019'
-month: '07'
+year: "2019"
+month: "07"
+
 ---
 
 **Vor Kurzem haben wir die Aloe Vera Finca von Santaverde im spanischen Estepona besucht. Dabei haben wir einiges über den biologischen Anbau der beliebten Pflanze erfahren.**

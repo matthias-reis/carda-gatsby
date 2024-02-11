@@ -1,14 +1,17 @@
 ---
 date: 2023-11-29T15:15:12.766Z
-slug: conflictfood
 typeName: Produkttest
 title: Conflictfood stellt sich vor
 subTitle: Pfeffer und Freekeh für den Frieden
 seoTitle: Conflictfood liefert Pfeffer und Freekeh für den Frieden
-description: Conflictfood Freekeh - kennt Ihr das Superfood schon? Erfahrt hier, wie es schmeckt und wie es mit dem fairen Handel aussieht.
-excerpt: Das Berliner Start-up Conflictfood möchte mit fair gehandelten Lebensmitteln aus Krisenregionen etwas für den Frieden tun. Ich habe das Trend-Food Freekeh sowie roten Pfeffer aus Kambodscha probiert und erzähle Euch hier alles darüber.
+description: Conflictfood Freekeh - kennt Ihr das Superfood schon? Erfahrt hier,
+  wie es schmeckt und wie es mit dem fairen Handel aussieht.
+excerpt: Das Berliner Start-up Conflictfood möchte mit fair gehandelten
+  Lebensmitteln aus Krisenregionen etwas für den Frieden tun. Ich habe das
+  Trend-Food Freekeh sowie roten Pfeffer aus Kambodscha probiert und erzähle
+  Euch hier alles darüber.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-29/conflict-food-jpg-imagine-f8e8c8_a58d6f_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-29/conflict-food-og-jpg-imagine-e8d8c8_a28b6d_1200_628/640.webp
 labels:
   - Fair Trade
@@ -22,6 +25,7 @@ focusKeyword: Conflictfood Freekeh
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Mit fair und direkt gehandelten Lebensmitteln etwas für den Frieden in von Krisen gebeutelten Gebieten tun – das hat sich Conflictfood vorgenommen. Ich stelle Euch die Fair-Trade-Marke heute vor und zeige Euch zwei ganz besondere Produkte, die ich ausprobiert habe – Freekeh und Kampot Pfeffer.**

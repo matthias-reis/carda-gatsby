@@ -10,7 +10,6 @@ labels:
   - Interviews
   - English & German
 language: en
-slug: smycka-interview-en
 typeName: Interview
 title: Interview with Smyčka
 subTitle: '"Life seems kafkaesque sometimes"'
@@ -30,6 +29,7 @@ focusKeyword: Smyčka
 advertisement: false
 affiliate: false
 languageLink: /2021/05/smycka-interview
+
 ---
 
 **Smyčka wanted to do an interview. Because I'm pretty fascinated by the band's history and their debut album "Fated" is pretty great, I am delighted to present it to you today.**

@@ -1,15 +1,16 @@
 ---
 date: 2017-08-08T15:48:34.000Z
-slug: cookies-veggies-interview
-path: /2017/08/cookies-veggies-interview/
 type: Artikel
 typeName: Interview
 title: Janina und Iris vom Cookie's Veggies
 seoTitle: Interview mit Janina und Iris vom Cookie's Veggies in Dorsten
 ogTitle: Interview mit Janina und Iris vom Cookie's Veggies in Dorsten
-description: Gutes essen - Gutes tun lautet das Motto von Iris und Janina vom Cookie's Veggies Café & Restaurant in Dorsten. Ich habe die beiden jetzt interviewt.
-excerpt: Gutes essen - Gutes tun lautet das Motto von Iris und Janina vom Cookie's Veggies Café & Restaurant in Dorsten. Ich habe die beiden jetzt interviewt.
-fileName: 2017-08---janina-und-iris-vom-cookies-veggies.md
+description: Gutes essen - Gutes tun lautet das Motto von Iris und Janina vom
+  Cookie's Veggies Café & Restaurant in Dorsten. Ich habe die beiden jetzt
+  interviewt.
+excerpt: Gutes essen - Gutes tun lautet das Motto von Iris und Janina vom
+  Cookie's Veggies Café & Restaurant in Dorsten. Ich habe die beiden jetzt
+  interviewt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_20707241_1570174443049754_1887003101_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_20707241_1570174443049754_1887003101_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwMFBgAE/8QAKRAAAgEDAwIFBQEAAAAAAAAAAQIDBAURABIhBjEHEyIyQRQVM1Fxsf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQH/xAAjEQACAQMDBAMAAAAAAAAAAAACAwEAERIEITFBUWHwIoHB/9oADAMBAAIRAxEAPwBp6wrr3CaQWOemjWJy86SKpecEeiNSxAUE9z3/AFqG6dXyWmwxVNRTedXSL+Ayqg3Yzt3cjPB1a9TyUcdnqJqyDzljwVUHB3Z45+BoGq5EXq2W43iBPs8CPGEgqXDTTPHuSMAe7B9W4jCjOSeNSdS5ouxBnTjt7908VS6IWsfl081vrd4nVpqlhr7VD5rtsVKeUtgnsc87gByfnAOt/wBOVbV0byzNulGVYD2qR8j+50DdBdQCyV63O+0Dz0krfTCrXn6UsOwTgMCD392M4zyNMfRxeOtrYGwDE2xsdsjI/wAA0jTPfDFww75Xi3ba/wCTRP0D9HOL7eLb+zVpdqOW4WuvpqcqHlhKozdg3xrD23w8nfp2809VPGtxq3EsEjjd5Ug7PnnBx6f5pLi4iTHHGpDqmSQI855ilgcrKDHmiCw+HPUkNTS/eLxQz0kLbpKco8gmVW3RxtkABVbLZHIzgcHSjZ7aKNJ5JZRJUzOZZZNuN7H9D4GvaPnXHudaKQCcojeKNzzeWR1//9k=
@@ -34,12 +35,11 @@ labels:
   - Vereinsarbeit
   - Wilde Kreaturen
 focusKeyword: cookie's veggies
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Gutes essen - Gutes tun!"'
+
 ---
 
 **Im Cookie'** **s Veggies Café &amp; Restaurant** **tut man Gutes, indem man isst. Auf der Speisekarte findet man jede Menge** **vorwiegend vegane Köstlichekeiten, die stets frisch zubereitet werden. Ich habe die Gründerinnen** **Iris Koczwara und Janina Braconier jetzt interviewt.**

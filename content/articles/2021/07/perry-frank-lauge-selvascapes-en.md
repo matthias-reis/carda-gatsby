@@ -1,6 +1,5 @@
 ---
 date: 2021-07-28T16:34:36.416Z
-slug: perry-frank-lauge-selvascapes-en
 typeName: Review
 title: '"Selvascapes"'
 subTitle: The new album by Perry Frank and Lauge
@@ -29,6 +28,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/07/perry-frank-lauge-selvascapes/
+
 ---
 
 **Perry Frank recorded his new album "Selvascapes" in collaboration with the Danish ambient producer Lauge. They relased the CD on July 24th. It is a great insider tip for fans of dreamlike soundscapes, drone sound and beautiful ambient music.**

@@ -1,14 +1,18 @@
 ---
 date: 2021-09-16T14:04:58.748Z
-slug: treibhausgas-emissionen-fleisch
 typeName: Beitrag
 title: Klimasünde Fleisch
 subTitle: Fleischindustrie für 60 Prozent der Lebensmittel-Treibhausgase verantwortlich
 seoTitle: Fleisch für 60 % der Lebensmittel-Treibhausgase verantwortlich
-description: Eine neue Studie zeigt, dass die weltweite Fleisch-Produktion für 28 Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher Nahrungsmittel. Sie wird Forschenden zukünftig als wichtige Referenz dienen.
-excerpt: Eine neue Studie zeigt, dass die weltweite Fleisch-Produktion für 28 Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher Nahrungsmittel. Sie zeigt den dringenden Handlungsbedarf und wird Forschenden zukünftig als wichtige Referenz dienen.
+description: Eine neue Studie zeigt, dass die weltweite Fleisch-Produktion für
+  28 Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher
+  Nahrungsmittel. Sie wird Forschenden zukünftig als wichtige Referenz dienen.
+excerpt: Eine neue Studie zeigt, dass die weltweite Fleisch-Produktion für 28
+  Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher
+  Nahrungsmittel. Sie zeigt den dringenden Handlungsbedarf und wird Forschenden
+  zukünftig als wichtige Referenz dienen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-08-daenemark-265-jpg-imagine-180818_998f61_3931_2948/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/fleisch-treibhausgase-fb-png-imagine-d8c878_93866d_1200_628/640.webp
 labels:
   - Treibhausgas
@@ -25,6 +29,7 @@ focusKeyword: Lebensmittel Treibhausgas
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Eine neue Studie brachte jetzt ans Tageslicht, dass die weltweite Fleisch-Produktion für 28 Mal mehr Treibhausgas-Emissionen verantwortlich ist, als die pflanzlicher Nahrungsmittel. Die Zahlen wurden unter anderem in der aktuellen The Guardian Ausgabe veröffentlicht. Die Ergebnisse der Forschungen decken sich mit denen ähnlicher Studien und zeigen ein weiteres Mal den Handlungsbedarf im Hinblick auf die Änderung unserer Ernährungsgewohnheiten.**

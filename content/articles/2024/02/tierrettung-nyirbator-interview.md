@@ -1,14 +1,18 @@
 ---
 date: 2024-02-02T10:00:12.086Z
-slug: tierrettung-nyirbator-interview
 typeName: Interview
-title: 'Interview mit Lena von der Tierrettung Nyirbator'
+title: Interview mit Lena von der Tierrettung Nyirbator
 subTitle: '"Man lernt, seine eigenen Bedürfnisse hintanzustellen"'
-seoTitle: 'Tierrettung Nyirbator – Interview mit Lena'
-description: 'Im Interview hat mir Lena von der Tierrettung Nyirbator verraten, wie für sie Tierschutz aussieht. Erfahrt jetzt alles über die Hundevermittlung!'
-excerpt: 'Lena von der Tierrettung Nyirbator hat mir im Interview verraten, wie der Tierschutz-Alltag in Ost-Ungarn aussieht, wir haben darüber unterhalten, warum der Tierschutz aus ihrem Leben nicht mehr wegzudenken ist und wieso der Veganismus dabei eine tragende Rolle spielt.'
+seoTitle: Tierrettung Nyirbator – Interview mit Lena
+description: Im Interview hat mir Lena von der Tierrettung Nyirbator verraten,
+  wie für sie Tierschutz aussieht. Erfahrt jetzt alles über die
+  Hundevermittlung!
+excerpt: Lena von der Tierrettung Nyirbator hat mir im Interview verraten, wie
+  der Tierschutz-Alltag in Ost-Ungarn aussieht, wir haben darüber unterhalten,
+  warum der Tierschutz aus ihrem Leben nicht mehr wegzudenken ist und wieso der
+  Veganismus dabei eine tragende Rolle spielt.
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-02/tierrettung-nyirbator-lena-interview-soundsvegan-com-11-jpg-imagine-080808_636062_1024_768/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-02/2024-02-02-tierrettung-nyirbator-lena-interview-soundsvegan-com-og-jpg-imagine-080808_6b655f_1200_628/640.webp
 labels:
   - Tierrettung Nyirbator
@@ -26,10 +30,11 @@ labels:
   - Tierrettung Ungarn
   - Tierschutz Ungarn
   - adopt don't shop
-focusKeyword: 'Tierrettung Nyirbator Interview'
+focusKeyword: Tierrettung Nyirbator Interview
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Tierrettung Nyirbator – dieser Name steht für konsequenten Tierschutz. Der Verein kümmert sich in Ungarn um Hunde – vor allem Straßenhunde – und vermittelt sie über das dortige Tierheim nach Deutschland. Auf diesem Weg ist vor kurzem ein wunderbares Wesen bei uns zu Hause eingezogen – die kleine Vally, die unser Leben seit dem 6. Dezember 2023 glücklicher, schöner, strukturiert, chaotischer, verspielter und mobiler macht.**

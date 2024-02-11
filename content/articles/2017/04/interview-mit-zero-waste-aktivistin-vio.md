@@ -1,15 +1,18 @@
 ---
 date: 2017-04-18T07:48:23.000Z
-slug: interview-mit-zero-waste-aktivistin-vio
-path: /2017/04/interview-mit-zero-waste-aktivistin-vio/
 type: Artikel
 typeName: Interview
 title: Zero Waste Aktivistin Vio
-seoTitle: Interview mit Zero Waste Aktivistin Vio - "Wir müssen den Müll drastisch reduzieren"
-ogTitle: Interview mit Zero Waste Aktivistin Vio - "Wir müssen den Müll drastisch reduzieren"
-description: Ich habe mich mit Zero Waste Aktivistin Vio über Müll unterhalten. Sie ist überzeugt davon, dass wir keine Verpackungen brauchen. Wir sind sie nur gewohnt.
-excerpt: Ich habe mich mit Zero Waste Aktivistin Vio über Müll unterhalten. Sie ist überzeugt davon, dass wir keine Verpackungen brauchen. Wir sind sie nur gewohnt.
-fileName: 2017-04---zero-waste-aktivistin-vio.md
+seoTitle: Interview mit Zero Waste Aktivistin Vio - "Wir müssen den Müll
+  drastisch reduzieren"
+ogTitle: Interview mit Zero Waste Aktivistin Vio - "Wir müssen den Müll
+  drastisch reduzieren"
+description: Ich habe mich mit Zero Waste Aktivistin Vio über Müll unterhalten.
+  Sie ist überzeugt davon, dass wir keine Verpackungen brauchen. Wir sind sie
+  nur gewohnt.
+excerpt: Ich habe mich mit Zero Waste Aktivistin Vio über Müll unterhalten. Sie
+  ist überzeugt davon, dass wir keine Verpackungen brauchen. Wir sind sie nur
+  gewohnt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_11354711264_1c1b346d6e_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_11354711264_1c1b346d6e_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQGBwIFCP/EACkQAAIBAwQBAwMFAAAAAAAAAAECAwQFEQAGEiExB0FRFiJhExQmUnL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAYEQEBAQEBAAAAAAAAAAAAAAABADECEf/aAAwDAQACEQMRAD8AUtT1lZSV9tslfLS3WNBUU8cdQ0CyjIEiuVyR9uW676PWhNp/t61fq3d9pglXJeBFnmmYEdHlIQcfnHeqmrL3VW25wzzzpVR09UKiNkkCyEBgcsF8HGRjx51bHqjP/KaeSBmdKmhhlQICcglgOh+MaT4scpCsu0JJ6jtL3cJKBIESai4w5gSR+QyPtLAAEj+q60E9wp91+nlNXRNVvHVOYyZYhjIDGVSqkgqDwABOePfnSO17ZcpLzS1U1srkt6CQzVEkbRqqGNwTk4+R401PBV7Y2hs6y2yVqWqEBnlmSo/QYTTd4yMg5XrBHfWNRQlyzlpsGwLqoh+jWhwQvJbnKc4+evf31P79HNtrYtfc7ZVzEUtKphinCtxVAFClwAT186NGsWRc5z+pd33VXrS1xdaR1XMSuMFvOScZPnxn21mltjkScVbPUKZDxV3bin+RnrRo1O9Cpl//2Q==
@@ -38,12 +41,11 @@ labels:
   - zerowaste
   - zerowastehome
 focusKeyword: Zero Waste
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Wir müssen den Müll drastisch reduzieren!"'
+
 ---
 
 **Zero Waste ist leider nach wie vor eine Seltenheit. In der heutigen Zeit gibt es immer mehr Müll. Wir produzieren ihn automatisch. Wir müssen nur einkaufen gehen: Das Obst wird in Plastiktüten verpackt, die Biogurke ist eingeschweißt und die Sojamilch gibt es nur im Tetrapack.**

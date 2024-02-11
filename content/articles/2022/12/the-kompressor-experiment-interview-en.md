@@ -1,12 +1,15 @@
 ---
 date: 2022-12-23T10:10:00.041Z
-slug: the-kompressor-experiment-interview-en
 typeName: Interview
 title: The Kompressor Experiment
 subTitle: '"The Alternative Music Scene deserves much more Support"'
 seoTitle: The Kompressor Experiment – post-rock interview
-description: Want to know more about the Swiss-based progressive post-music project, The Kompressor Experiment? Read my interview!
-excerpt: The Kompressor Experiment is a progressive post-music project from Switzerland. I now sat down with them to talk about their current album, "Ebb & Flow", which I guess should appeal especially to fans of bands like The Ocean or Russian Circles.
+description: Want to know more about the Swiss-based progressive post-music
+  project, The Kompressor Experiment? Read my interview!
+excerpt: The Kompressor Experiment is a progressive post-music project from
+  Switzerland. I now sat down with them to talk about their current album, "Ebb
+  & Flow", which I guess should appeal especially to fans of bands like The
+  Ocean or Russian Circles.
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-23/the-kompressor-experiment-jpg-imagine-080808_161616_1024_768/640.webp
 copyright: The Kompressor Experiment
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-23/the-kompressor-experiment-og-jpg-imagine-080808_131313_1200_628/640.webp
@@ -25,6 +28,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/12/the-kompressor-experiment-interview/
+
 ---
 
 **The Kompressor Experiment is a progressive post-music project from Switzerland. I now sat down with them to talk about their current album, "Ebb & Flow", which I guess should appeal especially to fans of bands like The Ocean or Russian Circles.**

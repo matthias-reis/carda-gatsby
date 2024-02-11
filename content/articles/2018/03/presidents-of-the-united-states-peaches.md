@@ -1,13 +1,12 @@
 ---
-date: 2018-03-10T09:00:16.000+00:00
-slug: presidents-of-the-united-states-peaches
-path: '/2018/03/presidents-of-the-united-states-peaches/'
+date: 2018-03-10T09:00:16.000Z
 title: Blind Date mit einem Song
 seoTitle: Blind Date mit einem Song - Presidents Of the United States -"Peaches"
 ogTitle: Blind Date mit einem Song - Presidents Of the United States -"Peaches"
-description: 'Ich hatte ein Blind Date mit keinem Geringeren als diesem Feel Good Hit Of The Year: "Peaches" von den Presidents Of the United States.'
-excerpt: 'Ich hatte ein Blind Date mit keinem Geringeren als diesem Feel Good Hit Of The Year: "Peaches" von den Presidents Of the United States.'
-fileName: 2018-03---blind-date-mit-einem-song.md
+description: 'Ich hatte ein Blind Date mit keinem Geringeren als diesem Feel
+  Good Hit Of The Year: "Peaches" von den Presidents Of the United States.'
+excerpt: 'Ich hatte ein Blind Date mit keinem Geringeren als diesem Feel Good
+  Hit Of The Year: "Peaches" von den Presidents Of the United States.'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Peaches__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Peaches__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKRAAAgIBBAECBQUAAAAAAAAAAQIDBBEABRIhMQZhExVBUYEUFiIjJP/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQUG/8QAKBEAAgAEAwcFAAAAAAAAAAAAAQIABBExAwUhEiJBUWGhsXGBkeHw/9oADAMBAAIRAxEAPwCm2zcVoU61yHbqW4M4nihtqyylDkFFdz0xDEHwMYI7zqRtMc18Q7pR2nbq1SWKCGm1mBjZDQNyDOFOAMgjGRkAePGk+vtKWPTkVS1fmjt7hejMifqe1HiNip7OVJOeyMD761WtQ3TaIp5vmfzD4vKX/WoBL/XBXxnyej2TrCZhirLAhG3ieNdQD8X7esXuVSomWriiqjz5hQl3Kvb3JIN4qbLLucCP8CKxTKFueSzcixB7yc48g5wSDpC39YZLLWtj2poajxqhcQs6q8bYldWPRPLjkr0M4+utVqbfs+87lHJu9GDcHsopeVYioRT2Apzk9n8aTIW/bM25QwWAa+bUVYvMokEPPi6KHBzJlMgYHYJzk6by+aDMQoO0ANLDrT35jneIzfLmlH4bJtz/AH1HX078OSrY3WxDFNPNE1BldAQpjKkSDI6PjI7Bx76tPUFu1LQko2LU/CeJ2DwkRsiB1TgOj55Ek/br30aNCx6GZFRYntaByzMkvukioFetYXzs1KgKcaSX5IV/uaJ7J4N2Bx4gYxkE/n21H9SToNriEESRtDKJCeCEOzdEn+PsNGjTks7O6ljXWB4yKEOlhH//2Q==
@@ -31,16 +30,15 @@ labels:
   - Peaches
   - Post-Grunge
   - The Presidents Of The United States
-  - 'serie: Musikalisches Blind Date'
+  - "serie: Musikalisches Blind Date"
 focusKeyword: Presidents Of the United States
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Peaches" von Presidents Of The United States'
-year: '2018'
-month: '03'
+year: "2018"
+month: "03"
+
 ---
 
 Zum Jahresanfang gab es eine kleine Überraschung für mich: Björn vom Blog Gartenbaukunst kündigte das nächste Blind Date mit einem Song an. Das Tolle daran: Der Song! Ich darf über "Peaches" von den Presidents Of The United States schreiben! Ich meine: Wie genial ist das denn?

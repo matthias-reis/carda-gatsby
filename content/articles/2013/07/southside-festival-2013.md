@@ -1,13 +1,14 @@
 ---
 date: 2013-07-01T17:33:37.000Z
-slug: southside-festival-2013
-path: /2013/07/southside-festival-2013/
 title: Southside Festival 2013
 seoTitle: Southside Festival 2013 - Die Bildergalerie ist fertig
 ogTitle: Southside Festival 2013 - Die Bildergalerie ist fertig
-description: 'Zeit, meine Schnappschüsse vom diesjährigen Southside-Festival zu zeigen. Es sei nur soviel gesagt: Wir hatten dieses Jahr extremes Glück mit dem Wetter!'
-excerpt: 'Zeit, meine Schnappschüsse vom diesjährigen Southside-Festival zu zeigen. Es sei nur soviel gesagt: Wir hatten dieses Jahr extremes Glück mit dem Wetter!'
-fileName: 2013-07---southside-festival-2013.md
+description: "Zeit, meine Schnappschüsse vom diesjährigen Southside-Festival zu
+  zeigen. Es sei nur soviel gesagt: Wir hatten dieses Jahr extremes Glück mit
+  dem Wetter!"
+excerpt: "Zeit, meine Schnappschüsse vom diesjährigen Southside-Festival zu
+  zeigen. Es sei nur soviel gesagt: Wir hatten dieses Jahr extremes Glück mit
+  dem Wetter!"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_07_p1250018__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_07_p1250018__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQECB//EACgQAAICAQMDAwQDAAAAAAAAAAECAwQRAAUhBhIxEyJBFFFhcRUjgf/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAQMF/8QAHhEAAgMAAQUAAAAAAAAAAAAAAQIAAxEhBBMxUYH/2gAMAwEAAhEDEQA/AGTq2tDPAGhdhLOwLQvyGHOJFPwQRg6UeqxS6aen9ZIsxtRGVVqIXAC57hnxkYBxxnPGry1ZiqRwizdqUltp2RC3OA8oIGVAwM+R99Q75stndLB3GwIq3rLEjf2oq+AoJAGPHaf3p1uoetAKooKldtsmel9ns73tEG6besqQSStESDyhXGWI8kc+Rprn2za6kJj3a01qR0ys3YEZfvgjOT+wdJcG57l0pHSg/mok2yV8irMUZe3PuKjOR++POp92642qa3NW2/Zb910HektVoUiOfALOQc+cj41Wt7WAC7g/IRqCb2+ZxNbrXI+3cXlsouRGs0ruVHt8ZPGQCD/mpb9mWWt6VJysvw0khOCo9pGSQCO0DRo1km5tyPaTNLDNYhVSxX1SWlKqCcEcAH8H51X3YFlnEjlmZcYZzkjjn88kDRo1Asb3BJ3zP//Z
@@ -24,12 +25,11 @@ labels:
   - steven wilson
   - vaccines
 focusKeyword: Southside
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die Bildergalerie
+
 ---
 
 **Leider war ich die Tage nach dem Festival ziemlich krank, eine Augenentzündung der besonders fiesen Sorte hatte mich aus dem Verkehr gezogen. Doch nun kann ich zumindest wieder einigermaßen gut sehen und somit auch tippen und Fotos sortieren.**

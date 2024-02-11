@@ -1,15 +1,14 @@
 ---
 date: 2013-09-10T15:45:28.000Z
-slug: der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst
-path: /2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/
 type: Artikel
 typeName: Selbstversuch
 title: '"Der Trick ist, Dich zu freuen, dass Du nicht mehr rauchen musst!"'
 seoTitle: Der Trick ist, Dich zu freuen, dass Du nicht mehr rauchen musst!
 ogTitle: Der Trick ist, Dich zu freuen, dass Du nicht mehr rauchen musst!
-description: Die Sache mit der Motiviation - Wie funktioniert Rauchen aufhören? Ich habe ein paar echt heiße Tipps für alle, die es wirklich ernst meinen.
-excerpt: Die Sache mit der Motiviation - Wie funktioniert Rauchen aufhören? Ich habe ein paar echt heiße Tipps für alle, die es wirklich ernst meinen.
-fileName: 2013-09---der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst.md
+description: Die Sache mit der Motiviation - Wie funktioniert Rauchen aufhören?
+  Ich habe ein paar echt heiße Tipps für alle, die es wirklich ernst meinen.
+excerpt: Die Sache mit der Motiviation - Wie funktioniert Rauchen aufhören? Ich
+  habe ein paar echt heiße Tipps für alle, die es wirklich ernst meinen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwUG/8QALhAAAgEDAgEKBwEAAAAAAAAAAQIRAAMEBSESBhMUIjFBcZGSoRUWQlKxwdHS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDEwQhMf/aAAwDAQACEQMRAD8A3l1/VAN0xmjaSjD90fMWqHsTFmYjhb+1ute05QDzGTcknqgLt47ilLo066pnptszBmypAHqk+VVbqJNDZz+Dywz8/pQxxjTjZFzFcFGHXQwY37KtblBqx7sX0n/VOaFoXJzS8bIs4WVeWy+RcvMb1guwZiJEju2/NNfDtOurxW87T2P2txKfcUI5rXoZcd30J2siAGKcQH08RAPvNTzrCSGfwJmiikFRRhu7B4dhLnzmrbyNDMX3FFFLUmkbaVn/2Q==
@@ -31,12 +30,11 @@ labels:
   - Suchtentwöhnung Raucher
   - Tagebuch Rauchen aufhören
 focusKeyword: rauchen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die Sache mit der Motivation
+
 ---
 
 **Was hat Euch damals motiviert, die Kippe an den Nagel zu hängen? - Fragmente aus Twitter-Mentions, Gesprächen und Nachrichten.**

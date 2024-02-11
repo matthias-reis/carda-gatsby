@@ -1,43 +1,39 @@
 ---
-date: 2018-04-03T05:40:08.000+00:00
-slug: wijld-woodshirt-mode-aus-holz
-path: "/2018/04/wijld-woodshirt-mode-aus-holz/"
+date: 2018-04-03T05:40:08.000Z
 type: Artikel
 typeName: Produkttest
 title: Mein WoodShirt von wijld
 seoTitle: Mein WoodShirt von wijld im Test - Nachhaltige Mode aus Holz
 ogTitle: Mein WoodShirt von wijld im Test - Nachhaltige Mode aus Holz
-description: Nachhaltige, faire in der EU produzierte Mode, die gut aussieht, atmungsaktiv
-  ist und nicht zu teuer? Geht das? Ich habe wijld getestet.
-excerpt: Nachhaltige, faire in der EU produzierte Mode, die gut aussieht, atmungsaktiv
-  ist und nicht zu teuer? Geht das? Ich habe wijld getestet.
-fileName: 2018-04---mein-woodshirt-von-wijld.md
+description: Nachhaltige, faire in der EU produzierte Mode, die gut aussieht,
+  atmungsaktiv ist und nicht zu teuer? Geht das? Ich habe wijld getestet.
+excerpt: Nachhaltige, faire in der EU produzierte Mode, die gut aussieht,
+  atmungsaktiv ist und nicht zu teuer? Geht das? Ich habe wijld getestet.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_wijld_-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_wijld_-1-von-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACkQAAEEAQQBAwMFAAAAAAAAAAECAwQRBQASIUEGExQxByJRMlKRsfD/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/xAAgEQACAgEDBQAAAAAAAAAAAAABAgARAwQxcRIhQZHw/9oADAMBAAIRAxEAPwDOfpr4ymerGOvyRHL7rkdCVprcAg8g88lS0pANc96c4yPjoni+OYjzQ7IE5pSW3Wi04pKX0biU2RxVHn5PF6T4NmkR34TQQt6Uwp8sJK1Jb+4ULo3YUlJHX5B09mY6LiMRDbQyPdS8jGBf3BRUgOI/i1WaGm6XJlLMt9qPrz9caqgIeDF4yIiO4pYS4p1CybaAVtO6xqzScvAzMdnG+VQvbK2qWiWGQlpw3RJrlpdkWoGuedROLzsaFHc9YJjxFlSiv4cbJUQDXd0eQDXGuWTLRxe1maZIFn1AAo3zSxXZBopPzWs98YbeEKK8zDx7Je0yCHr5YWtQH5G7n+71cvJcy3NymKaaUmkzYf6evuSdGjS8TEM3Blgx6KknHbgrkyUTJUFgNrXtEjY4WjZoIJPPZ7F9ahsuIMNCGocKO+VAqK9wUp0/u+fj/daNGpFYdXs7T//Z
-ogImage: 
+ogImage: null
 labels:
-- atmungsaktiv
-- Fair Fashion & Beauty
-- faire Mode
-- Holzfaser
-- Holzwolle
-- Klima- & Umweltschutz
-- Nachhaltigkeit
-- Portugal
-- vegane Mode
-- wijld
-- WoodShirts
+  - atmungsaktiv
+  - Fair Fashion & Beauty
+  - faire Mode
+  - Holzfaser
+  - Holzwolle
+  - Klima- & Umweltschutz
+  - Nachhaltigkeit
+  - Portugal
+  - vegane Mode
+  - wijld
+  - WoodShirts
 focusKeyword: wijld
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Nachhaltige Mode aus Holz
 advertisement: true
 
 ---
+
 **[Coole Klamotten](/2018/02/faire-klamotten/), die nicht nur toll aussehen, sondern aus nachwachsenden Rohstoffen hergestellt werden, das Grundwasser beim Waschen nicht mit [Mikroplastik](/2018/03/der-weltwassertag-2018/) belasten und auch noch atmungsaktiv sind gibt es nicht? Gibt es doch!**
 
 Ich hatte vor Kurzem die tolle Gelegenheit, mich näher mit den "WoodShirts" von wijld auseinanderzusetzen. Sie werden aus Holz hergestellt. Auf den ersten Blick erfüllten sie alle von mir genannten Wünsche und so war ich besonders gespannt darauf, sie zu testen.
