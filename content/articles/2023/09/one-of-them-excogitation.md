@@ -1,16 +1,17 @@
 ---
-date: 2023-09-28T09:51:15.154Z
-slug: one-of-them-excogitation-en
+date: 2023-09-28T10:04:21.544Z
+slug: one-of-them-excogitation
 typeName: Review
-title: One Of Them - "Excogitation"
-subTitle: New Ambient Music Gem on Artificial Owl Recordings
-seoTitle: One Of Them - "Excogitation" – Ambient Review
-description: '"Excogitation" by One Of Them brings us all back to the ground in
-  these uncertain and gloomy times. Check the new ambient music gem out now!'
-excerpt: 'Artificial Owl Recordings released a magnificent new ambient EP today:
-  "Excogitation" by One Of Them brings us all back to the ground in these
-  uncertain and gloomy times, letting us reflect on what was and what is to
-  come.'
+title: One Of Them – "Excogitation"
+subTitle: Neue Ambient-Perle auf Artificial Owl Recordings
+seoTitle: One Of Them – "Excogitation" – Ambient Review
+description: '"Excogitation" von One Of Them holt uns in diesen ungewissen und
+  trübseligen Zeiten alle auf den Teppich zurück. Hört Euch das neue
+  Ambient-Meisterwerk jetzt hier an!'
+excerpt: 'Auf Artificial Owl Recordings ist heute eine ganz besonders schöne
+  neue Ambient-EP erschienen: "Excogitation" von One Of Them holt uns in diesen
+  ungewissen und trübseligen Zeiten alle auf den Teppich zurück und lässt uns
+  über das reflektieren, was war und was kommen wird.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-28/one-of-them-excogitation-jpg-imagine-f8f8f8_8e919e_1024_768/640.webp
 copyright: One of Them
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-28/one-of-them-excogitation-og-jpg-imagine-f8f8f8_8990a5_1200_628/640.webp
@@ -27,37 +28,37 @@ labels:
 focusKeyword: One Of Them - "Excogitation"
 advertisement: false
 affiliate: false
-language: en
-languageLink: /2023/09/one-of-them-excogitation/
+language: de
+languageLink: /2023/09/one-of-them-excogitation-en/
 ---
-**Artificial Owl Recordings released a magnificent new ambient EP today: "Excogitation" by One Of Them brings us all back to the ground in these uncertain and gloomy times, letting us reflect on what was and what is to come.**
+**Auf Artificial Owl Recordings ist heute eine ganz besonders schöne neue Ambient-EP erschienen: "Excogitation" von One Of Them holt uns in diesen ungewissen und trübseligen Zeiten alle auf den Teppich zurück und lässt uns über das reflektieren, was war und was kommen wird.**
 
-The EP is available as 12" vinyl, as a cassette or via Bandcamp. Yoyaku Distribution distributes it worldwide for the New York indie label Artificial Owl. I'll link to Bandcamp below, so you can listen to it right away—you can believe me: It's worth it!
+Die EP gibt es als 12"Vinyl, als Kassette oder über Bandcamp. Yoyaku Distribution vertreibt sie weltweit für das New Yorker Indielabel Artificial Owl. Ich verlinke Euch Bandcamp unten, dann könnt Ihr gleich mal reinhören – es lohnt sich, das sage ich Euch!
 
-After a feature on the Ambient Focus Show on BBC6 radio (which I also recommend to you if you haven't heard of it yet), "Excogitation" is finally officially out. It is Niko Dalagelis' aka One Of Them's fourth release.
+Nach einem Feature in der Ambient Focus Show auf Radio BBC6 (die ich Euch hiermit ebenfalls ans Herz lege, falls Ihr sie noch nicht gehört habt) erscheint "Excogitation" nun endlich offiziell. Es handelt sich dabei um die vierte Veröffentlichung von Niko Dalagelis aka One Of Them.
 
-## Spacial soundscapes
+## Plastische Klangbilder
 
-You will find two fascinating ethereal and atmospheric ambient pieces on the EP—dreamlike, playful and made for the coming quiet season. With the A-side ("Excogitation 1"), Niko draws a vivid picture of snow-covered landscapes under which the world recovers from its injuries. Its inhabitants gather new energy and wait for spring to start anew with new ideas and fresh drive.
+Auf der EP findet Ihr zwei ätherische und atmosphärische Ambient-Stücke – traumhaft, verspielt und wie gemacht für die kommende ruhige Jahreszeit. Mit der A-Seite ("Excogitation 1") zeichnet Niko ein plastisches Bild von schneebedeckten Landschaften, unter denen sich die Welt von ihren Verletzungen erholt. Ihre Bewohner sammeln neue Energie und warten auf den Frühling, um mit neuen Ideen und frischem Tatendrang neu zu beginnen.
 
-The B-side fits seamlessly into this picture, spinning the story further. The paths branch out to explore new landscapes.
+Die B-Seite fügt sich nahtlos in das Bild ein und spinnt die Geschichte weiter. Die Wege verzweigen sich und erkunden neue Landschaften.
 
-The textures of sound the musician combined are multi-layered and exciting, exploring the play of space and time, light and darkness. Keys, synths, chimes and an implied clarinet here and there combine to create an imaginative bouquet.
+Die Klangtexturen, die der Musiker vereint, sind vielschichtig und spannend, erforschen das Spiel von Raum und Zeit, Licht und Dunkelheit. Tasten, Synths, Glockenspiele und hier und da eine angedeutete Klarinette fügen sich zu einem fantasievollen Strauß zusammen.
 
-## A transcendental listening experience
+## Ein transzendentales Hörerlebnis
 
-As a basis for his EP, One Of Them used a randomised sequence triggered by an SH-01A and a Digitone. He wants to direct the listener's focus inward consciously.
+Als Basis für seine EP verwendete One Of Them eine zufällige Sequenz, ausgelöst von einem SH-01A und einem Digitone. Er möchte damit den Fokus der Zuhörer\*innen bewusst nach innen lenken.
 
-While listening, we are supposed to deal with our thoughts and feelings—which seems to work wonderfully. The two pieces, each lasting just over 23 minutes, have a meditative effect on me. What shakes me to the core is: It was after I'd described my impressions of the two songs on this record and written down my thoughts about the future and the past, winter and spring, that I read the press release for it and had to realise: It talks about the exact same things!
+Beim Hören sollen wir uns mit unseren Gedanken und Gefühlen auseinandersetzen. Was ganz wunderbar funktioniert. Auf mich haben die beiden, jeweils etwas mehr als 23-minütigen, Stücke eine meditative Wirkung. Was mich wirklich fasziniert: Erst nachdem ich meine Eindrücke beschrieben hatte und von den Gedanken an die Zukunft und die Vergangenheit sowie den Winter und den Frühling schrieb, las ich die Pressemitteilung zur EP und musste feststellen: auch hier ist die Rede davon!
 
-That sounds downright transcendental, doesn't it? The artist wants to take us on a serene sound journey and create a harmonious connection between the mind and the music—inspired by unconventional thinking.
+Das klingt doch geradezu transzendental, oder? Der Künstler möchte uns auf eine heitere Klangreise entführen und eine harmonische Verbindung zwischen dem Geist und der Musik herstellen – inspiriert von einer unkonventionellen Denkweise.
 
-I'm surprised, flashed and relaxed at the same time. The kidnapping and sound journey thing definitely worked for me—wow!
+Ich bin überrascht, geflasht und gleichzeitig entspannt. Das mit der Entführung und der Klangreise hat bei mir definitiv funktioniert – wow!
 
-By the way, Niko Dalagelis puts "Excogitation" into words like this:
+Niko Dalagelis fasst "Excogitation" übrigens so in Worte:
 
-> "I tried to open a gateway to a state of blissful self-exploration. Through enchanting sounds, soothing atmospheres and contemplative nuances, this work acts as an auditory catalyst, creating a link between the listener's consciousness and the musical experience."
+> "Ich habe versucht, ein Tor zu einem Zustand glückseliger Selbsterkundung zu öffnen. Durch bezaubernde Klänge, beruhigende Atmosphären und kontemplative Nuancen wirkt dieses Werk als auditiver Katalysator, der eine Verbindung zwischen dem Bewusstsein des Zuhörers Bewusstsein und der musikalischen Erfahrung."
 
-Sounds good, doesn't it? Yes, and it feels good, too. You better listen to it immediately!
+Das klingt gut oder? Ist es auch und es tut auch gut. Hört es Euch am besten auch gleich an!
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2309734959/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://artificialowlrecordings.bandcamp.com/album/excogitation">Excogitation by One Of Them</a></iframe>
