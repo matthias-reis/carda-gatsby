@@ -55,6 +55,8 @@ Die "Ziricote" Hülle[^2] aus der "Wood" Collection ist elegant und extrem robus
 
 Das "Deep Sea Blue" Case[^3] stammt (genau, wie das Transparente[^4]) aus der "Biodegradable" Serie von MMORE. Für mich ist es mit die schönste Hülle – es liegt wunderbar in der Hand und ist schön zeitlos und edel. Wenn es mal nicht mehr schön ist, zerfällt es auf dem Kompost und muss nicht über den Plastikmüll entsorgt werden. Dafür schützt es mein Handy hervorragend – auch, wenn ich es mal fallen lasse (So was passiert mir natürlich nie, haha!)
 
+Die transparente Handyhülle stellt MMORE aus recyceltem Meeresplastik her – das macht es zu einem ganz besonderen Produkt und hebt es klar von durchsichtigen Cases anderer Brands ab.
+
 **Tipp:** Um Eurem Handy in der transparenten Hülle einen schicken Look zu verleihen, könnt Ihr eine schöne Eintrittskarte (bei mir ist sie vom Centre Pompidou in Paris, siehe Bilder), die Ihr Euch als Erinnerung aufbewahren wollt hineinlegen – oder wie wäre es mit einem Foto von Eurem Schatz?
 
 ## Der Wireless Charger von MMORE
