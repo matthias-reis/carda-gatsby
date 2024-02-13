@@ -23,7 +23,7 @@ labels:
   - Serum
 focusKeyword: Moricare vegane Beauty-Produkte
 advertisement: true
-affiliate: true
+affiliate: false
 language: de
 ---
 
