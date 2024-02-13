@@ -29,7 +29,7 @@ language: de
 
 **Die vegane Beauty-Brand Moricare hat gerade eine schöne Aktion gestartet: zusätzlich zur festlichen Verpackung zu den Feiertagen gibt es jetzt auch noch zehn Prozent Rabatt[^1]. Für mich ein weiterer Grund, Euch die Marke und eines meiner Lieblingsprodukte hier endlich mal vorzustellen.**
 
-Die Feiertage stehen vor der Tür und hierzulande sind viele Menschen gerade auf der Suche nach den passenden Geschenken für ihre Lieben. Wie wäre es denn dieses Jahr zum Beispiel mit toller, veganer Kosmetik? Ich kann Euch zum Beispiel das [Hyaluron-Serum von Moricare](https://tidd.ly/3uNR7BQ) sehr empfehlen.
+Die Feiertage stehen vor der Tür und hierzulande sind viele Menschen gerade auf der Suche nach den passenden Geschenken für ihre Lieben. Wie wäre es denn dieses Jahr zum Beispiel mit toller, veganer Kosmetik? Ich kann Euch zum Beispiel das Hyaluron-Serum von Moricare sehr empfehlen.
 
 ![Moricare Hyaluron-Serum](https://storage.googleapis.com/cardamonchai-media/2023-12-07/moricare-anne-reis-soundsvegan-com-8-jpg-imagine-3878d8_5e799a_2048_1536/640.webp 'Moricare Hyaluron-Serum')
 
@@ -47,17 +47,17 @@ Die Anwendung funktioniert ganz einfach: Ich gebe ein paar Tropfen auf meine Fin
 
 Im Moricare Onlineshop findet Ihr Beauty-Produkte aus den Kategorien
 
-- [Gesichtspflege](https://tidd.ly/3uTW6AK)
-- [Anti Aging](https://tidd.ly/3t5jIC8)
-- [Körperpflege](https://tidd.ly/419YuzE) und
-- [Gesichtsreinigung](https://tidd.ly/3GwresJ)
+- Gesichtspflege
+- Anti Aging
+- Körperpflege und
+- Gesichtsreinigung
 
 sowie
 
-- [Kennenlern-Sets](https://tidd.ly/3RGipTP) und
-- [Produktssets](https://tidd.ly/41fzDKD)
+- Kennenlern-Sets und
+- Produktssets
 
-aus allen vier Kategorien. Zudem hat der Shop auch rund um [Ernährung](https://tidd.ly/3NhAQLF) und Geschenkideen einiges zu bieten. Schaut Euch am besten einfach mal um.
+aus allen vier Kategorien. Zudem hat der Shop auch rund um Ernährung und Geschenkideen einiges zu bieten. Schaut Euch am besten einfach mal um.
 
 Alle Produkte sind vegan, frei von Tierversuchen und mit dem NATRUE Siegel für hochwertige und wirkungsvolle [Naturkosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/) ausgezeichnet. Die Mission von Moricare lautet: "Yes, we care for your skin, our nature, the society, and for natural beauty."
 
@@ -69,7 +69,7 @@ Nach diesem Leitsatz handelt die Brand konsequent. Das bedeutet auch, dass alle 
 
 In den Bereichen, in denen das Gewicht laut Angabe von Moricare gegen Glas sprach, entschied sich die Brand für recycelten Kunststoff aus dem Gelben Sack – auch bekannt als PCR. Die in der Beauty-Branche weitverbreitete Show-Verpackungen lehnt Moricare ab – die Verpackungen sind daher bei gleichem Inhalt um bis zu 40 Prozent kleiner, als Ihr es von anderen Brands kennt. Die Verpackungsmaterialen bestehen insgesamt zum größten Teil aus Recyclingmaterial und Ihr könnt sie, sobald sie leer sind, wieder dem Recycling-Kreislauf zuführen. Derzeit arbeitet das Unternehmen daran, dass bald alle Verpackungen zu 100 Prozent aus recycelten Wertstoffen bestehen werden.
 
-Moricare verpackt alle Cremes & Co. besonders edel in Gold und Rot. Wenn Ihr mehr wissen wollt, findet Ihr alle Infos auch im [Moricare Shop](https://tidd.ly/47Jh9o9).
+Moricare verpackt alle Cremes & Co. besonders edel in Gold und Rot. Wenn Ihr mehr wissen wollt, findet Ihr alle Infos auch im Moricare Shop.
 
 ![Moricare Hyaluron-Serum | large](https://storage.googleapis.com/cardamonchai-media/2023-12-07/moricare-anne-reis-soundsvegan-com-3-jpg-imagine-f80808_893d35_2048_1536/640.webp 'Moricare Beauty-Produkt in rot-goldener Geschenkverpackung')
 
