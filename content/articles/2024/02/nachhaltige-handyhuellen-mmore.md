@@ -19,6 +19,7 @@ labels:
   - Vegan Fashion
   - Slow Fashion
   - Technik
+  - Ernährung & Gesundheit
 focusKeyword: 'Nachhaltige Handyhüllen MMORE'
 advertisement: true
 affiliate: false
