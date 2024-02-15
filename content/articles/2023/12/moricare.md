@@ -1,6 +1,6 @@
 ---
 date: 2023-12-07T13:00:00.766Z
-slug: moricare
+slug: moricare-rabattcode
 typeName: Produkttest
 title: 'MORICARE Rabattcode!'
 subTitle: Hochwertige vegane Beauty-Produkte
