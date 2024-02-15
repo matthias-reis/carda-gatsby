@@ -4,7 +4,7 @@ slug: enerbio-rossmann
 typeName: Produkttest
 title: 'EnerBio by Rossmann'
 subTitle: 'Meine 13 veganen Lieblingsprodukte'
-seoTitle: 'EnerBio Rossmann – Lieblingsprodukte vegan und lecker'
+seoTitle: 'EnerBio Rossmann – 13 vegane Lieblingsprodukte'
 description: 'Meine EnerBio Rossmann Lieblingprodukte sind natürlich vegan. Lernt sie hier kennen und holt Euch ein tolles Rezept für Rote-Linsen-Salat!'
 excerpt: 'Ich kaufe bei Rossmann ein und nehme mit: Meine veganen EnerBio Lieblingsprodukte! Welche das neben dem Haferdrink in der Barista-Edition und dem Mandelmus noch sind und was sie für mich besonders macht, erfahrt Ihr in diesem Artikel. Ein tolles Rezept für Rote-Linsen-Salat gibt es obendrauf!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-15/enerbio-rossmann-lieblingsprodukte-soundsvegan-com-jpg-imagine-080818_5f5656_2048_1536/640.webp
