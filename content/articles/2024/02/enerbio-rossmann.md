@@ -84,10 +84,11 @@ Es hat lange gedauert, bis ich als vegan lebender Mensch offen für Eiweißliefe
 > - Pfeffer
 > - Salz
 > - Basilikum
+> - Thymian
 > - Chiliflocken
 > - 1 kleine Schalotte
-> - 1 Handvoll
-> - schwarze Oliven
+> - 1/2 Orange
+> - 1 Handvoll schwarze Oliven
 > - 3 Tomaten
 > - 1 Spitzpaprika
 >
@@ -95,7 +96,7 @@ Es hat lange gedauert, bis ich als vegan lebender Mensch offen für Eiweißliefe
 >
 > Röstet die roten Linsen mit etwas Olivenöl im Kochtopf an, bis es in Eurer Küche lecker nach Popcorn riecht und gießt sie anschließend mit der doppelten Menge Wasser auf. Lasst sie auf mittlerer Stufe für 10 Minuten köcheln und anschließend nachquellen.
 >
-> Hackt die Schalotte in Stückchen und bratet sie an. Gebt sie zusammen mit drei Esslöffeln Olivenöl sowie dem Saft einer Zitrone in eine Salatschüssel. Schneidet das Gemüse in Würfel und hebt es zusammen mit den vorbereiteten Linsen unter. Würzt Euren Linsensalat mit den Kräutern und Gewürzen und lasst ihn anschließend ein paar Minuten ziehen.
+> Hackt die Schalotte in Stückchen und bratet sie an. Gebt sie zusammen mit drei Esslöffeln Olivenöl sowie dem Saft einer Zitrone in eine Salatschüssel. Schneidet das Gemüse und die halbe Orange in Würfel und hebt es zusammen mit den vorbereiteten Linsen unter. Würzt Euren Linsensalat mit den Kräutern und Gewürzen und lasst ihn anschließend ein paar Minuten ziehen.
 >
 > Guten Appetit!
 
