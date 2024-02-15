@@ -31,7 +31,7 @@ language: de
 
 ---
 
-Die Rabatt-Aktion ist zwar am 23.12. 2023 abgelaufen, aber mit dem Gutescheincode **Anne25** erhaltet Ihr 25 Prozent Rabatt auf alle Produkte von MORIDCARE!
+Die Rabatt-Aktion ist zwar am 23.12. 2023 abgelaufen, aber mit dem Gutescheincode **Anne25** erhaltet Ihr 25 Prozent Rabatt auf alle Produkte von MORICARE!
 
 ---
 
