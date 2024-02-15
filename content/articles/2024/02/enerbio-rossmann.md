@@ -1,7 +1,7 @@
 ---
 date: 2024-02-15T09:30:12.086Z
 slug: enerbio-rossmann
-typeName:
+typeName: Produkttest
 title: 'EnerBio by Rossmann'
 subTitle: 'Meine veganen Lieblingsprodukte'
 seoTitle: 'EnerBio Rossmann – Lieblingsprodukte vegan und lecker'

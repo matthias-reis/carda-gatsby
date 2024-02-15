@@ -1,7 +1,7 @@
 ---
 date: 2024-02-08T09:30:12.086Z
 slug: nachhaltige-handyhüllen-mmore
-typeName:
+typeName: Produkttest
 title: 'Handyhüllen aus Lavendel, Holz und Stein'
 subTitle: 'MMORE macht es anders und zeigt, wie nachhaltige Handyhüllen gehen'
 seoTitle: 'Nachhaltige Handyhüllen – MMORE zeigt wie es wirklich geht'
