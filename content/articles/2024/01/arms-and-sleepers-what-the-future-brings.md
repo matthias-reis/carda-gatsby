@@ -26,7 +26,7 @@ focusKeyword: Arms and Sleepers – "What Tomorrow Brings"
 advertisement: false
 affiliate: false
 language: de
-languageLink: /2024/01/arms-and-sleepers-what-the-future-brings-en/
+languageLink: /2024/01/arms-and-sleepers-what-tomorrow-brings-en/
 ---
 
 **"What Tomorrow Brings" – Arms and Sleepers ist mit der Frage nach der Ungewissheit der Zukunft zurück und liefert gleich zu Beginn des Jahres ein sensationelles Album ab. Offiziell wird es am 1. März erscheinen, doch ich habe es bereits gehört, die Highlights aufgelistet und Euch einen ersten Vorgeschmack in Form von zwei Vorauskopplungen mitgebracht.**
