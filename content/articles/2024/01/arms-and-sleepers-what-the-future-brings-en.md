@@ -1,6 +1,6 @@
 ---
 date: 2024-01-05T15:00:00.766Z
-slug: arms-and-sleepers-what-the-future-brings-en
+slug: arms-and-sleepers-what-tomorrow-brings-en
 typeName: Preview
 title: 'Arms and Sleepers – "What Tomorrow Brings"'
 subTitle: Musically Precise Memories and Future Perspectives
@@ -53,7 +53,7 @@ The titles "Innocence", "Melancholy", "Rupture", and "Reflection" mark the four 
 
 ## Our longing for decades of the past and future
 
-![Arms and Sleepers – "What The Future Brings"](https://storage.googleapis.com/cardamonchai-media/2024-01-05/arms-and-sleepers-what-the-future-brings-vinyl-jpg-imagine-181818_413327_1024_768/640.webp 'Arms and Sleepers – "What The Future Brings"')
+![Arms and Sleepers – "What Tomorrow Brings"](https://storage.googleapis.com/cardamonchai-media/2024-01-05/arms-and-sleepers-what-the-future-brings-vinyl-jpg-imagine-181818_413327_1024_768/640.webp 'Arms and Sleepers – "What Tomorrow Brings"')
 
 Fans of projects like Caspian, Mogwai, Morcheeba, DJ Krush, Portishead, Nightmares on Wax, and Moloko are sure to enjoy this incredible work of art, which holds up a mirror to our times in a transparent yet playful way. The clear accents in the direction of jazz and post-rock emphasise the longing we all yearn for club nights in times of harmony—in decades long past and in those yet to come.
 
@@ -78,6 +78,8 @@ The musician told Pelagic about the second pre-coupling, which I'm including her
 > "'Blood Song' was actually one of the first song ideas I had for the new record, dating back to summer 2021 when I was working on my previous album, 'Former Kingdoms'. I left it as a demo to use later on, and its slightly more upbeat and aggressive vibe worked perfectly for Side C of the new album, which is more explosive than the rest of the record.
 >
 > The piece was much more subdued before I asked Andreas Schütz (aka Pierre Navarron of il:lo, who is also responsible for mixing the new album) to collaborate on this track. He provided a much-needed breath of fresh air into the song with improved drum programming and synth layering. Like the rest of the album's Side C tracks, 'Blood Song' deals with the negative and traumatic aspects of my life's journey, a sort of a breaking point in my emotions."
+
+[Click here to read my interview about the new Arms and Sleepers Album, "What Tomorrow Brings" in its entirety](https://soundsvegan.com/2024/02/arms-and-sleepers-interview/)!
 
 ## Arms and Sleepers – "Blood Song"
 

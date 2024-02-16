@@ -1,11 +1,11 @@
 ---
 date: 2024-01-05T15:00:00.766Z
-slug: arms-and-sleepers-what-the-future-brings
+slug: arms-and-sleepers-what-tomorrow-brings
 typeName: Preview
 title: 'Arms and Sleepers – "What Tomorrow Brings"'
 subTitle: Musikalische Erinnerungen und Ausblicke
 seoTitle: Arms and Sleepers – "What Tomorrow Brings" – Preview
-description: 'Arms and Sleepers aka Mirza Ramic hat sein neues Album "What The Future Brings" fertig. Hört hier direkt rein und holt Euch spannende Details zur Platte!'
+description: 'Arms and Sleepers aka Mirza Ramic hat sein neues Album "What Tomorrow Brings" fertig. Hört hier direkt rein und holt Euch spannende Details zur Platte!'
 excerpt: '"What Tomorrow Brings" – Arms and Sleepers ist mit der Frage nach der Ungewissheit der Zukunft zurück und liefert gleich zu Beginn des Jahres ein sensationelles Album ab. Offiziell wird es am 1. März erscheinen. Ihr bekommt heute hier schon einen Vorgeschmack und spannende Details zur Platte!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-05/arms-and-sleepers-what-the-future-brings-jpg-imagine-585858_7b7b7b_1024_768/640.webp
 copyright: 'Arms and Sleepers'
@@ -53,7 +53,7 @@ Die Titel "Innocence", "Melancholy", "Rupture" und "Reflection" markieren die vi
 
 ## Unsere Sehnsucht nach Dekaden der Vergangenheit und Zukunft
 
-![Arms and Sleepers – "What The Future Brings"](https://storage.googleapis.com/cardamonchai-media/2024-01-05/arms-and-sleepers-what-the-future-brings-vinyl-jpg-imagine-181818_413327_1024_768/640.webp 'Arms and Sleepers – "What The Future Brings"')
+![Arms and Sleepers – "What Tomorrow Brings"](https://storage.googleapis.com/cardamonchai-media/2024-01-05/arms-and-sleepers-what-the-future-brings-vinyl-jpg-imagine-181818_413327_1024_768/640.webp 'Arms and Sleepers – "What Tomorrow Brings"')
 
 Fans von Projekten wie Caspian, Mogwai, Morcheeba, DJ Krush, Portishead, Nightmares on Wax und Moloko dürften ihre Freude haben an diesem wunderbaren Kunstwerk, das unserer Zeit auf transparente und zugleich verspielte Art den Spiegel vorhält. Die deutlichen Akzente in Richtung Jazz und Post-Rock verdeutlichen dabei die Sehnsucht mit der wir uns alle Abende in Zeiten der Harmonie herbeisehnen – in längst vergangenen Dekaden und in jeden, die erst noch kommen werden.
 
@@ -78,6 +78,8 @@ Wenn Ihr Euch die Zeit nehmt, "It's Easy" und später das komplette Album anzuh�
 > "Bei 'Blood Song' handelt es sich tatsächlich um eine der ersten Song-Ideen, die ich im Sommer 2021 hatte, als ich noch an der Vorgänger-Platte "Former Kingdoms" gearbeitet habe. Ich habe mir die Demo dann für später aufgehoben. Sie hebt sich mit ihrem etwas aggressiveren Upbeat-Sound ein bisschen vom Rest der LP ab – perfekt für die C-Seite, die ich insgesamt explosiver gestaltet habe, als den Rest.
 >
 > Das Stück war viel gedämpfter, bevor ich Andreas Schütz (alias Pierre Navarron von il:lo, der auch für den Mix des neuen Albums verantwortlich ist) bat, daran mitzuarbeiten. Er brachte mit verbessertem Drum-Programming und Synthesizer-Layering den dringend benötigten frischen Wind in den Song. Genau, wie die anderen Tracks auf der C-Seite handelt auch "Blood Song" von den negativen und traumatischen Aspekten meiner Lebensreise – einer Art Bruchstelle in meinen Gefühlen."
+
+[Lest hier mein komplettes Interview mit Mirza zum neuen Arms and Sleepers Album "What Tomorrow Brings"](https://soundsvegan.com/2024/02/arms-and-sleepers-interview/).
 
 ## Arms and Sleepers – "Blood Song"
 
