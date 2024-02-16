@@ -79,7 +79,7 @@ Wenn Ihr Euch die Zeit nehmt, "It's Easy" und später das komplette Album anzuh�
 >
 > Das Stück war viel gedämpfter, bevor ich Andreas Schütz (alias Pierre Navarron von il:lo, der auch für den Mix des neuen Albums verantwortlich ist) bat, daran mitzuarbeiten. Er brachte mit verbessertem Drum-Programming und Synthesizer-Layering den dringend benötigten frischen Wind in den Song. Genau, wie die anderen Tracks auf der C-Seite handelt auch "Blood Song" von den negativen und traumatischen Aspekten meiner Lebensreise – einer Art Bruchstelle in meinen Gefühlen."
 
-[Lest hier mein komplettes Interview mit Mirza zum neuen Arms and Sleepers Album "What Tomorrow Brings"](https://soundsvegan.com/2024/02/arms-and-sleepers-interview/).
+[Lest hier mein komplettes Interview mit Mirza zum neuen Arms and Sleepers Album "What Tomorrow Brings"](/2024/02/arms-and-sleepers-interview/).
 
 ## Arms and Sleepers – "Blood Song"
 

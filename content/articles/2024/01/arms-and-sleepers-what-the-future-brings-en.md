@@ -79,7 +79,7 @@ The musician told Pelagic about the second pre-coupling, which I'm including her
 >
 > The piece was much more subdued before I asked Andreas Schütz (aka Pierre Navarron of il:lo, who is also responsible for mixing the new album) to collaborate on this track. He provided a much-needed breath of fresh air into the song with improved drum programming and synth layering. Like the rest of the album's Side C tracks, 'Blood Song' deals with the negative and traumatic aspects of my life's journey, a sort of a breaking point in my emotions."
 
-[Click here to read my interview about the new Arms and Sleepers Album, "What Tomorrow Brings" in its entirety](https://soundsvegan.com/2024/02/arms-and-sleepers-interview/)!
+[Click here to read my interview about the new Arms and Sleepers Album, "What Tomorrow Brings" in its entirety](/2024/02/arms-and-sleepers-interview/)!
 
 ## Arms and Sleepers – "Blood Song"
 
