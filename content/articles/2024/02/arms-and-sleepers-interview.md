@@ -26,7 +26,7 @@ language: de
 languageLink: /2024/02/arms-and-sleepers-interview-en/
 ---
 
-**Vor kurzem habe ich meine Rezension des neuen Arms and Sleepers Albums "What Tomorrow Brings" hier auf Sounds Vegan veröffentlicht. Es sind nur noch wenige Tage bis zur Veröffentlichung am 1. März, und ich bin mir sicher, dass ihr es schon sehnlichst erwartet! Um Euch die Wartezeit ein wenig zu versüßen, teile ich heute mein Interview mit Mirza Ramic in voller Länge mit Euch. Der Künstler hinter Arms and Sleepers hat mir viele spannende Details über das Album, sein Leben und seine neue Zusammenarbeit mit dem Berliner Label Pelagic Records verraten.**
+**Vor Kurzem habe ich meine Rezension des neuen Arms and Sleepers Albums "What Tomorrow Brings" hier auf Sounds Vegan veröffentlicht. Es sind nur noch wenige Tage bis zur Veröffentlichung am 1. März, und ich bin mir sicher, dass ihr es schon sehnlichst erwartet! Um Euch die Wartezeit ein wenig zu versüßen, teile ich heute mein Interview mit Mirza Ramic in voller Länge mit Euch. Der Künstler hinter Arms and Sleepers hat mir viele spannende Details über das Album, sein Leben und seine neue Zusammenarbeit mit dem Berliner Label Pelagic Records verraten.**
 
 **Anne:** Hi! Danke, dass Du Dir die Zeit nimmst! Wie geht es Dir heute? Wie kommst Du mit der Promo für Dein neues Album "What Tomorrow Brings" voran?
 
