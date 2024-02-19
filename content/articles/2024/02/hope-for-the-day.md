@@ -36,7 +36,7 @@ language: de
 
 ## Es ist okay, sich Hilfe zu suchen
 
-Es ist okay, mal einen schlechten Tag zu haben, an dem es einem nicht gut geht. Oder eine Woche. Oder ein paar Monate. Dass es Menschen so ergehen kann und es okay ist, sich Hilfe zu suchen, dafür möchte Hope for the Day[^1] Awareness schaffen – und bietet dabei aktiv Hilfe an.
+Es ist okay, mal einen schlechten Tag zu haben, an dem es einem nicht gut geht. Oder eine Woche. Oder ein paar Monate. Dass es Menschen so ergehen kann und es okay ist, sich Hilfe zu suchen, dafür möchte Hope for the Day[^1] Awareness schaffen – und bietet dabei Hilfe an.
 
 **Hinweis:** Unter den Bildern geht es weiter!
 
@@ -56,7 +56,7 @@ Dass Menschen nicht über ihre Schwierigkeiten sprechen, ist weit verbreitet. Ps
 
 In den US-Staaten ist einer von fünf Erwachsenen von einer psychischen Erkrankung betroffen. In der EU spricht man von einem von sechs. Das sind ganze 17,3 Prozent. Im Verlauf der Pandemie nahmen die Zahlen immer weiter zu und sind seither nicht gesunken. In den USA werden jedes Jahr über 700.000 Selbsttötungen gemeldet. In Deutschland waren es 2019 pro 100.000 Einwohner\*innen 12,3 Menschen, die sich das Leben nehmen, in Österreich 14,6, in der Schweiz 14,5, in Frankreich 13,8, in Schweden 14,7 und in Dänemark 10,7[^2]. Es wird davon ausgegangen, dass die Dunkelziffern weit höher sind.
 
-Hope for the Day hat sich vorgenommen, aktiv gegen diese erschreckenden Zahlen vorzugehen und mit Informationen und Vernetzung gegen die Einsamkeit und Ausgrenzung der Betroffenen vorzugehen. Dabei hilft unter anderem die sogenannte Outreach-Methode, die Euch vermutlich unter anderem auch schon aus der Vernetzung veganer Aktivist\*innen ein Begriff ist. Bei den Aktionen von H.F.T.D. beginnt die proaktive Suizidprävention mit einem persönlichen Gespräch. Die Hope for the Day Helfer\*innen warten nicht darauf, dass Menschen mit ihnen in Kontakt treten. Sie gehen aktiv an die Orte, an denen sich Menschen aufhalten und verbreiten ihre Informationen gezielt und machen sichtbar, was sich hinter verschlossenen Türen abspielt – gegen die Stigmatisierung und gegen das Schweigen.
+Hope for the Day hat sich vorgenommen, etwas gegen diese erschreckenden Zahlen zu tun und mit Informationen und Vernetzung gegen die Einsamkeit und Ausgrenzung der Betroffenen vorzugehen. Dabei hilft unter anderem die sogenannte Outreach-Methode, die Euch vermutlich unter anderem auch schon aus der Vernetzung veganer Aktivist\*innen ein Begriff ist. Bei den Aktionen von H.F.T.D. beginnt die proaktive Suizidprävention mit einem persönlichen Gespräch. Die Hope for the Day Helfer\*innen warten nicht darauf, dass Menschen mit ihnen in Kontakt treten. Sie gehen an die Orte, an denen sich Menschen aufhalten und verbreiten ihre Informationen gezielt und machen sichtbar, was sich hinter verschlossenen Türen abspielt – gegen die Stigmatisierung und gegen das Schweigen.
 
 Sie setzen primär auf eins: Verständnis. Wer sich mit Mental Health beschäftigt und darüber Bescheid weiß, was Betroffene durchmachen, hat ein offenes Ohr und gibt selbst Informationen weiter – das Wissen verbreitet sich. Von gleich gesinnten Unterstützer\*innen geleitete, klinisch gestützte Bildungsprogramme sorgen dafür, dass Individuen, Institutionen und Gemeinschaften proaktiv reagieren und Menschen mit psychischen Erkrankungen Hilfe und Unterstützung erhalten.
 
