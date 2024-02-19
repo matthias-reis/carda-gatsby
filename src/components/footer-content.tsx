@@ -29,7 +29,7 @@ export const FooterContent: React.FC = () => (
       <div>
         <H3Deco>Newsletter</H3Deco>
         <p>
-          Dir gefällt, was ich schreibe und möchtest ab jetzt nichts mehr
+          Dir gefällt, was ich schreibe und Du möchtest ab jetzt nichts mehr
           verpassen? Hier kannst Du Dich zu meinem Newsletter anmelden.
         </p>
         <CTA
