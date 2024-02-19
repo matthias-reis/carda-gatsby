@@ -21,9 +21,9 @@ export const FooterContent: React.FC = () => (
       <div>
         <H3Deco>Motto</H3Deco>
         <p>
-          Sounds Vegan ist für mich zum Lebensmotto geworden. In meinem Blog
-          dreht sich alles um veganes Leben, Tierrechte, Klimaschutz und Musik –
-          vor allem Post-Rock & Co.
+          Sounds Vegan ist für ist für mich alles. Auf meiner Webseite dreht
+          sich alles um veganes Leben, Tierrechte, Klimaschutz und Musik – vor
+          allem Post-Rock & Co.
         </p>
       </div>
       <div>
