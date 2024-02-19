@@ -30,7 +30,7 @@ language: de
 
 ---
 
-**Von Hope for the Day habt Ihr vermutlich schon mal etwas gehört. Der wohl bekannteste Slogan der Foundation lautet "It's OK not to be OK" und genau darum geht es. Im Rahmen meiner Zusammenarbeit mit Impericon Band Merch möchte ich Euch heute mal zeigen, was dahintersteckt und in welchen Bereichen Hope for the Day wirkt und Menschen unterstützt. Natürlich ist dieser Artikel im Rahmen einer Kooperation entstanden. Ich möchte jedoch auch die Möglichkeit nutzen, mal zu zeigen, dass der Merch Shop auch gute Zwecke unterstützt und einen besonderen davon eine Bühne bieten.**
+**Von Hope for the Day habt Ihr vermutlich schon mal etwas gehört. Der wohl bekannteste Slogan der Foundation lautet "It's OK not to be OK" und genau darum geht es. Im Rahmen meiner Zusammenarbeit mit Impericon Band Merch möchte ich Euch heute mal zeigen, was dahintersteckt und in welchen Bereichen Hope for the Day wirkt und Menschen unterstützt. Natürlich ist dieser Artikel im Rahmen einer Kooperation entstanden. Ich möchte jedoch auch die Möglichkeit nutzen, mal zu zeigen, dass der Merch Shop auch gute Zwecke unterstützt und einem besonderen davon eine Bühne bieten.**
 
 "Hope for the Day" stand auf dem Rücken des T-Shirts von Deftones Sänger Chino Moreno, als ich ihn auf einem der für mich prägendsten Konzerte auf der Bühne sah. Was das bedeutet, darüber habe ich mich direkt nach der Heimreise vom Festival, auf dem das Konzert stattfand, informiert und ich fand heraus, dass es eine ziemlich lobenswerte Organisation ist.
 
