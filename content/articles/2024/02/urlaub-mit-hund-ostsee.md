@@ -32,7 +32,7 @@ affiliate: true
 language: de
 ---
 
-**Direkt am Meer oder am Waldrand Urlaub mit dem Hund machen – klingt das nicht nach einem Traum? Ich finde ja. Darum habe ich mich sehr über das Angebot von Hundemama Ferienhaus gefreut. Die Betreiberin der Webseite Tina Friedrich ermöglicht Hundemenschen ihre geliebten Vierbeiner mit ins Ferienhaus zu nehmen. Das Urlaub in an der Ostsee mit Hund steht also nichts mehr im Wege. In diesem Artikel stelle ich Euch Hundemama Ferienhaus und die Idee dahinter vor.**
+**Direkt am Meer oder am Waldrand Urlaub mit dem Hund machen – klingt das nicht nach einem Traum? Ich finde ja. Darum habe ich mich sehr über das Angebot von Hundemama Ferienhaus gefreut. Die Betreiberin der Webseite Tina Friedrich ermöglicht Hundemenschen ihre geliebten Vierbeiner mit ins Ferienhaus zu nehmen. Dem Urlaub in an der Ostsee mit Hund steht also nichts mehr im Wege. In diesem Artikel stelle ich Euch Hundemama Ferienhaus und die Idee dahinter vor.**
 
 Als Tina ihre Webseite gründete hatte sie einen Wunsch:
 
