@@ -46,7 +46,7 @@ Weil sie diesen Wunsch nicht nur sich selbst, sondern auch anderen Hundemenschen
 
 Bei Hundemama Ferienhaus findet Ihr tolle Objekte direkt am Wasser – teilweise sogar mit unverbautem Meerblick in Olpenitz bei Kappeln oder direkt am Waldrand mit nur 750 Metern bis zum Strand in Tinas Heimat Kellenhusen in der schönen Lübecker Bucht bei Grömitz an der Ostsee.
 
-Über eine Suchmaske gebt Ihr einfach an, wie viele Menschen (Erwachsene und Kinder) anreisen und schon werden Euch die Ferienwohnungen und -Häuser angezeigt, die zu Euren Wünschen passen. Eure lieben Wollknäule reisen dann einfach mit. Super, oder?
+Über eine Suchmaske gebt Ihr einfach an, wie viele Menschen (Erwachsene und Kinder) anreisen und schon werden Euch die Ferienwohnungen und Ferienhäuser angezeigt, die zu Euren Wünschen passen. Eure lieben Wollknäule reisen dann einfach mit. Super, oder?
 
 Wenn Ihr Euch zum Beispiel für eines der Häuser namens "Marina Villa" entscheidet, genießt Ihr Hafen- und Meerblick, Wellness und Entspannung. Euch stehen dort gleich drei Terrassen zur Verfügung. Zusätzlich zur Sauna mit Wirlpool und allem, was das Urlaubsherz sonst noch so begehrt.
 
