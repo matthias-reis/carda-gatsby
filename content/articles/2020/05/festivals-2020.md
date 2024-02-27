@@ -65,7 +65,7 @@ Man kann ein Festival nicht einfach um ein Jahr verschieben. Vor allem, wenn nic
 
 Darum habe ich vollstes Verständnis für alle Spendenaktionen, T-Shirt-Verkäufe und Kickstarter-Aktionen, die im Moment gerade anlaufen. Ich bin der festen Meinung: Wenn wir in Zukunft Kultur haben wollen, dann müssen wir sie pflegen. Wir müssen uns darum kümmern und diejenigen, die daran mitwirken, dass wir sie genießen können, mit aller Kraft, die wir zur Verfügung haben, unterstützen.
 
-Mein Aufruf lautet daher: Leute, kauft Musik! Die meisten Bands produzieren im Moment eine Single nach der anderen. Meldet Euch bei Newslettern an, lest die Zines und Kommentarspalten und bestellt Euch Platten, CDs, Kassetten, Digipacks Poster und T-Shirts.
+Mein Aufruf lautet daher: Leute, kauft Musik! Die meisten Bands produzieren im Moment eine Single nach der anderen. Meldet Euch bei Newslettern an, lest die Zines und Kommentarspalten und bestellt Euch Platten, CDs, Kassetten, Digipaks Poster und T-Shirts.
 
 Besucht die Webseiten der Künstler\*innen und hinterlasst nette Kommentare, spendet für Eure Konzerthallen und fordert bitte das Geld nicht zurück, das Ihr für das Konzert, das nächste Woche stattfinden sollte, bezahlt habt. Ihr habt es doch sowieso schon ausgegeben.
 

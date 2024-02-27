@@ -102,7 +102,7 @@ Neben Magenta gibt es von Rob Reed und Christina Booth noch weitere interessante
 
 Im April 2015 arbeiteten Christina Booth und Rob Reed außerdem unter anderem gemeinsam mit David Longdon und Nick D'Virgilio von Big Big Train, Nick Beggs aus Steven Wilsons Band und Steve Hackett (ehem. Genesis) eine neuen Version von Hacketts Instrumentalstück "Spectral Mornings" aus dem Jahr 1979 aus. Die Einnahmen gingen an die Parkinson's Society UK.
 
-Das wunderbare Digipack mit CD, DVD und sensationellem Artwork könnt Ihr [hier bestellen](http://tigermothhosting.co.uk/magenta2017/index.html). Es ist auf 300 Exemplare limitiert. Schnell sein lohnt sich also. Auf der DVD findet Ihr Promo-Videos und einen Surround-Mix in 5.1 DTS und Dolby Digital.
+Das wunderbare Digipak mit CD, DVD und sensationellem Artwork könnt Ihr [hier bestellen](http://tigermothhosting.co.uk/magenta2017/index.html). Es ist auf 300 Exemplare limitiert. Schnell sein lohnt sich also. Auf der DVD findet Ihr Promo-Videos und einen Surround-Mix in 5.1 DTS und Dolby Digital.
 
 ## "Bela" von Magenta
 
