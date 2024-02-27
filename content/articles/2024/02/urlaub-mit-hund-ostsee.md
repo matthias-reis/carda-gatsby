@@ -44,7 +44,7 @@ Weil sie diesen Wunsch nicht nur sich selbst, sondern auch anderen Hundemenschen
 
 ![Urlaub mit Hund: Vally und ich am Meer.](https://storage.googleapis.com/cardamonchai-media/2024-02-27/2024-02-urlaub-mit-hund-vegan-com-1-jpg-imagine-e8d8d8_b1a7a6_683_1024/640.webp 'Urlaub mit Hund: Vally und ich am Meer.')
 
-Bei Hundemama Ferienhaus findet Ihr tolle Objekte direkt am Wasser – teilweise sogar mit unterbautem Meerblick in Olpenitz bei Kappeln oder direkt am Waldrand mit nur 750 Metern bis zum Strand in Tinas Heimat Kellenhusen in der schönen Lübecker Bucht bei Grömitz an der Ostsee.
+Bei Hundemama Ferienhaus findet Ihr tolle Objekte direkt am Wasser – teilweise sogar mit unverbautem Meerblick in Olpenitz bei Kappeln oder direkt am Waldrand mit nur 750 Metern bis zum Strand in Tinas Heimat Kellenhusen in der schönen Lübecker Bucht bei Grömitz an der Ostsee.
 
 Über eine Suchmaske gebt Ihr einfach an, wie viele Menschen (Erwachsene und Kinder) anreisen und schon werden Euch die Ferienwohnungen und -Häuser angezeigt, die zu Euren Wünschen passen. Eure lieben Wollknäule reisen dann einfach mit. Super, oder?
 
