@@ -56,7 +56,7 @@ Im "Marina Loft" erwartet Euch eine Penthouse-Wohnung mit Meerblick auf der Eine
 
 ![Urlaub mit Hund: Vally und ich am Meer.](https://storage.googleapis.com/cardamonchai-media/2024-02-27/2024-02-urlaub-mit-hund-vegan-com-2-jpg-imagine-d8d8d8_afb1ab_1024_683/640.webp 'Urlaub mit Hund: Vally und ich am Meer.')
 
-Die Häuser und Wohnungen, die Ihr bei Hundemama Ferienhaus mieten könnt, sind auf zwei bis sieben Personen ausgelegt. Im kleinsten Objekt können zwei bis vier Personen mit ihren Hunden übernachten, im größten vier bis sieben. Ihr könnt also, neben Euren Vierbeinern auch Eure Familie und Freunde mit in den Urlaub nehmen.
+Die Häuser und Wohnungen, die Ihr bei Hundemama Ferienhaus mieten könnt, sind auf zwei bis sieben Personen ausgelegt. Im kleinsten Objekt können zwei bis vier Personen mit ihren Hunden übernachten, im größten vier bis sieben. Ihr könnt also, neben Euren Vierbeinern auch Eure Familie und Freund\*innen mit in den Urlaub nehmen.
 
 Gemeinsam erholt Ihr Euch dann im Umkreis von Olpenitz und geht gemeinsam mit Euren Hunden auf Spurensuche. Neben zahlreichen Möglichkeiten und Spazierengehen und Einkehren, findet Ihr vor Ort Hundestrände sowie die Möglichkeit Eurer (Wind-)surf und Kyte-Leidenschaft nachzugehen. Auch Ostseeschwimmer\*innen kommen voll auf Ihre Kosten – die Bademöglichkeiten sind zahlreich und sehr attraktiv. Die Anreise klappt klimafreundlich mit der Bahn.
 
