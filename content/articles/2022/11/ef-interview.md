@@ -30,7 +30,7 @@ languageLink: /2022/11/ef-interview-en/
 
 ---
 
-**TW:** Depressionen, Drogen
+**CW:** Depressionen, Drogen
 
 ---
 

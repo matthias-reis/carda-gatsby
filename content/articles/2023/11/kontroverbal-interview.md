@@ -32,7 +32,7 @@ language: de
 
 ---
 
-**TW:** Rassismus, Sexismus, Hass, Übergriffe und sexueller Missbrauch, Ramm\*\*\*\*n, toxische Beziehungen, Love Bombing, Mobbing, Misogynie
+**CW:** Rassismus, Sexismus, Hass, Übergriffe und sexueller Missbrauch, Ramm\*\*\*\*n, toxische Beziehungen, Love Bombing, Mobbing, Misogynie
 
 ---
 

@@ -36,7 +36,7 @@ languageLink: /2021/10/arvensis-do-no-harm-interview/
 
 ---
 
-**TW:** Mental health, anxiety, self-harm
+**CW:** Mental health, anxiety, self-harm
 
 ---
 

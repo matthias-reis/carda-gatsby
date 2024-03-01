@@ -36,7 +36,7 @@ languageLink: /2021/10/arvensis-do-no-harm-interview-en/
 
 ---
 
-**TW:** Psychische Gesundheit, Angst, Selbstverletzung
+**CW:** Psychische Gesundheit, Angst, Selbstverletzung
 
 ---
 

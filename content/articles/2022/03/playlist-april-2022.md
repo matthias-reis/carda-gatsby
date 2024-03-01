@@ -45,7 +45,7 @@ language: de
 
 ---
 
-**TW:** Drogen, Tod, Überdosis, Heroin
+**CW:** Drogen, Tod, Überdosis, Heroin
 
 ---
 

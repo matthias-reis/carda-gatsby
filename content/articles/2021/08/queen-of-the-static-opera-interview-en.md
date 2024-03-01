@@ -40,7 +40,7 @@ languageLink: /2021/08/queen-of-the-static-opera-interview/
 
 ---
 
-**TW:** Sexual, physical and psychical violence, molestation, rape, PTSD, anxiety
+**CW:** Sexual, physical and psychical violence, molestation, rape, PTSD, anxiety
 
 ---
 

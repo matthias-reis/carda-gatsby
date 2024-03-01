@@ -29,7 +29,7 @@ language: de
 
 ---
 
-**TW:** Angst, Trauma, Flucht, Tod, COVID-19
+**CW:** Angst, Trauma, Flucht, Tod, COVID-19
 
 ---
 

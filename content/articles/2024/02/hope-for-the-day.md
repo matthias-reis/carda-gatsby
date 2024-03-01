@@ -26,7 +26,7 @@ affiliate: true
 language: de
 ---
 
-**TW:** Psychische Erkrankungen, Selbsttötung, Sucht, Mental Health
+**CW:** Psychische Erkrankungen, Selbsttötung, Sucht, Mental Health
 
 ---
 

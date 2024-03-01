@@ -36,7 +36,7 @@ language: de
 
 ---
 
-**TW:** Sexuelle und körperliche Gewalt, Geburt, Trennung, Schmerzen, Trauer
+**CW:** Sexuelle und körperliche Gewalt, Geburt, Trennung, Schmerzen, Trauer
 
 ---
 

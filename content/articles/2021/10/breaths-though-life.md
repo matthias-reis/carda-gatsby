@@ -34,7 +34,7 @@ languageLink: /2021/10/breaths-though-life-en/
 
 ---
 
-**TW:** Trauer, Mobbing, Tod, Selbstzweifel, Sucht
+**CW:** Trauer, Mobbing, Tod, Selbstzweifel, Sucht
 
 ---
 

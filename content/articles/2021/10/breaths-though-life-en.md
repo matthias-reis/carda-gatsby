@@ -34,7 +34,7 @@ languageLink: /2021/10/breaths-though-life/
 
 ---
 
-**TW:** Grief, bullying, death, self-doubt, addiction
+**CW:** Grief, bullying, death, self-doubt, addiction
 
 ---
 
