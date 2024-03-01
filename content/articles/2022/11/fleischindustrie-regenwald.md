@@ -7,7 +7,7 @@ subTitle: Neuer Bericht zur Urwald-Zerstörung durch Soja-Anbau
 seoTitle: Darum zerstört die Fleischindustrie den Regenwald
 description: Die Fleischindustrie zerstört den Regenwald. Hier erfahrt Ihr alles über die neueste Studie, aus der unter anderem hervorgeht, dass der Anbau von Soja als Futtermittel die Umwelt zerstört und Menschen Tieren den Lebensraum nimmt.
 excerpt: 'Ein neuer Bericht befördert die traurige Tatsache jetzt erneut ans Tageslicht: Fleisch zerstört den Regenwald. Oder genauer ausgedrückt: Durch den Anbau von Futter-Soja für die Fleischindustrie wird der Regenwald zerstört.'
-image: https://storage.googleapis.com/cardamonchai-media/2022-11-08/fleischindustrie-regenwald-jpeg-imagine-182808_606f4e_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2024-03-01/studie-luftverschmutzung-suizidraten-soundsvegan-com-jpg-imagine-c8c8c8_989898_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-08/fleischindustrie-regenwald-fb-jpeg-imagine-182808_61714e_1200_628/640.webp
 labels:
   - Regenwald
