@@ -7,8 +7,8 @@ subTitle: 'Studie in China ruft Politik zu Klimaschutz auf'
 seoTitle: 'Luftverschmutzung – Suzidraten sinken, wenn sie verschwindet'
 description: 'Luftverschmutzung – Suizidraten steigen an, wenn sie wächst und sinken, wenn sie verschwindet. Lest hier alles zur aktuellen, bahnbrechenden Studie.'
 excerpt: 'Luftverschmutzung, Suizidraten und die Zusammenhänge – das haben Forschende nun endlich genau untersucht und sind zu einem bahnbrechenende Ergebnis gekommen, das die Politik zum Umdenken bringen sollte. Unzählige Menschenleben könnten jährlich allein dadurch gerettet werden, dass wir weniger Umweltgifte in die Atmosphäre pusten. Lest hier alles zur Studie.'
-image: https://storage.googleapis.com/cardamonchai-media/2024-03-01/2016-12-13-elbe-altona-hafen-hamburg-soundsvegan-com-jpg-imagine-c8c8c8_959595_4417_2945/640.webp
-copyright: 'Velcros'
+image: https://storage.googleapis.com/cardamonchai-media/2024-03-01/studie-luftverschmutzung-suizidraten-soundsvegan-com-jpg-imagine-c8c8c8_989898_1024_768/640.webp
+copyright:
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-03-01/studie-luftverschmutzung-suizidraten-soundsvegan-com-og-jpg-imagine-c8c8c8_999999_1200_628/640.webp
 labels:
   - Klimakatastrophe
