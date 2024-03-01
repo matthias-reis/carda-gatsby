@@ -28,7 +28,7 @@ language: de
 languageLink:
 ---
 
-**Forschende in den Vereinigten Staaten und China haben einen Zusammenhang zwischen Luftverschmutzung und Suizidraten erkannt, der dazu anregt, das Thema noch mal ganz neu zu überdenken. Durch die Bemühungen Chinas zur Verringerung der Luftverschmutzung konnten im Land Schätzungen der Wissenschaftler\*innen zufolge in nur fünf Jahren 46.000 Suizide verhindert werden. Das Forschungsteam nutzte die Wetterbedingungen, unklare Faktoren, die sich auf die Luftverschmutzung und die Suizidraten auswirken, herauszufiltern. Dabei gelangte es zu einem [Zitat] "echten kausalen Zusammenhang".**
+**Forschende in den Vereinigten Staaten und China haben einen Zusammenhang zwischen Luftverschmutzung und Suizidraten erkannt, der dazu anregt, das Thema noch mal ganz neu zu überdenken. Durch die Bemühungen Chinas zur Verringerung der Luftverschmutzung konnten im Land Schätzungen der Wissenschaftler\*innen zufolge in nur fünf Jahren 46.000 Suizide verhindert werden. Das Forschungsteam nutzte die Wetterbedingungen, unklare Faktoren, die sich auf die Luftverschmutzung und die Suizidraten auswirken, herauszufiltern. Dabei gelangte es zu einem "echten kausalen Zusammenhang".**
 
 ---
 
