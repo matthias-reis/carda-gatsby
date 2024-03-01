@@ -5,12 +5,8 @@ typeName: Beitrag
 title: Die Fleischindustrie zerstört den Regenwald
 subTitle: Neuer Bericht zur Urwald-Zerstörung durch Soja-Anbau
 seoTitle: Darum zerstört die Fleischindustrie den Regenwald
-description: Die Fleischindustrie zerstört den Regenwald. Hier erfahrt Ihr alles
-  über die neueste Studie.
-excerpt: "Ein neuer Bericht befördert die traurige Tatsache jetzt erneut ans
-  Tageslicht: Fleisch zerstört den Regenwald. Oder genauer ausgedrückt: Durch
-  den Anbau von Futter-Soja für die Fleischindustrie wird der Regenwald
-  zerstört."
+description: Die Fleischindustrie zerstört den Regenwald. Hier erfahrt Ihr alles über die neueste Studie, aus der unter anderem hervorgeht, dass der Anbau von Soja als Futtermittel die Umwelt zerstört und Menschen Tieren den Lebensraum nimmt.
+excerpt: 'Ein neuer Bericht befördert die traurige Tatsache jetzt erneut ans Tageslicht: Fleisch zerstört den Regenwald. Oder genauer ausgedrückt: Durch den Anbau von Futter-Soja für die Fleischindustrie wird der Regenwald zerstört.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-11-08/fleischindustrie-regenwald-jpeg-imagine-182808_606f4e_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-08/fleischindustrie-regenwald-fb-jpeg-imagine-182808_61714e_1200_628/640.webp
 labels:
@@ -31,13 +27,14 @@ advertisement: false
 affiliate: false
 language: de
 ---
+
 **Ein neuer Bericht befördert die traurige Tatsache jetzt erneut ans Tageslicht: Fleisch zerstört den Regenwald. Oder genauer ausgedrückt: Durch den Anbau von Futter-Soja für die Fleischindustrie wird der Regenwald zerstört.**
 
 Das von IOP Science[^1] veröffentlichte Paper kommt zu dem Schluss, dass die Zusagen, die Abholzung von Waldgebieten im Amazonasgebiet herunterzufahren, fast nichts bewirkt haben. Die flächendeckende Rodung zur Schaffung von Ackerflächen für die Futtergewinnung für Rinder, Schweine und andere Tiere in der Landwirtschaft schreitet weiter ungebremst voran.
 
 ## Die Zerstörung des Regenwaldes geht weiter
 
-Trotz der weltweiten Bemühungen geht der Waldverlust weiter. Täglich fallen weitere Gebiete den Sägen zum Opfer. Zwar hätte die Verpflichtung von Unternehmen zur Vermeidung von Entwaldung in ihren Lieferketten in sogenannten Supply Chain Commitments (ZDC) das Potenzial, die Entwaldung zumindest etwas einzudämmen, diese sind jedoch auf bestimmte Standorte und Lieferketten beschränkt. 
+Trotz der weltweiten Bemühungen geht der Waldverlust weiter. Täglich fallen weitere Gebiete den Sägen zum Opfer. Zwar hätte die Verpflichtung von Unternehmen zur Vermeidung von Entwaldung in ihren Lieferketten in sogenannten Supply Chain Commitments (ZDC) das Potenzial, die Entwaldung zumindest etwas einzudämmen, diese sind jedoch auf bestimmte Standorte und Lieferketten beschränkt.
 
 Vor allem, da es in Brasilien bislang keine staatliche Forstverwaltung gibt, wäre dieser Hebel jedoch besonders wichtig. Die Commitments können jedoch beim derzeitigen Tempo kaum etwas für den Schutz der biodiversen Ökosysteme ausrichten. Die Bemühungen in diese Richtung kommen schlichtweg zu spät und die Verfahren zur Einführung sind zu kompliziert, um sofort etwas zu bewirken.
 
@@ -53,7 +50,7 @@ Hätten die Unternehmen im Cerrado ihre ZDCs mit der gleichen relativen Wirksamk
 
 ## "Die Mächtigen dieser Welt müssen sich endlich einmischen"
 
-Durch die unvollständige Einführung der ZDC bleiben jedoch mehr als 50 Prozent der für den Sojaanbau geeigneten Wälder und die in ihnen lebenden Tiere außerhalb ihrer Reichweite. 
+Durch die unvollständige Einführung der ZDC bleiben jedoch mehr als 50 Prozent der für den Sojaanbau geeigneten Wälder und die in ihnen lebenden Tiere außerhalb ihrer Reichweite.
 
 Im Abstract ihres Papers schreiben die Forschenden
 
