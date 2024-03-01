@@ -2,7 +2,7 @@
 date: 2024-02-27T16:50:00.766Z
 slug: asc-loss
 typeName: Preview
-title: 'ASC - "Loss"'
+title: 'ASC – "Loss"'
 subTitle: 'Das neueste Ausnahmealbum auf Past Inside The Present'
 seoTitle: 'ASC – "Loss" – Ambient Music Preview'
 description: '"Loss" von ASC erscheint morgen auf Past Inside The Present – Zeit für eine Preview zu diesem fantastischen Album. Hören lohnt sich sehr – so viel verrate ich schon mal. Außerdem habe ich ein paar spannende Details für Euch!'
