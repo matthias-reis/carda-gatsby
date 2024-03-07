@@ -63,7 +63,7 @@ Außerdem könnt Ihr die Edelstahlschüssel auch zum Einweichen von Reis verwend
 
 Besonders gefreut habe ich mich über das Reiskocher Kochbuch. Es enthält 24 vegane und vegetarische Rezepte für das Kochen mit dem digitalen Reiskocher. Sie gelingen auch mit der [größeren Variante des Reiskochers von Reishunger](https://www.reishunger.de/produkt/1376/digitaler-reiskocher/?a_aid=65d37356aeb91) und bieten auch mir, als Person, die seit sie denken kann, jede Woche mehrmals Reis zubereitet, zahlreiche neue Anregungen. Ihr findet darin auch die Reis-Wasser-Verhältnisse für die unterschiedlichsten Sorten sowie praktische Reiskocher-Basics.
 
-**Tipp:** Im [Starter Set von Reisliebe](https://www.reishunger.de/produkt/1891/digitaler-mini-reiskocher-starter-set/65d37356aeb91) sind ein digitaler Mini-Reiskocher, eine Waschschüssel für Reis sowie das Kochbuch enthalten.
+**Tipp:** Im [Starter Set von Reisliebe](https://www.reishunger.de/produkt/1891/digitaler-mini-reiskocher-starter-set/?a_aid=65d37356aeb91) sind ein digitaler Mini-Reiskocher, eine Waschschüssel für Reis sowie das Kochbuch enthalten.
 
 ## Die Reishunger Thai Curry Box
 
