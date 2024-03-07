@@ -29,6 +29,12 @@ language: de
 
 **Reishunger hat hier vor ein paar Tagen für ein Kochevent der ganz besonderen Art gesorgt. Wir hatten ein super leckeres Red Curry mit vielen frischen Zutaten – den Reis dazu gab es aus unserem nagelneuen Reishunger Reiskocher. Insgesamt war der Kochabend ein voller Erfolg. Wir kochen seitdem regelmäßig mit dem Gerät und auch der Reis von Reishunger ist seitdem aus unserer Küche nicht mehr wegzudenken – wir bereiten gefühlt alles damit zu.**
 
+---
+
+**Achtung Rabattcode!** Mit dem Rabattcode **soundsvegan** erhaltet Ihr satte 10 Prozent Rabatt auf Eure Bestellungen im Reishunger Onlineshop!
+
+---
+
 Reis ist schon immer eines meiner liebsten Lebensmittel – er ist so wunderbar vielseitig und die verschiedensten Sorten passen zu allem, was ich gerne esse. Ich befinde mich mit meiner Reisliebe in guter Gesellschaft: Die meisten Menschen lieben Reis und er ist zu Recht eines der beliebtesten Grundnahrungsmittel überhaupt. Auf den verschiedenen Kontinenten wird er auf die unterschiedlichsten Arten zubereitet und es gibt ihn in den unterschiedlichsten Farben und Geschmacksrichtungen.
 
 ## Reishunger = Reisliebe für alle!
