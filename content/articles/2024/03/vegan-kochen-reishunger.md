@@ -100,4 +100,6 @@ Kennt Ihr das auch? Ihr habt Eure Standard-Gerichte, die Ihr immer wieder kocht 
 
 Durch die praktischen Kochkits, die vielen Sorten, die im [Reishunger Shop](https://www.reishunger.de/?a_aid=65d37356aeb91) verfügbar sind und natürlich den grandiosen Reiskocher fällt es einem leicht, auch Gerichte zu zaubern und dabei auch mal zu experimentieren. Gerade auch das Kochen mit Rezepten macht mir seither wieder viel mehr Spaß und wir essen tatsächlich auch noch ein kleines bisschen abwechslungsreicher, seit wir diese tolle Ressource für Kochideen und Lebensmittel für uns entdeckt haben. Ich kann Euch Reishunger uneingeschränkt empfehlen und lege die Produkte allen ans Herz, die mehr Abwechslung und kulinarische Vielfalt in ihre Küche bringen möchten.
 
+Hier nochmal der Hinweis: Mit dem Rabattcode **soundsvegan** erhaltet Ihr satte 10 Prozent Rabatt auf Eure Bestellungen im Reishunger Onlineshop!
+
 <Gallery name="vegan-kochen-mit-reishunger-1" />
