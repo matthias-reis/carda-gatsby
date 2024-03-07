@@ -67,7 +67,7 @@ Besonders gefreut habe ich mich über das Reiskocher Kochbuch. Es enthält 24 ve
 
 ## Die Reishunger Thai Curry Box
 
-Verantwortlich für das bereits erwähnte leckere Red Curry ist die fünfteilige Reishunger Thai Curry Box. Enthalten sind neben dem Jasmin Reis für vier Portionen die Grundlage für ein Red sowie ein Green Curry ([Currypaste](Currypaste https://www.reishunger.de/suche/all/currypaste/?a_aid=65d37356aeb91)) sowie Bio-Kokosmilch, Kokosblütenzucker zum Abschmecken sowie eine praktische Rezeptkarte, mit der die Zubereitung ganz einfach gelingt.
+Verantwortlich für das bereits erwähnte leckere Red Curry ist die fünfteilige Reishunger Thai Curry Box. Enthalten sind neben dem Jasmin Reis für vier Portionen die Grundlage für ein Red sowie ein Green Curry ([Currypaste](https://www.reishunger.de/suche/all/currypaste/?a_aid=65d37356aeb91)!) sowie Bio-Kokosmilch, Kokosblütenzucker zum Abschmecken sowie eine praktische Rezeptkarte, mit der die Zubereitung ganz einfach gelingt.
 
 Die Thai Curry Box zum Selbermachen wurde gemeinsam mit Expert\*innen für thailändische Küche konzipiert und enthält Originalzutaten, die auch auf einem Food Market oder im Lokal zum Einsatz kommen. Der Geschmack ist – wenn Ihr die passenden frischen Zutaten verwendet – authentisch und bringt Euch die thailändische Küche näher. Wenn Ihr wie wir als Eiweißbeilage eine vegane Hähnchen-Alternative oder Tofu verwendet, wird Euer rotes und grünes Curry komplett vegan.
 
@@ -85,7 +85,7 @@ Enthalten sind jeweils 200 Gramm der folgenden Sorten:
 - [Bio Natur Reis](https://www.reishunger.de/produkt/496/bio-natur-reis/?a_aid=65d37356aeb91)
 - [Klebreis](https://www.reishunger.de/produkt/81/kleb-reis/?a_aid=65d37356aeb91)
 - [Sushi Reis](https://www.reishunger.de/produkt/36/sushi-reis/?a_aid=65d37356aeb91)
-- [Vollkorn Bio](Basmati Reis https://www.reishunger.de/produkt/387/vollkorn-bio-basmati-reis/?a_aid=65d37356aeb91)
+- [Vollkorn Bio Basmati Reis](https://www.reishunger.de/produkt/387/vollkorn-bio-basmati-reis/?a_aid=65d37356aeb91)
 - [Paella Reis](https://www.reishunger.de/produkt/82/paella-reis/?a_aid=65d37356aeb91)
 
 ## Fazit: Ein toller, vielseitiger Shop, der Lust aufs Kochen macht!
