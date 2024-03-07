@@ -75,7 +75,9 @@ Nach diesem Leitsatz handelt die Brand konsequent. Das bedeutet auch, dass alle 
 
 In den Bereichen, in denen das Gewicht laut Angabe von MORICARE gegen Glas sprach, entschied sich die Brand für recycelten Kunststoff aus dem Gelben Sack – auch bekannt als PCR. Die in der Beauty-Branche weitverbreitete Show-Verpackungen lehnt MORICARE ab – die Verpackungen sind daher bei gleichem Inhalt um bis zu 40 Prozent kleiner, als Ihr es von anderen Brands kennt. Die Verpackungsmaterialen bestehen insgesamt zum größten Teil aus Recyclingmaterial und Ihr könnt sie, sobald sie leer sind, wieder dem Recycling-Kreislauf zuführen. Derzeit arbeitet das Unternehmen daran, dass bald alle Verpackungen zu 100 Prozent aus recycelten Wertstoffen bestehen werden.
 
-MORICARE verpackt alle Cremes & Co. besonders edel in Gold und Rot. Wenn Ihr mehr wissen wollt, findet Ihr alle Infos auch im MORICARE Shop.
+MORICARE verpackt alle Cremes & Co. besonders edel in Gold und Rot. Wenn Ihr mehr wissen wollt, findet Ihr alle Infos auch im [MORICARE Shop](https://moricare4you.com/).
+
+_Holt Euch jetzt mit dem Gutescheincode **Anne25** 25 Prozent Rabatt auf alle Produkte von MORICARE!_
 
 ![MORICARE Hyaluron-Serum | large](https://storage.googleapis.com/cardamonchai-media/2023-12-07/moricare-anne-reis-soundsvegan-com-3-jpg-imagine-f80808_893d35_2048_1536/640.webp 'MORICARE Beauty-Produkt in rot-goldener Geschenkverpackung')
 
