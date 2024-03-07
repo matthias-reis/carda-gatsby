@@ -43,7 +43,7 @@ Das nicht nur beliebteste, sondern auch vielseitigste Sättigungsmittel der Erde
 
 ## Der digitale Mini Reiskocher
 
-Der [digitale Mini Reiskocher von Reishunger](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F1422%2Fdigitaler-mini-reiskocher) hat mich auf ganzer Linie überzeugt. Lasst Euch nicht vom Wort "Mini" abschrecken. Er reicht Euch locker für sechs kleine oder drei große (z. B. für Bratreis!) Portionen Reis und hat auch sonst einiges drauf – ein echtes Powerbündel! Ihr könnt aus acht verschiedenen Modi für Reis und One-Pot-Gerichte auswählen und neben Reis auch andere Getreidearten sowie gedämpftes Gemüse im Kocher zubereiten. Die Bedienung ist sehr einfach und intuitiv. Ich habe mir die beiliegende Bedienungsanleitung zwar durchgelesen, wäre aber, denke ich, auch ohne klargekommen. Lesen lohnt sich dennoch – sie ist nicht nur super verständlich und detailliert geschrieben, sie enthält auch wertvolle Tipps!
+Der [digitale Mini Reiskocher von Reishunger](https://www.reishunger.de/produkt/1422/digitaler-mini-reiskocher/?a_aid=65d37356aeb91) hat mich auf ganzer Linie überzeugt. Lasst Euch nicht vom Wort "Mini" abschrecken. Er reicht Euch locker für sechs kleine oder drei große (z. B. für Bratreis!) Portionen Reis und hat auch sonst einiges drauf – ein echtes Powerbündel! Ihr könnt aus acht verschiedenen Modi für Reis und One-Pot-Gerichte auswählen und neben Reis auch andere Getreidearten sowie gedämpftes Gemüse im Kocher zubereiten. Die Bedienung ist sehr einfach und intuitiv. Ich habe mir die beiliegende Bedienungsanleitung zwar durchgelesen, wäre aber, denke ich, auch ohne klargekommen. Lesen lohnt sich dennoch – sie ist nicht nur super verständlich und detailliert geschrieben, sie enthält auch wertvolle Tipps!
 
 Beim ersten Einsatz haben wir, passend zum roten Curry, leckeren Jasmin Reis mit dem Reiskocher zubereitet – zum Curry komme ich später, den Reis konnten wir ganz einfach unter Zugabe von etwas Wasser (siehe Packung!) kochen. Nach 26 Minuten Garzeit hatten wir perfekten, fluffigen Jasmin Reis, der schmeckte, wie im Restaurant. Inzwischen haben wir auch braunen Reis, roten Reis sowie Roggen und Buchweizen mit dem digitalen Mini Reiskocher zubereitet – alles ist auf Anhieb gelungen und schmeckte uns vorzüglich.
 
@@ -53,7 +53,7 @@ Den kleinen Alleskönner, auch "Digi" genannt, könnt Ihr in vielen schönen Far
 
 ## Die Reishunger Waschschüssel
 
-Ärgert Ihr Euch auch immer, dass beim Reiswaschen so viel in der Spüle landet? Mit der [professionellen Reiswaschschüssel](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F1827%2Freis-waschschussel-edelstahl) passiert Euch das nicht mehr. Sie ist so konzipiert, dass Ihr den Reis ganz einfach waschen könnt, ohne, dass etwas davon verloren geht. Die feinen Sieblöcher sind nur auf einer Seite angebracht. So könnt Ihr den Reis wunderbar ausschwenken, wie in einer geschlossenen Schüssel und ihn anschließend bequem abgießen und direkt in Euren Reiskocher umfüllen.
+Ärgert Ihr Euch auch immer, dass beim Reiswaschen so viel in der Spüle landet? Mit der [professionellen Reiswaschschüssel](https://www.reishunger.de/produkt/1827/reis-waschschussel-edelstahl/?a_aid=65d37356aeb91) passiert Euch das nicht mehr. Sie ist so konzipiert, dass Ihr den Reis ganz einfach waschen könnt, ohne, dass etwas davon verloren geht. Die feinen Sieblöcher sind nur auf einer Seite angebracht. So könnt Ihr den Reis wunderbar ausschwenken, wie in einer geschlossenen Schüssel und ihn anschließend bequem abgießen und direkt in Euren Reiskocher umfüllen.
 
 Außerdem könnt Ihr die Edelstahlschüssel auch zum Einweichen von Reis verwenden – Bei einigen Sorten sorgt dieser zusätzliche Schritt dafür, dass Euer Reis noch besser gelingt. Gerade für diesen Zweck ist der rutschfeste Silikonfuß am unteren Rand der Schüssel ein praktisches Detail.
 
@@ -61,37 +61,37 @@ Außerdem könnt Ihr die Edelstahlschüssel auch zum Einweichen von Reis verwend
 
 ## Das Reiskocher Kochbuch
 
-Besonders gefreut habe ich mich über das Reiskocher Kochbuch. Es enthält 24 vegane und vegetarische Rezepte für das Kochen mit dem digitalen Reiskocher. Sie gelingen auch mit der [größeren Variante des Reiskochers von Reishunger](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F1376%2Fdigitaler-reiskocher) und bieten auch mir, als Person, die seit sie denken kann, jede Woche mehrmals Reis zubereitet, zahlreiche neue Anregungen. Ihr findet darin auch die Reis-Wasser-Verhältnisse für die unterschiedlichsten Sorten sowie praktische Reiskocher-Basics.
+Besonders gefreut habe ich mich über das Reiskocher Kochbuch. Es enthält 24 vegane und vegetarische Rezepte für das Kochen mit dem digitalen Reiskocher. Sie gelingen auch mit der [größeren Variante des Reiskochers von Reishunger](https://www.reishunger.de/produkt/1376/digitaler-reiskocher/?a_aid=65d37356aeb91) und bieten auch mir, als Person, die seit sie denken kann, jede Woche mehrmals Reis zubereitet, zahlreiche neue Anregungen. Ihr findet darin auch die Reis-Wasser-Verhältnisse für die unterschiedlichsten Sorten sowie praktische Reiskocher-Basics.
 
-**Tipp:** Im [Starter Set von Reisliebe](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F1891%2Fdigitaler-mini-reiskocher-starter-set) sind ein digitaler Mini-Reiskocher, eine Waschschüssel für Reis sowie das Kochbuch enthalten.
+**Tipp:** Im [Starter Set von Reisliebe](https://www.reishunger.de/produkt/1891/digitaler-mini-reiskocher-starter-set/65d37356aeb91) sind ein digitaler Mini-Reiskocher, eine Waschschüssel für Reis sowie das Kochbuch enthalten.
 
 ## Die Reishunger Thai Curry Box
 
-Verantwortlich für das bereits erwähnte leckere Red Curry ist die fünfteilige Reishunger Thai Curry Box. Enthalten sind neben dem Jasmin Reis für vier Portionen die Grundlage für ein Red sowie ein Green Curry ([Currypaste](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fsuche%2Fall%2Fcurrypaste)) sowie Bio-Kokosmilch, Kokosblütenzucker zum Abschmecken sowie eine praktische Rezeptkarte, mit der die Zubereitung ganz einfach gelingt.
+Verantwortlich für das bereits erwähnte leckere Red Curry ist die fünfteilige Reishunger Thai Curry Box. Enthalten sind neben dem Jasmin Reis für vier Portionen die Grundlage für ein Red sowie ein Green Curry ([Currypaste](Currypaste https://www.reishunger.de/suche/all/currypaste/?a_aid=65d37356aeb91)) sowie Bio-Kokosmilch, Kokosblütenzucker zum Abschmecken sowie eine praktische Rezeptkarte, mit der die Zubereitung ganz einfach gelingt.
 
 Die Thai Curry Box zum Selbermachen wurde gemeinsam mit Expert\*innen für thailändische Küche konzipiert und enthält Originalzutaten, die auch auf einem Food Market oder im Lokal zum Einsatz kommen. Der Geschmack ist – wenn Ihr die passenden frischen Zutaten verwendet – authentisch und bringt Euch die thailändische Küche näher. Wenn Ihr wie wir als Eiweißbeilage eine vegane Hähnchen-Alternative oder Tofu verwendet, wird Euer rotes und grünes Curry komplett vegan.
 
-**Tipp** Je länger Ihr Euer Curry kocht, umso schärfer wird es. Sollte Euch der Schärfegrad nach längerem Kochen nicht reichen, könnt Ihr noch eine frische Chilischote oder [Chiliflocken](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F875%2Fbio-chili-flocken) hinzufügen.
+**Tipp** Je länger Ihr Euer Curry kocht, umso schärfer wird es. Sollte Euch der Schärfegrad nach längerem Kochen nicht reichen, könnt Ihr noch eine frische Chilischote oder [Chiliflocken](https://www.reishunger.de/produkt/875/bio-chili-flocken/?a_aid=65d37356aeb91) hinzufügen.
 
 ## Finde Deinen Lieblingsreis
 
-Ein weiteres Highlight, das aus meinem Reishunger-Karton kletterte, ist die [Finde Deinen Lieblingsreis Box](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F1423%2Ffinde-deinen-lieblingsreis-set). Sie enthält die acht beliebtesten Reishunger Sorten in praktischen Kochportionen. So könnt Ihr besondere Reissorten und echte Klassiker kennenlernen und mit Euren Rezept-Kreationen kombinieren, wie es Euch beliebt.
+Ein weiteres Highlight, das aus meinem Reishunger-Karton kletterte, ist die [Finde Deinen Lieblingsreis Box](https://www.reishunger.de/produkt/1423/finde-deinen-lieblingsreis-set/?a_aid=65d37356aeb91). Sie enthält die acht beliebtesten Reishunger Sorten in praktischen Kochportionen. So könnt Ihr besondere Reissorten und echte Klassiker kennenlernen und mit Euren Rezept-Kreationen kombinieren, wie es Euch beliebt.
 
 Enthalten sind jeweils 200 Gramm der folgenden Sorten:
 
-- [Bio Basmati Reis](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F386%2Fbio-basmati-reis)
-- [Jasmin Reis](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F30%2Fjasmin-reis)
-- [Roter Bio Reis](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F107%2Froter-bio-reis)
-- [Bio Natur Reis](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F496%2Fbio-natur-reis)
-- [Klebreis](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F81%2Fkleb-reis)
-- [Sushi Reis](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F36%2Fsushi-reis)
-- [Vollkorn Bio Basmati Reis](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F387%2Fvollkorn-bio-basmati-reis)
-- [Paella Reis](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2Fprodukt%2F82%2Fpaella-reis)
+- [Bio Basmati Reis](https://www.reishunger.de/produkt/386/bio-basmati-reis/?a_aid=65d37356aeb91)
+- [Jasmin Reis](https://www.reishunger.de/produkt/30/jasmin-reis/?a_aid=65d37356aeb91)
+- [Roter Bio Reis](https://www.reishunger.de/produkt/107/roter-bio-reis/?a_aid=65d37356aeb91)
+- [Bio Natur Reis](https://www.reishunger.de/produkt/496/bio-natur-reis/?a_aid=65d37356aeb91)
+- [Klebreis](https://www.reishunger.de/produkt/81/kleb-reis/?a_aid=65d37356aeb91)
+- [Sushi Reis](https://www.reishunger.de/produkt/36/sushi-reis/?a_aid=65d37356aeb91)
+- [Vollkorn Bio](Basmati Reis https://www.reishunger.de/produkt/387/vollkorn-bio-basmati-reis/?a_aid=65d37356aeb91)
+- [Paella Reis](https://www.reishunger.de/produkt/82/paella-reis/?a_aid=65d37356aeb91)
 
 ## Fazit: Ein toller, vielseitiger Shop, der Lust aufs Kochen macht!
 
 Kennt Ihr das auch? Ihr habt Eure Standard-Gerichte, die Ihr immer wieder kocht und irgendwie fehlt Euch der Antrieb mal wieder etwas komplett Neues auszuprobieren – obwohl Ihr dazu nur eines der zahlreichen Kochbücher in die Hand nehmen müsstet, die im Küchenregal auf Euch warten. Was mir beim Ausprobieren der Produkte von Reishunger besonders gefallen hat, war die Lust am Kochen, die ich bei mir wieder ganz neu entdeckt habe. Obwohl ich Reis schon lange liebe und auch schon in unterschiedlichen Zubereitungsformen angerichtet habe, ist mir noch viel bewusster geworden, wie vielseitig dieses Lebensmittel ist und was man alles damit zaubern kann.
 
-Durch die praktischen Kochkits, die vielen Sorten, die im [Reishunger Shop](https://t.adcell.com/p/click?promoId=219780&slotId=80259&param0=https%3A%2F%2Fwww.reishunger.de%2F) verfügbar sind und natürlich den grandiosen Reiskocher fällt es einem leicht, auch Gerichte zu zaubern und dabei auch mal zu experimentieren. Gerade auch das Kochen mit Rezepten macht mir seither wieder viel mehr Spaß und wir essen tatsächlich auch noch ein kleines bisschen abwechslungsreicher, seit wir diese tolle Ressource für Kochideen und Lebensmittel für uns entdeckt haben. Ich kann Euch Reishunger uneingeschränkt empfehlen und lege die Produkte allen ans Herz, die mehr Abwechslung und kulinarische Vielfalt in ihre Küche bringen möchten.
+Durch die praktischen Kochkits, die vielen Sorten, die im [Reishunger Shop](https://www.reishunger.de/?a_aid=65d37356aeb91) verfügbar sind und natürlich den grandiosen Reiskocher fällt es einem leicht, auch Gerichte zu zaubern und dabei auch mal zu experimentieren. Gerade auch das Kochen mit Rezepten macht mir seither wieder viel mehr Spaß und wir essen tatsächlich auch noch ein kleines bisschen abwechslungsreicher, seit wir diese tolle Ressource für Kochideen und Lebensmittel für uns entdeckt haben. Ich kann Euch Reishunger uneingeschränkt empfehlen und lege die Produkte allen ans Herz, die mehr Abwechslung und kulinarische Vielfalt in ihre Küche bringen möchten.
 
 <Gallery name="vegan-kochen-mit-reishunger-1" />
