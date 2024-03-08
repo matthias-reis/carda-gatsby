@@ -3,8 +3,8 @@ date: 2024-03-08T11:00:00.766Z
 slug: thot-delta
 typeName: Preview
 title: 'Thot – "Delta"'
-subTitle: 'Thot veröffentlichen ihr neues Album auf Pelagic'
-seoTitle: 'Thot veröffentlichen ihr neues Album "Delta" auf Pelagic'
+subTitle: 'Thot veröffentlichen neues Album auf Pelagic'
+seoTitle: 'Thot veröffentlichen neues Album "Delta" auf Pelagic'
 description: 'Thot veröffentlichen ihr neues Album "Delta" auf Pelagic! Erfahrt hier alles über die sensationelle Fusion und das neue Thot Album!'
 excerpt: 'Thot veröffentlichen ihr neues Album "Delta" auf Pelagic! Es ist offiziell! Eine meiner Lieblingsbands schließt sich einem meiner Lieblingslabels an! In diesem Artikel erzähle ich Euch alles über die sensationelle Fusion der belgischen Band mit dem Kultlabel und die großartige Platte!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-08/thot-soundsvegan-com-jpg-imagine-080808_332033_1024_768/640.webp
@@ -23,7 +23,7 @@ labels:
   - Pelagic Records
   - Pelagic
   - Experimental
-focusKeyword: 'Thot veröffentlichen ihr neues Album auf Pelagic'
+focusKeyword: 'Thot veröffentlichen neues Album auf Pelagic'
 advertisement: false
 affiliate: false
 language: de
