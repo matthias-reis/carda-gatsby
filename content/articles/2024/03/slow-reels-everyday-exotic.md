@@ -1,5 +1,5 @@
 ---
-date: 2024-03-08T10:00:00.766Z
+date: 2024-03-20T10:00:00.766Z
 slug: slow-reels-everyday-exotic
 typeName: Preview
 title: 'Slow Reels – "Everyday Exotic"'
