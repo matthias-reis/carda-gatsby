@@ -76,7 +76,7 @@ Beim Probehören des Albums war mir sofort klar: Ich muss mehr über Velcros wis
 
 ## "Wir werden bald live zu sehen sein!"
 
-**Fabian:** Aktuell arbeiten wir unser Liveset aus und wollen im Laufe des Jahres mit unserer Bookingagentur pøj pøj die ersten Shows angehen. Mit Chris von Crazysane Records wird dann hoffentlich bei Gelegenheit auf das erste gemeinsame Release angestoßen. Und ansonsten bleiben wir fleißig – neue Songs für VELCROS sind in der Mache und mit meiner anderen Band AUA recorden wir gerade unser drittes Album. Uns wird auf jeden Fall nicht langweilig!
+**Fabian:** Aktuell arbeiten wir unser Liveset aus und wollen im Laufe des Jahres mit unserer Bookingagentur pøj pøj die ersten Shows angehen. Mit Chris von Crazysane Records wird dann hoffentlich bei Gelegenheit auch auf den ersten gemeinsame Release angestoßen. Und ansonsten bleiben wir fleißig – neue Songs für Velcros sind in der Mache und mit meiner anderen Band AUA recorden wir gerade unser drittes Album. Uns wird auf jeden Fall nicht langweilig!
 
 **Anne:** Wenn es etwas geben würde, das Ihr auf der Welt einfach so mit einem Fingerschnippen von heute auf morgen ändern könntet. Was wäre es und warum?
 
