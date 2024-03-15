@@ -1,5 +1,5 @@
 ---
-date: 2024-03-20T10:00:00.766Z
+date: 2024-03-15T10:00:00.766Z
 slug: slow-reels-everyday-exotic
 typeName: Preview
 title: 'Slow Reels – "Everyday Exotic"'
@@ -56,5 +56,7 @@ Die Harmonie und Feinfühligkeit ihrer Musik spiegelt die detailverliebte und pr
 Ebenso ganzheitlich fügt sich das Artwork in das Gesamtkunstwerk ein – beeinflusst von der Musik auf der Platte. Als Basis dafür diente ein Bild von James' Nymphensittich-Freundin Coco. Ein paar analoge Fotografie-Experiement und etwas Bearbeitung im quiet details studio später war es perfekt.
 
 Ihr könnt Euch "Everyday Exotic" als 6-Panel-Digipak inklusive Fine Art Print oder als CD besorgen. Die CD enthält einen wunderbaren Long-Form Continuous Mix des Album – laut James und Ian die neun Stücke in ihrer ursprünglichsten Form. Natürlich wird es das Album auch zum online Streamen geben. Hören lohnt sich sehr, merkt Euch das Datum!
+
+[Im Slow Reels Release-Newsletter findet Ihr alles Infos zum Album!](https://quietdetails.substack.com/p/coming-soon-qd15-slow-reels-ian-hawgood)!
 
 **Tipp:** Checkt am besten auch gleich die Musik weiterer Künstler\*innen aus der quiet details Serie wie [Anthéne](/2023/11/james-bernard-anthene-soft-octaves/) und [Zakè](/tag/zake)!
