@@ -46,7 +46,7 @@ Bei ihren Produkten lässt sich Kirstin Kaufmann von ihrem Drang, Gutes in die W
 
 Insgesamt gibt es inzwischen sage und schreibe 240 Produkte im PureRaw Shop – von Kräutern über Getränkepulver bis zu Snacks ist der Fantasie keine Grenzen gesetzt. Wenn Ihr Fragen zu den einzelnen Produkten habt, könnt Ihr das PureRaw Team jederzeit kontaktieren und erhaltet zeitnah eine umfassende Antwort. Informationen findet Ihr zudem im Newsletter sowie in den Publikationen zum Thema Ernährung, die Kirstin veröffentlicht. Ihr neuestes Buch heißt "Algen, das gesunde Gemüse aus dem Meer" und ist im Kosmos Verlag erschienen.
 
-Bei meinem Test habe ich die Erdmandeln, die Maulbeeren sowie das Vrappé (veganes Frappé ohne Zucker), RawKao She und das Amalaki ausprobiert.
+Bei meinem Test habe ich die Erdmandeln, die Maulbeeren sowie das Vrappé (veganer Frappé ohne Zucker), RawKao She und das Amalaki ausprobiert.
 
 ## 1. Erdmandeln
 
