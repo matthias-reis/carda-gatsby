@@ -6,7 +6,7 @@ title: 'Slow Reels – "Everyday Exotic"'
 subTitle: Experimental Ambient Sound from a Peaceful Parallel Universe
 seoTitle: 'Slow Reels – "Everyday Exotic" – Ambient Preview'
 description: 'Everyday Exotic" by Slow Reels is a real ambient gem in the quiet details series. Find out everything about this exceptional album now!'
-excerpt: 'In the quiet details series, an album by two well-known ambient artists will be hitting the scene on March 20th that you can look forward to. With "Everyday Exotic", Slow Reels aka James Murray and Ian Hawgood deliver beautiful nine tracks, inviting us to an island in a peaceful parallel universe.'
+excerpt: 'In the quiet details series, an album by two well-known ambient artists will be hitting the scene on March 20th that you can look forward to. With "Everyday Exotic", Slow Reels aka James Murray and Ian Hawgood are about to deliver beautiful nine tracks, inviting us to an island in a peaceful parallel universe.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-08/slow-reels-everyday-exotic-preview-soundsvegan-com-jpg-imagine-e8e8d8_c1d3aa_1024_768/640.webp
 copyright: 'Slow Reels'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-03-08/slow-reels-everyday-exotic-preview-soundsvegan-com-og-jpg-imagine-e8e8d8_c2d5af_1200_628/640.webp
@@ -31,7 +31,7 @@ language: en
 languageLink: /2024/03/slow-reels-everyday-exotic/
 ---
 
-**On March 20th, an exciting album by two well-known ambient and experimental artists will be hitting the scene, which I'm sure you'll look forward to. It will be released in the quiet details series. James Murray and Ian Hawgood delivered nine outstanding tracks under the name Slow Reels. "Everyday Exotic" has the power to carry you to a distant island where the omnipresent tsunami of war news, stress, anger, and pollution doesn't exist.**
+**On March 20th, an exciting album by two well-known ambient and experimental artists will be hitting the scene, which I'm sure you'll look forward to. It will be released in the quiet details series. James Murray and Ian Hawgood are about to delivere nine outstanding tracks under the name Slow Reels. "Everyday Exotic" has the power to carry you to a distant island where the omnipresent tsunami of war news, stress, anger, and pollution doesn't exist.**
 
 The record sounds like something from a peaceful parallel universe, free from poisoning, fear, and catastrophe. I think this is precisely what many people dream of in our current epoch. It provides a peaceful place to retreat to when impressions become too much. It is meditative, resonant, relaxed, and simultaneously thought-provoking—in a clear and refreshing way.
 
