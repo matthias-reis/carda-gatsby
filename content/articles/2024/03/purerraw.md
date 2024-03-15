@@ -19,7 +19,6 @@ labels:
   - Vegan Frappé
   - ohne Zucker
   - vegan kochen
-  - vegan
   - Zuckerfrei
   - Maulbeeren
   - Erdmandeln
