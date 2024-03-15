@@ -104,7 +104,7 @@ Zucker enthält das Produkt von Natur aus durch seine Basis aus Maca. Auf Raffin
 - Vanille
 - Salz
 
-Wenn ich mir mein Vrappé zubereite, gebe ich zwei bis drei Teelöffel davon in etwa 250 Milliliter Hafermilch. Wenn Ihr wollt, könnt Ihr zum Süßen noch etwas Sirup oder ein paar Tropfen [vegane Honigalternative](/2023/11/hanni-honigalternativen-vegan/) hinzugeben. Wenn Ihr das Getränk im Mixer zubereitet, erhaltet Ihr eine schöne Crema.
+Wenn ich mir meinen [Vrappé](https://tidd.ly/3TBvq1B) zubereite, gebe ich zwei bis drei Teelöffel davon in etwa 250 Milliliter Hafermilch. Wenn Ihr wollt, könnt Ihr zum Süßen noch etwas Sirup oder ein paar Tropfen [vegane Honigalternative](/2023/11/hanni-honigalternativen-vegan/) hinzugeben. Wenn Ihr das Getränk im Mixer zubereitet, erhaltet Ihr eine schöne Crema.
 
 ### Die Nährwerte (pro 100 g) des PureRaw Vrappé lauten:
 
