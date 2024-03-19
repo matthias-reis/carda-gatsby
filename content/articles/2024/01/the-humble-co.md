@@ -27,9 +27,9 @@ language: de
 
 **The Humble Co. ist ein schwedisches Unternehmen, bei dem sich alles um Nachhaltigkeit dreht. Es geht schon von Anfang an darum, möglichst umweltfreundliche Produkte zu entwickeln und den Planeten damit etwas schöner zu machen. Ihr kennt vermutlich schon das Signature-Produkt von The Humble Co. – die kompostierbare Zahnbürste. Heute möchte ich Euch passend dazu mal zwei verschiedene Zahncremes vorstellen und etwas mehr über The Humble Co. erzählen.**
 
-## Die The Humble Co. Vision
-
 Die The Humble Co. Gründer\*innen glauben daran, dass nachhaltige Produkte für die persönliche Pflege vor allem eins sein sollten – einfach zugänglich. Darum könnt Ihr die Zahnbürsten, Zahnpasta sowie allerlei praktische Accessoires wie Cotton Swabs und Floss Pics in so gut wie jedem Drogeriemarkt und im Online-Handel finden. Wenn Ihr neugierig seid, habt Ihr sie sicher schon hier und da gesichtet.
+
+## Die The Humble Co. Vision
 
 Mit jedem Kauf eines Humble Produkts, unterstützt Ihr Zahngesundheitsprojekte für bedürftige Kinder. Mithilfe der Humble Smile Foundation konnten bereits 106 Projekte in lokalen Gemeinschaften in insgesamt 50 Ländern auf der ganzen Welt durchgeführt werden. Dieses Engagement rundet die Humble Vision ab.
 
@@ -45,7 +45,7 @@ Während seiner Zeit als Volontär in Jamaika stellte der Zahnarzt Noel Abdayem 
 
 Seine Lösung war eine Zahnbürste aus ökologischen Materialien, die ebenso gut putzt, wie konventionelle Zahnbürsten. Gleichzeitig wollte er Menschen in Not mit der NGO Humble Smile Foundation unterstützen.
 
-Seitdem hat The Humble Co. über 60 Millionen Produkte verkauft. Ihr findet sie neben dem stationären Einzelhandel zum Beispiel auch online bei [Big Green Smile](https://tidd.ly/493Ym7y).
+Seitdem hat The Humble Co. über 60 Millionen Produkte verkauft. Ihr findet sie neben dem stationären Einzelhandel zum Beispiel bei [Big Green Smile](https://tidd.ly/493Ym7y) im Onlineshop.
 
 ## The Humble Co Zahnpasta im Glas – frische Minze mit Fluorid 50 ml
 
