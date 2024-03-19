@@ -66,3 +66,5 @@ Die berühmten The [Humble Brush Zahnbürsten](https://tidd.ly/4bk80oD) habe ich
 Besonders schön ist auch die Idee mit der Stiftung. Die Tatsache, dass man bei jedem Kauf einen kleinen Beitrag spendet, der dann irgendwo auf der Welt dazu genutzt wird, Menschen die Möglichkeit zu geben, sich regelmäßig die Zähne zu putzen, gefällt mir. Von diesem Engagement könnten sich bestimmt ein paar andere Brands inspirieren lassen.
 
 <Gallery name="the-humble-co-big-green-smile-2" />
+
+Im Rahmen meiner Kooperation mit Big Green Smile ist auch ein Artikel über die veganen Deodorants und weitere Produkte der lekker Company entstanden. [Jetzt lesen](/2024/03/lekker-vegane-deos-gesichtsreiniger/)!
