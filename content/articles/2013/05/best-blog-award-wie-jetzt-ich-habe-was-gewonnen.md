@@ -90,7 +90,7 @@ _ **7.) Welchen Kussmundabdruck hinterlässt Du auf Papier?** _
 
 Ich küsse grundsätzlich kein Papier
 
-_ **8.) Deine Wohnung steht in Flammen und Du hast Zeit drei Beautyprodukte aus dem Flammen zur retten. Welche sind das?** _
+_ **8.) Deine Wohnung steht in Flammen und Du hast Zeit drei Beauty-Produkte aus dem Flammen zur retten. Welche sind das?** _
 
 Meine beiden Kater [Chili und Oskar](//2012/08/ode-an-den-kater/)
 

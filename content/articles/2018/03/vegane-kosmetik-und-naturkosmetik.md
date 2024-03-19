@@ -143,7 +143,7 @@ Warum entzieht man denn nun den Ölen die "Persönlichkeit" und verwendet nur no
 
 Es geht wie immer um den Profit.
 
-Man kann Beautyprodukte deutlich leichter einer breiten Masse anbieten, wenn sie immer gleich aussehen, es nicht zu Füllschwankungen kommt, oder die Farbe von Packung zu Packung leicht variiert. Daher erfreuen sich die desordierte Öle immer größerer Beliebtheit und das auch bei kleineren Brands. Die Kosmetikbranche ist ein hart umkämpfter Markt und man hat es einfach leichter, wenn sich etwa Drogeriemarktketten für die Produkte, die man herstellt, interessiert.
+Man kann Beauty-Produkte deutlich leichter einer breiten Masse anbieten, wenn sie immer gleich aussehen, es nicht zu Füllschwankungen kommt, oder die Farbe von Packung zu Packung leicht variiert. Daher erfreuen sich die desordierte Öle immer größerer Beliebtheit und das auch bei kleineren Brands. Die Kosmetikbranche ist ein hart umkämpfter Markt und man hat es einfach leichter, wenn sich etwa Drogeriemarktketten für die Produkte, die man herstellt, interessiert.
 
 Gleiches gilt für die Marken, die ihre Produkte für den chinesischen Markt testen lassen. Oder den Greenwashing-Boom. Die Frage "Möchten wir uns diesen gewinnbringenden Markt wirklich entgehen lassen?" scheint wie ein Damoklesschwert über vielen Kosmetikfirmen zu hängen. Eine grüne Verpackung und ein "natürlich" im Aufdruck auf dem Label bedeutet noch lange nicht, dass ein Produkt gesund und hochwertig ist.
 

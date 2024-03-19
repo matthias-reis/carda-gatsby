@@ -77,6 +77,6 @@ Last but not least war noch eine Körperbutter von Bloos enthalten. Sie hat ein
 
 Wer jetzt neugierig geworden ist: Der Vegan Beauty Basket kann direkt auf der Homepage3 geordert werden. Ihr könnt zwischen zwei Abomodellen wählen, oder erst mal eine Box zur Probe ordern. Je nachdem, auf welche Box Eure Wahl fällt, zahlt ihr dafür zwischen 23,30 Euro und 27,90 Euro. Die Dezemberbox hatte dabei insgesamt einen Warenwert von rund 65,00 Euro und enthielt zusätzlich als Geschenk einen Fairtrade-Leinenbeutel aus Biotextil. Die Lieferung der Box erfolgt immer zur Monatsmitte, wer den Newsletter abonniert, bekommt sogar zehn Prozent Rabatt.
 
-Mein Resümee: Die im Basket enthaltenen Beautyprodukte waren alle besonders hochwertig und sehr interessant. Ich werde sie auf jeden Fall alle weiterverwenden und kann mir sehr gut vorstellen, die Box früher oder später mal zu abonnieren oder als Geschenk zu versenden. Von mir gibt es auf jeden Fall eine Ausprobier-Empfehlung.
+Mein Resümee: Die im Basket enthaltenen Beauty-Produkte waren alle besonders hochwertig und sehr interessant. Ich werde sie auf jeden Fall alle weiterverwenden und kann mir sehr gut vorstellen, die Box früher oder später mal zu abonnieren oder als Geschenk zu versenden. Von mir gibt es auf jeden Fall eine Ausprobier-Empfehlung.
 
 <Gallery name="veganbeautybasket201502" />
