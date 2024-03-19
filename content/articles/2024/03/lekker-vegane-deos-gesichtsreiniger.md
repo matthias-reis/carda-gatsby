@@ -2,7 +2,7 @@
 date: 2024-03-19T13:30:12.086Z
 slug: lekker-vegane-deos-gesichtsreiniger
 typeName: Produkttest
-title: 'Vegane Deos & Co. von The lekker Company'
+title: 'Vegane Deos & Co. von the lekker Company'
 subTitle: 'Natürlich und ohne Plastik macht schön!'
 seoTitle: 'lekker – vegane Deos & Co.'
 description: 'Mit meinem lekker Produkttest gebe ich Euch wertvolle Tipps für Euren plastikfreien Beauty-Einkauf und lernt vegane Deo und andere Highlights kennen. Holt Euch jetzt alle Infos!'
@@ -27,7 +27,7 @@ affiliate: true
 language: de
 ---
 
-**Kennt Ihr schon The lekker Company? In diesem Artikel möchte ich Sie im Rahmen meiner Kooperation mit Big Green Smile gerne vorstellen und Euch zwei meiner Lieblingsprodukte zeigen – das Deodorant in der Duftrichtung "Mandarine & Zitrone" und den Gesichtsreinigungsbar. Beides ist natürlich und selbstverständlich vegan und cruelty free. Spannende Insights zur Brand bekommt Ihr wie immer mit dazu.**
+**Kennt Ihr schon the lekker Company? In diesem Artikel möchte ich Sie im Rahmen meiner Kooperation mit Big Green Smile gerne vorstellen und Euch zwei meiner Lieblingsprodukte zeigen – das Deodorant in der Duftrichtung "Mandarine & Zitrone" und den Gesichtsreinigungsbar. Beides ist natürlich und selbstverständlich vegan und cruelty free. Spannende Insights zur Brand bekommt Ihr wie immer mit dazu.**
 
 Die [lekker Company](https://tidd.ly/3IELRnM) ist ein nachhaltiges Beauty-Start-up mit Sitz im niederländischen Utrecht. Die Gründer\*innen der Brand haben es sich zur Aufgabe gemacht, natürliche, pflanzenbasierte und tierfreundliche Produkte herzustellen – mit sowenig Verpackung wie möglich und vollständig ohne Plastik.
 
@@ -47,7 +47,7 @@ Die Basis für das Deodorant ist das Allroundtalent Backpulver! Hier auf Sounds 
 
 ![lekker Deodorant "Mandarine & Zitrone" und Gesichtsreiniger](https://storage.googleapis.com/cardamonchai-media/2024-03-19/2024-03-lekker-vegane-deos-gesichtsreiniger-soundsvegan-com-2-jpg-imagine-080828_5a5d62_1024_768/640.webp 'lekker Deodorant "Mandarine & Zitrone" und Gesichtsreiniger')
 
-Den [Gesichtsreiniger von The lekker Company](https://tidd.ly/3TH6sOw) habe ich auf Reisen und Kurztrips immer dabei. Er nimmt kaum Platz in meinem Waschbeutel weg und ich kann ihn ganz einfach in einem Waschlappen transportieren. Das ist wirklich praktisch. Ich kann damit ganz einfach Make-up und Co. entfernen und ihn wunderbar in meine Reinigungs- und Beauty-Routine integrieren.
+Den [Gesichtsreiniger von the lekker Company](https://tidd.ly/3TH6sOw) habe ich auf Reisen und Kurztrips immer dabei. Er nimmt kaum Platz in meinem Waschbeutel weg und ich kann ihn ganz einfach in einem Waschlappen transportieren. Das ist wirklich praktisch. Ich kann damit ganz einfach Make-up und Co. entfernen und ihn wunderbar in meine Reinigungs- und Beauty-Routine integrieren.
 
 Bei Big Green Smile findet Ihr neben dem Deo und dem Gesichtsreiniger unter anderem auch einen tollen Lippenbalsam ("[Himbeerlimonade](https://tidd.ly/3IKLVCy)", "[Orangen-Vanille-Strudel](https://tidd.ly/3v65WjO)") und ein [Sonnenschutzprodukt mit LSF 30](https://tidd.ly/3VpSe62) (Super! Krümelt und weißt nicht!) – beide Produkte kann ich Euch ebenfalls uneinangeschränkt empfehlen. Auch die Bodybars ([Coco Nuts](https://tidd.ly/4cjb84v), [Shower Par-tea](https://tidd.ly/4coWngG), [Very Berry](https://tidd.ly/3vhezI7)) zum Duschen sind toll – besonders ich für unterwegs!
 
@@ -59,7 +59,7 @@ Die Verpackung brauche ich hier kaum noch zu erwähnen: Sie besteht aus einem ei
 
 ## Das steckt hinter der lekker Company
 
-The lekker Company gründete sich 2014. Den Grundstein legte Gründerin Dewi zunächst in Eigenregie in ihrer Küche, in der sie erste Versuche mit veganer und natürlicher Hautpflege startete. Ihre Mission, die Welt ein bisschen nachhaltiger zu machen, folgt sie bis heute – inzwischen mit einem wachsenden Team. Sie sagt:
+the lekker Company gründete sich 2014. Den Grundstein legte Gründerin Dewi zunächst in Eigenregie in ihrer Küche, in der sie erste Versuche mit veganer und natürlicher Hautpflege startete. Ihre Mission, die Welt ein bisschen nachhaltiger zu machen, folgt sie bis heute – inzwischen mit einem wachsenden Team. Sie sagt:
 
 ![lekker Deodorant "Mandarine & Zitrone" und Gesichtsreiniger](https://storage.googleapis.com/cardamonchai-media/2024-03-19/2024-03-lekker-vegane-deos-gesichtsreiniger-soundsvegan-com-3-jpg-imagine-082868_4b595d_1024_768/640.webp 'lekker Deodorant "Mandarine & Zitrone" und Gesichtsreiniger')
 
@@ -69,7 +69,7 @@ Weil ihr Unternehmen mit den Jahren immer weiter gewachsen ist, möchte Dewi der
 
 ## Fazit: Tolle vegane Beauty-Produkte ohne Plastik
 
-Insgesamt gefallen mir die lekker Beauty-Produkte extrem gut. Das Konzept – ohne Plastik, Tierversuche und unnötige Inhaltsstoffe – geht voll auf und funktioniert hervorragend. Mir gefallen die Düfte gut und ich _liebe_ die Wortspiele in den Namen! Hoffentlich ändert The lekker Company die nie und denkt sich noch viele weitere tolle aus!
+Insgesamt gefallen mir die lekker Beauty-Produkte extrem gut. Das Konzept – ohne Plastik, Tierversuche und unnötige Inhaltsstoffe – geht voll auf und funktioniert hervorragend. Mir gefallen die Düfte gut und ich _liebe_ die Wortspiele in den Namen! Hoffentlich ändert the lekker Company die nie und denkt sich noch viele weitere tolle aus!
 
 Ein Deodorant, das ohne reizende Inhaltsstoffe auskommt, hält, was es verspricht und dabei auch noch toll duftet, ist mir ohne Plastik bis dato erst einmal begegnet. In diesem Fall kann ich sogar die komplette Verpackung einfach kompostieren und es bleibt kein Müll. Ich meine: Wie genial ist das denn? Ich glaube, dass sich viele Brands von lekker etwas abschauen und dabei einiges lernen können. Ob ihr die Sachen auch testen sollt? Auf jeden Fall! Lasst Euch das auf keinen Fall entgehen! Natürlich und ohne Plastik macht schön – uns und die Umwelt!
 
