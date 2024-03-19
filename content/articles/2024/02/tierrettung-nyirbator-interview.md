@@ -136,13 +136,13 @@ In der Peripherie von Nyirbator gibt es zum Beispiel diesen Bereich, wo meine Ko
 
 Die Hunde holen sich in den Siedlungen ihr Futter, schleppen es in den Wald und nehmen es dort zu sich. Sie kennen überhaupt keinen positiven Kontakt zu Menschen. Man kann sie nur sehen, wenn sie Hunger haben und in den Hinterlassenschaften der Menschen nach Futter suchen und danach verschwinden sie wieder in ihre Verstecke im Wald.
 
-Das sind auch alles Hunde, die wir nicht vermitteln könnten. Sie sind fünf oder sechs Jahre alt und haben noch nie einen Menschen berührt. Für sie wäre es der Horror, wenn sie bei einer Familie den ganzen Tag auf dem Sofa liegen müssten oder an der Leine zu gehen.
+Das sind auch alles Hunde, die wir nicht vermitteln könnten. Sie sind fünf oder sechs Jahre alt und haben noch nie einen Menschen berührt. Für sie wäre es der Horror, wenn sie bei einer Familie den ganzen Tag auf dem Sofa liegen müssten oder an der Leine gehen.
 
 **Anne:** Wie kommt es dann dazu, dass es so viele sind an diesem Ort?
 
 **Lena:** Das Problem sind vordergründig die unkastrierten Besitzerhunde. Die Zäune sind kaputt und die Tiere werden wenig überwacht und treffen sich einfach in der Nachbarschaft. Dann gibt es einen "Ups-Wurf", der landet dann, bis auf die, die man für ein paar Euro verkaufen kann, auf der Straße und so schließt sich der Kreis.
 
-Es ist also gar nicht mal das Problem, dass es Straßenhunde sind, die seit Generationen auf der Straße leben, sondern dass sie Menschen kein Geld für den Tierarzt haben und sich nicht kümmern können.
+Es ist also gar nicht mal das Problem, dass es Straßenhunde sind, die seit Generationen auf der Straße leben, sondern dass die Menschen kein Geld für den Tierarzt haben und sich nicht kümmern können.
 
 Hinzu kommt neben den Straßenhunden auch noch die Problematik, dass immer wieder Menschen bei sich daheim irgendwelche Trendhunde wie Dackel-Mischlinge züchten und dann damit drohen sie auszusetzen, wenn es ihnen nicht gelingt sie zu verkaufen. Wir sind hier inzwischen dazu übergegangen, sie nur unter der Bedingung aufzunehmen, dass wir die Mutter-Hündin kastrieren lassen dürfen.
 
