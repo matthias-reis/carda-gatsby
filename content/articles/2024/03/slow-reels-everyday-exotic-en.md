@@ -5,7 +5,7 @@ typeName: Preview
 title: 'Slow Reels – "Everyday Exotic"'
 subTitle: Experimental Ambient Sound from a Peaceful Parallel Universe
 seoTitle: 'Slow Reels – "Everyday Exotic" – Ambient Preview'
-description: 'Everyday Exotic" by Slow Reels is a real ambient gem in the quiet details series. Find out everything about this exceptional album now!'
+description: '"Everyday Exotic" by Slow Reels is a real ambient gem in the quiet details series. Find out everything about this exceptional album now!'
 excerpt: 'As part of the quiet details series, an album you can look forward to by two well-known ambient artists will be hitting the scene on March 20th. With "Everyday Exotic", Slow Reels, aka James Murray and Ian Hawgood, are about to deliver beautiful nine tracks, inviting us to an island in a peaceful parallel universe.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-08/slow-reels-everyday-exotic-preview-soundsvegan-com-jpg-imagine-e8e8d8_c1d3aa_1024_768/640.webp
 copyright: 'Slow Reels'
