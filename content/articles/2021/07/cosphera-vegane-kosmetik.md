@@ -89,3 +89,7 @@ Was ich ziemlich gut finde, ist, dass man bei Cosphera [ohne Risiko bestellen](h
 
 - [Lest hier meine Expertenmeinung auf idealo.de über die Hyaluron Performance Creme](https://tidd.ly/3HBqdjD).
 - [Hier findet Ihr meine ausführliche Bewertung, die ich als offizielle idealo.de Expertin über die Vitamin C Performance Creme von Cosphera geschrieben habe](https://tidd.ly/3u0veiM).
+
+Diese Produkte habe ich auch als [offizielle Produktexpertin für idealo.de](https://tidd.ly/492ImCI) getestet und bewertet.
+
+[![Produktexpertin Körper & Pflege | large](https://storage.googleapis.com/cardamonchai-media/2024-01-24/idealo-produktexpertin-anne-reis-soundsvegan-com-jpg-imagine-181818_565c63_1024_768/640.webp)](https://tidd.ly/492ImCI)

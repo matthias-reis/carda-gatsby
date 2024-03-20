@@ -88,3 +88,7 @@ Wenn Ihr noch mehr über die Produkte von Cosphera erfahren wollt, lest gerne [m
 - [Lest hier meine Expertenmeinung auf idealo.de über die Hyaluron Performance Creme von Cosphera](https://tidd.ly/3HBqdjD).
 - [Hier findet Ihr meine ausführliche Bewertung, die ich als offizielle idealo.de Expertin über das Hyluron Performance Serum von Cosphera geschrieben habe](https://tidd.ly/3Om5OD1).
 - [Meine idealo.de Expertenmeinung über die Hyaluron Performance Nachtcreme von Cosphera ist hier zu finden](https://tidd.ly/3Olt6ZK).
+
+Diese Produkte habe ich auch als [offizielle Produktexpertin für idealo.de](https://tidd.ly/492ImCI) getestet und bewertet.
+
+[![Produktexpertin Körper & Pflege | large](https://storage.googleapis.com/cardamonchai-media/2024-01-24/idealo-produktexpertin-anne-reis-soundsvegan-com-jpg-imagine-181818_565c63_1024_768/640.webp)](https://tidd.ly/492ImCI)
