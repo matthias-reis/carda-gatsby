@@ -85,4 +85,4 @@ Die Premiere für "I Could Never Go Vegan" findet am 10. April in London statt. 
 
 <YouTube id="bkUU5geAsiE" />
 
-**Bilder/Pictures:** Alissa White-Gluz Rock im Park, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2023_Rock_im_Park_-_Arch_Enemy_-_Alissa_White-Gluz_-_by_2eight_-_ZSC5019.jpg), Film Poster: [I Could Never Go Vegan](https://icouldnevergovegan.co.uk/)
+**Bilder/Pictures:** Alissa White-Gluz, Rock im Park 2023, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2023_Rock_im_Park_-_Arch_Enemy_-_Alissa_White-Gluz_-_by_2eight_-_ZSC5019.jpg), Film Poster: [I Could Never Go Vegan](https://icouldnevergovegan.co.uk/)
