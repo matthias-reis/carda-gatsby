@@ -53,11 +53,11 @@ Für Alissa beinhaltet ihr Aktivismus vor allem, dass sie ihn nicht als Job betr
 >
 > Ich möchte den Menschen also so viel wie möglich zeigen, dass es falsch ist, diese Industrie zu unterstützen. Man kann tatsächlich immer noch alles haben, was man sich im Leben wünscht – alles, was man mag, unser Essen, unser Make-up oder was auch immer. Man kann diese Dinge immer noch haben – ohne Tiere da mit reinzuziehen. Ich beschäftige mich jetzt immer mehr mit der Technologiebranche. Es gibt einige wirklich geniale Innovationen im Bereich Technologie, wenn es um die Zukunft von Lebensmitteln und die Abschaffung von Tierversuchen geht."
 
-## Schreien für die, die keine Stimme haben
+## Schreien für die, die ihre Stimmen nicht erheben können
 
 Vor einigen Jahren erzählte sie auf der Facebook Seite von Mercy For Animals, warum Veganismus Metal ist:
 
-> "Ich lebe jetzt seit über 20 Jahren vegan. Ich war Veganerin, bevor ich Musikerin wurde. Ich habe in meinem ganzen Leben kein Fleisch gegessen. Ich bin in einem komplett vegetarischen Haushalt aufgewachsen also war der Veganismus für mich der logische nächste Schritt. Als ich angefangen habe, Musik zu machen, gab es nichts, über das ich mehr reden wollte, als Tierrechte. Ich habe also diese harte, passionierte Form der Musik genutzt, die Nachricht in die Welt zu tragen, die ich verbreiten wollte. Wenn ich in meiner Band schreie, fühle ich als würde ich für die schreien, die keine Stimme haben. Ich kann mir nicht vorstellen, so laut zu sein, wenn ich nichts zu sagen hätte."
+> "Ich lebe jetzt seit über 20 Jahren vegan. Ich war Veganerin, bevor ich Musikerin wurde. Ich habe in meinem ganzen Leben kein Fleisch gegessen. Ich bin in einem komplett vegetarischen Haushalt aufgewachsen also war der Veganismus für mich der logische nächste Schritt. Als ich angefangen habe, Musik zu machen, gab es nichts, über das ich mehr reden wollte, als Tierrechte. Ich habe also diese harte, passionierte Form der Musik genutzt, die Nachricht in die Welt zu tragen, die ich verbreiten wollte. Wenn ich in meiner Band schreie, fühle ich als würde ich für die schreien, die ihre Stimmen nicht erheben können. Ich kann mir nicht vorstellen, so laut zu sein, wenn ich nichts zu sagen hätte."
 >
 > Weiblich, vegan und Straight Edge zu sein innerhalb der Metal-Welt ist nur eine Kombination von Zielen auf meiner Stirn, die es sehr einfach machen, mich herumzuschubsen und zu ärgern. Aber diese Dinge sind ein so starker Teil von dem was ich bin, dass ich sie nicht aufgeben kann. Nicht, mal, wenn ich es versuchen würde. Und ich würde es nicht versuchen. Ich würde mich für niemanden verändern."
 
