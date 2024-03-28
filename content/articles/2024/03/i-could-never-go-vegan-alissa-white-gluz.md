@@ -61,7 +61,7 @@ Vor einigen Jahren erzählte sie auf der Facebook Seite von Mercy For Animals, w
 >
 > Weiblich, vegan und Straight Edge zu sein innerhalb der Metal-Welt ist nur eine Kombination von Zielen auf meiner Stirn, die es sehr einfach machen, mich herumzuschubsen und zu ärgern. Aber diese Dinge sind ein so starker Teil von dem was ich bin, dass ich sie nicht aufgeben kann. Nicht, mal, wenn ich es versuchen würde. Und ich würde es nicht versuchen. Ich würde mich für niemanden verändern."
 
-In Alissa Augen geht es bei Metal vor allem um Rebellion:
+In Alissas Augen geht es bei Metal vor allem um Rebellion:
 
 > "Es geht darum, Deinen eigenen Pfad in den Fels zu schlagen, etwas anderes zu denken als das, was alle Dich denken lassen wollen. Veganismus ist die ultimative Form der Rebellion, weil du tatsächlich auf Dinge verzichtest, die Menschen als normal ansehen, die, wenn man tief in sich hineingehört aber alles andere als normal sind. Du wurdest nur dazu konditioniert, sie zu akzeptieren und sie in deinen Alltag einzubinden – wie essen oder was du anziehst oder welche Kaufentscheidungen Du triffst. Alle sagen Dir, dass das normal ist, dass Du andere lebende Wesen ausbeuten musst. Aber Du musst es nicht tun. Sich dagegen einzusetzen – darum geht es im Veganismus. Und das ist wirklich Metal!"
 
