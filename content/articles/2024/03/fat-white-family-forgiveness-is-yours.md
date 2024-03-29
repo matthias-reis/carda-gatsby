@@ -128,27 +128,8 @@ Während der turbulenten Zeit, die das neue Album brauchte, war die Band an viel
 
 ## Tourdaten Fat White Family Tour 2024
 
-- Donnerstag, 25.05.2024 – Rough Trade East, London (instore)
-- Freitag, 26.05.2024 – Resident Music, Brighton (instore)
-- Sonntag, 28.05.2024 – Rough Trade, Nottingham (instore)
-- Dienstag, 30.05.2024 – Bear Tree Recoprds, Sheffield (instore)
-- Mittwoch, 01.05.2024 – Vinyl Tap, Huddersfield (instore)
-- Donnerstag, 02.05.2024 – Assai Records, Edinburgh (instore)
+Donnerstag, 25.05.2024 – Rough Trade East, London (instore)<br></br> Freitag, 26.05.2024 – Resident Music, Brighton (instore)<br></br> Sonntag, 28.05.2024 – Rough Trade, Nottingham (instore)<br></br> Dienstag, 30.05.2024 – Bear Tree Recoprds, Sheffield (instore)<br></br> Mittwoch, 01.05.2024 – Vinyl Tap, Huddersfield (instore)<br></br> Donnerstag, 02.05.2024 – Assai Records, Edinburgh (instore)<br></br>
 
-- Samstag, 25.05.2024 – Levitation Festival, Angers, Frankreich
-- Montag, 27.05.2024 – La Cigale, Paris, Frankreich
-- Dienstag, 28.05.2024 – Tolhuistuin, Amsterdam, Niederlande
-- Mittwoch, 29.05.2024 – Doornroosje, Nijmegen, Niederlande
-- Freitag, 31.05.2024 – Lido, Berlin, Deutschland
-- Samstag, 01.06.2024 – Trix, Antwerp, Belgien
-- Samstag, 08.06.2024 – SWX, Bristol, UK
-- Sonntag, 09.06.2024 – Engine Rooms, Southampton, UK
-- Montag, 10.06.2024 – Tramshed, Cardiff, UK
-- Mittwoch, 12.06.2024 – Hangar 34, Liverpool, UK
-- Donnerstag, 13.06.2024 – New Century, Manchester, UK
-- Freitag, 14.06.2024 – Garage, Glasgow, UK
-- Sonntag, 16.06.2024 – Boiler Shop, Newcastle, UK
-- Dienstag, 18.06.2024 – Project House, Leeds, UK
-- Mittwoch, 19.06.2024 – Troxy, London, UK
+Samstag, 25.05.2024 – Levitation Festival, Angers, Frankreich<br></br> Montag, 27.05.2024 – La Cigale, Paris, Frankreich<br></br> Dienstag, 28.05.2024 – Tolhuistuin, Amsterdam, Niederlande<br></br> Mittwoch, 29.05.2024 – Doornroosje, Nijmegen, Niederlande<br></br> Freitag, 31.05.2024 – Lido, Berlin, Deutschland<br></br> Samstag, 01.06.2024 – Trix, Antwerp, Belgien<br></br> Samstag, 08.06.2024 – SWX, Bristol, UK<br></br> Sonntag, 09.06.2024 – Engine Rooms, Southampton, UK<br></br> Montag, 10.06.2024 – Tramshed, Cardiff, UK<br></br> Mittwoch, 12.06.2024 – Hangar 34, Liverpool, UK<br></br> Donnerstag, 13.06.2024 – New Century, Manchester, UK<br></br> Freitag, 14.06.2024 – Garage, Glasgow, UK<br></br> Sonntag, 16.06.2024 – Boiler Shop, Newcastle, UK<br></br> Dienstag, 18.06.2024 – Project House, Leeds, UK<br></br> Mittwoch, 19.06.2024 – Troxy, London, UK<br></br>
 
 [Holt Euch Eure Tickets für die Fat White Family Tour hier](www.fatwhitefamilymusic.com)!

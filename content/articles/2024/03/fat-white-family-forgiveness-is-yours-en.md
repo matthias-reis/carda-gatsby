@@ -128,27 +128,8 @@ Their creativity continues to flow unabated and gives us hope for many more albu
 
 ## 2024 Tourdates Fat White Family
 
-- Thursday April 25th – Rough Trade East, London (instore)
-- Friday April 26th – Resident Music, Brighton (instore)
-- Sunday April 28th – Rough Trade, Nottingham (instore)
-- Tuesday April 30th – Bear Tree Recoprds, Sheffield (instore)
-- Wednesday May 1st – Vinyl Tap, Huddersfield (instore)
-- Thursday May 2nd – Assai Records, Edinburgh (instore)
+Thursday April 25th – Rough Trade East, London (instore)<br></br> Friday April 26th – Resident Music, Brighton (instore)<br></br> Sunday April 28th – Rough Trade, Nottingham (instore)<br></br> Tuesday April 30th – Bear Tree Recoprds, Sheffield (instore)<br></br> Wednesday May 1st – Vinyl Tap, Huddersfield (instore)<br></br> Thursday May 2nd – Assai Records, Edinburgh (instore)<br></br>
 
-- Saturday May 25th – Levitation Festival, Angers, France
-- Monday May 27th – La Cigale, Paris, France
-- Tuesday May 28th – Tolhuistuin, Amsterdam, Netherlands
-- Wednesday 29th May – Doornroosje, Nijmegen, Netherlands
-- Friday May 31st – Lido, Berlin, Germany
-- Saturday June 1st – Trix, Antwerp, Belgium
-- Saturday June 8th – SWX, Bristol, UK
-- Sunday June 9th – Engine Rooms, Southampton, UK
-- Monday June 10th – Tramshed, Cardiff, UK
-- Wednesday June 12th – Hangar 34, Liverpool, UK
-- Thursday June 13th – New Century, Manchester, UK
-- Friday June 14th – Garage, Glasgow, UK
-- Sunday June 16th – Boiler Shop, Newcastle, UK
-- Tuesday June 18th – Project House, Leeds, UK
-- Wednesday June 19th – Troxy, London, UK
+Saturday May 25th – Levitation Festival, Angers, France<br></br> Monday May 27th – La Cigale, Paris, France<br></br> Tuesday May 28th – Tolhuistuin, Amsterdam, Netherlands<br></br> Wednesday 29th May – Doornroosje, Nijmegen, Netherlands<br></br> Friday May 31st – Lido, Berlin, Germany<br></br> Saturday June 1st – Trix, Antwerp, Belgium<br></br> Saturday June 8th – SWX, Bristol, UK<br></br> Sunday June 9th – Engine Rooms, Southampton, UK<br></br> Monday June 10th – Tramshed, Cardiff, UK<br></br> Wednesday June 12th – Hangar 34, Liverpool, UK<br></br> Thursday June 13th – New Century, Manchester, UK<br></br> Friday June 14th – Garage, Glasgow, UK<br></br> Sunday June 16th – Boiler Shop, Newcastle, UK<br></br> Tuesday June 18th – Project House, Leeds, UK<br></br> Wednesday June 19th – Troxy, London, UK<br></br>
 
 [Get your tickets for the Fat White Family tour here](www.fatwhitefamilymusic.com)!
