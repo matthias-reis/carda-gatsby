@@ -122,7 +122,9 @@ The tenth track "Work" is about the insanity of work life and its rules. Is ther
 
 The final song on "Forgiveness Is Yours" begins playfully. A pan through the orchestra pit. The strings are still tuning their instruments. Certainly, the piano sets in, and tension rises. "You Can't Force It" is a sarcastic operetta-style lullaby—a great way to end a fantastic album.
 
-Alongside their work on "Forgiveness Is Yours", the Fat White Family members have also been working on their various solo and side projects in a wide variety of constellations. Their creativity continues to flow unabated and gives us hope for many more albums, concerts and post-punk revolutions to come. Until FWF create the next big bang, let's listen to this album as often as possible. It's a real milestone, and will surely stay with us forever.
+Alongside their work on "Forgiveness Is Yours", the Fat White Family members have also been working on their various solo and side projects in a wide variety of fields. For example, they supported Liam Gallagher at his biggest solo show in Knebworth and short the short film "Moonbathing". Lias, who in the meantime practised as a prose writer, wrote a column and collaborated with author Adelle Stripe on the book "Ten-Thousand Apologies: Fat White Family and the Miracle of Failure".
+
+Their creativity continues to flow unabated and gives us hope for many more albums, concerts and post-punk revolutions to come. Until FWF create the next big bang, let's listen to this album as often as possible. It's a real milestone and will surely stay with us forever.
 
 ## 2024 Tourdates Fat White Family
 
