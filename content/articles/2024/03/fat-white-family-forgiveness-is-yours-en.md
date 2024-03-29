@@ -72,7 +72,7 @@ Lias' feelings about the multiple crises of our time are almost palpable in the 
 
 He has another statement about the making of the record:
 
-> "Nonetheless, the new album's creation has left serious psychic scarring. 'My only ambition for its release', says Lias, 'is that I earn enough money from touring it to pay for the years of high-end psychotherapy I'll need in order to move on."
+> "Nonetheless, the new album's creation has left serious psychic scarring. 'My only ambition for its release is that I earn enough money from touring it to pay for the years of high-end psychotherapy I'll need in order to move on."
 
 It's easy to imagine what the band founder means by that. Overall, there were some bumpy sections on the way to the finished record. The death of founding member Saul Adamczewski during the recording process can certainly be described as the band's darkest phase.
 
