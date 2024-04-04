@@ -42,7 +42,7 @@ Vielleicht überzeugt einige ja auch, dass sie ganz individuelle Persönlichkeit
 
 ## Faszinierende, vielseitige Lebewesen
 
-Schaut man sich das Verhältnis zwischen Körper und Gehirn an, ist das Gewicht bei Tintenfischen ähnlich verteilt, wie bei zahlreichen Wirbeltieren.[^7] Zu ihrem Nervensystem, über das unter anderem die farbliche Anpassung der Tiere auf ihre jeweilige Umgebung gesteuert wird, gibt es einige spannende wissenschaftliche Aufzeichnungen, die es sich zu lesen lohnt [^8]. Auch wenn, wie bei uns zahlreiche Neurotransmitter dafür verantwortlich sind, dass es funktioniert, ist es mit dem Gehirn eines Wirbeltiers nicht vergleichbar.
+Schaut man sich das Verhältnis zwischen Körper und Gehirn an, ist das Gewicht bei Tintenfischen ähnlich verteilt, wie bei zahlreichen Wirbeltieren.[^7] Über ihr Nervensystem, über das die Tiere unter anderem die farbliche Anpassung an ihre jeweilige Umgebung steuern, gibt es einige spannende wissenschaftliche Aufzeichnungen, die es sich zu lesen lohnt [^8]. Auch wenn, wie bei uns Menschen, zahlreiche Neurotransmitter dafür verantwortlich sind, dass es funktioniert, ist es mit dem Gehirn eines Wirbeltiers nicht vergleichbar.
 
 Die Neuronen, die für ihr Verhalten verantwortlich sind, sitzen so zum Beispiel lediglich zu 40 Prozent im Gehirn selbst. Der Rest davon ist in den Armen zu finden. Kein Wunder, dass man, beobachtet man die Tiere eine Weile, fast das Gefühl bekommen könnte, jeder Arm hätte sein eigenes kleines Gehirn dabei. So selbstständig kümmern sie sich um Dinge. Wie wäre es mit einem Schlagzeug spielenden Oktopus? Mit dem rechten Fuß die Bassdrum und mit dem linken Arm die High Hat zu spielen, sollte den Wirbellosen doch ein Leichtes sein.
 
