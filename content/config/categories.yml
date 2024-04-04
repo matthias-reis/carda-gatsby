@@ -1,81 +1,81 @@
 - title: 'Allgemein'
-  description: 'Alle Rubriken meines Blogs sind einem bestimmten Thema zugeordnet, daher sollte es selten bis gar nicht vorkommen, dass an dieser Stelle ein Artikel auftaucht.'
+  description: 'Alle Rubriken von Sounds Vegan habe ich bestimmten Themen zugeordnet, daher sollte es selten bis gar nicht vorkommen, dass an dieser Stelle ein Artikel auftaucht.'
   slug: allgemein
 
 - title: 'Vegan'
-  description: '"Vegan" ist für mich mehr als das Hauptthema von Sounds Vegan. Ich selbst lebe seit vielen Jahren vegan und habe, neben dem offensichtlichen Wunsch, etwas gegen die Ausbeutung von Tieren zu tun, noch zahlreiche weitere Beweggründe. In dieser Rubrik beleuchte ich vor allem die Aspekte Tierrechte und Ethik sowie Klimaschutz und Gesundheit.'
+  description: '"Vegan" ist für mich mehr als eines der beiden Hauptthemen von Sounds Vegan. Ich selbst lebe seit vielen Jahren vegan und habe, neben dem offensichtlichen Wunsch, etwas gegen die Ausbeutung von Tieren zu tun, noch zahlreiche weitere Beweggründe. In dieser Rubrik beleuchte ich vor allem die Aspekte Tierrechte und Ethik sowie Klimaschutz und Gesundheit.'
   slug: vegan
 
 - title: 'Tierrechte'
-  description: 'Tierrechte sind die Grundlage des Veganismus. In dieser Blogrubrik findet Ihr meine Berichte über Tierrechtsaktivismus sowie immer wieder News zum Thema.'
+  description: 'Tierrechte sind die Grundlage des Veganismus. In dieser Rubrik von Sounds Vegan findet Ihr meine Berichte über Tierrechtsaktivismus sowie immer wieder News zum Thema.'
   slug: tierrechte
   parentId: vegan
 
 - title: 'Klima & Umweltschutz'
-  description: 'Klima & Umweltschutz – die Themen, die uns alle in der heutigen Zeit mit Abstand am meisten beschäftigen sollten, gehören auch zu den Kernthemen meines Blogs'
+  description: 'Klima & Umweltschutz – die Themen, die uns alle in der heutigen Zeit mit Abstand am meisten beschäftigen sollten, gehören auch zu den Kernthemen von Sounds Vegan.'
   slug: klima-und-umweltschutz
   parentId: vegan
 
 - title: 'Ernährung & Gesundheit'
-  description: 'In meiner Blog-Rubrik "Ernährung" dreht sich alles um vegane Ernährung und Gesundheit.'
+  description: 'In der Rubrik "Ernährung" dreht sich alles um vegane Ernährung und Gesundheit.'
   slug: ernaehrung-und-gesundheit
   parentId: vegan
 
 - title: 'Vegane Rezepte'
-  description: 'Kochen und backen mit rein pflanzlichen Zutaten – klingt lecker oder? In dieser Blogrubrik findet Ihr tolle vegane Rezepte.'
+  description: 'Kochen und Backen mit rein pflanzlichen Zutaten – klingt lecker oder? In dieser Rubrik von Sounds Vegan findet Ihr vegane Rezepte.'
   slug: vegane-rezepte
   parentId: vegan
 
 - title: 'Vegane Lokale'
-  description: 'Vegane Lokale sind für mich ganz besondere Orte. Ab und zu schreibe ich auch über sie.'
+  description: 'Vegane Lokale sind für mich ganz besondere Orte. Ab und zu schreibe ich auch über sie und veröffentliche meine Restaurant-Tipps auf Sounds Vegan.'
   slug: vegane-lokale
   parentId: vegan
 
 - title: 'Vegan Celebrities'
-  description: 'Menschen aus dem Musik-, Film- und Mediabiz, die sich Gedanken darüber machen, was Tiere fühlen und wie die Zukunft unseres Planeten aussehen wird.'
+  description: 'Geschichten über Menschen aus dem Musik-, Film- und Mediabiz, die sich Gedanken darüber machen, was Tiere fühlen und wie die Zukunft unseres Planeten aussehen wird.'
   slug: vegan-celebrities
   parentId: vegan
 
 - title: 'Musik'
-  description: 'Musik ist mein Leben. Unter dieser Hauptrubrik meines Blogs findet Ihr Rezensionen, Interviews und Berichte über Konzerte und Festivals.'
+  description: 'Musik ist mein Leben. Unter dieser Hauptrubrik von Sounds Vegan findet Ihr Rezensionen, Previews, Interviews und Berichte über Konzerte und Festivals.'
   slug: musik
 
 - title: 'Interviews'
-  description: 'Interviews mit Post-Rock Musiker⋆innen und interessanten Persönlichkeiten besonders aus der veganen Szene sind fester Bestandteil meines Blogs.'
+  description: 'Interviews mit Post-Rock Musiker⋆innen und interessanten Persönlichkeiten besonders aus der veganen Szene sind fester Bestandteil von Sounds Vegan.'
   slug: interviews
   parentId: musik
 
 - title: 'Bands'
-  description: 'In dieser Blogrubrik stelle ich immer wieder Bands und ihre Musik aus den Genres Post-Rock, Alternative, Indie und Ambient vor. Mitlesen lohnt sich also auf jeden Fall.'
+  description: 'In dieser Rubrik von Sounds Vegan stelle ich immer wieder Bands und ihre Musik aus den Genres Post-Rock, Alternative, Indie und Ambient vor.'
   slug: bands
   parentId: musik
 
 - title: 'Festivals'
-  description: 'Festivals gehören für mich dazu, seit ich denken kann. Auf meiner Homepage habe ich ihnen eine Rubrik gewidmet. Darin lest Ihr meine Artikel zum Thema.'
+  description: 'Festivals gehören für mich dazu, seit ich denken kann. Auf Sounds Vegan habe ich ihnen daher nicht ohne Grund eine Rubrik gewidmet.'
   slug: festivals
   parentId: musik
 
 - title: 'Konzerte'
-  description: 'Konzerte haben mich schon immer fasziniert. In dieser Blogrubrik findet Ihr Konzertberichte vor allem aus den Genres Post-Rock und Alternative.'
+  description: 'Konzerte haben Euch auch schon immer fasziniert? In dieser Rubrik von Sounds Vegan findet Ihr meine Konzertberichte – vor allem aus den Genres Post-Rock und Alternative.'
   slug: konzerte
   parentId: musik
 
 - title: 'Lifestyle'
-  description: 'In der Blogrubrik "Lifestyle" findet Ihr alle Artikel zu den Themen "Bücher & Filme", "Antifaschismus & Feminismus", "Achtsamkeit", "Fair Beauty & Fashion", "Kunst", "Geschichten & Erlebtes"'
+  description: 'In der Rubrik "Lifestyle" findet Ihr alle Artikel, die ich auf Sounds Vegan zu den Themen "Bücher & Filme", "Antifaschismus & Feminismus", "Achtsamkeit", "Fair Beauty & Fashion", "Kunst", "Geschichten & Erlebtes" veröffentliche.'
   slug: lifestyle
 
 - title: 'Achtsamkeit'
-  description: 'Wie der Name schon sagt, dreht sich in diesem Blogkapitel alles um das Thema "Achtsamkeit". Hier findet Ihr Ideen, Anregungen und Erfahrungsberichte.'
+  description: 'In der Sounds Vegan Rubrik "Achtsamkeit" findet Ihr Ideen, Anregungen und Erfahrungsberichte.'
   slug: achtsamkeit
   parentId: lifestyle
 
 - title: 'Fair Fashion & Beauty'
-  description: 'Fair Fashion & Beauty gehören für mich zu einem modernen veganen und nachhaltigen Leben unbedingt dazu. In dieser Blogrubrik findet Ihr alles zu den Themen.'
+  description: 'Fair Fashion & Beauty gehören für mich zu einem modernen, veganen und nachhaltigen Leben unbedingt dazu. In dieser Rubrik von Sounds Vegan findet Ihr alles zu den Themen.'
   slug: fair-fashion-und-beauty
   parentId: lifestyle
 
 - title: 'Antifaschismus & Feminismus'
-  description: 'Antifaschismus und Feminismus sind zwei Themen, die nie zu kurz kommen sollten. Aus diesem Grund habe ich ihnen eine Blogrubrik gewidmet.'
+  description: 'Antifaschismus und Feminismus sind die wohl wichtigsten Themen unserer Zeit. Auf Sounds Vegan sollten sie daher auf keinen Fall fehlen.'
   slug: antifaschismus-und-feminismus
   parentId: lifestyle
 
@@ -95,11 +95,11 @@
   parentId: lifestyle
 
 - title: 'Slow Travel'
-  description: 'Slow Travel – Die Kunst des langsamen Reisens ohne viel Gepäck. Dabei sollen möglichst wenig Ressourcen verbraucht werden'
+  description: '"Slow Travel – die Kunst des langsamen Reisens ohne viel Gepäck. Dabei sollen möglichst wenig Ressourcen verbraucht werden" – ich glaube, so ähnlich steht es im Wörterbuch. Ich teile hier hin und wieder Reisegeschichten mit Euch.'
   slug: slow-travel
 
 - title: 'Ausflug'
-  description: 'Ausflug gefällig? In dieser Blogrubrik findet Ihr jede Menge Tipps und Berichte zum Thema. Vor allem aus der Region Hamburg aber auch aus anderen Ecken.'
+  description: 'Ausflug gefällig? In dieser Rubrik von Sounds Vegan findet Ihr jede Menge Tipps und Berichte rund um Ausflüge. Vor allem aus der Region Hamburg – hin und wieder aber auch aus anderen Ecken.'
   slug: ausflug
   parentId: slow-travel
 
@@ -109,12 +109,12 @@
   parentId: slow-travel
 
 - title: 'Fernweh'
-  description: 'Packt Euch auch manchmal das Fernweh? In diesen Momenten greife ich gerne auf diese Blogrubrik zurück und schwelge in Erinnerungen.'
+  description: 'Packt Euch auch manchmal das Fernweh? In diesen Momenten greife ich gerne auf die Beiträge in dieser Rubrik von Sounds Vegan zurück und schwelge in Erinnerungen.'
   slug: fernweh
   parentId: slow-travel
 
 - title: 'Hamburg'
-  description: 'Hamburg ist für mich zum Heimathafen geworden, zu dem ich immer wieder zurückkehre. Unserer lauten Stadt an der Elbe habe ich diese Blogrubrik gewidmet.'
+  description: 'Hamburg ist für mich zum Heimathafen geworden, zu dem ich immer wieder zurückkehre. Unserer lauten Stadt an der Elbe habe ich diese Rubrik von Sounds Vegan gewidmet.'
   slug: hamburg
   parentId: slow-travel
 
