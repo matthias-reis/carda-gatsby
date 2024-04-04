@@ -78,7 +78,7 @@ Der Raubbau an der Meeresfauna nimmt durch die Züchtung von Tintenfischen also 
 
 Zusammenfassend lässt sich also, finde ich, ganz klar sagen: Tintenfische gehören wie alle Meerestiere nicht auf unsere Teller, sondern ins Meer. Dort sollten sie in der heutigen Zeit nicht mehr gejagt und geschlachtet, sondern geschützt werden. Um den Tieren Leid zu ersparen, den Lebensraum Ozean zu erhalten und das Klima zu schützen. Auch die Züchtung außerhalb ihrer angestammten Habitate ist grausam und klimaschädlich. Anstatt uns Alternativen für die Beschaffung von Meerestieren auszudenken, sollten wir lieber weiter an pflanzlichen Alternativen für traditionelle Fleisch- und Fischgerichte arbeiten – oder akzeptieren, dass moderne Zeiten auch [eine moderne Ernährunsweise](/tag/vegan) mit sich bringen. Die wachsende Weltbevölkerung ist schließlich auf die pflanzlichen Ressourcen angewiesen. Wir sollten sie also nicht an Tiere verfüttern, die wir züchten, um sie zu essen. Doch das Thema hatten wir ja schon so oft.
 
-Bilder/Pictures: [MartinStr](https://pixabay.com/users/martinstr-108372/), Pixabay
+**Bilder/Pictures:** [MartinStr](https://pixabay.com/users/martinstr-108372/), [edmondlafoto](https://pixabay.com/users/edmondlafoto-7913128/), Pixabay
 
 [^1]: [Encyclopedia Britannica – "The fossil record"](https://www.britannica.com/science/evolution-scientific-theory/The-fossil-record)
 [^2]: [LGRB Wissen – "Mississippium"](https://lgrbwissen.lgrb-bw.de/geologie/schichtenfolge/karbon/unterkarbon-mississippium)
