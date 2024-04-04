@@ -16,7 +16,11 @@ labels:
   - Kip Andersen
   - Seaspiracy
   - Tierrechte
-  - Vegane Filme
+  - vegane Filme
+  - vegane Dokus
+  - vegane Dokumentation
+  - Fischerei
+  - Meer
 focusKeyword: 'Seaspiracy'
 advertisement: false
 affiliate: false
@@ -37,7 +41,7 @@ Die Netflix-Doku befasst sich mit den Auswirkungen der Fischereiindustrie auf di
 
 > "Jeder, dem der Ozean und seine Zukunft am Herzen liegt, muss diesen Film sehen",
 
-schreibt er. Regisseur Ali Tabrizi erzählt online, dass das Filmteam das Ausmaß dessen, was es aufdecken würde, unterschätzt hatte. Er schreibt
+schreibt er. Regisseur Ali Tabrizi erzählt online, dass das Filmteam das Ausmaß dessen, was es aufdecken würde, unterschätzt hatte. Er berichtet:
 
 > "Was die Sache noch schockierender macht, ist die Tatsache, dass Regierungen und Umweltgruppen mitschuldig sind und vom Untergang des Meeres profitieren."
 
@@ -47,7 +51,7 @@ Die Filmleute berichten davon, dass sie während ihren Dreharbeiten schreckliche
 
 > "Das Tempo der Zerstörung unserer Ozeane übersteigt unser Wissen über ihre Wunder. Wir müssen uns an dieser dringend notwendigen Konversation beteiligen! Das ist wichtig, wenn wir den faszinierendsten Lebensraum der Erde schützen wollen."
 
-Der Vorgänger des Films "[Cowspiracy](/2020/04/cowspiracy-vegane-doku/)" sorgt nach wie vor weltweit für Aufmerksamkeit. Er ermutigt Menschen weltweit zum Umdenken. Zahlreiche wurden durch die Doku vegan. Auch die Macher von "What The Health ließen sich von dem Film inspirieren. Der Film handelt von den gesundheitlichen Auswirkungen tierischer Produkte.
+Der Vorgänger des Films "[Cowspiracy](/2020/04/cowspiracy-vegane-doku/)" sorgt nach wie vor weltweit für Aufmerksamkeit. Er ermutigt Menschen weltweit zum Umdenken. Zahlreiche wurden durch die Doku vegan. Auch die Macher von "What The Health" ließen sich von dem Film inspirieren. Der Film handelt von den gesundheitlichen Auswirkungen tierischer Produkte.
 
 Wenn Ihr mehr über Seaspiracy erfahren wollt, besucht am besten [die Webseite](https://www.seaspiracy.org/).
 
