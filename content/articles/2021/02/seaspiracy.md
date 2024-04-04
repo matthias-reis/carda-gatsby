@@ -6,7 +6,7 @@ title: '"Seaspiracy" auf Netflix'
 subTitle: 'Der neue Film von Kip Andersen ("Cowspiracy")'
 seoTitle: Seaspiracy auf Netflix – der neue Film von Kip Andersen (Cowspiracy)
 description: 'Mit "Seaspiracy" kommt nach "Cowspiracy" Kip Andersens zweite Tierrechtsdokumentation in Spielfilmlänge. Der Film ist ab 24.3. bei Netflix.'
-excerpt: 'Tintenfische verfügen über ein hochkomplexes Nervensystem. Sie spielen, pflegen ein wohlüberlegtes Sozialverhalten und gehören, mit ihrer Fähigkeit, sich ihrer Umgebung anzupassen, zu den faszinierendsten Lebewesen unserer Erde. In der Fischerei leiden sie bis heute Höllenqualen. In diesem Artikel findet Ihr spannede Fakten und wissenschaftliche Erkenntnisse über die Tiere.'
+excerpt: '"Seaspiracy" ist nach "Cowspiracy" Kip Andersens zweite Tierrechtsdokumentation in Spielfilmlänge. Das Werk wird ab dem 24. März bei Netflix verfügbar sein. Ich stelle Euch die Doku hier auf Sounds Vegan vor. Den Trailer könnt Ihr natürlich auch direkt anschauen.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-04-04/seaspiracy-soundsvegan-com-jpeg-imagine-c8c8c8_b3b3ad_1960_1470/640.webp
 copyright: edmondlafoto, Pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-04-04/seaspiracy-soundsvegan-com-og-jpg-imagine-b8b8b8_808987_1200_628/640.webp
