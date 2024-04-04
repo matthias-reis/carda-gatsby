@@ -103,7 +103,7 @@ Aktivistin Dörte Bremer meinte im Interview mit dem NDR:
 
 > "Wir wollen Hilfestellung geben. Dann kann der Konsument entscheiden, kaufe ich den Fisch oder nicht.".
 
-Auch der WWF gibt einen ähnlichen Ratgeber[^3]) heraus. Unterteilt ist er in die Kategorien "Empfohlene zertifizierte Produkte (ASC, MSC, BIO-Gütesiegel)", "Gute Wahl", "Zweite Wahl" und "Lieber nicht". Insgesamt sind nur 58 Fischarten und andere Meeresbewohner mit "lieber nicht" markiert, unter anderem auch die in Deutschland besonders beliebten Sardellen und Makrelen, aber auch Haie, Tintenfische und Garnelen. Auch Heringe standen vor einigen Jahren noch auf der roten Liste. Inzwischen können sie angeblich wieder bedenkenlos verzehrt werden. Was ich persönlich von Seiten einer Natur- und Tierschutzorganisation schon fast makaber finde, ist dass auf der Webseite des WWF sogar Fischrezepte zu finden sind.
+Auch der WWF gibt einen ähnlichen Ratgeber[^3]) heraus. Unterteilt ist er in die Kategorien "Empfohlene zertifizierte Produkte (ASC, MSC, BIO-Gütesiegel)", "Gute Wahl", "Zweite Wahl" und "Lieber nicht". Insgesamt sind nur 58 Fischarten und andere Meeresbewohner mit "lieber nicht" markiert, unter anderem auch die in Deutschland besonders beliebten Sardellen und Makrelen, aber auch Haie, [Tintenfische](/2024/04/tintenfische/) und Garnelen. Auch Heringe standen vor einigen Jahren noch auf der roten Liste. Inzwischen können sie angeblich wieder bedenkenlos verzehrt werden. Was ich persönlich von Seiten einer Natur- und Tierschutzorganisation schon fast makaber finde, ist dass auf der Webseite des WWF sogar Fischrezepte zu finden sind.
 
 ## Zucht ist nicht die Lösung
 
