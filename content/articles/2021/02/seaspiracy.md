@@ -1,27 +1,15 @@
 ---
-ogTitle: Seaspiracy auf Netflix – der neue Film von Kip Andersen (Cowspiracy)
-excerpt: Mit "Seaspiracy" kommt nach "Cowspiracy" Kip Andersens zweite
-  Tierrechtsdokumentation in Spielfilmlänge. Der Film ist ab 24.3. bei Netflix
-  verfügbar und kann jetzt schon zur Watchlist hinzugefügt werden.
-ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_seaspiracy.png__l.jpg
-isAffiliate: false
-path: /2021/02/seaspiracy/
-remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcGCAIDBf/EACgQAAEDAwMDAwUAAAAAAAAAAAECAxEABAUGEiEHEzEUQVEiIzJhkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABwRAAICAwEBAAAAAAAAAAAAAAECABESISIxQf/aAAwDAQACEQMRAD8Af9m6DchFyhC0pjYZHJ+JpeW/WDG2N++wccF3iBD4VdQm3PJDc7JJjniR45pinHtrKSlcKEHcnmI+RVSszgm7LWGfIu1MPpyFwFJJHH3DxHuCDNCCp+zbK9cywWnNc2+ps0hnH2Ab7xWbhHdKlNFKJDn4gQYA8ySfFSO5AQo0kuj7fY1Lkb1d2p170G0q4iS4njj3+k0zlZUGdyppVGW18hklQA3s6Frk7pxQQyiDEQohJ/vvUR1f09xGpMkvJ5Vm7tb5wBK7myeA7sQBvSQQTHE+YFFFCT1VRVuruYYXA4nTts9a4hl8pUR3HnjvW4R4kwBH6AFbw0pwkIQqfmaKKoBxGpOwyNmf/9k=
-typeName: Filmtipp
-isWerbung: false
-fileName: 2021-02---seaspiracy-auf-netflix.md
-slug: seaspiracy
-errors: {}
 date: 2021-02-26T13:51:47.000Z
-focusKeyword: Seaspiracy
-status: publish
-remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_seaspiracy-1__l.jpg
-remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_seaspiracy-1__m.jpg
+slug: seaspiracy
+typeName: Filmtipp
 title: '"Seaspiracy" auf Netflix'
-subTitle: Der neue Film von Kip Andersen (Cowspiracy)
+subTitle: 'Der neue Film von Kip Andersen ("Cowspiracy")'
 seoTitle: Seaspiracy auf Netflix – der neue Film von Kip Andersen (Cowspiracy)
-description: Mit "Seaspiracy" kommt nach "Cowspiracy" Kip Andersens zweite
-  Tierrechtsdokumentation in Spielfilmlänge. Der Film ist ab 24.3. bei Netflix.
+description: 'Mit "Seaspiracy" kommt nach "Cowspiracy" Kip Andersens zweite Tierrechtsdokumentation in Spielfilmlänge. Der Film ist ab 24.3. bei Netflix.'
+excerpt: 'Tintenfische verfügen über ein hochkomplexes Nervensystem. Sie spielen, pflegen ein wohlüberlegtes Sozialverhalten und gehören, mit ihrer Fähigkeit, sich ihrer Umgebung anzupassen, zu den faszinierendsten Lebewesen unserer Erde. In der Fischerei leiden sie bis heute Höllenqualen. In diesem Artikel findet Ihr spannede Fakten und wissenschaftliche Erkenntnisse über die Tiere.'
+image: https://storage.googleapis.com/cardamonchai-media/2024-04-04/seaspiracy-soundsvegan-com-jpeg-imagine-c8c8c8_b3b3ad_1960_1470/640.webp
+copyright: edmondlafoto, Pixabay
+ogImage: https://storage.googleapis.com/cardamonchai-media/2024-04-04/seaspiracy-soundsvegan-com-og-jpg-imagine-b8b8b8_808987_1200_628/640.webp
 labels:
   - Bücher & Filme
   - Cowspiracy
@@ -29,6 +17,9 @@ labels:
   - Seaspiracy
   - Tierrechte
   - Vegane Filme
+focusKeyword: 'Seaspiracy'
+advertisement: false
+affiliate: false
 language: de
 ---
 
@@ -38,13 +29,7 @@ Der Filmemacher möchte mit "Seaspiracy" laut eigener Aussage den "Krieg, den di
 
 ## "Seaspiracy" – eine Netflix Original Dokumentation
 
-<RemoteImage
-  alt={`Seaspiracy`}
-  size="medium"
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_seaspiracy-2__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_02_seaspiracy-2__l.jpg"
-  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBAwYF/8QAKhAAAQMDAwMEAQUAAAAAAAAAAQIDEQAEBRIhMQYTQQciI1EyM2FxobH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIEBf/EABoRAAMAAwEAAAAAAAAAAAAAAAABAgMRITH/2gAMAwEAAhEDEQA/AFdmWUJULdhbay3KFuIjSPI3HPJH+Vli0SSAJIpxvenWVeuXEM4u0cYC7cqLF6iFx+t+ySVRE8ARVA9Ks/BUnENHUbgFBv0AgEfESZ8EnjmPqtlOX6cjFFx4hUNW3dUkJOyvP1/NWuY15hHcKfbEyOIpho9Pc/i7LvXXTt06lRY3Yum3VIAJDnsSSZMAgiQBUIwWURilvs9O5o45XfV3BbrPxfi1xzCtztuP6aUsKrKnpHJR13cm6+XuFkuaip55dw8gmNRQVEATHBEVpEdevJbfLV5cMrLQcsVcqnZIDpmNITq2AmVTM0UUEtNdTMjl+tc9nLxYGVu0tuBTQb1RKDuQSOeBQc31JhbE2jGVuLdorJ0NOlJC4BkKG8RHmiinPUTkWq0f/9k="
-/>
+![Bild/Foto: © Seaspiracy](https://storage.googleapis.com/cardamonchai-media/2024-04-04/seaspiracy-schriftzug-soundsvegan-com-jpeg-imagine-082838_305760_600_450/640.webp 'Bild/Foto: © Seaspiracy')
 
 "Seaspiracy" ist bereits bei Netflix gelistet. Um den Start nicht zu verpassen, kann man ihn also ab sofort zur Watchlist hinzufügen. Auch einen Trailer hat die Seaspiracy Crew inzwischen ins Netz gestellt.
 
