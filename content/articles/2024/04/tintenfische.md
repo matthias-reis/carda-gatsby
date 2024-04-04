@@ -32,7 +32,7 @@ Sie gehören zu den Kopffüßlern oder Cephalopoda und haben einen Tintenbeutel 
 
 ## Achtarmige und Zehnarmige Tintenfische
 
-![Oktopus unter Wasser. Bild/Foto: © MartinStr., Pixabay](https://storage.googleapis.com/cardamonchai-media/2024-04-04/oktopoden-tintenfische-soundsvegan-com-martin-str-squid-octopus-underwater-animal-225422-jpg-imagine-08b8b8_389572_1024_768/640.webp 'Oktopus unter Wasser. Bild/Foto: © MartinStr., Pixabay')
+![Bild/Foto:"Squid" © MartinStr, Pixabay](https://storage.googleapis.com/cardamonchai-media/2024-04-04/oktopoden-tintenfische-soundsvegan-com-martin-str-squid-octopus-underwater-animal-225422-jpg-imagine-08b8b8_389572_1024_768/640.webp 'Bild/Foto:"Squid" © MartinStr, Pixabay')
 
 Ein häufiges Missverständnis ist, dass alle Tintenfische acht Arme haben. Neben den Achtarmigen Tintenfischen (Vampyropoda) gibt es jedoch auch Zehnarmigen Tintenfische (Decabrachia), zu denen auch die Sepien gezählt werden, die umgangssprachlich am häufigsten mit dem Begriff "Tintenfisch" gemeint sind. Auch die bereits ausgestorbenen Belemniten (Belemnoidea) gehören zu den Tintenfischen. Die ältesten bestätigten Tintenfischfunde entstammen dem Mississippium (Unteres Karbon) [^2]. Dieses begann vor rund 358,9 Millionen Jahren. Es endete vor circa 323,2 Millionen Jahren.
 
@@ -52,7 +52,7 @@ Die Meere sind hoffnungslos überfischt und darunter leiden auch die Tintenfisch
 
 ## Fischereitechniken und ihre Auswirkungen
 
-![Oktopus unter Wasser. Bild/Foto: © MartinStr., Pixabay](https://storage.googleapis.com/cardamonchai-media/2024-04-04/oktopoden-tintenfische-soundsvegan-com-martin-str-squid-octopus-underwater-animal-225423-jpg-imagine-182828_435d4c_1024_768/640.webp 'Oktopus unter Wasser. Bild/Foto: © MartinStr., Pixabay')
+![Bild/Foto:"Squid" © MartinStr, Pixabay](https://storage.googleapis.com/cardamonchai-media/2024-04-04/oktopoden-tintenfische-soundsvegan-com-martin-str-squid-octopus-underwater-animal-225423-jpg-imagine-182828_435d4c_1024_768/640.webp 'Bild/Foto:"Squid" © MartinStr, Pixabay')
 
 Speziell für Oktopoden konzipierte Fischereitechniken wie Fallen, Haken oder Töpfe wirken sich zwar insgesamt weniger auf die Umwelt aus (Beifang, Meeresboden) als zum Beispiel Schleppnetze. Besonders die Entfernung der Tiere aus dem Fangutensil sowie die Schlachtung sind jedoch grausam und werden von Tierrechtsorganisationen wie der Albert Schweitzer Stiftung und PETA[^13] immer wieder als nicht tierschutzkonform beschrieben.
 
