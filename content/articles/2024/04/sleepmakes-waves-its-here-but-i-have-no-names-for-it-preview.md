@@ -1,5 +1,5 @@
 ---
-date: 2024-04-05T12:30:0:00.766Z
+date: 2024-04-05T12:30:00.766Z
 slug: sleepmakes-waves-its-here-but-i-have-no-names-for-it-preview-en
 typeName: Preview
 title: 'sleepmakeswaves Album Pre-Listening'
