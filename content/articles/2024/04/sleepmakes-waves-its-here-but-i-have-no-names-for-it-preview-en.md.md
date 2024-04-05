@@ -102,7 +102,7 @@ sleepmakeswaves gründeten sich 2006 in Sydney. Seitdem ist die Band 16-mal durc
 
 Auf Tour waren sleepmakeswaves unter anderem bereits mit Projekten wie Karnivool, COG, Devin Townsend, Unteroath und Russian Circles. Durch ihre weltweite Vernetzung gelang es der Band auch, Australientouren für Bands wie 65daysofstatic, Rosetta, The Contortionist, This Will Destroy You, And So I Watch You From Afar möglich gemacht und damit die Post-Music-Szene noch enger zusammengebracht. Einer ihrer größten gemeinsamen Wünsche – eines Tages in Sydney for dem ausverkauften Metro Theatre zu spielen – wurde für sleepmakeswaves inzwischen bereits mehrfach Realität. Das erste Konzert zeichnete die Band für die Triple-J-Sendung "Live at the Wireless"[^2] auf.
 
-In Kürze wird es hier auf Sounds Vegan noch mehr Infos über sleepmakeswaves geben. Bleibt dran!
+In Kürze wird es hier auf Sounds Vegan noch mehr Infos über sleepmakeswaves geben. Bleibt also dran!
 
 [^1]: [sleepmakeswaves Homepage ](www.sleepmakeswaves.com)
 [^2]: [sleepmakeswaves – "Live at the Wireless", Bandcamp](https://sleepmakeswaves.bandcamp.com/track/great-northern-triple-j-live-at-the-wireless)
