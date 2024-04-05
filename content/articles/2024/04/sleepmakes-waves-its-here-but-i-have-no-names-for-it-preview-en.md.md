@@ -38,7 +38,7 @@ Wenn Ihr meine News "It's Here, But I Have No Names For It" im Februar gelesen h
 
 Zusammen mit der Nachricht über ihr neues Album veröffentlichten sleepmakeswaves ein mysteriöses Statement, das wunderbar auf das einstimmt, was Euch erwartet:
 
-> "Die Instrumentalband sleepmakeswaves beschloss, die Rockmusik zu retten Im Jahr vierundzwanzig Die Fans schrien nach mehr und so brachten sie eine neue Platte heraus: 'It's a rave!'
+> "Die Instrumentalband sleepmakeswaves beschloss,<br></br> die Rockmusik zu retten<br></br> Im Jahr vierundzwanzig<br></br> Die Fans schrien nach mehr<br></br> und so brachten sie<br></br> eine neue Platte heraus:<br></br> 'It's a rave!'<br></br>
 >
 > Die geheimnisvolle Phase des Nichts, die für den kreativen Prozess von smw entscheidend ist, ist vorbei: unser neues Album ist endlich fertig. Vielen Dank an alle unsere Hörer\*innen für die Geduld. Es war eine langsame, aber intensive Liebesmüh, und wir sind stolz auf die Songs auf dieser Platte und dankbar für die vielen Leute, die uns geholfen haben, sie zum Leben zu erwecken. Wir hoffen, Euch 2024 auf unsere Tour zu sehen (weitere Konzertankündigungen werden folgen) und wir hoffen wirklich, dass die neue Musik, die wir veröffentlichen werden, mit Euch das Gleiche macht, wie mit uns."
 

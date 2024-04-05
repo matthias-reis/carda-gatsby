@@ -38,21 +38,11 @@ If you read my news "It's Here, But I Have No Names For It" in February, you alr
 
 Together with their not about their new album, sleepmakeswaves released a mysterious statement that sets the mood wonderfully for what awaits you:
 
-> "The instrumental band sleepmakeswaves
-
-Decided rock music they must save
-
-In the year twenty twenty-four
-
-Fans were clamouring for more
-
-So they dropped a new record
-
-It's a rave!"
-
+> "The instrumental band sleepmakeswaves<br></br> Decided rock music they must save<br></br> In the year twenty twenty-four<br></br> Fans were clamouring for more<br></br> So they dropped a new record<br></br> It's a rave!"<br></br>
 >
-
 > The mysterious phase of nothingness, crucial to the smw creative process, is over: our new album is finally done. Thank you so much to all our listeners for your patience. It has been a slow but intense labour of love, and we are proud of the songs on this record and grateful for the many people who helped bring it to life. Hope to see you on the road in 2024, more show announcements to come, and we truly hope the new music we're about to release resonates with you in the same way it does with us."
+
+Alongside the statement, the band released a video titled "Super Post-Rock RPG"—a 1990s video game-style cartoon clip about sleepmakeswaves. Please make sure to check it out after reading this. I'm dropping it for you below!
 
 It's been four years since sleepmakeswaves last released a full-length album, and it's safe to say that the sun is rising with the start of a new chapter. "It's Here, But I Have No Names For It" is dreamlike and playful, visually powerful and strong. It interweaves shadows and light, abysses and happiness into an extraordinary tapestry of sound.
 
