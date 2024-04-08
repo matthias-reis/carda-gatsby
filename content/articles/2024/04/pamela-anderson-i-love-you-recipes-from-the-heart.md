@@ -1,5 +1,5 @@
 ---
-date: 2024-04-08T12:30:12.086Z
+date: 2024-04-08T11:30:12.086Z
 slug: pamela-anderson-i-love-you-recipes-from-the-heart
 typeName: Buchtipp
 title: '"I Love You: Recipes From The Heart"'
