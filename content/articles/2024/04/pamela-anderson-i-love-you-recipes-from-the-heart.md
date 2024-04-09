@@ -36,7 +36,7 @@ Pamela hatte ihr Kochbuch bereits 2023 angekündigt – zusammen mit einer neuen
 
 ## "Ein Kochbuch und eine Kochshow waren für mich schon immer ein Traum!"
 
-![Pamela Anderson. Bild/Foto: © Pamela Anderson](https://storage.googleapis.com/cardamonchai-media/2024-04-08/pamela-anderson-i-love-you-recipes-from-the-heart-soundsvegan-jpg-imagine-a88878_b1895f_768_1024/640.webp 'Pamela Anderson. Bild/Foto: © Pamela Anderso')
+![Pamela Anderson. Bild/Foto: © Pamela Anderson](https://storage.googleapis.com/cardamonchai-media/2024-04-08/pamela-anderson-i-love-you-recipes-from-the-heart-soundsvegan-jpg-imagine-a88878_b1895f_768_1024/640.webp 'Pamela Anderson. Bild/Foto: © Pamela Anderson')
 
 > "Für mich war es schon immer ein Traum, irgendwann eine eigene Kochshow zu haben. Ich bin schon sehr lange eine Aktivistin. Ich habe immer für die Rechte der Tiere gekämpft, für Menschenrechte, verletzliche Personen, verletzliche Lebewesen und die Natur. Und gegen die Klimakatastrophe. Ich möchte also nicht mal wirklich das wort 'vegan' sagen, wenn es um die Show geht. Wir feiern einfach Gemüse. Das ist es, was wir essen."
 
