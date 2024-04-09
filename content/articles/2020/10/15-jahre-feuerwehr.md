@@ -33,6 +33,7 @@ labels:
   - vegane Handtaschen
   - vegane Taschen
   - veganes Leder
+  - Feuerwear
 focusKeyword: Feuerwear
 status: publish
 isWerbung: false
