@@ -1,5 +1,5 @@
 ---
-date: 2024-04-09T10:15:12.086Z
+date: 2024-04-09T08:15:12.086Z
 slug: food-for-profit
 typeName: Filmtipp
 title: 'Food For Profit'
