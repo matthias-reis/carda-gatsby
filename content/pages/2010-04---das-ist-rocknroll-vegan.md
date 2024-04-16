@@ -96,7 +96,7 @@ Wer sich jetzt angesprochen fühlt und gerne möchte, dass ich seine Produkte vo
 
 [Hier könnt Ihr mein Mediakit herunterladen](/mein-mediakit/).
 
-Und nicht nur für **Sounds Vegan** bin ich immer an neuen Kontakten interessiert. Als Freelancerin bin ich immer auf der Suche nach spannenden Textaufträgen. Ihr benötigt starken Content zu einem bestimmten Thema? Ihr seid auf der Suche nach jemandem, der zuverlässig Eure Texte in Eure Homepage oder Euren Shop einpflegt und das fehlerfrei? Dann seid Ihr bei mir an der richtigen Adresse.
+Und nicht nur für **Sounds Vegan** bin ich immer an neuen Kontakten interessiert. Als Freelancer freue ich mich immer über spannende, neue Textaufträgen. Ihr benötigt starken Content zu einem bestimmten Thema? Ihr seid auf der Suche nach jemandem, der zuverlässig Eure Texte in Eure Homepage oder Euren Shop einpflegt und das fehlerfrei? Dann seid Ihr bei mir an der richtigen Adresse.
 
 Weil ich sehr neugierig bin und liebend gerne neue Produkte ausprobiere, bewerte ich diese nicht nur hier auf Sounds Vegan. Als [offizielle Produktexpertin für idealo.de](https://tidd.ly/492ImCI) nehme ich regelmäßig vegane Brands unter die Lupe und schreibe Expertenmeinungen über ihre veganen Produkte. Mein Spezialgebiet: Körper & Pflege – natürlich vegan!
 
@@ -104,9 +104,9 @@ Weil ich sehr neugierig bin und liebend gerne neue Produkte ausprobiere, bewerte
 
 ## Alles beginnt mit dem passenden Text
 
-Ich schreibe, seit ich Buchstaben zu Papier bringen kann. Seit ich denken kann, ist es meine Leidenschaft, Wörter in eine Reihenfolge zu bringen und mit Leben zu bringen. Als meine Leidenschaft dann vor einiger Zeit auch noch zu meinem Beruf wurde, ging für mich ein Traum in Erfüllung, der mich schon lange begleitete.
+Ich schreibe, seit ich Buchstaben zu Papier bringen kann. Seit ich denken kann, ist es meine Leidenschaft, Wörter in eine Reihenfolge zu bringen und mit Leben zu füllen. Als meine Leidenschaft dann 2008 auch noch zu meinem Beruf wurde, ging für mich ein Traum in Erfüllung, der mich schon lange begleitete.
 
-Der passende Text ist wichtig: Er kann ein Aushängeschild sein, eine Meinung zum Ausdruck bringen oder ein Produkt beschreiben, Geschichten erzählen, Fakten umschreiben und Nachrichten übermitteln. Meine Devise lautet daher "Alles beginnt mit dem richtigen Text". Meine Texte, die online erscheinen, optimiere ich gerne auf Keywords. Doch nicht nur der SEO-Bereich ist mir ein Begriff, auch was HTML, Bildbearbeitung und diverse Content-Management-Systemen angeht, kenne ich mich aus.
+Der passende Text ist wichtig: Er kann ein Aushängeschild sein, eine Meinung zum Ausdruck bringen oder ein Produkt beschreiben, Geschichten erzählen, Fakten umschreiben und Nachrichten übermitteln. Meine Devise lautet daher "Alles beginnt mit dem passenden Text". Meine Texte, die online erscheinen, optimiere ich gerne auf Keywords. Doch nicht nur der SEO-Bereich ist mir ein Begriff, auch was HTML, Bildbearbeitung und diverse Content-Management-Systemen angeht, kenne ich mich aus.
 
 ## Schreiben ist meine Leidenschaft
 
@@ -114,7 +114,7 @@ Ich liebe es, beim Schreiben immer wieder die Perspektive zu wechseln, mich in M
 
 Wo wir schon bei fiktionalen Texten sind: Die Erfüllung eines weiteren Traums kam 2019 mit dem [Roman "Die Hermetiker"](https://amreis.de/hermetiker/?h=ha118) für mich dazu, den ich mit dem Menschen an meiner Seite Matze geschrieben habe. Kurz zuvor hatten wir unsere [Kurzgeschichte "Die vierte Welle"](https://amreis.de/#stories) in Druck geschickt.
 
-Was das Medium betrifft, bin ich nicht festgelegt. Print fasziniert mich genauso wie Online. So habe ich zum Beispiel lange Zeit für das **Welt Vegan Magazin** als Textchefin gearbeitet. Auch im Bereich [Lokaljournalismus](/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/) habe ich bereits gearbeitet. Beruflich bin ich als Content Writer unterwegs und schreibe (SEO-)Texte für viele spannende Kund⋆innen.
+Was das Medium betrifft, bin ich nicht festgelegt. Print fasziniert mich genauso wie Online. So habe ich zum Beispiel eine Weile für das **Welt Vegan Magazin** als Textchefin gearbeitet. Auch im Bereich [Lokaljournalismus](/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/) habe ich bereits gearbeitet. Beruflich bin ich als Content Writer unterwegs und schreibe (SEO-)Texte für viele spannende Kund⋆innen.
 
 ![Mit Sir Archie auf Hof Butenland](https://storage.googleapis.com/cardamonchai-media/2024-01-24/anne-reis-soundsvegan-com-3-jpg-imagine-383838_737373_1024_768/640.webp 'Mit Sir Archie auf Hof Butenland')
 
