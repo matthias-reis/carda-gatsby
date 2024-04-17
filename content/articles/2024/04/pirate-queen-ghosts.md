@@ -58,7 +58,7 @@ Stellt man sich die Metal-Szene wie einen rostigen Seelenverkäufer vor, liefern
 ## Pirate Queen – "Ghosts" – Tracklist
 
 1.  Pirates from the Sea
-2.  Siren’s Tears
+2.  Siren's Tears
 3.  Ghosts
 4.  In the search of Eldorado
 5.  Santa Lucia

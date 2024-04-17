@@ -28,7 +28,7 @@ focusKeyword: 'Pirate Queen - "Ghosts"Pirate Queen - "Ghosts"'
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2024/03/thot-delta/
+languageLink: /2024/04/pirate-queen-ghosts/
 ---
 
 **With their album "Ghosts", on May 3rd, Pirate Queen will release a record that will shake up the metal scene. The first all-female pirate metal band from the Bermuda Triangle shows how power metal mixed with fantasy fairy tales and playful melodies can work with this debut.**
@@ -56,7 +56,7 @@ If you imagine the metal scene like a heavy and rusty soul-selling trawler, thes
 ## Pirate Queen - "Ghosts" - Tracklist
 
 1.  Pirates from the Sea
-2.  Siren’s Tears
+2.  Siren's Tears
 3.  Ghosts
 4.  In the search of Eldorado
 5.  Santa Lucia
