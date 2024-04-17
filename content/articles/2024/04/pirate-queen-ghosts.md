@@ -49,7 +49,7 @@ Ihre coolen Gitarrenmelodien und massiven Soundwände reichern Pirate Queen auch
 
 Von klassischen Metal-Bands heben sich Pirate Queen jedoch nicht ausschließlich durch ihre exzentrischen Liveshows ab. Beim Durchhören der insgesamt acht Songs wird man Zeug\*in, wie die fünf dem Metal ordentlich eins vor dem Bug geben – mit ihren Gesangsharmonien, der allgegenwärtigen Spukatmosphäre und den klar herausgearbeiteten Höhepunkten spielen sie sich direkt auf die Bühnen der Metal-Festivals.
 
-Womit wir auch gleich beim Thema wären: Die ersten Liveshows mit dem Album sind bereits in Planung. Pirate Queen werden unter anderem am 28. und 29.12.2024 auf dem X-Mas Festival in Runkel auftreten.
+Womit wir auch gleich beim Thema wären: Die ersten Liveshows mit dem Album sind bereits in Planung. Pirate Queen werden unter anderem am 28. und 29.12.2024 auf dem X-Mas Festival in Runkel spielen.
 
 Stellt man sich die Metal-Szene wie einen rostigen Seelenverkäufer vor, liefern diese fünf Musikerinnen den glänzenden Enterhaken, der den Seeleuten das Fürchten lehrt. Wir dürfen gespannt sein, was wir von Pirate Queen als Nächstes hören werden.
 

@@ -47,7 +47,7 @@ If you like power metal, this record is made for you anyway. And if you also lik
 
 Pirate Queen also enriches their cool guitar melodies and massive walls of sound with elements of piracy at their live shows. They combine their concerts with live-action role-playing, wear replica boots from the buccaneering era on stage, and produce their own QueenSikkim Gin. However, Pirate Queen don't just stand out from classic metal bands because of their eccentric live shows. As you listen to the eight songs, you'll witness how the five of them give metal a nudge—with their vocal harmonies, the omnipresent spooky atmosphere, and clearly worked-out peaks of the story they're telling, they play themselves straight onto the stages of the world's metal festivals.
 
-Which brings me straight to the point: The first live shows to promote the album have already been booked. Pirate Queen will perform at the X-Mas Festival in Runkel on 28 and 29 December 2024, for example.
+Which brings me straight to the point: The first live shows to promote the album have already been booked. Pirate Queen will perform at an X-Mas Festival on 28 and 29 December 2024, for example.
 
 If you imagine the metal scene like a heavy and rusty soul-selling trawler, these five musicians provide the shiny grappling hook that teaches the sailors what fear is. I can't wait to see what's next from the Pirate Queen Bay.
 
