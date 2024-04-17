@@ -49,7 +49,7 @@ Pirate Queen also enriches their cool guitar melodies and massive walls of sound
 
 Which brings me straight to the point: The first live shows to promote the album have already been booked. Pirate Queen will perform at the X-Mas Festival in Runkel on 28 and 29 December 2024, for example.
 
-If you imagine the metal scene like a heavy and rusty soul-selling trawler, these five musicians provide the grappling hook that teaches the sailors what fear is. I can't wait to see what's next from the Pirate Queen Bay.
+If you imagine the metal scene like a heavy and rusty soul-selling trawler, these five musicians provide the shiny grappling hook that teaches the sailors what fear is. I can't wait to see what's next from the Pirate Queen Bay.
 
 "Ghosts" will be released on Despotz Records on May 3rd. You can pre-order the album via Bandcamp[^1] in various vinyl versions and as a CD or digital download.
 
