@@ -51,7 +51,7 @@ Von klassischen Metal-Bands heben sich Pirate Queen jedoch nicht ausschließlich
 
 Womit wir auch gleich beim Thema wären: Die ersten Liveshows mit dem Album sind bereits in Planung. Pirate Queen werden unter anderem am 28. und 29.12.2024 auf dem X-Mas Festival in Runkel spielen.
 
-Stellt man sich die Metal-Szene wie einen rostigen Seelenverkäufer vor, liefern diese fünf Musikerinnen den glänzenden Enterhaken, der den Seeleuten das Fürchten lehrt. Wir dürfen gespannt sein, was wir von Pirate Queen als Nächstes hören werden.
+Stellt man sich die Metal-Szene wie einen rostigen Seelenverkäufer vor, liefern diese fünf Musikerinnen den glänzenden Enterhaken, der die Seeleute das Fürchten lehrt. Wir dürfen gespannt sein, was wir von Pirate Queen als Nächstes hören werden.
 
 "Ghosts" erscheint am 3. Mai auf Despotz Records. Ihr könnt das Album unter anderem über Bandcamp[^1] in verschiedenen Vinyl-Versionen sowie als CD oder digitalen Download vorbestellen.
 
