@@ -24,7 +24,7 @@ affiliate: true
 language: de
 ---
 
-**Wild Cosmetics – diesen Namen habt Ihr sicher schon mal gehört. Weil es mir auch so geht und das bis jetzt bisher nur Gutes war, sagte ich kurzerhand zu, als sich die vegane Beauty-Brand vor Kurzem bei mir meldete und anfragte, ob ich mal testen möchte. In diesem Artikel erfahrt Ihr alles, was mir beim Ausprobieren des Duschgels und Deos aufgefallen ist – und noch einiges mehr über Wild.**
+**Wild Cosmetics – diesen Namen habt Ihr sicher schon mal gehört. Weil es mir auch so geht und das bis jetzt bisher nur Gutes war, sagte ich kurzerhand zu, als sich die vegane Beautybrand vor Kurzem bei mir meldete und anfragte, ob ich mal testen möchte. In diesem Artikel erfahrt Ihr alles, was mir beim Ausprobieren des Duschgels und Deos aufgefallen ist – und noch einiges mehr über Wild.**
 
 ---
 
