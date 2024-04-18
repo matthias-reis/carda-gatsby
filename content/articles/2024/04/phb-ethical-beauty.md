@@ -59,7 +59,7 @@ Beim Duschen wird Euch vermutlich direkt auffallen, dass das Gel eine eher milch
 
 Ich gebe es am liebsten auf einen großen Schwamm und verteile es dann vorsichtig über den ganzen Körper. Weil es sehr ergiebig ist, genügt schon eine kleine Portion davon für den Kopf und den Körper. Anschließend nutze ich für die Haare meine gewohnte Spülung – je nach Haarlänge und -struktur empfehle ich Euch das auch. Zwar macht das Gel die Haare beim Waschen weder spröde noch stumpf, doch etwas leichter kämmen lassen sie sich selbstverständlich immer mit einer Spülung (oder Kur oder Rinse, je nachdem, wie Eure Haarroutine aussieht).
 
-Empfindliche, zu roten Flecken neigende trockene Haut pflegt das Produkt hervorragend. Ich habe mich sogar dabei erwischt, wie ich ein paar Mal komplett auf zusätzliches Öl und Bodylotion verzichtet habe und es ist mir gut bekommen. Beides ist bei mir normalerweise Pflicht, wenn ich keine juckende Haut haben möchte.
+Empfindliche, zu roten Flecken neigende trockene Haut pflegt das Produkt hervorragend. Ich habe mich sogar dabei erwischt, wie ich ein paar Mal komplett auf zusätzliches Öl und Bodylotion verzichtet habe und es ist mir gut bekommen. Beides ist für mich normalerweise Pflicht, wenn ich keine juckende Haut haben möchte.
 
 ## PHB Ethical Beauty im Big Green Smile Shop
 
