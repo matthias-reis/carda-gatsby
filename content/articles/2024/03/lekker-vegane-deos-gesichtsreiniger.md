@@ -73,4 +73,4 @@ Insgesamt gefallen mir die lekker Beauty-Produkte extrem gut. Das Konzept – oh
 
 Ein Deodorant, das ohne reizende Inhaltsstoffe auskommt, hält, was es verspricht und dabei auch noch toll duftet, ist mir ohne Plastik bis dato erst einmal begegnet. In diesem Fall kann ich sogar die komplette Verpackung einfach kompostieren und es bleibt kein Müll. Ich meine: Wie genial ist das denn? Ich glaube, dass sich viele Brands von lekker etwas abschauen und dabei einiges lernen können. Ob ihr die Sachen auch testen solltet? Auf jeden Fall! Lasst Euch das auf keinen Fall entgehen! Natürlich und ohne Plastik macht schön – uns und die Umwelt!
 
-Im Rahmen meiner Kooperation mit Big Green Smile ist auch ein Artikel über The Humble Co. und die nachhaltigen, veganen Zahnpflegeprodukte der Brand entstanden. [Jetzt lesen](/2024/01/the-humble-co/)!
+Im Rahmen meiner Kooperation mit Big Green Smile sind auch meine Artikel über die britische Beautybrand [PHB Ethical Beauty](/2024/01/phb-ethical-beauty/) sowie über [The Humble Co. und die nachhaltigen, veganen Zahnpflegeprodukte der Brand](/2024/01/the-humble-co/) entstanden.

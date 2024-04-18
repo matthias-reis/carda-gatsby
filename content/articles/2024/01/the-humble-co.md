@@ -67,4 +67,4 @@ Besonders schön ist auch die Idee mit der Stiftung. Die Tatsache, dass man bei 
 
 <Gallery name="the-humble-co-big-green-smile-2" />
 
-Im Rahmen meiner Kooperation mit Big Green Smile ist auch ein Artikel über die veganen Deodorants und weitere Produkte der lekker Company entstanden. [Jetzt lesen](/2024/03/lekker-vegane-deos-gesichtsreiniger/)!
+Im Rahmen meiner Kooperation mit Big Green Smile sind auch meine Artikel über die britische Beautybrand [PHB Ethical Beauty](/2024/01/phb-ethical-beauty/) sowie über [lekker und die duftigen, plastikfreien Deos und Reinigungsprodukte des niederländischen Start-ups](/2024/03/lekker-vegane-deos-gesichtsreiniger/) entstanden.
