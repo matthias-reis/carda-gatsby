@@ -72,4 +72,6 @@ Ich wünsche mir, Blúmé auf einer Festivalbühne zu erleben. Unbeschwert bei S
 
 Gegründet haben sich Blúmé 2022. Den Gründungsmitgliedern Noah Lahn (Vocals), Adrián Cantú (Gitarre) und Samuel Bergmann (Drums) schloss sich etwas später noch Simon Henschen (Bass) an. Ihre musikalischen Wurzeln sehen die vier in den späten 1960er- und frühen 1970er-Jahren. Darauf beziehen sie sich in ihren Stücken auch immer wieder.
 
+"Everything Is Going To Be O.K." erscheint am 26. April
+
 [^1]: [Blúmé – "Everything Is Going To Be O.K.", Bandcamp](https://bandblume.bandcamp.com/album/everything-is-going-to-be-o-k)
