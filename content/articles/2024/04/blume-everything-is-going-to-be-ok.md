@@ -48,7 +48,7 @@ Besser kann man es nicht formulieren. Am besten klingt das Stück natürlich ein
 
 <YouTube id="qdMQko6XL7M" />
 
-Weitere Songs, die Ihr bereits hören könnt, sind "The Sun" (Track 2) und "Two of a Kind" (Track 3). Hört sie Euch am besten direkt am Stück an (Das klappt zum Beispiel wunderbar auf Bandcamp[^1]). Ihr bekommt dann einen guten Eindruck davon, wie wunderbar die Songs auf "Everything Is Going To Be O.K." ineinander laufen und zusammen eine Geschichte erzählen.
+Weitere Songs, die Ihr bereits hören könnt, sind "The Sun" (Track 2) und "Two of a Kind" (Track 3). Hört sie Euch am besten direkt am Stück an (Das klappt zum Beispiel perfekt auf Bandcamp[^1]). Ihr bekommt dann einen guten Eindruck davon, wie wunderbar die Songs auf "Everything Is Going To Be O.K." ineinander laufen und zusammen eine Geschichte erzählen.
 
 ## Blúmé – "The Sun"
 
