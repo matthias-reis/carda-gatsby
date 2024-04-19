@@ -38,7 +38,7 @@ Die Band selbst kommentiert ihr Album, das nun auf die drei im vergangenen Jahr 
 
 Diese Perspektiven kann man beim Hören der LP einnehmen und erlebt jeden einzelnen Moment und jede Songzeile mit. Es ist dieses Spürbare und Vertraute, das die Platte so entspannt und nahbar macht und zu einem Werk, das man immer und immer wieder rauf und runter hören möchte.
 
-Gerade ist mit "Dream of You" die wieder eine Vorauskopplung von "Everything Is Going To Be O.K." erschienen. Ihr könnt also auch schon reinhören. Die Band kündigt den Song mit den folgenden Worten an:
+Gerade ist mit "Dream of You" eine neue Vorauskopplung von "Everything Is Going To Be O.K." erschienen. Ihr könnt also auch schon reinhören. Die Band kündigt den Song mit den folgenden Worten an:
 
 > "'Dream of You' ist eine geradlinige Fahrt zum Indie/Garage/Post-Punk-Revival. Oberflächlich betrachtet ist es ein Pop-Smash-Rocker, der den Hörer in einem adrenalingetriebenen Griff hält. Bei genauerem Hinhören entdeckt man jedoch die sich ständig verändernden und wechselnden Variationen von Fills, Riffs und Ausdrücken, die aufeinander aufbauen und die konzeptionelle Tiefe des Songs noch verstärken."
 
