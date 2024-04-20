@@ -21,12 +21,14 @@ import {
   InsertImage,
   GenericJsxEditor,
   InsertTable,
+  usePublisher,
 } from '@mdxeditor/editor';
 import '@mdxeditor/editor/style.css';
 
 export const EditorEngine: FC<MDXEditorProps> = (props) => (
   <MDXEditor
     contentEditableClassName="editor"
+    className="dark-theme dark-editor"
     plugins={[
       headingsPlugin(),
       listsPlugin(),
@@ -57,9 +59,42 @@ export const EditorEngine: FC<MDXEditorProps> = (props) => (
             Editor: GenericJsxEditor,
           },
           {
+            name: 'Vimeo',
+            kind: 'flow',
+            props: [{ name: 'id', type: 'string' }],
+            Editor: GenericJsxEditor,
+          },
+          {
             name: 'Gallery',
             kind: 'flow',
             props: [{ name: 'name', type: 'string' }],
+            Editor: GenericJsxEditor,
+          },
+          {
+            name: 'FestivalList',
+            kind: 'flow',
+            props: [],
+            Editor: GenericJsxEditor,
+          },
+          {
+            name: 'RemoteImage',
+            kind: 'flow',
+            props: [
+              { name: 'alt', type: 'string' },
+              { name: 'size', type: 'string' },
+              { name: 'mediumUrl', type: 'string' },
+              { name: 'largeUrl', type: 'string' },
+              { name: 'loadingUrl', type: 'string' },
+            ],
+            Editor: GenericJsxEditor,
+          },
+          {
+            name: 'Playlist',
+            kind: 'flow',
+            props: [
+              { name: 'spotify', type: 'string' },
+              { name: 'itunes', type: 'string' },
+            ],
             Editor: GenericJsxEditor,
           },
         ],

@@ -81,6 +81,10 @@
   }
 }
 
+.editor {
+  @apply leading-loose;
+}
+
 .editor h2 {
   @apply text-2xl font-bold mt-5 mb-2;
 }
@@ -93,6 +97,18 @@
   @apply mt-2;
 }
 
+.editor ol {
+  @apply list-decimal pl-4;
+}
+
+.editor ul {
+  @apply list-disc pl-4;
+}
+
 .editor blockquote {
   @apply mt-2 border-l-4 border-l-orange-600 pl-2;
+}
+
+.mdxeditor .mdxeditor-toolbar {
+  @apply bg-stone-800;
 }

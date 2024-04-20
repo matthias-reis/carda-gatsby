@@ -17,7 +17,7 @@ export async function GET(request: Request) {
   if (!slug) return new Response('no slug provided', { status: 400 });
 
   if (slug.endsWith('/')) slug = slug.slice(0, -1);
-  const path = `${process.cwd()}/content/articles/${slug}.md`.replace(
+  const path = `${process.cwd()}/content/articles${slug}.md`.replace(
     '/cms',
     ''
   );

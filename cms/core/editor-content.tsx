@@ -274,7 +274,7 @@ export const EditorContent: FC<{
           <div className="max-w-3xl mx-auto">
             <EditorEngine
               markdown={article.body}
-              onChange={() => console.log('changed')}
+              onChange={(body) => change((a: Article) => ({ ...a, body }))}
               className="h-full p-3"
             />
           </div>
