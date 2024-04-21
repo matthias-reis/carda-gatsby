@@ -1,16 +1,11 @@
 ---
 date: 2021-04-06T04:09:24.000+00:00
-slug: klar-seifen
-path: '/2021/04/klar-seifen/'
 date: 2021-04-06T04:09:24.000Z
 type: Artikel
 typeName: Produkttest
 title: Klar Seifen
 seoTitle: Klar Seifen im Test – vegan und natürlich von Shampoo bis Duschgel
 ogTitle: Klar Seifen im Test – vegan und natürlich von Shampoo bis Duschgel
-description: Klar Seifen ist im Moment eine meiner Lieblings-Bezugsquellen für festes Shampoo und Seifen jeder Art. Ich empfehle Euch diese Produkte.
-excerpt: Händewaschen ist bei mir schon lange eine plastikfreie Angelegenheit. Und auch Shampoo, Duschpflege und andere Produkte kommen bei mir im Bad bereits ohne Flasche aus. Eine meiner Lieblings-Marken ist im Moment Klar. Heute stelle ich Euch ein paar Produkte des Herstellers vor.
-fileName: 2021-04---klar-seifen.md
 description: Klar Seifen ist im Moment eine meiner Lieblings-Bezugsquellen für
   festes Shampoo und Seifen jeder Art. Ich empfehle Euch diese Produkte.
 excerpt: Händewaschen ist bei mir schon lange eine plastikfreie Angelegenheit.
@@ -22,13 +17,6 @@ remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_klar-sei
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgMEB//EACcQAAEEAQMEAgIDAAAAAAAAAAECAwQRBQAhQQYSEzEiIxRhUYHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQQFAgP/xAAeEQACAwABBQAAAAAAAAAAAAABAgADEQQFIUFR8P/aAAwDAQACEQMRAD8A9unZf6lp7twdKxmAqOD5BQ5J1pyualw0v/jQcewUE/IR7O37N6QzescjJajLRi8Q6rwIIeWx3k2LJr0N71KXqdTkhQe33uOLwLD5Ep2800Wu5L6VHtvY6aY/NoPbTqTYHOo/pjqSRkMfKXlMZjpTseT4m/oCAhJQk1Q973qnh5KXJAbbx0FlhWyktsCq12XlqZh+MVOGceZ6QgzJbrsiKX3lK7vsWpQv9Amh/vWp6X0LDcc8SnJQjoQlKY7chSUJHACU1V/xzxo0anPWFJyOVWsRM8Z0W3jWH28U/MxxfWFOJYcBU4QKv5A7i6sf2eNOsb0ijzodkOS5CwbSqRJcc9XvRNUOTW/A0aNFV05sFjkDZ//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_klar-seifen-fb.png__l.jpg
 labels:
-  - Fair Fashion & Beauty
-  - festes Shampoo
-  - Klar Seifen
-  - Palmöl
-  - seife
-  - vegan beauty
-  - vegane Seife
   - Fair Fashion & Beauty
   - festes Shampoo
   - Klar Seifen

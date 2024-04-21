@@ -62,6 +62,8 @@ export const useArticle = () => {
   const [slug, setSlug] = useAtom(currentSlugAtom);
   const [articles, setArticles] = useAtom(articlesAtom);
 
+  console.log({ articles });
+
   let article: Entry = ['error', null];
 
   if (!articles[slug]) {

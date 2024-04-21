@@ -15,7 +15,9 @@ export const NewPanel: FC = () => {
 
   const { createArticle } = useNewArticle();
 
-  const fullSlug = `/${format(date, 'yyyy-MM')}/${slugify(title)}-${language}/`;
+  const appendix = language === 'de' ? '' : '-en';
+
+  const fullSlug = `/${format(date, 'yyyy/MM')}/${slugify(title)}${appendix}/`;
 
   return (
     <div className="max-w-xl mx-auto flex flex-col gap-3 p-5">

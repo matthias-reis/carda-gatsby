@@ -39,7 +39,7 @@ export async function newArticle(
     typeName: 'Artikel',
     description: '',
     labels: [],
-    slug: slugify(title),
+    _titleSlug: slugify(title),
     language,
     body: '',
   };

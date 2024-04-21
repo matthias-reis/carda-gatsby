@@ -1,6 +1,6 @@
 export type Article = {
   title: string;
-  slug: string;
+  _titleSlug?: string;
   subTitle: string;
   seoTitle?: string;
   ogTitle?: string;

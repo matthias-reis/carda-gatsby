@@ -35,10 +35,10 @@ export const EditorContent: FC<{
               <Field label="Slug">
                 <Input
                   id="Slug"
-                  value={article.slug}
+                  value={article._titleSlug}
                   onChange={(ev) => {
-                    const slug = ev.target.value;
-                    change((a: Article) => ({ ...a, slug }));
+                    const _titleSlug = ev.target.value;
+                    change((a: Article) => ({ ...a, _titleSlug }));
                   }}
                 />
               </Field>
@@ -58,7 +58,8 @@ export const EditorContent: FC<{
               <div className="flex text-sm text-stone-400 justify-end gap-4">
                 <div className="opacity-40">Neuer Pfad:</div>
                 <pre className="text-sm text-stone-400">
-                  /{format(new Date(article.date), 'yyyy-MM')}/{article.slug}/
+                  /{format(new Date(article.date), 'yyyy/MM')}/
+                  {article._titleSlug}/
                 </pre>
               </div>
             </Card>

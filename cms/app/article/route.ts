@@ -26,7 +26,8 @@ export async function GET(request: Request) {
     const rawContent = await readFile(path, 'utf-8');
     const { attributes, body } = fm<Article>(rawContent);
     console.log(`[article/get] found file under <${path}>`);
-    return Response.json({ ...attributes, body });
+    const _titleSlug = slug.split('/').at(-1);
+    return Response.json({ ...attributes, body, _titleSlug });
   } catch (error) {
     console.log(`[article/get] 🛑 no file under <${path}>`);
     return new Response('file not found', { status: 404 });
@@ -42,6 +43,7 @@ export async function POST(request: Request) {
   }
 
   const newSlug = getSlug(article);
+  delete article._titleSlug;
   const newPath = pathFromSlug(newSlug);
 
   console.log(`[article/post] try to save <${newPath}>`);
@@ -74,7 +76,7 @@ export async function POST(request: Request) {
 }
 
 const getSlug = (article: Article) => {
-  return `/${dayjs(article.date).format('YYYY/MM')}/${article.slug}/`;
+  return `/${dayjs(article.date).format('YYYY/MM')}/${article._titleSlug}/`;
 };
 
 const pathFromSlug = (slug: string) => {
