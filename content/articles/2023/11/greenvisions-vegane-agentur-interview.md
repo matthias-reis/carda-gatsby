@@ -1,14 +1,18 @@
 ---
 date: 2023-11-23T10:15:12.766Z
-slug: greenvisions-vegane-agentur-interview
-typeName:
+typeName: null
 title: '"Eine vegane Agentur ist eine kleine Revolution"'
 subTitle: Im Gespräch mit GreenVisions Gründerin Soraya
 seoTitle: Vegane Agentur GreenVisions – Interview mit Gründerin Soraya Garcia
-description: Eine vegane Agentur – was klingt, wie eine Zukunftsvision, ist längst Realität. Erfahrt jetzt von GreenVisions Gründerin Soraya alles über ihr Start-up!
-excerpt: Eine vegane Agentur für vegane Marken. Klingt das für Euch revolutionär? Das ist es auch! Ich habe mich mit Soraya Garcia, der Gründerin von GreenVisions, über ihre Arbeit und ihre Pläne für das nächste Jahr unterhalten. Und Sie hat mir einiges über ihr Musikprojekt erzählt!
+description: Eine vegane Agentur – was klingt, wie eine Zukunftsvision, ist
+  längst Realität. Erfahrt jetzt von GreenVisions Gründerin Soraya alles über
+  ihr Start-up!
+excerpt: Eine vegane Agentur für vegane Marken. Klingt das für Euch
+  revolutionär? Das ist es auch! Ich habe mich mit Soraya Garcia, der Gründerin
+  von GreenVisions, über ihre Arbeit und ihre Pläne für das nächste Jahr
+  unterhalten. Und Sie hat mir einiges über ihr Musikprojekt erzählt!
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-23/soraya-garcia-greenvisions-jpg-imagine-080808_424242_1024_768/640.webp
-copyright: 'Arash Maramzadeh'
+copyright: Arash Maramzadeh
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-23/greenvisions-vegane-agentur-soraya-garcia-interview-soundsvegan-og-2-jpg-imagine-080808_5f5a57_1200_628/640.webp
 labels:
   - Interview
@@ -24,6 +28,7 @@ focusKeyword: vegane Agentur
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Habt Ihr Euch schon mal gefragt, was Werbung mit Psychologie zu tun hat? Darüber habe ich mich jetzt mit Soraya Garcia, der Gründerin von GreenVision – der ersten veganen Werbeagentur Deutschlands – unterhalten. Wir haben uns außerdem darüber ausgetauscht, was vegane Marken noch an ihrer Kommunikation verbessern können und uns beide gefragt, warum nicht längst mehr Menschen vegan leben. Zudem hat sie mich in die Pläne für ihr Musikprojekt eingeweiht. Vegane Tipps für Hannover gab es on Top!**

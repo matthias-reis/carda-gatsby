@@ -1,19 +1,20 @@
 ---
-date: 2018-04-19T05:25:18.000+00:00
-slug: doolin
-path: '/2018/04/doolin/'
+date: 2018-04-19T05:25:18.000Z
 type: Galerie
 typeName: Galerie
 title: Doolin
 seoTitle: Doolin - Sehnsuchtsort am Atlantik - Traditionelle Irische Musik und Klippen
 ogTitle: Doolin - Sehnsuchtsort am Atlantik - Traditionelle Irische Musik und Klippen
-description: Doolin (Irisch:Dúlainn) ist ein berühmtes Zentrum traditionaller Irischer Musik. Das gemütliche Örtchen liegt direkt am Atlantik im County Clare.
-excerpt: 'Doolin (Irisch: Dúlainn) ist ein berühmtes Zentrum traditionaller Irischer Musik. Das gemütliche Örtchen liegt direkt am Atlantik im County Clare.'
-fileName: 2018-04---doolin.md
+description: Doolin (Irisch:Dúlainn) ist ein berühmtes Zentrum traditionaller
+  Irischer Musik. Das gemütliche Örtchen liegt direkt am Atlantik im County
+  Clare.
+excerpt: "Doolin (Irisch: Dúlainn) ist ein berühmtes Zentrum traditionaller
+  Irischer Musik. Das gemütliche Örtchen liegt direkt am Atlantik im County
+  Clare."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39534514524_08e4569a4b_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39534514524_08e4569a4b_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBgcI/8QAKxAAAQMDAgQFBQEAAAAAAAAAAQIDBAAFEQYhBxIxQRMiUWGBM5GhstHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEAv/EABwRAAIDAQADAAAAAAAAAAAAAAABAgMRIQQSgf/aAAwDAQACEQMRAD8A0SDrOPK8y7e5ykDPLIBP61YIGpbS0QSxLZV3AQHPyP5XOdt4oQYXMm4Qbg2yBhK/CQQo/CtqsLPFXTLmcs3FYABylnbPpkd6XswxG8J1Xa3Xks+M60pZwFusqQnPue1PyEOBBBP2rmCXxYtkV1aYsS5E75DrvKPkHNLyONcxENaoktbKkAhLZdeOQOmO2/ptin8DhT9HpTcGA27zDCfKQdxhJI7b9Mb1LEnSTKMfxlYISkEnOAR0wdu9FFTUNzsnGXUsNS4kLR3YqtSMW5+129RSfqobUndI68vMRk/4VPdtPwnJ63XUlxbiSEJVslGBjcDGT75FFFTeS3XZkXnBxSaP/9k=
-ogImage:
+ogImage: null
 labels:
   - Aile
   - Atlantik
@@ -30,14 +31,13 @@ labels:
   - vegan travelling
   - serie:Irland 2017
 focusKeyword: Doolin
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Sehnsuchtsort am Atlantik
-year: '2018'
-month: '04'
+year: "2018"
+month: "04"
+
 ---
 
 **Doolin (Irisch: Dúlainn) ist ein berühmtes Zentrum traditioneller Irischer Musik. Das gemütliche Örtchen liegt direkt am Atlantik im County Clare. Durch Doolin hindurch führt der Fluss Aile direkt in den Ozean.**

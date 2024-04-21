@@ -4,16 +4,11 @@ excerpt: Mit etwas Glück könnt Ihr bei meiner Feuerwear Valentinstags-Verlosun
   jetzt ein ganz besonderes Set aus zwei Geldbörsen gewinnen.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_feuerwear-verlosung-valentinstag-fb.png__l.jpg
 isAffiliate: false
-path: /2021/02/feuerwear-verlosung/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUC/8QAKxAAAQMCBQIFBQEAAAAAAAAAAQIDBAURAAYSITETQSIyUWFxByM0kbHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABsRAAIDAQEBAAAAAAAAAAAAAAECACExAxEi/9oADAMBAAIRAxEAPwAoUBLSGrhKuOokbkW/wxzm3MFepdQpFLy0/BKZiTdqoRw4lKtWkWJ8o54+cXYKpTcrqSCphte6Q1oKEbXOrULq59U+wxn1uJUJ2YqTVaYiJLETwqZSoodIuokhCtid72Cu2FRGA+smEgmpKcwfVOmoKhRqTLQNwplkO254s4D3OFxL8+twpL9XjNRZ6JKw+0G1BQURsQhW4uknk2+cOUWWFhMaNJTHlNthJju3aduNQ8ptzq59hjCqtQaXU6yXCVAyRHSsrv4GW0ptfv4ivv8AzAeavRyOvRktdl/L2eGHY7bGZIKYrhH5MIlxA9NSeR76ScN7DcWVFMqiyoshKxp68fSVDfgg8HnkDBgxMkrQhtxAz1W2qbHFG6DFVqToIaakpLhi7ec34PcWI/WNHLeWmm+nVMxNNJiNt/YiPC3UFtlFItYHnfn0wYMUBJPsQ55P/9k=
 advertisement: true
 isWerbung: false
-fileName: 2021-02---feuerwear-verlosung.md
-slug: feuerwear-verlosung
-errors: {}
-date: 2021-02-03T15:38:07.000+00:00
+date: 2021-02-03T15:38:07.000Z
 focusKeyword: Feuerwear Verlosung
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_2021-01-30-feuerwear-7__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_2021-01-30-feuerwear-7__m.jpg
 title: Feuerwear Verlosung
@@ -39,7 +34,9 @@ labels:
   - veganes Leder
   - Verlosung
 language: de
+
 ---
+
 **Hinweis:** Die Aktion ist beendet. [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
 - - -

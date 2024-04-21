@@ -1,15 +1,18 @@
 ---
-date: 2017-02-08T13:53:03.000+00:00
-slug: glutenfreie-vegane-spaetzle-interview-ruki
-path: '/2017/02/glutenfreie-vegane-spaetzle-interview-ruki/'
+date: 2017-02-08T13:53:03.000Z
 type: Artikel
 typeName: Interview
 title: Brigitte Kirchberger von RuKi
-seoTitle: 'Startnext Kampagne: Glutenfreie und Vegane Spätzle für alle - Interview mit Brigitte von RuKi'
-ogTitle: 'Startnext Kampagne: Glutenfreie und Vegane Spätzle für alle - Interview mit Brigitte von RuKi'
-description: Die Lebensmittelmanufaktur RuKi aus Peißenberg in Oberbayern hat eine Startnext Kampagne gestartet. Sie dreht sich um glutenfreie und vegane Spätzle.
-excerpt: Die Lebensmittelmanufaktur RuKi aus Peißenberg in Oberbayern hat eine Startnext Kampagne gestartet. Sie dreht sich um glutenfreie und vegane Spätzle.
-fileName: 2017-02---brigitte-kirchberger-von-ruki.md
+seoTitle: "Startnext Kampagne: Glutenfreie und Vegane Spätzle für alle -
+  Interview mit Brigitte von RuKi"
+ogTitle: "Startnext Kampagne: Glutenfreie und Vegane Spätzle für alle -
+  Interview mit Brigitte von RuKi"
+description: Die Lebensmittelmanufaktur RuKi aus Peißenberg in Oberbayern hat
+  eine Startnext Kampagne gestartet. Sie dreht sich um glutenfreie und vegane
+  Spätzle.
+excerpt: Die Lebensmittelmanufaktur RuKi aus Peißenberg in Oberbayern hat eine
+  Startnext Kampagne gestartet. Sie dreht sich um glutenfreie und vegane
+  Spätzle.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_Pressebild_RuKi_B_Kirchberger_G_Scarcella__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_Pressebild_RuKi_B_Kirchberger_G_Scarcella__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACcQAAIBAwQBBAIDAAAAAAAAAAECAwQFEQAGEiExExQicQeRQVGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAHxEBAAEEAQUAAAAAAAAAAAAAAQADBBEhMgISQUKR/9oADAMBAAIRAxEAPwDYb9VV9SWnskskMUErO00gPplnZeLZBwyjsHzjvWgq8SuAXiDcfAIGpLa24bTdJrnbrMrNFaJPYVETQlPTfv499MMDOR/ekN3vc1TerrabdHd4qq3y0zzNRQRS5gmjYhwHyMKY2XxnP8HWE7TMTlqUm6NypbKZVp4RUSO/AjHQycD9nrSm509Sk5zDRzDi2ZEjxIMHpeZPjxqjo3tlXQpDC4rFpCrM7AE81HTNgAZ+hj9axf8AKO9Ke3XekgpbhAfVidahZ6hoTnnxBKAYIIbP+HrUV1bNTY+E+x6ZnQbjDat0suyzfveS1ai6XaWpyQZTzYfGPOckAIez5z3pxar7DXU1fui2Got88aSwL6kEUhqEhJPFzkkLyJwA3WT4zo0ateBD98QvG4dtmelprndZLddKlTIvtUliaRSx6PBWUjyOznUFujZe3b5XNcBRRSTMicJSz5PEfEnsZP2PvRo0FVx0iRKe1Gf/2Q==
@@ -28,13 +31,12 @@ labels:
   - vegane Ernährung
   - vegane Spätzle
 focusKeyword: vegane Spätzle
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Glutenfreie und vegane Spätzle für alle
 advertisement: true
+
 ---
 
 _RuKi_ gibt es bereits seit 2016. In der Lebensmittelmanufaktur in Peißenberg werden glutenfreie Spezialitäten nach süddeutscher Tradition hergestellt. Die Produktpalette aus Convenience- und Frischprodukten reicht von Knödeln und Schupfnudeln bis hin zu original Kässpätzle.\*\*

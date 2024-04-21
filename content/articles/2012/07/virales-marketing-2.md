@@ -4,15 +4,10 @@ excerpt: Virales Marketing läuft über die verschiedensten Medien. Besonders gr
   geschrieben werden die sozialen Netzwerke.
 ogImage: null
 isAffiliate: false
-path: /2012/07/virales-marketing-2/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBAYC/8QALBAAAQMDBAECBAcAAAAAAAAAAQIDBAAFEQYHEmExFSETIlHBM0FSkaHC4//EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECAxFBIf/aAAwDAQACEQMRAD8AY2XcG4RCeI6rGXDdrScO5rgSb7AaltE80FRISR5BUBxB6zmoN27Vc7vp+VEs1xft81QBQ40vhzwDlCj5AOfI67pN3tHaiZmuRVWG7/HQSClDKlA9ggYI7zUq96XU0RmtbHi01uPYNSF0WS5RpqmfxEtkhSR9eKgDjvxU24DyH9ONOHGBIZV+ziT9qTXb7SerVashemQ7va5CFjnNW2psMIz8xJIwfbPy/n4pvdXpJ0TJVhRLSeeT5OBnP8U94YuqVbWMykrdJiQMrsSs9zP86or3AYcSONlCR9DKJ/rRRSaOSLUfX6ABizte36pCj9q51DuI7JsUuJ6WwlDrZRkOqOMjGaKKEww//9k=
 isWerbung: false
-fileName: 2012-07---virales-marketing.md
-slug: virales-marketing-2
-errors: {}
 date: 2012-07-10T15:27:46.000Z
 focusKeyword: Virales Marketing
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_11156823293_c9b97b3f3e_z__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_11156823293_c9b97b3f3e_z__m.jpg
 title: Virales Marketing
@@ -31,6 +26,7 @@ labels:
   - Virales Marketing
   - Werbung
 language: de
+
 ---
 
 **Virales Marketing läuft über die verschiedensten Medien. Besonders groß geschrieben werden die sozialen Netzwerke.**

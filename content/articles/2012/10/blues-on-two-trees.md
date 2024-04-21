@@ -1,15 +1,15 @@
 ---
 date: 2012-10-30T14:21:25.000Z
-slug: blues-on-two-trees
-path: /2012/10/blues-on-two-trees/
 type: Artikel
 typeName: Review
 title: Blues On Two Trees
 seoTitle: Blues On Two Trees - Neues von Jack White
 ogTitle: Blues On Two Trees - Neues von Jack White
-description: Mit "Blues On Two Trees" stellt Jack White einen neuen B-Seiten-Song vor. Ich habe schon mal reingehört. Hier geht's zum "Blues On Two Trees"-Snippet
-excerpt: Jack White hat soeben eine neue Single vorgestellt! Da lacht das grippegeplagte Winterherz.
-fileName: 2012-10---blues-on-two-trees.md
+description: Mit "Blues On Two Trees" stellt Jack White einen neuen
+  B-Seiten-Song vor. Ich habe schon mal reingehört. Hier geht's zum "Blues On
+  Two Trees"-Snippet
+excerpt: Jack White hat soeben eine neue Single vorgestellt! Da lacht das
+  grippegeplagte Winterherz.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBBAYD/8QALBAAAgEDBAAFAgcBAAAAAAAAAQIDBAURAAYSIQcTFDFBUYEIFRYkMmFxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAUDAgT/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDEQQSITFBwfD/2gAMAwEAAhEDEQA/AAn4b7HBJTXa+TwQVEvJaOAOf4Y4uzHo+4wBj+9W/F+Xa1ZUPT/la1d+iCNFHC7sVTmpdW4jADKGGWOVyMax3hLcLlF6OkskVweb1fKcCb9t5bYHJk6yQARnv7aPJY5r/urdlDR3F6adqiTBI5YRWAxn+v8AvxpIMBHKCfKWSX97WLqdx7FWSZIPD+WIqjqnm3WRyr5TBYdAgcW66/lqN5/p2ms1FJQ2GKlmuduimgaKVz6eUS5diWJDAphcAdHvOg2+9rT7WvHpZZlqI5FykyjGT8gj6657pQLbduniQ7UIJJiCchkAHp2LDo9kL7e2O9R0q7SDZdwCOk4/AdaOu8OrvS1B8stLJDPKG4ssZTo5+McmP31RtE9kot0JWbesNxRiCiTs2IzkcWk4s2SCMdn/AHS48M94naF6kkqEaW21aeVVRjsgfDgfJH0+QTp07s3btu2iULTNV18iBirIy5GOvoBq8ZBReS1zHGvKV/ihKamvaKYgyxuG6ORg6W+BzYj2JzrTXutq7zcJZzEDI+W8uFekQDPX+D50DraSWlEJmjZOcayDI91YZB++sy8m104g0ZqSv//Z
@@ -44,12 +44,11 @@ labels:
   - Vinyl
   - White Stripes
 focusKeyword: Blues On Two Trees
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Jack White stellt neuen B-Seiten-Song vor
+
 ---
 
 **Da ist man grade zurück aus dem Urlaub und hat den schlimmsten Jetlag überstanden, da liest man so etwas: Jack White hat soeben eine neue Single vorgestellt! Da lacht das grippegeplagte Winterherz.**

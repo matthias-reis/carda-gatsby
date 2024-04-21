@@ -1,13 +1,12 @@
 ---
 date: 2017-08-11T10:09:32.000Z
-slug: elrojito
-path: /2017/08/elrojito/
 title: elrojito
 seoTitle: elrojito - Solidarischer Kaffee im Hamburger Stadtteil Ottensen
 ogTitle: elrojito - Solidarischer Kaffee im Hamburger Stadtteil Ottensen
-description: Heute möchte ich das elrojito in Hamburg Ottensen vorstellen. Ausgeschenkt und verkauft wird dort ausschließlich solidarischer Kaffee.
-excerpt: Heute möchte ich das elrojito in Hamburg Ottensen vorstellen. Ausgeschenkt und verkauft wird dort ausschließlich solidarischer Kaffee.
-fileName: 2017-08---elrojito.md
+description: Heute möchte ich das elrojito in Hamburg Ottensen vorstellen.
+  Ausgeschenkt und verkauft wird dort ausschließlich solidarischer Kaffee.
+excerpt: Heute möchte ich das elrojito in Hamburg Ottensen vorstellen.
+  Ausgeschenkt und verkauft wird dort ausschließlich solidarischer Kaffee.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36452318236_658e7562a5_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36452318236_658e7562a5_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgMI/8QALBAAAQMDAwMCBQUAAAAAAAAAAQIDBAAFEQYSIRMxQQcUIjJhcZFCUWKhwf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAwQREhMhIkH/2gAMAwEAAhEDEQA/AJ3rFedZ3hAQSfcHsP4ppnYrI49DkS3i20lqOZKG1tqKnkA4JTgYxnjJIrLa4Zfe19ei11gj3AJKEqwfgT+1J3brPtUp9DdxuUVl7I6KCptJa3kpGD45P5P1o1tbsPUxVTqPLCehbU1Ff9Nlyo7EKDJe3DqY2uK2kgguHt8pOE+Oam2nYbaLmp1Dja1KbUrKeTgkd/xSR3VUuRZmGWikuNpUEu7Mr2q7gHx9/rXX07mSpFzdS7gx0sKwcDIO5PH9mj41TVli30y19iuABLPYdY2W1sSolxnx2H231LKFDKlZ5Hjjj/KlPq7Kiam1AxItktlLDcbpbyM5O4k8HsOe1FFPuyG4cRC42GnYbNnZmWKWWYJjPy7dnOQpKQFfYknkUx0U6gX6SpDrKt0Y8Nqz+pNFFFriblAn/9k=
@@ -37,12 +36,11 @@ labels:
   - solidarischer Kaffee
   - Solidarität
 focusKeyword: elrojito
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Solidarischer Kaffee in Hamburg Ottensen
+
 ---
 
 **Heute möchte ich Euch eines meiner Lieblingscafés hier in Hamburg vorstellen. Es befindet sich sehr zentral in der Großen Brunnenstraße 68 in Ottensen.**

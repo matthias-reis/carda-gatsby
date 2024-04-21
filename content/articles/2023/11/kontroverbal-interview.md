@@ -1,14 +1,18 @@
 ---
 date: 2023-11-01T08:12:30.766Z
-slug: kontroverbal-interview
 typeName: Interview
 title: Im Gespräch mit kontroverbal
 subTitle: '"Wir sollten Kunst und Künstler*innen nicht trennen!"'
 seoTitle: kontroverbal im Interview – "Wir müssen Betroffenen glauben!"
-description: Die Kunst vom Künstler zu trennen ist ein Fehler sagen kontoverbal. Lest jetzt, warum das so ist und was die beiden Aktivist*innen antreibt.
-excerpt: kontoverbal sorgen seit Kurzem auf Instagram ganz schön für Wirbel. Sie klären unter anderem über Rassismus, Faschismus, Queer-Feindlichkeit und Misogynie auf und nehmen dabei kein Blatt vor den Mund. Ich habe das Aktivismus-Duo interviewt und mich mit den beiden über die "woke Bubble" und internalisierten Frauenhass unterhalten – und über ihre Pläne.
+description: Die Kunst vom Künstler zu trennen ist ein Fehler sagen kontoverbal.
+  Lest jetzt, warum das so ist und was die beiden Aktivist*innen antreibt.
+excerpt: kontoverbal sorgen seit Kurzem auf Instagram ganz schön für Wirbel. Sie
+  klären unter anderem über Rassismus, Faschismus, Queer-Feindlichkeit und
+  Misogynie auf und nehmen dabei kein Blatt vor den Mund. Ich habe das
+  Aktivismus-Duo interviewt und mich mit den beiden über die "woke Bubble" und
+  internalisierten Frauenhass unterhalten – und über ihre Pläne.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-01/kontroverbal-jpg-imagine-c8b8e8_ad97bd_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-01/kontroverbal-og-jpg-imagine-c8b8e8_b09ac1_1200_630/640.webp
 labels:
   - Protest
@@ -26,6 +30,7 @@ focusKeyword: gekochte Erdnüsse
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Heute möchte ich Euch kontroverbal vorstellen. Das sind N. und T. Beide leben in einer deutschen Großstadt und haben hauptberuflich viel mit Menschen zu tun. Dabei fallen den beiden immer wieder Dinge auf, die in ihren Augen keine Berechtigung haben: Dinge wie Ausgrenzung, Rassismus, Hass gegenüber queeren Menschen und Transpersonen und die in unserer Gesellschaft allgegenwärtige Misogynie. Ich wollte mich nun endlich nicht mehr darauf beschränken, gelegentlich mal ihre ziemlich großartigen Instagram-Storys und Posts zu teilen und habe die beiden zum Interview eingeladen.**

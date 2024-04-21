@@ -1,14 +1,20 @@
 ---
 date: 2024-03-29T10:00:00.766Z
-slug: fat-white-family-forgiveness-is-yours-en
 typeName: Preview
-title: 'Fat White Family – "Forgiveness Is Yours"'
-subTitle: 'Top-Drawer Post-Punk'
-seoTitle: 'Fat White Family – tour coming up with new album "Forgiveness Is Yours"!'
-description: 'Fat White Family are opening a new chapter with "Forgiveness Is Yours". The London-based post-punk band says goodbye and deals with multiple crises. Find out some fascinating details about it here and listen to the first four songs.'
-excerpt: 'Fat White Family will soon be hitting the road with their new album "Forgiveness Is Yours", which they announced for April 26th. You can already listen to the first four songs here and get some exciting insights into the record which is a new chapter for the band and at the same time a farewell to founding member Saul Adamczewski who sadly passed away.'
+title: Fat White Family – "Forgiveness Is Yours"
+subTitle: Top-Drawer Post-Punk
+seoTitle: Fat White Family – tour coming up with new album "Forgiveness Is Yours"!
+description: Fat White Family are opening a new chapter with "Forgiveness Is
+  Yours". The London-based post-punk band says goodbye and deals with multiple
+  crises. Find out some fascinating details about it here and listen to the
+  first four songs.
+excerpt: Fat White Family will soon be hitting the road with their new album
+  "Forgiveness Is Yours", which they announced for April 26th. You can already
+  listen to the first four songs here and get some exciting insights into the
+  record which is a new chapter for the band and at the same time a farewell to
+  founding member Saul Adamczewski who sadly passed away.
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-29/fat-white-family-barbican-forgiveness-is-yours-louise-mason-album-announce-soundsvegan-com-jpg-imagine-080808_252224_1024_768/640.webp
-copyright: 'Louise Mason'
+copyright: Louise Mason
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-03-29/fat-white-family-barbican-forgiveness-is-yours-louise-mason-album-announce-soundsvegan-com-og-jpg-imagine-080808_272527_1200_628/640.webp
 labels:
   - Band
@@ -26,6 +32,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2024/03/fat-white-family-forgiveness-is-yours/
+
 ---
 
 **Fat White Family have announced their fourth album for April 26th! I've already listened to "Forgiveness Is Yours" and am thrilled by the complexity, creativity and distinct personality of this outstanding record. Make sure you save the date and listen to the pre-released singles "Bullet Of Dignity", "Religion For One", "Today Become Man", and "What's That You Say". I'll tell you everything else in this article**.

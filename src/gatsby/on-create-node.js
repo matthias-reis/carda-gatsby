@@ -11,7 +11,7 @@ const yaml_1 = __importDefault(require("yaml"));
 const rawCategories = (0, fs_1.readFileSync)((0, path_1.resolve)(__dirname, '../../content/config/categories.yml'), 'utf-8');
 const categories = yaml_1.default.parse(rawCategories);
 const onCreateNode = async ({ node, actions, getNode, }) => {
-    var _a, _b, _c, _d, _e;
+    var _a, _b, _c;
     const { createNodeField } = actions;
     if (node.internal.type === `Mdx`) {
         const indexedCategories = Object.fromEntries(categories.map(({ slug, parentId, title }) => {
@@ -39,13 +39,12 @@ const onCreateNode = async ({ node, actions, getNode, }) => {
             [year, month, fileSlug] = relativePath.split('/');
             fileSlug = fileSlug.replace('.md', '');
         }
-        const rawSlug = ((_a = node === null || node === void 0 ? void 0 : node.frontmatter) === null || _a === void 0 ? void 0 : _a.slug) || ((_b = node === null || node === void 0 ? void 0 : node.frontmatter) === null || _b === void 0 ? void 0 : _b.title) || '';
-        const slug = (0, slugify_1.slugify)(rawSlug);
+        const slug = fileSlug;
         let path = '';
         if (type === 'article' || type === 'wordpress') {
-            path = ((_c = node === null || node === void 0 ? void 0 : node.frontmatter) === null || _c === void 0 ? void 0 : _c.path) || `/${year}/${month}/${slug}/`;
+            path = ((_a = node === null || node === void 0 ? void 0 : node.frontmatter) === null || _a === void 0 ? void 0 : _a.path) || `/${year}/${month}/${slug}/`;
             const labels = {};
-            (((_d = node === null || node === void 0 ? void 0 : node.frontmatter) === null || _d === void 0 ? void 0 : _d.labels) || []).forEach((label) => {
+            (((_b = node === null || node === void 0 ? void 0 : node.frontmatter) === null || _b === void 0 ? void 0 : _b.labels) || []).forEach((label) => {
                 var _a;
                 const slug = (0, slugify_1.slugify)(label);
                 let [type, name] = label.split(':');
@@ -103,7 +102,7 @@ const onCreateNode = async ({ node, actions, getNode, }) => {
             });
         }
         else if (type === 'page') {
-            path = ((_e = node === null || node === void 0 ? void 0 : node.frontmatter) === null || _e === void 0 ? void 0 : _e.path) || `/${slug}/`;
+            path = ((_c = node === null || node === void 0 ? void 0 : node.frontmatter) === null || _c === void 0 ? void 0 : _c.path) || `/${slug}/`;
         }
         createNodeField({
             node,

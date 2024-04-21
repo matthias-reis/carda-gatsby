@@ -21,6 +21,7 @@
     "dayjs": "^1.11.7",
     "dotenv": "^10.0.0",
     "front-matter": "^4.0.2",
+    "fs-extra": "^11.2.0",
     "gatsby": "^4.2.0",
     "gatsby-plugin-algolia": "^0.24.0",
     "gatsby-plugin-emotion": "^7.2.0",
@@ -40,11 +41,13 @@
     "gatsby-transformer-remark": "^5.2.0",
     "gatsby-transformer-yaml": "^4.2.0",
     "glob": "^7.2.0",
+    "graceful-fs": "^4.2.11",
     "lodash": "^4.17.21",
     "lodash-webpack-plugin": "^0.11.6",
     "moment": "2.29.1",
     "netlify-cli": "^8.0.3",
     "netlify-cms-app": "^2.15.59",
+    "npm-run-all": "^4.1.5",
     "ramda": "^0.27.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -68,8 +71,9 @@
   "scripts": {
     "pretty": "prettier --write .",
     "clean": "gatsby clean",
-    "dev": "yarn tsc && GATSBY_CARDA_PREVIEW=true gatsby develop",
-    "cms": "cd ./cardatron && yarn dev",
+    "dev": "yarn tsc && GATSBY_CARDA_PREVIEW=true gatsby develop -p 3335",
+    "cms": "cd ./cms && yarn dev",
+    "work": "run-p dev cms -l",
     "start": "yarn dev & npx netlify-cms-proxy-server",
     "build": "gatsby build",
     "localdeploy": "gatsby clean && yarn build && netlify deploy",
@@ -88,7 +92,8 @@
     "compress-images": "node ./compress-images",
     "parser:asterisk": "ts-node ./src/parser/asterisk",
     "parser:imagine": "ts-node ./src/parser/run-imagine",
-    "parser:reorg": "ts-node ./src/parser/reorg"
+    "parser:reorg": "ts-node ./src/parser/reorg",
+    "parser:clean-fm": "ts-node ./src/parser/clean-fm"
   },
   "devDependencies": {
     "@types/cors": "^2.8.12",
@@ -108,6 +113,6 @@
     "rxjs": "^7.4.0"
   },
   "volta": {
-    "node": "18.20.2"
+    "node": "20.11.1"
   }
 }

@@ -1,14 +1,17 @@
 ---
 date: 2024-01-12T15:00:00.766Z
-slug: bipolar-architecture-metaphysicize-en
 typeName: Preview
-title: 'Bipolar Architecture – "Metaphysicize"'
+title: Bipolar Architecture – "Metaphysicize"
 subTitle: Post-metal as We Want It
 seoTitle: Post-Metal Preview – Bipolar Architecture – "Metaphysicize"
-description: 'The new Biopolar Architecture album, "Metaphysicize", is coming soon! Get a first taste here, and find out some fascination insights about it!'
-excerpt: '"Metaphysicize"—Bipolar Architecture are back with their newest album and I promise, you will love it!. Get a first taste in the form of two pre-released songs here—and find out some fascinating insights about the album!'
+description: The new Biopolar Architecture album, "Metaphysicize", is coming
+  soon! Get a first taste here, and find out some fascination insights about it!
+excerpt: '"Metaphysicize"—Bipolar Architecture are back with their newest album
+  and I promise, you will love it!. Get a first taste in the form of two
+  pre-released songs here—and find out some fascinating insights about the
+  album!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-12/bipolar-architecture-soundsvegan-com-jpg-imagine-081818_151c1b_1024_768/640.webp
-copyright: 'Bipolar Architecture'
+copyright: Bipolar Architecture
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-12/bipolar-architecture-soundsvegan-com-og-jpg-imagine-081818_1c2423_1200_628/640.webp
 labels:
   - Band
@@ -27,6 +30,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2024/01/bipolar-architecture-metaphysicize/
+
 ---
 
 **Fans of Deafheaven, The Way of a Freedom, Thou, Cult of Luna, Oathbreaker, Deafheaven, PG.Lost should pay attention at this point and definitely carry on reading this article. Something big is coming your way on February 2nd with Bipolar Architecture's second album! I already got the chance to listen to it, and here is not only a preview for you but also your first taste (two pre-released songs!) of the record!**

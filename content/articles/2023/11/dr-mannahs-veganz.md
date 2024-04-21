@@ -1,14 +1,18 @@
 ---
 date: 2023-11-06T22:15:12.766Z
-slug: dr-mannahs-veganz
-typeName:
+typeName: null
 title: Veganz übernimmt Dr. Mannah's
 subTitle: Cuxhavener Happy Cheeze GmbH findet Lösung
 seoTitle: Veganz übernimmt Dr. Mannah's – Standort bleibt
-description: Veganz übernimmt Cuxhavener Standort der Happy Cheeze GmbH – die veganen Käsealternativen von Dr. Mannah's wird es also weiterhin geben. Holt Euch jetzt alle Infos.
-excerpt: Die Happy Cheeze GmbH wird zu großen Teilen von Veganz übernommen. Das bedeutet vor allem, dass der Standort in Cuxhaven mit seinen Mitarbeitenden bestehen bleibt und wir weiterhin die leckeren veganen Käsealternativen von Dr. Mannah's genießen können.
+description: Veganz übernimmt Cuxhavener Standort der Happy Cheeze GmbH – die
+  veganen Käsealternativen von Dr. Mannah's wird es also weiterhin geben. Holt
+  Euch jetzt alle Infos.
+excerpt: Die Happy Cheeze GmbH wird zu großen Teilen von Veganz übernommen. Das
+  bedeutet vor allem, dass der Standort in Cuxhaven mit seinen Mitarbeitenden
+  bestehen bleibt und wir weiterhin die leckeren veganen Käsealternativen von
+  Dr. Mannah's genießen können.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-07/dr-mannahs-jpg-imagine-080808_83665d_2048_1536/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-07/dr-mannahs-og-jpg-imagine-c8a888_8d6d60_1200_628/640.webp
 labels:
   - Ernährung & Gesundheit
@@ -22,6 +26,7 @@ focusKeyword: Dr. Mannah's Veganz
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die Veganz Group übernimmt den Produktionsstandort und die Marken der Happy Cheeze GmbH in Cuxhaven. Das bedeutet: unsere Lieblings-Käsealternativen von Dr. Mannah's gehören in Zukunft zu Veganz.**

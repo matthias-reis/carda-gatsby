@@ -5,17 +5,12 @@ excerpt: Mit "As The Love Continues" sind Mogwai als erste Post-Rock-Band auf
   wider.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_as-the-love-continues-fb.png__l.jpg
 isAffiliate: false
-path: /2021/03/as-the-love-continues-mogwai/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgACBAUI/8QAKRAAAgIBAwMDAwUAAAAAAAAAAQIDBBEABSEGEjEHEyIVQVFhkcHR4f/EABcBAQEBAQAAAAAAAAAAAAAAAAQDBQb/xAAhEQACAQQCAgMAAAAAAAAAAAABAwIABBEhEjEFUSJhwf/aAAwDAQACEQMRAD8ALI6lN4keWwEgnYHssyL2kE8Y7v08DWFWPqkiGasm8rXIRkSGWXtKt4Awecj8Z0U3KzKlHdGMz+1PfkfAbg/NvI/bSroz1HtUL9X6hZJoRhA0IT4KFCrkAeDgZ4+/OOTqnLmNAVZ6pJwCSdZp70vS6irdQbe1z61HSWQh0mllaPHacAgnH+6Sw1onmELDDe8SCRjPOuVv3qLVs1hFsdexZluGWKo4XHdIhGAV8+Of61vVpZFowzbhJEloKHmKn4hvJxrkfOXrLZ62qlo6MfeCd/lOhbnhhgxXm+FbM81kzwAw2pGkdJEb7sT/ADpBFT2+j2RVaa2ElRffd0YYOckKeePB451atb0jnulru5Rx8Rr6pPsnUC7VuFIBNvioQzs7RxRsH7nBBk7sckAAY4866d/1MFbcFloUoZwnIazP2AH84HOrVojrRb3xczZj16oDGa0O6//Z
 typeName: Review
 isWerbung: false
-fileName: 2021-03---as-the-love-continues-von-mogwai-auf-platz-1-in-england.md
-slug: as-the-love-continues-mogwai
-errors: {}
 date: 2021-03-03T10:14:02.000Z
 focusKeyword: As The Love Continues
 languageLink: /2021/03/as-the-love-continues-mogwai-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-2__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_2021-03-02-santaverde-2__m.jpg
 title: '"As The Love Continues" von Mogwai auf Platz 1 in England'
@@ -33,6 +28,7 @@ labels:
   - Mogwai
   - Post-Rock
   - Zeitgeist
+
 ---
 
 **Mogwai ist mit ihrem neuen Album "As The Love Continues" etwas gelungen, das keine Post-Rock-Band zuvor geschafft hat: Sie sind mit der Platte auf Platz 1 der britischen Charts gelandet.**

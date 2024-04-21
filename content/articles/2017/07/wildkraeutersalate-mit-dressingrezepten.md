@@ -1,15 +1,15 @@
 ---
 date: 2017-07-20T16:11:39.000Z
-slug: wildkraeutersalate-mit-dressingrezepten
-path: /2017/07/wildkraeutersalate-mit-dressingrezepten/
 type: Artikel
 typeName: Rezept
 title: Die besten Wild&shy;kräu&shy;ter&shy;sa&shy;la&shy;te
 seoTitle: Die besten Wildkräutersalate - Mit Dressingrezepten
 ogTitle: Die besten Wildkräutersalate - Mit Dressingrezepten
-description: Wildkräuter sind nicht nur gesund und sehen in der Vase toll aus - Sie schmecken auch noch unheimlich gut. Ich habe Rezeptideen für Euch vorbereitet.
-excerpt: Wildkräuter sind nicht nur gesund und sehen in der Vase toll aus - Sie schmecken auch noch unheimlich gut. Ich habe Rezeptideen für Euch vorbereitet.
-fileName: 2017-07---die-besten-wild-kraeu-ter-sa-la-te.md
+description: Wildkräuter sind nicht nur gesund und sehen in der Vase toll aus -
+  Sie schmecken auch noch unheimlich gut. Ich habe Rezeptideen für Euch
+  vorbereitet.
+excerpt: Wildkräuter sind nicht nur gesund und sehen in der Vase toll aus - Sie
+  schmecken auch noch unheimlich gut. Ich habe Rezeptideen für Euch vorbereitet.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35429761996_16d1c76d73_b__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35429761996_16d1c76d73_b__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcCAwYE/8QAKxAAAQQBAwMDBAIDAAAAAAAAAQIDBBEFABIhBhMxIkFRFTJCYRRScYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMABP/EACIRAAIBAwMFAQAAAAAAAAAAAAECABESIQMTMQRRYZHw4f/aAAwDAQACEQMRAD8AoyvXc/JZdkur+nYWMs1j8fN2SXHKq3nRyCnztHFjm9afLdRZHCdRYl1M9/6c7jG3jBmvJKnXVE+qyApXkeObHA0s2el5HT8PuZZbDMmYvsREItalos7l1+PG2vfVKMPPxGT70guSH2rMYn1hLZHLtK9QAFUK8nxrk1KWl1bPb74RuAq31jRe6/yMdzvqiw4kIpCEIBU7s54JHp5JP2jkf61LF9bRMpBTj8/CXNYfd2LU6ACASfVX6JFUQQB+tLSZuddVLyokSRHcKVL71+uwAfar3X4NcaHRc1IkziloNpjkb1cjclA+Vnk8i/i9RG6BcfyHp9QhxuLj1DWTymejdRvzkzIE5CU9pEh4BtvZd/b7E/ltq61FGdSgtMxUlneN7rkcq2pUoWpW1RuifHPjn/LC6+6Lh5pl17FNttZW0qtPCF1/YeLr/uk/lYOUw0mW0YjrSQ4S4JSd5S2sbQpRqiCT5+RpnTvFDHbcKNx4xCuVy78rCymQzFQ0tlplKGWapf5uKVfBoHg8k/OuB1qOiTjmmUMxXHG1h3cC4EBCyAQKsE1+9CC4W3VsIkKcbUmlqccoCwRaq9rPg60vSvTyOoXUzF/yWYrI7KFJ47oF1RPsPf8Ad6qVd1Ck4HEyYZdzKif/2Q==
@@ -57,17 +57,15 @@ labels:
   - Stachelbeeren
   - vegan
   - vegane Rezepte
-
   - Walnüsse
   - Wildkräuter
   - Wildkräutersalat
 focusKeyword: Wildkräuter
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Mit Dressingrezepten
+
 ---
 
 **Borretsch, Kerbel, Kresse, Petersilie, Pimpernelle, Sauerampfer und Schnittlauch. Diese Zutaten sind essentiell, möchte man Frankfurter Grüne Sauce zubereiten. Warum daraus nicht mal einen schmackhaften Salat zaubern?**

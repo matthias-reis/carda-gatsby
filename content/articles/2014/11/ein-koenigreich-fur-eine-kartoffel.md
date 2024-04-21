@@ -1,15 +1,16 @@
 ---
 date: 2014-11-20T09:33:40.000Z
-slug: ein-koenigreich-fur-eine-kartoffel
-path: /2014/11/ein-koenigreich-fur-eine-kartoffel/
 type: Artikel
 typeName: Rezept
 title: Ein Königreich für eine Kartoffel
 seoTitle: Ein Königreich für eine Kartoffel - Kartoffelauflauf mit Pastinake
 ogTitle: Ein Königreich für eine Kartoffel - Kartoffelauflauf mit Pastinake
-description: Die Kartoffel - Eine wunderbare Knolle. Man kann so vieles damit anstellen. Ich verrate Euch heute mein Rezept für Kartoffelauflauf mit Pastinake.
-excerpt: Die Kartoffel - Eine wunderbare Knolle. Man kann so vieles damit anstellen. Ich verrate Euch heute mein Rezept für Kartoffelauflauf mit Pastinake.
-fileName: 2014-11---ein-koenigreich-fuer-eine-kartoffel.md
+description: Die Kartoffel - Eine wunderbare Knolle. Man kann so vieles damit
+  anstellen. Ich verrate Euch heute mein Rezept für Kartoffelauflauf mit
+  Pastinake.
+excerpt: Die Kartoffel - Eine wunderbare Knolle. Man kann so vieles damit
+  anstellen. Ich verrate Euch heute mein Rezept für Kartoffelauflauf mit
+  Pastinake.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf-14__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf-14__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EACkQAAEDBAIABQQDAAAAAAAAAAECAwQABRESITEGFEFRYRMjJDJScZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAGAQL/xAAiEQEAAQMDBAMAAAAAAAAAAAABAgARIQMEMRJBYXGhsfD/2gAMAwEAAhEDEQA/AFabc1zbqhcKZJZhIRglK1NkkfApqs93jJeTaHJLyJ76UmJKlbOpeXySjQ/qeRjjkCqy8PeJLa86iC7EnMylAoSovj6QPqT2f879qfot8XDi+VvlqXMQ1jWbFWpvrohRAI4wOx6g0S3YxtpsbW9Z8+fX4W7SEJjqjd+CpWbZ/O2pAVKL6ojqg7GhxwkISMbKxgrKtlZCeOld8UqWqParHOU9Jt/4w+35lprVSQcYVwcEfHBqelswIrMW7yLnCatiSQ4kLXIU2Fa85yAoDAyR1x3ioq5XdlqzXCPHvNuuD0oqacUG8uFo4A1ACQnAA7HfVZ202R0cjjGPrvV3GmAzvkzVROauDJQNhyD65rcu7T39SqZICsYyHCO/6oopCwi8lH4TkGGstWeK3D21ypZ4P8cfFdFkabgJklltJLgAJPsKKKhJealg4r//2Q==
@@ -26,18 +27,16 @@ labels:
   - Rezept
   - vegan
   - vegane Rezepte
-
   - veganen Käse selbstmachen
   - Veganer
   - veganer Auflauf
   - Wintergerichte
 focusKeyword: Kartoffel
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Auflauf mit Pastinaken und Kartoffeln
+
 ---
 
 **Wie schon [berichtet](/2014/11/and-the-nominees-are/), geht für mich zur Zeit nichts über einen leckeren Kartoffelauflauf. Deshalb kommt der auch in den verschiedensten Variantionen bei uns auf den Tisch. Zuletzt habe ich ein Rezept mit Pastinaken und selbst gemachtem veganem "Gratinierkäse" kreiert.**

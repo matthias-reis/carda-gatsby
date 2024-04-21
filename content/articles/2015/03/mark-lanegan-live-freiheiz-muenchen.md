@@ -1,15 +1,14 @@
 ---
 date: 2015-03-09T18:30:27.000Z
-slug: mark-lanegan-live-freiheiz-muenchen
-path: /2015/03/mark-lanegan-live-freiheiz-muenchen/
 type: Galerie
 typeName: Konzertbericht
 title: Mark Lanegan live @ Freiheiz München
 seoTitle: Mark Lanegan live @ Freiheiz München – Sounds Vegan
 ogTitle: Mark Lanegan live @ Freiheiz München
-description: Als Support brachte Mark Lanegan dieses Mal keinen geringeren als Duke Garwood mit.
-excerpt: Am 21. Februar besuchte ich mit Matze und meinem lieben Bruder das langersehnte Mark Lanegan Konzert.
-fileName: 2015-03---mark-lanegan-live-freiheiz-muenchen.md
+description: Als Support brachte Mark Lanegan dieses Mal keinen geringeren als
+  Duke Garwood mit.
+excerpt: Am 21. Februar besuchte ich mit Matze und meinem lieben Bruder das
+  langersehnte Mark Lanegan Konzert.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16641347592_dcebcc7770_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16641347592_dcebcc7770_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgj/xAAnEAACAQMDBAEFAQAAAAAAAAABAgMABBESITEFE0FRwRQiI5Ghsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMGBf/EACMRAAEDBAIBBQAAAAAAAAAAAAIBAxEABBIhBTFBE3GBkfH/2gAMAwEAAhEDEQA/AObls+1KRJMhjDaSyMDk4z81RZ4rfC2f3puNZGM75BHkbe8+aVFrrlklbHbEgRhnB3GfimOk2cl/eLBDqCk7sFLaB7OPHG9UPGsIbiAek7nzqhuFRBzFddUtdEzyGSQks27ZPJ90nLFjir5tYhGHwRNEU1q+O2vvOef855pLqzWclzI1s4QF2JGCUA8BSBk/oVq8iVoAYim6FpCXql7C9ha4f6527TYySpLbDAIIPIrR2F70Z0fDNbu40FkuNJx/OfIooqUbfcFZRaoeOuBAsFbEvdJ/PiKoT3Nglg8FhbxfkjMcrgAmUY21HUc4OD44HqsbL04qSO7q8DKkUUU1y8biJnuK1bjjrafUAMZ8JMfU1//Z
@@ -27,12 +26,11 @@ labels:
   - Musik
   - traurig
 focusKeyword: Mark Lanegan
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Feat. Lyenn & Duke Garwood
+
 ---
 
 **Am 21. Februar besuchte ich mit Matze und meinem lieben Bruder das langersehnte Mark Lanegan Konzert. Als Support brachte er den hochmusikalischen Belgier Lyenn und keinen geringeren als Duke Garwood mit.**

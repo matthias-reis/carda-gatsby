@@ -1,15 +1,16 @@
 ---
 date: 2017-10-14T06:59:02.000Z
-slug: mister-mandrill-interview
-path: /2017/10/mister-mandrill-interview/
 type: Artikel
 typeName: Interview
 title: Who the f*** is Mister Mandrill?
 seoTitle: Who the f*** is Mister Mandrill? - Hamburgs neue Szene-Barkeeper
 ogTitle: Who the f*** is Mister Mandrill? - Hamburgs neue Szene-Barkeeper im Interview
-description: Ich habe Szene-Barkeeper Kevin Hartjen von Mister Mandrill 10 Fragen gestellt. Und Licht ins Dunkel um die Frage gebracht "Who the f*** is Mister Mandrill?"
-excerpt: Ich habe Szene-Barkeeper Kevin Hartjen von Mister Mandrill 10 Fragen gestellt. Und Licht ins Dunkel um die Frage gebracht "Who the f*** is Mister Mandrill?"
-fileName: 2017-10---who-the-f-is-mister-mandrill.md
+description: Ich habe Szene-Barkeeper Kevin Hartjen von Mister Mandrill 10
+  Fragen gestellt. Und Licht ins Dunkel um die Frage gebracht "Who the f*** is
+  Mister Mandrill?"
+excerpt: Ich habe Szene-Barkeeper Kevin Hartjen von Mister Mandrill 10 Fragen
+  gestellt. Und Licht ins Dunkel um die Frage gebracht "Who the f*** is Mister
+  Mandrill?"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA0021_1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA0021_1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwYHBAX/xAAtEAABBAEDAgQEBwAAAAAAAAABAgMEEQUAEiEGQRMiMVEHFBVhFyMyNEJxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIREgMhMSL/2gAMAwEAAhEDEQA/AKD1nhYH1Z/LSmWHo86CmLI3gHeULT4Yv2pRuq/SDosl19EuMMZIjhhLCiMeUgKc2p4Sg8AXxz2ruNTz8RY5bEfL4p6bBNeIl9tJ7+oUO9jRcNlOjMtkIzLTGSRlJCVNLcjIcKEFwKBBVVgAE0SaFX76z70vtsks47V1xOxhJCMgMjkMdHjtJyUlx51zercpQCU8WkHgJFcd776G0U/MH5eYltylJNtEbOPU3X9Vxrj5fAPdKR2wxPEqA+8oMhK1BYG2/OAav73z9tZW32Q2QiX4y+6Q2pIH+k86s4wsGJO9PcjWNiOS5iI8bYHVgkblbBwCfX00wxGc3j8euPjH3tkpO+XGG1O1aTwPXzWmqI7EjS3C/exbAP5qRRFir1ZxjYSI5UiKyhVKTaUhJrxBxxonHjAFHJMvSkyG/j8cudHh5xt1dSVoZKFRvLbbSEitoBJs/wAieNP+P+GDbgU87PcYZWNyUFvcttJ5CVKNAke9aj/wudc2yI6VqS05LbCgk7SRQ7jnVn63aQ91Ihp9PjMtQ7Q0752wd9XsNi671elUfprnyNvZQZ//2Q==
@@ -37,12 +38,11 @@ labels:
   - Tim Mälzer
   - Trettmann
 focusKeyword: Mister Mandrill
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: 10 Fragen an Hamburgs neue Szene-Barkeeper
+
 ---
 
 **Ganz Hamburg fragt sich gerade: Who the f\*\*\* is Mister Mandrill? Auf jeder Litfasssäule,** **jeder Fußgängerampel und auf jeder Kneipenklotür prangt einer dieser bunten Sticker mit** **dem Mandrill-Äffchen.**

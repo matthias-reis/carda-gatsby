@@ -1,14 +1,18 @@
 ---
 date: 2023-12-21T15:32:12.086Z
-slug: china-study-hoerbuch
 typeName: Hörbuchtipp
-title: 'Die China Study – das Hörbuch'
+title: Die China Study – das Hörbuch
 subTitle: Fakten zu veganer Ernährung – gesprochen von Christoph Maria Herbst
-seoTitle: 'China Study Hörbuch – Hören lohnt sich – nicht nur für Veganer*innen'
-description: China Study Hörbuch – ja, Ihr könnt Euch die berühmteste Studie, über die in der veganen Community so viel geredet wird auch einfach anhören. Es lohnt sich! Holt Euch jetzt hier die Infos!
-excerpt: Die China Study gibt es auch als Hörbuch! Falls Ihr vegan lebt, habt Ihr sicher schon mal was von der bahnbrechenden Arbeit gehört. Immer mehr Forschende finden, sie sollte die Basis für unsere heutige innere Medizin sein. Erfahrt jetzt alles über das Hörbuch und warum sich das Hören lohnt!
+seoTitle: China Study Hörbuch – Hören lohnt sich – nicht nur für Veganer*innen
+description: China Study Hörbuch – ja, Ihr könnt Euch die berühmteste Studie,
+  über die in der veganen Community so viel geredet wird auch einfach anhören.
+  Es lohnt sich! Holt Euch jetzt hier die Infos!
+excerpt: Die China Study gibt es auch als Hörbuch! Falls Ihr vegan lebt, habt
+  Ihr sicher schon mal was von der bahnbrechenden Arbeit gehört. Immer mehr
+  Forschende finden, sie sollte die Basis für unsere heutige innere Medizin
+  sein. Erfahrt jetzt alles über das Hörbuch und warum sich das Hören lohnt!
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-21/china-study-audible-soundsvegan-jpg-imagine-e8d8c8_beb47b_1024_768/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-21/china-study-audible-soundsvegan-og-jpg-imagine-e8d8c8_bbb17c_1200_628/640.webp
 labels:
   - China Study
@@ -21,6 +25,7 @@ focusKeyword: China Study Hörbuch
 advertisement: false
 affiliate: true
 language: de
+
 ---
 
 **Die China Study – wenn Ihr vegan lebt, habt Ihr sicher schon mal gehört. Das liegt daran, dass sie die Basis für eine gesunde vegane Ernährungsweise liefert und vor allem viele Verbindungen zieht zwischen pflanzlicher Nahrung und einem möglichst gesunden langen Leben. Weil es jedoch nicht jedermenschs Sache ist, sich durch eine lange Studie zu arbeiten, möchte ich Euch hiermit das Hörbuch empfehlen.**

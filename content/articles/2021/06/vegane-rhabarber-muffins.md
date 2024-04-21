@@ -8,7 +8,6 @@ labels:
   - backen
   - vegane Rezepte
 language: de
-slug: vegane-rhabarber-muffins
 typeName: Rezept
 title: Vegane Rhabarber-Muffins
 subTitle: Schnelles Rezept ohne Schnickschnack
@@ -27,6 +26,7 @@ focusKeyword: ""
 advertisement: false
 affiliate: false
 languageLink: ""
+
 ---
 
 **Vegane Rhabarber-Muffins ohne Schnickschnack muss man im Netz schon ziemlich lange suchen. Weil ich selbst kein Rezept gefunden habe, das außer Rhabarber nur Basis-Zutaten enthält, habe ich mir jetzt kurzerhand selbst eins ausgedacht.**

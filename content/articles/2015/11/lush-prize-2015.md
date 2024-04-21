@@ -1,13 +1,13 @@
 ---
 date: 2015-11-24T14:25:09.000Z
-slug: lush-prize-2015
-path: /2015/11/lush-prize-2015/
 title: Lush Prize 2015
 seoTitle: Lush Prize 2015 - SOKO Tierschutz erhält Auszeichnung
 ogTitle: Lush Prize 2015 - SOKO Tierschutz erhält Auszeichnung
-description: Letzte Woche wurde im Londoner Royal Institute of British Archtitects der Lush Prize 2015 verliehen. Auch die SOKO Tierschutz wurde ausgezeichnet.
-excerpt: Letzte Woche wurde im Londoner Royal Institute of British Archtitects der Lush Prize 2015 verliehen. Auch die SOKO Tierschutz wurde ausgezeichnet.
-fileName: 2015-11---lush-prize-2015.md
+description: Letzte Woche wurde im Londoner Royal Institute of British
+  Archtitects der Lush Prize 2015 verliehen. Auch die SOKO Tierschutz wurde
+  ausgezeichnet.
+excerpt: Letzte Woche wurde im Londoner Royal Institute of British Archtitects
+  der Lush Prize 2015 verliehen. Auch die SOKO Tierschutz wurde ausgezeichnet.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Lush-rep__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Lush-rep__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUHAwQG/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDBBESAAUhBiJRExQxQRVhgaH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQABBP/EAB8RAAEEAgIDAAAAAAAAAAAAAAABBBEhAgMSFCMyQf/aAAwDAQACEQMRAD8AiOy9KmvoZKlmrPSjyZwqqqgci4JPI4/XjTml6HNVAZZKWvhETLThHmGbSH5JBBIUcHj61Tdkp5dp29YoaVY4zCsxQhpMexciGB7hllkqkkX4FgdbtVPuVdLLK6TxU6FDG8URZWuSVIs1vscnxpZm6ihkjVSUSdFU7lIEFa0yry0ULSmRgDx3FcVJ8D/NZK/pUnpeoqPZUcNRCypLhKhsbjkXOXkWGq1Vy7nFVxlYZppIyscqmNVxyNhfI9wH3a9z40sqJZ5qOVDVPHCGAZUj9HFzfuJYAMQTwB84/d+Z2LiC0bpFKcDQVdR77c09Viq1+Cg84jjgeP5qryKv4pjiL+iObfrRo0ud1xNuj6IJCWr9vViSMmNj/NHVvbtVW6drqHIYcEHBvjRo0HYnkxDa/RT/2Q==
@@ -23,12 +23,11 @@ labels:
   - stoppt Tierversuche
   - Tierrechte
 focusKeyword: Lush Prize
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: SOKO Tierschutz erhält Auszeichnung
+
 ---
 
 **Letzte Woche wurde im Londoner Royal Institute of British Archtitects der Lush Prize 2015 verliehen. Mit einer Förderung von 450.000 britischen Pfund gilt er als die höchste, gezielte Förderung zur Abschaffung von Tierversuchen in der Wissenschaft.**

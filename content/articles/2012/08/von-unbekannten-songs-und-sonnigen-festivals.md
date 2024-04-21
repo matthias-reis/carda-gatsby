@@ -1,13 +1,12 @@
 ---
 date: 2012-08-02T11:01:09.000Z
-slug: von-unbekannten-songs-und-sonnigen-festivals
-path: /2012/08/von-unbekannten-songs-und-sonnigen-festivals/
 title: Von unbekannten Songs und sonnigen Festivals
 seoTitle: Von unbekannten Songs und sonnigen Festivals - Tagebucheintrag
 ogTitle: Von unbekannten Songs und sonnigen Festivals - Tagebucheintrag
-description: Leider hat es gestern mit dem Fotobeitrag nicht mehr geklappt. Dafür entschuldige ich mich hiermit.
-excerpt: Leider hat es gestern mit dem Fotobeitrag nicht mehr geklappt. Dafür entschuldige ich mich hiermit.
-fileName: 2012-08---von-unbekannten-songs-und-sonnigen-festivals.md
+description: Leider hat es gestern mit dem Fotobeitrag nicht mehr geklappt.
+  Dafür entschuldige ich mich hiermit.
+excerpt: Leider hat es gestern mit dem Fotobeitrag nicht mehr geklappt. Dafür
+  entschuldige ich mich hiermit.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120802_125542__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120802_125542__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAwEAABBAECBAMFCQAAAAAAAAABAgMEBREABgcSITETIoEUQVFhoRYjJDJCUpHw8f/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAMF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxESIaH/2gAMAwEAAhEDEQA/AGDcd1Lrr61mWlzeIi+2vNtNRPHWlCEqwAEtjCQAB3xoZA4xbWU74Tl/dITnHiPNvcoPzIJP00xMyJUXcV3yKXyme+UgL93OTqdcf9uRJlF9ooUNtqxjOpEpxocvisqyOZQHchRT5u+Ce+udVYjvy+zQkgeSyxX3bOvZmVlvIkxXkc7bzElSkqHxBB/zQtpdzG3LVKTaz1MmU2lxtb6lIUgqAUCknB6HXMPDXc8iu3FQQZ9zIg7fZsky30Bag2D0yVAdcHlAOegyTjvrrjyqsoCgUn8Q0QQcggqBGD7xp7qzUw9hU9CIbs3xd13TKXQCJ8hAzj8wWrAx/emlTjjYqj7EEZRWXpspDPb9Iysgfwkevz1st6zcsfe9+oUNu42uyedYeZiqUhballSVBaRg9D6djo+5VTZrkN+btyU6/EdDrK3Yi8tqOMqHTv0+g1HhrtDkaI/OrIDfcOb6j26xcymm1MlsLktJP3kXJwAse/oU5x2Jwe2dXbgvdF/ZO0WZZKnUPCOhR/al4pSPQYHprZexrWVTzoblJYvpkMuNFIiOeYKSR8Pjpb2PQX8Cw2jXIpbVtiHIjl55yMtttICudxSlKAGM8301Q173IAw935AECnRP/9k=
@@ -27,13 +26,12 @@ labels:
   - Schnappschuss
   - Weltpremiere
   - Wooden Heart
-focusKeyword: ''
-status: publish
+focusKeyword: ""
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ein ganz normaler Donnerstag
+
 ---
 
 **Leider hat es gestern mit dem Fotobeitrag nicht mehr geklappt. Dafür entschuldige ich mich hiermit.**

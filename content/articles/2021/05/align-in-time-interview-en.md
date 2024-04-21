@@ -10,7 +10,6 @@ labels:
   - Interviews
   - English & German
 language: en
-slug: align-in-time-interview-en
 typeName: Interview
 title: John Boles aka Align in Time
 subTitle: '"My Music Is Biographical"'
@@ -30,6 +29,7 @@ focusKeyword: Align in Time
 advertisement: false
 affiliate: false
 languageLink: /2021/05/align-in-time-interview
+
 ---
 
 **Align in Time is a one-person post-rock project from Providence, Rhode Island. The founder is multi-instrumentalist John Boles. On 7 May, he re-released some of his songs as acoustic versions on his EP "Men Without Chests & I Go Too". Time to ask him a few questions.**

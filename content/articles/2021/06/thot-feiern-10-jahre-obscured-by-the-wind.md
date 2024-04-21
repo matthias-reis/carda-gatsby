@@ -12,7 +12,6 @@ labels:
   - Reviews
   - English & German
 language: de
-slug: thot-feiern-10-jahre-obscured-by-the-wind
 typeName: Review
 title: Thot feiern 10 Jahre "Obscured by the Wind"
 subTitle: '"Blue & Green (are melting down in a new seed)"'
@@ -31,6 +30,7 @@ focusKeyword: Obscured by the Wind
 advertisement: false
 affiliate: false
 languageLink: /2021/06/thot-feiern-10-jahre-obscured-by-the-wind-en
+
 ---
 
 **Mit einer atemberaubenden Live-Aufnahme des Songs "Blue & Green (are melting down in a new seed)" feiern Thot das 10jährige Jubiläum ihres grandiosen Albums "Obscured by the Wind". Das Video ist ab sofort verfügbar. Ich habe mich mit Thot Gründer Grégoire darüber unterhalten.**

@@ -1,13 +1,14 @@
 ---
 date: 2018-01-13T09:38:35.000Z
-slug: fleischatlas-2018
-path: /2018/01/fleischatlas-2018/
 title: Fleischatlas 2018
 seoTitle: Fleischatlas 2018 - Broschüre zeigt die ungeschönte Wahrheit
 ogTitle: Fleischatlas - Broschüre zeigt die ungeschönte Wahrheit
-description: Vor Kurzem veröffentlichte die Heinrich Böll Stiftung gemeinsam mit BUND und der deutschen Ausgabe von Le Monde Diplomatique den aktuellen Fleischatlas.
-excerpt: Vor Kurzem veröffentlichte die Heinricht Böll Stiftung gemeinsam mit BUND und der deutschen Ausgabe von Le Monde Diplomatique den aktuellen Fleischatlas.
-fileName: 2018-01---fleischatlas-2018.md
+description: Vor Kurzem veröffentlichte die Heinrich Böll Stiftung gemeinsam mit
+  BUND und der deutschen Ausgabe von Le Monde Diplomatique den aktuellen
+  Fleischatlas.
+excerpt: Vor Kurzem veröffentlichte die Heinricht Böll Stiftung gemeinsam mit
+  BUND und der deutschen Ausgabe von Le Monde Diplomatique den aktuellen
+  Fleischatlas.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_steak-575806_640.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_steak-575806_640.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,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
@@ -30,12 +31,11 @@ labels:
   - Tierrechte
   - werde vegan
 focusKeyword: Fleischatlas
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Broschüre zeigt die ungeschönte Wahrheit
+
 ---
 
 **Vor Kurzem veröffentlichte die _Heinrich Böll Stiftung_ gemeinsam _BUND_ und der deutschen Ausgabe von _Le Monde Diplomatique_ wieder den aktuellen Fleischatlas. Die Broschüre zeigt alle Daten und Fakten über Tiere als Nahrungsmittel. Ohne etwas wegzulassen oder zu schönen.**

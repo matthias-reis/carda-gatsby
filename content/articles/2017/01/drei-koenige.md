@@ -1,19 +1,19 @@
 ---
-date: 2017-01-06T10:59:26.000+00:00
-slug: drei-koenige
-path: '/2017/01/drei-koenige/'
+date: 2017-01-06T10:59:26.000Z
 type: Artikel
 typeName: Gedicht
-title: 'Drei Könige oder: Pizza und Backgammon'
-seoTitle: 'Drei Könige oder: Pizza und Backgammon - Die Moral von der Geschicht'
-ogTitle: 'Drei Könige oder: Pizza und Backgammon - Die Moral von der Geschicht'
-description: Drei Könige gingen über die Straße in eine Bar und spielten zusammen Backgammon. Es kam ein Sturm auf und so mussten sie austrinken und gehen...
-excerpt: Drei Könige gingen über die Straße in eine Bar und spielten zusammen Backgammon. Es kam ein Sturm auf und so mussten sie austrinken und gehen...
-fileName: 2017-01---drei-koenige-oder-pizza-und-backgammon.md
+title: "Drei Könige oder: Pizza und Backgammon"
+seoTitle: "Drei Könige oder: Pizza und Backgammon - Die Moral von der Geschicht"
+ogTitle: "Drei Könige oder: Pizza und Backgammon - Die Moral von der Geschicht"
+description: Drei Könige gingen über die Straße in eine Bar und spielten
+  zusammen Backgammon. Es kam ein Sturm auf und so mussten sie austrinken und
+  gehen...
+excerpt: Drei Könige gingen über die Straße in eine Bar und spielten zusammen
+  Backgammon. Es kam ein Sturm auf und so mussten sie austrinken und gehen...
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31988512212_a9c65ba3c8_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31988512212_a9c65ba3c8_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAwUE/8QAKBAAAgEDAgUDBQAAAAAAAAAAAQIDAAQREiEFEzFBURSBkSIyYXGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AHC4tpDfR2tqqCQpzZJGXUEXJAwO5JB67DGd9qt9EQSrzNKcZKsij4wBTJ6WCGOa7IfXysuQeoQEgD5NZ0kTy3fqZI1iAiCKobUTvkk428DH7oFbiPDAk3jPiimXikamRPpJ2ooO20vjcPPbvChjTTG2WJ1BkBO2PBI9qpuZwl+sULao+US466TnC/Izt+Kx7O5lSQTx6SWUK6s33Yzg57EZPtUXnE1iBMmlAT2YE/wUFvF75RKg1dAaKWru5W4k1jOO2DRQf//Z
-ogImage:
+ogImage: null
 labels:
   - Altona
   - Backgammon
@@ -27,14 +27,13 @@ labels:
   - Märchen
   - serie:Flarf-Gedichte
 focusKeyword: Drei Könige
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die Moral von der Geschicht
-year: '2017'
-month: '01'
+year: "2017"
+month: "01"
+
 ---
 
 **Drei Könige gingen über die Straße in eine Bar und spielten zusammen Backgammon. Es kam ein Sturm auf und so mussten sie austrinken, ihr Spiel auf den nächsten Tag verschieben und in ihren Königreichen nach dem Rechten sehen.**

@@ -1,15 +1,16 @@
 ---
 date: 2015-04-01T15:57:15.000Z
-slug: vegane-haekelmuetzen-mit-statement
-path: /2015/04/vegane-haekelmuetzen-mit-statement/
 type: Artikel
 typeName: Interview
 title: Denise Slapansky von WYOB
 seoTitle: Vegane Häkelmützen mit Statement - Denise Slapansky im Interview
 ogTitle: Vegane Häkelmützen mit Statement - Denise Slapansky im Interview
-description: Ganz aktuell macht Denise Slapansky unter dem Logo WYOB vegane Häkelmützen und Accessoires für Jung und Alt. Dabei stehen "Nutztiere" im Mittelpunkt.
-excerpt: Ganz aktuell macht Denise Slapansky unter dem Logo WYOB vegane Häkelmützen und Accessoires für Jung und Alt. Dabei stehen "Nutztiere" im Mittelpunkt.
-fileName: 2015-04---denise-slapansky-von-wyob.md
+description: Ganz aktuell macht Denise Slapansky unter dem Logo WYOB vegane
+  Häkelmützen und Accessoires für Jung und Alt. Dabei stehen "Nutztiere" im
+  Mittelpunkt.
+excerpt: Ganz aktuell macht Denise Slapansky unter dem Logo WYOB vegane
+  Häkelmützen und Accessoires für Jung und Alt. Dabei stehen "Nutztiere" im
+  Mittelpunkt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_04_11130325_980268688672783_3126736224858087273_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_04_11130325_980268688672783_3126736224858087273_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKhAAAgIBAwMCBQUAAAAAAAAAAQIDBBEABRIGITFRYQcTFCJBIzNxgdH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUG/8QAKBEAAgAEBAQHAAAAAAAAAAAAAQIAAwQRIUFR8AUxocESEzNCYZGx/9oADAMBAAIRAxEAPwBJBtH19SelUsV60ky/vpXHNBkZIGf5x7nTmls1GpR/TtjcXrSqHLrGJBkYAJXAPcemffWd9P3a8N6jXE1kWLUi0i7vjnkqGAH47ADP+6v/AFxvuy7NQoUphYqNYlaSJabBygXAORjKj+/OfOpEyXMM8HxkDIADHW+HQW1vGhp1kNTMWF3/ADT7MTKFurG5MG3yNXC82l+kDKoA+48wPHqdOaz17HIcVjwFIKQgkDPrqh7F8RYY+kLEcVCeXc4g8UaYlYNnPFmYdgApOQfOBjP4i7HveYI7RJVJWIljSwxKg+cIQQo9CNMhW9y269hvSDrJcsqGkKQBzxvv5jI6nKTcKDI3y5TaVQ4Hglxg49u3b2076v3abe+rHs2FVQldFijXOEBUE+fOSSdGjT7KCQSOUSOHsfOVcrjvHKlNGiIk8bSsePFg/Hj279sHOrT8Omkn3C5EXwr8xjGR9pwNGjQPiCI1FT6DjeUf/9k=
@@ -38,12 +39,11 @@ labels:
   - Wolle vegan
   - WYOB
 focusKeyword: Vegane Häkelmützen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Vegane Häkelmützen mit Statement
+
 ---
 
 > "Wear Your Own Bommel - Save lives"

@@ -1,15 +1,16 @@
 ---
 date: 2017-05-11T14:34:32.000Z
-slug: vollkornbrot-aus-dem-roemertopf
-path: /2017/05/vollkornbrot-aus-dem-roemertopf/
 type: Artikel
 typeName: Rezept
 title: Bierbrot aus dem Römertopf
 seoTitle: Bierbrot aus dem Römertopf - "This looks fuckin' awesome!"
 ogTitle: Bierbrot aus dem Römertopf - "This looks fuckin' awesome!"
-description: Wollt Ihr wissen, wie Ihr das Brot für Euer nächstes Picknick so richtig schön kross hinbekommt? Römertopf heißt das Zauberwort! Hier kommt mein Rezept!
-excerpt: Wollt Ihr wissen, wie Ihr das Brot für Euer nächstes Picknick so richtig schön kross hinbekommt? Römertopf heißt das Zauberwort! Hier kommt mein Rezept!
-fileName: 2017-05---bierbrot-aus-dem-roemertopf.md
+description: Wollt Ihr wissen, wie Ihr das Brot für Euer nächstes Picknick so
+  richtig schön kross hinbekommt? Römertopf heißt das Zauberwort! Hier kommt
+  mein Rezept!
+excerpt: Wollt Ihr wissen, wie Ihr das Brot für Euer nächstes Picknick so
+  richtig schön kross hinbekommt? Römertopf heißt das Zauberwort! Hier kommt
+  mein Rezept!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34432722072_f0db07cb1d_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34432722072_f0db07cb1d_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAP/xAArEAABAwMDAgYBBQAAAAAAAAABAgMEAAURBhIxIUEHExRRYYFCIiNxctH/xAAYAQACAwAAAAAAAAAAAAAAAAAABAECBf/EACMRAAEEAgEDBQAAAAAAAAAAAAEAAgMEESEFEiKBIzFBUWH/2gAMAwEAAhEDEQA/AM3iNqeTp1IZgECVKSmQ66U7vJTt2gJHGSQo9ePapSz2vXup4yJ0RE5cVzqh+VMLKV/1BPH8DFO/F+1SLpJdeiNqcS7EaWjp2GQR/tUFu1w0/bmPTsNoksNhn0yd+9IAwUqG4J2jsSDmk7Exc89ScqV2xQtEY+B5UPNb1tphkypD6lR0ZKlRp6XwkdyU5zj6q40ldpGpLLIL2xqUhKFlbaAEvIGADj8SMDjnNYtQ6sjptS0uNjzC2W0tqaQguE8BKUD59/emugYQttjaXI/aJiYUMd8g1FadzZAB9ou12S13l42ASPxNGgDEZbUlJLDBWFY6lReIJ+88fFLbnp+w3X9dxtLLjoOA42otrH2OtFFPXImadjayOGsyn0i7tA9lki2HT1j3zIFmbMhCSoOSHluq6exPFdHbu9Mhzn1pSlEaQwAgfkCScH46dqKKKUbc9WNqvN2ZQWxB3aQcjwv/2Q==
@@ -26,16 +27,14 @@ labels:
   - vegan
   - vegan backen
   - vegane Rezepte
-
   - veganes Brot
   - Vollkorn
 focusKeyword: Römertopf
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
-subTitle: '"This looks fuckin'' awesome!"...'
+subTitle: "\"This looks fuckin' awesome!\"..."
+
 ---
 
 **... sagte einst eine berühmte Frau und holte ihr frisch gebackenes Brot aus dem Ofen. Wer sie genau war, kann man heute nicht mehr rekapitulieren. Aber das ist auch egal. Denn ich habe mal wieder ein Brotrezept für Euch vorbereitet.**

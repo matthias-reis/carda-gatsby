@@ -1,6 +1,5 @@
 ---
 date: 2023-01-26T17:12:34.386Z
-slug: playlist-februar-2023
 typeName: Beitrag
 title: Playlist Februar 2023
 subTitle: Von Crosses bis Tashi Dorji
@@ -43,7 +42,9 @@ focusKeyword: Playlist Januar 2023
 advertisement: false
 affiliate: false
 language: de
+
 ---
+
 **Ihr habt sicher auch schon mitbekommen, wie viel gute Musik im Moment rauskommt, oder? Es ist wirklich ein Traum! Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich mal versucht, ein bisschen Ordnung reinzubringen und daraus die Playlist Februar 2023 erstellt. Von Crosses bis Tashi Dorji und von Desert Wave bis The Ocean. Please enjoy!**
 
 Die fertigen, abspielbaren Listen für Spotify und iTunes findet Ihr wie immer unter den Videos und unseren Anmoderationen. Ich beginne heute mal mit den drei Songs, die Valentin beigesteuert hat und übergebe das Wort an dieser Stelle direkt an ihn:

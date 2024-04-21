@@ -1,15 +1,16 @@
 ---
 date: 2016-10-28T14:54:18.000Z
-slug: butternut-kuerbis-mandarine-aufstrich-roh-vegan
-path: /2016/10/butternut-kuerbis-mandarine-aufstrich-roh-vegan/
 type: Artikel
 typeName: Rezept
 title: Roh-Veganer Aufstrich Butternut-Mandarine
 seoTitle: Butternut Kürbis Mandarine Aufstrich roh-vegan - Rezept
 ogTitle: Butternut Kürbis Mandarine Aufstrich roh-vegan - Rezept
-description: Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch gewünscht, mein Rezept für Butternut Kürbis Mandarine Aufstrich sollt Ihr bekommen.
-excerpt: Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch gewünscht, mein Rezept für Butternut Kürbis Mandarine Aufstrich sollt Ihr bekommen.
-fileName: 2016-10---roh-veganer-aufstrich-butternut-mandarine.md
+description: Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch
+  gewünscht, mein Rezept für Butternut Kürbis Mandarine Aufstrich sollt Ihr
+  bekommen.
+excerpt: Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch
+  gewünscht, mein Rezept für Butternut Kürbis Mandarine Aufstrich sollt Ihr
+  bekommen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_10_25408984053_8947f49fba_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_10_25408984053_8947f49fba_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAwcABAb/xAArEAACAQIEBAYCAwAAAAAAAAABAgMEEQAFITEGEiJBBxMyUWFxFZEWI/D/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFBv/EACERAAEEAQQDAQAAAAAAAAAAAAECAwQRABITMbEhQVFx/9oADAMBAAIRAxEAPwBieJPHH8XCZTkkaTZzKgdmYi0CHYkHdjuB2GpvoCp5qurqjUtmVS2YSzuHZqlRIRa9lFxoMBrKyXNs4r8ynPPLU1DSkEekHYD4A5QPoYHVyGmoamdWXnSJ2TzWAUsBpc+18c5KmOJc2mTVe/ZP7mzGjJUnccF3lss0puwj6W8zWJfV77b/ADguX5tm3D9QlZlNRPH5asfKjkssnfqBBuPr9HCabPcyeoWperlM6kOpv0jtoNrdsNvwzzD84aZK/k6ntIbWVvrQ627e/tfB6Zcala7Hw2e+8c9GaKbrJPRHLc0rculbmkglaMjmsUIJAH6AYe4IxJ0jKkSokqN2IuCP92wzPFXguWqnHEmSxSS1yRqlTBEeqVV9LqO7DUW3IsNxqrpKouoYgqz2uVNlI9/j6xPNYKVlwcHv5gRHgpIQeRmOzXgtpswZ8vnSKl5TyRNfoO9vq+NRw3TLw9l9PAjh5VBd3BtdjuLH52PxgbVBcBiW01uRbtiv/ZNIIo1aV2NlAXmJN+3zhSpDrgCVnwMpVVVn/9k=
@@ -22,14 +23,12 @@ labels:
   - Rezept
   - vegan
   - vegane Rezepte
-
 focusKeyword: Butternut
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Rezept für ein Glas
+
 ---
 
 **Ihr habt mir geschrieben und wollt mein Rezept für roh-veganen Aufstrich Butternut-Mandarine. Der Bitte komme ich hiermit nach.**

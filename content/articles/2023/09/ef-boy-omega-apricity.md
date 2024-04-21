@@ -1,12 +1,16 @@
 ---
-date: 2023-09-01T07:51:20.686Z
-slug: ef-boy-omega-apricity-en
+date: 2023-09-01T08:32:10.567Z
 typeName: Review
 title: EF & Boy Omega – "Apricity"
-subTitle: A summer song for the dark season
+subTitle: Ein heller Song für die dunkle Jahreszeit
 seoTitle: EF & Boy Omega – "Apricity" – Review
-description: EF and Boy Omega joined for a new version of the fabulous EF piece "Apricity". Here is why you should listen to it immediately.
-excerpt: 'EF contacted me with a huge surprise this week. I felt pretty flattered when my favourite band asked me: "We have a new single ready. Would you like to take a pre-listen?" Yes, of course, I wanted that! The good news for you guys is that you can also listen to "Apricity" from today. Read my thoughts about it!'
+description: EF und Boy Omega haben gemeinsam eine neue Version des grandiosen
+  EF Stücks "Apricity" veröffentlicht. Lest jetzt, warum Ihr den Song unbedingt
+  hören solltet.
+excerpt: 'Eine Überraschung erreichte mich diese Woche von meiner Lieblingsband
+  EF: "Wir haben eine neue Single, magst Du schon mal reinhören?" Und wie ich
+  das wollte! Ihr könnt "Apricity" ab heute übrigens auch hören. Details dazu
+  bekommt Ihr hier von mir.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-01/ef-boy-omega-jpg-imagine-080808_53473b_1024_768/640.webp
 copyright: Boy Omega & EF
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-01/ef-boy-omega-og-jpg-imagine-080808_55493d_1200_628/640.webp
@@ -21,23 +25,24 @@ labels:
   - Reviews
   - Band
   - Bands
-focusKeyword: Boy Omega
+focusKeyword: EF & Boy Omega
 advertisement: false
 affiliate: false
-language: en
-languageLink: /2023/09/ef-boy-omega-apricity/
+language: de
+languageLink: /2023/09/ef-boy-omega-apricity-en/
+
 ---
 
-**EF contacted me with a huge surprise this week. I felt pretty flattered when my favourite band asked me: "We have a new single ready. Would you like to take a pre-listen?" Yes, of course, I wanted that! The good news for you guys is that you can also listen to "Apricity" from today. Here are my thoughts about it so far:**
+**Eine Überraschung erreichte mich diese Woche von meiner Lieblingsband EF: "Wir haben eine neue Single, magst Du schon mal reinhören?" Und wie ich das wollte! Ihr könnt "Apricity" ab heute übrigens auch hören. Details dazu bekommt Ihr hier von mir.**
 
-The Swedes recorded a summerlike, upbeat pop serenade with their good friend Martin Hasselgren, aka Boy Omega. The track, initially released on EF's newest album, "[We Salute You, You And You](/2022/11/ef-interview-en/)", now comes in an entirely different style of playing, contrasting with the original and suiting the song wonderfully.
+Gemeinsam mit ihrem guten Freund Martin Hasselgren aka Boy Omega haben die Schweden eine sommerliche Upbeat-Pop-Serenade aufgenommen. Das Stück stammt ursprünglich vom kürzlich veröffentlichten EF Album "[We Salute You, You And You](/2022/11/ef-interview/)" und kommt nun in einer ganz anderen Spielweise daher, die Kontrast zum Original steht und ebenfalls wunderbar mit dem Song harmoniert.
 
-The relaxed, cheerful mood underlines the otherwise rather pensive, gloomy nature of the band very well and adds fascinating new facets to their distinctive sound. I am already very curious to hear more of this. The new EF song makes me want more, and I would be happy to spend the dark, cold wintertime with more of these dreamy, colourful sound miracles.
+Die lockere, fröhliche Stimmung unterstreicht die sonst eher getragene Art der Band sehr gut und ergänzt ihren unverwechselbaren Klang um weitere faszinierende Facetten. Ich bin schon sehr gespannt, ob es mehr davon geben wird. Mir macht der neue EF Song Lust auf mehr und ich würde mich freuen, die dunkle, kalte Winterzeit mit weiteren dieser kleinen, bunten Klangwunderwerke zu verbringen.
 
-"Apricity" lifts your mood and pushes away all those heavy, grey thoughts and dark rain clouds. EF and sound artist Boy Omega, who likes to mix field recordings with loops, Game Boy sounds, and classical strings for his songs made room for a new musical level—of the band's sound and the music world in general. It's a level between dreamgaze and post-rock and between summer and winter.
+"Apricity" hebt die Stimmung und schiebt graue Gedanken und dunkle Regenwolken einfach weg. EF und der Klangkünstler Boy Omega, der für seine Songs gerne mal Field Recordings mit Loops, Streichern und Game Boy Sounds mischt, machen dabei Platz für eine neue musikalische Ebene ihrer Karriere und der Musikwelt an sich. Eine Ebene zwischen Dreamgaze und Post-Rock und zwischen Sommer und Winter.
 
-So maybe this piece of music is made for the winter months. It sounds like a derivative of summer with plenty of room for warmth, cosiness, and thoughts of the blooming meadows in June full of butterflies, strawberry cake and this light-hearted festival atmosphere we all cherish so deeply.
+Wie geschaffen also für die Wintermonate ist dieses Stück Musik – es klingt wie ein Derivat des Sommers, mit viel Raum für Wärme, Gemütlichkeit und Gedanken an die blühenden Wiesen im Juni: voller Schmetterlinge im Bauch, Erdbeerkuchen und dieser unbeschwerten Festivalstimmung, die wir alle so sehr feiern.
 
-Listen to it. I love it already.
+Hört rein, ich liebe das Stück schon jetzt.
 
 <YouTube id="SQclpAUpRro" />

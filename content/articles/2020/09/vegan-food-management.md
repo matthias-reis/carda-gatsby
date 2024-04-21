@@ -1,13 +1,12 @@
 ---
 date: 2020-09-01T06:00:28.000Z
-slug: vegan-food-management
-path: /2020/09/vegan-food-management/
 title: Vegan Food Management
 seoTitle: Vegan Food Management - der vegane Studiengang
 ogTitle: Vegan Food Management - der vegane Studiengang
-description: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst. Seit 2016 kann man jetzt sogar Vegan Food Management studieren.
-excerpt: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst. Seit 2016 kann man jetzt sogar Vegan Food Management studieren.
-fileName: 2020-09---vegan-food-management.md
+description: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst.
+  Seit 2016 kann man jetzt sogar Vegan Food Management studieren.
+excerpt: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst. Seit
+  2016 kann man jetzt sogar Vegan Food Management studieren.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegan-food-management__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegan-food-management__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwYE/8QAJhAAAQMDAgYDAQAAAAAAAAAAAQACEQMEBSFBBhITFDGRIlFhgf/EABgBAAIDAAAAAAAAAAAAAAAAAAADBAUG/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxESEzFBkf/aAAwDAQACEQMRAD8AY2uJLgPiul2FjyITbE5LHVXNZ3IB8S5haPaqu+MuHO4Y0VLl06dRtAlggx539Jby5nWpl/DMdc8dtiS4xMCQJH2EovLLlB0WtqZ7B3FEVLe+EugcvIQ7UaAiFmMrf06jndFxjbRSMN5G9NMVcSvZkHXdwWx1nx+GFRqdz7QhWqSXgQEukEEgjeVILhqHOH9QhAH/2Q==
@@ -20,12 +19,11 @@ labels:
   - Vegan Food Management
   - vegane Ernährung
 focusKeyword: Vegan Food Management
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Der vegane Studiengang
+
 ---
 
 **Etwa 1,13 Millionen Menschen leben in Deutschland derzeit vegan. Das sind immerhin 1,36 Prozent der Bevölkerung. Weil auch beim Rest der Deutschen das Interesse immer größer wird, kann man seit 2016 Vegan Food Management studieren.**

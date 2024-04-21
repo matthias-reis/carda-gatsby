@@ -1,15 +1,16 @@
 ---
 date: 2014-05-21T11:40:35.000Z
-slug: nine-inch-nails-live-zitadelle-berlin
-path: /2014/05/nine-inch-nails-live-zitadelle-berlin/
 type: Artikel
 typeName: Konzertbericht
 title: NINE INCH NAILS live @Zitadelle Berlin
 seoTitle: NINE INCH NAILS live @ Zitadelle Berlin - "We have a lotta shit für you!"
 ogTitle: NINE INCH NAILS live @ Zitadelle Berlin - "We have a lotta shit für you!"
-description: NINE INCH NAILS - Am 15. Mai war es endlich so weit und wir durften Trent Reznor und seine Band in Berlin live sehen. Für mich das Konzert des Jahres.
-excerpt: NINE INCH NAILS - Am 15. Mai war es endlich so weit und wir durften Trent Reznor und seine Band in Berlin live sehen. Für mich das Konzert des Jahres.
-fileName: 2014-05---nine-inch-nails-live-zitadelle-berlin.md
+description: NINE INCH NAILS - Am 15. Mai war es endlich so weit und wir durften
+  Trent Reznor und seine Band in Berlin live sehen. Für mich das Konzert des
+  Jahres.
+excerpt: NINE INCH NAILS - Am 15. Mai war es endlich so weit und wir durften
+  Trent Reznor und seine Band in Berlin live sehen. Für mich das Konzert des
+  Jahres.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1291__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1291__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBAYHCP/EACYQAAIBAwMDBAMAAAAAAAAAAAECAwAEEQUSIQYxQRMyUWEikaH/xAAYAQACAwAAAAAAAAAAAAAAAAACBQEDBP/EACYRAAEDAQUJAAAAAAAAAAAAAAEAAgMRBAUSITEUFUFCYbHB0fD/2gAMAwEAAhEDEQA/AOa7WFpMYPFXFtSrFSMHOOacWPT0oKCO4hyzcbm24+zmnGnaW07yGWaFFjVh6j5IkK9toAySeMVYbSxpzKaQ3RNI2uH7isSksm5EmRjzjtVB7cxyEZ7VsuPS4pYMXMixybdxUsM/GcfFLNUTTrO3X0IRdT7T7+wA+qHa2k0AqUctyOY3E40HX1qqsfUKCDZCoQgbndl4TjjP2Qf5UFtrYt3uLmKTMUrAqB4IGD3/AHiiitIgYSSQlbr3tIa1rTSh8FSnqTc0ckixFQoVyPceckKfPilUutyerlmR3TP4hcgeDz4HaiioMEY5UO9LW/IyGmvZf//Z
@@ -29,12 +30,11 @@ labels:
   - Trent Reznor
   - ИINE IИCH ИAILS
 focusKeyword: NINE INCH NAILS
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"We have a lotta shit for you!"'
+
 ---
 
 **Bereits im November letzten Jahres hatten Matze, Valentin und ich uns über den NINE INCH NAILS Fanclub Tickets für den Auftritt auf dem Citadel Music Festival in der Spandauer Zitadelle besorgt.**

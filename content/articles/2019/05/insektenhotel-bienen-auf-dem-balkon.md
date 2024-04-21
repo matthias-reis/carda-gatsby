@@ -1,13 +1,13 @@
 ---
-date: 2019-05-05T13:08:32.000+00:00
-slug: insektenhotel-bienen-auf-dem-balkon
-path: '/2019/05/insektenhotel-bienen-auf-dem-balkon/'
+date: 2019-05-05T13:08:32.000Z
 title: Wie funktioniert ein Insektenhotel?
 seoTitle: So funktioniert ein Insektenhotel - Bienen auf dem Balkon
 ogTitle: So funktioniert ein Insektenhotel - Bienen auf dem Balkon
-description: Insektenhotels sieht man inzwischen überall. Man kann sie fertig kaufen oder selbst bauen. Bienenschutz setzt sich langsam durch und das ist gut so!
-excerpt: Insektenhotels sieht man inzwischen überall. Man kann sie fertig kaufen oder selbst bauen. Bienenschutz setzt sich langsam durch und das ist gut so!
-fileName: 2019-05---wie-funktioniert-ein-insektenhotel.md
+description: Insektenhotels sieht man inzwischen überall. Man kann sie fertig
+  kaufen oder selbst bauen. Bienenschutz setzt sich langsam durch und das ist
+  gut so!
+excerpt: Insektenhotels sieht man inzwischen überall. Man kann sie fertig kaufen
+  oder selbst bauen. Bienenschutz setzt sich langsam durch und das ist gut so!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-05-05-bees-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-05-05-bees-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACsQAAIBAwMCBQMFAAAAAAAAAAECAwQFEQAhMRITBhQiUWFBgZEVMnGhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAMGAQQF/8QAJREAAQIFBAEFAAAAAAAAAAAAAQIDAAQFESESMUFR8AYiMnGB/9oADAMBAAIRAxEAPwCVdKCltVo/UaiWAvJKixij7iAdX7gVfIwRngr99RKGie6RTS0aZWLdurYhcDf85H21e7zFZrv4eNretgiglIaJ3JEisoypw3Cg7Z9s/GuVrFd6GtVaImG4Uzqs1NMVMckeRn4OQcg/HPGqKq5OUoBLITpPe1/vgRD9Hl6kdbhNwOOoeTJbaGld7hMqOPd+n8f1prBaJZKYNbI1DlASzjG+M4yf9+dLPEtSlNXQvbqKjrquSQJAkyqV7g5AQtnkrvxtzzq4SXUzSk+YWpljWNZTEqhASoOBg/J0u1P1NVyguIcOlRvbGL7Du37BpSnSKFBKGxdOL8mMW9LZHLBUNb0STYIWJf0jg4Oc/XS/xpcLdJGlSVbuZ8uroqxJ0ernbleQPYn30aNbE8kLl1pUIO2SlQIil2ispaumt9XIho3lmdUrpFUd3pADBFJw4YtyQR/J31ts/djuMtXZZYomfMdVEqKohi57iEnk+oEgbHG310aNLMw0GllA+OMHbJ88vBmve0XDvH//2Q==
@@ -34,14 +34,13 @@ labels:
   - Wildbienen
   - serie:Wildbienen
 focusKeyword: Insektenhotel
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Bienen auf dem Balkon
-year: '2019'
-month: '05'
+year: "2019"
+month: "05"
+
 ---
 
 **Insektenhotels sieht man inzwischen überall. Man kann sie fertig kaufen oder selbst bauen. Bienenschutz setzt sich langsam durch und das ist gut so!**

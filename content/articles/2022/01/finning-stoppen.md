@@ -1,12 +1,16 @@
 ---
 date: 2022-01-28T16:40:57.011Z
-slug: finning-stoppen
 typeName: Beitrag
 title: Finning muss gestoppt werden
 subTitle: EU-Bürgerinitiative zum Schutz der Haie
 seoTitle: EU-Bürgerinitiative zum Schutz der Haie – Finning stoppen
-description: Zwischen 63 und 273 Millionen Haie sterben jährlich durch die Fischerei-Industrie. So lauten die offiziellen Zahlen. In Wirklichkeit sind es vermutlich wesentlich mehr. Die Dunkelziffer ist wesentlich größer.
-excerpt: Zwischen 63 und 273 Millionen Haie sterben jährlich durch die Fischerei-Industrie. So lauten die offiziellen Zahlen. In Wirklichkeit sind es vermutlich wesentlich mehr. Die Dunkelziffer ist durch den weltweit verbreiteten illegalen Fischfang jedoch kaum einschätzbar.
+description: Zwischen 63 und 273 Millionen Haie sterben jährlich durch die
+  Fischerei-Industrie. So lauten die offiziellen Zahlen. In Wirklichkeit sind es
+  vermutlich wesentlich mehr. Die Dunkelziffer ist wesentlich größer.
+excerpt: Zwischen 63 und 273 Millionen Haie sterben jährlich durch die
+  Fischerei-Industrie. So lauten die offiziellen Zahlen. In Wirklichkeit sind es
+  vermutlich wesentlich mehr. Die Dunkelziffer ist durch den weltweit
+  verbreiteten illegalen Fischfang jedoch kaum einschätzbar.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-28/buergerinitiative-finning-haie-sharks-piro4d-pixabay-jpg-imagine-082838_1b4a5a_1024_768/640.webp
 copyright: PIRO4D, Pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-28/buergerinitiative-finning-haie-sharks-piro4d-pixabay-fb-jpg-imagine-082838_113f4f_1200_628/640.webp
@@ -22,6 +26,7 @@ focusKeyword: Finning
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Zwischen 63 und 273 Millionen Haie sterben jährlich durch die Fischerei-Industrie. So lauten die offiziellen Zahlen. In Wirklichkeit sind es vermutlich wesentlich mehr. Die Dunkelziffer ist durch den weltweit verbreiteten illegalen Fischfang jedoch kaum einschätzbar.**

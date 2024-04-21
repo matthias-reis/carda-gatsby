@@ -1,14 +1,18 @@
 ---
 date: 2024-01-24T14:30:00.766Z
-slug: kara-delik-interview-en
 typeName: Interview
 title: '"A Cat that Loves to Dance"'
 subTitle: Kara Delik about their Album "All The Singularities (I – IV)"
 seoTitle: Kara Delik – Interview – "All The Singularities (I – IV)"
-description: 'Kara Delik interview – They tore down borders with their album "All The Singularities (I - IV)". Find out everything you need to know about the outstanding band from Berlin and their signature style.'
-excerpt: '"All The Singularities (I – IV)" combines all of Kara Delik‘s outstanding "Singulary" EPs. I had the chance to interview them and find out some secrets about theyr signature style. Read the story now and find out some fascinating insights about the record!'
+description: Kara Delik interview – They tore down borders with their album "All
+  The Singularities (I - IV)". Find out everything you need to know about the
+  outstanding band from Berlin and their signature style.
+excerpt: '"All The Singularities (I – IV)" combines all of Kara Delik‘s
+  outstanding "Singulary" EPs. I had the chance to interview them and find out
+  some secrets about theyr signature style. Read the story now and find out some
+  fascinating insights about the record!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-24/kara-delik-interview-soundsvegan-com-jpg-imagine-080808_5d4430_1024_768/640.webp
-copyright: 'Kara Delik'
+copyright: Kara Delik
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-24/kara-delik-interview-soundsvegan-com-og-jpg-imagine-383838_5b4e44_1200_628/640.webp
 labels:
   - Band
@@ -31,6 +35,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2024/01/kara-delik-interview/
+
 ---
 
 **Kara Delik is this international trio you certainly heard of that has concered the Berlin music scene in the blink of an eye. The band, consisting of Barış Öner (Istanbul Ghetto Club, [saz]), Andi Sommer (Henry Fonda, Yacht Communism, [bass, synths]) Eilis Frawley (Anika, Laura Lee & The Jettes, [drums]), combines complex rhythms with exciting soundscapes and effects. The three skilfully enrich the whole thing with their personal mixture of post-punk and Anatolian sounds. They recently celebrated a great success with their album "All The Singularities (I – IV)" and will soon be on tour—time for an interview on Sounds Vegan!**

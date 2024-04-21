@@ -1,12 +1,20 @@
 ---
 date: 2022-02-16T15:25:00.744Z
-slug: filmmusik-caminauta-interview
 typeName: Interview
 title: '"Das endlose Ausatmen des Ozeans"'
 subTitle: Filmmusik-Komponistin und Ambient-Künstlerin Caminauta im Interview
 seoTitle: Filmmusik-Komponistin und Ambient-Künstlerin Caminauta im Interview
-description: Caminauta heißt mit bürgerlichem Namen Camila. Die Künstlerin aus Uruguay erschafft Film-Soundtracks, Partituren und die unterschiedlichsten Kunstprojekte. Im Interview habe ich mit Ihr über Ihr neuestes Projekt "As The Seas Exhale" gesprochen.
-excerpt: Caminauta heißt mit bürgerlichem Namen Camila. Die Künstlerin aus Uruguay erschafft Film-Soundtracks, Partituren und die unterschiedlichsten Kunstprojekte. Sie möchte mit ihrer Arbeit eine große Vielfalt an Stimmungen zum Ausdruck bringen – vor allem aber die ruhigen und nachdenklichen Momente. Sie arbeitet am liebsten mit verschiedenen Elementen aus der Ambient- und Electronic-Welt und verbindet sie mit klassischen Orchestrierungen. Ihre minimalistische Musik wird dadurch zu etwas Einzigartigem.
+description: Caminauta heißt mit bürgerlichem Namen Camila. Die Künstlerin aus
+  Uruguay erschafft Film-Soundtracks, Partituren und die unterschiedlichsten
+  Kunstprojekte. Im Interview habe ich mit Ihr über Ihr neuestes Projekt "As The
+  Seas Exhale" gesprochen.
+excerpt: Caminauta heißt mit bürgerlichem Namen Camila. Die Künstlerin aus
+  Uruguay erschafft Film-Soundtracks, Partituren und die unterschiedlichsten
+  Kunstprojekte. Sie möchte mit ihrer Arbeit eine große Vielfalt an Stimmungen
+  zum Ausdruck bringen – vor allem aber die ruhigen und nachdenklichen Momente.
+  Sie arbeitet am liebsten mit verschiedenen Elementen aus der Ambient- und
+  Electronic-Welt und verbindet sie mit klassischen Orchestrierungen. Ihre
+  minimalistische Musik wird dadurch zu etwas Einzigartigem.
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-jpg-imagine-383828_636463_1024_768/640.webp
 copyright: Caminauta
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-16/caminauta-fb-png-imagine-282828_777b7d_1200_628/640.webp
@@ -28,6 +36,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/02/caminauta-interview-en/
+
 ---
 
 **Caminauta heißt mit bürgerlichem Namen Camila. Sie erschafft Film-Soundtracks, Partituren und unterschiedliche Kunstprojekte. Sie möchte mit ihrer Arbeit eine große Vielfalt an Stimmungen zum Ausdruck bringen – vor allem aber die ruhigen und nachdenklichen Momente. Sie arbeitet am liebsten mit verschiedenen Elementen aus der Ambient- und Electronic-Welt und verbindet sie mit klassischen Orchestrierungen. Ihre minimalistische Musik wird dadurch zu etwas Einzigartigem.**

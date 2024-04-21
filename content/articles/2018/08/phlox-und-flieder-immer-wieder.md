@@ -1,17 +1,19 @@
 ---
-date: 2018-08-08T14:30:16.000+00:00
-slug: phlox-und-flieder-immer-wieder
-path: '/2018/08/phlox-und-flieder-immer-wieder/'
+date: 2018-08-08T14:30:16.000Z
 title: Phlox und Flieder immer wieder
 seoTitle: Phlox und Flieder immer wieder 6 Balkontipps für den Hochsommer
 ogTitle: Phlox und Flieder immer wieder 6 Balkontipps für den Hochsommer
-description: Heute habe ich sechs heiße Tipps für Euch, mit denen Ihr die Pflanzen auf Eurem Balkon auch bei höheren Temperaturen bei Laune halten werdet. Phlox...
-excerpt: Produktplatzierungen/selbst gekauft - Heute habe ich sechs heiße Tipps für Euch, mit denen Ihr die Pflanzen auf Eurem Balkon auch bei höheren Temperaturen bei Laune halten werdet. Ein Phlox bietet zum Beispiel Wildbienen einen willkommenen Rastplatz.
-fileName: 2018-08---phlox-und-flieder-immer-wieder.md
+description: Heute habe ich sechs heiße Tipps für Euch, mit denen Ihr die
+  Pflanzen auf Eurem Balkon auch bei höheren Temperaturen bei Laune halten
+  werdet. Phlox...
+excerpt: Produktplatzierungen/selbst gekauft - Heute habe ich sechs heiße Tipps
+  für Euch, mit denen Ihr die Pflanzen auf Eurem Balkon auch bei höheren
+  Temperaturen bei Laune halten werdet. Ein Phlox bietet zum Beispiel Wildbienen
+  einen willkommenen Rastplatz.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_Balkon__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_Balkon__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKxAAAQQBAwIFAwUAAAAAAAAAAQIDBBEFABIhBjETFCIyQVFhgRUjQmJx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwECBAX/xAAiEQACAgEDBAMAAAAAAAAAAAABAgARAzFRcQQSISIk8PH/2gAMAwEAAhEDEQA/AGxrpvGQsK1n81i47jscbpsR5wEN9tqwm+do7gWTQrkao88/GVBhogQITUuC6hLEhZVEcZbKgd52nng+037vrqDkMgsz2Y+XfiB2KHTLTG5PtFpFjmx2v54GqzPOYyZnce9HAVEVJZB80olsK3Dskm6H9ux51xcvWsXo0ADX3iWdu211me47oKVMlzZq2EupZlqUuneC2VKCVgd6BHJ+41oUbER48JDBQtT7vrBF7ShIqh/pN8/jXDD491jzCMpFcb8+48UFtafEQELNpIWPQr+Vd6ojTph8QxjcXKYZ8+kBKXSuSsLUQncn01XYbSBWtmLN8kI+tGuP2S4FWRvMUeQ7+gMFD6w4kOIccUNynPDG8Ek82br8DURc1xjGYRtlboalSG3nELWFDcHUgVx9PrejRojjUspraDQPkxz6d6kmxn+q/wB58K88qUPCd2Aq3lICrBJT9rF/N6dIECa5lMfGTklpbCFSAothSwRvAF3wK47c/OjRpyis6EjQx0Htkn//2Q==
-ogImage:
+ogImage: null
 labels:
   - Balkon
   - Balkonpflanzen
@@ -29,14 +31,13 @@ labels:
   - Wildblumen
   - serie:Wildbienen
 focusKeyword: Phlox
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: 6 Tipps für den Hochsommer auf dem Balkon
-year: '2018'
-month: '08'
+year: "2018"
+month: "08"
+
 ---
 
 **Nach einer kleinen "Rettungsaktion" in den frühen Morgenstunden, grünt und blüht es jetzt bei uns auf dem Balkon wieder richtig schön. Auch Pflanzen brauchen Pflege. Heute teile ich meine Erfahrungen mit Euch.**

@@ -1,17 +1,16 @@
 ---
-date: 2019-05-21T05:55:35.000+00:00
-slug: dunkfestival-2019
-path: '/2019/05/dunkfestival-2019/'
+date: 2019-05-21T05:55:35.000Z
 title: Dunk!festival 2019
 seoTitle: Dunk!festival 2019 - das Line-up steht fest - diese Band sind dabei
 ogTitle: Dunk!festival 2019- das Line-up steht fest
-description: 'Das Line-up für das diesjährige Dunk!festival steht fest und eins verspreche ich Euch: Das wird wieder ganz schön spannend!'
-excerpt: 'Das Line-up für das diesjährige Dunk!festival steht fest und eins verspreche ich Euch: Das wird wieder ganz schön spannend!'
-fileName: 2019-05---dunk-festival-2019.md
+description: "Das Line-up für das diesjährige Dunk!festival steht fest und eins
+  verspreche ich Euch: Das wird wieder ganz schön spannend!"
+excerpt: "Das Line-up für das diesjährige Dunk!festival steht fest und eins
+  verspreche ich Euch: Das wird wieder ganz schön spannend!"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-44__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-44__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EACkQAAIBAwMCBQUBAAAAAAAAAAECAwQFEQASIRMxQVFhYnEGFSSRwYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECAzH/2gAMAwEAAhEDEQA/AKeem+39WuEYeIrkpnAb00zWW3Q09oa5tDsgqVURRtyd7DPHwOdLdwaar+kaKuA6kUdQ8Ux7BW425H71N2G5NcLFaLXTUrtNTdcF5NpiG45Vl9wGRg+QPbjVtqB5quMjK23xCNoJ+T3if+aS6+AxOwIxqwa2kL18aN1TG+ERnYEF8geH+fvSre4WjlninlXfHwPHdz4EempQ0aSXhwrdqh7M1EJPxo36xTI7jPr7jrNHdKiCnkSNmUFhghsAEjPb40aNN7ZnWUjdLfqpoI1aSMxqdyhGxg+fbvxqKr7i9S7PhVJ8m/mjRoUdP//Z
-ogImage:
+ogImage: null
 labels:
   - Alcest
   - Coastlands
@@ -31,14 +30,13 @@ labels:
   - Zottegem
   - serie:DUNK!festival
 focusKeyword: Dunk
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Das Line-up steht fest
-year: '2019'
-month: '05'
+year: "2019"
+month: "05"
+
 ---
 
 **Das Line-up für das diesjährige Dunk!festival steht fest und eins verspreche ich Euch: Das wird wieder ganz schön spannend!**

@@ -1,11 +1,14 @@
 ---
 date: 2021-09-23T12:31:53.204Z
-slug: keep-the-orange-sun
 typeName: Review
 title: '"Keep The Orange Sun"'
 subTitle: Das neue Album von awakened souls & From Overseas
 seoTitle: '"Keep The Orange Sun" von awakened souls & From Overseas'
-description: awakened souls haben gemeinsam mit From Overseas aka Kévin Séry eine ganz fantastische neue Platte aufgenommen. Weil sie morgen erscheint, möchte ich sie Euch heute gerne vorstellen. Für mich ist "Keep The Orange Sun" schon jetzt ein Kleinod, das in meiner Vinyl-Sammlung auf keinen Fall fehlen darf.
+description: awakened souls haben gemeinsam mit From Overseas aka Kévin Séry
+  eine ganz fantastische neue Platte aufgenommen. Weil sie morgen erscheint,
+  möchte ich sie Euch heute gerne vorstellen. Für mich ist "Keep The Orange Sun"
+  schon jetzt ein Kleinod, das in meiner Vinyl-Sammlung auf keinen Fall fehlen
+  darf.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/ktos3-jpg-imagine-a8d8f8_787b82_5118_3555/640.webp
 copyright: From Overseas, awakened souls
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/keep-the-orange-sun-fb-png-imagine-080808_6c6061_1200_628/640.webp
@@ -25,6 +28,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/09/keep-the-orange-sun-en/
+
 ---
 
 **awakened souls haben gemeinsam mit From Overseas aka Kévin Séry eine ganz fantastische neue Platte aufgenommen. Weil sie morgen erscheint, möchte ich sie Euch heute gerne vorstellen. Hören lohnt sich wirklich. Für mich ist "Keep The Orange Sun" schon jetzt ein Kleinod, das in meiner Vinyl-Sammlung auf keinen Fall fehlen darf.**

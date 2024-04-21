@@ -1,19 +1,18 @@
 ---
-date: 2018-05-06T15:32:01.000+00:00
-slug: bio-eistee-konzentrate-von-teatime-im-test
-path: '/2018/05/bio-eistee-konzentrate-von-teatime-im-test/'
+date: 2018-05-06T15:32:01.000Z
 type: Artikel
 typeName: Produkttest
 title: Bio Eistee Konzentrate von TeaTime
 seoTitle: Bio-Eisteekonzentrat von TeaTime im Test - Pur, vegan und lecker
 ogTitle: Bio-Eisteekonzentrat von TeaTime im Test - Pur, vegan und lecker
-description: Vor Kurzem erreichte mich ein Testpaket, auf das ich ganz besonders gespannt gewartet hatte. Enthalten waren die Bio-Teekonzentrate von TeaTime.
-excerpt: Vor Kurzem erreichte mich ein Testpaket, auf das ich ganz besonders gespannt gewartet hatte. Enthalten waren die Bio-Teekonzentrate von TeaTime.
-fileName: 2018-05---bio-eistee-konzentrate-von-teatime.md
+description: Vor Kurzem erreichte mich ein Testpaket, auf das ich ganz besonders
+  gespannt gewartet hatte. Enthalten waren die Bio-Teekonzentrate von TeaTime.
+excerpt: Vor Kurzem erreichte mich ein Testpaket, auf das ich ganz besonders
+  gespannt gewartet hatte. Enthalten waren die Bio-Teekonzentrate von TeaTime.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_41066696944_949635dfaf_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_41066696944_949635dfaf_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIDBQYBBAf/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEEQAFIQYSMRQiURMVQSMycXLB/8QAFwEBAAMAAAAAAAAAAAAAAAAABAEDBf/EAB8RAAICAQQDAAAAAAAAAAAAAAECAAMREiExQRMiof/aAAwDAQACEQMRAD8Aq32uv1H1BX23a7E/2sxiVbKSdjIVHvCY5YeOCPOpaStc6P2KaZmNq3NLkJVZo3dA2AMkZGBkk4xnVW6W2pKEDnaLFuW5W/WW04RVDM3Kkc/uGeDrosc1mzNWs7paksTFwmO0COIFTwoA+cEk6zk8mo6eIqxsAow+yG6l61ijqb49etfsSN9D0kaySoJRx3lT2+ztzz86R05u1bet36gWHvBQI8QdnJeLLDuww45IGnbMsKU4lbtVk264Tn8YZBzpPTqRL1jvRQACPaasfHyXY/5pVZt1e+IVivQjuz7PClZV9VNYwcqr4jjz/VcZ/k51ndY6Eb16Lbp6Hcp2BilYl41YeEbxgNyoPzj8aNGoIB2MeFC7jqae6dJ3JduVq++wyMleSNDNVwpV8Fj3Kxz4441U7+5nb7UtjaJrfqrSxxy+3IIXOPbgnGSc50aNEtUq6KpIBJ4lNqhsZn//2Q==
-ogImage:
+ogImage: null
 labels:
   - Bar
   - Bio-Tee
@@ -35,13 +34,12 @@ labels:
   - veganer Eistee
   - Weißwein-Spritz
 focusKeyword: TeaTime
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Pur, vegan und lecker
 advertisement: true
+
 ---
 
 **Vor Kurzem erreichte mich ein Testpaket, auf das ich ganz besonders gespannt gewartet hatte. Enthalten waren die Teekonzentrate von TeaTime aus dem Österreichischen Enns.**

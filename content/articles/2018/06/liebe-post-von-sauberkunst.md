@@ -1,25 +1,24 @@
 ---
 ogTitle: Liebe Post von Sauberkunst aus Berlin - Rosenstolz und Poseidon
-excerpt: 'Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst nach Berlin eingeladen. Dabei habe ich ein paar dufte Typen kennengelernt: Poseidon & Rosenstolz!'
+excerpt: "Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst nach Berlin
+  eingeladen. Dabei habe ich ein paar dufte Typen kennengelernt: Poseidon &
+  Rosenstolz!"
 ogImage: null
 isAffiliate: false
-path: /2018/06/liebe-post-von-sauberkunst/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUD/8QAJxAAAgEEAgEDBAMAAAAAAAAAAQIDAAQRIQUxEhMUYSIyQVGRobH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBAEC/8QAIxEAAgEEAQMFAAAAAAAAAAAAAQIDAAQRIRIUMaFBYYGxwf/aAAwDAQACEQMRAD8AXrG284wT13Wktoo8VVSWPQA2da/yrPHcNd+2RmWNAUDKGbZOtYAJ67PzTbdTW0fo+2iEfpr6JfxJZFHQPwf3VlzfpChZd4+PzzQ0djLJt9CsfleIiThB9KQ3BVFyqDIP53/NLNtx7PaySzDI8QfGT7lyOjinnkeTs7OySK6iVruZD4xCMuQwGQSM6GcGsuIWA4xJIQ+ZNspz93Rz3jf4qCKd3YMx9Ow9/IpQwoEwo+qXLDnpZVcXyK4JypVzsd4/Y3UhyfIy38t2ZoII30I8FiABgb/uiikBax8uWNmi5L2Xjxz2rnb3l1BczS3UsExZQA6MVOAc4qlHyklq07zPG5kYsUA0p+D3RRXPSRK5cDZrFupGGCa//9k=
 typeName: Produkttest
 advertisement: true
 isWerbung: false
-fileName: 2018-06---liebe-post-von-sauberkunst-aus-berlin.md
-slug: liebe-post-von-sauberkunst
-errors: {}
-date: 2018-06-01T06:23:21.000+00:00
+date: 2018-06-01T06:23:21.000Z
 focusKeyword: Sauberkunst
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_40431714030_49aab07994_k__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_40431714030_49aab07994_k__m.jpg
 title: Liebe Post von Sauberkunst aus Berlin
 subTitle: Poseidon und Rosenstolz
 seoTitle: Liebe Post von Sauberkunst aus Berlin - Poseidon und Rosenstolz
-description: 'Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst nach Berlin eingeladen. Dabei habe ich ein paar dufte Typen kennengelernt: Poseidon & Rosenstolz'
+description: "Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst nach
+  Berlin eingeladen. Dabei habe ich ein paar dufte Typen kennengelernt: Poseidon
+  & Rosenstolz"
 language: de
 type: Artikel
 labels:
@@ -51,6 +50,7 @@ labels:
   - vegane Deocreme
   - vegane Kosmetik
   - Zero Waste
+
 ---
 
 **Vor Kurzem war ich zum Bloggerevent von** [**Sauberkunst**](/2018/02/unboxing-sauberkunst/) **nach Berlin eingeladen. Leider war ich an diesem Wochenende schon komplett ausgebucht und konnte nicht kommen. Als Trostpflaster haben mich die Lieben mit einem tollen Paket überrascht. Den Inhalt möchte ich Euch heute zeigen.**

@@ -1,19 +1,18 @@
 ---
-date: 2015-11-24T14:41:26.000+00:00
-slug: vegan-beauty-basket
-path: '/2015/11/vegan-beauty-basket/'
+date: 2015-11-24T14:41:26.000Z
 type: Artikel
 typeName: Produkttest
 title: Vegan Beauty Basket
 seoTitle: Vegan Beauty Basket - meine Unboxing Story
 ogTitle: Vegan Beauty Basket - meine Unboxing Story
-description: Letzte Woche stand für mich ein besonderes Highlight an. Ich hatte das große Vergnügen, den Vegan Beauty Basket zu testen.
-excerpt: Letzte Woche stand für mich ein besonderes Highlight an. Ich hatte das große Vergnügen, den Vegan Beauty Basket zu testen.
-fileName: 2015-11---vegan-beauty-basket.md
+description: Letzte Woche stand für mich ein besonderes Highlight an. Ich hatte
+  das große Vergnügen, den Vegan Beauty Basket zu testen.
+excerpt: Letzte Woche stand für mich ein besonderes Highlight an. Ich hatte das
+  große Vergnügen, den Vegan Beauty Basket zu testen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_vegan-beauty-basket__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_vegan-beauty-basket__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwT/xAArEAABAwMDAgUEAwAAAAAAAAACAQMEAAURBhIxQVETISKB0QcUcZEkQrH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgb/xAAgEQACAQMEAwAAAAAAAAAAAAABAgADESESMUHwUVJx/9oADAMBAAIRAxEAPwCpsWlos9siJloZDSp6DXJfj9U7i2WD9w1GMQA3N2BVPNdqZLy64TpTrYzFeGQ2BG4eVypZTz6onxjnmpD6gaakaiBLpa5klm4xmVBY4OHsdHqoiP8AfCqi45RcLxWZRvaaNEFSoEJCg8xdMuuniukm3sJKdkRzFo/4qiIkS4RMquPjC5xSrUwW22jmTLjMIpbE3ODjO1C5TPRU8+K532LDpqVaYEW7Gi7mjmNSAUEJeScHcKdtqjntWupbE9cNXy5B2JqfYvW2/LKQiPgqY2kGVTKCvbKbVVEzTqMy6iorZvb53viWelL61MhLBkkO9scgpLyKfH+UzG8wYuViODIfRMeKS+gfx39v3RRQFRrIg7iJLteYbrJty/ClIedwOCJCvsqYqduF7ecjuMMOm1HJNqgKptx2Tt7UUU6KJJPE/9k=
-ogImage:
+ogImage: null
 labels:
   - Beautybox
   - Fair Fashion & Beauty
@@ -22,13 +21,12 @@ labels:
   - vegane Kosmetik
   - serie:Vegan Beauty Basket
 focusKeyword: Vegan Beauty Basket
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Meine Unboxing Story
 advertisement: true
+
 ---
 
 **Letzte Woche stand für mich ein besonderes Highlight an. Ich hatte das große Vergnügen, den neuen Stern am Beautybox-Himmel zu testen: Den Vegan Beauty Basket.**

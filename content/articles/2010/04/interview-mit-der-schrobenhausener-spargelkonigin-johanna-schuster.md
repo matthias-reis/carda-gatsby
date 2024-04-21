@@ -1,19 +1,18 @@
 ---
-date: 2010-04-27T15:31:36.000+00:00
-slug: interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster
-path: '/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/'
+date: 2010-04-27T15:31:36.000Z
 type: Artikel
 typeName: Interview
 title: Spargelkönigin Johanna Schuster
 seoTitle: Interview mit der Schrobenhausener Spargelkönigin
 ogTitle: Interview mit der Schrobenhausener Spargelkönigin
-description: Interview mit der Spargelkönigin Johanna Schuster - Ihren Spargel mag Johanna am liebsten ganz klassisch mit Kartoffeln und Butter.
-excerpt: Interview mit der Spargelkönigin Johanna Schuster - Ihren Spargel mag Johanna am liebsten ganz klassisch mit Kartoffeln und Butter.
-fileName: 2010-04---spargelkoenigin-johanna-schuster.md
+description: Interview mit der Spargelkönigin Johanna Schuster - Ihren Spargel
+  mag Johanna am liebsten ganz klassisch mit Kartoffeln und Butter.
+excerpt: Interview mit der Spargelkönigin Johanna Schuster - Ihren Spargel mag
+  Johanna am liebsten ganz klassisch mit Kartoffeln und Butter.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAAmEAACAgEEAgICAwEAAAAAAAABAgMEBQAGESESUTFBE3EUI2Ei/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAHhEBAAICAQUAAAAAAAAAAAAAAQACAxEhEiIxQbH/2gAMAwEAAhEDEQA/AOKzu7Y917QXGzX4LDVZI7LzwxNXWTpgInQ+jwQy9H0OO+Xt7jy9/Yt/CyXp58YJIGjrWZgRXZGY/wBY49HsAgcd8E/GdthIY8ZlIjaYzS+LCMghejyCB9npu/170lizOb1ho6tadGDIySkAeJB57P3wPr1pLPBMVJbJ8TFmqLZOnbjWOzI00XnAwZlfsc8jketMbmy2UvYSOPM1Kld0suUFVyyNGAoQnyPJPbg/XIGkNt7lv3ohXGMsyIhWXzrgyKF8egoC/QHvWrurdlrNYeHFR4oJXL/yopBH+P8ArPAiABJLfDAt8cjQ5u+rUYmEd714kRqZMTbqkihqxVkku/mUxdMnAZPEH0S3l+xraxGChuZG+XYFKzfiCuvl5Ag889/5+/8AdGjVmM3VGTZFHZKJey0kW3KVGnGKoxNOWJXiYgS/B5YDrvgcjU+wW7cvaxK1DNGC1s2oZGQN+EliJFUdf8MSG8fojkfJ0aNB0lVD3v5GxrY5n//Z
-ogImage:
+ogImage: null
 labels:
   - Bayern
   - Galileo
@@ -23,12 +22,11 @@ labels:
   - Spargel
   - Spargelkönigin
 focusKeyword: Spargel
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Der Spargel ist für Schrobenhausen von großer Bedeutung"'
+
 ---
 
 **Die Schrobenhausener Spargelkönigin wird seit 1975 jedes Jahr im Bierzelt des Schrobenhausener Volksfestes gekrönt. Johanna Schuster trat am 11.08.2009 Ihre Regentschaft als Schrobenhausener Spargelkönigin an. Sie ist die 35. Schrobenhausener Spargelkönigin.**

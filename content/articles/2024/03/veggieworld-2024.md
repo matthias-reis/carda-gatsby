@@ -1,12 +1,18 @@
 ---
 date: 2024-03-15T09:30:12.086Z
-slug: veggieworld-2024
-typeName:
-title: 'VeggieWorld 2024'
-subTitle: 'Vegane Innovationen in der Düsseldorfer Kaltstahlhalle'
-seoTitle: 'Die VeggieWorld 2024 in Düsseldorf'
-description: 'Auf der VeggieWorld 2024 vom 23. bis 24. März in Düsseldorf könnt Ihr alle veganen Trends des Jahres entdecken. Erfahrt hier, warum sich der Besuch lohnt!'
-excerpt: 'Vom 23. bis zum 24. März findet in Düsseldorf die VeggieWorld 2024 statt. Auf der veganen Messe findet Ihr die innovativsten und neuesten veganen Produkte und erfahrt, was alles mit pflanzlicher Ernährung und veganer Lebensweise möglich ist. Der Besuch lohnt sich, denn es gibt längst nicht nur Tofu zu sehen. Von veganen Schuhen über japanisches Streetfood und Fashion Trends ist einiges geboten!'
+typeName: null
+title: VeggieWorld 2024
+subTitle: Vegane Innovationen in der Düsseldorfer Kaltstahlhalle
+seoTitle: Die VeggieWorld 2024 in Düsseldorf
+description: Auf der VeggieWorld 2024 vom 23. bis 24. März in Düsseldorf könnt
+  Ihr alle veganen Trends des Jahres entdecken. Erfahrt hier, warum sich der
+  Besuch lohnt!
+excerpt: Vom 23. bis zum 24. März findet in Düsseldorf die VeggieWorld 2024
+  statt. Auf der veganen Messe findet Ihr die innovativsten und neuesten veganen
+  Produkte und erfahrt, was alles mit pflanzlicher Ernährung und veganer
+  Lebensweise möglich ist. Der Besuch lohnt sich, denn es gibt längst nicht nur
+  Tofu zu sehen. Von veganen Schuhen über japanisches Streetfood und Fashion
+  Trends ist einiges geboten!
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-15/andreas-gebert-veggieworld-soundsvegan-com-jpg-imagine-e8f8f8_99918d_1024_768/640.webp
 copyright: Andreas Gebert
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-03-15/andreas-gebert-bjoern-fehl-veggieworld-soundsvegan-com-og-jpg-imagine-282828_868375_1200_628/640.webp
@@ -22,10 +28,11 @@ labels:
   - ProVeg
   - Düsseldorf vegan
   - Foodtrends
-focusKeyword: 'VeggieWorld 2024'
-advertisement:
-affiliate:
+focusKeyword: VeggieWorld 2024
+advertisement: null
+affiliate: null
 language: de
+
 ---
 
 **Vom 23. bis zum 24. März findet in Düsseldorf wieder die VeggieWorld statt. Auf der Messe stellen die teilnehmenden Firmen die innovativsten und neuesten veganen Produkte vor und zeigen, was alles mit pflanzlicher Ernährung und veganer Lebensweise möglich ist. Der Besuch lohnt sich, denn es gibt einiges zu sehen. Was genau, habe ich in diesem Artikel für Euch zusammengefasst.**

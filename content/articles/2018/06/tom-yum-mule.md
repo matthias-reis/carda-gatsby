@@ -1,15 +1,14 @@
 ---
 date: 2018-06-16T18:10:01.000Z
-slug: tom-yum-mule
-path: /2018/06/tom-yum-mule/
 type: Artikel
 typeName: Rezept
 title: Tom Yum Mule
 seoTitle: Tom Yum Mule - Cocktailrezept - Ein feuriger Highball
 ogTitle: Tom Yum Mule - Cocktailrezept - Ein feuriger Highball
-description: Zum Wochenende habe ich ein weiteres Cocktail-Rezept für Euch vorbereitet. Der Tom Yum Mule ist ein ganz besonderer Highball.
-excerpt: Zum Wochenende habe ich ein weiteres Cocktail-Rezept für Euch vorbereitet. Der Tom Yum Mule ist ein ganz besonderer Highball.
-fileName: 2018-06---tom-yum-mule.md
+description: Zum Wochenende habe ich ein weiteres Cocktail-Rezept für Euch
+  vorbereitet. Der Tom Yum Mule ist ein ganz besonderer Highball.
+excerpt: Zum Wochenende habe ich ein weiteres Cocktail-Rezept für Euch
+  vorbereitet. Der Tom Yum Mule ist ein ganz besonderer Highball.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_41067001974_39439e59f0_z-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_41067001974_39439e59f0_z-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAUGAQIDBAf/xAAnEAABAwQBAgYDAAAAAAAAAAABAgMRAAQFEiETMQYVQVFhcSJCgf/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQP/xAAgEQACAgICAgMAAAAAAAAAAAABAgADBBESMQVBIVHx/9oADAMBAAIRAxEAPwDsuMswUiRxTUMNpEQJ9qS+Ecu3f4tDi9yW0AOL1gkxyopj8Qe4+6WveInci718eVt22uoTA2JBMn6pa7NqqHyZqmLYSQRrUkN82whuXClIJgSQOf7UUzdu0E8fsdRHPNJshe5K4uWzknQu2QDBSAmD6GKVuqbVlrJ1t5wBDiJQIhXPr8RU0eaU2BAvf2f2MDBcpymCyygasNU3GWfyVwyetbpUkhuezaQnnYTEcCCa2kqcwWHtFXIct95ToE79M+yingTRRU/LJdtmUqCWI37lttc+b2tz0HygpiFuNEBRnsKrZYu6aK3Lh9ogp1SC2ePmaKKWqqUPy9iFkOV2g6n/2Q==
@@ -23,15 +22,13 @@ labels:
   - Tom Yum
   - vegan
   - vegane Rezepte
-
   - Zitronengras
 focusKeyword: Tom Yum
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Feuriger Highball
+
 ---
 
 **Zum Wochenende habe ich ein weiteres Cocktail-Rezept für Euch. Es handelt sich dabei um einen Highball. Seinen Namen hat er einer ganz besonderen Zutat zu verdanken: Lemongras.**

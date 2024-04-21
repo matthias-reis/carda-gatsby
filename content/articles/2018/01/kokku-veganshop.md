@@ -1,17 +1,17 @@
 ---
-date: 2018-01-16T11:14:34.000+00:00
-slug: kokku-veganshop
-path: '/2018/01/kokku-veganshop/'
-title: 'Ausgepackt: Kokku Veganshop'
-seoTitle: 'Ausgepackt: Kokku Veganshop - Vegane Leckerein frei Haus'
-ogTitle: 'Ausgepackt: Kokku Veganshop - Vegane Leckerein frei Haus'
-description: Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch nicht kennt? Ich habe mich über mein Testpaket von Kokku wie verrückt gefreut.
-excerpt: Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch nicht kennt? Ich habe das getan und mich über mein Testpaket von Kokku wie verrückt gefreut.
-fileName: 2018-01---ausgepackt-kokku-veganshop.md
+date: 2018-01-16T11:14:34.000Z
+title: "Ausgepackt: Kokku Veganshop"
+seoTitle: "Ausgepackt: Kokku Veganshop - Vegane Leckerein frei Haus"
+ogTitle: "Ausgepackt: Kokku Veganshop - Vegane Leckerein frei Haus"
+description: Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch
+  nicht kennt? Ich habe mich über mein Testpaket von Kokku wie verrückt gefreut.
+excerpt: Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch
+  nicht kennt? Ich habe das getan und mich über mein Testpaket von Kokku wie
+  verrückt gefreut.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38965281314_6008228888_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_38965281314_6008228888_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgMECP/EAC0QAAIBAwIFAgQHAAAAAAAAAAECAwQFEQASBgcTITEiQRQVI6EyM0JRUpGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAdEQACAgMAAwAAAAAAAAAAAAABAgARAxIhIjFx/9oADAMBAAIRAxEAPwDnagpOvPDCrKGldUBY4AJIAz/em/wjy3sho7q3FaVsstNMYdlJWCLogKuWPoO7JcAf5pVcLQdW6RI9BNXIfxJDGzyIP5KB7g489tOy1/Ooy8L2S5NBXVMMkxuFZHG7ncq/lAFyMBc4x20mY5K8I6LjC7sw+dlOufLKitF34fhu9yo6Wkqah456tpiq9NSWAywHqKkKGxtyc51Oc8ODYbfaoLrbbdRw00SIk7iZVeMA7E2r23hu37nsT76meObNLXQ0NrrLNRyWySY1U09DUje3ThykSFlGw7XAAPgDSj5lXG5NxFcLRJc7hUW2kkijjhqZsgdOIIhKD0hgvbI7+c99ZiO3uGemaxXOcmDgOvNBe+r9Yp0JN6xSBCwC5xkgj7ascPNWejr1q7RaIaMQkqzGrmedl27Sol3Ap2H6QMfbRo1bUMaM5dF32rs1uMuY9x4qpaKCM1VHRU0nxEcJquoVlII3Bwqn3PnJ7nJOqLUSM7vI5LSOxZmY5LE+SSfJ0aNCqFFCUuf/2Q==
-ogImage:
+ogImage: null
 labels:
   - auspacken
   - Berberitze
@@ -42,13 +42,12 @@ labels:
   - vegane Lebensmittel bestellen
   - Veganshop
 focusKeyword: Kokku
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Vegane Leckereien frei Haus
 advertisement: true
+
 ---
 
 **Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch nicht kennt? Ich habe das getan und mich auf mein Testpaket von Kokku wie verrückt gefreut. Als es dann eintraf war ich überwältigt, von so vielen veganen Leckereien.**

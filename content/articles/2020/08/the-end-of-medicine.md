@@ -5,16 +5,11 @@ excerpt: Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet
   Lockwood.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_rooney-mara-joaquin-phoenix-fb.png__l.jpg
 isAffiliate: false
-path: /2020/08/the-end-of-medicine/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAArEAABAwIFAgYCAwAAAAAAAAABAgMEBREABhIhMQcTFBUWIlFhMkEjcYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBgME/8QAIhEAAQMEAgIDAAAAAAAAAAAAAQACAwQRIUESEzFxUYGx/9oADAMBAAIRAxEAPwDO6B0GgLyzMlTe2xKkuaPEKDRUUm/tT3NgNjsN/wB/FkPr7l+m0upR5FIlOSEuFTbgU6hzRbgXTx/R4xvZNkTZFJ8s9PQ5kVua4tlE9gJDardz2KP3qG3ItxhX6rTJJiMxJFEgU5+S6qYpMNI3v7iVEHf8tgeBjhYX9oSJiiFOXC11V4WRaRmmnuu1XND9Os74duLHcQgFem9nLi6iRwNhb5xMKuz6N6itUOOJBgv9tHcfdKy+FCyVgcCx22+CMX/J0iGKDNanU2GYjbgdXIe7YQpwcFd1aiQLW2tiedXqlOfjteSUmNNmT1JInhsam22lpWkIB20lX7P39YxiI4BuiEvWPlFe6QE3DsWybA+LelwFKqkfpTFzKl8PwZE9SFwC2A4+sqDDS2nLbKBBGnghRNrjCNn+nzaHWYFPqbSI1QhRAXW0K1BCnFrVzc3OjQP84HGDBhQNHPltS5eerr0mWnzWp2eIEZ6ImbJDYEWMAP5XlHULk7JSAm5UeB88YZerT2ZKLWKfJrQpTlHfdTGtFQpK4qlDYlSvyG3Ow24GDBgxkbSGg/Cpq2pkbWmQHLT+Hf1j0v/Z
 typeName: Filmtipp
 isWerbung: false
-fileName: 2020-08---the-end-of-medicine.md
-slug: the-end-of-medicine
-errors: {}
 date: 2020-08-05T09:30:30.000Z
 focusKeyword: The End Of Medicine
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_rooney-mara-joaquin-phoenix__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_rooney-mara-joaquin-phoenix__m.jpg
 title: '"The End Of Medicine"'
@@ -36,7 +31,9 @@ labels:
   - vegane Dokumentation
   - Zoonosen
 language: de
+
 ---
+
 **Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet derzeit an einem neuen Film zum Thema Massentierhaltung. Die Regie führt Alex Lockwood, der unter anderem durch seinen dokumentarischen Kurzfilm "73 Cows" bekannt wurde. Ihm wurde dafür der BAFTA Award für den besten Kurzfilm verliehen.**
 
 "The End Of Medicine" soll über Zoonosen, sprich Krankheiten, die vom Tier auf den Menschen übertragen werden, aufklären. Unter anderem zählt dazu auch COVID-19. Für den Menschen stellen diese Krankheiten eine Gefahr dar, die zahlreiche Wissenschaftlern für gefährlicher halten, als die Klimakatastrophe.

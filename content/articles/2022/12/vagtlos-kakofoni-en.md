@@ -1,12 +1,16 @@
 ---
 date: 2022-12-01T17:31:58.248Z
-slug: vagtlos-kakofoni-en
 typeName: Review
 title: Vægtløs – "Kakofoni"
 subTitle: New Post-Music from Denmark
 seoTitle: Vægtløs – "Kakofoni" – Post-Metal Review
-description: If you like dark and heavy post-metal you definitely should Vægtløs a listen! Read my review now!
-excerpt: 'Vægtløs is a band for lovers of emotion-driven heavy post-music. I listened to their debut 7", "Kakofoni," and here is my recommendation: Fans of Birds in Row, Lightbearer, Deafheaven, Oathbreaker, Pianos Become the Teeth, Svalbard, Touchè Amorè, and Vi som älskade varandra så mycket should definitely give it a listen!'
+description: If you like dark and heavy post-metal you definitely should Vægtløs
+  a listen! Read my review now!
+excerpt: 'Vægtløs is a band for lovers of emotion-driven heavy post-music. I
+  listened to their debut 7", "Kakofoni," and here is my recommendation: Fans of
+  Birds in Row, Lightbearer, Deafheaven, Oathbreaker, Pianos Become the Teeth,
+  Svalbard, Touchè Amorè, and Vi som älskade varandra så mycket should
+  definitely give it a listen!'
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-01/vagtlos-jpg-imagine-080808_340407_1024_768/640.webp
 copyright: Vægtløs
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-01/vagtlos-fb-jpg-imagine-180808_3b0407_1200_628/640.webp
@@ -24,6 +28,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/12/vagtlos-kakofoni/
+
 ---
 
 **Vægtløs is a band for lovers of emotion-driven heavy post-music. I listened to their debut 7", "Kakofoni," and here is my recommendation: Fans of Birds in Row, Lightbearer, Deafheaven, Oathbreaker, Pianos Become the Teeth, Svalbard, Touchè Amorè, and Vi som älskade varandra så mycket should definitely give it a listen!**

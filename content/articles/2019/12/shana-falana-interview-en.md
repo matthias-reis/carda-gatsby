@@ -29,7 +29,6 @@ labels:
   - Williamsburg
 language: en
 date: 2019-12-03T06:55:00.000Z
-slug: shana-falana-interview-en
 typeName: Interview
 title: Interview With Shana Falana
 subTitle: '"Druggy Music By Sober People"'
@@ -46,6 +45,7 @@ focusKeyword: Shana Falana
 advertisement: false
 affiliate: false
 languageLink: /2019/12/shana-falana-interview
+
 ---
 
 **Recently I discovered a musician that fascinates me a lot: Shana Falana. In the music list for December, I presented her Shoegazer project to you. Now I have arranged an interview.**

@@ -1,13 +1,12 @@
 ---
 date: 2014-03-13T17:00:08.000Z
-slug: valentinstag-in-venedig
-path: /2014/03/valentinstag-in-venedig/
 title: Valentinstag in Venedig
 seoTitle: Valentinstag in Venedig - Sonne, Kunst und bunte Masken
 ogTitle: Valentinstag in Venedig - Sonne, Kunst und bunte Masken
-description: Zum 14. Februar reisten wir nach Italien. Genauer gesagt nach Venedig. Mit dem Wassertaxi haben wir jeden Winkel der Stadt erkundet
-excerpt: Zum 14. Februar reisten wir nach Italien. Genauer gesagt nach Venedig. Mit dem Wassertaxi haben wir jeden Winkel der Stadt erkundet
-fileName: 2014-03---valentinstag-in-venedig.md
+description: Zum 14. Februar reisten wir nach Italien. Genauer gesagt nach
+  Venedig. Mit dem Wassertaxi haben wir jeden Winkel der Stadt erkundet
+excerpt: Zum 14. Februar reisten wir nach Italien. Genauer gesagt nach Venedig.
+  Mit dem Wassertaxi haben wir jeden Winkel der Stadt erkundet
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_03_12598441075_52a347b6d9_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_03_12598441075_52a347b6d9_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBP/EACkQAAIBAgUCBgMBAAAAAAAAAAECAwQRAAUGEiETMQcUI0FRkSIyYYH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIDBBIT/9oADAMBAAIRAxEAPwBtioHI/U/WNsOWMxA2Pc/FsMsVMtuFH0caoolS1o0v/cO9lgrAiaU1TltdVQ5vTZtOMopEq46k3RacNGVDFyw3XBK7bd/bubvFLlSFEeNN6MAysCCCDyCCO4xH/EnVcWntd+QzOtPl4KWobpOjSxypUlSu4bSt0ABsQR6fe7cXqllhFNCIGDQiNemQtgV2ixtbji3GCeW2L5wKsmuNNwx1DSZhJeESEqIZCWCC5tx7jte3+YVJfEbo6orGgjatynbsgjHpMbG++5B55Isbe3xgwY3EoxbFnXuYaP1BrdKioghqIWywBpKima+5ZV+OeF3C+K9FrLSbJItLmgjjiIiVfLS/gOyi23sOMGDFwXR//9k=
@@ -29,12 +28,11 @@ labels:
   - Venezien
   - Wenn die Gondeln Trauer tragen
 focusKeyword: Venedig
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: von Sonne, Kunst und bunten Masken
+
 ---
 
 **Am 14. Februar reisten Matze und ich nach Italien. Genauer gesagt nach Venedig. Zu diesem tollen Ausflug waren wir durch Zufall gekommen. Ein guter Freund hatte einen Hotelaufenthalt vom 14. bis zum 17. Februar in Venedig für sich und seine Ehefrau in spe geplant, dabei aber ganz vergessen, dass er in diesem Zeitraum eine Prüfung schreiben musste.**

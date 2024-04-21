@@ -1,12 +1,17 @@
 ---
 date: 2023-02-03T08:47:27.276Z
-slug: an-evening-with-knives-interview
 typeName: Interview
 title: An Evening With Knives
 subTitle: '"Wir möchten mit unserer Musik immer eine Geschichte erzählen"'
 seoTitle: Interview mit  An Evening With Knives Sänger Marco
-description: Das neue An Evening With Knives album "FNR Sessions" is spektakulär. Lest jetzt das Interview mit Songwriter, Sänger und Bandgründer Marco.
-excerpt: 'Das neue An Evening With Knives Album "FNR Sessions" ist etwas ganz Besonderes: die Band hat es in ihrer Heimatstadt Eindhoven aufgenommen – an einem Ort der Musik und der Gemeinschaft. Das Ergebnis ist ein wunderbares, energiegeladenes Zusammenspiel komplexer Songstrukturen voll Gefühl, Drive und magischer Momente.'
+description: Das neue An Evening With Knives album "FNR Sessions" is
+  spektakulär. Lest jetzt das Interview mit Songwriter, Sänger und Bandgründer
+  Marco.
+excerpt: 'Das neue An Evening With Knives Album "FNR Sessions" ist etwas ganz
+  Besonderes: die Band hat es in ihrer Heimatstadt Eindhoven aufgenommen – an
+  einem Ort der Musik und der Gemeinschaft. Das Ergebnis ist ein wunderbares,
+  energiegeladenes Zusammenspiel komplexer Songstrukturen voll Gefühl, Drive und
+  magischer Momente.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-1-1-jpg-imagine-080808_503292_1024_768/640.webp
 copyright: An Evening With Knives
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-03/an-evening-with-knives-interview-og-jpg-imagine-082868_1c3b70_1200_628/640.webp
@@ -28,6 +33,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/02/an-evening-with-knives-interview-en/
+
 ---
 
 **Das neue An Evening With Knives Album "FNR Sessions" ist etwas ganz Besonderes: die Band hat es in ihrer Heimatstadt Eindhoven aufgenommen – an einem Ort der Musik und der Gemeinschaft. Das Ergebnis ist ein wunderbares, energiegeladenes Zusammenspiel komplexer Songstrukturen voll Gefühl, Drive und magischer Momente.**

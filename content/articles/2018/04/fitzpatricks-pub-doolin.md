@@ -1,17 +1,18 @@
 ---
-date: 2018-04-13T05:57:34.000+00:00
-slug: fitzpatricks-pub-doolin
-path: '/2018/04/fitzpatricks-pub-doolin/'
+date: 2018-04-13T05:57:34.000Z
 title: Fitzpatrick's Pub Doolin
 seoTitle: Fitzpatrick's Pub Doolin - Veganes Essen und das beste Pale Ale
 ogTitle: Fitzpatrick's Pub Doolin - Veganes Essen und das beste Pale Ale
-description: Mit Fitzpatrick's Pub Doolin fanden wir eine Kneipe, die wir am liebsten mit nach Hause genommen hätten - Veganes Essen und Pale Ale vom Feinsten.
-excerpt: Mit Fitzpatrick's Pub Doolin fanden wir eine Kneipe, die wir am liebsten mit nach Hause genommen hätten -  Veganes Essen und Pale Ale vom Feinsten.
-fileName: 2018-04---fitzpatricks-pub-doolin.md
+description: Mit Fitzpatrick's Pub Doolin fanden wir eine Kneipe, die wir am
+  liebsten mit nach Hause genommen hätten - Veganes Essen und Pale Ale vom
+  Feinsten.
+excerpt: Mit Fitzpatrick's Pub Doolin fanden wir eine Kneipe, die wir am
+  liebsten mit nach Hause genommen hätten -  Veganes Essen und Pale Ale vom
+  Feinsten.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39327848435_90495ed5dd_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39327848435_90495ed5dd_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwH/xAApEAACAgIBAwMDBQEAAAAAAAABAgMEBREhAAYSEzFBIjJhBxRCUVJx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgQFA//EACMRAAEEAQIHAQAAAAAAAAAAAAEAAgQRA0FxEhMiIzJRgfD/2gAMAwEAAhEDEQA/AMejt4vt/I1bNJIqeTrWC0prSM6GF0Ksm2OydH+vk9UUPa144a/HUlFuq6xQRM6LFEkasHAZiQGPA4H/AHqw7HrY6923NbbEVsZYmVPPJ04Ek8JNceUR9vfnxA/PPTXuf0bdehZOSV5UjirrWgkDL9A27BWAYH7SRzvZ+ddQc88ueAy71G34qzHjtHmPqWYGTBth8dBkxh8Ffrlo5oY4m8Jf8lG0VIOwdOWO9+3yq72/T/1ac7pVrWGjYOtjFeMMw37CSHQDA8fUACOmeLFe8/7BpElmSLzmrzKoD60HUgjgaDHnXPHB467atS4e/jMVObU8cEKrXm8ipkGzrxPOgN68eftHTuGW9wp7aKWkxW4zeJ17rPq2fxmMaObD5DKy5Qsu2jjStEdAAgBj7fgjp7nu7bWeyVOWarE1GuwscQ6aQlNHz3wTxyPbfsSOjo62EPEDx1ZS5kPPToqexLgbFd5qpr+rYJ8nZwileNqQdnnXOtdVHYViKWk9l4Aimx6SBtlNKAC0ZP8AE/OvkHo6Ogjt7uyLOTyr9r//2Q==
-ogImage:
+ogImage: null
 labels:
   - Britische Inseln
   - Doolin
@@ -28,14 +29,13 @@ labels:
   - vegane Lokale
   - serie:Irland 2017
 focusKeyword: Fitzpatrick's Pub Doolin
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Veganes Essen und das beste Pale Ale
-year: '2018'
-month: '04'
+year: "2018"
+month: "04"
+
 ---
 
 **Am Sehnsuchtsort Doolin angekommen und den ein oder anderen Streifzug durch die [Cliffs Of Moher](/2018/04/cliffs-of-moher/) bereits hinter uns, packte uns gegen Abend der Hunger. Und was soll man sagen? In dem kleinen Örtchen am Ende der Welt fanden wir ein Pub, das wir am liebsten mit nach Hause genommen hätten.**

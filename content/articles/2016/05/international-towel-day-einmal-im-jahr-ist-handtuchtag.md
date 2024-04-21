@@ -1,13 +1,14 @@
 ---
 date: 2016-05-25T07:00:51.000Z
-slug: international-towel-day-einmal-im-jahr-ist-handtuchtag
-path: /2016/05/international-towel-day-einmal-im-jahr-ist-handtuchtag/
 title: International Towel Day
 seoTitle: International Towel Day - Einmal im Jahr ist Handtuchtag
 ogTitle: International Towel Day - Einmal im Jahr ist Handtuchtag
-description: Heute ist International Towel Day. Zu Ehren des großen Schriftstellers Douglas Adams werden weltweit die Handtücher gehisst. Alles über den hohen Feiertag.
-excerpt: Heute ist International Towel Day. Zu Ehren des großen Schriftstellers Douglas Adams werden weltweit die Handtücher gehisst. Alles über den hohen Feiertag.
-fileName: 2016-05---international-towel-day.md
+description: Heute ist International Towel Day. Zu Ehren des großen
+  Schriftstellers Douglas Adams werden weltweit die Handtücher gehisst. Alles
+  über den hohen Feiertag.
+excerpt: Heute ist International Towel Day. Zu Ehren des großen Schriftstellers
+  Douglas Adams werden weltweit die Handtücher gehisst. Alles über den hohen
+  Feiertag.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_Enlight1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_Enlight1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUC/8QAKxAAAgEDAgQFBAMAAAAAAAAAAQIDAAQREjEFBiFBEyIyUXEUNEKBYbHB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQBBQYH/8QAIBEAAQMDBQEAAAAAAAAAAAAAAQACAxEhcQQSMTJRkf/aAAwDAQACEQMRAD8AQ7flu38MRrLfLrJyNYwoA1FyMdVYdB7Hudq5n4JaWr3kb3tzI8Nv9QulQQykqFzk99X6waTUvJ8rmeRm0hRljsNhWhbyysMi8GJI9LZkPpyDpP77fxVK+q6dp7EUKebLlhZrSOVOITlFtobiaNACU1suQMMfwLsMgHybYIqjzXy9BwqwaRZLm4lDhC2QUXpnUTjYjb++1LzXdyi/eMSAAAshOw0jb2Xp8VUkuH0EGRyDgEZPUChjCf2u5L7YWZ4EYEHl9W/U0XIEVsjx5Vm360UU+QFj45Hh1ipuHEyRMz+Yj3qC+uJPAONI+EA/yiioa0eI080lOx+r/9k=
@@ -21,12 +22,11 @@ labels:
   - Per Anhalter durch die Galaxis
   - Towel Day
 focusKeyword: Towel Day
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Es ist wieder soweit
+
 ---
 
 **Viele haben schon mal davon gehört: Der International Towel Day. Jedes Jahr am 25. Mai wird er gefeiert. Doch was steckt eigentlich dahinter?**

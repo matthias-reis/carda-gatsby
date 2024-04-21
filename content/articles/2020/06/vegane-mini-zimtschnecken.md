@@ -1,15 +1,16 @@
 ---
-date: 2020-06-25T12:31:33.000+00:00
-slug: vegane-mini-zimtschnecken
-path: '/2020/06/vegane-mini-zimtschnecken/'
+date: 2020-06-25T12:31:33.000Z
 type: Artikel
 typeName: Rezept
 title: Vegane Mini-Zimtschnecken
 seoTitle: Vegane Zimtschnecken - Gluten-arm und vollwertig
 ogTitle: Vegane Zimtschnecken - Gluten-arm und vollwertig
-description: Zimtschnecken gibt es in den verschiedensten Variationen. Dieses Rezept aus veganem Quark-Öl-Teig mag ich besonders gerne. Die Zubereitung ist ganz leicht.
-excerpt: Zimtschnecken gibt es in den verschiedensten Variationen. Dieses Rezept aus veganem Quark-Öl-Teig mag ich besonders gerne. Die Zubereitung ist ganz leicht.
-fileName: 2020-06---vegane-mini-zimtschnecken.md
+description: Zimtschnecken gibt es in den verschiedensten Variationen. Dieses
+  Rezept aus veganem Quark-Öl-Teig mag ich besonders gerne. Die Zubereitung ist
+  ganz leicht.
+excerpt: Zimtschnecken gibt es in den verschiedensten Variationen. Dieses Rezept
+  aus veganem Quark-Öl-Teig mag ich besonders gerne. Die Zubereitung ist ganz
+  leicht.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-01-zimtschnecken-11__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_%EF%BF%BC2020-06-01-zimtschnecken-11__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQCBwEDCP/EACwQAAICAQQAAwYHAAAAAAAAAAECAwQRAAUSIRMxYQYHFCJRsSMyQXGBkaH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUD/8QAIREAAgEDAwUAAAAAAAAAAAAAAAERAgMFEhUhIzFBYZH/2gAMAwEAAhEDEQA/AOn479eZVeB/FidVZZY/mRgTgYYdHy0rPv8AtsFtq0lpBMpAK4JwT9eutVPb3S2t8SQbq8UscviikyuqiM/lReGRjpjkgnOOutJ7XLahmnNmOpAzTOI7CjEsmGPAHkB2ORH289RrmUcdNfStbxvmtlk7h7wNno2Vjm+JKEZEqRFlPROR6YH21sr+2+1y2+DNPHCw6keMeGp9WB6z1/WqmsJPJU+Br3JA+TJBVM6cpOA7RiADxyR0APL6HUoqG4QbOzNENvhUM5qyRouBkFiSCf0yR1/usVkLz5lDG32OzkYaxW2NxJZnuPBYsRrkoCa7lDgeoc+nn+41jepJaBgVdvs2aMzBbEzqnCqQp4MY1+YDljPXWjRqbSkx5vleyQqbhET4Nw+ISW/HrqUUefFXODj+T6HS1DcEsRyT7dZSWGMs03iM5lL8mwFOCOHljByABo0aDU3IdKk//9k=
@@ -19,7 +20,6 @@ labels:
   - Birkenzucker
   - Emmer
   - vegane Rezepte
-
   - vegane Zimtschnecken
   - veganer Quark
   - veganer Quark-Ersatz
@@ -28,13 +28,12 @@ labels:
   - Zimt
   - Zimtschnecken
 focusKeyword: Zimtschnecken
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Glutenarm und vollwertig
 affiliate: true
+
 ---
 
 **Zimtschnecken gibt es in den verschiedensten Variationen. Dieses Rezept aus veganem Quark-Öl-Teig mag ich besonders gerne. Die Schnecken sind ganz schnell zubereitet und passen einfach perfekt in einen verregneten Sonntagnachmittag.**

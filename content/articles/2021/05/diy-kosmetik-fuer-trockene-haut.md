@@ -12,7 +12,6 @@ labels:
   - Fair Fashion & Beauty
   - Produkttest
 language: de
-slug: diy-kosmetik-fuer-trockene-haut
 typeName: Produkttest
 title: DIY Kosmetik für trockene Haut
 subTitle: Handcreme, Körpercreme und Gesichtsöl selbst herstellen
@@ -30,6 +29,7 @@ focusKeyword: DIY Kosmetik
 advertisement: true
 affiliate: true
 languageLink: ""
+
 ---
 
 **DIY-Kosmetik – Beauty-Produkte selbst herstellen klingt ganz schön kompliziert, oder? Ich habe eine gute Nachricht für Euch: Das ist es nicht. Mit den richtigen Zutaten und guten Rezepten gelingt es sogar schon beim ersten Versuch.**

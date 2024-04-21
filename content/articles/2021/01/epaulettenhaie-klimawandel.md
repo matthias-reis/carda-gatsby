@@ -1,13 +1,12 @@
 ---
 date: 2021-01-13T16:08:27.000Z
-slug: epaulettenhaie-klimawandel
-path: /2021/01/epaulettenhaie-klimawandel/
 title: Klimawandel beeinträchtigt Haie
 seoTitle: Epaulettenhaie von Klimaerwärmung in Entwicklung gestört
 ogTitle: Epaulettenhaie von Klimaerwärmung in Entwicklung gestört
-description: Epaulettenhaie gelten eigentlich als besonders robust. Doch jetzt macht auch ihnen der Klimawandel einen Strich durch die Rechnung.
-excerpt: Epaulettenhaie gelten eigentlich als besonders robust. Doch jetzt macht auch ihnen der Klimawandel einen Strich durch die Rechnung.
-fileName: 2021-01---klimawandel-beeintraechtigt-haie.md
+description: Epaulettenhaie gelten eigentlich als besonders robust. Doch jetzt
+  macht auch ihnen der Klimawandel einen Strich durch die Rechnung.
+excerpt: Epaulettenhaie gelten eigentlich als besonders robust. Doch jetzt macht
+  auch ihnen der Klimawandel einen Strich durch die Rechnung.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_epaulettenhaie__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_epaulettenhaie__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAII/8QAKhAAAgECBQMDBAMAAAAAAAAAAQIDBBEABQYSIQcxQRMyUSJSYYEUcZH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUB/8QAGxEBAQADAQEBAAAAAAAAAAAAAQIAAxEEISL/2gAMAwEAAhEDEQA/APO61FeKtmmMqOilRM6MACB2sOObYcaDizfUWey0OWSQpMYXkHqttQbRwtwPN7Ytsw01PmcMipBI8VwipSwyAMp+5jc97n8/OO6Pp1LTepNR5HmkJVdob1HDMw88G9jx47c4yYl+Jht2HRxbqDJxlrpR6lhp4qqTasUMU0Mhck2BFvrA83I/eJ+t0zSZJK0WaS080tgyj1WRSpHz34tzxijk0o8eZRV9R/Mp87BDOtajVEbNa1m3AMfi4J4HbDeLS+c9Q1igkoYMshy9PRNTKjAlvtQn3LwT+Nw74Iu9fY10g4R+uVZ3LODrvRzRxrmGn6+N1YEtS1MT/o7lW48WOHcXVTSNQzTVNXnlAzqtgaJXC27+1mFv8wYMVHzwvMnHosO5to+o+jShlk1FVSRmyhXpZIxf49vf+sbYNf6K5Mmbw7i3070ZLDwRcYMGF9ukh+ONRvpO8M//2Q==
@@ -23,12 +22,11 @@ labels:
   - Klimawandel
   - Wissenschaft
 focusKeyword: Epaulettenhaie
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Epaulettenhaie in Entwicklung gestört
+
 ---
 
 **Epaulettenhaie gehören zur Familie der Bambushaie. Ihre Lebensräume befinden sich vor Indonesien, Neuguinea und Nordaustralien. Möglicherweise leben einige von ihnen auch noch in den Gewässern der Salomon-Inseln. Sie gelten eigentlich als besonders robust. Doch jetzt macht der Klimawandel auch ihnen einen Strich durch die Rechnung.**

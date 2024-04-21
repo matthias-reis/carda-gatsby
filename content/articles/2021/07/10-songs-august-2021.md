@@ -1,11 +1,13 @@
 ---
 date: 2021-07-26T11:21:44.401Z
-slug: 10-songs-august-2021
 typeName: Beitrag
 title: 10 Songs für den August
 subTitle: Von Mono bis Deafheaven
 seoTitle: 10 Songs für den August – Von Mono bis Deafheaven
-description: Was passiert, wenn ein Monat sich dem Ende zuneigt? Genau, es gibt eine neue Musikliste! Hier sind wieder zehn beeindruckende Tracks für Euch. In der Playlist findet Ihr alles, was das Herz begehrt – von Mono bis Deafheaven und Post-Metal bis Shoegaze.
+description: Was passiert, wenn ein Monat sich dem Ende zuneigt? Genau, es gibt
+  eine neue Musikliste! Hier sind wieder zehn beeindruckende Tracks für Euch. In
+  der Playlist findet Ihr alles, was das Herz begehrt – von Mono bis Deafheaven
+  und Post-Metal bis Shoegaze.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-songs-1-jpg-imagine-080808_606064_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/10-songs-fb-png-imagine-e8e8e8_787276_1200_628/640.webp
 labels:
@@ -42,6 +44,7 @@ templateKey: article
 focusKeyword: 10 Songs
 affiliate: false
 language: de
+
 ---
 
 **Was passiert, wenn ein Monat sich dem Ende zuneigt? Genau, es gibt eine neue Musikliste! Mit Matze und Valentin habe ich wieder zehn beeindruckende Tracks für Euch vorbereitet. In der Playlist findet Ihr alles, was das Herz begehrt.**

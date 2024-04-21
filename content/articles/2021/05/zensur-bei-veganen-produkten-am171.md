@@ -17,7 +17,6 @@ labels:
   - Umwelt
   - Umwelt-Politik
 language: de
-slug: zensur-bei-veganen-produkten-am171
 typeName: ""
 title: Europa lehnt Zensur bei veganen Produkten ab
 subTitle: Verbraucher*innen stoppen AM171
@@ -36,6 +35,7 @@ focusKeyword: Zensur bei veganen Produkten
 advertisement: false
 affiliate: false
 languageLink: ""
+
 ---
 
 **Die Zensur bei veganen Produkten ist gestoppt. Das Europäische Parlament, der Europäische Rat und die Europäische Kommission haben die Klima-feindliche Lebensmittelverordnung AM171 abgelehnt. Das geht aus einer Pressemitteilung vom 25. Mai 2021 hervor.**

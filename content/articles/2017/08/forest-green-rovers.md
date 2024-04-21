@@ -1,13 +1,14 @@
 ---
 date: 2017-08-17T08:06:59.000Z
-slug: forest-green-rovers
-path: /2017/08/forest-green-rovers/
 title: Auf geht's, Forest Green Rovers!
 seoTitle: Auf geht's, Forest Green Rovers - Englands grüne Fußballer kicken vegan
 ogTitle: Auf geht's Green Rovers - Englands grüne Fußballer kicken vegan
-description: Im Stadion der Forest Green Rovers gibt es ausschließlich vegane Speisen. Auf Chemie wird verzichtet auf dem Parkplatz kann man sein Elektroauto aufladen.
-excerpt: Im Stadion der Forest Green Rovers gibt es ausschließlich vegane Speisen. Auf Chemie und Fleisch wird verzichtet und auf dem Stadionparkplatz kann man sein Elektroauto aufladen.
-fileName: 2017-08---auf-gehts-forest-green-rovers.md
+description: Im Stadion der Forest Green Rovers gibt es ausschließlich vegane
+  Speisen. Auf Chemie wird verzichtet auf dem Parkplatz kann man sein
+  Elektroauto aufladen.
+excerpt: Im Stadion der Forest Green Rovers gibt es ausschließlich vegane
+  Speisen. Auf Chemie und Fleisch wird verzichtet und auf dem Stadionparkplatz
+  kann man sein Elektroauto aufladen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_all-ticket-for-yeovil-clash_news_article__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_all-ticket-for-yeovil-clash_news_article__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBwgG/8QAKxAAAgIBAwIEBQUAAAAAAAAAAQIDBBEABSESYQYUIjETFSNRcUGRocHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAQDB//EAB0RAQACAgIDAAAAAAAAAAAAAAEAAgMRBDESIXH/2gAMAwEAAhEDEQA/ALUi3bbX4S/XY9mP+a5bxh4qkq7PPL4c3SvesyTJX+FGFLwdRPqVsY4Ax6gRzntrPVqr8WKP5T83sWVKiRJmlUYIOCAJSfcc8/qNL7d5/wAlNNVll+oGjKs8pJXpJJGWPGQV++capzZLFdBpkviook1bU8U7VcuRVEtBLUkSSCN1IwWYr0dWMFsg8ds6bk3OnFbas12qthR1NEZlDAffGe41m7Y90tV9qkgjuzbdLYj6ZSgxhV91w3JY5U8HOkrMNQWIQJbU74dZQ8rK7hiMKoHAHb99YnLU6gNsvpAR7HH4Gl2tFbnl/Vno6urq/jGjRrnx77lUjq1UXDfIcxyG8J0cAExuoVeodyFwfydP3YVnkDTFmwpUAngAkH+hz20aNL3tv5AT/9k=
@@ -25,12 +26,11 @@ labels:
   - vegan
   - vegane Sportler
 focusKeyword: Forest Green Rovers
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Englands vegane Kicker
+
 ---
 
 **Normalerweise schlägt mein Herz ja für den [_FC St. Pauli_](/2016/05/millerntor-stadion-hamburg/). Trotzdem muss ich Euch heute mal eine andere Fußballmannschaft vorstellen. Was ich über sie las, hat mich einfach schwer beeindruckt.**

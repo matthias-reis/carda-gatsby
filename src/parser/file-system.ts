@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync } from 'fs';
+import { readFileSync, writeFileSync, rename } from 'node:fs';
 import fm from 'front-matter';
 import YAML from 'yaml';
 import { sync as glob } from 'glob';
@@ -6,6 +6,7 @@ import prettier from 'prettier';
 
 export class Markdown {
   private path: string;
+  private newPath: string;
   private rawContent: string = '';
   public attributes: Attributes = {};
   public body: string = '';
@@ -14,6 +15,7 @@ export class Markdown {
 
   constructor(path: string) {
     this.path = path;
+    this.newPath = path;
 
     // reading the file
     try {
@@ -22,6 +24,17 @@ export class Markdown {
       const content = fm(this.rawContent);
       this.attributes = content.attributes as Attributes;
       this.body = content.body;
+
+      const { date, slug } = this.attributes;
+      if (slug && date) {
+        const d = new Date(date);
+        const month = `00${d.getMonth() + 1}`.slice(-2);
+        const year = d.getFullYear();
+        this.newPath = `${process.cwd()}/content/articles/${year}/${month}/${slug}.md`;
+        if (this.path !== this.newPath) {
+          this.markDirty();
+        }
+      }
     } catch (e) {
       this.error = e as Error;
     }
@@ -43,6 +56,13 @@ export class Markdown {
     if (res !== this.attributes[fieldName]) {
       this.markDirty();
       this.body = res;
+    }
+  }
+
+  deleteAttribute(fieldName: string) {
+    if (this.attributes[fieldName]) {
+      delete this.attributes[fieldName];
+      this.markDirty();
     }
   }
 
@@ -70,6 +90,14 @@ export class Markdown {
 
   write() {
     if (this.isDirty) {
+      // first move the file
+      if (this.path !== this.newPath) {
+        rename(this.path, this.newPath, (err) => {
+          if (err) throw err;
+          console.log('Rename complete!');
+        });
+      }
+
       let output = `---
 ${YAML.stringify(this.attributes)}
 ---
@@ -82,7 +110,7 @@ ${this.body}`;
         proseWrap: 'preserve',
       });
 
-      writeFileSync(this.path, output, 'utf8');
+      writeFileSync(this.newPath, output, 'utf8');
     }
   }
 }
@@ -94,4 +122,8 @@ export function getAllArticles() {
   return allArticles;
 }
 
-type Attributes = Record<string, string | string[] | Record<string, string>>;
+type Attributes = {
+  slug?: string;
+  date?: string;
+  [key: string]: string | string[] | undefined;
+};

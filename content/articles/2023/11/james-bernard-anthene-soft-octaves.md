@@ -1,14 +1,18 @@
 ---
 date: 2023-11-22T12:38:00.766Z
-slug: james-bernard-anthene-soft-octaves
 typeName: Review
 title: '"Soft Octaves" von James Bernard und anthéne'
 subTitle: Ein klang- und hoffnungsvolles musikalisches Bild unserer Zeit
 seoTitle: James Bernard & anthéne – "Soft Octaves" – Ambient Review
-description: 'James Bernard und anthéne haben mit "Soft Octaves ein grandioses Ambient-Album aufgenommen. Erfahrt jetzt alles über die Platte und hört schon mal rein!'
-excerpt: James Bernard und anthéne haben gemeinsam ein Album aufgenommen, das Ihr hören solltet. "Soft Octaves" gibt uns in unseren düsteren Zeiten die Möglichkeit, einen Moment innezuhalten und den Fokus auf die Hoffnung zu lenken.
+description: James Bernard und anthéne haben mit "Soft Octaves ein grandioses
+  Ambient-Album aufgenommen. Erfahrt jetzt alles über die Platte und hört schon
+  mal rein!
+excerpt: James Bernard und anthéne haben gemeinsam ein Album aufgenommen, das
+  Ihr hören solltet. "Soft Octaves" gibt uns in unseren düsteren Zeiten die
+  Möglichkeit, einen Moment innezuhalten und den Fokus auf die Hoffnung zu
+  lenken.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-22/james-bernard-anthene-jpg-imagine-e8c8c8_c3b9bd_1024_768/640.webp
-copyright: 'James Bernard & anthéne'
+copyright: James Bernard & anthéne
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-22/james-bernard-anthene-og-jpg-imagine-e8c8c8_cfc0c1_1200_628/640.webp
 labels:
   - Band
@@ -29,6 +33,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/11/james-bernard-anthene-soft-octaves-en/
+
 ---
 
 **Von James Bernard und anthéne erscheint auf Past Inside The Present am 29. November ein Album, auf das Ihr Euch freuen könnt. "Soft Octaves" bringt Euch neun wunderbar verträumte Titel, die nachdenklich machen und gleichzeitig die Anspannung lösen. Die insgesamt knapp 40 Minuten sind eine schöne Auszeit aus dem turbulenten Alltag.**

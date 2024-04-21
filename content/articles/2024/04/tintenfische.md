@@ -1,12 +1,18 @@
 ---
 date: 2024-04-04T10:30:12.086Z
-slug: tintenfische
-typeName:
-title: 'Warum der Schutz der Tintenfische so wichtig ist'
-subTitle: 'Forschungsergebnisse zeigen: Oktopoden erleiden schlimmste Qualen'
-seoTitle: 'Tintenfische erleiden in der Fischerei Höllenqualen'
-description: 'Dieser Artikel fasst zusammen, warum Tintenfische unseren Schutz brauchen und keinesfalls auf den Teller gehören. Sie besitzen ein hochkomplexes Nervensystem und leiden in der Fischerei Höllenqualen. Erfahrt jetzt mehr!'
-excerpt: 'Tintenfische verfügen über ein hochkomplexes Nervensystem. Sie spielen, pflegen ein wohlüberlegtes Sozialverhalten und gehören, mit ihrer Fähigkeit, sich ihrer Umgebung anzupassen, zu den faszinierendsten Lebewesen unserer Erde. In der Fischerei leiden sie bis heute Höllenqualen. In diesem Artikel findet Ihr spannede Fakten und wissenschaftliche Erkenntnisse über die Tiere.'
+typeName: null
+title: Warum der Schutz der Tintenfische so wichtig ist
+subTitle: "Forschungsergebnisse zeigen: Oktopoden erleiden schlimmste Qualen"
+seoTitle: Tintenfische erleiden in der Fischerei Höllenqualen
+description: Dieser Artikel fasst zusammen, warum Tintenfische unseren Schutz
+  brauchen und keinesfalls auf den Teller gehören. Sie besitzen ein
+  hochkomplexes Nervensystem und leiden in der Fischerei Höllenqualen. Erfahrt
+  jetzt mehr!
+excerpt: Tintenfische verfügen über ein hochkomplexes Nervensystem. Sie spielen,
+  pflegen ein wohlüberlegtes Sozialverhalten und gehören, mit ihrer Fähigkeit,
+  sich ihrer Umgebung anzupassen, zu den faszinierendsten Lebewesen unserer
+  Erde. In der Fischerei leiden sie bis heute Höllenqualen. In diesem Artikel
+  findet Ihr spannede Fakten und wissenschaftliche Erkenntnisse über die Tiere.
 image: https://storage.googleapis.com/cardamonchai-media/2024-04-04/oktopoden-tintenfische-soundsvegan-com-nature-fauna-animal-tropical-3262715-jpg-imagine-181818_51413e_1024_768/640.webp
 copyright: edmondlafoto, Pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-04-04/oktopoden-tintenfische-soundsvegan-com-nature-fauna-animal-tropical-3262715-og-jpg-imagine-080808_4f403d_1200_628/640.webp
@@ -16,10 +22,11 @@ labels:
   - Fischerei
   - Tierrechte
   - Klima- und Umweltschutz
-focusKeyword: 'Tintenfische Fischerei'
-advertisement:
-affiliate:
+focusKeyword: Tintenfische Fischerei
+advertisement: null
+affiliate: null
 language: de
+
 ---
 
 **Tintenfische sind faszinierende Unterwasserwesen, die es zu schützen gilt. Wie das am besten funktioniert? Wenn wir die Tiere in Ruhe lassen. Statt sie zu jagen und zu verzehren, sollten wir von ihnen lernen. Sie sind äußerst intelligent und pflegen ein komplexes Sozialverhalten.**

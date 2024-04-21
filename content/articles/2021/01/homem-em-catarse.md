@@ -1,25 +1,22 @@
 ---
 ogTitle: Homem em Catarse – Atmosphärischer Post-Rock aus Portugal
-excerpt: Kennt Ihr schon Homem em Catarse? Das portogiesische Dream Gaze/Slowcore Projekt veröffentlichte 2020 ein grandioses neues Album.
+excerpt: Kennt Ihr schon Homem em Catarse? Das portogiesische Dream
+  Gaze/Slowcore Projekt veröffentlichte 2020 ein grandioses neues Album.
 isAffiliate: false
-path: /2021/01/homem-em-catarse/
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Homem-em-Catarse-Cem-Palavras-_-Sem-Palavras-FB.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAgUD/8QAKRAAAgEDAgUDBQEAAAAAAAAAAQIDAAQRBSEGEjFBURNhcRVCwdHh8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBU4csbQRGSYOSq42Xp7+PFM8LW0QXmSZQDjYgE5P8AlYWhQXK20j5UAqMc7ADGOxre0PSE1Kd45pkgkIDoqnnz579vzQQktq8o9SBjysQcEEn23z+qSeKLO3S4liSMKSmQMfNOnEVlDoslrm99WaUswR1xkDbOQfJxik/iBpzMs0cYaERMrMnTr/aCmga0vorG01oy9t2XPsTiuuvajImmXzWd9AkptpEQRSkspI+3bY4FFFBbTNQg1fhrRfqd+Dd2duI+eV8liQDuOuwwOu+KxtceDBEV5blevKkeAfneiig//9k=
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Homem-em-Catarse-Cem-Palavras-_-Sem-Palavras__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Homem-em-Catarse-Cem-Palavras-_-Sem-Palavras__m.jpg
 typeName: Review
 isWerbung: false
-fileName: 2021-01---homem-em-catarse.md
-slug: homem-em-catarse
-errors: {}
 date: 2021-01-28T11:04:42.000Z
 focusKeyword: Homem em Catarse
 languageLink: /2021/01/homem-em-catarse-en
-status: publish
 title: Homem em Catarse
 subTitle: Dream Gaze aus Portugal
 seoTitle: Homem em Catarse – Atmosphärischer Post-Rock aus Portugal
-description: Kennt Ihr schon Homem em Catarse? Das portogiesische Dream Gaze/Slowcore Projekt veröffentlichte 2020 ein grandioses neues Album.
+description: Kennt Ihr schon Homem em Catarse? Das portogiesische Dream
+  Gaze/Slowcore Projekt veröffentlichte 2020 ein grandioses neues Album.
 language: de
 type: Artikel
 labels:
@@ -33,6 +30,7 @@ labels:
   - Review
   - Shoegaze
   - Slowcore
+
 ---
 
 **Kennt Ihr schon Homem em Catarse? Das Dream Gaze/Slowcore Projekt aus Portugal veröffentlichte 2020 ein grandioses neues Album, das ich Euch heute gerne vorstellen möchte.**

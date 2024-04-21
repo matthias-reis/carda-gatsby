@@ -1,14 +1,18 @@
 ---
 date: 2023-04-28T12:42:26.547Z
-slug: playlist-mai-2023
 typeName: Beitrag
 title: Playlist Mai 2023
 subTitle: Von Breaths bis Wes Borland
 seoTitle: Die einzig wahre alternative Playlist für den Mai
-description: Im Mai ist musikalisch wieder einiges geboten! Hört Euch jetzt die neuen Songs von Bands wie The Ocean, Breaths und Shy, Low an!
-excerpt: Im Mai geht es los! Die Festival-Saison startet! Seid Ihr dabei? Bei mir klappt es voraussichtlich dieses Mal erst im Juli mit dem ersten Open Air und ich freue mich jetzt schon sehr drauf! Jede Menge gute Musik, die es dort auf die Ohren geben wird, steht jetzt schon bereit. Genießt die Playlist für den Mai und Eure Vorfreude!
+description: Im Mai ist musikalisch wieder einiges geboten! Hört Euch jetzt die
+  neuen Songs von Bands wie The Ocean, Breaths und Shy, Low an!
+excerpt: Im Mai geht es los! Die Festival-Saison startet! Seid Ihr dabei? Bei
+  mir klappt es voraussichtlich dieses Mal erst im Juli mit dem ersten Open Air
+  und ich freue mich jetzt schon sehr drauf! Jede Menge gute Musik, die es dort
+  auf die Ohren geben wird, steht jetzt schon bereit. Genießt die Playlist für
+  den Mai und Eure Vorfreude!
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-28/alternative-playlist-mai-2023-jpg-imagine-080808_65655d_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-28/alternative-musikliste-mai-2023-og-jpg-imagine-080808_6b6b61_1200_628/640.webp
 labels:
   - Playlist
@@ -46,6 +50,7 @@ focusKeyword: Playlist Mai 2023
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Im Mai geht es los! Die Festival-Saison startet! Seid Ihr dabei? Bei mir klappt es voraussichtlich dieses Mal erst im Juli mit dem ersten Open Air und ich freue mich jetzt schon sehr drauf! Jede Menge gute Musik, die es dort auf die Ohren geben wird, steht jetzt schon bereit. Genießt die Playlist für den Mai und Eure Vorfreude!**

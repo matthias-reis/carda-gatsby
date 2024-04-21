@@ -1,14 +1,18 @@
 ---
 date: 2024-02-16T15:30:00.766Z
-slug: arms-and-sleepers-interview-en
 typeName: Interview
 title: '"Good Music Matters!"'
-subTitle: 'Interview with Arms and Sleepers about the new Album "What Tomorrow Brings"'
-seoTitle: 'Interview with Arms and Sleepers – New Album "What Tomorrow Brings"'
-description: 'The new Arms and Sleepers album "What Tomorrow Brings" will be out soon! Read my interview with project founder Mirza Ramic now and find out some fascinating details about the record!'
-excerpt: 'The new Arms and Sleepers album "What Tomorrow Brings" is ready! I interviewed project founder Mirza Ramic about the record and found out some fascinating details. Read it now to get to know him and his music better than ever before!'
+subTitle: Interview with Arms and Sleepers about the new Album "What Tomorrow Brings"
+seoTitle: Interview with Arms and Sleepers – New Album "What Tomorrow Brings"
+description: The new Arms and Sleepers album "What Tomorrow Brings" will be out
+  soon! Read my interview with project founder Mirza Ramic now and find out some
+  fascinating details about the record!
+excerpt: The new Arms and Sleepers album "What Tomorrow Brings" is ready! I
+  interviewed project founder Mirza Ramic about the record and found out some
+  fascinating details. Read it now to get to know him and his music better than
+  ever before!
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-16/arms-and-sleepers-interview-soundsvegan-com-jpg-imagine-c8d8d8_7c8087_1024_768/640.webp
-copyright: 'Arms and Sleepers'
+copyright: Arms and Sleepers
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-16/arms-and-sleepers-interview-soundsvegan-com-og-jpg-imagine-c8d8d8_838388_1200_628/640.webp
 labels:
   - Band
@@ -19,11 +23,12 @@ labels:
   - Mirza Ramic
   - Post-Music
   - Experimental
-focusKeyword: 'Arms and Sleepers Interview What Tomorrow Brings'
+focusKeyword: Arms and Sleepers Interview What Tomorrow Brings
 advertisement: false
 affiliate: false
 language: en
 languageLink: /2024/02/arms-and-sleepers-interview/
+
 ---
 
 **I recently posted my review of the new Arms and Sleepers album, "What Tomorrow Brings", here on Sounds Vegan. There are only a few days left until the release on March 1st, and I'm sure you're eagerly awaiting it! To sweeten the wait a little more, I'm sharing my interview with Mirza Ramic in its entirety with you today. The artist behind Arms and Sleepers shared many exciting details about the record, his life and his new collaboration with Pelagic Records.**

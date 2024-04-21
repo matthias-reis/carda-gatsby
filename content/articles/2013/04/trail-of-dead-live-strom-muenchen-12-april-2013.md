@@ -1,15 +1,16 @@
 ---
 date: 2013-04-13T20:17:02.000Z
-slug: trail-of-dead-live-strom-muenchen-12-april-2013
-path: /2013/04/trail-of-dead-live-strom-muenchen-12-april-2013/
 type: Artikel
 typeName: Konzertbericht
 title: Trail Of Dead Live @Strøm München 12. April 2013
 seoTitle: Trail Of Dead live in München - Konzertbericht vom 12. April 2013
 ogTitle: Trail Of Dead live in München - Konzertbericht vom 12. April 2013
-description: Bereits seit Wochen hatten wir die Karten für das And You Will Know Us By The Trail Of Dead Konzert an unserem Kalender hängen - Gestern war es soweit!
-excerpt: Bereits seit Wochen hatten wir die Karten für das And You Will Know Us By The Trail Of Dead Konzert an unserem Kalender hängen und freuten uns, als es gestern endlich soweit war.
-fileName: 2013-04---trail-of-dead-live-stroem-muenchen-12-april-2013.md
+description: Bereits seit Wochen hatten wir die Karten für das And You Will Know
+  Us By The Trail Of Dead Konzert an unserem Kalender hängen - Gestern war es
+  soweit!
+excerpt: Bereits seit Wochen hatten wir die Karten für das And You Will Know Us
+  By The Trail Of Dead Konzert an unserem Kalender hängen und freuten uns, als
+  es gestern endlich soweit war.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_04_img_4322__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_04_img_4322__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYABwMFCP/EACgQAAICAQMEAQQDAQAAAAAAAAECAwQRBRIhAAYTMSIHFFFhI0GBUv/EABcBAQEBAQAAAAAAAAAAAAAAAAQBBQf/xAAmEQABAgUDAwUAAAAAAAAAAAABAhEAAwQhQRIxUQUy8BMicYHx/9oADAMBAAIRAxEAPwDnLSaVSeCVrU0UBWAum+Nm8j8YUY9E5PJ446Ls6KkGhUrzRsrWZplVm27GVNg4wd2csc5AHrGecTtWGWxJIsRl3rVchIovIz5wu3H73e+i4dEtw9xLpNseGyJkhZRhjvbGEGOCef8AOulSZdKuTLdIdhgcecwQBTmMtLsu5Y0a/fMcMbVFEjV5GVZGjwMuFJztGV5xznj0eg9d7U1HSaUM1/T3rLYr/cwmRdu9P+h1eHeTVb/Y01y7rAi1OsJaphihDeVU/jEZZcDb8cZGQOfz1VX1BmsyU6EpmlenNULV1dywRASCFyeOQeP6PUQhE6nX7EjuHbwnBs/Lwyv6ZVUcx9adIbJcu9w7Ai2MMeWWNOuRw6UEjV0tM/MyvjEe0grj9k+/wP30X27ftw9yaVZpMqWoLMcsDFc4cOGBP55A6XoHChfko/PPR1adYbEUySojxsGUgj2DnPQaSd60lKAoOw3I4EHTpTMClhwD+xe31IXRHm1SpDrNGGuT94qRnds8knkMRCg8gswwccL0marruiN9LJu27cy2r9WwbWm2kqmMoHB8iMx5Kn444HPvgDpHuarJbsWJZLKp5wDIkTbUYj1kf3/vWvuzRSJ8HzhcY6gIRSKlzZl03FxuzHzLxpdRrzVTEkCyRpFmsNs/fzH/2Q==
@@ -28,12 +29,11 @@ labels:
   - Trail Of Dead
   - Trail of Dead München
 focusKeyword: Trail Of Dead
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Konzertbericht
+
 ---
 
 **Bereits seit Wochen hatten wir die Karten für das And You Will Know Us By The Trail Of Dead Konzert an unserem Kalender hängen und freuten uns, als es gestern endlich soweit war.**

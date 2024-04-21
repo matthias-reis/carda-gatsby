@@ -5,17 +5,12 @@ excerpt: Der Sommer steht kurz bevor – unsere Sandalen haben wir schon. Von
   und für gut befunden haben. Beide sind natürlich wieder komplett vegan.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_gumbies-fb.png__l.jpg
 isAffiliate: false
-path: /2021/04/gumbies-slingbacks-cairns/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEESEABRIGEzEUQVFhB3EVQoH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/8QAIREAAQMEAQUAAAAAAAAAAAAAAgABAxESIVHwEzFhcdH/2gAMAwEAAhEDEQA/ALR1Du0u19TxwzTTyUu6QAU5U+JEOAPAuc597jWEm+9vf0nqSIKmEvHEsknbDqRk2vxYgkXBvY5GuLqWOqm7sCqxqQp7aqwHaxhmb+oBthc6Ut/qpP46m3SuipJTSSXSJpyJp5AQLBRYNe5tfPz76ITFgID3Vue00kRSmLxtTGfvNLOq+tN1krFX1jrKTwJBBvxJXBz8E/snTdS7xW1n4/gFLBUS7l6tGkEYKlhGRHfkSL3VfY/Wo/OSm5UwgkMfcEsiXZSVUsSF+yLgXGq70G1Q/Tm3yypbkrsjcMgGRvItkaOsYlcPeqV4hMbSTtvNHHO0UEV4klZQSMnJ8/5pJr+mtsfeRUJTRrJCojRioLWtnPyfnRo1nNaI1kbB+KqWqr5DJucvpqeSWPgIRzZUkZLc74vxvgapnT+3U8Eu4UUKKlNTyIYUAwiyRq/EfQPK370aNVbal4X/2Q==
 typeName: Produkttest
 advertisement: true
 isWerbung: false
-fileName: 2021-04---die-neuen-gumbies-sind-da.md
-slug: gumbies-slingbacks-cairns
-errors: {}
-date: 2021-04-11T11:05:06.000+00:00
+date: 2021-04-11T11:05:06.000Z
 focusKeyword: Gumbies
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_2021-03-28-gumbies-69__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_2021-03-28-gumbies-69__m.jpg
 title: Die neuen Gumbies sind da
@@ -35,6 +30,7 @@ labels:
   - vegane Schuhe
   - veganes Leder
   - Zehentrenner
+
 ---
 
 **Der Sommer steht kurz bevor – unsere Sandalen haben wir schon. Von Gumbies gibt es jetzt zwei komplett neue Modelle, die Matze und ich getestet und für gut befunden haben. Beide sind natürlich wieder komplett vegan.**

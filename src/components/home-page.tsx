@@ -10,7 +10,6 @@ import { HomePagination } from './home-pagination';
 import { FooterNavigation } from './footer-navigation';
 import { FooterContent } from './footer-content';
 import { PageMeta } from './page-meta';
-import { AdminBar } from './admin-bar';
 import { event } from './analytics';
 
 type NextContent = {
@@ -101,7 +100,6 @@ export const HomePage: React.FC<{
           />
         )}
       </ContentSection>
-      <AdminBar />
     </div>
   );
 };

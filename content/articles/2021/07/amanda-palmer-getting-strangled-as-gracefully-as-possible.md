@@ -1,11 +1,15 @@
 ---
 date: 2021-07-07T09:20:12.893Z
-slug: amanda-palmer-getting-strangled-as-gracefully-as-possible
 typeName: Beitrag
 title: Amanda Palmer veröffentlicht neue Texte
-subTitle: '"Getting Strangled As Gracefully As Possible, Or A Year In The Belly Of The Whale"'
+subTitle: '"Getting Strangled As Gracefully As Possible, Or A Year In The Belly
+  Of The Whale"'
 seoTitle: Amanda Palmer – "Getting Strangled As Gracefully As Possible"
-description: Nach ihrem grandiosen letzten Album "There Will Be No Intermission" von 2019 meldet sich Amanda Palmer mit neuen Texten und Bildern von ihrem derzeitigen Aufenthaltsort in Neuseeland zurück. "Getting Strangled As Gracefully As Possible, Or A Year In The Belly Of The Whale" ist online frei verfügbar.
+description: Nach ihrem grandiosen letzten Album "There Will Be No Intermission"
+  von 2019 meldet sich Amanda Palmer mit neuen Texten und Bildern von ihrem
+  derzeitigen Aufenthaltsort in Neuseeland zurück. "Getting Strangled As
+  Gracefully As Possible, Or A Year In The Belly Of The Whale" ist online frei
+  verfügbar.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/amanda-palmer-1-jpg-imagine-081828_3a5165_765_693/640.webp
 copyright: Amanda Palmer/Duncan Innes
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/amanda-palmer-fb-jpg-imagine-083858_365064_1200_628/640.webp
@@ -20,6 +24,7 @@ focusKeyword: Amanda Palmer
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Nach ihrem grandiosen letzten Album "There Will Be No Intermission" von 2019 und ihrer kurzen Auszeit meldet sich Amanda Palmer mit neuen Texten und Bildern von ihrem derzeitigen Aufenthaltsort in Neuseeland zurück.**

@@ -1,25 +1,22 @@
 ---
 ogTitle: Choclate - Vegane Schokolade aus Hamburg - Ich habe getestet
-excerpt: Christina Löbel stellt unter dem Namen Choclate in Hamburg vegane Bio-Fairtrade-Schokolade her. Ich habe sie jetzt probiert.
+excerpt: Christina Löbel stellt unter dem Namen Choclate in Hamburg vegane
+  Bio-Fairtrade-Schokolade her. Ich habe sie jetzt probiert.
 ogImage: null
 isAffiliate: false
-path: /2018/02/choclate-vegane-schokolade-aus-hamburg/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAgMFCP/EACsQAAIBAgUEAAUFAAAAAAAAAAECAwQRAAUGEiEHEzEyFEFRcaEVImGRkv/EABcBAQEBAQAAAAAAAAAAAAAAAAAEAQP/xAAlEQACAQIFAwUAAAAAAAAAAAABAgMAIQQREjFBEyJRYXHB8PH/2gAMAwEAAhEDEQA/AI1pTTyZ1XoFYywBhuJkKfu+SW4PNubcgE/xjZrLT75FnOYpT3+CWdFhWRyXAeMOByoJtyL/AG5PnDR0IyiCt1FmNTUrGUpaQBTIu5dzyAC44vwpxTavR2lapJIqmCGWSJtquxlIDHm1g5JsPpwLjHCTECJtHNWosT4dUC9+Zv6ePvvzbzvlOVSZrmuWUjyPClXUiJmjjMjIgtuYKPaw+V/xjoay0wNPRUbpJJV08qnfUds2Em42AINgCtiAT9fNsXTLdH6ZWjirKLLOzLSyN25nWVQGuNzKjOOOB5/o4nXWlRTfpMOWS9vK6uBpJYodyxyTRv7FSSLgMBxwLcY2OcSHTTpwJC4cHXbL5z/DSxpbU2babFUMmqIofidnd7lPHLu2ElfcG1rnxhjTqdrASNIM2iDsLFhRQXI/xgwYoKKbkVAGI2NYnqZq8bmGbJub2Jo4CW+90t+ML2qtT5xqZoGzyrSpaAt22FPHGRutf0UX8DzgwYBFFwKFidzX/9k=
 typeName: Produkttest
 advertisement: true
 isWerbung: false
-fileName: 2018-02---choclate-im-test.md
-slug: choclate-vegane-schokolade-aus-hamburg
-errors: {}
-date: 2018-02-28T16:46:18.000+00:00
+date: 2018-02-28T16:46:18.000Z
 focusKeyword: vegane Schokolade
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40377842352_2678c05c4c_z__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40377842352_2678c05c4c_z__m.jpg
 title: Choclate im Test
 subTitle: Vegane Schokolade aus Hamburg
 seoTitle: Choclate - Vegane Schokolade aus Hamburg - Ich habe getestet
-description: Christina Löbel stellt unter dem Namen Choclate in Hamburg vegane Bio-Fairtrade-Schokolade her. Ich habe sie jetzt probiert.
+description: Christina Löbel stellt unter dem Namen Choclate in Hamburg vegane
+  Bio-Fairtrade-Schokolade her. Ich habe sie jetzt probiert.
 language: de
 type: Artikel
 labels:
@@ -36,6 +33,7 @@ labels:
   - Rohschokolade
   - vegane Ernährung
   - vegane Schokolade
+
 ---
 
 **Christina Löbel stellt unter dem Namen Choclate in Hamburg vegane Bio-Fairtrade-Schokolade her. Choclate - Die Schreibweise ergab sich so: Das C und das L in der Mitte sind ihre Initialen und auch sonst alles sehr stimmig bei der kleinen Schokoladenmanufaktur.**

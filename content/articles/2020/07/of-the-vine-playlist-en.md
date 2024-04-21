@@ -32,7 +32,6 @@ labels:
   - Unwed Sailor
 language: en
 date: 2020-07-10T01:17:00.000Z
-slug: of-the-vine-playlist-en
 typeName: ""
 title: A Special Playlist By Of the Vine
 subTitle: '"What Made Us"'
@@ -48,6 +47,7 @@ focusKeyword: Of the Vine
 advertisement: false
 affiliate: false
 languageLink: /2020/07/of-the-vine-playlist
+
 ---
 
 **Non-other than Of the Vine guitarist Samuel Laubscher has compiled a playlist for my blog. It is a great honour for me to present it to you today.**

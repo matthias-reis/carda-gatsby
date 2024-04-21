@@ -1,22 +1,17 @@
 ---
 ogTitle: DIY Sojamilch - Eine leckere pflanzliche Alternative
-excerpt: ''
+excerpt: ""
 ogImage: null
 isAffiliate: false
-path: /2014/12/diy-sojamilch/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYIAwUJ/8QAJhAAAQMEAQMEAwAAAAAAAAAAAQIDBAAFBhEhB1FxEhNBYSIxUv/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIDERL/2gAMAwEAAhEDEQA/AJaQgqICQSo8ADvT23gjqrQqQmJNcfToEJQdcjtqlbG5jVuyC1zpCfUxFlNPuJA3tKVgnjwK6EWqLZ7lEZlMsxn476Q624lIIWkjYUPrVZ9tfCEvlmWFZCF7xGTb7aJRhzGtIC1e6hQAG+fild1HpHNXT1pk2nH+m99fcbYa9yKuM0kAbW44kpSkffO/AJqGHSC2NHY70Y6uhDShWYmzokj4p96edR8rxpbFvtF0KYLi+Iz6A62gnn8QeU+AQKKKpepYRIlLInJpc1y+/wCXSUP5Dc3pZb2W2zpLbe/5QNAef3Szs0UU1ADhFuq9Z//Z
 date: 2014-12-10T08:47:24.000Z
 typeName: Rezept
 isWerbung: false
-fileName: 2014-12---diy-sojamilch.md
-slug: diy-sojamilch
-errors: {}
 title: DIY Sojamilch
 subTitle: Eine leckere pflanzliche Alternative
 copyright: "\n\n"
 focusKeyword: DIY Sojamilch
 affiliate: true
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-12__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-12__m.jpg
 seoTitle: DIY Sojamilch - Eine leckere pflanzliche Alternative
@@ -37,7 +32,11 @@ labels:
   - Nussmilchbeutel
 language: de
 type: Artikel
-description: Als Veganer*in hat man eine schier endlose Auswahl an Pflanzendrinks. Nahezu alle Nüsse und Hülsenfrüchte lassen sich zu Milch-Alternativen verarbeiten. Ich verrate Euch heute mein Rezept für selbst gemachte Sojamilch.
+description: Als Veganer*in hat man eine schier endlose Auswahl an
+  Pflanzendrinks. Nahezu alle Nüsse und Hülsenfrüchte lassen sich zu
+  Milch-Alternativen verarbeiten. Ich verrate Euch heute mein Rezept für selbst
+  gemachte Sojamilch.
+
 ---
 
 **Als Veganer\*in hat man eine schier endlose Auswahl an Pflanzendrinks. Nahezu alle Nüsse und Hülsenfrüchte lassen sich zu Milch-Alternativen verarbeiten. Ich verrate Euch heute mein Rezept für selbst gemachte Sojamilch.**

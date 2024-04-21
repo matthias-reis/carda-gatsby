@@ -1,46 +1,44 @@
 ---
-date: 2020-08-06T11:16:32+02:00
-slug: chris-hunt-torrent-merigold-independent
-path: "/2020/08/chris-hunt-torrent-merigold-independent/"
+date: 2020-08-06T09:16:32.000Z
 type: Artikel
 typeName: Review
 title: Chris Hunt auf Merigold Independent
 seoTitle: Chris Hunt auf Merigold Independent - Samuel Laubscher startet Label
 ogTitle: Chris Hunt auf Merigold Independent - Samuel Laubscher startet Label
-description: Sam Laubscher von Of The Vine hat ein Label mit dem Namen Merigold Independent
-  gegründet. Heute veröffentlicht dort Chris Hunt sein neues Album "Torrent".
-excerpt: Sam Laubscher von Of The Vine hat ein Label mit dem Namen Merigold Independent
-  gegründet. Heute veröffentlicht dort Chris Hunt sein neues Album "Torrent".
-fileName: 2020-08---chris-hunt-auf-merigold-independent.md
+description: Sam Laubscher von Of The Vine hat ein Label mit dem Namen Merigold
+  Independent gegründet. Heute veröffentlicht dort Chris Hunt sein neues Album
+  "Torrent".
+excerpt: Sam Laubscher von Of The Vine hat ein Label mit dem Namen Merigold
+  Independent gegründet. Heute veröffentlicht dort Chris Hunt sein neues Album
+  "Torrent".
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_chris-hunt__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_chris-hunt__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUGB//EACYQAAICAgECBgMBAAAAAAAAAAECAxEABCEFEgYTMUFRcSJhkcH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwEEBf/EABsRAQACAgMAAAAAAAAAAAAAAAEAAgMREiEx/9oADAMBAAIRAxEAPwDl3Tun6K+Gm2OpeLdHWM0T+VoRQvszlhdK4oLHZHqWsA3WZRNM+fFDKRGzokjcg9vcLA/lf3J+sem62kYWkGzJPGB3IOwxOfeyDaiuRxfzlZvypNtyPHfaaAv9AD/Mp12qE0rY+AKy0650WPT1NKfWlD+erWhYMykEckD0uxlE0ZUc3ms67Jqxa+rqxxxRTCOXYlENGu4KVW/u/rMkZS93Xzh4myROYqMRW/I49QtKXur5rDDGvsXV6jo5FMrheFZSovIxPPHvhhkhpgKpP//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_chris-hunt-fb.png__l.jpg
 labels:
-- Ambient
-- Ambient Drone
-- Atlanta
-- Bands
-- Chris Hunt
-- Dark Drone
-- electronic
-- Experimental
-- Germán Sierra
-- Merigold Independent
-- Samantha Garcia
-- Samuel Laubscher
-- Soundscape
-- Soundtrack
+  - Ambient
+  - Ambient Drone
+  - Atlanta
+  - Bands
+  - Chris Hunt
+  - Dark Drone
+  - electronic
+  - Experimental
+  - Germán Sierra
+  - Merigold Independent
+  - Samantha Garcia
+  - Samuel Laubscher
+  - Soundscape
+  - Soundtrack
 focusKeyword: Chris Hunt
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Samuel Laubscher startet neues Plattenlabel
-languageLink: "/2020/08/chris-hunt-torrent-merigold-independent-en"
+languageLink: /2020/08/chris-hunt-torrent-merigold-independent-en
 
 ---
+
 **Im Moment jagt hier eine musikalische Sensation die nächste. Erst gestern meldete sich Sam von Of The Vine bei mir. "Ich habe mein Plattenlabel Merigold Independent gestartet. Möchtest Du das neue Album von Christ Hunt vorstellen? Es erscheint morgen!"**
 
 Für mich ein Angebot, dass ich auf keinen Fall ablehnen konnte. Vor allem, weil mich die Musik nach dem ersten Hören sofort in ihren Bann zog. "Torrent" bringt ätherische Ambient-Klänge, die einen so schnell nicht mehr loslassen.

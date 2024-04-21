@@ -1,15 +1,14 @@
 ---
 date: 2012-08-27T14:33:05.000Z
-slug: achtung-verlosungs-update
-path: /2012/08/achtung-verlosungs-update/
 type: Artikel
 typeName: Verlosung
 title: Achtung! Verlosungs-Update!
 seoTitle: Burg Herzberg Festival T-Shirt Verlosung
 ogTitle: Burg Herzberg Festival T-Shirt Verlosung
-description: Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine Verlosung, bei der es tolle Sachen zu Gewinnen gibt.
-excerpt: Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine Verlosung, bei der es tolle Sachen zu Gewinnen gibt.
-fileName: 2012-08---achtung-verlosungs-update.md
+description: Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine
+  Verlosung, bei der es tolle Sachen zu Gewinnen gibt.
+excerpt: Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine
+  Verlosung, bei der es tolle Sachen zu Gewinnen gibt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACYQAAIBAwMFAAIDAAAAAAAAAAECAwAEERIhMQUTQVFhBiKBobH/xAAXAQADAQAAAAAAAAAAAAAAAAACBgcF/8QAKREAAQMEAQIEBwAAAAAAAAAAAQIDEQAEITFBBhIFEyKhFDJRgbHw8f/aAAwDAQACEQMRAD8Aqj6fJdNcPDd9lQ/bRNagM2hmOAfq/PPqpI+jRCRpXvMEsGDGVtIAzwM53xTrm6t4UmtWiLmXGSDwMk/wQNXHIwKykvLJZ3iW07UL7NJjUWHps8jfOKwAhoIQFHgbnOB9PzMcULnxbz7vkzhShg4+bQmPbNbj2jx3CNLKZUKtyf1OCMEfN6Km6Y9qCY7RNBMZ7zYK68tkDBPAwKKXvGUpQ8kCR6dcbOv3dN/TClvWZUrPqOTvQ3v+RWF1i4aLqTBhKBkZCuQsnIzs23mmxXXTmdpntikmy7YPPJG4pzxyXEk8dxbzgGUtFJHFk4zk5Y7AfCfPypl6fP3HQrJ2sk6tILH1vnj3/VUO1etXmGyspJAG4wY9qnl01eMvuBAWnuJOO7IJka3un/jrM9zIvcmeQABWkbUP95xRTrCV7e9gjW0nSJQTI7RHLMR7PjIopG6nf8+97moUAkCRnk81QOlGjbWMPApJUTBkcAa+1f/Z
@@ -36,13 +35,12 @@ labels:
   - T-Shirt gewinnen
   - T-Shirt Verlosung
   - Verlosung
-focusKeyword: ''
-status: publish
+focusKeyword: ""
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Offizielles Burg Herzberg Festival T-Shirt zu gewinnen!
+
 ---
 
 ---

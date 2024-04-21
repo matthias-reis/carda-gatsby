@@ -1,19 +1,20 @@
 ---
-date: 2018-12-14T16:07:38.000+00:00
-slug: huelsenfruechte-satt-in-hamburg-ottensen
-path: '/2018/12/huelsenfruechte-satt-in-hamburg-ottensen/'
+date: 2018-12-14T16:07:38.000Z
 type: Artikel
 typeName: Produkttest
 title: Hülsenfrüchte satt in Hamburg Ottensen
 seoTitle: Hülsenfrüchte satt in Hamburg Ottensen - Power Of Veggie Love
 ogTitle: Hülsenfrüchte satt in Hamburg Ottensen - Power Of Veggie Love
-description: Bei einem Bloggerevent habe ich einige interessante Fakten über Hülsenfrüchte kennengelernt. Heute erfahrt Ihr, was Linsen und Bohnen so alles draufhaben.
-excerpt: Bei einem Bloggerevent habe ich einige interessante Fakten über Hülsenfrüchte kennengelernt. Heute erfahrt Ihr, was Linsen und Bohnen so alles draufhaben.
-fileName: 2018-12---huelsenfruechte-satt-in-hamburg-ottensen.md
+description: Bei einem Bloggerevent habe ich einige interessante Fakten über
+  Hülsenfrüchte kennengelernt. Heute erfahrt Ihr, was Linsen und Bohnen so alles
+  draufhaben.
+excerpt: Bei einem Bloggerevent habe ich einige interessante Fakten über
+  Hülsenfrüchte kennengelernt. Heute erfahrt Ihr, was Linsen und Bohnen so alles
+  draufhaben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_verbunden__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_verbunden__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAAnEAACAQMEAQQCAwAAAAAAAAABAgMEBREABhIhQRMiMXEyUUJhgf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFA//EACURAAEEAQMCBwAAAAAAAAAAAAEAAgMRBBIh8CIxMkFRYXGx8f/aAAwDAQACEQMRAD8AYp7BZd2UEdvt9sFrt1FKJBJGgMnuxyDtg5ZgB5yundybY2rXyrR0Vrpqee3yRieSCPgU5Y4qzfDHoZ8jI/eupXNXw2yO2bctlTTUoHE1TMqTA47dYzkkk+T386jrnepLdbJ6cek1ZPXww1MiMvtYAOVIH8vxz+s96Hh5D3TsF3v991SyIIjE+RvTVADzJ53WZQB6+/UgrKioeR6iTkRKO0IIwWOFIzxyD9dau6LclBRPX2ipldbq0iPSGiqHCREquIymGRgR2wbtexnrU1fbZBZrxK1DNVPG+WMTJz9QFzyjYMSCucePOfGqDbG3rSLvenalRqqN0kikiZsJDIvXHJJBBVwfrxrSXJ0DUbH77/KHHHY0jnN1FV+9tyXSlWlrr1WywY7UOEz9lQCf9OkLVNJJW0UDSSGGKRRHGWJVMsM8R8DOjRqsyJjPCAEdxJWj1sYndw5Ifm3Flx7Tk/1pbZUktDXvGWWV6llWVmXA4qDxCjx8nPZznRo1MyGhzHA+i1jNOFL/2Q==
-ogImage:
+ogImage: null
 labels:
   - Ackerbohne Schweinsbohne
   - Bohnen
@@ -52,13 +53,12 @@ labels:
   - Viehbohne
   - Zuckererbsen
 focusKeyword: Hülsenfrüchte
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Power Of Veggie Love
 advertisement: true
+
 ---
 
 **Beim Presse-Event "Power Of Veggie Love" von Iglo in meiner Nachbarschaft habe ich vor Kurzem spannende Fakten über Hülsenfrüchte erfahren. Obwohl sie für mich als Veganerin zu meinen Hauptnahrungsmitteln zählen und ich mich mit Ernährung viel beschäftige, gab es einiges, das auch mir bisher nicht bewusst war** .

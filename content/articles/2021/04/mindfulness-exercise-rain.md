@@ -1,6 +1,5 @@
 ---
 date: 2021-04-30T12:41:13.273Z
-slug: mindfulness-exercise-rain
 typeName: Beitrag
 title: Being thankful for the rain
 subTitle: Mindfulness experience in spring
@@ -31,6 +30,7 @@ focusKeyword: Mindfulness
 affiliate: false
 language: en
 languageLink: /2021/04/achtsamkeitsuebung-regen
+
 ---
 
 **Today, I have prepared another mindfulness exercise for you. Since it is about an essential topic from nature, it fits in perfectly with spring. Today you are going to enjoy the rain.**

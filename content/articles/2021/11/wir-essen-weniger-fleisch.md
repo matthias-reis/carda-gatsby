@@ -1,12 +1,17 @@
 ---
 date: 2021-11-11T14:42:04.181Z
-slug: wir-essen-weniger-fleisch
 typeName: Beitrag
 title: Europäer*innen essen weniger Fleisch
 subTitle: Neue Umfrageergebnisse machen Hoffnung
 seoTitle: Europäer*innen essen weniger Fleisch – Neue Umfrage
-description: Das Thema Ernährung wird heute immer präsenter und immer mehr Menschen essen weniger Fleisch. Auch der Schritt zum Veganismus ist für viele nicht mehr so undenkbar, wie noch vor wenigen Jahren.
-excerpt: '"Wenn Ihr immer noch Fleisch esst, hört auf über Klimaschutz zu reden!", prangt es in großen Lettern auf Demo-Plakaten bei Fridays for Future. Das Thema Ernährung wird heute immer präsenter und immer mehr Menschen möchten bewusster essen. Der Schritt zum Veganismus ist für viele nicht mehr so undenkbar, wie noch vor wenigen Jahren.'
+description: Das Thema Ernährung wird heute immer präsenter und immer mehr
+  Menschen essen weniger Fleisch. Auch der Schritt zum Veganismus ist für viele
+  nicht mehr so undenkbar, wie noch vor wenigen Jahren.
+excerpt: '"Wenn Ihr immer noch Fleisch esst, hört auf über Klimaschutz zu
+  reden!", prangt es in großen Lettern auf Demo-Plakaten bei Fridays for Future.
+  Das Thema Ernährung wird heute immer präsenter und immer mehr Menschen möchten
+  bewusster essen. Der Schritt zum Veganismus ist für viele nicht mehr so
+  undenkbar, wie noch vor wenigen Jahren.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/essen-weniger-fleisch-the-5th-jpg-imagine-180808_625b5b_1024_768/640.webp
 copyright: The 5th, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/essen-weniger-fleisch-the-5th-fb-png-imagine-180808_615959_1200_628/640.webp
@@ -23,6 +28,7 @@ focusKeyword: Essen weniger Fleisch
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **"Wenn Ihr immer noch Fleisch esst, hört auf über Klimaschutz zu reden!", prangt es in großen Lettern auf Demo-Plakaten bei Fridays for Future. Das Thema Ernährung wird heute immer präsenter und immer mehr Menschen möchten bewusster essen. Der Schritt zum Veganismus ist für viele nicht mehr so undenkbar, wie noch vor wenigen Jahren.**

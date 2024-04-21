@@ -1,15 +1,18 @@
 ---
 date: 2022-10-25T10:28:41.946Z
-slug: geisternetze-studie
 typeName: Beitrag
 title: '"Zahl der Geisternetze im Meer ist überwältigend"'
 subTitle: Neue Studie zeigt das Ausmaß des Meeresmülls aus der Fischerei
-seoTitle: 'Neue Studie: Zahl der Geisternetze im Meer überwältigend'
-ogTitle: ''
-description: 'Geisternetze, Reusen, Leinen und Haken: das Meer ist voll davon. Täglich verändern darin Tiere und es bilden sich immer größere Müllteppiche.'
-excerpt: Was ich mache, wenn ich an einen Strand komme? Surfen. Schwimmen. Joggen. Wandern. Klar, das auch. Allerdings packe ich meistens zuerst meine Grillzange und einen Müllsack aus dem Rucksack und sammle Abfall ein – und immer mehr Fischernetze.
+seoTitle: "Neue Studie: Zahl der Geisternetze im Meer überwältigend"
+ogTitle: ""
+description: "Geisternetze, Reusen, Leinen und Haken: das Meer ist voll davon.
+  Täglich verändern darin Tiere und es bilden sich immer größere Müllteppiche."
+excerpt: Was ich mache, wenn ich an einen Strand komme? Surfen. Schwimmen.
+  Joggen. Wandern. Klar, das auch. Allerdings packe ich meistens zuerst meine
+  Grillzange und einen Müllsack aus dem Rucksack und sammle Abfall ein – und
+  immer mehr Fischernetze.
 image: https://storage.googleapis.com/cardamonchai-media/2022-10-25/geisternetze-jpeg-imagine-383838_545d5f_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-10-25/geisternetze-fb-jpeg-imagine-a8a8a8_758389_1200_628/640.webp
 labels:
   - Geisternetze
@@ -27,6 +30,7 @@ focusKeyword: Geisternetze
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Was ich mache, wenn ich an einen Strand komme? Surfen. Schwimmen. Joggen. Wandern. Klar, das auch. Allerdings packe ich meistens zuerst meine Grillzange und einen Müllsack aus dem Rucksack und sammle Abfall ein. Natürlich finde ich auch jedes Mal Zahnpastatuben, Plastiktüten, Kanister, PET-Flaschen und etliche Luftballons inklusive Plastikschnüre. Ein Großteil des Unrats, den ich aus dem Sand ziehe, besteht jedoch aus Fischernetzen, Angelschnüren und ähnlichem Material aus der industriellen Fischerei. Und es fühlt sich so an, als würde es jedes Mal mehr werden.**

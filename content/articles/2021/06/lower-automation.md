@@ -1,11 +1,13 @@
 ---
 date: 2021-06-30T11:14:53.549Z
-slug: lower-automation
 typeName: Review
 title: Lower Automation
 subTitle: Hochexplosiver Mathcore aus Chicago
 seoTitle: Lower Automation – Hochexplosiver Mathcore aus Chicago
-description: '"Vegan Neuroscientist" und "Locust Bean Gum" heißen die Songs auf der neuen Platte der Mathcore/Noise-Rock Band Lower Automation. Dass mich das neugierig macht, ist irgendwie klar. Dass mir das selbst betitelte Album, das am 12. Juli erscheint, auch noch gefällt, ist ein genialer Zufall.'
+description: '"Vegan Neuroscientist" und "Locust Bean Gum" heißen die Songs auf
+  der neuen Platte der Mathcore/Noise-Rock Band Lower Automation. Dass mich das
+  neugierig macht, ist irgendwie klar. Dass mir das selbst betitelte Album, das
+  am 12. Juli erscheint, auch noch gefällt, ist ein genialer Zufall.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/lower-automation-jpg-imagine-e8f8f8_999ba5_1024_768/640.webp
 copyright: Lower Automation
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/lower-automation-fb-png-imagine-e8f8f8_82808b_1200_628/640.webp
@@ -23,6 +25,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/06/lower-automation-en
+
 ---
 
 **"Vegan Neuroscientist" und "Locust Bean Gum" (deutsch: "Johannisbrotkernmehl") heißen die Songs auf der neuen Platte von Lower Automation. Dass mich das neugierig macht, ist irgendwie klar. Dass mir das selbst betitelte Album, das am 12. Juli erscheint, auch noch gefällt, ist ein genialer Zufall.**

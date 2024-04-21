@@ -1,13 +1,14 @@
 ---
 date: 2019-12-23T09:25:02.000Z
-slug: die-drei-alben-des-jahres
-path: /2019/12/die-drei-alben-des-jahres/
 title: Die drei Alben des Jahres 2019
 seoTitle: Die drei Alben des Jahres - präsentiert von den drei von der Bande
 ogTitle: Die drei Alben des Jahres - präsentiert von den drei von der Bande
-description: 'Wie versprochen, werde ich heute den Vorhang lüften: Ihr erfahrt, welche Platten unsere Alben des Jahres sind. Die drei von der Bande haben gewählt.'
-excerpt: 'Wie versprochen, werde ich heute den Vorhang lüften: Ihr erfahrt, welche Platten unsere Alben des Jahres sind. Die drei von der Bande haben gewählt.'
-fileName: 2019-12---die-drei-alben-des-jahres-2019.md
+description: "Wie versprochen, werde ich heute den Vorhang lüften: Ihr erfahrt,
+  welche Platten unsere Alben des Jahres sind. Die drei von der Bande haben
+  gewählt."
+excerpt: "Wie versprochen, werde ich heute den Vorhang lüften: Ihr erfahrt,
+  welche Platten unsere Alben des Jahres sind. Die drei von der Bande haben
+  gewählt."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_alben-des-jahres-2019.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_alben-des-jahres-2019.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,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
@@ -31,12 +32,11 @@ labels:
   - Tool
   - Vinyl
 focusKeyword: Alben des Jahres
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Präsentiert von den drei von der Bande
+
 ---
 
 **Wie versprochen, werde ich heute den Vorhang lüften: Ihr erfahrt, welche Platten unsere Alben des Jahres sind. Die drei von der Bande haben gewählt.**

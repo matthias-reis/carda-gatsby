@@ -1,14 +1,18 @@
 ---
 date: 2024-04-08T11:45:00.766Z
-slug: marine-eyes-to-belong-en
 typeName: Preview
-title: 'marine eyes – "to belong"'
+title: marine eyes – "to belong"
 subTitle: Cynthia Bernard releases her Third Solo Album
-seoTitle: 'marine eyes releases third solo album, "to belong"'
-description: 'marine eyes, aka Cynthia Bernard, releases her third solo album, "to belong", on Past Inside The Present Records! Check out my review now and find out some fascinating details about the record!'
-excerpt: '"to belong" by marine eyes, aka Cynthia Bernard, is an outstanding album with a mix of ambient, shoegaze, dream pop, and enchanting field recordings. Read my review to find out some insights about the record and get to know Cynthia and her music better!'
+seoTitle: marine eyes releases third solo album, "to belong"
+description: marine eyes, aka Cynthia Bernard, releases her third solo album,
+  "to belong", on Past Inside The Present Records! Check out my review now and
+  find out some fascinating details about the record!
+excerpt: '"to belong" by marine eyes, aka Cynthia Bernard, is an outstanding
+  album with a mix of ambient, shoegaze, dream pop, and enchanting field
+  recordings. Read my review to find out some insights about the record and get
+  to know Cynthia and her music better!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-04-03/marine-eyes-to-belong-jpg-imagine-b8b898_a69687_1024_768/640.webp
-copyright: 'marine eyes'
+copyright: marine eyes
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-04-03/marine-eyes-to-belong-og-jpg-imagine-e8e8e8_c1b8ae_1200_628/640.webp
 labels:
   - Band
@@ -27,11 +31,12 @@ labels:
   - Cynthia Bernard
   - Preview
   - Previews
-focusKeyword: 'marine eyes – "to belong"'
+focusKeyword: marine eyes – "to belong"
 advertisement: false
 affiliate: false
 language: en
 languageLink: /2024/04/marine-eyes-to-belong/
+
 ---
 
 **"to belong" by Marine Eyes is about the multiple layers of feelings and relationships. The album is light and elegantly simple. The music is relaxed and full of a pleasant sense of safety and calm—it's the perfect record for some reflecting me-time. Make sure to mark the release day in your calendars: April 17th, 2024! The pre-order is live and you can already listen to six of the 16 songs today! I've added them for you below this article.**

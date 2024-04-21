@@ -1,6 +1,5 @@
 ---
 date: 2021-06-03T11:04:42.000Z
-slug: vogelgrippe-h10n3-bei-menschen
 typeName: ""
 title: Vogelgrippe H10N3 bei Menschen
 subTitle: 41-Jähriger kommt ins Krankenhaus
@@ -25,6 +24,7 @@ focusKeyword: Vogelgrippe
 affiliate: false
 language: de
 languageLink: ""
+
 ---
 
 **Das Virus der Vogelgruppe H10N3 wurde erstmals bei einem Menschen nachgewiesen. Im chinesischen Jiangsu wurde ein 41-jähriger Mann mit starkem Fieber ins Krankenhaus eingeliefert.**

@@ -6,17 +6,12 @@ excerpt: Los Disidentes Del Sucio Motel haben ihr viertes Album "Polaris"
   es eine klare Empfehlung.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris-FB.png__l.jpg
 isAffiliate: false
-path: /2021/04/los-disidentes-del-sucio-motel-polaris-review/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQf/xAAnEAACAgIBAwMFAQEAAAAAAAABAgMEBREAEiExBhNBIlFSYXEUMv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4TXpQy4S7cawyWIJI1WLp+llbse+ux+38PFw427PNWhgrySzWF64kQbZx47DjMjSmxd805JonMkcTdcTEoySKrr5APyDrXxzaydaxj/VVjHSZrrGHZkrTlCwcKN/Qqk68+N9u/gjhGVj8FbvYnL5CMxJDjAvvLIxDsSddKjXcjRJ3ri4cVPLg7WVEkAr15kgZGkAdmYb7L8j98rguWHhu1ZKXvWswY3CsjltsdoYwG0SersSG/XHNcwgxaQtWycVsK/+iuroIHmUkRt+Q0GII0f+R34EZaHIVKbz3Yatmt0VmMqsS8fV9DjQO+gEgjzoDW+T2Jqr5qxNL71qo1h3On6HlUtvuT46h5Pnvw4cKryXqG7e9QpmuivXswPE1eKCPpigWLXtoo/FQoH3Pc/PD1ffo5X1Nksji4GrVbkxsCAqFETMNso0T26urX94cOB//9k=
 typeName: Review
 isWerbung: false
-fileName: 2021-04---polaris-von-los-disidentes-del-sucio-motel.md
-slug: los-disidentes-del-sucio-motel-polaris-review
-errors: {}
 date: 2021-04-12T11:57:19.000Z
 focusKeyword: Los Disidentes Del Sucio Motel
 languageLink: /2021/04/los-disidentes-del-sucio-motel-polaris-review-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_Los-Disidentes-Del-Sucio-Motel-Polaris__m.jpg
 title: '"Polaris" von Los Disidentes Del Sucio Motel'
@@ -33,7 +28,9 @@ labels:
   - Los Disidentes Del Sucio Motel
   - Prog
   - Review
+
 ---
+
 **Vor ein paar Tagen ist die neue Platte von Los Disidentes Del Sucio Motel erschienen. "Polaris" ist das vierte Album der Französischen Prog Band.**
 
 Am zweiten April war es endlich so weit. Das lange herbeigesehnte Werk erblickte auf Klonosphere Records/Ripple das Licht der Musikwelt. Von mir gibt es eine klare Empfehlung. Im Moment dreht die Platte gerade zum zweiten Mal wieder ihre Runden und mit jedem Ton wird mir bewusster, wie perfekt sie ist.

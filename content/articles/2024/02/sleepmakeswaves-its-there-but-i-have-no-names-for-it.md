@@ -1,14 +1,18 @@
 ---
 date: 2024-02-06T10:00:00.766Z
-slug: sleepmakeswaves-its-there-but-i-have-no-names-for-it
 typeName: Preview
 title: '"It‘s Here, But I Have No Names For It"'
 subTitle: sleepmakeswaves kündigen neues Album an
 seoTitle: '"It‘s Here, But I Have No Names For It" – sleepmakeswaves'
-description: 'sleepmakeswaves sind wieder da und liefern mit ihrem neuen Album "It‘s Here, But I Have No Names For It" ordentlich ab. Erfahrt jetzt alles über die Platte und die anstehende Tour!'
-excerpt: 'sleepmakeswaves läuten mit ihrem neuen Album "It‘s Here, But I Have No Names For It" ihre Welttournee für 2024 ein und liefern acht grandiose Songs ab. Hört jetzt rein und erfahrt alles über die Platte und über das abgefahrende Promo-Video zur Veröffentlichung!'
+description: sleepmakeswaves sind wieder da und liefern mit ihrem neuen Album
+  "It‘s Here, But I Have No Names For It" ordentlich ab. Erfahrt jetzt alles
+  über die Platte und die anstehende Tour!
+excerpt: sleepmakeswaves läuten mit ihrem neuen Album "It‘s Here, But I Have No
+  Names For It" ihre Welttournee für 2024 ein und liefern acht grandiose Songs
+  ab. Hört jetzt rein und erfahrt alles über die Platte und über das
+  abgefahrende Promo-Video zur Veröffentlichung!
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-06/sleepmakeswaves-its-here-but-i-have-no-names-for-it-soundsvegan-com-jpg-imagine-080818_455253_1024_768/640.webp
-copyright: 'sleepmakeswaves'
+copyright: sleepmakeswaves
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-06/sleepmakeswaves-its-here-but-i-have-no-names-for-it-soundsvegan-com-og-jpg-imagine-080818_455151_1200_628/640.webp
 labels:
   - Band
@@ -25,11 +29,12 @@ labels:
   - Experimental
   - Instrumental
   - Heavy Music
-focusKeyword: "It's Here, But I Have No Names For It"
+focusKeyword: It's Here, But I Have No Names For It
 advertisement: false
 affiliate: false
 language: de
 languageLink: /2024/02/sleepmakeswaves-its-there-but-i-have-no-names-for-it-en/
+
 ---
 
 **Die australische Post-Rock-Band sleepmakeswaves hat für den 12. April 2024 ihr neues Album "It's Here, But I Have No Names For It" angekündigt. Es soll der Start für die Tour sein, die sleepmakeswaves durch Australien, Europa und die USA führen wird.**

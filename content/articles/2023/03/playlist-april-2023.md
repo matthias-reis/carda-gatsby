@@ -1,14 +1,18 @@
 ---
 date: 2023-03-29T11:42:13.637Z
-slug: playlist-april-2023
 typeName: Beitrag
 title: Playlist April 2023
 subTitle: Von Amplifier bis HamaSaari
 seoTitle: Die alternative Playlist für den April 2023
-description: Ihr seid auf der Suche nach alternativer Musik, habt aber keine Idee, wo Ihr anfangen sollt zu suchen? Checkt mal die Playlist für den April!
-excerpt: Trotz widriger Umstände (Corona) habe ich heute die Playlist für den April für Euch. Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich die elf Songs in den letzten Tagen ausgesucht und mit Lobhudeleien versehen. Die Playlists für Spotify und iTunes findet Ihr wie immer ganz unten. Ich mache es heute mal kurz und wünsche Euch viel Freude beim Hören!
+description: Ihr seid auf der Suche nach alternativer Musik, habt aber keine
+  Idee, wo Ihr anfangen sollt zu suchen? Checkt mal die Playlist für den April!
+excerpt: Trotz widriger Umstände (Corona) habe ich heute die Playlist für den
+  April für Euch. Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich die
+  elf Songs in den letzten Tagen ausgesucht und mit Lobhudeleien versehen. Die
+  Playlists für Spotify und iTunes findet Ihr wie immer ganz unten. Ich mache es
+  heute mal kurz und wünsche Euch viel Freude beim Hören!
 image: https://storage.googleapis.com/cardamonchai-media/2023-03-29/playlist-april-2023-jpg-imagine-680808_875d61_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-03-29/playlist-april-og-jpg-imagine-080808_886065_1200_628/640.webp
 labels:
   - Alternative
@@ -43,6 +47,7 @@ focusKeyword: Playlist April 2023
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Trotz widriger Umstände (Corona) habe ich heute die Playlist für den April für Euch. Gemeinsam mit meinen beiden Lieblings-Musikfans habe ich die elf Songs in den letzten Tagen ausgesucht und mit Lobhudeleien versehen. Die Playlists für Spotify und iTunes findet Ihr wie immer ganz unten. Ich mache es heute mal kurz und wünsche Euch viel Freude beim Hören!**

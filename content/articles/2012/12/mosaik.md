@@ -1,13 +1,12 @@
 ---
 date: 2012-12-19T15:37:28.000Z
-slug: mosaik
-path: /2012/12/mosaik/
 title: Mosaik
 seoTitle: Mosaik - Von Talenten und Ladenregalen
 ogTitle: Mosaik - Von Talenten und Ladenregalen
-description: Ein Mosaik aus Gedanken. Einen Moment innehalten, nachdenken und dem Sinn begegnen.
-excerpt: Ein Mosaik aus Gedanken. Einen Moment innehalten, nachdenken und dem Sinn begegnen.
-fileName: 2012-12---mosaik.md
+description: Ein Mosaik aus Gedanken. Einen Moment innehalten, nachdenken und
+  dem Sinn begegnen.
+excerpt: Ein Mosaik aus Gedanken. Einen Moment innehalten, nachdenken und dem
+  Sinn begegnen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_12_auto__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_12_auto__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwj/xAAtEAABAwMDAwIEBwAAAAAAAAABAgMEBQYRAAchEjFBUZETFyJxFBZCUmGV0v/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAGhEAAwEBAQEAAAAAAAAAAAAAAQIRAAMxIf/aAAwDAQACEQMRAD8AnN57vrZvmaij1y4qcllxbDrCZbrLeULUkKQlKgMEAeP586gJV43gyjqF3XF/Zvf61vW8m1q6tKlV+3VFye44TJik56z+5HoeO2sYq23lyR4zL8qnOtMFtxwOLwEYQlSl5PggIPBHPjWHPosAu71QTBKvK6yDi7bh+ngqFTfHP26tO9trwu75lWuzJuatvx36iwy6zInOOtuNrWEqSpKiQcg6VW5br1SqEBoqjSXHgl0sOvKbUsnB6CoA9JPIz4wfTXQll7VwafAosqqsR2qxEqLU5CmhlSAkjDRVnntnQ3UKZkyiaWuPdabSrgrMOKy2puNPebW6sZISlwhQSgKyrt6jSqLuxPfXIRLnNvk5CGX4KPhHqP6lBeMBJIxznOpu5bOuxO5VwLXbVafgSKnIeQ8xFWttTa3FLSpK0+MEdvtoBFt3kpGFWpcAHYD8Csce2oKgeZggi3L4VdmUuqTXqNHREjSHBllkHoRg5HQckjnyD2OO2tItncC5Z13W/Cckx2YjtRjMrb+lRU2VAEDufPJ76jvyxc5jqC7JrBcPZaYTqVD24Ptomw7Qu35iWy89bNZixY9RZfeekRVNtoQhYUolRAA4B1UDfThis93/2Q==
@@ -41,12 +40,11 @@ labels:
   - Thrice
   - Thrice Anthology
 focusKeyword: Mosaik
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Prosa am Nachmittag
+
 ---
 
 **Eine Minute zum Nachdenken. Einfach mal hinsetzen, in Gedanken blättern, in Ruhe ein paar Seiten rausreißen und sie später wieder einkleben. Vielleicht sollte man nur die Reihenfolge etwas ändern. Wobei. Eigentlich kann man alles lassen, wie es ist. Dem Sinn begegnet man früher oder später. Man darf ihn nur nicht suchen. Dann versteckt er sich und streckt einem frech die Zunge raus, wenn man um die Ecke geht.**

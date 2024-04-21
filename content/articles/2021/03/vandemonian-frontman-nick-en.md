@@ -1,11 +1,12 @@
 ---
 date: 2021-03-10T08:16:00.000Z
-slug: vandemonian-frontman-nick-en
 typeName: Interview
 title: Interview With Vandemonian Frontman Nick
-subTitle: '"You Can''t Be Silent These Days"'
+subTitle: "\"You Can't Be Silent These Days\""
 seoTitle: Interview With Vandemonian Frontman Nick – "You Can't Be Silent These Days"
-description: The Hamburg post-rock band Vandemonian recently released their great debut album "Xenophilia". I have now arranged an interview with frontman Nick.
+description: The Hamburg post-rock band Vandemonian recently released their
+  great debut album "Xenophilia". I have now arranged an interview with frontman
+  Nick.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-7-l-jpeg-imagine-080808_484848_1440_1080/640.webp
 copyright: Vandemonian
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-vandemonian-fb-1-png-l-jpg-imagine-080808_767e7f_1440_754/640.webp
@@ -22,6 +23,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/03/vandemonian-frontman-nick
+
 ---
 
 **The Hamburg post-rock band Vandemonian recently released their great debut album "Xenophilia". I have now arranged an interview with frontman Nick.**

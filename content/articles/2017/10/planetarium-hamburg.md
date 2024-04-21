@@ -1,13 +1,13 @@
 ---
 date: 2017-10-21T17:10:07.000Z
-slug: planetarium-hamburg
-path: /2017/10/planetarium-hamburg/
 title: Besuch im Planetarium Hamburg
 seoTitle: Besuch im Planetarium Hamburg - Reich mir die Sterne!
 ogTitle: Besuch im Planetarium Hamburg - Reich mir die Sterne!
-description: Ein Besuch im Planetarium Hamburg lohnt sich. Neben klassischen Vorstellungen gibt es dort auch jede Menge moderne 3D-Filme zu sehen.
-excerpt: Ein Besuch im Planetarium Hamburg lohnt sich. Neben klassischen Vorstellungen gibt es dort auch jede Menge moderne 3D-Filme zu sehen und die Lage im Stadtpark ist auch nicht von schlechten Eltern.
-fileName: 2017-10---besuch-im-planetarium-hamburg.md
+description: Ein Besuch im Planetarium Hamburg lohnt sich. Neben klassischen
+  Vorstellungen gibt es dort auch jede Menge moderne 3D-Filme zu sehen.
+excerpt: Ein Besuch im Planetarium Hamburg lohnt sich. Neben klassischen
+  Vorstellungen gibt es dort auch jede Menge moderne 3D-Filme zu sehen und die
+  Lage im Stadtpark ist auch nicht von schlechten Eltern.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_37835150111_349536316c_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_37835150111_349536316c_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAAmEAACAQMEAQMFAAAAAAAAAAABAgMABBEFEiFBIgYxMgcTFHGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABQIA/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAwQREkH/2gAMAwEAAhEDEQA/AFJ0UMfhXObR441JKqMDJJ6qj3WkG3U5U5HuSMAVKvW+qTyvqVhaSWzwIpR12+WARk7uuQaabSiJ6gy5nsbyItmj06eYQwXVvJKxICI4JJxmlt5pmzPjxWVju/xryG5jZPuQyBhsHHHVVS8hilt0ljIZZEDj9EZFVmuGgHo4RI1UnORw9Bmgj+qdlc2t02ouwkiG5WRCRORnHA9ucVDtX1QXd1PM5Ikfl9rYyTyf7RRQvssAD8jQQKSR9iYSxrGwZlTy4A8uq22hesoEsLSwuIXcRwsqyqwy7Kfjjrg++eqKKy3PSCyGTZSl3A4n/9k=
@@ -28,12 +28,11 @@ labels:
   - Wassertum
   - Winterhude
 focusKeyword: Planetarium
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Reich mir die Sterne!
+
 ---
 
 **Das Hamburger Planetarium gehört ja zu den Orten, die man schon längst mal besuchen wollte. Erst war es lange Zeit wegen Renovierungsarbeiten geschlossen und dann kamen immer wieder andere Dinge dazwischen. Man kennt das ja. Wir haben es jetzt endlich mal geschafft.**

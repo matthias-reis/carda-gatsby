@@ -1,13 +1,14 @@
 ---
 date: 2018-02-21T09:00:15.000Z
-slug: mein-neuer-newsletter
-path: /2018/02/mein-neuer-newsletter/
 title: Mein neuer Newsletter
 seoTitle: Mein neuer Newsletter - jetzt anmelden
 ogTitle: Mein neuer Newsletter - jetzt anmelden
-description: Es ist soweit! Mein Newsletter erstrahlt endlich im persönlichen Design! Meldet Euch am besten gleich an, damit Ihr in Zukunft nichts mehr verpasst!
-excerpt: Es ist soweit! Mein Newsletter erstrahlt endlich im persönlichen Design! Meldet Euch am besten gleich an, damit Ihr in Zukunft nichts mehr verpasst!
-fileName: 2018-02---mein-neuer-newsletter.md
+description: Es ist soweit! Mein Newsletter erstrahlt endlich im persönlichen
+  Design! Meldet Euch am besten gleich an, damit Ihr in Zukunft nichts mehr
+  verpasst!
+excerpt: Es ist soweit! Mein Newsletter erstrahlt endlich im persönlichen
+  Design! Meldet Euch am besten gleich an, damit Ihr in Zukunft nichts mehr
+  verpasst!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_newspaper-3065044_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_newspaper-3065044_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGB//EACcQAAICAgEEAQMFAAAAAAAAAAECAwQFESEABhITMQcUYTIzQXGS/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwECBP/EAB0RAAICAwADAAAAAAAAAAAAAAECABEDEjEhYXH/2gAMAwEAAhEDEQA/AL7LT3jkrdxoMjHVaZvXYSLyhIDEbGwPnXPPV72/n7UkNuUvVkNKpJNGzIYSTrWmOyuvz1lYe8shU7ZwsVjt7K5tMssntGPAhhiX2eKhtDxHkeefHpi5f7hlsNi+2uwM9jpLC+u7LO6N4xb34ox2g2d7J3oca52I1qvyRKYj3Jn1DyM17AU7syJHLMLDMqOHAKupHI+eAD0sF4RUvfXgi9EAoXZFSUhkYStE8miNc75H5B38jrMY5Mrl4JcHcytPJivFMw8bSyvRGtMPYqhHUaBK/wAa4I+OnO3M6kONuQ3Hkevax/piAhWVUZiHDEEjYB51+eteXxUOwTWLPbcM5NDlMqld6bZfItWaP9oWHVP8g661kP1B7jyMGPrZC81ijUh9DVmLKlka0WlIIZmI0N7Gtca52dHSai4e7BSQZMrZWea5PUiiq06bwKft6cIiUgk8MeWb4H6mPVeiJYxNUTIHCxrrf9a6OjpqAFTkLFmsmf/Z
@@ -19,12 +20,11 @@ labels:
   - Newsletter
   - Newsletter Blog
 focusKeyword: Newsletter
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ab jetzt verpasst Ihr nichts mehr!
+
 ---
 
 **Es ist soweit! Mein Newsletter erstrahlt nun endlich im persönlichen Design meines Blogs! Ich bin schon sehr gespannt, was Ihr dazu sagt. Meldet Euch am besten gleich an, damit Ihr in Zukunft nichts mehr verpasst!**

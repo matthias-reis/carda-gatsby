@@ -1,12 +1,15 @@
 ---
 date: 2022-08-02T17:42:11.888Z
-slug: lost-in-kiev-rupture
 typeName: Review
 title: Lost in Kiev – "Rupture"
 subTitle: Das vierte Album der Pariser Post-Rock-Band
 seoTitle: Lost in Kiev – "Rupture" – Post-Rock Review
-description: Das neue Lost in Kiev Album "Rupture" erscheint am 7. Oktober. Vorbestellungen werden ab dem 4. August möglich sein. Ich habe es schon gehört und rate Euch hiermit dazu, den Kauf in Erwägung zu ziehen.
-excerpt: Das neue Lost in Kiev Album "Rupture" erscheint am 7. Oktober. Vorbestellungen werden ab dem 4. August möglich sein. Ich habe es schon gehört und rate Euch hiermit dazu, den Kauf in Erwägung zu ziehen.
+description: Das neue Lost in Kiev Album "Rupture" erscheint am 7. Oktober.
+  Vorbestellungen werden ab dem 4. August möglich sein. Ich habe es schon gehört
+  und rate Euch hiermit dazu, den Kauf in Erwägung zu ziehen.
+excerpt: Das neue Lost in Kiev Album "Rupture" erscheint am 7. Oktober.
+  Vorbestellungen werden ab dem 4. August möglich sein. Ich habe es schon gehört
+  und rate Euch hiermit dazu, den Kauf in Erwägung zu ziehen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-08-02/lost-in-kiev-stephane-burlot-jpeg-imagine-282828_42454a_1440_958/640.webp
 copyright: Stephane Burlot
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-08-02/lost-in-kiev-rupture-picture-by-stephane-burlot-jpeg-imagine-282828_414449_1200_628/640.webp
@@ -28,6 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/08/lost-in-kiev-rupture-en/
+
 ---
 
 **Das neue Lost in Kiev Album "Rupture" erscheint am 7. Oktober. Vorbestellungen werden ab dem 4. August möglich sein. Ich habe es schon gehört und rate Euch hiermit dazu, den Kauf in Erwägung zu ziehen.**

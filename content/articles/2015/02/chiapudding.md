@@ -1,15 +1,16 @@
 ---
 date: 2015-02-13T10:16:27.000Z
-slug: chiapudding
-path: /2015/02/chiapudding/
 type: Artikel
 typeName: Rezept
 title: Chiapudding
 seoTitle: Chiapudding - Gesund und lecker schlemmen
 ogTitle: Chiapudding - Gesund und lecker schlemmen
-description: Ihr würdet gerne mal wieder einen Nachtisch zubereiten, bei dem Ihr so richtig hemmungslos schlemmen könnt? Ich verrate Euch mein Rezept für Chiapudding
-excerpt: Ihr seid auf der Suche nach einem leckeren Frühstück, das lange vorhält? Ihr würdet gerne mal wieder einen Nachtisch zubereiten, bei dem Ihr so richtig hemmungslos schlemmen könnt?
-fileName: 2015-02---chiapudding.md
+description: Ihr würdet gerne mal wieder einen Nachtisch zubereiten, bei dem Ihr
+  so richtig hemmungslos schlemmen könnt? Ich verrate Euch mein Rezept für
+  Chiapudding
+excerpt: Ihr seid auf der Suche nach einem leckeren Frühstück, das lange
+  vorhält? Ihr würdet gerne mal wieder einen Nachtisch zubereiten, bei dem Ihr
+  so richtig hemmungslos schlemmen könnt?
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_img_3672__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_img_3672__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgP/xAAtEAABAwIEBAMJAAAAAAAAAAABAgMRAAQFByFBBhIxkRNRgRQVIiMyQqHC8f/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQb/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBBESMQWB8P/aAAwDAQACEQMRAD8A55g4xf4Mm0VZliH1KbK3UlRbIE6AEDpuanl1jOKO3BcOJXQdVBIbdKEg7wAYitVmw869jVqxy/LbaW4mPuJVB/CaxyUBKIASW1HrAHN67bVApUcAdTYWEljGTjWMBBScUvzy6wblXbrVYyc9svbK6ury7Xdw94LBdUVLECVSfUVIkfUQlMNmAQVA6z5f2qhkfehprE7MwnldQ8kTsoEfqO9C5Rx6gG5oOJMqrviC6YfcuH7ZbaVJMJSQQTO503pZjI5ZQB7zdBA3CI7a0UUmlzgAAyS/kLN9D73OLmSNwEJLeIu8yJ+INIiPLQinOEOCHOFMZuF3d5cP+I2G1DwgI1BB6me9FFB7XI0TGsPJa5irAT//2Q==
@@ -33,16 +34,14 @@ labels:
   - Pudding vegan
   - vegan
   - vegane Rezepte
-
   - Veganer
   - veganer Pudding
 focusKeyword: Chiapudding
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Grundrezept
+
 ---
 
 **Ihr seid auf der Suche nach einem leckeren Frühstück, das lange vorhält? Ihr würdet gerne mal wieder einen Nachtisch zubereiten, bei dem Ihr so richtig hemmungslos schlemmen könnt?**

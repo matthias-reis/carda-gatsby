@@ -1,13 +1,12 @@
 ---
 date: 2021-01-28T16:40:28.000Z
-slug: hefe-ist-vegan
-path: /2021/01/hefe-ist-vegan/
 title: Hefe ist vegan
 seoTitle: Hefe ist vegan – alle Fakten und Infos zum Lebensmittel
 ogTitle: Hefe ist vegan – alle Fakten und Infos zum Lebensmittel
-description: Hefe ist vegan – oder doch nicht? Hier findet Ihr alle Fakten und erfahrt, auf was Ihr beim Hefekauf achten solltet.
-excerpt: Hefe ist vegan – oder doch nicht? Hier findet Ihr alle Fakten und erfahrt, auf was Ihr beim Hefekauf achten solltet.
-fileName: 2021-01---hefe-ist-vegan.md
+description: Hefe ist vegan – oder doch nicht? Hier findet Ihr alle Fakten und
+  erfahrt, auf was Ihr beim Hefekauf achten solltet.
+excerpt: Hefe ist vegan – oder doch nicht? Hier findet Ihr alle Fakten und
+  erfahrt, auf was Ihr beim Hefekauf achten solltet.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_hefe-congerdesign__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_hefe-congerdesign__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAHBf/EAC4QAAEDAwMCBAQHAAAAAAAAAAECAwQFBhEAEiETMQciUXEUQZGhFSMzQmGBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAv/EAB8RAQACAgICAwAAAAAAAAAAAAEAAgMhBBEUIjFhgf/aAAwDAQACEQMRAD8Ax+k0B3pJX8JI24ByGF4+uNKaFSYz0kokNuBCAFKSPIoj+Mjj6aa2bUry/AlGi16PLhKISlK6whtyOgH5odwU5GOx/wB10vEuo3I1YqJVVfZcisTooU4ZbLrqh1OeUZ78D2J9NDeavqV6+9RXihtt+bnOhWHCrcECkJkpmlDhaSvCkOlOPKo/sPOAexzoDLtcPsuKko6KUqU2tBT+YCk4II7DnjnTcXnLo0goYSpB3BKtrYSpZPACSOee39aI+I06qxbxXUJMOXGiS0pcWoLS62p3aA4dyCQewJ9zqNOTltVa7lHBQsFtRLYVOtpTfTRNnhp3BKUvpAHtlJ9dbEKRacmiGA6lucySN4qCupux22geUHjuB99WrSylR76hnJZNsz27bLtu23Y9QpVJiyITZLywqUsOMgJOQkkkHAJxn58emhtxQqfNt2JOg1R8x22lOtiSEhb24D9XHbgY45H21atUx0H5mcl0BJ//2Q==
@@ -23,12 +22,11 @@ labels:
   - Hefe ist vegan
   - Mikroorganismen
 focusKeyword: Hefe ist vegan
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Fakten und Infos
+
 ---
 
 **Irgendwie fragen mich immer wieder Leute, ob Hefe vegan ist. Weil ich es gewohnt bin, unser Brot selbst zu backen, gehe ich ganz selbstverständlich damit um und bin überhaupt noch nie auf die Idee gekommen, sie wäre nicht vegan. Dabei ist das gar nicht so abwegig. Oder?**

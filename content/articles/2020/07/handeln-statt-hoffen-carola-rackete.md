@@ -5,19 +5,14 @@ excerpt: '"Handeln statt hoffen" heißt das Buch der Menschenrechts- und
   etwas zu ändern.'
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_handeln-statt-hoffen-carola-rackete.png__l.jpg
 isAffiliate: false
-path: /2020/07/handeln-statt-hoffen-carola-rackete/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAApEAACAQMDAwQBBQAAAAAAAAABAgMEBREABhITITEHIkFRcRWBobHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EAB8RAAICAQQDAAAAAAAAAAAAAAECAAMRBBIxwRMyUf/aAAwDAQACEQMRAD8AkvpdRRz7nraGVBIKi3ykAgd/arf6NVW2WS3u9vsIFJR0NfQx1E3Uj5IzMzISSXBBOABj86mvpwTD6jWaTJCSRvEw+Ty5oP7XVWluP6deLODFhGtEcZlMBl6J6koVsAHHj60N6LZSNw4J6M2gsyefncy26CNu3i+x2mrp+tFRiY1tPGAwCzRqV5cm+yMY0mo7zWbg2ZuOet4yQwUEzRy9iXz7fd27MM/yNMd1zTXurvaUsUblbYsaymLoLOwqYSzZbHnv5+sa4bTZbxZfS7dxulumpYWt6dNiysjs0qk44k98EefjSAgUDEptbLNkzP7NtlXHuS0VrkQpSyo7ksPeBx7YH4PfV5p5LRWQRSVNS0MnRCkRyzAqQznACkLjuMfvnRo0doDJtPEl048frEe9aKzT7erYaGV2mdEVVaabBHURiDliMDBPjzqe7wamrOdQkPCZkVJX556mFCjIwB4GjRoakCjAjHYk5M//2Q==
 date: 2020-07-30T12:24:37.000Z
 typeName: Buchtipp
 isWerbung: false
-fileName: 2020-07---handeln-statt-hoffen.md
-slug: handeln-statt-hoffen-carola-rackete
-errors: {}
 title: '"Handeln statt hoffen"'
 subTitle: Carola Racketes Aufruf an die letzte Generation
 focusKeyword: Handeln statt hoffen
 affiliate: true
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-30-carola-rackete-02__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_%EF%BF%BC2020-07-30-carola-rackete-02__m.jpg
 seoTitle: Handeln statt hoffen - Carola Racketes Aufruf an die letzte Generation
@@ -35,6 +30,7 @@ labels:
   - Klima- & Umweltschutz
   - Klimawandel
   - Sea Watch
+
 ---
 
 **"Handeln statt hoffen" heißt das Buch der Menschenrechts- und Umweltaktivistin Carola Rackete. Es ist ein Aufruf an die Menschheit, so schnell wie möglich ihre Gewohnheiten zu ändern, um die Klimakatastrophe zu bremsen. Ich habe es gelesen.**

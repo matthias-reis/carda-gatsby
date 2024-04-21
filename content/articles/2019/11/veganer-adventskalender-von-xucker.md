@@ -1,19 +1,19 @@
 ---
-date: 2019-11-21T17:35:24.000+00:00
-slug: veganer-adventskalender-von-xucker
-path: '/2019/11/veganer-adventskalender-von-xucker/'
+date: 2019-11-21T17:35:24.000Z
 type: Artikel
 typeName: Produkttest
 title: Veganer Adventskalender von Xucker
 seoTitle: Veganer Adventskalender von Xucker - Geschenktipp
 ogTitle: Veganer Adventskalender von Xucker - Geschenktipp
-description: Schön sieht er ja schon mal aus der vegane Adventskalender von Xucker. Hinter jedem Türchen steckt vegane Gentechnik-freie Edelbitterschokolade.
-excerpt: Schön sieht er ja schon mal aus der vegane Adventskalender von Xucker. Hinter jedem Türchen steckt vegane Gentechnik-freie Edelbitterschokolade.
-fileName: 2019-11---veganer-adventskalender-von-xucker.md
+description: Schön sieht er ja schon mal aus der vegane Adventskalender von
+  Xucker. Hinter jedem Türchen steckt vegane Gentechnik-freie
+  Edelbitterschokolade.
+excerpt: Schön sieht er ja schon mal aus der vegane Adventskalender von Xucker.
+  Hinter jedem Türchen steckt vegane Gentechnik-freie Edelbitterschokolade.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-6__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwYH/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURABIhBjETIjJBUWEUM0Jxof/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAhEQABBAICAgMAAAAAAAAAAAABAgMRIQAEMUEScRORwf/aAAwDAQACEQMRAD8AVdMWRJNrugKqN2fjjnTalsD1Jju9RcKSCSFi3g+YGNFBKKBuGSffj+XvqNLDLXWpKGiqKanlqXWIPLJ+9ApLhAAc9ufr4zpzZulrs17aS63bxLYsZCwU4wXO1QAd3pHmPz6fvOkPB023HB5xrbiEUqbix+2MdTW5IdrmEruG4KeMcA8/HfWcuVBBK43RorjIXkc57gad9eV5t9kp7VQl/wAqrBj8VjudIUXMjdj5mACg47t9alWTCpMc+KdYZkV4lUHIJ5yScYIB7Y7++iSolUTxGASB1nBumaqe2uklBVTQyKCAwVGK5GDjK8ca18N+vkaGSnvNa8yLmON2QIzYxg+Tto0a0jeqyoWkfWZfZ23wsq8zPvE0F86rm6hqJ69namlGJHeQBI9wySgB75X04x/WrLt1Bdipja6TvEMjYYk24K7e2Pj/AHnRo1O1psoKx4zffrKXd99/4yoxXVZ//9k=
-ogImage:
+ogImage: null
 labels:
   - Birkenzucker
   - Ernährung
@@ -26,14 +26,13 @@ labels:
   - Xucker Adventskalender
   - Xylit
 focusKeyword: vegane-adventskalender
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Vegane Geschenkidee
 advertisement: true
 affiliate: true
+
 ---
 
 **Ich wollte es ja zuerst nicht wahrhaben, aber: die stille Zeit steht wieder vor der Tür. Obwohl es draußen noch nicht wirklich kalt ist, darf man sich so langsam Gedanken darüber machen, was man den Lieben für hübsche Kleinigkeiten zukommen lassen könnte. Ich habe heute schon mal einen Tipp für Euch.**

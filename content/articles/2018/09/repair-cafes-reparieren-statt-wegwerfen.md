@@ -1,17 +1,18 @@
 ---
-date: 2018-09-18T11:48:26.000+00:00
-slug: repair-cafes-reparieren-statt-wegwerfen
-path: '/2018/09/repair-cafes-reparieren-statt-wegwerfen/'
+date: 2018-09-18T11:48:26.000Z
 title: Reparieren statt wegwerfen
 seoTitle: Reparieren statt wegwerfen - Neue Kooperation der Repair Cafés
 ogTitle: Reparieren statt wegwerfen - Neue Kooperation der Repair Cafés
-description: Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt den Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung Rabatte an.
-excerpt: Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt den Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung Rabatte an.
-fileName: 2018-09---reparieren-statt-wegwerfen.md
+description: Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt
+  den Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung
+  Rabatte an.
+excerpt: Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt den
+  Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung
+  Rabatte an.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29822477627_8f4edaecf6_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29822477627_8f4edaecf6_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAnEAACAgEEAQMEAwAAAAAAAAABAgMRBAAFEiExEyIyFEFRYRVxgv/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMREyEx/9oADAMBAAIRAxEAPwCY7HmS7juORlbhkT5ORwTnLK9s9Uos/eh0NPX1UWLk+hPPDCluKZgreDxoefI1K8ETNPkttWRKmEWaFXcAOV+Q5fg8RfWm7Ahw8Wd/5LMgjKgcneZI+XQPZJsnvVVbBT9wSdlJju+bjMkYmlRJGX4qCT5+9XXX50v77M6Rl42dA0h9pA6XgtGv7vvWW5bzs8m2nG23KxZMlY6kXHiZvd6l0ZONfGj5rXNj3Nc/OjxM+DFii9zu8AaFgiAsxvkRfFSLr76bvg2HxJOCTza4Bk4WUXY3HT+ej4FV/rz+tdw7RFgYrOJHZumIUBVIISuq/Z70aNZT2MrYDNGutWHomW9Yjbbs6bkkiTLI9CGVOgOJPZBF6X4M1sx5IpIYEVAQPTUg0eqJvxXVaNGkRi2EwnAXwT//2Q==
-ogImage:
+ogImage: null
 labels:
   - Klima- & Umweltschutz
   - lesswaste
@@ -22,14 +23,12 @@ labels:
   - Zero Waste
   - zerowaste
 focusKeyword: Repair Cafés
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image that could not be found
 subTitle: Die nachhaltige Kooperation von SOS Zubehör mit Repair Cafés
 advertisement: true
+
 ---
 
 **Der Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt den Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung Rabatte an. Außerdem stellt er kostenlose Anleitungen zur Fehlersuche und Reparatur-Tipps zur Verfügung.**

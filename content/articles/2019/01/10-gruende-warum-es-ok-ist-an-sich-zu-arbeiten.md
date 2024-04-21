@@ -1,13 +1,12 @@
 ---
 date: 2019-01-20T12:10:19.000Z
-slug: 10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten
-path: /2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/
 title: 10 Gründe, warum es OK ist, an sich zu arbeiten
 seoTitle: 10 Gründe, warum es OK ist, an sich zu arbeiten - Besser werden ist gut
 ogTitle: 10 Gründe, warum es OK ist, an sich zu arbeiten - Besser werden ist gut
-description: Immer mehr Magazine und Blogs titeln mit "Scheiß auf Selbstoptimierung" und "Ich bleib so, wie ich bin!" - macht das wirklich Sinn?
-excerpt: Immer mehr Magazine und Blogs titeln mit "Scheiß auf Selbstoptimierung" und "Ich bleib so, wie ich bin!" - macht das wirklich Sinn?
-fileName: 2019-01---10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten.md
+description: Immer mehr Magazine und Blogs titeln mit "Scheiß auf
+  Selbstoptimierung" und "Ich bleib so, wie ich bin!" - macht das wirklich Sinn?
+excerpt: Immer mehr Magazine und Blogs titeln mit "Scheiß auf Selbstoptimierung"
+  und "Ich bleib so, wie ich bin!" - macht das wirklich Sinn?
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Sri-Lanka-340__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Sri-Lanka-340__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwQF/8QAKBAAAQQBBAIBAwUAAAAAAAAAAQIDBAURAAYSIRMxFAdRcSJBYaGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABwRAQADAAMBAQAAAAAAAAAAAAEAAhEDEiEEMf/aAAwDAQACEQMRAD8AUtu0i76DErGULbk2Ti1Nl14llKP1YyACegD3n0NbMHZ9PSVd05Os6+fIZW0llmDKCvMtQASAACrrKySD1gatm166qh7WYTZO16JDEAtqZDjfmUPFj1yGCR0B171ynr7ZMFJvYiiuOh0yGvFGUFqWpsYCVY45QVY45wMfxqKObK77kR2dozIjUh2tnTFrQ2lTLfnyCcAqSCo/3+B++lS0k2cJvhKffhPpI5/MjIUniAc4UPYHXY++qleb3ql01ta18dEkuOktNeRDbqU4Hagc47H+aTvqruCPebc2/AVEkLW4wbAJbaQ8pCOJSjKh6BOevf30tORbddjWDruSi7btbmWwpIXTNMuKKktis5BIz6JK8noezpsiRrNYIDtGnkQVEVWOX5w4NGjVKKkOSoPkyWm15O4KCwpFTK+ExMQULVErgjBzyzjmc9jS7JgT3LOBNnWDMlMRKjJZ+GhIlBwpByfaSMDBGfXrRo1l+mzW1E/fYUBEn//Z
@@ -23,12 +22,11 @@ labels:
   - Selbstoptimierung
   - soziale Kompetenz
 focusKeyword: an sich zu arbeiten
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Besser werden ist gut
+
 ---
 
 **Immer mehr Magazine und Blogs titeln mit "Scheiß auf Selbstoptimierung", "Die Welt im Selbstoptimierungswahn" und "Ich bleib so, wie ich bin!" - Ich sehe das ein bisschen anders.**

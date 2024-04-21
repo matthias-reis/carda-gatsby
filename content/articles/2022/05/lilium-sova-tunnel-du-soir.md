@@ -1,12 +1,16 @@
 ---
 date: 2022-05-12T15:11:50.541Z
-slug: lilium-sova-tunnel-du-soir
 typeName: Review
 title: Lilium Sova – "Tunnel du soir"
 subTitle: Ein neues Musik-Genre
 seoTitle: Lilium Sova – "Tunnel du soir" – Post-Music Review
-description: Das Genfer Post-Noise/Jazz/Avant/Post-Hardcore Projekt Lilium Sova hat seine neue EP "Tunnel du soir" veröffentlicht. Fans komplexer Sounds sollten es nicht verpassen.
-excerpt: 2006 fanden sich in Genf die Mitglieder des Post-Noise/Jazz/Avant/Post-Hardcore Kollektivs Lilium Sova. Die Sound-Alchemisten haben jetzt ihre neue EP "Tunnel du soir" vorgestellt, die Ihr nicht verpassen solltet.
+description: Das Genfer Post-Noise/Jazz/Avant/Post-Hardcore Projekt Lilium Sova
+  hat seine neue EP "Tunnel du soir" veröffentlicht. Fans komplexer Sounds
+  sollten es nicht verpassen.
+excerpt: 2006 fanden sich in Genf die Mitglieder des
+  Post-Noise/Jazz/Avant/Post-Hardcore Kollektivs Lilium Sova. Die
+  Sound-Alchemisten haben jetzt ihre neue EP "Tunnel du soir" vorgestellt, die
+  Ihr nicht verpassen solltet.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-12/lilium-sova-jpg-imagine-787878_000000_1024_768/640.webp
 copyright: Lilium Sova
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-12/lilium-sova-fb-jpg-imagine-080808_000000_1200_628/640.webp
@@ -27,6 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/05/lilium-sova-tunnel-du-soir-en/
+
 ---
 
 **2006 fanden sich in Genf die Mitglieder des Post-Noise/Jazz/Avant/Post-Hardcore Kollektivs Lilium Sova. Die Sound-Alchemisten haben jetzt ihre neue EP "Tunnel du soir" vorgestellt, die Ihr nicht verpassen solltet.**

@@ -1,13 +1,12 @@
 ---
 date: 2019-12-02T08:25:21.000Z
-slug: 10-tipps-gegen-negativitaet
-path: /2019/12/10-tipps-gegen-negativitaet/
 title: 10 Tipps gegen Negativität
 seoTitle: 10 Tipps, wie Du Negativität loswirst
 ogTitle: 10 Tipps, wie Du Negativität loswirst
-description: Wie zur H.... schaffe ich es, meine Negativität abzulegen? Hast Du Dir diese Frage auch schon mal gestellt? Diese zehn Tipps helfen wirklich.
-excerpt: Wie zur H.... schaffe ich es, meine Negativität abzulegen? Hast Du Dir diese Frage auch schon mal gestellt? Diese zehn Tipps helfen wirklich.
-fileName: 2019-12---10-tipps-gegen-negativitaet.md
+description: Wie zur H.... schaffe ich es, meine Negativität abzulegen? Hast Du
+  Dir diese Frage auch schon mal gestellt? Diese zehn Tipps helfen wirklich.
+excerpt: Wie zur H.... schaffe ich es, meine Negativität abzulegen? Hast Du Dir
+  diese Frage auch schon mal gestellt? Diese zehn Tipps helfen wirklich.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBgP/xAAoEAABAwMDBAICAwAAAAAAAAABAgMEBREhAAYSBxMxQSJhFBVRcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAdEQEAAgMAAwEAAAAAAAAAAAABABECAyExQXGx/9oADAMBAAIRAxEAPwCZ40IKF13ta51WfSPpDQ4e04Uyp09iZVJjKJDi5CA4G+YuEJBwLAi58k6nih7Zq1RaQY8B7tOWSHHE8E2Pu59Z1UP7fe1H27TosDb8SX24zbCZP5BUHClAHIIxxyPBPrR28Bj1otHmYDrZ0tpDFHkVKlxY8KVGSXClhHBLiRkggYva9j9am2RECDi5Gqmq8/d25NuSzXYcCJSn21odmIcKVN/E4CCTyJOLDOdJOX0/3OYsqQxRJj8VjKnUIGU2vcJvc+fQ9HU1tkuwpr3HZ0KrtLmbfgrq8ovVeWlcfku12+JVcj7KQM+dM+bQpy09zbVbREHgx5KeaB/R8jRo07Zi4Y8Dnzn5MfVto1V9zv7mrrL6WyeDTCyflggAWAT6zk/7rlN3rSaNREshAjNFJbCblXFR9fzbF9GjRW2osMDEsn//2Q==
@@ -24,12 +23,11 @@ labels:
   - Selbstliebe
   - Stimmung
 focusKeyword: Negativität
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Eine Chance für gute Stimmung
+
 ---
 
 **Negativität ist etwas Fieses. Sie hält einen am Boden, bremst die Kreativität und kann im schlimmsten Fall für ziemlich miese Stimmung sorgen. Zeit, sie ein für alle Mal loszuwerden.**

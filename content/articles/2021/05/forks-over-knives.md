@@ -10,7 +10,6 @@ labels:
   - vegane Doku
   - vegane Filme
 language: de
-slug: forks-over-knives
 typeName: Filmtipp
 title: Forks Over Knives
 subTitle: Mehr als nur ein Lieblingsfilm
@@ -28,6 +27,7 @@ focusKeyword: Forks Over Knives
 advertisement: false
 affiliate: false
 languageLink: ""
+
 ---
 
 **"Forks Over Knives" würde ich vermutlich als Erstes sagen, wenn Ihr mich nach [meinen Lieblings-Dokus](/tag/buecher-und-filme/) rund ums Thema Veganismus fragen würdet. Der Film gehört zu den wenigen, die ich mir immer wieder ansehe und das nicht ohne Grund.**

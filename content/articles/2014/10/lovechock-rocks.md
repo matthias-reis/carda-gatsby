@@ -1,19 +1,18 @@
 ---
-date: 2014-10-05T12:58:17.000+00:00
-slug: lovechock-rocks
-path: '/2014/10/lovechock-rocks/'
+date: 2014-10-05T12:58:17.000Z
 type: Artikel
 typeName: Produkttest
 title: Lovechock Rocks
 seoTitle: Lovechock Rocks im Test - richtig gute Schokolade
 ogTitle: Lovechock Rocks im Test - richtig gute Schokolade
-description: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
-excerpt: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
-fileName: 2014-10---lovechock-rocks.md
+description: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in
+  Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
+excerpt: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in
+  Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQASIQYTMQciQRVxsSMyUWGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAX/xAAdEQADAAEFAQAAAAAAAAAAAAAAAQIhAwQREmEx/9oADAMBAAIRAxEAPwBqwuVKJOWLWRRj2pkpMlmSllEhZSgVXbURt3Ajk8iiPnTN6ddMx8fHRKiSmy6ttIV2CoJW4r3blpu+Eke0gAWKGomiWiIllb8tuM81SVIQS9aT4IA55G4fB4/vVp6RyUWJgIzEQqjuPgrIccSpbhNDd5NGqFeQAONUnuH9o1tXa9Y7S8sU+u24jWcchFpt5Tm1zc8faSN3F3Yqh5/nU6zmVj4yKxsit0HO22ErJAJNq+fzqtdW9KTs1JTNTkYf6bYQEPtluhd2VCwTyOSOdQf1EgS8fm/p0ksJcipQtzYvcncvkcj5oA6VLVV4DiVp+mvEYXFfTLZdHdfabWApAKULACtwH31vJ6wkpyCiiO0YTqjujundRsEbVcVVmrB/zRo0qW6jJJN8jvEya5+JhubVJjyCm2HF7wOa88fjUMzkk5bM5aXICg7ImOj93CUoUUAV9gNGjQh4YLP/2Q==
-ogImage:
+ogImage: null
 labels:
   - Ernährung & Gesundheit
   - faire Schokolade
@@ -25,13 +24,12 @@ labels:
   - vegan
   - vegane Schokolade
 focusKeyword: Lovechock
-status: publish
 isWerbung: true
 isAffiliate: true
 language: de
-errors: {}
 subTitle: Rohe Schokolade mit dem gewissen Etwas
 advertisement: true
+
 ---
 
 **Seit April sind die kleinen "Lovechock Rocks" aus roher Schokolade in ausgewählten Bioläden zu haben. Der Anspruch: Superfood in Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".**

@@ -1,6 +1,5 @@
 ---
 date: 2021-07-29T09:37:40.104Z
-slug: earth-overshoot-day-2021
 typeName: Beitrag
 title: Earth Overshoot Day 2021
 subTitle: Wir beuten unsere Erde aus
@@ -24,6 +23,7 @@ focusKeyword: Earth Overshoot Day 2021
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **29. Juli 2021 – Heute ist Earth Overshoot Day 2021. Das bedeutet: Am heutigen Tage haben wir die natürlichen Ressourcen, die uns für ein Jahr zur Verfügung stehen würden, ausgereizt. Ab heute bräuchten wir eine weitere Erde.**

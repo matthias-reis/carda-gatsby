@@ -14,7 +14,6 @@ labels:
   - Review
   - English & German
 language: de
-slug: karin-park-lustmord-alter
 typeName: Review
 title: '"Alter" von Karin Park und Lustmord'
 subTitle: Faszinierende Horrorsounds
@@ -32,6 +31,7 @@ focusKeyword: Karin Park
 advertisement: false
 affiliate: false
 languageLink: /2021/05/karin-park-lustmord-alter-en
+
 ---
 
 **Alle, die sich ab und zu von etwas düsteren Klängen angezogen fühlen, sollten diesem Musiktipp auf jeden Fall ihre Aufmerksamkeit schenken. Denn: Schon bald erscheint eine neue Perle auf diesem Gebiet – "Alter" ist eine Kooperation von Lustmord und Karin Park von Årabrot.**

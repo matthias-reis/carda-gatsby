@@ -1,12 +1,15 @@
 ---
 date: 2022-08-02T17:50:48.936Z
-slug: lost-in-kiev-rupture-en
 typeName: review
 title: '"Rupture" by Lost in Kiev'
 subTitle: A Record we should all listen to
 seoTitle: '"Rupture" by Lost in Kiev is a record we should all listen to'
-description: Lost in Kiev are planning to release their new album "Rupture" on October 7th. Pre-orders will be available from August 4th. I have already listened to it and advise you to consider buying it.
-excerpt: Lost in Kiev are planning to release their new album "Rupture" on October 7th. Pre-orders will be available from August 4th. I have already listened to it and advise you to consider buying it.
+description: Lost in Kiev are planning to release their new album "Rupture" on
+  October 7th. Pre-orders will be available from August 4th. I have already
+  listened to it and advise you to consider buying it.
+excerpt: Lost in Kiev are planning to release their new album "Rupture" on
+  October 7th. Pre-orders will be available from August 4th. I have already
+  listened to it and advise you to consider buying it.
 image: https://storage.googleapis.com/cardamonchai-media/2022-08-02/lost-in-kiev-stephane-burlot-jpeg-imagine-282828_42454a_1440_958/640.webp
 copyright: Stephane Burlot
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-08-02/lost-in-kiev-rupture-picture-by-stephane-burlot-jpeg-imagine-282828_414449_1200_628/640.webp
@@ -28,6 +31,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/08/lost-in-kiev-rupture/
+
 ---
 
 **Lost in Kiev are planning to release their new album "Rupture" on October 7th. Pre-orders will be available from August 4th. I have already listened to it and advise you to consider buying it.**

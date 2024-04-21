@@ -5,17 +5,12 @@ excerpt: "Gumbies Gründer Michael Maurer hatte eine Vision: Vegane
   mitmachen. Mein Testbericht."
 ogImage: null
 isAffiliate: false
-path: /2018/03/gumbies-vegane-strandsandalen/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAP/xAArEAACAQQBAwIGAgMAAAAAAAABAgMEBREhAAYSMRNBBxQiMlFhFSNxgZH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACARAAEDBAIDAAAAAAAAAAAAAAEAAgMEESExEiITQdH/2gAMAwEAAhEDEQA/ALlf+qLJZKuGmu1ckVVPkxwKpd20T4HjODjPniiu6ztNNQx1lRT1kcEg7lLooOM4zju8Z5JelLzbIqgyXJ53ulQWeMzHPrSAn6gd5O/tO9ayNc2XR46yshmp6uW2q8v9qsoMbAKPI3jPn2/7wkTPJk6WNWVskL+DBn57VIh6qslZJDErzxSTv6cSyQN9bHwAVyN8z3iv/i6qlS5xJTCpqvlIz6mQHKFx3HQGl9s7ZRyS9C1V0tXVhuNGHJjDOsMpyvpOSCUyDg6wBkH8azx/8S75FfLVYKmIHtgvUaOgQszAqxWQLkghhr85XGxjkTRiM4KZoql07bu2o/es/PVUD4YK8kQ1r7zvH50P8c703U0tPUhKmkp5wzBUftAkXtX3Yhu7/Yz++HDiwNtJ90bZerwnN5+IVVQUQpbZRpBPUJ2md37yv7C4Azxp8Lopb3dzcrtN68tvgihpkVQip5wcDyRvZ9yTw4cu4knKFFCyJnQbX//Z
 typeName: Produkttest
 advertisement: true
 isWerbung: false
-fileName: 2018-03---gumbies-im-test.md
-slug: gumbies-vegane-strandsandalen
-errors: {}
-date: 2018-03-08T13:44:56.000+00:00
+date: 2018-03-08T13:44:56.000Z
 focusKeyword: Gumbies
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_26744772468_aa874dc92c_z__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_26744772468_aa874dc92c_z__m.jpg
 title: Gumbies im Test
@@ -48,6 +43,7 @@ labels:
   - Wandern
   - Workout
   - Yoga
+
 ---
 
 **Vegane Schuhe, die die natürliche Wölbung der Füße unterstützen, aus Recycling-Material bestehen und von der Dünenwanderung bis zur Yoga-Session alles mitmachen - Genau das wünschte sich Gumbies Gründer Michael Maurer.**

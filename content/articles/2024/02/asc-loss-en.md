@@ -1,14 +1,19 @@
 ---
 date: 2024-02-27T16:50:00.766Z
-slug: asc-loss-en
 typeName: Preview
-title: 'ASC – "Loss"'
+title: ASC – "Loss"
 subTitle: A New Top-Notch Past Inside The Present Album Awaits You
-seoTitle: 'Ambient Music Preview – ASC – "Loss"'
-description: '"Loss" by ASC will be out tomorrow—time for a preview on this outstanding new album on Past Inside The Present! Find out some fascinating details about it here!'
-excerpt: 'ASC will release "Loss" tomorrow on Past Inside The Present. In case you‘re wondering, who is the artist behind the project? It‘s James Clements. The record is a beautiful collection of picturesque electronic soundscapes that go straight to the heart and allow us to pause for a moment in our noisy world.'
+seoTitle: Ambient Music Preview – ASC – "Loss"
+description: '"Loss" by ASC will be out tomorrow—time for a preview on this
+  outstanding new album on Past Inside The Present! Find out some fascinating
+  details about it here!'
+excerpt: ASC will release "Loss" tomorrow on Past Inside The Present. In case
+  you‘re wondering, who is the artist behind the project? It‘s James Clements.
+  The record is a beautiful collection of picturesque electronic soundscapes
+  that go straight to the heart and allow us to pause for a moment in our noisy
+  world.
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-27/asc-loss-jpg-imagine-e8a838_c8a056_1024_768/640.webp
-copyright: 'ASC'
+copyright: ASC
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-27/asc-loss-og-jpg-imagine-f8d878_c39b52_1200_628/640.webp
 labels:
   - Ambient
@@ -29,11 +34,12 @@ labels:
   - ASC
   - Past Inside The Present
   - James Clements
-focusKeyword: 'Loss ASC'
+focusKeyword: Loss ASC
 advertisement: false
 affiliate: false
 language: en
 languageLink: /2024/02/asc-loss/
+
 ---
 
 **ASC will release "Loss" tomorrow on Past Inside The Present. In case you're wondering, who is the artist behind the project? It's James Clements. The record is a beautiful collection of picturesque electronic soundscapes that go straight to the heart and allow us to pause for a moment in our noisy world.**

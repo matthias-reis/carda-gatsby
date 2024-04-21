@@ -1,15 +1,16 @@
 ---
 date: 2020-11-10T11:05:11.000Z
-slug: the-oceans-lullaby-six-days-of-calm
-path: /2020/11/the-oceans-lullaby-six-days-of-calm/
 type: Artikel
 typeName: Review
 title: The Ocean's Lullaby
 seoTitle: Six Days Of Calm – "The Ocean's Lullaby" – Plattenrezension
 ogTitle: Six Days Of Calm – "The Ocean's Lullaby" – Plattenrezension
-description: Vor Kurzem habe ich Euch an dieser Stelle Six Days Of Calm aka Marc Fischer vorgestellt. Am 6. November erschien sein Debütalbum "The Ocean's Lullaby".
-excerpt: Vor Kurzem habe ich Euch an dieser Stelle Six Days Of Calm aka Marc Fischer vorgestellt. Am 6. November erschien sein Debütalbum "The Ocean's Lullaby".
-fileName: 2020-11---the-oceans-lullaby.md
+description: Vor Kurzem habe ich Euch an dieser Stelle Six Days Of Calm aka Marc
+  Fischer vorgestellt. Am 6. November erschien sein Debütalbum "The Ocean's
+  Lullaby".
+excerpt: Vor Kurzem habe ich Euch an dieser Stelle Six Days Of Calm aka Marc
+  Fischer vorgestellt. Am 6. November erschien sein Debütalbum "The Ocean's
+  Lullaby".
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_six-days-of-calm__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_six-days-of-calm__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBggDBf/EACsQAAEDAgUDAwQDAAAAAAAAAAECAwQFEQAGEiExEyJRFUFhBxQyQmKhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwB9UeM6ZCQv7cRnEnSgatZVtx7WsDf5G2J0eG5EjJC3lSXN9RUlIKvCRx55PjHMqiSK3ZL950NpTZJPYnUAbH+QG/wFfOPGerb9NrjbFUlRVMy3A2yjRpNj+2oG1uecBKq9Uo1PqTcGo1CmMuPggNSJKEuKPIAQrkEX3wqsz5nyFSZlSgRq41RKk25obFGkLSHFEfulKSzybG/zc4UX1byVmmVWsxV+qMy5UdcvTFkoa66H0E9vcn8AlAHIt7c4U0zW3EQl1CmyQlSQpNrgj/Nv7wGpXKlmjLGe6y/6NUqpEmSXZESRDimS2tDir6FhJ7SL6d/HjF5bjT63JczDmijttJiR1vxaIFpW66tDZt1NyANzZAubqueBgwYCqMVVyoZUjzcgQHY05gLckxJTzyWmlpRcIR1e1ZUrYAce9sZVzSKuqqOorjb/AKlbqvJcSAtNwOQPxAHttYYMGA//2Q==
@@ -34,12 +35,11 @@ labels:
   - Watch Them Fade
   - Würzburg
 focusKeyword: Six Days Of Calm
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Six Days Of Calm Plattenrezension
+
 ---
 
 **Vor Kurzem habe ich Euch an dieser Stelle Six Days Of Calm aka Marc Fischer vorgestellt. Im Interview habe ich mich mit ihm über die Entstehung seines neuen Albums "The Ocean's Lullaby" unterhalten. Am 6. November war es endlich so weit und die Doppel-LP erschien im Rampenlicht. Natürlich habe ich sie mir angehört.**

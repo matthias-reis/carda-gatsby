@@ -1,12 +1,13 @@
 ---
 date: 2021-03-11T17:24:55.863Z
-slug: johan-g-winther-interview-en
 typeName: Interview
 title: Interview with Johan G. Winther
 subTitle: '"I Record My Music In A Cabin In The Woods"'
 seoTitle: Interview with Johan G. Winther – "I Record My Music In A Cabin In The Woods"
-ogTitle: ''
-description: Johan G. Winther's album "The Rupturing Sowle" will be released on March 26th. I have arranged an interview with him to get some insights into the record.
+ogTitle: ""
+description: Johan G. Winther's album "The Rupturing Sowle" will be released on
+  March 26th. I have arranged an interview with him to get some insights into
+  the record.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-johan-g-winter-l-jpeg-imagine-080808_6a6a67_1440_1080/640.webp
 copyright: Johan G. Winther
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-03-johan-g-winter-fb-png-l-jpg-imagine-080808_6c6058_1440_754/640.webp
@@ -33,6 +34,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/03/johan-g-winther-interview
+
 ---
 
 **Johan G. Winther's album "The Rupturing Sowle" will be released on March 26th. I have arranged an interview with him to get some insights into the record.**

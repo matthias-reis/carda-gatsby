@@ -1,42 +1,38 @@
 ---
-date: 2021-03-08T15:16:54.000+00:00
-slug: akupressurmatte
-path: "/2021/03/akupressurmatte/"
+date: 2021-03-08T15:16:54.000Z
 type: Artikel
 typeName: Produkttest
 title: Akupressurmatte im Alltag
 seoTitle: Akupressurmatte im Alltag – Entspannung durch Stimulation
 ogTitle: Akupressurmatte im Alltag – Entspannung durch Stimulation
-description: Ich habe seit Kurzem eine Akupressurmatte in Gebrauch und möchte sie
-  nicht mehr missen. Sie hilft nicht nur gegen Verspannungen.
-excerpt: Ich habe seit Kurzem eine Akupressurmatte in Gebrauch und möchte sie nicht
-  mehr missen. Sie hilft mir nicht nur bei Verspannungen.
-fileName: 2021-03---akupressurmatte-im-alltag.md
+description: Ich habe seit Kurzem eine Akupressurmatte in Gebrauch und möchte
+  sie nicht mehr missen. Sie hilft nicht nur gegen Verspannungen.
+excerpt: Ich habe seit Kurzem eine Akupressurmatte in Gebrauch und möchte sie
+  nicht mehr missen. Sie hilft mir nicht nur bei Verspannungen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_akupressurmatte__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_akupressurmatte__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKhAAAgEDAwMEAAcAAAAAAAAAAQIDBAURABIhBjFBEzJRYQcUIkJxgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AQVnvFxgKohWoB4CyJvJ+hjnTu6Ksf5+zCq6joZqCoMjbUJKZjAGGCnnv8/Glb+EN7pbL1bTSXCNGpqlDTM5xmIsRhgfHIA/g6a/XHW0Nr6gWkq3gnp8xu0iKQVVse/nAOPrQaOeyWFqyWSsggNPIgYSRjk8DJOMBWzu4Ax20s7rYTFHMSdymVvSDDD+n+3d9+NWk94gkuLy0NRPOgGIkYBo05J3qo5Jx5PA5xqSrPMlRJLHIIJFKqH9zkpv3/I4GB57nzoOfbVG9XVpEJFiTILyMeEXIydb/AKzoaKenSamqZp5p8y4MituyQsYJH0M89tGjQbu39UWizWelpaOYLTwL6W9YsuzCAgkp3wWLfqz51X3PquA1CwGZDKTEwQOHJAiKk7/b/RGf90aNB//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_akupressurmatte-fb.png__l.jpg
 labels:
-- Achtsamkeit
-- Achtsamkeit
-- Akupressur
-- Akupressurmatte
-- Entspannung
-- Ernährung & Gesundheit
-- Mediatation
-- TCM
-- Yoga
+  - Achtsamkeit
+  - Achtsamkeit
+  - Akupressur
+  - Akupressurmatte
+  - Entspannung
+  - Ernährung & Gesundheit
+  - Mediatation
+  - TCM
+  - Yoga
 focusKeyword: Akupressurmatte
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Entspannung durch Stimulation
 advertisement: true
 affiliate: true
 
 ---
+
 **Eine Akupressurmatte (auch Lotusmatte genannt) habt Ihr vielleicht schon mal in den sozialen Netzwerken gesehen. Im Moment werden sie dort regelmäßig beworben. Ich habe seit einiger Zeit selbst eine und bin sehr glücklich damit.**
 
 Was macht man mit einer Akupressurmatte? In erster Linie entspannen. Sie kann Euch helfen, Rückenschmerzen zu lindern und wieder beweglicher zu werden, wenn Ihr zum Beispiel tagsüber lange sitzt.

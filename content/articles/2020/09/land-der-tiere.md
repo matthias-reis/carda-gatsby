@@ -1,13 +1,14 @@
 ---
 date: 2020-09-02T09:40:25.000Z
-slug: land-der-tiere
-path: /2020/09/land-der-tiere/
 title: Land der Tiere
 seoTitle: Land der Tiere - Wo Tiere in Freiheit leben
 ogTitle: Land der Tiere - Wo Tiere in Freiheit leben
-description: Das Land der Tiere ist ein Ort des Friedens und des Mitgefühls. Das vegane Tierschutzzentrum möchte geretteten Tieren ein Leben in Freiheit ermöglichen.
-excerpt: Das Land der Tiere ist ein Ort des Friedens und des Mitgefühls. Das vegane Tierschutzzentrum möchte geretteten Tieren ein Leben in Freiheit ermöglichen.
-fileName: 2020-09---land-der-tiere.md
+description: Das Land der Tiere ist ein Ort des Friedens und des Mitgefühls. Das
+  vegane Tierschutzzentrum möchte geretteten Tieren ein Leben in Freiheit
+  ermöglichen.
+excerpt: Das Land der Tiere ist ein Ort des Friedens und des Mitgefühls. Das
+  vegane Tierschutzzentrum möchte geretteten Tieren ein Leben in Freiheit
+  ermöglichen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_land-der-tiere-anni-rosalie__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_land-der-tiere-anni-rosalie__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgC/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBQYSITETQVFSYQcUI2JxcpHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAAH/xAAfEQACAgIBBQAAAAAAAAAAAAABAgARAyEEBRITIiP/2gAMAwEAAhEDEQA/AM0afas9wqlCzggcACTmpCSx8GWRHQxup4tG4ww+MVoTQNv6S8cMk1vC1yAA4iQKCMYGQOoH+gGu9w7LstavYbqa9WO5t84dYwQwDchn3H96mr1Je6mFCdOOxdyg7Pbd/qNtHNZ2peF5fBWTkOPLGep8hjz7Z6VF2Ul1bO/2Ukiu4wwRiCQDny9MVd24txahNJZBIOSRztEIhIpWKLkrJGQMYGW68gc4NLt99N764lfVNLeG2s3lZooCfyQYYhkOfaQR37CnXz40FlpigA1JDZu9gFSGaQRZbDMqgAk/GMU/JrMFzEJPEiZlYhpAwzJjsf6FFFQOX839YSm9RJ3W+nPYXd1p0cMd4XSUMoHNpE7EfpyeoFK9/vW9mS8iw8ccshmRk7o7AF1x6FiSP5GiimeMPIpDbqCTP//Z
@@ -25,12 +26,11 @@ labels:
   - Tierschutz
   - Tierschutzzentrum
 focusKeyword: Land der Tiere
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Wo Tiere in Freiheit leben
+
 ---
 
 **Das Land der Tiere ist ein Ort des Friedens und des Mitgefühls. Das vegane Tierschutzzentrum möchte geretteten Tieren ein Leben in Freiheit ermöglichen. Gleichzeitig dient die Einrichtung als Bildungsstätte.**

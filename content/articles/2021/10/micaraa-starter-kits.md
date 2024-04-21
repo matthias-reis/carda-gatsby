@@ -1,14 +1,20 @@
 ---
 date: 2021-10-26T14:47:48.122Z
-slug: micaraa-starter-kits
 typeName: Produkttest
 title: Die Starter Kits von MICARAA
 subTitle: Wertvolle vegane Kosmetik für unterwegs
 seoTitle: MICARAA Starter Kits – vegane Pflege für unterwegs
-description: MICARAA hat jetzt die neuen Starter Kits vorgestellt. Sie sind besonders unterwegs unglaublich praktisch und auch, wenn Ihr Euch noch nicht ganz sicher seid, welche Pflegeserie die richtig für Euch ist, können sie helfen.
-excerpt: MICARAA hat jetzt die neuen Starter Kits vorgestellt. Gerade, wenn Ihr noch nicht sicher seid, welche Pflegeprodukte sich am besten für Euch eignen, sind die Minis praktisch, weil Ihr so ganz einfach erstmal eine kleine Menge testen könnt. Und auch unterwegs können sie praktisch sein – schließlich nehmen sie nur sehr wenig Platz weg.
+description: MICARAA hat jetzt die neuen Starter Kits vorgestellt. Sie sind
+  besonders unterwegs unglaublich praktisch und auch, wenn Ihr Euch noch nicht
+  ganz sicher seid, welche Pflegeserie die richtig für Euch ist, können sie
+  helfen.
+excerpt: MICARAA hat jetzt die neuen Starter Kits vorgestellt. Gerade, wenn Ihr
+  noch nicht sicher seid, welche Pflegeprodukte sich am besten für Euch eignen,
+  sind die Minis praktisch, weil Ihr so ganz einfach erstmal eine kleine Menge
+  testen könnt. Und auch unterwegs können sie praktisch sein – schließlich
+  nehmen sie nur sehr wenig Platz weg.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-10-26-produkttest-13-jpg-imagine-f8f8f8_9a8f89_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/micaraa-starter-kit-fb-png-imagine-f8f8f8_878079_1200_628/640.webp
 labels:
   - vegane Kosmetik
@@ -20,6 +26,7 @@ focusKeyword: MICARAA
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **MICARAA hat jetzt die neuen Starter Kits vorgestellt. Gerade, wenn Ihr noch nicht sicher seid, welche Pflegeprodukte sich am besten für Euch eignen, sind die Minis praktisch, weil Ihr so ganz einfach erstmal eine kleine Menge testen könnt. Und auch unterwegs können sie praktisch sein – schließlich nehmen sie nur sehr wenig Platz weg.**

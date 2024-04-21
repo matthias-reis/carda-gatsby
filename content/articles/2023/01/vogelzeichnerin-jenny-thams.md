@@ -1,12 +1,17 @@
 ---
 date: 2023-01-31T10:12:48.219Z
-slug: vogelzeichnerin-jenny-thams
 typeName: Interview
 title: Vogelzeichnerin Jenny Thams
 subTitle: '"Wenn Menschen etwas kennen, sind sie eher bereit es zu schützen"'
 seoTitle: Interview mit Vogelzeichnerin Jenny Thams
-description: Vögel zeichnen – das ist die Lieblingsbeschäftigung von Jenny Thams. Lest jetzt alle über Ihr Ziel alle in Österreich heimischen Vögel zu zeichnen.
-excerpt: 'Jenny Thams zeichnet für ihr Leben gern. Vor Kurzem hat sie sich ein ganz besonderes Ziel gesetzt: alle in Österreich heimischen Vogelarten einmal zu zeichnen. Die wunderbaren Kunstwerke, die dabei entstehen, teilt sie über die sozialen Netzwerke. Dort habe ich die Künstlerin kennengelernt und sie kurzerhand zu einem Interview eingeladen.'
+description: Vögel zeichnen – das ist die Lieblingsbeschäftigung von Jenny
+  Thams. Lest jetzt alle über Ihr Ziel alle in Österreich heimischen Vögel zu
+  zeichnen.
+excerpt: "Jenny Thams zeichnet für ihr Leben gern. Vor Kurzem hat sie sich ein
+  ganz besonderes Ziel gesetzt: alle in Österreich heimischen Vogelarten einmal
+  zu zeichnen. Die wunderbaren Kunstwerke, die dabei entstehen, teilt sie über
+  die sozialen Netzwerke. Dort habe ich die Künstlerin kennengelernt und sie
+  kurzerhand zu einem Interview eingeladen."
 image: https://storage.googleapis.com/cardamonchai-media/2023-01-31/voegel-zeichnen-jenny-thams-interview-jpg-imagine-f8f8f8_cdc1bc_1024_768/640.webp
 copyright: Jenny Thams
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-01-31/voegel-zeichnen-jenny-thams-interview-og-jpg-imagine-f8f8f8_cfc7c0_1200_628/640.webp
@@ -21,6 +26,7 @@ focusKeyword: Vögel zeichnen
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Jenny Thams zeichnet für ihr Leben gern. Vor Kurzem hat sie sich ein ganz besonderes Ziel gesetzt: alle in Österreich heimischen Vogelarten einmal zu zeichnen. Die wunderbaren Kunstwerke, die dabei entstehen, teilt sie über die sozialen Netzwerke. Dort habe ich die Künstlerin kennengelernt und sie kurzerhand zu einem Interview eingeladen.**

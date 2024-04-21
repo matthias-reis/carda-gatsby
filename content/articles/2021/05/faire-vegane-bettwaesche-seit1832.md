@@ -16,7 +16,6 @@ labels:
   - Textilien
   - vegane Bettwäsche
 language: de
-slug: faire-vegane-bettwaesche-seit1832
 typeName: ""
 title: Faire vegane Bettwäsche
 subTitle: Gut schlafen in Leinen & Co.
@@ -34,6 +33,7 @@ focusKeyword: faire vegane Bettwäsche
 advertisement: true
 affiliate: true
 languageLink: ""
+
 ---
 
 **seit1832 stellt faire vegane Bettwäsche her. Die Produktion der Stoffe erfolgt in Zusammenarbeit mit einem traditionellen Familienunternehmen in Portugal. Genäht wird vor Ort in Deutschland.**

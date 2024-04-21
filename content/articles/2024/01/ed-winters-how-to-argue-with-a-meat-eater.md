@@ -1,14 +1,17 @@
 ---
 date: 2024-01-03T14:32:12.086Z
-slug: ed-winters-how-to-argue-with-a-meat-eater
 typeName: Buchtipp
 title: '"How to Argue With a Meat Eater (And Win Every Time)"'
-subTitle: 'Das neue Buch von Ed Winters aka Earthling Ed ist da!'
+subTitle: Das neue Buch von Ed Winters aka Earthling Ed ist da!
 seoTitle: '"How to Argue With a Meat Eater von Ed Winters jetzt lesen!'
-description: '"How to Argue With a Meat Eater (And Win Every Time)" von Ed Winters. Holt Euch jetzt hier alle wichtigen Insights!'
-excerpt: '"How to Argue With a Meat Eater (And Win Every Time)" heißt das neue Buch des bekannten Vegan-Aktivisten Ed Winters. Holt Euch jetzt hier alle Infos und erfahrt, warum es das erste Must Read des Jahres 2024 ist! Mich haben jedenfalls schon die ersten paar Seiten sofort überzeugt.'
+description: '"How to Argue With a Meat Eater (And Win Every Time)" von Ed
+  Winters. Holt Euch jetzt hier alle wichtigen Insights!'
+excerpt: '"How to Argue With a Meat Eater (And Win Every Time)" heißt das neue
+  Buch des bekannten Vegan-Aktivisten Ed Winters. Holt Euch jetzt hier alle
+  Infos und erfahrt, warum es das erste Must Read des Jahres 2024 ist! Mich
+  haben jedenfalls schon die ersten paar Seiten sofort überzeugt.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-03/how-to-argue-with-a-meat-eater-ed-winters-soundsvegan-com-1-jpg-imagine-080808_676c77_2048_1536/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-03/how-to-argue-with-a-meat-eater-ed-winters-soundsvegan-com-og-jpg-imagine-282828_677073_1200_628/640.webp
 labels:
   - Ed Winters
@@ -20,10 +23,11 @@ labels:
   - Veganismus Bücher
   - Ed Winters
   - Earthling Ed
-focusKeyword: 'How to Argue With a Meat Eater'
+focusKeyword: How to Argue With a Meat Eater
 advertisement: false
 affiliate: true
 language: de
+
 ---
 
 **"How to Argue With a Meat Eater (And Win Every Time)" – das neue Buch von Ed Winters war heute endlich in der Post und schon die ersten Seiten überzeugen mich sehr. Nachdem ich schon das erste Buch des Tierrechtsaktivisten aus Großbritannien gefeiert habe, konnte ich mir sein neues Werk natürlich nicht entgehen lassen. Das erste Must Read des Jahres 2024 wartet auf Euch!**

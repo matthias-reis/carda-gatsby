@@ -1,13 +1,14 @@
 ---
 date: 2020-05-12T16:01:21.000Z
-slug: walfang-island
-path: /2020/05/walfang-island/
 title: Der letzte Wal
 seoTitle: Der letzte Wal - Ende des Walfangs in Island?
 ogTitle: Der letzte Wal - Ende des Walfangs in Island?
-description: Ein isländischer Betrieb stellt den Walfang ein. Island hatte erst kürzlich eine Pause der Jagd auf Wale für die Dauer der Corona Krise ausgerufen.
-excerpt: Ein isländischer Betrieb stellt den Walfang ein. Island hatte erst kürzlich eine Pause der Jagd auf Wale für die Dauer der Corona Krise ausgerufen.
-fileName: 2020-05---der-letzte-wal.md
+description: Ein isländischer Betrieb stellt den Walfang ein. Island hatte erst
+  kürzlich eine Pause der Jagd auf Wale für die Dauer der Corona Krise
+  ausgerufen.
+excerpt: Ein isländischer Betrieb stellt den Walfang ein. Island hatte erst
+  kürzlich eine Pause der Jagd auf Wale für die Dauer der Corona Krise
+  ausgerufen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_fish-1836399_1280__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_fish-1836399_1280__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYH/8QAKhAAAQMDAgQFBQAAAAAAAAAAAQIDEQAEIQUSBjFBYQcTFFGhFyIjNNH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQQF/8QAHREAAgICAwEAAAAAAAAAAAAAAQMAEQIxEoHhsf/aAAwDAQACEQMRAD8A3X1C0Eq/YuSSeXkKz81IHG2mFuUt6mpETIsnCI964+hbQfQfKckZCoO2O5irtlF4bQvafxI1Yo2A+leukFMSTglQWjn3rcajBYsffJkpdmw0TXXs3qvEHQkD7nLlJ725/tLPiJoMQHriOsMHPzWG064ZfbdtOILq3udiQWr1lxLqQT0WoZjvzHXFQNR0hVk6AUNFkzDgWkiPfBoWpWe7gzNuGqIlWx+cJcIQlSsCBy+aXfqLYSXdrqSMgiOtFFXUDuQciNRa9tuhvahGdplI2nIB5jNPdWWmklaUKUpQO4bhBjnkmiinUQJn/9k=
@@ -23,12 +24,11 @@ labels:
   - Wale
   - Walfang
 focusKeyword: Walfang
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Ende des Walfangs in Island?
+
 ---
 
 **Ein isländischer Walfangbetrieb gab bekannt, den Walfang für immer einzustellen. Die Regierung von Island hatte erst kürzlich eine Pause der Jagd auf Wale für die Dauer der Corona Krise ausgerufen.**

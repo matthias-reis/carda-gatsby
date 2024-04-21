@@ -1,15 +1,16 @@
 ---
 date: 2021-04-08T12:15:54.000Z
-slug: thot-interview
-path: /2021/04/thot-interview/
 type: Artikel
 typeName: Interview
 title: Grégoire von Thot im Interview
 seoTitle: Grégoire von Thot im Interview – 10 Jahre "Obscured By The Wind"
 ogTitle: Grégoire von Thot im Interview – 10 Jahre "Obscured By The Wind"
-description: Thot haben zum 10jährigen Jubiläum ihres Debütalbums "Obscured By The Wind" einiges geplant. Zeit für ein Interview mit der Post-Rock-Band.
-excerpt: English & German – Thot sollten den meisten, die sich mit Post-Rock beschäftigen, ein Begriff sein. Zum 10jährigen Jubiläum ihres Debütalbums "Obscured By The Wind" hat die Band aus Belgien so einige Highlights für uns geplant. Zeit für ein Interview mit der Post-Rock-Band.
-fileName: 2021-04---gregoire-von-thot-im-interview.md
+description: Thot haben zum 10jährigen Jubiläum ihres Debütalbums "Obscured By
+  The Wind" einiges geplant. Zeit für ein Interview mit der Post-Rock-Band.
+excerpt: English & German – Thot sollten den meisten, die sich mit Post-Rock
+  beschäftigen, ein Begriff sein. Zum 10jährigen Jubiläum ihres Debütalbums
+  "Obscured By The Wind" hat die Band aus Belgien so einige Highlights für uns
+  geplant. Zeit für ein Interview mit der Post-Rock-Band.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_thot-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_thot-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAABQABAwQGCP/EACkQAAIBAgMIAgMBAAAAAAAAAAECAwAEERIhBQYTIjFBUWEycRQVI4H/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHBEAAgMAAwEAAAAAAAAAAAAAAAECERIDITFx/9oADAMBAAIRAxEAPwDyyaY3Y2fbX17Ib65hgt4Yy/8AVsvFfoqA+STifQJrhLbIY4mMys0gzcOMZmUY4c3YfWtMbrXa2v7OBeE00kaG3SQ5SZRIvRtADkLjrr09UpJ56NONLa14BX0IhuGVfPbpWjCltrWNxaxs9yjo4bhkOpDA98R2ognEY0/gckcyqqF/yoo7CBljC3uDLny/ND0b0QQw09VmKwEWzZby65eLiEQD6IB8Y6f5r3FVVBEpN0hXeOS92nZxXO0r4ytZxJBw2QK4wUYYkfLl0zHwB2rrM6oFQKec64eBgNPvrVVUw8HNtvs//9k=
@@ -25,13 +26,12 @@ labels:
   - Thot
   - Vegetal Noise
 focusKeyword: Thot
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: 10 Jahre "Obscured By The Wind"
 languageLink: /2021/04/thot-interview-en
+
 ---
 
 **Thot sollten den meisten, die sich mit Post-Rock beschäftigen, ein Begriff sein. Zum zehnjährigen Jubiläum von Thots Debütalbum "Obscured By The Wind" hat die Band aus Belgien so einige Highlights für uns geplant. Zeit für ein Interview.**

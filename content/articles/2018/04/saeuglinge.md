@@ -1,15 +1,16 @@
 ---
 date: 2018-04-02T12:00:58.000Z
-slug: saeuglinge
-path: /2018/04/saeuglinge/
 type: Galerie
 typeName: Galerie
 title: Säuglinge
 seoTitle: Säuglinge - Eine Bildergalerie, die zum Nachdenken anregt
 ogTitle: Säuglinge - Eine Bildergalerie zum Nachdenken
-description: Säuglinge sind glücklich, wenn sie bei Ihrer Mutter sind. Diese Bildergalerie bestätigt das. Außerdem soll sie zum Nachdenken anregen. Ist mir das gelungen?
-excerpt: Säuglinge sind glücklich, wenn sie bei Ihrer Mutter sind. Diese Bildergalerie bestätigt das. Außerdem soll sie zum Nachdenken anregen. Ist mir das gelungen?
-fileName: 2018-04---saeuglinge.md
+description: Säuglinge sind glücklich, wenn sie bei Ihrer Mutter sind. Diese
+  Bildergalerie bestätigt das. Außerdem soll sie zum Nachdenken anregen. Ist mir
+  das gelungen?
+excerpt: Säuglinge sind glücklich, wenn sie bei Ihrer Mutter sind. Diese
+  Bildergalerie bestätigt das. Außerdem soll sie zum Nachdenken anregen. Ist mir
+  das gelungen?
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_monkey-2504308_640-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_monkey-2504308_640-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgT/xAApEAACAQMDBAEDBQAAAAAAAAABAgMEBREAEiEGEyIxQRRRgRUWI0Jh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EABwRAAICAgMAAAAAAAAAAAAAAAABAhEhMQMSUf/aAAwDAQACEQMRAD8AT/vLpmnhI/Vleoixvb6DY7sT5ALuyFGDwWyeNKb/ANe0NZ2YenIqiSRxvl+udFwQf6Y9nj0c+9dthnrC9Wlwoe7HIx2sYwGKeO3yxx6Ofn1pw9quUvT81Xb0hjkdGdqZotpVMHAz7PwfjUrnHwp7Vtsx0J0LLfYKi5XlKmltSIsNFFTQl5Z3fGZCuD/GOORjJzzgHM7ebFf6a5WGgttIyB5JYIoqlO5uYMSDINpBYAAEgYGT61bWmGmqbZSJNc7hup4SkMcTYPC4GT9x8HPGp3qGrt0tFLc6W5XKC59uQxytKDIsg4cZByPfweRpsuO2mgVKk0yipXMq7Y/AlSRu8wPwdLoauvorxW96qWokfJjkZCGjU58ByfHngDH50aNJjgzyiasdyeSKOGSNGUAfnH30h66uHZtqUqQoEy+CAAfIgnkD/Bo0arsB6P/Z
@@ -32,12 +33,11 @@ labels:
   - Welpen
   - Werbung
 focusKeyword: Säuglinge - Eine Bildergalerie zum Nachdenken
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Eine Bildergalerie zum Nachdenken
+
 ---
 
 **Mir geht es ja oft so: Ich sitze da und schreibe einen Artikel und während ich mich mit der Recherche beschäftige und sich das Textfeld im Blog langsam füllt, kommt mir plötzlich eine Idee für einen neuen Beitrag.**

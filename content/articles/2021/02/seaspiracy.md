@@ -1,12 +1,15 @@
 ---
 date: 2021-02-26T13:51:47.000Z
-slug: seaspiracy
 typeName: Filmtipp
 title: '"Seaspiracy" auf Netflix'
-subTitle: 'Der neue Film von Kip Andersen ("Cowspiracy")'
+subTitle: Der neue Film von Kip Andersen ("Cowspiracy")
 seoTitle: Seaspiracy auf Netflix – der neue Film von Kip Andersen (Cowspiracy)
-description: 'Mit "Seaspiracy" kommt nach "Cowspiracy" Kip Andersens zweite Tierrechtsdokumentation in Spielfilmlänge. Der Film ist ab 24.3. bei Netflix.'
-excerpt: '"Seaspiracy" ist nach "Cowspiracy" Kip Andersens zweite Tierrechtsdokumentation in Spielfilmlänge. Das Werk wird ab dem 24. März bei Netflix verfügbar sein. Ich stelle Euch die Doku hier auf Sounds Vegan vor. Den Trailer könnt Ihr natürlich auch direkt anschauen.'
+description: Mit "Seaspiracy" kommt nach "Cowspiracy" Kip Andersens zweite
+  Tierrechtsdokumentation in Spielfilmlänge. Der Film ist ab 24.3. bei Netflix.
+excerpt: '"Seaspiracy" ist nach "Cowspiracy" Kip Andersens zweite
+  Tierrechtsdokumentation in Spielfilmlänge. Das Werk wird ab dem 24. März bei
+  Netflix verfügbar sein. Ich stelle Euch die Doku hier auf Sounds Vegan vor.
+  Den Trailer könnt Ihr natürlich auch direkt anschauen.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-04-04/seaspiracy-soundsvegan-com-jpeg-imagine-c8c8c8_b3b3ad_1960_1470/640.webp
 copyright: edmondlafoto, Pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-04-04/seaspiracy-soundsvegan-com-og-jpg-imagine-b8b8b8_808987_1200_628/640.webp
@@ -21,10 +24,11 @@ labels:
   - vegane Dokumentation
   - Fischerei
   - Meer
-focusKeyword: 'Seaspiracy'
+focusKeyword: Seaspiracy
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **"Seaspiracy" ist nach "Cowspiracy" Kip Andersens zweite Tierrechtsdokumentation in Spielfilmlänge. Das Werk wird ab dem 24. März bei Netflix verfügbar sein.**

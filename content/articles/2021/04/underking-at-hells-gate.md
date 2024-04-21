@@ -1,7 +1,6 @@
 ---
 templateKey: article
 date: 2021-04-22T15:18:00.000Z
-slug: underking-at-hells-gate
 typeName: Review
 title: "\"At Hell's Gate\""
 subTitle: Das neue Underking Album
@@ -27,6 +26,7 @@ affiliate: false
 language: de
 languageLink: /2021/04/underking-at-hells-gate-en
 copyright: frankiethephotographer
+
 ---
 
 **Underking – das ist von Fantasy und Science-Fiction inspirierter Metal Sound aus Nottingham, England. Emotionsgeladen, hart und melodisch und dabei kein bisschen überladen.**

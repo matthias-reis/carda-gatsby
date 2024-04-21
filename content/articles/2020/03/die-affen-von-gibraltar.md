@@ -1,46 +1,44 @@
 ---
-date: 2020-03-23T15:23:46.000+00:00
-slug: die-affen-von-gibraltar
-path: "/2020/03/die-affen-von-gibraltar/"
+date: 2020-03-23T15:23:46.000Z
 type: Galerie mit Bild
 typeName: Galerie mit Bild
 title: Die Affen von Gibraltar
 seoTitle: Die Affen von Gibraltar - unser Besuch
 ogTitle: Die Affen von Gibraltar - unser Besuch
-description: Unsere Reise durch Südspanien führte uns in die britische Enklave Gibraltar.
-  Auf dem Felsen angekommen, lernten wir die wohl berühmtesten Affen kennen.
-excerpt: Unsere Reise durch Südspanien führte uns in die britische Enklave Gibraltar.
-  Auf dem Felsen angekommen, lernten wir die wohl berühmtesten Affen kennen.
-fileName: 2020-03---die-affen-von-gibraltar.md
+description: Unsere Reise durch Südspanien führte uns in die britische Enklave
+  Gibraltar. Auf dem Felsen angekommen, lernten wir die wohl berühmtesten Affen
+  kennen.
+excerpt: Unsere Reise durch Südspanien führte uns in die britische Enklave
+  Gibraltar. Auf dem Felsen angekommen, lernten wir die wohl berühmtesten Affen
+  kennen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-25-gibraltar-36__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-25-gibraltar-36__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKRAAAQMDAgQGAwAAAAAAAAAAAQIDBAAFESFBBiIjMRITMlFxkRVCYf/EABYBAQEBAAAAAAAAAAAAAAAAAAUEBv/EACARAAICAQQDAQAAAAAAAAAAAAECAAMhBBESEwUxUZH/2gAMAwEAAhEDEQA/AKy4w9b33X3WiplYSpzyQUrSSMabKBJ3x87VJ4atD715kTkoVGieIF12QrmaOcHl3OwGdq0WzswLtFTGuDYPTI8DgycdtMd9BSdyy2/iLia5Wq4PvtWe0oHlJ80pC3ykHQ/uoJwcHPehxV2Pn9iyMApA9yzSrclNggPJSQGumTupKtQfvT5NIJ8JDjZ5NMd85zTHgKcqTw0/a8OPNxASytQBIKVnpZJwSAB97gVMnsocsbdxiPutdQNutrSknUe4rSeO1ChOpjkGA66luZsAxKcGZFjdYulumNTUOqDKmX+mQCM5yMgq09ta5i5OxQ7Mt6JqFq8Mh2AHU4MjUKcQo+sEY0GP4KKKDZ+BwIrWSRvFvCN0mW6E9PXyNuXBWG+yighOVBPsDkE6ZNaVIkwvwEGJMQMKy8pKiR6dBnBB3P1RRVdChbzt9k+oPKoEz//Z
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_03_affen-gibraltar.png__l.jpg
 labels:
-- Affen Gibraltar
-- Affen von Gibraltar
-- Berberaffen
-- Concepión
-- Felsen Gibraltar
-- Felsen von Gibraltar
-- Fernweh
-- Gibraltar
-- Gibraltar Affen
-- Gibraltar Felsen
-- Gibraltarfelsen
-- Makaken
-- Margot
-- Slow Travel
-- serie:Spanien 2019
+  - Affen Gibraltar
+  - Affen von Gibraltar
+  - Berberaffen
+  - Concepión
+  - Felsen Gibraltar
+  - Felsen von Gibraltar
+  - Fernweh
+  - Gibraltar
+  - Gibraltar Affen
+  - Gibraltar Felsen
+  - Gibraltarfelsen
+  - Makaken
+  - Margot
+  - Slow Travel
+  - serie:Spanien 2019
 focusKeyword: Gibraltar
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Unser Besuch auf dem berühmten Felsen
 
 ---
+
 **Am 25. Juni letzten Jahres hatte uns unsere Reise durch Südspanien nach Gibraltar geführt. Trotz spannender Temperaturen wagten wir uns auf den Felsen und lernten dort die Affen von Gibraltar kennen. Ihr könnt sie in der Bildergalerie unter diesem Artikel bewundern.**
 
 "Heute habe ich auf dem Felsen von Gibraltar gesehen, wie ein größerer Affe einen winzigen Affen aus einem kleinen Affen rausgezogen hat. Der kleinste wurde anschließend liebevoll und etwas verwundert auf der Erde aufgenommen. Die Geburt fand zwischen hunderten von Touristen statt, die in allen Ecken herumwuselten und die Artgenossen der frisch gebackenen Familie fotografierten. Dabei waren sie so vertieft, dass sie dieses Wunder der Natur gar nicht bemerkten. Ich bin immer noch unglaublich fasziniert und kann es kaum fassen."

@@ -1,7 +1,6 @@
 ---
 templateKey: article
 date: 2021-04-20T08:21:57.573Z
-slug: speak-memory-interview-en
 typeName: Beitrag
 title: '"Adirondack"'
 subTitle: Speak, Memory guitarist Tim about their new EP
@@ -32,6 +31,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/04/speak-memory-interview
+
 ---
 
 **Speak, Memory describe themselves as "Somewhere between the limitless world building of early Explosions in the Sky and the mathy noodling of American Football". Sounds pretty exciting, doesn't it? The band from Oklahoma City is planning to release their new EP soon. Time for an interview!**

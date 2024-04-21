@@ -1,6 +1,5 @@
 ---
 date: 2022-11-02T15:55:38.298Z
-slug: vegan-junk-food-bar-köln
 typeName: Beitrag
 title: Vegan Junk Food Bar Köln
 subTitle: Vegane Restaurant-Kette aus den Niederlanden kommt nach Deutschland
@@ -25,7 +24,9 @@ focusKeyword: Vegan Junk Food Bar
 advertisement: false
 affiliate: false
 language: de
+
 ---
+
 **Köln hat jetzt eine Vegan Junk Food Bar! Das lange Warten hat sich also ausgezahlt! Es ist so weit und meine liebste Fast-Food-Kette aus den Niederlanden kommt endlich auch zu uns.**
 
 An das "Coming Soon"-Schild an der Tür kann ich mich auch noch erinnern. Jetzt ist die Vegan Junk Food Bar am Kölner Hohenzollernring 21-23 eingezogen. Die ersten veganen Burger wurden dort schon im September serviert.

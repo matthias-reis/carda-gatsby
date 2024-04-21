@@ -1,13 +1,14 @@
 ---
 date: 2017-11-21T17:22:58.000Z
-slug: franka-potente-peta
-path: /2017/11/franka-potente-peta/
 title: Franka Potente kämpft mit PETA für die Rechte der Tiere
 seoTitle: Franka Potente kämpft mit PETA für die Rechte der Tiere
 ogTitle: Franka Potente kämpft mit PETA für die Rechte der Tiere
-description: Franka Potente lebt vegan. Warum sie das tut, hat sie jetzt berichtet. Mit einem Film möchte sie auf das Leid der Schweine hinweisen. Zusammen mit PETA.
-excerpt: Franka Potente lebt vegan. Warum sie das tut, hat sie jetzt berichtet. Mit einem Film möchte sie auf das Leid der Schweine hinweisen. Zusammen mit PETA.
-fileName: 2017-11---franka-potente-kaempft-mit-peta-fuer-die-rechte-der-tiere.md
+description: Franka Potente lebt vegan. Warum sie das tut, hat sie jetzt
+  berichtet. Mit einem Film möchte sie auf das Leid der Schweine hinweisen.
+  Zusammen mit PETA.
+excerpt: Franka Potente lebt vegan. Warum sie das tut, hat sie jetzt berichtet.
+  Mit einem Film möchte sie auf das Leid der Schweine hinweisen. Zusammen mit
+  PETA.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_FRANKA__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_FRANKA__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACoQAAIBAwIGAgICAwAAAAAAAAECAwQFEQASBgcTISIxQVEUYTJSgaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAHhEBAAICAQUAAAAAAAAAAAAAAQACAxESEyEjMTL/2gAMAwEAAhEDEQA/AMJstKH/ADJCGaaGOORQB6G8BiT6Hx71O8xLalHfGngpmp4KmFJVHSKIx2jLLkYIPZu39hp9wr0aa1xwztuauldAFAzgYVgfsEfB+hrVOb1DBNywuQjQ5t7UVWhc7iu9zG5B+M5/1rObPViw8epUuVFlsFdw2am8W5q6ra4NTJmmmdSWWPpx7k7A+Mhx78v3plzJjs9HU2ibhulFNbKimLI3TZWkbxO5twyfB0P15dtc+V3Fdm4ctySXapr5KykrXrKOlhiVQH6W0kTMduG8cqwOGjQj2dRnNDiW0XeOyU1hlqXhoo5VbrQGLYCIURRknPaHdkdvID3nSmokkW0xOWdKlw4poaaqZ3jVfHJ/iN24j/J1eua3FDQcMcT238KJo5o7bRF95DAydabf9eJjxj9nv8aNGi+8xKnwzFaW8GhpWp2WoaORyWEdQYwQR6xg/XvTOtrZa+qV5pJ5EVh01mk6hUHuRnA/5o0aRXFQeYd4fib3P//Z
@@ -32,12 +33,11 @@ labels:
   - Tierschutz
   - vegan celebrities
 focusKeyword: Franka Potente
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Arme Sau - So leiden die Schweine
+
 ---
 
 **"Seit ich mich vegan ernähre, bin ich viel gesünder und [agiler](/2014/08/ich-war-so-muede/). Meine Haut ist besser und ich habe meine Freude am Kochen wiederentdeckt. Vegan zu leben, ist für mich eine große Bereicherung. Mir ist es wichtig, dass für mich kein anderes Lebewesen leiden muss oder getötet wird."**

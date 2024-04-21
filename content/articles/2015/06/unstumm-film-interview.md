@@ -1,15 +1,14 @@
 ---
-date: 2015-06-01T07:15:09.000+00:00
-slug: unstumm-film-interview
-path: '/2015/06/unstumm-film-interview/'
+date: 2015-06-01T07:15:09.000Z
 type: Artikel
 typeName: Interview
 title: '"Gute Argumente, Fleisch zu essen"'
 seoTitle: '"Gute Argumente, Fleisch zu essen" - Interview'
 ogTitle: '"Gute Argumente, Fleisch zu essen" - Interview'
-description: Alice und Hendrik von Unstumm Film machen Aufklärungsfilme zum Thema Tierschutz - ohne dabei ein Blatt vor den Mund zu nehmen.
-excerpt: Alice und Hendrik von Unstumm Film machen Aufklärungsfilme zum Thema Tierschutz - ohne dabei ein Blatt vor den Mund zu nehmen.
-fileName: 2015-06---gute-argumente-fleisch-zu-essen.md
+description: Alice und Hendrik von Unstumm Film machen Aufklärungsfilme zum
+  Thema Tierschutz - ohne dabei ein Blatt vor den Mund zu nehmen.
+excerpt: Alice und Hendrik von Unstumm Film machen Aufklärungsfilme zum Thema
+  Tierschutz - ohne dabei ein Blatt vor den Mund zu nehmen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-3__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACkQAAIBAwIEBQUAAAAAAAAAAAECAwAEBQYREhMhMUFRYXGBByIzQpH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAIE/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxEEIiH/2gAMAwEAAhEDEQA/ALvp7T1u8K8Sr28RU6+GtIQAIwfXbpRaGCyt+aZU4QPOpJM/i5tP3TLLG/IgaeQDfwcL7ePfuKFL2sGgyPzLWcIjMYCB4w5gKof226V0fS8BiJCKR7Uu51fj7bEXc8kjcELLE0rfjXcfaoPmQQdvKqnkPq1iLW1ISbmMB2UVcM5hslazKNLapu8rYRR3swPGvXh6VcobKO2tpVtLho1uIuXKqt0ZSQSD8gH4oooX8Ni/BFT2NaNsliYZraXmzF+LYsu/QkAAbj02H8rGtW38VlkFgUgqh37UUVp5GLE7B6EGif/Z
@@ -34,12 +33,11 @@ labels:
   - youtube
   - Zukunft ohne Massentierhaltung
 focusKeyword: Unstumm
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Interview mit Alice und Hendrik von Unstumm
+
 ---
 
 **Alice und Hendrik von Unstumm machen Aufklärungsfilme zum Thema Tierrechte  - ohne dabei ein Blatt vor den Mund zu nehmen. Die Filme werden auf YouTube veröffentlich. Im Anschluss verbreiten sie sich viral über das Netz. Die Themen sind vielfältig, die beiden Filmemacher sind immer offen für neue Ideen.**

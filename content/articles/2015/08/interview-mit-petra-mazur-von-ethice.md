@@ -1,15 +1,15 @@
 ---
 date: 2015-08-01T10:17:44.000Z
-slug: interview-mit-petra-mazur-von-ethice
-path: /2015/08/interview-mit-petra-mazur-von-ethice/
 type: Artikel
 typeName: Interview
 title: ethice Gründerin Petra Mazur
 seoTitle: Interview mit Tierschutzaktivistin und ethice Gründerin Petra Mazur
 ogTitle: Interview mit Tierschutzaktivistin und ethice Gründerin Petra Mazur
-description: Ich habe mich mit Petra Mazur, der Tierrechtlerin und Gründerin des veganen Online-Shops ethice zum Interview verabredet und wir haben uns toll unterhalten.
-excerpt: Ich habe Petra Mazur, Gründerin des Labels ethice und kreativen Kopf des ethice Online-Shops zum Interview getroffen.
-fileName: 2015-08---ethice-gruenderin-petra-mazur.md
+description: Ich habe mich mit Petra Mazur, der Tierrechtlerin und Gründerin des
+  veganen Online-Shops ethice zum Interview verabredet und wir haben uns toll
+  unterhalten.
+excerpt: Ich habe Petra Mazur, Gründerin des Labels ethice und kreativen Kopf
+  des ethice Online-Shops zum Interview getroffen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_website__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_website__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUD/8QAKhAAAgIABQMCBgMAAAAAAAAAAQIDBAAFERIhMUFxE2EGBxUiUfAUM0L/xAAYAQACAwAAAAAAAAAAAAAAAAABAwIEBf/EAB0RAAICAwEBAQAAAAAAAAAAAAECABEDEiEEMXH/2gAMAwEAAhEDEQA/AEanGk6LtkDAcFlOo8YsZVYbMqVloYVC1ozI+8nfp2A89fxjMtWVhj3RMBIq8Kv2j3PHnzjMyXMs/wDpd3LMnhtW4X5kEMbSNGGIBAI7Hpp05OmMxFJsxvjRWtn/ACMDsHjlWGpPJ/HjaxKRFqUjGhZm/AHcnFL6nUsRhalmNww10WQdT+9MM/yg+IbVfNrWT5lWYz2hopkZgq7SU2SRj+wFn02Eck89sbef/LDJqmk3ptlcPoOjg212151Q+mShH3I4U8hiQR74fj8qkXsbldsWhq7iPUNdL4a8kNlE6xy66E/51APT2x1msNDeazRWKmAoAWk5iAGp66Hnr3wYMJKdIuAOyjUHkjUsSw3kuQSSLbB3u6ux3uNDqdx/ecTz3OM2zYSnMbs8kUiqXjLgBu4JA6nk+MGDAXHR+mRrs//Z
@@ -27,12 +27,11 @@ labels:
   - vegan
   - Veganer
 focusKeyword: ethice
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
-subTitle: 'Es ist Zeit, dem Leiden der Tiere ein Gesicht zu geben!'
+subTitle: Es ist Zeit, dem Leiden der Tiere ein Gesicht zu geben!
+
 ---
 
 **Über einen netten Interviewpartner wurde mir vor Kurzem Petra Mazur, Gründerin des Labels ethice und kreativer Kopf des ethice Online-Shops vorgestellt.**

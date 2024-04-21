@@ -1,12 +1,18 @@
 ---
 date: 2024-04-08T11:30:12.086Z
-slug: pamela-anderson-i-love-you-recipes-from-the-heart
 typeName: Buchtipp
 title: '"I Love You: Recipes From The Heart"'
-subTitle: 'Pamela Anderson veröffentlicht veganes Kochbuch und kündigt Kochshow an'
-seoTitle: 'Pamela Anderson veröffentlicht veganes Kochbuch "I Love You: Recipes From The Heart"'
-description: 'Pamela Anderson veröffentlicht ihr veganes Kochbuch "I Love You: Recipes From The Heart" bereits im Oktober. Zudem hat sie eine eigene Kochshow angekündigt. Erfahrt jetzt alles über die Pläne der Schauspielin und Aktivistin.'
-excerpt: 'Pamela Anderson hat ein veganes Kochbuch geschrieben und kündigt zusammen mit der Veröffentlichung eine eigene Kochshow an. Die Schauspielerin und Tierrechtsaktivistin möchte mit dem Buch und der Show pflanzliche Lebensmittel und die Freude daran feiern.'
+subTitle: Pamela Anderson veröffentlicht veganes Kochbuch und kündigt Kochshow an
+seoTitle: 'Pamela Anderson veröffentlicht veganes Kochbuch "I Love You: Recipes
+  From The Heart"'
+description: 'Pamela Anderson veröffentlicht ihr veganes Kochbuch "I Love You:
+  Recipes From The Heart" bereits im Oktober. Zudem hat sie eine eigene Kochshow
+  angekündigt. Erfahrt jetzt alles über die Pläne der Schauspielin und
+  Aktivistin.'
+excerpt: Pamela Anderson hat ein veganes Kochbuch geschrieben und kündigt
+  zusammen mit der Veröffentlichung eine eigene Kochshow an. Die Schauspielerin
+  und Tierrechtsaktivistin möchte mit dem Buch und der Show pflanzliche
+  Lebensmittel und die Freude daran feiern.
 image: https://storage.googleapis.com/cardamonchai-media/2024-04-08/pamela-anderson-i-love-you-recipes-from-the-heart-soundsvegan-1-jpg-imagine-181818_55443c_1024_768/640.webp
 copyright: Pamela Anderson
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-04-08/pamela-anderson-i-love-you-recipes-from-the-heart-soundsvegan-og-jpg-imagine-181818_886a51_1200_628/640.webp
@@ -18,10 +24,11 @@ labels:
   - Bücher & Filme
   - vegan
   - Buchtipp
-focusKeyword: 'Pamela Anderson veganes Kochbuch'
+focusKeyword: Pamela Anderson veganes Kochbuch
 advertisement: false
 affiliate: true
 language: de
+
 ---
 
 **Die Schauspielerin und langjährige Tierrechtsaktivistin Pamela Anderson veröffentlicht im Oktober ihr veganes Kochbuch "I Love You: Recipes From The Heart". Es kann ab sofort vorbestellt werden und enthält die Lieblingsrezepte des Hollywood-Stars.**

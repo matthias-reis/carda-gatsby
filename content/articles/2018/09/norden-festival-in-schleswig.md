@@ -1,13 +1,12 @@
 ---
 date: 2018-09-03T08:20:33.000Z
-slug: norden-festival-in-schleswig
-path: /2018/09/norden-festival-in-schleswig/
 title: NORDEN Festival in Schleswig
 seoTitle: NORDEN Festival in Schleswig - Einfach mal in der Hängematte liegen
 ogTitle: NORDEN Festival in Schleswig - Einfach mal in der Hängematte liegen
-description: 'Es ist soweit. Das Warten hat ein Ende: Das NORDEN Festival läuft seit dem 30. August. Wir finden, der Besuch lohnt sich!'
-excerpt: 'Es ist soweit. Das Warten hat ein Ende: Das NORDEN Festival läuft seit dem 30. August. Wir finden, der Besuch lohnt sich!'
-fileName: 2018-09---norden-festival-in-schleswig.md
+description: "Es ist soweit. Das Warten hat ein Ende: Das NORDEN Festival läuft
+  seit dem 30. August. Wir finden, der Besuch lohnt sich!"
+excerpt: "Es ist soweit. Das Warten hat ein Ende: Das NORDEN Festival läuft seit
+  dem 30. August. Wir finden, der Besuch lohnt sich!"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29504059357_49e24defe7_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29504059357_49e24defe7_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYBBP/EACwQAAIBAwMDAgUFAQAAAAAAAAECAwQFEQASIQYTMQdRIjJBgZEUF2GhweH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMF/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECEQMhBAUSFEH/2gAMAwEAAhEDEQA/ANf0hBbqqJ6aPppqOt2NGGjhYbwffcffBznPGtpa4bbUUK2/ud+WMiWSNzsB2E4V8e2fGkL+4l6a9U/YGKY/p1VWpEJDsGDEqctzt4OeD/B1KnqL1ZVW6YrTIKlDC8jQ24RvG4fLRqSfjHAz54J85A0J9lie22RjhpVqhx3ylo4bQ9vq5Y6aGRGlhcAyPGScna3Hn5ftqCz0VLS9N1CyVEt0tjn4opKYp2ygzkYJbPPkD76Wlw9QOr6hzF2zS0qViBjTUoRjGWYHBbcGG3ad2MAn8eyD1M6qnWZaugosx4+NsxlxluRgnkAJnH1z76m+2wJX5AeNC7tl07ZYrtVR9Rjj+9W0d9kEahanPkeCxH/NGjWBLjwlJ2hzjXpsMZZW+Xzn8fXVbXXfcmFqcge7Z/3Ro1P14KWhfp//2Q==
@@ -31,12 +30,11 @@ labels:
   - Schweden
   - Skandinavien
 focusKeyword: NORDEN Festival
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Einfach mal in der Hängematte liegen
+
 ---
 
 **Es ist soweit. Das Warten hat ein Ende: Das NORDEN Festival läuft seit dem 30. August. Am Wochenende haben wir uns die Zeit genommen, hinzufahren und uns das Event mal anzuschauen.**

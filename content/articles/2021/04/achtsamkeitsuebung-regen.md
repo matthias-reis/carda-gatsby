@@ -1,6 +1,5 @@
 ---
 date: 2021-04-30T12:26:01.266Z
-slug: achtsamkeitsuebung-regen
 typeName: Beitrag
 title: Dankbar für den Regen sein
 subTitle: Achtsamkeitsübung im Frühling
@@ -24,6 +23,7 @@ focusKeyword: Achtsamkeitsübung
 affiliate: false
 language: de
 languageLink: /2021/04/mindfulness-exercise-rain
+
 ---
 
 **Heute habe ich endlich mal wieder eine kleine Achtsamkeitsübung vorbereitet. Sie passt perfekt zum Frühling. Es geht um ein ganz essenzielles Thema aus der Natur: Regen.**

@@ -1,12 +1,18 @@
 ---
 date: 2021-11-15T13:29:36.925Z
-slug: hamburger-stadttauben-interview
 typeName: Interview
 title: '"Die Stadttauben haben mehr Respekt verdient"'
 subTitle: Interview mit Hamburger Stadttauben e. V. Gründungsmitglied Andrea
 seoTitle: Hamburger Stadttauben e. V. Gründungsmitglied Andrea Interview
-description: Ich habe mich jetzt mit dem Gründungsmitglied des Hamburger Stadttauben e. V. Andrea zu Interview verabredet und dabei einiges über Tauben, ihre Herkunft und ihr trauriges Schicksal erfahren.
-excerpt: Vor einiger Zeit habe ich Euch den Hamburger Stadttauben e. V. vorgestellt. Der Verein kümmert sich bei uns in Hamburger um das Wohlergehen der viel gehassten Stadttauben und betreibt Aufklärung über das traurige Schicksal der Tauben in unseren Städten und wie wir ihnen helfen können. Ich habe mich jetzt mit Gründungsmitglied Andrea zu Interview verabredet und dabei einiges über die Tiere gelernt.
+description: Ich habe mich jetzt mit dem Gründungsmitglied des Hamburger
+  Stadttauben e. V. Andrea zu Interview verabredet und dabei einiges über
+  Tauben, ihre Herkunft und ihr trauriges Schicksal erfahren.
+excerpt: Vor einiger Zeit habe ich Euch den Hamburger Stadttauben e. V.
+  vorgestellt. Der Verein kümmert sich bei uns in Hamburger um das Wohlergehen
+  der viel gehassten Stadttauben und betreibt Aufklärung über das traurige
+  Schicksal der Tauben in unseren Städten und wie wir ihnen helfen können. Ich
+  habe mich jetzt mit Gründungsmitglied Andrea zu Interview verabredet und dabei
+  einiges über die Tiere gelernt.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/stadttauben-jpg-imagine-383838_8c8177_1024_768/640.webp
 copyright: Andrea privat
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/stadttauben-fb-png-imagine-484848_9d9082_1200_628/640.webp
@@ -25,6 +31,7 @@ focusKeyword: Stadttauben
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Vor einiger Zeit habe ich Euch den Hamburger Stadttauben e. V. vorgestellt. Der Verein kümmert sich bei uns in Hamburger um das Wohlergehen der viel gehassten Stadttauben und betreibt Aufklärung über das traurige Schicksal der Tauben in unseren Städten und wie wir ihnen helfen können. Ich habe mich jetzt mit Gründungsmitglied Andrea zu Interview verabredet und dabei einiges über die Tiere gelernt.**

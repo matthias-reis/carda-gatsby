@@ -1,26 +1,24 @@
 ---
 ogTitle: Matze bloggt über den G20 Gipfel - So haben wir den G20 Gipfel erlebt
-excerpt: Matze hat für den Volksverpetzer einen Artikel über den G20 Gipfel hier in Hamburg verfasst. Darin schildert er nicht nur unsere Erlebnisse.
+excerpt: Matze hat für den Volksverpetzer einen Artikel über den G20 Gipfel hier
+  in Hamburg verfasst. Darin schildert er nicht nur unsere Erlebnisse.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2017_07_19942836_1912374132335861_9174963676286235512_o__l.jpg
 isAffiliate: false
-path: /2017/07/g20-gipfel/
 remoteLoadingImage: data:image/jpeg;base64,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
 isWerbung: false
-fileName: 2017-07---matze-bloggt-ueber-den-g20-gipfel.md
-slug: g20-gipfel
-errors: {}
 date: 2017-07-08T20:18:48.000Z
 focusKeyword: G20 Gipfel
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.27.40.png__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.27.40.png__m.jpg
 title: Matze bloggt über den G20 Gipfel
 subTitle: So erlebten wir Hamburger die Krawalle
 seoTitle: Matze bloggt über den G20 Gipfel - So haben wir den G20 Gipfel erlebt
-description: Matze hat für den Volksverpetzer einen Artikel über den G20 Gipfel hier in Hamburg verfasst. Darin schildert er nicht nur unsere Erlebnisse.
+description: Matze hat für den Volksverpetzer einen Artikel über den G20 Gipfel
+  hier in Hamburg verfasst. Darin schildert er nicht nur unsere Erlebnisse.
 labels:
   - Antifaschismus & Feminismus
 language: de
+
 ---
 
 **Wie ich Euch schon [erzählt habe](/2017/07/nog20/), bat mich der liebe Thomas vom _Volksverpetzer_ um einen Beitrag zum Thema G20 Gipfel. In dem ganzen Trubel fiel es mir zugegebenermaßen schwer, objektiv zu bleiben, was Euch sicher in meinen beiden Artikeln zum Thema aufgefallen ist.**

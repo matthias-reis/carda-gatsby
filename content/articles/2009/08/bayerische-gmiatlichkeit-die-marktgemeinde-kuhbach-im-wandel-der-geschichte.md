@@ -1,13 +1,12 @@
 ---
 date: 2009-08-30T07:14:41.000Z
-slug: bayerische-gmiatlichkeit-die-marktgemeinde-kuhbach-im-wandel-der-geschichte
-path: /2009/08/bayerische-gmiatlichkeit-die-marktgemeinde-kuhbach-im-wandel-der-geschichte/
 title: Kühbach
 seoTitle: Die Marktgemeinde Kühbach im Wandel der Geschichte
 ogTitle: Die Marktgemeinde Kühbach im Wandel der Geschichte
-description: Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und dem Paartal. Das Wahrzeichen von Kühbach das Schloss Kühbach
-excerpt: Der Markt Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und dem Paartal.
-fileName: 2009-08---kuehbach.md
+description: Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und
+  dem Paartal. Das Wahrzeichen von Kühbach das Schloss Kühbach
+excerpt: Der Markt Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg
+  und dem Paartal.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_08_14363293989_5d3d44bc8a_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_08_14363293989_5d3d44bc8a_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDCP/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQFESEABhITFCIkMkFRMWFxgaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECIRESIjEy/9oADAMBAAIRAxEAPwDEqPtOryZnbyKLU0qdjuKZ9Mv3C1lfsC+tHpe1JVPoSosGj1ru+7bWX3IPILbv5i3LHxj6xpgpzG8233UrfiJUqG8lggRyOr1G7HCSfZyGbj8Y11qUnd0Dbja5FXhMS2Jb6XnHHGQEpWGiwCen9JcvgXBzrR2ssFXQl7h2I7OrCZcChVhiN1k8mVxSA40FfBCvE2x86RXdl7lsVo2/VOmSeJLByLnXoZ0bncRDXFlNONttQkPFKm8ONq9Tjjnl8fV8W1XTYe8FS6l15NOEJTUztVBbXIqUVFgqHHHEEX/2+jOqH6YpU+qKhzGGXt3SkvPRnW0vIZc8D1ELuLEH2oUn+9RN3VpmrbFn0qn1mTUKg/VBKbfeDiFKYDZSUkqJ9p8bE5vfRo1EnWo408l3P3JBkuPyom659NZjhodqyy8QFIN1KFlAeYxa3wNQ5NZjyJTs1O6pa48juXEsrZdAQl3l0x+TlHIW/jFtGjVPkrFGrP/Z
@@ -19,12 +18,11 @@ labels:
   - Fotos Bayern
   - Kühbach
 focusKeyword: Kühbach
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Bayerische Gemütlichkeit
+
 ---
 
 **Der Markt Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und dem Paartal.**

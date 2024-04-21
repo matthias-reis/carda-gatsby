@@ -1,12 +1,14 @@
 ---
 date: 2022-11-03T16:25:26.044Z
-slug: ef-interview-en
 typeName: Interview
 title: Interview with Swedish Post-Rock Pioneers EF
 subTitle: '"Our new Album just happened"'
 seoTitle: Interview with post-rock band EF about the new album
-description: Want to know more about the new EF album "We Salute You, You and You!"? Read my interview!
-excerpt: EF are back, and they brought a new album with them! After their hiatus, the Swedes landed a 10/10 with "We Salute You, You and You!". Drumroll! I asked them for an interview, and they said yes!
+description: Want to know more about the new EF album "We Salute You, You and
+  You!"? Read my interview!
+excerpt: EF are back, and they brought a new album with them! After their
+  hiatus, the Swedes landed a 10/10 with "We Salute You, You and You!".
+  Drumroll! I asked them for an interview, and they said yes!
 image: https://storage.googleapis.com/cardamonchai-media/2022-11-03/ef-interview-jpeg-imagine-e8e8e8_a29f99_1024_768/640.webp
 copyright: EF
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-11-03/ef-interview-fb-jpeg-imagine-f8f8f8_afafaf_1200_628/640.webp
@@ -24,6 +26,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/11/ef-interview/
+
 ---
 
 **EF are back, and they brought a new album with them! After their hiatus, the Swedes landed a 10/10 with "We Salute You, You and You!". Drumroll! I asked them for an interview, and they said yes!**

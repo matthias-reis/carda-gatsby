@@ -1,13 +1,12 @@
 ---
 date: 2019-09-16T10:42:29.000Z
-slug: das-sterben-der-eintagskueken
-path: /2019/09/das-sterben-der-eintagskueken/
 title: Das Sterben der Eintagsküken
 seoTitle: 100.000 Küken werden pro Tag getötet - Grausame Hühnerzucht
 ogTitle: 100.000 Küken werden pro Tag getötet - Grausame Hühnerzucht
-description: 45 Millionen männliche Hühnerküken werden pro Jahr alleine in Deutschland getötet. Weltweit sind es mehr als 100.000 pro Tag.
-excerpt: 45 Millionen männliche Hühnerküken werden pro Jahr alleine in Deutschland getötet. Weltweit sind es mehr als 100.000 pro Tag.
-fileName: 2019-09---das-sterben-der-eintagskueken.md
+description: 45 Millionen männliche Hühnerküken werden pro Jahr alleine in
+  Deutschland getötet. Weltweit sind es mehr als 100.000 pro Tag.
+excerpt: 45 Millionen männliche Hühnerküken werden pro Jahr alleine in
+  Deutschland getötet. Weltweit sind es mehr als 100.000 pro Tag.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_kueken-timo-stammberger-albert-schweitzer-stiftung-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_kueken-timo-stammberger-albert-schweitzer-stiftung-4__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMEBgcBAgX/xAApEAABAwIFBAICAwAAAAAAAAABAgMEBREABhITIQciMUEUURWBI2Fx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAfEQACAgICAwEAAAAAAAAAAAABAgARAyESYTFBcYH/2gAMAwEAAhEDEQA/AFuilJTTjmSBV3qZ8mdMQI0UvtPpcTpUtRTbVftIuPPHjCXXKjz22KTFyxFiMTYq0SjshtuyjqQkgGybBPnjgYnEjJtJjooVSdcahSoBQgtMMnbkoa7QkaQDcffu4BxGs1KdrUt5H4tCGw6pKHFvNNvMkLA21IWDfnSSCQBcW8YBmIUa0e4xMfJjXn5MdO6MXqjOfnwYq0GHGaYfcCHButLWHBxcX7gf0cHVaIqK7CjwY7CJEqI60Xm9tKWnNRIWoG339Y62UpJcZi0RUH4KnAGI7rLqHEqNtRKgnkX5J4sb/wBcO865Um5npbcaHTGhVW3FLfW4GkpUvQUpWpRHNx28XtwfWFYnZgUcVuh37uHkx8WsftzeRVE1XppQ8w1KPeYuUA4mOraTqbUu5TcHSFKTqI/wX4xWeapcedJXJbjONyHVlbzjrxdLij7NwLfrBgxW2jUmXYsxpl2oCmTC+lL25aySy7tEXBB5AJ5BI9YvXp83UJuU48qoVqoy3nlLU2XVj+NGsgJNgCq335wYMdSZp//Z
@@ -26,12 +25,11 @@ labels:
   - Tierrechte
   - Tierschutz
 focusKeyword: Küken
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Grausame Hühnerzucht
+
 ---
 
 **45 Millionen männliche Hühnerküken werden pro Jahr alleine in Deutschland getötet. Weltweit sind es mehr als 100.000 pro Tag.**

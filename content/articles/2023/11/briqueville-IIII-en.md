@@ -1,14 +1,17 @@
 ---
 date: 2023-11-27T10:00:00.766Z
-slug: briqueville-iiii-en
 typeName: Review
-title: 'Briqueville – "IIII"'
+title: Briqueville – "IIII"
 subTitle: Dark Doom Sounds from the Underworld
 seoTitle: Post-Metal Review – Briqueville – "IIII"
-description: 'The new Briqueville album, "IIII", is out! Check it out here, and take advantage of their mystery and gloom!'
-excerpt: 'With their new album, "IIII", Briqueville delivered nothing less than the soundtrack of the year. The five pieces are of heavy darkness and bittersweet beauty. Listen to it right here and maybe find out some of the band‘s secrets.'
+description: The new Briqueville album, "IIII", is out! Check it out here, and
+  take advantage of their mystery and gloom!
+excerpt: With their new album, "IIII", Briqueville delivered nothing less than
+  the soundtrack of the year. The five pieces are of heavy darkness and
+  bittersweet beauty. Listen to it right here and maybe find out some of the
+  band‘s secrets.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-27/briqueville-iiii-png-imagine-181818_494949_1024_768/640.webp
-copyright: 'Briqueville'
+copyright: Briqueville
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-27/briqueville-iiii-og-png-imagine-181818_383839_1200_628/640.webp
 labels:
   - Band
@@ -27,6 +30,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/11/briqueville-iiii/
+
 ---
 
 **Briqueville released a dark soundtrack of the last few months with their new album, "IIII". They already shared the five pieces with the world at the beginning of November, but I would still like to recommend them here. If you already have the record—listen to it. If you don't know it yet—go and get it right now!**

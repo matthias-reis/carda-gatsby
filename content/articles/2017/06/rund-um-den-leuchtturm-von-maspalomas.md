@@ -1,15 +1,16 @@
 ---
-date: 2017-06-20T07:56:21.000+00:00
-slug: rund-um-den-leuchtturm-von-maspalomas
-path: '/2017/06/rund-um-den-leuchtturm-von-maspalomas/'
+date: 2017-06-20T07:56:21.000Z
 type: Galerie
 typeName: Galerie
 title: Maspalomas Leuchtturm
 seoTitle: Rund um den Leuchtturm von Maspalomas - Tauben, Warane und Rhodotentron
 ogTitle: Rund um den Leuchtturm von Maspalomas - Tauben, Warane und Rhodotentron
-description: Rund um den Leuchtturm von Maspalomas summt, flattert u. flaniert es. Ich möchte Euch gern eine paar Details verraten. Und meine große Bildergalerie zeigen.
-excerpt: Rund um den Leuchtturm von Maspalomas summt, flattert u. flaniert es. Ich möchte Euch gern eine paar Details verraten. Und meine große Bildergalerie zeigen.
-fileName: 2017-06---maspalomas-leuchtturm.md
+description: Rund um den Leuchtturm von Maspalomas summt, flattert u. flaniert
+  es. Ich möchte Euch gern eine paar Details verraten. Und meine große
+  Bildergalerie zeigen.
+excerpt: Rund um den Leuchtturm von Maspalomas summt, flattert u. flaniert es.
+  Ich möchte Euch gern eine paar Details verraten. Und meine große Bildergalerie
+  zeigen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34579820584_5575b7ec2c_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34579820584_5575b7ec2c_k__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAJhAAAgECBQQDAQEAAAAAAAAAAQIDBBEABRIhMQYTIoFBUWEHof/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERMVH/2gAMAwEAAhEDEQA/AM+p3XHjA5H2dhjmqpqgb2i08XB1WxP0mR53n8ki5dllQ6RgFmchEQXt8m1/znEjmfRiZZCqZlK/fK6tSupU7X5FwB7wZ6u8JEUNRV1lPT6yDPIsanjk2v6vi/Mvyh6anhSihLLAjLHTMwOnSfHx43Hl7OKqkoUpKujBM0RlYLFqhuraiALEfuNB1BahlkLxzyP2wkUIUszICBcfYIsb7YKYTM/6Sz2jyhTkOcS1siSmVqdYhFsOCBfcj99Yj+mun+oahTUVfT9JWSWvGcwtEQCb3PkP9X6wYMVUMVf/AD6CpoKaTvUlAqSCSSl198JZrkI4A2PxcbYa1qFESalVpLsWZLgHna3ztgwYLdOY/9k=
@@ -33,14 +34,13 @@ labels:
   - Warane
   - serie:Gran Canaria 2017
 focusKeyword: Leuchtturm von Maspalomas
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Tauben, Warane und Rhododentronblüten
-year: '2017'
-month: '06'
+year: "2017"
+month: "06"
+
 ---
 
 **Rund um den Leuchtturm von Maspalomas (span. "Faro de Maspalomas") blüht und summt es im Sonnenmonat Mai, dass es eine Wonne ist. Die Rhododentronblüten strahlen mit den Geranien um die Wette.**

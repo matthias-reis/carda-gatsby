@@ -1,14 +1,18 @@
 ---
 date: 2024-02-19T13:00:12.086Z
-slug: hope-for-the-day
-typeName:
+typeName: null
 title: '"It‘s OK not to be OK"'
-subTitle: 'Hope for the Day'
+subTitle: Hope for the Day
 seoTitle: 'Hope for the Day: "It‘s OK not to be OK"'
-description: 'Hope for the Day rettet durch Aufklärung Leben. Holt Euch jetzt alle Infos darüber, wie ihr mit T-Shirts und Spenden Menschen mit psychischen Erkrankungen helfen könnt.'
-excerpt: 'Hope for the Day ist eine Organisation, die Menschen mit psychischen Erkrankungen wie Depressionen oder Sucht hilft. Das gelingt vor allem durch Aufklärung und Vernetzung. In diesem Artikel zeige ich Euch, wie Ihr auch helfen könnt und teile einige wichtige Fakten über H.F.T.D. mit Euch.'
+description: Hope for the Day rettet durch Aufklärung Leben. Holt Euch jetzt
+  alle Infos darüber, wie ihr mit T-Shirts und Spenden Menschen mit psychischen
+  Erkrankungen helfen könnt.
+excerpt: Hope for the Day ist eine Organisation, die Menschen mit psychischen
+  Erkrankungen wie Depressionen oder Sucht hilft. Das gelingt vor allem durch
+  Aufklärung und Vernetzung. In diesem Artikel zeige ich Euch, wie Ihr auch
+  helfen könnt und teile einige wichtige Fakten über H.F.T.D. mit Euch.
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-19/hope-for-the-day-impericon-soundsvegan-com-1-jpg-imagine-080808_4c4c69_1024_768/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-19/hope-for-the-day-impericon-soundsvegan-com-og-jpg-imagine-080808_3f4267_1200_628/640.webp
 labels:
   - Hope for the Day
@@ -20,10 +24,11 @@ labels:
   - Fair Fashion & Beauty
   - Merch
   - Hope for the Day Merch
-focusKeyword: 'Hope for the Day'
+focusKeyword: Hope for the Day
 advertisement: false
 affiliate: true
 language: de
+
 ---
 
 **CW:** Psychische Erkrankungen, Selbsttötung, Sucht, Mental Health

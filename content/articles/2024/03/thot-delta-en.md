@@ -1,14 +1,16 @@
 ---
 date: 2024-03-08T11:00:00.766Z
-slug: thot-delta-en
 typeName: Preview
 title: '"Delta"'
 subTitle: Thot are joining Pelagic with new Album
-seoTitle: 'Thot are joining Pelagic Records with new album "Delta"'
-description: 'Thot are joining Pelagic Records! Find out everything about the groundbreaking fusion and the new Thot album "Delta" here!'
-excerpt: 'Thot are joining Pelagic Records! It‘s finally offical! One of my favorite post-music bands of all times is joining one of my favourite labels of all times! Please enjoy the outcome and listen to their new album "Delta"!'
+seoTitle: Thot are joining Pelagic Records with new album "Delta"
+description: Thot are joining Pelagic Records! Find out everything about the
+  groundbreaking fusion and the new Thot album "Delta" here!
+excerpt: Thot are joining Pelagic Records! It‘s finally offical! One of my
+  favorite post-music bands of all times is joining one of my favourite labels
+  of all times! Please enjoy the outcome and listen to their new album "Delta"!
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-08/thot-soundsvegan-com-jpg-imagine-080808_332033_1024_768/640.webp
-copyright: 'Thot'
+copyright: Thot
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-03-08/thot-sounds-vegan-com-og-jpg-imagine-080808_392539_1200_628/640.webp
 labels:
   - Band
@@ -23,11 +25,12 @@ labels:
   - Pelagic Records
   - Pelagic
   - Experimental
-focusKeyword: 'Thot are joining Pelagic Records'
+focusKeyword: Thot are joining Pelagic Records
 advertisement: false
 affiliate: false
 language: en
 languageLink: /2024/03/thot-delta/
+
 ---
 
 **"Delta" unlocks the next level for the Belgian post-music band Thot. It will be released on 10th March on the Berlin cult label Pelagic! Being a fan since the early days, I have all the essential insights ready for you, and you have the change to listen to the first pre-released song today!**

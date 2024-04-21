@@ -1,13 +1,14 @@
 ---
 date: 2019-08-26T12:38:32.000Z
-slug: feuer-im-regenwald-amazonas
-path: /2019/08/feuer-im-regenwald-amazonas/
 title: Feuer im Amazonas
 seoTitle: Feuer im Amazonas - Umweltkatastrophe durch Konsum
 ogTitle: Feuer im Amazonas - Umweltkatastrophe durch Konsum
-description: Brasilien, Paraguay und Bolivien befinden sich unter einer Rauchglocke. Der Regenwald brennt. Es ist eine Naturkatastrophe von bisher unbekanntem Ausmaß.
-excerpt: Brasilien, Paraguay und Bolivien befinden sich unter einer Rauchglocke. Der Regenwald brennt. Es ist eine Naturkatastrophe von bisher unbekanntem Ausmaß.
-fileName: 2019-08---feuer-im-amazonas.md
+description: Brasilien, Paraguay und Bolivien befinden sich unter einer
+  Rauchglocke. Der Regenwald brennt. Es ist eine Naturkatastrophe von bisher
+  unbekanntem Ausmaß.
+excerpt: Brasilien, Paraguay und Bolivien befinden sich unter einer Rauchglocke.
+  Der Regenwald brennt. Es ist eine Naturkatastrophe von bisher unbekanntem
+  Ausmaß.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_fire-2197606_1280__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_fire-2197606_1280__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBQf/xAAoEAABAwMDAgYDAAAAAAAAAAABAgMRBAUhAAYSMUETFCJRYXEVMpH/xAAYAQACAwAAAAAAAAAAAAAAAAACBQAEBv/EACMRAAEEAQMEAwAAAAAAAAAAAAEAAgMRBCExoQUyQfASscH/2gAMAwEAAhEDEQA/AJj8vFvFSHEq5OlopBymADJ+DJj6OmGjpFvO0DC1Jd82lDonJSIgIGMZz7dPvW/QWpu4bB26wkmF1q3nmWACt6VFIOSPUAkpA+fnT5tbbopq+2OMtuPpoWlMFynIJd8SYlJP6iUiR6ge2keXnhoI8gnjblaTCwbpx2oc78JF39ZarbNPaawVCltvqKFpS5xJLcEIUnIMCM956a51WPrqql6oejxHVlaoECSZONVduq0UF823UWWtUkV45kgpBLbsgBUdQCTgjrnUwXKjqF15TUPMeZKVhY5gQW5Tx+zwwO8j31OkZQlYQ/uH0g6vC5rrb2nx77qmNN1XZn6K30iOTLNUpI8VZV0lMjpGVqVjvGnG/wC5avaFzfs622a5laUJCwC2pBAwRlUxxETJBkz20aNG6FkjmB4uwbQiZ8Yd8DVV+JFuO7rj+cXWWtxy1vhsMOGkcUlLnEnJH8x751lbjv67/cBW1FKyzWlCEvOtEgOqSAnnxJgEgAmMTo0avxQxtogagJfNM9xonQlf/9k=
@@ -29,12 +30,11 @@ labels:
   - Sao Paolo
   - vegan
 focusKeyword: Feuer im Regenwald
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Umweltkatastrophe durch Konsum
+
 ---
 
 **Brasilien, Paraguay und Bolivien befinden sich im Moment unter einer Rauchglocke. Der Regenwald brennt. Es ist eine Naturkatastrophe von bisher unbekanntem Ausmaß.**

@@ -1,12 +1,15 @@
 ---
 date: 2021-06-23T16:46:22.808Z
-slug: kollapse-sult
 typeName: Review
 title: Kollapse – "Sult"
 subTitle: Sludge/Post-Metal Sound aus Dänemark
 seoTitle: Kollapse – "Sult" – Sludge/Post-Metal Sound aus Dänemark
-description: Am Freitag veröffentlichen Kollapse ihr zweites Album Platte "Sult". Ich habe schon mal reingehört und meine Eindrücke aufgeschrieben.
-excerpt: Kollapse sind wieder da. Vier Jahre haben sie sich nach ihrem Debütalbum "Angst" Zeit gelassen – am Freitag veröffentlicht die Sludge/Post-Metal Gruppe aus dem dänischen Aalborg ihre zweite Platte. Sie trägt den Namen "Sult" und ist mehr als nur hörbar.
+description: Am Freitag veröffentlichen Kollapse ihr zweites Album Platte
+  "Sult". Ich habe schon mal reingehört und meine Eindrücke aufgeschrieben.
+excerpt: Kollapse sind wieder da. Vier Jahre haben sie sich nach ihrem
+  Debütalbum "Angst" Zeit gelassen – am Freitag veröffentlicht die
+  Sludge/Post-Metal Gruppe aus dem dänischen Aalborg ihre zweite Platte. Sie
+  trägt den Namen "Sult" und ist mehr als nur hörbar.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-jpg-imagine-f8f8f8_7c7c7c_1024_768/640.webp
 copyright: Kollapse
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kollapse-fb-jpg-imagine-686868_686462_1200_628/640.webp
@@ -28,6 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/06/kollapse-sult-en
+
 ---
 
 **Kollapse sind wieder da. Vier Jahre haben sie sich nach ihrem Debütalbum "Angst" Zeit gelassen – am Freitag veröffentlicht die Sludge/Post-Metal Gruppe aus dem dänischen Aalborg ihre zweite Platte. Sie trägt den Namen "Sult" und ist mehr als nur hörbar.**

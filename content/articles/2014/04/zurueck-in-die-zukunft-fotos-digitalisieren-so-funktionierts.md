@@ -1,17 +1,18 @@
 ---
-date: 2014-04-04T16:33:07.000+00:00
-slug: zurueck-in-die-zukunft-fotos-digitalisieren-so-funktionierts
-path: '/2014/04/zurueck-in-die-zukunft-fotos-digitalisieren-so-funktionierts/'
+date: 2014-04-04T16:33:07.000Z
 title: Zurück in die Zukunft
 seoTitle: Zurück in die Zukunft - Fotos digitalisieren - So funktionierts
 ogTitle: Zurück in die Zukunft - Fotos digitalisieren - So funktionierts
-description: Zurück in die Zukunft dank moderner Technik. Heute zeige ich Euch, wie Ihr mit Hilfe von Photoshop und Lightroom Eure alten Bilder digitalisieren könnt.
-excerpt: Zurück in die Zukunft dank moderner Technik. Heute zeige ich Euch, wie Ihr mit Hilfe von Photoshop und Lightroom Eure alten Bilder digitalisieren könnt.
-fileName: 2014-04---zurueck-in-die-zukunft.md
+description: Zurück in die Zukunft dank moderner Technik. Heute zeige ich Euch,
+  wie Ihr mit Hilfe von Photoshop und Lightroom Eure alten Bilder digitalisieren
+  könnt.
+excerpt: Zurück in die Zukunft dank moderner Technik. Heute zeige ich Euch, wie
+  Ihr mit Hilfe von Photoshop und Lightroom Eure alten Bilder digitalisieren
+  könnt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_04_13623142393_0c6905dd4f_z-e1396627768489__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_04_13623142393_0c6905dd4f_z-e1396627768489__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYH/8QAJxAAAgEEAgEDBAMAAAAAAAAAAQIDAAQREgUhEzFBgQYyUWGRsdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCuFmRDHI0GiMcgqQVb5FOngNnH5ZoTFJKhkjJOeslScH5GKfx97bz8fNAsUcIOoETqEZskklWHQx+zUax4qaMy+baRVcJGpYsup72BH+e+a2agWD8jPLYStLbL4mLBZAVfXBHXpjJFVx4g8Z5JHM8RiZNCpTDbE9g/FXP0zZzxS3LBAiZaPOwx0e1AIyc9d4FaB7YTRNDPbxyROQWRlXsjOP7oOYtE7KcFQMfumW0UwYayFVJ9FJGKKKo1thDykdvB4LmIRFQRtgn8+6mp3F2nLSWNu6XMGhQfdgk/ypooqI//2Q==
-ogImage:
+ogImage: null
 labels:
   - Achtsamkeit
   - alte Bilder digitalisieren
@@ -30,14 +31,13 @@ labels:
   - photoshop tutorial
   - Polaroid
 focusKeyword: Zurück in die Zukunft
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Fotos digitalisieren mit Photoshop und Lightroom
-year: '2014'
-month: '04'
+year: "2014"
+month: "04"
+
 ---
 
 **Schon seit Jahren habe ich eine Kiste mit alten Fotos in meinem Kleiderschrank stehen, die ich bei meinen Eltern auf dem Dachboden aufgestöbert habe. Seit ich die Kiste entdeckt habe, habe ich mir vorgenommen, da irgendwann mal ein Album draus zu machen. Zuerst dachte ich daran, die Bilder "ganz normal" in ein Album einzukleben und dieses meinen Eltern eines Tages zu überreichen.**

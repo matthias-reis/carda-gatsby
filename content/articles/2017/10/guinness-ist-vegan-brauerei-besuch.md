@@ -1,13 +1,14 @@
 ---
-date: 2017-10-17T15:42:56.000+00:00
-slug: guinness-ist-vegan-brauerei-besuch
-path: '/2017/10/guinness-ist-vegan-brauerei-besuch/'
+date: 2017-10-17T15:42:56.000Z
 title: Guinness ist vegan!
 seoTitle: Guinness ist vegan! Wir haben die Brauerei in Dublin besucht
 ogTitle: Guinness ist vegan! Wir haben die Brauerei in Dublin besucht
-description: 'Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir haben die Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen wieder vegan!'
-excerpt: 'Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir haben die Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen wieder vegan!'
-fileName: 2017-10---guinness-ist-vegan.md
+description: "Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir
+  haben die Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen
+  wieder vegan!"
+excerpt: "Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir haben
+  die Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen wieder
+  vegan!"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcCCP/EACwQAAEDAgUCBQQDAAAAAAAAAAECAwQFEQAGEiExBxMUIkFCUTJhcYGRorH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AnoPR2kSu3Iq0yQ+7YeVtpCU/21HHXUfphQ6dlMO00hnRMYLxdaSVFsr0qHlAHuHIwlofXFM20SJRX/FBslLbkoELI5AsPje3rim5z6k1vNsuNTV9iLSvElKmYwUQ9p4Klnc25sLDAem4uW6FEgJiQoccMoKilIbQNiTsbJvYDYfjFL6gZVgros9TUOKVFlQTqaSbG3PGMEy51Gz1T4S4lOqr8tMdOgNPtIfKANhYqGq23zhnm7NuaKpeKuoSmYa1glu6WtaQNRSU/UQCNzxuMBmLdQXT3kmIGFBJ1IccYSVJJ55++GdNq8iXUUyp0gudpJCQsgBJVt5UjYevHxgwYBdVHkt1J9aLbr7if3viKPLLTTq0Ks65dJsPadz/ACf8wYMB/9k=
@@ -30,14 +31,13 @@ labels:
   - veganes Bier
   - serie:Irland 2017
 focusKeyword: Guinness
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Besuch der Guinness Brauerei in Dublin
-year: '2017'
-month: '10'
+year: "2017"
+month: "10"
+
 ---
 
 **Traditionell wurde Guiness schon früher ohne den Klärvorgang mit Hausenblase hergestellt. Das war leider viele Jahre nicht mehr der Fall, was den Genuss des Bieres für Veganer und Vegetarier unmöglich machte. Erst vor Kurzem kam man darauf, dass es besser wäre, sich wieder auf das Originalrezept zurückzubesinnen. Seitdem ist das berühmte Bier aus Irland wieder vegan.**

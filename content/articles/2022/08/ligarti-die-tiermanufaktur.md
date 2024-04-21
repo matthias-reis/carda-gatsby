@@ -1,14 +1,19 @@
 ---
 date: 2022-08-08T12:32:12.484Z
-slug: ligarti-die-tiermanufaktur
 typeName: Produkttest
 title: Ligarti – die Tiermanufaktur
 subTitle: Viel Liebe für Tiere und fürs Detail
 seoTitle: Ligarti – die Tiermanufaktur – Kunst mit Liebe fürs Detail
-description: 'Hanna, Alex und Sami haben gemeinsam die Tiermanufaktur Ligarti gegründet. Dahinter steckt ein Projekt, das handgemachte Kunst auf Alltagsgegenstände druckt. Im Mittelpunkt: Tiere und die Liebe fürs Detail.'
-excerpt: Ligarti – das sind im Kern Hanna, Alex und Sami. Die drei haben die Tiermanufaktur gegründet und verkaufen handgemachte Kunst, die sie auf die unterschiedlichsten Objekte drucken – wie zum Beispiel T-Shirts. Ich habe mir das Start-up jetzt mal angeschaut und inzwischen selbst eines davon im Schrank.
+description: "Hanna, Alex und Sami haben gemeinsam die Tiermanufaktur Ligarti
+  gegründet. Dahinter steckt ein Projekt, das handgemachte Kunst auf
+  Alltagsgegenstände druckt. Im Mittelpunkt: Tiere und die Liebe fürs Detail."
+excerpt: Ligarti – das sind im Kern Hanna, Alex und Sami. Die drei haben die
+  Tiermanufaktur gegründet und verkaufen handgemachte Kunst, die sie auf die
+  unterschiedlichsten Objekte drucken – wie zum Beispiel T-Shirts. Ich habe mir
+  das Start-up jetzt mal angeschaut und inzwischen selbst eines davon im
+  Schrank.
 image: https://storage.googleapis.com/cardamonchai-media/2022-08-08/2022-07-31-ligarti-13-jpg-imagine-080808_565a54_2048_1365/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-08-08/ligarti-die-tiermanufaktur-fb-jpeg-imagine-080808_6f6f6a_1200_628/640.webp
 labels:
   - vegan Beauty
@@ -25,6 +30,7 @@ focusKeyword: Tiermanufaktur
 advertisement: true
 affiliate: false
 language: de
+
 ---
 
 **Ligarti – das sind im Kern Hanna, Alex und Sami. Die drei haben die Tiermanufaktur gegründet und verkaufen handgemachte Kunst, die sie auf die unterschiedlichsten Objekte drucken – wie zum Beispiel T-Shirts. Ich habe mir das Start-up jetzt mal angeschaut und inzwischen selbst eines davon im Schrank.**

@@ -1,19 +1,20 @@
 ---
-date: 2019-03-19T14:31:20.000+00:00
-slug: die-geschichte-von-herrn-sommer-von-patrick-sueskind
-path: '/2019/03/die-geschichte-von-herrn-sommer-von-patrick-sueskind/'
+date: 2019-03-19T14:31:20.000Z
 type: Artikel
 typeName: Buchtipp
 title: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'
 seoTitle: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'
 ogTitle: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'
-description: Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein besonderes Werk geschaffen. Eine liebevoll erzählte Geschichte mit einer wertvollen Botschaft.
-excerpt: Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein besonderes Werk geschaffen. Eine liebevoll erzählte Geschichte mit einer wertvollen Botschaft.
-fileName: 2019-03---die-geschichte-von-herrn-sommer-von-patrick-sueskind.md
+description: Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein
+  besonderes Werk geschaffen. Eine liebevoll erzählte Geschichte mit einer
+  wertvollen Botschaft.
+excerpt: Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein
+  besonderes Werk geschaffen. Eine liebevoll erzählte Geschichte mit einer
+  wertvollen Botschaft.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwABBAgG/8QAJhAAAgICAgIBAwUAAAAAAAAAAQIDEQQFACESMUEGIoETFFFh4f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAeEQACAQQDAQAAAAAAAAAAAAABAgADBBEhEhMiQf/aAAwDAQACEQMRAD8AMNHMZsrBxYXuWRkYoGJUASBSAfz67vvjdLr5p8qR4JYoIvOQIpAJcBq8gP44NfTeMR9RarCzGiuLIiaAtGUYlpASgv4uyff9cXMyOOGVgKaWLyeMFQQt35UbsdD45JaKDy+GawAxNL6kxpotJnKjxfqxwmRSiqCxDAgf764da1sjXmV5axsyeN4fJO5EB7NDuiQR2O64nbLGw9hqtlFGrrLJiyxESV3cZo++AGduUnzEMQSAACNiTf3gD49kdHr44F1Ty4ZTEuudzpLaazVDSS7FcSOLY4E5byT7VPi4tivq/FhRFHrnn8ib9wiuiO0gNgggDvly5ZcHrfUfS9LuYhzTHNHBM0ZjLUwLqtWO+c75+1zsKRxjTCJiWikIRbLKaPZFixR/J5cuJU9h9CE6AT//2Q==
-ogImage:
+ogImage: null
 labels:
   - Abenteuer
   - Achtsamkeit
@@ -39,13 +40,12 @@ labels:
   - Sempé
   - Suizid
 focusKeyword: Herrn Sommer
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Illustriert von Jean-Jaques Sempé
 affiliate: true
+
 ---
 
 **Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein ganz besonderes Werk geschaffen. Es erzählt von der Kindheit eines Jungen und von den mysteriösen Spaziergängen des Herrn Sommer.**

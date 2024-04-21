@@ -1,13 +1,12 @@
 ---
 date: 2020-04-17T17:07:42.000Z
-slug: fridays-for-future-virtueller-klimastreik
-path: /2020/04/fridays-for-future-virtueller-klimastreik/
 title: Virtueller Klimastreik am 24. April
 seoTitle: Virtueller Klimastreik am 24. April - Fridays For Future
 ogTitle: Virtueller Klimastreik am 24. April - Fridays For Future
-description: Auch in Zeiten von Corona schläft Fridays for future nicht. Am 24. April ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.
-excerpt: Auch in Zeiten von Corona schläft Fridays for future nicht. Am 24. April ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.
-fileName: 2020-04---virtueller-klimastreik-am-24-april.md
+description: Auch in Zeiten von Corona schläft Fridays for future nicht. Am 24.
+  April ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.
+excerpt: Auch in Zeiten von Corona schläft Fridays for future nicht. Am 24.
+  April ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Virtueller-Klimastreik-am-24.-April__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Virtueller-Klimastreik-am-24.-April__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QAKRAAAgEDAwMEAQUAAAAAAAAAAQIDBAURABIhBiIxBxNBUXEUFUKRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFA//EACgRAAIABQIDCQAAAAAAAAAAAAECAAMREiEEoQUiQRMUFTFRUoGx0f/aAAwDAQACEQMRAD8A2MHTdnd6kzXmeGKEuo3QAvuQqCD8A968ZyMjONRt3Ttlrp4RFfmeKRiuUiGQdgfPPGNpyfrVG/1NVcK+7VdGsApYpZZT7RygVnXvfHnPyfsD6GrXp7JQS3mlpKqK3upllkfsO9MRsSyHOAO0bs8kDGoSPOacBdy/e0PfScMVDVGu9MY3rjrD+u6DsFvZlruq46Z18rK0Sn+ic6R3C1dIUNPJPJ1NWyRxkBmioGdcnwNwXHP50wbo1pameaW4UVKlef1Y3QTSybXRVOVUqPKk5JOmi9DWe5ZpbjfqicTELsp6ZYs8ggbmDN5x/LVVSrKDTziDM0c+rBJWBXOf2MbbL/8As93qJ7XTg26oVxJRVaq4BI7SGxnhsHHyB+CFvTtUtDchWXX3Ko85SBVTJPnk/wCDHGjRo3YJaF6CNfGtZk3CpoDyrmnxvHSG9ULe23fY5mIG0FnjJxoX1Qt6srJYZAR4O+MEaNGkXmB98ne6P//Z
@@ -19,12 +18,11 @@ labels:
   - Klimawandel
   - Virtueller Klimastreik
 focusKeyword: Fridays For Future
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Fridays For Future goes Livestream
+
 ---
 
 **Fridays For Future schläft auch in Zeiten von Corona nicht. Am 24. April ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.**

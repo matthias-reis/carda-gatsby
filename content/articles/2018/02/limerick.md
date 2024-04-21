@@ -1,17 +1,18 @@
 ---
-date: 2018-02-22T17:07:53.000+00:00
-slug: limerick
-path: '/2018/02/limerick/'
+date: 2018-02-22T17:07:53.000Z
 title: Limerick
 seoTitle: Limerick - fünf Zeilen Spaß und eine Stadt in Irland
 ogTitle: Limerick - fünf Zeilen Spaß und eine Stadt in Irland
-description: Zum Anlass meines Rückblicks auf unseren Besuch in Limerick im Rahmen unserer Irlandreise im letzten Herbst, habe ich mir mal was Neues einfallen lassen.
-excerpt: Zum Anlass meines Rückblicks auf unseren Besuch in Limerick im Rahmen unserer Irlandreise im letzten Herbst, habe ich mir mal was Neues einfallen lassen.
-fileName: 2018-02---limerick.md
+description: Zum Anlass meines Rückblicks auf unseren Besuch in Limerick im
+  Rahmen unserer Irlandreise im letzten Herbst, habe ich mir mal was Neues
+  einfallen lassen.
+excerpt: Zum Anlass meines Rückblicks auf unseren Besuch in Limerick im Rahmen
+  unserer Irlandreise im letzten Herbst, habe ich mir mal was Neues einfallen
+  lassen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25353494967_37e19b2ae5_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25353494967_37e19b2ae5_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBAMGB//EACkQAAIBAwMCBgIDAAAAAAAAAAECAwQFEQASITFRBhMUIjJBYZEVcfD/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIhMf/aAAwDAQACEQMRAD8A5l/EGhtQt2YluNUgqK8PKqGGNRujg5PyPDsO+wfWqltplhqYWjBJzxga2AVN1kmlkRrU8kmC6Y2liCWJIfgndgnJ5IH5zjqPEF6gSQVAalWZXQvHCIw4LFmww45Jbp30metKoTLeyLG0kRXeA6ZXG4E4z/WdWbh5NwgS33KYJtB9PVmNwKRtwHlyEjmJiR0+JYH7I0lk8TXJg5FXgPCsLsqKC6LjaCcc42j9A6VXC9V00MivUyBHzuVSFVsgg5AGD1One+xZ5woWuHqWaNCqs2AoJ6femlPcWaLy4oxGFcng5z0B/wB+dGjWItzUqpqd5GE1OEbnmL2kHv20huEJK4p51I7S+0/scaNGrNpG4y9v/9k=
-ogImage:
+ogImage: null
 labels:
   - Britische Inseln
   - dichten
@@ -25,14 +26,13 @@ labels:
   - Song
   - serie:Irland 2017
 focusKeyword: Limerick
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Fünf Zeilen Spaß und eine Stadt in Irland
-year: '2018'
-month: '02'
+year: "2018"
+month: "02"
+
 ---
 
 **Zum Anlass meines Rückblicks auf unseren Besuch in Limerick im Rahmen unserer Irlandreise im letzten Herbst, habe ich mir mal was ganz Neues einfallen lassen. Ich habe mich an einem Limerick versucht. Was sich als gar nicht so einfach herausstellte.**

@@ -1,15 +1,14 @@
 ---
 date: 2018-02-04T18:25:28.000Z
-slug: schwarzwurzel-kanarischen-kartoffeln
-path: /2018/02/schwarzwurzel-kanarischen-kartoffeln/
 type: Artikel
 typeName: Rezept
 title: Schwarzwurzel mit Kanarischen Kartoffeln
 seoTitle: Schwarzwurzel mit Kanarischen Kartoffeln - Winterspargel frisch auf den Tisch
 ogTitle: Schwarzwurzel mit Kanarischen Kartoffeln - Winterspargel frisch auf den Tisch
-description: Diese Woche gab es bei uns endlich wieder Schwarzwurzel. Ich verrate Euch jetzt mein Geheimrezept - Ihr werdet sehen, es geht ganz leicht!
-excerpt: Diese Woche gab es bei uns endlich wieder Schwarzwurzel. Ich verrate Euch jetzt mein Geheimrezept - Ihr werdet sehen, es geht ganz leicht!
-fileName: 2018-02---schwarzwurzel-mit-kanarischen-kartoffeln.md
+description: Diese Woche gab es bei uns endlich wieder Schwarzwurzel. Ich
+  verrate Euch jetzt mein Geheimrezept - Ihr werdet sehen, es geht ganz leicht!
+excerpt: Diese Woche gab es bei uns endlich wieder Schwarzwurzel. Ich verrate
+  Euch jetzt mein Geheimrezept - Ihr werdet sehen, es geht ganz leicht!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_IMG_4783__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_IMG_4783__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QALBAAAQMDAwMCBQUAAAAAAAAAAQIDBAUREgAGMSEiURNBBxRhcYEVJDKh8f/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAQL/xAAfEQACAgEEAwAAAAAAAAAAAAABAgADBBESIVExQYH/2gAMAwEAAhEDEQA/AJNwetR9tPN0FwQpDKQsOIHclIN1WNib2v151jz9Rnu1hNaffnNSHVKdelY4trPUHG9lcjnz9tbdWI7TzL7UtWEd1soWsrwsCOvd7aXaNsmNKUqRCpv6m3bMSqo6Q1jYDsSm2f3It9ddZjKjBF6m4+5gWPc6fhpW6luZE2NXW3JdOWO19wC4XcWwPKTib2+ng6pNy0swJkmM4sKWwsoytyPb+iD+dPW3YDsapliIqmNsNArdbiIV/JVwO7gnzpQ3RWqbUNz1COxNjuSEr+XLYWMlFACSR+QdDtIsr3acgxVRKuR6Me6TKi1aKl5pKVgHFSHUA4q8EHpzbqP9uYEOlqmreqrEmU0sD9sl4paJ6WJSCPIOjRqgqLkKruOYNia2Kr4ijuTftKiSZEGJ6sZlhQblPRW7fKJUbdgIGSxfm1ha9zxrI50KjjCKlpbcxiS36DrZxJST3BZ63uBce9zo0amXjVhzpH0qAp+T/9k=
@@ -24,17 +23,15 @@ labels:
   - starchbased
   - vegan
   - vegane Rezepte
-
   - Winter
   - Winterspargel
   - Zubereitung Schwarzwurzel
 focusKeyword: Schwarzwurzel
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Winterspargel frisch auf den Tisch
+
 ---
 
 **Diese Woche gab es bei uns endlich mal wieder Schwarzwurzel. Ich freue mich jedes Jahr darauf, wenn es endlich soweit ist, denn ich liebe dieses Gemüse.**

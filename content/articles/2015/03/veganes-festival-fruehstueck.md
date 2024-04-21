@@ -1,19 +1,21 @@
 ---
-date: 2015-03-07T09:30:10.000+00:00
-slug: veganes-festival-fruehstueck
-path: '/2015/03/veganes-festival-fruehstueck/'
+date: 2015-03-07T09:30:10.000Z
 type: Artikel
 typeName: Rezept
 title: Warmes veganes Festival-Frühstück
 seoTitle: Warmes veganes Festival-Frühstück – schnell und lecker
 ogTitle: Warmes veganes Festival-Frühstück – schnell und lecker
-description: Dieses Rezept für ein veganes Festival-Frühstück wird Euch den Start in den Tag auf dem nächsten Open Air Event erleichtern. Es gelingt ganz leicht mit wenigen Zutaten.
-excerpt: Dieses Rezept für ein veganes Festival-Frühstück wird Euch den Start in den Tag auf dem nächsten Open Air Event erleichtern. Es gelingt ganz leicht mit wenigen Zutaten. Ihr braucht im Grund nur zwei Konservendosen und ein paar Gewürze.
-fileName: 2015-03---fruehstueck-la-wilder-westen.md
+description: Dieses Rezept für ein veganes Festival-Frühstück wird Euch den
+  Start in den Tag auf dem nächsten Open Air Event erleichtern. Es gelingt ganz
+  leicht mit wenigen Zutaten.
+excerpt: Dieses Rezept für ein veganes Festival-Frühstück wird Euch den Start in
+  den Tag auf dem nächsten Open Air Event erleichtern. Es gelingt ganz leicht
+  mit wenigen Zutaten. Ihr braucht im Grund nur zwei Konservendosen und ein paar
+  Gewürze.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4095__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4095__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUABgcI/8QAKhAAAgEDAwQBAwUBAAAAAAAAAQIDBAURABIhBjFBYRMHFFEVIiNxgTL/xAAXAQEBAQEAAAAAAAAAAAAAAAAGBQQH/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIAAwQRElFhITLwQf/aAAwDAQACEQMRAD8Al065kNQgoalrXSLtaH4+ZHLcDc3YggZxxjP+6Ng6yukkEtMt2qnn+QTNHGxd15xjIGV8cdtUX4pp5oCyosUYKyBG7Rr/ANHcc+MeMcaZGsjmpy0c8sMNSnyRRU6j+Y52qm0dmznufB9aLMWJzk5+4nUBb0FUDQYHUY3H66X20TPQw09LKacmBpqiFnaQ5JBYZGDjgj/eNNrF9XbLcxBT9Rw/p1Q4VfuhzE7k45UDKDnzkDHfWJdY1dM3UNWoSZEiZYyHUBgwHLHgHv8AnnVVnkaYnglVOQwPAHv3qxSTdATxBN1qlVgvJmh0lRFLWxmnlp4vkYRviJmGw8kFR7yMDR8dPLBAtdDNTw1Jnj+2iDBI2b9zbpe5GF7AefGrTD0J1JRNUOlvhngiztkpZl3VPYBQhYYQqMNkceATojoz6YVXUkzz9TE0tuhIVYYQAkzKfA4IAHGfOPWsGrFtcYEUPfUlp+3nr4zEr5bLg6vdftKh7fUzbIqoqxjdtudoJ9A4H4GkU4KMwYgMDgnbwMf1rvioslmksAss9DTz23GDBKu5T7/v2NJ4Omum6C5GvpbJboawKVEyQgHaRtI/GMcYxqglbVQGEJ3Ch3LD9M//2Q==
-ogImage:
+ogImage: null
 labels:
   - Baked Beans
   - Bohnen
@@ -33,17 +35,15 @@ labels:
   - Rezept
   - vegan
   - vegane Rezepte
-
   - veganes Essen auf dem Festival
   - veganes Festival-Frühstück
   - veganes Frühstück Festival
 focusKeyword: Veganes Festival-Frühstück
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Schnell und lecker
+
 ---
 
 **Wie in der** [**ultimativen veganen Festival-Packliste**](/2015/03/die-ultimative-vegane-festivalliste/) **versprochen, könnt Ihr mein Festival-Rezept mit nur zwei Konserven-Dosen als Basis zubereiten. Ihr braucht insgesamt nicht viele Zutaten und könnt am Morgen nach den Konzerten des Jahres vor Eurem Zelt so richtig schön schlemmen.**

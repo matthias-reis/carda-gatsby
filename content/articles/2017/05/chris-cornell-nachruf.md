@@ -1,13 +1,12 @@
 ---
 date: 2017-05-18T14:51:35.000Z
-slug: chris-cornell-nachruf
-path: /2017/05/chris-cornell-nachruf/
 title: Chris Cornell ist tot
 seoTitle: Chris Cornell ist tot - Ausnahmemusiker stirbt im Alter von 52 Jahren
 ogTitle: Chris Cornell ist tot - Ausnahmemusiker stirbt im Alter von 52 Jahren
-description: Heute ist ein sehr trauriger Tag. Die Musikwelt befindet sich in einer Schockstarre. Chris Cornell ist tot. Er starb Mittwochnacht in Detroit.
-excerpt: Heute ist ein sehr trauriger Tag. Die Musikwelt befindet sich in einer Schockstarre. Chris Cornell ist tot. Er starb Mittwochnacht in Detroit.
-fileName: 2017-05---chris-cornell-ist-tot.md
+description: Heute ist ein sehr trauriger Tag. Die Musikwelt befindet sich in
+  einer Schockstarre. Chris Cornell ist tot. Er starb Mittwochnacht in Detroit.
+excerpt: Heute ist ein sehr trauriger Tag. Die Musikwelt befindet sich in einer
+  Schockstarre. Chris Cornell ist tot. Er starb Mittwochnacht in Detroit.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18401879_10155255908079687_6605988582263903309_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_18401879_10155255908079687_6605988582263903309_o__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYDBQACCP/EACkQAAICAQQCAQMEAwAAAAAAAAECAwQRAAUSIQYxEwciQRVCUWFicZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAAX/xAAkEQACAQIFBAMAAAAAAAAAAAABAgADEQQSIUFhIjFRcZGh8f/aAAwDAQACEQMRAD8A5r3PcjuW6T3WrVapmIzFUj+ONcAD7V/GcZx/espwPdtRwjAUkls+go7J/wCaBiALDlkLnsgZIH9aerO2irsiCjQiK2a8ccm4TStH8LcmdyDkKUZSq9gnrA71r4V87Xq6juef2GqWQaaSz+nckW4LvbGxBtsVCiZFkgWKOaQBlBYyPlugfS+zjrSnbjtpvE6bpYtWa8OXMhlK/KnfFgSD0ej60XttaaLb5zSlhsSU7obMQ5K4KEA9jtDjHr86n84sS2JqRaNYUmrq5RWBKkFhxbH5HvH+WmI5Yl6rHzbY8fP1D5VBsoHvebt4Ru3j08Uvkm3tBVaRY/uYMCxP8D30G05/UmDct12KCSvMf01JozLV4BAhCFYpeH7CVypUevtB0l19yuStUM9qeYVWMkSySMwDYxk5Omml5LdsUbMc6wyLbQxScg3QBUjHfRyB3o+HpLvKvUIIIgXg9aPZ9k8h3S9TecmJKdRhIVCTsc8sDHIhexnoHU/l22jfKXj9jauT1Ia7VZXZAhSUNybkM9Eg59n/AHq3pQR3q0NGQFIFl+UcGOeRIyeyR6GPXrTd494rSsbXcpzz2ngeQEryUeiSPQ05XpKcpBhiWbrE/9k=
@@ -33,12 +32,11 @@ labels:
   - The Jones Street Band
   - Ultramega OK
 focusKeyword: Chris Cornell
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Nachruf für eine Legende
+
 ---
 
 **Heute ist ein sehr trauriger Tag. Die Musikwelt befindet sich in Schockstarre. Auch ich kann die Tränen nicht zurückhalten, während ich diese Zeilen tippe.**

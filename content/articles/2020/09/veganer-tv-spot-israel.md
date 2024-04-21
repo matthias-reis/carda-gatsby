@@ -1,13 +1,12 @@
 ---
 date: 2020-09-17T09:13:37.000Z
-slug: veganer-tv-spot-israel
-path: /2020/09/veganer-tv-spot-israel/
 title: Extra frisches Fleisch
 seoTitle: Extra frisches Fleisch - Veganer TV Spot aus Israel geht viral
 ogTitle: Extra frisches Fleisch - Veganer TV Spot aus Israel geht viral
-description: Ein veganer TV-Spot sorgte jüngst in Israel während einer der beliebtesten Shows des Landes für Furore. Inzwischen geht er weltweit viral.
-excerpt: Ein veganer TV-Spot sorgte jüngst in Israel während einer der beliebtesten Shows des Landes für Furore. Inzwischen geht er weltweit viral.
-fileName: 2020-09---extra-frisches-fleisch.md
+description: Ein veganer TV-Spot sorgte jüngst in Israel während einer der
+  beliebtesten Shows des Landes für Furore. Inzwischen geht er weltweit viral.
+excerpt: Ein veganer TV-Spot sorgte jüngst in Israel während einer der
+  beliebtesten Shows des Landes für Furore. Inzwischen geht er weltweit viral.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_veganer-tv-spot__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_veganer-tv-spot__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwQH/8QAKBAAAQQBAwQBBAMAAAAAAAAAAQIDBBEFABIhBhMxQXEUIlFhMlKB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEA//EACARAQACAgIBBQAAAAAAAAAAAAECAwARBCETMXGBwdH/2gAMAwEAAhEDEQA/AGuMxcKW3JU7imwY+8lKTRVVWlIKrO32a50znYyLl2RIx74hkrCFIXSQBXmvzz/ukPTEqUiCIcqSZc1txchS3E0EBaidgT4JNg/Jr963ZuLw83p5+dBcU0/HUVFpS7Hb31dEWKB8AkCtS31Nqd6T5yqmwqGUTeIes8YjF9JZZbzsWW6NmxVjlJUkHgG/Z1z6DOkZZh1L7cMMRw0hCGmwhRIsDgck15PvT3O4aTLhyIsRsqeWAEHtkBXIPB98alIPTuVZbloP0gVIQWFpesdtP9wa/kPNa34tLTBGW1d+nsfWR8q7z2CmjX7l7De7LT8hD76llV2ftVW9RJ588EH51QCVHgZBrItoWUbgXQKKRYP3FJ88kXo0aaMRx2yRmZ5DGUb3RnGEOIshINFXzfrxWluSgtlSnVRnFlzkdtW43+dp9foaNGiJsxpS7M//2Q==
@@ -24,12 +23,11 @@ labels:
   - veganer Spot
   - Werbespot
 focusKeyword: Veganer TV-Spot
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Veganer TV Spot aus Israel geht viral
+
 ---
 
 **Israels erster pro-veganer TV-Spot hat insgesamt 35 Prozent der dortigen Bevölkerung erreicht. Er wurde während einer der beliebtesten Fernsehsendungen des Landes ausgestrahlt und von den Zuschauer\*innen sehr positiv angenommen.**

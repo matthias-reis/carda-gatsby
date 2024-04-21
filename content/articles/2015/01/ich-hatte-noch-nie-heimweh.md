@@ -1,15 +1,14 @@
 ---
 date: 2015-01-20T16:21:02.000Z
-slug: ich-hatte-noch-nie-heimweh
-path: /2015/01/ich-hatte-noch-nie-heimweh/
 type: Artikel
 typeName: Interview
 title: Interview mit einem veganen Sibirienreisenden
 seoTitle: '"Heimweh hatte ich noch nie!" - Interview mit Sebastian Frost'
 ogTitle: '"Ich hatte noch nie Heimweh!" - Interview mit Sebastian Frost'
-description: Sebastian Frost reiste im Winter alleine durch Sibirien. "Heimweh hatte ich noch nie!" sagt er von sich. Veganes Essen zu finden war schwer.
-excerpt: Sebastian Frost reiste im Winter alleine durch Sibirien. "Heimweh hatte ich noch nie!" sagt er von sich. Veganes Essen zu finden war schwer.
-fileName: 2015-01---interview-mit-einem-veganen-sibirienreisenden.md
+description: Sebastian Frost reiste im Winter alleine durch Sibirien. "Heimweh
+  hatte ich noch nie!" sagt er von sich. Veganes Essen zu finden war schwer.
+excerpt: Sebastian Frost reiste im Winter alleine durch Sibirien. "Heimweh hatte
+  ich noch nie!" sagt er von sich. Veganes Essen zu finden war schwer.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-6__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcBBQIDBv/EACoQAAIBAgYAAwkAAAAAAAAAAAECAwARBAUGEiFREyIxJEFCYXGBkZKx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHREAAwABBQEAAAAAAAAAAAAAAAECEQMEExQxYf/aAAwDAQACEQMRAD8AYeHKMm4EA9g1Luw9JG/JpXR6gxkEY9pjt144P8FVud6nz5Ew7ZMVaTxQZSTuBT3jnihdS/RfPLG480gPDt+1anxzhSLqfqKXj6izI3tKEueLqCTWKagzBn2mWNiODuUDnqqW1v4S9aTl8AEPmKsSfidrn7CrGOSJfS5b5miinZbCpYBZ0Vt27zG/J6qtkxASaQM19y3J6oorSCbP/9k=
@@ -40,12 +39,11 @@ labels:
   - Yakutien
   - Yakutsk
 focusKeyword: Heimweh
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Ich hatte noch nie Heimweh!"'
+
 ---
 
 **Sebastian Frost ist ein Reisender. Als Mitarbeiter des Deutschen Wetterdienstes kommt er sehr viel herum und auch seine Freizeit verbringt er mit Reisen in die entlegensten Gegenden unserer Erde.**

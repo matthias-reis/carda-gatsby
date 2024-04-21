@@ -1,14 +1,18 @@
 ---
 date: 2023-11-09T13:38:00.766Z
-slug: your-best-imaginary-friend-i-completely-disagree
 typeName: Review
 title: Your Best Imaginary Friend – "I completely disagree"
 subTitle: Zarte Elektro-Sounds von Ex EF Mitglied Jonathan Råsmark
 seoTitle: Your Best Imaginary Friend – "I completely disagree" – Post-Rock/Ambient Review
-description: '"I completely disagree" von Jonathan Råsmark (ex EF) ist ein subtiles Ambient-/Post-Rock-Album. Erfahrt jetzt alles über die Ode an die Empathie.'
-excerpt: Ex EF Mitglied Jonathan Råsmark hat jetzt unter dem Namen Your Best Imaginary Friend sein Solo-Debüt veröffentlicht. Die Platte lädt mit zarten elektronischen Sounds und seinem charakteristischen Cellospiel zum Träumen ein.
+description: '"I completely disagree" von Jonathan Råsmark (ex EF) ist ein
+  subtiles Ambient-/Post-Rock-Album. Erfahrt jetzt alles über die Ode an die
+  Empathie.'
+excerpt: Ex EF Mitglied Jonathan Råsmark hat jetzt unter dem Namen Your Best
+  Imaginary Friend sein Solo-Debüt veröffentlicht. Die Platte lädt mit zarten
+  elektronischen Sounds und seinem charakteristischen Cellospiel zum Träumen
+  ein.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-09/your-best-imaginary-friend-i-completely-disagree-header-jpg-imagine-d8c8c8_a39d95_1024_768/640.webp
-copyright: 'Your Best Imaginary Friend'
+copyright: Your Best Imaginary Friend
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-09/your-best-imaginary-friend-i-completely-disagree-og-jpg-imagine-d8c8c8_928980_1200_628/640.webp
 labels:
   - Band
@@ -27,6 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2023/11/your-best-imaginary-friend-i-completely-disagree-en/
+
 ---
 
 **Es ist schon ein paar Jahre her, seit wir Jonathan Råsmark zusammen mit EF erlebt haben. Nun hat das ehemalige Mitglied des schwedischen Post-Rock-Projekts (2006 bis 2008) mit seinem Solo-Projekt Your Best Imaginary Friend ein wunderschönes Album veröffentlicht. "I completely disagree" geht mit zarten elektronischen Sounds direkt ins Herz und lädt zum Träumen ein.**

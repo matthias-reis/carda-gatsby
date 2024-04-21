@@ -1,12 +1,19 @@
 ---
 date: 2022-05-30T15:46:44.604Z
-slug: dream-vision-interview
 typeName: Interview
 title: Dream Vision Gründer Jan Oblak
 subTitle: Psychologie fasziniert mich
 seoTitle: Dream Vision Gründer Jan – Post-Rock Interview
-description: Dream Vision Gründer Jan hat sein Debütalbum "Rêves" gerade veröffentlicht. Nach seiner Gründung im Dezember hatte er bereits im Januar Musik veröffentlicht. Zeit für ein Interview.
-excerpt: Jan Oblak kennt Ihr vielleicht als eines der Gründungsmitglieder des Atmospheric Post-Metal Projekts Zorya aus Slowenien. Im Dezember startete er sein Soloprojekt Dream Vision. Seine Debüt-Platte "Rêves" ist ein traumhafter Mix aus elektronischem Blackgaze und Post-Rock mit Einflüssen aus dem Post-Black und der Depressive Black Metal Genre. Ich hatte jetzt die Gelegenheit, mich mit dem Multi-Instrumentalisten, der das komplette Album in Eigenregie aufgenommen hat, zu unterhalten.
+description: Dream Vision Gründer Jan hat sein Debütalbum "Rêves" gerade
+  veröffentlicht. Nach seiner Gründung im Dezember hatte er bereits im Januar
+  Musik veröffentlicht. Zeit für ein Interview.
+excerpt: Jan Oblak kennt Ihr vielleicht als eines der Gründungsmitglieder des
+  Atmospheric Post-Metal Projekts Zorya aus Slowenien. Im Dezember startete er
+  sein Soloprojekt Dream Vision. Seine Debüt-Platte "Rêves" ist ein traumhafter
+  Mix aus elektronischem Blackgaze und Post-Rock mit Einflüssen aus dem
+  Post-Black und der Depressive Black Metal Genre. Ich hatte jetzt die
+  Gelegenheit, mich mit dem Multi-Instrumentalisten, der das komplette Album in
+  Eigenregie aufgenommen hat, zu unterhalten.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-30/dream-vision-jan-jpg-imagine-080808_191a12_1024_768/640.webp
 copyright: Dream Vision
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-30/dream-vision-jan-fb-jpg-imagine-080808_191a13_1200_628/640.webp
@@ -29,6 +36,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/05/dream-vision-interview-en/
+
 ---
 
 **Jan Oblak kennt Ihr vielleicht als eines der Gründungsmitglieder des Atmospheric Post-Metal Projekts Zorya aus Slowenien. Im Dezember startete er sein Soloprojekt Dream Vision. Seine Debüt-Platte "Rêves" ist ein traumhafter Mix aus elektronischem Blackgaze und Post-Rock mit Einflüssen aus dem Post-Black und der Depressive Black Metal Genre. Ich hatte jetzt die Gelegenheit, mich mit dem Multi-Instrumentalisten, der das komplette Album in Eigenregie aufgenommen hat, zu unterhalten.**

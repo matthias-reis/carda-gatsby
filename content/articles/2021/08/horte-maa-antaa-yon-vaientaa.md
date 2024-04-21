@@ -1,11 +1,13 @@
 ---
 date: 2021-08-27T13:59:40.629Z
-slug: horte-maa-antaa-yon-vaientaa
 typeName: Review
 title: Horte – "Maa antaa yon vaientaa"
 subTitle: Psychedelic Shoegaze aus Finnland
 seoTitle: Horte "Maa antaa yon vaientaa" – Psychedelic Shoegaze aus Finnland
-description: Psychedelischer Shoegaze Sound mit einer starken Frau am Mikro – Wenn Ihr Euch wie ich davon angesprochen fühlt, sollte jetzt auf jeden Fall weiterlesen. Das neue Horte Album "Maa antaa yon vaientaa" liefert noch viel mehr – ich habe alle Infos dazu für Euch.
+description: Psychedelischer Shoegaze Sound mit einer starken Frau am Mikro –
+  Wenn Ihr Euch wie ich davon angesprochen fühlt, sollte jetzt auf jeden Fall
+  weiterlesen. Das neue Horte Album "Maa antaa yon vaientaa" liefert noch viel
+  mehr – ich habe alle Infos dazu für Euch.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/horte-horte-maa-antaa-yon-vaientaa-jpg-imagine-181818_000000_1024_768/640.webp
 copyright: Horte
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/horte-horte-maa-antaa-yon-vaientaa-fb-jpg-imagine-282828_000000_1200_628/640.webp
@@ -28,6 +30,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/08/horte-maa-antaa-yon-vaientaa-en/
+
 ---
 
 **Psychedelischer Shoegaze Sound mit einer starken Frau am Mikro – Wenn Ihr Euch wie ich davon angesprochen fühlt, sollte jetzt auf jeden Fall weiterlesen. Das neue Horte Album "Maa antaa yon vaientaa" liefert noch viel mehr – ich habe alle Infos dazu für Euch.**

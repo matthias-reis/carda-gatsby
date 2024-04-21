@@ -14,7 +14,6 @@ labels:
   - Vegan Cube
   - Veganism
 language: en
-slug: inbar-schuette-perez-interview-en
 typeName: Interview
 title: Vegan Activist Inbar Schütte-Perez
 subTitle: '"We need to be massive, if we want our impact to be massive"'
@@ -32,6 +31,7 @@ focusKeyword: Inbar Schütte-Perez
 advertisement: false
 affiliate: false
 languageLink: /2020/03/inbar-schuette-perez-interview
+
 ---
 
 **Inbar Schütte-Perez is very well-known in the vegan community of Hamburg. Among many other events, the vegan activist was the founder and organiser of Anonymous For The Voiceless Hamburg, and organised the so-called "cubes of truth". Recently she has a new project. In my interview I talked to her about it - among some other things.**

@@ -1,12 +1,16 @@
 ---
 date: 2022-05-12T07:50:27.063Z
-slug: zake-sound-space-variations-en
 typeName: Review
 title: '"Sound Space Variations" by Zakè'
 subTitle: The moments Between Sounds
 seoTitle: Zakè – "Sound Space Variations" – Ambient Drone Review
-description: Zakè is about to release his new record. "Sound Space Variations" is a delicate and restrained sound bath – a mix of atmospheric, suspenseful drone sounds.
-excerpt: Zakè is about to release his new record. "Sound Space Variations" is a delicate and restrained sound bath. A mix of atmospheric, suspenseful drone sounds and meditative aspects. It is an album made for those moments when we just are.
+description: Zakè is about to release his new record. "Sound Space Variations"
+  is a delicate and restrained sound bath – a mix of atmospheric, suspenseful
+  drone sounds.
+excerpt: Zakè is about to release his new record. "Sound Space Variations" is a
+  delicate and restrained sound bath. A mix of atmospheric, suspenseful drone
+  sounds and meditative aspects. It is an album made for those moments when we
+  just are.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-12/zake-sound-space-variations-jpg-imagine-181818_929292_1024_768/640.webp
 copyright: Zakè
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-12/zake-sound-space-variations-fb-jpg-imagine-181818_6b6b6b_1200_628/640.webp
@@ -24,6 +28,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/05/zake-sound-space-variations/
+
 ---
 
 **Zakè is about to release his new record. "Sound Space Variations" is a delicate and restrained sound bath. A mix of atmospheric, suspenseful drone sounds and meditative aspects. It is an album made for those moments when we just are.**

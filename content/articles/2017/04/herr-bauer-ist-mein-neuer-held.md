@@ -1,13 +1,16 @@
 ---
 date: 2017-04-04T06:33:17.000Z
-slug: herr-bauer-ist-mein-neuer-held
-path: /2017/04/herr-bauer-ist-mein-neuer-held/
 title: Keine Mauer für Trump
-seoTitle: '"Herr Bauer ist mein neuer Held" - Keine Mauer für Trump - Bauunternehmer regt sich auf'
-ogTitle: '"Herr Bauer ist mein neuer Held" - Keine Mauer für Trump - Bauunternehmer regt sich auf'
-description: '"Herr Bauer ist mein neuer Held", schrieb mir mein Bruder vor ein paar Tagen. Wer er ist, warum er ein Held ist und was er mit Trumps Mauer zu tun hat.'
-excerpt: '"Herr Bauer ist mein neuer Held", schrieb mir mein Bruder vor ein paar Tagen. Wer er ist, warum er ein Held ist und was er mit Trumps Mauer zu tun hat.'
-fileName: 2017-04---keine-mauer-fuer-trump.md
+seoTitle: '"Herr Bauer ist mein neuer Held" - Keine Mauer für Trump -
+  Bauunternehmer regt sich auf'
+ogTitle: '"Herr Bauer ist mein neuer Held" - Keine Mauer für Trump -
+  Bauunternehmer regt sich auf'
+description: '"Herr Bauer ist mein neuer Held", schrieb mir mein Bruder vor ein
+  paar Tagen. Wer er ist, warum er ein Held ist und was er mit Trumps Mauer zu
+  tun hat.'
+excerpt: '"Herr Bauer ist mein neuer Held", schrieb mir mein Bruder vor ein paar
+  Tagen. Wer er ist, warum er ein Held ist und was er mit Trumps Mauer zu tun
+  hat.'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_23612322742_075bd0233c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_23612322742_075bd0233c_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAgQF/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDBBESAAUhMQYTFSJBcfFRcoGRsf/EABcBAQEBAQAAAAAAAAAAAAAAAAMBAgT/xAAeEQADAAIBBQAAAAAAAAAAAAAAAQIEEgMRISJBcf/aAAwDAQACEQMRAD8AfIdroqCjWZ4pJJJW9NUV3lkZiL2VQOeAeTawHY1dKTZpKGapMFZnSOiSwuZYpI8ytibsOLMGuCQQD3q29bnsawWn3ClbF1fEKXYlQb2MZBU2+o/o30sVXl9BPHPDR+9blHKQFVgYY0QMDhlI3yBI7KlubXtrgnH4/cITWRliXZ/UjipoJpi8qoryzOVJIJZBdi2QUXsR/msPktfFtPiwb2hYN9dCsirE03o48F8bfL9QoNyCDyNKO++U+STzRwQmPZ4nOSmKT1ZiL9mU9d24A++qbTtz0cL1MdbPT1coOcqOzmX9/YfvnLSxiwp8ZSfxEWvXsZaNIwyjDkMLkHk3/OtW7UKNRyyhmxhkYYHkMR9fvz/GjRpkYOTmZJsQSGVByfl0bAc6h6+TF41UJi3JXi9/xo0aQp//2Q==
@@ -20,12 +23,11 @@ labels:
   - refugeeswelcome
   - Wir wollen keine Mauer
 focusKeyword: Mauer
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Bauunternehmer regt sich auf
+
 ---
 
 **"Herr Bauer ist mein neuer Held!" schrieb mir mein Bruder vor ein paar Tagen. Zusammen mit einem Link zum Artikel einer regionalen Tageszeitung.**

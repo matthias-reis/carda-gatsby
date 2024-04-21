@@ -1,17 +1,18 @@
 ---
-date: 2018-08-20T15:27:38.000+00:00
-slug: gartenblogger-blind-date
-path: '/2018/08/gartenblogger-blind-date/'
+date: 2018-08-20T15:27:38.000Z
 title: Blind Date mit einem Song
 seoTitle: Gartenblogger Blind Date Edition 5 - I Build This Garden For Us
 ogTitle: Gartenblogger Blind Date Edition 5 - I Build This Garden For Us
-description: Was kommt dabei heraus, wenn sich 15 Blogger*innen verabreden, gleichzeitig einen Text über einen Song zu veröffentlichen? Das Gartenblogger Blind Date!
-excerpt: Was kommt dabei heraus, wenn sich 15 Blogger*innen verabreden, gleichzeitig einen Text über einen Song zu veröffentlichen? Das Gartenblogger Blind Date!
-fileName: 2018-08---blind-date-mit-einem-song.md
+description: Was kommt dabei heraus, wenn sich 15 Blogger*innen verabreden,
+  gleichzeitig einen Text über einen Song zu veröffentlichen? Das Gartenblogger
+  Blind Date!
+excerpt: Was kommt dabei heraus, wenn sich 15 Blogger*innen verabreden,
+  gleichzeitig einen Text über einen Song zu veröffentlichen? Das Gartenblogger
+  Blind Date!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDCAQGB//EACwQAAIBAgUDAwIHAAAAAAAAAAECAwQRAAUGEyESFDEHQVEiYRUyQoGx8PH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQID/8QAIBEAAgEDBAMAAAAAAAAAAAAAAQIAAxEhEiJBUTFCgf/aAAwDAQACEQMRAD8AyfT/AEtQRadoquqpY6yrnj3WmkQN0sTwAPAt8+b4S6h0+8WtMty/LY446atjZhC8qoN8tZRdvY+3PyMLdH6mzGhhaiSNJqSMsyb4IK8EkCx8X/nDrQ2pqWDXi5hqiekFPPQtDLvws0KCwZQUAN+R4+/ycR2rUKqikBuxx4+yaiMXzGS+jOowJ6vcp+4hqGmlje57h+ogBT4K9Njc2H1EG1uOZZ9TR96sUU6i7CNljKushFwwAFx/eMW4WR6SSfNu8SbL9ndG2rFjGykj6PJAAJsDew4F+MVf9R5KbM9V5xU5XWiSklk34ayxkUh0AIUn6m59zgzK1tTpoIJAub3HDY76i61JEIKtfEbaZo9Lw0VKs09X3b0/U4W7L4IPkfb/AHDWXLdJkRsz1dim2LoD1KfY3GDBjszqCu0ZHUKQQ2DJvxPIZImpTneeSRzpGGVpGsyr+Qftfj4xrubUmjRltTLSy1G+YGaMvFxcKej9J4vgwYVtHqJpkze5n//Z
-ogImage:
+ogImage: null
 labels:
   - Bands
   - Blog
@@ -24,16 +25,15 @@ labels:
   - Musik
   - Popmusik
   - Schnulze
-  - 'serie: Musikalisches Blind Date'
+  - "serie: Musikalisches Blind Date"
 focusKeyword: Gartenblogger Blind Date
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"I Build This Garden For Us" von Lenny Kravitz'
-year: '2018'
-month: '08'
+year: "2018"
+month: "08"
+
 ---
 
 **Was kommt dabei heraus, wenn 15 Garten-affine Blogger\*innen verabreden, einen Text über ein Lied zu verfassen und ihn gleichzeitig zu veröffentlichen? Das hat sich Björn vom Blog Gartenbaukunst auch gefragt und das Gartenblogger Blind Date ins Leben gerufen. Es geht jetzt bereits in die fünfte Runde und ich bin stolz, wieder dabei zu sein.**

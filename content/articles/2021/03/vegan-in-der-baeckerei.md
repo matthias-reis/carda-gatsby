@@ -1,13 +1,13 @@
 ---
 date: 2021-03-15T09:48:13.000Z
-slug: vegan-in-der-baeckerei
-path: /2021/03/vegan-in-der-baeckerei/
 title: Vegan in der Bäckerei
 seoTitle: Vegan in der Bäckerei – der neue Leitfaden der Albert Schweitzer Stiftung
 ogTitle: Vegan in der Bäckerei – der neue Leitfaden der Albert Schweitzer Stiftung
-description: Vegan in der Bäckerei – das kann mitunter ganz schön kompliziert sein. Die Albert Schweitzer Stiftung will das ändern.
-excerpt: Vegan in der Bäckerei – das kann mitunter ganz schön kompliziert sein. Die Albert Schweitzer Stiftung will das mit einem neuen Leitfaden für das Bäcker*innenhandwerk ändern.
-fileName: 2021-03---vegan-in-der-baeckerei.md
+description: Vegan in der Bäckerei – das kann mitunter ganz schön kompliziert
+  sein. Die Albert Schweitzer Stiftung will das ändern.
+excerpt: Vegan in der Bäckerei – das kann mitunter ganz schön kompliziert sein.
+  Die Albert Schweitzer Stiftung will das mit einem neuen Leitfaden für das
+  Bäcker*innenhandwerk ändern.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_vegan-in-der-baeckerei-albert-schweitzer-stiftung__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_vegan-in-der-baeckerei-albert-schweitzer-stiftung__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAoEAACAQMEAgEDBQAAAAAAAAABAgMEBREABhIhB0ExEyJRFCMyYYH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUD/8QAIBEAAQQCAQUAAAAAAAAAAAAAAQACAxEEEjETQVFxkf/aAAwDAQACEQMRAD8AijP9OJ2B7AJ1XaHxYK1aUvIIkMSmR1OOTEA9ksce/Q022HxfaqKdam47eopqYFQyVdU07RsSBgqDhh3qg7qgpbbtuonggp6L9PGrK8EKxsi8gGAyD1jv/NTM12U8NOK7X2OfqYh0BIeLXJnkCwLtm/y20OsoESyqVbl02ceh6Gmvwhsqn3DcVnugBh4SSIuRngp4Mf6JJxn0AfzpY3pG9XvCvikuUteFIQVs7KTwCj54jHWcYGT67OqhZLXe7RPb62kmjtMFLG0TxS0yiacOoyphyBGp/l97F8nJxgDWpkfFA0TuBdQuu/mkUUXUkOgTncvJWy6Ciucb7no5ppU5RxUqmb7xxwAY19lc9n386w91ebNqVdkrYLRBdnuUlO8dPVikSIQyFCA+XbPRP4+NGjTpAPKVtJHj2z3qfdM19vVtuFRGeFQ8opspK3NWySuFAwnyPjrVM3DdrBSVlfNIEdp1/bfHJkOMAYJzknPQH40aNScmQ7qpjMGnK//Z
@@ -19,12 +19,11 @@ labels:
   - vegan
   - vegane Backwaren
 focusKeyword: Vegan in der Bäckerei
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Albert Schweitzer Stiftung gibt Leitfaden heraus
+
 ---
 
 **Vegan in der Bäckerei – was im erstem Moment einfach klingt, kann manchmal ganz schön kompliziert sein. Die meisten Veganer\*innen kennen das. Um uns den Brotkauf in Zukunft zu erleichtern, hat die Albert Schweitzer Stiftung jetzt einen praktischen Leitfaden für Bäcker\*innen herausgegeben.**

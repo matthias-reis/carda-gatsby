@@ -1,13 +1,13 @@
 ---
 date: 2020-07-01T08:54:55.000Z
-slug: vegane-alternativen-finnland
-path: /2020/07/vegane-alternativen-finnland/
 title: Finnland fördert vegane Alternativen
 seoTitle: Finnland fördert vegane Alternativen - 2,1 Mio für pflanzliche Proteinquellen
 ogTitle: Finnland fördert vegane Alternativen - 2,1 Mio für pflanzliche Proteinquellen
-description: Das Technical Research Centre Of Finnland und die Uni Helsinki haben 2,1 Millionen Euro zur Erforschung veganer Fleisch-Alternativen erhalten.
-excerpt: Das Technical Research Centre Of Finnland und die Uni Helsinki haben 2,1 Millionen Euro zur Erforschung veganer Fleisch-Alternativen erhalten.
-fileName: 2020-07---finnland-foerdert-vegane-alternativen.md
+description: Das Technical Research Centre Of Finnland und die Uni Helsinki
+  haben 2,1 Millionen Euro zur Erforschung veganer Fleisch-Alternativen
+  erhalten.
+excerpt: Das Technical Research Centre Of Finnland und die Uni Helsinki haben
+  2,1 Millionen Euro zur Erforschung veganer Fleisch-Alternativen erhalten.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_vegane-alternativen__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_vegane-alternativen__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAmEAACAgEEAQUBAAMAAAAAAAABAgMEEQAFEiExExQiMkEGFSNx/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIBBf/EAB8RAAICAgIDAQAAAAAAAAAAAAECABEDEgQhEzFBUf/aAAwDAQACEQMRAD8Ao7Xwp2mtxzN/jLcssElazJwk9qIkSchlHzAkcfADkQ3XjS+6ixHDtNOx6Dbjt8821EiX1JOBXmGUAcSoYdMflk4/NTqk4vRvtlalEbUgMkktoGRFUFZAFTIPI8OyCOjjStzYty26vJb507Eyyc4Sp9u8TF+RBBYqyAEAZ8L4PR1xOOQrLfRjMjggiVt7m2uhLFFNtZnjtDh6tpkMsZBX7lS2CCT0Rh1+vyB0sWg9xPVhaF1hkMXKMkqcAfUn876PnGtLd/oavt4l3Gv7aUoos1JAvqlAWC+mQGKIxbBzgn9PWmzsSx14+IdJW/2ZZsSScuwx68nOf+daVXkXUGzMyOoqhUj1LkO0ym5YVWy5znoMuApGR4PQIJ6yNdbV0f2Rk2fbA4iJUSs8f0QfJgqrnlIVBAUHvOOvOjRofHUMoyH2JOQU+v7KyPVmisSV61SWu8Cl3mrqJEyxQTnJ5kj1PzJA8gnWn3qSN0jkMVmCq7RpNCe/ieIzyx18R5GRo0aXgYo1j7IzDYdz/9k=
@@ -30,12 +30,11 @@ labels:
   - vegane Ernährung
   - veganes Protein
 focusKeyword: vegane Alternativen
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: 2,1 Millionen Euro für pflanzliche Proteinquellen
+
 ---
 
 **Das Technical Research Centre Of Finland (VTT) und die Uni Helsinki haben aus einem öffentlichen Fonds 2,1 Millionen Euro zur Erforschung heimischer Nutzpflanzen erhalten.**

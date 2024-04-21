@@ -1,12 +1,19 @@
 ---
 date: 2021-10-25T14:39:08.490Z
-slug: awakened-souls
 typeName: Interview
 title: '"Musik ist unsere Meditation"'
 subTitle: Interview mit awakened souls
 seoTitle: '"Musik ist unsere Meditation" – Interview mit awakened souls'
-description: Vor ein paar Tagen haben ich hier das grandiose Album "Keep The Orange Sun" von awakened souls und From Overseas vorgestellt. Jetzt hatte ich die Gelegenheit mich mit dem kalifornischen Duo awakened souls über die Platte zu unterhalten. Cynthia und James haben mir auch gleich noch verraten, was für eine großartige Überraschung uns nächstes Jahr bevorsteht.
-excerpt: Vor ein paar Tagen haben ich hier das grandiose Album "Keep The Orange Sun" von awakened souls und From Overseas vorgestellt. Jetzt hatte ich die Gelegenheit mich mit dem kalifornischen Duo awakened souls über die Platte zu unterhalten. Cynthia und James haben mir auch gleich noch verraten, was für eine großartige Überraschung uns nächstes Jahr bevorsteht.
+description: Vor ein paar Tagen haben ich hier das grandiose Album "Keep The
+  Orange Sun" von awakened souls und From Overseas vorgestellt. Jetzt hatte ich
+  die Gelegenheit mich mit dem kalifornischen Duo awakened souls über die Platte
+  zu unterhalten. Cynthia und James haben mir auch gleich noch verraten, was für
+  eine großartige Überraschung uns nächstes Jahr bevorsteht.
+excerpt: Vor ein paar Tagen haben ich hier das grandiose Album "Keep The Orange
+  Sun" von awakened souls und From Overseas vorgestellt. Jetzt hatte ich die
+  Gelegenheit mich mit dem kalifornischen Duo awakened souls über die Platte zu
+  unterhalten. Cynthia und James haben mir auch gleich noch verraten, was für
+  eine großartige Überraschung uns nächstes Jahr bevorsteht.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-jpg-imagine-f8f8f8_686b6d_1024_768/640.webp
 copyright: awakened souls
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/awakened-souls-fb-png-imagine-f8f8f8_646766_1200_628/640.webp
@@ -28,6 +35,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/10/awakened-souls-en/
+
 ---
 
 **Vor ein paar Tagen haben ich hier das grandiose Album "Keep The Orange Sun" von awakened souls und From Overseas vorgestellt. Jetzt hatte ich die Gelegenheit mich mit dem kalifornischen Duo awakened souls über die Platte zu unterhalten. Cynthia und James haben mir auch gleich noch verraten, was für eine großartige Überraschung uns nächstes Jahr bevorsteht.**

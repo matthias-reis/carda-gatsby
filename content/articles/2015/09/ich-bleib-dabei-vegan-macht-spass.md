@@ -1,17 +1,18 @@
 ---
-date: 2015-09-09T16:38:28.000+00:00
-slug: ich-bleib-dabei-vegan-macht-spass
-path: '/2015/09/ich-bleib-dabei-vegan-macht-spass/'
+date: 2015-09-09T16:38:28.000Z
 title: Ich bleib dabei! Vegan macht Spaß!
 seoTitle: Warum ich für immer vegan leben möchte - ich bleibe dabei!
 ogTitle: Warum ich für immer vegan leben möchte - ich bleibe dabei!
-description: Im letzten Teil meiner Serie "10 Fakten über Veganismus" möchte ich mich bei allen bedanken, die sich mit mir über das Thema vegan unterhalten haben.
-excerpt: Im letzten Teil meiner Serie "10 Fakten über Veganismus" möchte ich mich bei allen bedanken, die sich mit mir über das Thema vegan unterhalten haben.
-fileName: 2015-09---ich-bleib-dabei-vegan-macht-spass.md
+description: Im letzten Teil meiner Serie "10 Fakten über Veganismus" möchte ich
+  mich bei allen bedanken, die sich mit mir über das Thema vegan unterhalten
+  haben.
+excerpt: Im letzten Teil meiner Serie "10 Fakten über Veganismus" möchte ich
+  mich bei allen bedanken, die sich mit mir über das Thema vegan unterhalten
+  haben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_vegan__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_vegan__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACsQAAEEAQMDAgcAAwAAAAAAAAECAwQRBQAGIRIxQRNRBxQVIjNhcSOBwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAdEQACAgMBAQEAAAAAAAAAAAABAgADBBESEyIx/9oADAMBAAIRAxEAPwCO7RbcTJlRWh+Udd+RQ05xNqzJ8JXyaXpUp3hLKRZJ/wCf06X8Oo4zONutpCrQU1q57MdJ2G7IhMpVIluuNuvkm0JFp6APbm7971m7Va20HehHpSbLOBA2J+HeXx+xJCMllsdBbLXDRdKiFKNJCyBSQbq+a/mtWIkqweyG42SjJRKZPpOISoK6Vdu/YjzY76D76ejQMEtxSPRdEcRFqZUf89qBSCO1iuD7aBT5kh/Y2254fDiUofiO2pVkNOfZdjwlVXejsReCyRmRjeAlGc+DOIjKTPk5qYlltAdMQNILoSeKK7HmuekaNZqaxh8GgoS3EhR2zSECwhtI7D3Pez5OnfdsZrJYxp2OHVuHqS26ynqrqHKVeQD2/Wpfkm/WCWnisJ6ejoXyKrVV6BTyssw1GvQ/sh+7d+zc9GejwscyiICXEnq63CAQQSRwOOfP91pfkOnHQcM6HEJx0X07UfyLcUXFKr92kf6/eqVH287j4rv0mHFcjLT0uhTKRXPH3eavS058PtwfWXnfly4gU59h4r20iw/PIGpJmWMx00//2Q==
-ogImage:
+ogImage: null
 labels:
   - 10 Fakten über Veganismus
   - Ernährung
@@ -27,14 +28,13 @@ labels:
   - Veganismus
   - serie:10 Fakten über Veganismus
 focusKeyword: Vegan
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: 10 Fakten über Veganismus - Teil X
-year: '2015'
-month: '09'
+year: "2015"
+month: "09"
+
 ---
 
 **[Hier geht's zu Teil 9 des Artikels](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/) Im zehnten und letzten Teil meiner großen Reportage "10 Fakten über Veganismus" möchte ich Euch heute von meinen Erfahrungen und Begegnungen berichten.**

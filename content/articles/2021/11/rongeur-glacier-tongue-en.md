@@ -1,12 +1,16 @@
 ---
 date: 2021-11-11T11:14:42.765Z
-slug: rongeur-glacier-tongue-en
 typeName: Review
 title: '"Glacier Tongue"'
 subTitle: The New Rongeur Album
 seoTitle: '"Glacier Tongue" By Rongeur – Sludge Review'
-description: Four years after their first official album, "An Asphyxiating Embrace", Rongeur released a new record. If you like your music raw and heavy or are a fan of bands like Neurosis, you shouldn't miss "Glacier Tongue".
-excerpt: Four years after their first official album, "An Asphyxiating Embrace", Rongeur released a new record on November 5th. If you like your music raw and heavy or are a fan of bands like Neurosis and High on Fire, you shouldn't miss "Glacier Tongue".
+description: Four years after their first official album, "An Asphyxiating
+  Embrace", Rongeur released a new record. If you like your music raw and heavy
+  or are a fan of bands like Neurosis, you shouldn't miss "Glacier Tongue".
+excerpt: Four years after their first official album, "An Asphyxiating Embrace",
+  Rongeur released a new record on November 5th. If you like your music raw and
+  heavy or are a fan of bands like Neurosis and High on Fire, you shouldn't miss
+  "Glacier Tongue".
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/glacier-tongue-1-jpg-imagine-080808_000000_1024_768/640.webp
 copyright: Rongeur
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/glacier-tongue-fb-png-imagine-080808_5c6d75_1200_628/640.webp
@@ -28,6 +32,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/11/rongeur-glacier-tongue/
+
 ---
 
 **Four years after their first official album, "An Asphyxiating Embrace", Rongeur released a new record on November 5th. If you like your music raw and heavy or are a fan of bands like Neurosis and High on Fire, you shouldn't miss "Glacier Tongue".**

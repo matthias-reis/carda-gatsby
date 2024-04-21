@@ -1,12 +1,18 @@
 ---
 date: 2022-05-05T06:56:33.389Z
-slug: hitzewellen-universitaet-bristol
 typeName: Beitrag
 title: Universität Bristol warnt vor extremen Hitzeereignissen
 subTitle: Aktuelle Studie zeigt unentdeckte Hitzewellen
 seoTitle: Universität Bristol warnt vor extremen Hitzeereignissen
-description: Eine aktuelle Studie der Universität Bristol zeigt, dass fünf der extremsten Hitzewellen übersehen wurden. Die Hochschule warnt davor, ähnliche Ereignisse auch in Zukunft nicht zu tracken.
-excerpt: 'Vor zwei Tagen gab die Universität Bristol eine Meldung heraus, die uns aufschrecken sollte: Aus einer aktuellen Studie der Hochschule gehen die intensivsten Hitzewellen aller Zeiten hervor. Einige davon fanden bereits vor Jahrzehnten statt. So fanden fünf der extremsten Hitzeereignisse bisher keine Beachtung. Die Forschenden warnen vor dem Fehler, ähnliche Ereignisse auch in Zukunft nicht zu tracken.'
+description: Eine aktuelle Studie der Universität Bristol zeigt, dass fünf der
+  extremsten Hitzewellen übersehen wurden. Die Hochschule warnt davor, ähnliche
+  Ereignisse auch in Zukunft nicht zu tracken.
+excerpt: "Vor zwei Tagen gab die Universität Bristol eine Meldung heraus, die
+  uns aufschrecken sollte: Aus einer aktuellen Studie der Hochschule gehen die
+  intensivsten Hitzewellen aller Zeiten hervor. Einige davon fanden bereits vor
+  Jahrzehnten statt. So fanden fünf der extremsten Hitzeereignisse bisher keine
+  Beachtung. Die Forschenden warnen vor dem Fehler, ähnliche Ereignisse auch in
+  Zukunft nicht zu tracken."
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-05/hitzewelle-geralt-pixabay-jpg-imagine-080808_6a390b_1024_768/640.webp
 copyright: geralt, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-05/hitzewelle-geralt-pixabay-fb-jpg-imagine-080808_84490d_1200_628/640.webp
@@ -25,6 +31,7 @@ focusKeyword: Hitzewelle
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Vor zwei Tagen gab die Universität Bristol eine Meldung heraus, die uns aufschrecken sollte: Aus einer aktuellen Studie der Hochschule gehen die intensivsten Hitzewellen aller Zeiten hervor. Einige davon fanden bereits vor Jahrzehnten statt. So fanden fünf der extremsten Hitzeereignisse bisher keine Beachtung. Die Forschenden warnen vor dem Fehler, ähnliche Ereignisse auch in Zukunft nicht zu tracken.**

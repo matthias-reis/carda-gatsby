@@ -1,12 +1,17 @@
 ---
 date: 2022-04-28T10:04:04.755Z
-slug: breaths-dimwind-seasons-en
 typeName: Review
 title: Seasons By Breaths feat. Chad Kapper & Dimwind
 subTitle: A Very Special Split-EP
 seoTitle: Seasons By Breaths & Dimwind – Post-Rock-Review
-description: Life always has surprises in store. One that really stands out happened to me some days ago when I realised Dimwind and Breaths decided to record a split-EP together after reading my articles about each other on my blog.
-excerpt: For me, as a music blogger, life always has surprises in store. One that really stands out happened to me some days ago when I realised that two of my favourite post-music projects – Dimwind and Breaths – decided to record a split-EP together after reading my articles about each other on my blog.
+description: Life always has surprises in store. One that really stands out
+  happened to me some days ago when I realised Dimwind and Breaths decided to
+  record a split-EP together after reading my articles about each other on my
+  blog.
+excerpt: For me, as a music blogger, life always has surprises in store. One
+  that really stands out happened to me some days ago when I realised that two
+  of my favourite post-music projects – Dimwind and Breaths – decided to record
+  a split-EP together after reading my articles about each other on my blog.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-28/breaths-dimwind-jpg-imagine-080808_4a534c_1024_768/640.webp
 copyright: Dimwind/Breaths
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-28/breaths-dimwind-fb-jpg-imagine-080808_49534b_1200_628/640.webp
@@ -28,6 +33,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/04/breaths-dimwind-seasons/
+
 ---
 
 **For me, as a music blogger, life always has surprises in store. One that really stands out happened to me some days ago when I realised that two of my favourite post-music projects – Dimwind and Breaths – decided to record a split-EP together after reading my articles about each other on my blog.**

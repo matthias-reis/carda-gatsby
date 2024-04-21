@@ -1,13 +1,12 @@
 ---
 date: 2021-03-12T15:57:35.000Z
-slug: usa-covid-vegan-fleisch
-path: /2021/03/usa-covid-vegan-fleisch/
 title: USA kehren Fleischkonsum den Rücken
-seoTitle: 'COVID-19: USA kehren Fleischkonsum den Rücken'
-ogTitle: 'COVID-19: USA kehren Fleischkonsum den Rücken'
-description: Durch COVID ernähren sich immer mehr Amerikaner*innen vegan. Das geht aus einer aktuellen Studie von Proagrica hervor.
-excerpt: Durch COVID ernähren sich immer mehr Amerikaner*innen vegan. Das geht aus einer aktuellen Studie von Proagrica hervor.
-fileName: 2021-03---usa-kehren-fleischkonsum-den-ruecken.md
+seoTitle: "COVID-19: USA kehren Fleischkonsum den Rücken"
+ogTitle: "COVID-19: USA kehren Fleischkonsum den Rücken"
+description: Durch COVID ernähren sich immer mehr Amerikaner*innen vegan. Das
+  geht aus einer aktuellen Studie von Proagrica hervor.
+excerpt: Durch COVID ernähren sich immer mehr Amerikaner*innen vegan. Das geht
+  aus einer aktuellen Studie von Proagrica hervor.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_vegan-covid__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_vegan-covid__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURACExBhJREyJBFDJhQnKBkaH/xAAZAQABBQAAAAAAAAAAAAAAAAAGAQIDBAX/xAAjEQABAwIFBQAAAAAAAAAAAAABAAIDERIEBZGx4RMhMXGB/9oADAMBAAIRAxEAPwDOu1uq6RaiKGd3nj9sbtFF2588ZxrHoKW91NXHTLUwCSQkqRBHjYZzxzsd9dSr4KGqrDMJ4yJ33bH2jtJzuR8jH86XL7cLT0r9Pc39WqiRmUmEKCr49oIzwd9/wPOnywRNaXU0SQ4iWtu6QZay8xKqPcGVUYpGFiGQTttgZBOMat0U7vBUSz+vJ2lnlmkiZV9qjuJYgDP+6cun730y8ypbapVlkRp2Ly9sp8KcjHJ2A55Oprm1M1SYp4xJU1WCkNZIVRkABOAWIzkb/PxoZxGcmOSwRke/OnK34cv60dxePlN+FPI1JEx9aTJU4KoucedU7z9NWW2qpViyZEKhpFBAP6SRncZxo0aLQAUNE0SJf+iLc0jyWCoekqIO2R4ZFLRqD+TwBgeRuNI91guFLPTNcUlkgjYAHuLoP242B/rgaNGqj+zgFKwmhK//2Q==
@@ -21,12 +20,11 @@ labels:
   - USA
   - vegan
 focusKeyword: COVID
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: COVID-Pandemie sorgt für Vegan-Aufschwung
+
 ---
 
 **Durch COVID ernähren sich immer mehr Amerikaner\*innen vegan. Das geht aus einer aktuellen Studie von Proagrica hervor, für die mehr als 1.000 erwachsene US-Bürger\*innen zu ihrem Einkauf- und Essverhalten befragt wurden.**

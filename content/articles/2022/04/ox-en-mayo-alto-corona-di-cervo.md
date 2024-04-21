@@ -1,12 +1,16 @@
 ---
 date: 2022-04-14T13:09:02.562Z
-slug: ox-en-mayo-alto-corona-di-cervo
 typeName: Review
 title: '"Corona di Cervo"'
 subTitle: Die neue EP von Ox en Mayo Alto
 seoTitle: Ox en Mayo Alto – "Corona di Cervo" – Post-Rock Review
-description: Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier*innen die erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo" veröffentlicht. Das Stück steigert die Vorfreude auf das Gesamtwerk.
-excerpt: Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier*innen die erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo" veröffentlicht. Das Stück lässt tief blicken und steigert die Vorfreude auf das Gesamtwerk.
+description: Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier*innen
+  die erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo"
+  veröffentlicht. Das Stück steigert die Vorfreude auf das Gesamtwerk.
+excerpt: Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier*innen die
+  erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo"
+  veröffentlicht. Das Stück lässt tief blicken und steigert die Vorfreude auf
+  das Gesamtwerk.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-jpeg-imagine-080808_697972_700_700/640.webp
 copyright: Ox en Mayo Alto
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-14/ox-en-mayo-alto-corona-di-cervo-fb-jpg-imagine-181818_404844_1200_628/640.webp
@@ -31,6 +35,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/04/ox-en-mayo-alto-corona-di-cervo-en/
+
 ---
 
 **Ox en Mayo Alto sind wieder da. Gerade haben die Argentinier\*innen die erste Single ihrer am 22. April erscheinenden EP "Corona di Cervo" veröffentlichen. Das Stück lässt tief blicken und steigert die Vorfreude auf das Gesamtwerk.**

@@ -1,19 +1,20 @@
 ---
-date: 2017-11-25T10:25:20.000+00:00
-slug: kartenmacherei
-path: '/2017/11/kartenmacherei/'
+date: 2017-11-25T10:25:20.000Z
 type: Artikel
 typeName: Produkttest
 title: Die Kartenmacherei im Test
-seoTitle: 'Ich habe die Kartenmacherei getestet - Erstes Weihnachtsgeschenk: Done!'
-ogTitle: 'Ich habe die Kartenmacherei getestet - Erstes Weihnachtsgeschenk: Done!'
-description: Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten schon immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich Kalender.
-excerpt: Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten schon immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich Kalender.
-fileName: 2017-11---die-kartenmacherei-im-test.md
+seoTitle: "Ich habe die Kartenmacherei getestet - Erstes Weihnachtsgeschenk: Done!"
+ogTitle: "Ich habe die Kartenmacherei getestet - Erstes Weihnachtsgeschenk: Done!"
+description: Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten
+  schon immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich
+  Kalender.
+excerpt: Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten
+  schon immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich
+  Kalender.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-13-von-16__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-13-von-16__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMCBAUGB//EACgQAAIBBAEDAgcBAAAAAAAAAAECAwAEBREhBhIxB0ETFSIyUWJxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAaEQEBAQEAAwAAAAAAAAAAAAABAgARITHw/9oADAMBAAIRAxEAPwDTxdmhVS44qt1BmY7DBJfQWoYSMI2WUrGoBBO9sQPbXn3p+DuUu5ILck6lYRnR0dHg6p7elPTZcMbTISsAVVpbyWTQI0QNnjYpnCfexsB1dj7zHBmdEmR1jZO4EDZ0qqfDcccE12N/aIqv2gcEiqWN9KulYCvdjLojv7yTdTefz581PMZBYHnUt9rsOf6aEuNG8osMjNGVKkj+HR/2o4ScyYm0adriWRk2ztdS7PJ/aiipWCndWFJeOZlHT5dP8MTI/aNOLmXY+oftVrI5Kd+7Z4HgboorSBTzNS1J1+8b/9k=
-ogImage:
+ogImage: null
 labels:
   - basteln
   - Design
@@ -28,13 +29,12 @@ labels:
   - Weihnachten
   - Weihnachtsgeschenk
 focusKeyword: Kartenmacherei
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Weihnachtsgeschenk Nummer 1
 advertisement: true
+
 ---
 
 **Weil ich zu Weihnachten gerne selbstgemachte Dinge verschenke, besonders gerne Kalender, habe ich jetzt die Kartenmacherei\*\* getestet. Auf der Homepage der Kartenmacherei kann man seine persönlichen Lieblingsfotos hochladen und daraus einen Kalender gestalten.**

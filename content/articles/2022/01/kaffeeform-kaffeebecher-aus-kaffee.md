@@ -1,14 +1,18 @@
 ---
 date: 2022-01-21T05:00:24.560Z
-slug: kaffeeform-kaffeebecher-aus-kaffee
 typeName: Produkttest
 title: Recycling-Kaffeebecher aus Kaffee und Holzresten
 subTitle: Kaffeeform möchte To-Go-Kaffee nachhaltiger machen
 seoTitle: Recycling-Kaffeebecher aus Kaffee und Holzresten
-description: 'Recycling-Kaffeetassen aus Kaffee und Holzresten – das klingt nach einer Utopie? Zu schön, um wahr zu sein? Ich habe eine gute Nachricht: Es gibt sie wirklich!'
-excerpt: 'Kaffeetassen aus recyceltem Kaffee und Holzresten – das klingt nach einer Utopie? Zu schön, um wahr zu sein? Ich habe eine gute Nachricht für Euch: Das ist es nicht! Die gibt es wirklich! Im Moment trinke ich gerade aus einer und ich muss sagen: Sie liegt wirklich super in der Hand!'
+description: "Recycling-Kaffeetassen aus Kaffee und Holzresten – das klingt nach
+  einer Utopie? Zu schön, um wahr zu sein? Ich habe eine gute Nachricht: Es gibt
+  sie wirklich!"
+excerpt: "Kaffeetassen aus recyceltem Kaffee und Holzresten – das klingt nach
+  einer Utopie? Zu schön, um wahr zu sein? Ich habe eine gute Nachricht für
+  Euch: Das ist es nicht! Die gibt es wirklich! Im Moment trinke ich gerade aus
+  einer und ich muss sagen: Sie liegt wirklich super in der Hand!"
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-21/2022-01-21-kaffeeform-004-jpg-imagine-b8b8a8_787471_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-21/kaffeebecher-aus-kaffee-fb-png-imagine-181818_716860_1200_628/640.webp
 labels:
   - Nachhaltigkeit
@@ -22,6 +26,7 @@ focusKeyword: Kaffeebecher aus Kaffee
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Kaffeetassen aus recyceltem Kaffee und Holzresten – das klingt nach einer Utopie? Zu schön, um wahr zu sein? Ich habe eine gute Nachricht für Euch: Das ist es nicht! Die gibt es wirklich! Im Moment trinke ich gerade aus einer und ich muss sagen: Sie liegt wirklich super in der Hand!**

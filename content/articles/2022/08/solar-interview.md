@@ -1,12 +1,17 @@
 ---
 date: 2022-08-31T14:26:39.208Z
-slug: solar-interview
 typeName: Interview
 title: '"Wir proben in völliger Dunkelheit"'
 subTitle: Interview mit Solár Drummer Aron zum Album "Atlas"
 seoTitle: Solár – "Atlas" – Interview zum Album mit Drummer Aron
-description: 'Solár: "Atlas" – ein Post-Rock Album, das Ihr nicht außer Acht lassen solltet. Ich habe mich mit Drummer Aron über die Platte, die junge Bandgeschichte und die Tourpläne von Solár unterhalten.'
-excerpt: Solár ist ein junges Post-Rock-Projekt aus Schweden, das ich vor einiger Zeit kennenlernen durfte. Die Band war so freundlich, mir ihr erstes Album "Atlas" zuzusenden und ich verliebte mich sofort in ihre Musik. Ihre Songs könnte man als anspruchsvollen, künstlerischen Post-Rock mit einem Touch DIY und einem Hauch Prog beschreiben.
+description: 'Solár: "Atlas" – ein Post-Rock Album, das Ihr nicht außer Acht
+  lassen solltet. Ich habe mich mit Drummer Aron über die Platte, die junge
+  Bandgeschichte und die Tourpläne von Solár unterhalten.'
+excerpt: Solár ist ein junges Post-Rock-Projekt aus Schweden, das ich vor
+  einiger Zeit kennenlernen durfte. Die Band war so freundlich, mir ihr erstes
+  Album "Atlas" zuzusenden und ich verliebte mich sofort in ihre Musik. Ihre
+  Songs könnte man als anspruchsvollen, künstlerischen Post-Rock mit einem Touch
+  DIY und einem Hauch Prog beschreiben.
 image: https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-1-jpeg-imagine-181818_36383c_1024_768/640.webp
 copyright: Solár
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-08-31/solar-atlas-1-fb-jpeg-imagine-181818_383a3d_1200_628/640.webp
@@ -33,6 +38,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/08/solar-atlas-interview-en/
+
 ---
 
 **Solár ist ein junges Post-Rock-Projekt aus Schweden, das ich vor einiger Zeit kennenlernen durfte. Die Band war so freundlich, mir ihr erstes Album "Atlas" zuzusenden und ich verliebte mich sofort in ihre Musik. Ihre Songs könnte man als anspruchsvollen, künstlerischen Post-Rock mit einem Touch DIY und einem Hauch Prog beschreiben. Mir war sofort klar, dass ich mehr über Solár erfahren wollte. Gut für Euch: viel Spaß meinem Interview mit Drummer Aron.**

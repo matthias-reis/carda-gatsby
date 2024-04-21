@@ -1,15 +1,16 @@
 ---
 date: 2020-01-12T17:13:46.000Z
-slug: linzer-torte-vegan
-path: /2020/01/linzer-torte-vegan/
 type: Artikel
 typeName: Rezept
 title: Linzer Torte vegan
 seoTitle: Linzer Torte vegan - Lieblingskuchen der Familie - Rezept
 ogTitle: Linzer Torte vegan - Familienrezept
-description: Wenn bei uns die ganze Familie zusammenkommt, backt meine Mutter ein vegane Linzer Torte - ein ganz wunderbarer Kuchen. Ich verrate Euch das Rezept.
-excerpt: Wenn bei uns die ganze Familie zusammenkommt, backt meine Mutter ein vegane Linzer Torte -  ein ganz wunderbarer Kuchen. Ich verrate Euch das Rezept.
-fileName: 2020-01---linzer-torte-vegan.md
+description: Wenn bei uns die ganze Familie zusammenkommt, backt meine Mutter
+  ein vegane Linzer Torte - ein ganz wunderbarer Kuchen. Ich verrate Euch das
+  Rezept.
+excerpt: Wenn bei uns die ganze Familie zusammenkommt, backt meine Mutter ein
+  vegane Linzer Torte -  ein ganz wunderbarer Kuchen. Ich verrate Euch das
+  Rezept.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte-3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte-3__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAKBAAAQQBAwMEAgMAAAAAAAAAAQIDBAURABIhBiIxExRBYQeBFVGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EAB0RAAICAQUAAAAAAAAAAAAAAAABAhEDEiExQUL/2gAMAwEAAhEDEQA/AKybRcGKmxr2Y8RK0OvhyVIDLUhDfCg0DuUs8+MfPb41ov59lmwZj3sVltsvoYRYwXg/EU4cKCCrAKVYI4586Vw7VqolynGJTda9by45rprkBkNe0QlOXiOSlKfBJI3ZBwDnVe2fiP1F3Par2F1DHpxtyZ6wn35WFCQhlSRlSgoHJGeDjI1NbRZHHGtkKVdFXFlXXFza3zkdDKj6AUlxYVuUOTn45wBz+tQhdIdTyKCvs4F5EkNuqSj27Dy9pSFbe0hXn645GnXWcywnNzuj6Zt5Niy+ptxaMoaMVSyoFa/GeQkD6/xV+MoVjW9YSIEuHtSwkTQlbvYcZSFpwClQJweMcp+NCkMtuFlSoc6jrKSfSQW4M+vlxHIaDKOHGGl8lKVeNuTux/fPGtlKhOdQ2cWz6qLIRHDbcaqibvS7cBKn3Djfg5IAGecZxo0a12I1M7uLjo/IMCcpgPOvrSgg+chZTuznyNyT+tOk2rFhPsbBsc8RkkObxgEqUUn4BJTx9aNGguQebP/Z
@@ -24,15 +25,13 @@ labels:
   - vegan backen
   - vegane Linzer Torte
   - vegane Rezepte
-
   - veganer Kuchen
 focusKeyword: Linzer Torte
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Lieblingskuchen der Familie
+
 ---
 
 **Schon seit ich denken kann, gibt es bei uns an Feiertagen, an denen die ganze Familie zusammenkommt, einen ganz besonderen Kuchen: Linzer Torte!**

@@ -1,11 +1,14 @@
 ---
 date: 2021-07-15T11:46:56.618Z
-slug: klimaquartett
 typeName: Beitrag
 title: Das Klimaquartett
 subTitle: Neues Kartenspiel für Umweltschützer*innen
 seoTitle: Das Klimaquartett – neues Kartenspiel für Umweltschützer*innen
-description: 'Womit fasst man Daten und Fakten besser zusammen, als mit Quartett-Karten? Was die meisten aus ihrer Kindheit mit Superheld*innen, Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umwelt und Nachhaltigkeit: Beim Klimaquartett lernt Ihr beim Spielen ganz nebenbei, wie Ihr das Klima schützt.'
+description: "Womit fasst man Daten und Fakten besser zusammen, als mit
+  Quartett-Karten? Was die meisten aus ihrer Kindheit mit Superheld*innen,
+  Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umwelt und
+  Nachhaltigkeit: Beim Klimaquartett lernt Ihr beim Spielen ganz nebenbei, wie
+  Ihr das Klima schützt."
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/klimaquartett-jpg-imagine-385848_627b69_1024_768/640.webp
 copyright: Ann Christin Müller
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/klimaquartett-fb-png-imagine-385848_7c8762_1200_628/640.webp
@@ -27,6 +30,7 @@ focusKeyword: Klimaquartett
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Womit fasst man Daten und Fakten besser zusammen, als mit Quartett-Karten? Was die meisten aus ihrer Kindheit mit Superheld\*innen, Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umweltschutz und Nachhaltigkeit: Das Klimaquartett ist da.**

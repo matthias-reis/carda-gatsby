@@ -10,7 +10,6 @@ import { ArticleList } from './article-list';
 import { PageMeta } from './page-meta';
 import { Container } from './container';
 import { P } from './typo';
-import { AdminBar } from './admin-bar';
 import { IconChevronRight as UnstyledIconChevronRight } from './icons';
 
 const ListPage: React.FC<{
@@ -85,7 +84,6 @@ const ListPage: React.FC<{
         )}
         <ArticleList articles={articles} content={`list/${topic}`} />
       </ContentSection>
-      <AdminBar />
     </div>
   );
 };

@@ -1,13 +1,13 @@
 ---
 date: 2016-03-16T11:36:11.000Z
-slug: ist-pelztierhaltung-vielleicht-schon-bald-verboten
-path: /2016/03/ist-pelztierhaltung-vielleicht-schon-bald-verboten/
 title: Ist Pelztierhaltung vielleicht schon bald verboten?
 seoTitle: Ist Pelztierhaltung schon bald flächendeckend verboten?
 ogTitle: Ist Pelztierhaltung schon bald flächendeckend verboten?
-description: Die Haltung von Iltissen, Nerzen, Rotfüchsen, Chinchillas und Bibern zur Herstellung von Pelzen und auch Ölen soll erboten werden - Pelztierhaltung
-excerpt: Die Haltung von Iltissen, Nerzen, Rotfüchsen, Chinchillas und Bibern zur Herstellung von Pelzen und auch Ölen soll erboten werden - Pelztierhaltung
-fileName: 2016-03---ist-pelztierhaltung-vielleicht-schon-bald-verboten.md
+description: Die Haltung von Iltissen, Nerzen, Rotfüchsen, Chinchillas und
+  Bibern zur Herstellung von Pelzen und auch Ölen soll erboten werden -
+  Pelztierhaltung
+excerpt: Die Haltung von Iltissen, Nerzen, Rotfüchsen, Chinchillas und Bibern
+  zur Herstellung von Pelzen und auch Ölen soll erboten werden - Pelztierhaltung
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_pelztierhaltung__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_pelztierhaltung__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAAHAwb/xAApEAABAwQABAUFAAAAAAAAAAABAgMEAAURIQYSIkEHEzE0YTJCUYGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREAAgMBAAAAAAAAAAAAAAAAABEBA0EC/9oADAMBAAIRAxEAPwBU0QJLVv8ANdjLWwEDClsrPIAnOd5wMfNL81hrngtbpcmQ7Ouj6VOJBaQ0AAlIyOsnPMD060NVlbhpXKZgXEHEcqy2l+1Q2AuOwp1tLgKkKU2VKUhWQfp2PT1AG6dUX27e89I3+qCnGlgkWm+TLa9IkvMQYmHQllQBUDkJSo9ikpPyKdkbbDesdI/lFUJsu7EdKwKPcIXlS5cdBYkSApTnKSlSz3yO2SKqqbMJq087xZGMixz71xMlYZWnnQl1R8yUoDpAB+3AAye3p+aTUX27WgOkaHbVVVPEE9yz/9k=
@@ -26,12 +26,11 @@ labels:
   - Tierrechte
   - Tierschutz
 focusKeyword: Pelztierhaltung
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Gesetzänderung mit Vorsicht zu genießen
+
 ---
 
 **Der Bundesminister für Ernährung und Landwirtschaft Christian Schmidt setzte eine Gesetzänderung durch. Sie bezieht sich auf das sogenannte Tiererzeugnisse-Handels-Verbotsgesetz.**

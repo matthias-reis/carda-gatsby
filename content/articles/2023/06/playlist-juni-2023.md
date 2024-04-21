@@ -1,14 +1,17 @@
 ---
 date: 2023-06-01T14:09:30.658Z
-slug: playlist-juni-2023
 typeName: Beitrag
 title: Playlist Juni 2023
 subTitle: Von Sunbeam Overdrive bis Queens of the Stone Age
 seoTitle: Die alternative Playlist für den Juni
-description: Wenn Ihr nach der ultimativen alternativen Playlist für Euren Juni sucht, habt Ihr sie hiermit gefunden. Holt euch jetzt die fertig abspielbare Liste!
-excerpt: Im Mai war einiges los, eine Musikliste gibt es trotzdem. Wenn auch etwas später als sonst, kommt sie dennoch von Herzen und ist randvoll mit großartiger Musik. Ich wünsche Euch viel Spaß beim Hören. Genießt Euren Juni!
+description: Wenn Ihr nach der ultimativen alternativen Playlist für Euren Juni
+  sucht, habt Ihr sie hiermit gefunden. Holt euch jetzt die fertig abspielbare
+  Liste!
+excerpt: Im Mai war einiges los, eine Musikliste gibt es trotzdem. Wenn auch
+  etwas später als sonst, kommt sie dennoch von Herzen und ist randvoll mit
+  großartiger Musik. Ich wünsche Euch viel Spaß beim Hören. Genießt Euren Juni!
 image: https://storage.googleapis.com/cardamonchai-media/2023-06-01/playlist-juni-2023-jpg-imagine-080808_6a5c5d_1024_768/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-06-01/playlist-juni-2023-og-jpg-imagine-080808_6b5b5e_1200_628/640.webp
 labels:
   - Musik
@@ -39,6 +42,7 @@ focusKeyword: Playlist Juni 2023
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Im Mai war einiges los, eine Musikliste gibt es trotzdem. Wenn auch etwas später als sonst, kommt sie dennoch von Herzen und ist randvoll mit großartiger Musik. Ich wünsche Euch viel Spaß beim Hören. Genießt Euren Juni!**

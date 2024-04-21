@@ -1,14 +1,18 @@
 ---
 date: 2023-11-28T11:30:12.766Z
-slug: christspiracy-funding
-typeName:
+typeName: null
 title: Neue Doku des "Seaspiracy" Teams erreicht Fundingziel
 subTitle: Film soll größte Vertuschung seit 2.000 Jahren aufdecken
 seoTitle: '"Christspiracy" – alles über die neue "Cowspiracy" Doku'
-description: 'Es ist offiziell – die "Seaspiracy” & “Cowspiracy" Crew wird einen neuen Film herausbringen. Holt Euch jetzt alle Infos über die neue Doku "Christspiracy".'
-excerpt: 'Die "Seaspiracy" und "Cowspiracy" Crew hat einen neuen Film in der Mache. Jetzt haben die Filmer*innen das Fundingziel erreicht und starten voll durch. Hier erfahrt Ihr alles darüber, wie Ihr das Projekt noch unterstützen könnt und worum es in "Christspiracy" geht.'
+description: Es ist offiziell – die "Seaspiracy” & “Cowspiracy" Crew wird einen
+  neuen Film herausbringen. Holt Euch jetzt alle Infos über die neue Doku
+  "Christspiracy".
+excerpt: Die "Seaspiracy" und "Cowspiracy" Crew hat einen neuen Film in der
+  Mache. Jetzt haben die Filmer*innen das Fundingziel erreicht und starten voll
+  durch. Hier erfahrt Ihr alles darüber, wie Ihr das Projekt noch unterstützen
+  könnt und worum es in "Christspiracy" geht.
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-28/christspiracy-neue-seaspiracy-doku-soundsvegan-2-jpg-imagine-d8d8d8_73726f_1024_768/640.webp
-copyright: 'Christspiracy'
+copyright: Christspiracy
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-28/christspiracy-neue-seaspiracy-doku-soundsvegan-og-png-imagine-283838_5f5857_1200_628/640.webp
 labels:
   - Vegan Celebrities
@@ -25,6 +29,7 @@ focusKeyword: Christspiracy – neue Seaspiracy Doku
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Vor ein paar Stunden war es so weit: Die freudige Meldung des "Seaspiracy" Filmteams über das Erreichen des Fundingziels für das nächste Dokuprojekt ging raus! Mit dem Film wollen die Aktivistinnen um Kip Andersen, den Produzenten von "Seaspiracy" und "Cowspiracy" laut eigener Aussage die größte Vertuschungsaktion seit 2.000 Jahren aufdecken. Gleichzeitig wollen Sie unsere Denkweise über Religion, Ethik und unser Verhältnis zu Tieren grundlegend verändern.**

@@ -1,6 +1,5 @@
 ---
 date: 2022-04-21T15:08:40.122Z
-slug: playlist-mai-2022
 typeName: Beitrag
 title: Playlist Mai 2022
 subTitle: 10 Songs von Primus bis Violet Cold
@@ -44,7 +43,9 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: ""
+
 ---
+
 **Für den Start in den Wonnemonat habe ich gemeinsam mit meinen beiden Lieblings-Musikfans wieder zehn besondere Songs aus den unterschiedlichsten Genres für Euch zusammengestellt, die Ihr ab sofort als Playlist konsumieren könnt. Diese findet Ihr ganz unten fertig aufbereitet für iTunes und Spotify. Und jetzt erstmal viel Spaß mit den Videos und unseren Lobhudeleien.**
 
 ## Primus – "Conspiranoia" (Vorauskopplung von der EP "Conspiranoid"

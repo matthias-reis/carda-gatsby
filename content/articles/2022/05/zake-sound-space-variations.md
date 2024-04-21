@@ -1,12 +1,16 @@
 ---
 date: 2022-05-12T07:50:01.508Z
-slug: zake-sound-space-variations
 typeName: Review
 title: '"Sound Space Variations" von Zakè'
 subTitle: Die Momente zwischen den Klängen
 seoTitle: Zakè – "Sound Space Variations" – Ambient Drone Review
-description: Zakè hat seine neue Platte angekündigt. "Sound Space Variations" ist ein zartes und zurückhaltendes Klangbad. Ein Mix aus atmosphärischem, spannungsgeladenen Drone Sounds und meditativen Momenten.
-excerpt: Zakè hat seine neue Platte angekündigt. "Sound Space Variations" ist ein zartes und zurückhaltendes Klangbad. Ein Mix aus atmosphärischem, spannungsgeladenen Drone Sounds und meditativen Ansichten. Ein Album wie gemacht für diese Momente, in denen wir wir einfach nur sind.
+description: Zakè hat seine neue Platte angekündigt. "Sound Space Variations"
+  ist ein zartes und zurückhaltendes Klangbad. Ein Mix aus atmosphärischem,
+  spannungsgeladenen Drone Sounds und meditativen Momenten.
+excerpt: Zakè hat seine neue Platte angekündigt. "Sound Space Variations" ist
+  ein zartes und zurückhaltendes Klangbad. Ein Mix aus atmosphärischem,
+  spannungsgeladenen Drone Sounds und meditativen Ansichten. Ein Album wie
+  gemacht für diese Momente, in denen wir wir einfach nur sind.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-12/zake-sound-space-variations-jpg-imagine-181818_929292_1024_768/640.webp
 copyright: Zakè
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-12/zake-sound-space-variations-fb-jpg-imagine-181818_6b6b6b_1200_628/640.webp
@@ -24,6 +28,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/05/zake-sound-space-variations-en/
+
 ---
 
 **Zakè hat seine neue Platte angekündigt. "Sound Space Variations" ist ein zartes und zurückhaltendes Klangbad. Ein Mix aus atmosphärischem, spannungsgeladenen Drone Sounds und meditativen Ansichten. Ein Album wie gemacht für diese Momente, in denen wir wir einfach nur sind.**

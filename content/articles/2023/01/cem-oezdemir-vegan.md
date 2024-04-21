@@ -1,6 +1,5 @@
 ---
 date: 2023-01-06T10:19:01.576Z
-slug: cem-oezdemir-vegan
 typeName: Beitrag
 title: Cem Özdemir wirbt für vegane Ernährung
 subTitle: Neues Paper betont Relevanz pflanzlicher Lebensmittel für das Klima
@@ -27,7 +26,9 @@ focusKeyword: Cem Özdemir vegan
 advertisement: false
 affiliate: false
 language: de
+
 ---
+
 **Im Rahmen der geplanten nationalen Ernährungsstrategie setzt Deutschland jetzt auf pflanzliche Lebensmittel. Der Bundesminister für Ernährung und Landwirtschaft Cem Özdemir stellte kürzlich das Eckpunktepapier "Weg zur Ernährungsstrategie der Bundesregierung"[^1] vor, das die von der Regierung vorgeschlagenen Eckpfeiler der nationalen Strategie umschreibt.**
 
 Das erklärte Ziel der Bundesregierung ist die Schaffung einer integrativen Ernährungsstrategie. Diese soll einen Wandel des Ernährungssystems mit Initiativen zur frühzeitigen Bildung und Barrierefreiheit anstoßen und sich dabei an der Deutschen Gesellschaft für Ernährung (DGE) und der Planetary Health Diet orientieren.

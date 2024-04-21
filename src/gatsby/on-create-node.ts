@@ -49,8 +49,7 @@ export const onCreateNode = async ({
       [year, month, fileSlug] = relativePath.split('/');
       fileSlug = fileSlug.replace('.md', '');
     }
-    const rawSlug = node?.frontmatter?.slug || node?.frontmatter?.title || '';
-    const slug = slugify(rawSlug);
+    const slug = fileSlug;
 
     let path = '';
     if (type === 'article' || type === 'wordpress') {

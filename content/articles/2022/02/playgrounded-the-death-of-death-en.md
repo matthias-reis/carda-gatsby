@@ -1,12 +1,17 @@
 ---
 date: 2022-02-10T15:36:47.741Z
-slug: playgrounded-the-death-of-death-en
 typeName: Review
 title: '"The death of Death"'
 subTitle: New Album By Playgrounded
 seoTitle: Playgrounded – "The death of Death" – Prog Review
-description: The new Playgrounded album "The death of Death" is a study of unity in opposition. It is about revealing contradictory aspects of reality. An excellent prog record with a fascinating background awaits you.
-excerpt: The new Playgrounded album "The death of Death" is a study of unity in opposition. It is about revealing contradictory aspects of reality. The band sees it as a disclosure of contradictory aspects of reality and an expression of their mutual relationship. The record will be released on March 18th and definitely deserves attention.
+description: The new Playgrounded album "The death of Death" is a study of unity
+  in opposition. It is about revealing contradictory aspects of reality. An
+  excellent prog record with a fascinating background awaits you.
+excerpt: The new Playgrounded album "The death of Death" is a study of unity in
+  opposition. It is about revealing contradictory aspects of reality. The band
+  sees it as a disclosure of contradictory aspects of reality and an expression
+  of their mutual relationship. The record will be released on March 18th and
+  definitely deserves attention.
 image: https://storage.googleapis.com/cardamonchai-media/2022-02-10/playgrounded-the-death-of-death-jpg-imagine-080808_110f0e_1024_768/640.webp
 copyright: Playgrounded
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-02-10/playgrounded-fb-png-imagine-080808_110f0e_1200_628/640.webp
@@ -24,6 +29,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/02/playgrounded-the-death-of-death/
+
 ---
 
 **The new Playgrounded album "The death of Death" is a study of unity in opposition. It is about revealing contradictory aspects of reality. The band sees it as a disclosure of contradictory aspects of reality and an expression of their mutual relationship. The record will be released on March 18th and definitely deserves attention.**

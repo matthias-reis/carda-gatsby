@@ -1,45 +1,43 @@
 ---
-date: 2018-02-05T17:13:12.000+00:00
-slug: unboxing-sauberkunst
-path: "/2018/02/unboxing-sauberkunst/"
+date: 2018-02-05T17:13:12.000Z
 type: Artikel
 typeName: Produkttest
 title: Unboxing Sauberkunst
 seoTitle: Unboxing Sauberkunst - Handgefertigte vegane Kosmetik mit Zauberduft
 ogTitle: Unboxing Sauberkunst - Handgefertigte vegane Kosmetik mit Zauberduft
-description: Sauberkunst ist eine vegane Seifenmanufaktur mit Sitz in Berlin. Die
-  Naturseifen und Kosmetikprodukte betören die Nase und sind gut für Haut und Haare.
-excerpt: Sauberkunst ist eine vegane Seifenmanufaktur mit Sitz in Berlin. Die Naturseifen
-  und Kosmetikprodukte betören die Nase und sind gut für Haut und Haare.
-fileName: 2018-02---unboxing-sauberkunst.md
+description: Sauberkunst ist eine vegane Seifenmanufaktur mit Sitz in Berlin.
+  Die Naturseifen und Kosmetikprodukte betören die Nase und sind gut für Haut
+  und Haare.
+excerpt: Sauberkunst ist eine vegane Seifenmanufaktur mit Sitz in Berlin. Die
+  Naturseifen und Kosmetikprodukte betören die Nase und sind gut für Haut und
+  Haare.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_26006504268_b6c4850d7a_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_26006504268_b6c4850d7a_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAcIBv/EAC0QAAEDBAIAAwYHAAAAAAAAAAECAwQFBhEhABIUMUEHCBMWIlEjM2FxgZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAP/EACARAAICAQQDAQAAAAAAAAAAAAECAAMRIUFhcRJRscH/2gAMAwEAAhEDEQA/AJ/pS4iahFXUGy7CS8gvoSopKm+w7AEbGs8qJFEo1qVFg0am0qK2spSlxe3FdtHCjlWfI7ONnk32RbPzI3MW7Uo0FljCSXRkrJBOhka1x4WretTlUe26TFgx5ro8MxJX3cdIYSUpU916gYKdp+onRyOLLox8dx3AykgYiwrtv1ev3XUHocOOt2XJccyx+SpXmQk5JBwCTrWd45lZsF6K+plSG1uJ3hpxK8/1v/OU9cVWFGnQZEaAlyG8JESVJU0GjHW4EBnJA2CrtkeWvTik94ayxRZkeuwihUOWv4b6QkJCXiMhYH2UASf1GfXk9NljtjPfHrfiBjYzknA4A0+xPRpTrKVJbWpKVeYBxnmmsa83LQrSqn4Juf8AgFkNOOFASCQcgj9uHDlsM2j/ALY3LqSaK9b8aMxMUAtbclZUnB7DH8ga9dji5uG5qpX4NIjVJ8rYp0REZhCSQCE5wpQJOV4OM/YDhw4itQtjBRjQfs2dZ//Z
-ogImage: 
+ogImage: null
 labels:
-- Fair Fashion & Beauty
-- festes Shampoo
-- Gesichtsöl
-- Haarseife
-- Naturseife
-- Peeling
-- Sauberkunst
-- Sea Shepherd
-- seife
-- Sheabutter
-- vegan
-- vegan beauty
-- Wellness
+  - Fair Fashion & Beauty
+  - festes Shampoo
+  - Gesichtsöl
+  - Haarseife
+  - Naturseife
+  - Peeling
+  - Sauberkunst
+  - Sea Shepherd
+  - seife
+  - Sheabutter
+  - vegan
+  - vegan beauty
+  - Wellness
 focusKeyword: Sauberkunst
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Handgefertigte vegane Kosmetik mit Zauberduft
 advertisement: true
 
 ---
+
 **"Sauberkunst" - Das ist eine vegane Seifenmanufaktur mit Sitz in Berlin. Die Naturseifen und Kosmetikprodukte betören die Nase und sind gut für Haut und Haare. In den veganen Foren im Internet liest man häufig über die phantasievollen, pflegenden Kunstwerke. Weil sich meine Neugierde nicht mehr unterdrücken lassen wollte, entschied ich mich dazu, einen Unboxing-Moment in hier im Blog zu posten.**
 
 Begleitet von ein paar Fotos möchte ich Euch an meinen ersten Eindrücken und Erfahrungen mit Sauberkunst teilhaben lassen.

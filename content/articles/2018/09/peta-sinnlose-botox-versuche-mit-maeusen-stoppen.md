@@ -1,13 +1,15 @@
 ---
 date: 2018-09-26T06:14:17.000Z
-slug: peta-sinnlose-botox-versuche-mit-maeusen-stoppen
-path: /2018/09/peta-sinnlose-botox-versuche-mit-maeusen-stoppen/
 title: Sinnlose Botox-Versuche mit Mäusen müssen gestoppt werden
 seoTitle: Sinnlose Botox-Versuche mit Mäusen müssen gestoppt werden
 ogTitle: Sinnlose Botox-Versuche mit Mäusen müssen gestoppt werden
-description: '"Nur aufgrund von bürokratischer Gleichgültigkeit und unternehmerischer Gier lassen Mäuse in grausamen Botox-Versuchen Tag für Tag ihr Leben."'
-excerpt: Werbung da Verlinkung - "Nur aufgrund von bürokratischer Gleichgültigkeit und unternehmerischer Gier lassen Mäuse in grausamen Botox-Versuchen Tag für Tag ihr Leben." PETA klärt auf. Ihr könnt die Tierrechtsorganisation unterstützen.
-fileName: 2018-09---sinnlose-botox-versuche-mit-maeusen-muessen-gestoppt-werden.md
+description: '"Nur aufgrund von bürokratischer Gleichgültigkeit und
+  unternehmerischer Gier lassen Mäuse in grausamen Botox-Versuchen Tag für Tag
+  ihr Leben."'
+excerpt: Werbung da Verlinkung - "Nur aufgrund von bürokratischer
+  Gleichgültigkeit und unternehmerischer Gier lassen Mäuse in grausamen
+  Botox-Versuchen Tag für Tag ihr Leben." PETA klärt auf. Ihr könnt die
+  Tierrechtsorganisation unterstützen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_animal-1554745_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_animal-1554745_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QALBAAAQQBAwIFAgcAAAAAAAAAAQIDBBEFAAYhEhMUFTFBUQciCCMyYXGRwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABwRAAIDAAMBAAAAAAAAAAAAAAARAQIDEiJRMf/aAAwDAQACEQMRAD8ATv0u2I3vWXksY7mfL0tqbQwSz3Apayekq+4Un7aJF8kat9yfh831icjJbgQWcnDaotyWpDaC4DVflqV1A81VeoNXxbL21itq4OBGahiYnImvEBlTYdURzdlJ6v4vV9uHeUvzbFToeSkToTSkNutqjhCwL5Kik8j/AHnU1dUymc+SEng/pLm8fvNiJu3FOMRWyhYFhbchSv0tpWk0eQbo8AHXZw25hpOBi4rM4zHyYSCjtx3I6ChCx6dKaoV+2k9ufJT9w54HHEEx3z4c9woS6ogDuEc1QsD+/etbx/ewxGz3J+4PDeaR3PDISy8lQdWb6eRwDQJPwBrdL9p8Ma0UR6KWMFtMhyKssdhYKQjg9Xzesw/CMKWllt90ha1qSSeUgm6v3q9GjQfEh4htkxnvR02FKUpINEqOk7vfdszcUhplaRHhxVK7bKVFVqPqtR91GgPTgCvmzRp84JbSf//Z
@@ -26,12 +28,11 @@ labels:
   - Tierversuche stoppen
   - vegan
 focusKeyword: Botox
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Unterstützt jetzt PETA!
+
 ---
 
 _Werbung da Verlinkung (ohne Auftrag)\*_

@@ -1,15 +1,16 @@
 ---
 date: 2016-02-10T10:40:36.000Z
-slug: veganes-hochzeitscatering
-path: /2016/02/veganes-hochzeitscatering/
 type: Artikel
 typeName: Interview
 title: Veganes Hochzeitscatering
 seoTitle: Veganes Hochzeitscatering - Alohachérie Hamburg
 ogTitle: Veganes Hochzeitscatering - Alohachérie Hamburg
-description: Das Alohachérie ist Hamburgs erster veganer Cateringservice. Es gibt unter anderem veganes Hochzeitscatering. Ich habe mit einem der Gründer gesprochen.
-excerpt: Das Alohachérie ist Hamburgs erster veganer Cateringservice. Es gibt dort unter anderem veganes Hochzeitscatering. Ich habe mit einem der Gründer gesprochen.
-fileName: 2016-02---veganes-hochzeitscatering.md
+description: Das Alohachérie ist Hamburgs erster veganer Cateringservice. Es
+  gibt unter anderem veganes Hochzeitscatering. Ich habe mit einem der Gründer
+  gesprochen.
+excerpt: Das Alohachérie ist Hamburgs erster veganer Cateringservice. Es gibt
+  dort unter anderem veganes Hochzeitscatering. Ich habe mit einem der Gründer
+  gesprochen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Alohacherie_Manufaktur_Catering_Hochzeit_Gemuese_das_Gaeste_begeistert__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Alohacherie_Manufaktur_Catering_Hochzeit_Gemuese_das_Gaeste_begeistert__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAKRAAAgEDBAECBgMAAAAAAAAAAQIDBAUhAAYREhMHIhQxMkFRYSNSkf/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAAP/xAAjEQACAQMBCQAAAAAAAAAAAAABAgADESExBCIjMkFxobHB/9oADAMBAAIRAxEAPwBeJcqai2TcbfXUtR8ef44oSCvCM7OrHHGGZv8ANT9kbDrqavma/wBR8AlbGgNPHG7y9MOHL9eig8gAkn74xp8vvO2bjYwx0NPVW2jHmSpuI6q8wPt4U5KA5zk/YY0UG9o6ryNdmSnrPGHSCEBEZCOAXDHk55ycfrUbuBynxKwrFdc9/QlForBcorkzWraMotkZZYamaucmdDyO64HY8HHA+WRpOeotl3jTqV3Z2goKWZ46Vp5OBIOeDJGn1FcDlgOMjTY9QvVQ2O0UttipKavSSLrFUPCI1pzHhFUIckfMckD9az3undt13DVLU3Kvq5qnoEdnf2gD7IBhV/AGM6dFnPXd+w7SbcMixE3rDBThEJpaYhSCB4lwfz8tV/fGyrPf6Se41FMqV8SeTzKzjv1GA3Vl5xjRo0QAcGZtLxIXGyUd5qJLU8EUcc/EXf3uY2/uvZ8N+9cO/wDpxbdt3GvoY6ied4gkZmYAFu0YZsZ4+rRo1yZimFxHSUOLtkz/2Q==
@@ -27,12 +28,11 @@ labels:
   - Veganes Hochzeitscatering
   - veganes Pop-up
 focusKeyword: Veganes Hochzeitscatering
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Alohachérie Hamburg
+
 ---
 
 **Am Montag fand im veganen Pop-up Lokal Alohachérie im Hamburger Szeneviertel Sternschanze eine Verkostung zum Thema "Vegane Hochzeit" statt. Auf den Tisch kamen ausschließlich Gerichte, die das Alohachérie Team auch im Rahmen eines veganen Caterings bei einer Hochzeiten anbieten würde.**

@@ -1,6 +1,5 @@
 ---
 date: 2021-12-03T10:15:25.909Z
-slug: karin-park-thot-perry-frank-en
 typeName: Review
 title: Karin Park, Thot & Perry Frank
 subTitle: Three Records For Your Weekend
@@ -34,7 +33,9 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/12/karin-park-thot-perry-frank/
+
 ---
+
 **To spice up your weekend, I have prepared three more music tips for you before I treat myself by taking my last vacation days for this year – time for some news from Perry Frank, Thot and Karin Park.**
 
 ## Perry Frank - "Morning View" (EP)

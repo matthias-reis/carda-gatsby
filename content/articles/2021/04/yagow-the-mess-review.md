@@ -6,17 +6,12 @@ excerpt: Yagow planen für Juni einen Release, der es so richtig in sich hat. Ic
   der Band aus Saarbrücken.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_yagow-fb.png__l.jpg
 isAffiliate: false
-path: /2021/04/yagow-the-mess-review/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAUGBwECAwQI/8QALBAAAgECBQMDAgcAAAAAAAAAAQIDBBEABQYSIQcTMRQiQSNRQmFxgZGhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAQADAQEAAAAAAAAAAAAAAAABAhExQf/aAAwDAQACEQMRAD8Alehn9EtSlZwkStLE1yzPGB7rjzcH+iMYcu1BT5vRwVWXrLGN8kciSAKyleLG1wQfIIOLM8qqqLSWYV0KPTV9PBJNELBirKDbj5v9vnEV6J1ZXrqyko6ioFXHmbtIY9i3SRkDq4I8BgDcfcHFNJtk4WOqWrTk80MCq8jjtVjKJNoAR77b+bsFIBHi2F3qRVLV6O78UZb1USuF3AFFZb7v2uB+uGDr3J5s46m5ZltSGihrafvMwBbZsRxzb8IsCfHnDzzKpOcaCin7UCzGMw7IH7irsYpYHzztB2nkXtgnd0+suEaZP79zxhCSHuTbngg/5jn3TNK0HWCt7lKfR+pqoljL8r2Qr/xZhb8mwYMC/imvlqaXNa6reRqWhXL2paN40ZyDvRuWF9hezKpv8c2xo9L8yqIdOar+pL2o4lnjAN9rXsSL+D45wYMGc9f/2Q==
 typeName: Review
 isWerbung: false
-fileName: 2021-04---the-mess.md
-slug: yagow-the-mess-review
-errors: {}
 date: 2021-04-14T08:00:59.000Z
 focusKeyword: Yagow
 languageLink: /2021/04/yagow-the-mess-review-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_yagow__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_yagow__m.jpg
 title: '"The Mess"'
@@ -44,7 +39,9 @@ labels:
   - Stoner-Rock
   - Super Nova Studios
   - Yagow
+
 ---
+
 **Yagow planen für Juni einen Release, der es so richtig in sich hat. Ich habe mir "The Mess" schon mal angehört und bin fasziniert von der Vielseitigkeit des Albums. Nach "s​/​t" von 2017 ist "The Mess" die zweite LP der Band aus Saarbrücken.**
 
 Das im Stil einer crazy 1990er Jahre Teleshopping-Show gemachte Musikvideo der Vorauskopplung "Rise &amp; Shine" gibt es jetzt schon bei Youtube zu sehen. Es passt perfekt zum psychedelischen Gesamtbild, das Yagow nach außen tragen.

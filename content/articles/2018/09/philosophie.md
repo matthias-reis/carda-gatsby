@@ -1,17 +1,18 @@
 ---
-date: 2018-09-17T13:54:51.000+00:00
-slug: philosophie
-path: '/2018/09/philosophie/'
+date: 2018-09-17T13:54:51.000Z
 title: Philosophie
 seoTitle: Philosophie - Die Kunst des Nachdenkens - Von Nietzsche bis Precht
 ogTitle: Philosophie - Die Kunst des Nachdenkens - Von Nietzsche bis Precht
-description: Philosophie - Was ist das eigentlich genau? Der Versuch, die menschliche Existenz zu begründen - warum ist er im digitalen Zeitalter so unglaublich wichtig?
-excerpt: Philosophie - Was ist das eigentlich genau? Nichts wirklich Greifbares, oder? Der Versuch, die menschliche Existenz zu begründen - warum ist er im digitalen Zeitalter so unglaublich wichtig?
-fileName: 2018-09---philosophie.md
+description: Philosophie - Was ist das eigentlich genau? Der Versuch, die
+  menschliche Existenz zu begründen - warum ist er im digitalen Zeitalter so
+  unglaublich wichtig?
+excerpt: Philosophie - Was ist das eigentlich genau? Nichts wirklich Greifbares,
+  oder? Der Versuch, die menschliche Existenz zu begründen - warum ist er im
+  digitalen Zeitalter so unglaublich wichtig?
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_12834745223_1a642a3bbc_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_12834745223_1a642a3bbc_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBgMECP/EACkQAAICAQMDAgYDAAAAAAAAAAECAwQRABIhBQYxB1ETFGFxkaEiMrH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREC/9oADAMBAAIRAxEAPwBJQvKeoQzx8guDk8+V55/I0/PR7uSereSDqFidK7BslSSxPgA/TGMe2q3W9K7VTqnbsdiUV69uy9UmxtjOUjZxj7hDj7gadHaPph0roskL2rE1mysY3oGwgPgngZ5OdOd1VsK7vrvK5cs3lAcxyIYh8SQkjHAJxgZx/ulx1LqM8vTvl3QsGTd8Vic/ywP1tPOuhe7vTGhdpy2+lzTtKWkBRW3DduC4454II9/xqo2fS0fIWVezbjtIsWyFVVt4DqpbOPGGJ49tLrJYesnT6Uohe1Ur2WrZeJpolcoceVJB2njyNbdQk1Ukbb8SRFdioxkkDRo1SUKI2SW4VChVmLjAx/cBz+2PP11kkOCff30aNB//2Q==
-ogImage:
+ogImage: null
 labels:
   - Die Ethik des Nichtwissens
   - die Rechte der Tiere
@@ -32,14 +33,12 @@ labels:
   - Wer bin ich und wenn ja wie viele?
   - Wissenschaft
 focusKeyword: Philosophie
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors:
-  outsideImage: article has at least one image that could not be found
 subTitle: Die Kunst des Nachdenkens
 affiliate: true
+
 ---
 
 **Philosophie - Was ist das eigentlich genau? Der Versuch, die menschliche Existenz zu begründen - nichts wirklich Greifbares, oder? Die "Liebe zur Weisheit", sollte sie nicht von bedeutender Wichtigkeit sein? Gerade in unserer heutigen Zeit?**

@@ -1,15 +1,14 @@
 ---
-date: 2015-06-16T15:33:44.000+00:00
-slug: muse-drones-ist-endlich-da
-path: '/2015/06/muse-drones-ist-endlich-da/'
+date: 2015-06-16T15:33:44.000Z
 type: Artikel
 typeName: Review
 title: Neues Muse Album
 seoTitle: Muse - Drones ist endlich da - Rezension
 ogTitle: Muse - "Drones" ist endlich da!
-description: Ich weiß, ich habe Euch lange auf meine Rezension zum neuen Muse-Album "Drones" warten lassen. Sorry dafür - Hier ist sie nun endlich.
-excerpt: Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das Einzige, was das neue Musealbum zu bieten hat.
-fileName: 2015-06---neues-muse-album.md
+description: Ich weiß, ich habe Euch lange auf meine Rezension zum neuen
+  Muse-Album "Drones" warten lassen. Sorry dafür - Hier ist sie nun endlich.
+excerpt: Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das
+  Einzige, was das neue Musealbum zu bieten hat.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBBQgE/8QALRAAAgECBAUDAwUBAAAAAAAAAQIDBBEABQYhBxIxQVETIkIUI5FhcYGhsdP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACESET/9oADAMBAAIRAxEAPwBB0jS5tF9O8QMqsPujr1Jtbt2/GCePQrzuy0UFRMFRSBIQrudgQqi5O5Ow7C+LbhHp/wCugqKncXmKK67EWA3B83w+tO6dhpuaseMVWYMxk9WVgHJ/Rvj+3Tzje18cJVKCazPjcLszU8tRQSUhMbSq8xPLYdza5G9h07jA22nGSONnUxgtyMbX5Te1j/O18bHqmjFOqOBFJJ7UVyASfAPT8YRvEzTk1Xk7UlDl7pVidHjgiIKulyGKtsCBcXBsRtt3xHovJTQO5LzgxlVVT6Qy1lakjEymb3Ru7HmYkfIDpbDFlFS6TRwO9S6gD06crTSW7lHJIuPB2PS+Fdp3UtRl+VUlDLQ5lTRwQRxXioZZGNlANyFP9YJqTWOVQFCy5spHc5XVf88Ky7CiB1htRVE1PTwpmMs6wyXRXq4442QgXCPysVubGzCwPSwNsDusmaahknyuFqt6I+p9pls7n2CNWO3zJY9AB5xEfEnJY4Qkz1ZHcPltSv8Ase+OLPtY6ez/ACWtyqjzDlqqyB4IklpZlAYjbqgFrjyMLNibdn//2Q==
@@ -27,12 +26,11 @@ labels:
   - Review
   - Rezension
 focusKeyword: MUSE
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: '"Drones" ist endlich da'
+
 ---
 
 **Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das Einzige, was das neue Musealbum zu bieten hat.**

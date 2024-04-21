@@ -1,14 +1,19 @@
 ---
 date: 2023-02-02T16:04:30.328Z
-slug: klimastudie-uni-hamburg
 typeName: Beitrag
 title: 1,5-Grad-Ziel nicht plausibel
 subTitle: Neue Klimastudie der Uni Hamburg
-seoTitle: 'Klima: Studie Uni Hamburg – 1,5 Grad Ziel nicht plausibel'
-description: 'Aus der neuen Klimastudie der Uni Hamburg geht hervor: Das 1,5-Grad-Ziel ist nicht plausibel. Lest jetzt, was die Forschenden herausgefunden haben.'
-excerpt: 'Die Autor*innen der neuesten Klimastudie "Hamburg Climate Futures Outlook" sehen es klar: Wenn wir uns ausschließlich auf die vereinbarten Bestrebungen konzentrieren, werden wir das 1,5-Grad-Ziel nicht erreichen. Die Forschenden der Uni Hamburg sehen die Verantwortung bei Unternehmen, Medien sowie Konsument*innen.'
+seoTitle: "Klima: Studie Uni Hamburg – 1,5 Grad Ziel nicht plausibel"
+description: "Aus der neuen Klimastudie der Uni Hamburg geht hervor: Das
+  1,5-Grad-Ziel ist nicht plausibel. Lest jetzt, was die Forschenden
+  herausgefunden haben."
+excerpt: 'Die Autor*innen der neuesten Klimastudie "Hamburg Climate Futures
+  Outlook" sehen es klar: Wenn wir uns ausschließlich auf die vereinbarten
+  Bestrebungen konzentrieren, werden wir das 1,5-Grad-Ziel nicht erreichen. Die
+  Forschenden der Uni Hamburg sehen die Verantwortung bei Unternehmen, Medien
+  sowie Konsument*innen.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-02-02/klimastudie-uni-hamburg-jpg-imagine-5898c8_5a8eb3_2048_1536/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-02-02/klima-studie-der-uni-hamburg-jpg-imagine-5898c8_6792b2_1200_628/640.webp
 labels:
   - Klimastudie
@@ -21,6 +26,7 @@ focusKeyword: Klimastudie Uni Hamburg
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Die Autor\*innen der neuesten Klimastudie "Hamburg Climate Futures Outlook" sehen es klar: Wenn wir uns ausschließlich auf die vereinbarten Bestrebungen konzentrieren, werden wir das 1,5-Grad-Ziel nicht erreichen. Die Forschenden der Uni Hamburg sehen die Verantwortung bei Unternehmen, Medien sowie Konsument\*innen.**

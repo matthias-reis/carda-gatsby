@@ -1,15 +1,14 @@
 ---
 date: 2013-05-08T16:48:11.000Z
-slug: cult-of-luna-the-ocean-lo-live-feierwerk-munchen
-path: /2013/05/cult-of-luna-the-ocean-lo-live-feierwerk-munchen/
 type: Galerie
 typeName: Konzertbericht
 title: Cult Of Luna, The Ocean & Lo live @Feierwerk München
 seoTitle: Cult Of Luna, The Ocean & Lo live @Feierwerk München
 ogTitle: Cult Of Luna, The Ocean & Lo live @Feierwerk München
-description: Hier sind meine Aufnahmen vom Treffen der Giganten am 5. Mai in der Kranhalle/Feierwerk München. Cult Of Luna & The Ocean live!
-excerpt: Hier sind meine Aufnahmen vom Treffen der Giganten am 5. Mai in der Kranhalle/Feierwerk München. Cult Of Luna & The Ocean live!
-fileName: 2013-05---cult-of-luna-the-ocean-und-lo-live-feierwerk-muenchen.md
+description: Hier sind meine Aufnahmen vom Treffen der Giganten am 5. Mai in der
+  Kranhalle/Feierwerk München. Cult Of Luna & The Ocean live!
+excerpt: Hier sind meine Aufnahmen vom Treffen der Giganten am 5. Mai in der
+  Kranhalle/Feierwerk München. Cult Of Luna & The Ocean live!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4864__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4864__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUHBv/EACUQAAEDBAICAgMBAAAAAAAAAAECAwQABRESITEGYRNBIjJxof/EABkBAAIDAQAAAAAAAAAAAAAAAAUGAgMEB//EACIRAAEEAQMFAQAAAAAAAAAAAAEAAgMRBBIhIgUTMUFx8P/aAAwDAQACEQMRAD8AwKOWm8re/Qd/dauInj0XwiO+u3BcmQw3IS4XAr5MlQ224KRkEY9H3WLSH1ZKc/hnocZruPPPLo16lMP2i3NWy3Nw2ozURtW2iUDCdlcbEZVzj7rqHWszvTaIRxb5P70gcsBNG9yqKQlcyQtMdGAOVK7wKKrGrvJati4bSwltxz5FkJGxOMYKu8evdFLBkLt7r4trWEClEm6fKdM64HfHOOf9qRa7dJuTMgQ2lumOwt9wAjCEJxsr+VAeXsrmksulsK1PYxROTMiOW58g4m1MNOmgkDpWaKbJopeMzRtSupf/2Q==
@@ -25,12 +24,11 @@ labels:
   - The Ocean
   - The Ocean München
 focusKeyword: Cult Of Luna
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Treffen der Giganten am 5. Mai 2013 in München
+
 ---
 
 Hier sind meine Aufnahmen vom Treffen der Giganten am 5. Mai in der Kranhalle/Feierwerk München:

@@ -1,14 +1,18 @@
 ---
 date: 2022-12-09T15:55:46.836Z
-slug: vegane-ernaehrung-krebs-wissenschaft
 typeName: Beitrag
 title: Schützt vegane Ernährung vor Krebs?
 subTitle: Das sagt die Wissenschaft
 seoTitle: Kann ich mich mit veganer Ernährung vor Krebs schützen?
-description: 'Die Beweise verdichten sich immer mehr: Vegane Ernährung kann vor Krebserkrankungen schützen. Jetzt erfahren, was die Forscher sagen!'
-excerpt: 'Nun verdichten sich die Beweise einer neuen Studie zufolge weiter: Vegane Ernährung kann vor Krebserkrankungen schützen. BMC Medicine veröffentlichte die Ergebnisse der Untersuchung jetzt. Sie zeigen unter anderem, dass pflanzliche Kost das Risiko von Darmkrebserkrankungen bei Männern um 22 Prozent senken kann.'
+description: "Die Beweise verdichten sich immer mehr: Vegane Ernährung kann vor
+  Krebserkrankungen schützen. Jetzt erfahren, was die Forscher sagen!"
+excerpt: "Nun verdichten sich die Beweise einer neuen Studie zufolge weiter:
+  Vegane Ernährung kann vor Krebserkrankungen schützen. BMC Medicine
+  veröffentlichte die Ergebnisse der Untersuchung jetzt. Sie zeigen unter
+  anderem, dass pflanzliche Kost das Risiko von Darmkrebserkrankungen bei
+  Männern um 22 Prozent senken kann."
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-09/vegane-ernaehrung-krebs-schutz-jpg-imagine-180808_735730_4608_3456/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-09/vegane-ernaehrung-krebs-schutz-og-jpg-imagine-180808_7c5e37_1200_628/640.webp
 labels:
   - Ernährung & Gesunheit
@@ -22,6 +26,7 @@ focusKeyword: Vegane Ernährung Krebs Schutz
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Nun verdichten sich die Beweise einer neuen Studie zufolge weiter: Vegane Ernährung kann vor Krebserkrankungen schützen. BMC Medicine veröffentlichte die Ergebnisse der Untersuchung jetzt. Sie zeigen unter anderem, dass pflanzliche Kost das Risiko von Darmkrebserkrankungen bei Männern um 22 Prozent senken kann.**

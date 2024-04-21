@@ -1,14 +1,16 @@
 ---
 date: 2024-02-08T10:00:00.766Z
-slug: beth-gibbons-solo-album-lives-outgrown-en
 typeName: Preview
 title: '"Lives Outgrown" – Beth Gibbons of Portishead Announces Solo Album'
 subTitle: Single "Floating on a Moment" Already Available
-seoTitle: 'Beth Gibbons – solo album "Lives Outgrown"'
-description: 'Beth Gibbons‘ solo album "Lives Outgrown" is here! Find out everything you need to know about the Portishead musician‘s new record!'
-excerpt: 'Beth Gibbons‘ solo album "Lives Outgrown" is ready and she‘ll release it in May! Yes, you read that right: The Portishead musician has finally granted us this deep wish! Find out all about the record here!'
+seoTitle: Beth Gibbons – solo album "Lives Outgrown"
+description: Beth Gibbons‘ solo album "Lives Outgrown" is here! Find out
+  everything you need to know about the Portishead musician‘s new record!
+excerpt: 'Beth Gibbons‘ solo album "Lives Outgrown" is ready and she‘ll release
+  it in May! Yes, you read that right: The Portishead musician has finally
+  granted us this deep wish! Find out all about the record here!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-08/beth-gibbons-copyright-netti-habel-soundsvegan-com-jpg-imagine-382818_706855_1024_768/640.webp
-copyright: 'Netti Habel'
+copyright: Netti Habel
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-08/beth-gibbons-copyright-netti-habel-soundsvegan-com-og-jpg-imagine-282828_635743_1200_628/640.webp
 labels:
   - Band
@@ -22,11 +24,12 @@ labels:
   - Portishead
   - Post-Rock
   - Experimental
-focusKeyword: 'Beth Gibbons solo album'
+focusKeyword: Beth Gibbons solo album
 advertisement: false
 affiliate: false
 language: en
 languageLink: /2024/02/beth-gibbons-soloalbum-lives-outgrown/
+
 ---
 
 **Beth Gibbons of Portishead has announced her first solo album! The wish that many fans have shared for so long is finally coming true! You can already listen to the first single entitled "Floating on a Moment"—the whole album, "Lives Outgrown", will be available on May 17th. It will be available in analogue and digital formats—pre-orders are already underway.**

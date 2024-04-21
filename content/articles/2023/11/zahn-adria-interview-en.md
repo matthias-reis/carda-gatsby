@@ -1,14 +1,18 @@
 ---
 date: 2023-11-14T13:14:00.766Z
-slug: zahn-adria-interview-en
 typeName: Interview
-title: 'Interview with Zahn members Felix and Chris'
+title: Interview with Zahn members Felix and Chris
 subTitle: '"The Instruments set the Direction of our new album"'
-seoTitle: 'Experimental Rock Interview – Zahn - "Adria"'
-description: The new Zahn album "Adria" is coming up soon! Time to read my interview with Chris and Felix for some exclusive insights!
-excerpt: '"Adria" is the name of the new Zahn album. I interviewed Felix Gebhard and Chris Breuer and got all the important details. Today, I want to share them with you. Please enjoy the read! Among other exclusive details, the two talked about how they came up with their sensational new sounds and the fascinating artwork.'
+seoTitle: Experimental Rock Interview – Zahn - "Adria"
+description: The new Zahn album "Adria" is coming up soon! Time to read my
+  interview with Chris and Felix for some exclusive insights!
+excerpt: '"Adria" is the name of the new Zahn album. I interviewed Felix Gebhard
+  and Chris Breuer and got all the important details. Today, I want to share
+  them with you. Please enjoy the read! Among other exclusive details, the two
+  talked about how they came up with their sensational new sounds and the
+  fascinating artwork.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-11-14/zahn-adria-interview-2-jpg-imagine-181818_656063_1024_768/640.webp
-copyright: 'Zahn'
+copyright: Zahn
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-11-14/zahn-adria-interview-og-jpg-imagine-081818_8c7f7a_1200_628/640.webp
 labels:
   - Band
@@ -29,6 +33,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2023/11/zahn-adria-interview/
+
 ---
 
 **I already introduced you to Zahn two years ago when I posted my interview with Felix (Gebhard) about their self-titled debut record. Now that they're about to release their new album, "Adria", I arranged another chat with Felix and his bandmate Chris (Breuer).**

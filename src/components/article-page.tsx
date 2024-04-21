@@ -10,7 +10,6 @@ import { ArticleSeries } from './article-series';
 import { ArticleLabels } from './article-labels';
 import { ArticleRecommendations } from './article-recommendations';
 import { FooterNavigation } from './footer-navigation';
-import { AdminBar } from './admin-bar';
 
 import { space, color, fontSize } from '../style';
 import { Article as ArticleMeta, CompactArticle } from '../types';
@@ -163,11 +162,6 @@ export const ArticlePage: React.FC<ArticleProps> = ({
         {/* <ArticleComments meta={meta} /> */}
         <FooterNavigation />
       </ArticleFooter>
-      <AdminBar
-        link={adminPath}
-        isInFuture={isInFuture}
-        isOldArticle={isOldArticle}
-      />
     </div>
   );
 };

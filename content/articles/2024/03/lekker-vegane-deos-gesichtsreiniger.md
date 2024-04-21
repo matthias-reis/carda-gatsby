@@ -1,14 +1,19 @@
 ---
 date: 2024-03-19T13:30:12.086Z
-slug: lekker-vegane-deos-gesichtsreiniger
 typeName: Produkttest
-title: 'Vegane Deos & Co. von the lekker Company'
-subTitle: 'Natürlich und ohne Plastik macht schön!'
-seoTitle: 'lekker – vegane Deos & Co.'
-description: 'Mit meinem lekker Produkttest gebe ich Euch wertvolle Tipps für Euren plastikfreien Beauty-Einkauf und lernt vegane Deo und andere Highlights kennen. Holt Euch jetzt alle Infos!'
-excerpt: 'In diesem Artikel stelle ich Euch die plastikfreien Beauty-Produkte der lekker Company vor. Mein Produkttest bringt Aufschluss über die Brand, die Inhalsstoffe und die Qualität der veganen Deos und Gesichtsreinigungsbars. Erfahrt jetzt alles über das erfolgreiche Start-up aus dem niederländischen Utrecht!'
+title: Vegane Deos & Co. von the lekker Company
+subTitle: Natürlich und ohne Plastik macht schön!
+seoTitle: lekker – vegane Deos & Co.
+description: Mit meinem lekker Produkttest gebe ich Euch wertvolle Tipps für
+  Euren plastikfreien Beauty-Einkauf und lernt vegane Deo und andere Highlights
+  kennen. Holt Euch jetzt alle Infos!
+excerpt: In diesem Artikel stelle ich Euch die plastikfreien Beauty-Produkte der
+  lekker Company vor. Mein Produkttest bringt Aufschluss über die Brand, die
+  Inhalsstoffe und die Qualität der veganen Deos und Gesichtsreinigungsbars.
+  Erfahrt jetzt alles über das erfolgreiche Start-up aus dem niederländischen
+  Utrecht!
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-19/2024-03-lekker-vegane-deos-gesichtsreiniger-soundsvegan-com-1-jpg-imagine-081848_434e62_1024_768/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-03-19/lekker-vegane-deos-gesichtsreiniger-soundsvegan-com-og-jpg-imagine-f8d808_666d5e_1200_628/640.webp
 labels:
   - Deo
@@ -21,10 +26,11 @@ labels:
   - plastikfrei
   - zero waste
   - less waste
-focusKeyword: 'Vegane Deos'
+focusKeyword: Vegane Deos
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Kennt Ihr schon the lekker Company? In diesem Artikel möchte ich Sie im Rahmen meiner Kooperation mit Big Green Smile gerne vorstellen und Euch zwei meiner Lieblingsprodukte zeigen – das Deodorant in der Duftrichtung "Mandarine & Zitrone" und den Gesichtsreinigungsbar. Beides ist natürlich und selbstverständlich vegan und cruelty free. Spannende Insights zur Brand bekommt Ihr wie immer mit dazu.**

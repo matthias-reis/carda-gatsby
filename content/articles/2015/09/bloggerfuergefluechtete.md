@@ -1,13 +1,13 @@
 ---
 date: 2015-09-14T14:29:26.000Z
-slug: bloggerfuergefluechtete
-path: /2015/09/bloggerfuergefluechtete/
 title: Blogger*innen für Geflüchtete
-seoTitle: '#Bloggerfuerfluechtlinge - Werdet aktiv!'
-ogTitle: '#Bloggerfuerfluechtlinge - Werdet aktiv!'
-description: 'Sicher ist Euch in den letzten Tagen beim Stöbern durch die Blogs auch immer wieder der Hashtag #BloggerfuerFluechtlinge aufgefallen. Helft jetzt mit!'
-excerpt: 'Sicher ist Euch in den letzten Tagen genau wie mir beim Stöbern durch die Blogs immer wieder der Hashtag #BloggerfuerFluechtlinge aufgefallen.'
-fileName: 2015-09---blogger-innen-fuer-gefluechtete.md
+seoTitle: "#Bloggerfuerfluechtlinge - Werdet aktiv!"
+ogTitle: "#Bloggerfuerfluechtlinge - Werdet aktiv!"
+description: "Sicher ist Euch in den letzten Tagen beim Stöbern durch die Blogs
+  auch immer wieder der Hashtag #BloggerfuerFluechtlinge aufgefallen. Helft
+  jetzt mit!"
+excerpt: "Sicher ist Euch in den letzten Tagen genau wie mir beim Stöbern durch
+  die Blogs immer wieder der Hashtag #BloggerfuerFluechtlinge aufgefallen."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_21028244308_562302f763_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_21028244308_562302f763_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMEBQf/xAAsEAACAgEDAwMDAwUAAAAAAAABAgMEEQAFEhMhMQYiQQcyUVJhkRQWI4Gh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgQFA//EACQRAAICAgAEBwAAAAAAAAAAAAECABEDEhMx4fAEFCFBUXGh/9oADAMBAAIRAxEAPwDag/tzfo2q0KCu8tdpeFUx5V0I5KwT7vGfafONC61XaIL3U2uwysykiraiEfUAPd1ZwAUP6s40cp1Z2S1T22HcWqf0USvJUZEAlkbGJAVPIME+0Y7jJOrdB78ZXaLla070ukIrUVMTsq+GUnIyPAIBAGPzocOJ8oJX29en38CFlZEoHvpNUbAlmaSyyjb/APIOn1YhxdcZKrg/Hz4xpfuO8yw7MkW1wQy3ooEDK4ZYo1DcTk8/0hT37ZPnQ7c4aG2wyWt/O40l6DLAstCWsXY9sx8ie/xkHsDk6jrbzYtel68O20BWmRpdulsJ7hPHIvIvIxPvXHz+/wAHWa7MNqhapetyBzA91ZLDhJJGAMz5JPf5Yfz/ADpP6f8Aqnc9PU4qVSntUnFnkZpBIHyWySGU4wQAf9d++gu4i10TJVnKTLkBFH3D5GT40I3hbsXM20IMz8U498kY9o7+MeTqhm4beEXEOZNn9HYiyhvMFzyAqdm9a/UCpva7S17atsq0JJJxbUVxbErcUK+1xlT3JyO/76K+nfWkm373FtdXZvTz10t8xJHUaPqKFbHIciO4b8A9tBNvkmsxDamZXlRy8XNjiNsDOD+CBgj8gHTKjtKQ2I7mFFlOJ5YyGI+P+6ncHVCojQe2sz//2Q==
@@ -23,13 +23,12 @@ labels:
   - helfen
   - Herzlich Willkommen
   - refugeeswelcome
-focusKeyword: '#BloggerfuerFluechtlinge'
-status: publish
+focusKeyword: "#BloggerfuerFluechtlinge"
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Werdet aktiv!
+
 ---
 
 **Sicher ist Euch in den letzten Tagen genau wie mir beim Stöbern durch die Blogs immer wieder der Hashtag #BloggerfuerFluechtlinge aufgefallen. Ein Projekt, das wirklich jede/r Blogger/in unterstützen sollte, wie ich finde.**

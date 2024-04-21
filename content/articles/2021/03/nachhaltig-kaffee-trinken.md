@@ -1,13 +1,13 @@
 ---
 date: 2021-03-05T13:58:18.000Z
-slug: nachhaltig-kaffee-trinken
-path: /2021/03/nachhaltig-kaffee-trinken/
 title: Nachhaltig Kaffee trinken
 seoTitle: Nachhaltig Kaffee trinken – Koffein und Umweltschutz – geht das?
 ogTitle: Nachhaltig Kaffee trinken – Koffein und Umweltschutz – geht das?
-description: Kaffee trinken in unseren Gefilden die meisten leidenschaftlich gerne. Doch wie sieht es mit der Nachhaltigkeit aus?
-excerpt: Kaffee trinken in unseren Gefilden die meisten leidenschaftlich gerne. Doch wie sieht es mit der Nachhaltigkeit aus? Koffein und Umweltschutz – passt das wirklich zusammen? Und wie sieht es eigentlich mit der Fairness aus?
-fileName: 2021-03---nachhaltig-kaffee-trinken.md
+description: Kaffee trinken in unseren Gefilden die meisten leidenschaftlich
+  gerne. Doch wie sieht es mit der Nachhaltigkeit aus?
+excerpt: Kaffee trinken in unseren Gefilden die meisten leidenschaftlich gerne.
+  Doch wie sieht es mit der Nachhaltigkeit aus? Koffein und Umweltschutz – passt
+  das wirklich zusammen? Und wie sieht es eigentlich mit der Fairness aus?
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_kaffee-rauwolf-coffee__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_kaffee-rauwolf-coffee__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcC/8QAKRAAAQMCBQQCAgMAAAAAAAAAAQIDBAURAAYSITETIjJBB2EUUTNCcf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAAxEhEjET0fFB/9oADAMBAAIRAxEAPwDitQIcqpPxJ8SLIgJ0rV1AglN9iSLhQ/rx94TKx8cQpcpCKa5Jo0tZcKocwdcICbdwWncBQNxe/vBToqImc3JNbSzW3W7vPvpZLe/T1cBJPiLW/fGNUgVZFTfdqLUtr8F1spUlT6nHAG99SkqA0JOlXluPXrAaWZyPFsYzH2KoB56kT4Tyk7lmTKVVJEV9esLQ4kFOkFOnfVaxOL6uqZqTr0SS2861HWFhSXhYXSbFPad7EjnC9RsyImZbzLV6YmZdpLTgSAkua1CyNHpVinf625xbUCvNZkpC5qoC4ytYSpT5/lKQQSLAcH1b2MFxlmscfsSNBUUzGaZSsySq5InRstVOe24Ox6YSwvxt3hKkgkXIvwf1h8o+Q69Pok1ypQW2Zy9QYZMkFDZV5KNtRP8AnH1gwYpXcRoADEm1IIyTHLLWT63SKPMbnVOmuyiGlR0pKWkdi1K0lWhPN+bH3id8a0OdQKYYdRfhuuFZUEpV1UqRa5JIFgQQrBgw+ihXXke/vuDtuZTxHXz1P//Z
@@ -22,12 +22,11 @@ labels:
   - Rösterei
   - support your local
 focusKeyword: Kaffee
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Koffein und Umweltschutz – geht das?
+
 ---
 
 **Kaffee trinken in unseren Gefilden die meisten leidenschaftlich gerne. Doch wie sieht es mit der Nachhaltigkeit aus? Koffein und Umweltschutz – passt das wirklich zusammen? Und wie sieht es eigentlich mit der Fairness aus?**

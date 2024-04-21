@@ -1,12 +1,16 @@
 ---
 date: 2022-01-11T16:27:33.743Z
-slug: som-the-shape-of-everything-en
 typeName: Review
 title: '"The Shape of Everything"'
 subTitle: The New SOM Album
 seoTitle: SOM – "The Shape of Everything" – Post-Rock Review
-description: '"The Shape Of Everything" is a big album – consisting of eight tracks. With just 34 minutes in total, SOM managed to build a palpable dramaturgy that speaks of the world in our time.'
-excerpt: 'SOM singer and guitarist Will Benoit woke up one night to find an email from guitarist Joel Reynolds in his inbox. Attached was an mp3 called "Animals". It was one of the defining moments in the emergence of the glorious new album "The Shape Of Everything '
+description: '"The Shape Of Everything" is a big album – consisting of eight
+  tracks. With just 34 minutes in total, SOM managed to build a palpable
+  dramaturgy that speaks of the world in our time.'
+excerpt: 'SOM singer and guitarist Will Benoit woke up one night to find an
+  email from guitarist Joel Reynolds in his inbox. Attached was an mp3 called
+  "Animals". It was one of the defining moments in the emergence of the glorious
+  new album "The Shape Of Everything '
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-11/som-the-shape-of-everything-jpg-imagine-181818_2f2f36_1024_768/640.webp
 copyright: SOM
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-11/som-the-shape-of-everything-fb-png-imagine-181818_2f2f35_1200_628/640.webp
@@ -24,6 +28,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2022/01/som-the-shape-of-everything/
+
 ---
 
 **SOM singer and guitarist Will Benoit woke up one night to find an email from guitarist Joel Reynolds in his inbox. Attached was an mp3 called "Animals". It was one of the defining moments in the emergence of the glorious new album "The Shape Of Everything "**.

@@ -1,13 +1,12 @@
 ---
 date: 2015-08-21T12:33:10.000Z
-slug: diy-upcycling-jeansrock
-path: /2015/08/diy-upcycling-jeansrock/
 title: DIY Upcycling Jeansrock
 seoTitle: DIY Upcycling Jeansrock - Anleitung
 ogTitle: DIY Upcycling Jeansrock - Anleitung
-description: Ich zeige Euch heute, wie ich meinen Lieblings-Festival-Minirock mit wenigen Handgriffen zu einem echten Einzelstück gemacht habe.
-excerpt: Am Wochenende geht es für uns wieder auf's Festival, denn ich habe Karten für das Rock'n'Heim gewonnen.
-fileName: 2015-08---diy-upcycling-jeansrock.md
+description: Ich zeige Euch heute, wie ich meinen Lieblings-Festival-Minirock
+  mit wenigen Handgriffen zu einem echten Einzelstück gemacht habe.
+excerpt: Am Wochenende geht es für uns wieder auf's Festival, denn ich habe
+  Karten für das Rock'n'Heim gewonnen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-17__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-17__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMEBgX/xAAsEAACAQIGAQIEBwAAAAAAAAABAgMEEQAFBhIhMRNBcQdRYYEUIiUyQpKh/8QAFwEBAQEBAAAAAAAAAAAAAAAABQIDBP/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAwIRBBIhMUH/2gAMAwEAAhEDEQA/AL+uMseWuoMxkljgmpUmCxybS0quEuFBN7ggfTnnAPrihzGizergr5S1M1SyRlCEUjsfkFrHj1FsL+gtJVhzCaTNaKeHzyNLLVSyMJRCSC0PPNiRa3Pd/riL4riDM6zY0asttpUi/A677wdRhjWBi7idtjmImoIZDS/qMqKZjH4rsCbLcngMewDbocnrCRpLTA1BVyq5VaSlCPJdrPtboKvyJUi/p74pZHk1NTwzeGFIxZibAi/Fh64X9I6PXIomrvKgjmpvDFCq2KoX3c+x698TybOvsvjnmtSes1jQJFLS5XmVXXiw3GqmJZTtJ/aQCPuOb4MMwqvxczO5LM5JJ7JwXjV8s9Qj5pRU1VsICyRjwyqo6AZfYdj0x0IdSZbGl4q7OI+b+N4o5fl/IkfU/fG5V0A1OZtM1dxb0plSVshE7vFTR7Wd0ALE7hYAGwJJGN5qXV1HT0zCOnrAqiygRiwH9sYb4dZlSTaaXMlSZnmkcKZACVCsQDYGwOJM/wAyiqVZGc2PoSB/mBuRc5XdD4Rbj0hX2f2f/9k=
@@ -24,12 +23,11 @@ labels:
   - sewing
   - Upcycling
 focusKeyword: Upcycling
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Kreiere Dein romantisches Einzelstück
+
 ---
 
 **Am Wochenende geht es für uns wieder auf's Festival, denn ich habe Karten für das Rock'n'Heim gewonnen. Natürlich freue ich mich wie verrückt auf das Event und da muss natürlich auch was Besonderes zum Anziehen mit. Was könnte es da geben, als ein tolles Upcycling-Teil** ?

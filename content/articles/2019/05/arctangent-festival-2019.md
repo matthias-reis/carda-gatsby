@@ -1,17 +1,18 @@
 ---
-date: 2019-05-20T12:36:53.000+00:00
-slug: arctangent-festival-2019
-path: '/2019/05/arctangent-festival-2019/'
+date: 2019-05-20T12:36:53.000Z
 title: ArcTanGent Festival 2019
 seoTitle: ArcTanGent Festival Bristol 2019 - wir sind auch dabei!
 ogTitle: ArcTanGent Festival Bristol 2019 - wir sind auch dabei!
-description: Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das Independent Festival findet seit 2013 jährlich 10 Meilen südlich von Bristol statt.
-excerpt: Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das Independent Festival findet seit 2013 jährlich 10 Meilen südlich von Bristol statt.
-fileName: 2019-05---arctangent-festival-2019.md
+description: Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das
+  Independent Festival findet seit 2013 jährlich 10 Meilen südlich von Bristol
+  statt.
+excerpt: Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das
+  Independent Festival findet seit 2013 jährlich 10 Meilen südlich von Bristol
+  statt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_Arctangent-2019__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_Arctangent-2019__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAjEAABBAEEAgMBAAAAAAAAAAABAAIDEQQSEyExBVEGImFB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwX/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADEQQSIf/aAAwDAQACEQMRAD8AkSJ59oOOh8lAHSzlzrcG6WgAkuN8Cvaeqvj0mVj+chnlmjHj9xg2yKcXizWqjTeQT2eB7Ku0kLqzi8ta2WeWnMw82HNEj8ZsgjbI5lPrUKNUa6KpUOXHLL8pyczYiZBPJLKJYnfWS3UKANdVyRzSuTrJK6Yumta7CqwSpYhIxzTel3YBq69oQrIBGGYBih1T9mcfHjxxphGlnQb/AAfg/E9CEZgwQLFjpn//2Q==
-ogImage:
+ogImage: null
 labels:
   - ArcTanGent
   - Bossk
@@ -31,12 +32,11 @@ labels:
   - The Ocean
   - serie:England 2019
 focusKeyword: ArcTanGent
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Wir sind auch dabei!
+
 ---
 
 **Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das Independent Festival findet seit 2013 jährlich zehn Meilen südlich von Bristol statt.**

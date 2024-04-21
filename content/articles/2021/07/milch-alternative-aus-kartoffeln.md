@@ -1,12 +1,14 @@
 ---
 templateKey: article
 date: 2021-07-26T10:18:03.794Z
-slug: milch-alternative-aus-kartoffeln
 typeName: Beitrag
 title: Milch-Alternative aus Kartoffeln
 subTitle: Neuer Pflanzendrink aus Schweden
 seoTitle: Milch-Alternative aus Kartoffeln – neuer Pflanzendrink aus Schweden
-description: Kartoffeln als Milch-Alternative – was zunächst gewöhnungsbedürftig klingt, wird in Schweden gerade getestet und schmeckt offenbar ziemlich gut. Das Lebensmittel Start-up Veg of Lund hat die Milch-Alternative aus Kartoffeln in Zusammenarbeit mit Prof. Eva Tornberg von der Universität Lund entwickelt.
+description: Kartoffeln als Milch-Alternative – was zunächst gewöhnungsbedürftig
+  klingt, wird in Schweden gerade getestet und schmeckt offenbar ziemlich gut.
+  Das Lebensmittel Start-up Veg of Lund hat die Milch-Alternative aus Kartoffeln
+  in Zusammenarbeit mit Prof. Eva Tornberg von der Universität Lund entwickelt.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/milch-alternative-aus-kartoffeln-dug-jpg-imagine-080808_515b29_1024_768/640.webp
 copyright: DUG®
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/milch-alternative-aus-kartoffeln-dug-fb-png-imagine-080808_505a28_1200_628/640.webp
@@ -16,10 +18,11 @@ labels:
   - vegan
   - Ernährung & Gesundheit
   - Lund University
-focusKeyword: 'Milch-Alternative aus Kartoffeln '
+focusKeyword: "Milch-Alternative aus Kartoffeln "
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Kartoffeln als Milch-Alternative – was zunächst gewöhnungsbedürftig klingt, wird in Schweden gerade getestet und schmeckt offenbar ziemlich gut.**

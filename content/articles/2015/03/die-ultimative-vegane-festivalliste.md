@@ -5,15 +5,10 @@ excerpt: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es
   Lesen!
 ogImage: null
 isAffiliate: false
-path: /2015/03/die-ultimative-vegane-festivalliste/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQQHCP/EACgQAAIBAwMEAQQDAAAAAAAAAAECAwQFEQASIQYTMUEiB1FhcSNCYv/EABgBAAMBAQAAAAAAAAAAAAAAAAEEBQAD/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAxEhMQTwEoHB/9oADAMBAAIRAxEAPwDnm00ymyTzS0as3dXsVQfBVgDujIz7BBz/AJ496drr0tBdrZdrqahoKO1wRKGJEhnqpfkw9EZyx94A1rO3yduoVjnb/bGryqNRKqYmJjlxIwyB8toHI4HgaUqBg17y9xHRqeVvrvfkefprarFeunLtabnNJC1RsaEjB7dQivyPeGDLxnGQfsCEXqya2rLNDb6Vu48+8zyMS23Ynxx4B3FyT+tMfTHT1WKGetp6wdvb/IsahnideUY+eM4z+CdVv1fs9JZOua6it9VFU06iORZImDD5IGxkexnGhSN3OcTpy0elxxcWPrUS45ShGAOPwDqRqyWRlLlTt8Dbxo0ab8RuQxUYYBk6XarjgeFJiInO5gvG7941jPO8hBdgScDx9tGjWCgaELV6j4Ykz//Z
 isWerbung: false
-fileName: 2015-03---die-ultimative-vegane-festivalliste.md
-slug: die-ultimative-vegane-festivalliste
-errors: {}
-date: 2015-03-06T13:00:59.000+00:00
+date: 2015-03-06T13:00:59.000Z
 focusKeyword: vegane Festivalliste
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_9918184096_a390857d9c_o__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_9918184096_a390857d9c_o__m.jpg
 title: Die ultimative vegane Festivalliste
@@ -41,6 +36,7 @@ labels:
   - vegane Packliste Festival
   - vegane Festival-Packliste
 language: de
+
 ---
 
 **Seit Jahren schon findet meine Festivalliste regen Anklang. Jahr für Jahr optimiere ich sie, schraube daran herum, fahre wieder auf Festivals, bemerke, was ich weglassen, was hinzufügen kann und im nächsten Jahr gibt es wieder eine neue Liste.**

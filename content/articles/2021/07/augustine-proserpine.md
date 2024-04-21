@@ -1,12 +1,14 @@
 ---
 date: 2021-07-05T14:26:46.143Z
-slug: augustine-proserpine
 typeName: Review
 title: Augustine – "Proserpine"
 subTitle: Das neue Album der Multi-Instrumentalistin
 seoTitle: Augustine – "Proserpine" – Das neue Album der Multi-Instrumentalistin
-description: Das neue Album von Augustine aka Sara Baggini ist bereits im April erschienen. Höchste Zeit für eine Review zu "Proserpine". Die zweite LP der Dream Pop/Dark Folk Multi-Instrumentalistin und Musik-Producerin hat es nämlich in sich – ich lege sie Euch hiermit ans Herz.
-excerpt: ''
+description: Das neue Album von Augustine aka Sara Baggini ist bereits im April
+  erschienen. Höchste Zeit für eine Review zu "Proserpine". Die zweite LP der
+  Dream Pop/Dark Folk Multi-Instrumentalistin und Musik-Producerin hat es
+  nämlich in sich – ich lege sie Euch hiermit ans Herz.
+excerpt: ""
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-1-jpg-imagine-080808_2d2322_1024_768/640.webp
 copyright: Sara Baggini
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/augustine-fb-jpg-imagine-080808_261d1d_1200_628/640.webp
@@ -30,6 +32,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/07/augustine-proserpine-en
+
 ---
 
 **Das neue Album von Augustine aka Sara Baggini ist bereits im April erschienen. Höchste Zeit für eine Review zu "Proserpine". Der zweite Langspieler der Multi-Instrumentalistin und Producerin hat es nämlich in sich.**

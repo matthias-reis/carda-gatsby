@@ -1,13 +1,12 @@
 ---
-date: 2020-06-24T14:46:24.000+00:00
-slug: 12-songs-fuer-den-juli-2020
-path: '/2020/06/12-songs-fuer-den-juli-2020/'
+date: 2020-06-24T14:46:24.000Z
 title: 12 Songs für den Juli
 seoTitle: 12 Songs für den Juli - frisch auf Eurem Plattenteller
 ogTitle: 12 Songs für den Juli - frisch auf Eurem Plattenteller
-description: Für den Juli haben wir wieder 12 besonders herausragende Songs für Euch zusammengestellt. Mit dabei sind neue Sensationen und starke Klassiker.
-excerpt: Für den Juli haben wir wieder 12 besonders herausragende Songs für Euch zusammengestellt. Mit dabei sind neue Sensationen und starke Klassiker.
-fileName: 2020-06---12-songs-fuer-den-juli.md
+description: Für den Juli haben wir wieder 12 besonders herausragende Songs für
+  Euch zusammengestellt. Mit dabei sind neue Sensationen und starke Klassiker.
+excerpt: Für den Juli haben wir wieder 12 besonders herausragende Songs für Euch
+  zusammengestellt. Mit dabei sind neue Sensationen und starke Klassiker.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_12-songs-fuer-den-juli__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_12-songs-fuer-den-juli__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBgcI/8QAJxAAAgEEAAYCAgMAAAAAAAAAAQIDAAQFEQYSEyExQTKhB0JRYYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBAID/8QAHxEAAQMEAwEAAAAAAAAAAAAAAAESIQIREzEUNPBR/9oADAMBAAIRAxEAPwDmXh2W1t87j5shEJrSOdHljKhg6hgSCCRsH2Njt7rQfz9DhI85g3wEGBgMuNWS7jwsqyQCYyyDsVPnlCnXrdUTEYue6lZopTGE0OZVJOz4AA91LNYye3kVppeoPhsx8hBHoiumKtr7QYyUuZeTXmuUhPTIWDfK3xHNrsANf4PG6XI75HIpbJcq8exGwKqFZQp0djvvwKp44jZoUWa255Y2DpKHAIYEEH4/1902PifprGsdoQEbmB6o2DvY/X1U2NGakpelULoXwaLJbgMbgmNJufZQqOynX3rvUuNEs5J5JFuV6cj9QMilgW5Dsb/nY+6KKdRV4FvbCV7XvhXaB5ooocQP/9k=
@@ -42,14 +41,13 @@ labels:
   - Tricky
   - Tricky feat. Marta
 focusKeyword: Songs
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Frisch auf Eurem Plattenteller
-year: '2020'
-month: '06'
+year: "2020"
+month: "06"
+
 ---
 
 **Gemeinsam mit Valentin und Matze habe ich wieder 12 Songs für Euch vorbereitet. Sie sollen Euch den Juli versüßen. Mit dabei sind einige geniale Neuentdeckungen. Valentin hat sich wieder um die Klassiker gekümmert.**

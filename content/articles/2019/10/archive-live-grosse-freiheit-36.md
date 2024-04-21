@@ -1,15 +1,14 @@
 ---
 date: 2019-10-22T17:06:45.000Z
-slug: archive-live-grosse-freiheit-36
-path: /2019/10/archive-live-grosse-freiheit-36/
 type: Artikel
 typeName: Konzertbericht
 title: Archive live @ Große Freiheit 36
 seoTitle: Archive live @ Große Freiheit 36 - zarte Töne auf dem Kiez
 ogTitle: Archive live @ Große Freiheit 36 - zarte Töne auf dem Kiez
-description: Gestern waren Archive bei uns in Hamburg zu Gast - das wollten wir uns natürlich nicht entgehen lassen und haben uns das Konzert angehört.
-excerpt: Gestern waren Archive bei uns in Hamburg zu Gast - das wollten wir uns natürlich nicht entgehen lassen und haben uns das Konzert angehört.
-fileName: 2019-10---archive-live-grosse-freiheit-36.md
+description: Gestern waren Archive bei uns in Hamburg zu Gast - das wollten wir
+  uns natürlich nicht entgehen lassen und haben uns das Konzert angehört.
+excerpt: Gestern waren Archive bei uns in Hamburg zu Gast - das wollten wir uns
+  natürlich nicht entgehen lassen und haben uns das Konzert angehört.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-7__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-7__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAUI/8QAJhAAAgEEAgAFBQAAAAAAAAAAAQIDAAQFESExBhJRYXETQUKB8f/EABcBAQEBAQAAAAAAAAAAAAAAAAQAAQX/xAAdEQABBQEAAwAAAAAAAAAAAAABAAIDBBExIUGR/9oADAMBAAIRAxEAPwDltdn8Qf1U7IVVT5F62QDWlhLWN3JmK8xlkUEElugDrrnn+02Mb4Axd0iNLJcxxiAbdF825CN/AG/t6UmNgw6ubbvR1sMnNz6kk0ZJ4Q7PVROhU6Owe9GnEng3ES3KW898YfpOwmuSugBoaVVPfzS88X21nBmbpMSxksg3liYuGJUAd+9UkBYPJSIbAkcWj0sBJpE2FkZR3wdVes83k7NJEtchdxRyDTqszAMPcb5ooo+lIcxrhjhqhuMle3Ehea7ndzztpCarvK7klyWb1PNFFRcT0rQAOL//2Q==
@@ -23,12 +22,11 @@ labels:
   - Konzerte
   - London
 focusKeyword: Archive
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Zarte Töne auf dem Kiez
+
 ---
 
 **Gestern waren Archive bei uns in Hamburg zu Gast - das wollten wir uns natürlich nicht entgehen lassen und hatten uns schon vor ein paar Monaten die Tickets gesichert.**

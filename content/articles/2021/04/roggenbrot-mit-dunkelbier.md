@@ -1,15 +1,15 @@
 ---
 date: 2021-04-01T06:32:35.000Z
-slug: roggenbrot-mit-dunkelbier
-path: /2021/04/roggenbrot-mit-dunkelbier/
 type: Artikel
 typeName: Rezept
 title: Roggenbrot mit Dunkelbier
 seoTitle: Roggenbrot mit Dunkelbier – Ich verrate mein Familienrezept
 ogTitle: Roggenbrot mit Dunkelbier – Ich verrate mein Familienrezept
-description: Roggenbrot mit Dunkelbier ist eine leckere Delikatesse, die Ihr mit ein paar Tipps zu Hause ganz leicht selbst herstellen könnt.
-excerpt: Roggenbrot mit Dunkelbier ist eine leckere Delikatesse, die Ihr mit ein paar Tipps zu Hause ganz leicht selbst herstellen könnt. Ihr müsst Euch dafür nur drei Stunden Zeit nehmen. Ich verrate Euch heute mein Familienrezept.
-fileName: 2021-04---roggenbrot-mit-dunkelbier.md
+description: Roggenbrot mit Dunkelbier ist eine leckere Delikatesse, die Ihr mit
+  ein paar Tipps zu Hause ganz leicht selbst herstellen könnt.
+excerpt: Roggenbrot mit Dunkelbier ist eine leckere Delikatesse, die Ihr mit ein
+  paar Tipps zu Hause ganz leicht selbst herstellen könnt. Ihr müsst Euch dafür
+  nur drei Stunden Zeit nehmen. Ich verrate Euch heute mein Familienrezept.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_roggenbrot-mit-dunkelbier__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_roggenbrot-mit-dunkelbier__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAqEAABAwMDAwQBBQAAAAAAAAABAgMEAAURBiExEhNhFSJBUQcyQnGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAMCBP/EAB8RAAEEAgIDAAAAAAAAAAAAAAEAAgMRITESQbHC8f/aAAwDAQACEQMRAD8Ac6M0Ppe2RPVdSQok+9SQlx5b7ZdaadIGQ2gjGx5URknxV7Gv0dDEtuY1GT2XFNhDKQEkDYYHH1WH6ev8uQ64JRfTFYKmmnEHrCyN8nncDGBj78009YjORHnWJUfuBSlr2CFA/I6RwrPz/lAJLTGKk2/IrsOXDt0mDBaamJljvLaQEAJKSAVAbfqI80q/H9ukaeuMhd5CLm0pASy2hZSpseSc5FR0G8quGpHoiGpC2GVIWShsLPV3B7lEDfO4H2TWh2y4NXlqWptuRGMaR2Smc2WVdQAVnBAwNxzSxvc021JMwOgax2rPqVGa3jxnVep6cn298FID8NmSlLhPHWgA+4n9wxk81LO3d8NoCYcjuoHsW42cg/zjf55oorPs5VjGAujQFtvceSue82lDU59tCUPIOXFJKik4G4Tn+/itLtmr22AGJnp7Mgbltc+TDXv4UnFFFaA3Sjlyis9Hz8X/2Q==
@@ -24,14 +24,12 @@ labels:
   - Sauerteig
   - vegan backen
   - vegane Rezepte
-
 focusKeyword: Roggenbrot mit Dunkelbier
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Mein Familienrezept
+
 ---
 
 **Roggenbrot mit Dunkelbier ist eine leckere Delikatesse, die Ihr mit ein paar Tipps zu Hause ganz leicht selbst herstellen könnt. Ich verrate Euch heute mein Familienrezept.**

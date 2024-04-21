@@ -1,14 +1,17 @@
 ---
 date: 2023-12-01T08:09:53.766Z
-slug: lovechock-vegane-schokolade
 typeName: Produkttest
 title: '"Cacao Magic"'
 subTitle: Neue vegane Schokolade von Lovechock
-seoTitle: 'Vegane Schokolade von Lovechock – "Cacao Magic"'
-description: Vegane Schokolade – ist das Musik in Euren Ohren? Dann entdeckt jetzt die neuen Lovechock Sorten in Kooperation mit belgischen Chocolatiers!
-excerpt: Wenn vegane Schokolade schon wie Musik in Euren Ohren klingt, werden Euch die neuen "Cacao Magic" Sorten von Lovechock begeistern. Die Rezepte kommen mit 30 Prozent weniger Zucker aus und die Brand arbeitet jetzt mit belgischen Chocolatiers zusammen.
+seoTitle: Vegane Schokolade von Lovechock – "Cacao Magic"
+description: Vegane Schokolade – ist das Musik in Euren Ohren? Dann entdeckt
+  jetzt die neuen Lovechock Sorten in Kooperation mit belgischen Chocolatiers!
+excerpt: Wenn vegane Schokolade schon wie Musik in Euren Ohren klingt, werden
+  Euch die neuen "Cacao Magic" Sorten von Lovechock begeistern. Die Rezepte
+  kommen mit 30 Prozent weniger Zucker aus und die Brand arbeitet jetzt mit
+  belgischen Chocolatiers zusammen.
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-01/lovechock-anne-reis-soundsvegan-com-03-jpg-imagine-080808_b07045_2048_1536/640.webp
-copyright: ''
+copyright: ""
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-01/lovechock-og-jpg-imagine-080808_b96537_1200_628/640.webp
 labels:
   - Schokolade
@@ -21,6 +24,7 @@ focusKeyword: vegane Schokolade
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Wenn Ihr vegane Schokolade liebt, ist Euch Lovechock sicher schon ein Begriff. Jetzt gibt es pünktlich zur kalten Jahreszeit Neuigkeiten von der süßen Brand aus Amsterdam. Die neuen Sorten aus der "Cacao Magic" Serie sind wirklich etwas ganz Besonderes. Ich erzähle Euch, warum.**

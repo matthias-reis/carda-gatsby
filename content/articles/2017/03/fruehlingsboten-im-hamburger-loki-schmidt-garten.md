@@ -1,15 +1,16 @@
 ---
-date: 2017-03-05T19:02:10.000+00:00
-slug: fruehlingsboten-im-hamburger-loki-schmidt-garten
-path: '/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/'
+date: 2017-03-05T19:02:10.000Z
 type: Galerie
 typeName: Galerie
 title: Frühlingsboten im Hamburger Loki Schmidt Garten
 seoTitle: Frühlingsboten im Hamburger Loki Schmidt Garten - Der Winter verabschiedet sich
 ogTitle: Frühlingsboten im Hamburger Loki Schmidt Garten - Der Winter verabschiedet sich
-description: Frühlingsboten zeigen sich im Hamburger Loki Schmidt Garten. Alles scheint in zarte Pastelltöne getaucht zu sein und die Vögel bauen ihre Nester - Fotoserie
-excerpt: Frühlingsboten zeigen sich im Hamburger Loki Schmidt Garten. Alles scheint in zarte Pastelltöne getaucht zu sein und die Vögel bauen ihre Nester - Fotoserie
-fileName: 2017-03---fruehlingsboten-im-hamburger-loki-schmidt-garten.md
+description: Frühlingsboten zeigen sich im Hamburger Loki Schmidt Garten. Alles
+  scheint in zarte Pastelltöne getaucht zu sein und die Vögel bauen ihre Nester
+  - Fotoserie
+excerpt: Frühlingsboten zeigen sich im Hamburger Loki Schmidt Garten. Alles
+  scheint in zarte Pastelltöne getaucht zu sein und die Vögel bauen ihre Nester
+  - Fotoserie
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_33226265836_3f9ac8b17a_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_33226265836_3f9ac8b17a_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAgIBAwIFBAMAAAAAAAAAAQIDBBEABSESQQYTIjFhBxRxgTJRkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIDESExEkH/2gAMAwEAAhEDEQA/AM226JJWJ+3Chic8YVcnt8DTZ4e2/ZZadyPcYbslxkAox0kD9b8n1Z5OMew9xnS1uj1NuvzbdXt17Z60UTV3DRyKQDkdx3BHbVz4c8R3tmsC/tk6LuTKywgw+YQCMcDscA8/nUL7spnKLhk5au1tuciVaVSaW3JkpCkZLkAEkYxntqlm22WxMKtSGSayxPTGikuxHuMDk4wePg6bNl8Sbxc8WR39oMk+8WGPmCJMtL6QzKFX+8fH8TzquvbxLte5/f0b1qLeup47fmQCN4pWHqAH7I/K51kV9FesvCaE/a5Um8xkrwIVJUkoCThST/uNTS3pmdRGxiMLEIUOMZ50aNFbrgVu4DP9HYZb++7nOtyzUlhpkxvWKqyu56erkEcYJxjnPvrP7V+xflsPYkZpvOYPKxLM5yeSf1o0acopVxJq1s//2Q==
@@ -36,14 +37,13 @@ labels:
   - Spaziergang
   - serie:Loki Schmidt Garten
 focusKeyword: Frühlingsboten
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Der Winter verabschiedet sich
-year: '2017'
-month: '03'
+year: "2017"
+month: "03"
+
 ---
 
 **Die ersten zarten Frühlingsboten zeigen sich. Unermüdlich drängen zarte Pflänzchen in Richtung Erdoberfläche. Der Sonne entgegen.**

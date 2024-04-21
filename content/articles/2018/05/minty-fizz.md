@@ -1,15 +1,15 @@
 ---
 date: 2018-05-21T17:08:34.000Z
-slug: minty-fizz
-path: /2018/05/minty-fizz/
 type: Artikel
 typeName: Rezept
 title: Minty Fizz
 seoTitle: Minty Fizz - Sommerliches Aperitif-Rezept für Euch - Prost!
 ogTitle: Minty Fizz - Sommerliches Aperitif-Rezept für Euch - Prost!
-description: Liebt Ihr einen guten Fizz? Dann werdet Ihr heute auf jeden Fall auf Eure Kosten kommen. Viel Spaß mit meinem Minty Fizz! Hier kommt das Rezept.
-excerpt: Liebt Ihr einen guten Fizz? Dann werdet Ihr heute auf jeden Fall auf Eure Kosten kommen. Viel Spaß mit meinem Minty Fizz! Hier kommt das Rezept.
-fileName: 2018-05---minty-fizz.md
+description: Liebt Ihr einen guten Fizz? Dann werdet Ihr heute auf jeden Fall
+  auf Eure Kosten kommen. Viel Spaß mit meinem Minty Fizz! Hier kommt das
+  Rezept.
+excerpt: Liebt Ihr einen guten Fizz? Dann werdet Ihr heute auf jeden Fall auf
+  Eure Kosten kommen. Viel Spaß mit meinem Minty Fizz! Hier kommt das Rezept.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_39976948150_758df52ab7_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_39976948150_758df52ab7_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKRAAAgIBAwMDAwUAAAAAAAAAAQIDBBEABSESMUETFFEiI5EyUmKBof/EABYBAQEBAAAAAAAAAAAAAAAAAAQCBf/EACMRAAEEAAQHAAAAAAAAAAAAAAEAAgMRBBMhMRQiQVGRsfD/2gAMAwEAAhEDEQA/ALO8S43+qKc3WEKxkpnDc5yPz306T7jFBAA08AmK5KKnUy4GScee3bSZs1exakWaOR4qyjoEmepnYj9K+WPzkgfJ03+jtW5QrSmgV7NTiZFIilZv5cjI8nBwNZLHyZrnXV/erTMUWGGNgFEKja3utYpzhHhZ3gaRegnKgj6c47Hz37azavv1yO/7TcCJYT2fuSPP9+daRuNSjUjvRUtnhS3YgKiQFsIT+3wBxrNr+y3UtizMkSxL9tQkiu3UwPJAPAxnUSTSGUUdR2tLwMEfDPzqvp4TLs1416cEMixiKEhogWJKHHPPkH4/3Xa6dp3GdJkk9k2CXeqELSMTyxZj1A86NGlYiJhIFIrRfMdwpl9r26OZmkksPIhRmsWesBOMjGME5HBwMaUL+8eorx11b2rcE8ZOOwzwAPznRo1MMbQ6gNlUrnFup3X/2Q==
@@ -22,14 +22,12 @@ labels:
   - vegan
   - vegan drinks
   - vegane Rezepte
-
 focusKeyword: Fizz
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Sommerlicher Aperitif
+
 ---
 
 **Vor Kurzem hatte ich Euch hier ein paar Cocktail-Rezepte versprochen. Eines habe ich Euch [schon verraten](/2018/05/bio-eistee-konzentrate-von-teatime-im-test/), heute geht es weiter. Liebt Ihr einen guten Fizz? Dann werdet Ihr auf jeden Fall auf Eure Kosten kommen.**

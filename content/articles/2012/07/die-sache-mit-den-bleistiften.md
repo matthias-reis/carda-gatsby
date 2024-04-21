@@ -1,13 +1,12 @@
 ---
 date: 2012-07-11T18:11:21.000Z
-slug: die-sache-mit-den-bleistiften
-path: /2012/07/die-sache-mit-den-bleistiften/
 title: Die Sache mit den Bleistiften
 seoTitle: Die Sache mit den Bleistiften - Tagebucheintrag
 ogTitle: Die Sache mit den Bleistiften - Tagebucheintrag
-description: 'Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine Nachricht: Sie haben den Job. Die Freude ist groß.'
-excerpt: 'Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine Nachricht: Sie haben den Job. Die Freude ist groß.'
-fileName: 2012-07---die-sache-mit-den-bleistiften.md
+description: "Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine
+  Nachricht: Sie haben den Job. Die Freude ist groß."
+excerpt: "Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine
+  Nachricht: Sie haben den Job. Die Freude ist groß."
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9855__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9855__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAEBQb/xAAoEAACAQIFBAICAwAAAAAAAAABAgMEEQAFBiExEhNRYRQyIiNBgfH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBBf/EAB8RAAEEAgIDAAAAAAAAAAAAAAEAAgMRITEEBRJBUf/aAAwDAQACEQMRAD8ABY2NNUs6dskxHgfUnzfxzthU0FoNc2yqTPdQzSpl6Q96njgbpkdQSCzAbhPFtzg0o1CVENVLEKmKI9xqcMCWFt/f+b4SNF6pheCPK5I2aKC6RRysFZ426iobfY3NrXsQBxiJ1kH6m8Nkb5gH6XXq9D6XzWqjrtLV8uX08aESoUadBtsQHNx7Fzsb4Ic2y+t7UEVVSoHR3AYKpdWBsQxB9cMPGHrJITluWVFfUlKaF2N/mToF6BvtsPJt64wK6rrRU5/X1lOsaRzTuVCk/sFzvc/wef7wERkLfJ21b2cPHheBD7Xn/mvSn8EjYulmLLe99saZc8ra2Wnkdoo5IIxCjRRBCQBa7W+xItz4xYsOobXJY4jAWMs7VUkZkkZ3u7M7Fuo2HIxGBxQVMglNo+hwoFgbt02594sWMvIR1i1//9k=
@@ -33,12 +32,11 @@ labels:
   - White Stripes
   - Zukunft
 focusKeyword: Bleistift
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Tagebucheintrag
+
 ---
 
 **Der Urlaub ist vorbei. Seit über einer Woche wieder daheim. Durchgefahren von Folkstone über die Passage Dover - Calais, durch Luxemburg, immer dem Gewitter hinterher.**

@@ -1,11 +1,11 @@
 ---
 date: 2021-04-12T10:48:49.314Z
-slug: los-disidentes-del-sucio-motel-polaris-review-en
 typeName: Review
 title: '"Polaris" Disidentes Del Sucio Motel'
 subTitle: Disidentes Del Sucio Motel
 seoTitle: '"Polaris" by Disidentes Del Sucio Motel'
-description: Los Disidentes Del Sucio Motel released their fourth album some days ago. "Polaris" is the fourth album by the French prog band.
+description: Los Disidentes Del Sucio Motel released their fourth album some
+  days ago. "Polaris" is the fourth album by the French prog band.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-04-los-disidentes-del-sucio-motel-polaris-l-jpeg-imagine-181818_2c2c2d_1440_1080/640.webp
 copyright: Los Disidentes Del Sucio Motel
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-04-los-disidentes-del-sucio-motel-polaris-fb-png-l-jpg-imagine-181818_2d2e2e_1440_754/640.webp
@@ -21,6 +21,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/04/los-disidentes-del-sucio-motel-polaris-review
+
 ---
 
 **Los Disidentes Del Sucio Motel released their fourth album some days ago. "Polaris" is the fourth album by the French prog band.**

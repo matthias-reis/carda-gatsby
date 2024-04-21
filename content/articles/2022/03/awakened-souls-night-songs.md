@@ -1,12 +1,16 @@
 ---
 date: 2022-03-15T17:17:07.440Z
-slug: awakened-souls-night-songs
 typeName: Review
 title: '"Night Songs" von awakened souls'
 subTitle: Ein Yoga Nidra Soundtrack
 seoTitle: '"Night Songs" von awakened souls – Ambient Review'
-description: Am 18. März erscheint die neue awakened souls Platte "Night Songs". Das Duo möchte damit Menschen einen besseren Schlaf ermöglichen in Zeiten der Unruhe und Verwirrung.
-excerpt: Am 18. März erscheint die neue awakened souls Platte "Night Songs". Seit "How We Heal" handelt es sich dabei um die erste Platte, die das Duo ohne andere Musiker aufgenommen hat. awakened souls wollen damit Menschen in Zeiten der Unruhe und Verwirrung einen besseren Schlaf zu ermöglichen.
+description: Am 18. März erscheint die neue awakened souls Platte "Night Songs".
+  Das Duo möchte damit Menschen einen besseren Schlaf ermöglichen in Zeiten der
+  Unruhe und Verwirrung.
+excerpt: Am 18. März erscheint die neue awakened souls Platte "Night Songs".
+  Seit "How We Heal" handelt es sich dabei um die erste Platte, die das Duo ohne
+  andere Musiker aufgenommen hat. awakened souls wollen damit Menschen in Zeiten
+  der Unruhe und Verwirrung einen besseren Schlaf zu ermöglichen.
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-15/awakened-souls-night-songs-jpg-imagine-585858_525456_1024_768/640.webp
 copyright: |+
   awakened souls
@@ -32,6 +36,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/03/awakened-souls-night-songs-en/
+
 ---
 
 **Am 18. März erscheint die neue awakened souls Platte "Night Songs". Seit "How We Heal" handelt es sich dabei um die erste Platte, die das Duo ohne andere Musiker aufgenommen hat. awakened souls wollen damit Menschen in Zeiten der Unruhe und Verwirrung einen besseren Schlaf zu ermöglichen.**

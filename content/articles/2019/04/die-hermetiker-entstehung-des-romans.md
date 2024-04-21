@@ -1,15 +1,16 @@
 ---
 date: 2019-04-02T06:59:26.000Z
-slug: die-hermetiker-entstehung-des-romans
-path: /2019/04/die-hermetiker-entstehung-des-romans/
 type: Artikel
 typeName: Gastbeitrag
 title: Die Entstehung des Romans "Die Hermetiker"
 seoTitle: Die Hermetiker - in acht Schritten zu unserem ersten Roman
 ogTitle: Die Hermetiker - in acht Schritten zu unserem ersten Roman
-description: Der heutige Artikel dreht sich mal wieder um Matzes und meine gemeinsame Romanveröffentlichung. Knapp einen Monat ist "die Hermetiker" jetzt bestellbar.
-excerpt: Der heutige Artikel dreht sich mal wieder um Matzes und meine gemeinsame Romanveröffentlichung. Knapp einen Monat ist "die Hermetiker" jetzt bestellbar.
-fileName: 2019-04---die-entstehung-des-romans-die-hermetiker.md
+description: Der heutige Artikel dreht sich mal wieder um Matzes und meine
+  gemeinsame Romanveröffentlichung. Knapp einen Monat ist "die Hermetiker" jetzt
+  bestellbar.
+excerpt: Der heutige Artikel dreht sich mal wieder um Matzes und meine
+  gemeinsame Romanveröffentlichung. Knapp einen Monat ist "die Hermetiker" jetzt
+  bestellbar.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_die-hermetiker-am-reis__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_die-hermetiker-am-reis__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAUG/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURAAYSByEiMUFRFTJhFHGBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwL/xAAgEQACAgEDBQAAAAAAAAAAAAABAgARQQMEIRIywfDx/9oADAMBAAIRAxEAPwBrbLqLTZdkVlzqp4YbbDK0jz8CvLAC/ae/IkYA9+2sXYW+LLfdwfS5q1nrp6kzUgeFlV4+x4hiB5jBPH8ep1jdSI62Dotb17lpK6GpndVA8CrMWx6feQPjP76WNgprjSdQtkvTxjnPXU80Sqclk5jly+PFjn8Z1hNMFQ0oWPIlWitlFFWyNOlIsf6hmkZYgcKZDkkk9sD3OtXe1vgimWOOq7IjKsckcZkCgggkqcEeXH51W2/W0teb7RVtNaVpnkljeIq6uFEjAsJeXiRxBzggdu3tqrui9Msy1UvL6hAQtLDKeaRKylfgKx4+WceTDOrJtS1Fn9xDoxXTZSt3n74jwjrpK/o1WRvlQ1rqQCWLEcQ5U5PuOI/rSK6Tbhu9d1JsUlwrpKkTo9WQygYckxk5A+B/p0aNHHZFXTGpwp3NXWHdNyqaAQ82qahGSROSMjMeSkdux9f41Ddd33a70dJRVz07wQOzIFhC+TZGTj8H2xo0aUALDZkQxCdN8T//2Q==
@@ -45,12 +46,11 @@ labels:
   - Urban Fantasy
   - Urban Fantasy Thriller
 focusKeyword: Die Hermetiker
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: In acht Schritten zu unserem ersten Buch
+
 ---
 
 **Der heutige Artikel dreht sich mal wieder um Matzes und meine gemeinsame Romanveröffentlichung. Knapp einen Monat ist "die Hermetiker" jetzt bestellbar. Zeit für einen Rückblick.**

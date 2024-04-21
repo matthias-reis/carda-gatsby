@@ -1,13 +1,14 @@
 ---
-date: 2020-04-09T15:39:13.000+00:00
-slug: bienentraenke
-path: '/2020/04/bienentraenke/'
+date: 2020-04-09T15:39:13.000Z
 title: Eine Bienentränke für den Balkon
 seoTitle: Bienentränke für den Balkon DIY
 ogTitle: Bienentränke für den Balkon DIY
-description: Wer aktiven Bienenschutz betreiben möchte, sollte an eine Bienentränke denken. Sie kann mit ein paar Handgriffen ganz leicht selbst gebastelt werden.
-excerpt: Die Wildbienen sind zurück auf unserem Balkon. In diesem Jahr haben sie nicht nur ein drittes Insektenhotel bekommen, sondern auch eine neue Bienentränke.
-fileName: 2020-04---eine-bienentraenke-fuer-den-balkon.md
+description: Wer aktiven Bienenschutz betreiben möchte, sollte an eine
+  Bienentränke denken. Sie kann mit ein paar Handgriffen ganz leicht selbst
+  gebastelt werden.
+excerpt: Die Wildbienen sind zurück auf unserem Balkon. In diesem Jahr haben sie
+  nicht nur ein drittes Insektenhotel bekommen, sondern auch eine neue
+  Bienentränke.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_bienentraenke-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_bienentraenke-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQG/8QAKRAAAgIBBAEDAwUBAAAAAAAAAQIDBBEABRIhMQYTcRQiQTJCUWGBsf/EABoBAAEFAQAAAAAAAAAAAAAAAAQAAQIDBQb/xAAnEQABAgQEBgMAAAAAAAAAAAABAhEAAyExBEFhcQUSIlGBkSMy8P/aAAwDAQACEQMRAD8ARXJXublFSuCQK7YSWnIJEK4PMqR+Fx23eP48at9mMWPehmltRtXkAWQ8wWJ4qqgYwSuQMkHyflvDt9S1Yq1I3nrqWlq1+cIyeADSGIsQTzBPbAfgaW73ON1EkFeRIJY4TNyQ8Ujx0S46UHwAe++sHWWTUymfm1qDRi16WgdeIMpImYk8pTa4emWlfdDEtl22m5Ni6WobasM80Jrur9IoXiucAtk9kd/91TZ9NAx3fqUnqPGeTvD9sbggE/a2QSoIycjPentLZ4bUkdii0tjYY4YHtvDKMpGYzzBZQCOlOUVST862bTapjZbJWxZWKwJn5SZ4BSAkRKEAxkqP90+J+OS6B1i+3ezW/UiWBnc81ICuk21ya7309Q29NQyWqkcimHcJKTGFgSDLIgXwrMPuGGwcYHIHzjOl/py1T2Wxud2Db3a46SV2gspmOGElSEUHx+7vsd/2dGjVoUFJ+ocl3auefaFjZQQoKBNKab7xg9FXtzo71XkPdIl/qJbMOPd4rxiChhkYGAMD5PWusn2DbvUMdirJXsAWH91Z6haD2W/HR/UPnrr40aNc7PnrM8h/PiD+H4dK5Qmrqcny2j//2Q==
@@ -27,14 +28,13 @@ labels:
   - Wildbienen
   - serie:Wildbienen
 focusKeyword: Bienentränke
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Die Wildbienen sind wieder da
-year: '2020'
-month: '04'
+year: "2020"
+month: "04"
+
 ---
 
 **Schon im zweiten Jahr beherbergen wir nun Wildbienen auf unseren Balkon. Die meisten von ihnen sind rote Mauerbienen, es sind aber auch ein paar andere bei uns heimische Wildbienenarten dabei. Im Moment tänzeln sie von Frühlingsgefühlen angetrieben um unsere drei Bienenhotels herum. Zwischendurch gibt es frischen Blütennektar und ein paar Schlucke aus unserer neuen Bienentränke.**

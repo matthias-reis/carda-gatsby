@@ -1,14 +1,18 @@
 ---
 date: 2024-01-12T15:00:00.766Z
-slug: bipolar-architecture-metaphysicize
 typeName: Preview
-title: 'Bipolar Architecture – "Metaphysicize"'
+title: Bipolar Architecture – "Metaphysicize"
 subTitle: Post-Metal wie wir ihn uns wünschen
 seoTitle: Bipolar Architecture – "Metaphysicize" – Post-Metal-Preview
-description: 'Bipolar Architecture – "Metaphysicize" Merkt Euch diese Post-Metal-Platte schon mal! Hört jetzt hier rein und holt Euch vorab alle Insights!'
-excerpt: 'Bipolar Architecture haben was für Euch vorbereitet: Am 2. Februar erscheint mit "Metaphysicize" das zweite, sehnsüchtig erwartete Album der Band aus Istanbul und Berlin auf Pelagic Records! Holt Euch jetzt hier alle Infos dazu und hört schon mal rein. Ich finde, es lohnt sich!'
+description: Bipolar Architecture – "Metaphysicize" Merkt Euch diese
+  Post-Metal-Platte schon mal! Hört jetzt hier rein und holt Euch vorab alle
+  Insights!
+excerpt: 'Bipolar Architecture haben was für Euch vorbereitet: Am 2. Februar
+  erscheint mit "Metaphysicize" das zweite, sehnsüchtig erwartete Album der Band
+  aus Istanbul und Berlin auf Pelagic Records! Holt Euch jetzt hier alle Infos
+  dazu und hört schon mal rein. Ich finde, es lohnt sich!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-12/bipolar-architecture-soundsvegan-com-jpg-imagine-081818_151c1b_1024_768/640.webp
-copyright: 'Bipolar Architecture'
+copyright: Bipolar Architecture
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-12/bipolar-architecture-soundsvegan-com-og-jpg-imagine-081818_1c2423_1200_628/640.webp
 labels:
   - Band
@@ -27,6 +31,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2024/01/bipolar-architecture-metaphysicize-en/
+
 ---
 
 **Fans von Deafheaven, Der Weg Einer Freiheit, Thou, Cult of Luna, Oathbreaker, Deafheaven, PG.Lost sollten an dieser Stelle hellhörig werden und unbedingt weiterlesen. Mit dem zweiten Album von Bipolar Architecture kommt am 2. Februar etwas Großes auf Euch zu! Ich habe reingehört und hier für Euch nicht nur eine Preview sondern auch gleich noch einen ersten Vorgeschmack (gleich zwei Songs!) auf die Platte.**

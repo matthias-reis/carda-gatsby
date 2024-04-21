@@ -5,15 +5,10 @@ excerpt: Taucher des WWF haben jetzt vor Warnemünde ein Geisternetz aus dem Mee
   Tiere kam die Hilfe zu spät. Sie verendeten in dem verlassenen Stellnetz.
 ogImage: null
 isAffiliate: false
-path: /2018/08/wwf-geisternetz-warnemuende/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwT/xAAoEAACAQMEAQMEAwAAAAAAAAABAgMEESEABRIxE0FRYQYiMnEUYoH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQIDBv/EACYRAAECBQMDBQAAAAAAAAAAAAEDEQACEiFRBEFhE4HwIjEyocL/2gAMAwEAAhEDEQA/AE9Fu5qI4qjmg8sHlRpLN9vHAt8dY12QBZYYkFRTyPAPKAvIMQRcmxwbqOs5GpWmnnoaRW8sNbQ+YiNqK7tGLCynHQA9MADTLaNyrHjes2yOWRYioVRCoVUPrm7WsT1a5/Wl/oF8Q2mRVnlpAuXPtljYw+bfKfb45KOmpYtvhiRRBGqgcVsbjibdkH/c31tQfV0cUE/OH81XjHHxZlYnBx6k8evfS7dIqHfp3qzMYJlQiQEfZfsi1vtJNv3e/wAGWndqBkZ9tm8SqDOAMotvzBBI49ZOO720cmggppy3yGz8+d4FUWXkWkcNKd24zwfqKHaXgqaKmgRHPkjweBRTxxjHfrn21r9Pw/xtyqVknUUoJic8bByw6F8HPWjRpATSZwPLxrmr6b5/JML9ynohNNNt8xW6hGEjh2/rdR2fYe2uPY4K6ileeaURiYCEtGAjPc9WHx36fGjRq5NedAGne14gvoktYwUDU3t3j//Z
 isWerbung: false
-fileName: 2018-08---wwf-zieht-vor-warnemuende-geisternetz-aus-der-ostsee.md
-slug: wwf-geisternetz-warnemuende
-errors: {}
-date: 2018-08-10T15:08:26.000+00:00
+date: 2018-08-10T15:08:26.000Z
 focusKeyword: Warnemünde
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_fishing-net-1583702_640__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_fishing-net-1583702_640__m.jpg
 title: WWF zieht vor Warnemünde Geisternetz aus der Ostsee
@@ -32,7 +27,9 @@ labels:
   - Warnemünde Ostsee
   - WWF
 language: de
+
 ---
+
 **Taucher des WWF haben jetzt vor Warnemünde ein Geisternetz aus dem Meer gezogen. Das meldete die Umweltschutzorganisation am 8. August. Das rund 500 Meter lange Stellnetz wurde 60 bis 70 Fischen, hauptsächlich Schollen und Dorschen, sowie zwei Kormoranen zum Verhängnis. Sie erstickten qualvoll darin.**
 
 Geisternetze werden weltweit immer wieder zur Todesfalle für Seevögeln, Fische und Meeressäuger. Immer mehr davon schwimmen zusammen mit anderem [Plastikmüll](/2017/08/kenia-sagt-plastiktueten-nein-danke/) in unseren Ozeanen. Die Tierschützer berichteten nach der Bergung, das Netz habe zum Teil noch aufrecht am Meeresboden gestanden.

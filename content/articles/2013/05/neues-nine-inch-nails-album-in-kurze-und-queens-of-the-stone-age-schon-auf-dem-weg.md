@@ -1,15 +1,14 @@
 ---
 date: 2013-05-29T14:35:29.000Z
-slug: neues-nine-inch-nails-album-in-kurze-und-queens-of-the-stone-age-schon-auf-dem-weg
-path: /2013/05/neues-nine-inch-nails-album-in-kurze-und-queens-of-the-stone-age-schon-auf-dem-weg/
 type: Artikel
 typeName: Review
 title: Neues Nine Inch Nails Album in Kürze
 seoTitle: Nine Inch Nails Album in Kürze!
 ogTitle: Nine Inch Nails Album in Kürze!
-description: In Kürze bringen Nine Inch Nails ein neues Album raus! Dazu gibt es schon jetzt eine Geschichte zu erzählen!
-excerpt: In Kürze bringen Nine Inch Nails ein neues Album raus! Dazu gibt es schon jetzt eine Geschichte zu erzählen!
-fileName: 2013-05---neues-nine-inch-nails-album-in-kuerze.md
+description: In Kürze bringen Nine Inch Nails ein neues Album raus! Dazu gibt es
+  schon jetzt eine Geschichte zu erzählen!
+excerpt: In Kürze bringen Nine Inch Nails ein neues Album raus! Dazu gibt es
+  schon jetzt eine Geschichte zu erzählen!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_nin.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_nin.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAZCAIAAADfbbvGAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAEPElEQVRIib1WWSxraxReLc1xKSkpEcQUJGjMiSFF0NBUm4jEkAptKqLmosOuFh1UPGkjMZQIqSE8kBBPEjVEaMSjhCcxJOJJgjcv6yb+c6rHJde959z7Pfx777W/tb691r+y/g3wCjqdTqPRyL2Xl9c7C41GI0ayuu10Ot29ukE4H4PJZLqd3WCxWO/8/8oBgD9e8UFQwg4PDw8NDU1PT2ez2fHx8QAQFRVFCEVFRX5+fsQYFhYmFArb29vJq+TkZB8fHzabzWKxEhISent7Y2Ji3I7fQRKcnp6enZ0VCAQNDQ27u7slJSV3d3dZWVkA0N7e3tPTs7m5WV1drVAo8vLyrq6uAgICAODk5EQsFg8ODo6NjZWWlqpUKh6Pt76+/lMlyWVkZGRoaEgikbS2ttrtdqFQeHp6Sr6lr6+vp6fHarVKpVKKovLy8nZ2diIiIgBgbW2tpqZmeXl5fn6+tra2v79fJBJtbm6GhYV5btV/DPpriYRCocFgUKvVFEWp1WqtVqtSqbRarU6no35Aq9UqFAqNRkMIOp1Oo9EQpkqlIoTe3l6lUkl2+3sG3t7eAHB0dIS/D9HR0W/tSwQODg5ubm5+vR5lZWWISDr7JwGXy/Xw8AAA5eXlDocjNjaWOAQGBi4tLeXk5ABAVVXV9PQ0sU9MTNTV1bnjqlSqyclJAODz+YgYFBT0XuD4+Pjp6Yn0K0mzsLAQAFJSUhBRq9UCwNbWFiISPiI6nU4SfXt7m7gAQGlp6acCj4+PADA+Po6Ij4+PiFhcXMxgMBCxo6MDABYXF0kUIkCyub29RcTn5+evCkxNTSEik8m8v79HRKvVioidnZ0AsLCw4Cmws7NzenqKiAKBwGg0flXAbre7o1xeXpLcu7q6AGBlZcVTgEAikQDA3Nzc3wi4XC6yBzMzM4jo7+9PAjmdTkTs7u4GgNXVVUQkPU6i83g8QnMnJxAIPs3g+vr619u0oKDgY4H9/X1EbGtrGxgYoCjKaDSaTCaLxWIwGDQazcDAgNls1uv1FEWZXtHX16fT6SwWC3nU6/VkZK2vryNiSEjImwCZfCT934WI11H47iD6KhgMxj9zJtTR0dGysrLIyMi4uLjo6OisrKzg4GAulyuXy5ubm2NiYths9rdv36xWq9lsFggEiYmJaWlpubm5NpstKSmJy+XS6XQ+nw8AYrHY19f3bdgRAbVaXVdX9/LyYrPZhoeH9/b2pFLpxsZGd3e3SCQ6PDxMTU0FAJPJpFQqHQ5HfX29Xq9va2uTyWStra1nZ2f19fXn5+dCofDi4iIzM/PtcCYCjY2N2dnZa2trFRUVIpHIYrHk5+crlcrKykoulzs1NeXn50dmTlNTU0tLS2VlpVQq5XA4IpFIJpPZbLaMjAy73c7hcEZHR8n5+tUyslgsuVz+b7bLE6Re/9ch90PS87/oQ/tnjp7PfwL6Q5IzauZ6WAAAAABJRU5ErkJggg==
@@ -28,12 +27,11 @@ labels:
   - twenty thirteen
   - wave goodbye
 focusKeyword: Nine Inch Nails
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Queens of the Stone Age schon auf dem Weg!
+
 ---
 
 **Was für ein Tag! Es wird noch in diesem Jahr ein neues NINE INCH NAILS Album geben, die neue Queens of the Stone Age Platte ist auf dem Weg zu mir und auch sonst ist alles schön, wenn man vom Wetter mal absieht...**

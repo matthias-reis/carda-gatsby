@@ -1,12 +1,17 @@
 ---
 date: 2022-04-28T10:43:43.103Z
-slug: breaths-dimwind-seasons
 typeName: Review
 title: Dimwind & Breaths feat. Chad Kapper – "Seasons"
 subTitle: Eine ganz besondere Split-EP
 seoTitle: Dimwind & Breaths – "Seasons" – Post-Rock Review
-description: Vor ein paar Tagen erfuhr ich, dass sich Dimwind und Breaths entschieden hatten, gemeinsam eine Split-EP aufzunehmen, nachdem sie meine Artikel über das jeweils andere Projekt auf meinem Blog gelesen hatten.
-excerpt: Als Musik-Bloggerin erlebe ich immer wieder Überraschungen. Eine ganz besonders schöne war, als ich vor ein paar Tagen erfuhr, dass sich zwei meiner liebsten Post-Music Projekte – Breaths und Dimwind – dazu entschieden hatten, gemeinsam eine Split-EP aufzunehmen, nachdem sie meine Artikel über das jeweils andere Projekt auf meinem Blog gelesen hatten.
+description: Vor ein paar Tagen erfuhr ich, dass sich Dimwind und Breaths
+  entschieden hatten, gemeinsam eine Split-EP aufzunehmen, nachdem sie meine
+  Artikel über das jeweils andere Projekt auf meinem Blog gelesen hatten.
+excerpt: Als Musik-Bloggerin erlebe ich immer wieder Überraschungen. Eine ganz
+  besonders schöne war, als ich vor ein paar Tagen erfuhr, dass sich zwei meiner
+  liebsten Post-Music Projekte – Breaths und Dimwind – dazu entschieden hatten,
+  gemeinsam eine Split-EP aufzunehmen, nachdem sie meine Artikel über das
+  jeweils andere Projekt auf meinem Blog gelesen hatten.
 image: https://storage.googleapis.com/cardamonchai-media/2022-04-28/breaths-dimwind-jpg-imagine-080808_4a534c_1024_768/640.webp
 copyright: Dimwind/Breaths
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-04-28/breaths-dimwind-fb-jpg-imagine-080808_49534b_1200_628/640.webp
@@ -28,6 +33,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/04/breaths-dimwind-seasons-en/
+
 ---
 
 **Als Musik-Bloggerin erlebe ich immer wieder Überraschungen. Eine ganz besonders schöne war, als ich vor ein paar Tagen erfuhr, dass sich zwei meiner liebsten Post-Music Projekte – Breaths und Dimwind – dazu entschieden hatten, gemeinsam eine Split-EP aufzunehmen, nachdem sie meine Artikel über das jeweils andere Projekt auf meinem Blog gelesen hatten.**

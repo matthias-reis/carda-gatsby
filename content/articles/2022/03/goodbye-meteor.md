@@ -1,12 +1,18 @@
 ---
 date: 2022-03-24T13:37:08.272Z
-slug: goodbye-meteor
 typeName: Interview
 title: Interview mit Goodbye Meteor Gitarrist Cedric Pecourt
 subTitle: '"Nachhaltigkeit und Tierrechte sind für uns von grundlegender Bedeutung"'
 seoTitle: Post-Rock Interview mit Goodbye Meteor Gitarrist Cedric Pecourt
-description: Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt".  Im Interview habe ich mich mit dem vegan lebenden Gitarristen der Band Ced über die neue EP "Metanoia" unterhalten.
-excerpt: Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt". Ihre Musik beschreiben sie als "imersiven und solaren Post-Rock, der aus dem Chaos kommt und sich in Richtung Resilienz bewegt". Mit ihren Stücken wollen die vier einen harmonischen Weg zwischen Mensch und Natur aufzeigen. Im Interview habe ich mich mit dem vegan lebenden Gitarristen der Band Ced über die neue EP "Metanoia" unterhalten
+description: Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt".  Im
+  Interview habe ich mich mit dem vegan lebenden Gitarristen der Band Ced über
+  die neue EP "Metanoia" unterhalten.
+excerpt: Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt". Ihre
+  Musik beschreiben sie als "imersiven und solaren Post-Rock, der aus dem Chaos
+  kommt und sich in Richtung Resilienz bewegt". Mit ihren Stücken wollen die
+  vier einen harmonischen Weg zwischen Mensch und Natur aufzeigen. Im Interview
+  habe ich mich mit dem vegan lebenden Gitarristen der Band Ced über die neue EP
+  "Metanoia" unterhalten
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-1-jpg-imagine-080808_191a20_1024_768/640.webp
 copyright: Goodbye Meteor
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-24/goodbye-meteor-fb-jpg-imagine-080808_1e1e24_1200_628/640.webp
@@ -26,6 +32,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2022/03/goodbye-meteor-en/
+
 ---
 
 **Goodbye Meteor bezeichnen sich als "grünes Post-Rock-Projekt". Ihre Musik beschreiben sie als "imersiven und solaren Post-Rock, der aus dem Chaos kommt und sich in Richtung Resilienz bewegt". Die Band sieht sich als "Green Post-Rock-Projekt". Mit ihren Stücken wollen die vier einen harmonischen Weg zwischen Mensch und Natur aufzeigen. Ich habe mich mit Gitarrist Ced über ihre neue EP "Metanoia" unterhalten, die ab sofort auf Bandcamp verfügbar ist.**

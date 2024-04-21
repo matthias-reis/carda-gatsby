@@ -1,25 +1,24 @@
 ---
 ogTitle: Post-Everything Band Mantis – "Wir lieben DUNK!records!"
-excerpt: Mantis bezeichnen sich selbst als "Post-Everything" Band. Das beschreibt ihre Musik ziemlich perfekt. Ich habe sie zu ihrem aktuellen Album "Glint" befragt.
+excerpt: Mantis bezeichnen sich selbst als "Post-Everything" Band. Das
+  beschreibt ihre Musik ziemlich perfekt. Ich habe sie zu ihrem aktuellen Album
+  "Glint" befragt.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_12_mantis-fb.png__l.jpg
 isAffiliate: false
-path: /2020/12/mantis-interview/
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECB//EACcQAAEDAwQCAQUBAAAAAAAAAAECAwQABRESFCExBkGhJFFhcYHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAECAwQREjEh/9oADAMBAAIRAxEAPwDvBj49VptyegaxfLouHHUY6Rq61nnH8qpueazLdGdXKS26hpCnVrcSoYSBk8j/ACpXdRhLVlSt5SWyLZtFH1Qbfq7FIrf53Bm3eBHIMePIguylOLIIbWgtkoVjrCXAecd1IsnmEO/yrWuzLEm3zGZRW50WXGS2dJH5Cz8GnVVvgMqWOoQz74h7UlTq2+MgpUnn5pVIlblgt7/SjpQW005qHsEH70UVi5fTW1SRWLf44q0zZs6PdluOSHlrCGWGEgJWAFgpJxghKR+gKhWCwvWSE0wzeozG3U44z9CgnLmArIzhWAMc9eqKKZVZPwNwR//Z
 typeName: Interview
 isWerbung: false
-fileName: 2020-12---post-everything-band-mantis.md
-slug: mantis-interview
-errors: {}
 date: 2020-12-28T12:56:51.000Z
 focusKeyword: Mantis
 languageLink: /2020/12/mantis-interview-en
-status: publish
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_mantis-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_mantis-1__m.jpg
 title: Post-Everything Band Mantis
 subTitle: '"Wir lieben das Dunk!team"'
 seoTitle: Post-Everything Band Mantis – "Wir lieben DUNK!records!"
-description: Mantis bezeichnen sich selbst als "Post-Everything" Band. Das beschreibt ihre Musik ziemlich perfekt. Ich habe sie zu ihrem aktuellen Album "Glint" befragt.
+description: Mantis bezeichnen sich selbst als "Post-Everything" Band. Das
+  beschreibt ihre Musik ziemlich perfekt. Ich habe sie zu ihrem aktuellen Album
+  "Glint" befragt.
 language: de
 type: Artikel
 labels:
@@ -39,6 +38,7 @@ labels:
   - Post-Metal
   - Post-Punk
   - Post-Rock
+
 ---
 
 **Mantis bezeichnen sich selbst als "Post-Everything" Band. Ich finde, das beschreibt ihre Musik ziemlich perfekt. Am 27. November haben sie ihr neues Album "Glint" veröffentlicht. Ich hatte jetzt die Gelegenheit, mich mit der Band darüber auszutauschen.**

@@ -1,13 +1,12 @@
 ---
 date: 2020-11-24T10:07:01.000Z
-slug: natalie-portman-john-legend-veganes-leder
-path: /2020/11/natalie-portman-john-legend-veganes-leder/
 title: Natalie Portman und John Legend investieren in veganes Leder
 seoTitle: Natalie Portman und John Legend investieren in veganes Leder
 ogTitle: Natalie Portman und John Legend investieren in veganes Leder
-description: MycoWorks ist eine Firma, die veganes Leder aus Pilzen herstellt. Natalie Portman und John Legend unterstützen das Unternehmen jetzt.
-excerpt: MycoWorks ist eine Firma, die veganes Leder aus Pilzen herstellt. Natalie Portman und John Legend unterstützen das Unternehmen jetzt.
-fileName: 2020-11---natalie-portman-und-john-legend-investieren-in-veganes-leder.md
+description: MycoWorks ist eine Firma, die veganes Leder aus Pilzen herstellt.
+  Natalie Portman und John Legend unterstützen das Unternehmen jetzt.
+excerpt: MycoWorks ist eine Firma, die veganes Leder aus Pilzen herstellt.
+  Natalie Portman und John Legend unterstützen das Unternehmen jetzt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_natalie-portman-john-legend__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_natalie-portman-john-legend__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAQMEAgEDBAMBAAAAAAAAAQIDBAUGESEAEjEHUWEjMkFxExQiQv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBpuysVGJXadQaC9BjTJEVc1+XLj/2EtNhYQlKUZAKlKzs+AOWVqv1aZU34FyimPSmujsWZBQpn+ZHYAhbZ+1QyPBIIPxvFrJuSbLokaddUN2UxMkuQI8lbhC3ThCwjv5HXORk7yfbjVQbgCLn70VqTEKVNxlmQouownrpAJBGxk/vgYxT7dcuS5ZkKjLdkdEuPFRR1KlZ+0b1lSuoJ/fOS5aK1SJrUVZdbfQj67Tw6qB2fOMfHjjTYRj0e8ZTdWbCWnmFh11Ti0hgKX2ScoBPbWAfnyOMvr4mMh6nPppcZIkkrMsj6ywlJShvPtsk/nxwFv0jryHpNeterBl+n1yA8Gg+MoamNtqUy6N5B0U6IJ/zvXLp+tooF1UOO6y0KbPiwZ0RTAwGkvIRlOD5AWF7Jz754cOBB6aSKcquMpul9EemGQ4Vulak5bT3w2ev4JwN+/HidRVXfa02PHYDshTYLLaT2aaSSSnof+ca+fPDhwP/Z
@@ -21,12 +20,11 @@ labels:
   - vegane Stars
   - veganes Leder
 focusKeyword: Natalie Portman
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Pilze statt Tierhaut
+
 ---
 
 **MycoWorks ist eine Firma, die veganes Leder aus Pilzen herstellt. Natalie Portman und John Legend unterstützen das Unternehmen jetzt.**

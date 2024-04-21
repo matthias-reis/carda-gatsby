@@ -1,13 +1,13 @@
 ---
 date: 2017-08-14T13:52:47.000Z
-slug: altona-setzt-sich-fuer-den-kiebitz-ein
-path: /2017/08/altona-setzt-sich-fuer-den-kiebitz-ein/
 title: Altona setzt sich für den Kiebitz ein
 seoTitle: Altona setzt sich für den Kiebitz ein - Gerettete Vögel bald in Freiheit
 ogTitle: Altona setzt sich für den Kiebitz ein - Gerettete Vögel bald in Freiheit
-description: In Hamburg ist es üblich, dass die verschiedenen Stadtteile Patentiere haben. In Altona ist es der Kiebitz. Neun Tiere werden jetzt ausgewildert.
-excerpt: In Hamburg ist es üblich, dass die verschiedenen Stadtteile Patentiere haben. In Altona ist es der Kiebitz. Neun Tiere werden jetzt ausgewildert.
-fileName: 2017-08---altona-setzt-sich-fuer-den-kiebitz-ein.md
+description: In Hamburg ist es üblich, dass die verschiedenen Stadtteile
+  Patentiere haben. In Altona ist es der Kiebitz. Neun Tiere werden jetzt
+  ausgewildert.
+excerpt: In Hamburg ist es üblich, dass die verschiedenen Stadtteile Patentiere
+  haben. In Altona ist es der Kiebitz. Neun Tiere werden jetzt ausgewildert.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_Northern-Lapwing-Vanellus-vanellus__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_Northern-Lapwing-Vanellus-vanellus__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgb/xAAnEAACAQMDAgYDAAAAAAAAAAABAhEAAxIEITEFExQiQWGBkVFx0f/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwIF/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAEQMEUSEx/9oADAMBAAIRAxEAPwDj8temI8Za8vAKj+VR3uttpzqreDaUXuwbhQYZ45YgnkxB9poRbiyoZlJGWxDR688TtxWrNvTFdSNUNRb1FwW+3qEUXEUrkcWQkbHISQZBUc8VzsW1lLUzVNFRyIuazqxVsjbg7Y4iPqseP6raUDC182hSbCdRJ3OmVZDTbLsp/StHzvVA7xSGJyMgtGIO/oCZofbyqfGuFDkhbV3A5UBABxAgcxxVFzUFVggmd9mO33NFFSZQDLEC5G9q27ghFUsOY833TdO7FYBaFnlifz70UUm+RFQBc//Z
@@ -25,12 +25,11 @@ labels:
   - Wedel
   - Wedeler Marsch
 focusKeyword: Kiebitz
-status: publish
 isWerbung: false
 isAffiliate: false
 language: de
-errors: {}
 subTitle: Gerettete Vögel auf dem Weg in die Freiheit
+
 ---
 
 2017 wurden in Neubaugebiet in Othmarschen 20 Kiebitz-Küken gerettet. Neun Tiere werden jetzt beringt und am 16. August bei der NABU Vogelstation in der Wedeler Marsch freigelassen. Die Vögel hatten das Neubaugebiet als ihre Heimat auserkohren und wollten nicht von dort wegziehen. Sie brüteten dort auch nach dem Bau unzähliger Häuser auf dem Gelände weiterhin. Was zur Folge hatte, dass die Küken in ihren Nestern auf den Hausdächern verhungerten.
