@@ -1,14 +1,19 @@
 ---
 date: 2024-03-29T10:00:00.766Z
-slug: fat-white-family-forgiveness-is-yours
 typeName: Preview
-title: 'Fat White Family – "Forgiveness Is Yours"'
-subTitle: 'Post-Punk der Extraklasse'
-seoTitle: 'Fat White Family gehen mit neuem Album auf Tour – "Forgiveness Is Yours'
-description: 'Mit "Forgiveness Is Yours" schlagen Fat White Family ein neues Kapitel auf. Die Londoner Post-Punk-Band nimmt Abschied und verarbeitet multiple Krisen. Hört jetzt hier schon mal rein!'
-excerpt: 'Fat White Family gehen bald mit ihrem für den 26. April angekündigten neuen Album "Forgiveness Is Yours" auf Tour. Ihr könnt jetzt hier schon reinhören und Euch spannende Insights zur Platte nehmen. Für die Band ist sie ein neues Kapitel und gleichzeitig der Abschied von ihrem traurigerweise verstorbenen Gründungsmitglied Saul Adamczewski.'
+title: Fat White Family – "Forgiveness Is Yours"
+subTitle: Post-Punk der Extraklasse
+seoTitle: Fat White Family gehen mit neuem Album auf Tour – "Forgiveness Is Yours
+description: Mit "Forgiveness Is Yours" schlagen Fat White Family ein neues
+  Kapitel auf. Die Londoner Post-Punk-Band nimmt Abschied und verarbeitet
+  multiple Krisen. Hört jetzt hier schon mal rein!
+excerpt: Fat White Family gehen bald mit ihrem für den 26. April angekündigten
+  neuen Album "Forgiveness Is Yours" auf Tour. Ihr könnt jetzt hier schon
+  reinhören und Euch spannende Insights zur Platte nehmen. Für die Band ist sie
+  ein neues Kapitel und gleichzeitig der Abschied von ihrem traurigerweise
+  verstorbenen Gründungsmitglied Saul Adamczewski.
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-29/fat-white-family-barbican-forgiveness-is-yours-louise-mason-album-announce-soundsvegan-com-jpg-imagine-080808_252224_1024_768/640.webp
-copyright: 'Louise Mason'
+copyright: Louise Mason
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-03-29/fat-white-family-barbican-forgiveness-is-yours-louise-mason-album-announce-soundsvegan-com-og-jpg-imagine-080808_272527_1200_628/640.webp
 labels:
   - Bands
@@ -21,11 +26,12 @@ labels:
   - Post-Music
   - Post-Punk
   - Fat White Family
-focusKeyword: 'Fat White Family "Forgiveness Is Yours"'
+focusKeyword: Fat White Family "Forgiveness Is Yours"
 advertisement: false
 affiliate: false
 language: de
 languageLink: /2024/03/fat-white-family-forgiveness-is-yours-en/
+
 ---
 
 **Fat White Family haben ihr viertes Album für den 26. April angekündigt! Ich habe "Forgiveness Is Yours" schon gehört und bin begeistert von der Vielschichtigkeit, Kreativität und der ausgeprägten Persönlichkeit dieser Musikperle. Merkt Euch das Datum auf jeden Fall schon mal vor und hört Euch die Vorauskopplungen "Bullet Of Dignity", "Religion For One", "Today Become Man" und "What's That You Say" an. Alles Weitere erzähle ich Euch in diesem Artikel.**

@@ -1,12 +1,17 @@
 ---
 date: 2024-03-27T11:30:12.086Z
-slug: i-could-never-go-vegan-alissa-white-gluz
 typeName: Filmtipp
 title: '"Veganismus ist Metal!"'
-subTitle: 'Arch Enemy Frontfrau Alissa White-Gluz produziert vegane Doku'
-seoTitle: 'Arch Enemy Frontfrau Alissa White-Gluz produziert "I Could Never Go Vegan"'
-description: 'Arch Enemy Frontfrau Alissa White-Gluz ist eine der ausführenden Produzent*innen der neuen veganen Doku "I Could Never Go Vegan". Schaut Euch hier den Trailer an und erfahrt alles über den Film!'
-excerpt: 'Arch Enemy Frontfrau Alissa White-Gluz kann sich ein Leben ohne den Kampf für Tierrechte nicht vorstellen. Jetzt hat die Musikerin und Aktivistin als ausführende Produzentin der neuen veganen Doku "I Could Never Go Vegan" einen weiteren wichtigen Meilenstein gesetzt. Lest hier alles über den bahnbrechenden Film!'
+subTitle: Arch Enemy Frontfrau Alissa White-Gluz produziert vegane Doku
+seoTitle: Arch Enemy Frontfrau Alissa White-Gluz produziert "I Could Never Go Vegan"
+description: Arch Enemy Frontfrau Alissa White-Gluz ist eine der ausführenden
+  Produzent*innen der neuen veganen Doku "I Could Never Go Vegan". Schaut Euch
+  hier den Trailer an und erfahrt alles über den Film!
+excerpt: Arch Enemy Frontfrau Alissa White-Gluz kann sich ein Leben ohne den
+  Kampf für Tierrechte nicht vorstellen. Jetzt hat die Musikerin und Aktivistin
+  als ausführende Produzentin der neuen veganen Doku "I Could Never Go Vegan"
+  einen weiteren wichtigen Meilenstein gesetzt. Lest hier alles über den
+  bahnbrechenden Film!
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-27/i-could-never-go-vegan-alissa-white-gluz-soundsvegan-com-1-jpg-imagine-181828_626b70_1024_768/640.webp
 copyright: I Could Never Go Vegan / Stefan Brending
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-03-27/i-could-never-go-vegan-alissa-white-gluz-soundsvegan-com-og-jpg-imagine-181818_474e51_1200_628/640.webp
@@ -25,10 +30,11 @@ labels:
   - Thomas Pickering
   - Film
   - Straight Edge
-focusKeyword: 'Alissa White-Gluz I Could Never Go Vegan'
-advertisement:
-affiliate:
+focusKeyword: Alissa White-Gluz I Could Never Go Vegan
+advertisement: null
+affiliate: null
 language: de
+
 ---
 
 **Alissa White-Gluz von Arch Enemy ist eine der ausführenden Produzent\*innen der veganen Dokumentation "I Could Never Go Vegan". Der Film soll einige der bekanntesten Argumente gegen die vegane Lebensweise entkräften und nicht nur zeigen, warum sie keinen Sinn ergeben und wie sie entstanden sind, sondern auch, warum sie sich so hartnäckig zu halten scheinen.**

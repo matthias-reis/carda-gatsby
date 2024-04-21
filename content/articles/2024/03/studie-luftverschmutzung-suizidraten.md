@@ -1,14 +1,19 @@
 ---
 date: 2024-03-01T10:00:00.766Z
-slug: studie-luftverschmutzung-suizidraten
-typeName:
-title: 'Luftverschmutzung als Grund für Suizide'
-subTitle: 'Studie in China ruft Politik zu Klimaschutz auf'
-seoTitle: 'Luftverschmutzung – Suzidraten sinken, wenn sie verschwindet'
-description: 'Luftverschmutzung – Suizidraten steigen an, wenn sie wächst und sinken, wenn sie verschwindet. Lest hier alles zur aktuellen, bahnbrechenden Studie.'
-excerpt: 'Luftverschmutzung, Suizidraten und die Zusammenhänge – das haben Forschende nun endlich genau untersucht und sind zu einem bahnbrechenende Ergebnis gekommen, das die Politik zum Umdenken bringen sollte. Unzählige Menschenleben könnten jährlich allein dadurch gerettet werden, dass wir weniger Umweltgifte in die Atmosphäre pusten. Lest hier alles zur Studie.'
+typeName: null
+title: Luftverschmutzung als Grund für Suizide
+subTitle: Studie in China ruft Politik zu Klimaschutz auf
+seoTitle: Luftverschmutzung – Suzidraten sinken, wenn sie verschwindet
+description: Luftverschmutzung – Suizidraten steigen an, wenn sie wächst und
+  sinken, wenn sie verschwindet. Lest hier alles zur aktuellen, bahnbrechenden
+  Studie.
+excerpt: Luftverschmutzung, Suizidraten und die Zusammenhänge – das haben
+  Forschende nun endlich genau untersucht und sind zu einem bahnbrechenende
+  Ergebnis gekommen, das die Politik zum Umdenken bringen sollte. Unzählige
+  Menschenleben könnten jährlich allein dadurch gerettet werden, dass wir
+  weniger Umweltgifte in die Atmosphäre pusten. Lest hier alles zur Studie.
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-01/studie-luftverschmutzung-suizidraten-soundsvegan-com-jpg-imagine-c8c8c8_989898_1024_768/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-03-01/studie-luftverschmutzung-suizidraten-soundsvegan-com-og-jpg-imagine-c8c8c8_999999_1200_628/640.webp
 labels:
   - Klimakatastrophe
@@ -21,11 +26,12 @@ labels:
   - Studie
   - Psychische Gesundheit
   - Ernährung & Gesundheit
-focusKeyword: 'Luftverschmutzung Suizidraten'
+focusKeyword: Luftverschmutzung Suizidraten
 advertisement: false
 affiliate: false
 language: de
-languageLink:
+languageLink: null
+
 ---
 
 **Forschende in den Vereinigten Staaten und China haben einen Zusammenhang zwischen Luftverschmutzung und Suizidraten erkannt, der dazu anregt, das Thema noch mal ganz neu zu überdenken. Durch die Bemühungen Chinas zur Verringerung der Luftverschmutzung konnten im Land Schätzungen der Wissenschaftler\*innen zufolge in nur fünf Jahren 46.000 Suizide verhindert werden. Das Forschungsteam nutzte die Wetterbedingungen, unklare Faktoren, die sich auf die Luftverschmutzung und die Suizidraten auswirken, herauszufiltern. Dabei gelangte es zu einem "echten kausalen Zusammenhang".**

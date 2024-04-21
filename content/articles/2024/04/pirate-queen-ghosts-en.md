@@ -1,14 +1,18 @@
 ---
 date: 2024-04-17T13:30:00.766Z
-slug: pirate-queen-ghosts-en
 typeName: Preview
-title: 'Pirate Queen - "Ghosts"'
+title: Pirate Queen - "Ghosts"
 subTitle: All-female Metal Band Takes the Scene by Storm
-seoTitle: 'All-female metal band Pirate Queen about to release debut "Ghosts"'
-description: 'Pirate Queen will release their debut album "Ghosts" at the beginning of May! Listen to it here and find some exciting details about the band!'
-excerpt: 'Pirate Queen are currently conquering the metal world with their first two songs, "Ghots" and "Pirates from the Sea". The debut album of the all-female metal band will be released on May 3rd. You can get all the details about it here and find out everything about the feminist statement behind it!'
+seoTitle: All-female metal band Pirate Queen about to release debut "Ghosts"
+description: Pirate Queen will release their debut album "Ghosts" at the
+  beginning of May! Listen to it here and find some exciting details about the
+  band!
+excerpt: Pirate Queen are currently conquering the metal world with their first
+  two songs, "Ghots" and "Pirates from the Sea". The debut album of the
+  all-female metal band will be released on May 3rd. You can get all the details
+  about it here and find out everything about the feminist statement behind it!
 image: https://storage.googleapis.com/cardamonchai-media/2024-04-17/pirate-queen-soundsvegan-com-jpg-imagine-081818_85765d_1024_768/640.webp
-copyright: 'Pirate Queen, Bandcamp'
+copyright: Pirate Queen, Bandcamp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-04-17/pirate-queen-soundsvegan-com-og-jpg-imagine-081818_887962_1200_628/640.webp
 labels:
   - Band
@@ -24,11 +28,12 @@ labels:
   - Feminism
   - Despotz Records
   - Heavy Music
-focusKeyword: 'Pirate Queen - "Ghosts"Pirate Queen - "Ghosts"'
+focusKeyword: Pirate Queen - "Ghosts"Pirate Queen - "Ghosts"
 advertisement: false
 affiliate: false
 language: en
 languageLink: /2024/04/pirate-queen-ghosts/
+
 ---
 
 **With their album "Ghosts", on May 3rd, Pirate Queen will release a record that will shake up the metal scene. The first all-female pirate metal band from the Bermuda Triangle shows how power metal mixed with fantasy fairy tales and playful melodies can work with this debut.**

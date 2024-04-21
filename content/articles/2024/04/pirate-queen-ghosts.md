@@ -1,14 +1,17 @@
 ---
 date: 2024-04-17T13:30:00.766Z
-slug: pirate-queen-ghosts
 typeName: Preview
-title: 'Pirate Queen - "Ghosts"'
-subTitle: 'All-Female Metal-Band erobert die Szene im Sturm'
-seoTitle: 'Pirate Queen - "Ghosts" – All-Female Metal-Band veröffentlicht Debüt'
-description: 'Pirate Queen veröffentlichen ihr Debütalbum "Ghosts" Anfang Mai! Hört hier schon mal rein und erfahrt spannende Hintergründe zur Band!'
-excerpt: 'Pirate Queen erobern gerade mit ihren ersten beiden Songs "Ghots" und "Pirates from the Sea" die Metal-Welt. Am 3. Mai erscheint das Debütalbum. Ihr könnt Euch hier schon alle Infos dazu holen und erfahren, was es mit dem feministischen Statement dahinter auf sich hat!'
+title: Pirate Queen - "Ghosts"
+subTitle: All-Female Metal-Band erobert die Szene im Sturm
+seoTitle: Pirate Queen - "Ghosts" – All-Female Metal-Band veröffentlicht Debüt
+description: Pirate Queen veröffentlichen ihr Debütalbum "Ghosts" Anfang Mai!
+  Hört hier schon mal rein und erfahrt spannende Hintergründe zur Band!
+excerpt: Pirate Queen erobern gerade mit ihren ersten beiden Songs "Ghots" und
+  "Pirates from the Sea" die Metal-Welt. Am 3. Mai erscheint das Debütalbum. Ihr
+  könnt Euch hier schon alle Infos dazu holen und erfahren, was es mit dem
+  feministischen Statement dahinter auf sich hat!
 image: https://storage.googleapis.com/cardamonchai-media/2024-04-17/pirate-queen-soundsvegan-com-jpg-imagine-081818_85765d_1024_768/640.webp
-copyright: 'Pirate Queen, Bandcamp'
+copyright: Pirate Queen, Bandcamp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-04-17/pirate-queen-soundsvegan-com-og-jpg-imagine-081818_887962_1200_628/640.webp
 labels:
   - Band
@@ -24,11 +27,12 @@ labels:
   - Feminismus
   - Despotz Records
   - Heavy Music
-focusKeyword: 'Pirate Queen "Ghosts"'
+focusKeyword: Pirate Queen "Ghosts"
 advertisement: false
 affiliate: false
 language: de
 languageLink: /2024/04/pirate-queen-ghosts-en/
+
 ---
 
 **Pirate Queen veröffentlichen mit ihrem Album "Ghosts" am 3. Mai eine Platte, die die Metal-Szene zum Beben bringen wird. Die erste komplett weiblich besetzte Pirate Metal Band aus dem Bermuda-Dreieck zeigt mit diesem Debüt, wie Power Metal gemischt mit Fantasy-Märchen und verspielten Melodien funktionieren.**

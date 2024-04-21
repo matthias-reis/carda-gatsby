@@ -1,14 +1,19 @@
 ---
 date: 2024-02-29T10:00:00.766Z
-slug: velcros-interview
 typeName: Interview
-title: 'Velcros – "Strange News From The Vault"'
-subTitle: 'Interview zum Album der Punkband aus Leipzig'
-seoTitle: 'Velcros – "Strange News From The Vault" – Punk Interview'
-description: '"Strange News From The Vault" von Velcros ist ein cooles Punk-Album, dass Ihr auf jeden Fall hören solltet! Lest jetzt mein Interview mit Band Member Fabian Bremer!'
-excerpt: 'Beim Probehören des Albums von Velcros war mir sofort klar: Ich muss mehr über diese Band erfahren! Schon ein paar Tage später bot sich die Gelegenheit für ein Interview mit Fabian. Wir haben uns unter anderem über die Bandgründung, Zukunftspläne und natürlich die Entstehung von "Strange News From The Vault" unterhalten.'
+title: Velcros – "Strange News From The Vault"
+subTitle: Interview zum Album der Punkband aus Leipzig
+seoTitle: Velcros – "Strange News From The Vault" – Punk Interview
+description: '"Strange News From The Vault" von Velcros ist ein cooles
+  Punk-Album, dass Ihr auf jeden Fall hören solltet! Lest jetzt mein Interview
+  mit Band Member Fabian Bremer!'
+excerpt: 'Beim Probehören des Albums von Velcros war mir sofort klar: Ich muss
+  mehr über diese Band erfahren! Schon ein paar Tage später bot sich die
+  Gelegenheit für ein Interview mit Fabian. Wir haben uns unter anderem über die
+  Bandgründung, Zukunftspläne und natürlich die Entstehung von "Strange News
+  From The Vault" unterhalten.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-29/velcros-interview-jpg-imagine-181818_56423f_1024_768/640.webp
-copyright: 'Velcros'
+copyright: Velcros
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-29/velcros-interview-og-jpg-imagine-282828_2c2220_1200_628/640.webp
 labels:
   - Band
@@ -21,11 +26,12 @@ labels:
   - Experimental
   - Garage
   - Post-Punk
-focusKeyword: 'Velcros Interview'
+focusKeyword: Velcros Interview
 advertisement: false
 affiliate: false
 language: de
-languageLink:
+languageLink: null
+
 ---
 
 **Velcros – das sind Fabian Bremer (Aua, Radare), Nicolai Hildebrandt (Ex-Okta Logue) und Manuel Markstein (Wayste). Nach einem für sie prägenden Konzert der texanischen Punkband Radioactivity in einem Leipziger Underground-Club wussten sie: Wir müssen gemeinsam Musik machen. Besonders für Fabian und Nicolai bedeutete die Bandgründung eine Rückkehr zu ihren Punk-Wurzeln. Ihre gemeinsame Band Sarg hatte sich nach kurzer Zeit im Jahr 2013 aufgelöst.**

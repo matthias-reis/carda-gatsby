@@ -1,14 +1,19 @@
 ---
 date: 2024-04-19T10:32:12.086Z
-slug: blume-everything-is-going-to-be-ok
 typeName: Preview
-title: 'Blúmé – "Everything Is Going To Be O.K."'
-subTitle: 'Eine musikalische Einladung zum Perspektivwechsel'
-seoTitle: 'Blúmé – "Everything Is Going To Be O.K." – Alternative Music Preview'
-description: 'Blúmé – "Everything Is Going To Be O.K." ist ein grandioses Debütalbum einer deutsch-mexikanischen Alternative-/Post-Punk-Band aus Berlin. Ihr solltet hier auf jeden Fall reinhören!'
-excerpt: '"Everything Is Going To Be O.K." von Blúmé ist ein grandioses Post-Punk-/Alternative-Album, das uns in unserer von schlimmen Nachrichten und düsteren Aussichten geprägten Zeit dazu einlädt, häufiger die Perspektive zu wechseln, uns in andere hineinzuversetzen und unsere Situation auch mal von außen zu betrachten.'
+title: Blúmé – "Everything Is Going To Be O.K."
+subTitle: Eine musikalische Einladung zum Perspektivwechsel
+seoTitle: Blúmé – "Everything Is Going To Be O.K." – Alternative Music Preview
+description: Blúmé – "Everything Is Going To Be O.K." ist ein grandioses
+  Debütalbum einer deutsch-mexikanischen Alternative-/Post-Punk-Band aus Berlin.
+  Ihr solltet hier auf jeden Fall reinhören!
+excerpt: '"Everything Is Going To Be O.K." von Blúmé ist ein grandioses
+  Post-Punk-/Alternative-Album, das uns in unserer von schlimmen Nachrichten und
+  düsteren Aussichten geprägten Zeit dazu einlädt, häufiger die Perspektive zu
+  wechseln, uns in andere hineinzuversetzen und unsere Situation auch mal von
+  außen zu betrachten.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-04-19/blume-everything-is-going-to-be-ok-soundsvegan-com-4-jpg-imagine-e8e8e8_7d7d7d_1024_768/640.webp
-copyright: 'Blúmé'
+copyright: Blúmé
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-04-19/blume-everything-is-going-to-be-ok-soundsvegan-com-og-1-jpg-imagine-f8f8f8_abacaa_1200_628/640.webp
 labels:
   - Post-Punk
@@ -21,11 +26,11 @@ labels:
   - Reviews
   - Band
   - Bands
-
-focusKeyword: 'Blúmé – "Everything Is Going To Be O.K."'
+focusKeyword: Blúmé – "Everything Is Going To Be O.K."
 advertisement: false
 affiliate: false
 language: de
+
 ---
 
 **Mit ihrem Debütalbum "Everything Is Going To Be O.K." zerschmettern Blúmé Genregrenzen, wecken Erinnerungen und spielen sich in die Herzen der Fans von Bands wie Queens of the Stone Age, Muse, Radiohead und The Strokes. Wie ein wundervoller Festivalsommer fühlt sich die Platte an. Sie ist voll großer Gefühle, verspielter Melodien und nachdenklicher Zwischentöne. Ein ganz großer Hörgenuss wartet auf Euch!**

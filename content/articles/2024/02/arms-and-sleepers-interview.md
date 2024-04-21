@@ -1,14 +1,20 @@
 ---
 date: 2024-02-16T15:30:00.766Z
-slug: arms-and-sleepers-interview
 typeName: Interview
 title: '"Musik ist etwas, das ich für mein Wohlbefinden tun muss"'
-subTitle: 'Interview mit Arms and Sleepers Gründer Mirza Ramic zum neuen Album "What Tomorrow Brings"'
-seoTitle: 'Arms and Sleepers – Interview zum neuen Album "What Tomorrow Brings'
-description: 'Das neue Arms And Sleepers Album "What Tomorrow Brings" erscheint in Kürze. Lest jetzt mein Interview mit dem Gründer des Projekts Mirza Ramic und holt Euch spannende Details!'
-excerpt: 'Das neue Arms And Sleepers Album "What Tomorrow Brings" ist fertig. Ich habe den Gründer des Projekts Mirza Ramic interviewt und einiges über sein Leben und seinen kreativen Prozess erfahren. Wir haben uns auch über seine Vergangenheit und die Unterschiede zwischen seiner alten Heimat Boston und Berlin unterhalten.'
+subTitle: Interview mit Arms and Sleepers Gründer Mirza Ramic zum neuen Album
+  "What Tomorrow Brings"
+seoTitle: Arms and Sleepers – Interview zum neuen Album "What Tomorrow Brings
+description: Das neue Arms And Sleepers Album "What Tomorrow Brings" erscheint
+  in Kürze. Lest jetzt mein Interview mit dem Gründer des Projekts Mirza Ramic
+  und holt Euch spannende Details!
+excerpt: Das neue Arms And Sleepers Album "What Tomorrow Brings" ist fertig. Ich
+  habe den Gründer des Projekts Mirza Ramic interviewt und einiges über sein
+  Leben und seinen kreativen Prozess erfahren. Wir haben uns auch über seine
+  Vergangenheit und die Unterschiede zwischen seiner alten Heimat Boston und
+  Berlin unterhalten.
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-16/arms-and-sleepers-interview-soundsvegan-com-jpg-imagine-c8d8d8_7c8087_1024_768/640.webp
-copyright: 'Arms and Sleepers'
+copyright: Arms and Sleepers
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-16/arms-and-sleepers-interview-soundsvegan-com-og-jpg-imagine-c8d8d8_838388_1200_628/640.webp
 labels:
   - Band
@@ -19,11 +25,12 @@ labels:
   - Mirza Ramic
   - Post-Music
   - Experimental
-focusKeyword: 'Arms and Sleepers Interview'
+focusKeyword: Arms and Sleepers Interview
 advertisement: false
 affiliate: false
 language: de
 languageLink: /2024/02/arms-and-sleepers-interview-en/
+
 ---
 
 **Vor Kurzem habe ich meine Rezension des neuen Arms and Sleepers Albums "What Tomorrow Brings" hier auf Sounds Vegan veröffentlicht. Es sind nur noch wenige Tage bis zur Veröffentlichung am 1. März, und ich bin mir sicher, dass ihr es schon sehnlichst erwartet! Um Euch die Wartezeit ein wenig zu versüßen, teile ich heute mein Interview mit Mirza Ramic in voller Länge mit Euch. Der Künstler hinter Arms and Sleepers hat mir viele spannende Details über das Album, sein Leben und seine neue Zusammenarbeit mit dem Berliner Label Pelagic Records verraten.**

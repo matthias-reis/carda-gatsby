@@ -1,14 +1,19 @@
 ---
 date: 2024-03-15T10:00:00.766Z
-slug: slow-reels-everyday-exotic
 typeName: Preview
-title: 'Slow Reels – "Everyday Exotic"'
-subTitle: 'Experimenteller Ambient-Sound aus einem friedlichen Paralleluniversum'
-seoTitle: 'Ambient Preview – Slow Reels – "Everyday Exotic"'
-description: 'Mit "Everyday Exotic" von Slow Reels erscheint in der quiet details Serie jetzt eine echt Ambient-Perle. Erfahrt jetzt alles über das Ausnahmealbum!'
-excerpt: 'In der quiet details Serie erscheint am 20. März ein Album zweier bekannter Künstler aus der Ambient- und Experimental-Szene, auf das Ihr Euch freuen könnt. James Murray und Ian Hawgood liefern mit "Everyday Exotic" unter dem Namen Slow Reels gemeinsam wundervolle neun Stücke ab, die uns zu einer Reise auf eine Insel in einem friedlichen Paralleluniversum einladen.'
+title: Slow Reels – "Everyday Exotic"
+subTitle: Experimenteller Ambient-Sound aus einem friedlichen Paralleluniversum
+seoTitle: Ambient Preview – Slow Reels – "Everyday Exotic"
+description: Mit "Everyday Exotic" von Slow Reels erscheint in der quiet details
+  Serie jetzt eine echt Ambient-Perle. Erfahrt jetzt alles über das
+  Ausnahmealbum!
+excerpt: In der quiet details Serie erscheint am 20. März ein Album zweier
+  bekannter Künstler aus der Ambient- und Experimental-Szene, auf das Ihr Euch
+  freuen könnt. James Murray und Ian Hawgood liefern mit "Everyday Exotic" unter
+  dem Namen Slow Reels gemeinsam wundervolle neun Stücke ab, die uns zu einer
+  Reise auf eine Insel in einem friedlichen Paralleluniversum einladen.
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-08/slow-reels-everyday-exotic-preview-soundsvegan-com-jpg-imagine-e8e8d8_c1d3aa_1024_768/640.webp
-copyright: 'Slow Reels'
+copyright: Slow Reels
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-03-08/slow-reels-everyday-exotic-preview-soundsvegan-com-og-jpg-imagine-e8e8d8_c2d5af_1200_628/640.webp
 labels:
   - Band
@@ -24,11 +29,12 @@ labels:
   - Experimental
   - Ian Hawgood
   - James Murray
-focusKeyword: 'Slow Reels quiet details'
+focusKeyword: Slow Reels quiet details
 advertisement: false
 affiliate: false
 language: de
 languageLink: /2024/03/slow-reels-everyday-exotic-en/
+
 ---
 
 **In der quiet details Serie erscheint am 20. März ein Album zweier bekannter Künstler aus der Ambient- und Experimental-Szene, auf das Ihr Euch freuen könnt. James Murray und Ian Hawgood liefern unter dem Namen Slow Reels gemeinsam wundervolle neun Stücke ab. "Everyday Exotic" trägt uns davon auf eine ferne Insel, auf der es den allgegenwärtigen Tsunami aus Kriegsnachrichten, Stress, Wut und Umweltverschmutzung nicht gibt.**

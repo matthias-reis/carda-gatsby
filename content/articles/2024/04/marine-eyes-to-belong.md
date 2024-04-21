@@ -1,14 +1,18 @@
 ---
 date: 2024-04-08T11:45:00.766Z
-slug: marine-eyes-to-belong
 typeName: Preview
-title: 'marine eyes – "to belong"'
-subTitle: 'Cynthia Bernard veröffentlicht drittes Soloalbum'
-seoTitle: 'marine eyes veröffentlicht drittes Album "to belong"'
-description: 'marine eyes aka Cynthia Bernard veröffentlich ihr drittes Soloalbum auf Past Inside The Present. Holt Euch hier alle Insights und hört direkt rein in die 16 Ambient/Dream Pop/Shoegaze-Stücke!'
-excerpt: '"to belong" von marine eyes aka Cynthia Bernard ist ein wundervolles Album, das Ambient, Dream Pop und Shoegaze geschickt und gefühlvoll mit angenehmen Field Recordings verbindet. Hört jetzt hier direkt rein und erfahrt mehr über die Platte und die Künstlerin dahinter.'
+title: marine eyes – "to belong"
+subTitle: Cynthia Bernard veröffentlicht drittes Soloalbum
+seoTitle: marine eyes veröffentlicht drittes Album "to belong"
+description: marine eyes aka Cynthia Bernard veröffentlich ihr drittes Soloalbum
+  auf Past Inside The Present. Holt Euch hier alle Insights und hört direkt rein
+  in die 16 Ambient/Dream Pop/Shoegaze-Stücke!
+excerpt: '"to belong" von marine eyes aka Cynthia Bernard ist ein wundervolles
+  Album, das Ambient, Dream Pop und Shoegaze geschickt und gefühlvoll mit
+  angenehmen Field Recordings verbindet. Hört jetzt hier direkt rein und erfahrt
+  mehr über die Platte und die Künstlerin dahinter.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-04-03/marine-eyes-to-belong-jpg-imagine-b8b898_a69687_1024_768/640.webp
-copyright: 'marine eyes'
+copyright: marine eyes
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-04-03/marine-eyes-to-belong-og-jpg-imagine-e8e8e8_c1b8ae_1200_628/640.webp
 labels:
   - Band
@@ -32,6 +36,7 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2024/04/marine-eyes-to-belong-en/
+
 ---
 
 **Auf "to belong" von marine eyes geht es um die zahlreichen Schichten, von Gefühlen und Beziehungen. Das Album ist geprägt von Leichtigkeit und eleganter Einfachheit – entspannt und voll angenehmer Geborgenheit und wie gemacht für etwas reflektierende Me-Time. Es erscheint am 17. April. Markiert Euch das Datum am besten schon mal im Kalender. Die Pre-Order ist bereits online und sechs der insgesamt 16 Stücke könnt Ihr heute bereits anhören. Ich habe sie Euch unter diesem Artikel verlinkt.**

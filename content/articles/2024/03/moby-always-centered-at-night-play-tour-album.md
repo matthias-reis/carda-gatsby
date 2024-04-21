@@ -1,14 +1,18 @@
 ---
 date: 2024-03-19T16:00:00.766Z
-slug: moby-always-centered-at-night-play-tour-album
 typeName: Preview
-title: 'Moby kündigt Album und Tour an'
+title: Moby kündigt Album und Tour an
 subTitle: '"Always Centered at Night" kommt zum 25. Jubiläum von "Play"'
-seoTitle: 'Moby kündigt Album "Always Centered at Night" und Tour an'
-description: 'Mit "Always Centered at Night" kündigt Moby sein neues Album an! Und es gibt noch eine Sensation: Er kommt für zwei Shows nach Deutschland! Holt Euch jetzt Tickets und alle Infos!'
-excerpt: 'Moby hat in einem Atemzug eine Tour und ein neues Album angekündigt! Damit macht er vor allem seine Fans in Europa sehr glücklich. Holt Euch jetzt spannende Insights über die Platte, das 25. Jubiläum seines legendären Albums "Play" und hört Euch die Vorauskopplung "Dark Days" hier direkt an!'
+seoTitle: Moby kündigt Album "Always Centered at Night" und Tour an
+description: 'Mit "Always Centered at Night" kündigt Moby sein neues Album an!
+  Und es gibt noch eine Sensation: Er kommt für zwei Shows nach Deutschland!
+  Holt Euch jetzt Tickets und alle Infos!'
+excerpt: Moby hat in einem Atemzug eine Tour und ein neues Album angekündigt!
+  Damit macht er vor allem seine Fans in Europa sehr glücklich. Holt Euch jetzt
+  spannende Insights über die Platte, das 25. Jubiläum seines legendären Albums
+  "Play" und hört Euch die Vorauskopplung "Dark Days" hier direkt an!
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-19/moby-always-centered-at-night-mike-formanski-soundsvegan-com-jpg-imagine-181828_533d3d_1024_768/640.webp
-copyright: 'Mike Formanski'
+copyright: Mike Formanski
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-03-19/moby-always-centered-at-night-mike-formanski-soundsvegan-com-og-jpg-imagine-181828_503f3c_1200_628/640.webp
 labels:
   - Band
@@ -26,11 +30,12 @@ labels:
   - Techno
   - Tour
   - Vegan Celebrities
-focusKeyword: 'Moby "Always Centered at Night"'
+focusKeyword: Moby "Always Centered at Night"
 advertisement: false
 affiliate: false
 language: de
 languageLink: /2024/03/moby-always-centered-at-night-play-tour-album-en/
+
 ---
 
 **Diese Sensationsnachricht ist Moby perfekt gelungen: Der Musiker hat jetzt gleichzeitig ein neues Album und eine Tour angekündigt! Der Multiinstrumentalist, der inzwischen unter anderem auch einen Podcast hat und sich seit vielen Jahren für Tierrechte engagiert, lebt schon lange sehr zurückgezogen. Mit der Erfüllung des Wunschs einer Moby Tour macht er viele Fans sehr glücklich. Das neue Album "Always Centered at Night" fügt der sprichwörtlichen Torte die Kirsche hinzu.**

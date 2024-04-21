@@ -1,14 +1,19 @@
 ---
 date: 2024-03-07T10:30:12.086Z
-slug: vegan-kochen-reishunger
 typeName: Produkttest
-title: 'Vegan kochen mit Reishunger'
-subTitle: 'Leckere Reisgerichte für jeden Geschmack'
-seoTitle: 'Vegan kochen mit Reishunger und Reiskocher'
-description: 'Vegan kochen mit Reishunger – das funktioniert wunderbar! Erfahrt hier alles über den fantastischen Reiskocher und die vielseitigen Reissorten und wie Ihr sie zubereitet!'
-excerpt: 'Vegan kochen mit Reishunger – Challenge accepted! Wenn es darum geht, neue Reisgerichte auszuprobieren, bin ich sofort dabei. Ab sofort macht mir das sogar noch viel mehr Spaß, denn ich lerne durch meinen neuen Reiskocher, neben zahlreichen faszinierenden und vielseitigen Reissorten, tolle neue Garmethoden und Kochideen kennen!'
+title: Vegan kochen mit Reishunger
+subTitle: Leckere Reisgerichte für jeden Geschmack
+seoTitle: Vegan kochen mit Reishunger und Reiskocher
+description: Vegan kochen mit Reishunger – das funktioniert wunderbar! Erfahrt
+  hier alles über den fantastischen Reiskocher und die vielseitigen Reissorten
+  und wie Ihr sie zubereitet!
+excerpt: Vegan kochen mit Reishunger – Challenge accepted! Wenn es darum geht,
+  neue Reisgerichte auszuprobieren, bin ich sofort dabei. Ab sofort macht mir
+  das sogar noch viel mehr Spaß, denn ich lerne durch meinen neuen Reiskocher,
+  neben zahlreichen faszinierenden und vielseitigen Reissorten, tolle neue
+  Garmethoden und Kochideen kennen!
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-07/vegan-kochen-mit-reishunger-soundsvegan-com-jpg-imagine-d8e8f8_9b9389_1024_768/640.webp
-copyright:
+copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-03-07/vegan-kochen-mit-reishunger-soundsvegan-com-og-jpg-imagine-f8f8f8_9e937d_1200_628/640.webp
 labels:
   - Reis
@@ -21,10 +26,11 @@ labels:
   - vegan kochen
   - vegan
   - Kochbox
-focusKeyword: 'Vegan kochen Reishunger'
+focusKeyword: Vegan kochen Reishunger
 advertisement: true
 affiliate: true
 language: de
+
 ---
 
 **Reishunger hat hier vor ein paar Tagen für ein Kochevent der ganz besonderen Art gesorgt. Wir hatten ein super leckeres Red Curry mit vielen frischen Zutaten – den Reis dazu gab es aus unserem nagelneuen Reishunger Reiskocher. Insgesamt war der Kochabend ein voller Erfolg. Wir kochen seitdem regelmäßig mit dem Gerät und auch der Reis von Reishunger ist seitdem aus unserer Küche nicht mehr wegzudenken – wir bereiten gefühlt alles damit zu.**

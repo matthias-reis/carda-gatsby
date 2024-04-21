@@ -1,14 +1,19 @@
 ---
 date: 2024-02-27T16:50:00.766Z
-slug: asc-loss
 typeName: Preview
-title: 'ASC – "Loss"'
-subTitle: 'Das neueste Ausnahmealbum auf Past Inside The Present'
-seoTitle: 'ASC – "Loss" – Ambient Music Preview'
-description: '"Loss" von ASC erscheint morgen auf Past Inside The Present – Zeit für eine Preview zu diesem fantastischen Album. Hören lohnt sich sehr – so viel verrate ich schon mal. Außerdem habe ich ein paar spannende Details für Euch!'
-excerpt: '"Loss" von ASC erscheint morgen auf Past Inside The Present. Hinter dem Projekt steckt James Clements. Das Album ist eine gelungene Sammlung malerischer elektronischer Klanglandschaften, die mitten ins Herz gehen und uns in unserer lauten Welt für einen Moment innehalten lassen.'
+title: ASC – "Loss"
+subTitle: Das neueste Ausnahmealbum auf Past Inside The Present
+seoTitle: ASC – "Loss" – Ambient Music Preview
+description: '"Loss" von ASC erscheint morgen auf Past Inside The Present – Zeit
+  für eine Preview zu diesem fantastischen Album. Hören lohnt sich sehr – so
+  viel verrate ich schon mal. Außerdem habe ich ein paar spannende Details für
+  Euch!'
+excerpt: '"Loss" von ASC erscheint morgen auf Past Inside The Present. Hinter
+  dem Projekt steckt James Clements. Das Album ist eine gelungene Sammlung
+  malerischer elektronischer Klanglandschaften, die mitten ins Herz gehen und
+  uns in unserer lauten Welt für einen Moment innehalten lassen.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-27/asc-loss-jpg-imagine-e8a838_c8a056_1024_768/640.webp
-copyright: 'ASC'
+copyright: ASC
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-27/asc-loss-og-jpg-imagine-f8d878_c39b52_1200_628/640.webp
 labels:
   - Ambient
@@ -29,11 +34,12 @@ labels:
   - ASC
   - Past Inside The Present
   - James Clements
-focusKeyword: 'ASC Loss'
+focusKeyword: ASC Loss
 advertisement: false
 affiliate: false
 language: de
 languageLink: /2024/02/asc-loss-en/
+
 ---
 
 **"Loss" von ASC erscheint morgen auf Past Inside The Present. Hinter dem Projekt steckt James Clements. Das Album ist eine gelungene Sammlung malerischer elektronischer Klanglandschaften, die mitten ins Herz gehen und uns in unserer lauten Welt für einen Moment innehalten lassen.**

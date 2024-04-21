@@ -1,12 +1,14 @@
 ---
 date: 2024-02-08T09:30:12.086Z
-slug: nachhaltige-handyhüllen-mmore
 typeName: Produkttest
-title: 'Handyhüllen aus Lavendel, Holz und Stein'
-subTitle: 'MMORE macht es anders und zeigt, wie nachhaltige Handyhüllen gehen'
-seoTitle: 'Nachhaltige Handyhüllen – MMORE zeigt wie es wirklich geht'
-description: 'Nachhaltige Handyhüllen – MMORE stellt sie unter anderem aus Lavendel und Holz her. Erfahrt hier alles über das Start-up!'
-excerpt: 'Nachhaltige Handyhüllen – MMORE beweist mit Cases aus Lavendel, Holz und Stein, dass es auch anders geht – sogar kompostierbar! In diesem Artikel erfahrt Ihr, was hinter dem Start-up aus dem slowenischen Ljubljana steckt.'
+title: Handyhüllen aus Lavendel, Holz und Stein
+subTitle: MMORE macht es anders und zeigt, wie nachhaltige Handyhüllen gehen
+seoTitle: Nachhaltige Handyhüllen – MMORE zeigt wie es wirklich geht
+description: Nachhaltige Handyhüllen – MMORE stellt sie unter anderem aus
+  Lavendel und Holz her. Erfahrt hier alles über das Start-up!
+excerpt: Nachhaltige Handyhüllen – MMORE beweist mit Cases aus Lavendel, Holz
+  und Stein, dass es auch anders geht – sogar kompostierbar! In diesem Artikel
+  erfahrt Ihr, was hinter dem Start-up aus dem slowenischen Ljubljana steckt.
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-08/mmore-cases-soundsvegan-com-jpg-imagine-887868_696874_1024_768/640.webp
 copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-08/mmore-cases-soundsvegan-com-og-png-imagine-887868_696571_1200_628/640.webp
@@ -20,10 +22,11 @@ labels:
   - Slow Fashion
   - Technik
   - Ernährung & Gesundheit
-focusKeyword: 'Nachhaltige Handyhüllen MMORE'
+focusKeyword: Nachhaltige Handyhüllen MMORE
 advertisement: true
 affiliate: false
 language: de
+
 ---
 
 **"Was ist Dir als Erstes aufgefallen?" – das ist die Frage, die ich als vegane Produktexpertin eindeutig am häufigsten höre. Bei MMORE Cases kann ich diese Frage ganz klar beantworten mit: "Der wunderbare Lavendelduft!" Wenn Ihr Euch fragt, was Handyhüllen mit Lavendel zu tun haben, solltet Ihr auf jeden Fall weiterlesen, denn ich habe Spannendes über das Start-up, das Accessoires für Mobilgeräte aus Recyclingmaterialien herstellt, zu berichten!**

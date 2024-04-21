@@ -1,14 +1,17 @@
 ---
 date: 2024-03-19T16:00:00.766Z
-slug: moby-always-centered-at-night-play-tour-album-en
 typeName: Preview
-title: 'Moby Announces Album and Tour'
-subTitle: 'Artist celebrates 25 years "Play" with "Always Centered at Night" Release'
+title: Moby Announces Album and Tour
+subTitle: Artist celebrates 25 years "Play" with "Always Centered at Night" Release
 seoTitle: '"Always Centered at Night" – Moby celebrates 25 years "Play" with new Album'
-description: '"Always Centered at Night" is the name of the new Moby album! And there is some more news! He is planning to play some shows in Europe this year! Get your tickets now!"'
-excerpt: 'Moby announced a tour and a new album in one sentence! Get your tickets now, enjoy some insights about his plans, and listen to his pre-released single "Dark Days"! I promise you, it‘s more than worth it!'
+description: '"Always Centered at Night" is the name of the new Moby album! And
+  there is some more news! He is planning to play some shows in Europe this
+  year! Get your tickets now!"'
+excerpt: Moby announced a tour and a new album in one sentence! Get your tickets
+  now, enjoy some insights about his plans, and listen to his pre-released
+  single "Dark Days"! I promise you, it‘s more than worth it!
 image: https://storage.googleapis.com/cardamonchai-media/2024-03-19/moby-always-centered-at-night-mike-formanski-soundsvegan-com-jpg-imagine-181828_533d3d_1024_768/640.webp
-copyright: 'Mike Formanski'
+copyright: Mike Formanski
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-03-19/moby-always-centered-at-night-mike-formanski-soundsvegan-com-og-jpg-imagine-181828_503f3c_1200_628/640.webp
 labels:
   - Band
@@ -31,6 +34,7 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2024/03/moby-always-centered-at-night-play-tour-album/
+
 ---
 
 **Moby has delivered this groundbreaking news perfectly: The musician just announced a new album and a tour in one sentence! The multi-instrumentalist, who also hosts a podcast and has been committed to animal rights for many years, has lived in seclusion for a long time. He makes many fans very happy by fulfilling their deep wish for a Moby tour. The new album "Always Centered at Night" adds the cherry to this beautiful music cake.**
