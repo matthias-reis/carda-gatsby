@@ -8,7 +8,9 @@ date: 2021-04-23T07:33:21.000+00:00
 status: publish
 ---
 
-[➡ Hier geht's zur Admin-Seite](/admin)
+## Localhost Admin
+
+[➡ Hier geht's zur Admin-Seite](http://localhost:3334)
 
 ## Markdown
 
