@@ -34,7 +34,7 @@ excerpt: MORICARE gibt Euch 25 Prozent Rabatt auf alle Produkte für Eure vegane
 
 ## Vegane Beauty-Routine für gepflegte Haut
 
-Ich gestehe hiermit: Früher habe ich nicht so besonders gut auf meine Haut geachtet und höchstens mal etwas Pflegecreme oder Sonnenlotion verwendet. Irgendwann habe ich dann herausgefunden, dass ich mit einer gut durchdachten veganen Beauty-Routine wirklich etwas für meinen Teint tun kann. Inzwischen hat sich zum Glück so einiges geändert, ich achte auf meine Haut (schließlich habe ich ja nur eine!) und werde heute als Expertin für vegane Beauty-Produkte gebucht.
+Ich gestehe hiermit: Früher habe ich nicht so besonders gut auf meine Haut geachtet und höchstens mal etwas Pflegecreme oder Sonnenlotion verwendet. Irgendwann habe ich dann herausgefunden, dass ich mit einer gut durchdachten veganen Beauty-Routine wirklich etwas für meinen Teint tun kann. Inzwischen hat sich zum Glück so einiges geändert, ich achte auf meine Haut (schließlich habe ich ja nur die eine!) und werde heute als Expertin für vegane Beauty-Produkte gebucht.
 
 Seitdem ich nach der Gesichtsreinigung einen Toner, ein Serum, eine Creme und nach Bedarf eine Augencreme und ein Gesichtsöl verwende, fühle ich mich frischer, meine Rötungen sind weniger geworden und ich benötige kaum noch dekorative Kosmetik. Insgesamt lohnt es sich für mich also auf jeden Fall, morgens und abends etwas für meine Haut zu tun. Mit dem Pflegesystem von MORICARE funktioniert die Morgen- und Abendroutine für mich hervorragend. Ich kann sie alle miteinander oder auch mit Produkten anderer Brands mühelos kombinieren; ich vertrage sie einwandfrei und ihre Wirkung ist spürbar. Die folgenden MORICARE Produkte verwende ich in unterschiedlichen Kombinationen:
 
@@ -65,7 +65,7 @@ Der MORICARE Toner auf der Basis von Moringa gleicht den pH-Wert der Haut aus un
 
 ## 3. Serum
 
-Meine Haut braucht sehr viel Feuchtigkeit. Um ihr die zu geben, setze ich vor allem auf vegane Hyaluronsäure. Die ist auch im Serum von MORICARE enthalten. Hinzu kommen Moringa, Hyaluron, Seidenbaum-Extrakt sowie Aloe Vera und Arnika. Diese Inhaltsstoffe sorgen für einen frischen Glow und mildern feine Linien. Im Gegensatz zu ein paar anderen Seren, die ich bisher ausprobiert habe, zieht das von MORICARE überraschend schnell ein und hinterlässt keine Rückstände auf der Haut. Das ist in meinen Augen ein großer Vorteil, da ich dadurch nicht so sparsam mit der Feuchtigkeitscreme umgehen muss. Es verbindet sich zudem optimal mit der Creme.
+Meine Haut benötigt sehr viel Feuchtigkeit. Um ihr die zu geben, setze ich vor allem auf vegane Hyaluronsäure. Die ist auch im Serum von MORICARE enthalten. Hinzu kommen Moringa, Hyaluron, Seidenbaum-Extrakt sowie Aloe Vera und Arnika. Diese Inhaltsstoffe sorgen für einen frischen Glow und mildern feine Linien. Im Gegensatz zu ein paar anderen Seren, die ich bisher ausprobiert habe, zieht das von MORICARE überraschend schnell ein und hinterlässt keine Rückstände auf der Haut. Das ist in meinen Augen ein großer Vorteil, da ich dadurch nicht so sparsam mit der Feuchtigkeitscreme umgehen muss. Es verbindet sich zudem optimal mit der Creme.
 
 **Mein Tipp:** Nutzt morgens zum Einarbeiten des Serums einen Jaderoller, den Ihr über Nacht im Kühlschrank aufbewahrt. Das gibt Euch einen zusätzlichen Frischekick!
 
@@ -73,9 +73,9 @@ Meine Haut braucht sehr viel Feuchtigkeit. Um ihr die zu geben, setze ich vor al
 
 ## 4. Eye Cream
 
-Die Hautpartie unter den Augen ist mit die empfindlichste am ganzen Körper. Ich finde daher, sie hat durchaus speziell auf sie abgestimmte Pflege verdient. Weil ich es reichhaltig mag und auf pflanzliches Hyaluron schwöre, ist hier für mich die Eye Cream von MORICARE eine gute Wahl. Braunalge, Karité- un Sheabutter, Proteine und Mineralien bekämpfen Stressfältchen und spendend nährende Pflege, während das Hyaluron aufpolsternd wirkt. Mir genügt schon eine winzige Menge für beide Augen.
+Die Hautpartie unter den Augen ist mit die empfindlichste am ganzen Körper. Ich finde daher, sie hat durchaus speziell auf sie abgestimmte Pflege verdient. Weil ich es reichhaltig mag und auf pflanzliches Hyaluron schwöre, ist hier für mich die Eye Cream von MORICARE eine gute Wahl. Braunalge, Karité- un Sheabutter, Proteine und Mineralien bekämpfen Stressfältchen und spenden nährende Pflege, während das Hyaluron aufpolsternd wirkt. Mir genügt schon eine winzige Menge für beide Augen.
 
-**Mein Tipp:** Legt die Augencreme in den Kühlschrank und gönnt Euch zum Beispiel nach einer durchfeierten Nacht eine großzügige Kur damit!
+**Mein Tipp:** Legt die Augencreme in den Kühlschrank und gönnt Euch, zum Beispiel nach einer durchfeierten Nacht, eine großzügige Kur damit!
 
 <div id="tagescreme" />
 
@@ -89,7 +89,7 @@ Die klassische Day Creme von MORICARE ist die leichtere Variante der Tagespflege
 
 ## 6. Tagescreme Anti Aging
 
-Das "Anti Aging" steht bei der Anti Aging Tagescreme von Moricare nicht nur für "reife Haut". Das Produkt mit Seidenbaum-Extrakt, Moringa, Hyaluron und Aloe Vera ist besonders reichhaltig und pflegend. Ich nutze die Creme vor allem im Winter oder wenn ich zwischendurch das Gefühl habe, dass ich eine etwas gehaltvollere Pflege gebrauchen könnte. Dadurch spare ich nmich dann den zusätzlichen Schritt, nach der klassischen Tagescreme ein Gesichtsöl zu verwenden.
+Das "Anti Aging" steht bei der Anti Aging Tagescreme von Moricare nicht nur für "reife Haut". Das Produkt mit Seidenbaum-Extrakt, Moringa, Hyaluron und Aloe Vera ist besonders reichhaltig und pflegend. Ich nutze die Creme vor allem im Winter oder wenn ich zwischendurch das Gefühl habe, dass ich eine etwas gehaltvollere Pflege gebrauchen könnte. Dadurch spare ich mich dann den zusätzlichen Schritt, nach der klassischen Tagescreme ein Gesichtsöl zu verwenden.
 
 **Mein Tipp:** Tragt die Anti Aging Tagescreme von MORICARE partiell auf und pflegt damit die Stellen im Gesicht, die etwas mehr Pflege benötigen, entsprechend intensiv.
 
