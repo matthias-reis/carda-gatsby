@@ -2,8 +2,8 @@
 date: 2024-04-29T13:06:22.079Z
 title: Meine vegane Beauty-Routine mit MORICARE
 subTitle: Toner, Cremes, Serum und Eye Cream
-type: article
-typeName: Artikel
+type: produkttest
+typeName: Produkttest
 description: Vegane Beauty-Routine mit MORCARE – von Reinigungsgel bis Serum. Holt Euch jetzt satte 25 % Rabatt auf alle Produkte!
 labels:
   - vegan
