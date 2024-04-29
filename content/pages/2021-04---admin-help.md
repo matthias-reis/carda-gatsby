@@ -10,6 +10,14 @@ status: publish
 
 ## Localhost Admin
 
+Die Applikation muss lokal in **VS Code** gestartet werden mit
+
+```bash
+yarn work
+```
+
+Danach startet die Applikation und ist hier erreichbar:
+
 [➡ Hier geht's zur Admin-Seite](http://localhost:3334)
 
 ## Markdown
