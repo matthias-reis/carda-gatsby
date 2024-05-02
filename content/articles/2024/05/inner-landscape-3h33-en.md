@@ -25,7 +25,7 @@ focusKeyword: Inner Landscape Debut Album
 advertisement: false
 affiliate: false
 language: en
-languageLink: /2024/05/inner-landscape/
+languageLink: /2024/05/inner-landscape-3h33/
 ---
 
 **"3H33" is the name of the debut album by French post-metal collective Inner Landscape. It will be released on 17 May on Klonosphere Records/Season Of Mist. The band members see their influences primarily in projects such as Isis, Sumac and Intronaut and surprise listeners with a delightful and masterly mix of atmospheric and heavy sounds.**

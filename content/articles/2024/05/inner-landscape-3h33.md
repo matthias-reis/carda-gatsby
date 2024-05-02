@@ -25,7 +25,7 @@ focusKeyword: Inner Landscape Debütalbum
 advertisement: false
 affiliate: false
 language: de
-languageLink: /2024/05/inner-landscape-en/
+languageLink: /2024/05/inner-landscape-3h33-en/
 ---
 
 **"3H33" – so heißt das Debutalbum des französichen Post-Metal-Kollektivs Inner Landscape. Es erscheint am 17. Mai auf Klonosphere Records/Season Of Mist. Die Band sieht ihre Einflüsse vor allem in Projekten wie Isis, Sumac und Intronatu und überrascht mit einem ausgefeilten Mix aus atmosphärischen und heavy Tönen.**
