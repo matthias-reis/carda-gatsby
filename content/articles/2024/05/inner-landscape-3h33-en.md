@@ -34,7 +34,7 @@ With their music, they created a world of fascinating sound. There could be no b
 
 ## On-point post-metal
 
-![Inner Landscape – "3H33"](https://storage.googleapis.com/cardamonchai-media/2024-05-02/inner-landscape-soundsvegan-com-cover-jpg-imagine-f8f8f8_8b9592_425_425/640.webp 'Inner Landscape – "3H33"')
+![Inner Landscape – "3H33" | large](https://storage.googleapis.com/cardamonchai-media/2024-05-02/inner-landscape-soundsvegan-com-cover-jpg-imagine-f8f8f8_8b9592_425_425/640.webp 'Inner Landscape – "3H33"')
 
 With "3H33", the four musicians show us how well powerful vocals and hard riffs can be combined with jazzy drums and emotional soundscapes. With a total of six tracks and a playing time of just 41 minutes, it still succinctly summarises the talent within this band.
 
