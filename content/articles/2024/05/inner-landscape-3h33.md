@@ -4,7 +4,7 @@ typeName: Preview
 title: 'Inner Landscape – "3H33"'
 subTitle: 'Französiches Post-Metal-Kollektiv startet durch'
 seoTitle: 'Inner Landscape Debütalbum – "3H33" – Post-Metal Preview'
-description: 'Das Inner Landscape Debütalbum "3H33" ist kurz davor durchzustarten! Klickt jetzt auf den Playbutton und hört Euch hier den ersten vorausgekoppelten Song der Post-Metal-Band aus Frankreich an!'v
+description: 'Das Inner Landscape Debütalbum "3H33" ist kurz davor durchzustarten! Klickt jetzt auf den Playbutton und hört Euch hier den ersten vorausgekoppelten Song der Post-Metal-Band aus Frankreich an!'
 excerpt: '"3H33" – so heißt das Debutalbum des französichen Post-Metal-Kollektivs Inner Landscape. Es erscheint am 17. Mai auf Klonosphere Records/Season Of Mist. Die Band sieht ihre Einflüsse vor allem in Projekten wie Isis, Sumac und Intronatu und überrascht mit einem ausgefeilten Mix aus atmosphärischen und heavy Tönen. Hört am besten hier direkt rein!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-02/inner-landscape-soundsvegan-com-2-jpg-imagine-080808_382713_1024_768/640.webp
 copyright: Inner Landscape
