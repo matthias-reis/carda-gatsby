@@ -34,9 +34,7 @@ With their music, they created a world of fascinating sound. There could be no b
 
 ## On-point post-metal
 
-![Inner Landscape – "3H33" | large](https://storage.googleapis.com/cardamonchai-media/2024-05-02/inner-landscape-soundsvegan-com-cover-jpg-imagine-f8f8f8_8b9592_425_425/640.webp 'Inner Landscape – "3H33"')
-
-With "3H33", the four musicians show us how well powerful vocals and hard riffs can be combined with jazzy drums and emotional soundscapes. With a total of six tracks and a playing time of just 41 minutes, it still succinctly summarises the talent within this band.
+![Inner Landscape – "3H33"](https://storage.googleapis.com/cardamonchai-media/2024-05-02/inner-landscape-soundsvegan-com-cover-jpg-imagine-f8f8f8_8b9592_425_425/640.webp 'Inner Landscape – "3H33"') With "3H33", the four musicians show us how well powerful vocals and hard riffs can be combined with jazzy drums and emotional soundscapes. With a total of six tracks and a playing time of just 41 minutes, it still succinctly summarises the talent within this band.
 
 The result of Inner Landscape's collaboration with Hervé Faivre from Improve Tone Studios (recording and mixing) and Pierrick Noel (mastering) is truly impressive and proves the band can certainly keep pace with some of the giants of their genre. Their music is authentic, multi-layered and headstrong—precisely how great post-music should be.
 
@@ -76,6 +74,6 @@ Listen to this record! It's worth it! You can pre-order "3H33" via Bandcamp[^1],
 
 - Adrien Bernet: Drums
 
-![Inner Landscape](https://storage.googleapis.com/cardamonchai-media/2024-05-02/inner-landscape-soundsvegan-com-1-jpg-imagine-080808_0a1616_1024_768/640.webp 'Inner Landscape')
+![Inner Landscape | large](https://storage.googleapis.com/cardamonchai-media/2024-05-02/inner-landscape-soundsvegan-com-1-jpg-imagine-080808_0a1616_1024_768/640.webp 'Inner Landscape')
 
 [^1]: [Inner Landscape – "3H33", Bandcamp](https://innerlandscape.bandcamp.com/album/3h33)

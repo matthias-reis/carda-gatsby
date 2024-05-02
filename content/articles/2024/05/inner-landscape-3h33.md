@@ -34,7 +34,7 @@ Eine Welt aus Klangbildern gestalten Inner Landcape mit ihrer Musik. Es könnte 
 
 ## Großartiger Post-Metal auf den Punkt
 
-![Inner Landscape – "3H33" | large](https://storage.googleapis.com/cardamonchai-media/2024-05-02/inner-landscape-soundsvegan-com-cover-jpg-imagine-f8f8f8_8b9592_425_425/640.webp 'Inner Landscape – "3H33"')
+![Inner Landscape – "3H33"](https://storage.googleapis.com/cardamonchai-media/2024-05-02/inner-landscape-soundsvegan-com-cover-jpg-imagine-f8f8f8_8b9592_425_425/640.webp 'Inner Landscape – "3H33"')
 
 Mit "3H33" zeigen die vier Musiker, wie gut krasser Gesang und harte Riffs sich mit jazzigen Drums und emotionalen Klangsphären verbinden lassen. Insgesamt sind sechs Stücke auf der Platte, die mit einer Gesamtspielzeit von gerade mal 41 Minuten prägnant zusammenfasst, welches Talent in dieser Band steckt.
 
@@ -68,6 +68,6 @@ Hört rein, es lohnt sich! Vorbestellen könnt Ihr "3H33" bequem über Bandcamp[
 - Thibaud Bétencourt: Bass
 - Adrien Bernet: Drums
 
-![Inner Landscape](https://storage.googleapis.com/cardamonchai-media/2024-05-02/inner-landscape-soundsvegan-com-1-jpg-imagine-080808_0a1616_1024_768/640.webp 'Inner Landscape')
+![Inner Landscape | large](https://storage.googleapis.com/cardamonchai-media/2024-05-02/inner-landscape-soundsvegan-com-1-jpg-imagine-080808_0a1616_1024_768/640.webp 'Inner Landscape')
 
 [^1]: [Inner Landscape – "3H33", Bandcamp](https://innerlandscape.bandcamp.com/album/3h33)
