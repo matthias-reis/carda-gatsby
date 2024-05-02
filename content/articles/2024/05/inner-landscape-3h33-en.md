@@ -50,7 +50,7 @@ Listen to this record! It's worth it! You can pre-order "3H33" via Bandcamp[^1],
   </a>
 </iframe>
 
-## Inner Landscape – "3H33" –Tracklist
+## Inner Landscape – "3H33" – Tracklist
 
 1. "The order of things"
 
@@ -64,7 +64,7 @@ Listen to this record! It's worth it! You can pre-order "3H33" via Bandcamp[^1],
 
 6. "3h33"
 
-## Band-Lineup Inner Landscape
+## Band line-up Inner Landscape
 
 - Julien Gachet: Vocals/Guitars
 

@@ -52,7 +52,7 @@ Hört rein, es lohnt sich! Vorbestellen könnt Ihr "3H33" bequem über Bandcamp[
   </a>
 </iframe>
 
-## Inner Landscape – "3H33" –Tracklist
+## Inner Landscape – "3H33" – Tracklist
 
 1. "The order of things"
 2. "Collective Dissonance"
@@ -61,7 +61,7 @@ Hört rein, es lohnt sich! Vorbestellen könnt Ihr "3H33" bequem über Bandcamp[
 5. "Wreckage"
 6. "3h33"
 
-## Band-Lineup Inner Landscape
+## Band-Line-up Inner Landscape
 
 - Julien Gachet: Vocals/Gitarren
 - Alexandre Covalciuc: Gitarren
