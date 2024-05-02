@@ -191,3 +191,7 @@ Unten `- [^4]: Hier kommt der Text hin`
 ### Festivalliste Banner
 
 <FestivalList />
+
+### PDF hochladen
+
+In Ordner "public" schieben in VSC (im alten System hieß der Ordner noch "static")
