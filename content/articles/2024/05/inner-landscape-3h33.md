@@ -40,7 +40,7 @@ Mit "3H33" zeigen die vier Musiker, wie gut krasser Gesang und harte Riffs sich 
 
 Das Ergebnis der Zusammenarbeit von Inner Landscape mit Hervé Faivre von Improve Tone Studios (Recording und Mixing) und Pierrick Noel (Mastering) kann sich wirklich hören lassen und beweist, dass die Band durchaus mit den Giganten ihres Genres mithalten kann. Ihre Musik ist authentisch, vielschichtig und eigensinnig – genau, wie ich mir gute Post-Music wünsche.
 
-Hört rein, es lohnt sich! Vorbestellen könnt Ihr "3H33" ganz bequem über Bandcamp[^1]. Den letzten Song auf der Platte "3h33" könnt Ihr hier schon hören:
+Hört rein, es lohnt sich! Vorbestellen könnt Ihr "3H33" bequem über Bandcamp[^1]. Den letzten Song auf der Platte "3h33" könnt Ihr hier schon hören:
 
 <iframe
   style="border: 0; width: 100%; height: 120px;"
