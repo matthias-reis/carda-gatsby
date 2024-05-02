@@ -32,7 +32,7 @@ languageLink: /2024/05/inner-landscape-en/
 
 Eine Welt aus Klangbildern gestalten Inner Landcape mit ihrer Musik. Es könnte schon aus diesem Grund keinen besseren Bandnamen geben für das Kollektiv aus Lyon. Sie zeichnen mit ihren Riffs, Melodien und Rhytmuswechseln fantasievolle Bilder, die sich beim Hören ihrer Songs vor dem inneren Auge zu spannenden Geschichten verbinden.
 
-# Großartiger Post-Metal auf den Punkt
+## Großartiger Post-Metal auf den Punkt
 
 ![Inner Landscape – "3H33"](https://storage.googleapis.com/cardamonchai-media/2024-05-02/inner-landscape-soundsvegan-com-cover-jpg-imagine-f8f8f8_8b9592_425_425/640.webp 'Inner Landscape – "3H33"')
 

@@ -32,7 +32,7 @@ languageLink: /2024/05/inner-landscape/
 
 With their music, they created a world of fascinating sound. There could be no better band name for the collective from Lyon than Inner Landscapes. With their riffs, melodies and changes of rhythm, they draw imaginative pictures that form exciting stories in your mind's eye when listening to their songs.
 
-# On-point post-metal
+## On-point post-metal
 
 ![Inner Landscape – "3H33"](https://storage.googleapis.com/cardamonchai-media/2024-05-02/inner-landscape-soundsvegan-com-cover-jpg-imagine-f8f8f8_8b9592_425_425/640.webp 'Inner Landscape – "3H33"')
 
