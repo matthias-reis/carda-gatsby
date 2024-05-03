@@ -59,7 +59,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-03/garlands-i
 
 **Anne:** Was habt Ihr rund um die Veröffentlichung alles an Promo geplant? Geht Ihr auf Tour?
 
-## 'Bald geht unsere Tour los'
+## "Bald geht unsere Tour los"
 
 **Sui:** Wir gehen auf Tour und freuen uns darauf, unsere Songs international zu präsentieren.
 
