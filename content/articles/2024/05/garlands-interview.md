@@ -35,47 +35,47 @@ ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-03/garlands-i
 
 **Anne:** Welchen Song mögt Ihr besonders?
 
-**Sui:**: Meine Favoriten sind "Condor", "Mark's Song" und "Phone Icons".
+**Sui:** Meine Favoriten sind "Condor", "Mark's Song" und "Phone Icons".
 
 ## "Hört Euch 'Turn The Sky' unbedingt mit Kopfhörern an!
 
 ![Garlands – "Turn The Sky" & "Condor"](https://storage.googleapis.com/cardamonchai-media/2024-05-03/garlands-cover-soundsvegan-com-jpg-imagine-f8f8f8_c9c0bc_440_440/640.webp 'Garlands – "Turn The Sky" & "Condor"')
 
-**Catharina:**: "Turn The Sky" finde ich besonders interessant, weil wir hier das Prinzip des "Turns" strukturell umgesetzt haben. Unsere Stimmen verschmelzen mit den Instrumenten. Wie Wellen bewegen sie sich nach vorn, hinten, rechts und links, tauchen auf und ab. Den Song sollte man unbedingt mit Kopfhörern hören.
+**Catharina:** "Turn The Sky" finde ich besonders interessant, weil wir hier das Prinzip des "Turns" strukturell umgesetzt haben. Unsere Stimmen verschmelzen mit den Instrumenten. Wie Wellen bewegen sie sich nach vorn, hinten, rechts und links, tauchen auf und ab. Den Song sollte man unbedingt mit Kopfhörern hören.
 
 **Anne:** Hat der Song "Delete The Mars" etwas mit Eurer Liebe für Astrophysik zu tun?
 
-**Sui:**: Nicht direkt. Der Mars als roter Planet gilt als Symbol für Kampf und Männlichkeit.
+**Sui:** Nicht direkt. Der Mars als roter Planet gilt als Symbol für Kampf und Männlichkeit.
 
 ## "Der Wunsch, eine Gardine vor den Himmel zu ziehen"
 
-**Catharina:**: Es geht um den Willen, sich von der Romantik des "in die Sterne-Guckens" zu verabschieden und mit einem Ruck eine Gardine vor den Himmel zu ziehen. Der Mars, der von Bowie als Sehnsuchtsort gefeiert und von Elon Musk als Kolonie anvisiert wird, soll hier einfach mal ausgeknipst werden.
+**Catharina:** Es geht um den Willen, sich von der Romantik des "in die Sterne-Guckens" zu verabschieden und mit einem Ruck eine Gardine vor den Himmel zu ziehen. Der Mars, der von Bowie als Sehnsuchtsort gefeiert und von Elon Musk als Kolonie anvisiert wird, soll hier einfach mal ausgeknipst werden.
 
 **Anne:** Ist das auch das Thema, das Euch zusammengebracht hat? Die Astrophysik?
 
-**Catharina:**: Uns hat vieles zusammengebracht. Wir teilen zahlreiche Leidenschaften, für Musik, Kunst, Katzen, Essen und auch Astrophysik.
+**Catharina:** Uns hat vieles zusammengebracht. Wir teilen zahlreiche Leidenschaften, für Musik, Kunst, Katzen, Essen und auch Astrophysik.
 
-**Sui:**: Uns verbindet ein starkes Band, eine Sisterhood ähnlicher Sichtweisen auf das Leben, auf unsere eigene Identität und ein tiefes Vertrauen.
+**Sui:** Uns verbindet ein starkes Band, eine Sisterhood ähnlicher Sichtweisen auf das Leben, auf unsere eigene Identität und ein tiefes Vertrauen.
 
 **Anne:** Was habt Ihr rund um die Veröffentlichung alles an Promo geplant? Geht Ihr auf Tour?
 
 ## 'Bald geht unsere Tour los'
 
-**Sui:**: Wir gehen auf Tour und freuen uns darauf, unsere Songs international zu präsentieren.
+**Sui:** Wir gehen auf Tour und freuen uns darauf, unsere Songs international zu präsentieren.
 
-**Catharina:**: Außerdem wird es weitere Videos und schicken Merch geben.
+**Catharina:** Außerdem wird es weitere Videos und schicken Merch geben.
 
 **Anne:** Ihr spielt auf der Platte mit Gegensätzen und stellt Melancholie und Optimismus direkt gegenüber, indem ihr mit psychedelischen, progressiven Elementen arbeitet. Wo nehmt Ihr all diese großartigen Ideen her? Was inspiriert Euch beim Schreiben am meisten?
 
-**Catharina:**: Uns langweilen Monokulturen. Wir lieben Popsongs genauso wie Dissonanzen und Lärm. Unser Lebens- und Spannungsgefühl zwischen Melancholie und Optimismus kommt besonders im Barock vor, mit dem wir uns identifizieren.
+**Catharina:** Uns langweilen Monokulturen. Wir lieben Popsongs genauso wie Dissonanzen und Lärm. Unser Lebens- und Spannungsgefühl zwischen Melancholie und Optimismus kommt besonders im Barock vor, mit dem wir uns identifizieren.
 
-**Sui:**: Wir drücken dies zum Beispiel durch Wechsel von Dur zu Moll oder in unseren Satzgesängen aus.
+**Sui:** Wir drücken dies zum Beispiel durch Wechsel von Dur zu Moll oder in unseren Satzgesängen aus.
 
 **Anne:** Shoegaze, der frühe Progrock und auch Slowcore und Indie – das alles sind Genres, deren Bands mit Euren Einflüssen in Verbindung gebracht werden. Was würdet Ihr sagen, wer Euch am meisten beeinflusst hat auf dem Weg dorthin, was Garlands heute sind?
 
-**Sui:**: Wir haben beide viel Shoegaze-Bands wie My Bloody Valentine, Cocteau Twins, Lush und Slowdive gehört.
+**Sui:** Wir haben beide viel Shoegaze-Bands wie My Bloody Valentine, Cocteau Twins, Lush und Slowdive gehört.
 
-**Catharina:**: Dies sind alles Gruppen, in denen Frauen präsent und einflussreich waren. Diese Musikerinnen treten heute immer noch auf.
+**Catharina:** Dies sind alles Gruppen, in denen Frauen präsent und einflussreich waren. Diese Musikerinnen treten heute immer noch auf.
 
 **Anne:** Was mir an Eurer Musik besonders gut gefällt, ist das Zusammenspiel aus Gesang, Gitarre, Synths und auch ausgefalleneren Instrumenten wie der Flöte – mit genau der richtigen Portion Verzerrung. Habt Ihr schon immer gerne an Sounds gebastelt und mit Instrumenten experimentiert?
 
@@ -101,7 +101,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-03/garlands-i
 
 **Sui:** Wir beide hatten vorher diverse Bands. Ich war zum Beispiel Sängerin der Shoegaze-Band The Caine und in anderen Projekten aktiv. Neulich habe ich live zu Gast bei The Jesus and Mary Chain gesungen.
 
-**Catharina:**: Ich spielte unter anderem in Rick McPhails ehemaliger Band Glacier of Maine Keyboards und Gitarre.
+**Catharina:** Ich spielte unter anderem in Rick McPhails ehemaliger Band Glacier of Maine Keyboards und Gitarre.
 
 **Anne:** Als Hamburgerin, die nach wie vor gerne in Berlin feiern geht, aber auch einiges an der Hamburger Musikwelt zu schätzen weiß, muss ich Euch das fragen: In welcher der beiden Städte geht Ihr lieber auf Konzerte und anschließend feiern?
 
@@ -111,9 +111,9 @@ ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-03/garlands-i
 
 **Anne:** Weil ich [schon seit immer ein Fan dieser Band](/tag/die-sterne) bin, muss ich Euch das leider fragen: Ihr habt Euch bei den Aufnahmen von "Condor" in Hamburg Altona das Studio mit den Sternen geteilt. Seid Ihr Euch häufig begegnet? Wie war es mit Frank & Co. zu quatschen?
 
-**Catharina:**: Wie es in Proberaum-Kollektiven üblich ist, tauscht man sich über Glamouröses wie Gear, Zeit- und Putzpläne aus. Im Sommer hat man gemeinsam gegrillt.
+**Catharina:** Wie es in Proberaum-Kollektiven üblich ist, tauscht man sich über Glamouröses wie Gear, Zeit- und Putzpläne aus. Im Sommer hat man gemeinsam gegrillt.
 
-**Sui:**: Man läuft sich regelmäßig über den Weg, besucht sich auf Konzerten und plaudert in Bars.
+**Sui:** Man läuft sich regelmäßig über den Weg, besucht sich auf Konzerten und plaudert in Bars.
 
 **Anne:** Die Aufnahmen für das Album sind abgeschlossen und Ihr habt noch etwas Zeit, bis die Promo in die heiße Phase geht. Arbeitet Ihr in der Zwischenzeit schon an neuen Ideen?
 
