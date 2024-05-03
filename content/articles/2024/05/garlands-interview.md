@@ -103,6 +103,8 @@ ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-03/garlands-i
 
 **Catharina:** Ich spielte unter anderem in Rick McPhails ehemaliger Band Glacier of Maine Keyboards und Gitarre.
 
+## "In Hamburg sind die kleinen Läden am besten"
+
 **Anne:** Als Hamburgerin, die nach wie vor gerne in Berlin feiern geht, aber auch einiges an der Hamburger Musikwelt zu schätzen weiß, muss ich Euch das fragen: In welcher der beiden Städte geht Ihr lieber auf Konzerte und anschließend feiern?
 
 **Sui:** In Hamburg treffen wir uns gerne in kleinen Läden wie dem Kometen, feiern mit alten Freunden und Bekannten, in Berlin entdecke ich am liebsten Neues.
