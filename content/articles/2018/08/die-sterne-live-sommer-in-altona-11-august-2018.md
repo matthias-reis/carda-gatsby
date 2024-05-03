@@ -5,12 +5,8 @@ typeName: Konzertbericht
 title: Die Sterne auf dem Sommer in Altona 11. August 2018
 seoTitle: Die Sterne auf dem Sommer in Altona 11. August 2018 - Live und in echt
 ogTitle: Die Sterne auf dem Sommer in Altona 11. August 2018 - Live und in echt
-description: Gestern war es soweit. Nach langer Zeit konnte ich endlich die
-  Sterne wieder live auf der Bühne erleben. Was soll ich sagen? Es war ein
-  wunderbarer Abend!
-excerpt: Gestern war es soweit. Nach langer Zeit konnte ich endlich die Sterne
-  wieder live auf der Bühne erleben. Was soll ich sagen? Es war ein wunderbarer
-  Abend!
+description: Gestern war es soweit. Nach langer Zeit konnte ich endlich die Sterne wieder live auf der Bühne erleben. Was soll ich sagen? Es war ein wunderbarer Abend!
+excerpt: Gestern war es soweit. Nach langer Zeit konnte ich endlich die Sterne wieder live auf der Bühne erleben. Was soll ich sagen? Es war ein wunderbarer Abend!
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_30116228288_f1d3042e77_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_30116228288_f1d3042e77_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAqEAACAgEEAQIFBQEAAAAAAAABAgMEEQAFEiFBBjEHE1FhcRQjM4GRof/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAAED/8QAIBEAAQQBBAMAAAAAAAAAAAAAAQACAxEhBDFBwRIiUf/aAAwDAQACEQMRAD8AzD4a+hNz9XXRbrbWbWz1JgttjYWENheXBe8kkY9h59xpfuW3R7fLv9N6tqpOr8oIp1I4RZ5d5ye1xg+c++tr+Bu4iGPcNm9MwLcg22eWdZLE/wAiW3HNgqRFx/kAQKe8Y/Oor4yVpr3rTetzlm/StwigerPGQ8f7AZFP05Lkj/DoB7GloD4jNd/FnM+wWK9yetLPV5RUxc5o5ZCpjEgXOOmwcYPn7aVQfMkbjXDs3EsRGCTxA7PXjHvq89G7vPLdgjlsM8kUCLEGRRhU6H5wvk9+O9S+93Z23K3FIFjjFhw6wxrEzjkQQxAyevrkfbUa510U3LpomwNma/JvHIzznpOA1YXd4moELXMTyIwJyCPYqT2Oz0ddlu4iw26tieRrNiCvBJLaJIjKqSHz2xwCB3339NGjVt3SR2pc7bW+zS7ZYjkW0LO3fPKp2oWVDgZ84OR/Wpm4stm9YdI5HLOWPFSx/wCaNGgaTVpiUAAAL//Z
@@ -34,8 +30,7 @@ focusKeyword: Sommer in Altona
 isWerbung: false
 isAffiliate: false
 language: de
-subTitle: Live und <em>in echt</em>
-
+subTitle: Live und in echt
 ---
 
 **Gestern war es endlich soweit. Nach langer Zeit konnte ich endlich DIE STERNE wieder live auf der Bühne erleben. Und das auch noch ein paar Meter Luftlinie von unserem Zuhause entfernt.**
