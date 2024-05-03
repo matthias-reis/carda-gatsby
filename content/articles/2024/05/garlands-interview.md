@@ -159,7 +159,7 @@ Auf Bandcamp könnt Ihr "Turn The Sky" vorbestellen und Condor bereits hören[^1
 
 <iframe
   style="border: 0; width: 100%; height: 120px;"
-  src="https://bandcamp.com/EmbeddedPlayer/album=3033829769/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3033829769/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless
 >
   <a href="https://garlandsband.bandcamp.com/album/turn-the-sky">
