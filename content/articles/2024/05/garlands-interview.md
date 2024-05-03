@@ -13,12 +13,12 @@ labels:
   - Interview
   - Band
   - Bands
-language: ""
+language: ''
 seoTitle: Garlands – "Turn The Sky" & "Condor"
 ogTitle: Garlands – "Turn The Sky" & "Condor"
 imageCopyright: Garlands
 focusKeyword: Garlands Interview
-excerpt: Garlands  haben Ihr zweiteiligs Meilenstein-Album "Turn The Sky" & "Condor" fertig. Die beiden Bandgründerinnen Sui und Catharina haben mir erzählt, wie es entstanden ist und wie es war mit Frank Spilker von den Sternen übers Putzen zu reden. Holt Euch jetzt alle Insights und lest mein Interview.
+excerpt: Garlands  haben Ihr zweiteiligs Meilenstein-Album "Turn The Sky" & "Condor" fertig. Die beiden Bandgründerinnen Sui und Catharina haben mir erzählt, wie es entstanden ist und wie es war mit Frank Spilker von den Sternen übers Putzen zu reden. Genießt jetzt mein Interview und holt Euch alle Insights, bevor es mit der Tour und der LP losgeht!
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-03/garlands-soundsvegan-com-2-png-imagine-080808_78716e_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-03/garlands-interview-soundsvegan-com-og-jpg-imagine-080808_928985_1200_628/640.webp
 ---
