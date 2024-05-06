@@ -25,7 +25,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-06/vegane-hun
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-06/vegane-hundemenues-naftie-soundsvegan-com-56-jpg-imagine-f8f8f8_88746a_1024_768/640.webp
 focusKeyword: vegane Hundemenüs
 seoTitle: Vegane Hundemenüs zum frisch Zubereiten getestet
-excerpt: Vegane Hundemenüs zum frisch Zubereiten. Klingt das für Euch, als müsstet Ihr es mal ausprobieren? Dann solltet Ihr meinen Testbericht über die veganen Hundemenüs von Naftie lesen. Ihr bereitet sie einfach aus ein paar Komponenten zu und Euer Hund bekommt jeden Tag dreimal täglich frisches, leckeres Bio-Futter.
+excerpt: Vegane Hundemenüs zum frisch Zubereiten. Klingt das für Euch, als müsstet Ihr es mal ausprobieren? Dann solltet Ihr meinen Testbericht über die veganen Hundemenüs von Naftie lesen. Ihr bereitet sie einfach aus ein paar Komponenten zu und Eure Hunden bekommen jeden Tag dreimal täglich frisches, leckeres Bio-Futter.
 ---
 
 **Veganes Hundefutter ist zweifelsohne gerade in der heutigen Zeit mehr als sinnvoll. Immer mehr Hunde leiden an Allergien durch belastetes Futter und gesunde, pflanzliche Ernährung kann für viele Hunde die Lösung sein im Hinblick auf eine langfristige Gesundheit der Allesfresser. Je ausgewogener sie ist, umso besser geht es unseren vierbeinigen Freunden – ohne dass wir für ihr Futter auf tierisches Protein zurückgreifen müssen. Sorgfältig geplante vegane Hundeernährung schützt jedoch nicht nur das Verdauungs- und Herz-Kreislaufsystem von Hunden. Wer seinen Hund vegan ernährt, setzt sich aktiv für das Klima ein. In diesem Artikel möchte ich Euch die veganen Hundemenüs von Naftie vorstellen. Mit ihnen gelingt die Planung und Zubereitung ohne viel Aufwand.**
@@ -70,7 +70,7 @@ Neben Gemüse ist das Hundemüsli Balance Bio mit Obst & Gemüse auch mit Apfel 
 
 ## 3. Neukunden Veganmenü Probierpaket 400 g (1 Dose Haferglück, 1 Dose Dinkel Held, 1 Dose, Linsen Power, 1 Dose Hirse Gold, 1 Dose Kürbis Liebe)
 
-Das Neukunden Veganmenü Probierpaket ermöglicht es Euch, alle Proteinzugaben von Naftie mit Eurem Hund zu testen. Wenn Euer Vierbeiner wählerisch ist oder gerne mal Abwechslung hat, würde ich Euch auf jeden Fall dazu raten.
+Das Neukunden Veganmenü Probierpaket ermöglicht es Euch, alle Proteinzugaben von Naftie mit Eurem Hund zu testen. Wenn Eure Vierbeiner wählerisch sind oder gerne mal Abwechslung hat, würde ich Euch auf jeden Fall dazu raten.
 
 Eine Dose hält bei uns sehr lange. Einmal geöffnet, schaue ich darauf, dass sie spätestens nach einer Woche leer ist, um nichts wegwerfen zu müssen. Vally Favorit ist derzeit das Kürbis Liebe Futter. Das Linsen-Futter hat sie bisher noch nicht probiert, da sie von uns aber auch schon hin und wieder mal Linsen bekommen hat, gehe ich davon aus, dass es Ihr, genau wie die anderen Sorten, schmecken wird.
 
@@ -110,7 +110,7 @@ Vally können wir sie auch prima als Belohnungssnack geben – sie mag sie sehr 
 
 Insgesamt gefallen mir die veganen Hundemenüs von Naftie gut. Zwar werden wir auch in Zukunft sicher weiter als Hauptnahrungsquelle ganz sicher weiterhin auch auf unser veganes Trockenfutter zurückgreifen, für uns ist es aber eine tolle Abwechslung für den Alltag. Wenn wir Vally, zum Beispiel nach längeren Ausflügen etwas Besonderes gönnen wollen, freut sie sich sehr über die komplett auf sie abgestimmten Mahlzeiten.
 
-Die können wir ihr, mit nur kurzer Vorbereitung, auch unterwegs anbieten, wir nehmen sie dann einfach in einer Brotdose mit Deckel mit. Die Menüs bekommen der Kleinen ausgesprochen gut und sie freut sich darüber, wenn wir sie damit füttern. Dadurch, dass man die unterschiedlichen Müsli-Varianten und Proteine immer wieder unterschiedlich kombinieren kann, kommt auch sicher niemals Langeweile auf. Das Probierpaket mit den verschiedenen Sorten ist eine schöne Möglichkeit, sie kennenzulernen. Wenn Ihr getreidefreies Futter geben müsst, könnte zum Beispiel das Linsen- oder Kürbisfutter etwas für Euren Hund sein.
+Die können wir ihr, mit nur kurzer Vorbereitung, auch unterwegs anbieten, wir nehmen sie dann einfach in einer Brotdose mit Deckel mit. Die Menüs bekommen der Kleinen ausgesprochen gut und sie freut sich darüber, wenn wir sie damit füttern. Dadurch, dass man die unterschiedlichen Müsli-Varianten und Proteine immer wieder unterschiedlich kombinieren kann, kommt auch sicher niemals Langeweile auf. Das Probierpaket mit den verschiedenen Sorten ist eine schöne Möglichkeit, sie kennenzulernen. Wenn Ihr getreidefreies Futter geben müsst, könnte zum Beispiel das Linsen- oder Kürbisfutter etwas für Eure Hunde sein.
 
 Die nachhaltigen Verpackungen, die Naftie verwendet, finde ich großartig. Bis auf die Dosen ist alles kompostierbar oder kann ganz einfach über das Altpapier entsorgt werden. Daran können sich viele Futtermittelmarken ganz sicher ein Beispiel nehmen. Einzig eine wiederverschließbare Verpackung für das Müsli wäre noch toll. Aber vielleicht kommt das ja noch.
 
@@ -121,6 +121,10 @@ Naftie Gründer Andreas fragte sich, warum zwar inzwischen so viele Menschen ver
 ## Wichtiger Hinweis zu Futterumstellungen bei Hunden
 
 Vally bekommt ihr Futter immer in enger Abstimmung mit unserer Tierärztin, die ihre Bedürfnisse ganz genau kennt. Bitte stellt das Futter Eurer Hunde niemals von heute auf morgen einfach dauerhaft um. Besonders, wenn sie Allergien, Nahrungsmittelunverträglichkeiten oder andere Schwierigkeiten, wie zum Beispiel mit der Haut oder der Verdauung haben, ist immer äußerste Vorsicht geboten. Eine Futterumstellung benötigt immer Zeit und sollte niemals spontan erfolgen.
+
+## Hey, habt Ihr Lust Sounds Vegan ein bisschen zu unterstützen?
+
+Wenn Ihr das Naftie Futter für Eure Hunde über diesen Link kauft, bekomme ich auch ein paar Cent, die ich gerne in neues Hundefutter oder den Tee zu investiere, den ich trinke, wenn ich den nächsten Produkttest für Euch schreibe: [Zum Einkaufen hier klicken](https://atlas.r.akipam.com/ts/i5042092/tsc?amc=con.blbn.494490.495090.14447749&rmd=3&trg=https%3A%2F%2Fwww.naftie.de)!
 
 [Hier hat Vally das vegane, PETA-zertifizierte Hundegeschirr von Stuch getestet](/2024/02/stuch-hundegeschirr/).
 
