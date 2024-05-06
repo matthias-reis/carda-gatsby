@@ -72,7 +72,7 @@ Neben Gemüse ist das Hundemüsli Balance Bio mit Obst & Gemüse auch mit Apfel 
 
 ## Ihr habt Lust Sounds Vegan zu unterstützen?
 
-Wenn Ihr das Naftie Futter für Eure Hunde über den Link in diesem Absatz kauft, bekomme ein paar Cent von Naftie, die ich gerne in neues Hundefutter oder den Tee zu anlege, den ich trinke, wenn ich den nächsten Artikel für Euch schreibe: [Klickt zum Einkaufen einfach hier!](https://atlas.r.akipam.com/ts/i5042092/tsc?amc=con.blbn.494490.495090.14447749&rmd=3&trg=https%3A%2F%2Fwww.naftie.de)!
+Wenn Ihr das Naftie Futter für Eure Hunde über den Link in diesem Absatz kauft, bekomme ein paar Cent von Naftie, die ich gerne in neues Hundefutter oder den Tee anlege, den ich trinke, wenn ich den nächsten Artikel für Euch schreibe: [Klickt zum Einkaufen einfach hier!](https://atlas.r.akipam.com/ts/i5042092/tsc?amc=con.blbn.494490.495090.14447749&rmd=3&trg=https%3A%2F%2Fwww.naftie.de)!
 
 ---
 
@@ -134,7 +134,7 @@ Vally bekommt ihr Futter immer in enger Abstimmung mit unserer Tierärztin, die 
 
 ## Hey, habt Ihr Lust Sounds Vegan ein bisschen zu unterstützen?
 
-Wenn Ihr das Naftie Futter für Eure Hunde über diesen Link kauft, bekomme ich auch ein paar Cent, die ich gerne in neues Hundefutter oder den Tee zu investiere, den ich trinke, wenn ich den nächsten Produkttest für Euch schreibe: [Zum Einkaufen hier klicken](https://atlas.r.akipam.com/ts/i5042092/tsc?amc=con.blbn.494490.495090.14447749&rmd=3&trg=https%3A%2F%2Fwww.naftie.de)!
+Wenn Ihr das Naftie Futter für Eure Hunde über diesen Link kauft, bekomme ich auch ein paar Cent, die ich gerne in neues Hundefutter oder den Tee investiere, den ich trinke, wenn ich den nächsten Produkttest für Euch schreibe: [Zum Einkaufen hier klicken](https://atlas.r.akipam.com/ts/i5042092/tsc?amc=con.blbn.494490.495090.14447749&rmd=3&trg=https%3A%2F%2Fwww.naftie.de)!
 
 ---
 
