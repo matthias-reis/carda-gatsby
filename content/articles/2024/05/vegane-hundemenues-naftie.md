@@ -68,6 +68,14 @@ Neben Gemüse ist das Hundemüsli Balance Bio mit Obst & Gemüse auch mit Apfel 
 
 <Gallery name="vegane-hundemenues-naftie-2" />
 
+---
+
+## Ihr habt Lust Sounds Vegan zu unterstützen?
+
+Wenn Ihr das Naftie Futter für Eure Hunde über den Link in diesem Absatz kauft, bekomme ein paar Cent von Naftie, die ich gerne in neues Hundefutter oder den Tee zu anlege, den ich trinke, wenn ich den nächsten Artikel für Euch schreibe: [Klickt zum Einkaufen einfach hier!](https://atlas.r.akipam.com/ts/i5042092/tsc?amc=con.blbn.494490.495090.14447749&rmd=3&trg=https%3A%2F%2Fwww.naftie.de)!
+
+---
+
 ## 3. Neukunden Veganmenü Probierpaket 400 g (1 Dose Haferglück, 1 Dose Dinkel Held, 1 Dose, Linsen Power, 1 Dose Hirse Gold, 1 Dose Kürbis Liebe)
 
 Das Neukunden Veganmenü Probierpaket ermöglicht es Euch, alle Proteinzugaben von Naftie mit Eurem Hund zu testen. Wenn Eure Vierbeiner wählerisch sind oder gerne mal Abwechslung hat, würde ich Euch auf jeden Fall dazu raten.
@@ -122,9 +130,13 @@ Naftie Gründer Andreas fragte sich, warum zwar inzwischen so viele Menschen ver
 
 Vally bekommt ihr Futter immer in enger Abstimmung mit unserer Tierärztin, die ihre Bedürfnisse ganz genau kennt. Bitte stellt das Futter Eurer Hunde niemals von heute auf morgen einfach dauerhaft um. Besonders, wenn sie Allergien, Nahrungsmittelunverträglichkeiten oder andere Schwierigkeiten, wie zum Beispiel mit der Haut oder der Verdauung haben, ist immer äußerste Vorsicht geboten. Eine Futterumstellung benötigt immer Zeit und sollte niemals spontan erfolgen.
 
+---
+
 ## Hey, habt Ihr Lust Sounds Vegan ein bisschen zu unterstützen?
 
 Wenn Ihr das Naftie Futter für Eure Hunde über diesen Link kauft, bekomme ich auch ein paar Cent, die ich gerne in neues Hundefutter oder den Tee zu investiere, den ich trinke, wenn ich den nächsten Produkttest für Euch schreibe: [Zum Einkaufen hier klicken](https://atlas.r.akipam.com/ts/i5042092/tsc?amc=con.blbn.494490.495090.14447749&rmd=3&trg=https%3A%2F%2Fwww.naftie.de)!
+
+---
 
 [Hier hat Vally das vegane, PETA-zertifizierte Hundegeschirr von Stuch getestet](/2024/02/stuch-hundegeschirr/).
 
