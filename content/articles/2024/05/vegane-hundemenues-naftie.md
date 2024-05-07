@@ -45,7 +45,7 @@ Das Hundemüsli gieße ich mit heißem Wasser auf, lasse es für mindestens zehn
 3. [Neukunden Veganmenü Probierpaket 400 g (1 Dose Haferglück, 1 Dose Dinkel Held, 1 Dose, Linsen Power, 1 Dose Hirse Gold, 1 Dose Kürbis Liebe)](#probierpaket)
 4. [AniCanis Vital Mix Bio](#vital-mix)
 5. [AniCanis Atem Frisch Bio](#atem-frisch)
-6. [Haut & Fell Elixier Bi ](#haut-und-fell-elixier)
+6. [Haut & Fell Elixier Bio](#haut-und-fell-elixier)
 7. [AniCanis Kokos-Zahnwichtel klein Bio](#kokos-wichtel)
 
 <div id="hundemuesli-gemuese" />

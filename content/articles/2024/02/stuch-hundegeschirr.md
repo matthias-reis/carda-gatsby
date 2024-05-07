@@ -81,4 +81,4 @@ Für uns wird das Hundegeschirr mit Sicherheit nicht unser einziges Produkt aus 
 
 [Hier hat Vally die veganen Hundemenüs von Naftie getestet](/2024/05/vegane-hundemenues-naftie/).
 
-<Gallery name="stuch-hundegeschirr-soundsvegan.com-2" />
+<Gallery name="stuch-hundegeschirr-soundsvegan.com-2" />s
