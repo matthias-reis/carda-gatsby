@@ -44,7 +44,7 @@ As with "Liminal Instability", Kyle has created an audiovisual synthesis of the 
 
 Here is what Kyle said:
 
-> "The songs and art on 'Agnosiareign' tell of the wavering between knowing and not knowing, where you also question the people closest to you. They cease to be an idea of anyone or anything. Reality becomes a labyrinth in which you try to understand yourself and others.
+> "The songs and art on 'Agnosiareign' tell of the wavering between knowing and not knowing, where you also question the people closest to you. They cease to be an idea of anyone or anything. Reality becomes a labyrinth in which you try to understand yourself and others."
 
 For the musician, his latest work is—in some sense—also a reaction to the pandemic, but on an interpersonal rather than societal level. However, the context remains the same.
 

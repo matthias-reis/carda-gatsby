@@ -44,7 +44,7 @@ Wie schon bei "Liminal Instability" hat Kyle auch mit "Agnosiareign" ein audiovi
 
 Kyle erzählte mir:
 
-> "Die Songs und die Kunst auf 'Agnosiareign' berichten vom Schwanken zwischen Wissen und Nichtwissen, bei dem man auch die Menschen, die einem am nächsten stehen infrage stellt. Sie hören auf, eine Vorstellung von irgendjemandem oder irgendetwas zu sein. Die Realität wird zu einem Labyrinth, in dem man versucht, sich selbst und andere zu verstehen.
+> "Die Songs und die Kunst auf 'Agnosiareign' berichten vom Schwanken zwischen Wissen und Nichtwissen, bei dem man auch die Menschen, die einem am nächsten stehen infrage stellt. Sie hören auf, eine Vorstellung von irgendjemandem oder irgendetwas zu sein. Die Realität wird zu einem Labyrinth, in dem man versucht, sich selbst und andere zu verstehen."
 
 Für den Musiker ist sein neuestes Werk in gewissen Sinne auch eine Reaktion auf die hinter uns liegende Pandemie, jedoch eher auf zwischenmenschlicher als auf gesellschaftlicher Ebene. Der Kontext bleibt jedoch bestehen.
 
