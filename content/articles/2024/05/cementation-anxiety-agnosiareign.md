@@ -50,7 +50,7 @@ Für den Musiker ist sein neuestes Werk in gewissen Sinne auch eine Reaktion auf
 
 Kyle dürfte sich seinen Wunsch, ein emotional dynamisches Album aufzunehmen, mit "Agnosiareign" auf jeden Fall erfüllt haben. Die Platte bringt eine schier unbeschreibliche Atmosphäre mit, die von ihrer Spannung, überraschenden Pointen und harten Gegensätzen lebt.
 
-Inspirieren ließ sich der Künstler für sein zweites Album unter anderem von japanischem Ambient sowie Death Industrial. Die Klarheit und Ruhe der einen Seite und die Zerstörtheit und verwirrende Fragilität und Härte auf der anderen ergeben eine Einheit, die wir an Bands wie Nine Inch Nails oder so sehr lieben.
+Inspirieren ließ sich der Künstler für sein zweites Album unter anderem von japanischem Ambient sowie Death Industrial. Die Klarheit und Ruhe der einen Seite und die Zerstörtheit und verwirrende Fragilität und Härte auf der anderen ergeben eine Einheit, die wir an Bands wie Nine Inch Nails oder Tool so sehr lieben.
 
 Dass das Artwork für "Agnosiareign" von eben jener Künstlerin stammt, deren Kunst auch auf der Special Edition des letzen Tool Albums zu sehen ist, passt hier natürlich hervorragend ins Bild. Deborah Sheedy rundet das audiovisuelle Erlebnis mit ihren Bildern ab. Das Meer aus Gefühlen, von denen die Songs auf der LP handeln und die sie vermittelt, hat sie damit perfekt zum Ausdruck gebracht.
 
