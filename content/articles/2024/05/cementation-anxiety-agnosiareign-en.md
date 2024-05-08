@@ -18,7 +18,7 @@ labels:
 language: en
 seoTitle: '"Agnosiareign" by Cementation Anxiety – Dark Ambient Preview'
 excerpt: The new Cementation Anxiety album is called "Agnosiareign". It will be released on May 31st. If you remember the first Cementation Anxiety album, "Liminal Instability", from 2021, you'll be delighted to hear something new from Kyle Nelson, the artist behind the project. His second full-length album is a special milestone for him, so of course, it deserves to be mentioned here on Sounds Vegan!
-languageLink: cementation-anxiety-agnosiareign
+languageLink: /2024/05/cementation-anxiety-agnosiareign/
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-07/cementation-anxiety-agnosiareign-soundsvegan-com-jpg-imagine-181808_1c2318_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-07/cementation-anxiety-agnosiareign-soundsvegan-com-og-jpg-imagine-181818_171d16_1200_628/640.webp
 imageCopyright: Deborah Sheedy
