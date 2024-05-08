@@ -50,7 +50,7 @@ For the musician, his latest work is—in some sense—also a reaction to the pa
 
 I can just guess, but I'm sure with "Agnosiareign", Kyle has managed to fulfill his deep wish to make an emotionally dynamic record. The album has an almost indescribable atmosphere that thrives on its tension, surprising punchlines and harsh contrasts.
 
-The artist drew inspiration for his second album from Japanese ambient and death industrial music, among others. The clarity and calm on one hand and the destruction,, confusing fragility, and harshness on the other lead to a unity that we love so much about bands like Nine Inch Nails or Tool.
+The artist drew inspiration for his second album from Japanese ambient and death industrial music, among others. The clarity and calm on one hand and the destruction, confusing fragility, and harshness on the other lead to a unity that we love so much about bands like Nine Inch Nails or Tool.
 
 The fact that the artwork for "Agnosiareign" was created by the same woman whose art can also be seen on the special edition of the last Tool album fits perfectly into this picture. Deborah Sheedy rounded off the audiovisual experience with her art. She has perfectly expressed the sea of emotions that the songs on the LP are about and that she conveys.
 
