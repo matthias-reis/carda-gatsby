@@ -17,7 +17,7 @@ labels:
   - Deborah Sheedy
 language: en
 seoTitle: '"Agnosiareign" by Cementation Anxiety – Dark Ambient Preview'
-excerpt: The new Cementation Anxiety album is called "Agnosiareign". It will be released on May 31st. If you remember the first Cementation Anxiety album, "Liminal Instability", from 2021, you'll be delighted to hear something new from Kyle Nelson, the artist behind the project. His second full-length album is a special milestone for him, so of course, it deserves to be mentioned here on Sounds Vegan!
+excerpt: The new Cementation Anxiety album is called "Agnosiareign". It will be released on May 31st. If you remember the last Cementation Anxiety album, "Liminal Instability", from 2021, you'll be delighted to hear something new from Kyle Nelson, the artist behind the project. His second full-length album is a special milestone for him, so of course, it deserves to be mentioned here on Sounds Vegan!
 languageLink: /2024/05/cementation-anxiety-agnosiareign/
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-07/cementation-anxiety-agnosiareign-soundsvegan-com-jpg-imagine-181808_1c2318_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-07/cementation-anxiety-agnosiareign-soundsvegan-com-og-jpg-imagine-181818_171d16_1200_628/640.webp
@@ -34,7 +34,7 @@ In [my review of the previous album "Liminal Instability"](/2021/07/cementation-
 
 ![Cementation Anxiety – "Agnosiareign"](https://storage.googleapis.com/cardamonchai-media/2024-05-07/cementation-anxiety-agnosiareign-deborah-sheedy-soundsvegan-com-jpg-imagine-181808_21281a_1024_1001/640.webp 'Cementation Anxiety – "Agnosiareign"')
 
-While the project could still be loosely categorised as "Dark Ambient & Drone" when the first album came out, Kyle has now left genres behind entirely and created his own personal world of sound. The nine songs on this album have earned a name all of their own, which, in my opinion—could be the next thing in clubs and online zines all over the globe.
+While the project could still be loosely categorised as "Dark Ambient & Drone" when the last album came out, Kyle has now left genres behind entirely and created his own personal world of sound. The nine songs on this album have earned a name all of their own, which, in my opinion—could be the next thing in clubs and online zines all over the globe.
 
 "Cementation Anxiety" is more than just a band name. The two words describe the feeling you get when you're petrified, waiting for a reaction that happens shortly afterwards without you being able to do anything about it. The music takes hold of you from the very first note and carries you through a story that grips you until the last note and never lets go.
 

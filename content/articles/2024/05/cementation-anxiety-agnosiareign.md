@@ -17,14 +17,14 @@ labels:
   - Deborah Sheedy
 language: de
 seoTitle: Cementation Anxiety – "Agnosiareign" – Dark Ambient Preview
-excerpt: Das neue Cementation Anxiety Album heißt "Agnosiareign" und erscheint am 31. Mai. Wer sich noch an das erste Cementation Anxiety Album "Liminal Instability" von 2021 erinnert, wird sicher erfreut sein, etwas Neues von Kyle Nelson, dem Künstler hinter dem Projekt zu hören. Für ihn ist sein zweiter Langspieler ein besonderer Meilenstein und damit hat er selbstverständlich auch hier auf Sounds Vegan eine Erwähnung verdient.
+excerpt: Das neue Cementation Anxiety Album heißt "Agnosiareign" und erscheint am 31. Mai. Wer sich noch an das letzte Cementation Anxiety Album "Liminal Instability" von 2021 erinnert, wird sicher erfreut sein, etwas Neues von Kyle Nelson, dem Künstler hinter dem Projekt zu hören. Für ihn ist sein zweiter Langspieler ein besonderer Meilenstein und damit hat er selbstverständlich auch hier auf Sounds Vegan eine Erwähnung verdient.
 languageLink: /2024/05/cementation-anxiety-agnosiareign-en/
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-07/cementation-anxiety-agnosiareign-soundsvegan-com-jpg-imagine-181808_1c2318_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-07/cementation-anxiety-agnosiareign-soundsvegan-com-og-jpg-imagine-181818_171d16_1200_628/640.webp
 imageCopyright: Deborah Sheedy
 ---
 
-**Das neue Cementation Anxiety Album heißt "Agnosiareign" und erscheint am 31. Mai. Wer sich noch an das erste Cementation Anxiety Album "Liminal Instability" von 2021 erinnert, wird sicher erfreut sein, etwas Neues von Kyle Nelson, dem Künstler hinter dem Projekt zu hören. Für ihn ist sein zweiter Langspieler ein besonderer Meilenstein und damit hat er selbstverständlich auch hier auf Sounds Vegan eine Erwähnung verdient.**
+**Das neue Cementation Anxiety Album heißt "Agnosiareign" und erscheint am 31. Mai. Wer sich noch an das letzte Cementation Anxiety Album "Liminal Instability" von 2021 erinnert, wird sicher erfreut sein, etwas Neues von Kyle Nelson, dem Künstler hinter dem Projekt zu hören. Für ihn ist sein zweiter Langspieler ein besonderer Meilenstein und damit hat er selbstverständlich auch hier auf Sounds Vegan eine Erwähnung verdient.**
 
 Kyle erzählte mir:
 
@@ -34,7 +34,7 @@ Schon in [meiner Review zum Vorgängeralbum "Liminal Instability"](/2021/07/ceme
 
 ![Cementation Anxiety – "Agnosiareign"](https://storage.googleapis.com/cardamonchai-media/2024-05-07/cementation-anxiety-agnosiareign-deborah-sheedy-soundsvegan-com-jpg-imagine-181808_21281a_1024_1001/640.webp 'Cementation Anxiety – "Agnosiareign"')
 
-Während sich das Projekt beim ersten Album noch lose in die Kategorie "Dark Ambient & Drone" einordnen ließ, hat Kyle Genres inzwischen vollständig hinter sich gelassen und seine ganz persönliche Klangwelt erschaffen. Das, war sich in diesen insgesamt neun Songs abspielt, verdient inzwischen einen ganz eigenen Namen, der schon bald in Clubs und Musikforen weltweit ein Begriff sein sollte.
+Während sich das Projekt beim letzen Album noch lose in die Kategorie "Dark Ambient & Drone" einordnen ließ, hat Kyle Genres inzwischen vollständig hinter sich gelassen und seine ganz persönliche Klangwelt erschaffen. Das, war sich in diesen insgesamt neun Songs abspielt, verdient inzwischen einen ganz eigenen Namen, der schon bald in Clubs und Musikforen weltweit ein Begriff sein sollte.
 
 "Cementation Anxiety" ist mehr als nur ein Bandname. Die zwei Wörter beschreiben das Gefühl, das man hat, wenn man wie versteinert auf eine Reaktion wartet, die kurz darauf eintritt, ohne dass man etwas dagegen tun kann. Die Musik ergreift einem mit dem ersten Auftakt und trägt einen durch eine Geschichte, die einen bis zum letzten Ton fest einnimmt und nicht mehr loslässt.
 
