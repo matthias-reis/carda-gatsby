@@ -127,7 +127,7 @@ Als Leser⋆innen von Sounds Vegan erhaltet Ihr 25 Prozent Rabatt auf die Vinyl-
 
 **thotbday**
 
-[Hier geht's zur Thot Bandcamp Seite](https://thot.bandcamp.com/). Ihr könnt dort auch Eure Tickets für das Mondschein-Konzert ordern.
+[Thot, Bandcamp](https://thot.bandcamp.com/). Ihr könnt dort auch Eure Tickets für das Mondschein-Konzert ordern.
 
 [Alle Infos über das zehnjährige Jubiläum findet Ihr auf der Thot Webseite.](https://thotweb.net/2021/02/19/obscured-by-the-wind-10-years-anniversary/).
 
