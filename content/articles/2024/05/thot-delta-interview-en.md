@@ -28,7 +28,7 @@ languageLink: /2024/05/thot-delta-interview/
 
 **The new Thot album, "Delta", is out today! I sat down with band founder Grégoire to talk about it last week. We had a great chat, and besides the fact, Thot is now part of Pelagic Records and, of course, the new songs, we talked about Einstein, Stephen Hawking, and people needing to think about things they already know.**
 
-**Anne:** Hi Grégoire! How are you? How have you been since our interview about ten years of "Obscured By The Wind"? Wow, I just realised that was 2021! Time just goes by much too fast! How have things changed since that time for Thot and for you personally (besides [being part of Pelagic](/2024/03/thot-delta-en/) now)?
+**Anne:** Hi Grégoire! How are you? How have you been since our [interview about ten years of "Obscured By The Wind"](/2021/04/thot-interview-en/)? Wow, I just realised that was 2021! Time just goes by much too fast! How have things changed since that time for Thot and for you personally (besides [being part of Pelagic](/2024/03/thot-delta-en/) now)?
 
 **Grégoire:** Hi Anne, I'm doing well. Thank you, and I hope you're doing well as well. It's true; time seems to go faster when you're busy with countless things. I'm actually in the countryside, enjoying time going a bit slower. As you might know, time is relative. And I like to explore its different speeds. So things have changed on a different scale, and I'm happy to be alive, kicking, and finally able to release this new album! I really can't complain about anything.
 
