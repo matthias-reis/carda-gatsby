@@ -19,14 +19,14 @@ labels:
   - Post-Industrial
 language: en
 seoTitle: Thot -  new album "Delta" – Interview with Grégoire Fray
-excerpt: The new Thot album, "Delta", is out today! I sat down with band founder Grégoire to talk about it last week. We had a great chat, and besides the fact, Thot is now part of Pelagic Records and, of course, the new songs, we talked about Einstein, Steven Hawking, and people needing to think about things they already know.
+excerpt: The new Thot album, "Delta", is out today! I sat down with band founder Grégoire to talk about it last week. We had a great chat, and besides the fact, Thot is now part of Pelagic Records and, of course, the new songs, we talked about Einstein, Stephen Hawking, and people needing to think about things they already know.
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-10/thot-soundsvegan-com-og-jpg-imagine-080808_3a363a_1200_628/640.webp
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-10/thot-soundsvegan-com-3-jpg-imagine-080808_474748_1024_768/640.webp
 imageCopyright: Thot
 languageLink: /2024/05/thot-delta-interview/
 ---
 
-**The new Thot album, "Delta", is out today! I sat down with band founder Grégoire to talk about it last week. We had a great chat, and besides the fact, Thot is now part of Pelagic Records and, of course, the new songs, we talked about Einstein, Steven Hawking, and people needing to think about things they already know.**
+**The new Thot album, "Delta", is out today! I sat down with band founder Grégoire to talk about it last week. We had a great chat, and besides the fact, Thot is now part of Pelagic Records and, of course, the new songs, we talked about Einstein, Stephen Hawking, and people needing to think about things they already know.**
 
 **Anne:** Hi Grégoire! How are you? How have you been since our interview about ten years of "Obscured By The Wind"? Wow, I just realised that was 2021! Time just goes by much too fast! How have things changed since that time for Thot and for you personally (besides [being part of Pelagic](/2024/03/thot-delta-en/) now)?
 

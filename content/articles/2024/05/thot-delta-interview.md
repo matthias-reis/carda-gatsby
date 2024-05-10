@@ -20,14 +20,14 @@ labels:
 language: de
 seoTitle: Thot - "Delta" – Post-Music/Industrial Interview
 ogTitle: 'Thot - "Delta" – Interview Sounds Vegan'
-excerpt: Das neue Thot-Album "Delta" ist heute erschienen! Ich habe mich mit Bandgründer Grégoire zusammengesetzt, um mich mit ihm darüber zu unterhalten. Neben der Tatsache, dass Thot jetzt Teil von Pelagic Records sind, und natürlich den neuen Songs, haben wir uns unter anderem über Einstein, Steven Hawking unterhalten – und darüber, dass die Menschen anfangen sollten, über Dinge nachzudenken, die sie bereits wissen. Jetzt lesen!
+excerpt: Das neue Thot-Album "Delta" ist heute erschienen! Ich habe mich mit Bandgründer Grégoire zusammengesetzt, um mich mit ihm darüber zu unterhalten. Neben der Tatsache, dass Thot jetzt Teil von Pelagic Records sind, und natürlich den neuen Songs, haben wir uns unter anderem über Einstein, Stephen Hawking unterhalten – und darüber, dass die Menschen anfangen sollten, über Dinge nachzudenken, die sie bereits wissen. Jetzt lesen!
 languageLink: /2024/05/thot-delta-interview-en/
 imageCopyright: Thot
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-10/thot-soundsvegan-com-og-jpg-imagine-080808_3a363a_1200_628/640.webp
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-10/thot-soundsvegan-com-3-jpg-imagine-080808_474748_1024_768/640.webp
 ---
 
-**Das neue Thot-Album "Delta" ist heute erschienen! Ich habe mich letzte Woche mit Bandgründer Grégoire zusammengesetzt, um mich mit ihm darüber zu unterhalten. Dabei ist ein tolles Gespräch entstanden. Neben der Tatsache, dass Thot jetzt Teil von Pelagic Records sind, und natürlich den neuen Songs, haben wir uns unter anderem über Einstein, Steven Hawking unterhalten – und darüber, dass die Menschen anfangen sollten, über Dinge nachzudenken, die sie bereits wissen.**
+**Das neue Thot-Album "Delta" ist heute erschienen! Ich habe mich letzte Woche mit Bandgründer Grégoire zusammengesetzt, um mich mit ihm darüber zu unterhalten. Dabei ist ein tolles Gespräch entstanden. Neben der Tatsache, dass Thot jetzt Teil von Pelagic Records sind, und natürlich den neuen Songs, haben wir uns unter anderem über Einstein, Stephen Hawking unterhalten – und darüber, dass die Menschen anfangen sollten, über Dinge nachzudenken, die sie bereits wissen.**
 
 **Anne:** Hallo Grégoire! Wie geht es Dir? Wie ist es Dir seit unserem Interview zum zehnjährigen Jubiläum von "Obscured By The Wind" ergangen? Wow, ich habe gerade gemerkt, dass das 2021 war! Die Zeit vergeht einfach viel zu schnell! Was hat sich seit dieser Zeit für Thot und für Dich persönlich verändert (abgesehen davon, dass Ihr jetzt [Teil von Pelagic](/2024/03/thot-delta/) seid)?
 
