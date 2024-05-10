@@ -40,7 +40,7 @@ languageLink: /2024/05/thot-delta-interview/
 
 Which of the songs is your favourite?
 
-## "I love all of the songs on "Delta" equally"
+## "We had a beautiful trip to Bulgaria"
 
 ![Thot – "Delta"](https://storage.googleapis.com/cardamonchai-media/2024-05-10/thot-delta-soundsvegan-com-jpg-imagine-080808_584e44_500_500/640.webp 'Thot – "Delta"')
 
@@ -58,7 +58,7 @@ I think "Delta" is one of your most versatile records so far. It sounds very in
 
 **Grégoire:** Thank you for asking! I really don't know what to do with this label. It really made sense with the first album, which was highly inspired by the relationship with nature. I grew up in the countryside, and I've always been very sensitive to the changing of seasons, for instance. Watching the clouds dance in the wind over the hills never bored me. All those things. And, I know that some people saw me as a weirdo when I used this label because they thought I was making music with plants, which I liked to make them believe. Also, this label was pretty and unique, whereas other genres never really fit 100 per cent of what I was doing. Today, the more accurate label would be post-industrial/rock, but I'm okay with any label people want or need to use.
 
-## Pelagic is more than just a record label
+## "Pelagic is more than just a record label"
 
 ![Thot](https://storage.googleapis.com/cardamonchai-media/2024-05-10/thot-soundsvegan-com-2-jpg-imagine-080808_332033_1024_768/640.webp 'Thot')
 
@@ -72,7 +72,7 @@ I think "Delta" is one of your most versatile records so far. It sounds very in
 
 **Anne:** What do your plans following the record release look like? I suppose there's a lot in the making at Pelagic.
 
-## The album is part of a wider ecosystem of releases
+## "The album is part of a wider ecosystem of releases"
 
 **Grégoire:** We had three music videos (+ one piano/version of the first single, released on Piano Day) prior to the album release. And we have some more content to come, such as studio footage, acoustic versions, and maybe other music videos. I like to think of the record as the centrepiece of a wider ecosystem or universe, I must say. Pelagic also really helps us promote and connect with new listeners. Also, we have some live shows coming, such as our release party in Brussels on the 13th of June, the ArcTanGent Festival and the Pelagic Festival in August. More shows have to be confirmed. I hope to see you at one of these shows, hopefully?
 
@@ -80,7 +80,7 @@ I think "Delta" is one of your most versatile records so far. It sounds very in
 
 It seems the music scene is evolving into new, scary directions. On the one hand, there are artists who own private jets and earn millions with promotions deals, and on the other hand, there are those who need to work full-time and are forced to plan their tour so that it falls on their scarce holiday days. It's usually those who make the greatest, most creative and exciting music, which they produce and sell themselves, who can't even earn enough from it to quit their job in the factory or office. Even the Guardian just posted an article about this discrepancy. How do you explain that? Why is most of the money always spent on music that could basically just be programmed by an AI nowadays to be a bit nasty and also very honest? Do you see an end to this development? Do you think it's going to be the other way around at some point? I mean, it's also not very climate-positive to hop around in private jets, is it? Are we going back to honouring the good work at some point? Or, let's stay with the climate crisis topic: Are we doomed because humans are too stupid?
 
-## Some like to rehash existing formulas while others like to experiment and follow new paths
+## "Some like to rehash existing formulas while others like to experiment and follow new paths"
 
 ![Thot](https://storage.googleapis.com/cardamonchai-media/2024-05-10/thot-soundsvegan-com-1-jpg-imagine-080808_3c3b3d_1024_768/640.webp 'Thot')
 
