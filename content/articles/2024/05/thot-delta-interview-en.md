@@ -108,7 +108,7 @@ Get the new Thot album, "Delta" on Bandcamp [^1] now!
 
 <YouTube id="b-b9Q3TZHLk" />
 
-## Thot – "Supercluster (Silent Session)"
+## Thot – "Supercluster" (Silent Session)
 
 <YouTube id="z2k_ZVPQQ50" />
 
