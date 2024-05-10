@@ -123,7 +123,7 @@ Was meine persönliche Erfahrung betrifft: Ich weiß, dass ich mich auf diese Ar
 
 **Grégoire:** Es war mir wie immer ein Vergnügen, mit Dir zu sprechen! Danke, Anne, und pass auf Dich auf!
 
-Holt Euch das neue Thot Album jetzt auf Bandcamp\[^1]!
+Holt Euch das neue Thot Album jetzt auf Bandcamp[^1]!
 
 ## Thot – "Hüzün"
 
@@ -137,4 +137,4 @@ Holt Euch das neue Thot Album jetzt auf Bandcamp\[^1]!
 
 <YouTube id="z2k_ZVPQQ50" />
 
-\[^1]: [Thot – "Delta", Bandcamp](https://thot.bandcamp.com/album/delta-2)
+[^1]: [Thot – "Delta", Bandcamp](https://thot.bandcamp.com/album/delta-2)

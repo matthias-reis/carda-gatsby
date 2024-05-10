@@ -98,7 +98,7 @@ As for my own experience, I know I've embraced this way of life because I knew
 
 **Grégoire:** Always a pleasure! Thank you, Anne, and take care!
 
-Get the new Thot album, "Delta" on Bandcamp \[^1] now!
+Get the new Thot album, "Delta" on Bandcamp [^1] now!
 
 ## Thot – "Hüzün"
 
@@ -112,4 +112,4 @@ Get the new Thot album, "Delta" on Bandcamp \[^1] now!
 
 <YouTube id="z2k_ZVPQQ50" />
 
-\[^1]: [Thot – "Delta", Bandcamp](https://thot.bandcamp.com/album/delta-2)
+[^1]: [Thot – "Delta", Bandcamp](https://thot.bandcamp.com/album/delta-2)
