@@ -16,12 +16,9 @@ typeName: Interview
 title: Interview with Grégoire from Thot
 subTitle: 10 Years "Obscured By The Wind"
 seoTitle: Interview with Grégoire from Thot about 10 years "Obscured by the Wind"
-ogTitle: ""
-description: If you're into post-rock, I'm pretty sure you are listening to
-  Thot. For the 10th anniversary of their debut album "Obscured By The Wind",
-  the band from Belgium has planned some huge highlights for us. Time for an
-  interview.
-excerpt: ""
+ogTitle: ''
+description: If you're into post-rock, I'm pretty sure you are listening to Thot. For the 10th anniversary of their debut album "Obscured By The Wind", the band from Belgium has planned some huge highlights for us. Time for an interview.
+excerpt: ''
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-1-jpeg-imagine-080808_130d0e_1024_768/640.webp
 copyright: Thot
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-fb-png-imagine-080808_100b0c_1200_628/640.webp
@@ -29,7 +26,6 @@ focusKeyword: Thot
 advertisement: false
 affiliate: false
 languageLink: /2021/04/thot-interview
-
 ---
 
 **If you're into post-rock, I'm pretty sure you are listening to Thot. For the 10th anniversary of their debut album "Obscured By The Wind", the band from Belgium has planned some huge highlights for us. Time for an interview.**
@@ -46,7 +42,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Grégoire:** The magic of Instagram. You did an [interview with our friends in Lost in Kiev](/2020/07/lost-in-kiev-interview-en/). Besides that, yeah, veganism and post-rock are obviously topics that interest me!
 
-![Grégoire. Picture: Thot](https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-2-jpeg-imagine-080808_16110e_1440_810/640.webp "Grégoire. Picture: Thot")
+![Grégoire. Picture: Thot](https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-2-jpeg-imagine-080808_16110e_1440_810/640.webp 'Grégoire. Picture: Thot')
 
 **Anne:** Enough about me. Let's talk about Thot! You have some exciting news! You are celebrating the 10th anniversary of your earth-shaking debut album "Obscured By The Wind". There will be a vinyl re-release with strictly limited colour editions (I already ordered one, of course) and some more amazing stuff. Do you want to tell me a bit more about what you are planning? You told me that you are about to release some new interpretations of "Obscured by The Wind" songs that you filmed during the first full moon of spring on the 28th of March? Thanks for the great pictures, by the way! They turned out pretty great. I wish I could have been there.
 
@@ -58,7 +54,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Grégoire:** The lineup has constantly been changing since. In a way, if I wanted the project to last, I had no other choice than to let it evolve, according to life choices, changing musical desires, or, unfortunately, human conflicts. I am happy to have not given up and to see that the project remains very alive today, thanks to the energy that the current musicians bring me. I miss some of the former members, either humanly or musically. In 2011, a month after the album release, we played at DUNK!festival, which was helpful to step into the post-rock scene, which has been growing quite big since, as a whole community of music lovers and friends.
 
-![Thot. Picture: Thot](https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-4-jpeg-imagine-080808_0d0a08_1440_810/640.webp "Thot. Picture: Thot")
+![Thot. Picture: Thot](https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-4-jpeg-imagine-080808_0d0a08_1440_810/640.webp 'Thot. Picture: Thot')
 
 **Anne:** Which one of your records do you like best and why?
 
@@ -94,7 +90,7 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 **Grégoire:** This actually came in the years where I was writing "Obscured by the Wind" and putting some demo tracks online. As I took thistle as a blazon, I've decided I put that name on the music instead of choosing between any other genres people are used to. It's more a matter of personal feelings than a brand or label.
 
-![Lucie. Picture: Thot](https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-5-lucie-jpeg-imagine-080808_0f0907_1440_810/640.webp "Lucie. Picture: Thot")
+![Lucie. Picture: Thot](https://storage.googleapis.com/cardamonchai-media/2021-11-20/thot-5-lucie-jpeg-imagine-080808_0f0907_1440_810/640.webp 'Lucie. Picture: Thot')
 
 **Anne:** I've visited DUNK!festival several times, and I think it's the best festival in the world. Everyone is so lovely and kind, and everybody knows what good music feels like. It's like finally meeting the family that you've chosen for yourself. I'm sure you know what I mean. Your gig there in 2019 was one of the greatest. How would you describe the post-rock scene in Belgium overall? Is it like DUNK?
 
@@ -118,13 +114,15 @@ To be honest, it was completely the other way round. I don't believe it myself y
 
 ## Here is some more good news for you:
 
-My blog readers get a **25 % refund** on their pre-orders for the vinyl re-release version of "Obscured By The Wind". Just use the code **thotbday** when placing your order on Bandcamp, and you are good to go!
+Sounds Vegan readers get a **25 % refund** on their pre-orders for the vinyl re-release version of "Obscured By The Wind". Just use the code **thotbday** when placing your order on Bandcamp, and you are good to go!
 
 [Thot's Bandcamp page can be found here](https://thot.bandcamp.com/). You can also place your orders for your full moon session tickets there.
 
 [Find all details about Thot's 10th debut anniversary on their webpage](https://thotweb.net/2021/02/19/obscured-by-the-wind-10-years-anniversary/).
 
 Everyone who would like to get a deep insight into the new Thot record "Delta", [please check out their Patreon Page](https://www.patreon.com/thotmusic).
+
+[Read my interview about Thot's album "Delta" (2024) here](/2024/05/thot-delta-interview-en/)!
 
 ## Thot – The Delta Story
 
