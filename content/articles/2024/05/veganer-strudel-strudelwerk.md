@@ -12,6 +12,7 @@ labels:
   - Straubing
   - Ernährung & Gesundheit
   - veganer Strudel
+  - vegan
 language: de
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-14/strudelwerk-soundsvegan-com-og-jpg-imagine-080808_93846e_1200_628/640.webp
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-14/strudelwerk-soundsvegan-com-34-jpg-imagine-f8f8f8_b5977a_1024_768/640.webp
