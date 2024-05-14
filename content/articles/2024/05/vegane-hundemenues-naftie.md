@@ -78,9 +78,9 @@ Wenn Ihr das Naftie Futter für Eure Hunde über den Link in diesem Absatz kauft
 
 ---
 
-## 3. Neukunden Veganmenü Probierpaket 400 g (1 Dose Haferglück, 1 Dose Dinkel Held, 1 Dose, Linsen Power, 1 Dose Hirse Gold, 1 Dose Kürbis Liebe)
+## 3. Neukunden Veganmenü Probierpaket 400 g
 
-Das Neukunden Veganmenü Probierpaket ermöglicht es Euch, alle Proteinzugaben von Naftie mit Eurem Hund zu testen. Wenn Eure Vierbeiner wählerisch sind oder gerne mal Abwechslung hat, würde ich Euch auf jeden Fall dazu raten.
+Das Neukunden Veganmenü Probierpaket besteht aus einer Dose Haferglück, einer Dose Dinkel Held, einer Dose, Linsen Power, einer Dose Hirse Gold und einer Dose Kürbis Liebe. Es ermöglicht es Euch, alle Proteinzugaben von Naftie mit Eurem Hund zu testen. Wenn Eure Vierbeiner wählerisch sind oder gerne mal Abwechslung hat, würde ich Euch auf jeden Fall dazu raten.
 
 Eine Dose hält bei uns sehr lange. Einmal geöffnet, schaue ich darauf, dass sie spätestens nach einer Woche leer ist, um nichts wegwerfen zu müssen. Vally Favorit ist derzeit das Kürbis Liebe Futter. Das Linsen-Futter hat sie bisher noch nicht probiert, da sie von uns aber auch schon hin und wieder mal Linsen bekommen hat, gehe ich davon aus, dass es Ihr, genau wie die anderen Sorten, schmecken wird.
 
