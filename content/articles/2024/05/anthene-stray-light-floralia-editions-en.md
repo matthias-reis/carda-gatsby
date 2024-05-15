@@ -1,7 +1,7 @@
 ---
 date: 2024-05-14T12:55:45.574Z
 title: '"stray light" first Release on floralia editions'
-subTitle: Toronto-Based anthéne Launching Promising Ambient Label With Brand-New Album
+subTitle: Toronto-Based anthéne just Launched Promising Ambient Label With Brand-New Album
 type: article
 typeName: Review
 description: anthéne, is back! Get to know the new album, "stray light", and the new ambient label Bradley Sean started, named floralia editions, in this article!
