@@ -1,8 +1,8 @@
 ---
 date: 2024-05-16T11:25:23.448Z
-title: Mono Japan – Interview With Taka About the New Album, "Oath"
+title: Mono Japan – Interview With Taka About "Oath"
 subTitle: '"These Songs Cleanse My Soul"'
-type: article
+type: interview
 typeName: Interview
 description: Mono Japan composer and lead guitarist Takaakira "Taka" Goto answered all my questions about the new Mono album "Oath"! Read it now!
 labels:
@@ -32,7 +32,7 @@ excerpt: I still can't believe it, but none other than Mono Japan composer and l
 
 **Once again, many thanks to Taka.** If you're reading this, it means so much that you've taken all the precious time to answer my questions so in-depth and shared all these details with me. Thank you!
 
-**To everyone who follows the stories I publish on Sounds Vegan:** Please read this interview thoroughly and don't miss the side note about the sadly passed music legend Steve Albini I added it between this interview and the video for "Oath" below.
+**To everyone who follows the stories I publish on Sounds Vegan:** Please read this interview thoroughly and don't miss the side note about the sadly passed music legend Steve Albini. I added it between this interview and the video for "Oath" below.
 
 ---
 
@@ -40,13 +40,13 @@ excerpt: I still can't believe it, but none other than Mono Japan composer and l
 
 **Taka:** Hi Anne, thank you so much.
 
-**Anne:** June 14, 2024, is an important day since it's the release day of your newest and joyfully awaited new album, "Oath". I have already had the chance to listen to it, and have to admit I'm a bit lost for words after doing so. I've started reviewing it three times, and I still haven't found the right words to describe this absolutely outstanding 11 pieces in 1 hour and 11 minutes. It's incredible—so full of feelings, it feels personal, intimate. I'd even go so far as to say it's one of the best records I have listened to so far. Thank you for writing these wonderful, vulnerable, hopeful, inspiring and deeply skilful songs. You must be pretty satisfied with your work, are you?
+**Anne:** June 14, 2024, is an important day since it's the release day of your newest and joyfully awaited new album, "Oath". I have already had the chance to listen to it, and I have to admit I'm a bit lost for words after doing so. I've started reviewing it three times, and I still haven't found the right words to describe this absolutely outstanding 11 pieces in 1 hour and 11 minutes. It's incredible—so full of feelings, it feels personal, intimate. I'd even go so far as to say it's one of the best records I have listened to so far. Thank you for writing these wonderful, vulnerable, hopeful, inspiring and deeply skilful songs. You must be pretty satisfied with your work, are you?
 
 ## "'Oath' feels different to all of our previous albums"
 
 ![Mono – "Oath"](https://storage.googleapis.com/cardamonchai-media/2024-05-16/oath-mono-japan-soundsvegan-com-jpeg-imagine-f8f8e8_818b9a_1155_1155/640.webp 'Mono – "Oath')
 
-**Taka:** "Oath" feels like a different world than any album we've released before. The album doesn't have any emotions of anger, darkness, despair, or sadness that we have expressed in the past. Instead, the album focuses on the abundance that's already given to us, rather than complaining about what we don't have or what's unreasonable. You'll be able to understand how blessed you are by just the warmth of the sun, the blessings of nature, the presence of family and friends, and the ability to be able to drink clean water whenever you turn on the faucet.
+**Taka:** "Oath" feels like a different world than any album we've released before. The album doesn't have any emotions of anger, darkness, despair, or sadness that we have expressed in the past. Instead, the album focuses on the abundance that's already given to us rather than complaining about what we don't have or what's unreasonable. You'll be able to understand how blessed you are by just the warmth of the sun, the blessings of nature, the presence of family and friends, and the ability to drink clean water whenever you turn on the faucet.
 
 Personally, by listening to this album, I'm able to cleanse my soul. There are many things in life, but if you focus on the positive, you will feel the possibilities are endless.
 
@@ -54,7 +54,7 @@ Personally, by listening to this album, I'm able to cleanse my soul. There a
 
 ## "We need to embrace the joy of living in this very moment"
 
-**Taka:** A few years ago, the pandemic happened and the daily lives we previously had disappeared in an instant. Wars and other conflicts between various countries started to begin, and this made touring impossible for some countries we used to visit. During that time, many of our acquaintances, including my father, passed away due to various reasons. Of course, these things are inevitable with ageing but the feeling of "no one knows what happens tomorrow" became stronger in my mind.
+**Taka:** A few years ago, the pandemic happened and the daily lives we previously had disappeared in an instant. Wars and other conflicts between various countries started to begin, and this made touring impossible for some countries we used to visit. During that time, many of our acquaintances, including my father, passed away due to various reasons. Of course, these things are inevitable with ageing but the feeling of "no one knows what will happen tomorrow" became stronger in my mind.
 
 The new album "Oath" is a 70-minute-long story that tells a story like a movie or a novel. I composed this album over the course of a year. Starting in spring, then summer, autumn and winter, I wrote what I felt at each given moment of time. Winter is over, and a new spring has come. This ordinary thing, which we had taken for granted, was actually not an ordinary thing. I want to share with people all over the world the joy of today, how precious and important our today is, and the joy of living in this very moment.
 
@@ -80,7 +80,7 @@ Should we all focus more on our environment—on how we treat the planet and ot
 
 ## "It's okay to stay true to yourself"
 
-**Taka:** Humanity's desire for evolution will never stop, even if the desire to make society more convenient and prosperous is good. The world is becoming worse and worse because it's built on people who desperately want to make more money through business and concessions, and want to gain an upper hand. More humanly, simply put, there's nothing truly more important than respecting, helping and loving each other.
+**Taka:** Humanity's desire for evolution will never stop, even if the desire to make society more convenient and prosperous is good. The world is becoming worse and worse because it's built on people who desperately want to make more money through business and concessions and want to gain an upper hand. More humanly, simply put, there's nothing truly more important than respecting, helping and loving each other.
 
 Instead of focusing on a competitive society where people compare themselves to others, I think it's okay for everyone to stay true to themselves and live their own lives because everyone is born with a unique personality. One day, when our souls leave our bodies and go to heaven, what we will take with us is not money, cars, houses or possessions, but rather, what we could give to others and pride in how we can live our lives.
 
@@ -106,7 +106,7 @@ I think this album might have turned out differently if I hadn't written the ope
 
 **Taka:** Our band life has always been an adventure, and stepping into a world we had never seen before was more difficult than we imagined. From many failures, we learned and challenged ourselves. We're still continuing to evolve from our failures.
 
-More than anything else, strong readiness and determination were needed to keep the band going. Of course, while there's always joy in creating and performing music, the reality is always not that easy. Each of us has our own lives to worry about, and as we got older, we often felt that our dreams may just be dreams. But every time we performed live and toured, the number of fans steadily increased little by little. Without their support, I don't think we would have been able to continue MONO as we are now. We sincerely thank everyone who continues to support us.
+More than anything else, strong readiness and determination were needed to keep the band going. Of course, while there's always joy in creating and performing music, the reality is not that easy. Each of us has our own lives to worry about, and as we got older, we often felt that our dreams may just be dreams. But every time we performed live and toured, the number of fans steadily increased little by little. Without their support, I don't think we would have been able to continue MONO as we are now. We sincerely thank everyone who continues to support us.
 
 **Anne:** You always tend to keep a low profile regarding private matters, which I can understand. Was this a decision you made together from the beginning when you founded Mono, or did you gradually realise that it felt better for you this way?
 
