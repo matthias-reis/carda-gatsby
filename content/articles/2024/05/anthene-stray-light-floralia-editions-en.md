@@ -37,7 +37,7 @@ As I suspected, taking the time to familiarise myself with the new label and the
 
 The connection between two opposing poles—the one of calm and relaxation and the one of the chaos and the harshness of reality—creates a palpable arc of tension. It runs through all the songs and skilfully connects the story Brad tells with his music.
 
-Layer by layer, he built up his sound work into an impressive album that resembles silkworms and spiders in its construction: delicate and, at the same time, more stable than walls built of the sturdiest bricks could ever be.
+Layer by layer, he built up his sound work into an impressive album that resembles the webs of silkworms and spiders in its construction: delicate and, at the same time, more stable than walls built of the sturdiest bricks could ever be.
 
 ## "stray light" is the perfect start for a new ambient label
 
