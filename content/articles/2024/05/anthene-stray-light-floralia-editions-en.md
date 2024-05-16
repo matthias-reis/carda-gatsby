@@ -43,7 +43,7 @@ Layer by layer, he built up his sound work into an impressive album that resembl
 
 For the start of his new label, Brad did a fantastic job, awakening the wish to listen to more of this music and making us curious about the next release on floralia editions. I'm sure you're about to find a thing or two about it if you continue to read along here on Sounds Vegan.
 
-You can find floralia editions on Bandcamp[^1]. You can also listen to and order "stray light" there[^2].
+You can find floralia editions on Bandcamp[^1]. You can also listen to "stray light" and buy the record there[^2].
 
 ## anthéne – "stray light"
 
