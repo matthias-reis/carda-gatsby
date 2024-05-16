@@ -1,13 +1,13 @@
 ---
 date: 2024-05-16T11:26:49.560Z
-title: Mono Japan – Interview mit Taka zum neuen Album "Oath"
+title: Mono (Japan) – Interview mit Taka zum neuen Album "Oath"
 subTitle: '"Diese Songs reinigen meine Seele"'
 type: interview
 typeName: Interview
-description: Mono Japan Komponist und Lead Gitarrist Takaakira "Taka" Goto hat meine Fragen zum neuen Mono Album "Oath" beantwortet. Lest es jetzt und erfahrt spannende Insights zur Platte!
+description: Mono (Japan) Komponist und Lead Gitarrist Takaakira "Taka" Goto hat meine Fragen zum neuen Mono Album "Oath" beantwortet. Lest es jetzt und erfahrt spannende Insights zur Platte!
 labels:
   - Mono
-  - Mono Japan
+  - Mono (Japan)
   - Pelagic
   - Interview
   - Interviews
@@ -22,13 +22,13 @@ language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-1-jpeg-imagine-282828_737373_1024_768/640.webp
 languageLink: /2024/05/mono-japan-interview-en
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-og-jpg-imagine-282828_7d7f80_1200_628/640.webp
-excerpt: Ich kann es selbst immer noch kaum glauben, aber kein Geringerer als Mono Japan Komponist und Lead Gitarrist Takaakira "Taka" Goto hat einem Interview zugestimmt und all meine Fragen zum neuen grandiosen neuen Mono Album "Oath" beantwortet. Nehmt Euch die Zeit, es komplett zu lesen und erfahrt unter anderem, warum ich mich dagegen entschieden habe, eine Review dazu zu veröffentlichen!
-seoTitle: Mono Japan – Interview zum neuen Album "Oath" jetzt lesen!
+excerpt: Ich kann es selbst immer noch kaum glauben, aber kein Geringerer als Mono (Japan) Komponist und Lead Gitarrist Takaakira "Taka" Goto hat einem Interview zugestimmt und all meine Fragen zum neuen grandiosen neuen Mono Album "Oath" beantwortet. Nehmt Euch die Zeit, es komplett zu lesen und erfahrt unter anderem, warum ich mich dagegen entschieden habe, eine Review dazu zu veröffentlichen!
+seoTitle: Mono (Japan) – Interview zum neuen Album "Oath" jetzt lesen!
 focusKeyword: Mono "Oath" Interview
 imageCopyright: Mono
 ---
 
-**Mono veröffentlichen am 14. Juni ihr neues Album "Oath". Ich hatte die große Ehre, mich mit dem Lead Gitarristen und Komponisten Takaakira "Taka" Goto darüber zu unterhalten. In unserem Gespräch hat er mir einiges über die Geschichte der Band und die Entstehung dieses großartigen neuen Meisterwerks verraten. Ich bin stolz, an dieser Stelle mein Mono Japan Interview mit Euch zu teilen. Viel Freude beim Lesen!**
+**Mono veröffentlichen am 14. Juni ihr neues Album "Oath". Ich hatte die große Ehre, mich mit dem Lead Gitarristen und Komponisten Takaakira "Taka" Goto darüber zu unterhalten. In unserem Gespräch hat er mir einiges über die Geschichte der Band und die Entstehung dieses großartigen neuen Meisterwerks verraten. Ich bin stolz, an dieser Stelle mein Mono (Japan) Interview mit Euch zu teilen. Viel Freude beim Lesen!**
 
 ---
 
@@ -158,4 +158,4 @@ Ein paar Tage nach meinem Interview mit Taka erschien die traurige Nachricht üb
 
 <YouTube id="R8UenDEzsYw" />
 
-![Mono Japan Europe Tour 2024 | large](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-3-jpeg-jpg-imagine-f8f8e8_dddccf_565_800/640.webp 'Mono Japan Europe Tour 2024')
+![Mono (Japan) Europe Tour 2024 | large](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-3-jpeg-jpg-imagine-f8f8e8_dddccf_565_800/640.webp 'Mono (Japan) Europe Tour 2024')

@@ -4,10 +4,10 @@ title: Mono Japan – Interview With Taka About "Oath"
 subTitle: '"These Songs Cleanse My Soul"'
 type: interview
 typeName: Interview
-description: Mono Japan composer and lead guitarist Takaakira "Taka" Goto answered all my questions about the new Mono album "Oath"! Read it now!
+description: Mono (Japan) composer and lead guitarist Takaakira "Taka" Goto answered all my questions about the new Mono album "Oath"! Read it now!
 labels:
   - Mono
-  - Mono Japan
+  - Mono (Japan)
   - Pelagic
   - Post-Rock
   - Interview
@@ -22,10 +22,10 @@ ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-1-jpeg-imagine-282828_737373_1024_768/640.webp
 languageLink: /2024/05/mono-japan-interview
 seoTitle: Mono Japan – Interview About the New Album, "Oath" – Read now!
-excerpt: I still can't believe it, but none other than Mono Japan composer and lead guitarist Takaakira "Taka" Goto agreed to an interview and answered all my questions about the outstanding new Mono album, which will be released on June 14th. Make sure to read it thoroughly!
+excerpt: I still can't believe it, but none other than Mono (Japan) composer and lead guitarist Takaakira "Taka" Goto agreed to an interview and answered all my questions about the outstanding new Mono album, which will be released on June 14th. Make sure to read it thoroughly!
 ---
 
-**Mono are going to release their new album, "Oath", on June 14th. I was honoured to be one of the few who got the chance to talk to lead guitarist and composer Takaakira "Taka" Goto about it. In our conversation, he revealed some insights about the band's history and answered my questions about the making of this outstanding new masterpiece. I am proud to share my interview with Mono Japan with you! Please enjoy reading!**
+**Mono are going to release their new album, "Oath", on June 14th. I was honoured to be one of the few who got the chance to talk to lead guitarist and composer Takaakira "Taka" Goto about it. In our conversation, he revealed some insights about the band's history and answered my questions about the making of this outstanding new masterpiece. I am proud to share my interview with Mono (Japan) with you! Please enjoy reading!**
 
 ---
 
@@ -155,4 +155,4 @@ A few days after my interview with Taka, the sad news of Steve Albini's death ca
 
 <YouTube id="R8UenDEzsYw" />
 
-![Mono Japan Europe Tour 2024 | large](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-3-jpeg-jpg-imagine-f8f8e8_dddccf_565_800/640.webp 'Mono Japan Europe Tour 2024')
+![Mono (Japan) Europe Tour 2024 | large](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-3-jpeg-jpg-imagine-f8f8e8_dddccf_565_800/640.webp 'Mono (Japan) Europe Tour 2024')
