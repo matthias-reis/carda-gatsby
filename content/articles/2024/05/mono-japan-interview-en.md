@@ -16,6 +16,7 @@ labels:
   - Bands
   - Tokio
   - Japan
+  - Steve Albini
 language: en
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-og-jpg-imagine-282828_7d7f80_1200_628/640.webp
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-1-jpeg-imagine-282828_737373_1024_768/640.webp

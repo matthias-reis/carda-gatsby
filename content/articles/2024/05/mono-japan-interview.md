@@ -2,7 +2,7 @@
 date: 2024-05-16T11:26:49.560Z
 title: Mono Japan – Interview mit Taka About zum neuen Album "Oath"
 subTitle: '"Diese Songs reinigen meine Seele"'
-type: article
+type: interview
 typeName: Interview
 description: Mono Japan Komponist und Lead Gitarrist Takaakira "Taka" Goto hat meine Fragen zum neuen Mono Album "Oath" beantwortet. Lest es jetzt und erfahrt spannende Insights zur Platte!
 labels:
@@ -17,6 +17,7 @@ labels:
   - Japan
   - Post-Rock
   - Post-Music
+  - Steve Albini
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-1-jpeg-imagine-282828_737373_1024_768/640.webp
 languageLink: /2024/05/mono-japan-interview-en
