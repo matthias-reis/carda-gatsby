@@ -32,9 +32,9 @@ imageCopyright: Mono
 
 **Please note:** During our interview, I told Taka how difficult it is for me to put this excellent new album into words. Before we met, I had made three attempts to write a review, and I failed. During our conversation, I got the chance to ask all the questions about the things I wanted to know about how these pieces came to life and what inspired Taka to write them. I learned how special the eleven songs are for the band and decided not to write an extensive article about them to categorise and rate them. I feel like in this very memorable and moving interview, it becomes more than clear how excellent this record is—which, in my eyes, is one of the best I've ever had the chance to listen to.
 
-**Many thanks, at this point, once again, to Taka.** If you're reading this, it means more than a lot to me that you've taken all the precious time to answer my questions so thoroughly and shared all these details with me. Thank you!
+**At this point, once again, many thanks to Taka.** If you're reading this, it means more than a lot to me that you've taken all the precious time to answer my questions so in-depth and shared all these details with me. Thank you!
 
-**To everyone who follows the stories I publish on Sounds Vegan:** Please read this interview thoroughly and don't miss the side note about the sadly passed music legend Steve Albini I added it between this interview and the video for "Oath".
+**To everyone who follows the stories I publish on Sounds Vegan:** Please read this interview thoroughly and don't miss the side note about the sadly passed music legend Steve Albini I added it between this interview and the video for "Oath" below.
 
 ---
 
@@ -42,7 +42,7 @@ imageCopyright: Mono
 
 **Taka:** Hi Anne, thank you so much.
 
-**Anne:** June 14, 2024, is an important day since it's the release day of your newest and joyfully awaited new album, "Oath". I have already had the chance to listen to it, and hav to admit I'm a bit lost for words after doing so. I've started reviewing it three times, and I still haven't found the right words to describe this absolutely outstanding 11 pieces in 1 hour and 11 minutes. It's incredible—so full of feelings, it feels personal, intimate. I'd even go so far as to say it's one of the best records I have listened to so far. Thank you for writing these wonderful, vulnerable, hopeful, inspiring and deeply skilful songs. You must be pretty satisfied with your work, are you?
+**Anne:** June 14, 2024, is an important day since it's the release day of your newest and joyfully awaited new album, "Oath". I have already had the chance to listen to it, and have to admit I'm a bit lost for words after doing so. I've started reviewing it three times, and I still haven't found the right words to describe this absolutely outstanding 11 pieces in 1 hour and 11 minutes. It's incredible—so full of feelings, it feels personal, intimate. I'd even go so far as to say it's one of the best records I have listened to so far. Thank you for writing these wonderful, vulnerable, hopeful, inspiring and deeply skilful songs. You must be pretty satisfied with your work, are you?
 
 ## "'Oath' feels different to all of our previous albums"
 
