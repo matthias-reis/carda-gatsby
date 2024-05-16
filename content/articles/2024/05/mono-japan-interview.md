@@ -1,6 +1,6 @@
 ---
 date: 2024-05-16T11:26:49.560Z
-title: Mono Japan – Interview mit Taka About zum neuen Album "Oath"
+title: Mono Japan – Interview mit Taka zum neuen Album "Oath"
 subTitle: '"Diese Songs reinigen meine Seele"'
 type: interview
 typeName: Interview
