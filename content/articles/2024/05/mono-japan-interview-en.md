@@ -1,6 +1,6 @@
 ---
 date: 2024-05-16T11:25:23.448Z
-title: Mono Japan – Interview With Taka About "Oath"
+title: Mono Japan – Interview With Taka About the New Album, "Oath"
 subTitle: '"These Songs Cleanse My Soul"'
 type: article
 typeName: Interview
@@ -19,11 +19,9 @@ labels:
 language: en
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-og-jpg-imagine-282828_7d7f80_1200_628/640.webp
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-1-jpeg-imagine-282828_737373_1024_768/640.webp
-languageLink: /2024/05/mono-japan-interview/
+languageLink: /2024/05/mono-japan-interview
 seoTitle: Mono Japan – Interview About the New Album, "Oath" – Read now!
 excerpt: I still can't believe it, but none other than Mono Japan composer and lead guitarist Takaakira "Taka" Goto agreed to an interview and answered all my questions about the outstanding new Mono album, which will be released on June 14th. Make sure to read it thoroughly!
-focusKeyword: New Mono Album "Oath" Interview
-imageCopyright: Mono
 ---
 
 **Mono are going to release their new album, "Oath", on June 14th. I was honoured to be one of the few who got the chance to talk to lead guitarist and composer Takaakira "Taka" Goto about it. In our conversation, he revealed some insights about the band's history and answered my questions about the making of this outstanding new masterpiece. I am proud to share my interview with Mono Japan with you! Please enjoy reading!**
@@ -32,7 +30,7 @@ imageCopyright: Mono
 
 **Please note:** During our interview, I told Taka how difficult it is for me to put this excellent new album into words. Before we met, I had made three attempts to write a review, and I failed. During our conversation, I got the chance to ask all the questions about the things I wanted to know about how these pieces came to life and what inspired Taka to write them. I learned how special the eleven songs are for the band and decided not to write an extensive article about them to categorise and rate them. I feel like in this very memorable and moving interview, it becomes more than clear how excellent this record is—which, in my eyes, is one of the best I've ever had the chance to listen to.
 
-**At this point, once again, many thanks to Taka.** If you're reading this, it means more than a lot to me that you've taken all the precious time to answer my questions so in-depth and shared all these details with me. Thank you!
+**Once again, many thanks to Taka.** If you're reading this, it means so much that you've taken all the precious time to answer my questions so in-depth and shared all these details with me. Thank you!
 
 **To everyone who follows the stories I publish on Sounds Vegan:** Please read this interview thoroughly and don't miss the side note about the sadly passed music legend Steve Albini I added it between this interview and the video for "Oath" below.
 
@@ -122,7 +120,7 @@ More than anything else, strong readiness and determination were needed to keep 
 
 ## "I'm working on new songs for our 'Heaven' EP series"
 
-![Mono & Steve Albini. Bild/picture: © Mono](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-2-jpeg-jpg-imagine-080808_563b22_800_533/640.webp "Mono & Steve Albini. Bild/picture: © Mono")
+![Mono & Steve Albini. Bild/picture: © Mono](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-2-jpeg-jpg-imagine-080808_563b22_800_533/640.webp 'Mono & Steve Albini. Bild/picture: © Mono')
 
 **Taka:** Last month, after the Latin American tour, we went to Chicago and recorded a soundtrack with Steve Albini for a movie that'll be released sometime next year.
 
@@ -156,4 +154,4 @@ A few days after my interview with Taka, the sad news of Steve Albini's death ca
 
 <YouTube id="R8UenDEzsYw" />
 
-![Mono Japan Europe Tour 2024 | large](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-3-jpeg-jpg-imagine-f8f8e8_dddccf_565_800/640.webp "Mono Japan Europe Tour 2024")
+![Mono Japan Europe Tour 2024 | large](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-3-jpeg-jpg-imagine-f8f8e8_dddccf_565_800/640.webp 'Mono Japan Europe Tour 2024')
