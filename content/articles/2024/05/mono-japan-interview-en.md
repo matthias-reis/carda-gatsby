@@ -1,6 +1,6 @@
 ---
 date: 2024-05-16T11:25:23.448Z
-title: Mono Japan – Interview With Taka About "Oath"
+title: Mono (Japan) – Interview With Taka About "Oath"
 subTitle: '"These Songs Cleanse My Soul"'
 type: interview
 typeName: Interview
