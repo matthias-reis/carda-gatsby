@@ -21,7 +21,7 @@ language: en
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-og-jpg-imagine-282828_7d7f80_1200_628/640.webp
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-1-jpeg-imagine-282828_737373_1024_768/640.webp
 languageLink: /2024/05/mono-japan-interview
-seoTitle: Mono Japan – Interview About the New Album, "Oath" – Read now!
+seoTitle: Mono (Japan) – Interview About the New Album, "Oath" – Read now!
 excerpt: I still can't believe it, but none other than Mono (Japan) composer and lead guitarist Takaakira "Taka" Goto agreed to an interview and answered all my questions about the outstanding new Mono album, which will be released on June 14th. Make sure to read it thoroughly!
 ---
 
