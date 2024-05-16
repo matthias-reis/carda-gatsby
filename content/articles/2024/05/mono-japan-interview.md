@@ -35,11 +35,11 @@ imageCopyright: Mono
 
 **Vielen Dank an dieser Stelle an Taka.** Falls Du das hier liest: Es bedeutet mir sehr viel, dass Du Dir all die wertvolle Zeit genommen hast, so detailliert auf meine Fragen einzugehen, sie so ausführlich zu beantworten und all diese Details mit mir zu teilen. Danke!
 
-**An alle, die meine Storys auf Sounds Vegan verfolgen:** Nehmt Euch die Zeit, es dieses Interview komplett zu lesen und verpasst auch nicht die Randnotiz über die leider vor Kurzem verstorbene Musiklegende Steve Albini, die ich zwischen dem Interview und dem Video zum Song "Oath" hinzugefügt habe.
+**An alle, die meine Storys auf Sounds Vegan verfolgen:** Nehmt Euch die Zeit, dieses Interview komplett zu lesen und verpasst nicht die Randnotiz über die leider vor Kurzem verstorbene Musiklegende Steve Albini, die ich zwischen dem Interview und dem Video zum Song "Oath" hinzugefügt habe.
 
 ---
 
-**Anne:** Hallo! Vielen Dank, dass Du Dir die Zeit für dieses Interview nimmst! Ich fühle mich geehrt, Dich und damit eine meiner Top-Drei-Bands persönlich kennenzulernen. Wie geht es Dir? Wie war Dein Tag bis jetzt?
+**Anne:** Hallo! Vielen Dank, dass Du Dir die Zeit für dieses Interview nimmst! Ich fühle mich geehrt, Dich und damit eine meiner Top-Drei-Bands persönlich kennenzulernen.
 
 **Taka:** Hi Anne! Ich danke Dir!
 
@@ -123,7 +123,7 @@ Wichtiger als alles andere war immer die starke Bereitschaft und Aufopferung, di
 
 ## "Ich schreibe gerade Songs für unsere 'Heaven' EP-Serie"
 
-![Mono & Steve Albini. Bild/picture: © Mono](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-2-jpeg-jpg-imagine-080808_563b22_800_533/640.webp "Mono & Steve Albini. Bild/picture: © Mono")
+![Mono & Steve Albini. Bild/picture: © Mono](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-2-jpeg-jpg-imagine-080808_563b22_800_533/640.webp 'Mono & Steve Albini. Bild/picture: © Mono')
 
 **Taka:** Letzten Monat, nach unserer Lateinamerika-Tour, sind wir nach Chicago gereist und haben mit Steve Albini einen Soundtrack für einen Song aufgenommen, der irgendwann nächstes Jahr erscheinen wird.
 
@@ -157,4 +157,4 @@ Ein paar Tage nach meinem Interview mit Taka erschien die traurige Nachricht üb
 
 <YouTube id="R8UenDEzsYw" />
 
-![Mono Japan Europe Tour 2024 | large](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-3-jpeg-jpg-imagine-f8f8e8_dddccf_565_800/640.webp "Mono Japan Europe Tour 2024")
+![Mono Japan Europe Tour 2024 | large](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-3-jpeg-jpg-imagine-f8f8e8_dddccf_565_800/640.webp 'Mono Japan Europe Tour 2024')

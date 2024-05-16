@@ -36,7 +36,7 @@ excerpt: I still can't believe it, but none other than Mono Japan composer and l
 
 ---
 
-**Anne:** Hi! Thanks so much for taking the time to do this interview! It's a big honour for me to talk to you and get to know one of my top three favourite bands personally. How are you doing? How was your day so far?
+**Anne:** Hi! Thanks so much for taking the time to do this interview! It's a big honour for me to talk to you and get to know one of my top three favourite bands personally.
 
 **Taka:** Hi Anne, thank you so much.
 
