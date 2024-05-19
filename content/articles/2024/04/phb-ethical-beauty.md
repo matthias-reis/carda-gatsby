@@ -37,20 +37,20 @@ Zuerst begegnet ist mir PHB in England. Weil mir die Gesichtspflegeprodukte und 
 
 ## PHB Ethical Beauty Produktpalette
 
-![PHB Ethical Beauty 2-in-1 Shampoo & Body Wash - Shampoo & Duschgel.](https://storage.googleapis.com/cardamonchai-media/2024-04-18/phb-body-wash-soundsvegan-com-3-jpg-imagine-483838_717877_1024_768/640.webp "PHB Ethical Beauty 2-in-1 Shampoo & Body Wash - Shampoo & Duschgel")
+![PHB Ethical Beauty 2-in-1 Shampoo & Body Wash - Shampoo & Duschgel.](https://storage.googleapis.com/cardamonchai-media/2024-04-18/phb-body-wash-soundsvegan-com-3-jpg-imagine-483838_717877_1024_768/640.webp 'PHB Ethical Beauty 2-in-1 Shampoo & Body Wash - Shampoo & Duschgel')
 
 Die Beautybrand selbst stammt aus dem UK und stellt dort seit vielen Jahren Biokosmetik her. Diese könnt Ihr zum Glück inzwischen auch bei uns in Deutschland bekommen. Was mir persönlich besonders gut gefällt an PHB ist, dass das Unternehmen ausschließlich Zutaten natürlichen Ursprungs verwendet. Hinzu kommt, dass weder bedenkliche Inhaltsstoffe, welche die Haut reizen können, noch Parabene oder Palmöl in den Produkten vorkommen. Neben diesem kombinierten Produkt zur Reinigung von Haut und Haaren bekommt Ihr von PHB Ethical Beauty Produkte aus den folgenden Kategorien:
 
 - [Gesichtspflege](https://tidd.ly/4d13lIU)
-- [Körperpflege](https://tidd.ly/49M5C7Q)
-- [Haarpflege](https://www.biggreensmile.de/tags/PHB-Ethical-Beauty-Haarpflege.aspx?tag=PHB+Haarpflege)
-- [Make-up](https://www.biggreensmile.de/tags/PHB-Ethical-Beauty-Make-up.aspx?tag=PHB+Make-up)
+- Körperpflege
+- [Haarpflege](https://tidd.ly/3WL3VEU)
+- [Make-up](https://tidd.ly/44Qv2Ag)
 
 In Großbritannien gibt es sogar ganz eigene PHB Ethical Beauty Drogeriemärkte! Falls Ihr in diesem Somme zufällig Euren Urlaub dort verbringt, schaut mal rein – es lohnt sich!
 
 ## Das 2-in-1 Shampoo & Duschgel von PHB Ethical Beauty
 
-![PHB Ethical Beauty 2-in-1 Shampoo & Body Wash - Shampoo & Duschgel.](https://storage.googleapis.com/cardamonchai-media/2024-04-18/phb-body-wash-soundsvegan-com-2-jpg-imagine-084848_79817f_1024_768/640.webp "PHB Ethical Beauty 2-in-1 Shampoo & Body Wash - Shampoo & Duschgel")
+![PHB Ethical Beauty 2-in-1 Shampoo & Body Wash - Shampoo & Duschgel.](https://storage.googleapis.com/cardamonchai-media/2024-04-18/phb-body-wash-soundsvegan-com-2-jpg-imagine-084848_79817f_1024_768/640.webp 'PHB Ethical Beauty 2-in-1 Shampoo & Body Wash - Shampoo & Duschgel')
 
 Das 2-in-1-Shampoo & Body Wash ist so mild, dass es nicht nur Personen mit Ekzemen, Rosazea, Neurodermitis und sehr trockener und empfindlicher Haut verwenden können – sogar für Babys eignet sich das Gel mit beruhigender Hafermilch und Arganöl! Es ist frei von Duftstoffen, belastet die Umwelt nicht und pflegt die Kopfhaut ebenso wie den Rest des Körpers.
 
