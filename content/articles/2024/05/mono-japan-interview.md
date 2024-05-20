@@ -1,13 +1,13 @@
 ---
 date: 2024-05-16T11:26:49.560Z
-title: Mono (Japan) – Interview mit Taka zum neuen Album "Oath"
+title: MONO (Japan) – Interview mit Taka zum neuen Album "Oath"
 subTitle: '"Diese Songs reinigen meine Seele"'
 type: interview
 typeName: Interview
-description: Mono (Japan) Komponist und Lead Gitarrist Takaakira "Taka" Goto hat meine Fragen zum neuen Mono Album "Oath" beantwortet. Lest es jetzt und erfahrt spannende Insights zur Platte!
+description: MONO (Japan) Komponist und Lead Gitarrist Takaakira "Taka" Goto hat meine Fragen zum neuen MONO Album "Oath" beantwortet. Lest es jetzt und erfahrt spannende Insights zur Platte!
 labels:
-  - Mono
-  - Mono (Japan)
+  - MONO
+  - MONO (Japan)
   - Pelagic
   - Interview
   - Interviews
@@ -22,13 +22,13 @@ language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-20/mono-japan-interview-soundsvegan-com-1-jpg-imagine-181818_181818_1024_768/640.webp
 languageLink: /2024/05/mono-japan-interview-en
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-20/mono-japan-soundsvegan-com-og-1-jpg-imagine-181818_252628_1200_628/640.webp
-excerpt: Ich kann es selbst immer noch kaum glauben, aber kein Geringerer als Mono (Japan) Komponist und Lead Gitarrist Takaakira "Taka" Goto hat einem Interview zugestimmt und all meine Fragen zum neuen grandiosen neuen Mono Album "Oath" beantwortet. Nehmt Euch die Zeit, es komplett zu lesen und erfahrt unter anderem, warum ich mich dagegen entschieden habe, eine Review dazu zu veröffentlichen!
-seoTitle: Mono (Japan) – Interview zum neuen Album "Oath" jetzt lesen!
-focusKeyword: Mono "Oath" Interview
-imageCopyright: Mono
+excerpt: Ich kann es selbst immer noch kaum glauben, aber kein Geringerer als MONO (Japan) Komponist und Lead Gitarrist Takaakira "Taka" Goto hat einem Interview zugestimmt und all meine Fragen zum neuen grandiosen neuen MONO Album "Oath" beantwortet. Nehmt Euch die Zeit, es komplett zu lesen und erfahrt unter anderem, warum ich mich dagegen entschieden habe, eine Review dazu zu veröffentlichen!
+seoTitle: MONO (Japan) – Interview zum neuen Album "Oath" jetzt lesen!
+focusKeyword: MONO "Oath" Interview
+imageCopyright: MONO
 ---
 
-**Mono veröffentlichen am 14. Juni ihr neues Album "Oath". Ich hatte die große Ehre, mich mit dem Lead Gitarristen und Komponisten Takaakira "Taka" Goto darüber zu unterhalten. In unserem Gespräch hat er mir einiges über die Geschichte der Band und die Entstehung dieses großartigen neuen Meisterwerks verraten. Ich bin stolz, an dieser Stelle mein Mono (Japan) Interview mit Euch zu teilen. Viel Freude beim Lesen!**
+**MONO veröffentlichen am 14. Juni ihr neues Album "Oath". Ich hatte die große Ehre, mich mit dem Lead Gitarristen und Komponisten Takaakira "Taka" Goto darüber zu unterhalten. In unserem Gespräch hat er mir einiges über die Geschichte der Band und die Entstehung dieses großartigen neuen Meisterwerks verraten. Ich bin stolz, an dieser Stelle mein MONO (Japan) Interview mit Euch zu teilen. Viel Freude beim Lesen!**
 
 ---
 
@@ -48,13 +48,13 @@ imageCopyright: Mono
 
 ## "'Oath' fühlt sich anders an als alle Alben, die wir bis jetzt gemacht haben"
 
-![Mono – "Oath"](https://storage.googleapis.com/cardamonchai-media/2024-05-16/oath-mono-japan-soundsvegan-com-jpeg-imagine-f8f8e8_818b9a_1155_1155/640.webp 'Mono – "Oath')
+![MONO – "Oath"](https://storage.googleapis.com/cardamonchai-media/2024-05-16/oath-mono-japan-soundsvegan-com-jpeg-imagine-f8f8e8_818b9a_1155_1155/640.webp 'MONO – "Oath')
 
 **Taka:** "Oath" fühlt sich anders an als alle anderen Alben, die wir bisher gemacht haben. Das Album trägt keine Gefühle wie Wut, Dunkelheit, Verzweiflung oder Traurigkeit in sich, die wir in der Vergangenheit zum Ausdruck gebracht haben. Stattdessen konzentriert sich die Platte auf die Vielfältigkeit, die uns bereits gegeben ist – statt uns darüber zu beschweren, was wir nicht haben oder was unerreichbar für uns ist. Du wirst verstehen, wie gut es Dir geht, wenn Du die Wärme der Sonne auf der Haut spürst, die Geschenke der Natur, die Gegenwart Deiner Freunde und Deiner Familie, die Möglichkeit, jederzeit, wenn Du den Wasserhahn aufdrehst, frisches Wasser zu trinken.
 
 Ich persönlich kann beim Hören dieses Albums meine Seele reinigen. Es gibt viele Dinge im Leben, aber wenn man sich auf das Positive fokussiert, merkt man, dass die Möglichkeiten unendlich sind.
 
-**Anne:** Alles, was Mono umgibt, wirkt auf mich mystisch und Zen. Auf Mono Konzerten gib es immer diese ganz besondere Spannung und gleichzeitig liegt diese entspannte Atmosphäre in der Luft. Es fühlt sich an, wie auf eine Reise zu gehen und eine Geschichte zu erleben, die niemand zuvor gehört hat – und es ist immer eine ganz besondere Geschichte. Mit Euren Alben geht es mir genauso und die sich immer weiterentwickelnde Promo für "Oath". Man möchte das Geheimnis lüften und hat immer den Wunsch, mehr zu erfahren. Geht es darum auch in den Songs auf der Platte? Die Geheimnisse des Lebens und unserer Zeit und wie wir sie lüften können?
+**Anne:** Alles, was MONO umgibt, wirkt auf mich mystisch und Zen. Auf MONO Konzerten gib es immer diese ganz besondere Spannung und gleichzeitig liegt diese entspannte Atmosphäre in der Luft. Es fühlt sich an, wie auf eine Reise zu gehen und eine Geschichte zu erleben, die niemand zuvor gehört hat – und es ist immer eine ganz besondere Geschichte. Mit Euren Alben geht es mir genauso und die sich immer weiterentwickelnde Promo für "Oath". Man möchte das Geheimnis lüften und hat immer den Wunsch, mehr zu erfahren. Geht es darum auch in den Songs auf der Platte? Die Geheimnisse des Lebens und unserer Zeit und wie wir sie lüften können?
 
 ## "Wir müssen die Freude, im Moment zu leben, zu schätzen lernen"
 
@@ -110,13 +110,13 @@ Ich denke, dieses Album wäre möglicherweise anders geworden, wenn ich den Open
 
 **Taka:** Unser Bandleben war ein Abenteuer und in eine Welt hinauszugehen, die wir niemals zuvor gesehen hatten, war schwieriger, als wir es uns vorgestellt hatten. Wir haben aus zahlreichen Fehlern gelernt und gelernt, uns selbst herauszufordern. Wir lernen nach wie vor von unseren Fehlern.
 
-Wichtiger als alles andere war immer die starke Bereitschaft und Aufopferung, die wir brauchten, um die Band am Leben zu halten und immer weiter zu entwickeln. Natürlich ist die Wirklichkeit, neben der Freude, die das Musikmachen mit sich bringt, nicht so einfach. Wir alle haben unsere eigenen Leben und Dinge, über die wir uns Sorgen machen müssen. Mit dem Älterwerden hatten wir immer wieder das Gefühl, dass unsere Träume vielleicht doch nur Träume sein könnten. Aber jedes einzelne Mal, wenn wir live performt haben und auf Tour waren, sind unsere Fans mehr geworden. Ich bin mir sicher, dass wir ohne ihre Unterstützung heute nicht die Mono wären, die wir sind. Wir danken allen, die uns unterstützen, von ganzem Herzen.
+Wichtiger als alles andere war immer die starke Bereitschaft und Aufopferung, die wir brauchten, um die Band am Leben zu halten und immer weiter zu entwickeln. Natürlich ist die Wirklichkeit, neben der Freude, die das Musikmachen mit sich bringt, nicht so einfach. Wir alle haben unsere eigenen Leben und Dinge, über die wir uns Sorgen machen müssen. Mit dem Älterwerden hatten wir immer wieder das Gefühl, dass unsere Träume vielleicht doch nur Träume sein könnten. Aber jedes einzelne Mal, wenn wir live performt haben und auf Tour waren, sind unsere Fans mehr geworden. Ich bin mir sicher, dass wir ohne ihre Unterstützung heute nicht die MONO wären, die wir sind. Wir danken allen, die uns unterstützen, von ganzem Herzen.
 
-**Anne:** Ihr haltet Euch, was Euer Privatleben angeht, schon immer sehr bedeckt, was ich absolut verstehen kann. War das eine Entscheidung, auf die ihr Euch bei Mono von Anfang an geeinigt habt oder habt Ihr irgendwann einstimmig beschlossen, dass es besser ist, es auf diese Art zu handhaben?
+**Anne:** Ihr haltet Euch, was Euer Privatleben angeht, schon immer sehr bedeckt, was ich absolut verstehen kann. War das eine Entscheidung, auf die ihr Euch bei MONO von Anfang an geeinigt habt oder habt Ihr irgendwann einstimmig beschlossen, dass es besser ist, es auf diese Art zu handhaben?
 
 **Taka:** Ich persönlich lebe kein Leben, mit dem ich angeben könnte (lacht). Ich wache jeden Morgen um sechs Uhr auf und schreibe Songs und am Abend lese ich Bücher und schaue mir Filme oder Fernsehserien an.
 
-**Anne:** Die Nachricht über das neue Mono Album hat sich wie ein Lauffeuer verbreitet und die Fans sind mehr als gespannt darauf, endlich das Vinyl auf ihre Plattenspieler zu legen und die Songs live zu hören. Das muss ein tolles Gefühl sein. Ich bin mir sicher, Ihr freut Euch, diese Musik schon bald mit der Welt zu teilen und damit auf Tour zu gehen?
+**Anne:** Die Nachricht über das neue MONO Album hat sich wie ein Lauffeuer verbreitet und die Fans sind mehr als gespannt darauf, endlich das Vinyl auf ihre Plattenspieler zu legen und die Songs live zu hören. Das muss ein tolles Gefühl sein. Ich bin mir sicher, Ihr freut Euch, diese Musik schon bald mit der Welt zu teilen und damit auf Tour zu gehen?
 
 **Taka:** Ich freue mich wirklich sehr darauf!
 
@@ -124,13 +124,13 @@ Wichtiger als alles andere war immer die starke Bereitschaft und Aufopferung, di
 
 ## "Ich schreibe gerade Songs für unsere 'Heaven' EP-Serie"
 
-![Mono & Steve Albini. Bild/picture: © Mono](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-2-jpeg-jpg-imagine-080808_563b22_800_533/640.webp 'Mono & Steve Albini. Bild/picture: © Mono')
+![MONO & Steve Albini. Bild/picture: © MONO](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-2-jpeg-jpg-imagine-080808_563b22_800_533/640.webp 'MONO & Steve Albini. Bild/picture: © MONO')
 
 **Taka:** Letzten Monat, nach unserer Lateinamerika-Tour, sind wir nach Chicago gereist und haben mit Steve Albini einen Soundtrack für einen Song aufgenommen, der irgendwann nächstes Jahr erscheinen wird.
 
 Im Moment schreibe ich Songs für unsere neue EP-Serie 'Heaven', die jedes Jahr an Weihnachten weitergeht. Die 'Heaven' Serie enthält drei Songs, aber ich schreibe sie wie eine Kurzgeschichte – also wie ich normalerweise Alben schreibe. Ich habe eine Menge Freude an dieser kreativen Arbeit.
 
-**Anne:** Ich weiß, dass es schon eine Weile her ist, seit Ihr Mono gegründet habt, aber ich würde wirklich gerne wissen, wie das damals war. Ich versuche immer wieder, mir die Atmosphäre in der Tokioter Szene vorzustellen, in der Ihr Euch ja begegnet seid. Zum Beispiel auch die Tatsache, dass wir große Vorbilder teilen wie Sonic Youth oder Mogwai. Waren sie auch der Hauptgrund dafür, damit zu beginnen, gemeinsam Musik zu machen? Oder war das schon viel früher klar, dass Ihr eine Band wie Mono gründen würdet?
+**Anne:** Ich weiß, dass es schon eine Weile her ist, seit Ihr MONO gegründet habt, aber ich würde wirklich gerne wissen, wie das damals war. Ich versuche immer wieder, mir die Atmosphäre in der Tokioter Szene vorzustellen, in der Ihr Euch ja begegnet seid. Zum Beispiel auch die Tatsache, dass wir große Vorbilder teilen wie Sonic Youth oder Mogwai. Waren sie auch der Hauptgrund dafür, damit zu beginnen, gemeinsam Musik zu machen? Oder war das schon viel früher klar, dass Ihr eine Band wie MONO gründen würdet?
 
 Damals wie heute war die Mainstream-Musik in Japan J-Pop und J-Rock. Es ist auch heute noch schwierig, aber 1999 war es noch komplizierter, weil es lediglich ein paar wenige Orte gab, an denen wir als Band ohne Gesang und Lyrics spielen konnten.
 
@@ -152,10 +152,10 @@ Wir planen gerade unsere ersten Auftritte in Japan seit fünf Jahren. Sie werden
 
 **Taka:** Vielen Dank für das schöne Interview!
 
-Ein paar Tage nach meinem Interview mit Taka erschien die traurige Nachricht über Steve Albinis Tod. Während der Aufnahmesession bei Electrical Audio für die im Interview erwähnte Filmmusik entstand auch das Video für den ersten und namensgebenden neuen Song auf dem neuen Mono Album. Die Band teilte es und nahm damit Abschied von der Musikikone, die so viele Bands über die Jahre begleitet und geprägt hat.
+Ein paar Tage nach meinem Interview mit Taka erschien die traurige Nachricht über Steve Albinis Tod. Während der Aufnahmesession bei Electrical Audio für die im Interview erwähnte Filmmusik entstand auch das Video für den ersten und namensgebenden neuen Song auf dem neuen MONO Album. Die Band teilte es und nahm damit Abschied von der Musikikone, die so viele Bands über die Jahre begleitet und geprägt hat.
 
-## Mono – "Oath"
+## MONO – "Oath"
 
 <YouTube id="R8UenDEzsYw" />
 
-![Mono (Japan) Europe Tour 2024 | large](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-3-jpeg-jpg-imagine-f8f8e8_dddccf_565_800/640.webp 'Mono (Japan) Europe Tour 2024')
+![MONO (Japan) Europe Tour 2024 | large](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-3-jpeg-jpg-imagine-f8f8e8_dddccf_565_800/640.webp 'MONO (Japan) Europe Tour 2024')

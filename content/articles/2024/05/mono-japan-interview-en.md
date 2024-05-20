@@ -1,13 +1,13 @@
 ---
 date: 2024-05-16T11:25:23.448Z
-title: Mono (Japan) – Interview With Taka About "Oath"
+title: MONO (Japan) – Interview With Taka About "Oath"
 subTitle: '"These Songs Cleanse My Soul"'
 type: interview
 typeName: Interview
-description: Mono (Japan) composer and lead guitarist Takaakira "Taka" Goto answered all my questions about the new Mono album "Oath"! Read it now!
+description: MONO (Japan) composer and lead guitarist Takaakira "Taka" Goto answered all my questions about the new MONO album "Oath"! Read it now!
 labels:
-  - Mono
-  - Mono (Japan)
+  - MONO
+  - MONO (Japan)
   - Pelagic
   - Post-Rock
   - Interview
@@ -21,11 +21,11 @@ language: en
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-20/mono-japan-soundsvegan-com-og-1-jpg-imagine-181818_252628_1200_628/640.webp
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-20/mono-japan-interview-soundsvegan-com-1-jpg-imagine-181818_181818_1024_768/640.webp
 languageLink: /2024/05/mono-japan-interview
-seoTitle: Mono (Japan) – Interview About New Album "Oath" – Read now!
-excerpt: I still can't believe it, but none other than Mono (Japan) composer and lead guitarist Takaakira "Taka" Goto agreed to an interview and answered all my questions about the outstanding new Mono album, which will be released on June 14th. Make sure to read it thoroughly!
+seoTitle: MONO (Japan) – Interview About New Album "Oath" – Read now!
+excerpt: I still can't believe it, but none other than MONO (Japan) composer and lead guitarist Takaakira "Taka" Goto agreed to an interview and answered all my questions about the outstanding new MONO album, which will be released on June 14th. Make sure to read it thoroughly!
 ---
 
-**Mono are going to release their new album, "Oath", on June 14th. I was honoured to be one of the few who got the chance to talk to lead guitarist and composer Takaakira "Taka" Goto about it. In our conversation, he revealed some insights about the band's history and answered my questions about the making of this outstanding new masterpiece. I am proud to share my interview with Mono (Japan) with you! Please enjoy reading!**
+**MONO are going to release their new album, "Oath", on June 14th. I was honoured to be one of the few who got the chance to talk to lead guitarist and composer Takaakira "Taka" Goto about it. In our conversation, he revealed some insights about the band's history and answered my questions about the making of this outstanding new masterpiece. I am proud to share my interview with MONO (Japan) with you! Please enjoy reading!**
 
 ---
 
@@ -45,13 +45,13 @@ excerpt: I still can't believe it, but none other than Mono (Japan) composer and
 
 ## "'Oath' feels different to all of our previous albums"
 
-![Mono – "Oath"](https://storage.googleapis.com/cardamonchai-media/2024-05-16/oath-mono-japan-soundsvegan-com-jpeg-imagine-f8f8e8_818b9a_1155_1155/640.webp 'Mono – "Oath')
+![MONO – "Oath"](https://storage.googleapis.com/cardamonchai-media/2024-05-16/oath-mono-japan-soundsvegan-com-jpeg-imagine-f8f8e8_818b9a_1155_1155/640.webp 'MONO – "Oath')
 
 **Taka:** "Oath" feels like a different world than any album we've released before. The album doesn't have any emotions of anger, darkness, despair, or sadness that we have expressed in the past. Instead, the album focuses on the abundance that's already given to us rather than complaining about what we don't have or what's unreasonable. You'll be able to understand how blessed you are by just the warmth of the sun, the blessings of nature, the presence of family and friends, and the ability to drink clean water whenever you turn on the faucet.
 
 Personally, by listening to this album, I'm able to cleanse my soul. There are many things in life, but if you focus on the positive, you will feel the possibilities are endless.
 
-**Anne:** Everything surrounding Mono feels mystical and Zen to me. If you visit a Mono concert, there's always this tense and, at the same time, relaxed atmosphere. It feels like going on a journey and discovering a story no one's ever heard so far, and it's always a new and special one. It's the same with your albums and also the steadily evolving promo for "Oath". People want to unravel the secret and always want to know more. Is this also what the songs on the record are about—the secrets of life and our times and how to reveal them?
+**Anne:** Everything surrounding MONO feels mystical and Zen to me. If you visit a MONO concert, there's always this tense and, at the same time, relaxed atmosphere. It feels like going on a journey and discovering a story no one's ever heard so far, and it's always a new and special one. It's the same with your albums and also the steadily evolving promo for "Oath". People want to unravel the secret and always want to know more. Is this also what the songs on the record are about—the secrets of life and our times and how to reveal them?
 
 ## "We need to embrace the joy of living in this very moment"
 
@@ -109,11 +109,11 @@ I think this album might have turned out differently if I hadn't written the ope
 
 More than anything else, strong readiness and determination were needed to keep the band going. Of course, while there's always joy in creating and performing music, the reality is not that easy. Each of us has our own lives to worry about, and as we got older, we often felt that our dreams may just be dreams. But every time we performed live and toured, the number of fans steadily increased little by little. Without their support, I don't think we would have been able to continue MONO as we are now. We sincerely thank everyone who continues to support us.
 
-**Anne:** You always tend to keep a low profile regarding private matters, which I can understand. Was this a decision you made together from the beginning when you founded Mono, or did you gradually realise that it felt better for you this way?
+**Anne:** You always tend to keep a low profile regarding private matters, which I can understand. Was this a decision you made together from the beginning when you founded MONO, or did you gradually realise that it felt better for you this way?
 
 **Taka:** I don't live a life that I can brag about to others, haha. I wake up every morning at 6 a.m. and write songs. Then, in the evening, I read books and watch movies or TV series.
 
-**Anne:** The news about the new Mono album has spread like wildfire, and fans are incredibly excited to finally put the vinyl on the turntable and hear the songs live soon. That must feel wonderful. I'm sure you're looking forward to sharing this music with the world and going on tour with it soon.
+**Anne:** The news about the new MONO album has spread like wildfire, and fans are incredibly excited to finally put the vinyl on the turntable and hear the songs live soon. That must feel wonderful. I'm sure you're looking forward to sharing this music with the world and going on tour with it soon.
 
 **Taka:** I'm really looking forward to it.
 
@@ -121,13 +121,13 @@ More than anything else, strong readiness and determination were needed to keep 
 
 ## "I'm working on new songs for our 'Heaven' EP series"
 
-![Mono & Steve Albini. Bild/picture: © Mono](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-2-jpeg-jpg-imagine-080808_563b22_800_533/640.webp 'Mono & Steve Albini. Bild/picture: © Mono')
+![MONO & Steve Albini. Bild/picture: © MONO](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-2-jpeg-jpg-imagine-080808_563b22_800_533/640.webp 'MONO & Steve Albini. Bild/picture: © MONO')
 
 **Taka:** Last month, after the Latin American tour, we went to Chicago and recorded a soundtrack with Steve Albini for a movie that'll be released sometime next year.
 
 I'm now writing songs for our new "Heaven" EP series, which gets released every Christmas. The "Heaven" series only contains three songs, but I'm writing them like short stories, like how I usually write the full albums as full-length novels. I'm having a lot of fun doing it creatively.
 
-**Anne:** I know it's been a while since you formed Mono, but I'd love to know how it was back then. I'm trying to imagine the atmosphere in the Tokyo scene where you met. For example, we share some great icons like Sonic Youth and Mogwai. Were they also the main reason why you started making music back then, or was it clear much earlier that you would eventually play together in a great band like Mono?
+**Anne:** I know it's been a while since you formed MONO, but I'd love to know how it was back then. I'm trying to imagine the atmosphere in the Tokyo scene where you met. For example, we share some great icons like Sonic Youth and Mogwai. Were they also the main reason why you started making music back then, or was it clear much earlier that you would eventually play together in a great band like MONO?
 
 Like before, Japan's mainstream music is J-Pop and J-Rock. It's still difficult today, but back in 1999, it was even more so because there were a very limited number of places that would have a band like us without vocals and lyrics.
 
@@ -149,10 +149,10 @@ We're planning to run our first Japan shows in five years this November. We're 
 
 **Taka:** Thank you for the lovely interview.
 
-A few days after my interview with Taka, the sad news of Steve Albini's death came out. During the recording session at Electrical Audio Chicago for the film score Taka mentioned in this interview, they also created the video for the first and eponymous new song on the new Mono album with him. The band shared it, sending their farewell to the musical icon who has accompanied and shaped so many bands over the years.
+A few days after my interview with Taka, the sad news of Steve Albini's death came out. During the recording session at Electrical Audio Chicago for the film score Taka mentioned in this interview, they also created the video for the first and eponymous new song on the new MONO album with him. The band shared it, sending their farewell to the musical icon who has accompanied and shaped so many bands over the years.
 
-## Mono - "Oath"
+## MONO - "Oath"
 
 <YouTube id="R8UenDEzsYw" />
 
-![Mono (Japan) Europe Tour 2024 | large](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-3-jpeg-jpg-imagine-f8f8e8_dddccf_565_800/640.webp 'Mono (Japan) Europe Tour 2024')
+![MONO (Japan) Europe Tour 2024 | large](https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-3-jpeg-jpg-imagine-f8f8e8_dddccf_565_800/640.webp 'MONO (Japan) Europe Tour 2024')
