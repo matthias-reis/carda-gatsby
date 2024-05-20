@@ -19,9 +19,9 @@ labels:
   - Post-Music
   - Steve Albini
 language: de
-image: https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-1-jpeg-imagine-282828_737373_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2024-05-20/mono-japan-interview-soundsvegan-com-1-jpg-imagine-181818_181818_1024_768/640.webp
 languageLink: /2024/05/mono-japan-interview-en
-ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-16/mono-japan-soundsvegan-com-og-jpg-imagine-282828_7d7f80_1200_628/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-20/mono-japan-soundsvegan-com-og-1-jpg-imagine-181818_252628_1200_628/640.webp
 excerpt: Ich kann es selbst immer noch kaum glauben, aber kein Geringerer als Mono (Japan) Komponist und Lead Gitarrist Takaakira "Taka" Goto hat einem Interview zugestimmt und all meine Fragen zum neuen grandiosen neuen Mono Album "Oath" beantwortet. Nehmt Euch die Zeit, es komplett zu lesen und erfahrt unter anderem, warum ich mich dagegen entschieden habe, eine Review dazu zu veröffentlichen!
 seoTitle: Mono (Japan) – Interview zum neuen Album "Oath" jetzt lesen!
 focusKeyword: Mono "Oath" Interview
