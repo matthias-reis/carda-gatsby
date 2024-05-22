@@ -1,6 +1,6 @@
 ---
 date: 2024-05-22T13:49:47.920Z
-title: Roué im Interview zum Album "Eastwest/Remote"
+title: Roué im Interview zur EP "Eastwest/Remote"
 subTitle: '"Wir jonglieren gerade mit dem Release der EP und einer Albumproduktion"'
 type: article
 typeName: Interview
