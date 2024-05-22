@@ -24,7 +24,7 @@ seoTitle: Roué – "Eastwest / Remote" – Interview
 excerpt: Roué veröffentlichten am 28. Juni ihre EP "Eastwest / Remote". Nachdem ich die Platte zum ersten Mal gehört hatte, war ich sofort angesteckt von der inspirierenden Spannung, die von der Musik des Duos aus Frankfurt am Main und Leipzig ausstrahlt. Weil ich unbedingt mehr über das Projekt und Sharys und Steffens Beziehung zur Musik erfahren wollte, lud ich die beiden kurzerhand zu diesem Interview hier ein.
 ---
 
-**Roué veröffentlichten am 28. Juni mit ihrer EP "Eastwest / Remote" eine musikalische Reise durch Isolation und Kreativität. Nachdem ich die Platte zum ersten Mal gehört hatte, war ich sofort angesteckt von der inspirierenden Spannung, die der Mix aus Indie, Electronic, Post-Punk und Dark Jazz ausstrahlt. Weil ich unbedingt mehr über das Projekt und Steffens und Schahryar Kananians (Shary) und Steffen Andraes Beziehung zur Musik erfahren wollte, lud ich die beiden Künstler kurzerhand zum Interview ein.**
+**Roué veröffentlichten am 28. Juni mit ihrer EP "Eastwest / Remote" eine musikalische Reise durch Isolation und Kreativität. Nachdem ich die Platte zum ersten Mal gehört hatte, war ich sofort angesteckt von der inspirierenden Spannung, die der Mix aus Indie, Electronic, Post-Punk und Dark Jazz ausstrahlt. Weil ich unbedingt mehr über das Projekt und Steffens und Schahryar (Shary) Kananians und Steffen Andraes Beziehung zur Musik erfahren wollte, lud ich die beiden Künstler kurzerhand zum Interview ein.**
 
 Meine Empfehlung für die EP habt Ihr hiermit. Bestellt sie Euch am besten direkt auf Bandcamp[^1] vor und hört dort auch schon in die Musik der beiden Musiker aus Leipzig und Frankfurt am Main rein. Doch jetzt erst mal viel Spaß beim Lesen!
 
