@@ -5,7 +5,18 @@ subTitle: '"Wir jonglieren gerade mit dem Release der EP und einer Albumprodukti
 type: article
 typeName: Interview
 description: Roué veröffentlichten am 28. Juni ihre EP "Eastwest/Remote".  Lest jetzt mein Interview mit den beiden Künstlern aus Berlin und erfahrt, an welcher Überraschung die beiden gerade arbeiten!
-labels: []
+labels:
+  - Roué
+  - Release
+  - Interview
+  - Post-Music
+  - Post-Punk
+  - Electronic
+  - Frankfurt am Main
+  - Leipzig
+  - Band
+  - Bands
+  - Interviews
 language: de
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-22/roue-interview-soundsvegan-com-og-jpg-imagine-080808_585b60_1200_628/640.webp
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-22/roue-interview-soundsvegan-com-3-jpg-imagine-080808_767676_1024_768/640.webp
