@@ -27,6 +27,9 @@ seoTitle: Curly-Girl-Methode vegan – so funktioniert sie mit Hairlust
 excerpt: Die Curly-Girl-Methode lässt meine Locken nur so sprießen. Mit den veganen Produkten von der Kopenhagener  Beauty-Brand Hairlust gelingt sie mir im Handumdrehen. Heute möchte ich Euch die Lockenserie Curl Crush™ vorstellen und verrate Euch meine Lifehacks – vom Shampoonieren bis zum Kneten der Locken.
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-21/hairlust-soundsvegan-com-1-jpg-imagine-f8c808_97915f_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-22/hairlust-soundsvegan-com-og-jpg-imagine-085808_5e7f3e_1200_628/640.webp
+advertisement: true
+affiliate: true
+productsProvided: true
 ---
 
 **Hairlust ist eine vegane Beauty-Brand aus Kopenhagen, die sich mit Haaren auskennt. Ich habe jetzt die Lockenserie Curl Crush™ getestet und möchte meine Erfahrungen gerne mit Euch teilen. Mit der Curly-Girl-Methode könnt Ihr Euren Curls und Wellen mit diesem Set Sprungkraft, Volumen und Ausdruck verleihen und Spliss und Frizz goodbye sagen.**
