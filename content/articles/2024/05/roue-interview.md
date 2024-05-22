@@ -92,7 +92,7 @@ Meine Empfehlung für die EP habt Ihr hiermit. Bestellt sie Euch am besten direk
 
 **Schahryar:** Ich war nie gut darin, über Texte zu reden. Vielleicht auch, weil selten die Texte den Grundstein für die Songs legen, sondern die Musik. Insofern dienen die Texte meistens eher der Verstärkung dessen, was die Musik bei mir auslöst. Ein gutes Beispiel dafür ist "Transcender". Ob die Musik wiederum die heutige Zeit vertont, müssen andere beurteilen.
 
-**Anne:** Das Grafikdesign, das Fabian Bremer (AUA, Velcros) für Eure EP erstellt hat, basiert auf einem Gemälde der New Yorker Künstlerin A.T. Gregor. Auch sie hat sich von Isolation, Arbeit, Enge und Sehnsucht inspirieren lassen. Ich kann es mir sehr beflügelnd vorstellen, mit "Eastwest / Remote" auf den Ohren Kunst zu erschaffen. War das so oder entstand das Artwork parallel zur Musik?
+**Anne:** Das Grafikdesign, das Fabian Bremer ([Velcros](https://soundsvegan.com/2024/02/velcros-interview/), AUA) für Eure EP erstellt hat, basiert auf einem Gemälde der New Yorker Künstlerin A.T. Gregor. Auch sie hat sich von Isolation, Arbeit, Enge und Sehnsucht inspirieren lassen. Ich kann es mir sehr beflügelnd vorstellen, mit "Eastwest / Remote" auf den Ohren Kunst zu erschaffen. War das so oder entstand das Artwork parallel zur Musik?
 
 **Steffen:** Anna ist eine gute Freundin und eine wahnsinnig talentierte Künstlerin. Das Gemälde "Pressed Upon a Pane" ist von 2019, existierte also schon vor unseren Songs. Es wäre aber sehr interessant, einmal zu sehen, was dabei herauskäme, wenn sie zu unserer Musik malen würde oder wenn Fabi und sie mit Ideen so Pingpong spielten wie Shary und ich.
 
