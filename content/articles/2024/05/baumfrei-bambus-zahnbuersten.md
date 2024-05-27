@@ -1,6 +1,6 @@
 ---
 date: 2024-05-27T14:21:21.132Z
-title: Bambus-Zahnbürsten und nachhaltige Accessoires von baumfrei
+title: Bambus-Zahnbürsten und nachhaltige Bad-Accessoires von baumfrei
 subTitle: '"Wir wollen die Welt plastikfreier machen!"'
 type: article
 typeName: Produkttest
