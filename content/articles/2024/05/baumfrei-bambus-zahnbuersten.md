@@ -92,7 +92,7 @@ Die Idee, Zahnbürsten nachhaltig zu machen, ist nicht ganz neu. Pia und Markus 
 
 Meine Zähne werden mit der Zahnbürste in mittlerer Stärke blitzeblank und ich habe nicht das Gefühl, dass mir etwas fehlt. Im Gegensatz zu einigen anderen Bambusbürsten, die ich getestet habe, schubbert beim Putzen nichts im Mund und die Borsten sind genauso lange haltbar, wie bei einer herkömmlichen Zahnbürste.
 
-Auch die Wattestäbchen finde ich super. Sie sind ganz weich, schön griffig und ich kann sie zum Schminken genauso wie für meine Bastelprojekte.
+Auch die Wattestäbchen finde ich super. Sie sind ganz weich, schön griffig und ich kann sie zum Schminken genauso nutzen, wie für meine Bastelprojekte.
 
 Ein besonderes Highlight ist für mich das Zahnbürsten-Etui aus Bambus. Damit ist meine Bürste unterwegs gut geschützt, kommt im Waschbeutel nicht mit der Seife in Berührung und gleichzeitig kann sich durch das natürliche Material und die Lüftungslöcher innen keine Feuchtigkeit ansammeln, die zu unschönen Ablagerungen führen könnte.
 
