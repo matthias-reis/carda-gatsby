@@ -13,7 +13,7 @@ language: de
 seoTitle: Alex Kitchen Flensburg – Interview
 excerpt: Alex Kitchen serviert seit Kurzem in Flensburg leckere vegane Gerichte für alle. Das Restaurant hat seinen Betrieb auf auf zwei Stockwerken aufgenommen – direkt am lebhaften Südermarkt. Weil ich immer gerne Menschen aus der pflanzenbasierten Gastro kennenlerne habe ich den geschäftsführenden Gesellschafter André Cardell zu seinem Erfolgsrezept interviewt.
 focusKeyword: Alex Kitchen Flensburg
-languageLink: ""
+languageLink: ''
 imageCopyright: Alex Kitchen
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-17/alex-kitchen-flensburg-soundsvegan-com-og-jpg-imagine-080808_8e8172_1200_628/640.webp
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-19/alex-kitchen-flensburg-soundsvegan-com-2-jpg-imagine-c8b8a8_8e7e72_1024_768/640.webp
@@ -31,7 +31,7 @@ Mit einer großen Sonnenterrasse und einer umfangreichen Auswahl an veganen Geri
 
 ## "Ein Restaurant wie das Alex hat in Flensburg gefehlt!"
 
-![Alex Kitchen Flensburg](https://storage.googleapis.com/cardamonchai-media/2024-05-19/alex-kitchen-flensburg-soundsvegan-com-1-jpg-imagine-c8c8c8_9a9894_1024_768/640.webp "Alex Kitchen Flensburg")
+![Alex Kitchen Flensburg](https://storage.googleapis.com/cardamonchai-media/2024-05-19/alex-kitchen-flensburg-soundsvegan-com-1-jpg-imagine-c8c8c8_9a9894_1024_768/640.webp 'Alex Kitchen Flensburg')
 
 **André:** Wir haben relativ leise geöffnet, da wir uns selbst nicht überfordern wollten. Auf diese Art kann unser Personal mit den Aufgaben wachsen. Trotzdem hatten wir gut zu tun, was uns schon gewundert, aber auch gefreut hat.
 
@@ -71,7 +71,7 @@ Ach so: Was mein Lieblingsessen angeht, schwanke ich übrigens immer zwischen Ku
 
 ## "Wir möchten sinnvoll und ressourcenschonend wirtschaften"
 
-![Alex Kitchen Flensburg](https://storage.googleapis.com/cardamonchai-media/2024-05-19/alex-kitchen-flensburg-soundsvegan-com-3-jpg-imagine-b8b8b8_8b8379_1024_768/640.webp "Alex Kitchen Flensburg")
+![Alex Kitchen Flensburg](https://storage.googleapis.com/cardamonchai-media/2024-05-19/alex-kitchen-flensburg-soundsvegan-com-3-jpg-imagine-b8b8b8_8b8379_1024_768/640.webp 'Alex Kitchen Flensburg')
 
 **André:** Gerne. Wir schauen, dass wir so gut wie möglich und so viel wie möglich optimieren, damit wir sinnvoll und ressourcenschonend wirtschaften. Hierbei ist uns besonders wichtig, dass wir so viel wie möglich frisch kochen und dabei auf jegliche gefährlichen Geschmacksverstärker verzichten. Außerdem überprüfen und optimieren wir unsere Lieferketten dahin gehend, dass wir uns den Bezugsweg genau anschauen.
 
@@ -109,4 +109,4 @@ Südermarkt 13–14 24937 Flensburg
 
 Rote Pforte 12 25813 Husum
 
-[^1]: [Alex Kitchen Homepage](www.alex-kitchen.de)
+[^1]: [Alex Kitchen Homepage](https://www.alex-kitchen.de/)
