@@ -30,7 +30,7 @@ excerpt: Vegane Hundemenüs zum frisch Zubereiten. Klingt das für Euch, als mü
 
 **Veganes Hundefutter ist zweifelsohne gerade in der heutigen Zeit mehr als sinnvoll. Immer mehr Hunde leiden an Allergien durch belastetes Futter und gesunde, pflanzliche Ernährung kann für viele Hunde die Lösung sein im Hinblick auf eine langfristige Gesundheit der Allesfresser. Je ausgewogener sie ist, umso besser geht es unseren vierbeinigen Freunden – ohne dass wir für ihr Futter auf tierisches Protein zurückgreifen müssen.**
 
-Sorgfältig geplante vegane Hundeernährung schützt nicht nur das Verdauungs- und Herz-Kreislaufsystem von Hunden. Wer seinen Hund vegan ernährt, setzt sich aktiv für das Klima ein. In diesem Artikel möchte ich Euch die veganen Hundemenüs von Naftie vorstellen. Mit ihnen gelingt die Planung und Zubereitung ohne viel Aufwand.\*\*
+Sorgfältig geplante vegane Hundeernährung schützt nicht nur das Verdauungs- und Herz-Kreislaufsystem von Hunden. Wer seinen Hund vegan ernährt, setzt sich aktiv für das Klima ein. In diesem Artikel möchte ich Euch die veganen Hundemenüs von Naftie vorstellen. Mit ihnen gelingt die Planung und Zubereitung ohne viel Aufwand.
 
 Vally bekommt von uns in der Regel dreimal am Tag ihr veganes Trockenfutter. Das ist super abgestimmt, hypoallergen und enthält alle Vitamine, Mineralstoffe und Spurenelemente, die sie benötigt. Zusätzlich gibt es dann noch ein Öl für ihre Haut und ihre Verdauung und es geht ihr prima. Seit Kurzem gibt es jetzt ab und an auch mal etwas Selbstgekochtes oder die veganen Hundemenüs von Naftie.
 
