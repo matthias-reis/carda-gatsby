@@ -32,6 +32,7 @@ excerpt: >+
   
   
   
+  
 
 seoTitle: Veganes Hundefutter von VEGDOG – hypoallergen & nährstoffreich
 focusKeyword: VEGDOG veganes Hundefutter
@@ -53,9 +54,13 @@ Vally ist jetzt seit Dezember Teil unserer Familie und sie hat sich schnell als 
 - [Veggies mit Kastanienmehl, Kelpalge & Hanf(Veggies mit Kastanienmehl, Kelpalge & Hanf)](#veggies)
 - [Jerkeys mit Karotte & Buchenrauch(Jerkeys mit Karotte & Buchenrauch)](#jerkeys)
 
+---
+
 ## VEGDOG kaufen und Sounds Vegan supporten
 
 Wenn Ihr Eure [VEGDOG Produkte über die Links in diesem Artikel kauft](https://assets.ikhnaie.link/click.html?wgcampaignid=1428775&wgprogramid=300670&clickref=soundsvegan&wgtarget=https://www.vegdog.de), erhalte ich für Eure Bestellung auch ein paar Cent. Mit den gesammelten Einnahmen kann ich dann Sounds Vegan für Euch weiterentwickeln und regelmäßig Produkttests wie diesen hier für Euch verfassen und hier veröffentlichen.
+
+---
 
 **Hinweis:** Unter den Bildern geht es weiter!
 
