@@ -33,6 +33,7 @@ excerpt: >+
   
   
   
+  
 
 seoTitle: Veganes Hundefutter von VEGDOG – hypoallergen & nährstoffreich
 focusKeyword: VEGDOG veganes Hundefutter
@@ -152,7 +153,7 @@ VEGDOG stellt alle Futtersorten und Snacks nach hohen Qualitätsstandards her un
 
 Der Wunsch, das erste zu 100 Prozent bedarfsdeckende, vegane Hundefutter zu entwickeln, wurde zu Realität und Tessa setzte ihn gemeinsam mit Valerie, dem Rest ihres Teams und Tierärzt\*innen, die sich besonders gut mit Ernährung auskannten um. Unter dem Motto "Do good. Feed better" verkaufen sie heute erfolgreich veganes Hundefutter und tun damit ganz nebenbei auch noch etwas für das Tierwohl und die Umwelt – sogar als Speaker bei der UN-Klimakonferenz wurden sie bereits eingeladen! Dort berichteten Sie unter anderem das Folgende:
 
-> "Ein Hund verbraucht jedes Jahr ein Drittel des seinem jeweiligen Menschen zur Verfügung stehenden CO<sub>2</sub>-Budgets. Davon sind 90 Prozent ernährungsbedingt! Wir von VEGDOG konnten mit unseren Produkten seit 2018 so viel CO2 einsparen wie etwa 7.770 Flüge von Frankfurt nach New York! Ganz zu schweigen von all den geretteten Tieren.
+> "Ein Hund verbraucht jedes Jahr ein Drittel des seinem jeweiligen Menschen zur Verfügung stehenden CO<sub>2</sub>-Budgets. Davon sind 90 Prozent ernährungsbedingt! Wir von VEGDOG konnten mit unseren Produkten seit 2018 so viel CO2 einsparen wie etwa 7.770 Flüge von Frankfurt nach New York! Ganz zu schweigen von all den geretteten Tieren."
 
 ## Veganes Hundefutter ist besonders für Hunde mit Allergien eine gute Wahl
 
