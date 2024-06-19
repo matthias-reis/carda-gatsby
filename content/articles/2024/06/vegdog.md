@@ -23,6 +23,7 @@ excerpt: >+
   
   
   
+  
 
 seoTitle: Veganes Hundefutter von VEGDOG – hypoallergen & nährstoffreich
 focusKeyword: VEGDOG veganes Hundefutter
@@ -126,7 +127,7 @@ VEGDOG hat den hypoallergenen Snack mit Tierärzt\*innen so entwickelt, dass sie
 
 <div id="jerkeys" />
 
-## Jerkeys mit Karotte & Buchenrauch (Jerkeys mit Karotte & Buchenrauch
+## Jerkeys mit Karotte & Buchenrauch
 
 Wenn man Vally nach ihren Lieblingssnacks fragen würde, würden die [Jerkeys](https://assets.ikhnaie.link/click.html?wgcampaignid=1428775&wgprogramid=300670&clickref=soundsvegan&wgtarget=https://www.vegdog.de/products/snack-jerkeys?variant=44258987147578) sicher einen der obersten Plätze belegen. Sie liebt die veganen Streifen aus Karotte von ganzem Herzen. Wenn ich die Tüte öffne, duftet es sehr lecker nach Buchenrauch – auch mir gefällt das sehr gut.
 
