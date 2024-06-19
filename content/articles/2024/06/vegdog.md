@@ -24,6 +24,14 @@ excerpt: >+
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
 
 seoTitle: Veganes Hundefutter von VEGDOG – hypoallergen & nährstoffreich
 focusKeyword: VEGDOG veganes Hundefutter
@@ -53,7 +61,7 @@ Wenn Ihr Eure [VEGDOG Produkte über die Links in diesem Artikel kauft](https://
 
 <Gallery name="vegdog-soundsvegan-1" />
 
-<div id="green-crunch" />
+<div id="green-crunch"></div>
 
 ## Green Crunch Trockenfutter
 
@@ -65,7 +73,7 @@ Weil Vally einen empfindlichen Magen hat, waren wir bei der Umstellung sehr vors
 
 Die Tierärztin ist mit ihren Blutwerten nach einigen Monaten damit übrigens rundum zufrieden und seit sie es bekommt, sehen ihre Haut und ihr Fell viel gesünder aus. Ihre Rötungen, die sie früher am Bauch hatte, sind verschwunden und sie kratzt sich zudem wesentlich seltener.
 
-<div id="green-crunch" />
+<div id="linsen-hirse"></div>
 
 ## Nassfutter Adult Linsen & Hirse
 
@@ -77,7 +85,7 @@ Das Linsen & Hirse Futter enthält alle wichtigen Nährstoffe, die Hunde benöti
 
 Laut VEGDOG deckt das vegane Nassfutter aus der Dose den Eiweißbedarf ausgewachsener Hunde ab zwölf Monaten. Dafür sorgen vor allem die Erbsen, Haferflocken und Lupinen. Auch die so wichtigen essenziellen Fettsäuren Omega-3 und Omega-6 sind durch den Leinsamen und die Leinsamen in ausreichender Menge enthalten. Ihr könnt das Futter als Ausschlussdiät nutzen. Es wurde so entwickelt, dass es sich auch für Hunde mit Allergien hervorragend eignet.
 
-<div id="linsen-hirse" />
+<div id="erbsen-haferflocken"></div>
 
 ## Nassfutter im Tetrapak Adult Erbsen & Haferflocken
 
@@ -97,7 +105,7 @@ Auch das Futter aus dem Tetrapak ist ein Alleinfuttermittel und vollständig aus
 
 Ihr könnt es Euren Hunden ab dem zwölften Lebensmonat geben und geht dabei sicher, dass sie alle lebenswichtigen Nährstoffe, Aminosäuren, Vitamine, Spurenelemente sowie ausreichend Protein und Ballaststoffe zu sich nehmen. Dafür sorgen unter anderem Kartoffeln, Brokkoli, Erbsen und Algen. Das in allen VEGDOG Produkten enthaltene eigens entwickelte Mineralpulver sorgt dafür, dass auch in diesem Produkt genügend Vitamin B12, Taurin und Carnitin steckt.
 
-<div id="erbsen-haferflocken" />
+<div id="dentals"></div>
 
 ## Dentals mit Tapioka & Rote Bete
 
@@ -107,7 +115,7 @@ Weil die Zusammensetzung so gut ist, geben wir sie ihr mit gutem Gewissen. Beim 
 
 Tapiokamehl und Vitamin C unterstützen das Immunsystem sowie die Muskeln und Gelenke. Neben diesen Hauptzutaten sind enthalten die Dentals lediglich veganes Glycerin, Cellulosefasern, Bierhefe und Rapsöl – das war’s auch schon. Vally bekommt davon bei ihrem Gewicht pro Tag ein halbes bis eins – je nachdem, wie lange wir draußen unterwegs sind und wie intensiv getobt und gespielt wird.
 
-<div id="beevys" />
+<div id="beevys"></div>
 
 ## Beevys mit Rote Bete & Buchenrauch
 
@@ -117,7 +125,7 @@ Die [Beevys hat VEGDOG](https://assets.ikhnaie.link/click.html?wgcampaignid=1428
 
 Klingt top, oder? Auf Farb- und Lockstoffe sowie Zucker und anderen Schnickschnack, der nicht in einen Hundemagen gehört, hat VEGDOG auch bei den Beevys verzichtet. Dafür stecken neben Rote Bete und Buchenrauch Vitamin C, Eisen, Magnesium, Kalium, Kalzium und B-Vitamine in dem tollen Schmecki.
 
-<div id="veggies" />
+<div id="veggies"></div>
 
 ## Skincare Veggies mit Kastanienmehl, Kelpalge & Hanf
 
@@ -125,7 +133,7 @@ Die [Skincare Veggies von VEGDOG](https://assets.ikhnaie.link/click.html?wgcampa
 
 VEGDOG hat den hypoallergenen Snack mit Tierärzt\*innen so entwickelt, dass sie auch für empfindliche Hundemägen geeignet sind. Auf Lockstoffe sowie Farbe und Konservierungsmittel wurde dabei bewusst verzichtet – wie bei allen Produkten aus dem VEGDOG Sortiment. Das enthaltene Jod unterstützt die Schilddrüse und trägt damit zu einem funktionierenden Stoffwechsel bei. Der Hanf liefert Mineralstoffe, Vitamine und die essenziellen Fettsäuren Omega-3 und Omega-6 – es ist eine gesunde und vegane Alternative zum sonst häufig gegebenen Fischöl.
 
-<div id="jerkeys" />
+<div id="jerkeys"></div>
 
 ## Jerkeys mit Karotte & Buchenrauch
 
