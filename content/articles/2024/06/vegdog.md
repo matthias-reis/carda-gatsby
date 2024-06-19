@@ -19,6 +19,7 @@ productsProvided: true
 excerpt: >+
   Veganes Hundefutter, das Hunden wirklich schmeckt, abwechslungsreich ist und alle Nährstoffe enthält – das habe ich gesucht und gefunden und möchte es Euch natürlich nicht vorenthalten. Unsere kleine Hundedame Vally ist sehr happy mit dem Nass- und Trockenfutter von VEGDOG und auch mich hat es ziemlich schnell überzeugt. In diesem Artikel stelle ich Euch einige der Snacks sowie das Trocken- und Nassfutter vor.
   
+  
 
 seoTitle: Veganes Hundefutter von VEGDOG – hypoallergen & nährstoffreich
 focusKeyword: VEGDOG veganes Hundefutter
@@ -140,7 +141,7 @@ Der Wunsch, das erste zu 100 Prozent bedarfsdeckende, vegane Hundefutter zu entw
 
 Ich bin mir der Tatsache bewusst, dass veganes Futter polarisiert und einige es bis heute kategorisch ablehnen. Falls Ihr noch hin und her überlegt, kann ich Euch auf jeden Fall den Tipp an die Hand geben, die Nährwerte und Inhaltsstoffe genau zu vergleichen. Besonders, wenn Euer Hund unter Allergien leidet, kann ein veganes Futter auf Dauer tatsächlich die bessere Wahl sein. Das wurde inzwischen sogar wissenschaftlich bewiesen.
 
-Hinzu kommt, dass Hunde, genau wie wir Menschen, von Natur aus Allesfresser sind. Sie kommen daher mit pflanzlicher Kost ausgezeichnet klar – genau wie wir. Ist diese hochwertiger als das Fleisch, das Hunde ja in der Regel in Form von hoch verarbeitetem Dosenfutter bekommen, besitzt sie zahlreiche überzeugende Vorteile. Auch der Fakt, dass es sich beim Rinder- oder Pferdefleisch, das an Hunde verfüttert wird, häufig um Schlachtabfälle handelt und/oder es mit Resten von Antibiotika oder anderen Medikamenten sowie Dioxinen belastet ist, spricht für vegane Hundeernährung. Mich schockierte auch die Nachricht, dass in genau dem Futter, das unsere Hündin früher bekommen hat, offenbar Salmonellen gefunden und deshalb gleich mehrere Chargen zurückgerufen wurden. Ich kann nur sagen: Überlegt es Euch, es lohnt sich wirklich, darüber nachzudenken. Und wenn Ihr Euch nicht ganz sicher seid, könnt Ihr ja wie wir Eure*n Tierärzt*in fragen.
+Hinzu kommt, dass Hunde, genau wie wir Menschen, von Natur aus Allesfresser sind. Sie kommen daher mit pflanzlicher Kost ausgezeichnet klar – genau wie wir. Ist diese hochwertiger als das Fleisch, das Hunde ja in der Regel in Form von hoch verarbeitetem Dosenfutter bekommen, besitzt sie zahlreiche überzeugende Vorteile. Auch der Fakt, dass es sich beim Rinder- oder Pferdefleisch, das an Hunde verfüttert wird, häufig um Schlachtabfälle handelt und/oder es mit Resten von Antibiotika oder anderen Medikamenten sowie Dioxinen belastet ist, spricht für vegane Hundeernährung. Mich schockierte auch die Nachricht, dass in genau dem Futter, das unsere Hündin früher bekommen hat, offenbar Salmonellen gefunden und deshalb gleich mehrere Chargen zurückgerufen wurden. Ich kann nur sagen: Überlegt es Euch, es lohnt sich wirklich, darüber nachzudenken. Und wenn Ihr Euch nicht ganz sicher seid, könnt Ihr ja wie wir Eure\*n Tierärzt\*in fragen.
 
 ## Wichtiger Hinweis zu Futterumstellungen bei Hunden
 
