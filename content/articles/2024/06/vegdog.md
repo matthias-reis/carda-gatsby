@@ -20,6 +20,7 @@ excerpt: >+
   Veganes Hundefutter, das Hunden wirklich schmeckt, abwechslungsreich ist und alle Nährstoffe enthält – das habe ich gesucht und gefunden und möchte es Euch natürlich nicht vorenthalten. Unsere kleine Hundedame Vally ist sehr happy mit dem Nass- und Trockenfutter von VEGDOG und auch mich hat es ziemlich schnell überzeugt. In diesem Artikel stelle ich Euch einige der Snacks sowie das Trocken- und Nassfutter vor.
   
   
+  
 
 seoTitle: Veganes Hundefutter von VEGDOG – hypoallergen & nährstoffreich
 focusKeyword: VEGDOG veganes Hundefutter
