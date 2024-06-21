@@ -61,6 +61,12 @@ Weil Vally einen empfindlichen Magen hat, waren wir bei der Umstellung sehr vors
 
 Die Tierärztin ist mit ihren Blutwerten nach einigen Monaten damit übrigens rundum zufrieden und seit sie es bekommt, sehen ihre Haut und ihr Fell viel gesünder aus. Ihre Rötungen, die sie früher am Bauch hatte, sind verschwunden und sie kratzt sich zudem wesentlich seltener.
 
+---
+
+**Tipp:** Bei VEGDOG ist es möglich, ein praktisches [Futterabo](https://assets.ikhnaie.link/click.html?wgcampaignid=1428775&wgprogramid=300670&clickref=soundsvegan&wgtarget=https://www.vegdog.de/pages/abo) abzuschließen. Ich muss sagen, ich denke inzwischen schon darüber nach. Es ist schon praktisch, wenn man jeden Monat die passende Futtermenge einfach nach Hause geliefert bekommt.
+
+---
+
 <div id="linsen-hirse"></div>
 
 ## Nassfutter Adult Linsen & Hirse
@@ -83,7 +89,7 @@ Ich habe es für diesen Artikel zum Testen zugeschickt bekommen und musste es, a
 
 ---
 
-**Tipp:** Bei VEGDOG ist es möglich, ein praktisches [Futterabo](https://assets.ikhnaie.link/click.html?wgcampaignid=1428775&wgprogramid=300670&clickref=soundsvegan&wgtarget=https://www.vegdog.de/pages/abo) abzuschließen. Ich muss sagen, ich denke inzwischen schon darüber nach. Es ist schon praktisch, wenn man jeden Monat die passende Futtermenge einfach nach Hause geliefert bekommt.
+**Tipp:** Ihr könnt das Nassfutter im Tetrapak auch einfrieren und Euren Lieblingen im Sommer so ein tolles Hundeeis gönnen! Probiert's mal aus!
 
 ---
 
