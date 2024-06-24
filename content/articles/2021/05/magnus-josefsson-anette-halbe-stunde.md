@@ -27,7 +27,7 @@ labels:
   - The Ark
   - Theis Mikkelsen
   - Vegan Musicians
-  - Vegan Celebreties
+  - Vegan Celebrities
   - Vegan Artists
   - The Mirror Factory
   - Dungen
@@ -36,14 +36,9 @@ typeName: Interview
 title: '"Anette Halbe Stunde"'
 subTitle: (Sound-)Architekt Magnus Josefsson im Interview
 seoTitle: Anette Halbe Stunde – (Sound-)Architekt Magnus Josefsson im Interview
-ogTitle: ""
-description: '"Anette Halbe Stunde" heißt das neue Tape von Magnus Josefsson.
-  Ich habe den (Sound-)Architekten im Interview näher kennengelernt.'
-excerpt: English & German – "Anette Halbe Stunde" heißt das neue Tape von Magnus
-  Josefsson auf Anette Records. Als ich ihn fragte, über welche Themen er sich
-  am liebsten unterhalten würde, sprach er das Bullerbü-Syndrom an. Ich war
-  natürlich nicht nur neugierig, zu erfahren, wie der schwedische
-  (Sound-)Architekt zu Astrid Lindgren steht.
+ogTitle: ''
+description: '"Anette Halbe Stunde" heißt das neue Tape von Magnus Josefsson. Ich habe den (Sound-)Architekten im Interview näher kennengelernt.'
+excerpt: English & German – "Anette Halbe Stunde" heißt das neue Tape von Magnus Josefsson auf Anette Records. Als ich ihn fragte, über welche Themen er sich am liebsten unterhalten würde, sprach er das Bullerbü-Syndrom an. Ich war natürlich nicht nur neugierig, zu erfahren, wie der schwedische (Sound-)Architekt zu Astrid Lindgren steht.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-anette-halbe-stunde-jpg-imagine-181818_7a7066_1024_768/640.webp
 copyright: Magnus Josefsson
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-anette-halbe-stunde-1-jpg-imagine-181818_94908c_1200_628/640.webp
@@ -51,7 +46,6 @@ focusKeyword: Anette Halbe Stunde
 advertisement: false
 affiliate: false
 languageLink: /2021/05/magnus-josefsson-anette-halbe-stunde-en
-
 ---
 
 **"Anette Halbe Stunde" heißt das neue Tape von Magnus Josefsson auf Anette Records. Als ich ihn fragte, über welche Themen er sich am liebsten unterhalten würde, sprach er das Bullerbü-Syndrom an. Ich war natürlich nicht nur neugierig, zu erfahren, wie er zu Astrid Lindgren steht. Ich wollte natürlich auch mehr über den vegan lebenden (Sound)-Architekten aus Schweden erfahren, der schon mal eine Zeitlang in Weimar gelebt hat.**

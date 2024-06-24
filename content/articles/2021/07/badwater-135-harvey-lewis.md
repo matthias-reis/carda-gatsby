@@ -5,16 +5,14 @@ typeName: Beitrag
 title: Harvey Lewis gewinnt Badwater 135
 subTitle: Veganer Athlet siegt erneut bei Ultramarathon
 seoTitle: Veganer Athlet Harvey Lewis gewinnt Ultramarathon Badwater 135
-description: Der vegane Athlet Harvey Lewis hat zum zweiten Mal den
-  Ultramarathon Badwater 135 gewonnen. Insgesamt hat er es bei dem Rennen
-  bereits zehn Mal aufs Siegertreppchen geschafft
+description: Der vegane Athlet Harvey Lewis hat zum zweiten Mal den Ultramarathon Badwater 135 gewonnen. Insgesamt hat er es bei dem Rennen bereits zehn Mal aufs Siegertreppchen geschafft
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/badwater-135-jpg-imagine-684838_79716e_1024_768/640.webp
-copyright: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/badwater-135-fb-jpg-imagine-684838_79706c_1200_628/640.webp
 labels:
   - Badwater135
   - Harvey Lewis
-  - Vegan Celebreties
+  - Vegan Celebrities
   - Ernährung & Gesundheit
   - vegane Atlethen
   - Extremsport
@@ -23,7 +21,6 @@ focusKeyword: Badwater135
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Der vegane Athlet Harvey Lewis hat zum zweiten Mal den Ultramarathon Badwater 135 gewonnen. Insgesamt hat er es bei dem Rennen bereits zehn Mal aufs Siegertreppchen geschafft.**

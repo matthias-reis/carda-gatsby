@@ -13,7 +13,7 @@ labels:
   - Rebecca Cappelli
   - Keegan Kuhn
   - vegan Fashion
-  - vegan Celebreties
+  - vegan Celebrities
   - Bücher & Filme
   - Animal Rights
   - Slay

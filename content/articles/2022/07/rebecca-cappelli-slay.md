@@ -14,7 +14,7 @@ labels:
   - Keegan Kuhn
   - vegan Fashion
   - vegane Mode
-  - vegan Celebreties
+  - vegan Celebrities
   - Bücher & Filme
   - Tierrechte
   - Slay

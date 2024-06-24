@@ -4,15 +4,8 @@ typeName: Beitrag
 title: Die erste Regel des Vegan Club
 subTitle: Künstler macht sich für Tiere stark
 seoTitle: Die erste Regel des Vegan Club – Künstler Constantin Le Fou
-description: Lest das, wenn Ihr wissen wollt, warum die erste Regel im Vegan
-  Club wirklich funktioniert und wie viel das mit David Finchers Palahniuk
-  Verfilmung "Fight Club" zu tun hat.
-excerpt: 'Wenn Ihr, wie ich, bereits länger vegan lebt, ist Euch bestimmt schon
-  mal der scherzhafte Spruch "Die erste Regel im Vegan Club lautet: Erzähle
-  jedem vom Vegan Club" begegnet. In der Regel machen wir Veganer*innen uns
-  damit über das Klischee lustig, wir wollten jedem unseren Lebensentwurf
-  aufdrängen. Der Künstler Constantin Le Fou hat aus dem Spruch ein Projekt
-  gemacht – den Vegan Club gibt also wirklich.'
+description: Lest das, wenn Ihr wissen wollt, warum die erste Regel im Vegan Club wirklich funktioniert und wie viel das mit David Finchers Palahniuk Verfilmung "Fight Club" zu tun hat.
+excerpt: 'Wenn Ihr, wie ich, bereits länger vegan lebt, ist Euch bestimmt schon mal der scherzhafte Spruch "Die erste Regel im Vegan Club lautet: Erzähle jedem vom Vegan Club" begegnet. In der Regel machen wir Veganer*innen uns damit über das Klischee lustig, wir wollten jedem unseren Lebensentwurf aufdrängen. Der Künstler Constantin Le Fou hat aus dem Spruch ein Projekt gemacht – den Vegan Club gibt also wirklich.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-08-11/vegan-club-julia-tulke-flickr-new-york-little-italy-2016-jpeg-imagine-c8b8a8_94817b_1024_768/640.webp
 copyright: Julia Tulke, Little Italy, New York, 2016
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-08-11/vegan-club-julia-tulke-flickr-new-york-little-italy-2016-fb-jpeg-imagine-483838_98857e_1200_628/640.webp
@@ -24,13 +17,12 @@ labels:
   - vegan
   - Veganismus
   - Los Angeles
-  - Vegan Celebreties
+  - Vegan Celebrities
   - Joaquin Phoenix
 focusKeyword: Die erste Regel des Vegan Club
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Wenn Ihr, wie ich, bereits länger vegan lebt, ist Euch bestimmt schon mal der scherzhafte Spruch "Die erste Regel im Vegan Club lautet: Erzähle jedem vom Vegan Club" begegnet.  Es handelt sich dabei um eine Abwandlung des "Fight Club" (Roman von Chuck Palahniuk, Film von David Fincher, Ihr erinnert Euch)  Zitats "Die erste Regel im Fight Club lautet: Erzähle niemandem vom Fight Club". In der Regel machen wir Veganer\*innen uns damit über das Klischee lustig, wir wollten jedem unseren Lebensentwurf aufdrängen. Der Künstler Constantin Le Fou hat aus dem Spruch ein Projekt gemacht – den Vegan Club gibt also wirklich.**

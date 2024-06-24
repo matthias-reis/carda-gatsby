@@ -28,7 +28,7 @@ labels:
   - The Ark
   - Theis Mikkelsen
   - Vegan Musicians
-  - Vegan Celebreties
+  - Vegan Celebrities
   - Vegan Artists
   - The Mirror Factory
 language: en
@@ -36,18 +36,9 @@ typeName: Interview
 title: '"Anette Halbe Stunde"'
 subTitle: Interview With (Sound) Architect Magnus Josefsson
 seoTitle: '"Anette Halbe Stunde" – Interview With (Sound) Architect Magnus Josefsson'
-ogTitle: ""
-description: Magnus Josefsson's new tape goes by the name "Anette Halbe Stunde".
-  When I asked him what topics he would like to discuss in our interview, he
-  brought up the Bullerby Syndrome. Not only was I curious about his connection
-  to Astrid Lindgren, but I also wanted to know a bit more about the vegan
-  (sound) architect.
-excerpt: Magnus Josefsson's new tape goes by the name "Anette Halbe Stunde". He
-  did it with Anette Records. When I asked him what topics he would like to
-  discuss in our interview, he brought up the Bullerby Syndrome. Not only was I
-  curious about his connection to Astrid Lindgren, but I also wanted to know a
-  bit more about the vegan (sound) architect from Sweden who has worked with so
-  many exceptional artists.
+ogTitle: ''
+description: Magnus Josefsson's new tape goes by the name "Anette Halbe Stunde". When I asked him what topics he would like to discuss in our interview, he brought up the Bullerby Syndrome. Not only was I curious about his connection to Astrid Lindgren, but I also wanted to know a bit more about the vegan (sound) architect.
+excerpt: Magnus Josefsson's new tape goes by the name "Anette Halbe Stunde". He did it with Anette Records. When I asked him what topics he would like to discuss in our interview, he brought up the Bullerby Syndrome. Not only was I curious about his connection to Astrid Lindgren, but I also wanted to know a bit more about the vegan (sound) architect from Sweden who has worked with so many exceptional artists.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-anette-halbe-stunde-jpg-imagine-181818_7a7066_1024_768/640.webp
 copyright: Magnus Josefsson
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/magnus-josefsson-anette-halbe-stunde-1-jpg-imagine-181818_94908c_1200_628/640.webp
@@ -55,7 +46,6 @@ focusKeyword: Anette Halbe Stunde
 advertisement: false
 affiliate: false
 languageLink: /2021/05/magnus-josefsson-anette-halbe-stunde
-
 ---
 
 **When I asked Magnus Josefsson what topics he would like to discuss in our interview, he brought up the Bullerby Syndrome. Not only was I curious about his connection to Astrid Lindgren, but I also wanted to know a bit more about the vegan (sound) architect from Sweden who has worked with so many exceptional artists and lived in Weimar once.**
