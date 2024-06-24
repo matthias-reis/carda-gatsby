@@ -30,7 +30,7 @@ focusKeyword: Tierquälerei in der Modeindustrie
 advertisement: false
 affiliate: false
 language: de
-languageLink: /2022/07/rebecca-capelli-slay-en/
+languageLink: /2022/07/rebecca-cappelli-slay-en/
 ---
 
 **Rebecca Cappelli hat gemeinsam mit Keegan Kuhn eine neue Tierrechtsdoku gedreht. In "Slay" geht es um Tierquälerei in der Modeindustrie. Derzeit finden pro Jahr rund 2,5 Milliarden Tiere für unsere Kleidung den Tod.**

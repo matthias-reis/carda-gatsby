@@ -1,10 +1,9 @@
 ---
 date: 2022-07-19T11:49:48.056Z
 typeName: Preview
-title: 'Documentary "Slay" Showing Animal Cruelty in the Fashion Industry'
+title: Documentary "Slay" Showing Animal Cruelty in the Fashion Industry
 subTitle: The New Film by Rebecca Cappelli and Keegan Kuhn
 seoTitle: Documentary "Slay" by Rebecca Cappelli and Keegan Kuhn shows the cruelty in fashion industry
-description: Rebecca Cappelli and Keegan Kuhn made a new animal rights documentary. "Slay" is about animal cruelty in the fashion industry. Around 2.5 billion animals are currently killed for our clothes every year.
 excerpt: Rebecca Cappelli and Keegan Kuhn have made a new animal rights documentary. "Slay" is about animal cruelty in the fashion industry. Around 2.5 billion animals are currently killed for our clothes every year.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-19/tierquaelerei-in-der-modeindustrie-rebecca-cappelli-leather-made-in-tuscany-jpeg-imagine-080808_4b4332_1024_768/640.webp
 copyright: Rebecca Cappelli, Keegan Kuhn, "Slay"
