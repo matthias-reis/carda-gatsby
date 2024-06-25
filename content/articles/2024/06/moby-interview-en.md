@@ -37,7 +37,7 @@ excerpt: With Moby, I met one of my biggest idols of all time. He inspired me re
 
 ## "Working with these amazing voices for 'Always Centered at Night' was a big inspiration for me"
 
-![Moby. Bild/Picture: © Mike Formanski](https://storage.googleapis.com/cardamonchai-media/2024-06-25/moby-c-mike-formanski-interview-soundsvegan-com-jpg-imagine-280808_5f5744_768_1024/640.webp "Moby. Bild/Picture: © Mike Formanski")
+![Moby. Bild/Picture: © Mike Formanski](https://storage.googleapis.com/cardamonchai-media/2024-06-25/moby-c-mike-formanski-interview-soundsvegan-com-jpg-imagine-280808_5f5744_768_1024/640.webp 'Moby. Bild/Picture: © Mike Formanski')
 
 **Moby:** I just had two inspirations. One was working with these amazing voices. From when I was very young, I always wanted to be a great singer, but I learned early on that I'm not a bad singer, but certainly not a great singer. So, starting in the early '90s, I realized if I wanted to have beautiful voices on my records, I had to work with great vocalists.
 
@@ -53,7 +53,7 @@ I heard some insights about your vegan journey on Moby Pod, especially about the
 
 ## "I had to be a hundred percent vegan"
 
-![Moby](https://storage.googleapis.com/cardamonchai-media/2024-06-25/moby-interview-soundsvegan-com-jpg-imagine-180808_918a8a_768_1024/640.webp "Moby")
+![Moby](https://storage.googleapis.com/cardamonchai-media/2024-06-25/moby-interview-soundsvegan-com-jpg-imagine-180808_918a8a_768_1024/640.webp 'Moby')
 
 **Moby:** Yea! I mean, I went vegetarian in 1984 because, back then, I thought vegetarianism was radical enough. You know, I thought just giving up meat, chicken, and fish was going to be enough because, like many people, I didn't know that producing milk and eggs, especially on an industrial level, is actually worse because the animals are being kept alive, and they're being tortured. So, the book that really inspired me—and in the mid-80s, there wasn't much information—was "Diet for a New America" by John Robbins. That was the one that made me realize I can't just be a vegetarian; I have to be a hundred percent vegan. And, of course, the other book that everyone was inspired by back then was Peter Singer's "Animal Liberation". And then, of course, the sort of well-known people I knew back then. I think that was Dr. Neil Bernard. He had a column in the PETA Newsletter. He was one of the first people I started reading about veganism and health. So, I'd say those three people—John Robbins, Neil Bernard, and Peter Singer—were the first three people I read who actually wrote about veganism back when veganism was so weird that no one even said the word vegan.
 
@@ -81,7 +81,7 @@ You already told me that there lies a lot of nostalgia in your new album, and I 
 
 ## "I always wanted to make music for the love of making music"
 
-![Moby. Bild/Picture: © Lindsay Hicks](https://storage.googleapis.com/cardamonchai-media/2024-06-25/moby-c-lindsay-hicks-interview-soundsvegan-com-2-jpg-imagine-d8d8d8_a6a1a5_768_1024/640.webp "Moby. Bild/Picture: © Lindsay Hicks")
+![Moby. Bild/Picture: © Lindsay Hicks](https://storage.googleapis.com/cardamonchai-media/2024-06-25/moby-c-lindsay-hicks-interview-soundsvegan-com-2-jpg-imagine-d8d8d8_a6a1a5_768_1024/640.webp 'Moby. Bild/Picture: © Lindsay Hicks')
 
 **Moby:** I'm not exactly sure. I just spent my career as a musician, but I don't really have any good insights into my career as a musician. My approach was always just making music for the love of making music that people like, and if they don't like it, that's ok, too. But, you know, I know a lot of musicians, and in order to have a career, they just play one type of music, and I understand that. It definitely makes having a career easier. If you want to tour every year for 30 years, then playing the same kind of music makes it very easy, whilst, in my life, my focus is still trying to make music that seems interesting or that I love, and as a result that means experimenting a lot and not just the need to just make one type of music.
 
@@ -93,7 +93,7 @@ You already told me that there lies a lot of nostalgia in your new album, and I 
 
 **Moby:** I think it's funny because I think, on the one hand, people's attention span is incredibly short—I mean, like a TikTok video might be 30 seconds long—whilst on the other hand, people will sit down and watch every episode of "Game of Thrones" in a row. So, if you ask someone to listen to a new song that's three minutes long, they probably won't because it takes up too much time, but they'll also spend five hours playing "Fortnite". So, I don't think it's an attention span thing. To be honest with you, I don't know what it is, and I don't think anyone does. Living in Los Angeles, you meet so many people who are making movies, TV shows, and different types of content, but the truth is no one knows. No one knows what's happening, and no one really knows what they're doing.
 
-So, our approach is just to constantly be making things—make some big things, make some smaller things, and help people with their projects. A lot of our focus is on helping other people, like funding their projects. Keegan from "Cowspiracy" and "What The Health" is making a new movie, so we are helping him. Rebecca Cappelli made this great movie called "[Slay](/2022/07/rebecca-capelli-slay-en/)", and we helped her. Liz Marshal made "Meat the Future", and we helped her. We also started producing our first scripted feature called "Tecie" together with Mark Webber. It is basically a tragic romance that takes place within the animal rights scene in Los Angeles because documentaries are very important and essential, but people really love stories. And so, what we're trying to do is to figure out a way to tell stories that will appeal to a bigger audience, but have an uncompromising animal rights message within them.
+So, our approach is just to constantly be making things—make some big things, make some smaller things, and help people with their projects. A lot of our focus is on helping other people, like funding their projects. Keegan from "Cowspiracy" and "What The Health" is making a new movie, so we are helping him. Rebecca Cappelli made this great movie called "[Slay](/2022/07/rebecca-cappelli-slay-en/)", and we helped her. Liz Marshal made "Meat the Future", and we helped her. We also started producing our first scripted feature called "Tecie" together with Mark Webber. It is basically a tragic romance that takes place within the animal rights scene in Los Angeles because documentaries are very important and essential, but people really love stories. And so, what we're trying to do is to figure out a way to tell stories that will appeal to a bigger audience, but have an uncompromising animal rights message within them.
 
 **Anne:** So, you wanted to provide a different approach for people to get in touch with the animal rights topic with "Tecie"? I mean different than the vegan documentaries we all know and love, like "Earthlings", "What The Health", and "I Could Never Go Vegan".
 
