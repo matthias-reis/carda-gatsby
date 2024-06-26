@@ -21,7 +21,7 @@ excerpt: Auch, wenn das Bild langsam zu bröckeln beginnt, ist die Milchlobby na
 languageLink: ''
 ---
 
-**Auch, wenn das Bild langsam zu bröckeln beginnt, wie Knochen, denen Kalzium entzogen wird[^1], ist die Milchlobby nach wie vor stark. Das liegt natürlich, vorwiegend an ihren finanziellen Mitteln, mit denen sie es nicht nur schafft, die Menschheit mit ihrer Dauerwerbung à la "die Milch macht's" zu beschallen. In den USA findet jährlich eine Gratis-Milcheis-Party vor dem Weißen Haus statt. Doch dieses Jahr gab es einen Überraschungsgast. Die schwedische Hafermilchmarke Oatly parkte mit einem Foodtruck gegenüber am Randstein und startete kurzerhand eine Gegenveranstaltung.**
+**Auch, wenn das Bild langsam zu bröckeln beginnt, wie Knochen, denen Kalzium entzogen wird[^1], ist die Milchlobby nach wie vor stark. Das liegt natürlich, vorwiegend an ihren finanziellen Mitteln, mit denen sie es nicht nur schafft, die Menschheit mit ihrer Dauerwerbung à la "Die Milch macht's!" zu beschallen. In den USA findet jährlich eine Gratis-Milcheis-Party vor dem Weißen Haus statt. Doch dieses Jahr gab es einen Überraschungsgast. Die schwedische Hafermilchmarke Oatly parkte mit einem Foodtruck gegenüber am Randstein und startete kurzerhand eine Gegenveranstaltung.**
 
 Oatly sorgt zwar immer wieder mit seinen Guerilla-Werbeaktionen für Schlagzeilen, doch mit dieser Aktion hat die Brand ein neues Level erreicht. Damit erntete sie nicht nur unter Veganer\*innen frenetischen Applaus.
 
