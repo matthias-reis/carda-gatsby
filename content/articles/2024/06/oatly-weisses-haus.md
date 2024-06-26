@@ -37,7 +37,7 @@ Die Aktion war ein voller Erfolg. Zahlreiche Neugierige versammelten sich vor de
 
 Mit dem Eis-Truck sollte vordergründig eine breitere Diskussion über die Klimakrise und die Rolle, die unter anderem die Milchlobby darin spielt, angestoßen werden. Experiment gelungen, könnte man sagen – in den USA berichteten am Tag danach zahlreiche Nachrichteoutlets von dem ungebetenen Gast mit dem "anderen Eis".
 
-Oatly Public Affairs Manager Pearson Croney-Clark fand gegenüber der Presse folgende Worte zur Guerilla-Aktion:
+Oatly Public Affairs Managerin Pearson Croney-Clark fand gegenüber der Presse folgende Worte zur Guerilla-Aktion:
 
 > "Wir sind auf den Capitol Hill gegangen, um den jahrzehntelangen Einfluss von Big Dairy auf unsere Regierung und damit auf das amerikanische Volk aufzudecken"
 
