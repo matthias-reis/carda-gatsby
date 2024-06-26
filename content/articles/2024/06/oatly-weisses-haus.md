@@ -13,21 +13,21 @@ labels:
   - Ernährung & Gesundheit
   - Tierrechte
 language: de
-seoTitle: "Oatly: Weißes Haus wird von Guerilla-Aktion überrascht"
+seoTitle: 'Oatly: Weißes Haus wird von Guerilla-Aktion überrascht'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-06-26/oatly-soundsvegan-com-og-jpg-imagine-181818_73726d_1200_628/640.webp
 image: https://storage.googleapis.com/cardamonchai-media/2024-06-26/oatly-soundsvegan-com-c-duncan-cumming-jpg-imagine-181818_63696c_1024_768/640.webp
 imageCopyright: C. Duncan Cumming
 excerpt: Auch, wenn das Bild langsam zu bröckeln beginnt, ist die Milchlobby nach wie vor stark. Das liegt natürlich, vorwiegend an ihren finanziellen Mitteln, mit denen sie es nicht nur schafft, die Menschheit mit ihrer Dauerwerbung à la "die Milch macht's" zu beschallen. In den USA findet jährlich eine Gratis-Milcheis-Party vor dem Weißen Haus statt. Doch dieses Jahr gab es einen Überraschungsgast. Die schwedische Hafermilchmarke Oatly parkte mit einem Foodtruck gegenüber am Randstein und startete kurzerhand eine Gegenveranstaltung.
-languageLink: ""
+languageLink: ''
 ---
 
-**Auch, wenn das Bild langsam zu bröckeln beginnt, wie Knochen, denen Kalzium entzogen wird, ist die Milchlobby nach wie vor stark. Das liegt natürlich, vorwiegend an ihren finanziellen Mitteln, mit denen sie es nicht nur schafft, die Menschheit mit ihrer Dauerwerbung à la "die Milch macht's" zu beschallen. In den USA findet jährlich eine Gratis-Milcheis-Party vor dem Weißen Haus statt. Doch dieses Jahr gab es einen Überraschungsgast. Die schwedische Hafermilchmarke Oatly parkte mit einem Foodtruck gegenüber am Randstein und startete kurzerhand eine Gegenveranstaltung.**
+**Auch, wenn das Bild langsam zu bröckeln beginnt, wie Knochen, denen Kalzium entzogen wird[^1], ist die Milchlobby nach wie vor stark. Das liegt natürlich, vorwiegend an ihren finanziellen Mitteln, mit denen sie es nicht nur schafft, die Menschheit mit ihrer Dauerwerbung à la "die Milch macht's" zu beschallen. In den USA findet jährlich eine Gratis-Milcheis-Party vor dem Weißen Haus statt. Doch dieses Jahr gab es einen Überraschungsgast. Die schwedische Hafermilchmarke Oatly parkte mit einem Foodtruck gegenüber am Randstein und startete kurzerhand eine Gegenveranstaltung.**
 
 Oatly sorgt zwar immer wieder mit seinen Guerilla-Werbeaktionen für Schlagzeilen, doch mit dieser Aktion hat die Brand ein neues Level erreicht. Damit erntete sie nicht nur unter Veganer\*innen frenetischen Applaus.
 
 ## Hafereis ist noch viel cremiger – und tierleidfrei!
 
-![Oatly. Bild/Picture: © Wikimedia Commons](https://storage.googleapis.com/cardamonchai-media/2024-06-26/oatly-soundsvegan-com-c-wikimedia-commons-jpg-imagine-080808_7d7773_1024_768/640.webp "Oatly. Bild/Picture: © Wikimedia Commons")
+![Oatly. Bild/Picture: © Wikimedia Commons](https://storage.googleapis.com/cardamonchai-media/2024-06-26/oatly-soundsvegan-com-c-wikimedia-commons-jpg-imagine-080808_7d7773_1024_768/640.webp 'Oatly. Bild/Picture: © Wikimedia Commons')
 
 Die International Dairy Foods Association (IDFA) veranstaltet ihre Eisparty seit 1983 – Zeit, das Traditionsevent endlich mal ordentlich aufzumischen und den Menschen zu präsentieren, wie lecker, tierleidfrei, klimaschonend und gesund schmeckt, dachte sich Oatly.
 
@@ -45,7 +45,7 @@ Auf dem grellgelben Truck mit der riesigen Eistüte auf dem Dach prangten in den
 
 ## Geld fließt in die Milchindustrie statt in den Klimaschutz
 
-![Oatly. Bild/Picture: © C. Can Pack Swire](https://storage.googleapis.com/cardamonchai-media/2024-06-26/oatly-soundsvegan-com-c-can-pack-swire-jpg-imagine-080808_403e39_1024_768/640.webp "Oatly. Bild/Picture: © C. Can Pack Swire")
+![Oatly. Bild/Picture: © C. Can Pack Swire](https://storage.googleapis.com/cardamonchai-media/2024-06-26/oatly-soundsvegan-com-c-can-pack-swire-jpg-imagine-080808_403e39_1024_768/640.webp 'Oatly. Bild/Picture: © C. Can Pack Swire')
 
 Einer der Hauptgründe für den steigenden Unmut in der veganen Klimaschutzbewegung ist die Tatsache, dass nach wie vor Geld in die Milchindustrie gesteckt wird. So gab etwa das sogenannte Dairy Checkoff-Programm in den USA zwischen 2016 und 2022 rund 1,6 Milliarden Dollar für Marketing aus. Bei dem Programm handelt es sich um einen USA-weiten Zusammenschluss von Milchprodukten, Ernährungserziehung(!) und Forschung.
 
@@ -63,10 +63,12 @@ Statements auf dem Oatly Ice Cream Truck verdeutlichten diese Worte. So stand do
 
 ## "Wir wollen die Belastung der Erde durch Milch beenden!"
 
-![Oatly im Regal bei Ikea.](https://storage.googleapis.com/cardamonchai-media/2024-06-26/oatly-ikea-soundsvegan-com-jpg-imagine-d8c8b8_94826b_1024_768/640.webp "Oatly im Regal bei Ikea.")
+![Oatly im Regal bei Ikea.](https://storage.googleapis.com/cardamonchai-media/2024-06-26/oatly-ikea-soundsvegan-com-jpg-imagine-d8c8b8_94826b_1024_768/640.webp 'Oatly im Regal bei Ikea.')
 
 Oatly setzt sich seit seiner Gründung für einen klimaschonenden Umgang mit Lebensmitteln ein. Auch Pearson Croney-Clark ist überzeugt:
 
 > "Der Verzicht auf Fleisch und Milchprodukte ist eine der einfachsten Möglichkeiten unsere Klimabilanz als Individuen. zu verbessern. Da jedoch die Milchlobby die Auswirkungen ihrer Produkte nicht transparent macht, verstehen viele Menschen nicht die wahre Rolle, der Branche in unserer Klimakrise."
 
 Oatly möchte Hafermilchmarke daher nicht ausschließlich seine Produkte weltweit bekannt zu machen – auch, wenn Aktionen, wie die mit dem Eis-Truck, natürlich dazu beitragen. Das Klima und die Umwelt bleiben dabei immer im Fokus und das erklärte Ziel lautet, die Belastung des Planeten durch Milch in den nächsten zehn Jahren zu beenden. Einen guten Anfang hat die schwedische Hafermilchbrand auf jeden Fall gemacht und wir dürfen gespannt sein, was als Nächstes kommt. Ich lasse mir jetzt auf jeden Fall erst mal meinen Iced Latte mit Haferdrink schmecken – hm, ist der cremig! 😍
+
+[^1]: In wissenschaftlichen Studien haben Forschende herausgefunden, dass Milch den Knochen auf Dauer Kalzium entzieht. Besonders im Alter ist das gefährlich und steigert unter anderem das Osteoporose-Risiko (Es ist in den Ländern, mit den größten Milchkonsum am höchsten). Das hängt unter anderem mit dem tierischen Protein zusammen, das zu Übersäuerung führen kann – der Körper versucht das mit Kalzium auszugleichen und es kann zu Karies, brüchigen Knochen, Muskelübersäuerung und sogar zu Herzrythmusstörungen und Herzmuskelproblemmen kommen. [BMJ Research: "Milk intake and risk of mortality and fractures in women and men: cohort studies"](https://www.bmj.com/content/349/bmj.g6015)
