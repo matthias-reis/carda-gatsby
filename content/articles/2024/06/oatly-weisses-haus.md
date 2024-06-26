@@ -1,6 +1,6 @@
 ---
 date: 2024-06-26T09:55:48.888Z
-title: Oatly stielt der Milchlobby die Show
+title: Oatly stiehlt der Milchlobby die Show
 subTitle: Die Gegenveranstaltung zur Gratis-Milcheis-Party vor dem Weißen Haus
 type: article
 typeName: Artikel
