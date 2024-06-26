@@ -1,8 +1,6 @@
 ---
 ogTitle: Die ultimative vegane Festivalliste – mit Gratis-Download
-excerpt: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es
-  ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und
-  Lesen!
+excerpt: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und Lesen!
 ogImage: null
 isAffiliate: false
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQQHCP/EACgQAAIBAwMEAQQDAAAAAAAAAAECAwQFEQASIQYTMUEiB1FhcSNCYv/EABgBAAMBAQAAAAAAAAAAAAAAAAEEBQAD/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAxEhMQTwEoHB/9oADAMBAAIRAxEAPwDnm00ymyTzS0as3dXsVQfBVgDujIz7BBz/AJ496drr0tBdrZdrqahoKO1wRKGJEhnqpfkw9EZyx94A1rO3yduoVjnb/bGryqNRKqYmJjlxIwyB8toHI4HgaUqBg17y9xHRqeVvrvfkefprarFeunLtabnNJC1RsaEjB7dQivyPeGDLxnGQfsCEXqya2rLNDb6Vu48+8zyMS23Ynxx4B3FyT+tMfTHT1WKGetp6wdvb/IsahnideUY+eM4z+CdVv1fs9JZOua6it9VFU06iORZImDD5IGxkexnGhSN3OcTpy0elxxcWPrUS45ShGAOPwDqRqyWRlLlTt8Dbxo0ab8RuQxUYYBk6XarjgeFJiInO5gvG7941jPO8hBdgScDx9tGjWCgaELV6j4Ykz//Z
@@ -14,9 +12,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03
 title: Die ultimative vegane Festivalliste
 subTitle: Mit Gratis-Download zum Ausdrucken
 seoTitle: Die ultimative vegane Festivalliste – mit Gratis-Download
-description: Einige vegan lebende Musikfans haben mich darauf aufmerksam
-  gemacht, es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim
-  Planen und Lesen!
+description: Einige vegan lebende Musikfans haben mich darauf aufmerksam gemacht, es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim Planen und Lesen!
 labels:
   - Ausstattung Festival
   - die ultimative Festivalliste
@@ -36,7 +32,6 @@ labels:
   - vegane Packliste Festival
   - vegane Festival-Packliste
 language: de
-
 ---
 
 **Seit Jahren schon findet meine Festivalliste regen Anklang. Jahr für Jahr optimiere ich sie, schraube daran herum, fahre wieder auf Festivals, bemerke, was ich weglassen, was hinzufügen kann und im nächsten Jahr gibt es wieder eine neue Liste.**
@@ -131,7 +126,7 @@ Auch, was das vegane Angebot an den diversen Essenständen angeht, haben die mei
 46. Kopfbedeckung gegen Sonnenbrand (Wenn der Sonnenstich droht: Einfach nass machen und umhängen).
 47. Brandsalbe (hilft auch gegen Mückenstiche und Sonnenbrand),
 48. Feuchte Babytücher oder Abschminktücher (Falls die Dusche mal klemmt und zum Loswerden der Festival-typischen Panda-Augen am nächsten Morgen),
-49. transportabler Schminkspiegel (Wenn Ihr morgens im Zelt aufwacht und am Vortag echt keine Lust mehr Wasserhahn oder mit dem Wasserkanister duschen.
+49. transportabler Schminkspiegel (Wenn Ihr morgens im Zelt aufwacht und am Vortag echt keine Lust mehr Wasserhahn oder mit dem Wasserkanister duschen),
 50. Klopapier (In Dixie-Klos ist selten welches drin),
 51. Desinfektionsgel,
 52. Mandeln (nicht nur als Zwischendurch-Snack, die Dinger helfen auch gut gegen evtl. auftretenden Kater, einfach ein paar davon kauen, dann spart Ihr Euch die Aspirin, die im nächsten Punkt trotzdem auf meiner Liste landen, sicher ist sicher).
@@ -159,7 +154,7 @@ Auch, was das vegane Angebot an den diversen Essenständen angeht, haben die mei
 74. Ausgedruckten Timetable (sehr praktisch, falls das mobile Internet zwischendurch plötzlich weg ist).
 75. Lageplan,
 76. Taschenlampe,
-77. Räucherstäbchen gegen diverse seltsame Düfte ,
+77. Räucherstäbchen gegen diverse seltsame Düfte,
 78. Feuerzeuge,
 79. Batterien für Eure elektrischen Devotionalien.
 80. Packt das Navi und den Wohnungsschlüssel ins Handschuhfach, wenn Ihr aufs Gelände geht. Ich könnte Euch jetzt die wüstesten Geschichten von verlorenen Schlüsseln erzählen, aber ich lasse es.
@@ -173,4 +168,4 @@ Auch, was das vegane Angebot an den diversen Essenständen angeht, haben die mei
 
 Gegessen wird natürlich stilecht aus dem Kochtopf, den Ihr weiter oben in der Liste ja schon gefunden habt. Viel Spaß beim Packen! Gebt Bescheid, sollte auf der Liste noch was Wichtiges fehlen, ich füge es gerne hinzu. In diesem Sinne: Weiterrocken!
 
-<FestivalList link="/img/vegane-festivalliste.pdf" />
+<FestivalList link="/img/vegane-festivalliste-soundsvegan-com.pdf" />
