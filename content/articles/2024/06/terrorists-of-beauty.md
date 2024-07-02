@@ -57,7 +57,7 @@ Besonders unterwegs hat mich das Blockformat sehr überzeugt: Ich brauche nur ei
 
 Das Motto von Terrorists of Beauty lautet "The Beauty of Less" also so viel wie "Weniger ist mehr". In meinen Augen geht dieses Konzept voll auf. Mit den Blocks für die verschiedensten Anwendungsmöglichkeiten räumt die Brand das Badezimmer auf und sorgt dafür, dass unnötiges Plastik und überflüssige Produkte der Vergangenheit angehören.
 
-Bei der Gründung 2018 in Hamburg setzten sich die Terrorists of Beauty aka Natalie Richter und Mar Navajas Garcia unter anderem das Ziel, echte Nachhaltigkeit ins Badezimmer zu holen. Die beiden bezeichnen ihr Start-up stolz als "Antibrand" und haben mit ihren Seifen, Blocks und Co. die Beauty-Szene ganz schön aufgewirbelt. Inzwischen findet Ihr sie neben dem Onlineshop übrigens auch in zahlreichen Drogeriemärkten, Apotheken und Konzeptstores.
+Bei der Gründung 2018 in Hamburg setzten sich die Terrorists of Beauty aka Natalie Richter und Mar Navajas Garcia unter anderem das Ziel, echte Nachhaltigkeit ins Badezimmer zu holen. Die beiden bezeichnen ihr Start-up stolz als "Antibrand" und haben mit ihren Seifen, Blocks & Co. die Beauty-Szene ganz schön aufgewirbelt. Inzwischen findet Ihr sie neben dem Onlineshop übrigens auch in zahlreichen Drogeriemärkten, Apotheken und Konzeptstores.
 
 ---
 
