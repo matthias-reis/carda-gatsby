@@ -12,6 +12,10 @@ labels:
   - vegan Beauty
   - Haarseife
   - Hamburg
+  - Fair Fashion & Beauty
+  - Zero Waste
+  - Less Waste
+  - Seife
 language: de
 advertisement: true
 affiliate: true
