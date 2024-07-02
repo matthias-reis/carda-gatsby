@@ -3,8 +3,8 @@ date: 2024-04-18T13:00:12.086Z
 typeName: Produkttest
 title: PHB Ethical Beauty 2-in-1 Shampoo & Body Wash
 subTitle: Veganes Shampoo und Duschgel für empfindliche Haut
-seoTitle: PHB Ethical Beauty – vegane Beautyprodukte für empfindliche Haut
-description: PHB Ethical Beauty stellt in Großbritannien vegane Beautyprodukte mit schonenden Inhaltsstoffen her. Holt Euch hier alle Infos zu Ihrer Wirkung und wo Ihr sie bekommt!
+seoTitle: PHB Ethical Beauty – vegane Beauty-Produkte für empfindliche Haut
+description: PHB Ethical Beauty stellt in Großbritannien vegane Beauty-Produkte mit schonenden Inhaltsstoffen her. Holt Euch hier alle Infos zu Ihrer Wirkung und wo Ihr sie bekommt!
 excerpt: PHB Ethical Beauty Bodywash ist ein Shampoo und Duschgel ohne Parfum. Die Brand aus Großbritannien hat es speziell für empfindliche Haut konzipiert. Das Produkt ist selbstverständlich vegan und weil ich es so gerne nutze, stelle ich Euch heute mal die Brand vor und erzähle Euch, wo ich sie entdeckt habe und was mir daran so gut gefällt.
 image: https://storage.googleapis.com/cardamonchai-media/2024-04-18/phb-body-wash-soundsvegan-com-1-jpg-imagine-f8f8f8_a79280_1024_768/640.webp
 copyright: null
