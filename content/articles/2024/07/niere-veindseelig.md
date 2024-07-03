@@ -23,10 +23,10 @@ labels:
   - Plant Core
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-07-03/niere-veindeseelig-soundsvegan-com-jpg-imagine-581808_975f0e_1024_768/640.webp
-seoTitle: Moby im Interview über Veganismus und sein neues Album
+seoTitle: Vegan Core von Niere jetzt die neue Mini-LP hören!
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-07-03/niere-veindeseelig-soundsvegan-com-og-jpg-imagine-581808_82490b_1200_628/640.webp
-imageCopyright: Lindsay Hicks, Moby
-languageLink: /2024/06/moby-interview-en
+imageCopyright: Niere
+languageLink:
 excerpt: Niere aus Nettesheim macht Vegan Core wie er sein sollte – hart, direkt und ohne Umschweife. Als vegan lebender Mensch fühlt man sich von der Musik verstanden, hat Lust die Lyrics mitzubrüllen und möchte die Songs am liebsten in Dauerschleife hören. Ich war sofort angezündet und bin gespannt, ob es Euch auch so geht!
 focusKeyword: Vegan Core
 ---
