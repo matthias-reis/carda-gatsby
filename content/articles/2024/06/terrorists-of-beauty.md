@@ -1,5 +1,5 @@
 ---
-date: 2024-07-02T14:30:32.966Z
+date: 2024-06-30T14:30:32.966Z
 title: Vegane Zero Waste Beauty-Produkte von Terrorists of Beauty aus Hamburg
 subTitle: Hair, Face & Body – Block 003 und Block Zero getestet
 type: article
