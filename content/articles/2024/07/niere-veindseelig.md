@@ -31,11 +31,13 @@ excerpt: Niere aus Nettesheim machen Vegan Core wie er sein sollte – hart, dir
 focusKeyword: Vegan Core
 ---
 
-**"Nierenspende mal anders" steht auf der Website der Vegan Core Band Niere aus Nettesheim. Düsterer Humor, Musikalität und Veganismus – auf diesen Grundpfeilern steht das Projekt des Vollblutgitarristen und Sängers, der seit seinem 15. Lebensjahr immer wieder neue Bandprojekte startet und neben Niere unter anderem auch mit Sattelhorn musikalisch unterwegs ist.**
+**"Nierenspende mal anders" steht auf der Website des Vegan Core Projekts Niere aus Nettesheim. Düsterer Humor, Musikalität und Veganismus – auf diesen Grundpfeilern steht die neueste Band des Vollblutgitarristen und Sängers Niere, der seit seinem 15. Lebensjahr immer wieder neue Bandprojekte startet und neben Niere unter anderem auch mit Sattelhorn musikalisch unterwegs ist.**
 
 > "Bei mir dreht sich alles um meine vegane Lebensweise!"
 
-schreibt mir Niere und gleich beim ersten Hören der aktuellen Platte seiner Band bin ich ziemlich angezündet und möchte dringend mehr erfahren. "Veindseelig" heißt die neue Platte und die Songtitel sind nicht weniger kreativ.
+schreibt mir Niere und gleich beim ersten Hören der aktuellen Platte seines Projekts bin ich ziemlich angezündet und möchte dringend mehr erfahren. "Veindseelig" heißt die neue Platte und die Songtitel sind nicht weniger kreativ. Bei seinem Projekt spielt und singt er bis auf das Schlagzeug alles selbst ein.
+
+Nach „(V)einstellung“ und „(V)eindselig“ habe ich gerade mit meinem dritten veganen Projekt begonnen. Es trägt den Titel „(V)eltherrschaft“. Allerdings wird es noch eine Weile dauern, bis es fertig ist. Gestern ist das Cover-Layout entstanden und der erste Titel eingespielt worden.
 
 ## Vegan Core vom Feinsten
 
@@ -53,9 +55,9 @@ Niere brüllt den Ärger über unsere kalte Welt in die Nacht hinaus und nimmt d
 
 ## Niere jetzt anhören und dem Ärger über die Selbstverständlichkeit der Omnis Luft machen
 
-Beim Hören kann man so richtig schön die Seele baumeln lassen und sich mit Gleichgesinnten über die Treffgenauigkeit seiner Lyrics und die Wut seiner Band erfreuen. Und gleichzeitig selbst seinem Ärger (manchmal auch seiner Hilflosigkeit) in dieser Welt voller Selbstgerechtigkeit und Selbstverständlichkeit gegenüber der omnipräsenten Tierausbeutung und Klimazerstörung ein bisschen Luft machen.
+Beim Hören kann man so richtig schön die Seele baumeln lassen und sich mit Gleichgesinnten über die Treffgenauigkeit seiner Lyrics und der spürbaren Wut erfreuen. Und gleichzeitig selbst seinem Ärger (manchmal auch seiner Hilflosigkeit) in dieser Welt voller Selbstgerechtigkeit und Selbstverständlichkeit gegenüber der omnipräsenten Tierausbeutung und Klimazerstörung ein bisschen Luft machen.
 
-Wenn Ihr auf der Suche nach harten metallischen Klängen seid, die Ihr in einem Rutsch mit [Arch Enemy](/2024/03/i-could-never-go-vegan-alissa-white-gluz/) und Gojira hören könnt: Hier ist Eure Playlistergänzung. Hört am besten direkt rein, Ihr findet Niere und auch die neue Mini-LP "Veindseelig" unter anderem auf Bandcamp und Spotify. Ich verlinke sie Euch natürlich direkt, damit Ihr nicht viel zu klicken braucht.
+In Zukunft werden wir sicher noch mehr von Niere hören. Der Musiker nimmt heute nur noch gelegentlich an einer Bandsession teil und verbringt seine Zeit heute meist im Studio, wo er an neuen Stücken feilt. Wenn Ihr auf der Suche nach harten metallischen Klängen seid, die Ihr in einem Rutsch mit [Arch Enemy](/2024/03/i-could-never-go-vegan-alissa-white-gluz/) und Gojira hören könnt: Hier ist Eure Playlistergänzung. Hört am besten direkt rein, Ihr findet Niere und auch die neue Mini-LP "Veindseelig" unter anderem auf Bandcamp und Spotify. Ich verlinke sie Euch natürlich direkt, damit Ihr nicht viel zu klicken braucht.
 
 <iframe
   style="border: 0; width: 100%; height: 120px;"
