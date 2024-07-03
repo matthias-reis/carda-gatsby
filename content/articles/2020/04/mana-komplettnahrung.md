@@ -55,12 +55,12 @@ Eine Portionsgröße enthält 400 Kalorien - genau richtig für ein leichtes Mit
   Algenprotein), Maltodextrin, pflanzliche Öle (Rapsöl, Mikroalgenöl
   Schizochytrium sp., kaltgepresstes Kokosöl, Sonnenblumenöl, Haferöl,
   kaltgepresstes Leinöl, Vitamin E, Vitamin K1), Betaglucane aus Hafer,
-  Isomaltulose\*\*\*, Inluin, Möhrenfaser, Emulgator (Sojalecithin),
-  Stabilisator (Gummi Arabicum, Xanthan), Vitamine und Mineralien
-  (Natriumchlorid, Kaliumcitrat, Kaliumchlorid, Vitamin A, Thiamin, Riboflavin,
-  Niacin, Pantothensäure, Vitamin B6, Biotin, Folsäure, Vitamin B12, Vitamin C,
-  Vitamin D2), Süßstoff (Sucralose), Aroma. ⋆⋆⋆Isomaltulose ist eine Glukose-
-  und Fructosequelle.
+  Isomaltulose***, Inluin, Möhrenfaser, Emulgator (Sojalecithin), Stabilisator
+  (Gummi Arabicum, Xanthan), Vitamine und Mineralien (Natriumchlorid,
+  Kaliumcitrat, Kaliumchlorid, Vitamin A, Thiamin, Riboflavin, Niacin,
+  Pantothensäure, Vitamin B6, Biotin, Folsäure, Vitamin B12, Vitamin C, Vitamin
+  D2), Süßstoff (Sucralose), Aroma. ⋆⋆⋆Isomaltulose ist eine Glukose- und
+  Fructosequelle.
 </small>
 
 Ein Paket mit 35 Portionen in sieben Beuteln á 5 Portionen (also je 2001 Kalorien) kostet 55 Euro. Pro Portion zahlt man also 1,57 Euro. Ein Monatsabo ist möglich.
