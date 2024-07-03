@@ -25,7 +25,7 @@ isAffiliate: false
 language: de
 subTitle: Flüssigmahlzeit im Test
 advertisement: true
-affiliate: true
+affiliate: false
 ---
 
 **Ich habe die Komplettnahrung von Mana ausprobiert. Damit kann man ganz elegant einzelne Mahlzeiten ersetzen und soll dennoch alle Vitamine und Nährstoffe bekommen. Hier ist mein Fazit.**
