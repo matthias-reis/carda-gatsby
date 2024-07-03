@@ -14,6 +14,7 @@ labels:
   - Musik
   - Nettesheim
   - Vegan Celebrities
+  - Vegane Musik
   - Veganismus
   - Vegane Bands
   - Animal Rights
