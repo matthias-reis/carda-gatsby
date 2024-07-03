@@ -49,7 +49,7 @@ heißt es da und
 
 Die Songs heißen "Ökologie", "Klimaaktivist", "Bescheuert besteuert", "Futtermittel" und "Milch". Sie handeln von der sinnlosen höheren Besteuerung auf tier- und klimafreundliche vegane Lebensmittel, der Grausamkeit der [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-bloss/) und der Macht der Fleischkonzerne und Lobbys.
 
-Niere brüllt seinen Ärger in die Nacht unserer kalten Welt hinaus und nimmt dabei kein Blatt vor den Mund. Das treibende Tempo, die prügelnden Drums und das dramatische Gitarrenspiel verstärken seine Rufe nach Befreiung.
+Niere brüllt den Ärger über unsere kalte Welt in die Nacht hinaus und nimmt dabei kein Blatt vor den Mund. Das treibende Tempo, die prügelnden Drums und das dramatische Gitarrenspiel verstärken seine Rufe nach Befreiung.
 
 ## Niere jetzt anhören und dem Ärger über die Selbstverständlichkeit der Omnis Luft machen
 
