@@ -31,7 +31,7 @@ excerpt: Niere aus Nettesheim macht Vegan Core wie er sein sollte – hart, dire
 focusKeyword: Vegan Core
 ---
 
-**"Nierenspende mal anders" steht auf der Website des Vegan Core Projekts Niere aus Nettesheim. Düsterer Humor, Musikalität und Veganismus – auf diesen Grundpfeilern steht die neueste Band des Vollblutgitarristen und Sängers Niere, der seit seinem 15. Lebensjahr immer wieder neue Bandprojekte startet und neben Niere unter anderem auch mit Sattelhorn musikalisch unterwegs ist.**
+**"Nierenspende mal anders" steht auf der Website des Vegan Core Projekts Niere aus Nettesheim. Alle Songs stehen dort kostenlos zum Download zur Verfügung. Düsterer Humor, Musikalität und Veganismus – auf diesen Grundpfeilern steht die neueste Band des Vollblutgitarristen und Sängers Niere, der seit seinem 15. Lebensjahr immer wieder neue Bandprojekte startet und neben Niere unter anderem auch mit Sattelhorn musikalisch unterwegs ist.**
 
 > "Bei mir dreht sich alles um meine vegane Lebensweise!"
 
