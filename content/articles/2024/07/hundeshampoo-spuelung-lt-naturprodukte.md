@@ -15,6 +15,7 @@ labels:
   - Hunde
   - Vegane Produkte
   - Hundepflege
+  - Lavaerde
 language: de
 advertisement: true
 affiliate: true
