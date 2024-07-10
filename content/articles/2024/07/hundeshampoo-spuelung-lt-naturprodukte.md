@@ -16,6 +16,7 @@ labels:
   - Vegane Produkte
   - Hundepflege
   - Lavaerde
+  - Tiershampoo
 language: de
 advertisement: true
 affiliate: true
