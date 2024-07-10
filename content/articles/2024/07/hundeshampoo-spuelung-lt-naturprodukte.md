@@ -8,7 +8,7 @@ description: Hundeshampoo ist häufig nicht so natürlich, wie es auf der Packun
 labels:
   - Veganes Hundeshampoo
   - Vegan
-  - Hundespülung
+  - Hundeshampoo
   - Hundespülung
   - Fair Fashion & Beauty
   - Hund
