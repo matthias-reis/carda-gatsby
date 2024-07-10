@@ -22,7 +22,7 @@ advertisement: true
 affiliate: true
 productsProvided: true
 image: https://storage.googleapis.com/cardamonchai-media/2024-07-10/hundeshampoo-soundsvegan-com-1-jpg-imagine-080808_60643c_1024_768/640.webp
-seoTitle: Vegan Core von Niere jetzt die neue Mini-LP hören!
+seoTitle: Hundeshampoo – vegan und natürlich – jetzt ausprobieren!
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-07-10/hundeshampoo-soundsvegan-com-og-jpg-imagine-080808_626456_1200_628/640.webp
 imageCopyright:
 languageLink:
