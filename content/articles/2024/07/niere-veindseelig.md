@@ -1,6 +1,6 @@
 ---
 date: 2024-07-03T10:51:06.561Z
-title: Vegan Core aus Nettesheim
+title: Vegan Core aus Nettersheim
 subTitle: 'Niere stellt Mini-LP "Veindseelig" vor'
 type: article
 typeName: Review
@@ -12,7 +12,6 @@ labels:
   - Bands
   - Music
   - Musik
-  - Nettesheim
   - Vegan Celebrities
   - Vegane Musik
   - Veganismus
@@ -27,17 +26,17 @@ seoTitle: Vegan Core von Niere jetzt die neue Mini-LP hören!
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-07-03/niere-veindeseelig-soundsvegan-com-og-jpg-imagine-581808_82490b_1200_628/640.webp
 imageCopyright: Niere
 languageLink:
-excerpt: Niere aus Nettesheim macht Vegan Core wie er sein sollte – hart, direkt und ohne Umschweife. Als vegan lebender Mensch fühlt man sich von der Musik verstanden, hat Lust die Lyrics mitzubrüllen und möchte die Songs am liebsten in Dauerschleife hören. Ich war sofort angezündet und bin gespannt, ob es Euch auch so geht!
+excerpt: Niere aus Nettersheim macht Vegan Core wie er sein sollte – hart, direkt und ohne Umschweife. Als vegan lebender Mensch fühlt man sich von der Musik verstanden, hat Lust die Lyrics mitzubrüllen und möchte die Songs am liebsten in Dauerschleife hören. Ich war sofort angezündet und bin gespannt, ob es Euch auch so geht!
 focusKeyword: Vegan Core
 ---
 
-**"Nierenspende mal anders" steht auf der Website des Vegan Core Projekts Niere aus Nettesheim. Alle Songs stehen dort kostenlos zum Download zur Verfügung. Düsterer Humor, Musikalität und Veganismus – auf diesen Grundpfeilern steht die neueste Band des Vollblutgitarristen und Sängers Niere, der seit seinem 15. Lebensjahr immer wieder neue Bandprojekte startet und neben Niere unter anderem auch mit Sattelhorn musikalisch unterwegs ist.**
+**"Nierenspende mal anders" steht auf der Website des Vegan Core Projekts Niere aus Nettersheim. Alle Songs stehen dort kostenlos zum Download zur Verfügung. Düsterer Humor, Musikalität und Veganismus – auf diesen Grundpfeilern steht die neueste Band des Vollblutgitarristen und Sängers Niere, der seit seinem 15. Lebensjahr immer wieder neue Bandprojekte startet und neben Niere unter anderem auch mit Sattelhorn musikalisch unterwegs ist.**
 
 > "Bei mir dreht sich alles um meine vegane Lebensweise!"
 
 schreibt mir Niere und gleich beim ersten Hören der aktuellen Platte seines Projekts bin ich ziemlich angezündet und möchte dringend mehr erfahren. "Veindseelig" heißt die neue Platte und die Songtitel sind nicht weniger kreativ. Bei seinem Projekt spielt und singt er bis auf das Schlagzeug alles selbst ein.
 
-Nach „(V)einstellung“ und „(V)eindselig“ habe ich gerade mit meinem dritten veganen Projekt begonnen. Es trägt den Titel „(V)eltherrschaft“. Allerdings wird es noch eine Weile dauern, bis es fertig ist. Gestern ist das Cover-Layout entstanden und der erste Titel eingespielt worden.
+Nach „(V)einstellung“ und „(V)eindselig“ habe ich gerade mit meinem vierten veganen Projekt begonnen. Es trägt den Titel „(V)eltherrschaft“. Allerdings wird es noch eine Weile dauern, bis es fertig ist. Gestern ist das Cover-Layout entstanden und der erste Titel eingespielt worden.
 
 ## Vegan Core vom Feinsten
 
@@ -47,7 +46,7 @@ Textmäßig gibt es ganz Vegan Core im Stil von Oli Sykes (Bring Me The Horizon)
 
 heißt es da und
 
-> "Dein Hunger schreit nach Vergeltung"
+> "Dein Karma schreit nach Vergeltung"
 
 Die Songs heißen "Ökologie", "Klimaaktivist", "Bescheuert besteuert", "Futtermittel" und "Milch". Sie handeln von der sinnlosen höheren Besteuerung auf tier- und klimafreundliche vegane Lebensmittel, der Grausamkeit der [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-bloss/) und der Macht der Fleischkonzerne und Lobbys.
 
