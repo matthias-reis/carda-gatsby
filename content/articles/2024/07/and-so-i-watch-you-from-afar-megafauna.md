@@ -52,7 +52,7 @@ Die folgenden Worte findet Rory Friers von And So I Watch You From Afar zum Song
 
 ## "Do Mór"
 
-Der Track "Do Mór" beginnt klassisch Post-Rock-like ruhig und rhythmisch, entlädt sich aber sehr bald in einem Wechselbad der Gefühle. Melodisch ist das Stück ein Hochgenuss. Es gibt Math-Rock-Andeutungen und Percussion-Momente zum Dahinschmelzen und die Gitarrenarbeit ist einfach Top-Level! Großartig, fantastisch, zum Verlieben und für immer behalten!
+Der Track "Do Mór" beginnt klassisch Post-Rock-like ruhig und rhythmisch, entlädt sich aber sehr bald in einem Wechselbad der Gefühle. Nicht nur melodisch ist das Stück ein Hochgenuss. Es gibt Math-Rock-Andeutungen und Percussion-Momente zum Dahinschmelzen und die Gitarrenarbeit ist einfach Top-Level! Großartig, fantastisch, zum Verlieben und für immer behalten!
 
 <YouTube id="zyl24yWe2fk" />
 

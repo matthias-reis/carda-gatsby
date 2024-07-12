@@ -52,7 +52,7 @@ And So I Watch You From Afar's Rory Friers found the following words for the son
 
 ## "Do Mór"
 
-The track "Do Mór" starts calm and rhythmic in a classic post-rock manner but very soon discharges into a rollercoaster of emotions. Melodically, the track is a special treat. There are math-rock hints and percussion moments to melt away, and the guitar work is simply top-level! Great, fantastic, to fall in love with and to keep forever!
+The piece "Do Mór" starts calm and rhythmic in a classic post-rock manner but very soon discharges into a rollercoaster of emotions. Not only melodically, the track is a special treat. There are math-rock hints and percussion moments to melt away, and the guitar work is simply top-level! Great, fantastic, to fall in love with and to keep forever!
 
 <YouTube id="zyl24yWe2fk" />
 
