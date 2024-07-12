@@ -44,7 +44,7 @@ But now, to the three pre-released songs. At this point, I'd love to share what 
 
 And So I Watch You From Afar's Rory Friers found the following words for the song "North Coast Megafauna":
 
-> "One of our favourite tracks on the record. A love letter to the North Coast, our friends there, the energy, the cold days skateboarding, the long summers in the sea, our beloved music venue, the closeness of it all. It has the heart of the land there with the weight of the North Atlantic."
+> "North Coast Mega Fauna is one of our favourite tracks on the record. A love letter to the North Coast, our friends there, the energy, the cold days skateboarding, the long summers in the sea, our beloved music venue, the closeness of it all. It has the heart of the land there with the weight of the North Atlantic."
 
 <YouTube id="9R3glhZ_NDE" />
 

@@ -44,7 +44,7 @@ Doch nun zu den drei bereits vorausgekoppelten Songs. Ich möchte an dieser Stel
 
 Die folgenden Worte findet Rory Friers von And So I Watch You From Afar zum Song "North Coast Megafauna":
 
-> "Einer unserer Lieblingstracks auf der Platte. Ein Liebesbrief an die Nordküste, unsere Freunde dort, die Energie, die kalten Tage beim Skateboarden, die langen Sommer am Meer, unser geliebtes Musiklokal, die Nähe von allem. Es hat das Herz des Landes dort mit dem Gewicht des Nordatlantiks."
+> "North Coast Mega Fauna ist einer unserer Lieblingstracks auf der Platte. Ein Liebesbrief an die Nordküste, unsere Freunde dort, die Energie, die kalten Tage beim Skateboarden, die langen Sommer am Meer, unser geliebtes Musiklokal, die Nähe von allem. Es hat das Herz des Landes dort mit dem Gewicht des Nordatlantiks."
 
 <YouTube id="9R3glhZ_NDE" />
 
