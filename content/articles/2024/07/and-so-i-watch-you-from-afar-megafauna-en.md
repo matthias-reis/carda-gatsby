@@ -32,7 +32,7 @@ You can already check out three pre-released songs, and of course, I'm adding th
 
 1. ["North "Coast Megafauna" (Track 1)](#north-coast-megafauna)
 2. ["Do Mór" (Track 2)](#do-mor)
-3. ["Years Ago" (Track 6) (Track 2)](#years-ago)
+3. ["Years Ago" (Track 6)](#years-ago)
 
 "Megafauna" is a tribute to the two places the band members call their homes: Portrush on the beautiful north coast of Ireland and the cultural centre, metropolis and boiling pot of Belfast. The album sounds beautifully familiar and is full of warmth, love, and humour. As a result, ASIWYFA's latest work actually sounds very much like what coming home should feel like. You can definitely hear that the collective is firmly rooted in its base.
 

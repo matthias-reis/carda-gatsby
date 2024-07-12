@@ -32,7 +32,7 @@ Drei der Songs könnt Ihr bereits hören, ich teile sie natürlich mit Euch. Sie
 
 1. ["North "Coast Megafauna" (Track 1)](#north-coast-megafauna)
 2. ["Do Mór" (Track 2)](#do-mor)
-3. ["Years Ago" (Track 6) (Track 2)](#years-ago)
+3. ["Years Ago" (Track 6)](#years-ago)
 
 "Megafauna" ist eine Hommage an die beiden Orte, aus denen die Band stammt: Portrush an der irischen Nordküste und die Metropole Belfast. Das Album klingt vertraut und steckt voller Wärme, Liebe und Humor. Ein wenig hört sich das neueste Werk von ASIWYFA dadurch tatsächlich an, wie sich Heimkommen anfühlen sollte. Seine feste Verwurzelung mit seiner Basis hört man dem Kollektiv auf jeden Fall an.
 
