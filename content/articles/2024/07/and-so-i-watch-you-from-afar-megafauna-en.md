@@ -64,7 +64,7 @@ Here is what And So I Watch You From Afar member Rory Friers, said about the six
 
 > "Where 'Years Ago' retains some of the urgency that is across Megafauna, for me, it also presents another colour of the record - A kind of sensitivity. Underpinned by a nod to the old hip hop loops that we all grew up on."
 
-<YouTube id="9R3glhZ_NDE" />
+<YouTube id="C0zvNg8136w" />
 
 ## And So I Watch You From Afar -–"Megafauna" – This is how the album continues
 
