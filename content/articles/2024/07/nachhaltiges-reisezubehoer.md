@@ -19,6 +19,7 @@ labels:
   - Zero Waste
   - Zero Plastic
   - Nachhaltiges Reisezubhör
+  - pandoo
 language: de
 advertisement: true
 affiliate: true
