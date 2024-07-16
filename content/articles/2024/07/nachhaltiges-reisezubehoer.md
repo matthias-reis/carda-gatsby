@@ -73,7 +73,7 @@ Das [Mancala Bohnenspiel aus Bambus](https://t.adcell.com/p/click?promoId=376709
 
 Es wird in einer wunderschönen Bambusbox geliefert, die Euch auch als Spielfeld dient. Auf Bahnreisen kann nichts runterfallen und es macht einfach immer wieder Spaß, sich damit zu beschäftigen. Für mich ist es eine echte Alternative zu klassischen Gesellschaftsspielen oder den Karten, die wir sonst unterwegs immer dabeihaben. Ihr könnt es mit Kindern oder Erwachsenen spielen und durch das langlebige Material werdet Ihr lange etwas davon haben.
 
-Ihr spielt zu zweit. Ziel des Mancala-Spiels ist es, so viele der 48 Steine wie möglich in der Sammelgrube anzusammeln – ähnlich wie das Spiel, das man früher manchmal mit Murmeln oder Steinchen spielte. Ihr legt das Spielebrett längs zwischen Euch und füllt jede der sechs kleinen Gruppen pro Spielerseite mit jeweils 4 Steinchen. Nun arbeitet Ihr daran, so viele Steinchen wie möglich im jeweiligen Lager ("Mancala") zu sammeln.
+Ihr spielt zu zweit. Ziel des Mancala-Spiels ist es, so viele der 48 Steine wie möglich in der Sammelgrube anzusammeln – ähnlich wie das Spiel, das man früher manchmal mit Murmeln oder Steinchen spielte. Ihr legt das Spielebrett längs zwischen Euch und füllt jede der sechs kleinen Gruppen pro Spielerseite mit jeweils vier Steinchen. Nun arbeitet Ihr daran, so viele Steinchen wie möglich im jeweiligen Lager ("Mancala") zu sammeln.
 
 Langeweile kommt beim Mancala-Spielen keine auf. Ganz im Gegenteil – je länger Ihr Euch damit beschäftigt, umso mehr Spaß wird es Euch bringen. Und wer weiß: Vielleicht denkt Ihr Euch ja eine ganz eigene Spielvariante aus?
 
