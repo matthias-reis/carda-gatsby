@@ -87,6 +87,6 @@ Genau wie alles von pandoo ist auch das Gewürz-Set vollständig plastikfrei. Da
 
 ## Fazit: Nachhaltige und gut durchdachte Produkte
 
-Beim Sortiment aus dem pandoo Shop bekommt man das Gefühl, dass hier Menschen viel Wert darauf legen, wirklich nachhaltige Produkte anzubieten und dabei zu zeigen, dass es auch anders geht – ohne Plastik, langlebig und vegan. Wenn man hin und wieder mit dem Rucksack unterwegs ist, kennt man den Wunsch, das Gepäck so leicht wie möglich zu halten. Mit den Reiseutensilien von pandoo gelingt das wunderbar. Der Rucksack bleibt leicht, weil das Gepäck so gut durchdacht ist und der Kopf bleibt leicht, weil man auf sinnloses Plastik und anderen Schnickschnack verzichtet.
+Beim Sortiment aus dem pandoo Shop bekommt man das Gefühl, dass hier Menschen viel Wert darauf legen, wirklich nachhaltige Produkte anzubieten und dabei zu zeigen, dass es auch anders geht – ohne Plastik, langlebig und vegan. Wenn man hin und wieder mit dem Rucksack unterwegs ist, kennt man den Wunsch, das Gepäck so leicht wie möglich zu halten. Mit den Reiseutensilien von pandoo gelingt das wunderbar. Der Rucksack bleibt leicht, weil das Gepäck so gut durchdacht ist und der Kopf bleibt leicht, weil man auf sinnloses Plastik und anderen umweltschädlichen Schnickschnack verzichtet.
 
 <Gallery name="nachhaltiges-reisezubehoer-pandoo-soundsvegan.com-2" />
