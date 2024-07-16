@@ -83,7 +83,7 @@ Langeweile kommt beim Mancala-Spielen keine auf. Ganz im Gegenteil – je länge
 
 Etwas, wonach ich sehr lange gesucht habe, ist ein wirklich nachhaltiges Gewürzset für unterwegs, das ich immer wieder neu befüllen kann. Auf [Festivals](/tag/festivals), beim Camping und in Ferienwohnungen habe ich mich häufig darüber geärgert, dass ich am Ende doch immer wieder zu Wegwerfprodukten greifen musste. Das [Reise- und Camping Gewürz-Set mit Streuaufsatz](https://t.adcell.com/p/click?promoId=376709&slotId=80259&param0=https%3A%2F%2Fgopandoo.de%2Fproducts%2Fspice-travel-set) von pandoo war für mich die passende Lösung für dieses Problem. Es kommt schon befüllt bei Euch an und enthält neben Pfeffer und Salz auch noch Zimt, Curry und Paprika – der Zimtkaffee am Festivalmorgen ist also schon mal sicher. Mit dem praktischen Streuaufsatz könnt Ihr die Gewürze so dosieren, wie Ihr es am liebsten mögt.
 
-Genau wie alles von pandoo ist auch das Gewürz-Set komplett plastikfrei. Das rostfreie Alu könnt Ihr ganz einfach mit einer Bürste und etwas Seife spülen. Es macht einen überaus hochwertigen Eindruck und durch das Leichtmetall fällt es der Kofferwaage fast nicht auf.
+Genau wie alles von pandoo ist auch das Gewürz-Set vollständig plastikfrei. Das rostfreie Alu könnt Ihr ganz einfach mit einer Bürste und etwas Seife spülen. Es macht einen überaus hochwertigen Eindruck und durch das Leichtmetall fällt es der Kofferwaage fast nicht auf.
 
 ## Fazit: Nachhaltige und gut durchdachte Produkte
 
