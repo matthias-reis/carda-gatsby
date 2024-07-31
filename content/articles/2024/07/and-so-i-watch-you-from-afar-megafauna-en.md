@@ -16,6 +16,7 @@ labels:
   - Music
   - Band
   - Bands
+  - Pelagic
 language: en
 languageLink: /2024/07/and-so-i-watch-you-from-afar-megafauna
 image: https://storage.googleapis.com/cardamonchai-media/2024-07-12/and-so-i-watch-you-from-afar-megafauna-soundsvegan-com-1-jpg-imagine-d8d8d8_878787_1024_768/640.webp

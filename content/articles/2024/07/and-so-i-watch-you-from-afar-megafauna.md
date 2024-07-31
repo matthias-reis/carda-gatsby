@@ -16,6 +16,7 @@ labels:
   - Music
   - Band
   - Bands
+  - Pelagic
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-07-12/and-so-i-watch-you-from-afar-megafauna-soundsvegan-com-1-jpg-imagine-d8d8d8_878787_1024_768/640.webp
 seoTitle: 'And So I Watch You From Afar – "Megafauna" ist ein grandioses Album!'
