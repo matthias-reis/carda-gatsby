@@ -1,10 +1,10 @@
 ---
 date: 2024-07-29T11:00:06.561Z
-title: Nachhaltiges Trinkflaschen von ECOtanka
+title: Nachhaltige Trinkflaschen von ECOtanka
 subTitle: Vom Mini-Modell für unterwegs bis zur 2-Liter-Vorratsflasche
 type: article
 typeName: Produkttest
-description: Nachhaltiges Trinkflaschen sind ein entscheidenter Baustein im Kampf gegen die Plastikflut. Holt Euch jetzt alle Infos über die indualisierbaren Modelle von Ecotanka – für kalte und warme Getränke, für Sport, Freizeit und Job – Zero Waste und vegan natürlich!
+description: Nachhaltige Trinkflaschen sind ein entscheidenter Baustein im Kampf gegen die Plastikflut. Holt Euch jetzt alle Infos über die indualisierbaren Modelle von Ecotanka – für kalte und warme Getränke, für Sport, Freizeit und Job – Zero Waste und vegan natürlich!
 labels:
   - Veganes Reisezubehör
   - Vegan
@@ -32,7 +32,7 @@ seoTitle: Nachhaltige Trinkflaschen aus Edelstahl jetzt ausprobieren!
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-07-29/trinkflaschen-ecotanka-soundsvegan-com-og-jpg-imagine-082838_606668_1200_628/640.webp
 imageCopyright:
 languageLink:
-excerpt: Nachhaltiges Trinkflaschen sind ein entscheidenter Baustein im Kampf gegen die Plastikflut. Holt Euch jetzt alle Infos über die indualisierbaren Modelle von Ecotanka – für kalte und warme Getränke, für Sport, Freizeit und Job – Zero Waste und vegan natürlich! In diesem Artikel stelle ich Euch die beliebstesten Modelle der Marke Ecotanka vor und zeige Euch, was sie so besonders macht.
+excerpt: Nachhaltige Trinkflaschen sind ein entscheidenter Baustein im Kampf gegen die Plastikflut. Holt Euch jetzt alle Infos über die indualisierbaren Modelle von Ecotanka – für kalte und warme Getränke, für Sport, Freizeit und Job – Zero Waste und vegan natürlich! In diesem Artikel stelle ich Euch die beliebstesten Modelle der Marke Ecotanka vor und zeige Euch, was sie so besonders macht.
 focusKeyword: Nachhaltige Trinkflaschen
 ---
 
