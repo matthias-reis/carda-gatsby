@@ -89,7 +89,7 @@ Rory Friers äußerte sich gegenüber Pelagic zu zu "Megafauna":
 
 Neben dem ArcTanGent Festival in Bristol bereisen ASIWYFA dieses Jahr noch ein paar weitere Festivals. Für Großbritannien sind für den Winter auch schon ein paar Club-Konzerte angekündigt. Ich würde sagen: Stay tuned, wie es mit den Tourdaten weitergeht!
 
-[Mein Interview mit And So I Watch From Afar Bassis Ewen zum neuen Album "Megafauna" findet Ihr hier](/2024/08/and-so-i-watch-you-from-afar-interview/)!
+[Mein Interview mit And So I Watch From Afar Bassist Ewen zum neuen Album "Megafauna" findet Ihr hier](/2024/08/and-so-i-watch-you-from-afar-interview/)!
 
 Ihr könnt "[Megafauna](<](https://asiwyfa.bandcamp.com/album/megafauna)>)" von And So I Watch You From Afar auf Bandcamp vorbestellen.
 

@@ -89,7 +89,7 @@ Here is what Rory Friers said about "Megafauna":
 
 In addition to the ArcTanGent Festival in Bristol, ASIWYFA will be travelling to a few more festivals this year. A few club gigs have already been announced for the UK this winter. I'd say: Stay tuned to see what happens with the tour dates!
 
-The official release day for "Megafauna" is August 9th. [Check out my interview with ASIWYFA bassist Ewen here](/2024/08/and-so-i-watch-you-from-afar-interview-en/)!
+The official release day for "Megafauna" is August 9th. [Check out my interview with ASIWYFA bass player Ewen here](/2024/08/and-so-i-watch-you-from-afar-interview-en/)!
 
 You can pre-order "[Megafauna](<](https://asiwyfa.bandcamp.com/album/megafauna)>)" on Bandcamp.
 
