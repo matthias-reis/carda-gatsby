@@ -20,7 +20,7 @@ language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-08-02/they-re-trying-to-kill-us-filmtipp-soundsvegan-com-1-jpg-imagine-f8f8f8_d8d7d6_1024_768/640.webp
 seoTitle: '"They’re Trying to Kill Us" – Diese neue Food-Doku ist ein klares Must-see!'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-08-02/they-re-trying-to-kill-us-filmtipp-soundsvegan-com-og-jpg-imagine-f8f8f8_c8c7c7_1200_628/640.webp
-imageCopyright: They’re Trying to Kill Us
+imageCopyright: 'They’re Trying to Kill Us'
 languageLink:
 excerpt: '"They’re Trying to Kill Us" – die neue Food-Dokumentation könnt Ihr ab sofort kostenlos streamen. Es lohnt sich sehr, den Film anzuschauen. Er zeigt die Verbindung zwischen Ernährung und strukturellem Rassismus und deckt Fakten auf, die sprachlos machen und zum Handeln auffordern. Im Mittelpunkt der Doku stehen die Erlebnisse des in Fergusson, Missouri aufgewachsenen John Lewis. Die Ernährung seiner Kindheit war geprägt von hoch verarbeiteter, fleischreicher Kost.'
 focusKeyword: 'They’re Trying to Kill Us'
