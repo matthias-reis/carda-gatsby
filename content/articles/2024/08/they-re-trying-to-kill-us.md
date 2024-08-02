@@ -16,6 +16,11 @@ labels:
   - Antifaschismus & Feminismus
   - vegane Filme
   - They’re Trying to Kill Us
+  - Billie Eilish
+  - John Lewis
+  - Keegan Kuhn
+  - Ernährung & Gesundheit
+  - vegan
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-08-02/they-re-trying-to-kill-us-filmtipp-soundsvegan-com-1-jpg-imagine-f8f8f8_d8d7d6_1024_768/640.webp
 seoTitle: '"They’re Trying to Kill Us" – Diese neue Food-Doku ist ein klares Must-see!'
@@ -62,11 +67,13 @@ Die Dokumentation wird schon jetzt in den höchsten Tönen gelobt und als "Augen
 
 ## "'They're Trying to Kill Us' ist ein Must-see!"
 
-Mit zu dieser Aufklärung tragen im Film unter anderem Prominente wie die Musiker\*innen Ne-Yo und Mya sowie Unternehmer\*innen wie Pinky Cole, die Schauspielerin Tabitha Brown und Profi-Bodybuilder Torre Washington bei. Expert\*innen wie die veganen Mediziner\*innen Dr. Neil Barnard ([auf den sich unter anderem auch Moby beruft, mein Interview mit ihm findet Ihr hier](/2024/03/moby-always-centered-at-night-play-tour-album/)), Dr. Rosa Kincaid und Dr. Milton Mills informieren ganz nebenbei über die zahlreichen gesundheitlichen Vorteile der veganen Ernährungsweise. Insgesamt entsteht so ein spannendes, informatives Gesamtwerk, dass Ihr sehen solltet!
+Mit zu dieser Aufklärung tragen im Film unter anderem Prominente wie die Musiker\*innen Ne-Yo und Mya sowie Restaurantbetreiber\*innen wie Pinky Cole (Slutty Vegan), die Schauspielerin Tabitha Brown und Profi-Bodybuilder Torre Washington bei. Expert\*innen wie die veganen Mediziner\*innen Dr. Neil Barnard ([auf den sich unter anderem auch Moby beruft, mein Interview mit ihm findet Ihr hier](/2024/03/moby-always-centered-at-night-play-tour-album/)), Dr. Rosa Kincaid und Dr. Milton Mills informieren ganz nebenbei über die zahlreichen gesundheitlichen Vorteile der veganen Ernährungsweise. Insgesamt entsteht so ein spannendes, informatives Gesamtwerk, dass Ihr sehen solltet!
 
 [^1] [Factual America – "They're Trying to Kill Us: Diet, Poverty and Racism"](https://www.factualamerica.com/episodes/they-are-trying-to-kill-us-badass-vegan)
 
 [^2] [Plant Based News – "Groundbreaking Documentary 'They're Trying to Kill Us' Exposes The Link Between Diet And Racism"](https://plantbasednews.org/culture/film/theyre-trying-to-kill-us-documentary/)
+
+**Lesetipp:** Billie Eilishs Mutter Maggie Baird gründete Support + Feed. Die NGO, deren Teil u. a. auch Billie selbst und der Schauspieler und Vegan-Aktivist [Joaquin Phoenix](/tag/joaquin-phoenix) sind, verteilen vegane und gesunde Mahlzeiten an Bedürftige. [Lest hier alles über das Projekt](/2021/04/support-feed/).
 
 **Bilder/Pictures:** ["They're Trying to Kill Us"](https://www.theyretryingtokillus.com/product-page/they-re-trying-to-kill-us-dvd)
 
