@@ -21,7 +21,7 @@ labels:
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-08-01/and-so-i-watch-you-from-afar-interview-soundsvegan-com-jpg-imagine-181818_333333_1024_768/640.webp
 seoTitle: 'And So I Watch You From Afar – Interview zum neuen Album, "Megafauna"'
-ogImage: hhttps://storage.googleapis.com/cardamonchai-media/2024-08-01/and-so-i-watch-you-from-afar-interview-soundsvegan-com-og-jpg-imagine-181818_3a3a3a_1200_628/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2024-08-01/and-so-i-watch-you-from-afar-interview-soundsvegan-com-og-jpg-imagine-181818_3a3a3a_1200_628/640.webp
 imageCopyright: And So I Watch You From Afar
 languageLink: /2024/08/and-so-i-watch-you-from-afar-interview-en
 excerpt: Überraschung! Ich habe mich mit And So I Watch You From Afar Bassist Ewen Friers über das neue Album "Megafauna" unterhalten! Er hat mir einige Bandgeheimnisse verraten und wir haben uns ausführlich über das Zuhause der ASIWYFA Mitglieder, ihre Motivation, ihre Inspirationsquellen und ihren Antrieb unterhalten. Viel Freude mit dem Interview und der Platte! Übrigens lebt Ewen seit sieben Jahren vegan. Auch darüber haben wir uns unterhalten. Doch das nur als Sidenote.
