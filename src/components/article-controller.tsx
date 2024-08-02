@@ -115,6 +115,7 @@ export const query = graphql`
         ogImage
         image
         copyright
+        imageCopyright
       }
       id
       timeToRead

@@ -50,6 +50,7 @@ query AllPageQuery {
           affiliate
           image
           copyright
+          imageCopyright
         }
       }
     }
