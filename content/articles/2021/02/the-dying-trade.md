@@ -23,7 +23,11 @@ labels:
   - Tierrechte
   - Tierrechte
   - Tierrechtsfilm
-  - Vegane Filme
+  - Vegane Dokumentation
+  - Vegane Doku
+  - Food-Dokumentation
+  - Food-Doku
+  - vegane Filme
 language: de
 ---
 

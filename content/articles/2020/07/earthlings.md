@@ -1,8 +1,6 @@
 ---
 ogTitle: Earthlings - Der Film, der mein Leben veränderte
-excerpt: 2005 wurde ein Film veröffentlicht, der das Leben vieler Menschen für
-  immer veränderte. Joaquin Phoenix bekam für sein Mitwirken den Humanitarian
-  Award.
+excerpt: 2005 wurde ein Film veröffentlicht, der das Leben vieler Menschen für immer veränderte. Joaquin Phoenix bekam für sein Mitwirken den Humanitarian Award.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_earthlings-fb.png__l.jpg
 isAffiliate: false
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAACAACBQYH/8QAJxAAAQMDAwQBBQAAAAAAAAAAAQIDBAAFBhESQQcTITFRImGRobH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AKoGpA+aR+B3HLrC5EiXSxW9cQyW4ilIUUPN7l7Qr3ooej9wRRvpIY7mSbzi9qdcXGVMiymHHGn3e0HgjyUhz0lXIJ8f2gwywZ5kMqSmHbLWzbVyFR0IKApRSFFJWtZ9fPg8fk5kaEj3SmmZGi34lN3SI5luSnHVNsLK0sheqtm8gAkckUWKCrt+m1+TYbmozojku2qI7rbb/AG1A8EfUNaqqDZdTcyYvDKI1kgvQ7cvl57uLVpxpuO0fs15tVVQf/9k=
@@ -15,9 +13,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07
 title: '"Earthlings"'
 subTitle: Der Film, der mein Leben veränderte
 seoTitle: Earthlings - Der Film, der mein Leben veränderte
-description: 2005 wurde ein Film veröffentlicht, der das Leben vieler Menschen
-  für immer veränderte. Joaquin Phoenix bekam für sein Mitwirken den
-  Humanitarian Award.
+description: 2005 wurde ein Film veröffentlicht, der das Leben vieler Menschen für immer veränderte. Joaquin Phoenix bekam für sein Mitwirken den Humanitarian Award.
 labels:
   - Bücher & Filme
   - Dokumentation
@@ -34,11 +30,13 @@ labels:
   - Tierschutz
   - vegan
   - vegan celebrities
-  - vegane Dokumentation
-  - Vegane Filme
+  - Vegane Dokumentation
+  - Vegane Doku
+  - Food-Dokumentation
+  - Food-Doku
   - Watch Earthlings
+  - vegane Filme
 language: de
-
 ---
 
 **Der Film "Earthlings" hat mein Leben verändert. Seit ich ihn gesehen habe, habe ich eine andere Sicht auf die Welt. Dafür bin ich heute sehr dankbar.**

@@ -1,7 +1,6 @@
 ---
 ogTitle: '"A Life On Our Planet" - der neue Klimafilm von David Attenborough'
-excerpt: Der Naturforscher und Tierfilmer Sir David Attenborough ruft in seinem
-  neuen Film "A Life On Our Planet" die Menschen dazu auf, vegan zu leben.
+excerpt: Der Naturforscher und Tierfilmer Sir David Attenborough ruft in seinem neuen Film "A Life On Our Planet" die Menschen dazu auf, vegan zu leben.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_david-attenborough-fb.png__l.jpg
 isAffiliate: false
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgf/xAAqEAACAQMCBQQBBQAAAAAAAAABAgMABAURIQYSEyIxFEFRYZEHcYGCsf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBgL/xAAfEQABBAIDAQEAAAAAAAAAAAABAAIDEQQSISJBMVH/2gAMAwEAAhEDEQA/AOWIu1PggkuJ44IELyyMERR5JOwFJVwF1J2pdlk3tMhj7pgkVuswleUtqY40deZuX3O/it0a4VbkZEUAG5q1UzmHmw956a6eJpQNT0m5gP5/P4qPKvmtH+pOds7jiu7ljkDxSlmHTibWONCQGkG+hbub/dKk5Zbe2dLNI39XDGrXTs+oWRlDdMAbdoI1+DtQhc7Ub/Ups0bx1NqFlMibSFFROeWUlUHyfYfdPv7WKa1sMAJ1bKTqqTadxjPMHck+AAAT96Ciimj8U9nyukmO3l0lNmrSTiNVyKpHaRt05nA72j159NR7nkA/uabd8V3PFuTv8pkRGt7PJ1JBGgRdCNAQB+2/2aKKAd3COC4tl49X/9k=
@@ -14,9 +13,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08
 title: '"A Life On Our Planet"'
 subTitle: Sir David Attenborough ruft zum Veganismus auf
 seoTitle: '"A Life On Our Planet" - der neue Klimafilm von David Attenborough'
-description: Der Naturforscher und Tierfilmer Sir David Attenborough ruft in
-  seinem neuen Film "A Life On Our Planet" die Menschen dazu auf, vegan zu
-  leben.
+description: Der Naturforscher und Tierfilmer Sir David Attenborough ruft in seinem neuen Film "A Life On Our Planet" die Menschen dazu auf, vegan zu leben.
 labels:
   - A Life On Our Planet
   - Bücher & Filme
@@ -30,11 +27,13 @@ labels:
   - Tierhaltung
   - Tierrechte
   - Tierschutz
-  - vegane Doku
-  - vegane Dokumentation
+  - Vegane Dokumentation
+  - Vegane Doku
+  - Food-Dokumentation
+  - Food-Doku
   - Vegan Celebrities
+  - vegane Filme
 language: de
-
 ---
 
 **Der Naturforscher und Tierfilmer Sir David Attenborough ruft die Menschen dazu auf, ihre Ernährung umzustellen und vegan zu leben, um den Planeten zu retten.**

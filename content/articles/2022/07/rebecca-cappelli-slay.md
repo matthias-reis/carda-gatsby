@@ -26,6 +26,9 @@ labels:
   - Leder
   - Wolle
   - Pelz
+  - Vegane Dokumentation
+  - Vegane Doku
+  - vegane Filme
 focusKeyword: Tierquälerei in der Modeindustrie
 advertisement: false
 affiliate: false

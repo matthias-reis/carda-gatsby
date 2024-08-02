@@ -4,13 +4,8 @@ typeName: Filmtipp
 title: The Smell Of Money
 subTitle: Neuer Film von Kate Mara beleuchtet Schweinefleisch-Industrie
 seoTitle: The Smell Of Money – Dokumentation zeigt Schweinefleisch-Industrie
-description: Kate Maras neuer Film "The Smell Of Money" beschäftigt sich mit den
-  schädlichen Auswirkungen der Schweinefleisch-Industrie auf die Umwelt und
-  unsere Gesundheit.
-excerpt: Kate Mara hat ihren neuen Film "The Smell Of Money" gerade auf dem
-  Sarasota Film Festival vorgestellt. Die Dokumentation beschäftigt sich mit den
-  schädlichen Auswirkungen der Schweinefleisch-Industrie auf die Umwelt und
-  unsere Gesundheit.
+description: Kate Maras neuer Film "The Smell Of Money" beschäftigt sich mit den schädlichen Auswirkungen der Schweinefleisch-Industrie auf die Umwelt und unsere Gesundheit.
+excerpt: Kate Mara hat ihren neuen Film "The Smell Of Money" gerade auf dem Sarasota Film Festival vorgestellt. Die Dokumentation beschäftigt sich mit den schädlichen Auswirkungen der Schweinefleisch-Industrie auf die Umwelt und unsere Gesundheit.
 image: https://storage.googleapis.com/cardamonchai-media/2022-05-17/the-smell-of-money-jpg-imagine-e8b8b8_79726b_1024_768/640.webp
 copyright: The Smell Of Money
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-05-17/the-smell-of-money-fb-jpg-imagine-e8b8b8_7a726b_1200_628/640.webp
@@ -25,11 +20,13 @@ labels:
   - Tierrechte
   - Klima- & Umweltschutz
   - Ernährung & Gesundheit
+  - Vegane Dokumentation
+  - Vegane Doku
+  - vegane Filme
 focusKeyword: Schweinefleisch-Industrie
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Kate Mara hat ihren neuen Film "The Smell Of Money" gerade auf dem Sarasota Film Festival vorgestellt. Die Dokumentation beschäftigt sich mit den schädlichen Auswirkungen der Schweinefleisch-Industrie auf die Umwelt und unsere Gesundheit.**

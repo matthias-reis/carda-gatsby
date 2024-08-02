@@ -4,12 +4,8 @@ typeName: Filmtipp
 title: '"You Are What You Eat"'
 subTitle: Neue vegane Food-Doku um Zwillings-Studie deckt Erstaunliches auf
 seoTitle: '"You Are What You Eat" – die neue vegane Food-Doku'
-description: '"You Are What You Eat" ist die erste sensationelle vegane
-  Food-Doku des Jahres 2024. Holt Euch jetzt hier alle wichtigen Insights!'
-excerpt: '"You Are What You Eat" heißt die neue Food-Doku zum Thema Veganismus.
-  Holt Euch jetzt hier alle Infos und erfahrt, warum Ihr sie auf jeden Fall
-  streamen solltet! Sie überzeugt nicht nur mit medinischen Insights sondern
-  auch mit Stimmen aus der Lebensmittelindustrie und der Weltbevölkerung.'
+description: '"You Are What You Eat" ist die erste sensationelle vegane Food-Doku des Jahres 2024. Holt Euch jetzt hier alle wichtigen Insights!'
+excerpt: '"You Are What You Eat" heißt die neue Food-Doku zum Thema Veganismus. Holt Euch jetzt hier alle Infos und erfahrt, warum Ihr sie auf jeden Fall streamen solltet! Sie überzeugt nicht nur mit medinischen Insights sondern auch mit Stimmen aus der Lebensmittelindustrie und der Weltbevölkerung.'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-17/you-are-what-you-eat-jpg-imagine-f8b868_ba9c70_1024_768/640.webp
 copyright: Netflix
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-17/you-are-what-you-eat-og-jpg-imagine-f8b868_cba76d_1200_628/640.webp
@@ -19,16 +15,18 @@ labels:
   - Film
   - Bücher & Filme
   - Vegan Celebrities
-  - vegane Filme
-  - Veganismus Filme
+  - Vegane Dokumentation
+  - Vegane Doku
+  - Food-Dokumentation
+  - Food-Doku
   - Food-Doku
   - Studie
   - Forschung
+  - vegane Filme
 focusKeyword: Your Are What You Eat
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Die neue Food-Dokumentation "You Are What You Eat" bekommt auf Netflix derzeit unzählige Hits. Gleich zu Beginn des Jahres zeigt der Streamingdienst, der schon wichtige Filme wie "Cowspiray", "Seaspiracy" und "Poisoned" und "What The Health" für ein breiteres Publikum verfügbar gemacht hat, in Form der Serie neue Einblicke in unsere Ernährungsgewohnheiten und wie wir unser Leben damit beeinflussen.**

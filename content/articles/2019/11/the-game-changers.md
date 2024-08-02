@@ -5,10 +5,8 @@ typeName: Filmtipp
 title: '"The Game Changers"'
 seoTitle: Filmtipp - "The Game Changers"
 ogTitle: Filmtipp - "The Game Changers"
-description: Am 16. September erschien eine ganz besondere Dokumentation. "The
-  Game Changers" sollte meiner Meinung nach jede*r mal gesehen haben.
-excerpt: Am 16. September erschien eine ganz besondere Dokumentation. "The Game
-  Changers" sollte meiner Meinung nach jede*r mal gesehen haben.
+description: Am 16. September erschien eine ganz besondere Dokumentation. "The Game Changers" sollte meiner Meinung nach jede*r mal gesehen haben.
+excerpt: Am 16. September erschien eine ganz besondere Dokumentation. "The Game Changers" sollte meiner Meinung nach jede*r mal gesehen haben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_the-game-changers.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_the-game-changers.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,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
@@ -33,17 +31,20 @@ labels:
   - vegan power
   - vegane Dokumentationen
   - vegane Ernährung
-  - Vegane Filme
+  - Vegane Dokumentation
+  - Vegane Doku
+  - Food-Dokumentation
+  - Food-Doku
   - vegane Schauspieler
   - vegane Sportler
   - vegane Stars
   - veganes Protein
+  - vegane Filme
 focusKeyword: The Game Changers
 isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Ein Film über vegane Atleth*innen
-
 ---
 
 **Am 16. September erschien eine ganz besondere Dokumentation. "The Game Changers" sollte meiner Meinung nach jede\*r mal gesehen haben.**

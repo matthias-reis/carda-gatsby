@@ -3,17 +3,9 @@ date: 2024-04-09T08:15:12.086Z
 typeName: Filmtipp
 title: Food For Profit
 subTitle: Tierrechtsdoku zeigt Zusammenhänge von Fleischindustrie und Lobbys in Europa
-seoTitle: '"Food For Profit" – Tierrechtsdoku zeigt Zusammenhänge zwischen
-  Fleischindustrie und Lobby'
-description: '"Food For Profit" ist eine Tierrechtsdoku, die Europa vollständig
-  auf den Kopf stellen wird. Sie deckt das Spiel von Lobby und Fleischindustrie
-  auf. Holt Euch hier alle Infos.'
-excerpt: Die neue Tierrechtsdoku "Food For Profit" bringt schockierende
-  Verbindungen zwischen der Fleischindustrie und den Lobbys im Europäischen
-  Parlament ans Tageslicht. Der Film zeigt, welche Macht hinter diesen Systemen
-  steckt und wie sehr sie unser Leben und unseren Umgang mit Fleisch & Co.
-  beeinflussen. In diesem Artikel teile ich alle bisher bekannten Details zur
-  Dokumentation mit Euch.
+seoTitle: '"Food For Profit" – Tierrechtsdoku zeigt Zusammenhänge zwischen Fleischindustrie und Lobby'
+description: '"Food For Profit" ist eine Tierrechtsdoku, die Europa vollständig auf den Kopf stellen wird. Sie deckt das Spiel von Lobby und Fleischindustrie auf. Holt Euch hier alle Infos.'
+excerpt: Die neue Tierrechtsdoku "Food For Profit" bringt schockierende Verbindungen zwischen der Fleischindustrie und den Lobbys im Europäischen Parlament ans Tageslicht. Der Film zeigt, welche Macht hinter diesen Systemen steckt und wie sehr sie unser Leben und unseren Umgang mit Fleisch & Co. beeinflussen. In diesem Artikel teile ich alle bisher bekannten Details zur Dokumentation mit Euch.
 image: https://storage.googleapis.com/cardamonchai-media/2024-04-09/food-for-profit-soundsvegan-com-jpg-imagine-080808_554746_1024_768/640.webp
 copyright: Food For Profit
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-04-09/food-for-profit-soundsvegan-com-og-jpg-imagine-080808_594745_1200_628/640.webpp
@@ -21,17 +13,18 @@ labels:
   - Film
   - Filmtipp
   - Ernährung & Gesundheit
-  - veganer Film
   - vegan
-  - vegane Doku
-  - vegane Dokumentation
+  - Vegane Dokumentation
+  - Vegane Doku
+  - Food-Dokumentation
+  - Food-Doku
   - Food For Profit
   - Tierrechte
+  - vegane Filme
 focusKeyword: Food For Profit
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **"Food For Profit" ist eine neue Food-Dokumentation, die schockierende Verbindungen ans Tageslicht befördert – die zwischen der Fleischindustrie und den in Europa aktiven Lobbys. Im Film wird klar, welche Macht hinter diesen Systemen steckt und wie sehr sie unser Leben beeinflussen. In diesem Artikel findet Ihr neben dem Trailer einige interessante Details zur Doku.**

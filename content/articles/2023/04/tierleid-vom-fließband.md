@@ -4,14 +4,8 @@ typeName: Filmtipp
 title: '"Tierleid vom Fließband"'
 subTitle: Greift die Tierrechtsdoku zu kurz?
 seoTitle: '"Tierleid vom Fließband" – Alles über die Tierrechtsdoku'
-description: 'Die Tierrechtsdoku: "Tierleid vom Fließband" zeigt, wie es den
-  Tieren in der Massentierhaltung ergeht. Erfahrt jetzt alles über den Film und
-  was Animal Equality davon hält!'
-excerpt: 'In der Mediathek des Fernsehsenders ARTE gibt es seit Kurzem die
-  Tierrechtsdoku: "Tierleid vom Fließband". Im Film geht es darum, dass weltweit
-  jährlich 70 Milliarden Tiere für den Verzehr geschlachtet werden – und wie es
-  ihnen ergeht. Die Tierrechtsorganisation Animal Equality freut sich über die
-  Dokumentation und warnt zugleich davor, dass sie zu kurz greift.'
+description: 'Die Tierrechtsdoku: "Tierleid vom Fließband" zeigt, wie es den Tieren in der Massentierhaltung ergeht. Erfahrt jetzt alles über den Film und was Animal Equality davon hält!'
+excerpt: 'In der Mediathek des Fernsehsenders ARTE gibt es seit Kurzem die Tierrechtsdoku: "Tierleid vom Fließband". Im Film geht es darum, dass weltweit jährlich 70 Milliarden Tiere für den Verzehr geschlachtet werden – und wie es ihnen ergeht. Die Tierrechtsorganisation Animal Equality freut sich über die Dokumentation und warnt zugleich davor, dass sie zu kurz greift.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-04-26/tierleid-vom-fliessband-arte-jpg-imagine-888888_9a9390_1024_768/640.webp
 copyright: ARTE France
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-04-26/tierleid-vom-fliessband-arte-og-jpg-imagine-888888_938c8a_1200_628/640.webp
@@ -22,11 +16,15 @@ labels:
   - Animal Equality
   - Tierrechte
   - Bücher & Filme
+  - vegane Filme
+  - vegane Doku
+  - vegane Dokumentation
+  - Food-Doku
+  - Food-Dokumentation
 focusKeyword: Tierleid vom Fließband
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **In der Mediathek des Fernsehsenders ARTE gibt es seit Kurzem eine neue Tierrechtsdoku: "Tierleid vom Fließband". Im Film geht es darum, dass weltweit jährlich 70 Milliarden Tiere für den Verzehr geschlachtet werden – und wie es den 80 Prozent davon ergeht, die in der Massentierhaltung aufgezogen werden. Die Tierrechtsorganisation Animal Equality freut sich über eine Dokumentation dieser Art im Fernsehen. Sie warnt jedoch auch davor, dass sie zu kurz greift.**

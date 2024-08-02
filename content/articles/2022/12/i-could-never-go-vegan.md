@@ -4,13 +4,8 @@ typeName: Filmtipp
 title: '"Ich könnte niemals vegan leben"'
 subTitle: 'Neue Doku: "I Could Never Go Vegan"'
 seoTitle: Argumente gegen Veganismus – "I Could Never Go Vegan"
-description: Auf der Suche nach Argumenten gegen Veganismus? Oder auf Antworten
-  darauf? Dann solltet Ihr diesen Film nicht verpassen!
-excerpt: 'Die neue Doku "I Could Never Go Vegan" ("Ich könnte niemals vegan
-  leben") beleuchtet den Veganismus aus einem anderen Blickwinkel: dem der
-  Zweifelnden. Die beiden Brüder Thomas und James Pickering haben sich die
-  Gegenargumente mal im Detail angesehen. Sie haben ihren Film für den 26.
-  Dezember angekündigt.'
+description: Auf der Suche nach Argumenten gegen Veganismus? Oder auf Antworten darauf? Dann solltet Ihr diesen Film nicht verpassen!
+excerpt: 'Die neue Doku "I Could Never Go Vegan" ("Ich könnte niemals vegan leben") beleuchtet den Veganismus aus einem anderen Blickwinkel: dem der Zweifelnden. Die beiden Brüder Thomas und James Pickering haben sich die Gegenargumente mal im Detail angesehen. Sie haben ihren Film für den 26. Dezember angekündigt.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-12-05/i-could-never-go-vegan-jpg-imagine-080808_6c4836_1024_768/640.webp
 copyright: I Could Never Go Vegan Ltd.
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-12-05/i-could-never-go-vegan-fb-jpg-imagine-080808_6e483b_1200_628/640.webp
@@ -25,11 +20,15 @@ labels:
   - Veganismus
   - Ernährung & Gesundheit
   - Klima- & Umweltschutz
+  - Vegane Dokumentation
+  - Vegane Doku
+  - Food-Dokumentation
+  - Food-Doku
+  - vegane Filme
 focusKeyword: Argumente gegen Veganismus
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Die neue Doku "I Could Never Go Vegan" ("Ich könnte niemals vegan leben") beleuchtet den Veganismus aus einem anderen Blickwinkel: dem der Zweifelnden. Die beiden Brüder Thomas und James Pickering haben sich die Gegenargumente mal im Detail angesehen. Sie haben ihren Film für den 26. Dezember angekündigt.**

@@ -1,8 +1,6 @@
 ---
 ogTitle: '"The End Of Medicine" - Neuer Film von Rooney Mara & Joaquin Phoenix'
-excerpt: Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet
-  derzeit an einem neuen Film zum Thema Massentierhaltung. Die Regie führt Alex
-  Lockwood.
+excerpt: Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet derzeit an einem neuen Film zum Thema Massentierhaltung. Die Regie führt Alex Lockwood.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_08_rooney-mara-joaquin-phoenix-fb.png__l.jpg
 isAffiliate: false
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAArEAABAwIFAgYCAwAAAAAAAAABAgMEBREABhIhMQcTFBUWIlFhMkEjcYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBgME/8QAIhEAAQMEAgIDAAAAAAAAAAAAAQACAwQRIUESEzFxUYGx/9oADAMBAAIRAxEAPwDO6B0GgLyzMlTe2xKkuaPEKDRUUm/tT3NgNjsN/wB/FkPr7l+m0upR5FIlOSEuFTbgU6hzRbgXTx/R4xvZNkTZFJ8s9PQ5kVua4tlE9gJDardz2KP3qG3ItxhX6rTJJiMxJFEgU5+S6qYpMNI3v7iVEHf8tgeBjhYX9oSJiiFOXC11V4WRaRmmnuu1XND9Os74duLHcQgFem9nLi6iRwNhb5xMKuz6N6itUOOJBgv9tHcfdKy+FCyVgcCx22+CMX/J0iGKDNanU2GYjbgdXIe7YQpwcFd1aiQLW2tiedXqlOfjteSUmNNmT1JInhsam22lpWkIB20lX7P39YxiI4BuiEvWPlFe6QE3DsWybA+LelwFKqkfpTFzKl8PwZE9SFwC2A4+sqDDS2nLbKBBGnghRNrjCNn+nzaHWYFPqbSI1QhRAXW0K1BCnFrVzc3OjQP84HGDBhQNHPltS5eerr0mWnzWp2eIEZ6ImbJDYEWMAP5XlHULk7JSAm5UeB88YZerT2ZKLWKfJrQpTlHfdTGtFQpK4qlDYlSvyG3Ow24GDBgxkbSGg/Cpq2pkbWmQHLT+Hf1j0v/Z
@@ -15,9 +13,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08
 title: '"The End Of Medicine"'
 subTitle: Neuer Tierrechts-Film von Rooney Mara und Joaquin Phoenix
 seoTitle: '"The End Of Medicine" - Neuer Film von Rooney Mara & Joaquin Phoenix'
-description: Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet
-  derzeit an einem neuen Film zum Thema Massentierhaltung. Die Regie führt Alex
-  Lockwood.
+description: Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet derzeit an einem neuen Film zum Thema Massentierhaltung. Die Regie führt Alex Lockwood.
 labels:
   - Alex Lockwood
   - Bücher & Filme
@@ -28,10 +24,13 @@ labels:
   - Tierrechte
   - Tierschutz
   - vegan celebrities
-  - vegane Dokumentation
+  - Vegane Dokumentation
+  - Vegane Doku
+  - Food-Dokumentation
+  - Food-Doku
   - Zoonosen
+  - vegane Filme
 language: de
-
 ---
 
 **Das vegane Hollywood-Paar Joaquin Phoenix und Rooney Mara arbeitet derzeit an einem neuen Film zum Thema Massentierhaltung. Die Regie führt Alex Lockwood, der unter anderem durch seinen dokumentarischen Kurzfilm "73 Cows" bekannt wurde. Ihm wurde dafür der BAFTA Award für den besten Kurzfilm verliehen.**

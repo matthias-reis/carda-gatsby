@@ -4,14 +4,8 @@ typeName: Filmtipp
 title: '"Milked" ab sofort kostenlos streamen'
 subTitle: Neue Dokumentation zeigt "White Washing" der Milchindustrie
 seoTitle: Doku "Milked" zeigt "White Washing" der Milchindustrie
-description: Ursula von der Leyen, bitte tun sie was! – Amy Taylor und Chris
-  Huriwai fordern die EU auf, den Milchviehbestand um 25 % zu reduzieren. Mit
-  "Milked" kämpfen sie gegen die verheerendenn Auswirkungen der Milchwirtschaft.
-excerpt: '"Ursula von der Leyen, bitte tun sie etwas!" – Die Filmemacher*innen
-  Amy Taylor und Chris Huriwai fordern die EU auf, ihren Milchviehbestand bis
-  2025 um 25 Prozent zu reduzieren. Ihre neue Dokumentation "Milked – White Lies
-  in Diary Land" ist Teil einer koordinierten Kampagne zur Verringerung der
-  weltweiten, verheerenden  Auswirkungen der Milchwirtschaft.'
+description: Ursula von der Leyen, bitte tun sie was! – Amy Taylor und Chris Huriwai fordern die EU auf, den Milchviehbestand um 25 % zu reduzieren. Mit "Milked" kämpfen sie gegen die verheerendenn Auswirkungen der Milchwirtschaft.
+excerpt: '"Ursula von der Leyen, bitte tun sie etwas!" – Die Filmemacher*innen Amy Taylor und Chris Huriwai fordern die EU auf, ihren Milchviehbestand bis 2025 um 25 Prozent zu reduzieren. Ihre neue Dokumentation "Milked – White Lies in Diary Land" ist Teil einer koordinierten Kampagne zur Verringerung der weltweiten, verheerenden  Auswirkungen der Milchwirtschaft.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-03-30/milked-jpg-imagine-080808_3b3b5d_1024_768/640.webp
 copyright: milked.film
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-03-30/milked-fb-png-imagine-080808_545383_1200_628/640.webp
@@ -41,7 +35,6 @@ focusKeyword: Milked – White Lies in Diary Land
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Die neue Lebensmittel-Dokumentation "Milked – White Lies in Diary Land" begleitet den jungen Aktivisten Chris Huriwai auf seinen Nachforschungen in der Milchindustrie. Bei Besuchen in einigen der größten Betriebe Neuseelands deckt er die dunkle Seite der Milchprodukte-Herstellung auf.**

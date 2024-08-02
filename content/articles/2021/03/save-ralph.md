@@ -1,10 +1,6 @@
 ---
 ogTitle: Save Ralph – Ricky Gervais und Zac Efron in Film über Tierversuche
-excerpt: '"Save Ralph" ist ein Stop-Motion-Kurzfilm. Die Regie führte Spencer
-  Susser, aus dessen Feder auch die Story stammt. Auch Ricky Gervais und Zac
-  Efron sind im neuen Film zum Thema Tierversuche dabei. "Save Ralf" ist Teil
-  einer Kampagne der Humane Society International, die sich für ein weltweites
-  Verbot von Tierversuchen einsetzt.'
+excerpt: '"Save Ralph" ist ein Stop-Motion-Kurzfilm. Die Regie führte Spencer Susser, aus dessen Feder auch die Story stammt. Auch Ricky Gervais und Zac Efron sind im neuen Film zum Thema Tierversuche dabei. "Save Ralf" ist Teil einer Kampagne der Humane Society International, die sich für ein weltweites Verbot von Tierversuchen einsetzt.'
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_03_save-ralph-fb.png__l.jpg
 isAffiliate: false
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKRAAAgEDAwMEAQUAAAAAAAAAAQIDBAURAAYhEhMiFTFBQnEHMlFhgf/EABkBAAEFAAAAAAAAAAAAAAAAAAMBAgQFBv/EACARAAICAQMFAAAAAAAAAAAAAAECABEDBFGxITFhgeH/2gAMAwEAAhEDEQA/AKkGxp6OzRzGOk82K55LDH+aS75ThZBTYjV+oAFj0gkke5+Bpg3beble7JS2qOz0lAsIDPL2BFKGyDjqDkEYC88Hk8aU4LIUWJq2MZSTNQWmBURgj9vOc4znOszj0zI1s1+vsvBvNm82WO12Crr56V5GiZQrpIxjPUwVVzj3Iyecex1Fsa01W5rtDbqe2xxS1EnaWSdmVUJVmzyuTwhOmC1VlnvdBerQ1QshliZY1FQe5UfYYPt4uEOfgZ/nV79F5LdaN9W8LJ0L3V7zTSgr3OzKvi2cYBk/JyNS2xJQB8cxMeVjZAvvxEivqKiZGV3hlncnpKsvTxyCf71mV0tZHTTS1ENOI8fVgc50aNOVQCBAMxMw9mVaJuCkhiiIMriCRpXBVQT9cjg8AZ/I+ddIo9o2r1uvt8lPtqsucWauWL1SWIIgHkg8eluT1YzkYx7DRo0fUWDY2gcbEL0n/9k=
@@ -17,8 +13,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03
 title: '"Save Ralph"'
 subTitle: Ricky Gervais und Zac Efron in Film über Tierversuche
 seoTitle: Save Ralph – Ricky Gervais und Zac Efron in Film über Tierversuche
-description: '"Save Ralph" ist ein Stop-Motion-Kurzfilm zum Thema Tierversuche.
-  Ricky Gervais und Zac Efron sind Teil des Casts.'
+description: '"Save Ralph" ist ein Stop-Motion-Kurzfilm zum Thema Tierversuche. Ricky Gervais und Zac Efron sind Teil des Casts.'
 labels:
   - Bücher & Filme
   - Cruelty Free
@@ -31,12 +26,13 @@ labels:
   - Tierversuche
   - vegan beauty
   - vegan celebrities
-  - vegane Doku
-  - vegane Dokumentation
-  - vegane Dokumentationen
+  - Vegane Dokumentation
+  - Vegane Doku
+  - Food-Dokumentation
+  - Food-Doku
   - Zac Efron
+  - vegane Filme
 language: de
-
 ---
 
 **"Save Ralph" ist ein Stop-Motion-Kurzfilm. Die Regie führte Spencer Susser, aus dessen Feder auch die Story stammt. Auch Ricky Gervais und Zac Efron sind im neuen Film zum Thema Tierversuche dabei.**

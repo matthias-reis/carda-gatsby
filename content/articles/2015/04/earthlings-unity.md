@@ -1,7 +1,6 @@
 ---
 ogTitle: Earthlings Unity - der neue Film von Shaun Monson
-excerpt: Der neue Film von Shaun Monson "Earthlings Unity" knüpft dort an, wo
-  der erste Teil des Films "Earthlings" von 2005 aufhört.
+excerpt: Der neue Film von Shaun Monson "Earthlings Unity" knüpft dort an, wo der erste Teil des Films "Earthlings" von 2005 aufhört.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_02_movie-header-fb.png__l.jpg
 isAffiliate: false
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAMF/8QALBAAAgIBAwIEBAcAAAAAAAAAAQIDBBEABTESIQYTYXEzUXKxFCJBgZHR8P/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAgEDESH/2gAMAwEAAhEDEQA/AJZN8GT6G+x0k1SxUNHYZWIx2AHy+Z1RJaKybFDu1OdLW3Tq2HA6WXBKnqU9wMgjPGlOqYDF58MMK117eY7AE+w/vGutcaYecOdDw/uO9TpBQimuWHwiKjrk8/799UCCtagp09rievtkl+uZF3JpEMwlibDwqjMBxycj35BXqd2vtNdN1kiobhV6ypgitSwWEA79asmBkehPtr0NtvCqySPBFfVXeaH8evnNH184J9PTnvzpZGYROmzxAYtvseIre6VY4LFhUoU2gsmcPCqkdbgZwT0p3wByOkcmdwwVUjis0pC8gP54JI8qjfoQQe/8aNGlZXMG4F3kkeRVV2HfpTpHGOMDT1B8CL6F+w0aNSwKf//Z
@@ -14,8 +13,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02
 title: Earthlings Unity
 subTitle: Der neue Film von Shaun Monson
 seoTitle: Earthlings Unity - der neue Film von Shaun Monson
-description: Der neue Film von Shaun Monson "Earthlings Unity" knüpft dort an,
-  wo der erste Teil des Films "Earthlings" von 2005 aufhört.
+description: Der neue Film von Shaun Monson "Earthlings Unity" knüpft dort an, wo der erste Teil des Films "Earthlings" von 2005 aufhört.
 labels:
   - Adam Levine
   - Ben Kingsley
@@ -31,8 +29,12 @@ labels:
   - Tierrechte
   - Tony Hawk
   - Watch Earthlings
+  - Vegane Dokumentation
+  - Vegane Doku
+  - Food-Dokumentation
+  - Food-Doku
+  - vegane Filme
 language: de
-
 ---
 
 **Shaun Monson hat seinen neuen Dokumentarfilm "Earthlings Unity" nicht nur produziert, er hat auch selbst Regie geführt. Das Werk knüpft dort an, wo Monsons erster Film "Earthlings" von 2005 aufhört.**

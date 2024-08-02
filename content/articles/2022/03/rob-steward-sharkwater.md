@@ -18,6 +18,9 @@ labels:
   - Klima & Umweltschutz
   - Meer
   - Meeresschutz
+  - Vegane Dokumentation
+  - Vegane Doku
+  - vegane Filme
 focusKeyword: Rob Steward
 advertisement: false
 affiliate: false
